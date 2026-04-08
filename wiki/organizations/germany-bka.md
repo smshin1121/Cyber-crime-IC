@@ -1,0 +1,160 @@
+---
+type: organization
+title: "Bundeskriminalamt (BKA)"
+official_name: "Bundeskriminalamt"
+official_name_ko: "독일 연방형사경찰청"
+aliases: ["BKA", "German Federal Criminal Police Office", "Federal Criminal Police"]
+org_type: "national-agency"
+parent_org: "[[germany-bmi]]"
+country: "[[germany]]"
+headquarters: "Wiesbaden, Germany"
+established: "1951-03-08"
+mandate: "Germany's federal criminal police; investigates serious and organized crime with international dimensions; serves as INTERPOL NCB Germany and central Europol contact."
+member_states: 0
+key_roles:
+  - "INTERPOL NCB Germany"
+  - "Central Europol National Unit"
+  - "Federal cybercrime investigation"
+  - "International cooperation coordination for German law enforcement"
+  - "Criminal intelligence and analysis"
+  - "Digital forensics"
+cooperation_partners:
+  - "[[europol-ec3]]"
+  - "[[interpol-igci]]"
+  - "[[fbi-cyber-division]]"
+  - "[[uk-nca]]"
+  - "[[netherlands-politie]]"
+frameworks_administered: []
+mechanisms_operated: []
+operations_participated:
+  - "[[operation-avalanche]]"
+  - "[[operation-endgame-phase1]]"
+  - "[[operation-endgame-phase2]]"
+  - "[[operation-cronos-phase1]]"
+  - "[[operation-cronos-phase3]]"
+  - "[[phobos-8base-crackdown]]"
+  - "[[qakbot-gallyamov-indictment]]"
+  - "[[hive-ransomware-takedown]]"
+  - "[[andromeda-botnet-takedown]]"
+notable_cases: []
+contact_point_for:
+  - network: "[[24-7-network]]"
+    role: "Budapest Convention Art. 35 contact point (Germany)"
+  - network: "[[europol-siena]]"
+    role: "Europol National Unit"
+source_count: 0
+sources: []
+created: 2026-04-08
+updated: 2026-04-08
+---
+
+## Summary
+
+The **Bundeskriminalamt (BKA)** is Germany's federal criminal police, headquartered in Wiesbaden. It serves as **INTERPOL NCB Germany** and as Germany's **central Europol National Unit**, making it the primary coordination point for all international law enforcement cooperation involving Germany.
+
+In partnership with the **Zentralstelle zur Bekämpfung der Internetkriminalität (ZIT)** in Frankfurt, the BKA has led or co-led some of the most significant international cybercrime operations, including [[operation-avalanche|Operation Avalanche]] (2016), [[operation-endgame-phase1|Operation Endgame Phase 1]] (2024), and [[operation-endgame-phase2|Operation Endgame Phase 2]] (2025). The BKA is *almost certainly* the most operationally active law enforcement agency in continental Europe for cybercrime takedowns.
+
+## Mandate and Authority
+
+The BKA operates under the **Bundeskriminalamtgesetz (BKAG)** — the Federal Criminal Police Office Act. Key functions:
+
+- **International cooperation:** Central point of contact for INTERPOL, Europol, and bilateral cooperation
+- **Serious and organized crime investigation:** Including cybercrime with cross-border dimensions
+- **Federal investigation mandate:** Assumes jurisdiction when crimes have international significance or cross state (Land) boundaries
+- **Criminal intelligence:** Maintains national criminal databases and analytical systems
+- **Protection of federal constitutional organs:** VIP protection duties
+
+The BKA coordinates with Germany's 16 **Landeskriminalämter (LKAs)** — state criminal police offices — which handle cybercrime at the state level.
+
+## Structure Relevant to Cybercrime IC
+
+### Cybercrime Division (Abteilung Cybercrime, CC)
+- Dedicated cybercrime investigation unit
+- Handles ransomware, botnet, dark web marketplace investigations
+- Technical analysis and digital forensics
+- Cryptocurrency tracing and financial crime analysis
+
+### International Cooperation Division
+- INTERPOL NCB operations
+- Europol National Unit functions
+- Bilateral cooperation coordination
+- Incoming/outgoing MLA operational support
+
+### Partnership with ZIT Frankfurt
+The BKA works closely with the **Zentralstelle zur Bekämpfung der Internetkriminalität (ZIT)** — the Central Office for Combating Internet Crime — based at the Generalstaatsanwaltschaft Frankfurt. The BKA-ZIT partnership is the investigative-prosecutorial team behind Germany's major cybercrime operations:
+- BKA conducts the investigation
+- ZIT handles prosecution and judicial coordination
+- Joint operational planning for takedowns
+
+## IC Capabilities
+
+- **Europol integration:** BKA officers co-located at Europol; direct SIENA access; frequent JIT participation
+- **INTERPOL NCB:** I-24/7 access; Red Notice coordination; operational meeting participation
+- **Digital forensics lab:** Advanced capabilities for malware analysis, network forensics, cryptocurrency tracing
+- **Infrastructure seizure capacity:** Proven ability to seize and manage criminal infrastructure during takedowns
+- **Multilingual capability:** High English proficiency across cybercrime unit
+
+## Key Operations and Cases
+
+| Operation | Year | BKA Role | Results |
+|-----------|------|----------|---------|
+| [[operation-avalanche]] | 2016 | Co-lead with ZIT | 39 servers seized; 50+ countries; 5 arrests |
+| [[operation-endgame-phase1]] | 2024 | Lead with ZIT | 100+ servers, 2,000+ domains, 4 arrests |
+| [[operation-endgame-phase2]] | 2025 | Lead with ZIT | 300 servers, 650 domains, EUR 3.5M seized |
+| [[operation-cronos-phase1]] | 2024 | Key participant | LockBit infrastructure seized |
+| [[operation-cronos-phase3]] | 2024 | Key participant | 4 additional LockBit arrests |
+| [[phobos-8base-crackdown]] | 2025 | Key participant | 4 arrests of 8Base leadership |
+| [[hive-ransomware-takedown]] | 2023 | Key participant | Hive infrastructure infiltrated |
+| [[andromeda-botnet-takedown]] | 2017 | Co-lead | Major botnet disrupted |
+
+The [[operation-avalanche|Avalanche]] and [[operation-endgame-phase1|Endgame]] operations exemplify Germany's role as a primary infrastructure host for takedowns — German servers and networks are frequently used by cybercriminals due to the country's central position in European internet infrastructure.
+
+## Cooperation Track Record
+
+### Europol Partnership
+
+The BKA is *almost certainly* Europol's most active national partner for cybercrime operations:
+- Participates in virtually all major Europol-coordinated cybercrime operations
+- BKA officers serve as cybercrime liaison at Europol headquarters
+- Joint Investigation Teams frequently include BKA investigators
+
+### INTERPOL Partnership
+
+- NCB Germany handles significant volume of international requests
+- Participates in INTERPOL cyber operations and working groups
+- BKA officers deployed to INTERPOL operational coordination centers
+
+### Bilateral Relationships
+
+- **FBI:** Close bilateral cooperation on ransomware, botnet, and financial cybercrime
+- **Dutch National Police (NHTCU):** Frequent operational partner; joint operations on shared infrastructure targets
+- **UK NCA:** Regular cooperation on organized cybercrime
+- **French law enforcement:** Bilateral cooperation on cyber-enabled fraud
+
+## Capacity Building
+
+BKA contributes to international capacity building through:
+- INTERPOL training programs
+- EU-funded projects (GLACY+, CyberSouth)
+- Bilateral training with partner countries
+
+## Korean Interactions (한국과의 협력)
+
+Korea-Germany (BKA) cybercrime cooperation is *likely* conducted primarily through multilateral channels:
+
+- **Europol-coordinated operations:** Both Korea and BKA participated in [[phobos-8base-crackdown]] (2025)
+- **INTERPOL operations:** Both participated in HAECHI and other INTERPOL operations
+- **Budapest Convention:** Both parties; provides mutual MLA legal basis
+- **No known dedicated bilateral cybercrime cooperation** between BKA and KNPA Cyber Bureau, though cooperation would be facilitated through Europol and INTERPOL channels
+
+## Contradictions & Open Questions
+
+- What is the current staffing level of BKA's cybercrime division?
+- How does the BKA-LKA coordination work for international cybercrime cases?
+- What is Germany's volume of incoming vs. outgoing cybercrime-related MLA requests?
+- How has the Endgame series affected BKA's operational approach to botnet disruption?
+
+## References
+
+> [!note]
+> This page was created based on general knowledge. No dedicated sources have been ingested (source_count: 0). Key claims should be verified against BKA annual reports (Bundeslagebild Cybercrime) and Europol publications.

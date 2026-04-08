@@ -32,7 +32,9 @@
       "Bash(python tools/apply_multi_source.py)",
       "Bash(grep -l \"Supplementary source\" wiki/operations/*.md)",
       "Bash(ls *.md)",
-      "Bash(python web/build_static.py)"
+      "Bash(python web/build_static.py)",
+      "Read(//c/Users/shin1121/Desktop/Cyber_crime_IC/wiki/countries//**)",
+      "Read(//c/Users/shin1121/Desktop/Cyber_crime_IC/wiki/organizations//**)"
     ]
   },
   "enabledPlugins": {

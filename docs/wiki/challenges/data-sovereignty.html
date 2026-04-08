@@ -1,0 +1,390 @@
+<!DOCTYPE html>
+<html lang="ko">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Data Sovereignty and Localization Requirements — 사이버범죄 국제공조 위키</title>
+  <link rel="stylesheet" href="../../static/style.css">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link href="https://fonts.googleapis.com/css2?family=Noto+Sans+KR:wght@400;600;700&family=Noto+Serif+KR:wght@400;700&display=swap" rel="stylesheet">
+</head>
+<body>
+  <nav class="top-nav">
+    <div class="top-nav-inner">
+      <a href="../../" class="nav-logo">🌐 사이버범죄 국제공조 위키</a>
+      <div class="nav-links">
+        <a href="../../category/operations.html">작전</a>
+        <a href="../../category/organizations.html">기관</a>
+        <a href="../../category/countries.html">국가</a>
+        <a href="../../category/legal-frameworks.html">법적 프레임워크</a>
+        <a href="../../category/mechanisms.html">메커니즘</a>
+        <a href="../../category/crime-types.html">범죄유형</a>
+        <a href="../../category/concepts.html">개념</a>
+        <a href="../../category/sources.html">출처</a>
+        <a href="../../stats.html">통계</a>
+      </div>
+      <form class="nav-search" action="../../search.html" method="get">
+        <input type="text" name="q" placeholder="위키 검색..." value="">
+        <button type="submit">검색</button>
+      </form>
+    </div>
+  </nav>
+
+  
+<div class="page-wrapper">
+  <main class="article">
+    <div class="article-header">
+      <h1>Data Sovereignty and Localization Requirements</h1>
+      <div class="article-meta">
+        
+          <span class="badge">challenge</span>
+        
+        
+          <span><a href="../../category/challenges.html">과제</a></span>
+        
+        
+          <span>최종 수정: 2026-04-08</span>
+        
+        
+      </div>
+    </div>
+    <div class="article-body">
+      <h2 id="summary">Summary</h2>
+<p>Data sovereignty — the principle that data is subject to the laws and governance of the country in which it is collected or stored — is one of the most critical barriers to effective international cooperation on cybercrime. As the vast majority of digital evidence relevant to cybercrime investigations resides with cloud service providers, messaging platforms, and social media companies, the question of <em>which country's law governs access to that data</em> has become a central friction point in cross-border investigations.</p>
+<p>The challenge is compounded by a global trend toward data localization laws, which require certain categories of data to be stored within national borders. These laws, motivated by privacy protection, national security, and economic interests, can directly impede the cross-border evidence sharing that international cooperation depends upon.</p>
+<h2 id="nature-of-the-problem">Nature of the Problem</h2>
+<h3 id="where-is-cloud-data-located">Where Is Cloud Data "Located"?</h3>
+<p>The fundamental difficulty is that the traditional concept of territorial jurisdiction — which underpins the <a href="../../wiki/concepts/territoriality-principle.html" class="wikilink">territoriality-principle</a> — maps poorly onto cloud-stored data. A single user's data may be:</p>
+<ul>
+<li><strong>Physically stored</strong> in data centers in Country A (or replicated across Countries A, B, and C)</li>
+<li><strong>Controlled</strong> by a provider headquartered in Country B</li>
+<li><strong>Owned</strong> by a data subject who is a national of Country C</li>
+<li><strong>Relevant</strong> to an investigation in Country D</li>
+</ul>
+<p>Which country's law governs law enforcement access? The answer depends on the legal framework applied, and different frameworks give different answers:</p>
+<table>
+<thead>
+<tr>
+<th>Approach</th>
+<th>Governing Law</th>
+<th>Example</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Location of data</td>
+<td>Where the server is physically located</td>
+<td>EU GDPR (partly)</td>
+</tr>
+<tr>
+<td>Location of provider</td>
+<td>Where the company is incorporated/HQ'd</td>
+<td>US CLOUD Act</td>
+</tr>
+<tr>
+<td>Nationality of data subject</td>
+<td>Citizenship of the person whose data it is</td>
+<td>Some civil law systems</td>
+</tr>
+<tr>
+<td>Location of investigation</td>
+<td>Where the crime is being investigated</td>
+<td>MLAT requesting state</td>
+</tr>
+</tbody>
+</table>
+<h3 id="data-localization-laws-blocking-cross-border-access">Data Localization Laws Blocking Cross-Border Access</h3>
+<p>A growing number of countries have enacted or are considering data localization requirements:</p>
+<ul>
+<li><strong>Russia</strong> — Federal Law No. 242-FZ (2015): personal data of Russian citizens must be stored on servers within Russia.</li>
+<li><strong>China</strong> — Cybersecurity Law (2017), Data Security Law (2021), Personal Information Protection Law (2021): critical information infrastructure operators must store data domestically; cross-border transfers require security assessments.</li>
+<li><strong>India</strong> — Digital Personal Data Protection Act (2023): certain categories of sensitive personal data must be stored in India.</li>
+<li><strong>Vietnam</strong> — Cybersecurity Law (2018): requires domestic data storage for user data.</li>
+<li><strong>EU</strong> — While the GDPR does not mandate data localization per se, its restrictions on international data transfers (Chapter V) create a <em>de facto</em> localization effect by making cross-border transfers burdensome.</li>
+</ul>
+<p>These laws directly impede international cooperation by:
+1. Preventing providers from voluntarily disclosing data to foreign law enforcement
+2. Creating legal conflicts where a provider is subject to competing obligations (e.g., CLOUD Act compulsion vs. GDPR prohibition)
+3. Slowing MLAT processes as requested states must navigate their own data protection requirements</p>
+<h3 id="gdpr-vs-law-enforcement-needs">GDPR vs. Law Enforcement Needs</h3>
+<p>The EU General Data Protection Regulation (GDPR, Regulation 2016/679) creates a particularly significant tension:</p>
+<ul>
+<li><strong>Art. 48</strong> prohibits the transfer of personal data to a third country's courts or authorities based on a foreign judgment or decision <em>unless</em> authorized by an international agreement (such as an MLAT or a CLOUD Act executive agreement).</li>
+<li><strong>Art. 49</strong> provides limited derogations but these are narrowly interpreted.</li>
+<li><strong>Law Enforcement Directive</strong> (Directive 2016/680) governs data processing by competent authorities for law enforcement purposes, with its own transfer restrictions.</li>
+</ul>
+<p>The practical effect: a US law enforcement request sent directly to a US-headquartered provider for data relating to an EU data subject may place the provider in an impossible position — comply with the US order and violate GDPR, or comply with GDPR and be held in contempt of the US court.</p>
+<h3 id="provider-cooperation-complexity">Provider Cooperation Complexity</h3>
+<p>Major cloud and communications service providers (Microsoft, Google, Meta, Apple, Amazon) hold vast quantities of evidence relevant to cybercrime investigations. The legal complexity of responding to foreign government requests is significant:</p>
+<ul>
+<li>Providers must evaluate requests under their <em>own</em> country's law, the <em>requesting</em> country's law, and potentially the <em>data subject's</em> country's law</li>
+<li>Voluntary disclosure (outside of compulsory legal process) is limited by privacy obligations</li>
+<li>Emergency disclosure provisions vary by jurisdiction</li>
+<li>Providers increasingly publish transparency reports, creating pressure from both law enforcement (for more cooperation) and civil society (for more resistance)</li>
+</ul>
+<h2 id="impact-on-cooperation">Impact on Cooperation</h2>
+<p>Data sovereignty barriers affect all stages of cybercrime investigation:</p>
+<ol>
+<li><strong>Evidence preservation</strong> — Even the <a href="../../wiki/mechanisms/24-7-network.html" class="wikilink">24-7-network</a> urgent preservation mechanism (Budapest Convention Art. 29) may be complicated when the data is subject to a foreign data protection regime.</li>
+<li><strong>Evidence production</strong> — <a href="../../wiki/mechanisms/mlat-process.html" class="wikilink">MLAT requests</a> for data held by foreign providers are the slowest and most cumbersome form of cooperation, often taking 6-18 months.</li>
+<li><strong>Direct provider disclosure</strong> — The <a href="../../wiki/legal-frameworks/cloud-act.html" class="wikilink">CLOUD Act</a> and the <a href="../../wiki/legal-frameworks/second-additional-protocol.html" class="wikilink">Second Additional Protocol</a> attempt to enable direct requests to providers, but are limited by the number of executive agreements / ratifications in force.</li>
+<li><strong>Real-time interception</strong> — Cross-border interception is almost always blocked by data sovereignty concerns.</li>
+</ol>
+<h2 id="root-causes">Root Causes</h2>
+<h3 id="national-sovereignty">National Sovereignty</h3>
+<p>Data sovereignty is fundamentally an assertion of national sovereignty in the digital domain. States view control over data within their borders as:
+- An extension of territorial sovereignty
+- Essential for national security (preventing foreign intelligence access)
+- Necessary for effective domestic law enforcement
+- A matter of citizen privacy protection</p>
+<h3 id="privacy-regulation">Privacy Regulation</h3>
+<p>The global expansion of data protection regulation (GDPR being the most influential model) has created a normative framework that prioritizes individual privacy rights. While legitimate and important, these protections were not designed with cross-border criminal cooperation in mind, and their application to law enforcement data requests creates friction.</p>
+<h3 id="geopolitical-competition">Geopolitical Competition</h3>
+<p>Data sovereignty has become entangled with broader geopolitical competition:
+- <strong>US vs. EU:</strong> CLOUD Act vs. GDPR represents competing visions of data governance
+- <strong>US/EU vs. China/Russia:</strong> Fundamentally different approaches to state access to data
+- <strong>Global South:</strong> Developing countries view data localization as a tool for digital sovereignty and economic development</p>
+<h2 id="proposed-solutions">Proposed Solutions</h2>
+<h3 id="cloud-act-executive-agreements">CLOUD Act Executive Agreements</h3>
+<p>The US <a href="../../wiki/legal-frameworks/cloud-act.html" class="wikilink">CLOUD Act</a> (2018) creates a framework for bilateral executive agreements that allow:
+- Each country's law enforcement to directly request data from providers in the other country
+- Bypassing the MLAT process for qualifying crimes
+- Subject to human rights, privacy, and rule of law requirements</p>
+<p><strong>Status:</strong> Only the US-UK agreement is in force (2022). US-Australia agreement signed but not yet in force. US-EU negotiations ongoing.</p>
+<p><strong>Limitation:</strong> Bilateral agreements do not scale well — each new country pair requires separate negotiation.</p>
+<h3 id="budapest-convention-second-additional-protocol">Budapest Convention Second Additional Protocol</h3>
+<p>The <a href="../../wiki/legal-frameworks/second-additional-protocol.html" class="wikilink">Second Additional Protocol</a> (CETS No. 224, adopted 2022) provides several mechanisms:</p>
+<ul>
+<li><strong>Art. 7:</strong> Direct disclosure of subscriber information by providers, without MLAT</li>
+<li><strong>Art. 8:</strong> Giving effect to foreign production orders</li>
+<li><strong>Art. 14:</strong> Data protection safeguards for all cooperation under the Protocol</li>
+</ul>
+<p><strong>Status:</strong> Not yet in force (requires 5 ratifications by Budapest Convention parties).</p>
+<p><strong>Advantage:</strong> Multilateral framework, potentially more scalable than bilateral CLOUD Act agreements.</p>
+<h3 id="mutual-recognition-of-data-protection-standards">Mutual Recognition of Data Protection Standards</h3>
+<p>Emerging proposals include:
+- EU adequacy decisions under GDPR Art. 45 for law enforcement data transfers
+- Minimum data protection standards in international agreements
+- Sector-specific arrangements for law enforcement data sharing</p>
+<h2 id="current-state-of-debate">Current State of Debate</h2>
+<p>The fundamental tension remains unresolved: how to enable effective cross-border law enforcement access to digital evidence while respecting national sovereignty, privacy rights, and data protection. Key positions:</p>
+<ul>
+<li><strong>Law enforcement perspective:</strong> Current frameworks are too slow and cumbersome; direct access to provider-held data is essential; data localization laws are obstacles to justice.</li>
+<li><strong>Privacy/civil liberties perspective:</strong> Safeguards against surveillance abuse must not be weakened; mutual legal assistance provides important judicial oversight; direct access risks circumventing domestic protections.</li>
+<li><strong>Provider perspective:</strong> Legal certainty is needed; conflicting obligations are untenable; clear frameworks like CLOUD Act executive agreements are preferred over ad hoc requests.</li>
+<li><strong>Developing country perspective:</strong> Data localization may be necessary for sovereignty and economic development; existing frameworks (Budapest Convention) reflect Western priorities.</li>
+</ul>
+<h2 id="case-studies">Case Studies</h2>
+<h3 id="microsoft-ireland-case-us-2013-2018">Microsoft Ireland Case (US, 2013-2018)</h3>
+<p>The landmark <em>Microsoft Corp. v. United States</em> (In re Warrant to Search a Certain E-Mail Account, 2nd Cir. 2016) case raised the question of whether a US warrant could compel Microsoft to produce emails stored on a server in Ireland. The Second Circuit held it could not — but the case was mooted by the passage of the CLOUD Act in 2018, which explicitly authorized such compulsion.</p>
+<h3 id="phobos8base-investigation">Phobos/8Base Investigation</h3>
+<p>The <a href="../../wiki/operations/phobos-8base-crackdown.html" class="wikilink">Phobos/8Base investigation</a> (2025) involved 14 countries and required coordinating access to data across multiple jurisdictions. The operation likely relied on a combination of MLATs, <a href="../../wiki/mechanisms/europol-jit.html" class="wikilink">JIT</a> mechanisms, and provider cooperation to access the relevant digital evidence.</p>
+<h2 id="comparative-perspectives">Comparative Perspectives</h2>
+<table>
+<thead>
+<tr>
+<th>Jurisdiction</th>
+<th>Approach</th>
+<th>Data Localization</th>
+<th>LEA Access Framework</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>United States</td>
+<td>Provider-location based</td>
+<td>No general requirement</td>
+<td>CLOUD Act, SCA, warrants</td>
+</tr>
+<tr>
+<td>EU/EEA</td>
+<td>Data-subject rights focused</td>
+<td>De facto (GDPR transfers)</td>
+<td>MLAT + e-Evidence Regulation (pending)</td>
+</tr>
+<tr>
+<td>China</td>
+<td>State sovereignty focused</td>
+<td>Mandatory (critical data)</td>
+<td>Domestic law only; limited MLAT cooperation</td>
+</tr>
+<tr>
+<td>Russia</td>
+<td>State sovereignty focused</td>
+<td>Mandatory (personal data)</td>
+<td>Domestic law only; minimal cooperation</td>
+</tr>
+<tr>
+<td>South Korea</td>
+<td>Evolving hybrid</td>
+<td>Growing (PIPA amendments)</td>
+<td>MLAT + Budapest Convention</td>
+</tr>
+</tbody>
+</table>
+<h2 id="korean-perspective">Korean Perspective (한국 관점)</h2>
+<h3 id="personal-information-protection-act-pipa">개인정보 보호법 (Personal Information Protection Act, PIPA)</h3>
+<p>Korea's primary data protection law, PIPA (개인정보 보호법), has undergone significant amendments that affect cross-border data transfers:</p>
+<ul>
+<li><strong>Art. 28-8</strong> (as amended 2023): Cross-border transfer of personal information requires either the data subject's consent, an adequacy determination by the Personal Information Protection Commission (개인정보보호위원회), standard contractual clauses, or certification.</li>
+<li><strong>Art. 28-9:</strong> Prohibits transfer of personal information to countries that fail to meet adequate protection levels, except in limited circumstances.</li>
+</ul>
+<p>These provisions create potential friction when foreign law enforcement agencies request data held by Korean service providers (e.g., Kakao, Naver, Samsung).</p>
+<h3 id="data-localization-trends">Data Localization Trends</h3>
+<p>While Korea does not have a comprehensive data localization mandate comparable to Russia or China, sector-specific requirements exist:
+- <strong>Financial data:</strong> Financial Services Commission regulations require certain financial data to be stored domestically
+- <strong>Healthcare data:</strong> Personal health information has enhanced protection and transfer restrictions
+- <strong>Public sector data:</strong> Government cloud policies favor domestic cloud infrastructure</p>
+<h3 id="impact-on-korean-lea-access-to-foreign-held-data">Impact on Korean LEA Access to Foreign-Held Data</h3>
+<p>Korean law enforcement agencies face data sovereignty challenges when investigating cybercrime involving data held by foreign providers:</p>
+<ol>
+<li>
+<p><strong>US-based providers (Google, Meta, Apple, Microsoft):</strong> Korean police must typically use the <a href="../../wiki/mechanisms/mlat-process.html" class="wikilink">MLAT process</a> through the Ministry of Justice (법무부) to obtain content data. Subscriber information may be available through voluntary disclosure programs, but this is inconsistent.</p>
+</li>
+<li>
+<p><strong>No CLOUD Act agreement:</strong> Korea does not currently have a CLOUD Act executive agreement with the United States. Negotiation of such an agreement would likely accelerate Korean access to US-held data but would also require Korea to permit US direct access to Korean-held data.</p>
+</li>
+<li>
+<p><strong>Budapest Convention accession (2024):</strong> Korea's accession to the Budapest Convention provides a legal basis for cooperation under Art. 29-35, but the Convention's MLA provisions still require going through central authorities. The <a href="../../wiki/legal-frameworks/second-additional-protocol.html" class="wikilink">Second Additional Protocol</a>, when in force, would provide more direct mechanisms.</p>
+</li>
+<li>
+<p><strong>Korea-specific challenge:</strong> Many Korean cybercrime victims' data is held by Korean platforms (Kakao, Naver), but perpetrators (especially in <a href="../../wiki/crime-types/voice-phishing-ic.html" class="wikilink">voice phishing</a> and <a href="../../wiki/crime-types/bec-ic.html" class="wikilink">BEC</a>) operate from abroad. This creates a reverse data sovereignty problem — Korea has the data, but the perpetrators and their infrastructure are in other jurisdictions.</p>
+</li>
+</ol>
+<div class="callout callout-warning"><div class="callout-title">⚠️ Legal status check needed
+Verify the current status of any Korea-US CLOUD Act executive agreement negotiations (as of 2026).</div><div class="callout-body"></div></div>
+<h2 id="contradictions-open-questions">Contradictions &amp; Open Questions</h2>
+<ul>
+<li>Is data localization ultimately protective or harmful for citizens? Both privacy advocates and law enforcement claim it supports their goals while undermining the other's.</li>
+<li>Can the CLOUD Act bilateral model scale to a meaningful number of countries, or is a multilateral approach (Second Additional Protocol, UN Convention) necessary?</li>
+<li>How will Korea balance its increasingly strict data protection regime (PIPA amendments) with the need for faster cross-border law enforcement data access?</li>
+<li>What happens when data is technically distributed across multiple jurisdictions through cloud replication — which localization law applies?</li>
+<li>Will the UN Cybercrime Convention (when in force) provide a more globally accepted framework for cross-border data access than the Budapest Convention?</li>
+</ul>
+    </div>
+  </main>
+
+  <aside class="sidebar">
+    
+
+    <div class="cat-nav">
+      <h3>카테고리</h3>
+      <ul>
+        
+        <li>
+          📜
+          <a href="../../category/legal-frameworks.html"
+             >
+            법적 프레임워크
+          </a>
+        </li>
+        
+        <li>
+          🏛️
+          <a href="../../category/organizations.html"
+             >
+            기관
+          </a>
+        </li>
+        
+        <li>
+          🌍
+          <a href="../../category/countries.html"
+             >
+            국가
+          </a>
+        </li>
+        
+        <li>
+          🎯
+          <a href="../../category/operations.html"
+             >
+            작전
+          </a>
+        </li>
+        
+        <li>
+          ⚖️
+          <a href="../../category/cases.html"
+             >
+            사건
+          </a>
+        </li>
+        
+        <li>
+          🔗
+          <a href="../../category/mechanisms.html"
+             >
+            공조 메커니즘
+          </a>
+        </li>
+        
+        <li>
+          📋
+          <a href="../../category/procedures.html"
+             >
+            절차
+          </a>
+        </li>
+        
+        <li>
+          🔒
+          <a href="../../category/crime-types.html"
+             >
+            범죄유형
+          </a>
+        </li>
+        
+        <li>
+          ⚠️
+          <a href="../../category/challenges.html"
+             style="font-weight:700">
+            과제
+          </a>
+        </li>
+        
+        <li>
+          📖
+          <a href="../../category/concepts.html"
+             >
+            법적 개념
+          </a>
+        </li>
+        
+        <li>
+          📰
+          <a href="../../category/sources.html"
+             >
+            출처
+          </a>
+        </li>
+        
+        <li>
+          📊
+          <a href="../../category/analysis.html"
+             >
+            분석
+          </a>
+        </li>
+        
+        <li>
+          📅
+          <a href="../../category/timelines.html"
+             >
+            타임라인
+          </a>
+        </li>
+        
+      </ul>
+    </div>
+  </aside>
+</div>
+
+
+  <div class="footer">
+    사이버범죄 국제공조 위키 &mdash; LLM Wiki Pattern &mdash;
+    Powered by <a href="https://obsidian.md">Obsidian</a> + Flask &mdash;
+    2026-04-09 기준 데이터
+  </div>
+</body>
+</html>

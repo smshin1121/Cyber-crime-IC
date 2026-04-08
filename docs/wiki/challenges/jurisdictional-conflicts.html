@@ -1,0 +1,322 @@
+<!DOCTYPE html>
+<html lang="ko">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Jurisdictional Conflicts in Cybercrime — 사이버범죄 국제공조 위키</title>
+  <link rel="stylesheet" href="../../static/style.css">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link href="https://fonts.googleapis.com/css2?family=Noto+Sans+KR:wght@400;600;700&family=Noto+Serif+KR:wght@400;700&display=swap" rel="stylesheet">
+</head>
+<body>
+  <nav class="top-nav">
+    <div class="top-nav-inner">
+      <a href="../../" class="nav-logo">🌐 사이버범죄 국제공조 위키</a>
+      <div class="nav-links">
+        <a href="../../category/operations.html">작전</a>
+        <a href="../../category/organizations.html">기관</a>
+        <a href="../../category/countries.html">국가</a>
+        <a href="../../category/legal-frameworks.html">법적 프레임워크</a>
+        <a href="../../category/mechanisms.html">메커니즘</a>
+        <a href="../../category/crime-types.html">범죄유형</a>
+        <a href="../../category/concepts.html">개념</a>
+        <a href="../../category/sources.html">출처</a>
+        <a href="../../stats.html">통계</a>
+      </div>
+      <form class="nav-search" action="../../search.html" method="get">
+        <input type="text" name="q" placeholder="위키 검색..." value="">
+        <button type="submit">검색</button>
+      </form>
+    </div>
+  </nav>
+
+  
+<div class="page-wrapper">
+  <main class="article">
+    <div class="article-header">
+      <h1>Jurisdictional Conflicts in Cybercrime</h1>
+      <div class="article-meta">
+        
+          <span class="badge">challenge</span>
+        
+        
+          <span><a href="../../category/challenges.html">과제</a></span>
+        
+        
+          <span>최종 수정: 2026-04-08</span>
+        
+        
+      </div>
+    </div>
+    <div class="article-body">
+      <h2 id="summary">Summary</h2>
+<p>Jurisdictional conflicts arise when two or more states simultaneously claim the right to investigate and prosecute the same cybercrime. This is not an edge case — it is the <em>default condition</em> for transnational cybercrime. The borderless nature of cyber offenses means that the attacker's location, the server infrastructure, the victim, and the evidence are typically distributed across multiple countries, each of which has a legitimate basis for asserting jurisdiction under the <a href="../../wiki/concepts/territoriality-principle.html" class="wikilink">territoriality-principle</a>, the <a href="../../wiki/concepts/nationality-principle.html" class="wikilink">nationality-principle</a>, or other jurisdictional doctrines.</p>
+<p>Unlike some other areas of international law, there is <strong>no binding mechanism</strong> for resolving jurisdictional conflicts in cybercrime. The Budapest Convention's consultation requirement (Art. 22(5)) is non-binding, and no global framework assigns priority among competing jurisdictions. The result is a combination of duplicated investigations, uncoordinated prosecutions, forum shopping, and — in the worst cases — violations of the <a href="../../wiki/concepts/ne-bis-in-idem.html" class="wikilink">ne-bis-in-idem</a> principle (double jeopardy).</p>
+<h2 id="nature-of-the-problem">Nature of the Problem</h2>
+<h3 id="multiple-states-claiming-jurisdiction">Multiple States Claiming Jurisdiction</h3>
+<p>A typical ransomware attack illustrates the problem:</p>
+<pre><code>Attacker (Russia) → C2 servers (Netherlands, Germany)
+    → Encrypts victim networks (US company, UK subsidiary, Korean contractor)
+    → Ransom payment (cryptocurrency, mixers in multiple jurisdictions)
+    → Proceeds laundered (UAE, Singapore)
+</code></pre>
+<p>In this scenario, <em>at least</em> six or seven countries could plausibly claim jurisdiction:
+- <strong>Russia:</strong> Nationality of attacker (<a href="../../wiki/concepts/nationality-principle.html" class="wikilink">nationality-principle</a>)
+- <strong>Netherlands / Germany:</strong> Location of criminal infrastructure (<a href="../../wiki/concepts/territoriality-principle.html" class="wikilink">territoriality-principle</a>)
+- <strong>United States:</strong> Location of primary victim (effects doctrine / objective territoriality)
+- <strong>United Kingdom:</strong> Location of affected subsidiary
+- <strong>South Korea:</strong> Location of affected contractor
+- <strong>UAE / Singapore:</strong> Location of money laundering</p>
+<p>Each state's claim is legitimate under its own domestic law and general international law. No rule of international law gives priority to any of them.</p>
+<h3 id="concurrent-proceedings">Concurrent Proceedings</h3>
+<p>When multiple states investigate the same conduct independently, several problems emerge:</p>
+<ol>
+<li><strong>Duplicated effort.</strong> Scarce law enforcement resources are spent redundantly investigating the same targets.</li>
+<li><strong>Evidence conflicts.</strong> One state's seizure of evidence (servers, cryptocurrency) may deprive another state of access to the same evidence.</li>
+<li><strong>Witness/defendant conflicts.</strong> An arrested suspect cannot be simultaneously tried in two countries. Extradition to one state means the other loses access.</li>
+<li><strong>Inconsistent outcomes.</strong> Different legal systems may reach different conclusions about the same conduct — acquittal in one jurisdiction and conviction in another.</li>
+</ol>
+<h3 id="ne-bis-in-idem-risk">Ne Bis In Idem Risk</h3>
+<p>The principle of <a href="../../wiki/concepts/ne-bis-in-idem.html" class="wikilink">ne-bis-in-idem</a> (double jeopardy) prohibits prosecuting a person twice for the same offense. However:
+- The principle applies <em>within</em> most national legal systems, but its <em>international</em> application is uncertain and inconsistent.
+- Within the EU, the Charter of Fundamental Rights Art. 50 and the CISA Art. 54 provide transnational ne bis in idem protection.
+- Globally, there is no binding prohibition on successive prosecutions in different countries for the same conduct.
+- The risk: a person convicted and sentenced in one country could face prosecution for the same cybercrime in another.</p>
+<h3 id="forum-shopping">Forum Shopping</h3>
+<p>In the absence of clear jurisdiction allocation rules, prosecuting authorities may engage in "forum shopping" — selecting the jurisdiction that offers:
+- The most favorable legal framework (broadest offenses, heaviest penalties)
+- The strongest procedural tools (wiretapping, search powers)
+- The most favorable evidence rules
+- The best chance of conviction</p>
+<p>While this may serve prosecutorial efficiency, it raises due process concerns and can undermine the legitimacy of proceedings.</p>
+<h2 id="impact-on-cooperation">Impact on Cooperation</h2>
+<p>Jurisdictional conflicts paradoxically both <strong>impede</strong> and <strong>motivate</strong> international cooperation:</p>
+<p><strong>Impediment:</strong> States reluctant to cooperate if they believe the other state is "taking" their case. Competing investigations may lead to refusal of MLA requests, extradition disputes, or parallel proceedings that waste resources.</p>
+<p><strong>Motivation:</strong> The recognition that no single state can effectively investigate transnational cybercrime drives states toward joint investigation teams (<a href="../../wiki/mechanisms/europol-jit.html" class="wikilink">europol-jit</a>), coordinated operations (through <a href="../../wiki/organizations/europol-ec3.html" class="wikilink">europol-ec3</a> or <a href="../../wiki/organizations/interpol-igci.html" class="wikilink">interpol-igci</a>), and informal police-to-police cooperation.</p>
+<h2 id="root-causes">Root Causes</h2>
+<h3 id="borderless-nature-of-cybercrime">Borderless Nature of Cybercrime</h3>
+<p>The fundamental root cause is that cybercrime does not respect territorial boundaries. Jurisdictional rules developed for physical-world crime assume a clear connection between a criminal act and a specific territory. This assumption breaks down for conduct that is inherently distributed across networks spanning the globe.</p>
+<h3 id="multiple-territorial-connections">Multiple Territorial Connections</h3>
+<p>Each jurisdictional basis — the location of the act, the location of the effect, the nationality of the offender, the nationality of the victim — produces a different answer. All are recognized in international law, and none has priority.</p>
+<h3 id="no-binding-conflict-resolution-mechanism">No Binding Conflict Resolution Mechanism</h3>
+<p>The Budapest Convention Art. 22(5) is the closest thing to a conflict resolution mechanism:</p>
+<blockquote>
+<p>"When more than one Party claims jurisdiction over an alleged offence established in accordance with this Convention, the Parties involved shall, where appropriate, consult with a view to determining the most appropriate jurisdiction for prosecution."</p>
+</blockquote>
+<p>However, this provision is:
+- <strong>Non-binding</strong> ("shall, where appropriate, consult" — not "shall resolve")
+- <strong>Offers no criteria</strong> for what makes a jurisdiction "most appropriate"
+- <strong>Has no enforcement mechanism</strong> if states fail to consult or disagree</p>
+<p>The UN Cybercrime Convention (2024, not yet in force) Art. 58 contains a similar but slightly strengthened consultation provision. However, it also remains non-binding in outcome.</p>
+<h2 id="proposed-solutions">Proposed Solutions</h2>
+<h3 id="budapest-convention-art-225-consultation">Budapest Convention Art. 22(5) Consultation</h3>
+<p>The existing consultation requirement, while non-binding, provides a legal basis for dialogue. In practice, consultations happen informally between prosecutors and through Eurojust (within the EU) or INTERPOL (globally). The effectiveness depends entirely on the willingness of the parties.</p>
+<h3 id="eurojust-case-coordination">Eurojust Case Coordination</h3>
+<p>Within the EU, <a href="../../wiki/organizations/eurojust.html" class="wikilink">Eurojust</a> plays a critical role in resolving jurisdictional conflicts:</p>
+<ul>
+<li><strong>Council Framework Decision 2009/948/JHA</strong> requires EU member states to consult when parallel proceedings exist, with Eurojust as the default mediator.</li>
+<li>Eurojust maintains a Case Management System that can detect parallel proceedings.</li>
+<li>Eurojust can issue <strong>written opinions</strong> recommending which member state should exercise jurisdiction.</li>
+<li>Eurojust can facilitate <strong>transfer of proceedings</strong> from one member state to another.</li>
+</ul>
+<p><strong>Limitation:</strong> This mechanism applies only within the EU. It has no application to conflicts involving non-EU states.</p>
+<h3 id="interpol-operational-coordination">INTERPOL Operational Coordination</h3>
+<p>For non-EU operations, <a href="../../wiki/organizations/interpol-igci.html" class="wikilink">INTERPOL</a> provides operational coordination that can help <em>de facto</em> resolve jurisdictional conflicts through practical collaboration. When an INTERPOL-coordinated operation designates a lead country, other participating countries implicitly accept a supporting role. However, this operational coordination does not resolve the <em>legal</em> question of which state has primary jurisdiction.</p>
+<h3 id="proposed-binding-mechanisms">Proposed Binding Mechanisms</h3>
+<p>Academic and policy proposals for binding jurisdiction allocation include:</p>
+<ol>
+<li><strong>Priority criteria framework:</strong> Establishing a hierarchy of jurisdictional bases (e.g., territory of the act &gt; territory of the effect &gt; nationality of offender) to determine which state has the strongest claim.</li>
+<li><strong>Forum selection agreement:</strong> A multilateral treaty provision allowing states to agree on jurisdiction allocation in individual cases, with binding effect.</li>
+<li><strong>International cybercrime court:</strong> A specialized tribunal with jurisdiction over the most serious transnational cybercrimes (highly aspirational; no active negotiations).</li>
+<li><strong>Transfer of proceedings:</strong> Formalizing the ability to transfer a criminal case from one state to another, preserving evidence and avoiding duplication.</li>
+</ol>
+<h2 id="current-state-of-debate">Current State of Debate</h2>
+<p>The debate centers on whether the current consultative approach is sufficient or whether binding rules are needed:</p>
+<ul>
+<li><strong>Status quo defenders:</strong> The current flexible approach allows pragmatic case-by-case resolution. Binding rules would be difficult to negotiate and could produce perverse outcomes (e.g., assigning jurisdiction to a state with no capacity or willingness to prosecute).</li>
+<li><strong>Reform advocates:</strong> The absence of binding rules leads to inefficiency, unfairness, and impunity. States with strong cybercrime capacity (US, UK, EU) dominate case selection, while developing countries are marginalized.</li>
+<li><strong>Middle ground:</strong> Develop non-binding guidelines or best practices for jurisdiction selection, building on the Budapest Convention Art. 22(5) framework.</li>
+</ul>
+<h2 id="case-studies">Case Studies</h2>
+<h3 id="operation-cronos-lockbit">Operation Cronos (LockBit)</h3>
+<p>The <a href="../../wiki/operations/operation-cronos-phase1.html" class="wikilink">Operation Cronos</a> series (2024-2025) targeted the LockBit ransomware group across 10+ countries. The question of which state would prosecute the primary defendants required coordination among:
+- United States (DOJ/FBI — charging)
+- United Kingdom (NCA — infrastructure seizure)
+- France, Germany, Netherlands (Europol coordination)
+- Multiple other participant countries</p>
+<p>The operational coordination through Europol and Eurojust effectively managed the jurisdictional allocation, with the US taking the lead on prosecution and other countries focusing on infrastructure seizure and evidence gathering.</p>
+<h3 id="phobos8base-crackdown">Phobos/8Base Crackdown</h3>
+<p>The <a href="../../wiki/operations/phobos-8base-crackdown.html" class="wikilink">Phobos/8Base operation</a> (2025) involved a suspect arrested in South Korea and extradited to the United States. Korea had jurisdiction based on the arrest location (and potentially the nationality principle or effects of the crime), but deferred to the US for prosecution. This pragmatic resolution avoided a jurisdictional conflict but raises the question: what if Korea had wanted to prosecute?</p>
+<h2 id="comparative-perspectives">Comparative Perspectives</h2>
+<h3 id="eu-approach">EU Approach</h3>
+<p>The EU has the most developed framework for resolving intra-EU jurisdictional conflicts:
+- Framework Decision 2009/948/JHA (prevention and settlement of conflicts of jurisdiction)
+- Eurojust coordination role
+- Charter of Fundamental Rights Art. 50 (ne bis in idem)
+- European Arrest Warrant system</p>
+<h3 id="us-approach">US Approach</h3>
+<p>The US frequently asserts broad extraterritorial jurisdiction and has the most extensive bilateral MLAT network. In practice, the US often takes the prosecution lead in multi-country cybercrime cases due to its capacity, legal tools, and the location of many major service providers on US soil.</p>
+<h3 id="asia-pacific-approach">Asia-Pacific Approach</h3>
+<p>The Asia-Pacific region lacks a regional framework equivalent to the EU's. Jurisdictional conflicts are resolved through bilateral channels, INTERPOL coordination, or ad hoc arrangements. ASEAN's efforts on cybercrime cooperation remain at an early stage.</p>
+<h2 id="korean-perspective">Korean Perspective (한국 관점)</h2>
+<h3 id="korean-courts-approach-to-cyber-jurisdiction">Korean Courts' Approach to Cyber Jurisdiction</h3>
+<p>Korean courts have generally adopted a broad interpretation of territorial jurisdiction for cybercrime:</p>
+<ul>
+<li><strong>형법 Art. 2 (속지주의):</strong> Korean courts recognize jurisdiction when either the criminal act or its effect occurs in Korea. For cybercrime, this includes cases where Korean victims are targeted from abroad or where Korean infrastructure is used.</li>
+<li><strong>대법원 판례:</strong> The Supreme Court has held that jurisdiction exists when a "constituent element" (구성요건적 행위 또는 결과) of the offense occurs in Korean territory, including the location where data is accessed or where the harm materializes.</li>
+</ul>
+<h3 id="koreas-jurisdictional-conflicts-in-practice">Korea's Jurisdictional Conflicts in Practice</h3>
+<p>Korea has encountered jurisdictional conflicts in several contexts:</p>
+<ol>
+<li>
+<p><strong>Voice phishing (보이스피싱):</strong> Perpetrators operating from China or Southeast Asia targeting Korean victims. Korea has jurisdiction based on the effect (victim location) and often the nationality of victims and sometimes perpetrators. China has jurisdiction based on the location of the act. The <a href="../../wiki/operations/korea-china-voice-phishing-qingdao.html" class="wikilink">Korea-China Qingdao operation</a> demonstrates bilateral cooperation rather than conflict, but the underlying jurisdictional overlap exists.</p>
+</li>
+<li>
+<p><strong>Overseas Korean cybercriminals:</strong> Korean nationals committing cybercrime from abroad (e.g., Cambodia scam centres, as seen in <a href="../../wiki/operations/korea-cambodia-scam-repatriation.html" class="wikilink">korea-cambodia-scam-repatriation</a>). Korea has jurisdiction under the <a href="../../wiki/concepts/nationality-principle.html" class="wikilink">nationality-principle</a> (형법 Art. 3), while the host country has territorial jurisdiction. Resolution typically involves repatriation rather than prosecution in the host country.</p>
+</li>
+<li>
+<p><strong>Ransomware extradition:</strong> The Phobos admin arrested in Korea and extradited to the US illustrates Korea deferring prosecution to the requesting state. The <a href="../../wiki/concepts/specialty-principle.html" class="wikilink">specialty-principle</a> constrains what the US can prosecute after extradition.</p>
+</li>
+</ol>
+<h3 id="korea-and-forum-selection">Korea and Forum Selection</h3>
+<p>Korea, as a relatively recent Budapest Convention party (2024), is still developing its practice on jurisdictional consultation under Art. 22(5). The Korean approach is <em>likely</em> to favor:
+- Prosecution in the state with the strongest evidentiary base
+- Deference to the state leading the operation (especially the US for ransomware cases)
+- Assertion of jurisdiction primarily when Korean victims or Korean nationals are directly involved</p>
+<div class="callout callout-warning"><div class="callout-title">⚠️ Legal status check needed
+Verify whether any Korean court decisions have specifically addressed the Budapest Convention Art. 22(5) consultation obligation since Korea's accession in 2024.</div><div class="callout-body"></div></div>
+<h2 id="contradictions-open-questions">Contradictions &amp; Open Questions</h2>
+<ul>
+<li>Is the Budapest Convention's non-binding consultation requirement (Art. 22(5)) sufficient, or does the cybercrime problem demand binding jurisdiction allocation rules?</li>
+<li>How should jurisdiction be allocated when a state with the strongest legal claim (e.g., Russia for Russia-based attackers) is unwilling to prosecute?</li>
+<li>Does the practice of US-led prosecution of global cybercrime cases create a de facto hierarchy of jurisdictions, and is this legitimate?</li>
+<li>How can developing countries assert jurisdiction over cybercrime affecting their citizens when the investigation requires resources and provider cooperation they lack?</li>
+<li>When Korea arrests a cybercrime suspect for extradition, under what circumstances should Korea assert its own jurisdiction instead of deferring to the requesting state?</li>
+</ul>
+    </div>
+  </main>
+
+  <aside class="sidebar">
+    
+
+    <div class="cat-nav">
+      <h3>카테고리</h3>
+      <ul>
+        
+        <li>
+          📜
+          <a href="../../category/legal-frameworks.html"
+             >
+            법적 프레임워크
+          </a>
+        </li>
+        
+        <li>
+          🏛️
+          <a href="../../category/organizations.html"
+             >
+            기관
+          </a>
+        </li>
+        
+        <li>
+          🌍
+          <a href="../../category/countries.html"
+             >
+            국가
+          </a>
+        </li>
+        
+        <li>
+          🎯
+          <a href="../../category/operations.html"
+             >
+            작전
+          </a>
+        </li>
+        
+        <li>
+          ⚖️
+          <a href="../../category/cases.html"
+             >
+            사건
+          </a>
+        </li>
+        
+        <li>
+          🔗
+          <a href="../../category/mechanisms.html"
+             >
+            공조 메커니즘
+          </a>
+        </li>
+        
+        <li>
+          📋
+          <a href="../../category/procedures.html"
+             >
+            절차
+          </a>
+        </li>
+        
+        <li>
+          🔒
+          <a href="../../category/crime-types.html"
+             >
+            범죄유형
+          </a>
+        </li>
+        
+        <li>
+          ⚠️
+          <a href="../../category/challenges.html"
+             style="font-weight:700">
+            과제
+          </a>
+        </li>
+        
+        <li>
+          📖
+          <a href="../../category/concepts.html"
+             >
+            법적 개념
+          </a>
+        </li>
+        
+        <li>
+          📰
+          <a href="../../category/sources.html"
+             >
+            출처
+          </a>
+        </li>
+        
+        <li>
+          📊
+          <a href="../../category/analysis.html"
+             >
+            분석
+          </a>
+        </li>
+        
+        <li>
+          📅
+          <a href="../../category/timelines.html"
+             >
+            타임라인
+          </a>
+        </li>
+        
+      </ul>
+    </div>
+  </aside>
+</div>
+
+
+  <div class="footer">
+    사이버범죄 국제공조 위키 &mdash; LLM Wiki Pattern &mdash;
+    Powered by <a href="https://obsidian.md">Obsidian</a> + Flask &mdash;
+    2026-04-09 기준 데이터
+  </div>
+</body>
+</html>

@@ -268,3 +268,33 @@
   - Key operations table replaced with top 10 by significance (arrest volume)
   - Cooperation statistics table updated with all derived metrics
 - Verified all 6 category _index.md files: all correct (organizations 7, countries 1, crime-types 6, mechanisms 2, concepts 2, sources 23)
+
+## [2026-04-08] create | Legal frameworks, mechanisms, and procedures batch (7 pages)
+- Pages created:
+  - wiki/legal-frameworks/un-cybercrime-convention-2024.md — UN Convention against Cybercrime (GA adopted 2024-12-24, not yet in force)
+  - wiki/legal-frameworks/second-additional-protocol.md — CETS No. 224, Budapest modernization protocol (adopted 2022-05-12, not yet in force)
+  - wiki/legal-frameworks/cloud-act.md — US CLOUD Act framework for cross-border data access (in force since 2018-03-23)
+  - wiki/mechanisms/europol-jit.md — Europol Joint Investigation Team mechanism (formal, weeks-months setup)
+  - wiki/mechanisms/interpol-i-grip.md — INTERPOL I-GRIP rapid payment interception (semi-formal, hours-days)
+  - wiki/procedures/emergency-data-preservation.md — Budapest Convention Art. 29 preservation procedure (24-72 hours)
+  - wiki/procedures/extradition-request.md — Extradition request procedure (6-24 months)
+- Pages updated: legal-frameworks/_index.md (+3 rows), mechanisms/_index.md (+2 rows), procedures/_index.md (+2 rows), index.md (counts updated: legal frameworks 1->4, mechanisms 2->4, procedures 0->2, total 142->149)
+- Key findings:
+  - Three-layer legal framework architecture now documented: Budapest (in-force), Second Additional Protocol (not yet in force), UN Convention (not yet in force), CLOUD Act (in-force bilateral)
+  - Korea has no CLOUD Act executive agreement; evaluating Second Additional Protocol signature
+  - Phobos/8Base Korea-to-US extradition (2025, ~6 months) is the primary Korean cybercrime extradition precedent
+
+## [2026-04-08] create | Challenges and concepts batch (5 pages)
+- Pages created:
+  - wiki/challenges/data-sovereignty.md — Data sovereignty and localization requirements (legal, critical)
+  - wiki/challenges/jurisdictional-conflicts.md — Jurisdictional conflicts in cybercrime (legal, critical)
+  - wiki/concepts/ne-bis-in-idem.md — Ne bis in idem / double jeopardy (human-rights-safeguard, criminal-law)
+  - wiki/concepts/specialty-principle.md — Specialty principle / rule of specialty (legal-principle, international-law)
+  - wiki/concepts/nationality-principle.md — Nationality principle / active personality (jurisdictional-doctrine, international-law)
+- Pages updated: challenges/_index.md (+2 rows), concepts/_index.md (+3 rows), index.md (Challenges 0->2, Concepts 2->5, total 149->154)
+- Key findings:
+  - Data sovereignty challenge: Korea has no CLOUD Act executive agreement; PIPA amendments create growing friction with cross-border LEA data access
+  - Jurisdictional conflicts: Budapest Convention Art. 22(5) consultation is non-binding; no global binding mechanism exists
+  - Ne bis in idem: Korean 형법 Art. 7 allows mitigation but not bar for foreign judgments — weaker than EU transnational protection
+  - Specialty principle: Phobos admin Korea-to-US extradition is the primary Korean cybercrime example; US-Korea Treaty Art. 15 applies
+  - Nationality principle: Korean 형법 Art. 3 is among the broadest globally (all offenses, no dual criminality requirement); directly relevant to Cambodia scam centre repatriations
