@@ -1,6 +1,6 @@
 # Wiki Index
 
-*Last updated: 2026-04-08 | Total pages: 59 | Total sources: 20*
+*Last updated: 2026-04-08 | Total pages: 66 | Total sources: 23*
 
 ## Legal Frameworks (1)
 - [[budapest-convention]] — First binding international treaty on cybercrime; 70+ parties; core IC provisions (Art. 29, 31, 32, 35)
@@ -17,7 +17,7 @@
 ## Countries (1)
 - [[south-korea]] — Civil law; Budapest Convention party (2024); high IC capacity; HAECHI lead; Phobos/8Base arrest and extradition
 
-## Operations (20)
+## Operations (23)
 - [[franco-israeli-ceo-fraud]] — Franco-Israeli CEO fraud/BEC bust (2022-2023); 7 countries, 8 arrests, EUR 5.5M seized
 - [[operation-jackal]] — INTERPOL vs Black Axe BEC (May 2023); 21 countries, 103 arrests, EUR 2.15M seized
 - [[korea-china-voice-phishing-qingdao]] — First Korea-China voice phishing joint op (Aug 2023); 16 arrests, KRW 2.7B losses
@@ -38,6 +38,9 @@
 - [[operation-haechi-vi]] — INTERPOL financial crime (Apr-Aug 2025); 40 countries, $439M recovered
 - [[korea-cambodia-scam-repatriation]] — Korea-Cambodia scam centre crackdown (Oct 2025+); 107+ repatriated, $33M losses
 - [[operation-sentinel-africa]] — INTERPOL Africa BEC/ransomware (Oct-Nov 2025); 19 countries, 574 arrests, $3M recovered
+- [[operation-orion-international]] — INTERPOL South America CSAM (May-Sep 2024); 12 countries, 144 arrests, 20 children rescued
+- [[operation-stream-kidflix]] — Europol Kidflix CSAM platform takedown (2022-2025); 35+ countries, 79 arrests, 1.8M users
+- [[operation-cyber-guardian]] — Asia 6-country CSAM crackdown (Feb-Mar 2025); 544 arrests, Korea-led
 
 ## Cases (0)
 
@@ -47,12 +50,13 @@
 
 ## Procedures (0)
 
-## Crime Types (5)
+## Crime Types (6)
 - [[ransomware-ic]] — Ransomware from IC perspective; 8 major operations (2024-2025); 55+ arrests, 533+ servers
 - [[online-fraud-ic]] — Online fraud from IC perspective; HAECHI IV/V/VI, Serengeti, First Light, Jackal series
 - [[hacking-ic]] — Hacking/computer intrusion from IC perspective; i-Soon/APT27
 - [[bec-ic]] — Business email compromise from IC perspective; Franco-Israeli CEO fraud, Jackal/III, Sentinel, HAECHI series
 - [[voice-phishing-ic]] — Voice phishing from IC perspective; Korea-centric; Qingdao, HAECHI IV/V/VI, Cambodia repatriation
+- [[csam-ic]] — CSAM from IC perspective; Operation Stream/Kidflix, Cyber Guardian, Orion International; 767 arrests
 
 ## Challenges (0)
 
@@ -60,7 +64,7 @@
 - [[dual-criminality]] — Act must be criminal in both states for IC; frequent cybercrime barrier
 - [[territoriality-principle]] — Jurisdiction over crimes in territory; challenged by borderless cybercrime
 
-## Sources (20)
+## Sources (23)
 - [[2023-02-08-europol-franco-israeli-ceo-fraud]] — Europol press release; Franco-Israeli CEO Fraud
 - [[2023-06-06-interpol-operation-jackal]] — INTERPOL press release; Operation Jackal (Black Axe BEC)
 - [[2023-09-08-korea-china-voice-phishing-qingdao]] — Korea Times news; Korea-China Qingdao voice phishing
@@ -81,6 +85,9 @@
 - [[2025-09-25-interpol-operation-haechi-vi]] — INTERPOL press release; Operation HAECHI VI
 - [[2025-10-18-korea-cambodia-scam-repatriation]] — Al Jazeera/Korea Herald; Korea-Cambodia scam repatriation
 - [[2025-12-22-interpol-operation-sentinel-africa]] — INTERPOL press release; Operation Sentinel (Africa)
+- [[2024-10-15-interpol-operation-orion-international]] — INTERPOL press release; Operation Orion International (South America CSAM)
+- [[2025-04-04-europol-operation-stream-kidflix]] — Security Affairs/TRM Labs; Operation Stream (Kidflix CSAM takedown)
+- [[2025-04-07-korea-npa-operation-cyber-guardian]] — Korea NPA press release; Operation Cyber Guardian (Asia CSAM)
 
 ## Analysis (1)
 - [[ic-statistics-dashboard]] — 사이버범죄 국제공조 통계 대시보드: INTERPOL 2014-2024 연도별 현황, 2모드 네트워크 중심성, 작전 집계

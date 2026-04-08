@@ -18,7 +18,13 @@
       "Bash(curl -s -o /dev/null -w \"%{http_code}\" http://localhost:5000/wiki/analysis/ic-statistics-dashboard)",
       "Bash(curl -s http://localhost:5000/stats)",
       "Bash(echo \"PID: $!\")",
-      "Bash(curl -s -o /dev/null -w \"Status: %{http_code}\" http://localhost:5000/stats)"
+      "Bash(curl -s -o /dev/null -w \"Status: %{http_code}\" http://localhost:5000/stats)",
+      "Bash(python tools/credibility_index.py)",
+      "WebFetch(domain:www.interpol.int)",
+      "WebFetch(domain:www.korea.kr)",
+      "WebFetch(domain:www.seoul.co.kr)",
+      "WebFetch(domain:securityaffairs.com)",
+      "WebFetch(domain:www.trmlabs.com)"
     ]
   },
   "enabledPlugins": {

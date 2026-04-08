@@ -28,6 +28,7 @@ operations_participated:
   - "[[operation-endgame-phase2]]"
   - "[[qakbot-gallyamov-indictment]]"
   - "[[franco-israeli-ceo-fraud]]"
+  - "[[operation-stream-kidflix]]"
 notable_cases: []
 contact_point_for: []
 source_count: 7
@@ -39,6 +40,8 @@ sources:
   - "[[2025-05-23-europol-operation-endgame-phase2]]"
   - "[[2025-05-22-doj-qakbot-gallyamov-indictment]]"
   - "[[2023-02-08-europol-franco-israeli-ceo-fraud]]"
+  - "[[2025-04-04-europol-operation-stream-kidflix]]"
+source_count: 8
 created: 2026-04-08
 updated: 2026-04-08
 ---

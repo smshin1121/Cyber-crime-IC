@@ -15,3 +15,4 @@ updated: 2026-04-08
 | [[hacking-ic]] | cyber-dependent | Yes | - | i-Soon/APT27 | 1 |
 | [[bec-ic]] | cyber-enabled | Yes | I-GRIP, NCBs | Franco-Israeli CEO Fraud, Jackal, Jackal III, Sentinel, HAECHI IV/V/VI | 6 |
 | [[voice-phishing-ic]] | cyber-enabled | Yes | I-GRIP, bilateral | Korea-China Qingdao, HAECHI IV/V/VI, First Light 2024, Korea-Cambodia | 5 |
+| [[csam-ic]] | content-related | Yes | ICSE Database, VIDTF, Red Notices | Operation Stream/Kidflix, Cyber Guardian, Orion International | 3 |

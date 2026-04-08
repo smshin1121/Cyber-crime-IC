@@ -23,7 +23,22 @@ If operation_name is identified:
 - Check if `wiki/operations/{operation-slug}.md` exists
   - EXISTS: Read, merge new data (add agencies, update metrics if higher-reliability source)
   - NEW: Create full page using operation template from CLAUDE.md
-- Set all frontmatter fields from verified data
+- Set all frontmatter fields from verified data, including the new research methodology fields:
+  ```yaml
+  case_id: "CYB-YYYY-NNN"       # from classifier
+  period: 1|2|3                   # from classifier
+  enforcement_type: []            # arrest | seizure | takedown | extradition | asset_freeze | indictment
+  outcome: ""                     # success | partial | failure | ongoing | unknown
+  credibility_index: 0.0          # from evaluator CI formula
+  source_tier: 1-4                # highest tier source available
+  edges:                          # cooperation relationships from classifier
+    - source_actor: ""
+      target_actor: ""
+      cooperation_type: ""        # info_sharing | joint_investigation | extradition | evidence_transfer | technical_assistance | capacity_building | asset_recovery
+      legal_basis: ""             # MLAT | Budapest_Convention | CLOUD_Act | bilateral_MOU | informal | unknown
+      direction: ""               # directed | undirected | unknown
+  missing_fields: []              # from verifier
+  ```
 - Write body sections: Summary, Participating Parties, Results, etc.
 
 ### Step 3: Update Entity Pages

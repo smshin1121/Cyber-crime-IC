@@ -30,3 +30,6 @@ updated: 2026-04-08
 | [[operation-haechi-vi]] | arrest-sweep | completed | [[online-fraud-ic]] | 40 | $439M recovered, 68K+ accounts blocked | 2025-09-25 |
 | [[korea-cambodia-scam-repatriation]] | arrest-sweep | ongoing | [[voice-phishing-ic]] | 6 | 107+ repatriated, USD 33M losses | 2025-10-18 |
 | [[operation-sentinel-africa]] | arrest-sweep | completed | [[bec-ic]] | 19 | 574 arrests, USD 3M recovered | 2025-12-22 |
+| [[operation-orion-international]] | arrest-sweep | completed | [[csam-ic]] | 12 | 144 arrests, 20 children rescued | 2024-10-15 |
+| [[operation-stream-kidflix]] | takedown | completed | [[csam-ic]] | 35+ | 79 arrests, 39 children protected, 1.8M users | 2025-04-04 |
+| [[operation-cyber-guardian]] | arrest-sweep | completed | [[csam-ic]] | 6 | 544 arrests, AI deepfake cases | 2025-04-07 |

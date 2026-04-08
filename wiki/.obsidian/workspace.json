@@ -185,6 +185,13 @@
   },
   "active": "0ee428e69a94551e",
   "lastOpenFiles": [
+    "crime-types/csam-ic.md",
+    "operations/operation-orion-international.md",
+    "operations/operation-cyber-guardian.md",
+    "operations/operation-stream-kidflix.md",
+    "sources/2024-10-15-interpol-operation-orion-international.md",
+    "sources/2025-04-07-korea-npa-operation-cyber-guardian.md",
+    "sources/2025-04-04-europol-operation-stream-kidflix.md",
     "organizations/seoul-metropolitan-police.md",
     "crime-types/voice-phishing-ic.md",
     "crime-types/bec-ic.md",
@@ -204,13 +211,6 @@
     "sources/2023-09-08-korea-china-voice-phishing-qingdao.md",
     "sources/2025-12-22-interpol-operation-sentinel-africa.md",
     "sources/2024-08-28-interpol-operation-jackal-iii.md",
-    "sources/2023-06-06-interpol-operation-jackal.md",
-    "sources/2023-02-08-europol-franco-israeli-ceo-fraud.md",
-    "analysis/ic-statistics-dashboard.md",
-    "overview.md",
-    "crime-types/ransomware-ic.md.tmp.43232.1775644828719",
-    "crime-types/hacking-ic.md",
-    "crime-types/online-fraud-ic.md",
-    "organizations/afripol.md"
+    "crime-types/ransomware-ic.md.tmp.43232.1775644828719"
   ]
 }

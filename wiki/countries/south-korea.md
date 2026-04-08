@@ -44,6 +44,7 @@ operations_participated:
   - "[[operation-haechi-iv]]"
   - "[[operation-haechi-vi]]"
   - "[[korea-cambodia-scam-repatriation]]"
+  - "[[operation-cyber-guardian]]"
 notable_cases: []
 cooperation_assessment: "Korea is a highly capable cooperation partner with advanced digital forensics capacity and a strong legal framework. Accession to the Budapest Convention in 2024 significantly enhanced Korea's IC legal basis. Primary challenges include language barriers and the multi-step domestic approval process for outgoing MLA requests."
 source_count: 7

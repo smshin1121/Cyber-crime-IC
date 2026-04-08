@@ -31,6 +31,7 @@ operations_participated:
   - "[[operation-haechi-iv]]"
   - "[[operation-haechi-vi]]"
   - "[[operation-sentinel-africa]]"
+  - "[[operation-orion-international]]"
 notable_cases: []
 contact_point_for: []
 source_count: 9
@@ -44,6 +45,8 @@ sources:
   - "[[2023-12-19-interpol-operation-haechi-iv]]"
   - "[[2025-09-25-interpol-operation-haechi-vi]]"
   - "[[2025-12-22-interpol-operation-sentinel-africa]]"
+  - "[[2024-10-15-interpol-operation-orion-international]]"
+source_count: 10
 created: 2026-04-08
 updated: 2026-04-08
 ---

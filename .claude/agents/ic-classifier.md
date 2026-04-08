@@ -67,6 +67,64 @@ Extract only explicitly stated numbers:
 - `victims_notified`: if mentioned
 - `financial_seized`: total financial seizures
 
+## Case ID Generation
+
+Assign a unique case ID to each identified operation using the format `CYB-YYYY-NNN`:
+- `YYYY` = year of operation announcement or primary enforcement action
+- `NNN` = sequential number within that year, zero-padded to 3 digits
+- Before assigning, read existing `wiki/operations/` files to determine the next available number for the given year
+- Example: `CYB-2024-001`, `CYB-2024-002`, `CYB-2023-015`
+
+## Period Classification
+
+Classify each operation into one of three analytical periods based on the research plan (Section 2):
+
+| Period | Years | Characteristics | Key Transition Events |
+|--------|-------|-----------------|-----------------------|
+| **1** | 2015-2018 | J-CAT formation era, traditional MLAT-based cooperation | J-CAT operational (2014~), Europol EC3 role expansion |
+| **2** | 2019-2022 | Digital evidence modernization | CLOUD Act implementation (2018), Budapest Convention 2nd Protocol negotiation |
+| **3** | 2023-2025 | Universal international legal standards | 2nd Protocol entry into force, UN Cybercrime Convention concluded |
+
+Assign period based on the year of the primary enforcement action (arrest, takedown, seizure).
+
+## Actor-level Variables
+
+For each actor (agency, organization, company) extracted, capture the following additional variables (per research plan Section 6.2):
+
+| Variable | Type | Values / Rules |
+|----------|------|----------------|
+| `actor_type` | categorical | `national_lea` \| `international_org` \| `private_sector` \| `judiciary` \| `academic` \| `ngo` |
+| `country_code` | categorical | ISO 3166-1 alpha-3 code (e.g., USA, KOR, DEU, FRA) |
+| `region` | categorical | UN region classification (e.g., Eastern Asia, Western Europe, Northern America) |
+
+## Edge-level Variables (Cooperation Relationships)
+
+For each **pair** of cooperating actors identified in a case, extract a cooperation edge with the following variables (per research plan Section 6.4):
+
+| Variable | Type | Values |
+|----------|------|--------|
+| `source_actor` | reference | Actor ID or normalized name of the initiating/requesting actor |
+| `target_actor` | reference | Actor ID or normalized name of the responding/assisting actor |
+| `cooperation_type` | categorical (multi) | `info_sharing` \| `joint_investigation` \| `extradition` \| `evidence_transfer` \| `technical_assistance` \| `capacity_building` \| `asset_recovery` |
+| `legal_basis` | categorical | `MLAT` \| `Budapest_Convention` \| `CLOUD_Act` \| `bilateral_MOU` \| `informal` \| `unknown` |
+| `direction` | categorical | `directed` (requesting -> responding) \| `undirected` (joint) \| `unknown` |
+
+### Edge Extraction Rules
+- Identify cooperation relationships from text describing which agencies worked together
+- If direction cannot be determined, use `unknown`
+- If legal basis is not mentioned, use `unknown`
+- A single case may have multiple edges (e.g., FBI-Europol, FBI-KNPA, Europol-KNPA)
+
+## Enforcement Type & Outcome
+
+Classify each operation's enforcement actions and outcome:
+
+**Enforcement Type** (multi-select):
+- `arrest` | `seizure` | `takedown` | `extradition` | `asset_freeze` | `indictment`
+
+**Outcome**:
+- `success` | `partial` | `failure` | `ongoing` | `unknown`
+
 ## Input Protocol
 - File path(s) to raw source documents from `_workspace/collected/`
 
@@ -74,10 +132,25 @@ Extract only explicitly stated numbers:
 - Enhanced markdown file with classified frontmatter in `_workspace/classified/`
 - Frontmatter additions:
   ```yaml
+  case_id: ""                    # CYB-YYYY-NNN format
   operation_name: ""
+  period: 0                      # 1, 2, or 3
   agencies: []
   countries: []
   crime_types: []
+  enforcement_type: []           # arrest | seizure | takedown | extradition | asset_freeze | indictment
+  outcome: ""                    # success | partial | failure | ongoing | unknown
+  actors:
+    - name: ""
+      actor_type: ""             # national_lea | international_org | private_sector | judiciary | academic | ngo
+      country_code: ""           # ISO 3166-1 alpha-3
+      region: ""                 # UN region classification
+  edges:
+    - source_actor: ""
+      target_actor: ""
+      cooperation_type: ""       # info_sharing | joint_investigation | extradition | evidence_transfer | technical_assistance | capacity_building | asset_recovery
+      legal_basis: ""            # MLAT | Budapest_Convention | CLOUD_Act | bilateral_MOU | informal | unknown
+      direction: ""              # directed | undirected | unknown
   metrics:
     arrests: 0
     servers_seized: 0
@@ -92,6 +165,8 @@ Extract only explicitly stated numbers:
 - Ambiguous entity: add `_uncertain: true` flag
 - Multiple operations in one source: split into separate entries
 - Missing critical data: mark `data_completeness` as low
+- Unknown edge direction: default to `unknown`, do not guess
+- Period boundary cases: if action spans two periods, assign to the period of the primary action
 
 ## Tools Used
 Read, Write, Edit, Grep

@@ -67,6 +67,66 @@ phishing / credential theft / identity fraud → identity-theft
 - Verify date logic (operation end date >= start date)
 - Flag if metrics changed significantly from earlier reports of same operation
 
+## Capture-Recapture Tracking
+
+After each collection batch, record the capture-recapture analysis results in `_workspace/capture_recapture.md` (per research plan Section 4.2).
+
+### Record Format
+Append a new row after each source tier or language addition:
+
+```markdown
+| Added Source Tier | New Cases | Duplicate Cases | Cumulative Cases | New Case Rate (%) |
+|-------------------|-----------|-----------------|------------------|-------------------|
+| Tier 1 (legal documents) | - | - | N₁ | - |
+| + Tier 2 (agency press releases) | n₂ | d₂ | N₁ + n₂ | n₂/(N₁+n₂)×100 |
+| + Tier 3 (cybersec media) | n₃ | d₃ | cumulative + n₃ | ... |
+| + Tier 4 (general news) | n₄ | d₄ | cumulative + n₄ | ... |
+| + Multi-language sources | n₅ | d₅ | cumulative + n₅ | ... |
+```
+
+### Convergence Criterion
+- **New case rate < 5%** indicates sufficient population coverage
+- If rate does not converge, flag the need for additional source types (new language, new agency type)
+- Record convergence status in verification report
+
+## Missing Data Classification
+
+For each case, classify missing fields according to the research plan (Section 8):
+
+| Missing Type | Definition | Example |
+|-------------|------------|---------|
+| **Unit nonresponse** | Entire case not captured | Classified operations, unreported small-scale cooperation (estimated from capture-recapture) |
+| **Item nonresponse** | Case captured but specific field unknown | Arrest count not disclosed, legal basis not mentioned, some participating countries unidentified |
+
+### Recording Missing Data
+- Add `missing_fields: []` to the frontmatter listing all fields that could not be determined
+- Example: `missing_fields: ["num_arrests", "legal_basis", "outcome"]`
+- Do NOT delete or impute missing values at this stage; leave as empty/unknown and record the gap
+
+## Actor Name Standardization
+
+Extend the existing normalization table with a standardized `actor_id` format:
+
+```
+ORG-{type}-{slug}
+```
+
+| Type Code | Actor Type | Example actor_id |
+|-----------|-----------|-----------------|
+| `ILEA` | International law enforcement agency | ORG-ILEA-INTERPOL, ORG-ILEA-EUROPOL |
+| `NLEA` | National law enforcement agency | ORG-NLEA-FBI, ORG-NLEA-KNPA, ORG-NLEA-BKA |
+| `IO` | International organization | ORG-IO-UNODC, ORG-IO-COE |
+| `JUD` | Judiciary / prosecution | ORG-JUD-USDOJ, ORG-JUD-KRSPO |
+| `PRIV` | Private sector | ORG-PRIV-MSFT, ORG-PRIV-CHAINALYSIS |
+| `ACAD` | Academic institution | ORG-ACAD-CMU |
+| `NGO` | Non-governmental organization | ORG-NGO-NCMEC |
+
+### Standardization Rules
+- Map all variant names to their canonical actor_id
+- Add `actor_id` to each actor entry in the frontmatter
+- Update the normalization table in this file whenever new actors are encountered
+- Ensure consistent actor_id usage across edges and actor lists
+
 ## Input Protocol
 - File path(s) from `_workspace/evaluated/` (PASS items only)
 
@@ -80,9 +140,13 @@ phishing / credential theft / identity fraud → identity-theft
   cross_source_verified: false
   wiki_conflicts: []         # list of conflict descriptions
   verification_notes: ""
+  missing_fields: []         # list of field names with missing data
+  actor_ids: []              # list of ORG-{type}-{slug} identifiers
   status: "verified"
   ```
 - Verification report with: verified count, conflict count, normalization changes
+- Update `_workspace/capture_recapture.md` if this is a new batch
+- Note convergence status in report
 
 ## Tools Used
 Read, Write, Edit, Grep, Glob

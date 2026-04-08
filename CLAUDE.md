@@ -198,9 +198,13 @@ File: `wiki/operations/{operation-slug}.md`
 type: operation
 title: ""
 aliases: []
+case_id: ""                    # CYB-YYYY-NNN format (research methodology ID)
+period: 0                      # 1 (2015-2018) | 2 (2019-2022) | 3 (2023-2025)
 operation_type: ""             # takedown | joint-investigation | arrest-sweep
                                # infrastructure-seizure | undercover | capacity-building-exercise
 status: ""                     # completed | ongoing | stalled | classified
+enforcement_type: []           # arrest | seizure | takedown | extradition | asset_freeze | indictment
+outcome: ""                    # success | partial | failure | ongoing | unknown
 timeframe:
   announced: ""
   start: ""
@@ -223,6 +227,18 @@ results:
   decryption_keys_recovered: 0
   victims_notified: 0
   other: []
+edges:                         # cooperation relationships (SNA edge data)
+  - source_actor: ""           # actor name or actor_id
+    target_actor: ""           # actor name or actor_id
+    cooperation_type: ""       # info_sharing | joint_investigation | extradition
+                               # evidence_transfer | technical_assistance
+                               # capacity_building | asset_recovery
+    legal_basis: ""            # MLAT | Budapest_Convention | CLOUD_Act
+                               # bilateral_MOU | informal | unknown
+    direction: ""              # directed | undirected | unknown
+credibility_index: 0.0        # CI score from evaluator (0.6-5.0)
+source_tier: 0                 # 1-4 (highest tier source available)
+missing_fields: []             # fields with missing data (item nonresponse)
 related_cases: []              # wikilinks
 related_operations: []         # wikilinks
 challenges_encountered: []     # wikilinks

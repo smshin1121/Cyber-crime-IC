@@ -175,3 +175,36 @@
 - Pages updated: operations/_index.md, organizations/_index.md, sources/_index.md, crime-types/_index.md, countries/_index.md, index.md, overview.md, log.md, ic-statistics-dashboard.md, online-fraud-ic.md, operation-haechi-v.md
 - Total this batch: 21 pages created, 15 pages updated, 9 sources ingested
 - Wiki page count: 37 -> 59
+
+## [2026-04-08] ingest | Operation Stream / Kidflix CSAM Takedown (Pipeline Test — CSAM batch)
+- Source: raw/press-releases/2025-04-04_europol_operation-stream-kidflix-takedown.md
+- Pipeline: collector -> classifier -> evaluator -> verifier -> integrator (FULL UPDATED PIPELINE)
+- Pages created: 2025-04-04-europol-operation-stream-kidflix.md (source), operation-stream-kidflix.md (operation)
+- Pages updated: europol-ec3.md (pending), csam-ic.md
+- Key metrics: 79 arrests, 35+ countries, 1.8M platform users, 39 children protected
+- Case ID: CYB-2025-001 | Period: 3 | CI: 2.55 | Verdict: INCLUDE
+
+## [2026-04-08] ingest | Operation Cyber Guardian — Asia CSAM (Pipeline Test — CSAM batch)
+- Source: raw/press-releases/2025-04-07_korea-npa_operation-cyber-guardian-asia-csam.md
+- Pipeline: collector -> classifier -> evaluator -> verifier -> integrator (FULL UPDATED PIPELINE)
+- Pages created: 2025-04-07-korea-npa-operation-cyber-guardian.md (source), operation-cyber-guardian.md (operation)
+- Pages updated: south-korea.md (pending), csam-ic.md
+- Key metrics: 544 arrests, 6 Asian countries, Korea: 435 arrests (49% teenagers)
+- Case ID: CYB-2025-002 | Period: 3 | CI: 2.95 | Verdict: INCLUDE
+- Multi-language source (Korean): translated: true
+
+## [2026-04-08] ingest | Operation Orion International — South America CSAM (Pipeline Test — CSAM batch)
+- Source: raw/press-releases/2024-10-15_interpol_operation-orion-international-south-america-csam.md
+- Pipeline: collector -> classifier -> evaluator -> verifier -> integrator (FULL UPDATED PIPELINE)
+- Pages created: 2024-10-15-interpol-operation-orion-international.md (source), operation-orion-international.md (operation)
+- Pages updated: interpol-igci.md (pending), csam-ic.md
+- Key metrics: 144 arrests, 12 countries, 20 children rescued, 7 Red Notice arrests
+- Case ID: CYB-2024-001 | Period: 3 | CI: 2.28 | Verdict: INCLUDE
+
+## [2026-04-08] ingest | Batch integration — CSAM crime type, indexes (Pipeline Test)
+- Pages created: csam-ic.md (crime type — full page, NEW crime type)
+- Pages updated: operations/_index.md, sources/_index.md, crime-types/_index.md, index.md, log.md
+- Workspace files created: exclusion_log.md, capture_recapture.md
+- Total this batch: 7 pages created, 5 pages updated, 3 sources ingested
+- Wiki page count: 59 -> 66
+- Pipeline test: ALL new methodology features exercised (case_id, period, actors, edges, enforcement_type, outcome, CI formula, decision tree, missing_fields, capture-recapture)
