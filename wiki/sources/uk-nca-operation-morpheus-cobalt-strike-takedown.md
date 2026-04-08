@@ -13,7 +13,7 @@ credibility: "probably-true"
 sensitivity: "public"
 source_tier: 2
 pages_updated:
-  - [[operation-morpheus]]
+  - "operation-morpheus"
 key_findings: []
 created: 2026-04-08
 ---

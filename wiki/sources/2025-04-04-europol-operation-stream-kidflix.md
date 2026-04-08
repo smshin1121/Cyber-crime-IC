@@ -12,9 +12,9 @@ reliability: "medium"
 credibility: "probably-true"
 sensitivity: "public"
 pages_updated:
-  - "[[operation-stream-kidflix]]"
-  - "[[csam-ic]]"
-  - "[[europol-ec3]]"
+  - "operation-stream-kidflix"
+  - "csam-ic"
+  - "europol-ec3"
 key_findings:
   - "Operation Stream dismantled Kidflix, one of the largest CSAM platforms (1.8M users, 91K videos)"
   - "35+ countries coordinated under Europol; 79 arrests, 1,393 suspects identified, 39 children protected"

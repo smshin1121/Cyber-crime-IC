@@ -12,9 +12,9 @@ reliability: "high"
 credibility: "probably-true"
 sensitivity: "public"
 pages_updated:
-  - "[[franco-israeli-ceo-fraud]]"
-  - "[[europol-ec3]]"
-  - "[[bec-ic]]"
+  - "franco-israeli-ceo-fraud"
+  - "europol-ec3"
+  - "bec-ic"
 key_findings:
   - "Franco-Israeli criminal network dismantled for EUR 38 million CEO fraud/BEC attack"
   - "8 suspects arrested across France and Israel, EUR 5.5 million seized across 6 countries"

@@ -13,7 +13,7 @@ credibility: "probably-true"
 sensitivity: "public"
 source_tier: 2
 pages_updated:
-  - [[botnet-takedown-europol-2023]]
+  - "botnet-takedown-europol-2023"
 key_findings: []
 created: 2026-04-08
 ---

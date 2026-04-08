@@ -13,7 +13,7 @@ credibility: "probably-true"
 sensitivity: "public"
 source_tier: 2
 pages_updated:
-  - [[fin7-takedown]]
+  - "fin7-takedown"
 key_findings: []
 created: 2026-04-08
 ---

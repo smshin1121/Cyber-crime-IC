@@ -13,7 +13,8 @@ credibility: "probably-true"
 sensitivity: "public"
 source_tier: 2
 pages_updated:
-  - [[911-s5-botnet-takedown]], [[simda-botnet-takedown]]
+  - "911-s5-botnet-takedown"
+  - "simda-botnet-takedown"
 key_findings: []
 created: 2026-04-08
 ---

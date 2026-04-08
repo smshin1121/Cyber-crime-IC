@@ -13,7 +13,7 @@ credibility: "possibly-true"
 sensitivity: "public"
 source_tier: 4
 pages_updated:
-  - [[cryptex-pm2btc-sanctions]]
+  - "cryptex-pm2btc-sanctions"
 key_findings: []
 created: 2026-04-08
 ---

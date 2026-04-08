@@ -13,7 +13,7 @@ credibility: "possibly-true"
 sensitivity: "public"
 source_tier: 4
 pages_updated:
-  - [[operation-shrouded-horizon]]
+  - "operation-shrouded-horizon"
 key_findings: []
 created: 2026-04-08
 ---

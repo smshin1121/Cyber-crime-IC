@@ -13,7 +13,7 @@ credibility: "probably-true"
 sensitivity: "public"
 source_tier: 2
 pages_updated:
-  - [[fake-shopping-sites-takedown-2024]]
+  - "fake-shopping-sites-takedown-2024"
 key_findings: []
 created: 2026-04-08
 ---

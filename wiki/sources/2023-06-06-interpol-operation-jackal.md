@@ -12,9 +12,9 @@ reliability: "high"
 credibility: "probably-true"
 sensitivity: "public"
 pages_updated:
-  - "[[operation-jackal]]"
-  - "[[interpol-igci]]"
-  - "[[bec-ic]]"
+  - "operation-jackal"
+  - "interpol-igci"
+  - "bec-ic"
 key_findings:
   - "INTERPOL coordinated Operation Jackal across 21 countries targeting Black Axe organized crime"
   - "103 arrests, 1,110 suspects identified, 208 bank accounts blocked, EUR 2.15 million seized"

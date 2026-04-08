@@ -13,7 +13,7 @@ credibility: "probably-true"
 sensitivity: "public"
 source_tier: 2
 pages_updated:
-  - [[cyber-fraud-international-2015]]
+  - "cyber-fraud-international-2015"
 key_findings: []
 created: 2026-04-08
 ---

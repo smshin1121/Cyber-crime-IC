@@ -12,9 +12,9 @@ reliability: "high"
 credibility: "confirmed"
 sensitivity: "public"
 pages_updated:
-  - "[[operation-checkmate-blacksuit]]"
-  - "[[fbi-cyber-division]]"
-  - "[[ransomware-ic]]"
+  - "operation-checkmate-blacksuit"
+  - "fbi-cyber-division"
+  - "ransomware-ic"
 key_findings:
   - "Operation Checkmate dismantled BlackSuit (formerly Royal) ransomware infrastructure"
   - "4 servers and 9 domains seized on 24 July 2025"

@@ -13,7 +13,7 @@ credibility: "possibly-true"
 sensitivity: "public"
 source_tier: 4
 pages_updated:
-  - [[phobos-8base-crackdown]]
+  - "phobos-8base-crackdown"
 key_findings: []
 created: 2026-04-08
 ---

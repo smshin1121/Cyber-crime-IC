@@ -13,7 +13,7 @@ credibility: "probably-true"
 sensitivity: "public"
 source_tier: 2
 pages_updated:
-  - [[ddos-for-hire-sweep-2016]]
+  - "ddos-for-hire-sweep-2016"
 key_findings: []
 created: 2026-04-08
 ---

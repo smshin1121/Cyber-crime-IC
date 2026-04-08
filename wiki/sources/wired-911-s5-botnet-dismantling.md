@@ -13,7 +13,8 @@ credibility: "possibly-true"
 sensitivity: "public"
 source_tier: 3
 pages_updated:
-  - [[911-s5-botnet-takedown]], [[operation-avalanche]]
+  - "911-s5-botnet-takedown"
+  - "operation-avalanche"
 key_findings: []
 created: 2026-04-08
 ---

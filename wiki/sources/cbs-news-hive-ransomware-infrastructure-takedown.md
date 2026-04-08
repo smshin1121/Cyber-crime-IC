@@ -13,7 +13,8 @@ credibility: "possibly-true"
 sensitivity: "public"
 source_tier: 4
 pages_updated:
-  - [[hive-ransomware-takedown]], [[phobos-8base-crackdown]]
+  - "hive-ransomware-takedown"
+  - "phobos-8base-crackdown"
 key_findings: []
 created: 2026-04-08
 ---

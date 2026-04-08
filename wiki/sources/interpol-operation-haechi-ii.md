@@ -13,7 +13,7 @@ credibility: "probably-true"
 sensitivity: "public"
 source_tier: 2
 pages_updated:
-  - [[operation-haechi-ii]]
+  - "operation-haechi-ii"
 key_findings: []
 created: 2026-04-08
 ---

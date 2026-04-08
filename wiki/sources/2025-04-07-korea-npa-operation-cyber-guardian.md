@@ -12,9 +12,9 @@ reliability: "high"
 credibility: "probably-true"
 sensitivity: "public"
 pages_updated:
-  - "[[operation-cyber-guardian]]"
-  - "[[csam-ic]]"
-  - "[[south-korea]]"
+  - "operation-cyber-guardian"
+  - "csam-ic"
+  - "south-korea"
 key_findings:
   - "6 Asian countries/regions coordinated 'Operation Cyber Guardian' targeting CSAM (Feb-Mar 2025)"
   - "544 arrests total; South Korea accounted for 435 (374 by national unit)"

@@ -13,7 +13,7 @@ credibility: "probably-true"
 sensitivity: "public"
 source_tier: 2
 pages_updated:
-  - [[romania-phishing-takedown-2024]]
+  - "romania-phishing-takedown-2024"
 key_findings: []
 created: 2026-04-08
 ---

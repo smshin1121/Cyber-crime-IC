@@ -12,9 +12,9 @@ reliability: "high"
 credibility: "probably-true"
 sensitivity: "public"
 pages_updated:
-  - "[[operation-synergia-ii]]"
-  - "[[interpol-igci]]"
-  - "[[ransomware-ic]]"
+  - "operation-synergia-ii"
+  - "interpol-igci"
+  - "ransomware-ic"
 key_findings:
   - "Operation Synergia II involved 95 INTERPOL member countries — one of the broadest INTERPOL cyber operations to date"
   - "22,800 malicious IP addresses taken down (76% of ~30,000 identified)"

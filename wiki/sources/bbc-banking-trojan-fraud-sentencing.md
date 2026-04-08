@@ -13,7 +13,7 @@ credibility: "possibly-true"
 sensitivity: "public"
 source_tier: 4
 pages_updated:
-  - [[banking-trojan-fraud-sentencing-2017]]
+  - "banking-trojan-fraud-sentencing-2017"
 key_findings: []
 created: 2026-04-08
 ---

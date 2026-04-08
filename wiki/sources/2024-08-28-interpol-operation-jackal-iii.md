@@ -12,9 +12,9 @@ reliability: "high"
 credibility: "probably-true"
 sensitivity: "public"
 pages_updated:
-  - "[[operation-jackal-iii]]"
-  - "[[interpol-igci]]"
-  - "[[bec-ic]]"
+  - "operation-jackal-iii"
+  - "interpol-igci"
+  - "bec-ic"
 key_findings:
   - "Operation Jackal III across 21 countries resulted in ~300 arrests, nearly tripling Jackal (2023)"
   - "720+ bank accounts blocked, USD 3 million seized targeting Black Axe"

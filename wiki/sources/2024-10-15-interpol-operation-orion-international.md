@@ -12,9 +12,9 @@ reliability: "high"
 credibility: "probably-true"
 sensitivity: "public"
 pages_updated:
-  - "[[operation-orion-international]]"
-  - "[[csam-ic]]"
-  - "[[interpol-igci]]"
+  - "operation-orion-international"
+  - "csam-ic"
+  - "interpol-igci"
 key_findings:
   - "INTERPOL coordinated 'Operation Orion International' across 12 South American countries (May-Sep 2024)"
   - "144 arrests, 20 children rescued, 7 Red Notice subjects apprehended"

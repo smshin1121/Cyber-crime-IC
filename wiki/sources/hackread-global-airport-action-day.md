@@ -13,7 +13,7 @@ credibility: "possibly-true"
 sensitivity: "public"
 source_tier: 3
 pages_updated:
-  - [[global-airport-action-day]]
+  - "global-airport-action-day"
 key_findings: []
 created: 2026-04-08
 ---

@@ -12,9 +12,9 @@ reliability: "medium"
 credibility: "possibly-true"
 sensitivity: "public"
 pages_updated:
-  - "[[korea-china-voice-phishing-qingdao]]"
-  - "[[south-korea]]"
-  - "[[voice-phishing-ic]]"
+  - "korea-china-voice-phishing-qingdao"
+  - "south-korea"
+  - "voice-phishing-ic"
 key_findings:
   - "First major Korea-China joint voice phishing operation under bilateral cooperation agreement"
   - "16 arrests (13 Koreans, 3 Chinese) for KRW 2.7 billion (USD 2M) voice phishing from Qingdao base"

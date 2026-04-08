@@ -12,9 +12,9 @@ reliability: "medium"
 credibility: "probably-true"
 sensitivity: "public"
 pages_updated:
-  - "[[korea-cambodia-scam-repatriation]]"
-  - "[[south-korea]]"
-  - "[[voice-phishing-ic]]"
+  - "korea-cambodia-scam-repatriation"
+  - "south-korea"
+  - "voice-phishing-ic"
 key_findings:
   - "107+ Korean nationals repatriated from Cambodia for scam centre operations (October 2025 + January 2026)"
   - "Estimated 1,000 Korean citizens working in Cambodian scam centres"

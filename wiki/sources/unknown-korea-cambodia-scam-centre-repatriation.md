@@ -13,7 +13,7 @@ credibility: "possibly-true"
 sensitivity: "public"
 source_tier: 4
 pages_updated:
-  - [[korea-cambodia-scam-repatriation]]
+  - "korea-cambodia-scam-repatriation"
 key_findings: []
 created: 2026-04-08
 ---

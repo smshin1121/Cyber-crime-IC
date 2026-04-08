@@ -12,8 +12,8 @@ reliability: "high"
 credibility: "confirmed"
 sensitivity: "public"
 pages_updated:
-  - "[[isoon-apt27-indictment]]"
-  - "[[fbi-cyber-division]]"
+  - "isoon-apt27-indictment"
+  - "fbi-cyber-division"
 key_findings:
   - "12 Chinese nationals charged including 2 MPS officers and 8 i-Soon employees"
   - "i-Soon operated as hacker-for-hire ecosystem generating tens of millions of dollars in revenue"

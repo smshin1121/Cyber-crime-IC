@@ -13,7 +13,7 @@ credibility: "possibly-true"
 sensitivity: "public"
 source_tier: 4
 pages_updated:
-  - [[operation-secure-interpol]]
+  - "operation-secure-interpol"
 key_findings: []
 created: 2026-04-08
 ---

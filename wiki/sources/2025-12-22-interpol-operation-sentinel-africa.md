@@ -12,9 +12,9 @@ reliability: "high"
 credibility: "probably-true"
 sensitivity: "public"
 pages_updated:
-  - "[[operation-sentinel-africa]]"
-  - "[[interpol-igci]]"
-  - "[[bec-ic]]"
+  - "operation-sentinel-africa"
+  - "interpol-igci"
+  - "bec-ic"
 key_findings:
   - "574 arrests and USD 3 million recovered across 19 African countries"
   - "BEC, digital extortion, and ransomware targeted; 6 ransomware variants decrypted"

@@ -13,7 +13,8 @@ credibility: "possibly-true"
 sensitivity: "public"
 source_tier: 3
 pages_updated:
-  - [[operation-avalanche]], [[operation-synergia-ii]]
+  - "operation-avalanche"
+  - "operation-synergia-ii"
 key_findings: []
 created: 2026-04-08
 ---

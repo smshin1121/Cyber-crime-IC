@@ -13,7 +13,8 @@ credibility: "possibly-true"
 sensitivity: "public"
 source_tier: 4
 pages_updated:
-  - [[911-s5-botnet-takedown]], [[operation-stream-kidflix]]
+  - "911-s5-botnet-takedown"
+  - "operation-stream-kidflix"
 key_findings: []
 created: 2026-04-08
 ---

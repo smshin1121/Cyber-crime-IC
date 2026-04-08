@@ -13,7 +13,7 @@ credibility: "probably-true"
 sensitivity: "public"
 source_tier: 2
 pages_updated:
-  - [[andromeda-botnet-takedown]]
+  - "andromeda-botnet-takedown"
 key_findings: []
 created: 2026-04-08
 ---
