@@ -1,6 +1,6 @@
 # Wiki Index
 
-*Last updated: 2026-04-08 | Total pages: 70 | Total sources: 28*
+*Last updated: 2026-04-08 | Total pages: 132 | Total sources: 28*
 
 ## Legal Frameworks (1)
 - [[budapest-convention]] — First binding international treaty on cybercrime; 70+ parties; core IC provisions (Art. 29, 31, 32, 35)
@@ -17,7 +17,7 @@
 ## Countries (1)
 - [[south-korea]] — Civil law; Budapest Convention party (2024); high IC capacity; HAECHI lead; Phobos/8Base arrest and extradition
 
-## Operations (27)
+## Operations (82)
 - [[franco-israeli-ceo-fraud]] — Franco-Israeli CEO fraud/BEC bust (2022-2023); 7 countries, 8 arrests, EUR 5.5M seized
 - [[operation-jackal]] — INTERPOL vs Black Axe BEC (May 2023); 21 countries, 103 arrests, EUR 2.15M seized
 - [[korea-china-voice-phishing-qingdao]] — First Korea-China voice phishing joint op (Aug 2023); 16 arrests, KRW 2.7B losses

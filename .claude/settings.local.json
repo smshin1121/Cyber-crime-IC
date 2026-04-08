@@ -25,7 +25,11 @@
       "WebFetch(domain:www.seoul.co.kr)",
       "WebFetch(domain:securityaffairs.com)",
       "WebFetch(domain:www.trmlabs.com)",
-      "Bash(python -c ':*)"
+      "Bash(python -c ':*)",
+      "Bash(ls -la C:/Users/shin1121/Desktop/Cyber_crime_IC/wiki/operations/*.md)",
+      "Bash(python -c \" import sys, json lines = sys.stdin.read\\(\\).strip\\(\\).split\\('\\\\n'\\) for line in lines[-3:]: try: d = json.loads\\(line\\) if d.get\\('type'\\) == 'assistant': content = d.get\\('message',{}\\).get\\('content',[]\\) for c in content: if c.get\\('type'\\) == 'text': print\\(c['text'][-500:]\\) except: pass \")",
+      "Bash(ls C:/Users/shin1121/Desktop/Cyber_crime_IC/wiki/operations/*.md)",
+      "Bash(python tools/apply_multi_source.py)"
     ]
   },
   "enabledPlugins": {

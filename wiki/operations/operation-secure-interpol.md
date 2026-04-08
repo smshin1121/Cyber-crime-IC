@@ -11,7 +11,7 @@ enforcement_type:
   - "takedown"
   - "seizure"
 outcome: "success"
-credibility_index: 2.28
+credibility_index: 1.85
 source_tier: 2
 edges:
   - source_actor: "INTERPOL"
@@ -152,3 +152,10 @@ South Korea (대한민국) was among the 26 participating countries. Specific Ko
 - Per-country breakdown of arrests and infrastructure actions not disclosed.
 - Macau (China) and Kiribati mentioned in some source data but not confirmed in primary source.
 - Legal basis for cross-border data sharing across 26 jurisdictions not specified.
+
+## References
+
+| # | Title | Publisher | Date | URL |
+|---|-------|----------|------|-----|
+| [1] | Source 1 | straitstimes.com | - | [원본](https://www.straitstimes.com/singapore/more-than-9000-malware-infected-servers-found-by-singapore-based-interpol-operation) |
+| [2] | Source 2 | freemalaysiatoday.com | - | [원본](https://www.freemalaysiatoday.com/category/nation/2017/04/24/interpol-finds-9000-compromised-websites) |

@@ -11,10 +11,14 @@
             "id": "0ee428e69a94551e",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "그래프 뷰"
+              "type": "markdown",
+              "state": {
+                "file": "2026-04-08.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "2026-04-08"
             }
           }
         ]
@@ -90,6 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "2026-04-08.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -99,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "백링크"
+              "title": "2026-04-08 의 백링크"
             }
           },
           {
@@ -108,11 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "2026-04-08.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "나가는 링크"
+              "title": "2026-04-08 의 나가는 링크"
             }
           },
           {
@@ -150,12 +156,13 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "2026-04-08.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "개요"
+              "title": "2026-04-08 의 개요"
             }
           }
         ]
@@ -178,32 +185,34 @@
   },
   "active": "0ee428e69a94551e",
   "lastOpenFiles": [
+    "operations/911-s5-botnet-takedown.md",
+    "operations/fake-shopping-sites-takedown-2024.md",
+    "operations/xhelper-upi-money-mule.md",
+    "operations/romania-phishing-takedown-2024.md",
+    "operations/belgium-netherlands-phishing-gang.md",
+    "operations/hive-ransomware-takedown.md",
+    "operations/zambia-golden-top-call-center.md",
+    "operations/botnet-takedown-europol-2023.md",
+    "operations/rydox-marketplace-takedown.md",
+    "operations/operation-killer-bee.md",
+    "operations/cryptex-pm2btc-sanctions.md",
+    "operations/operation-haechi-ii.md",
+    "operations/operation-destabilise.md",
+    "operations/operation-secreto.md",
+    "operations/operation-morpheus.md",
+    "operations/2bagoldmule-qqaazz.md",
+    "operations/nigerian-bec-convictions-2023.md",
+    "operations/operation-goldfish-alpha-night-fury.md",
+    "operations/operation-falcon.md",
+    "operations/operation-nervone.md",
+    "operations/blackcat-lockeroga-kelvin-security-2023.md",
+    "operations/goznym-takedown.md",
+    "operations/rex-mundi-takedown.md",
+    "operations/africa-cyber-surge-ii.md",
+    "operations/fin7-takedown.md",
+    "operations/operation-delilah.md",
+    "operations/qqaazz-money-laundering-takedown.md.tmp.43232.1775657345444",
     "log.md.tmp.43232.1775655885028",
-    "operations/operation-secure-interpol.md",
-    "operations/operation-talent.md",
-    "operations/operation-contender-2.md",
-    "operations/operation-red-card.md",
-    "mechanisms/24-7-network.md",
-    "crime-types/csam-ic.md",
-    "operations/operation-orion-international.md",
-    "operations/operation-cyber-guardian.md",
-    "operations/operation-stream-kidflix.md",
-    "sources/2024-10-15-interpol-operation-orion-international.md",
-    "sources/2025-04-07-korea-npa-operation-cyber-guardian.md",
-    "sources/2025-04-04-europol-operation-stream-kidflix.md",
-    "organizations/seoul-metropolitan-police.md",
-    "crime-types/voice-phishing-ic.md",
-    "crime-types/bec-ic.md",
-    "operations/korea-cambodia-scam-repatriation.md",
-    "operations/operation-haechi-vi.md",
-    "operations/operation-first-light-2024.md",
-    "operations/operation-haechi-iv.md",
-    "operations/korea-china-voice-phishing-qingdao.md",
-    "operations/operation-sentinel-africa.md",
-    "operations/operation-jackal-iii.md",
-    "operations/operation-jackal.md",
-    "operations/franco-israeli-ceo-fraud.md",
-    "sources/2025-10-18-korea-cambodia-scam-repatriation.md",
     "crime-types/ransomware-ic.md.tmp.43232.1775644828719"
   ]
 }
