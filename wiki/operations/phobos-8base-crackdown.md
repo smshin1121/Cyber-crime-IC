@@ -4,6 +4,37 @@ title: "Phobos/8Base Ransomware Crackdown"
 aliases: ["Phobos 8Base operation", "8Base arrests Feb 2025"]
 operation_type: "arrest-sweep"
 status: "completed"
+case_id: "CYB-2025-003"
+period: 3
+enforcement_type:
+  - "arrest"
+  - "seizure"
+  - "takedown"
+  - "extradition"
+outcome: "success"
+credibility_index: 2.28
+source_tier: 2
+edges:
+  - source_actor: "Europol"
+    target_actor: "FBI"
+    cooperation_type: "joint_investigation"
+    legal_basis: "unknown"
+    direction: "undirected"
+  - source_actor: "South Korea Police"
+    target_actor: "FBI"
+    cooperation_type: "extradition"
+    legal_basis: "MLAT"
+    direction: "directed"
+  - source_actor: "Europol"
+    target_actor: "Eurojust"
+    cooperation_type: "joint_investigation"
+    legal_basis: "unknown"
+    direction: "undirected"
+missing_fields:
+  - "legal_basis"
+  - "mechanisms_used"
+  - "specific_korean_agency"
+  - "extradition_legal_basis"
 timeframe:
   announced: "2025-02-11"
   start: "2019-02"

@@ -4,6 +4,35 @@ title: "Operation Synergia II"
 aliases: ["Synergia II", "Synergia 2"]
 operation_type: "infrastructure-seizure"
 status: "completed"
+case_id: "CYB-2024-007"
+period: 3
+enforcement_type:
+  - "arrest"
+  - "seizure"
+  - "takedown"
+outcome: "success"
+credibility_index: 2.28
+source_tier: 2
+edges:
+  - source_actor: "INTERPOL"
+    target_actor: "Group-IB"
+    cooperation_type: "info_sharing"
+    legal_basis: "unknown"
+    direction: "directed"
+  - source_actor: "INTERPOL"
+    target_actor: "Trend Micro"
+    cooperation_type: "info_sharing"
+    legal_basis: "unknown"
+    direction: "directed"
+  - source_actor: "INTERPOL"
+    target_actor: "Hong Kong Police"
+    cooperation_type: "joint_investigation"
+    legal_basis: "unknown"
+    direction: "undirected"
+missing_fields:
+  - "legal_basis"
+  - "mechanisms_used"
+  - "full_participating_countries_list"
 timeframe:
   announced: "2024-11-06"
   start: "2024-04-01"

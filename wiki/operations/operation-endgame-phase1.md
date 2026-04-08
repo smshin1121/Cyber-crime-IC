@@ -4,6 +4,35 @@ title: "Operation Endgame — Phase 1 (Botnet Takedown)"
 aliases: ["Operation Endgame Phase 1", "Endgame botnet takedown May 2024"]
 operation_type: "takedown"
 status: "completed"
+case_id: "CYB-2024-003"
+period: 3
+enforcement_type:
+  - "arrest"
+  - "seizure"
+  - "takedown"
+  - "asset_freeze"
+outcome: "success"
+credibility_index: 2.28
+source_tier: 2
+edges:
+  - source_actor: "Europol"
+    target_actor: "German BKA"
+    cooperation_type: "joint_investigation"
+    legal_basis: "unknown"
+    direction: "undirected"
+  - source_actor: "Europol"
+    target_actor: "FBI"
+    cooperation_type: "joint_investigation"
+    legal_basis: "unknown"
+    direction: "undirected"
+  - source_actor: "Europol"
+    target_actor: "Eurojust"
+    cooperation_type: "joint_investigation"
+    legal_basis: "unknown"
+    direction: "undirected"
+missing_fields:
+  - "legal_basis"
+  - "mechanisms_used"
 timeframe:
   announced: "2024-05-30"
   start: "2024-05-27"

@@ -4,6 +4,29 @@ title: "Operation Jackal III"
 aliases: ["Jackal III"]
 operation_type: "arrest-sweep"
 status: "completed"
+case_id: "CYB-2024-005"
+period: 3
+enforcement_type:
+  - "arrest"
+  - "asset_freeze"
+outcome: "success"
+credibility_index: 2.28
+source_tier: 2
+edges:
+  - source_actor: "INTERPOL"
+    target_actor: "Argentina Police"
+    cooperation_type: "joint_investigation"
+    legal_basis: "unknown"
+    direction: "undirected"
+  - source_actor: "INTERPOL"
+    target_actor: "Ireland Police"
+    cooperation_type: "joint_investigation"
+    legal_basis: "unknown"
+    direction: "undirected"
+missing_fields:
+  - "legal_basis"
+  - "mechanisms_used"
+  - "full_participating_countries_list"
 timeframe:
   announced: "2024-08-28"
   start: "2024-04-10"

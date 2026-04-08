@@ -4,6 +4,30 @@ title: "Korea-Cambodia Scam Centre Repatriation"
 aliases: ["Korea-Cambodia scam repatriation", "Cambodia scam centre crackdown"]
 operation_type: "arrest-sweep"
 status: "ongoing"
+case_id: "CYB-2025-009"
+period: 3
+enforcement_type:
+  - "arrest"
+  - "extradition"
+outcome: "ongoing"
+credibility_index: 1.88
+source_tier: 3
+edges:
+  - source_actor: "KNPA"
+    target_actor: "Cambodia Police"
+    cooperation_type: "joint_investigation"
+    legal_basis: "unknown"
+    direction: "directed"
+  - source_actor: "KNPA"
+    target_actor: "Laos Police"
+    cooperation_type: "joint_investigation"
+    legal_basis: "unknown"
+    direction: "directed"
+missing_fields:
+  - "legal_basis"
+  - "mechanisms_used"
+  - "specific_bilateral_agreements"
+  - "exact_arrest_count"
 timeframe:
   announced: "2025-10-18"
   start: "2025-10"

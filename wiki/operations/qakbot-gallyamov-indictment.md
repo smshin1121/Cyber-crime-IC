@@ -4,6 +4,33 @@ title: "QakBot / Gallyamov Indictment"
 aliases: ["Qakbot Indictment", "United States v. Gallyamov"]
 operation_type: "joint-investigation"
 status: "ongoing"
+case_id: "CYB-2025-005"
+period: 3
+enforcement_type:
+  - "indictment"
+  - "asset_freeze"
+outcome: "ongoing"
+credibility_index: 2.28
+source_tier: 2
+edges:
+  - source_actor: "FBI"
+    target_actor: "Europol"
+    cooperation_type: "joint_investigation"
+    legal_basis: "unknown"
+    direction: "undirected"
+  - source_actor: "FBI"
+    target_actor: "German BKA"
+    cooperation_type: "joint_investigation"
+    legal_basis: "unknown"
+    direction: "undirected"
+  - source_actor: "FBI"
+    target_actor: "Dutch National Police"
+    cooperation_type: "joint_investigation"
+    legal_basis: "unknown"
+    direction: "undirected"
+missing_fields:
+  - "legal_basis"
+  - "mechanisms_used"
 timeframe:
   announced: "2025-05-22"
   start: "2008"

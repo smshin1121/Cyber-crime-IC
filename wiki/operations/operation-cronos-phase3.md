@@ -4,6 +4,34 @@ title: "Operation Cronos — Phase 3 (LockBit Arrests and Sanctions)"
 aliases: ["Operation Cronos Phase 3", "LockBit power cut Oct 2024"]
 operation_type: "arrest-sweep"
 status: "completed"
+case_id: "CYB-2024-006"
+period: 3
+enforcement_type:
+  - "arrest"
+  - "seizure"
+  - "asset_freeze"
+outcome: "success"
+credibility_index: 2.28
+source_tier: 2
+edges:
+  - source_actor: "Europol"
+    target_actor: "UK NCA"
+    cooperation_type: "joint_investigation"
+    legal_basis: "unknown"
+    direction: "undirected"
+  - source_actor: "Europol"
+    target_actor: "FBI"
+    cooperation_type: "joint_investigation"
+    legal_basis: "unknown"
+    direction: "undirected"
+  - source_actor: "Australia"
+    target_actor: "United Kingdom"
+    cooperation_type: "asset_recovery"
+    legal_basis: "unknown"
+    direction: "undirected"
+missing_fields:
+  - "legal_basis"
+  - "mechanisms_used"
 timeframe:
   announced: "2024-10-01"
   start: "2024-10-01"

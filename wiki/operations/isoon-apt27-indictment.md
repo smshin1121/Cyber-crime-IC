@@ -4,6 +4,29 @@ title: "i-Soon/APT27 Indictment (Chinese Contract Hackers)"
 aliases: ["i-Soon Indictment", "APT27 Indictment", "Anxun Indictment"]
 operation_type: "joint-investigation"
 status: "ongoing"
+case_id: "CYB-2025-004"
+period: 3
+enforcement_type:
+  - "indictment"
+  - "asset_freeze"
+outcome: "ongoing"
+credibility_index: 2.28
+source_tier: 2
+edges:
+  - source_actor: "FBI"
+    target_actor: "US DOJ"
+    cooperation_type: "joint_investigation"
+    legal_basis: "unknown"
+    direction: "undirected"
+  - source_actor: "US Department of State"
+    target_actor: "US Treasury"
+    cooperation_type: "asset_recovery"
+    legal_basis: "unknown"
+    direction: "undirected"
+missing_fields:
+  - "legal_basis"
+  - "mechanisms_used"
+  - "international_cooperation_partners"
 timeframe:
   announced: "2025-03-05"
   start: ""

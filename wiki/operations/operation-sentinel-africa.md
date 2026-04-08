@@ -4,6 +4,33 @@ title: "Operation Sentinel (Africa)"
 aliases: ["Operation Sentinel", "Sentinel"]
 operation_type: "arrest-sweep"
 status: "completed"
+case_id: "CYB-2025-010"
+period: 3
+enforcement_type:
+  - "arrest"
+  - "takedown"
+outcome: "success"
+credibility_index: 2.28
+source_tier: 2
+edges:
+  - source_actor: "INTERPOL"
+    target_actor: "AFRIPOL"
+    cooperation_type: "joint_investigation"
+    legal_basis: "unknown"
+    direction: "undirected"
+  - source_actor: "INTERPOL"
+    target_actor: "Nigeria Police"
+    cooperation_type: "joint_investigation"
+    legal_basis: "unknown"
+    direction: "undirected"
+  - source_actor: "INTERPOL"
+    target_actor: "Senegal Police"
+    cooperation_type: "joint_investigation"
+    legal_basis: "unknown"
+    direction: "undirected"
+missing_fields:
+  - "legal_basis"
+  - "mechanisms_used"
 timeframe:
   announced: "2025-12-22"
   start: "2025-10-27"

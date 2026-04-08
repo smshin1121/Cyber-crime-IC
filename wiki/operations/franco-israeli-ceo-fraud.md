@@ -4,6 +4,33 @@ title: "Franco-Israeli CEO Fraud Investigation"
 aliases: ["Franco-Israeli CEO fraud bust", "EUR 38 million CEO fraud"]
 operation_type: "joint-investigation"
 status: "completed"
+case_id: "CYB-2023-001"
+period: 3
+enforcement_type:
+  - "arrest"
+  - "asset_freeze"
+outcome: "success"
+credibility_index: 2.28
+source_tier: 2
+edges:
+  - source_actor: "France Police Nationale"
+    target_actor: "Europol"
+    cooperation_type: "joint_investigation"
+    legal_basis: "unknown"
+    direction: "undirected"
+  - source_actor: "France Police Nationale"
+    target_actor: "Israel Police"
+    cooperation_type: "joint_investigation"
+    legal_basis: "unknown"
+    direction: "undirected"
+  - source_actor: "Europol"
+    target_actor: "Israel Police"
+    cooperation_type: "joint_investigation"
+    legal_basis: "unknown"
+    direction: "undirected"
+missing_fields:
+  - "legal_basis"
+  - "mechanisms_used"
 timeframe:
   announced: "2023-02-08"
   start: "2022-01"

@@ -4,6 +4,29 @@ title: "Operation HAECHI V"
 aliases: ["HAECHI V", "HAECHI 5"]
 operation_type: "arrest-sweep"
 status: "completed"
+case_id: "CYB-2024-009"
+period: 3
+enforcement_type:
+  - "arrest"
+  - "asset_freeze"
+outcome: "success"
+credibility_index: 2.28
+source_tier: 2
+edges:
+  - source_actor: "KNPA"
+    target_actor: "INTERPOL"
+    cooperation_type: "joint_investigation"
+    legal_basis: "unknown"
+    direction: "undirected"
+  - source_actor: "KNPA"
+    target_actor: "Chinese Public Security Bureau"
+    cooperation_type: "joint_investigation"
+    legal_basis: "bilateral_MOU"
+    direction: "undirected"
+missing_fields:
+  - "legal_basis"
+  - "mechanisms_used"
+  - "full_participating_countries_list"
 timeframe:
   announced: "2024-12-02"
   start: "2024-07"

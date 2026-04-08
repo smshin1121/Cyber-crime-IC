@@ -4,6 +4,29 @@ title: "Operation First Light 2024"
 aliases: ["First Light 2024"]
 operation_type: "arrest-sweep"
 status: "completed"
+case_id: "CYB-2024-004"
+period: 3
+enforcement_type:
+  - "arrest"
+  - "asset_freeze"
+outcome: "success"
+credibility_index: 2.28
+source_tier: 2
+edges:
+  - source_actor: "INTERPOL"
+    target_actor: "AFRIPOL"
+    cooperation_type: "joint_investigation"
+    legal_basis: "unknown"
+    direction: "undirected"
+  - source_actor: "INTERPOL"
+    target_actor: "Europol"
+    cooperation_type: "joint_investigation"
+    legal_basis: "unknown"
+    direction: "undirected"
+missing_fields:
+  - "legal_basis"
+  - "mechanisms_used"
+  - "participating_countries_list"
 timeframe:
   announced: "2024-06-18"
   start: "2024-03"

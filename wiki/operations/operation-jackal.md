@@ -4,6 +4,33 @@ title: "Operation Jackal"
 aliases: ["Jackal", "Operation Jackal I"]
 operation_type: "arrest-sweep"
 status: "completed"
+case_id: "CYB-2023-002"
+period: 3
+enforcement_type:
+  - "arrest"
+  - "asset_freeze"
+outcome: "success"
+credibility_index: 2.28
+source_tier: 2
+edges:
+  - source_actor: "INTERPOL"
+    target_actor: "Nigeria Police"
+    cooperation_type: "joint_investigation"
+    legal_basis: "unknown"
+    direction: "undirected"
+  - source_actor: "INTERPOL"
+    target_actor: "Ireland Police"
+    cooperation_type: "joint_investigation"
+    legal_basis: "unknown"
+    direction: "undirected"
+  - source_actor: "INTERPOL"
+    target_actor: "Portugal Police"
+    cooperation_type: "joint_investigation"
+    legal_basis: "unknown"
+    direction: "undirected"
+missing_fields:
+  - "legal_basis"
+  - "mechanisms_used"
 timeframe:
   announced: "2023-06-06"
   start: "2023-05-15"

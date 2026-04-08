@@ -4,6 +4,34 @@ title: "Operation Endgame — Phase 2 (Ransomware Kill Chain Disruption)"
 aliases: ["Operation Endgame Phase 2", "Endgame Phase 2 May 2025"]
 operation_type: "infrastructure-seizure"
 status: "completed"
+case_id: "CYB-2025-006"
+period: 3
+enforcement_type:
+  - "seizure"
+  - "takedown"
+  - "asset_freeze"
+outcome: "success"
+credibility_index: 2.28
+source_tier: 2
+edges:
+  - source_actor: "Europol"
+    target_actor: "German BKA"
+    cooperation_type: "joint_investigation"
+    legal_basis: "unknown"
+    direction: "undirected"
+  - source_actor: "Europol"
+    target_actor: "FBI"
+    cooperation_type: "joint_investigation"
+    legal_basis: "unknown"
+    direction: "undirected"
+  - source_actor: "Europol"
+    target_actor: "Eurojust"
+    cooperation_type: "joint_investigation"
+    legal_basis: "unknown"
+    direction: "undirected"
+missing_fields:
+  - "legal_basis"
+  - "mechanisms_used"
 timeframe:
   announced: "2025-05-23"
   start: "2025-05-19"

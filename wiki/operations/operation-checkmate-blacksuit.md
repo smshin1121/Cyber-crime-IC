@@ -4,6 +4,35 @@ title: "Operation Checkmate (BlackSuit/Royal Ransomware Takedown)"
 aliases: ["Operation Checkmate", "BlackSuit Takedown", "Royal Ransomware Takedown"]
 operation_type: "takedown"
 status: "completed"
+case_id: "CYB-2025-007"
+period: 3
+enforcement_type:
+  - "seizure"
+  - "takedown"
+  - "asset_freeze"
+outcome: "success"
+credibility_index: 2.28
+source_tier: 2
+edges:
+  - source_actor: "FBI"
+    target_actor: "UK Law Enforcement"
+    cooperation_type: "joint_investigation"
+    legal_basis: "unknown"
+    direction: "undirected"
+  - source_actor: "FBI"
+    target_actor: "German Law Enforcement"
+    cooperation_type: "joint_investigation"
+    legal_basis: "unknown"
+    direction: "undirected"
+  - source_actor: "HSI"
+    target_actor: "FBI"
+    cooperation_type: "joint_investigation"
+    legal_basis: "unknown"
+    direction: "undirected"
+missing_fields:
+  - "legal_basis"
+  - "mechanisms_used"
+  - "specific_international_agencies"
 timeframe:
   announced: "2025-08-11"
   start: "2022"

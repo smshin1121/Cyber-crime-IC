@@ -4,6 +4,29 @@ title: "Operation HAECHI IV"
 aliases: ["HAECHI IV", "HAECHI 4"]
 operation_type: "arrest-sweep"
 status: "completed"
+case_id: "CYB-2023-004"
+period: 3
+enforcement_type:
+  - "arrest"
+  - "asset_freeze"
+outcome: "success"
+credibility_index: 2.28
+source_tier: 2
+edges:
+  - source_actor: "KNPA"
+    target_actor: "INTERPOL"
+    cooperation_type: "joint_investigation"
+    legal_basis: "unknown"
+    direction: "undirected"
+  - source_actor: "KNPA"
+    target_actor: "Philippines Police"
+    cooperation_type: "joint_investigation"
+    legal_basis: "unknown"
+    direction: "undirected"
+missing_fields:
+  - "legal_basis"
+  - "mechanisms_used"
+  - "full_participating_countries_list"
 timeframe:
   announced: "2023-12-19"
   start: "2023-07"

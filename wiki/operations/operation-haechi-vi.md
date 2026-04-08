@@ -4,6 +4,35 @@ title: "Operation HAECHI VI"
 aliases: ["HAECHI VI", "HAECHI 6"]
 operation_type: "arrest-sweep"
 status: "completed"
+case_id: "CYB-2025-008"
+period: 3
+enforcement_type:
+  - "arrest"
+  - "asset_freeze"
+outcome: "success"
+credibility_index: 2.28
+source_tier: 2
+edges:
+  - source_actor: "KNPA"
+    target_actor: "INTERPOL"
+    cooperation_type: "joint_investigation"
+    legal_basis: "unknown"
+    direction: "undirected"
+  - source_actor: "KNPA"
+    target_actor: "UAE Police"
+    cooperation_type: "asset_recovery"
+    legal_basis: "unknown"
+    direction: "directed"
+  - source_actor: "INTERPOL"
+    target_actor: "Royal Thai Police"
+    cooperation_type: "joint_investigation"
+    legal_basis: "unknown"
+    direction: "undirected"
+missing_fields:
+  - "legal_basis"
+  - "mechanisms_used"
+  - "total_arrest_count"
+  - "full_participating_countries_list"
 timeframe:
   announced: "2025-09-25"
   start: "2025-04"

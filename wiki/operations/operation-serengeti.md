@@ -4,6 +4,29 @@ title: "Operation Serengeti"
 aliases: ["Serengeti"]
 operation_type: "arrest-sweep"
 status: "completed"
+case_id: "CYB-2024-008"
+period: 3
+enforcement_type:
+  - "arrest"
+  - "takedown"
+outcome: "success"
+credibility_index: 2.28
+source_tier: 2
+edges:
+  - source_actor: "INTERPOL"
+    target_actor: "AFRIPOL"
+    cooperation_type: "joint_investigation"
+    legal_basis: "unknown"
+    direction: "undirected"
+  - source_actor: "INTERPOL"
+    target_actor: "Kenya Police"
+    cooperation_type: "joint_investigation"
+    legal_basis: "unknown"
+    direction: "undirected"
+missing_fields:
+  - "legal_basis"
+  - "mechanisms_used"
+  - "full_participating_countries_list"
 timeframe:
   announced: "2024-11-26"
   start: "2024-09-02"

@@ -4,6 +4,23 @@ title: "Korea-China Voice Phishing Qingdao Joint Operation"
 aliases: ["Qingdao voice phishing bust", "Korea-China Qingdao operation"]
 operation_type: "joint-investigation"
 status: "completed"
+case_id: "CYB-2023-003"
+period: 3
+enforcement_type:
+  - "arrest"
+outcome: "success"
+credibility_index: 1.88
+source_tier: 3
+edges:
+  - source_actor: "Seoul Metropolitan Police"
+    target_actor: "Chinese Police (Qingdao)"
+    cooperation_type: "joint_investigation"
+    legal_basis: "bilateral_MOU"
+    direction: "directed"
+missing_fields:
+  - "legal_basis"
+  - "mechanisms_used"
+  - "specific_bilateral_agreement"
 timeframe:
   announced: "2023-09-08"
   start: "2023-04"
