@@ -46,7 +46,7 @@ edges:
     cooperation_type: "joint_investigation"
     legal_basis: "unknown"
     direction: "undirected"
-credibility_index: 1.88
+credibility_index: 2.18
 source_tier: 3
 missing_fields:
   - "legal_basis"
@@ -128,3 +128,4 @@ No Korean involvement identified. However, cryptocurrency-based money laundering
 | # | Title | Publisher | Date | URL |
 |---|-------|----------|------|-----|
 | [1] | US and NL, Russian crypto exchange sanctions (Cryptex/PM2BTC) | Tier 3 media | 2024-09-26 | N/A |
+| [1] | Supplementary source | scworld.com | - | [원본](https://www.scworld.com/news/massive-cybercrime-operation-traced-back-to-myanmar-warlord) |

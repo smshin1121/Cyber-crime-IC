@@ -41,7 +41,7 @@ edges:
     cooperation_type: "joint_investigation"
     legal_basis: "unknown"
     direction: "undirected"
-credibility_index: 1.88
+credibility_index: 2.55
 source_tier: 3
 missing_fields:
   - "legal_basis"
@@ -117,3 +117,6 @@ No Korean involvement identified.
 | # | Title | Publisher | Date | URL |
 |---|-------|----------|------|-----|
 | [1] | Crook Who Used His Home IP Address for Banking Fraud Gets 5 Years in Prison | BleepingComputer | ~2017 | [link](https://www.bleepingcomputer.com/news/security/crook-who-used-his-home-ip-address-for-banking-fraud-gets-5-years-in-prison/) |
+| [1] | Supplementary source | nytimes.com | - | [원본](https://www.nytimes.com/2017/04/21/technology/russian-hacker-sentenced.html) |
+| [2] | Supplementary source | arabnews.com | - | [원본](https://www.arabnews.com/node/1141451/world) |
+| [3] | Supplementary source | bbc.com | - | [원본](https://www.bbc.com/news/uk-43893420) |

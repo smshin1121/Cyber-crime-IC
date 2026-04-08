@@ -10,7 +10,7 @@ enforcement_type:
   - "arrest"
   - "extradition"
 outcome: "ongoing"
-credibility_index: 1.88
+credibility_index: 2.55
 source_tier: 3
 edges:
   - source_actor: "KNPA"
@@ -129,3 +129,5 @@ The scale of the problem underscores the need for multilateral cooperation frame
 | # | Title | Publisher | Date | URL |
 |---|-------|----------|------|-----|
 | [1] | South Korea repatriates 64 scam centre suspects from Cambodia | Al Jazeera / Korea Herald | 2025-10-18 | [원본](https://www.aljazeera.com/news/2025/10/20/south-korea-police-seek-warrants-for-repatriated-scam-centre-suspects) |
+| [2] | Supplementary source | dominicantoday.com | - | [원본](https://dominicantoday.com/dr/local/2024/09/25/santiago-prosecutors-office-charges-21-in-major-cybercrime-operation-targeting-elderly-americans/) |
+| [3] | Supplementary source | filipinotimes.net | - | [원본](https://filipinotimes.net/top-stories/2018/06/21/400-employees-arrested-pampanga-multi-million-online-scam/) |

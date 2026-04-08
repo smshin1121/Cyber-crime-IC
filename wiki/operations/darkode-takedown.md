@@ -50,7 +50,7 @@ edges:
     cooperation_type: "joint_investigation"
     legal_basis: "unknown"
     direction: "undirected"
-credibility_index: 1.88
+credibility_index: 2.18
 source_tier: 3
 missing_fields:
   - "legal_basis"
@@ -135,3 +135,4 @@ No Korean involvement was identified in the Darkode takedown.
 | # | Title | Publisher | Date | URL |
 |---|-------|----------|------|-----|
 | [1] | The Darkode Cybercrime Forum, Up Close | Krebs on Security | 2015-07-15 | [link](https://krebsonsecurity.com/2015/07/the-darkode-cybercrime-forum-up-close/) |
+| [1] | Supplementary source | nationalcrimeagency.gov.uk | - | [원본](https://www.nationalcrimeagency.gov.uk/news/international-operation-targets-dark-web-drugs-marketplace) |

@@ -64,7 +64,7 @@ edges:
     cooperation_type: "joint_investigation"
     legal_basis: "unknown"
     direction: "undirected"
-credibility_index: 2.95
+credibility_index: 4.0
 source_tier: 2
 missing_fields: ["legal_basis", "mechanisms_used"]
 related_cases: []
@@ -106,3 +106,12 @@ United States, Germany, Singapore, Thailand
 |---|-------|----------|------|-----|
 | [1] | Source 1 | bbc.com | - | [원본](https://www.bbc.com/news/technology-32218381) |
 | [2] | Source 2 | interpol.int | - | [원본](https://www.interpol.int/News-and-Events/News/2015/INTERPOL-coordinates-global-operation-to-take-down-Simda-botnet) |
+| [3] | Supplementary source | techxplore.com | - | [원본](https://techxplore.com/news/2025-05-global-malware-federal-court-georgia.html) |
+| [4] | Supplementary source | mothership.sg | - | [원본](https://mothership.sg/2024/06/department-justice-thanks-singapore-authorities-cybercrime/) |
+| [5] | Supplementary source | polskieradio.pl | - | [원본](https://www.polskieradio.pl/395/7789/artykul/3508265,poland-plays-key-role-in-european-operation-against-child-exploitation-network) |
+| [6] | Supplementary source | the420.in | - | [원본](https://the420.in/labhost-worlds-largest-cybercrime-platform-dismantled-in-major-international-operation/) |
+| [7] | Supplementary source | portswigger.net | - | [원본](https://portswigger.net/daily-swig/andromeda-botnet-dismantled-by-international-taskforce) |
+| [8] | Supplementary source | the420.in | - | [원본](https://the420.in/fbi-global-crackdown-crypting-crew-malware-obfuscation/) |
+| [9] | Supplementary source | bbc.com | - | [원본](https://www.bbc.com/news/technology-35028690) |
+| [10] | Supplementary source | wired.com | - | [원본](https://www.wired.com/2016/12/took-4-years-take-avalanche-huge-online-crime-ring/) |
+| [11] | Supplementary source | therecord.media | - | [원본](https://therecord.media/nemesis-cybercrime-market-takedown-germany) |

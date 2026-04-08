@@ -63,7 +63,7 @@ edges:
     cooperation_type: "joint_investigation"
     legal_basis: "unknown"
     direction: "undirected"
-credibility_index: 2.95
+credibility_index: 3.62
 source_tier: 2
 missing_fields: ["legal_basis", "mechanisms_used"]
 related_cases: []
@@ -104,3 +104,4 @@ United States, Bulgaria, Germany, Georgia, Moldova, Ukraine
 | [1] | Source 1 | europol.europa.eu | - | [원본](https://www.europol.europa.eu/media-press/newsroom/news/goznym-malware-cybercriminal-network-dismantled-in-international-operation) |
 | [2] | Source 2 | bbc.com | - | [원본](https://www.bbc.com/news/technology-48294788) |
 | [3] | Source 3 | pcmag.com | - | [원본](https://www.pcmag.com/news/europol-dismantles-global-cybercrime-network) |
+| [4] | Supplementary source | eurojust.europa.eu | - | [원본](https://www.eurojust.europa.eu/news/goznym-malware-cybercriminal-network-dismantled-international-operation) |

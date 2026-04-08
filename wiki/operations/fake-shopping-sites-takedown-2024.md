@@ -53,7 +53,7 @@ edges:
     cooperation_type: "joint_investigation"
     legal_basis: "unknown"
     direction: "undirected"
-credibility_index: 2.28
+credibility_index: 3.25
 source_tier: 2
 missing_fields: ["legal_basis", "mechanisms_used"]
 related_cases: []
@@ -96,3 +96,4 @@ Germany, Austria, Finland, Netherlands, Norway
 | # | Title | Publisher | Date | URL |
 |---|-------|----------|------|-----|
 | [1] | Fraudulent Shopping Sites Tied to Cybercrime Marketplace Taken Offline | Europol | 2024-12-04 | [원본](https://www.europol.europa.eu/media-press/newsroom/news/fraudulent-shopping-sites-tied-to-cybercrime-marketplace-taken-offline) |
+| [2] | Supplementary source | aljazeera.com | - | [원본](https://www.aljazeera.com/news/2024/6/28/indonesia-says-will-deport-103-taiwanese-suspected-of-cybercrimes-in-bali) |

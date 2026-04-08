@@ -71,7 +71,7 @@ edges:
     cooperation_type: "joint_investigation"
     legal_basis: "unknown"
     direction: "undirected"
-credibility_index: 2.28
+credibility_index: 3.25
 source_tier: 2
 missing_fields: ["legal_basis", "mechanisms_used"]
 related_cases: []
@@ -119,3 +119,4 @@ United States, Germany, Netherlands, United Kingdom, Canada, France, Romania, Li
 | # | Title | Publisher | Date | URL |
 |---|-------|----------|------|-----|
 | [1] | Cybercriminals Stung as Hive Infrastructure Shut Down | Europol | 2023-01-26 | [원본](https://www.europol.europa.eu/media-press/newsroom/news/cybercriminals-stung-hive-infrastructure-shut-down) |
+| [2] | Supplementary source | cbsnews.com | - | [원본](https://www.cbsnews.com/news/justice-department-charges-russian-men-cybercrime-ransomware/) |

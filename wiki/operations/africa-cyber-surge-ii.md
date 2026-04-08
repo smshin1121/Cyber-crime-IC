@@ -52,7 +52,7 @@ edges:
     cooperation_type: "joint_investigation"
     legal_basis: "unknown"
     direction: "undirected"
-credibility_index: 2.25
+credibility_index: 2.93
 source_tier: 3
 missing_fields:
   - "legal_basis"
@@ -143,3 +143,6 @@ No Korean involvement identified. However, South Korea has supported INTERPOL ca
 |---|-------|----------|------|-----|
 | [1] | Source 1 | therecord.media | - | [원본](https://therecord.media/africa-cyber-surge-14-arrests-interpol) |
 | [2] | Source 2 | vanguardngr.com | - | [원본](https://www.vanguardngr.com/2024/04/interpol-identifies-20-674-suspicious-networks-linked-to-terrorists-money-laundering-others-in-25-african-countries/) |
+| [3] | Supplementary source | nypost.com | - | [원본](https://nypost.com/2017/05/03/cyber-crime-ring-used-photos-of-sexy-women-to-lure-recruits-officials/) |
+| [4] | Supplementary source | cioafrica.co | - | [원본](https://cioafrica.co/kaspersky-supports-interpol-operation-to-combat-cybercrime/) |
+| [5] | Supplementary source | bbc.com | - | [원본](https://www.bbc.com/pidgin/tori-49629324) |

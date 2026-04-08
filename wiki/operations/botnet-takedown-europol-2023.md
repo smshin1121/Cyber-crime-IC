@@ -54,7 +54,7 @@ edges:
     cooperation_type: "joint_investigation"
     legal_basis: "unknown"
     direction: "undirected"
-credibility_index: 2.28
+credibility_index: 3.25
 source_tier: 2
 missing_fields: ["legal_basis", "mechanisms_used", "arrests", "servers_seized"]
 related_cases: []
@@ -91,3 +91,4 @@ Germany, Netherlands, United States, United Kingdom, Switzerland, France, Romani
 | # | Title | Publisher | Date | URL |
 |---|-------|----------|------|-----|
 | [1] | Botnet Taken Down Through International Law Enforcement Cooperation | Europol | 2023 | [원본](https://www.europol.europa.eu/media-press/newsroom/news/botnet-taken-down-through-international-law-enforcement-cooperation) |
+| [2] | Supplementary source | maltatoday.com.mt | - | [원본](https://www.maltatoday.com.mt/news/court_and_police/98240/malta_police_aids_europol_to_identify_four_child_sexual_abuse_victims) |

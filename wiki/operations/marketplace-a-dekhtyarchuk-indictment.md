@@ -44,7 +44,7 @@ edges:
     cooperation_type: "joint_investigation"
     legal_basis: "unknown"
     direction: "undirected"
-credibility_index: 1.88
+credibility_index: 2.55
 source_tier: 3
 missing_fields:
   - "legal_basis"
@@ -117,3 +117,5 @@ No Korean involvement identified.
 | # | Title | Publisher | Date | URL |
 |---|-------|----------|------|-----|
 | [1] | Marketplace A — Dekhtyarchuk indicted, US and Latvia | Tier 3 media | ~2021 | N/A |
+| [1] | Supplementary source | thecyberexpress.com | - | [원본](https://thecyberexpress.com/bidencash-marketplace-domains-seized/) |
+| [2] | Supplementary source | cbc.ca | - | [원본](https://www.cbc.ca/news/science/darknet-hansa-market-1.4215567) |
