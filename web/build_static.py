@@ -87,6 +87,10 @@ def build() -> None:
         encoding="utf-8",
     )
 
+    # Create generic 404 page for GitHub Pages (use _save for consistent links)
+    with app.test_client() as client:
+        _save(client, "/wiki/_missing/placeholder", "404.html")
+
     # Create .nojekyll for GitHub Pages
     (OUTPUT_DIR / ".nojekyll").touch()
 
@@ -95,46 +99,34 @@ def build() -> None:
 
 def _save(client, route: str, filepath: str) -> None:
     """Fetch a route and save the HTML."""
+    import re
+
     resp = client.get(route)
-    if resp.status_code == 200:
+    if resp.status_code in (200, 404):
         out_path = OUTPUT_DIR / filepath
         out_path.parent.mkdir(parents=True, exist_ok=True)
         html = resp.data.decode("utf-8")
-        # Fix static paths for GitHub Pages (relative)
+
         depth = filepath.count("/")
         prefix = "../" * depth
-        html = html.replace('href="/static/', f'href="{prefix}static/')
+
+        # Step 1: Add .html extension WHILE links are still absolute
+        html = re.sub(r'href="/wiki/([^"#]+?)"', r'href="/wiki/\1.html"', html)
+        html = re.sub(r'href="/category/([^"#]+?)"', r'href="/category/\1.html"', html)
+        html = re.sub(r'href="/stats"', r'href="/stats.html"', html)
+        html = re.sub(r'href="/search"', r'href="/search.html"', html)
+
+        # Step 2: Convert absolute paths to relative
         html = html.replace('href="/', f'href="{prefix}')
-        html = html.replace('action="/search"', f'action="{prefix}search.html"')
-        # Fix wiki links to .html
-        html = _fix_links(html, prefix)
+        html = html.replace('action="/', f'action="{prefix}')
+        html = html.replace('src="/', f'src="{prefix}')
+
+        # Step 3: Fix double .html.html if any
+        html = html.replace('.html.html"', '.html"')
+
         out_path.write_text(html, encoding="utf-8")
     else:
         print(f"  SKIP {route} (status {resp.status_code})")
-
-
-def _fix_links(html: str, prefix: str) -> str:
-    """Convert dynamic URLs to static .html paths."""
-    import re
-    # /wiki/category/slug -> prefix + wiki/category/slug.html
-    html = re.sub(
-        r'href="([^"]*?)/wiki/([^"]+?)"',
-        lambda m: f'href="{prefix}wiki/{m.group(2)}.html"',
-        html,
-    )
-    # /category/xxx -> prefix + category/xxx.html
-    html = re.sub(
-        r'href="([^"]*?)/category/([^"]+?)"',
-        lambda m: f'href="{prefix}category/{m.group(2)}.html"',
-        html,
-    )
-    # /stats -> prefix + stats.html
-    html = re.sub(
-        r'href="([^"]*?)/stats"',
-        lambda m: f'href="{prefix}stats.html"',
-        html,
-    )
-    return html
 
 
 if __name__ == "__main__":
