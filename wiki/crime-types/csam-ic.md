@@ -89,7 +89,7 @@ CSAM production, distribution, and possession are broadly criminalized across ju
 | User data / IP logs | Platform infrastructure, ISPs | Cross-border data requests |
 | Cryptocurrency transactions | Blockchain (global) | DeFi obfuscation, exchange cooperation |
 | Device forensics | Suspect's jurisdiction | Local search warrant + preservation |
-| Victim identification data | [[interpol-igci\|INTERPOL ICSE Database]] | Centralized but access-restricted |
+| Victim identification data | [[interpol-igci|INTERPOL ICSE Database]] | Centralized but access-restricted |
 | Messaging app data | Platform providers (often US) | Provider cooperation / legal process |
 
 ## Cooperation Pathways

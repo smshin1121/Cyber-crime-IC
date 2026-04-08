@@ -5,19 +5,36 @@
 <div class="page-wrapper">
   <main class="article">
     <div class="article-header">
-      <h1>{{ title }}</h1>
+      <h1>
+        {% if meta.get('title_ko') %}
+          <span class="heading-ko">{{ meta['title_ko'] }}</span>
+          <span class="heading-en">{{ title }}</span>
+        {% else %}
+          {{ title }}
+        {% endif %}
+      </h1>
       <div class="article-meta">
         {% if page_type %}
-          <span class="badge">{{ page_type }}</span>
+          <span class="badge">
+            <span class="i18n" data-ko="{{ page_type }}" data-en="{{ page_type }}"></span>
+          </span>
         {% endif %}
         {% if cat_label %}
-          <span><a href="/category/{{ category }}">{{ cat_label }}</a></span>
+          <span><a href="/category/{{ category }}">
+            <span class="i18n"
+              data-ko="{{ cat_label }}"
+              data-en="{{ categories.get(category, {}).get('label_en', cat_label) }}"></span>
+          </a></span>
         {% endif %}
         {% if meta.get('updated') %}
-          <span>최종 수정: {{ meta['updated'] }}</span>
+          <span>
+            <span class="i18n" data-ko="최종 수정" data-en="Updated"></span>: {{ meta['updated'] }}
+          </span>
         {% endif %}
         {% if meta.get('source_count') %}
-          <span>출처: {{ meta['source_count'] }}건</span>
+          <span>
+            <span class="i18n" data-ko="출처" data-en="Sources"></span>: {{ meta['source_count'] }}<span class="i18n" data-ko="건" data-en=""></span>
+          </span>
         {% endif %}
       </div>
     </div>
@@ -29,12 +46,29 @@
   <aside class="sidebar">
     {% if infobox and infobox|length > 1 %}
     <div class="infobox">
-      <div class="infobox-header">{{ title }}</div>
+      <div class="infobox-header">
+        {% if meta.get('title_ko') %}
+          <span class="heading-ko">{{ meta['title_ko'] }}</span>
+          <span class="heading-en">{{ title }}</span>
+        {% else %}
+          {{ title }}
+        {% endif %}
+      </div>
       <table>
-        {% for label, value in infobox %}
+        {% for item in infobox %}
         <tr>
-          <th>{{ label }}</th>
-          <td>{{ value }}</td>
+          <th>
+            <span class="heading-ko">{{ item[0] }}</span>
+            <span class="heading-en">{{ item[1] }}</span>
+          </th>
+          <td>
+            {% if item[2] != item[3] %}
+              <span class="heading-ko">{{ item[2] }}</span>
+              <span class="heading-en">{{ item[3] }}</span>
+            {% else %}
+              {{ item[2] }}
+            {% endif %}
+          </td>
         </tr>
         {% endfor %}
       </table>
@@ -42,14 +76,14 @@
     {% endif %}
 
     <div class="cat-nav">
-      <h3>카테고리</h3>
+      <h3><span class="i18n" data-ko="카테고리" data-en="Categories"></span></h3>
       <ul>
         {% for key, info in categories.items() %}
         <li>
           {{ info.icon }}
           <a href="/category/{{ key }}"
              {% if key == category %}style="font-weight:700"{% endif %}>
-            {{ info.label }}
+            <span class="i18n" data-ko="{{ info.label }}" data-en="{{ info.label_en }}"></span>
           </a>
         </li>
         {% endfor %}

@@ -1,77 +1,80 @@
 ---
-type: operation
-title: "Operation Nova (Safe-Inet VPN Takedown)"
-title_ko: "노바 작전 (Safe-Inet VPN 소탕)"
-aliases: ["Operation Nova", "Safe-Inet takedown"]
-case_id: "CYB-2020-050"
-period: 2
-operation_type: "infrastructure-seizure"
-status: "completed"
-enforcement_type:
-  - "seizure"
-  - "takedown"
-outcome: "success"
-timeframe:
-  announced: "2020-12-22"
-  start: "2020-12-22"
-  end: "2020-12-22"
-  ongoing: false
-crime_type: "[[cybercrime-infrastructure-ic]]"
-target_entity: "Safe-Inet bulletproof VPN service"
-lead_agency: "[[germany-bka]]"
-coordinating_body: "[[europol-ec3]]"
-participating_countries:
-  - "[[germany]]"
-  - "[[united-states]]"
-  - "[[netherlands]]"
-  - "[[switzerland]]"
-  - "[[france]]"
-participating_agencies:
-  - "[[germany-bka]]"
-  - "[[fbi-cyber-division]]"
-  - "[[europol-ec3]]"
-legal_basis: []
-mechanisms_used: []
-results:
-  arrests: 0
-  indictments: 0
-  servers_seized: 3
-  domains_seized: 3
-  cryptocurrency_seized: ""
-  decryption_keys_recovered: 0
-  victims_notified: 0
-  other:
-    - "Safe-Inet VPN service shut down"
-    - "Service had been active for over a decade"
-    - "Used by ransomware operators, Magecart skimmers, and other cybercriminals"
-edges:
-  - source_actor: "Germany BKA"
-    target_actor: "Europol"
-    cooperation_type: "joint_investigation"
-    legal_basis: "unknown"
-    direction: "undirected"
-  - source_actor: "FBI"
-    target_actor: "Europol"
-    cooperation_type: "joint_investigation"
-    legal_basis: "unknown"
-    direction: "undirected"
+aliases:
+- Operation Nova
+- Safe-Inet takedown
+case_id: CYB-2020-050
+challenges_encountered: []
+coordinating_body: '[[europol-ec3]]'
+created: 2026-04-08
 credibility_index: 2.55
-source_tier: 3
+crime_type: '[[cybercrime-infrastructure-ic]]'
+edges:
+- cooperation_type: joint_investigation
+  direction: undirected
+  legal_basis: unknown
+  source_actor: Germany BKA
+  target_actor: Europol
+- cooperation_type: joint_investigation
+  direction: undirected
+  legal_basis: unknown
+  source_actor: FBI
+  target_actor: Europol
+enforcement_type:
+- seizure
+- takedown
+lead_agency: '[[germany-bka]]'
+legal_basis: []
+lessons_learned:
+- Targeting cybercrime infrastructure (bulletproof hosting/VPN) can disrupt multiple
+  criminal groups simultaneously
+mechanisms_used: []
 missing_fields:
-  - "legal_basis"
-  - "mechanisms_used"
+- legal_basis
+- mechanisms_used
+operation_type: infrastructure-seizure
+outcome: success
+participating_agencies:
+- '[[germany-bka]]'
+- '[[fbi-cyber-division]]'
+- '[[europol-ec3]]'
+participating_countries:
+- '[[germany]]'
+- '[[united-states]]'
+- '[[netherlands]]'
+- '[[switzerland]]'
+- '[[france]]'
+period: 2
 related_cases: []
 related_operations: []
-challenges_encountered: []
-lessons_learned:
-  - "Targeting cybercrime infrastructure (bulletproof hosting/VPN) can disrupt multiple criminal groups simultaneously"
+results:
+  arrests: 0
+  cryptocurrency_seized: ''
+  decryption_keys_recovered: 0
+  domains_seized: 3
+  indictments: 0
+  other:
+  - Safe-Inet VPN service shut down
+  - Service had been active for over a decade
+  - Used by ransomware operators, Magecart skimmers, and other cybercriminals
+  servers_seized: 3
+  victims_notified: 0
 source_count: 3
+source_tier: 3
 sources:
-  - "tier3-cyberscoop-safe-inet-2020"
-  - "tier3-portswigger-safe-inet-2020"
-  - "tier3-cybersecuritynews-safe-inet-2020"
-created: 2026-04-08
-updated: 2026-04-08
+- tier3-cyberscoop-safe-inet-2020
+- tier3-portswigger-safe-inet-2020
+- tier3-cybersecuritynews-safe-inet-2020
+status: completed
+target_entity: Safe-Inet bulletproof VPN service
+timeframe:
+  announced: '2020-12-22'
+  end: '2020-12-22'
+  ongoing: false
+  start: '2020-12-22'
+title: Operation Nova (Safe-Inet VPN Takedown)
+title_ko: 노바 작전 (Safe-Inet VPN 소탕)
+type: operation
+updated: '2026-04-09'
 ---
 
 > [!note] This operation is documented from a Tier 3 (cybersecurity media) source. Additional verification from official sources (Tier 1-2) would strengthen data reliability.
@@ -141,6 +144,6 @@ No Korean involvement identified.
 
 | # | Title | Publisher | Date | URL |
 |---|-------|----------|------|-----|
-| [1] | Source 1 | cyberscoop.com | - | [원본](https://cyberscoop.com/safe-inet-takedown-fbi-interpol/) |
-| [2] | Source 2 | cybersecuritynews.com | - | [원본](https://cybersecuritynews.com/bulletproof-vpn-seized/) |
-| [3] | Source 3 | portswigger.net | - | [원본](https://portswigger.net/daily-swig/safe-inet-vpn-service-for-cybercriminals-taken-down-in-law-enforcement-bust) |
+| [1] | Safe Inet Takedown Fbi Interpol | CyberScoop | 2020-12-22 | [원본](https://cyberscoop.com/safe-inet-takedown-fbi-interpol/) |
+| [2] | Bulletproof Vpn Seized | cybersecuritynews.com | 2020-12-22 | [원본](https://cybersecuritynews.com/bulletproof-vpn-seized/) |
+| [3] | Safe Inet Vpn Service For Cybercriminals Taken Down In Law Enforcement Bust | portswigger.net | 2020-12-22 | [원본](https://portswigger.net/daily-swig/safe-inet-vpn-service-for-cybercriminals-taken-down-in-law-enforcement-bust) |

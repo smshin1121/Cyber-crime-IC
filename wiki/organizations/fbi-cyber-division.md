@@ -1,52 +1,68 @@
 ---
-type: organization
-title: "FBI Cyber Division"
-official_name: "Cyber Division, Federal Bureau of Investigation"
-official_name_ko: "미국 연방수사국 사이버과"
-aliases: ["FBI Cyber", "FBI CD"]
-org_type: "national-agency"
-parent_org: "[[fbi]]"
-country: "[[united-states]]"
-headquarters: "Washington, D.C., United States"
-established: "2002"
-mandate: "Investigate cyber threats to the United States including state-sponsored intrusions, ransomware attacks, online fraud, and major cybercriminal networks."
-member_states: 0
-key_roles:
-  - "Lead US federal cybercrime investigations"
-  - "63+ Legal Attache offices worldwide for international cooperation"
-  - "Internet Crime Complaint Center (IC3) — national reporting mechanism"
-  - "Cyber Action Teams for rapid global incident response"
-  - "Cyber threat intelligence and attribution"
-  - "Ransomware disruption and investigation"
-cooperation_partners:
-  - "[[europol-ec3]]"
-  - "[[uk-nca]]"
-  - "[[interpol-igci]]"
-frameworks_administered: []
-mechanisms_operated: []
-operations_participated:
-  - "[[operation-cronos-phase1]]"
-  - "[[operation-endgame-phase1]]"
-  - "[[operation-cronos-phase3]]"
-  - "[[phobos-8base-crackdown]]"
-  - "[[operation-endgame-phase2]]"
-  - "[[qakbot-gallyamov-indictment]]"
-  - "[[operation-checkmate-blacksuit]]"
-  - "[[isoon-apt27-indictment]]"
-notable_cases: []
+aliases:
+- FBI Cyber
+- FBI CD
 contact_point_for: []
+cooperation_partners:
+- '[[europol-ec3]]'
+- '[[uk-nca]]'
+- '[[interpol-igci]]'
+country: '[[united-states]]'
+created: 2026-04-08
+established: '2002'
+frameworks_administered: []
+headquarters: Washington, D.C., United States
+key_roles:
+- Lead US federal cybercrime investigations
+- 63+ Legal Attache offices worldwide for international cooperation
+- Internet Crime Complaint Center (IC3) — national reporting mechanism
+- Cyber Action Teams for rapid global incident response
+- Cyber threat intelligence and attribution
+- Ransomware disruption and investigation
+mandate: Investigate cyber threats to the United States including state-sponsored
+  intrusions, ransomware attacks, online fraud, and major cybercriminal networks.
+mechanisms_operated: []
+member_states: 0
+notable_cases: []
+official_name: Cyber Division, Federal Bureau of Investigation
+official_name_ko: 미국 연방수사국 사이버과
+operations_participated:
+- '[[black-axe-bec-2021]]'
+- '[[blackcat-lockeroga-kelvin-security-2023]]'
+- '[[darkode-takedown]]'
+- '[[infraud-organization-takedown]]'
+- '[[isoon-apt27-indictment]]'
+- '[[operation-bakovia]]'
+- '[[operation-checkmate-blacksuit]]'
+- '[[operation-cronos-phase1]]'
+- '[[operation-cronos-phase3]]'
+- '[[operation-destabilise]]'
+- '[[operation-endgame-phase1]]'
+- '[[operation-endgame-phase2]]'
+- '[[operation-hyperion]]'
+- '[[operation-nova]]'
+- '[[operation-talent]]'
+- '[[phobos-8base-crackdown]]'
+- '[[qakbot-gallyamov-indictment]]'
+- '[[qqaazz-money-laundering-takedown]]'
+- '[[rydox-marketplace-takedown]]'
+- '[[xdedic-marketplace-takedown]]'
+- '[[zeus-spyeye-takedown]]'
+org_type: national-agency
+parent_org: '[[fbi]]'
 source_count: 8
 sources:
-  - "[[2024-02-20-europol-operation-cronos-lockbit]]"
-  - "[[2024-05-30-europol-operation-endgame-botnet-takedown]]"
-  - "[[2024-10-01-europol-operation-cronos-lockbit-phase3]]"
-  - "[[2025-02-11-europol-phobos-8base-ransomware-arrests]]"
-  - "[[2025-05-23-europol-operation-endgame-phase2]]"
-  - "[[2025-05-22-doj-qakbot-gallyamov-indictment]]"
-  - "[[2025-08-11-doj-blacksuit-royal-ransomware-takedown]]"
-  - "[[2025-03-05-doj-isoon-chinese-hackers-charges]]"
-created: 2026-04-08
-updated: 2026-04-08
+- '[[2024-02-20-europol-operation-cronos-lockbit]]'
+- '[[2024-05-30-europol-operation-endgame-botnet-takedown]]'
+- '[[2024-10-01-europol-operation-cronos-lockbit-phase3]]'
+- '[[2025-02-11-europol-phobos-8base-ransomware-arrests]]'
+- '[[2025-05-23-europol-operation-endgame-phase2]]'
+- '[[2025-05-22-doj-qakbot-gallyamov-indictment]]'
+- '[[2025-08-11-doj-blacksuit-royal-ransomware-takedown]]'
+- '[[2025-03-05-doj-isoon-chinese-hackers-charges]]'
+title: FBI Cyber Division
+type: organization
+updated: '2026-04-09'
 ---
 
 ## Summary
@@ -95,19 +111,19 @@ The FBI participated in all 8 major cybercrime operations covered by ingested so
 
 | Operation | Date | FBI Role | Results |
 |-----------|------|----------|---------|
-| [[operation-cronos-phase1\|Operation Cronos Phase 1]] | Feb 2024 | Participating agency | LockBit disruption: 34 servers, 2 arrests, 5 indictments, decryption keys |
-| [[operation-endgame-phase1\|Operation Endgame Phase 1]] | May 2024 | Participating agency | Largest botnet takedown: 100+ servers, 2,000+ domains, 4 arrests |
-| [[operation-cronos-phase3\|Operation Cronos Phase 3]] | Oct 2024 | Participating agency | 4 LockBit arrests, 9 servers, Evil Corp sanctions |
-| [[phobos-8base-crackdown\|Phobos/8Base Crackdown]] | Feb 2025 | Participating agency | 4 arrests (incl. SK extradition to US), 27 servers |
-| [[operation-endgame-phase2\|Operation Endgame Phase 2]] | May 2025 | Participating agency | 300 servers, 650 domains, EUR 3.5M seized, 20 warrants |
+| [[operation-cronos-phase1|Operation Cronos Phase 1]] | Feb 2024 | Participating agency | LockBit disruption: 34 servers, 2 arrests, 5 indictments, decryption keys |
+| [[operation-endgame-phase1|Operation Endgame Phase 1]] | May 2024 | Participating agency | Largest botnet takedown: 100+ servers, 2,000+ domains, 4 arrests |
+| [[operation-cronos-phase3|Operation Cronos Phase 3]] | Oct 2024 | Participating agency | 4 LockBit arrests, 9 servers, Evil Corp sanctions |
+| [[phobos-8base-crackdown|Phobos/8Base Crackdown]] | Feb 2025 | Participating agency | 4 arrests (incl. SK extradition to US), 27 servers |
+| [[operation-endgame-phase2|Operation Endgame Phase 2]] | May 2025 | Participating agency | 300 servers, 650 domains, EUR 3.5M seized, 20 warrants |
 | Hive ransomware takedown | Jan 2023 | Lead agency | FBI infiltrated Hive network for 7 months, seized infrastructure, provided 1,300+ decryption keys to victims worldwide | [^hive]
 | QakBot takedown | Aug 2023 | Lead agency | FBI-led multinational operation disrupted QakBot botnet, redirected traffic, removed malware from 700,000+ infected computers | [^qakbot2023]
 
 [^hive]: > [!note] Hive takedown details are based on general knowledge and have not been verified against a collected source in this wiki. The QakBot/Gallyamov indictment source references the prior 2023 QakBot takedown.
 [^qakbot2023]: > [!note] The 2023 QakBot takedown details are general knowledge. The collected source [[2025-05-22-doj-qakbot-gallyamov-indictment]] covers the follow-up 2025 indictment.
-| [[qakbot-gallyamov-indictment\|QakBot/Gallyamov Indictment]] | May 2025 | Lead agency | Indictment of QakBot leader Gallyamov; USD 24M+ cryptocurrency seized; 7 countries + Europol |
-| [[operation-checkmate-blacksuit\|Operation Checkmate (BlackSuit)]] | Aug 2025 | Participating agency | BlackSuit ransomware takedown: 4 servers, 9 domains, USD 1.1M cryptocurrency; 8 countries |
-| [[isoon-apt27-indictment\|i-Soon/APT27 Indictment]] | Mar 2025 | Lead agency | 12 Chinese nationals charged; Rewards for Justice + Treasury sanctions; multi-agency coordination |
+| [[qakbot-gallyamov-indictment|QakBot/Gallyamov Indictment]] | May 2025 | Lead agency | Indictment of QakBot leader Gallyamov; USD 24M+ cryptocurrency seized; 7 countries + Europol |
+| [[operation-checkmate-blacksuit|Operation Checkmate (BlackSuit)]] | Aug 2025 | Participating agency | BlackSuit ransomware takedown: 4 servers, 9 domains, USD 1.1M cryptocurrency; 8 countries |
+| [[isoon-apt27-indictment|i-Soon/APT27 Indictment]] | Mar 2025 | Lead agency | 12 Chinese nationals charged; Rewards for Justice + Treasury sanctions; multi-agency coordination |
 
 The **Hive takedown** (January 2023) is particularly notable as a model of proactive disruption: the FBI covertly penetrated Hive's network infrastructure over seven months, providing decryption keys to over 1,300 victims globally and preventing an estimated $130 million in ransom payments before publicly seizing Hive's servers. The **QakBot operation** (August 2023) demonstrated the FBI's capacity to lead multinational operations, with cooperation from France, Germany, the Netherlands, Romania, Latvia, and the UK.
 

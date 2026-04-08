@@ -1,87 +1,92 @@
 ---
-type: operation
-title: "Hive Ransomware Infrastructure Takedown"
-title_ko: "명시되지 않음 (Hive 랜섬웨어 인프라 해체)"
-aliases: ["Hive Ransomware Takedown"]
-case_id: "CYB-2023-006"
-period: 3
-operation_type: "takedown"
-status: "completed"
-enforcement_type: ["takedown", "seizure"]
-outcome: "success"
-timeframe:
-  announced: "2023-01-26"
-  start: "2022-07"
-  end: "2023-01-26"
-  ongoing: false
-crime_type: "[[ransomware-ic]]"
-target_entity: "Hive Ransomware Group"
-lead_agency: "[[fbi]]"
-coordinating_body: "[[europol]]"
-participating_countries:
-  - "[[united-states]]"
-  - "[[germany]]"
-  - "[[netherlands]]"
-  - "[[united-kingdom]]"
-  - "[[canada]]"
-  - "[[france]]"
-  - "[[romania]]"
-  - "[[lithuania]]"
-  - "[[sweden]]"
-  - "[[norway]]"
-  - "[[portugal]]"
-  - "[[spain]]"
-  - "[[ireland]]"
-participating_agencies:
-  - "[[fbi]]"
-  - "[[usdoj]]"
-  - "[[europol]]"
-  - "[[german-bka]]"
-  - "[[dutch-police]]"
-  - "[[uk-nca]]"
-  - "[[us-secret-service]]"
-legal_basis: []
-mechanisms_used: []
-results:
-  arrests: 0
-  indictments: 0
-  servers_seized: 0
-  domains_seized: 0
-  cryptocurrency_seized: ""
-  decryption_keys_recovered: 1300
-  victims_notified: 1500
-  other:
-    - "$100 million+ in ransom payments prevented"
-    - "Hive infrastructure infiltrated and dismantled"
-    - "Decryption keys provided to 1,300+ victims globally"
-    - "1,500+ victims in 80+ countries targeted by Hive"
-edges:
-  - source_actor: "FBI"
-    target_actor: "Europol"
-    cooperation_type: "joint_investigation"
-    legal_basis: "unknown"
-    direction: "undirected"
-  - source_actor: "FBI"
-    target_actor: "German BKA"
-    cooperation_type: "joint_investigation"
-    legal_basis: "unknown"
-    direction: "undirected"
-  - source_actor: "FBI"
-    target_actor: "Dutch Police"
-    cooperation_type: "joint_investigation"
-    legal_basis: "unknown"
-    direction: "undirected"
+aliases:
+- Hive Ransomware Takedown
+case_id: CYB-2023-006
+challenges_encountered: []
+coordinating_body: '[[europol]]'
+created: 2026-04-08
 credibility_index: 3.25
-source_tier: 2
-missing_fields: ["legal_basis", "mechanisms_used"]
+crime_type: '[[ransomware-ic]]'
+edges:
+- cooperation_type: joint_investigation
+  direction: undirected
+  legal_basis: unknown
+  source_actor: FBI
+  target_actor: Europol
+- cooperation_type: joint_investigation
+  direction: undirected
+  legal_basis: unknown
+  source_actor: FBI
+  target_actor: German BKA
+- cooperation_type: joint_investigation
+  direction: undirected
+  legal_basis: unknown
+  source_actor: FBI
+  target_actor: Dutch Police
+enforcement_type:
+- takedown
+- seizure
+lead_agency: '[[fbi]]'
+legal_basis: []
+lessons_learned: []
+mechanisms_used: []
+missing_fields:
+- legal_basis
+- mechanisms_used
+operation_type: takedown
+outcome: success
+participating_agencies:
+- '[[fbi]]'
+- '[[usdoj]]'
+- '[[europol]]'
+- '[[german-bka]]'
+- '[[dutch-police]]'
+- '[[uk-nca]]'
+- '[[us-secret-service]]'
+participating_countries:
+- '[[united-states]]'
+- '[[germany]]'
+- '[[netherlands]]'
+- '[[united-kingdom]]'
+- '[[canada]]'
+- '[[france]]'
+- '[[romania]]'
+- '[[lithuania]]'
+- '[[sweden]]'
+- '[[norway]]'
+- '[[portugal]]'
+- '[[spain]]'
+- '[[ireland]]'
+period: 3
 related_cases: []
 related_operations: []
-challenges_encountered: []
-lessons_learned: []
+results:
+  arrests: 0
+  cryptocurrency_seized: ''
+  decryption_keys_recovered: 1300
+  domains_seized: 0
+  indictments: 0
+  other:
+  - $100 million+ in ransom payments prevented
+  - Hive infrastructure infiltrated and dismantled
+  - Decryption keys provided to 1,300+ victims globally
+  - 1,500+ victims in 80+ countries targeted by Hive
+  servers_seized: 0
+  victims_notified: 1500
 source_count: 1
+source_tier: 2
 sources:
-  - "[1] Europol News (2023-01-26)"
-created: 2026-04-08
+- '[1] Europol News (2023-01-26)'
+status: completed
+target_entity: Hive Ransomware Group
+timeframe:
+  announced: '2023-01-26'
+  end: '2023-01-26'
+  ongoing: false
+  start: 2022-07
+title: Hive Ransomware Infrastructure Takedown
+title_ko: 명시되지 않음 (Hive 랜섬웨어 인프라 해체)
+type: operation
 updated: 2026-04-08
 ---
 
@@ -119,4 +124,3 @@ United States, Germany, Netherlands, United Kingdom, Canada, France, Romania, Li
 | # | Title | Publisher | Date | URL |
 |---|-------|----------|------|-----|
 | [1] | Cybercriminals Stung as Hive Infrastructure Shut Down | Europol | 2023-01-26 | [원본](https://www.europol.europa.eu/media-press/newsroom/news/cybercriminals-stung-hive-infrastructure-shut-down) |
-| [2] | Supplementary source | cbsnews.com | - | [원본](https://www.cbsnews.com/news/justice-department-charges-russian-men-cybercrime-ransomware/) |

@@ -1,32 +1,40 @@
 ---
-type: organization
-title: "AFRIPOL (African Police Cooperation Organization)"
-official_name: "African Police Cooperation Organization"
-official_name_ko: "아프리카경찰협력기구"
-aliases: ["AFRIPOL"]
-org_type: "regional-org"
-parent_org: "[[african-union]]"
-country: ""
-headquarters: "Algiers, Algeria"
-established: "2017"
-mandate: "Continental police cooperation mechanism for Africa; coordinates law enforcement cooperation among African Union member states."
-member_states: 55
-key_roles:
-  - "Coordination of pan-African law enforcement operations"
-  - "Partnership with INTERPOL for African cybercrime enforcement"
-  - "Capacity building for African law enforcement agencies"
-cooperation_partners: ["[[interpol-igci]]"]
-frameworks_administered: []
-mechanisms_operated: []
-operations_participated:
-  - "[[operation-serengeti]]"
-notable_cases: []
+aliases:
+- AFRIPOL
 contact_point_for: []
+cooperation_partners:
+- '[[interpol-igci]]'
+country: ''
+created: 2026-04-08
+established: '2017'
+frameworks_administered: []
+headquarters: Algiers, Algeria
+key_roles:
+- Coordination of pan-African law enforcement operations
+- Partnership with INTERPOL for African cybercrime enforcement
+- Capacity building for African law enforcement agencies
+mandate: Continental police cooperation mechanism for Africa; coordinates law enforcement
+  cooperation among African Union member states.
+mechanisms_operated: []
+member_states: 55
+notable_cases: []
+official_name: African Police Cooperation Organization
+official_name_ko: 아프리카경찰협력기구
+operations_participated:
+- '[[africa-cyber-surge-ii]]'
+- '[[operation-contender-2]]'
+- '[[operation-first-light-2024]]'
+- '[[operation-red-card]]'
+- '[[operation-sentinel-africa]]'
+- '[[operation-serengeti]]'
+org_type: regional-org
+parent_org: '[[african-union]]'
 source_count: 1
 sources:
-  - "[[2024-11-26-interpol-operation-serengeti]]"
-created: 2026-04-08
-updated: 2026-04-08
+- '[[2024-11-26-interpol-operation-serengeti]]'
+title: AFRIPOL (African Police Cooperation Organization)
+type: organization
+updated: '2026-04-09'
 ---
 
 ## Summary

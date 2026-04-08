@@ -1,73 +1,77 @@
 ---
-type: operation
-title: "Operation Morpheus (Cobalt Strike Takedown)"
-title_ko: "모르페우스 작전 (코발트 스트라이크 소탕)"
-aliases: ["Operation Morpheus", "Cobalt Strike takedown", "NCA Europol Cobalt Strike"]
-case_id: "CYB-2024-050"
-period: 3
-operation_type: "infrastructure-seizure"
-status: "completed"
-enforcement_type:
-  - "seizure"
-  - "takedown"
-outcome: "success"
-timeframe:
-  announced: "2024-06-28"
-  start: "2024-06-28"
-  end: "2024-06-28"
-  ongoing: false
-crime_type: "[[hacking-ic]]"
-target_entity: "Unauthorized Cobalt Strike servers"
-lead_agency: "[[uk-nca]]"
-coordinating_body: "[[europol-ec3]]"
-participating_countries:
-  - "[[united-kingdom]]"
-  - "[[australia]]"
-  - "[[canada]]"
-  - "[[germany]]"
-  - "[[netherlands]]"
-  - "[[poland]]"
-  - "[[united-states]]"
-participating_agencies:
-  - "[[uk-nca]]"
-  - "[[europol-ec3]]"
-legal_basis: []
-mechanisms_used: []
-results:
-  arrests: 0
-  indictments: 0
-  servers_seized: 593
-  domains_seized: 0
-  cryptocurrency_seized: ""
-  decryption_keys_recovered: 0
-  victims_notified: 0
-  other:
-    - "593 Cobalt Strike servers associated with criminal activity taken down"
-    - "27 countries involved overall"
-    - "IP addresses flagged to internet service providers in 27 countries"
-edges:
-  - source_actor: "UK NCA"
-    target_actor: "Europol"
-    cooperation_type: "joint_investigation"
-    legal_basis: "unknown"
-    direction: "undirected"
+aliases:
+- Operation Morpheus
+- Cobalt Strike takedown
+- NCA Europol Cobalt Strike
+case_id: CYB-2024-050
+challenges_encountered: []
+coordinating_body: '[[europol-ec3]]'
+created: 2026-04-08
 credibility_index: 2.55
-source_tier: 3
+crime_type: '[[hacking-ic]]'
+edges:
+- cooperation_type: joint_investigation
+  direction: undirected
+  legal_basis: unknown
+  source_actor: UK NCA
+  target_actor: Europol
+enforcement_type:
+- seizure
+- takedown
+lead_agency: '[[uk-nca]]'
+legal_basis: []
+lessons_learned:
+- Targeting dual-use tools (legitimate software abused for crime) requires coordination
+  with the software vendor
+- IP flagging to ISPs in 27 countries demonstrates effective public-private cooperation
+mechanisms_used: []
 missing_fields:
-  - "legal_basis"
-  - "mechanisms_used"
-  - "complete_participating_countries"
-  - "url"
+- legal_basis
+- mechanisms_used
+- complete_participating_countries
+- url
+operation_type: infrastructure-seizure
+outcome: success
+participating_agencies:
+- '[[uk-nca]]'
+- '[[europol-ec3]]'
+participating_countries:
+- '[[united-kingdom]]'
+- '[[australia]]'
+- '[[canada]]'
+- '[[germany]]'
+- '[[netherlands]]'
+- '[[poland]]'
+- '[[united-states]]'
+period: 3
 related_cases: []
 related_operations: []
-challenges_encountered: []
-lessons_learned:
-  - "Targeting dual-use tools (legitimate software abused for crime) requires coordination with the software vendor"
-  - "IP flagging to ISPs in 27 countries demonstrates effective public-private cooperation"
-source_count: 1
+results:
+  arrests: 0
+  cryptocurrency_seized: ''
+  decryption_keys_recovered: 0
+  domains_seized: 0
+  indictments: 0
+  other:
+  - 593 Cobalt Strike servers associated with criminal activity taken down
+  - 27 countries involved overall
+  - IP addresses flagged to internet service providers in 27 countries
+  servers_seized: 593
+  victims_notified: 0
+source_count: 2
+source_tier: 3
 sources: []
-created: 2026-04-08
-updated: 2026-04-08
+status: completed
+target_entity: Unauthorized Cobalt Strike servers
+timeframe:
+  announced: '2024-06-28'
+  end: '2024-06-28'
+  ongoing: false
+  start: '2024-06-28'
+title: Operation Morpheus (Cobalt Strike Takedown)
+title_ko: 모르페우스 작전 (코발트 스트라이크 소탕)
+type: operation
+updated: '2026-04-09'
 ---
 
 > [!note] This operation is documented from a Tier 3 (cybersecurity media) source. Additional verification from official sources (Tier 1-2) would strengthen data reliability.
@@ -142,5 +146,5 @@ No Korean involvement identified. However, Cobalt Strike abuse is a global issue
 
 | # | Title | Publisher | Date | URL |
 |---|-------|----------|------|-----|
-| [1] | Source 1 | thehackernews.com | - | [원본](https://thehackernews.com/2024/07/global-police-operation-shuts-down-600.html) |
-| [2] | Source 2 | nationalcrimeagency.gov.uk | - | [원본](https://www.nationalcrimeagency.gov.uk/news/national-crime-agency-leads-international-operation-to-degrade-illegal-versions-of-cobalt-strike) |
+| [1] | Global Police Operation Shuts Down 600 | The Hacker News | 2024-07 | [원본](https://thehackernews.com/2024/07/global-police-operation-shuts-down-600.html) |
+| [2] | National Crime Agency Leads International Operation To Degrade Illegal Versio... | UK NCA | 2024-06-28 | [원본](https://www.nationalcrimeagency.gov.uk/news/national-crime-agency-leads-international-operation-to-degrade-illegal-versions-of-cobalt-strike) |

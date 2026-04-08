@@ -97,7 +97,7 @@ Jackal III represents a significant escalation in the international response to 
 | Operation | Year | Arrests | Bank Accounts | Assets Seized |
 |-----------|------|---------|---------------|---------------|
 | Jackal I | 2022 | 75 | - | - | [^jackal1]
-| [[operation-jackal\|Jackal]] | 2023 | 103 | 208 | EUR 2.15M |
+| [[operation-jackal|Jackal]] | 2023 | 103 | 208 | EUR 2.15M |
 
 [^jackal1]: > [!warning] Source needed — Jackal I (2022) statistics are not from a collected source. Only Operation Jackal (2023) and Jackal III (2024) have collected sources.
 | **Jackal III** | **2024** | **~300** | **720+** | **USD 3M** |

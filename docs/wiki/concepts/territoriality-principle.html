@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html lang="ko">
+<html lang="ko" class="lang-ko">
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
@@ -11,22 +11,28 @@
 <body>
   <nav class="top-nav">
     <div class="top-nav-inner">
-      <a href="../../" class="nav-logo">🌐 사이버범죄 국제공조 위키</a>
+      <a href="../../" class="nav-logo">
+        <span class="i18n" data-ko="🌐 사이버범죄 국제공조 위키" data-en="🌐 Cybercrime IC Wiki"></span>
+      </a>
       <div class="nav-links">
-        <a href="../../category/operations.html">작전</a>
-        <a href="../../category/organizations.html">기관</a>
-        <a href="../../category/countries.html">국가</a>
-        <a href="../../category/legal-frameworks.html">법적 프레임워크</a>
-        <a href="../../category/mechanisms.html">메커니즘</a>
-        <a href="../../category/crime-types.html">범죄유형</a>
-        <a href="../../category/concepts.html">개념</a>
-        <a href="../../category/sources.html">출처</a>
-        <a href="../../stats.html">통계</a>
+        <a href="../../category/operations.html"><span class="i18n" data-ko="작전" data-en="Operations"></span></a>
+        <a href="../../category/organizations.html"><span class="i18n" data-ko="기관" data-en="Organizations"></span></a>
+        <a href="../../category/countries.html"><span class="i18n" data-ko="국가" data-en="Countries"></span></a>
+        <a href="../../category/legal-frameworks.html"><span class="i18n" data-ko="법적 프레임워크" data-en="Legal Frameworks"></span></a>
+        <a href="../../category/mechanisms.html"><span class="i18n" data-ko="메커니즘" data-en="Mechanisms"></span></a>
+        <a href="../../category/crime-types.html"><span class="i18n" data-ko="범죄유형" data-en="Crime Types"></span></a>
+        <a href="../../category/concepts.html"><span class="i18n" data-ko="개념" data-en="Concepts"></span></a>
+        <a href="../../category/sources.html"><span class="i18n" data-ko="출처" data-en="Sources"></span></a>
+        <a href="../../stats.html"><span class="i18n" data-ko="통계" data-en="Statistics"></span></a>
       </div>
       <form class="nav-search" action="../../search.html" method="get">
-        <input type="text" name="q" placeholder="위키 검색..." value="">
-        <button type="submit">검색</button>
+        <input type="text" name="q" class="i18n-placeholder" data-ko="위키 검색..." data-en="Search wiki..." value="">
+        <button type="submit"><span class="i18n" data-ko="검색" data-en="Search"></span></button>
       </form>
+      <button class="lang-toggle" id="langToggle" title="한국어/English">
+        <span class="lang-flag lang-flag-ko">🇰🇷 한</span>
+        <span class="lang-flag lang-flag-en">🇺🇸 EN</span>
+      </button>
     </div>
   </nav>
 
@@ -34,25 +40,38 @@
 <div class="page-wrapper">
   <main class="article">
     <div class="article-header">
-      <h1>Territoriality Principle</h1>
+      <h1>
+        
+          <span class="heading-ko">영토주의</span>
+          <span class="heading-en">Territoriality Principle</span>
+        
+      </h1>
       <div class="article-meta">
         
-          <span class="badge">concept</span>
+          <span class="badge">
+            <span class="i18n" data-ko="concept" data-en="concept"></span>
+          </span>
         
         
-          <span><a href="../../category/concepts.html">법적 개념</a></span>
+          <span><a href="../../category/concepts.html">
+            <span class="i18n"
+              data-ko="법적 개념"
+              data-en="Concepts"></span>
+          </a></span>
         
         
-          <span>최종 수정: 2026-04-08</span>
+          <span>
+            <span class="i18n" data-ko="최종 수정" data-en="Updated"></span>: 2026-04-08
+          </span>
         
         
       </div>
     </div>
     <div class="article-body">
-      <h2 id="definition">Definition</h2>
+      <h2 id="definition"><span class="heading-ko">정의</span><span class="heading-en">Definition</span></h2>
 <p><strong>Plain language:</strong> A country has the right to prosecute crimes that happen on its soil. For cybercrime, "its soil" becomes complicated — the attacker is in Country A, the server is in Country B, the victim is in Country C, and the data passes through Country D.</p>
 <p><strong>Legal definition:</strong> The principle of public international law under which a state exercises criminal jurisdiction over offenses committed within its geographic territory, including offenses where a constituent element (act or effect) occurs within its territory.</p>
-<h2 id="legal-basis">Legal Basis</h2>
+<h2 id="legal-basis"><span class="heading-ko">법적 근거</span><span class="heading-en">Legal Basis</span></h2>
 <h3 id="budapest-convention">Budapest Convention</h3>
 <p>Art. 22(1) establishes jurisdiction when the offense is committed:
 - <strong>(a)</strong> in the territory of the Party (territorial jurisdiction)
@@ -79,7 +98,7 @@
     (Country D)            (Country E)
 </code></pre>
 <p>Each country may claim jurisdiction. Evidence is scattered across borders. No single country has all the evidence. This makes international cooperation not optional but <strong>structurally necessary</strong> for effective prosecution.</p>
-<h2 id="how-it-works-in-practice">How It Works in Practice</h2>
+<h2 id="how-it-works-in-practice"><span class="heading-ko">실무 적용</span><span class="heading-en">How It Works in Practice</span></h2>
 <h3 id="concurrent-jurisdiction">Concurrent Jurisdiction</h3>
 <p>In most cybercrime cases, multiple states have legitimate jurisdiction. This creates both an opportunity (any of them can investigate) and a problem (coordination needed to avoid:
 - Duplicated efforts
@@ -94,10 +113,10 @@
 - Which country has the <strong>strongest interest</strong> (most victims, greatest harm)?
 - Which country has the <strong>capacity</strong> to handle the case?</p>
 <p>The Budapest Convention Art. 22(5) encourages but does not mandate consultation. In practice, coordination often happens through INTERPOL, Europol, or bilateral channels.</p>
-<h2 id="variations-across-jurisdictions">Variations Across Jurisdictions</h2>
-<h3 id="common-law">Common Law</h3>
+<h2 id="variations-across-jurisdictions"><span class="heading-ko">관할권별 차이</span><span class="heading-en">Variations Across Jurisdictions</span></h2>
+<h3 id="common-law"><span class="heading-ko">보통법</span><span class="heading-en">Common Law</span></h3>
 <p>Common law jurisdictions tend to interpret territorial jurisdiction broadly, recognizing jurisdiction over any offense with a "substantial connection" to the territory. The US in particular has asserted very broad jurisdiction based on minimal territorial contacts (e.g., data transiting through US servers).</p>
-<h3 id="civil-law">Civil Law</h3>
+<h3 id="civil-law"><span class="heading-ko">대륙법</span><span class="heading-en">Civil Law</span></h3>
 <p>Civil law jurisdictions (including Korea) tend to have more codified jurisdiction rules. Korean Criminal Act Art. 2: "This Act shall apply to both Korean nationals and aliens who commit crimes within the territory of the Republic of Korea." Courts have interpreted "within the territory" to include cases where the <em>effect</em> of a cybercrime is felt in Korea.</p>
 <h2 id="korean-law">Korean Law (한국법)</h2>
 <ul>
@@ -106,7 +125,7 @@
 <li><strong>형법 Art. 5, 6:</strong> 특정 범죄에 대한 보편적/보호적 관할</li>
 </ul>
 <p>사이버범죄의 경우, 한국 법원은 범죄의 <strong>행위지</strong> 또는 <strong>결과발생지</strong>가 한국인 경우 관할을 인정하는 경향이 있다.</p>
-<h2 id="debates-and-controversies">Debates and Controversies</h2>
+<h2 id="debates-and-controversies"><span class="heading-ko">논쟁 및 논란</span><span class="heading-en">Debates and Controversies</span></h2>
 <ol>
 <li>
 <p><strong>Unilateral extraterritorial jurisdiction.</strong> Some states (particularly the US) assert jurisdiction based on minimal territorial contacts (e.g., the use of US dollar transactions, data stored on US-based cloud services). This is controversial as it may encroach on other states' sovereignty.</p>
@@ -118,7 +137,7 @@
 <p><strong>Loss of location.</strong> The concept of "data location" may be becoming meaningless as cloud providers use distributed storage, replication, and CDNs. Some scholars argue this requires moving beyond territorial jurisdiction entirely for digital evidence.</p>
 </li>
 </ol>
-<h2 id="multi-language-terminology">Multi-Language Terminology</h2>
+<h2 id="multi-language-terminology"><span class="heading-ko">다국어 용어</span><span class="heading-en">Multi-Language Terminology</span></h2>
 <table>
 <thead>
 <tr>
@@ -160,13 +179,13 @@
 </tr>
 </tbody>
 </table>
-<h2 id="contradictions-open-questions">Contradictions &amp; Open Questions</h2>
+<h2 id="contradictions-open-questions"><span class="heading-ko">모순점 및 미해결 문제</span><span class="heading-en">Contradictions &amp; Open Questions</span></h2>
 <ul>
 <li>How do Korean courts determine territorial jurisdiction when a cybercrime involves distributed cloud infrastructure with no clear single location?</li>
 <li>Is there emerging consensus on whether "data location" should remain relevant for jurisdictional purposes?</li>
 <li>How does the Budapest Convention's Second Additional Protocol affect territorial jurisdiction analysis?</li>
 </ul>
-<h2 id="references">References</h2>
+<h2 id="references"><span class="heading-ko">참고문헌</span><span class="heading-en">References</span></h2>
 <div class="callout callout-note"><div class="callout-title">📝 This page is based on Budapest Convention Art. 22, Korean Criminal Act (형법) Art. 2-6, and general legal scholarship on jurisdictional principles in international law. No specific collected sources from this wiki were used, as the 20 collected sources cover operational matters rather than jurisdictional doctrine.</div><div class="callout-body"></div></div>
     </div>
   </main>
@@ -174,27 +193,61 @@
   <aside class="sidebar">
     
     <div class="infobox">
-      <div class="infobox-header">Territoriality Principle</div>
+      <div class="infobox-header">
+        
+          <span class="heading-ko">영토주의</span>
+          <span class="heading-en">Territoriality Principle</span>
+        
+      </div>
       <table>
         
         <tr>
-          <th>유형</th>
-          <td>법적 개념</td>
+          <th>
+            <span class="heading-ko">유형</span>
+            <span class="heading-en">Type</span>
+          </th>
+          <td>
+            
+              <span class="heading-ko">법적 개념</span>
+              <span class="heading-en">Concept</span>
+            
+          </td>
         </tr>
         
         <tr>
-          <th>한국어</th>
-          <td>영토주의</td>
+          <th>
+            <span class="heading-ko">한국어</span>
+            <span class="heading-en">Korean</span>
+          </th>
+          <td>
+            
+              영토주의
+            
+          </td>
         </tr>
         
         <tr>
-          <th>분류</th>
-          <td>jurisdictional-doctrine</td>
+          <th>
+            <span class="heading-ko">분류</span>
+            <span class="heading-en">Category</span>
+          </th>
+          <td>
+            
+              jurisdictional-doctrine
+            
+          </td>
         </tr>
         
         <tr>
-          <th>분야</th>
-          <td>international-law</td>
+          <th>
+            <span class="heading-ko">분야</span>
+            <span class="heading-en">Domain</span>
+          </th>
+          <td>
+            
+              international-law
+            
+          </td>
         </tr>
         
       </table>
@@ -202,14 +255,14 @@
     
 
     <div class="cat-nav">
-      <h3>카테고리</h3>
+      <h3><span class="i18n" data-ko="카테고리" data-en="Categories"></span></h3>
       <ul>
         
         <li>
           📜
           <a href="../../category/legal-frameworks.html"
              >
-            법적 프레임워크
+            <span class="i18n" data-ko="법적 프레임워크" data-en="Legal Frameworks"></span>
           </a>
         </li>
         
@@ -217,7 +270,7 @@
           🏛️
           <a href="../../category/organizations.html"
              >
-            기관
+            <span class="i18n" data-ko="기관" data-en="Organizations"></span>
           </a>
         </li>
         
@@ -225,7 +278,7 @@
           🌍
           <a href="../../category/countries.html"
              >
-            국가
+            <span class="i18n" data-ko="국가" data-en="Countries"></span>
           </a>
         </li>
         
@@ -233,7 +286,7 @@
           🎯
           <a href="../../category/operations.html"
              >
-            작전
+            <span class="i18n" data-ko="작전" data-en="Operations"></span>
           </a>
         </li>
         
@@ -241,7 +294,7 @@
           ⚖️
           <a href="../../category/cases.html"
              >
-            사건
+            <span class="i18n" data-ko="사건" data-en="Cases"></span>
           </a>
         </li>
         
@@ -249,7 +302,7 @@
           🔗
           <a href="../../category/mechanisms.html"
              >
-            공조 메커니즘
+            <span class="i18n" data-ko="공조 메커니즘" data-en="Mechanisms"></span>
           </a>
         </li>
         
@@ -257,7 +310,7 @@
           📋
           <a href="../../category/procedures.html"
              >
-            절차
+            <span class="i18n" data-ko="절차" data-en="Procedures"></span>
           </a>
         </li>
         
@@ -265,7 +318,7 @@
           🔒
           <a href="../../category/crime-types.html"
              >
-            범죄유형
+            <span class="i18n" data-ko="범죄유형" data-en="Crime Types"></span>
           </a>
         </li>
         
@@ -273,7 +326,7 @@
           ⚠️
           <a href="../../category/challenges.html"
              >
-            과제
+            <span class="i18n" data-ko="과제" data-en="Challenges"></span>
           </a>
         </li>
         
@@ -281,7 +334,7 @@
           📖
           <a href="../../category/concepts.html"
              style="font-weight:700">
-            법적 개념
+            <span class="i18n" data-ko="법적 개념" data-en="Concepts"></span>
           </a>
         </li>
         
@@ -289,7 +342,7 @@
           📰
           <a href="../../category/sources.html"
              >
-            출처
+            <span class="i18n" data-ko="출처" data-en="Sources"></span>
           </a>
         </li>
         
@@ -297,7 +350,7 @@
           📊
           <a href="../../category/analysis.html"
              >
-            분석
+            <span class="i18n" data-ko="분석" data-en="Analysis"></span>
           </a>
         </li>
         
@@ -305,7 +358,7 @@
           📅
           <a href="../../category/timelines.html"
              >
-            타임라인
+            <span class="i18n" data-ko="타임라인" data-en="Timelines"></span>
           </a>
         </li>
         
@@ -316,9 +369,57 @@
 
 
   <div class="footer">
-    사이버범죄 국제공조 위키 &mdash; LLM Wiki Pattern &mdash;
-    Powered by <a href="https://obsidian.md">Obsidian</a> + Flask &mdash;
-    2026-04-09 기준 데이터
+    <span class="i18n"
+      data-ko="사이버범죄 국제공조 위키 &mdash; LLM Wiki Pattern &mdash; 2026-04-09 기준 데이터"
+      data-en="Cybercrime International Cooperation Wiki &mdash; LLM Wiki Pattern &mdash; Data as of 2026-04-09">
+    </span>
   </div>
+
+  <script>
+  (function() {
+    // Language toggle system — Korean default
+    var STORAGE_KEY = 'wiki-lang';
+
+    function getLang() {
+      return localStorage.getItem(STORAGE_KEY) || 'ko';
+    }
+
+    function setLang(lang) {
+      localStorage.setItem(STORAGE_KEY, lang);
+      applyLang(lang);
+    }
+
+    function applyLang(lang) {
+      var html = document.documentElement;
+      html.classList.remove('lang-ko', 'lang-en');
+      html.classList.add('lang-' + lang);
+      html.setAttribute('lang', lang === 'ko' ? 'ko' : 'en');
+
+      // Update i18n text content
+      document.querySelectorAll('.i18n').forEach(function(el) {
+        var text = el.getAttribute('data-' + lang);
+        if (text) el.innerHTML = text;
+      });
+
+      // Update i18n placeholders
+      document.querySelectorAll('.i18n-placeholder').forEach(function(el) {
+        var text = el.getAttribute('data-' + lang);
+        if (text) el.setAttribute('placeholder', text);
+      });
+    }
+
+    // Toggle button
+    var btn = document.getElementById('langToggle');
+    if (btn) {
+      btn.addEventListener('click', function() {
+        var current = getLang();
+        setLang(current === 'ko' ? 'en' : 'ko');
+      });
+    }
+
+    // Apply saved language on load
+    applyLang(getLang());
+  })();
+  </script>
 </body>
 </html>

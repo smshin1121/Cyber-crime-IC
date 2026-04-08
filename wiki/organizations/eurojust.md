@@ -1,44 +1,57 @@
 ---
-type: organization
-title: "Eurojust"
-official_name: "European Union Agency for Criminal Justice Cooperation (Eurojust)"
-official_name_ko: "유럽연합 형사사법협력기구 (유로저스트)"
-aliases: ["Eurojust", "EU Agency for Criminal Justice Cooperation"]
-org_type: "regional-org"
-parent_org: ""
-country: ""
-headquarters: "The Hague, Netherlands"
-established: "2002-02-28"
-mandate: "EU judicial cooperation agency facilitating cross-border criminal investigations and prosecutions, including cybercrime. Coordinates mutual legal assistance, Joint Investigation Teams, European Arrest Warrants, and conflict of jurisdiction resolution."
-member_states: 27
-key_roles:
-  - "Judicial coordination for cross-border criminal cases"
-  - "Joint Investigation Team (JIT) facilitation and financial support"
-  - "Mutual legal assistance (MLA) facilitation"
-  - "Conflict of jurisdiction resolution"
-  - "Coordination meetings for multi-country investigations"
-  - "European Arrest Warrant coordination"
-cooperation_partners:
-  - "[[europol-ec3]]"
-frameworks_administered: []
-mechanisms_operated: []
-operations_participated:
-  - "[[operation-cronos-phase1]]"
-  - "[[operation-endgame-phase1]]"
-  - "[[operation-cronos-phase3]]"
-  - "[[phobos-8base-crackdown]]"
-  - "[[operation-endgame-phase2]]"
-notable_cases: []
+aliases:
+- Eurojust
+- EU Agency for Criminal Justice Cooperation
 contact_point_for: []
+cooperation_partners:
+- '[[europol-ec3]]'
+country: ''
+created: 2026-04-08
+established: '2002-02-28'
+frameworks_administered: []
+headquarters: The Hague, Netherlands
+key_roles:
+- Judicial coordination for cross-border criminal cases
+- Joint Investigation Team (JIT) facilitation and financial support
+- Mutual legal assistance (MLA) facilitation
+- Conflict of jurisdiction resolution
+- Coordination meetings for multi-country investigations
+- European Arrest Warrant coordination
+mandate: EU judicial cooperation agency facilitating cross-border criminal investigations
+  and prosecutions, including cybercrime. Coordinates mutual legal assistance, Joint
+  Investigation Teams, European Arrest Warrants, and conflict of jurisdiction resolution.
+mechanisms_operated: []
+member_states: 27
+notable_cases: []
+official_name: European Union Agency for Criminal Justice Cooperation (Eurojust)
+official_name_ko: 유럽연합 형사사법협력기구 (유로저스트)
+operations_participated:
+- '[[andromeda-botnet-takedown]]'
+- '[[botnet-takedown-europol-2023]]'
+- '[[cyber-fraud-international-2015]]'
+- '[[doublevpn-takedown]]'
+- '[[imminent-monitor-rat-takedown]]'
+- '[[operation-avalanche]]'
+- '[[operation-bakovia]]'
+- '[[operation-cronos-phase1]]'
+- '[[operation-cronos-phase3]]'
+- '[[operation-endgame-phase1]]'
+- '[[operation-endgame-phase2]]'
+- '[[operation-secreto]]'
+- '[[phobos-8base-crackdown]]'
+- '[[zeus-spyeye-jit-takedown]]'
+org_type: regional-org
+parent_org: ''
 source_count: 5
 sources:
-  - "[[2024-02-20-europol-operation-cronos-lockbit]]"
-  - "[[2024-05-30-europol-operation-endgame-botnet-takedown]]"
-  - "[[2024-10-01-europol-operation-cronos-lockbit-phase3]]"
-  - "[[2025-02-11-europol-phobos-8base-ransomware-arrests]]"
-  - "[[2025-05-23-europol-operation-endgame-phase2]]"
-created: 2026-04-08
-updated: 2026-04-08
+- '[[2024-02-20-europol-operation-cronos-lockbit]]'
+- '[[2024-05-30-europol-operation-endgame-botnet-takedown]]'
+- '[[2024-10-01-europol-operation-cronos-lockbit-phase3]]'
+- '[[2025-02-11-europol-phobos-8base-ransomware-arrests]]'
+- '[[2025-05-23-europol-operation-endgame-phase2]]'
+title: Eurojust
+type: organization
+updated: '2026-04-09'
 ---
 
 ## Summary
@@ -103,11 +116,11 @@ Eurojust provided judicial coordination for all major cybercrime operations cove
 
 | Operation | Date | Eurojust Role | Key Judicial Activities |
 |-----------|------|---------------|------------------------|
-| [[operation-cronos-phase1\|Operation Cronos Phase 1]] | Feb 2024 | Judicial coordination | JIT support, MLA coordination, EAW execution for LockBit suspects |
-| [[operation-endgame-phase1\|Operation Endgame Phase 1]] | May 2024 | Judicial coordination | Multi-country JIT coordination, arrest warrant execution across EU |
-| [[operation-cronos-phase3\|Operation Cronos Phase 3]] | Oct 2024 | Judicial coordination | Additional arrests coordination, sanctions-related judicial support |
-| [[phobos-8base-crackdown\|Phobos/8Base Crackdown]] | Feb 2025 | Judicial coordination | 2 coordination meetings, cross-border arrest coordination |
-| [[operation-endgame-phase2\|Operation Endgame Phase 2]] | May 2025 | Judicial coordination | 20 arrest warrants coordinated, multi-jurisdictional infrastructure seizure |
+| [[operation-cronos-phase1|Operation Cronos Phase 1]] | Feb 2024 | Judicial coordination | JIT support, MLA coordination, EAW execution for LockBit suspects |
+| [[operation-endgame-phase1|Operation Endgame Phase 1]] | May 2024 | Judicial coordination | Multi-country JIT coordination, arrest warrant execution across EU |
+| [[operation-cronos-phase3|Operation Cronos Phase 3]] | Oct 2024 | Judicial coordination | Additional arrests coordination, sanctions-related judicial support |
+| [[phobos-8base-crackdown|Phobos/8Base Crackdown]] | Feb 2025 | Judicial coordination | 2 coordination meetings, cross-border arrest coordination |
+| [[operation-endgame-phase2|Operation Endgame Phase 2]] | May 2025 | Judicial coordination | 20 arrest warrants coordinated, multi-jurisdictional infrastructure seizure |
 
 ### Role in Major Cybercrime Operations
 

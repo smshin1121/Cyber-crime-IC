@@ -1,110 +1,117 @@
 ---
-type: operation
-title: "Phobos/8Base Ransomware Crackdown"
-aliases: ["Phobos 8Base operation", "8Base arrests Feb 2025"]
-operation_type: "arrest-sweep"
-status: "completed"
-case_id: "CYB-2025-003"
-period: 3
-enforcement_type:
-  - "arrest"
-  - "seizure"
-  - "takedown"
-  - "extradition"
-outcome: "success"
+aliases:
+- Phobos 8Base operation
+- 8Base arrests Feb 2025
+case_id: CYB-2025-003
+challenges_encountered: []
+coordinating_body: '[[europol-ec3]]'
+created: 2026-04-08
 credibility_index: 3.25
-source_tier: 2
+crime_type: '[[ransomware-ic]]'
 edges:
-  - source_actor: "Europol"
-    target_actor: "FBI"
-    cooperation_type: "joint_investigation"
-    legal_basis: "unknown"
-    direction: "undirected"
-  - source_actor: "South Korea Police"
-    target_actor: "FBI"
-    cooperation_type: "extradition"
-    legal_basis: "MLAT"
-    direction: "directed"
-  - source_actor: "Europol"
-    target_actor: "Eurojust"
-    cooperation_type: "joint_investigation"
-    legal_basis: "unknown"
-    direction: "undirected"
-missing_fields:
-  - "legal_basis"
-  - "mechanisms_used"
-  - "specific_korean_agency"
-  - "extradition_legal_basis"
-timeframe:
-  announced: "2025-02-11"
-  start: "2019-02"
-  end: "2025-02"
-  ongoing: false
-crime_type: "[[ransomware-ic]]"
-target_entity: "Phobos and 8Base ransomware groups"
-lead_agency: "[[europol-ec3]]"
-coordinating_body: "[[europol-ec3]]"
-participating_countries:
-  - "[[belgium]]"
-  - "[[czechia]]"
-  - "[[france]]"
-  - "[[germany]]"
-  - "[[japan]]"
-  - "[[poland]]"
-  - "[[romania]]"
-  - "[[singapore]]"
-  - "[[spain]]"
-  - "[[sweden]]"
-  - "[[switzerland]]"
-  - "[[thailand]]"
-  - "[[united-kingdom]]"
-  - "[[united-states]]"
-participating_agencies:
-  - "[[europol-ec3]]"
-  - "[[eurojust]]"
-  - "[[belgium-federal-police]]"
-  - "[[czechia-police]]"
-  - "[[france-national-police]]"
-  - "[[germany-bka]]"
-  - "[[japan-npa]]"
-  - "[[poland-police]]"
-  - "[[romania-police]]"
-  - "[[singapore-police]]"
-  - "[[spain-guardia-civil]]"
-  - "[[sweden-police]]"
-  - "[[switzerland-fedpol]]"
-  - "[[thailand-royal-police]]"
-  - "[[uk-nca]]"
-  - "[[fbi-cyber-division]]"
+- cooperation_type: joint_investigation
+  direction: undirected
+  legal_basis: unknown
+  source_actor: Europol
+  target_actor: FBI
+- cooperation_type: extradition
+  direction: directed
+  legal_basis: MLAT
+  source_actor: South Korea Police
+  target_actor: FBI
+- cooperation_type: joint_investigation
+  direction: undirected
+  legal_basis: unknown
+  source_actor: Europol
+  target_actor: Eurojust
+enforcement_type:
+- arrest
+- seizure
+- takedown
+- extradition
+lead_agency: '[[europol-ec3]]'
 legal_basis: []
+lessons_learned:
+- Multi-year sustained investigation (2019-2025) with 37 operational meetings enabled
+  identification of leadership
+- Prior arrests of affiliates and administrators in various countries built intelligence
+  for the final crackdown
+- Proactive victim notification (400+ companies) demonstrated a protective dimension
+  beyond enforcement
+- South Korea-US extradition of Phobos administrator demonstrates East Asian contribution
+  to global ransomware enforcement
 mechanisms_used: []
-results:
-  arrests: 4
-  indictments: 0
-  servers_seized: 27
-  domains_seized: 0
-  cryptocurrency_seized: ""
-  decryption_keys_recovered: 0
-  victims_notified: 400
-  other:
-    - "Prior arrests: Phobos administrator in South Korea (June 2024), extradited to US (Nov 2024)"
-    - "Prior arrest: Phobos affiliate in Italy (2023) on French warrant"
-    - "37 Europol operational meetings"
-    - "~600 SIENA operational messages"
-    - "2 Eurojust coordination meetings"
+missing_fields:
+- legal_basis
+- mechanisms_used
+- specific_korean_agency
+- extradition_legal_basis
+operation_type: arrest-sweep
+outcome: success
+participating_agencies:
+- '[[europol-ec3]]'
+- '[[eurojust]]'
+- '[[belgium-federal-police]]'
+- '[[czechia-police]]'
+- '[[france-national-police]]'
+- '[[germany-bka]]'
+- '[[japan-npa]]'
+- '[[poland-police]]'
+- '[[romania-police]]'
+- '[[singapore-police]]'
+- '[[spain-guardia-civil]]'
+- '[[sweden-police]]'
+- '[[switzerland-fedpol]]'
+- '[[thailand-royal-police]]'
+- '[[uk-nca]]'
+- '[[fbi-cyber-division]]'
+participating_countries:
+- '[[belgium]]'
+- '[[czechia]]'
+- '[[france]]'
+- '[[germany]]'
+- '[[japan]]'
+- '[[poland]]'
+- '[[romania]]'
+- '[[singapore]]'
+- '[[spain]]'
+- '[[sweden]]'
+- '[[switzerland]]'
+- '[[thailand]]'
+- '[[united-kingdom]]'
+- '[[united-states]]'
+period: 3
 related_cases: []
 related_operations: []
-challenges_encountered: []
-lessons_learned:
-  - "Multi-year sustained investigation (2019-2025) with 37 operational meetings enabled identification of leadership"
-  - "Prior arrests of affiliates and administrators in various countries built intelligence for the final crackdown"
-  - "Proactive victim notification (400+ companies) demonstrated a protective dimension beyond enforcement"
-  - "South Korea-US extradition of Phobos administrator demonstrates East Asian contribution to global ransomware enforcement"
+results:
+  arrests: 4
+  cryptocurrency_seized: ''
+  decryption_keys_recovered: 0
+  domains_seized: 0
+  indictments: 0
+  other:
+  - 'Prior arrests: Phobos administrator in South Korea (June 2024), extradited to
+    US (Nov 2024)'
+  - 'Prior arrest: Phobos affiliate in Italy (2023) on French warrant'
+  - 37 Europol operational meetings
+  - ~600 SIENA operational messages
+  - 2 Eurojust coordination meetings
+  servers_seized: 27
+  victims_notified: 400
 source_count: 1
+source_tier: 2
 sources:
-  - "[[2025-02-11-europol-phobos-8base-ransomware-arrests]]"
-created: 2026-04-08
-updated: 2026-04-08
+- '[[2025-02-11-europol-phobos-8base-ransomware-arrests]]'
+status: completed
+target_entity: Phobos and 8Base ransomware groups
+timeframe:
+  announced: '2025-02-11'
+  end: 2025-02
+  ongoing: false
+  start: 2019-02
+title: Phobos/8Base Ransomware Crackdown
+type: operation
+updated: '2026-04-09'
 ---
 
 ## Summary
@@ -210,5 +217,3 @@ The successful extradition demonstrates the practical effectiveness of the Korea
 | # | Title | Publisher | Date | URL |
 |---|-------|----------|------|-----|
 | [1] | Key figures behind Phobos and 8Base ransomware arrested in international cybercrime crackdown | Europol | 2025-02-11 | [원본](https://www.europol.europa.eu/media-press/newsroom/news/key-figures-behind-phobos-and-8base-ransomware-arrested-in-international-cybercrime-crackdown) |
-| [2] | Supplementary source | phys.org | - | [원본](https://phys.org/news/2015-12-europe-trojan-horse-cybercrime.html) |
-| [3] | Supplementary (high, LLM verified) | cbsnews.com | - | [원본](https://www.cbsnews.com/news/justice-department-charges-russian-men-cybercrime-ransomware/) |

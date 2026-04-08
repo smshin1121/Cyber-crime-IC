@@ -1,72 +1,76 @@
 ---
-type: operation
-title: "International DDoS-for-Hire Sweep"
-title_ko: "공식 작전명 없음 (DDoS-for-hire 국제 공조 단속)"
-aliases: ["International Cyber Sweep DDoS"]
-case_id: "CYB-2016-002"
-period: 1
-operation_type: "arrest-sweep"
-status: "completed"
-enforcement_type: ["arrest"]
-outcome: "success"
-timeframe:
-  announced: "2016-12-09"
-  start: "2016-12-05"
-  end: "2016-12-09"
-  ongoing: false
-crime_type: "[[ddos-ic]]"
-target_entity: "DDoS-for-hire service users"
-lead_agency: "[[europol-ec3]]"
-coordinating_body: "[[europol]]"
-participating_countries:
-  - "[[united-states]]"
-  - "[[united-kingdom]]"
-  - "[[france]]"
-  - "[[belgium]]"
-  - "[[hungary]]"
-  - "[[lithuania]]"
-  - "[[netherlands]]"
-  - "[[norway]]"
-  - "[[portugal]]"
-  - "[[romania]]"
-  - "[[spain]]"
-  - "[[sweden]]"
-  - "[[australia]]"
-participating_agencies:
-  - "[[europol]]"
-  - "[[europol-ec3]]"
-  - "[[fbi]]"
-legal_basis: []
-mechanisms_used: []
-results:
-  arrests: 34
-  indictments: 0
-  servers_seized: 0
-  domains_seized: 0
-  cryptocurrency_seized: ""
-  decryption_keys_recovered: 0
-  victims_notified: 0
-  other:
-    - "101 suspects interviewed/cautioned"
-    - "Most suspects under 20 years old"
-edges:
-  - source_actor: "Europol EC3"
-    target_actor: "FBI"
-    cooperation_type: "joint_investigation"
-    legal_basis: "unknown"
-    direction: "undirected"
+aliases:
+- International Cyber Sweep DDoS
+case_id: CYB-2016-002
+challenges_encountered: []
+coordinating_body: '[[europol]]'
+created: 2026-04-08
 credibility_index: 2.95
-source_tier: 2
-missing_fields: ["legal_basis", "mechanisms_used"]
+crime_type: '[[ddos-ic]]'
+edges:
+- cooperation_type: joint_investigation
+  direction: undirected
+  legal_basis: unknown
+  source_actor: Europol EC3
+  target_actor: FBI
+enforcement_type:
+- arrest
+lead_agency: '[[europol-ec3]]'
+legal_basis: []
+lessons_learned: []
+mechanisms_used: []
+missing_fields:
+- legal_basis
+- mechanisms_used
+operation_type: arrest-sweep
+outcome: success
+participating_agencies:
+- '[[europol]]'
+- '[[europol-ec3]]'
+- '[[fbi]]'
+participating_countries:
+- '[[united-states]]'
+- '[[united-kingdom]]'
+- '[[france]]'
+- '[[belgium]]'
+- '[[hungary]]'
+- '[[lithuania]]'
+- '[[netherlands]]'
+- '[[norway]]'
+- '[[portugal]]'
+- '[[romania]]'
+- '[[spain]]'
+- '[[sweden]]'
+- '[[australia]]'
+period: 1
 related_cases: []
 related_operations: []
-challenges_encountered: []
-lessons_learned: []
-source_count: 1
+results:
+  arrests: 34
+  cryptocurrency_seized: ''
+  decryption_keys_recovered: 0
+  domains_seized: 0
+  indictments: 0
+  other:
+  - 101 suspects interviewed/cautioned
+  - Most suspects under 20 years old
+  servers_seized: 0
+  victims_notified: 0
+source_count: 2
+source_tier: 2
 sources:
-  - "[1] FBI News (2016-12)"
-created: 2026-04-08
-updated: 2026-04-08
+- '[1] FBI News (2016-12)'
+status: completed
+target_entity: DDoS-for-hire service users
+timeframe:
+  announced: '2016-12-09'
+  end: '2016-12-09'
+  ongoing: false
+  start: '2016-12-05'
+title: International DDoS-for-Hire Sweep
+title_ko: 공식 작전명 없음 (DDoS-for-hire 국제 공조 단속)
+type: operation
+updated: '2026-04-09'
 ---
 
 ## Summary
@@ -94,5 +98,5 @@ United States, United Kingdom, France, Belgium, Hungary, Lithuania, Netherlands,
 
 | # | Title | Publisher | Date | URL |
 |---|-------|----------|------|-----|
-| [1] | Source 1 | cyberscoop.com | - | [원본](https://cyberscoop.com/ddos-europol-arrest-december-2016/) |
-| [2] | Source 2 | fbi.gov | - | [원본](https://www.fbi.gov/news/stories/international-cyber-sweep-nets-ddos-attackers) |
+| [1] | Ddos Europol Arrest December 2016 | CyberScoop | 2016-12-09 | [원본](https://cyberscoop.com/ddos-europol-arrest-december-2016/) |
+| [2] | International Cyber Sweep Nets Ddos Attackers | FBI | 2016-12-09 | [원본](https://www.fbi.gov/news/stories/international-cyber-sweep-nets-ddos-attackers) |

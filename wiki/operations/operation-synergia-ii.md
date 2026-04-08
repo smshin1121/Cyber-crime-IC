@@ -1,76 +1,80 @@
 ---
-type: operation
-title: "Operation Synergia II"
-aliases: ["Synergia II", "Synergia 2"]
-operation_type: "infrastructure-seizure"
-status: "completed"
-case_id: "CYB-2024-007"
-period: 3
-enforcement_type:
-  - "arrest"
-  - "seizure"
-  - "takedown"
-outcome: "success"
+aliases:
+- Synergia II
+- Synergia 2
+case_id: CYB-2024-007
+challenges_encountered: []
+coordinating_body: '[[interpol-igci]]'
+created: 2026-04-08
 credibility_index: 3.25
-source_tier: 2
+crime_type: '[[ransomware-ic]]'
 edges:
-  - source_actor: "INTERPOL"
-    target_actor: "Group-IB"
-    cooperation_type: "info_sharing"
-    legal_basis: "unknown"
-    direction: "directed"
-  - source_actor: "INTERPOL"
-    target_actor: "Trend Micro"
-    cooperation_type: "info_sharing"
-    legal_basis: "unknown"
-    direction: "directed"
-  - source_actor: "INTERPOL"
-    target_actor: "Hong Kong Police"
-    cooperation_type: "joint_investigation"
-    legal_basis: "unknown"
-    direction: "undirected"
-missing_fields:
-  - "legal_basis"
-  - "mechanisms_used"
-  - "full_participating_countries_list"
-timeframe:
-  announced: "2024-11-06"
-  start: "2024-04-01"
-  end: "2024-08-31"
-  ongoing: false
-crime_type: "[[ransomware-ic]]"
-target_entity: "Phishing, ransomware, and information stealer infrastructure"
-lead_agency: "[[interpol-igci]]"
-coordinating_body: "[[interpol-igci]]"
-participating_countries: []
-participating_agencies:
-  - "[[interpol-igci]]"
+- cooperation_type: info_sharing
+  direction: directed
+  legal_basis: unknown
+  source_actor: INTERPOL
+  target_actor: Group-IB
+- cooperation_type: info_sharing
+  direction: directed
+  legal_basis: unknown
+  source_actor: INTERPOL
+  target_actor: Trend Micro
+- cooperation_type: joint_investigation
+  direction: undirected
+  legal_basis: unknown
+  source_actor: INTERPOL
+  target_actor: Hong Kong Police
+enforcement_type:
+- arrest
+- seizure
+- takedown
+lead_agency: '[[interpol-igci]]'
 legal_basis: []
+lessons_learned:
+- Public-private partnership model (Group-IB, Trend Micro, Kaspersky, Team Cymru)
+  enables comprehensive threat intelligence for infrastructure-focused operations
+- Broad participation (95 countries) demonstrates INTERPOL's unique convening power
+  for global cyber operations
 mechanisms_used: []
-results:
-  arrests: 41
-  indictments: 0
-  servers_seized: 59
-  domains_seized: 0
-  cryptocurrency_seized: ""
-  decryption_keys_recovered: 0
-  victims_notified: 0
-  other:
-    - "22,800 malicious IP addresses taken down (76% of ~30,000 identified)"
-    - "43 electronic devices seized (laptops, mobile phones, hard disks)"
-    - "65 additional individuals under investigation"
+missing_fields:
+- legal_basis
+- mechanisms_used
+- full_participating_countries_list
+operation_type: infrastructure-seizure
+outcome: success
+participating_agencies:
+- '[[interpol-igci]]'
+participating_countries: []
+period: 3
 related_cases: []
 related_operations:
-  - "[[operation-haechi-v]]"
-  - "[[operation-serengeti]]"
-challenges_encountered: []
-lessons_learned:
-  - "Public-private partnership model (Group-IB, Trend Micro, Kaspersky, Team Cymru) enables comprehensive threat intelligence for infrastructure-focused operations"
-  - "Broad participation (95 countries) demonstrates INTERPOL's unique convening power for global cyber operations"
+- '[[operation-haechi-v]]'
+- '[[operation-serengeti]]'
+results:
+  arrests: 41
+  cryptocurrency_seized: ''
+  decryption_keys_recovered: 0
+  domains_seized: 0
+  indictments: 0
+  other:
+  - 22,800 malicious IP addresses taken down (76% of ~30,000 identified)
+  - 43 electronic devices seized (laptops, mobile phones, hard disks)
+  - 65 additional individuals under investigation
+  servers_seized: 59
+  victims_notified: 0
 source_count: 1
+source_tier: 2
 sources:
-  - "[[2024-11-06-interpol-operation-synergia-ii]]"
-created: 2026-04-08
+- '[[2024-11-06-interpol-operation-synergia-ii]]'
+status: completed
+target_entity: Phishing, ransomware, and information stealer infrastructure
+timeframe:
+  announced: '2024-11-06'
+  end: '2024-08-31'
+  ongoing: false
+  start: '2024-04-01'
+title: Operation Synergia II
+type: operation
 updated: 2026-04-08
 ---
 
@@ -137,4 +141,3 @@ No specific Korean involvement was noted in the published results of Operation S
 | # | Title | Publisher | Date | URL |
 |---|-------|----------|------|-----|
 | [1] | INTERPOL cyber operation takes down 22,000 malicious IP addresses — Operation Synergia II | INTERPOL | 2024-11-06 | [원본](https://www.interpol.int/News-and-Events/News/2024/INTERPOL-cyber-operation-takes-down-22-000-malicious-IP-addresses) |
-| [2] | Supplementary source | kaspersky.com | - | [원본](https://www.kaspersky.com/about/press-releases/kaspersky-shares-cyberthreat-data-with-interpol-in-operation-to-disrupt-transnational-cybercrime) |

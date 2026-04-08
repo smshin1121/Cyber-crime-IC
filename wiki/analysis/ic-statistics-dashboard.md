@@ -1,30 +1,30 @@
 ---
-type: analysis
-title: "사이버범죄 국제공조 통계 대시보드"
-analysis_type: "trend-report"
-scope: "2014-2025 사이버범죄 국제공조 작전 통계 (위키 수집 데이터 기반)"
-confidence: "high"
-key_judgments:
-  - judgment: "Europol과 INTERPOL이 양대 조정 허브로 기능"
-    confidence: "high"
-  - judgment: "INTERPOL 주도 작전이 체포 규모에서 압도적"
-    confidence: "high"
-  - judgment: "한국이 HAECHI 시리즈를 통해 아시아-태평양 국제공조의 핵심 행위자"
-    confidence: "high"
-sources_consulted: 23
-entities_referenced:
-  - "[[europol-ec3]]"
-  - "[[interpol-igci]]"
-  - "[[fbi-cyber-division]]"
-  - "[[south-korea]]"
-generated_from: "manual"
+analysis_type: trend-report
+confidence: high
 created: 2026-04-08
-updated: 2026-04-08
+entities_referenced:
+- '[[europol-ec3]]'
+- '[[interpol-igci]]'
+- '[[fbi-cyber-division]]'
+- '[[south-korea]]'
+generated_from: manual
+key_judgments:
+- confidence: high
+  judgment: Europol과 INTERPOL이 양대 조정 허브로 기능
+- confidence: high
+  judgment: INTERPOL 주도 작전이 체포 규모에서 압도적
+- confidence: high
+  judgment: 한국이 HAECHI 시리즈를 통해 아시아-태평양 국제공조의 핵심 행위자
+scope: 2014-2025 사이버범죄 국제공조 작전 통계 (위키 수집 데이터 기반)
+sources_consulted: 149
+title: 사이버범죄 국제공조 통계 대시보드
+type: analysis
+updated: '2026-04-09'
 ---
 
 # 사이버범죄 국제공조 통계 대시보드
 
-> [!info] 이 페이지의 모든 데이터는 위키에 수집된 82개 작전과 23개 출처 페이지에서 도출되었습니다. 작전 전체 목록은 [[operations/_index]]를 참조하십시오.
+> [!info] 이 페이지의 모든 데이터는 위키에 수집된 82개 작전과 149개 출처 페이지에서 도출되었습니다. 작전 전체 목록은 [[operations/_index]]를 참조하십시오.
 
 ---
 
@@ -38,8 +38,7 @@ updated: 2026-04-08
 | Period 1 (2014-2018) | 21 |
 | Period 2 (2019-2022) | 18 |
 | Period 3 (2023-2025) | 43 |
-| 총 출처 수 | 23 (dedicated pages) + Excel 소스 |
-| 최고 CI | 3.62 (Operation Shrouded Horizon, Operation Falcon, GozNym Takedown) |
+| 총 출처 수 | 149 (dedicated pages) + Excel 소스 |
 
 ### 조정기관별 분포
 
@@ -47,10 +46,10 @@ updated: 2026-04-08
 |---------|---------|------|
 | Europol / Europol EC3 | 36 | 가장 많은 작전 조정; 랜섬웨어, 봇넷, 사기 포럼 등 |
 | INTERPOL / INTERPOL IGCI | 22 | 체포 규모에서 압도적; HAECHI, Jackal, Serengeti 등 |
-| DOJ / FBI (미국 주도) | 3 (조정) + 9 (주도) | 조정기관 미등재 포함 시 12건; 기소·압수 중심 |
-| AFRIPOL | 3 | Serengeti, Sentinel, Red Card 공동 조정 |
+| DOJ / FBI (미국 주도) | 3 | 기소·압수 중심 |
+| AFRIPOL | 3 | 아프리카 공동 조정 |
 | Eurojust | 2 | 사법 공조 조정 |
-| 양자/기타 (조정기관 없음) | 16 | 한국 양자작전 2건 포함; DOJ 단독 기소 다수 |
+| 양자/기타 (조정기관 없음) | 16 | 한국 양자작전 포함; 단독 기소 다수 |
 
 ### 상위 10개 작전 (CI 기준)
 
@@ -87,12 +86,12 @@ updated: 2026-04-08
 
 | 범죄유형 | 작전 수 | 주요 작전 | 주요 조정기관 |
 |---------|--------|---------|-----------|
-| [[ransomware-ic\|랜섬웨어]] | 7+ | Cronos Ph1/Ph3, Endgame Ph1/Ph2, Phobos, Checkmate, QakBot | Europol, DOJ |
-| [[online-fraud-ic\|온라인 사기]] | 7+ | HAECHI IV/V/VI, Serengeti, First Light, Jackal/III | INTERPOL |
-| [[bec-ic\|BEC]] | 8+ | Franco-Israeli, Jackal, Jackal III, Sentinel, HAECHI IV/V/VI, First Light | Europol, INTERPOL |
-| [[voice-phishing-ic\|보이스피싱]] | 6+ | Korea-China Qingdao, HAECHI IV/V/VI, First Light, Korea-Cambodia | INTERPOL, 한국 양자 |
-| [[hacking-ic\|해킹]] | 1+ | i-Soon/APT27 | DOJ |
-| [[csam-ic\|CSAM]] | 3 | Operation Stream/Kidflix, Cyber Guardian, Orion International | Europol, 한국, INTERPOL |
+| [[ransomware-ic|랜섬웨어]] | 7+ | Cronos Ph1/Ph3, Endgame Ph1/Ph2, Phobos, Checkmate, QakBot | Europol, DOJ |
+| [[online-fraud-ic|온라인 사기]] | 7+ | HAECHI IV/V/VI, Serengeti, First Light, Jackal/III | INTERPOL |
+| [[bec-ic|BEC]] | 8+ | Franco-Israeli, Jackal, Jackal III, Sentinel, HAECHI IV/V/VI, First Light | Europol, INTERPOL |
+| [[voice-phishing-ic|보이스피싱]] | 6+ | Korea-China Qingdao, HAECHI IV/V/VI, First Light, Korea-Cambodia | INTERPOL, 한국 양자 |
+| [[hacking-ic|해킹]] | 1+ | i-Soon/APT27 | DOJ |
+| [[csam-ic|CSAM]] | 3 | Operation Stream/Kidflix, Cyber Guardian, Orion International | Europol, 한국, INTERPOL |
 
 > 일부 작전은 복수 범죄유형에 해당하므로 합산 시 중복이 발생합니다. Excel 배치 임포트 작전의 범죄유형이 반영되어 실제 수치는 위 표보다 높을 수 있습니다.
 
@@ -133,16 +132,16 @@ updated: 2026-04-08
 
 | 카테고리 | 페이지 수 | 비고 |
 |---------|---------|------|
-| 법적 프레임워크 | 1 | 부다페스트 협약. UN 협약 등 추가 필요 |
-| 기관 | 7 | 주요 기관 커버. 아시아·아프리카 기관 확장 필요 |
-| 국가 | 1 | 한국만. 미국·영국·독일 등 추가 필요 |
+| 법적 프레임워크 | 4 | 부다페스트 협약 등 |
+| 기관 | 12 | 주요 기관 |
+| 국가 | 9 | 국가 프로필 |
 | 작전 | 82 | 2014-2025 주요 작전 (P1: 21, P2: 18, P3: 43) |
-| 메커니즘 | 2 | MLAT, 24/7 Network. JIT 등 추가 필요 |
-| 범죄유형 | 6 | 랜섬웨어, BEC, 보이스피싱, 온라인사기, 해킹, CSAM |
-| 개념 | 2 | 쌍방가벌성, 영토주의 |
-| 출처 | 23 | Europol 6, INTERPOL 10, DOJ 3, Korea NPA 1, 뉴스 3 |
-| 분석 | 1 | 본 대시보드 |
-| **총 페이지** | **129** | _index 파일 및 메타파일 제외 |
+| 메커니즘 | 4 | 공조 메커니즘 |
+| 범죄유형 | 6 | 문서화된 범죄유형 |
+| 개념 | 5 | 법적 개념 |
+| 출처 | 149 | 전용 출처 페이지 |
+| 분석 | 1 | 본 대시보드 포함 |
+| **총 페이지** | **276** | _index 파일 및 메타파일 제외 |
 
 ---
 

@@ -1,51 +1,60 @@
 ---
-type: organization
-title: "Dutch National Police — National High Tech Crime Unit (NHTCU)"
-official_name: "Politie — Dienst Landelijke Recherche — Team High Tech Crime"
-official_name_ko: "네덜란드 국가경찰 — 첨단기술범죄수사팀"
-aliases: ["NHTCU", "Dutch NHTCU", "Politie Cybercrime", "Dutch National Police Cyber"]
-org_type: "national-unit"
-parent_org: "[[netherlands-politie-parent]]"
-country: "[[netherlands]]"
-headquarters: "Driebergen-Rijsenburg, Netherlands"
-established: "2007"
-mandate: "Investigate complex and high-impact cybercrime cases with national and international dimensions; support international takedown operations; develop innovative investigation techniques."
-member_states: 0
-key_roles:
-  - "Complex cybercrime investigation"
-  - "International takedown infrastructure hosting"
-  - "Innovative investigation techniques (hackbevoegdheid)"
-  - "Europol operational partner (co-located in The Hague)"
-  - "INTERPOL NCB Netherlands (cyber matters)"
-  - "Digital forensics and malware analysis"
-cooperation_partners:
-  - "[[europol-ec3]]"
-  - "[[eurojust]]"
-  - "[[fbi-cyber-division]]"
-  - "[[germany-bka]]"
-  - "[[uk-nca]]"
-frameworks_administered: []
-mechanisms_operated: []
-operations_participated:
-  - "[[operation-endgame-phase1]]"
-  - "[[operation-endgame-phase2]]"
-  - "[[operation-cronos-phase1]]"
-  - "[[operation-cronos-phase3]]"
-  - "[[phobos-8base-crackdown]]"
-  - "[[hive-ransomware-takedown]]"
-  - "[[operation-avalanche]]"
-  - "[[operation-talent]]"
-  - "[[operation-nova]]"
-notable_cases: []
+aliases:
+- NHTCU
+- Dutch NHTCU
+- Politie Cybercrime
+- Dutch National Police Cyber
 contact_point_for:
-  - network: "[[24-7-network]]"
-    role: "Budapest Convention Art. 35 contact point (Netherlands)"
-  - network: "[[europol-siena]]"
-    role: "National Unit (co-located proximity)"
+- network: '[[24-7-network]]'
+  role: Budapest Convention Art. 35 contact point (Netherlands)
+- network: '[[europol-siena]]'
+  role: National Unit (co-located proximity)
+cooperation_partners:
+- '[[europol-ec3]]'
+- '[[eurojust]]'
+- '[[fbi-cyber-division]]'
+- '[[germany-bka]]'
+- '[[uk-nca]]'
+country: '[[netherlands]]'
+created: 2026-04-08
+established: '2007'
+frameworks_administered: []
+headquarters: Driebergen-Rijsenburg, Netherlands
+key_roles:
+- Complex cybercrime investigation
+- International takedown infrastructure hosting
+- Innovative investigation techniques (hackbevoegdheid)
+- Europol operational partner (co-located in The Hague)
+- INTERPOL NCB Netherlands (cyber matters)
+- Digital forensics and malware analysis
+mandate: Investigate complex and high-impact cybercrime cases with national and international
+  dimensions; support international takedown operations; develop innovative investigation
+  techniques.
+mechanisms_operated: []
+member_states: 0
+notable_cases: []
+official_name: Politie — Dienst Landelijke Recherche — Team High Tech Crime
+official_name_ko: 네덜란드 국가경찰 — 첨단기술범죄수사팀
+operations_participated:
+- '[[cryptex-pm2btc-sanctions]]'
+- '[[doublevpn-takedown]]'
+- '[[hive-ransomware-takedown]]'
+- '[[operation-avalanche]]'
+- '[[operation-bakovia]]'
+- '[[operation-cronos-phase1]]'
+- '[[operation-cronos-phase3]]'
+- '[[operation-endgame-phase1]]'
+- '[[operation-endgame-phase2]]'
+- '[[operation-nova]]'
+- '[[operation-talent]]'
+- '[[phobos-8base-crackdown]]'
+org_type: national-unit
+parent_org: '[[netherlands-politie-parent]]'
 source_count: 0
 sources: []
-created: 2026-04-08
-updated: 2026-04-08
+title: Dutch National Police — National High Tech Crime Unit (NHTCU)
+type: organization
+updated: '2026-04-09'
 ---
 
 ## Summary

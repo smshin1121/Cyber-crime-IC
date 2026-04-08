@@ -1,86 +1,92 @@
 ---
-type: operation
-title: "Operation HAECHI-II"
-title_ko: "Operation HAECHI-II (사이버 금융범죄 국제 단속)"
-aliases: ["HAECHI-II", "HAECHI 2"]
-case_id: "CYB-2021-002"
-period: 2
-operation_type: "arrest-sweep"
-status: "completed"
-enforcement_type: ["arrest", "asset_freeze"]
-outcome: "success"
-timeframe:
-  announced: "2021-11"
-  start: "2021-06"
-  end: "2021-09"
-  ongoing: false
-crime_type: "[[online-fraud-ic]]"
-target_entity: "Online fraud and financial crime networks"
-lead_agency: "[[interpol]]"
-coordinating_body: "[[interpol]]"
-participating_countries:
-  - "[[angola]]"
-  - "[[brunei]]"
-  - "[[cambodia]]"
-  - "[[colombia]]"
-  - "[[china]]"
-  - "[[india]]"
-  - "[[indonesia]]"
-  - "[[ireland]]"
-  - "[[japan]]"
-  - "[[south-korea]]"
-  - "[[laos]]"
-  - "[[malaysia]]"
-  - "[[maldives]]"
-  - "[[philippines]]"
-  - "[[romania]]"
-  - "[[singapore]]"
-  - "[[slovenia]]"
-  - "[[spain]]"
-  - "[[thailand]]"
-  - "[[vietnam]]"
-participating_agencies:
-  - "[[interpol]]"
-legal_basis: []
-mechanisms_used: []
-results:
-  arrests: 1003
-  indictments: 0
-  servers_seized: 0
-  domains_seized: 0
-  cryptocurrency_seized: ""
-  decryption_keys_recovered: 0
-  victims_notified: 0
-  other:
-    - "$27 million+ intercepted"
-    - "2,350 bank accounts linked to illicit funds frozen"
-    - "Online romance scam, investment fraud, and illegal online gambling targeted"
-edges:
-  - source_actor: "INTERPOL"
-    target_actor: "South Korea"
-    cooperation_type: "joint_investigation"
-    legal_basis: "unknown"
-    direction: "undirected"
-  - source_actor: "INTERPOL"
-    target_actor: "20+ countries"
-    cooperation_type: "joint_investigation"
-    legal_basis: "unknown"
-    direction: "undirected"
+aliases:
+- HAECHI-II
+- HAECHI 2
+case_id: CYB-2021-002
+challenges_encountered: []
+coordinating_body: '[[interpol]]'
+created: 2026-04-08
 credibility_index: 2.95
-source_tier: 2
-missing_fields: ["legal_basis", "mechanisms_used"]
+crime_type: '[[online-fraud-ic]]'
+edges:
+- cooperation_type: joint_investigation
+  direction: undirected
+  legal_basis: unknown
+  source_actor: INTERPOL
+  target_actor: South Korea
+- cooperation_type: joint_investigation
+  direction: undirected
+  legal_basis: unknown
+  source_actor: INTERPOL
+  target_actor: 20+ countries
+enforcement_type:
+- arrest
+- asset_freeze
+lead_agency: '[[interpol]]'
+legal_basis: []
+lessons_learned: []
+mechanisms_used: []
+missing_fields:
+- legal_basis
+- mechanisms_used
+operation_type: arrest-sweep
+outcome: success
+participating_agencies:
+- '[[interpol]]'
+participating_countries:
+- '[[angola]]'
+- '[[brunei]]'
+- '[[cambodia]]'
+- '[[colombia]]'
+- '[[china]]'
+- '[[india]]'
+- '[[indonesia]]'
+- '[[ireland]]'
+- '[[japan]]'
+- '[[south-korea]]'
+- '[[laos]]'
+- '[[malaysia]]'
+- '[[maldives]]'
+- '[[philippines]]'
+- '[[romania]]'
+- '[[singapore]]'
+- '[[slovenia]]'
+- '[[spain]]'
+- '[[thailand]]'
+- '[[vietnam]]'
+period: 2
 related_cases: []
 related_operations:
-  - "[[operation-haechi-iv]]"
-  - "[[operation-haechi-v]]"
-  - "[[operation-haechi-vi]]"
-challenges_encountered: []
-lessons_learned: []
-source_count: 1
+- '[[operation-haechi-iv]]'
+- '[[operation-haechi-v]]'
+- '[[operation-haechi-vi]]'
+results:
+  arrests: 1003
+  cryptocurrency_seized: ''
+  decryption_keys_recovered: 0
+  domains_seized: 0
+  indictments: 0
+  other:
+  - $27 million+ intercepted
+  - 2,350 bank accounts linked to illicit funds frozen
+  - Online romance scam, investment fraud, and illegal online gambling targeted
+  servers_seized: 0
+  victims_notified: 0
+source_count: 2
+source_tier: 2
 sources:
-  - "[1] INTERPOL News (2021-11)"
-created: 2026-04-08
-updated: 2026-04-08
+- '[1] INTERPOL News (2021-11)'
+status: completed
+target_entity: Online fraud and financial crime networks
+timeframe:
+  announced: 2021-11
+  end: 2021-09
+  ongoing: false
+  start: 2021-06
+title: Operation HAECHI-II
+title_ko: Operation HAECHI-II (사이버 금융범죄 국제 단속)
+type: operation
+updated: '2026-04-09'
 ---
 
 ## Summary
@@ -110,5 +116,5 @@ South Korea (한국) was a key participant in Operation HAECHI-II, consistent wi
 
 | # | Title | Publisher | Date | URL |
 |---|-------|----------|------|-----|
-| [1] | Source 1 | thehackernews.com | - | [원본](https://thehackernews.com/2022/11/interpol-seized-130-million-from.html) |
-| [2] | Source 2 | interpol.int | - | [원본](https://www.interpol.int/News-and-Events/News/2021/More-than-1-000-arrests-and-USD-27-million-intercepted-in-massive-financial-crime-crackdown) |
+| [1] | Interpol Seized 130 Million From | The Hacker News | 2022-11 | [원본](https://thehackernews.com/2022/11/interpol-seized-130-million-from.html) |
+| [2] | More Than 1 000 Arrests And Usd 27 Million Intercepted In Massive Financial C... | INTERPOL | 2021-11 | [원본](https://www.interpol.int/News-and-Events/News/2021/More-than-1-000-arrests-and-USD-27-million-intercepted-in-massive-financial-crime-crackdown) |

@@ -121,12 +121,12 @@ The operation targeted the production, distribution, and possession of CSAM thro
 
 | Country/Region | Agency | Arrests |
 |---------------|--------|---------|
-| [[south-korea]] | [[knpa-cyber-bureau\|National Investigation HQ]] | 435 (374 by NI HQ) |
-| [[japan]] | [[japan-npa\|Japan NPA]] | 111 |
-| [[singapore]] | [[singapore-police\|Singapore Police Force]] | 21 |
-| [[malaysia]] | [[malaysia-police\|Royal Malaysia Police]] | 4 |
-| [[thailand]] | [[thailand-police\|Royal Thai Police]] | pending |
-| [[hong-kong]] | [[hong-kong-police\|Hong Kong Police Force]] | pending |
+| [[south-korea]] | [[knpa-cyber-bureau|National Investigation HQ]] | 435 (374 by NI HQ) |
+| [[japan]] | [[japan-npa|Japan NPA]] | 111 |
+| [[singapore]] | [[singapore-police|Singapore Police Force]] | 21 |
+| [[malaysia]] | [[malaysia-police|Royal Malaysia Police]] | 4 |
+| [[thailand]] | [[thailand-police|Royal Thai Police]] | pending |
+| [[hong-kong]] | [[hong-kong-police|Hong Kong Police Force]] | pending |
 
 ## Operational Timeline
 

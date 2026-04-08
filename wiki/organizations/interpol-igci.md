@@ -1,54 +1,63 @@
 ---
-type: organization
-title: "INTERPOL Global Complex for Innovation (IGCI)"
-official_name: "INTERPOL Global Complex for Innovation"
-official_name_ko: "인터폴 글로벌혁신단지"
-aliases: ["IGCI", "INTERPOL Singapore"]
-org_type: "international-org"
-parent_org: "[[interpol]]"
-country: ""
-headquarters: "Singapore"
-established: "2015"
-mandate: "INTERPOL's innovation and cyber hub, providing cutting-edge research, digital forensics support, and operational coordination for cybercrime investigations across 196 member countries."
-member_states: 196
-key_roles:
-  - "Cybercrime investigations coordination"
-  - "Digital forensics laboratory"
-  - "INTERPOL Cyber Fusion Centre"
-  - "I-24/7 secure communications network"
-  - "Capacity building for member countries"
-  - "Innovation and emerging threat research"
-cooperation_partners: ["[[europol-ec3]]", "[[afripol]]"]
-frameworks_administered: []
-mechanisms_operated: ["[[interpol-i247]]"]
-operations_participated:
-  - "[[operation-haechi-v]]"
-  - "[[operation-synergia-ii]]"
-  - "[[operation-serengeti]]"
-  - "[[operation-jackal]]"
-  - "[[operation-jackal-iii]]"
-  - "[[operation-first-light-2024]]"
-  - "[[operation-haechi-iv]]"
-  - "[[operation-haechi-vi]]"
-  - "[[operation-sentinel-africa]]"
-  - "[[operation-orion-international]]"
-notable_cases: []
+aliases:
+- IGCI
+- INTERPOL Singapore
 contact_point_for: []
+cooperation_partners:
+- '[[europol-ec3]]'
+- '[[afripol]]'
+country: ''
+created: 2026-04-08
+established: '2015'
+frameworks_administered: []
+headquarters: Singapore
+key_roles:
+- Cybercrime investigations coordination
+- Digital forensics laboratory
+- INTERPOL Cyber Fusion Centre
+- I-24/7 secure communications network
+- Capacity building for member countries
+- Innovation and emerging threat research
+mandate: INTERPOL's innovation and cyber hub, providing cutting-edge research, digital
+  forensics support, and operational coordination for cybercrime investigations across
+  196 member countries.
+mechanisms_operated:
+- '[[interpol-i247]]'
+member_states: 196
+notable_cases: []
+official_name: INTERPOL Global Complex for Innovation
+official_name_ko: 인터폴 글로벌혁신단지
+operations_participated:
+- '[[operation-contender-2]]'
+- '[[operation-first-light-2024]]'
+- '[[operation-haechi-iv]]'
+- '[[operation-haechi-v]]'
+- '[[operation-haechi-vi]]'
+- '[[operation-jackal]]'
+- '[[operation-jackal-iii]]'
+- '[[operation-orion-international]]'
+- '[[operation-red-card]]'
+- '[[operation-secure-interpol]]'
+- '[[operation-sentinel-africa]]'
+- '[[operation-serengeti]]'
+- '[[operation-synergia-ii]]'
+org_type: international-org
+parent_org: '[[interpol]]'
 source_count: 9
 sources:
-  - "[[2024-12-02-interpol-operation-haechi-v]]"
-  - "[[2024-11-06-interpol-operation-synergia-ii]]"
-  - "[[2024-11-26-interpol-operation-serengeti]]"
-  - "[[2023-06-06-interpol-operation-jackal]]"
-  - "[[2024-08-28-interpol-operation-jackal-iii]]"
-  - "[[2024-06-18-interpol-operation-first-light-2024]]"
-  - "[[2023-12-19-interpol-operation-haechi-iv]]"
-  - "[[2025-09-25-interpol-operation-haechi-vi]]"
-  - "[[2025-12-22-interpol-operation-sentinel-africa]]"
-  - "[[2024-10-15-interpol-operation-orion-international]]"
-source_count: 10
-created: 2026-04-08
-updated: 2026-04-08
+- '[[2024-12-02-interpol-operation-haechi-v]]'
+- '[[2024-11-06-interpol-operation-synergia-ii]]'
+- '[[2024-11-26-interpol-operation-serengeti]]'
+- '[[2023-06-06-interpol-operation-jackal]]'
+- '[[2024-08-28-interpol-operation-jackal-iii]]'
+- '[[2024-06-18-interpol-operation-first-light-2024]]'
+- '[[2023-12-19-interpol-operation-haechi-iv]]'
+- '[[2025-09-25-interpol-operation-haechi-vi]]'
+- '[[2025-12-22-interpol-operation-sentinel-africa]]'
+- '[[2024-10-15-interpol-operation-orion-international]]'
+title: INTERPOL Global Complex for Innovation (IGCI)
+type: organization
+updated: '2026-04-09'
 ---
 
 > [!info] Updated 2026-04-08
@@ -75,11 +84,11 @@ The HAECHI series, led by [[south-korea|Korea]], is INTERPOL's flagship financia
 | Operation | Year | Countries | Arrests | Seized |
 |-----------|------|-----------|---------|--------|
 | HAECHI III | 2022 | 30 | 975 | ~$130M | [^haechi3]
-| [[operation-haechi-iv\|HAECHI IV]] | 2023 | 34 | 3,500 | $300M |
+| [[operation-haechi-iv|HAECHI IV]] | 2023 | 34 | 3,500 | $300M |
 
 [^haechi3]: > [!warning] Source needed — HAECHI III statistics (975 arrests, ~$130M) are not from a collected source. The HAECHI IV press release references a "260% arrest increase over HAECHI III" but does not provide explicit HAECHI III totals. These figures require verification from an INTERPOL press release for HAECHI III.
-| **[[operation-haechi-v\|HAECHI V]]** | **2024** | **40** | **5,500+** | **$400M+** |
-| [[operation-haechi-vi\|HAECHI VI]] | 2025 | 40 | - | $439M |
+| **[[operation-haechi-v|HAECHI V]]** | **2024** | **40** | **5,500+** | **$400M+** |
+| [[operation-haechi-vi|HAECHI VI]] | 2025 | 40 | - | $439M |
 
 **[[operation-haechi-v|Operation HAECHI V]]** (Jul-Nov 2024): The largest HAECHI operation to date. 40 countries, **5,500+ arrests**, **USD 400M+ seized**. Korean-Chinese joint sub-operation dismantled a voice phishing syndicate responsible for USD 1.1 billion in losses affecting 1,900+ victims. Targeted voice phishing, romance scams, online sextortion, investment fraud, illegal online gambling, BEC, and e-commerce fraud.
 
@@ -99,8 +108,8 @@ The Jackal series specifically targets **Black Axe** and similar West African or
 | Jackal I | 2022 | - | 75 | - | [^jackal1]
 
 [^jackal1]: > [!warning] Source needed — Jackal I (2022) statistics are not from a collected source. Only Operation Jackal (2023) and Jackal III (2024) have collected sources.
-| [[operation-jackal\|Jackal]] | 2023 | 21 | 103 | EUR 2.15M |
-| [[operation-jackal-iii\|Jackal III]] | 2024 | 21 | ~300 | USD 3M |
+| [[operation-jackal|Jackal]] | 2023 | 21 | 103 | EUR 2.15M |
+| [[operation-jackal-iii|Jackal III]] | 2024 | 21 | ~300 | USD 3M |
 
 ### First Light Series (Online Scams)
 

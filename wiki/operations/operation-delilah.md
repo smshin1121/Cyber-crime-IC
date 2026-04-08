@@ -1,63 +1,66 @@
 ---
-type: operation
-title: "Operation Delilah (SilverTerrier BEC)"
-title_ko: "들릴라 작전 (SilverTerrier BEC)"
-aliases: ["Operation Delilah", "SilverTerrier arrest", "INTERPOL Nigeria BEC leader arrest"]
-case_id: "CYB-2022-050"
-period: 2
-operation_type: "arrest-sweep"
-status: "completed"
-enforcement_type:
-  - "arrest"
-outcome: "success"
-timeframe:
-  announced: "2022-01-01"
-  start: "2022-01-01"
-  end: "2022-12-31"
-  ongoing: false
-crime_type: "[[bec-ic]]"
-target_entity: "SilverTerrier BEC group leader"
-lead_agency: "[[interpol]]"
-coordinating_body: "[[interpol]]"
-participating_countries:
-  - "[[nigeria]]"
-participating_agencies:
-  - "[[interpol]]"
-legal_basis: []
-mechanisms_used: []
-results:
-  arrests: 1
-  indictments: 0
-  servers_seized: 0
-  domains_seized: 0
-  cryptocurrency_seized: ""
-  decryption_keys_recovered: 0
-  victims_notified: 0
-  other:
-    - "SilverTerrier BEC group leader arrested in Nigeria"
-edges:
-  - source_actor: "INTERPOL"
-    target_actor: "Nigeria EFCC"
-    cooperation_type: "joint_investigation"
-    legal_basis: "unknown"
-    direction: "undirected"
+aliases:
+- Operation Delilah
+- SilverTerrier arrest
+- INTERPOL Nigeria BEC leader arrest
+case_id: CYB-2022-050
+challenges_encountered: []
+coordinating_body: '[[interpol]]'
+created: 2026-04-08
 credibility_index: 2.25
-source_tier: 3
+crime_type: '[[bec-ic]]'
+edges:
+- cooperation_type: joint_investigation
+  direction: undirected
+  legal_basis: unknown
+  source_actor: INTERPOL
+  target_actor: Nigeria EFCC
+enforcement_type:
+- arrest
+lead_agency: '[[interpol]]'
+legal_basis: []
+lessons_learned:
+- Targeting BEC group leaders can disrupt entire criminal networks
+mechanisms_used: []
 missing_fields:
-  - "legal_basis"
-  - "mechanisms_used"
-  - "exact_timeframe"
-  - "financial_losses"
-  - "url"
+- legal_basis
+- mechanisms_used
+- exact_timeframe
+- financial_losses
+- url
+operation_type: arrest-sweep
+outcome: success
+participating_agencies:
+- '[[interpol]]'
+participating_countries:
+- '[[nigeria]]'
+period: 2
 related_cases: []
 related_operations: []
-challenges_encountered: []
-lessons_learned:
-  - "Targeting BEC group leaders can disrupt entire criminal networks"
-source_count: 1
+results:
+  arrests: 1
+  cryptocurrency_seized: ''
+  decryption_keys_recovered: 0
+  domains_seized: 0
+  indictments: 0
+  other:
+  - SilverTerrier BEC group leader arrested in Nigeria
+  servers_seized: 0
+  victims_notified: 0
+source_count: 2
+source_tier: 3
 sources: []
-created: 2026-04-08
-updated: 2026-04-08
+status: completed
+target_entity: SilverTerrier BEC group leader
+timeframe:
+  announced: '2022-01-01'
+  end: '2022-12-31'
+  ongoing: false
+  start: '2022-01-01'
+title: Operation Delilah (SilverTerrier BEC)
+title_ko: 들릴라 작전 (SilverTerrier BEC)
+type: operation
+updated: '2026-04-09'
 ---
 
 > [!note] This operation is documented from a Tier 3 (cybersecurity media) source. Additional verification from official sources (Tier 1-2) would strengthen data reliability.
@@ -115,5 +118,5 @@ No Korean involvement identified. SilverTerrier has primarily targeted Western c
 
 | # | Title | Publisher | Date | URL |
 |---|-------|----------|------|-----|
-| [1] | Source 1 | cyberscoop.com | - | [원본](https://cyberscoop.com/silverterrier-interpol-nigeria-bec/) |
-| [2] | Source 2 | group-ib.com | - | [원본](https://www.group-ib.com/media-center/press-releases/interpol-gib-delilah/) |
+| [1] | Silverterrier Interpol Nigeria Bec | CyberScoop | 2022-01-01 | [원본](https://cyberscoop.com/silverterrier-interpol-nigeria-bec/) |
+| [2] | Interpol Gib Delilah | Group-IB | 2022-01-01 | [원본](https://www.group-ib.com/media-center/press-releases/interpol-gib-delilah/) |

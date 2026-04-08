@@ -96,10 +96,10 @@ The HAECHI series, led by [[south-korea|South Korea]], continues targeting seven
 | Operation | Year | Countries | Arrests | Recovered |
 |-----------|------|-----------|---------|-----------|
 | HAECHI III | 2022 | 30 | 975 | ~$130M | [^haechi3]
-| [[operation-haechi-iv\|HAECHI IV]] | 2023 | 34 | 3,500 | $300M |
+| [[operation-haechi-iv|HAECHI IV]] | 2023 | 34 | 3,500 | $300M |
 
 [^haechi3]: > [!warning] Source needed — HAECHI III statistics (975 arrests, ~$130M) are not from a collected source. The HAECHI IV press release references a "260% arrest increase over HAECHI III" but does not provide explicit HAECHI III totals.
-| [[operation-haechi-v\|HAECHI V]] | 2024 | 40 | 5,500+ | $400M+ |
+| [[operation-haechi-v|HAECHI V]] | 2024 | 40 | 5,500+ | $400M+ |
 | **HAECHI VI** | **2025** | **40** | **-** | **$439M** |
 
 ## Participating Parties

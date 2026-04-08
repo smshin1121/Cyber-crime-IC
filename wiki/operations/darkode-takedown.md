@@ -1,69 +1,71 @@
 ---
-type: operation
-title: "Darkode Forum Takedown"
-title_ko: "Darkode 포럼 소탕"
-aliases: ["Darkode takedown", "Darkode cybercrime forum bust"]
-case_id: "CYB-2015-051"
-period: 1
-operation_type: "takedown"
-status: "completed"
-enforcement_type:
-  - "arrest"
-  - "takedown"
-  - "indictment"
-outcome: "success"
-timeframe:
-  announced: "2015-07-15"
-  start: "2015-07-15"
-  end: "2015-07-15"
-  ongoing: false
-crime_type: "[[cybercrime-forum-ic]]"
-target_entity: "Darkode cybercrime forum"
-lead_agency: "[[fbi-cyber-division]]"
-coordinating_body: "[[europol-ec3]]"
-participating_countries:
-  - "[[united-states]]"
-  - "[[united-kingdom]]"
-  - "[[australia]]"
-  - "[[brazil]]"
-  - "[[israel]]"
-  - "[[nigeria]]"
-participating_agencies:
-  - "[[fbi-cyber-division]]"
-  - "[[europol-ec3]]"
-legal_basis: []
-mechanisms_used: []
-results:
-  arrests: 28
-  indictments: 12
-  servers_seized: 0
-  domains_seized: 1
-  cryptocurrency_seized: ""
-  decryption_keys_recovered: 0
-  victims_notified: 0
-  other:
-    - "Darkode forum seized and shut down"
-    - "Members from 20 countries identified"
-edges:
-  - source_actor: "FBI"
-    target_actor: "Europol"
-    cooperation_type: "joint_investigation"
-    legal_basis: "unknown"
-    direction: "undirected"
+aliases:
+- Darkode takedown
+- Darkode cybercrime forum bust
+case_id: CYB-2015-051
+challenges_encountered: []
+coordinating_body: '[[europol-ec3]]'
+created: 2026-04-08
 credibility_index: 2.18
-source_tier: 3
+crime_type: '[[cybercrime-forum-ic]]'
+edges:
+- cooperation_type: joint_investigation
+  direction: undirected
+  legal_basis: unknown
+  source_actor: FBI
+  target_actor: Europol
+enforcement_type:
+- arrest
+- takedown
+- indictment
+lead_agency: '[[fbi-cyber-division]]'
+legal_basis: []
+lessons_learned: []
+mechanisms_used: []
 missing_fields:
-  - "legal_basis"
-  - "mechanisms_used"
-  - "complete_participating_countries"
+- legal_basis
+- mechanisms_used
+- complete_participating_countries
+operation_type: takedown
+outcome: success
+participating_agencies:
+- '[[fbi-cyber-division]]'
+- '[[europol-ec3]]'
+participating_countries:
+- '[[united-states]]'
+- '[[united-kingdom]]'
+- '[[australia]]'
+- '[[brazil]]'
+- '[[israel]]'
+- '[[nigeria]]'
+period: 1
 related_cases: []
 related_operations: []
-challenges_encountered: []
-lessons_learned: []
+results:
+  arrests: 28
+  cryptocurrency_seized: ''
+  decryption_keys_recovered: 0
+  domains_seized: 1
+  indictments: 12
+  other:
+  - Darkode forum seized and shut down
+  - Members from 20 countries identified
+  servers_seized: 0
+  victims_notified: 0
 source_count: 1
+source_tier: 3
 sources:
-  - "tier3-krebsonsecurity-darkode-2015"
-created: 2026-04-08
+- tier3-krebsonsecurity-darkode-2015
+status: completed
+target_entity: Darkode cybercrime forum
+timeframe:
+  announced: '2015-07-15'
+  end: '2015-07-15'
+  ongoing: false
+  start: '2015-07-15'
+title: Darkode Forum Takedown
+title_ko: Darkode 포럼 소탕
+type: operation
 updated: 2026-04-08
 ---
 
@@ -135,4 +137,3 @@ No Korean involvement was identified in the Darkode takedown.
 | # | Title | Publisher | Date | URL |
 |---|-------|----------|------|-----|
 | [1] | The Darkode Cybercrime Forum, Up Close | Krebs on Security | 2015-07-15 | [link](https://krebsonsecurity.com/2015/07/the-darkode-cybercrime-forum-up-close/) |
-| [1] | Supplementary source | nationalcrimeagency.gov.uk | - | [원본](https://www.nationalcrimeagency.gov.uk/news/international-operation-targets-dark-web-drugs-marketplace) |

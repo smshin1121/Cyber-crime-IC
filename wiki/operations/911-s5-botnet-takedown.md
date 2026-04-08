@@ -1,81 +1,87 @@
 ---
-type: operation
-title: "911 S5 Botnet Dismantling"
-title_ko: "공식 작전명 없음 (911 S5 봇넷 해체)"
-aliases: ["911 S5 Botnet Takedown"]
-case_id: "CYB-2024-014"
-period: 3
-operation_type: "takedown"
-status: "completed"
-enforcement_type: ["arrest", "seizure", "takedown"]
-outcome: "success"
-timeframe:
-  announced: "2024-05"
-  start: "2024-05"
-  end: "2024-05"
-  ongoing: false
-crime_type: "[[malware-ic]]"
-target_entity: "911 S5 Botnet"
-lead_agency: "[[usdoj]]"
-coordinating_body: "[[fbi]]"
-participating_countries:
-  - "[[united-states]]"
-  - "[[germany]]"
-  - "[[singapore]]"
-  - "[[thailand]]"
-participating_agencies:
-  - "[[usdoj]]"
-  - "[[fbi]]"
-  - "[[us-dhs]]"
-  - "[[us-treasury]]"
-legal_basis: []
-mechanisms_used: []
-results:
-  arrests: 1
-  indictments: 1
-  servers_seized: 0
-  domains_seized: 0
-  cryptocurrency_seized: ""
-  decryption_keys_recovered: 0
-  victims_notified: 0
-  other:
-    - "19 million+ IP addresses infected worldwide"
-    - "World's largest botnet dismantled"
-    - "Administrator YunHe Wang arrested"
-    - "Used for large-scale fraud, identity theft, child exploitation, bomb threats"
-edges:
-  - source_actor: "US DOJ"
-    target_actor: "FBI"
-    cooperation_type: "joint_investigation"
-    legal_basis: "unknown"
-    direction: "undirected"
-  - source_actor: "US DOJ"
-    target_actor: "Germany"
-    cooperation_type: "joint_investigation"
-    legal_basis: "unknown"
-    direction: "undirected"
-  - source_actor: "US DOJ"
-    target_actor: "Singapore"
-    cooperation_type: "joint_investigation"
-    legal_basis: "unknown"
-    direction: "undirected"
-  - source_actor: "US DOJ"
-    target_actor: "Thailand"
-    cooperation_type: "joint_investigation"
-    legal_basis: "unknown"
-    direction: "undirected"
+aliases:
+- 911 S5 Botnet Takedown
+case_id: CYB-2024-014
+challenges_encountered: []
+coordinating_body: '[[fbi]]'
+created: 2026-04-08
 credibility_index: 4.0
-source_tier: 2
-missing_fields: ["legal_basis", "mechanisms_used"]
+crime_type: '[[malware-ic]]'
+edges:
+- cooperation_type: joint_investigation
+  direction: undirected
+  legal_basis: unknown
+  source_actor: US DOJ
+  target_actor: FBI
+- cooperation_type: joint_investigation
+  direction: undirected
+  legal_basis: unknown
+  source_actor: US DOJ
+  target_actor: Germany
+- cooperation_type: joint_investigation
+  direction: undirected
+  legal_basis: unknown
+  source_actor: US DOJ
+  target_actor: Singapore
+- cooperation_type: joint_investigation
+  direction: undirected
+  legal_basis: unknown
+  source_actor: US DOJ
+  target_actor: Thailand
+enforcement_type:
+- arrest
+- seizure
+- takedown
+lead_agency: '[[usdoj]]'
+legal_basis: []
+lessons_learned: []
+mechanisms_used: []
+missing_fields:
+- legal_basis
+- mechanisms_used
+operation_type: takedown
+outcome: success
+participating_agencies:
+- '[[usdoj]]'
+- '[[fbi]]'
+- '[[us-dhs]]'
+- '[[us-treasury]]'
+participating_countries:
+- '[[united-states]]'
+- '[[germany]]'
+- '[[singapore]]'
+- '[[thailand]]'
+period: 3
 related_cases: []
 related_operations: []
-challenges_encountered: []
-lessons_learned: []
+results:
+  arrests: 1
+  cryptocurrency_seized: ''
+  decryption_keys_recovered: 0
+  domains_seized: 0
+  indictments: 1
+  other:
+  - 19 million+ IP addresses infected worldwide
+  - World's largest botnet dismantled
+  - Administrator YunHe Wang arrested
+  - Used for large-scale fraud, identity theft, child exploitation, bomb threats
+  servers_seized: 0
+  victims_notified: 0
 source_count: 1
+source_tier: 2
 sources:
-  - "[1] US DOJ Press Release (2024-05)"
-created: 2026-04-08
-updated: 2026-04-08
+- '[1] US DOJ Press Release (2024-05)'
+status: completed
+target_entity: 911 S5 Botnet
+timeframe:
+  announced: 2024-05
+  end: 2024-05
+  ongoing: false
+  start: 2024-05
+title: 911 S5 Botnet Dismantling
+title_ko: 공식 작전명 없음 (911 S5 봇넷 해체)
+type: operation
+updated: '2026-04-09'
 ---
 
 ## Summary
@@ -104,14 +110,4 @@ United States, Germany, Singapore, Thailand
 
 | # | Title | Publisher | Date | URL |
 |---|-------|----------|------|-----|
-| [1] | Source 1 | bbc.com | - | [원본](https://www.bbc.com/news/technology-32218381) |
-| [2] | Source 2 | interpol.int | - | [원본](https://www.interpol.int/News-and-Events/News/2015/INTERPOL-coordinates-global-operation-to-take-down-Simda-botnet) |
-| [3] | Supplementary source | techxplore.com | - | [원본](https://techxplore.com/news/2025-05-global-malware-federal-court-georgia.html) |
-| [4] | Supplementary source | mothership.sg | - | [원본](https://mothership.sg/2024/06/department-justice-thanks-singapore-authorities-cybercrime/) |
-| [5] | Supplementary source | polskieradio.pl | - | [원본](https://www.polskieradio.pl/395/7789/artykul/3508265,poland-plays-key-role-in-european-operation-against-child-exploitation-network) |
-| [6] | Supplementary source | the420.in | - | [원본](https://the420.in/labhost-worlds-largest-cybercrime-platform-dismantled-in-major-international-operation/) |
-| [7] | Supplementary source | portswigger.net | - | [원본](https://portswigger.net/daily-swig/andromeda-botnet-dismantled-by-international-taskforce) |
-| [8] | Supplementary source | the420.in | - | [원본](https://the420.in/fbi-global-crackdown-crypting-crew-malware-obfuscation/) |
-| [9] | Supplementary source | bbc.com | - | [원본](https://www.bbc.com/news/technology-35028690) |
-| [10] | Supplementary source | wired.com | - | [원본](https://www.wired.com/2016/12/took-4-years-take-avalanche-huge-online-crime-ring/) |
-| [11] | Supplementary source | therecord.media | - | [원본](https://therecord.media/nemesis-cybercrime-market-takedown-germany) |
+| [1] | Justice Department Leads Effort to Dismantle 911 S5 Botnet | US DOJ | 2024-05-29 | [원본](https://www.justice.gov/opa/pr/justice-department-leads-effort-among-multinational-partners-dismantle-worlds-largest-botnet) |

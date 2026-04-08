@@ -354,6 +354,44 @@ body {
   margin-top: 40px;
 }
 
+/* --- Language Toggle --- */
+.lang-toggle {
+  margin-left: 12px;
+  background: rgba(255,255,255,0.15);
+  border: 1px solid rgba(255,255,255,0.3);
+  color: white;
+  padding: 4px 10px;
+  border-radius: 4px;
+  cursor: pointer;
+  font-size: 13px;
+  white-space: nowrap;
+  transition: background 0.15s;
+}
+.lang-toggle:hover { background: rgba(255,255,255,0.25); }
+
+/* Show/hide flag based on current lang (show the OTHER language as option) */
+.lang-ko .lang-flag-ko { display: none; }
+.lang-ko .lang-flag-en { display: inline; }
+.lang-en .lang-flag-en { display: none; }
+.lang-en .lang-flag-ko { display: inline; }
+
+/* Bilingual content blocks */
+.lang-ko .ko-text { display: inline; }
+.lang-ko .en-text { display: none; }
+.lang-en .ko-text { display: none; }
+.lang-en .en-text { display: inline; }
+
+/* Bilingual block-level elements */
+.lang-ko .ko-block { display: block; }
+.lang-ko .en-block { display: none; }
+.lang-en .ko-block { display: none; }
+.lang-en .en-block { display: block; }
+
+/* Section headings: bilingual spans */
+.heading-ko, .heading-en { transition: opacity 0.15s; }
+.lang-ko .heading-en { display: none; }
+.lang-en .heading-ko { display: none; }
+
 /* --- Responsive --- */
 @media (max-width: 768px) {
   .page-wrapper { grid-template-columns: 1fr; padding: 10px; }
@@ -361,4 +399,5 @@ body {
   .nav-links { display: none; }
   .nav-search input { width: 140px; }
   .article { padding: 16px; }
+  .lang-toggle { margin-left: 8px; padding: 4px 8px; font-size: 12px; }
 }

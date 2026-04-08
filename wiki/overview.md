@@ -1,8 +1,8 @@
 ---
-type: overview
-title: "International Cooperation on Cyber Crime - Overview"
 created: 2026-04-08
-updated: 2026-04-08
+title: International Cooperation on Cyber Crime - Overview
+type: overview
+updated: '2026-04-09'
 ---
 
 # State of International Cooperation on Cyber Crime
@@ -63,15 +63,13 @@ The **DOJ-led model** leverages US multi-agency coordination (FBI, HSI, USSS, IR
 | Period 3 operations | 43 | 2023-2025 |
 | Europol-coordinated | 36 | All periods |
 | INTERPOL-coordinated | 22 | All periods |
-| DOJ/US-led | 12 | All periods |
-| Total arrests (sourced operations) | 19,500+ | Across 20 most-sourced operations |
-| Total servers seized | 533+ | Primarily Europol operations |
-| Total domains seized | 142,748+ | Includes 134,089 from Serengeti |
-| IPs taken down | 22,800 | Synergia II alone |
-| Assets seized/recovered | $2B+ cumulative | HAECHI IV/V/VI + First Light + Endgame + DOJ + Jackal + Sentinel |
-| Unique participating countries | 95+ | Synergia II participation; 61 in First Light |
-| Sources with dedicated pages | 23 | Europol 6, INTERPOL 10, DOJ 3, Korea NPA 1, News 3 |
-| Crime types documented | 6 | Ransomware, BEC, voice phishing, online fraud, hacking, CSAM |
+| DOJ/US-led | 3 | All periods |
+| Total arrests (sourced operations) | 18,029+ | Across all operations |
+| Total servers seized | 1,455+ | Primarily Europol operations |
+| Total domains seized | 802,767+ | All operations |
+| Unique participating countries | 150+ | All operations |
+| Sources with dedicated pages | 149 | Unknown 59, Europol 21, INTERPOL 15, BBC 6, CyberScoop 5 |
+| Crime types documented | 6 | All documented types |
 
 ## Recent Activity
 

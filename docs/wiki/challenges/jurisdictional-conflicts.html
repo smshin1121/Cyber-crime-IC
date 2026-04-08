@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html lang="ko">
+<html lang="ko" class="lang-ko">
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
@@ -11,22 +11,28 @@
 <body>
   <nav class="top-nav">
     <div class="top-nav-inner">
-      <a href="../../" class="nav-logo">🌐 사이버범죄 국제공조 위키</a>
+      <a href="../../" class="nav-logo">
+        <span class="i18n" data-ko="🌐 사이버범죄 국제공조 위키" data-en="🌐 Cybercrime IC Wiki"></span>
+      </a>
       <div class="nav-links">
-        <a href="../../category/operations.html">작전</a>
-        <a href="../../category/organizations.html">기관</a>
-        <a href="../../category/countries.html">국가</a>
-        <a href="../../category/legal-frameworks.html">법적 프레임워크</a>
-        <a href="../../category/mechanisms.html">메커니즘</a>
-        <a href="../../category/crime-types.html">범죄유형</a>
-        <a href="../../category/concepts.html">개념</a>
-        <a href="../../category/sources.html">출처</a>
-        <a href="../../stats.html">통계</a>
+        <a href="../../category/operations.html"><span class="i18n" data-ko="작전" data-en="Operations"></span></a>
+        <a href="../../category/organizations.html"><span class="i18n" data-ko="기관" data-en="Organizations"></span></a>
+        <a href="../../category/countries.html"><span class="i18n" data-ko="국가" data-en="Countries"></span></a>
+        <a href="../../category/legal-frameworks.html"><span class="i18n" data-ko="법적 프레임워크" data-en="Legal Frameworks"></span></a>
+        <a href="../../category/mechanisms.html"><span class="i18n" data-ko="메커니즘" data-en="Mechanisms"></span></a>
+        <a href="../../category/crime-types.html"><span class="i18n" data-ko="범죄유형" data-en="Crime Types"></span></a>
+        <a href="../../category/concepts.html"><span class="i18n" data-ko="개념" data-en="Concepts"></span></a>
+        <a href="../../category/sources.html"><span class="i18n" data-ko="출처" data-en="Sources"></span></a>
+        <a href="../../stats.html"><span class="i18n" data-ko="통계" data-en="Statistics"></span></a>
       </div>
       <form class="nav-search" action="../../search.html" method="get">
-        <input type="text" name="q" placeholder="위키 검색..." value="">
-        <button type="submit">검색</button>
+        <input type="text" name="q" class="i18n-placeholder" data-ko="위키 검색..." data-en="Search wiki..." value="">
+        <button type="submit"><span class="i18n" data-ko="검색" data-en="Search"></span></button>
       </form>
+      <button class="lang-toggle" id="langToggle" title="한국어/English">
+        <span class="lang-flag lang-flag-ko">🇰🇷 한</span>
+        <span class="lang-flag lang-flag-en">🇺🇸 EN</span>
+      </button>
     </div>
   </nav>
 
@@ -34,25 +40,38 @@
 <div class="page-wrapper">
   <main class="article">
     <div class="article-header">
-      <h1>Jurisdictional Conflicts in Cybercrime</h1>
+      <h1>
+        
+          <span class="heading-ko">사이버범죄 관할권 충돌</span>
+          <span class="heading-en">Jurisdictional Conflicts in Cybercrime</span>
+        
+      </h1>
       <div class="article-meta">
         
-          <span class="badge">challenge</span>
+          <span class="badge">
+            <span class="i18n" data-ko="challenge" data-en="challenge"></span>
+          </span>
         
         
-          <span><a href="../../category/challenges.html">과제</a></span>
+          <span><a href="../../category/challenges.html">
+            <span class="i18n"
+              data-ko="과제"
+              data-en="Challenges"></span>
+          </a></span>
         
         
-          <span>최종 수정: 2026-04-08</span>
+          <span>
+            <span class="i18n" data-ko="최종 수정" data-en="Updated"></span>: 2026-04-08
+          </span>
         
         
       </div>
     </div>
     <div class="article-body">
-      <h2 id="summary">Summary</h2>
+      <h2 id="summary"><span class="heading-ko">개요</span><span class="heading-en">Summary</span></h2>
 <p>Jurisdictional conflicts arise when two or more states simultaneously claim the right to investigate and prosecute the same cybercrime. This is not an edge case — it is the <em>default condition</em> for transnational cybercrime. The borderless nature of cyber offenses means that the attacker's location, the server infrastructure, the victim, and the evidence are typically distributed across multiple countries, each of which has a legitimate basis for asserting jurisdiction under the <a href="../../wiki/concepts/territoriality-principle.html" class="wikilink">territoriality-principle</a>, the <a href="../../wiki/concepts/nationality-principle.html" class="wikilink">nationality-principle</a>, or other jurisdictional doctrines.</p>
 <p>Unlike some other areas of international law, there is <strong>no binding mechanism</strong> for resolving jurisdictional conflicts in cybercrime. The Budapest Convention's consultation requirement (Art. 22(5)) is non-binding, and no global framework assigns priority among competing jurisdictions. The result is a combination of duplicated investigations, uncoordinated prosecutions, forum shopping, and — in the worst cases — violations of the <a href="../../wiki/concepts/ne-bis-in-idem.html" class="wikilink">ne-bis-in-idem</a> principle (double jeopardy).</p>
-<h2 id="nature-of-the-problem">Nature of the Problem</h2>
+<h2 id="nature-of-the-problem"><span class="heading-ko">문제의 본질</span><span class="heading-en">Nature of the Problem</span></h2>
 <h3 id="multiple-states-claiming-jurisdiction">Multiple States Claiming Jurisdiction</h3>
 <p>A typical ransomware attack illustrates the problem:</p>
 <pre><code>Attacker (Russia) → C2 servers (Netherlands, Germany)
@@ -89,11 +108,11 @@
 - The most favorable evidence rules
 - The best chance of conviction</p>
 <p>While this may serve prosecutorial efficiency, it raises due process concerns and can undermine the legitimacy of proceedings.</p>
-<h2 id="impact-on-cooperation">Impact on Cooperation</h2>
+<h2 id="impact-on-cooperation"><span class="heading-ko">공조에 미치는 영향</span><span class="heading-en">Impact on Cooperation</span></h2>
 <p>Jurisdictional conflicts paradoxically both <strong>impede</strong> and <strong>motivate</strong> international cooperation:</p>
 <p><strong>Impediment:</strong> States reluctant to cooperate if they believe the other state is "taking" their case. Competing investigations may lead to refusal of MLA requests, extradition disputes, or parallel proceedings that waste resources.</p>
 <p><strong>Motivation:</strong> The recognition that no single state can effectively investigate transnational cybercrime drives states toward joint investigation teams (<a href="../../wiki/mechanisms/europol-jit.html" class="wikilink">europol-jit</a>), coordinated operations (through <a href="../../wiki/organizations/europol-ec3.html" class="wikilink">europol-ec3</a> or <a href="../../wiki/organizations/interpol-igci.html" class="wikilink">interpol-igci</a>), and informal police-to-police cooperation.</p>
-<h2 id="root-causes">Root Causes</h2>
+<h2 id="root-causes"><span class="heading-ko">근본 원인</span><span class="heading-en">Root Causes</span></h2>
 <h3 id="borderless-nature-of-cybercrime">Borderless Nature of Cybercrime</h3>
 <p>The fundamental root cause is that cybercrime does not respect territorial boundaries. Jurisdictional rules developed for physical-world crime assume a clear connection between a criminal act and a specific territory. This assumption breaks down for conduct that is inherently distributed across networks spanning the globe.</p>
 <h3 id="multiple-territorial-connections">Multiple Territorial Connections</h3>
@@ -108,7 +127,7 @@
 - <strong>Offers no criteria</strong> for what makes a jurisdiction "most appropriate"
 - <strong>Has no enforcement mechanism</strong> if states fail to consult or disagree</p>
 <p>The UN Cybercrime Convention (2024, not yet in force) Art. 58 contains a similar but slightly strengthened consultation provision. However, it also remains non-binding in outcome.</p>
-<h2 id="proposed-solutions">Proposed Solutions</h2>
+<h2 id="proposed-solutions"><span class="heading-ko">제안된 해결책</span><span class="heading-en">Proposed Solutions</span></h2>
 <h3 id="budapest-convention-art-225-consultation">Budapest Convention Art. 22(5) Consultation</h3>
 <p>The existing consultation requirement, while non-binding, provides a legal basis for dialogue. In practice, consultations happen informally between prosecutors and through Eurojust (within the EU) or INTERPOL (globally). The effectiveness depends entirely on the willingness of the parties.</p>
 <h3 id="eurojust-case-coordination">Eurojust Case Coordination</h3>
@@ -130,14 +149,14 @@
 <li><strong>International cybercrime court:</strong> A specialized tribunal with jurisdiction over the most serious transnational cybercrimes (highly aspirational; no active negotiations).</li>
 <li><strong>Transfer of proceedings:</strong> Formalizing the ability to transfer a criminal case from one state to another, preserving evidence and avoiding duplication.</li>
 </ol>
-<h2 id="current-state-of-debate">Current State of Debate</h2>
+<h2 id="current-state-of-debate"><span class="heading-ko">현재 논의 현황</span><span class="heading-en">Current State of Debate</span></h2>
 <p>The debate centers on whether the current consultative approach is sufficient or whether binding rules are needed:</p>
 <ul>
 <li><strong>Status quo defenders:</strong> The current flexible approach allows pragmatic case-by-case resolution. Binding rules would be difficult to negotiate and could produce perverse outcomes (e.g., assigning jurisdiction to a state with no capacity or willingness to prosecute).</li>
 <li><strong>Reform advocates:</strong> The absence of binding rules leads to inefficiency, unfairness, and impunity. States with strong cybercrime capacity (US, UK, EU) dominate case selection, while developing countries are marginalized.</li>
 <li><strong>Middle ground:</strong> Develop non-binding guidelines or best practices for jurisdiction selection, building on the Budapest Convention Art. 22(5) framework.</li>
 </ul>
-<h2 id="case-studies">Case Studies</h2>
+<h2 id="case-studies"><span class="heading-ko">사례 연구</span><span class="heading-en">Case Studies</span></h2>
 <h3 id="operation-cronos-lockbit">Operation Cronos (LockBit)</h3>
 <p>The <a href="../../wiki/operations/operation-cronos-phase1.html" class="wikilink">Operation Cronos</a> series (2024-2025) targeted the LockBit ransomware group across 10+ countries. The question of which state would prosecute the primary defendants required coordination among:
 - United States (DOJ/FBI — charging)
@@ -147,7 +166,7 @@
 <p>The operational coordination through Europol and Eurojust effectively managed the jurisdictional allocation, with the US taking the lead on prosecution and other countries focusing on infrastructure seizure and evidence gathering.</p>
 <h3 id="phobos8base-crackdown">Phobos/8Base Crackdown</h3>
 <p>The <a href="../../wiki/operations/phobos-8base-crackdown.html" class="wikilink">Phobos/8Base operation</a> (2025) involved a suspect arrested in South Korea and extradited to the United States. Korea had jurisdiction based on the arrest location (and potentially the nationality principle or effects of the crime), but deferred to the US for prosecution. This pragmatic resolution avoided a jurisdictional conflict but raises the question: what if Korea had wanted to prosecute?</p>
-<h2 id="comparative-perspectives">Comparative Perspectives</h2>
+<h2 id="comparative-perspectives"><span class="heading-ko">비교 관점</span><span class="heading-en">Comparative Perspectives</span></h2>
 <h3 id="eu-approach">EU Approach</h3>
 <p>The EU has the most developed framework for resolving intra-EU jurisdictional conflicts:
 - Framework Decision 2009/948/JHA (prevention and settlement of conflicts of jurisdiction)
@@ -185,7 +204,7 @@
 - Assertion of jurisdiction primarily when Korean victims or Korean nationals are directly involved</p>
 <div class="callout callout-warning"><div class="callout-title">⚠️ Legal status check needed
 Verify whether any Korean court decisions have specifically addressed the Budapest Convention Art. 22(5) consultation obligation since Korea's accession in 2024.</div><div class="callout-body"></div></div>
-<h2 id="contradictions-open-questions">Contradictions &amp; Open Questions</h2>
+<h2 id="contradictions-open-questions"><span class="heading-ko">모순점 및 미해결 문제</span><span class="heading-en">Contradictions &amp; Open Questions</span></h2>
 <ul>
 <li>Is the Budapest Convention's non-binding consultation requirement (Art. 22(5)) sufficient, or does the cybercrime problem demand binding jurisdiction allocation rules?</li>
 <li>How should jurisdiction be allocated when a state with the strongest legal claim (e.g., Russia for Russia-based attackers) is unwilling to prosecute?</li>
@@ -200,14 +219,14 @@ Verify whether any Korean court decisions have specifically addressed the Budape
     
 
     <div class="cat-nav">
-      <h3>카테고리</h3>
+      <h3><span class="i18n" data-ko="카테고리" data-en="Categories"></span></h3>
       <ul>
         
         <li>
           📜
           <a href="../../category/legal-frameworks.html"
              >
-            법적 프레임워크
+            <span class="i18n" data-ko="법적 프레임워크" data-en="Legal Frameworks"></span>
           </a>
         </li>
         
@@ -215,7 +234,7 @@ Verify whether any Korean court decisions have specifically addressed the Budape
           🏛️
           <a href="../../category/organizations.html"
              >
-            기관
+            <span class="i18n" data-ko="기관" data-en="Organizations"></span>
           </a>
         </li>
         
@@ -223,7 +242,7 @@ Verify whether any Korean court decisions have specifically addressed the Budape
           🌍
           <a href="../../category/countries.html"
              >
-            국가
+            <span class="i18n" data-ko="국가" data-en="Countries"></span>
           </a>
         </li>
         
@@ -231,7 +250,7 @@ Verify whether any Korean court decisions have specifically addressed the Budape
           🎯
           <a href="../../category/operations.html"
              >
-            작전
+            <span class="i18n" data-ko="작전" data-en="Operations"></span>
           </a>
         </li>
         
@@ -239,7 +258,7 @@ Verify whether any Korean court decisions have specifically addressed the Budape
           ⚖️
           <a href="../../category/cases.html"
              >
-            사건
+            <span class="i18n" data-ko="사건" data-en="Cases"></span>
           </a>
         </li>
         
@@ -247,7 +266,7 @@ Verify whether any Korean court decisions have specifically addressed the Budape
           🔗
           <a href="../../category/mechanisms.html"
              >
-            공조 메커니즘
+            <span class="i18n" data-ko="공조 메커니즘" data-en="Mechanisms"></span>
           </a>
         </li>
         
@@ -255,7 +274,7 @@ Verify whether any Korean court decisions have specifically addressed the Budape
           📋
           <a href="../../category/procedures.html"
              >
-            절차
+            <span class="i18n" data-ko="절차" data-en="Procedures"></span>
           </a>
         </li>
         
@@ -263,7 +282,7 @@ Verify whether any Korean court decisions have specifically addressed the Budape
           🔒
           <a href="../../category/crime-types.html"
              >
-            범죄유형
+            <span class="i18n" data-ko="범죄유형" data-en="Crime Types"></span>
           </a>
         </li>
         
@@ -271,7 +290,7 @@ Verify whether any Korean court decisions have specifically addressed the Budape
           ⚠️
           <a href="../../category/challenges.html"
              style="font-weight:700">
-            과제
+            <span class="i18n" data-ko="과제" data-en="Challenges"></span>
           </a>
         </li>
         
@@ -279,7 +298,7 @@ Verify whether any Korean court decisions have specifically addressed the Budape
           📖
           <a href="../../category/concepts.html"
              >
-            법적 개념
+            <span class="i18n" data-ko="법적 개념" data-en="Concepts"></span>
           </a>
         </li>
         
@@ -287,7 +306,7 @@ Verify whether any Korean court decisions have specifically addressed the Budape
           📰
           <a href="../../category/sources.html"
              >
-            출처
+            <span class="i18n" data-ko="출처" data-en="Sources"></span>
           </a>
         </li>
         
@@ -295,7 +314,7 @@ Verify whether any Korean court decisions have specifically addressed the Budape
           📊
           <a href="../../category/analysis.html"
              >
-            분석
+            <span class="i18n" data-ko="분석" data-en="Analysis"></span>
           </a>
         </li>
         
@@ -303,7 +322,7 @@ Verify whether any Korean court decisions have specifically addressed the Budape
           📅
           <a href="../../category/timelines.html"
              >
-            타임라인
+            <span class="i18n" data-ko="타임라인" data-en="Timelines"></span>
           </a>
         </li>
         
@@ -314,9 +333,57 @@ Verify whether any Korean court decisions have specifically addressed the Budape
 
 
   <div class="footer">
-    사이버범죄 국제공조 위키 &mdash; LLM Wiki Pattern &mdash;
-    Powered by <a href="https://obsidian.md">Obsidian</a> + Flask &mdash;
-    2026-04-09 기준 데이터
+    <span class="i18n"
+      data-ko="사이버범죄 국제공조 위키 &mdash; LLM Wiki Pattern &mdash; 2026-04-09 기준 데이터"
+      data-en="Cybercrime International Cooperation Wiki &mdash; LLM Wiki Pattern &mdash; Data as of 2026-04-09">
+    </span>
   </div>
+
+  <script>
+  (function() {
+    // Language toggle system — Korean default
+    var STORAGE_KEY = 'wiki-lang';
+
+    function getLang() {
+      return localStorage.getItem(STORAGE_KEY) || 'ko';
+    }
+
+    function setLang(lang) {
+      localStorage.setItem(STORAGE_KEY, lang);
+      applyLang(lang);
+    }
+
+    function applyLang(lang) {
+      var html = document.documentElement;
+      html.classList.remove('lang-ko', 'lang-en');
+      html.classList.add('lang-' + lang);
+      html.setAttribute('lang', lang === 'ko' ? 'ko' : 'en');
+
+      // Update i18n text content
+      document.querySelectorAll('.i18n').forEach(function(el) {
+        var text = el.getAttribute('data-' + lang);
+        if (text) el.innerHTML = text;
+      });
+
+      // Update i18n placeholders
+      document.querySelectorAll('.i18n-placeholder').forEach(function(el) {
+        var text = el.getAttribute('data-' + lang);
+        if (text) el.setAttribute('placeholder', text);
+      });
+    }
+
+    // Toggle button
+    var btn = document.getElementById('langToggle');
+    if (btn) {
+      btn.addEventListener('click', function() {
+        var current = getLang();
+        setLang(current === 'ko' ? 'en' : 'ko');
+      });
+    }
+
+    // Apply saved language on load
+    applyLang(getLang());
+  })();
+  </script>
 </body>
 </html>

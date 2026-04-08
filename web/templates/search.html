@@ -5,14 +5,21 @@
 <div class="page-wrapper full-width">
   <main class="article">
     <div class="article-header">
-      <h1>검색 결과: "{{ query }}"</h1>
+      <h1>
+        <span class="i18n" data-ko='검색 결과: "{{ query }}"' data-en='Search results: "{{ query }}"'></span>
+      </h1>
       <div class="article-meta">
-        <span>{{ results|length }}건 발견</span>
+        <span>{{ results|length }}<span class="i18n" data-ko="건 발견" data-en=" results"></span></span>
       </div>
     </div>
     <div class="article-body">
       {% if not results %}
-        <p>"{{ query }}"에 대한 검색 결과가 없습니다.</p>
+        <p>
+          <span class="i18n"
+            data-ko='"{{ query }}"에 대한 검색 결과가 없습니다.'
+            data-en='No results found for "{{ query }}".'>
+          </span>
+        </p>
       {% else %}
         {% for r in results %}
         <div class="search-result">
@@ -26,8 +33,12 @@
           {% endif %}
           <div class="snippet">{{ r.snippet }}</div>
           <div class="result-meta">
-            {% if r.category %}카테고리: {{ r.category }}{% endif %}
-            {% if r.type %} · 유형: {{ r.type }}{% endif %}
+            {% if r.category %}
+              <span class="i18n" data-ko="카테고리" data-en="Category"></span>: {{ r.category }}
+            {% endif %}
+            {% if r.type %}
+              · <span class="i18n" data-ko="유형" data-en="Type"></span>: {{ r.type }}
+            {% endif %}
           </div>
         </div>
         {% endfor %}

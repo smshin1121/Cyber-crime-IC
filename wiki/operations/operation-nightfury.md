@@ -1,72 +1,77 @@
 ---
-type: operation
-title: "Operation NightFury (Magecart/GetBilling)"
-title_ko: "나이트퓨리 작전 (Magecart/GetBilling)"
-aliases: ["Operation Night Fury", "Magecart Indonesia arrest", "GetBilling operation"]
-case_id: "CYB-2020-051"
-period: 2
-operation_type: "arrest-sweep"
-status: "completed"
-enforcement_type:
-  - "arrest"
-outcome: "success"
-timeframe:
-  announced: "2020-01-24"
-  start: "2020-01-24"
-  end: "2020-01-24"
-  ongoing: false
-crime_type: "[[online-fraud-ic]]"
-target_entity: "Magecart/GetBilling web skimming group"
-lead_agency: "[[interpol]]"
-coordinating_body: "[[interpol]]"
-participating_countries:
-  - "[[indonesia]]"
-  - "[[singapore]]"
-participating_agencies:
-  - "[[interpol]]"
-  - "[[indonesia-police]]"
-legal_basis: []
-mechanisms_used: []
-results:
-  arrests: 3
-  indictments: 0
-  servers_seized: 0
-  domains_seized: 0
-  cryptocurrency_seized: ""
-  decryption_keys_recovered: 0
-  victims_notified: 0
-  other:
-    - "3 Indonesian nationals arrested for Magecart web skimming"
-    - "GetBilling JavaScript skimmer infrastructure disrupted"
-    - "Group-IB provided private sector intelligence"
-edges:
-  - source_actor: "INTERPOL"
-    target_actor: "Indonesia Police"
-    cooperation_type: "joint_investigation"
-    legal_basis: "unknown"
-    direction: "undirected"
-  - source_actor: "Group-IB"
-    target_actor: "INTERPOL"
-    cooperation_type: "technical_assistance"
-    legal_basis: "unknown"
-    direction: "directed"
+aliases:
+- Operation Night Fury
+- Magecart Indonesia arrest
+- GetBilling operation
+case_id: CYB-2020-051
+challenges_encountered: []
+coordinating_body: '[[interpol]]'
+created: 2026-04-08
 credibility_index: 2.55
-source_tier: 3
+crime_type: '[[online-fraud-ic]]'
+edges:
+- cooperation_type: joint_investigation
+  direction: undirected
+  legal_basis: unknown
+  source_actor: INTERPOL
+  target_actor: Indonesia Police
+- cooperation_type: technical_assistance
+  direction: directed
+  legal_basis: unknown
+  source_actor: Group-IB
+  target_actor: INTERPOL
+enforcement_type:
+- arrest
+lead_agency: '[[interpol]]'
+legal_basis: []
+lessons_learned:
+- INTERPOL-coordinated operations can successfully target cybercriminals in Southeast
+  Asia
+- Private sector threat intelligence (Group-IB) can directly support law enforcement
+  operations
+mechanisms_used: []
 missing_fields:
-  - "legal_basis"
-  - "mechanisms_used"
+- legal_basis
+- mechanisms_used
+operation_type: arrest-sweep
+outcome: success
+participating_agencies:
+- '[[interpol]]'
+- '[[indonesia-police]]'
+participating_countries:
+- '[[indonesia]]'
+- '[[singapore]]'
+period: 2
 related_cases: []
 related_operations: []
-challenges_encountered: []
-lessons_learned:
-  - "INTERPOL-coordinated operations can successfully target cybercriminals in Southeast Asia"
-  - "Private sector threat intelligence (Group-IB) can directly support law enforcement operations"
+results:
+  arrests: 3
+  cryptocurrency_seized: ''
+  decryption_keys_recovered: 0
+  domains_seized: 0
+  indictments: 0
+  other:
+  - 3 Indonesian nationals arrested for Magecart web skimming
+  - GetBilling JavaScript skimmer infrastructure disrupted
+  - Group-IB provided private sector intelligence
+  servers_seized: 0
+  victims_notified: 0
 source_count: 2
+source_tier: 3
 sources:
-  - "tier3-cyberscoop-magecart-nightfury-2020"
-  - "tier3-groupib-nightfury-2020"
-created: 2026-04-08
-updated: 2026-04-08
+- tier3-cyberscoop-magecart-nightfury-2020
+- tier3-groupib-nightfury-2020
+status: completed
+target_entity: Magecart/GetBilling web skimming group
+timeframe:
+  announced: '2020-01-24'
+  end: '2020-01-24'
+  ongoing: false
+  start: '2020-01-24'
+title: Operation NightFury (Magecart/GetBilling)
+title_ko: 나이트퓨리 작전 (Magecart/GetBilling)
+type: operation
+updated: '2026-04-09'
 ---
 
 > [!note] This operation is documented from a Tier 3 (cybersecurity media) source. Additional verification from official sources (Tier 1-2) would strengthen data reliability.
@@ -130,5 +135,5 @@ No Korean involvement identified. South Korean e-commerce sites could potentiall
 
 | # | Title | Publisher | Date | URL |
 |---|-------|----------|------|-----|
-| [1] | Source 1 | group-ib.com | - | [원본](https://www.group-ib.com/media-center/press-releases/night-fury/) |
-| [2] | Source 2 | cyberscoop.com | - | [원본](https://cyberscoop.com/magecart-arrest-indonesia-interpol-getbilling/) |
+| [1] | Night Fury | Group-IB | 2020-01-24 | [원본](https://www.group-ib.com/media-center/press-releases/night-fury/) |
+| [2] | Magecart Arrest Indonesia Interpol Getbilling | CyberScoop | 2020-01-24 | [원본](https://cyberscoop.com/magecart-arrest-indonesia-interpol-getbilling/) |

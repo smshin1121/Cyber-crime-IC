@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html lang="ko">
+<html lang="ko" class="lang-ko">
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
@@ -11,22 +11,28 @@
 <body>
   <nav class="top-nav">
     <div class="top-nav-inner">
-      <a href="../../" class="nav-logo">🌐 사이버범죄 국제공조 위키</a>
+      <a href="../../" class="nav-logo">
+        <span class="i18n" data-ko="🌐 사이버범죄 국제공조 위키" data-en="🌐 Cybercrime IC Wiki"></span>
+      </a>
       <div class="nav-links">
-        <a href="../../category/operations.html">작전</a>
-        <a href="../../category/organizations.html">기관</a>
-        <a href="../../category/countries.html">국가</a>
-        <a href="../../category/legal-frameworks.html">법적 프레임워크</a>
-        <a href="../../category/mechanisms.html">메커니즘</a>
-        <a href="../../category/crime-types.html">범죄유형</a>
-        <a href="../../category/concepts.html">개념</a>
-        <a href="../../category/sources.html">출처</a>
-        <a href="../../stats.html">통계</a>
+        <a href="../../category/operations.html"><span class="i18n" data-ko="작전" data-en="Operations"></span></a>
+        <a href="../../category/organizations.html"><span class="i18n" data-ko="기관" data-en="Organizations"></span></a>
+        <a href="../../category/countries.html"><span class="i18n" data-ko="국가" data-en="Countries"></span></a>
+        <a href="../../category/legal-frameworks.html"><span class="i18n" data-ko="법적 프레임워크" data-en="Legal Frameworks"></span></a>
+        <a href="../../category/mechanisms.html"><span class="i18n" data-ko="메커니즘" data-en="Mechanisms"></span></a>
+        <a href="../../category/crime-types.html"><span class="i18n" data-ko="범죄유형" data-en="Crime Types"></span></a>
+        <a href="../../category/concepts.html"><span class="i18n" data-ko="개념" data-en="Concepts"></span></a>
+        <a href="../../category/sources.html"><span class="i18n" data-ko="출처" data-en="Sources"></span></a>
+        <a href="../../stats.html"><span class="i18n" data-ko="통계" data-en="Statistics"></span></a>
       </div>
       <form class="nav-search" action="../../search.html" method="get">
-        <input type="text" name="q" placeholder="위키 검색..." value="">
-        <button type="submit">검색</button>
+        <input type="text" name="q" class="i18n-placeholder" data-ko="위키 검색..." data-en="Search wiki..." value="">
+        <button type="submit"><span class="i18n" data-ko="검색" data-en="Search"></span></button>
       </form>
+      <button class="lang-toggle" id="langToggle" title="한국어/English">
+        <span class="lang-flag lang-flag-ko">🇰🇷 한</span>
+        <span class="lang-flag lang-flag-en">🇺🇸 EN</span>
+      </button>
     </div>
   </nav>
 
@@ -34,26 +40,38 @@
 <div class="page-wrapper">
   <main class="article">
     <div class="article-header">
-      <h1>CLOUD Act (Clarifying Lawful Overseas Use of Data Act)</h1>
+      <h1>
+        
+          CLOUD Act (Clarifying Lawful Overseas Use of Data Act)
+        
+      </h1>
       <div class="article-meta">
         
-          <span class="badge">legal-framework</span>
+          <span class="badge">
+            <span class="i18n" data-ko="legal-framework" data-en="legal-framework"></span>
+          </span>
         
         
-          <span><a href="../../category/legal-frameworks.html">법적 프레임워크</a></span>
+          <span><a href="../../category/legal-frameworks.html">
+            <span class="i18n"
+              data-ko="법적 프레임워크"
+              data-en="Legal Frameworks"></span>
+          </a></span>
         
         
-          <span>최종 수정: 2026-04-08</span>
+          <span>
+            <span class="i18n" data-ko="최종 수정" data-en="Updated"></span>: 2026-04-08
+          </span>
         
         
       </div>
     </div>
     <div class="article-body">
-      <h2 id="summary">Summary</h2>
+      <h2 id="summary"><span class="heading-ko">개요</span><span class="heading-en">Summary</span></h2>
 <p>The CLOUD Act (Clarifying Lawful Overseas Use of Data Act) is a <strong>US federal law</strong> enacted on 2018-03-23 that addresses the critical problem of cross-border access to electronic evidence held by US-based service providers. The Act has two primary components: (1) it clarifies that US legal process (warrants, subpoenas, court orders) applies to data held by US providers regardless of where the data is stored globally, and (2) it creates a framework for <strong>executive agreements</strong> with qualifying foreign governments, enabling those governments to directly order US providers to disclose data without going through the traditional <a href="../../wiki/mechanisms/mlat-process.html" class="wikilink">MLAT process</a>.</p>
 <p>The Act was passed in direct response to the <em>Microsoft Ireland</em> litigation (United States v. Microsoft Corp., 584 U.S. ___ (2018)), which raised the question of whether a US warrant could compel Microsoft to disclose email data stored in Ireland. The CLOUD Act resolved this by asserting extraterritorial reach of US legal process to US providers.</p>
 <p>As of April 2026, the <strong>United Kingdom</strong> is the only country with a fully operational executive agreement (signed 2019-10-03, entered into force 2022-10-03). Australia has signed an agreement (2021-12-15) that is <em>likely</em> in force or near entry into force.</p>
-<h2 id="historical-context">Historical Context</h2>
+<h2 id="historical-context"><span class="heading-ko">역사적 배경</span><span class="heading-en">Historical Context</span></h2>
 <ul>
 <li><strong>2013:</strong> Microsoft refuses to comply with US warrant for data stored in Ireland</li>
 <li><strong>2014-2017:</strong> <em>United States v. Microsoft Corp.</em> litigated through courts; Second Circuit rules in Microsoft's favor (data abroad not reachable by US warrant)</li>
@@ -103,7 +121,7 @@ to foreign authority                to US authority
 
 No MLAT, no diplomatic channel, no central authority routing
 </code></pre>
-<h2 id="parties-and-participation">Parties and Participation</h2>
+<h2 id="parties-and-participation"><span class="heading-ko">당사국 및 참여</span><span class="heading-en">Parties and Participation</span></h2>
 <table>
 <thead>
 <tr>
@@ -142,7 +160,7 @@ No MLAT, no diplomatic channel, no central authority routing
 </table>
 <div class="callout callout-warning"><div class="callout-title">⚠️ Legal status check needed
 Additional executive agreements may have been signed or entered into force since this page was created. The US DOJ OIA website should be consulted for current status.</div><div class="callout-body"></div></div>
-<h2 id="implementation-in-practice">Implementation in Practice</h2>
+<h2 id="implementation-in-practice"><span class="heading-ko">실무 적용</span><span class="heading-en">Implementation in Practice</span></h2>
 <h3 id="uk-executive-agreement">UK Executive Agreement</h3>
 <p>The US-UK agreement is the primary implementation reference:
 - UK authorities (primarily NCA and Crown Prosecution Service) can directly serve orders on US providers
@@ -155,7 +173,7 @@ Additional executive agreements may have been signed or entered into force since
 - <strong>MLAT average:</strong> 6-18 months for US-held data
 - <strong>CLOUD Act executive agreement:</strong> Days to weeks (provider response time)</p>
 <p>However, the impact is limited to <strong>countries with executive agreements</strong> — currently a very small number.</p>
-<h2 id="relationship-to-other-frameworks">Relationship to Other Frameworks</h2>
+<h2 id="relationship-to-other-frameworks"><span class="heading-ko">다른 프레임워크와의 관계</span><span class="heading-en">Relationship to Other Frameworks</span></h2>
 <h3 id="budapest-convention">Budapest Convention</h3>
 <p>The CLOUD Act and <a href="../../wiki/legal-frameworks/budapest-convention.html" class="wikilink">budapest-convention</a> are complementary:
 - Budapest provides the broad multilateral IC framework (MLA, preservation, 24/7 Network)
@@ -165,7 +183,7 @@ Additional executive agreements may have been signed or entered into force since
 <p>The <a href="../../wiki/legal-frameworks/second-additional-protocol.html" class="wikilink">second-additional-protocol</a> addresses similar problems (direct provider access, expedited disclosure) through a multilateral treaty mechanism. The Protocol's Art. 6-7 (direct cooperation with service providers) and the CLOUD Act's executive agreements represent <strong>parallel approaches</strong> developed in the same period.</p>
 <h3 id="un-cybercrime-convention">UN Cybercrime Convention</h3>
 <p>The <a href="../../wiki/legal-frameworks/un-cybercrime-convention-2024.html" class="wikilink">un-cybercrime-convention-2024</a> IC chapter may eventually provide an alternative multilateral framework, but the CLOUD Act's bilateral executive agreement model is <em>likely</em> to remain the fastest channel for US-held data access.</p>
-<h2 id="criticisms-and-debates">Criticisms and Debates</h2>
+<h2 id="criticisms-and-debates"><span class="heading-ko">비판 및 논쟁</span><span class="heading-en">Criticisms and Debates</span></h2>
 <h3 id="extraterritorial-reach">Extraterritorial Reach</h3>
 <p>The CLOUD Act's assertion that US process reaches data stored anywhere in the world has been criticized as:
 - <strong>Unilateral extraterritoriality:</strong> Imposing US legal authority on data in foreign jurisdictions without consent
@@ -206,7 +224,7 @@ Additional executive agreements may have been signed or entered into force since
 <p>Whether Korea should prioritize a CLOUD Act executive agreement, ratification of the <a href="../../wiki/legal-frameworks/second-additional-protocol.html" class="wikilink">second-additional-protocol</a>, or both remains an open policy question. The two approaches are not mutually exclusive but require separate diplomatic and legislative tracks.</p>
 <div class="callout callout-note"><div class="callout-title">📝 Translation note
 "해외데이터합법적사용명확화법" is the commonly used Korean translation. The Act's full English title is "Clarifying Lawful Overseas Use of Data Act." Korean legal commentary also refers to it as "클라우드법" (transliteration).</div><div class="callout-body"></div></div>
-<h2 id="contradictions-open-questions">Contradictions &amp; Open Questions</h2>
+<h2 id="contradictions-open-questions"><span class="heading-ko">모순점 및 미해결 문제</span><span class="heading-en">Contradictions &amp; Open Questions</span></h2>
 <ol>
 <li><strong>EU executive agreement:</strong> Will the EU negotiate a collective agreement or leave it to individual member states? GDPR implications make this the most complex pending negotiation.</li>
 <li><strong>Korean agreement prospects:</strong> What is the timeline for a US-Korea CLOUD Act executive agreement? No public negotiations have been announced.</li>
@@ -220,37 +238,84 @@ Additional executive agreements may have been signed or entered into force since
   <aside class="sidebar">
     
     <div class="infobox">
-      <div class="infobox-header">CLOUD Act (Clarifying Lawful Overseas Use of Data Act)</div>
+      <div class="infobox-header">
+        
+          CLOUD Act (Clarifying Lawful Overseas Use of Data Act)
+        
+      </div>
       <table>
         
         <tr>
-          <th>유형</th>
-          <td>법적 프레임워크</td>
+          <th>
+            <span class="heading-ko">유형</span>
+            <span class="heading-en">Type</span>
+          </th>
+          <td>
+            
+              <span class="heading-ko">법적 프레임워크</span>
+              <span class="heading-en">Legal Framework</span>
+            
+          </td>
         </tr>
         
         <tr>
-          <th>유형</th>
-          <td>bilateral-treaty</td>
+          <th>
+            <span class="heading-ko">유형</span>
+            <span class="heading-en">Type</span>
+          </th>
+          <td>
+            
+              bilateral-treaty
+            
+          </td>
         </tr>
         
         <tr>
-          <th>상태</th>
-          <td>in-force</td>
+          <th>
+            <span class="heading-ko">상태</span>
+            <span class="heading-en">Status</span>
+          </th>
+          <td>
+            
+              in-force
+            
+          </td>
         </tr>
         
         <tr>
-          <th>채택일</th>
-          <td>2018-03-23</td>
+          <th>
+            <span class="heading-ko">채택일</span>
+            <span class="heading-en">Adopted</span>
+          </th>
+          <td>
+            
+              2018-03-23
+            
+          </td>
         </tr>
         
         <tr>
-          <th>발효일</th>
-          <td>2018-03-23</td>
+          <th>
+            <span class="heading-ko">발효일</span>
+            <span class="heading-en">In Force</span>
+          </th>
+          <td>
+            
+              2018-03-23
+            
+          </td>
         </tr>
         
         <tr>
-          <th>당사국</th>
-          <td>2</td>
+          <th>
+            <span class="heading-ko">당사국</span>
+            <span class="heading-en">Parties</span>
+          </th>
+          <td>
+            
+              2
+            
+          </td>
         </tr>
         
       </table>
@@ -258,14 +323,14 @@ Additional executive agreements may have been signed or entered into force since
     
 
     <div class="cat-nav">
-      <h3>카테고리</h3>
+      <h3><span class="i18n" data-ko="카테고리" data-en="Categories"></span></h3>
       <ul>
         
         <li>
           📜
           <a href="../../category/legal-frameworks.html"
              style="font-weight:700">
-            법적 프레임워크
+            <span class="i18n" data-ko="법적 프레임워크" data-en="Legal Frameworks"></span>
           </a>
         </li>
         
@@ -273,7 +338,7 @@ Additional executive agreements may have been signed or entered into force since
           🏛️
           <a href="../../category/organizations.html"
              >
-            기관
+            <span class="i18n" data-ko="기관" data-en="Organizations"></span>
           </a>
         </li>
         
@@ -281,7 +346,7 @@ Additional executive agreements may have been signed or entered into force since
           🌍
           <a href="../../category/countries.html"
              >
-            국가
+            <span class="i18n" data-ko="국가" data-en="Countries"></span>
           </a>
         </li>
         
@@ -289,7 +354,7 @@ Additional executive agreements may have been signed or entered into force since
           🎯
           <a href="../../category/operations.html"
              >
-            작전
+            <span class="i18n" data-ko="작전" data-en="Operations"></span>
           </a>
         </li>
         
@@ -297,7 +362,7 @@ Additional executive agreements may have been signed or entered into force since
           ⚖️
           <a href="../../category/cases.html"
              >
-            사건
+            <span class="i18n" data-ko="사건" data-en="Cases"></span>
           </a>
         </li>
         
@@ -305,7 +370,7 @@ Additional executive agreements may have been signed or entered into force since
           🔗
           <a href="../../category/mechanisms.html"
              >
-            공조 메커니즘
+            <span class="i18n" data-ko="공조 메커니즘" data-en="Mechanisms"></span>
           </a>
         </li>
         
@@ -313,7 +378,7 @@ Additional executive agreements may have been signed or entered into force since
           📋
           <a href="../../category/procedures.html"
              >
-            절차
+            <span class="i18n" data-ko="절차" data-en="Procedures"></span>
           </a>
         </li>
         
@@ -321,7 +386,7 @@ Additional executive agreements may have been signed or entered into force since
           🔒
           <a href="../../category/crime-types.html"
              >
-            범죄유형
+            <span class="i18n" data-ko="범죄유형" data-en="Crime Types"></span>
           </a>
         </li>
         
@@ -329,7 +394,7 @@ Additional executive agreements may have been signed or entered into force since
           ⚠️
           <a href="../../category/challenges.html"
              >
-            과제
+            <span class="i18n" data-ko="과제" data-en="Challenges"></span>
           </a>
         </li>
         
@@ -337,7 +402,7 @@ Additional executive agreements may have been signed or entered into force since
           📖
           <a href="../../category/concepts.html"
              >
-            법적 개념
+            <span class="i18n" data-ko="법적 개념" data-en="Concepts"></span>
           </a>
         </li>
         
@@ -345,7 +410,7 @@ Additional executive agreements may have been signed or entered into force since
           📰
           <a href="../../category/sources.html"
              >
-            출처
+            <span class="i18n" data-ko="출처" data-en="Sources"></span>
           </a>
         </li>
         
@@ -353,7 +418,7 @@ Additional executive agreements may have been signed or entered into force since
           📊
           <a href="../../category/analysis.html"
              >
-            분석
+            <span class="i18n" data-ko="분석" data-en="Analysis"></span>
           </a>
         </li>
         
@@ -361,7 +426,7 @@ Additional executive agreements may have been signed or entered into force since
           📅
           <a href="../../category/timelines.html"
              >
-            타임라인
+            <span class="i18n" data-ko="타임라인" data-en="Timelines"></span>
           </a>
         </li>
         
@@ -372,9 +437,57 @@ Additional executive agreements may have been signed or entered into force since
 
 
   <div class="footer">
-    사이버범죄 국제공조 위키 &mdash; LLM Wiki Pattern &mdash;
-    Powered by <a href="https://obsidian.md">Obsidian</a> + Flask &mdash;
-    2026-04-09 기준 데이터
+    <span class="i18n"
+      data-ko="사이버범죄 국제공조 위키 &mdash; LLM Wiki Pattern &mdash; 2026-04-09 기준 데이터"
+      data-en="Cybercrime International Cooperation Wiki &mdash; LLM Wiki Pattern &mdash; Data as of 2026-04-09">
+    </span>
   </div>
+
+  <script>
+  (function() {
+    // Language toggle system — Korean default
+    var STORAGE_KEY = 'wiki-lang';
+
+    function getLang() {
+      return localStorage.getItem(STORAGE_KEY) || 'ko';
+    }
+
+    function setLang(lang) {
+      localStorage.setItem(STORAGE_KEY, lang);
+      applyLang(lang);
+    }
+
+    function applyLang(lang) {
+      var html = document.documentElement;
+      html.classList.remove('lang-ko', 'lang-en');
+      html.classList.add('lang-' + lang);
+      html.setAttribute('lang', lang === 'ko' ? 'ko' : 'en');
+
+      // Update i18n text content
+      document.querySelectorAll('.i18n').forEach(function(el) {
+        var text = el.getAttribute('data-' + lang);
+        if (text) el.innerHTML = text;
+      });
+
+      // Update i18n placeholders
+      document.querySelectorAll('.i18n-placeholder').forEach(function(el) {
+        var text = el.getAttribute('data-' + lang);
+        if (text) el.setAttribute('placeholder', text);
+      });
+    }
+
+    // Toggle button
+    var btn = document.getElementById('langToggle');
+    if (btn) {
+      btn.addEventListener('click', function() {
+        var current = getLang();
+        setLang(current === 'ko' ? 'en' : 'ko');
+      });
+    }
+
+    // Apply saved language on load
+    applyLang(getLang());
+  })();
+  </script>
 </body>
 </html>

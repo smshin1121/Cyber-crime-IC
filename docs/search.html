@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html lang="ko">
+<html lang="ko" class="lang-ko">
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
@@ -11,22 +11,28 @@
 <body>
   <nav class="top-nav">
     <div class="top-nav-inner">
-      <a href="" class="nav-logo">🌐 사이버범죄 국제공조 위키</a>
+      <a href="" class="nav-logo">
+        <span class="i18n" data-ko="🌐 사이버범죄 국제공조 위키" data-en="🌐 Cybercrime IC Wiki"></span>
+      </a>
       <div class="nav-links">
-        <a href="category/operations">작전</a>
-        <a href="category/organizations">기관</a>
-        <a href="category/countries">국가</a>
-        <a href="category/legal-frameworks">법적 프레임워크</a>
-        <a href="category/mechanisms">메커니즘</a>
-        <a href="category/crime-types">범죄유형</a>
-        <a href="category/concepts">개념</a>
-        <a href="category/sources">출처</a>
-        <a href="stats">통계</a>
+        <a href="category/operations"><span class="i18n" data-ko="작전" data-en="Operations"></span></a>
+        <a href="category/organizations"><span class="i18n" data-ko="기관" data-en="Organizations"></span></a>
+        <a href="category/countries"><span class="i18n" data-ko="국가" data-en="Countries"></span></a>
+        <a href="category/legal-frameworks"><span class="i18n" data-ko="법적 프레임워크" data-en="Legal Frameworks"></span></a>
+        <a href="category/mechanisms"><span class="i18n" data-ko="메커니즘" data-en="Mechanisms"></span></a>
+        <a href="category/crime-types"><span class="i18n" data-ko="범죄유형" data-en="Crime Types"></span></a>
+        <a href="category/concepts"><span class="i18n" data-ko="개념" data-en="Concepts"></span></a>
+        <a href="category/sources"><span class="i18n" data-ko="출처" data-en="Sources"></span></a>
+        <a href="stats"><span class="i18n" data-ko="통계" data-en="Statistics"></span></a>
       </div>
       <form class="nav-search" action="search.html" method="get">
-        <input type="text" name="q" placeholder="위키 검색..." value="">
-        <button type="submit">검색</button>
+        <input type="text" name="q" class="i18n-placeholder" data-ko="위키 검색..." data-en="Search wiki..." value="">
+        <button type="submit"><span class="i18n" data-ko="검색" data-en="Search"></span></button>
       </form>
+      <button class="lang-toggle" id="langToggle" title="한국어/English">
+        <span class="lang-flag lang-flag-ko">🇰🇷 한</span>
+        <span class="lang-flag lang-flag-en">🇺🇸 EN</span>
+      </button>
     </div>
   </nav>
 
@@ -34,14 +40,21 @@
 <div class="page-wrapper full-width">
   <main class="article">
     <div class="article-header">
-      <h1>검색 결과: ""</h1>
+      <h1>
+        <span class="i18n" data-ko='검색 결과: ""' data-en='Search results: ""'></span>
+      </h1>
       <div class="article-meta">
-        <span>0건 발견</span>
+        <span>0<span class="i18n" data-ko="건 발견" data-en=" results"></span></span>
       </div>
     </div>
     <div class="article-body">
       
-        <p>""에 대한 검색 결과가 없습니다.</p>
+        <p>
+          <span class="i18n"
+            data-ko='""에 대한 검색 결과가 없습니다.'
+            data-en='No results found for "".'>
+          </span>
+        </p>
       
     </div>
   </main>
@@ -49,9 +62,57 @@
 
 
   <div class="footer">
-    사이버범죄 국제공조 위키 &mdash; LLM Wiki Pattern &mdash;
-    Powered by <a href="https://obsidian.md">Obsidian</a> + Flask &mdash;
-    2026-04-09 기준 데이터
+    <span class="i18n"
+      data-ko="사이버범죄 국제공조 위키 &mdash; LLM Wiki Pattern &mdash; 2026-04-09 기준 데이터"
+      data-en="Cybercrime International Cooperation Wiki &mdash; LLM Wiki Pattern &mdash; Data as of 2026-04-09">
+    </span>
   </div>
+
+  <script>
+  (function() {
+    // Language toggle system — Korean default
+    var STORAGE_KEY = 'wiki-lang';
+
+    function getLang() {
+      return localStorage.getItem(STORAGE_KEY) || 'ko';
+    }
+
+    function setLang(lang) {
+      localStorage.setItem(STORAGE_KEY, lang);
+      applyLang(lang);
+    }
+
+    function applyLang(lang) {
+      var html = document.documentElement;
+      html.classList.remove('lang-ko', 'lang-en');
+      html.classList.add('lang-' + lang);
+      html.setAttribute('lang', lang === 'ko' ? 'ko' : 'en');
+
+      // Update i18n text content
+      document.querySelectorAll('.i18n').forEach(function(el) {
+        var text = el.getAttribute('data-' + lang);
+        if (text) el.innerHTML = text;
+      });
+
+      // Update i18n placeholders
+      document.querySelectorAll('.i18n-placeholder').forEach(function(el) {
+        var text = el.getAttribute('data-' + lang);
+        if (text) el.setAttribute('placeholder', text);
+      });
+    }
+
+    // Toggle button
+    var btn = document.getElementById('langToggle');
+    if (btn) {
+      btn.addEventListener('click', function() {
+        var current = getLang();
+        setLang(current === 'ko' ? 'en' : 'ko');
+      });
+    }
+
+    // Apply saved language on load
+    applyLang(getLang());
+  })();
+  </script>
 </body>
 </html>

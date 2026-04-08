@@ -4,10 +4,21 @@
 {% block body %}
 <div class="page-wrapper full-width">
   <div class="missing-notice">
-    <h2>⚠️ "{{ slug }}" 문서가 아직 없습니다</h2>
-    <p>이 문서는 다른 페이지에서 참조되었으나 아직 생성되지 않았습니다.</p>
-    <p>소스를 수집하고 파이프라인을 실행하면 자동으로 생성됩니다.</p>
-    <p><a href="/">메인 페이지로 돌아가기</a></p>
+    <h2>
+      <span class="i18n"
+        data-ko='⚠️ "{{ slug }}" 문서가 아직 없습니다'
+        data-en='⚠️ Page "{{ slug }}" does not exist yet'>
+      </span>
+    </h2>
+    <p>
+      <span class="i18n"
+        data-ko="이 문서는 다른 페이지에서 참조되었으나 아직 생성되지 않았습니다."
+        data-en="This page is referenced from other pages but has not been created yet.">
+      </span>
+    </p>
+    <p><a href="/">
+      <span class="i18n" data-ko="메인 페이지로 돌아가기" data-en="Back to main page"></span>
+    </a></p>
   </div>
 </div>
 {% endblock %}

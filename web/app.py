@@ -17,19 +17,126 @@ WIKI_DIR = Path(__file__).resolve().parent.parent / "wiki"
 
 # Category metadata (Korean labels)
 CATEGORIES = {
-    "legal-frameworks": {"label": "법적 프레임워크", "icon": "📜"},
-    "organizations": {"label": "기관", "icon": "🏛️"},
-    "countries": {"label": "국가", "icon": "🌍"},
-    "operations": {"label": "작전", "icon": "🎯"},
-    "cases": {"label": "사건", "icon": "⚖️"},
-    "mechanisms": {"label": "공조 메커니즘", "icon": "🔗"},
-    "procedures": {"label": "절차", "icon": "📋"},
-    "crime-types": {"label": "범죄유형", "icon": "🔒"},
-    "challenges": {"label": "과제", "icon": "⚠️"},
-    "concepts": {"label": "법적 개념", "icon": "📖"},
-    "sources": {"label": "출처", "icon": "📰"},
-    "analysis": {"label": "분석", "icon": "📊"},
-    "timelines": {"label": "타임라인", "icon": "📅"},
+    "legal-frameworks": {"label": "법적 프레임워크", "label_en": "Legal Frameworks", "icon": "📜"},
+    "organizations": {"label": "기관", "label_en": "Organizations", "icon": "🏛️"},
+    "countries": {"label": "국가", "label_en": "Countries", "icon": "🌍"},
+    "operations": {"label": "작전", "label_en": "Operations", "icon": "🎯"},
+    "cases": {"label": "사건", "label_en": "Cases", "icon": "⚖️"},
+    "mechanisms": {"label": "공조 메커니즘", "label_en": "Mechanisms", "icon": "🔗"},
+    "procedures": {"label": "절차", "label_en": "Procedures", "icon": "📋"},
+    "crime-types": {"label": "범죄유형", "label_en": "Crime Types", "icon": "🔒"},
+    "challenges": {"label": "과제", "label_en": "Challenges", "icon": "⚠️"},
+    "concepts": {"label": "법적 개념", "label_en": "Concepts", "icon": "📖"},
+    "sources": {"label": "출처", "label_en": "Sources", "icon": "📰"},
+    "analysis": {"label": "분석", "label_en": "Analysis", "icon": "📊"},
+    "timelines": {"label": "타임라인", "label_en": "Timelines", "icon": "📅"},
+}
+
+# Section heading translations (EN -> KO)
+HEADING_MAP = {
+    # Common
+    "Summary": "개요",
+    "Background": "배경",
+    "References": "참고문헌",
+    "Contradictions & Open Questions": "모순점 및 미해결 문제",
+    "Contradictions &amp; Open Questions": "모순점 및 미해결 문제",
+    # Operations
+    "Participating Parties": "참여 기관",
+    "Legal Framework": "법적 근거",
+    "Operational Timeline": "작전 타임라인",
+    "Results": "결과",
+    "Results and Impact": "결과 및 영향",
+    "Cooperation Mechanisms Used": "활용된 공조 메커니즘",
+    "Challenges and Friction Points": "과제 및 마찰 요인",
+    "Lessons Learned": "교훈",
+    "Follow-Up Actions": "후속 조치",
+    "Korean Involvement": "한국의 참여",
+    "Korean Perspective": "한국 관점",
+    # Organizations
+    "Mandate and Authority": "임무와 권한",
+    "Structure Relevant to Cybercrime IC": "사이버범죄 국제공조 관련 구조",
+    "IC Capabilities": "국제공조 역량",
+    "Key Operations and Cases": "주요 작전 및 사건",
+    "Cooperation Track Record": "공조 실적",
+    "Capacity Building": "역량 구축",
+    "Korean Interactions": "한국과의 협력",
+    # Legal frameworks
+    "Historical Context": "역사적 배경",
+    "Key Provisions for IC": "국제공조 관련 주요 조항",
+    "Parties and Participation": "당사국 및 참여",
+    "Implementation in Practice": "실무 적용",
+    "Relationship to Other Frameworks": "다른 프레임워크와의 관계",
+    "Criticisms and Debates": "비판 및 논쟁",
+    # Countries
+    "Legal Framework for Cybercrime": "사이버범죄 법적 체계",
+    "Substantive Law": "실체법",
+    "Procedural Powers": "절차적 권한",
+    "MLA": "국제사법공조",
+    "Treaty Memberships": "조약 가입",
+    "Key Agencies": "주요 기관",
+    "Capacity Assessment": "역량 평가",
+    "Notable Operations and Cases": "주요 작전 및 사건",
+    "Political and Diplomatic Context": "정치·외교적 맥락",
+    "Challenges": "과제",
+    # Concepts
+    "Definition": "정의",
+    "Legal Basis": "법적 근거",
+    "Relevance to IC on Cybercrime": "사이버범죄 국제공조와의 관련성",
+    "How It Works in Practice": "실무 적용",
+    "Variations Across Jurisdictions": "관할권별 차이",
+    "Common Law": "보통법",
+    "Civil Law": "대륙법",
+    "Key Case Law": "주요 판례",
+    "Debates and Controversies": "논쟁 및 논란",
+    "Korean Law": "한국법",
+    "Multi-Language Terminology": "다국어 용어",
+    # Mechanisms
+    "How It Works": "작동 방식",
+    "Scope and Capabilities": "범위 및 역량",
+    "Practical Usage": "실무 활용",
+    "Advantages": "장점",
+    "Limitations": "한계",
+    "Notable Uses": "주요 활용 사례",
+    "Comparison with Alternatives": "대안과의 비교",
+    "Korean Usage": "한국의 활용",
+    # Procedures
+    "Prerequisites": "전제조건",
+    "Step-by-Step Process": "단계별 절차",
+    "Required Documents": "필요 서류",
+    "Timelines": "소요 기간",
+    "Practical Tips": "실무 팁",
+    "Country-Specific Variations": "국가별 차이",
+    "Common Pitfalls": "일반적 함정",
+    "Related Procedures": "관련 절차",
+    "Korean Practice": "한국 실무",
+    # Crime types
+    "Criminalization Landscape": "범죄화 현황",
+    "Typical IC Scenarios": "일반적 국제공조 시나리오",
+    "Evidence Types and Locations": "증거 유형 및 소재",
+    "Cooperation Pathways": "공조 경로",
+    "Key Operations and Precedents": "주요 작전 및 선례",
+    "Statistics and Trends": "통계 및 동향",
+    "Prevention and Disruption": "예방 및 차단",
+    "Korean Context": "한국 상황",
+    # Overview
+    "Executive Summary": "요약",
+    "Top 10 Operations by Significance": "주요 작전 Top 10",
+    "Recent Treaty Developments": "최근 조약 동향",
+    "Emerging Challenges": "새로운 과제",
+    "Cooperation Statistics": "공조 통계",
+    "Recent Activity": "최근 활동",
+    # Challenges
+    "Nature of the Problem": "문제의 본질",
+    "Impact on Cooperation": "공조에 미치는 영향",
+    "Root Causes": "근본 원인",
+    "Proposed Solutions": "제안된 해결책",
+    "Current State of Debate": "현재 논의 현황",
+    "Case Studies": "사례 연구",
+    "Comparative Perspectives": "비교 관점",
+    # Source
+    "Key Findings": "주요 발견사항",
+    "Pages Updated": "갱신된 페이지",
+    "Source Assessment": "출처 평가",
 }
 
 TYPE_LABELS_KO = {
@@ -138,8 +245,44 @@ def convert_callouts(html):
     return callout_pattern.sub(replace_callout, html)
 
 
+def open_external_links_in_new_tab(html: str) -> str:
+    """Add target=_blank and rel=noopener to external links."""
+    return re.sub(
+        r'<a\s+href="(https?://[^"]+)"',
+        r'<a href="\1" target="_blank" rel="noopener noreferrer"',
+        html,
+    )
+
+
+def bilingual_headings(html: str) -> str:
+    """Replace section headings with bilingual KO/EN spans."""
+    def replace_heading(match):
+        tag = match.group(1)       # h2 or h3
+        attrs = match.group(2)     # any attributes
+        text = match.group(3)      # heading text (may contain HTML)
+        close_tag = match.group(4)
+        # Strip HTML tags for lookup
+        plain = re.sub(r'<[^>]+>', '', text).strip()
+        ko = HEADING_MAP.get(plain)
+        if ko:
+            return (
+                f'<{tag}{attrs}>'
+                f'<span class="heading-ko">{ko}</span>'
+                f'<span class="heading-en">{text}</span>'
+                f'</{close_tag}>'
+            )
+        # Check if it's already Korean (한국 in text) — keep as-is
+        return match.group(0)
+
+    return re.sub(
+        r'<(h[23])([^>]*)>(.*?)</(h[23])>',
+        replace_heading,
+        html,
+    )
+
+
 def render_markdown(text):
-    """Render markdown to HTML with wikilinks and callouts."""
+    """Render markdown to HTML with wikilinks, callouts, and bilingual headings."""
     text = convert_wikilinks(text)
     html = markdown.markdown(
         text,
@@ -147,6 +290,8 @@ def render_markdown(text):
         extension_configs={"toc": {"toc_depth": "2-3"}}
     )
     html = convert_callouts(html)
+    html = open_external_links_in_new_tab(html)
+    html = bilingual_headings(html)
     return Markup(html)
 
 
@@ -172,49 +317,82 @@ def get_all_pages():
     return pages
 
 
-def build_infobox(meta, page_type):
-    """Build infobox data from frontmatter."""
-    infobox = []
-    type_label = TYPE_LABELS_KO.get(page_type, page_type)
-    infobox.append(("유형", type_label))
+TYPE_LABELS_EN = {
+    "legal-framework": "Legal Framework",
+    "organization": "Organization",
+    "country": "Country",
+    "operation": "Operation",
+    "case": "Case",
+    "mechanism": "Mechanism",
+    "procedure": "Procedure",
+    "crime-type": "Crime Type",
+    "challenge": "Challenge",
+    "concept": "Concept",
+    "source": "Source",
+    "analysis": "Analysis",
+    "timeline": "Timeline",
+    "overview": "Overview",
+    "category-index": "Category Index",
+}
 
+
+def build_infobox(meta, page_type):
+    """Build infobox data from frontmatter with bilingual labels."""
+    infobox = []
+    type_label_ko = TYPE_LABELS_KO.get(page_type, page_type)
+    type_label_en = TYPE_LABELS_EN.get(page_type, page_type)
+    infobox.append(("유형", "Type", type_label_ko, type_label_en))
+
+    # (field, ko_label, en_label)
     field_map = {
         "operation": [
-            ("status", "상태"), ("operation_type", "작전유형"),
-            ("timeframe", "기간"), ("lead_agency", "주도기관"),
-            ("crime_type", "범죄유형"),
+            ("status", "상태", "Status"),
+            ("operation_type", "작전유형", "Op Type"),
+            ("timeframe", "기간", "Period"),
+            ("lead_agency", "주도기관", "Lead Agency"),
+            ("crime_type", "범죄유형", "Crime Type"),
         ],
         "organization": [
-            ("org_type", "기관유형"), ("headquarters", "본부"),
-            ("established", "설립"), ("member_states", "회원국"),
+            ("org_type", "기관유형", "Org Type"),
+            ("headquarters", "본부", "HQ"),
+            ("established", "설립", "Est."),
+            ("member_states", "회원국", "Members"),
         ],
         "country": [
-            ("iso_code", "ISO 코드"), ("legal_system", "법체계"),
-            ("region", "지역"),
+            ("iso_code", "ISO 코드", "ISO Code"),
+            ("legal_system", "법체계", "Legal System"),
+            ("region", "지역", "Region"),
         ],
         "legal-framework": [
-            ("framework_type", "유형"), ("status", "상태"),
-            ("adopted_date", "채택일"), ("entry_into_force", "발효일"),
+            ("framework_type", "유형", "Type"),
+            ("status", "상태", "Status"),
+            ("adopted_date", "채택일", "Adopted"),
+            ("entry_into_force", "발효일", "In Force"),
         ],
         "mechanism": [
-            ("mechanism_type", "유형"), ("formality", "형식성"),
-            ("speed", "속도"),
+            ("mechanism_type", "유형", "Type"),
+            ("formality", "형식성", "Formality"),
+            ("speed", "속도", "Speed"),
         ],
         "concept": [
-            ("title_ko", "한국어"), ("concept_category", "분류"),
-            ("domain", "분야"),
+            ("title_ko", "한국어", "Korean"),
+            ("concept_category", "분류", "Category"),
+            ("domain", "분야", "Domain"),
         ],
         "source": [
-            ("source_type", "출처유형"), ("publisher", "발행처"),
-            ("publish_date", "발행일"), ("reliability", "신뢰도"),
-            ("credibility", "신빙성"),
+            ("source_type", "출처유형", "Source Type"),
+            ("publisher", "발행처", "Publisher"),
+            ("publish_date", "발행일", "Pub Date"),
+            ("reliability", "신뢰도", "Reliability"),
+            ("credibility", "신빙성", "Credibility"),
         ],
         "crime-type": [
-            ("crime_category", "분류"),
+            ("crime_category", "분류", "Category"),
         ],
     }
 
-    for field, label in field_map.get(page_type, []):
+    for entry in field_map.get(page_type, []):
+        field, label_ko, label_en = entry
         val = meta.get(field)
         if val and val not in ("", 0, [], {}):
             if isinstance(val, dict):
@@ -222,42 +400,43 @@ def build_infobox(meta, page_type):
                 val = ", ".join(parts[:3])
             if isinstance(val, list):
                 val = ", ".join(str(v) for v in val[:5])
-            infobox.append((label, str(val)))
+            infobox.append((label_ko, label_en, str(val), str(val)))
 
     # Metrics (for operations)
     metrics = meta.get("metrics") or meta.get("results")
     if isinstance(metrics, dict):
         metric_labels = {
-            "arrests": "체포", "servers_seized": "서버 압수",
-            "domains_seized": "도메인 압수",
-            "cryptocurrency_seized": "암호화폐 압수",
-            "participating_countries": "참여국",
-            "participating_agencies": "참여기관",
-            "financial_seized": "금융 압수",
+            "arrests": ("체포", "Arrests"),
+            "servers_seized": ("서버 압수", "Servers Seized"),
+            "domains_seized": ("도메인 압수", "Domains Seized"),
+            "cryptocurrency_seized": ("암호화폐 압수", "Crypto Seized"),
+            "participating_countries": ("참여국", "Countries"),
+            "participating_agencies": ("참여기관", "Agencies"),
+            "financial_seized": ("금융 압수", "Financial Seized"),
         }
-        for key, label in metric_labels.items():
+        for key, (label_ko, label_en) in metric_labels.items():
             v = metrics.get(key)
             if v and v not in (0, "", "0"):
-                infobox.append((label, str(v)))
+                infobox.append((label_ko, label_en, str(v), str(v)))
 
     # Parties (for legal frameworks)
     parties = meta.get("parties")
     if isinstance(parties, dict):
         sp = parties.get("states_parties")
         if sp:
-            infobox.append(("당사국", str(sp)))
+            infobox.append(("당사국", "Parties", str(sp), str(sp)))
 
     # IC capacity (for countries)
     ic = meta.get("ic_capacity")
     if isinstance(ic, dict):
         rating = ic.get("rating")
         if rating:
-            infobox.append(("공조 역량", rating))
+            infobox.append(("공조 역량", "IC Capacity", rating, rating))
 
     # Source count
     sc = meta.get("source_count")
     if sc:
-        infobox.append(("출처 수", str(sc)))
+        infobox.append(("출처 수", "Sources", str(sc), str(sc)))
 
     return infobox
 

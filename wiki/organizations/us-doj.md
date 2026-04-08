@@ -1,57 +1,66 @@
 ---
-type: organization
-title: "US Department of Justice (DOJ)"
-official_name: "United States Department of Justice"
-official_name_ko: "미국 법무부"
-aliases: ["DOJ", "US DOJ", "Justice Department", "USDOJ"]
-org_type: "national-agency"
-parent_org: ""
-country: "[[united-states]]"
-headquarters: "Washington, D.C., United States"
-established: "1870-07-01"
-mandate: "Enforce federal law, administer justice, and ensure public safety; central authority for US MLATs; lead federal cybercrime prosecution through CCIPS and US Attorney's Offices."
-member_states: 0
-key_roles:
-  - "Central authority for all US bilateral MLATs"
-  - "Federal cybercrime prosecution (CCIPS)"
-  - "International extradition processing (OIA)"
-  - "Budapest Convention 24/7 contact point (CCIPS)"
-  - "Policy coordination for international cybercrime cooperation"
-  - "Asset forfeiture and recovery in cybercrime cases"
-cooperation_partners:
-  - "[[fbi-cyber-division]]"
-  - "[[europol-ec3]]"
-  - "[[eurojust]]"
-  - "[[uk-nca]]"
-  - "[[germany-bka]]"
-frameworks_administered: []
-mechanisms_operated:
-  - "[[mlat-process]]"
-operations_participated:
-  - "[[operation-cronos-phase1]]"
-  - "[[operation-cronos-phase3]]"
-  - "[[phobos-8base-crackdown]]"
-  - "[[qakbot-gallyamov-indictment]]"
-  - "[[operation-endgame-phase1]]"
-  - "[[operation-endgame-phase2]]"
-  - "[[operation-checkmate-blacksuit]]"
-  - "[[isoon-apt27-indictment]]"
-  - "[[hive-ransomware-takedown]]"
-  - "[[infraud-organization-takedown]]"
-  - "[[911-s5-botnet-takedown]]"
-  - "[[operation-shrouded-horizon]]"
-  - "[[goznym-takedown]]"
-  - "[[fin7-takedown]]"
-notable_cases: []
+aliases:
+- DOJ
+- US DOJ
+- Justice Department
+- USDOJ
 contact_point_for:
-  - network: "[[24-7-network]]"
-    role: "Budapest Convention Art. 35 contact point (USA) — via CCIPS"
-  - network: "[[mlat-process]]"
-    role: "Central authority for all US MLATs — via OIA"
+- network: '[[24-7-network]]'
+  role: Budapest Convention Art. 35 contact point (USA) — via CCIPS
+- network: '[[mlat-process]]'
+  role: Central authority for all US MLATs — via OIA
+cooperation_partners:
+- '[[fbi-cyber-division]]'
+- '[[europol-ec3]]'
+- '[[eurojust]]'
+- '[[uk-nca]]'
+- '[[germany-bka]]'
+country: '[[united-states]]'
+created: 2026-04-08
+established: '1870-07-01'
+frameworks_administered: []
+headquarters: Washington, D.C., United States
+key_roles:
+- Central authority for all US bilateral MLATs
+- Federal cybercrime prosecution (CCIPS)
+- International extradition processing (OIA)
+- Budapest Convention 24/7 contact point (CCIPS)
+- Policy coordination for international cybercrime cooperation
+- Asset forfeiture and recovery in cybercrime cases
+mandate: Enforce federal law, administer justice, and ensure public safety; central
+  authority for US MLATs; lead federal cybercrime prosecution through CCIPS and US
+  Attorney's Offices.
+mechanisms_operated:
+- '[[mlat-process]]'
+member_states: 0
+notable_cases: []
+official_name: United States Department of Justice
+official_name_ko: 미국 법무부
+operations_participated:
+- '[[911-s5-botnet-takedown]]'
+- '[[fin7-takedown]]'
+- '[[goznym-takedown]]'
+- '[[hive-ransomware-takedown]]'
+- '[[infraud-organization-takedown]]'
+- '[[infraud-telusma-sentencing]]'
+- '[[isoon-apt27-indictment]]'
+- '[[marketplace-a-dekhtyarchuk-indictment]]'
+- '[[nigerian-bec-convictions-2023]]'
+- '[[operation-checkmate-blacksuit]]'
+- '[[operation-cronos-phase1]]'
+- '[[operation-cronos-phase3]]'
+- '[[operation-endgame-phase1]]'
+- '[[operation-endgame-phase2]]'
+- '[[operation-shrouded-horizon]]'
+- '[[phobos-8base-crackdown]]'
+- '[[qakbot-gallyamov-indictment]]'
+org_type: national-agency
+parent_org: ''
 source_count: 0
 sources: []
-created: 2026-04-08
-updated: 2026-04-08
+title: US Department of Justice (DOJ)
+type: organization
+updated: '2026-04-09'
 ---
 
 ## Summary

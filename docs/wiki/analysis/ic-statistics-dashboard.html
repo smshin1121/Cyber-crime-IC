@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html lang="ko">
+<html lang="ko" class="lang-ko">
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
@@ -11,22 +11,28 @@
 <body>
   <nav class="top-nav">
     <div class="top-nav-inner">
-      <a href="../../" class="nav-logo">🌐 사이버범죄 국제공조 위키</a>
+      <a href="../../" class="nav-logo">
+        <span class="i18n" data-ko="🌐 사이버범죄 국제공조 위키" data-en="🌐 Cybercrime IC Wiki"></span>
+      </a>
       <div class="nav-links">
-        <a href="../../category/operations.html">작전</a>
-        <a href="../../category/organizations.html">기관</a>
-        <a href="../../category/countries.html">국가</a>
-        <a href="../../category/legal-frameworks.html">법적 프레임워크</a>
-        <a href="../../category/mechanisms.html">메커니즘</a>
-        <a href="../../category/crime-types.html">범죄유형</a>
-        <a href="../../category/concepts.html">개념</a>
-        <a href="../../category/sources.html">출처</a>
-        <a href="../../stats.html">통계</a>
+        <a href="../../category/operations.html"><span class="i18n" data-ko="작전" data-en="Operations"></span></a>
+        <a href="../../category/organizations.html"><span class="i18n" data-ko="기관" data-en="Organizations"></span></a>
+        <a href="../../category/countries.html"><span class="i18n" data-ko="국가" data-en="Countries"></span></a>
+        <a href="../../category/legal-frameworks.html"><span class="i18n" data-ko="법적 프레임워크" data-en="Legal Frameworks"></span></a>
+        <a href="../../category/mechanisms.html"><span class="i18n" data-ko="메커니즘" data-en="Mechanisms"></span></a>
+        <a href="../../category/crime-types.html"><span class="i18n" data-ko="범죄유형" data-en="Crime Types"></span></a>
+        <a href="../../category/concepts.html"><span class="i18n" data-ko="개념" data-en="Concepts"></span></a>
+        <a href="../../category/sources.html"><span class="i18n" data-ko="출처" data-en="Sources"></span></a>
+        <a href="../../stats.html"><span class="i18n" data-ko="통계" data-en="Statistics"></span></a>
       </div>
       <form class="nav-search" action="../../search.html" method="get">
-        <input type="text" name="q" placeholder="위키 검색..." value="">
-        <button type="submit">검색</button>
+        <input type="text" name="q" class="i18n-placeholder" data-ko="위키 검색..." data-en="Search wiki..." value="">
+        <button type="submit"><span class="i18n" data-ko="검색" data-en="Search"></span></button>
       </form>
+      <button class="lang-toggle" id="langToggle" title="한국어/English">
+        <span class="lang-flag lang-flag-ko">🇰🇷 한</span>
+        <span class="lang-flag lang-flag-en">🇺🇸 EN</span>
+      </button>
     </div>
   </nav>
 
@@ -34,23 +40,35 @@
 <div class="page-wrapper">
   <main class="article">
     <div class="article-header">
-      <h1>사이버범죄 국제공조 통계 대시보드</h1>
+      <h1>
+        
+          사이버범죄 국제공조 통계 대시보드
+        
+      </h1>
       <div class="article-meta">
         
-          <span class="badge">analysis</span>
+          <span class="badge">
+            <span class="i18n" data-ko="analysis" data-en="analysis"></span>
+          </span>
         
         
-          <span><a href="../../category/analysis.html">분석</a></span>
+          <span><a href="../../category/analysis.html">
+            <span class="i18n"
+              data-ko="분석"
+              data-en="Analysis"></span>
+          </a></span>
         
         
-          <span>최종 수정: 2026-04-08</span>
+          <span>
+            <span class="i18n" data-ko="최종 수정" data-en="Updated"></span>: 2026-04-09
+          </span>
         
         
       </div>
     </div>
     <div class="article-body">
       <h1 id="_1">사이버범죄 국제공조 통계 대시보드</h1>
-<div class="callout callout-info"><div class="callout-title">ℹ️ 이 페이지의 모든 데이터는 위키에 수집된 82개 작전과 23개 출처 페이지에서 도출되었습니다. 작전 전체 목록은 <a href="../../category/operations.html" class="wikilink">operations/_index</a>를 참조하십시오.</div><div class="callout-body"></div></div>
+<div class="callout callout-info"><div class="callout-title">ℹ️ 이 페이지의 모든 데이터는 위키에 수집된 82개 작전과 149개 출처 페이지에서 도출되었습니다. 작전 전체 목록은 <a href="../../category/operations.html" class="wikilink">operations/_index</a>를 참조하십시오.</div><div class="callout-body"></div></div>
 <hr />
 <h2 id="1">1. 작전 집계 통계</h2>
 <h3 id="_2">전체 현황</h3>
@@ -80,11 +98,7 @@
 </tr>
 <tr>
 <td>총 출처 수</td>
-<td>23 (dedicated pages) + Excel 소스</td>
-</tr>
-<tr>
-<td>최고 CI</td>
-<td>3.62 (Operation Shrouded Horizon, Operation Falcon, GozNym Takedown)</td>
+<td>149 (dedicated pages) + Excel 소스</td>
 </tr>
 </tbody>
 </table>
@@ -110,13 +124,13 @@
 </tr>
 <tr>
 <td>DOJ / FBI (미국 주도)</td>
-<td>3 (조정) + 9 (주도)</td>
-<td>조정기관 미등재 포함 시 12건; 기소·압수 중심</td>
+<td>3</td>
+<td>기소·압수 중심</td>
 </tr>
 <tr>
 <td>AFRIPOL</td>
 <td>3</td>
-<td>Serengeti, Sentinel, Red Card 공동 조정</td>
+<td>아프리카 공동 조정</td>
 </tr>
 <tr>
 <td>Eurojust</td>
@@ -126,7 +140,7 @@
 <tr>
 <td>양자/기타 (조정기관 없음)</td>
 <td>16</td>
-<td>한국 양자작전 2건 포함; DOJ 단독 기소 다수</td>
+<td>한국 양자작전 포함; 단독 기소 다수</td>
 </tr>
 </tbody>
 </table>
@@ -275,37 +289,37 @@
 </thead>
 <tbody>
 <tr>
-<td><a href="../../wiki/_missing/ransomware-ic\.html" class="wikilink wikilink-missing">랜섬웨어</a></td>
+<td><a href="../../wiki/crime-types/ransomware-ic.html" class="wikilink">랜섬웨어</a></td>
 <td>7+</td>
 <td>Cronos Ph1/Ph3, Endgame Ph1/Ph2, Phobos, Checkmate, QakBot</td>
 <td>Europol, DOJ</td>
 </tr>
 <tr>
-<td><a href="../../wiki/_missing/online-fraud-ic\.html" class="wikilink wikilink-missing">온라인 사기</a></td>
+<td><a href="../../wiki/crime-types/online-fraud-ic.html" class="wikilink">온라인 사기</a></td>
 <td>7+</td>
 <td>HAECHI IV/V/VI, Serengeti, First Light, Jackal/III</td>
 <td>INTERPOL</td>
 </tr>
 <tr>
-<td><a href="../../wiki/_missing/bec-ic\.html" class="wikilink wikilink-missing">BEC</a></td>
+<td><a href="../../wiki/crime-types/bec-ic.html" class="wikilink">BEC</a></td>
 <td>8+</td>
 <td>Franco-Israeli, Jackal, Jackal III, Sentinel, HAECHI IV/V/VI, First Light</td>
 <td>Europol, INTERPOL</td>
 </tr>
 <tr>
-<td><a href="../../wiki/_missing/voice-phishing-ic\.html" class="wikilink wikilink-missing">보이스피싱</a></td>
+<td><a href="../../wiki/crime-types/voice-phishing-ic.html" class="wikilink">보이스피싱</a></td>
 <td>6+</td>
 <td>Korea-China Qingdao, HAECHI IV/V/VI, First Light, Korea-Cambodia</td>
 <td>INTERPOL, 한국 양자</td>
 </tr>
 <tr>
-<td><a href="../../wiki/_missing/hacking-ic\.html" class="wikilink wikilink-missing">해킹</a></td>
+<td><a href="../../wiki/crime-types/hacking-ic.html" class="wikilink">해킹</a></td>
 <td>1+</td>
 <td>i-Soon/APT27</td>
 <td>DOJ</td>
 </tr>
 <tr>
-<td><a href="../../wiki/_missing/csam-ic\.html" class="wikilink wikilink-missing">CSAM</a></td>
+<td><a href="../../wiki/crime-types/csam-ic.html" class="wikilink">CSAM</a></td>
 <td>3</td>
 <td>Operation Stream/Kidflix, Cyber Guardian, Orion International</td>
 <td>Europol, 한국, INTERPOL</td>
@@ -439,18 +453,18 @@
 <tbody>
 <tr>
 <td>법적 프레임워크</td>
-<td>1</td>
-<td>부다페스트 협약. UN 협약 등 추가 필요</td>
+<td>4</td>
+<td>부다페스트 협약 등</td>
 </tr>
 <tr>
 <td>기관</td>
-<td>7</td>
-<td>주요 기관 커버. 아시아·아프리카 기관 확장 필요</td>
+<td>12</td>
+<td>주요 기관</td>
 </tr>
 <tr>
 <td>국가</td>
-<td>1</td>
-<td>한국만. 미국·영국·독일 등 추가 필요</td>
+<td>9</td>
+<td>국가 프로필</td>
 </tr>
 <tr>
 <td>작전</td>
@@ -459,38 +473,38 @@
 </tr>
 <tr>
 <td>메커니즘</td>
-<td>2</td>
-<td>MLAT, 24/7 Network. JIT 등 추가 필요</td>
+<td>4</td>
+<td>공조 메커니즘</td>
 </tr>
 <tr>
 <td>범죄유형</td>
 <td>6</td>
-<td>랜섬웨어, BEC, 보이스피싱, 온라인사기, 해킹, CSAM</td>
+<td>문서화된 범죄유형</td>
 </tr>
 <tr>
 <td>개념</td>
-<td>2</td>
-<td>쌍방가벌성, 영토주의</td>
+<td>5</td>
+<td>법적 개념</td>
 </tr>
 <tr>
 <td>출처</td>
-<td>23</td>
-<td>Europol 6, INTERPOL 10, DOJ 3, Korea NPA 1, 뉴스 3</td>
+<td>149</td>
+<td>전용 출처 페이지</td>
 </tr>
 <tr>
 <td>분석</td>
 <td>1</td>
-<td>본 대시보드</td>
+<td>본 대시보드 포함</td>
 </tr>
 <tr>
 <td><strong>총 페이지</strong></td>
-<td><strong>129</strong></td>
+<td><strong>276</strong></td>
 <td>_index 파일 및 메타파일 제외</td>
 </tr>
 </tbody>
 </table>
 <hr />
-<h2 id="references">References</h2>
+<h2 id="references"><span class="heading-ko">참고문헌</span><span class="heading-en">References</span></h2>
 <table>
 <thead>
 <tr>
@@ -507,161 +521,161 @@
 <td>Franco-Israeli CEO fraud gang dismantled</td>
 <td>Europol</td>
 <td>2023-02-08</td>
-<td><a href="https://www.europol.europa.eu/media-press/newsroom/news/franco-israeli-gang-behind-eur-38-million-ceo-fraud-busted">원본</a></td>
+<td><a href="https://www.europol.europa.eu/media-press/newsroom/news/franco-israeli-gang-behind-eur-38-million-ceo-fraud-busted" target="_blank" rel="noopener noreferrer">원본</a></td>
 </tr>
 <tr>
 <td>[2]</td>
 <td>Operation Jackal: Black Axe BEC</td>
 <td>INTERPOL</td>
 <td>2023-06-06</td>
-<td><a href="https://www.interpol.int/News-and-Events/News/2023/Closing-ranks-on-West-African-organized-crime-more-than-EUR-2-million-seized-in-Operation-Jackal">원본</a></td>
+<td><a href="https://www.interpol.int/News-and-Events/News/2023/Closing-ranks-on-West-African-organized-crime-more-than-EUR-2-million-seized-in-Operation-Jackal" target="_blank" rel="noopener noreferrer">원본</a></td>
 </tr>
 <tr>
 <td>[3]</td>
 <td>Korea-China voice phishing joint operation</td>
 <td>Korea Times</td>
 <td>2023-09-08</td>
-<td><a href="https://www.koreatimes.co.kr/www/nation/2024/07/113_358692.html">원본</a></td>
+<td><a href="https://www.koreatimes.co.kr/www/nation/2024/07/113_358692.html" target="_blank" rel="noopener noreferrer">원본</a></td>
 </tr>
 <tr>
 <td>[4]</td>
 <td>Operation HAECHI IV</td>
 <td>INTERPOL</td>
 <td>2023-12-19</td>
-<td><a href="https://www.interpol.int/News-and-Events/News/2023/USD-300-million-seized-and-3-500-suspects-arrested-in-international-financial-crime-operation">원본</a></td>
+<td><a href="https://www.interpol.int/News-and-Events/News/2023/USD-300-million-seized-and-3-500-suspects-arrested-in-international-financial-crime-operation" target="_blank" rel="noopener noreferrer">원본</a></td>
 </tr>
 <tr>
 <td>[5]</td>
 <td>Operation Cronos: LockBit disrupted</td>
 <td>Europol</td>
 <td>2024-02-20</td>
-<td><a href="https://www.europol.europa.eu/media-press/newsroom/news/law-enforcement-disrupt-worlds-biggest-ransomware-operation">원본</a></td>
+<td><a href="https://www.europol.europa.eu/media-press/newsroom/news/law-enforcement-disrupt-worlds-biggest-ransomware-operation" target="_blank" rel="noopener noreferrer">원본</a></td>
 </tr>
 <tr>
 <td>[6]</td>
 <td>Operation First Light 2024</td>
 <td>INTERPOL</td>
 <td>2024-06-18</td>
-<td><a href="https://www.interpol.int/News-and-Events/News/2024/USD-257-million-seized-in-global-police-crackdown-against-online-scams">원본</a></td>
+<td><a href="https://www.interpol.int/News-and-Events/News/2024/USD-257-million-seized-in-global-police-crackdown-against-online-scams" target="_blank" rel="noopener noreferrer">원본</a></td>
 </tr>
 <tr>
 <td>[7]</td>
 <td>Operation Endgame: botnet takedown</td>
 <td>Europol</td>
 <td>2024-05-30</td>
-<td><a href="https://www.europol.europa.eu/media-press/newsroom/news/largest-ever-operation-against-botnets-hits-dropper-malware-ecosystem">원본</a></td>
+<td><a href="https://www.europol.europa.eu/media-press/newsroom/news/largest-ever-operation-against-botnets-hits-dropper-malware-ecosystem" target="_blank" rel="noopener noreferrer">원본</a></td>
 </tr>
 <tr>
 <td>[8]</td>
 <td>Operation Jackal III: Black Axe BEC</td>
 <td>INTERPOL</td>
 <td>2024-08-28</td>
-<td><a href="https://www.interpol.int/en/News-and-Events/News/2024/INTERPOL-operation-strikes-major-blow-against-West-African-financial-crime">원본</a></td>
+<td><a href="https://www.interpol.int/en/News-and-Events/News/2024/INTERPOL-operation-strikes-major-blow-against-West-African-financial-crime" target="_blank" rel="noopener noreferrer">원본</a></td>
 </tr>
 <tr>
 <td>[9]</td>
 <td>Operation Synergia II</td>
 <td>INTERPOL</td>
 <td>2024-11-06</td>
-<td><a href="https://www.interpol.int/News-and-Events/News/2024/INTERPOL-cyber-operation-takes-down-22-000-malicious-IP-addresses">원본</a></td>
+<td><a href="https://www.interpol.int/News-and-Events/News/2024/INTERPOL-cyber-operation-takes-down-22-000-malicious-IP-addresses" target="_blank" rel="noopener noreferrer">원본</a></td>
 </tr>
 <tr>
 <td>[10]</td>
 <td>Operation Cronos Phase 3</td>
 <td>Europol</td>
 <td>2024-10-01</td>
-<td><a href="https://www.europol.europa.eu/media-press/newsroom/news/lockbit-power-cut-four-new-arrests-and-financial-sanctions-against-affiliates">원본</a></td>
+<td><a href="https://www.europol.europa.eu/media-press/newsroom/news/lockbit-power-cut-four-new-arrests-and-financial-sanctions-against-affiliates" target="_blank" rel="noopener noreferrer">원본</a></td>
 </tr>
 <tr>
 <td>[11]</td>
 <td>Operation Serengeti</td>
 <td>INTERPOL</td>
 <td>2024-11-26</td>
-<td><a href="https://www.interpol.int/en/News-and-Events/News/2024/Major-cybercrime-operation-nets-1-006-suspects">원본</a></td>
+<td><a href="https://www.interpol.int/en/News-and-Events/News/2024/Major-cybercrime-operation-nets-1-006-suspects" target="_blank" rel="noopener noreferrer">원본</a></td>
 </tr>
 <tr>
 <td>[12]</td>
 <td>Operation HAECHI V</td>
 <td>INTERPOL</td>
 <td>2024-12-02</td>
-<td><a href="https://www.interpol.int/News-and-Events/News/2024/INTERPOL-financial-crime-operation-makes-record-5-500-arrests-seizures-worth-over-USD-400-million">원본</a></td>
+<td><a href="https://www.interpol.int/News-and-Events/News/2024/INTERPOL-financial-crime-operation-makes-record-5-500-arrests-seizures-worth-over-USD-400-million" target="_blank" rel="noopener noreferrer">원본</a></td>
 </tr>
 <tr>
 <td>[13]</td>
 <td>Phobos/8Base ransomware arrests</td>
 <td>Europol</td>
 <td>2025-02-11</td>
-<td><a href="https://www.europol.europa.eu/media-press/newsroom/news/key-figures-behind-phobos-and-8base-ransomware-arrested-in-international-cybercrime-crackdown">원본</a></td>
+<td><a href="https://www.europol.europa.eu/media-press/newsroom/news/key-figures-behind-phobos-and-8base-ransomware-arrested-in-international-cybercrime-crackdown" target="_blank" rel="noopener noreferrer">원본</a></td>
 </tr>
 <tr>
 <td>[14]</td>
 <td>i-Soon/APT27 indictment</td>
 <td>US DOJ</td>
 <td>2025-03-05</td>
-<td><a href="https://www.justice.gov/opa/pr/justice-department-charges-12-chinese-contract-hackers-and-law-enforcement-officers-global">원본</a></td>
+<td><a href="https://www.justice.gov/opa/pr/justice-department-charges-12-chinese-contract-hackers-and-law-enforcement-officers-global" target="_blank" rel="noopener noreferrer">원본</a></td>
 </tr>
 <tr>
 <td>[15]</td>
 <td>Operation Endgame Phase 2</td>
 <td>Europol</td>
 <td>2025-05-23</td>
-<td><a href="https://www.europol.europa.eu/media-press/newsroom/news/operation-endgame-strikes-again-ransomware-kill-chain-broken-its-source">원본</a></td>
+<td><a href="https://www.europol.europa.eu/media-press/newsroom/news/operation-endgame-strikes-again-ransomware-kill-chain-broken-its-source" target="_blank" rel="noopener noreferrer">원본</a></td>
 </tr>
 <tr>
 <td>[16]</td>
 <td>QakBot/Gallyamov indictment</td>
 <td>US DOJ</td>
 <td>2025-05-22</td>
-<td><a href="https://www.justice.gov/opa/pr/leader-qakbot-malware-conspiracy-indictment-involvement-global-ransomware-scheme">원본</a></td>
+<td><a href="https://www.justice.gov/opa/pr/leader-qakbot-malware-conspiracy-indictment-involvement-global-ransomware-scheme" target="_blank" rel="noopener noreferrer">원본</a></td>
 </tr>
 <tr>
 <td>[17]</td>
 <td>Operation Checkmate: BlackSuit</td>
 <td>US DOJ</td>
 <td>2025-08-11</td>
-<td><a href="https://www.justice.gov/opa/pr/justice-department-announces-coordinated-disruption-actions-against-blacksuit-royal">원본</a></td>
+<td><a href="https://www.justice.gov/opa/pr/justice-department-announces-coordinated-disruption-actions-against-blacksuit-royal" target="_blank" rel="noopener noreferrer">원본</a></td>
 </tr>
 <tr>
 <td>[18]</td>
 <td>Operation HAECHI VI</td>
 <td>INTERPOL</td>
 <td>2025-09-25</td>
-<td><a href="https://www.interpol.int/en/News-and-Events/News/2025/USD-439-million-recovered-in-global-financial-crime-operation">원본</a></td>
+<td><a href="https://www.interpol.int/en/News-and-Events/News/2025/USD-439-million-recovered-in-global-financial-crime-operation" target="_blank" rel="noopener noreferrer">원본</a></td>
 </tr>
 <tr>
 <td>[19]</td>
 <td>Korea-Cambodia scam centre repatriation</td>
 <td>Al Jazeera / Korea Herald</td>
 <td>2025-10-18</td>
-<td><a href="https://www.aljazeera.com/news/2025/10/20/south-korea-police-seek-warrants-for-repatriated-scam-centre-suspects">원본</a></td>
+<td><a href="https://www.aljazeera.com/news/2025/10/20/south-korea-police-seek-warrants-for-repatriated-scam-centre-suspects" target="_blank" rel="noopener noreferrer">원본</a></td>
 </tr>
 <tr>
 <td>[20]</td>
 <td>Operation Sentinel Africa</td>
 <td>INTERPOL</td>
 <td>2025-12-22</td>
-<td><a href="https://www.interpol.int/en/News-and-Events/News/2025/574-arrests-and-USD-3-million-recovered-in-coordinated-cybercrime-operation-across-Africa">원본</a></td>
+<td><a href="https://www.interpol.int/en/News-and-Events/News/2025/574-arrests-and-USD-3-million-recovered-in-coordinated-cybercrime-operation-across-Africa" target="_blank" rel="noopener noreferrer">원본</a></td>
 </tr>
 <tr>
 <td>[21]</td>
 <td>Operation Orion International</td>
 <td>INTERPOL</td>
 <td>2024-10-15</td>
-<td><a href="https://www.interpol.int/en/News-and-Events/News/2024/INTERPOL-operation-leads-to-arrests-rescue-of-children">원본</a></td>
+<td><a href="https://www.interpol.int/en/News-and-Events/News/2024/INTERPOL-operation-leads-to-arrests-rescue-of-children" target="_blank" rel="noopener noreferrer">원본</a></td>
 </tr>
 <tr>
 <td>[22]</td>
 <td>Operation Stream / Kidflix</td>
 <td>Security Affairs / TRM Labs</td>
 <td>2025-04-04</td>
-<td><a href="https://securityaffairs.com/176270/cyber-crime/operation-stream-kidflix-takedown.html">원본</a></td>
+<td><a href="https://securityaffairs.com/176270/cyber-crime/operation-stream-kidflix-takedown.html" target="_blank" rel="noopener noreferrer">원본</a></td>
 </tr>
 <tr>
 <td>[23]</td>
 <td>Operation Cyber Guardian</td>
 <td>Korea NPA / Seoul Shinmun</td>
 <td>2025-04-07</td>
-<td><a href="https://www.seoul.co.kr/news/society/2025/04/07/20250407500065">원본</a></td>
+<td><a href="https://www.seoul.co.kr/news/society/2025/04/07/20250407500065" target="_blank" rel="noopener noreferrer">원본</a></td>
 </tr>
 </tbody>
 </table>
@@ -672,14 +686,14 @@
     
 
     <div class="cat-nav">
-      <h3>카테고리</h3>
+      <h3><span class="i18n" data-ko="카테고리" data-en="Categories"></span></h3>
       <ul>
         
         <li>
           📜
           <a href="../../category/legal-frameworks.html"
              >
-            법적 프레임워크
+            <span class="i18n" data-ko="법적 프레임워크" data-en="Legal Frameworks"></span>
           </a>
         </li>
         
@@ -687,7 +701,7 @@
           🏛️
           <a href="../../category/organizations.html"
              >
-            기관
+            <span class="i18n" data-ko="기관" data-en="Organizations"></span>
           </a>
         </li>
         
@@ -695,7 +709,7 @@
           🌍
           <a href="../../category/countries.html"
              >
-            국가
+            <span class="i18n" data-ko="국가" data-en="Countries"></span>
           </a>
         </li>
         
@@ -703,7 +717,7 @@
           🎯
           <a href="../../category/operations.html"
              >
-            작전
+            <span class="i18n" data-ko="작전" data-en="Operations"></span>
           </a>
         </li>
         
@@ -711,7 +725,7 @@
           ⚖️
           <a href="../../category/cases.html"
              >
-            사건
+            <span class="i18n" data-ko="사건" data-en="Cases"></span>
           </a>
         </li>
         
@@ -719,7 +733,7 @@
           🔗
           <a href="../../category/mechanisms.html"
              >
-            공조 메커니즘
+            <span class="i18n" data-ko="공조 메커니즘" data-en="Mechanisms"></span>
           </a>
         </li>
         
@@ -727,7 +741,7 @@
           📋
           <a href="../../category/procedures.html"
              >
-            절차
+            <span class="i18n" data-ko="절차" data-en="Procedures"></span>
           </a>
         </li>
         
@@ -735,7 +749,7 @@
           🔒
           <a href="../../category/crime-types.html"
              >
-            범죄유형
+            <span class="i18n" data-ko="범죄유형" data-en="Crime Types"></span>
           </a>
         </li>
         
@@ -743,7 +757,7 @@
           ⚠️
           <a href="../../category/challenges.html"
              >
-            과제
+            <span class="i18n" data-ko="과제" data-en="Challenges"></span>
           </a>
         </li>
         
@@ -751,7 +765,7 @@
           📖
           <a href="../../category/concepts.html"
              >
-            법적 개념
+            <span class="i18n" data-ko="법적 개념" data-en="Concepts"></span>
           </a>
         </li>
         
@@ -759,7 +773,7 @@
           📰
           <a href="../../category/sources.html"
              >
-            출처
+            <span class="i18n" data-ko="출처" data-en="Sources"></span>
           </a>
         </li>
         
@@ -767,7 +781,7 @@
           📊
           <a href="../../category/analysis.html"
              style="font-weight:700">
-            분석
+            <span class="i18n" data-ko="분석" data-en="Analysis"></span>
           </a>
         </li>
         
@@ -775,7 +789,7 @@
           📅
           <a href="../../category/timelines.html"
              >
-            타임라인
+            <span class="i18n" data-ko="타임라인" data-en="Timelines"></span>
           </a>
         </li>
         
@@ -786,9 +800,57 @@
 
 
   <div class="footer">
-    사이버범죄 국제공조 위키 &mdash; LLM Wiki Pattern &mdash;
-    Powered by <a href="https://obsidian.md">Obsidian</a> + Flask &mdash;
-    2026-04-09 기준 데이터
+    <span class="i18n"
+      data-ko="사이버범죄 국제공조 위키 &mdash; LLM Wiki Pattern &mdash; 2026-04-09 기준 데이터"
+      data-en="Cybercrime International Cooperation Wiki &mdash; LLM Wiki Pattern &mdash; Data as of 2026-04-09">
+    </span>
   </div>
+
+  <script>
+  (function() {
+    // Language toggle system — Korean default
+    var STORAGE_KEY = 'wiki-lang';
+
+    function getLang() {
+      return localStorage.getItem(STORAGE_KEY) || 'ko';
+    }
+
+    function setLang(lang) {
+      localStorage.setItem(STORAGE_KEY, lang);
+      applyLang(lang);
+    }
+
+    function applyLang(lang) {
+      var html = document.documentElement;
+      html.classList.remove('lang-ko', 'lang-en');
+      html.classList.add('lang-' + lang);
+      html.setAttribute('lang', lang === 'ko' ? 'ko' : 'en');
+
+      // Update i18n text content
+      document.querySelectorAll('.i18n').forEach(function(el) {
+        var text = el.getAttribute('data-' + lang);
+        if (text) el.innerHTML = text;
+      });
+
+      // Update i18n placeholders
+      document.querySelectorAll('.i18n-placeholder').forEach(function(el) {
+        var text = el.getAttribute('data-' + lang);
+        if (text) el.setAttribute('placeholder', text);
+      });
+    }
+
+    // Toggle button
+    var btn = document.getElementById('langToggle');
+    if (btn) {
+      btn.addEventListener('click', function() {
+        var current = getLang();
+        setLang(current === 'ko' ? 'en' : 'ko');
+      });
+    }
+
+    // Apply saved language on load
+    applyLang(getLang());
+  })();
+  </script>
 </body>
 </html>

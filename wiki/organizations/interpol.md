@@ -1,63 +1,76 @@
 ---
-type: organization
-title: "INTERPOL (International Criminal Police Organization)"
-official_name: "International Criminal Police Organization — INTERPOL"
-official_name_ko: "국제형사경찰기구 (인터폴)"
-aliases: ["ICPO-INTERPOL", "ICPO", "인터폴"]
-org_type: "international-org"
-parent_org: ""
-country: ""
-headquarters: "Lyon, France"
-established: "1923-09-07"
-mandate: "Enable police cooperation across 196 member countries through secure communications (I-24/7), databases, operational support, training, and capacity building to combat transnational crime."
-member_states: 196
-key_roles:
-  - "Global police communications network (I-24/7)"
-  - "International notice system (Red, Blue, Purple Notices)"
-  - "Operational coordination for multinational operations"
-  - "Criminal databases (stolen documents, fingerprints, DNA, facial recognition)"
-  - "Capacity building and training"
-  - "Cybercrime operations through IGCI subsidiary"
-cooperation_partners:
-  - "[[europol-ec3]]"
-  - "[[afripol]]"
-  - "[[fbi-cyber-division]]"
-  - "[[uk-nca]]"
-  - "[[knpa-cyber-bureau]]"
-frameworks_administered: []
-mechanisms_operated:
-  - "[[interpol-i24-7]]"
-  - "[[interpol-notices]]"
-  - "[[interpol-i-grip]]"
-operations_participated:
-  - "[[operation-haechi-iv]]"
-  - "[[operation-haechi-v]]"
-  - "[[operation-haechi-vi]]"
-  - "[[operation-jackal]]"
-  - "[[operation-jackal-iii]]"
-  - "[[operation-serengeti]]"
-  - "[[operation-sentinel-africa]]"
-  - "[[operation-synergia-ii]]"
-  - "[[operation-first-light-2024]]"
-  - "[[operation-cyber-guardian]]"
-  - "[[operation-falcon]]"
-  - "[[operation-killer-bee]]"
-  - "[[operation-red-card]]"
-  - "[[africa-cyber-surge-ii]]"
-  - "[[operation-goldfish-alpha-night-fury]]"
-  - "[[operation-haechi-ii]]"
-  - "[[operation-lyrebird]]"
-  - "[[operation-secure-interpol]]"
-notable_cases: []
+aliases:
+- ICPO-INTERPOL
+- ICPO
+- 인터폴
 contact_point_for:
-  - network: "[[interpol-i24-7]]"
-    role: "Operator and administrator"
-  - network: "[[interpol-notices]]"
-    role: "Issuing authority for international notices"
+- network: '[[interpol-i24-7]]'
+  role: Operator and administrator
+- network: '[[interpol-notices]]'
+  role: Issuing authority for international notices
+cooperation_partners:
+- '[[europol-ec3]]'
+- '[[afripol]]'
+- '[[fbi-cyber-division]]'
+- '[[uk-nca]]'
+- '[[knpa-cyber-bureau]]'
+country: ''
+created: 2026-04-08
+established: '1923-09-07'
+frameworks_administered: []
+headquarters: Lyon, France
+key_roles:
+- Global police communications network (I-24/7)
+- International notice system (Red, Blue, Purple Notices)
+- Operational coordination for multinational operations
+- Criminal databases (stolen documents, fingerprints, DNA, facial recognition)
+- Capacity building and training
+- Cybercrime operations through IGCI subsidiary
+mandate: Enable police cooperation across 196 member countries through secure communications
+  (I-24/7), databases, operational support, training, and capacity building to combat
+  transnational crime.
+mechanisms_operated:
+- '[[interpol-i24-7]]'
+- '[[interpol-notices]]'
+- '[[interpol-i-grip]]'
+member_states: 196
+notable_cases: []
+official_name: International Criminal Police Organization — INTERPOL
+official_name_ko: 국제형사경찰기구 (인터폴)
+operations_participated:
+- '[[africa-cyber-surge-ii]]'
+- '[[bec-nigeria-2016]]'
+- '[[global-airport-action-day]]'
+- '[[operation-avalanche]]'
+- '[[operation-cyber-guardian]]'
+- '[[operation-delilah]]'
+- '[[operation-falcon]]'
+- '[[operation-first-light-2024]]'
+- '[[operation-goldfish-alpha-night-fury]]'
+- '[[operation-haechi-ii]]'
+- '[[operation-haechi-iv]]'
+- '[[operation-haechi-v]]'
+- '[[operation-haechi-vi]]'
+- '[[operation-jackal]]'
+- '[[operation-jackal-iii]]'
+- '[[operation-killer-bee]]'
+- '[[operation-lyrebird]]'
+- '[[operation-nervone]]'
+- '[[operation-nightfury]]'
+- '[[operation-pleiades]]'
+- '[[operation-red-card]]'
+- '[[operation-secure-interpol]]'
+- '[[operation-sentinel-africa]]'
+- '[[operation-serengeti]]'
+- '[[operation-synergia-ii]]'
+- '[[simda-botnet-takedown]]'
+org_type: international-org
+parent_org: ''
 source_count: 0
 sources: []
-created: 2026-04-08
-updated: 2026-04-08
+title: INTERPOL (International Criminal Police Organization)
+type: organization
+updated: '2026-04-09'
 ---
 
 ## Summary

@@ -1,78 +1,82 @@
 ---
-type: operation
-title: "Korea-Cambodia Scam Centre Repatriation"
-aliases: ["Korea-Cambodia scam repatriation", "Cambodia scam centre crackdown"]
-operation_type: "arrest-sweep"
-status: "ongoing"
-case_id: "CYB-2025-009"
-period: 3
-enforcement_type:
-  - "arrest"
-  - "extradition"
-outcome: "ongoing"
+aliases:
+- Korea-Cambodia scam repatriation
+- Cambodia scam centre crackdown
+case_id: CYB-2025-009
+challenges_encountered: []
+coordinating_body: ''
+created: 2026-04-08
 credibility_index: 2.55
-source_tier: 3
+crime_type: '[[voice-phishing-ic]]'
 edges:
-  - source_actor: "KNPA"
-    target_actor: "Cambodia Police"
-    cooperation_type: "joint_investigation"
-    legal_basis: "unknown"
-    direction: "directed"
-  - source_actor: "KNPA"
-    target_actor: "Laos Police"
-    cooperation_type: "joint_investigation"
-    legal_basis: "unknown"
-    direction: "directed"
-missing_fields:
-  - "legal_basis"
-  - "mechanisms_used"
-  - "specific_bilateral_agreements"
-  - "exact_arrest_count"
-timeframe:
-  announced: "2025-10-18"
-  start: "2025-10"
-  end: ""
-  ongoing: true
-crime_type: "[[voice-phishing-ic]]"
-target_entity: "Korean nationals operating in Cambodian scam centres (voice phishing, romance scams, pig butchering)"
-lead_agency: "[[knpa-cyber-bureau]]"
-coordinating_body: ""
-participating_countries:
-  - "[[south-korea]]"
-  - "Cambodia"
-  - "Laos"
-  - "Vietnam"
-  - "Thailand"
-  - "Philippines"
-participating_agencies:
-  - "[[knpa-cyber-bureau]]"
+- cooperation_type: joint_investigation
+  direction: directed
+  legal_basis: unknown
+  source_actor: KNPA
+  target_actor: Cambodia Police
+- cooperation_type: joint_investigation
+  direction: directed
+  legal_basis: unknown
+  source_actor: KNPA
+  target_actor: Laos Police
+enforcement_type:
+- arrest
+- extradition
+lead_agency: '[[knpa-cyber-bureau]]'
 legal_basis: []
+lessons_learned:
+- Voice phishing operations have shifted from China-based call centres to Southeast
+  Asian scam compounds
+- Scam compound operators use trafficking (fake job offers) to recruit workers
+- Korean nationals are both perpetrators and victims in these operations
 mechanisms_used: []
-results:
-  arrests: 0
-  indictments: 0
-  servers_seized: 0
-  domains_seized: 0
-  cryptocurrency_seized: ""
-  decryption_keys_recovered: 0
-  victims_notified: 0
-  other:
-    - "107+ suspects repatriated from Cambodia (64 in October 2025, 73 in January 2026)"
-    - "20+ additional suspects repatriated from Laos, Vietnam, Thailand, Philippines"
-    - "58 arrest warrants sought from first batch"
-    - "KRW 48.6 billion (USD 33 million) in losses from January 2026 batch"
-    - "Estimated 1,000 Korean citizens working in Cambodian scam centres"
+missing_fields:
+- legal_basis
+- mechanisms_used
+- specific_bilateral_agreements
+- exact_arrest_count
+operation_type: arrest-sweep
+outcome: ongoing
+participating_agencies:
+- '[[knpa-cyber-bureau]]'
+participating_countries:
+- '[[south-korea]]'
+- Cambodia
+- Laos
+- Vietnam
+- Thailand
+- Philippines
+period: 3
 related_cases: []
 related_operations: []
-challenges_encountered: []
-lessons_learned:
-  - "Voice phishing operations have shifted from China-based call centres to Southeast Asian scam compounds"
-  - "Scam compound operators use trafficking (fake job offers) to recruit workers"
-  - "Korean nationals are both perpetrators and victims in these operations"
+results:
+  arrests: 0
+  cryptocurrency_seized: ''
+  decryption_keys_recovered: 0
+  domains_seized: 0
+  indictments: 0
+  other:
+  - 107+ suspects repatriated from Cambodia (64 in October 2025, 73 in January 2026)
+  - 20+ additional suspects repatriated from Laos, Vietnam, Thailand, Philippines
+  - 58 arrest warrants sought from first batch
+  - KRW 48.6 billion (USD 33 million) in losses from January 2026 batch
+  - Estimated 1,000 Korean citizens working in Cambodian scam centres
+  servers_seized: 0
+  victims_notified: 0
 source_count: 1
+source_tier: 3
 sources:
-  - "[[2025-10-18-korea-cambodia-scam-repatriation]]"
-created: 2026-04-08
+- '[[2025-10-18-korea-cambodia-scam-repatriation]]'
+status: ongoing
+target_entity: Korean nationals operating in Cambodian scam centres (voice phishing,
+  romance scams, pig butchering)
+timeframe:
+  announced: '2025-10-18'
+  end: ''
+  ongoing: true
+  start: 2025-10
+title: Korea-Cambodia Scam Centre Repatriation
+type: operation
 updated: 2026-04-08
 ---
 
@@ -129,5 +133,3 @@ The scale of the problem underscores the need for multilateral cooperation frame
 | # | Title | Publisher | Date | URL |
 |---|-------|----------|------|-----|
 | [1] | South Korea repatriates 64 scam centre suspects from Cambodia | Al Jazeera / Korea Herald | 2025-10-18 | [원본](https://www.aljazeera.com/news/2025/10/20/south-korea-police-seek-warrants-for-repatriated-scam-centre-suspects) |
-| [2] | Supplementary source | dominicantoday.com | - | [원본](https://dominicantoday.com/dr/local/2024/09/25/santiago-prosecutors-office-charges-21-in-major-cybercrime-operation-targeting-elderly-americans/) |
-| [3] | Supplementary source | filipinotimes.net | - | [원본](https://filipinotimes.net/top-stories/2018/06/21/400-employees-arrested-pampanga-multi-million-online-scam/) |

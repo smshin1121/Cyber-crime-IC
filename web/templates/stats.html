@@ -5,66 +5,74 @@
 <div class="page-wrapper full-width">
   <main class="article">
     <div class="article-header">
-      <h1>📊 사이버범죄 국제공조 통계 대시보드</h1>
+      <h1>
+        <span class="i18n" data-ko="📊 사이버범죄 국제공조 통계 대시보드" data-en="📊 Cybercrime IC Statistics Dashboard"></span>
+      </h1>
       <div class="article-meta">
-        <span>위키 데이터 기반 실시간 집계</span>
+        <span><span class="i18n" data-ko="위키 데이터 기반 실시간 집계" data-en="Real-time aggregation from wiki data"></span></span>
         <span>·</span>
-        <span><a href="/wiki/analysis/ic-statistics-dashboard">상세 분석 페이지 보기</a></span>
+        <span><a href="/wiki/analysis/ic-statistics-dashboard">
+          <span class="i18n" data-ko="상세 분석 페이지 보기" data-en="View detailed analysis"></span>
+        </a></span>
       </div>
     </div>
     <div class="article-body">
 
-      <h2>위키 현황</h2>
+      <h2><span class="heading-ko">위키 현황</span><span class="heading-en">Wiki Overview</span></h2>
       <div class="stats-grid">
         <div class="stat-card">
           <div class="number">{{ total }}</div>
-          <div class="label">전체 문서</div>
+          <div class="label"><span class="i18n" data-ko="전체 문서" data-en="Total Pages"></span></div>
         </div>
         <div class="stat-card">
           <div class="number">{{ total_sources }}</div>
-          <div class="label">수집 출처</div>
+          <div class="label"><span class="i18n" data-ko="수집 출처" data-en="Sources"></span></div>
         </div>
         <div class="stat-card">
           <div class="number">{{ total_ops }}</div>
-          <div class="label">국제공조 작전</div>
+          <div class="label"><span class="i18n" data-ko="국제공조 작전" data-en="IC Operations"></span></div>
         </div>
         <div class="stat-card">
           <div class="number">{{ cat_counts.get('organizations', 0) }}</div>
-          <div class="label">기관</div>
+          <div class="label"><span class="i18n" data-ko="기관" data-en="Organizations"></span></div>
         </div>
         <div class="stat-card">
           <div class="number">{{ cat_counts.get('countries', 0) }}</div>
-          <div class="label">국가 프로필</div>
+          <div class="label"><span class="i18n" data-ko="국가 프로필" data-en="Country Profiles"></span></div>
         </div>
         <div class="stat-card">
           <div class="number">{{ cat_counts.get('crime-types', 0) }}</div>
-          <div class="label">범죄유형</div>
+          <div class="label"><span class="i18n" data-ko="범죄유형" data-en="Crime Types"></span></div>
         </div>
       </div>
 
-      <h2>작전 집계 통계</h2>
+      <h2><span class="heading-ko">작전 집계 통계</span><span class="heading-en">Operation Aggregate Statistics</span></h2>
       <div class="stats-grid">
         <div class="stat-card">
           <div class="number">{{ "{:,}".format(op_stats.total_arrests) }}+</div>
-          <div class="label">총 체포/기소</div>
+          <div class="label"><span class="i18n" data-ko="총 체포/기소" data-en="Total Arrests"></span></div>
         </div>
         <div class="stat-card">
           <div class="number">{{ "{:,}".format(op_stats.total_servers) }}+</div>
-          <div class="label">서버 압수</div>
+          <div class="label"><span class="i18n" data-ko="서버 압수" data-en="Servers Seized"></span></div>
         </div>
         <div class="stat-card">
           <div class="number">{{ "{:,}".format(op_stats.total_domains) }}+</div>
-          <div class="label">도메인 압수/차단</div>
+          <div class="label"><span class="i18n" data-ko="도메인 압수/차단" data-en="Domains Seized"></span></div>
         </div>
         <div class="stat-card">
           <div class="number">{{ op_stats.total_countries }}+</div>
-          <div class="label">참여국 (고유)</div>
+          <div class="label"><span class="i18n" data-ko="참여국 (고유)" data-en="Countries (Unique)"></span></div>
         </div>
       </div>
 
-      <h2>조정기관별 작전 수</h2>
+      <h2><span class="heading-ko">조정기관별 작전 수</span><span class="heading-en">Operations by Coordinator</span></h2>
       <table>
-        <tr><th>조정기관</th><th>작전 수</th><th>비율</th></tr>
+        <tr>
+          <th><span class="i18n" data-ko="조정기관" data-en="Coordinator"></span></th>
+          <th><span class="i18n" data-ko="작전 수" data-en="Ops"></span></th>
+          <th><span class="i18n" data-ko="비율" data-en="Share"></span></th>
+        </tr>
         {% for coord, count in op_stats.by_coordinator|dictsort(by='value', reverse=true) %}
         <tr>
           <td>{{ coord }}</td>
@@ -78,9 +86,12 @@
       </table>
 
       {% if op_stats.by_crime_type %}
-      <h2>범죄유형별 작전 수</h2>
+      <h2><span class="heading-ko">범죄유형별 작전 수</span><span class="heading-en">Operations by Crime Type</span></h2>
       <table>
-        <tr><th>범죄유형</th><th>작전 수</th></tr>
+        <tr>
+          <th><span class="i18n" data-ko="범죄유형" data-en="Crime Type"></span></th>
+          <th><span class="i18n" data-ko="작전 수" data-en="Ops"></span></th>
+        </tr>
         {% for ct, count in op_stats.by_crime_type|dictsort(by='value', reverse=true) %}
         <tr>
           <td>{{ ct }}</td>
@@ -91,9 +102,13 @@
       {% endif %}
 
       {% if op_stats.by_year %}
-      <h2>연도별 작전 수</h2>
+      <h2><span class="heading-ko">연도별 작전 수</span><span class="heading-en">Operations by Year</span></h2>
       <table>
-        <tr><th>연도</th><th>작전 수</th><th></th></tr>
+        <tr>
+          <th><span class="i18n" data-ko="연도" data-en="Year"></span></th>
+          <th><span class="i18n" data-ko="작전 수" data-en="Ops"></span></th>
+          <th></th>
+        </tr>
         {% for year, count in op_stats.by_year|dictsort %}
         <tr>
           <td>{{ year }}</td>
@@ -106,9 +121,13 @@
       </table>
       {% endif %}
 
-      <h2>출처 다양성</h2>
+      <h2><span class="heading-ko">출처 다양성</span><span class="heading-en">Source Diversity</span></h2>
       <table>
-        <tr><th>출처</th><th>문서 수</th><th>비율</th></tr>
+        <tr>
+          <th><span class="i18n" data-ko="출처" data-en="Source"></span></th>
+          <th><span class="i18n" data-ko="문서 수" data-en="Pages"></span></th>
+          <th><span class="i18n" data-ko="비율" data-en="Share"></span></th>
+        </tr>
         {% for domain, count in source_domains|dictsort(by='value', reverse=true) %}
         <tr>
           <td>{{ domain }}</td>
@@ -121,21 +140,27 @@
         {% endfor %}
       </table>
 
-      <h2>카테고리별 문서 수</h2>
+      <h2><span class="heading-ko">카테고리별 문서 수</span><span class="heading-en">Pages by Category</span></h2>
       <table>
-        <tr><th>카테고리</th><th>문서 수</th></tr>
+        <tr>
+          <th><span class="i18n" data-ko="카테고리" data-en="Category"></span></th>
+          <th><span class="i18n" data-ko="문서 수" data-en="Pages"></span></th>
+        </tr>
         {% for key, info in categories.items() %}
         <tr>
-          <td>{{ info.icon }} <a href="/category/{{ key }}">{{ info.label }}</a></td>
+          <td>{{ info.icon }} <a href="/category/{{ key }}">
+            <span class="i18n" data-ko="{{ info.label }}" data-en="{{ info.label_en }}"></span>
+          </a></td>
           <td>{{ cat_counts.get(key, 0) }}</td>
         </tr>
         {% endfor %}
       </table>
 
       <div style="margin-top:24px;padding:12px;background:#f0f9ff;border-radius:4px;font-size:13px;">
-        📖 <strong>상세 통계 및 네트워크 분석 결과:</strong>
-        <a href="/wiki/analysis/ic-statistics-dashboard">사이버범죄 국제공조 통계 대시보드</a>
-        — INTERPOL 2014-2024 연도별 현황, 2모드 네트워크 중심성, 중심-주변 구조 등
+        <span class="i18n"
+          data-ko='📖 <strong>상세 통계 및 네트워크 분석 결과:</strong> <a href="/wiki/analysis/ic-statistics-dashboard">사이버범죄 국제공조 통계 대시보드</a>'
+          data-en='📖 <strong>Detailed statistics & network analysis:</strong> <a href="/wiki/analysis/ic-statistics-dashboard">IC Statistics Dashboard</a>'>
+        </span>
       </div>
 
     </div>

@@ -1,86 +1,93 @@
 ---
-type: operation
-title: "Operation Shrouded Horizon"
-title_ko: "Operation Shrouded Horizon (Darkode 포럼 해체)"
-aliases: ["Darkode Takedown"]
-case_id: "CYB-2015-001"
-period: 1
-operation_type: "takedown"
-status: "completed"
-enforcement_type: ["arrest", "seizure", "takedown", "indictment"]
-outcome: "success"
-timeframe:
-  announced: "2015-07-15"
-  start: "2014-01"
-  end: "2015-07-15"
-  ongoing: false
-crime_type: "[[hacking-ic]]"
-target_entity: "Darkode Forum"
-lead_agency: "[[fbi]]"
-coordinating_body: "[[europol]]"
-participating_countries:
-  - "[[united-states]]"
-  - "[[united-kingdom]]"
-  - "[[sweden]]"
-  - "[[bosnia-and-herzegovina]]"
-  - "[[romania]]"
-  - "[[serbia]]"
-  - "[[latvia]]"
-  - "[[cyprus]]"
-  - "[[australia]]"
-  - "[[nigeria]]"
-  - "[[denmark]]"
-  - "[[canada]]"
-  - "[[colombia]]"
-  - "[[costa-rica]]"
-  - "[[croatia]]"
-  - "[[finland]]"
-  - "[[germany]]"
-  - "[[israel]]"
-  - "[[macedonia]]"
-  - "[[brazil]]"
-participating_agencies:
-  - "[[fbi]]"
-  - "[[usdoj]]"
-  - "[[europol]]"
-  - "[[europol-ec3]]"
-  - "[[ncfta]]"
-legal_basis: []
-mechanisms_used: []
-results:
-  arrests: 70
-  indictments: 12
-  servers_seized: 0
-  domains_seized: 1
-  cryptocurrency_seized: ""
-  decryption_keys_recovered: 0
-  victims_notified: 0
-  other:
-    - "Darkode forum shut down"
-edges:
-  - source_actor: "FBI"
-    target_actor: "Europol"
-    cooperation_type: "joint_investigation"
-    legal_basis: "unknown"
-    direction: "undirected"
-  - source_actor: "FBI"
-    target_actor: "20 countries law enforcement"
-    cooperation_type: "joint_investigation"
-    legal_basis: "unknown"
-    direction: "undirected"
+aliases:
+- Darkode Takedown
+case_id: CYB-2015-001
+challenges_encountered: []
+coordinating_body: '[[europol]]'
+created: 2026-04-08
 credibility_index: 3.62
-source_tier: 2
-missing_fields: ["legal_basis", "mechanisms_used"]
+crime_type: '[[hacking-ic]]'
+edges:
+- cooperation_type: joint_investigation
+  direction: undirected
+  legal_basis: unknown
+  source_actor: FBI
+  target_actor: Europol
+- cooperation_type: joint_investigation
+  direction: undirected
+  legal_basis: unknown
+  source_actor: FBI
+  target_actor: 20 countries law enforcement
+enforcement_type:
+- arrest
+- seizure
+- takedown
+- indictment
+lead_agency: '[[fbi]]'
+legal_basis: []
+lessons_learned: []
+mechanisms_used: []
+missing_fields:
+- legal_basis
+- mechanisms_used
+operation_type: takedown
+outcome: success
+participating_agencies:
+- '[[fbi]]'
+- '[[usdoj]]'
+- '[[europol]]'
+- '[[europol-ec3]]'
+- '[[ncfta]]'
+participating_countries:
+- '[[united-states]]'
+- '[[united-kingdom]]'
+- '[[sweden]]'
+- '[[bosnia-and-herzegovina]]'
+- '[[romania]]'
+- '[[serbia]]'
+- '[[latvia]]'
+- '[[cyprus]]'
+- '[[australia]]'
+- '[[nigeria]]'
+- '[[denmark]]'
+- '[[canada]]'
+- '[[colombia]]'
+- '[[costa-rica]]'
+- '[[croatia]]'
+- '[[finland]]'
+- '[[germany]]'
+- '[[israel]]'
+- '[[macedonia]]'
+- '[[brazil]]'
+period: 1
 related_cases: []
 related_operations: []
-challenges_encountered: []
-lessons_learned: []
-source_count: 2
+results:
+  arrests: 70
+  cryptocurrency_seized: ''
+  decryption_keys_recovered: 0
+  domains_seized: 1
+  indictments: 12
+  other:
+  - Darkode forum shut down
+  servers_seized: 0
+  victims_notified: 0
+source_count: 5
+source_tier: 2
 sources:
-  - "[1] FBI News (2015-07-15)"
-  - "[2] Europol News (2015-07)"
-created: 2026-04-08
-updated: 2026-04-08
+- '[1] FBI News (2015-07-15)'
+- '[2] Europol News (2015-07)'
+status: completed
+target_entity: Darkode Forum
+timeframe:
+  announced: '2015-07-15'
+  end: '2015-07-15'
+  ongoing: false
+  start: 2014-01
+title: Operation Shrouded Horizon
+title_ko: Operation Shrouded Horizon (Darkode 포럼 해체)
+type: operation
+updated: '2026-04-09'
 ---
 
 ## Summary
@@ -117,8 +124,8 @@ The operation was coordinated through Europol's European Cybercrime Centre (EC3)
 
 | # | Title | Publisher | Date | URL |
 |---|-------|----------|------|-----|
-| [1] | Source 1 | wired.com | - | [원본](https://www.wired.com/2015/07/dozens-nabbed-takedown-cybercrime-forum-darkode/) |
-| [2] | Source 2 | fbi.gov | - | [원본](https://www.fbi.gov/news/stories/cyber-criminal-forum-taken-down) |
-| [3] | Source 3 | washingtonpost.com | - | [원본](https://www.washingtonpost.com/world/national-security/major-computer-hacking-forum-shut-down-by-20-countries-us-announces/2015/07/15/dd4cf514-2b05-11e5-a5ea-cf74396e59ec_story.html) |
-| [4] | Source 4 | archive.triblive.com | - | [원본](https://archive.triblive.com/local/pittsburgh-allegheny/details-emerge-on-global-internet-crime-sting-led-by-pittsburgh-fbi-agents/) |
-| [5] | Source 5 | threatpost.com | - | [원본](https://threatpost.com/feds-detail-shutdown-of-darkode-cybercrime-forum/113800/) |
+| [1] | Dozens Nabbed Takedown Cybercrime Forum Darkode | Wired | 2015-07 | [원본](https://www.wired.com/2015/07/dozens-nabbed-takedown-cybercrime-forum-darkode/) |
+| [2] | Cyber Criminal Forum Taken Down | FBI | 2015-07-15 | [원본](https://www.fbi.gov/news/stories/cyber-criminal-forum-taken-down) |
+| [3] | Dd4Cf514 2B05 11E5 A5Ea Cf74396E59Ec Story | washingtonpost.com | 2015-07-15 | [원본](https://www.washingtonpost.com/world/national-security/major-computer-hacking-forum-shut-down-by-20-countries-us-announces/2015/07/15/dd4cf514-2b05-11e5-a5ea-cf74396e59ec_story.html) |
+| [4] | Details Emerge On Global Internet Crime Sting Led By Pittsburgh Fbi Agents | archive.triblive.com | 2015-07-15 | [원본](https://archive.triblive.com/local/pittsburgh-allegheny/details-emerge-on-global-internet-crime-sting-led-by-pittsburgh-fbi-agents/) |
+| [5] | 113800 | threatpost.com | 2015-07-15 | [원본](https://threatpost.com/feds-detail-shutdown-of-darkode-cybercrime-forum/113800/) |

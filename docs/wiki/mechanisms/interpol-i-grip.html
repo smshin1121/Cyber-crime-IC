@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html lang="ko">
+<html lang="ko" class="lang-ko">
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
@@ -11,22 +11,28 @@
 <body>
   <nav class="top-nav">
     <div class="top-nav-inner">
-      <a href="../../" class="nav-logo">🌐 사이버범죄 국제공조 위키</a>
+      <a href="../../" class="nav-logo">
+        <span class="i18n" data-ko="🌐 사이버범죄 국제공조 위키" data-en="🌐 Cybercrime IC Wiki"></span>
+      </a>
       <div class="nav-links">
-        <a href="../../category/operations.html">작전</a>
-        <a href="../../category/organizations.html">기관</a>
-        <a href="../../category/countries.html">국가</a>
-        <a href="../../category/legal-frameworks.html">법적 프레임워크</a>
-        <a href="../../category/mechanisms.html">메커니즘</a>
-        <a href="../../category/crime-types.html">범죄유형</a>
-        <a href="../../category/concepts.html">개념</a>
-        <a href="../../category/sources.html">출처</a>
-        <a href="../../stats.html">통계</a>
+        <a href="../../category/operations.html"><span class="i18n" data-ko="작전" data-en="Operations"></span></a>
+        <a href="../../category/organizations.html"><span class="i18n" data-ko="기관" data-en="Organizations"></span></a>
+        <a href="../../category/countries.html"><span class="i18n" data-ko="국가" data-en="Countries"></span></a>
+        <a href="../../category/legal-frameworks.html"><span class="i18n" data-ko="법적 프레임워크" data-en="Legal Frameworks"></span></a>
+        <a href="../../category/mechanisms.html"><span class="i18n" data-ko="메커니즘" data-en="Mechanisms"></span></a>
+        <a href="../../category/crime-types.html"><span class="i18n" data-ko="범죄유형" data-en="Crime Types"></span></a>
+        <a href="../../category/concepts.html"><span class="i18n" data-ko="개념" data-en="Concepts"></span></a>
+        <a href="../../category/sources.html"><span class="i18n" data-ko="출처" data-en="Sources"></span></a>
+        <a href="../../stats.html"><span class="i18n" data-ko="통계" data-en="Statistics"></span></a>
       </div>
       <form class="nav-search" action="../../search.html" method="get">
-        <input type="text" name="q" placeholder="위키 검색..." value="">
-        <button type="submit">검색</button>
+        <input type="text" name="q" class="i18n-placeholder" data-ko="위키 검색..." data-en="Search wiki..." value="">
+        <button type="submit"><span class="i18n" data-ko="검색" data-en="Search"></span></button>
       </form>
+      <button class="lang-toggle" id="langToggle" title="한국어/English">
+        <span class="lang-flag lang-flag-ko">🇰🇷 한</span>
+        <span class="lang-flag lang-flag-en">🇺🇸 EN</span>
+      </button>
     </div>
   </nav>
 
@@ -34,31 +40,43 @@
 <div class="page-wrapper">
   <main class="article">
     <div class="article-header">
-      <h1>INTERPOL I-GRIP (Global Rapid Intervention of Payments)</h1>
+      <h1>
+        
+          INTERPOL I-GRIP (Global Rapid Intervention of Payments)
+        
+      </h1>
       <div class="article-meta">
         
-          <span class="badge">mechanism</span>
+          <span class="badge">
+            <span class="i18n" data-ko="mechanism" data-en="mechanism"></span>
+          </span>
         
         
-          <span><a href="../../category/mechanisms.html">공조 메커니즘</a></span>
+          <span><a href="../../category/mechanisms.html">
+            <span class="i18n"
+              data-ko="공조 메커니즘"
+              data-en="Mechanisms"></span>
+          </a></span>
         
         
-          <span>최종 수정: 2026-04-08</span>
+          <span>
+            <span class="i18n" data-ko="최종 수정" data-en="Updated"></span>: 2026-04-08
+          </span>
         
         
       </div>
     </div>
     <div class="article-body">
-      <h2 id="summary">Summary</h2>
+      <h2 id="summary"><span class="heading-ko">개요</span><span class="heading-en">Summary</span></h2>
 <p>INTERPOL's I-GRIP (Global Rapid Intervention of Payments) is a <strong>rapid financial interception mechanism</strong> that enables law enforcement agencies in INTERPOL member countries to request the freezing or interception of fraudulent cross-border payments before the funds are withdrawn or laundered. Operating through INTERPOL's I-24/7 secure communications network and National Central Bureaus (NCBs), I-GRIP provides a semi-formal channel that is <em>significantly faster</em> than traditional MLAT-based asset freezing procedures.</p>
 <p>I-GRIP has become a <strong>critical tool</strong> in INTERPOL's financial crime operations, particularly the HAECHI and First Light series, where it has contributed to the recovery of hundreds of millions of dollars in stolen funds.</p>
-<h2 id="legal-basis">Legal Basis</h2>
+<h2 id="legal-basis"><span class="heading-ko">법적 근거</span><span class="heading-en">Legal Basis</span></h2>
 <p>I-GRIP operates under:
 1. <strong>INTERPOL Constitution Art. 2:</strong> Mandate for the widest possible mutual assistance between criminal police authorities
 2. <strong>Domestic AML/proceeds of crime legislation:</strong> Each country's ability to freeze funds depends on its domestic legal framework (e.g., Korean "범죄수익 은닉의 규제 및 처벌 등에 관한 법률")
 3. <strong>Banking regulations:</strong> Financial institutions' obligations to cooperate with law enforcement under domestic law</p>
 <p>I-GRIP does <strong>not</strong> have independent treaty-based legal authority. It functions as a <strong>communication and coordination channel</strong> that enables countries to invoke their domestic authorities rapidly.</p>
-<h2 id="how-it-works">How It Works</h2>
+<h2 id="how-it-works"><span class="heading-ko">작동 방식</span><span class="heading-en">How It Works</span></h2>
 <h3 id="standard-i-grip-flow">Standard I-GRIP Flow</h3>
 <pre><code>Victim country                INTERPOL               Recipient country
 
@@ -114,7 +132,7 @@
 <li><strong>Domestic legal authority:</strong> The recipient country must have legal grounds to freeze funds on an emergency basis</li>
 <li><strong>I-24/7 availability:</strong> Both NCBs must be operationally responsive (24/7 staffing is ideal but not universal)</li>
 </ol>
-<h2 id="scope-and-capabilities">Scope and Capabilities</h2>
+<h2 id="scope-and-capabilities"><span class="heading-ko">범위 및 역량</span><span class="heading-en">Scope and Capabilities</span></h2>
 <p><strong>I-GRIP can do:</strong>
 - Rapid freezing of funds in bank accounts across borders
 - Tracing of multi-hop fund movements through correspondent banking
@@ -126,7 +144,7 @@
 - Compel banks to disclose account information without domestic authority
 - Substitute for formal mutual legal assistance for evidentiary purposes
 - Function as a legal basis for long-term asset seizure (domestic orders needed)</p>
-<h2 id="practical-usage">Practical Usage</h2>
+<h2 id="practical-usage"><span class="heading-ko">실무 활용</span><span class="heading-en">Practical Usage</span></h2>
 <h3 id="haechi-series">HAECHI Series</h3>
 <p>I-GRIP has been deployed extensively in the HAECHI operations:</p>
 <table>
@@ -178,7 +196,7 @@
 <li><strong>HAECHI VI (2025):</strong> USD 439M recovered; a Korea-UAE sub-operation used I-GRIP to intercept voice phishing proceeds routed through UAE bank accounts</li>
 <li><strong>First Light 2024:</strong> USD 257M in assets seized/frozen across 61 countries</li>
 </ul>
-<h2 id="advantages">Advantages</h2>
+<h2 id="advantages"><span class="heading-ko">장점</span><span class="heading-en">Advantages</span></h2>
 <ol>
 <li><strong>Speed:</strong> Hours instead of months — critical for catching funds in transit</li>
 <li><strong>Global reach:</strong> Available to all 196 INTERPOL member countries (in principle)</li>
@@ -187,7 +205,7 @@
 <li><strong>Scalable:</strong> Can handle high volumes during major operations</li>
 <li><strong>Proven results:</strong> Hundreds of millions of dollars recovered through HAECHI and First Light operations</li>
 </ol>
-<h2 id="limitations">Limitations</h2>
+<h2 id="limitations"><span class="heading-ko">한계</span><span class="heading-en">Limitations</span></h2>
 <ol>
 <li><strong>Time sensitivity:</strong> Effectiveness drops sharply after 24-72 hours as funds are moved or withdrawn</li>
 <li><strong>Banking system dependency:</strong> Requires cooperative financial institutions; effectiveness varies by country</li>
@@ -197,12 +215,12 @@
 <li><strong>Follow-up burden:</strong> Rapid freeze is only the first step; formal MLA is still required for asset recovery, repatriation, and evidentiary use</li>
 <li><strong>Jurisdictional limits:</strong> Some countries' banking secrecy laws may limit the ability to freeze on an emergency basis</li>
 </ol>
-<h2 id="notable-uses">Notable Uses</h2>
+<h2 id="notable-uses"><span class="heading-ko">주요 활용 사례</span><span class="heading-en">Notable Uses</span></h2>
 <h3 id="korea-uae-i-grip-sub-operation-haechi-vi-2025">Korea-UAE I-GRIP Sub-Operation (HAECHI VI, 2025)</h3>
 <p>A particularly notable use case: Korean voice phishing victims' funds were traced to UAE bank accounts. The Korean NCB (<a href="../../wiki/organizations/knpa-cyber-bureau.html" class="wikilink">knpa-cyber-bureau</a>) initiated an I-GRIP request through INTERPOL, and UAE authorities froze the accounts within days. This cross-continental interception demonstrates I-GRIP's value when traditional bilateral channels would have been too slow.</p>
 <h3 id="singaporean-bec-recovery-haechi-v-2024">Singaporean BEC Recovery (HAECHI V, 2024)</h3>
 <p>A Singapore-based company lost USD 42.3 million to a BEC attack. Through I-GRIP coordination, funds were traced and a significant portion recovered across multiple jurisdictions within days of the fraud being detected.</p>
-<h2 id="comparison-with-alternatives">Comparison with Alternatives</h2>
+<h2 id="comparison-with-alternatives"><span class="heading-ko">대안과의 비교</span><span class="heading-en">Comparison with Alternatives</span></h2>
 <table>
 <thead>
 <tr>
@@ -269,7 +287,7 @@
 - 국제형사사법 공조법 (International Criminal Justice Mutual Assistance Act)</p>
 <h3 id="capacity">Capacity</h3>
 <p>Korean financial institutions are <em>highly likely</em> among the most responsive to LEA freeze requests due to well-established cooperation frameworks between the Korea Financial Intelligence Unit (KoFIU, 금융정보분석원) and law enforcement.</p>
-<h2 id="contradictions-open-questions">Contradictions &amp; Open Questions</h2>
+<h2 id="contradictions-open-questions"><span class="heading-ko">모순점 및 미해결 문제</span><span class="heading-en">Contradictions &amp; Open Questions</span></h2>
 <ol>
 <li><strong>Cryptocurrency gap:</strong> How will I-GRIP adapt to address cryptocurrency-based money laundering? Current capability is limited to traditional banking channels.</li>
 <li><strong>Success rate:</strong> What percentage of I-GRIP requests result in successful fund recovery? Aggregate statistics are not publicly available beyond operation-level announcements.</li>
@@ -283,27 +301,60 @@
   <aside class="sidebar">
     
     <div class="infobox">
-      <div class="infobox-header">INTERPOL I-GRIP (Global Rapid Intervention of Payments)</div>
+      <div class="infobox-header">
+        
+          INTERPOL I-GRIP (Global Rapid Intervention of Payments)
+        
+      </div>
       <table>
         
         <tr>
-          <th>유형</th>
-          <td>공조 메커니즘</td>
+          <th>
+            <span class="heading-ko">유형</span>
+            <span class="heading-en">Type</span>
+          </th>
+          <td>
+            
+              <span class="heading-ko">공조 메커니즘</span>
+              <span class="heading-en">Mechanism</span>
+            
+          </td>
         </tr>
         
         <tr>
-          <th>유형</th>
-          <td>information-sharing-platform</td>
+          <th>
+            <span class="heading-ko">유형</span>
+            <span class="heading-en">Type</span>
+          </th>
+          <td>
+            
+              information-sharing-platform
+            
+          </td>
         </tr>
         
         <tr>
-          <th>형식성</th>
-          <td>semi-formal</td>
+          <th>
+            <span class="heading-ko">형식성</span>
+            <span class="heading-en">Formality</span>
+          </th>
+          <td>
+            
+              semi-formal
+            
+          </td>
         </tr>
         
         <tr>
-          <th>속도</th>
-          <td>hours-days</td>
+          <th>
+            <span class="heading-ko">속도</span>
+            <span class="heading-en">Speed</span>
+          </th>
+          <td>
+            
+              hours-days
+            
+          </td>
         </tr>
         
       </table>
@@ -311,14 +362,14 @@
     
 
     <div class="cat-nav">
-      <h3>카테고리</h3>
+      <h3><span class="i18n" data-ko="카테고리" data-en="Categories"></span></h3>
       <ul>
         
         <li>
           📜
           <a href="../../category/legal-frameworks.html"
              >
-            법적 프레임워크
+            <span class="i18n" data-ko="법적 프레임워크" data-en="Legal Frameworks"></span>
           </a>
         </li>
         
@@ -326,7 +377,7 @@
           🏛️
           <a href="../../category/organizations.html"
              >
-            기관
+            <span class="i18n" data-ko="기관" data-en="Organizations"></span>
           </a>
         </li>
         
@@ -334,7 +385,7 @@
           🌍
           <a href="../../category/countries.html"
              >
-            국가
+            <span class="i18n" data-ko="국가" data-en="Countries"></span>
           </a>
         </li>
         
@@ -342,7 +393,7 @@
           🎯
           <a href="../../category/operations.html"
              >
-            작전
+            <span class="i18n" data-ko="작전" data-en="Operations"></span>
           </a>
         </li>
         
@@ -350,7 +401,7 @@
           ⚖️
           <a href="../../category/cases.html"
              >
-            사건
+            <span class="i18n" data-ko="사건" data-en="Cases"></span>
           </a>
         </li>
         
@@ -358,7 +409,7 @@
           🔗
           <a href="../../category/mechanisms.html"
              style="font-weight:700">
-            공조 메커니즘
+            <span class="i18n" data-ko="공조 메커니즘" data-en="Mechanisms"></span>
           </a>
         </li>
         
@@ -366,7 +417,7 @@
           📋
           <a href="../../category/procedures.html"
              >
-            절차
+            <span class="i18n" data-ko="절차" data-en="Procedures"></span>
           </a>
         </li>
         
@@ -374,7 +425,7 @@
           🔒
           <a href="../../category/crime-types.html"
              >
-            범죄유형
+            <span class="i18n" data-ko="범죄유형" data-en="Crime Types"></span>
           </a>
         </li>
         
@@ -382,7 +433,7 @@
           ⚠️
           <a href="../../category/challenges.html"
              >
-            과제
+            <span class="i18n" data-ko="과제" data-en="Challenges"></span>
           </a>
         </li>
         
@@ -390,7 +441,7 @@
           📖
           <a href="../../category/concepts.html"
              >
-            법적 개념
+            <span class="i18n" data-ko="법적 개념" data-en="Concepts"></span>
           </a>
         </li>
         
@@ -398,7 +449,7 @@
           📰
           <a href="../../category/sources.html"
              >
-            출처
+            <span class="i18n" data-ko="출처" data-en="Sources"></span>
           </a>
         </li>
         
@@ -406,7 +457,7 @@
           📊
           <a href="../../category/analysis.html"
              >
-            분석
+            <span class="i18n" data-ko="분석" data-en="Analysis"></span>
           </a>
         </li>
         
@@ -414,7 +465,7 @@
           📅
           <a href="../../category/timelines.html"
              >
-            타임라인
+            <span class="i18n" data-ko="타임라인" data-en="Timelines"></span>
           </a>
         </li>
         
@@ -425,9 +476,57 @@
 
 
   <div class="footer">
-    사이버범죄 국제공조 위키 &mdash; LLM Wiki Pattern &mdash;
-    Powered by <a href="https://obsidian.md">Obsidian</a> + Flask &mdash;
-    2026-04-09 기준 데이터
+    <span class="i18n"
+      data-ko="사이버범죄 국제공조 위키 &mdash; LLM Wiki Pattern &mdash; 2026-04-09 기준 데이터"
+      data-en="Cybercrime International Cooperation Wiki &mdash; LLM Wiki Pattern &mdash; Data as of 2026-04-09">
+    </span>
   </div>
+
+  <script>
+  (function() {
+    // Language toggle system — Korean default
+    var STORAGE_KEY = 'wiki-lang';
+
+    function getLang() {
+      return localStorage.getItem(STORAGE_KEY) || 'ko';
+    }
+
+    function setLang(lang) {
+      localStorage.setItem(STORAGE_KEY, lang);
+      applyLang(lang);
+    }
+
+    function applyLang(lang) {
+      var html = document.documentElement;
+      html.classList.remove('lang-ko', 'lang-en');
+      html.classList.add('lang-' + lang);
+      html.setAttribute('lang', lang === 'ko' ? 'ko' : 'en');
+
+      // Update i18n text content
+      document.querySelectorAll('.i18n').forEach(function(el) {
+        var text = el.getAttribute('data-' + lang);
+        if (text) el.innerHTML = text;
+      });
+
+      // Update i18n placeholders
+      document.querySelectorAll('.i18n-placeholder').forEach(function(el) {
+        var text = el.getAttribute('data-' + lang);
+        if (text) el.setAttribute('placeholder', text);
+      });
+    }
+
+    // Toggle button
+    var btn = document.getElementById('langToggle');
+    if (btn) {
+      btn.addEventListener('click', function() {
+        var current = getLang();
+        setLang(current === 'ko' ? 'en' : 'ko');
+      });
+    }
+
+    // Apply saved language on load
+    applyLang(getLang());
+  })();
+  </script>
 </body>
 </html>

@@ -123,7 +123,7 @@ Black Axe is a violent mafia-style gang with an estimated **30,000 members** in 
 | **Jackal** | **2023** | **103** | **208** | **EUR 2.15M** |
 
 [^jackal1]: > [!warning] Source needed — Jackal I (2022) statistics are not from a collected source. Only Operation Jackal (2023) and Jackal III (2024) have collected sources.
-| [[operation-jackal-iii\|Jackal III]] | 2024 | ~300 | 720+ | USD 3M |
+| [[operation-jackal-iii|Jackal III]] | 2024 | ~300 | 720+ | USD 3M |
 
 ## Korean Involvement (한국의 참여)
 

@@ -1,85 +1,91 @@
 ---
-type: operation
-title: "Andromeda Botnet Dismantling"
-title_ko: "공식 작전명 없음 (Andromeda 봇넷 해체)"
-aliases: ["Andromeda Botnet Takedown"]
-case_id: "CYB-2017-001"
-period: 1
-operation_type: "takedown"
-status: "completed"
-enforcement_type: ["arrest", "takedown", "seizure"]
-outcome: "success"
-timeframe:
-  announced: "2017-12-04"
-  start: "2017-11-29"
-  end: "2017-12-04"
-  ongoing: false
-crime_type: "[[malware-ic]]"
-target_entity: "Andromeda Botnet"
-lead_agency: "[[fbi]]"
-coordinating_body: "[[europol-ec3]]"
-participating_countries:
-  - "[[united-states]]"
-  - "[[germany]]"
-  - "[[austria]]"
-  - "[[belgium]]"
-  - "[[finland]]"
-  - "[[france]]"
-  - "[[italy]]"
-  - "[[netherlands]]"
-  - "[[poland]]"
-  - "[[spain]]"
-  - "[[united-kingdom]]"
-  - "[[australia]]"
-  - "[[belarus]]"
-  - "[[canada]]"
-  - "[[montenegro]]"
-  - "[[singapore]]"
-  - "[[taiwan]]"
-participating_agencies:
-  - "[[fbi]]"
-  - "[[europol-ec3]]"
-  - "[[j-cat]]"
-  - "[[eurojust]]"
-  - "[[german-bka]]"
-  - "[[microsoft]]"
-legal_basis: []
-mechanisms_used: []
-results:
-  arrests: 1
-  indictments: 0
-  servers_seized: 0
-  domains_seized: 0
-  cryptocurrency_seized: ""
-  decryption_keys_recovered: 0
-  victims_notified: 0
-  other:
-    - "Andromeda botnet infrastructure dismantled"
-    - "Servers and domains used for malware distribution blocked"
-    - "1 suspect arrested in Belarus"
-edges:
-  - source_actor: "FBI"
-    target_actor: "Europol EC3"
-    cooperation_type: "joint_investigation"
-    legal_basis: "unknown"
-    direction: "undirected"
-  - source_actor: "Germany"
-    target_actor: "Belarus"
-    cooperation_type: "joint_investigation"
-    legal_basis: "unknown"
-    direction: "undirected"
+aliases:
+- Andromeda Botnet Takedown
+case_id: CYB-2017-001
+challenges_encountered: []
+coordinating_body: '[[europol-ec3]]'
+created: 2026-04-08
 credibility_index: 3.25
-source_tier: 2
-missing_fields: ["legal_basis", "mechanisms_used"]
+crime_type: '[[malware-ic]]'
+edges:
+- cooperation_type: joint_investigation
+  direction: undirected
+  legal_basis: unknown
+  source_actor: FBI
+  target_actor: Europol EC3
+- cooperation_type: joint_investigation
+  direction: undirected
+  legal_basis: unknown
+  source_actor: Germany
+  target_actor: Belarus
+enforcement_type:
+- arrest
+- takedown
+- seizure
+lead_agency: '[[fbi]]'
+legal_basis: []
+lessons_learned: []
+mechanisms_used: []
+missing_fields:
+- legal_basis
+- mechanisms_used
+operation_type: takedown
+outcome: success
+participating_agencies:
+- '[[fbi]]'
+- '[[europol-ec3]]'
+- '[[j-cat]]'
+- '[[eurojust]]'
+- '[[german-bka]]'
+- '[[microsoft]]'
+participating_countries:
+- '[[united-states]]'
+- '[[germany]]'
+- '[[austria]]'
+- '[[belgium]]'
+- '[[finland]]'
+- '[[france]]'
+- '[[italy]]'
+- '[[netherlands]]'
+- '[[poland]]'
+- '[[spain]]'
+- '[[united-kingdom]]'
+- '[[australia]]'
+- '[[belarus]]'
+- '[[canada]]'
+- '[[montenegro]]'
+- '[[singapore]]'
+- '[[taiwan]]'
+period: 1
 related_cases: []
 related_operations: []
-challenges_encountered: []
-lessons_learned: []
+results:
+  arrests: 1
+  cryptocurrency_seized: ''
+  decryption_keys_recovered: 0
+  domains_seized: 0
+  indictments: 0
+  other:
+  - Andromeda botnet infrastructure dismantled
+  - Servers and domains used for malware distribution blocked
+  - 1 suspect arrested in Belarus
+  servers_seized: 0
+  victims_notified: 0
 source_count: 1
+source_tier: 2
 sources:
-  - "[1] Europol News (2017-12-04)"
-created: 2026-04-08
-updated: 2026-04-08
+- '[1] Europol News (2017-12-04)'
+status: completed
+target_entity: Andromeda Botnet
+timeframe:
+  announced: '2017-12-04'
+  end: '2017-12-04'
+  ongoing: false
+  start: '2017-11-29'
+title: Andromeda Botnet Dismantling
+title_ko: 공식 작전명 없음 (Andromeda 봇넷 해체)
+type: operation
+updated: '2026-04-09'
 ---
 
 ## Summary
@@ -107,4 +113,3 @@ United States, Germany, Austria, Belgium, Finland, France, Italy, Netherlands, P
 | # | Title | Publisher | Date | URL |
 |---|-------|----------|------|-----|
 | [1] | Andromeda Botnet Dismantled in International Cyber Operation | Europol | 2017-12-04 | [원본](https://www.europol.europa.eu/media-press/newsroom/news/andromeda-botnet-dismantled-in-international-cyber-operation) |
-| [2] | Supplementary (high confidence) | portswigger.net | - | [원본](https://portswigger.net/daily-swig/andromeda-botnet-dismantled-by-international-taskforce) |

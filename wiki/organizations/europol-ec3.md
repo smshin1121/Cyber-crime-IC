@@ -1,49 +1,73 @@
 ---
-type: organization
-title: "Europol European Cybercrime Centre (EC3)"
-official_name: "European Cybercrime Centre"
-official_name_ko: "유럽사이버범죄센터"
-aliases: ["EC3", "Europol EC3"]
-org_type: "regional-org"
-parent_org: "[[europol]]"
-country: ""
-headquarters: "The Hague, Netherlands"
-established: "2013-01-11"
-mandate: "EU hub for coordinating cybercrime investigations, providing operational analysis, and supporting EU member states and partner countries in combating cybercrime."
-member_states: 27
-key_roles:
-  - "Coordination hub for EU cybercrime investigations"
-  - "Joint Investigation Team (JIT) support and hosting"
-  - "Operational analysis and intelligence"
-  - "Digital forensics support"
-  - "Cybercrime threat assessment (IOCTA)"
-cooperation_partners: ["[[interpol-igci]]", "[[fbi-cyber-division]]"]
-frameworks_administered: []
-mechanisms_operated: ["[[europol-jit]]"]
-operations_participated:
-  - "[[operation-cronos-phase1]]"
-  - "[[operation-endgame-phase1]]"
-  - "[[operation-cronos-phase3]]"
-  - "[[phobos-8base-crackdown]]"
-  - "[[operation-endgame-phase2]]"
-  - "[[qakbot-gallyamov-indictment]]"
-  - "[[franco-israeli-ceo-fraud]]"
-  - "[[operation-stream-kidflix]]"
-notable_cases: []
+aliases:
+- EC3
+- Europol EC3
 contact_point_for: []
+cooperation_partners:
+- '[[interpol-igci]]'
+- '[[fbi-cyber-division]]'
+country: ''
+created: 2026-04-08
+established: '2013-01-11'
+frameworks_administered: []
+headquarters: The Hague, Netherlands
+key_roles:
+- Coordination hub for EU cybercrime investigations
+- Joint Investigation Team (JIT) support and hosting
+- Operational analysis and intelligence
+- Digital forensics support
+- Cybercrime threat assessment (IOCTA)
+mandate: EU hub for coordinating cybercrime investigations, providing operational
+  analysis, and supporting EU member states and partner countries in combating cybercrime.
+mechanisms_operated:
+- '[[europol-jit]]'
+member_states: 27
+notable_cases: []
+official_name: European Cybercrime Centre
+official_name_ko: 유럽사이버범죄센터
+operations_participated:
+- '[[andromeda-botnet-takedown]]'
+- '[[belgium-netherlands-phishing-gang]]'
+- '[[blackcat-lockeroga-kelvin-security-2023]]'
+- '[[darkode-takedown]]'
+- '[[ddos-for-hire-sweep-2016]]'
+- '[[doublevpn-takedown]]'
+- '[[franco-israeli-ceo-fraud]]'
+- '[[imminent-monitor-rat-takedown]]'
+- '[[operation-bakovia]]'
+- '[[operation-cronos-phase1]]'
+- '[[operation-cronos-phase3]]'
+- '[[operation-endgame-phase1]]'
+- '[[operation-endgame-phase2]]'
+- '[[operation-first-light-2024]]'
+- '[[operation-morpheus]]'
+- '[[operation-nova]]'
+- '[[operation-pleiades]]'
+- '[[operation-shrouded-horizon]]'
+- '[[operation-source]]'
+- '[[operation-stream-kidflix]]'
+- '[[operation-talent]]'
+- '[[phobos-8base-crackdown]]'
+- '[[qakbot-gallyamov-indictment]]'
+- '[[qqaazz-money-laundering-takedown]]'
+- '[[xdedic-marketplace-takedown]]'
+- '[[xhelper-upi-money-mule]]'
+- '[[zeus-spyeye-takedown]]'
+org_type: regional-org
+parent_org: '[[europol]]'
 source_count: 7
 sources:
-  - "[[2024-02-20-europol-operation-cronos-lockbit]]"
-  - "[[2024-05-30-europol-operation-endgame-botnet-takedown]]"
-  - "[[2024-10-01-europol-operation-cronos-lockbit-phase3]]"
-  - "[[2025-02-11-europol-phobos-8base-ransomware-arrests]]"
-  - "[[2025-05-23-europol-operation-endgame-phase2]]"
-  - "[[2025-05-22-doj-qakbot-gallyamov-indictment]]"
-  - "[[2023-02-08-europol-franco-israeli-ceo-fraud]]"
-  - "[[2025-04-04-europol-operation-stream-kidflix]]"
-source_count: 8
-created: 2026-04-08
-updated: 2026-04-08
+- '[[2024-02-20-europol-operation-cronos-lockbit]]'
+- '[[2024-05-30-europol-operation-endgame-botnet-takedown]]'
+- '[[2024-10-01-europol-operation-cronos-lockbit-phase3]]'
+- '[[2025-02-11-europol-phobos-8base-ransomware-arrests]]'
+- '[[2025-05-23-europol-operation-endgame-phase2]]'
+- '[[2025-05-22-doj-qakbot-gallyamov-indictment]]'
+- '[[2023-02-08-europol-franco-israeli-ceo-fraud]]'
+- '[[2025-04-04-europol-operation-stream-kidflix]]'
+title: Europol European Cybercrime Centre (EC3)
+type: organization
+updated: '2026-04-09'
 ---
 
 ## Summary

@@ -107,8 +107,8 @@ Investment fraud, BEC, and e-commerce fraud accounted for **75%** of cases inves
 | **HAECHI IV** | **2023** | **34** | **3,500** | **$300M** |
 
 [^haechi3]: > [!warning] Source needed — HAECHI III statistics (975 arrests, ~$130M) are not from a collected source. The HAECHI IV press release references a "260% arrest increase over HAECHI III" but does not provide explicit HAECHI III totals.
-| [[operation-haechi-v\|HAECHI V]] | 2024 | 40 | 5,500+ | $400M+ |
-| [[operation-haechi-vi\|HAECHI VI]] | 2025 | 40 | - | $439M |
+| [[operation-haechi-v|HAECHI V]] | 2024 | 40 | 5,500+ | $400M+ |
+| [[operation-haechi-vi|HAECHI VI]] | 2025 | 40 | - | $439M |
 
 ## Results and Impact
 

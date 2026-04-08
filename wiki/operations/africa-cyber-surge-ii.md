@@ -1,73 +1,75 @@
 ---
-type: operation
-title: "Africa Cyber Surge II"
-title_ko: "아프리카 사이버 서지 II"
-aliases: ["Africa Cyber Surge 2", "ACSII"]
-case_id: "CYB-2023-050"
-period: 3
-operation_type: "arrest-sweep"
-status: "completed"
-enforcement_type:
-  - "arrest"
-  - "takedown"
-outcome: "success"
-timeframe:
-  announced: "2023-08-18"
-  start: "2023-04-01"
-  end: "2023-08-01"
-  ongoing: false
-crime_type: "[[online-fraud-ic]]"
-target_entity: "African cybercrime networks"
-lead_agency: "[[interpol]]"
-coordinating_body: "[[interpol]]"
-participating_countries:
-  - "[[cameroon]]"
-  - "[[mauritius]]"
-  - "[[nigeria]]"
-  - "[[gambia]]"
-  - "[[kenya]]"
-  - "[[south-africa]]"
-  - "[[tanzania]]"
-participating_agencies:
-  - "[[interpol]]"
-  - "[[afripol]]"
-legal_basis: []
-mechanisms_used: []
-results:
-  arrests: 14
-  indictments: 0
-  servers_seized: 0
-  domains_seized: 0
-  cryptocurrency_seized: "$40 million linked"
-  decryption_keys_recovered: 0
-  victims_notified: 0
-  other:
-    - "25 African countries participated"
-    - "$40 million linked to cybercrime activities identified"
-    - "INTERPOL-AFRIPOL joint operation"
-    - "Over 20,000 cyber networks identified"
-edges:
-  - source_actor: "INTERPOL"
-    target_actor: "AFRIPOL"
-    cooperation_type: "joint_investigation"
-    legal_basis: "unknown"
-    direction: "undirected"
+aliases:
+- Africa Cyber Surge 2
+- ACSII
+case_id: CYB-2023-050
+challenges_encountered: []
+coordinating_body: '[[interpol]]'
+created: 2026-04-08
 credibility_index: 2.93
-source_tier: 3
+crime_type: '[[online-fraud-ic]]'
+edges:
+- cooperation_type: joint_investigation
+  direction: undirected
+  legal_basis: unknown
+  source_actor: INTERPOL
+  target_actor: AFRIPOL
+enforcement_type:
+- arrest
+- takedown
+lead_agency: '[[interpol]]'
+legal_basis: []
+lessons_learned:
+- Large-scale African cyber operations demonstrate growing regional cooperation capacity
+- INTERPOL-AFRIPOL partnership model effective for pan-African cybercrime operations
+mechanisms_used: []
 missing_fields:
-  - "legal_basis"
-  - "mechanisms_used"
-  - "complete_participating_countries"
+- legal_basis
+- mechanisms_used
+- complete_participating_countries
+operation_type: arrest-sweep
+outcome: success
+participating_agencies:
+- '[[interpol]]'
+- '[[afripol]]'
+participating_countries:
+- '[[cameroon]]'
+- '[[mauritius]]'
+- '[[nigeria]]'
+- '[[gambia]]'
+- '[[kenya]]'
+- '[[south-africa]]'
+- '[[tanzania]]'
+period: 3
 related_cases: []
 related_operations: []
-challenges_encountered: []
-lessons_learned:
-  - "Large-scale African cyber operations demonstrate growing regional cooperation capacity"
-  - "INTERPOL-AFRIPOL partnership model effective for pan-African cybercrime operations"
+results:
+  arrests: 14
+  cryptocurrency_seized: $40 million linked
+  decryption_keys_recovered: 0
+  domains_seized: 0
+  indictments: 0
+  other:
+  - 25 African countries participated
+  - $40 million linked to cybercrime activities identified
+  - INTERPOL-AFRIPOL joint operation
+  - Over 20,000 cyber networks identified
+  servers_seized: 0
+  victims_notified: 0
 source_count: 2
+source_tier: 3
 sources: []
-created: 2026-04-08
-updated: 2026-04-08
+status: completed
+target_entity: African cybercrime networks
+timeframe:
+  announced: '2023-08-18'
+  end: '2023-08-01'
+  ongoing: false
+  start: '2023-04-01'
+title: Africa Cyber Surge II
+title_ko: 아프리카 사이버 서지 II
+type: operation
+updated: '2026-04-09'
 ---
 
 > [!note] This operation is documented from a Tier 3 (cybersecurity media) source. Additional verification from official sources (Tier 1-2) would strengthen data reliability.
@@ -141,8 +143,5 @@ No Korean involvement identified. However, South Korea has supported INTERPOL ca
 
 | # | Title | Publisher | Date | URL |
 |---|-------|----------|------|-----|
-| [1] | Source 1 | therecord.media | - | [원본](https://therecord.media/africa-cyber-surge-14-arrests-interpol) |
-| [2] | Source 2 | vanguardngr.com | - | [원본](https://www.vanguardngr.com/2024/04/interpol-identifies-20-674-suspicious-networks-linked-to-terrorists-money-laundering-others-in-25-african-countries/) |
-| [3] | Supplementary source | nypost.com | - | [원본](https://nypost.com/2017/05/03/cyber-crime-ring-used-photos-of-sexy-women-to-lure-recruits-officials/) |
-| [4] | Supplementary source | cioafrica.co | - | [원본](https://cioafrica.co/kaspersky-supports-interpol-operation-to-combat-cybercrime/) |
-| [5] | Supplementary source | bbc.com | - | [원본](https://www.bbc.com/pidgin/tori-49629324) |
+| [1] | Africa Cyber Surge 14 Arrests Interpol | The Record | 2023-08-18 | [원본](https://therecord.media/africa-cyber-surge-14-arrests-interpol) |
+| [2] | Interpol Identifies 20 674 Suspicious Networks Linked To Terrorists Money Lau... | Vanguard News | 2024-04 | [원본](https://www.vanguardngr.com/2024/04/interpol-identifies-20-674-suspicious-networks-linked-to-terrorists-money-laundering-others-in-25-african-countries/) |

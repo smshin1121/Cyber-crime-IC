@@ -1,104 +1,106 @@
 ---
-type: operation
-title: "Operation Secure (INTERPOL Infostealer Crackdown)"
-aliases: ["Operation Secure", "INTERPOL Infostealer Operation"]
-case_id: "CYB-2025-012"
-period: 3
-operation_type: "infrastructure-seizure"
-status: "completed"
-enforcement_type:
-  - "arrest"
-  - "takedown"
-  - "seizure"
-outcome: "success"
+aliases:
+- Operation Secure
+- INTERPOL Infostealer Operation
+case_id: CYB-2025-012
+challenges_encountered: []
+coordinating_body: '[[interpol-igci]]'
+created: 2026-04-08
 credibility_index: 1.85
-source_tier: 2
+crime_type: '[[hacking-ic]]'
 edges:
-  - source_actor: "INTERPOL"
-    target_actor: "Asia-Pacific LEAs"
-    cooperation_type: "joint_investigation"
-    legal_basis: "unknown"
-    direction: "undirected"
-  - source_actor: "Group-IB"
-    target_actor: "INTERPOL"
-    cooperation_type: "info_sharing"
-    legal_basis: "informal"
-    direction: "directed"
-  - source_actor: "Kaspersky"
-    target_actor: "INTERPOL"
-    cooperation_type: "info_sharing"
-    legal_basis: "informal"
-    direction: "directed"
-  - source_actor: "Trend Micro"
-    target_actor: "INTERPOL"
-    cooperation_type: "info_sharing"
-    legal_basis: "informal"
-    direction: "directed"
-missing_fields:
-  - "legal_basis"
-  - "mechanisms_used"
-  - "individual_country_results"
-  - "cryptocurrency_seized"
-timeframe:
-  announced: "2025-04-01"
-  start: "2025-01-01"
-  end: "2025-04-30"
-  ongoing: false
-crime_type: "[[hacking-ic]]"
-target_entity: "Infostealer malware infrastructure and operators across Asia-Pacific"
-lead_agency: "[[interpol-igci]]"
-coordinating_body: "[[interpol-igci]]"
-participating_countries:
-  - "[[brunei]]"
-  - "[[cambodia]]"
-  - "[[fiji]]"
-  - "[[hong-kong]]"
-  - "[[india]]"
-  - "[[indonesia]]"
-  - "[[japan]]"
-  - "[[kazakhstan]]"
-  - "[[south-korea]]"
-  - "[[laos]]"
-  - "[[malaysia]]"
-  - "[[maldives]]"
-  - "[[nepal]]"
-  - "[[papua-new-guinea]]"
-  - "[[philippines]]"
-  - "[[samoa]]"
-  - "[[singapore]]"
-  - "[[solomon-islands]]"
-  - "[[sri-lanka]]"
-  - "[[thailand]]"
-  - "[[timor-leste]]"
-  - "[[tonga]]"
-  - "[[vanuatu]]"
-  - "[[vietnam]]"
-participating_agencies:
-  - "[[interpol-igci]]"
+- cooperation_type: joint_investigation
+  direction: undirected
+  legal_basis: unknown
+  source_actor: INTERPOL
+  target_actor: Asia-Pacific LEAs
+- cooperation_type: info_sharing
+  direction: directed
+  legal_basis: informal
+  source_actor: Group-IB
+  target_actor: INTERPOL
+- cooperation_type: info_sharing
+  direction: directed
+  legal_basis: informal
+  source_actor: Kaspersky
+  target_actor: INTERPOL
+- cooperation_type: info_sharing
+  direction: directed
+  legal_basis: informal
+  source_actor: Trend Micro
+  target_actor: INTERPOL
+enforcement_type:
+- arrest
+- takedown
+- seizure
+lead_agency: '[[interpol-igci]]'
 legal_basis: []
+lessons_learned: []
 mechanisms_used: []
-results:
-  arrests: 32
-  indictments: 0
-  servers_seized: 41
-  domains_seized: 0
-  cryptocurrency_seized: ""
-  decryption_keys_recovered: 0
-  victims_notified: 216000
-  other:
-    - "20,000+ malicious IPs and domains taken down"
-    - "100GB+ of data seized"
-    - "26 countries participated"
+missing_fields:
+- legal_basis
+- mechanisms_used
+- individual_country_results
+- cryptocurrency_seized
+operation_type: infrastructure-seizure
+outcome: success
+participating_agencies:
+- '[[interpol-igci]]'
+participating_countries:
+- '[[brunei]]'
+- '[[cambodia]]'
+- '[[fiji]]'
+- '[[hong-kong]]'
+- '[[india]]'
+- '[[indonesia]]'
+- '[[japan]]'
+- '[[kazakhstan]]'
+- '[[south-korea]]'
+- '[[laos]]'
+- '[[malaysia]]'
+- '[[maldives]]'
+- '[[nepal]]'
+- '[[papua-new-guinea]]'
+- '[[philippines]]'
+- '[[samoa]]'
+- '[[singapore]]'
+- '[[solomon-islands]]'
+- '[[sri-lanka]]'
+- '[[thailand]]'
+- '[[timor-leste]]'
+- '[[tonga]]'
+- '[[vanuatu]]'
+- '[[vietnam]]'
+period: 3
 related_cases: []
 related_operations:
-  - "[[operation-synergia-ii]]"
-challenges_encountered: []
-lessons_learned: []
-source_count: 1
+- '[[operation-synergia-ii]]'
+results:
+  arrests: 32
+  cryptocurrency_seized: ''
+  decryption_keys_recovered: 0
+  domains_seized: 0
+  indictments: 0
+  other:
+  - 20,000+ malicious IPs and domains taken down
+  - 100GB+ of data seized
+  - 26 countries participated
+  servers_seized: 41
+  victims_notified: 216000
+source_count: 2
+source_tier: 2
 sources:
-  - "[[2025-04-01-interpol-operation-secure-infostealer]]"
-created: 2026-04-08
-updated: 2026-04-08
+- '[[2025-04-01-interpol-operation-secure-infostealer]]'
+status: completed
+target_entity: Infostealer malware infrastructure and operators across Asia-Pacific
+timeframe:
+  announced: '2025-04-01'
+  end: '2025-04-30'
+  ongoing: false
+  start: '2025-01-01'
+title: Operation Secure (INTERPOL Infostealer Crackdown)
+type: operation
+updated: '2026-04-09'
 ---
 
 # Operation Secure (INTERPOL Infostealer Crackdown)
@@ -157,5 +159,5 @@ South Korea (대한민국) was among the 26 participating countries. Specific Ko
 
 | # | Title | Publisher | Date | URL |
 |---|-------|----------|------|-----|
-| [1] | Source 1 | straitstimes.com | - | [원본](https://www.straitstimes.com/singapore/more-than-9000-malware-infected-servers-found-by-singapore-based-interpol-operation) |
-| [2] | Source 2 | freemalaysiatoday.com | - | [원본](https://www.freemalaysiatoday.com/category/nation/2017/04/24/interpol-finds-9000-compromised-websites) |
+| [1] | More Than 9000 Malware Infected Servers Found By Singapore Based Interpol Ope... | straitstimes.com | 2025-04-01 | [원본](https://www.straitstimes.com/singapore/more-than-9000-malware-infected-servers-found-by-singapore-based-interpol-operation) |
+| [2] | Interpol Finds 9000 Compromised Websites | freemalaysiatoday.com | 2017-04-24 | [원본](https://www.freemalaysiatoday.com/category/nation/2017/04/24/interpol-finds-9000-compromised-websites) |

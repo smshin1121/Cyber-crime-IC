@@ -7,8 +7,9 @@ import sys
 import shutil
 from pathlib import Path
 
-# Add parent to path so we can import the app
+# Add parent and tools to path
 sys.path.insert(0, str(Path(__file__).parent))
+sys.path.insert(0, str(Path(__file__).resolve().parent.parent / "tools"))
 
 from app import app, WIKI_DIR, CATEGORIES, get_all_pages
 
@@ -17,6 +18,14 @@ OUTPUT_DIR = Path(__file__).resolve().parent.parent / "docs"
 
 def build() -> None:
     """Generate static HTML site in docs/ directory."""
+    # Sync statistics before building
+    try:
+        from sync_stats import main as sync_main
+        print("Syncing statistics...")
+        sync_main()
+    except Exception as e:
+        print(f"  Warning: stats sync skipped ({e})")
+
     # Clean output
     if OUTPUT_DIR.exists():
         shutil.rmtree(OUTPUT_DIR)

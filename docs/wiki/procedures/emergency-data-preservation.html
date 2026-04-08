@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html lang="ko">
+<html lang="ko" class="lang-ko">
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
@@ -11,22 +11,28 @@
 <body>
   <nav class="top-nav">
     <div class="top-nav-inner">
-      <a href="../../" class="nav-logo">🌐 사이버범죄 국제공조 위키</a>
+      <a href="../../" class="nav-logo">
+        <span class="i18n" data-ko="🌐 사이버범죄 국제공조 위키" data-en="🌐 Cybercrime IC Wiki"></span>
+      </a>
       <div class="nav-links">
-        <a href="../../category/operations.html">작전</a>
-        <a href="../../category/organizations.html">기관</a>
-        <a href="../../category/countries.html">국가</a>
-        <a href="../../category/legal-frameworks.html">법적 프레임워크</a>
-        <a href="../../category/mechanisms.html">메커니즘</a>
-        <a href="../../category/crime-types.html">범죄유형</a>
-        <a href="../../category/concepts.html">개념</a>
-        <a href="../../category/sources.html">출처</a>
-        <a href="../../stats.html">통계</a>
+        <a href="../../category/operations.html"><span class="i18n" data-ko="작전" data-en="Operations"></span></a>
+        <a href="../../category/organizations.html"><span class="i18n" data-ko="기관" data-en="Organizations"></span></a>
+        <a href="../../category/countries.html"><span class="i18n" data-ko="국가" data-en="Countries"></span></a>
+        <a href="../../category/legal-frameworks.html"><span class="i18n" data-ko="법적 프레임워크" data-en="Legal Frameworks"></span></a>
+        <a href="../../category/mechanisms.html"><span class="i18n" data-ko="메커니즘" data-en="Mechanisms"></span></a>
+        <a href="../../category/crime-types.html"><span class="i18n" data-ko="범죄유형" data-en="Crime Types"></span></a>
+        <a href="../../category/concepts.html"><span class="i18n" data-ko="개념" data-en="Concepts"></span></a>
+        <a href="../../category/sources.html"><span class="i18n" data-ko="출처" data-en="Sources"></span></a>
+        <a href="../../stats.html"><span class="i18n" data-ko="통계" data-en="Statistics"></span></a>
       </div>
       <form class="nav-search" action="../../search.html" method="get">
-        <input type="text" name="q" placeholder="위키 검색..." value="">
-        <button type="submit">검색</button>
+        <input type="text" name="q" class="i18n-placeholder" data-ko="위키 검색..." data-en="Search wiki..." value="">
+        <button type="submit"><span class="i18n" data-ko="검색" data-en="Search"></span></button>
       </form>
+      <button class="lang-toggle" id="langToggle" title="한국어/English">
+        <span class="lang-flag lang-flag-ko">🇰🇷 한</span>
+        <span class="lang-flag lang-flag-en">🇺🇸 EN</span>
+      </button>
     </div>
   </nav>
 
@@ -34,25 +40,37 @@
 <div class="page-wrapper">
   <main class="article">
     <div class="article-header">
-      <h1>Emergency Data Preservation Request (Budapest Convention Art. 29)</h1>
+      <h1>
+        
+          Emergency Data Preservation Request (Budapest Convention Art. 29)
+        
+      </h1>
       <div class="article-meta">
         
-          <span class="badge">procedure</span>
+          <span class="badge">
+            <span class="i18n" data-ko="procedure" data-en="procedure"></span>
+          </span>
         
         
-          <span><a href="../../category/procedures.html">절차</a></span>
+          <span><a href="../../category/procedures.html">
+            <span class="i18n"
+              data-ko="절차"
+              data-en="Procedures"></span>
+          </a></span>
         
         
-          <span>최종 수정: 2026-04-08</span>
+          <span>
+            <span class="i18n" data-ko="최종 수정" data-en="Updated"></span>: 2026-04-08
+          </span>
         
         
       </div>
     </div>
     <div class="article-body">
-      <h2 id="summary">Summary</h2>
+      <h2 id="summary"><span class="heading-ko">개요</span><span class="heading-en">Summary</span></h2>
 <p>The Emergency Data Preservation Request under Budapest Convention Art. 29 is the <strong>primary mechanism</strong> for preventing the deletion or loss of electronic evidence stored in a foreign jurisdiction while formal mutual legal assistance procedures are prepared. It leverages the <a href="../../wiki/mechanisms/24-7-network.html" class="wikilink">24-7-network</a> established under Art. 35 to transmit urgent preservation requests between Budapest Convention parties.</p>
 <p>This procedure is <em>almost certainly</em> the most time-sensitive IC tool available to cybercrime investigators. Electronic evidence is volatile — server logs may be overwritten, accounts deleted, and cloud data purged according to provider retention policies. Art. 29 preservation creates a <strong>60-day bridge</strong> between the detection of foreign-held evidence and the formal MLA process required to obtain it.</p>
-<h2 id="legal-basis">Legal Basis</h2>
+<h2 id="legal-basis"><span class="heading-ko">법적 근거</span><span class="heading-en">Legal Basis</span></h2>
 <h3 id="budapest-convention-art-29-expedited-preservation-of-stored-computer-data">Budapest Convention Art. 29: Expedited Preservation of Stored Computer Data</h3>
 <p>Art. 29(1): "A Party may request another Party to order or otherwise obtain the expeditious preservation of data stored by means of a computer system, located within the territory of that other Party and in respect of which the requesting Party intends to submit a request for mutual assistance for the search or similar access, seizure or similar securing, or disclosure of the data."</p>
 <p>Key legal features:
@@ -62,14 +80,14 @@
 - <strong>Traffic data disclosure</strong> (Art. 30): If during preservation execution, traffic data reveals the involvement of a service provider in another state, the preserving party must expeditiously disclose enough traffic data to enable the requesting party to identify that other provider and the path of the communication.</p>
 <h3 id="budapest-convention-art-35-247-network">Budapest Convention Art. 35: 24/7 Network</h3>
 <p>The 24/7 Network is the <strong>designated channel</strong> for transmitting Art. 29 requests. Each party designates a point of contact available 24/7 to facilitate urgent preservation requests and other immediate assistance.</p>
-<h2 id="prerequisites">Prerequisites</h2>
+<h2 id="prerequisites"><span class="heading-ko">전제조건</span><span class="heading-en">Prerequisites</span></h2>
 <ol>
 <li><strong>Budapest Convention membership:</strong> Both the requesting and requested states must be parties to the Convention (or have an equivalent bilateral arrangement)</li>
 <li><strong>Active criminal investigation:</strong> The requesting state must have an ongoing investigation concerning offenses related to computer systems or data</li>
 <li><strong>Urgency/risk of loss:</strong> The requesting state must demonstrate that the data is at risk of modification, loss, or deletion</li>
 <li><strong>Intent to follow up:</strong> The requesting state must intend to submit a formal MLA request for production of the preserved data</li>
 </ol>
-<h2 id="step-by-step-process">Step-by-Step Process</h2>
+<h2 id="step-by-step-process"><span class="heading-ko">단계별 절차</span><span class="heading-en">Step-by-Step Process</span></h2>
 <h3 id="step-1-identify-at-risk-foreign-evidence">Step 1: Identify At-Risk Foreign Evidence</h3>
 <p>The investigator identifies electronic evidence stored in a foreign jurisdiction that is at risk of deletion:
 - Server logs at a foreign hosting provider
@@ -110,7 +128,7 @@
 <p>The requesting state must submit a formal MLA request for <strong>production</strong> of the preserved data within the 60-day preservation period. This follows the standard <a href="../../wiki/mechanisms/mlat-process.html" class="wikilink">mlat-process</a> or Budapest Convention Art. 31 procedure.</p>
 <div class="callout callout-warning"><div class="callout-title">⚠️ Critical
 Preservation only prevents deletion — it does NOT provide access to the data. A formal MLA request is always required for actual production.</div><div class="callout-body"></div></div>
-<h2 id="required-documents">Required Documents</h2>
+<h2 id="required-documents"><span class="heading-ko">필요 서류</span><span class="heading-en">Required Documents</span></h2>
 <table>
 <thead>
 <tr>
@@ -152,7 +170,7 @@ Preservation only prevents deletion — it does NOT provide access to the data. 
 </tr>
 </tbody>
 </table>
-<h2 id="timelines">Timelines</h2>
+<h2 id="timelines"><span class="heading-ko">소요 기간</span><span class="heading-en">Timelines</span></h2>
 <table>
 <thead>
 <tr>
@@ -195,7 +213,7 @@ Preservation only prevents deletion — it does NOT provide access to the data. 
 </tbody>
 </table>
 <p><strong>Total critical timeline:</strong> 24-72 hours from request to preservation confirmed.</p>
-<h2 id="practical-tips">Practical Tips</h2>
+<h2 id="practical-tips"><span class="heading-ko">실무 팁</span><span class="heading-en">Practical Tips</span></h2>
 <ol>
 <li><strong>Prepare MLA in parallel:</strong> Begin drafting the formal MLA request simultaneously with the Art. 29 preservation request — do not wait for confirmation</li>
 <li><strong>Be specific:</strong> Specify exact data types, accounts, IP addresses, and date ranges. Vague requests are more likely to be refused or executed imperfectly</li>
@@ -204,14 +222,14 @@ Preservation only prevents deletion — it does NOT provide access to the data. 
 <li><strong>Track retention policies:</strong> Maintain awareness of major providers' data retention policies (some delete logs in 30 days or less)</li>
 <li><strong>Use Art. 30 proactively:</strong> If traffic data reveals involvement of additional jurisdictions, request expedited disclosure under Art. 30 immediately</li>
 </ol>
-<h2 id="country-specific-variations">Country-Specific Variations</h2>
+<h2 id="country-specific-variations"><span class="heading-ko">국가별 차이</span><span class="heading-en">Country-Specific Variations</span></h2>
 <h3 id="united-states">United States</h3>
 <p>The US 24/7 contact point is the <a href="../../wiki/organizations/us-doj.html" class="wikilink">Department of Justice, Computer Crime and Intellectual Property Section (CCIPS)</a>. US domestic preservation is governed by 18 U.S.C. 2703(f), which allows LEA to request providers to preserve records for 90 days (renewable for an additional 90 days).</p>
 <h3 id="united-kingdom">United Kingdom</h3>
 <p>The UK 24/7 contact point is within the <a href="../../wiki/organizations/uk-nca.html" class="wikilink">National Crime Agency</a>. The UK Regulation of Investigatory Powers Act 2000 and the Investigatory Powers Act 2016 govern domestic preservation.</p>
 <h3 id="germany">Germany</h3>
 <p>Germany's 24/7 contact point is within the <a href="../../wiki/organizations/germany-bka.html" class="wikilink">Bundeskriminalamt</a>. German domestic law may impose additional requirements for preservation orders, and the judicial review process can add time.</p>
-<h2 id="common-pitfalls">Common Pitfalls</h2>
+<h2 id="common-pitfalls"><span class="heading-ko">일반적 함정</span><span class="heading-en">Common Pitfalls</span></h2>
 <ol>
 <li><strong>Confusing preservation with production:</strong> Art. 29 preservation prevents deletion; it does NOT give the requesting state access to the data</li>
 <li><strong>Missing the 60-day window:</strong> If the formal MLA request is not submitted within 60 days, the preservation may be lifted and the data lost</li>
@@ -220,7 +238,7 @@ Preservation only prevents deletion — it does NOT provide access to the data. 
 <li><strong>Weekend/holiday delays:</strong> While the 24/7 Network is designed for round-the-clock operation, some contact points have reduced capacity outside business hours</li>
 <li><strong>Language barriers:</strong> Requests not in a common language may be delayed for translation</li>
 </ol>
-<h2 id="related-procedures">Related Procedures</h2>
+<h2 id="related-procedures"><span class="heading-ko">관련 절차</span><span class="heading-en">Related Procedures</span></h2>
 <ul>
 <li><strong><a href="../../wiki/procedures/extradition-request.html" class="wikilink">extradition-request</a></strong> — May follow if investigation leads to an arrest warrant for a suspect abroad</li>
 <li>Standard <a href="../../wiki/mechanisms/mlat-process.html" class="wikilink">mlat-process</a> — Required follow-up for actual production of preserved data</li>
@@ -248,7 +266,7 @@ The exact designation of Korea's 24/7 contact point should be confirmed. The Bud
 3. Include specific technical details (IP addresses, account identifiers, date ranges)
 4. Begin formal MLA preparation simultaneously to avoid missing the 60-day window
 5. Maintain awareness that some requested states may have longer processing times</p>
-<h2 id="contradictions-open-questions">Contradictions &amp; Open Questions</h2>
+<h2 id="contradictions-open-questions"><span class="heading-ko">모순점 및 미해결 문제</span><span class="heading-en">Contradictions &amp; Open Questions</span></h2>
 <ol>
 <li><strong>Renewal mechanism:</strong> Can the 60-day preservation period be extended, and how often? Art. 29(7) is ambiguous about multiple extensions.</li>
 <li><strong>Provider compliance rates:</strong> What percentage of service providers comply fully with Art. 29 preservation orders? No systematic data is available.</li>
@@ -263,14 +281,14 @@ The exact designation of Korea's 24/7 contact point should be confirmed. The Bud
     
 
     <div class="cat-nav">
-      <h3>카테고리</h3>
+      <h3><span class="i18n" data-ko="카테고리" data-en="Categories"></span></h3>
       <ul>
         
         <li>
           📜
           <a href="../../category/legal-frameworks.html"
              >
-            법적 프레임워크
+            <span class="i18n" data-ko="법적 프레임워크" data-en="Legal Frameworks"></span>
           </a>
         </li>
         
@@ -278,7 +296,7 @@ The exact designation of Korea's 24/7 contact point should be confirmed. The Bud
           🏛️
           <a href="../../category/organizations.html"
              >
-            기관
+            <span class="i18n" data-ko="기관" data-en="Organizations"></span>
           </a>
         </li>
         
@@ -286,7 +304,7 @@ The exact designation of Korea's 24/7 contact point should be confirmed. The Bud
           🌍
           <a href="../../category/countries.html"
              >
-            국가
+            <span class="i18n" data-ko="국가" data-en="Countries"></span>
           </a>
         </li>
         
@@ -294,7 +312,7 @@ The exact designation of Korea's 24/7 contact point should be confirmed. The Bud
           🎯
           <a href="../../category/operations.html"
              >
-            작전
+            <span class="i18n" data-ko="작전" data-en="Operations"></span>
           </a>
         </li>
         
@@ -302,7 +320,7 @@ The exact designation of Korea's 24/7 contact point should be confirmed. The Bud
           ⚖️
           <a href="../../category/cases.html"
              >
-            사건
+            <span class="i18n" data-ko="사건" data-en="Cases"></span>
           </a>
         </li>
         
@@ -310,7 +328,7 @@ The exact designation of Korea's 24/7 contact point should be confirmed. The Bud
           🔗
           <a href="../../category/mechanisms.html"
              >
-            공조 메커니즘
+            <span class="i18n" data-ko="공조 메커니즘" data-en="Mechanisms"></span>
           </a>
         </li>
         
@@ -318,7 +336,7 @@ The exact designation of Korea's 24/7 contact point should be confirmed. The Bud
           📋
           <a href="../../category/procedures.html"
              style="font-weight:700">
-            절차
+            <span class="i18n" data-ko="절차" data-en="Procedures"></span>
           </a>
         </li>
         
@@ -326,7 +344,7 @@ The exact designation of Korea's 24/7 contact point should be confirmed. The Bud
           🔒
           <a href="../../category/crime-types.html"
              >
-            범죄유형
+            <span class="i18n" data-ko="범죄유형" data-en="Crime Types"></span>
           </a>
         </li>
         
@@ -334,7 +352,7 @@ The exact designation of Korea's 24/7 contact point should be confirmed. The Bud
           ⚠️
           <a href="../../category/challenges.html"
              >
-            과제
+            <span class="i18n" data-ko="과제" data-en="Challenges"></span>
           </a>
         </li>
         
@@ -342,7 +360,7 @@ The exact designation of Korea's 24/7 contact point should be confirmed. The Bud
           📖
           <a href="../../category/concepts.html"
              >
-            법적 개념
+            <span class="i18n" data-ko="법적 개념" data-en="Concepts"></span>
           </a>
         </li>
         
@@ -350,7 +368,7 @@ The exact designation of Korea's 24/7 contact point should be confirmed. The Bud
           📰
           <a href="../../category/sources.html"
              >
-            출처
+            <span class="i18n" data-ko="출처" data-en="Sources"></span>
           </a>
         </li>
         
@@ -358,7 +376,7 @@ The exact designation of Korea's 24/7 contact point should be confirmed. The Bud
           📊
           <a href="../../category/analysis.html"
              >
-            분석
+            <span class="i18n" data-ko="분석" data-en="Analysis"></span>
           </a>
         </li>
         
@@ -366,7 +384,7 @@ The exact designation of Korea's 24/7 contact point should be confirmed. The Bud
           📅
           <a href="../../category/timelines.html"
              >
-            타임라인
+            <span class="i18n" data-ko="타임라인" data-en="Timelines"></span>
           </a>
         </li>
         
@@ -377,9 +395,57 @@ The exact designation of Korea's 24/7 contact point should be confirmed. The Bud
 
 
   <div class="footer">
-    사이버범죄 국제공조 위키 &mdash; LLM Wiki Pattern &mdash;
-    Powered by <a href="https://obsidian.md">Obsidian</a> + Flask &mdash;
-    2026-04-09 기준 데이터
+    <span class="i18n"
+      data-ko="사이버범죄 국제공조 위키 &mdash; LLM Wiki Pattern &mdash; 2026-04-09 기준 데이터"
+      data-en="Cybercrime International Cooperation Wiki &mdash; LLM Wiki Pattern &mdash; Data as of 2026-04-09">
+    </span>
   </div>
+
+  <script>
+  (function() {
+    // Language toggle system — Korean default
+    var STORAGE_KEY = 'wiki-lang';
+
+    function getLang() {
+      return localStorage.getItem(STORAGE_KEY) || 'ko';
+    }
+
+    function setLang(lang) {
+      localStorage.setItem(STORAGE_KEY, lang);
+      applyLang(lang);
+    }
+
+    function applyLang(lang) {
+      var html = document.documentElement;
+      html.classList.remove('lang-ko', 'lang-en');
+      html.classList.add('lang-' + lang);
+      html.setAttribute('lang', lang === 'ko' ? 'ko' : 'en');
+
+      // Update i18n text content
+      document.querySelectorAll('.i18n').forEach(function(el) {
+        var text = el.getAttribute('data-' + lang);
+        if (text) el.innerHTML = text;
+      });
+
+      // Update i18n placeholders
+      document.querySelectorAll('.i18n-placeholder').forEach(function(el) {
+        var text = el.getAttribute('data-' + lang);
+        if (text) el.setAttribute('placeholder', text);
+      });
+    }
+
+    // Toggle button
+    var btn = document.getElementById('langToggle');
+    if (btn) {
+      btn.addEventListener('click', function() {
+        var current = getLang();
+        setLang(current === 'ko' ? 'en' : 'ko');
+      });
+    }
+
+    // Apply saved language on load
+    applyLang(getLang());
+  })();
+  </script>
 </body>
 </html>

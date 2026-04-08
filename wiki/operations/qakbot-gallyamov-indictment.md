@@ -1,82 +1,87 @@
 ---
-type: operation
-title: "QakBot / Gallyamov Indictment"
-aliases: ["Qakbot Indictment", "United States v. Gallyamov"]
-operation_type: "joint-investigation"
-status: "ongoing"
-case_id: "CYB-2025-005"
-period: 3
-enforcement_type:
-  - "indictment"
-  - "asset_freeze"
-outcome: "ongoing"
+aliases:
+- Qakbot Indictment
+- United States v. Gallyamov
+case_id: CYB-2025-005
+challenges_encountered:
+- Suspect located in Russia — extradition highly unlikely given geopolitical situation
+- Criminal activity continued even after botnet infrastructure takedown in August
+  2023
+coordinating_body: '[[europol-ec3]]'
+created: 2026-04-08
 credibility_index: 3.25
-source_tier: 2
+crime_type: '[[ransomware-ic]]'
 edges:
-  - source_actor: "FBI"
-    target_actor: "Europol"
-    cooperation_type: "joint_investigation"
-    legal_basis: "unknown"
-    direction: "undirected"
-  - source_actor: "FBI"
-    target_actor: "German BKA"
-    cooperation_type: "joint_investigation"
-    legal_basis: "unknown"
-    direction: "undirected"
-  - source_actor: "FBI"
-    target_actor: "Dutch National Police"
-    cooperation_type: "joint_investigation"
-    legal_basis: "unknown"
-    direction: "undirected"
-missing_fields:
-  - "legal_basis"
-  - "mechanisms_used"
-timeframe:
-  announced: "2025-05-22"
-  start: "2008"
-  end: ""
-  ongoing: true
-crime_type: "[[ransomware-ic]]"
-target_entity: "Rustam Rafailevich Gallyamov and Qakbot malware network"
-lead_agency: "[[fbi-cyber-division]]"
-coordinating_body: "[[europol-ec3]]"
-participating_countries:
-  - "[[united-states]]"
-  - "[[united-kingdom]]"
-  - "[[france]]"
-  - "[[germany]]"
-  - "[[netherlands]]"
-participating_agencies:
-  - "[[fbi-cyber-division]]"
-  - "[[europol-ec3]]"
+- cooperation_type: joint_investigation
+  direction: undirected
+  legal_basis: unknown
+  source_actor: FBI
+  target_actor: Europol
+- cooperation_type: joint_investigation
+  direction: undirected
+  legal_basis: unknown
+  source_actor: FBI
+  target_actor: German BKA
+- cooperation_type: joint_investigation
+  direction: undirected
+  legal_basis: unknown
+  source_actor: FBI
+  target_actor: Dutch National Police
+enforcement_type:
+- indictment
+- asset_freeze
+lead_agency: '[[fbi-cyber-division]]'
 legal_basis: []
+lessons_learned:
+- Infrastructure takedowns alone may not stop determined operators; sustained investigation
+  and indictment are necessary
+- Cryptocurrency forfeiture provides financial disruption even when arrest is not
+  immediately possible
 mechanisms_used: []
-results:
-  arrests: 0
-  indictments: 1
-  servers_seized: 0
-  domains_seized: 0
-  cryptocurrency_seized: "USD 24,000,000+"
-  decryption_keys_recovered: 0
-  victims_notified: 0
-  other:
-    - "Civil forfeiture complaint filed for USD 24M+ in cryptocurrency"
-    - "Continues from FBI's August 2023 QakBot botnet takedown"
-    - "Gallyamov allegedly continued criminal activity through January 2025"
+missing_fields:
+- legal_basis
+- mechanisms_used
+operation_type: joint-investigation
+outcome: ongoing
+participating_agencies:
+- '[[fbi-cyber-division]]'
+- '[[europol-ec3]]'
+participating_countries:
+- '[[united-states]]'
+- '[[united-kingdom]]'
+- '[[france]]'
+- '[[germany]]'
+- '[[netherlands]]'
+period: 3
 related_cases: []
 related_operations:
-  - "[[operation-endgame-phase1]]"
-  - "[[operation-endgame-phase2]]"
-challenges_encountered:
-  - "Suspect located in Russia — extradition highly unlikely given geopolitical situation"
-  - "Criminal activity continued even after botnet infrastructure takedown in August 2023"
-lessons_learned:
-  - "Infrastructure takedowns alone may not stop determined operators; sustained investigation and indictment are necessary"
-  - "Cryptocurrency forfeiture provides financial disruption even when arrest is not immediately possible"
+- '[[operation-endgame-phase1]]'
+- '[[operation-endgame-phase2]]'
+results:
+  arrests: 0
+  cryptocurrency_seized: USD 24,000,000+
+  decryption_keys_recovered: 0
+  domains_seized: 0
+  indictments: 1
+  other:
+  - Civil forfeiture complaint filed for USD 24M+ in cryptocurrency
+  - Continues from FBI's August 2023 QakBot botnet takedown
+  - Gallyamov allegedly continued criminal activity through January 2025
+  servers_seized: 0
+  victims_notified: 0
 source_count: 1
+source_tier: 2
 sources:
-  - "[[2025-05-22-doj-qakbot-gallyamov-indictment]]"
-created: 2026-04-08
+- '[[2025-05-22-doj-qakbot-gallyamov-indictment]]'
+status: ongoing
+target_entity: Rustam Rafailevich Gallyamov and Qakbot malware network
+timeframe:
+  announced: '2025-05-22'
+  end: ''
+  ongoing: true
+  start: '2008'
+title: QakBot / Gallyamov Indictment
+type: operation
 updated: 2026-04-08
 ---
 
@@ -120,4 +125,3 @@ No Korean involvement noted in this case.
 | # | Title | Publisher | Date | URL |
 |---|-------|----------|------|-----|
 | [1] | Leader of Qakbot Malware Conspiracy Indicted — Gallyamov Indictment | US DOJ | 2025-05-22 | [원본](https://www.justice.gov/opa/pr/leader-qakbot-malware-conspiracy-indicted-involvement-global-ransomware-scheme) |
-| [2] | Supplementary source | curacaochronicle.com | - | [원본](https://www.curacaochronicle.com/post/world/international-operation-dismantles-qakbot-malware-22-servers-seized-in-the-netherlands/) |

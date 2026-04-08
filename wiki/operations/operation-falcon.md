@@ -1,66 +1,69 @@
 ---
-type: operation
-title: "Operation Falcon"
-title_ko: "Operation Falcon (나이지리아 BEC 조직 단속)"
 aliases: []
-case_id: "CYB-2020-001"
-period: 2
-operation_type: "arrest-sweep"
-status: "completed"
-enforcement_type: ["arrest"]
-outcome: "success"
-timeframe:
-  announced: "2020-11"
-  start: "2019"
-  end: "2020-11"
-  ongoing: false
-crime_type: "[[bec-ic]]"
-target_entity: "Nigerian BEC group (TMT)"
-lead_agency: "[[interpol]]"
-coordinating_body: "[[interpol]]"
-participating_countries:
-  - "[[nigeria]]"
-participating_agencies:
-  - "[[interpol]]"
-  - "[[group-ib]]"
-  - "[[nigeria-police-force]]"
-legal_basis: []
-mechanisms_used: []
-results:
-  arrests: 3
-  indictments: 0
-  servers_seized: 0
-  domains_seized: 0
-  cryptocurrency_seized: ""
-  decryption_keys_recovered: 0
-  victims_notified: 0
-  other:
-    - "26 types of malware used by group identified"
-    - "150+ countries targeted"
-    - "Phishing and BEC schemes targeting government and private sector"
-edges:
-  - source_actor: "INTERPOL"
-    target_actor: "Group-IB"
-    cooperation_type: "technical_assistance"
-    legal_basis: "unknown"
-    direction: "undirected"
-  - source_actor: "INTERPOL"
-    target_actor: "Nigeria Police Force"
-    cooperation_type: "joint_investigation"
-    legal_basis: "unknown"
-    direction: "undirected"
+case_id: CYB-2020-001
+challenges_encountered: []
+coordinating_body: '[[interpol]]'
+created: 2026-04-08
 credibility_index: 3.62
-source_tier: 2
-missing_fields: ["legal_basis", "mechanisms_used"]
+crime_type: '[[bec-ic]]'
+edges:
+- cooperation_type: technical_assistance
+  direction: undirected
+  legal_basis: unknown
+  source_actor: INTERPOL
+  target_actor: Group-IB
+- cooperation_type: joint_investigation
+  direction: undirected
+  legal_basis: unknown
+  source_actor: INTERPOL
+  target_actor: Nigeria Police Force
+enforcement_type:
+- arrest
+lead_agency: '[[interpol]]'
+legal_basis: []
+lessons_learned: []
+mechanisms_used: []
+missing_fields:
+- legal_basis
+- mechanisms_used
+operation_type: arrest-sweep
+outcome: success
+participating_agencies:
+- '[[interpol]]'
+- '[[group-ib]]'
+- '[[nigeria-police-force]]'
+participating_countries:
+- '[[nigeria]]'
+period: 2
 related_cases: []
 related_operations: []
-challenges_encountered: []
-lessons_learned: []
-source_count: 1
+results:
+  arrests: 3
+  cryptocurrency_seized: ''
+  decryption_keys_recovered: 0
+  domains_seized: 0
+  indictments: 0
+  other:
+  - 26 types of malware used by group identified
+  - 150+ countries targeted
+  - Phishing and BEC schemes targeting government and private sector
+  servers_seized: 0
+  victims_notified: 0
+source_count: 4
+source_tier: 2
 sources:
-  - "[1] INTERPOL News (2020-11)"
-created: 2026-04-08
-updated: 2026-04-08
+- '[1] INTERPOL News (2020-11)'
+status: completed
+target_entity: Nigerian BEC group (TMT)
+timeframe:
+  announced: 2020-11
+  end: 2020-11
+  ongoing: false
+  start: '2019'
+title: Operation Falcon
+title_ko: Operation Falcon (나이지리아 BEC 조직 단속)
+type: operation
+updated: '2026-04-09'
 ---
 
 ## Summary
@@ -90,7 +93,7 @@ Nigeria (arrests made domestically; victims across 150+ countries)
 
 | # | Title | Publisher | Date | URL |
 |---|-------|----------|------|-----|
-| [1] | Source 1 | pmnewsnigeria.com | - | [원본](https://pmnewsnigeria.com/2020/11/27/interpol-3-nigerians-busted-for-cyber-crime-operate-in-150-countries/) |
-| [2] | Source 2 | guardian.ng | - | [원본](https://guardian.ng/news/nigerian-police-join-interpol-group-ib-to-arrest-three-suspected-tmt-fraudsters/#google_vignette) |
-| [3] | Source 3 | interpol.int | - | [원본](https://www.interpol.int/News-and-Events/News/2020/Three-arrested-as-INTERPOL-Group-IB-and-the-Nigeria-Police-Force-disrupt-prolific-cybercrime-group) |
-| [4] | Source 4 | cyberscoop.com | - | [원본](https://cyberscoop.com/nigeria-email-scam-arrests-bec-group-ib/) |
+| [1] | Interpol 3 Nigerians Busted For Cyber Crime Operate In 150 Countries | pmnewsnigeria.com | 2020-11-27 | [원본](https://pmnewsnigeria.com/2020/11/27/interpol-3-nigerians-busted-for-cyber-crime-operate-in-150-countries/) |
+| [2] | #Google Vignette | guardian.ng | 2020-11 | [원본](https://guardian.ng/news/nigerian-police-join-interpol-group-ib-to-arrest-three-suspected-tmt-fraudsters/#google_vignette) |
+| [3] | Three Arrested As Interpol Group Ib And The Nigeria Police Force Disrupt Prol... | INTERPOL | 2020-11 | [원본](https://www.interpol.int/News-and-Events/News/2020/Three-arrested-as-INTERPOL-Group-IB-and-the-Nigeria-Police-Force-disrupt-prolific-cybercrime-group) |
+| [4] | Nigeria Email Scam Arrests Bec Group Ib | CyberScoop | 2020-11 | [원본](https://cyberscoop.com/nigeria-email-scam-arrests-bec-group-ib/) |

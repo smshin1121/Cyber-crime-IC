@@ -1,63 +1,65 @@
 ---
-type: operation
-title: "Banking Trojan Fraud Sentencing"
-title_ko: "뱅킹 트로이목마 사기 판결"
-aliases: ["Banking trojan home IP fraud case"]
-case_id: "CYB-2017-051"
-period: 1
-operation_type: "joint-investigation"
-status: "completed"
-enforcement_type:
-  - "arrest"
-  - "indictment"
-outcome: "success"
-timeframe:
-  announced: "2017-01-01"
-  start: "2017-01-01"
-  end: "2017-12-31"
-  ongoing: false
-crime_type: "[[banking-trojan-ic]]"
-target_entity: "Banking fraud perpetrator (used home IP)"
-lead_agency: ""
-coordinating_body: ""
-participating_countries:
-  - "[[united-states]]"
-participating_agencies: []
-legal_basis: []
-mechanisms_used: []
-results:
-  arrests: 1
-  indictments: 1
-  servers_seized: 0
-  domains_seized: 0
-  cryptocurrency_seized: ""
-  decryption_keys_recovered: 0
-  victims_notified: 0
-  other:
-    - "5-year prison sentence for banking fraud using trojans"
-edges:
-  - source_actor: "US DOJ"
-    target_actor: "unknown"
-    cooperation_type: "joint_investigation"
-    legal_basis: "unknown"
-    direction: "undirected"
+aliases:
+- Banking trojan home IP fraud case
+case_id: CYB-2017-051
+challenges_encountered: []
+coordinating_body: ''
+created: 2026-04-08
 credibility_index: 2.55
-source_tier: 3
+crime_type: '[[banking-trojan-ic]]'
+edges:
+- cooperation_type: joint_investigation
+  direction: undirected
+  legal_basis: unknown
+  source_actor: US DOJ
+  target_actor: unknown
+enforcement_type:
+- arrest
+- indictment
+lead_agency: ''
+legal_basis: []
+lessons_learned:
+- Operational security failures (using home IP address) can lead to identification
+  and prosecution
+mechanisms_used: []
 missing_fields:
-  - "legal_basis"
-  - "mechanisms_used"
-  - "exact_timeframe"
-  - "participating_agencies"
-  - "international_cooperation_details"
+- legal_basis
+- mechanisms_used
+- exact_timeframe
+- participating_agencies
+- international_cooperation_details
+operation_type: joint-investigation
+outcome: success
+participating_agencies: []
+participating_countries:
+- '[[united-states]]'
+period: 1
 related_cases: []
 related_operations: []
-challenges_encountered: []
-lessons_learned:
-  - "Operational security failures (using home IP address) can lead to identification and prosecution"
+results:
+  arrests: 1
+  cryptocurrency_seized: ''
+  decryption_keys_recovered: 0
+  domains_seized: 0
+  indictments: 1
+  other:
+  - 5-year prison sentence for banking fraud using trojans
+  servers_seized: 0
+  victims_notified: 0
 source_count: 1
+source_tier: 3
 sources:
-  - "tier3-bleepingcomputer-banking-trojan-2017"
-created: 2026-04-08
+- tier3-bleepingcomputer-banking-trojan-2017
+status: completed
+target_entity: Banking fraud perpetrator (used home IP)
+timeframe:
+  announced: '2017-01-01'
+  end: '2017-12-31'
+  ongoing: false
+  start: '2017-01-01'
+title: Banking Trojan Fraud Sentencing
+title_ko: 뱅킹 트로이목마 사기 판결
+type: operation
 updated: 2026-04-08
 ---
 
@@ -117,6 +119,3 @@ No Korean involvement identified.
 | # | Title | Publisher | Date | URL |
 |---|-------|----------|------|-----|
 | [1] | Crook Who Used His Home IP Address for Banking Fraud Gets 5 Years in Prison | BleepingComputer | ~2017 | [link](https://www.bleepingcomputer.com/news/security/crook-who-used-his-home-ip-address-for-banking-fraud-gets-5-years-in-prison/) |
-| [1] | Supplementary source | nytimes.com | - | [원본](https://www.nytimes.com/2017/04/21/technology/russian-hacker-sentenced.html) |
-| [2] | Supplementary source | arabnews.com | - | [원본](https://www.arabnews.com/node/1141451/world) |
-| [3] | Supplementary source | bbc.com | - | [원본](https://www.bbc.com/news/uk-43893420) |

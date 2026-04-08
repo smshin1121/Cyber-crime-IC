@@ -1,45 +1,54 @@
 ---
-type: organization
-title: "UK National Crime Agency (NCA)"
-official_name: "National Crime Agency"
-official_name_ko: "영국 국가범죄수사국"
-aliases: ["NCA", "UK NCA"]
-org_type: "national-agency"
-parent_org: ""
-country: "[[united-kingdom]]"
-headquarters: "London, United Kingdom"
-established: "2013-10-07"
-mandate: "Lead UK law enforcement agency for tackling serious and organised crime, including cybercrime, human trafficking, drug trafficking, economic crime, and child exploitation."
-member_states: 0
-key_roles:
-  - "Lead UK agency for serious and organised cybercrime"
-  - "National Cyber Crime Unit (NCCU) operations"
-  - "International liaison officer network"
-  - "Led Operation Cronos Phase 1 (LockBit takedown) from the UK side"
-  - "Ransomware disruption and investigation"
-cooperation_partners:
-  - "[[europol-ec3]]"
-  - "[[fbi-cyber-division]]"
-  - "[[interpol-igci]]"
-frameworks_administered: []
-mechanisms_operated: []
-operations_participated:
-  - "[[operation-cronos-phase1]]"
-  - "[[operation-endgame-phase1]]"
-  - "[[operation-cronos-phase3]]"
-  - "[[phobos-8base-crackdown]]"
-  - "[[operation-endgame-phase2]]"
-notable_cases: []
+aliases:
+- NCA
+- UK NCA
 contact_point_for: []
+cooperation_partners:
+- '[[europol-ec3]]'
+- '[[fbi-cyber-division]]'
+- '[[interpol-igci]]'
+country: '[[united-kingdom]]'
+created: 2026-04-08
+established: '2013-10-07'
+frameworks_administered: []
+headquarters: London, United Kingdom
+key_roles:
+- Lead UK agency for serious and organised cybercrime
+- National Cyber Crime Unit (NCCU) operations
+- International liaison officer network
+- Led Operation Cronos Phase 1 (LockBit takedown) from the UK side
+- Ransomware disruption and investigation
+mandate: Lead UK law enforcement agency for tackling serious and organised crime,
+  including cybercrime, human trafficking, drug trafficking, economic crime, and child
+  exploitation.
+mechanisms_operated: []
+member_states: 0
+notable_cases: []
+official_name: National Crime Agency
+official_name_ko: 영국 국가범죄수사국
+operations_participated:
+- '[[2bagoldmule-qqaazz]]'
+- '[[hive-ransomware-takedown]]'
+- '[[operation-bakovia]]'
+- '[[operation-cronos-phase1]]'
+- '[[operation-cronos-phase3]]'
+- '[[operation-destabilise]]'
+- '[[operation-endgame-phase1]]'
+- '[[operation-endgame-phase2]]'
+- '[[operation-morpheus]]'
+- '[[phobos-8base-crackdown]]'
+org_type: national-agency
+parent_org: ''
 source_count: 5
 sources:
-  - "[[2024-02-20-europol-operation-cronos-lockbit]]"
-  - "[[2024-05-30-europol-operation-endgame-botnet-takedown]]"
-  - "[[2024-10-01-europol-operation-cronos-lockbit-phase3]]"
-  - "[[2025-02-11-europol-phobos-8base-ransomware-arrests]]"
-  - "[[2025-05-23-europol-operation-endgame-phase2]]"
-created: 2026-04-08
-updated: 2026-04-08
+- '[[2024-02-20-europol-operation-cronos-lockbit]]'
+- '[[2024-05-30-europol-operation-endgame-botnet-takedown]]'
+- '[[2024-10-01-europol-operation-cronos-lockbit-phase3]]'
+- '[[2025-02-11-europol-phobos-8base-ransomware-arrests]]'
+- '[[2025-05-23-europol-operation-endgame-phase2]]'
+title: UK National Crime Agency (NCA)
+type: organization
+updated: '2026-04-09'
 ---
 
 ## Summary
@@ -108,11 +117,11 @@ The NCA participated in all major cybercrime operations covered by ingested sour
 
 | Operation | Date | NCA Role | Results |
 |-----------|------|----------|---------|
-| [[operation-cronos-phase1\|Operation Cronos Phase 1]] | Feb 2024 | **Lead agency (UK side)** | LockBit disruption: 34 servers, 2 arrests, 5 indictments, decryption keys |
-| [[operation-endgame-phase1\|Operation Endgame Phase 1]] | May 2024 | Participating agency | Largest botnet takedown: 100+ servers, 2,000+ domains, 4 arrests |
-| [[operation-cronos-phase3\|Operation Cronos Phase 3]] | Oct 2024 | Participating agency | 4 LockBit arrests, 9 servers, Evil Corp sanctions |
-| [[phobos-8base-crackdown\|Phobos/8Base Crackdown]] | Feb 2025 | Participating agency | 4 arrests, 27 servers, 400+ warned |
-| [[operation-endgame-phase2\|Operation Endgame Phase 2]] | May 2025 | Participating agency | 300 servers, 650 domains, EUR 3.5M seized, 20 warrants |
+| [[operation-cronos-phase1|Operation Cronos Phase 1]] | Feb 2024 | **Lead agency (UK side)** | LockBit disruption: 34 servers, 2 arrests, 5 indictments, decryption keys |
+| [[operation-endgame-phase1|Operation Endgame Phase 1]] | May 2024 | Participating agency | Largest botnet takedown: 100+ servers, 2,000+ domains, 4 arrests |
+| [[operation-cronos-phase3|Operation Cronos Phase 3]] | Oct 2024 | Participating agency | 4 LockBit arrests, 9 servers, Evil Corp sanctions |
+| [[phobos-8base-crackdown|Phobos/8Base Crackdown]] | Feb 2025 | Participating agency | 4 arrests, 27 servers, 400+ warned |
+| [[operation-endgame-phase2|Operation Endgame Phase 2]] | May 2025 | Participating agency | 300 servers, 650 domains, EUR 3.5M seized, 20 warrants |
 
 ### Operation Cronos Phase 1 — NCA Leadership
 

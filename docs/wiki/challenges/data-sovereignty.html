@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html lang="ko">
+<html lang="ko" class="lang-ko">
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
@@ -11,22 +11,28 @@
 <body>
   <nav class="top-nav">
     <div class="top-nav-inner">
-      <a href="../../" class="nav-logo">🌐 사이버범죄 국제공조 위키</a>
+      <a href="../../" class="nav-logo">
+        <span class="i18n" data-ko="🌐 사이버범죄 국제공조 위키" data-en="🌐 Cybercrime IC Wiki"></span>
+      </a>
       <div class="nav-links">
-        <a href="../../category/operations.html">작전</a>
-        <a href="../../category/organizations.html">기관</a>
-        <a href="../../category/countries.html">국가</a>
-        <a href="../../category/legal-frameworks.html">법적 프레임워크</a>
-        <a href="../../category/mechanisms.html">메커니즘</a>
-        <a href="../../category/crime-types.html">범죄유형</a>
-        <a href="../../category/concepts.html">개념</a>
-        <a href="../../category/sources.html">출처</a>
-        <a href="../../stats.html">통계</a>
+        <a href="../../category/operations.html"><span class="i18n" data-ko="작전" data-en="Operations"></span></a>
+        <a href="../../category/organizations.html"><span class="i18n" data-ko="기관" data-en="Organizations"></span></a>
+        <a href="../../category/countries.html"><span class="i18n" data-ko="국가" data-en="Countries"></span></a>
+        <a href="../../category/legal-frameworks.html"><span class="i18n" data-ko="법적 프레임워크" data-en="Legal Frameworks"></span></a>
+        <a href="../../category/mechanisms.html"><span class="i18n" data-ko="메커니즘" data-en="Mechanisms"></span></a>
+        <a href="../../category/crime-types.html"><span class="i18n" data-ko="범죄유형" data-en="Crime Types"></span></a>
+        <a href="../../category/concepts.html"><span class="i18n" data-ko="개념" data-en="Concepts"></span></a>
+        <a href="../../category/sources.html"><span class="i18n" data-ko="출처" data-en="Sources"></span></a>
+        <a href="../../stats.html"><span class="i18n" data-ko="통계" data-en="Statistics"></span></a>
       </div>
       <form class="nav-search" action="../../search.html" method="get">
-        <input type="text" name="q" placeholder="위키 검색..." value="">
-        <button type="submit">검색</button>
+        <input type="text" name="q" class="i18n-placeholder" data-ko="위키 검색..." data-en="Search wiki..." value="">
+        <button type="submit"><span class="i18n" data-ko="검색" data-en="Search"></span></button>
       </form>
+      <button class="lang-toggle" id="langToggle" title="한국어/English">
+        <span class="lang-flag lang-flag-ko">🇰🇷 한</span>
+        <span class="lang-flag lang-flag-en">🇺🇸 EN</span>
+      </button>
     </div>
   </nav>
 
@@ -34,25 +40,38 @@
 <div class="page-wrapper">
   <main class="article">
     <div class="article-header">
-      <h1>Data Sovereignty and Localization Requirements</h1>
+      <h1>
+        
+          <span class="heading-ko">데이터 주권 및 현지화 요건</span>
+          <span class="heading-en">Data Sovereignty and Localization Requirements</span>
+        
+      </h1>
       <div class="article-meta">
         
-          <span class="badge">challenge</span>
+          <span class="badge">
+            <span class="i18n" data-ko="challenge" data-en="challenge"></span>
+          </span>
         
         
-          <span><a href="../../category/challenges.html">과제</a></span>
+          <span><a href="../../category/challenges.html">
+            <span class="i18n"
+              data-ko="과제"
+              data-en="Challenges"></span>
+          </a></span>
         
         
-          <span>최종 수정: 2026-04-08</span>
+          <span>
+            <span class="i18n" data-ko="최종 수정" data-en="Updated"></span>: 2026-04-08
+          </span>
         
         
       </div>
     </div>
     <div class="article-body">
-      <h2 id="summary">Summary</h2>
+      <h2 id="summary"><span class="heading-ko">개요</span><span class="heading-en">Summary</span></h2>
 <p>Data sovereignty — the principle that data is subject to the laws and governance of the country in which it is collected or stored — is one of the most critical barriers to effective international cooperation on cybercrime. As the vast majority of digital evidence relevant to cybercrime investigations resides with cloud service providers, messaging platforms, and social media companies, the question of <em>which country's law governs access to that data</em> has become a central friction point in cross-border investigations.</p>
 <p>The challenge is compounded by a global trend toward data localization laws, which require certain categories of data to be stored within national borders. These laws, motivated by privacy protection, national security, and economic interests, can directly impede the cross-border evidence sharing that international cooperation depends upon.</p>
-<h2 id="nature-of-the-problem">Nature of the Problem</h2>
+<h2 id="nature-of-the-problem"><span class="heading-ko">문제의 본질</span><span class="heading-en">Nature of the Problem</span></h2>
 <h3 id="where-is-cloud-data-located">Where Is Cloud Data "Located"?</h3>
 <p>The fundamental difficulty is that the traditional concept of territorial jurisdiction — which underpins the <a href="../../wiki/concepts/territoriality-principle.html" class="wikilink">territoriality-principle</a> — maps poorly onto cloud-stored data. A single user's data may be:</p>
 <ul>
@@ -122,7 +141,7 @@
 <li>Emergency disclosure provisions vary by jurisdiction</li>
 <li>Providers increasingly publish transparency reports, creating pressure from both law enforcement (for more cooperation) and civil society (for more resistance)</li>
 </ul>
-<h2 id="impact-on-cooperation">Impact on Cooperation</h2>
+<h2 id="impact-on-cooperation"><span class="heading-ko">공조에 미치는 영향</span><span class="heading-en">Impact on Cooperation</span></h2>
 <p>Data sovereignty barriers affect all stages of cybercrime investigation:</p>
 <ol>
 <li><strong>Evidence preservation</strong> — Even the <a href="../../wiki/mechanisms/24-7-network.html" class="wikilink">24-7-network</a> urgent preservation mechanism (Budapest Convention Art. 29) may be complicated when the data is subject to a foreign data protection regime.</li>
@@ -130,7 +149,7 @@
 <li><strong>Direct provider disclosure</strong> — The <a href="../../wiki/legal-frameworks/cloud-act.html" class="wikilink">CLOUD Act</a> and the <a href="../../wiki/legal-frameworks/second-additional-protocol.html" class="wikilink">Second Additional Protocol</a> attempt to enable direct requests to providers, but are limited by the number of executive agreements / ratifications in force.</li>
 <li><strong>Real-time interception</strong> — Cross-border interception is almost always blocked by data sovereignty concerns.</li>
 </ol>
-<h2 id="root-causes">Root Causes</h2>
+<h2 id="root-causes"><span class="heading-ko">근본 원인</span><span class="heading-en">Root Causes</span></h2>
 <h3 id="national-sovereignty">National Sovereignty</h3>
 <p>Data sovereignty is fundamentally an assertion of national sovereignty in the digital domain. States view control over data within their borders as:
 - An extension of territorial sovereignty
@@ -144,7 +163,7 @@
 - <strong>US vs. EU:</strong> CLOUD Act vs. GDPR represents competing visions of data governance
 - <strong>US/EU vs. China/Russia:</strong> Fundamentally different approaches to state access to data
 - <strong>Global South:</strong> Developing countries view data localization as a tool for digital sovereignty and economic development</p>
-<h2 id="proposed-solutions">Proposed Solutions</h2>
+<h2 id="proposed-solutions"><span class="heading-ko">제안된 해결책</span><span class="heading-en">Proposed Solutions</span></h2>
 <h3 id="cloud-act-executive-agreements">CLOUD Act Executive Agreements</h3>
 <p>The US <a href="../../wiki/legal-frameworks/cloud-act.html" class="wikilink">CLOUD Act</a> (2018) creates a framework for bilateral executive agreements that allow:
 - Each country's law enforcement to directly request data from providers in the other country
@@ -166,7 +185,7 @@
 - EU adequacy decisions under GDPR Art. 45 for law enforcement data transfers
 - Minimum data protection standards in international agreements
 - Sector-specific arrangements for law enforcement data sharing</p>
-<h2 id="current-state-of-debate">Current State of Debate</h2>
+<h2 id="current-state-of-debate"><span class="heading-ko">현재 논의 현황</span><span class="heading-en">Current State of Debate</span></h2>
 <p>The fundamental tension remains unresolved: how to enable effective cross-border law enforcement access to digital evidence while respecting national sovereignty, privacy rights, and data protection. Key positions:</p>
 <ul>
 <li><strong>Law enforcement perspective:</strong> Current frameworks are too slow and cumbersome; direct access to provider-held data is essential; data localization laws are obstacles to justice.</li>
@@ -174,12 +193,12 @@
 <li><strong>Provider perspective:</strong> Legal certainty is needed; conflicting obligations are untenable; clear frameworks like CLOUD Act executive agreements are preferred over ad hoc requests.</li>
 <li><strong>Developing country perspective:</strong> Data localization may be necessary for sovereignty and economic development; existing frameworks (Budapest Convention) reflect Western priorities.</li>
 </ul>
-<h2 id="case-studies">Case Studies</h2>
+<h2 id="case-studies"><span class="heading-ko">사례 연구</span><span class="heading-en">Case Studies</span></h2>
 <h3 id="microsoft-ireland-case-us-2013-2018">Microsoft Ireland Case (US, 2013-2018)</h3>
 <p>The landmark <em>Microsoft Corp. v. United States</em> (In re Warrant to Search a Certain E-Mail Account, 2nd Cir. 2016) case raised the question of whether a US warrant could compel Microsoft to produce emails stored on a server in Ireland. The Second Circuit held it could not — but the case was mooted by the passage of the CLOUD Act in 2018, which explicitly authorized such compulsion.</p>
 <h3 id="phobos8base-investigation">Phobos/8Base Investigation</h3>
 <p>The <a href="../../wiki/operations/phobos-8base-crackdown.html" class="wikilink">Phobos/8Base investigation</a> (2025) involved 14 countries and required coordinating access to data across multiple jurisdictions. The operation likely relied on a combination of MLATs, <a href="../../wiki/mechanisms/europol-jit.html" class="wikilink">JIT</a> mechanisms, and provider cooperation to access the relevant digital evidence.</p>
-<h2 id="comparative-perspectives">Comparative Perspectives</h2>
+<h2 id="comparative-perspectives"><span class="heading-ko">비교 관점</span><span class="heading-en">Comparative Perspectives</span></h2>
 <table>
 <thead>
 <tr>
@@ -253,7 +272,7 @@
 </ol>
 <div class="callout callout-warning"><div class="callout-title">⚠️ Legal status check needed
 Verify the current status of any Korea-US CLOUD Act executive agreement negotiations (as of 2026).</div><div class="callout-body"></div></div>
-<h2 id="contradictions-open-questions">Contradictions &amp; Open Questions</h2>
+<h2 id="contradictions-open-questions"><span class="heading-ko">모순점 및 미해결 문제</span><span class="heading-en">Contradictions &amp; Open Questions</span></h2>
 <ul>
 <li>Is data localization ultimately protective or harmful for citizens? Both privacy advocates and law enforcement claim it supports their goals while undermining the other's.</li>
 <li>Can the CLOUD Act bilateral model scale to a meaningful number of countries, or is a multilateral approach (Second Additional Protocol, UN Convention) necessary?</li>
@@ -268,14 +287,14 @@ Verify the current status of any Korea-US CLOUD Act executive agreement negotiat
     
 
     <div class="cat-nav">
-      <h3>카테고리</h3>
+      <h3><span class="i18n" data-ko="카테고리" data-en="Categories"></span></h3>
       <ul>
         
         <li>
           📜
           <a href="../../category/legal-frameworks.html"
              >
-            법적 프레임워크
+            <span class="i18n" data-ko="법적 프레임워크" data-en="Legal Frameworks"></span>
           </a>
         </li>
         
@@ -283,7 +302,7 @@ Verify the current status of any Korea-US CLOUD Act executive agreement negotiat
           🏛️
           <a href="../../category/organizations.html"
              >
-            기관
+            <span class="i18n" data-ko="기관" data-en="Organizations"></span>
           </a>
         </li>
         
@@ -291,7 +310,7 @@ Verify the current status of any Korea-US CLOUD Act executive agreement negotiat
           🌍
           <a href="../../category/countries.html"
              >
-            국가
+            <span class="i18n" data-ko="국가" data-en="Countries"></span>
           </a>
         </li>
         
@@ -299,7 +318,7 @@ Verify the current status of any Korea-US CLOUD Act executive agreement negotiat
           🎯
           <a href="../../category/operations.html"
              >
-            작전
+            <span class="i18n" data-ko="작전" data-en="Operations"></span>
           </a>
         </li>
         
@@ -307,7 +326,7 @@ Verify the current status of any Korea-US CLOUD Act executive agreement negotiat
           ⚖️
           <a href="../../category/cases.html"
              >
-            사건
+            <span class="i18n" data-ko="사건" data-en="Cases"></span>
           </a>
         </li>
         
@@ -315,7 +334,7 @@ Verify the current status of any Korea-US CLOUD Act executive agreement negotiat
           🔗
           <a href="../../category/mechanisms.html"
              >
-            공조 메커니즘
+            <span class="i18n" data-ko="공조 메커니즘" data-en="Mechanisms"></span>
           </a>
         </li>
         
@@ -323,7 +342,7 @@ Verify the current status of any Korea-US CLOUD Act executive agreement negotiat
           📋
           <a href="../../category/procedures.html"
              >
-            절차
+            <span class="i18n" data-ko="절차" data-en="Procedures"></span>
           </a>
         </li>
         
@@ -331,7 +350,7 @@ Verify the current status of any Korea-US CLOUD Act executive agreement negotiat
           🔒
           <a href="../../category/crime-types.html"
              >
-            범죄유형
+            <span class="i18n" data-ko="범죄유형" data-en="Crime Types"></span>
           </a>
         </li>
         
@@ -339,7 +358,7 @@ Verify the current status of any Korea-US CLOUD Act executive agreement negotiat
           ⚠️
           <a href="../../category/challenges.html"
              style="font-weight:700">
-            과제
+            <span class="i18n" data-ko="과제" data-en="Challenges"></span>
           </a>
         </li>
         
@@ -347,7 +366,7 @@ Verify the current status of any Korea-US CLOUD Act executive agreement negotiat
           📖
           <a href="../../category/concepts.html"
              >
-            법적 개념
+            <span class="i18n" data-ko="법적 개념" data-en="Concepts"></span>
           </a>
         </li>
         
@@ -355,7 +374,7 @@ Verify the current status of any Korea-US CLOUD Act executive agreement negotiat
           📰
           <a href="../../category/sources.html"
              >
-            출처
+            <span class="i18n" data-ko="출처" data-en="Sources"></span>
           </a>
         </li>
         
@@ -363,7 +382,7 @@ Verify the current status of any Korea-US CLOUD Act executive agreement negotiat
           📊
           <a href="../../category/analysis.html"
              >
-            분석
+            <span class="i18n" data-ko="분석" data-en="Analysis"></span>
           </a>
         </li>
         
@@ -371,7 +390,7 @@ Verify the current status of any Korea-US CLOUD Act executive agreement negotiat
           📅
           <a href="../../category/timelines.html"
              >
-            타임라인
+            <span class="i18n" data-ko="타임라인" data-en="Timelines"></span>
           </a>
         </li>
         
@@ -382,9 +401,57 @@ Verify the current status of any Korea-US CLOUD Act executive agreement negotiat
 
 
   <div class="footer">
-    사이버범죄 국제공조 위키 &mdash; LLM Wiki Pattern &mdash;
-    Powered by <a href="https://obsidian.md">Obsidian</a> + Flask &mdash;
-    2026-04-09 기준 데이터
+    <span class="i18n"
+      data-ko="사이버범죄 국제공조 위키 &mdash; LLM Wiki Pattern &mdash; 2026-04-09 기준 데이터"
+      data-en="Cybercrime International Cooperation Wiki &mdash; LLM Wiki Pattern &mdash; Data as of 2026-04-09">
+    </span>
   </div>
+
+  <script>
+  (function() {
+    // Language toggle system — Korean default
+    var STORAGE_KEY = 'wiki-lang';
+
+    function getLang() {
+      return localStorage.getItem(STORAGE_KEY) || 'ko';
+    }
+
+    function setLang(lang) {
+      localStorage.setItem(STORAGE_KEY, lang);
+      applyLang(lang);
+    }
+
+    function applyLang(lang) {
+      var html = document.documentElement;
+      html.classList.remove('lang-ko', 'lang-en');
+      html.classList.add('lang-' + lang);
+      html.setAttribute('lang', lang === 'ko' ? 'ko' : 'en');
+
+      // Update i18n text content
+      document.querySelectorAll('.i18n').forEach(function(el) {
+        var text = el.getAttribute('data-' + lang);
+        if (text) el.innerHTML = text;
+      });
+
+      // Update i18n placeholders
+      document.querySelectorAll('.i18n-placeholder').forEach(function(el) {
+        var text = el.getAttribute('data-' + lang);
+        if (text) el.setAttribute('placeholder', text);
+      });
+    }
+
+    // Toggle button
+    var btn = document.getElementById('langToggle');
+    if (btn) {
+      btn.addEventListener('click', function() {
+        var current = getLang();
+        setLang(current === 'ko' ? 'en' : 'ko');
+      });
+    }
+
+    // Apply saved language on load
+    applyLang(getLang());
+  })();
+  </script>
 </body>
 </html>
