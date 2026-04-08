@@ -91,6 +91,18 @@ def convert_wikilinks(text):
             display = inner
         slug = slug.strip()
         display = display.strip()
+        # Handle _index links → redirect to category page
+        if "/_index" in slug or slug.endswith("_index"):
+            cat = slug.replace("/_index", "").replace("_index", "").strip("/")
+            if cat in CATEGORIES:
+                return f'<a href="/category/{cat}" class="wikilink">{display}</a>'
+        # Handle category/slug format (e.g., operations/operation-cronos)
+        if "/" in slug:
+            parts = slug.split("/", 1)
+            cat_part, slug_part = parts[0], parts[1]
+            resolved = WIKI_DIR / cat_part / f"{slug_part}.md"
+            if resolved.exists():
+                return f'<a href="/wiki/{cat_part}/{slug_part}" class="wikilink">{display}</a>'
         resolved = resolve_wiki_path(slug)
         if resolved:
             cat = get_category_for_file(resolved)
