@@ -1003,17 +1003,49 @@ def _gen_ko_analysis(meta: dict, en: str) -> str:
     return ""
 
 
-def render_bilingual(meta: dict, en_content: str, page_type: str):
+# Translation cache loaded once at startup / build time
+_translation_cache: dict[str, str] = {}
+
+
+def load_translation_cache() -> None:
+    """Load pre-built translation cache from _workspace/."""
+    global _translation_cache
+    cache_file = Path(__file__).resolve().parent.parent / "_workspace" / "translation_cache.json"
+    if cache_file.exists():
+        import json
+        raw = json.loads(cache_file.read_text(encoding="utf-8"))
+        # Build slug -> translated_content mapping (use latest hash)
+        by_slug: dict[str, str] = {}
+        for key, val in raw.items():
+            slug = key.rsplit(":", 1)[0]
+            by_slug[slug] = val
+        _translation_cache.update(by_slug)
+
+
+def render_bilingual(meta: dict, en_content: str, page_type: str,
+                     category: str = "", slug: str = ""):
     """Render both English and Korean content for a page."""
     en_html = render_markdown(en_content)
 
-    ko_md = generate_ko_content(meta, en_content, page_type)
+    # Look up cached translation
+    full_slug = f"{category}/{slug}" if category else slug
+    ko_md = _translation_cache.get(full_slug)
+
     if ko_md:
         ko_html = render_markdown(ko_md)
     else:
-        ko_html = None
+        # Fallback: generate from frontmatter
+        ko_md = generate_ko_content(meta, en_content, page_type)
+        if ko_md:
+            ko_html = render_markdown(ko_md)
+        else:
+            ko_html = None
 
     return en_html, ko_html
+
+
+# Load translations at import time
+load_translation_cache()
 
 
 # --- Routes ---
@@ -1032,10 +1064,11 @@ def page(slug):
         abort(404)
     meta, content = parse_page(filepath)
     page_type = meta.get("type", "")
-    en_html, ko_html = render_bilingual(meta, content, page_type)
+    category = get_category_for_file(filepath)
+    en_html, ko_html = render_bilingual(
+        meta, content, page_type, category=category or "", slug=slug)
     title = meta.get("title", slug.replace("-", " ").title())
     infobox = build_infobox(meta, page_type)
-    category = get_category_for_file(filepath)
     cat_label = CATEGORIES.get(category, {}).get("label", "")
     return render_template(
         "article.html", title=title, content=en_html, content_ko=ko_html,
@@ -1051,7 +1084,8 @@ def category_page(category, slug):
         abort(404)
     meta, content = parse_page(filepath)
     page_type = meta.get("type", "")
-    en_html, ko_html = render_bilingual(meta, content, page_type)
+    en_html, ko_html = render_bilingual(
+        meta, content, page_type, category=category, slug=slug)
     title = meta.get("title", slug.replace("-", " ").title())
     infobox = build_infobox(meta, page_type)
     cat_label = CATEGORIES.get(category, {}).get("label", "")

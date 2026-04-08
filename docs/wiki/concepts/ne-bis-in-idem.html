@@ -70,16 +70,206 @@
     <div class="article-body">
       
         <div class="ko-block"><h2 id="_1">정의</h2>
-<p><strong>Ne Bis In Idem (Double Jeopardy)</strong> (일사부재리) — human-rights-safeguard.</p>
-<p>The principle that no person shall be tried or punished twice for the same offense. In the context of international cooperation on cybercrime, it addresses whether a person prosecuted in one state can be prosecuted again in another state for the same conduct.</p>
-<p><strong>분야:</strong> criminal-law</p>
-<h2 id="_2">사이버범죄 국제공조 관련성</h2>
-<p>When multiple countries have jurisdiction over the same cybercrime (the default for transnational cyber offenses), ne bis in idem determines whether a defendant convicted or acquitted in one state can face prosecution in another. The absence of a globally binding transnational ne bis in idem rule means this protection is incomplete.</p>
-<h2 id="_3">관련 개념</h2>
+<p><strong>간단한 표현:</strong> 일단 재판을 받고 범죄에 대해 유죄 판결을 받거나 무죄 판결을 받은 후에는 동일한 범죄에 대해 다시 재판을 받을 수 없습니다. 국제 사이버 범죄 협력에서 문제는 다음과 같습니다. A 국가의 유죄 판결이나 무죄 판결로 인해 B 국가가 동일한 행위에 대해 동일한 사람을 기소하는 것을 방지할 수 있습니까?</p>
+<p><strong>법적 정의:</strong> 관할 사법 당국의 최종 결정(bis) 이후 동일한 범죄(idem)에 대해 자연인을 반복적으로 기소하거나 처벌하는 것을 금지하는 절차적 보호 장치입니다. 원칙의 범위(단일 국가 내에서만 적용되는지, 여러 국가에 걸쳐 적용되는지 여부)는 국제 형법에서 가장 논쟁이 되는 문제 중 하나입니다.</p>
+<h2 id="_2">법적 근거</h2>
+<h3 id="_3">국제 기구</h3>
+<table>
+<thead>
+<tr>
+<th>Instrument</th>
+<th>Article</th>
+<th>Scope</th>
+<th>Binding?</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>ICCPR</td>
+<td>Art. 14(7)</td>
+<td>Within same state only</td>
+<td>Yes (treaty parties)</td>
+</tr>
+<tr>
+<td>ECHR Protocol 7</td>
+<td>Art. 4</td>
+<td>Within same state only</td>
+<td>Yes (ratifying parties)</td>
+</tr>
+<tr>
+<td>EU Charter of Fundamental Rights</td>
+<td>Art. 50</td>
+<td>Transnational (within EU)</td>
+<td>Yes (EU member states)</td>
+</tr>
+<tr>
+<td>CISA (Schengen)</td>
+<td>Art. 54</td>
+<td>Transnational (within Schengen)</td>
+<td>Yes (Schengen states)</td>
+</tr>
+<tr>
+<td>Budapest Convention</td>
+<td>No explicit provision</td>
+<td>-</td>
+<td>-</td>
+</tr>
+<tr>
+<td>UN Cybercrime Convention (2024)</td>
+<td>No explicit provision</td>
+<td>-</td>
+<td>-</td>
+</tr>
+</tbody>
+</table>
+<p><strong>중요한 격차:</strong> 부다페스트 협약이나 UN 사이버 범죄 협약에는 초국가적 적용을 다루는 명시적인 ne bis 조항이 포함되어 있지 않습니다. 부다페스트 협약의 예술. 22(5)(관할권 협의)는 동시 진행을 <em>방지</em>하기 위한 것이지만 문제가 발생할 경우 구제책을 제공하지 않습니다.</p>
+<h3 id="_4">국내법</h3>
+<p>대부분의 국가 법률 시스템은 국내와 마찬가지로 ne bis를 인정합니다. 문제는 그들이 그것을 외국 판결로 확장하는지 여부입니다.</p>
 <ul>
-<li><a href="../../wiki/concepts/territoriality-principle.html" class="wikilink">territoriality-principle</a></li>
-<li><a href="../../wiki/concepts/dual-criminality.html" class="wikilink">dual-criminality</a></li>
-<li><a href="../../wiki/concepts/specialty-principle.html" class="wikilink">specialty-principle</a></li>
+<li><strong>미국:</strong> "이중 주권" 원칙은 동일한 행위에 대해 연방 및 주 기소가 허용된다는 것을 의미합니다. 외국 기소는 미국 기소를 <em>막지 않습니다</em>(<em>Gamble v. United States</em>, 2019).</li>
+<li><strong>EU 회원국:</strong> CISA 조항에 따릅니다. 54 및 헌장 예술. 50은 다른 EU 국가의 최종 판결을 인정합니다.</li>
+<li><strong>대한민국:</strong> 불일치 Art. 13(1)은 국내 이중 위험으로부터 보호합니다. 외국판결의 효력은 형법 Art. 7.</li>
+</ul>
+<h2 id="_5">사이버 범죄에 대한 국제 협력과의 관련성</h2>
+<p>Ne bis in idem은 <a href="../../wiki/challenges/jurisdictional-conflicts.html" class="wikilink">jurisdictional-conflicts</a> 챌린지와 직접적인 관련이 있습니다. 여러 국가가 동일한 사이버 범죄에 대해 관할권을 갖는 경우(예외가 아닌 일반적인 경우) 다음과 같은 위험이 발생합니다.</p>
+<ol>
+<li>
+<p><strong>성공적인 기소:</strong> 국가 A는 사이버범죄자를 유죄 판결하고 형을 선고합니다. 피해자 역시 피해를 입은 B 국가는 동일한 행위에 대해 자체 기소를 시작합니다. 피고인은 두 번째 재판을 받게 되며 잠재적으로 누적된 처벌을 받게 됩니다.</p>
+</li>
+<li>
+<p><strong>무죄 후 기소:</strong> A 국가는 피고인에 대해 무죄를 선고합니다(증거 불충분, 법적 흠결). B 국가는 더 강력한 증거나 더 광범위한 형법을 바탕으로 동일한 사람을 기소합니다. 무죄 판결은 보호를 제공하지 않습니다.</p>
+</li>
+<li>
+<p><strong>인도 문제:</strong> C 국가에서 A 국가로 범죄인 인도된 사람은 형을 마친 후 동일한 행위에 대해 B 국가로부터 범죄인 인도 요청을 받을 수 있습니다. <a href="../../wiki/concepts/specialty-principle.html" class="wikilink">specialty-principle</a>은 A 국가의 기소를 제한하지만 B 국가에 대한 보호는 제공하지 않습니다.</p>
+</li>
+<li>
+<p><strong>협력에 대한 냉각 효과:</strong> 피고인이 여러 번 기소될 수 있다는 것을 알면 범죄인 인도에 더욱 적극적으로 저항할 수 있으며, 다른 곳에서 두 번째 기소가 가능하다면 국가는 절차를 이전하거나 증거를 공유하는 것을 꺼릴 수 있습니다.</p>
+</li>
+</ol>
+<h2 id="_6">실제 작동 방식</h2>
+<h3 id="_7">"동일한" 질문: "동일한 범죄"를 구성하는 것은 무엇입니까?</h3>
+<p>가장 논쟁의 여지가 있는 측면은 "동일한 범죄"를 정의하는 것입니다.</p>
+<ul>
+<li><strong>동일한 법적 분류(idemfactum juridicum):</strong> 범죄는 두 관할권 모두에서 동일한 범죄여야 합니다. 이 테스트에 따르면, "컴퓨터 사기"에 대한 A 국가의 기소는 동일한 행위에서 발생한 "돈세탁"에 대한 B 국가의 기소를 금지하지 않습니다.</li>
+<li><strong>동일 사실(idemfactum):</strong> 법적 분류에 관계없이 중요한 사실이 실질적으로 동일한지 여부를 테스트합니다. 이는 EU ne bis in idem을 위해 CJEU가 채택한 접근 방식입니다(<em>Van Esbroeck</em>, 2006).</li>
+</ul>
+<p>동일한 사실 접근 방식은 피고인을 더 보호하지만 단일 행위 과정이 서로 다른 법률 시스템에 따라 여러 가지 범죄를 동시에 구성할 수 있는 사이버 범죄 사건에 적용하기가 더 어렵습니다.</p>
+<h3 id="bis">"Bis" 질문: 최종 결정은 어떻게 구성되나요?</h3>
+<p>idem bar의 ne bis에는 일반적으로 <em>최종</em> 결정, 즉 더 이상 항소할 수 없는 판결이 필요합니다. 다음에 대한 질문이 발생합니다.
+- 답변 합의 - "최종 결정"인가요?
+- 화해 또는 기소 유예 계약
+- 검찰의 불기소 결정(분류 불기소)
+- 행정적 처벌(예: 데이터 위반에 대한 규제 벌금)</p>
+<h3 id="_8">시행조건</h3>
+<p>EU 내에서는(CISA 조항 54), 형량이 선고된 국가의 법률에 따라 형벌이 "집행되었거나 실제로 집행 중이거나 더 이상 집행될 수 없는" 경우에만 적용됩니다. 이는 해외에서 유죄 판결을 받았지만 실제로 형을 집행하지 않은 사람이 면책을 받는 것을 방지합니다.</p>
+<h2 id="_9">관할권에 따른 변형</h2>
+<h3 id="_10">관습법</h3>
+<p>관습법 관할권은 일반적으로 동일한 관할권 내에서 이중 위험을 인정하지만 이를 외국 판결로 확대하지는 않습니다. 미국의 "이중 주권" 교리(<em>Gamble v. United States</em>, 2019)가 가장 두드러진 예입니다. 두 명의 미국 주권(연방 및 주)이라도 이중 위험을 위반하지 않고 동일한 행위를 기소할 수 있습니다.</p>
+<h3 id="_11">민법</h3>
+<p>민법 관할권은 크게 다릅니다.
+- <strong>독일(StGB § 51):</strong> 외국 판결은 국내 선고(Anrechnungsprinzip)에 대해 인정될 수 있지만 절차적 기준을 만들지는 않습니다.
+- <strong>프랑스:</strong> 대법원은 일부 상황에서 외국 판결의 동일한 효과에 대해 제한적인 ne bis를 인정했습니다.
+- <strong>네덜란드:</strong> CISA Art. 54는 직접 적용 가능합니다. 네덜란드 법원은 동일한 원칙에 따라 초국가적 ne bis를 광범위하게 해석했습니다.</p>
+<h2 id="_12">주요 판례법</h2>
+<h3 id="cjeu-c-43604-2006">CJEU — 반 에스브록(C-436/04, 2006)</h3>
+<p>법원은 CISA 조항에 따라 "동일한 행위"가 있다고 판결했습니다. 54는 법적 분류가 아니라 <em>중요한 사실</em>이 동일함을 의미합니다. 이는 EU 내에서 이뎀 사실 접근 방식의 주요 사례입니다.</p>
+<h3 id="cjeu-c-26109-2010">CJEU — 만텔로(C-261/09, 2010)</h3>
+<p>CISA Art에 따라 ne bis가 동일함을 명확히 했습니다. 54는 "최종" 결정을 요구하며, 집행 회원국의 법원은 발행 회원국의 최종 평가를 인정해야 합니다.</p>
+<h3 id="2019">미국 — 갬블 대 미국(2019)</h3>
+<p>미국 대법원은 동일한 행위에 대해 연방 및 주에서 연속 기소하는 것이 수정헌법 제5조의 이중 위험 조항을 위반하지 않는다는 '분리 주권' 원칙을 재확인했습니다. 더 나아가, 외국의 주권 기소는 미국의 기소를 금지하지 않습니다.</p>
+<h2 id="_13">논쟁과 논란</h2>
+<ol>
+<li>
+<p><strong>사이버 범죄에 대한 국제적 Ne bis는 무엇입니까?</strong> 일부 학자들은 여러 국가의 일상적인 동시 관할권을 고려할 때 사이버 범죄에 구속력 있는 초국가적 Ne bis 기본 규칙이 필요하다고 주장합니다. 다른 사람들은 이것이 불처벌 위험을 야기할 것이라고 반박합니다(예: 비협조적인 국가에서의 가짜 재판이 다른 곳에서 진정한 기소를 방해하는 경우).</p>
+</li>
+<li>
+<p><strong>"집행 조건"의 공정성.</strong> The CISA Art. 54 집행 조건은 한 EU 국가에서 유죄 판결을 받은 경우 해당 형이 실제로 집행되는 경우에만 재기소를 금지한다는 것을 의미합니다. 이는 동일한 보호에서 조건부 ne bis에 대한 우려를 불러일으킵니다.</p>
+</li>
+<li>
+<p><strong>사이버 범죄 및 다수의 피해자.</strong> 50개국의 피해자에게 영향을 미치는 랜섬웨어 공격 — 한 국가에서 국내 피해자를 기소하면 동일한 공격의 다른 피해자에 대해 다른 국가에서 기소가 금지됩니까? 동일한 사실 접근 방식에서는 아마도 그렇습니다. 동일한 법적 접근 방식에서는 잠재적으로 그렇지 않습니다.</p>
+</li>
+<li>
+<p><strong>동의와 유죄 협상에는 반대가 없습니다.</strong> 사이버 범죄자가 한 관할권에서 축소된 기소에 대해 유죄를 인정하는 경우(미국 관행에서 일반적임) 다른 관할권에서는 유죄 판결에서 기각된 더 심각한 혐의로 동일한 행위를 기소할 수 있습니까?</p>
+</li>
+</ol>
+<h2 id="_14">한국법(한국법)</h2>
+<h3 id="_15">헌법 보호</h3>
+<p><strong>헌법 제13조 제1항:</strong> "모든 국민은 예외적으로 이상한 수가 없습니다."
+(모든 국민이 동일한 범죄로 반복적으로 처벌을 받을 수는 없다.)</p>
+<p>이는 한국 법체계 내에서 절대적인 헌법적 보장이다.</p>
+<h3 id="_16">형사소송법</h3>
+<p><strong>형사소송법 제326조 제1호:</strong> 동일한 범죄에 대해 확정판결이 이미 존재하는 경우에는 무죄 판결을 내려야 합니다. 이는 idem bar에서 국내 네비스를 성문화합니다.</p>
+<h3 id="_17">외국 판결의 효과</h3>
+<p><strong>형법 제7조:</strong> "범죄에 불편을 끼치는 외부 형태의 전적으로 또는 일부의 풍선을 자에 대하여는 형을 감경하거나 적용할 수 있습니다."
+(범죄로 인하여 국외에서 형의 전부 또는 일부를 집행받은 사람에 대하여는 그 형을 감경하거나 면제할 수 있다.)</p>
+<p>이 조항은 한국에서 기소에 대한 절차적 장벽을 생성하지 <strong>않습니다</strong>. 이는 외국 형벌을 고려하여 한국어 형량의 <em>감소 또는 면제</em>만을 허용합니다. 한국은 동일한 행위로 이미 해외에서 유죄판결을 받은 사람을 기소할 수 있습니다. 외국에서 선고된 형량은 기준이 아니라 <em>경감 요소</em>입니다.</p>
+<h3 id="ic">사이버 범죄 IC에 대한 시사점</h3>
+<ul>
+<li>대한민국 국민이 해외에서 사이버 범죄(예: 랜섬웨어 운영)로 유죄판결을 받은 경우에도 형법에 따라 기소할 수 있습니다. 3 (<a href="../../wiki/concepts/nationality-principle.html" class="wikilink">nationality-principle</a>) 한국으로 귀국하는 경우.</li>
+<li>외국인이 한국 피해자에게도 영향을 미친 사이버 범죄로 고국에서 유죄 판결을 받는 경우, 한국은 기술적으로는 별도의 기소를 추구할 수 있지만 실제로는 그렇지 않을 것입니다.</li>
+<li>한국의 헌법적 보호(동등한 국내법)와 외국 판결의 제한된 인정(형법 제7조, 완화에 한함) 사이의 격차는 한국 시스템의 주목할만한 특징입니다.</li>
+</ul>
+<div class="callout callout-note"><div class="callout-title">📝 Translation note
+"일사부재리"(ilsa-bujaeri)는 문자 그대로 "재심할 수 없는 한 가지 사항"으로 번역되며 특히 국내 헌법 보장을 위해 한국법에서 사용됩니다. "이중처벌금지"(이중처볼근지) — "이중처벌 금지" —는 국제적 차원의 논의를 포함하여 보다 광범위하게 사용됩니다.</div><div class="callout-body"></div></div>
+<h2 id="_18">다중 언어 용어</h2>
+<table>
+<thead>
+<tr>
+<th>Language</th>
+<th>Term</th>
+<th>Notes</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Latin</td>
+<td>ne bis in idem</td>
+<td>Literally: "not twice in the same [matter]"</td>
+</tr>
+<tr>
+<td>English</td>
+<td>double jeopardy</td>
+<td>US constitutional term; broader: ne bis in idem</td>
+</tr>
+<tr>
+<td>Korean</td>
+<td>일사부재리 (ilsa-bujaeri)</td>
+<td>Constitutional term (헌법 Art. 13)</td>
+</tr>
+<tr>
+<td>Korean</td>
+<td>이중처벌금지</td>
+<td>Broader term including international dimension</td>
+</tr>
+<tr>
+<td>French</td>
+<td>non bis in idem</td>
+<td>Also: autorité de la chose jugée</td>
+</tr>
+<tr>
+<td>German</td>
+<td>Doppelbestrafungsverbot</td>
+<td>Literally: "prohibition of double punishment"</td>
+</tr>
+<tr>
+<td>Spanish</td>
+<td>non bis in idem</td>
+<td></td>
+</tr>
+<tr>
+<td>Japanese</td>
+<td>二重の危険 (nijū no kiken)</td>
+<td>Also: 一事不再理 (ichiji fusairi)</td>
+</tr>
+</tbody>
+</table>
+<h2 id="_19">모순 및 공개 질문</h2>
+<ul>
+<li>사이버 범죄에 대해 구속력 있는 초국가적 기본 규칙을 확립해야 합니까, 아니면 이것이 용납할 수 없는 불처벌 위험을 야기합니까?</li>
+<li>수십 개국에 걸쳐 동시에 피해자와 피해를 발생시키는 사이버범죄를 '동일 범죄'로 정의하려면?</li>
+<li>한국의 형법 Art. 7(완화만, 금지는 아님) 해외에서 이미 유죄 판결을 받은 사람의 권리를 적절하게 보호해야 합니까, 아니면 한국이 동일한 보호에 있어 더 강력한 초국가적 법률을 채택해야 합니까?</li>
+<li>부다페스트 협약과 UN 사이버 범죄 협약 모두에서 기본 조항에 대한 네비스의 부재가 인권 준수 프레임워크로서의 적법성에 어떤 영향을 미치나요?</li>
+<li>재판 전 조정(Eurojust 또는 INTERPOL을 통한)을 통해 동시 기소를 효과적으로 방지하여 공식적 ne bis in idem 규칙을 불필요하게 만들 수 있습니까?</li>
 </ul></div>
         <div class="en-block"><h2 id="definition"><span class="heading-ko">정의</span><span class="heading-en">Definition</span></h2>
 <p><strong>Plain language:</strong> Once a person has been tried and either convicted or acquitted of a crime, they cannot be tried again for the same crime. In international cybercrime cooperation, the question is: does a conviction or acquittal in Country A prevent Country B from prosecuting the same person for the same conduct?</p>

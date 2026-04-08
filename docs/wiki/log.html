@@ -54,7 +54,94 @@
     </div>
     <div class="article-body">
       
-        <h1 id="activity-log">Activity Log</h1>
+        <div class="ko-block"><p>---|-------|
+| INCLUDE_NEW | 5 operations (4 integrated, 1 flagged for review) |
+| INCLUDE_UPDATE | 3 (operation-endgame-phase2, operation-haechi-v) |
+| DUPLICATE | 19 rows (mapping to existing wiki operations) |
+| EXCLUDE | 8 (non-enforcement/policy/single-country/invalid) |
+| UNVERIFIABLE (URL-only) | 27 (collection leads documented) |
+| UNVERIFIABLE (empty) | 68 (blank rows discarded) |</p>
+<h3 id="4">생성된 페이지(4개의 새로운 작업)</h3>
+<ul>
+<li>Operation-red-card.md — CYB-2024-011 | CI: 2.95 | 아프리카 7개국, 306명 체포</li>
+<li>Operation-contender-2.md — CYB-2024-010 | CI: 2.28 | 8명 체포, 서아프리카 BEC</li>
+<li>Operation-talent.md — CYB-2025-011 | CI: 2.28 | Cracked/Nulled 포럼, 8개국</li>
+<li>Operation-secure-interpol.md — CYB-2025-012 | CI: 2.28 | 아시아태평양 26개국 32명 체포</li>
+</ul>
+<h3 id="_1">페이지 업데이트됨</h3>
+<ul>
+<li>Operation-endgame-phase2.md — DanaBot 세부 정보 추가(16명 기소, 30만 대의 컴퓨터, 5천만 달러) + 5명 구금 후속 조치</li>
+<li>Operation-haechi-v.md — dig.watch 보조 소스 추가</li>
+<li>Operations/_index.md — 4개의 새로운 항목이 추가되었습니다.</li>
+</ul>
+<h3 id="_2">작업공간 파일이 생성됨</h3>
+<ul>
+<li>_workspace/excel_audit.md — 의사결정 트리 결과가 포함된 전체 130행 감사 테이블</li>
+<li>_workspace/excel_unverifying.md — 수집 리드로 95개 행(URL 전용 27개 + 비어 있는 68개)</li>
+</ul>
+<h3 id="ci-20">검토 플래그가 지정됨(CI &lt; 2.0)</h3>
+<ul>
+<li>작전 차크라-V(3행) — CI: 1.48(단일 Tier 4 소스, 추가 소스 필요)</li>
+<li>아프리카 사이버 서지 작전(9행) — CI: 1.88(단일 Tier 3 소스, 경계선)</li>
+</ul>
+<h3 id="_3">주요 결정</h3>
+<ol>
+<li>68개의 빈 행(63-130)이 빈 스프레드시트 자리 표시자로 삭제되었습니다.</li>
+<li>우선순위 순위와 함께 수집 리드로 보존되는 27개의 URL 전용 행</li>
+<li>작업 이름 "Operation SECURE"(CoE, 행 6) 및 "Operation Secure"(INTERPOL, 행 18) 명확성 - INTERPOL 시행 버전만 통합됨</li>
+<li>여러 Operation Endgame 항목(2,5,11,14,21행)이 단일 위키 페이지 업데이트로 통합되었습니다.</li>
+<li>레드 카드 작전은 2개의 Excel 행(8+13)에서 INTERPOL 소스를 기본으로 병합되었습니다.</li>
+</ol>
+<h2 id="2026-04-08-wiki">[2026-04-08] 업데이트 | Wiki 전체 일관성 정리</h2>
+<ul>
+<li>index.md 총 페이지 수(132-&gt;129) 및 소스 수(28-&gt;23) 수정</li>
+<li>index.md의 자세한 작업/소스 목록을 _index 페이지에 대한 간략한 참조로 대체했습니다.</li>
+<li>모든 82개 작업에 대해 통계 대시보드(ic-statistics-dashboard.md)를 재구축했습니다.</li>
+<li>섹션 1: 집계 통계 추가됨(82개 작업, 기간 분석, 조정 기관 분포, CI별 상위 10개)</li>
+<li>섹션 2: 나머지 62개에 대한 메모와 함께 "가장 많이 소싱된 작업 20개"로 범위를 명시했습니다.</li>
+<li>3항: CSAM을 6차 범죄유형으로 추가</li>
+<li>섹션 4: 업데이트된 소스 다양성(23개 소스: Europol 6, INTERPOL 10, DOJ 3, Korea NPA 1, News 3)</li>
+<li>섹션 5: 한국 섹션에 Operation Cyber Guardian 및 HAECHI-II가 추가되었습니다.</li>
+<li>섹션 6: 모든 행 수 업데이트(작업 20-&gt;82, 범죄 유형 5-&gt;6, 출처 20-&gt;23, 총 129개)</li>
+<li>전체 82개 작업 데이터세트를 반영하도록overview.md를 업데이트했습니다.</li>
+<li>이제 요약에서 정확한 개수가 포함된 5가지 조정 모델이 포함됩니다.</li>
+<li>주요 업무 테이블을 중요도(체포량)별 상위 10개로 대체</li>
+<li>모든 파생 지표로 업데이트된 협력 통계 테이블</li>
+<li>6개 카테고리 _index.md 파일 모두 확인: 모두 정확함(조직 7, 국가 1, 범죄 유형 6, 메커니즘 2, 개념 2, 출처 23)</li>
+</ul>
+<h2 id="2026-04-08-7">[2026-04-08] 생성 | 법적 프레임워크, 메커니즘 및 절차 배치(7페이지)</h2>
+<ul>
+<li>생성된 페이지:</li>
+<li>wiki/legal-frameworks/un-cybercrime-convention-2024.md — UN 사이버 범죄 방지 협약(GA는 2024년 12월 24일 채택, 아직 발효되지 않음)</li>
+<li>wiki/legal-frameworks/second-additional-protocol.md — CETS No. 224, 부다페스트 현대화 프로토콜(2022-05-12 채택, 아직 시행되지 않음)</li>
+<li>wiki/legal-frameworks/cloud-act.md — 국경 간 데이터 액세스를 위한 US CLOUD Act 프레임워크(2018년 3월 23일부터 시행)</li>
+<li>wiki/mechanisms/europol-jit.md — Europol 합동 조사팀 메커니즘(공식, 몇 주-개월 설정)</li>
+<li>wiki/mechanisms/interpol-i-grip.md — INTERPOL I-GRIP 신속한 결제 차단(준공식, 몇 시간-일)</li>
+<li>wiki/procedures/emergency-data-preservation.md — 부다페스트 컨벤션 아트. 29 보존 절차(24~72시간)</li>
+<li>wiki/procedures/extradition-request.md — 범죄인 인도 요청 절차(6~24개월)</li>
+<li>업데이트된 페이지: legal-frameworks/_index.md(+3 행), 메커니즘/_index.md(+2 행), 프로시저/_index.md(+2 행), index.md(업데이트된 수: 법적 프레임워크 1-&gt;4, 메커니즘 2-&gt;4, 프로시저 0-&gt;2, 총 142-&gt;149)</li>
+<li>주요 결과:</li>
+<li>현재 문서화된 3단계 법적 프레임워크 아키텍처: 부다페스트(현재 시행 중), 두 번째 추가 의정서(아직 시행되지 않음), UN 협약(아직 시행되지 않음), CLOUD 법(양자 시행 중)</li>
+<li>한국은 CLOUD법 시행협약이 없습니다. 두 번째 추가 프로토콜 서명 평가</li>
+<li>포보스/8Base 한미 범죄인 인도(2025년, ~6개월)는 국내 사이버범죄 범죄인 인도의 1차 사례</li>
+</ul>
+<h2 id="2026-04-08-5">[2026-04-08] 생성 | 과제 및 개념 배치(5페이지)</h2>
+<ul>
+<li>생성된 페이지:</li>
+<li>wiki/challenges/data-sovereignty.md — 데이터 주권 및 현지화 요구 사항(법적, 중요)</li>
+<li>wiki/challenges/jurisdictional-con conflicts.md — 사이버 범죄의 관할권 갈등(법적, 비판적)</li>
+<li>wiki/concepts/ne-bis-in-idem.md — Ne bis in idem/이중 위험(인권 보호, 형법)</li>
+<li>wiki/concepts/specialty-principle.md — 전문 원칙/전문 규칙(법적 원칙, 국제법)</li>
+<li>wiki/concepts/nationality-principle.md — 국적 원칙/적극적 성격(관할권 교리, 국제법)</li>
+<li>업데이트된 페이지: Challenges/_index.md(+2행), Concepts/_index.md(+3행), index.md(챌린지 0-&gt;2, 개념 2-&gt;5, 총 149-&gt;154)</li>
+<li>주요 결과:</li>
+<li>데이터 주권 문제: 한국에는 CLOUD법 시행 협약이 없습니다. PIPA 개정으로 인해 국경 간 LEA 데이터 액세스에 대한 마찰이 커지고 있습니다.</li>
+<li>관할권 분쟁: 부다페스트 컨벤션 아트. 22(5) 협의는 구속력이 없습니다. 전역 바인딩 메커니즘이 존재하지 않습니다.</li>
+<li>Ne bis in idem: Korean 형법 Art. 7은 완화를 허용하지만 외국 판결을 금지하지는 않습니다. EU 초국가적 보호보다 약합니다.</li>
+<li>특수 원칙: Phobos admin 한미 범죄인 인도는 한국의 주요 사이버 범죄 사례입니다. 한미조약조약. 15가 적용됩니다</li>
+<li>국적원칙 : 한국 형법 Art. 3은 전 세계적으로 가장 광범위한 범죄 중 하나입니다(모든 범죄, 쌍방가벌성 요건 없음). 캄보디아 사기센터 송환과 직접적으로 관련됨</li>
+</ul></div>
+        <div class="en-block"><h1 id="activity-log">Activity Log</h1>
 <h2 id="2026-04-08-create-wiki-initialized">[2026-04-08] create | Wiki initialized</h2>
 <ul>
 <li>Project structure created for International Cooperation on Cyber Crime domain</li>
@@ -416,7 +503,7 @@
 <li>Ne bis in idem: Korean 형법 Art. 7 allows mitigation but not bar for foreign judgments — weaker than EU transnational protection</li>
 <li>Specialty principle: Phobos admin Korea-to-US extradition is the primary Korean cybercrime example; US-Korea Treaty Art. 15 applies</li>
 <li>Nationality principle: Korean 형법 Art. 3 is among the broadest globally (all offenses, no dual criminality requirement); directly relevant to Cambodia scam centre repatriations</li>
-</ul>
+</ul></div>
       
     </div>
   </main>

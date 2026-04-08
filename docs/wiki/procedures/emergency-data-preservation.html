@@ -68,28 +68,213 @@
     </div>
     <div class="article-body">
       
-        <div class="ko-block"><h2 id="_1">개요</h2>
-<p><strong>Emergency Data Preservation Request (Budapest Convention Art. 29)</strong> — evidence-preservation 절차.</p>
-<p><strong>평균 소요 기간:</strong> 24-72 hours (initial preservation action); 60-day preservation hold (renewable)</p>
-<h2 id="_2">단계별 절차</h2>
+        <div class="ko-block"><h2 id="_1">요약</h2>
+<p>부다페스트 협약에 따른 긴급 데이터 보존 요청. 29는 공식적인 공조 절차가 준비되는 동안 외국 관할권에 저장된 전자 증거의 삭제 또는 손실을 방지하기 위한 <strong>기본 메커니즘</strong>입니다. Art에 따라 설정된 <a href="../../wiki/mechanisms/24-7-network.html" class="wikilink">24-7-network</a>을 활용합니다. 35 부다페스트 협약 당사자 간에 긴급 보존 요청을 전송합니다.</p>
+<p>이 절차는 <em>거의 확실하게</em> 사이버 범죄 수사관이 사용할 수 있는 가장 시간에 민감한 IC 도구입니다. 전자 증거는 휘발성입니다. 공급자 보존 정책에 따라 서버 로그를 덮어쓰고, 계정을 삭제하고, 클라우드 데이터를 삭제할 수 있습니다. 미술. 29 보존을 통해 해외 증거물 탐지와 이를 획득하는 데 필요한 공식적인 MLA 프로세스 사이에 <strong>60일 브리지</strong>가 생성됩니다.</p>
+<h2 id="_2">법적 근거</h2>
+<h3 id="29">부다페스트 컨벤션 아트. 29: 저장된 컴퓨터 데이터의 신속한 보존</h3>
+<p>예술. 29(1): "당사자는 다른 당사자의 영토 내에 위치하고 요청 당사자가 데이터의 수색, 유사한 접근, 압수 또는 유사한 보안 또는 공개를 위한 상호 지원 요청을 제출하려는 컴퓨터 시스템을 통해 저장된 데이터의 신속한 보존을 명령하거나 다른 방법으로 획득하도록 다른 당사자에게 요청할 수 있습니다."</p>
+<p>주요 법적 특징:
+- <strong>보존을 위한 쌍방가벌성 요건 없음</strong>(제29(4)조): 당사자는 쌍방가벌성을 요구할 권리를 보유할 수 있지만 이러한 유보는 예외적입니다. 대부분의 당사자는 단순한 보존을 위해 이를 요구하지 않습니다.
+- <strong>최소 60일 보존</strong>(29(7)조): 요청을 받은 당사자는 공식적인 MLA 요청이 있을 때까지 최소 60일 동안 데이터를 보존해야 합니다.
+- <strong>거부사유가 제한됨</strong>(제29조 제5항): 범죄가 정치적, 군사적이거나 국내 처형이 불가능한 경우에만 해당됩니다.
+- <strong>트래픽 데이터 공개</strong>(제30조): 보존 실행 중에 트래픽 데이터가 다른 주에 있는 서비스 제공자의 개입을 드러내는 경우, 보존 당사자는 요청 당사자가 해당 다른 제공자 및 통신 경로를 식별할 수 있도록 충분한 트래픽 데이터를 신속하게 공개해야 합니다.</p>
+<h3 id="35-247">부다페스트 컨벤션 아트. 35: 24/7 네트워크</h3>
+<p>24/7 네트워크는 예술 작품을 전송하기 위한 <strong>지정 채널</strong>입니다. 요청 29개. 각 당사자는 긴급 보존 요청 및 기타 즉각적인 지원을 용이하게 하기 위해 연중무휴 24시간 이용 가능한 연락 지점을 지정합니다.</p>
+<h2 id="_3">전제조건</h2>
 <ol>
-<li><strong>Investigating officer/prosecutor</strong> — Identify at-risk electronic evidence stored in a foreign jurisdiction — e.g., server logs, email content, subscriber data held by a foreign ISP</li>
-<li><strong>Investigating officer</strong> — Contact the national 24/7 contact point designated under Budapest Convention Art. 35</li>
-<li><strong>National 24/7 contact point (requesting state)</strong> — Transmit the preservation request to the 24/7 contact point of the state where data is stored, via the 24/7 Network (secure channels)</li>
-<li><strong>24/7 contact point (requested state)</strong> — Receive the request and route it to the competent domestic authority for execution</li>
-<li><strong>Domestic authority (requested state)</strong> — Execute a domestic preservation order against the service provider holding the data — provider must preserve the specified data for at least 60 days</li>
-<li><strong>24/7 contact point (requested state)</strong> — Confirm preservation to the requesting state's 24/7 contact point, including any conditions or partial refusals</li>
-<li><strong>Requesting state</strong> — Submit a formal MLA request (through MLAT or Budapest Convention Art. 31) for production of the preserved data within the 60-day preservation period</li>
+<li><strong>부다페스트 협약 회원:</strong> 요청 국가와 요청 국가 모두 협약 당사국이어야 합니다(또는 이에 상응하는 양자 협약이 있어야 함).</li>
+<li><strong>적극적인 범죄 수사:</strong> 요청 국가는 컴퓨터 시스템 또는 데이터와 관련된 범죄에 대해 지속적인 조사를 진행해야 합니다.</li>
+<li><strong>긴급성/손실 위험:</strong> 요청 주에서는 데이터가 수정, 손실 또는 삭제될 위험이 있음을 입증해야 합니다.</li>
+<li><strong>후속 조치 의도:</strong> 요청 국가는 보존 데이터 생성을 위한 공식 MLA 요청을 제출할 의도가 있어야 합니다.</li>
 </ol>
-<h2 id="_3">일반적 함정</h2>
+<h2 id="_4">단계별 프로세스</h2>
+<h3 id="1">1단계: 위험에 처한 외부 증거 식별</h3>
+<p>조사관은 삭제 위험이 있는 외국 관할권에 저장된 전자 증거를 식별합니다.
+- 해외 호스팅 제공업체의 서버 로그
+- 해외 이메일 서비스의 이메일 계정 내용
+- 해외 ISP 가입자 정보
+- 다른 국가의 공급자가 클라우드에 저장한 파일
+- 외국 통신사업자의 트래픽/접속자료</p>
+<p><strong>긴급성 지표:</strong>
+- 제공업체의 데이터 보존 정책이 곧 만료됩니다.
+- 용의자는 계정이나 데이터를 삭제할 수 있습니다
+- 서비스 종료 중
+- 일상적인 로그 교체가 임박함</p>
+<h3 id="2-national-247">2단계: National 24/7 지점에 문의</h3>
+<p>조사관은 자국의 지정된 연중무휴 연락 담당자에게 다음과 같이 연락합니다.
+- 조사요약
+- 보존할 특정 데이터에 대한 설명
+- 데이터 위치(국가, 제공업체, 알려진 경우)
+- 긴급사항에 대한 설명
+- 공식 MLA에 대한 후속조치 의향서</p>
+<h3 id="3">3단계: 연중무휴 네트워크 전송</h3>
+<p>전국 24시간 연중무휴 연락 창구는 데이터가 위치한 국가의 상대방에게 요청을 전송합니다. 요청에는 다음이 포함되어야 합니다(Art. 29(2)에 따라):
+- 보존을 원하는 기관의 신원
+- 수사 대상 범죄 및 간략한 사실 요약
+- 보존할 데이터 및 범죄와의 관계
+- 데이터의 관리자 또는 위치를 식별하는 모든 이용 가능한 정보
+- 보존의 필요성 및 요청 당사자가 공식적인 MLA 요청을 제출할 의사가 있음</p>
+<h3 id="4-247">4단계: 해외 24/7 지점 경로 요청</h3>
+<p>외국의 연중무휴 연락 담당자는 요청을 받아 이를 국내 관할 당국(보존 명령에 대한 관할권의 요구 사항에 따라 경찰, 검사 또는 판사)에게 전달합니다.</p>
+<h3 id="5">5단계: 국내 보존명령 집행</h3>
+<p>요청받은 국가의 국내 당국은 서비스 제공자에게 보존 명령을 발부합니다. 공급자는 지정된 데이터를 <strong>최소 60일</strong> 동안 보존해야 합니다(제29(7)조). 일부 관할권에서는 더 긴 기간을 허용합니다.</p>
+<h3 id="6">6단계: 확인</h3>
+<p>요청된 주의 24/7 지점은 다음을 포함하여 요청하는 주에 대한 보존을 확인합니다.
+- 보존이 전부 또는 일부 이루어졌는지 여부
+- 모든 조건이 첨부됨
+- 거절하는 경우에는 거절이유(제29조제5항)</p>
+<p>운영상 가능한 경우 <strong>몇 시간 이내</strong>에 확인을 제공해야 합니다.</p>
+<h3 id="7-mla">7단계: 공식적인 MLA 후속 조치</h3>
+<p>요청 국가는 60일 보존 기간 내에 보존 데이터의 <strong>생산</strong>에 대한 공식 MLA 요청을 제출해야 합니다. 이는 표준 <a href="../../wiki/mechanisms/mlat-process.html" class="wikilink">mlat-process</a> 또는 부다페스트 컨벤션 아트를 따릅니다. 31 절차.</p>
+<div class="callout callout-warning"><div class="callout-title">⚠️ Critical
+보존은 삭제만 방지하며 데이터에 대한 액세스를 제공하지 않습니다. 실제 생산에는 항상 공식적인 MLA 요청이 필요합니다.</div><div class="callout-body"></div></div>
+<h2 id="_5">필수서류</h2>
+<table>
+<thead>
+<tr>
+<th>Document</th>
+<th>Step</th>
+<th>Prepared By</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Investigation summary</td>
+<td>2-3</td>
+<td>Investigating officer</td>
+</tr>
+<tr>
+<td>Data specification (what to preserve)</td>
+<td>2-3</td>
+<td>Investigating officer</td>
+</tr>
+<tr>
+<td>Art. 29 request form</td>
+<td>3</td>
+<td>24/7 contact point</td>
+</tr>
+<tr>
+<td>Domestic preservation order</td>
+<td>5</td>
+<td>Requested state authority</td>
+</tr>
+<tr>
+<td>Preservation confirmation</td>
+<td>6</td>
+<td>Requested state 24/7 point</td>
+</tr>
+<tr>
+<td>Formal MLA request (Art. 31)</td>
+<td>7</td>
+<td>Prosecutor/central authority</td>
+</tr>
+</tbody>
+</table>
+<h2 id="_6">타임라인</h2>
+<table>
+<thead>
+<tr>
+<th>Phase</th>
+<th>Typical Duration</th>
+<th>Notes</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Internal preparation (Steps 1-2)</td>
+<td>Hours</td>
+<td>Depends on investigator preparedness</td>
+</tr>
+<tr>
+<td>24/7 Network transmission (Step 3)</td>
+<td>Hours</td>
+<td>Should be near-immediate via secure channels</td>
+</tr>
+<tr>
+<td>Foreign routing and execution (Steps 4-5)</td>
+<td>24-72 hours</td>
+<td>Varies significantly by country capacity</td>
+</tr>
+<tr>
+<td>Confirmation (Step 6)</td>
+<td>Hours after execution</td>
+<td></td>
+</tr>
+<tr>
+<td>Preservation hold</td>
+<td>60 days minimum</td>
+<td>Extendable by subsequent request</td>
+</tr>
+<tr>
+<td>Formal MLA submission (Step 7)</td>
+<td>Within 60 days</td>
+<td>Often the bottleneck — MLA preparation is time-consuming</td>
+</tr>
+</tbody>
+</table>
+<p><strong>총 중요 일정:</strong> 요청부터 보존 확인까지 24~72시간.</p>
+<h2 id="_7">실용적인 팁</h2>
+<ol>
+<li><strong>MLA를 병행하여 준비:</strong> Art와 동시에 공식 MLA 요청 초안 작성을 시작합니다. 29 보존 요청 — 확인을 기다리지 마세요</li>
+<li><strong>구체적으로 작성하세요.</strong> 정확한 데이터 유형, 계정, IP 주소, 날짜 범위를 지정하세요. 모호한 요청은 거부되거나 불완전하게 실행될 가능성이 더 높습니다.</li>
+<li><strong>24/7 지점을 파악하십시오.</strong> 전국 24/7 담당자와 현재 관계를 유지하십시오. 응답 시간은 부분적으로 이 작업 관계의 품질에 따라 달라집니다.</li>
+<li><strong>제공업체 정보 포함:</strong> 서비스 제공업체(예: Google, Amazon AWS, OVH)를 알고 있는 경우 빠른 라우팅 요청에 이를 포함하세요.</li>
+<li><strong>보존 정책 추적:</strong> 주요 제공업체의 데이터 보존 정책에 대한 인식 유지(일부는 30일 이내에 로그 삭제)</li>
+<li><strong>예술을 사용하세요. 30 사전 대응:</strong> 교통 데이터에 추가 관할권이 포함된 것으로 밝혀지면 Art. 즉시 30개</li>
+</ol>
+<h2 id="_8">국가별 변형</h2>
+<h3 id="_9">미국</h3>
+<p>미국의 연중무휴 연락 지점은 <a href="../../wiki/organizations/us-doj.html" class="wikilink">Department of Justice, Computer Crime and Intellectual Property Section (CCIPS)</a>입니다. 미국 국내 보존은 18 U.S.C. 2703(f)에 따라 LEA는 제공자에게 90일 동안 기록을 보존하도록 요청할 수 있습니다(추가 90일 동안 갱신 가능).</p>
+<h3 id="_10">영국</h3>
+<p>영국의 연중무휴 연락 지점은 <a href="../../wiki/organizations/uk-nca.html" class="wikilink">National Crime Agency</a> 내에 있습니다. 영국의 수사권한 규제법 2000과 수사권한법 2016이 국내 보존에 적용됩니다.</p>
+<h3 id="_11">독일</h3>
+<p>독일의 24/7 연락 지점은 <a href="../../wiki/organizations/germany-bka.html" class="wikilink">Bundeskriminalamt</a> 내에 있습니다. 독일 국내법은 보존 명령에 대한 추가 요건을 부과할 수 있으며 사법 검토 과정에 시간이 추가될 수 있습니다.</p>
+<h2 id="_12">일반적인 함정</h2>
+<ol>
+<li><strong>보존과 생산을 혼동함:</strong> Art. 29 보존은 삭제를 방지합니다. 요청 상태에 데이터에 대한 액세스 권한을 부여하지 않습니다.</li>
+<li><strong>60일 기간 누락:</strong> 공식적인 MLA 요청이 60일 이내에 제출되지 않으면 보존이 해제되고 데이터가 손실될 수 있습니다.</li>
+<li><strong>지나치게 광범위한 요청:</strong> 구체적이지 않은 "모든 데이터"를 다루는 요청은 범위가 좁아지거나 거부될 가능성이 높습니다.</li>
+<li><strong>부다페스트 이외의 정당:</strong> Art. 29는 부다페스트 협약 당사자들 사이에만 적용됩니다. 비당사국의 경우 대체 협약(양자간, UNTOC, 비공식)을 사용해야 합니다.</li>
+<li><strong>주말/공휴일 지연:</strong> 24/7 네트워크는 24시간 운영되도록 설계되었지만 일부 연락 지점은 업무 시간 외에는 용량이 줄어듭니다.</li>
+<li><strong>언어 장벽:</strong> 공통 언어가 아닌 요청은 번역이 지연될 수 있습니다.</li>
+</ol>
+<h2 id="_13">관련 절차</h2>
 <ul>
-<li>Overly broad preservation requests that are rejected for lack of specificity</li>
-<li>Failure to submit formal MLA request within the 60-day preservation period</li>
-<li>Inadequate description of the urgency or connection between data and investigation</li>
-<li>Requesting data from a non-Budapest party (Art. 29 only applies between parties)</li>
-<li>Confusing preservation (Art. 29) with production (Art. 31) — preservation does NOT provide access to the data, only prevents its deletion</li>
-<li>Insufficient domestic legal authority in the requested state for emergency preservation</li>
-</ul></div>
+<li><strong><a href="../../wiki/procedures/extradition-request.html" class="wikilink">extradition-request</a></strong> — 조사 결과 해외 용의자에 대한 체포 영장이 발부될 경우 따를 수 있음</li>
+<li>표준 <a href="../../wiki/mechanisms/mlat-process.html" class="wikilink">mlat-process</a> — 보존 데이터의 실제 생산을 위해 필요한 후속 조치</li>
+</ul>
+<h2 id="korean-practice">Korean Practice (한국인)</h2>
+<h3 id="2024">2024년 이후 액세스</h3>
+<p>2024년 한국이 <a href="../../wiki/legal-frameworks/budapest-convention.html" class="wikilink">budapest-convention</a>에 가입함으로써 한국 조사관은 **Art에 직접 접근할 수 있게 되었습니다. 29 보존 ** 처음으로. 가입 전 한국 LEA는 다음 사항에 의존했습니다.
+- 양방향 채널(제한된 적용 범위)
+- 인터폴 경찰대 경찰 협력 (비공식, 보존당국 없음)
+- 서비스 제공자에게 직접 자발적 요청(일관되지 않은 준수)</p>
+<h3 id="24">24시간 연중무휴 지정연락처</h3>
+<p>한국의 연중무휴 연락 창구는 <strong>대검찰청</strong> 및/또는 <strong>경찰청</strong> 내에 지정되어 있습니다. 정확한 명칭과 운영 프로토콜은 가입 후에도 여전히 개선되고 있을 <em>가능성이</em> 높습니다.</p>
+<div class="callout callout-warning"><div class="callout-title">⚠️ Legal status check needed
+한국의 24시간 연중무휴 연락처에 대한 정확한 지정이 확인되어야 합니다. 부다페스트 협약은 당사자들이 연락 창구를 지정하도록 요구하지만, 한국에 대한 공개 지정은 아직 널리 문서화되지 않았을 수 있습니다.</div><div class="callout-body"></div></div>
+<h3 id="_14">국내 법적 근거</h3>
+<p>보존을 뒷받침하는 한국 국내법은 다음과 같습니다.
+- 형사소송법 (형사소송법) - 증거보존 조항
+- 통신비밀보호법 (통신비밀보호법) — 통신데이터
+- 전기통신사업법(전기통신사업법) — 공급자 협력 의무
+- 정보통신망 이용촉진 및 정보보호에 관하여 (ICNA) — 인터넷 서비스 제공자</p>
+<h3 id="_15">실제 고려 사항</h3>
+<p>예술을 추구하는 한국 조사관. 29 보존은:
+1. 지정된 24시간 연중무휴 담당자와 조기 조율
+2. 이중언어(한국어/영어) 요청서류 준비
+3. 특정 기술 세부정보(IP 주소, 계정 식별자, 날짜 범위)를 포함합니다.
+4. 60일 기간을 놓치지 않도록 공식적인 MLA 준비를 동시에 시작하세요.
+5. 요청된 일부 상태의 처리 시간이 더 길어질 수 있다는 점을 인지하세요.</p>
+<h2 id="_16">모순 및 공개 질문</h2>
+<ol>
+<li><strong>갱신 메커니즘:</strong> 60일 보존 기간을 연장할 수 있으며, 얼마나 자주 연장할 수 있나요? 미술. 29(7)은 다중 확장에 대해 모호합니다.</li>
+<li><strong>제공업체 준수율:</strong> Art를 완전히 준수하는 서비스 제공업체의 비율. 보존명령 29건? 체계적인 데이터가 없습니다.</li>
+<li><strong>한국의 24/7 역량:</strong> 한국에서 새로 설립된 24/7 연락창구는 얼마나 효과적으로 운영되고 있습니까? 가입 후 운영 경험은 제한되어 있습니다.</li>
+<li><strong>비당사자 데이터:</strong> 조사관은 비부다페스트 정당 국가(예: 중국, 러시아)에 저장된 데이터를 어떻게 처리해야 합니까? 대체 메커니즘은 신뢰성이 낮고 속도가 느립니다.</li>
+<li><strong>클라우드 복잡성:</strong> 클라우드 제공업체가 여러 관할권에 데이터를 배포하는 경우, 어느 주에서 예술 작품을 받아야 할까요? 29 요청? "위치 손실" 문제로 인해 이 절차가 복잡해집니다.</li>
+</ol></div>
         <div class="en-block"><h2 id="summary"><span class="heading-ko">개요</span><span class="heading-en">Summary</span></h2>
 <p>The Emergency Data Preservation Request under Budapest Convention Art. 29 is the <strong>primary mechanism</strong> for preventing the deletion or loss of electronic evidence stored in a foreign jurisdiction while formal mutual legal assistance procedures are prepared. It leverages the <a href="../../wiki/mechanisms/24-7-network.html" class="wikilink">24-7-network</a> established under Art. 35 to transmit urgent preservation requests between Budapest Convention parties.</p>
 <p>This procedure is <em>almost certainly</em> the most time-sensitive IC tool available to cybercrime investigators. Electronic evidence is volatile — server logs may be overwritten, accounts deleted, and cloud data purged according to provider retention policies. Art. 29 preservation creates a <strong>60-day bridge</strong> between the detection of foreign-held evidence and the formal MLA process required to obtain it.</p>
