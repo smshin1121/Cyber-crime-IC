@@ -61,7 +61,7 @@ edges:
     cooperation_type: "evidence_transfer"
     legal_basis: "unknown"
     direction: "undirected"
-credibility_index: 2.55
+credibility_index: 2.48
 source_tier: 3
 missing_fields:
   - "participating_countries_full_list"
@@ -136,3 +136,4 @@ No direct Korean involvement reported in this operation.
 - Full list of 35+ participating countries not publicly disclosed
 - Server seizure count not specified (only that servers in Germany and Netherlands were seized)
 - Total cryptocurrency seized not disclosed despite tracing efforts
+| [1] | Supplementary (high, LLM verified) | polskieradio.pl | - | [원본](https://www.polskieradio.pl/395/7789/artykul/3508265,poland-plays-key-role-in-european-operation-against-child-exploitation-network) |

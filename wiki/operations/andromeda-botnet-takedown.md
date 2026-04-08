@@ -68,7 +68,7 @@ edges:
     cooperation_type: "joint_investigation"
     legal_basis: "unknown"
     direction: "undirected"
-credibility_index: 2.28
+credibility_index: 3.25
 source_tier: 2
 missing_fields: ["legal_basis", "mechanisms_used"]
 related_cases: []
@@ -107,3 +107,4 @@ United States, Germany, Austria, Belgium, Finland, France, Italy, Netherlands, P
 | # | Title | Publisher | Date | URL |
 |---|-------|----------|------|-----|
 | [1] | Andromeda Botnet Dismantled in International Cyber Operation | Europol | 2017-12-04 | [원본](https://www.europol.europa.eu/media-press/newsroom/news/andromeda-botnet-dismantled-in-international-cyber-operation) |
+| [2] | Supplementary (high confidence) | portswigger.net | - | [원본](https://portswigger.net/daily-swig/andromeda-botnet-dismantled-by-international-taskforce) |

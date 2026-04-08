@@ -211,3 +211,4 @@ The successful extradition demonstrates the practical effectiveness of the Korea
 |---|-------|----------|------|-----|
 | [1] | Key figures behind Phobos and 8Base ransomware arrested in international cybercrime crackdown | Europol | 2025-02-11 | [원본](https://www.europol.europa.eu/media-press/newsroom/news/key-figures-behind-phobos-and-8base-ransomware-arrested-in-international-cybercrime-crackdown) |
 | [2] | Supplementary source | phys.org | - | [원본](https://phys.org/news/2015-12-europe-trojan-horse-cybercrime.html) |
+| [3] | Supplementary (high, LLM verified) | cbsnews.com | - | [원본](https://www.cbsnews.com/news/justice-department-charges-russian-men-cybercrime-ransomware/) |

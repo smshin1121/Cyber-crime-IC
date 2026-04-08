@@ -54,7 +54,7 @@ edges:
     cooperation_type: "joint_investigation"
     legal_basis: "unknown"
     direction: "undirected"
-credibility_index: 2.28
+credibility_index: 3.25
 source_tier: 2
 missing_fields: ["legal_basis", "mechanisms_used"]
 related_cases: []
@@ -97,3 +97,4 @@ Spain, United States, Romania, Belarus, Taiwan
 | # | Title | Publisher | Date | URL |
 |---|-------|----------|------|-----|
 | [1] | Mastermind Behind EUR 1 Billion Cyber Bank Robbery Arrested in Spain | Europol | 2018-03 | [원본](https://www.europol.europa.eu/media-press/newsroom/news/mastermind-behind-eur-1-billion-cyber-bank-robbery-arrested-in-spain) |
+| [2] | Supplementary (high confidence) | thirdway.org | - | [원본](https://www.thirdway.org/report/countering-the-cyber-enforcement-gap-strengthening-global-capacity-on-cybercrime) |
