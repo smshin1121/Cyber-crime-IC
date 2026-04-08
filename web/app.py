@@ -441,6 +441,581 @@ def build_infobox(meta, page_type):
     return infobox
 
 
+# --- Korean Content Generator ---
+
+# Common term translations for body text
+TERM_KO = {
+    "completed": "완료", "ongoing": "진행중", "success": "성공",
+    "partial": "부분 성공", "failure": "실패", "unknown": "미상",
+    "takedown": "테이크다운", "joint-investigation": "합동수사",
+    "arrest-sweep": "일제검거", "infrastructure-seizure": "인프라 압수",
+    "arrest": "체포", "seizure": "압수", "indictment": "기소",
+    "extradition": "인도", "asset_freeze": "자산동결",
+    "high": "높음", "medium": "보통", "low": "낮음",
+    "formal-mlat": "공식 MLAT", "informal-police-cooperation": "비공식 경찰 협력",
+    "convention": "협약", "protocol": "의정서", "bilateral-treaty": "양자조약",
+    "in-force": "발효중", "not-yet-in-force": "미발효",
+    "common-law": "보통법", "civil-law": "대륙법", "mixed": "혼합",
+    "international-org": "국제기구", "regional-org": "지역기구",
+    "national-agency": "국가기관", "national-unit": "국가부서",
+    "cyber-dependent": "사이버 의존형", "cyber-enabled": "사이버 활용형",
+    "content-related": "콘텐츠 관련",
+    "legal": "법적", "technical": "기술적", "political": "정치적",
+    "institutional": "제도적", "capacity": "역량",
+    "critical": "심각", "confirmed": "확인됨",
+    "probably-true": "유력", "possibly-true": "가능성 있음",
+    "public": "공개", "restricted": "제한", "confidential": "비공개",
+}
+
+
+def _t(val: str) -> str:
+    """Translate a known term, or return original."""
+    if not val:
+        return ""
+    clean = str(val).strip("[]\"' ")
+    return TERM_KO.get(clean, clean)
+
+
+def _strip_wikilink(val) -> str:
+    """Extract display name from wikilink or plain string."""
+    s = str(val).strip("[]\"' ")
+    if "|" in s:
+        return s.split("|", 1)[1]
+    return s.replace("-", " ").replace("_", " ").title() if s.islower() else s
+
+
+def _format_list(items, limit=10) -> str:
+    """Format a list of items for Korean display."""
+    if not isinstance(items, list):
+        return str(items)
+    names = [_strip_wikilink(i) for i in items[:limit]]
+    result = ", ".join(names)
+    if len(items) > limit:
+        result += f" 외 {len(items) - limit}개"
+    return result
+
+
+def generate_ko_content(meta: dict, en_content: str, page_type: str) -> str:
+    """Generate Korean markdown content from frontmatter metadata."""
+    generators = {
+        "operation": _gen_ko_operation,
+        "source": _gen_ko_source,
+        "organization": _gen_ko_organization,
+        "country": _gen_ko_country,
+        "legal-framework": _gen_ko_legal_framework,
+        "mechanism": _gen_ko_mechanism,
+        "crime-type": _gen_ko_crime_type,
+        "concept": _gen_ko_concept,
+        "challenge": _gen_ko_challenge,
+        "procedure": _gen_ko_procedure,
+        "analysis": _gen_ko_analysis,
+    }
+    gen = generators.get(page_type)
+    if gen:
+        return gen(meta, en_content)
+    return ""
+
+
+def _gen_ko_operation(meta: dict, en: str) -> str:
+    """Generate Korean content for operation pages."""
+    title = meta.get("title_ko") or meta.get("title", "")
+    status = _t(meta.get("status", ""))
+    op_type = _t(meta.get("operation_type", ""))
+    outcome = _t(meta.get("outcome", ""))
+
+    tf = meta.get("timeframe", {})
+    announced = tf.get("announced", "") if isinstance(tf, dict) else ""
+    start = tf.get("start", "") if isinstance(tf, dict) else ""
+    end = tf.get("end", "") if isinstance(tf, dict) else ""
+    period_str = f"{start} ~ {end}" if start and end else str(announced)
+
+    coord = _strip_wikilink(meta.get("coordinating_body", ""))
+    lead = _strip_wikilink(meta.get("lead_agency", ""))
+    crime = _strip_wikilink(meta.get("crime_type", ""))
+    target = meta.get("target_entity", "")
+
+    countries = meta.get("participating_countries", [])
+    agencies = meta.get("participating_agencies", [])
+    countries_str = _format_list(countries)
+    agencies_str = _format_list(agencies)
+    num_countries = len(countries) if isinstance(countries, list) else 0
+
+    results = meta.get("results", {})
+    if not isinstance(results, dict):
+        results = {}
+    arrests = results.get("arrests", 0)
+    servers = results.get("servers_seized", 0)
+    domains = results.get("domains_seized", 0)
+    crypto = results.get("cryptocurrency_seized", "")
+    other = results.get("other", [])
+
+    ci = meta.get("credibility_index", "")
+    src_count = meta.get("source_count", 0)
+
+    lines = []
+    lines.append("## 개요\n")
+
+    # Build summary
+    summary_parts = [f"**{title}**"]
+    if coord:
+        summary_parts.append(f"[[{meta.get('coordinating_body', coord)}|{coord}]]의 조정 하에 수행된")
+    summary_parts.append(f"{op_type} 작전으로,")
+    if period_str:
+        summary_parts.append(f"**{period_str}** 기간 동안")
+    if num_countries:
+        summary_parts.append(f"**{num_countries}개국**이 참여하였다.")
+    else:
+        summary_parts.append("국제 공조로 진행되었다.")
+
+    lines.append(" ".join(summary_parts))
+
+    if target:
+        lines.append(f"\n대상: {target}\n")
+
+    # Results section
+    result_items = []
+    if arrests:
+        result_items.append(f"**{arrests:,}명** 체포")
+    if servers:
+        result_items.append(f"**{servers:,}대** 서버 압수")
+    if domains:
+        result_items.append(f"**{domains:,}개** 도메인 압수/차단")
+    if crypto:
+        result_items.append(f"**{crypto}** 암호화폐 압수")
+
+    if result_items:
+        lines.append("\n## 결과\n")
+        for item in result_items:
+            lines.append(f"- {item}")
+        if isinstance(other, list):
+            for o in other:
+                lines.append(f"- {o}")
+
+    # Participants
+    lines.append("\n## 참여 기관\n")
+    if lead:
+        lines.append(f"**주도기관:** {lead}")
+    if coord and coord != lead:
+        lines.append(f"\n**조정기관:** {coord}")
+    if agencies_str:
+        lines.append(f"\n**참여기관:** {agencies_str}")
+    if countries_str:
+        lines.append(f"\n**참여국:** {countries_str}")
+
+    # Lessons learned
+    lessons = meta.get("lessons_learned", [])
+    if isinstance(lessons, list) and lessons:
+        lines.append("\n## 교훈\n")
+        for lesson in lessons:
+            lines.append(f"- {lesson}")
+
+    # Related operations
+    related = meta.get("related_operations", [])
+    if isinstance(related, list) and related:
+        lines.append("\n## 관련 작전\n")
+        for r in related:
+            lines.append(f"- {r}")
+
+    # Credibility
+    if ci:
+        lines.append(f"\n> 신뢰도 지수(CI): **{ci}** | 출처: {src_count}건")
+
+    # Extract references table from English content (keep as-is)
+    ref_match = re.search(r'(## References\n.*)', en, re.DOTALL)
+    if ref_match:
+        lines.append("\n## 참고문헌\n")
+        ref_table = ref_match.group(1).replace("## References\n", "").strip()
+        lines.append(ref_table)
+
+    return "\n".join(lines)
+
+
+def _gen_ko_source(meta: dict, en: str) -> str:
+    """Generate Korean content for source pages."""
+    title = meta.get("title", "")
+    pub = meta.get("publisher", "")
+    pub_date = meta.get("publish_date", "")
+    src_type = _t(meta.get("source_type", ""))
+    reliability = _t(meta.get("reliability", ""))
+    credibility = _t(meta.get("credibility", ""))
+    lang = meta.get("language", "en")
+    raw_path = meta.get("raw_path", "")
+
+    findings = meta.get("key_findings", [])
+    pages = meta.get("pages_updated", [])
+
+    lines = []
+    lines.append("## 출처 정보\n")
+    lines.append(f"| 항목 | 내용 |")
+    lines.append(f"|------|------|")
+    lines.append(f"| 제목 | {title} |")
+    lines.append(f"| 발행처 | {pub} |")
+    lines.append(f"| 발행일 | {pub_date} |")
+    lines.append(f"| 출처유형 | {src_type} |")
+    lines.append(f"| 신뢰도 | {reliability} |")
+    lines.append(f"| 신빙성 | {credibility} |")
+    lines.append(f"| 언어 | {lang} |")
+    if raw_path:
+        lines.append(f"| 원본 경로 | `{raw_path}` |")
+
+    if isinstance(findings, list) and findings:
+        lines.append("\n## 주요 발견사항\n")
+        for f in findings:
+            lines.append(f"- {f}")
+
+    if isinstance(pages, list) and pages:
+        lines.append("\n## 갱신된 페이지\n")
+        for p in pages:
+            lines.append(f"- {p}")
+
+    return "\n".join(lines)
+
+
+def _gen_ko_organization(meta: dict, en: str) -> str:
+    """Generate Korean content for organization pages."""
+    title = meta.get("title", "")
+    title_ko = meta.get("official_name_ko", "")
+    org_type = _t(meta.get("org_type", ""))
+    hq = meta.get("headquarters", "")
+    est = meta.get("established", "")
+    mandate = meta.get("mandate", "")
+    members = meta.get("member_states", "")
+    parent = _strip_wikilink(meta.get("parent_org", ""))
+    country = _strip_wikilink(meta.get("country", ""))
+    key_roles = meta.get("key_roles", [])
+    partners = meta.get("cooperation_partners", [])
+    ops = meta.get("operations_participated", [])
+
+    lines = []
+    lines.append("## 개요\n")
+    desc = f"**{title}**"
+    if title_ko:
+        desc += f" ({title_ko})"
+    desc += f"은(는) {org_type}으로"
+    if est:
+        desc += f" {est}년 설립되었으며"
+    if hq:
+        desc += f" {hq}에 본부를 두고 있다."
+    else:
+        desc += "."
+    lines.append(desc)
+    if mandate:
+        lines.append(f"\n**임무:** {mandate}")
+    if parent:
+        lines.append(f"\n**상위기관:** {parent}")
+    if country:
+        lines.append(f"\n**소속국:** {country}")
+    if members:
+        lines.append(f"\n**회원국:** {members}개국")
+
+    if isinstance(key_roles, list) and key_roles:
+        lines.append("\n## 국제공조 역할\n")
+        for r in key_roles:
+            lines.append(f"- {r}")
+
+    if isinstance(ops, list) and ops:
+        lines.append(f"\n## 참여 작전 ({len(ops)}건)\n")
+        for o in ops[:20]:
+            lines.append(f"- {o}")
+        if len(ops) > 20:
+            lines.append(f"- *외 {len(ops)-20}건*")
+
+    if isinstance(partners, list) and partners:
+        lines.append("\n## 협력 기관\n")
+        lines.append(_format_list(partners))
+
+    return "\n".join(lines)
+
+
+def _gen_ko_country(meta: dict, en: str) -> str:
+    """Generate Korean content for country pages."""
+    title = meta.get("title", "")
+    iso = meta.get("iso_code", "")
+    legal_sys = _t(meta.get("legal_system", ""))
+    region = meta.get("region", "")
+    legis = meta.get("cybercrime_legislation", {})
+    treaties = meta.get("treaty_memberships", [])
+    agencies = meta.get("key_agencies", [])
+    ic = meta.get("ic_capacity", {})
+    ops = meta.get("operations_participated", [])
+    assessment = meta.get("cooperation_assessment", "")
+
+    lines = []
+    lines.append("## 개요\n")
+    lines.append(f"**{title}** (ISO: {iso})은(는) {region} 지역의 {legal_sys} 국가이다.")
+
+    if isinstance(legis, dict) and legis.get("primary_law"):
+        lines.append(f"\n## 사이버범죄 법제\n")
+        lines.append(f"- **주요 법률:** {legis['primary_law']}")
+        if legis.get("primary_law_date"):
+            lines.append(f"- **제정일:** {legis['primary_law_date']}")
+        procs = legis.get("procedural_powers", [])
+        if procs:
+            lines.append(f"- **절차적 권한:** {', '.join(procs)}")
+
+    if isinstance(treaties, list) and treaties:
+        lines.append(f"\n## 조약 가입 현황\n")
+        lines.append("| 조약 | 상태 | 일자 |")
+        lines.append("|------|------|------|")
+        for t in treaties:
+            if isinstance(t, dict):
+                lines.append(f"| {t.get('framework','')} | {_t(t.get('status',''))} | {t.get('date','')} |")
+
+    if isinstance(agencies, list) and agencies:
+        lines.append(f"\n## 주요 기관\n")
+        for a in agencies:
+            lines.append(f"- {a}")
+
+    if isinstance(ic, dict):
+        lines.append(f"\n## 공조 역량 평가\n")
+        if ic.get("rating"):
+            lines.append(f"- **종합 등급:** {_t(ic['rating'])}")
+        if ic.get("digital_forensics"):
+            lines.append(f"- **디지털 포렌식:** {_t(ic['digital_forensics'])}")
+        if ic.get("24_7_availability"):
+            lines.append(f"- **24/7 대응:** 가능")
+        mlat = ic.get("avg_mlat_response_days")
+        if mlat:
+            lines.append(f"- **평균 MLAT 응답일:** {mlat}일")
+
+    if isinstance(ops, list) and ops:
+        lines.append(f"\n## 참여 작전 ({len(ops)}건)\n")
+        for o in ops[:15]:
+            lines.append(f"- {o}")
+
+    if assessment:
+        lines.append(f"\n## 공조 평가\n")
+        lines.append(assessment)
+
+    return "\n".join(lines)
+
+
+def _gen_ko_legal_framework(meta: dict, en: str) -> str:
+    """Generate Korean for legal framework pages."""
+    title = meta.get("title", "")
+    title_ko = meta.get("official_name_ko", "")
+    ftype = _t(meta.get("framework_type", ""))
+    adopted = meta.get("adopted_date", "")
+    entry = meta.get("entry_into_force", "")
+    status = _t(meta.get("status", ""))
+    sponsor = _strip_wikilink(meta.get("sponsoring_body", ""))
+    parties = meta.get("parties", {})
+    provisions = meta.get("key_provisions", [])
+
+    lines = []
+    lines.append("## 개요\n")
+    desc = f"**{title}**"
+    if title_ko:
+        desc += f" ({title_ko})"
+    desc += f"은(는) {ftype}으로"
+    if adopted:
+        desc += f" {adopted}에 채택되었으며"
+    if entry:
+        desc += f" {entry}에 발효되었다."
+    else:
+        desc += "."
+    desc += f" 현재 상태: **{status}**."
+    lines.append(desc)
+    if sponsor:
+        lines.append(f"\n**주관기관:** {sponsor}")
+
+    if isinstance(parties, dict):
+        sp = parties.get("states_parties", 0)
+        sig = parties.get("signatories", 0)
+        lines.append(f"\n## 당사국 현황\n")
+        lines.append(f"- 당사국: {sp}개국")
+        lines.append(f"- 서명국: {sig}개국")
+        non = parties.get("notable_non_parties", [])
+        if non:
+            lines.append(f"- 주요 미가입국: {', '.join(str(n) for n in non)}")
+
+    if isinstance(provisions, list) and provisions:
+        lines.append(f"\n## 주요 조항\n")
+        lines.append("| 조항 | 주제 | 관련성 |")
+        lines.append("|------|------|--------|")
+        for p in provisions:
+            if isinstance(p, dict):
+                lines.append(f"| {p.get('article','')} | {p.get('topic','')} | {p.get('relevance','')} |")
+
+    return "\n".join(lines)
+
+
+def _gen_ko_mechanism(meta: dict, en: str) -> str:
+    """Generate Korean for mechanism pages."""
+    title = meta.get("title", "")
+    mtype = _t(meta.get("mechanism_type", ""))
+    formality = _t(meta.get("formality", ""))
+    speed = meta.get("speed", "")
+    purpose = meta.get("purpose", "")
+    admin = _strip_wikilink(meta.get("administered_by", ""))
+    limitations = meta.get("limitations", [])
+
+    lines = []
+    lines.append("## 개요\n")
+    lines.append(f"**{title}**은(는) {mtype} 유형의 {formality} 공조 메커니즘이다.")
+    if purpose:
+        lines.append(f"\n**목적:** {purpose}")
+    if admin:
+        lines.append(f"\n**운영기관:** {admin}")
+    if speed:
+        lines.append(f"\n**처리 속도:** {speed}")
+
+    scope = meta.get("scope", {})
+    if isinstance(scope, dict):
+        enabled = [k.replace("_", " ") for k, v in scope.items() if v]
+        if enabled:
+            lines.append(f"\n## 범위\n")
+            for e in enabled:
+                lines.append(f"- {e}")
+
+    if isinstance(limitations, list) and limitations:
+        lines.append(f"\n## 한계\n")
+        for lim in limitations:
+            lines.append(f"- {lim}")
+
+    return "\n".join(lines)
+
+
+def _gen_ko_crime_type(meta: dict, en: str) -> str:
+    """Generate Korean for crime-type pages."""
+    title = meta.get("title", "")
+    cat = _t(meta.get("crime_category", ""))
+    challenges = meta.get("typical_ic_challenges", [])
+    frameworks = meta.get("relevant_legal_frameworks", [])
+    ops = meta.get("notable_operations", [])
+
+    lines = []
+    lines.append("## 개요\n")
+    lines.append(f"**{title}** — {cat} 범죄 유형.")
+
+    crim = meta.get("criminalization_status", {})
+    if isinstance(crim, dict):
+        if crim.get("broadly_criminalized"):
+            lines.append("\n대부분의 국가에서 범죄화되어 있다.")
+        if crim.get("definition_varies"):
+            lines.append("다만, 정의는 국가별로 차이가 있다.")
+
+    if isinstance(frameworks, list) and frameworks:
+        lines.append(f"\n## 관련 법적 프레임워크\n")
+        for f in frameworks:
+            lines.append(f"- {f}")
+
+    if isinstance(ops, list) and ops:
+        lines.append(f"\n## 주요 작전\n")
+        for o in ops:
+            lines.append(f"- {o}")
+
+    if isinstance(challenges, list) and challenges:
+        lines.append(f"\n## 국제공조 과제\n")
+        for c in challenges:
+            lines.append(f"- {c}")
+
+    return "\n".join(lines)
+
+
+def _gen_ko_concept(meta: dict, en: str) -> str:
+    """Generate Korean for concept pages."""
+    title = meta.get("title", "")
+    title_ko = meta.get("title_ko", "")
+    definition = meta.get("definition", "")
+    cat = _t(meta.get("concept_category", ""))
+    domain = meta.get("domain", "")
+    relevance = meta.get("relevance_to_ic", "")
+    related = meta.get("related_concepts", [])
+
+    lines = []
+    lines.append("## 정의\n")
+    desc = f"**{title}**"
+    if title_ko:
+        desc += f" ({title_ko})"
+    desc += f" — {cat}."
+    lines.append(desc)
+    if definition:
+        lines.append(f"\n{definition}")
+    if domain:
+        lines.append(f"\n**분야:** {domain}")
+    if relevance:
+        lines.append(f"\n## 사이버범죄 국제공조 관련성\n")
+        lines.append(relevance)
+    if isinstance(related, list) and related:
+        lines.append(f"\n## 관련 개념\n")
+        for r in related:
+            lines.append(f"- {r}")
+
+    return "\n".join(lines)
+
+
+def _gen_ko_challenge(meta: dict, en: str) -> str:
+    """Generate Korean for challenge pages."""
+    title = meta.get("title", "")
+    cat = _t(meta.get("challenge_category", ""))
+    severity = _t(meta.get("severity", ""))
+    solutions = meta.get("proposed_solutions", [])
+    affected = meta.get("affected_mechanisms", [])
+
+    lines = []
+    lines.append("## 개요\n")
+    lines.append(f"**{title}** — {cat} 유형의 과제 (심각도: {severity}).")
+    if isinstance(affected, list) and affected:
+        lines.append(f"\n**영향받는 메커니즘:** {_format_list(affected)}")
+    if isinstance(solutions, list) and solutions:
+        lines.append(f"\n## 제안된 해결책\n")
+        for s in solutions:
+            lines.append(f"- {s}")
+
+    return "\n".join(lines)
+
+
+def _gen_ko_procedure(meta: dict, en: str) -> str:
+    """Generate Korean for procedure pages."""
+    title = meta.get("title", "")
+    ptype = _t(meta.get("procedure_type", ""))
+    duration = meta.get("average_duration", "")
+    steps = meta.get("steps", [])
+    pitfalls = meta.get("common_pitfalls", [])
+
+    lines = []
+    lines.append("## 개요\n")
+    lines.append(f"**{title}** — {ptype} 절차.")
+    if duration:
+        lines.append(f"\n**평균 소요 기간:** {duration}")
+
+    if isinstance(steps, list) and steps:
+        lines.append(f"\n## 단계별 절차\n")
+        for s in steps:
+            if isinstance(s, dict):
+                step_n = s.get("step", "")
+                actor = s.get("actor", "")
+                action = s.get("action", "")
+                lines.append(f"{step_n}. **{actor}** — {action}")
+
+    if isinstance(pitfalls, list) and pitfalls:
+        lines.append(f"\n## 일반적 함정\n")
+        for p in pitfalls:
+            lines.append(f"- {p}")
+
+    return "\n".join(lines)
+
+
+def _gen_ko_analysis(meta: dict, en: str) -> str:
+    """Generate Korean for analysis pages — keep English content as-is."""
+    # Analysis pages are complex; return empty to fall back to English
+    return ""
+
+
+def render_bilingual(meta: dict, en_content: str, page_type: str):
+    """Render both English and Korean content for a page."""
+    en_html = render_markdown(en_content)
+
+    ko_md = generate_ko_content(meta, en_content, page_type)
+    if ko_md:
+        ko_html = render_markdown(ko_md)
+    else:
+        ko_html = None
+
+    return en_html, ko_html
+
+
 # --- Routes ---
 
 @app.route("/")
@@ -456,15 +1031,15 @@ def page(slug):
     if not filepath or not filepath.exists():
         abort(404)
     meta, content = parse_page(filepath)
-    html = render_markdown(content)
-    title = meta.get("title", slug.replace("-", " ").title())
     page_type = meta.get("type", "")
+    en_html, ko_html = render_bilingual(meta, content, page_type)
+    title = meta.get("title", slug.replace("-", " ").title())
     infobox = build_infobox(meta, page_type)
     category = get_category_for_file(filepath)
     cat_label = CATEGORIES.get(category, {}).get("label", "")
     return render_template(
-        "article.html", title=title, content=html, meta=meta,
-        infobox=infobox, category=category, cat_label=cat_label,
+        "article.html", title=title, content=en_html, content_ko=ko_html,
+        meta=meta, infobox=infobox, category=category, cat_label=cat_label,
         slug=slug, page_type=page_type,
     )
 
@@ -475,14 +1050,14 @@ def category_page(category, slug):
     if not filepath.exists():
         abort(404)
     meta, content = parse_page(filepath)
-    html = render_markdown(content)
-    title = meta.get("title", slug.replace("-", " ").title())
     page_type = meta.get("type", "")
+    en_html, ko_html = render_bilingual(meta, content, page_type)
+    title = meta.get("title", slug.replace("-", " ").title())
     infobox = build_infobox(meta, page_type)
     cat_label = CATEGORIES.get(category, {}).get("label", "")
     return render_template(
-        "article.html", title=title, content=html, meta=meta,
-        infobox=infobox, category=category, cat_label=cat_label,
+        "article.html", title=title, content=en_html, content_ko=ko_html,
+        meta=meta, infobox=infobox, category=category, cat_label=cat_label,
         slug=slug, page_type=page_type,
     )
 

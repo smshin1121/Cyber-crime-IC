@@ -39,7 +39,12 @@
       </div>
     </div>
     <div class="article-body">
-      {{ content }}
+      {% if content_ko %}
+        <div class="ko-block">{{ content_ko }}</div>
+        <div class="en-block">{{ content }}</div>
+      {% else %}
+        {{ content }}
+      {% endif %}
     </div>
   </main>
 
