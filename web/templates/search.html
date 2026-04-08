@@ -1,0 +1,38 @@
+{% extends "base.html" %}
+{% block title %}검색: {{ query }} — 사이버범죄 국제공조 위키{% endblock %}
+
+{% block body %}
+<div class="page-wrapper full-width">
+  <main class="article">
+    <div class="article-header">
+      <h1>검색 결과: "{{ query }}"</h1>
+      <div class="article-meta">
+        <span>{{ results|length }}건 발견</span>
+      </div>
+    </div>
+    <div class="article-body">
+      {% if not results %}
+        <p>"{{ query }}"에 대한 검색 결과가 없습니다.</p>
+      {% else %}
+        {% for r in results %}
+        <div class="search-result">
+          <h3>
+            <a href="/wiki/{% if r.category %}{{ r.category }}/{% endif %}{{ r.slug }}">
+              {{ r.title }}
+            </a>
+          </h3>
+          {% if r.title_ko %}
+            <div style="color:#555;font-size:13px;">{{ r.title_ko }}</div>
+          {% endif %}
+          <div class="snippet">{{ r.snippet }}</div>
+          <div class="result-meta">
+            {% if r.category %}카테고리: {{ r.category }}{% endif %}
+            {% if r.type %} · 유형: {{ r.type }}{% endif %}
+          </div>
+        </div>
+        {% endfor %}
+      {% endif %}
+    </div>
+  </main>
+</div>
+{% endblock %}

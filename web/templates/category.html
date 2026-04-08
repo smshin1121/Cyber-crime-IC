@@ -1,0 +1,29 @@
+{% extends "base.html" %}
+{% block title %}{{ cat_info.label }} — 사이버범죄 국제공조 위키{% endblock %}
+
+{% block body %}
+<div class="page-wrapper full-width">
+  <main class="article">
+    <div class="article-header">
+      <h1>{{ cat_info.icon }} {{ cat_info.label }}</h1>
+      <div class="article-meta">
+        <span>{{ pages|length }}개 문서</span>
+      </div>
+    </div>
+    <div class="cat-grid">
+      {% for p in pages %}
+      <div class="cat-card">
+        <h3><a href="/wiki/{{ category }}/{{ p.slug }}">{{ p.title }}</a></h3>
+        <span class="type-badge">{{ p.type }}</span>
+        {% if p.meta.get('status') %}
+          <span class="type-badge">{{ p.meta['status'] }}</span>
+        {% endif %}
+        {% if p.meta.get('source_count') %}
+          <span class="type-badge">출처 {{ p.meta['source_count'] }}건</span>
+        {% endif %}
+      </div>
+      {% endfor %}
+    </div>
+  </main>
+</div>
+{% endblock %}

@@ -1,0 +1,60 @@
+{% extends "base.html" %}
+{% block title %}{{ title }} — 사이버범죄 국제공조 위키{% endblock %}
+
+{% block body %}
+<div class="page-wrapper">
+  <main class="article">
+    <div class="article-header">
+      <h1>{{ title }}</h1>
+      <div class="article-meta">
+        {% if page_type %}
+          <span class="badge">{{ page_type }}</span>
+        {% endif %}
+        {% if cat_label %}
+          <span><a href="/category/{{ category }}">{{ cat_label }}</a></span>
+        {% endif %}
+        {% if meta.get('updated') %}
+          <span>최종 수정: {{ meta['updated'] }}</span>
+        {% endif %}
+        {% if meta.get('source_count') %}
+          <span>출처: {{ meta['source_count'] }}건</span>
+        {% endif %}
+      </div>
+    </div>
+    <div class="article-body">
+      {{ content }}
+    </div>
+  </main>
+
+  <aside class="sidebar">
+    {% if infobox and infobox|length > 1 %}
+    <div class="infobox">
+      <div class="infobox-header">{{ title }}</div>
+      <table>
+        {% for label, value in infobox %}
+        <tr>
+          <th>{{ label }}</th>
+          <td>{{ value }}</td>
+        </tr>
+        {% endfor %}
+      </table>
+    </div>
+    {% endif %}
+
+    <div class="cat-nav">
+      <h3>카테고리</h3>
+      <ul>
+        {% for key, info in categories.items() %}
+        <li>
+          {{ info.icon }}
+          <a href="/category/{{ key }}"
+             {% if key == category %}style="font-weight:700"{% endif %}>
+            {{ info.label }}
+          </a>
+        </li>
+        {% endfor %}
+      </ul>
+    </div>
+  </aside>
+</div>
+{% endblock %}

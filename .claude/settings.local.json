@@ -1,0 +1,27 @@
+{
+  "permissions": {
+    "allow": [
+      "WebSearch",
+      "WebFetch(domain:www.europol.europa.eu)",
+      "WebFetch(domain:www.justice.gov)",
+      "WebFetch(domain:www.bleepingcomputer.com)",
+      "Bash(echo \"EXIT:$?\")",
+      "Bash(ls wiki/sources/2024-1*.md wiki/sources/2025-0[3,5,8]*.md)",
+      "Bash(pip install:*)",
+      "Bash(python web/app.py)",
+      "Bash(curl -s -o /dev/null -w \"%{http_code}\" http://localhost:5000/)",
+      "Bash(curl -s http://localhost:5000/wiki/index)",
+      "Bash(curl -s -o /dev/null -w \"%{http_code}\" http://localhost:5000/wiki/index)",
+      "Bash(curl -s -o /dev/null -w \"%{http_code}\" http://localhost:5000/category/operations)",
+      "Bash(curl -s -o /dev/null -w \"%{http_code}\" http://localhost:5000/search?q=ransomware)",
+      "Bash(curl -s -o /dev/null -w \"%{http_code}\" http://localhost:5000/stats)",
+      "Bash(curl -s -o /dev/null -w \"%{http_code}\" http://localhost:5000/wiki/analysis/ic-statistics-dashboard)",
+      "Bash(curl -s http://localhost:5000/stats)",
+      "Bash(echo \"PID: $!\")",
+      "Bash(curl -s -o /dev/null -w \"Status: %{http_code}\" http://localhost:5000/stats)"
+    ]
+  },
+  "enabledPlugins": {
+    "harness@harness-marketplace": true
+  }
+}

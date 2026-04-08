@@ -1,0 +1,144 @@
+{% extends "base.html" %}
+{% block title %}통계 — 사이버범죄 국제공조 위키{% endblock %}
+
+{% block body %}
+<div class="page-wrapper full-width">
+  <main class="article">
+    <div class="article-header">
+      <h1>📊 사이버범죄 국제공조 통계 대시보드</h1>
+      <div class="article-meta">
+        <span>위키 데이터 기반 실시간 집계</span>
+        <span>·</span>
+        <span><a href="/wiki/analysis/ic-statistics-dashboard">상세 분석 페이지 보기</a></span>
+      </div>
+    </div>
+    <div class="article-body">
+
+      <h2>위키 현황</h2>
+      <div class="stats-grid">
+        <div class="stat-card">
+          <div class="number">{{ total }}</div>
+          <div class="label">전체 문서</div>
+        </div>
+        <div class="stat-card">
+          <div class="number">{{ total_sources }}</div>
+          <div class="label">수집 출처</div>
+        </div>
+        <div class="stat-card">
+          <div class="number">{{ total_ops }}</div>
+          <div class="label">국제공조 작전</div>
+        </div>
+        <div class="stat-card">
+          <div class="number">{{ cat_counts.get('organizations', 0) }}</div>
+          <div class="label">기관</div>
+        </div>
+        <div class="stat-card">
+          <div class="number">{{ cat_counts.get('countries', 0) }}</div>
+          <div class="label">국가 프로필</div>
+        </div>
+        <div class="stat-card">
+          <div class="number">{{ cat_counts.get('crime-types', 0) }}</div>
+          <div class="label">범죄유형</div>
+        </div>
+      </div>
+
+      <h2>작전 집계 통계</h2>
+      <div class="stats-grid">
+        <div class="stat-card">
+          <div class="number">{{ "{:,}".format(op_stats.total_arrests) }}+</div>
+          <div class="label">총 체포/기소</div>
+        </div>
+        <div class="stat-card">
+          <div class="number">{{ "{:,}".format(op_stats.total_servers) }}+</div>
+          <div class="label">서버 압수</div>
+        </div>
+        <div class="stat-card">
+          <div class="number">{{ "{:,}".format(op_stats.total_domains) }}+</div>
+          <div class="label">도메인 압수/차단</div>
+        </div>
+        <div class="stat-card">
+          <div class="number">{{ op_stats.total_countries }}+</div>
+          <div class="label">참여국 (고유)</div>
+        </div>
+      </div>
+
+      <h2>조정기관별 작전 수</h2>
+      <table>
+        <tr><th>조정기관</th><th>작전 수</th><th>비율</th></tr>
+        {% for coord, count in op_stats.by_coordinator|dictsort(by='value', reverse=true) %}
+        <tr>
+          <td>{{ coord }}</td>
+          <td>{{ count }}</td>
+          <td>
+            <div style="background:#2563eb;height:16px;width:{{ (count / total_ops * 100)|int }}%;border-radius:2px;display:inline-block;vertical-align:middle;"></div>
+            {{ "%.0f"|format(count / total_ops * 100) }}%
+          </td>
+        </tr>
+        {% endfor %}
+      </table>
+
+      {% if op_stats.by_crime_type %}
+      <h2>범죄유형별 작전 수</h2>
+      <table>
+        <tr><th>범죄유형</th><th>작전 수</th></tr>
+        {% for ct, count in op_stats.by_crime_type|dictsort(by='value', reverse=true) %}
+        <tr>
+          <td>{{ ct }}</td>
+          <td>{{ count }}</td>
+        </tr>
+        {% endfor %}
+      </table>
+      {% endif %}
+
+      {% if op_stats.by_year %}
+      <h2>연도별 작전 수</h2>
+      <table>
+        <tr><th>연도</th><th>작전 수</th><th></th></tr>
+        {% for year, count in op_stats.by_year|dictsort %}
+        <tr>
+          <td>{{ year }}</td>
+          <td>{{ count }}</td>
+          <td>
+            <div style="background:#16a34a;height:16px;width:{{ count * 40 }}px;border-radius:2px;display:inline-block;vertical-align:middle;"></div>
+          </td>
+        </tr>
+        {% endfor %}
+      </table>
+      {% endif %}
+
+      <h2>출처 다양성</h2>
+      <table>
+        <tr><th>출처</th><th>문서 수</th><th>비율</th></tr>
+        {% for domain, count in source_domains|dictsort(by='value', reverse=true) %}
+        <tr>
+          <td>{{ domain }}</td>
+          <td>{{ count }}</td>
+          <td>
+            <div style="background:#f59e0b;height:16px;width:{{ (count / total_sources * 100)|int }}%;min-width:20px;border-radius:2px;display:inline-block;vertical-align:middle;"></div>
+            {{ "%.0f"|format(count / total_sources * 100) }}%
+          </td>
+        </tr>
+        {% endfor %}
+      </table>
+
+      <h2>카테고리별 문서 수</h2>
+      <table>
+        <tr><th>카테고리</th><th>문서 수</th></tr>
+        {% for key, info in categories.items() %}
+        <tr>
+          <td>{{ info.icon }} <a href="/category/{{ key }}">{{ info.label }}</a></td>
+          <td>{{ cat_counts.get(key, 0) }}</td>
+        </tr>
+        {% endfor %}
+      </table>
+
+      <div style="margin-top:24px;padding:12px;background:#f0f9ff;border-radius:4px;font-size:13px;">
+        📖 <strong>상세 통계 및 네트워크 분석 결과:</strong>
+        <a href="/wiki/analysis/ic-statistics-dashboard">사이버범죄 국제공조 통계 대시보드</a>
+        — INTERPOL 2014-2024 연도별 현황, 2모드 네트워크 중심성, 중심-주변 구조 등
+      </div>
+
+    </div>
+  </main>
+</div>
+{% endblock %}

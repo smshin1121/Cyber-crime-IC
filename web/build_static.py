@@ -1,0 +1,132 @@
+"""
+Static site generator for GitHub Pages.
+Converts the Flask wiki app into static HTML files.
+"""
+import os
+import sys
+import shutil
+from pathlib import Path
+
+# Add parent to path so we can import the app
+sys.path.insert(0, str(Path(__file__).parent))
+
+from app import app, WIKI_DIR, CATEGORIES, get_all_pages
+
+OUTPUT_DIR = Path(__file__).resolve().parent.parent / "docs"
+
+
+def build() -> None:
+    """Generate static HTML site in docs/ directory."""
+    # Clean output
+    if OUTPUT_DIR.exists():
+        shutil.rmtree(OUTPUT_DIR)
+    OUTPUT_DIR.mkdir(parents=True)
+
+    # Copy static assets
+    static_src = Path(__file__).parent / "static"
+    static_dst = OUTPUT_DIR / "static"
+    shutil.copytree(static_src, static_dst)
+
+    routes_built = 0
+
+    with app.test_client() as client:
+        # Home redirect -> build index directly
+        _save(client, "/wiki/index", "index.html")
+        routes_built += 1
+
+        # Stats page
+        _save(client, "/stats", "stats.html")
+        routes_built += 1
+
+        # Search page (empty)
+        _save(client, "/search", "search.html")
+        routes_built += 1
+
+        # Category pages
+        for cat in CATEGORIES:
+            cat_dir = WIKI_DIR / cat
+            if cat_dir.is_dir():
+                _save(client, f"/category/{cat}", f"category/{cat}.html")
+                routes_built += 1
+
+                # Individual pages in category
+                for md_file in cat_dir.glob("*.md"):
+                    if md_file.name.startswith("_"):
+                        continue
+                    slug = md_file.stem
+                    _save(
+                        client,
+                        f"/wiki/{cat}/{slug}",
+                        f"wiki/{cat}/{slug}.html",
+                    )
+                    routes_built += 1
+
+        # Top-level wiki pages (index, overview, log)
+        for md_file in WIKI_DIR.glob("*.md"):
+            slug = md_file.stem
+            if slug.startswith("_"):
+                continue
+            _save(client, f"/wiki/{slug}", f"wiki/{slug}.html")
+            routes_built += 1
+
+    # Create redirect index.html at root
+    root_index = OUTPUT_DIR / "index.html"
+    root_index.write_text(
+        '<!DOCTYPE html><html><head>'
+        '<meta http-equiv="refresh" content="0;url=wiki/index.html">'
+        '</head><body></body></html>',
+        encoding="utf-8",
+    )
+
+    # Create .nojekyll for GitHub Pages
+    (OUTPUT_DIR / ".nojekyll").touch()
+
+    print(f"Built {routes_built} pages to {OUTPUT_DIR}")
+
+
+def _save(client, route: str, filepath: str) -> None:
+    """Fetch a route and save the HTML."""
+    resp = client.get(route)
+    if resp.status_code == 200:
+        out_path = OUTPUT_DIR / filepath
+        out_path.parent.mkdir(parents=True, exist_ok=True)
+        html = resp.data.decode("utf-8")
+        # Fix static paths for GitHub Pages (relative)
+        depth = filepath.count("/")
+        prefix = "../" * depth
+        html = html.replace('href="/static/', f'href="{prefix}static/')
+        html = html.replace('href="/', f'href="{prefix}')
+        html = html.replace('action="/search"', f'action="{prefix}search.html"')
+        # Fix wiki links to .html
+        html = _fix_links(html, prefix)
+        out_path.write_text(html, encoding="utf-8")
+    else:
+        print(f"  SKIP {route} (status {resp.status_code})")
+
+
+def _fix_links(html: str, prefix: str) -> str:
+    """Convert dynamic URLs to static .html paths."""
+    import re
+    # /wiki/category/slug -> prefix + wiki/category/slug.html
+    html = re.sub(
+        r'href="([^"]*?)/wiki/([^"]+?)"',
+        lambda m: f'href="{prefix}wiki/{m.group(2)}.html"',
+        html,
+    )
+    # /category/xxx -> prefix + category/xxx.html
+    html = re.sub(
+        r'href="([^"]*?)/category/([^"]+?)"',
+        lambda m: f'href="{prefix}category/{m.group(2)}.html"',
+        html,
+    )
+    # /stats -> prefix + stats.html
+    html = re.sub(
+        r'href="([^"]*?)/stats"',
+        lambda m: f'href="{prefix}stats.html"',
+        html,
+    )
+    return html
+
+
+if __name__ == "__main__":
+    build()

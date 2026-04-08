@@ -1,0 +1,13 @@
+{% extends "base.html" %}
+{% block title %}문서 없음 — {{ slug }}{% endblock %}
+
+{% block body %}
+<div class="page-wrapper full-width">
+  <div class="missing-notice">
+    <h2>⚠️ "{{ slug }}" 문서가 아직 없습니다</h2>
+    <p>이 문서는 다른 페이지에서 참조되었으나 아직 생성되지 않았습니다.</p>
+    <p>소스를 수집하고 파이프라인을 실행하면 자동으로 생성됩니다.</p>
+    <p><a href="/">메인 페이지로 돌아가기</a></p>
+  </div>
+</div>
+{% endblock %}

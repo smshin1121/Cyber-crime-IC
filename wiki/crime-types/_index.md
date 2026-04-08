@@ -1,0 +1,17 @@
+---
+type: category-index
+title: "Crime Types"
+category: crime-type
+created: 2026-04-08
+updated: 2026-04-08
+---
+
+# Crime Types
+
+| Crime Type | Category | Broadly Criminalized | Key Mechanisms | Notable Operations | Sources |
+|-----------|----------|---------------------|---------------|-------------------|---------|
+| [[ransomware-ic]] | cyber-dependent | Yes | SIENA, JITs, No More Ransom | Cronos Ph1/3, Endgame Ph1/2, Phobos/8Base, QakBot, Checkmate, Synergia II | 8 |
+| [[online-fraud-ic]] | cyber-enabled | Yes | I-24/7, NCBs | HAECHI IV/V/VI, Serengeti, First Light 2024, Jackal, Jackal III | 7 |
+| [[hacking-ic]] | cyber-dependent | Yes | - | i-Soon/APT27 | 1 |
+| [[bec-ic]] | cyber-enabled | Yes | I-GRIP, NCBs | Franco-Israeli CEO Fraud, Jackal, Jackal III, Sentinel, HAECHI IV/V/VI | 6 |
+| [[voice-phishing-ic]] | cyber-enabled | Yes | I-GRIP, bilateral | Korea-China Qingdao, HAECHI IV/V/VI, First Light 2024, Korea-Cambodia | 5 |

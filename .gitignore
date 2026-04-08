@@ -1,0 +1,25 @@
+# OS
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Obsidian
+.obsidian/workspace.json
+.obsidian/workspace-mobile.json
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+*.egg-info/
+
+# Workspace (pipeline intermediate files)
+_workspace/
+
+# Web server log
+web/server.log
+
+# Secrets
+.env
+*.key
+*.pem
