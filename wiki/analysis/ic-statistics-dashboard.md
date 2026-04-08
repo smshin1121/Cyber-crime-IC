@@ -2,7 +2,7 @@
 type: analysis
 title: "사이버범죄 국제공조 통계 대시보드"
 analysis_type: "trend-report"
-scope: "2023-2025 사이버범죄 국제공조 작전 통계 (위키 수집 데이터 기반)"
+scope: "2014-2025 사이버범죄 국제공조 작전 통계 (위키 수집 데이터 기반)"
 confidence: "high"
 key_judgments:
   - judgment: "Europol과 INTERPOL이 양대 조정 허브로 기능"
@@ -11,7 +11,7 @@ key_judgments:
     confidence: "high"
   - judgment: "한국이 HAECHI 시리즈를 통해 아시아-태평양 국제공조의 핵심 행위자"
     confidence: "high"
-sources_consulted: 20
+sources_consulted: 23
 entities_referenced:
   - "[[europol-ec3]]"
   - "[[interpol-igci]]"
@@ -24,38 +24,52 @@ updated: 2026-04-08
 
 # 사이버범죄 국제공조 통계 대시보드
 
-> [!info] 이 페이지의 모든 데이터는 위키에 수집·검증된 20개 출처에서 도출되었습니다. 각 수치 옆의 출처 번호를 통해 원본을 추적할 수 있습니다.
+> [!info] 이 페이지의 모든 데이터는 위키에 수집된 82개 작전과 23개 출처 페이지에서 도출되었습니다. 작전 전체 목록은 [[operations/_index]]를 참조하십시오.
 
 ---
 
-## 1. 작전별 핵심 지표
+## 1. 작전 집계 통계
 
-| 작전 | 조정기관 | 참여국 | 체포 | 서버 압수 | 도메인 | 금융 압수/회수 | 출처 |
-|------|---------|--------|------|---------|--------|-----------|------|
-| [[franco-israeli-ceo-fraud]] | Europol | 7 | 8 | - | - | EUR 5.5M | [1] |
-| [[operation-jackal]] | INTERPOL | 21 | 103 | - | - | EUR 2.15M | [2] |
-| [[korea-china-voice-phishing-qingdao]] | 한국-중국 양자 | 2 | 16 | - | - | KRW 2.7B (피해) | [3] |
-| [[operation-haechi-iv]] | INTERPOL | 34 | 3,500 | - | - | $300M | [4] |
-| [[operation-cronos-phase1]] | Europol | 14 | 2 | 34 | - | - | [5] |
-| [[operation-first-light-2024]] | INTERPOL | 61 | 3,950 | - | - | $257M | [6] |
-| [[operation-endgame-phase1]] | Europol | 13 | 4 | 100+ | 2,000+ | EUR 69M (동결) | [7] |
-| [[operation-jackal-iii]] | INTERPOL | 21 | ~300 | - | - | $3M | [8] |
-| [[operation-synergia-ii]] | INTERPOL | 95 | 41 | 59 | - | - | [9] |
-| [[operation-cronos-phase3]] | Europol | 12 | 4 | 9 | - | 제재 조치 | [10] |
-| [[operation-serengeti]] | INTERPOL+AFRIPOL | 19 | 1,006 | - | 134,089 | $193M (피해) | [11] |
-| [[operation-haechi-v]] | INTERPOL | 40 | 5,500+ | - | - | $400M+ | [12] |
-| [[phobos-8base-crackdown]] | Europol | 14 | 4 | 27 | - | - | [13] |
-| [[isoon-apt27-indictment]] | DOJ | US+피해국 | 12 (기소) | - | - | - | [14] |
-| [[operation-endgame-phase2]] | Europol | 7 | 20 (영장) | 300 | 650 | EUR 3.5M | [15] |
-| [[qakbot-gallyamov-indictment]] | DOJ | 8+ | 기소 | - | - | $24M | [16] |
-| [[operation-checkmate-blacksuit]] | DOJ | 8 | takedown | 4 | 9 | $1.09M | [17] |
-| [[operation-haechi-vi]] | INTERPOL | 40 | - | - | - | $439M | [18] |
-| [[korea-cambodia-scam-repatriation]] | 한국-캄보디아 양자 | 6 | 107+ (송환) | - | - | KRW 48.6B (피해) | [19] |
-| [[operation-sentinel-africa]] | INTERPOL | 19 | 574 | - | - | $3M | [20] |
+### 전체 현황
+
+| 지표 | 값 |
+|------|-----|
+| 총 작전 수 | 82 |
+| Period 1 (2014-2018) | 21 |
+| Period 2 (2019-2022) | 18 |
+| Period 3 (2023-2025) | 43 |
+| 총 출처 수 | 23 (dedicated pages) + Excel 소스 |
+| 최고 CI | 3.62 (Operation Shrouded Horizon, Operation Falcon, GozNym Takedown) |
+
+### 조정기관별 분포
+
+| 조정기관 | 작전 수 | 비고 |
+|---------|---------|------|
+| Europol / Europol EC3 | 36 | 가장 많은 작전 조정; 랜섬웨어, 봇넷, 사기 포럼 등 |
+| INTERPOL / INTERPOL IGCI | 22 | 체포 규모에서 압도적; HAECHI, Jackal, Serengeti 등 |
+| DOJ / FBI (미국 주도) | 3 (조정) + 9 (주도) | 조정기관 미등재 포함 시 12건; 기소·압수 중심 |
+| AFRIPOL | 3 | Serengeti, Sentinel, Red Card 공동 조정 |
+| Eurojust | 2 | 사법 공조 조정 |
+| 양자/기타 (조정기관 없음) | 16 | 한국 양자작전 2건 포함; DOJ 단독 기소 다수 |
+
+### 상위 10개 작전 (CI 기준)
+
+| 작전 | CI | 소스 수 | 주요 결과 |
+|------|-----|---------|---------|
+| [[operation-shrouded-horizon]] | 3.62 | 2 | 70 체포, Darkode 포럼 해체 (2015) |
+| [[operation-falcon]] | 3.62 | 1 | 3 체포, 나이지리아 BEC 조직 단속 (2020) |
+| [[goznym-takedown]] | 3.62 | 1 | 10 체포, $100M 피해 GozNym 악성코드 해체 (2019) |
+| [[infraud-organization-takedown]] | 3.30 | 7 | 36 기소, $530M 피해 인프라우드 조직 소탕 (2018) |
+| [[operation-red-card]] | 2.95 | 2 | 306 체포, 7 아프리카국 (2024-2025) |
+| [[operation-haechi-ii]] | 2.95 | 1 | 1,003 체포, $27M 인터셉트 (2021) |
+| [[operation-cyber-guardian]] | 2.95 | 1 | 544 체포, 6 아시아국 CSAM 단속 (2025) |
+| [[ddos-for-hire-sweep-2016]] | 2.95 | 1 | 34 체포, DDoS-for-hire 국제 소탕 (2016) |
+| [[911-s5-botnet-takedown]] | 2.95 | 1 | 19M+ IP 감염, 세계 최대 봇넷 해체 (2024) |
+| [[operation-stream-kidflix]] | 2.55 | 1 | 79 체포, 1.8M 이용자 CSAM 플랫폼 폐쇄 (2022-2025) |
 
 ---
 
-## 2. 조정기관별 집계
+## 2. 조정기관별 집계 (출처 기반 20개 주요 작전)
 
 | 지표 | Europol 작전 | INTERPOL 작전 | DOJ 작전 | 양자 작전 | 전체 합계 |
 |------|-------------|--------------|---------|---------|---------|
@@ -65,7 +79,7 @@ updated: 2026-04-08
 | 도메인 압수/차단 | 2,650+ | 140,089+ | 9 | - | **142,748+** |
 | 금융 압수/회수 | EUR 78M+ | $1.8B+ | $25M+ | - | **$2B+** |
 
-> 출처: 위 표의 개별 작전 데이터를 합산. 각 작전의 수치는 해당 출처 [1]-[20]에서 도출.
+> 참고: 이 표는 개별 출처 페이지가 있는 20개 주요 작전(dedicated source pages [1]-[20]) 데이터만 집계합니다. 나머지 62개 작전은 Excel 배치 임포트 또는 단일 출처 기반이며, 정량 데이터가 불완전한 경우가 있습니다.
 
 ---
 
@@ -73,13 +87,14 @@ updated: 2026-04-08
 
 | 범죄유형 | 작전 수 | 주요 작전 | 주요 조정기관 |
 |---------|--------|---------|-----------|
-| [[ransomware-ic\|랜섬웨어]] | 7 | Cronos Ph1/Ph3, Endgame Ph1/Ph2, Phobos, Checkmate, QakBot | Europol, DOJ |
-| [[online-fraud-ic\|온라인 사기]] | 7 | HAECHI IV/V/VI, Serengeti, First Light, Jackal/III | INTERPOL |
-| [[bec-ic\|BEC]] | 8 | Franco-Israeli, Jackal, Jackal III, Sentinel, HAECHI IV/V/VI, First Light | Europol, INTERPOL |
-| [[voice-phishing-ic\|보이스피싱]] | 6 | Korea-China Qingdao, HAECHI IV/V/VI, First Light, Korea-Cambodia | INTERPOL, 한국 양자 |
-| [[hacking-ic\|해킹]] | 1 | i-Soon/APT27 | DOJ |
+| [[ransomware-ic\|랜섬웨어]] | 7+ | Cronos Ph1/Ph3, Endgame Ph1/Ph2, Phobos, Checkmate, QakBot | Europol, DOJ |
+| [[online-fraud-ic\|온라인 사기]] | 7+ | HAECHI IV/V/VI, Serengeti, First Light, Jackal/III | INTERPOL |
+| [[bec-ic\|BEC]] | 8+ | Franco-Israeli, Jackal, Jackal III, Sentinel, HAECHI IV/V/VI, First Light | Europol, INTERPOL |
+| [[voice-phishing-ic\|보이스피싱]] | 6+ | Korea-China Qingdao, HAECHI IV/V/VI, First Light, Korea-Cambodia | INTERPOL, 한국 양자 |
+| [[hacking-ic\|해킹]] | 1+ | i-Soon/APT27 | DOJ |
+| [[csam-ic\|CSAM]] | 3 | Operation Stream/Kidflix, Cyber Guardian, Orion International | Europol, 한국, INTERPOL |
 
-> 일부 작전은 복수 범죄유형에 해당하므로 합산 시 중복이 발생합니다.
+> 일부 작전은 복수 범죄유형에 해당하므로 합산 시 중복이 발생합니다. Excel 배치 임포트 작전의 범죄유형이 반영되어 실제 수치는 위 표보다 높을 수 있습니다.
 
 ---
 
@@ -87,11 +102,14 @@ updated: 2026-04-08
 
 | 출처 기관 | 건수 | 비율 | 신뢰도 |
 |---------|------|------|--------|
-| INTERPOL | 9 | 45% | A (Completely reliable) |
-| Europol | 6 | 30% | A (Completely reliable) |
-| US DOJ | 3 | 15% | A (Completely reliable) |
-| 뉴스 (Korea Times, Al Jazeera) | 2 | 10% | B (Usually reliable) |
-| **합계** | **20** | **100%** | |
+| INTERPOL | 10 | 43% | A (Completely reliable) |
+| Europol | 6 | 26% | A (Completely reliable) |
+| US DOJ | 3 | 13% | A (Completely reliable) |
+| Korea NPA | 1 | 4% | A (Completely reliable) |
+| 뉴스 (Korea Times, Al Jazeera, Security Affairs) | 3 | 13% | B (Usually reliable) |
+| **합계** | **23** | **100%** | |
+
+> 추가로 62개 작전이 Excel 스프레드시트 및 기타 웹 출처에서 임포트되었으나, 개별 출처 페이지는 작성되지 않았습니다.
 
 ---
 
@@ -106,6 +124,8 @@ updated: 2026-04-08
 | [[phobos-8base-crackdown]] | Phobos 관리자 한국 내 체포 + 미국 인도 | [13] |
 | [[korea-cambodia-scam-repatriation]] | 한국인 107+ 송환 주도 | [19] |
 | [[isoon-apt27-indictment]] | 한국이 피해국으로 언급 | [14] |
+| [[operation-cyber-guardian]] | 한국 경찰청 주도 (435/544 체포) | [23] |
+| [[operation-haechi-ii]] | INTERPOL 공동 주도 | Excel |
 
 ---
 
@@ -116,12 +136,13 @@ updated: 2026-04-08
 | 법적 프레임워크 | 1 | 부다페스트 협약. UN 협약 등 추가 필요 |
 | 기관 | 7 | 주요 기관 커버. 아시아·아프리카 기관 확장 필요 |
 | 국가 | 1 | 한국만. 미국·영국·독일 등 추가 필요 |
-| 작전 | 20 | 2023-2025 주요 작전 커버 |
+| 작전 | 82 | 2014-2025 주요 작전 (P1: 21, P2: 18, P3: 43) |
 | 메커니즘 | 2 | MLAT, 24/7 Network. JIT 등 추가 필요 |
-| 범죄유형 | 5 | 랜섬웨어, BEC, 보이스피싱, 온라인사기, 해킹 |
+| 범죄유형 | 6 | 랜섬웨어, BEC, 보이스피싱, 온라인사기, 해킹, CSAM |
 | 개념 | 2 | 쌍방가벌성, 영토주의 |
-| 출처 | 20 | Europol 6, INTERPOL 9, DOJ 3, 뉴스 2 |
+| 출처 | 23 | Europol 6, INTERPOL 10, DOJ 3, Korea NPA 1, 뉴스 3 |
 | 분석 | 1 | 본 대시보드 |
+| **총 페이지** | **129** | _index 파일 및 메타파일 제외 |
 
 ---
 
@@ -144,8 +165,11 @@ updated: 2026-04-08
 | [13] | Phobos/8Base ransomware arrests | Europol | 2025-02-11 | [원본](https://www.europol.europa.eu/media-press/newsroom/news/key-figures-behind-phobos-and-8base-ransomware-arrested-in-international-cybercrime-crackdown) |
 | [14] | i-Soon/APT27 indictment | US DOJ | 2025-03-05 | [원본](https://www.justice.gov/opa/pr/justice-department-charges-12-chinese-contract-hackers-and-law-enforcement-officers-global) |
 | [15] | Operation Endgame Phase 2 | Europol | 2025-05-23 | [원본](https://www.europol.europa.eu/media-press/newsroom/news/operation-endgame-strikes-again-ransomware-kill-chain-broken-its-source) |
-| [16] | QakBot/Gallyamov indictment | US DOJ | 2025-05-22 | [원본](https://www.justice.gov/opa/pr/leader-qakbot-malware-conspiracy-indicted-involvement-global-ransomware-scheme) |
+| [16] | QakBot/Gallyamov indictment | US DOJ | 2025-05-22 | [원본](https://www.justice.gov/opa/pr/leader-qakbot-malware-conspiracy-indictment-involvement-global-ransomware-scheme) |
 | [17] | Operation Checkmate: BlackSuit | US DOJ | 2025-08-11 | [원본](https://www.justice.gov/opa/pr/justice-department-announces-coordinated-disruption-actions-against-blacksuit-royal) |
 | [18] | Operation HAECHI VI | INTERPOL | 2025-09-25 | [원본](https://www.interpol.int/en/News-and-Events/News/2025/USD-439-million-recovered-in-global-financial-crime-operation) |
 | [19] | Korea-Cambodia scam centre repatriation | Al Jazeera / Korea Herald | 2025-10-18 | [원본](https://www.aljazeera.com/news/2025/10/20/south-korea-police-seek-warrants-for-repatriated-scam-centre-suspects) |
 | [20] | Operation Sentinel Africa | INTERPOL | 2025-12-22 | [원본](https://www.interpol.int/en/News-and-Events/News/2025/574-arrests-and-USD-3-million-recovered-in-coordinated-cybercrime-operation-across-Africa) |
+| [21] | Operation Orion International | INTERPOL | 2024-10-15 | [원본](https://www.interpol.int/en/News-and-Events/News/2024/INTERPOL-operation-leads-to-arrests-rescue-of-children) |
+| [22] | Operation Stream / Kidflix | Security Affairs / TRM Labs | 2025-04-04 | [원본](https://securityaffairs.com/176270/cyber-crime/operation-stream-kidflix-takedown.html) |
+| [23] | Operation Cyber Guardian | Korea NPA / Seoul Shinmun | 2025-04-07 | [원본](https://www.seoul.co.kr/news/society/2025/04/07/20250407500065) |

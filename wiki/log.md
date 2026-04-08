@@ -252,3 +252,19 @@
 3. Operation names "Operation SECURE" (CoE, row 6) vs "Operation Secure" (INTERPOL, row 18) disambiguated — only INTERPOL enforcement version integrated
 4. Multiple Operation Endgame entries (rows 2,5,11,14,21) consolidated into single wiki page update
 5. Operation Red Card merged from 2 Excel rows (8+13) with INTERPOL source as primary
+
+## [2026-04-08] update | Wiki-wide consistency cleanup
+- Fixed index.md total page count (132->129) and source count (28->23)
+- Replaced verbose operation/source listings in index.md with compact references to _index pages
+- Rebuilt statistics dashboard (ic-statistics-dashboard.md) for all 82 operations:
+  - Section 1: Added aggregate stats (82 ops, period breakdown, coordinating body distribution, top 10 by CI)
+  - Section 2: Clarified scope as "20 most-sourced operations" with note about remaining 62
+  - Section 3: Added CSAM as 6th crime type
+  - Section 4: Updated source diversity (23 sources: Europol 6, INTERPOL 10, DOJ 3, Korea NPA 1, News 3)
+  - Section 5: Added Operation Cyber Guardian and HAECHI-II to Korea section
+  - Section 6: Updated all row counts (operations 20->82, crime types 5->6, sources 20->23, total 129)
+- Updated overview.md to reflect full 82-operation dataset:
+  - Executive summary now covers 5 coordination models with accurate counts
+  - Key operations table replaced with top 10 by significance (arrest volume)
+  - Cooperation statistics table updated with all derived metrics
+- Verified all 6 category _index.md files: all correct (organizations 7, countries 1, crime-types 6, mechanisms 2, concepts 2, sources 23)

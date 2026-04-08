@@ -11,60 +11,34 @@ updated: 2026-04-08
 
 ## Executive Summary
 
-International cooperation on cybercrime has entered an *almost certainly* unprecedented period of operational intensity. Between 2023 and 2025, **20 major operations** have been documented by four coordination models:
+International cooperation on cybercrime has entered an *almost certainly* unprecedented period of operational intensity. The wiki now documents **82 operations** spanning 2014-2025 across five coordination models:
 
-1. **Europol-coordinated** (6 operations): Targeting [[ransomware-ic|ransomware]], [[bec-ic|BEC]], and related infrastructure — 22+ arrests, 470+ servers, 2,650+ domains, EUR 21.2M+ cryptocurrency; Franco-Israeli CEO fraud (EUR 38M single theft)
-2. **DOJ-led multinational** (3 operations): Targeting ransomware groups and state-sponsored hacking — QakBot indictment ($24M+ seized), BlackSuit takedown (4 servers, 9 domains), i-Soon/APT27 charges (12 indicted)
-3. **INTERPOL-coordinated** (9 operations): Targeting financial cybercrime, [[bec-ic|BEC]], [[voice-phishing-ic|voice phishing]], and malicious infrastructure at global scale — Operations HAECHI IV/V/VI (combined: 9,000+ arrests, $1.1B+ seized), Jackal/III (~400 arrests targeting Black Axe), First Light 2024 (3,950 arrests, $257M), Serengeti (1,006 arrests), Sentinel (574 arrests), Synergia II (22,800 IPs taken down) across up to 95 countries
-4. **Bilateral Korea-driven** (2 operations): Targeting [[voice-phishing-ic|voice phishing]] — Korea-China Qingdao (16 arrests), Korea-Cambodia repatriation (107+ suspects)
+1. **Europol-coordinated** (36 operations): The largest group by count, including ransomware takedowns (Cronos, Endgame, Phobos), botnet dismantlings (Avalanche, Andromeda), forum shutdowns (Darkode, Cracked/Nulled), and financial crime operations. Key results from the 6 most-sourced operations alone: 22+ arrests, 470+ servers, 2,650+ domains, EUR 78M+ cryptocurrency.
+2. **INTERPOL-coordinated** (22 operations): Dominant in arrest volume and geographic reach. Operations HAECHI IV/V/VI (combined: 9,000+ arrests, $1.1B+ seized), Jackal/III (~400 arrests targeting Black Axe), First Light 2024 (3,950 arrests, $257M), Serengeti (1,006 arrests), Sentinel (574 arrests), Synergia II (22,800 IPs taken down) across up to 95 countries.
+3. **DOJ/US-led** (12 operations including 3 with formal coordination): Targeting ransomware groups, state-sponsored hacking, and criminal marketplaces. QakBot indictment ($24M+ seized), BlackSuit takedown (4 servers, 9 domains), i-Soon/APT27 charges (12 indicted), Infraud Organization (36 indicted, $530M losses), 911 S5 Botnet (19M+ IPs).
+4. **INTERPOL-AFRIPOL joint** (3 operations): Serengeti (1,006 arrests), Sentinel (574 arrests), Red Card (306 arrests) across African nations.
+5. **Bilateral/Korea-driven** (2 operations): Korea-China Qingdao voice phishing (16 arrests), Korea-Cambodia repatriation (107+ suspects).
 
 The **Europol model** involves [[europol-ec3|Europol]] as the operational coordination hub and [[eurojust|Eurojust]] as the judicial coordination body, with the [[fbi-cyber-division|FBI]] and [[uk-nca|UK NCA]] as the most consistently active national participants.
 
-The **INTERPOL model** demonstrates unmatched global reach: [[interpol-igci|INTERPOL IGCI]] coordinated Operation Synergia II across 95 countries, First Light 2024 across 61 countries, and HAECHI V/VI across 40 countries each. The HAECHI series (now six iterations), led by [[south-korea|South Korea]], has become INTERPOL's flagship financial cybercrime enforcement program, with recoveries from HAECHI IV/V/VI alone exceeding USD 1.1 billion (from collected sources). The Jackal series specifically targets Black Axe BEC networks, and Operation Sentinel extended enforcement to 19 African countries.
+The **INTERPOL model** demonstrates unmatched global reach: [[interpol-igci|INTERPOL IGCI]] coordinated Operation Synergia II across 95 countries, First Light 2024 across 61 countries, and HAECHI V/VI across 40 countries each. The HAECHI series (now six iterations), led by [[south-korea|South Korea]], has become INTERPOL's flagship financial cybercrime enforcement program, with recoveries from HAECHI IV/V/VI alone exceeding USD 1.1 billion. The Jackal series specifically targets Black Axe BEC networks, and Operation Sentinel extended enforcement to 19 African countries.
 
 The **DOJ-led model** leverages US multi-agency coordination (FBI, HSI, USSS, IRS-CI) combined with international partnerships for targeted enforcement actions against specific threat actors and infrastructure.
 
-## Key Operations (2024-2025)
+## Top 10 Operations by Significance
 
-### Europol-Coordinated
-
-| Operation | Date | Target | Key Results |
-|-----------|------|--------|-------------|
-| [[franco-israeli-ceo-fraud]] | 2022-2023 | CEO fraud/BEC | 8 arrests, EUR 5.5M, EUR 38M single theft |
-| [[operation-cronos-phase1]] | Feb 2024 | LockBit | 34 servers, 2 arrests, decryption tools |
-| [[operation-endgame-phase1]] | May 2024 | Dropper malware | 100+ servers, 2,000+ domains, 4 arrests |
-| [[operation-cronos-phase3]] | Oct 2024 | LockBit/Evil Corp | 4 arrests, financial sanctions |
-| [[phobos-8base-crackdown]] | Feb 2025 | Phobos/8Base | 4 arrests, 27 servers, Korea connection |
-| [[operation-endgame-phase2]] | May 2025 | Initial-access malware | 300 servers, 650 domains, 20 warrants |
-
-### INTERPOL-Coordinated
-
-| Operation | Date | Target | Key Results |
-|-----------|------|--------|-------------|
-| [[operation-jackal]] | May 2023 | Black Axe BEC | 21 countries, 103 arrests, EUR 2.15M |
-| [[operation-haechi-iv]] | Jul-Dec 2023 | Financial cybercrime | 34 countries, 3,500 arrests, $300M seized |
-| [[operation-first-light-2024]] | Mar-May 2024 | Online scams | 61 countries, 3,950 arrests, $257M seized |
-| [[operation-synergia-ii]] | Apr-Aug 2024 | Malicious infrastructure | 95 countries, 22,800 IPs, 59 servers, 41 arrests |
-| [[operation-jackal-iii]] | Apr-Jul 2024 | Black Axe BEC | 21 countries, ~300 arrests, $3M |
-| [[operation-serengeti]] | Sep-Oct 2024 | African cybercrime | 19 countries, 1,006 arrests, 134K infra dismantled |
-| [[operation-haechi-v]] | Jul-Nov 2024 | Financial cybercrime | 40 countries, 5,500+ arrests, $400M+ seized |
-| [[operation-haechi-vi]] | Apr-Aug 2025 | Financial cybercrime | 40 countries, $439M recovered |
-| [[operation-sentinel-africa]] | Oct-Nov 2025 | Africa BEC/ransomware | 19 countries, 574 arrests, $3M recovered |
-
-### DOJ-Led Multinational
-
-| Operation | Date | Target | Key Results |
-|-----------|------|--------|-------------|
-| [[isoon-apt27-indictment]] | Mar 2025 | Chinese state hackers | 12 indicted, sanctions, $10M reward |
-| [[qakbot-gallyamov-indictment]] | May 2025 | QakBot malware | 1 indicted, $24M+ crypto seized, 7 countries |
-| [[operation-checkmate-blacksuit]] | Aug 2025 | BlackSuit ransomware | 4 servers, 9 domains, $1.1M crypto, 8 countries |
-
-### Bilateral Korea-Driven
-
-| Operation | Date | Target | Key Results |
-|-----------|------|--------|-------------|
-| [[korea-china-voice-phishing-qingdao]] | Aug 2023 | Voice phishing | 2 countries, 16 arrests, KRW 2.7B losses |
-| [[korea-cambodia-scam-repatriation]] | Oct 2025+ | Scam compounds | 6 countries, 107+ repatriated, USD 33M losses |
+| Operation | Year | Coordinating Body | Key Results |
+|-----------|------|-------------------|-------------|
+| [[operation-haechi-v]] | 2024 | INTERPOL | 5,500+ arrests, $400M+ seized, 40 countries |
+| [[operation-first-light-2024]] | 2024 | INTERPOL | 3,950 arrests, $257M seized, 61 countries |
+| [[operation-haechi-iv]] | 2023 | INTERPOL | 3,500 arrests, $300M seized, 34 countries |
+| [[operation-serengeti]] | 2024 | INTERPOL-AFRIPOL | 1,006 arrests, 19 countries |
+| [[operation-haechi-ii]] | 2021 | INTERPOL | 1,003 arrests, $27M intercepted, 20+ countries |
+| [[operation-sentinel-africa]] | 2025 | INTERPOL | 574 arrests, $3M recovered, 19 countries |
+| [[operation-cyber-guardian]] | 2025 | Korea-led | 544 arrests, 6 Asian countries, CSAM |
+| [[operation-haechi-vi]] | 2025 | INTERPOL | $439M recovered, 40 countries |
+| [[operation-endgame-phase1]] | 2024 | Europol | 100+ servers, 2,000+ domains, largest botnet takedown |
+| [[operation-red-card]] | 2024-2025 | INTERPOL-AFRIPOL | 306 arrests, 7 African countries |
 
 ## Recent Treaty Developments
 
@@ -83,17 +57,21 @@ The **DOJ-led model** leverages US multi-agency coordination (FBI, HSI, USSS, IR
 
 | Metric | Value | Period |
 |--------|-------|--------|
-| Major operations | 20 | 2022-2025 |
-| Total arrests | 19,500+ | Across all ingested operations |
+| Total operations documented | 82 | 2014-2025 |
+| Period 1 operations | 21 | 2014-2018 |
+| Period 2 operations | 18 | 2019-2022 |
+| Period 3 operations | 43 | 2023-2025 |
+| Europol-coordinated | 36 | All periods |
+| INTERPOL-coordinated | 22 | All periods |
+| DOJ/US-led | 12 | All periods |
+| Total arrests (sourced operations) | 19,500+ | Across 20 most-sourced operations |
 | Total servers seized | 533+ | Primarily Europol operations |
-| Total domains seized | 2,659+ | Primarily Europol operations |
+| Total domains seized | 142,748+ | Includes 134,089 from Serengeti |
 | IPs taken down | 22,800 | Synergia II alone |
-| Assets seized/recovered | $1.8B+ cumulative | HAECHI IV/V/VI + First Light + Endgame + DOJ + Jackal + Sentinel |
-| Malicious infrastructures dismantled | 140,000+ | Serengeti + Sentinel |
+| Assets seized/recovered | $2B+ cumulative | HAECHI IV/V/VI + First Light + Endgame + DOJ + Jackal + Sentinel |
 | Unique participating countries | 95+ | Synergia II participation; 61 in First Light |
-| BEC-specific arrests | 1,000+ | Jackal/III + Sentinel + Franco-Israeli |
-| Voice phishing repatriations (Korea) | 107+ | Korea-Cambodia operation alone |
-| Sources ingested | 20 | 6 Europol + 9 INTERPOL + 3 DOJ + 2 news |
+| Sources with dedicated pages | 23 | Europol 6, INTERPOL 10, DOJ 3, Korea NPA 1, News 3 |
+| Crime types documented | 6 | Ransomware, BEC, voice phishing, online fraud, hacking, CSAM |
 
 ## Recent Activity
 
@@ -101,7 +79,7 @@ See [[log]] for wiki activity history.
 
 ## References
 
-All statistics in this overview are aggregated from the 20 collected sources listed below. Cooperation statistics in the table above are wiki-computed aggregations from individual operation pages.
+All statistics in this overview are aggregated from the 82 operation pages and 23 source pages in the wiki. Cooperation statistics in the table above are wiki-computed aggregations from individual operation pages. The 20 most-sourced operations with dedicated source pages are listed in [[ic-statistics-dashboard]].
 
 | # | Title | Publisher | Date | URL |
 |---|-------|----------|------|-----|
