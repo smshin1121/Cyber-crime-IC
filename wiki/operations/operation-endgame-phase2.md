@@ -86,9 +86,11 @@ lessons_learned:
   - "Infrastructure-focused operations can achieve massive scale (300 servers, 650 domains) even without immediate arrests"
   - "International arrest warrants and EU Most Wanted listings create sustained pressure on fugitives"
   - "Cumulative cryptocurrency seizures (EUR 21.2M+) demonstrate the financial disruption potential of sustained campaigns"
-source_count: 1
+source_count: 3
 sources:
   - "[[2025-05-23-europol-operation-endgame-phase2]]"
+  - "[[2025-05-28-thehackernews-danabot-malware]]"
+  - "[[2025-05-22-europol-endgame-follow-up]]"
 created: 2026-04-08
 updated: 2026-04-08
 ---
@@ -179,15 +181,36 @@ The issuance of 20 international arrest warrants and 18 EU Most Wanted listings 
 
 No direct Korean involvement in Operation Endgame Phase 2 was identified.
 
+## DanaBot Malware Takedown (Excel Data Supplement)
+
+> [!note] Data from Excel batch import (2026-04-08)
+> The following DanaBot-specific details were identified from The Hacker News reporting (row 11 of Excel data) and supplement the main Europol source.
+
+As part of Operation Endgame, the US Department of Justice led the dismantlement of the **DanaBot** malware network specifically:
+- **16 individuals** indicted by US DOJ for operating DanaBot
+- **300,000+ computers** infected worldwide by DanaBot
+- **USD 50 million+** in estimated financial damages from DanaBot alone
+- DanaBot served dual purposes: cybercrime (credential theft, fraud) and espionage (government/military targeting)
+
+### Follow-Up Phase: 5 Additional Detentions
+
+A follow-up enforcement action (row 21, Europol URL) resulted in:
+- **5 additional detentions** and interrogations
+- Additional server takedowns
+- This represents a continuation of the arrest-warrant execution phase following the main infrastructure takedown
+
 ## Contradictions & Open Questions
 
 - What specific impact did Phase 2 have on ransomware deployment rates?
-- How many of the 20 arrest warrant subjects have been subsequently apprehended?
+- How many of the 20 arrest warrant subjects have been subsequently apprehended? (At least 5 per follow-up reporting)
 - How quickly did the targeted malware families reconstitute operations after the takedown?
 - What is the relationship between the EUR 21.2M+ total and the Phase 1 EUR 69M suspect holdings figure?
+- The 16 DanaBot indictments and 300K infection figure come from The Hacker News (Tier 3) — official DOJ source needed for confirmation.
 
 ## References
 
 | # | Title | Publisher | Date | URL |
 |---|-------|----------|------|-----|
 | [1] | Operation Endgame strikes again: the ransomware kill chain broken at its source | Europol | 2025-05-23 | [원본](https://www.europol.europa.eu/media-press/newsroom/news/operation-endgame-strikes-again-ransomware-kill-chain-broken-its-source) |
+| [2] | US Dismantles DanaBot Malware Network | The Hacker News | 2025-05-28 | [원본](https://thehackernews.com/2025/05/us-dismantles-danabot-malware-network.html) |
+| [3] | Operation Endgame: Follow-up leads to detentions and server takedowns | Europol | 2025-05-22 | [원본](https://www.europol.europa.eu/media-press/newsroom/news/operation-endgame-follow-leads-to-five-detentions-and-interrogations-well-server-takedowns) |

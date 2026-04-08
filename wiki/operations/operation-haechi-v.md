@@ -64,9 +64,10 @@ challenges_encountered: []
 lessons_learned:
   - "Multi-country financial crime operations benefit from phased, series-based approaches (HAECHI I through V)"
   - "Bilateral sub-operations within multilateral frameworks enable targeted enforcement"
-source_count: 1
+source_count: 2
 sources:
   - "[[2024-12-02-interpol-operation-haechi-v]]"
+  - "[[2024-12-02-digwatch-interpol-korea-5500-arrests]]"
 created: 2026-04-08
 updated: 2026-04-08
 ---

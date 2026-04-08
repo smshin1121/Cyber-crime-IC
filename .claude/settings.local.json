@@ -24,7 +24,8 @@
       "WebFetch(domain:www.korea.kr)",
       "WebFetch(domain:www.seoul.co.kr)",
       "WebFetch(domain:securityaffairs.com)",
-      "WebFetch(domain:www.trmlabs.com)"
+      "WebFetch(domain:www.trmlabs.com)",
+      "Bash(python -c ':*)"
     ]
   },
   "enabledPlugins": {

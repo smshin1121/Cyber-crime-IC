@@ -33,3 +33,7 @@ updated: 2026-04-08
 | [[operation-orion-international]] | arrest-sweep | completed | [[csam-ic]] | 12 | 144 arrests, 20 children rescued | 2024-10-15 |
 | [[operation-stream-kidflix]] | takedown | completed | [[csam-ic]] | 35+ | 79 arrests, 39 children protected, 1.8M users | 2025-04-04 |
 | [[operation-cyber-guardian]] | arrest-sweep | completed | [[csam-ic]] | 6 | 544 arrests, AI deepfake cases | 2025-04-07 |
+| [[operation-red-card]] | arrest-sweep | completed | [[online-fraud-ic]] | 7 | 306 arrests, 1,842 devices seized | 2025-03-24 |
+| [[operation-contender-2]] | arrest-sweep | completed | [[bec-ic]] | 4 | 8 arrests, West Africa BEC/phishing | 2024-04-01 |
+| [[operation-talent]] | takedown | completed | [[hacking-ic]] | 8 | 2 arrests, Cracked/Nulled forums, 10M+ users | 2025-01-30 |
+| [[operation-secure-interpol]] | infrastructure-seizure | completed | [[hacking-ic]] | 26 | 32 arrests, 20,000+ IPs, 41 servers | 2025-04-01 |

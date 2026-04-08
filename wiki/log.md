@@ -208,3 +208,47 @@
 - Total this batch: 7 pages created, 5 pages updated, 3 sources ingested
 - Wiki page count: 59 -> 66
 - Pipeline test: ALL new methodology features exercised (case_id, period, actors, edges, enforcement_type, outcome, CI formula, decision tree, missing_fields, capture-recapture)
+
+## [2026-04-08] ingest | Excel Batch Import — 130 rows audited, 4 new operations integrated
+
+### Audit Summary (Full Decision Tree on 130 rows)
+- **130 rows** from Excel spreadsheet processed through IC evaluator decision tree
+- **18 rows** had complete structured data (rows 1-18 + partial 19-21)
+- **44 rows** had URL only, no structured data (rows 22-62)
+- **68 rows** completely empty (rows 63-130)
+
+### Audit Results
+| Verdict | Count |
+|---------|-------|
+| INCLUDE_NEW | 5 operations (4 integrated, 1 flagged for review) |
+| INCLUDE_UPDATE | 3 (operation-endgame-phase2, operation-haechi-v) |
+| DUPLICATE | 19 rows (mapping to existing wiki operations) |
+| EXCLUDE | 8 (non-enforcement/policy/single-country/invalid) |
+| UNVERIFIABLE (URL-only) | 27 (collection leads documented) |
+| UNVERIFIABLE (empty) | 68 (blank rows discarded) |
+
+### Pages Created (4 new operations)
+- operation-red-card.md — CYB-2024-011 | CI: 2.95 | 306 arrests, 7 African countries
+- operation-contender-2.md — CYB-2024-010 | CI: 2.28 | 8 arrests, West Africa BEC
+- operation-talent.md — CYB-2025-011 | CI: 2.28 | Cracked/Nulled forums, 8 countries
+- operation-secure-interpol.md — CYB-2025-012 | CI: 2.28 | 32 arrests, 26 Asia-Pacific countries
+
+### Pages Updated
+- operation-endgame-phase2.md — Added DanaBot detail (16 indicted, 300K computers, $50M) + 5 detentions follow-up
+- operation-haechi-v.md — Added dig.watch supplementary source
+- operations/_index.md — 4 new entries added
+
+### Workspace Files Created
+- _workspace/excel_audit.md — Full 130-row audit table with decision tree results
+- _workspace/excel_unverifiable.md — 95 rows (27 URL-only + 68 empty) as collection leads
+
+### Flagged for Review (CI < 2.0)
+- Operation Chakra-V (row 3) — CI: 1.48 (single Tier 4 source, needs additional sources)
+- Africa Cyber Surge Operation (row 9) — CI: 1.88 (single Tier 3 source, borderline)
+
+### Key Decisions
+1. 68 empty rows (63-130) discarded as blank spreadsheet placeholders
+2. 27 URL-only rows preserved as collection leads with priority ranking
+3. Operation names "Operation SECURE" (CoE, row 6) vs "Operation Secure" (INTERPOL, row 18) disambiguated — only INTERPOL enforcement version integrated
+4. Multiple Operation Endgame entries (rows 2,5,11,14,21) consolidated into single wiki page update
+5. Operation Red Card merged from 2 Excel rows (8+13) with INTERPOL source as primary

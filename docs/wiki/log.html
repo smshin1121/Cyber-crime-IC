@@ -283,6 +283,80 @@
 <li>Wiki page count: 59 -&gt; 66</li>
 <li>Pipeline test: ALL new methodology features exercised (case_id, period, actors, edges, enforcement_type, outcome, CI formula, decision tree, missing_fields, capture-recapture)</li>
 </ul>
+<h2 id="2026-04-08-ingest-excel-batch-import-130-rows-audited-4-new-operations-integrated">[2026-04-08] ingest | Excel Batch Import — 130 rows audited, 4 new operations integrated</h2>
+<h3 id="audit-summary-full-decision-tree-on-130-rows">Audit Summary (Full Decision Tree on 130 rows)</h3>
+<ul>
+<li><strong>130 rows</strong> from Excel spreadsheet processed through IC evaluator decision tree</li>
+<li><strong>18 rows</strong> had complete structured data (rows 1-18 + partial 19-21)</li>
+<li><strong>44 rows</strong> had URL only, no structured data (rows 22-62)</li>
+<li><strong>68 rows</strong> completely empty (rows 63-130)</li>
+</ul>
+<h3 id="audit-results">Audit Results</h3>
+<table>
+<thead>
+<tr>
+<th>Verdict</th>
+<th>Count</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>INCLUDE_NEW</td>
+<td>5 operations (4 integrated, 1 flagged for review)</td>
+</tr>
+<tr>
+<td>INCLUDE_UPDATE</td>
+<td>3 (operation-endgame-phase2, operation-haechi-v)</td>
+</tr>
+<tr>
+<td>DUPLICATE</td>
+<td>19 rows (mapping to existing wiki operations)</td>
+</tr>
+<tr>
+<td>EXCLUDE</td>
+<td>8 (non-enforcement/policy/single-country/invalid)</td>
+</tr>
+<tr>
+<td>UNVERIFIABLE (URL-only)</td>
+<td>27 (collection leads documented)</td>
+</tr>
+<tr>
+<td>UNVERIFIABLE (empty)</td>
+<td>68 (blank rows discarded)</td>
+</tr>
+</tbody>
+</table>
+<h3 id="pages-created-4-new-operations">Pages Created (4 new operations)</h3>
+<ul>
+<li>operation-red-card.md — CYB-2024-011 | CI: 2.95 | 306 arrests, 7 African countries</li>
+<li>operation-contender-2.md — CYB-2024-010 | CI: 2.28 | 8 arrests, West Africa BEC</li>
+<li>operation-talent.md — CYB-2025-011 | CI: 2.28 | Cracked/Nulled forums, 8 countries</li>
+<li>operation-secure-interpol.md — CYB-2025-012 | CI: 2.28 | 32 arrests, 26 Asia-Pacific countries</li>
+</ul>
+<h3 id="pages-updated">Pages Updated</h3>
+<ul>
+<li>operation-endgame-phase2.md — Added DanaBot detail (16 indicted, 300K computers, $50M) + 5 detentions follow-up</li>
+<li>operation-haechi-v.md — Added dig.watch supplementary source</li>
+<li>operations/_index.md — 4 new entries added</li>
+</ul>
+<h3 id="workspace-files-created">Workspace Files Created</h3>
+<ul>
+<li>_workspace/excel_audit.md — Full 130-row audit table with decision tree results</li>
+<li>_workspace/excel_unverifiable.md — 95 rows (27 URL-only + 68 empty) as collection leads</li>
+</ul>
+<h3 id="flagged-for-review-ci-20">Flagged for Review (CI &lt; 2.0)</h3>
+<ul>
+<li>Operation Chakra-V (row 3) — CI: 1.48 (single Tier 4 source, needs additional sources)</li>
+<li>Africa Cyber Surge Operation (row 9) — CI: 1.88 (single Tier 3 source, borderline)</li>
+</ul>
+<h3 id="key-decisions">Key Decisions</h3>
+<ol>
+<li>68 empty rows (63-130) discarded as blank spreadsheet placeholders</li>
+<li>27 URL-only rows preserved as collection leads with priority ranking</li>
+<li>Operation names "Operation SECURE" (CoE, row 6) vs "Operation Secure" (INTERPOL, row 18) disambiguated — only INTERPOL enforcement version integrated</li>
+<li>Multiple Operation Endgame entries (rows 2,5,11,14,21) consolidated into single wiki page update</li>
+<li>Operation Red Card merged from 2 Excel rows (8+13) with INTERPOL source as primary</li>
+</ol>
     </div>
   </main>
 

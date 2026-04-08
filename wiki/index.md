@@ -1,6 +1,6 @@
 # Wiki Index
 
-*Last updated: 2026-04-08 | Total pages: 66 | Total sources: 23*
+*Last updated: 2026-04-08 | Total pages: 70 | Total sources: 28*
 
 ## Legal Frameworks (1)
 - [[budapest-convention]] — First binding international treaty on cybercrime; 70+ parties; core IC provisions (Art. 29, 31, 32, 35)
@@ -17,7 +17,7 @@
 ## Countries (1)
 - [[south-korea]] — Civil law; Budapest Convention party (2024); high IC capacity; HAECHI lead; Phobos/8Base arrest and extradition
 
-## Operations (23)
+## Operations (27)
 - [[franco-israeli-ceo-fraud]] — Franco-Israeli CEO fraud/BEC bust (2022-2023); 7 countries, 8 arrests, EUR 5.5M seized
 - [[operation-jackal]] — INTERPOL vs Black Axe BEC (May 2023); 21 countries, 103 arrests, EUR 2.15M seized
 - [[korea-china-voice-phishing-qingdao]] — First Korea-China voice phishing joint op (Aug 2023); 16 arrests, KRW 2.7B losses
@@ -41,6 +41,10 @@
 - [[operation-orion-international]] — INTERPOL South America CSAM (May-Sep 2024); 12 countries, 144 arrests, 20 children rescued
 - [[operation-stream-kidflix]] — Europol Kidflix CSAM platform takedown (2022-2025); 35+ countries, 79 arrests, 1.8M users
 - [[operation-cyber-guardian]] — Asia 6-country CSAM crackdown (Feb-Mar 2025); 544 arrests, Korea-led
+- [[operation-red-card]] — INTERPOL-AFRIPOL Africa operation (Nov 2024-Feb 2025); 7 countries, 306 arrests, 1,842 devices seized
+- [[operation-contender-2]] — INTERPOL vs West Africa BEC/phishing (2024); 4 countries, 8 arrests
+- [[operation-talent]] — BKA/Europol Cracked/Nulled forum takedown (Jan 2025); 8 countries, 2 arrests, 10M+ users
+- [[operation-secure-interpol]] — INTERPOL Asia-Pacific infostealer crackdown (Jan-Apr 2025); 26 countries, 32 arrests, 20,000+ IPs
 
 ## Cases (0)
 
