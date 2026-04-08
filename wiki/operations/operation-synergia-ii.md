@@ -11,7 +11,7 @@ enforcement_type:
   - "seizure"
   - "takedown"
 outcome: "success"
-credibility_index: 2.28
+credibility_index: 3.25
 source_tier: 2
 edges:
   - source_actor: "INTERPOL"
@@ -137,3 +137,4 @@ No specific Korean involvement was noted in the published results of Operation S
 | # | Title | Publisher | Date | URL |
 |---|-------|----------|------|-----|
 | [1] | INTERPOL cyber operation takes down 22,000 malicious IP addresses — Operation Synergia II | INTERPOL | 2024-11-06 | [원본](https://www.interpol.int/News-and-Events/News/2024/INTERPOL-cyber-operation-takes-down-22-000-malicious-IP-addresses) |
+| [2] | Supplementary source | kaspersky.com | - | [원본](https://www.kaspersky.com/about/press-releases/kaspersky-shares-cyberthreat-data-with-interpol-in-operation-to-disrupt-transnational-cybercrime) |

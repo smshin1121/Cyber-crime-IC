@@ -155,3 +155,4 @@ Germany, United States, United Kingdom, France, Netherlands, Italy, Spain, Polan
 | [35] | Supplementary source | thehindu.com | - | [원본](https://www.thehindu.com/news/national/operation-chakra-v-cbi-arrests-six-members-of-cybercrime-syndicate-targeting-japanese-citizens/article69632312.ece) |
 | [36] | Supplementary source | techxplore.com | - | [원본](https://techxplore.com/news/2019-09-fbi-nigeria-step-up-cyber-crime.html#google_vignette) |
 | [37] | Supplementary source | insightsonindia.com | - | [원본](https://www.insightsonindia.com/2025/05/01/operation-hawk/) |
+| [38] | Supplementary source | wired.com | - | [원본](https://www.wired.com/2016/12/took-4-years-take-avalanche-huge-online-crime-ring/) |

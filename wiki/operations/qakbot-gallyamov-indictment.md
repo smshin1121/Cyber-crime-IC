@@ -10,7 +10,7 @@ enforcement_type:
   - "indictment"
   - "asset_freeze"
 outcome: "ongoing"
-credibility_index: 2.28
+credibility_index: 3.25
 source_tier: 2
 edges:
   - source_actor: "FBI"
@@ -120,3 +120,4 @@ No Korean involvement noted in this case.
 | # | Title | Publisher | Date | URL |
 |---|-------|----------|------|-----|
 | [1] | Leader of Qakbot Malware Conspiracy Indicted — Gallyamov Indictment | US DOJ | 2025-05-22 | [원본](https://www.justice.gov/opa/pr/leader-qakbot-malware-conspiracy-indicted-involvement-global-ransomware-scheme) |
+| [2] | Supplementary source | curacaochronicle.com | - | [원본](https://www.curacaochronicle.com/post/world/international-operation-dismantles-qakbot-malware-22-servers-seized-in-the-netherlands/) |
