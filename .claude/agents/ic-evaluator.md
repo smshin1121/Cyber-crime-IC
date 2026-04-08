@@ -163,12 +163,28 @@ Required fields and weights:
 | collection_url | 10 | Valid URL |
 | reliability + credibility | 10 | Both assigned |
 
-## Duplicate Detection
+## Duplicate Detection (5-Point Match)
 
-1. Check operation name against existing `wiki/operations/` pages
-2. Check operation name against other files in `_workspace/classified/`
-3. Check URL against existing `raw/` files
-4. Fuzzy match on title + date + agencies combination
+**반드시 `.claude/skills/ic-dedup/skill.md`의 검증 기준을 따른다.**
+
+퍼지 매칭 단독 사용 금지. 5가지 기준 중 3개 이상 일치 시 MATCH:
+
+| # | 기준 | 일치 조건 |
+|---|------|---------|
+| 1 | 작전명 | 동일 또는 변형 (Phase 번호 다르면 별개) |
+| 2 | 날짜 | 시작일 6개월 이내 |
+| 3 | 참여기관 | 주요 기관 2개 이상 동일 |
+| 4 | 수치 데이터 | 체포/압수 ±20% 이내 |
+| 5 | 범죄유형 | 동일 crime_type |
+
+**판정 흐름:**
+1. 작전명 정확 일치 검사 → 일치 시 MATCH (high)
+2. 작전명 불일치 → 날짜+범죄유형 사전 필터링
+3. 후보 있으면 → 5-Point 전체 비교
+4. 3개+ 일치 → MATCH, 2개 → POSSIBLE (수동 확인), 0-1개 → NO_MATCH
+5. 불확실 시 → LLM 에이전트 매칭 (ic-dedup 스킬의 프롬프트 템플릿 사용)
+
+**교훈**: 키워드 퍼지 매칭만으로 64건을 연결했다가 37건 오매칭 발생. 반드시 다중 기준 판정.
 
 ## Input Protocol
 - File path(s) from `_workspace/classified/`
