@@ -145,5 +145,5 @@ No Korean involvement identified.
 | # | Title | Publisher | Date | URL |
 |---|-------|----------|------|-----|
 | [1] | Safe Inet Takedown Fbi Interpol | CyberScoop | 2020-12-22 | [원본](https://cyberscoop.com/safe-inet-takedown-fbi-interpol/) |
-| [2] | Bulletproof Vpn Seized | cybersecuritynews.com | 2020-12-22 | [원본](https://cybersecuritynews.com/bulletproof-vpn-seized/) |
+| [2] | Bulletproof Vpn Seized | cybersecuritynews.com | 2020-12-22 | [원본](http://web.archive.org/web/20240714062723/https://cybersecuritynews.com/bulletproof-vpn-seized/) |
 | [3] | Safe Inet Vpn Service For Cybercriminals Taken Down In Law Enforcement Bust | portswigger.net | 2020-12-22 | [원본](https://portswigger.net/daily-swig/safe-inet-vpn-service-for-cybercriminals-taken-down-in-law-enforcement-bust) |

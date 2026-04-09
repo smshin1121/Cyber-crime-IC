@@ -113,5 +113,5 @@ Capacity is *almost certainly* high. Canada has deep technical resources, biling
 | [1] | Canada Completes Ratification of Convention on Cybercrime | Government of Canada | 2015-07-08 | https://www.canada.ca/en/news/archive/2015/07/canada-completes-ratification-convention-cybercrime.html |
 | [2] | Canada Completes Ratification of Convention on Cybercrime | Global Affairs Canada | 2015-07-08 | https://www.international.gc.ca/media/aff/news-communiques/2015/07/08b.aspx?lang=eng |
 | [3] | Criminal Code, Section 342.1 | Justice Laws Website (Government of Canada) | — | https://laws-lois.justice.gc.ca/eng/acts/C-46/section-342.1.html |
-| [4] | Cybercrime and the Criminal Code | Royal Canadian Mounted Police | — | https://rcmp.ca/en/cyber-choices/cybercrime-and-criminal-code |
-| [5] | National Cybercrime Coordination Centre (NC3) | Royal Canadian Mounted Police | — | https://rcmp.ca/en/federal-policing/cybercrime/national-cybercrime-coordination-centre |
+| [4] | Cybercrime and the Criminal Code | Royal Canadian Mounted Police | — | https://www.rcmp-grc.gc.ca/en/nc3 |
+| [5] | National Cybercrime Coordination Centre (NC3) | Royal Canadian Mounted Police | — | https://www.rcmp-grc.gc.ca/en/nc3 |

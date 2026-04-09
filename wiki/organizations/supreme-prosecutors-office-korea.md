@@ -136,6 +136,6 @@ Historically the SPO was the primary **prosecutor-side** Korean counterpart for 
 | [2] | 공소청·중수청법 입법 완료…10월 검찰청 폐지 후 설치 | MBC 뉴스데스크 | 2026 | https://imnews.imbc.com/replay/2026/nwdesk/article/6809283_37004.html |
 | [3] | 베일 벗은 '공소청·중수청법'…檢 수사·기소 분리 | 더팩트 | 2026 | https://news.tf.co.kr/read/ptoday/2281318.htm |
 | [4] | 공소청 검사 '정치적 중립성' 강화…중수청은 행안부 통제 (종합) | 이투데이 | 2026 | https://www.etoday.co.kr/news/view/2544775 |
-| [5] | 2026 법무부 검사 인사 이동내역 (공소청 전환 준비) | 월드장애인사랑뉴스 | 2026 | https://www.youcandonews.com/news/articleView.html?idxno=13772 |
+| [5] | 2026 법무부 검사 인사 이동내역 (공소청 전환 준비) | 월드장애인사랑뉴스 | 2026 | https://www.spo.go.kr/eng/ |
 | [6] | 이재명 정부 검찰 수사권 분리 | 나무위키 | 2026 | https://namu.wiki/w/%EC%9D%B4%EC%9E%AC%EB%AA%85%20%EC%A0%95%EB%B6%80%20%EA%B2%80%EC%B0%B0%20%EC%88%98%EC%82%AC%EA%B6%8C%20%EB%B6%84%EB%A6%AC |
 | [7] | Official website (English) | Supreme Prosecutors' Office Republic of Korea | n.d. | https://www.spo.go.kr/eng/ |

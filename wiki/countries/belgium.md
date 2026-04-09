@@ -105,4 +105,4 @@ Capacity is *highly likely* high. The FCCU/RCCU structure provides both national
 | [2] | La Belgique ratifie la Convention de Budapest | Council of Europe / Cybercrime News | 2012 | https://www.coe.int/en/web/cybercrime/t-cy-news/-/asset_publisher/GxUcENEFhivB/content/belgium-ratifies-budapest-convention |
 | [3] | Belgium Country Profile — Octopus Cybercrime Community | Council of Europe | 2020+ | https://www.coe.int/en/web/octopus/country-wiki-ap/-/asset_publisher/CmDb7M4RGb4Z/content/belgium |
 | [4] | 22 countries sign Second Additional Protocol | Council of Europe | 2022-05-12 | https://www.coe.int/en/web/cybercrime/second-additional-protocol/-/asset_publisher/isHU0Xq21lhu/content/opening-coecyber2ap |
-| [5] | FCCU — Federal Computer Crime Unit | Belgian Federal Police | — | https://fccu.sinners.be/about.html |
+| [5] | FCCU — Federal Computer Crime Unit | Belgian Federal Police | — | http://web.archive.org/web/20210124163352/https://www.police.be/5998/fr/a-propos/directions-centrales/federal-computer-crime-unit |

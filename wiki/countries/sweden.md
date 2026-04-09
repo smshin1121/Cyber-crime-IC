@@ -118,6 +118,6 @@ Sweden is *almost certainly* active in Europol-coordinated cybercrime operations
 | # | Source | Publisher | Date | URL |
 |---|--------|-----------|------|-----|
 | 1 | Sweden — Octopus Cybercrime Community | Council of Europe | 2023-10 | https://www.coe.int/en/web/octopus/-/sweden |
-| 2 | Where to Report Cybercrime in Sweden | Cyberspace Project | 2024-03 | https://cyberspaceproject.eu/wp-content/uploads/2024/03/SWEDEN-1.pdf |
+| 2 | Where to Report Cybercrime in Sweden | Cyberspace Project | 2024-03 | http://web.archive.org/web/20240812081058/https://cyberspaceproject.eu/wp-content/uploads/2024/03/SWEDEN-1.pdf |
 | 3 | Treaty 185 signatures chart | Council of Europe | — | https://www.coe.int/en/web/conventions/full-list?module=signatures-by-treaty&treatynum=185 |
 | 4 | Second Additional Protocol signing ceremony | Council of Europe | 2022-05-12 | https://www.coe.int/en/web/cybercrime/second-additional-protocol |

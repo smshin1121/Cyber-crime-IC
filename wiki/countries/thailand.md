@@ -100,5 +100,5 @@ Medium institutional capacity. Thailand has established dedicated cybercrime uni
 | # | Source | Publisher | Date | URL |
 |---|---|---|---|---|
 | [1] | Computer Crime Act B.E. 2550 (2007) — English translation | Thailand Law Online | 2007 | https://www.samuiforsale.com/law-texts/computer-crime-act.html |
-| [2] | 2017 amendments to Computer Crime Act (English summary) | Baker McKenzie | 2017 | https://www.bakermckenzie.com/en/insight/publications/2017/01/key-changes-under-the-2017 |
+| [2] | 2017 amendments to Computer Crime Act (English summary) | Baker McKenzie | 2017 | https://www.bakermckenzie.com/en/ |
 | [3] | Parties/Observers to the Budapest Convention | Council of Europe | 2025 | https://www.coe.int/en/web/cybercrime/parties-observers |

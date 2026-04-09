@@ -137,6 +137,6 @@ USSS cooperation capacity is *highly likely* among the strongest in the US feder
 | # | Source | Publisher | Date | URL |
 |---|--------|-----------|------|-----|
 | [1] | Secret Service Announces the Creation of the Cyber Fraud Task Force | US Secret Service | 2020-07 | https://www.secretservice.gov/newsroom/releases/2020/07/secret-service-announces-creation-cyber-fraud-task-force |
-| [2] | ECTF and FCTF | US Secret Service | n.d. | https://www.secretservice.gov/contact/ectf-fctf |
+| [2] | ECTF and FCTF | US Secret Service | n.d. | https://www.secretservice.gov/investigations/cyber |
 | [3] | Cyber Investigations | US Secret Service | n.d. | https://www.secretservice.gov/investigations/cyber |
 | [4] | Electronic Crimes Task Forces Overview | CISA / USSS | n.d. | https://www.cisa.gov/sites/default/files/publications/USSS%20Electronic%20Crimes%20Task%20Forces.pdf |

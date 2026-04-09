@@ -169,6 +169,6 @@ updated: '2026-04-10'
 | [18] | Operation HAECHI VI | INTERPOL | 2025-09-25 | [원본](https://www.interpol.int/en/News-and-Events/News/2025/USD-439-million-recovered-in-global-financial-crime-operation) |
 | [19] | Korea-Cambodia scam centre repatriation | Al Jazeera / Korea Herald | 2025-10-18 | [원본](https://www.aljazeera.com/news/2025/10/20/south-korea-police-seek-warrants-for-repatriated-scam-centre-suspects) |
 | [20] | Operation Sentinel Africa | INTERPOL | 2025-12-22 | [원본](https://www.interpol.int/en/News-and-Events/News/2025/574-arrests-and-USD-3-million-recovered-in-coordinated-cybercrime-operation-across-Africa) |
-| [21] | Operation Orion International | INTERPOL | 2024-10-15 | [원본](https://www.interpol.int/en/News-and-Events/News/2024/INTERPOL-operation-leads-to-arrests-rescue-of-children) |
+| [21] | Operation Orion International | INTERPOL | 2024-10-15 | [원본](https://www.interpol.int/en/News-and-Events/News/2024/20-rescued-144-arrested-in-major-child-abuse-operation-across-South-America) |
 | [22] | Operation Stream / Kidflix | Security Affairs / TRM Labs | 2025-04-04 | [원본](https://securityaffairs.com/176270/cyber-crime/operation-stream-kidflix-takedown.html) |
 | [23] | Operation Cyber Guardian | Korea NPA / Seoul Shinmun | 2025-04-07 | [원본](https://www.seoul.co.kr/news/society/2025/04/07/20250407500065) |

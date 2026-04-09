@@ -46,4 +46,4 @@ Morocco's national CERT, operated by the Direction Générale de la Sécurité d
 
 | # | Source | Publisher | Date | URL |
 |---|---|---|---|---|
-| [1] | Official website | maCERT | — | https://www.dgssi.gov.ma/fr/macert |
+| [1] | Official website | maCERT | — | https://www.dgssi.gov.ma/ |

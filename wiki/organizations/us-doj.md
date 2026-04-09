@@ -74,7 +74,7 @@ updated: '2026-04-10'
 **CCIPS (Computer Crime and Intellectual Property Section):**
 - Still the principal federal cybercrime prosecution coordinator; still the **Budapest Convention Art. 35 (24/7 Network) contact point** for the United States.
 - In **July 2023**, CCIPS absorbed the **National Cryptocurrency Enforcement Team (NCET)**, combining cryptocurrency enforcement with computer-crime expertise and roughly doubling the crypto-focused attorney headcount [2][3].
-- In **early 2026**, deputy attorney general **Todd Blanche** issued a memo titled **"Ending Regulation by Prosecution"** that **disbanded the NCET effective immediately**. Under the memo, CCIPS retains its role advising on policy, enforcement, and training, but the specialized NCET sub-unit no longer exists as a distinct structure; cryptocurrency cases continue to be handled by CCIPS attorneys [4].
+- On **7 April 2025**, deputy attorney general **Todd Blanche** issued a memo titled **"Ending Regulation by Prosecution"** that **disbanded the NCET effective immediately**. Under the memo, CCIPS retains its role advising on policy, enforcement, and training, but the specialized NCET sub-unit no longer exists as a distinct structure; cryptocurrency cases continue to be handled by CCIPS attorneys [4].
 
 **OIA (Office of International Affairs):** Remains the central authority for all US bilateral MLATs (30+) and for extradition processing. No structural reorganization reported.
 
@@ -90,10 +90,10 @@ updated: '2026-04-10'
 | 2021-10 | **National Cryptocurrency Enforcement Team (NCET)** established as a specialized unit in the Criminal Division | [2] |
 | 2023-07 | **NCET merged into CCIPS** — crypto enforcement elevated to equal status with computer crime / IP work; attorney headcount on crypto matters roughly doubled; ransomware identified as top merged-unit priority | [2][3] |
 | 2025-03 | **Matthew R. Galeotti** takes over as head of the Criminal Division (supervising CCIPS and OIA) | [1] |
-| 2026-early | Deputy AG **Todd Blanche** issues **"Ending Regulation by Prosecution"** memo; **NCET disbanded effective immediately**. CCIPS continues to advise on crypto enforcement policy but the dedicated NCET sub-unit no longer exists | [4] |
+| 2025-04-07 | Deputy AG **Todd Blanche** issues **"Ending Regulation by Prosecution"** memo; **NCET disbanded effective immediately**. CCIPS continues to advise on crypto enforcement policy but the dedicated NCET sub-unit no longer exists | [4] |
 
 > [!warning] Reorganization note
-> The 2026 disbanding of NCET is a **significant change in enforcement posture** but does **not** reduce CCIPS's core international cybercrime cooperation role (Budapest 24/7 contact point, MLA coordination with OIA, ransomware prosecutions). Foreign partners' working-level contacts remain the same CCIPS attorneys.
+> The April 2025 disbanding of NCET is a **significant change in enforcement posture** but does **not** reduce CCIPS's core international cybercrime cooperation role (Budapest 24/7 contact point, MLA coordination with OIA, ransomware prosecutions). Foreign partners' working-level contacts remain the same CCIPS attorneys.
 
 ## Summary
 
@@ -242,7 +242,7 @@ DOJ is *highly likely* the most important US counterpart for Korean cybercrime c
 | [1] | Matthew R. Galeotti — Head of Criminal Division | SIFMA / DOJ | 2025-03 | https://www.sifma.org/people/matthew-galeotti |
 | [2] | DoJ Acts on National Cybersecurity Strategy Implementation Plan with Fusion of Cyber-Crypto Crime Units (NCET merger into CCIPS) | OODA Loop | 2023-07 | https://oodaloop.com/analysis/ooda-original/doj-acts-on-national-cybersecurity-strategy-implementation-plan-with-fusion-of-cyber-crypto-crime-units/ |
 | [3] | Criminal Division — Computer Crime and Intellectual Property Section (CCIPS) | US Department of Justice | — | https://www.justice.gov/criminal/criminal-ccips |
-| [4] | US DoJ scraps crypto crimes team citing Trump order ("Ending Regulation by Prosecution" memo) | Global Government Fintech | 2026 | https://www.globalgovernmentfintech.com/doj-national-cryptocurrency-enforcement-team-disbanded/ |
+| [4] | US DoJ scraps crypto crimes team citing Trump order ("Ending Regulation by Prosecution" memo) | Global Government Fintech | 2026 | https://fortune.com/crypto/2025/04/08/doj-ncet-disbands-memo-todd-blanche-trump/ |
 | [5] | Criminal Division — Cybersecurity Unit | US Department of Justice | — | https://www.justice.gov/criminal/criminal-ccips/cybersecurity-unit |
 
 > [!note]

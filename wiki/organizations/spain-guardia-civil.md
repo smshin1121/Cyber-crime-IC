@@ -85,5 +85,5 @@ Spain's cybercrime cooperation is well integrated into EU frameworks. GDT collab
 |---|--------|-----------|------|-----|
 | 1 | Ciberdelincuencia y delitos en Internet — GDT | Guardia Civil | n.d. | https://web.guardiacivil.es/es/institucional/conocenos/especialidades/gdt/ |
 | 2 | GDT history and structure | Especialidades Guardia Civil | n.d. | https://especialidadesguardiacivil.es/uco-guardia-civil/grupo-de-delitos-telematicos/ |
-| 3 | GDT portal | Guardia Civil | n.d. | https://www.gdt.guardiacivil.es/ |
+| 3 | GDT portal | Guardia Civil | n.d. | https://www.guardiacivil.es/en/ |
 | 4 | Frenar la ciberdelincuencia, GDT objetivo | CCN-CERT | n.d. | https://www.ccn-cert.cni.es/es/component/content/article/755-frenar-la-ciberdelincuencia-objetivo-del-grupo-de-delitos-telematicos-de-la-guardia-civil.html |

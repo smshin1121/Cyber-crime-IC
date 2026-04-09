@@ -99,4 +99,4 @@ The Global Airport Action Day, conducted from October 10-15, 2016, was an intern
 
 | # | Title | Publisher | Date | URL |
 |---|-------|----------|------|-----|
-| [1] | Global Airport Action Day: 40 countries nab 193 suspects in cybercrime sting | INTERPOL | 2016-10-20 | [원본](https://www.interpol.int/News-and-Events/News/2016/Global-Airport-Action-Day-40-countries-nab-193-suspects-in-cybercrime-sting) |
+| [1] | Global Airport Action Day: 40 countries nab 193 suspects in cybercrime sting | INTERPOL | 2016-10-20 | [원본](https://www.interpol.int/en/News-and-Events/News/2016/Global-Airport-Action-Day-targets-airline-ticket-fraudsters) |

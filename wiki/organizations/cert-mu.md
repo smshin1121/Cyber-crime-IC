@@ -45,4 +45,4 @@ National cybersecurity incident response body operated by the National Computer 
 
 | # | Source | Publisher | Date | URL |
 |---|---|---|---|---|
-| [1] | Official website | CERT-MU | — | https://www.cert-mu.govmu.org/ |
+| [1] | Official website | CERT-MU | — | https://www.cert-mu.org.mu/ |

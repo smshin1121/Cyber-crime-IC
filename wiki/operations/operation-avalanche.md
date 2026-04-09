@@ -124,4 +124,4 @@ Germany, United States, United Kingdom, France, Netherlands, Italy, Spain, Polan
 
 | # | Title | Publisher | Date | URL |
 |---|-------|----------|------|-----|
-| [1] | 'Avalanche' network dismantled in international cyber operation | Europol | 2016-11-30 | [원본](https://www.europol.europa.eu/media-press/newsroom/news/avalanche-network-dismantled-in-international-cyber-operation) |
+| [1] | 'Avalanche' network dismantled in international cyber operation | Europol | 2016-11-30 | [원본](https://www.europol.europa.eu/media-press/newsroom/news/%E2%80%98avalanche%E2%80%99-network-dismantled-in-international-cyber-operation) |

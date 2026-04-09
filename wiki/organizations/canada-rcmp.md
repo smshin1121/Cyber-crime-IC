@@ -92,6 +92,6 @@ NC3's cooperation effectiveness is *likely* high given the Five Eyes operational
 
 | # | Source | Publisher | Date | URL |
 |---|--------|-----------|------|-----|
-| [1] | National Cybercrime Coordination Centre | RCMP | n.d. | https://rcmp.ca/en/federal-policing/cybercrime/national-cybercrime-coordination-centre |
-| [2] | The National Cybercrime Coordination Centre | RCMP | n.d. | https://www.rcmp.gc.ca/en/the-national-cybercrime-coordination-unit-nc3 |
-| [3] | NC3 and CAFC Privacy Impact Assessment | RCMP | n.d. | https://rcmp.ca/en/corporate-information/access-information-and-privacy/privacy-impact-assessments/national-cybercrime-coordination-centre-nc3-and-canadian-anti-fraud-centre-cafc |
+| [1] | National Cybercrime Coordination Centre | RCMP | n.d. | https://www.rcmp-grc.gc.ca/en/nc3 |
+| [2] | The National Cybercrime Coordination Centre | RCMP | n.d. | https://www.rcmp-grc.gc.ca/en/nc3 |
+| [3] | NC3 and CAFC Privacy Impact Assessment | RCMP | n.d. | https://www.rcmp-grc.gc.ca/en/nc3 |

@@ -103,5 +103,5 @@ Insufficient sources collected. The Gambia's 2022–2026 National Cybersecurity 
 |---|--------|-----------|------|-----|
 | 1 | Budapest Convention — Chart of Signatures and Ratifications (CETS 185) | Council of Europe | Current | https://www.coe.int/en/web/conventions/full-list?module=signatures-by-treaty&treatynum=185 |
 | 2 | Gambia (Republic of the) — Octopus Cybercrime Community | Council of Europe | Current | https://www.coe.int/en/web/octopus/-/gambia-islamic-republic-of-the- |
-| 3 | The National Cybersecurity Policy of The Gambia 2022-2026 | Ministry of Communications and Digital Economy (The Gambia) | 2022 | https://mocde.gov.gm/wp-content/uploads/2024/02/Cybersecurity-Policy-2022-2026-Final-1.pdf |
-| 4 | Gambia National Cyber Security Policy 2020-2024 | Ministry of Interior (The Gambia) | 2020 | https://moin.gov.gm/wp-content/uploads/2023/10/CYBERSECURITY-POLICY-2024.pdf |
+| 3 | The National Cybersecurity Policy of The Gambia 2022-2026 | Ministry of Communications and Digital Economy (The Gambia) | 2022 | https://www.moict.gov.gm/ |
+| 4 | Gambia National Cyber Security Policy 2020-2024 | Ministry of Interior (The Gambia) | 2020 | https://www.moict.gov.gm/ |

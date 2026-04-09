@@ -98,5 +98,5 @@ Low institutional cybercrime capacity. English proficiency is high (English is a
 
 | # | Source | Publisher | Date | URL |
 |---|---|---|---|---|
-| [1] | Cybercrimes Act No. 14 of 2015 | Parliament of Tanzania | 2015-04-25 | https://www.parliament.go.tz/polis/uploads/bills/acts/1452248153-The%20Cyber%20Crime%20Act,%202015.pdf |
+| [1] | Cybercrimes Act No. 14 of 2015 | Parliament of Tanzania | 2015-04-25 | https://www.parliament.go.tz/ |
 | [2] | Parties/Observers to the Budapest Convention | Council of Europe | 2025 | https://www.coe.int/en/web/cybercrime/parties-observers |

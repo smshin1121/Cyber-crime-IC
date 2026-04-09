@@ -43,4 +43,4 @@ The Korean National Police Agency press release (via Korea Policy Briefing) and 
 
 - [Korea Policy Briefing: press release](https://www.korea.kr/briefing/pressReleaseView.do?newsId=156682866)
 - [Seoul Shinmun: 한·일 등 아시아 6개국 아동 성착취물 공조수사 435명 검거](https://www.seoul.co.kr/news/society/2025/04/06/20250406500047)
-- [Seoul Shinmun: 亞 6개국 아동 성착취물 544명 적발](https://www.seoul.co.kr/news/society/2025/04/07/20250407014003)
+- [Seoul Shinmun: 亞 6개국 아동 성착취물 544명 적발](https://www.seoul.co.kr/)

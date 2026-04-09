@@ -73,6 +73,6 @@ UNC3T operates through Europol channels and the Budapest Convention 24/7 network
 
 | # | Source | Publisher | Date | URL |
 |---|--------|-----------|------|-----|
-| 1 | UNC3T official page | Polícia Judiciária | n.d. | https://www.policiajudiciaria.pt/unc3t/ |
-| 2 | Decree-Law No. 81/2016 | Diário da República | 2016-11-28 | https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=2608A0001&nid=2608&tabela=leis&ficha=1&nversao= |
+| 1 | UNC3T official page | Polícia Judiciária | n.d. | https://www.pj.pt/unc3t/ |
+| 2 | Decree-Law No. 81/2016 | Diário da República | 2016-11-28 | https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?nid=1137 |
 | 3 | "PJ com unidade de combate ao cibercrime" | Governo de Portugal | 2016-11-18 | https://www.portugal.gov.pt/pt/gc21/comunicacao/noticia?i=20161118-mj-pj |

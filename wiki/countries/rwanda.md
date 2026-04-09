@@ -100,5 +100,5 @@ Medium institutional capacity with active participation in capacity-building pro
 | # | Source | Publisher | Date | URL |
 |---|---|---|---|---|
 | [1] | Rwanda acceding to the Budapest Convention | Council of Europe | 2025 | https://www.coe.int/en/web/cybercrime/-/rwanda-acceding-budapest-convention |
-| [2] | Law No. 60/2018 on Prevention and Punishment of Cybercrimes | Government of Rwanda | 2018-08-22 | https://www.rura.rw/fileadmin/Documents/ICT/Laws/Law_n__60-2018_of_22-08-2018_on_prevention_and_punishment_of_cyber_crimes.pdf |
+| [2] | Law No. 60/2018 on Prevention and Punishment of Cybercrimes | Government of Rwanda | 2018-08-22 | https://www.rura.rw/ |
 | [3] | GLACY+ — C-PROC | Council of Europe | — | https://www.coe.int/en/web/cybercrime/glacyplus |

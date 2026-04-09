@@ -98,7 +98,7 @@ Capacity is *likely* medium by regional standards. PLCC benefits from the joint 
 
 | # | Source | Publisher | Date | URL |
 |---|---|---|---|---|
-| [1] | Loi n° 2013-451 relative à la lutte contre la cybercriminalité (Journal Officiel) | Republic of Côte d'Ivoire | 2013-08-12 | https://www.tresor.gouv.ci/tres/wp-content/uploads/2018/03/2013-451-cybercriminalite.pdf |
+| [1] | Loi n° 2013-451 relative à la lutte contre la cybercriminalité (Journal Officiel) | Republic of Côte d'Ivoire | 2013-08-12 | https://www.artci.ci/images/stories/pdf/lois/loi_2013_451.pdf |
 | [2] | Côte d'Ivoire invited to join the Convention on Cybercrime | Council of Europe / Cybercrime News | 2022-06-30 | https://www.coe.int/en/web/cybercrime/-/cote-d-ivoire-invited-to-join-the-budapest-convention-on-cybercrime |
 | [3] | African Union Convention on Cyber Security and Personal Data Protection — Key Insights | CIPIT / Strathmore University | — | https://cipit.strathmore.edu/the-african-union-convention-on-cyber-security-and-personal-data-protection-key-insights/ |
 | [4] | Côte d'Ivoire — Octopus Cybercrime Community | Council of Europe | — | https://www.coe.int/en/web/octopus/-/cote-ivoire |

@@ -123,5 +123,5 @@ France is deeply embedded in EU cooperation via **European Investigation Order (
 | 2 | France — Octopus Cybercrime Community country profile | Council of Europe | Current | https://www.coe.int/en/web/octopus/-/france |
 | 3 | Cybersecurity Laws and Regulations Report 2026 — France | ICLG | 2026 | https://iclg.com/practice-areas/cybersecurity-laws-and-regulations/france |
 | 4 | The French Interior Ministry's Orientation and Programming law (LOPMI) | Marsh | 2023 | https://www.marsh.com/en/services/cyber-risk/insights/programming-law-lopmi-2023.html |
-| 5 | ANSSI — What we do | ANSSI | Current | https://www.ssi.gouv.fr/en/mission/what-we-do/ |
-| 6 | France and Cyber security | Ministry for Europe and Foreign Affairs (France) | Current | https://www.diplomatie.gouv.fr/en/french-foreign-policy/security-disarmament-and-non-proliferation/fight-against-organized-criminality/cyber-security/ |
+| 5 | ANSSI — What we do | ANSSI | Current | https://cyber.gouv.fr/en |
+| 6 | France and Cyber security | Ministry for Europe and Foreign Affairs (France) | Current | https://www.diplomatie.gouv.fr/en/french-foreign-policy/digital-diplomacy/france-s-international-digital-strategy/ |

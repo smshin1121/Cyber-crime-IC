@@ -126,6 +126,6 @@ The operation was coordinated through Europol's European Cybercrime Centre (EC3)
 |---|-------|----------|------|-----|
 | [1] | Dozens Nabbed Takedown Cybercrime Forum Darkode | Wired | 2015-07 | [원본](https://www.wired.com/2015/07/dozens-nabbed-takedown-cybercrime-forum-darkode/) |
 | [2] | Cyber Criminal Forum Taken Down | FBI | 2015-07-15 | [원본](https://www.fbi.gov/news/stories/cyber-criminal-forum-taken-down) |
-| [3] | Dd4Cf514 2B05 11E5 A5Ea Cf74396E59Ec Story | washingtonpost.com | 2015-07-15 | [원본](https://www.washingtonpost.com/world/national-security/major-computer-hacking-forum-shut-down-by-20-countries-us-announces/2015/07/15/dd4cf514-2b05-11e5-a5ea-cf74396e59ec_story.html) |
+| [3] | Dd4Cf514 2B05 11E5 A5Ea Cf74396E59Ec Story | washingtonpost.com | 2015-07-15 | [원본](https://www.justice.gov/opa/pr/major-computer-hacking-forum-dismantled) |
 | [4] | Details Emerge On Global Internet Crime Sting Led By Pittsburgh Fbi Agents | archive.triblive.com | 2015-07-15 | [원본](https://archive.triblive.com/local/pittsburgh-allegheny/details-emerge-on-global-internet-crime-sting-led-by-pittsburgh-fbi-agents/) |
 | [5] | 113800 | threatpost.com | 2015-07-15 | [원본](https://threatpost.com/feds-detail-shutdown-of-darkode-cybercrime-forum/113800/) |

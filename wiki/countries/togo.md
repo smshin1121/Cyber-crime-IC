@@ -91,6 +91,6 @@ Low institutional capacity but improving through regional initiatives. The hosti
 
 | # | Source | Publisher | Date | URL |
 |---|---|---|---|---|
-| [1] | Loi n° 2018-026 relative à la cybersécurité et à la lutte contre la cybercriminalité | République Togolaise | 2018-12-07 | https://www.cyberdroit.tg/loi-2018-026-cybersecurite/ |
+| [1] | Loi n° 2018-026 relative à la cybersécurité et à la lutte contre la cybercriminalité | République Togolaise | 2018-12-07 | https://ancy.gouv.tg/ |
 | [2] | Parties/Observers to the Budapest Convention | Council of Europe | 2025 | https://www.coe.int/en/web/cybercrime/parties-observers |
 | [3] | Malabo Convention status | African Union | — | https://au.int/en/treaties/african-union-convention-cyber-security-and-personal-data-protection |

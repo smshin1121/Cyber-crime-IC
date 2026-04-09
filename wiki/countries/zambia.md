@@ -92,5 +92,5 @@ Low institutional capacity. High English proficiency (English is the official la
 
 | # | Source | Publisher | Date | URL |
 |---|---|---|---|---|
-| [1] | Cyber Security and Cyber Crimes Act No. 2 of 2021 | Parliament of Zambia | 2021-03-23 | https://www.parliament.gov.zm/sites/default/files/documents/acts/The%20Cyber%20Security%20and%20Cyber%20Crimes%20Act%20No%202%20of%202021.pdf |
+| [1] | Cyber Security and Cyber Crimes Act No. 2 of 2021 | Parliament of Zambia | 2021-03-23 | https://www.parliament.gov.zm/node/8756 |
 | [2] | Parties/Observers to the Budapest Convention | Council of Europe | 2025 | https://www.coe.int/en/web/cybercrime/parties-observers |

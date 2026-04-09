@@ -129,4 +129,4 @@ Kenya is **not a party** to the Budapest Convention. According to the Council of
 | 3 | Computer Misuse and Cybercrimes Act 2018 | Kenya Law | 2018 | https://new.kenyalaw.org/akn/ke/act/2018/5/eng@2022-12-31 |
 | 4 | A Comparative Review of Cybercrime Law in Kenya | Commonwealth | 2023 | https://thecommonwealth.org/publications/commonwealth-cybercrime-journal-volume-1/comparative-review-cybercrime-law-kenya-juxtaposing-national-legislation-international-treaty |
 | 5 | The National Computer and Cybercrimes Coordination Committee (NC4) | NC4 Kenya | Current | https://nc4.go.ke/the-national-computer-and-cybercrimes-coordination-committee-nc4/ |
-| 6 | KE-CIRT | Communications Authority of Kenya | Current | https://ke-cirt.go.ke/ |
+| 6 | KE-CIRT | Communications Authority of Kenya | Current | https://www.ca.go.ke/ |

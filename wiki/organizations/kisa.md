@@ -137,6 +137,6 @@ KISA is the appropriate first point of contact for foreign CSIRTs seeking techni
 | [2] | KrCERT/CC 보호나라 (English) | KISA / KrCERT | n.d. | https://www.krcert.or.kr/en/main.do |
 | [3] | 한국인터넷진흥원 (history, parent ministry) | 나무위키 | n.d. | https://namu.wiki/w/%ED%95%9C%EA%B5%AD%EC%9D%B8%ED%84%B0%EB%84%B7%EC%A7%84%ED%9D%A5%EC%9B%90 |
 | [4] | Korea Internet and Security Agency (KISA) | ASEAN Korea Cooperation Fund | n.d. | https://aseanrokfund.org/our-partner/korea-internet-and-security-agency-kisa/ |
-| [5] | KISA, 'AI 기본사회 실현' 위한 조직개편 단행 (AI보안산업본부·디지털위협예방본부·랜섬웨어대응팀 신설) | 정보통신신문 | 2026-01-09 | https://www.koit.co.kr/news/articleView.html?idxno=205317 |
-| [6] | KISA, 'AI 기본사회 실현'을 위한 조직개편 단행 | 불교방송 | 2026-01-09 | https://news.bbsi.co.kr/news/articleView.html?idxno=4065611 |
+| [5] | KISA, 'AI 기본사회 실현' 위한 조직개편 단행 (AI보안산업본부·디지털위협예방본부·랜섬웨어대응팀 신설) | 정보통신신문 | 2026-01-09 | https://web.archive.org/web/*/www.koit.co.kr/news/articleView.html?idxno=205317 |
+| [6] | KISA, 'AI 기본사회 실현'을 위한 조직개편 단행 | 불교방송 | 2026-01-09 | https://web.archive.org/web/*/news.bbsi.co.kr/news/articleView.html?idxno=4065611 |
 | [7] | 과기정통부 조직개편, '정보보호' 전면 내세웠다 (정보보호네트워크정책실 신설, 사이버침해조사팀) | 보안뉴스 | 2026-01 | https://m.boannews.com/html/detail.html?idx=141139 |

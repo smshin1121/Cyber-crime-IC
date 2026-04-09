@@ -292,9 +292,9 @@ Korea also participated in the UN Cybercrime Convention negotiations, balancing 
 | [9] | 공소청·중수청법 입법 완료…10월 검찰청 폐지 후 설치 | MBC 뉴스데스크 | 2026 | https://imnews.imbc.com/replay/2026/nwdesk/article/6809283_37004.html |
 | [10] | 베일 벗은 '공소청·중수청법'…檢 수사·기소 분리 | 더팩트 | 2026 | https://news.tf.co.kr/read/ptoday/2281318.htm |
 | [11] | 경찰청, 사이버안전국·여청안전국 신설 추진…통합 3년 만에 재편 | 뉴시스 | 2026-04-06 | https://www.newsis.com/view/NISX20260406_0003578778 |
-| [12] | KISA, 'AI 기본사회 실현' 위한 조직개편 단행 | 정보통신신문 | 2026-01-09 | https://www.koit.co.kr/news/articleView.html?idxno=205317 |
+| [12] | KISA, 'AI 기본사회 실현' 위한 조직개편 단행 | 정보통신신문 | 2026-01-09 | https://web.archive.org/web/*/www.koit.co.kr/news/articleView.html?idxno=205317 |
 | [13] | 과기정통부 조직개편, '정보보호' 전면 내세웠다 | 보안뉴스 | 2026-01 | https://m.boannews.com/html/detail.html?idx=141139 |
 | [14] | [Exclusive] Ruling Party Proposes Amendment to Criminal Procedure Act for Cybercrime Convention Accession | The Asia Business Daily | 2025-10-01 | https://www.asiae.co.kr/en/article/2025100117462695647 |
 | [15] | 선제적 보전으로 증거가 사라지지 않도록 — 형사소송법 개정안 본회의 통과 (2025-12-12), 2026-07-01 시행 | 정책브리핑 | 2025-12 | https://www.korea.kr/news/policyNewsView.do?newsId=148958457 |
-| [16] | 사이버범죄협약(일명 부다페스트협약) 가입의향서 제출 | 외교부 | 2022 | https://www.mofa.go.kr/www/brd/m_4080/view.do?seq=372854&page=1 |
+| [16] | 사이버범죄협약(일명 부다페스트협약) 가입의향서 제출 | 외교부 | 2022 | https://www.mofa.go.kr/eng/wpge/m_25525/contents.do |
 | [17] | 사이버범죄 국제조약의 동향 — 부다페스트 협약 제2 추가의정서 및 UN 사이버범죄 조약 | 저스티스 / 한국법학원 | 2025 | https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE10585090 |

@@ -94,5 +94,5 @@ Medium capacity; institutional specialization provides focused cybercrime prosec
 | # | Source | Publisher | Date | URL |
 |---|---|---|---|---|
 | [1] | Chart of Signatures and Ratifications of Treaty 185 & 224 | Council of Europe | 2025 | https://www.coe.int/en/web/conventions/full-list?module=signatures-by-treaty&treatynum=185 |
-| [2] | Law on Organization and Competence for High-Tech Crime (2005) | Republic of Serbia | 2005 | https://www.paragraf.rs/propisi/zakon-o-organizaciji-i-nadleznosti-drzavnih-organa-za-borbu-protiv-visokotehnoloskog-kriminala.html |
+| [2] | Law on Organization and Competence for High-Tech Crime (2005) | Republic of Serbia | 2005 | https://www.paragraf.rs/propisi/zakon_o_organizaciji_i_nadleznosti_drzavnih_organa_za_borbu_protiv_visokotehnoloskog_kriminala.html |
 | [3] | Serbia — Octopus Cybercrime Community | Council of Europe | — | https://www.coe.int/en/web/octopus/country-wiki-ap/-/asset_publisher/hFPA5fbKjyCJ/content/serbia |

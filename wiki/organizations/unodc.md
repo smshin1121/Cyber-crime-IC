@@ -134,5 +134,5 @@ South Korea actively participated in the Ad Hoc Committee negotiations and is a 
 | [4] | UN Convention against Cybercrime opens for signature in Hanoi, Viet Nam | UNODC | 2025-10-25 | [원본](https://www.unodc.org/unodc/en/press/releases/2025/October/un-convention-against-cybercrime-opens-for-signature-in-hanoi--viet-nam.html) |
 | [5] | Seventy-two nations sign first UN treaty to fight cybercrime | UNODC | 2025-10 | [원본](https://www.unodc.org/unodc/frontpage/2025/October/seventy-two-nations-sign-first-un-treaty-to-fight-cybercrime--in-milestone-for-digital-cooperation.html) |
 | [6] | Sixty-five nations sign first UN treaty to fight cybercrime | UN News | 2025-10 | [원본](https://news.un.org/en/story/2025/10/1166182) |
-| [7] | The United Nations Convention against Cybercrime opens for signature in Hanoi | UN Office of Legal Affairs | 2025-10 | [원본](https://www.un.org/ola/en/news/united-nations-convention-against-cybercrime-opens-signature-hanoi) |
+| [7] | The United Nations Convention against Cybercrime opens for signature in Hanoi | UN Office of Legal Affairs | 2025-10 | [원본](https://www.unodc.org/unodc/en/cybercrime/convention/home.html) |
 | [8] | United Nations Convention against Cybercrime — Wikipedia | Wikipedia | n.d. | [원본](https://en.wikipedia.org/wiki/United_Nations_Convention_against_Cybercrime) |

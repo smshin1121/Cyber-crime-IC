@@ -45,4 +45,4 @@ Morocco's General Directorate for Territorial Surveillance; domestic intelligenc
 
 | # | Source | Publisher | Date | URL |
 |---|---|---|---|---|
-| [1] | Official website | DGST | — | https://en.wikipedia.org/wiki/Directorate-General_for_Territorial_Surveillance_(Morocco) |
+| [1] | Official website | DGST | — | https://en.wikipedia.org/wiki/General_Directorate_for_Territorial_Surveillance |

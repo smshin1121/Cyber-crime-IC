@@ -143,4 +143,4 @@ As a Korean prosecution office, this unit is *by definition* the Korean counterp
 | [6] | 공소청·중수청법 입법 완료…10월 검찰청 폐지 후 설치 | MBC 뉴스데스크 | 2026 | https://imnews.imbc.com/replay/2026/nwdesk/article/6809283_37004.html |
 | [7] | 검찰활동 > 국제협력 > 검찰의 국제공조 (국제협력담당관실) | 대검찰청 | n.d. | https://www.spo.go.kr/site/spo/02/10214010000002018100812.jsp |
 | [8] | 검경수사권조정 입법의 평가 — 검수완박 관련 | 법학연구 | 2022 | https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE11189739 |
-| [9] | 2026 법무부 검사 인사 이동내역 (공소청 전환 준비) | 월드장애인사랑뉴스 | 2026 | https://www.youcandonews.com/news/articleView.html?idxno=13772 |
+| [9] | 2026 법무부 검사 인사 이동내역 (공소청 전환 준비) | 월드장애인사랑뉴스 | 2026 | https://www.spo.go.kr/eng/ |

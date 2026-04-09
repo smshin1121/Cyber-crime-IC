@@ -104,7 +104,7 @@ CSA's relevance to cybercrime **international cooperation** (the focus of this w
 
 | # | Source | Publisher | Date | URL |
 |---|---|---|---|---|
-| [1] | Home | Cyber Security Agency of Singapore | n.d. | https://www.csa.gov.sg/ |
+| [1] | Home | Cyber Security Agency of Singapore | n.d. | http://web.archive.org/web/20260325205744/https://www.csa.gov.sg/ |
 | [2] | Cyber Security Agency | Wikipedia | n.d. | https://en.wikipedia.org/wiki/Cyber_Security_Agency |
-| [3] | CSA — Agencies under MDDI | Singapore Ministry of Digital Development and Information | n.d. | https://www.mddi.gov.sg/who-we-are/agencies/ |
+| [3] | CSA — Agencies under MDDI | Singapore Ministry of Digital Development and Information | n.d. | https://www.mddi.gov.sg/ |
 | [4] | Singapore Cyber Security Agency chief: Cyber stability a necessity, not a luxury | Computer Weekly | 2025 | https://www.computerweekly.com/news/366641228/Singapore-Cyber-Security-Agency-chief-Cyber-stability-a-necessity-not-a-luxury |

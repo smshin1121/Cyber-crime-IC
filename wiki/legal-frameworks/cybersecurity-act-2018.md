@@ -78,4 +78,4 @@ The Cybersecurity (Amendment) Act 2024 expanded CSA's regulatory scope to cover 
 | # | Source | Publisher | Date | URL |
 |---|---|---|---|---|
 | [1] | Cybersecurity Act 2018 — full text | Singapore Statutes Online | 2018 | https://sso.agc.gov.sg/Act/CA2018 |
-| [2] | Cyber Security Agency of Singapore | CSA | — | https://www.csa.gov.sg/ |
+| [2] | Cyber Security Agency of Singapore | CSA | — | http://web.archive.org/web/20260325205744/https://www.csa.gov.sg/ |

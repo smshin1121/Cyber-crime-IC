@@ -45,4 +45,4 @@ Morocco's National Security Directorate; parent of the Judicial Police and cyber
 
 | # | Source | Publisher | Date | URL |
 |---|---|---|---|---|
-| [1] | Official website | DGSN | — | https://www.dgsn.gov.ma/ |
+| [1] | Official website | DGSN | — | https://dgsn.gov.ma/ |

@@ -100,4 +100,4 @@ Portugal's PJ and UNC3T represent consolidated institutional cybercrime capacity
 |---|---|---|---|---|
 | [1] | Lei n.º 109/2009 — Lei do Cibercrime | Assembleia da República | 2009-09-15 | https://dre.pt/dre/detalhe/lei/109-2009-490315 |
 | [2] | Chart of Signatures and Ratifications of Treaty 185 | Council of Europe | 2025 | https://www.coe.int/en/web/conventions/full-list?module=signatures-by-treaty&treatynum=185 |
-| [3] | Polícia Judiciária — UNC3T | Ministério da Justiça | — | https://www.policiajudiciaria.pt/ |
+| [3] | Polícia Judiciária — UNC3T | Ministério da Justiça | — | https://www.pj.pt/ |
