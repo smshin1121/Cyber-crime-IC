@@ -44,12 +44,18 @@ def _split_for_translation(text: str) -> list[str]:
 
 def _preserve_and_translate(text: str) -> str:
     """Translate text while preserving markdown structure."""
-    # Protect elements that shouldn't be translated
+    # Protect elements that shouldn't be translated.
+    # Placeholder format: use a token that survives Google Translate without
+    # being mangled. Google Translate strips surrounding underscores and may
+    # split tokens with uppercase-lowercase boundaries, so we use a stable
+    # pattern that is easy to match even if its surroundings are modified.
     protected = {}
     counter = [0]
 
     def protect(match):
-        key = f"__PROT{counter[0]}__"
+        # Pattern "ZZPROTZZ0ZZ" tends to survive Google Translate intact
+        # because it lacks underscores and is pure uppercase alphanumeric.
+        key = f"ZZPROTZZ{counter[0]}ZZENDZZ"
         counter[0] += 1
         protected[key] = match.group(0)
         return key
@@ -80,9 +86,32 @@ def _preserve_and_translate(text: str) -> str:
 
     translated = "\n".join(translated_chunks)
 
-    # Restore protected elements
-    for key, val in protected.items():
-        translated = translated.replace(key, val)
+    # Restore protected elements.
+    # Placeholders can be NESTED: when we protect a table row `| ... |` that
+    # contains an already-protected [[wikilink]], the row's placeholder wraps
+    # the inner placeholder's KEY (not the original text). So the restore loop
+    # must iterate until no keys remain — each pass restores one layer.
+    max_passes = 10
+    for _pass in range(max_passes):
+        changed = False
+        # Iterate in reverse insertion order: outer placeholders (protected
+        # last) are restored first, revealing inner placeholders to the next
+        # pass.
+        for key, val in reversed(list(protected.items())):
+            if key in translated:
+                translated = translated.replace(key, val)
+                changed = True
+                continue
+            # Defensive fallbacks: Google Translate can insert spaces or
+            # change case inside the placeholder.
+            idx = key[len("ZZPROTZZ"):-len("ZZENDZZ")]
+            pattern = rf'ZZ\s*PROT\s*ZZ\s*{idx}\s*ZZ\s*END\s*ZZ'
+            new_translated, n = re.subn(pattern, lambda m: val, translated, flags=re.IGNORECASE)
+            if n > 0:
+                translated = new_translated
+                changed = True
+        if not changed:
+            break
 
     return translated
 
