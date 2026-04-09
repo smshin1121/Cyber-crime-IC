@@ -1,38 +1,46 @@
 ---
-type: country
-title: "Republic of Indonesia"
-iso_code: "ID"
-legal_system: "civil-law"
-region: "southeast-asia"
-cybercrime_legislation:
-  primary_law: "Law No. 11 of 2008 on Electronic Information and Transactions (ITE Law), amended by Law No. 19 of 2016 and Law No. 1 of 2024 (Second Amendment); Criminal Code (KUHP)"
-  primary_law_date: "2008-04-21"
-  procedural_powers:
-    - "search-and-seizure"
-    - "production-order"
-  data_retention: "Regulated under PP 71/2019 and Personal Data Protection Law 2022"
-treaty_memberships:
-  - framework: "[[budapest-convention]]"
-    status: "non-party"
-    date: ""
-    reservations: []
-central_authority:
-  mlat: "Ministry of Law and Human Rights of Indonesia"
-  budapest: "not applicable"
-key_agencies: []
-ic_capacity:
-  rating: "medium"
-  digital_forensics: "medium"
-  24_7_availability: true
-  english_proficiency: "medium"
-  avg_mlat_response_days: "180+"
 bilateral_agreements: []
-operations_participated: []
+central_authority:
+  budapest: not applicable
+  mlat: Ministry of Law and Human Rights of Indonesia
+cooperation_assessment: Indonesia is *likely* a medium-capacity cooperation partner
+  with growing institutional capabilities. The ITE Law (11/2008) is the primary cybercrime
+  statute and references the Budapest Convention framework but Indonesia has not acceded.
+  The BSSN (National Cyber and Crypto Agency) and POLRI Cyber Directorate lead operational
+  response. Indonesia relies on bilateral MLA and informal police channels for international
+  cooperation.
+created: 2026-04-10
+cybercrime_legislation:
+  data_retention: Regulated under PP 71/2019 and Personal Data Protection Law 2022
+  primary_law: Law No. 11 of 2008 on Electronic Information and Transactions (ITE
+    Law), amended by Law No. 19 of 2016 and Law No. 1 of 2024 (Second Amendment);
+    Criminal Code (KUHP)
+  primary_law_date: '2008-04-21'
+  procedural_powers:
+  - search-and-seizure
+  - production-order
+ic_capacity:
+  24_7_availability: true
+  avg_mlat_response_days: 180+
+  digital_forensics: medium
+  english_proficiency: medium
+  rating: medium
+iso_code: ID
+key_agencies: []
+last_verified: '2026-04-10'
+legal_system: civil-law
 notable_cases: []
-cooperation_assessment: "Indonesia is *likely* a medium-capacity cooperation partner with growing institutional capabilities. The ITE Law (11/2008) is the primary cybercrime statute and references the Budapest Convention framework but Indonesia has not acceded. The BSSN (National Cyber and Crypto Agency) and POLRI Cyber Directorate lead operational response. Indonesia relies on bilateral MLA and informal police channels for international cooperation."
+operations_participated: []
+region: southeast-asia
 source_count: 0
 sources: []
-created: 2026-04-10
+title: Republic of Indonesia
+treaty_memberships:
+- date: ''
+  framework: '[[budapest-convention]]'
+  reservations: []
+  status: non-party
+type: country
 updated: 2026-04-10
 ---
 

@@ -1,48 +1,57 @@
 ---
-type: country
-title: "French Republic"
-iso_code: "FR"
-legal_system: "civil-law"
-region: "western-europe"
-cybercrime_legislation:
-  primary_law: "Godfrain Law (Loi n° 88-19 du 5 janvier 1988); Code pénal Arts. 323-1 à 323-7; LOPMI (Loi n° 2023-22 du 24 janvier 2023)"
-  primary_law_date: "1988-01-05"
-  procedural_powers:
-    - "search-and-seizure"
-    - "production-order"
-    - "preservation-order"
-    - "interception"
-    - "real-time-collection"
-  data_retention: "Regulated by Code des postes et des communications électroniques; subject to CJEU rulings limiting general retention"
-treaty_memberships:
-  - framework: "[[budapest-convention]]"
-    status: "party"
-    date: "2006-01-10"
-    reservations: []
-  - framework: "[[second-additional-protocol]]"
-    status: "signatory"
-    date: "2022-05-12"
-    reservations: []
-central_authority:
-  mlat: "Ministère de la Justice — Direction des affaires criminelles et des grâces (DACG)"
-  budapest: "OCLCTIC (Office central de lutte contre la criminalité liée aux technologies de l'information et de la communication)"
-key_agencies:
-  - "[[france-gendarmerie]]"
-  - "[[france-national-police]]"
-  - "[[france-junalco]]"
-ic_capacity:
-  rating: "high"
-  digital_forensics: "high"
-  24_7_availability: true
-  english_proficiency: "medium"
-  avg_mlat_response_days: "90-180"
 bilateral_agreements: []
-operations_participated: []
+central_authority:
+  budapest: OCLCTIC (Office central de lutte contre la criminalité liée aux technologies
+    de l'information et de la communication)
+  mlat: Ministère de la Justice — Direction des affaires criminelles et des grâces
+    (DACG)
+cooperation_assessment: France is *highly likely* one of the most capable cybercrime
+  cooperation partners in Europe, with a mature 24/7 Point of Contact at OCLCTIC operational
+  since 2000, a specialised prosecution office (JUNALCO), and deep integration into
+  Europol/Eurojust frameworks. LOPMI (2023) significantly expanded procedural powers
+  and imposes complaint-filing obligations on cyberattack victims.
+created: 2026-04-10
+cybercrime_legislation:
+  data_retention: Regulated by Code des postes et des communications électroniques;
+    subject to CJEU rulings limiting general retention
+  primary_law: Godfrain Law (Loi n° 88-19 du 5 janvier 1988); Code pénal Arts. 323-1
+    à 323-7; LOPMI (Loi n° 2023-22 du 24 janvier 2023)
+  primary_law_date: '1988-01-05'
+  procedural_powers:
+  - search-and-seizure
+  - production-order
+  - preservation-order
+  - interception
+  - real-time-collection
+ic_capacity:
+  24_7_availability: true
+  avg_mlat_response_days: 90-180
+  digital_forensics: high
+  english_proficiency: medium
+  rating: high
+iso_code: FR
+key_agencies:
+- '[[france-gendarmerie]]'
+- '[[france-national-police]]'
+- '[[france-junalco]]'
+last_verified: '2026-04-10'
+legal_system: civil-law
 notable_cases: []
-cooperation_assessment: "France is *highly likely* one of the most capable cybercrime cooperation partners in Europe, with a mature 24/7 Point of Contact at OCLCTIC operational since 2000, a specialised prosecution office (JUNALCO), and deep integration into Europol/Eurojust frameworks. LOPMI (2023) significantly expanded procedural powers and imposes complaint-filing obligations on cyberattack victims."
+operations_participated: []
+region: western-europe
 source_count: 0
 sources: []
-created: 2026-04-10
+title: French Republic
+treaty_memberships:
+- date: '2006-01-10'
+  framework: '[[budapest-convention]]'
+  reservations: []
+  status: party
+- date: '2022-05-12'
+  framework: '[[second-additional-protocol]]'
+  reservations: []
+  status: signatory
+type: country
 updated: 2026-04-10
 ---
 

@@ -1,36 +1,43 @@
 ---
-type: country
-title: "Republic of The Gambia"
-iso_code: "GM"
-legal_system: "mixed"
-region: "west-africa"
-cybercrime_legislation:
-  primary_law: "Information and Communications Act 2009 (ICA); Cybercrime Bill 2019 (pending)"
-  primary_law_date: "2009"
-  procedural_powers: []
-  data_retention: "unknown"
-treaty_memberships:
-  - framework: "[[budapest-convention]]"
-    status: "non-party"
-    date: ""
-    reservations: []
-central_authority:
-  mlat: "Ministry of Justice of The Gambia"
-  budapest: "unknown"
-key_agencies: []
-ic_capacity:
-  rating: "low"
-  digital_forensics: "low"
-  24_7_availability: false
-  english_proficiency: "high"
-  avg_mlat_response_days: "unknown"
 bilateral_agreements: []
-operations_participated: []
+central_authority:
+  budapest: unknown
+  mlat: Ministry of Justice of The Gambia
+cooperation_assessment: The Gambia is *likely* a low-capacity cybercrime cooperation
+  partner. Its 2009 Information and Communications Act provides partial substantive
+  offences broadly aligned with the Budapest Convention, but procedural powers and
+  international cooperation mechanisms have significant gaps. A Cybercrime Bill drafted
+  in 2019 remains pending as of the most recent public reporting. The Gambia is not
+  a party to the Budapest Convention.
+created: 2026-04-10
+cybercrime_legislation:
+  data_retention: unknown
+  primary_law: Information and Communications Act 2009 (ICA); Cybercrime Bill 2019
+    (pending)
+  primary_law_date: '2009'
+  procedural_powers: []
+ic_capacity:
+  24_7_availability: false
+  avg_mlat_response_days: unknown
+  digital_forensics: low
+  english_proficiency: high
+  rating: low
+iso_code: GM
+key_agencies: []
+last_verified: '2026-04-10'
+legal_system: mixed
 notable_cases: []
-cooperation_assessment: "The Gambia is *likely* a low-capacity cybercrime cooperation partner. Its 2009 Information and Communications Act provides partial substantive offences broadly aligned with the Budapest Convention, but procedural powers and international cooperation mechanisms have significant gaps. A Cybercrime Bill drafted in 2019 remains pending as of the most recent public reporting. The Gambia is not a party to the Budapest Convention."
+operations_participated: []
+region: west-africa
 source_count: 0
 sources: []
-created: 2026-04-10
+title: Republic of The Gambia
+treaty_memberships:
+- date: ''
+  framework: '[[budapest-convention]]'
+  reservations: []
+  status: non-party
+type: country
 updated: 2026-04-10
 ---
 

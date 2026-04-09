@@ -27,6 +27,7 @@ key_roles:
 - Europol operational partner (co-located in The Hague)
 - INTERPOL NCB Netherlands (cyber matters)
 - Digital forensics and malware analysis
+last_verified: '2026-04-10'
 mandate: Investigate complex and high-impact cybercrime cases with national and international
   dimensions; support international takedown operations; develop innovative investigation
   techniques.
@@ -52,6 +53,7 @@ org_type: national-unit
 parent_org: '[[netherlands-politie-parent]]'
 source_count: 0
 sources: []
+status: active
 title: Dutch National Police — National High Tech Crime Unit (NHTCU)
 type: organization
 updated: '2026-04-09'

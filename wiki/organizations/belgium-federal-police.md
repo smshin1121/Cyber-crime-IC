@@ -20,6 +20,7 @@ key_roles:
 - Support to Regional Computer Crime Units (RCCUs)
 - International cybercrime cooperation for Belgium
 - 24/7 Network contact point (Belgium)
+last_verified: '2026-04-10'
 mandate: National-level specialized unit of the Belgian Federal Judicial Police responsible
   for investigating attacks on critical infrastructure, organized international ICT
   crime, and supporting other investigations through digital forensics.
@@ -33,6 +34,7 @@ org_type: national-unit
 parent_org: '[[belgium-federal-police]]'
 source_count: 1
 sources: []
+status: active
 title: Federal Computer Crime Unit (FCCU)
 type: organization
 updated: '2026-04-09'

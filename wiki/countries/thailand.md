@@ -1,41 +1,47 @@
 ---
-type: country
-title: "Kingdom of Thailand"
-iso_code: "TH"
-legal_system: "civil-law"
-region: "southeast-asia"
-cybercrime_legislation:
-  primary_law: "Computer Crime Act B.E. 2550 (2007), amended B.E. 2560 (2017)"
-  primary_law_date: "2007-06-18"
-  procedural_powers:
-    - "search-and-seizure"
-    - "production-order"
-    - "preservation-order"
-    - "interception"
-  data_retention: "unknown"
-treaty_memberships:
-  - framework: "[[budapest-convention]]"
-    status: "non-party"
-    date: ""
-    reservations: []
-central_authority:
-  mlat: "Office of the Attorney General"
-  budapest: ""
-key_agencies:
-  - "[[thailand-royal-police]]"
-ic_capacity:
-  rating: "medium"
-  digital_forensics: "medium"
-  24_7_availability: true
-  english_proficiency: "medium"
-  avg_mlat_response_days: "unknown"
 bilateral_agreements: []
-operations_participated: []
+central_authority:
+  budapest: ''
+  mlat: Office of the Attorney General
+cooperation_assessment: Thailand is a **non-party** to the Budapest Convention. Its
+  2007 Computer Crime Act (CCA) and 2017 amendments have been criticized by civil
+  society for speech-restricting provisions but provide substantive cybercrime offences.
+  Thailand cooperates internationally primarily through Interpol, ASEAN channels,
+  and bilateral MLATs. The **Cyber Crime Investigation Bureau (CCIB)** of the Royal
+  Thai Police handles most cybercrime investigations.
+created: 2026-04-10
+cybercrime_legislation:
+  data_retention: unknown
+  primary_law: Computer Crime Act B.E. 2550 (2007), amended B.E. 2560 (2017)
+  primary_law_date: '2007-06-18'
+  procedural_powers:
+  - search-and-seizure
+  - production-order
+  - preservation-order
+  - interception
+ic_capacity:
+  24_7_availability: true
+  avg_mlat_response_days: unknown
+  digital_forensics: medium
+  english_proficiency: medium
+  rating: medium
+iso_code: TH
+key_agencies:
+- '[[thailand-royal-police]]'
+last_verified: '2026-04-10'
+legal_system: civil-law
 notable_cases: []
-cooperation_assessment: "Thailand is a **non-party** to the Budapest Convention. Its 2007 Computer Crime Act (CCA) and 2017 amendments have been criticized by civil society for speech-restricting provisions but provide substantive cybercrime offences. Thailand cooperates internationally primarily through Interpol, ASEAN channels, and bilateral MLATs. The **Cyber Crime Investigation Bureau (CCIB)** of the Royal Thai Police handles most cybercrime investigations."
+operations_participated: []
+region: southeast-asia
 source_count: 3
 sources: []
-created: 2026-04-10
+title: Kingdom of Thailand
+treaty_memberships:
+- date: ''
+  framework: '[[budapest-convention]]'
+  reservations: []
+  status: non-party
+type: country
 updated: 2026-04-10
 ---
 

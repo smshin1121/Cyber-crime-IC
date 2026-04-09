@@ -1,26 +1,30 @@
 ---
-type: organization
-title: "Thai Cybercrime Police (general reference)"
-official_name: "Thai cybercrime law enforcement — general reference"
 aliases:
 - Thai cybercrime police
 - Thailand cyber police
-org_type: national-agency
-parent_org: "[[thailand-royal-police]]"
-country: "[[thailand]]"
-headquarters: "Bangkok, Thailand"
-established: "unknown"
-mandate: "Generic reference to Thai cybercrime policing. See [[thailand-royal-police|Royal Thai Police Cyber Crime Investigation Bureau]] for the primary national cybercrime investigative body."
-key_roles: []
-cooperation_partners: []
-frameworks_administered: []
-mechanisms_operated: []
-operations_participated: []
-notable_cases: []
 contact_point_for: []
+cooperation_partners: []
+country: '[[thailand]]'
+created: 2026-04-10
+established: unknown
+frameworks_administered: []
+headquarters: Bangkok, Thailand
+key_roles: []
+last_verified: '2026-04-10'
+mandate: Generic reference to Thai cybercrime policing. See [[thailand-royal-police|Royal
+  Thai Police Cyber Crime Investigation Bureau]] for the primary national cybercrime
+  investigative body.
+mechanisms_operated: []
+notable_cases: []
+official_name: Thai cybercrime law enforcement — general reference
+operations_participated: []
+org_type: national-agency
+parent_org: '[[thailand-royal-police]]'
 source_count: 0
 sources: []
-created: 2026-04-10
+status: active
+title: Thai Cybercrime Police (general reference)
+type: organization
 updated: 2026-04-10
 ---
 

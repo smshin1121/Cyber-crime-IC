@@ -18,6 +18,7 @@ key_roles:
 - National cybercrime investigation
 - Terrorism and extremism investigation
 - International cybercrime cooperation
+last_verified: '2026-04-10'
 mandate: National unit of the Police of the Czech Republic responsible for combating
   terrorism, extremism, and cybercrime; successor to the cybercrime section of NCOZ.
 mechanisms_operated: []
@@ -30,6 +31,7 @@ org_type: national-unit
 parent_org: '[[czech-police]]'
 source_count: 2
 sources: []
+status: active
 title: National Centre Against Terrorism, Extremism and Cybercrime (NCTEKK)
 type: organization
 updated: '2026-04-09'

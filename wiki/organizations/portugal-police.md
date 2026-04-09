@@ -17,6 +17,7 @@ key_roles:
 - Digital forensics
 - Europol EC3 national hub for Portugal
 - 24/7 point of contact under Budapest Convention
+last_verified: '2026-04-10'
 mandate: Portugal's national specialized unit for preventive and repressive response
   to cybercrime and technology-related crime; operates within the Polícia Judiciária
   (PJ) and is modeled on Europol's EC3.
@@ -30,6 +31,7 @@ org_type: national-unit
 parent_org: '[[portugal-policia-judiciaria]]'
 source_count: 0
 sources: []
+status: active
 title: National Unit for Combating Cybercrime and Technological Crime (UNC3T)
 type: organization
 updated: '2026-04-09'

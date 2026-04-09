@@ -24,6 +24,7 @@ ic_capacity:
   rating: medium
 iso_code: CI
 key_agencies: []
+last_verified: '2026-04-10'
 legal_system: civil-law
 notable_cases: []
 operations_participated: []

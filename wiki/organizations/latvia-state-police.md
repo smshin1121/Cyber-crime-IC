@@ -1,24 +1,28 @@
 ---
-type: organization
-title: "Latvia State Police"
-official_name: "Valsts policija — Economic Crimes Enforcement Department Cybercrime Division"
 aliases: []
-org_type: "national-unit"
-parent_org: ""
-country: "[[latvia]]"
-headquarters: ""
-established: ""
-mandate: "Latvian state police cybercrime investigation division within the Economic Crimes Enforcement Department."
-key_roles: []
-cooperation_partners: []
-frameworks_administered: []
-mechanisms_operated: []
-operations_participated: []
-notable_cases: []
 contact_point_for: []
+cooperation_partners: []
+country: '[[latvia]]'
+created: 2026-04-10
+established: ''
+frameworks_administered: []
+headquarters: ''
+key_roles: []
+last_verified: '2026-04-10'
+mandate: Latvian state police cybercrime investigation division within the Economic
+  Crimes Enforcement Department.
+mechanisms_operated: []
+notable_cases: []
+official_name: Valsts policija — Economic Crimes Enforcement Department Cybercrime
+  Division
+operations_participated: []
+org_type: national-unit
+parent_org: ''
 source_count: 1
 sources: []
-created: 2026-04-10
+status: active
+title: Latvia State Police
+type: organization
 updated: 2026-04-10
 ---
 

@@ -1,47 +1,56 @@
 ---
-type: country
-title: "Kingdom of Spain"
-iso_code: "ES"
-legal_system: "civil-law"
-region: "western-europe"
-cybercrime_legislation:
-  primary_law: "Código Penal (Criminal Code) arts. 197-201, 248, 264; Ley de Enjuiciamiento Criminal (LECrim)"
-  primary_law_date: "1995"
-  procedural_powers:
-    - "search-and-seizure"
-    - "production-order"
-    - "preservation-order"
-    - "interception"
-    - "real-time-collection"
-  data_retention: "Law 25/2007 on data retention (pre-Digital Rights Ireland); post-CJEU restrictions apply"
-treaty_memberships:
-  - framework: "[[budapest-convention]]"
-    status: "party"
-    date: "2010-06-03"
-    reservations: []
-  - framework: "[[second-additional-protocol]]"
-    status: "signatory"
-    date: "2022-05-12"
-    reservations: []
-central_authority:
-  mlat: "Subdirección General de Cooperación Jurídica Internacional, Ministerio de Justicia"
-  budapest: "Guardia Civil / Cuerpo Nacional de Policía"
-key_agencies:
-  - "[[spain-guardia-civil]]"
-  - "[[spain-national-police]]"
-ic_capacity:
-  rating: "high"
-  digital_forensics: "high"
-  24_7_availability: true
-  english_proficiency: "medium"
-  avg_mlat_response_days: "90-180"
 bilateral_agreements: []
-operations_participated: []
+central_authority:
+  budapest: Guardia Civil / Cuerpo Nacional de Policía
+  mlat: Subdirección General de Cooperación Jurídica Internacional, Ministerio de
+    Justicia
+cooperation_assessment: Spain is a *highly capable* cybercrime cooperation partner
+  with two specialised national cyber units — the Guardia Civil's Grupo de Delitos
+  Telemáticos (GDT) and the Policía Nacional's UCC/Brigada Central de Investigación
+  Tecnológica (BIT). Spain ratified the Budapest Convention in 2010 and updated substantive
+  and procedural law in 2015 to align with it. *Almost certainly* a core EU cooperation
+  partner via Europol EC3, Eurojust, and European Investigation Order frameworks.
+created: 2026-04-10
+cybercrime_legislation:
+  data_retention: Law 25/2007 on data retention (pre-Digital Rights Ireland); post-CJEU
+    restrictions apply
+  primary_law: Código Penal (Criminal Code) arts. 197-201, 248, 264; Ley de Enjuiciamiento
+    Criminal (LECrim)
+  primary_law_date: '1995'
+  procedural_powers:
+  - search-and-seizure
+  - production-order
+  - preservation-order
+  - interception
+  - real-time-collection
+ic_capacity:
+  24_7_availability: true
+  avg_mlat_response_days: 90-180
+  digital_forensics: high
+  english_proficiency: medium
+  rating: high
+iso_code: ES
+key_agencies:
+- '[[spain-guardia-civil]]'
+- '[[spain-national-police]]'
+last_verified: '2026-04-10'
+legal_system: civil-law
 notable_cases: []
-cooperation_assessment: "Spain is a *highly capable* cybercrime cooperation partner with two specialised national cyber units — the Guardia Civil's Grupo de Delitos Telemáticos (GDT) and the Policía Nacional's UCC/Brigada Central de Investigación Tecnológica (BIT). Spain ratified the Budapest Convention in 2010 and updated substantive and procedural law in 2015 to align with it. *Almost certainly* a core EU cooperation partner via Europol EC3, Eurojust, and European Investigation Order frameworks."
+operations_participated: []
+region: western-europe
 source_count: 0
 sources: []
-created: 2026-04-10
+title: Kingdom of Spain
+treaty_memberships:
+- date: '2010-06-03'
+  framework: '[[budapest-convention]]'
+  reservations: []
+  status: party
+- date: '2022-05-12'
+  framework: '[[second-additional-protocol]]'
+  reservations: []
+  status: signatory
+type: country
 updated: 2026-04-10
 ---
 

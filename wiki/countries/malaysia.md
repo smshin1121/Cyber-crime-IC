@@ -1,39 +1,45 @@
 ---
-type: country
-title: "Malaysia"
-iso_code: "MY"
-legal_system: "mixed"
-region: "southeast-asia"
-cybercrime_legislation:
-  primary_law: "Computer Crimes Act 1997 (Act 563); Communications and Multimedia Act 1998"
-  primary_law_date: "1997"
-  procedural_powers:
-    - "search-and-seizure"
-  data_retention: "unknown"
-treaty_memberships:
-  - framework: "[[budapest-convention]]"
-    status: "non-party"
-    date: ""
-    reservations: []
-central_authority:
-  mlat: "Attorney General's Chambers of Malaysia"
-  budapest: ""
-key_agencies:
-  - "[[malaysia-police]]"
-  - "[[nacsa-malaysia]]"
-ic_capacity:
-  rating: "medium"
-  digital_forensics: "medium"
-  24_7_availability: false
-  english_proficiency: "high"
-  avg_mlat_response_days: "unknown"
 bilateral_agreements: []
-operations_participated: []
+central_authority:
+  budapest: ''
+  mlat: Attorney General's Chambers of Malaysia
+cooperation_assessment: Malaysia is *likely* a moderate cooperation partner with a
+  common-law heritage and English-language advantage, but its legal framework is widely
+  assessed as outdated. Malaysia is **not** a party to the Budapest Convention but
+  the National Cyber Security Agency (NACSA) has publicly announced intentions to
+  accede, with a new Cybercrime Bill under development as of 2025.
+created: 2026-04-10
+cybercrime_legislation:
+  data_retention: unknown
+  primary_law: Computer Crimes Act 1997 (Act 563); Communications and Multimedia Act
+    1998
+  primary_law_date: '1997'
+  procedural_powers:
+  - search-and-seizure
+ic_capacity:
+  24_7_availability: false
+  avg_mlat_response_days: unknown
+  digital_forensics: medium
+  english_proficiency: high
+  rating: medium
+iso_code: MY
+key_agencies:
+- '[[malaysia-police]]'
+- '[[nacsa-malaysia]]'
+last_verified: '2026-04-10'
+legal_system: mixed
 notable_cases: []
-cooperation_assessment: "Malaysia is *likely* a moderate cooperation partner with a common-law heritage and English-language advantage, but its legal framework is widely assessed as outdated. Malaysia is **not** a party to the Budapest Convention but the National Cyber Security Agency (NACSA) has publicly announced intentions to accede, with a new Cybercrime Bill under development as of 2025."
+operations_participated: []
+region: southeast-asia
 source_count: 0
 sources: []
-created: 2026-04-10
+title: Malaysia
+treaty_memberships:
+- date: ''
+  framework: '[[budapest-convention]]'
+  reservations: []
+  status: non-party
+type: country
 updated: 2026-04-10
 ---
 

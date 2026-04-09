@@ -27,6 +27,7 @@ key_roles:
 - Budapest Convention 24/7 contact point (CCIPS)
 - Policy coordination for international cybercrime cooperation
 - Asset forfeiture and recovery in cybercrime cases
+last_verified: '2026-04-10'
 mandate: Enforce federal law, administer justice, and ensure public safety; central
   authority for US MLATs; lead federal cybercrime prosecution through CCIPS and US
   Attorney's Offices.
@@ -56,12 +57,43 @@ operations_participated:
 - '[[qakbot-gallyamov-indictment]]'
 org_type: national-agency
 parent_org: ''
-source_count: 0
+source_count: 5
 sources: []
+status: active
 title: US Department of Justice (DOJ)
 type: organization
-updated: '2026-04-09'
+updated: '2026-04-10'
 ---
+
+## Current Status (as of 2026-04-10)
+
+**Status:** Active. OIA, CCIPS, and NSD all continue to operate; however, the Criminal Division's dedicated crypto enforcement unit (**NCET**) has undergone two material reorganizations in the last 30 months (see [History and Reorganizations](#history-and-reorganizations)).
+
+**Head of the Criminal Division:** **Matthew R. Galeotti** (since March 2025) supervises the more than 1,100 federal prosecutors and staff in the Criminal Division, including CCIPS and OIA [1].
+
+**CCIPS (Computer Crime and Intellectual Property Section):**
+- Still the principal federal cybercrime prosecution coordinator; still the **Budapest Convention Art. 35 (24/7 Network) contact point** for the United States.
+- In **July 2023**, CCIPS absorbed the **National Cryptocurrency Enforcement Team (NCET)**, combining cryptocurrency enforcement with computer-crime expertise and roughly doubling the crypto-focused attorney headcount [2][3].
+- In **early 2026**, deputy attorney general **Todd Blanche** issued a memo titled **"Ending Regulation by Prosecution"** that **disbanded the NCET effective immediately**. Under the memo, CCIPS retains its role advising on policy, enforcement, and training, but the specialized NCET sub-unit no longer exists as a distinct structure; cryptocurrency cases continue to be handled by CCIPS attorneys [4].
+
+**OIA (Office of International Affairs):** Remains the central authority for all US bilateral MLATs (30+) and for extradition processing. No structural reorganization reported.
+
+**National Security Division (NSD):** Continues to handle state-sponsored cyber espionage prosecutions (e.g., [[isoon-apt27-indictment|i-Soon/APT27]]).
+
+**Recent priorities (2025–2026):** Shift under the current administration away from "regulation by prosecution" of digital-asset businesses and toward focus on ransomware operators, state-sponsored actors, and fraud. Continued use of sealed indictments and asset forfeiture against foreign cybercriminals.
+
+## History and Reorganizations
+
+| Date | Event | Reference |
+|---|---|---|
+| 1991 | **Computer Crime and Intellectual Property Section (CCIPS)** precursor established in Criminal Division | — |
+| 2021-10 | **National Cryptocurrency Enforcement Team (NCET)** established as a specialized unit in the Criminal Division | [2] |
+| 2023-07 | **NCET merged into CCIPS** — crypto enforcement elevated to equal status with computer crime / IP work; attorney headcount on crypto matters roughly doubled; ransomware identified as top merged-unit priority | [2][3] |
+| 2025-03 | **Matthew R. Galeotti** takes over as head of the Criminal Division (supervising CCIPS and OIA) | [1] |
+| 2026-early | Deputy AG **Todd Blanche** issues **"Ending Regulation by Prosecution"** memo; **NCET disbanded effective immediately**. CCIPS continues to advise on crypto enforcement policy but the dedicated NCET sub-unit no longer exists | [4] |
+
+> [!warning] Reorganization note
+> The 2026 disbanding of NCET is a **significant change in enforcement posture** but does **not** reduce CCIPS's core international cybercrime cooperation role (Budapest 24/7 contact point, MLA coordination with OIA, ransomware prosecutions). Foreign partners' working-level contacts remain the same CCIPS attorneys.
 
 ## Summary
 
@@ -205,5 +237,13 @@ DOJ is *highly likely* the most important US counterpart for Korean cybercrime c
 
 ## References
 
+| # | Title | Publisher | Date | URL |
+|---|-------|----------|------|-----|
+| [1] | Matthew R. Galeotti — Head of Criminal Division | SIFMA / DOJ | 2025-03 | https://www.sifma.org/people/matthew-galeotti |
+| [2] | DoJ Acts on National Cybersecurity Strategy Implementation Plan with Fusion of Cyber-Crypto Crime Units (NCET merger into CCIPS) | OODA Loop | 2023-07 | https://oodaloop.com/analysis/ooda-original/doj-acts-on-national-cybersecurity-strategy-implementation-plan-with-fusion-of-cyber-crypto-crime-units/ |
+| [3] | Criminal Division — Computer Crime and Intellectual Property Section (CCIPS) | US Department of Justice | — | https://www.justice.gov/criminal/criminal-ccips |
+| [4] | US DoJ scraps crypto crimes team citing Trump order ("Ending Regulation by Prosecution" memo) | Global Government Fintech | 2026 | https://www.globalgovernmentfintech.com/doj-national-cryptocurrency-enforcement-team-disbanded/ |
+| [5] | Criminal Division — Cybersecurity Unit | US Department of Justice | — | https://www.justice.gov/criminal/criminal-ccips/cybersecurity-unit |
+
 > [!note]
-> This page was created based on general knowledge. No dedicated sources have been ingested (source_count: 0). Key claims should be verified against DOJ annual reports, CCIPS publications, and OIA statistics.
+> The original page body was created based on general knowledge (source_count: 0 in the frontmatter). The Current Status and History and Reorganizations sections above are verified against web sources as of 2026-04-10. Additional historical claims (e.g., 1870 establishment, OIA MLAT statistics) should be verified against DOJ annual reports.

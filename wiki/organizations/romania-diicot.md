@@ -17,6 +17,7 @@ key_roles:
 - Organized crime investigation
 - International cooperation on serious crime
 - 24/7 contact point under Budapest Convention (primary)
+last_verified: '2026-04-10'
 mandate: Romanian specialized prosecutor's office investigating and prosecuting organized
   crime, terrorism, drug trafficking, cybercrime, and serious financial crime; attached
   to the High Court of Cassation and Justice.
@@ -31,6 +32,7 @@ org_type: prosecution-office
 parent_org: '[[romania-public-ministry]]'
 source_count: 0
 sources: []
+status: active
 title: Directorate for Investigating Organized Crime and Terrorism (DIICOT)
 type: organization
 updated: '2026-04-09'

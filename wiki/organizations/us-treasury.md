@@ -23,6 +23,7 @@ key_roles:
 - FinCEN ransomware advisories and guidance
 - Cooperation with foreign financial intelligence units (via FinCEN)
 - Multilateral sanctions coordination with allies
+last_verified: '2026-04-10'
 mandate: Apply US economic sanctions and financial regulatory tools against cybercriminals,
   state-sponsored cyber actors, and illicit virtual currency ecosystems. OFAC designates
   cyber-related sanctions targets (ransomware operators, mixers, exchanges). FinCEN
@@ -38,12 +39,41 @@ operations_participated:
 - '[[operation-wirewire]]'
 org_type: national-agency
 parent_org: '[[us-federal-government]]'
-source_count: 4
+source_count: 8
 sources: []
+status: active
 title: US Department of the Treasury — OFAC and FinCEN (Cyber)
 type: organization
-updated: '2026-04-09'
+updated: '2026-04-10'
 ---
+
+## Current Status (as of 2026-04-10)
+
+**Status:** Active. OFAC and FinCEN both continue to operate under the Treasury's **Office of Terrorism and Financial Intelligence (TFI)** with no structural reorganization. The most material recent change is the **delisting of Tornado Cash** in March 2025 following the Fifth Circuit's *Van Loon v. Department of the Treasury* decision (see History section and [Key Operations and Cases](#key-operations-and-cases) below) [3][5][6][7].
+
+**Executive Order framework:** Cyber-related OFAC authority continues to derive from **EO 13694 (April 2015)** as amended by **EO 13757 (Dec 2016)**, plus IEEPA and CAATSA. These authorities have **not** been rescinded despite the Tornado Cash litigation — only the specific designation of the Tornado Cash immutable smart contracts was vacated.
+
+**Post-Van Loon posture:** OFAC *likely* retains authority to designate **identifiable persons** behind mixer/tumbler operations (including Tornado Cash founders Roman Storm and Roman Semenov, who remain under separate criminal indictment and sanctions), but can no longer designate **immutable smart contract addresses** as "property" of a foreign national. This is *almost certainly* the most significant legal limit imposed on OFAC cyber sanctions authority since 2015 [5][6][7].
+
+**FinCEN:** Continues Bank Secrecy Act enforcement against virtual currency businesses; remains the US representative in the Egmont Group (160+ FIUs). No structural change reported.
+
+**Recent priorities (2025–2026):** DPRK/Lazarus Group designations; post-Van Loon recalibration of crypto-mixer enforcement strategy (shifting focus to operators/developers rather than smart-contract addresses); continued multilateral coordination with EU/UK/Canada/Australia/Japan on joint ransomware designations.
+
+## History and Reorganizations
+
+| Date | Event | Reference |
+|---|---|---|
+| 2015-04 | **EO 13694** signed, establishing cyber sanctions authority under IEEPA | [1] |
+| 2016-12 | **EO 13757** expands EO 13694 to election-interference actors | — |
+| 2022-05-06 | **Blender.io** — first OFAC designation of a virtual currency mixer (Lazarus Group laundering) | — |
+| 2022-08-08 | **Tornado Cash** designation (second mixer) — SDN list entry | [1] |
+| 2023-08 | Roman Semenov (Tornado Cash co-founder) individually designated | [2] |
+| 2024-11-26 | **Fifth Circuit rules in *Van Loon v. Department of the Treasury*** — holds immutable smart contracts are not "property" of a foreign national and cannot be OFAC-designated under IEEPA; remands for judgment in favor of plaintiffs | [6][7] |
+| 2025-03-21 | **OFAC delists Tornado Cash** from the SDN list and removes associated smart-contract addresses; Treasury press release SB-0057 | [5][7] |
+| 2025-03-24 | Plaintiffs argue case is not moot; litigation over permanent injunction continues | [5] |
+
+> [!warning] Legal status — Tornado Cash delisting (verified 2026-04-10)
+> As of 2026-04-10 the Tornado Cash smart-contract addresses **remain delisted** from the SDN list. However, Tornado Cash founders **Roman Storm** and **Roman Semenov** remain under **separate criminal indictment** (SDNY, conspiracy to commit money laundering, sanctions violations, operating unlicensed money transmitter) and individual sanctions designations, which were not affected by *Van Loon*. The *Van Loon* ruling limits OFAC's authority with respect to **code and immutable smart contracts**, not with respect to natural persons.
 
 ## Summary
 
@@ -92,8 +122,8 @@ Together, Treasury actions have become a **force multiplier** for law enforcemen
 - **Tornado Cash (8 August 2022):** Second and more controversial mixer designation. OFAC cited laundering of over USD 7 billion since 2019, including USD 455+ million stolen by the Lazarus Group, USD 96M from the Harmony Bridge Heist (June 2022), and USD 7.8M from the Nomad Heist (August 2022).
 - **Roman Semenov (Tornado Cash co-founder) designation (August 2023).**
 
-> [!warning] Legal status check needed
-> On **21 March 2025**, OFAC officially lifted sanctions on Tornado Cash and removed its associated addresses following the Fifth Circuit's November 2024 decision in *Van Loon v. Department of the Treasury*, which held that immutable smart contracts could not be "property" subject to OFAC designation. Tornado Cash founders (Semenov, Storm, and others) remain under separate criminal indictment and related designations. Status should be reverified.
+> [!info] Status (verified 2026-04-10) — Tornado Cash smart-contract addresses **delisted**
+> On **21 March 2025**, OFAC officially lifted sanctions on Tornado Cash and removed its associated addresses following the **Fifth Circuit's 26 November 2024** decision in *Van Loon v. Department of the Treasury*, which held that **immutable smart contracts could not be "property" subject to OFAC designation** under IEEPA. The court **overstepped its congressionally defined authority** was the operative language; the Fifth Circuit remanded for judgment in favor of the plaintiffs [6][7]. Tornado Cash founders (Semenov, Storm) remain under **separate criminal indictment** and **individually-targeted sanctions** not affected by *Van Loon*. See [History and Reorganizations](#history-and-reorganizations) above for full timeline.
 
 ### FinCEN enforcement
 
@@ -125,3 +155,7 @@ Treasury's cooperation impact on cybercrime is *highly likely* substantial but q
 | [2] | Treasury Designates Roman Semenov, Co-Founder of Sanctioned Virtual Currency Mixer Tornado Cash | US Treasury | 2023-08 | https://home.treasury.gov/news/press-releases/jy1702 |
 | [3] | A Legal Whirlwind Settles: Treasury Lifts Sanctions on Tornado Cash | Venable LLP | 2025-04 | https://www.venable.com/insights/publications/2025/04/a-legal-whirlwind-settles-treasury-lifts-sanctions |
 | [4] | OFAC Sanctions Virtual Currency Mixer Tornado Cash and Faces Crypto Backlash | Money Laundering Watch | 2022-08 | https://www.moneylaunderingnews.com/2022/08/ofac-sanctions-virtual-currency-mixer-tornado-cash-and-faces-crypto-backlash/ |
+| [5] | Treasury Department Delists Tornado Cash Following the Fifth Circuit's Decision | Steptoe LLP | 2025-03 | https://www.steptoe.com/en/news-publications/international-compliance-blog/treasury-department-delists-tornado-cash-following-the-fifth-circuits-decision.html |
+| [6] | Fifth Circuit Rejects OFAC Designation of Tornado Cash Immutable Smart Contracts | Money Laundering Watch | 2024-12 | https://www.moneylaunderingnews.com/2024/12/fifth-circuit-rejects-ofac-designation-of-tornado-cash-immutable-smart-contracts/ |
+| [7] | Tornado Cash Delisting (press release SB-0057) | US Department of the Treasury | 2025-03-21 | https://home.treasury.gov/news/press-releases/sb0057 |
+| [8] | A Whirlwind of Change: The Delisting of Tornado Cash | Paul Hastings LLP | 2025-04 | https://www.paulhastings.com/insights/crypto-policy-tracker/a-whirlwind-of-change-the-delisting-of-tornado-cash |

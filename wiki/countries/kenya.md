@@ -1,40 +1,46 @@
 ---
-type: country
-title: "Republic of Kenya"
-iso_code: "KE"
-legal_system: "mixed"
-region: "east-africa"
-cybercrime_legislation:
-  primary_law: "Computer Misuse and Cybercrimes Act, 2018 (Act No. 5 of 2018)"
-  primary_law_date: "2018-05-16"
-  procedural_powers:
-    - "search-and-seizure"
-    - "production-order"
-    - "preservation-order"
-    - "interception"
-  data_retention: "unknown"
-treaty_memberships:
-  - framework: "[[budapest-convention]]"
-    status: "non-party"
-    date: ""
-    reservations: []
-central_authority:
-  mlat: "Office of the Attorney General and Department of Justice (Kenya)"
-  budapest: "not applicable"
-key_agencies: []
-ic_capacity:
-  rating: "medium"
-  digital_forensics: "medium"
-  24_7_availability: true
-  english_proficiency: "high"
-  avg_mlat_response_days: "unknown"
 bilateral_agreements: []
-operations_participated: []
+central_authority:
+  budapest: not applicable
+  mlat: Office of the Attorney General and Department of Justice (Kenya)
+cooperation_assessment: Kenya is *likely* a developing but increasingly capable cybercrime
+  cooperation partner in East Africa. Its Computer Misuse and Cybercrimes Act of 2018
+  was drafted drawing on both the Budapest Convention and the African Union Malabo
+  Convention. Kenya is not currently a party to the Budapest Convention, though sources
+  indicate the Cabinet has approved accession. The NC4 (National Computer and Cybercrimes
+  Coordination Committee) serves as the coordinating body under the 2018 Act.
+created: 2026-04-10
+cybercrime_legislation:
+  data_retention: unknown
+  primary_law: Computer Misuse and Cybercrimes Act, 2018 (Act No. 5 of 2018)
+  primary_law_date: '2018-05-16'
+  procedural_powers:
+  - search-and-seizure
+  - production-order
+  - preservation-order
+  - interception
+ic_capacity:
+  24_7_availability: true
+  avg_mlat_response_days: unknown
+  digital_forensics: medium
+  english_proficiency: high
+  rating: medium
+iso_code: KE
+key_agencies: []
+last_verified: '2026-04-10'
+legal_system: mixed
 notable_cases: []
-cooperation_assessment: "Kenya is *likely* a developing but increasingly capable cybercrime cooperation partner in East Africa. Its Computer Misuse and Cybercrimes Act of 2018 was drafted drawing on both the Budapest Convention and the African Union Malabo Convention. Kenya is not currently a party to the Budapest Convention, though sources indicate the Cabinet has approved accession. The NC4 (National Computer and Cybercrimes Coordination Committee) serves as the coordinating body under the 2018 Act."
+operations_participated: []
+region: east-africa
 source_count: 0
 sources: []
-created: 2026-04-10
+title: Republic of Kenya
+treaty_memberships:
+- date: ''
+  framework: '[[budapest-convention]]'
+  reservations: []
+  status: non-party
+type: country
 updated: 2026-04-10
 ---
 

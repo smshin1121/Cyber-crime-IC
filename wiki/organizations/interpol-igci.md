@@ -18,6 +18,7 @@ key_roles:
 - I-24/7 secure communications network
 - Capacity building for member countries
 - Innovation and emerging threat research
+last_verified: '2026-04-10'
 mandate: INTERPOL's innovation and cyber hub, providing cutting-edge research, digital
   forensics support, and operational coordination for cybercrime investigations across
   196 member countries.
@@ -43,7 +44,7 @@ operations_participated:
 - '[[operation-synergia-ii]]'
 org_type: international-org
 parent_org: '[[interpol]]'
-source_count: 9
+source_count: 11
 sources:
 - '[[2024-12-02-interpol-operation-haechi-v]]'
 - '[[2024-11-06-interpol-operation-synergia-ii]]'
@@ -55,13 +56,36 @@ sources:
 - '[[2025-09-25-interpol-operation-haechi-vi]]'
 - '[[2025-12-22-interpol-operation-sentinel-africa]]'
 - '[[2024-10-15-interpol-operation-orion-international]]'
+status: active
 title: INTERPOL Global Complex for Innovation (IGCI)
 type: organization
-updated: '2026-04-09'
+updated: '2026-04-10'
 ---
 
 > [!info] Updated 2026-04-08
 > Added 6 new operations: Jackal, Jackal III, First Light 2024, HAECHI IV, HAECHI VI, Sentinel Africa.
+
+## Current Status (as of 2026-04-10)
+
+**Status:** Active. IGCI remains INTERPOL's primary hub for cybercrime operations, digital innovation, and research. Headquartered in **Singapore**, parent organization [[interpol|INTERPOL]] [10].
+
+**10th anniversary (June 2025):** IGCI celebrated its 10-year anniversary in Singapore in a ceremony attended by INTERPOL President **Ahmed Naser Al Raisi**, Secretary General **Valdecy Urquiza**, and members of the INTERPOL Executive Committee. The anniversary explicitly reaffirmed Singapore as INTERPOL's primary cyber and innovation hub — *highly likely* indicating there is no plan to relocate or downsize the facility [10].
+
+**Current role:**
+- **Cyber Fusion Centre** continues to aggregate real-time threat intelligence from law enforcement, private sector, and academia.
+- **Innovation Centre** — research on AI, virtual assets, and emerging tech for law enforcement.
+- **Capacity Building Directorate** — training programs for member countries, particularly ASEAN, Africa, and Pacific Island states.
+- **Operational coordination** for HAECHI series (Korea-led), Operation First Light, Operation Synergia (including **Synergia III** in March 2026), Jackal series, Serengeti, Sentinel Africa.
+
+**Recent operational output (2024–2026):**
+- HAECHI V (2024): 40 countries, 5,500+ arrests, USD 400M+ seized
+- HAECHI VI (2025): USD 439M recovered
+- Synergia II (2024): 22,800 malicious IPs taken down
+- **Synergia III (March 2026)**: continued cyber-infrastructure takedown with private sector intelligence partners (Group-IB, Trend Micro, Kaspersky, Team Cymru) [11]
+- Operation Sentinel Africa (Oct-Nov 2025): 574 arrests
+
+> [!note] Organizational continuity
+> IGCI's location, mandate, and structure are unchanged. Singapore remains the confirmed headquarters, as reaffirmed by the June 2025 10-year anniversary ceremony attended by INTERPOL's senior leadership.
 
 ## Summary
 
@@ -145,3 +169,5 @@ Korea is a significant INTERPOL partner, particularly through the IGCI Singapore
 | [7] | USD 300 million seized and 3,500 suspects arrested — Operation HAECHI IV | INTERPOL | 2023-12-19 | [원본](https://www.interpol.int/News-and-Events/News/2023/USD-300-million-seized-and-3-500-suspects-arrested-in-international-financial-crime-operation) |
 | [8] | USD 439 million recovered in global financial crime operation — Operation HAECHI VI | INTERPOL | 2025-09-25 | [원본](https://www.interpol.int/en/News-and-Events/News/2025/USD-439-million-recovered-in-global-financial-crime-operation) |
 | [9] | 574 arrests and USD 3 million recovered — Operation Sentinel | INTERPOL | 2025-12-22 | [원본](https://www.interpol.int/en/News-and-Events/News/2025/574-arrests-and-USD-3-million-recovered-in-coordinated-cybercrime-operation-across-Africa) |
+| [10] | INTERPOL celebrates 10 years of innovation and collaboration in Singapore | INTERPOL | 2025-06 | https://www.interpol.int/en/News-and-Events/News/2025/INTERPOL-celebrates-10-years-of-innovation-and-collaboration-in-Singapore |
+| [11] | Group-IB supports INTERPOL's Operation Synergia III contributing intelligence to global cybercrime takedown | Intelligent CISO | 2026-03-16 | https://www.intelligentciso.com/2026/03/16/group-ib-supports-interpols-operation-synergia-iii-contributing-intelligence-to-global-cybercrime-takedown/ |

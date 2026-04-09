@@ -1,42 +1,47 @@
 ---
-type: country
-title: "Togolese Republic"
-iso_code: "TG"
-legal_system: "civil-law"
-region: "west-africa"
-cybercrime_legislation:
-  primary_law: "Law 2018-026 on Cybersecurity and Combating Cybercrime"
-  primary_law_date: "2018-12-07"
-  procedural_powers:
-    - "search-and-seizure"
-    - "production-order"
-  data_retention: "unknown"
-treaty_memberships:
-  - framework: "[[budapest-convention]]"
-    status: "non-party"
-    date: ""
-    reservations: []
-  - framework: "[[malabo-convention]]"
-    status: "party"
-    date: "2016-11-18"
-    reservations: []
-central_authority:
-  mlat: "Ministry of Justice"
-  budapest: ""
-key_agencies: []
-ic_capacity:
-  rating: "low"
-  digital_forensics: "low"
-  24_7_availability: false
-  english_proficiency: "low"
-  avg_mlat_response_days: "unknown"
 bilateral_agreements: []
-operations_participated: []
+central_authority:
+  budapest: ''
+  mlat: Ministry of Justice
+cooperation_assessment: Togo is a **non-party** to the Budapest Convention but is
+  a party to the African Union **Malabo Convention** on Cyber Security and Personal
+  Data Protection. Togo has enacted a 2018 Cybersecurity Law and hosts the African
+  Union Cybersecurity Centre at Lomé (announced 2019). Capacity is *likely* low but
+  growing through regional initiatives.
+created: 2026-04-10
+cybercrime_legislation:
+  data_retention: unknown
+  primary_law: Law 2018-026 on Cybersecurity and Combating Cybercrime
+  primary_law_date: '2018-12-07'
+  procedural_powers:
+  - search-and-seizure
+  - production-order
+ic_capacity:
+  24_7_availability: false
+  avg_mlat_response_days: unknown
+  digital_forensics: low
+  english_proficiency: low
+  rating: low
+iso_code: TG
+key_agencies: []
+last_verified: '2026-04-10'
+legal_system: civil-law
 notable_cases: []
-cooperation_assessment: "Togo is a **non-party** to the Budapest Convention but is a party to the African Union **Malabo Convention** on Cyber Security and Personal Data Protection. Togo has enacted a 2018 Cybersecurity Law and hosts the African Union Cybersecurity Centre at Lomé (announced 2019). Capacity is *likely* low but growing through regional initiatives."
+operations_participated: []
+region: west-africa
 source_count: 3
 sources: []
-created: 2026-04-10
+title: Togolese Republic
+treaty_memberships:
+- date: ''
+  framework: '[[budapest-convention]]'
+  reservations: []
+  status: non-party
+- date: '2016-11-18'
+  framework: '[[malabo-convention]]'
+  reservations: []
+  status: party
+type: country
 updated: 2026-04-10
 ---
 

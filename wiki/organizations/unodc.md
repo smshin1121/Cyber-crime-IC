@@ -20,6 +20,7 @@ key_roles:
   Convention)
 - Custodian of the UN Convention against Corruption (UNCAC)
 - Coordination of the Commission on Crime Prevention and Criminal Justice (CCPCJ)
+last_verified: '2026-04-10'
 mandate: Assisting UN Member States in combating illicit drugs, organized crime, terrorism,
   and corruption; administering the negotiation and promotion of the UN Convention
   against Cybercrime; delivering the Global Programme on Cybercrime.
@@ -33,6 +34,7 @@ org_type: international-org
 parent_org: '[[united-nations]]'
 source_count: 8
 sources: []
+status: active
 title: United Nations Office on Drugs and Crime (UNODC)
 type: organization
 updated: 2026-04-10

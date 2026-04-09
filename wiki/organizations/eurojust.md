@@ -17,6 +17,7 @@ key_roles:
 - Conflict of jurisdiction resolution
 - Coordination meetings for multi-country investigations
 - European Arrest Warrant coordination
+last_verified: '2026-04-10'
 mandate: EU judicial cooperation agency facilitating cross-border criminal investigations
   and prosecutions, including cybercrime. Coordinates mutual legal assistance, Joint
   Investigation Teams, European Arrest Warrants, and conflict of jurisdiction resolution.
@@ -42,17 +43,43 @@ operations_participated:
 - '[[zeus-spyeye-jit-takedown]]'
 org_type: regional-org
 parent_org: ''
-source_count: 5
+source_count: 9
 sources:
 - '[[2024-02-20-europol-operation-cronos-lockbit]]'
 - '[[2024-05-30-europol-operation-endgame-botnet-takedown]]'
 - '[[2024-10-01-europol-operation-cronos-lockbit-phase3]]'
 - '[[2025-02-11-europol-phobos-8base-ransomware-arrests]]'
 - '[[2025-05-23-europol-operation-endgame-phase2]]'
+status: active
 title: Eurojust
 type: organization
-updated: '2026-04-09'
+updated: '2026-04-10'
 ---
+
+## Current Status (as of 2026-04-10)
+
+**Status:** Active. Eurojust remains headquartered in **The Hague, Netherlands**, co-located with [[europol-ec3|Europol]], operating under **EU Regulation 2018/1727** (the Eurojust Regulation). No structural reorganization since the 2018 Regulation [6].
+
+**President:** **Michael Schmid** (National Member for Austria), elected in 2025 and took office on **15 November 2025** for a four-year term. He succeeded **Ladislav Hamran**, who completed his second and final term as President (first elected 2017, re-elected 2021) [7][8].
+
+**Structure:** The Eurojust College (27 National Members, one per EU member state) remains the decision-making body. Coordination Centres are activated for major cross-border operations. National Members continue to hold the authority to transmit MLA requests and authorize Joint Investigation Team (JIT) establishment on behalf of their national authorities.
+
+**Recent mandate developments:** The European Commission has proposed amendments to the Eurojust Regulation to strengthen digital cooperation and the handling of core international crimes (e.g., war-crimes evidence related to Ukraine). Eurojust has also received an expanded mandate to negotiate **cooperation agreements with third countries** through the European Commission [9].
+
+**Recent priorities (2024–2026):** Judicial coordination for the Operation Cronos (LockBit), Operation Endgame (Phase 1 & 2), and Phobos/8Base cybercrime takedowns; continued JIT support; expanded third-country cooperation (notably Ukraine on war-crimes and with potential new agreements under negotiation).
+
+> [!note] Organizational continuity
+> Eurojust's institutional structure is unchanged. The material change since this page was created is the **presidency transition from Hamran to Schmid in November 2025**. The operational relationships with [[europol-ec3|Europol EC3]], national prosecution authorities, and third-country partners are unchanged.
+
+## History and Reorganizations
+
+| Date | Event | Reference |
+|---|---|---|
+| 2002-02-28 | **Eurojust established** by Council Decision 2002/187/JHA | — |
+| 2018-12-14 | **EU Regulation 2018/1727** ("Eurojust Regulation") enters into force, replacing the 2002 Council Decision and significantly strengthening operational powers | [6] |
+| 2017 / 2021 | **Ladislav Hamran** (SK) elected, then re-elected, as President for two consecutive 4-year terms | [7] |
+| 2022+ | Eurojust receives expanded mandate and resources for core international crimes (Ukraine war-crimes evidence) | [9] |
+| 2025-11-15 | **Michael Schmid** (AT) takes office as new President of Eurojust for a 4-year term, replacing Hamran who completed his second (final) term | [7][8] |
 
 ## Summary
 
@@ -180,3 +207,7 @@ Direct Eurojust-Korea judicial cooperation on cybercrime is *likely* limited but
 | [3] | LockBit power cut: four new arrests — Operation Cronos Phase 3 | Europol | 2024-10-01 | [원본](https://www.europol.europa.eu/media-press/newsroom/news/lockbit-power-cut-four-new-arrests-and-financial-sanctions-against-affiliates) |
 | [4] | Key figures behind Phobos and 8Base ransomware arrested | Europol | 2025-02-11 | [원본](https://www.europol.europa.eu/media-press/newsroom/news/key-figures-behind-phobos-and-8base-ransomware-arrested-in-international-cybercrime-crackdown) |
 | [5] | Operation Endgame strikes again: the ransomware kill chain broken at its source | Europol | 2025-05-23 | [원본](https://www.europol.europa.eu/media-press/newsroom/news/operation-endgame-strikes-again-ransomware-kill-chain-broken-its-source) |
+| [6] | Stepping up judicial cooperation against cybercrime | Eurojust | — | https://www.eurojust.europa.eu/news/stepping-judicial-cooperation-against-cybercrime |
+| [7] | President — Eurojust (term descriptions) | Eurojust | — | https://www.eurojust.europa.eu/term/president |
+| [8] | Mr Ladislav Hamran re-elected as President of Eurojust (historical) | Eurojust | 2021 | https://www.eurojust.europa.eu/news/mr-ladislav-hamran-re-elected-president-eurojust |
+| [9] | Eurojust welcomes mandate for Commission to negotiate agreements with third countries | Eurojust | — | https://www.eurojust.europa.eu/news/eurojust-welcomes-mandate-commission-negotiate-agreements-third-countries |

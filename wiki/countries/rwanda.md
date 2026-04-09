@@ -1,43 +1,48 @@
 ---
-type: country
-title: "Republic of Rwanda"
-iso_code: "RW"
-legal_system: "mixed"
-region: "east-africa"
-cybercrime_legislation:
-  primary_law: "Law No. 60/2018 on Prevention and Punishment of Cybercrimes"
-  primary_law_date: "2018-08-22"
-  procedural_powers:
-    - "search-and-seizure"
-    - "production-order"
-    - "preservation-order"
-  data_retention: "unknown"
-treaty_memberships:
-  - framework: "[[budapest-convention]]"
-    status: "party"
-    date: "2025-01-10"
-    reservations: []
-  - framework: "[[malabo-convention]]"
-    status: "party"
-    date: ""
-    reservations: []
-central_authority:
-  mlat: "Ministry of Justice"
-  budapest: ""
-key_agencies: []
-ic_capacity:
-  rating: "medium"
-  digital_forensics: "medium"
-  24_7_availability: false
-  english_proficiency: "high"
-  avg_mlat_response_days: "unknown"
 bilateral_agreements: []
-operations_participated: []
+central_authority:
+  budapest: ''
+  mlat: Ministry of Justice
+cooperation_assessment: Rwanda deposited its instrument of accession to the **Budapest
+  Convention on 10 January 2025**, becoming one of the most recent African Parties.
+  Rwanda has been an active participant in Council of Europe cybercrime capacity-building
+  programmes via GLACY+ and hosts regional African cybersecurity initiatives. It is
+  *likely* to become an increasingly active cooperation partner in East Africa.
+created: 2026-04-10
+cybercrime_legislation:
+  data_retention: unknown
+  primary_law: Law No. 60/2018 on Prevention and Punishment of Cybercrimes
+  primary_law_date: '2018-08-22'
+  procedural_powers:
+  - search-and-seizure
+  - production-order
+  - preservation-order
+ic_capacity:
+  24_7_availability: false
+  avg_mlat_response_days: unknown
+  digital_forensics: medium
+  english_proficiency: high
+  rating: medium
+iso_code: RW
+key_agencies: []
+last_verified: '2026-04-10'
+legal_system: mixed
 notable_cases: []
-cooperation_assessment: "Rwanda deposited its instrument of accession to the **Budapest Convention on 10 January 2025**, becoming one of the most recent African Parties. Rwanda has been an active participant in Council of Europe cybercrime capacity-building programmes via GLACY+ and hosts regional African cybersecurity initiatives. It is *likely* to become an increasingly active cooperation partner in East Africa."
+operations_participated: []
+region: east-africa
 source_count: 3
 sources: []
-created: 2026-04-10
+title: Republic of Rwanda
+treaty_memberships:
+- date: '2025-01-10'
+  framework: '[[budapest-convention]]'
+  reservations: []
+  status: party
+- date: ''
+  framework: '[[malabo-convention]]'
+  reservations: []
+  status: party
+type: country
 updated: 2026-04-10
 ---
 

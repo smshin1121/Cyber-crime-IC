@@ -1,29 +1,34 @@
 ---
-type: organization
-title: "FIOD — Dutch Fiscal Information and Investigation Service"
-official_name: "Fiscale Inlichtingen- en Opsporingsdienst"
 aliases:
-  - FIOD
-  - Dutch FIOD
-  - Fiscal Information and Investigation Service
-  - FACT (Financial Advanced Cyber Team — internal)
-org_type: "national-agency"
-parent_org: "Dutch Tax and Customs Administration / Ministry of Finance (Netherlands)"
-country: "[[netherlands]]"
-headquarters: "Utrecht, Netherlands (multiple offices nationally)"
-established: "unknown"
-mandate: "Investigation service of the Dutch Ministry of Finance responsible for combating financial fraud, money laundering, cybercrime and corruption. Specialized Financial Advanced Cyber Team (FACT) focuses on cryptocurrency money laundering, cybercrime proceeds, and crypto-enabled financial crime."
-key_roles:
-  - Financial fraud, money laundering and corruption investigation
-  - Cybercrime with financial/cryptocurrency dimensions
-  - FACT (Financial Advanced Cyber Team) cryptocurrency expertise
-  - International cooperation on crypto money laundering takedowns
-operations_participated: []
-notable_cases: []
+- FIOD
+- Dutch FIOD
+- Fiscal Information and Investigation Service
+- FACT (Financial Advanced Cyber Team — internal)
 contact_point_for: []
+country: '[[netherlands]]'
+created: 2026-04-10
+established: unknown
+headquarters: Utrecht, Netherlands (multiple offices nationally)
+key_roles:
+- Financial fraud, money laundering and corruption investigation
+- Cybercrime with financial/cryptocurrency dimensions
+- FACT (Financial Advanced Cyber Team) cryptocurrency expertise
+- International cooperation on crypto money laundering takedowns
+last_verified: '2026-04-10'
+mandate: Investigation service of the Dutch Ministry of Finance responsible for combating
+  financial fraud, money laundering, cybercrime and corruption. Specialized Financial
+  Advanced Cyber Team (FACT) focuses on cryptocurrency money laundering, cybercrime
+  proceeds, and crypto-enabled financial crime.
+notable_cases: []
+official_name: Fiscale Inlichtingen- en Opsporingsdienst
+operations_participated: []
+org_type: national-agency
+parent_org: Dutch Tax and Customs Administration / Ministry of Finance (Netherlands)
 source_count: 3
 sources: []
-created: 2026-04-10
+status: active
+title: FIOD — Dutch Fiscal Information and Investigation Service
+type: organization
 updated: 2026-04-10
 ---
 

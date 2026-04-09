@@ -1,48 +1,55 @@
 ---
-type: country
-title: "Kingdom of Norway"
-iso_code: "NO"
-legal_system: "civil-law"
-region: "western-europe"
-cybercrime_legislation:
-  primary_law: "Penal Code (Straffeloven) — Sections 201-209 (data offences); Electronic Communications Act"
-  primary_law_date: "2005"
-  procedural_powers:
-    - "search-and-seizure"
-    - "production-order"
-    - "preservation-order"
-    - "interception"
-    - "real-time-collection"
-  data_retention: "Limited; Data Retention Directive implementation was contested and partially rolled back"
-treaty_memberships:
-  - framework: "[[budapest-convention]]"
-    status: "party"
-    date: "2006-06-30"
-    reservations: []
-  - framework: "[[first-additional-protocol-xenophobia]]"
-    status: "party"
-    date: "2008"
-    reservations: []
-central_authority:
-  mlat: "Norwegian Ministry of Justice and Public Security"
-  budapest: "Kripos — National Criminal Investigation Service"
-key_agencies:
-  - "[[norway-kripos]]"
-  - "[[norway-nc3]]"
-  - "[[norway-nsm]]"
-ic_capacity:
-  rating: "high"
-  digital_forensics: "high"
-  24_7_availability: true
-  english_proficiency: "high"
-  avg_mlat_response_days: "unknown"
 bilateral_agreements: []
-operations_participated: []
+central_authority:
+  budapest: Kripos — National Criminal Investigation Service
+  mlat: Norwegian Ministry of Justice and Public Security
+cooperation_assessment: Norway is *highly likely* a high-capacity cooperation partner
+  despite not being an EU member state. Kripos operates a dedicated Cybercrime Centre
+  (NC3) and Norway is a Budapest Convention party since 2006. Norway cooperates closely
+  with EU mechanisms via the EEA agreement and has a strong technical and linguistic
+  profile for international cooperation.
+created: 2026-04-10
+cybercrime_legislation:
+  data_retention: Limited; Data Retention Directive implementation was contested and
+    partially rolled back
+  primary_law: Penal Code (Straffeloven) — Sections 201-209 (data offences); Electronic
+    Communications Act
+  primary_law_date: '2005'
+  procedural_powers:
+  - search-and-seizure
+  - production-order
+  - preservation-order
+  - interception
+  - real-time-collection
+ic_capacity:
+  24_7_availability: true
+  avg_mlat_response_days: unknown
+  digital_forensics: high
+  english_proficiency: high
+  rating: high
+iso_code: 'NO'
+key_agencies:
+- '[[norway-kripos]]'
+- '[[norway-nc3]]'
+- '[[norway-nsm]]'
+last_verified: '2026-04-10'
+legal_system: civil-law
 notable_cases: []
-cooperation_assessment: "Norway is *highly likely* a high-capacity cooperation partner despite not being an EU member state. Kripos operates a dedicated Cybercrime Centre (NC3) and Norway is a Budapest Convention party since 2006. Norway cooperates closely with EU mechanisms via the EEA agreement and has a strong technical and linguistic profile for international cooperation."
+operations_participated: []
+region: western-europe
 source_count: 0
 sources: []
-created: 2026-04-10
+title: Kingdom of Norway
+treaty_memberships:
+- date: '2006-06-30'
+  framework: '[[budapest-convention]]'
+  reservations: []
+  status: party
+- date: '2008'
+  framework: '[[first-additional-protocol-xenophobia]]'
+  reservations: []
+  status: party
+type: country
 updated: 2026-04-10
 ---
 

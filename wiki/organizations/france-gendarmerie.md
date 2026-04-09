@@ -18,6 +18,7 @@ key_roles:
 - Digital forensics and technical analysis
 - Cybergend network coordination (5,300+ specialized investigators)
 - International cybercrime cooperation
+last_verified: '2026-04-10'
 mandate: National-competence judicial police unit of the Gendarmerie Nationale responsible
   for coordinating all digital investigations and cybercrime operations within France's
   Judicial Pole of the National Gendarmerie (PJGN).
@@ -35,6 +36,7 @@ org_type: national-unit
 parent_org: '[[france-gendarmerie-nationale]]'
 source_count: 1
 sources: []
+status: active
 title: Centre de lutte contre les criminalités numériques (C3N)
 type: organization
 updated: '2026-04-09'

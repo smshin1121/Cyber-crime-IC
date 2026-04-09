@@ -26,6 +26,7 @@ key_roles:
 - Criminal databases (stolen documents, fingerprints, DNA, facial recognition)
 - Capacity building and training
 - Cybercrime operations through IGCI subsidiary
+last_verified: '2026-04-10'
 mandate: Enable police cooperation across 196 member countries through secure communications
   (I-24/7), databases, operational support, training, and capacity building to combat
   transnational crime.
@@ -66,12 +67,28 @@ operations_participated:
 - '[[simda-botnet-takedown]]'
 org_type: international-org
 parent_org: ''
-source_count: 0
+source_count: 4
 sources: []
+status: active
 title: INTERPOL (International Criminal Police Organization)
 type: organization
-updated: '2026-04-09'
+updated: '2026-04-10'
 ---
+
+## Current Status (as of 2026-04-10)
+
+**Status:** Active. INTERPOL remains headquartered in **Lyon, France**, with **196 member countries** and its Constitution unchanged. No structural reorganization reported.
+
+**Secretary General:** **Valdecy Urquiza** (Brazil) — took office in 2024 as INTERPOL's first Latin American Secretary General, succeeding **Jürgen Stock** (Germany, 2014–2024) whose 10-year maximum term expired. Urquiza previously served as INTERPOL's Executive Director of Police Services [10].
+
+**President:** **Ahmed Naser Al Raisi** (United Arab Emirates) — elected at the 89th General Assembly in November 2021 for a four-year term (still in office as of April 2026; next presidential election expected at the 2025/2026 General Assembly cycle) [10].
+
+**Structure:** General Secretariat (Lyon) + [[interpol-igci|INTERPOL Global Complex for Innovation (IGCI)]] in Singapore + Regional Bureaus (Buenos Aires, Abidjan, Nairobi, Yaoundé, San Salvador, Singapore, Bangkok, Harare) + 196 National Central Bureaus. The IGCI in Singapore celebrated its **10-year anniversary in June 2025** at a ceremony attended by President Al Raisi and SG Urquiza, reaffirming Singapore as INTERPOL's primary cyber and innovation hub [11].
+
+**Recent priorities (2024–2026):** Global financial-cybercrime operations (HAECHI V/VI led by Korea, First Light 2024, Operation Synergia II and **Synergia III** in March 2026), African regional operations (Serengeti, Sentinel Africa), BEC/Black Axe (Jackal series), CSAM (Cyber Guardian 2025), AI-enabled crime, silver notices for asset tracing.
+
+> [!note] Organizational continuity
+> INTERPOL's mandate and structure are unchanged. The material change since this page was created is the **Secretary General transition from Stock to Urquiza (2024)** and the continued centrality of the Singapore IGCI after its 10-year anniversary celebration in June 2025.
 
 ## Summary
 
@@ -240,5 +257,12 @@ Korea's relationship with INTERPOL is *almost certainly* among the most active a
 
 ## References
 
+| # | Title | Publisher | Date | URL |
+|---|-------|----------|------|-----|
+| [1] | INTERPOL official website (leadership and structure) | INTERPOL | — | https://www.interpol.int/ |
+| [2] | INTERPOL celebrates 10 years of innovation and collaboration in Singapore (IGCI 10th anniversary) | INTERPOL | 2025-06 | https://www.interpol.int/en/News-and-Events/News/2025/INTERPOL-celebrates-10-years-of-innovation-and-collaboration-in-Singapore |
+| [3] | INTERPOL's Asian conference to address regional crime threats | INTERPOL | 2025 | https://www.interpol.int/en/News-and-Events/News/2025/INTERPOL-s-Asian-conference-to-address-regional-crime-threats |
+| [4] | Group-IB supports INTERPOL's Operation Synergia III (2026 cyber takedown) | Intelligent CISO | 2026-03-16 | https://www.intelligentciso.com/2026/03/16/group-ib-supports-interpols-operation-synergia-iii-contributing-intelligence-to-global-cybercrime-takedown/ |
+
 > [!note]
-> This page was created based on general knowledge. No dedicated sources have been ingested (source_count: 0). Key claims should be verified against INTERPOL annual reports, IGCI publications, and member country reports.
+> The original page body was created from general knowledge (source_count: 0 in frontmatter). The Current Status section above is verified against web sources as of 2026-04-10. Detailed historical operational statistics should be verified against INTERPOL press releases and annual reports.

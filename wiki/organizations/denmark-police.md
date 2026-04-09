@@ -20,6 +20,7 @@ key_roles:
 - Digital forensics
 - IT-related sexual crime investigation (CSEM, grooming, sextortion)
 - International cybercrime cooperation for Denmark
+last_verified: '2026-04-10'
 mandate: NC3 is the specialized cybercrime center within Denmark's National Special
   Crime Unit (NSK), supporting Danish police investigations of complex IT-related
   crime including hacking, ransomware, and DDoS attacks.
@@ -35,6 +36,7 @@ org_type: national-unit
 parent_org: '[[denmark-national-police]]'
 source_count: 2
 sources: []
+status: active
 title: National Cyber Crime Center (NC3) / National Special Crime Unit (NSK)
 type: organization
 updated: '2026-04-09'

@@ -1,46 +1,54 @@
 ---
-type: country
-title: "Swiss Confederation"
-iso_code: "CH"
-legal_system: "civil-law"
-region: "western-europe"
-cybercrime_legislation:
-  primary_law: "Swiss Criminal Code (StGB/CP) arts. 143, 143bis, 144bis, 147, 150; Criminal Procedure Code (StPO/CPP)"
-  primary_law_date: "1937"
-  procedural_powers:
-    - "search-and-seizure"
-    - "production-order"
-    - "preservation-order"
-    - "interception"
-  data_retention: "BÜPF (Federal Act on the Surveillance of Post and Telecommunications)"
-treaty_memberships:
-  - framework: "[[budapest-convention]]"
-    status: "party"
-    date: "2011-09-21"
-    reservations: []
-  - framework: "[[second-additional-protocol]]"
-    status: "signatory"
-    date: "2022-05-12"
-    reservations: []
-central_authority:
-  mlat: "Federal Office of Justice (Bundesamt für Justiz, BJ)"
-  budapest: "fedpol (Federal Office of Police)"
-key_agencies:
-  - "[[switzerland-fedpol]]"
-  - "[[switzerland-ncsc]]"
-ic_capacity:
-  rating: "high"
-  digital_forensics: "high"
-  24_7_availability: true
-  english_proficiency: "high"
-  avg_mlat_response_days: "90-180"
 bilateral_agreements: []
-operations_participated: []
+central_authority:
+  budapest: fedpol (Federal Office of Police)
+  mlat: Federal Office of Justice (Bundesamt für Justiz, BJ)
+cooperation_assessment: Switzerland is a *highly capable* cybercrime cooperation partner
+  with a strong tradition of responding to MLA requests — particularly those involving
+  financial flows, Swiss-hosted servers, and cryptocurrency exchanges based in Zug
+  ('Crypto Valley'). Switzerland ratified the Budapest Convention on 21 September
+  2011 and implemented supplementary provisions via art. 143bis para. 2 of the Swiss
+  Criminal Code. *Almost certainly* an important partner for operations targeting
+  money laundering and crypto-enabled cybercrime.
+created: 2026-04-10
+cybercrime_legislation:
+  data_retention: BÜPF (Federal Act on the Surveillance of Post and Telecommunications)
+  primary_law: Swiss Criminal Code (StGB/CP) arts. 143, 143bis, 144bis, 147, 150;
+    Criminal Procedure Code (StPO/CPP)
+  primary_law_date: '1937'
+  procedural_powers:
+  - search-and-seizure
+  - production-order
+  - preservation-order
+  - interception
+ic_capacity:
+  24_7_availability: true
+  avg_mlat_response_days: 90-180
+  digital_forensics: high
+  english_proficiency: high
+  rating: high
+iso_code: CH
+key_agencies:
+- '[[switzerland-fedpol]]'
+- '[[switzerland-ncsc]]'
+last_verified: '2026-04-10'
+legal_system: civil-law
 notable_cases: []
-cooperation_assessment: "Switzerland is a *highly capable* cybercrime cooperation partner with a strong tradition of responding to MLA requests — particularly those involving financial flows, Swiss-hosted servers, and cryptocurrency exchanges based in Zug ('Crypto Valley'). Switzerland ratified the Budapest Convention on 21 September 2011 and implemented supplementary provisions via art. 143bis para. 2 of the Swiss Criminal Code. *Almost certainly* an important partner for operations targeting money laundering and crypto-enabled cybercrime."
+operations_participated: []
+region: western-europe
 source_count: 0
 sources: []
-created: 2026-04-10
+title: Swiss Confederation
+treaty_memberships:
+- date: '2011-09-21'
+  framework: '[[budapest-convention]]'
+  reservations: []
+  status: party
+- date: '2022-05-12'
+  framework: '[[second-additional-protocol]]'
+  reservations: []
+  status: signatory
+type: country
 updated: 2026-04-10
 ---
 

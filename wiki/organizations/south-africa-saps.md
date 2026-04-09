@@ -1,24 +1,27 @@
 ---
-type: organization
-title: "South African Police Service"
-official_name: "South African Police Service (SAPS)"
 aliases: []
-org_type: "national-agency"
-parent_org: ""
-country: "[[south-africa]]"
-headquarters: ""
-established: ""
-mandate: "South Africa's national police service; hosts DPCI (Hawks) for serious cybercrime investigations."
-key_roles: []
-cooperation_partners: []
-frameworks_administered: []
-mechanisms_operated: []
-operations_participated: []
-notable_cases: []
 contact_point_for: []
+cooperation_partners: []
+country: '[[south-africa]]'
+created: 2026-04-10
+established: ''
+frameworks_administered: []
+headquarters: ''
+key_roles: []
+last_verified: '2026-04-10'
+mandate: South Africa's national police service; hosts DPCI (Hawks) for serious cybercrime
+  investigations.
+mechanisms_operated: []
+notable_cases: []
+official_name: South African Police Service (SAPS)
+operations_participated: []
+org_type: national-agency
+parent_org: ''
 source_count: 1
 sources: []
-created: 2026-04-10
+status: active
+title: South African Police Service
+type: organization
 updated: 2026-04-10
 ---
 

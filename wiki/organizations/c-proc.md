@@ -20,6 +20,7 @@ key_roles:
 - Secretariat-style support to the Cybercrime Convention Committee (T-CY)
 - Coordination with international partners (Europol, INTERPOL, UNODC, OSCE)
 - Training on MLA, 24/7 Network operations, and digital forensics
+last_verified: '2026-04-10'
 mandate: Implementation of the Budapest Convention on Cybercrime and capacity building
   in partner countries worldwide through programmes such as GLACY+, iPROCEEDS, CyberEast,
   CyberSouth, and GLACY-e
@@ -33,6 +34,7 @@ org_type: international-org
 parent_org: '[[council-of-europe]]'
 source_count: 5
 sources: []
+status: active
 title: Cybercrime Programme Office (C-PROC)
 type: organization
 updated: 2026-04-10

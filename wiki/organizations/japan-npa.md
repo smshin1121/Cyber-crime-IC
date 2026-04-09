@@ -21,6 +21,7 @@ key_roles:
 - Central consolidation and analysis of cyber intelligence
 - International cooperation with overseas law enforcement
 - Restructured from Info-Communications Bureau on 1 April 2022
+last_verified: '2026-04-10'
 mandate: Central consolidation and analysis of cyber information, implementation of
   effective countermeasures against cybercrime and cyberterrorism, and close collaboration
   with overseas public security authorities. Hosts the National Cyber Unit for investigating
@@ -35,8 +36,9 @@ operations_participated:
 - '[[phobos-8base-crackdown]]'
 org_type: national-agency
 parent_org: '[[japan-npa-headquarters]]'
-source_count: 4
+source_count: 6
 sources: []
+status: active
 title: Japan National Police Agency — Cyber Affairs Bureau
 type: organization
 updated: '2026-04-09'
@@ -47,6 +49,32 @@ updated: '2026-04-09'
 The Cyber Affairs Bureau (サイバー警察局, Saibā keisatsu-kyoku) of Japan's National Police Agency (警察庁, Keisatsu-chō) was established on **1 April 2022** by restructuring the Info-Communications Bureau and integrating cyber-related divisions from several other NPA bureaus. It is now the central policing authority for cyberspace in Japan, with direct jurisdiction for the first time (historically, NPA coordinated rather than directly investigated).
 
 Alongside the Cyber Affairs Bureau, the NPA established the **National Cyber Unit** (サイバー特別捜査隊, later restructured as サイバー特別捜査部) with roughly 200 investigators to handle serious cybercrime cases, including attacks on national and local government, critical infrastructure, and significant transnational cases.
+
+## Current Status (as of 2026-04-10)
+
+**Present-day name:** 警察庁 サイバー警察局 (NPA Cyber Affairs Bureau)
+**Level:** Bureau (局), equal to other NPA bureaus
+**Status:** *Active* — no reorganization of the bureau itself since its 1 April 2022 establishment [1][5]
+
+As of April 2026 the Cyber Affairs Bureau continues to operate under the same name and structure established in 2022. However, its **statutory authority has been substantially expanded** in 2025–2026:
+
+- **Active Cyber Defense Act (ACDA):** Enacted by the Diet on **16 May 2025**, with staged implementation through 2026–2027. The law expands the NPA's powers to include **active cyber defense measures**, including remote access to and neutralization of hostile infrastructure abroad, monitoring of cross-border IP traffic (subject to independent oversight), and counter-access against relay servers [5][6].
+- **New National Cybersecurity Office (NCO):** In July 2025 the Cabinet Secretariat's NISC was restructured as the National Cybersecurity Office (NCO). The NCO coordinates but does not absorb the NPA Cyber Affairs Bureau — operational cybercrime enforcement authority remains with the NPA [5].
+- **2025 Cybersecurity Strategy:** On 23 December 2025 Japan adopted a new Cybersecurity Strategy that incorporates the ACDA framework and clarifies the NPA and SDF role in active cyber defense [5].
+- **Cybercrime caseload continues to rise:** The bureau is *highly likely* handling a growing caseload of North Korea–linked cryptocurrency theft, ransomware, and transnational scam investigations.
+
+The bureau *almost certainly* retains its original mandate plus the newly granted active-defense authorities. An independent oversight body has been established to approve active-defense operations, addressing domestic privacy concerns from the Diet debate.
+
+## History and Reorganizations
+
+| Date | Event | Reference |
+|---|---|---|
+| 2022-04-01 | **Cyber Affairs Bureau (サイバー警察局)** established by restructuring Info-Communications Bureau | [1][3] |
+| 2022-04-01 | **National Cyber Unit** (サイバー特別捜査隊) launched with ~200 investigators, direct national jurisdiction for serious cybercrime | [1][3] |
+| 2025-05-16 | **Active Cyber Defense Act** passed by the Diet, expanding NPA authority for active cyber measures | [5][6] |
+| 2025-07 | **NISC restructured as National Cybersecurity Office (NCO)** within the Cabinet Secretariat; NPA operational role preserved | [5] |
+| 2025-12-23 | Japan adopts **new Cybersecurity Strategy** incorporating ACDA framework | [5] |
+| 2026–2027 | Staged ACDA implementation; NPA operational use of active-defense powers begins | [5][6] |
 
 ## Mandate and Authority
 
@@ -100,3 +128,5 @@ Japan's cybercrime international cooperation capacity is *likely* growing rapidl
 | [2] | National Police Agency (Japan) | Wikipedia | n.d. | https://en.wikipedia.org/wiki/National_Police_Agency_(Japan) |
 | [3] | Japan NPA establish new bureau to combat serious cybercrimes | Japan Anti Fraud Organization | 2022 | https://japanantifraud.org/japan-national-police-agency-establish-new-bureau-to-combat-serious-cybercrimes/ |
 | [4] | Threats in Cyberspace 2022 | Japan NPA | 2022 | https://www.npa.go.jp/english/bureau/cyber/document/threatsincyberspace2022.pdf |
+| [5] | Japan adopts new cybersecurity strategy for police and SDF | The Japan Times | 2025-12-23 | https://www.japantimes.co.jp/news/2025/12/23/japan/crime-legal/new-cybersecurity-strategy-police-sdf/ |
+| [6] | Japan's new Active Cyber Defense Law: A Strategic Evolution | Center for Cybersecurity Policy | 2025 | https://www.centerforcybersecuritypolicy.org/insights-and-research/japans-new-active-cyber-defense-law-a-strategic-evolution-in-national-cybersecurity |

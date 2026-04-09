@@ -1,50 +1,55 @@
 ---
-type: country
-title: "Kingdom of Morocco"
-iso_code: "MA"
-legal_system: "mixed"
-region: "north-africa"
-cybercrime_legislation:
-  primary_law: "Law No. 07-03 completing the Penal Code (Articles 607-3 to 607-11)"
-  primary_law_date: "2003-11-11"
-  procedural_powers:
-    - "search-and-seizure"
-    - "production-order"
-    - "preservation-order"
-  data_retention: "unknown"
-treaty_memberships:
-  - framework: "[[budapest-convention]]"
-    status: "party"
-    date: "2018-06-29"
-    reservations: []
-  - framework: "[[first-additional-protocol-xenophobia]]"
-    status: "party"
-    date: "2018-06-29"
-    reservations: []
-  - framework: "[[malabo-convention]]"
-    status: "non-party"
-    date: ""
-    reservations: []
-central_authority:
-  mlat: "Ministry of Justice of Morocco"
-  budapest: "Directorate General for National Security (DGSN) — Cybercrime Unit"
-key_agencies:
-  - "[[morocco-dgsn]]"
-  - "[[morocco-dgst]]"
-  - "[[maroc-cert]]"
-ic_capacity:
-  rating: "medium"
-  digital_forensics: "medium"
-  24_7_availability: true
-  english_proficiency: "medium"
-  avg_mlat_response_days: "unknown"
 bilateral_agreements: []
-operations_participated: []
+central_authority:
+  budapest: Directorate General for National Security (DGSN) — Cybercrime Unit
+  mlat: Ministry of Justice of Morocco
+cooperation_assessment: Morocco is *likely* a medium-capacity cooperation partner
+  in North Africa. It acceded to the Budapest Convention in 2018 (entry into force
+  October 2018), making it one of only a few African parties. Morocco has **not**
+  ratified the AU's Malabo Convention, distinguishing it from other African states.
+  French is the working diplomatic language, with Arabic as primary.
+created: 2026-04-10
+cybercrime_legislation:
+  data_retention: unknown
+  primary_law: Law No. 07-03 completing the Penal Code (Articles 607-3 to 607-11)
+  primary_law_date: '2003-11-11'
+  procedural_powers:
+  - search-and-seizure
+  - production-order
+  - preservation-order
+ic_capacity:
+  24_7_availability: true
+  avg_mlat_response_days: unknown
+  digital_forensics: medium
+  english_proficiency: medium
+  rating: medium
+iso_code: MA
+key_agencies:
+- '[[morocco-dgsn]]'
+- '[[morocco-dgst]]'
+- '[[maroc-cert]]'
+last_verified: '2026-04-10'
+legal_system: mixed
 notable_cases: []
-cooperation_assessment: "Morocco is *likely* a medium-capacity cooperation partner in North Africa. It acceded to the Budapest Convention in 2018 (entry into force October 2018), making it one of only a few African parties. Morocco has **not** ratified the AU's Malabo Convention, distinguishing it from other African states. French is the working diplomatic language, with Arabic as primary."
+operations_participated: []
+region: north-africa
 source_count: 0
 sources: []
-created: 2026-04-10
+title: Kingdom of Morocco
+treaty_memberships:
+- date: '2018-06-29'
+  framework: '[[budapest-convention]]'
+  reservations: []
+  status: party
+- date: '2018-06-29'
+  framework: '[[first-additional-protocol-xenophobia]]'
+  reservations: []
+  status: party
+- date: ''
+  framework: '[[malabo-convention]]'
+  reservations: []
+  status: non-party
+type: country
 updated: 2026-04-10
 ---
 

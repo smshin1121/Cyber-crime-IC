@@ -14,6 +14,7 @@ key_roles:
 - Operational and investigative activities against cyber offences
 - Cyber defense support during armed conflict (since 2022)
 - International cooperation with Europol, Interpol, and FBI
+last_verified: '2026-04-10'
 mandate: Interregional territorial body of the Ukrainian National Police responsible
   for implementing state policy on combating cybercrime, conducting operational and
   investigative activities against offences involving computers, computer systems,
@@ -27,6 +28,7 @@ parent_org: Національна поліція України (National Polic
   Internal Affairs of Ukraine
 source_count: 3
 sources: []
+status: active
 title: Cyber Police of Ukraine — Department of Cyber Police
 type: organization
 updated: '2026-04-09'

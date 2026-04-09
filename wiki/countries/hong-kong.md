@@ -1,38 +1,48 @@
 ---
-type: country
-title: "Hong Kong Special Administrative Region"
-iso_code: "HK"
-legal_system: "common-law"
-region: "east-asia"
-cybercrime_legislation:
-  primary_law: "Crimes Ordinance (Cap. 200); Telecommunications Ordinance (Cap. 106); Theft Ordinance (Cap. 210)"
-  primary_law_date: "1993"
-  procedural_powers:
-    - "search-and-seizure"
-    - "production-order"
-  data_retention: "unknown"
-treaty_memberships:
-  - framework: "[[budapest-convention]]"
-    status: "non-party"
-    date: ""
-    reservations: []
-central_authority:
-  mlat: "Department of Justice of Hong Kong — International Law Division (MLA Unit)"
-  budapest: "not applicable"
-key_agencies: []
-ic_capacity:
-  rating: "high"
-  digital_forensics: "high"
-  24_7_availability: true
-  english_proficiency: "high"
-  avg_mlat_response_days: "unknown"
 bilateral_agreements: []
-operations_participated: []
+central_authority:
+  budapest: not applicable
+  mlat: Department of Justice of Hong Kong — International Law Division (MLA Unit)
+cooperation_assessment: Hong Kong is *highly likely* a technically capable jurisdiction
+  with a well-resourced Cyber Security and Technology Crime Bureau (CSTCB) within
+  the Hong Kong Police Force. However, cybercrime provisions are scattered across
+  outdated ordinances (Crimes, Telecommunications) rather than a unified cybercrime
+  statute. As a Special Administrative Region of China, Hong Kong is not and cannot
+  independently be a party to the Budapest Convention; China has declined to join.
+  The Hong Kong Law Reform Commission issued a consultation paper (2022) and report
+  on cyber-dependent crimes drawing on both the Budapest Convention and UN Cybercrime
+  Convention frameworks.
+created: 2026-04-10
+cybercrime_legislation:
+  data_retention: unknown
+  primary_law: Crimes Ordinance (Cap. 200); Telecommunications Ordinance (Cap. 106);
+    Theft Ordinance (Cap. 210)
+  primary_law_date: '1993'
+  procedural_powers:
+  - search-and-seizure
+  - production-order
+ic_capacity:
+  24_7_availability: true
+  avg_mlat_response_days: unknown
+  digital_forensics: high
+  english_proficiency: high
+  rating: high
+iso_code: HK
+key_agencies: []
+last_verified: '2026-04-10'
+legal_system: common-law
 notable_cases: []
-cooperation_assessment: "Hong Kong is *highly likely* a technically capable jurisdiction with a well-resourced Cyber Security and Technology Crime Bureau (CSTCB) within the Hong Kong Police Force. However, cybercrime provisions are scattered across outdated ordinances (Crimes, Telecommunications) rather than a unified cybercrime statute. As a Special Administrative Region of China, Hong Kong is not and cannot independently be a party to the Budapest Convention; China has declined to join. The Hong Kong Law Reform Commission issued a consultation paper (2022) and report on cyber-dependent crimes drawing on both the Budapest Convention and UN Cybercrime Convention frameworks."
+operations_participated: []
+region: east-asia
 source_count: 0
 sources: []
-created: 2026-04-10
+title: Hong Kong Special Administrative Region
+treaty_memberships:
+- date: ''
+  framework: '[[budapest-convention]]'
+  reservations: []
+  status: non-party
+type: country
 updated: 2026-04-10
 ---
 

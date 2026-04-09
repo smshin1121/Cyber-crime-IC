@@ -22,6 +22,7 @@ key_roles:
 - Produces actionable cybercrime intelligence
 - Operates national public cybercrime reporting mechanism (with Canadian Anti-Fraud
   Centre)
+last_verified: '2026-04-10'
 mandate: Enable a coordinated Canadian law enforcement response to cybercrime by coordinating
   investigations, providing digital investigative support, producing cybercrime intelligence,
   and operating a national public reporting mechanism.
@@ -37,6 +38,7 @@ org_type: national-unit
 parent_org: '[[canada-rcmp-federal-policing]]'
 source_count: 3
 sources: []
+status: active
 title: RCMP — National Cybercrime Coordination Centre (NC3)
 type: organization
 updated: '2026-04-09'

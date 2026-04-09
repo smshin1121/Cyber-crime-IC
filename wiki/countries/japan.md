@@ -1,53 +1,61 @@
 ---
-type: country
-title: "Japan"
-iso_code: "JP"
-legal_system: "civil-law"
-region: "east-asia"
-cybercrime_legislation:
-  primary_law: "不正アクセス禁止法 (Unauthorized Computer Access Act, Act No. 128 of 1999)"
-  primary_law_date: "2000-02-13"
-  procedural_powers:
-    - "search-and-seizure"
-    - "production-order"
-    - "preservation-order"
-    - "interception"
-  data_retention: "No mandatory data retention; voluntary preservation via provider cooperation"
-treaty_memberships:
-  - framework: "[[budapest-convention]]"
-    status: "party"
-    date: "2012-07-03"
-    reservations: []
-  - framework: "[[second-additional-protocol]]"
-    status: "signatory"
-    date: "2022"
-    reservations: []
-central_authority:
-  mlat: "Ministry of Justice, International Affairs Division"
-  budapest: "National Police Agency (NPA)"
-key_agencies:
-  - "[[japan-npa]]"
-  - "[[japan-jc3]]"
-ic_capacity:
-  rating: "high"
-  digital_forensics: "high"
-  24_7_availability: true
-  english_proficiency: "medium"
-  avg_mlat_response_days: "90-180"
 bilateral_agreements:
-  - "[[us-japan-mlat]]"
-operations_participated:
-  - "[[operation-haechi-v]]"
-  - "[[operation-haechi-vi]]"
-  - "[[operation-cyber-guardian]]"
-  - "[[operation-first-light-2024]]"
-  - "[[operation-synergia-ii]]"
-  - "[[operation-cronos-phase1]]"
+- '[[us-japan-mlat]]'
+central_authority:
+  budapest: National Police Agency (NPA)
+  mlat: Ministry of Justice, International Affairs Division
+cooperation_assessment: Japan is a highly capable cooperation partner with advanced
+  digital forensics capacity and comprehensive cybercrime legislation. As the first
+  Asian country to join the Budapest Convention (2012), Japan has served as a bridge
+  for Convention outreach in the Asia-Pacific. Japan's NPA maintains strong bilateral
+  relationships with US, Korean, and European counterparts. Language barriers and
+  a cautious procedural approach may slow response times, but overall capability is
+  high.
+created: 2026-04-08
+cybercrime_legislation:
+  data_retention: No mandatory data retention; voluntary preservation via provider
+    cooperation
+  primary_law: 不正アクセス禁止法 (Unauthorized Computer Access Act, Act No. 128 of 1999)
+  primary_law_date: '2000-02-13'
+  procedural_powers:
+  - search-and-seizure
+  - production-order
+  - preservation-order
+  - interception
+ic_capacity:
+  24_7_availability: true
+  avg_mlat_response_days: 90-180
+  digital_forensics: high
+  english_proficiency: medium
+  rating: high
+iso_code: JP
+key_agencies:
+- '[[japan-npa]]'
+- '[[japan-jc3]]'
+last_verified: '2026-04-10'
+legal_system: civil-law
 notable_cases: []
-cooperation_assessment: "Japan is a highly capable cooperation partner with advanced digital forensics capacity and comprehensive cybercrime legislation. As the first Asian country to join the Budapest Convention (2012), Japan has served as a bridge for Convention outreach in the Asia-Pacific. Japan's NPA maintains strong bilateral relationships with US, Korean, and European counterparts. Language barriers and a cautious procedural approach may slow response times, but overall capability is high."
+operations_participated:
+- '[[operation-haechi-v]]'
+- '[[operation-haechi-vi]]'
+- '[[operation-cyber-guardian]]'
+- '[[operation-first-light-2024]]'
+- '[[operation-synergia-ii]]'
+- '[[operation-cronos-phase1]]'
+region: east-asia
 source_count: 0
 sources: []
-created: 2026-04-08
+title: Japan
+treaty_memberships:
+- date: '2012-07-03'
+  framework: '[[budapest-convention]]'
+  reservations: []
+  status: party
+- date: '2022'
+  framework: '[[second-additional-protocol]]'
+  reservations: []
+  status: signatory
+type: country
 updated: 2026-04-08
 ---
 

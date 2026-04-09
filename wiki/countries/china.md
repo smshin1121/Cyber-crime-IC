@@ -1,48 +1,57 @@
 ---
-type: country
-title: "People's Republic of China"
-iso_code: "CN"
-legal_system: "civil-law"
-region: "east-asia"
-cybercrime_legislation:
-  primary_law: "刑法 (Criminal Law) Art. 285-287; 网络安全法 (Cybersecurity Law, 2017)"
-  primary_law_date: "1997-10-01"
-  procedural_powers:
-    - "search-and-seizure"
-    - "production-order"
-    - "preservation-order"
-    - "interception"
-    - "real-time-collection"
-  data_retention: "网络安全法 Art. 21 — network logs retained for 6+ months; 数据安全法 (Data Security Law, 2021)"
-treaty_memberships:
-  - framework: "[[budapest-convention]]"
-    status: "non-party"
-    date: ""
-    reservations: []
-central_authority:
-  mlat: "Ministry of Justice (司法部)"
-  budapest: "N/A (not a party)"
-key_agencies:
-  - "[[china-mps]]"
-  - "[[china-mps-cyber]]"
-ic_capacity:
-  rating: "high"
-  digital_forensics: "high"
-  24_7_availability: false
-  english_proficiency: "low"
-  avg_mlat_response_days: "180+"
 bilateral_agreements:
-  - "[[korea-china-mlat]]"
-operations_participated:
-  - "[[korea-china-voice-phishing-qingdao]]"
-  - "[[operation-haechi-v]]"
-  - "[[operation-first-light-2024]]"
-  - "[[isoon-apt27-indictment]]"
+- '[[korea-china-mlat]]'
+central_authority:
+  budapest: N/A (not a party)
+  mlat: Ministry of Justice (司法部)
+cooperation_assessment: China possesses high technical capabilities for cybercrime
+  investigation but takes a sovereignty-focused approach to international cooperation.
+  China is not a Budapest Convention party and has advocated for a separate UN Cybercrime
+  Convention that better reflects its interests. Cooperation with China on ordinary
+  cybercrime (particularly cross-border fraud and voice phishing) is possible through
+  bilateral channels, as demonstrated by the Korea-China Qingdao operation. However,
+  cooperation on state-sponsored cyber operations is almost certainly not available.
+  MLAT processing is slow and politically influenced.
+created: 2026-04-08
+cybercrime_legislation:
+  data_retention: 网络安全法 Art. 21 — network logs retained for 6+ months; 数据安全法 (Data
+    Security Law, 2021)
+  primary_law: 刑法 (Criminal Law) Art. 285-287; 网络安全法 (Cybersecurity Law, 2017)
+  primary_law_date: '1997-10-01'
+  procedural_powers:
+  - search-and-seizure
+  - production-order
+  - preservation-order
+  - interception
+  - real-time-collection
+ic_capacity:
+  24_7_availability: false
+  avg_mlat_response_days: 180+
+  digital_forensics: high
+  english_proficiency: low
+  rating: high
+iso_code: CN
+key_agencies:
+- '[[china-mps]]'
+- '[[china-mps-cyber]]'
+last_verified: '2026-04-10'
+legal_system: civil-law
 notable_cases: []
-cooperation_assessment: "China possesses high technical capabilities for cybercrime investigation but takes a sovereignty-focused approach to international cooperation. China is not a Budapest Convention party and has advocated for a separate UN Cybercrime Convention that better reflects its interests. Cooperation with China on ordinary cybercrime (particularly cross-border fraud and voice phishing) is possible through bilateral channels, as demonstrated by the Korea-China Qingdao operation. However, cooperation on state-sponsored cyber operations is almost certainly not available. MLAT processing is slow and politically influenced."
+operations_participated:
+- '[[korea-china-voice-phishing-qingdao]]'
+- '[[operation-haechi-v]]'
+- '[[operation-first-light-2024]]'
+- '[[isoon-apt27-indictment]]'
+region: east-asia
 source_count: 0
 sources: []
-created: 2026-04-08
+title: People's Republic of China
+treaty_memberships:
+- date: ''
+  framework: '[[budapest-convention]]'
+  reservations: []
+  status: non-party
+type: country
 updated: 2026-04-08
 ---
 

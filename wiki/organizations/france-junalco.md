@@ -13,6 +13,7 @@ key_roles:
 - J3 section — dedicated cybercrime prosecutorial unit
 - Coordination with Europol EC3 and foreign prosecutors (Eurojust)
 - Judicial lead on French participation in international cyber operations
+last_verified: '2026-04-10'
 mandate: Specialized French national jurisdiction with concurrent nationwide competence
   over very-high-complexity organized crime cases, including cybercrime. The dedicated
   J3 section prosecutes complex cybercrime matters and coordinates international cooperation
@@ -25,6 +26,7 @@ org_type: prosecution-office
 parent_org: Parquet de Paris (Paris Public Prosecutor's Office)
 source_count: 2
 sources: []
+status: active
 title: JUNALCO — National Jurisdiction for the Fight against Organized Crime (Cybercrime
   Section J3)
 type: organization

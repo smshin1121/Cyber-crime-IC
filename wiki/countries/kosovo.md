@@ -1,39 +1,47 @@
 ---
-type: country
-title: "Republic of Kosovo"
-iso_code: "XK"
-legal_system: "civil-law"
-region: "western-balkans"
-cybercrime_legislation:
-  primary_law: "Law No. 03/L-166 on Prevention and Fight of the Cybercrime (2010); Criminal Code of the Republic of Kosovo"
-  primary_law_date: "2010"
-  procedural_powers:
-    - "search-and-seizure"
-    - "production-order"
-    - "preservation-order"
-  data_retention: "unknown"
-treaty_memberships:
-  - framework: "[[budapest-convention]]"
-    status: "non-party"
-    date: ""
-    reservations: []
-central_authority:
-  mlat: "Ministry of Justice of Kosovo — Department for International Legal Cooperation"
-  budapest: "not applicable"
-key_agencies: []
-ic_capacity:
-  rating: "low"
-  digital_forensics: "low"
-  24_7_availability: false
-  english_proficiency: "medium"
-  avg_mlat_response_days: "unknown"
 bilateral_agreements: []
-operations_participated: []
+central_authority:
+  budapest: not applicable
+  mlat: Ministry of Justice of Kosovo — Department for International Legal Cooperation
+cooperation_assessment: Kosovo is *likely* a developing cybercrime cooperation partner
+  with a dedicated cybercrime statute (Law 03/L-166, 2010) that is being reviewed.
+  Kosovo is not a party to the Budapest Convention — as a non-universally-recognised
+  state it is not a Council of Europe member and cannot accede via standard procedures.
+  However, Kosovo participates in Council of Europe Octopus project activities and
+  capacity-building programmes as a de facto participant under the 'Kosovo*' designation
+  with the standard footnote.
+created: 2026-04-10
+cybercrime_legislation:
+  data_retention: unknown
+  primary_law: Law No. 03/L-166 on Prevention and Fight of the Cybercrime (2010);
+    Criminal Code of the Republic of Kosovo
+  primary_law_date: '2010'
+  procedural_powers:
+  - search-and-seizure
+  - production-order
+  - preservation-order
+ic_capacity:
+  24_7_availability: false
+  avg_mlat_response_days: unknown
+  digital_forensics: low
+  english_proficiency: medium
+  rating: low
+iso_code: XK
+key_agencies: []
+last_verified: '2026-04-10'
+legal_system: civil-law
 notable_cases: []
-cooperation_assessment: "Kosovo is *likely* a developing cybercrime cooperation partner with a dedicated cybercrime statute (Law 03/L-166, 2010) that is being reviewed. Kosovo is not a party to the Budapest Convention — as a non-universally-recognised state it is not a Council of Europe member and cannot accede via standard procedures. However, Kosovo participates in Council of Europe Octopus project activities and capacity-building programmes as a de facto participant under the 'Kosovo*' designation with the standard footnote."
+operations_participated: []
+region: western-balkans
 source_count: 0
 sources: []
-created: 2026-04-10
+title: Republic of Kosovo
+treaty_memberships:
+- date: ''
+  framework: '[[budapest-convention]]'
+  reservations: []
+  status: non-party
+type: country
 updated: 2026-04-10
 ---
 

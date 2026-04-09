@@ -1,39 +1,45 @@
 ---
-type: country
-title: "Georgia"
-iso_code: "GE"
-legal_system: "civil-law"
-region: "south-caucasus"
-cybercrime_legislation:
-  primary_law: "Criminal Code of Georgia Chapter XXXV (Cybercrime); Law on Information Security"
-  primary_law_date: "unknown"
-  procedural_powers:
-    - "search-and-seizure"
-    - "production-order"
-    - "preservation-order"
-  data_retention: "unknown"
-treaty_memberships:
-  - framework: "[[budapest-convention]]"
-    status: "party"
-    date: "2012-06-06"
-    reservations: []
-central_authority:
-  mlat: "Ministry of Justice of Georgia"
-  budapest: "unknown"
-key_agencies: []
-ic_capacity:
-  rating: "medium"
-  digital_forensics: "medium"
-  24_7_availability: true
-  english_proficiency: "medium"
-  avg_mlat_response_days: "unknown"
 bilateral_agreements: []
-operations_participated: []
+central_authority:
+  budapest: unknown
+  mlat: Ministry of Justice of Georgia
+cooperation_assessment: Georgia is *likely* a medium-capacity cooperation partner.
+  As a party to the Budapest Convention (in force 2012) and a Council of Europe member
+  state, Georgia participates in Octopus project activities and has received extensive
+  capacity-building assistance. The country is a Budapest Convention 24/7 point of
+  contact participant.
+created: 2026-04-10
+cybercrime_legislation:
+  data_retention: unknown
+  primary_law: Criminal Code of Georgia Chapter XXXV (Cybercrime); Law on Information
+    Security
+  primary_law_date: unknown
+  procedural_powers:
+  - search-and-seizure
+  - production-order
+  - preservation-order
+ic_capacity:
+  24_7_availability: true
+  avg_mlat_response_days: unknown
+  digital_forensics: medium
+  english_proficiency: medium
+  rating: medium
+iso_code: GE
+key_agencies: []
+last_verified: '2026-04-10'
+legal_system: civil-law
 notable_cases: []
-cooperation_assessment: "Georgia is *likely* a medium-capacity cooperation partner. As a party to the Budapest Convention (in force 2012) and a Council of Europe member state, Georgia participates in Octopus project activities and has received extensive capacity-building assistance. The country is a Budapest Convention 24/7 point of contact participant."
+operations_participated: []
+region: south-caucasus
 source_count: 0
 sources: []
-created: 2026-04-10
+title: Georgia
+treaty_memberships:
+- date: '2012-06-06'
+  framework: '[[budapest-convention]]'
+  reservations: []
+  status: party
+type: country
 updated: 2026-04-10
 ---
 

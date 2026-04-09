@@ -1,46 +1,53 @@
 ---
-type: country
-title: "Republic of Latvia"
-iso_code: "LV"
-legal_system: "civil-law"
-region: "eastern-europe"
-cybercrime_legislation:
-  primary_law: "Criminal Law (Krimināllikums), Chapter XX — Offences against automated data processing"
-  primary_law_date: "1998"
-  procedural_powers:
-    - "search-and-seizure"
-    - "production-order"
-    - "preservation-order"
-    - "interception"
-  data_retention: "EU Data Retention Directive implementation (contested post-CJEU rulings)"
-treaty_memberships:
-  - framework: "[[budapest-convention]]"
-    status: "party"
-    date: "2007-02-14"
-    reservations: []
-  - framework: "[[first-additional-protocol-xenophobia]]"
-    status: "party"
-    date: "2006-10-05"
-    reservations: []
-central_authority:
-  mlat: "Ministry of Justice of Latvia (Tieslietu ministrija)"
-  budapest: "State Police (Valsts policija) — Cybercrime Combating Unit"
-key_agencies:
-  - "[[latvia-state-police]]"
-  - "[[cert-lv]]"
-ic_capacity:
-  rating: "medium"
-  digital_forensics: "medium"
-  24_7_availability: true
-  english_proficiency: "high"
-  avg_mlat_response_days: "unknown"
 bilateral_agreements: []
-operations_participated: []
+central_authority:
+  budapest: State Police (Valsts policija) — Cybercrime Combating Unit
+  mlat: Ministry of Justice of Latvia (Tieslietu ministrija)
+cooperation_assessment: Latvia is *highly likely* a capable cooperation partner within
+  the EU framework, benefiting from full Budapest Convention party status since 2007
+  and integration into Europol/Eurojust. As a small EU member state, Latvia's operational
+  capacity is more limited than larger partners but its legal framework is fully harmonized
+  with EU and Council of Europe standards.
+created: 2026-04-10
+cybercrime_legislation:
+  data_retention: EU Data Retention Directive implementation (contested post-CJEU
+    rulings)
+  primary_law: Criminal Law (Krimināllikums), Chapter XX — Offences against automated
+    data processing
+  primary_law_date: '1998'
+  procedural_powers:
+  - search-and-seizure
+  - production-order
+  - preservation-order
+  - interception
+ic_capacity:
+  24_7_availability: true
+  avg_mlat_response_days: unknown
+  digital_forensics: medium
+  english_proficiency: high
+  rating: medium
+iso_code: LV
+key_agencies:
+- '[[latvia-state-police]]'
+- '[[cert-lv]]'
+last_verified: '2026-04-10'
+legal_system: civil-law
 notable_cases: []
-cooperation_assessment: "Latvia is *highly likely* a capable cooperation partner within the EU framework, benefiting from full Budapest Convention party status since 2007 and integration into Europol/Eurojust. As a small EU member state, Latvia's operational capacity is more limited than larger partners but its legal framework is fully harmonized with EU and Council of Europe standards."
+operations_participated: []
+region: eastern-europe
 source_count: 0
 sources: []
-created: 2026-04-10
+title: Republic of Latvia
+treaty_memberships:
+- date: '2007-02-14'
+  framework: '[[budapest-convention]]'
+  reservations: []
+  status: party
+- date: '2006-10-05'
+  framework: '[[first-additional-protocol-xenophobia]]'
+  reservations: []
+  status: party
+type: country
 updated: 2026-04-10
 ---
 

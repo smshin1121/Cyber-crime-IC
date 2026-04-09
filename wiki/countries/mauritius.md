@@ -1,45 +1,51 @@
 ---
-type: country
-title: "Republic of Mauritius"
-iso_code: "MU"
-legal_system: "mixed"
-region: "east-africa"
-cybercrime_legislation:
-  primary_law: "Cybersecurity and Cybercrime Act 2021 (replacing Computer Misuse and Cybercrime Act 2003)"
-  primary_law_date: "2021"
-  procedural_powers:
-    - "search-and-seizure"
-    - "production-order"
-    - "preservation-order"
-  data_retention: "unknown"
-treaty_memberships:
-  - framework: "[[budapest-convention]]"
-    status: "party"
-    date: "2013-11-15"
-    reservations: []
-  - framework: "[[malabo-convention]]"
-    status: "party"
-    date: "2018-03-14"
-    reservations: []
-central_authority:
-  mlat: "Attorney General's Office of Mauritius"
-  budapest: "Mauritian Police Force — Cybercrime Unit"
-key_agencies:
-  - "[[mauritius-police-cybercrime]]"
-  - "[[cert-mu]]"
-ic_capacity:
-  rating: "medium"
-  digital_forensics: "medium"
-  24_7_availability: true
-  english_proficiency: "high"
-  avg_mlat_response_days: "unknown"
 bilateral_agreements: []
-operations_participated: []
+central_authority:
+  budapest: Mauritian Police Force — Cybercrime Unit
+  mlat: Attorney General's Office of Mauritius
+cooperation_assessment: Mauritius is **almost certainly** the most internationally
+  integrated African country on cybercrime cooperation. It was the first African state
+  to accede to the Budapest Convention (2013) and has also ratified the AU's Malabo
+  Convention (2018), making it a rare dual-framework party. Mauritius is frequently
+  cited as a model for African capacity building.
+created: 2026-04-10
+cybercrime_legislation:
+  data_retention: unknown
+  primary_law: Cybersecurity and Cybercrime Act 2021 (replacing Computer Misuse and
+    Cybercrime Act 2003)
+  primary_law_date: '2021'
+  procedural_powers:
+  - search-and-seizure
+  - production-order
+  - preservation-order
+ic_capacity:
+  24_7_availability: true
+  avg_mlat_response_days: unknown
+  digital_forensics: medium
+  english_proficiency: high
+  rating: medium
+iso_code: MU
+key_agencies:
+- '[[mauritius-police-cybercrime]]'
+- '[[cert-mu]]'
+last_verified: '2026-04-10'
+legal_system: mixed
 notable_cases: []
-cooperation_assessment: "Mauritius is **almost certainly** the most internationally integrated African country on cybercrime cooperation. It was the first African state to accede to the Budapest Convention (2013) and has also ratified the AU's Malabo Convention (2018), making it a rare dual-framework party. Mauritius is frequently cited as a model for African capacity building."
+operations_participated: []
+region: east-africa
 source_count: 0
 sources: []
-created: 2026-04-10
+title: Republic of Mauritius
+treaty_memberships:
+- date: '2013-11-15'
+  framework: '[[budapest-convention]]'
+  reservations: []
+  status: party
+- date: '2018-03-14'
+  framework: '[[malabo-convention]]'
+  reservations: []
+  status: party
+type: country
 updated: 2026-04-10
 ---
 

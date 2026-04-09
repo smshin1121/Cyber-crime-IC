@@ -17,6 +17,7 @@ key_roles:
 - Cyber fraud and technological crime
 - Online child protection
 - Europol EC3 participation
+last_verified: '2026-04-10'
 mandate: Specialized cybercrime investigation unit of the Spanish Guardia Civil; integrated
   in the Central Operational Unit (UCO); investigates hacking, cyber fraud, online
   child sexual exploitation, and technological crime.
@@ -31,6 +32,7 @@ org_type: national-unit
 parent_org: '[[spain-guardia-civil]]'
 source_count: 0
 sources: []
+status: active
 title: Guardia Civil — Grupo de Delitos Telemáticos (GDT)
 type: organization
 updated: '2026-04-09'

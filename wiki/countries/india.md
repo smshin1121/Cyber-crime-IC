@@ -1,39 +1,48 @@
 ---
-type: country
-title: "Republic of India"
-iso_code: "IN"
-legal_system: "common-law"
-region: "south-asia"
-cybercrime_legislation:
-  primary_law: "Information Technology Act, 2000 (as amended by the IT Amendment Act, 2008); Indian Penal Code / Bharatiya Nyaya Sanhita"
-  primary_law_date: "2000-06-09"
-  procedural_powers:
-    - "search-and-seizure"
-    - "production-order"
-    - "interception"
-  data_retention: "Regulated under IT Act and IT (Intermediary Guidelines) Rules; CERT-In Directions 2022 require 180-day log retention for VPNs, cloud providers"
-treaty_memberships:
-  - framework: "[[budapest-convention]]"
-    status: "non-party"
-    date: ""
-    reservations: []
-central_authority:
-  mlat: "Ministry of Home Affairs — CBI (Central Bureau of Investigation) / Internal Security Division"
-  budapest: "not applicable"
-key_agencies: []
-ic_capacity:
-  rating: "medium"
-  digital_forensics: "medium"
-  24_7_availability: true
-  english_proficiency: "high"
-  avg_mlat_response_days: "180+"
 bilateral_agreements: []
-operations_participated: []
+central_authority:
+  budapest: not applicable
+  mlat: Ministry of Home Affairs — CBI (Central Bureau of Investigation) / Internal
+    Security Division
+cooperation_assessment: India is *highly likely* a consequential but complex cooperation
+  partner. As the world's most populous country and a major source/destination of
+  cross-border cybercrime, India has significant operational capacity (CERT-In, CBI
+  Cybercrime Wing) but declines Budapest Convention accession on sovereignty grounds.
+  India has instead championed the UN Cybercrime Convention process. MLAT response
+  times are *likely* 180+ days on average.
+created: 2026-04-10
+cybercrime_legislation:
+  data_retention: Regulated under IT Act and IT (Intermediary Guidelines) Rules; CERT-In
+    Directions 2022 require 180-day log retention for VPNs, cloud providers
+  primary_law: Information Technology Act, 2000 (as amended by the IT Amendment Act,
+    2008); Indian Penal Code / Bharatiya Nyaya Sanhita
+  primary_law_date: '2000-06-09'
+  procedural_powers:
+  - search-and-seizure
+  - production-order
+  - interception
+ic_capacity:
+  24_7_availability: true
+  avg_mlat_response_days: 180+
+  digital_forensics: medium
+  english_proficiency: high
+  rating: medium
+iso_code: IN
+key_agencies: []
+last_verified: '2026-04-10'
+legal_system: common-law
 notable_cases: []
-cooperation_assessment: "India is *highly likely* a consequential but complex cooperation partner. As the world's most populous country and a major source/destination of cross-border cybercrime, India has significant operational capacity (CERT-In, CBI Cybercrime Wing) but declines Budapest Convention accession on sovereignty grounds. India has instead championed the UN Cybercrime Convention process. MLAT response times are *likely* 180+ days on average."
+operations_participated: []
+region: south-asia
 source_count: 0
 sources: []
-created: 2026-04-10
+title: Republic of India
+treaty_memberships:
+- date: ''
+  framework: '[[budapest-convention]]'
+  reservations: []
+  status: non-party
+type: country
 updated: 2026-04-10
 ---
 

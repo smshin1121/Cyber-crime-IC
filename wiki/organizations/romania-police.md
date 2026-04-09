@@ -19,6 +19,7 @@ key_roles:
 - Secondary 24/7 contact point (Budapest Convention)
 - Digital forensics
 - Operational support to DIICOT prosecutions
+last_verified: '2026-04-10'
 mandate: Romanian National Police (Poliția Română) specialized service for preventing
   and investigating cybercrime; operates under the Directorate for Countering Organized
   Criminality (DCCO) within the General Inspectorate of the Romanian Police.
@@ -34,6 +35,7 @@ org_type: national-unit
 parent_org: '[[romania-police]]'
 source_count: 0
 sources: []
+status: active
 title: Romanian National Police — Service for Combating Cybercrime (DCCO)
 type: organization
 updated: '2026-04-09'

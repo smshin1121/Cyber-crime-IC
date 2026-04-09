@@ -19,6 +19,7 @@ key_roles:
 - Protect the Defense Industrial Base (DIB) from criminal cyber threats
 - Procurement fraud, illegal technology transfer, and public corruption investigations
 - Cooperation with FBI, NCIS, AFOSI, and CID on joint DoD cybercrime cases
+last_verified: '2026-04-10'
 mandate: Investigate criminal activities involving US Department of Defense Components
   and DoD contractors, including cybercrime against DoD networks, the Defense Industrial
   Base, and the DoD Global Information Grid. Operate the DCIS Cyber Field Office for
@@ -33,6 +34,7 @@ org_type: national-unit
 parent_org: '[[dod-inspector-general]]'
 source_count: 4
 sources: []
+status: active
 title: US Defense Criminal Investigative Service
 type: organization
 updated: '2026-04-09'

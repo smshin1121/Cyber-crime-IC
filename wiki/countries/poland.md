@@ -1,45 +1,50 @@
 ---
-type: country
-title: "Republic of Poland"
-iso_code: "PL"
-legal_system: "civil-law"
-region: "eastern-europe"
-cybercrime_legislation:
-  primary_law: "Criminal Code (Kodeks karny) Arts. 267-269b; Act on Combating Cybercrime / CBZC Act 2022"
-  primary_law_date: "1997-06-06"
-  procedural_powers:
-    - "search-and-seizure"
-    - "production-order"
-    - "preservation-order"
-    - "interception"
-  data_retention: "unknown"
-treaty_memberships:
-  - framework: "[[budapest-convention]]"
-    status: "party"
-    date: "2015-02-20"
-    reservations: []
-  - framework: "[[second-additional-protocol]]"
-    status: "signatory"
-    date: "2022-05-12"
-    reservations: []
-central_authority:
-  mlat: "Ministry of Justice (Ministerstwo Sprawiedliwości)"
-  budapest: "Police Headquarters / CBZC"
-key_agencies:
-  - "[[poland-police]]"
-ic_capacity:
-  rating: "medium"
-  digital_forensics: "medium"
-  24_7_availability: true
-  english_proficiency: "medium"
-  avg_mlat_response_days: "unknown"
 bilateral_agreements: []
-operations_participated: []
+central_authority:
+  budapest: Police Headquarters / CBZC
+  mlat: Ministry of Justice (Ministerstwo Sprawiedliwości)
+cooperation_assessment: Poland is *highly likely* to be a capable EU cybercrime cooperation
+  partner via Europol, Eurojust, and bilateral channels. The establishment of the
+  Central Bureau for Combating Cybercrime (CBZC) in 2022 substantially consolidated
+  cybercrime capacity. Poland is a Budapest Convention party.
+created: 2026-04-10
+cybercrime_legislation:
+  data_retention: unknown
+  primary_law: Criminal Code (Kodeks karny) Arts. 267-269b; Act on Combating Cybercrime
+    / CBZC Act 2022
+  primary_law_date: '1997-06-06'
+  procedural_powers:
+  - search-and-seizure
+  - production-order
+  - preservation-order
+  - interception
+ic_capacity:
+  24_7_availability: true
+  avg_mlat_response_days: unknown
+  digital_forensics: medium
+  english_proficiency: medium
+  rating: medium
+iso_code: PL
+key_agencies:
+- '[[poland-police]]'
+last_verified: '2026-04-10'
+legal_system: civil-law
 notable_cases: []
-cooperation_assessment: "Poland is *highly likely* to be a capable EU cybercrime cooperation partner via Europol, Eurojust, and bilateral channels. The establishment of the Central Bureau for Combating Cybercrime (CBZC) in 2022 substantially consolidated cybercrime capacity. Poland is a Budapest Convention party."
+operations_participated: []
+region: eastern-europe
 source_count: 3
 sources: []
-created: 2026-04-10
+title: Republic of Poland
+treaty_memberships:
+- date: '2015-02-20'
+  framework: '[[budapest-convention]]'
+  reservations: []
+  status: party
+- date: '2022-05-12'
+  framework: '[[second-additional-protocol]]'
+  reservations: []
+  status: signatory
+type: country
 updated: 2026-04-10
 ---
 

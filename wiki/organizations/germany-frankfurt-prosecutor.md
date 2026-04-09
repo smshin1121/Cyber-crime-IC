@@ -1,34 +1,39 @@
 ---
-type: organization
-title: "Central Office for Combating Internet Crime (ZIT) — Frankfurt am Main"
-official_name: "Zentralstelle zur Bekämpfung der Internetkriminalität"
 aliases:
-  - ZIT
-  - ZIT Frankfurt
-  - Generalstaatsanwaltschaft Frankfurt ZIT
-  - Internet-Staatsanwaltschaft
-org_type: "prosecution-office"
-parent_org: "Generalstaatsanwaltschaft Frankfurt am Main (Hessen)"
-country: "[[germany]]"
-headquarters: "Frankfurt am Main, Germany"
-established: "2010-01-01"
-mandate: "Central German prosecutorial office for internet crime, serving as first point of contact for the BKA on internet crimes with unclear jurisdiction or nationwide mass proceedings. Handles complex investigations in darknet crime, cybercrime (sensu stricto), online child sexual abuse, and online hate crime."
-key_roles:
-  - Primary BKA prosecutorial partner for nationwide internet crime cases
-  - Darknet marketplace takedown prosecutions
-  - Nationwide jurisdiction allocation for internet crimes
-  - Training for judges, prosecutors and police on cybercrime
-  - Founding member of the Judicial Cybercrime Network (EU)
-operations_participated:
-  - "[[operation-avalanche]]"
-  - "[[operation-endgame-phase1]]"
-  - "[[operation-endgame-phase2]]"
-  - "[[operation-cronos-phase1]]"
-notable_cases: []
+- ZIT
+- ZIT Frankfurt
+- Generalstaatsanwaltschaft Frankfurt ZIT
+- Internet-Staatsanwaltschaft
 contact_point_for: []
+country: '[[germany]]'
+created: 2026-04-10
+established: '2010-01-01'
+headquarters: Frankfurt am Main, Germany
+key_roles:
+- Primary BKA prosecutorial partner for nationwide internet crime cases
+- Darknet marketplace takedown prosecutions
+- Nationwide jurisdiction allocation for internet crimes
+- Training for judges, prosecutors and police on cybercrime
+- Founding member of the Judicial Cybercrime Network (EU)
+last_verified: '2026-04-10'
+mandate: Central German prosecutorial office for internet crime, serving as first
+  point of contact for the BKA on internet crimes with unclear jurisdiction or nationwide
+  mass proceedings. Handles complex investigations in darknet crime, cybercrime (sensu
+  stricto), online child sexual abuse, and online hate crime.
+notable_cases: []
+official_name: Zentralstelle zur Bekämpfung der Internetkriminalität
+operations_participated:
+- '[[operation-avalanche]]'
+- '[[operation-endgame-phase1]]'
+- '[[operation-endgame-phase2]]'
+- '[[operation-cronos-phase1]]'
+org_type: prosecution-office
+parent_org: Generalstaatsanwaltschaft Frankfurt am Main (Hessen)
 source_count: 3
 sources: []
-created: 2026-04-10
+status: active
+title: Central Office for Combating Internet Crime (ZIT) — Frankfurt am Main
+type: organization
 updated: 2026-04-10
 ---
 

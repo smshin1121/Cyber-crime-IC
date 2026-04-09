@@ -17,6 +17,7 @@ key_roles:
 - Operational analysis and intelligence
 - Digital forensics support
 - Cybercrime threat assessment (IOCTA)
+last_verified: '2026-04-10'
 mandate: EU hub for coordinating cybercrime investigations, providing operational
   analysis, and supporting EU member states and partner countries in combating cybercrime.
 mechanisms_operated:
@@ -68,7 +69,7 @@ operations_participated:
 - '[[zeus-spyeye-takedown]]'
 org_type: regional-org
 parent_org: '[[europol-ec3]]'
-source_count: 7
+source_count: 9
 sources:
 - '[[2024-02-20-europol-operation-cronos-lockbit]]'
 - '[[2024-05-30-europol-operation-endgame-botnet-takedown]]'
@@ -78,10 +79,24 @@ sources:
 - '[[2025-05-22-doj-qakbot-gallyamov-indictment]]'
 - '[[2023-02-08-europol-franco-israeli-ceo-fraud]]'
 - '[[2025-04-04-europol-operation-stream-kidflix]]'
+status: active
 title: Europol European Cybercrime Centre (EC3)
 type: organization
-updated: '2026-04-09'
+updated: '2026-04-10'
 ---
+
+## Current Status (as of 2026-04-10)
+
+**Status:** Active. EC3 remains Europol's dedicated cybercrime centre, headquartered at Europol HQ in **The Hague, Netherlands**, operating under Europol's legal mandate (**EU Regulation 2016/794**). No structural reorganization has been publicly reported since the 2016 Regulation [8][9].
+
+**Parent and structure:** EC3 remains a unit inside **Europol** (not a standalone agency). Europol's overall Executive Director is **Catherine De Bolle** (since May 2018, reappointed 2022; four-year term still running). EC3's internal three-pillar structure (operations / forensics and technical expertise / strategy and development) is unchanged [8].
+
+**J-CAT (Joint Cybercrime Action Taskforce):** Permanent team of liaison officers from EU member states, Five Eyes partners, Japan, Korea, and other non-EU partners, co-located at EC3. Continues to be the primary mechanism for real-time operational intelligence sharing on major cybercrime targets.
+
+**Recent priorities (2024–2026):** Ransomware-as-a-Service (continued Operation Cronos / LockBit / Phobos / 8Base follow-up, Operation Endgame Phase 2 in May 2025), dropper/loader malware ecosystem disruption, cryptocurrency mixer investigations, CSAM takedowns (Operation Stream / KidFlix, April 2025), AI-enabled fraud. Annual **Internet Organised Crime Threat Assessment (IOCTA)** continues to be published.
+
+> [!note] Organizational continuity
+> EC3 is *almost certainly* the most operationally active international cybercrime coordination body; no structural reorganization is reflected in Europol's public communications as of 2026-04-10 [8][9]. The page text below remains current.
 
 ## Summary
 
@@ -153,3 +168,5 @@ The [[phobos-8base-crackdown|Phobos/8Base crackdown]] (2025) is the most directl
 | [5] | Operation Endgame strikes again: the ransomware kill chain broken at its source | Europol | 2025-05-23 | [원본](https://www.europol.europa.eu/media-press/newsroom/news/operation-endgame-strikes-again-ransomware-kill-chain-broken-its-source) |
 | [6] | Leader of Qakbot Malware Conspiracy Indicted — Gallyamov | US DOJ | 2025-05-22 | [원본](https://www.justice.gov/opa/pr/leader-qakbot-malware-conspiracy-indicted-involvement-global-ransomware-scheme) |
 | [7] | Franco-Israeli gang behind EUR 38 million CEO fraud busted | Europol | 2023-02-08 | [원본](https://www.europol.europa.eu/media-press/newsroom/news/franco-israeli-gang-behind-eur-38-million-ceo-fraud-busted) |
+| [8] | European Cybercrime Centre: Structure and Collaboration | Europol | — | https://www.europol.europa.eu/about-europol/european-cybercrime-centre-ec3/european-cybercrime-centre-structure-and-collaboration |
+| [9] | European Cybercrime Centre (EC3) — overview | Europol EC3 (ec3.pro) | — | https://www.ec3.pro/ |

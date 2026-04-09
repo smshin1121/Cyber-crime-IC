@@ -1,43 +1,48 @@
 ---
-type: country
-title: "United Republic of Tanzania"
-iso_code: "TZ"
-legal_system: "common-law"
-region: "east-africa"
-cybercrime_legislation:
-  primary_law: "Cybercrimes Act, 2015"
-  primary_law_date: "2015-04-25"
-  procedural_powers:
-    - "search-and-seizure"
-    - "production-order"
-    - "interception"
-  data_retention: "unknown"
-treaty_memberships:
-  - framework: "[[budapest-convention]]"
-    status: "non-party"
-    date: ""
-    reservations: []
-  - framework: "[[malabo-convention]]"
-    status: "non-party"
-    date: ""
-    reservations: []
-central_authority:
-  mlat: "Ministry of Constitutional and Legal Affairs"
-  budapest: ""
-key_agencies: []
-ic_capacity:
-  rating: "low"
-  digital_forensics: "low"
-  24_7_availability: false
-  english_proficiency: "high"
-  avg_mlat_response_days: "unknown"
 bilateral_agreements: []
-operations_participated: []
+central_authority:
+  budapest: ''
+  mlat: Ministry of Constitutional and Legal Affairs
+cooperation_assessment: Tanzania is a **non-party** to the Budapest Convention and
+  the African Union Malabo Convention. The 2015 Cybercrimes Act provides substantive
+  and procedural cybercrime provisions but has been criticized by civil society for
+  speech-restricting provisions. International cooperation occurs primarily through
+  Interpol and Commonwealth channels. Capacity is *likely* low.
+created: 2026-04-10
+cybercrime_legislation:
+  data_retention: unknown
+  primary_law: Cybercrimes Act, 2015
+  primary_law_date: '2015-04-25'
+  procedural_powers:
+  - search-and-seizure
+  - production-order
+  - interception
+ic_capacity:
+  24_7_availability: false
+  avg_mlat_response_days: unknown
+  digital_forensics: low
+  english_proficiency: high
+  rating: low
+iso_code: TZ
+key_agencies: []
+last_verified: '2026-04-10'
+legal_system: common-law
 notable_cases: []
-cooperation_assessment: "Tanzania is a **non-party** to the Budapest Convention and the African Union Malabo Convention. The 2015 Cybercrimes Act provides substantive and procedural cybercrime provisions but has been criticized by civil society for speech-restricting provisions. International cooperation occurs primarily through Interpol and Commonwealth channels. Capacity is *likely* low."
+operations_participated: []
+region: east-africa
 source_count: 2
 sources: []
-created: 2026-04-10
+title: United Republic of Tanzania
+treaty_memberships:
+- date: ''
+  framework: '[[budapest-convention]]'
+  reservations: []
+  status: non-party
+- date: ''
+  framework: '[[malabo-convention]]'
+  reservations: []
+  status: non-party
+type: country
 updated: 2026-04-10
 ---
 

@@ -1,47 +1,54 @@
 ---
-type: country
-title: "Romania"
-iso_code: "RO"
-legal_system: "civil-law"
-region: "eastern-europe"
-cybercrime_legislation:
-  primary_law: "Law 161/2003 (Title III — Preventing and Combating Cybercrime); Criminal Code Arts. 360-366"
-  primary_law_date: "2003-04-19"
-  procedural_powers:
-    - "search-and-seizure"
-    - "production-order"
-    - "preservation-order"
-    - "interception"
-    - "real-time-collection"
-  data_retention: "Contested; constitutional court struck down initial retention law"
-treaty_memberships:
-  - framework: "[[budapest-convention]]"
-    status: "party"
-    date: "2004-09-12"
-    reservations: []
-  - framework: "[[second-additional-protocol]]"
-    status: "signatory"
-    date: "2022-05-12"
-    reservations: []
-central_authority:
-  mlat: "Ministry of Justice (Ministerul Justiției)"
-  budapest: "DIICOT / Romanian Police"
-key_agencies:
-  - "[[romania-diicot]]"
-  - "[[romania-police]]"
-ic_capacity:
-  rating: "high"
-  digital_forensics: "high"
-  24_7_availability: true
-  english_proficiency: "medium"
-  avg_mlat_response_days: "unknown"
 bilateral_agreements: []
-operations_participated: []
+central_authority:
+  budapest: DIICOT / Romanian Police
+  mlat: Ministry of Justice (Ministerul Justiției)
+cooperation_assessment: Romania is *almost certainly* one of the most active eastern
+  European cybercrime cooperation partners. It is an early Budapest Convention party
+  (2004), hosts the Council of Europe's Cybercrime Programme Office ([[c-proc]]) in
+  Bucharest, and has a dedicated specialized prosecutor service (DIICOT). Romania
+  has been heavily involved in joint investigations targeting domestic organized cybercrime
+  groups, particularly in the early 2010s.
+created: 2026-04-10
+cybercrime_legislation:
+  data_retention: Contested; constitutional court struck down initial retention law
+  primary_law: Law 161/2003 (Title III — Preventing and Combating Cybercrime); Criminal
+    Code Arts. 360-366
+  primary_law_date: '2003-04-19'
+  procedural_powers:
+  - search-and-seizure
+  - production-order
+  - preservation-order
+  - interception
+  - real-time-collection
+ic_capacity:
+  24_7_availability: true
+  avg_mlat_response_days: unknown
+  digital_forensics: high
+  english_proficiency: medium
+  rating: high
+iso_code: RO
+key_agencies:
+- '[[romania-diicot]]'
+- '[[romania-police]]'
+last_verified: '2026-04-10'
+legal_system: civil-law
 notable_cases: []
-cooperation_assessment: "Romania is *almost certainly* one of the most active eastern European cybercrime cooperation partners. It is an early Budapest Convention party (2004), hosts the Council of Europe's Cybercrime Programme Office ([[c-proc]]) in Bucharest, and has a dedicated specialized prosecutor service (DIICOT). Romania has been heavily involved in joint investigations targeting domestic organized cybercrime groups, particularly in the early 2010s."
+operations_participated: []
+region: eastern-europe
 source_count: 4
 sources: []
-created: 2026-04-10
+title: Romania
+treaty_memberships:
+- date: '2004-09-12'
+  framework: '[[budapest-convention]]'
+  reservations: []
+  status: party
+- date: '2022-05-12'
+  framework: '[[second-additional-protocol]]'
+  reservations: []
+  status: signatory
+type: country
 updated: 2026-04-10
 ---
 

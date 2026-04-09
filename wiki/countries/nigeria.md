@@ -1,57 +1,64 @@
 ---
-type: country
-title: "Federal Republic of Nigeria"
-iso_code: "NG"
-legal_system: "mixed"
-region: "west-africa"
-cybercrime_legislation:
-  primary_law: "Cybercrimes (Prohibition, Prevention, Etc.) Act 2015, amended 2024"
-  primary_law_date: "2015-05-15"
-  procedural_powers:
-    - "search-and-seizure"
-    - "production-order"
-    - "preservation-order"
-    - "interception"
-  data_retention: "Cybercrimes Act 2015, § 38 — service providers to retain data for 2 years"
-treaty_memberships:
-  - framework: "[[budapest-convention]]"
-    status: "non-party"
-    date: ""
-    reservations: []
-  - framework: "[[african-union-convention-cybersecurity]]"
-    status: "signatory"
-    date: "2014"
-    reservations: []
-central_authority:
-  mlat: "Federal Ministry of Justice"
-  budapest: "N/A (not a party)"
-key_agencies:
-  - "[[nigeria-efcc]]"
-  - "[[nigeria-police-force]]"
-ic_capacity:
-  rating: "medium"
-  digital_forensics: "medium"
-  24_7_availability: false
-  english_proficiency: "high"
-  avg_mlat_response_days: "180+"
 bilateral_agreements: []
-operations_participated:
-  - "[[operation-falcon]]"
-  - "[[operation-jackal]]"
-  - "[[operation-jackal-iii]]"
-  - "[[operation-serengeti]]"
-  - "[[operation-sentinel-africa]]"
-  - "[[operation-haechi-v]]"
-  - "[[operation-haechi-vi]]"
-  - "[[operation-killer-bee]]"
-  - "[[bec-nigeria-2016]]"
-  - "[[black-axe-bec-2021]]"
-  - "[[nigerian-bec-convictions-2023]]"
+central_authority:
+  budapest: N/A (not a party)
+  mlat: Federal Ministry of Justice
+cooperation_assessment: Nigeria's cooperation capacity has improved significantly
+  since 2020, driven by the Economic and Financial Crimes Commission (EFCC) and INTERPOL-supported
+  operations. Nigeria is a key target and partner for BEC and online fraud investigations.
+  The EFCC has demonstrated increasing willingness to prosecute Nigerian cybercriminals
+  domestically. However, Nigeria is not a Budapest Convention party, limiting formal
+  MLA channels, and capacity constraints remain in digital forensics and 24/7 availability.
+created: 2026-04-08
+cybercrime_legislation:
+  data_retention: Cybercrimes Act 2015, § 38 — service providers to retain data for
+    2 years
+  primary_law: Cybercrimes (Prohibition, Prevention, Etc.) Act 2015, amended 2024
+  primary_law_date: '2015-05-15'
+  procedural_powers:
+  - search-and-seizure
+  - production-order
+  - preservation-order
+  - interception
+ic_capacity:
+  24_7_availability: false
+  avg_mlat_response_days: 180+
+  digital_forensics: medium
+  english_proficiency: high
+  rating: medium
+iso_code: NG
+key_agencies:
+- '[[nigeria-efcc]]'
+- '[[nigeria-police-force]]'
+last_verified: '2026-04-10'
+legal_system: mixed
 notable_cases: []
-cooperation_assessment: "Nigeria's cooperation capacity has improved significantly since 2020, driven by the Economic and Financial Crimes Commission (EFCC) and INTERPOL-supported operations. Nigeria is a key target and partner for BEC and online fraud investigations. The EFCC has demonstrated increasing willingness to prosecute Nigerian cybercriminals domestically. However, Nigeria is not a Budapest Convention party, limiting formal MLA channels, and capacity constraints remain in digital forensics and 24/7 availability."
+operations_participated:
+- '[[operation-falcon]]'
+- '[[operation-jackal]]'
+- '[[operation-jackal-iii]]'
+- '[[operation-serengeti]]'
+- '[[operation-sentinel-africa]]'
+- '[[operation-haechi-v]]'
+- '[[operation-haechi-vi]]'
+- '[[operation-killer-bee]]'
+- '[[bec-nigeria-2016]]'
+- '[[black-axe-bec-2021]]'
+- '[[nigerian-bec-convictions-2023]]'
+region: west-africa
 source_count: 0
 sources: []
-created: 2026-04-08
+title: Federal Republic of Nigeria
+treaty_memberships:
+- date: ''
+  framework: '[[budapest-convention]]'
+  reservations: []
+  status: non-party
+- date: '2014'
+  framework: '[[african-union-convention-cybersecurity]]'
+  reservations: []
+  status: signatory
+type: country
 updated: 2026-04-08
 ---
 

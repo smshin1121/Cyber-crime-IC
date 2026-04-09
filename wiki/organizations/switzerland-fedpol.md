@@ -15,6 +15,7 @@ key_roles:
 - CYCO — central contact point for illegal internet content reports
 - International cybercrime liaison (Europol, Interpol)
 - NEDIK — federal-cantonal digital investigation support network
+last_verified: '2026-04-10'
 mandate: Swiss federal law enforcement agency responsible for coordination between
   cantonal police corps and between Swiss and foreign law enforcement. Hosts the Cybercrime
   Coordination Unit Switzerland (CYCO / KOBIK) as Switzerland's central contact point
@@ -32,6 +33,7 @@ parent_org: Swiss Federal Department of Justice and Police (Eidgenössisches Jus
   und Polizeidepartement — EJPD)
 source_count: 4
 sources: []
+status: active
 title: Fedpol — Swiss Federal Office of Police (with CYCO Cybercrime Coordination
   Unit)
 type: organization

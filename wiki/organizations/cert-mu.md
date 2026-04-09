@@ -1,24 +1,27 @@
 ---
-type: organization
-title: "CERT-MU"
-official_name: "Computer Emergency Response Team of Mauritius"
 aliases: []
-org_type: "national-agency"
-parent_org: ""
-country: "[[mauritius]]"
-headquarters: ""
-established: ""
-mandate: "National cybersecurity incident response body operated by the National Computer Board of Mauritius."
-key_roles: []
-cooperation_partners: []
-frameworks_administered: []
-mechanisms_operated: []
-operations_participated: []
-notable_cases: []
 contact_point_for: []
+cooperation_partners: []
+country: '[[mauritius]]'
+created: 2026-04-10
+established: ''
+frameworks_administered: []
+headquarters: ''
+key_roles: []
+last_verified: '2026-04-10'
+mandate: National cybersecurity incident response body operated by the National Computer
+  Board of Mauritius.
+mechanisms_operated: []
+notable_cases: []
+official_name: Computer Emergency Response Team of Mauritius
+operations_participated: []
+org_type: national-agency
+parent_org: ''
 source_count: 1
 sources: []
-created: 2026-04-10
+status: active
+title: CERT-MU
+type: organization
 updated: 2026-04-10
 ---
 

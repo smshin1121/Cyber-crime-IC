@@ -1,24 +1,28 @@
 ---
-type: organization
-title: "maCERT"
-official_name: "Centre Marocain d'Alerte et de Gestion des Incidents Informatiques (maCERT)"
 aliases: []
-org_type: "national-agency"
-parent_org: ""
-country: "[[morocco]]"
-headquarters: ""
-established: ""
-mandate: "Morocco's national CERT, operated by the Direction Générale de la Sécurité des Systèmes d'Information (DGSSI)."
-key_roles: []
-cooperation_partners: []
-frameworks_administered: []
-mechanisms_operated: []
-operations_participated: []
-notable_cases: []
 contact_point_for: []
+cooperation_partners: []
+country: '[[morocco]]'
+created: 2026-04-10
+established: ''
+frameworks_administered: []
+headquarters: ''
+key_roles: []
+last_verified: '2026-04-10'
+mandate: Morocco's national CERT, operated by the Direction Générale de la Sécurité
+  des Systèmes d'Information (DGSSI).
+mechanisms_operated: []
+notable_cases: []
+official_name: Centre Marocain d'Alerte et de Gestion des Incidents Informatiques
+  (maCERT)
+operations_participated: []
+org_type: national-agency
+parent_org: ''
 source_count: 1
 sources: []
-created: 2026-04-10
+status: active
+title: maCERT
+type: organization
 updated: 2026-04-10
 ---
 

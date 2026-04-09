@@ -1,45 +1,51 @@
 ---
-type: country
-title: "Republic of South Africa"
-iso_code: "ZA"
-legal_system: "mixed"
-region: "southern-africa"
-cybercrime_legislation:
-  primary_law: "Cybercrimes Act No. 19 of 2020"
-  primary_law_date: "2021-06-01"
-  procedural_powers:
-    - "search-and-seizure"
-    - "production-order"
-    - "preservation-order"
-  data_retention: "Regulation of Interception of Communications and Provision of Communication-Related Information Act (RICA)"
-treaty_memberships:
-  - framework: "[[budapest-convention]]"
-    status: "signatory"
-    date: "2001-11-23"
-    reservations: []
-  - framework: "[[malabo-convention]]"
-    status: "non-party"
-    date: ""
-    reservations: []
-central_authority:
-  mlat: "Department of Justice and Constitutional Development"
-  budapest: "SAPS"
-key_agencies:
-  - "[[south-africa-saps]]"
-  - "[[south-africa-hawks]]"
-ic_capacity:
-  rating: "medium"
-  digital_forensics: "medium"
-  24_7_availability: false
-  english_proficiency: "high"
-  avg_mlat_response_days: "unknown"
 bilateral_agreements: []
-operations_participated: []
+central_authority:
+  budapest: SAPS
+  mlat: Department of Justice and Constitutional Development
+cooperation_assessment: South Africa signed the Budapest Convention in 2001 but *has
+  not yet ratified* it (as of 2026). The 2020 Cybercrimes Act brought substantive
+  and procedural law largely into alignment with Budapest standards. *Likely* a moderately
+  capable cooperation partner on the African continent with English-language legal
+  system advantages, but lacks formal Budapest treaty basis.
+created: 2026-04-10
+cybercrime_legislation:
+  data_retention: Regulation of Interception of Communications and Provision of Communication-Related
+    Information Act (RICA)
+  primary_law: Cybercrimes Act No. 19 of 2020
+  primary_law_date: '2021-06-01'
+  procedural_powers:
+  - search-and-seizure
+  - production-order
+  - preservation-order
+ic_capacity:
+  24_7_availability: false
+  avg_mlat_response_days: unknown
+  digital_forensics: medium
+  english_proficiency: high
+  rating: medium
+iso_code: ZA
+key_agencies:
+- '[[south-africa-saps]]'
+- '[[south-africa-hawks]]'
+last_verified: '2026-04-10'
+legal_system: mixed
 notable_cases: []
-cooperation_assessment: "South Africa signed the Budapest Convention in 2001 but *has not yet ratified* it (as of 2026). The 2020 Cybercrimes Act brought substantive and procedural law largely into alignment with Budapest standards. *Likely* a moderately capable cooperation partner on the African continent with English-language legal system advantages, but lacks formal Budapest treaty basis."
+operations_participated: []
+region: southern-africa
 source_count: 0
 sources: []
-created: 2026-04-10
+title: Republic of South Africa
+treaty_memberships:
+- date: '2001-11-23'
+  framework: '[[budapest-convention]]'
+  reservations: []
+  status: signatory
+- date: ''
+  framework: '[[malabo-convention]]'
+  reservations: []
+  status: non-party
+type: country
 updated: 2026-04-10
 ---
 

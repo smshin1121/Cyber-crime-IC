@@ -1,24 +1,28 @@
 ---
-type: organization
-title: "Kripos"
-official_name: "Nasjonal enhet for bekjempelse av organisert og annen alvorlig kriminalitet (Kripos)"
 aliases: []
-org_type: "national-unit"
-parent_org: ""
-country: "[[norway]]"
-headquarters: ""
-established: ""
-mandate: "Norway's National Criminal Investigation Service — hosts the NC3 cybercrime center and Norway's Budapest Convention 24/7 Network contact point."
-key_roles: []
-cooperation_partners: []
-frameworks_administered: []
-mechanisms_operated: []
-operations_participated: []
-notable_cases: []
 contact_point_for: []
+cooperation_partners: []
+country: '[[norway]]'
+created: 2026-04-10
+established: ''
+frameworks_administered: []
+headquarters: ''
+key_roles: []
+last_verified: '2026-04-10'
+mandate: Norway's National Criminal Investigation Service — hosts the NC3 cybercrime
+  center and Norway's Budapest Convention 24/7 Network contact point.
+mechanisms_operated: []
+notable_cases: []
+official_name: Nasjonal enhet for bekjempelse av organisert og annen alvorlig kriminalitet
+  (Kripos)
+operations_participated: []
+org_type: national-unit
+parent_org: ''
 source_count: 1
 sources: []
-created: 2026-04-10
+status: active
+title: Kripos
+type: organization
 updated: 2026-04-10
 ---
 

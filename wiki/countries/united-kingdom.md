@@ -1,57 +1,64 @@
 ---
-type: country
-title: "United Kingdom"
-iso_code: "GB"
-legal_system: "common-law"
-region: "western-europe"
-cybercrime_legislation:
-  primary_law: "Computer Misuse Act 1990 (CMA)"
-  primary_law_date: "1990-06-29"
-  procedural_powers:
-    - "search-and-seizure"
-    - "production-order"
-    - "preservation-order"
-    - "interception"
-    - "real-time-collection"
-  data_retention: "Investigatory Powers Act 2016 (IPA) — data retention notices up to 12 months"
-treaty_memberships:
-  - framework: "[[budapest-convention]]"
-    status: "party"
-    date: "2011-05-25"
-    reservations: []
-  - framework: "[[second-additional-protocol]]"
-    status: "signatory"
-    date: "2022"
-    reservations: []
-central_authority:
-  mlat: "UK Home Office, International Criminality Cooperation Team"
-  budapest: "National Crime Agency (NCA)"
-key_agencies:
-  - "[[uk-nca]]"
-  - "[[uk-met-police-cyber]]"
-ic_capacity:
-  rating: "high"
-  digital_forensics: "high"
-  24_7_availability: true
-  english_proficiency: "high"
-  avg_mlat_response_days: "90-180"
 bilateral_agreements:
-  - "[[us-uk-cloud-act-agreement]]"
-operations_participated:
-  - "[[operation-cronos-phase1]]"
-  - "[[operation-cronos-phase3]]"
-  - "[[operation-endgame-phase1]]"
-  - "[[operation-endgame-phase2]]"
-  - "[[phobos-8base-crackdown]]"
-  - "[[operation-destabilise]]"
-  - "[[operation-avalanche]]"
-  - "[[operation-haechi-v]]"
-  - "[[operation-first-light-2024]]"
+- '[[us-uk-cloud-act-agreement]]'
+central_authority:
+  budapest: National Crime Agency (NCA)
+  mlat: UK Home Office, International Criminality Cooperation Team
+cooperation_assessment: The United Kingdom is a highly capable international cooperation
+  partner with world-class digital forensics capabilities and extensive experience
+  leading multinational cybercrime operations. The NCA's National Cyber Crime Unit
+  is among the most active agencies globally. Post-Brexit, the UK has maintained close
+  operational cooperation with Europol through a Trade and Cooperation Agreement,
+  though formal EU membership tools (direct SIS II access, EAW) are no longer available.
+created: 2026-04-08
+cybercrime_legislation:
+  data_retention: Investigatory Powers Act 2016 (IPA) — data retention notices up
+    to 12 months
+  primary_law: Computer Misuse Act 1990 (CMA)
+  primary_law_date: '1990-06-29'
+  procedural_powers:
+  - search-and-seizure
+  - production-order
+  - preservation-order
+  - interception
+  - real-time-collection
+ic_capacity:
+  24_7_availability: true
+  avg_mlat_response_days: 90-180
+  digital_forensics: high
+  english_proficiency: high
+  rating: high
+iso_code: GB
+key_agencies:
+- '[[uk-nca]]'
+- '[[uk-met-police-cyber]]'
+last_verified: '2026-04-10'
+legal_system: common-law
 notable_cases: []
-cooperation_assessment: "The United Kingdom is a highly capable international cooperation partner with world-class digital forensics capabilities and extensive experience leading multinational cybercrime operations. The NCA's National Cyber Crime Unit is among the most active agencies globally. Post-Brexit, the UK has maintained close operational cooperation with Europol through a Trade and Cooperation Agreement, though formal EU membership tools (direct SIS II access, EAW) are no longer available."
+operations_participated:
+- '[[operation-cronos-phase1]]'
+- '[[operation-cronos-phase3]]'
+- '[[operation-endgame-phase1]]'
+- '[[operation-endgame-phase2]]'
+- '[[phobos-8base-crackdown]]'
+- '[[operation-destabilise]]'
+- '[[operation-avalanche]]'
+- '[[operation-haechi-v]]'
+- '[[operation-first-light-2024]]'
+region: western-europe
 source_count: 0
 sources: []
-created: 2026-04-08
+title: United Kingdom
+treaty_memberships:
+- date: '2011-05-25'
+  framework: '[[budapest-convention]]'
+  reservations: []
+  status: party
+- date: '2022'
+  framework: '[[second-additional-protocol]]'
+  reservations: []
+  status: signatory
+type: country
 updated: 2026-04-08
 ---
 

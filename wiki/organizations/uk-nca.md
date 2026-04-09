@@ -18,6 +18,7 @@ key_roles:
 - International liaison officer network
 - Led Operation Cronos Phase 1 (LockBit takedown) from the UK side
 - Ransomware disruption and investigation
+last_verified: '2026-04-10'
 mandate: Lead UK law enforcement agency for tackling serious and organised crime,
   including cybercrime, human trafficking, drug trafficking, economic crime, and child
   exploitation.
@@ -39,13 +40,14 @@ operations_participated:
 - '[[phobos-8base-crackdown]]'
 org_type: national-agency
 parent_org: ''
-source_count: 5
+source_count: 8
 sources:
 - '[[2024-02-20-europol-operation-cronos-lockbit]]'
 - '[[2024-05-30-europol-operation-endgame-botnet-takedown]]'
 - '[[2024-10-01-europol-operation-cronos-lockbit-phase3]]'
 - '[[2025-02-11-europol-phobos-8base-ransomware-arrests]]'
 - '[[2025-05-23-europol-operation-endgame-phase2]]'
+status: active
 title: UK National Crime Agency (NCA)
 type: organization
 updated: '2026-04-09'
@@ -58,6 +60,21 @@ The National Crime Agency (NCA) is the [[united-kingdom|United Kingdom's]] lead 
 The NCA is *highly likely* among the top three most capable national cybercrime agencies globally, alongside the [[fbi-cyber-division|FBI Cyber Division]] and comparable agencies. Its leadership of [[operation-cronos-phase1|Operation Cronos Phase 1]] — the landmark disruption of the LockBit ransomware group in February 2024 — demonstrated the NCA's ability to lead complex multinational operations involving 10+ countries and coordinate with [[europol-ec3|Europol EC3]] and the FBI.
 
 The NCA participated in all 5 operations covered by currently ingested sources and **led** Operation Cronos from the UK side.
+
+## Current Status (as of 2026-04-10)
+
+**Present-day name:** National Crime Agency (NCA) — National Cyber Crime Unit (NCCU)
+**Status:** *Active* — NCA and NCCU continue to operate under the same names as of April 2026 [6][8]
+**Parent:** Home Office (Director General reports to the Home Secretary)
+
+As of April 2026 the NCA and its NCCU remain the UK's lead agencies for serious cybercrime. No immediate restructuring has occurred, but a significant **multi-year overhaul is under way**:
+
+- **Independent police review:** An independent review of UK police force structures is due to report in **summer 2026**. It is expected to reshape how regional and national specialist units — including cyber and fraud teams — integrate across the 43 territorial forces and the NCA. Any resulting reorganization is *likely* to be multi-year and is unlikely to take effect before 2027 [6].
+- **NCCU Crypto Cell:** The NCA established a dedicated **Crypto Cell** within the NCCU with an initial team of approximately five officers, expanding the NCA's cryptocurrency tracing and recovery capability for ransomware and fraud investigations [7].
+- **Post-Brexit cooperation:** The NCA continues to work with [[europol-ec3|Europol]] through the post-Brexit UK-EU TCA arrangement rather than as an EU member state agency. Operational participation in multi-agency Europol actions (Cronos, Endgame, Phobos/8Base) has continued through 2024–2025.
+- **Operational continuity:** The NCCU continues to lead UK cybercrime enforcement and participated in multiple 2024–2025 multinational operations, including Operation Cronos Phase 3, Operation Endgame Phase 2, and the Phobos/8Base crackdown.
+
+No material change to the NCCU's name, level, or mandate is *likely* to occur before the summer 2026 police review report is published.
 
 ## Mandate and Authority
 
@@ -177,3 +194,6 @@ Direct NCA-Korea cybercrime cooperation is *likely* less developed than FBI-Kore
 | [3] | LockBit power cut: four new arrests — Operation Cronos Phase 3 | Europol | 2024-10-01 | [원본](https://www.europol.europa.eu/media-press/newsroom/news/lockbit-power-cut-four-new-arrests-and-financial-sanctions-against-affiliates) |
 | [4] | Key figures behind Phobos and 8Base ransomware arrested | Europol | 2025-02-11 | [원본](https://www.europol.europa.eu/media-press/newsroom/news/key-figures-behind-phobos-and-8base-ransomware-arrested-in-international-cybercrime-crackdown) |
 | [5] | Operation Endgame strikes again: the ransomware kill chain broken at its source | Europol | 2025-05-23 | [원본](https://www.europol.europa.eu/media-press/newsroom/news/operation-endgame-strikes-again-ransomware-kill-chain-broken-its-source) |
+| [6] | UK plans sweeping overhaul of policing amid surge in online crimes | The Record / Recorded Future News | 2025 | https://therecord.media/uk-national-policing-overhaul-cybercrime |
+| [7] | UK National Crime Agency to Launch Specialized Crypto Team (NCCU Crypto Cell) | Decrypt | 2023 | https://decrypt.co/118390/uk-national-crime-agency-to-launch-specialized-crypto-team |
+| [8] | Cybercrime | National Crime Agency | n.d. | https://www.nationalcrimeagency.gov.uk/what-we-do/crime-threats/cyber-crime |

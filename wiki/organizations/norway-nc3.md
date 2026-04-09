@@ -1,24 +1,27 @@
 ---
-type: organization
-title: "Norway NC3"
-official_name: "Nasjonalt cyberkrimsenter (NC3)"
 aliases: []
-org_type: "national-unit"
-parent_org: ""
-country: "[[norway]]"
-headquarters: ""
-established: ""
-mandate: "Norway's National Cybercrime Centre, established within Kripos; investigates serious cybercrime and hosts 24/7 PoC."
-key_roles: []
-cooperation_partners: []
-frameworks_administered: []
-mechanisms_operated: []
-operations_participated: []
-notable_cases: []
 contact_point_for: []
+cooperation_partners: []
+country: '[[norway]]'
+created: 2026-04-10
+established: ''
+frameworks_administered: []
+headquarters: ''
+key_roles: []
+last_verified: '2026-04-10'
+mandate: Norway's National Cybercrime Centre, established within Kripos; investigates
+  serious cybercrime and hosts 24/7 PoC.
+mechanisms_operated: []
+notable_cases: []
+official_name: Nasjonalt cyberkrimsenter (NC3)
+operations_participated: []
+org_type: national-unit
+parent_org: ''
 source_count: 1
 sources: []
-created: 2026-04-10
+status: active
+title: Norway NC3
+type: organization
 updated: 2026-04-10
 ---
 

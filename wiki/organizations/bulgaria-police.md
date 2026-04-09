@@ -19,6 +19,7 @@ key_roles:
 - 24/7 National Contact Point for high-tech crime
 - Combating online child sexual exploitation
 - Cybercrime.bg reporting platform operation
+last_verified: '2026-04-10'
 mandate: Specialized cybercrime directorate within Bulgaria's General Directorate
   Combating Organized Crime (GDBOP/GDCOC), Ministry of Interior; investigates high-tech
   crime and hosts the Bulgarian 24/7 National Contact Point.
@@ -33,6 +34,7 @@ org_type: national-unit
 parent_org: '[[bulgaria-ministry-of-interior]]'
 source_count: 2
 sources: []
+status: active
 title: GDBOP Cybercrime Directorate
 type: organization
 updated: '2026-04-09'

@@ -1,41 +1,47 @@
 ---
-type: country
-title: "Republic of Singapore"
-iso_code: "SG"
-legal_system: "common-law"
-region: "southeast-asia"
-cybercrime_legislation:
-  primary_law: "Computer Misuse Act 1993 (Cap. 50A); Cybersecurity Act 2018"
-  primary_law_date: "1993"
-  procedural_powers:
-    - "search-and-seizure"
-    - "production-order"
-    - "preservation-order"
-  data_retention: "unknown"
-treaty_memberships:
-  - framework: "[[budapest-convention]]"
-    status: "non-party"
-    date: ""
-    reservations: []
-central_authority:
-  mlat: "Attorney-General's Chambers"
-  budapest: "n/a (non-party)"
-key_agencies:
-  - "[[singapore-police]]"
-  - "[[singapore-csa]]"
-ic_capacity:
-  rating: "high"
-  digital_forensics: "high"
-  24_7_availability: true
-  english_proficiency: "high"
-  avg_mlat_response_days: "unknown"
 bilateral_agreements: []
-operations_participated: []
+central_authority:
+  budapest: n/a (non-party)
+  mlat: Attorney-General's Chambers
+cooperation_assessment: Singapore *almost certainly* possesses one of the most advanced
+  cyber investigative capabilities in Southeast Asia, operating 24/7 through the Cyber
+  Security Agency (CSA) and the Singapore Police Force. Despite being a non-party
+  to the Budapest Convention, Singapore serves as the ASEAN Voluntary Lead Shepherd
+  on Cybercrime and maintains strong bilateral cooperation channels. *Highly likely*
+  a responsive partner for cybercrime MLA in the ASEAN region.
+created: 2026-04-10
+cybercrime_legislation:
+  data_retention: unknown
+  primary_law: Computer Misuse Act 1993 (Cap. 50A); Cybersecurity Act 2018
+  primary_law_date: '1993'
+  procedural_powers:
+  - search-and-seizure
+  - production-order
+  - preservation-order
+ic_capacity:
+  24_7_availability: true
+  avg_mlat_response_days: unknown
+  digital_forensics: high
+  english_proficiency: high
+  rating: high
+iso_code: SG
+key_agencies:
+- '[[singapore-police]]'
+- '[[singapore-csa]]'
+last_verified: '2026-04-10'
+legal_system: common-law
 notable_cases: []
-cooperation_assessment: "Singapore *almost certainly* possesses one of the most advanced cyber investigative capabilities in Southeast Asia, operating 24/7 through the Cyber Security Agency (CSA) and the Singapore Police Force. Despite being a non-party to the Budapest Convention, Singapore serves as the ASEAN Voluntary Lead Shepherd on Cybercrime and maintains strong bilateral cooperation channels. *Highly likely* a responsive partner for cybercrime MLA in the ASEAN region."
+operations_participated: []
+region: southeast-asia
 source_count: 0
 sources: []
-created: 2026-04-10
+title: Republic of Singapore
+treaty_memberships:
+- date: ''
+  framework: '[[budapest-convention]]'
+  reservations: []
+  status: non-party
+type: country
 updated: 2026-04-10
 ---
 

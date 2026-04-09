@@ -1,44 +1,50 @@
 ---
-type: country
-title: "Republic of Serbia"
-iso_code: "RS"
-legal_system: "civil-law"
-region: "balkans"
-cybercrime_legislation:
-  primary_law: "Law on Organization and Competence of Government Authorities for Combating High-Tech Crime; Criminal Code"
-  primary_law_date: "2005-07-14"
-  procedural_powers:
-    - "search-and-seizure"
-    - "production-order"
-    - "preservation-order"
-    - "interception"
-  data_retention: "unknown"
-treaty_memberships:
-  - framework: "[[budapest-convention]]"
-    status: "party"
-    date: "2009-04-14"
-    reservations: []
-  - framework: "[[second-additional-protocol]]"
-    status: "party"
-    date: "2023-11-02"
-    reservations: []
-central_authority:
-  mlat: "Ministry of Justice"
-  budapest: "Special Prosecutor's Office for High-Tech Crime"
-key_agencies: []
-ic_capacity:
-  rating: "medium"
-  digital_forensics: "medium"
-  24_7_availability: true
-  english_proficiency: "medium"
-  avg_mlat_response_days: "unknown"
 bilateral_agreements: []
-operations_participated: []
+central_authority:
+  budapest: Special Prosecutor's Office for High-Tech Crime
+  mlat: Ministry of Justice
+cooperation_assessment: Serbia is a **Budapest Convention party** since 2009 and has
+  ratified the Second Additional Protocol (CETS 224). Serbia established dedicated
+  high-tech crime institutions — a Special Prosecutor's Office for High-Tech Crime
+  and a specialized court department — *likely* making it a capable partner in the
+  Western Balkans region.
+created: 2026-04-10
+cybercrime_legislation:
+  data_retention: unknown
+  primary_law: Law on Organization and Competence of Government Authorities for Combating
+    High-Tech Crime; Criminal Code
+  primary_law_date: '2005-07-14'
+  procedural_powers:
+  - search-and-seizure
+  - production-order
+  - preservation-order
+  - interception
+ic_capacity:
+  24_7_availability: true
+  avg_mlat_response_days: unknown
+  digital_forensics: medium
+  english_proficiency: medium
+  rating: medium
+iso_code: RS
+key_agencies: []
+last_verified: '2026-04-10'
+legal_system: civil-law
 notable_cases: []
-cooperation_assessment: "Serbia is a **Budapest Convention party** since 2009 and has ratified the Second Additional Protocol (CETS 224). Serbia established dedicated high-tech crime institutions — a Special Prosecutor's Office for High-Tech Crime and a specialized court department — *likely* making it a capable partner in the Western Balkans region."
+operations_participated: []
+region: balkans
 source_count: 3
 sources: []
-created: 2026-04-10
+title: Republic of Serbia
+treaty_memberships:
+- date: '2009-04-14'
+  framework: '[[budapest-convention]]'
+  reservations: []
+  status: party
+- date: '2023-11-02'
+  framework: '[[second-additional-protocol]]'
+  reservations: []
+  status: party
+type: country
 updated: 2026-04-10
 ---
 

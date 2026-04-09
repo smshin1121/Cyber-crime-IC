@@ -21,6 +21,7 @@ key_roles:
 - Recovery of cyber-enabled financial losses
 - Public-private partnership with financial institutions
 - Critical infrastructure financial payment system protection
+last_verified: '2026-04-10'
 mandate: Combat financial cybercrime through a unified national network of Cyber Fraud
   Task Forces (CFTFs) that merges the former Electronic Crimes Task Forces (ECTFs)
   and Financial Crimes Task Forces (FCTFs). Investigate credit/debit card fraud, identity
@@ -38,10 +39,34 @@ org_type: national-unit
 parent_org: '[[us-secret-service-hq]]'
 source_count: 4
 sources: []
+status: active
 title: US Secret Service — Cyber Fraud Task Forces
 type: organization
-updated: '2026-04-09'
+updated: '2026-04-10'
 ---
+
+## Current Status (as of 2026-04-10)
+
+**Status:** Active — the Cyber Fraud Task Force (CFTF) model established in July 2020 remains the operational structure, with no further material reorganization [1][2].
+
+**Parent:** The US Secret Service remains under the **Department of Homeland Security (DHS)** after its 2003 transfer from the Treasury; this placement has not changed. Its dual protective and financial-crime missions continue, with CFTFs handling the financial-cyber investigative dimension.
+
+**Current CFTF network:** The USSS operates **42+ domestic CFTFs** plus **overseas CFTFs / international field offices** in cities including Rome, London, Frankfurt, The Hague (Europol liaison), Hong Kong, Bangkok, and others [3]. The **Global Investigative Operations Center (GIOC)** at HQ continues to coordinate international financial cybercrime investigations.
+
+**Recent priorities (2024–2026):** business email compromise (BEC) wire-recovery operations; cryptocurrency financial tracing; ransomware follow-the-money investigations (parallel and joint with FBI); continued presence in Europol J-CAT.
+
+> [!note] Organizational continuity
+> No structural reorganization has occurred since the July 2020 CFTF consolidation. The legacy Electronic Crimes Task Force (ECTF) and Financial Crimes Task Force (FCTF) frameworks are fully subsumed into the CFTF model (see History section below).
+
+## History and Reorganizations
+
+| Date | Event | Reference |
+|---|---|---|
+| 1995 | First **Electronic Crimes Task Force (ECTF)** created in New York under Secret Service leadership | [2] |
+| 2001 | **USA PATRIOT Act § 105** mandates nationwide ECTF network | [4] |
+| 2003 | USSS transferred from US Treasury to the newly created **Department of Homeland Security** | [3] |
+| 2020-07 | ECTFs and Financial Crimes Task Forces (FCTFs) **consolidated into Cyber Fraud Task Forces (CFTFs)** reflecting convergence of cyber and financial crime | [1] |
+| 2020–2026 | CFTF model operational, network expanded with additional overseas offices | [3] |
 
 ## Summary
 

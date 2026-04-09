@@ -17,6 +17,7 @@ key_roles:
 - Recovery Asset Team (RAT) — freeze/recover fraudulent wire transfers
 - Intelligence sharing with FBI field offices and international partners
 - Data feed for joint FBI/Secret Service/DOJ investigations
+last_verified: '2026-04-10'
 mandate: Serve as the central hub for the public to report suspected internet-facilitated
   criminal activity to US federal law enforcement. Collect, analyze, and disseminate
   internet crime complaint data to FBI investigators, partner agencies, and international
@@ -30,6 +31,7 @@ org_type: national-unit
 parent_org: '[[fbi-cyber-division]]'
 source_count: 4
 sources: []
+status: active
 title: Internet Crime Complaint Center (IC3)
 type: organization
 updated: 2026-04-10

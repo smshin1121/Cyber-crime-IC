@@ -1,24 +1,27 @@
 ---
-type: organization
-title: "Nasjonal sikkerhetsmyndighet (NSM)"
-official_name: "Nasjonal sikkerhetsmyndighet — Norwegian National Security Authority"
 aliases: []
-org_type: "national-agency"
-parent_org: ""
-country: "[[norway]]"
-headquarters: ""
-established: ""
-mandate: "Norway's national security authority for preventive security and cybersecurity; operates NorCERT."
-key_roles: []
-cooperation_partners: []
-frameworks_administered: []
-mechanisms_operated: []
-operations_participated: []
-notable_cases: []
 contact_point_for: []
+cooperation_partners: []
+country: '[[norway]]'
+created: 2026-04-10
+established: ''
+frameworks_administered: []
+headquarters: ''
+key_roles: []
+last_verified: '2026-04-10'
+mandate: Norway's national security authority for preventive security and cybersecurity;
+  operates NorCERT.
+mechanisms_operated: []
+notable_cases: []
+official_name: Nasjonal sikkerhetsmyndighet — Norwegian National Security Authority
+operations_participated: []
+org_type: national-agency
+parent_org: ''
 source_count: 1
 sources: []
-created: 2026-04-10
+status: active
+title: Nasjonal sikkerhetsmyndighet (NSM)
+type: organization
 updated: 2026-04-10
 ---
 

@@ -1,56 +1,64 @@
 ---
-type: country
-title: "Commonwealth of Australia"
-iso_code: "AU"
-legal_system: "common-law"
-region: "oceania"
-cybercrime_legislation:
-  primary_law: "Criminal Code Act 1995 (Cth), Part 10.7 — Computer Offences"
-  primary_law_date: "2001-10-01"
-  procedural_powers:
-    - "search-and-seizure"
-    - "production-order"
-    - "preservation-order"
-    - "interception"
-    - "real-time-collection"
-  data_retention: "Telecommunications (Interception and Access) Act 1979, as amended 2015 — mandatory 2-year metadata retention"
-treaty_memberships:
-  - framework: "[[budapest-convention]]"
-    status: "party"
-    date: "2013-03-01"
-    reservations: []
-  - framework: "[[second-additional-protocol]]"
-    status: "signatory"
-    date: "2022"
-    reservations: []
-central_authority:
-  mlat: "Attorney-General's Department, International Crime Cooperation Central Authority"
-  budapest: "Australian Federal Police (AFP)"
-key_agencies:
-  - "[[australia-afp]]"
-  - "[[australia-asd]]"
-ic_capacity:
-  rating: "high"
-  digital_forensics: "high"
-  24_7_availability: true
-  english_proficiency: "high"
-  avg_mlat_response_days: "90-180"
 bilateral_agreements:
-  - "[[us-australia-mlat]]"
-operations_participated:
-  - "[[operation-cronos-phase1]]"
-  - "[[operation-endgame-phase1]]"
-  - "[[phobos-8base-crackdown]]"
-  - "[[operation-haechi-v]]"
-  - "[[operation-haechi-vi]]"
-  - "[[operation-first-light-2024]]"
-  - "[[operation-cyber-guardian]]"
-  - "[[operation-ironside]]"
+- '[[us-australia-mlat]]'
+central_authority:
+  budapest: Australian Federal Police (AFP)
+  mlat: Attorney-General's Department, International Crime Cooperation Central Authority
+cooperation_assessment: Australia is a highly capable cooperation partner with strong
+  digital forensics and intelligence capabilities. As a Five Eyes member and host
+  of the INTERPOL Global Complex for Innovation (IGCI) in Singapore through close
+  partnership, Australia plays an outsized role in Asia-Pacific cybercrime cooperation.
+  Operation Ironside/AN0M demonstrated Australia's willingness to conduct innovative,
+  long-term multinational operations. The AFP maintains an extensive international
+  liaison network.
+created: 2026-04-08
+cybercrime_legislation:
+  data_retention: Telecommunications (Interception and Access) Act 1979, as amended
+    2015 — mandatory 2-year metadata retention
+  primary_law: Criminal Code Act 1995 (Cth), Part 10.7 — Computer Offences
+  primary_law_date: '2001-10-01'
+  procedural_powers:
+  - search-and-seizure
+  - production-order
+  - preservation-order
+  - interception
+  - real-time-collection
+ic_capacity:
+  24_7_availability: true
+  avg_mlat_response_days: 90-180
+  digital_forensics: high
+  english_proficiency: high
+  rating: high
+iso_code: AU
+key_agencies:
+- '[[australia-afp]]'
+- '[[australia-asd]]'
+last_verified: '2026-04-10'
+legal_system: common-law
 notable_cases: []
-cooperation_assessment: "Australia is a highly capable cooperation partner with strong digital forensics and intelligence capabilities. As a Five Eyes member and host of the INTERPOL Global Complex for Innovation (IGCI) in Singapore through close partnership, Australia plays an outsized role in Asia-Pacific cybercrime cooperation. Operation Ironside/AN0M demonstrated Australia's willingness to conduct innovative, long-term multinational operations. The AFP maintains an extensive international liaison network."
+operations_participated:
+- '[[operation-cronos-phase1]]'
+- '[[operation-endgame-phase1]]'
+- '[[phobos-8base-crackdown]]'
+- '[[operation-haechi-v]]'
+- '[[operation-haechi-vi]]'
+- '[[operation-first-light-2024]]'
+- '[[operation-cyber-guardian]]'
+- '[[operation-ironside]]'
+region: oceania
 source_count: 0
 sources: []
-created: 2026-04-08
+title: Commonwealth of Australia
+treaty_memberships:
+- date: '2013-03-01'
+  framework: '[[budapest-convention]]'
+  reservations: []
+  status: party
+- date: '2022'
+  framework: '[[second-additional-protocol]]'
+  reservations: []
+  status: signatory
+type: country
 updated: 2026-04-08
 ---
 

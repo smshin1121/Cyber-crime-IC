@@ -18,6 +18,7 @@ key_roles:
 - Cyber Intelligence Division — threat intelligence
 - Forensics and Training Division — digital forensics and capacity building
 - Cross-border technology crime liaison
+last_verified: '2026-04-10'
 mandate: Maintain cyber security of Hong Kong and prevent/detect technology crimes.
   Handles cyber security issues, technology crime investigations, computer forensic
   examinations, and prevention of technology crime. Maintains liaison with local and
@@ -28,8 +29,9 @@ official_name: Hong Kong Police Force, Cyber Security and Technology Crime Burea
 operations_participated: []
 org_type: national-unit
 parent_org: '[[hong-kong-police]]'
-source_count: 4
+source_count: 5
 sources: []
+status: active
 title: Hong Kong Police Force — Cyber Security and Technology Crime Bureau
 type: organization
 updated: 2026-04-10
@@ -40,6 +42,33 @@ updated: 2026-04-10
 The Cyber Security and Technology Crime Bureau (CSTCB) of the [[hong-kong-police|Hong Kong Police Force]] is the primary unit responsible for maintaining Hong Kong's cyber security and preventing and detecting technology crimes. CSTCB was established on **1 January 2015** when the Technology Crime Division of the Commercial Crime Bureau was upgraded to a full bureau, reflecting the growing significance of cybercrime as a law enforcement priority.
 
 CSTCB sits within the "B" Department (Crime & Security) of the Hong Kong Police Force.
+
+## Current Status (as of 2026-04-10)
+
+**Present-day name:** Hong Kong Police Force — Cyber Security and Technology Crime Bureau (CSTCB, 網絡安全及科技罪案調查科)
+**Status:** *Active* — CSTCB continues to operate under the same name and within "B" Department [1][4][5]
+**Parent:** Hong Kong Police Force → "B" Department (Crime & Security)
+
+As of April 2026 CSTCB remains the primary Hong Kong cybercrime and cyber security police unit. No reorganization has occurred since its 2015 establishment, but the bureau has **grown substantially in size**:
+
+- **Staff growth:** The establishment of police officers in CSTCB grew from **180 at its inception in 2015** to **395 in financial year 2023–24**, and was expected to reach **403 in financial year 2024–25** [4]. This represents roughly a **2.2× expansion** over the first decade.
+- **Caseload (2024):** CSTCB recorded **33,903 technology crime cases in 2024**, a slight 0.6% decrease compared to 2023 [3]. The bureau processed over **25 million pieces of cyber threat intelligence** and identified over **440,000 cyber threats** targeting Hong Kong in 2024 [3].
+- **Inter-agency coordination:** In March 2025 the Hong Kong Digital Policy Office (DPO) launched the Cybersec One Programme and Cybersecurity Vendor Connect Programme; CSTCB participated as a cybercrime intelligence partner but did not merge with DPO [5].
+- **National Security Law context:** The 2020 Hong Kong National Security Law and the 2024 Safeguarding National Security Ordinance (Article 23 legislation) continue to affect Hong Kong's international cooperation environment. CSTCB's operational cybercrime cooperation with non-Western partners (including mainland China MPS) *likely* remains routine; cooperation with some Western jurisdictions on politically sensitive cases *possibly* remains constrained, though on routine fraud and cybercrime CSTCB continues to engage through INTERPOL channels.
+
+> [!warning] Legal status check needed
+> The 2024 Safeguarding National Security Ordinance (Article 23) may have changed the legal environment for CSTCB's data-sharing with foreign counterparts; the full operational impact is not yet publicly documented.
+
+## History and Reorganizations
+
+| Date | Event | Reference |
+|---|---|---|
+| 2015-01-01 | **CSTCB** established by upgrading the Technology Crime Division of the Commercial Crime Bureau to a full bureau (180 officers) | [1][4] |
+| 2020-06 | Hong Kong National Security Law enacted — began affecting external cooperation posture (scope for cybercrime cooperation unclear) | — |
+| 2023–24 | CSTCB establishment grows to **395 officers** (>2× the 2015 figure) | [4] |
+| 2024 | Safeguarding National Security Ordinance (Article 23) enacted | — |
+| 2024–25 | CSTCB establishment reaches **403 officers** (approved) | [4] |
+| 2025-03 | DPO cybersecurity initiatives launched with CSTCB participation | [5] |
 
 ## Mandate and Authority
 
@@ -97,3 +126,4 @@ CSTCB's cooperation capacity is *likely* strong on routine fraud and cybercrime 
 | [2] | Cyber Security and Technology Crime | Hong Kong Police Force | n.d. | https://www.police.gov.hk/ppp_en/04_crime_matters/tcd/index.html |
 | [3] | Cybersecurity Report 2024 | Hong Kong Police Force | 2024 | https://www.police.gov.hk/ppp_en/04_crime_matters/tcd/cybersecurityreport2024.html |
 | [4] | LCQ7: Manpower of the Police for tackling technology crimes | HKSAR Government | 2024-07-17 | https://www.info.gov.hk/gia/general/202407/17/P2024071700218.htm |
+| [5] | Digital Policy Office introduces initiatives to promote cybersecurity in 2025 | HKSAR Government | 2025-03-27 | https://www.info.gov.hk/gia/general/202503/27/P2025032700270.htm |

@@ -15,6 +15,7 @@ key_roles:
 - Support to local police units on cyber cases
 - Cooperation with 24/7 contact points of Budapest Convention members
 - Cooperation with leading international technology companies
+last_verified: '2026-04-10'
 mandate: Centralized police unit with country-wide competency for handling cybercrime
   cases at the preliminary investigation stage, supporting local police units, and
   serving as Armenia's operational contact point for international cybercrime cooperation
@@ -28,6 +29,7 @@ parent_org: General Department on Combating Organized Crime — Police of the Re
   of Armenia (Ministry of Internal Affairs)
 source_count: 3
 sources: []
+status: active
 title: Armenian Police — Division for Combating High-Tech Crime
 type: organization
 updated: '2026-04-09'

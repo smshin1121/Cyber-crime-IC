@@ -1,66 +1,76 @@
 ---
-type: country
-title: "United States of America"
-iso_code: "US"
-legal_system: "common-law"
-region: "north-america"
-cybercrime_legislation:
-  primary_law: "Computer Fraud and Abuse Act (CFAA), 18 U.S.C. § 1030"
-  primary_law_date: "1986-10-16"
-  procedural_powers:
-    - "search-and-seizure"
-    - "production-order"
-    - "preservation-order"
-    - "interception"
-    - "real-time-collection"
-  data_retention: "No mandatory data retention; voluntary preservation via 18 U.S.C. § 2703(f)"
-treaty_memberships:
-  - framework: "[[budapest-convention]]"
-    status: "party"
-    date: "2006-09-29"
-    reservations: []
-  - framework: "[[second-additional-protocol]]"
-    status: "signatory"
-    date: "2022"
-    reservations: []
-central_authority:
-  mlat: "US Department of Justice, Office of International Affairs (OIA)"
-  budapest: "US Department of Justice, Computer Crime and Intellectual Property Section (CCIPS)"
-key_agencies:
-  - "[[fbi-cyber-division]]"
-  - "[[us-doj]]"
-  - "[[us-secret-service]]"
-ic_capacity:
-  rating: "high"
-  digital_forensics: "high"
-  24_7_availability: true
-  english_proficiency: "high"
-  avg_mlat_response_days: "180+"
 bilateral_agreements:
-  - "[[korea-us-mlat]]"
-operations_participated:
-  - "[[operation-cronos-phase1]]"
-  - "[[operation-cronos-phase3]]"
-  - "[[operation-endgame-phase1]]"
-  - "[[operation-endgame-phase2]]"
-  - "[[phobos-8base-crackdown]]"
-  - "[[qakbot-gallyamov-indictment]]"
-  - "[[operation-checkmate-blacksuit]]"
-  - "[[isoon-apt27-indictment]]"
-  - "[[operation-haechi-v]]"
-  - "[[operation-haechi-vi]]"
-  - "[[hive-ransomware-takedown]]"
-  - "[[operation-shrouded-horizon]]"
-  - "[[infraud-organization-takedown]]"
-  - "[[operation-avalanche]]"
-  - "[[911-s5-botnet-takedown]]"
-  - "[[goznym-takedown]]"
-  - "[[fin7-takedown]]"
+- '[[korea-us-mlat]]'
+central_authority:
+  budapest: US Department of Justice, Computer Crime and Intellectual Property Section
+    (CCIPS)
+  mlat: US Department of Justice, Office of International Affairs (OIA)
+cooperation_assessment: The United States is almost certainly the most central actor
+  in the international cybercrime cooperation network, owing to the global reach of
+  US-headquartered technology companies, the extraterritorial application of US criminal
+  law, and the dominant role of the FBI and DOJ in leading or participating in multinational
+  cybercrime operations. The US has 30+ bilateral MLATs and is a party to the Budapest
+  Convention. However, MLAT response times from the US are widely reported to be slow
+  (often 180+ days), which has driven development of alternatives such as the CLOUD
+  Act.
+created: 2026-04-08
+cybercrime_legislation:
+  data_retention: No mandatory data retention; voluntary preservation via 18 U.S.C.
+    § 2703(f)
+  primary_law: Computer Fraud and Abuse Act (CFAA), 18 U.S.C. § 1030
+  primary_law_date: '1986-10-16'
+  procedural_powers:
+  - search-and-seizure
+  - production-order
+  - preservation-order
+  - interception
+  - real-time-collection
+ic_capacity:
+  24_7_availability: true
+  avg_mlat_response_days: 180+
+  digital_forensics: high
+  english_proficiency: high
+  rating: high
+iso_code: US
+key_agencies:
+- '[[fbi-cyber-division]]'
+- '[[us-doj]]'
+- '[[us-secret-service]]'
+last_verified: '2026-04-10'
+legal_system: common-law
 notable_cases: []
-cooperation_assessment: "The United States is almost certainly the most central actor in the international cybercrime cooperation network, owing to the global reach of US-headquartered technology companies, the extraterritorial application of US criminal law, and the dominant role of the FBI and DOJ in leading or participating in multinational cybercrime operations. The US has 30+ bilateral MLATs and is a party to the Budapest Convention. However, MLAT response times from the US are widely reported to be slow (often 180+ days), which has driven development of alternatives such as the CLOUD Act."
+operations_participated:
+- '[[operation-cronos-phase1]]'
+- '[[operation-cronos-phase3]]'
+- '[[operation-endgame-phase1]]'
+- '[[operation-endgame-phase2]]'
+- '[[phobos-8base-crackdown]]'
+- '[[qakbot-gallyamov-indictment]]'
+- '[[operation-checkmate-blacksuit]]'
+- '[[isoon-apt27-indictment]]'
+- '[[operation-haechi-v]]'
+- '[[operation-haechi-vi]]'
+- '[[hive-ransomware-takedown]]'
+- '[[operation-shrouded-horizon]]'
+- '[[infraud-organization-takedown]]'
+- '[[operation-avalanche]]'
+- '[[911-s5-botnet-takedown]]'
+- '[[goznym-takedown]]'
+- '[[fin7-takedown]]'
+region: north-america
 source_count: 0
 sources: []
-created: 2026-04-08
+title: United States of America
+treaty_memberships:
+- date: '2006-09-29'
+  framework: '[[budapest-convention]]'
+  reservations: []
+  status: party
+- date: '2022'
+  framework: '[[second-additional-protocol]]'
+  reservations: []
+  status: signatory
+type: country
 updated: 2026-04-08
 ---
 

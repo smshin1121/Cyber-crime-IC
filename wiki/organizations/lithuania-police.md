@@ -13,6 +13,7 @@ key_roles:
 - Cybercrime investigations
 - Cooperation with NKSC and Europol EC3
 - Cyber investigation laboratory development (EU-funded, Norway Grants)
+last_verified: '2026-04-10'
 mandate: Central criminal police authority of Lithuania with nationwide (non-territorial)
   competence, including a specialized cybercrime investigation capability cooperating
   with the National Cyber Security Centre (NKSC) and European partners.
@@ -25,6 +26,7 @@ parent_org: Policijos departamentas prie LR VRM (Police Department under the Min
   of the Interior of Lithuania)
 source_count: 3
 sources: []
+status: active
 title: Lithuanian Criminal Police Bureau — Cybercrime Unit
 type: organization
 updated: '2026-04-09'

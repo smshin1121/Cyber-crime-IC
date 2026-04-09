@@ -1,24 +1,28 @@
 ---
-type: organization
-title: "CERT.LV"
-official_name: "Information Technology Security Incident Response Institution of the Republic of Latvia"
 aliases: []
-org_type: "national-agency"
-parent_org: ""
-country: "[[latvia]]"
-headquarters: ""
-established: ""
-mandate: "Latvia's national Computer Emergency Response Team; hosted by the University of Latvia under MoD mandate."
-key_roles: []
-cooperation_partners: []
-frameworks_administered: []
-mechanisms_operated: []
-operations_participated: []
-notable_cases: []
 contact_point_for: []
+cooperation_partners: []
+country: '[[latvia]]'
+created: 2026-04-10
+established: ''
+frameworks_administered: []
+headquarters: ''
+key_roles: []
+last_verified: '2026-04-10'
+mandate: Latvia's national Computer Emergency Response Team; hosted by the University
+  of Latvia under MoD mandate.
+mechanisms_operated: []
+notable_cases: []
+official_name: Information Technology Security Incident Response Institution of the
+  Republic of Latvia
+operations_participated: []
+org_type: national-agency
+parent_org: ''
 source_count: 1
 sources: []
-created: 2026-04-10
+status: active
+title: CERT.LV
+type: organization
 updated: 2026-04-10
 ---
 

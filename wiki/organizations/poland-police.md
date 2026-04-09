@@ -12,6 +12,7 @@ key_roles:
 - Cooperation with Europol EC3 and Interpol
 - Prevention of IT-system-related criminal offences
 - Target staffing of 1,800 officers by 2025
+last_verified: '2026-04-10'
 mandate: Polish police service with nationwide competence to recognize and combat
   crimes committed using IT systems, teleinformatic systems, or teleinformatic networks,
   and to prevent, detect and prosecute cybercrime perpetrators.
@@ -24,6 +25,7 @@ parent_org: Komenda Główna Policji (Police Headquarters, Ministry of Interior 
   Administration, Poland)
 source_count: 3
 sources: []
+status: active
 title: Central Bureau for Combating Cybercrime (CBZC) — Poland
 type: organization
 updated: '2026-04-09'

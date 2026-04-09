@@ -1,24 +1,27 @@
 ---
-type: organization
-title: "Australian Criminal Intelligence Commission"
-official_name: "Australian Criminal Intelligence Commission (ACIC)"
 aliases: []
-org_type: "national-agency"
-parent_org: ""
-country: "[[australia]]"
-headquarters: ""
-established: ""
-mandate: "Australia's national criminal intelligence agency; supports cybercrime investigations through intelligence sharing with AFP and state police."
-key_roles: []
-cooperation_partners: []
-frameworks_administered: []
-mechanisms_operated: []
-operations_participated: []
-notable_cases: []
 contact_point_for: []
+cooperation_partners: []
+country: '[[australia]]'
+created: 2026-04-10
+established: ''
+frameworks_administered: []
+headquarters: ''
+key_roles: []
+last_verified: '2026-04-10'
+mandate: Australia's national criminal intelligence agency; supports cybercrime investigations
+  through intelligence sharing with AFP and state police.
+mechanisms_operated: []
+notable_cases: []
+official_name: Australian Criminal Intelligence Commission (ACIC)
+operations_participated: []
+org_type: national-agency
+parent_org: ''
 source_count: 1
 sources: []
-created: 2026-04-10
+status: active
+title: Australian Criminal Intelligence Commission
+type: organization
 updated: 2026-04-10
 ---
 

@@ -23,6 +23,7 @@ key_roles:
 - CyberCrime Investigation Division within CCID
 - International liaison with FBI, Australian Federal Police, INTERPOL
 - ASEAN cybercrime cooperation
+last_verified: '2026-04-10'
 mandate: Lead investigation and prosecution of commercial crimes and cybercrimes in
   Malaysia, including fraud, criminal breach of trust, forgery, and technology-enabled
   offences. Coordinates cybercrime international cooperation through liaison with
@@ -35,6 +36,7 @@ org_type: national-agency
 parent_org: '[[royal-malaysia-police]]'
 source_count: 5
 sources: []
+status: active
 title: Royal Malaysia Police — Commercial Crime Investigation Department (Cyber Crime)
 type: organization
 updated: 2026-04-10

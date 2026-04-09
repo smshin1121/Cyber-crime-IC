@@ -1,24 +1,28 @@
 ---
-type: organization
-title: "Swiss NCSC"
-official_name: "Bundesamt für Cybersicherheit / Office fédéral de la cybersécurité (Swiss Federal Office for Cybersecurity, formerly NCSC)"
 aliases: []
-org_type: "national-agency"
-parent_org: ""
-country: "[[switzerland]]"
-headquarters: ""
-established: ""
-mandate: "Switzerland's national cybersecurity office, since 2024 a federal office (BACS/OFCS); national CERT (GovCERT) and NCSC functions."
-key_roles: []
-cooperation_partners: []
-frameworks_administered: []
-mechanisms_operated: []
-operations_participated: []
-notable_cases: []
 contact_point_for: []
+cooperation_partners: []
+country: '[[switzerland]]'
+created: 2026-04-10
+established: ''
+frameworks_administered: []
+headquarters: ''
+key_roles: []
+last_verified: '2026-04-10'
+mandate: Switzerland's national cybersecurity office, since 2024 a federal office
+  (BACS/OFCS); national CERT (GovCERT) and NCSC functions.
+mechanisms_operated: []
+notable_cases: []
+official_name: Bundesamt für Cybersicherheit / Office fédéral de la cybersécurité
+  (Swiss Federal Office for Cybersecurity, formerly NCSC)
+operations_participated: []
+org_type: national-agency
+parent_org: ''
 source_count: 1
 sources: []
-created: 2026-04-10
+status: active
+title: Swiss NCSC
+type: organization
 updated: 2026-04-10
 ---
 

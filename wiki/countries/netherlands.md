@@ -1,57 +1,66 @@
 ---
-type: country
-title: "Kingdom of the Netherlands"
-iso_code: "NL"
-legal_system: "civil-law"
-region: "western-europe"
-cybercrime_legislation:
-  primary_law: "Wetboek van Strafrecht (Sr) Art. 138ab-138c, 350a-350d; Wet computercriminaliteit III (2019)"
-  primary_law_date: "1993-03-01"
-  procedural_powers:
-    - "search-and-seizure"
-    - "production-order"
-    - "preservation-order"
-    - "interception"
-    - "real-time-collection"
-  data_retention: "Wet bewaarplicht telecommunicatiegegevens — partially invalidated following CJEU; limited retention framework"
-treaty_memberships:
-  - framework: "[[budapest-convention]]"
-    status: "party"
-    date: "2006-11-16"
-    reservations: []
-  - framework: "[[second-additional-protocol]]"
-    status: "signatory"
-    date: "2022"
-    reservations: []
-central_authority:
-  mlat: "Ministry of Justice and Security (Ministerie van Justitie en Veiligheid)"
-  budapest: "Dutch National Police (Politie) — National High Tech Crime Unit (NHTCU)"
-key_agencies:
-  - "[[netherlands-politie]]"
-  - "[[netherlands-fiod]]"
-ic_capacity:
-  rating: "high"
-  digital_forensics: "high"
-  24_7_availability: true
-  english_proficiency: "high"
-  avg_mlat_response_days: "60-120"
 bilateral_agreements:
-  - "[[us-netherlands-mlat]]"
-operations_participated:
-  - "[[operation-endgame-phase1]]"
-  - "[[operation-endgame-phase2]]"
-  - "[[operation-cronos-phase1]]"
-  - "[[operation-cronos-phase3]]"
-  - "[[phobos-8base-crackdown]]"
-  - "[[operation-avalanche]]"
-  - "[[hive-ransomware-takedown]]"
-  - "[[operation-talent]]"
-  - "[[operation-haechi-v]]"
+- '[[us-netherlands-mlat]]'
+central_authority:
+  budapest: Dutch National Police (Politie) — National High Tech Crime Unit (NHTCU)
+  mlat: Ministry of Justice and Security (Ministerie van Justitie en Veiligheid)
+cooperation_assessment: The Netherlands is almost certainly one of the most capable
+  and proactive cybercrime cooperation partners globally, punching well above its
+  size. The Dutch National Police's NHTCU pioneered innovative takedown techniques
+  and the country hosts both Europol and Eurojust in The Hague, giving it unique proximity
+  to EU coordination bodies. The Wet computercriminaliteit III (2019) provides advanced
+  procedural powers including remote access (hackbevoegdheid). High English proficiency
+  further facilitates cooperation.
+created: 2026-04-08
+cybercrime_legislation:
+  data_retention: Wet bewaarplicht telecommunicatiegegevens — partially invalidated
+    following CJEU; limited retention framework
+  primary_law: Wetboek van Strafrecht (Sr) Art. 138ab-138c, 350a-350d; Wet computercriminaliteit
+    III (2019)
+  primary_law_date: '1993-03-01'
+  procedural_powers:
+  - search-and-seizure
+  - production-order
+  - preservation-order
+  - interception
+  - real-time-collection
+ic_capacity:
+  24_7_availability: true
+  avg_mlat_response_days: 60-120
+  digital_forensics: high
+  english_proficiency: high
+  rating: high
+iso_code: NL
+key_agencies:
+- '[[netherlands-politie]]'
+- '[[netherlands-fiod]]'
+last_verified: '2026-04-10'
+legal_system: civil-law
 notable_cases: []
-cooperation_assessment: "The Netherlands is almost certainly one of the most capable and proactive cybercrime cooperation partners globally, punching well above its size. The Dutch National Police's NHTCU pioneered innovative takedown techniques and the country hosts both Europol and Eurojust in The Hague, giving it unique proximity to EU coordination bodies. The Wet computercriminaliteit III (2019) provides advanced procedural powers including remote access (hackbevoegdheid). High English proficiency further facilitates cooperation."
+operations_participated:
+- '[[operation-endgame-phase1]]'
+- '[[operation-endgame-phase2]]'
+- '[[operation-cronos-phase1]]'
+- '[[operation-cronos-phase3]]'
+- '[[phobos-8base-crackdown]]'
+- '[[operation-avalanche]]'
+- '[[hive-ransomware-takedown]]'
+- '[[operation-talent]]'
+- '[[operation-haechi-v]]'
+region: western-europe
 source_count: 0
 sources: []
-created: 2026-04-08
+title: Kingdom of the Netherlands
+treaty_memberships:
+- date: '2006-11-16'
+  framework: '[[budapest-convention]]'
+  reservations: []
+  status: party
+- date: '2022'
+  framework: '[[second-additional-protocol]]'
+  reservations: []
+  status: signatory
+type: country
 updated: 2026-04-08
 ---
 

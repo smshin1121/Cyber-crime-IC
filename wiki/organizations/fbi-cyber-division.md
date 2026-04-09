@@ -19,6 +19,7 @@ key_roles:
 - Cyber Action Teams for rapid global incident response
 - Cyber threat intelligence and attribution
 - Ransomware disruption and investigation
+last_verified: '2026-04-10'
 mandate: Investigate cyber threats to the United States including state-sponsored
   intrusions, ransomware attacks, online fraud, and major cybercriminal networks.
 mechanisms_operated: []
@@ -50,7 +51,7 @@ operations_participated:
 - '[[zeus-spyeye-takedown]]'
 org_type: national-agency
 parent_org: '[[fbi]]'
-source_count: 8
+source_count: 12
 sources:
 - '[[2024-02-20-europol-operation-cronos-lockbit]]'
 - '[[2024-05-30-europol-operation-endgame-botnet-takedown]]'
@@ -60,10 +61,26 @@ sources:
 - '[[2025-05-22-doj-qakbot-gallyamov-indictment]]'
 - '[[2025-08-11-doj-blacksuit-royal-ransomware-takedown]]'
 - '[[2025-03-05-doj-isoon-chinese-hackers-charges]]'
+status: active
 title: FBI Cyber Division
 type: organization
-updated: '2026-04-09'
+updated: '2026-04-10'
 ---
+
+## Current Status (as of 2026-04-10)
+
+**Status:** Active — no structural reorganization; leadership changed in June 2025.
+
+**Assistant Director (Cyber Division):** **Brett Leatherman**, a 20+ year FBI career official, was appointed in June 2025 under FBI Director Kash Patel, succeeding **Bryan A. Vorndran** (Cyber Division AD 2021–June 2025). Vorndran departed federal service for a position at Microsoft. Leatherman was previously the Deputy Assistant Director for Cyber Operations [9][10].
+
+**Deputy Assistant Director (Cyber Operations):** **Jason Bilnoski** (2025–present) [11].
+
+**Structure (unchanged):** Cyber Division sits in the Criminal, Cyber, Response, and Services Branch of the FBI. 56 field offices with cyber squads; **63+ Legal Attache (Legat) offices** worldwide; Cyber Action Teams; Internet Crime Complaint Center (IC3); J-CAT participation at Europol EC3.
+
+**Recent priorities (2025–2026):** ransomware disruption (continued BlackSuit/Royal, Phobos, LockBit follow-up), state-sponsored intrusion attribution (China/iSoon, DPRK Lazarus), AI-enabled fraud. In late 2025 the FBI ran **Operation Winter Shield**, an AI-defense-themed campaign, reflecting the Cyber Division's growing AI focus [12].
+
+> [!note] Organizational continuity
+> The FBI Cyber Division has **not** undergone any material structural reorganization as of 2026-04-10. The only change is leadership transition from Vorndran to Leatherman in June 2025.
 
 ## Summary
 
@@ -177,3 +194,7 @@ The FBI maintains a Legal Attache office at the US Embassy in Seoul, which serve
 | [6] | Leader of Qakbot Malware Conspiracy Indicted — Gallyamov | US DOJ | 2025-05-22 | [원본](https://www.justice.gov/opa/pr/leader-qakbot-malware-conspiracy-indicted-involvement-global-ransomware-scheme) |
 | [7] | Coordinated Disruption Actions Against BlackSuit (Royal) Ransomware — Operation Checkmate | US DOJ | 2025-08-11 | [원본](https://www.justice.gov/opa/pr/justice-department-announces-coordinated-disruption-actions-against-blacksuit-royal) |
 | [8] | Justice Department Charges 12 Chinese Contract Hackers — i-Soon/APT27 | US DOJ | 2025-03-05 | [원본](https://www.justice.gov/opa/pr/justice-department-charges-12-chinese-contract-hackers-and-law-enforcement-officers-global) |
+| [9] | Brett Leatherman to follow Bryan Vorndran as head of FBI Cyber Division | The Record (Recorded Future News) | 2025-06 | https://therecord.media/brett-leatherman-fbi-cyber-replacing-bryan-vorndran |
+| [10] | FBI veteran Brett Leatherman to lead Cyber division | CyberScoop | 2025-06 | https://cyberscoop.com/fbi-cyber-division-brett-leatherman-assistant-director/ |
+| [11] | Bryan A. Vorndran — leadership profile | FBI | — | https://www.fbi.gov/about/leadership-and-structure/vorndran |
+| [12] | FBI says even in an AI-powered world, security basics still matter (Operation Winter Shield) | CyberScoop | 2025–2026 | https://cyberscoop.com/fbi-operation-winter-shield-ai-cyber-defense-jason-bilnoski/ |

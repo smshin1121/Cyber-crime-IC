@@ -15,6 +15,7 @@ key_roles:
 - Coordination with 7 regional IT-crime centres
 - Cooperation with Europol EC3 and international partners
 - Investigations of ransomware, DDoS and criminal infrastructure cases
+last_verified: '2026-04-10'
 mandate: National-level specialist function of the Swedish Police Authority for investigating
   complex cybercrimes, internet-related crimes against children, and other internet-central
   crimes. Coordinates Sweden's response to ransomware, DDoS and infrastructure-abuse
@@ -30,6 +31,7 @@ parent_org: Polismyndigheten / Nationella operativa avdelningen (NOA) — Swedis
   Authority, National Operations Department
 source_count: 3
 sources: []
+status: active
 title: Swedish Cybercrime Centre (SC3 / NC3) — Swedish Police Authority
 type: organization
 updated: '2026-04-09'

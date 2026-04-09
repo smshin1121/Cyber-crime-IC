@@ -1,45 +1,51 @@
 ---
-type: country
-title: "Ukraine"
-iso_code: "UA"
-legal_system: "civil-law"
-region: "eastern-europe"
-cybercrime_legislation:
-  primary_law: "Criminal Code of Ukraine Arts. 361-363-1; Law on Cybersecurity (2017)"
-  primary_law_date: "2001-04-05"
-  procedural_powers:
-    - "search-and-seizure"
-    - "production-order"
-    - "preservation-order"
-    - "interception"
-  data_retention: "unknown"
-treaty_memberships:
-  - framework: "[[budapest-convention]]"
-    status: "party"
-    date: "2005-09-10"
-    reservations: []
-  - framework: "[[second-additional-protocol]]"
-    status: "signatory"
-    date: "2022-05-12"
-    reservations: []
-central_authority:
-  mlat: "Office of the Prosecutor General"
-  budapest: "Cyberpolice of Ukraine"
-key_agencies:
-  - "[[ukraine-police]]"
-ic_capacity:
-  rating: "high"
-  digital_forensics: "high"
-  24_7_availability: true
-  english_proficiency: "high"
-  avg_mlat_response_days: "unknown"
 bilateral_agreements: []
-operations_participated: []
+central_authority:
+  budapest: Cyberpolice of Ukraine
+  mlat: Office of the Prosecutor General
+cooperation_assessment: Ukraine is a **Budapest Convention party** since 2005 and
+  a highly active cooperation partner. Despite the ongoing Russian invasion since
+  February 2022, Ukraine's Cyberpolice and prosecutorial authorities have continued
+  engagement in international cybercrime operations, particularly against ransomware
+  actors. Ukraine is *almost certainly* one of the most operationally experienced
+  eastern European cybercrime cooperation partners.
+created: 2026-04-10
+cybercrime_legislation:
+  data_retention: unknown
+  primary_law: Criminal Code of Ukraine Arts. 361-363-1; Law on Cybersecurity (2017)
+  primary_law_date: '2001-04-05'
+  procedural_powers:
+  - search-and-seizure
+  - production-order
+  - preservation-order
+  - interception
+ic_capacity:
+  24_7_availability: true
+  avg_mlat_response_days: unknown
+  digital_forensics: high
+  english_proficiency: high
+  rating: high
+iso_code: UA
+key_agencies:
+- '[[ukraine-police]]'
+last_verified: '2026-04-10'
+legal_system: civil-law
 notable_cases: []
-cooperation_assessment: "Ukraine is a **Budapest Convention party** since 2005 and a highly active cooperation partner. Despite the ongoing Russian invasion since February 2022, Ukraine's Cyberpolice and prosecutorial authorities have continued engagement in international cybercrime operations, particularly against ransomware actors. Ukraine is *almost certainly* one of the most operationally experienced eastern European cybercrime cooperation partners."
+operations_participated: []
+region: eastern-europe
 source_count: 3
 sources: []
-created: 2026-04-10
+title: Ukraine
+treaty_memberships:
+- date: '2005-09-10'
+  framework: '[[budapest-convention]]'
+  reservations: []
+  status: party
+- date: '2022-05-12'
+  framework: '[[second-additional-protocol]]'
+  reservations: []
+  status: signatory
+type: country
 updated: 2026-04-10
 ---
 

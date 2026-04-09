@@ -1,24 +1,27 @@
 ---
-type: organization
-title: "DGST"
-official_name: "Direction Générale de la Surveillance du Territoire"
 aliases: []
-org_type: "national-agency"
-parent_org: ""
-country: "[[morocco]]"
-headquarters: ""
-established: ""
-mandate: "Morocco's General Directorate for Territorial Surveillance; domestic intelligence and counter-terrorism with cybersecurity role."
-key_roles: []
-cooperation_partners: []
-frameworks_administered: []
-mechanisms_operated: []
-operations_participated: []
-notable_cases: []
 contact_point_for: []
+cooperation_partners: []
+country: '[[morocco]]'
+created: 2026-04-10
+established: ''
+frameworks_administered: []
+headquarters: ''
+key_roles: []
+last_verified: '2026-04-10'
+mandate: Morocco's General Directorate for Territorial Surveillance; domestic intelligence
+  and counter-terrorism with cybersecurity role.
+mechanisms_operated: []
+notable_cases: []
+official_name: Direction Générale de la Surveillance du Territoire
+operations_participated: []
+org_type: national-agency
+parent_org: ''
 source_count: 1
 sources: []
-created: 2026-04-10
+status: active
+title: DGST
+type: organization
 updated: 2026-04-10
 ---
 

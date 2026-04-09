@@ -14,6 +14,7 @@ key_roles:
 - Central contact point for cyberattack victim reporting and complex cases
 - Digital forensics and darknet investigation
 - International cooperation on cybercrime (Europol EC3, Interpol)
+last_verified: '2026-04-10'
 mandate: National-competence French police cybercrime office coordinating complex
   investigations into cyber-attacks, darknet crime and online fraud. Serves as central
   hub for the Police Nationale's cybercrime investigative capability, complementary
@@ -29,6 +30,7 @@ parent_org: Direction Nationale de la Police Judiciaire (Police Nationale, Minis
   of Interior)
 source_count: 3
 sources: []
+status: active
 title: Office anti-cybercriminalité (OFAC) — French National Police
 type: organization
 updated: '2026-04-09'

@@ -13,6 +13,7 @@ key_roles:
 - Coordination of pan-African law enforcement operations
 - Partnership with INTERPOL for African cybercrime enforcement
 - Capacity building for African law enforcement agencies
+last_verified: '2026-04-10'
 mandate: Continental police cooperation mechanism for Africa; coordinates law enforcement
   cooperation among African Union member states.
 mechanisms_operated: []
@@ -32,6 +33,7 @@ parent_org: '[[african-union]]'
 source_count: 0
 sources:
 - '[[2024-11-26-interpol-operation-serengeti]]'
+status: active
 title: AFRIPOL (African Police Cooperation Organization)
 type: organization
 updated: '2026-04-09'

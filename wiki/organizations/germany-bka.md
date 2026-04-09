@@ -26,6 +26,7 @@ key_roles:
 - International cooperation coordination for German law enforcement
 - Criminal intelligence and analysis
 - Digital forensics
+last_verified: '2026-04-10'
 mandate: Germany's federal criminal police; investigates serious and organized crime
   with international dimensions; serves as INTERPOL NCB Germany and central Europol
   contact.
@@ -50,6 +51,7 @@ org_type: national-agency
 parent_org: '[[germany-bmi]]'
 source_count: 0
 sources: []
+status: active
 title: Bundeskriminalamt (BKA)
 type: organization
 updated: '2026-04-09'

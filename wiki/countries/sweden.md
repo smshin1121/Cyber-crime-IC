@@ -1,44 +1,52 @@
 ---
-type: country
-title: "Kingdom of Sweden"
-iso_code: "SE"
-legal_system: "civil-law"
-region: "northern-europe"
-cybercrime_legislation:
-  primary_law: "Brottsbalken (Swedish Penal Code) chapters 4, 9; Rättegångsbalken (Code of Judicial Procedure)"
-  primary_law_date: "1962"
-  procedural_powers:
-    - "search-and-seizure"
-    - "production-order"
-    - "interception"
-  data_retention: "Contested post-CJEU rulings; Electronic Communications Act as amended"
-treaty_memberships:
-  - framework: "[[budapest-convention]]"
-    status: "signatory"
-    date: "2001-11-23"
-    reservations: []
-  - framework: "[[second-additional-protocol]]"
-    status: "signatory"
-    date: "2022-05-12"
-    reservations: []
-central_authority:
-  mlat: "Ministry of Justice (Justitiedepartementet)"
-  budapest: "Swedish Police Authority"
-key_agencies:
-  - "[[sweden-police]]"
-ic_capacity:
-  rating: "high"
-  digital_forensics: "high"
-  24_7_availability: true
-  english_proficiency: "high"
-  avg_mlat_response_days: "90-180"
 bilateral_agreements: []
-operations_participated: []
+central_authority:
+  budapest: Swedish Police Authority
+  mlat: Ministry of Justice (Justitiedepartementet)
+cooperation_assessment: Sweden is a *highly capable* EU cybercrime cooperation partner
+  with a dedicated Cybercrime Unit within the National Operations Department (NOA)
+  of the Swedish Police Authority and CERT-SE for cybersecurity incidents. Sweden
+  was an original 2001 signatory of the Budapest Convention; *however*, as of 2023
+  publicly available Council of Europe records indicate Sweden had not yet completed
+  formal ratification — reforms were underway. Sweden signed the Second Additional
+  Protocol on 12 May 2022.
+created: 2026-04-10
+cybercrime_legislation:
+  data_retention: Contested post-CJEU rulings; Electronic Communications Act as amended
+  primary_law: Brottsbalken (Swedish Penal Code) chapters 4, 9; Rättegångsbalken (Code
+    of Judicial Procedure)
+  primary_law_date: '1962'
+  procedural_powers:
+  - search-and-seizure
+  - production-order
+  - interception
+ic_capacity:
+  24_7_availability: true
+  avg_mlat_response_days: 90-180
+  digital_forensics: high
+  english_proficiency: high
+  rating: high
+iso_code: SE
+key_agencies:
+- '[[sweden-police]]'
+last_verified: '2026-04-10'
+legal_system: civil-law
 notable_cases: []
-cooperation_assessment: "Sweden is a *highly capable* EU cybercrime cooperation partner with a dedicated Cybercrime Unit within the National Operations Department (NOA) of the Swedish Police Authority and CERT-SE for cybersecurity incidents. Sweden was an original 2001 signatory of the Budapest Convention; *however*, as of 2023 publicly available Council of Europe records indicate Sweden had not yet completed formal ratification — reforms were underway. Sweden signed the Second Additional Protocol on 12 May 2022."
+operations_participated: []
+region: northern-europe
 source_count: 0
 sources: []
-created: 2026-04-10
+title: Kingdom of Sweden
+treaty_memberships:
+- date: '2001-11-23'
+  framework: '[[budapest-convention]]'
+  reservations: []
+  status: signatory
+- date: '2022-05-12'
+  framework: '[[second-additional-protocol]]'
+  reservations: []
+  status: signatory
+type: country
 updated: 2026-04-10
 ---
 

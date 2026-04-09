@@ -1,44 +1,50 @@
 ---
-type: country
-title: "Hellenic Republic"
-iso_code: "GR"
-legal_system: "civil-law"
-region: "southern-europe"
-cybercrime_legislation:
-  primary_law: "Law 4411/2016 (ratifying Budapest Convention and transposing EU Directive 2013/40/EU); Greek Criminal Code Arts. 370B-370E"
-  primary_law_date: "2016-08-03"
-  procedural_powers:
-    - "search-and-seizure"
-    - "production-order"
-    - "preservation-order"
-    - "interception"
-  data_retention: "Regulated under EU framework; subject to CJEU rulings"
-treaty_memberships:
-  - framework: "[[budapest-convention]]"
-    status: "party"
-    date: "2017-01-25"
-    reservations: []
-  - framework: "[[second-additional-protocol]]"
-    status: "unknown"
-    date: ""
-    reservations: []
-central_authority:
-  mlat: "Hellenic Ministry of Justice"
-  budapest: "Cyber Crime Division of the Hellenic Police (Διεύθυνση Δίωξης Ηλεκτρονικού Εγκλήματος)"
-key_agencies: []
-ic_capacity:
-  rating: "medium"
-  digital_forensics: "medium"
-  24_7_availability: true
-  english_proficiency: "medium"
-  avg_mlat_response_days: "unknown"
 bilateral_agreements: []
-operations_participated: []
+central_authority:
+  budapest: Cyber Crime Division of the Hellenic Police (Διεύθυνση Δίωξης Ηλεκτρονικού
+    Εγκλήματος)
+  mlat: Hellenic Ministry of Justice
+cooperation_assessment: Greece is *likely* a medium-capacity EU cooperation partner.
+  It ratified the Budapest Convention relatively late (2017) via Law 4411/2016, which
+  simultaneously transposed EU Directive 2013/40/EU on attacks against information
+  systems. The Hellenic Police Cyber Crime Division operates the 24/7 Point of Contact.
+created: 2026-04-10
+cybercrime_legislation:
+  data_retention: Regulated under EU framework; subject to CJEU rulings
+  primary_law: Law 4411/2016 (ratifying Budapest Convention and transposing EU Directive
+    2013/40/EU); Greek Criminal Code Arts. 370B-370E
+  primary_law_date: '2016-08-03'
+  procedural_powers:
+  - search-and-seizure
+  - production-order
+  - preservation-order
+  - interception
+ic_capacity:
+  24_7_availability: true
+  avg_mlat_response_days: unknown
+  digital_forensics: medium
+  english_proficiency: medium
+  rating: medium
+iso_code: GR
+key_agencies: []
+last_verified: '2026-04-10'
+legal_system: civil-law
 notable_cases: []
-cooperation_assessment: "Greece is *likely* a medium-capacity EU cooperation partner. It ratified the Budapest Convention relatively late (2017) via Law 4411/2016, which simultaneously transposed EU Directive 2013/40/EU on attacks against information systems. The Hellenic Police Cyber Crime Division operates the 24/7 Point of Contact."
+operations_participated: []
+region: southern-europe
 source_count: 0
 sources: []
-created: 2026-04-10
+title: Hellenic Republic
+treaty_memberships:
+- date: '2017-01-25'
+  framework: '[[budapest-convention]]'
+  reservations: []
+  status: party
+- date: ''
+  framework: '[[second-additional-protocol]]'
+  reservations: []
+  status: unknown
+type: country
 updated: 2026-04-10
 ---
 

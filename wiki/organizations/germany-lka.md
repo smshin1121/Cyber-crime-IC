@@ -15,6 +15,7 @@ key_roles:
 - Central Cybercrime Contact Point (ZAC) for businesses
 - Digital forensics and traces departments
 - Operational support to BKA on federal/international cases
+last_verified: '2026-04-10'
 mandate: Collective reference to Germany's 16 state criminal police offices. Each
   LKA is the central criminal investigation authority of its federal state and operates
   a specialized cybercrime department (often including digital forensics and state-level
@@ -29,6 +30,7 @@ org_type: national-agency
 parent_org: Interior Ministry of each of Germany's 16 federal states (Länder)
 source_count: 3
 sources: []
+status: active
 title: Landeskriminalamt (LKA) — German State Criminal Police Offices (Collective)
 type: organization
 updated: '2026-04-09'

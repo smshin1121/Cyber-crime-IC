@@ -120,10 +120,18 @@ aliases: []
 org_type: ""                   # international-org | regional-org | national-agency
                                # national-unit | prosecution-office | network
                                # private-sector-partner
+status: "active"               # active | reorganized | dissolved | renamed | planned
+                               # Use "reorganized" when the entity was absorbed/split
+                               # and a successor exists. Use "dissolved" only if no
+                               # successor. Use "planned" for entities announced but
+                               # not yet operational.
+established: ""                # YYYY or YYYY-MM-DD
+dissolved_date: ""             # date the entity ceased to exist as named (optional)
+successor: ""                  # wikilink — entity that took over the mandate
+predecessor: ""                # wikilink — entity the current org replaced
 parent_org: ""                 # wikilink
 country: ""                    # for national agencies
 headquarters: ""
-established: ""
 mandate: ""
 member_states: 0
 key_roles: []                  # IC-specific functions
@@ -139,10 +147,18 @@ source_count: 0
 sources: []
 created: YYYY-MM-DD
 updated: YYYY-MM-DD
+last_verified: YYYY-MM-DD      # date the "current state" fields were last
+                               # fact-checked against authoritative sources
 ---
 ```
 
-Body sections: Summary | Mandate and Authority | Structure Relevant to Cybercrime IC | IC Capabilities | Key Operations and Cases | Cooperation Track Record | Capacity Building | Korean Interactions (한국과의 협력) | Contradictions & Open Questions
+Body sections: Summary | **Current Status (as of {last_verified})** | Mandate and Authority | Structure Relevant to Cybercrime IC | IC Capabilities | Key Operations and Cases | Cooperation Track Record | Capacity Building | **History and Reorganizations** | Korean Interactions (한국과의 협력) | Contradictions & Open Questions
+
+**Temporal integrity rules** for organization pages:
+1. **Current Status** section is mandatory for any entity whose structure has changed. State the present-day name, level (국/과/심의관), parent, and effective date.
+2. **History and Reorganizations** is a dated timeline: `{YYYY-MM-DD}: {change}` — every name change, merger, elevation, dissolution, or successor creation.
+3. For reorganized entities, keep historical operations (pre-reorganization) in `operations_participated` but **annotate in prose** which operations happened under which name/structure.
+4. `last_verified` must be updated whenever current-state claims are checked against authoritative sources. Stale `last_verified` dates (> 180 days) should be re-checked during lint passes.
 
 ### Country Profile
 

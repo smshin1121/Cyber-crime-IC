@@ -1,24 +1,27 @@
 ---
-type: organization
-title: "NCIS"
-official_name: "Naval Criminal Investigative Service"
 aliases: []
-org_type: "national-unit"
-parent_org: ""
-country: "[[united-states]]"
-headquarters: ""
-established: ""
-mandate: "Primary law enforcement and counterintelligence agency of the US Department of the Navy; cybercrime enforcement for Navy and Marine Corps networks."
-key_roles: []
-cooperation_partners: []
-frameworks_administered: []
-mechanisms_operated: []
-operations_participated: []
-notable_cases: []
 contact_point_for: []
+cooperation_partners: []
+country: '[[united-states]]'
+created: 2026-04-10
+established: ''
+frameworks_administered: []
+headquarters: ''
+key_roles: []
+last_verified: '2026-04-10'
+mandate: Primary law enforcement and counterintelligence agency of the US Department
+  of the Navy; cybercrime enforcement for Navy and Marine Corps networks.
+mechanisms_operated: []
+notable_cases: []
+official_name: Naval Criminal Investigative Service
+operations_participated: []
+org_type: national-unit
+parent_org: ''
 source_count: 1
 sources: []
-created: 2026-04-10
+status: active
+title: NCIS
+type: organization
 updated: 2026-04-10
 ---
 

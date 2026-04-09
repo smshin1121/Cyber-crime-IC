@@ -1,24 +1,27 @@
 ---
-type: organization
-title: "The Hawks"
-official_name: "Directorate for Priority Crime Investigation (DPCI)"
 aliases: []
-org_type: "national-unit"
-parent_org: ""
-country: "[[south-africa]]"
-headquarters: ""
-established: ""
-mandate: "South African Police Service specialized unit investigating organized crime, economic crime, and serious cybercrime."
-key_roles: []
-cooperation_partners: []
-frameworks_administered: []
-mechanisms_operated: []
-operations_participated: []
-notable_cases: []
 contact_point_for: []
+cooperation_partners: []
+country: '[[south-africa]]'
+created: 2026-04-10
+established: ''
+frameworks_administered: []
+headquarters: ''
+key_roles: []
+last_verified: '2026-04-10'
+mandate: South African Police Service specialized unit investigating organized crime,
+  economic crime, and serious cybercrime.
+mechanisms_operated: []
+notable_cases: []
+official_name: Directorate for Priority Crime Investigation (DPCI)
+operations_participated: []
+org_type: national-unit
+parent_org: ''
 source_count: 1
 sources: []
-created: 2026-04-10
+status: active
+title: The Hawks
+type: organization
 updated: 2026-04-10
 ---
 

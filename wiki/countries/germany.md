@@ -1,57 +1,64 @@
 ---
-type: country
-title: "Federal Republic of Germany"
-iso_code: "DE"
-legal_system: "civil-law"
-region: "western-europe"
-cybercrime_legislation:
-  primary_law: "Strafgesetzbuch (StGB) §§ 202a-202d, 303a-303b; BSI-Gesetz"
-  primary_law_date: "1986-08-15"
-  procedural_powers:
-    - "search-and-seizure"
-    - "production-order"
-    - "preservation-order"
-    - "interception"
-    - "real-time-collection"
-  data_retention: "Contested; Telecommunications Act (TKG) provisions largely struck down by courts; limited retention in practice"
-treaty_memberships:
-  - framework: "[[budapest-convention]]"
-    status: "party"
-    date: "2009-03-09"
-    reservations: []
-  - framework: "[[second-additional-protocol]]"
-    status: "signatory"
-    date: "2022"
-    reservations: []
-central_authority:
-  mlat: "Federal Office of Justice (Bundesamt für Justiz, BfJ)"
-  budapest: "Bundeskriminalamt (BKA)"
-key_agencies:
-  - "[[germany-bka]]"
-  - "[[zit-frankfurt]]"
-ic_capacity:
-  rating: "high"
-  digital_forensics: "high"
-  24_7_availability: true
-  english_proficiency: "high"
-  avg_mlat_response_days: "90-180"
 bilateral_agreements:
-  - "[[us-germany-mlat]]"
-operations_participated:
-  - "[[operation-endgame-phase1]]"
-  - "[[operation-endgame-phase2]]"
-  - "[[operation-cronos-phase1]]"
-  - "[[operation-cronos-phase3]]"
-  - "[[operation-avalanche]]"
-  - "[[phobos-8base-crackdown]]"
-  - "[[qakbot-gallyamov-indictment]]"
-  - "[[operation-haechi-v]]"
-  - "[[hive-ransomware-takedown]]"
+- '[[us-germany-mlat]]'
+central_authority:
+  budapest: Bundeskriminalamt (BKA)
+  mlat: Federal Office of Justice (Bundesamt für Justiz, BfJ)
+cooperation_assessment: Germany is a highly capable cooperation partner with strong
+  technical capacity, experienced cybercrime prosecutors (particularly at ZIT Frankfurt),
+  and deep integration into EU cooperation mechanisms via Europol and Eurojust. Germany
+  has been a key infrastructure host for major takedown operations (Avalanche, Endgame).
+  Data retention limitations due to constitutional court decisions may affect some
+  cooperation scenarios.
+created: 2026-04-08
+cybercrime_legislation:
+  data_retention: Contested; Telecommunications Act (TKG) provisions largely struck
+    down by courts; limited retention in practice
+  primary_law: Strafgesetzbuch (StGB) §§ 202a-202d, 303a-303b; BSI-Gesetz
+  primary_law_date: '1986-08-15'
+  procedural_powers:
+  - search-and-seizure
+  - production-order
+  - preservation-order
+  - interception
+  - real-time-collection
+ic_capacity:
+  24_7_availability: true
+  avg_mlat_response_days: 90-180
+  digital_forensics: high
+  english_proficiency: high
+  rating: high
+iso_code: DE
+key_agencies:
+- '[[germany-bka]]'
+- '[[zit-frankfurt]]'
+last_verified: '2026-04-10'
+legal_system: civil-law
 notable_cases: []
-cooperation_assessment: "Germany is a highly capable cooperation partner with strong technical capacity, experienced cybercrime prosecutors (particularly at ZIT Frankfurt), and deep integration into EU cooperation mechanisms via Europol and Eurojust. Germany has been a key infrastructure host for major takedown operations (Avalanche, Endgame). Data retention limitations due to constitutional court decisions may affect some cooperation scenarios."
+operations_participated:
+- '[[operation-endgame-phase1]]'
+- '[[operation-endgame-phase2]]'
+- '[[operation-cronos-phase1]]'
+- '[[operation-cronos-phase3]]'
+- '[[operation-avalanche]]'
+- '[[phobos-8base-crackdown]]'
+- '[[qakbot-gallyamov-indictment]]'
+- '[[operation-haechi-v]]'
+- '[[hive-ransomware-takedown]]'
+region: western-europe
 source_count: 0
 sources: []
-created: 2026-04-08
+title: Federal Republic of Germany
+treaty_memberships:
+- date: '2009-03-09'
+  framework: '[[budapest-convention]]'
+  reservations: []
+  status: party
+- date: '2022'
+  framework: '[[second-additional-protocol]]'
+  reservations: []
+  status: signatory
+type: country
 updated: 2026-04-08
 ---
 
