@@ -298,3 +298,18 @@
   - Ne bis in idem: Korean 형법 Art. 7 allows mitigation but not bar for foreign judgments — weaker than EU transnational protection
   - Specialty principle: Phobos admin Korea-to-US extradition is the primary Korean cybercrime example; US-Korea Treaty Art. 15 applies
   - Nationality principle: Korean 형법 Art. 3 is among the broadest globally (all offenses, no dual criminality requirement); directly relevant to Cambodia scam centre repatriations
+
+## [2026-04-10] create+factcheck | C-PROC, Direct Provider Request, UNODC + treaty updates
+- Pages created:
+  - wiki/organizations/c-proc.md (Cybercrime Programme Office of the Council of Europe, Bucharest, est. 2014-04-07)
+  - wiki/mechanisms/direct-provider-request.md (voluntary + CLOUD Act + CETS 224 Art. 7/8 direct cooperation)
+  - wiki/organizations/unodc.md (UN Office on Drugs and Crime, Vienna, est. 1997)
+- Pages updated:
+  - wiki/legal-frameworks/budapest-convention.md — states_parties 76->81; signatories 3->2 (Ireland, South Africa); added References table; updated 2026-04-10
+  - wiki/legal-frameworks/un-cybercrime-convention-2024.md — signatories 0->74; states_parties 0->2 (Qatar Feb 2026, Vietnam); Hanoi 2025-10-25/26 signing ceremony documented; References table added
+  - wiki/overview.md — Recent Treaty Developments expanded with Hanoi signing, Qatar ratification, Hungary CETS 224 ratification
+- Key findings:
+  - Budapest Convention: 81 parties as of Aug 2025 (per Wikipedia citing CoE), not 76 as previously recorded
+  - CETS 224 Second Additional Protocol: 3 ratifications only (Japan, Serbia, Hungary 2026-02-05); still not in force
+  - UN Cybercrime Convention: opened for signature in Hanoi 2025-10-25/26 (72 states + EU); 74 signatories by March 2026; Qatar first to ratify in Feb 2026 with reservations; Vietnam second
+  - C-PROC operational since 2014-04-07 in Bucharest under MoU with Romania; 2000+ activities for 130+ countries over 10 years

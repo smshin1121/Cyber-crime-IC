@@ -1,101 +1,103 @@
 ---
-type: operation
-title: "Operation Red Card"
-aliases: ["Red Card"]
-case_id: "CYB-2024-011"
-period: 3
-operation_type: "arrest-sweep"
-status: "completed"
-enforcement_type:
-  - "arrest"
-  - "seizure"
-outcome: "success"
+aliases:
+- Red Card
+case_id: CYB-2024-011
+challenges_encountered: []
+coordinating_body: '[[afripol]]'
+created: 2026-04-08
 credibility_index: 2.95
-source_tier: 2
+crime_type: '[[online-fraud-ic]]'
 edges:
-  - source_actor: "INTERPOL"
-    target_actor: "Nigeria Police Force"
-    cooperation_type: "joint_investigation"
-    legal_basis: "unknown"
-    direction: "undirected"
-  - source_actor: "INTERPOL"
-    target_actor: "South Africa Police Service"
-    cooperation_type: "joint_investigation"
-    legal_basis: "unknown"
-    direction: "undirected"
-  - source_actor: "INTERPOL"
-    target_actor: "Zambia Police"
-    cooperation_type: "joint_investigation"
-    legal_basis: "unknown"
-    direction: "undirected"
-  - source_actor: "INTERPOL"
-    target_actor: "Rwanda National Police"
-    cooperation_type: "joint_investigation"
-    legal_basis: "unknown"
-    direction: "undirected"
-  - source_actor: "Group-IB"
-    target_actor: "INTERPOL"
-    cooperation_type: "info_sharing"
-    legal_basis: "informal"
-    direction: "directed"
-  - source_actor: "Kaspersky"
-    target_actor: "INTERPOL"
-    cooperation_type: "info_sharing"
-    legal_basis: "informal"
-    direction: "directed"
-  - source_actor: "Trend Micro"
-    target_actor: "INTERPOL"
-    cooperation_type: "info_sharing"
-    legal_basis: "informal"
-    direction: "directed"
-missing_fields:
-  - "legal_basis"
-  - "mechanisms_used"
-  - "cryptocurrency_seized"
-  - "indictments"
-timeframe:
-  announced: "2025-03-24"
-  start: "2024-11-01"
-  end: "2025-02-28"
-  ongoing: false
-crime_type: "[[online-fraud-ic]]"
-target_entity: "Cybercriminals operating mobile banking fraud, investment scams, SIM box fraud, and malware distribution across Africa"
-lead_agency: "[[interpol-igci]]"
-coordinating_body: "[[afripol]]"
-participating_countries:
-  - "[[nigeria]]"
-  - "[[south-africa]]"
-  - "[[zambia]]"
-  - "[[rwanda]]"
-  - "[[benin]]"
-  - "[[cote-divoire]]"
-  - "[[togo]]"
-participating_agencies:
-  - "[[interpol-igci]]"
-  - "[[afripol]]"
+- cooperation_type: joint_investigation
+  direction: undirected
+  legal_basis: unknown
+  source_actor: INTERPOL
+  target_actor: Nigeria Police Force
+- cooperation_type: joint_investigation
+  direction: undirected
+  legal_basis: unknown
+  source_actor: INTERPOL
+  target_actor: South Africa Police Service
+- cooperation_type: joint_investigation
+  direction: undirected
+  legal_basis: unknown
+  source_actor: INTERPOL
+  target_actor: Zambia Police
+- cooperation_type: joint_investigation
+  direction: undirected
+  legal_basis: unknown
+  source_actor: INTERPOL
+  target_actor: Rwanda National Police
+- cooperation_type: info_sharing
+  direction: directed
+  legal_basis: informal
+  source_actor: Group-IB
+  target_actor: INTERPOL
+- cooperation_type: info_sharing
+  direction: directed
+  legal_basis: informal
+  source_actor: Kaspersky
+  target_actor: INTERPOL
+- cooperation_type: info_sharing
+  direction: directed
+  legal_basis: informal
+  source_actor: Trend Micro
+  target_actor: INTERPOL
+enforcement_type:
+- arrest
+- seizure
+lead_agency: '[[interpol-igci]]'
 legal_basis: []
+lessons_learned: []
 mechanisms_used: []
-results:
-  arrests: 306
-  indictments: 0
-  servers_seized: 0
-  domains_seized: 0
-  cryptocurrency_seized: ""
-  decryption_keys_recovered: 0
-  victims_notified: 5000
-  other:
-    - "1,842 devices seized"
+missing_fields:
+- legal_basis
+- mechanisms_used
+- cryptocurrency_seized
+- indictments
+operation_type: arrest-sweep
+outcome: success
+participating_agencies:
+- '[[interpol-igci]]'
+- '[[afripol]]'
+participating_countries:
+- '[[nigeria]]'
+- '[[south-africa]]'
+- '[[zambia]]'
+- '[[rwanda]]'
+- '[[benin]]'
+- '[[cote-divoire]]'
+- '[[togo]]'
+period: 3
 related_cases: []
 related_operations:
-  - "[[operation-serengeti]]"
-  - "[[operation-sentinel-africa]]"
-challenges_encountered: []
-lessons_learned: []
-source_count: 2
+- '[[operation-serengeti]]'
+- '[[operation-sentinel-africa]]'
+results:
+  arrests: 306
+  cryptocurrency_seized: ''
+  decryption_keys_recovered: 0
+  domains_seized: 0
+  indictments: 0
+  other:
+  - 1,842 devices seized
+  servers_seized: 0
+  victims_notified: 5000
+source_count: 0
+source_tier: 2
 sources:
-  - "[[2025-03-24-interpol-operation-red-card]]"
-  - "[[2025-03-24-africanews-operation-red-card]]"
-created: 2026-04-08
+- '[[2025-03-24-interpol-operation-red-card]]'
+- '[[2025-03-24-africanews-operation-red-card]]'
+status: completed
+target_entity: Cybercriminals operating mobile banking fraud, investment scams, SIM
+  box fraud, and malware distribution across Africa
+timeframe:
+  announced: '2025-03-24'
+  end: '2025-02-28'
+  ongoing: false
+  start: '2024-11-01'
+title: Operation Red Card
+type: operation
 updated: 2026-04-08
 ---
 

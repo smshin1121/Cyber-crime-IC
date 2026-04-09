@@ -17,7 +17,7 @@ timeframe:
 crime_type: "[[ddos-ic]]"
 target_entity: "DD4BC (DDoS for Bitcoin) group"
 lead_agency: "[[europol-ec3]]"
-coordinating_body: "[[europol]]"
+coordinating_body: "[[europol-ec3]]"
 participating_countries:
   - "[[united-kingdom]]"
   - "[[austria]]"
@@ -30,7 +30,7 @@ participating_countries:
   - "[[romania]]"
   - "[[switzerland]]"
 participating_agencies:
-  - "[[europol]]"
+  - "[[europol-ec3]]"
   - "[[europol-ec3]]"
   - "[[j-cat]]"
   - "[[london-metropolitan-police]]"

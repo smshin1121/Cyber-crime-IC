@@ -1,39 +1,39 @@
 ---
-type: crime-type
-title: "CSAM (Child Sexual Abuse Material) — International Cooperation Perspective"
 aliases:
-  - "CSAM"
-  - "child sexual exploitation"
-  - "child abuse material"
-  - "아동 성착취물"
-crime_category: "content-related"
-typical_ic_challenges:
-  - "[[data-sovereignty]]"
-  - "[[jurisdiction-challenges]]"
-typical_mechanisms:
-  - "[[interpol-icse-database|INTERPOL ICSE Database]]"
-  - "[[europol-vidtf|Europol Victim Identification Task Force]]"
-key_organizations:
-  - "[[europol-ec3]]"
-  - "[[interpol-igci]]"
-  - "[[ncmec|NCMEC]]"
-notable_operations:
-  - "[[operation-stream-kidflix]]"
-  - "[[operation-cyber-guardian]]"
-  - "[[operation-orion-international]]"
-notable_cases: []
+- CSAM
+- child sexual exploitation
+- child abuse material
+- 아동 성착취물
+created: 2026-04-08
+crime_category: content-related
 criminalization_status:
   broadly_criminalized: true
   definition_varies: true
   problem_jurisdictions: []
-estimated_annual_loss: "unquantifiable (harm to children)"
+estimated_annual_loss: unquantifiable (harm to children)
+key_organizations:
+- '[[europol-ec3]]'
+- '[[interpol-igci]]'
+- '[[ncmec|NCMEC]]'
+notable_cases: []
+notable_operations:
+- '[[operation-stream-kidflix]]'
+- '[[operation-cyber-guardian]]'
+- '[[operation-orion-international]]'
 relevant_legal_frameworks: []
-source_count: 3
+source_count: 0
 sources:
-  - "[[2025-04-04-europol-operation-stream-kidflix]]"
-  - "[[2025-04-07-korea-npa-operation-cyber-guardian]]"
-  - "[[2024-10-15-interpol-operation-orion-international]]"
-created: 2026-04-08
+- '[[2025-04-04-europol-operation-stream-kidflix]]'
+- '[[2025-04-07-korea-npa-operation-cyber-guardian]]'
+- '[[2024-10-15-interpol-operation-orion-international]]'
+title: CSAM (Child Sexual Abuse Material) — International Cooperation Perspective
+type: crime-type
+typical_ic_challenges:
+- '[[data-sovereignty]]'
+- '[[jurisdiction-challenges]]'
+typical_mechanisms:
+- '[[interpol-icse-database|INTERPOL ICSE Database]]'
+- '[[europol-vidtf|Europol Victim Identification Task Force]]'
 updated: 2026-04-08
 ---
 

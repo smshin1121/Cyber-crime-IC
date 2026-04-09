@@ -1,109 +1,111 @@
 ---
-type: operation
-title: "Operation Talent"
-aliases: ["Talent"]
-case_id: "CYB-2025-011"
-period: 3
-operation_type: "takedown"
-status: "completed"
-enforcement_type:
-  - "arrest"
-  - "takedown"
-  - "seizure"
-outcome: "success"
+aliases:
+- Talent
+case_id: CYB-2025-011
+challenges_encountered: []
+coordinating_body: '[[europol-ec3]]'
+created: 2026-04-08
 credibility_index: 2.28
-source_tier: 2
+crime_type: '[[hacking-ic]]'
 edges:
-  - source_actor: "Germany BKA"
-    target_actor: "Europol"
-    cooperation_type: "joint_investigation"
-    legal_basis: "unknown"
-    direction: "undirected"
-  - source_actor: "FBI"
-    target_actor: "Germany BKA"
-    cooperation_type: "joint_investigation"
-    legal_basis: "MLAT"
-    direction: "undirected"
-  - source_actor: "Germany BKA"
-    target_actor: "Greece Police"
-    cooperation_type: "joint_investigation"
-    legal_basis: "unknown"
-    direction: "undirected"
-  - source_actor: "Germany BKA"
-    target_actor: "Spain Police"
-    cooperation_type: "joint_investigation"
-    legal_basis: "unknown"
-    direction: "undirected"
-  - source_actor: "Germany BKA"
-    target_actor: "France Police"
-    cooperation_type: "joint_investigation"
-    legal_basis: "unknown"
-    direction: "undirected"
-  - source_actor: "Germany BKA"
-    target_actor: "Romania Police"
-    cooperation_type: "joint_investigation"
-    legal_basis: "unknown"
-    direction: "undirected"
-  - source_actor: "Germany BKA"
-    target_actor: "Italy Police"
-    cooperation_type: "joint_investigation"
-    legal_basis: "unknown"
-    direction: "undirected"
-  - source_actor: "Germany BKA"
-    target_actor: "Australia AFP"
-    cooperation_type: "joint_investigation"
-    legal_basis: "unknown"
-    direction: "undirected"
-missing_fields:
-  - "legal_basis"
-  - "mechanisms_used"
-  - "cryptocurrency_seized"
-  - "servers_seized_count"
-timeframe:
-  announced: "2025-01-30"
-  start: "2025-01-28"
-  end: "2025-01-30"
-  ongoing: false
-crime_type: "[[hacking-ic]]"
-target_entity: "Cracked and Nulled cybercrime forums — world's two largest cybercrime marketplaces"
-lead_agency: "[[germany-bka]]"
-coordinating_body: "[[europol-ec3]]"
-participating_countries:
-  - "[[germany]]"
-  - "[[united-states]]"
-  - "[[greece]]"
-  - "[[spain]]"
-  - "[[france]]"
-  - "[[romania]]"
-  - "[[italy]]"
-  - "[[australia]]"
-participating_agencies:
-  - "[[germany-bka]]"
-  - "[[europol-ec3]]"
-  - "[[fbi-cyber-division]]"
+- cooperation_type: joint_investigation
+  direction: undirected
+  legal_basis: unknown
+  source_actor: Germany BKA
+  target_actor: Europol
+- cooperation_type: joint_investigation
+  direction: undirected
+  legal_basis: MLAT
+  source_actor: FBI
+  target_actor: Germany BKA
+- cooperation_type: joint_investigation
+  direction: undirected
+  legal_basis: unknown
+  source_actor: Germany BKA
+  target_actor: Greece Police
+- cooperation_type: joint_investigation
+  direction: undirected
+  legal_basis: unknown
+  source_actor: Germany BKA
+  target_actor: Spain Police
+- cooperation_type: joint_investigation
+  direction: undirected
+  legal_basis: unknown
+  source_actor: Germany BKA
+  target_actor: France Police
+- cooperation_type: joint_investigation
+  direction: undirected
+  legal_basis: unknown
+  source_actor: Germany BKA
+  target_actor: Romania Police
+- cooperation_type: joint_investigation
+  direction: undirected
+  legal_basis: unknown
+  source_actor: Germany BKA
+  target_actor: Italy Police
+- cooperation_type: joint_investigation
+  direction: undirected
+  legal_basis: unknown
+  source_actor: Germany BKA
+  target_actor: Australia AFP
+enforcement_type:
+- arrest
+- takedown
+- seizure
+lead_agency: '[[germany-bka]]'
 legal_basis: []
+lessons_learned: []
 mechanisms_used: []
-results:
-  arrests: 2
-  indictments: 0
-  servers_seized: 0
-  domains_seized: 0
-  cryptocurrency_seized: ""
-  decryption_keys_recovered: 0
-  victims_notified: 0
-  other:
-    - "Cracked forum dismantled (4M+ users)"
-    - "Nulled forum dismantled (5M+ users)"
-    - "Related services seized (payment, hosting)"
-    - "Annual criminal revenue EUR 1M+"
+missing_fields:
+- legal_basis
+- mechanisms_used
+- cryptocurrency_seized
+- servers_seized_count
+operation_type: takedown
+outcome: success
+participating_agencies:
+- '[[germany-bka]]'
+- '[[europol-ec3]]'
+- '[[fbi-cyber-division]]'
+participating_countries:
+- '[[germany]]'
+- '[[united-states]]'
+- '[[greece]]'
+- '[[spain]]'
+- '[[france]]'
+- '[[romania]]'
+- '[[italy]]'
+- '[[australia]]'
+period: 3
 related_cases: []
 related_operations: []
-challenges_encountered: []
-lessons_learned: []
-source_count: 1
+results:
+  arrests: 2
+  cryptocurrency_seized: ''
+  decryption_keys_recovered: 0
+  domains_seized: 0
+  indictments: 0
+  other:
+  - Cracked forum dismantled (4M+ users)
+  - Nulled forum dismantled (5M+ users)
+  - Related services seized (payment, hosting)
+  - Annual criminal revenue EUR 1M+
+  servers_seized: 0
+  victims_notified: 0
+source_count: 0
+source_tier: 2
 sources:
-  - "[[2025-01-30-europol-operation-talent]]"
-created: 2026-04-08
+- '[[2025-01-30-europol-operation-talent]]'
+status: completed
+target_entity: Cracked and Nulled cybercrime forums — world's two largest cybercrime
+  marketplaces
+timeframe:
+  announced: '2025-01-30'
+  end: '2025-01-30'
+  ongoing: false
+  start: '2025-01-28'
+title: Operation Talent
+type: operation
 updated: 2026-04-08
 ---
 

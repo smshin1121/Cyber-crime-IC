@@ -29,7 +29,7 @@ operations_participated:
 - '[[operation-serengeti]]'
 org_type: regional-org
 parent_org: '[[african-union]]'
-source_count: 1
+source_count: 0
 sources:
 - '[[2024-11-26-interpol-operation-serengeti]]'
 title: AFRIPOL (African Police Cooperation Organization)

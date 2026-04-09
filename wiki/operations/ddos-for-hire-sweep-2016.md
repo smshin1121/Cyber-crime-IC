@@ -3,7 +3,7 @@ aliases:
 - International Cyber Sweep DDoS
 case_id: CYB-2016-002
 challenges_encountered: []
-coordinating_body: '[[europol]]'
+coordinating_body: '[[europol-ec3]]'
 created: 2026-04-08
 credibility_index: 2.95
 crime_type: '[[ddos-ic]]'
@@ -25,7 +25,7 @@ missing_fields:
 operation_type: arrest-sweep
 outcome: success
 participating_agencies:
-- '[[europol]]'
+- '[[europol-ec3]]'
 - '[[europol-ec3]]'
 - '[[fbi]]'
 participating_countries:

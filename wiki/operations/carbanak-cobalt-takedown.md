@@ -3,7 +3,7 @@ aliases:
 - Carbanak Cobalt Takedown
 case_id: CYB-2018-001
 challenges_encountered: []
-coordinating_body: '[[europol]]'
+coordinating_body: '[[europol-ec3]]'
 created: 2026-04-08
 credibility_index: 3.25
 crime_type: '[[malware-ic]]'
@@ -31,7 +31,7 @@ operation_type: joint-investigation
 outcome: success
 participating_agencies:
 - '[[spanish-national-police]]'
-- '[[europol]]'
+- '[[europol-ec3]]'
 - '[[fbi]]'
 - '[[romanian-police]]'
 - '[[kaspersky-lab]]'

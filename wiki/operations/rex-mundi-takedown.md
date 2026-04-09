@@ -17,7 +17,7 @@ timeframe:
 crime_type: "[[hacking-ic]]"
 target_entity: "Rex Mundi hacking group"
 lead_agency: "[[london-metropolitan-police]]"
-coordinating_body: "[[europol]]"
+coordinating_body: "[[europol-ec3]]"
 participating_countries:
   - "[[united-kingdom]]"
   - "[[france]]"
@@ -26,7 +26,7 @@ participating_agencies:
   - "[[london-metropolitan-police]]"
   - "[[french-high-tech-crime-unit]]"
   - "[[thai-royal-police]]"
-  - "[[europol]]"
+  - "[[europol-ec3]]"
   - "[[j-cat]]"
 legal_basis: []
 mechanisms_used: []

@@ -17,13 +17,13 @@ timeframe:
 crime_type: "[[malware-ic]]"
 target_entity: "Beebone Botnet (polymorphic)"
 lead_agency: "[[europol-ec3]]"
-coordinating_body: "[[europol]]"
+coordinating_body: "[[europol-ec3]]"
 participating_countries:
   - "[[netherlands]]"
   - "[[united-states]]"
   - "[[eu-member-states]]"
 participating_agencies:
-  - "[[europol]]"
+  - "[[europol-ec3]]"
   - "[[europol-ec3]]"
   - "[[j-cat]]"
   - "[[dutch-nhtcu]]"

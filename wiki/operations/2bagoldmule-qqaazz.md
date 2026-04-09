@@ -16,8 +16,8 @@ timeframe:
   ongoing: false
 crime_type: "[[money-laundering-ic]]"
 target_entity: "QQAAZZ money laundering network"
-lead_agency: "[[europol]]"
-coordinating_body: "[[europol]]"
+lead_agency: "[[europol-ec3]]"
+coordinating_body: "[[europol-ec3]]"
 participating_countries:
   - "[[portugal]]"
   - "[[united-states]]"
@@ -36,7 +36,7 @@ participating_countries:
   - "[[austria]]"
   - "[[belgium]]"
 participating_agencies:
-  - "[[europol]]"
+  - "[[europol-ec3]]"
   - "[[portuguese-judicial-police]]"
   - "[[usdoj]]"
   - "[[fbi]]"

@@ -3,7 +3,7 @@ aliases:
 - Avalanche Takedown
 case_id: CYB-2016-001
 challenges_encountered: []
-coordinating_body: '[[europol]]'
+coordinating_body: '[[europol-ec3]]'
 created: 2026-04-08
 credibility_index: 4.0
 crime_type: '[[malware-ic]]'
@@ -37,7 +37,7 @@ missing_fields:
 operation_type: takedown
 outcome: success
 participating_agencies:
-- '[[europol]]'
+- '[[europol-ec3]]'
 - '[[eurojust]]'
 - '[[interpol]]'
 - '[[fbi]]'

@@ -26,14 +26,23 @@ notable_cases: []
 official_name: European Cybercrime Centre
 official_name_ko: 유럽사이버범죄센터
 operations_participated:
+- '[[2bagoldmule-qqaazz]]'
 - '[[andromeda-botnet-takedown]]'
 - '[[belgium-netherlands-phishing-gang]]'
 - '[[blackcat-lockeroga-kelvin-security-2023]]'
+- '[[botnet-takedown-europol-2023]]'
+- '[[carbanak-cobalt-takedown]]'
+- '[[cyber-fraud-international-2015]]'
 - '[[darkode-takedown]]'
 - '[[ddos-for-hire-sweep-2016]]'
 - '[[doublevpn-takedown]]'
+- '[[fake-shopping-sites-takedown-2024]]'
 - '[[franco-israeli-ceo-fraud]]'
+- '[[global-airport-action-day]]'
+- '[[goznym-takedown]]'
+- '[[hive-ransomware-takedown]]'
 - '[[imminent-monitor-rat-takedown]]'
+- '[[operation-avalanche]]'
 - '[[operation-bakovia]]'
 - '[[operation-cronos-phase1]]'
 - '[[operation-cronos-phase3]]'
@@ -43,6 +52,7 @@ operations_participated:
 - '[[operation-morpheus]]'
 - '[[operation-nova]]'
 - '[[operation-pleiades]]'
+- '[[operation-secreto]]'
 - '[[operation-shrouded-horizon]]'
 - '[[operation-source]]'
 - '[[operation-stream-kidflix]]'
@@ -50,11 +60,14 @@ operations_participated:
 - '[[phobos-8base-crackdown]]'
 - '[[qakbot-gallyamov-indictment]]'
 - '[[qqaazz-money-laundering-takedown]]'
+- '[[rex-mundi-takedown]]'
+- '[[romania-phishing-takedown-2024]]'
 - '[[xdedic-marketplace-takedown]]'
 - '[[xhelper-upi-money-mule]]'
+- '[[zeus-spyeye-jit-takedown]]'
 - '[[zeus-spyeye-takedown]]'
 org_type: regional-org
-parent_org: '[[europol]]'
+parent_org: '[[europol-ec3]]'
 source_count: 7
 sources:
 - '[[2024-02-20-europol-operation-cronos-lockbit]]'

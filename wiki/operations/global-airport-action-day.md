@@ -31,7 +31,7 @@ operation_type: arrest-sweep
 outcome: success
 participating_agencies:
 - '[[interpol]]'
-- '[[europol]]'
+- '[[europol-ec3]]'
 - '[[ameripol]]'
 - '[[frontex]]'
 - '[[iata]]'

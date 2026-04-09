@@ -16,14 +16,14 @@ timeframe:
   ongoing: false
 crime_type: "[[malware-ic]]"
 target_entity: "Zeus/SpyEye cybercrime ring"
-lead_agency: "[[europol]]"
+lead_agency: "[[europol-ec3]]"
 coordinating_body: "[[eurojust]]"
 participating_countries:
   - "[[austria]]"
   - "[[belgium]]"
   - "[[ukraine]]"
 participating_agencies:
-  - "[[europol]]"
+  - "[[europol-ec3]]"
   - "[[eurojust]]"
 legal_basis: []
 mechanisms_used: ["[[joint-investigation-team]]"]

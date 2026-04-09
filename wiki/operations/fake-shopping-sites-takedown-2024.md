@@ -2,7 +2,7 @@
 aliases: []
 case_id: CYB-2024-013
 challenges_encountered: []
-coordinating_body: '[[europol]]'
+coordinating_body: '[[europol-ec3]]'
 created: 2026-04-08
 credibility_index: 3.25
 crime_type: '[[online-fraud-ic]]'
@@ -31,7 +31,7 @@ missing_fields:
 operation_type: takedown
 outcome: success
 participating_agencies:
-- '[[europol]]'
+- '[[europol-ec3]]'
 - '[[german-hannover-police]]'
 - '[[verden-prosecution]]'
 participating_countries:

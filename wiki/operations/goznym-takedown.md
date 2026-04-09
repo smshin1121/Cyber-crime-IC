@@ -3,7 +3,7 @@ aliases:
 - GozNym Takedown
 case_id: CYB-2019-001
 challenges_encountered: []
-coordinating_body: '[[europol]]'
+coordinating_body: '[[europol-ec3]]'
 created: 2026-04-08
 credibility_index: 3.62
 crime_type: '[[malware-ic]]'
@@ -26,7 +26,7 @@ edges:
 enforcement_type:
 - arrest
 - indictment
-lead_agency: '[[europol]]'
+lead_agency: '[[europol-ec3]]'
 legal_basis: []
 lessons_learned: []
 mechanisms_used: []
@@ -36,7 +36,7 @@ missing_fields:
 operation_type: joint-investigation
 outcome: success
 participating_agencies:
-- '[[europol]]'
+- '[[europol-ec3]]'
 - '[[usdoj]]'
 - '[[bulgarian-police]]'
 - '[[german-police]]'

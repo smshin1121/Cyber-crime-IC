@@ -16,7 +16,7 @@ timeframe:
   ongoing: false
 crime_type: "[[online-fraud-ic]]"
 target_entity: "International cyber fraud ring"
-lead_agency: "[[europol]]"
+lead_agency: "[[europol-ec3]]"
 coordinating_body: "[[eurojust]]"
 participating_countries:
   - "[[italy]]"
@@ -26,7 +26,7 @@ participating_countries:
   - "[[belgium]]"
   - "[[georgia]]"
 participating_agencies:
-  - "[[europol]]"
+  - "[[europol-ec3]]"
   - "[[eurojust]]"
   - "[[polizia-di-stato]]"
   - "[[spanish-national-police]]"

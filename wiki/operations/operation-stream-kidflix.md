@@ -67,7 +67,7 @@ results:
   - 1.8 million registered users
   servers_seized: 0
   victims_notified: 0
-source_count: 1
+source_count: 0
 source_tier: 3
 sources:
 - '[[2025-04-04-europol-operation-stream-kidflix]]'

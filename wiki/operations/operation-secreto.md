@@ -17,7 +17,7 @@ timeframe:
 crime_type: "[[online-fraud-ic]]"
 target_entity: "Credit card fraud network targeting US-based banks"
 lead_agency: "[[spanish-national-police]]"
-coordinating_body: "[[europol]]"
+coordinating_body: "[[europol-ec3]]"
 participating_countries:
   - "[[spain]]"
   - "[[united-states]]"
@@ -27,7 +27,7 @@ participating_countries:
 participating_agencies:
   - "[[spanish-national-police]]"
   - "[[us-secret-service]]"
-  - "[[europol]]"
+  - "[[europol-ec3]]"
   - "[[eurojust]]"
   - "[[usdoj]]"
 legal_basis: []

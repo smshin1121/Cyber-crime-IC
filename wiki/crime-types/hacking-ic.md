@@ -1,26 +1,31 @@
 ---
-type: crime-type
-title: "Hacking / Computer Intrusion — International Cooperation Perspective"
-aliases: ["hacking", "computer intrusion", "unauthorized access", "state-sponsored hacking", "APT"]
-crime_category: "cyber-dependent"
-typical_ic_challenges: []
-relevant_legal_frameworks:
-  - "[[budapest-convention]]"
-typical_mechanisms: []
-key_organizations:
-  - "[[fbi-cyber-division]]"
-notable_operations:
-  - "[[isoon-apt27-indictment]]"
-notable_cases: []
+aliases:
+- hacking
+- computer intrusion
+- unauthorized access
+- state-sponsored hacking
+- APT
+created: 2026-04-08
+crime_category: cyber-dependent
 criminalization_status:
   broadly_criminalized: true
   definition_varies: true
   problem_jurisdictions: []
-estimated_annual_loss: ""
-source_count: 1
+estimated_annual_loss: ''
+key_organizations:
+- '[[fbi-cyber-division]]'
+notable_cases: []
+notable_operations:
+- '[[isoon-apt27-indictment]]'
+relevant_legal_frameworks:
+- '[[budapest-convention]]'
+source_count: 0
 sources:
-  - "[[2025-03-05-doj-isoon-chinese-hackers-charges]]"
-created: 2026-04-08
+- '[[2025-03-05-doj-isoon-chinese-hackers-charges]]'
+title: Hacking / Computer Intrusion — International Cooperation Perspective
+type: crime-type
+typical_ic_challenges: []
+typical_mechanisms: []
 updated: 2026-04-08
 ---
 

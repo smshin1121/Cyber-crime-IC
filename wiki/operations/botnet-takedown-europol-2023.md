@@ -2,7 +2,7 @@
 aliases: []
 case_id: CYB-2023-005
 challenges_encountered: []
-coordinating_body: '[[europol]]'
+coordinating_body: '[[europol-ec3]]'
 created: 2026-04-08
 credibility_index: 3.25
 crime_type: '[[malware-ic]]'
@@ -20,7 +20,7 @@ edges:
 enforcement_type:
 - takedown
 - seizure
-lead_agency: '[[europol]]'
+lead_agency: '[[europol-ec3]]'
 legal_basis: []
 lessons_learned: []
 mechanisms_used: []
@@ -32,7 +32,7 @@ missing_fields:
 operation_type: takedown
 outcome: success
 participating_agencies:
-- '[[europol]]'
+- '[[europol-ec3]]'
 - '[[eurojust]]'
 participating_countries:
 - '[[germany]]'

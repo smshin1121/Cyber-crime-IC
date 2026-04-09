@@ -2,7 +2,7 @@
 created: 2026-04-08
 title: International Cooperation on Cyber Crime - Overview
 type: overview
-updated: '2026-04-09'
+updated: '2026-04-10'
 ---
 
 # State of International Cooperation on Cyber Crime
@@ -42,7 +42,11 @@ The **DOJ-led model** leverages US multi-agency coordination (FBI, HSI, USSS, IR
 
 ## Recent Treaty Developments
 
-- **2024:** [[south-korea]] acceded to the [[budapest-convention]], becoming the first major East Asian economy to join
+- **2024:** [[south-korea]] acceded to the [[budapest-convention]], becoming the first major East Asian economy to join. The Budapest Convention reached **81 states parties** by August 2025.
+- **2024-12-24:** UN General Assembly adopted the [[un-cybercrime-convention-2024|UN Convention against Cybercrime]] (the first globally negotiated binding cybercrime treaty).
+- **2025-10-25/26:** UN Convention opened for signature at a ceremony in **Hanoi, Vietnam**; 72 states plus the European Union signed; signatory total rose to 74 by March 2026.
+- **2026-02:** **Qatar** became the first state to ratify the UN Cybercrime Convention (with two reservations); **Vietnam** followed. 40 ratifications required for entry into force.
+- **2026-02-05:** **Hungary** became the third state to ratify the [[second-additional-protocol|Second Additional Protocol to the Budapest Convention (CETS 224)]], joining Japan and Serbia — the Protocol has not yet entered into force.
 
 ## Emerging Challenges
 

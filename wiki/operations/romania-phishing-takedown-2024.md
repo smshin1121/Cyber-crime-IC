@@ -17,11 +17,11 @@ timeframe:
 crime_type: "[[online-fraud-ic]]"
 target_entity: "Phishing network in Romania"
 lead_agency: "[[romanian-police]]"
-coordinating_body: "[[europol]]"
+coordinating_body: "[[europol-ec3]]"
 participating_countries:
   - "[[romania]]"
 participating_agencies:
-  - "[[europol]]"
+  - "[[europol-ec3]]"
   - "[[romanian-police]]"
   - "[[romanian-prosecution]]"
 legal_basis: []

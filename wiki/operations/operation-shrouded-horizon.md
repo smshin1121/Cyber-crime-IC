@@ -3,7 +3,7 @@ aliases:
 - Darkode Takedown
 case_id: CYB-2015-001
 challenges_encountered: []
-coordinating_body: '[[europol]]'
+coordinating_body: '[[europol-ec3]]'
 created: 2026-04-08
 credibility_index: 3.62
 crime_type: '[[hacking-ic]]'
@@ -35,7 +35,7 @@ outcome: success
 participating_agencies:
 - '[[fbi]]'
 - '[[usdoj]]'
-- '[[europol]]'
+- '[[europol-ec3]]'
 - '[[europol-ec3]]'
 - '[[ncfta]]'
 participating_countries:

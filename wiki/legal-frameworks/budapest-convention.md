@@ -1,60 +1,72 @@
 ---
-type: legal-framework
-title: "Budapest Convention on Cybercrime"
-official_name: "Convention on Cybercrime (CETS No. 185)"
-official_name_ko: "사이버범죄에 관한 협약 (부다페스트 협약)"
-aliases: ["CETS No. 185", "ETS 185", "Cybercrime Convention", "CoE Cybercrime Convention"]
-framework_type: "convention"
-adopted_date: "2001-11-23"
-entry_into_force: "2004-07-01"
-depositary: "Council of Europe"
-sponsoring_body: "[[council-of-europe]]"
-status: "in-force"
-parties:
-  states_parties: 76
-  signatories: 3
-  notable_non_parties: ["Russia", "China", "India", "Indonesia"]
+adopted_date: '2001-11-23'
+aliases:
+- CETS No. 185
+- ETS 185
+- Cybercrime Convention
+- CoE Cybercrime Convention
+created: 2026-04-08
+depositary: Council of Europe
+entry_into_force: '2004-07-01'
+framework_type: convention
+implementing_mechanisms:
+- '[[24-7-network]]'
+- '[[mlat-process]]'
 key_provisions:
-  - article: "Art. 2-11"
-    topic: "Substantive criminal law harmonization"
-    relevance: "Common definitions for cybercrime offenses across parties"
-  - article: "Art. 14-21"
-    topic: "Procedural powers"
-    relevance: "Standardized investigative tools for digital evidence"
-  - article: "Art. 23-35"
-    topic: "International cooperation"
-    relevance: "Core IC chapter — MLA, preservation, 24/7 Network"
-  - article: "Art. 29"
-    topic: "Expedited preservation of stored data"
-    relevance: "60-day preservation pending formal MLA — critical stopgap"
-  - article: "Art. 31"
-    topic: "Mutual assistance accessing stored data"
-    relevance: "Tailored MLA for digital evidence search/seizure/disclosure"
-  - article: "Art. 32"
-    topic: "Trans-border access to stored data"
-    relevance: "Unilateral access to public data or with consent — most debated provision"
-  - article: "Art. 35"
-    topic: "24/7 Network"
-    relevance: "Designated contact points for immediate assistance"
+- article: Art. 2-11
+  relevance: Common definitions for cybercrime offenses across parties
+  topic: Substantive criminal law harmonization
+- article: Art. 14-21
+  relevance: Standardized investigative tools for digital evidence
+  topic: Procedural powers
+- article: Art. 23-35
+  relevance: Core IC chapter — MLA, preservation, 24/7 Network
+  topic: International cooperation
+- article: Art. 29
+  relevance: 60-day preservation pending formal MLA — critical stopgap
+  topic: Expedited preservation of stored data
+- article: Art. 31
+  relevance: Tailored MLA for digital evidence search/seizure/disclosure
+  topic: Mutual assistance accessing stored data
+- article: Art. 32
+  relevance: Unilateral access to public data or with consent — most debated provision
+  topic: Trans-border access to stored data
+- article: Art. 35
+  relevance: Designated contact points for immediate assistance
+  topic: 24/7 Network
+official_name: Convention on Cybercrime (CETS No. 185)
+official_name_ko: 사이버범죄에 관한 협약 (부다페스트 협약)
+operations_enabled: []
+parties:
+  notable_non_parties:
+  - Russia
+  - China
+  - India
+  - Indonesia
+  signatories: 2
+  states_parties: 81
+related_frameworks:
+- '[[second-additional-protocol]]'
+- '[[un-cybercrime-convention-2024]]'
 scope:
-  substantive_law: true
-  procedural_law: true
+  data_protection: false
+  evidence: true
   international_cooperation: true
   jurisdiction: true
-  evidence: true
-  data_protection: false
-related_frameworks: ["[[second-additional-protocol]]", "[[un-cybercrime-convention-2024]]"]
-implementing_mechanisms: ["[[24-7-network]]", "[[mlat-process]]"]
-operations_enabled: []
-source_count: 0
+  procedural_law: true
+  substantive_law: true
+source_count: 7
 sources: []
-created: 2026-04-08
-updated: 2026-04-08
+sponsoring_body: '[[council-of-europe]]'
+status: in-force
+title: Budapest Convention on Cybercrime
+type: legal-framework
+updated: 2026-04-10
 ---
 
 ## Summary
 
-The Budapest Convention on Cybercrime is the **first and most significant binding international treaty** dedicated to combating cybercrime through harmonized criminal law, common investigative powers, and international cooperation mechanisms. Adopted by the Council of Europe in 2001 and in force since 2004, it has grown to approximately 70 states parties, including major non-European states such as the United States, Canada, Japan, Australia, and — since 2024 — South Korea.
+The Budapest Convention on Cybercrime is the **first and most significant binding international treaty** dedicated to combating cybercrime through harmonized criminal law, common investigative powers, and international cooperation mechanisms. Adopted by the Council of Europe in 2001 and in force since 2004, it had grown to **81 states parties as of August 2025** (with Ireland and South Africa as signatory-only states), including major non-European states such as the United States, Canada, Japan, Australia, and — since 2024 — South Korea.
 
 The Convention is *highly likely* the single most important legal instrument for international cooperation on cybercrime. It provides the legal basis for expedited data preservation, mutual legal assistance tailored to digital evidence, and the 24/7 Network for urgent cross-border contacts.
 
@@ -92,7 +104,9 @@ This is the **most controversial provision** — critics argue it permits extrat
 
 ## Parties and Participation
 
-As of 2024, **76 states parties** (per C-PROC data) with accessions continuing steadily into 2026. The Convention is notable for its openness to non-Council of Europe members.
+As of **August 2025, 81 states have ratified** the Convention, with Ireland and South Africa having signed but not yet ratified [^coe-parties]. Accessions have continued steadily into 2026. The Convention is notable for its openness to non-Council of Europe members.
+
+[^coe-parties]: Source: Wikipedia "Budapest Convention on Cybercrime" citing the Council of Europe Treaty Office (CETS No. 185) — https://en.wikipedia.org/wiki/Budapest_Convention_on_Cybercrime. Official figures available at https://www.coe.int/en/web/cybercrime/parties-observers.
 
 **Major parties include:** All 46 Council of Europe members, plus the United States, Canada, Japan, Australia, Israel, Argentina, Chile, Colombia, Costa Rica, Dominican Republic, Ghana, Morocco, Mauritius, Panama, Peru, Philippines, Senegal, South Korea, Sri Lanka, Tonga, and others.
 
@@ -122,7 +136,9 @@ Known challenges:
 
 ## Relationship to Other Frameworks
 
-**[[second-additional-protocol]] (CETS No. 224):** Modernizes the Convention with direct provider cooperation, emergency MLA, JITs, and videoconferencing provisions. Adopted 2022; entry into force pending sufficient ratifications (5 required, including 3 CoE members). As of early 2025, 40+ signatures but single-digit ratifications.
+**[[second-additional-protocol]] (CETS No. 224):** Modernizes the Convention with direct provider cooperation, emergency MLA, JITs, and videoconferencing provisions. Adopted 2022; entry into force pending sufficient ratifications (5 required, including 3 CoE members). As of February 2026, the Protocol has **3 ratifications** — Japan, Serbia, and Hungary (which became the third ratifier on 5 February 2026) — and has **not yet entered into force**. Signatures by some 40+ parties have been recorded since the 2022 opening ceremony. [^cets224]
+
+[^cets224]: Sources: Council of Europe Cybercrime News "Hungary became the third state to ratify the Second Additional Protocol" (https://www.coe.int/en/web/cybercrime/-/cyberspex-hungary-became-the-third-state-to-ratify-the-second-additional-protocol-to-the-convention-on-cybercrime-1); CoE CETS 224 page (https://www.coe.int/en/web/cybercrime/second-additional-protocol).
 
 **[[un-cybercrime-convention-2024]]:** Adopted August 8, 2024 by the UN General Assembly. Broader membership potential but reflects different geopolitical priorities. The two instruments are formally complementary but represent competing visions: Budapest (Western-led, existing cooperation framework) vs. UN (developing-world participation, sovereignty emphasis). It is *likely* that both will coexist, with Budapest remaining the operational gold standard for IC while the UN Convention expands participation.
 
@@ -157,4 +173,14 @@ South Korea **acceded to the Budapest Convention in 2024**, becoming the first m
 
 ## References
 
-> [!note] This page is primarily based on the text of the Budapest Convention (CETS No. 185) and general legal scholarship on cybercrime treaties. No specific collected sources from this wiki were used, as the 20 collected sources cover operational matters rather than treaty text. Treaty details are verifiable through the Council of Europe Treaty Office (https://www.coe.int/en/web/conventions/).
+> [!note] This page is primarily based on the text of the Budapest Convention (CETS No. 185) and general legal scholarship on cybercrime treaties. Fact-checked 2026-04-10 against Council of Europe and Wikipedia sources.
+
+| # | Title | Publisher | Date | URL |
+|---|-------|----------|------|-----|
+| [1] | About the Convention — Budapest Convention | Council of Europe | continuous | [원본](https://www.coe.int/en/web/cybercrime/the-budapest-convention) |
+| [2] | Parties/Observers to the Budapest Convention and Observer Organisations to the T-CY | Council of Europe | continuous | [원본](https://www.coe.int/en/web/cybercrime/parties-observers) |
+| [3] | Budapest Convention on Cybercrime — Wikipedia (81 ratifications as of August 2025) | Wikipedia | 2025-08 | [원본](https://en.wikipedia.org/wiki/Budapest_Convention_on_Cybercrime) |
+| [4] | Second Additional Protocol (CETS No. 224) | Council of Europe | 2022-05-12 | [원본](https://www.coe.int/en/web/cybercrime/second-additional-protocol) |
+| [5] | CyberSPEX: Hungary became the third state to ratify the Second Additional Protocol | Council of Europe | 2026-02-05 | [원본](https://www.coe.int/en/web/cybercrime/-/cyberspex-hungary-became-the-third-state-to-ratify-the-second-additional-protocol-to-the-convention-on-cybercrime-1) |
+| [6] | Budapest Convention reaches 75 Parties | Council of Europe Portal | n.d. | [원본](https://www.coe.int/en/web/portal/-/budapest-convention-reaches-75-parties) |
+| [7] | From Budapest to Hanoi: Comparing the COE and UN Cybercrime Conventions | Lawfare | 2025 | [원본](https://www.lawfaremedia.org/article/from-budapest-to-hanoi--comparing-the-coe-and-un-cybercrime-conventions) |

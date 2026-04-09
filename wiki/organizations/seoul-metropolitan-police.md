@@ -1,30 +1,34 @@
 ---
-type: organization
-title: "Seoul Metropolitan Police Agency (SMPA)"
-official_name: "Seoul Metropolitan Police Agency"
-official_name_ko: "서울경찰청"
-aliases: ["SMPA", "서울경찰청", "Seoul Metropolitan Police"]
-org_type: "national-unit"
-parent_org: "[[knpa-cyber-bureau]]"
-country: "[[south-korea]]"
-headquarters: "Seoul, South Korea"
-established: ""
-mandate: "Metropolitan police agency for Seoul; conducts cybercrime investigations with international cooperation capabilities."
-member_states: 0
-key_roles:
-  - "Cybercrime investigation in Seoul metropolitan area"
-  - "Bilateral cooperation with Chinese police on voice phishing"
-cooperation_partners: []
-frameworks_administered: []
-mechanisms_operated: []
-operations_participated:
-  - "[[korea-china-voice-phishing-qingdao]]"
-notable_cases: []
+aliases:
+- SMPA
+- 서울경찰청
+- Seoul Metropolitan Police
 contact_point_for: []
-source_count: 1
-sources:
-  - "[[2023-09-08-korea-china-voice-phishing-qingdao]]"
+cooperation_partners: []
+country: '[[south-korea]]'
 created: 2026-04-08
+established: ''
+frameworks_administered: []
+headquarters: Seoul, South Korea
+key_roles:
+- Cybercrime investigation in Seoul metropolitan area
+- Bilateral cooperation with Chinese police on voice phishing
+mandate: Metropolitan police agency for Seoul; conducts cybercrime investigations
+  with international cooperation capabilities.
+mechanisms_operated: []
+member_states: 0
+notable_cases: []
+official_name: Seoul Metropolitan Police Agency
+official_name_ko: 서울경찰청
+operations_participated:
+- '[[korea-china-voice-phishing-qingdao]]'
+org_type: national-unit
+parent_org: '[[knpa-cyber-bureau]]'
+source_count: 0
+sources:
+- '[[2023-09-08-korea-china-voice-phishing-qingdao]]'
+title: Seoul Metropolitan Police Agency (SMPA)
+type: organization
 updated: 2026-04-08
 ---
 

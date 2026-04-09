@@ -3,7 +3,7 @@ aliases:
 - Hive Ransomware Takedown
 case_id: CYB-2023-006
 challenges_encountered: []
-coordinating_body: '[[europol]]'
+coordinating_body: '[[europol-ec3]]'
 created: 2026-04-08
 credibility_index: 3.25
 crime_type: '[[ransomware-ic]]'
@@ -38,7 +38,7 @@ outcome: success
 participating_agencies:
 - '[[fbi]]'
 - '[[usdoj]]'
-- '[[europol]]'
+- '[[europol-ec3]]'
 - '[[german-bka]]'
 - '[[dutch-police]]'
 - '[[uk-nca]]'
