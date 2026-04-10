@@ -8,6 +8,32 @@ The user curates sources, directs analysis, and asks questions. You do everythin
 
 ---
 
+## ⚠ MANDATORY: Read LESSONS.md before starting work
+
+Every session must begin by reading [`LESSONS.md`](LESSONS.md) (project root). It contains accumulated lessons from past mistakes. Same mistakes are NOT to be repeated.
+
+**Quick checklist when starting work:**
+
+| Task type | Required lessons to apply |
+|---|---|
+| Creating/enriching source pages | L1 (filename≠truth), L2 (verify agent output), L14 (grep for N matches) |
+| Auto-collection / filter changes | L4 (AND filter), L5 (rejection learning loop) |
+| Organization / country pages | L3 (status + last_verified + history) |
+| Translation / build | L6 (placeholder nesting) |
+| Multiple parallel agents | L10 (max 3-4 background, fallback ready) |
+| WebFetch failures | L11 (Cloudflare bot protection, WebSearch fallback) |
+| External tool integration | L7 (verify behavior, version drift), L8 (Windows cp949) |
+| External URL referenced in wiki | L12, L13 (check_external_urls.py + bot whitelist) |
+
+After completing any task:
+- Run `python tools/lint.py` (HIGH must be 0)
+- Run `python tools/check_links.py` (broken must be 0)
+- Run `grep -c "ZZPROT\|>PROT[0-9]" docs/` (must be 0)
+
+If you find a new failure mode that is NOT in LESSONS.md → add a new L# entry to LESSONS.md before closing the session.
+
+---
+
 ## Project Structure
 
 ```
