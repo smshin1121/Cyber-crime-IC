@@ -3,7 +3,7 @@
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Europol: Operation Source — 사이버범죄 국제공조 위키</title>
+  <title>Europol: International Police Operation Targets Polymorphic Beebone Botnet (Operation Source) — 사이버범죄 국제공조 위키</title>
   <link rel="stylesheet" href="../../static/style.css">
   <link rel="preconnect" href="https://fonts.googleapis.com">
   <link href="https://fonts.googleapis.com/css2?family=Noto+Sans+KR:wght@400;600;700&family=Noto+Serif+KR:wght@400;700&display=swap" rel="stylesheet">
@@ -42,7 +42,7 @@
     <div class="article-header">
       <h1>
         
-          Europol: Operation Source
+          Europol: International Police Operation Targets Polymorphic Beebone Botnet (Operation Source)
         
       </h1>
       <div class="article-meta">
@@ -59,6 +59,10 @@
           </a></span>
         
         
+          <span>
+            <span class="i18n" data-ko="최종 수정" data-en="Updated"></span>: 2026-04-10
+          </span>
+        
         
       </div>
     </div>
@@ -67,46 +71,156 @@
         <div class="ko-block"><h2 id="_1">소스</h2>
 <ul>
 <li><strong>출판사</strong>: Europol</li>
-<li><strong>URL</strong>: <a href="https://www.europol.europa.eu/media-press/newsroom/news/international-police-operation-targets-polymorphic-beebone-botnet" target="_blank" rel="noopener noreferrer">europol.europa.eu</a></li>
-<li><strong>소스 계층</strong>: 2</li>
-<li><strong>신뢰도</strong>: 높음</li>
-<li><strong>참조된 작업</strong>: <a href="../../wiki/operations/operation-source.html" class="wikilink">operation-source</a></li>
+<li><strong>저자</strong>: Europol Press Office(기관)</li>
+<li><strong>URL</strong>: <a href="https://www.europol.europa.eu/media-press/newsroom/news/international-police-operation-targets-polymorphic-beebone-botnet" target="_blank" rel="noopener noreferrer">https://www.europol.europa.eu/media-press/newsroom/news/international-police-operation-targets-polymorphic-beebone-botnet</a></li>
+<li><strong>게시</strong>: 2015-04-09</li>
+<li><strong>소스 계층</strong>: 2(Tier A — 공식 국제 기관)</li>
+<li><strong>신뢰도</strong>: 높음(조정 기관의 주요 공식 출처)</li>
+<li><strong>신뢰도</strong>: 확인됨</li>
+<li><strong>참조된 작업</strong>: <a href="../../wiki/operations/operation-source.html" class="wikilink">Operation Source (Beebone Botnet Takedown)</a></li>
 </ul>
-<h2 id="_2">참고자료</h2>
+<h2 id="_2">요약</h2>
+<p>Europol 보도 자료에서는 <strong>2015년 4월 8일</strong>에 <strong>다형성 Beebone 봇넷</strong>(<strong>W32/Worm-AAEH</strong>라고도 함)을 공동으로 중단하는 <strong>Operation Source</strong>를 발표했습니다. 이 작전은 <strong>J-CAT(합동 사이버 범죄 행동 태스크포스)</strong> 및 <strong>네덜란드 국립 첨단 기술 범죄 수사대(NHTCU)</strong>를 주요 운영 파트너로 하는 <strong>유로폴의 유럽 사이버 범죄 센터(EC3)</strong>가 주도했으며 <strong>FBI</strong>, <strong>미국 국립 사이버 조사 합동 태스크 포스</strong>, <strong>Eurojust</strong> 및 민간 사이버 보안 회사 컨소시엄의 지원을 받았습니다.</p>
+<p>게시 중단 방법은 물리적 서버 압류가 아닌 <strong>도메인 싱크홀링</strong>, 즉 명령 및 제어 통신을 위해 봇넷이 사용하는 도메인을 등록, 일시 중지 또는 점유하는 것이었습니다. 이는 인프라를 빠르게 회전시키는 악성 코드의 다형성 특성을 반영했습니다.</p>
+<p>주요 기술 지표:
+- W32/Worm-AAEH 제품군의 <strong>500만 개의 고유 다형성 샘플</strong>
+- 2013~2014년 분석 기간 동안 <strong>195개국</strong>의 <strong>23,000개 시스템</strong>에서 수집된 <strong>205,000개 이상의 샘플</strong>
+- 게시 중단 당시 활발하게 감염되어 있는 <strong>~12,000대의 컴퓨터</strong>
+- 영향을 가장 많이 받는 국가: <strong>미국, 일본, 인도, 대만</strong></p>
+<p>Beebone은 금융 자격 증명 도용자, 랜섬웨어, 루트킷, 가짜 바이러스 백신 등 다른 악성 코드에 대한 <strong>배포 벡터</strong> 역할을 하여 여러 범죄 생태계에 대한 파괴력을 동시에 배가시키는 역할을 했기 때문에 중요했습니다.</p>
+<h2 id="_3">이 소스가 중요한 이유</h2>
+<p><a href="../../wiki/operations/operation-source.html" class="wikilink">operation-source</a>의 경우 이 Europol 보도 자료는 현재 Wiki에 있는 <strong>유일한 Tier-2 기본 소스</strong>이며 다음을 제공합니다.</p>
+<ul>
+<li>참여 기관 및 민간 파트너에 대한 <strong>정식 확인</strong></li>
+<li><strong>싱크홀 방법론 세부정보</strong> — 기술적 접근 방식을 이해하는 데 중요</li>
+<li><strong>강제 승수 프레이밍</strong> — 다른 악성 코드의 배포자로서 Beebone의 역할은 게시 중단에 대한 <em>전략적</em> 정당화입니다.</li>
+<li><strong>역사적 기준점</strong> — Operation Source는 EU가 주도한 최초의 대규모 봇넷 제거 중 하나이며 이후 작업에서 개선된 공공-민간 파트너십 모델을 확립했습니다.</li>
+<li><strong>7개 민간 부문 파트너</strong> — 2015년 폐지를 위한 이례적으로 광범위한 업계 연합</li>
+</ul>
+<h2 id="ic">사이버범죄 IC의 운영적 중요성</h2>
+<p>작업 소스는 다음에 대한 참조 사례입니다.</p>
+<ol>
+<li><strong>PPP(Public-Private Partnership) 모델</strong> — 이전 게시 중단의 일반적인 1~2개 공급업체 파트너십을 훨씬 뛰어넘는 7개의 민간 보안 공급업체가 참여했습니다.</li>
+<li>빠른 인프라 교체로 인해 물리적 서버 점유가 불가능한 다형성 봇넷에 대한 <strong>싱크홀 점유 방법</strong></li>
+<li><strong>강제 승수 정당화</strong> - 가치 제안은 단지 하나의 봇넷을 차단하는 것이 아니라 여러 악성 코드군의 배포 경로를 방해하는 것입니다.</li>
+<li><strong>J-CAT 작전 데뷔</strong> — 2014년에 설립된 합동 사이버 범죄 대책 태스크포스(Joint Cybercrime Action Taskforce)의 초기 주요 작전 중 하나</li>
+</ol>
+<h2 id="_4">다른 소스와의 상호 참조</h2>
+<p>Operation Source에 대한 추가 소스는 현재 위키에 없습니다. 이는 현재 데이터 세트의 <strong>단일 소스 작업</strong>이며 소스 다양성이 낮을 경우 플래그가 지정되어야 합니다.</p>
+<table>
+<thead>
+<tr>
+<th>Source</th>
+<th>Confirms</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Europol press release (this source)</td>
+<td>All operation facts</td>
+</tr>
+<tr>
+<td>Intel Security / McAfee Labs reporting (external)</td>
+<td>Technical W32/Worm-AAEH analysis</td>
+</tr>
+</tbody>
+</table>
+<h2 id="_5">참고자료</h2>
 <table>
 <thead>
 <tr>
 <th>#</th>
+<th>Source</th>
+<th>Publisher</th>
+<th>Date</th>
 <th>URL</th>
 </tr>
 </thead>
 <tbody>
 <tr>
 <td>[1]</td>
-<td><a href="https://www.europol.europa.eu/media-press/newsroom/news/international-police-operation-targets-polymorphic-beebone-botnet" target="_blank" rel="noopener noreferrer">원본</a></td>
+<td>International Police Operation Targets Polymorphic Beebone Botnet</td>
+<td>Europol</td>
+<td>2015-04-09</td>
+<td>https://www.europol.europa.eu/media-press/newsroom/news/international-police-operation-targets-polymorphic-beebone-botnet</td>
 </tr>
 </tbody>
 </table></div>
         <div class="en-block"><h2 id="source">Source</h2>
 <ul>
 <li><strong>Publisher</strong>: Europol</li>
-<li><strong>URL</strong>: <a href="https://www.europol.europa.eu/media-press/newsroom/news/international-police-operation-targets-polymorphic-beebone-botnet" target="_blank" rel="noopener noreferrer">europol.europa.eu</a></li>
-<li><strong>Source Tier</strong>: 2</li>
-<li><strong>Reliability</strong>: high</li>
-<li><strong>Operations Referenced</strong>: <a href="../../wiki/operations/operation-source.html" class="wikilink">operation-source</a></li>
+<li><strong>Author</strong>: Europol Press Office (institutional)</li>
+<li><strong>URL</strong>: <a href="https://www.europol.europa.eu/media-press/newsroom/news/international-police-operation-targets-polymorphic-beebone-botnet" target="_blank" rel="noopener noreferrer">https://www.europol.europa.eu/media-press/newsroom/news/international-police-operation-targets-polymorphic-beebone-botnet</a></li>
+<li><strong>Published</strong>: 2015-04-09</li>
+<li><strong>Source Tier</strong>: 2 (Tier A — official international agency)</li>
+<li><strong>Reliability</strong>: high (primary official source from the coordinating body)</li>
+<li><strong>Credibility</strong>: confirmed</li>
+<li><strong>Operations referenced</strong>: <a href="../../wiki/operations/operation-source.html" class="wikilink">Operation Source (Beebone Botnet Takedown)</a></li>
 </ul>
+<h2 id="summary"><span class="heading-ko">개요</span><span class="heading-en">Summary</span></h2>
+<p>The Europol press release announces <strong>Operation Source</strong>, the coordinated takedown of the <strong>polymorphic Beebone botnet</strong> (also known as <strong>W32/Worm-AAEH</strong>) on <strong>8 April 2015</strong>. The operation was led by <strong>Europol's European Cybercrime Centre (EC3)</strong> with the <strong>Joint Cybercrime Action Taskforce (J-CAT)</strong> and the <strong>Dutch National High Tech Crime Unit (NHTCU)</strong> as principal operational partners, and supported by the <strong>FBI</strong>, the <strong>US National Cyber Investigative Joint Task Force</strong>, <strong>Eurojust</strong>, and a consortium of private cybersecurity firms.</p>
+<p>The takedown methodology was <strong>domain sinkholing</strong> — registering, suspending, or seizing domains used by the botnet for command-and-control communication — rather than physical server seizure. This reflected the polymorphic nature of the malware, which rotated its infrastructure rapidly.</p>
+<p>Key technical metrics:
+- <strong>5 million unique polymorphic samples</strong> of the W32/Worm-AAEH family
+- <strong>205,000+ samples</strong> collected from <strong>23,000 systems</strong> across <strong>195 countries</strong> during 2013-2014 analysis period
+- <strong>~12,000 computers</strong> actively infected at the time of takedown
+- Top affected countries: <strong>United States, Japan, India, Taiwan</strong></p>
+<p>Beebone was significant because it served as a <strong>distribution vector</strong> for other malware — financial credential stealers, ransomware, rootkits, and fake antivirus — making its disruption a force multiplier against multiple criminal ecosystems simultaneously.</p>
+<h2 id="why-this-source-matters">Why this source matters</h2>
+<p>For <a href="../../wiki/operations/operation-source.html" class="wikilink">operation-source</a> this Europol press release is the <strong>only Tier-2 primary source</strong> currently in the wiki and provides:</p>
+<ul>
+<li><strong>Authoritative confirmation</strong> of the participating agencies and private-sector partners</li>
+<li><strong>Sinkhole methodology detail</strong> — important for understanding the technical approach</li>
+<li><strong>Force-multiplier framing</strong> — Beebone's role as a distributor for other malware is the <em>strategic</em> justification for the takedown</li>
+<li><strong>Historical reference point</strong> — Operation Source is one of the earliest large-scale EU-led botnet takedowns and established the public-private-partnership model refined in later operations</li>
+<li><strong>7 private-sector partners</strong> — an unusually broad industry coalition for a 2015-era takedown</li>
+</ul>
+<h2 id="operational-significance-for-cybercrime-ic">Operational significance for cybercrime IC</h2>
+<p>Operation Source is a reference case for:</p>
+<ol>
+<li><strong>Public-private partnership (PPP) model</strong> — 7 private security vendors participated, well beyond the typical 1-2 vendor partnerships of earlier takedowns</li>
+<li><strong>Sinkhole-over-seize methodology</strong> for polymorphic botnets where physical server seizure is infeasible due to rapid infrastructure rotation</li>
+<li><strong>Force-multiplier justification</strong> — the value proposition is not just shutting down one botnet but disrupting the distribution path for many malware families</li>
+<li><strong>J-CAT operational debut</strong> — one of the earliest major operations by the Joint Cybercrime Action Taskforce established in 2014</li>
+</ol>
+<h2 id="cross-reference-with-other-sources">Cross-reference with other sources</h2>
+<p>No additional sources for Operation Source are currently in the wiki. This is a <strong>single-source operation</strong> in the current dataset and should be flagged for lower source diversity.</p>
+<table>
+<thead>
+<tr>
+<th>Source</th>
+<th>Confirms</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Europol press release (this source)</td>
+<td>All operation facts</td>
+</tr>
+<tr>
+<td>Intel Security / McAfee Labs reporting (external)</td>
+<td>Technical W32/Worm-AAEH analysis</td>
+</tr>
+</tbody>
+</table>
 <h2 id="references"><span class="heading-ko">참고문헌</span><span class="heading-en">References</span></h2>
 <table>
 <thead>
 <tr>
 <th>#</th>
+<th>Source</th>
+<th>Publisher</th>
+<th>Date</th>
 <th>URL</th>
 </tr>
 </thead>
 <tbody>
 <tr>
 <td>[1]</td>
-<td><a href="https://www.europol.europa.eu/media-press/newsroom/news/international-police-operation-targets-polymorphic-beebone-botnet" target="_blank" rel="noopener noreferrer">원본</a></td>
+<td>International Police Operation Targets Polymorphic Beebone Botnet</td>
+<td>Europol</td>
+<td>2015-04-09</td>
+<td>https://www.europol.europa.eu/media-press/newsroom/news/international-police-operation-targets-polymorphic-beebone-botnet</td>
 </tr>
 </tbody>
 </table></div>
@@ -119,7 +233,7 @@
     <div class="infobox">
       <div class="infobox-header">
         
-          Europol: Operation Source
+          Europol: International Police Operation Targets Polymorphic Beebone Botnet (Operation Source)
         
       </div>
       <table>
@@ -163,6 +277,18 @@
         
         <tr>
           <th>
+            <span class="heading-ko">발행일</span>
+            <span class="heading-en">Pub Date</span>
+          </th>
+          <td>
+            
+              2015-04-09
+            
+          </td>
+        </tr>
+        
+        <tr>
+          <th>
             <span class="heading-ko">신뢰도</span>
             <span class="heading-en">Reliability</span>
           </th>
@@ -180,7 +306,7 @@
           </th>
           <td>
             
-              probably-true
+              confirmed
             
           </td>
         </tr>

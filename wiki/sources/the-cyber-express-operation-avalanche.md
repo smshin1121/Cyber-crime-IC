@@ -1,12 +1,14 @@
 ---
 type: source
-title: "The Cyber Express: Operation Avalanche"
+title: "The Cyber Express: CBI Takes Down Transnational Cybercrime Network in India (Operation Chakra-III)"
 collection_url: "https://thecyberexpress.com/cbi-seizes-transnational-cybercrime-network/"
 collection_domain: "thecyberexpress.com"
 source_type: "news"
 publisher: "The Cyber Express"
-publish_date: ""
+author: "Mihir Bagwe"
+publish_date: "2024-09-30"
 ingest_date: "2026-04-08"
+enriched_date: "2026-04-10"
 language: "en"
 reliability: "medium"
 credibility: "possibly-true"
@@ -14,20 +16,65 @@ sensitivity: "public"
 source_tier: 3
 pages_updated:
   - "operation-avalanche"
-key_findings: []
+key_findings:
+  - "The Cyber Express reported on 2024-09-30 (updated 2025-07-09) that India's Central Bureau of Investigation (CBI) dismantled a transnational cybercrime network under the codename Operation Chakra-III"
+  - "26 arrests across raids in Pune, Hyderabad, Ahmedabad, and Visakhapatnam; over 170 individuals worked at the implicated call centers"
+  - "Modus operandi: tech-support scams targeting US citizens; one highlighted victim was scammed into transferring ~USD 500,000 into cryptocurrency wallets"
+  - "Seized assets: 951 electronic devices, cryptocurrency, cash, gold bullion, and luxury vehicles"
+  - "CBI coordinated with the FBI, Homeland Security Investigations (HSI), and Interpol — a rare India↔US↔Interpol triad with direct Indian domestic field action"
+  - "URL/operation mismatch: this source is filed under [[operation-avalanche]] but is about **Operation Chakra-III** (India CBI, Sep 2024) — an entirely distinct operation. The wiki should create an `operation-chakra-iii` page and re-file this source there"
 created: 2026-04-08
+updated: 2026-04-10
 ---
 
 ## Source
 
 - **Publisher**: The Cyber Express
-- **URL**: [thecyberexpress.com](https://thecyberexpress.com/cbi-seizes-transnational-cybercrime-network/)
-- **Source Tier**: 3
+- **Author**: Mihir Bagwe
+- **URL**: <https://thecyberexpress.com/cbi-seizes-transnational-cybercrime-network/>
+- **Published**: 2024-09-30 (with 2025-07-09 update)
+- **Source Tier**: 3 (cybersecurity trade-press outlet based in India with India-focused coverage)
 - **Reliability**: medium
-- **Operations Referenced**: [[operation-avalanche]]
+- **Credibility**: possibly-true (directly attributed to CBI press materials; India-based reporter reasonable for India-centric operations)
+- **Operations referenced**: [[operation-avalanche]] (filed — but article is about Operation Chakra-III)
+
+> [!warning] URL / operation mismatch
+> This source is filed under [[operation-avalanche]] (a 2016 Europol-led malware takedown) but actually reports on **Operation Chakra-III** (a 2024 CBI-led tech-support scam takedown in India). A new `operation-chakra-iii` page should be created.
+
+## Summary
+
+The Cyber Express documents **Operation Chakra-III**, a 2024 Indian CBI-led action against a transnational cybercrime network running tech-support scams against US citizens. Key facts:
+
+1. **Operation name**: Chakra-III (third in a series; Chakra-I was announced 2022, Chakra-II in 2023)
+2. **26 arrests** via coordinated raids in Pune, Hyderabad, Ahmedabad, Visakhapatnam
+3. **>170 individuals** employed at the implicated call centers
+4. **Scheme**: Tech-support scams impersonating Microsoft/Amazon/other brands, targeting US residents
+5. **Highlighted victim**: one US victim defrauded of nearly USD 500,000 via cryptocurrency transfers
+6. **Seized assets**: 951 electronic devices, cryptocurrency, cash, gold bullion, luxury vehicles
+7. **International cooperation**: CBI + **FBI + HSI + Interpol** — notable because India has historically been reluctant to act on US cybercrime referrals at scale
+
+## Why this source matters
+
+For a future `operation-chakra-iii` page The Cyber Express provides:
+
+- India-based specialised coverage with direct access to CBI briefings
+- Documentation of the **India↔US↔Interpol** cooperation channel — one of the most politically significant and under-reported bilateral cybercrime lanes
+- Evidence that India is operationalising cybercrime cooperation beyond symbolic gestures (951 devices, multi-city raids, USD 500k victim case)
+- Contextualises a *trend*: the Chakra series (Chakra-I in 2022, -II in 2023, -III in 2024) suggests institutional learning at CBI on transnational scam-center takedowns
+
+## Cross-reference with other sources
+
+| Source | Confirms |
+|---|---|
+| CBI press release on Chakra-III | Primary Indian-government source |
+| FBI press release on CBI cooperation | US-side acknowledgement |
+| Interpol statement | Multi-lateral coordination |
+| The Record / BleepingComputer | Independent trade-press corroboration |
 
 ## References
 
-| # | URL |
-|---|-----|
-| [1] | [원본](https://thecyberexpress.com/cbi-seizes-transnational-cybercrime-network/) |
+| # | Source | Publisher | Date | URL |
+|---|---|---|---|---|
+| [1] | CBI Takes Down Transnational Cybercrime Network in India (Operation Chakra-III) | The Cyber Express (Mihir Bagwe) | 2024-09-30 | https://thecyberexpress.com/cbi-seizes-transnational-cybercrime-network/ |
+| [2] | CBI press release on Operation Chakra-III | India CBI | 2024-09 | https://cbi.gov.in/ |
+| [3] | India's CBI Operation Chakra series | Interpol | 2024 | https://www.interpol.int/ |

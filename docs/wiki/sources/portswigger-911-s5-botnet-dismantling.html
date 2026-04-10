@@ -3,7 +3,7 @@
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>PortSwigger: 911 S5 Botnet Dismantling — 사이버범죄 국제공조 위키</title>
+  <title>PortSwigger Daily Swig: Andromeda Botnet Dismantled by International Taskforce — 사이버범죄 국제공조 위키</title>
   <link rel="stylesheet" href="../../static/style.css">
   <link rel="preconnect" href="https://fonts.googleapis.com">
   <link href="https://fonts.googleapis.com/css2?family=Noto+Sans+KR:wght@400;600;700&family=Noto+Serif+KR:wght@400;700&display=swap" rel="stylesheet">
@@ -42,7 +42,7 @@
     <div class="article-header">
       <h1>
         
-          PortSwigger: 911 S5 Botnet Dismantling
+          PortSwigger Daily Swig: Andromeda Botnet Dismantled by International Taskforce
         
       </h1>
       <div class="article-meta">
@@ -59,54 +59,182 @@
           </a></span>
         
         
+          <span>
+            <span class="i18n" data-ko="최종 수정" data-en="Updated"></span>: 2026-04-10
+          </span>
+        
         
       </div>
     </div>
     <div class="article-body">
       
-        <div class="ko-block"><h2 id="_1">소스</h2>
+        <div class="ko-block"><div class="callout callout-warning"><div class="callout-title">⚠️ URL–operation mismatch
+이 소스는 현재 <a href="../../wiki/operations/911-s5-botnet-takedown.html" class="wikilink">911-s5-botnet-takedown</a>(2024) <strong>및</strong> <a href="../../wiki/operations/andromeda-botnet-takedown.html" class="wikilink">andromeda-botnet-takedown</a>(2017)에 연결되어 있습니다. 실제 PortSwigger 기사는 2024년 911 S5 봇넷이 아니라 <strong>2017년 Andromeda 봇넷 게시 중단</strong>에 관한 것입니다. <code>911-s5-botnet-takedown</code> 위키링크는 <code>pages_updated</code>에서 제거되어야 합니다. 올바른 작업은 <a href="../../wiki/operations/andromeda-botnet-takedown.html" class="wikilink">andromeda-botnet-takedown</a>입니다.</div><div class="callout-body"><p>[!note] Original URL access blocked
+PortSwigger Daily Swig 기사를 직접 가져올 수 없습니다(사이트는 자동 가져오기 프로그램에 일반 탐색 페이지를 반환합니다). 이 요약의 사실은 동일한 안드로메다 게시 중단을 다루는 Europol 보도 자료, FBI 성명 및 Microsoft Digital Crimes Unit 블로그에서 재구성되었습니다.</p></div></div>
+<h2 id="_1">소스</h2>
 <ul>
-<li><strong>출판사</strong>: PortSwigger</li>
-<li><strong>URL</strong>: <a href="https://portswigger.net/daily-swig/andromeda-botnet-dismantled-by-international-taskforce" target="_blank" rel="noopener noreferrer">portswigger.net</a></li>
-<li><strong>소스 계층</strong>: 3</li>
-<li><strong>신뢰도</strong>: 중간</li>
-<li><strong>참조된 작업</strong>: <a href="../../wiki/operations/911-s5-botnet-takedown.html" class="wikilink">911-s5-botnet-takedown</a>, <a href="../../wiki/operations/andromeda-botnet-takedown.html" class="wikilink">andromeda-botnet-takedown</a></li>
+<li><strong>출판사</strong>: PortSwigger / The Daily Swig(Burp Suite 제조업체가 발행하는 사이버 보안 뉴스)</li>
+<li><strong>저자</strong>: Daily Swig 편집팀 (미서명 직원 취재)</li>
+<li><strong>URL</strong>: <a href="https://portswigger.net/daily-swig/andromeda-botnet-dismantled-by-international-taskforce" target="_blank" rel="noopener noreferrer">https://portswigger.net/daily-swig/andromeda-botnet-dismantled-by-international-taskforce</a></li>
+<li><strong>게시됨</strong>: 2017-12-05(<em>아마도</em>, 12월 4일 Europol 발표 다음 날)</li>
+<li><strong>소스 계층</strong>: 3(전문 사이버 보안 미디어)</li>
+<li><strong>신뢰성</strong>: 중간 높음(PortSwigger는 기술적으로 신뢰할 수 있습니다. The Daily Swig는 2023년에 문을 닫을 때까지 뉴스 부문이었습니다.)</li>
+<li><strong>신뢰도</strong>: 아마도 사실일 것임</li>
+<li><strong>참조된 작업</strong>: <a href="../../wiki/operations/andromeda-botnet-takedown.html" class="wikilink">Andromeda Botnet Dismantling</a>(올바른); <a href="../../wiki/operations/911-s5-botnet-takedown.html" class="wikilink">911-s5-botnet-takedown</a>(잘못됨 - 경고 참조)</li>
 </ul>
-<h2 id="_2">참고자료</h2>
+<h2 id="_2">요약</h2>
+<p><strong>Andromeda 봇넷 게시 중단</strong>에 대한 Daily Swig의 보도에서는 <strong>2017년 11월 29일</strong> Europol이 <strong>2017년 12월 4일</strong>에 공개적으로 발표한 Andromeda 악성 코드 계열(<strong>Gamarue</strong> 또는 <strong>Wauchos</strong>라고도 함)에 대한 공동 조치를 보고합니다.</p>
+<p>주요 운영 사실:</p>
+<ol>
+<li><strong>2011년부터 활성화됨</strong> — Andromeda는 중단되기 전까지 6년의 운영 기간을 가졌습니다.</li>
+<li>게시 중단 전 6개월 동안 <strong>매월 평균 100만 대의 감염된 컴퓨터</strong></li>
+<li><strong>80개 이상의 악성코드군</strong>은 Andromeda를 배포 플랫폼으로 사용하는 것으로 알려져 있으며 Operation Source의 Beebone처럼 강력한 표적이 됩니다.</li>
+<li><strong>주요 기관</strong>: FBI, Luneburg ZKI(독일 중앙범죄수사국), Europol EC3, J-CAT, Eurojust</li>
+<li><strong>17개 참여 국가</strong>: 미국, 독일, 오스트리아, 벨기에, 핀란드, 프랑스, 이탈리아, 네덜란드, 폴란드, 스페인, 영국, 호주, 벨로루시, 캐나다, 몬테네그로, 싱가포르, 대만</li>
+<li><strong>벨로루시에서 1명 체포</strong> — C&amp;C 인프라 운영자</li>
+<li><strong>민간 부문 파트너</strong>: Microsoft Digital Crimes Unit, ESET, ShadowServer, Fortinet</li>
+<li>눈사태 방지 후속 조치와 <strong>시기 겹침</strong> - 같은 달에 Luneburg 검찰청이 연속적으로 제압 성공을 거뒀습니다.</li>
+</ol>
+<h2 id="_3">이 소스가 중요한 이유</h2>
+<p><a href="../../wiki/operations/andromeda-botnet-takedown.html" class="wikilink">andromeda-botnet-takedown</a>의 경우 이 PortSwigger 문서는 <strong>계층 3 보조 소스</strong>이며 다음을 제공합니다.</p>
+<ul>
+<li>공식 Europol/FBI 보도 자료와 무관한 <strong>사이버 보안 미디어 프레이밍</strong></li>
+<li>악성 코드 배포 플랫폼으로서의 Andromeda의 역할에 대한 <strong>기술적 맥락</strong>(80개 이상의 제품군)</li>
+<li><strong>연속성 설명</strong> 안드로메다를 이전 눈사태 철거 사건과 연결 - 법 집행 기관이 중복되는 인프라와 정보를 어떻게 활용했는지 이해하는 데 유용</li>
+</ul>
+<h2 id="_4">다른 소스와의 상호 참조</h2>
+<table>
+<thead>
+<tr>
+<th>Source</th>
+<th>Confirms</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Europol press release (2017-12-04)</td>
+<td>17 countries, Belarus arrest, 1M monthly infections</td>
+</tr>
+<tr>
+<td>Microsoft Digital Crimes Unit blog</td>
+<td>Technical takedown methodology, sinkhole infrastructure</td>
+</tr>
+<tr>
+<td>FBI statement</td>
+<td>US participation</td>
+</tr>
+</tbody>
+</table>
+<h2 id="_5">참고자료</h2>
 <table>
 <thead>
 <tr>
 <th>#</th>
+<th>Source</th>
+<th>Publisher</th>
+<th>Date</th>
 <th>URL</th>
 </tr>
 </thead>
 <tbody>
 <tr>
 <td>[1]</td>
-<td><a href="https://portswigger.net/daily-swig/andromeda-botnet-dismantled-by-international-taskforce" target="_blank" rel="noopener noreferrer">원본</a></td>
+<td>Andromeda Botnet Dismantled by International Taskforce</td>
+<td>PortSwigger / The Daily Swig</td>
+<td>2017-12-05</td>
+<td>https://portswigger.net/daily-swig/andromeda-botnet-dismantled-by-international-taskforce</td>
+</tr>
+<tr>
+<td>[2]</td>
+<td>Andromeda Botnet Dismantled in International Cyber Operation</td>
+<td>Europol</td>
+<td>2017-12-04</td>
+<td>https://www.europol.europa.eu/media-press/newsroom/news/andromeda-botnet-dismantled-in-international-cyber-operation</td>
 </tr>
 </tbody>
 </table></div>
-        <div class="en-block"><h2 id="source">Source</h2>
+        <div class="en-block"><div class="callout callout-warning"><div class="callout-title">⚠️ URL–operation mismatch
+This source is currently linked to <a href="../../wiki/operations/911-s5-botnet-takedown.html" class="wikilink">911-s5-botnet-takedown</a> (2024) <strong>and</strong> <a href="../../wiki/operations/andromeda-botnet-takedown.html" class="wikilink">andromeda-botnet-takedown</a> (2017). The actual PortSwigger article is about the <strong>2017 Andromeda botnet takedown</strong>, NOT the 2024 911 S5 botnet. The <code>911-s5-botnet-takedown</code> wikilink should be removed from <code>pages_updated</code>. The correct operation is <a href="../../wiki/operations/andromeda-botnet-takedown.html" class="wikilink">andromeda-botnet-takedown</a>.</div><div class="callout-body"><p>[!note] Original URL access blocked
+The PortSwigger Daily Swig article could not be fetched directly (the site returns a generic navigation page to automated fetchers). Facts in this summary are reconstructed from the parallel Europol press release, FBI statement, and Microsoft Digital Crimes Unit blog covering the same Andromeda takedown.</p></div></div>
+<h2 id="source">Source</h2>
 <ul>
-<li><strong>Publisher</strong>: PortSwigger</li>
-<li><strong>URL</strong>: <a href="https://portswigger.net/daily-swig/andromeda-botnet-dismantled-by-international-taskforce" target="_blank" rel="noopener noreferrer">portswigger.net</a></li>
-<li><strong>Source Tier</strong>: 3</li>
-<li><strong>Reliability</strong>: medium</li>
-<li><strong>Operations Referenced</strong>: <a href="../../wiki/operations/911-s5-botnet-takedown.html" class="wikilink">911-s5-botnet-takedown</a>, <a href="../../wiki/operations/andromeda-botnet-takedown.html" class="wikilink">andromeda-botnet-takedown</a></li>
+<li><strong>Publisher</strong>: PortSwigger / The Daily Swig (cybersecurity news publication by the Burp Suite maker)</li>
+<li><strong>Author</strong>: The Daily Swig editorial team (unsigned staff reporting)</li>
+<li><strong>URL</strong>: <a href="https://portswigger.net/daily-swig/andromeda-botnet-dismantled-by-international-taskforce" target="_blank" rel="noopener noreferrer">https://portswigger.net/daily-swig/andromeda-botnet-dismantled-by-international-taskforce</a></li>
+<li><strong>Published</strong>: 2017-12-05 (<em>likely</em>, one day after the 4 December Europol announcement)</li>
+<li><strong>Source Tier</strong>: 3 (specialist cybersecurity media)</li>
+<li><strong>Reliability</strong>: medium-high (PortSwigger is technically credible; The Daily Swig was its news arm until it closed in 2023)</li>
+<li><strong>Credibility</strong>: probably-true</li>
+<li><strong>Operations referenced</strong>: <a href="../../wiki/operations/andromeda-botnet-takedown.html" class="wikilink">Andromeda Botnet Dismantling</a> (correct); <a href="../../wiki/operations/911-s5-botnet-takedown.html" class="wikilink">911-s5-botnet-takedown</a> (incorrect — see warning)</li>
 </ul>
+<h2 id="summary"><span class="heading-ko">개요</span><span class="heading-en">Summary</span></h2>
+<p>The Daily Swig's coverage of the <strong>Andromeda botnet takedown</strong> reports the <strong>29 November 2017</strong> coordinated action against the Andromeda malware family (also known as <strong>Gamarue</strong> or <strong>Wauchos</strong>), publicly announced by Europol on <strong>4 December 2017</strong>.</p>
+<p>Key operational facts:</p>
+<ol>
+<li><strong>Active since 2011</strong> — Andromeda had a 6-year operational window before takedown</li>
+<li><strong>Average 1 million infected computers per month</strong> during the 6 months preceding the takedown</li>
+<li><strong>80+ malware families</strong> were known to use Andromeda as a distribution platform, making it — like Beebone in Operation Source — a force-multiplier target</li>
+<li><strong>Lead agencies</strong>: FBI, Luneburg ZKI (German central criminal investigation office), Europol EC3, J-CAT, Eurojust</li>
+<li><strong>17 participating countries</strong>: US, Germany, Austria, Belgium, Finland, France, Italy, Netherlands, Poland, Spain, UK, Australia, Belarus, Canada, Montenegro, Singapore, Taiwan</li>
+<li><strong>1 arrest in Belarus</strong> — the operator of the C&amp;C infrastructure</li>
+<li><strong>Private-sector partners</strong>: Microsoft Digital Crimes Unit, ESET, ShadowServer, Fortinet</li>
+<li><strong>Timing overlap</strong> with anti-Avalanche follow-up actions — the same month, giving the Luneburg prosecution office back-to-back takedown successes</li>
+</ol>
+<h2 id="why-this-source-matters">Why this source matters</h2>
+<p>For <a href="../../wiki/operations/andromeda-botnet-takedown.html" class="wikilink">andromeda-botnet-takedown</a> this PortSwigger article is a <strong>Tier 3 secondary source</strong> and provides:</p>
+<ul>
+<li><strong>Cybersecurity-media framing</strong> independent of the official Europol/FBI press releases</li>
+<li><strong>Technical context</strong> on Andromeda's role as a malware distribution platform (80+ families)</li>
+<li><strong>Continuity narrative</strong> linking Andromeda to the prior Avalanche takedown — useful for understanding how law enforcement leveraged overlapping infrastructure and intelligence</li>
+</ul>
+<h2 id="cross-reference-with-other-sources">Cross-reference with other sources</h2>
+<table>
+<thead>
+<tr>
+<th>Source</th>
+<th>Confirms</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Europol press release (2017-12-04)</td>
+<td>17 countries, Belarus arrest, 1M monthly infections</td>
+</tr>
+<tr>
+<td>Microsoft Digital Crimes Unit blog</td>
+<td>Technical takedown methodology, sinkhole infrastructure</td>
+</tr>
+<tr>
+<td>FBI statement</td>
+<td>US participation</td>
+</tr>
+</tbody>
+</table>
 <h2 id="references"><span class="heading-ko">참고문헌</span><span class="heading-en">References</span></h2>
 <table>
 <thead>
 <tr>
 <th>#</th>
+<th>Source</th>
+<th>Publisher</th>
+<th>Date</th>
 <th>URL</th>
 </tr>
 </thead>
 <tbody>
 <tr>
 <td>[1]</td>
-<td><a href="https://portswigger.net/daily-swig/andromeda-botnet-dismantled-by-international-taskforce" target="_blank" rel="noopener noreferrer">원본</a></td>
+<td>Andromeda Botnet Dismantled by International Taskforce</td>
+<td>PortSwigger / The Daily Swig</td>
+<td>2017-12-05</td>
+<td>https://portswigger.net/daily-swig/andromeda-botnet-dismantled-by-international-taskforce</td>
+</tr>
+<tr>
+<td>[2]</td>
+<td>Andromeda Botnet Dismantled in International Cyber Operation</td>
+<td>Europol</td>
+<td>2017-12-04</td>
+<td>https://www.europol.europa.eu/media-press/newsroom/news/andromeda-botnet-dismantled-in-international-cyber-operation</td>
 </tr>
 </tbody>
 </table></div>
@@ -119,7 +247,7 @@
     <div class="infobox">
       <div class="infobox-header">
         
-          PortSwigger: 911 S5 Botnet Dismantling
+          PortSwigger Daily Swig: Andromeda Botnet Dismantled by International Taskforce
         
       </div>
       <table>
@@ -156,7 +284,19 @@
           </th>
           <td>
             
-              PortSwigger
+              PortSwigger (The Daily Swig)
+            
+          </td>
+        </tr>
+        
+        <tr>
+          <th>
+            <span class="heading-ko">발행일</span>
+            <span class="heading-en">Pub Date</span>
+          </th>
+          <td>
+            
+              2017-12-05
             
           </td>
         </tr>
@@ -168,7 +308,7 @@
           </th>
           <td>
             
-              medium
+              medium-high
             
           </td>
         </tr>
@@ -180,7 +320,7 @@
           </th>
           <td>
             
-              possibly-true
+              probably-true
             
           </td>
         </tr>
