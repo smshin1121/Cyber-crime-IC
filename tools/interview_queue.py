@@ -209,7 +209,7 @@ def main() -> None:
             print(f"{q['qid']} [{q['status']}] {q['title'][:70]} -> {q.get('answer', '-')}")
     elif args.cmd == "answer":
         ok = mark_answered(args.qid, args.choice)
-        print(f"{'✔' if ok else '✘'} {args.qid} -> {args.choice}")
+        print(f"{'[OK]' if ok else '[FAIL]'} {args.qid} -> {args.choice}")
     elif args.cmd == "add":
         qid = add_question(
             item_id=args.item or "test",

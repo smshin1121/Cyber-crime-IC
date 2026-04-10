@@ -58,7 +58,7 @@ This source can be cited on the above pages as an academic-literature confirmati
 
 ## Method of Collection
 
-Auto-collected via [`tools/auto_collect.py`](../../tools/auto_collect.py) using the **OpenAlex API** with search query `transnational cybercrime joint investigation`. Filter passed `cyber=2 ic=2` (two cyber keywords + two IC keywords matched). Manually approved at evaluation step on 2026-04-10.
+Auto-collected via `tools/auto_collect.py` using the **OpenAlex API** with search query `transnational cybercrime joint investigation`. Filter passed `cyber=2 ic=2` (two cyber keywords + two IC keywords matched). Manually approved at evaluation step on 2026-04-10.
 
 ## References
 

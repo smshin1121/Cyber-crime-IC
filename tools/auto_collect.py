@@ -190,6 +190,44 @@ SOFT_EXCLUDE_KEYWORDS = [
     "appointment", "job vacancy", "job posting",
 ]
 
+# Policy advocacy markers — sources containing these without operational substance
+# are policy/opinion pieces, not operations. The wiki indexes by operations,
+# so policy-only items are rejected. Learned from rejection of Q0001 (Europol
+# De Bolle CSAM statement, 2026-04-10).
+POLICY_ADVOCACY_MARKERS = [
+    "advocates", "advocacy", "urges", "calls for",
+    "legal vacuum", "risk of removing", "would have far-reaching",
+    "expresses concern", "position paper", "policy brief",
+    "statement by", "statement of",
+]
+
+OPERATIONAL_MARKERS = [
+    "arrest", "arrested", "indicted", "indictment",
+    "seized", "seizure", "takedown", "dismantled",
+    "extradition", "extradited", "raid", "raided",
+    "convicted", "sentenced", "infrastructure seized",
+    "domains seized", "servers seized", "victims rescued",
+    "operation ", "joint investigation team",
+]
+
+# Data-privacy-heavy keywords — for academic sources that drift into data
+# protection compliance rather than operational cybercrime cooperation.
+# Learned from rejection of Q0002 (Khan systematic review, 2026-04-10).
+DATA_PRIVACY_HEAVY = [
+    "data privacy", "data protection", "gdpr",
+    "personal data", "compliance framework",
+    "standard contractual clauses", "binding corporate rules",
+    "privacy law", "data subject rights",
+]
+
+INVESTIGATIVE_MARKERS = [
+    "investigation", "prosecution", "joint operation",
+    "mlat", "mutual legal assistance",
+    "extradition", "criminal prosecution",
+    "law enforcement cooperation", "police cooperation",
+    "joint investigation team",
+]
+
 
 def is_ic_relevant(title: str, description: str) -> tuple[bool, str]:
     """Return (is_relevant, reason).
@@ -220,6 +258,23 @@ def is_ic_relevant(title: str, description: str) -> tuple[bool, str]:
     if any(kw in text for kw in SOFT_EXCLUDE_KEYWORDS):
         if len(cyber_hits) < 2 or len(ic_hits) < 2:
             return False, "soft_excluded"
+
+    # Policy advocacy filter (learned from Q0001 rejection 2026-04-10):
+    # If text contains policy-advocacy markers without any operational marker,
+    # it is opinion/policy not an operation. Reject.
+    has_policy = any(kw in text for kw in POLICY_ADVOCACY_MARKERS)
+    has_operational = any(kw in text for kw in OPERATIONAL_MARKERS)
+    if has_policy and not has_operational:
+        return False, "policy_no_operations"
+
+    # Data-privacy academic drift filter (learned from Q0002 rejection 2026-04-10):
+    # If text is heavy on data privacy / compliance concepts but lacks
+    # investigative markers, it is data-protection scholarship not cybercrime
+    # IC. Reject.
+    privacy_hits = sum(1 for kw in DATA_PRIVACY_HEAVY if kw in text)
+    investigative_hits = sum(1 for kw in INVESTIGATIVE_MARKERS if kw in text)
+    if privacy_hits >= 2 and investigative_hits == 0:
+        return False, "data_privacy_drift"
 
     return True, f"cyber={len(cyber_hits)} ic={len(ic_hits)}"
 
