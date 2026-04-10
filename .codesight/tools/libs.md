@@ -1,0 +1,81 @@
+# Libraries
+
+- `add_status_fields.py` — function main: () -> None
+- `apply_multi_source.py`
+  - function slugify: (name) -> str
+  - function find_operation_file: (op_name) -> Path | None
+  - function update_ci_in_frontmatter: (content, new_ci) -> str
+  - function update_references: (content, urls) -> str
+  - function main: () -> None
+- `auto_collect.py`
+  - function is_ic_relevant: (title, description) -> tuple[bool, str]
+  - function load_existing_operation_titles: () -> set[str]
+  - function likely_duplicate: (title, existing_titles) -> bool
+  - function load_state: () -> dict[str, Any]
+  - function save_state: (state, Any]) -> None
+  - function fetch_url: (url, timeout) -> str | None
+  - _...6 more_
+- `check_external_urls.py`
+  - function build_session: () -> requests.Session
+  - function extract_urls: () -> dict[str, list[str]]
+  - function is_cloudflare_challenge: (text) -> bool
+  - function check_one: (session, url) -> dict
+  - function classify: (status) -> str
+  - function main: () -> None
+- `check_links.py` — function check_all: () -> dict, function main: () -> None
+- `codesight_scan.py` — function run_npx: (args) -> int, function main: () -> None
+- `create_orphan_stubs.py`
+  - function create_org_stub: (slug, title, official, country, org_type, mandate, url) -> str
+  - function create_framework_stub: (slug, data) -> str
+  - function main: () -> None
+- `credibility_index.py`
+  - function source_count_score: (count) -> float
+  - function max_tier_score: (best_tier) -> float
+  - function diversity_score: (distinct_types) -> float
+  - function calculate_ci: (num_sources, best_tier, num_distinct_types) -> float
+  - function time_weight: (hours_since_event) -> float
+  - function interpret_ci: (ci) -> str
+- `fix_backlinks.py` — function fix_backlinks: () -> int, function main: () -> None
+- `fix_dead_urls.py`
+  - function query_wayback: (url) -> str | None
+  - function apply_replacements: (replacements, str]) -> int
+  - function main: () -> None
+- `fix_dead_urls_batch2.py` — function main: () -> None
+- `fix_dead_urls_batch3.py` — function main: () -> None
+- `fix_dead_urls_batch4.py` — function main: () -> None
+- `fix_references.py`
+  - function clean_supplementary_sources: (filepath) -> dict
+  - function fix_source_count: (filepath) -> dict
+  - function main: () -> None
+- `fix_ref_dates.py`
+  - function extract_date_from_url: (url) -> str
+  - function get_operation_date: (meta) -> str
+  - function fix_dates_in_file: (filepath) -> dict
+  - function main: () -> None
+- `fix_source_labels.py`
+  - function extract_title_from_url: (url) -> str
+  - function get_publisher: (url) -> str
+  - function fix_source_labels: (filepath) -> dict
+  - function main: () -> None
+- `interview_queue.py`
+  - function add_question: (*, item_id, title, source, url, context, question, options, pipeline_stage, blocks_processing) -> str
+  - function list_open: () -> list[dict[str, Any]]
+  - function list_all: () -> list[dict[str, Any]]
+  - function mark_answered: (qid, answer) -> bool
+  - function main: () -> None
+- `lint.py` — function lint_all: () -> list[dict[str, Any]], function main: () -> None
+- `register_scheduler.py`
+  - function build_register_cmd: (time_str, frequency) -> list[str]
+  - function build_unregister_cmd: () -> list[str]
+  - function build_status_cmd: () -> list[str]
+  - function main: () -> None
+- `sync_stats.py`
+  - function collect_stats: () -> dict[str, Any]
+  - function update_overview: (stats, Any]) -> int
+  - function update_dashboard: (stats, Any]) -> int
+  - function main: () -> None
+- `translate_content.py`
+  - function load_cache: () -> dict
+  - function save_cache: (cache) -> None
+  - function translate_page: (slug, content, cache) -> str
+  - function translate_all: () -> dict[str, str]

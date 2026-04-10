@@ -16,6 +16,16 @@ __pycache__/
 # Workspace (pipeline intermediate files)
 _workspace/
 
+# Pending auto-collected items (processed by /ic-pipeline)
+_pending/
+
+# codesight per-module scratch outputs (kept under .codesight/<module>/ instead)
+tools/.codesight/
+web/.codesight/
+
+# Node modules (if codesight ever installs deps locally)
+node_modules/
+
 # Web server log
 web/server.log
 

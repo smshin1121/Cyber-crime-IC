@@ -1,0 +1,20 @@
+{
+  "$schema": "https://raw.githubusercontent.com/smshin1121/codesight/main/schema.json",
+  "ignore": [
+    "wiki/**",
+    "raw/**",
+    "docs/**",
+    "_workspace/**",
+    "_pending/**",
+    ".obsidian/**",
+    "node_modules/**",
+    "__pycache__/**",
+    "**/*.pyc",
+    ".codesight/**"
+  ],
+  "include": [
+    "tools/**/*.py",
+    "web/**/*.py",
+    "web/**/*.html"
+  ]
+}

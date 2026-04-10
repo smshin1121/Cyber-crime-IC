@@ -1,0 +1,31 @@
+# codesight ignore patterns — focus only on actual code, not wiki content
+# This wiki project mixes Python/Flask code (web/, tools/) with markdown
+# content (wiki/, raw/, docs/). Codesight should only analyze the code.
+
+# --- Wiki content (markdown only, not code) ---
+wiki/
+raw/
+docs/
+_workspace/
+_pending/
+
+# --- Build artifacts ---
+.codesight/
+node_modules/
+__pycache__/
+*.pyc
+*.pyo
+
+# --- Translation cache and state ---
+_workspace/translation_cache.json
+tools/.collect_state.json
+tools/collect.log
+
+# --- Obsidian / editor ---
+.obsidian/
+.vscode/
+.idea/
+
+# --- OS junk ---
+.DS_Store
+Thumbs.db
