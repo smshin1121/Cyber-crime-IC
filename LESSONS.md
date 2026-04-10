@@ -170,6 +170,45 @@
 
 ---
 
+## ❗ 작전 페이지 데이터 무결성
+
+### L16. source mismatch가 operation 페이지 전체를 오염시킨다 (2026-04-10, 54e652d)
+
+- **상황**: `botnet-takedown-europol-2023.md` 작전 페이지가 "2023년 봇넷 takedown"으로 기록되어 있었다. 실제로는 Europol 소스 URL이 **2015-02-24 Ramnit 봇넷 takedown** 보도자료. 날짜, 참가국, 결과 등 페이지의 모든 메타데이터가 잘못된 가정에서 생성됨.
+- **왜 실패**: source 일괄 생성 시 URL 내용을 검증하지 않았고(L1), 잘못된 source → 잘못된 operation 페이지가 자동 생성됨. 이후 해당 페이지를 참조하는 다른 페이지(europol-ec3, eurojust 등)에도 잘못된 wikilink가 전파됨.
+- **교훈**: **source mismatch는 단일 파일 문제가 아니라 전파된다.** 잘못된 source가 operation 페이지를 만들고, 그 operation이 org/country 페이지에 참조되면 오류가 연쇄 전파.
+- **어떻게 적용**:
+  - source mismatch 발견 시 → 해당 source를 참조하는 operation 페이지도 검증
+  - operation 페이지 → 해당 operation을 참조하는 org/country 페이지도 검증
+  - `grep -rl "잘못된-페이지명" wiki/` 로 전파 범위 확인
+  - 리네임 시 모든 wikilink + _index.md 동시 갱신
+
+### L17. participating_countries 목록은 공식 출처로 교차 검증 필수 (2026-04-10, 54e652d)
+
+- **상황**: operation-avalanche의 participating_countries가 13개국으로 기록. Europol 공식 보도자료에는 **30개국** 명시. 본문에는 "30+ countries"라고 쓰여 있으면서 frontmatter에는 13개만 나열.
+- **왜 실패**: 초기 생성 시 일부 출처만 참고하여 주요 국가만 나열. frontmatter과 본문의 일관성 검증 없음.
+- **교훈**: **frontmatter 수치와 본문 서술이 불일치하면 반드시 공식 출처로 검증.** 특히 participating_countries는 Europol/INTERPOL 보도자료에서 전체 명단을 확인.
+- **어떻게 적용**:
+  - 작전 페이지 생성/보강 시 공식 보도자료 URL을 WebFetch하여 국가 전체 명단 추출
+  - frontmatter의 `participating_countries` 배열 길이와 본문 "N countries" 서술이 일치하는지 검증
+  - lint에 frontmatter-본문 수치 불일치 체크 추가 고려
+
+---
+
+## ❗ 도구 / 인프라
+
+### L18. Windows schtasks는 DAILY에 복수 시간 미지원 (2026-04-10, 54e652d)
+
+- **상황**: 자동 수집을 1일 3회(아침/점심/저녁)로 변경하려 했으나, `schtasks /SC DAILY /ST` 은 단일 시간만 지원. 하나의 태스크에 07:00,12:00,19:00 을 동시에 지정 불가.
+- **왜 실패**: Windows Task Scheduler의 `/SC DAILY` 는 하루 1회 실행만 지원. 복수 시간은 별도 태스크로 분리해야.
+- **교훈**: **3회/일 스케줄 = 3개 별도 태스크.** 태스크명에 AM/NOON/PM 접미사로 구분. 레거시 단일 태스크는 자동 제거.
+- **어떻게 적용**:
+  - `register_scheduler.py`가 `_parse_schedules("07:00,12:00,19:00")` → 3개 `(CyberCrimeIC_AM, 07:00)` 등으로 분리
+  - `register` 시 레거시 `CyberCrimeIC_AutoCollect` 자동 삭제
+  - `status` 시 3개 모두 확인 + 레거시 잔존 경고
+
+---
+
 ## 메타 교훈
 
 ### L14. 사용자가 작은 결함을 지적하면 같은 패턴이 N개 더 있다
@@ -200,8 +239,11 @@
 - [ ] LESSONS.md를 읽었는가?
 - [ ] 작업 영역(데이터 / 자동화 / 도구 / 에이전트)에 해당하는 lesson을 인지했는가?
 - [ ] 새 source/operation 페이지 생성이라면 → L1, L2 (URL 검증, 에이전트 보고 검증)
+- [ ] source mismatch 정리라면 → L16 (전파 범위: source→operation→org/country 순서로 추적)
+- [ ] operation 페이지 생성/보강이라면 → L17 (participating_countries 공식 출처 교차 검증)
 - [ ] 자동 수집 관련이라면 → L4, L5 (양 조건 필터, 학습 루프)
 - [ ] 새 외부 도구 사용이라면 → L7, L8 (버그 회피, 인코딩)
+- [ ] 스케줄러 변경이라면 → L18 (schtasks DAILY 복수 시간 = 별도 태스크)
 - [ ] 다수 background agent 사용한다면 → L10 (3-4개 한도, 부분 실패 대비)
 - [ ] WebFetch 실패라면 → L11 (WebSearch fallback)
 - [ ] 빌드 후 → check_links + check_external_urls + ZZPROT grep

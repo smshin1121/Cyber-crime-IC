@@ -24,6 +24,9 @@ Every session must begin by reading [`LESSONS.md`](LESSONS.md) (project root). I
 | WebFetch failures | L11 (Cloudflare bot protection, WebSearch fallback) |
 | External tool integration | L7 (verify behavior, version drift), L8 (Windows cp949) |
 | External URL referenced in wiki | L12, L13 (check_external_urls.py + bot whitelist) |
+| Source mismatch 정리 | L16 (mismatch는 operation→org/country로 전파), L1 (URL 검증) |
+| Operation 페이지 생성/보강 | L17 (participating_countries 공식 출처 교차 검증) |
+| Windows 스케줄러 변경 | L18 (schtasks DAILY 복수 시간 = 별도 태스크) |
 
 After completing any task:
 - Run `python tools/lint.py` (HIGH must be 0)
