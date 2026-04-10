@@ -44,6 +44,37 @@ lead_agency: "[[interpol-igci]]"
 coordinating_body: "[[interpol-igci]]"
 participating_countries:
   - "[[south-korea]]"
+  - "[[portugal]]"
+  - "[[thailand]]"
+  - "[[united-arab-emirates]]"
+  - "[[japan]]"
+  - "[[albania]]"
+  - "[[argentina]]"
+  - "[[armenia]]"
+  - "[[australia]]"
+  - "[[brazil]]"
+  - "[[bulgaria]]"
+  - "[[cambodia]]"
+  - "[[canada]]"
+  - "[[china]]"
+  - "[[germany]]"
+  - "[[ghana]]"
+  - "[[india]]"
+  - "[[indonesia]]"
+  - "[[ireland]]"
+  - "[[kazakhstan]]"
+  - "[[malaysia]]"
+  - "[[nigeria]]"
+  - "[[philippines]]"
+  - "[[poland]]"
+  - "[[romania]]"
+  - "[[singapore]]"
+  - "[[south-africa]]"
+  - "[[spain]]"
+  - "[[sweden]]"
+  - "[[united-kingdom]]"
+  - "[[united-states]]"
+  - "[[vietnam]]"
 participating_agencies:
   - "[[interpol-igci]]"
   - "[[knpa-cyber-bureau]]"
@@ -77,15 +108,15 @@ source_count: 1
 sources:
   - "[[2025-09-25-interpol-operation-haechi-vi]]"
 created: 2026-04-08
-updated: 2026-04-08
+updated: 2026-04-11
 ---
 
 ## Summary
 
 Operation HAECHI VI was the sixth iteration of the Korea-initiated HAECHI series, running from April to August 2025 across **40 countries and territories**. The operation recovered **USD 439 million** total (USD 342M fiat, USD 97M physical/virtual assets), blocked **68,000+ bank accounts**, froze **~400 cryptocurrency wallets**, and recovered approximately **USD 16 million** from crypto wallets. HAECHI VI set a new series record for financial recovery.
 
-> [!note] Arrest count
-> The INTERPOL press release for HAECHI VI does not provide a specific total arrest count, unlike previous HAECHI iterations. Individual country results include 45 arrests in Portugal.
+> [!warning] Total arrest count not disclosed
+> The INTERPOL press release for HAECHI VI (2025-09-25) does **not** provide a specific total arrest count — a notable departure from previous HAECHI iterations (HAECHI-III: 975, HAECHI-IV: 3,500, HAECHI-V: 5,500+). The only confirmed figure is **45 arrests in Portugal** for social security fraud. Some secondary sources incorrectly attribute aggregate figures, but these cannot be traced to any official INTERPOL statement. This omission may reflect a deliberate shift in INTERPOL's public messaging toward financial recovery metrics rather than arrest counts.
 
 ## Background
 
@@ -100,7 +131,7 @@ The HAECHI series, led by [[south-korea|South Korea]], continues targeting seven
 
 [^haechi3]: > [!warning] Source needed — HAECHI III statistics (975 arrests, ~$130M) are not from a collected source. The HAECHI IV press release references a "260% arrest increase over HAECHI III" but does not provide explicit HAECHI III totals.
 | [[operation-haechi-v|HAECHI V]] | 2024 | 40 | 5,500+ | $400M+ |
-| **HAECHI VI** | **2025** | **40** | **-** | **$439M** |
+| **HAECHI VI** | **2025** | **40** | **undisclosed** | **$439M** |
 
 ## Participating Parties
 
@@ -132,9 +163,10 @@ Korea continues as the **lead country** of the HAECHI series. In HAECHI VI:
 
 ## Contradictions & Open Questions
 
-- Why was no total arrest count provided for HAECHI VI?
+- **Why was no total arrest count provided for HAECHI VI?** Previous HAECHI iterations prominently featured arrest counts (III: 975, IV: 3,500, V: 5,500+). HAECHI VI's omission is a deliberate choice. Possible explanations: (a) INTERPOL shifting emphasis from arrests to financial recovery as the primary KPI; (b) participating countries did not report arrest data uniformly; (c) the operation focused more on asset recovery and account blocking than prosecutorial arrests. This warrants further investigation.
 - What is the breakdown of recoveries by crime type?
 - How does the I-GRIP mechanism interact with traditional MLAT processes for asset recovery?
+- The INTERPOL press release lists 40 countries/territories but only names ~33. What are the remaining ~7?
 
 ## References
 
