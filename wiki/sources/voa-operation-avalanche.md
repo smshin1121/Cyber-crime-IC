@@ -14,7 +14,7 @@ credibility: "probably-true"
 sensitivity: "public"
 source_tier: 3
 pages_updated:
-  - "operation-avalanche"
+  - "myanmar-kokang-scam-compound-crackdown"
 key_findings:
   - "VOA reported in November 2023 that 'Operation 1027' — a coordinated offensive by Myanmar ethnic rebel groups including the MNDAA — had disrupted Chinese-targeting cyber-scam compounds in the Kokang Self-Administrative Zone along the China-Myanmar border"
   - "The catalyst for Chinese support of 1027 was reportedly a mass killing of Chinese nationals at a scam center in Kokang in October 2023, carried out by local Border Guard Force (BGF) operatives as captives attempted to escape"
@@ -34,10 +34,10 @@ updated: 2026-04-10
 - **Source Tier**: 3 (US-government-funded news organisation; generally reliable for Southeast Asia reporting)
 - **Reliability**: medium-high (VOA's Southeast Asia coverage is typically well-sourced; uplifted from default news `medium` but flagged for potential US-government editorial framing)
 - **Credibility**: probably-true
-- **Operations referenced**: [[operation-avalanche]] (filed — but article is about the Myanmar/Kokang crackdown)
+- **Operation**: [[myanmar-kokang-scam-compound-crackdown|Myanmar/Kokang Scam Compound Crackdown]]
 
-> [!warning] URL / operation mismatch
-> This source is filed under [[operation-avalanche]] but reports on the **Myanmar rebel offensive / China cybercrime crackdown** (late 2023) — an entirely unrelated event. A new page `myanmar-kokang-scam-compound-crackdown` should be created.
+> [!info] Mismatch resolved (2026-04-10)
+> Previously linked to [[operation-avalanche]]. Reassigned to [[myanmar-kokang-scam-compound-crackdown]] — the actual content is about the Myanmar/Kokang crackdown (late 2023).
 
 > [!note] Fetch note
 > voanews.com returned HTTP 403 at enrichment time. Facts below are corroborated by the VOA article mirrored at GlobalSecurity.org, parallel OCCRP reporting, and The Record's "Rebel offensive in Myanmar takes aim at online scam industry" article.

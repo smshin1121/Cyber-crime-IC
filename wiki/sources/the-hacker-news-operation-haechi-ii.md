@@ -1,6 +1,6 @@
 ---
 type: source
-title: "The Hacker News: INTERPOL Seized $130 Million from Cybercriminals in Global HAECHI-III Crackdown (URL-topic mismatch — operation is HAECHI-III, not HAECHI-II)"
+title: "The Hacker News: INTERPOL Seized $130 Million from Cybercriminals in Global HAECHI-III Crackdown"
 collection_url: "https://thehackernews.com/2022/11/interpol-seized-130-million-from.html"
 collection_domain: "thehackernews.com"
 source_type: "news"
@@ -15,7 +15,7 @@ credibility: "probably-true"
 sensitivity: "public"
 source_tier: 3
 pages_updated:
-  - "operation-haechi-ii"
+  - "operation-haechi-iii"
 key_findings:
   - "URL-TOPIC MISMATCH: The stored URL links The Hacker News's article on Operation HAECHI-III (November 2022) to the wiki page for Operation HAECHI-II (2021). These are distinct INTERPOL operations and the source should be reassigned to a dedicated HAECHI-III page"
   - "Actual operation: Operation HAECHI-III ran from 28 June to 23 November 2022, resulting in the arrest of ~975 individuals and the closure of more than 1,600 cases, with ~US$130 million in virtual assets seized — distinct from HAECHI-II (2021, 1,003 arrests, $27M intercepted)"
@@ -27,8 +27,8 @@ created: 2026-04-08
 updated: 2026-04-10
 ---
 
-> [!warning] Contradiction / data integrity issue
-> The stored URL corresponds to a November 2022 article about **Operation HAECHI-III**, not HAECHI-II. The `pages_updated: [operation-haechi-ii]` linkage is incorrect. Recommended action: create a new wiki operation page [[operation-haechi-iii]] (if not already present) and reassign this source, OR update both the operation page and source to reflect the correct sequence number.
+> [!info] Mismatch resolved (2026-04-10)
+> Previously linked to [[operation-haechi-ii]]. Reassigned to [[operation-haechi-iii]] after confirming the article covers HAECHI-III (November 2022), not HAECHI-II.
 
 ## Source
 
@@ -39,8 +39,7 @@ updated: 2026-04-10
 - **Source Tier**: 3 (cybersecurity trade press)
 - **Reliability**: medium-high (The Hacker News has strong editorial track record; raised from default medium)
 - **Credibility**: probably-true (corroborated by INTERPOL primary source)
-- **Operations referenced (stored)**: [[operation-haechi-ii|Operation HAECHI-II]]
-- **Actual operation covered**: Operation HAECHI-III
+- **Operation**: [[operation-haechi-iii|Operation HAECHI-III]]
 
 ## Summary
 

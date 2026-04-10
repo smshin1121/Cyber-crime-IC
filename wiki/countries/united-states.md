@@ -40,6 +40,8 @@ last_verified: '2026-04-10'
 legal_system: common-law
 notable_cases: []
 operations_participated:
+- '[[alphabay-takedown]]'
+- '[[emotet-takedown]]'
 - '[[operation-cronos-phase1]]'
 - '[[operation-cronos-phase3]]'
 - '[[operation-endgame-phase1]]'

@@ -29,6 +29,7 @@ notable_cases: []
 official_name: Federal Computer Crime Unit
 official_name_ko: 벨기에 연방 컴퓨터 범죄 수사대
 operations_participated:
+- '[[operation-endgame]]'
 - '[[phobos-8base-crackdown]]'
 org_type: national-unit
 parent_org: '[[belgium-federal-police]]'

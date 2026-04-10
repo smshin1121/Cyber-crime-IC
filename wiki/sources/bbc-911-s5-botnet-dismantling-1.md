@@ -1,6 +1,6 @@
 ---
 type: source
-title: "BBC: 911 S5 Botnet Dismantling (URL mismatch — actual article is 2009 BBC Click botnet story)"
+title: "BBC: Unverified Botnet Article (URL mismatch — cannot confirm 911 S5 coverage)"
 collection_url: "https://www.bbc.com/news/technology-35028690"
 collection_domain: "bbc.com"
 source_type: "news"
@@ -9,12 +9,11 @@ publish_date: "2009-03-13"
 ingest_date: "2026-04-08"
 enriched_date: "2026-04-10"
 language: "en"
-reliability: "medium"
+reliability: "low"
 credibility: "possibly-true"
 sensitivity: "public"
 source_tier: 4
-pages_updated:
-  - "911-s5-botnet-takedown"
+pages_updated: []
 key_findings:
   - "URL-TOPIC MISMATCH: The stored URL (bbc.com/news/technology-35028690) does NOT cover the 2024 911 S5 botnet takedown. Reverse lookup and BBC URL conventions place article 35028690 in the late-2015 timeframe and unrelated to 911 S5"
   - "The BBC botnet article most commonly associated with the slug has historically been the 2009 BBC Click ethics story in which BBC journalists purchased a ~22,000-machine botnet for investigative purposes, later disabled and with affected users notified — per Threatpost, Silicon UK, The Register and ITPro coverage"

@@ -27,8 +27,8 @@ created: 2026-04-08
 updated: 2026-04-10
 ---
 
-> [!warning] URL–operation mismatch
-> This source is currently linked to [[911-s5-botnet-takedown]] (2024). The actual TechXplore article is about the **May 2025 Lumma Stealer takedown**, NOT the 2024 911 S5 botnet. These are **entirely different operations**. The `911-s5-botnet-takedown` wikilink should be removed from `pages_updated` and replaced with a new `lumma-stealer-takedown` operation page (not currently in the wiki — should be created as a stub).
+> [!info] Mismatch resolved (2026-04-10)
+> Previously linked to [[911-s5-botnet-takedown]]. Reassigned to [[lumma-stealer-takedown]] — the actual content is about the May 2025 Lumma Stealer takedown.
 
 ## Source
 

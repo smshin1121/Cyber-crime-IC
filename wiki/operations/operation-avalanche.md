@@ -45,19 +45,35 @@ participating_agencies:
 - '[[shadowserver]]'
 - '[[icann]]'
 participating_countries:
-- '[[germany]]'
-- '[[united-states]]'
-- '[[united-kingdom]]'
-- '[[france]]'
-- '[[netherlands]]'
-- '[[italy]]'
-- '[[spain]]'
-- '[[poland]]'
+- '[[armenia]]'
+- '[[australia]]'
 - '[[austria]]'
+- '[[azerbaijan]]'
 - '[[belgium]]'
+- '[[belize]]'
+- '[[bulgaria]]'
+- '[[canada]]'
+- '[[colombia]]'
+- '[[finland]]'
+- '[[france]]'
+- '[[germany]]'
+- '[[hungary]]'
+- '[[india]]'
+- '[[italy]]'
+- '[[lithuania]]'
+- '[[luxembourg]]'
+- '[[moldova]]'
+- '[[montenegro]]'
+- '[[netherlands]]'
+- '[[norway]]'
+- '[[poland]]'
 - '[[romania]]'
-- '[[switzerland]]'
-- '[[japan]]'
+- '[[singapore]]'
+- '[[sweden]]'
+- '[[taiwan]]'
+- '[[ukraine]]'
+- '[[united-kingdom]]'
+- '[[united-states]]'
 period: 1
 related_cases: []
 related_operations: []
@@ -87,7 +103,7 @@ timeframe:
 title: Operation Avalanche
 title_ko: Operation Avalanche (Avalanche 네트워크 해체)
 type: operation
-updated: '2026-04-09'
+updated: '2026-04-10'
 ---
 
 ## Summary

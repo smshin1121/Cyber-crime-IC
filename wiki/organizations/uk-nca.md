@@ -34,10 +34,12 @@ operations_participated:
 - '[[operation-cronos-phase1]]'
 - '[[operation-cronos-phase3]]'
 - '[[operation-destabilise]]'
+- '[[operation-endgame]]'
 - '[[operation-endgame-phase1]]'
 - '[[operation-endgame-phase2]]'
 - '[[operation-morpheus]]'
 - '[[phobos-8base-crackdown]]'
+- '[[operation-dark-huntor]]'
 org_type: national-agency
 parent_org: ''
 source_count: 8

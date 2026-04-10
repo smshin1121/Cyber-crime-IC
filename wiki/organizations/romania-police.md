@@ -29,6 +29,7 @@ official_name: Poliția Română — Direcția de Combatere a Criminalității O
   Serviciul de Combatere a Criminalității Informatice
 official_name_ko: ''
 operations_participated:
+- '[[operation-endgame]]'
 - '[[operation-endgame-phase1]]'
 - '[[phobos-8base-crackdown]]'
 org_type: national-unit

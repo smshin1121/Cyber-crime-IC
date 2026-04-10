@@ -15,7 +15,7 @@ credibility: "possibly-true"
 sensitivity: "public"
 source_tier: 3
 pages_updated:
-  - "global-airport-action-day"
+  - "carding-action-2020"
 key_findings:
   - "The Hackread article, published 29 November 2020, reports on **Carding Action 2020**, a 3-month Europol-led operation against dark-web card-trading forums — NOT on the Global Airport Action Day despite the wiki's operation link"
   - "Carding Action 2020 was led by Europol, supported by cybersecurity firm Group-IB, with operational participation from law enforcement in Hungary, the United Kingdom, and Italy"
@@ -27,8 +27,8 @@ created: 2026-04-08
 updated: 2026-04-10
 ---
 
-> [!warning] Contradiction / linked-page mismatch
-> The file name and `pages_updated` field points to `[[global-airport-action-day]]`, but the article content and URL are about a different operation: **Carding Action 2020** (Europol / Group-IB / Hungary-UK-Italy). Global Airport Action Day is a distinct INTERPOL-led operation focused on travel-document fraud and airport arrests. This entry likely documents Hackread coverage that was *mis-mapped* during ingest. Recommended follow-up: either (a) re-point this source to `[[carding-action-2020]]` and create that operation page, or (b) replace `collection_url` with an actual Global Airport Action Day article. For now, the content below accurately describes the linked Hackread article.
+> [!info] Mismatch resolved (2026-04-10)
+> Previously linked to [[global-airport-action-day]]. Reassigned to [[carding-action-2020]] — the actual content is about Carding Action 2020 (Europol/Group-IB).
 
 ## Source
 

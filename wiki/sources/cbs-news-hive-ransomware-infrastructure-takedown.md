@@ -15,7 +15,6 @@ credibility: "probably-true"
 sensitivity: "public"
 source_tier: 3
 pages_updated:
-  - "hive-ransomware-takedown"
   - "phobos-8base-crackdown"
 key_findings:
   - "CBS News reported on 2025-02-11 that the US Department of Justice charged two Russian nationals — Roman Berezhnoy, 33, and Egor Nikolaevich Glebov, 39 — for operating the Phobos ransomware-as-a-service"
@@ -39,8 +38,8 @@ updated: 2026-04-10
 - **Credibility**: probably-true (reports directly on a DOJ unsealing)
 - **Operations referenced**: [[phobos-8base-crackdown]] (actual), [[hive-ransomware-takedown]] (incorrectly listed)
 
-> [!warning] Filename / operation mismatch
-> The current filename is `cbs-news-hive-ransomware-infrastructure-takedown.md`, but the article reports on **Phobos ransomware charges** (unsealed 2025-02-11), not the Hive takedown (January 2023). The file should be renamed to `cbs-news-phobos-ransomware-charges.md`, and `pages_updated` should drop `hive-ransomware-takedown`.
+> [!info] Mismatch resolved (2026-04-10)
+> Filename still references "hive" but the article covers Phobos ransomware charges (2025-02-11). Link to [[hive-ransomware-takedown]] removed; only [[phobos-8base-crackdown]] retained.
 
 ## Summary
 

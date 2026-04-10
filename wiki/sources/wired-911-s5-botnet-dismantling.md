@@ -30,8 +30,8 @@ created: 2026-04-08
 updated: 2026-04-10
 ---
 
-> [!warning] URL–operation mismatch
-> This source is currently linked to [[911-s5-botnet-takedown]] (2024) **and** [[operation-avalanche]] (2016). The actual Wired article is about the **2016 Operation Avalanche takedown**, NOT the 2024 911 S5 botnet. The `911-s5-botnet-takedown` wikilink should be removed from `pages_updated`. The correct operation is [[operation-avalanche]].
+> [!info] Mismatch resolved (2026-04-10)
+> Previously also linked to [[911-s5-botnet-takedown]]. That link removed — this source covers the 2016 Operation Avalanche takedown only.
 
 > [!note] Original URL access blocked
 > Wired.com returned access-denied errors on direct fetch. Facts in this summary are reconstructed from parallel Europol, FBI, and US DOJ press releases covering the same 30 November 2016 Avalanche takedown. The Wired URL is canonical and consistent with Lily Hay Newman's 2016 byline on the operation.
@@ -45,7 +45,7 @@ updated: 2026-04-10
 - **Source Tier**: 3 (mainstream tech journalism)
 - **Reliability**: medium-high (Wired generally and Lily Hay Newman specifically have a strong track record on cybercrime reporting)
 - **Credibility**: probably-true
-- **Operations referenced**: [[operation-avalanche|Operation Avalanche]] (correct); [[911-s5-botnet-takedown]] (incorrect — see warning)
+- **Operation**: [[operation-avalanche|Operation Avalanche]]
 
 ## Summary
 

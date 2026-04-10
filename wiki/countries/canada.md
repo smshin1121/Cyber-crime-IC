@@ -31,7 +31,9 @@ key_agencies: []
 last_verified: '2026-04-10'
 legal_system: mixed
 notable_cases: []
-operations_participated: []
+operations_participated:
+- '[[alphabay-takedown]]'
+- '[[emotet-takedown]]'
 region: north-america
 source_count: 5
 sources: []

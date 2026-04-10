@@ -22,6 +22,7 @@ mandate: Interregional territorial body of the Ukrainian National Police respons
 notable_cases: []
 official_name: Департамент кіберполіції Національної поліції України
 operations_participated:
+- '[[operation-endgame]]'
 - '[[operation-endgame-phase1]]'
 org_type: national-unit
 parent_org: Національна поліція України (National Police of Ukraine) — Ministry of

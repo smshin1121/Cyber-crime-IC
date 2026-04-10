@@ -28,6 +28,7 @@ official_name: Centre de lutte contre les criminalités numériques
 official_name_ko: 프랑스 국립헌병대 사이버범죄센터 (C3N)
 operations_participated:
 - '[[franco-israeli-ceo-fraud]]'
+- '[[operation-endgame]]'
 - '[[operation-cronos-phase1]]'
 - '[[operation-cronos-phase3]]'
 - '[[operation-endgame-phase2]]'

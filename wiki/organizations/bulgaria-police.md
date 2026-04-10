@@ -29,6 +29,7 @@ notable_cases: []
 official_name: Главна дирекция 'Борба с организираната престъпност' — Киберпрестъпност
 official_name_ko: 불가리아 조직범죄대응 총국 사이버범죄국
 operations_participated:
+- '[[operation-endgame]]'
 - '[[operation-endgame-phase1]]'
 org_type: national-unit
 parent_org: '[[bulgaria-ministry-of-interior]]'

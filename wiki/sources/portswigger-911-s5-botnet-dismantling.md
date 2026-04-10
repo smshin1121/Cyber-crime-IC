@@ -27,8 +27,8 @@ created: 2026-04-08
 updated: 2026-04-10
 ---
 
-> [!warning] URL–operation mismatch
-> This source is currently linked to [[911-s5-botnet-takedown]] (2024) **and** [[andromeda-botnet-takedown]] (2017). The actual PortSwigger article is about the **2017 Andromeda botnet takedown**, NOT the 2024 911 S5 botnet. The `911-s5-botnet-takedown` wikilink should be removed from `pages_updated`. The correct operation is [[andromeda-botnet-takedown]].
+> [!info] Mismatch resolved (2026-04-10)
+> Previously also linked to [[911-s5-botnet-takedown]]. That link removed — this source covers the 2017 Andromeda botnet takedown only.
 
 > [!note] Original URL access blocked
 > The PortSwigger Daily Swig article could not be fetched directly (the site returns a generic navigation page to automated fetchers). Facts in this summary are reconstructed from the parallel Europol press release, FBI statement, and Microsoft Digital Crimes Unit blog covering the same Andromeda takedown.
@@ -42,7 +42,7 @@ updated: 2026-04-10
 - **Source Tier**: 3 (specialist cybersecurity media)
 - **Reliability**: medium-high (PortSwigger is technically credible; The Daily Swig was its news arm until it closed in 2023)
 - **Credibility**: probably-true
-- **Operations referenced**: [[andromeda-botnet-takedown|Andromeda Botnet Dismantling]] (correct); [[911-s5-botnet-takedown]] (incorrect — see warning)
+- **Operation**: [[andromeda-botnet-takedown|Andromeda Botnet Dismantling]]
 
 ## Summary
 

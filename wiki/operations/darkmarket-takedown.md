@@ -10,6 +10,8 @@ source_count: 0
 sources: []
 participating_countries: []
 participating_agencies: []
+related_operations:
+  - "[[operation-dark-huntor]]"
 results: {}
 ---
 
@@ -18,6 +20,9 @@ results: {}
 
 ## Summary
 (To be researched.)
+
+> [!note] Related operation
+> The January 2021 DarkMarket takedown directly enabled [[operation-dark-huntor|Operation Dark HunTOR]] (October 2021), which resulted in 150 arrests across 9 countries by exploiting intelligence from seized DarkMarket infrastructure.
 
 ## Background
 ## Participating Parties

@@ -159,9 +159,10 @@ Japan is *likely* a reliable but methodical cooperation partner. The procedural 
 - **[[operation-haechi-v]]** / **[[operation-haechi-vi]]:** Japanese participation in INTERPOL operations against cyber-enabled financial fraud
 - **[[operation-cronos-phase1]]:** Japanese police identified LockBit victims and contributed intelligence
 - **[[operation-synergia-ii]]:** Japanese participation in INTERPOL operation against phishing/ransomware infrastructure
-- **Emotet takedown (2021):** Japanese police participated in the international Emotet botnet takedown [^emotet]
+- **[[emotet-takedown|Emotet takedown (2021)]]:** Japan was not among the eight participating countries in the official [[emotet-takedown|Operation LadyBird]] action, but Japan was heavily affected by Emotet infections. JPCERT/CC coordinated domestic victim notification following the takedown.
 
-[^emotet]: > [!note] Emotet takedown participation is based on general knowledge and has not been verified against a collected source.
+> [!warning] Correction
+> A prior version of this page stated Japanese police "participated" in the Emotet takedown. Europol's official announcement lists 8 participating countries (Netherlands, Germany, US, UK, France, Lithuania, Canada, Ukraine); Japan is not among them. Japan's role was *likely* limited to domestic victim notification and CERT coordination.
 
 ## Korean Interactions (한국과의 협력)
 

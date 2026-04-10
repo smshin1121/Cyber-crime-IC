@@ -15,7 +15,7 @@ credibility: "possibly-true"
 sensitivity: "public"
 source_tier: 4
 pages_updated:
-  - "fake-shopping-sites-takedown-2024"
+  - "bali-villa-cybercrime-raid-2024"
 key_findings:
   - "Indonesian immigration officials raided a villa in Tabanan district, Bali on 26 June 2024, detaining 103 individuals (91 men, 12 women) suspected of cybercrime and visa/residency permit misuse"
   - "Hundreds of mobile phones and electronic devices were seized during the raid; authorities indicated the group was running cybercrime operations from the villa"
@@ -27,8 +27,8 @@ created: 2026-04-08
 updated: 2026-04-10
 ---
 
-> [!warning] URL–operation mismatch
-> This source is currently linked to [[fake-shopping-sites-takedown-2024]], which covers a *different* operation — the **December 2024 German-led Europol takedown of fraudulent online shopping sites** (2 arrests, 50 servers seized, Germany/Austria/Finland/Netherlands/Norway). The Al Jazeera article is about the **June 2024 Bali raid on 103 suspected Taiwanese cybercriminals** (Indonesia/Taiwan/Malaysia). These are **different operations**. The `pages_updated` link should *likely* be reassigned to a new operation page (e.g., `bali-villa-cybercrime-raid-2024`) rather than kept on the German shopping-sites takedown.
+> [!info] Mismatch resolved (2026-04-10)
+> Previously linked to [[fake-shopping-sites-takedown-2024]]. Reassigned to [[bali-villa-cybercrime-raid-2024]] — the actual content is about the June 2024 Bali cybercrime raid, not the December 2024 German shopping-sites takedown.
 
 ## Source
 
@@ -39,7 +39,7 @@ updated: 2026-04-10
 - **Source Tier**: 4 (international news wire)
 - **Reliability**: medium (Al Jazeera is a credible international outlet but this is a thin wire story without deep investigative reporting)
 - **Credibility**: possibly-true
-- **Operations referenced** (nominally): [[fake-shopping-sites-takedown-2024]] — **see URL–operation mismatch warning above**
+- **Operation**: [[bali-villa-cybercrime-raid-2024|Bali Villa Cybercrime Raid 2024]]
 
 ## Summary
 

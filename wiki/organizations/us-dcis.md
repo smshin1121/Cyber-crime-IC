@@ -29,6 +29,7 @@ notable_cases: []
 official_name: Defense Criminal Investigative Service, Office of the Inspector General,
   US Department of Defense
 operations_participated:
+- '[[operation-endgame]]'
 - '[[operation-endgame-phase2]]'
 org_type: national-unit
 parent_org: '[[dod-inspector-general]]'

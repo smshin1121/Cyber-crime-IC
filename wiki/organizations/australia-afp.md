@@ -30,6 +30,7 @@ official_name: Australian Federal Police
 official_name_ko: 호주연방경찰
 operations_participated:
 - '[[imminent-monitor-rat-takedown]]'
+- '[[operation-endgame]]'
 - '[[operation-cronos-phase1]]'
 - '[[operation-cronos-phase3]]'
 org_type: national-agency

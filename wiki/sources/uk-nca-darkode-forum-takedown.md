@@ -1,6 +1,6 @@
 ---
 type: source
-title: "UK NCA: International operation targets dark web drugs marketplace (Operation Dark HunTOR — URL-topic mismatch)"
+title: "UK NCA: International operation targets dark web drugs marketplace (Operation Dark HunTOR)"
 collection_url: "https://www.nationalcrimeagency.gov.uk/news/international-operation-targets-dark-web-drugs-marketplace"
 collection_domain: "nationalcrimeagency.gov.uk"
 source_type: "press-release"
@@ -14,7 +14,7 @@ credibility: "confirmed"
 sensitivity: "public"
 source_tier: 2
 pages_updated:
-  - "darkode-takedown"
+  - "operation-dark-huntor"
 key_findings:
   - "URL-TOPIC MISMATCH: The stored NCA URL refers to Operation Dark HunTOR (October 2021), NOT the Darkode forum takedown (July 2015). Dark HunTOR targeted an unspecified criminal dark web marketplace (sometimes linked to the DarkMarket takedown follow-on), and is unrelated to Darkode"
   - "Actual operation: Operation Dark HunTOR, announced 27 October 2021, was a coordinated international takedown following German authorities' earlier arrest of a dark web marketplace operator. The investigation exploited infrastructure accessed after the marketplace operator was detained"
@@ -26,10 +26,8 @@ created: 2026-04-08
 updated: 2026-04-10
 ---
 
-> [!warning] Contradiction / data integrity issue
-> The stored URL is for **Operation Dark HunTOR** (2021, dark-web drug marketplace takedown), not the 2015 Darkode cybercrime forum. The `pages_updated: [darkode-takedown]` linkage is incorrect. Darkode and Dark HunTOR are sometimes confused in wiki ingests because of the similar prefixes, but they are entirely unrelated operations:
-> - **Darkode** (2015): Cybercrime forum for malware/botnet/credentials trading — Operation Shrouded Horizon
-> - **Dark HunTOR** (2021): Dark-web drug marketplace enforcement — Europol/Eurojust coordinated
+> [!info] Mismatch resolved (2026-04-10)
+> Previously linked to [[darkode-takedown]]. Reassigned to [[operation-dark-huntor]] — the actual content is Operation Dark HunTOR (2021), not the 2015 Darkode forum takedown.
 
 ## Source
 
@@ -39,8 +37,7 @@ updated: 2026-04-10
 - **Source Tier**: 2 (official agency press release)
 - **Reliability**: high (NCA primary source)
 - **Credibility**: confirmed (corroborated by Europol 2021-10-26, DOJ 2021-10-26)
-- **Operations referenced (stored)**: [[darkode-takedown|Darkode Forum Takedown]] (INCORRECT)
-- **Actual operation covered**: Operation Dark HunTOR
+- **Operation**: [[operation-dark-huntor|Operation Dark HunTOR]]
 
 ## Summary
 

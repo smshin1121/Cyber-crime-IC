@@ -32,8 +32,8 @@ created: 2026-04-08
 updated: 2026-04-10
 ---
 
-> [!warning] URL–operation mismatch
-> This source is currently linked to [[911-s5-botnet-takedown]] (2024) **and** [[simda-botnet-takedown]] (2015). The actual URL is about the **2015 Simda botnet takedown**, NOT the 2024 911 S5 botnet. The `911-s5-botnet-takedown` wikilink should be removed from `pages_updated`. The correct operation is [[simda-botnet-takedown]].
+> [!info] Mismatch resolved (2026-04-10)
+> Previously also linked to [[911-s5-botnet-takedown]]. That link removed — this source covers the 2015 Simda botnet takedown only.
 
 ## Source
 
@@ -44,7 +44,7 @@ updated: 2026-04-10
 - **Source Tier**: 2 (Tier A — official international agency)
 - **Reliability**: high (primary official source from the coordinating body)
 - **Credibility**: confirmed
-- **Operations referenced**: [[simda-botnet-takedown|Simda Botnet Takedown]] (correct); [[911-s5-botnet-takedown|911 S5 Botnet Takedown]] (incorrect — see warning)
+- **Operation**: [[simda-botnet-takedown|Simda Botnet Takedown]]
 
 ## Summary
 

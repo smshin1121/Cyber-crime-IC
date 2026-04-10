@@ -23,6 +23,7 @@ mandate: Centralized police unit with country-wide competency for handling cyber
 notable_cases: []
 official_name: Բարձր տեխնոլոգիաների ոլորտի հանցագործությունների դեմ պայքարի բաժին
 operations_participated:
+- '[[operation-endgame]]'
 - '[[operation-endgame-phase1]]'
 org_type: national-unit
 parent_org: General Department on Combating Organized Crime — Police of the Republic

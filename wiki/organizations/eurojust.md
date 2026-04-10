@@ -28,19 +28,23 @@ official_name: European Union Agency for Criminal Justice Cooperation (Eurojust)
 official_name_ko: 유럽연합 형사사법협력기구 (유로저스트)
 operations_participated:
 - '[[andromeda-botnet-takedown]]'
-- '[[botnet-takedown-europol-2023]]'
+- '[[ramnit-botnet-takedown]]'
 - '[[cyber-fraud-international-2015]]'
 - '[[doublevpn-takedown]]'
+- '[[emotet-takedown]]'
+- '[[alphabay-takedown]]'
 - '[[imminent-monitor-rat-takedown]]'
 - '[[operation-avalanche]]'
 - '[[operation-bakovia]]'
 - '[[operation-cronos-phase1]]'
 - '[[operation-cronos-phase3]]'
+- '[[operation-endgame]]'
 - '[[operation-endgame-phase1]]'
 - '[[operation-endgame-phase2]]'
 - '[[operation-secreto]]'
 - '[[phobos-8base-crackdown]]'
 - '[[zeus-spyeye-jit-takedown]]'
+- '[[operation-dark-huntor]]'
 org_type: regional-org
 parent_org: ''
 source_count: 9

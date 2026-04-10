@@ -43,6 +43,7 @@ operations_participated:
 - '[[bec-nigeria-2016]]'
 - '[[global-airport-action-day]]'
 - '[[operation-avalanche]]'
+- '[[operation-chakra-iii]]'
 - '[[operation-cyber-guardian]]'
 - '[[operation-delilah]]'
 - '[[operation-falcon]]'

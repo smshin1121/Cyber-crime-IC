@@ -50,11 +50,14 @@ operations_participated:
 - '[[operation-checkmate-blacksuit]]'
 - '[[operation-cronos-phase1]]'
 - '[[operation-cronos-phase3]]'
+- '[[operation-endgame]]'
 - '[[operation-endgame-phase1]]'
 - '[[operation-endgame-phase2]]'
 - '[[operation-shrouded-horizon]]'
 - '[[phobos-8base-crackdown]]'
 - '[[qakbot-gallyamov-indictment]]'
+- '[[operation-dark-huntor]]'
+- '[[silk-road-takedown]]'
 org_type: national-agency
 parent_org: ''
 source_count: 5

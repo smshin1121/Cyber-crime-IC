@@ -15,7 +15,7 @@ credibility: "possibly-true"
 sensitivity: "public"
 source_tier: 3
 pages_updated:
-  - "marketplace-a-dekhtyarchuk-indictment"
+  - "operation-endgame"
 key_findings:
   - "The Cyber Express article (6 June 2025) reports on the seizure of ~145 domains connected to the **BidenCash** marketplace — NOT the Marketplace A / Dekhtyarchuk indictment referenced in the wiki's operation page link"
   - "BidenCash operated from March 2022 as a criminal marketplace selling stolen credit-card data, CVVs, expiration dates, and PII; it served 117,000+ users and trafficked 15 million+ payment-card records, generating US$17 million+ in revenue over ~2 years"
@@ -27,8 +27,8 @@ created: 2026-04-08
 updated: 2026-04-10
 ---
 
-> [!warning] Contradiction / linked-page mismatch
-> The file name and `pages_updated` point to `[[marketplace-a-dekhtyarchuk-indictment]]`, but the article content is about the **BidenCash marketplace seizure** — an entirely separate 2025 Operation Endgame action. The Dekhtyarchuk / Marketplace A case was a 2022 EDTX indictment placing Igor Dekhtyarchuk on the FBI Cyber Most Wanted list for running Marketplace A, which operated from May 2018. These are two distinct operations: different year, different defendant, different marketplace, different lead agency configuration. Recommended follow-up: (a) replace `collection_url` with a Dekhtyarchuk-specific source, OR (b) re-point this source to a `[[bidencash-takedown]]` operation page and create that page.
+> [!info] Mismatch resolved (2026-04-10)
+> Previously linked to [[marketplace-a-dekhtyarchuk-indictment]]. Reassigned to [[operation-endgame]] — the article covers the BidenCash marketplace seizure as part of Operation Endgame (June 2025).
 
 ## Source
 

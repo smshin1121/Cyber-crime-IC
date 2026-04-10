@@ -14,7 +14,7 @@ credibility: "probably-true"
 sensitivity: "public"
 source_tier: 2
 pages_updated:
-  - "operation-avalanche"
+  - "operation-kraken-ghost-platform"
 key_findings:
   - "Reuters reported on 2024-09-18 that Europol announced the dismantling of the encrypted communications platform 'Ghost', used extensively by organised crime for drug trafficking and money laundering"
   - "51 arrests across multiple countries — 38 in Australia, 11 in Ireland, 1 in Canada, and 1 in Italy (a member of the Sacra Corona Unita mafia clan); more arrests expected"
@@ -34,10 +34,10 @@ updated: 2026-04-10
 - **Source Tier**: 2 (tier-1 international wire service; *high* reliability)
 - **Reliability**: high (Reuters' editorial standards and multi-source sourcing are industry-standard; uplifted from default news `medium`)
 - **Credibility**: probably-true
-- **Operations referenced**: [[operation-avalanche]] (filed — but article is about the Ghost / Operation Kraken takedown, not the 2016 Avalanche)
+- **Operation**: [[operation-kraken-ghost-platform|Ghost Platform Takedown / Operation Kraken]]
 
-> [!warning] URL / operation mismatch
-> This source is filed under [[operation-avalanche]] but reports on the **Ghost encrypted-communications platform takedown** (September 2024), which is an entirely different operation from the 2016 Avalanche malware takedown. A new operation page for Ghost/Operation Kraken should be created, and this source re-filed there.
+> [!info] Mismatch resolved (2026-04-10)
+> Previously linked to [[operation-avalanche]]. Reassigned to [[operation-kraken-ghost-platform]] — the actual content is about the Ghost platform takedown / Operation Kraken (Sep 2024).
 
 > [!note] Fetch note
 > reuters.com blocked automated fetch at enrichment time. Facts summarised here are corroborated by parallel Reuters wire carried by Yahoo, Rappler, The Globe and Mail, US News, and CBC.

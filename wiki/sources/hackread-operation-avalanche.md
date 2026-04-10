@@ -15,7 +15,7 @@ credibility: "possibly-true"
 sensitivity: "public"
 source_tier: 4
 pages_updated:
-  - "operation-avalanche"
+  - "operation-heart-blocker"
 key_findings:
   - "Hackread reported on 2025-01-31 that US and Dutch authorities jointly dismantled the HeartSender cybercrime network (Operation Heart Blocker), seizing domains including Heartsender.com and Botsdetector.com"
   - "HeartSender allegedly operated by Pakistani cybercriminal Saim Raza, previously documented by Brian Krebs under the aliases 'Fudtools', 'Fudpage', and 'The Manipulators' over roughly a decade"
@@ -36,10 +36,10 @@ updated: 2026-04-10
 - **Source Tier**: 4 (cybersecurity blog; lower editorial rigor than trade press)
 - **Reliability**: medium
 - **Credibility**: possibly-true (Hackread sometimes aggregates other reporting; cross-check against DOJ)
-- **Operations referenced**: [[operation-avalanche]] (filed — but article is actually about Operation Heart Blocker / HeartSender)
+- **Operation**: [[operation-heart-blocker|Operation Heart Blocker]]
 
-> [!warning] URL / operation mismatch
-> The filename is `hackread-operation-avalanche.md` and the wiki lists `operation-avalanche` as the referenced operation, but the article is about **Operation Heart Blocker** (the HeartSender takedown), a completely different case from the 2016 Operation Avalanche malware takedown. A new `operation-heart-blocker` page should be created or this source should be re-filed.
+> [!info] Mismatch resolved (2026-04-10)
+> Previously linked to [[operation-avalanche]]. Reassigned to [[operation-heart-blocker]] — the actual content is about Operation Heart Blocker / HeartSender takedown (Jan 2025).
 
 ## Summary
 

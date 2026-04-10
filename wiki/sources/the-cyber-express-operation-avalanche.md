@@ -15,7 +15,7 @@ credibility: "possibly-true"
 sensitivity: "public"
 source_tier: 3
 pages_updated:
-  - "operation-avalanche"
+  - "operation-chakra-iii"
 key_findings:
   - "The Cyber Express reported on 2024-09-30 (updated 2025-07-09) that India's Central Bureau of Investigation (CBI) dismantled a transnational cybercrime network under the codename Operation Chakra-III"
   - "26 arrests across raids in Pune, Hyderabad, Ahmedabad, and Visakhapatnam; over 170 individuals worked at the implicated call centers"
@@ -36,10 +36,10 @@ updated: 2026-04-10
 - **Source Tier**: 3 (cybersecurity trade-press outlet based in India with India-focused coverage)
 - **Reliability**: medium
 - **Credibility**: possibly-true (directly attributed to CBI press materials; India-based reporter reasonable for India-centric operations)
-- **Operations referenced**: [[operation-avalanche]] (filed — but article is about Operation Chakra-III)
+- **Operation**: [[operation-chakra-iii|Operation Chakra-III]]
 
-> [!warning] URL / operation mismatch
-> This source is filed under [[operation-avalanche]] (a 2016 Europol-led malware takedown) but actually reports on **Operation Chakra-III** (a 2024 CBI-led tech-support scam takedown in India). A new `operation-chakra-iii` page should be created.
+> [!info] Mismatch resolved (2026-04-10)
+> Previously linked to [[operation-avalanche]]. Reassigned to [[operation-chakra-iii]] — the actual content is about Operation Chakra-III (CBI, Sep 2024).
 
 ## Summary
 

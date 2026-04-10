@@ -20,6 +20,7 @@ mandate: Central criminal police authority of Lithuania with nationwide (non-ter
 notable_cases: []
 official_name: Lietuvos kriminalinės policijos biuras
 operations_participated:
+- '[[operation-endgame]]'
 - '[[operation-endgame-phase1]]'
 org_type: national-unit
 parent_org: Policijos departamentas prie LR VRM (Police Department under the Ministry

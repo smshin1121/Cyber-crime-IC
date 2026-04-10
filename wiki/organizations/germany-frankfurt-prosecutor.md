@@ -24,6 +24,7 @@ notable_cases: []
 official_name: Zentralstelle zur Bekämpfung der Internetkriminalität
 operations_participated:
 - '[[operation-avalanche]]'
+- '[[operation-endgame]]'
 - '[[operation-endgame-phase1]]'
 - '[[operation-endgame-phase2]]'
 - '[[operation-cronos-phase1]]'

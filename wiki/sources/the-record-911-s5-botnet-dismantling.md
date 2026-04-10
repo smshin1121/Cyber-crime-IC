@@ -15,7 +15,7 @@ credibility: "probably-true"
 sensitivity: "public"
 source_tier: 3
 pages_updated:
-  - "911-s5-botnet-takedown"
+  - "nemesis-market-takedown"
 key_findings:
   - "The Record reported on 2024-03-21 that the German Bundeskriminalamt (BKA) seized the Nemesis darknet marketplace in coordination with US and Lithuanian law enforcement"
   - "Nemesis was founded in 2021 and by 2024 had become one of the top-5 darknet markets by traffic, hosting 150,000+ users and 1,100+ sellers (approximately 20% Germany-based)"
@@ -36,10 +36,10 @@ updated: 2026-04-10
 - **Source Tier**: 3 (specialized cybersecurity trade press with strong track record)
 - **Reliability**: medium-high (The Record consistently produces accurate cybercrime reporting; Daryna Antoniuk covers the Eastern European cybercrime beat reliably)
 - **Credibility**: probably-true
-- **Operations referenced**: [[911-s5-botnet-takedown]] (filed — but article is about the Nemesis Market takedown)
+- **Operation**: [[nemesis-market-takedown|Nemesis Market Takedown]]
 
-> [!warning] URL / operation mismatch
-> This source is filed under [[911-s5-botnet-takedown]] but actually reports on the **Nemesis darknet marketplace takedown** (German BKA-led, March 2024). 911 S5 is a distinct FBI-led dismantling of a residential proxy botnet announced in May 2024. A new `nemesis-market-takedown` page should be created.
+> [!info] Mismatch resolved (2026-04-10)
+> Previously linked to [[911-s5-botnet-takedown]]. Reassigned to [[nemesis-market-takedown]] — the actual content is about the Nemesis darknet marketplace takedown (BKA, March 2024).
 
 ## Summary
 

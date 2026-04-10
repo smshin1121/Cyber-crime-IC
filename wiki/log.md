@@ -1,5 +1,33 @@
 # Activity Log
 
+## [2026-04-10] enrich | Operation LadyBird (Emotet) + Operation Bayonet (AlphaBay) stub pages fully written
+- Pages enriched: emotet-takedown.md (stub -> full operation page, ~272 lines)
+- Pages enriched: alphabay-takedown.md (stub -> full operation page, ~329 lines)
+- Sources verified: Europol (2021-01-27), DOJ (2021-01-27), Dutch National Police (2021-01-27), Eurojust (2021-01-27), Europol (2017-07-20), DOJ (2017-07-20), DEA (2017-07-20), FBI
+- Cross-references updated: europol-ec3.md, netherlands-politie.md, fbi-cyber-division.md, eurojust.md (added operations_participated); netherlands.md, germany.md, united-states.md, united-kingdom.md, france.md, canada.md, ukraine.md, thailand.md (added operations_participated); japan.md (corrected false Emotet participation claim); operations/_index.md (2 entries added)
+- Key findings:
+  - Emotet (Operation LadyBird, 2021-01-27): 8 countries, ~700 C2 servers, 2000+ domains seized; Dutch police deployed uninstall module via Emotet's own update mechanism (activated 2021-04-25); 2 arrests in Ukraine; botnet resurfaced Nov 2021 via TrickBot -- partial outcome
+  - AlphaBay (Operation Bayonet, 2017-07-20): Unprecedented double-sting; Dutch police covertly operated Hansa for ~1 month; AlphaBay shut down July 4; 400K users and 40K vendors disrupted; Cazes arrested in Thailand July 5, died in custody July 12; $30M+ assets seized/frozen
+
+## [2026-04-10] enrich | Operation Dark HunTOR + Silk Road Takedown stub pages fully written
+- Pages enriched: operation-dark-huntor.md (stub → full operation page, ~250 lines)
+- Pages enriched: silk-road-takedown.md (stub → full operation page, ~300 lines)
+- Sources verified: Europol (2021-10-26), DOJ/DEA (2021-10-26), NCA (2021-10-27), FBI NY (2015-02-04), DOJ SDNY (multiple), ICE (2015-05-29), Wikipedia
+- Cross-references updated: europol-ec3.md (added operation-dark-huntor), darkmarket-takedown.md (added related_operations link), operations/_index.md (3 entries added)
+- Key findings:
+  - Dark HunTOR: 150 arrests across 9 countries; cascade from DarkMarket seizure via J-CAT/EMPACT
+  - Silk Road: FBI-led 2013 takedown; Iceland server cooperation; ~173,991 BTC seized; Ulbricht pardoned 2025-01-21
+
+## [2026-04-10] fix | 21건 URL-operation mismatch 정리 + 스케줄러 3회/일 개선
+- Scheduler: 1x daily (07:00) → 3x daily (07:00, 12:00, 19:00) — register_scheduler.py 리팩토링
+- 20건 source pages_updated 재할당 완료 (모든 [!warning] mismatch → [!info] resolved)
+- 7 신규 작전 페이지 생성: bali-villa-cybercrime-raid-2024, operation-heart-blocker, operation-kraken-ghost-platform, lumma-stealer-takedown, nemesis-market-takedown, operation-chakra-iii, myanmar-kokang-scam-compound-crackdown
+- botnet-takedown-europol-2023 → ramnit-botnet-takedown 리네임 (실제 2015 Ramnit 작전)
+- operation-avalanche participating_countries 13 → 30 (Europol 공식 출처 확인)
+- 2건 추가 mismatch 발견: the-cyber-express-marketplace-a-dekhtyarchuk-indictment → operation-endgame, hackread-global-airport-action-day → carding-action-2020
+- BBC 미검증 URL 2건 인터뷰 큐 등록 (Q0003)
+- lint: CRITICAL 0, HIGH 0 / check_links: broken 0 / ZZPROT: 0
+
 ## [2026-04-08] create | Wiki initialized
 - Project structure created for International Cooperation on Cyber Crime domain
 - CLAUDE.md schema and DESIGN.md written
@@ -313,3 +341,26 @@
   - CETS 224 Second Additional Protocol: 3 ratifications only (Japan, Serbia, Hungary 2026-02-05); still not in force
   - UN Cybercrime Convention: opened for signature in Hanoi 2025-10-25/26 (72 states + EU); 74 signatories by March 2026; Qatar first to ratify in Feb 2026 with reservations; Vietnam second
   - C-PROC operational since 2014-04-07 in Bucharest under MoU with Romania; 2000+ activities for 130+ countries over 10 years
+
+## [2026-04-10] create | 3 new operation pages from URL-mismatch audit
+- Pages created:
+  - wiki/operations/bali-villa-cybercrime-raid-2024.md — Indonesia deported 103 foreigners from Bali villa raid (June 2024); no criminal prosecution due to jurisdictional gap
+  - wiki/operations/operation-heart-blocker.md — US-Dutch seizure of 39 HeartSender domains (Jan 2025) + 21 Pakistan arrests (May 2025)
+  - wiki/operations/operation-kraken-ghost-platform.md — AFP/Europol Ghost encrypted platform takedown, 51 arrests across 9 countries (Sep 2024)
+- Pages updated:
+  - wiki/operations/_index.md — 3 new entries added
+- Key findings:
+  - Bali raid: illustrates jurisdictional gap — host country could not prosecute because victims were abroad; deportation only
+  - Heart Blocker: rare Pakistan-based cybercrime disruption; loss estimates range $3M (DOJ) to $50M+ (Pakistan NCCIA)
+  - Operation Kraken: AFP infiltrated Ghost via software update modification; 2.5-year investigation; continues EncroChat/AN0M/Sky ECC lineage of criminal encrypted platform takedowns
+
+## [2026-04-10] create | 2 new operation pages from URL-mismatch audit (batch 2)
+- Pages created:
+  - wiki/operations/operation-chakra-iii.md — CBI India Operation Chakra-III (Jul-Sep 2024): 43 arrests across 6+ Indian cities dismantling tech-support scam call centers targeting US victims; CBI + FBI + INTERPOL + HSI collaboration; 951 devices + 57 gold bars seized
+  - wiki/operations/myanmar-kokang-scam-compound-crackdown.md — China-Myanmar cyber scam compound crackdown (Sep 2023 - Jan 2024): 41,000+ suspects repatriated to China; MNDAA Operation 1027 military offensive physically overran Kokang scam compounds; Ming family leadership arrested; largest cybercrime enforcement by volume in history
+- Pages updated:
+  - wiki/operations/_index.md — 2 new entries added
+- Key findings:
+  - Chakra-III: Part of multi-phase CBI series (I-V); arrest count discrepancy (43 total vs 26 in second wave) likely sequential; Microsoft role unclear for Phase III specifically
+  - Myanmar-Kokang: Unprecedented case of military conflict intersecting with cybercrime enforcement; non-state armed group (MNDAA) served as de facto enforcement partner; scam operations displaced to other regions rather than eliminated
+  - Both operations represent non-Western IC models: India bilateral with US/INTERPOL; China bilateral pressure + tacit military support

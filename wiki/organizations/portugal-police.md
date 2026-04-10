@@ -26,6 +26,7 @@ notable_cases: []
 official_name: Unidade Nacional de Combate ao Cibercrime e à Criminalidade Tecnológica
 official_name_ko: ''
 operations_participated:
+- '[[operation-endgame]]'
 - '[[operation-endgame-phase1]]'
 org_type: national-unit
 parent_org: '[[portugal-policia-judiciaria]]'

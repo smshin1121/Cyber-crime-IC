@@ -38,13 +38,17 @@ official_name: Politie — Dienst Landelijke Recherche — Team High Tech Crime
 official_name_ko: 네덜란드 국가경찰 — 첨단기술범죄수사팀
 operations_participated:
 - '[[cryptex-pm2btc-sanctions]]'
+- '[[alphabay-takedown]]'
 - '[[doublevpn-takedown]]'
+- '[[emotet-takedown]]'
 - '[[hive-ransomware-takedown]]'
 - '[[operation-avalanche]]'
 - '[[operation-bakovia]]'
 - '[[operation-cronos-phase1]]'
 - '[[operation-cronos-phase3]]'
+- '[[operation-endgame]]'
 - '[[operation-endgame-phase1]]'
+- '[[operation-dark-huntor]]'
 - '[[operation-endgame-phase2]]'
 - '[[operation-nova]]'
 - '[[operation-talent]]'
@@ -112,10 +116,10 @@ The NHTCU operates within the Dienst Landelijke Recherche structure:
 ### Innovative Techniques
 
 The NHTCU has pioneered several innovative approaches:
-- **Emotet police message (2021):** After Emotet takedown, Dutch police deployed an update to infected machines notifying victims — *likely* the first operational use of "police malware" to protect victims at scale [^emotet]
+- **[[emotet-takedown|Emotet uninstall module (Operation LadyBird, 2021)]]:** After seizing Emotet C2 infrastructure, Dutch police deployed a law enforcement-created DLL via Emotet's own update mechanism that self-deleted the malware from ~1 million infected machines on 25 April 2021 -- *almost certainly* the first operational use of "police malware" to protect victims at scale
+- **[[alphabay-takedown|Hansa covert operation (Operation Bayonet, 2017)]]:** Dutch police covertly operated the Hansa darknet marketplace for ~1 month after seizing it, collecting vendor IP addresses, buyer delivery addresses, and transaction data on 27,000 illegal transactions before revealing the operation
 - **Hive infiltration:** Dutch police infiltrated Hive ransomware infrastructure for months before the takedown, collecting decryption keys that were shared with 1,500+ victims [^hive]
 
-[^emotet]: > [!note] Based on general knowledge; not verified against a collected source.
 [^hive]: > [!note] Based on general knowledge; not verified against a collected source.
 
 ## Cooperation Track Record

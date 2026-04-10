@@ -30,6 +30,7 @@ official_name: Nationalt Cyber Crime Center (NC3) — National enhed for Særlig
   (NSK)
 official_name_ko: 덴마크 국립사이버범죄센터 (NC3) / 특수범죄국 (NSK)
 operations_participated:
+- '[[operation-endgame]]'
 - '[[operation-endgame-phase1]]'
 - '[[operation-endgame-phase2]]'
 org_type: national-unit

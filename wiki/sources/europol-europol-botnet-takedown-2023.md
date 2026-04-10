@@ -14,7 +14,7 @@ credibility: "confirmed"
 sensitivity: "public"
 source_tier: 2
 pages_updated:
-  - "botnet-takedown-europol-2023"
+  - "ramnit-botnet-takedown"
 key_findings:
   - "URL-TOPIC MISMATCH: The Europol URL currently linked to the 'Europol Botnet Takedown 2023' wiki operation is actually the 2015-02-24 press release on the Ramnit botnet takedown, NOT a 2023 action. The operation page title is misleading and should be corrected or the source reassigned"
   - "The actual article describes the 24 February 2015 takedown of the Ramnit botnet, which had infected ~3.2 million computers worldwide, led by the UK National Crime Agency with partner action in Germany, Italy and the Netherlands"
@@ -26,8 +26,8 @@ created: 2026-04-08
 updated: 2026-04-10
 ---
 
-> [!warning] Contradiction / data integrity issue
-> The wiki operation page **[[botnet-takedown-europol-2023]]** records this source as evidence of a 2023 botnet takedown. However, the Europol URL and article content unambiguously describe the **2015-02-24 Ramnit botnet takedown** (led by UK NCA). The wiki operation page is *almost certainly* incorrectly dated or incorrectly scoped. Recommended actions: (a) re-date the operation to 2015-02-24, (b) rename to reference Ramnit, and (c) check for duplication with an existing Ramnit entry.
+> [!info] Mismatch resolved (2026-04-10)
+> Operation page renamed from `botnet-takedown-europol-2023` to `ramnit-botnet-takedown`. The Europol source is confirmed as the 2015-02-24 Ramnit takedown press release.
 
 ## Source
 

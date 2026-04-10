@@ -31,7 +31,8 @@ key_agencies:
 last_verified: '2026-04-10'
 legal_system: civil-law
 notable_cases: []
-operations_participated: []
+operations_participated:
+- '[[alphabay-takedown]]'
 region: southeast-asia
 source_count: 3
 sources: []

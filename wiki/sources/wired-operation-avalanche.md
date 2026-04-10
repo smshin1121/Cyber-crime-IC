@@ -1,6 +1,6 @@
 ---
 type: source
-title: "Wired: Silk Road 2.0 Article (URL-topic mismatch — actual: Silk Road / Ulbricht sentencing, not Operation Avalanche)"
+title: "Wired: Silk Road 2.0 / Ulbricht Sentencing Coverage"
 collection_url: "https://www.wired.com/2015/05/silk-road-2/"
 collection_domain: "wired.com"
 source_type: "news"
@@ -14,7 +14,8 @@ credibility: "probably-true"
 sensitivity: "public"
 source_tier: 3
 pages_updated:
-  - "operation-avalanche"
+  - "silk-road-takedown"
+  - "operation-onymous"
 key_findings:
   - "URL-TOPIC MISMATCH: The stored Wired URL (wired.com/2015/05/silk-road-2/) is about the Silk Road dark-web marketplace (Ross Ulbricht sentencing era), not Operation Avalanche (November 2016). This source is incorrectly linked to [[operation-avalanche]] and should be reassigned"
   - "Actual URL content: A Wired article from May 2015 covering Silk Road and/or Silk Road 2.0 — most likely published around 29 May 2015 coinciding with Ross Ulbricht's sentencing to two concurrent life sentences + 40 years without parole in the Southern District of New York for creating and operating Silk Road"
@@ -26,8 +27,8 @@ created: 2026-04-08
 updated: 2026-04-10
 ---
 
-> [!warning] Contradiction / data integrity issue
-> The stored URL is about Silk Road / Silk Road 2.0 (May 2015), NOT Operation Avalanche (November 2016). The `pages_updated: [operation-avalanche]` linkage is incorrect. Fetching was additionally blocked by Wired's CDN during enrichment (2026-04-10), but the URL path `/2015/05/silk-road-2/` unambiguously confirms the topic. Recommended action: reassign this source to a Silk Road / Operation Onymous operation page or remove the linkage.
+> [!info] Mismatch resolved (2026-04-10)
+> Previously linked to [[operation-avalanche]]. Reassigned to [[silk-road-takedown]] and [[operation-onymous]] — the actual URL covers the Silk Road saga / Ulbricht sentencing (May 2015).
 
 ## Source
 
@@ -37,8 +38,7 @@ updated: 2026-04-10
 - **Source Tier**: 3 (mainstream tech journalism)
 - **Reliability**: medium-high (Wired baseline)
 - **Credibility**: probably-true
-- **Operations referenced (stored)**: [[operation-avalanche|Operation Avalanche]] (INCORRECT)
-- **Actual operation/topic covered**: Silk Road 2.0 / Ross Ulbricht sentencing (May 2015)
+- **Operations**: [[silk-road-takedown|Silk Road Takedown]] / [[operation-onymous|Operation Onymous]]
 
 ## Summary
 

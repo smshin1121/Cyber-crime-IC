@@ -21,6 +21,7 @@ mandate: Specialized French national jurisdiction with concurrent nationwide com
 notable_cases: []
 official_name: Juridiction Nationale de Lutte contre la Criminalité Organisée
 operations_participated:
+- '[[operation-endgame]]'
 - '[[operation-endgame-phase2]]'
 org_type: prosecution-office
 parent_org: Parquet de Paris (Paris Public Prosecutor's Office)

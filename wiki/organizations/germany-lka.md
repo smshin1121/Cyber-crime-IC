@@ -25,6 +25,7 @@ mandate: Collective reference to Germany's 16 state criminal police offices. Eac
 notable_cases: []
 official_name: Landeskriminalamt (Landeskriminalämter)
 operations_participated:
+- '[[operation-endgame]]'
 - '[[operation-cronos-phase3]]'
 org_type: national-agency
 parent_org: Interior Ministry of each of Germany's 16 federal states (Länder)

@@ -31,12 +31,15 @@ operations_participated:
 - '[[andromeda-botnet-takedown]]'
 - '[[belgium-netherlands-phishing-gang]]'
 - '[[blackcat-lockeroga-kelvin-security-2023]]'
-- '[[botnet-takedown-europol-2023]]'
+- '[[ramnit-botnet-takedown]]'
 - '[[carbanak-cobalt-takedown]]'
 - '[[cyber-fraud-international-2015]]'
 - '[[darkode-takedown]]'
+- '[[operation-dark-huntor]]'
 - '[[ddos-for-hire-sweep-2016]]'
 - '[[doublevpn-takedown]]'
+- '[[emotet-takedown]]'
+- '[[alphabay-takedown]]'
 - '[[fake-shopping-sites-takedown-2024]]'
 - '[[franco-israeli-ceo-fraud]]'
 - '[[global-airport-action-day]]'
@@ -47,6 +50,7 @@ operations_participated:
 - '[[operation-bakovia]]'
 - '[[operation-cronos-phase1]]'
 - '[[operation-cronos-phase3]]'
+- '[[operation-endgame]]'
 - '[[operation-endgame-phase1]]'
 - '[[operation-endgame-phase2]]'
 - '[[operation-first-light-2024]]'
@@ -108,9 +112,7 @@ EC3 is *almost certainly* the most operationally active international coordinati
 - **[[operation-cronos-phase3|Operation Cronos Phase 3]]** (Oct 2024): 4 new LockBit arrests, financial sanctions against Evil Corp affiliates
 - **[[phobos-8base-crackdown|Phobos/8Base Crackdown]]** (Feb 2025): 4 arrests of 8Base leadership, 27 servers taken down; includes South Korea arrest and extradition
 - **[[operation-endgame-phase2|Operation Endgame Phase 2]]** (May 2025): 300 servers taken down, 650 domains neutralized, EUR 3.5M seized, 20 arrest warrants issued
-- **Emotet takedown** (Jan 2021): Disrupted Emotet botnet infrastructure across multiple countries [^emotet]
-
-[^emotet]: > [!note] This information is based on general knowledge and has not been verified against a collected source.
+- **[[emotet-takedown|Emotet takedown (Operation LadyBird)]]** (Jan 2021): Disrupted Emotet botnet infrastructure; ~700 C2 servers seized across 8 countries; uninstall module deployed to 1M+ infected machines
 
 ## Mandate and Authority
 

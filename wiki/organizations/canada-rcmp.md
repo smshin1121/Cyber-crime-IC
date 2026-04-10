@@ -33,6 +33,7 @@ official_name_ko: 캐나다 기마경찰대 국가사이버범죄조정센터
 operations_participated:
 - '[[operation-cronos-phase1]]'
 - '[[operation-cronos-phase3]]'
+- '[[operation-endgame]]'
 - '[[operation-endgame-phase2]]'
 org_type: national-unit
 parent_org: '[[canada-rcmp-federal-policing]]'

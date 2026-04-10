@@ -1,6 +1,6 @@
 ---
 type: source
-title: "TechXplore / AFP: FBI and Nigeria step up cyber-crime investigations (URL-topic mismatch — actual: Operation reWired, not Avalanche)"
+title: "TechXplore / AFP: FBI and Nigeria step up cyber-crime investigations (Operation reWired)"
 collection_url: "https://techxplore.com/news/2019-09-fbi-nigeria-step-up-cyber-crime.html"
 collection_domain: "techxplore.com"
 source_type: "news"
@@ -15,7 +15,7 @@ credibility: "possibly-true"
 sensitivity: "public"
 source_tier: 4
 pages_updated:
-  - "operation-avalanche"
+  - "operation-rewired"
 key_findings:
   - "URL-TOPIC MISMATCH: The stored TechXplore URL links to an Operation reWired article (FBI-Nigeria BEC crackdown, September 2019), NOT to Operation Avalanche (December 2016). The source is incorrectly linked to the Avalanche operation page and should be reassigned to a reWired/BEC operation page or de-linked"
   - "The actual article: AFP wire story about Operation reWired, a coordinated global crackdown against business email compromise (BEC) fraud that resulted in 281 total arrests — 167 in Nigeria, 74 in the United States, plus arrests in Turkey (18), Ghana (15), France, Italy, Japan, Kenya, Malaysia and Britain"
@@ -27,8 +27,8 @@ created: 2026-04-08
 updated: 2026-04-10
 ---
 
-> [!warning] Contradiction / data integrity issue
-> The stored TechXplore URL does not cover Operation Avalanche. Content verification confirms it is an AFP wire story about **Operation reWired** (FBI/Nigeria BEC, September 2019). The `pages_updated: [operation-avalanche]` link is incorrect and should be reassigned. This is a data-entry error from the original ingest, not a content-change issue at the source URL.
+> [!info] Mismatch resolved (2026-04-10)
+> Previously linked to [[operation-avalanche]]. Reassigned to [[operation-rewired]] after URL content verification confirmed this is an AFP wire story about Operation reWired (FBI/Nigeria BEC, September 2019).
 
 ## Source
 
@@ -39,8 +39,7 @@ updated: 2026-04-10
 - **Source Tier**: 4 (wire-service aggregator, no independent reporting)
 - **Reliability**: medium (AFP is reliable but TechXplore adds no editorial value; aggregator status reduces to Tier 4)
 - **Credibility**: possibly-true
-- **Operations referenced (incorrect)**: [[operation-avalanche|Operation Avalanche]]
-- **Actual operation covered**: Operation reWired (FBI/EFCC BEC crackdown, May-September 2019)
+- **Operation**: [[operation-rewired|Operation reWired]] (FBI/EFCC BEC crackdown, May-September 2019)
 
 ## Summary
 

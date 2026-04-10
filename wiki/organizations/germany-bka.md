@@ -41,12 +41,14 @@ operations_participated:
 - '[[operation-avalanche]]'
 - '[[operation-cronos-phase1]]'
 - '[[operation-cronos-phase3]]'
+- '[[operation-endgame]]'
 - '[[operation-endgame-phase1]]'
 - '[[operation-endgame-phase2]]'
 - '[[operation-nova]]'
 - '[[operation-talent]]'
 - '[[phobos-8base-crackdown]]'
 - '[[qakbot-gallyamov-indictment]]'
+- '[[operation-dark-huntor]]'
 org_type: national-agency
 parent_org: '[[germany-bmi]]'
 source_count: 0

@@ -28,16 +28,20 @@ notable_cases: []
 official_name: Cyber Division, Federal Bureau of Investigation
 official_name_ko: 미국 연방수사국 사이버과
 operations_participated:
+- '[[alphabay-takedown]]'
 - '[[black-axe-bec-2021]]'
 - '[[blackcat-lockeroga-kelvin-security-2023]]'
 - '[[darkode-takedown]]'
+- '[[emotet-takedown]]'
 - '[[infraud-organization-takedown]]'
 - '[[isoon-apt27-indictment]]'
 - '[[operation-bakovia]]'
 - '[[operation-checkmate-blacksuit]]'
 - '[[operation-cronos-phase1]]'
 - '[[operation-cronos-phase3]]'
+- '[[operation-chakra-iii]]'
 - '[[operation-destabilise]]'
+- '[[operation-endgame]]'
 - '[[operation-endgame-phase1]]'
 - '[[operation-endgame-phase2]]'
 - '[[operation-hyperion]]'
@@ -49,6 +53,8 @@ operations_participated:
 - '[[rydox-marketplace-takedown]]'
 - '[[xdedic-marketplace-takedown]]'
 - '[[zeus-spyeye-takedown]]'
+- '[[operation-dark-huntor]]'
+- '[[silk-road-takedown]]'
 org_type: national-agency
 parent_org: '[[fbi]]'
 source_count: 12
