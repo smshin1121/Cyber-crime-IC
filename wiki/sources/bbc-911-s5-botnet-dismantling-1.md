@@ -1,75 +1,68 @@
 ---
 type: source
-title: "BBC: Unverified Botnet Article (URL mismatch — cannot confirm 911 S5 coverage)"
-collection_url: "https://www.bbc.com/news/technology-35028690"
-collection_domain: "bbc.com"
-source_type: "news"
-publisher: "BBC News"
-publish_date: "2009-03-13"
+title: "US DOJ: Justice Department Leads Effort to Dismantle 911 S5 Botnet"
+collection_url: "https://www.justice.gov/opa/pr/justice-department-leads-effort-among-multinational-partners-dismantle-worlds-largest-botnet"
+collection_domain: "justice.gov"
+source_type: "press-release"
+publisher: "US Department of Justice"
+author: "DOJ Office of Public Affairs"
+publish_date: "2024-05-29"
 ingest_date: "2026-04-08"
-enriched_date: "2026-04-10"
+enriched_date: "2026-04-11"
 language: "en"
-reliability: "low"
-credibility: "possibly-true"
+reliability: "high"
+credibility: "confirmed"
 sensitivity: "public"
-source_tier: 4
-pages_updated: []
+source_tier: 1
+pages_updated:
+  - "911-s5-botnet-takedown"
 key_findings:
-  - "URL-TOPIC MISMATCH: The stored URL (bbc.com/news/technology-35028690) does NOT cover the 2024 911 S5 botnet takedown. Reverse lookup and BBC URL conventions place article 35028690 in the late-2015 timeframe and unrelated to 911 S5"
-  - "The BBC botnet article most commonly associated with the slug has historically been the 2009 BBC Click ethics story in which BBC journalists purchased a ~22,000-machine botnet for investigative purposes, later disabled and with affected users notified — per Threatpost, Silicon UK, The Register and ITPro coverage"
-  - "The actual 911 S5 botnet dismantling was announced on 29 May 2024 by the US DOJ, FBI, DHS and Treasury, with participation from Germany, Singapore and Thailand; YunHe Wang was arrested in Singapore on 24 May 2024 (per DOJ press release and multiple secondary sources)"
-  - "911 S5 had ensnared ~19 million Windows devices across 190+ countries between 2014 and 2022 through deceptive free VPN distributions (per FBI director and DOJ statements)"
-  - "This source record is retained for traceability but should be treated as LOW confidence until a correct BBC article on 911 S5 is identified"
+  - "YunHe Wang (35, Chinese national) arrested in Singapore on 2024-05-24 for creating and operating the 911 S5 botnet from 2014 to July 2022"
+  - "~19 million unique IP addresses infected across 190+ countries, including 613,841 in the United States"
+  - "Wang received ~$99 million from selling proxied IP access; purchased luxury cars, watches, 21 properties"
+  - "23 domains and 70+ servers seized in coordinated US-Singapore-Thailand-Germany action"
+  - "Infection vector: free VPN apps (MaskVPN, DewVPN, PaladinVPN) with hidden proxy backdoors"
+  - "Previously filed as BBC source (bbc.com/news/technology-35028690) which was URL-mismatched. Replaced with DOJ official press release after Q0003 interview decision (2026-04-11)"
 created: 2026-04-08
-updated: 2026-04-10
+updated: 2026-04-11
 ---
 
-> [!warning] URL-topic mismatch
-> The stored URL (`bbc.com/news/technology-35028690`) could not be retrieved during enrichment (WebFetch blocked by BBC, WebSearch returned only unrelated 2009 BBC Click botnet stories). Based on BBC URL conventions (the `technology-35xxxxxx` range corresponds to late-2015 / early-2016 BBC Technology articles), this URL cannot cover the 2024 911 S5 takedown. The most likely historical BBC piece at this URL is an unrelated botnet story.
+> [!info] Source replaced (2026-04-11)
+> Originally filed as a BBC article (`bbc.com/news/technology-35028690`), which was a URL mismatch — the BBC URL pointed to an unrelated ~2015 article. Exhaustive search confirmed BBC did not publish a dedicated article on the 911 S5 takedown. Replaced with the US DOJ official press release per interview Q0003 decision.
 
 ## Source
 
-- **Publisher**: BBC News
-- **URL**: <https://www.bbc.com/news/technology-35028690>
-- **Published**: Unverified; URL format suggests 2015-12 or early 2016, but content could not be retrieved during enrichment
-- **Source Tier**: 4 (mainstream general-interest press, unverified target article)
-- **Reliability**: medium (BBC News baseline)
-- **Credibility**: possibly-true (cannot assess without article content)
-- **Operations referenced**: [[911-s5-botnet-takedown|911 S5 Botnet Dismantling]]
+- **Publisher**: US Department of Justice
+- **URL**: <https://www.justice.gov/opa/pr/justice-department-leads-effort-among-multinational-partners-dismantle-worlds-largest-botnet>
+- **Published**: 2024-05-29
+- **Source Tier**: 1 (official government press release)
+- **Reliability**: high
+- **Credibility**: confirmed
+- **Operation**: [[911-s5-botnet-takedown|911 S5 Botnet Dismantling]]
 
 ## Summary
 
-This source record was created as part of a batch ingest linking BBC coverage to the [[911-s5-botnet-takedown]] operation page. During enrichment (2026-04-10) the URL returned blocked content, and the URL slug (`technology-35028690`) is inconsistent with a 2024 article on the 911 S5 takedown — BBC's numeric ID range 35xxxxxx corresponds to late 2015.
+The US DOJ announced on 29 May 2024 the dismantling of the **911 S5 botnet**, described as "likely the world's largest botnet ever." Key facts:
 
-The 911 S5 operation itself was announced on 29 May 2024 and involved:
+1. **YunHe Wang** (35, Chinese national) arrested in Singapore on 24 May 2024
+2. **~19 million infected Windows devices** across 190+ countries (613,841 US IPs)
+3. **23 domains** and **70+ servers** seized
+4. **Infection vector**: Free VPN applications (MaskVPN, DewVPN, PaladinVPN, ProxyGate, ShieldVPN, ShineVPN) containing hidden proxy backdoors
+5. **Revenue**: ~$99 million from selling proxied IP access
+6. **International partners**: Singapore, Thailand, Germany
+7. **OFAC sanctions** issued concurrently by US Treasury (2024-05-28)
 
-- **Lead**: US DOJ, FBI, DHS, Treasury (OFAC sanctions under the same action)
-- **International partners**: Germany, Singapore, Thailand
-- **Scale**: ~19 million infected Windows IP addresses across 190+ countries
-- **Arrest**: YunHe Wang (35, Chinese national) arrested in Singapore on 2024-05-24
-- **Vector**: Free-VPN deception (MaskVPN, DewVPN, PaladinVPN and others) hiding proxy backdoors
-
-None of this is *directly* supported by the BBC URL currently on file.
-
-## Why this source matters
-
-- Documents a provenance gap that should be corrected when possible
-- Highlights the need to replace this entry with a legitimate BBC 2024 article on 911 S5 (e.g., a `bbc.com/news/articles/...` 2024 slug) or downgrade the `source_count` on the operation page
-
-## Cross-reference with other sources
+## Cross-reference
 
 | Source | Confirms |
 |---|---|
-| US DOJ 2024-05-29 press release | Operation timeline, YunHe Wang arrest, country list |
-| The Hacker News 2024-05 | 19M infected devices, FBI director quote |
-| SecurityWeek 2024-05 | Chinese mastermind arrested in Singapore |
-| US Treasury OFAC action 2024-05 | Sanctions on associated network |
+| US Treasury OFAC (2024-05-28) | Sanctions on Wang and associated entities |
+| The Hacker News (2024-05-30) | 19M devices, FBI director quote |
+| Chainalysis (2024-05) | Crypto tracing of botnet revenue |
 
 ## References
 
 | # | Source | Publisher | Date | URL |
 |---|---|---|---|---|
-| [1] | (Unverified original BBC article at stored slug) | BBC News | unverified | https://www.bbc.com/news/technology-35028690 |
-| [2] | Justice Department Leads Effort to Dismantle 911 S5 Botnet | US DOJ | 2024-05-29 | https://www.justice.gov/opa/pr/justice-department-leads-effort-among-multinational-partners-dismantle-worlds-largest-botnet |
-| [3] | Treasury Sanctions a Cybercrime Network Associated with the 911 S5 Botnet | US Treasury | 2024-05-28 | https://home.treasury.gov/news/press-releases/jy2375 |
-| [4] | US Dismantles World's Largest 911 S5 Botnet with 19 Million Infected Devices | The Hacker News | 2024-05-30 | https://thehackernews.com/2024/05/us-dismantles-worlds-largest-911-s5.html |
+| [1] | Justice Department Leads Effort to Dismantle 911 S5 Botnet | US DOJ | 2024-05-29 | https://www.justice.gov/opa/pr/justice-department-leads-effort-among-multinational-partners-dismantle-worlds-largest-botnet |
+| [2] | Treasury Sanctions a Cybercrime Network Associated with the 911 S5 Botnet | US Treasury | 2024-05-28 | https://home.treasury.gov/news/press-releases/jy2375 |

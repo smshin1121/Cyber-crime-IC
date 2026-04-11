@@ -1,71 +1,76 @@
 ---
 type: source
-title: "BBC: Africa Cyber Surge II"
-collection_url: "https://www.bbc.com/pidgin/tori-49629324"
-collection_domain: "bbc.com"
-source_type: "news"
-publisher: "BBC"
-publish_date: ""
+title: "INTERPOL: Cybercrime — 14 arrests, thousands of illicit cyber networks disrupted in Africa operation"
+collection_url: "https://www.interpol.int/en/News-and-Events/News/2023/Cybercrime-14-arrests-thousands-of-illicit-cyber-networks-disrupted-in-Africa-operation"
+collection_domain: "interpol.int"
+source_type: "press-release"
+publisher: "INTERPOL"
+author: "INTERPOL Press Office"
+publish_date: "2023-08-18"
 ingest_date: "2026-04-08"
-enriched_date: "2026-04-10"
+enriched_date: "2026-04-11"
 language: "en"
-reliability: "low"
-credibility: "unassessed"
+reliability: "high"
+credibility: "confirmed"
 sensitivity: "public"
-source_tier: 4
+source_tier: 1
 pages_updated:
   - "africa-cyber-surge-ii"
 key_findings:
-  - "URL fetch blocked by the BBC domain at enrichment time; the specific BBC article content could not be retrieved for direct verification"
-  - "The URL path (`/pidgin/tori-49629324`) points to BBC Pidgin, a West-African-language service, and the article ID suggests a 2019 publication — *almost certainly not* the 2023 Africa Cyber Surge II operation (which was announced August 2023)"
-  - "Independent reporting (Interpol, Infosecurity Magazine, Dark Reading, CyberTalk) *highly likely* confirms the core Africa Cyber Surge II facts: 14 arrests, 20,674 suspicious networks identified, 25 African countries, USD 40 million linked losses, launched April 2023 over ~4 months, co-led by Interpol and Afripol with UK FCDO, German Foreign Office, and Council of Europe funding"
-  - "Private-sector contribution: Group-IB provided threat intelligence; other cybersecurity firms supported the operation"
-  - "Country-specific results included: Cameroon — 3 suspects arrested over art-sale fraud (USD 850k); Kenya — 615 malware hosters taken down"
-  - "Given the URL-topic mismatch, this source is flagged as *reliability: low* pending re-collection of a verifiable BBC article specifically about Africa Cyber Surge II"
+  - "Africa Cyber Surge II ran April-August 2023 across 25 African countries, coordinated by INTERPOL and Afripol"
+  - "14 suspects arrested; 20,674 suspicious cyber networks identified"
+  - "Financial losses linked to identified networks exceeded USD 40 million"
+  - "1,442 malicious IP addresses, domains, and servers disrupted"
+  - "Private-sector support from Group-IB and other cybersecurity firms"
+  - "Funding from UK FCDO, German Federal Foreign Office, Council of Europe"
+  - "Country-specific: Cameroon 3 arrests (art-sale fraud, $850K); Kenya 615 malware hosters taken down"
+  - "Previously filed as BBC Pidgin article (bbc.com/pidgin/tori-49629324) which was URL-mismatched (~2019 article). Replaced with INTERPOL official press release per interview Q0003 decision (2026-04-11)"
 created: 2026-04-08
-updated: 2026-04-10
+updated: 2026-04-11
 ---
+
+> [!info] Source replaced (2026-04-11)
+> Originally filed as a BBC Pidgin article (`bbc.com/pidgin/tori-49629324`), which was a URL mismatch — the BBC URL pointed to an unrelated ~2019 article. Exhaustive search confirmed BBC did not publish a dedicated article on Africa Cyber Surge II. Replaced with the INTERPOL official press release per interview Q0003 decision.
 
 ## Source
 
-- **Publisher**: BBC (BBC Pidgin service)
-- **URL**: <https://www.bbc.com/pidgin/tori-49629324>
-- **Published**: Not confirmed (URL article ID pattern suggests ~2019)
-- **Source Tier**: 4 (mainstream news, but URL-topic mismatch reduces usability)
-- **Reliability**: low (cannot verify because fetch was blocked AND URL likely does not cover the referenced operation)
-- **Credibility**: unassessed
-- **Operations referenced**: [[africa-cyber-surge-ii|Africa Cyber Surge II]]
-
-> [!warning] URL mismatch
-> The BBC URL uses the `/pidgin/tori-49629324` path, which routes to BBC Pidgin. The numeric article ID is consistent with 2019 BBC Pidgin content — years before the Africa Cyber Surge II operation was announced (August 2023). At enrichment time, the URL could not be fetched (BBC blocks automated fetch), so the actual article content could not be verified. This source almost certainly does NOT report on Africa Cyber Surge II and should be replaced with a verifiable BBC or alternative mainstream article on the operation.
+- **Publisher**: INTERPOL
+- **URL**: <https://www.interpol.int/en/News-and-Events/News/2023/Cybercrime-14-arrests-thousands-of-illicit-cyber-networks-disrupted-in-Africa-operation>
+- **Published**: 2023-08-18
+- **Source Tier**: 1 (official international agency press release)
+- **Reliability**: high
+- **Credibility**: confirmed
+- **Operation**: [[africa-cyber-surge-ii|Africa Cyber Surge II]]
 
 ## Summary
 
-BBC's `/pidgin/tori-49629324` page is cited in this wiki as coverage of the **Interpol-Afripol Africa Cyber Surge II** operation. The page was unreachable at enrichment time, and the URL signature points to an unrelated, older BBC Pidgin story — so the wiki cannot, at this point, attribute any factual claims to this specific BBC article.
+INTERPOL announced on 18 August 2023 the results of **Africa Cyber Surge II**, a 4-month operation (April–August 2023) coordinated with [[afripol|Afripol]] across **25 African countries**.
 
-For context on the referenced operation (from independently verified sources, not this BBC URL):
+Key results:
+1. **14 suspects arrested** across participating countries
+2. **20,674 suspicious cyber networks** identified
+3. **USD 40 million+** in linked financial losses
+4. **1,442 malicious IP addresses, domains, and servers** disrupted
+5. **Private-sector**: Group-IB provided threat intelligence
+6. **Funders**: UK FCDO, German Federal Foreign Office, Council of Europe
 
-- Africa Cyber Surge II was launched in **April 2023** and ran for approximately **4 months**, announced by Interpol on **2023-08-18**
-- **25 African countries** participated; **14 suspects** were arrested; **20,674** suspicious networks were identified
-- Networks linked to estimated losses of **more than USD 40 million**
-- Private-sector partners included **Group-IB** and other cybersecurity firms; funders included **UK FCDO, German Federal Foreign Office, Council of Europe**
+### Country-Specific Results
+- **Cameroon**: 3 suspects arrested for online art-sale fraud (USD 850,000)
+- **Kenya**: 615 malware hosters taken down
+- **Mauritius**: Arrests for online scam operations
+- **Nigeria**: Cybercrime suspects detained
 
-## Why this source matters
+## Cross-reference
 
-In principle, mainstream BBC coverage would provide Tier 3 independent corroboration of Interpol's official announcement. In practice, this specific URL does not support that role and should be considered a *pending re-collection* rather than a usable citation.
-
-## Cross-reference with other sources
-
-| Source | Status |
+| Source | Confirms |
 |---|---|
-| Interpol press release (2023-08-18) | Primary official source — not yet in wiki |
-| [[cybertalk-africa-cyber-surge-ii]] (if collected) | Secondary trade press |
-| Group-IB press release on Africa Cyber Surge II | Primary private-sector source |
+| Africa Defense Forum (2023-09) | 14 arrests, 25 countries, $40M |
+| Kaspersky PR (2023-08) | Private-sector support role |
+| Infosecurity Magazine (2023-08) | 14 suspects, 20,674 networks |
 
 ## References
 
 | # | Source | Publisher | Date | URL |
 |---|---|---|---|---|
-| [1] | BBC Pidgin — tori-49629324 (URL, unverified content) | BBC | unknown | https://www.bbc.com/pidgin/tori-49629324 |
-| [2] | Cybercrime: 14 arrests, thousands of illicit cyber networks disrupted in Africa operation | Interpol | 2023-08-18 | https://www.interpol.int/en/News-and-Events/News/2023/Cybercrime-14-arrests-thousands-of-illicit-cyber-networks-disrupted-in-Africa-operation |
-| [3] | Interpol-Led Africa Cyber Surge II Nets 14 Cybercrime Suspects | Infosecurity Magazine | 2023-08 | https://www.infosecurity-magazine.com/news/interpol-arrests-africa-14-suspects/ |
+| [1] | Cybercrime: 14 arrests, thousands of illicit cyber networks disrupted in Africa operation | INTERPOL | 2023-08-18 | https://www.interpol.int/en/News-and-Events/News/2023/Cybercrime-14-arrests-thousands-of-illicit-cyber-networks-disrupted-in-Africa-operation |
+| [2] | Africa Cyber Surge II Nets Criminals on Continental Scale | Africa Defense Forum | 2024-04 | https://adf-magazine.com/2024/04/africa-cyber-surge-ii-nets-criminals-on-continental-scale/ |
