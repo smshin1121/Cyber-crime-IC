@@ -28,6 +28,7 @@ updated: 2026-04-10
 | [[darkmarket-takedown]] | CYB-2021-009 | 2 | completed | — | 2 |
 | [[darkode-takedown]] | CYB-2015-051 | 1 | completed | 1.88 | 3 |
 | [[ddos-for-hire-sweep-2016]] | CYB-2016-002 | 1 | completed | 2.95 | 2 |
+| [[dridex-operations]] | CYB-2015-007 | 1 | completed | 4.0 | 1 |
 | [[doublevpn-takedown]] | CYB-2021-051 | 2 | completed | 1.88 | 3 |
 | [[emotet-takedown]] | CYB-2021-003 | 2 | completed | 3.5 | 1 |
 | [[fake-shopping-sites-takedown-2024]] | CYB-2024-013 | 3 | completed | 2.28 | 2 |
@@ -62,6 +63,7 @@ updated: 2026-04-10
 | [[operation-first-light-2024]] | CYB-2024-004 | 3 | completed | 2.28 | 2 |
 | [[operation-goldfish-alpha-night-fury]] | CYB-2020-002 | 2 | completed | 2.28 | 2 |
 | [[operation-haechi-ii]] | CYB-2021-002 | 2 | completed | 2.95 | 2 |
+| [[operation-haechi-iii]] | CYB-2022-002 | 2 | completed | 3.5 | 2 |
 | [[operation-haechi-iv]] | CYB-2023-004 | 3 | completed | 2.28 | 2 |
 | [[operation-haechi-v]] | CYB-2024-009 | 3 | completed | 2.28 | 2 |
 | [[operation-haechi-vi]] | CYB-2025-008 | 3 | completed | 2.28 | 2 |
@@ -77,6 +79,7 @@ updated: 2026-04-10
 | [[operation-nightfury]] | CYB-2020-051 | 2 | completed | 2.55 | 3 |
 | [[operation-nova]] | CYB-2020-050 | 2 | completed | 2.55 | 3 |
 | [[operation-orion-international]] | CYB-2024-001 | 3 | completed | 2.28 | 2 |
+| [[operation-power-off]] | CYB-2018-006 | 1 | ongoing | 3.8 | 1 |
 | [[operation-pleiades]] | CYB-2015-006 | 1 | completed | 2.28 | 2 |
 | [[operation-red-card]] | CYB-2024-011 | 3 | completed | 2.95 | 2 |
 | [[operation-secreto]] | CYB-2021-001 | 2 | completed | 2.28 | 2 |

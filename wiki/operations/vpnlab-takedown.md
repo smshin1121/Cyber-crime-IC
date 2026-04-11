@@ -27,6 +27,7 @@ participating_countries:
   - "[[canada|Canada]]"
   - "[[czech-republic|Czech Republic]]"
   - "[[france|France]]"
+  - "[[hungary|Hungary]]"
   - "[[latvia|Latvia]]"
   - "[[ukraine|Ukraine]]"
   - "[[united-kingdom|United Kingdom]]"
