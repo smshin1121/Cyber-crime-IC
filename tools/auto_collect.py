@@ -348,6 +348,19 @@ def save_state(state: dict[str, Any]) -> None:
 
 
 def fetch_url(url: str, timeout: int = 15) -> str | None:
+    """Fetch a URL with automatic stealth fallback for bot-protected domains.
+
+    Uses SmartFetcher from stealth_fetch.py when available:
+      urllib (fast) → scrapling (Cloudflare bypass) → camoufox (last resort)
+    Falls back to basic urllib if stealth_fetch is not installed.
+    """
+    try:
+        from tools.stealth_fetch import smart_fetch
+        return smart_fetch(url, timeout)
+    except ImportError:
+        pass
+
+    # Fallback: basic urllib (original behavior)
     try:
         req = Request(url, headers={
             "User-Agent": (

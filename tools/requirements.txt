@@ -1,0 +1,21 @@
+# IC Wiki Tools — Python dependencies
+# Install: pip install -r tools/requirements.txt
+
+# Core (required)
+flask>=3.0
+markdown>=3.5
+pyyaml>=6.0
+python-frontmatter>=1.1
+markupsafe>=3.0
+openpyxl>=3.1
+requests>=2.31
+
+# Translation
+deep-translator>=1.11
+
+# Stealth fetching (optional — graceful degradation if missing)
+scrapling>=0.4
+curl_cffi>=0.15
+camoufox>=0.4
+patchright>=1.58
+msgspec>=0.21
