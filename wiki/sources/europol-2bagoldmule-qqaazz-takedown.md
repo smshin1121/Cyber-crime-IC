@@ -74,5 +74,5 @@ This is a Tier 2 primary source and should anchor all analytical claims on the o
 | # | Source | Publisher | Date | URL |
 |---|---|---|---|---|
 | [1] | 20 arrests in QQAAZZ multi-million money laundering case | Europol | 2020-10-15 | https://www.europol.europa.eu/media-press/newsroom/news/20-arrests-in-qqaazz-multi-million-money-laundering-case |
-| [2] | Fourteen Individuals Associated with QQAAZZ Charged | US DOJ | 2020-10-15 | https://www.justice.gov/opa/pr/fourteen-individuals-associated-qqaazz-charged-laundering-money-stolen-cybercriminals |
+| [2] | Fourteen Individuals Associated with QQAAZZ Charged | US DOJ | 2020-10-15 | https://www.justice.gov/archives/opa/pr/fourteen-individuals-associated-qqaazz-charged-laundering-money-stolen-cybercriminals |
 | [3] | QQAAZZ Takedown Coverage | KrebsOnSecurity | 2020-10 | https://krebsonsecurity.com/2020/10/qqaazz-crime-ring-arrested/ |

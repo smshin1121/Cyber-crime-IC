@@ -78,5 +78,5 @@ Four independent Tier-3 news sources for the same operation (CBS, Wired, Krebs, 
 | # | Source | Publisher | Date | URL |
 |---|---|---|---|---|
 | [1] | U.S., Russia, cybercrime: Dark Web market suspect Sergey Medvedev arrested in Thailand | CBS News / AP | 2018-02-09 | https://www.cbsnews.com/news/us-russia-cybercrime-dark-web-market-suspect-sergey-medvedev-thailand/ |
-| [2] | Thirty-six Defendants Indicted for Alleged Roles in Transnational Criminal Organization (Infraud) | US DOJ | 2018-02-07 | https://www.justice.gov/opa/pr/thirty-six-defendants-indicted-alleged-roles-transnational-criminal-organization |
+| [2] | Thirty-six Defendants Indicted for Alleged Roles in Transnational Criminal Organization (Infraud) | US DOJ | 2018-02-07 | https://www.justice.gov/archives/opa/pr/thirty-six-defendants-indicted-alleged-roles-transnational-criminal-organization |
 | [3] | Inside the Takedown of Infraud | Wired (Andy Greenberg) | 2018-02-08 | https://www.wired.com/story/infraud-feds-takedown-cybercrime/ |

@@ -78,5 +78,5 @@ Despite the URL-topic mismatch for Darkode, this source has significant standalo
 | # | Source | Publisher | Date | URL |
 |---|---|---|---|---|
 | [1] | International operation targets dark web drugs marketplace | UK NCA | 2021-10-27 | https://www.nationalcrimeagency.gov.uk/news/international-operation-targets-dark-web-drugs-marketplace |
-| [2] | 150 arrested in international operation against dark web trading | Europol | 2021-10-26 | https://www.europol.europa.eu/media-press/newsroom/news/150-arrested-in-massive-hit-against-dark-web-traders |
-| [3] | Operation Dark HunTOR — Department of Justice Joint Statement | US DOJ | 2021-10-26 | https://www.justice.gov/opa/pr/150-arrested-hit-against-dark-web-marketplaces |
+| [2] | 150 arrested in international operation against dark web trading | Europol | 2021-10-26 | https://www.europol.europa.eu/media-press/newsroom/news/150-arrested-in-dark-web-drug-bust-police-seize-%E2%82%AC26-million |
+| [3] | Operation Dark HunTOR — Department of Justice Joint Statement | US DOJ | 2021-10-26 | https://www.justice.gov/archives/opa/pr/150-arrested-hit-against-dark-web-marketplaces |

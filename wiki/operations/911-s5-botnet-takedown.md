@@ -110,4 +110,4 @@ United States, Germany, Singapore, Thailand
 
 | # | Title | Publisher | Date | URL |
 |---|-------|----------|------|-----|
-| [1] | Justice Department Leads Effort to Dismantle 911 S5 Botnet | US DOJ | 2024-05-29 | [원본](https://www.justice.gov/opa/pr/justice-department-leads-effort-among-multinational-partners-dismantle-worlds-largest-botnet) |
+| [1] | Justice Department Leads Effort to Dismantle 911 S5 Botnet | US DOJ | 2024-05-29 | [원본](https://www.justice.gov/archives/opa/pr/justice-department-leads-effort-among-multinational-partners-dismantle-worlds-largest-botnet) |

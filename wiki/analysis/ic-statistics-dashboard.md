@@ -164,7 +164,7 @@ updated: '2026-04-10'
 | [13] | Phobos/8Base ransomware arrests | Europol | 2025-02-11 | [원본](https://www.europol.europa.eu/media-press/newsroom/news/key-figures-behind-phobos-and-8base-ransomware-arrested-in-international-cybercrime-crackdown) |
 | [14] | i-Soon/APT27 indictment | US DOJ | 2025-03-05 | [원본](https://www.justice.gov/opa/pr/justice-department-charges-12-chinese-contract-hackers-and-law-enforcement-officers-global) |
 | [15] | Operation Endgame Phase 2 | Europol | 2025-05-23 | [원본](https://www.europol.europa.eu/media-press/newsroom/news/operation-endgame-strikes-again-ransomware-kill-chain-broken-its-source) |
-| [16] | QakBot/Gallyamov indictment | US DOJ | 2025-05-22 | [원본](https://www.justice.gov/opa/pr/leader-qakbot-malware-conspiracy-indictment-involvement-global-ransomware-scheme) |
+| [16] | QakBot/Gallyamov indictment | US DOJ | 2025-05-22 | [원본](https://www.justice.gov/archives/opa/pr/leader-qakbot-malware-conspiracy-indictment-involvement-global-ransomware-scheme) |
 | [17] | Operation Checkmate: BlackSuit | US DOJ | 2025-08-11 | [원본](https://www.justice.gov/opa/pr/justice-department-announces-coordinated-disruption-actions-against-blacksuit-royal) |
 | [18] | Operation HAECHI VI | INTERPOL | 2025-09-25 | [원본](https://www.interpol.int/en/News-and-Events/News/2025/USD-439-million-recovered-in-global-financial-crime-operation) |
 | [19] | Korea-Cambodia scam centre repatriation | Al Jazeera / Korea Herald | 2025-10-18 | [원본](https://www.aljazeera.com/news/2025/10/20/south-korea-police-seek-warrants-for-repatriated-scam-centre-suspects) |

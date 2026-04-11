@@ -1,7 +1,7 @@
 ---
 type: source
 title: "US DOJ: Justice Department Leads Effort to Dismantle 911 S5 Botnet"
-collection_url: "https://www.justice.gov/opa/pr/justice-department-leads-effort-among-multinational-partners-dismantle-worlds-largest-botnet"
+collection_url: "https://www.justice.gov/archives/opa/pr/justice-department-leads-effort-among-multinational-partners-dismantle-worlds-largest-botnet"
 collection_domain: "justice.gov"
 source_type: "press-release"
 publisher: "US Department of Justice"
@@ -33,7 +33,7 @@ updated: 2026-04-11
 ## Source
 
 - **Publisher**: US Department of Justice
-- **URL**: <https://www.justice.gov/opa/pr/justice-department-leads-effort-among-multinational-partners-dismantle-worlds-largest-botnet>
+- **URL**: <https://www.justice.gov/archives/opa/pr/justice-department-leads-effort-among-multinational-partners-dismantle-worlds-largest-botnet>
 - **Published**: 2024-05-29
 - **Source Tier**: 1 (official government press release)
 - **Reliability**: high
@@ -64,5 +64,5 @@ The US DOJ announced on 29 May 2024 the dismantling of the **911 S5 botnet**, de
 
 | # | Source | Publisher | Date | URL |
 |---|---|---|---|---|
-| [1] | Justice Department Leads Effort to Dismantle 911 S5 Botnet | US DOJ | 2024-05-29 | https://www.justice.gov/opa/pr/justice-department-leads-effort-among-multinational-partners-dismantle-worlds-largest-botnet |
+| [1] | Justice Department Leads Effort to Dismantle 911 S5 Botnet | US DOJ | 2024-05-29 | https://www.justice.gov/archives/opa/pr/justice-department-leads-effort-among-multinational-partners-dismantle-worlds-largest-botnet |
 | [2] | Treasury Sanctions a Cybercrime Network Associated with the 911 S5 Botnet | US Treasury | 2024-05-28 | https://home.treasury.gov/news/press-releases/jy2375 |

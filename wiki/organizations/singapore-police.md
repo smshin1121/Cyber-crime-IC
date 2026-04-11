@@ -127,6 +127,6 @@ Singapore's Cybercrime Command is *highly likely* one of the most capable nation
 | [2] | Cybercrime | Singapore Police Force | n.d. | https://www.police.gov.sg/Advisories/Cybercrime/Cybercrime |
 | [3] | Written Reply on Digital Investigation Capabilities (K Shanmugam) | Singapore Ministry of Home Affairs | n.d. | https://www.mha.gov.sg/mediaroom/parliamentary/written-reply-to-pq-on-digital-investigation-capabilities-for-investigating-online-scams-and-digital-fraud-by-mr-k-shanmugam-minister-for-home-affairs-and-minister-for-law/ |
 | [4] | Defenders in the Digital Age: Police NS Cybercrime Operators | Singapore Police Force | 2025-03 | https://www.police.gov.sg/Media-Hub/Police-Life/2025/03/Defenders-in-the-Digital-Age-The-Police-National-Service-Cybercrime-Operators |
-| [5] | National Cybercrime Action Plan (NCAP) | Singapore MHA | n.d. | https://www.mha.gov.sg/docs/default-source/media-room-doc/ncap-document.pdf |
+| [5] | National Cybercrime Action Plan (NCAP) | Singapore MHA | n.d. | http://web.archive.org/web/20240303131043/https://www.mha.gov.sg/docs/default-source/media-room-doc/ncap-document.pdf |
 | [6] | Singapore Police Force (Cybercrime Command overview) | Wikipedia | n.d. | https://en.wikipedia.org/wiki/Singapore_Police_Force |
 | [7] | A Successful ASEAN Cybercrime Conference 2025 | Singapore Police Force | 2025-11 | https://www.police.gov.sg/media-hub/police-life/2025/11/a-successful-cybercrime-conference-2025 |

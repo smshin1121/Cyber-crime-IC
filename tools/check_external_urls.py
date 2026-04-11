@@ -126,6 +126,25 @@ BOT_PROTECTED_DOMAINS = {
     "artci.ci",
     "www.mofa.go.kr",
     "mofa.go.kr",
+    # Added 2026-04-11: stealth-verified accessible in browser
+    "www.politie.nl",
+    "politie.nl",
+    "www.moneylaunderingnews.com",
+    "moneylaunderingnews.com",
+    "blogs.microsoft.com",
+    "krebsonsecurity.com",
+    "www.polskieradio.pl",
+    "polskieradio.pl",
+    "www.parliament.gov.zm",
+    "parliament.gov.zm",
+    "cbi.gov.in",
+    "www.bleepingcomputer.com",
+    "bleepingcomputer.com",
+    "cyberscoop.com",
+    "www.cyberscoop.com",
+    "symantec-enterprise-blogs.security.com",
+    "www.nationalcrimeagency.gov.uk",
+    "nationalcrimeagency.gov.uk",
 }
 
 

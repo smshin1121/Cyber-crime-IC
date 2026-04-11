@@ -120,4 +120,4 @@ No Korean involvement identified. However, BEC schemes increasingly targeted com
 
 | # | Title | Publisher | Date | URL |
 |---|-------|----------|------|-----|
-| [1] | Nigerian scammer arrested for $60 million email fraud | Sophos | 2016-08-02 | [link](https://news.sophos.com/en-us/2016/08/02/nigerian-scammer-arrested-for-60-million-email-fraud/) |
+| [1] | Nigerian scammer arrested for $60 million email fraud | Sophos | 2016-08-02 | [link](http://web.archive.org/web/20251107193750/https://news.sophos.com/en-us/2016/08/02/nigerian-scammer-arrested-for-60-million-email-fraud/) |
