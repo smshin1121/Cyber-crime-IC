@@ -1,0 +1,1024 @@
+<!DOCTYPE html>
+<html lang="ko" class="lang-ko">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Operation Kraken — Ghost Platform Takedown — 사이버범죄 국제공조 위키</title>
+  <link rel="stylesheet" href="../../static/style.css">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link href="https://fonts.googleapis.com/css2?family=Noto+Sans+KR:wght@400;600;700&family=Noto+Serif+KR:wght@400;700&display=swap" rel="stylesheet">
+</head>
+<body>
+  <nav class="top-nav">
+    <div class="top-nav-inner">
+      <a href="../../" class="nav-logo">
+        <span class="i18n" data-ko="🌐 사이버범죄 국제공조 위키" data-en="🌐 Cybercrime IC Wiki"></span>
+      </a>
+      <div class="nav-links">
+        <a href="../../category/operations.html"><span class="i18n" data-ko="작전" data-en="Operations"></span></a>
+        <a href="../../category/organizations.html"><span class="i18n" data-ko="기관" data-en="Organizations"></span></a>
+        <a href="../../category/countries.html"><span class="i18n" data-ko="국가" data-en="Countries"></span></a>
+        <a href="../../category/legal-frameworks.html"><span class="i18n" data-ko="법적 프레임워크" data-en="Legal Frameworks"></span></a>
+        <a href="../../category/mechanisms.html"><span class="i18n" data-ko="메커니즘" data-en="Mechanisms"></span></a>
+        <a href="../../category/crime-types.html"><span class="i18n" data-ko="범죄유형" data-en="Crime Types"></span></a>
+        <a href="../../category/concepts.html"><span class="i18n" data-ko="개념" data-en="Concepts"></span></a>
+        <a href="../../category/sources.html"><span class="i18n" data-ko="출처" data-en="Sources"></span></a>
+        <a href="../../stats.html"><span class="i18n" data-ko="통계" data-en="Statistics"></span></a>
+      </div>
+      <form class="nav-search" action="../../search" method="get">
+        <input type="text" name="q" class="i18n-placeholder" data-ko="위키 검색..." data-en="Search wiki..." value="">
+        <button type="submit"><span class="i18n" data-ko="검색" data-en="Search"></span></button>
+      </form>
+      <button class="lang-toggle" id="langToggle" title="한국어/English">
+        <span class="lang-flag lang-flag-ko">🇰🇷 한</span>
+        <span class="lang-flag lang-flag-en">🇺🇸 EN</span>
+      </button>
+    </div>
+  </nav>
+
+  
+<div class="page-wrapper">
+  <main class="article">
+    <div class="article-header">
+      <h1>
+        
+          <span class="heading-ko">크라켄 작전 (고스트 플랫폼 해체)</span>
+          <span class="heading-en">Operation Kraken — Ghost Platform Takedown</span>
+        
+      </h1>
+      <div class="article-meta">
+        
+          <span class="badge">
+            <span class="i18n" data-ko="operation" data-en="operation"></span>
+          </span>
+        
+        
+          <span><a href="../../category/operations.html">
+            <span class="i18n"
+              data-ko="작전"
+              data-en="Operations"></span>
+          </a></span>
+        
+        
+          <span>
+            <span class="i18n" data-ko="최종 수정" data-en="Updated"></span>: 2026-04-10
+          </span>
+        
+        
+          <span>
+            <span class="i18n" data-ko="출처" data-en="Sources"></span>: 6<span class="i18n" data-ko="건" data-en=""></span>
+          </span>
+        
+      </div>
+    </div>
+    <div class="article-body">
+      
+        <div class="ko-block"><h2 id="_1">요약</h2>
+<p>크라켄 작전은 <a href="../../wiki/organizations/australia-afp.html" class="wikilink">Australian Federal Police (AFP)</a>가 주도하고 <a href="../../wiki/organizations/europol-ec3.html" class="wikilink">Europol</a>가 조정한 다국적 법 집행 작전으로 전 세계 조직 범죄 네트워크가 독점적으로 구축하고 사용하는 전용 암호화 통신 플랫폼인 <strong>Ghost</strong>를 해체했습니다. 이 작전은 2024년 9월 17~18일에 호주, 아일랜드, 이탈리아, 캐나다, 스웨덴 전역에 걸쳐 거의 동시에 공습을 가하면서 정점에 이르렀습니다. 해당 플랫폼의 창시자이자 관리자로 주장되는 <strong>제윤정</strong>(32, 호주 뉴사우스웨일즈)은 시드니 나위(Narwee)에 있는 자택에서 체포됐다.</p>
+<p>Europol의 <strong>Operational Taskforce(OTF) NEXT</strong> 하에서 진행되는 조사는 2022년 3월에 시작되었으며 9개국이 참여했습니다. AFP는 장치에 푸시된 <strong>소프트웨어 업데이트를 수정</strong>하여 암호화된 통신에 실시간으로 액세스할 수 있도록 하여 Ghost에 침투하는 새로운 기술 기능을 개발했습니다. 이 작업은 EncroChat(2020), Sky ECC(2021) 및 <a href="../../wiki/operations/operation-trojan-shield.html" class="wikilink">AN0M/Operation Trojan Shield (2021)</a>를 포함한 범죄 암호화 플랫폼에 대한 성공적인 법 집행 침투 패턴을 따릅니다.</p>
+<p>전 세계적으로 총 51명의 용의자가 체포되었으며, 관리자로부터 930만 AUD 상당의 암호화폐가 압수되었습니다.</p>
+<h2 id="_2">배경</h2>
+<h3 id="_3">고스트 플랫폼</h3>
+<p>고스트는 제이윤정이 23세였을 때인 2015년경 만들어진 암호화된 통신 플랫폼이다. 합법적인 암호화 메시징 앱과 달리 Ghost는 <strong>범죄용으로만</strong> 설계 및 판매되었습니다. 주요 기능은 다음과 같습니다.</p>
+<ul>
+<li><strong>수정된 스마트폰</strong>: 리셀러 네트워크를 통해 기기당 약 AU$2,350(~US$1,600)에 판매되며 여기에는 6개월 구독 및 기술 지원이 포함됩니다.</li>
+<li><strong>3중 암호화</strong>: 통신을 보호하는 세 가지 별도의 암호화 표준</li>
+<li><strong>자체 파괴 메시지</strong>: 구성 가능한 기간이 지나면 메시지 자동 삭제</li>
+<li><strong>원격 삭제</strong>: 증거를 제거하기 위해 장치에서 모든 데이터를 원격으로 삭제하는 기능</li>
+<li><strong>암호화폐 결제</strong>: 익명성을 위해 암호화폐로 구매 가능한 구독권</li>
+<li><strong>등록 데이터 없음</strong>: 플랫폼 사용에 개인 정보가 필요하지 않습니다.</li>
+</ul>
+<p>이 플랫폼에는 전 세계적으로 하루에 약 1,000개의 메시지를 보내는 "수천" 명의 사용자가 있었습니다. 서버는 <strong>프랑스와 아이슬란드</strong>에 있었고 관리자는 <strong>호주</strong>에 있었습니다.</p>
+<h3 id="_4">범죄적 이용</h3>
+<p>Ghost는 조직 범죄 집단에서 다음과 같은 목적으로 사용되었습니다.
+- 마약 밀매(헤로인, 메스암페타민, 코카인)
+- 자금세탁
+- 살해 명령 및 심각한 폭력 위협
+- 무기 밀매
+- 기타 심각한 조직범죄</p>
+<p>AFP는 호주의 Ghost 사용자가 인신매매, 돈세탁, 살인 명령 또는 심각한 폭력 위협에 연루되어 있다고 밝혔습니다.</p>
+<h3 id="_5">범죄 플랫폼 게시 중단의 계보</h3>
+<p>Ghost는 법 집행 기관이 침투하거나 해체한 일련의 암호화된 범죄 통신 플랫폼의 일부입니다.</p>
+<table>
+<thead>
+<tr>
+<th>Platform</th>
+<th>Year Disrupted</th>
+<th>Lead Agency</th>
+<th>Method</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>EncroChat</td>
+<td>2020</td>
+<td>French/Dutch</td>
+<td>Server infiltration</td>
+</tr>
+<tr>
+<td>Sky ECC</td>
+<td>2021</td>
+<td>Belgian/Dutch/French</td>
+<td>Decryption of messages</td>
+</tr>
+<tr>
+<td>AN0M</td>
+<td>2021</td>
+<td>FBI/AFP</td>
+<td>FBI-created platform</td>
+</tr>
+<tr>
+<td><strong>Ghost</strong></td>
+<td><strong>2024</strong></td>
+<td><strong>AFP/Europol</strong></td>
+<td><strong>Software update modification</strong></td>
+</tr>
+</tbody>
+</table>
+<h2 id="_6">참가 당사자</h2>
+<p><strong>주요 대행사:</strong>
+- <a href="../../wiki/organizations/australia-afp.html" class="wikilink">Australian Federal Police (AFP)</a> — 크라켄 작전(국내 작전 이름)</p>
+<p><strong>조정 기관:</strong>
+- <a href="../../wiki/organizations/europol-ec3.html" class="wikilink">Europol</a> — 운영 태스크포스(OTF) NEXT</p>
+<p><strong>OTF NEXT 회원:</strong>
+- <a href="../../wiki/organizations/fbi-cyber-division.html" class="wikilink">FBI</a> (OTF NEXT 공동대표)
+- <a href="../../wiki/organizations/france-gendarmerie.html" class="wikilink">French Gendarmerie</a> (OTF NEXT 공동리더)
+-<a href="../../wiki/organizations/australia-afp.html" class="wikilink">Australian Federal Police</a>
+-<a href="../../wiki/organizations/canada-rcmp.html" class="wikilink">Royal Canadian Mounted Police (RCMP)</a>
+-<a href="../../wiki/organizations/sweden-police.html" class="wikilink">Swedish Police Authority</a>
+-<a href="../../wiki/organizations/netherlands-politie.html" class="wikilink">Dutch National Police</a>
+-<a href="../../wiki/organizations/ireland-garda.html" class="wikilink">Irish Garda Síochána</a>
+-<a href="../../wiki/organizations/italy-dcsa.html" class="wikilink">Italian Central Directorate for Anti-Drug Service</a></p>
+<p><strong>참가국(9개):</strong>
+호주, 미국, 프랑스, 아일랜드, 이탈리아, 스웨덴, 캐나다, 네덜란드, 아이슬란드</p>
+<p><strong>대략적인 인원:</strong>
+- 호주에만 AFP 회원 약 700명 파견</p>
+<h2 id="_7">법적 프레임워크</h2>
+<p>이 작업은 9개 관할권에 걸친 여러 법적 틀에 의존했습니다.</p>
+<ol>
+<li>
+<p><strong><a href="../../wiki/legal-frameworks/budapest-convention.html" class="wikilink">Budapest Convention on Cybercrime</a></strong> — 국제 협력에 관한 제29~35조는 국경 간 증거 공유 및 당사자 간 상호 지원을 위한 중요한 프레임워크를 제공한 것이 거의 확실합니다.</p>
+</li>
+<li>
+<p><strong>양자 MLAT</strong> — 참여 국가 간의 상호 법률 지원 조약을 통해 특히 프랑스와 아이슬란드의 서버 압수에 대한 공식적인 증거 요청이 가능해졌습니다.</p>
+</li>
+<li>
+<p><strong>Europol 규정</strong> — 국경 간 작전을 조정하고 작전 태스크포스를 설립하라는 Europol의 권한은 OTF NEXT를 위한 제도적 틀을 제공했습니다.</p>
+</li>
+<li>
+<p><strong>국내법:</strong></p>
+</li>
+<li>호주: 1995년 형법(통신 범죄)</li>
+<li>프랑스: 형사소송법(서버 압류)</li>
+<li>아일랜드: 형사사법법</li>
+<li>이탈리아: 마피아 방지 법안</li>
+</ol>
+<div class="callout callout-note"><div class="callout-title">📝 Legal Basis Note
+부다페스트 협약의 특정 조항과 원용된 양자 MLAT는 공개되지 않았습니다. 29~35조가 관련성이 있다는 평가는 해당 작업의 국경 간 증거 수집 및 서버 압수 특성을 기반으로 합니다.</div><div class="callout-body"></div></div>
+<h2 id="_8">운영 타임라인</h2>
+<table>
+<thead>
+<tr>
+<th>Date</th>
+<th>Event</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>~2015</td>
+<td>Jay Je Yoon Jung allegedly creates Ghost platform</td>
+</tr>
+<tr>
+<td>2022-03</td>
+<td>Investigation into Ghost begins under Europol OTF NEXT</td>
+</tr>
+<tr>
+<td>2022-2024</td>
+<td>AFP develops technical solution to infiltrate Ghost by modifying software updates</td>
+</tr>
+<tr>
+<td>2024-09-17</td>
+<td>Day 1 of operational action: search warrants and arrests begin in Australia</td>
+</tr>
+<tr>
+<td>2024-09-18</td>
+<td>Day 2: near-simultaneous raids in Ireland, Italy, Canada, and Sweden</td>
+</tr>
+<tr>
+<td>2024-09-18</td>
+<td>Jay Je Yoon Jung arrested at his home in Narwee, NSW</td>
+</tr>
+<tr>
+<td>2024-09-18</td>
+<td>AFP and Europol hold press conferences announcing Operation Kraken</td>
+</tr>
+<tr>
+<td>2024-09-18</td>
+<td>Servers in France and Iceland seized</td>
+</tr>
+<tr>
+<td>2024-09-18</td>
+<td>51 total arrests announced: 38 Australia, 11 Ireland, 1 Canada, 1 Italy</td>
+</tr>
+<tr>
+<td>2024-10-03</td>
+<td>AFP announces seizure of $9.3 million AUD in cryptocurrency from Jung</td>
+</tr>
+<tr>
+<td>2024-10</td>
+<td>Jung faces additional charges; faces up to 26 years imprisonment</td>
+</tr>
+<tr>
+<td>Post-2024-09</td>
+<td>12 additional members of Irish high-risk criminal network arrested in follow-up</td>
+</tr>
+</tbody>
+</table>
+<h2 id="_9">결과 및 영향</h2>
+<p><strong>체포자 수(총 51명):</strong>
+| Country | Arrests | Details |
+|---------|---------|---------|
+| Australia | 38 | Including platform administrator Jay Je Yoon Jung |
+| Ireland | 11 | High-risk criminal network members |
+| Canada | 1 | — |
+| Italy | 1 | Member of Sacra Corona Unita mafia group |
+| <strong>Total</strong> | <strong>51</strong> | |</p>
+<p><strong>인프라 중단:</strong>
+- 고스트 암호화 플랫폼 영구 해체
+- 프랑스와 아이슬란드 서버 압수
+- 개조된 스마트폰의 유통망이 중단됨
+- 리셀러 네트워크 중단</p>
+<p><strong>발작:</strong>
+- 플랫폼 관리자가 제공하는 암호화폐 $930만 AUD(~$640만 USD)
+- 불법 총기 및 무기 25종(호주)
+- 불법마약류(200kg 유통금지)</p>
+<p><strong>완화된 위협:</strong>
+- 가로채는 Ghost 통신을 기반으로 AFP가 개입한 50가지 이상의 생명 위협
+- 호주 시장에 유입되는 불법 약물 200kg 차단</p>
+<p><strong>후속 조치:</strong>
+- 아일랜드에서 고위험 범죄 네트워크와 연계된 12명 추가 체포(2024년 9월 이후)
+- 참여하는 모든 관할권에서 가로채는 Ghost 통신에 대한 지속적인 분석</p>
+<p><strong>제윤정에 대한 혐의:</strong>
+- 범죄조직 지원
+- 범죄수익의 처리
+- 사기를 목적으로 본인식별정보를 취급하는 행위
+- 2024년 10월 추가요금 추가
+- 최대 26년의 징역형에 처해질 수 있음</p>
+<h2 id="_10">사용된 협력 메커니즘</h2>
+<ol>
+<li>
+<p><strong><a href="../../wiki/mechanisms/europol-jit.html" class="wikilink">Europol Operational Taskforce (OTF NEXT)</a></strong> — Europol 호스팅을 통해 FBI와 프랑스 헌병대가 공동으로 주도하는 기본 조정 메커니즘입니다. OTF NEXT는 9개국에 걸쳐 정보 공유, 기술 침투 조정, 집행 조치 동기화를 위한 프레임워크를 제공했습니다.</p>
+</li>
+<li>
+<p><strong><a href="../../wiki/mechanisms/mlat-process.html" class="wikilink">Mutual Legal Assistance</a></strong> — 공식적인 MLA 요청은 프랑스와 아이슬란드의 서버 압수와 관할권 간 증거 공유에 거의 확실하게 사용되었습니다.</p>
+</li>
+<li>
+<p><strong><a href="../../wiki/mechanisms/joint-investigation-team.html" class="wikilink">Joint Investigation Teams</a></strong> — OTF NEXT의 구조는 공식 합의에 따라 참여 기관이 리소스를 제공하고 증거를 공유하는 JIT와 매우 유사합니다.</p>
+</li>
+<li>
+<p><strong><a href="../../wiki/mechanisms/informal-cooperation.html" class="wikilink">Informal Police-to-Police Cooperation</a></strong> — 2.5년의 조사 기간(2022년 3월부터 2024년 9월) 동안 광범위한 비공식 정보 공유 및 조정이 이루어졌습니다.</p>
+</li>
+<li>
+<p><strong>기술적 협력</strong> - AFP가 소프트웨어 업데이트를 수정하여 Ghost에 침투하는 기능을 개발하려면 차단을 구현하기 위해 서버 호스팅 국가(프랑스, 아이슬란드)와의 기술 협력이 필요했습니다.</p>
+</li>
+</ol>
+<h2 id="_11">과제 및 마찰 지점</h2>
+<ol>
+<li>
+<p><strong>기술적 복잡성</strong> — 삼중 암호화 플랫폼에 침투하려면 새로운 기술 개발(푸시 소프트웨어 업데이트 수정)이 필요했습니다. 이를 위해서는 약 2년에 걸쳐 상당한 R&amp;D 투자가 필요했습니다.</p>
+</li>
+<li>
+<p><strong>다중 관할권 조정</strong> — 9개 국가와 여러 시간대에 걸친 습격을 동기화하려면 용의자들이 서로 경고하거나 증거를 파괴하는 것을 방지하기 위한 광범위한 계획이 필요했습니다.</p>
+</li>
+<li>
+<p><strong>법적 허용성</strong> — 수정된 소프트웨어 업데이트 기술을 통해 얻은 증거는 다양한 법률 시스템, 특히 엄격한 차단 요구 사항이 있는 법률 시스템에서 허용성 문제에 직면할 수 있습니다.</p>
+</li>
+<li>
+<p><strong>암호화 논쟁</strong> — 이 작전은 암호화된 통신에 대한 법 집행 기관의 접근과 개인 정보 보호 권리에 대한 논쟁을 다시 불러일으킵니다. Ghost는 특히 범죄용이지만 기술적 방법은 이론적으로 합법적인 플랫폼에 적용될 수 있습니다.</p>
+</li>
+<li>
+<p><strong>범죄 마이그레이션</strong> — EncroChat, Sky ECC 및 AN0M이 중단된 후 범죄자들은 ​​Ghost로 마이그레이션했습니다. Ghost의 게시 중단 후 그들은 또 다른 플랫폼으로 마이그레이션하여 지속적인 고양이와 쥐 역학을 만들 것입니다.</p>
+</li>
+</ol>
+<h2 id="_12">배운 교훈</h2>
+<ol>
+<li>
+<p><strong>공급망 차단</strong>은 암호화된 플랫폼에 침투하기 위한 실행 가능한 방법입니다. 푸시된 소프트웨어 업데이트를 수정하면 법 집행 기관이 암호화를 해제할 필요 없이 실시간 액세스가 가능해졌습니다.</p>
+</li>
+<li>
+<p>복잡한 암호화 플랫폼 사례에는 <strong>장기적인 조사(2년 이상)</strong>가 필요합니다. 2022년 3월부터 2024년 9월까지의 일정은 시행 조치 이전에 철저한 정보 수집을 허용했습니다.</p>
+</li>
+<li>
+<p>**Europol OTF는 EncroChat 및 Sky ECC로 구축된 모델을 기반으로 하는 다국적 암호화 플랫폼 운영을 위한 효과적인 조정 메커니즘입니다.</p>
+</li>
+<li>
+<p><strong>범죄 암호화 플랫폼 생태계는 반복적입니다</strong>. 각 게시 중단은 일시적으로 범죄자를 방해하지만 새로운 플랫폼으로의 마이그레이션을 유도합니다. 지속적인 역량 투자가 필요합니다.</p>
+</li>
+<li>
+<p><strong>암호화폐 압수</strong>는 상당한 억제력이 될 수 있습니다. Jung에게서 압수한 930만 달러의 AUD는 범죄 플랫폼 구축 뒤에 숨은 재정적 동기와 수익금 회수 능력을 보여줍니다.</p>
+</li>
+<li>
+<p><strong>생명 위협 인텔리전스</strong>는 중요한 부산물입니다. 조사 중에 개입된 50개 이상의 생명 위협은 생명을 구하고 자원 투자를 정당화했습니다.</p>
+</li>
+</ol>
+<h2 id="_13">후속 조치</h2>
+<ul>
+<li>정재윤은 호주에서 재판을 기다리고 있다. 최대 26년의 징역형에 처해진다.</li>
+<li>Ghost Intelligence 이후 아일랜드의 고위험 범죄 네트워크 구성원 12명을 추가로 체포했습니다.</li>
+<li>9개 참여 관할권 전체에서 가로채는 Ghost 메시지에 대한 지속적인 분석이 진행 중입니다.</li>
+<li>AFP는 후속 플랫폼에 대한 범죄 암호화 통신 환경을 계속 모니터링합니다.</li>
+<li>Europol은 Ghost에서 추출한 정보를 다른 조직범죄 수사에 적용할 수 있는지 평가하고 있습니다.</li>
+</ul>
+<h2 id="_14">한국의 참여(한국의 참여)</h2>
+<p>크라켄 작전이나 고스트 플랫폼 조사에 한국인이 직접 관여한 것으로 알려진 바는 없습니다. 그러나:
+- <a href="../../wiki/organizations/australia-afp.html" class="wikilink">AFP</a>와 한국의 <a href="../../wiki/organizations/knpa.html" class="wikilink">KNPA</a>는 상호 협력 협정을 맺고 있으며, 이번 사건에서 개척된 조사 방식(소프트웨어 업데이트 침투)은 양도 가능한 능력을 나타내기 때문에 해당 작전은 한국의 법 집행 기관과 관련이 있다.
+- 한국의 범죄조직은 암호화된 통신 플랫폼을 사용하는 것으로 알려져 있으며, 고스트의 교훈이 적용 가능합니다.
+- 제이제윤정 사건은 한국계 호주인(한국계 호주인)이 관련된 사건이나, 수사의 국제공조 측면과는 관련이 없다.</p>
+<h2 id="_15">모순 및 공개 질문</h2>
+<p><strong>공개 질문:</strong>
+1. 전 세계적으로 Ghost 사용자의 정확한 수는 몇 명입니까? 출처는 구체적인 숫자 없이 "수천"과 "수천"을 다양하게 설명합니다.
+2. 수정된 소프트웨어 업데이트 기술을 통해 AFP가 가로채는 메시지 수와 기간은 얼마나 됩니까?
+3. 50개 이상의 "생명에 대한 위협" 개입 중 호주 외부의 관할권에 전달된 것이 있습니까?
+4. Ghost에서 파생된 정보로 인해 전 세계적으로 얼마나 많은 범죄 사건이 발생하게 될까요?
+5. Ghost가 중단된 후 범죄 네트워크가 어떤 후속 플랫폼으로 마이그레이션되었습니까?
+6. 프랑스와 아이슬란드에서 압수된 서버가 초기 51명 이상을 체포할 수 있는 증거를 제시했습니까?
+7. 유로폴 보도 자료에는 조사가 2022년 3월에 시작되었다고 언급되어 있지만, 이전 AFP 보도에 따르면 초기 탐지가 그 전에 발생했을 수 있다고 합니다. AFP가 고스트를 발견한 정확한 일정은 불분명합니다.</p>
+<h2 id="_16">참고자료</h2>
+<table>
+<thead>
+<tr>
+<th>#</th>
+<th>Title</th>
+<th>Publisher</th>
+<th>Date</th>
+<th>URL</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>[1]</td>
+<td>AFP Operation Kraken charges alleged head of global organised crime app</td>
+<td>Australian Federal Police</td>
+<td>2024-09-18</td>
+<td><a href="https://www.afp.gov.au/news-centre/media-release/afp-operation-kraken-charges-alleged-head-global-organised-crime-app" target="_blank" rel="noopener noreferrer">원본</a></td>
+</tr>
+<tr>
+<td>[2]</td>
+<td>12 members of an Irish high-risk criminal network arrested</td>
+<td>Europol</td>
+<td>2024-11</td>
+<td><a href="https://www.europol.europa.eu/media-press/newsroom/news/12-members-of-irish-high-risk-criminal-network-arrested" target="_blank" rel="noopener noreferrer">원본</a></td>
+</tr>
+<tr>
+<td>[3]</td>
+<td>Ghost cybercrime platform dismantled in global operation, 51 arrested</td>
+<td>Reuters</td>
+<td>2024-09-18</td>
+<td><a href="https://www.reuters.com/technology/cybersecurity/ghost-cybercrime-platform-dismantled-global-operation-51-arrested-2024-09-18/" target="_blank" rel="noopener noreferrer">원본</a></td>
+</tr>
+<tr>
+<td>[4]</td>
+<td>51 arrests made in global takedown of Ghost crime platform</td>
+<td>The Register</td>
+<td>2024-09-18</td>
+<td><a href="https://www.theregister.com/2024/09/18/51_arrests_ghost_platform/" target="_blank" rel="noopener noreferrer">원본</a></td>
+</tr>
+<tr>
+<td>[5]</td>
+<td>Police announce takedown and arrest mastermind behind criminal comms platform 'Ghost'</td>
+<td>The Record</td>
+<td>2024-09-18</td>
+<td><a href="https://therecord.media/ghost-encrypted-criminal-communications-takedown-arrests" target="_blank" rel="noopener noreferrer">원본</a></td>
+</tr>
+<tr>
+<td>[6]</td>
+<td>$9m in crypto seized from accused Ghost app creator</td>
+<td>Information Age / ACS</td>
+<td>2024-10-03</td>
+<td><a href="https://ia.acs.org.au/article/2024/9m-in-crypto-seized-from-accused-ghost-app-creator.html" target="_blank" rel="noopener noreferrer">원본</a></td>
+</tr>
+</tbody>
+</table></div>
+        <div class="en-block"><h2 id="summary"><span class="heading-ko">개요</span><span class="heading-en">Summary</span></h2>
+<p>Operation Kraken was a multinational law enforcement operation led by the <a href="../../wiki/organizations/australia-afp.html" class="wikilink">Australian Federal Police (AFP)</a> and coordinated by <a href="../../wiki/organizations/europol-ec3.html" class="wikilink">Europol</a> that dismantled <strong>Ghost</strong>, a dedicated encrypted communications platform built and used exclusively by organized crime networks worldwide. The operation culminated on September 17-18, 2024, with near-simultaneous raids across Australia, Ireland, Italy, Canada, and Sweden. The platform's alleged creator and administrator, <strong>Jay Je Yoon Jung</strong> (32, of New South Wales, Australia), was arrested at his home in Narwee, Sydney.</p>
+<p>The investigation — operating under Europol's <strong>Operational Taskforce (OTF) NEXT</strong> — began in March 2022 and involved nine countries. The AFP developed a novel technical capability to infiltrate Ghost by <strong>modifying software updates</strong> pushed to devices, enabling real-time access to encrypted communications. This operation follows a pattern of successful law enforcement infiltrations of criminal encrypted platforms, including EncroChat (2020), Sky ECC (2021), and <a href="../../wiki/operations/operation-trojan-shield.html" class="wikilink">AN0M/Operation Trojan Shield (2021)</a>.</p>
+<p>In total, 51 suspects were arrested globally, with $9.3 million AUD in cryptocurrency seized from the administrator.</p>
+<h2 id="background"><span class="heading-ko">배경</span><span class="heading-en">Background</span></h2>
+<h3 id="the-ghost-platform">The Ghost Platform</h3>
+<p>Ghost was an encrypted communications platform created around 2015, allegedly by Jay Je Yoon Jung when he was 23 years old. Unlike legitimate encrypted messaging apps, Ghost was designed and marketed <strong>exclusively for criminal use</strong>. Key features included:</p>
+<ul>
+<li><strong>Modified smartphones</strong>: Sold through a network of resellers for approximately AU$2,350 (~US$1,600) per device, which included a six-month subscription and tech support</li>
+<li><strong>Triple-layer encryption</strong>: Three separate encryption standards protecting communications</li>
+<li><strong>Self-destructing messages</strong>: Automatic deletion of messages after a configurable period</li>
+<li><strong>Remote wipe</strong>: Ability to remotely erase all data from a device to eliminate evidence</li>
+<li><strong>Cryptocurrency payments</strong>: Subscriptions purchasable with cryptocurrency for anonymity</li>
+<li><strong>No registration data</strong>: No personal information required to use the platform</li>
+</ul>
+<p>The platform had "several thousand" users worldwide who sent approximately 1,000 messages per day. Servers were located in <strong>France and Iceland</strong>, while the administrator was based in <strong>Australia</strong>.</p>
+<h3 id="criminal-usage">Criminal Usage</h3>
+<p>Ghost was used by organized crime groups for:
+- Drug trafficking (heroin, methamphetamine, cocaine)
+- Money laundering
+- Ordering killings and threats of serious violence
+- Weapons trafficking
+- Other serious organized crime</p>
+<p>The AFP stated that users of Ghost in Australia were involved in trafficking, money laundering, ordering killings, or threatening serious violence.</p>
+<h3 id="lineage-of-criminal-platform-takedowns">Lineage of Criminal Platform Takedowns</h3>
+<p>Ghost is part of a series of encrypted criminal communications platforms that law enforcement has infiltrated or dismantled:</p>
+<table>
+<thead>
+<tr>
+<th>Platform</th>
+<th>Year Disrupted</th>
+<th>Lead Agency</th>
+<th>Method</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>EncroChat</td>
+<td>2020</td>
+<td>French/Dutch</td>
+<td>Server infiltration</td>
+</tr>
+<tr>
+<td>Sky ECC</td>
+<td>2021</td>
+<td>Belgian/Dutch/French</td>
+<td>Decryption of messages</td>
+</tr>
+<tr>
+<td>AN0M</td>
+<td>2021</td>
+<td>FBI/AFP</td>
+<td>FBI-created platform</td>
+</tr>
+<tr>
+<td><strong>Ghost</strong></td>
+<td><strong>2024</strong></td>
+<td><strong>AFP/Europol</strong></td>
+<td><strong>Software update modification</strong></td>
+</tr>
+</tbody>
+</table>
+<h2 id="participating-parties"><span class="heading-ko">참여 기관</span><span class="heading-en">Participating Parties</span></h2>
+<p><strong>Lead Agency:</strong>
+- <a href="../../wiki/organizations/australia-afp.html" class="wikilink">Australian Federal Police (AFP)</a> — Operation Kraken (domestic operation name)</p>
+<p><strong>Coordinating Body:</strong>
+- <a href="../../wiki/organizations/europol-ec3.html" class="wikilink">Europol</a> — Operational Taskforce (OTF) NEXT</p>
+<p><strong>OTF NEXT Members:</strong>
+- <a href="../../wiki/organizations/fbi-cyber-division.html" class="wikilink">FBI</a> (co-lead of OTF NEXT)
+- <a href="../../wiki/organizations/france-gendarmerie.html" class="wikilink">French Gendarmerie</a> (co-lead of OTF NEXT)
+- <a href="../../wiki/organizations/australia-afp.html" class="wikilink">Australian Federal Police</a>
+- <a href="../../wiki/organizations/canada-rcmp.html" class="wikilink">Royal Canadian Mounted Police (RCMP)</a>
+- <a href="../../wiki/organizations/sweden-police.html" class="wikilink">Swedish Police Authority</a>
+- <a href="../../wiki/organizations/netherlands-politie.html" class="wikilink">Dutch National Police</a>
+- <a href="../../wiki/organizations/ireland-garda.html" class="wikilink">Irish Garda Síochána</a>
+- <a href="../../wiki/organizations/italy-dcsa.html" class="wikilink">Italian Central Directorate for Anti-Drug Service</a></p>
+<p><strong>Participating Countries (9):</strong>
+Australia, United States, France, Ireland, Italy, Sweden, Canada, Netherlands, Iceland</p>
+<p><strong>Approximate Personnel:</strong>
+- About 700 AFP members deployed in Australia alone</p>
+<h2 id="legal-framework"><span class="heading-ko">법적 근거</span><span class="heading-en">Legal Framework</span></h2>
+<p>The operation relied on multiple legal frameworks spanning nine jurisdictions:</p>
+<ol>
+<li>
+<p><strong><a href="../../wiki/legal-frameworks/budapest-convention.html" class="wikilink">Budapest Convention on Cybercrime</a></strong> — Articles 29-35 on international cooperation almost certainly provided the overarching framework for cross-border evidence sharing and mutual assistance between parties.</p>
+</li>
+<li>
+<p><strong>Bilateral MLATs</strong> — Mutual legal assistance treaties between participating countries enabled formal evidence requests, particularly for seizing servers in France and Iceland.</p>
+</li>
+<li>
+<p><strong>Europol Regulation</strong> — Europol's mandate to coordinate cross-border operations and establish Operational Taskforces provided the institutional framework for OTF NEXT.</p>
+</li>
+<li>
+<p><strong>National Laws:</strong></p>
+</li>
+<li>Australia: Criminal Code Act 1995 (telecommunications offences)</li>
+<li>France: Code of Criminal Procedure (server seizure)</li>
+<li>Ireland: Criminal Justice Act</li>
+<li>Italy: Anti-Mafia legislation</li>
+</ol>
+<div class="callout callout-note"><div class="callout-title">📝 Legal Basis Note
+The specific articles of the Budapest Convention and bilateral MLATs invoked have not been publicly disclosed. The assessment that Articles 29-35 were relevant is based on the operation's cross-border evidence gathering and server seizure characteristics.</div><div class="callout-body"></div></div>
+<h2 id="operational-timeline"><span class="heading-ko">작전 타임라인</span><span class="heading-en">Operational Timeline</span></h2>
+<table>
+<thead>
+<tr>
+<th>Date</th>
+<th>Event</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>~2015</td>
+<td>Jay Je Yoon Jung allegedly creates Ghost platform</td>
+</tr>
+<tr>
+<td>2022-03</td>
+<td>Investigation into Ghost begins under Europol OTF NEXT</td>
+</tr>
+<tr>
+<td>2022-2024</td>
+<td>AFP develops technical solution to infiltrate Ghost by modifying software updates</td>
+</tr>
+<tr>
+<td>2024-09-17</td>
+<td>Day 1 of operational action: search warrants and arrests begin in Australia</td>
+</tr>
+<tr>
+<td>2024-09-18</td>
+<td>Day 2: near-simultaneous raids in Ireland, Italy, Canada, and Sweden</td>
+</tr>
+<tr>
+<td>2024-09-18</td>
+<td>Jay Je Yoon Jung arrested at his home in Narwee, NSW</td>
+</tr>
+<tr>
+<td>2024-09-18</td>
+<td>AFP and Europol hold press conferences announcing Operation Kraken</td>
+</tr>
+<tr>
+<td>2024-09-18</td>
+<td>Servers in France and Iceland seized</td>
+</tr>
+<tr>
+<td>2024-09-18</td>
+<td>51 total arrests announced: 38 Australia, 11 Ireland, 1 Canada, 1 Italy</td>
+</tr>
+<tr>
+<td>2024-10-03</td>
+<td>AFP announces seizure of $9.3 million AUD in cryptocurrency from Jung</td>
+</tr>
+<tr>
+<td>2024-10</td>
+<td>Jung faces additional charges; faces up to 26 years imprisonment</td>
+</tr>
+<tr>
+<td>Post-2024-09</td>
+<td>12 additional members of Irish high-risk criminal network arrested in follow-up</td>
+</tr>
+</tbody>
+</table>
+<h2 id="results-and-impact"><span class="heading-ko">결과 및 영향</span><span class="heading-en">Results and Impact</span></h2>
+<p><strong>Arrests (51 total):</strong>
+| Country | Arrests | Details |
+|---------|---------|---------|
+| Australia | 38 | Including platform administrator Jay Je Yoon Jung |
+| Ireland | 11 | High-risk criminal network members |
+| Canada | 1 | — |
+| Italy | 1 | Member of Sacra Corona Unita mafia group |
+| <strong>Total</strong> | <strong>51</strong> | |</p>
+<p><strong>Infrastructure Disrupted:</strong>
+- Ghost encrypted platform permanently dismantled
+- Servers in France and Iceland seized
+- Distribution network of modified smartphones disrupted
+- Reseller network disrupted</p>
+<p><strong>Seizures:</strong>
+- $9.3 million AUD (~$6.4 million USD) in cryptocurrency from platform administrator
+- 25 illegal firearms and weapons (Australia)
+- Illicit drugs (200 kg prevented from distribution)</p>
+<p><strong>Threats Mitigated:</strong>
+- 50+ threats to life intervened by AFP based on intercepted Ghost communications
+- 200 kg of illicit drugs prevented from reaching the Australian market</p>
+<p><strong>Follow-Up Actions:</strong>
+- 12 additional arrests in Ireland linked to a high-risk criminal network (post-September 2024)
+- Ongoing analysis of intercepted Ghost communications across all participating jurisdictions</p>
+<p><strong>Charges Against Jay Je Yoon Jung:</strong>
+- Supporting a criminal organisation
+- Dealing with proceeds of crime
+- Dealing in identification information to commit fraud
+- Additional charges added in October 2024
+- Faces up to 26 years imprisonment</p>
+<h2 id="cooperation-mechanisms-used"><span class="heading-ko">활용된 공조 메커니즘</span><span class="heading-en">Cooperation Mechanisms Used</span></h2>
+<ol>
+<li>
+<p><strong><a href="../../wiki/mechanisms/europol-jit.html" class="wikilink">Europol Operational Taskforce (OTF NEXT)</a></strong> — The primary coordination mechanism, led jointly by the FBI and French Gendarmerie with Europol hosting. OTF NEXT provided the framework for intelligence sharing, coordinating technical infiltration, and synchronizing enforcement actions across nine countries.</p>
+</li>
+<li>
+<p><strong><a href="../../wiki/mechanisms/mlat-process.html" class="wikilink">Mutual Legal Assistance</a></strong> — Formal MLA requests were almost certainly used for server seizures in France and Iceland, and for evidence sharing between jurisdictions.</p>
+</li>
+<li>
+<p><strong><a href="../../wiki/mechanisms/joint-investigation-team.html" class="wikilink">Joint Investigation Teams</a></strong> — The structure of OTF NEXT closely resembles a JIT, with participating agencies contributing resources and sharing evidence under a formal agreement.</p>
+</li>
+<li>
+<p><strong><a href="../../wiki/mechanisms/informal-cooperation.html" class="wikilink">Informal Police-to-Police Cooperation</a></strong> — The 2.5-year investigation period (March 2022 to September 2024) involved extensive informal intelligence sharing and coordination.</p>
+</li>
+<li>
+<p><strong>Technical cooperation</strong> — The AFP's development of a capability to infiltrate Ghost by modifying software updates required technical cooperation with server-hosting countries (France, Iceland) to implement the interception.</p>
+</li>
+</ol>
+<h2 id="challenges-and-friction-points"><span class="heading-ko">과제 및 마찰 요인</span><span class="heading-en">Challenges and Friction Points</span></h2>
+<ol>
+<li>
+<p><strong>Technical complexity</strong> — Infiltrating a triple-encrypted platform required developing a novel technique (modifying pushed software updates). This took significant R&amp;D investment over approximately two years.</p>
+</li>
+<li>
+<p><strong>Multi-jurisdictional coordination</strong> — Synchronizing raids across nine countries and multiple time zones required extensive planning to prevent suspects from warning each other or destroying evidence.</p>
+</li>
+<li>
+<p><strong>Legal admissibility</strong> — Evidence obtained through the modified software update technique may face admissibility challenges in different legal systems, particularly those with strict interception requirements.</p>
+</li>
+<li>
+<p><strong>Encryption debates</strong> — The operation reignites debates about law enforcement access to encrypted communications vs. privacy rights. Ghost was specifically criminal-use, but the technical methods could theoretically be applied to legitimate platforms.</p>
+</li>
+<li>
+<p><strong>Criminal migration</strong> — Following the takedowns of EncroChat, Sky ECC, and AN0M, criminals migrated to Ghost. After Ghost's takedown, they will likely migrate to yet another platform, creating an ongoing cat-and-mouse dynamic.</p>
+</li>
+</ol>
+<h2 id="lessons-learned"><span class="heading-ko">교훈</span><span class="heading-en">Lessons Learned</span></h2>
+<ol>
+<li>
+<p><strong>Supply-chain interception</strong> is a viable method for infiltrating encrypted platforms — modifying pushed software updates gave law enforcement real-time access without needing to break encryption.</p>
+</li>
+<li>
+<p><strong>Long-term investigations (2+ years)</strong> are necessary for complex encrypted platform cases. The March 2022 to September 2024 timeline allowed thorough intelligence collection before enforcement action.</p>
+</li>
+<li>
+<p><strong>Europol OTFs are effective</strong> coordination mechanisms for multinational encrypted platform operations, building on the model established with EncroChat and Sky ECC.</p>
+</li>
+<li>
+<p><strong>The criminal encrypted platform ecosystem is iterative</strong> — each takedown disrupts criminals temporarily but drives migration to new platforms. Sustained capability investment is required.</p>
+</li>
+<li>
+<p><strong>Cryptocurrency seizure</strong> can be a significant deterrent — the $9.3M AUD seized from Jung demonstrates the financial motivation behind building criminal platforms and the ability to recover proceeds.</p>
+</li>
+<li>
+<p><strong>Threat-to-life intelligence</strong> is a critical byproduct — the 50+ threats to life intervened during the investigation saved lives and justified the resource investment.</p>
+</li>
+</ol>
+<h2 id="follow-up-actions"><span class="heading-ko">후속 조치</span><span class="heading-en">Follow-Up Actions</span></h2>
+<ul>
+<li>Jay Je Yoon Jung awaits trial in Australia; faces up to 26 years imprisonment.</li>
+<li>12 additional members of an Irish high-risk criminal network arrested following Ghost intelligence.</li>
+<li>Ongoing analysis of intercepted Ghost messages across all nine participating jurisdictions.</li>
+<li>AFP continues to monitor the criminal encrypted communications landscape for successor platforms.</li>
+<li>Europol assessing applicability of Ghost-derived intelligence to other organized crime investigations.</li>
+</ul>
+<h2 id="korean-involvement">Korean Involvement (한국의 참여)</h2>
+<p>No known direct Korean involvement in Operation Kraken or the Ghost platform investigation. However:
+- The operation is relevant to Korean law enforcement because the <a href="../../wiki/organizations/australia-afp.html" class="wikilink">AFP</a> and Korea's <a href="../../wiki/organizations/knpa.html" class="wikilink">KNPA</a> have bilateral cooperation agreements, and the investigation methods pioneered in this case (software update infiltration) represent transferable capabilities.
+- Korean organized crime groups are known to use encrypted communications platforms, and lessons from Ghost are applicable.
+- The Jay Je Yoon Jung case involves an Australian national of Korean heritage (Korean-Australian), though this is not relevant to the investigation's international cooperation aspects.</p>
+<h2 id="contradictions-open-questions"><span class="heading-ko">모순점 및 미해결 문제</span><span class="heading-en">Contradictions &amp; Open Questions</span></h2>
+<p><strong>Open Questions:</strong>
+1. What is the exact number of Ghost users worldwide? Sources variously describe "several thousand" and "thousands" without a specific count.
+2. How many messages were intercepted by the AFP through the modified software update technique, and over what period?
+3. Were any of the 50+ "threats to life" interventions communicated to jurisdictions outside Australia?
+4. How many criminal cases globally will result from Ghost-derived intelligence?
+5. What successor platform(s) have criminal networks migrated to after Ghost's takedown?
+6. Have servers seized in France and Iceland yielded evidence leading to arrests beyond the initial 51?
+7. The Europol press release mentions the investigation began in March 2022, but earlier AFP reporting suggested initial detection may have occurred before that. The exact timeline of the AFP's discovery of Ghost is unclear.</p>
+<h2 id="references"><span class="heading-ko">참고문헌</span><span class="heading-en">References</span></h2>
+<table>
+<thead>
+<tr>
+<th>#</th>
+<th>Title</th>
+<th>Publisher</th>
+<th>Date</th>
+<th>URL</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>[1]</td>
+<td>AFP Operation Kraken charges alleged head of global organised crime app</td>
+<td>Australian Federal Police</td>
+<td>2024-09-18</td>
+<td><a href="https://www.afp.gov.au/news-centre/media-release/afp-operation-kraken-charges-alleged-head-global-organised-crime-app" target="_blank" rel="noopener noreferrer">원본</a></td>
+</tr>
+<tr>
+<td>[2]</td>
+<td>12 members of an Irish high-risk criminal network arrested</td>
+<td>Europol</td>
+<td>2024-11</td>
+<td><a href="https://www.europol.europa.eu/media-press/newsroom/news/12-members-of-irish-high-risk-criminal-network-arrested" target="_blank" rel="noopener noreferrer">원본</a></td>
+</tr>
+<tr>
+<td>[3]</td>
+<td>Ghost cybercrime platform dismantled in global operation, 51 arrested</td>
+<td>Reuters</td>
+<td>2024-09-18</td>
+<td><a href="https://www.reuters.com/technology/cybersecurity/ghost-cybercrime-platform-dismantled-global-operation-51-arrested-2024-09-18/" target="_blank" rel="noopener noreferrer">원본</a></td>
+</tr>
+<tr>
+<td>[4]</td>
+<td>51 arrests made in global takedown of Ghost crime platform</td>
+<td>The Register</td>
+<td>2024-09-18</td>
+<td><a href="https://www.theregister.com/2024/09/18/51_arrests_ghost_platform/" target="_blank" rel="noopener noreferrer">원본</a></td>
+</tr>
+<tr>
+<td>[5]</td>
+<td>Police announce takedown and arrest mastermind behind criminal comms platform 'Ghost'</td>
+<td>The Record</td>
+<td>2024-09-18</td>
+<td><a href="https://therecord.media/ghost-encrypted-criminal-communications-takedown-arrests" target="_blank" rel="noopener noreferrer">원본</a></td>
+</tr>
+<tr>
+<td>[6]</td>
+<td>$9m in crypto seized from accused Ghost app creator</td>
+<td>Information Age / ACS</td>
+<td>2024-10-03</td>
+<td><a href="https://ia.acs.org.au/article/2024/9m-in-crypto-seized-from-accused-ghost-app-creator.html" target="_blank" rel="noopener noreferrer">원본</a></td>
+</tr>
+</tbody>
+</table></div>
+      
+    </div>
+  </main>
+
+  <aside class="sidebar">
+    
+    <div class="infobox">
+      <div class="infobox-header">
+        
+          <span class="heading-ko">크라켄 작전 (고스트 플랫폼 해체)</span>
+          <span class="heading-en">Operation Kraken — Ghost Platform Takedown</span>
+        
+      </div>
+      <table>
+        
+        <tr>
+          <th>
+            <span class="heading-ko">유형</span>
+            <span class="heading-en">Type</span>
+          </th>
+          <td>
+            
+              <span class="heading-ko">작전</span>
+              <span class="heading-en">Operation</span>
+            
+          </td>
+        </tr>
+        
+        <tr>
+          <th>
+            <span class="heading-ko">상태</span>
+            <span class="heading-en">Status</span>
+          </th>
+          <td>
+            
+              completed
+            
+          </td>
+        </tr>
+        
+        <tr>
+          <th>
+            <span class="heading-ko">작전유형</span>
+            <span class="heading-en">Op Type</span>
+          </th>
+          <td>
+            
+              infrastructure-seizure
+            
+          </td>
+        </tr>
+        
+        <tr>
+          <th>
+            <span class="heading-ko">기간</span>
+            <span class="heading-en">Period</span>
+          </th>
+          <td>
+            
+              announced: 2024-09-18, start: 2022-03, end: 2024-09-18
+            
+          </td>
+        </tr>
+        
+        <tr>
+          <th>
+            <span class="heading-ko">주도기관</span>
+            <span class="heading-en">Lead Agency</span>
+          </th>
+          <td>
+            
+              [[australia-afp|Australian Federal Police (AFP)]]
+            
+          </td>
+        </tr>
+        
+        <tr>
+          <th>
+            <span class="heading-ko">범죄유형</span>
+            <span class="heading-en">Crime Type</span>
+          </th>
+          <td>
+            
+              [[online-fraud-ic|Online Fraud]]
+            
+          </td>
+        </tr>
+        
+        <tr>
+          <th>
+            <span class="heading-ko">체포</span>
+            <span class="heading-en">Arrests</span>
+          </th>
+          <td>
+            
+              51
+            
+          </td>
+        </tr>
+        
+        <tr>
+          <th>
+            <span class="heading-ko">암호화폐 압수</span>
+            <span class="heading-en">Crypto Seized</span>
+          </th>
+          <td>
+            
+              $9.3 million AUD (from platform administrator)
+            
+          </td>
+        </tr>
+        
+        <tr>
+          <th>
+            <span class="heading-ko">출처 수</span>
+            <span class="heading-en">Sources</span>
+          </th>
+          <td>
+            
+              6
+            
+          </td>
+        </tr>
+        
+      </table>
+    </div>
+    
+
+    <div class="cat-nav">
+      <h3><span class="i18n" data-ko="카테고리" data-en="Categories"></span></h3>
+      <ul>
+        
+        <li>
+          📜
+          <a href="../../category/legal-frameworks.html"
+             >
+            <span class="i18n" data-ko="법적 프레임워크" data-en="Legal Frameworks"></span>
+          </a>
+        </li>
+        
+        <li>
+          🏛️
+          <a href="../../category/organizations.html"
+             >
+            <span class="i18n" data-ko="기관" data-en="Organizations"></span>
+          </a>
+        </li>
+        
+        <li>
+          🌍
+          <a href="../../category/countries.html"
+             >
+            <span class="i18n" data-ko="국가" data-en="Countries"></span>
+          </a>
+        </li>
+        
+        <li>
+          🎯
+          <a href="../../category/operations.html"
+             style="font-weight:700">
+            <span class="i18n" data-ko="작전" data-en="Operations"></span>
+          </a>
+        </li>
+        
+        <li>
+          ⚖️
+          <a href="../../category/cases.html"
+             >
+            <span class="i18n" data-ko="사건" data-en="Cases"></span>
+          </a>
+        </li>
+        
+        <li>
+          🔗
+          <a href="../../category/mechanisms.html"
+             >
+            <span class="i18n" data-ko="공조 메커니즘" data-en="Mechanisms"></span>
+          </a>
+        </li>
+        
+        <li>
+          📋
+          <a href="../../category/procedures.html"
+             >
+            <span class="i18n" data-ko="절차" data-en="Procedures"></span>
+          </a>
+        </li>
+        
+        <li>
+          🔒
+          <a href="../../category/crime-types.html"
+             >
+            <span class="i18n" data-ko="범죄유형" data-en="Crime Types"></span>
+          </a>
+        </li>
+        
+        <li>
+          ⚠️
+          <a href="../../category/challenges.html"
+             >
+            <span class="i18n" data-ko="과제" data-en="Challenges"></span>
+          </a>
+        </li>
+        
+        <li>
+          📖
+          <a href="../../category/concepts.html"
+             >
+            <span class="i18n" data-ko="법적 개념" data-en="Concepts"></span>
+          </a>
+        </li>
+        
+        <li>
+          📰
+          <a href="../../category/sources.html"
+             >
+            <span class="i18n" data-ko="출처" data-en="Sources"></span>
+          </a>
+        </li>
+        
+        <li>
+          📊
+          <a href="../../category/analysis.html"
+             >
+            <span class="i18n" data-ko="분석" data-en="Analysis"></span>
+          </a>
+        </li>
+        
+        <li>
+          📅
+          <a href="../../category/timelines.html"
+             >
+            <span class="i18n" data-ko="타임라인" data-en="Timelines"></span>
+          </a>
+        </li>
+        
+      </ul>
+    </div>
+  </aside>
+</div>
+
+
+  <div class="footer">
+    <span class="i18n"
+      data-ko="사이버범죄 국제공조 위키 &mdash; LLM Wiki Pattern &mdash; 2026-04-12 기준 데이터"
+      data-en="Cybercrime International Cooperation Wiki &mdash; LLM Wiki Pattern &mdash; Data as of 2026-04-12">
+    </span>
+  </div>
+
+  <script>
+  (function() {
+    // Language toggle system — Korean default
+    var STORAGE_KEY = 'wiki-lang';
+
+    function getLang() {
+      return localStorage.getItem(STORAGE_KEY) || 'ko';
+    }
+
+    function setLang(lang) {
+      localStorage.setItem(STORAGE_KEY, lang);
+      applyLang(lang);
+    }
+
+    function applyLang(lang) {
+      var html = document.documentElement;
+      html.classList.remove('lang-ko', 'lang-en');
+      html.classList.add('lang-' + lang);
+      html.setAttribute('lang', lang === 'ko' ? 'ko' : 'en');
+
+      // Update i18n text content
+      document.querySelectorAll('.i18n').forEach(function(el) {
+        var text = el.getAttribute('data-' + lang);
+        if (text) el.innerHTML = text;
+      });
+
+      // Update i18n placeholders
+      document.querySelectorAll('.i18n-placeholder').forEach(function(el) {
+        var text = el.getAttribute('data-' + lang);
+        if (text) el.setAttribute('placeholder', text);
+      });
+    }
+
+    // Toggle button
+    var btn = document.getElementById('langToggle');
+    if (btn) {
+      btn.addEventListener('click', function() {
+        var current = getLang();
+        setLang(current === 'ko' ? 'en' : 'ko');
+      });
+    }
+
+    // Apply saved language on load
+    applyLang(getLang());
+  })();
+  </script>
+</body>
+</html>

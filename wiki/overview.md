@@ -2,7 +2,7 @@
 created: 2026-04-08
 title: International Cooperation on Cyber Crime - Overview
 type: overview
-updated: '2026-04-10'
+updated: '2026-04-12'
 ---
 
 # State of International Cooperation on Cyber Crime
@@ -11,7 +11,7 @@ updated: '2026-04-10'
 
 ## Executive Summary
 
-International cooperation on cybercrime has entered an *almost certainly* unprecedented period of operational intensity. The wiki now documents **98 operations** spanning 2014-2025 across five coordination models:
+International cooperation on cybercrime has entered an *almost certainly* unprecedented period of operational intensity. The wiki now documents **106 operations** spanning 2014-2025 across five coordination models:
 
 1. **Europol-coordinated** (36 operations): The largest group by count, including ransomware takedowns (Cronos, Endgame, Phobos), botnet dismantlings (Avalanche, Andromeda), forum shutdowns (Darkode, Cracked/Nulled), and financial crime operations. Key results from the 6 most-sourced operations alone: 22+ arrests, 470+ servers, 2,650+ domains, EUR 78M+ cryptocurrency.
 2. **INTERPOL-coordinated** (22 operations): Dominant in arrest volume and geographic reach. Operations HAECHI IV/V/VI (combined: 9,000+ arrests, $1.1B+ seized), Jackal/III (~400 arrests targeting Black Axe), First Light 2024 (3,950 arrests, $257M), Serengeti (1,006 arrests), Sentinel (574 arrests), Synergia II (22,800 IPs taken down) across up to 95 countries.
@@ -61,18 +61,18 @@ The **DOJ-led model** leverages US multi-agency coordination (FBI, HSI, USSS, IR
 
 | Metric | Value | Period |
 |--------|-------|--------|
-| Total operations documented | 98 | 2014-2025 |
-| Period 1 operations | 21 | 2014-2018 |
-| Period 2 operations | 18 | 2019-2022 |
-| Period 3 operations | 43 | 2023-2025 |
-| Europol-coordinated | 36 | All periods |
-| INTERPOL-coordinated | 22 | All periods |
-| DOJ/US-led | 3 | All periods |
-| Total arrests (sourced operations) | 18,029+ | Across all operations |
-| Total servers seized | 1,455+ | Primarily Europol operations |
-| Total domains seized | 802,767+ | All operations |
-| Unique participating countries | 150+ | All operations |
-| Sources with dedicated pages | 103 | Europol 21, INTERPOL 15, Unknown 12, CyberScoop 5, Wired 4 |
+| Total operations documented | 106 | 2014-2025 |
+| Period 1 operations | 27 | 2014-2018 |
+| Period 2 operations | 27 | 2019-2022 |
+| Period 3 operations | 46 | 2023-2025 |
+| Europol-coordinated | 49 | All periods |
+| INTERPOL-coordinated | 24 | All periods |
+| DOJ/US-led | 7 | All periods |
+| Total arrests (sourced operations) | 20,512+ | Across all operations |
+| Total servers seized | 2,950+ | Primarily Europol operations |
+| Total domains seized | 810,615+ | All operations |
+| Unique participating countries | 189+ | All operations |
+| Sources with dedicated pages | 104 | Europol 22, INTERPOL 16, Unknown 12, CyberScoop 5, US Department of Justice 4 |
 | Crime types documented | 10 | All documented types |
 
 ## Recent Activity

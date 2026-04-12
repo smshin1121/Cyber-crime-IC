@@ -54,6 +54,7 @@ operations_participated:
 - '[[xdedic-marketplace-takedown]]'
 - '[[zeus-spyeye-takedown]]'
 - '[[operation-dark-huntor]]'
+- '[[operation-trojan-shield]]'
 - '[[silk-road-takedown]]'
 org_type: national-agency
 parent_org: '[[fbi]]'

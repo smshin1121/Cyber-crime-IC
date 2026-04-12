@@ -191,6 +191,8 @@ def convert_wikilinks(text):
     """Convert [[wikilinks]] and [[slug|display]] to HTML links."""
     def replace_link(match):
         inner = match.group(1)
+        # Handle escaped pipes in Markdown tables: [[slug\|display]] → [[slug|display]]
+        inner = inner.replace("\\|", "|")
         if "|" in inner:
             slug, display = inner.split("|", 1)
         else:
@@ -484,6 +486,14 @@ def _strip_wikilink(val) -> str:
     return s.replace("-", " ").replace("_", " ").title() if s.islower() else s
 
 
+def _extract_slug(val) -> str:
+    """Extract slug from wikilink or plain string. [[slug|display]] → slug."""
+    s = str(val).strip("[]\"' ")
+    if "|" in s:
+        return s.split("|", 1)[0]
+    return s
+
+
 def _format_list(items, limit=10) -> str:
     """Format a list of items for Korean display."""
     if not isinstance(items, list):
@@ -558,7 +568,8 @@ def _gen_ko_operation(meta: dict, en: str) -> str:
     # Build summary
     summary_parts = [f"**{title}**"]
     if coord:
-        summary_parts.append(f"[[{meta.get('coordinating_body', coord)}|{coord}]]의 조정 하에 수행된")
+        coord_slug = _extract_slug(meta.get("coordinating_body", ""))
+        summary_parts.append(f"[[{coord_slug}|{coord}]]의 조정 하에 수행된")
     summary_parts.append(f"{op_type} 작전으로,")
     if period_str:
         summary_parts.append(f"**{period_str}** 기간 동안")

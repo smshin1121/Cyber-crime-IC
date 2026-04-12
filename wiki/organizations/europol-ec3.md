@@ -62,6 +62,7 @@ operations_participated:
 - '[[operation-source]]'
 - '[[operation-stream-kidflix]]'
 - '[[operation-talent]]'
+- '[[operation-trojan-shield]]'
 - '[[phobos-8base-crackdown]]'
 - '[[qakbot-gallyamov-indictment]]'
 - '[[qqaazz-money-laundering-takedown]]'

@@ -33,6 +33,7 @@ operations_participated:
 - '[[operation-endgame]]'
 - '[[operation-cronos-phase1]]'
 - '[[operation-cronos-phase3]]'
+- '[[operation-trojan-shield]]'
 org_type: national-agency
 parent_org: ''
 source_count: 6

@@ -21,7 +21,7 @@ key_findings:
   - "Private-sector partners: Microsoft, Symantec and AnubisNetworks contributed technical analysis and sinkholing. Operations coordinated through Europol's Joint Cybercrime Action Taskforce (J-CAT) and EC3, with CERT-EU support"
   - "Technical action: Shutdown of command-and-control servers and redirection (sinkholing) of ~300 internet domain addresses used by the Ramnit botnet to issue instructions to infected machines"
   - "Malware capability: Ramnit enabled criminals to 'steal personal and banking information, namely passwords, and disable antivirus protection' on Windows systems — a classic banking-trojan profile"
-  - "This is an important data-integrity correction — the operation page [[botnet-takedown-europol-2023]] appears to duplicate an existing [[ramnit-botnet-takedown]] case, or should be renamed and re-dated"
+  - "This is an important data-integrity correction — the operation page was renamed from botnet-takedown-europol-2023 to [[ramnit-botnet-takedown]] after verifying the source describes the 2015 Ramnit takedown"
 created: 2026-04-08
 updated: 2026-04-10
 ---
@@ -37,7 +37,7 @@ updated: 2026-04-10
 - **Source Tier**: 2 (official agency press release)
 - **Reliability**: high (Europol primary source)
 - **Credibility**: confirmed
-- **Operations referenced**: [[botnet-takedown-europol-2023|Europol Botnet Takedown 2023 (MISMATCH — actual: Ramnit 2015)]]
+- **Operations referenced**: [[ramnit-botnet-takedown|Ramnit Botnet Takedown (2015)]]
 
 ## Summary
 
@@ -53,7 +53,7 @@ Europol's press release covers the **24 February 2015 Ramnit botnet takedown**, 
 
 ## Why this source matters
 
-For the IC wiki this Europol release is an important **correction source** — it reveals that the [[botnet-takedown-europol-2023]] operation page is incorrectly scoped. It also independently documents the **2015 Ramnit takedown**, which is a significant Period 1 operation deserving its own page (or merge with any existing Ramnit entry).
+For the IC wiki this Europol release is an important **correction source** — it revealed that the original operation page (botnet-takedown-europol-2023) was incorrectly scoped and has since been renamed to [[ramnit-botnet-takedown]]. It also independently documents the **2015 Ramnit takedown**, which is a significant Period 1 operation deserving its own page (or merge with any existing Ramnit entry).
 
 Historically, Ramnit is notable as one of the first takedowns conducted through Europol's J-CAT framework (J-CAT was launched September 2014), making it an important precedent for EU-led multi-country botnet operations.
 

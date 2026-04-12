@@ -91,6 +91,7 @@ updated: 2026-04-10
 | [[operation-stream-kidflix]] | CYB-2025-001 | 3 | completed | 2.55 | 3 |
 | [[operation-synergia-ii]] | CYB-2024-007 | 3 | completed | 2.28 | 2 |
 | [[operation-talent]] | CYB-2025-011 | 3 | completed | 2.28 | 2 |
+| [[operation-trojan-shield]] | — | 2 | completed | — | — |
 | [[operation-wirewire]] | CYB-2018-002 | 1 | completed | 2.28 | 2 |
 | [[phobos-8base-crackdown]] | CYB-2025-003 | 3 | completed | 2.28 | 2 |
 | [[qakbot-gallyamov-indictment]] | CYB-2025-005 | 3 | ongoing | 2.28 | 2 |

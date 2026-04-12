@@ -64,23 +64,485 @@
           </span>
         
         
+          <span>
+            <span class="i18n" data-ko="출처" data-en="Sources"></span>: 9<span class="i18n" data-ko="건" data-en=""></span>
+          </span>
+        
       </div>
     </div>
     <div class="article-body">
       
-        <div class="ko-block"><div class="callout callout-info"><div class="callout-title">ℹ️ Stub
-풍부한 소스 페이지에서 위키링크를 해결하기 위해 자동 생성됩니다. <code>/ic-pipeline</code>를 통해 완전한 조사와 수집이 필요합니다. 스텁은 링크 무결성을 유지하기 위해서만 존재합니다.</div><div class="callout-body"></div></div>
-<h2 id="_1">요약</h2>
-<p>(연구 예정입니다.)</p>
+        <div class="ko-block"><h2 id="_1">요약</h2>
+<p><strong>Operation Endgame</strong>은 봇넷과 랜섬웨어를 지원하는 악성 코드 생태계에 맞서는 <strong>역대 최대 규모의 국제 법 집행 작전</strong>입니다. 2024년 5월에 시작되어 2026년 현재까지 계속 진행 중인 이 작전은 <a href="../../wiki/organizations/europol-ec3.html" class="wikilink">Europol</a> 및 <a href="../../wiki/organizations/eurojust.html" class="wikilink">Eurojust</a>가 조정하고 최소 15개국의 법 집행 기관이 참여하는 여러 단계로 수행되었습니다.</p>
+<p>이 작전의 전략적 혁신은 랜섬웨어 그룹을 직접 추적하는 대신 랜섬웨어 운영자가 의존하는 초기 액세스 인프라인 <strong>드로퍼 및 로더 악성 코드</strong>를 표적으로 삼는 데 있습니다. Operation Endgame은 업스트림 공급망을 방해함으로써 <em>거의 확실히</em> 여러 랜섬웨어 계열사의 운영 능력을 동시에 저하시켰습니다.</p>
+<p>모든 단계(2024년 5월부터 2025년 5월)에 걸쳐 Operation Endgame의 결과는 다음과 같습니다.</p>
+<ul>
+<li><strong>9건 이상의 체포</strong> 및 <strong>20건 이상의 국제 체포 영장</strong></li>
+<li><strong>400개 이상의 서버</strong> 압수 또는 철거</li>
+<li><strong>2,650개 이상의 도메인</strong> 압류 또는 무력화</li>
+<li><strong>2,120만 유로 이상</strong> 암호화폐 압수</li>
+<li>미국 DOJ에 의한 <strong>16건의 기소</strong>(DanaBot 운영자)</li>
+<li>EU 지명수배 목록에 <strong>18명의 용의자</strong> 추가</li>
+</ul>
+<p>개별 단계에 대한 자세한 설명은 <a href="../../wiki/operations/operation-endgame-phase1.html" class="wikilink">Phase 1 (May 2024)</a> 및 <a href="../../wiki/operations/operation-endgame-phase2.html" class="wikilink">Phase 2 (May 2025)</a>를 참조하세요.</p>
 <h2 id="_2">배경</h2>
-<h2 id="_3">참가 당사자</h2>
-<h2 id="_4">결과 및 영향</h2>
-<h2 id="_5">참고자료</h2>
+<h3 id="_3">드로퍼/로더 생태계</h3>
+<p>드로퍼 악성 코드("로더" 또는 "초기 액세스 도구"라고도 함)는 랜섬웨어 공격 체인의 중요한 첫 번째 단계를 형성합니다. 이러한 프로그램은 보안 조치를 우회하고 랜섬웨어 운영자에게 판매되거나 사용되는 초기 액세스를 제공하여 손상된 시스템에 은밀하게 추가 악성 코드를 설치하도록 설계되었습니다.</p>
+<p>초기에 표적으로 삼은 6개 악성코드군(<strong>IcedID</strong>, <strong>SystemBC</strong>, <strong>Pikabot</strong>, <strong>Smokeloader</strong>, <strong>Bumblebee</strong>, <strong>Trickbot</strong>)은 BlackBasta, REvil, Conti와 같은 악명 높은 작업을 포함하여 최소 <strong>15개 랜섬웨어 그룹</strong>에 연결되었습니다. 드로퍼 생태계는 서비스 모델로 작동합니다. 운영자는 감염된 컴퓨터의 네트워크를 유지하고 최고 입찰자(일반적으로 랜섬웨어 계열사)에게 액세스 권한을 판매합니다.</p>
+<h3 id="_4">전략적 근거</h3>
+<p>Operation Endgame 이전에 국제 랜섬웨어 시행은 일반적으로 개별 랜섬웨어 그룹이나 해당 운영자를 표적으로 삼았습니다. Operation Endgame은 <strong>공급망 중단</strong>을 향한 전략적 변화를 나타냅니다. 즉, 여러 랜섬웨어 그룹이 의존하는 드로퍼 인프라를 무너뜨림으로써 법 집행 기관은 수많은 범죄 활동을 동시에 저하시킬 수 있습니다. 이 접근법은 <em>아마도</em> 집행 노력 단위당 더 큰 힘 승수 효과를 제공합니다.</p>
+<h3 id="_5">조사 출처</h3>
+<p><a href="../../wiki/organizations/europol-ec3.html" class="wikilink">Europol</a> 및 <a href="../../wiki/organizations/eurojust.html" class="wikilink">Eurojust</a>의 조정을 받아 <strong>프랑스</strong>, <strong>독일</strong> 및 <strong>네덜란드</strong>가 조사를 시작하고 주도했습니다. 프랑크푸르트 검찰청의 <a href="../../wiki/organizations/germany-bka.html" class="wikilink">German Federal Criminal Police Office (BKA)</a> 및 <a href="../../wiki/organizations/germany-frankfurt-prosecutor.html" class="wikilink">Central Office for the Fight against Cyber Crime (ZIT)</a>는 수사 단계에서 중심적인 역할을 수행했으며, 특히 압수된 데이터베이스의 디지털 신원을 실제 개인과 일치시키는 데 수개월이 걸리는 법의학 프로세스를 수행했습니다.</p>
+<h2 id="_6">참가 당사자</h2>
+<h3 id="_7">조정 기관</h3>
+<table>
+<thead>
+<tr>
+<th>Body</th>
+<th>Role</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><a href="../../wiki/organizations/europol-ec3.html" class="wikilink">Europol EC3</a></td>
+<td>Operational coordination; hosted command posts at HQ</td>
+</tr>
+<tr>
+<td><a href="../../wiki/organizations/eurojust.html" class="wikilink">Eurojust</a></td>
+<td>Judicial coordination for arrest warrants and seizure orders</td>
+</tr>
+</tbody>
+</table>
+<h3 id="_8">참가국</h3>
+<p><strong>핵심 파트너(모든 단계):</strong> <a href="../../wiki/countries/denmark.html" class="wikilink">denmark</a>, <a href="../../wiki/countries/france.html" class="wikilink">france</a>, <a href="../../wiki/countries/germany.html" class="wikilink">germany</a>, <a href="../../wiki/countries/netherlands.html" class="wikilink">netherlands</a>, <a href="../../wiki/countries/united-kingdom.html" class="wikilink">united-kingdom</a>, <a href="../../wiki/countries/united-states.html" class="wikilink">united-states</a></p>
+<p><strong>1단계 지원 국가:</strong> <a href="../../wiki/countries/armenia.html" class="wikilink">armenia</a>, <a href="../../wiki/countries/australia.html" class="wikilink">australia</a>, <a href="../../wiki/countries/bulgaria.html" class="wikilink">bulgaria</a>, <a href="../../wiki/countries/lithuania.html" class="wikilink">lithuania</a>, <a href="../../wiki/countries/portugal.html" class="wikilink">portugal</a>, <a href="../../wiki/countries/romania.html" class="wikilink">romania</a>, <a href="../../wiki/countries/switzerland.html" class="wikilink">switzerland</a>, <a href="../../wiki/countries/ukraine.html" class="wikilink">ukraine</a></p>
+<p><strong>2단계 추가 국가:</strong> <a href="../../wiki/countries/canada.html" class="wikilink">canada</a></p>
+<h3 id="_9">참여기관</h3>
+<table>
+<thead>
+<tr>
+<th>Country</th>
+<th>Agency</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>International</td>
+<td><a href="../../wiki/organizations/europol-ec3.html" class="wikilink">Europol</a>, <a href="../../wiki/organizations/eurojust.html" class="wikilink">Eurojust</a></td>
+</tr>
+<tr>
+<td>Australia</td>
+<td><a href="../../wiki/organizations/australia-afp.html" class="wikilink">AFP</a></td>
+</tr>
+<tr>
+<td>Armenia</td>
+<td><a href="../../wiki/organizations/armenia-police.html" class="wikilink">Armenian Police</a></td>
+</tr>
+<tr>
+<td>Belgium</td>
+<td><a href="../../wiki/organizations/belgium-federal-police.html" class="wikilink">Federal Police</a></td>
+</tr>
+<tr>
+<td>Bulgaria</td>
+<td><a href="../../wiki/organizations/bulgaria-police.html" class="wikilink">Bulgarian Police</a></td>
+</tr>
+<tr>
+<td>Canada</td>
+<td><a href="../../wiki/organizations/canada-rcmp.html" class="wikilink">RCMP</a></td>
+</tr>
+<tr>
+<td>Denmark</td>
+<td><a href="../../wiki/organizations/denmark-police.html" class="wikilink">Danish Police</a></td>
+</tr>
+<tr>
+<td>France</td>
+<td><a href="../../wiki/organizations/france-national-police.html" class="wikilink">National Police</a>, <a href="../../wiki/organizations/france-gendarmerie.html" class="wikilink">Gendarmerie</a>, <a href="../../wiki/organizations/france-junalco.html" class="wikilink">JUNALCO</a></td>
+</tr>
+<tr>
+<td>Germany</td>
+<td><a href="../../wiki/organizations/germany-bka.html" class="wikilink">BKA</a>, <a href="../../wiki/organizations/germany-lka.html" class="wikilink">LKA</a>, <a href="../../wiki/organizations/germany-frankfurt-prosecutor.html" class="wikilink">ZIT Frankfurt</a></td>
+</tr>
+<tr>
+<td>Lithuania</td>
+<td><a href="../../wiki/organizations/lithuania-police.html" class="wikilink">Lithuanian Police</a></td>
+</tr>
+<tr>
+<td>Netherlands</td>
+<td><a href="../../wiki/organizations/netherlands-politie.html" class="wikilink">Politie</a></td>
+</tr>
+<tr>
+<td>Portugal</td>
+<td><a href="../../wiki/organizations/portugal-police.html" class="wikilink">Portuguese Police</a></td>
+</tr>
+<tr>
+<td>Romania</td>
+<td><a href="../../wiki/organizations/romania-police.html" class="wikilink">Romanian Police</a></td>
+</tr>
+<tr>
+<td>Switzerland</td>
+<td><a href="../../wiki/organizations/switzerland-fedpol.html" class="wikilink">Fedpol</a></td>
+</tr>
+<tr>
+<td>Ukraine</td>
+<td><a href="../../wiki/organizations/ukraine-police.html" class="wikilink">Ukrainian Police</a></td>
+</tr>
+<tr>
+<td>United Kingdom</td>
+<td><a href="../../wiki/organizations/uk-nca.html" class="wikilink">NCA</a></td>
+</tr>
+<tr>
+<td>United States</td>
+<td><a href="../../wiki/organizations/fbi-cyber-division.html" class="wikilink">FBI</a>, <a href="../../wiki/organizations/us-doj.html" class="wikilink">DOJ</a>, <a href="../../wiki/organizations/us-secret-service.html" class="wikilink">Secret Service</a>, <a href="../../wiki/organizations/us-dcis.html" class="wikilink">DCIS</a></td>
+</tr>
+</tbody>
+</table>
+<h3 id="_10">민간 부문 파트너</h3>
+<p>여러 민간 부문 사이버 보안 회사가 위협 인텔리전스 및 인프라 식별을 포함한 기술 지원을 제공했습니다. Microsoft는 2단계와 동시에 실행된 Lumma Stealer 중단 작업에 참여하여 2025년 3월부터 5월 사이에 감염된 Windows 시스템 394,000대를 식별했습니다.</p>
+<h2 id="_11">법적 프레임워크</h2>
+<p>이 작전에는 최소 15개국의 법 집행 기관과 사법 당국이 참여했습니다. 법적 틀은 <em>아마도</em> 여러 가지 도구에 의존했을 것입니다:
+- <strong><a href="../../wiki/legal-frameworks/budapest-convention.html" class="wikilink">Budapest Convention on Cybercrime</a></strong> — 참여 국가 간의 국경 간 사이버 범죄 협력을 위한 기본 조약 프레임워크를 제공합니다. 이들 국가는 모두 당사자이거나 협력 약정을 맺고 있습니다.
+- <strong><a href="../../wiki/mechanisms/joint-investigation-team.html" class="wikilink">Joint Investigation Teams (JITs)</a></strong> — <a href="../../wiki/organizations/eurojust.html" class="wikilink">Eurojust</a>를 통해 공식 JIT가 설립되어 다관할 조사 및 증거 공유가 가능해졌습니다.
+- <strong>유럽 체포 영장</strong> — 1단계에서 독일 당국이 발부한 10개의 체포 영장과 2단계에서 20개의 국제 체포 영장에 사용됩니다.
+- <strong>국가 형법</strong> — 아르메니아와 우크라이나에서 체포된 사건은 국제 조정을 통해 국내 법적 권한에 따라 집행되었습니다.
+- <strong>미국 연방법</strong> — DanaBot 운영자에 대한 16건의 기소가 미국 컴퓨터 사기 및 관련 법령에 따라 제기되었습니다.</p>
+<div class="callout callout-warning"><div class="callout-title">⚠️ Legal status check needed
+국경 간 서버 압수에 대해 적용되는 특정 조약 조항(예: 서비스 제공업체와의 직접 협력에 관한 <a href="../../wiki/legal-frameworks/second-additional-protocol.html" class="wikilink">Second Additional Protocol</a> 조항이 사용되었는지 여부)은 공식 사법 소스의 확인이 필요합니다.</div><div class="callout-body"></div></div>
+<h2 id="_12">운영 타임라인</h2>
+<h3 id="1-2024-5">1단계: 드로퍼 게시 중단(2024년 5월)</h3>
+<table>
+<thead>
+<tr>
+<th>Date</th>
+<th>Event</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Pre-2024</td>
+<td>Multi-country investigation phase; digital forensics to identify operators</td>
+</tr>
+<tr>
+<td>2024-05-27</td>
+<td>Action days begin</td>
+</tr>
+<tr>
+<td>2024-05-27 to 2024-05-29</td>
+<td>100+ servers taken down across 10 countries; 2,000+ domains seized; 4 arrests (1 Armenia, 3 Ukraine); 16 location searches; 99 crypto wallets blocked</td>
+</tr>
+<tr>
+<td>2024-05-30</td>
+<td>Public announcement by Europol; 8 German suspects added to EU Most Wanted list</td>
+</tr>
+</tbody>
+</table>
+<p>자세한 내용은 <a href="../../wiki/operations/operation-endgame-phase1.html" class="wikilink">operation-endgame-phase1</a>를 참조하세요.</p>
+<h3 id="smokeloader-2025-4">Smokeloader 고객 후속 조치(2025년 4월)</h3>
+<table>
+<thead>
+<tr>
+<th>Date</th>
+<th>Event</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>2024-05 to 2025-04</td>
+<td>BKA and partners analyze seized Smokeloader customer database, linking online aliases to real identities</td>
+</tr>
+<tr>
+<td>2025-04-09</td>
+<td>Europol announces follow-up: 5 customers of the Smokeloader pay-per-install botnet (operated by actor "Superstar") detained or subjected to "knock-and-talk" interviews</td>
+</tr>
+<tr>
+<td>2025-04</td>
+<td>Additional server takedowns related to Smokeloader infrastructure</td>
+</tr>
+</tbody>
+</table>
+<p>이 단계에서는 <strong>공급업체</strong>(인프라 운영자)를 대상으로 하는 것에서 <strong>수요 측</strong>(범죄 목적으로 봇넷 액세스를 구매한 고객)을 대상으로 하는 전환을 표시했습니다. 일부 구금된 용의자들은 법 집행 기관에 협조하여 디지털 기기 검사를 허용했습니다.</p>
+<h3 id="2-2025-5">2단계: 랜섬웨어 킬 체인 중단(2025년 5월)</h3>
+<table>
+<thead>
+<tr>
+<th>Date</th>
+<th>Event</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>2025-05-19</td>
+<td>Phase 2 action days begin</td>
+</tr>
+<tr>
+<td>2025-05-19 to 2025-05-22</td>
+<td>300 servers taken down; 650 domains neutralized; EUR 3.5M cryptocurrency seized</td>
+</tr>
+<tr>
+<td>2025-05-23</td>
+<td>Public announcement by Europol and Eurojust; DOJ unseals 16-count indictment against DanaBot operators; 20 international arrest warrants issued; 18 suspects added to EU Most Wanted</td>
+</tr>
+</tbody>
+</table>
+<p>2단계에서는 <strong>Bumblebee, Lactrodectus, Qakbot, Hijackloader, DanaBot, Trickbot 및 Warmcookie</strong>를 포함하도록 대상 세트를 확장했습니다. 미국 DOJ는 30만 대 이상의 컴퓨터를 감염시키고 약 5천만 달러 이상의 피해를 입힌 DanaBot 악성 코드 네트워크를 운영한 혐의로 러시아 노보시비르스크 출신의 Aleksandr Stepanov(39)와 Artem Kalinkin(34)을 포함한 러시아 국민 16명을 기소했습니다.</p>
+<p>자세한 내용은 <a href="../../wiki/operations/operation-endgame-phase2.html" class="wikilink">operation-endgame-phase2</a>를 참조하세요.</p>
+<h2 id="_13">결과 및 영향</h2>
+<h3 id="_14">모든 단계에 걸친 누적 결과</h3>
+<table>
+<thead>
+<tr>
+<th>Metric</th>
+<th>Phase 1 (May 2024)</th>
+<th>Smokeloader Follow-up (Apr 2025)</th>
+<th>Phase 2 (May 2025)</th>
+<th>Cumulative</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Arrests/Detentions</td>
+<td>4</td>
+<td>5</td>
+<td>0</td>
+<td>9</td>
+</tr>
+<tr>
+<td>Servers seized/taken down</td>
+<td>100+</td>
+<td>Additional</td>
+<td>300</td>
+<td>400+</td>
+</tr>
+<tr>
+<td>Domains seized/neutralized</td>
+<td>2,000+</td>
+<td>—</td>
+<td>650</td>
+<td>2,650+</td>
+</tr>
+<tr>
+<td>Cryptocurrency seized</td>
+<td>EUR 69M blocked (suspect assets)</td>
+<td>—</td>
+<td>EUR 3.5M</td>
+<td>EUR 21.2M+ (enforcement total)</td>
+</tr>
+<tr>
+<td>Arrest warrants</td>
+<td>10</td>
+<td>—</td>
+<td>20</td>
+<td>30+</td>
+</tr>
+<tr>
+<td>EU Most Wanted</td>
+<td>8</td>
+<td>—</td>
+<td>18</td>
+<td>26</td>
+</tr>
+<tr>
+<td>Indictments</td>
+<td>—</td>
+<td>—</td>
+<td>16 (DanaBot)</td>
+<td>16</td>
+</tr>
+<tr>
+<td>Malware families targeted</td>
+<td>6</td>
+<td>1</td>
+<td>7</td>
+<td>13</td>
+</tr>
+</tbody>
+</table>
+<h3 id="_15">악성코드 계열이 혼란에 빠졌습니다.</h3>
+<table>
+<thead>
+<tr>
+<th>Malware</th>
+<th>Type</th>
+<th>Phase Targeted</th>
+<th>Connection to Ransomware</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>IcedID</td>
+<td>Banking trojan / loader</td>
+<td>Phase 1</td>
+<td>Initial access for ransomware groups</td>
+</tr>
+<tr>
+<td>SystemBC</td>
+<td>Proxy / backdoor</td>
+<td>Phase 1</td>
+<td>C2 communication for ransomware</td>
+</tr>
+<tr>
+<td>Pikabot</td>
+<td>Loader</td>
+<td>Phase 1</td>
+<td>Successor to Qakbot; initial access</td>
+</tr>
+<tr>
+<td>Smokeloader</td>
+<td>Pay-per-install loader</td>
+<td>Phase 1 + Follow-up</td>
+<td>Distribution platform for varied payloads</td>
+</tr>
+<tr>
+<td>Bumblebee</td>
+<td>Loader</td>
+<td>Phase 1 + Phase 2</td>
+<td>Initial access for Conti/BlackBasta affiliates</td>
+</tr>
+<tr>
+<td>Trickbot</td>
+<td>Banking trojan / loader</td>
+<td>Phase 1 + Phase 2</td>
+<td>Initial access; linked to Conti ecosystem</td>
+</tr>
+<tr>
+<td>DanaBot</td>
+<td>Banking trojan / botnet</td>
+<td>Phase 2</td>
+<td>Credential theft; ransomware deployment</td>
+</tr>
+<tr>
+<td>Qakbot</td>
+<td>Banking trojan / loader</td>
+<td>Phase 2</td>
+<td>Initial access; operator indicted</td>
+</tr>
+<tr>
+<td>Lactrodectus</td>
+<td>Loader</td>
+<td>Phase 2</td>
+<td>IcedID successor</td>
+</tr>
+<tr>
+<td>Hijackloader</td>
+<td>Loader</td>
+<td>Phase 2</td>
+<td>Multi-stage payload delivery</td>
+</tr>
+<tr>
+<td>Warmcookie</td>
+<td>Loader</td>
+<td>Phase 2</td>
+<td>Initial access via phishing</td>
+</tr>
+<tr>
+<td>Rhadamanthys</td>
+<td>Info-stealer</td>
+<td>Phase 2</td>
+<td>Credential theft enabling ransomware</td>
+</tr>
+</tbody>
+</table>
+<h3 id="_16">재정적 영향</h3>
+<p>1단계에서 확인된 주요 용의자 중 한 명은 랜섬웨어 배포에 사용된 범죄 인프라를 임대하여 최소 <strong>6,900만 유로의 암호화폐</strong>를 벌어들였습니다. 6900만 유로의 자산 동결이 이루어졌으며, 다양한 암호화폐 거래소에서 총 거래량이 7000만 유로가 넘는 암호화폐 지갑 99개가 차단되었습니다.</p>
+<p>모든 집행 조치를 통틀어 총 압수 금액은 <strong>2,120만 유로</strong>(약 2,400만 달러)를 초과했습니다. 미국 DOJ는 또한 Qakbot 운영자 Gallyamov(<a href="../../wiki/operations/qakbot-gallyamov-indictment.html" class="wikilink">qakbot-gallyamov-indictment</a> 참조)로부터 압수한 디지털 자산 2,400만 달러와 추가 비트코인 ​​및 USDT 토큰 약 400만 달러에 대해 몰수 소송을 제기했습니다.</p>
+<h3 id="_17">랜섬웨어 생태계에 미치는 영향</h3>
+<p>이 작업은 <em>아마도</em> 랜섬웨어 생태계에 상당한 파괴적인 영향을 미쳤지만, 정확한 영향을 정량화하는 것은 여전히 어렵습니다.</p>
+<ul>
+<li>여러 랜섬웨어 계열사가 주요 초기 액세스 채널을 동시에 상실했습니다.</li>
+<li>"설치당 지불" 비즈니스 모델이 붕괴되어 범죄 행위자들이 인프라를 재구축하게 되었습니다.</li>
+<li>압수된 고객 데이터베이스로 인해 법 집행 기관은 수요 측 행위자를 추적할 수 있게 되었고, 이는 향후 봇넷 서비스 구매에 위축 효과를 발생시켰습니다.</li>
+<li>그러나 일부 악성 코드군(특히 DanaBot)은 게시 중단 후 인프라를 재구성하는 조짐을 보여 지속적인 집행 압력이 필요함을 나타냅니다.</li>
+</ul>
+<h2 id="_18">사용된 협력 메커니즘</h2>
+<h3 id="_19">유로폴 지휘소</h3>
+<p>유로폴은 1단계와 2단계 활동 주간 동안 헤이그 본부에서 현장 지휘소를 주최했습니다. 1단계에는 덴마크, 프랑스, ​​독일, 네덜란드, 미국 출신의 20명 이상의 장교가 실시간 조정을 위해 참석했습니다. 이를 통해 다음이 가능해졌습니다.</p>
+<ul>
+<li>여러 시간대에 걸쳐 동기화된 서버 게시 중단</li>
+<li>Action Day 중 예상치 못한 상황 발생 시 신속한 의사결정</li>
+<li>참여 기관 간 실시간 정보 공유</li>
+</ul>
+<h3 id="eurojust">Eurojust 사법 조정</h3>
+<p><a href="../../wiki/organizations/eurojust.html" class="wikilink">Eurojust</a>는 다음에 대한 사법 조정을 제공했습니다.</p>
+<ul>
+<li>다관할 체포영장(1단계 10건, 2단계 20건)</li>
+<li>국경간 증거보존 및 이관명령</li>
+<li>다양한 법률 시스템에 걸친 압류 명령 조정</li>
+<li>참가국간 상호법률공조 촉진</li>
+</ul>
+<h3 id="_20">합동수사팀</h3>
+<p>다중 관할권 조사를 가능하게 하기 위해 공식 <a href="../../wiki/mechanisms/joint-investigation-team.html" class="wikilink">Joint Investigation Teams (JITs)</a>가 설립되었습니다. Eurojust가 촉진한 JIT 프레임워크를 통해 다양한 국가의 조사관이 통일된 법적 프레임워크 내에서 증거를 공유하고 조치를 조정할 수 있었으며 일반적으로 공식 <a href="../../wiki/mechanisms/mlat-process.html" class="wikilink">MLAT requests</a>와 관련된 지연을 피할 수 있었습니다.</p>
+<h3 id="_21">데이터베이스 악용</h3>
+<p>특히 주목할만한 메커니즘은 후속 조치를 위해 <strong>압류된 데이터베이스를 악용</strong>하는 것이었습니다. 1단계에서 압수한 Smokeloader 고객 데이터베이스는 온라인 별칭과 사용자 이름을 실제 신원과 일치시키는 데 수개월을 보낸 <a href="../../wiki/organizations/germany-bka.html" class="wikilink">BKA</a> 조사관에 의해 체계적으로 분석되었습니다. 이 정보는 여러 국가의 법 집행 파트너와 공유되어 2025년 4월 수요측 집행이 가능해졌습니다.</p>
+<h3 id="eu">EU 지명 수배 목록</h3>
+<p>Europol의 <strong>EU 지명 수배</strong> 목록(1단계에서 8명, 2단계에서 18명)에 용의자를 추가함으로써 대중 인식 메커니즘과 국제 도망자 추적 도구 역할을 하여 용의자가 여행할 때 신원 확인 및 체포 가능성이 높아졌습니다.</p>
+<h2 id="_22">과제 및 마찰 지점</h2>
+<h3 id="_23">관할권의 복잡성</h3>
+<p>이 작업에는 서로 다른 법적 시스템, 절차 요구 사항 및 증거 기준을 갖춘 최소 15개국 간의 조정이 필요했습니다. 동기화된 작업일에는 모든 참가자가 각자의 법적 프레임워크 내에서 할당된 작업을 실행할 수 있도록 세심한 사전 계획이 필요했습니다.</p>
+<h3 id="_24">러시아 기반 용의자</h3>
+<p>미국 DOJ가 기소한 16명의 DanaBot 운영자를 포함하여 확인된 용의자 중 다수는 러시아에 거주하고 있습니다. 현재의 지정학적 상황과 러시아와의 범죄인 인도 협력 부재를 고려할 때 이들 용의자들은 법 집행 기관의 손이 닿지 않는 곳에 남아 있습니다. 국제 체포 영장과 EU 지명수배 목록은 용의자가 협력 관할권으로 여행할 경우 체포를 위한 법적 틀을 마련하지만 러시아에서 직접 집행할 가능성은 <em>매우 낮습니다</em>.</p>
+<h3 id="_25">인프라 재구성</h3>
+<p>일부 표적 악성코드군은 폐쇄 이후 작전을 재구성하는 조짐을 보였습니다. 특히 DanaBot은 새로운 인프라로 다시 등장하여 운영자를 체포하지 않고 인프라를 철거하는 것만으로도 일시적인 중단만 제공할 뿐이라는 점을 시사했습니다. 이는 일회성 조치가 아닌 지속적인 다단계 캠페인의 필요성을 강조합니다.</p>
+<h3 id="_26">수요 측 집행 규모</h3>
+<p>Smokeloader 고객 후속 조치(5건의 구금)를 통해 수요측 집행의 타당성이 입증되었지만 봇넷 고객 기반의 규모는 <em>거의 확실하게</em> 모든 사용자를 추적할 수 있는 법 집행 능력을 훨씬 초과합니다. 우선순위화와 억제 효과가 주요 고려사항입니다.</p>
+<h2 id="_27">배운 교훈</h2>
+<ol>
+<li>
+<p><strong>강제 승수로 인한 공급망 중단:</strong> 드로퍼/로더 인프라를 표적으로 삼으면 여러 랜섬웨어 작업이 동시에 중단됩니다. 이러한 업스트림 접근 방식은 <em>거의 확실하게</em> 개별 랜섬웨어 그룹을 표적으로 삼는 것보다 시행 노력 단위당 더 큰 영향을 미칩니다.</p>
+</li>
+<li>
+<p><strong>다단계 지속 캠페인:</strong> 1단계(2024년 5월)부터 Smokeloader 후속 조치(2025년 4월)를 거쳐 2단계(2025년 5월)까지의 진행은 지속적인 캠페인이 범죄 생태계에 가중되는 압력을 보여줍니다. 범죄 행위자들은 다음 번에는 어떤 인프라가 표적이 될 것인지에 대한 지속적인 불확실성에 직면해 있습니다.</p>
+</li>
+<li>
+<p><strong>수요측 집행:</strong> Smokeloader 고객 체포는 공급측(인프라 운영자)에서 수요측(서비스 구매자) 집행으로 전략적 확장을 의미합니다. 이 "전체 생태계" 접근 방식은 봇넷 서비스 구매가 실제 체포 위험을 수반한다는 억제 메시지를 보냅니다.</p>
+</li>
+<li>
+<p><strong>데이터베이스 인텔리전스 활용:</strong> 압수된 인프라 데이터베이스는 진행 중인 사건에 대한 증거일 뿐만 아니라 완전히 새로운 조사 라인을 가능하게 하는 인텔리전스 자산입니다. Smokeloader 고객의 익명성을 해제하기 위한 몇 달 간의 BKA 노력은 인프라 압류의 장기적인 조사 가치를 보여줍니다.</p>
+</li>
+<li>
+<p><strong>실시간 조정 인프라:</strong> 여러 국가에서 온 20명 이상의 장교가 있는 Europol 지휘소는 인프라 철거에 필요한 일종의 동기화된 다중 시간대 조치를 가능하게 합니다. 이러한 제도적 역량은 이 규모의 운영에 <em>거의 확실하게</em> 필수적입니다.</p>
+</li>
+</ol>
+<h2 id="_28">후속 조치</h2>
+<ul>
+<li><strong>진행 중인 조사:</strong> 유로폴은 엔드게임 작전이 종료되지 않았으며 추가 시행 단계가 계획되어 있음을 명시적으로 밝혔습니다.</li>
+<li><strong>도망자 추적:</strong> 30개 이상의 국제 체포 영장과 26개의 EU 지명수배 목록은 용의자가 협력 관할권으로 여행할 때 향후 체포를 위한 지속적인 법적 틀을 만듭니다.</li>
+<li><strong>DanaBot 재구성 모니터링:</strong> 2단계 중단 이후 새로운 인프라로 DanaBot을 재포장하려면 <em>아마도</em> 지속적인 모니터링과 잠재적인 추가 시행 조치가 필요할 것입니다.</li>
+<li><strong>관련 소송:</strong> <a href="../../wiki/operations/qakbot-gallyamov-indictment.html" class="wikilink">Qakbot/Gallyamov indictment</a> 및 관련 자산 몰수 소송은 미국 법원에서 진행 중입니다.</li>
+</ul>
+<h2 id="_29">한국의 참여(한국의 참여)</h2>
+<p>2026년 4월 현재 엔드게임 작전의 어떤 단계에도 한국이 직접 관여한 것으로 확인되지 않았습니다. 한국은 1단계나 2단계에 참가한 국가 중 하나가 아닙니다.</p>
+<p>그러나 Operation Endgame은 여러 측면에서 한국의 사이버 보안 이익과 관련이 있습니다.</p>
+<ul>
+<li><strong>랜섬웨어 영향:</strong> Operation Endgame이 표적으로 삼은 드로퍼 악성 코드 계열은 전 세계적으로 사용되었으며, 한국 조직은 이러한 초기 액세스 채널을 통해 배포된 랜섬웨어의 피해자가 되었습니다.</li>
+<li><strong>협력 모델:</strong> 이 작전은 한국이 유럽 법 집행 기관과의 참여 확대를 통해 참여할 수 있는 일종의 다자간 유로폴 조정 집행 조치에 대한 모델을 제공합니다(사이버 범죄 국제공조 모델 구성 참고 가치)</li>
+<li><strong>부다페스트 컨벤션 참가:</strong> 한국이 <a href="../../wiki/legal-frameworks/budapest-convention.html" class="wikilink">Budapest Convention</a> 프레임워크에 지속적으로 참여함에 따라 Endgame과 같은 향후 작전 단계에 참여하면 국제 사이버 범죄 집행에서 한국의 역할이 강화될 수 있습니다.</li>
+</ul>
+<h2 id="_30">모순 및 공개 질문</h2>
+<ol>
+<li>
+<p><strong>체포 횟수 불일치:</strong> 일부 소식통은 1단계에서 4건의 체포를 보고하는 반면, 독일 BMI는 4건의 "임시 구금"을 보고합니다. 공식 체포와 임시 구금의 차이는 관할권 간 다양한 법적 체계를 반영할 수 있습니다.</p>
+</li>
+<li>
+<p><strong>재정 수치:</strong> 의심되는 암호화폐 보유량(1단계) 6,900만 유로, 차단된 암호화폐 지갑 7,000만 유로, 누적 집행 압류 총액 2,120만 유로 간의 관계는 완전히 명확하지 않습니다. 6900만/7000만 유로 수치는 주문 동결 대상으로 식별된 자산을 나타낼 수 있으며, 2120만 유로는 실제로 압수/몰수된 자금을 나타냅니다.</p>
+</li>
+<li>
+<p><strong>DanaBot 출처 확인:</strong> 16건의 DanaBot 기소와 300,000건의 감염 수치는 주로 뉴스 보도(Tier 3 출처)에서 비롯되었습니다. 공식 DOJ 기소 텍스트는 최종 확인을 제공합니다.</p>
+</li>
+<li>
+<p><strong>재구성 비율:</strong> 각 단계 후에 표적 악성 코드군이 얼마나 빠르고 효과적으로 재구성되었습니까? DanaBot이 다시 등장한 것으로 알려졌으나 13개 표적 가족 전체에 대한 재구성에 대한 체계적인 평가가 부족합니다.</p>
+</li>
+<li>
+<p><strong>측정 가능한 랜섬웨어 영향:</strong> 각 단계에 따른 글로벌 랜섬웨어 배포율에 대한 정량화 가능한 영향은 무엇입니까? 체계적인 평가는 공개적으로 발표되지 않았습니다.</p>
+</li>
+<li>
+<p><strong>1단계 서버 위치:</strong> 불가리아, 캐나다, 독일, 리투아니아, 네덜란드, 루마니아, 스위스, 영국, 미국 및 우크라이나에서 서버가 압수되었지만 국가 간 배포는 자세히 지정되지 않았습니다.</p>
+</li>
+</ol>
+<h2 id="_31">참고자료</h2>
 <table>
 <thead>
 <tr>
 <th>#</th>
-<th>Source</th>
+<th>Title</th>
 <th>Publisher</th>
 <th>Date</th>
 <th>URL</th>
@@ -88,27 +550,543 @@
 </thead>
 <tbody>
 <tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td>[1]</td>
+<td>Largest ever operation against botnets hits dropper malware ecosystem</td>
+<td>Europol</td>
+<td>2024-05-30</td>
+<td><a href="https://www.europol.europa.eu/media-press/newsroom/news/largest-ever-operation-against-botnets-hits-dropper-malware-ecosystem" target="_blank" rel="noopener noreferrer">link</a></td>
+</tr>
+<tr>
+<td>[2]</td>
+<td>Operation Endgame: Coordinated Worldwide Law Enforcement Action Against Network of Cybercriminals</td>
+<td>FBI</td>
+<td>2024-05-29</td>
+<td><a href="https://www.fbi.gov/news/press-releases/operation-endgame-coordinated-worldwide-law-enforcement-action-against-network-of-cybercriminals" target="_blank" rel="noopener noreferrer">link</a></td>
+</tr>
+<tr>
+<td>[3]</td>
+<td>Worldwide investigation against cyber crime crowned by success</td>
+<td>German BMI</td>
+<td>2024-05-30</td>
+<td><a href="https://www.bmi.bund.de/SharedDocs/kurzmeldungen/EN/2024/05/endgame.html" target="_blank" rel="noopener noreferrer">link</a></td>
+</tr>
+<tr>
+<td>[4]</td>
+<td>Operation Endgame follow-up leads to five detentions and interrogations as well as server takedowns</td>
+<td>Europol</td>
+<td>2025-04-09</td>
+<td><a href="https://www.europol.europa.eu/media-press/newsroom/news/operation-endgame-follow-leads-to-five-detentions-and-interrogations-well-server-takedowns" target="_blank" rel="noopener noreferrer">link</a></td>
+</tr>
+<tr>
+<td>[5]</td>
+<td>Operation ENDGAME strikes again: the ransomware kill chain broken at its source</td>
+<td>Europol</td>
+<td>2025-05-23</td>
+<td><a href="https://www.europol.europa.eu/media-press/newsroom/news/operation-endgame-strikes-again-ransomware-kill-chain-broken-its-source" target="_blank" rel="noopener noreferrer">link</a></td>
+</tr>
+<tr>
+<td>[6]</td>
+<td>Operation Endgame — official page</td>
+<td>Europol</td>
+<td>ongoing</td>
+<td><a href="https://www.europol.europa.eu/operations-services-and-innovation/operations/operation-endgame" target="_blank" rel="noopener noreferrer">link</a></td>
+</tr>
+<tr>
+<td>[7]</td>
+<td>'Operation Endgame' Hits Malware Delivery Platforms</td>
+<td>KrebsOnSecurity</td>
+<td>2024-05-30</td>
+<td><a href="https://krebsonsecurity.com/2024/05/operation-endgame-hits-malware-delivery-platforms/" target="_blank" rel="noopener noreferrer">link</a></td>
+</tr>
+<tr>
+<td>[8]</td>
+<td>U.S. Dismantles DanaBot Malware Network, Charges 16</td>
+<td>The Hacker News</td>
+<td>2025-05-23</td>
+<td><a href="https://thehackernews.com/2025/05/us-dismantles-danabot-malware-network.html" target="_blank" rel="noopener noreferrer">link</a></td>
+</tr>
+<tr>
+<td>[9]</td>
+<td>DanaBot botnet disrupted, QakBot leader indicted</td>
+<td>Help Net Security</td>
+<td>2025-05-23</td>
+<td><a href="https://www.helpnetsecurity.com/2025/05/23/operation-endgame-danabot-botnet-disrupted-qakbot-leader-indicted/" target="_blank" rel="noopener noreferrer">link</a></td>
 </tr>
 </tbody>
 </table></div>
-        <div class="en-block"><div class="callout callout-info"><div class="callout-title">ℹ️ Stub
-Auto-created to resolve a wikilink from an enriched source page. Needs full research and ingestion via <code>/ic-pipeline</code>. The stub exists only to maintain link integrity.</div><div class="callout-body"></div></div>
-<h2 id="summary"><span class="heading-ko">개요</span><span class="heading-en">Summary</span></h2>
-<p>(To be researched.)</p>
+        <div class="en-block"><h2 id="summary"><span class="heading-ko">개요</span><span class="heading-en">Summary</span></h2>
+<p><strong>Operation Endgame</strong> is the <strong>largest-ever international law enforcement operation against botnets and the ransomware-enabling malware ecosystem</strong>. Launched in May 2024 and still ongoing as of 2026, the operation has been conducted in multiple phases coordinated by <a href="../../wiki/organizations/europol-ec3.html" class="wikilink">Europol</a> and <a href="../../wiki/organizations/eurojust.html" class="wikilink">Eurojust</a>, with participation from law enforcement agencies across at least 15 countries.</p>
+<p>The operation's strategic innovation lies in targeting <strong>dropper and loader malware</strong> — the initial-access infrastructure that ransomware operators depend on — rather than pursuing ransomware groups directly. By disrupting the upstream supply chain, Operation Endgame has <em>almost certainly</em> degraded the operational capacity of multiple ransomware affiliates simultaneously.</p>
+<p>Across all phases (May 2024 through May 2025), Operation Endgame has resulted in:</p>
+<ul>
+<li><strong>9+ arrests</strong> and <strong>20+ international arrest warrants</strong></li>
+<li><strong>400+ servers</strong> seized or taken down</li>
+<li><strong>2,650+ domains</strong> seized or neutralized</li>
+<li><strong>EUR 21.2 million+</strong> in cryptocurrency seized</li>
+<li><strong>16 indictments</strong> (DanaBot operators) by the US DOJ</li>
+<li><strong>18 suspects</strong> added to the EU Most Wanted list</li>
+</ul>
+<p>For detailed accounts of individual phases, see <a href="../../wiki/operations/operation-endgame-phase1.html" class="wikilink">Phase 1 (May 2024)</a> and <a href="../../wiki/operations/operation-endgame-phase2.html" class="wikilink">Phase 2 (May 2025)</a>.</p>
 <h2 id="background"><span class="heading-ko">배경</span><span class="heading-en">Background</span></h2>
+<h3 id="the-dropperloader-ecosystem">The Dropper/Loader Ecosystem</h3>
+<p>Dropper malware (also called "loaders" or "initial access tools") forms the critical first stage of the ransomware attack chain. These programs are designed to surreptitiously install additional malware onto compromised systems, bypassing security measures and providing initial access that is then sold to or used by ransomware operators.</p>
+<p>The six malware families initially targeted — <strong>IcedID</strong>, <strong>SystemBC</strong>, <strong>Pikabot</strong>, <strong>Smokeloader</strong>, <strong>Bumblebee</strong>, and <strong>Trickbot</strong> — were connected to at least <strong>15 ransomware groups</strong>, including notorious operations such as BlackBasta, REvil, and Conti. The dropper ecosystem operates as a service model: operators maintain networks of infected computers and sell access to the highest bidder, typically ransomware affiliates.</p>
+<h3 id="strategic-rationale">Strategic Rationale</h3>
+<p>Prior to Operation Endgame, international ransomware enforcement typically targeted individual ransomware groups or their operators. Operation Endgame represented a strategic shift toward <strong>supply-chain disruption</strong>: by taking down the dropper infrastructure that multiple ransomware groups depend on, law enforcement could degrade numerous criminal operations simultaneously. This approach <em>likely</em> provides a greater force-multiplier effect per unit of enforcement effort.</p>
+<h3 id="investigation-origins">Investigation Origins</h3>
+<p>The investigation was initiated and led by <strong>France</strong>, <strong>Germany</strong>, and the <strong>Netherlands</strong>, with coordination from <a href="../../wiki/organizations/europol-ec3.html" class="wikilink">Europol</a> and <a href="../../wiki/organizations/eurojust.html" class="wikilink">Eurojust</a>. The <a href="../../wiki/organizations/germany-bka.html" class="wikilink">German Federal Criminal Police Office (BKA)</a> and the <a href="../../wiki/organizations/germany-frankfurt-prosecutor.html" class="wikilink">Central Office for the Fight against Cyber Crime (ZIT)</a> at the Frankfurt Public Prosecutor General's Office played a central role in the investigation phase, particularly in matching digital identities from seized databases to real individuals — a forensic process that took months.</p>
 <h2 id="participating-parties"><span class="heading-ko">참여 기관</span><span class="heading-en">Participating Parties</span></h2>
+<h3 id="coordinating-bodies">Coordinating Bodies</h3>
+<table>
+<thead>
+<tr>
+<th>Body</th>
+<th>Role</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><a href="../../wiki/organizations/europol-ec3.html" class="wikilink">Europol EC3</a></td>
+<td>Operational coordination; hosted command posts at HQ</td>
+</tr>
+<tr>
+<td><a href="../../wiki/organizations/eurojust.html" class="wikilink">Eurojust</a></td>
+<td>Judicial coordination for arrest warrants and seizure orders</td>
+</tr>
+</tbody>
+</table>
+<h3 id="participating-countries">Participating Countries</h3>
+<p><strong>Core partners (all phases):</strong> <a href="../../wiki/countries/denmark.html" class="wikilink">denmark</a>, <a href="../../wiki/countries/france.html" class="wikilink">france</a>, <a href="../../wiki/countries/germany.html" class="wikilink">germany</a>, <a href="../../wiki/countries/netherlands.html" class="wikilink">netherlands</a>, <a href="../../wiki/countries/united-kingdom.html" class="wikilink">united-kingdom</a>, <a href="../../wiki/countries/united-states.html" class="wikilink">united-states</a></p>
+<p><strong>Phase 1 supporting countries:</strong> <a href="../../wiki/countries/armenia.html" class="wikilink">armenia</a>, <a href="../../wiki/countries/australia.html" class="wikilink">australia</a>, <a href="../../wiki/countries/bulgaria.html" class="wikilink">bulgaria</a>, <a href="../../wiki/countries/lithuania.html" class="wikilink">lithuania</a>, <a href="../../wiki/countries/portugal.html" class="wikilink">portugal</a>, <a href="../../wiki/countries/romania.html" class="wikilink">romania</a>, <a href="../../wiki/countries/switzerland.html" class="wikilink">switzerland</a>, <a href="../../wiki/countries/ukraine.html" class="wikilink">ukraine</a></p>
+<p><strong>Phase 2 additional countries:</strong> <a href="../../wiki/countries/canada.html" class="wikilink">canada</a></p>
+<h3 id="participating-agencies">Participating Agencies</h3>
+<table>
+<thead>
+<tr>
+<th>Country</th>
+<th>Agency</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>International</td>
+<td><a href="../../wiki/organizations/europol-ec3.html" class="wikilink">Europol</a>, <a href="../../wiki/organizations/eurojust.html" class="wikilink">Eurojust</a></td>
+</tr>
+<tr>
+<td>Australia</td>
+<td><a href="../../wiki/organizations/australia-afp.html" class="wikilink">AFP</a></td>
+</tr>
+<tr>
+<td>Armenia</td>
+<td><a href="../../wiki/organizations/armenia-police.html" class="wikilink">Armenian Police</a></td>
+</tr>
+<tr>
+<td>Belgium</td>
+<td><a href="../../wiki/organizations/belgium-federal-police.html" class="wikilink">Federal Police</a></td>
+</tr>
+<tr>
+<td>Bulgaria</td>
+<td><a href="../../wiki/organizations/bulgaria-police.html" class="wikilink">Bulgarian Police</a></td>
+</tr>
+<tr>
+<td>Canada</td>
+<td><a href="../../wiki/organizations/canada-rcmp.html" class="wikilink">RCMP</a></td>
+</tr>
+<tr>
+<td>Denmark</td>
+<td><a href="../../wiki/organizations/denmark-police.html" class="wikilink">Danish Police</a></td>
+</tr>
+<tr>
+<td>France</td>
+<td><a href="../../wiki/organizations/france-national-police.html" class="wikilink">National Police</a>, <a href="../../wiki/organizations/france-gendarmerie.html" class="wikilink">Gendarmerie</a>, <a href="../../wiki/organizations/france-junalco.html" class="wikilink">JUNALCO</a></td>
+</tr>
+<tr>
+<td>Germany</td>
+<td><a href="../../wiki/organizations/germany-bka.html" class="wikilink">BKA</a>, <a href="../../wiki/organizations/germany-lka.html" class="wikilink">LKA</a>, <a href="../../wiki/organizations/germany-frankfurt-prosecutor.html" class="wikilink">ZIT Frankfurt</a></td>
+</tr>
+<tr>
+<td>Lithuania</td>
+<td><a href="../../wiki/organizations/lithuania-police.html" class="wikilink">Lithuanian Police</a></td>
+</tr>
+<tr>
+<td>Netherlands</td>
+<td><a href="../../wiki/organizations/netherlands-politie.html" class="wikilink">Politie</a></td>
+</tr>
+<tr>
+<td>Portugal</td>
+<td><a href="../../wiki/organizations/portugal-police.html" class="wikilink">Portuguese Police</a></td>
+</tr>
+<tr>
+<td>Romania</td>
+<td><a href="../../wiki/organizations/romania-police.html" class="wikilink">Romanian Police</a></td>
+</tr>
+<tr>
+<td>Switzerland</td>
+<td><a href="../../wiki/organizations/switzerland-fedpol.html" class="wikilink">Fedpol</a></td>
+</tr>
+<tr>
+<td>Ukraine</td>
+<td><a href="../../wiki/organizations/ukraine-police.html" class="wikilink">Ukrainian Police</a></td>
+</tr>
+<tr>
+<td>United Kingdom</td>
+<td><a href="../../wiki/organizations/uk-nca.html" class="wikilink">NCA</a></td>
+</tr>
+<tr>
+<td>United States</td>
+<td><a href="../../wiki/organizations/fbi-cyber-division.html" class="wikilink">FBI</a>, <a href="../../wiki/organizations/us-doj.html" class="wikilink">DOJ</a>, <a href="../../wiki/organizations/us-secret-service.html" class="wikilink">Secret Service</a>, <a href="../../wiki/organizations/us-dcis.html" class="wikilink">DCIS</a></td>
+</tr>
+</tbody>
+</table>
+<h3 id="private-sector-partners">Private Sector Partners</h3>
+<p>Multiple private-sector cybersecurity companies provided technical support, including threat intelligence and infrastructure identification. Microsoft participated in the Lumma Stealer disruption that ran concurrently with Phase 2, identifying 394,000 infected Windows machines between March and May 2025.</p>
+<h2 id="legal-framework"><span class="heading-ko">법적 근거</span><span class="heading-en">Legal Framework</span></h2>
+<p>The operation involved law enforcement and judicial authorities from at least 15 countries. The legal framework <em>likely</em> relied on several instruments:</p>
+<ul>
+<li><strong><a href="../../wiki/legal-frameworks/budapest-convention.html" class="wikilink">Budapest Convention on Cybercrime</a></strong> — provides the primary treaty framework for cross-border cybercrime cooperation among the participating states, all of which are parties or have cooperative arrangements</li>
+<li><strong><a href="../../wiki/mechanisms/joint-investigation-team.html" class="wikilink">Joint Investigation Teams (JITs)</a></strong> — formal JITs were established through <a href="../../wiki/organizations/eurojust.html" class="wikilink">Eurojust</a> to enable multi-jurisdictional investigation and evidence sharing</li>
+<li><strong>European Arrest Warrants</strong> — used for the 10 arrest warrants issued by German authorities in Phase 1 and the 20 international arrest warrants in Phase 2</li>
+<li><strong>National criminal law</strong> — arrests in Armenia and Ukraine were executed under domestic legal authority with international coordination</li>
+<li><strong>US federal law</strong> — the 16-count indictment against DanaBot operators was filed under US computer fraud and related statutes</li>
+</ul>
+<div class="callout callout-warning"><div class="callout-title">⚠️ Legal status check needed
+The specific treaty provisions invoked for cross-border server seizures (e.g., whether <a href="../../wiki/legal-frameworks/second-additional-protocol.html" class="wikilink">Second Additional Protocol</a> provisions on direct cooperation with service providers were used) require confirmation from official judicial sources.</div><div class="callout-body"></div></div>
+<h2 id="operational-timeline"><span class="heading-ko">작전 타임라인</span><span class="heading-en">Operational Timeline</span></h2>
+<h3 id="phase-1-dropper-takedown-may-2024">Phase 1: Dropper Takedown (May 2024)</h3>
+<table>
+<thead>
+<tr>
+<th>Date</th>
+<th>Event</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Pre-2024</td>
+<td>Multi-country investigation phase; digital forensics to identify operators</td>
+</tr>
+<tr>
+<td>2024-05-27</td>
+<td>Action days begin</td>
+</tr>
+<tr>
+<td>2024-05-27 to 2024-05-29</td>
+<td>100+ servers taken down across 10 countries; 2,000+ domains seized; 4 arrests (1 Armenia, 3 Ukraine); 16 location searches; 99 crypto wallets blocked</td>
+</tr>
+<tr>
+<td>2024-05-30</td>
+<td>Public announcement by Europol; 8 German suspects added to EU Most Wanted list</td>
+</tr>
+</tbody>
+</table>
+<p>See <a href="../../wiki/operations/operation-endgame-phase1.html" class="wikilink">operation-endgame-phase1</a> for full details.</p>
+<h3 id="smokeloader-customer-follow-up-april-2025">Smokeloader Customer Follow-up (April 2025)</h3>
+<table>
+<thead>
+<tr>
+<th>Date</th>
+<th>Event</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>2024-05 to 2025-04</td>
+<td>BKA and partners analyze seized Smokeloader customer database, linking online aliases to real identities</td>
+</tr>
+<tr>
+<td>2025-04-09</td>
+<td>Europol announces follow-up: 5 customers of the Smokeloader pay-per-install botnet (operated by actor "Superstar") detained or subjected to "knock-and-talk" interviews</td>
+</tr>
+<tr>
+<td>2025-04</td>
+<td>Additional server takedowns related to Smokeloader infrastructure</td>
+</tr>
+</tbody>
+</table>
+<p>This phase marked a shift from targeting <strong>suppliers</strong> (infrastructure operators) to targeting the <strong>demand side</strong> (customers who purchased botnet access for criminal purposes). Some detained suspects cooperated with law enforcement and allowed examination of their digital devices.</p>
+<h3 id="phase-2-ransomware-kill-chain-disruption-may-2025">Phase 2: Ransomware Kill Chain Disruption (May 2025)</h3>
+<table>
+<thead>
+<tr>
+<th>Date</th>
+<th>Event</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>2025-05-19</td>
+<td>Phase 2 action days begin</td>
+</tr>
+<tr>
+<td>2025-05-19 to 2025-05-22</td>
+<td>300 servers taken down; 650 domains neutralized; EUR 3.5M cryptocurrency seized</td>
+</tr>
+<tr>
+<td>2025-05-23</td>
+<td>Public announcement by Europol and Eurojust; DOJ unseals 16-count indictment against DanaBot operators; 20 international arrest warrants issued; 18 suspects added to EU Most Wanted</td>
+</tr>
+</tbody>
+</table>
+<p>Phase 2 expanded the target set to include <strong>Bumblebee, Lactrodectus, Qakbot, Hijackloader, DanaBot, Trickbot, and Warmcookie</strong>. The US DOJ charged 16 Russian nationals, including Aleksandr Stepanov (39) and Artem Kalinkin (34), both of Novosibirsk, Russia, for operating the DanaBot malware network that infected 300,000+ computers and caused an estimated USD 50 million+ in damages.</p>
+<p>See <a href="../../wiki/operations/operation-endgame-phase2.html" class="wikilink">operation-endgame-phase2</a> for full details.</p>
 <h2 id="results-and-impact"><span class="heading-ko">결과 및 영향</span><span class="heading-en">Results and Impact</span></h2>
+<h3 id="cumulative-results-across-all-phases">Cumulative Results Across All Phases</h3>
+<table>
+<thead>
+<tr>
+<th>Metric</th>
+<th>Phase 1 (May 2024)</th>
+<th>Smokeloader Follow-up (Apr 2025)</th>
+<th>Phase 2 (May 2025)</th>
+<th>Cumulative</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Arrests/Detentions</td>
+<td>4</td>
+<td>5</td>
+<td>0</td>
+<td>9</td>
+</tr>
+<tr>
+<td>Servers seized/taken down</td>
+<td>100+</td>
+<td>Additional</td>
+<td>300</td>
+<td>400+</td>
+</tr>
+<tr>
+<td>Domains seized/neutralized</td>
+<td>2,000+</td>
+<td>—</td>
+<td>650</td>
+<td>2,650+</td>
+</tr>
+<tr>
+<td>Cryptocurrency seized</td>
+<td>EUR 69M blocked (suspect assets)</td>
+<td>—</td>
+<td>EUR 3.5M</td>
+<td>EUR 21.2M+ (enforcement total)</td>
+</tr>
+<tr>
+<td>Arrest warrants</td>
+<td>10</td>
+<td>—</td>
+<td>20</td>
+<td>30+</td>
+</tr>
+<tr>
+<td>EU Most Wanted</td>
+<td>8</td>
+<td>—</td>
+<td>18</td>
+<td>26</td>
+</tr>
+<tr>
+<td>Indictments</td>
+<td>—</td>
+<td>—</td>
+<td>16 (DanaBot)</td>
+<td>16</td>
+</tr>
+<tr>
+<td>Malware families targeted</td>
+<td>6</td>
+<td>1</td>
+<td>7</td>
+<td>13</td>
+</tr>
+</tbody>
+</table>
+<h3 id="malware-families-disrupted">Malware Families Disrupted</h3>
+<table>
+<thead>
+<tr>
+<th>Malware</th>
+<th>Type</th>
+<th>Phase Targeted</th>
+<th>Connection to Ransomware</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>IcedID</td>
+<td>Banking trojan / loader</td>
+<td>Phase 1</td>
+<td>Initial access for ransomware groups</td>
+</tr>
+<tr>
+<td>SystemBC</td>
+<td>Proxy / backdoor</td>
+<td>Phase 1</td>
+<td>C2 communication for ransomware</td>
+</tr>
+<tr>
+<td>Pikabot</td>
+<td>Loader</td>
+<td>Phase 1</td>
+<td>Successor to Qakbot; initial access</td>
+</tr>
+<tr>
+<td>Smokeloader</td>
+<td>Pay-per-install loader</td>
+<td>Phase 1 + Follow-up</td>
+<td>Distribution platform for varied payloads</td>
+</tr>
+<tr>
+<td>Bumblebee</td>
+<td>Loader</td>
+<td>Phase 1 + Phase 2</td>
+<td>Initial access for Conti/BlackBasta affiliates</td>
+</tr>
+<tr>
+<td>Trickbot</td>
+<td>Banking trojan / loader</td>
+<td>Phase 1 + Phase 2</td>
+<td>Initial access; linked to Conti ecosystem</td>
+</tr>
+<tr>
+<td>DanaBot</td>
+<td>Banking trojan / botnet</td>
+<td>Phase 2</td>
+<td>Credential theft; ransomware deployment</td>
+</tr>
+<tr>
+<td>Qakbot</td>
+<td>Banking trojan / loader</td>
+<td>Phase 2</td>
+<td>Initial access; operator indicted</td>
+</tr>
+<tr>
+<td>Lactrodectus</td>
+<td>Loader</td>
+<td>Phase 2</td>
+<td>IcedID successor</td>
+</tr>
+<tr>
+<td>Hijackloader</td>
+<td>Loader</td>
+<td>Phase 2</td>
+<td>Multi-stage payload delivery</td>
+</tr>
+<tr>
+<td>Warmcookie</td>
+<td>Loader</td>
+<td>Phase 2</td>
+<td>Initial access via phishing</td>
+</tr>
+<tr>
+<td>Rhadamanthys</td>
+<td>Info-stealer</td>
+<td>Phase 2</td>
+<td>Credential theft enabling ransomware</td>
+</tr>
+</tbody>
+</table>
+<h3 id="financial-impact">Financial Impact</h3>
+<p>One of the primary suspects identified during Phase 1 had earned at least <strong>EUR 69 million in cryptocurrency</strong> from renting out criminal infrastructure used to deploy ransomware. An asset freeze of EUR 69 million was obtained, and 99 crypto wallets with a total volume of over EUR 70 million were blocked at various cryptocurrency exchanges.</p>
+<p>Across all enforcement actions, total seizures exceeded <strong>EUR 21.2 million</strong> (approximately USD 24 million). The US DOJ also filed a forfeiture complaint for USD 24 million in digital assets seized from the Qakbot operator Gallyamov (see <a href="../../wiki/operations/qakbot-gallyamov-indictment.html" class="wikilink">qakbot-gallyamov-indictment</a>), plus approximately USD 4 million in additional Bitcoin and USDT tokens.</p>
+<h3 id="impact-on-ransomware-ecosystem">Impact on Ransomware Ecosystem</h3>
+<p>The operation <em>likely</em> had significant disruptive effects on the ransomware ecosystem, though quantifying the precise impact remains difficult:</p>
+<ul>
+<li>Multiple ransomware affiliates lost their primary initial-access channels simultaneously</li>
+<li>The "pay-per-install" business model was disrupted, forcing criminal actors to rebuild infrastructure</li>
+<li>Customer databases seized enabled law enforcement to pursue demand-side actors, creating a chilling effect on future botnet service purchases</li>
+<li>However, some malware families (notably DanaBot) showed signs of reconstituting infrastructure after the takedowns, indicating that sustained enforcement pressure is required</li>
+</ul>
+<h2 id="cooperation-mechanisms-used"><span class="heading-ko">활용된 공조 메커니즘</span><span class="heading-en">Cooperation Mechanisms Used</span></h2>
+<h3 id="europol-command-post">Europol Command Post</h3>
+<p>Europol hosted on-site command posts at its headquarters in The Hague during both Phase 1 and Phase 2 action weeks. During Phase 1, more than 20 officers from Denmark, France, Germany, the Netherlands, and the United States were present for real-time coordination. This enabled:</p>
+<ul>
+<li>Synchronized server takedowns across multiple time zones</li>
+<li>Rapid decision-making when unexpected situations arose during action days</li>
+<li>Real-time intelligence sharing between participating agencies</li>
+</ul>
+<h3 id="eurojust-judicial-coordination">Eurojust Judicial Coordination</h3>
+<p><a href="../../wiki/organizations/eurojust.html" class="wikilink">Eurojust</a> provided judicial coordination for:</p>
+<ul>
+<li>Multi-jurisdictional arrest warrants (10 in Phase 1, 20 in Phase 2)</li>
+<li>Cross-border evidence preservation and transfer orders</li>
+<li>Coordination of seizure orders across different legal systems</li>
+<li>Facilitation of mutual legal assistance between participating states</li>
+</ul>
+<h3 id="joint-investigation-teams">Joint Investigation Teams</h3>
+<p>Formal <a href="../../wiki/mechanisms/joint-investigation-team.html" class="wikilink">Joint Investigation Teams (JITs)</a> were established to enable multi-jurisdictional investigation. The JIT framework, facilitated by Eurojust, allowed investigators from different countries to share evidence and coordinate actions within a unified legal framework, avoiding the delays typically associated with formal <a href="../../wiki/mechanisms/mlat-process.html" class="wikilink">MLAT requests</a>.</p>
+<h3 id="database-exploitation">Database Exploitation</h3>
+<p>A particularly notable mechanism was the <strong>exploitation of seized databases</strong> for follow-up enforcement. The Smokeloader customer database seized during Phase 1 was systematically analyzed by <a href="../../wiki/organizations/germany-bka.html" class="wikilink">BKA</a> investigators who spent months matching online aliases and usernames to real-world identities. This intelligence was then shared with law enforcement partners across multiple countries, enabling the April 2025 demand-side enforcement wave.</p>
+<h3 id="eu-most-wanted-list">EU Most Wanted List</h3>
+<p>The addition of suspects to Europol's <strong>EU Most Wanted</strong> list (8 in Phase 1, 18 in Phase 2) served as both a public awareness mechanism and a tool for international fugitive tracking, increasing the likelihood of identification and arrest when suspects travel.</p>
+<h2 id="challenges-and-friction-points"><span class="heading-ko">과제 및 마찰 요인</span><span class="heading-en">Challenges and Friction Points</span></h2>
+<h3 id="jurisdictional-complexity">Jurisdictional Complexity</h3>
+<p>The operation required coordination across at least 15 countries with different legal systems, procedural requirements, and evidentiary standards. Synchronized action days required meticulous pre-planning to ensure that all participants could execute their assigned tasks within their respective legal frameworks.</p>
+<h3 id="russian-based-suspects">Russian-Based Suspects</h3>
+<p>Many of the identified suspects, including the 16 DanaBot operators indicted by the US DOJ, are based in Russia. Given the current geopolitical situation and the absence of extradition cooperation with Russia, these suspects remain effectively beyond the reach of law enforcement. The international arrest warrants and EU Most Wanted listings create a legal framework for arrest if suspects travel to cooperating jurisdictions, but direct enforcement in Russia is <em>highly unlikely</em>.</p>
+<h3 id="infrastructure-reconstitution">Infrastructure Reconstitution</h3>
+<p>Some targeted malware families showed signs of reconstituting operations after the takedowns. DanaBot, in particular, resurfaced with new infrastructure, suggesting that infrastructure takedowns alone — without arresting the operators — provide only temporary disruption. This underscores the need for sustained, multi-phase campaigns rather than one-off actions.</p>
+<h3 id="demand-side-enforcement-scale">Demand-Side Enforcement Scale</h3>
+<p>While the Smokeloader customer follow-up (5 detentions) demonstrated the feasibility of demand-side enforcement, the scale of the botnet customer base <em>almost certainly</em> far exceeds law enforcement capacity to pursue every user. Prioritization and deterrence effects are key considerations.</p>
+<h2 id="lessons-learned"><span class="heading-ko">교훈</span><span class="heading-en">Lessons Learned</span></h2>
+<ol>
+<li>
+<p><strong>Supply-chain disruption as force multiplier:</strong> Targeting dropper/loader infrastructure disrupts multiple ransomware operations simultaneously. This upstream approach <em>almost certainly</em> provides greater impact per unit of enforcement effort than targeting individual ransomware groups.</p>
+</li>
+<li>
+<p><strong>Multi-phase sustained campaigns:</strong> The progression from Phase 1 (May 2024) through the Smokeloader follow-up (April 2025) to Phase 2 (May 2025) demonstrates that sustained campaigns compound pressure on criminal ecosystems. Criminal actors face continuous uncertainty about which infrastructure will be targeted next.</p>
+</li>
+<li>
+<p><strong>Demand-side enforcement:</strong> The Smokeloader customer arrests marked a strategic expansion from supply-side (infrastructure operators) to demand-side (service purchasers) enforcement. This "whole ecosystem" approach sends a deterrent message that purchasing botnet services carries real arrest risk.</p>
+</li>
+<li>
+<p><strong>Database intelligence exploitation:</strong> Seized infrastructure databases are not just evidence for ongoing cases — they are intelligence assets that enable entirely new lines of investigation. The months-long BKA effort to de-anonymize Smokeloader customers illustrates the long-term investigative value of infrastructure seizures.</p>
+</li>
+<li>
+<p><strong>Real-time coordination infrastructure:</strong> Europol command posts with 20+ officers from multiple countries enable the kind of synchronized, multi-timezone action that infrastructure takedowns require. This institutional capability is <em>almost certainly</em> essential for operations at this scale.</p>
+</li>
+</ol>
+<h2 id="follow-up-actions"><span class="heading-ko">후속 조치</span><span class="heading-en">Follow-Up Actions</span></h2>
+<ul>
+<li><strong>Ongoing investigation:</strong> Europol has stated explicitly that Operation Endgame is not concluded and further enforcement phases are planned.</li>
+<li><strong>Fugitive pursuit:</strong> The 30+ international arrest warrants and 26 EU Most Wanted listings create a persistent legal framework for future arrests when suspects travel to cooperating jurisdictions.</li>
+<li><strong>DanaBot reconstitution monitoring:</strong> The resurfacing of DanaBot with new infrastructure after the Phase 2 takedown <em>likely</em> requires continued monitoring and potential further enforcement action.</li>
+<li><strong>Related proceedings:</strong> The <a href="../../wiki/operations/qakbot-gallyamov-indictment.html" class="wikilink">Qakbot/Gallyamov indictment</a> and associated asset forfeiture proceedings are ongoing in US courts.</li>
+</ul>
+<h2 id="korean-involvement">Korean Involvement (한국의 참여)</h2>
+<p>No direct Korean involvement in any phase of Operation Endgame has been identified as of April 2026. South Korea was not among the participating countries in either Phase 1 or Phase 2.</p>
+<p>However, Operation Endgame is relevant to Korean cybersecurity interests in several respects:</p>
+<ul>
+<li><strong>Ransomware impact:</strong> The dropper malware families targeted by Operation Endgame have been used globally, and South Korean organizations have been victims of ransomware deployed through these initial-access channels</li>
+<li><strong>Cooperation model:</strong> The operation provides a model for the kind of multi-lateral, Europol-coordinated enforcement action that South Korea could participate in through its growing engagement with European law enforcement (사이버범죄 국제공조 모델로서의 참고 가치)</li>
+<li><strong>Budapest Convention participation:</strong> As South Korea continues to engage with the <a href="../../wiki/legal-frameworks/budapest-convention.html" class="wikilink">Budapest Convention</a> framework, participation in future phases of operations like Endgame could strengthen Korea's role in international cybercrime enforcement</li>
+</ul>
+<h2 id="contradictions-open-questions"><span class="heading-ko">모순점 및 미해결 문제</span><span class="heading-en">Contradictions &amp; Open Questions</span></h2>
+<ol>
+<li>
+<p><strong>Arrest count discrepancy:</strong> Some sources report 4 arrests in Phase 1 while the German BMI reports 4 "temporary detentions" — the distinction between formal arrest and temporary detention may reflect different legal frameworks across jurisdictions.</p>
+</li>
+<li>
+<p><strong>Financial figures:</strong> The relationship between the EUR 69 million in suspect cryptocurrency holdings (Phase 1), the EUR 70 million in blocked crypto wallets, and the EUR 21.2 million cumulative enforcement seizure total is not fully clear. The EUR 69M/70M figures may represent identified assets subject to freeze orders, while EUR 21.2M represents actually seized/forfeited funds.</p>
+</li>
+<li>
+<p><strong>DanaBot source verification:</strong> The 16 DanaBot indictments and 300,000 infection figure originate primarily from news reporting (Tier 3 sources). Official DOJ indictment text would provide definitive confirmation.</p>
+</li>
+<li>
+<p><strong>Reconstitution rates:</strong> How quickly and effectively have the targeted malware families reconstituted after each phase? DanaBot has reportedly resurfaced, but systematic assessment of reconstitution across all 13 targeted families is lacking.</p>
+</li>
+<li>
+<p><strong>Measurable ransomware impact:</strong> What was the quantifiable effect on global ransomware deployment rates following each phase? No systematic assessment has been publicly released.</p>
+</li>
+<li>
+<p><strong>Phase 1 server locations:</strong> Servers were seized in Bulgaria, Canada, Germany, Lithuania, the Netherlands, Romania, Switzerland, the United Kingdom, United States, and Ukraine — but the distribution across countries has not been specified in detail.</p>
+</li>
+</ol>
 <h2 id="references"><span class="heading-ko">참고문헌</span><span class="heading-en">References</span></h2>
 <table>
 <thead>
 <tr>
 <th>#</th>
-<th>Source</th>
+<th>Title</th>
 <th>Publisher</th>
 <th>Date</th>
 <th>URL</th>
@@ -116,11 +1094,67 @@ Auto-created to resolve a wikilink from an enriched source page. Needs full rese
 </thead>
 <tbody>
 <tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td>[1]</td>
+<td>Largest ever operation against botnets hits dropper malware ecosystem</td>
+<td>Europol</td>
+<td>2024-05-30</td>
+<td><a href="https://www.europol.europa.eu/media-press/newsroom/news/largest-ever-operation-against-botnets-hits-dropper-malware-ecosystem" target="_blank" rel="noopener noreferrer">link</a></td>
+</tr>
+<tr>
+<td>[2]</td>
+<td>Operation Endgame: Coordinated Worldwide Law Enforcement Action Against Network of Cybercriminals</td>
+<td>FBI</td>
+<td>2024-05-29</td>
+<td><a href="https://www.fbi.gov/news/press-releases/operation-endgame-coordinated-worldwide-law-enforcement-action-against-network-of-cybercriminals" target="_blank" rel="noopener noreferrer">link</a></td>
+</tr>
+<tr>
+<td>[3]</td>
+<td>Worldwide investigation against cyber crime crowned by success</td>
+<td>German BMI</td>
+<td>2024-05-30</td>
+<td><a href="https://www.bmi.bund.de/SharedDocs/kurzmeldungen/EN/2024/05/endgame.html" target="_blank" rel="noopener noreferrer">link</a></td>
+</tr>
+<tr>
+<td>[4]</td>
+<td>Operation Endgame follow-up leads to five detentions and interrogations as well as server takedowns</td>
+<td>Europol</td>
+<td>2025-04-09</td>
+<td><a href="https://www.europol.europa.eu/media-press/newsroom/news/operation-endgame-follow-leads-to-five-detentions-and-interrogations-well-server-takedowns" target="_blank" rel="noopener noreferrer">link</a></td>
+</tr>
+<tr>
+<td>[5]</td>
+<td>Operation ENDGAME strikes again: the ransomware kill chain broken at its source</td>
+<td>Europol</td>
+<td>2025-05-23</td>
+<td><a href="https://www.europol.europa.eu/media-press/newsroom/news/operation-endgame-strikes-again-ransomware-kill-chain-broken-its-source" target="_blank" rel="noopener noreferrer">link</a></td>
+</tr>
+<tr>
+<td>[6]</td>
+<td>Operation Endgame — official page</td>
+<td>Europol</td>
+<td>ongoing</td>
+<td><a href="https://www.europol.europa.eu/operations-services-and-innovation/operations/operation-endgame" target="_blank" rel="noopener noreferrer">link</a></td>
+</tr>
+<tr>
+<td>[7]</td>
+<td>'Operation Endgame' Hits Malware Delivery Platforms</td>
+<td>KrebsOnSecurity</td>
+<td>2024-05-30</td>
+<td><a href="https://krebsonsecurity.com/2024/05/operation-endgame-hits-malware-delivery-platforms/" target="_blank" rel="noopener noreferrer">link</a></td>
+</tr>
+<tr>
+<td>[8]</td>
+<td>U.S. Dismantles DanaBot Malware Network, Charges 16</td>
+<td>The Hacker News</td>
+<td>2025-05-23</td>
+<td><a href="https://thehackernews.com/2025/05/us-dismantles-danabot-malware-network.html" target="_blank" rel="noopener noreferrer">link</a></td>
+</tr>
+<tr>
+<td>[9]</td>
+<td>DanaBot botnet disrupted, QakBot leader indicted</td>
+<td>Help Net Security</td>
+<td>2025-05-23</td>
+<td><a href="https://www.helpnetsecurity.com/2025/05/23/operation-endgame-danabot-botnet-disrupted-qakbot-leader-indicted/" target="_blank" rel="noopener noreferrer">link</a></td>
 </tr>
 </tbody>
 </table></div>
@@ -158,7 +1192,7 @@ Auto-created to resolve a wikilink from an enriched source page. Needs full rese
           </th>
           <td>
             
-              to-be-researched
+              ongoing
             
           </td>
         </tr>
@@ -170,7 +1204,103 @@ Auto-created to resolve a wikilink from an enriched source page. Needs full rese
           </th>
           <td>
             
-              botnet-takedown
+              takedown
+            
+          </td>
+        </tr>
+        
+        <tr>
+          <th>
+            <span class="heading-ko">기간</span>
+            <span class="heading-en">Period</span>
+          </th>
+          <td>
+            
+              announced: 2024-05-30, start: 2024-05-27, ongoing: True
+            
+          </td>
+        </tr>
+        
+        <tr>
+          <th>
+            <span class="heading-ko">주도기관</span>
+            <span class="heading-en">Lead Agency</span>
+          </th>
+          <td>
+            
+              [[europol-ec3]]
+            
+          </td>
+        </tr>
+        
+        <tr>
+          <th>
+            <span class="heading-ko">범죄유형</span>
+            <span class="heading-en">Crime Type</span>
+          </th>
+          <td>
+            
+              [[ransomware-ic]]
+            
+          </td>
+        </tr>
+        
+        <tr>
+          <th>
+            <span class="heading-ko">체포</span>
+            <span class="heading-en">Arrests</span>
+          </th>
+          <td>
+            
+              9
+            
+          </td>
+        </tr>
+        
+        <tr>
+          <th>
+            <span class="heading-ko">서버 압수</span>
+            <span class="heading-en">Servers Seized</span>
+          </th>
+          <td>
+            
+              400
+            
+          </td>
+        </tr>
+        
+        <tr>
+          <th>
+            <span class="heading-ko">도메인 압수</span>
+            <span class="heading-en">Domains Seized</span>
+          </th>
+          <td>
+            
+              2650
+            
+          </td>
+        </tr>
+        
+        <tr>
+          <th>
+            <span class="heading-ko">암호화폐 압수</span>
+            <span class="heading-en">Crypto Seized</span>
+          </th>
+          <td>
+            
+              EUR 21.2 million+ (cumulative across all phases)
+            
+          </td>
+        </tr>
+        
+        <tr>
+          <th>
+            <span class="heading-ko">출처 수</span>
+            <span class="heading-en">Sources</span>
+          </th>
+          <td>
+            
+              9
             
           </td>
         </tr>
@@ -295,8 +1425,8 @@ Auto-created to resolve a wikilink from an enriched source page. Needs full rese
 
   <div class="footer">
     <span class="i18n"
-      data-ko="사이버범죄 국제공조 위키 &mdash; LLM Wiki Pattern &mdash; 2026-04-10 기준 데이터"
-      data-en="Cybercrime International Cooperation Wiki &mdash; LLM Wiki Pattern &mdash; Data as of 2026-04-10">
+      data-ko="사이버범죄 국제공조 위키 &mdash; LLM Wiki Pattern &mdash; 2026-04-12 기준 데이터"
+      data-en="Cybercrime International Cooperation Wiki &mdash; LLM Wiki Pattern &mdash; Data as of 2026-04-12">
     </span>
   </div>
 

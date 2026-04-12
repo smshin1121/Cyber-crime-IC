@@ -1,0 +1,544 @@
+<!DOCTYPE html>
+<html lang="ko" class="lang-ko">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Ramnit Botnet Takedown — 사이버범죄 국제공조 위키</title>
+  <link rel="stylesheet" href="../../static/style.css">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link href="https://fonts.googleapis.com/css2?family=Noto+Sans+KR:wght@400;600;700&family=Noto+Serif+KR:wght@400;700&display=swap" rel="stylesheet">
+</head>
+<body>
+  <nav class="top-nav">
+    <div class="top-nav-inner">
+      <a href="../../" class="nav-logo">
+        <span class="i18n" data-ko="🌐 사이버범죄 국제공조 위키" data-en="🌐 Cybercrime IC Wiki"></span>
+      </a>
+      <div class="nav-links">
+        <a href="../../category/operations.html"><span class="i18n" data-ko="작전" data-en="Operations"></span></a>
+        <a href="../../category/organizations.html"><span class="i18n" data-ko="기관" data-en="Organizations"></span></a>
+        <a href="../../category/countries.html"><span class="i18n" data-ko="국가" data-en="Countries"></span></a>
+        <a href="../../category/legal-frameworks.html"><span class="i18n" data-ko="법적 프레임워크" data-en="Legal Frameworks"></span></a>
+        <a href="../../category/mechanisms.html"><span class="i18n" data-ko="메커니즘" data-en="Mechanisms"></span></a>
+        <a href="../../category/crime-types.html"><span class="i18n" data-ko="범죄유형" data-en="Crime Types"></span></a>
+        <a href="../../category/concepts.html"><span class="i18n" data-ko="개념" data-en="Concepts"></span></a>
+        <a href="../../category/sources.html"><span class="i18n" data-ko="출처" data-en="Sources"></span></a>
+        <a href="../../stats.html"><span class="i18n" data-ko="통계" data-en="Statistics"></span></a>
+      </div>
+      <form class="nav-search" action="../../search" method="get">
+        <input type="text" name="q" class="i18n-placeholder" data-ko="위키 검색..." data-en="Search wiki..." value="">
+        <button type="submit"><span class="i18n" data-ko="검색" data-en="Search"></span></button>
+      </form>
+      <button class="lang-toggle" id="langToggle" title="한국어/English">
+        <span class="lang-flag lang-flag-ko">🇰🇷 한</span>
+        <span class="lang-flag lang-flag-en">🇺🇸 EN</span>
+      </button>
+    </div>
+  </nav>
+
+  
+<div class="page-wrapper">
+  <main class="article">
+    <div class="article-header">
+      <h1>
+        
+          Ramnit Botnet Takedown
+        
+      </h1>
+      <div class="article-meta">
+        
+          <span class="badge">
+            <span class="i18n" data-ko="operation" data-en="operation"></span>
+          </span>
+        
+        
+          <span><a href="../../category/operations.html">
+            <span class="i18n"
+              data-ko="작전"
+              data-en="Operations"></span>
+          </a></span>
+        
+        
+          <span>
+            <span class="i18n" data-ko="최종 수정" data-en="Updated"></span>: 2026-04-10
+          </span>
+        
+        
+          <span>
+            <span class="i18n" data-ko="출처" data-en="Sources"></span>: 1<span class="i18n" data-ko="건" data-en=""></span>
+          </span>
+        
+      </div>
+    </div>
+    <div class="article-body">
+      
+        <div class="ko-block"><div class="callout callout-info"><div class="callout-title">ℹ️ Page corrected (2026-04-10)
+이 페이지는 원래 "Europol Botnet Takedown 2023"(<code>botnet-takedown-europol-2023.md</code>)으로 분류되었습니다. Europol 소스 URL의 콘텐츠 확인을 통해 이것이 실제로 <strong>2015년 2월 Ramnit 봇넷 게시 중단</strong>임을 확인했습니다. 페이지 이름이 바뀌고 모든 데이터가 수정되었습니다.</div><div class="callout-body"></div></div>
+<h2 id="_1">요약</h2>
+<p>2015년 2월 24일, <strong>영국 국립 범죄청(NCA)</strong>은 다국적 작전을 주도하여 <strong>전 세계적으로 약 320만 대의 컴퓨터</strong>를 감염시킨 <strong>Ramnit 봇넷</strong>을 제거했습니다. 이 작전은 <a href="../../wiki/countries/germany.html" class="wikilink">germany</a>, <a href="../../wiki/countries/italy.html" class="wikilink">italy</a> 및 <a href="../../wiki/countries/netherlands.html" class="wikilink">netherlands</a>의 법 집행 참여와 함께 <a href="../../wiki/organizations/europol-ec3.html" class="wikilink">Europol's European Cybercrime Centre (EC3)</a> 및 <a href="../../wiki/mechanisms/j-cat.html" class="wikilink">Joint Cybercrime Action Taskforce (J-CAT)</a>를 통해 조정되었습니다.</p>
+<p>Ramnit 악성 코드는 범죄자가 비밀번호를 포함한 개인 정보와 은행 정보를 훔치고 감염된 Windows 시스템에서 바이러스 백신 보호 기능을 비활성화할 수 있게 해주는 뱅킹 트로이 목마였습니다.</p>
+<h2 id="_2">배경</h2>
+<p>Ramnit은 2010년경에 처음 확인되었으며 단순한 파일 감염기에서 모든 기능을 갖춘 뱅킹 트로이 목마로 진화했습니다. 2015년에는 전 세계적으로 가장 널리 퍼진 봇넷 중 하나가 되었으며, 약 320만 건의 감염이 발생했습니다. 악성 코드는 일반적으로 스팸 이메일의 링크나 익스플로잇 킷으로의 리디렉션을 통해 사회 공학 공격을 통해 확산됩니다.</p>
+<h2 id="_3">참가 당사자</h2>
+<p><strong>주최 대행사</strong>: <a href="../../wiki/organizations/uk-nca.html" class="wikilink">UK National Crime Agency</a></p>
+<p><strong>법 집행 기관(4개국)</strong>:
+- <a href="../../wiki/countries/united-kingdom.html" class="wikilink">united-kingdom</a> — NCA (리드)
+- <a href="../../wiki/countries/germany.html" class="wikilink">germany</a> — BKA
+- <a href="../../wiki/countries/italy.html" class="wikilink">italy</a> — 이탈리아 법 집행 기관
+- <a href="../../wiki/countries/netherlands.html" class="wikilink">netherlands</a> — 네덜란드 국립첨단기술범죄수사대(NHTCU)</p>
+<p><strong>조정</strong>: <a href="../../wiki/organizations/europol-ec3.html" class="wikilink">Europol EC3</a>, <a href="../../wiki/organizations/eurojust.html" class="wikilink">eurojust</a>, <a href="../../wiki/mechanisms/j-cat.html" class="wikilink">J-CAT</a>, CERT-EU</p>
+<p><strong>민간 부문 파트너</strong>:
+- 마이크로소프트 — 기술적 분석
+- Symantec — 악성 코드 연구 및 싱크홀링
+- AnubisNetworks — 도메인 인텔리전스</p>
+<h2 id="_4">운영 타임라인</h2>
+<table>
+<thead>
+<tr>
+<th>Date</th>
+<th>Event</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>~2010</td>
+<td>Ramnit first observed as file infector</td>
+</tr>
+<tr>
+<td>2012-2014</td>
+<td>Evolution into banking trojan; infections reach millions</td>
+</tr>
+<tr>
+<td>2015-02-24</td>
+<td>Coordinated takedown: C&amp;C servers shut down, ~300 domains sinkholed</td>
+</tr>
+<tr>
+<td>2015-02-24</td>
+<td>Europol public announcement</td>
+</tr>
+</tbody>
+</table>
+<h2 id="_5">결과 및 영향</h2>
+<ul>
+<li><strong>~300개 인터넷 도메인 주소</strong> 압수/싱크홀 - 범죄 C&amp;C에서 법집행 싱크홀로 리디렉션됨</li>
+<li><strong>명령 및 제어 서버</strong>는 참여 국가 전체에서 종료됩니다.</li>
+<li><strong>320만 개의 감염된 컴퓨터</strong>가 범죄 지시를 수신하여 중단됨</li>
+<li>이 작전의 일환으로 <strong>체포자는 없음</strong>이 공개적으로 발표되었습니다.</li>
+</ul>
+<h2 id="_6">사용된 협력 메커니즘</h2>
+<ul>
+<li><a href="../../wiki/mechanisms/j-cat.html" class="wikilink">Joint Cybercrime Action Taskforce (J-CAT)</a> — Europol의 작전 조정 허브</li>
+<li><a href="../../wiki/organizations/europol-ec3.html" class="wikilink">Europol EC3</a> — 분석 및 조정 지원</li>
+<li><strong>민관 파트너십</strong>: Microsoft, Symantec, AnubisNetworks가 기술 인텔리전스 및 싱크홀 인프라 제공</li>
+</ul>
+<h2 id="_7">배운 교훈</h2>
+<ol>
+<li><strong>주요 중단으로서의 싱크홀링</strong>: 체포 없이 운영은 인프라 점유에 의존했습니다. 중단에는 효과적이지만 운영자는 자유롭게 재구축할 수 있습니다.</li>
+<li><strong>J-CAT 조정 모델</strong>: Ramnit는 헤이그에서 다국적 봇넷 제거를 조정하는 J-CAT의 능력을 초기에 선보였습니다.</li>
+<li><strong>PPP(공공 민간 파트너십)</strong>: Microsoft와 Symantec의 인텔리전스는 필수적이었습니다. 법 집행 기관만으로는 기술적 가시성이 부족했습니다.</li>
+</ol>
+<h2 id="_8">한국의 참여(한국의 참여)</h2>
+<p>이 작전에 한국인이 관여한 것으로 알려진 바는 없습니다. 그러나 한국에서는 Ramnit 감염이 보고되었으며, <a href="../../wiki/countries/south-korea.html" class="wikilink">south-korea</a>는 영향을 받은 시스템이 있는 190개 이상의 국가 중 하나였습니다.</p>
+<h2 id="_9">모순 및 공개 질문</h2>
+<ul>
+<li><strong>체포 없음</strong>: 규모(320만 감염)에도 불구하고 공개적으로 기소된 운영자는 없습니다. 후속 조사로 인해 체포가 이루어졌는지는 불분명합니다.</li>
+<li><strong>Ramnit 부활</strong>: 보안 연구원들은 Ramnit 활동이 게시 중단 후 몇 달 이내에 재개되었다고 보고했으며, 이로 인해 인프라 전용 중단의 장기적인 효과에 대한 의문이 제기되었습니다.</li>
+</ul>
+<h2 id="_10">참고자료</h2>
+<table>
+<thead>
+<tr>
+<th>#</th>
+<th>Source</th>
+<th>Publisher</th>
+<th>Date</th>
+<th>URL</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>[1]</td>
+<td>Botnet Taken Down Through International Law Enforcement Cooperation</td>
+<td>Europol</td>
+<td>2015-02-24</td>
+<td>https://www.europol.europa.eu/media-press/newsroom/news/botnet-taken-down-through-international-law-enforcement-cooperation</td>
+</tr>
+</tbody>
+</table></div>
+        <div class="en-block"><div class="callout callout-info"><div class="callout-title">ℹ️ Page corrected (2026-04-10)
+This page was originally filed as "Europol Botnet Takedown 2023" (<code>botnet-takedown-europol-2023.md</code>). Content verification of the Europol source URL confirmed this is actually the <strong>February 2015 Ramnit botnet takedown</strong>. Page renamed and all data corrected.</div><div class="callout-body"></div></div>
+<h2 id="summary"><span class="heading-ko">개요</span><span class="heading-en">Summary</span></h2>
+<p>On 24 February 2015, the <strong>UK National Crime Agency (NCA)</strong> led a multinational operation to take down the <strong>Ramnit botnet</strong>, which had infected approximately <strong>3.2 million computers worldwide</strong>. The operation was coordinated through <a href="../../wiki/organizations/europol-ec3.html" class="wikilink">Europol's European Cybercrime Centre (EC3)</a> and the <a href="../../wiki/mechanisms/j-cat.html" class="wikilink">Joint Cybercrime Action Taskforce (J-CAT)</a>, with law enforcement participation from <a href="../../wiki/countries/germany.html" class="wikilink">germany</a>, <a href="../../wiki/countries/italy.html" class="wikilink">italy</a>, and the <a href="../../wiki/countries/netherlands.html" class="wikilink">netherlands</a>.</p>
+<p>The Ramnit malware was a banking trojan that enabled criminals to steal personal and banking information, including passwords, and disable antivirus protection on infected Windows systems.</p>
+<h2 id="background"><span class="heading-ko">배경</span><span class="heading-en">Background</span></h2>
+<p>Ramnit was first identified around 2010 and evolved from a simple file infector into a full-featured banking trojan. By 2015 it had become one of the most prevalent botnets globally, with an estimated 3.2 million infections. The malware spread through social engineering attacks, typically via links in spam emails or redirects to exploit kits.</p>
+<h2 id="participating-parties"><span class="heading-ko">참여 기관</span><span class="heading-en">Participating Parties</span></h2>
+<p><strong>Lead Agency</strong>: <a href="../../wiki/organizations/uk-nca.html" class="wikilink">UK National Crime Agency</a></p>
+<p><strong>Law Enforcement (4 countries)</strong>:
+- <a href="../../wiki/countries/united-kingdom.html" class="wikilink">united-kingdom</a> — NCA (lead)
+- <a href="../../wiki/countries/germany.html" class="wikilink">germany</a> — BKA
+- <a href="../../wiki/countries/italy.html" class="wikilink">italy</a> — Italian law enforcement
+- <a href="../../wiki/countries/netherlands.html" class="wikilink">netherlands</a> — Dutch National High Tech Crime Unit (NHTCU)</p>
+<p><strong>Coordination</strong>: <a href="../../wiki/organizations/europol-ec3.html" class="wikilink">Europol EC3</a>, <a href="../../wiki/organizations/eurojust.html" class="wikilink">eurojust</a>, <a href="../../wiki/mechanisms/j-cat.html" class="wikilink">J-CAT</a>, CERT-EU</p>
+<p><strong>Private Sector Partners</strong>:
+- Microsoft — technical analysis
+- Symantec — malware research and sinkholing
+- AnubisNetworks — domain intelligence</p>
+<h2 id="operational-timeline"><span class="heading-ko">작전 타임라인</span><span class="heading-en">Operational Timeline</span></h2>
+<table>
+<thead>
+<tr>
+<th>Date</th>
+<th>Event</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>~2010</td>
+<td>Ramnit first observed as file infector</td>
+</tr>
+<tr>
+<td>2012-2014</td>
+<td>Evolution into banking trojan; infections reach millions</td>
+</tr>
+<tr>
+<td>2015-02-24</td>
+<td>Coordinated takedown: C&amp;C servers shut down, ~300 domains sinkholed</td>
+</tr>
+<tr>
+<td>2015-02-24</td>
+<td>Europol public announcement</td>
+</tr>
+</tbody>
+</table>
+<h2 id="results-and-impact"><span class="heading-ko">결과 및 영향</span><span class="heading-en">Results and Impact</span></h2>
+<ul>
+<li><strong>~300 internet domain addresses</strong> seized/sinkholed — redirected from criminal C&amp;C to law enforcement sinkholes</li>
+<li><strong>Command-and-control servers</strong> shut down across participating countries</li>
+<li><strong>3.2 million infected computers</strong> disrupted from receiving criminal instructions</li>
+<li><strong>No arrests</strong> were publicly announced as part of this operation</li>
+</ul>
+<h2 id="cooperation-mechanisms-used"><span class="heading-ko">활용된 공조 메커니즘</span><span class="heading-en">Cooperation Mechanisms Used</span></h2>
+<ul>
+<li><a href="../../wiki/mechanisms/j-cat.html" class="wikilink">Joint Cybercrime Action Taskforce (J-CAT)</a> — operational coordination hub at Europol</li>
+<li><a href="../../wiki/organizations/europol-ec3.html" class="wikilink">Europol EC3</a> — analytical and coordination support</li>
+<li><strong>Public-private partnership</strong>: Microsoft, Symantec, and AnubisNetworks provided technical intelligence and sinkhole infrastructure</li>
+</ul>
+<h2 id="lessons-learned"><span class="heading-ko">교훈</span><span class="heading-en">Lessons Learned</span></h2>
+<ol>
+<li><strong>Sinkholing as primary disruption</strong>: Without arrests, the operation relied on infrastructure seizure — effective for disruption but leaving operators free to rebuild</li>
+<li><strong>J-CAT coordination model</strong>: Ramnit was an early showcase of J-CAT's ability to coordinate multi-country botnet takedowns from The Hague</li>
+<li><strong>PPP (public-private partnership)</strong>: Microsoft and Symantec's intelligence was essential — law enforcement alone lacked the technical visibility</li>
+</ol>
+<h2 id="korean-involvement">Korean Involvement (한국의 참여)</h2>
+<p>No known Korean involvement in this operation. However, Ramnit infections were reported in South Korea, and <a href="../../wiki/countries/south-korea.html" class="wikilink">south-korea</a> was among the 190+ countries with affected systems.</p>
+<h2 id="contradictions-open-questions"><span class="heading-ko">모순점 및 미해결 문제</span><span class="heading-en">Contradictions &amp; Open Questions</span></h2>
+<ul>
+<li><strong>No arrests</strong>: Despite the scale (3.2M infections), no operators were publicly charged. Whether subsequent investigations led to arrests is unclear.</li>
+<li><strong>Ramnit resurgence</strong>: Security researchers reported Ramnit activity resuming within months of the takedown, raising questions about the long-term effectiveness of infrastructure-only disruption.</li>
+</ul>
+<h2 id="references"><span class="heading-ko">참고문헌</span><span class="heading-en">References</span></h2>
+<table>
+<thead>
+<tr>
+<th>#</th>
+<th>Source</th>
+<th>Publisher</th>
+<th>Date</th>
+<th>URL</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>[1]</td>
+<td>Botnet Taken Down Through International Law Enforcement Cooperation</td>
+<td>Europol</td>
+<td>2015-02-24</td>
+<td>https://www.europol.europa.eu/media-press/newsroom/news/botnet-taken-down-through-international-law-enforcement-cooperation</td>
+</tr>
+</tbody>
+</table></div>
+      
+    </div>
+  </main>
+
+  <aside class="sidebar">
+    
+    <div class="infobox">
+      <div class="infobox-header">
+        
+          Ramnit Botnet Takedown
+        
+      </div>
+      <table>
+        
+        <tr>
+          <th>
+            <span class="heading-ko">유형</span>
+            <span class="heading-en">Type</span>
+          </th>
+          <td>
+            
+              <span class="heading-ko">작전</span>
+              <span class="heading-en">Operation</span>
+            
+          </td>
+        </tr>
+        
+        <tr>
+          <th>
+            <span class="heading-ko">상태</span>
+            <span class="heading-en">Status</span>
+          </th>
+          <td>
+            
+              completed
+            
+          </td>
+        </tr>
+        
+        <tr>
+          <th>
+            <span class="heading-ko">작전유형</span>
+            <span class="heading-en">Op Type</span>
+          </th>
+          <td>
+            
+              takedown
+            
+          </td>
+        </tr>
+        
+        <tr>
+          <th>
+            <span class="heading-ko">기간</span>
+            <span class="heading-en">Period</span>
+          </th>
+          <td>
+            
+              announced: 2015-02-24, start: 2015-02, end: 2015-02-24
+            
+          </td>
+        </tr>
+        
+        <tr>
+          <th>
+            <span class="heading-ko">주도기관</span>
+            <span class="heading-en">Lead Agency</span>
+          </th>
+          <td>
+            
+              [[uk-nca|UK National Crime Agency]]
+            
+          </td>
+        </tr>
+        
+        <tr>
+          <th>
+            <span class="heading-ko">범죄유형</span>
+            <span class="heading-en">Crime Type</span>
+          </th>
+          <td>
+            
+              [[malware-ic]]
+            
+          </td>
+        </tr>
+        
+        <tr>
+          <th>
+            <span class="heading-ko">도메인 압수</span>
+            <span class="heading-en">Domains Seized</span>
+          </th>
+          <td>
+            
+              300
+            
+          </td>
+        </tr>
+        
+        <tr>
+          <th>
+            <span class="heading-ko">출처 수</span>
+            <span class="heading-en">Sources</span>
+          </th>
+          <td>
+            
+              1
+            
+          </td>
+        </tr>
+        
+      </table>
+    </div>
+    
+
+    <div class="cat-nav">
+      <h3><span class="i18n" data-ko="카테고리" data-en="Categories"></span></h3>
+      <ul>
+        
+        <li>
+          📜
+          <a href="../../category/legal-frameworks.html"
+             >
+            <span class="i18n" data-ko="법적 프레임워크" data-en="Legal Frameworks"></span>
+          </a>
+        </li>
+        
+        <li>
+          🏛️
+          <a href="../../category/organizations.html"
+             >
+            <span class="i18n" data-ko="기관" data-en="Organizations"></span>
+          </a>
+        </li>
+        
+        <li>
+          🌍
+          <a href="../../category/countries.html"
+             >
+            <span class="i18n" data-ko="국가" data-en="Countries"></span>
+          </a>
+        </li>
+        
+        <li>
+          🎯
+          <a href="../../category/operations.html"
+             style="font-weight:700">
+            <span class="i18n" data-ko="작전" data-en="Operations"></span>
+          </a>
+        </li>
+        
+        <li>
+          ⚖️
+          <a href="../../category/cases.html"
+             >
+            <span class="i18n" data-ko="사건" data-en="Cases"></span>
+          </a>
+        </li>
+        
+        <li>
+          🔗
+          <a href="../../category/mechanisms.html"
+             >
+            <span class="i18n" data-ko="공조 메커니즘" data-en="Mechanisms"></span>
+          </a>
+        </li>
+        
+        <li>
+          📋
+          <a href="../../category/procedures.html"
+             >
+            <span class="i18n" data-ko="절차" data-en="Procedures"></span>
+          </a>
+        </li>
+        
+        <li>
+          🔒
+          <a href="../../category/crime-types.html"
+             >
+            <span class="i18n" data-ko="범죄유형" data-en="Crime Types"></span>
+          </a>
+        </li>
+        
+        <li>
+          ⚠️
+          <a href="../../category/challenges.html"
+             >
+            <span class="i18n" data-ko="과제" data-en="Challenges"></span>
+          </a>
+        </li>
+        
+        <li>
+          📖
+          <a href="../../category/concepts.html"
+             >
+            <span class="i18n" data-ko="법적 개념" data-en="Concepts"></span>
+          </a>
+        </li>
+        
+        <li>
+          📰
+          <a href="../../category/sources.html"
+             >
+            <span class="i18n" data-ko="출처" data-en="Sources"></span>
+          </a>
+        </li>
+        
+        <li>
+          📊
+          <a href="../../category/analysis.html"
+             >
+            <span class="i18n" data-ko="분석" data-en="Analysis"></span>
+          </a>
+        </li>
+        
+        <li>
+          📅
+          <a href="../../category/timelines.html"
+             >
+            <span class="i18n" data-ko="타임라인" data-en="Timelines"></span>
+          </a>
+        </li>
+        
+      </ul>
+    </div>
+  </aside>
+</div>
+
+
+  <div class="footer">
+    <span class="i18n"
+      data-ko="사이버범죄 국제공조 위키 &mdash; LLM Wiki Pattern &mdash; 2026-04-12 기준 데이터"
+      data-en="Cybercrime International Cooperation Wiki &mdash; LLM Wiki Pattern &mdash; Data as of 2026-04-12">
+    </span>
+  </div>
+
+  <script>
+  (function() {
+    // Language toggle system — Korean default
+    var STORAGE_KEY = 'wiki-lang';
+
+    function getLang() {
+      return localStorage.getItem(STORAGE_KEY) || 'ko';
+    }
+
+    function setLang(lang) {
+      localStorage.setItem(STORAGE_KEY, lang);
+      applyLang(lang);
+    }
+
+    function applyLang(lang) {
+      var html = document.documentElement;
+      html.classList.remove('lang-ko', 'lang-en');
+      html.classList.add('lang-' + lang);
+      html.setAttribute('lang', lang === 'ko' ? 'ko' : 'en');
+
+      // Update i18n text content
+      document.querySelectorAll('.i18n').forEach(function(el) {
+        var text = el.getAttribute('data-' + lang);
+        if (text) el.innerHTML = text;
+      });
+
+      // Update i18n placeholders
+      document.querySelectorAll('.i18n-placeholder').forEach(function(el) {
+        var text = el.getAttribute('data-' + lang);
+        if (text) el.setAttribute('placeholder', text);
+      });
+    }
+
+    // Toggle button
+    var btn = document.getElementById('langToggle');
+    if (btn) {
+      btn.addEventListener('click', function() {
+        var current = getLang();
+        setLang(current === 'ko' ? 'en' : 'ko');
+      });
+    }
+
+    // Apply saved language on load
+    applyLang(getLang());
+  })();
+  </script>
+</body>
+</html>
