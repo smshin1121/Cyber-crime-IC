@@ -97,14 +97,18 @@
     - 모듈별 개별 스캔 (root scan 대신 tools/, web/ 따로)
   - codesight 1.11+ 출시 시 헬퍼의 우회 로직 제거 가능한지 재검증
 
-### L8. Windows cp949 인코딩으로 unicode 출력 실패 (2026-04-10, 54009a9)
+### L8. Windows cp949 인코딩으로 unicode 출력 실패 (2026-04-10, 54009a9 / 2026-04-13 추가)
 
-- **상황**: `print("✔ Task registered.")` → UnicodeEncodeError 'cp949'. 작업 등록 자체는 성공했지만 print 단계에서 오류.
-- **왜 실패**: Windows 한국어 cmd의 기본 encoding은 cp949. 파이썬 print는 stdout encoding 따름.
-- **교훈**: **Windows 환경에서 unicode emoji/체크마크 사용 금지**. ASCII fallback 사용.
+- **상황 (1)**: `print("✔ Task registered.")` → UnicodeEncodeError 'cp949'. 작업 등록 자체는 성공했지만 print 단계에서 오류.
+- **상황 (2, 2026-04-13)**: `tools/scheduled_collect.bat`의 `REM 사이버범죄 국제공조...` 한글 주석이 cp949 cmd 환경에서 깨져서 **바로 다음 줄** `python tools\auto_collect.py` 파싱까지 오염 → `'to_collect.py'은(는) 내부 또는 외부 명령이 아닙니다`. 배치 자체는 exit 0이라 Task Scheduler는 "성공"으로 기록. state 파일 mtime이 갱신 안 된 점으로만 실패 감지 가능.
+- **왜 실패**: Windows 한국어 cmd의 기본 encoding은 cp949. 파이썬 `print`는 stdout encoding 따름. **그리고 cmd.exe 자체가 .bat 파일을 cp949로 디코딩**하므로 UTF-8로 저장된 한글 주석이 non-ASCII 바이트로 읽혀 인접 라인 파싱까지 깨뜨림.
+- **교훈**: **Windows 환경에서 unicode 사용 금지 영역 두 곳**:
+  1. 파이썬 `print` 출력 (stdout 경유)
+  2. **`.bat`/`.cmd` 파일 내용 전체** (주석 포함)
 - **어떻게 적용**:
-  - 모든 print에서 ✔ ✘ ⚠ → `[OK]` `[FAIL]` `[WARN]`
-  - 또는 `sys.stdout.reconfigure(encoding='utf-8')` 강제 (Python 3.7+)
+  - 파이썬: 모든 print에서 ✔ ✘ ⚠ → `[OK]` `[FAIL]` `[WARN]`, 또는 `sys.stdout.reconfigure(encoding='utf-8')`
+  - 배치 파일: `REM` 주석도 ASCII-only. 파일 상단에 `ASCII-only: Korean comments corrupt parsing under cp949` 경고 주석 필수.
+  - Task Scheduler 진단: `schtasks` "Last Result: 0"은 **배치 exit 코드일 뿐** 실제 성공을 의미하지 않음. state 파일 mtime 또는 로그 파일 존재 여부로 교차 검증.
   - 중요: 작업 자체와 print를 분리. print 실패해도 작업은 성공해야 함.
 
 ### L9. URL 정규식이 균형 괄호를 처리 못함 (2026-04-10, 518ef59)
