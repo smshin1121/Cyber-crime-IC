@@ -28,7 +28,8 @@ key_agencies: []
 last_verified: '2026-04-10'
 legal_system: civil-law
 notable_cases: []
-operations_participated: []
+operations_participated:
+- '[[operation-orion-international]]'
 region: south-america
 source_count: 5
 sources: []
@@ -39,7 +40,7 @@ treaty_memberships:
   reservations: []
   status: party
 type: country
-updated: 2026-04-10
+updated: 2026-04-13
 ---
 
 ## Summary

@@ -364,3 +364,13 @@
   - Chakra-III: Part of multi-phase CBI series (I-V); arrest count discrepancy (43 total vs 26 in second wave) likely sequential; Microsoft role unclear for Phase III specifically
   - Myanmar-Kokang: Unprecedented case of military conflict intersecting with cybercrime enforcement; non-state armed group (MNDAA) served as de facto enforcement partner; scam operations displaced to other regions rather than eliminated
   - Both operations represent non-Western IC models: India bilateral with US/INTERPOL; China bilateral pressure + tacit military support
+
+## [2026-04-13] fix | operation-orion-international 참여국 역링크 복구 (11 stub + 1 backlink)
+- Pages created (11 South American country stubs):
+  - wiki/countries/argentina.md, bolivia.md, brazil.md, chile.md, ecuador.md, guyana.md, paraguay.md, peru.md, suriname.md, uruguay.md, venezuela.md
+- Pages updated:
+  - wiki/countries/colombia.md — operations_participated에 [[operation-orion-international]] 역참조 추가
+- Key findings:
+  - Operation Orion International은 2024년 5-9월 12개 남미국 합동 CSAM 단속(144명 체포, 아동 20명 구출)으로 participating_countries frontmatter에 12개국 wikilink가 전부 박혀 있었으나, 이 중 11개 국가 페이지 자체가 존재하지 않아 broken wikilink 상태였음 (Colombia만 페이지 존재하되 역참조 누락)
+  - CLAUDE.md Rule 7 (non-existent page wikilink 금지 + stub 필수) + Rule 3 (bidirectional invariant) + LESSONS.md L17 (participating_countries 공식 출처 교차 검증) 위반 사례
+  - 검증: check_links.py broken 0, lint.py CRITICAL/HIGH/MEDIUM 0
