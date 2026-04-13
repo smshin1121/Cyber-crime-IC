@@ -46,8 +46,14 @@ FEEDS: list[dict[str, str]] = [
         "reliability": "A",
     },
     {
+        # INTERPOL discontinued their RSS feed; /en/RSS/News returns 503 with
+        # a custom HTML error page. Fall back to HTML scraping the public
+        # news index, which is behind Cloudflare but handled by stealth_fetch.
         "name": "INTERPOL News",
-        "url": "https://www.interpol.int/en/RSS/News",
+        "url": "https://www.interpol.int/News-and-Events/News",
+        "format": "html",
+        "html_parser": "interpol",
+        "base_url": "https://www.interpol.int",
         "domain": "interpol.int",
         "publisher": "INTERPOL",
         "type": "press-releases",
@@ -71,7 +77,7 @@ FEEDS: list[dict[str, str]] = [
     },
     {
         "name": "Eurojust Press Releases",
-        "url": "https://www.eurojust.europa.eu/news/press-releases/feed",
+        "url": "https://www.eurojust.europa.eu/rss/press-releases.xml",
         "domain": "eurojust.europa.eu",
         "publisher": "Eurojust",
         "type": "press-releases",
@@ -95,8 +101,14 @@ FEEDS: list[dict[str, str]] = [
         "reliability": "A",
     },
     {
+        # ENISA officially discontinued all RSS feeds (announced on their
+        # "RSS feeds discontinued" page). Fall back to HTML scraping the
+        # public news index.
         "name": "ENISA News",
-        "url": "https://www.enisa.europa.eu/front-page/RSS",
+        "url": "https://www.enisa.europa.eu/news",
+        "format": "html",
+        "html_parser": "enisa",
+        "base_url": "https://www.enisa.europa.eu",
         "domain": "enisa.europa.eu",
         "publisher": "ENISA",
         "type": "government-reports",
@@ -421,6 +433,54 @@ def parse_feed_items(xml_text: str) -> list[dict[str, str]]:
     return items
 
 
+def parse_html_items(html: str, parser: str, base_url: str) -> list[dict[str, str]]:
+    """Extract news items from an HTML index page.
+
+    Used for sources that have discontinued or bot-protected RSS feeds.
+    Each site-specific parser returns the same item dict shape as
+    parse_feed_items so the downstream filter pipeline stays unchanged.
+    """
+    items: list[dict[str, str]] = []
+    if not html:
+        return items
+
+    # Site-specific anchor patterns. Each pattern yields (href, inner_html)
+    # where inner_html gets stripped of tags to produce the title.
+    patterns = {
+        "interpol": (
+            r'<a[^>]+href=["\']([^"\']*?/News-and-Events/News/20\d{2}/[^"\']+)["\'][^>]*>'
+            r'\s*<h3[^>]*>([^<]+)</h3>'
+        ),
+        "enisa": (
+            r'<a[^>]+href=["\']([^"\']*?/news/[a-z0-9-][^"\']*?)["\'][^>]*>(.*?)</a>'
+        ),
+    }
+    pattern = patterns.get(parser)
+    if not pattern:
+        return items
+
+    seen: set[str] = set()
+    for href, inner in re.findall(pattern, html, re.DOTALL):
+        title = re.sub(r"<[^>]+>", " ", inner)
+        title = re.sub(r"\s+", " ", title).strip()
+        if not title or len(title) < 8:
+            continue
+        # Resolve relative to absolute
+        link = href if href.startswith("http") else base_url.rstrip("/") + "/" + href.lstrip("/")
+        # Strip stray whitespace/URL-encoded trailing spaces
+        link = link.strip().rstrip("%20").rstrip()
+        if link in seen:
+            continue
+        seen.add(link)
+        items.append({
+            "title": title,
+            "link": link,
+            "description": "",
+            "pub_date": "",
+        })
+    return items
+
+
 # ---------------------------------------------------------------------------
 # OpenAlex academic search
 # ---------------------------------------------------------------------------
@@ -568,14 +628,22 @@ def main() -> None:
     review_items: list[dict[str, Any]] = []
     rejected_count = 0
 
-    # --- RSS feeds ---
+    # --- RSS feeds / HTML scrape ---
     for feed in FEEDS:
         print(f"\nFetching: {feed['name']}")
-        xml_text = fetch_url(feed["url"])
-        if not xml_text:
+        content = fetch_url(feed["url"])
+        if not content:
             continue
 
-        items = parse_feed_items(xml_text)
+        fmt = feed.get("format", "rss")
+        if fmt == "html":
+            items = parse_html_items(
+                content,
+                feed.get("html_parser", ""),
+                feed.get("base_url", ""),
+            )
+        else:
+            items = parse_feed_items(content)
         print(f"  Found {len(items)} items")
 
         for item in items:
