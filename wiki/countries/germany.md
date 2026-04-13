@@ -32,9 +32,10 @@ iso_code: DE
 key_agencies:
 - '[[germany-bka]]'
 - '[[zit-frankfurt]]'
-last_verified: '2026-04-10'
+last_verified: '2026-04-14'
 legal_system: civil-law
-notable_cases: []
+notable_cases:
+- '[[de-fr-online-fraud-group-2026]]'
 operations_participated:
 - '[[alphabay-takedown]]'
 - '[[emotet-takedown]]'
@@ -47,9 +48,12 @@ operations_participated:
 - '[[qakbot-gallyamov-indictment]]'
 - '[[operation-haechi-v]]'
 - '[[hive-ransomware-takedown]]'
+- '[[de-ch-crypto-mixer-takedown-2025]]'
 region: western-europe
-source_count: 0
-sources: []
+source_count: 2
+sources:
+- '[[2025-12-01-eurojust-de-ch-crypto-mixer-takedown]]'
+- '[[2026-03-11-eurojust-de-fr-online-fraud-group]]'
 title: Federal Republic of Germany
 treaty_memberships:
 - date: '2009-03-09'
@@ -61,7 +65,7 @@ treaty_memberships:
   reservations: []
   status: signatory
 type: country
-updated: 2026-04-08
+updated: 2026-04-14
 ---
 
 ## Summary

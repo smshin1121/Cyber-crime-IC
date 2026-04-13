@@ -49,9 +49,11 @@ operations_participated:
 - '[[hive-ransomware-takedown]]'
 - '[[operation-talent]]'
 - '[[operation-haechi-v]]'
+- '[[proxy-service-takedown-2026-03]]'
 region: western-europe
-source_count: 0
-sources: []
+source_count: 1
+sources:
+- '[[2026-03-12-eurojust-proxy-service-takedown]]'
 title: Kingdom of the Netherlands
 treaty_memberships:
 - date: '2006-11-16'
@@ -63,7 +65,7 @@ treaty_memberships:
   reservations: []
   status: signatory
 type: country
-updated: 2026-04-08
+updated: 2026-04-14
 ---
 
 ## Summary

@@ -34,15 +34,19 @@ key_agencies:
 - '[[france-gendarmerie]]'
 - '[[france-national-police]]'
 - '[[france-junalco]]'
-last_verified: '2026-04-10'
+last_verified: '2026-04-14'
 legal_system: civil-law
-notable_cases: []
+notable_cases:
+- '[[de-fr-online-fraud-group-2026]]'
 operations_participated:
 - '[[alphabay-takedown]]'
 - '[[emotet-takedown]]'
+- '[[proxy-service-takedown-2026-03]]'
 region: western-europe
-source_count: 0
-sources: []
+source_count: 2
+sources:
+- '[[2026-03-11-eurojust-de-fr-online-fraud-group]]'
+- '[[2026-03-12-eurojust-proxy-service-takedown]]'
 title: French Republic
 treaty_memberships:
 - date: '2006-01-10'
@@ -54,7 +58,7 @@ treaty_memberships:
   reservations: []
   status: signatory
 type: country
-updated: 2026-04-10
+updated: 2026-04-14
 ---
 
 ## Summary

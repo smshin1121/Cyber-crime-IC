@@ -72,6 +72,8 @@ operations_participated:
 - '[[xhelper-upi-money-mule]]'
 - '[[zeus-spyeye-jit-takedown]]'
 - '[[zeus-spyeye-takedown]]'
+- '[[de-ch-crypto-mixer-takedown-2025]]'
+- '[[proxy-service-takedown-2026-03]]'
 org_type: regional-org
 parent_org: '[[europol-ec3]]'
 source_count: 9
@@ -84,10 +86,12 @@ sources:
 - '[[2025-05-22-doj-qakbot-gallyamov-indictment]]'
 - '[[2023-02-08-europol-franco-israeli-ceo-fraud]]'
 - '[[2025-04-04-europol-operation-stream-kidflix]]'
+- '[[2025-12-01-eurojust-de-ch-crypto-mixer-takedown]]'
+- '[[2026-03-12-eurojust-proxy-service-takedown]]'
 status: active
 title: Europol European Cybercrime Centre (EC3)
 type: organization
-updated: '2026-04-10'
+updated: '2026-04-14'
 ---
 
 ## Current Status (as of 2026-04-10)

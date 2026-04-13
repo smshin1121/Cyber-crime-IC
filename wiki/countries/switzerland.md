@@ -31,13 +31,15 @@ iso_code: CH
 key_agencies:
 - '[[switzerland-fedpol]]'
 - '[[switzerland-ncsc]]'
-last_verified: '2026-04-10'
+last_verified: '2026-04-14'
 legal_system: civil-law
 notable_cases: []
-operations_participated: []
+operations_participated:
+- '[[de-ch-crypto-mixer-takedown-2025]]'
 region: western-europe
-source_count: 0
-sources: []
+source_count: 1
+sources:
+- '[[2025-12-01-eurojust-de-ch-crypto-mixer-takedown]]'
 title: Swiss Confederation
 treaty_memberships:
 - date: '2011-09-21'
@@ -49,7 +51,7 @@ treaty_memberships:
   reservations: []
   status: signatory
 type: country
-updated: 2026-04-10
+updated: 2026-04-14
 ---
 
 ## Summary

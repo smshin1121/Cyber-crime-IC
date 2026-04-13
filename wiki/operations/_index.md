@@ -3,7 +3,7 @@ type: category-index
 title: "Operations"
 category: operation
 created: 2026-04-08
-updated: 2026-04-10
+updated: 2026-04-14
 ---
 
 # Operations
@@ -27,6 +27,7 @@ updated: 2026-04-10
 | [[cyber-fraud-international-2015]] | CYB-2015-002 | 1 | completed | 2.28 | 2 |
 | [[darkmarket-takedown]] | CYB-2021-009 | 2 | completed | — | 2 |
 | [[darkode-takedown]] | CYB-2015-051 | 1 | completed | 1.88 | 3 |
+| [[de-ch-crypto-mixer-takedown-2025]] | CYB-2025-013 | 3 | completed | 3.5 | 1 |
 | [[ddos-for-hire-sweep-2016]] | CYB-2016-002 | 1 | completed | 2.95 | 2 |
 | [[dridex-operations]] | CYB-2015-007 | 1 | completed | 4.0 | 1 |
 | [[doublevpn-takedown]] | CYB-2021-051 | 2 | completed | 1.88 | 3 |
@@ -94,6 +95,7 @@ updated: 2026-04-10
 | [[operation-trojan-shield]] | — | 2 | completed | — | — |
 | [[operation-wirewire]] | CYB-2018-002 | 1 | completed | 2.28 | 2 |
 | [[phobos-8base-crackdown]] | CYB-2025-003 | 3 | completed | 2.28 | 2 |
+| [[proxy-service-takedown-2026-03]] | CYB-2026-001 | 3 | completed | 3.5 | 1 |
 | [[qakbot-gallyamov-indictment]] | CYB-2025-005 | 3 | ongoing | 2.28 | 2 |
 | [[qqaazz-money-laundering-takedown]] | CYB-2020-052 | 2 | completed | 1.88 | 3 |
 | [[rex-mundi-takedown]] | CYB-2018-005 | 1 | completed | 2.28 | 2 |

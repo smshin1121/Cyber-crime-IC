@@ -21,9 +21,11 @@ last_verified: '2026-04-10'
 mandate: EU judicial cooperation agency facilitating cross-border criminal investigations
   and prosecutions, including cybercrime. Coordinates mutual legal assistance, Joint
   Investigation Teams, European Arrest Warrants, and conflict of jurisdiction resolution.
-mechanisms_operated: []
+mechanisms_operated:
+- '[[european-judicial-cybercrime-network]]'
 member_states: 27
-notable_cases: []
+notable_cases:
+- '[[de-fr-online-fraud-group-2026]]'
 official_name: European Union Agency for Criminal Justice Cooperation (Eurojust)
 official_name_ko: 유럽연합 형사사법협력기구 (유로저스트)
 operations_participated:
@@ -45,6 +47,8 @@ operations_participated:
 - '[[phobos-8base-crackdown]]'
 - '[[zeus-spyeye-jit-takedown]]'
 - '[[operation-dark-huntor]]'
+- '[[de-ch-crypto-mixer-takedown-2025]]'
+- '[[proxy-service-takedown-2026-03]]'
 org_type: regional-org
 parent_org: ''
 source_count: 9
@@ -54,10 +58,14 @@ sources:
 - '[[2024-10-01-europol-operation-cronos-lockbit-phase3]]'
 - '[[2025-02-11-europol-phobos-8base-ransomware-arrests]]'
 - '[[2025-05-23-europol-operation-endgame-phase2]]'
+- '[[2025-12-01-eurojust-de-ch-crypto-mixer-takedown]]'
+- '[[2025-12-05-eurojust-ejcn-19th-plenary]]'
+- '[[2026-03-11-eurojust-de-fr-online-fraud-group]]'
+- '[[2026-03-12-eurojust-proxy-service-takedown]]'
 status: active
 title: Eurojust
 type: organization
-updated: '2026-04-10'
+updated: '2026-04-14'
 ---
 
 ## Current Status (as of 2026-04-10)

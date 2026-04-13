@@ -1,5 +1,26 @@
 # Activity Log
 
+## [2026-04-14] ingest | 4 Eurojust press releases (Eurojust RSS 복구 후 첫 수집분)
+- Sources: raw/press-releases/2026-04-14_eurojust_cryptocurrency-mixing-service-used-to-launder-money-taken-do.md, raw/press-releases/2026-04-14_eurojust_european-judicial-cybercrime-network-strengthens-resolve-to.md, raw/press-releases/2026-04-14_eurojust_judicial-cooperation-key-to-arresting-leaders-of-online-frau.md, raw/press-releases/2026-04-14_eurojust_servers-used-for-cybercrime-around-the-world-taken-down.md
+- Pages created (10):
+  - sources/2025-12-01-eurojust-de-ch-crypto-mixer-takedown.md
+  - sources/2025-12-05-eurojust-ejcn-19th-plenary.md
+  - sources/2026-03-11-eurojust-de-fr-online-fraud-group.md
+  - sources/2026-03-12-eurojust-proxy-service-takedown.md
+  - operations/de-ch-crypto-mixer-takedown-2025.md (DE+CH crypto mixer takedown, EUR 25M+ seized, 3 servers, published 2025-12-01)
+  - operations/proxy-service-takedown-2026-03.md (FR/AT/NL/US +4 unnamed, 102 victim countries, IP proxy + payment platform, published 2026-03-12)
+  - mechanisms/european-judicial-cybercrime-network.md (EJCN — Eurojust-administered prosecutorial liaison network; 19th plenary 2025-12-04/05, 62 experts from 26 countries)
+  - cases/de-fr-online-fraud-group-2026.md (DE-FR bilateral online fraud prosecution, ~EUR 1M victim losses, published 2026-03-11)
+  - countries/austria.md (stub created — first wiki page for Austria)
+  - crime-types/money-laundering-ic.md (new crime type page for cryptocurrency-enabled money laundering IC)
+- Pages updated (10): organizations/eurojust.md (+4 ops/case/mechanism, +4 sources), organizations/europol-ec3.md (+2 ops, +2 sources), countries/germany.md (+1 op, +1 case, +2 sources), countries/switzerland.md (+1 op, +1 source), countries/france.md (+1 op, +1 case, +2 sources), countries/netherlands.md (+1 op, +1 source), countries/united-states.md (+1 op, +1 source), crime-types/online-fraud-ic.md (+1 case, +1 source), crime-types/hacking-ic.md (+1 op, +1 source), wiki/index.md (master catalog, +1 case section, mechanisms/crime-types bumped)
+- Indexes updated: operations/_index.md (+2), cases/_index.md (+1, first entry ever), mechanisms/_index.md (+1), sources/_index.md (+4), countries/_index.md (+austria), crime-types/_index.md (+money-laundering-ic, updated 2 rows)
+- Key findings:
+  - **DE-CH crypto mixer takedown (2025-12-01)**: First fully-documented Germany-Switzerland bilateral cryptocurrency mixing service takedown in the wiki — EUR 25M+ seized, 3 servers down. Switzerland's role *likely* limited to asset freezing per source; service name not disclosed.
+  - **Proxy service takedown (2026-03-12)**: FR/AT/NL/US named, 4 unnamed; 102 victim countries; *highly likely* a residential proxy botnet given the malware-victim framing in the source.
+  - **EJCN existence catalogued**: First Eurojust judicial cybercrime *network* (as distinct from operational casework) documented in wiki — Council Conclusions (2016) basis, 19th plenary in Dec 2025, 26 countries.
+  - **First case page**: cases/_index.md was empty until this ingest; de-fr-online-fraud-group-2026 is the first case entry.
+
 ## [2026-04-10] enrich | Operation LadyBird (Emotet) + Operation Bayonet (AlphaBay) stub pages fully written
 - Pages enriched: emotet-takedown.md (stub -> full operation page, ~272 lines)
 - Pages enriched: alphabay-takedown.md (stub -> full operation page, ~329 lines)

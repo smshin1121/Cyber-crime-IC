@@ -17,16 +17,18 @@ key_organizations:
 notable_cases: []
 notable_operations:
 - '[[isoon-apt27-indictment]]'
+- '[[proxy-service-takedown-2026-03]]'
 relevant_legal_frameworks:
 - '[[budapest-convention]]'
-source_count: 0
+source_count: 1
 sources:
 - '[[2025-03-05-doj-isoon-chinese-hackers-charges]]'
+- '[[2026-03-12-eurojust-proxy-service-takedown]]'
 title: Hacking / Computer Intrusion — International Cooperation Perspective
 type: crime-type
 typical_ic_challenges: []
 typical_mechanisms: []
-updated: 2026-04-08
+updated: 2026-04-14
 ---
 
 ## Summary

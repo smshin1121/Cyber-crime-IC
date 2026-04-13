@@ -59,9 +59,11 @@ operations_participated:
 - '[[911-s5-botnet-takedown]]'
 - '[[goznym-takedown]]'
 - '[[fin7-takedown]]'
+- '[[proxy-service-takedown-2026-03]]'
 region: north-america
-source_count: 0
-sources: []
+source_count: 1
+sources:
+- '[[2026-03-12-eurojust-proxy-service-takedown]]'
 title: United States of America
 treaty_memberships:
 - date: '2006-09-29'
@@ -73,7 +75,7 @@ treaty_memberships:
   reservations: []
   status: signatory
 type: country
-updated: 2026-04-08
+updated: 2026-04-14
 ---
 
 ## Summary

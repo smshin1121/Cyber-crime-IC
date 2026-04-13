@@ -3,8 +3,8 @@ type: category-index
 title: "Countries"
 category: country
 created: 2026-04-08
-updated: 2026-04-12
-total: 60
+updated: 2026-04-14
+total: 61
 ---
 
 # Countries
@@ -13,6 +13,7 @@ total: 60
 |---------|-------------|---------------|------------|--------------|---------|
 | [[armenia]] | civil-law | — | unknown | unknown | 0 |
 | [[australia]] | common-law | party (2013) | high | 90-180 days | 0 |
+| [[austria]] | civil-law | — | unknown | unknown | 1 |
 | [[china]] | civil-law | non-party | high | 180+ | 0 |
 | [[germany]] | civil-law | party (2009) | high | 90-180 days | 0 |
 | [[ghana]] | common-law | — | unknown | unknown | 0 |

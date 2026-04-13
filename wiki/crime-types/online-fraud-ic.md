@@ -19,13 +19,14 @@ notable_operations:
   - "[[operation-first-light-2024]]"
   - "[[operation-jackal]]"
   - "[[operation-jackal-iii]]"
-notable_cases: []
+notable_cases:
+  - "[[de-fr-online-fraud-group-2026]]"
 criminalization_status:
   broadly_criminalized: true
   definition_varies: true
   problem_jurisdictions: []
 estimated_annual_loss: "Tens of billions of USD globally (FBI IC3 reported USD 12.5B in US alone for 2023)"
-source_count: 7
+source_count: 8
 sources:
   - "[[2024-12-02-interpol-operation-haechi-v]]"
   - "[[2024-11-26-interpol-operation-serengeti]]"
@@ -34,8 +35,9 @@ sources:
   - "[[2024-06-18-interpol-operation-first-light-2024]]"
   - "[[2023-06-06-interpol-operation-jackal]]"
   - "[[2024-08-28-interpol-operation-jackal-iii]]"
+  - "[[2026-03-11-eurojust-de-fr-online-fraud-group]]"
 created: 2026-04-08
-updated: 2026-04-08
+updated: 2026-04-14
 ---
 
 ## Summary
@@ -102,3 +104,4 @@ Korea is *almost certainly* one of the most heavily affected countries by voice 
 | [5] | USD 257 million seized in global police crackdown against online scams — Operation First Light 2024 | INTERPOL | 2024-06-18 | [원본](https://www.interpol.int/News-and-Events/News/2024/USD-257-million-seized-in-global-police-crackdown-against-online-scams) |
 | [6] | Closing ranks on West African organized crime: Operation Jackal | INTERPOL | 2023-06-06 | [원본](https://www.interpol.int/News-and-Events/News/2023/Closing-ranks-on-West-African-organized-crime-more-than-EUR-2-million-seized-in-Operation-Jackal) |
 | [7] | INTERPOL operation strikes major blow against West African financial crime — Operation Jackal III | INTERPOL | 2024-08-28 | [원본](https://www.interpol.int/en/News-and-Events/News/2024/INTERPOL-operation-strikes-major-blow-against-West-African-financial-crime) |
+| [8] | Judicial cooperation key to arresting leaders of online fraud group | Eurojust | 2026-03-11 | [원본](https://www.eurojust.europa.eu/news/judicial-cooperation-key-arresting-leaders-online-fraud-group) |
