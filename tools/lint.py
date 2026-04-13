@@ -118,7 +118,12 @@ def _check_wikilinks(page: dict, all_slugs: set) -> list[dict]:
     """Check for wikilinks pointing to non-existent pages."""
     issues = []
     content = page["content"]
-    links = re.findall(r'\[\[([^\]|]+)', content)
+    # Normalize markdown table pipe-escape: [[slug\|display]] -> [[slug|display]]
+    # Inside a table cell, `\|` escapes a literal pipe so the table parser
+    # doesn't split the cell, but the wikilink regex would otherwise capture
+    # the backslash as part of the slug.
+    normalized = content.replace("\\|", "|")
+    links = re.findall(r'\[\[([^\]|]+)', normalized)
     for link in links:
         slug = link.strip().split("/")[-1]
         if slug not in all_slugs and slug != "_index":
