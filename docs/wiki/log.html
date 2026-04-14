@@ -183,6 +183,28 @@
 <li>두 작업 모두 비서구 IC 모델을 대표합니다. 인도는 US/INTERPOL과 양자 간입니다. 중국 양자압박 + 암묵적 군사지원</li>
 </ul></div>
         <div class="en-block"><h1 id="activity-log">Activity Log</h1>
+<h2 id="2026-04-14-ingest-4-eurojust-press-releases-eurojust-rss">[2026-04-14] ingest | 4 Eurojust press releases (Eurojust RSS 복구 후 첫 수집분)</h2>
+<ul>
+<li>Sources: raw/press-releases/2026-04-14_eurojust_cryptocurrency-mixing-service-used-to-launder-money-taken-do.md, raw/press-releases/2026-04-14_eurojust_european-judicial-cybercrime-network-strengthens-resolve-to.md, raw/press-releases/2026-04-14_eurojust_judicial-cooperation-key-to-arresting-leaders-of-online-frau.md, raw/press-releases/2026-04-14_eurojust_servers-used-for-cybercrime-around-the-world-taken-down.md</li>
+<li>Pages created (10):</li>
+<li>sources/2025-12-01-eurojust-de-ch-crypto-mixer-takedown.md</li>
+<li>sources/2025-12-05-eurojust-ejcn-19th-plenary.md</li>
+<li>sources/2026-03-11-eurojust-de-fr-online-fraud-group.md</li>
+<li>sources/2026-03-12-eurojust-proxy-service-takedown.md</li>
+<li>operations/de-ch-crypto-mixer-takedown-2025.md (DE+CH crypto mixer takedown, EUR 25M+ seized, 3 servers, published 2025-12-01)</li>
+<li>operations/proxy-service-takedown-2026-03.md (FR/AT/NL/US +4 unnamed, 102 victim countries, IP proxy + payment platform, published 2026-03-12)</li>
+<li>mechanisms/european-judicial-cybercrime-network.md (EJCN — Eurojust-administered prosecutorial liaison network; 19th plenary 2025-12-04/05, 62 experts from 26 countries)</li>
+<li>cases/de-fr-online-fraud-group-2026.md (DE-FR bilateral online fraud prosecution, ~EUR 1M victim losses, published 2026-03-11)</li>
+<li>countries/austria.md (stub created — first wiki page for Austria)</li>
+<li>crime-types/money-laundering-ic.md (new crime type page for cryptocurrency-enabled money laundering IC)</li>
+<li>Pages updated (10): organizations/eurojust.md (+4 ops/case/mechanism, +4 sources), organizations/europol-ec3.md (+2 ops, +2 sources), countries/germany.md (+1 op, +1 case, +2 sources), countries/switzerland.md (+1 op, +1 source), countries/france.md (+1 op, +1 case, +2 sources), countries/netherlands.md (+1 op, +1 source), countries/united-states.md (+1 op, +1 source), crime-types/online-fraud-ic.md (+1 case, +1 source), crime-types/hacking-ic.md (+1 op, +1 source), wiki/index.md (master catalog, +1 case section, mechanisms/crime-types bumped)</li>
+<li>Indexes updated: operations/_index.md (+2), cases/_index.md (+1, first entry ever), mechanisms/_index.md (+1), sources/_index.md (+4), countries/_index.md (+austria), crime-types/_index.md (+money-laundering-ic, updated 2 rows)</li>
+<li>Key findings:</li>
+<li><strong>DE-CH crypto mixer takedown (2025-12-01)</strong>: First fully-documented Germany-Switzerland bilateral cryptocurrency mixing service takedown in the wiki — EUR 25M+ seized, 3 servers down. Switzerland's role <em>likely</em> limited to asset freezing per source; service name not disclosed.</li>
+<li><strong>Proxy service takedown (2026-03-12)</strong>: FR/AT/NL/US named, 4 unnamed; 102 victim countries; <em>highly likely</em> a residential proxy botnet given the malware-victim framing in the source.</li>
+<li><strong>EJCN existence catalogued</strong>: First Eurojust judicial cybercrime <em>network</em> (as distinct from operational casework) documented in wiki — Council Conclusions (2016) basis, 19th plenary in Dec 2025, 26 countries.</li>
+<li><strong>First case page</strong>: cases/_index.md was empty until this ingest; de-fr-online-fraud-group-2026 is the first case entry.</li>
+</ul>
 <h2 id="2026-04-10-enrich-operation-ladybird-emotet-operation-bayonet-alphabay-stub-pages-fully-written">[2026-04-10] enrich | Operation LadyBird (Emotet) + Operation Bayonet (AlphaBay) stub pages fully written</h2>
 <ul>
 <li>Pages enriched: emotet-takedown.md (stub -&gt; full operation page, ~272 lines)</li>
@@ -616,6 +638,17 @@
 <li>Chakra-III: Part of multi-phase CBI series (I-V); arrest count discrepancy (43 total vs 26 in second wave) likely sequential; Microsoft role unclear for Phase III specifically</li>
 <li>Myanmar-Kokang: Unprecedented case of military conflict intersecting with cybercrime enforcement; non-state armed group (MNDAA) served as de facto enforcement partner; scam operations displaced to other regions rather than eliminated</li>
 <li>Both operations represent non-Western IC models: India bilateral with US/INTERPOL; China bilateral pressure + tacit military support</li>
+</ul>
+<h2 id="2026-04-13-fix-operation-orion-international-11-stub-1-backlink">[2026-04-13] fix | operation-orion-international 참여국 역링크 복구 (11 stub + 1 backlink)</h2>
+<ul>
+<li>Pages created (11 South American country stubs):</li>
+<li>wiki/countries/argentina.md, bolivia.md, brazil.md, chile.md, ecuador.md, guyana.md, paraguay.md, peru.md, suriname.md, uruguay.md, venezuela.md</li>
+<li>Pages updated:</li>
+<li>wiki/countries/colombia.md — operations_participated에 <a href="../wiki/operations/operation-orion-international.html" class="wikilink">operation-orion-international</a> 역참조 추가</li>
+<li>Key findings:</li>
+<li>Operation Orion International은 2024년 5-9월 12개 남미국 합동 CSAM 단속(144명 체포, 아동 20명 구출)으로 participating_countries frontmatter에 12개국 wikilink가 전부 박혀 있었으나, 이 중 11개 국가 페이지 자체가 존재하지 않아 broken wikilink 상태였음 (Colombia만 페이지 존재하되 역참조 누락)</li>
+<li>CLAUDE.md Rule 7 (non-existent page wikilink 금지 + stub 필수) + Rule 3 (bidirectional invariant) + LESSONS.md L17 (participating_countries 공식 출처 교차 검증) 위반 사례</li>
+<li>검증: check_links.py broken 0, lint.py CRITICAL/HIGH/MEDIUM 0</li>
 </ul></div>
       
     </div>
@@ -740,8 +773,8 @@
 
   <div class="footer">
     <span class="i18n"
-      data-ko="사이버범죄 국제공조 위키 &mdash; LLM Wiki Pattern &mdash; 2026-04-12 기준 데이터"
-      data-en="Cybercrime International Cooperation Wiki &mdash; LLM Wiki Pattern &mdash; Data as of 2026-04-12">
+      data-ko="사이버범죄 국제공조 위키 &mdash; LLM Wiki Pattern &mdash; 2026-04-14 기준 데이터"
+      data-en="Cybercrime International Cooperation Wiki &mdash; LLM Wiki Pattern &mdash; Data as of 2026-04-14">
     </span>
   </div>
 

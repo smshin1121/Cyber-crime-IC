@@ -3,9 +3,10 @@
 Thumbs.db
 desktop.ini
 
-# Obsidian
-.obsidian/workspace.json
-.obsidian/workspace-mobile.json
+# Obsidian (match at any depth — covers both ./.obsidian/ and wiki/.obsidian/)
+**/.obsidian/workspace.json
+**/.obsidian/workspace-mobile.json
+**/.obsidian/workspace.json.tmp.*
 
 # Python
 __pycache__/
