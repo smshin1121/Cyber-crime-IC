@@ -6,14 +6,18 @@ created: 2026-04-08
 updated: 2026-04-14
 ---
 
-# Crime Types
+# Crime Types (11)
 
 | Crime Type | Category | Broadly Criminalized | Key Mechanisms | Notable Operations | Sources |
-|-----------|----------|---------------------|---------------|-------------------|---------|
-| [[ransomware-ic]] | cyber-dependent | Yes | SIENA, JITs, No More Ransom | Cronos Ph1/3, Endgame Ph1/2, Phobos/8Base, QakBot, Checkmate, Synergia II | 8 |
-| [[online-fraud-ic]] | cyber-enabled | Yes | I-24/7, NCBs | HAECHI IV/V/VI, Serengeti, First Light 2024, Jackal, Jackal III, DE-FR Online Fraud 2026 | 8 |
-| [[hacking-ic]] | cyber-dependent | Yes | - | i-Soon/APT27, Proxy Service Takedown (Mar 2026) | 2 |
-| [[bec-ic]] | cyber-enabled | Yes | I-GRIP, NCBs | Franco-Israeli CEO Fraud, Jackal, Jackal III, Sentinel, HAECHI IV/V/VI | 6 |
-| [[voice-phishing-ic]] | cyber-enabled | Yes | I-GRIP, bilateral | Korea-China Qingdao, HAECHI IV/V/VI, First Light 2024, Korea-Cambodia | 5 |
-| [[csam-ic]] | content-related | Yes | ICSE Database, VIDTF, Red Notices | Operation Stream/Kidflix, Cyber Guardian, Orion International | 3 |
-| [[money-laundering-ic]] | cyber-enabled | Yes | MLAT, JITs | DE-CH Crypto Mixer 2025, Cryptex/PM2BTC, 2BAGoldMule/QQAAZZ | 1 |
+|------------|----------|----------------------|----------------|--------------------|---------|
+| [[bec-crime-ic]] | — | — | — | — | 0 |
+| [[bec-ic]] | cyber-enabled | Yes | — | franco-israeli-ceo-fraud, operation-jackal, operation-jackal-iii | 6 |
+| [[carding-fraud-ic]] | — | — | — | — | 0 |
+| [[csam-ic]] | content-related | Yes | — | — | 0 |
+| [[ddos-extortion]] | — | — | — | — | 0 |
+| [[extortion-ic]] | — | — | — | — | 0 |
+| [[hacking-ic]] | cyber-dependent | Yes | — | — | 1 |
+| [[money-laundering-ic]] | cyber-enabled | Yes | mlat-process, europol-jit | de-ch-crypto-mixer-takedown-2025, 2bagoldmule-qqaazz, cryptex-pm2btc-sanctions | 1 |
+| [[online-fraud-ic]] | cyber-enabled | Yes | — | operation-haechi-v, operation-serengeti, operation-haechi-iv | 8 |
+| [[ransomware-ic]] | cyber-dependent | Yes | — | operation-cronos-phase1, operation-endgame-phase1, operation-cronos-phase3 | 8 |
+| [[voice-phishing-ic]] | cyber-enabled | Yes | — | korea-china-voice-phishing-qingdao, operation-haechi-iv, operation-haechi-v | 5 |

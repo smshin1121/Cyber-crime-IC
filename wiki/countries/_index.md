@@ -7,21 +7,78 @@ updated: 2026-04-14
 total: 61
 ---
 
-# Countries
+# Countries (71)
 
 | Country | Legal System | Budapest Conv. | IC Capacity | MLAT Response | Sources |
-|---------|-------------|---------------|------------|--------------|---------|
+|---------|--------------|----------------|-------------|---------------|---------|
+| [[albania]] | civil-law | — | medium | unknown | 3 |
 | [[armenia]] | civil-law | — | unknown | unknown | 0 |
-| [[australia]] | common-law | party (2013) | high | 90-180 days | 0 |
+| [[argentina]] | civil-law | — | unknown | unknown | 0 |
 | [[austria]] | civil-law | — | unknown | unknown | 1 |
-| [[china]] | civil-law | non-party | high | 180+ | 0 |
-| [[germany]] | civil-law | party (2009) | high | 90-180 days | 0 |
+| [[australia]] | common-law | — | high | 90-180 | 0 |
+| [[belgium]] | civil-law | — | high | 90-180 | 5 |
+| [[bulgaria]] | civil-law | — | medium | 90-180 | 4 |
+| [[benin]] | civil-law | — | low | unknown | 4 |
+| [[bolivia]] | civil-law | — | unknown | unknown | 0 |
+| [[brazil]] | civil-law | — | unknown | unknown | 0 |
+| [[canada]] | mixed | — | high | 90-180 | 5 |
+| [[switzerland]] | civil-law | — | high | 90-180 | 1 |
+| [[cote-divoire]] | civil-law | — | medium | unknown | 4 |
+| [[chile]] | civil-law | — | unknown | unknown | 0 |
+| [[cameroon]] | mixed | — | low | unknown | 3 |
+| [[china]] | civil-law | — | high | 180+ | 0 |
+| [[colombia]] | civil-law | — | medium | unknown | 5 |
+| [[czech-republic]] | civil-law | — | medium | 90-180 | 4 |
+| [[germany]] | civil-law | — | high | 90-180 | 2 |
+| [[denmark]] | civil-law | — | unknown | unknown | 0 |
+| [[ecuador]] | civil-law | — | unknown | unknown | 0 |
+| [[spain]] | civil-law | — | high | 90-180 | 0 |
+| [[finland]] | civil-law | — | high | 90-180 | 6 |
+| [[france]] | civil-law | — | high | 90-180 | 2 |
+| [[united-kingdom]] | common-law | — | high | 90-180 | 0 |
+| [[georgia]] | civil-law | — | medium | unknown | 0 |
 | [[ghana]] | common-law | — | unknown | unknown | 0 |
+| [[gambia]] | mixed | — | low | unknown | 0 |
+| [[greece]] | civil-law | — | medium | unknown | 0 |
+| [[guyana]] | common-law | — | unknown | unknown | 0 |
+| [[hong-kong]] | common-law | — | high | unknown | 0 |
+| [[hungary]] | civil-law | — | unknown | unknown | 0 |
+| [[indonesia]] | civil-law | — | medium | 180+ | 0 |
+| [[ireland]] | common-law | — | unknown | unknown | 0 |
+| [[india]] | common-law | — | medium | 180+ | 0 |
 | [[iceland]] | civil-law | — | unknown | unknown | 0 |
-| [[japan]] | civil-law | party (2012) | high | 90-180 days | 0 |
-| [[netherlands]] | civil-law | party (2006) | high | 60-120 days | 0 |
-| [[nigeria]] | mixed | non-party | medium | 180+ | 0 |
-| [[south-korea]] | civil-law | party (2024) | high | 60-120 days | 7 |
+| [[italy]] | civil-law | — | high | 90-180 | 0 |
+| [[japan]] | civil-law | — | high | 90-180 | 0 |
+| [[kenya]] | mixed | — | medium | unknown | 0 |
+| [[south-korea]] | civil-law | — | high | 60-120 | 17 |
+| [[lithuania]] | civil-law | listed | unknown | unknown | 0 |
+| [[luxembourg]] | civil-law | — | unknown | unknown | 0 |
+| [[latvia]] | civil-law | — | medium | unknown | 0 |
+| [[morocco]] | mixed | — | medium | unknown | 0 |
+| [[moldova]] | civil-law | — | unknown | unknown | 0 |
+| [[mauritius]] | mixed | — | medium | unknown | 0 |
+| [[malaysia]] | mixed | — | medium | unknown | 0 |
+| [[nigeria]] | mixed | — | medium | 180+ | 0 |
+| [[netherlands]] | civil-law | — | high | 60-120 | 1 |
+| [[norway]] | civil-law | — | high | unknown | 0 |
+| [[peru]] | civil-law | — | unknown | unknown | 0 |
+| [[poland]] | civil-law | — | medium | unknown | 3 |
+| [[portugal]] | civil-law | — | medium | unknown | 3 |
+| [[paraguay]] | civil-law | — | unknown | unknown | 0 |
+| [[romania]] | civil-law | — | high | unknown | 4 |
+| [[serbia]] | civil-law | — | medium | unknown | 3 |
+| [[rwanda]] | mixed | — | medium | unknown | 3 |
+| [[sweden]] | civil-law | — | high | 90-180 | 0 |
+| [[singapore]] | common-law | — | high | unknown | 0 |
+| [[suriname]] | civil-law | — | unknown | unknown | 0 |
+| [[togo]] | civil-law | — | low | unknown | 3 |
+| [[thailand]] | civil-law | — | medium | unknown | 3 |
 | [[turkey]] | civil-law | — | unknown | unknown | 0 |
-| [[united-kingdom]] | common-law | party (2011) | high | 90-180 days | 0 |
-| [[united-states]] | common-law | party (2006) | high | 180+ | 0 |
+| [[tanzania]] | common-law | — | low | unknown | 2 |
+| [[ukraine]] | civil-law | — | high | unknown | 3 |
+| [[united-states]] | common-law | — | high | 180+ | 1 |
+| [[uruguay]] | civil-law | — | unknown | unknown | 0 |
+| [[venezuela]] | civil-law | — | unknown | unknown | 0 |
+| [[kosovo]] | civil-law | — | low | unknown | 0 |
+| [[south-africa]] | mixed | — | medium | unknown | 0 |
+| [[zambia]] | common-law | — | low | unknown | 2 |
