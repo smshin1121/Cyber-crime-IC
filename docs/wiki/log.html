@@ -183,6 +183,17 @@
 <li>두 작업 모두 비서구 IC 모델을 대표합니다. 인도는 US/INTERPOL과 양자 간입니다. 중국 양자압박 + 암묵적 군사지원</li>
 </ul></div>
         <div class="en-block"><h1 id="activity-log">Activity Log</h1>
+<h2 id="2026-04-14-source-enrichment-pilot-5-operations-with-empty-sources-enriched">[2026-04-14] source-enrichment pilot | 5 operations with empty sources enriched</h2>
+<ul>
+<li>Pilot scope: 5 of 19 operations that had empty <code>sources: []</code> frontmatter</li>
+<li>Targets: alphabay-takedown, emotet-takedown, operation-morpheus, operation-trojan-shield (Tier 1), zambia-golden-top-call-center (Tier 2 fallback)</li>
+<li>Sources created (14): 5 for alphabay (Europol/DOJ/DEA/FBI/UNODC), 4 for emotet (Europol/DOJ/Eurojust/DOJ-MDNC), 1 for morpheus (NCA), 2 for trojan-shield (FBI/Europol), 2 for zambia (The Record/Bitdefender)</li>
+<li>Operation pages updated: 5 (frontmatter sources + source_count + updated date)</li>
+<li>Data corrections: zambia-golden-top raid date 2025→2024 (L16 cascade caught); emotet dead politie.nl URL pruned; morpheus Hacker News Tier-3 row replaced with NCA Tier-1</li>
+<li>Methodology doc: <code>_workspace/source-enrichment-method.md</code> — scaling estimate for remaining 14 ops: ~50 min wall-clock with 4 parallel agents</li>
+<li>Lint: CRITICAL 0 / HIGH 0 / MEDIUM 0 / LOW 16 (unchanged from baseline)</li>
+<li>check_links.py: broken 0 (unchanged)</li>
+</ul>
 <h2 id="2026-04-14-ingest-4-eurojust-press-releases-eurojust-rss">[2026-04-14] ingest | 4 Eurojust press releases (Eurojust RSS 복구 후 첫 수집분)</h2>
 <ul>
 <li>Sources: raw/press-releases/2026-04-14_eurojust_cryptocurrency-mixing-service-used-to-launder-money-taken-do.md, raw/press-releases/2026-04-14_eurojust_european-judicial-cybercrime-network-strengthens-resolve-to.md, raw/press-releases/2026-04-14_eurojust_judicial-cooperation-key-to-arresting-leaders-of-online-frau.md, raw/press-releases/2026-04-14_eurojust_servers-used-for-cybercrime-around-the-world-taken-down.md</li>
