@@ -104,9 +104,14 @@ lessons_learned:
   - "International cooperation across diverse legal systems (common law / civil law / Thai law) is feasible for high-priority targets"
   - "Darknet marketplace users rapidly migrate to alternatives -- coordinating takedowns of multiple markets simultaneously maximizes disruption"
 source_count: 5
-sources: []
+sources:
+  - "[[2017-07-20-europol-alphabay-hansa-takedown]]"
+  - "[[2017-07-20-doj-alphabay-shutdown]]"
+  - "[[2017-07-20-dea-alphabay-shutdown]]"
+  - "[[2017-07-20-fbi-alphabay-takedown]]"
+  - "[[unodc-alphabay-true-crime-story]]"
 created: 2026-04-10
-updated: 2026-04-10
+updated: 2026-04-14
 ---
 
 ## Summary

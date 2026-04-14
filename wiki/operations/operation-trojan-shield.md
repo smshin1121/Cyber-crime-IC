@@ -39,17 +39,19 @@ results:
     - "27 million messages intercepted"
     - "Disruption of 300+ criminal syndicates"
 edges: []
-credibility_index: 0.0
-source_tier: 0
-missing_fields: ["participating_countries", "legal_basis", "source_tier"]
+credibility_index: 3.5
+source_tier: 2
+missing_fields: ["participating_countries", "legal_basis"]
 related_cases: []
 related_operations: []
 challenges_encountered: []
 lessons_learned: []
-source_count: 0
-sources: []
+source_count: 2
+sources:
+  - "[[2021-06-08-fbi-operation-trojan-shield]]"
+  - "[[2021-06-08-europol-trojan-shield-an0m]]"
 created: 2026-04-12
-updated: 2026-04-12
+updated: 2026-04-14
 ---
 
 > [!info] Stub

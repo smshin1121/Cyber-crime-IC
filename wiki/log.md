@@ -1,5 +1,15 @@
 # Activity Log
 
+## [2026-04-14] source-enrichment pilot | 5 operations with empty sources enriched
+- Pilot scope: 5 of 19 operations that had empty `sources: []` frontmatter
+- Targets: alphabay-takedown, emotet-takedown, operation-morpheus, operation-trojan-shield (Tier 1), zambia-golden-top-call-center (Tier 2 fallback)
+- Sources created (14): 5 for alphabay (Europol/DOJ/DEA/FBI/UNODC), 4 for emotet (Europol/DOJ/Eurojust/DOJ-MDNC), 1 for morpheus (NCA), 2 for trojan-shield (FBI/Europol), 2 for zambia (The Record/Bitdefender)
+- Operation pages updated: 5 (frontmatter sources + source_count + updated date)
+- Data corrections: zambia-golden-top raid date 2025→2024 (L16 cascade caught); emotet dead politie.nl URL pruned; morpheus Hacker News Tier-3 row replaced with NCA Tier-1
+- Methodology doc: `_workspace/source-enrichment-method.md` — scaling estimate for remaining 14 ops: ~50 min wall-clock with 4 parallel agents
+- Lint: CRITICAL 0 / HIGH 0 / MEDIUM 0 / LOW 16 (unchanged from baseline)
+- check_links.py: broken 0 (unchanged)
+
 ## [2026-04-14] ingest | 4 Eurojust press releases (Eurojust RSS 복구 후 첫 수집분)
 - Sources: raw/press-releases/2026-04-14_eurojust_cryptocurrency-mixing-service-used-to-launder-money-taken-do.md, raw/press-releases/2026-04-14_eurojust_european-judicial-cybercrime-network-strengthens-resolve-to.md, raw/press-releases/2026-04-14_eurojust_judicial-cooperation-key-to-arresting-leaders-of-online-frau.md, raw/press-releases/2026-04-14_eurojust_servers-used-for-cybercrime-around-the-world-taken-down.md
 - Pages created (10):

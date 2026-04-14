@@ -58,9 +58,10 @@ results:
   - IP addresses flagged to internet service providers in 27 countries
   servers_seized: 593
   victims_notified: 0
-source_count: 2
-source_tier: 3
-sources: []
+source_count: 1
+source_tier: 2
+sources:
+  - "[[2024-06-28-uk-nca-operation-morpheus-cobalt-strike]]"
 status: completed
 target_entity: Unauthorized Cobalt Strike servers
 timeframe:
@@ -146,5 +147,7 @@ No Korean involvement identified. However, Cobalt Strike abuse is a global issue
 
 | # | Title | Publisher | Date | URL |
 |---|-------|----------|------|-----|
-| [1] | Global Police Operation Shuts Down 600 | The Hacker News | 2024-07 | [원본](https://thehackernews.com/2024/07/global-police-operation-shuts-down-600.html) |
-| [2] | National Crime Agency Leads International Operation To Degrade Illegal Versio... | UK NCA | 2024-06-28 | [원본](https://www.nationalcrimeagency.gov.uk/news/national-crime-agency-leads-international-operation-to-degrade-illegal-versions-of-cobalt-strike) |
+| [1] | National Crime Agency leads international operation to degrade illegal versions of Cobalt Strike | UK NCA | 2024-07-03 | [link](https://www.nationalcrimeagency.gov.uk/news/national-crime-agency-leads-international-operation-to-degrade-illegal-versions-of-cobalt-strike) |
+
+> [!note] Source enrichment 2026-04-14
+> A prior Tier-3 row (The Hacker News aggregator, 2024-07) was removed in favor of the Tier-1 NCA primary source. The NCA page corroborates all quantitative claims on this page.

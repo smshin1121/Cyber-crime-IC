@@ -86,10 +86,14 @@ lessons_learned:
   - "Botnet infrastructure can be repurposed to deliver uninstall payloads to victims"
   - "Multi-year investigation timeline required to map globally distributed C2 infrastructure"
   - "Despite successful takedown, Emotet resurfaced 10 months later -- infrastructure disruption alone is insufficient without arrests of key operators"
-source_count: 5
-sources: []
+source_count: 4
+sources:
+  - "[[2021-01-27-europol-emotet-disruption]]"
+  - "[[2021-01-27-doj-emotet-disruption]]"
+  - "[[2021-01-27-eurojust-emotet-operation]]"
+  - "[[2021-01-27-doj-mdnc-emotet]]"
 created: 2026-04-10
-updated: 2026-04-10
+updated: 2026-04-14
 ---
 
 ## Summary
@@ -267,6 +271,8 @@ South Korea was **not among the eight participating countries** in Operation Lad
 |---|--------|-----------|------|-----|
 | [1] | World's most dangerous malware EMOTET disrupted through global action | Europol | 2021-01-27 | [link](https://www.europol.europa.eu/media-press/newsroom/news/world%E2%80%99s-most-dangerous-malware-emotet-disrupted-through-global-action) |
 | [2] | Emotet Botnet Disrupted in International Cyber Operation | US DOJ | 2021-01-27 | [link](https://www.justice.gov/archives/opa/pr/emotet-botnet-disrupted-international-cyber-operation) |
-| [3] | Internationale politieoperatie LadyBird: wereldwijd botnet Emotet ontmanteld | Dutch National Police | 2021-01-27 | [link](https://www.politie.nl/nieuws/2021/januari/27/11-internationale-politieoperatie-ladybird-botnet-emotet-wereldwijd-ontmanteld.html) |
-| [4] | Major operation to take down dangerous malware systems | Eurojust | 2021-01-27 | [link](https://www.eurojust.europa.eu/news/major-operation-take-down-dangerous-malware-systems) |
-| [5] | Emotet Botnet Disrupted in International Cyber Operation | US DOJ MDNC | 2021-01-27 | [link](https://www.justice.gov/usao-mdnc/pr/emotet-botnet-disrupted-international-cyber-operation) |
+| [3] | Major operation to take down dangerous malware systems | Eurojust | 2021-01-27 | [link](https://www.eurojust.europa.eu/news/major-operation-take-down-dangerous-malware-systems) |
+| [4] | Emotet Botnet Disrupted in International Cyber Operation | US DOJ MDNC | 2021-01-27 | [link](https://www.justice.gov/usao-mdnc/pr/emotet-botnet-disrupted-international-cyber-operation) |
+
+> [!note] Source note
+> The original Dutch National Police press release URL (`politie.nl/.../ladybird...html`) is currently 404. The substantive Dutch-side facts are corroborated by the Europol, Eurojust, and DOJ sources above.
