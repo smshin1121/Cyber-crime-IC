@@ -18,6 +18,14 @@ OUTPUT_DIR = Path(__file__).resolve().parent.parent / "docs"
 
 def build() -> None:
     """Generate static HTML site in docs/ directory."""
+    # Rebuild category indexes from the wiki tree before any derived outputs.
+    try:
+        from reconcile_indexes import main as reconcile_main
+        print("Reconciling indexes...")
+        reconcile_main()
+    except Exception as e:
+        print(f"  Warning: index reconcile skipped ({e})")
+
     # Sync statistics before building
     try:
         from sync_stats import main as sync_main

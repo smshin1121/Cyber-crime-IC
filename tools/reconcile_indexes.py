@@ -679,10 +679,15 @@ def update_master_index(counts: dict[str, int], dry_run: bool = False) -> bool:
     # Update "full list of N operations" style references
     ops = counts.get("operations", 0)
     text = re.sub(r"full list of \d+ operations", f"full list of {ops} operations", text)
+    srcs = counts.get("sources", 0)
+    text = re.sub(
+        r"full list of \d+ dedicated source pages",
+        f"full list of {srcs} dedicated source pages",
+        text,
+    )
 
     # Update total pages and total sources on the top metadata line
     total_pages = sum(counts.values())
-    srcs = counts.get("sources", 0)
     text = re.sub(r"Total pages:\s*\d+", f"Total pages: {total_pages}", text)
     text = re.sub(r"Total sources:\s*\d+", f"Total sources: {srcs}", text)
 
