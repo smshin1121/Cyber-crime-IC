@@ -78,7 +78,8 @@ results:
   other:
     - "20 international arrest warrants issued"
     - "18 suspects added to EU Most Wanted list"
-related_cases: []
+related_cases:
+  - "[[us-v-stepanov-danabot]]"
 related_operations:
   - "[[operation-endgame-phase1]]"
 challenges_encountered: []
@@ -92,7 +93,7 @@ sources:
   - "[[2025-05-28-thehackernews-danabot-malware]]"
   - "[[2025-05-22-europol-endgame-follow-up]]"
 created: 2026-04-08
-updated: 2026-04-08
+updated: 2026-04-12
 ---
 
 ## Summary

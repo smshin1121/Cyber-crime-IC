@@ -1,5 +1,17 @@
 # Activity Log
 
+## [2026-04-12] ingest | Court documents for 10 operations (판결문 수집 첫 배치)
+- Source: DOJ press releases, indictments, sentencing announcements (justice.gov)
+- Raw case documents created (10): silk-road sentencing, infraud indictment, goznym indictment, darkode indictment, trickbot/conti indictments, qakbot/gallyamov indictment, danabot indictment, dridex/yakubets indictment, ghinkul/bugat indictment, emotet disruption order
+- Case pages created (9): us-v-ulbricht-silk-road, us-v-bondarenko-infraud, us-v-konovolov-goznym, us-v-gudmunds-darkode, us-v-galochkin-trickbot-conti, us-v-gallyamov-qakbot, us-v-stepanov-danabot, us-v-yakubets-dridex, emotet-disruption-ladybird
+- Operations updated (9): silk-road (already had link), infraud, goznym, darkode, trickbot, operation-endgame, operation-endgame-phase2, qakbot-gallyamov, dridex, emotet
+- Key findings:
+  - Ulbricht life sentence (2015) + Trump pardon (2025) is the most historically significant cyber sentencing/clemency sequence
+  - GozNym case established unprecedented parallel-prosecution model across 6 countries
+  - TrickBot/Conti: Dunaev arrest in South Korea is a key Korean IC cooperation example
+  - Infraud RICO application to cybercrime forums set prosecution precedent for 36-defendant indictment
+  - All 16 DanaBot defendants and most TrickBot/Dridex defendants remain at large in Russia
+
 ## [2026-04-14] source-enrichment pilot | 5 operations with empty sources enriched
 - Pilot scope: 5 of 19 operations that had empty `sources: []` frontmatter
 - Targets: alphabay-takedown, emotet-takedown, operation-morpheus, operation-trojan-shield (Tier 1), zambia-golden-top-call-center (Tier 2 fallback)

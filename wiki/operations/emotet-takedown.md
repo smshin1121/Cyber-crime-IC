@@ -76,7 +76,8 @@ source_tier: 1
 missing_fields:
   - "cryptocurrency_seized"
   - "full list of national agencies beyond lead participants"
-related_cases: []
+related_cases:
+  - "[[emotet-disruption-ladybird]]"
 related_operations:
   - "[[operation-endgame-phase1]]"
   - "[[operation-avalanche]]"

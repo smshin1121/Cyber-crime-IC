@@ -51,7 +51,8 @@ participating_countries:
 - '[[moldova]]'
 - '[[ukraine]]'
 period: 2
-related_cases: []
+related_cases:
+- '[[us-v-konovolov-goznym]]'
 related_operations: []
 results:
   arrests: 10
@@ -79,7 +80,7 @@ timeframe:
 title: GozNym Malware Network Dismantling
 title_ko: 공식 작전명 없음 (GozNym 악성코드 네트워크 해체)
 type: operation
-updated: '2026-04-09'
+updated: '2026-04-12'
 ---
 
 ## Summary

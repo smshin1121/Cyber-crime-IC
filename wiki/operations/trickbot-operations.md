@@ -72,7 +72,8 @@ edges:
 credibility_index: 4.5
 source_tier: 1
 missing_fields: []
-related_cases: []
+related_cases:
+  - "[[us-v-galochkin-trickbot-conti]]"
 related_operations:
   - "[[emotet-takedown|Emotet Takedown]]"
 challenges_encountered:
@@ -90,7 +91,7 @@ sources:
   - "[DOJ — Multiple Foreign Nationals Charged (2023-09-07)](https://www.secretservice.gov/newsroom/releases/2023/09/multiple-foreign-nationals-charged-connection-trickbot-malware-and-conti)"
   - "[BleepingComputer — Dunaev sentenced (2024-01)](https://www.bleepingcomputer.com/news/security/russian-trickbot-malware-dev-sentenced-to-64-months-in-prison/)"
 created: 2026-04-10
-updated: 2026-04-11
+updated: 2026-04-12
 ---
 
 ## Summary

@@ -90,7 +90,8 @@ sources:
   - "[[europol-operation-endgame-phase-2-ransomware-kill-chain-disruption]]"
   - "[[the-hacker-news-operation-endgame-phase-2-ransomware-kill-chain-disrup]]"
 related_cases:
-  - "[[qakbot-gallyamov-indictment]]"
+  - "[[us-v-gallyamov-qakbot]]"
+  - "[[us-v-stepanov-danabot]]"
 related_operations:
   - "[[operation-endgame-phase1]]"
   - "[[operation-endgame-phase2]]"

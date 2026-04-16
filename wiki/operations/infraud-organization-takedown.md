@@ -48,7 +48,8 @@ participating_countries:
 - '[[serbia]]'
 - '[[thailand]]'
 period: 1
-related_cases: []
+related_cases:
+- '[[us-v-bondarenko-infraud]]'
 related_operations:
 - '[[infraud-telusma-sentencing]]'
 results:
@@ -83,7 +84,7 @@ timeframe:
 title: Infraud Organization Takedown
 title_ko: 인프라우드 조직 소탕
 type: operation
-updated: '2026-04-09'
+updated: '2026-04-12'
 ---
 
 > [!note] This operation is documented from a Tier 3 (cybersecurity media) source. Additional verification from official sources (Tier 1-2) would strengthen data reliability.

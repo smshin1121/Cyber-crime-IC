@@ -1,6 +1,6 @@
 # Wiki Index
 
-*Last updated: 2026-04-14 | Total pages: 427 | Total sources: 122*
+*Last updated: 2026-04-14 | Total pages: 436 | Total sources: 122*
 
 ## Legal Frameworks (7)
 - [[budapest-convention]] — First binding international treaty on cybercrime; 70+ parties; core IC provisions (Art. 29, 31, 32, 35)
@@ -47,7 +47,7 @@ Recent highlights:
 - [[operation-sentinel-africa]] — INTERPOL Africa BEC/ransomware (2025); 574 arrests
 (... and 77 more)
 
-## Cases (1)
+## Cases (10)
 - [[de-fr-online-fraud-group-2026]] — Bilateral DE-FR online fraud prosecution via Eurojust (2026)
 
 
@@ -83,7 +83,7 @@ Recent highlights:
 - [[nationality-principle]] — State jurisdiction over crimes by nationals abroad; Korean 형법 Art. 3; Cambodia scam centres
 
 ## Sources (122)
-See [[sources/_index]] for the full list of 23 dedicated source pages.
+See [[sources/_index]] for the full list of 122 dedicated source pages.
 
 Distribution: Europol 6, INTERPOL 10, US DOJ 3, Korea NPA 1, News 3. Additional operations sourced from Excel batch import (no dedicated source pages).
 

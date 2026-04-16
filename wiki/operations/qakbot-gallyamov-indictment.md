@@ -53,7 +53,8 @@ participating_countries:
 - '[[germany]]'
 - '[[netherlands]]'
 period: 3
-related_cases: []
+related_cases:
+- '[[us-v-gallyamov-qakbot]]'
 related_operations:
 - '[[operation-endgame-phase1]]'
 - '[[operation-endgame-phase2]]'
@@ -82,7 +83,7 @@ timeframe:
   start: '2008'
 title: QakBot / Gallyamov Indictment
 type: operation
-updated: 2026-04-08
+updated: 2026-04-12
 ---
 
 ## Summary
