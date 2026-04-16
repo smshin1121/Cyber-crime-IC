@@ -1,4 +1,4 @@
----
+﻿---
 aliases:
 - Operation Nova
 - Safe-Inet takedown
@@ -139,6 +139,14 @@ No Korean involvement identified.
 - How many criminal groups were using the service?
 - What was the technical method for identifying and seizing the infrastructure?
 - Did the takedown lead to any follow-up investigations against the service's users?
+
+## Follow-Up Actions
+
+> [!warning] No public court documents found
+> Web search (2026-04-17) yielded no publicly accessible court filings
+> for this operation. Possible reasons: non-US jurisdiction with no
+> public court records system, sealed proceedings, or operation did
+> not result in formal prosecution.
 
 ## References
 

@@ -1,4 +1,4 @@
----
+﻿---
 aliases:
 - Darkode Takedown
 case_id: CYB-2015-001
@@ -119,6 +119,14 @@ United States, United Kingdom, Sweden, Bosnia and Herzegovina, Romania, Serbia, 
 ## Cooperation Mechanisms Used
 
 The operation was coordinated through Europol's European Cybercrime Centre (EC3) and involved simultaneous law enforcement actions across 20 countries. The FBI's Pittsburgh field office played a central role in the investigation, with the National Cyber-Forensics & Training Alliance (NCFTA) providing private sector support.
+
+## Follow-Up Actions
+
+> [!warning] No public court documents found
+> Web search (2026-04-17) yielded no publicly accessible court filings
+> for this operation. Possible reasons: non-US jurisdiction with no
+> public court records system, sealed proceedings, or operation did
+> not result in formal prosecution.
 
 ## References
 

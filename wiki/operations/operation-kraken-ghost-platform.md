@@ -1,4 +1,4 @@
----
+﻿---
 type: operation
 title: "Operation Kraken — Ghost Platform Takedown"
 title_ko: "크라켄 작전 (고스트 플랫폼 해체)"
@@ -262,6 +262,13 @@ The operation relied on multiple legal frameworks spanning nine jurisdictions:
 
 ## Follow-Up Actions
 
+> [!warning] No public court documents found
+> Web search (2026-04-17) yielded no publicly accessible court filings
+> for this operation. Possible reasons: non-US jurisdiction with no
+> public court records system, sealed proceedings, or operation did
+> not result in formal prosecution.
+
+
 - Jay Je Yoon Jung awaits trial in Australia; faces up to 26 years imprisonment.
 - 12 additional members of an Irish high-risk criminal network arrested following Ghost intelligence.
 - Ongoing analysis of intercepted Ghost messages across all nine participating jurisdictions.
@@ -296,3 +303,4 @@ No known direct Korean involvement in Operation Kraken or the Ghost platform inv
 | [4] | 51 arrests made in global takedown of Ghost crime platform | The Register | 2024-09-18 | [원본](https://www.theregister.com/2024/09/18/51_arrests_ghost_platform/) |
 | [5] | Police announce takedown and arrest mastermind behind criminal comms platform 'Ghost' | The Record | 2024-09-18 | [원본](https://therecord.media/ghost-encrypted-criminal-communications-takedown-arrests) |
 | [6] | $9m in crypto seized from accused Ghost app creator | Information Age / ACS | 2024-10-03 | [원본](https://ia.acs.org.au/article/2024/9m-in-crypto-seized-from-accused-ghost-app-creator.html) |
+

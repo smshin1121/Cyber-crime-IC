@@ -1,4 +1,4 @@
----
+﻿---
 type: operation
 title: "xDedic Marketplace Takedown"
 title_ko: "xDedic 마켓플레이스 소탕"
@@ -130,8 +130,17 @@ No Korean involvement identified. However, compromised servers in any country co
 - How many victims were notified about their compromised servers?
 - What was the role of Belgian law enforcement specifically?
 
+## Follow-Up Actions
+
+> [!warning] No public court documents found
+> Web search (2026-04-17) yielded no publicly accessible court filings
+> for this operation. Possible reasons: non-US jurisdiction with no
+> public court records system, sealed proceedings, or operation did
+> not result in formal prosecution.
+
 ## References
 
 | # | Title | Publisher | Date | URL |
 |---|-------|----------|------|-----|
 | [1] | Cyber Criminal Marketplace | The Hacker News | 2019-01-28 | [link](https://thehackernews.com/2019/01/cyber-criminal-marketplace.html) |
+

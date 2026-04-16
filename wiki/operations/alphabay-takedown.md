@@ -91,7 +91,8 @@ source_tier: 1
 missing_fields:
   - "exact server count"
   - "full list of national agencies in supporting roles"
-related_cases: []
+related_cases:
+  - "[[us-v-cazes-alphabay]]"
 related_operations:
   - "[[operation-shrouded-horizon]]"
   - "[[darkode-takedown]]"

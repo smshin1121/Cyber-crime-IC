@@ -1,4 +1,4 @@
----
+﻿---
 aliases:
 - Phobos 8Base operation
 - 8Base arrests Feb 2025
@@ -211,6 +211,14 @@ The successful extradition demonstrates the practical effectiveness of the Korea
 - What was the legal basis for the South Korea arrest (Red Notice, MLAT, bilateral cooperation)?
 - What was the specific legal basis for the Korea-US extradition?
 - What role, if any, did Korean digital forensics play in the broader investigation?
+
+## Follow-Up Actions
+
+> [!warning] No public court documents found
+> Web search (2026-04-17) yielded no publicly accessible court filings
+> for this operation. Possible reasons: non-US jurisdiction with no
+> public court records system, sealed proceedings, or operation did
+> not result in formal prosecution.
 
 ## References
 

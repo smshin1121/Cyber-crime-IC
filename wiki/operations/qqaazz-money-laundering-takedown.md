@@ -1,4 +1,4 @@
----
+﻿---
 type: operation
 title: "QQAAZZ Money Laundering Network Takedown"
 title_ko: "QQAAZZ 자금세탁 네트워크 소탕"
@@ -136,8 +136,17 @@ No Korean involvement identified.
 - Which specific cybercrime groups used QQAAZZ services?
 - How many bank accounts were seized?
 
+## Follow-Up Actions
+
+> [!warning] No public court documents found
+> Web search (2026-04-17) yielded no publicly accessible court filings
+> for this operation. Possible reasons: non-US jurisdiction with no
+> public court records system, sealed proceedings, or operation did
+> not result in formal prosecution.
+
 ## References
 
 | # | Title | Publisher | Date | URL |
 |---|-------|----------|------|-----|
 | [1] | FBI accuses Russian money laundering QQAAZZ | CyberScoop | 2020-10-15 | [link](https://cyberscoop.com/fbi-accuses-russian-money-laundering-qqaazz/) |
+

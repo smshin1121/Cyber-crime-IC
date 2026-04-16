@@ -1,4 +1,4 @@
----
+﻿---
 type: operation
 title: "CyberBunker Bulletproof Hosting Takedown"
 title_ko: "사이버벙커 방탄호스팅 소탕"
@@ -226,3 +226,12 @@ No [[south-korea|South Korean]] involvement in the CyberBunker takedown has been
 - **Eighth defendant**: Seven persons were arrested during the raid, but eight were convicted. The identity and circumstances of the eighth defendant have not been clearly reported.
 - **Cryptocurrency seizure**: The amount of cryptocurrency seized from the facility has not been publicly disclosed, though CyberBunker's operations were reportedly crypto-fuelled.
 - **Connection to original CyberBunker**: The relationship between the original Dutch CyberBunker (1990s-2002) and the German operation (2013-2019) was primarily through Xennt personally. Whether any Dutch investigation preceded the German operation is unclear.
+
+## Follow-Up Actions
+
+> [!warning] No public court documents found
+> Web search (2026-04-17) yielded no publicly accessible court filings
+> for this operation. Possible reasons: non-US jurisdiction with no
+> public court records system, sealed proceedings, or operation did
+> not result in formal prosecution.
+

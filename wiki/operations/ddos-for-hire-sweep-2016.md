@@ -1,4 +1,4 @@
----
+﻿---
 aliases:
 - International Cyber Sweep DDoS
 case_id: CYB-2016-002
@@ -93,6 +93,14 @@ United States, United Kingdom, France, Belgium, Hungary, Lithuania, Netherlands,
 - **101 suspects** interviewed or cautioned
 - Most suspects identified as being under 20 years old
 - Global DDoS attack network disrupted
+
+## Follow-Up Actions
+
+> [!warning] No public court documents found
+> Web search (2026-04-17) yielded no publicly accessible court filings
+> for this operation. Possible reasons: non-US jurisdiction with no
+> public court records system, sealed proceedings, or operation did
+> not result in formal prosecution.
 
 ## References
 

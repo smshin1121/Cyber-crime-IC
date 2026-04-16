@@ -1,4 +1,4 @@
----
+﻿---
 type: operation
 title: "Operation Source"
 title_ko: "Operation Source (Beebone 봇넷 해체)"
@@ -95,8 +95,17 @@ Netherlands, United States, EU member states (Germany, France, Italy, etc.)
 - Polymorphic Beebone botnet neutralized
 - Distribution of ransomware, financial malware, rootkits disrupted
 
+## Follow-Up Actions
+
+> [!warning] No public court documents found
+> Web search (2026-04-17) yielded no publicly accessible court filings
+> for this operation. Possible reasons: non-US jurisdiction with no
+> public court records system, sealed proceedings, or operation did
+> not result in formal prosecution.
+
 ## References
 
 | # | Title | Publisher | Date | URL |
 |---|-------|----------|------|-----|
 | [1] | International Police Operation Targets Polymorphic Beebone Botnet | Europol | 2015-04 | [원본](https://www.europol.europa.eu/media-press/newsroom/news/international-police-operation-targets-polymorphic-beebone-botnet) |
+

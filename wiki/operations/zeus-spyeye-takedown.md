@@ -1,4 +1,4 @@
----
+﻿---
 type: operation
 title: "Zeus/SpyEye Crime Syndicate Takedown"
 title_ko: "Zeus/SpyEye 범죄 조직 소탕"
@@ -123,8 +123,17 @@ No Korean involvement identified. Zeus and SpyEye primarily targeted Western ban
 - What was the timeline of the investigation preceding the takedown announcement?
 - How many victims were affected by the Zeus/SpyEye syndicate?
 
+## Follow-Up Actions
+
+> [!warning] No public court documents found
+> Web search (2026-04-17) yielded no publicly accessible court filings
+> for this operation. Possible reasons: non-US jurisdiction with no
+> public court records system, sealed proceedings, or operation did
+> not result in formal prosecution.
+
 ## References
 
 | # | Title | Publisher | Date | URL |
 |---|-------|----------|------|-----|
 | [1] | Zeus and SpyEye crime syndicate taken down by Europol | Sophos | 2015-06-30 | [link](https://news.sophos.com/en-us/2015/06/30/zeus-and-spyeye-crime-syndicate-taken-down-by-europol/) |
+

@@ -1,4 +1,4 @@
----
+﻿---
 aliases:
 - Operation Night Fury
 - Magecart Indonesia arrest
@@ -130,6 +130,14 @@ No Korean involvement identified. South Korean e-commerce sites could potentiall
 - How much financial loss was attributed to the group?
 - Were the suspects convicted and sentenced?
 - What was Singapore's specific role in the operation?
+
+## Follow-Up Actions
+
+> [!warning] No public court documents found
+> Web search (2026-04-17) yielded no publicly accessible court filings
+> for this operation. Possible reasons: non-US jurisdiction with no
+> public court records system, sealed proceedings, or operation did
+> not result in formal prosecution.
 
 ## References
 

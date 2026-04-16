@@ -1,4 +1,4 @@
----
+﻿---
 type: operation
 title: "Operation Onymous"
 aliases:
@@ -248,6 +248,14 @@ There is no publicly reported Korean involvement in Operation Onymous. The opera
 - **Legal validity of evidence**: If the Tor deanonymization relied on an exploit developed without a warrant, the admissibility of evidence derived from it could be challenged. The resolution of this legal question in the Benthall case is not widely documented.
 - **Benthall case outcome**: The final disposition of Blake Benthall's case after his arrest has received limited public reporting. His plea and sentencing outcomes are not clearly documented in available sources.
 
+## Follow-Up Actions
+
+> [!warning] No public court documents found
+> Web search (2026-04-17) yielded no publicly accessible court filings
+> for this operation. Possible reasons: non-US jurisdiction with no
+> public court records system, sealed proceedings, or operation did
+> not result in formal prosecution.
+
 ## References
 
 | # | Source | Publisher | Date | URL |
@@ -257,3 +265,4 @@ There is no publicly reported Korean involvement in Operation Onymous. The opera
 | 3 | Operator of Silk Road 2.0 Website Charged in Manhattan Federal Court | FBI | 2014-11-06 | [Link](https://www.fbi.gov/contact-us/field-offices/newyork/news/press-releases/operator-of-silk-road-2.0-website-charged-in-manhattan-federal-court) |
 | 4 | International probe leads to the arrest of the alleged operator of "Silk Road 2.0" | ICE / HSI | 2014-11-06 | [Link](https://www.ice.gov/news/releases/international-probe-leads-arrest-alleged-operator-silk-road-20) |
 | 5 | GDPO Situation Analysis — Operation Onymous | Swansea University | 2015-01 | [Link](https://www.swansea.ac.uk/media/Operation-Onymous.pdf) |
+

@@ -1,4 +1,4 @@
----
+﻿---
 type: operation
 title: "Operation Pleiades"
 title_ko: "Operation Pleiades (DD4BC 사이버범죄 조직 단속)"
@@ -100,8 +100,17 @@ United Kingdom, Austria, Germany, Bosnia and Herzegovina, United States, Austral
 - DD4BC DDoS-for-Bitcoin extortion network disrupted
 - Attacks on online gambling, financial, and entertainment companies addressed
 
+## Follow-Up Actions
+
+> [!warning] No public court documents found
+> Web search (2026-04-17) yielded no publicly accessible court filings
+> for this operation. Possible reasons: non-US jurisdiction with no
+> public court records system, sealed proceedings, or operation did
+> not result in formal prosecution.
+
 ## References
 
 | # | Title | Publisher | Date | URL |
 |---|-------|----------|------|-----|
 | [1] | International Action Against DD4BC Cybercriminal Group | Europol | 2015-12 | [원본](https://www.europol.europa.eu/media-press/newsroom/news/international-action-against-dd4bc-cybercriminal-group) |
+

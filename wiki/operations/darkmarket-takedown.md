@@ -1,4 +1,4 @@
----
+﻿---
 type: operation
 title: "DarkMarket Marketplace Takedown"
 aliases:
@@ -201,6 +201,14 @@ There is no publicly reported direct Korean involvement in the DarkMarket takedo
 - **Monero tracing capability**: The extent to which law enforcement successfully traced Monero (as opposed to Bitcoin) transactions remains undisclosed.
 - **Moldova cooperation quality**: The DarkMarket case raised questions about Moldova's cybercrime investigation capacity, with some reports noting that Moldovan authorities were unaware servers in their jurisdiction were being used for criminal marketplaces.
 
+## Follow-Up Actions
+
+> [!warning] No public court documents found
+> Web search (2026-04-17) yielded no publicly accessible court filings
+> for this operation. Possible reasons: non-US jurisdiction with no
+> public court records system, sealed proceedings, or operation did
+> not result in formal prosecution.
+
 ## References
 
 | # | Source | Publisher | Date | URL |
@@ -209,3 +217,4 @@ There is no publicly reported direct Korean involvement in the DarkMarket takedo
 | 2 | Authorities Take Down World's Largest Illegal Dark Web Marketplace | The Hacker News | 2021-01-12 | [Link](https://thehackernews.com/2021/01/authorities-take-down-worlds-largest.html) |
 | 3 | Servers Seized In Ukraine, Moldova As Germany Takes Down 'World's Largest' Illegal Darknet Marketplace | RFE/RL | 2021-01-12 | [Link](https://www.rferl.org/a/ukraine-moldova-servers-seized-germany-busts-darknet-operation/31044327.html) |
 | 4 | Australian man arrested in Germany accused of running 'world's largest' Darknet marketplace | SBS News | 2021-01-12 | [Link](https://www.sbs.com.au/news/article/australian-man-arrested-in-germany-accused-of-running-worlds-largest-darknet-marketplace/pee58pzoh) |
+

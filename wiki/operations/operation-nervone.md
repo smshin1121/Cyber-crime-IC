@@ -1,4 +1,4 @@
----
+﻿---
 type: operation
 title: "Operation Nervone (OPERA1ER)"
 title_ko: "네르보네 작전 (OPERA1ER)"
@@ -129,8 +129,17 @@ No Korean involvement identified. OPERA1ER primarily targeted French-speaking Af
 - Was the group leader convicted and sentenced?
 - Are other group members still at large?
 
+## Follow-Up Actions
+
+> [!warning] No public court documents found
+> Web search (2026-04-17) yielded no publicly accessible court filings
+> for this operation. Possible reasons: non-US jurisdiction with no
+> public court records system, sealed proceedings, or operation did
+> not result in formal prosecution.
+
 ## References
 
 | # | Title | Publisher | Date | URL |
 |---|-------|----------|------|-----|
 | [1] | Operation Nervone — INTERPOL, Group-IB, OPERA1ER leader arrested, 15 countries | Tier 3 media | 2023-06-05 | N/A |
+

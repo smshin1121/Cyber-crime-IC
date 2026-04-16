@@ -1,4 +1,4 @@
----
+﻿---
 type: operation
 title: "VPNLab.net Takedown"
 aliases:
@@ -227,6 +227,14 @@ There is no publicly reported Korean involvement in the VPNLab.net takedown. How
 - **Damage figure source**: The EUR 60 million damage figure attributed to VPNLab.net users appears in multiple sources but the methodology for calculating this figure is not documented.
 - **Effectiveness duration**: Given that replacement bulletproof VPN services exist, the long-term disruptive effect of the takedown on criminal operations is uncertain.
 
+## Follow-Up Actions
+
+> [!warning] No public court documents found
+> Web search (2026-04-17) yielded no publicly accessible court filings
+> for this operation. Possible reasons: non-US jurisdiction with no
+> public court records system, sealed proceedings, or operation did
+> not result in formal prosecution.
+
 ## References
 
 | # | Source | Publisher | Date | URL |
@@ -235,3 +243,4 @@ There is no publicly reported Korean involvement in the VPNLab.net takedown. How
 | 2 | Europol shuts down VPN service used by ransomware groups | BleepingComputer | 2022-01-18 | [Link](https://www.bleepingcomputer.com/news/security/europol-shuts-down-vpn-service-used-by-ransomware-groups/) |
 | 3 | Europol Shuts Down VPNLab, Cybercriminals' Favourite VPN Service | The Hacker News | 2022-01-18 | [Link](https://thehackernews.com/2022/01/europol-shuts-down-vpnlab.html) |
 | 4 | International effort takes down VPN service, VPNLab, used for criminal activity | CyberScoop | 2022-01-18 | [Link](https://cyberscoop.com/vpnlab-europol-germany-police-takedown/) |
+

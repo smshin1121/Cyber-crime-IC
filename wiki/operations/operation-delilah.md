@@ -1,4 +1,4 @@
----
+﻿---
 aliases:
 - Operation Delilah
 - SilverTerrier arrest
@@ -113,6 +113,14 @@ No Korean involvement identified. SilverTerrier has primarily targeted Western c
 - How many countries were victimized by the group?
 - Was the arrested leader convicted?
 - Which private sector companies provided intelligence for the operation?
+
+## Follow-Up Actions
+
+> [!warning] No public court documents found
+> Web search (2026-04-17) yielded no publicly accessible court filings
+> for this operation. Possible reasons: non-US jurisdiction with no
+> public court records system, sealed proceedings, or operation did
+> not result in formal prosecution.
 
 ## References
 

@@ -1,4 +1,4 @@
----
+﻿---
 type: operation
 title: "Nigerian BEC Email Fraud Arrest ($60M)"
 title_ko: "나이지리아 BEC 이메일 사기 체포 (6천만 달러)"
@@ -116,8 +116,17 @@ No Korean involvement identified. However, BEC schemes increasingly targeted com
 - How many victims were affected across how many countries?
 - Was the suspect ultimately convicted and sentenced?
 
+## Follow-Up Actions
+
+> [!warning] No public court documents found
+> Web search (2026-04-17) yielded no publicly accessible court filings
+> for this operation. Possible reasons: non-US jurisdiction with no
+> public court records system, sealed proceedings, or operation did
+> not result in formal prosecution.
+
 ## References
 
 | # | Title | Publisher | Date | URL |
 |---|-------|----------|------|-----|
 | [1] | Nigerian scammer arrested for $60 million email fraud | Sophos | 2016-08-02 | [link](http://web.archive.org/web/20251107193750/https://news.sophos.com/en-us/2016/08/02/nigerian-scammer-arrested-for-60-million-email-fraud/) |
+

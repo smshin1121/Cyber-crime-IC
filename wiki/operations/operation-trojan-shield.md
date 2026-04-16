@@ -42,7 +42,8 @@ edges: []
 credibility_index: 3.5
 source_tier: 2
 missing_fields: ["participating_countries", "legal_basis"]
-related_cases: []
+related_cases:
+  - "[[us-v-anom-distributors]]"
 related_operations: []
 challenges_encountered: []
 lessons_learned: []

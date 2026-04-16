@@ -1,4 +1,4 @@
----
+﻿---
 type: operation
 title: "Lumma Stealer Takedown"
 aliases: ["LummaC2 Disruption", "Lumma Stealer Disruption"]
@@ -169,6 +169,13 @@ The operation severed the communication link between Lumma's C2 servers and infe
 
 ## Follow-Up Actions
 
+> [!warning] No public court documents found
+> Web search (2026-04-17) yielded no publicly accessible court filings
+> for this operation. Possible reasons: non-US jurisdiction with no
+> public court records system, sealed proceedings, or operation did
+> not result in formal prosecution.
+
+
 - Ongoing monitoring of sinkholed domains for callback traffic
 - Data from seized infrastructure expected to support further investigations
 - Remediation efforts for 394,000+ identified infected systems
@@ -190,3 +197,4 @@ No known South Korean involvement in this operation has been reported. South Kor
 4. **Developer location**: "Shamel" is described as "based in Russia" but this has not been independently confirmed by law enforcement in public statements.
 
 5. **Infection count methodology**: The 394,000 figure covers a specific two-month window (March 16 — May 16, 2025) and *likely* understates the total number of systems ever infected by Lumma.
+

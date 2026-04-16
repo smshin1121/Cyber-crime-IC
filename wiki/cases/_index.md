@@ -6,13 +6,17 @@ created: 2026-04-08
 updated: 2026-04-14
 ---
 
-# Cases (14)
+# Cases (18)
 
 | Case | Jurisdiction | Crime | Status | IC Elements | Precedent Value | Sources |
 |------|--------------|-------|--------|-------------|-----------------|---------|
 | [[de-fr-online-fraud-group-2026]] | Germany (lead) — France (cooperating) | online-fraud-ic | arrested | — | low (routine bilateral DE-FR judicial cooperation; illustrative of Eurojust's everyday casework rather than a novel legal precedent) | 1 |
 | [[emotet-disruption-ladybird]] | U.S. District Court, Middle District of North Carolina (US component); Ukraine (criminal prosecution) | ransomware-ic, malware-ic | arrested | — | High — first large-scale law enforcement-controlled malware remediation (uninstall module deployed to infected machines worldwide via botnet's own update mechanism) | 1 |
+| [[in-re-bidencash-marketplace-seizure]] | U.S. District Court, Eastern District of Virginia | carding-fraud-ic | trial-pending | — | Moderate - the matter likely illustrates a modern carding-market disruption model built on domain seizure warrants, crypto seizure authority, Dutch cooperation, and private-sector infrastructure intelligence rather than immediate operator arrests. | 1 |
+| [[us-v-anom-distributors]] | U.S. District Court, Southern District of California | organized-crime-ic | convicted | MLAT, extradition | High - the case almost certainly represents one of the most ambitious examples of law enforcement secretly operating a criminal communications platform and then converting global intelligence collection into extraditions, pleas, and sentencing. | 1 |
+| [[us-v-astamirov-vasiliev-lockbit]] | U.S. District Court, District of New Jersey | ransomware-ic | convicted | — | High - the case likely gives Operation Cronos its clearest public courtroom follow-through by linking the LockBit disruption to guilty pleas, extradition, and admitted ransomware proceeds. | 1 |
 | [[us-v-bondarenko-infraud]] | U.S. District Court, District of Nevada | online-fraud-ic, cybercrime-forum-ic | convicted | MLAT, extradition | High — largest cybercrime forum prosecution by defendant count (36 indicted); RICO applied to cybercrime forum | 1 |
+| [[us-v-cazes-alphabay]] | U.S. District Court, Eastern District of California | online-fraud-ic, carding-fraud-ic | dismissed | — | High - the case likely became the anchor judicial component of Operation Bayonet by combining U.S. indictment, Thai arrest, and multi-country asset freezing against the administrator of the largest darknet market of its time. | 1 |
 | [[us-v-dekhtyarchuk-marketplace-a]] | U.S. District Court, Eastern District of Texas | carding-fraud-ic, online-fraud-ic | indicted | MLAT | Moderate - the case likely illustrates how undercover U.S. access-device purchases and foreign law-enforcement support can be combined against a Russia-based carding-market operator. | 1 |
 | [[us-v-gallyamov-qakbot]] | U.S. District Court, Central District of California | ransomware-ic, malware-ic | indicted | MLAT | Medium — demonstrates continued prosecution despite prior botnet takedown; large-scale cryptocurrency forfeiture | 1 |
 | [[us-v-galochkin-trickbot-conti]] | U.S. District Courts: Northern District of Ohio, Middle District of Tennessee, Southern District of California | ransomware-ic, malware-ic | indicted | — | High — three simultaneous indictments across three federal districts for the same criminal network; South Korea extradition demonstrates global enforcement reach | 2 |

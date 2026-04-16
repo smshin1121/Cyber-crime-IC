@@ -1,4 +1,4 @@
----
+﻿---
 type: operation
 title: "2BaGoldMule (QQAAZZ Takedown)"
 title_ko: "2BaGoldMule (QQAAZZ 자금세탁 조직 단속)"
@@ -105,8 +105,17 @@ Portugal, United States, Spain, United Kingdom, Latvia, Bulgaria, Georgia, Italy
 - QQAAZZ multi-million euro money laundering network dismantled
 - Hundreds of bank accounts used for laundering identified and seized
 
+## Follow-Up Actions
+
+> [!warning] No public court documents found
+> Web search (2026-04-17) yielded no publicly accessible court filings
+> for this operation. Possible reasons: non-US jurisdiction with no
+> public court records system, sealed proceedings, or operation did
+> not result in formal prosecution.
+
 ## References
 
 | # | Title | Publisher | Date | URL |
 |---|-------|----------|------|-----|
 | [1] | 20 Arrests in QQAAZZ Multi-Million Money Laundering Case | Europol | 2020-10 | [원본](https://www.europol.europa.eu/media-press/newsroom/news/20-arrests-in-qqaazz-multi-million-money-laundering-case) |
+

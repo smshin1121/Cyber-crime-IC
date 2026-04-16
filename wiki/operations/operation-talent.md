@@ -1,4 +1,4 @@
----
+﻿---
 aliases:
 - Talent
 case_id: CYB-2025-011
@@ -158,3 +158,12 @@ No Korean involvement reported.
 - Exact number of servers seized and infrastructure details not specified in available Europol source.
 - Whether arrests led to further indictments is not yet known.
 - The DOJ source (row 59, justice.gov) should be fetched to add Tier 1 legal document data.
+
+## Follow-Up Actions
+
+> [!warning] No public court documents found
+> Web search (2026-04-17) yielded no publicly accessible court filings
+> for this operation. Possible reasons: non-US jurisdiction with no
+> public court records system, sealed proceedings, or operation did
+> not result in formal prosecution.
+

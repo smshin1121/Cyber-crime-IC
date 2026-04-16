@@ -1,4 +1,4 @@
----
+﻿---
 type: operation
 title: "Operation Endgame — Phase 1 (Botnet Takedown)"
 aliases: ["Operation Endgame Phase 1", "Endgame botnet takedown May 2024"]
@@ -168,6 +168,13 @@ The operation involved law enforcement and judicial authorities from 13 countrie
 
 ## Follow-Up Actions
 
+> [!warning] No public court documents found
+> Web search (2026-04-17) yielded no publicly accessible court filings
+> for this operation. Possible reasons: non-US jurisdiction with no
+> public court records system, sealed proceedings, or operation did
+> not result in formal prosecution.
+
+
 - [[operation-endgame-phase2|Operation Endgame Phase 2]] (May 2025): 300 servers taken down, 650 domains neutralized, EUR 3.5M cryptocurrency seized, 20 international arrest warrants issued
 
 ## Korean Involvement (한국의 참여)
@@ -185,3 +192,4 @@ No direct Korean involvement in Operation Endgame Phase 1 was identified.
 | # | Title | Publisher | Date | URL |
 |---|-------|----------|------|-----|
 | [1] | Largest ever operation against botnets hits dropper malware ecosystem — Operation Endgame | Europol | 2024-05-30 | [원본](https://www.europol.europa.eu/media-press/newsroom/news/largest-ever-operation-against-botnets-hits-dropper-malware-ecosystem) |
+

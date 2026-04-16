@@ -1,4 +1,4 @@
----
+﻿---
 type: operation
 title: "BlackCat/ALPHV, LockerGoga, and Kelvin Security Enforcement Actions (Dec 2023)"
 title_ko: "BlackCat/ALPHV, LockerGoga, Kelvin Security 단속 (2023년 12월)"
@@ -140,8 +140,17 @@ No Korean involvement identified.
 - What was the total estimated damage caused by all three groups?
 - Were the BlackCat/ALPHV operators identified?
 
+## Follow-Up Actions
+
+> [!warning] No public court documents found
+> Web search (2026-04-17) yielded no publicly accessible court filings
+> for this operation. Possible reasons: non-US jurisdiction with no
+> public court records system, sealed proceedings, or operation did
+> not result in formal prosecution.
+
 ## References
 
 | # | Title | Publisher | Date | URL |
 |---|-------|----------|------|-----|
 | [1] | Dec 2023 roundup: BlackCat/ALPHV, LockerGoga, Kelvin Security | Tier 3 media | 2023-12 | N/A |
+

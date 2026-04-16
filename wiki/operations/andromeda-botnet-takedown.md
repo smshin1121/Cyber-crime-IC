@@ -1,4 +1,4 @@
----
+﻿---
 aliases:
 - Andromeda Botnet Takedown
 case_id: CYB-2017-001
@@ -107,6 +107,14 @@ United States, Germany, Austria, Belgium, Finland, France, Italy, Netherlands, P
 - **1 arrest** in Belarus
 - Andromeda botnet infrastructure dismantled
 - Servers and domains used for malware distribution blocked
+
+## Follow-Up Actions
+
+> [!warning] No public court documents found
+> Web search (2026-04-17) yielded no publicly accessible court filings
+> for this operation. Possible reasons: non-US jurisdiction with no
+> public court records system, sealed proceedings, or operation did
+> not result in formal prosecution.
 
 ## References
 

@@ -85,7 +85,8 @@ results:
     - "14,000+ rogue accounts identified for removal"
     - "Free decryption tools released on No More Ransom portal"
     - "3 international arrest warrants issued"
-related_cases: []
+related_cases:
+  - "[[us-v-astamirov-vasiliev-lockbit]]"
 related_operations:
   - "[[operation-cronos-phase3]]"
 challenges_encountered: []

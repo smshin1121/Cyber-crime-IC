@@ -1,4 +1,4 @@
----
+﻿---
 type: operation
 title: "DoubleVPN Takedown"
 title_ko: "DoubleVPN 소탕"
@@ -191,6 +191,13 @@ NCA Deputy Director John Denley stated: *"This is the first time law enforcement
 
 ## Follow-Up Actions
 
+> [!warning] No public court documents found
+> Web search (2026-04-17) yielded no publicly accessible court filings
+> for this operation. Possible reasons: non-US jurisdiction with no
+> public court records system, sealed proceedings, or operation did
+> not result in formal prosecution.
+
+
 - Customer data seized from DoubleVPN servers *likely* fed into subsequent ransomware investigations across participating countries
 - The [[vpnlab-takedown|VPNLab.net takedown]] (January 2022) directly referenced the DoubleVPN precedent
 - The broader trend of targeting criminal infrastructure (VPNs, bulletproof hosting, encrypted communications) continued through 2022-2025
@@ -214,3 +221,4 @@ No known Korean involvement in this operation. However, DoubleVPN's customer bas
 | [2] | Coordinated action cuts off access to VPN service used by ransomware groups | Eurojust | 2021-06-30 | https://www.eurojust.europa.eu/news/coordinated-action-cuts-access-vpn-service-used-ransomware-groups |
 | [3] | DoubleVPN takedown: NCA takes UK server of criminal network offline | UK NCA | 2021-06-30 | https://www.nationalcrimeagency.gov.uk/news/doublevpn-takedown-nca-takes-uk-server-of-criminal-network-offline |
 | [4] | Dutch police takes down DoubleVPN, a service used by cybercrime groups | The Record | 2021-06-30 | https://therecord.media/dutch-police-takes-down-doublevpn-a-service-used-by-cybercrime-groups |
+

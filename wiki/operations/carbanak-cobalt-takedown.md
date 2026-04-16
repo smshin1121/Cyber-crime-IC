@@ -1,4 +1,4 @@
----
+﻿---
 aliases:
 - Carbanak Cobalt Takedown
 case_id: CYB-2018-001
@@ -95,6 +95,14 @@ Spain, United States, Romania, Belarus, Taiwan
 - **1 arrest** (mastermind) in Spain
 - EUR 1 billion+ cyber bank robbery ring disrupted
 - 100+ financial institutions across 40+ countries victimized
+
+## Follow-Up Actions
+
+> [!warning] No public court documents found
+> Web search (2026-04-17) yielded no publicly accessible court filings
+> for this operation. Possible reasons: non-US jurisdiction with no
+> public court records system, sealed proceedings, or operation did
+> not result in formal prosecution.
 
 ## References
 

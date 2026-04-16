@@ -1,4 +1,4 @@
----
+﻿---
 type: operation
 title: "Operation Secreto"
 title_ko: "Operation Secreto (미국 은행 대상 카드사기 단속)"
@@ -95,8 +95,17 @@ Spain, United States, Austria, Denmark, Greece
 - **EUR 12 million+** in damages identified
 - Credit card fraud and money laundering ring dismantled
 
+## Follow-Up Actions
+
+> [!warning] No public court documents found
+> Web search (2026-04-17) yielded no publicly accessible court filings
+> for this operation. Possible reasons: non-US jurisdiction with no
+> public court records system, sealed proceedings, or operation did
+> not result in formal prosecution.
+
 ## References
 
 | # | Title | Publisher | Date | URL |
 |---|-------|----------|------|-----|
 | [1] | 105 Arrested for Stealing Over EUR 12 Million from US-Based Banks | Europol | 2021-02 | [원본](https://www.europol.europa.eu/media-press/newsroom/news/105-arrested-for-stealing-over-%E2%82%AC12-million-us-based-banks) |
+

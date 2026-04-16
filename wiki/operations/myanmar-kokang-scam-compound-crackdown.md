@@ -1,4 +1,4 @@
----
+﻿---
 type: operation
 title: "Myanmar-Kokang Cyber Scam Compound Crackdown"
 aliases:
@@ -243,6 +243,13 @@ This operation used unconventional cooperation mechanisms that do not fit neatly
 
 ## Follow-Up Actions
 
+> [!warning] No public court documents found
+> Web search (2026-04-17) yielded no publicly accessible court filings
+> for this operation. Possible reasons: non-US jurisdiction with no
+> public court records system, sealed proceedings, or operation did
+> not result in formal prosecution.
+
+
 - **September 2025**: 11 members of the Ming crime family sentenced to death in China
 - **2024-2025**: China extended similar crackdowns to scam operations in Thailand, Philippines, Cambodia, Laos, Vietnam, and Indonesia, resulting in 3,000+ additional arrests
 - **2024-09**: USIP reported scam hubs reviving in Myanmar as Chinese pressure eased
@@ -282,3 +289,4 @@ No known direct Korean involvement in the Myanmar-Kokang crackdown. However, the
 | [3] | Ministry Releases Details of Successful Crackdown | China Daily | 2024-01-05 | [원본](https://global.chinadaily.com.cn/a/202401/05/WS6598095ea3105f21a507ad64.html) |
 | [4] | Operation 1027 | Wikipedia | n.d. | [원본](https://en.wikipedia.org/wiki/Operation_1027) |
 | [5] | 2025 Was a Terrible Year for the Four Families | CNN | 2026-01-04 | [원본](https://www.cnn.com/2026/01/04/asia/china-myanmar-scam-crime-families-intl-hnk-dst) |
+

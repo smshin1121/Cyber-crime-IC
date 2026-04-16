@@ -1,4 +1,4 @@
----
+﻿---
 aliases:
 - Operation Lyrebird
 - INTERPOL Morocco phishing arrest
@@ -119,6 +119,14 @@ No Korean involvement identified.
 - How many victims were affected?
 - Was the suspect convicted and sentenced?
 - What specific evidence did Group-IB provide?
+
+## Follow-Up Actions
+
+> [!warning] No public court documents found
+> Web search (2026-04-17) yielded no publicly accessible court filings
+> for this operation. Possible reasons: non-US jurisdiction with no
+> public court records system, sealed proceedings, or operation did
+> not result in formal prosecution.
 
 ## References
 

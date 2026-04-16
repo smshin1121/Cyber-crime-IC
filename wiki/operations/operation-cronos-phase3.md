@@ -1,4 +1,4 @@
----
+﻿---
 type: operation
 title: "Operation Cronos — Phase 3 (LockBit Arrests and Sanctions)"
 aliases: ["Operation Cronos Phase 3", "LockBit power cut Oct 2024"]
@@ -170,6 +170,13 @@ The use of coordinated financial sanctions represented a *likely* first in the c
 
 ## Follow-Up Actions
 
+> [!warning] No public court documents found
+> Web search (2026-04-17) yielded no publicly accessible court filings
+> for this operation. Possible reasons: non-US jurisdiction with no
+> public court records system, sealed proceedings, or operation did
+> not result in formal prosecution.
+
+
 The investigation is *likely* ongoing, with additional phases possible as intelligence from seized infrastructure and arrested individuals is exploited.
 
 ## Korean Involvement (한국의 참여)
@@ -187,3 +194,4 @@ No direct Korean involvement in Operation Cronos Phase 3 was identified. Japan w
 | # | Title | Publisher | Date | URL |
 |---|-------|----------|------|-----|
 | [1] | LockBit power cut: four new arrests and financial sanctions against affiliates — Operation Cronos Phase 3 | Europol | 2024-10-01 | [원본](https://www.europol.europa.eu/media-press/newsroom/news/lockbit-power-cut-four-new-arrests-and-financial-sanctions-against-affiliates) |
+

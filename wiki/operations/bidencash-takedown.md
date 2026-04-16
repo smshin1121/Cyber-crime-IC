@@ -81,6 +81,8 @@ missing_fields:
   - "case_id"
   - "arrests"
   - "cryptocurrency_seized (exact amount)"
+related_cases:
+  - "[[in-re-bidencash-marketplace-seizure]]"
 related_operations:
   - "[[operation-endgame|Operation Endgame]]"
   - "[[rydox-marketplace-takedown|Rydox Marketplace Takedown]]"
