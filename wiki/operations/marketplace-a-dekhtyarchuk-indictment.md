@@ -35,7 +35,8 @@ participating_countries:
 - '[[united-states]]'
 - '[[latvia]]'
 period: 2
-related_cases: []
+related_cases:
+  - "[[us-v-dekhtyarchuk-marketplace-a]]"
 related_operations: []
 results:
   arrests: 1

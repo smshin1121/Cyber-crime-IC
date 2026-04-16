@@ -50,7 +50,8 @@ missing_fields:
   - "exact_timeframe"
   - "sentence_details"
   - "url"
-related_cases: []
+related_cases:
+  - "[[us-v-telusma-infraud]]"
 related_operations:
   - "[[infraud-organization-takedown]]"
 challenges_encountered: []

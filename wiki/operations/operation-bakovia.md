@@ -139,6 +139,14 @@ No Korean involvement identified in Operation Bakovia.
 - What was the estimated total damage caused by the CTB-Locker/Cerber operations?
 - What role did McAfee's intelligence play in identifying the suspects?
 
+## Follow-Up Actions
+
+> [!warning] No public court documents found
+> Web search (2026-04-17) yielded no publicly accessible court filings
+> for this operation. Possible reasons: non-US jurisdiction with no
+> public court records system, sealed proceedings, or operation did
+> not result in formal prosecution.
+
 ## References
 
 | # | Title | Publisher | Date | URL |

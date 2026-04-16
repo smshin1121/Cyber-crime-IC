@@ -52,7 +52,8 @@ missing_fields:
   - "sentence_details"
   - "financial_losses"
   - "url"
-related_cases: []
+related_cases:
+  - "[[us-v-okpe-obogo-bec]]"
 related_operations: []
 challenges_encountered: []
 lessons_learned:

@@ -92,7 +92,8 @@ edges:
 credibility_index: 3.8
 source_tier: 1
 missing_fields: []
-related_cases: []
+related_cases:
+  - "[[us-v-miller-poweroff]]"
 related_operations:
   - "[[ddos-for-hire-sweep-2016|Operation Tarpit (2016)]]"
 challenges_encountered:

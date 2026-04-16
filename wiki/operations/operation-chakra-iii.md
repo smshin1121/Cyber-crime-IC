@@ -204,6 +204,12 @@ Victims were primarily U.S. citizens. In one documented case, a single victim wa
 
 ## Follow-Up Actions
 
+> [!warning] No public court documents found
+> Web search (2026-04-17) yielded no publicly accessible court filings
+> for this operation. Possible reasons: non-US jurisdiction with no
+> public court records system, sealed proceedings, or operation did
+> not result in formal prosecution.
+
 - Operation Chakra-IV continued the campaign in late 2024
 - Operation Chakra-V launched in 2025, expanding to "digital arrest" scams, with CBI conducting raids at 42 locations across 8 states
 - In June 2025, CBI dismantled additional call centers targeting Japanese victims, again with Microsoft cooperation
