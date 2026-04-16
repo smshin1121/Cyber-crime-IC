@@ -113,8 +113,15 @@ No Korean involvement noted in this operation.
 - What is the long-term sustainability of donor-funded enforcement operations in Africa?
 - How does AFRIPOL's coordination capacity compare with established regional bodies like Europol?
 
-## References
+## Follow-Up Actions
 
+> [!warning] No public court documents found
+> Web search (2026-04-17) yielded no publicly accessible court filings
+> for this operation. Possible reasons: non-US jurisdiction with no
+> public court records system, sealed proceedings, or operation did
+> not result in formal prosecution.
+
+## References
 | # | Title | Publisher | Date | URL |
 |---|-------|----------|------|-----|
 | [1] | Major cybercrime operation nets 1,006 suspects — Operation Serengeti | INTERPOL | 2024-11-26 | [원본](https://www.interpol.int/en/News-and-Events/News/2024/Major-cybercrime-operation-nets-1-006-suspects) |

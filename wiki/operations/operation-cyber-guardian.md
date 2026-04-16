@@ -161,3 +161,11 @@ South Korea was the primary enforcement actor, accounting for 80% of total arres
 - Total stated as 544 but sum of reported countries = 510; gap of 34 likely from Thailand/Hong Kong
 - No mention of any formal legal framework or treaty basis for the cooperation
 - No INTERPOL or Europol involvement mentioned — unusual for an international CSAM operation
+
+## Follow-Up Actions
+
+> [!warning] No public court documents found
+> Web search (2026-04-17) yielded no publicly accessible court filings
+> for this operation. Possible reasons: non-US jurisdiction with no
+> public court records system, sealed proceedings, or operation did
+> not result in formal prosecution.

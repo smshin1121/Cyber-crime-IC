@@ -83,8 +83,15 @@ Austria, Belgium, Ukraine, and at least 3 additional European countries
 - Zeus and SpyEye banking trojan criminal ring dismantled
 - Online banking hacking and money laundering network neutralized
 
-## References
+## Follow-Up Actions
 
+> [!warning] No public court documents found
+> Web search (2026-04-17) yielded no publicly accessible court filings
+> for this operation. Possible reasons: non-US jurisdiction with no
+> public court records system, sealed proceedings, or operation did
+> not result in formal prosecution.
+
+## References
 | # | Title | Publisher | Date | URL |
 |---|-------|----------|------|-----|
 | [1] | Major Cybercrime Ring Dismantled by Joint Investigation Team | Europol | 2015-06 | [원본](https://www.europol.europa.eu/media-press/newsroom/news/major-cybercrime-ring-dismantled-joint-investigation-team) |

@@ -168,8 +168,15 @@ Korea continues as the **lead country** of the HAECHI series. In HAECHI VI:
 - How does the I-GRIP mechanism interact with traditional MLAT processes for asset recovery?
 - The INTERPOL press release lists 40 countries/territories but only names ~33. What are the remaining ~7?
 
-## References
+## Follow-Up Actions
 
+> [!warning] No public court documents found
+> Web search (2026-04-17) yielded no publicly accessible court filings
+> for this operation. Possible reasons: non-US jurisdiction with no
+> public court records system, sealed proceedings, or operation did
+> not result in formal prosecution.
+
+## References
 | # | Title | Publisher | Date | URL |
 |---|-------|----------|------|-----|
 | [1] | USD 439 million recovered in global financial crime operation — Operation HAECHI VI | INTERPOL | 2025-09-25 | [원본](https://www.interpol.int/en/News-and-Events/News/2025/USD-439-million-recovered-in-global-financial-crime-operation) |

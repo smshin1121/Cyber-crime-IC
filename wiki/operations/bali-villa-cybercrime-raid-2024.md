@@ -172,8 +172,15 @@ No known Korean involvement in this operation. However, the case is relevant to 
 3. What specific type of cybercrime was being conducted? Sources mention "targeting people in Malaysia" but details of the scam type are sparse.
 4. Was this villa operation connected to broader regional scam compound networks?
 
-## References
+## Follow-Up Actions
 
+> [!warning] No public court documents found
+> Web search (2026-04-17) yielded no publicly accessible court filings
+> for this operation. Possible reasons: non-US jurisdiction with no
+> public court records system, sealed proceedings, or operation did
+> not result in formal prosecution.
+
+## References
 | # | Title | Publisher | Date | URL |
 |---|-------|----------|------|-----|
 | [1] | Indonesia says will deport 103 Taiwanese suspected of cybercrimes in Bali | Al Jazeera | 2024-06-28 | [원본](https://www.aljazeera.com/news/2024/6/28/indonesia-says-will-deport-103-taiwanese-suspected-of-cybercrimes-in-bali) |

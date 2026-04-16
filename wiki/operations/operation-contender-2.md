@@ -134,3 +134,11 @@ No Korean involvement reported.
 
 - Exact timeframe for the operation is approximate (2024, concentrated in April-May).
 - Financial losses and seizure amounts not disclosed in available source.
+
+## Follow-Up Actions
+
+> [!warning] No public court documents found
+> Web search (2026-04-17) yielded no publicly accessible court filings
+> for this operation. Possible reasons: non-US jurisdiction with no
+> public court records system, sealed proceedings, or operation did
+> not result in formal prosecution.

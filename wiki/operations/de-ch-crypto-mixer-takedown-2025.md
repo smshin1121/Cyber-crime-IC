@@ -179,3 +179,12 @@ No [[south-korea|South Korean]] participation is documented in this operation. K
 - **Which German prosecutor (ZIT Frankfurt? a Land prosecutor?) led the German component?** Not stated.
 - **What was the legal basis used by Switzerland?** *Likely* the Eurojust-Switzerland cooperation agreement plus Swiss Criminal Code art. 305bis (money laundering), but not confirmed.
 - **Is this operation linked to any larger campaign (e.g., Operation Endgame, a sanctions track)?** No linkage is stated in the source.
+
+
+## Follow-Up Actions
+
+> [!warning] No public court documents found
+> Web search (2026-04-17) yielded no publicly accessible court filings
+> for this operation. Possible reasons: non-US jurisdiction with no
+> public court records system, sealed proceedings, or operation did
+> not result in formal prosecution.

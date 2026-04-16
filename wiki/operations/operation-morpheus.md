@@ -143,8 +143,15 @@ No Korean involvement identified. However, Cobalt Strike abuse is a global issue
 - How many of the servers were subsequently replaced by criminals?
 - What role did Fortra (Cobalt Strike developer) play in the operation?
 
-## References
+## Follow-Up Actions
 
+> [!warning] No public court documents found
+> Web search (2026-04-17) yielded no publicly accessible court filings
+> for this operation. Possible reasons: non-US jurisdiction with no
+> public court records system, sealed proceedings, or operation did
+> not result in formal prosecution.
+
+## References
 | # | Title | Publisher | Date | URL |
 |---|-------|----------|------|-----|
 | [1] | National Crime Agency leads international operation to degrade illegal versions of Cobalt Strike | UK NCA | 2024-07-03 | [link](https://www.nationalcrimeagency.gov.uk/news/national-crime-agency-leads-international-operation-to-degrade-illegal-versions-of-cobalt-strike) |

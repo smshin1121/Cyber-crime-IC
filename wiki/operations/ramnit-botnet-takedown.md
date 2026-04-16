@@ -136,8 +136,15 @@ No known Korean involvement in this operation. However, Ramnit infections were r
 - **No arrests**: Despite the scale (3.2M infections), no operators were publicly charged. Whether subsequent investigations led to arrests is unclear.
 - **Ramnit resurgence**: Security researchers reported Ramnit activity resuming within months of the takedown, raising questions about the long-term effectiveness of infrastructure-only disruption.
 
-## References
+## Follow-Up Actions
 
+> [!warning] No public court documents found
+> Web search (2026-04-17) yielded no publicly accessible court filings
+> for this operation. Possible reasons: non-US jurisdiction with no
+> public court records system, sealed proceedings, or operation did
+> not result in formal prosecution.
+
+## References
 | # | Source | Publisher | Date | URL |
 |---|---|---|---|---|
 | [1] | Botnet Taken Down Through International Law Enforcement Cooperation | Europol | 2015-02-24 | https://www.europol.europa.eu/media-press/newsroom/news/botnet-taken-down-through-international-law-enforcement-cooperation |

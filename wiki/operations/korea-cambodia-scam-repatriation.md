@@ -128,8 +128,15 @@ The scale of the problem underscores the need for multilateral cooperation frame
 - What is the total number of Korean nationals across all Southeast Asian scam centres?
 - How many of the 58 warrant targets have been prosecuted?
 
-## References
+## Follow-Up Actions
 
+> [!warning] No public court documents found
+> Web search (2026-04-17) yielded no publicly accessible court filings
+> for this operation. Possible reasons: non-US jurisdiction with no
+> public court records system, sealed proceedings, or operation did
+> not result in formal prosecution.
+
+## References
 | # | Title | Publisher | Date | URL |
 |---|-------|----------|------|-----|
 | [1] | South Korea repatriates 64 scam centre suspects from Cambodia | Al Jazeera / Korea Herald | 2025-10-18 | [원본](https://www.aljazeera.com/news/2025/10/20/south-korea-police-seek-warrants-for-repatriated-scam-centre-suspects) |

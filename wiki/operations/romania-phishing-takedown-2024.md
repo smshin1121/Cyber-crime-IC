@@ -79,8 +79,15 @@ Romania
 - Phishing and bank credential theft network dismantled
 - Illegal fund transfer operations disrupted
 
-## References
+## Follow-Up Actions
 
+> [!warning] No public court documents found
+> Web search (2026-04-17) yielded no publicly accessible court filings
+> for this operation. Possible reasons: non-US jurisdiction with no
+> public court records system, sealed proceedings, or operation did
+> not result in formal prosecution.
+
+## References
 | # | Title | Publisher | Date | URL |
 |---|-------|----------|------|-----|
 | [1] | Hook, Line and Sinker: Cybercrime Network Phishing Bank Credentials Arrested in Romania | Europol | 2024-01 | [원본](https://www.europol.europa.eu/media-press/newsroom/news/hook-line-and-sinker-cybercrime-network-phishing-bank-credentials-arrested-in-romania) |

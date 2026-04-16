@@ -128,8 +128,15 @@ No Korean involvement identified. However, Korean nationals have been targets an
 - Was there international cooperation with Chinese authorities?
 - What was the total financial loss attributed to the operation?
 
-## References
+## Follow-Up Actions
 
+> [!warning] No public court documents found
+> Web search (2026-04-17) yielded no publicly accessible court filings
+> for this operation. Possible reasons: non-US jurisdiction with no
+> public court records system, sealed proceedings, or operation did
+> not result in formal prosecution.
+
+## References
 | # | Title | Publisher | Date | URL |
 |---|-------|----------|------|-----|
 | [1] | Chinese nationals plead guilty to running Zambia scam operation | The Record (Recorded Future News) | 2024-06-05 | [link](https://therecord.media/zambia-guilty-pleas-chinese-nationals-scam-call-center) |

@@ -108,8 +108,15 @@ Korea's voice phishing challenge:
 - Were the arrested suspects prosecuted, and if so, in which jurisdiction?
 - How many similar operations have been conducted since this precedent-setting case?
 
-## References
+## Follow-Up Actions
 
+> [!warning] No public court documents found
+> Web search (2026-04-17) yielded no publicly accessible court filings
+> for this operation. Possible reasons: non-US jurisdiction with no
+> public court records system, sealed proceedings, or operation did
+> not result in formal prosecution.
+
+## References
 | # | Title | Publisher | Date | URL |
 |---|-------|----------|------|-----|
 | [1] | Seoul Metropolitan Police and Chinese police jointly arrest 16 voice phishing suspects in Qingdao | The Korea Times | 2023-09-08 | [원본](https://www.koreatimes.co.kr/www/nation/2024/07/113_358692.html) |

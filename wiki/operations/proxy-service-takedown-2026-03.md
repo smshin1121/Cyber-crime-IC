@@ -193,3 +193,12 @@ No [[south-korea|South Korean]] participation is documented in this operation. K
 - **How many servers were seized and how many arrests were made?** Not stated.
 - **What is the relationship to prior residential proxy botnet takedowns** ([[911-s5-botnet-takedown|911 S5]], RSOCKS)? Not addressed in the source.
 - **Is the operation linked to a named campaign** (e.g., Operation Endgame, Operation Power Off)? No linkage is stated.
+
+
+## Follow-Up Actions
+
+> [!warning] No public court documents found
+> Web search (2026-04-17) yielded no publicly accessible court filings
+> for this operation. Possible reasons: non-US jurisdiction with no
+> public court records system, sealed proceedings, or operation did
+> not result in formal prosecution.

@@ -114,8 +114,15 @@ No direct Korean involvement. Black Axe primarily targets victims in Europe, Nor
 - What are the specific 21 countries participating?
 - What is the total cumulative impact of all Jackal series operations?
 
-## References
+## Follow-Up Actions
 
+> [!warning] No public court documents found
+> Web search (2026-04-17) yielded no publicly accessible court filings
+> for this operation. Possible reasons: non-US jurisdiction with no
+> public court records system, sealed proceedings, or operation did
+> not result in formal prosecution.
+
+## References
 | # | Title | Publisher | Date | URL |
 |---|-------|----------|------|-----|
 | [1] | INTERPOL operation strikes major blow against West African financial crime — Operation Jackal III | INTERPOL | 2024-08-28 | [원본](https://www.interpol.int/en/News-and-Events/News/2024/INTERPOL-operation-strikes-major-blow-against-West-African-financial-crime) |

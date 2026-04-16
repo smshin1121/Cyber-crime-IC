@@ -163,3 +163,11 @@ No Korean involvement reported in this operation.
 
 - Exact legal basis for cross-border cooperation among the 7 African countries is not specified.
 - Individual country contribution and arrest distribution not disclosed.
+
+## Follow-Up Actions
+
+> [!warning] No public court documents found
+> Web search (2026-04-17) yielded no publicly accessible court filings
+> for this operation. Possible reasons: non-US jurisdiction with no
+> public court records system, sealed proceedings, or operation did
+> not result in formal prosecution.

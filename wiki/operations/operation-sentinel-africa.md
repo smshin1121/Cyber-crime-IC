@@ -131,8 +131,15 @@ No direct Korean involvement. Operation focused exclusively on African countries
 - What is the sustainability of donor-funded operations after funding cycles end?
 - What ransomware variants were decrypted?
 
-## References
+## Follow-Up Actions
 
+> [!warning] No public court documents found
+> Web search (2026-04-17) yielded no publicly accessible court filings
+> for this operation. Possible reasons: non-US jurisdiction with no
+> public court records system, sealed proceedings, or operation did
+> not result in formal prosecution.
+
+## References
 | # | Title | Publisher | Date | URL |
 |---|-------|----------|------|-----|
 | [1] | 574 arrests and USD 3 million recovered in coordinated cybercrime operation across Africa — Operation Sentinel | INTERPOL | 2025-12-22 | [원본](https://www.interpol.int/en/News-and-Events/News/2025/574-arrests-and-USD-3-million-recovered-in-coordinated-cybercrime-operation-across-Africa) |

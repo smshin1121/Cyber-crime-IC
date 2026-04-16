@@ -238,8 +238,15 @@ However, the operation's follow-on investigation model is relevant to Korean law
 > [!note] Source diversity
 > This page is primarily based on official press releases from Europol (2021-10-26), DOJ/DEA (2021-10-26), and NCA (2021-10-27), supplemented by secondary reporting from BleepingComputer and SecurityAffairs. Additional primary sources (e.g., Italian judiciary statements, German BKA press releases) would strengthen the page.
 
-## References
+## Follow-Up Actions
 
+> [!warning] No public court documents found
+> Web search (2026-04-17) yielded no publicly accessible court filings
+> for this operation. Possible reasons: non-US jurisdiction with no
+> public court records system, sealed proceedings, or operation did
+> not result in formal prosecution.
+
+## References
 | # | Source | Publisher | Date | URL |
 |---|---|---|---|---|
 | [1] | 150 arrested in dark web drug bust as police seize EUR 26 million | Europol | 2021-10-26 | https://www.europol.europa.eu/media-press/newsroom/news/150-arrested-in-dark-web-drug-bust-police-seize-%E2%82%AC26-million |

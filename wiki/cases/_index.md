@@ -6,7 +6,7 @@ created: 2026-04-08
 updated: 2026-04-14
 ---
 
-# Cases (22)
+# Cases (23)
 
 | Case | Jurisdiction | Crime | Status | IC Elements | Precedent Value | Sources |
 |------|--------------|-------|--------|-------------|-----------------|---------|
@@ -32,3 +32,4 @@ updated: 2026-04-14
 | [[us-v-ulbricht-silk-road]] | U.S. District Court, Southern District of New York | online-fraud-ic | sentenced | — | Landmark — first life sentence for a cybercrime; established precedent for dark web marketplace prosecution, cryptocurrency seizure at scale, and cross-border digital evidence collection | 2 |
 | [[us-v-wu-haibo-isoon]] | [[united-states]] | — | indicted | — | — | 1 |
 | [[us-v-yakubets-dridex]] | U.S. District Court, Western District of Pennsylvania; U.S. District Court, District of Nebraska | online-fraud-ic, malware-ic | indicted | — | Landmark — combined indictment + sanctions + reward approach; USD 5 million reward (largest cyber reward at the time); sanctions imposed on cybercriminal organization | 2 |
+| [[us-v-yunhe-wang-911-s5]] | U.S. District Court, Southern District of Texas | malware-ic, online-fraud-ic | indicted | — | High - the case likely stands as the principal judicial component of the 911 S5 dismantling, linking a global residential proxy botnet to a named federal indictment. | 1 |

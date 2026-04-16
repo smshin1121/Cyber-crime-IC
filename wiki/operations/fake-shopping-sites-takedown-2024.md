@@ -96,8 +96,15 @@ Germany, Austria, Finland, Netherlands, Norway
 - Fraudulent online shopping site network dismantled
 - Connection to cybercrime marketplace exposed
 
-## References
+## Follow-Up Actions
 
+> [!warning] No public court documents found
+> Web search (2026-04-17) yielded no publicly accessible court filings
+> for this operation. Possible reasons: non-US jurisdiction with no
+> public court records system, sealed proceedings, or operation did
+> not result in formal prosecution.
+
+## References
 | # | Title | Publisher | Date | URL |
 |---|-------|----------|------|-----|
 | [1] | Fraudulent Shopping Sites Tied to Cybercrime Marketplace Taken Offline | Europol | 2024-12-04 | [원본](https://www.europol.europa.eu/media-press/newsroom/news/fraudulent-shopping-sites-tied-to-cybercrime-marketplace-taken-offline) |

@@ -89,8 +89,15 @@ Nigeria (arrests made domestically; victims across 150+ countries)
 - **150+ countries** targeted by phishing and BEC schemes
 - Prolific cybercrime group disrupted
 
-## References
+## Follow-Up Actions
 
+> [!warning] No public court documents found
+> Web search (2026-04-17) yielded no publicly accessible court filings
+> for this operation. Possible reasons: non-US jurisdiction with no
+> public court records system, sealed proceedings, or operation did
+> not result in formal prosecution.
+
+## References
 | # | Title | Publisher | Date | URL |
 |---|-------|----------|------|-----|
 | [1] | Interpol 3 Nigerians Busted For Cyber Crime Operate In 150 Countries | pmnewsnigeria.com | 2020-11-27 | [원본](https://pmnewsnigeria.com/2020/11/27/interpol-3-nigerians-busted-for-cyber-crime-operate-in-150-countries/) |

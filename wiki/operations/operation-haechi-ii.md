@@ -112,8 +112,15 @@ Angola, Brunei, Cambodia, Colombia, China, India, Indonesia, Ireland, Japan, Sou
 
 South Korea (한국) was a key participant in Operation HAECHI-II, consistent with its leadership role in the HAECHI series of operations under the INTERPOL framework. Korea's participation reflects its commitment to combating transnational cyber financial crime.
 
-## References
+## Follow-Up Actions
 
+> [!warning] No public court documents found
+> Web search (2026-04-17) yielded no publicly accessible court filings
+> for this operation. Possible reasons: non-US jurisdiction with no
+> public court records system, sealed proceedings, or operation did
+> not result in formal prosecution.
+
+## References
 | # | Title | Publisher | Date | URL |
 |---|-------|----------|------|-----|
 | [1] | Interpol Seized 130 Million From | The Hacker News | 2022-11 | [원본](https://thehackernews.com/2022/11/interpol-seized-130-million-from.html) |

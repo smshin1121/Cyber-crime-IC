@@ -138,8 +138,15 @@ South Korea leads the HAECHI series through the [[knpa-cyber-bureau|KNPA]]. In H
 - How many of the 82,112 blocked bank accounts resulted in successful fund recovery?
 - What specific AI voice cloning cases were identified?
 
-## References
+## Follow-Up Actions
 
+> [!warning] No public court documents found
+> Web search (2026-04-17) yielded no publicly accessible court filings
+> for this operation. Possible reasons: non-US jurisdiction with no
+> public court records system, sealed proceedings, or operation did
+> not result in formal prosecution.
+
+## References
 | # | Title | Publisher | Date | URL |
 |---|-------|----------|------|-----|
 | [1] | USD 300 million seized and 3,500 suspects arrested in international financial crime operation — Operation HAECHI IV | INTERPOL | 2023-12-19 | [원본](https://www.interpol.int/News-and-Events/News/2023/USD-300-million-seized-and-3-500-suspects-arrested-in-international-financial-crime-operation) |

@@ -137,3 +137,11 @@ No direct Korean involvement reported in this operation.
 - Full list of 35+ participating countries not publicly disclosed
 - Server seizure count not specified (only that servers in Germany and Netherlands were seized)
 - Total cryptocurrency seized not disclosed despite tracing efforts
+
+## Follow-Up Actions
+
+> [!warning] No public court documents found
+> Web search (2026-04-17) yielded no publicly accessible court filings
+> for this operation. Possible reasons: non-US jurisdiction with no
+> public court records system, sealed proceedings, or operation did
+> not result in formal prosecution.

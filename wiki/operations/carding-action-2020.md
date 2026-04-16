@@ -174,3 +174,12 @@ No Korean participation in Carding Action 2020 has been publicly documented. How
 - **Arrest count unclear**: No arrests were publicly announced by Europol or participating agencies. It remains uncertain whether the intelligence gathered led to subsequent law enforcement actions that were not publicly attributed to this operation.
 - **Scope of private-sector participation**: Europol referenced "card schemes" but did not name them. The full extent of private-sector involvement beyond Group-IB is unclear.
 - **Follow-up operations**: Whether the intelligence from this operation fed into subsequent enforcement actions has not been publicly disclosed.
+
+
+## Follow-Up Actions
+
+> [!warning] No public court documents found
+> Web search (2026-04-17) yielded no publicly accessible court filings
+> for this operation. Possible reasons: non-US jurisdiction with no
+> public court records system, sealed proceedings, or operation did
+> not result in formal prosecution.

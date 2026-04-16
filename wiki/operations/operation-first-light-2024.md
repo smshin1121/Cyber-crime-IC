@@ -115,8 +115,15 @@ Korea's specific participation in First Light 2024 is not detailed in the source
 - How does First Light 2024 compare in scope to previous First Light iterations?
 - What percentage of the 14,643 identified suspects have been subsequently arrested?
 
-## References
+## Follow-Up Actions
 
+> [!warning] No public court documents found
+> Web search (2026-04-17) yielded no publicly accessible court filings
+> for this operation. Possible reasons: non-US jurisdiction with no
+> public court records system, sealed proceedings, or operation did
+> not result in formal prosecution.
+
+## References
 | # | Title | Publisher | Date | URL |
 |---|-------|----------|------|-----|
 | [1] | USD 257 million seized in global police crackdown against online scams — Operation First Light 2024 | INTERPOL | 2024-06-18 | [원본](https://www.interpol.int/News-and-Events/News/2024/USD-257-million-seized-in-global-police-crackdown-against-online-scams) |

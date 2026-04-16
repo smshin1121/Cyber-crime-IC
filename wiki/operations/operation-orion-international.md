@@ -160,3 +160,11 @@ Although not a direct participant, South Korea was involved through cross-region
 - Specific devices and quantities seized not specified
 - Legal basis for cross-border cooperation not explicitly stated
 - Nature and scope of UNODC support not detailed
+
+## Follow-Up Actions
+
+> [!warning] No public court documents found
+> Web search (2026-04-17) yielded no publicly accessible court filings
+> for this operation. Possible reasons: non-US jurisdiction with no
+> public court records system, sealed proceedings, or operation did
+> not result in formal prosecution.

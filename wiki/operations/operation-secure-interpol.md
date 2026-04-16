@@ -155,8 +155,15 @@ South Korea (대한민국) was among the 26 participating countries. Specific Ko
 - Macau (China) and Kiribati mentioned in some source data but not confirmed in primary source.
 - Legal basis for cross-border data sharing across 26 jurisdictions not specified.
 
-## References
+## Follow-Up Actions
 
+> [!warning] No public court documents found
+> Web search (2026-04-17) yielded no publicly accessible court filings
+> for this operation. Possible reasons: non-US jurisdiction with no
+> public court records system, sealed proceedings, or operation did
+> not result in formal prosecution.
+
+## References
 | # | Title | Publisher | Date | URL |
 |---|-------|----------|------|-----|
 | [1] | More Than 9000 Malware Infected Servers Found By Singapore Based Interpol Ope... | straitstimes.com | 2025-04-01 | [원본](https://www.straitstimes.com/singapore/more-than-9000-malware-infected-servers-found-by-singapore-based-interpol-operation) |

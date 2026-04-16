@@ -95,8 +95,15 @@ The Global Airport Action Day, conducted from October 10-15, 2016, was an intern
 - Links to illegal immigration, human trafficking, drug trafficking, cybercrime, and terrorism identified
 - Airline ticket fraud networks disrupted
 
-## References
+## Follow-Up Actions
 
+> [!warning] No public court documents found
+> Web search (2026-04-17) yielded no publicly accessible court filings
+> for this operation. Possible reasons: non-US jurisdiction with no
+> public court records system, sealed proceedings, or operation did
+> not result in formal prosecution.
+
+## References
 | # | Title | Publisher | Date | URL |
 |---|-------|----------|------|-----|
 | [1] | Global Airport Action Day: 40 countries nab 193 suspects in cybercrime sting | INTERPOL | 2016-10-20 | [원본](https://www.interpol.int/en/News-and-Events/News/2016/Global-Airport-Action-Day-targets-airline-ticket-fraudsters) |

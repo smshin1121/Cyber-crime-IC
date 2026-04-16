@@ -262,8 +262,15 @@ Korea's leadership role in the HAECHI series is consistent with its broader comm
 2. **ARRP formal launch date**: INTERPOL states ARRP was "piloted" from January 2022 and deployed during HAECHI-III, but it is unclear whether ARRP was formally "launched" during or before the operation. The USD 120 million ARRP recovery figure appears to include recoveries from other operations beyond HAECHI-III.
 3. **Participating country count**: INTERPOL confirms 30 countries. The list in the INTERPOL press release includes "Hong Kong (China)" which is a Special Administrative Region, not a sovereign state. The count of "30" appears to include Hong Kong as one of the 30 participants.
 
-## References
+## Follow-Up Actions
 
+> [!warning] No public court documents found
+> Web search (2026-04-17) yielded no publicly accessible court filings
+> for this operation. Possible reasons: non-US jurisdiction with no
+> public court records system, sealed proceedings, or operation did
+> not result in formal prosecution.
+
+## References
 | # | Source | Publisher | Date | URL |
 |---|--------|-----------|------|-----|
 | [1] | Cyber-enabled financial crime: USD 130 million intercepted in global INTERPOL police operation | INTERPOL | 2022-11-24 | https://www.interpol.int/en/News-and-Events/News/2022/Cyber-enabled-financial-crime-USD-130-million-intercepted-in-global-INTERPOL-police-operation |

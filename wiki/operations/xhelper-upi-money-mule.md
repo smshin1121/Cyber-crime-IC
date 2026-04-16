@@ -124,8 +124,15 @@ No Korean involvement identified. However, South Korea has its own real-time pay
 - What was the specific role of Europol in an India-China operation?
 - What law enforcement agencies in India and China participated?
 
-## References
+## Follow-Up Actions
 
+> [!warning] No public court documents found
+> Web search (2026-04-17) yielded no publicly accessible court filings
+> for this operation. Possible reasons: non-US jurisdiction with no
+> public court records system, sealed proceedings, or operation did
+> not result in formal prosecution.
+
+## References
 | # | Title | Publisher | Date | URL |
 |---|-------|----------|------|-----|
 | [1] | XHelper/UPI money mule network — India, China, Europol | Tier 3 media | ~2025 | N/A |

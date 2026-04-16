@@ -117,8 +117,15 @@ No Korean involvement identified.
 - What specific methods (SMS, email, fake websites) were used?
 - Were the arrested individuals the organizers or lower-level operators?
 
-## References
+## Follow-Up Actions
 
+> [!warning] No public court documents found
+> Web search (2026-04-17) yielded no publicly accessible court filings
+> for this operation. Possible reasons: non-US jurisdiction with no
+> public court records system, sealed proceedings, or operation did
+> not result in formal prosecution.
+
+## References
 | # | Title | Publisher | Date | URL |
 |---|-------|----------|------|-----|
 | [1] | Belgium and Netherlands phishing gang — Europol, 8 arrests | Tier 3 media | ~2025 | N/A |

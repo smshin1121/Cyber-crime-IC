@@ -141,8 +141,15 @@ No direct Korean involvement in this operation. However, the BEC modus operandi 
 - Were additional suspects identified beyond the 8 arrested?
 - What is the current judicial status of the arrested suspects?
 
-## References
+## Follow-Up Actions
 
+> [!warning] No public court documents found
+> Web search (2026-04-17) yielded no publicly accessible court filings
+> for this operation. Possible reasons: non-US jurisdiction with no
+> public court records system, sealed proceedings, or operation did
+> not result in formal prosecution.
+
+## References
 | # | Title | Publisher | Date | URL |
 |---|-------|----------|------|-----|
 | [1] | Franco-Israeli gang behind EUR 38 million CEO fraud busted | Europol | 2023-02-08 | [원본](https://www.europol.europa.eu/media-press/newsroom/news/franco-israeli-gang-behind-eur-38-million-ceo-fraud-busted) |
