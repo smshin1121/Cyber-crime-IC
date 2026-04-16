@@ -48,7 +48,8 @@ edges:
 credibility_index: 2.28
 source_tier: 2
 missing_fields: ["legal_basis", "mechanisms_used"]
-related_cases: []
+related_cases:
+  - "[[us-v-hladyr-fin7]]"
 related_operations: []
 challenges_encountered: []
 lessons_learned: []

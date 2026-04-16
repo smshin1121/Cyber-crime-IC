@@ -112,6 +112,14 @@ No Korean involvement noted in this operation.
 - What is the total ransom collected by BlackSuit/Royal across all victims?
 - Will the group reconstitute under a new name, as Royal did when becoming BlackSuit?
 
+## Follow-Up Actions
+
+> [!warning] No public court documents found
+> Web search (2026-04-17) yielded no publicly accessible court filings
+> for this operation. Possible reasons: non-US jurisdiction with no
+> public court records system, sealed proceedings, or operation did
+> not result in formal prosecution.
+
 ## References
 
 | # | Title | Publisher | Date | URL |

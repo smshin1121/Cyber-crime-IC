@@ -54,7 +54,8 @@ results:
     - "Rewards for Justice offer of up to USD 10 million"
     - "Treasury sanctions imposed"
     - "12 Chinese nationals charged (2 MPS officers, 8 i-Soon employees, APT27 members)"
-related_cases: []
+related_cases:
+  - "[[us-v-wu-haibo-isoon]]"
 related_operations: []
 challenges_encountered:
   - "All defendants located in China — arrest and extradition highly unlikely"

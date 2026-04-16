@@ -238,3 +238,11 @@ No [[south-korea|South Korean]] participation in Operation reWired has been publ
 - **Nigeria arrest details**: The EFCC reported only USD 169,850 and NGN 92 million recovered from 167 arrests, suggesting many arrestees may have been low-level operatives.
 - **Disposition of cases**: The final judicial outcomes (convictions, sentences, acquittals) for the 281 arrestees have not been comprehensively tracked in public reporting.
 - **Japanese participation**: The inclusion of [[japan]] is notable as the only East Asian country in the operation, but no details of Japanese arrests or cooperation have been publicly disclosed.
+
+## Follow-Up Actions
+
+> [!warning] No public court documents found
+> Web search (2026-04-17) yielded no publicly accessible court filings
+> for this operation. Possible reasons: non-US jurisdiction with no
+> public court records system, sealed proceedings, or operation did
+> not result in formal prosecution.

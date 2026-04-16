@@ -40,6 +40,8 @@ results:
     - "1,100+ seller accounts identified"
     - "Platform taken offline permanently"
 source_count: 1
+related_cases:
+  - "[[us-v-parsarad-nemesis]]"
 sources:
   - "[The Record — Nemesis cybercrime market takedown Germany](https://therecord.media/nemesis-cybercrime-market-takedown-germany)"
 created: 2024-03-20

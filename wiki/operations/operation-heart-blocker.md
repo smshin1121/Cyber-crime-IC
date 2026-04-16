@@ -51,6 +51,8 @@ results:
     - "21 suspects arrested in Pakistan (May 2025 follow-up)"
     - "Instructional YouTube videos used for training removed"
 source_count: 5
+related_cases:
+  - "[[in-re-heartsender-seizure]]"
 sources:
   - "[1] US DOJ Press Release (2025-01-29)"
   - "[2] KrebsOnSecurity (2025-01-30)"

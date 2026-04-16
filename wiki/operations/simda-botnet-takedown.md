@@ -107,6 +107,14 @@ Netherlands, United States, Russia, Luxembourg, Poland, Japan, Singapore
 - **770,000+** infected computers identified across 190+ countries
 - Simda botnet infrastructure neutralized
 
+## Follow-Up Actions
+
+> [!warning] No public court documents found
+> Web search (2026-04-17) yielded no publicly accessible court filings
+> for this operation. Possible reasons: non-US jurisdiction with no
+> public court records system, sealed proceedings, or operation did
+> not result in formal prosecution.
+
 ## References
 
 | # | Title | Publisher | Date | URL |
