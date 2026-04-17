@@ -22,7 +22,7 @@ coordinating_body: "[[us-doj]]"
 participating_countries:
   - "[[united-states]]"
 participating_agencies:
-  []
+
 legal_basis:
   - "[[controlled-substances-act]]"
   - "[[counterfeit-goods]]"
@@ -39,24 +39,26 @@ results:
   other:
     - "Defendant-specific follow-on action derived from [[us-v-sheldon-kennedy-silk-road]]"
 edges:
-  []
+
 credibility_index: 4.0
 source_tier: 1
 missing_fields:
-  []
+
 related_cases:
   - "[[us-v-sheldon-kennedy-silk-road]]"
 related_operations:
   - "[[silk-road-takedown]]"
 challenges_encountered:
-  []
+
 lessons_learned:
-  []
+
 source_count: 1
 sources:
   - "[[2015-11-03_md_sheldon-kennedy-silk-road-sentencing]]"
 created: 2026-04-17
 updated: 2026-04-17
+operation_role: follow-on
+parent_operation: "[[silk-road-takedown]]"
 ---
 ## Summary
 

@@ -1,71 +1,65 @@
 ---
-aliases: []
+aliases:
+  []
 case_id: CYB-2020-001
-challenges_encountered: []
-coordinating_body: '[[interpol]]'
+challenges_encountered:
+  []
+coordinating_body: "[[interpol]]"
 created: 2026-04-08
 credibility_index: 3.62
-crime_type: '[[bec-ic]]'
+crime_type: "[[bec-ic]]"
 edges:
-- cooperation_type: technical_assistance
-  direction: undirected
-  legal_basis: unknown
-  source_actor: INTERPOL
-  target_actor: Group-IB
-- cooperation_type: joint_investigation
-  direction: undirected
-  legal_basis: unknown
-  source_actor: INTERPOL
-  target_actor: Nigeria Police Force
+  []
 enforcement_type:
-- arrest
-lead_agency: '[[interpol]]'
-legal_basis: []
-lessons_learned: []
-mechanisms_used: []
+  []
+lead_agency: "[[interpol]]"
+legal_basis:
+  []
+lessons_learned:
+  []
+mechanisms_used:
+  []
 missing_fields:
-- legal_basis
-- mechanisms_used
+  []
 operation_type: arrest-sweep
 outcome: success
 participating_agencies:
-- '[[interpol]]'
-- '[[group-ib]]'
-- '[[nigeria-police-force]]'
+  []
 participating_countries:
-- '[[nigeria]]'
+  []
 period: 2
-related_cases: []
-related_operations: []
+related_cases:
+  []
+related_operations:
+  []
 results:
   arrests: 3
-  cryptocurrency_seized: ''
+  cryptocurrency_seized: ""
   decryption_keys_recovered: 0
   domains_seized: 0
   indictments: 0
   other:
-  - 26 types of malware used by group identified
-  - 150+ countries targeted
-  - Phishing and BEC schemes targeting government and private sector
+    []
   servers_seized: 0
   victims_notified: 0
 source_count: 4
 source_tier: 2
 sources:
-- '[1] INTERPOL News (2020-11)'
+  []
 status: completed
-target_entity: Nigerian BEC group (TMT)
+target_entity: "Nigerian BEC group (TMT)"
 timeframe:
   announced: 2020-11
   end: 2020-11
   ongoing: false
-  start: '2019'
-title: Operation Falcon
-title_ko: Operation Falcon (나이지리아 BEC 조직 단속)
+  start: 2019
+title: "Operation Falcon"
+title_ko: "Operation Falcon (나이지리아 BEC 조직 단속)"
 type: operation
-updated: '2026-04-09'
+updated: 2026-04-09
+operation_role: umbrella
+parent_operation: ""
 ---
-
 ## Summary
 
 INTERPOL, Group-IB, and the Nigeria Police Force conducted Operation Falcon, a joint investigation that resulted in the arrest of 3 Nigerian nationals in November 2020. The suspects were part of a prolific cybercrime group that used 26 different types of malware including AgentTesla, Loki, Azorult, Spartan, Nanocore, and Remcos to conduct phishing attacks and Business Email Compromise (BEC) schemes targeting government organizations and private companies in over 150 countries.

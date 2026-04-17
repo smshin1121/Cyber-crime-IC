@@ -1,32 +1,32 @@
 ---
 aliases:
-  []
+
 case_id: CYB-2018-003
 challenges_encountered:
-  []
+
 coordinating_body: ""
 created: 2026-04-08
 credibility_index: 3.3
 crime_type: "[[cybercrime-forum-ic]]"
 edges:
-  []
+
 enforcement_type:
-  []
+
 lead_agency: "[[us-doj]]"
 legal_basis:
-  []
+
 lessons_learned:
-  []
+
 mechanisms_used:
-  []
+
 missing_fields:
-  []
+
 operation_type: arrest-sweep
 outcome: success
 participating_agencies:
-  []
+
 participating_countries:
-  []
+
 period: 1
 related_cases:
   - "[[us-v-bondarenko-infraud]]"
@@ -39,13 +39,13 @@ results:
   domains_seized: 0
   indictments: 36
   other:
-    []
+
   servers_seized: 0
   victims_notified: 0
 source_count: 7
 source_tier: 2
 sources:
-  []
+
 status: completed
 target_entity: "Infraud Organization cybercrime forum"
 timeframe:
@@ -57,6 +57,8 @@ title: "Infraud Organization Takedown"
 title_ko: "인프라우드 조직 소탕"
 type: operation
 updated: 2026-04-12
+operation_role: umbrella
+parent_operation: ""
 ---
 > [!note] This operation is documented from a Tier 3 (cybersecurity media) source. Additional verification from official sources (Tier 1-2) would strengthen data reliability.
 

@@ -2,19 +2,21 @@
 type: operation
 title: "Black Axe BEC Arrests (FBI, US-Nigeria)"
 title_ko: "블랙 액스 BEC 체포 (FBI, 미국-나이지리아)"
-aliases: ["Black Axe BEC bust 2021", "FBI Black Axe 33 arrests"]
-case_id: "CYB-2021-052"
+aliases:
+  - "Black Axe BEC bust 2021"
+  - "FBI Black Axe 33 arrests"
+case_id: CYB-2021-052
 period: 2
-operation_type: "arrest-sweep"
-status: "completed"
+operation_type: arrest-sweep
+status: completed
 enforcement_type:
-  - "arrest"
-  - "indictment"
-outcome: "success"
+  - arrest
+  - indictment
+outcome: success
 timeframe:
-  announced: "2021-11-01"
-  start: "2021-11-01"
-  end: "2021-11-01"
+  announced: 2021-11-01
+  start: 2021-11-01
+  end: 2021-11-01
   ongoing: false
 crime_type: "[[bec-ic]]"
 target_entity: "Black Axe cybercrime group (BEC)"
@@ -25,8 +27,10 @@ participating_countries:
   - "[[nigeria]]"
 participating_agencies:
   - "[[fbi-cyber-division]]"
-legal_basis: []
-mechanisms_used: []
+legal_basis:
+  []
+mechanisms_used:
+  []
 results:
   arrests: 33
   indictments: 0
@@ -39,29 +43,35 @@ results:
     - "33 arrests linked to Black Axe BEC group"
     - "US and Nigeria joint operation"
 edges:
-  - source_actor: "FBI"
+  - source_actor: FBI
     target_actor: "Nigeria EFCC"
-    cooperation_type: "joint_investigation"
-    legal_basis: "unknown"
-    direction: "undirected"
+    cooperation_type: joint_investigation
+    legal_basis: unknown
+    direction: undirected
 credibility_index: 1.88
 source_tier: 3
 missing_fields:
-  - "legal_basis"
-  - "mechanisms_used"
-  - "exact_timeframe"
-  - "financial_losses"
-  - "url"
-related_cases: []
-related_operations: []
-challenges_encountered: []
-lessons_learned: []
+  - legal_basis
+  - mechanisms_used
+  - exact_timeframe
+  - financial_losses
+  - url
+related_cases:
+  []
+related_operations:
+  []
+challenges_encountered:
+  []
+lessons_learned:
+  []
 source_count: 1
-sources: []
+sources:
+  []
 created: 2026-04-08
 updated: 2026-04-08
+operation_role: umbrella
+parent_operation: ""
 ---
-
 > [!note] This operation is documented from a Tier 3 (cybersecurity media) source. Additional verification from official sources (Tier 1-2) would strengthen data reliability.
 
 ## Summary

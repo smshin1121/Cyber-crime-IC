@@ -1,74 +1,65 @@
 ---
 aliases:
-- Cryptex sanctions
-- PM2BTC sanctions
-- Russian crypto exchange US-NL action
+  []
 case_id: CYB-2024-052
-challenges_encountered: []
-coordinating_body: ''
+challenges_encountered:
+  []
+coordinating_body: ""
 created: 2026-04-08
 credibility_index: 2.18
-crime_type: '[[money-laundering-ic]]'
+crime_type: "[[money-laundering-ic]]"
 edges:
-- cooperation_type: joint_investigation
-  direction: undirected
-  legal_basis: unknown
-  source_actor: US Treasury
-  target_actor: Netherlands Police
+  []
 enforcement_type:
-- asset_freeze
-- seizure
-lead_agency: '[[us-treasury]]'
-legal_basis: []
+  []
+lead_agency: "[[us-treasury]]"
+legal_basis:
+  []
 lessons_learned:
-- Financial sanctions combined with infrastructure seizure represent a powerful dual
-  approach
-- US-Netherlands cooperation effective for targeting crypto-based money laundering
-mechanisms_used: []
+  []
+mechanisms_used:
+  []
 missing_fields:
-- legal_basis
-- mechanisms_used
-- financial_amounts
-- url
+  []
 operation_type: infrastructure-seizure
 outcome: success
 participating_agencies:
-- '[[us-treasury]]'
-- '[[netherlands-politie]]'
+  []
 participating_countries:
-- '[[united-states]]'
-- '[[netherlands]]'
+  []
 period: 3
-related_cases: []
-related_operations: []
+related_cases:
+  []
+related_operations:
+  []
 results:
   arrests: 0
-  cryptocurrency_seized: ''
+  cryptocurrency_seized: ""
   decryption_keys_recovered: 0
   domains_seized: 0
   indictments: 0
   other:
-  - US Treasury sanctions imposed on Cryptex and PM2BTC
-  - Dutch law enforcement seized related infrastructure
-  - Russian-operated crypto exchanges used for cybercrime money laundering
+    []
   servers_seized: 0
   victims_notified: 0
 source_count: 1
 source_tier: 3
-sources: []
+sources:
+  []
 status: completed
-target_entity: Cryptex and PM2BTC crypto exchanges
+target_entity: "Cryptex and PM2BTC crypto exchanges"
 timeframe:
-  announced: '2024-09-26'
-  end: '2024-09-26'
+  announced: 2024-09-26
+  end: 2024-09-26
   ongoing: false
-  start: '2024-09-26'
-title: Cryptex/PM2BTC Russian Crypto Exchange Sanctions
-title_ko: Cryptex/PM2BTC 러시아 암호화폐 거래소 제재
+  start: 2024-09-26
+title: "Cryptex/PM2BTC Russian Crypto Exchange Sanctions"
+title_ko: "Cryptex/PM2BTC 러시아 암호화폐 거래소 제재"
 type: operation
 updated: 2026-04-08
+operation_role: umbrella
+parent_operation: ""
 ---
-
 > [!note] This operation is documented from a Tier 3 (cybersecurity media) source. Additional verification from official sources (Tier 1-2) would strengthen data reliability.
 
 ## Summary

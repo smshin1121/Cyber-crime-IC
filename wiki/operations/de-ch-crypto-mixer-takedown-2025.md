@@ -5,19 +5,19 @@ title_ko: "독일-스위스 가상자산 믹싱 서비스 단속 (2025년 12월)
 aliases:
   - "Eurojust DE-CH Crypto Mixer Takedown 2025"
   - "Germany Switzerland Cryptocurrency Mixer Action"
-case_id: "CYB-2025-013"
+case_id: CYB-2025-013
 period: 3
-operation_type: "infrastructure-seizure"
-status: "completed"
+operation_type: infrastructure-seizure
+status: completed
 enforcement_type:
-  - "seizure"
-  - "takedown"
-  - "asset_freeze"
-outcome: "partial"
+  - seizure
+  - takedown
+  - asset_freeze
+outcome: partial
 timeframe:
-  announced: "2025-12-01"
+  announced: 2025-12-01
   start: ""
-  end: "2025-12-01"
+  end: 2025-12-01
   ongoing: false
 crime_type: "[[money-laundering-ic]]"
 target_entity: "Unnamed cryptocurrency mixing service used to launder proceeds from drug trafficking, weapons trafficking, online fraud, and other cybercrimes"
@@ -47,35 +47,35 @@ results:
     - "3 servers seized"
     - "Cryptocurrency mixing service infrastructure dismantled"
 edges:
-  - source_actor: "Germany"
-    target_actor: "Switzerland"
-    cooperation_type: "joint_investigation"
-    legal_basis: "MLAT"
-    direction: "undirected"
-  - source_actor: "Eurojust"
-    target_actor: "Germany"
-    cooperation_type: "joint_investigation"
-    legal_basis: "Budapest_Convention"
-    direction: "directed"
-  - source_actor: "Eurojust"
-    target_actor: "Switzerland"
-    cooperation_type: "joint_investigation"
-    legal_basis: "bilateral_MOU"
-    direction: "directed"
-  - source_actor: "Europol"
-    target_actor: "Germany"
-    cooperation_type: "technical_assistance"
-    legal_basis: "informal"
-    direction: "directed"
+  - source_actor: Germany
+    target_actor: Switzerland
+    cooperation_type: joint_investigation
+    legal_basis: MLAT
+    direction: undirected
+  - source_actor: Eurojust
+    target_actor: Germany
+    cooperation_type: joint_investigation
+    legal_basis: Budapest_Convention
+    direction: directed
+  - source_actor: Eurojust
+    target_actor: Switzerland
+    cooperation_type: joint_investigation
+    legal_basis: bilateral_MOU
+    direction: directed
+  - source_actor: Europol
+    target_actor: Germany
+    cooperation_type: technical_assistance
+    legal_basis: informal
+    direction: directed
 credibility_index: 3.5
 source_tier: 1
 missing_fields:
-  - "operation_name"
-  - "service_name"
-  - "arrests"
-  - "indictments"
-  - "start_date"
-  - "specific_legal_basis_for_switzerland"
+  - operation_name
+  - service_name
+  - arrests
+  - indictments
+  - start_date
+  - specific_legal_basis_for_switzerland
 related_operations:
   - "[[cryptex-pm2btc-sanctions]]"
   - "[[2bagoldmule-qqaazz]]"
@@ -88,8 +88,9 @@ sources:
   - "[[2025-12-01-eurojust-de-ch-crypto-mixer-takedown]]"
 created: 2026-04-14
 updated: 2026-04-14
+operation_role: umbrella
+parent_operation: ""
 ---
-
 ## Summary
 
 On **1 December 2025**, [[eurojust|Eurojust]] announced that authorities from [[germany|Germany]] and [[switzerland|Switzerland]], together with Eurojust and [[europol-ec3|Europol]], had taken down a cryptocurrency mixing service suspected of being used by criminals to launder the proceeds of drug trafficking, weapons trafficking, online fraud, and other cybercrimes. During an action week, **more than EUR 25 million in cryptocurrency was seized and three servers were taken down**.

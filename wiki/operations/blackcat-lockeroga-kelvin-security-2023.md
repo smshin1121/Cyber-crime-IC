@@ -1,3 +1,7 @@
+---
+operation_role: umbrella
+parent_operation: ""
+---
 ﻿---
 type: operation
 title: "BlackCat/ALPHV, LockerGoga, and Kelvin Security Enforcement Actions (Dec 2023)"

@@ -22,7 +22,7 @@ coordinating_body: "[[fbi-cyber-division]]"
 participating_countries:
   - "[[united-states]]"
 participating_agencies:
-  []
+
 legal_basis:
   - "[[informal-cooperation]]"
   - "[[mutual-legal-assistance]]"
@@ -40,24 +40,26 @@ results:
   other:
     - "Defendant-specific follow-on action derived from [[us-v-anom-distributors]]"
 edges:
-  []
+
 credibility_index: 4.0
 source_tier: 1
 missing_fields:
-  []
+
 related_cases:
   - "[[us-v-anom-distributors]]"
 related_operations:
   - "[[operation-trojan-shield]]"
 challenges_encountered:
-  []
+
 lessons_learned:
-  []
+
 source_count: 1
 sources:
   - "[[2021-06-08_sdca_anom-enterprise-indictment]]"
 created: 2026-04-17
 updated: 2026-04-17
+operation_role: follow-on
+parent_operation: "[[operation-trojan-shield]]"
 ---
 ## Summary
 

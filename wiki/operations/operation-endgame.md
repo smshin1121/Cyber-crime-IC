@@ -2,20 +2,20 @@
 type: operation
 title: "Operation Endgame"
 aliases:
-  - "Endgame"
+  - Endgame
   - "Europol Endgame"
-operation_type: "takedown"
-status: "ongoing"
+operation_type: takedown
+status: ongoing
 enforcement_type:
-  - "arrest"
-  - "seizure"
-  - "takedown"
-  - "asset_freeze"
-  - "indictment"
-outcome: "success"
+  - arrest
+  - seizure
+  - takedown
+  - asset_freeze
+  - indictment
+outcome: success
 timeframe:
-  announced: "2024-05-30"
-  start: "2024-05-27"
+  announced: 2024-05-30
+  start: 2024-05-27
   end: ""
   ongoing: true
 crime_type: "[[ransomware-ic]]"
@@ -105,8 +105,9 @@ lessons_learned:
   - "EU Most Wanted listings and international arrest warrants create persistent legal pressure even without immediate physical arrests"
 created: 2026-04-10
 updated: 2026-04-10
+operation_role: umbrella
+parent_operation: ""
 ---
-
 ## Summary
 
 **Operation Endgame** is the **largest-ever international law enforcement operation against botnets and the ransomware-enabling malware ecosystem**. Launched in May 2024 and still ongoing as of 2026, the operation has been conducted in multiple phases coordinated by [[europol-ec3|Europol]] and [[eurojust|Eurojust]], with participation from law enforcement agencies across at least 15 countries.

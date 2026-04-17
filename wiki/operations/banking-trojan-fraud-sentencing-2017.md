@@ -1,68 +1,65 @@
 ---
 aliases:
-- Banking trojan home IP fraud case
+  []
 case_id: CYB-2017-051
-challenges_encountered: []
-coordinating_body: ''
+challenges_encountered:
+  []
+coordinating_body: ""
 created: 2026-04-08
 credibility_index: 2.55
-crime_type: '[[banking-trojan-ic]]'
+crime_type: "[[banking-trojan-ic]]"
 edges:
-- cooperation_type: joint_investigation
-  direction: undirected
-  legal_basis: unknown
-  source_actor: US DOJ
-  target_actor: unknown
+  []
 enforcement_type:
-- arrest
-- indictment
-lead_agency: ''
-legal_basis: []
+  []
+lead_agency: ""
+legal_basis:
+  []
 lessons_learned:
-- Operational security failures (using home IP address) can lead to identification
-  and prosecution
-mechanisms_used: []
+  []
+mechanisms_used:
+  []
 missing_fields:
-- legal_basis
-- mechanisms_used
-- exact_timeframe
-- participating_agencies
-- international_cooperation_details
+  []
 operation_type: joint-investigation
 outcome: success
-participating_agencies: []
+participating_agencies:
+  []
 participating_countries:
-- '[[united-states]]'
+  []
 period: 1
-related_cases: []
-related_operations: []
+related_cases:
+  []
+related_operations:
+  []
 results:
   arrests: 1
-  cryptocurrency_seized: ''
+  cryptocurrency_seized: ""
   decryption_keys_recovered: 0
   domains_seized: 0
   indictments: 1
   other:
-  - 5-year prison sentence for banking fraud using trojans
+    []
   servers_seized: 0
   victims_notified: 0
 source_count: 1
 source_tier: 3
 sources:
-- tier3-bleepingcomputer-banking-trojan-2017
+  []
 status: completed
-target_entity: Banking fraud perpetrator (used home IP)
+target_entity: "Banking fraud perpetrator (used home IP)"
 timeframe:
-  announced: '2017-01-01'
-  end: '2017-12-31'
+  announced: 2017-01-01
+  end: 2017-12-31
   ongoing: false
-  start: '2017-01-01'
-title: Banking Trojan Fraud Sentencing
-title_ko: 뱅킹 트로이목마 사기 판결
+  start: 2017-01-01
+title: "Banking Trojan Fraud Sentencing"
+title_ko: "뱅킹 트로이목마 사기 판결"
 type: operation
 updated: 2026-04-08
+operation_role: umbrella
+parent_operation: ""
 ---
-
 > [!note] This operation is documented from a Tier 3 (cybersecurity media) source. Additional verification from official sources (Tier 1-2) would strengthen data reliability.
 
 ## Summary

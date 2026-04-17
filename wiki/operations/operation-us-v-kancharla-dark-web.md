@@ -3,17 +3,17 @@ type: operation
 title: "Akshay Kancharla (OnlyTheFinest) Enforcement Action"
 aliases:
   - "United States v. Akshay Kancharla (OnlyTheFinest)"
-case_id: "CYB-FUP-051"
+case_id: CYB-FUP-051
 period: 2
-operation_type: "conviction"
-status: "completed"
+operation_type: conviction
+status: completed
 enforcement_type:
   - conviction
-outcome: "success"
+outcome: success
 timeframe:
-  announced: "2022-05-26"
-  start: "2022"
-  end: "2022-05-26"
+  announced: 2022-05-26
+  start: 2022
+  end: 2022-05-26
   ongoing: false
 crime_type: "[[drug-trafficking]]"
 target_entity: "Akshay Kancharla (OnlyTheFinest)"
@@ -21,7 +21,8 @@ lead_agency: "[[us-doj]]"
 coordinating_body: "[[us-doj]]"
 participating_countries:
   - "[[united-states]]"
-participating_agencies: []
+participating_agencies:
+  []
 legal_basis:
   - "[[controlled-substances-act]]"
 mechanisms_used:
@@ -36,22 +37,28 @@ results:
   victims_notified: 0
   other:
     - "Defendant-specific follow-on action derived from [[us-v-kancharla-dark-web]]"
-edges: []
+edges:
+  []
 credibility_index: 4.0
 source_tier: 1
-missing_fields: []
+missing_fields:
+  []
 related_cases:
   - "[[us-v-kancharla-dark-web]]"
-related_operations: []
-challenges_encountered: []
-lessons_learned: []
+related_operations:
+  []
+challenges_encountered:
+  []
+lessons_learned:
+  []
 source_count: 1
 sources:
   - "[[2022-05-26_edva_kancharla-darknet-vendor-plea]]"
 created: 2026-04-17
 updated: 2026-04-17
+operation_role: follow-on
+parent_operation: ""
 ---
-
 ## Summary
 
 Akshay Kancharla (OnlyTheFinest) Enforcement Action is a defendant-specific enforcement action page derived from [[us-v-kancharla-dark-web]]. It captures the prosecutorial or seizure stage reflected in the linked case record and preserves the operation-side catalog entry for this follow-on action.

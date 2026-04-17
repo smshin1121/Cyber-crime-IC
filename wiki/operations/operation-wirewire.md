@@ -3,7 +3,7 @@ type: operation
 title: "Operation WireWire"
 title_ko: "Operation WireWire (BEC 국제 단속)"
 aliases:
-  []
+
 case_id: CYB-2018-002
 period: 1
 operation_type: arrest-sweep
@@ -35,9 +35,9 @@ participating_agencies:
   - "[[us-treasury]]"
   - "[[us-postal-inspection]]"
 legal_basis:
-  []
+
 mechanisms_used:
-  []
+
 results:
   arrests: 74
   indictments: 0
@@ -66,14 +66,16 @@ related_cases:
 related_operations:
   - "[[operation-us-v-odufuye-nwoke-bec]]"
 challenges_encountered:
-  []
+
 lessons_learned:
-  []
+
 source_count: 1
 sources:
   - "[1] FBI News (2018-06-11)"
 created: 2026-04-08
 updated: 2026-04-17
+operation_role: umbrella
+parent_operation: ""
 ---
 ## Summary
 

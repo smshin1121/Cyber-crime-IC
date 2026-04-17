@@ -22,7 +22,7 @@ coordinating_body: "[[fbi-cyber-division]]"
 participating_countries:
   - "[[united-states]]"
 participating_agencies:
-  []
+
 legal_basis:
   - "[[computer-fraud-and-abuse-act]]"
   - "[[access-device-fraud]]"
@@ -40,24 +40,26 @@ results:
   other:
     - "Defendant-specific follow-on action derived from [[us-v-pankov-xdedic]]"
 edges:
-  []
+
 credibility_index: 4.0
 source_tier: 1
 missing_fields:
-  []
+
 related_cases:
   - "[[us-v-pankov-xdedic]]"
 related_operations:
   - "[[xdedic-marketplace-takedown]]"
 challenges_encountered:
-  []
+
 lessons_learned:
-  []
+
 source_count: 1
 sources:
   - "[[2023-02-22_mdfl_pankov-xdedic-extradition]]"
 created: 2026-04-17
 updated: 2026-04-17
+operation_role: follow-on
+parent_operation: "[[xdedic-marketplace-takedown]]"
 ---
 ## Summary
 

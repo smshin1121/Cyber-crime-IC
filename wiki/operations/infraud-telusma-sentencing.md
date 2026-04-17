@@ -2,18 +2,20 @@
 type: operation
 title: "Infraud Organization — Telusma Sentencing"
 title_ko: "인프라우드 조직 — 텔루스마 판결"
-aliases: ["Infraud Telusma sentencing", "Infraud follow-up prosecution"]
-case_id: "CYB-2021-053"
+aliases:
+  - "Infraud Telusma sentencing"
+  - "Infraud follow-up prosecution"
+case_id: CYB-2021-053
 period: 2
-operation_type: "joint-investigation"
-status: "completed"
+operation_type: joint-investigation
+status: completed
 enforcement_type:
-  - "indictment"
-outcome: "success"
+  - indictment
+outcome: success
 timeframe:
-  announced: "2021-01-01"
-  start: "2021-01-01"
-  end: "2021-12-31"
+  announced: 2021-01-01
+  start: 2021-01-01
+  end: 2021-12-31
   ongoing: false
 crime_type: "[[cybercrime-forum-ic]]"
 target_entity: "Infraud Organization member (Telusma)"
@@ -23,8 +25,10 @@ participating_countries:
   - "[[united-states]]"
 participating_agencies:
   - "[[us-doj]]"
-legal_basis: []
-mechanisms_used: []
+legal_basis:
+  []
+mechanisms_used:
+  []
 results:
   arrests: 0
   indictments: 1
@@ -38,31 +42,34 @@ results:
     - "Follow-up prosecution from 2018 Infraud takedown"
 edges:
   - source_actor: "US DOJ"
-    target_actor: "unknown"
-    cooperation_type: "joint_investigation"
-    legal_basis: "unknown"
-    direction: "undirected"
+    target_actor: unknown
+    cooperation_type: joint_investigation
+    legal_basis: unknown
+    direction: undirected
 credibility_index: 1.88
 source_tier: 3
 missing_fields:
-  - "legal_basis"
-  - "mechanisms_used"
-  - "exact_timeframe"
-  - "sentence_details"
-  - "url"
+  - legal_basis
+  - mechanisms_used
+  - exact_timeframe
+  - sentence_details
+  - url
 related_cases:
   - "[[us-v-telusma-infraud]]"
 related_operations:
   - "[[infraud-organization-takedown]]"
-challenges_encountered: []
+challenges_encountered:
+  []
 lessons_learned:
   - "Large-scale cybercrime forum takedowns generate years of follow-up prosecutions"
 source_count: 1
-sources: []
+sources:
+  []
 created: 2026-04-08
 updated: 2026-04-08
+operation_role: umbrella
+parent_operation: ""
 ---
-
 > [!note] This operation is documented from a Tier 3 (cybersecurity media) source. Additional verification from official sources (Tier 1-2) would strengthen data reliability.
 
 ## Summary

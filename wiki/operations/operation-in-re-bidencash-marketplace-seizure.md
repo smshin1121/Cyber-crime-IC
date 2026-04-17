@@ -22,7 +22,7 @@ coordinating_body: "[[us-secret-service]]"
 participating_countries:
   - "[[united-states]]"
 participating_agencies:
-  []
+
 legal_basis:
   - "[[mutual-legal-assistance]]"
   - "[[budapest-convention]]"
@@ -40,24 +40,26 @@ results:
   other:
     - "Defendant-specific follow-on action derived from [[in-re-bidencash-marketplace-seizure]]"
 edges:
-  []
+
 credibility_index: 4.0
 source_tier: 1
 missing_fields:
-  []
+
 related_cases:
   - "[[in-re-bidencash-marketplace-seizure]]"
 related_operations:
   - "[[bidencash-takedown]]"
 challenges_encountered:
-  []
+
 lessons_learned:
-  []
+
 source_count: 1
 sources:
   - "[[2025-06-04_edva_bidencash-marketplace-seizure]]"
 created: 2026-04-17
 updated: 2026-04-17
+operation_role: follow-on
+parent_operation: "[[bidencash-takedown]]"
 ---
 ## Summary
 

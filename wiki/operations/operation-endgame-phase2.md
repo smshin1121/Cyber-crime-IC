@@ -68,9 +68,9 @@ participating_agencies:
   - "[[us-dcis]]"
   - "[[us-doj]]"
 legal_basis:
-  []
+
 mechanisms_used:
-  []
+
 results:
   arrests: 0
   indictments: 0
@@ -88,7 +88,7 @@ related_operations:
   - "[[operation-endgame-phase1]]"
   - "[[operation-us-v-stepanov-danabot]]"
 challenges_encountered:
-  []
+
 lessons_learned:
   - "Infrastructure-focused operations can achieve massive scale (300 servers, 650 domains) even without immediate arrests"
   - "International arrest warrants and EU Most Wanted listings create sustained pressure on fugitives"
@@ -100,6 +100,8 @@ sources:
   - "[[2025-05-22-europol-endgame-follow-up]]"
 created: 2026-04-08
 updated: 2026-04-12
+operation_role: umbrella
+parent_operation: ""
 ---
 ## Summary
 

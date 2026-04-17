@@ -96,6 +96,8 @@ sources:
   - "[[2021-01-27-doj-mdnc-emotet]]"
 created: 2026-04-10
 updated: 2026-04-14
+operation_role: umbrella
+parent_operation: ""
 ---
 ## Summary
 

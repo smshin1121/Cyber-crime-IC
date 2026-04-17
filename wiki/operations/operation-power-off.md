@@ -92,7 +92,7 @@ edges:
 credibility_index: 3.8
 source_tier: 1
 missing_fields:
-  []
+
 related_cases:
   - "[[us-v-miller-poweroff]]"
 related_operations:
@@ -116,6 +116,8 @@ sources:
   - "[7] DOJ: "13 More Domains Seized (2023-05-08)\""
 created: 2026-04-10
 updated: 2026-04-11
+operation_role: umbrella
+parent_operation: ""
 ---
 ## Summary
 

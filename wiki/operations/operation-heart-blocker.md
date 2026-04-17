@@ -63,6 +63,8 @@ created: 2026-04-10
 updated: 2026-04-10
 related_operations:
   - "[[operation-in-re-heartsender-seizure]]"
+operation_role: umbrella
+parent_operation: ""
 ---
 ## Summary
 

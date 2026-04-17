@@ -1,3 +1,7 @@
+---
+operation_role: umbrella
+parent_operation: ""
+---
 ﻿---
 type: operation
 title: "VPNLab.net Takedown"

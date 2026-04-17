@@ -3,17 +3,17 @@ type: operation
 title: "Nicholas Partlow (Darknet Drug Trafficker) Enforcement Action"
 aliases:
   - "United States v. Nicholas Partlow (Darknet Drug Trafficker)"
-case_id: "CYB-FUP-063"
+case_id: CYB-FUP-063
 period: 2
-operation_type: "prosecution"
-status: "completed"
+operation_type: prosecution
+status: completed
 enforcement_type:
   - arrest
-outcome: "success"
+outcome: success
 timeframe:
-  announced: "2022-03-07"
-  start: "2022"
-  end: "2022-03-07"
+  announced: 2022-03-07
+  start: 2022
+  end: 2022-03-07
   ongoing: false
 crime_type: "[[drug-trafficking]]"
 target_entity: "Nicholas Partlow (Darknet Drug Trafficker)"
@@ -21,7 +21,8 @@ lead_agency: "[[us-doj]]"
 coordinating_body: "[[us-doj]]"
 participating_countries:
   - "[[united-states]]"
-participating_agencies: []
+participating_agencies:
+  []
 legal_basis:
   - "[[controlled-substances-act]]"
 mechanisms_used:
@@ -36,22 +37,28 @@ results:
   victims_notified: 0
   other:
     - "Defendant-specific follow-on action derived from [[us-v-nicholas-partlow-dark-web]]"
-edges: []
+edges:
+  []
 credibility_index: 4.0
 source_tier: 1
-missing_fields: []
+missing_fields:
+  []
 related_cases:
   - "[[us-v-nicholas-partlow-dark-web]]"
-related_operations: []
-challenges_encountered: []
-lessons_learned: []
+related_operations:
+  []
+challenges_encountered:
+  []
+lessons_learned:
+  []
 source_count: 1
 sources:
   - "[[2022-03-07_wdwa_nicholas-partlow-darknet-plea]]"
 created: 2026-04-17
 updated: 2026-04-17
+operation_role: follow-on
+parent_operation: ""
 ---
-
 ## Summary
 
 Nicholas Partlow (Darknet Drug Trafficker) Enforcement Action is a defendant-specific enforcement action page derived from [[us-v-nicholas-partlow-dark-web]]. It captures the prosecutorial or seizure stage reflected in the linked case record and preserves the operation-side catalog entry for this follow-on action.

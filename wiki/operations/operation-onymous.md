@@ -7,6 +7,8 @@ related_cases:
   - "[[us-v-benthall-silk-road-2]]"
   - "[[us-v-farrell-silk-road-2]]"
   - "[[us-v-paiva-silk-road-2]]"
+operation_role: umbrella
+parent_operation: ""
 ---
 ﻿---
 type: operation

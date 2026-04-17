@@ -24,15 +24,15 @@ target_entity: "Transnational organized crime networks using encrypted communica
 lead_agency: "[[fbi-cyber-division]]"
 coordinating_body: "[[europol-ec3]]"
 participating_countries:
-  []
+
 participating_agencies:
   - "[[fbi-cyber-division]]"
   - "[[australia-afp]]"
   - "[[europol-ec3]]"
 legal_basis:
-  []
+
 mechanisms_used:
-  []
+
 results:
   arrests: 800
   indictments: 0
@@ -45,7 +45,7 @@ results:
     - "27 million messages intercepted"
     - "Disruption of 300+ criminal syndicates"
 edges:
-  []
+
 credibility_index: 3.5
 source_tier: 2
 missing_fields:
@@ -56,15 +56,17 @@ related_cases:
 related_operations:
   - "[[operation-us-v-anom-distributors]]"
 challenges_encountered:
-  []
+
 lessons_learned:
-  []
+
 source_count: 2
 sources:
   - "[[2021-06-08-fbi-operation-trojan-shield]]"
   - "[[2021-06-08-europol-trojan-shield-an0m]]"
 created: 2026-04-12
 updated: 2026-04-14
+operation_role: umbrella
+parent_operation: ""
 ---
 > [!info] Stub
 > This page was auto-created. It will be expanded when more sources are ingested.

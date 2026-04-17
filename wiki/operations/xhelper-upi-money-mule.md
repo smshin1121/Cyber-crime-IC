@@ -2,19 +2,21 @@
 type: operation
 title: "XHelper/UPI Money Mule Network Takedown"
 title_ko: "XHelper/UPI 자금 세탁 네트워크 소탕"
-aliases: ["XHelper money mule bust", "UPI money mule network India China"]
-case_id: "CYB-2025-052"
+aliases:
+  - "XHelper money mule bust"
+  - "UPI money mule network India China"
+case_id: CYB-2025-052
 period: 3
-operation_type: "arrest-sweep"
-status: "completed"
+operation_type: arrest-sweep
+status: completed
 enforcement_type:
-  - "arrest"
-  - "seizure"
-outcome: "success"
+  - arrest
+  - seizure
+outcome: success
 timeframe:
-  announced: "2025-01-01"
-  start: "2025-01-01"
-  end: "2025-03-31"
+  announced: 2025-01-01
+  start: 2025-01-01
+  end: 2025-03-31
   ongoing: false
 crime_type: "[[money-laundering-ic]]"
 target_entity: "XHelper/UPI money mule network"
@@ -25,8 +27,10 @@ participating_countries:
   - "[[china]]"
 participating_agencies:
   - "[[europol-ec3]]"
-legal_basis: []
-mechanisms_used: []
+legal_basis:
+  []
+mechanisms_used:
+  []
 results:
   arrests: 0
   indictments: 0
@@ -41,31 +45,36 @@ results:
     - "Europol involvement"
 edges:
   - source_actor: "India Police"
-    target_actor: "Europol"
-    cooperation_type: "joint_investigation"
-    legal_basis: "unknown"
-    direction: "undirected"
+    target_actor: Europol
+    cooperation_type: joint_investigation
+    legal_basis: unknown
+    direction: undirected
 credibility_index: 1.88
 source_tier: 3
 missing_fields:
-  - "legal_basis"
-  - "mechanisms_used"
-  - "lead_agency"
-  - "results_arrests"
-  - "financial_losses"
-  - "url"
-related_cases: []
-related_operations: []
-challenges_encountered: []
+  - legal_basis
+  - mechanisms_used
+  - lead_agency
+  - results_arrests
+  - financial_losses
+  - url
+related_cases:
+  []
+related_operations:
+  []
+challenges_encountered:
+  []
 lessons_learned:
   - "Mobile payment systems (UPI) can be exploited for large-scale money laundering"
   - "India-China criminal networks require cross-border cooperation"
 source_count: 1
-sources: []
+sources:
+  []
 created: 2026-04-08
 updated: 2026-04-08
+operation_role: umbrella
+parent_operation: ""
 ---
-
 > [!note] This operation is documented from a Tier 3 (cybersecurity media) source. Additional verification from official sources (Tier 1-2) would strengthen data reliability.
 
 ## Summary

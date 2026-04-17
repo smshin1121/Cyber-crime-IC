@@ -28,7 +28,7 @@ participating_agencies:
   - "[[germany-frankfurt-prosecutor|ZIT (Zentralstelle zur Bekämpfung der Internetkriminalität)]]"
   - "[[fbi-cyber-division|FBI]]"
 legal_basis:
-  []
+
 mechanisms_used:
   - "[[informal-cooperation|Informal Law Enforcement Cooperation]]"
 results:
@@ -51,6 +51,8 @@ created: 2024-03-20
 updated: 2026-04-10
 related_operations:
   - "[[operation-us-v-parsarad-nemesis]]"
+operation_role: umbrella
+parent_operation: ""
 ---
 ## Summary
 

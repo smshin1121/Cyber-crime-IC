@@ -3,17 +3,17 @@ type: operation
 title: "Brandon Adams (BenzoBoys) Enforcement Action"
 aliases:
   - "United States v. Brandon Adams (BenzoBoys)"
-case_id: "CYB-FUP-017"
+case_id: CYB-FUP-017
 period: 3
-operation_type: "sentencing"
-status: "completed"
+operation_type: sentencing
+status: completed
 enforcement_type:
   - sentencing
-outcome: "success"
+outcome: success
 timeframe:
-  announced: "2024-05-01"
-  start: "2024"
-  end: "2024-05-01"
+  announced: 2024-05-01
+  start: 2024
+  end: 2024-05-01
   ongoing: false
 crime_type: "[[drug-trafficking]]"
 target_entity: "Brandon Adams (BenzoBoys)"
@@ -21,7 +21,8 @@ lead_agency: "[[us-doj]]"
 coordinating_body: "[[us-doj]]"
 participating_countries:
   - "[[united-states]]"
-participating_agencies: []
+participating_agencies:
+  []
 legal_basis:
   - "[[controlled-substances-act]]"
 mechanisms_used:
@@ -36,22 +37,28 @@ results:
   victims_notified: 0
   other:
     - "Defendant-specific follow-on action derived from [[us-v-brandon-adams-dark-web]]"
-edges: []
+edges:
+  []
 credibility_index: 4.0
 source_tier: 1
-missing_fields: []
+missing_fields:
+  []
 related_cases:
   - "[[us-v-brandon-adams-dark-web]]"
-related_operations: []
-challenges_encountered: []
-lessons_learned: []
+related_operations:
+  []
+challenges_encountered:
+  []
+lessons_learned:
+  []
 source_count: 1
 sources:
   - "[[2024-05-01_edmo_brandon-adams-darknet-sentencing]]"
 created: 2026-04-17
 updated: 2026-04-17
+operation_role: follow-on
+parent_operation: ""
 ---
-
 ## Summary
 
 Brandon Adams (BenzoBoys) Enforcement Action is a defendant-specific enforcement action page derived from [[us-v-brandon-adams-dark-web]]. It captures the prosecutorial or seizure stage reflected in the linked case record and preserves the operation-side catalog entry for this follow-on action.

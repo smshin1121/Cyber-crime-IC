@@ -1,46 +1,50 @@
 ---
 type: operation
 title: "Operation Jackal III"
-aliases: ["Jackal III"]
-operation_type: "arrest-sweep"
-status: "completed"
-case_id: "CYB-2024-005"
+aliases:
+  - "Jackal III"
+operation_type: arrest-sweep
+status: completed
+case_id: CYB-2024-005
 period: 3
 enforcement_type:
-  - "arrest"
-  - "asset_freeze"
-outcome: "success"
+  - arrest
+  - asset_freeze
+outcome: success
 credibility_index: 2.28
 source_tier: 2
 edges:
-  - source_actor: "INTERPOL"
+  - source_actor: INTERPOL
     target_actor: "Argentina Police"
-    cooperation_type: "joint_investigation"
-    legal_basis: "unknown"
-    direction: "undirected"
-  - source_actor: "INTERPOL"
+    cooperation_type: joint_investigation
+    legal_basis: unknown
+    direction: undirected
+  - source_actor: INTERPOL
     target_actor: "Ireland Police"
-    cooperation_type: "joint_investigation"
-    legal_basis: "unknown"
-    direction: "undirected"
+    cooperation_type: joint_investigation
+    legal_basis: unknown
+    direction: undirected
 missing_fields:
-  - "legal_basis"
-  - "mechanisms_used"
-  - "full_participating_countries_list"
+  - legal_basis
+  - mechanisms_used
+  - full_participating_countries_list
 timeframe:
-  announced: "2024-08-28"
-  start: "2024-04-10"
-  end: "2024-07-03"
+  announced: 2024-08-28
+  start: 2024-04-10
+  end: 2024-07-03
   ongoing: false
 crime_type: "[[bec-ic]]"
 target_entity: "Black Axe and similar West African organized crime groups"
 lead_agency: "[[interpol-igci]]"
 coordinating_body: "[[interpol-igci]]"
-participating_countries: []
+participating_countries:
+  []
 participating_agencies:
   - "[[interpol-igci]]"
-legal_basis: []
-mechanisms_used: []
+legal_basis:
+  []
+mechanisms_used:
+  []
 results:
   arrests: 300
   indictments: 0
@@ -53,11 +57,13 @@ results:
     - "400+ additional suspects identified"
     - "720+ bank accounts blocked"
     - "USD 3 million in assets seized"
-    - "Argentina: 72 arrests, USD 1.2 million counterfeit notes, ~100 bank accounts frozen"
-related_cases: []
+    - "Argentina: "72 arrests, USD 1.2 million counterfeit notes, ~100 bank accounts frozen\""
+related_cases:
+  []
 related_operations:
   - "[[operation-jackal]]"
-challenges_encountered: []
+challenges_encountered:
+  []
 lessons_learned:
   - "Series-based operations (Jackal I → III) demonstrate escalating enforcement effectiveness"
   - "BEC intersects with broader financial crime including counterfeiting (Argentina case)"
@@ -66,8 +72,9 @@ sources:
   - "[[2024-08-28-interpol-operation-jackal-iii]]"
 created: 2026-04-08
 updated: 2026-04-08
+operation_role: umbrella
+parent_operation: ""
 ---
-
 ## Summary
 
 Operation Jackal III was the third iteration of INTERPOL's dedicated campaign against Black Axe and similar West African organized crime syndicates. Conducted from 10 April to 3 July 2024 across **21 countries** on five continents, the operation resulted in approximately **300 arrests** (nearly tripling the 103 arrests in 2023's [[operation-jackal|Operation Jackal]]), identification of **400+ additional suspects**, blocking of **720+ bank accounts**, and seizure of **USD 3 million**.

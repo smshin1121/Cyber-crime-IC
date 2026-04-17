@@ -1,114 +1,64 @@
 ---
 aliases:
-- Operation Cyber Guardian
-- 사이버 가디언 작전
-- Cyber Guardian
+  []
 case_id: CYB-2025-002
-challenges_encountered: []
-coordinating_body: ''
+challenges_encountered:
+  []
+coordinating_body: ""
 created: 2026-04-08
 credibility_index: 2.95
-crime_type: '[[csam-ic]]'
+crime_type: "[[csam-ic]]"
 edges:
-- cooperation_type: joint_investigation
-  direction: directed
-  legal_basis: unknown
-  source_actor: ORG-NLEA-SPF
-  target_actor: ORG-NLEA-KNPA
-- cooperation_type: joint_investigation
-  direction: directed
-  legal_basis: unknown
-  source_actor: ORG-NLEA-SPF
-  target_actor: ORG-NLEA-JNPA
-- cooperation_type: info_sharing
-  direction: undirected
-  legal_basis: unknown
-  source_actor: ORG-NLEA-KNPA
-  target_actor: ORG-NLEA-JNPA
-- cooperation_type: info_sharing
-  direction: undirected
-  legal_basis: unknown
-  source_actor: ORG-NLEA-KNPA
-  target_actor: ORG-NLEA-RMP
-- cooperation_type: info_sharing
-  direction: undirected
-  legal_basis: unknown
-  source_actor: ORG-NLEA-KNPA
-  target_actor: ORG-NLEA-RTP
-- cooperation_type: info_sharing
-  direction: undirected
-  legal_basis: unknown
-  source_actor: ORG-NLEA-KNPA
-  target_actor: ORG-NLEA-HKPF
+  []
 enforcement_type:
-- arrest
-- seizure
-lead_agency: '[[singapore-police|Singapore Police Force]]'
-legal_basis: []
+  []
+lead_agency: "[[singapore-police|Singapore Police Force]]"
+legal_basis:
+  []
 lessons_learned:
-- High proportion of teenage suspects (49%) indicates CSAM production/distribution
-  among minors is a growing regional concern
-- AI deepfake CSAM adds new dimension to content-related cybercrime
-- Regional cooperation without a formal international organization (no INTERPOL/Europol
-  involvement) — Singapore-initiated bilateral framework
-mechanisms_used: []
+  []
+mechanisms_used:
+  []
 missing_fields:
-- arrests_thailand
-- arrests_hong_kong
-- servers_seized
-- devices_seized
-- children_protected
-- legal_basis
+  []
 operation_type: arrest-sweep
 outcome: success
 participating_agencies:
-- '[[knpa-cyber-bureau|Korean National Police Agency - National Investigation Headquarters]]'
-- '[[singapore-police|Singapore Police Force]]'
-- '[[japan-npa|Japan National Police Agency]]'
-- '[[malaysia-police|Royal Malaysia Police]]'
-- '[[thailand-police|Royal Thai Police]]'
-- '[[hong-kong-police|Hong Kong Police Force]]'
+  []
 participating_countries:
-- '[[south-korea]]'
-- '[[japan]]'
-- '[[singapore]]'
-- '[[malaysia]]'
-- '[[thailand]]'
-- '[[hong-kong]]'
+  []
 period: 3
-related_cases: []
-related_operations: []
+related_cases:
+  []
+related_operations:
+  []
 results:
   arrests: 544
-  cryptocurrency_seized: ''
+  cryptocurrency_seized: ""
   decryption_keys_recovered: 0
   domains_seized: 0
   indictments: 0
   other:
-  - 'South Korea: 435 arrests (374 by National Investigation HQ)'
-  - 'Japan: 111 arrests'
-  - 'Singapore: 21 arrests'
-  - 'Malaysia: 4 arrests'
-  - 13 individuals detained (Korea)
-  - 59.9% increase from prior year (272 arrests)
+    []
   servers_seized: 0
   victims_notified: 0
 source_count: 0
 source_tier: 2
 sources:
-- '[[2025-04-07-korea-npa-operation-cyber-guardian]]'
+  []
 status: completed
-target_entity: CSAM producers, distributors, and possessors across Asia
+target_entity: "CSAM producers, distributors, and possessors across Asia"
 timeframe:
-  announced: '2025-04-07'
-  end: '2025-03-28'
+  announced: 2025-04-07
+  end: 2025-03-28
   ongoing: false
-  start: '2025-02-24'
-title: Operation Cyber Guardian — Asia 6-Country CSAM Crackdown
+  start: 2025-02-24
+title: "Operation Cyber Guardian — Asia 6-Country CSAM Crackdown"
 type: operation
 updated: 2026-04-08
+operation_role: umbrella
+parent_operation: ""
 ---
-
 # Operation Cyber Guardian — Asia 6-Country CSAM Crackdown
 
 ## Summary

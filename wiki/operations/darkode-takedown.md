@@ -1,32 +1,32 @@
 ---
 aliases:
-  []
+
 case_id: CYB-2015-051
 challenges_encountered:
-  []
+
 coordinating_body: "[[europol-ec3]]"
 created: 2026-04-08
 credibility_index: 2.18
 crime_type: "[[cybercrime-forum-ic]]"
 edges:
-  []
+
 enforcement_type:
-  []
+
 lead_agency: "[[fbi-cyber-division]]"
 legal_basis:
-  []
+
 lessons_learned:
-  []
+
 mechanisms_used:
-  []
+
 missing_fields:
-  []
+
 operation_type: takedown
 outcome: success
 participating_agencies:
-  []
+
 participating_countries:
-  []
+
 period: 1
 related_cases:
   - "[[us-v-gudmunds-darkode]]"
@@ -39,13 +39,13 @@ results:
   domains_seized: 1
   indictments: 12
   other:
-    []
+
   servers_seized: 0
   victims_notified: 0
 source_count: 1
 source_tier: 3
 sources:
-  []
+
 status: completed
 target_entity: "Darkode cybercrime forum"
 timeframe:
@@ -57,6 +57,8 @@ title: "Darkode Forum Takedown"
 title_ko: "Darkode 포럼 소탕"
 type: operation
 updated: 2026-04-12
+operation_role: umbrella
+parent_operation: ""
 ---
 > [!note] This operation is documented from a Tier 3 (cybersecurity media) source. Additional verification from official sources (Tier 1-2) would strengthen data reliability.
 

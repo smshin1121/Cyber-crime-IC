@@ -101,7 +101,7 @@ edges:
 credibility_index: 4.0
 source_tier: 1
 missing_fields:
-  []
+
 related_cases:
   - "[[us-v-yakubets-dridex]]"
   - "[[us-v-ghinkul-dridex|United States v. Ghinkul (Bugat/Dridex)]]"
@@ -131,6 +131,8 @@ sources:
   - "[8] Dell SecureWorks: "Dridex (Bugat v5) Botnet Takeover Operation (2015-10)\""
 created: 2026-04-10
 updated: 2026-04-17
+operation_role: umbrella
+parent_operation: ""
 ---
 ## Summary
 

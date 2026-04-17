@@ -22,7 +22,7 @@ coordinating_body: "[[us-doj]]"
 participating_countries:
   - "[[united-states]]"
 participating_agencies:
-  []
+
 legal_basis:
   - "[[mutual-legal-assistance]]"
 mechanisms_used:
@@ -39,24 +39,26 @@ results:
   other:
     - "Defendant-specific follow-on action derived from [[in-re-heartsender-seizure]]"
 edges:
-  []
+
 credibility_index: 4.0
 source_tier: 1
 missing_fields:
-  []
+
 related_cases:
   - "[[in-re-heartsender-seizure]]"
 related_operations:
   - "[[operation-heart-blocker]]"
 challenges_encountered:
-  []
+
 lessons_learned:
-  []
+
 source_count: 1
 sources:
   - "[[2025-01-29_sdtx_heartsender-seizure]]"
 created: 2026-04-17
 updated: 2026-04-17
+operation_role: follow-on
+parent_operation: "[[operation-heart-blocker]]"
 ---
 ## Summary
 

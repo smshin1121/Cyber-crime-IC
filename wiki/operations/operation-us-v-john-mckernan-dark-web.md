@@ -3,17 +3,17 @@ type: operation
 title: "John McKernan (KingofKeys) Enforcement Action"
 aliases:
   - "United States v. John McKernan (KingofKeys)"
-case_id: "CYB-FUP-050"
+case_id: CYB-FUP-050
 period: 3
-operation_type: "sentencing"
-status: "completed"
+operation_type: sentencing
+status: completed
 enforcement_type:
   - sentencing
-outcome: "success"
+outcome: success
 timeframe:
-  announced: "2023-04-07"
-  start: "2023"
-  end: "2023-04-07"
+  announced: 2023-04-07
+  start: 2023
+  end: 2023-04-07
   ongoing: false
 crime_type: "[[drug-trafficking]]"
 target_entity: "John McKernan (KingofKeys)"
@@ -21,7 +21,8 @@ lead_agency: "[[us-doj]]"
 coordinating_body: "[[us-doj]]"
 participating_countries:
   - "[[united-states]]"
-participating_agencies: []
+participating_agencies:
+  []
 legal_basis:
   - "[[controlled-substances-act]]"
 mechanisms_used:
@@ -36,22 +37,28 @@ results:
   victims_notified: 0
   other:
     - "Defendant-specific follow-on action derived from [[us-v-john-mckernan-dark-web]]"
-edges: []
+edges:
+  []
 credibility_index: 4.0
 source_tier: 1
-missing_fields: []
+missing_fields:
+  []
 related_cases:
   - "[[us-v-john-mckernan-dark-web]]"
-related_operations: []
-challenges_encountered: []
-lessons_learned: []
+related_operations:
+  []
+challenges_encountered:
+  []
+lessons_learned:
+  []
 source_count: 1
 sources:
   - "[[2023-04-07_edva_john-mckernan-darknet-sentencing]]"
 created: 2026-04-17
 updated: 2026-04-17
+operation_role: follow-on
+parent_operation: ""
 ---
-
 ## Summary
 
 John McKernan (KingofKeys) Enforcement Action is a defendant-specific enforcement action page derived from [[us-v-john-mckernan-dark-web]]. It captures the prosecutorial or seizure stage reflected in the linked case record and preserves the operation-side catalog entry for this follow-on action.

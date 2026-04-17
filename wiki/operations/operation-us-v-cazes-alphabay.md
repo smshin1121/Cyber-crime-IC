@@ -22,7 +22,7 @@ coordinating_body: "[[fbi-cyber-division]]"
 participating_countries:
   - "[[united-states]]"
 participating_agencies:
-  []
+
 legal_basis:
   - "[[mutual-legal-assistance]]"
   - "[[budapest-convention]]"
@@ -40,24 +40,26 @@ results:
   other:
     - "Defendant-specific follow-on action derived from [[us-v-cazes-alphabay]]"
 edges:
-  []
+
 credibility_index: 4.0
 source_tier: 1
 missing_fields:
-  []
+
 related_cases:
   - "[[us-v-cazes-alphabay]]"
 related_operations:
   - "[[alphabay-takedown]]"
 challenges_encountered:
-  []
+
 lessons_learned:
-  []
+
 source_count: 1
 sources:
   - "[[2017-07-20_edca_cazes-alphabay-indictment]]"
 created: 2026-04-17
 updated: 2026-04-17
+operation_role: follow-on
+parent_operation: "[[alphabay-takedown]]"
 ---
 ## Summary
 

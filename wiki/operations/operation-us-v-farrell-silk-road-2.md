@@ -22,7 +22,7 @@ coordinating_body: "[[us-dhs]]"
 participating_countries:
   - "[[united-states]]"
 participating_agencies:
-  []
+
 legal_basis:
   - "[[controlled-substances-act]]"
   - "[[computer-fraud-and-abuse-act]]"
@@ -39,24 +39,26 @@ results:
   other:
     - "Defendant-specific follow-on action derived from [[us-v-farrell-silk-road-2]]"
 edges:
-  []
+
 credibility_index: 4.0
 source_tier: 1
 missing_fields:
-  []
+
 related_cases:
   - "[[us-v-farrell-silk-road-2]]"
 related_operations:
   - "[[operation-onymous]]"
 challenges_encountered:
-  []
+
 lessons_learned:
-  []
+
 source_count: 1
 sources:
   - "[[2016-06-03_wdwa_farrell-silk-road-2-sentencing]]"
 created: 2026-04-17
 updated: 2026-04-17
+operation_role: follow-on
+parent_operation: "[[operation-onymous]]"
 ---
 ## Summary
 

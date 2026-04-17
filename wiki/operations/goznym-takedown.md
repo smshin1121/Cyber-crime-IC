@@ -1,32 +1,32 @@
 ---
 aliases:
-  []
+
 case_id: CYB-2019-001
 challenges_encountered:
-  []
+
 coordinating_body: "[[europol-ec3]]"
 created: 2026-04-08
 credibility_index: 3.62
 crime_type: "[[malware-ic]]"
 edges:
-  []
+
 enforcement_type:
-  []
+
 lead_agency: "[[europol-ec3]]"
 legal_basis:
-  []
+
 lessons_learned:
-  []
+
 mechanisms_used:
-  []
+
 missing_fields:
-  []
+
 operation_type: joint-investigation
 outcome: success
 participating_agencies:
-  []
+
 participating_countries:
-  []
+
 period: 2
 related_cases:
   - "[[us-v-konovolov-goznym]]"
@@ -39,13 +39,13 @@ results:
   domains_seized: 0
   indictments: 10
   other:
-    []
+
   servers_seized: 0
   victims_notified: 0
 source_count: 3
 source_tier: 2
 sources:
-  []
+
 status: completed
 target_entity: "GozNym malware network"
 timeframe:
@@ -57,6 +57,8 @@ title: "GozNym Malware Network Dismantling"
 title_ko: "공식 작전명 없음 (GozNym 악성코드 네트워크 해체)"
 type: operation
 updated: 2026-04-12
+operation_role: umbrella
+parent_operation: ""
 ---
 ## Summary
 

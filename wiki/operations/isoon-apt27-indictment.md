@@ -1,34 +1,37 @@
 ---
 type: operation
 title: "i-Soon/APT27 Indictment (Chinese Contract Hackers)"
-aliases: ["i-Soon Indictment", "APT27 Indictment", "Anxun Indictment"]
-operation_type: "joint-investigation"
-status: "ongoing"
-case_id: "CYB-2025-004"
+aliases:
+  - "i-Soon Indictment"
+  - "APT27 Indictment"
+  - "Anxun Indictment"
+operation_type: joint-investigation
+status: ongoing
+case_id: CYB-2025-004
 period: 3
 enforcement_type:
-  - "indictment"
-  - "asset_freeze"
-outcome: "ongoing"
+  - indictment
+  - asset_freeze
+outcome: ongoing
 credibility_index: 2.28
 source_tier: 2
 edges:
-  - source_actor: "FBI"
+  - source_actor: FBI
     target_actor: "US DOJ"
-    cooperation_type: "joint_investigation"
-    legal_basis: "unknown"
-    direction: "undirected"
+    cooperation_type: joint_investigation
+    legal_basis: unknown
+    direction: undirected
   - source_actor: "US Department of State"
     target_actor: "US Treasury"
-    cooperation_type: "asset_recovery"
-    legal_basis: "unknown"
-    direction: "undirected"
+    cooperation_type: asset_recovery
+    legal_basis: unknown
+    direction: undirected
 missing_fields:
-  - "legal_basis"
-  - "mechanisms_used"
-  - "international_cooperation_partners"
+  - legal_basis
+  - mechanisms_used
+  - international_cooperation_partners
 timeframe:
-  announced: "2025-03-05"
+  announced: 2025-03-05
   start: ""
   end: ""
   ongoing: true
@@ -40,8 +43,10 @@ participating_countries:
   - "[[united-states]]"
 participating_agencies:
   - "[[fbi-cyber-division]]"
-legal_basis: []
-mechanisms_used: []
+legal_basis:
+  []
+mechanisms_used:
+  []
 results:
   arrests: 0
   indictments: 12
@@ -56,7 +61,8 @@ results:
     - "12 Chinese nationals charged (2 MPS officers, 8 i-Soon employees, APT27 members)"
 related_cases:
   - "[[us-v-wu-haibo-isoon]]"
-related_operations: []
+related_operations:
+  []
 challenges_encountered:
   - "All defendants located in China — arrest and extradition highly unlikely"
   - "State-sponsored nature complicates traditional law enforcement cooperation"
@@ -68,8 +74,9 @@ sources:
   - "[[2025-03-05-doj-isoon-chinese-hackers-charges]]"
 created: 2026-04-08
 updated: 2026-04-08
+operation_role: umbrella
+parent_operation: ""
 ---
-
 ## Summary
 
 On 5 March 2025, the US Department of Justice announced charges against **12 Chinese nationals** affiliated with Anxun Information Technology Co. Ltd. (i-Soon) and Advanced Persistent Threat 27 (APT27). The defendants included two officers of China's Ministry of Public Security (MPS), eight i-Soon employees, and APT27 members. These actors conducted computer intrusions at the direction of China's MPS and Ministry of State Security (MSS) as well as on their own initiative.

@@ -1,70 +1,74 @@
 ---
 type: operation
 title: "Operation Sentinel (Africa)"
-aliases: ["Operation Sentinel", "Sentinel"]
-operation_type: "arrest-sweep"
-status: "completed"
-case_id: "CYB-2025-010"
+aliases:
+  - "Operation Sentinel"
+  - Sentinel
+operation_type: arrest-sweep
+status: completed
+case_id: CYB-2025-010
 period: 3
 enforcement_type:
-  - "arrest"
-  - "takedown"
-outcome: "success"
+  - arrest
+  - takedown
+outcome: success
 credibility_index: 2.28
 source_tier: 2
 edges:
-  - source_actor: "INTERPOL"
-    target_actor: "AFRIPOL"
-    cooperation_type: "joint_investigation"
-    legal_basis: "unknown"
-    direction: "undirected"
-  - source_actor: "INTERPOL"
+  - source_actor: INTERPOL
+    target_actor: AFRIPOL
+    cooperation_type: joint_investigation
+    legal_basis: unknown
+    direction: undirected
+  - source_actor: INTERPOL
     target_actor: "Nigeria Police"
-    cooperation_type: "joint_investigation"
-    legal_basis: "unknown"
-    direction: "undirected"
-  - source_actor: "INTERPOL"
+    cooperation_type: joint_investigation
+    legal_basis: unknown
+    direction: undirected
+  - source_actor: INTERPOL
     target_actor: "Senegal Police"
-    cooperation_type: "joint_investigation"
-    legal_basis: "unknown"
-    direction: "undirected"
+    cooperation_type: joint_investigation
+    legal_basis: unknown
+    direction: undirected
 missing_fields:
-  - "legal_basis"
-  - "mechanisms_used"
+  - legal_basis
+  - mechanisms_used
 timeframe:
-  announced: "2025-12-22"
-  start: "2025-10-27"
-  end: "2025-11-27"
+  announced: 2025-12-22
+  start: 2025-10-27
+  end: 2025-11-27
   ongoing: false
 crime_type: "[[bec-ic]]"
 target_entity: "BEC, digital extortion, and ransomware networks operating in Africa"
 lead_agency: "[[interpol-igci]]"
 coordinating_body: "[[interpol-igci]]"
 participating_countries:
-  - "Benin"
-  - "Botswana"
+  - Benin
+  - Botswana
   - "Burkina Faso"
-  - "Cameroon"
-  - "Chad"
-  - "Congo"
+  - Cameroon
+  - Chad
+  - Congo
   - "Democratic Republic of the Congo"
-  - "Djibouti"
-  - "Gabon"
-  - "Ghana"
-  - "Kenya"
-  - "Malawi"
-  - "Nigeria"
-  - "Senegal"
+  - Djibouti
+  - Gabon
+  - Ghana
+  - Kenya
+  - Malawi
+  - Nigeria
+  - Senegal
   - "South Africa"
   - "South Sudan"
-  - "Uganda"
-  - "Zambia"
-  - "Zimbabwe"
+  - Uganda
+  - Zambia
+  - Zimbabwe
 participating_agencies:
   - "[[interpol-igci]]"
   - "[[afripol]]"
-legal_basis: []
-mechanisms_used: []
+legal_basis:
+  []
+mechanisms_used:
+  []
 results:
   arrests: 574
   indictments: 0
@@ -78,10 +82,12 @@ results:
     - "6,000+ malicious links taken down"
     - "6 ransomware variants decrypted"
     - "Estimated USD 21 million+ in financial losses linked to investigated cases"
-related_cases: []
+related_cases:
+  []
 related_operations:
   - "[[operation-serengeti]]"
-challenges_encountered: []
+challenges_encountered:
+  []
 lessons_learned:
   - "AFJOC umbrella enables sustained Africa-focused cybercrime operations"
   - "Donor funding model (UK FCDO, EU-CoE GLACY-e) supports African enforcement capacity building"
@@ -90,8 +96,9 @@ sources:
   - "[[2025-12-22-interpol-operation-sentinel-africa]]"
 created: 2026-04-08
 updated: 2026-04-08
+operation_role: umbrella
+parent_operation: ""
 ---
-
 ## Summary
 
 Operation Sentinel was an INTERPOL-coordinated cybercrime enforcement action conducted from 27 October to 27 November 2025 across **19 African countries** under the African Joint Operation against Cybercrime (AFJOC) umbrella. The operation resulted in **574 arrests**, **USD 3 million** recovered, over **6,000 malicious links** taken down, and **6 ransomware variants** decrypted. Primary targets were BEC, digital extortion, and ransomware. Investigated cases were linked to estimated financial losses exceeding **USD 21 million**.

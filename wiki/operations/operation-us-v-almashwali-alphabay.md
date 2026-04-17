@@ -22,7 +22,7 @@ coordinating_body: "[[us-doj]]"
 participating_countries:
   - "[[united-states]]"
 participating_agencies:
-  []
+
 legal_basis:
   - "[[controlled-substances-act]]"
 mechanisms_used:
@@ -38,24 +38,26 @@ results:
   other:
     - "Defendant-specific follow-on action derived from [[us-v-almashwali-alphabay]]"
 edges:
-  []
+
 credibility_index: 4.0
 source_tier: 1
 missing_fields:
-  []
+
 related_cases:
   - "[[us-v-almashwali-alphabay]]"
 related_operations:
   - "[[alphabay-takedown]]"
 challenges_encountered:
-  []
+
 lessons_learned:
-  []
+
 source_count: 1
 sources:
   - "[[2017-07-24_edca_almashwali-alphabay-sentencing]]"
 created: 2026-04-17
 updated: 2026-04-17
+operation_role: follow-on
+parent_operation: "[[alphabay-takedown]]"
 ---
 ## Summary
 

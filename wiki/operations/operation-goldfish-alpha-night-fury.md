@@ -2,17 +2,21 @@
 type: operation
 title: "Operation Goldfish Alpha / Night Fury"
 title_ko: "Operation Goldfish Alpha / Night Fury (동남아 사이버위협 대응)"
-aliases: ["Goldfish Alpha", "Night Fury"]
-case_id: "CYB-2020-002"
+aliases:
+  - "Goldfish Alpha"
+  - "Night Fury"
+case_id: CYB-2020-002
 period: 2
-operation_type: "arrest-sweep"
-status: "completed"
-enforcement_type: ["arrest", "takedown"]
-outcome: "success"
+operation_type: arrest-sweep
+status: completed
+enforcement_type:
+  - arrest
+  - takedown
+outcome: success
 timeframe:
-  announced: "2020"
-  start: "2019"
-  end: "2020"
+  announced: 2020
+  start: 2019
+  end: 2020
   ongoing: false
 crime_type: "[[malware-ic]]"
 target_entity: "Cryptojacking and e-commerce malware networks in Southeast Asia"
@@ -29,8 +33,10 @@ participating_countries:
 participating_agencies:
   - "[[interpol]]"
   - "[[interpol-asean-desk]]"
-legal_basis: []
-mechanisms_used: []
+legal_basis:
+  []
+mechanisms_used:
+  []
 results:
   arrests: 3
   indictments: 0
@@ -44,25 +50,32 @@ results:
     - "E-commerce targeting malware operations disrupted (Night Fury)"
     - "ASEAN regional cyber threat assessment produced"
 edges:
-  - source_actor: "INTERPOL"
+  - source_actor: INTERPOL
     target_actor: "ASEAN countries"
-    cooperation_type: "joint_investigation"
-    legal_basis: "unknown"
-    direction: "undirected"
+    cooperation_type: joint_investigation
+    legal_basis: unknown
+    direction: undirected
 credibility_index: 2.28
 source_tier: 2
-missing_fields: ["legal_basis", "mechanisms_used"]
-related_cases: []
-related_operations: []
-challenges_encountered: []
-lessons_learned: []
+missing_fields:
+  - legal_basis
+  - mechanisms_used
+related_cases:
+  []
+related_operations:
+  []
+challenges_encountered:
+  []
+lessons_learned:
+  []
 source_count: 1
 sources:
   - "[1] INTERPOL News (2020)"
 created: 2026-04-08
 updated: 2026-04-08
+operation_role: umbrella
+parent_operation: ""
 ---
-
 ## Summary
 
 INTERPOL's ASEAN Cybercrime Operations Desk coordinated two operations -- Goldfish Alpha (targeting cryptojacking malware) and Night Fury (targeting e-commerce malware) -- across Southeast Asian nations during 2019-2020. These operations addressed key cyber threats facing the ASEAN region including botnets, phishing, BEC, banking malware, ransomware, and cryptojacking. Through information sharing and joint operations among ASEAN member states, criminal networks were dismantled and arrests were made.

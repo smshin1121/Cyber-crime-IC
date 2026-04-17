@@ -1,36 +1,38 @@
 ---
 type: operation
 title: "Operation HAECHI IV"
-aliases: ["HAECHI IV", "HAECHI 4"]
-operation_type: "arrest-sweep"
-status: "completed"
-case_id: "CYB-2023-004"
+aliases:
+  - "HAECHI IV"
+  - "HAECHI 4"
+operation_type: arrest-sweep
+status: completed
+case_id: CYB-2023-004
 period: 3
 enforcement_type:
-  - "arrest"
-  - "asset_freeze"
-outcome: "success"
+  - arrest
+  - asset_freeze
+outcome: success
 credibility_index: 2.28
 source_tier: 2
 edges:
-  - source_actor: "KNPA"
-    target_actor: "INTERPOL"
-    cooperation_type: "joint_investigation"
-    legal_basis: "unknown"
-    direction: "undirected"
-  - source_actor: "KNPA"
+  - source_actor: KNPA
+    target_actor: INTERPOL
+    cooperation_type: joint_investigation
+    legal_basis: unknown
+    direction: undirected
+  - source_actor: KNPA
     target_actor: "Philippines Police"
-    cooperation_type: "joint_investigation"
-    legal_basis: "unknown"
-    direction: "undirected"
+    cooperation_type: joint_investigation
+    legal_basis: unknown
+    direction: undirected
 missing_fields:
-  - "legal_basis"
-  - "mechanisms_used"
-  - "full_participating_countries_list"
+  - legal_basis
+  - mechanisms_used
+  - full_participating_countries_list
 timeframe:
-  announced: "2023-12-19"
-  start: "2023-07"
-  end: "2023-12"
+  announced: 2023-12-19
+  start: 2023-07
+  end: 2023-12
   ongoing: false
 crime_type: "[[online-fraud-ic]]"
 target_entity: "Cyber-enabled financial crime networks (voice phishing, romance scams, BEC, investment fraud, online sextortion, e-commerce fraud)"
@@ -40,13 +42,15 @@ participating_countries:
   - "[[south-korea]]"
   - "United States"
   - "United Kingdom"
-  - "Japan"
-  - "India"
+  - Japan
+  - India
 participating_agencies:
   - "[[interpol-igci]]"
   - "[[knpa-cyber-bureau]]"
-legal_basis: []
-mechanisms_used: []
+legal_basis:
+  []
+mechanisms_used:
+  []
 results:
   arrests: 3500
   indictments: 0
@@ -60,11 +64,13 @@ results:
     - "82,112 suspicious bank accounts blocked"
     - "260% increase in arrests compared to HAECHI III"
     - "Filipino-Korean cooperation led to arrest of high-profile online gambling criminal in Manila"
-related_cases: []
+related_cases:
+  []
 related_operations:
   - "[[operation-haechi-v]]"
   - "[[operation-haechi-vi]]"
-challenges_encountered: []
+challenges_encountered:
+  []
 lessons_learned:
   - "Series-based approach enables consistent escalation (975 → 3,500 arrests from HAECHI III to IV)"
   - "AI-generated voice cloning emerging as new threat for impersonation scams"
@@ -74,8 +80,9 @@ sources:
   - "[[2023-12-19-interpol-operation-haechi-iv]]"
 created: 2026-04-08
 updated: 2026-04-08
+operation_role: umbrella
+parent_operation: ""
 ---
-
 ## Summary
 
 Operation HAECHI IV was the fourth iteration of the Korea-initiated HAECHI series, running from July to December 2023 across **34 countries**. The operation resulted in approximately **3,500 arrests** and seizure of **USD 300 million** (USD 199M fiat, USD 101M virtual assets). Authorities blocked **82,112 suspicious bank accounts**. HAECHI IV represented a **260% increase** in arrests compared to HAECHI III (2022).

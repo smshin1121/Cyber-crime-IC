@@ -1,42 +1,45 @@
 ---
 type: operation
 title: "Operation Checkmate (BlackSuit/Royal Ransomware Takedown)"
-aliases: ["Operation Checkmate", "BlackSuit Takedown", "Royal Ransomware Takedown"]
-operation_type: "takedown"
-status: "completed"
-case_id: "CYB-2025-007"
+aliases:
+  - "Operation Checkmate"
+  - "BlackSuit Takedown"
+  - "Royal Ransomware Takedown"
+operation_type: takedown
+status: completed
+case_id: CYB-2025-007
 period: 3
 enforcement_type:
-  - "seizure"
-  - "takedown"
-  - "asset_freeze"
-outcome: "success"
+  - seizure
+  - takedown
+  - asset_freeze
+outcome: success
 credibility_index: 2.28
 source_tier: 2
 edges:
-  - source_actor: "FBI"
+  - source_actor: FBI
     target_actor: "UK Law Enforcement"
-    cooperation_type: "joint_investigation"
-    legal_basis: "unknown"
-    direction: "undirected"
-  - source_actor: "FBI"
+    cooperation_type: joint_investigation
+    legal_basis: unknown
+    direction: undirected
+  - source_actor: FBI
     target_actor: "German Law Enforcement"
-    cooperation_type: "joint_investigation"
-    legal_basis: "unknown"
-    direction: "undirected"
-  - source_actor: "HSI"
-    target_actor: "FBI"
-    cooperation_type: "joint_investigation"
-    legal_basis: "unknown"
-    direction: "undirected"
+    cooperation_type: joint_investigation
+    legal_basis: unknown
+    direction: undirected
+  - source_actor: HSI
+    target_actor: FBI
+    cooperation_type: joint_investigation
+    legal_basis: unknown
+    direction: undirected
 missing_fields:
-  - "legal_basis"
-  - "mechanisms_used"
-  - "specific_international_agencies"
+  - legal_basis
+  - mechanisms_used
+  - specific_international_agencies
 timeframe:
-  announced: "2025-08-11"
-  start: "2022"
-  end: "2025-07-24"
+  announced: 2025-08-11
+  start: 2022
+  end: 2025-07-24
   ongoing: false
 crime_type: "[[ransomware-ic]]"
 target_entity: "BlackSuit (formerly Royal) ransomware group"
@@ -49,8 +52,10 @@ participating_countries:
   - "[[france]]"
 participating_agencies:
   - "[[fbi-cyber-division]]"
-legal_basis: []
-mechanisms_used: []
+legal_basis:
+  []
+mechanisms_used:
+  []
 results:
   arrests: 0
   indictments: 0
@@ -62,9 +67,12 @@ results:
   other:
     - "450+ US victims identified since 2022"
     - "Bitcoin ransom payment of 49.3120227 BTC (USD 1,445,454.86 at transaction time) seized from one case"
-related_cases: []
-related_operations: []
-challenges_encountered: []
+related_cases:
+  []
+related_operations:
+  []
+challenges_encountered:
+  []
 lessons_learned:
   - "Multi-agency domestic coordination (5 US agencies) combined with international partnerships enables comprehensive ransomware disruption"
   - "Domain seizures targeting leak sites and negotiation portals directly disrupt ransomware business model"
@@ -73,8 +81,9 @@ sources:
   - "[[2025-08-11-doj-blacksuit-royal-ransomware-takedown]]"
 created: 2026-04-08
 updated: 2026-04-08
+operation_role: umbrella
+parent_operation: ""
 ---
-
 ## Summary
 
 Operation Checkmate was a coordinated international operation to disrupt the **BlackSuit (formerly Royal) ransomware group**, announced by the US Department of Justice on 11 August 2025. The operation culminated in the takedown of **4 servers and 9 domains** on 24 July 2025. The seized domains were used by BlackSuit to leak stolen data and communicate with victims for ransom negotiations. **USD 1,091,453** in virtual currency was seized.

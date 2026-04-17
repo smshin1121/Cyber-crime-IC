@@ -1,52 +1,54 @@
 ---
 type: operation
 title: "Franco-Israeli CEO Fraud Investigation"
-aliases: ["Franco-Israeli CEO fraud bust", "EUR 38 million CEO fraud"]
-operation_type: "joint-investigation"
-status: "completed"
-case_id: "CYB-2023-001"
+aliases:
+  - "Franco-Israeli CEO fraud bust"
+  - "EUR 38 million CEO fraud"
+operation_type: joint-investigation
+status: completed
+case_id: CYB-2023-001
 period: 3
 enforcement_type:
-  - "arrest"
-  - "asset_freeze"
-outcome: "success"
+  - arrest
+  - asset_freeze
+outcome: success
 credibility_index: 2.28
 source_tier: 2
 edges:
   - source_actor: "France Police Nationale"
-    target_actor: "Europol"
-    cooperation_type: "joint_investigation"
-    legal_basis: "unknown"
-    direction: "undirected"
+    target_actor: Europol
+    cooperation_type: joint_investigation
+    legal_basis: unknown
+    direction: undirected
   - source_actor: "France Police Nationale"
     target_actor: "Israel Police"
-    cooperation_type: "joint_investigation"
-    legal_basis: "unknown"
-    direction: "undirected"
-  - source_actor: "Europol"
+    cooperation_type: joint_investigation
+    legal_basis: unknown
+    direction: undirected
+  - source_actor: Europol
     target_actor: "Israel Police"
-    cooperation_type: "joint_investigation"
-    legal_basis: "unknown"
-    direction: "undirected"
+    cooperation_type: joint_investigation
+    legal_basis: unknown
+    direction: undirected
 missing_fields:
-  - "legal_basis"
-  - "mechanisms_used"
+  - legal_basis
+  - mechanisms_used
 timeframe:
-  announced: "2023-02-08"
-  start: "2022-01"
-  end: "2023-01"
+  announced: 2023-02-08
+  start: 2022-01
+  end: 2023-01
   ongoing: false
 crime_type: "[[bec-ic]]"
 target_entity: "Franco-Israeli criminal network conducting CEO fraud / BEC attacks"
 lead_agency: "France (Police Nationale, Gendarmerie Nationale)"
 coordinating_body: "[[europol-ec3]]"
 participating_countries:
-  - "France"
-  - "Israel"
-  - "Croatia"
-  - "Hungary"
-  - "Portugal"
-  - "Spain"
+  - France
+  - Israel
+  - Croatia
+  - Hungary
+  - Portugal
+  - Spain
 participating_agencies:
   - "[[europol-ec3]]"
   - "France Police Nationale"
@@ -56,8 +58,10 @@ participating_agencies:
   - "Hungary Budapesti Rendor-fokapitanysag"
   - "Portugal Policia Judiciaria"
   - "Spain Policia Nacional"
-legal_basis: []
-mechanisms_used: []
+legal_basis:
+  []
+mechanisms_used:
+  []
 results:
   arrests: 8
   indictments: 0
@@ -70,9 +74,12 @@ results:
     - "EUR 5.5 million total seized/frozen across multiple countries"
     - "EUR 38 million stolen from a single company in one BEC attack"
     - "8 house searches conducted in France and Israel"
-related_cases: []
-related_operations: []
-challenges_encountered: []
+related_cases:
+  []
+related_operations:
+  []
+challenges_encountered:
+  []
 lessons_learned:
   - "BEC proceeds are rapidly moved through international banking systems requiring swift multilateral cooperation for asset recovery"
   - "Criminal networks operating across EU and non-EU countries require coordination through Europol and bilateral channels"
@@ -81,8 +88,9 @@ sources:
   - "[[2023-02-08-europol-franco-israeli-ceo-fraud]]"
 created: 2026-04-08
 updated: 2026-04-08
+operation_role: umbrella
+parent_operation: ""
 ---
-
 ## Summary
 
 The Franco-Israeli CEO Fraud Investigation was a Europol-supported multi-country operation that dismantled a criminal network using business email compromise (BEC) and CEO fraud to divert corporate payments. The group, based across France and Israel, stole approximately **EUR 38 million** from a single company in one attack. Five action days between January 2022 and January 2023 resulted in **8 arrests** (6 in France, 2 in Israel including the group leader) and seizures of approximately **EUR 5.5 million** across 6 countries.

@@ -31,6 +31,8 @@ related_cases:
   - "[[us-v-pankov-xdedic]]"
   - "[[us-v-spencer-xdedic]]"
   - "[[us-v-taylor-xdedic]]"
+operation_role: umbrella
+parent_operation: ""
 ---
 ﻿---
 type: operation

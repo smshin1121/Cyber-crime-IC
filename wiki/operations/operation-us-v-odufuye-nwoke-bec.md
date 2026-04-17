@@ -22,7 +22,7 @@ coordinating_body: "[[fbi-cyber-division]]"
 participating_countries:
   - "[[united-states]]"
 participating_agencies:
-  []
+
 legal_basis:
   - "[[extradition-request]]"
   - "[[wire-fraud-statute]]"
@@ -40,24 +40,26 @@ results:
   other:
     - "Defendant-specific follow-on action derived from [[us-v-odufuye-nwoke-bec]]"
 edges:
-  []
+
 credibility_index: 4.0
 source_tier: 1
 missing_fields:
-  []
+
 related_cases:
   - "[[us-v-odufuye-nwoke-bec]]"
 related_operations:
   - "[[operation-wirewire]]"
 challenges_encountered:
-  []
+
 lessons_learned:
-  []
+
 source_count: 1
 sources:
   - "[[2016-12-20_dct_odufuye-nwoke-bec-indictment]]"
 created: 2026-04-17
 updated: 2026-04-17
+operation_role: follow-on
+parent_operation: "[[operation-wirewire]]"
 ---
 ## Summary
 

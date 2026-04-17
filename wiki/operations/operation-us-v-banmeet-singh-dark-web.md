@@ -3,17 +3,17 @@ type: operation
 title: "Banmeet Singh (Dark Web Vendor) Enforcement Action"
 aliases:
   - "United States v. Banmeet Singh (Dark Web Vendor)"
-case_id: "CYB-FUP-012"
+case_id: CYB-FUP-012
 period: 3
-operation_type: "conviction"
-status: "completed"
+operation_type: conviction
+status: completed
 enforcement_type:
   - conviction
-outcome: "success"
+outcome: success
 timeframe:
-  announced: "2024-01-26"
-  start: "2024"
-  end: "2024-01-26"
+  announced: 2024-01-26
+  start: 2024
+  end: 2024-01-26
   ongoing: false
 crime_type: "[[drug-trafficking]]"
 target_entity: "Banmeet Singh (Dark Web Vendor)"
@@ -21,7 +21,8 @@ lead_agency: "[[us-doj]]"
 coordinating_body: "[[us-doj]]"
 participating_countries:
   - "[[united-states]]"
-participating_agencies: []
+participating_agencies:
+  []
 legal_basis:
   - "[[controlled-substances-act]]"
   - "[[money-laundering-statutes]]"
@@ -37,22 +38,28 @@ results:
   victims_notified: 0
   other:
     - "Defendant-specific follow-on action derived from [[us-v-banmeet-singh-dark-web]]"
-edges: []
+edges:
+  []
 credibility_index: 4.0
 source_tier: 1
-missing_fields: []
+missing_fields:
+  []
 related_cases:
   - "[[us-v-banmeet-singh-dark-web]]"
-related_operations: []
-challenges_encountered: []
-lessons_learned: []
+related_operations:
+  []
+challenges_encountered:
+  []
+lessons_learned:
+  []
 source_count: 1
 sources:
   - "[[2024-01-26_opa_banmeet-singh-dark-web-vendor-plea]]"
 created: 2026-04-17
 updated: 2026-04-17
+operation_role: follow-on
+parent_operation: ""
 ---
-
 ## Summary
 
 Banmeet Singh (Dark Web Vendor) Enforcement Action is a defendant-specific enforcement action page derived from [[us-v-banmeet-singh-dark-web]]. It captures the prosecutorial or seizure stage reflected in the linked case record and preserves the operation-side catalog entry for this follow-on action.

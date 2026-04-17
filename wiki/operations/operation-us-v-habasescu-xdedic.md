@@ -22,7 +22,7 @@ coordinating_body: "[[fbi-cyber-division]]"
 participating_countries:
   - "[[united-states]]"
 participating_agencies:
-  []
+
 legal_basis:
   - "[[extradition-request]]"
   - "[[access-device-fraud]]"
@@ -40,24 +40,26 @@ results:
   other:
     - "Defendant-specific follow-on action derived from [[us-v-habasescu-xdedic]]"
 edges:
-  []
+
 credibility_index: 4.0
 source_tier: 1
 missing_fields:
-  []
+
 related_cases:
   - "[[us-v-habasescu-xdedic]]"
 related_operations:
   - "[[xdedic-marketplace-takedown]]"
 challenges_encountered:
-  []
+
 lessons_learned:
-  []
+
 source_count: 1
 sources:
   - "[[2022-11-22_mdfl_habasescu-xdedic-extradition]]"
 created: 2026-04-17
 updated: 2026-04-17
+operation_role: follow-on
+parent_operation: "[[xdedic-marketplace-takedown]]"
 ---
 ## Summary
 

@@ -24,8 +24,14 @@
           {% endif %}
         </a></h3>
         <span class="type-badge">{{ p.type }}</span>
+        {% if category == 'operations' and p.meta.get('operation_role') %}
+          <span class="type-badge">{{ p.meta['operation_role'] }}</span>
+        {% endif %}
         {% if p.meta.get('status') %}
           <span class="type-badge">{{ p.meta['status'] }}</span>
+        {% endif %}
+        {% if category == 'operations' and p.meta.get('parent_operation') %}
+          <span class="type-badge">{{ p.meta['parent_operation'] }}</span>
         {% endif %}
         {% if p.meta.get('source_count') %}
           <span class="type-badge"><span class="i18n" data-ko="출처" data-en="Sources"></span> {{ p.meta['source_count'] }}<span class="i18n" data-ko="건" data-en=""></span></span>

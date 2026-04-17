@@ -74,9 +74,9 @@ participating_agencies:
   - "[[fbi-cyber-division]]"
   - "[[switzerland-fedpol]]"
 legal_basis:
-  []
+
 mechanisms_used:
-  []
+
 results:
   arrests: 2
   indictments: 5
@@ -95,7 +95,7 @@ related_operations:
   - "[[operation-cronos-phase3]]"
   - "[[operation-us-v-astamirov-vasiliev-lockbit]]"
 challenges_encountered:
-  []
+
 lessons_learned:
   - "Multi-year coordination (27 Europol meetings, 4 technical sprints) enabled simultaneous multi-country action"
   - "Rapid decryption tool release through No More Ransom portal demonstrated victim-centric approach"
@@ -105,6 +105,8 @@ sources:
   - "[[2024-02-20-europol-operation-cronos-lockbit]]"
 created: 2026-04-08
 updated: 2026-04-08
+operation_role: umbrella
+parent_operation: ""
 ---
 ## Summary
 

@@ -1,3 +1,7 @@
+---
+operation_role: umbrella
+parent_operation: ""
+---
 ﻿---
 type: operation
 title: "Nigerian BEC Email Fraud Arrest ($60M)"

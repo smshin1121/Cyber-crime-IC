@@ -5,18 +5,18 @@ title_ko: "사이버범죄용 IP 프록시 서비스 단속 (2026년 3월)"
 aliases:
   - "Eurojust IP Proxy Takedown 2026"
   - "FR-AT-NL-US Proxy Service Takedown"
-case_id: "CYB-2026-001"
+case_id: CYB-2026-001
 period: 3
-operation_type: "infrastructure-seizure"
-status: "completed"
+operation_type: infrastructure-seizure
+status: completed
 enforcement_type:
-  - "seizure"
-  - "takedown"
-outcome: "partial"
+  - seizure
+  - takedown
+outcome: partial
 timeframe:
-  announced: "2026-03-12"
+  announced: 2026-03-12
   start: ""
-  end: "2026-03-12"
+  end: 2026-03-12
   ongoing: false
 crime_type: "[[hacking-ic]]"
 target_entity: "Unnamed website offering IP proxy services to cybercriminals; same operators allegedly hosted a payment platform for the proxy service"
@@ -49,40 +49,40 @@ results:
     - "102 victim countries identified per Eurojust release"
     - "Associated payment platform also targeted"
 edges:
-  - source_actor: "France"
-    target_actor: "Austria"
-    cooperation_type: "joint_investigation"
-    legal_basis: "Budapest_Convention"
-    direction: "undirected"
-  - source_actor: "France"
-    target_actor: "Netherlands"
-    cooperation_type: "joint_investigation"
-    legal_basis: "Budapest_Convention"
-    direction: "undirected"
-  - source_actor: "France"
+  - source_actor: France
+    target_actor: Austria
+    cooperation_type: joint_investigation
+    legal_basis: Budapest_Convention
+    direction: undirected
+  - source_actor: France
+    target_actor: Netherlands
+    cooperation_type: joint_investigation
+    legal_basis: Budapest_Convention
+    direction: undirected
+  - source_actor: France
     target_actor: "United States"
-    cooperation_type: "joint_investigation"
-    legal_basis: "MLAT"
-    direction: "undirected"
-  - source_actor: "Eurojust"
-    target_actor: "France"
-    cooperation_type: "joint_investigation"
-    legal_basis: "Budapest_Convention"
-    direction: "directed"
-  - source_actor: "Europol"
-    target_actor: "France"
-    cooperation_type: "technical_assistance"
-    legal_basis: "informal"
-    direction: "directed"
+    cooperation_type: joint_investigation
+    legal_basis: MLAT
+    direction: undirected
+  - source_actor: Eurojust
+    target_actor: France
+    cooperation_type: joint_investigation
+    legal_basis: Budapest_Convention
+    direction: directed
+  - source_actor: Europol
+    target_actor: France
+    cooperation_type: technical_assistance
+    legal_basis: informal
+    direction: directed
 credibility_index: 3.5
 source_tier: 1
 missing_fields:
-  - "operation_name"
-  - "service_name"
-  - "arrests"
-  - "indictments"
-  - "servers_seized_count"
-  - "4_unnamed_participating_countries"
+  - operation_name
+  - service_name
+  - arrests
+  - indictments
+  - servers_seized_count
+  - 4_unnamed_participating_countries
 related_operations:
   - "[[doublevpn-takedown]]"
 challenges_encountered:
@@ -95,8 +95,9 @@ sources:
   - "[[2026-03-12-eurojust-proxy-service-takedown]]"
 created: 2026-04-14
 updated: 2026-04-14
+operation_role: umbrella
+parent_operation: ""
 ---
-
 ## Summary
 
 On **12 March 2026**, [[eurojust|Eurojust]] announced the takedown of an unnamed website allegedly offering **IP proxy services for cybercriminals in 102 countries** of victims. The operation was conducted by authorities from **eight countries** — only four of which are publicly named: [[france|France]], [[austria|Austria]], the [[netherlands|Netherlands]], and the [[united-states|United States]] — coordinated by [[eurojust|Eurojust]] and [[europol-ec3|Europol]]. The operators of the proxy service are also suspected of running an associated **payment platform** for the service.

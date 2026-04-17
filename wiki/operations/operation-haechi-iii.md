@@ -2,22 +2,22 @@
 type: operation
 title: "Operation HAECHI-III"
 aliases:
-  - "HAECHI-III"
+  - HAECHI-III
   - "HAECHI III"
   - "HAECHI 3"
-case_id: "CYB-2022-002"
+case_id: CYB-2022-002
 period: 2
-operation_type: "arrest-sweep"
-status: "completed"
+operation_type: arrest-sweep
+status: completed
 enforcement_type:
-  - "arrest"
-  - "asset_freeze"
-  - "seizure"
-outcome: "success"
+  - arrest
+  - asset_freeze
+  - seizure
+outcome: success
 timeframe:
-  announced: "2022-11-24"
-  start: "2022-06-28"
-  end: "2022-11-23"
+  announced: 2022-11-24
+  start: 2022-06-28
+  end: 2022-11-23
   ongoing: false
 crime_type: "[[online-fraud-ic|Online Fraud]]"
 target_entity: "Cyber-enabled financial crime networks (voice phishing, romance scams, sextortion, investment fraud, illegal online gambling money laundering)"
@@ -25,30 +25,30 @@ lead_agency: "[[interpol|INTERPOL]]"
 coordinating_body: "[[interpol|INTERPOL IFCACC]]"
 participating_countries:
   - "[[australia]]"
-  - "Austria"
-  - "Brunei"
+  - Austria
+  - Brunei
   - "[[cambodia]]"
   - "Cote d'Ivoire"
   - "[[france]]"
-  - "Ghana"
+  - Ghana
   - "Hong Kong (China)"
   - "[[india]]"
   - "[[indonesia]]"
-  - "Ireland"
+  - Ireland
   - "[[japan]]"
   - "[[south-korea]]"
-  - "Kyrgyzstan"
-  - "Laos"
+  - Kyrgyzstan
+  - Laos
   - "[[malaysia]]"
-  - "Maldives"
+  - Maldives
   - "[[nigeria]]"
   - "[[philippines]]"
   - "[[poland]]"
   - "[[romania]]"
   - "[[singapore]]"
-  - "Slovenia"
+  - Slovenia
   - "South Africa"
-  - "Spain"
+  - Spain
   - "[[sweden]]"
   - "[[thailand]]"
   - "United Arab Emirates"
@@ -58,7 +58,8 @@ participating_agencies:
   - "[[interpol|INTERPOL IFCACC]]"
   - "[[interpol-igci|INTERPOL IGCI]]"
   - "[[knpa|Korea National Police Agency (KNPA)]]"
-legal_basis: []
+legal_basis:
+  []
 mechanisms_used:
   - "INTERPOL I-24/7 Network"
   - "INTERPOL Notice System (Red Notices)"
@@ -81,46 +82,48 @@ results:
 edges:
   - source_actor: "INTERPOL IFCACC"
     target_actor: "South Korea"
-    cooperation_type: "joint_investigation"
-    legal_basis: "unknown"
-    direction: "undirected"
+    cooperation_type: joint_investigation
+    legal_basis: unknown
+    direction: undirected
   - source_actor: "INTERPOL IFCACC"
     target_actor: "30 countries"
-    cooperation_type: "joint_investigation"
-    legal_basis: "unknown"
-    direction: "undirected"
+    cooperation_type: joint_investigation
+    legal_basis: unknown
+    direction: undirected
   - source_actor: "India NCB"
     target_actor: "Austria NCB"
-    cooperation_type: "info_sharing"
-    legal_basis: "informal"
-    direction: "directed"
-  - source_actor: "Greece"
+    cooperation_type: info_sharing
+    legal_basis: informal
+    direction: directed
+  - source_actor: Greece
     target_actor: "South Korea"
-    cooperation_type: "arrest_coordination"
+    cooperation_type: arrest_coordination
     legal_basis: "INTERPOL Red Notice"
-    direction: "directed"
-  - source_actor: "Italy"
+    direction: directed
+  - source_actor: Italy
     target_actor: "South Korea"
-    cooperation_type: "arrest_coordination"
+    cooperation_type: arrest_coordination
     legal_basis: "INTERPOL Red Notice"
-    direction: "directed"
+    direction: directed
   - source_actor: "Manchester NCB"
     target_actor: "Dublin NCB"
-    cooperation_type: "asset_recovery"
-    legal_basis: "ARRP"
-    direction: "undirected"
+    cooperation_type: asset_recovery
+    legal_basis: ARRP
+    direction: undirected
 credibility_index: 3.5
 source_tier: 2
 missing_fields:
-  - "legal_basis"
-related_cases: []
+  - legal_basis
+related_cases:
+  []
 related_operations:
   - "[[operation-haechi-ii|Operation HAECHI-II]]"
   - "[[operation-haechi-iv|Operation HAECHI-IV]]"
   - "[[operation-haechi-v|Operation HAECHI-V]]"
   - "[[operation-haechi-vi|Operation HAECHI-VI]]"
   - "[[operation-first-light-2024|Operation First Light]]"
-challenges_encountered: []
+challenges_encountered:
+  []
 lessons_learned:
   - "Real-time asset restraint (ARRP) is significantly more effective than post-hoc recovery; ARRP recovered $120M+ in its first year of deployment"
   - "Multi-country coordination through NCBs enables rapid cross-border identification of fraud networks"
@@ -128,15 +131,16 @@ lessons_learned:
   - "Impersonation fraud (criminals posing as INTERPOL/Europol officers) is an emerging trend requiring public awareness campaigns"
 source_count: 5
 sources:
-  - "[[the-hacker-news-operation-haechi-ii|The Hacker News: HAECHI-III Crackdown (2022-11-24)]]"
-  - "[2] INTERPOL press release: Cyber-enabled financial crime (2022-11-24)"
-  - "[3] Bleeping Computer: Interpol seized $130 million (2022-11-24)"
-  - "[4] GBHackers: Operation HAECHI III (2022-11)"
-  - "[5] Heimdal Security: $130 Million Seized (2022-11)"
+  - "[[the-hacker-news-operation-haechi-ii|The Hacker News: "HAECHI-III Crackdown (2022-11-24)]]\""
+  - "[2] INTERPOL press release: "Cyber-enabled financial crime (2022-11-24)\""
+  - "[3] Bleeping Computer: "Interpol seized $130 million (2022-11-24)\""
+  - "[4] GBHackers: "Operation HAECHI III (2022-11)\""
+  - "[5] Heimdal Security: "$130 Million Seized (2022-11)\""
 created: 2026-04-10
 updated: 2026-04-11
+operation_role: umbrella
+parent_operation: ""
 ---
-
 ## Summary
 
 Operation HAECHI-III was the third in INTERPOL's annual HAECHI series of operations targeting cyber-enabled financial crime. Running from **28 June to 23 November 2022**, it was coordinated by INTERPOL's Financial Crime and Anti-Corruption Centre (IFCACC) and involved **30 countries** acting through their respective INTERPOL National Central Bureaus (NCBs). The operation resulted in **975 arrests**, the resolution of **1,600+ cases**, and the seizure/interception of approximately **USD 130 million** in virtual assets and illicit funds.

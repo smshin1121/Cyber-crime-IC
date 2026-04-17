@@ -22,7 +22,7 @@ coordinating_body: "[[fbi]]"
 participating_countries:
   - "[[united-states]]"
 participating_agencies:
-  []
+
 legal_basis:
   - "[[mlat-process]]"
 mechanisms_used:
@@ -39,24 +39,26 @@ results:
   other:
     - "Defendant-specific follow-on action derived from [[us-v-hladyr-fin7]]"
 edges:
-  []
+
 credibility_index: 4.0
 source_tier: 1
 missing_fields:
-  []
+
 related_cases:
   - "[[us-v-hladyr-fin7]]"
 related_operations:
   - "[[fin7-takedown]]"
 challenges_encountered:
-  []
+
 lessons_learned:
-  []
+
 source_count: 1
 sources:
   - "[[2021-04-16_wdwa_hladyr-fin7-sentencing]]"
 created: 2026-04-17
 updated: 2026-04-17
+operation_role: follow-on
+parent_operation: "[[fin7-takedown]]"
 ---
 ## Summary
 

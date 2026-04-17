@@ -3,17 +3,17 @@ type: operation
 title: "Alessandro Sabbagh (Darknet Counterfeit Drug Vendor) Enforcement Action"
 aliases:
   - "United States v. Alessandro Sabbagh (Darknet Counterfeit Drug Vendor)"
-case_id: "CYB-FUP-082"
+case_id: CYB-FUP-082
 period: 3
-operation_type: "sentencing"
-status: "completed"
+operation_type: sentencing
+status: completed
 enforcement_type:
   - sentencing
-outcome: "success"
+outcome: success
 timeframe:
-  announced: "2025-04-11"
-  start: "2025"
-  end: "2025-04-11"
+  announced: 2025-04-11
+  start: 2025
+  end: 2025-04-11
   ongoing: false
 crime_type: "[[counterfeit-goods]]"
 target_entity: "Alessandro Sabbagh (Darknet Counterfeit Drug Vendor)"
@@ -21,7 +21,8 @@ lead_agency: "[[us-doj]]"
 coordinating_body: "[[us-doj]]"
 participating_countries:
   - "[[united-states]]"
-participating_agencies: []
+participating_agencies:
+  []
 legal_basis:
   - "[[counterfeit-goods]]"
   - "[[controlled-substances-act]]"
@@ -37,22 +38,28 @@ results:
   victims_notified: 0
   other:
     - "Defendant-specific follow-on action derived from [[us-v-sabbagh-dark-web]]"
-edges: []
+edges:
+  []
 credibility_index: 4.0
 source_tier: 1
-missing_fields: []
+missing_fields:
+  []
 related_cases:
   - "[[us-v-sabbagh-dark-web]]"
-related_operations: []
-challenges_encountered: []
-lessons_learned: []
+related_operations:
+  []
+challenges_encountered:
+  []
+lessons_learned:
+  []
 source_count: 1
 sources:
   - "[[2025-04-11_edky_sabbagh-darknet-counterfeit-sentencing]]"
 created: 2026-04-17
 updated: 2026-04-17
+operation_role: follow-on
+parent_operation: ""
 ---
-
 ## Summary
 
 Alessandro Sabbagh (Darknet Counterfeit Drug Vendor) Enforcement Action is a defendant-specific enforcement action page derived from [[us-v-sabbagh-dark-web]]. It captures the prosecutorial or seizure stage reflected in the linked case record and preserves the operation-side catalog entry for this follow-on action.

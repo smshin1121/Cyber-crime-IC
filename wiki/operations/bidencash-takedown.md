@@ -103,6 +103,8 @@ sources:
   - "[Help Net Security (2025-06-06)](https: "//www.helpnetsecurity.com/2025/06/06/bidencash-marketplace-domains-seized/)\""
 created: 2026-04-10
 updated: 2026-04-11
+operation_role: umbrella
+parent_operation: ""
 ---
 ## Summary
 

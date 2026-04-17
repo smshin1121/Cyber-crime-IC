@@ -27,9 +27,9 @@ participating_countries:
 participating_agencies:
   - "[[us-doj]]"
 legal_basis:
-  []
+
 mechanisms_used:
-  []
+
 results:
   arrests: 0
   indictments: 2
@@ -61,14 +61,16 @@ related_cases:
 related_operations:
   - "[[operation-us-v-okpe-obogo-bec]]"
 challenges_encountered:
-  []
+
 lessons_learned:
   - "Successful prosecution and sentencing of BEC perpetrators demonstrates growing effectiveness of US-Nigeria cooperation"
 source_count: 1
 sources:
-  []
+
 created: 2026-04-08
 updated: 2026-04-08
+operation_role: umbrella
+parent_operation: ""
 ---
 > [!note] This operation is documented from a Tier 3 (cybersecurity media) source. Additional verification from official sources (Tier 1-2) would strengthen data reliability.
 

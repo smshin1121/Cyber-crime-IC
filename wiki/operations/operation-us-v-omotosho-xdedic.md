@@ -22,7 +22,7 @@ coordinating_body: "[[fbi-cyber-division]]"
 participating_countries:
   - "[[united-states]]"
 participating_agencies:
-  []
+
 legal_basis:
   - "[[wire-fraud-statute]]"
   - "[[money-laundering-statutes]]"
@@ -39,24 +39,26 @@ results:
   other:
     - "Defendant-specific follow-on action derived from [[us-v-omotosho-xdedic]]"
 edges:
-  []
+
 credibility_index: 4.0
 source_tier: 1
 missing_fields:
-  []
+
 related_cases:
   - "[[us-v-omotosho-xdedic]]"
 related_operations:
   - "[[xdedic-marketplace-takedown]]"
 challenges_encountered:
-  []
+
 lessons_learned:
-  []
+
 source_count: 1
 sources:
   - "[[2024-07-23_mdfl_omotosho-xdedic-sentencing]]"
 created: 2026-04-17
 updated: 2026-04-17
+operation_role: follow-on
+parent_operation: "[[xdedic-marketplace-takedown]]"
 ---
 ## Summary
 

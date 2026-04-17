@@ -1,94 +1,65 @@
 ---
 aliases:
-- HAECHI-II
-- HAECHI 2
+  []
 case_id: CYB-2021-002
-challenges_encountered: []
-coordinating_body: '[[interpol]]'
+challenges_encountered:
+  []
+coordinating_body: "[[interpol]]"
 created: 2026-04-08
 credibility_index: 2.95
-crime_type: '[[online-fraud-ic]]'
+crime_type: "[[online-fraud-ic]]"
 edges:
-- cooperation_type: joint_investigation
-  direction: undirected
-  legal_basis: unknown
-  source_actor: INTERPOL
-  target_actor: South Korea
-- cooperation_type: joint_investigation
-  direction: undirected
-  legal_basis: unknown
-  source_actor: INTERPOL
-  target_actor: 20+ countries
+  []
 enforcement_type:
-- arrest
-- asset_freeze
-lead_agency: '[[interpol]]'
-legal_basis: []
-lessons_learned: []
-mechanisms_used: []
+  []
+lead_agency: "[[interpol]]"
+legal_basis:
+  []
+lessons_learned:
+  []
+mechanisms_used:
+  []
 missing_fields:
-- legal_basis
-- mechanisms_used
+  []
 operation_type: arrest-sweep
 outcome: success
 participating_agencies:
-- '[[interpol]]'
+  []
 participating_countries:
-- '[[angola]]'
-- '[[brunei]]'
-- '[[cambodia]]'
-- '[[colombia]]'
-- '[[china]]'
-- '[[india]]'
-- '[[indonesia]]'
-- '[[ireland]]'
-- '[[japan]]'
-- '[[south-korea]]'
-- '[[laos]]'
-- '[[malaysia]]'
-- '[[maldives]]'
-- '[[philippines]]'
-- '[[romania]]'
-- '[[singapore]]'
-- '[[slovenia]]'
-- '[[spain]]'
-- '[[thailand]]'
-- '[[vietnam]]'
+  []
 period: 2
-related_cases: []
+related_cases:
+  []
 related_operations:
-- '[[operation-haechi-iv]]'
-- '[[operation-haechi-v]]'
-- '[[operation-haechi-vi]]'
+  []
 results:
   arrests: 1003
-  cryptocurrency_seized: ''
+  cryptocurrency_seized: ""
   decryption_keys_recovered: 0
   domains_seized: 0
   indictments: 0
   other:
-  - $27 million+ intercepted
-  - 2,350 bank accounts linked to illicit funds frozen
-  - Online romance scam, investment fraud, and illegal online gambling targeted
+    []
   servers_seized: 0
   victims_notified: 0
 source_count: 2
 source_tier: 2
 sources:
-- '[1] INTERPOL News (2021-11)'
+  []
 status: completed
-target_entity: Online fraud and financial crime networks
+target_entity: "Online fraud and financial crime networks"
 timeframe:
   announced: 2021-11
   end: 2021-09
   ongoing: false
   start: 2021-06
-title: Operation HAECHI-II
-title_ko: Operation HAECHI-II (사이버 금융범죄 국제 단속)
+title: "Operation HAECHI-II"
+title_ko: "Operation HAECHI-II (사이버 금융범죄 국제 단속)"
 type: operation
-updated: '2026-04-09'
+updated: 2026-04-09
+operation_role: umbrella
+parent_operation: ""
 ---
-
 ## Summary
 
 Operation HAECHI-II, led by INTERPOL with participation from 20+ countries and Hong Kong/Macau, was a four-month operation targeting online fraud, illegal online gambling, and money laundering. The operation resulted in over 1,000 arrests and the interception of more than $27 million in illicit funds. Over 2,350 bank accounts linked to criminal proceeds were frozen.

@@ -150,6 +150,9 @@ def main() -> None:
         year = int(publish_date[:4]) if publish_date[:4].isdigit() else 2026
         period = derive_period(year)
         op_type, enforcement_type, ongoing = derive_operation_type(str(meta.get("status") or ""))
+        parent_operation = wikilink_slug(meta.get("related_operation"))
+        if parent_operation == op_slug:
+            parent_operation = ""
 
         base_title = clean_case_title(str(meta.get("title") or humanize_slug(case_slug)))
         op_title = f"{base_title} Enforcement Action"
@@ -178,6 +181,8 @@ aliases:
   - {yaml_quote(meta.get('title') or op_title)}
 case_id: "CYB-FUP-{index:03d}"
 period: {period}
+operation_role: "follow-on"
+parent_operation: {yaml_quote(f'[[{parent_operation}]]' if parent_operation else "")}
 operation_type: {yaml_quote(op_type)}
 status: {yaml_quote('ongoing' if ongoing else 'completed')}
 enforcement_type:

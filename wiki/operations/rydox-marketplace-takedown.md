@@ -31,9 +31,9 @@ participating_countries:
 participating_agencies:
   - "[[fbi-cyber-division]]"
 legal_basis:
-  []
+
 mechanisms_used:
-  []
+
 results:
   arrests: 3
   indictments: 0
@@ -75,14 +75,16 @@ related_cases:
 related_operations:
   - "[[operation-us-v-kutleshi-rydox]]"
 challenges_encountered:
-  []
+
 lessons_learned:
   - "Cybercrime marketplace operators can be arrested simultaneously across multiple continents"
 source_count: 1
 sources:
-  []
+
 created: 2026-04-08
 updated: 2026-04-17
+operation_role: umbrella
+parent_operation: ""
 ---
 > [!note] This operation is documented from a Tier 3 (cybersecurity media) source. Additional verification from official sources (Tier 1-2) would strengthen data reliability.
 

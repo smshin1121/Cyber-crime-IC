@@ -1,48 +1,52 @@
 ---
 type: operation
 title: "Operation First Light 2024"
-aliases: ["First Light 2024"]
-operation_type: "arrest-sweep"
-status: "completed"
-case_id: "CYB-2024-004"
+aliases:
+  - "First Light 2024"
+operation_type: arrest-sweep
+status: completed
+case_id: CYB-2024-004
 period: 3
 enforcement_type:
-  - "arrest"
-  - "asset_freeze"
-outcome: "success"
+  - arrest
+  - asset_freeze
+outcome: success
 credibility_index: 2.28
 source_tier: 2
 edges:
-  - source_actor: "INTERPOL"
-    target_actor: "AFRIPOL"
-    cooperation_type: "joint_investigation"
-    legal_basis: "unknown"
-    direction: "undirected"
-  - source_actor: "INTERPOL"
-    target_actor: "Europol"
-    cooperation_type: "joint_investigation"
-    legal_basis: "unknown"
-    direction: "undirected"
+  - source_actor: INTERPOL
+    target_actor: AFRIPOL
+    cooperation_type: joint_investigation
+    legal_basis: unknown
+    direction: undirected
+  - source_actor: INTERPOL
+    target_actor: Europol
+    cooperation_type: joint_investigation
+    legal_basis: unknown
+    direction: undirected
 missing_fields:
-  - "legal_basis"
-  - "mechanisms_used"
-  - "participating_countries_list"
+  - legal_basis
+  - mechanisms_used
+  - participating_countries_list
 timeframe:
-  announced: "2024-06-18"
-  start: "2024-03"
-  end: "2024-05"
+  announced: 2024-06-18
+  start: 2024-03
+  end: 2024-05
   ongoing: false
 crime_type: "[[online-fraud-ic]]"
 target_entity: "Online scam networks (phishing, investment fraud, romance scams, impersonation scams, fake shopping)"
 lead_agency: "[[interpol-igci]]"
 coordinating_body: "[[interpol-igci]]"
-participating_countries: []
+participating_countries:
+  []
 participating_agencies:
   - "[[interpol-igci]]"
   - "[[afripol]]"
   - "[[europol-ec3]]"
-legal_basis: []
-mechanisms_used: []
+legal_basis:
+  []
+mechanisms_used:
+  []
 results:
   arrests: 3950
   indictments: 0
@@ -56,9 +60,12 @@ results:
     - "14,643 additional suspects identified"
     - "6,745 bank accounts frozen"
     - "88 youths rescued from forced scam operations in Namibia"
-related_cases: []
-related_operations: []
-challenges_encountered: []
+related_cases:
+  []
+related_operations:
+  []
+challenges_encountered:
+  []
 lessons_learned:
   - "I-GRIP mechanism enables rapid cross-border fund interception critical for phone scam cases"
   - "Scam operations increasingly involve trafficking/forced labor (Namibia rescue)"
@@ -68,8 +75,9 @@ sources:
   - "[[2024-06-18-interpol-operation-first-light-2024]]"
 created: 2026-04-08
 updated: 2026-04-08
+operation_role: umbrella
+parent_operation: ""
 ---
-
 ## Summary
 
 Operation First Light 2024 was an INTERPOL-coordinated global crackdown on online scams conducted from March to May 2024 across **61 countries**. The operation resulted in **3,950 arrests**, identification of **14,643 additional suspects**, freezing of **6,745 bank accounts**, and seizure of assets worth **USD 257 million**. Bolstered by AFRIPOL, ASEANAPOL, GCCPOL, and Europol.

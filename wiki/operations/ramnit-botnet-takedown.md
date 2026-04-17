@@ -1,7 +1,8 @@
 ---
 type: operation
 title: "Ramnit Botnet Takedown"
-aliases: ["Operation Ramnit"]
+aliases:
+  - "Operation Ramnit"
 case_id: CYB-2015-002
 period: 1
 operation_type: takedown
@@ -11,9 +12,9 @@ enforcement_type:
   - seizure
 outcome: success
 timeframe:
-  announced: "2015-02-24"
-  start: "2015-02"
-  end: "2015-02-24"
+  announced: 2015-02-24
+  start: 2015-02
+  end: 2015-02-24
   ongoing: false
 crime_type: "[[malware-ic]]"
 target_entity: "Ramnit botnet (banking trojan)"
@@ -28,7 +29,8 @@ participating_agencies:
   - "[[uk-nca|UK NCA]]"
   - "[[europol-ec3|Europol EC3]]"
   - "[[eurojust]]"
-legal_basis: []
+legal_basis:
+  []
 mechanisms_used:
   - "[[j-cat|Joint Cybercrime Action Taskforce (J-CAT)]]"
 results:
@@ -44,19 +46,19 @@ results:
 edges:
   - source_actor: "UK NCA"
     target_actor: "Europol EC3"
-    cooperation_type: "joint_investigation"
-    legal_basis: "unknown"
-    direction: "undirected"
-  - source_actor: "Microsoft"
+    cooperation_type: joint_investigation
+    legal_basis: unknown
+    direction: undirected
+  - source_actor: Microsoft
     target_actor: "UK NCA"
-    cooperation_type: "technical_assistance"
-    legal_basis: "informal"
-    direction: "directed"
-  - source_actor: "Symantec"
+    cooperation_type: technical_assistance
+    legal_basis: informal
+    direction: directed
+  - source_actor: Symantec
     target_actor: "Europol EC3"
-    cooperation_type: "technical_assistance"
-    legal_basis: "informal"
-    direction: "directed"
+    cooperation_type: technical_assistance
+    legal_basis: informal
+    direction: directed
 credibility_index: 4.0
 source_tier: 2
 missing_fields:
@@ -67,8 +69,9 @@ sources:
   - "[[europol-europol-botnet-takedown-2023|Europol Press Release 2015-02-24]]"
 created: 2026-04-08
 updated: 2026-04-10
+operation_role: umbrella
+parent_operation: ""
 ---
-
 > [!info] Page corrected (2026-04-10)
 > This page was originally filed as "Europol Botnet Takedown 2023" (`botnet-takedown-europol-2023.md`). Content verification of the Europol source URL confirmed this is actually the **February 2015 Ramnit botnet takedown**. Page renamed and all data corrected.
 

@@ -30,9 +30,9 @@ participating_agencies:
   - "[[fbi]]"
   - "[[usdoj]]"
 legal_basis:
-  []
+
 mechanisms_used:
-  []
+
 results:
   arrests: 3
   indictments: 3
@@ -60,14 +60,16 @@ related_cases:
 related_operations:
   - "[[operation-us-v-hladyr-fin7]]"
 challenges_encountered:
-  []
+
 lessons_learned:
-  []
+
 source_count: 1
 sources:
   - "[1] FBI News (2018)"
 created: 2026-04-08
 updated: 2026-04-08
+operation_role: umbrella
+parent_operation: ""
 ---
 ## Summary
 

@@ -2,19 +2,21 @@
 type: operation
 title: "Operation Bakovia (CTB-Locker/Cerber Ransomware)"
 title_ko: "바코비아 작전 (CTB-Locker/Cerber 랜섬웨어)"
-aliases: ["Operation Bakovia", "CTB-Locker Cerber arrests"]
-case_id: "CYB-2018-050"
+aliases:
+  - "Operation Bakovia"
+  - "CTB-Locker Cerber arrests"
+case_id: CYB-2018-050
 period: 1
-operation_type: "arrest-sweep"
-status: "completed"
+operation_type: arrest-sweep
+status: completed
 enforcement_type:
-  - "arrest"
-  - "seizure"
-outcome: "success"
+  - arrest
+  - seizure
+outcome: success
 timeframe:
-  announced: "2017-12-20"
-  start: "2017-12-20"
-  end: "2017-12-20"
+  announced: 2017-12-20
+  start: 2017-12-20
+  end: 2017-12-20
   ongoing: false
 crime_type: "[[ransomware-ic]]"
 target_entity: "CTB-Locker and Cerber ransomware distributors"
@@ -32,8 +34,10 @@ participating_agencies:
   - "[[fbi-cyber-division]]"
   - "[[uk-nca]]"
   - "[[netherlands-politie]]"
-legal_basis: []
-mechanisms_used: []
+legal_basis:
+  []
+mechanisms_used:
+  []
 results:
   arrests: 5
   indictments: 0
@@ -46,34 +50,38 @@ results:
     - "Romanian suspects arrested for CTB-Locker and Cerber ransomware distribution"
     - "McAfee provided private-sector intelligence support"
 edges:
-  - source_actor: "Europol"
+  - source_actor: Europol
     target_actor: "Romania DIICOT"
-    cooperation_type: "joint_investigation"
-    legal_basis: "unknown"
-    direction: "undirected"
-  - source_actor: "Europol"
-    target_actor: "FBI"
-    cooperation_type: "joint_investigation"
-    legal_basis: "unknown"
-    direction: "undirected"
+    cooperation_type: joint_investigation
+    legal_basis: unknown
+    direction: undirected
+  - source_actor: Europol
+    target_actor: FBI
+    cooperation_type: joint_investigation
+    legal_basis: unknown
+    direction: undirected
 credibility_index: 1.88
 source_tier: 3
 missing_fields:
-  - "legal_basis"
-  - "mechanisms_used"
-  - "exact_arrest_details"
-related_cases: []
-related_operations: []
-challenges_encountered: []
+  - legal_basis
+  - mechanisms_used
+  - exact_arrest_details
+related_cases:
+  []
+related_operations:
+  []
+challenges_encountered:
+  []
 lessons_learned:
   - "Private-sector partnership (McAfee) enhanced law enforcement intelligence gathering"
 source_count: 1
 sources:
-  - "tier3-cyberscoop-bakovia-2017"
+  - tier3-cyberscoop-bakovia-2017
 created: 2026-04-08
 updated: 2026-04-08
+operation_role: umbrella
+parent_operation: ""
 ---
-
 > [!note] This operation is documented from a Tier 3 (cybersecurity media) source. Additional verification from official sources (Tier 1-2) would strengthen data reliability.
 
 ## Summary

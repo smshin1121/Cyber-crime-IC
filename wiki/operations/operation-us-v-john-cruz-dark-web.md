@@ -3,17 +3,17 @@ type: operation
 title: "John Cruz (Counterfeit Xanax Dark Web Vendor) Enforcement Action"
 aliases:
   - "United States v. John Cruz (Counterfeit Xanax Dark Web Vendor)"
-case_id: "CYB-FUP-049"
+case_id: CYB-FUP-049
 period: 3
-operation_type: "sentencing"
-status: "completed"
+operation_type: sentencing
+status: completed
 enforcement_type:
   - sentencing
-outcome: "success"
+outcome: success
 timeframe:
-  announced: "2025-11-18"
-  start: "2025"
-  end: "2025-11-18"
+  announced: 2025-11-18
+  start: 2025
+  end: 2025-11-18
   ongoing: false
 crime_type: "[[counterfeit-goods]]"
 target_entity: "John Cruz (Counterfeit Xanax Dark Web Vendor)"
@@ -21,7 +21,8 @@ lead_agency: "[[us-doj]]"
 coordinating_body: "[[us-doj]]"
 participating_countries:
   - "[[united-states]]"
-participating_agencies: []
+participating_agencies:
+  []
 legal_basis:
   - "[[counterfeit-goods]]"
   - "[[controlled-substances-act]]"
@@ -37,22 +38,28 @@ results:
   victims_notified: 0
   other:
     - "Defendant-specific follow-on action derived from [[us-v-john-cruz-dark-web]]"
-edges: []
+edges:
+  []
 credibility_index: 4.0
 source_tier: 1
-missing_fields: []
+missing_fields:
+  []
 related_cases:
   - "[[us-v-john-cruz-dark-web]]"
-related_operations: []
-challenges_encountered: []
-lessons_learned: []
+related_operations:
+  []
+challenges_encountered:
+  []
+lessons_learned:
+  []
 source_count: 1
 sources:
   - "[[2025-11-18_edmo_john-cruz-dark-web-sentencing]]"
 created: 2026-04-17
 updated: 2026-04-17
+operation_role: follow-on
+parent_operation: ""
 ---
-
 ## Summary
 
 John Cruz (Counterfeit Xanax Dark Web Vendor) Enforcement Action is a defendant-specific enforcement action page derived from [[us-v-john-cruz-dark-web]]. It captures the prosecutorial or seizure stage reflected in the linked case record and preserves the operation-side catalog entry for this follow-on action.

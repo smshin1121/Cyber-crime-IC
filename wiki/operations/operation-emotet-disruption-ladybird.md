@@ -22,7 +22,7 @@ coordinating_body: "[[netherlands-politie]]"
 participating_countries:
   - "[[united-states]]"
 participating_agencies:
-  []
+
 legal_basis:
   - "[[budapest-convention]]"
   - "[[mutual-legal-assistance]]"
@@ -40,24 +40,26 @@ results:
   other:
     - "Defendant-specific follow-on action derived from [[emotet-disruption-ladybird]]"
 edges:
-  []
+
 credibility_index: 4.0
 source_tier: 1
 missing_fields:
-  []
+
 related_cases:
   - "[[emotet-disruption-ladybird]]"
 related_operations:
   - "[[emotet-takedown]]"
 challenges_encountered:
-  []
+
 lessons_learned:
-  []
+
 source_count: 1
 sources:
   - "[[2021-01-27_mdnc_emotet-disruption-order]]"
 created: 2026-04-17
 updated: 2026-04-17
+operation_role: follow-on
+parent_operation: "[[emotet-takedown]]"
 ---
 ## Summary
 

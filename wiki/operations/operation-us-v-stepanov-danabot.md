@@ -22,7 +22,7 @@ coordinating_body: "[[fbi-cyber-division]]"
 participating_countries:
   - "[[united-states]]"
 participating_agencies:
-  []
+
 legal_basis:
   - "[[budapest-convention]]"
 mechanisms_used:
@@ -38,24 +38,26 @@ results:
   other:
     - "Defendant-specific follow-on action derived from [[us-v-stepanov-danabot]]"
 edges:
-  []
+
 credibility_index: 4.0
 source_tier: 1
 missing_fields:
-  []
+
 related_cases:
   - "[[us-v-stepanov-danabot]]"
 related_operations:
   - "[[operation-endgame-phase2]]"
 challenges_encountered:
-  []
+
 lessons_learned:
-  []
+
 source_count: 1
 sources:
   - "[[2025-05-23_doj_danabot-indictment]]"
 created: 2026-04-17
 updated: 2026-04-17
+operation_role: follow-on
+parent_operation: "[[operation-endgame-phase2]]"
 ---
 ## Summary
 

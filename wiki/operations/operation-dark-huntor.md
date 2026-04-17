@@ -3,21 +3,21 @@ type: operation
 title: "Operation Dark HunTOR"
 aliases:
   - "Dark HunTOR"
-  - "DarkHunTOR"
+  - DarkHunTOR
   - "Operation Dark HunTor"
-case_id: "CYB-2021-010"
+case_id: CYB-2021-010
 period: 2
-operation_type: "arrest-sweep"
-status: "completed"
+operation_type: arrest-sweep
+status: completed
 enforcement_type:
   - arrest
   - seizure
   - asset_freeze
-outcome: "success"
+outcome: success
 timeframe:
-  announced: "2021-10-26"
-  start: "2021-01-11"
-  end: "2021-10-26"
+  announced: 2021-10-26
+  start: 2021-01-11
+  end: 2021-10-26
   ongoing: false
 crime_type: "[[online-fraud-ic]]"
 target_entity: "DarkMarket vendors and dark web drug traffickers"
@@ -56,24 +56,26 @@ results:
     - "Italian authorities simultaneously shut down DeepSea and Berlusconi marketplaces"
 edges:
   - source_actor: "Europol EC3"
-    target_actor: "FBI"
-    cooperation_type: "info_sharing"
-    legal_basis: "informal"
-    direction: "undirected"
+    target_actor: FBI
+    cooperation_type: info_sharing
+    legal_basis: informal
+    direction: undirected
   - source_actor: "Germany BKA"
     target_actor: "Europol EC3"
-    cooperation_type: "evidence_transfer"
-    legal_basis: "Budapest_Convention"
-    direction: "directed"
+    cooperation_type: evidence_transfer
+    legal_basis: Budapest_Convention
+    direction: directed
   - source_actor: "Europol EC3"
     target_actor: "UK NCA"
-    cooperation_type: "joint_investigation"
-    legal_basis: "Budapest_Convention"
-    direction: "undirected"
+    cooperation_type: joint_investigation
+    legal_basis: Budapest_Convention
+    direction: undirected
 credibility_index: 3.5
 source_tier: 2
-missing_fields: []
-related_cases: []
+missing_fields:
+  []
+related_cases:
+  []
 related_operations:
   - "[[darkmarket-takedown]]"
   - "[[nemesis-market-takedown]]"
@@ -85,11 +87,12 @@ lessons_learned:
   - "EMPACT framework provides effective policy umbrella for EU-US joint operations"
 source_count: 5
 sources:
-  - "[[uk-nca-darkode-forum-takedown|UK NCA: Operation Dark HunTOR press release]]"
+  - "[[uk-nca-darkode-forum-takedown|UK NCA: "Operation Dark HunTOR press release]]\""
 created: 2026-04-10
 updated: 2026-04-10
+operation_role: umbrella
+parent_operation: ""
 ---
-
 ## Summary
 
 Operation Dark HunTOR was a coordinated international law enforcement action announced on 26 October 2021 that resulted in the arrest of 150 suspected dark web drug traffickers across nine countries. The operation seized approximately EUR 26.7 million (~USD 31 million) in cash and cryptocurrency, 234 kg of drugs, and 45 firearms. Coordinated by [[europol-ec3|Europol's European Cybercrime Centre (EC3)]] and [[eurojust|Eurojust]], Dark HunTOR is almost certainly the largest follow-on enforcement action stemming from a single dark web marketplace seizure, building directly on the January 2021 takedown of [[darkmarket-takedown|DarkMarket]].

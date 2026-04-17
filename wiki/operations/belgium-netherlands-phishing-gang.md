@@ -2,18 +2,20 @@
 type: operation
 title: "Belgium-Netherlands Phishing Gang Arrests"
 title_ko: "벨기에-네덜란드 피싱 갱 체포"
-aliases: ["Belgium Netherlands phishing arrests", "Europol phishing gang bust 2025"]
-case_id: "CYB-2025-051"
+aliases:
+  - "Belgium Netherlands phishing arrests"
+  - "Europol phishing gang bust 2025"
+case_id: CYB-2025-051
 period: 3
-operation_type: "arrest-sweep"
-status: "completed"
+operation_type: arrest-sweep
+status: completed
 enforcement_type:
-  - "arrest"
-outcome: "success"
+  - arrest
+outcome: success
 timeframe:
-  announced: "2025-01-01"
-  start: "2025-01-01"
-  end: "2025-03-31"
+  announced: 2025-01-01
+  start: 2025-01-01
+  end: 2025-03-31
   ongoing: false
 crime_type: "[[online-fraud-ic]]"
 target_entity: "Belgian-Dutch phishing gang"
@@ -24,8 +26,10 @@ participating_countries:
   - "[[netherlands]]"
 participating_agencies:
   - "[[europol-ec3]]"
-legal_basis: []
-mechanisms_used: []
+legal_basis:
+  []
+mechanisms_used:
+  []
 results:
   arrests: 8
   indictments: 0
@@ -40,32 +44,38 @@ results:
 edges:
   - source_actor: "Belgium Police"
     target_actor: "Netherlands Police"
-    cooperation_type: "joint_investigation"
-    legal_basis: "unknown"
-    direction: "undirected"
-  - source_actor: "Europol"
+    cooperation_type: joint_investigation
+    legal_basis: unknown
+    direction: undirected
+  - source_actor: Europol
     target_actor: "Belgium Police"
-    cooperation_type: "joint_investigation"
-    legal_basis: "unknown"
-    direction: "undirected"
+    cooperation_type: joint_investigation
+    legal_basis: unknown
+    direction: undirected
 credibility_index: 1.88
 source_tier: 3
 missing_fields:
-  - "legal_basis"
-  - "mechanisms_used"
-  - "lead_agency"
-  - "financial_losses"
-  - "url"
-related_cases: []
-related_operations: []
-challenges_encountered: []
-lessons_learned: []
+  - legal_basis
+  - mechanisms_used
+  - lead_agency
+  - financial_losses
+  - url
+related_cases:
+  []
+related_operations:
+  []
+challenges_encountered:
+  []
+lessons_learned:
+  []
 source_count: 1
-sources: []
+sources:
+  []
 created: 2026-04-08
 updated: 2026-04-08
+operation_role: umbrella
+parent_operation: ""
 ---
-
 > [!note] This operation is documented from a Tier 3 (cybersecurity media) source. Additional verification from official sources (Tier 1-2) would strengthen data reliability.
 
 ## Summary

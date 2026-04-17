@@ -5,15 +5,15 @@ aliases:
   - "e-Commerce Action 2020"
 case_id: ""
 period: 2
-operation_type: "joint-investigation"
-status: "completed"
+operation_type: joint-investigation
+status: completed
 enforcement_type:
-  - "seizure"
-outcome: "success"
+  - seizure
+outcome: success
 timeframe:
-  announced: "2020-11-26"
-  start: "2020-09"
-  end: "2020-11"
+  announced: 2020-11-26
+  start: 2020-09
+  end: 2020-11
   ongoing: false
 crime_type: "[[carding-fraud-ic]]"
 target_entity: "Dark web card shops and compromised payment card data traders"
@@ -41,25 +41,25 @@ results:
     - "EUR 40 million in potential losses prevented"
 edges:
   - source_actor: "Europol EC3"
-    target_actor: "Group-IB"
-    cooperation_type: "info_sharing"
-    legal_basis: "informal"
-    direction: "undirected"
-  - source_actor: "Italy"
-    target_actor: "Hungary"
-    cooperation_type: "joint_investigation"
-    legal_basis: "Budapest_Convention"
-    direction: "undirected"
+    target_actor: Group-IB
+    cooperation_type: info_sharing
+    legal_basis: informal
+    direction: undirected
+  - source_actor: Italy
+    target_actor: Hungary
+    cooperation_type: joint_investigation
+    legal_basis: Budapest_Convention
+    direction: undirected
   - source_actor: "Europol EC3"
     target_actor: "UK DCPCU"
-    cooperation_type: "info_sharing"
-    legal_basis: "informal"
-    direction: "undirected"
+    cooperation_type: info_sharing
+    legal_basis: informal
+    direction: undirected
 credibility_index: 3.5
 source_tier: 2
 missing_fields:
   - "arrests (none publicly confirmed)"
-  - "case_id"
+  - case_id
 related_operations:
   - "[[infraud-organization-takedown|Infraud Organization Takedown]]"
 challenges_encountered:
@@ -69,13 +69,14 @@ lessons_learned:
   - "Proactive data analysis can prevent losses before fraud is committed"
 source_count: 3
 sources:
-  - "[Europol Press Release (2020-11-26)](https://www.europol.europa.eu/newsroom/news/officers-foil-fraudsters-stealing-%E2%82%AC40-million-in-payment-card-scam)"
-  - "[Group-IB Media (2020-11)](https://www.group-ib.com/media/carding-action-2020/)"
-  - "[WeLiveSecurity (2020-11-27)](https://www.welivesecurity.com/2020/11/27/europol-partners-thwart-credit-card-fraud-scheme/)"
+  - "[Europol Press Release (2020-11-26)](https: "//www.europol.europa.eu/newsroom/news/officers-foil-fraudsters-stealing-%E2%82%AC40-million-in-payment-card-scam)\""
+  - "[Group-IB Media (2020-11)](https: "//www.group-ib.com/media/carding-action-2020/)\""
+  - "[WeLiveSecurity (2020-11-27)](https: "//www.welivesecurity.com/2020/11/27/europol-partners-thwart-credit-card-fraud-scheme/)\""
 created: 2026-04-10
 updated: 2026-04-11
+operation_role: umbrella
+parent_operation: ""
 ---
-
 ## Summary
 
 Carding Action 2020 was a three-month intelligence-led operation coordinated by [[europol-ec3|Europol's European Cybercrime Centre (EC3)]] between September and November 2020. The operation targeted traders of compromised payment card data on dark web card shops and marketplaces. Law enforcement agencies from [[italy|Italy]], [[hungary|Hungary]], and the [[united-kingdom|United Kingdom]] collaborated with [[group-ib|Group-IB]], the sole private-sector cybersecurity partner, and major card payment schemes to analyse approximately 90,000 pieces of stolen card data. The operation is assessed to have prevented an estimated EUR 40 million (approximately USD 48 million) in potential fraud losses. No arrests were publicly announced; the operation was primarily intelligence-driven and preventive in nature.

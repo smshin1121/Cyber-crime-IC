@@ -2,17 +2,19 @@
 type: operation
 title: "Rex Mundi Hacking Group Takedown"
 title_ko: "공식 작전명 없음 (Rex Mundi 해킹 조직 단속)"
-aliases: ["Rex Mundi Arrest"]
-case_id: "CYB-2018-005"
+aliases:
+  - "Rex Mundi Arrest"
+case_id: CYB-2018-005
 period: 1
-operation_type: "joint-investigation"
-status: "completed"
-enforcement_type: ["arrest"]
-outcome: "success"
+operation_type: joint-investigation
+status: completed
+enforcement_type:
+  - arrest
+outcome: success
 timeframe:
-  announced: "2018-05-18"
-  start: "2017-05"
-  end: "2018-05-18"
+  announced: 2018-05-18
+  start: 2017-05
+  end: 2018-05-18
   ongoing: false
 crime_type: "[[hacking-ic]]"
 target_entity: "Rex Mundi hacking group"
@@ -28,8 +30,10 @@ participating_agencies:
   - "[[thai-royal-police]]"
   - "[[europol-ec3]]"
   - "[[j-cat]]"
-legal_basis: []
-mechanisms_used: []
+legal_basis:
+  []
+mechanisms_used:
+  []
 results:
   arrests: 8
   indictments: 0
@@ -44,28 +48,35 @@ results:
 edges:
   - source_actor: "UK Metropolitan Police"
     target_actor: "French Police"
-    cooperation_type: "joint_investigation"
-    legal_basis: "unknown"
-    direction: "undirected"
-  - source_actor: "Europol"
+    cooperation_type: joint_investigation
+    legal_basis: unknown
+    direction: undirected
+  - source_actor: Europol
     target_actor: "Thai Royal Police"
-    cooperation_type: "joint_investigation"
-    legal_basis: "unknown"
-    direction: "undirected"
+    cooperation_type: joint_investigation
+    legal_basis: unknown
+    direction: undirected
 credibility_index: 2.28
 source_tier: 2
-missing_fields: ["legal_basis", "mechanisms_used"]
-related_cases: []
-related_operations: []
-challenges_encountered: []
-lessons_learned: []
+missing_fields:
+  - legal_basis
+  - mechanisms_used
+related_cases:
+  []
+related_operations:
+  []
+challenges_encountered:
+  []
+lessons_learned:
+  []
 source_count: 1
 sources:
   - "[1] Europol News (2018-05-18)"
 created: 2026-04-08
 updated: 2026-04-08
+operation_role: umbrella
+parent_operation: ""
 ---
-
 ## Summary
 
 UK, French, and Thai law enforcement, coordinated by Europol and the Joint Cybercrime Action Taskforce (J-CAT), dismantled the Rex Mundi hacking group that had engaged in large-scale customer data breaches and cyber extortion targeting British companies. The operation resulted in the arrest of 8 suspects, including a key member arrested in Thailand. The investigation ran from May 2017 to May 2018.

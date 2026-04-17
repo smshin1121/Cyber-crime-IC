@@ -1,32 +1,32 @@
 ---
 aliases:
-  []
+
 case_id: CYB-2025-005
 challenges_encountered:
-  []
+
 coordinating_body: "[[europol-ec3]]"
 created: 2026-04-08
 credibility_index: 3.25
 crime_type: "[[ransomware-ic]]"
 edges:
-  []
+
 enforcement_type:
-  []
+
 lead_agency: "[[fbi-cyber-division]]"
 legal_basis:
-  []
+
 lessons_learned:
-  []
+
 mechanisms_used:
-  []
+
 missing_fields:
-  []
+
 operation_type: joint-investigation
 outcome: ongoing
 participating_agencies:
-  []
+
 participating_countries:
-  []
+
 period: 3
 related_cases:
   - "[[us-v-gallyamov-qakbot]]"
@@ -39,13 +39,13 @@ results:
   domains_seized: 0
   indictments: 1
   other:
-    []
+
   servers_seized: 0
   victims_notified: 0
 source_count: 1
 source_tier: 2
 sources:
-  []
+
 status: ongoing
 target_entity: "Rustam Rafailevich Gallyamov and Qakbot malware network"
 timeframe:
@@ -56,6 +56,8 @@ timeframe:
 title: "QakBot / Gallyamov Indictment"
 type: operation
 updated: 2026-04-12
+operation_role: umbrella
+parent_operation: ""
 ---
 ## Summary
 

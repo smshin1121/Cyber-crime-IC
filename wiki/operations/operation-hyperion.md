@@ -2,19 +2,21 @@
 type: operation
 title: "Operation Hyperion"
 title_ko: "하이페리온 작전"
-aliases: ["Operation Hyperion", "Dark Web FBI Sting Zcash"]
-case_id: "CYB-2017-050"
+aliases:
+  - "Operation Hyperion"
+  - "Dark Web FBI Sting Zcash"
+case_id: CYB-2017-050
 period: 1
-operation_type: "undercover"
-status: "completed"
+operation_type: undercover
+status: completed
 enforcement_type:
-  - "arrest"
-  - "takedown"
-outcome: "success"
+  - arrest
+  - takedown
+outcome: success
 timeframe:
-  announced: "2017-01-01"
-  start: "2017-01-01"
-  end: "2017-12-31"
+  announced: 2017-01-01
+  start: 2017-01-01
+  end: 2017-12-31
   ongoing: false
 crime_type: "[[dark-web-ic]]"
 target_entity: "Dark web criminal marketplaces"
@@ -24,8 +26,10 @@ participating_countries:
   - "[[united-states]]"
 participating_agencies:
   - "[[fbi-cyber-division]]"
-legal_basis: []
-mechanisms_used: []
+legal_basis:
+  []
+mechanisms_used:
+  []
 results:
   arrests: 0
   indictments: 0
@@ -37,30 +41,35 @@ results:
   other:
     - "FBI dark web sting operation targeting Zcash cryptocurrency users"
 edges:
-  - source_actor: "FBI"
-    target_actor: "unknown"
-    cooperation_type: "joint_investigation"
-    legal_basis: "unknown"
-    direction: "undirected"
+  - source_actor: FBI
+    target_actor: unknown
+    cooperation_type: joint_investigation
+    legal_basis: unknown
+    direction: undirected
 credibility_index: 1.88
 source_tier: 3
 missing_fields:
-  - "legal_basis"
-  - "mechanisms_used"
-  - "exact_timeframe"
-  - "results_arrests"
-  - "participating_countries"
-related_cases: []
-related_operations: []
-challenges_encountered: []
-lessons_learned: []
+  - legal_basis
+  - mechanisms_used
+  - exact_timeframe
+  - results_arrests
+  - participating_countries
+related_cases:
+  []
+related_operations:
+  []
+challenges_encountered:
+  []
+lessons_learned:
+  []
 source_count: 1
 sources:
-  - "tier3-cyberscoop-operation-hyperion-2017"
+  - tier3-cyberscoop-operation-hyperion-2017
 created: 2026-04-08
 updated: 2026-04-08
+operation_role: umbrella
+parent_operation: ""
 ---
-
 > [!note] This operation is documented from a Tier 3 (cybersecurity media) source. Additional verification from official sources (Tier 1-2) would strengthen data reliability.
 
 ## Summary

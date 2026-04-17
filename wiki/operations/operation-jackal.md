@@ -1,71 +1,75 @@
 ---
 type: operation
 title: "Operation Jackal"
-aliases: ["Jackal", "Operation Jackal I"]
-operation_type: "arrest-sweep"
-status: "completed"
-case_id: "CYB-2023-002"
+aliases:
+  - Jackal
+  - "Operation Jackal I"
+operation_type: arrest-sweep
+status: completed
+case_id: CYB-2023-002
 period: 3
 enforcement_type:
-  - "arrest"
-  - "asset_freeze"
-outcome: "success"
+  - arrest
+  - asset_freeze
+outcome: success
 credibility_index: 2.28
 source_tier: 2
 edges:
-  - source_actor: "INTERPOL"
+  - source_actor: INTERPOL
     target_actor: "Nigeria Police"
-    cooperation_type: "joint_investigation"
-    legal_basis: "unknown"
-    direction: "undirected"
-  - source_actor: "INTERPOL"
+    cooperation_type: joint_investigation
+    legal_basis: unknown
+    direction: undirected
+  - source_actor: INTERPOL
     target_actor: "Ireland Police"
-    cooperation_type: "joint_investigation"
-    legal_basis: "unknown"
-    direction: "undirected"
-  - source_actor: "INTERPOL"
+    cooperation_type: joint_investigation
+    legal_basis: unknown
+    direction: undirected
+  - source_actor: INTERPOL
     target_actor: "Portugal Police"
-    cooperation_type: "joint_investigation"
-    legal_basis: "unknown"
-    direction: "undirected"
+    cooperation_type: joint_investigation
+    legal_basis: unknown
+    direction: undirected
 missing_fields:
-  - "legal_basis"
-  - "mechanisms_used"
+  - legal_basis
+  - mechanisms_used
 timeframe:
-  announced: "2023-06-06"
-  start: "2023-05-15"
-  end: "2023-05-29"
+  announced: 2023-06-06
+  start: 2023-05-15
+  end: 2023-05-29
   ongoing: false
 crime_type: "[[bec-ic]]"
 target_entity: "Black Axe and similar West African organized crime groups"
 lead_agency: "[[interpol-igci]]"
 coordinating_body: "[[interpol-igci]]"
 participating_countries:
-  - "Argentina"
-  - "Australia"
-  - "Belgium"
-  - "Brazil"
-  - "Canada"
+  - Argentina
+  - Australia
+  - Belgium
+  - Brazil
+  - Canada
   - "Cote d'Ivoire"
-  - "France"
-  - "Germany"
-  - "Indonesia"
-  - "Ireland"
-  - "Italy"
-  - "Malaysia"
-  - "Netherlands"
-  - "Nigeria"
-  - "Portugal"
+  - France
+  - Germany
+  - Indonesia
+  - Ireland
+  - Italy
+  - Malaysia
+  - Netherlands
+  - Nigeria
+  - Portugal
   - "South Africa"
-  - "Spain"
-  - "Switzerland"
+  - Spain
+  - Switzerland
   - "United Arab Emirates"
   - "United Kingdom"
   - "United States"
 participating_agencies:
   - "[[interpol-igci]]"
-legal_basis: []
-mechanisms_used: []
+legal_basis:
+  []
+mechanisms_used:
+  []
 results:
   arrests: 103
   indictments: 0
@@ -78,10 +82,12 @@ results:
     - "1,110 suspects identified"
     - "208 bank accounts blocked"
     - "EUR 2.15 million seized/frozen"
-related_cases: []
+related_cases:
+  []
 related_operations:
   - "[[operation-jackal-iii]]"
-challenges_encountered: []
+challenges_encountered:
+  []
 lessons_learned:
   - "Dedicated operations targeting specific organized crime groups (Black Axe) can mobilize 21-country coordination"
   - "BEC enforcement requires parallel financial account blocking across multiple jurisdictions"
@@ -90,8 +96,9 @@ sources:
   - "[[2023-06-06-interpol-operation-jackal]]"
 created: 2026-04-08
 updated: 2026-04-08
+operation_role: umbrella
+parent_operation: ""
 ---
-
 ## Summary
 
 Operation Jackal was INTERPOL's first dedicated operation targeting **Black Axe** and similar West African organized crime groups, coordinated from 15 to 29 May 2023 across **21 countries** on five continents. The operation resulted in **103 arrests**, identification of **1,110 suspects**, blocking of **208 bank accounts**, and seizure/freezing of **EUR 2.15 million**. Black Axe is identified as responsible for the majority of the world's cyber-enabled financial fraud, particularly business email compromise (BEC).

@@ -3,21 +3,21 @@ type: operation
 title: "Operation reWired"
 title_ko: "Operation reWired (BEC 글로벌 단속)"
 aliases:
-  - "reWired"
+  - reWired
   - "Operation ReWired"
 case_id: ""
 period: 2
-operation_type: "arrest-sweep"
-status: "completed"
+operation_type: arrest-sweep
+status: completed
 enforcement_type:
-  - "arrest"
-  - "seizure"
-  - "asset_freeze"
-outcome: "success"
+  - arrest
+  - seizure
+  - asset_freeze
+outcome: success
 timeframe:
-  announced: "2019-09-10"
-  start: "2019-05"
-  end: "2019-09"
+  announced: 2019-09-10
+  start: 2019-05
+  end: 2019-09
   ongoing: false
 crime_type: "[[bec-ic]]"
 target_entity: "International Business Email Compromise (BEC) networks"
@@ -56,35 +56,35 @@ results:
     - "USD 118 million in fraudulent wire transfers disrupted/recovered"
     - "214 domestic enforcement actions (arrests, warning letters, asset seizures)"
 edges:
-  - source_actor: "FBI"
+  - source_actor: FBI
     target_actor: "Nigeria EFCC"
-    cooperation_type: "joint_investigation"
-    legal_basis: "bilateral_MOU"
-    direction: "directed"
-  - source_actor: "FBI"
-    target_actor: "Turkey"
-    cooperation_type: "info_sharing"
-    legal_basis: "MLAT"
-    direction: "directed"
-  - source_actor: "FBI"
-    target_actor: "Ghana"
-    cooperation_type: "joint_investigation"
-    legal_basis: "MLAT"
-    direction: "directed"
-  - source_actor: "FBI"
-    target_actor: "UK"
-    cooperation_type: "info_sharing"
-    legal_basis: "MLAT"
-    direction: "directed"
-  - source_actor: "FBI"
-    target_actor: "Japan"
-    cooperation_type: "info_sharing"
-    legal_basis: "MLAT"
-    direction: "directed"
+    cooperation_type: joint_investigation
+    legal_basis: bilateral_MOU
+    direction: directed
+  - source_actor: FBI
+    target_actor: Turkey
+    cooperation_type: info_sharing
+    legal_basis: MLAT
+    direction: directed
+  - source_actor: FBI
+    target_actor: Ghana
+    cooperation_type: joint_investigation
+    legal_basis: MLAT
+    direction: directed
+  - source_actor: FBI
+    target_actor: UK
+    cooperation_type: info_sharing
+    legal_basis: MLAT
+    direction: directed
+  - source_actor: FBI
+    target_actor: Japan
+    cooperation_type: info_sharing
+    legal_basis: MLAT
+    direction: directed
 credibility_index: 4.5
 source_tier: 1
 missing_fields:
-  - "case_id"
+  - case_id
 related_operations:
   - "[[operation-wirewire|Operation WireWire (2018)]]"
   - "[[operation-falcon|Operation Falcon]]"
@@ -98,14 +98,15 @@ lessons_learned:
   - "Successor to Operation WireWire showed value of repeating coordinated sweeps"
 source_count: 4
 sources:
-  - "[FBI Press Release (2019-09-10)](https://www.fbi.gov/news/stories/operation-rewired-bec-takedown-091019)"
-  - "[DOJ Press Release (2019-09-10)](https://www.justice.gov/archives/opa/pr/281-arrested-worldwide-coordinated-international-enforcement-operation-targeting-hundreds)"
-  - "[US Secret Service Press Release (2019-09-10)](https://www.secretservice.gov/press/releases/2019/09/281-arrested-worldwide-coordinated-international-enforcement-operation)"
-  - "[EFCC Press Release (2019-09)](https://www.efcc.gov.ng/efcc/news-and-information/news-release/4806-operation-rewired-we-recovered-169-850-n92m-through-efcc-fbi-collaboration-magu)"
+  - "[FBI Press Release (2019-09-10)](https: "//www.fbi.gov/news/stories/operation-rewired-bec-takedown-091019)\""
+  - "[DOJ Press Release (2019-09-10)](https: "//www.justice.gov/archives/opa/pr/281-arrested-worldwide-coordinated-international-enforcement-operation-targeting-hundreds)\""
+  - "[US Secret Service Press Release (2019-09-10)](https: "//www.secretservice.gov/press/releases/2019/09/281-arrested-worldwide-coordinated-international-enforcement-operation)\""
+  - "[EFCC Press Release (2019-09)](https: "//www.efcc.gov.ng/efcc/news-and-information/news-release/4806-operation-rewired-we-recovered-169-850-n92m-through-efcc-fbi-collaboration-magu)\""
 created: 2026-04-10
 updated: 2026-04-11
+operation_role: umbrella
+parent_operation: ""
 ---
-
 ## Summary
 
 Operation reWired was a coordinated international law enforcement operation targeting Business Email Compromise (BEC) schemes, announced on 10 September 2019. Led by the [[fbi-cyber-division|FBI]] and coordinated by the [[us-doj|US Department of Justice]] through the International Organized Crime Intelligence and Operations Center (IOC-2), the four-month operation resulted in 281 arrests across 10 countries, the seizure of approximately USD 3.7 million, and the disruption or recovery of approximately USD 118 million in fraudulent wire transfers. The operation was the successor to [[operation-wirewire|Operation WireWire]] (2018) and represented the largest coordinated BEC enforcement action at the time.

@@ -3,6 +3,8 @@ related_operations:
   - "[[operation-us-v-nazarovi-qqaazz]]"
 related_cases:
   - "[[us-v-nazarovi-qqaazz]]"
+operation_role: umbrella
+parent_operation: ""
 ---
 ﻿---
 type: operation

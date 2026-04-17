@@ -22,7 +22,7 @@ coordinating_body: "[[us-doj]]"
 participating_countries:
   - "[[united-states]]"
 participating_agencies:
-  []
+
 legal_basis:
   - "[[extradition-request]]"
 mechanisms_used:
@@ -38,24 +38,26 @@ results:
   other:
     - "Defendant-specific follow-on action derived from [[us-v-okpe-obogo-bec]]"
 edges:
-  []
+
 credibility_index: 4.0
 source_tier: 1
 missing_fields:
-  []
+
 related_cases:
   - "[[us-v-okpe-obogo-bec]]"
 related_operations:
   - "[[nigerian-bec-convictions-2023]]"
 challenges_encountered:
-  []
+
 lessons_learned:
-  []
+
 source_count: 1
 sources:
   - "[[2023-03-27_doj_okpe-obogo-bec-sentencing]]"
 created: 2026-04-17
 updated: 2026-04-17
+operation_role: follow-on
+parent_operation: "[[nigerian-bec-convictions-2023]]"
 ---
 ## Summary
 

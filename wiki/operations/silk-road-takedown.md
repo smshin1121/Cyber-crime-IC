@@ -102,6 +102,8 @@ sources:
   - "[[wired-operation-avalanche|Wired: "Silk Road 2.0 / Ulbricht Sentencing Coverage]]\""
 created: 2026-04-10
 updated: 2026-04-17
+operation_role: umbrella
+parent_operation: ""
 ---
 ## Summary
 

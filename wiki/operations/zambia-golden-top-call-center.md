@@ -2,19 +2,21 @@
 type: operation
 title: "Zambia Golden Top Call Center Bust"
 title_ko: "잠비아 골든탑 콜센터 소탕"
-aliases: ["Golden Top call center bust", "Zambia cybercrime call center raid"]
-case_id: "CYB-2024-050"
+aliases:
+  - "Golden Top call center bust"
+  - "Zambia cybercrime call center raid"
+case_id: CYB-2024-050
 period: 3
-operation_type: "arrest-sweep"
-status: "completed"
+operation_type: arrest-sweep
+status: completed
 enforcement_type:
-  - "arrest"
-  - "seizure"
-outcome: "success"
+  - arrest
+  - seizure
+outcome: success
 timeframe:
-  announced: "2024-04-15"
-  start: "2024-04-01"
-  end: "2024-06-05"
+  announced: 2024-04-15
+  start: 2024-04-01
+  end: 2024-06-05
   ongoing: false
 crime_type: "[[online-fraud-ic]]"
 target_entity: "Golden Top call center (Zambia)"
@@ -23,9 +25,12 @@ coordinating_body: ""
 participating_countries:
   - "[[zambia]]"
   - "[[china]]"
-participating_agencies: []
-legal_basis: []
-mechanisms_used: []
+participating_agencies:
+  []
+legal_basis:
+  []
+mechanisms_used:
+  []
 results:
   arrests: 77
   indictments: 0
@@ -40,23 +45,26 @@ results:
     - "Fraudulent call center operations disrupted"
 edges:
   - source_actor: "Zambia Police"
-    target_actor: "unknown"
-    cooperation_type: "joint_investigation"
-    legal_basis: "unknown"
-    direction: "undirected"
+    target_actor: unknown
+    cooperation_type: joint_investigation
+    legal_basis: unknown
+    direction: undirected
 credibility_index: 1.88
 source_tier: 3
 missing_fields:
-  - "legal_basis"
-  - "mechanisms_used"
-  - "lead_agency"
-  - "coordinating_body"
-  - "complete_participating_agencies"
-  - "financial_losses"
-  - "url"
-related_cases: []
-related_operations: []
-challenges_encountered: []
+  - legal_basis
+  - mechanisms_used
+  - lead_agency
+  - coordinating_body
+  - complete_participating_agencies
+  - financial_losses
+  - url
+related_cases:
+  []
+related_operations:
+  []
+challenges_encountered:
+  []
 lessons_learned:
   - "Fraudulent call centers in Africa increasingly involve multi-national criminal networks"
 source_count: 2
@@ -65,8 +73,9 @@ sources:
   - "[[2024-04-15-bitdefender-zambia-golden-top-arrests]]"
 created: 2026-04-08
 updated: 2026-04-14
+operation_role: umbrella
+parent_operation: ""
 ---
-
 > [!note] This operation is documented from a Tier 3 (cybersecurity media) source. Additional verification from official sources (Tier 1-2) would strengthen data reliability.
 
 ## Summary

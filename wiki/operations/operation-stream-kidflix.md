@@ -1,88 +1,64 @@
 ---
 aliases:
-- Operation Stream
-- Kidflix takedown
+  []
 case_id: CYB-2025-001
-challenges_encountered: []
-coordinating_body: '[[europol-ec3]]'
+challenges_encountered:
+  []
+coordinating_body: "[[europol-ec3]]"
 created: 2026-04-08
 credibility_index: 2.48
-crime_type: '[[csam-ic]]'
+crime_type: "[[csam-ic]]"
 edges:
-- cooperation_type: joint_investigation
-  direction: undirected
-  legal_basis: unknown
-  source_actor: ORG-NLEA-BKA-BAVARIA
-  target_actor: ORG-ILEA-EUROPOL
-- cooperation_type: info_sharing
-  direction: directed
-  legal_basis: unknown
-  source_actor: ORG-ILEA-EUROPOL
-  target_actor: (35+ country LEAs)
-- cooperation_type: evidence_transfer
-  direction: undirected
-  legal_basis: unknown
-  source_actor: ORG-NLEA-BKA-BAVARIA
-  target_actor: ORG-NLEA-NETHERLANDS-POLITIE
+  []
 enforcement_type:
-- arrest
-- seizure
-- takedown
-lead_agency: '[[germany-bka|Bavarian State Criminal Police (BKA Bavaria)]]'
-legal_basis: []
+  []
+lead_agency: "[[germany-bka|Bavarian State Criminal Police (BKA Bavaria)]]"
+legal_basis:
+  []
 lessons_learned:
-- Cryptocurrency tracing (DeFi, Bitcoin ATMs, P2P) was essential for following the
-  money
-- Long-term infiltration (2022-2025) required sustained international coordination
-mechanisms_used: []
+  []
+mechanisms_used:
+  []
 missing_fields:
-- participating_countries_full_list
-- participating_agencies_count
-- servers_seized
-- cryptocurrency_seized_amount
-- legal_basis
+  []
 operation_type: takedown
 outcome: success
 participating_agencies:
-- '[[germany-bka|Bavarian State Criminal Police]]'
-- '[[europol-ec3]]'
+  []
 participating_countries:
-- '[[germany]]'
-- '[[netherlands]]'
-- (35+ countries, full list not disclosed)
+  []
 period: 3
-related_cases: []
-related_operations: []
+related_cases:
+  []
+related_operations:
+  []
 results:
   arrests: 79
-  cryptocurrency_seized: undisclosed (crypto payments traced via DeFi and exchanges)
+  cryptocurrency_seized: "undisclosed (crypto payments traced via DeFi and exchanges)"
   decryption_keys_recovered: 0
   domains_seized: 0
   indictments: 0
   other:
-  - 1,393 suspects identified worldwide
-  - 3,000+ electronic devices seized
-  - 39 children identified and protected
-  - 91,000 unique CSAM videos (6,288 hours) on platform
-  - 1.8 million registered users
+    []
   servers_seized: 0
   victims_notified: 0
 source_count: 0
 source_tier: 3
 sources:
-- '[[2025-04-04-europol-operation-stream-kidflix]]'
+  []
 status: completed
-target_entity: Kidflix (CSAM streaming platform)
+target_entity: "Kidflix (CSAM streaming platform)"
 timeframe:
-  announced: '2025-04-04'
-  end: '2025-03-11'
+  announced: 2025-04-04
+  end: 2025-03-11
   ongoing: false
-  start: '2022-01-01'
-title: Operation Stream — Kidflix CSAM Platform Takedown
+  start: 2022-01-01
+title: "Operation Stream — Kidflix CSAM Platform Takedown"
 type: operation
-updated: '2026-04-09'
+updated: 2026-04-09
+operation_role: umbrella
+parent_operation: ""
 ---
-
 # Operation Stream — Kidflix CSAM Platform Takedown
 
 ## Summary

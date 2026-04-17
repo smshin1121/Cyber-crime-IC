@@ -2,20 +2,22 @@
 type: operation
 title: "Imminent Monitor RAT Takedown"
 title_ko: "이미넌트 모니터 RAT 소탕"
-aliases: ["IM RAT takedown", "Imminent Monitor operation 2019"]
-case_id: "CYB-2019-050"
+aliases:
+  - "IM RAT takedown"
+  - "Imminent Monitor operation 2019"
+case_id: CYB-2019-050
 period: 2
-operation_type: "takedown"
-status: "completed"
+operation_type: takedown
+status: completed
 enforcement_type:
-  - "arrest"
-  - "seizure"
-  - "takedown"
-outcome: "success"
+  - arrest
+  - seizure
+  - takedown
+outcome: success
 timeframe:
-  announced: "2019-11-29"
-  start: "2019-11-29"
-  end: "2019-12-02"
+  announced: 2019-11-29
+  start: 2019-11-29
+  end: 2019-12-02
   ongoing: false
 crime_type: "[[hacking-ic]]"
 target_entity: "Imminent Monitor RAT (Remote Access Trojan)"
@@ -34,8 +36,10 @@ participating_agencies:
   - "[[europol-ec3]]"
   - "[[eurojust]]"
   - "[[australia-afp]]"
-legal_basis: []
-mechanisms_used: []
+legal_basis:
+  []
+mechanisms_used:
+  []
 results:
   arrests: 13
   indictments: 0
@@ -49,38 +53,42 @@ results:
     - "Imminent Monitor RAT infrastructure dismantled"
     - "14,500 buyers identified across 124 countries"
 edges:
-  - source_actor: "Europol"
+  - source_actor: Europol
     target_actor: "Australian Federal Police"
-    cooperation_type: "joint_investigation"
-    legal_basis: "unknown"
-    direction: "undirected"
-  - source_actor: "Europol"
-    target_actor: "Eurojust"
-    cooperation_type: "joint_investigation"
-    legal_basis: "unknown"
-    direction: "undirected"
+    cooperation_type: joint_investigation
+    legal_basis: unknown
+    direction: undirected
+  - source_actor: Europol
+    target_actor: Eurojust
+    cooperation_type: joint_investigation
+    legal_basis: unknown
+    direction: undirected
 credibility_index: 1.88
 source_tier: 3
 missing_fields:
-  - "legal_basis"
-  - "mechanisms_used"
-related_cases: []
-related_operations: []
-challenges_encountered: []
+  - legal_basis
+  - mechanisms_used
+related_cases:
+  []
+related_operations:
+  []
+challenges_encountered:
+  []
 lessons_learned:
   - "OpSec mistakes by RAT developers can lead to identification"
   - "Commodity malware with thousands of buyers requires broad international cooperation"
 source_count: 5
 sources:
-  - "tier3-thehackernews-imrat-2019"
-  - "tier3-welivesecurity-imrat-2019"
-  - "tier3-portswigger-imrat-2019"
-  - "tier3-aspi-imrat-2019"
-  - "tier3-wiredgov-imrat-2019"
+  - tier3-thehackernews-imrat-2019
+  - tier3-welivesecurity-imrat-2019
+  - tier3-portswigger-imrat-2019
+  - tier3-aspi-imrat-2019
+  - tier3-wiredgov-imrat-2019
 created: 2026-04-08
 updated: 2026-04-08
+operation_role: umbrella
+parent_operation: ""
 ---
-
 > [!note] This operation is documented from a Tier 3 (cybersecurity media) source. Additional verification from official sources (Tier 1-2) would strengthen data reliability.
 
 ## Summary

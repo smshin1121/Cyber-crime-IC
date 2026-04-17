@@ -1,92 +1,64 @@
 ---
 aliases:
-- Contender 2.0
+  []
 case_id: CYB-2024-010
-challenges_encountered: []
-coordinating_body: '[[afripol]]'
+challenges_encountered:
+  []
+coordinating_body: "[[afripol]]"
 created: 2026-04-08
 credibility_index: 2.28
-crime_type: '[[bec-ic]]'
+crime_type: "[[bec-ic]]"
 edges:
-- cooperation_type: joint_investigation
-  direction: undirected
-  legal_basis: unknown
-  source_actor: INTERPOL
-  target_actor: Cote d'Ivoire Police
-- cooperation_type: joint_investigation
-  direction: undirected
-  legal_basis: unknown
-  source_actor: INTERPOL
-  target_actor: Nigeria Police Force
-- cooperation_type: info_sharing
-  direction: directed
-  legal_basis: unknown
-  source_actor: Switzerland Police
-  target_actor: INTERPOL
-- cooperation_type: info_sharing
-  direction: directed
-  legal_basis: informal
-  source_actor: Trend Micro
-  target_actor: INTERPOL
-- cooperation_type: info_sharing
-  direction: directed
-  legal_basis: informal
-  source_actor: Group-IB
-  target_actor: INTERPOL
+  []
 enforcement_type:
-- arrest
-lead_agency: '[[interpol-igci]]'
-legal_basis: []
-lessons_learned: []
-mechanisms_used: []
+  []
+lead_agency: "[[interpol-igci]]"
+legal_basis:
+  []
+lessons_learned:
+  []
+mechanisms_used:
+  []
 missing_fields:
-- legal_basis
-- mechanisms_used
-- exact_start_date
-- seizure_amounts
+  []
 operation_type: arrest-sweep
 outcome: success
 participating_agencies:
-- '[[interpol-igci]]'
-- '[[afripol]]'
+  []
 participating_countries:
-- '[[cote-divoire]]'
-- '[[nigeria]]'
-- '[[switzerland]]'
-- '[[finland]]'
+  []
 period: 3
-related_cases: []
+related_cases:
+  []
 related_operations:
-- '[[operation-jackal]]'
-- '[[operation-jackal-iii]]'
-- '[[operation-sentinel-africa]]'
+  []
 results:
   arrests: 8
-  cryptocurrency_seized: ''
+  cryptocurrency_seized: ""
   decryption_keys_recovered: 0
   domains_seized: 0
   indictments: 0
   other:
-  - International victim rescue coordination (Switzerland, Finland)
+    []
   servers_seized: 0
   victims_notified: 0
 source_count: 0
 source_tier: 2
 sources:
-- '[[2024-04-01-interpol-operation-contender-2]]'
+  []
 status: completed
-target_entity: West African cybercriminals operating phishing, BEC, romance scams,
-  and cryptocurrency fraud
+target_entity: "West African cybercriminals operating phishing, BEC, romance scams,"
 timeframe:
-  announced: '2024-04-01'
-  end: '2024-05-31'
+  announced: 2024-04-01
+  end: 2024-05-31
   ongoing: false
-  start: '2024-01-01'
-title: Operation Contender 2.0
+  start: 2024-01-01
+title: "Operation Contender 2.0"
 type: operation
 updated: 2026-04-08
+operation_role: umbrella
+parent_operation: ""
 ---
-
 # Operation Contender 2.0
 
 ## Summary

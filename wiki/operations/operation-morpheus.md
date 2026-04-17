@@ -1,61 +1,45 @@
 ---
 aliases:
-- Operation Morpheus
-- Cobalt Strike takedown
-- NCA Europol Cobalt Strike
+  []
 case_id: CYB-2024-050
-challenges_encountered: []
-coordinating_body: '[[europol-ec3]]'
+challenges_encountered:
+  []
+coordinating_body: "[[europol-ec3]]"
 created: 2026-04-08
 credibility_index: 2.55
-crime_type: '[[hacking-ic]]'
+crime_type: "[[hacking-ic]]"
 edges:
-- cooperation_type: joint_investigation
-  direction: undirected
-  legal_basis: unknown
-  source_actor: UK NCA
-  target_actor: Europol
+  []
 enforcement_type:
-- seizure
-- takedown
-lead_agency: '[[uk-nca]]'
-legal_basis: []
+  []
+lead_agency: "[[uk-nca]]"
+legal_basis:
+  []
 lessons_learned:
-- Targeting dual-use tools (legitimate software abused for crime) requires coordination
-  with the software vendor
-- IP flagging to ISPs in 27 countries demonstrates effective public-private cooperation
-mechanisms_used: []
+  []
+mechanisms_used:
+  []
 missing_fields:
-- legal_basis
-- mechanisms_used
-- complete_participating_countries
-- url
+  []
 operation_type: infrastructure-seizure
 outcome: success
 participating_agencies:
-- '[[uk-nca]]'
-- '[[europol-ec3]]'
+  []
 participating_countries:
-- '[[united-kingdom]]'
-- '[[australia]]'
-- '[[canada]]'
-- '[[germany]]'
-- '[[netherlands]]'
-- '[[poland]]'
-- '[[united-states]]'
+  []
 period: 3
-related_cases: []
-related_operations: []
+related_cases:
+  []
+related_operations:
+  []
 results:
   arrests: 0
-  cryptocurrency_seized: ''
+  cryptocurrency_seized: ""
   decryption_keys_recovered: 0
   domains_seized: 0
   indictments: 0
   other:
-  - 593 Cobalt Strike servers associated with criminal activity taken down
-  - 27 countries involved overall
-  - IP addresses flagged to internet service providers in 27 countries
+    []
   servers_seized: 593
   victims_notified: 0
 source_count: 1
@@ -63,18 +47,19 @@ source_tier: 2
 sources:
   - "[[2024-06-28-uk-nca-operation-morpheus-cobalt-strike]]"
 status: completed
-target_entity: Unauthorized Cobalt Strike servers
+target_entity: "Unauthorized Cobalt Strike servers"
 timeframe:
-  announced: '2024-06-28'
-  end: '2024-06-28'
+  announced: 2024-06-28
+  end: 2024-06-28
   ongoing: false
-  start: '2024-06-28'
-title: Operation Morpheus (Cobalt Strike Takedown)
-title_ko: 모르페우스 작전 (코발트 스트라이크 소탕)
+  start: 2024-06-28
+title: "Operation Morpheus (Cobalt Strike Takedown)"
+title_ko: "모르페우스 작전 (코발트 스트라이크 소탕)"
 type: operation
-updated: '2026-04-09'
+updated: 2026-04-09
+operation_role: umbrella
+parent_operation: ""
 ---
-
 > [!note] This operation is documented from a Tier 3 (cybersecurity media) source. Additional verification from official sources (Tier 1-2) would strengthen data reliability.
 
 ## Summary

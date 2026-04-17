@@ -3,17 +3,17 @@ type: operation
 title: "Curry and Brooke (Dark Web Proceeds Laundering) Enforcement Action"
 aliases:
   - "United States v. Curry and Brooke (Dark Web Proceeds Laundering)"
-case_id: "CYB-FUP-027"
+case_id: CYB-FUP-027
 period: 1
-operation_type: "conviction"
-status: "completed"
+operation_type: conviction
+status: completed
 enforcement_type:
   - conviction
-outcome: "success"
+outcome: success
 timeframe:
-  announced: "2019-10-02"
-  start: "2019"
-  end: "2019-10-02"
+  announced: 2019-10-02
+  start: 2019
+  end: 2019-10-02
   ongoing: false
 crime_type: "[[money-laundering-ic]]"
 target_entity: "Curry and Brooke (Dark Web Proceeds Laundering)"
@@ -21,7 +21,8 @@ lead_agency: "[[us-doj]]"
 coordinating_body: "[[us-doj]]"
 participating_countries:
   - "[[united-states]]"
-participating_agencies: []
+participating_agencies:
+  []
 legal_basis:
   - "[[money-laundering-statutes]]"
 mechanisms_used:
@@ -36,22 +37,28 @@ results:
   victims_notified: 0
   other:
     - "Defendant-specific follow-on action derived from [[us-v-curry-brooke-dark-web]]"
-edges: []
+edges:
+  []
 credibility_index: 4.0
 source_tier: 1
-missing_fields: []
+missing_fields:
+  []
 related_cases:
   - "[[us-v-curry-brooke-dark-web]]"
-related_operations: []
-challenges_encountered: []
-lessons_learned: []
+related_operations:
+  []
+challenges_encountered:
+  []
+lessons_learned:
+  []
 source_count: 1
 sources:
   - "[[2019-10-02_sdca_curry-brooke-dark-web-laundering-plea]]"
 created: 2026-04-17
 updated: 2026-04-17
+operation_role: follow-on
+parent_operation: ""
 ---
-
 ## Summary
 
 Curry and Brooke (Dark Web Proceeds Laundering) Enforcement Action is a defendant-specific enforcement action page derived from [[us-v-curry-brooke-dark-web]]. It captures the prosecutorial or seizure stage reflected in the linked case record and preserves the operation-side catalog entry for this follow-on action.

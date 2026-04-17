@@ -1,82 +1,64 @@
 ---
 aliases:
-- HAECHI V
-- HAECHI 5
+  []
 case_id: CYB-2024-009
-challenges_encountered: []
-coordinating_body: '[[interpol-igci]]'
+challenges_encountered:
+  []
+coordinating_body: "[[interpol-igci]]"
 created: 2026-04-08
 credibility_index: 2.28
-crime_type: '[[online-fraud-ic]]'
+crime_type: "[[online-fraud-ic]]"
 edges:
-- cooperation_type: joint_investigation
-  direction: undirected
-  legal_basis: unknown
-  source_actor: KNPA
-  target_actor: INTERPOL
-- cooperation_type: joint_investigation
-  direction: undirected
-  legal_basis: bilateral_MOU
-  source_actor: KNPA
-  target_actor: Chinese Public Security Bureau
+  []
 enforcement_type:
-- arrest
-- asset_freeze
-lead_agency: '[[interpol-igci]]'
-legal_basis: []
+  []
+lead_agency: "[[interpol-igci]]"
+legal_basis:
+  []
 lessons_learned:
-- Multi-country financial crime operations benefit from phased, series-based approaches
-  (HAECHI I through V)
-- Bilateral sub-operations within multilateral frameworks enable targeted enforcement
-mechanisms_used: []
+  []
+mechanisms_used:
+  []
 missing_fields:
-- legal_basis
-- mechanisms_used
-- full_participating_countries_list
+  []
 operation_type: arrest-sweep
 outcome: success
 participating_agencies:
-- '[[interpol-igci]]'
-- '[[knpa-cyber-bureau]]'
+  []
 participating_countries:
-- '[[south-korea]]'
+  []
 period: 3
-related_cases: []
+related_cases:
+  []
 related_operations:
-- '[[operation-serengeti]]'
-- '[[operation-synergia-ii]]'
-- '[[operation-haechi-iv]]'
-- '[[operation-haechi-vi]]'
+  []
 results:
   arrests: 5500
-  cryptocurrency_seized: ''
+  cryptocurrency_seized: ""
   decryption_keys_recovered: 0
   domains_seized: 0
   indictments: 0
   other:
-  - USD 400 million+ in assets seized (virtual assets and government-backed currencies)
-  - Korean-Chinese joint dismantling of voice phishing syndicate (USD 1.1B losses,
-    1,900+ victims)
+    []
   servers_seized: 0
   victims_notified: 0
 source_count: 1
 source_tier: 2
 sources:
-- '[[2024-12-02-interpol-operation-haechi-v]]'
-- '[[2024-12-02-digwatch-interpol-korea-5500-arrests]]'
+  []
 status: completed
-target_entity: Cyber-enabled financial crime networks (voice phishing, romance scams,
-  BEC, investment fraud, online gambling, e-commerce fraud)
+target_entity: "Cyber-enabled financial crime networks (voice phishing, romance scams,"
 timeframe:
-  announced: '2024-12-02'
+  announced: 2024-12-02
   end: 2024-11
   ongoing: false
   start: 2024-07
-title: Operation HAECHI V
+title: "Operation HAECHI V"
 type: operation
-updated: '2026-04-09'
+updated: 2026-04-09
+operation_role: umbrella
+parent_operation: ""
 ---
-
 ## Summary
 
 Operation HAECHI V was the fifth and largest iteration of INTERPOL's HAECHI series of operations targeting cyber-enabled financial crime. Running from July to November 2024, the operation involved law enforcement from **40 countries** and resulted in **5,500+ arrests** and the seizure of **USD 400 million+** in virtual assets and government-backed currencies. The operation targeted seven types of cyber-enabled fraud: voice phishing, romance scams, online sextortion, investment fraud, illegal online gambling, business email compromise (BEC), and e-commerce fraud.

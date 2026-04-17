@@ -1,32 +1,32 @@
 ---
 aliases:
-  []
+
 case_id: CYB-2021-054
 challenges_encountered:
-  []
+
 coordinating_body: ""
 created: 2026-04-08
 credibility_index: 2.55
 crime_type: "[[cybercrime-forum-ic]]"
 edges:
-  []
+
 enforcement_type:
-  []
+
 lead_agency: "[[us-doj]]"
 legal_basis:
-  []
+
 lessons_learned:
-  []
+
 mechanisms_used:
-  []
+
 missing_fields:
-  []
+
 operation_type: joint-investigation
 outcome: success
 participating_agencies:
-  []
+
 participating_countries:
-  []
+
 period: 2
 related_cases:
   - "[[us-v-dekhtyarchuk-marketplace-a]]"
@@ -39,13 +39,13 @@ results:
   domains_seized: 0
   indictments: 1
   other:
-    []
+
   servers_seized: 0
   victims_notified: 0
 source_count: 1
 source_tier: 3
 sources:
-  []
+
 status: completed
 target_entity: "Marketplace A operator (Dekhtyarchuk)"
 timeframe:
@@ -57,6 +57,8 @@ title: "Marketplace A — Dekhtyarchuk Indictment"
 title_ko: "마켓플레이스 A — 데크티아르축 기소"
 type: operation
 updated: 2026-04-08
+operation_role: umbrella
+parent_operation: ""
 ---
 > [!note] This operation is documented from a Tier 3 (cybersecurity media) source. Additional verification from official sources (Tier 1-2) would strengthen data reliability.
 
