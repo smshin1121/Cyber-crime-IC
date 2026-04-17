@@ -3,28 +3,27 @@ analysis_type: trend-report
 confidence: high
 created: 2026-04-08
 entities_referenced:
-- '[[europol-ec3]]'
-- '[[interpol-igci]]'
-- '[[fbi-cyber-division]]'
-- '[[south-korea]]'
+  - "[[europol-ec3]]"
+  - "[[interpol-igci]]"
+  - "[[fbi-cyber-division]]"
+  - "[[south-korea]]"
 generated_from: manual
 key_judgments:
-- confidence: high
-  judgment: Europol과 INTERPOL이 양대 조정 허브로 기능
-- confidence: high
-  judgment: INTERPOL 주도 작전이 체포 규모에서 압도적
-- confidence: high
-  judgment: 한국이 HAECHI 시리즈를 통해 아시아-태평양 국제공조의 핵심 행위자
-scope: 2014-2025 사이버범죄 국제공조 작전 통계 (위키 수집 데이터 기반)
+  - confidence: high
+    judgment: "Europol과 INTERPOL이 양대 조정 허브로 기능"
+  - confidence: high
+    judgment: "INTERPOL 주도 작전이 체포 규모에서 압도적"
+  - confidence: high
+    judgment: "한국이 HAECHI 시리즈를 통해 아시아-태평양 국제공조의 핵심 행위자"
+scope: "2014-2025 사이버범죄 국제공조 작전 통계 (위키 수집 데이터 기반)"
 sources_consulted: 122
-title: 사이버범죄 국제공조 통계 대시보드
+title: "사이버범죄 국제공조 통계 대시보드"
 type: analysis
-updated: '2026-04-14'
+updated: 2026-04-14
 ---
-
 # 사이버범죄 국제공조 통계 대시보드
 
-> [!info] 이 페이지의 모든 데이터는 위키에 수집된 108개 작전과 122개 출처 페이지에서 도출되었습니다. 작전 전체 목록은 [[operations/_index]]를 참조하십시오.
+> [!info] 이 페이지의 모든 데이터는 위키에 수집된 108개 작전과 122개 출처 페이지에서 도출되었습니다. 작전 전체 목록은 `wiki/operations/_index.md`를 참조하십시오.
 
 ---
 

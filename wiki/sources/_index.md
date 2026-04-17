@@ -6,7 +6,7 @@ created: 2026-04-08
 updated: 2026-04-14
 ---
 
-# Sources (122)
+# Sources (130)
 
 | Source | Type | Publisher | Tier | Reliability | Domain |
 |--------|------|-----------|------|-------------|--------|
@@ -19,19 +19,26 @@ updated: 2026-04-14
 | [[2025-09-25-interpol-operation-haechi-vi]] | press-release | INTERPOL | ? | high | ? |
 | [[2025-08-11-doj-blacksuit-royal-ransomware-takedown]] | press-release | US Department of Justice | ? | high | ? |
 | [[the-cyber-express-marketplace-a-dekhtyarchuk-indictment]] | news | The Cyber Express | 3 | medium | ? |
+| [[2025-05-28-thehackernews-danabot-malware]] | news | The Hacker News | ? | medium | ? |
 | [[the-hacker-news-operation-endgame-phase-2-ransomware-kill-chain-disrup]] | news | The Hacker News | 3 | medium | ? |
 | [[2025-05-23-europol-operation-endgame-phase2]] | press-release | Europol | ? | high | ? |
 | [[techxplore-911-s5-botnet-dismantling]] | news | TechXplore (syndicated from The Conversation) | 4 | medium | ? |
+| [[2025-05-22-europol-endgame-follow-up]] | press-release | Europol | ? | high | ? |
 | [[2025-05-22-doj-qakbot-gallyamov-indictment]] | press-release | US Department of Justice | ? | high | ? |
 | [[2025-04-07-korea-npa-operation-cyber-guardian]] | press-release | Korea Policy Briefing (korea.kr) / Seoul Shinmun | ? | high | ? |
 | [[2025-04-04-europol-operation-stream-kidflix]] | news | Security Affairs / TRM Labs | ? | medium | ? |
+| [[2025-04-01-interpol-operation-secure-infostealer]] | press-release | INTERPOL | ? | high | ? |
+| [[2025-03-24-interpol-operation-red-card]] | press-release | INTERPOL | ? | high | ? |
+| [[2025-03-24-africanews-operation-red-card]] | news | Africanews | ? | medium | ? |
 | [[2025-03-05-doj-isoon-chinese-hackers-charges]] | press-release | US Department of Justice | ? | high | ? |
 | [[cbs-news-hive-ransomware-infrastructure-takedown]] | news | CBS News | 3 | medium | ? |
 | [[2025-02-11-europol-phobos-8base-ransomware-arrests]] | press-release | Europol | ? | high | ? |
 | [[2025-02-04-allahrakha-cross-border-e-crimes]] | academic-paper | ADLIYA: Jurnal Hukum dan Kemanusiaan | ? | medium-high | ? |
 | [[hackread-operation-avalanche]] | news | Hackread | 4 | medium | ? |
+| [[2025-01-30-europol-operation-talent]] | press-release | Europol | ? | high | ? |
 | [[europol-fraudulent-shopping-sites-takedown]] | press-release | Europol | 2 | high | ? |
 | [[2024-12-02-interpol-operation-haechi-v]] | press-release | INTERPOL | ? | high | ? |
+| [[2024-12-02-digwatch-interpol-korea-5500-arrests]] | news | DigWatch | ? | medium | ? |
 | [[2024-11-26-interpol-operation-serengeti]] | press-release | INTERPOL | ? | high | ? |
 | [[2024-11-06-interpol-operation-synergia-ii]] | press-release | INTERPOL | ? | high | ? |
 | [[2024-10-15-interpol-operation-orion-international]] | press-release | INTERPOL | ? | high | ? |
@@ -48,6 +55,7 @@ updated: 2026-04-14
 | [[bbc-911-s5-botnet-dismantling-1]] | press-release | US Department of Justice | 1 | high | ? |
 | [[bbc-911-s5-botnet-dismantling]] | news | BBC | 4 | medium | ? |
 | [[2024-04-15-bitdefender-zambia-golden-top-arrests]] | news | Bitdefender (Hot for Security blog) | ? | medium | ? |
+| [[2024-04-01-interpol-operation-contender-2]] | press-release | INTERPOL | ? | high | ? |
 | [[the-record-911-s5-botnet-dismantling]] | news | The Record from Recorded Future News | 3 | medium-high | ? |
 | [[2024-02-20-europol-operation-cronos-lockbit]] | press-release | Europol | ? | high | ? |
 | [[2023-12-19-interpol-operation-haechi-iv]] | press-release | INTERPOL | ? | high | ? |
