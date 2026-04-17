@@ -8,7 +8,7 @@ import re
 from collections import defaultdict
 from datetime import date
 from pathlib import Path
-from typing import Any
+from typing import Any, Dict
 
 import frontmatter
 
@@ -20,12 +20,12 @@ TODAY = date.today().isoformat()
 # Data collection
 # ---------------------------------------------------------------------------
 
-def collect_stats() -> dict[str, Any]:
+def collect_stats() -> Dict[str, Any]:
     """Scan all wiki pages and compute aggregate statistics."""
     ops_dir = WIKI_DIR / "operations"
     src_dir = WIKI_DIR / "sources"
 
-    stats: dict[str, Any] = {
+    stats: Dict[str, Any] = {
         "total_ops": 0,
         "period_counts": defaultdict(int),      # period -> count
         "coordinator_counts": defaultdict(int),  # coordinator -> count
@@ -166,7 +166,7 @@ def _normalize_coordinator(raw: str) -> str:
 # Update overview.md
 # ---------------------------------------------------------------------------
 
-def update_overview(stats: dict[str, Any]) -> int:
+def update_overview(stats: Dict[str, Any]) -> int:
     """Update the Cooperation Statistics table in overview.md. Returns changes count."""
     fp = WIKI_DIR / "overview.md"
     post = frontmatter.load(fp)
@@ -219,6 +219,15 @@ def update_overview(stats: dict[str, Any]) -> int:
         content,
     )
 
+    content = re.sub(
+        r"All statistics in this overview are aggregated from the \d+ operation pages and \d+ source pages in the wiki\.",
+        (
+            "All statistics in this overview are aggregated from the "
+            f"{total_ops} operation pages and {stats['total_sources']} source pages in the wiki."
+        ),
+        content,
+    )
+
     post.content = content
     post.metadata["updated"] = TODAY
     fp.write_text(frontmatter.dumps(post), encoding="utf-8")
@@ -240,7 +249,7 @@ def _source_summary(stats: dict) -> str:
 # Update ic-statistics-dashboard.md
 # ---------------------------------------------------------------------------
 
-def update_dashboard(stats: dict[str, Any]) -> int:
+def update_dashboard(stats: Dict[str, Any]) -> int:
     """Update the statistics dashboard page. Returns changes count."""
     fp = WIKI_DIR / "analysis" / "ic-statistics-dashboard.md"
     if not fp.exists():

@@ -47,10 +47,6 @@
       </h1>
       <div class="article-meta">
         
-          <span class="badge">
-            <span class="i18n" data-ko="operation" data-en="operation"></span>
-          </span>
-        
         
           <span><a href="../../category/operations.html">
             <span class="i18n"
@@ -59,14 +55,6 @@
           </a></span>
         
         
-          <span>
-            <span class="i18n" data-ko="최종 수정" data-en="Updated"></span>: 2026-04-10
-          </span>
-        
-        
-          <span>
-            <span class="i18n" data-ko="출처" data-en="Sources"></span>: 1<span class="i18n" data-ko="건" data-en=""></span>
-          </span>
         
       </div>
     </div>
@@ -300,7 +288,57 @@
 <p><strong>감염 수 방법론</strong>: 394,000건의 수치는 특정 2개월 기간(2025년 3월 16일~5월 16일)을 포함하며 <em>아마도</em> Lumma에 감염된 총 시스템 수를 과소평가한 것 같습니다.</p>
 </li>
 </ol></div>
-        <div class="en-block"><h2 id="summary"><span class="heading-ko">개요</span><span class="heading-en">Summary</span></h2>
+        <div class="en-block"><p>﻿---
+type: operation
+title: "Lumma Stealer Takedown"
+aliases: ["LummaC2 Disruption", "Lumma Stealer Disruption"]
+operation_type: "takedown"
+status: "completed"
+enforcement_type:
+  - seizure
+  - takedown
+outcome: "success"
+timeframe:
+  announced: "2025-05-21"
+  start: "2025-05-13"
+  end: "2025-05-21"
+  ongoing: false
+crime_type: "<a href="../../wiki/crime-types/hacking-ic.html" class="wikilink">Hacking / Malware Distribution</a>"
+target_entity: "Lumma Stealer (LummaC2) — Malware-as-a-Service infostealer platform"
+lead_agency: "<a href="../../wiki/organizations/us-doj.html" class="wikilink">U.S. Department of Justice</a>"
+coordinating_body: "<a href="../../wiki/organizations/europol-ec3.html" class="wikilink">Europol EC3</a>"
+participating_countries:
+  - "<a href="../../wiki/countries/united-states.html" class="wikilink">United States</a>"
+  - "<a href="../../wiki/countries/japan.html" class="wikilink">Japan</a>"
+participating_agencies:
+  - "<a href="../../wiki/organizations/us-doj.html" class="wikilink">U.S. Department of Justice</a>"
+  - "<a href="../../wiki/organizations/fbi-cyber-division.html" class="wikilink">FBI Cyber Division</a>"
+  - "<a href="../../wiki/organizations/europol-ec3.html" class="wikilink">Europol EC3</a>"
+  - "<a href="../../wiki/organizations/japan-npa.html" class="wikilink">Japan Cybercrime Control Center (JC3)</a>"
+legal_basis:
+  - "<a href="../../wiki/legal-frameworks/budapest-convention.html" class="wikilink">Budapest Convention</a>"
+mechanisms_used:
+  - "<a href="../../wiki/mechanisms/public-private-cooperation.html" class="wikilink">Public-Private Cooperation</a>"
+  - "<a href="../../wiki/mechanisms/informal-cooperation.html" class="wikilink">Informal Law Enforcement Cooperation</a>"
+results:
+  arrests: 0
+  indictments: 0
+  servers_seized: 0
+  domains_seized: 2300
+  cryptocurrency_seized: ""
+  other:
+    - "1,300+ domains redirected to Microsoft sinkholes"
+    - "300 domains actioned by law enforcement with Europol support"
+    - "5 core domains seized by DOJ warrant"
+    - "394,000+ infected Windows computers identified (Mar-May 2025)"
+    - "1.7 million instances of credential theft identified by FBI"
+source_count: 1
+sources:
+  - "<a href="https://techxplore.com/news/2025-05-global-malware-federal-court-georgia.html" target="_blank" rel="noopener noreferrer">TechXplore — Global malware federal court Georgia</a>"
+created: 2025-05-21
+updated: 2026-04-10</p>
+<hr />
+<h2 id="summary"><span class="heading-ko">개요</span><span class="heading-en">Summary</span></h2>
 <p>The Lumma Stealer Takedown was a major public-private operation announced on May 21, 2025, that disrupted the infrastructure of <strong>Lumma Stealer (LummaC2)</strong>, one of the world's most widely used information-stealing malware platforms. Microsoft's Digital Crimes Unit (DCU) led the civil legal action, obtaining a court order from the U.S. District Court for the Northern District of Georgia, while the <a href="../../wiki/organizations/us-doj.html" class="wikilink">U.S. Department of Justice</a> unsealed warrants to seize five core domains. <a href="../../wiki/organizations/europol-ec3.html" class="wikilink">Europol's EC3</a> coordinated European law enforcement, and Japan's Cybercrime Control Center (JC3) facilitated the suspension of locally based infrastructure.</p>
 <p>The operation resulted in the seizure or sinkholing of approximately <strong>2,300 malicious domains</strong> that formed Lumma's command-and-control (C2) network, severing communications between the malware and an estimated <strong>394,000+ infected Windows computers</strong> worldwide.</p>
 <p>This operation is <em>highly likely</em> one of the largest public-private takedowns of an infostealer infrastructure to date, notable for its reliance on civil court orders (Microsoft) in parallel with criminal warrants (DOJ).</p>
@@ -501,6 +539,11 @@ Post-takedown reporting (as of late May 2025) indicated that Lumma Stealer opera
 </li>
 </ol>
 <h2 id="follow-up-actions"><span class="heading-ko">후속 조치</span><span class="heading-en">Follow-Up Actions</span></h2>
+<div class="callout callout-warning"><div class="callout-title">⚠️ No public court documents found
+Web search (2026-04-17) yielded no publicly accessible court filings
+for this operation. Possible reasons: non-US jurisdiction with no
+public court records system, sealed proceedings, or operation did
+not result in formal prosecution.</div><div class="callout-body"></div></div>
 <ul>
 <li>Ongoing monitoring of sinkholed domains for callback traffic</li>
 <li>Data from seized infrastructure expected to support further investigations</li>
@@ -533,114 +576,6 @@ Post-takedown reporting (as of late May 2025) indicated that Lumma Stealer opera
   </main>
 
   <aside class="sidebar">
-    
-    <div class="infobox">
-      <div class="infobox-header">
-        
-          Lumma Stealer Takedown
-        
-      </div>
-      <table>
-        
-        <tr>
-          <th>
-            <span class="heading-ko">유형</span>
-            <span class="heading-en">Type</span>
-          </th>
-          <td>
-            
-              <span class="heading-ko">작전</span>
-              <span class="heading-en">Operation</span>
-            
-          </td>
-        </tr>
-        
-        <tr>
-          <th>
-            <span class="heading-ko">상태</span>
-            <span class="heading-en">Status</span>
-          </th>
-          <td>
-            
-              completed
-            
-          </td>
-        </tr>
-        
-        <tr>
-          <th>
-            <span class="heading-ko">작전유형</span>
-            <span class="heading-en">Op Type</span>
-          </th>
-          <td>
-            
-              takedown
-            
-          </td>
-        </tr>
-        
-        <tr>
-          <th>
-            <span class="heading-ko">기간</span>
-            <span class="heading-en">Period</span>
-          </th>
-          <td>
-            
-              announced: 2025-05-21, start: 2025-05-13, end: 2025-05-21
-            
-          </td>
-        </tr>
-        
-        <tr>
-          <th>
-            <span class="heading-ko">주도기관</span>
-            <span class="heading-en">Lead Agency</span>
-          </th>
-          <td>
-            
-              [[us-doj|U.S. Department of Justice]]
-            
-          </td>
-        </tr>
-        
-        <tr>
-          <th>
-            <span class="heading-ko">범죄유형</span>
-            <span class="heading-en">Crime Type</span>
-          </th>
-          <td>
-            
-              [[hacking-ic|Hacking / Malware Distribution]]
-            
-          </td>
-        </tr>
-        
-        <tr>
-          <th>
-            <span class="heading-ko">도메인 압수</span>
-            <span class="heading-en">Domains Seized</span>
-          </th>
-          <td>
-            
-              2300
-            
-          </td>
-        </tr>
-        
-        <tr>
-          <th>
-            <span class="heading-ko">출처 수</span>
-            <span class="heading-en">Sources</span>
-          </th>
-          <td>
-            
-              1
-            
-          </td>
-        </tr>
-        
-      </table>
-    </div>
     
 
     <div class="cat-nav">
@@ -759,8 +694,8 @@ Post-takedown reporting (as of late May 2025) indicated that Lumma Stealer opera
 
   <div class="footer">
     <span class="i18n"
-      data-ko="사이버범죄 국제공조 위키 &mdash; LLM Wiki Pattern &mdash; 2026-04-14 기준 데이터"
-      data-en="Cybercrime International Cooperation Wiki &mdash; LLM Wiki Pattern &mdash; Data as of 2026-04-14">
+      data-ko="사이버범죄 국제공조 위키 &mdash; LLM Wiki Pattern &mdash; 2026-04-17 기준 데이터"
+      data-en="Cybercrime International Cooperation Wiki &mdash; LLM Wiki Pattern &mdash; Data as of 2026-04-17">
     </span>
   </div>
 

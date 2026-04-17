@@ -127,7 +127,7 @@ sources:
   - "[7] The Hacker News: FBI Puts $5 Million Bounty (2019-12-05)"
   - "[8] Dell SecureWorks: Dridex (Bugat v5) Botnet Takeover Operation (2015-10)"
 created: 2026-04-10
-updated: 2026-04-12
+updated: 2026-04-17
 ---
 
 ## Summary

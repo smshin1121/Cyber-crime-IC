@@ -47,10 +47,6 @@
       </h1>
       <div class="article-meta">
         
-          <span class="badge">
-            <span class="i18n" data-ko="operation" data-en="operation"></span>
-          </span>
-        
         
           <span><a href="../../category/operations.html">
             <span class="i18n"
@@ -58,10 +54,6 @@
               data-en="Operations"></span>
           </a></span>
         
-        
-          <span>
-            <span class="i18n" data-ko="최종 수정" data-en="Updated"></span>: 2026-04-08
-          </span>
         
         
       </div>
@@ -126,7 +118,117 @@ Excel 데이터의 59행에는 미국의 참여를 확인하는 DOJ 보도 자�
 <li>체포로 인해 추가 기소가 발생했는지 여부는 아직 알려지지 않았습니다.</li>
 <li>Tier 1 법률 문서 데이터를 추가하려면 DOJ 소스(59행, Justice.gov)를 가져와야 합니다.</li>
 </ul></div>
-        <div class="en-block"><h1 id="operation-talent">Operation Talent</h1>
+        <div class="en-block"><p>﻿---
+aliases:
+- Talent
+case_id: CYB-2025-011
+challenges_encountered: []
+coordinating_body: '<a href="../../wiki/organizations/europol-ec3.html" class="wikilink">europol-ec3</a>'
+created: 2026-04-08
+credibility_index: 2.28
+crime_type: '<a href="../../wiki/crime-types/hacking-ic.html" class="wikilink">hacking-ic</a>'
+edges:
+- cooperation_type: joint_investigation
+  direction: undirected
+  legal_basis: unknown
+  source_actor: Germany BKA
+  target_actor: Europol
+- cooperation_type: joint_investigation
+  direction: undirected
+  legal_basis: MLAT
+  source_actor: FBI
+  target_actor: Germany BKA
+- cooperation_type: joint_investigation
+  direction: undirected
+  legal_basis: unknown
+  source_actor: Germany BKA
+  target_actor: Greece Police
+- cooperation_type: joint_investigation
+  direction: undirected
+  legal_basis: unknown
+  source_actor: Germany BKA
+  target_actor: Spain Police
+- cooperation_type: joint_investigation
+  direction: undirected
+  legal_basis: unknown
+  source_actor: Germany BKA
+  target_actor: France Police
+- cooperation_type: joint_investigation
+  direction: undirected
+  legal_basis: unknown
+  source_actor: Germany BKA
+  target_actor: Romania Police
+- cooperation_type: joint_investigation
+  direction: undirected
+  legal_basis: unknown
+  source_actor: Germany BKA
+  target_actor: Italy Police
+- cooperation_type: joint_investigation
+  direction: undirected
+  legal_basis: unknown
+  source_actor: Germany BKA
+  target_actor: Australia AFP
+enforcement_type:
+- arrest
+- takedown
+- seizure
+lead_agency: '<a href="../../wiki/organizations/germany-bka.html" class="wikilink">germany-bka</a>'
+legal_basis: []
+lessons_learned: []
+mechanisms_used: []
+missing_fields:
+- legal_basis
+- mechanisms_used
+- cryptocurrency_seized
+- servers_seized_count
+operation_type: takedown
+outcome: success
+participating_agencies:
+- '<a href="../../wiki/organizations/germany-bka.html" class="wikilink">germany-bka</a>'
+- '<a href="../../wiki/organizations/europol-ec3.html" class="wikilink">europol-ec3</a>'
+- '<a href="../../wiki/organizations/fbi-cyber-division.html" class="wikilink">fbi-cyber-division</a>'
+participating_countries:
+- '<a href="../../wiki/countries/germany.html" class="wikilink">germany</a>'
+- '<a href="../../wiki/countries/united-states.html" class="wikilink">united-states</a>'
+- '<a href="../../wiki/countries/greece.html" class="wikilink">greece</a>'
+- '<a href="../../wiki/countries/spain.html" class="wikilink">spain</a>'
+- '<a href="../../wiki/countries/france.html" class="wikilink">france</a>'
+- '<a href="../../wiki/countries/romania.html" class="wikilink">romania</a>'
+- '<a href="../../wiki/countries/italy.html" class="wikilink">italy</a>'
+- '<a href="../../wiki/countries/australia.html" class="wikilink">australia</a>'
+period: 3
+related_cases: []
+related_operations: []
+results:
+  arrests: 2
+  cryptocurrency_seized: ''
+  decryption_keys_recovered: 0
+  domains_seized: 0
+  indictments: 0
+  other:
+  - Cracked forum dismantled (4M+ users)
+  - Nulled forum dismantled (5M+ users)
+  - Related services seized (payment, hosting)
+  - Annual criminal revenue EUR 1M+
+  servers_seized: 0
+  victims_notified: 0
+source_count: 0
+source_tier: 2
+sources:
+- '<a href="../../wiki/sources/2025-01-30-europol-operation-talent.html" class="wikilink">2025-01-30-europol-operation-talent</a>'
+status: completed
+target_entity: Cracked and Nulled cybercrime forums — world's two largest cybercrime
+  marketplaces
+timeframe:
+  announced: '2025-01-30'
+  end: '2025-01-30'
+  ongoing: false
+  start: '2025-01-28'
+title: Operation Talent
+type: operation
+updated: 2026-04-08</p>
+<hr />
+<h1 id="operation-talent">Operation Talent</h1>
 <h2 id="summary"><span class="heading-ko">개요</span><span class="heading-en">Summary</span></h2>
 <p>Operation Talent was a German-led international law enforcement operation conducted on January 28-30, 2025, that dismantled the world's two largest cybercrime forums: <strong>Cracked</strong> (4 million+ users) and <strong>Nulled</strong> (5 million+ users). The operation was coordinated by Germany's BKA with Europol support and participation from 8 countries, resulting in 2 arrests and the takedown of associated criminal services including payment processing and hosting infrastructure.</p>
 <p>The forums served as marketplaces for stolen credentials, hacking tools, malware, AI-powered attack tools, and cybercrime-as-a-service offerings, generating over EUR 1 million in annual criminal revenue.</p>
@@ -183,108 +285,18 @@ Row 59 of Excel data contains a DOJ press release (justice.gov) confirming US pa
 <li>Exact number of servers seized and infrastructure details not specified in available Europol source.</li>
 <li>Whether arrests led to further indictments is not yet known.</li>
 <li>The DOJ source (row 59, justice.gov) should be fetched to add Tier 1 legal document data.</li>
-</ul></div>
+</ul>
+<h2 id="follow-up-actions"><span class="heading-ko">후속 조치</span><span class="heading-en">Follow-Up Actions</span></h2>
+<div class="callout callout-warning"><div class="callout-title">⚠️ No public court documents found
+Web search (2026-04-17) yielded no publicly accessible court filings
+for this operation. Possible reasons: non-US jurisdiction with no
+public court records system, sealed proceedings, or operation did
+not result in formal prosecution.</div><div class="callout-body"></div></div></div>
       
     </div>
   </main>
 
   <aside class="sidebar">
-    
-    <div class="infobox">
-      <div class="infobox-header">
-        
-          Operation Talent
-        
-      </div>
-      <table>
-        
-        <tr>
-          <th>
-            <span class="heading-ko">유형</span>
-            <span class="heading-en">Type</span>
-          </th>
-          <td>
-            
-              <span class="heading-ko">작전</span>
-              <span class="heading-en">Operation</span>
-            
-          </td>
-        </tr>
-        
-        <tr>
-          <th>
-            <span class="heading-ko">상태</span>
-            <span class="heading-en">Status</span>
-          </th>
-          <td>
-            
-              completed
-            
-          </td>
-        </tr>
-        
-        <tr>
-          <th>
-            <span class="heading-ko">작전유형</span>
-            <span class="heading-en">Op Type</span>
-          </th>
-          <td>
-            
-              takedown
-            
-          </td>
-        </tr>
-        
-        <tr>
-          <th>
-            <span class="heading-ko">기간</span>
-            <span class="heading-en">Period</span>
-          </th>
-          <td>
-            
-              announced: 2025-01-30, end: 2025-01-30, start: 2025-01-28
-            
-          </td>
-        </tr>
-        
-        <tr>
-          <th>
-            <span class="heading-ko">주도기관</span>
-            <span class="heading-en">Lead Agency</span>
-          </th>
-          <td>
-            
-              [[germany-bka]]
-            
-          </td>
-        </tr>
-        
-        <tr>
-          <th>
-            <span class="heading-ko">범죄유형</span>
-            <span class="heading-en">Crime Type</span>
-          </th>
-          <td>
-            
-              [[hacking-ic]]
-            
-          </td>
-        </tr>
-        
-        <tr>
-          <th>
-            <span class="heading-ko">체포</span>
-            <span class="heading-en">Arrests</span>
-          </th>
-          <td>
-            
-              2
-            
-          </td>
-        </tr>
-        
-      </table>
-    </div>
     
 
     <div class="cat-nav">
@@ -403,8 +415,8 @@ Row 59 of Excel data contains a DOJ press release (justice.gov) confirming US pa
 
   <div class="footer">
     <span class="i18n"
-      data-ko="사이버범죄 국제공조 위키 &mdash; LLM Wiki Pattern &mdash; 2026-04-14 기준 데이터"
-      data-en="Cybercrime International Cooperation Wiki &mdash; LLM Wiki Pattern &mdash; Data as of 2026-04-14">
+      data-ko="사이버범죄 국제공조 위키 &mdash; LLM Wiki Pattern &mdash; 2026-04-17 기준 데이터"
+      data-en="Cybercrime International Cooperation Wiki &mdash; LLM Wiki Pattern &mdash; Data as of 2026-04-17">
     </span>
   </div>
 

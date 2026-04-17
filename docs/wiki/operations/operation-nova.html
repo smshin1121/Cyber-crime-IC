@@ -3,7 +3,7 @@
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Operation Nova (Safe-Inet VPN Takedown) — 사이버범죄 국제공조 위키</title>
+  <title>Operation Nova — 사이버범죄 국제공조 위키</title>
   <link rel="stylesheet" href="../../static/style.css">
   <link rel="preconnect" href="https://fonts.googleapis.com">
   <link href="https://fonts.googleapis.com/css2?family=Noto+Sans+KR:wght@400;600;700&family=Noto+Serif+KR:wght@400;700&display=swap" rel="stylesheet">
@@ -42,15 +42,10 @@
     <div class="article-header">
       <h1>
         
-          <span class="heading-ko">노바 작전 (Safe-Inet VPN 소탕)</span>
-          <span class="heading-en">Operation Nova (Safe-Inet VPN Takedown)</span>
+          Operation Nova
         
       </h1>
       <div class="article-meta">
-        
-          <span class="badge">
-            <span class="i18n" data-ko="operation" data-en="operation"></span>
-          </span>
         
         
           <span><a href="../../category/operations.html">
@@ -60,14 +55,6 @@
           </a></span>
         
         
-          <span>
-            <span class="i18n" data-ko="최종 수정" data-en="Updated"></span>: 2026-04-09
-          </span>
-        
-        
-          <span>
-            <span class="i18n" data-ko="출처" data-en="Sources"></span>: 3<span class="i18n" data-ko="건" data-en=""></span>
-          </span>
         
       </div>
     </div>
@@ -188,7 +175,85 @@
 </tr>
 </tbody>
 </table></div>
-        <div class="en-block"><div class="callout callout-note"><div class="callout-title">📝 This operation is documented from a Tier 3 (cybersecurity media) source. Additional verification from official sources (Tier 1-2) would strengthen data reliability.</div><div class="callout-body"></div></div>
+        <div class="en-block"><p>﻿---
+aliases:
+- Operation Nova
+- Safe-Inet takedown
+case_id: CYB-2020-050
+challenges_encountered: []
+coordinating_body: '<a href="../../wiki/organizations/europol-ec3.html" class="wikilink">europol-ec3</a>'
+created: 2026-04-08
+credibility_index: 2.55
+crime_type: '<a href="../../wiki/crime-types/cybercrime-infrastructure-ic.html" class="wikilink">cybercrime-infrastructure-ic</a>'
+edges:
+- cooperation_type: joint_investigation
+  direction: undirected
+  legal_basis: unknown
+  source_actor: Germany BKA
+  target_actor: Europol
+- cooperation_type: joint_investigation
+  direction: undirected
+  legal_basis: unknown
+  source_actor: FBI
+  target_actor: Europol
+enforcement_type:
+- seizure
+- takedown
+lead_agency: '<a href="../../wiki/organizations/germany-bka.html" class="wikilink">germany-bka</a>'
+legal_basis: []
+lessons_learned:
+- Targeting cybercrime infrastructure (bulletproof hosting/VPN) can disrupt multiple
+  criminal groups simultaneously
+mechanisms_used: []
+missing_fields:
+- legal_basis
+- mechanisms_used
+operation_type: infrastructure-seizure
+outcome: success
+participating_agencies:
+- '<a href="../../wiki/organizations/germany-bka.html" class="wikilink">germany-bka</a>'
+- '<a href="../../wiki/organizations/fbi-cyber-division.html" class="wikilink">fbi-cyber-division</a>'
+- '<a href="../../wiki/organizations/europol-ec3.html" class="wikilink">europol-ec3</a>'
+participating_countries:
+- '<a href="../../wiki/countries/germany.html" class="wikilink">germany</a>'
+- '<a href="../../wiki/countries/united-states.html" class="wikilink">united-states</a>'
+- '<a href="../../wiki/countries/netherlands.html" class="wikilink">netherlands</a>'
+- '<a href="../../wiki/countries/switzerland.html" class="wikilink">switzerland</a>'
+- '<a href="../../wiki/countries/france.html" class="wikilink">france</a>'
+period: 2
+related_cases: []
+related_operations: []
+results:
+  arrests: 0
+  cryptocurrency_seized: ''
+  decryption_keys_recovered: 0
+  domains_seized: 3
+  indictments: 0
+  other:
+  - Safe-Inet VPN service shut down
+  - Service had been active for over a decade
+  - Used by ransomware operators, Magecart skimmers, and other cybercriminals
+  servers_seized: 3
+  victims_notified: 0
+source_count: 3
+source_tier: 3
+sources:
+- tier3-cyberscoop-safe-inet-2020
+- tier3-portswigger-safe-inet-2020
+- tier3-cybersecuritynews-safe-inet-2020
+status: completed
+target_entity: Safe-Inet bulletproof VPN service
+timeframe:
+  announced: '2020-12-22'
+  end: '2020-12-22'
+  ongoing: false
+  start: '2020-12-22'
+title: Operation Nova (Safe-Inet VPN Takedown)
+title_ko: 노바 작전 (Safe-Inet VPN 소탕)
+type: operation
+updated: '2026-04-09'</p>
+<hr />
+<div class="callout callout-note"><div class="callout-title">📝 This operation is documented from a Tier 3 (cybersecurity media) source. Additional verification from official sources (Tier 1-2) would strengthen data reliability.</div><div class="callout-body"></div></div>
 <h2 id="summary"><span class="heading-ko">개요</span><span class="heading-en">Summary</span></h2>
 <p><strong>Operation Nova</strong> was an international law enforcement action that took down <strong>Safe-Inet</strong>, a bulletproof VPN service that had operated for over a decade. The operation was led by <a href="../../wiki/organizations/germany-bka.html" class="wikilink">German BKA</a> and coordinated by <a href="../../wiki/organizations/europol-ec3.html" class="wikilink">Europol</a>, with participation from the FBI and law enforcement agencies in the Netherlands, Switzerland, and France. The service had been used by ransomware operators, Magecart web skimmers, and other cybercriminals to conceal their identities and locations.</p>
 <p>The takedown of Safe-Inet represented an infrastructure-focused approach to cybercrime disruption, targeting the enabling services rather than individual criminal groups.</p>
@@ -274,6 +339,12 @@
 <li>What was the technical method for identifying and seizing the infrastructure?</li>
 <li>Did the takedown lead to any follow-up investigations against the service's users?</li>
 </ul>
+<h2 id="follow-up-actions"><span class="heading-ko">후속 조치</span><span class="heading-en">Follow-Up Actions</span></h2>
+<div class="callout callout-warning"><div class="callout-title">⚠️ No public court documents found
+Web search (2026-04-17) yielded no publicly accessible court filings
+for this operation. Possible reasons: non-US jurisdiction with no
+public court records system, sealed proceedings, or operation did
+not result in formal prosecution.</div><div class="callout-body"></div></div>
 <h2 id="references"><span class="heading-ko">참고문헌</span><span class="heading-en">References</span></h2>
 <table>
 <thead>
@@ -314,127 +385,6 @@
   </main>
 
   <aside class="sidebar">
-    
-    <div class="infobox">
-      <div class="infobox-header">
-        
-          <span class="heading-ko">노바 작전 (Safe-Inet VPN 소탕)</span>
-          <span class="heading-en">Operation Nova (Safe-Inet VPN Takedown)</span>
-        
-      </div>
-      <table>
-        
-        <tr>
-          <th>
-            <span class="heading-ko">유형</span>
-            <span class="heading-en">Type</span>
-          </th>
-          <td>
-            
-              <span class="heading-ko">작전</span>
-              <span class="heading-en">Operation</span>
-            
-          </td>
-        </tr>
-        
-        <tr>
-          <th>
-            <span class="heading-ko">상태</span>
-            <span class="heading-en">Status</span>
-          </th>
-          <td>
-            
-              completed
-            
-          </td>
-        </tr>
-        
-        <tr>
-          <th>
-            <span class="heading-ko">작전유형</span>
-            <span class="heading-en">Op Type</span>
-          </th>
-          <td>
-            
-              infrastructure-seizure
-            
-          </td>
-        </tr>
-        
-        <tr>
-          <th>
-            <span class="heading-ko">기간</span>
-            <span class="heading-en">Period</span>
-          </th>
-          <td>
-            
-              announced: 2020-12-22, end: 2020-12-22, start: 2020-12-22
-            
-          </td>
-        </tr>
-        
-        <tr>
-          <th>
-            <span class="heading-ko">주도기관</span>
-            <span class="heading-en">Lead Agency</span>
-          </th>
-          <td>
-            
-              [[germany-bka]]
-            
-          </td>
-        </tr>
-        
-        <tr>
-          <th>
-            <span class="heading-ko">범죄유형</span>
-            <span class="heading-en">Crime Type</span>
-          </th>
-          <td>
-            
-              [[cybercrime-infrastructure-ic]]
-            
-          </td>
-        </tr>
-        
-        <tr>
-          <th>
-            <span class="heading-ko">서버 압수</span>
-            <span class="heading-en">Servers Seized</span>
-          </th>
-          <td>
-            
-              3
-            
-          </td>
-        </tr>
-        
-        <tr>
-          <th>
-            <span class="heading-ko">도메인 압수</span>
-            <span class="heading-en">Domains Seized</span>
-          </th>
-          <td>
-            
-              3
-            
-          </td>
-        </tr>
-        
-        <tr>
-          <th>
-            <span class="heading-ko">출처 수</span>
-            <span class="heading-en">Sources</span>
-          </th>
-          <td>
-            
-              3
-            
-          </td>
-        </tr>
-        
-      </table>
-    </div>
     
 
     <div class="cat-nav">
@@ -553,8 +503,8 @@
 
   <div class="footer">
     <span class="i18n"
-      data-ko="사이버범죄 국제공조 위키 &mdash; LLM Wiki Pattern &mdash; 2026-04-14 기준 데이터"
-      data-en="Cybercrime International Cooperation Wiki &mdash; LLM Wiki Pattern &mdash; Data as of 2026-04-14">
+      data-ko="사이버범죄 국제공조 위키 &mdash; LLM Wiki Pattern &mdash; 2026-04-17 기준 데이터"
+      data-en="Cybercrime International Cooperation Wiki &mdash; LLM Wiki Pattern &mdash; Data as of 2026-04-17">
     </span>
   </div>
 

@@ -3,8 +3,19 @@
 """
 import os
 import re
+import site
+import sys
 from pathlib import Path
 from datetime import datetime
+from typing import Dict
+
+vendor_site = Path(__file__).resolve().parent.parent / ".vendor"
+if vendor_site.is_dir():
+    sys.path.insert(0, str(vendor_site))
+
+user_site = site.getusersitepackages()
+if user_site and user_site not in sys.path:
+    sys.path.append(user_site)
 
 import frontmatter
 import markdown
@@ -288,7 +299,12 @@ def render_markdown(text):
     text = convert_wikilinks(text)
     html = markdown.markdown(
         text,
-        extensions=["tables", "fenced_code", "toc", "attr_list"],
+        extensions=[
+            "markdown.extensions.tables",
+            "markdown.extensions.fenced_code",
+            "markdown.extensions.toc",
+            "markdown.extensions.attr_list",
+        ],
         extension_configs={"toc": {"toc_depth": "2-3"}}
     )
     html = convert_callouts(html)
@@ -1015,7 +1031,7 @@ def _gen_ko_analysis(meta: dict, en: str) -> str:
 
 
 # Translation cache loaded once at startup / build time
-_translation_cache: dict[str, str] = {}
+_translation_cache: Dict[str, str] = {}
 
 
 def load_translation_cache() -> None:
@@ -1026,7 +1042,7 @@ def load_translation_cache() -> None:
         import json
         raw = json.loads(cache_file.read_text(encoding="utf-8"))
         # Build slug -> translated_content mapping (use latest hash)
-        by_slug: dict[str, str] = {}
+        by_slug: Dict[str, str] = {}
         for key, val in raw.items():
             slug = key.rsplit(":", 1)[0]
             by_slug[slug] = val
