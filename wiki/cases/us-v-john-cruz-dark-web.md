@@ -4,25 +4,28 @@ title: "United States v. John Cruz (Counterfeit Xanax Dark Web Vendor)"
 case_number: "E.D. Mo. counterfeit Xanax sentencing"
 jurisdiction: "U.S. District Court, Eastern District of Missouri"
 jurisdiction_country: "[[united-states]]"
-case_type: "prosecution"
-status: "sentenced"
+case_type: prosecution
+status: sentenced
 crime_charged:
   - "[[counterfeit-goods]]"
   - "[[drug-trafficking]]"
 defendants:
   - name: "John Cruz"
-    nationality: "American"
-    status: "sentenced"
+    nationality: American
+    status: sentenced
     sentence: "54 months"
     location_at_arrest: "New York, United States"
-related_operation: ""
+related_operation: "[[operation-us-v-john-cruz-dark-web]]"
 ic_elements:
-  mlat_requests: []
+  mlat_requests:
+    []
   extradition: ""
   evidence_from_abroad:
     - "Dark web storefront and pill-distribution evidence"
-  foreign_arrests: []
-  asset_freezing: []
+  foreign_arrests:
+    []
+  asset_freezing:
+    []
 cooperating_agencies:
   - "[[us-doj]]"
 legal_frameworks_invoked:
@@ -39,7 +42,6 @@ sources:
 created: 2026-04-17
 updated: 2026-04-17
 ---
-
 ## Summary
 
 United States v. Cruz is a darknet counterfeit-pharmaceutical sentencing case involving repeat conduct after a prior guilty plea.

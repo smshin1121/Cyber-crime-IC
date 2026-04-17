@@ -1,41 +1,43 @@
 ---
 type: operation
 title: "Operation Endgame — Phase 2 (Ransomware Kill Chain Disruption)"
-aliases: ["Operation Endgame Phase 2", "Endgame Phase 2 May 2025"]
-operation_type: "infrastructure-seizure"
-status: "completed"
-case_id: "CYB-2025-006"
+aliases:
+  - "Operation Endgame Phase 2"
+  - "Endgame Phase 2 May 2025"
+operation_type: infrastructure-seizure
+status: completed
+case_id: CYB-2025-006
 period: 3
 enforcement_type:
-  - "seizure"
-  - "takedown"
-  - "asset_freeze"
-outcome: "success"
+  - seizure
+  - takedown
+  - asset_freeze
+outcome: success
 credibility_index: 2.28
 source_tier: 2
 edges:
-  - source_actor: "Europol"
+  - source_actor: Europol
     target_actor: "German BKA"
-    cooperation_type: "joint_investigation"
-    legal_basis: "unknown"
-    direction: "undirected"
-  - source_actor: "Europol"
-    target_actor: "FBI"
-    cooperation_type: "joint_investigation"
-    legal_basis: "unknown"
-    direction: "undirected"
-  - source_actor: "Europol"
-    target_actor: "Eurojust"
-    cooperation_type: "joint_investigation"
-    legal_basis: "unknown"
-    direction: "undirected"
+    cooperation_type: joint_investigation
+    legal_basis: unknown
+    direction: undirected
+  - source_actor: Europol
+    target_actor: FBI
+    cooperation_type: joint_investigation
+    legal_basis: unknown
+    direction: undirected
+  - source_actor: Europol
+    target_actor: Eurojust
+    cooperation_type: joint_investigation
+    legal_basis: unknown
+    direction: undirected
 missing_fields:
-  - "legal_basis"
-  - "mechanisms_used"
+  - legal_basis
+  - mechanisms_used
 timeframe:
-  announced: "2025-05-23"
-  start: "2025-05-19"
-  end: "2025-05-22"
+  announced: 2025-05-23
+  start: 2025-05-19
+  end: 2025-05-22
   ongoing: false
 crime_type: "[[ransomware-ic]]"
 target_entity: "Initial-access malware infrastructure (Bumblebee, Lactrodectus, Qakbot, Hijackloader, DanaBot, Trickbot, Warmcookie)"
@@ -65,8 +67,10 @@ participating_agencies:
   - "[[us-secret-service]]"
   - "[[us-dcis]]"
   - "[[us-doj]]"
-legal_basis: []
-mechanisms_used: []
+legal_basis:
+  []
+mechanisms_used:
+  []
 results:
   arrests: 0
   indictments: 0
@@ -82,7 +86,9 @@ related_cases:
   - "[[us-v-stepanov-danabot]]"
 related_operations:
   - "[[operation-endgame-phase1]]"
-challenges_encountered: []
+  - "[[operation-us-v-stepanov-danabot]]"
+challenges_encountered:
+  []
 lessons_learned:
   - "Infrastructure-focused operations can achieve massive scale (300 servers, 650 domains) even without immediate arrests"
   - "International arrest warrants and EU Most Wanted listings create sustained pressure on fugitives"
@@ -95,7 +101,6 @@ sources:
 created: 2026-04-08
 updated: 2026-04-12
 ---
-
 ## Summary
 
 **Operation Endgame Phase 2** was the second major phase of the international campaign against ransomware-enabling infrastructure, conducted between 19 and 22 May 2025. The operation achieved an unprecedented scale of infrastructure disruption: **300 servers taken down**, **650 domains neutralized**, and **EUR 3.5 million in cryptocurrency seized** (bringing total Operation Endgame seizures to over EUR 21.2 million).

@@ -4,34 +4,37 @@ title: "United States v. Ogando, Dawodu, and Spencer (Darknet Narcotics Conspira
 case_number: "D.D.C. darknet narcotics trafficking sentencing"
 jurisdiction: "U.S. District Court, District of Columbia"
 jurisdiction_country: "[[united-states]]"
-case_type: "prosecution"
-status: "sentenced"
+case_type: prosecution
+status: sentenced
 crime_charged:
   - "[[drug-trafficking]]"
 defendants:
   - name: "Alex Ogando"
-    nationality: "American"
-    status: "sentenced"
+    nationality: American
+    status: sentenced
     sentence: "12 years"
     location_at_arrest: "United States"
   - name: "Olatunji Dawodu"
-    nationality: "American"
-    status: "sentenced"
+    nationality: American
+    status: sentenced
     sentence: "12 years"
     location_at_arrest: "United States"
   - name: "Luis Spencer"
-    nationality: "American"
-    status: "sentenced"
+    nationality: American
+    status: sentenced
     sentence: "12.5 years"
     location_at_arrest: "United States"
-related_operation: ""
+related_operation: "[[operation-us-v-ogando-dawodu-spencer-dark-web]]"
 ic_elements:
-  mlat_requests: []
+  mlat_requests:
+    []
   extradition: ""
   evidence_from_abroad:
     - "AlphaBay, Dream, Wall Street, and Empire market records"
-  foreign_arrests: []
-  asset_freezing: []
+  foreign_arrests:
+    []
+  asset_freezing:
+    []
 cooperating_agencies:
   - "[[us-doj]]"
 legal_frameworks_invoked:
@@ -47,7 +50,6 @@ sources:
 created: 2026-04-17
 updated: 2026-04-17
 ---
-
 ## Summary
 
 United States v. Ogando, Dawodu, and Spencer is a darknet fentanyl conspiracy case spanning AlphaBay, Dream, Wall Street, and Empire, with all three defendants receiving lengthy prison terms.

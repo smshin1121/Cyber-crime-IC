@@ -1,18 +1,20 @@
 ---
 type: operation
 title: "Nemesis Market Takedown"
-aliases: ["Nemesis Market Seizure", "Nemesis Darknet Market Takedown"]
-operation_type: "infrastructure-seizure"
-status: "completed"
+aliases:
+  - "Nemesis Market Seizure"
+  - "Nemesis Darknet Market Takedown"
+operation_type: infrastructure-seizure
+status: completed
 enforcement_type:
   - seizure
   - takedown
   - asset_freeze
-outcome: "success"
+outcome: success
 timeframe:
-  announced: "2024-03-20"
-  start: "2022-10"
-  end: "2024-03-20"
+  announced: 2024-03-20
+  start: 2022-10
+  end: 2024-03-20
   ongoing: false
 crime_type: "[[online-fraud-ic|Online Fraud / Cybercrime Services]]"
 target_entity: "Nemesis Market — darknet marketplace for drugs, stolen data, and cybercrime services"
@@ -25,7 +27,8 @@ participating_agencies:
   - "[[germany-bka|BKA (Bundeskriminalamt)]]"
   - "[[germany-frankfurt-prosecutor|ZIT (Zentralstelle zur Bekämpfung der Internetkriminalität)]]"
   - "[[fbi-cyber-division|FBI]]"
-legal_basis: []
+legal_basis:
+  []
 mechanisms_used:
   - "[[informal-cooperation|Informal Law Enforcement Cooperation]]"
 results:
@@ -43,11 +46,12 @@ source_count: 1
 related_cases:
   - "[[us-v-parsarad-nemesis]]"
 sources:
-  - "[The Record — Nemesis cybercrime market takedown Germany](https://therecord.media/nemesis-cybercrime-market-takedown-germany)"
+  - "[The Record — Nemesis cybercrime market takedown Germany](https: "//therecord.media/nemesis-cybercrime-market-takedown-germany)\""
 created: 2024-03-20
 updated: 2026-04-10
+related_operations:
+  - "[[operation-us-v-parsarad-nemesis]]"
 ---
-
 ## Summary
 
 The Nemesis Market Takedown was a Germany-led international law enforcement operation executed on **March 20, 2024**, in which the [[germany-bka|BKA (Bundeskriminalamt)]] and [[germany-frankfurt-prosecutor|ZIT (Zentralstelle zur Bekämpfung der Internetkriminalität)]] seized the server infrastructure of **Nemesis Market**, a darknet marketplace that facilitated the sale of illegal drugs, stolen data, and cybercrime services including ransomware, phishing kits, and DDoS attack tools.

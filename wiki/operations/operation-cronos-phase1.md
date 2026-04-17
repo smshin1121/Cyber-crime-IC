@@ -1,43 +1,45 @@
 ---
 type: operation
 title: "Operation Cronos — Phase 1 (LockBit Disruption)"
-aliases: ["Operation Cronos Phase 1", "LockBit takedown Feb 2024"]
-operation_type: "takedown"
-status: "completed"
-case_id: "CYB-2024-002"
+aliases:
+  - "Operation Cronos Phase 1"
+  - "LockBit takedown Feb 2024"
+operation_type: takedown
+status: completed
+case_id: CYB-2024-002
 period: 3
 enforcement_type:
-  - "arrest"
-  - "seizure"
-  - "takedown"
-  - "indictment"
-  - "asset_freeze"
-outcome: "success"
+  - arrest
+  - seizure
+  - takedown
+  - indictment
+  - asset_freeze
+outcome: success
 credibility_index: 2.28
 source_tier: 2
 edges:
   - source_actor: "UK NCA"
-    target_actor: "Europol"
-    cooperation_type: "joint_investigation"
-    legal_basis: "unknown"
-    direction: "undirected"
-  - source_actor: "Europol"
-    target_actor: "FBI"
-    cooperation_type: "joint_investigation"
-    legal_basis: "unknown"
-    direction: "undirected"
-  - source_actor: "Europol"
-    target_actor: "Eurojust"
-    cooperation_type: "joint_investigation"
-    legal_basis: "unknown"
-    direction: "undirected"
+    target_actor: Europol
+    cooperation_type: joint_investigation
+    legal_basis: unknown
+    direction: undirected
+  - source_actor: Europol
+    target_actor: FBI
+    cooperation_type: joint_investigation
+    legal_basis: unknown
+    direction: undirected
+  - source_actor: Europol
+    target_actor: Eurojust
+    cooperation_type: joint_investigation
+    legal_basis: unknown
+    direction: undirected
 missing_fields:
-  - "legal_basis"
-  - "mechanisms_used"
+  - legal_basis
+  - mechanisms_used
 timeframe:
-  announced: "2024-02-20"
-  start: "2024-02-20"
-  end: "2024-02-20"
+  announced: 2024-02-20
+  start: 2024-02-20
+  end: 2024-02-20
   ongoing: false
 crime_type: "[[ransomware-ic]]"
 target_entity: "LockBit ransomware group"
@@ -71,8 +73,10 @@ participating_agencies:
   - "[[japan-npa]]"
   - "[[fbi-cyber-division]]"
   - "[[switzerland-fedpol]]"
-legal_basis: []
-mechanisms_used: []
+legal_basis:
+  []
+mechanisms_used:
+  []
 results:
   arrests: 2
   indictments: 5
@@ -89,7 +93,9 @@ related_cases:
   - "[[us-v-astamirov-vasiliev-lockbit]]"
 related_operations:
   - "[[operation-cronos-phase3]]"
-challenges_encountered: []
+  - "[[operation-us-v-astamirov-vasiliev-lockbit]]"
+challenges_encountered:
+  []
 lessons_learned:
   - "Multi-year coordination (27 Europol meetings, 4 technical sprints) enabled simultaneous multi-country action"
   - "Rapid decryption tool release through No More Ransom portal demonstrated victim-centric approach"
@@ -100,7 +106,6 @@ sources:
 created: 2026-04-08
 updated: 2026-04-08
 ---
-
 ## Summary
 
 **Operation Cronos Phase 1** was a landmark international law enforcement action that disrupted **LockBit**, the world's most deployed ransomware variant since 2022. On 20 February 2024, agencies from 10 countries executed a coordinated takedown of LockBit's infrastructure, led by the [[uk-nca|UK National Crime Agency]] and coordinated by [[europol-ec3|Europol]] and [[eurojust|Eurojust]].

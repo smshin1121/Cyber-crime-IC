@@ -4,17 +4,17 @@ title: "United States v. Chukwuemeka Okparaeke (Fentmaster)"
 case_number: "S.D.N.Y. Fentmaster sentencing"
 jurisdiction: "U.S. District Court, Southern District of New York"
 jurisdiction_country: "[[united-states]]"
-case_type: "prosecution"
-status: "sentenced"
+case_type: prosecution
+status: sentenced
 crime_charged:
   - "[[drug-trafficking]]"
 defendants:
   - name: "Chukwuemeka Okparaeke"
     nationality: "American or Nigeria-linked"
-    status: "sentenced"
+    status: sentenced
     sentence: "15 years"
     location_at_arrest: "United States"
-related_operation: ""
+related_operation: "[[operation-us-v-okparaeke-dark-web]]"
 ic_elements:
   mlat_requests:
     - "Hong Kong"
@@ -22,8 +22,10 @@ ic_elements:
   evidence_from_abroad:
     - "Hong Kong import evidence"
     - "Darknet marketplace records"
-  foreign_arrests: []
-  asset_freezing: []
+  foreign_arrests:
+    []
+  asset_freezing:
+    []
 cooperating_agencies:
   - "[[us-doj]]"
 legal_frameworks_invoked:
@@ -39,7 +41,6 @@ sources:
 created: 2026-04-17
 updated: 2026-04-17
 ---
-
 ## Summary
 
 United States v. Okparaeke is a severe darknet opioids case involving the vendor `Fentmaster`, international imports from Hong Kong, and an overdose death.

@@ -4,24 +4,26 @@ title: "United States v. Adam Miles (NoStress)"
 case_number: "S.D. Fla. dark web vendor sentencing"
 jurisdiction: "U.S. District Court, Southern District of Florida"
 jurisdiction_country: "[[united-states]]"
-case_type: "prosecution"
-status: "sentenced"
+case_type: prosecution
+status: sentenced
 crime_charged:
   - "[[drug-trafficking]]"
   - "[[money-laundering-ic]]"
 defendants:
   - name: "Adam Lemar Miles"
-    nationality: "American"
-    status: "sentenced"
+    nationality: American
+    status: sentenced
     sentence: "108 months"
     location_at_arrest: "United States"
-related_operation: ""
+related_operation: "[[operation-us-v-adam-miles-dark-web]]"
 ic_elements:
-  mlat_requests: []
+  mlat_requests:
+    []
   extradition: ""
   evidence_from_abroad:
     - "Dark web marketplace and cryptocurrency evidence"
-  foreign_arrests: []
+  foreign_arrests:
+    []
   asset_freezing:
     - "Firearms, ammunition, and USD 61,872 forfeited"
 cooperating_agencies:
@@ -40,7 +42,6 @@ sources:
 created: 2026-04-17
 updated: 2026-04-17
 ---
-
 ## Summary
 
 United States v. Adam Miles is a dark web vendor case involving narcotics trafficking, money laundering, and forfeiture of weapons and cash.

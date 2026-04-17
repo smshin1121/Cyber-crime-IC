@@ -5,20 +5,20 @@ aliases:
   - "Operation Bayonet"
   - "AlphaBay Takedown"
   - "AlphaBay/Hansa Double Sting"
-case_id: "CYB-2017-002"
+case_id: CYB-2017-002
 period: 1
-operation_type: "takedown"
-status: "completed"
+operation_type: takedown
+status: completed
 enforcement_type:
   - takedown
   - arrest
   - seizure
   - asset_freeze
-outcome: "success"
+outcome: success
 timeframe:
-  announced: "2017-07-20"
-  start: "2015"
-  end: "2017-07-20"
+  announced: 2017-07-20
+  start: 2015
+  end: 2017-07-20
   ongoing: false
 crime_type: "[[online-fraud-ic]]"
 target_entity: "AlphaBay and Hansa darknet marketplaces"
@@ -54,38 +54,38 @@ results:
   decryption_keys_recovered: 0
   victims_notified: 0
   other:
-    - "AlphaBay: 400,000 users, 40,000 vendors, 350,000+ listings disrupted"
-    - "Hansa: Covertly operated by Dutch police for ~1 month; 10,000 delivery addresses collected"
+    - "AlphaBay: "400,000 users, 40,000 vendors, 350,000+ listings disrupted\""
+    - "Hansa: "Covertly operated by Dutch police for ~1 month; 10,000 delivery addresses collected\""
     - "Alexandre Cazes (AlphaBay admin) died in Thai custody 2017-07-12"
     - "2 Hansa administrators arrested (German nationals)"
     - "27,000 transactions monitored during covert Hansa operation"
     - "Luxury vehicles, residences, and hotel in Thailand seized"
 edges:
-  - source_actor: "FBI"
+  - source_actor: FBI
     target_actor: "Thai Royal Police"
-    cooperation_type: "joint_investigation"
-    legal_basis: "MLAT"
-    direction: "directed"
-  - source_actor: "FBI"
+    cooperation_type: joint_investigation
+    legal_basis: MLAT
+    direction: directed
+  - source_actor: FBI
     target_actor: "Netherlands NHTCU"
-    cooperation_type: "joint_investigation"
-    legal_basis: "bilateral_MOU"
-    direction: "undirected"
+    cooperation_type: joint_investigation
+    legal_basis: bilateral_MOU
+    direction: undirected
   - source_actor: "Netherlands NHTCU"
     target_actor: "Europol EC3"
-    cooperation_type: "info_sharing"
-    legal_basis: "Budapest_Convention"
-    direction: "undirected"
-  - source_actor: "FBI"
+    cooperation_type: info_sharing
+    legal_basis: Budapest_Convention
+    direction: undirected
+  - source_actor: FBI
     target_actor: "Europol EC3"
-    cooperation_type: "info_sharing"
-    legal_basis: "bilateral_MOU"
-    direction: "undirected"
+    cooperation_type: info_sharing
+    legal_basis: bilateral_MOU
+    direction: undirected
   - source_actor: "Netherlands NHTCU"
     target_actor: "Germany BKA"
-    cooperation_type: "evidence_transfer"
-    legal_basis: "Budapest_Convention"
-    direction: "directed"
+    cooperation_type: evidence_transfer
+    legal_basis: Budapest_Convention
+    direction: directed
 credibility_index: 4.0
 source_tier: 1
 missing_fields:
@@ -95,10 +95,15 @@ related_cases:
   - "[[us-v-cazes-alphabay]]"
   - "[[us-v-herrell-alphabay|United States v. Bryan Herrell (AlphaBay Moderator)]]"
   - "[[us-v-almashwali-alphabay|United States v. Abudullah Almashwali (AlphaBay Vendor)]]"
+  - "[[us-v-almashwali-alphabay]]"
+  - "[[us-v-herrell-alphabay]]"
 related_operations:
   - "[[operation-shrouded-horizon]]"
   - "[[darkode-takedown]]"
   - "[[xdedic-marketplace-takedown]]"
+  - "[[operation-us-v-almashwali-alphabay]]"
+  - "[[operation-us-v-cazes-alphabay]]"
+  - "[[operation-us-v-herrell-alphabay]]"
 challenges_encountered:
   - "[[data-sovereignty]]"
 lessons_learned:
@@ -116,7 +121,6 @@ sources:
 created: 2026-04-10
 updated: 2026-04-17
 ---
-
 ## Summary
 
 Operation Bayonet was a multinational law enforcement operation that dismantled **AlphaBay** and **Hansa** -- the world's two largest darknet marketplaces -- in **July 2017**. The operation was led by the [[fbi-cyber-division|FBI]] and the US Drug Enforcement Administration (DEA) for the AlphaBay component, while the [[netherlands-politie|Dutch National Police (NHTCU)]] led the Hansa component, with [[europol-ec3|Europol]] coordinating the overall strategy.

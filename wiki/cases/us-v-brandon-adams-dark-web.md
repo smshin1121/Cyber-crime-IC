@@ -4,24 +4,26 @@ title: "United States v. Brandon Adams (BenzoBoys)"
 case_number: "E.D. Mo. darknet sentencing"
 jurisdiction: "U.S. District Court, Eastern District of Missouri"
 jurisdiction_country: "[[united-states]]"
-case_type: "prosecution"
-status: "sentenced"
+case_type: prosecution
+status: sentenced
 crime_charged:
   - "[[drug-trafficking]]"
   - "[[counterfeit-goods]]"
 defendants:
   - name: "Brandon Adams"
-    nationality: "American"
-    status: "sentenced"
+    nationality: American
+    status: sentenced
     sentence: "24 months"
     location_at_arrest: "United States"
-related_operation: ""
+related_operation: "[[operation-us-v-brandon-adams-dark-web]]"
 ic_elements:
-  mlat_requests: []
+  mlat_requests:
+    []
   extradition: ""
   evidence_from_abroad:
     - "Darknet marketplace records"
-  foreign_arrests: []
+  foreign_arrests:
+    []
   asset_freezing:
     - "Nearly USD 1 million forfeited"
 cooperating_agencies:
@@ -39,7 +41,6 @@ sources:
 created: 2026-04-17
 updated: 2026-04-17
 ---
-
 ## Summary
 
 United States v. Brandon Adams is a darknet counterfeit-pill case involving millions of fake Xanax tablets sold under the name `BenzoBoys`.

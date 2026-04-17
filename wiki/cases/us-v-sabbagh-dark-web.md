@@ -4,25 +4,28 @@ title: "United States v. Alessandro Sabbagh (Darknet Counterfeit Drug Vendor)"
 case_number: "E.D. Ky. darknet counterfeit-drug sentencing"
 jurisdiction: "U.S. District Court, Eastern District of Kentucky"
 jurisdiction_country: "[[united-states]]"
-case_type: "prosecution"
-status: "sentenced"
+case_type: prosecution
+status: sentenced
 crime_charged:
   - "[[counterfeit-goods]]"
   - "[[drug-trafficking]]"
 defendants:
   - name: "Alessandro Sabbagh"
-    nationality: "Lebanese-Italian"
-    status: "sentenced"
+    nationality: Lebanese-Italian
+    status: sentenced
     sentence: "78 months"
     location_at_arrest: ""
-related_operation: ""
+related_operation: "[[operation-us-v-sabbagh-dark-web]]"
 ic_elements:
-  mlat_requests: []
+  mlat_requests:
+    []
   extradition: ""
   evidence_from_abroad:
     - "Darknet marketplace evidence and cryptocurrency payments"
-  foreign_arrests: []
-  asset_freezing: []
+  foreign_arrests:
+    []
+  asset_freezing:
+    []
 cooperating_agencies:
   - "[[us-doj]]"
 legal_frameworks_invoked:
@@ -39,7 +42,6 @@ sources:
 created: 2026-04-17
 updated: 2026-04-17
 ---
-
 ## Summary
 
 United States v. Sabbagh is a darknet counterfeit-alprazolam case involving cryptocurrency-backed sales of fake pills.

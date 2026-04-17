@@ -4,24 +4,27 @@ title: "United States v. Zachary Madding (Dark Web Heroin Dealer)"
 case_number: "W.D. Wash. dark web heroin sentencing"
 jurisdiction: "U.S. District Court, Western District of Washington"
 jurisdiction_country: "[[united-states]]"
-case_type: "prosecution"
-status: "sentenced"
+case_type: prosecution
+status: sentenced
 crime_charged:
   - "[[drug-trafficking]]"
 defendants:
   - name: "Zachary Madding"
-    nationality: "American"
-    status: "sentenced"
+    nationality: American
+    status: sentenced
     sentence: "5 years"
     location_at_arrest: "Washington, United States"
-related_operation: ""
+related_operation: "[[operation-us-v-madding-dark-web]]"
 ic_elements:
-  mlat_requests: []
+  mlat_requests:
+    []
   extradition: ""
   evidence_from_abroad:
     - "AlphaBay, Dream Market, and Wall Street Market records"
-  foreign_arrests: []
-  asset_freezing: []
+  foreign_arrests:
+    []
+  asset_freezing:
+    []
 cooperating_agencies:
   - "[[us-doj]]"
 legal_frameworks_invoked:
@@ -37,7 +40,6 @@ sources:
 created: 2026-04-17
 updated: 2026-04-17
 ---
-
 ## Summary
 
 United States v. Madding is a dark web heroin case involving more than 1,600 sales across AlphaBay, Dream Market, and Wall Street Market.

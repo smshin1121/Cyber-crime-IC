@@ -4,18 +4,18 @@ title: "United States v. Banmeet Singh (Dark Web Vendor)"
 case_number: "S.D. Fla. dark web vendor plea"
 jurisdiction: "U.S. District Court, Southern District of Florida"
 jurisdiction_country: "[[united-states]]"
-case_type: "prosecution"
-status: "convicted"
+case_type: prosecution
+status: convicted
 crime_charged:
   - "[[drug-trafficking]]"
   - "[[money-laundering-ic]]"
 defendants:
   - name: "Banmeet Singh"
-    nationality: "Indian"
-    status: "convicted"
+    nationality: Indian
+    status: convicted
     sentence: ""
     location_at_arrest: "United Kingdom (extradited to U.S. per DOJ background)"
-related_operation: ""
+related_operation: "[[operation-us-v-banmeet-singh-dark-web]]"
 ic_elements:
   mlat_requests:
     - "United Kingdom"
@@ -42,7 +42,6 @@ sources:
 created: 2026-04-17
 updated: 2026-04-17
 ---
-
 ## Summary
 
 United States v. Banmeet Singh is a major transnational dark web narcotics case involving sales across Silk Road, AlphaBay, Hansa, and other markets. It is one of the most financially significant dark web vendor cases in the dataset.

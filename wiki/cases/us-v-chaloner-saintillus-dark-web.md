@@ -4,24 +4,27 @@ title: "United States v. Chaloner Saintillus (Dark Web Vendor)"
 case_number: "E.D. Cal. dark web sentencing"
 jurisdiction: "U.S. District Court, Eastern District of California"
 jurisdiction_country: "[[united-states]]"
-case_type: "prosecution"
-status: "sentenced"
+case_type: prosecution
+status: sentenced
 crime_charged:
   - "[[drug-trafficking]]"
 defendants:
   - name: "Chaloner Saintillus"
-    nationality: "American"
-    status: "sentenced"
+    nationality: American
+    status: sentenced
     sentence: "10 years 1 month"
     location_at_arrest: "Florida, United States"
-related_operation: ""
+related_operation: "[[operation-us-v-chaloner-saintillus-dark-web]]"
 ic_elements:
-  mlat_requests: []
+  mlat_requests:
+    []
   extradition: ""
   evidence_from_abroad:
     - "Dark web vendor-account and cryptocurrency evidence"
-  foreign_arrests: []
-  asset_freezing: []
+  foreign_arrests:
+    []
+  asset_freezing:
+    []
 cooperating_agencies:
   - "[[us-doj]]"
 legal_frameworks_invoked:
@@ -37,7 +40,6 @@ sources:
 created: 2026-04-17
 updated: 2026-04-17
 ---
-
 ## Summary
 
 United States v. Saintillus is a dark web fentanyl distribution case involving more than 1,000 deals through the vendor identity "chlnsaint."

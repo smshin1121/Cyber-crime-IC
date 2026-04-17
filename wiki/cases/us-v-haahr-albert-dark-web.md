@@ -4,29 +4,32 @@ title: "United States v. Trevor Stephen Haahr and Kaeli Arielle Albert"
 case_number: "W.D. Wash. dark web fentanyl plea"
 jurisdiction: "U.S. District Court, Western District of Washington"
 jurisdiction_country: "[[united-states]]"
-case_type: "prosecution"
-status: "pleaded_guilty"
+case_type: prosecution
+status: pleaded_guilty
 crime_charged:
   - "[[drug-trafficking]]"
 defendants:
   - name: "Trevor Stephen Haahr"
-    nationality: "American"
+    nationality: American
     status: "pleaded guilty"
     sentence: ""
     location_at_arrest: "Washington, United States"
   - name: "Kaeli Arielle Albert"
-    nationality: "American"
+    nationality: American
     status: "pleaded guilty"
     sentence: ""
     location_at_arrest: "Washington, United States"
-related_operation: ""
+related_operation: "[[operation-us-v-haahr-albert-dark-web]]"
 ic_elements:
-  mlat_requests: []
+  mlat_requests:
+    []
   extradition: ""
   evidence_from_abroad:
     - "Dark web marketplace and controlled-purchase evidence"
-  foreign_arrests: []
-  asset_freezing: []
+  foreign_arrests:
+    []
+  asset_freezing:
+    []
 cooperating_agencies:
   - "[[us-doj]]"
 legal_frameworks_invoked:
@@ -42,7 +45,6 @@ sources:
 created: 2026-04-17
 updated: 2026-04-17
 ---
-
 ## Summary
 
 United States v. Haahr and Albert is a recent guilty-plea case tied to dark web fentanyl-pill distribution from Washington state.

@@ -4,26 +4,27 @@ title: "DE-FR Online Fraud Group Dismantlement (March 2026)"
 case_number: ""
 jurisdiction: "Germany (lead) — France (cooperating)"
 jurisdiction_country: "[[germany]]"
-case_type: "prosecution"
-status: "arrested"
+case_type: prosecution
+status: arrested
 crime_charged:
   - "[[online-fraud-ic]]"
 defendants:
   - name: "Unnamed group leader"
-    nationality: "unknown"
-    status: "arrested"
+    nationality: unknown
+    status: arrested
     sentence: ""
-    location_at_arrest: "France"
-related_operation: ""
+    location_at_arrest: France
+related_operation: "[[operation-de-fr-online-fraud-group-2026]]"
 ic_elements:
   mlat_requests:
-    - "France"
+    - France
   extradition: "likely (not confirmed in source)"
   evidence_from_abroad:
-    - "France"
+    - France
   foreign_arrests:
-    - "France"
-  asset_freezing: []
+    - France
+  asset_freezing:
+    []
 cooperating_agencies:
   - "[[eurojust]]"
 legal_frameworks_invoked:
@@ -41,7 +42,6 @@ sources:
 created: 2026-04-14
 updated: 2026-04-14
 ---
-
 > [!note] Sparse source
 > The Eurojust press release announcing this case is brief and omits defendant names, the case number, charges in detail, the precise number of arrests, and the German jurisdiction. The fields below reflect only what is stated in the source.
 

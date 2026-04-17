@@ -6,21 +6,21 @@ aliases:
   - "Bugat Botnet Takedown"
   - "Evil Corp Sanctions"
   - "Cridex Disruption"
-case_id: "CYB-2015-007"
+case_id: CYB-2015-007
 period: 1
-operation_type: "joint-investigation"
-status: "completed"
+operation_type: joint-investigation
+status: completed
 enforcement_type:
-  - "arrest"
-  - "indictment"
-  - "takedown"
-  - "extradition"
-  - "asset_freeze"
-outcome: "partial"
+  - arrest
+  - indictment
+  - takedown
+  - extradition
+  - asset_freeze
+outcome: partial
 timeframe:
-  announced: "2015-10-13"
-  start: "2015-08"
-  end: "2019-12-05"
+  announced: 2015-10-13
+  start: 2015-08
+  end: 2019-12-05
   ongoing: false
 crime_type: "[[online-fraud-ic|Banking Trojan Fraud]]"
 target_entity: "Evil Corp cybercriminal organization; Dridex/Bugat/Cridex banking trojan operators"
@@ -30,8 +30,8 @@ participating_countries:
   - "[[united-states]]"
   - "[[united-kingdom]]"
   - "[[germany]]"
-  - "Moldova"
-  - "Cyprus"
+  - Moldova
+  - Cyprus
 participating_agencies:
   - "[[fbi-cyber-division|FBI Cyber Division]]"
   - "[[uk-nca|UK National Crime Agency (NCA)]]"
@@ -68,46 +68,49 @@ results:
     - "Over $100 million in estimated theft from victims in 40+ countries"
     - "Estimated $10 million in direct US losses, GBP 20 million in UK losses"
 edges:
-  - source_actor: "FBI"
+  - source_actor: FBI
     target_actor: "UK NCA"
-    cooperation_type: "joint_investigation"
-    legal_basis: "MLAT"
-    direction: "undirected"
-  - source_actor: "FBI"
+    cooperation_type: joint_investigation
+    legal_basis: MLAT
+    direction: undirected
+  - source_actor: FBI
     target_actor: "Dell SecureWorks"
-    cooperation_type: "technical_assistance"
-    legal_basis: "informal"
-    direction: "undirected"
+    cooperation_type: technical_assistance
+    legal_basis: informal
+    direction: undirected
   - source_actor: "UK NCA"
     target_actor: "Shadowserver Foundation"
-    cooperation_type: "technical_assistance"
-    legal_basis: "informal"
-    direction: "undirected"
+    cooperation_type: technical_assistance
+    legal_basis: informal
+    direction: undirected
   - source_actor: "US DOJ"
-    target_actor: "Moldova"
-    cooperation_type: "extradition"
-    legal_basis: "MLAT"
-    direction: "directed"
+    target_actor: Moldova
+    cooperation_type: extradition
+    legal_basis: MLAT
+    direction: directed
   - source_actor: "US Treasury OFAC"
     target_actor: "Evil Corp"
-    cooperation_type: "asset_recovery"
-    legal_basis: "IEEPA"
-    direction: "directed"
+    cooperation_type: asset_recovery
+    legal_basis: IEEPA
+    direction: directed
   - source_actor: "Europol EC3"
-    target_actor: "FBI"
-    cooperation_type: "info_sharing"
-    legal_basis: "Budapest_Convention"
-    direction: "undirected"
+    target_actor: FBI
+    cooperation_type: info_sharing
+    legal_basis: Budapest_Convention
+    direction: undirected
 credibility_index: 4.0
 source_tier: 1
-missing_fields: []
+missing_fields:
+  []
 related_cases:
   - "[[us-v-yakubets-dridex]]"
   - "[[us-v-ghinkul-dridex|United States v. Ghinkul (Bugat/Dridex)]]"
+  - "[[us-v-ghinkul-dridex]]"
 related_operations:
   - "[[goznym-takedown|GozNym Takedown]]"
   - "[[zeus-spyeye-takedown|Zeus/SpyEye Takedown]]"
   - "[[operation-avalanche|Operation Avalanche]]"
+  - "[[operation-us-v-ghinkul-dridex]]"
 challenges_encountered:
   - "[[data-sovereignty]]"
 lessons_learned:
@@ -118,18 +121,17 @@ lessons_learned:
   - "FBI-NCA bilateral cooperation is a model for US-UK cybercrime investigations"
 source_count: 8
 sources:
-  - "[1] DOJ: Bugat Botnet Administrator Arrested and Malware Disabled (2015-10-13)"
-  - "[2] FBI: Bugat Botnet Administrator Arrested (2015-10-13)"
-  - "[3] DOJ: Russian National Charged with Decade-Long Series of Hacking (2019-12-05)"
-  - "[4] US Treasury: Sanctions Evil Corp (2019-12-05)"
-  - "[5] NCA: International law enforcement operation exposes the world's most harmful cyber crime group (2019-12-05)"
-  - "[6] DOJ: Moldovan Sentenced for Distributing Multifunction Malware Package (2018-12-06)"
-  - "[7] The Hacker News: FBI Puts $5 Million Bounty (2019-12-05)"
-  - "[8] Dell SecureWorks: Dridex (Bugat v5) Botnet Takeover Operation (2015-10)"
+  - "[1] DOJ: "Bugat Botnet Administrator Arrested and Malware Disabled (2015-10-13)\""
+  - "[2] FBI: "Bugat Botnet Administrator Arrested (2015-10-13)\""
+  - "[3] DOJ: "Russian National Charged with Decade-Long Series of Hacking (2019-12-05)\""
+  - "[4] US Treasury: "Sanctions Evil Corp (2019-12-05)\""
+  - "[5] NCA: "International law enforcement operation exposes the world's most harmful cyber crime group (2019-12-05)\""
+  - "[6] DOJ: "Moldovan Sentenced for Distributing Multifunction Malware Package (2018-12-06)\""
+  - "[7] The Hacker News: "FBI Puts $5 Million Bounty (2019-12-05)\""
+  - "[8] Dell SecureWorks: "Dridex (Bugat v5) Botnet Takeover Operation (2015-10)\""
 created: 2026-04-10
 updated: 2026-04-17
 ---
-
 ## Summary
 
 The Dridex/Evil Corp disruption and prosecution was a **multi-year international law enforcement operation** targeting the Dridex banking trojan (also known as Bugat and Cridex) and its operators within the Russia-based cybercriminal organization **Evil Corp**. The operation unfolded in two major phases: (1) the **October 2015 technical disruption and arrest** of botnet administrator Andrey Ghinkul, conducted jointly by the [[fbi-cyber-division|FBI]] and [[uk-nca|UK National Crime Agency (NCA)]]; and (2) the **December 2019 indictment, sanctions, and reward** targeting Evil Corp leader **Maksim Yakubets** and deputy **Igor Turashev**, coordinated between the [[us-doj|US DOJ]], [[us-treasury|US Treasury (OFAC)]], and NCA.

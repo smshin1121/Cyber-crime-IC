@@ -1,3 +1,9 @@
+---
+related_operations:
+  - "[[operation-us-v-nazarovi-qqaazz]]"
+related_cases:
+  - "[[us-v-nazarovi-qqaazz]]"
+---
 ﻿---
 type: operation
 title: "QQAAZZ Money Laundering Network Takedown"

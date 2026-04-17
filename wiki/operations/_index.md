@@ -6,7 +6,7 @@ created: 2026-04-08
 updated: 2026-04-14
 ---
 
-# Operations (108)
+# Operations (200)
 
 | Operation | Case ID | Period | Status | CI | Tier |
 |-----------|---------|--------|--------|----|------|
@@ -76,6 +76,98 @@ updated: 2026-04-14
 | [[belgium-netherlands-phishing-gang]] | CYB-2025-051 | 3 | completed | 1.88 | 3 |
 | [[xhelper-upi-money-mule]] | CYB-2025-052 | 3 | completed | 1.88 | 3 |
 | [[proxy-service-takedown-2026-03]] | CYB-2026-001 | 3 | completed | 3.50 | 1 |
+| [[operation-de-fr-online-fraud-group-2026]] | CYB-FUP-001 | 3 | completed | 4.00 | 1 |
+| [[operation-emotet-disruption-ladybird]] | CYB-FUP-002 | 2 | completed | 4.00 | 1 |
+| [[operation-in-re-bidencash-marketplace-seizure]] | CYB-FUP-003 | 3 | completed | 4.00 | 1 |
+| [[operation-in-re-heartsender-seizure]] | CYB-FUP-004 | 3 | completed | 4.00 | 1 |
+| [[operation-us-v-adafin-xdedic]] | CYB-FUP-005 | 3 | completed | 4.00 | 1 |
+| [[operation-us-v-adam-miles-dark-web]] | CYB-FUP-006 | 1 | completed | 4.00 | 1 |
+| [[operation-us-v-adejumo-jinadu-xdedic]] | CYB-FUP-007 | 3 | completed | 4.00 | 1 |
+| [[operation-us-v-almashwali-alphabay]] | CYB-FUP-008 | 1 | completed | 4.00 | 1 |
+| [[operation-us-v-anom-distributors]] | CYB-FUP-009 | 2 | completed | 4.00 | 1 |
+| [[operation-us-v-aragon-dark-web]] | CYB-FUP-010 | 3 | completed | 4.00 | 1 |
+| [[operation-us-v-astamirov-vasiliev-lockbit]] | CYB-FUP-011 | 3 | completed | 4.00 | 1 |
+| [[operation-us-v-banmeet-singh-dark-web]] | CYB-FUP-012 | 3 | completed | 4.00 | 1 |
+| [[operation-us-v-barraza-flores-dark-web]] | CYB-FUP-013 | 2 | completed | 4.00 | 1 |
+| [[operation-us-v-benthall-silk-road-2]] | CYB-FUP-014 | 1 | completed | 4.00 | 1 |
+| [[operation-us-v-bondarenko-infraud]] | CYB-FUP-015 | 1 | completed | 4.00 | 1 |
+| [[operation-us-v-bookman-dark-web]] | CYB-FUP-016 | 3 | completed | 4.00 | 1 |
+| [[operation-us-v-brandon-adams-dark-web]] | CYB-FUP-017 | 3 | completed | 4.00 | 1 |
+| [[operation-us-v-brandon-arias-dark-web]] | CYB-FUP-018 | 1 | completed | 4.00 | 1 |
+| [[operation-us-v-brewer-dark-web]] | CYB-FUP-019 | 2 | completed | 4.00 | 1 |
+| [[operation-us-v-brian-mcdonald-dark-web]] | CYB-FUP-020 | 3 | completed | 4.00 | 1 |
+| [[operation-us-v-burgamy-wilson-dark-web]] | CYB-FUP-021 | 2 | completed | 4.00 | 1 |
+| [[operation-us-v-castillo-rosario-vasquez-roman-dark-web]] | CYB-FUP-022 | 3 | completed | 4.00 | 1 |
+| [[operation-us-v-castro-dark-web]] | CYB-FUP-023 | 2 | completed | 4.00 | 1 |
+| [[operation-us-v-catherine-stuckey-dark-web]] | CYB-FUP-024 | 2 | completed | 4.00 | 1 |
+| [[operation-us-v-cazes-alphabay]] | CYB-FUP-025 | 1 | completed | 4.00 | 1 |
+| [[operation-us-v-chaloner-saintillus-dark-web]] | CYB-FUP-026 | 3 | completed | 4.00 | 1 |
+| [[operation-us-v-curry-brooke-dark-web]] | CYB-FUP-027 | 1 | completed | 4.00 | 1 |
+| [[operation-us-v-dekhtyarchuk-marketplace-a]] | CYB-FUP-028 | 2 | ongoing | 4.00 | 1 |
+| [[operation-us-v-dittman-schiffner-langer-dark-web]] | CYB-FUP-029 | 3 | completed | 4.00 | 1 |
+| [[operation-us-v-evan-hernandez-dark-web]] | CYB-FUP-030 | 2 | completed | 4.00 | 1 |
+| [[operation-us-v-farrell-silk-road-2]] | CYB-FUP-031 | 1 | completed | 4.00 | 1 |
+| [[operation-us-v-fatukala-cocaine-dark-web]] | CYB-FUP-032 | 3 | completed | 4.00 | 1 |
+| [[operation-us-v-gallyamov-qakbot]] | CYB-FUP-033 | 3 | ongoing | 4.00 | 1 |
+| [[operation-us-v-galochkin-trickbot-conti]] | CYB-FUP-034 | 3 | ongoing | 4.00 | 1 |
+| [[operation-us-v-gary-davis-silk-road]] | CYB-FUP-035 | 1 | completed | 4.00 | 1 |
+| [[operation-us-v-ghinkul-dridex]] | CYB-FUP-036 | 1 | completed | 4.00 | 1 |
+| [[operation-us-v-gudmunds-darkode]] | CYB-FUP-037 | 1 | completed | 4.00 | 1 |
+| [[operation-us-v-gutierrez-villasenor-dark-web]] | CYB-FUP-038 | 1 | completed | 4.00 | 1 |
+| [[operation-us-v-haahr-albert-dark-web]] | CYB-FUP-039 | 3 | completed | 4.00 | 1 |
+| [[operation-us-v-habasescu-xdedic]] | CYB-FUP-040 | 2 | completed | 4.00 | 1 |
+| [[operation-us-v-haney-silk-road]] | CYB-FUP-041 | 2 | completed | 4.00 | 1 |
+| [[operation-us-v-hernandez-dark-web]] | CYB-FUP-042 | 3 | completed | 4.00 | 1 |
+| [[operation-us-v-herrell-alphabay]] | CYB-FUP-043 | 2 | completed | 4.00 | 1 |
+| [[operation-us-v-hladyr-fin7]] | CYB-FUP-044 | 3 | completed | 4.00 | 1 |
+| [[operation-us-v-holly-adams-dark-web]] | CYB-FUP-045 | 3 | completed | 4.00 | 1 |
+| [[operation-us-v-ivanov-tolpintsev-xdedic]] | CYB-FUP-046 | 2 | completed | 4.00 | 1 |
+| [[operation-us-v-jason-arnold-dark-web]] | CYB-FUP-047 | 2 | completed | 4.00 | 1 |
+| [[operation-us-v-joanna-de-alba-dark-web]] | CYB-FUP-048 | 2 | completed | 4.00 | 1 |
+| [[operation-us-v-john-cruz-dark-web]] | CYB-FUP-049 | 3 | completed | 4.00 | 1 |
+| [[operation-us-v-john-mckernan-dark-web]] | CYB-FUP-050 | 3 | completed | 4.00 | 1 |
+| [[operation-us-v-kancharla-dark-web]] | CYB-FUP-051 | 2 | completed | 4.00 | 1 |
+| [[operation-us-v-kharmanskyi-xdedic]] | CYB-FUP-052 | 3 | completed | 4.00 | 1 |
+| [[operation-us-v-konovolov-goznym]] | CYB-FUP-053 | 1 | ongoing | 4.00 | 1 |
+| [[operation-us-v-kutleshi-rydox]] | CYB-FUP-054 | 3 | ongoing | 4.00 | 1 |
+| [[operation-us-v-levinson-xdedic]] | CYB-FUP-055 | 2 | completed | 4.00 | 1 |
+| [[operation-us-v-lint-dream-market]] | CYB-FUP-056 | 1 | completed | 4.00 | 1 |
+| [[operation-us-v-madding-dark-web]] | CYB-FUP-057 | 2 | completed | 4.00 | 1 |
+| [[operation-us-v-matthew-jones-silk-road]] | CYB-FUP-058 | 1 | completed | 4.00 | 1 |
+| [[operation-us-v-mckinzie-xdedic]] | CYB-FUP-059 | 3 | completed | 4.00 | 1 |
+| [[operation-us-v-mcneely-xdedic]] | CYB-FUP-060 | 3 | completed | 4.00 | 1 |
+| [[operation-us-v-miller-poweroff]] | CYB-FUP-061 | 3 | completed | 4.00 | 1 |
+| [[operation-us-v-nazarovi-qqaazz]] | CYB-FUP-062 | 2 | ongoing | 4.00 | 1 |
+| [[operation-us-v-nicholas-partlow-dark-web]] | CYB-FUP-063 | 2 | completed | 4.00 | 1 |
+| [[operation-us-v-odedeyi-davies-xdedic]] | CYB-FUP-064 | 2 | ongoing | 4.00 | 1 |
+| [[operation-us-v-odufuye-nwoke-bec]] | CYB-FUP-065 | 1 | completed | 4.00 | 1 |
+| [[operation-us-v-ogando-dawodu-spencer-dark-web]] | CYB-FUP-066 | 3 | completed | 4.00 | 1 |
+| [[operation-us-v-ogunlana-xdedic]] | CYB-FUP-067 | 3 | completed | 4.00 | 1 |
+| [[operation-us-v-okparaeke-dark-web]] | CYB-FUP-068 | 2 | completed | 4.00 | 1 |
+| [[operation-us-v-okpe-obogo-bec]] | CYB-FUP-069 | 3 | completed | 4.00 | 1 |
+| [[operation-us-v-olivia-bolles-silk-road]] | CYB-FUP-070 | 1 | completed | 4.00 | 1 |
+| [[operation-us-v-omotosho-xdedic]] | CYB-FUP-071 | 3 | completed | 4.00 | 1 |
+| [[operation-us-v-orgil-dark-web]] | CYB-FUP-072 | 3 | completed | 4.00 | 1 |
+| [[operation-us-v-oyebanjo-xdedic]] | CYB-FUP-073 | 3 | completed | 4.00 | 1 |
+| [[operation-us-v-paiva-silk-road-2]] | CYB-FUP-074 | 1 | completed | 4.00 | 1 |
+| [[operation-us-v-pankov-xdedic]] | CYB-FUP-075 | 3 | completed | 4.00 | 1 |
+| [[operation-us-v-parsarad-nemesis]] | CYB-FUP-076 | 3 | ongoing | 4.00 | 1 |
+| [[operation-us-v-peck-dark-web]] | CYB-FUP-077 | 2 | completed | 4.00 | 1 |
+| [[operation-us-v-roberts-dark-web]] | CYB-FUP-078 | 2 | completed | 4.00 | 1 |
+| [[operation-us-v-roger-thomas-clark-silk-road]] | CYB-FUP-079 | 3 | completed | 4.00 | 1 |
+| [[operation-us-v-ruiz-navia-dark-web]] | CYB-FUP-080 | 3 | completed | 4.00 | 1 |
+| [[operation-us-v-ryan-scott-cochran-dark-web]] | CYB-FUP-081 | 3 | completed | 4.00 | 1 |
+| [[operation-us-v-sabbagh-dark-web]] | CYB-FUP-082 | 3 | completed | 4.00 | 1 |
+| [[operation-us-v-scanlan-dark-web]] | CYB-FUP-083 | 2 | completed | 4.00 | 1 |
+| [[operation-us-v-shaughnessy-dark-web]] | CYB-FUP-084 | 3 | completed | 4.00 | 1 |
+| [[operation-us-v-sheldon-kennedy-silk-road]] | CYB-FUP-085 | 1 | completed | 4.00 | 1 |
+| [[operation-us-v-sirotkin-deaver-dark-web]] | CYB-FUP-086 | 3 | completed | 4.00 | 1 |
+| [[operation-us-v-spencer-xdedic]] | CYB-FUP-087 | 3 | completed | 4.00 | 1 |
+| [[operation-us-v-stepanov-danabot]] | CYB-FUP-088 | 3 | ongoing | 4.00 | 1 |
+| [[operation-us-v-tan-dark-web]] | CYB-FUP-089 | 3 | completed | 4.00 | 1 |
+| [[operation-us-v-taylor-fischer-dark-web]] | CYB-FUP-090 | 3 | completed | 4.00 | 1 |
+| [[operation-us-v-taylor-xdedic]] | CYB-FUP-091 | 3 | completed | 4.00 | 1 |
+| [[operation-us-v-ulbricht-silk-road]] | CYB-FUP-094 | 1 | completed | 4.00 | 1 |
 | [[2bagoldmule-qqaazz]] | — | — | — | — | — |
 | [[africa-cyber-surge-ii]] | — | — | — | — | — |
 | [[andromeda-botnet-takedown]] | — | — | — | — | — |

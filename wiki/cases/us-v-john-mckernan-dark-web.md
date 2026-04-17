@@ -1,27 +1,30 @@
 ---
 type: case
 title: "United States v. John McKernan (KingofKeys)"
-case_number: "1:22-cr-234"
+case_number: 1:22-cr-234
 jurisdiction: "U.S. District Court, Eastern District of Virginia"
 jurisdiction_country: "[[united-states]]"
-case_type: "prosecution"
-status: "sentenced"
+case_type: prosecution
+status: sentenced
 crime_charged:
   - "[[drug-trafficking]]"
 defendants:
   - name: "John McKernan"
-    nationality: "American"
-    status: "sentenced"
+    nationality: American
+    status: sentenced
     sentence: "78 months"
     location_at_arrest: "Arizona, United States"
-related_operation: ""
+related_operation: "[[operation-us-v-john-mckernan-dark-web]]"
 ic_elements:
-  mlat_requests: []
+  mlat_requests:
+    []
   extradition: ""
   evidence_from_abroad:
     - "Darknet vendor evidence and bitcoin payments"
-  foreign_arrests: []
-  asset_freezing: []
+  foreign_arrests:
+    []
+  asset_freezing:
+    []
 cooperating_agencies:
   - "[[us-doj]]"
 legal_frameworks_invoked:
@@ -37,7 +40,6 @@ sources:
 created: 2026-04-17
 updated: 2026-04-17
 ---
-
 ## Summary
 
 United States v. McKernan is a fentanyl-focused darknet vendor case tied to the moniker `KingofKeys` and supported by controlled purchases and bitcoin payments.

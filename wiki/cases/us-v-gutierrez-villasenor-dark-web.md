@@ -4,24 +4,27 @@ title: "United States v. Brian Gutierrez-Villasenor (JetSetLife)"
 case_number: "N.D. Cal. darknet sentencing"
 jurisdiction: "U.S. District Court, Northern District of California"
 jurisdiction_country: "[[united-states]]"
-case_type: "prosecution"
-status: "sentenced"
+case_type: prosecution
+status: sentenced
 crime_charged:
   - "[[drug-trafficking]]"
 defendants:
   - name: "Brian Gutierrez-Villasenor"
-    nationality: "American"
-    status: "sentenced"
+    nationality: American
+    status: sentenced
     sentence: "120 months"
     location_at_arrest: "California, United States"
-related_operation: ""
+related_operation: "[[operation-us-v-gutierrez-villasenor-dark-web]]"
 ic_elements:
-  mlat_requests: []
+  mlat_requests:
+    []
   extradition: ""
   evidence_from_abroad:
     - "Darknet vendor site evidence"
-  foreign_arrests: []
-  asset_freezing: []
+  foreign_arrests:
+    []
+  asset_freezing:
+    []
 cooperating_agencies:
   - "[[us-doj]]"
 legal_frameworks_invoked:
@@ -37,7 +40,6 @@ sources:
 created: 2026-04-17
 updated: 2026-04-17
 ---
-
 ## Summary
 
 United States v. Gutierrez-Villasenor is a JetSetLife darknet vendor case resulting in a 10-year sentence.

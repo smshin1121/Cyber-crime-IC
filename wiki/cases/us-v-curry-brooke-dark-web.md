@@ -4,28 +4,30 @@ title: "United States v. Curry and Brooke (Dark Web Proceeds Laundering)"
 case_number: "S.D. Cal. dark web laundering plea"
 jurisdiction: "U.S. District Court, Southern District of California"
 jurisdiction_country: "[[united-states]]"
-case_type: "prosecution"
-status: "convicted"
+case_type: prosecution
+status: convicted
 crime_charged:
   - "[[money-laundering-ic]]"
 defendants:
   - name: "Aidan Curry"
-    nationality: "American"
-    status: "convicted"
+    nationality: American
+    status: convicted
     sentence: ""
     location_at_arrest: "California, United States"
   - name: "Connor Brooke"
-    nationality: "American"
-    status: "convicted"
+    nationality: American
+    status: convicted
     sentence: ""
     location_at_arrest: "California, United States"
-related_operation: ""
+related_operation: "[[operation-us-v-curry-brooke-dark-web]]"
 ic_elements:
-  mlat_requests: []
+  mlat_requests:
+    []
   extradition: ""
   evidence_from_abroad:
     - "Cryptocurrency tracing and dark web proceeds records"
-  foreign_arrests: []
+  foreign_arrests:
+    []
   asset_freezing:
     - "Cash, cryptocurrency, computers, phones, and storage devices forfeited"
 cooperating_agencies:
@@ -43,7 +45,6 @@ sources:
 created: 2026-04-17
 updated: 2026-04-17
 ---
-
 ## Summary
 
 United States v. Curry and Brooke is a dark-web-proceeds laundering case involving an unlicensed business that converted cash to bitcoin for darknet participants.

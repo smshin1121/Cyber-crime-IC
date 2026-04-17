@@ -3,20 +3,20 @@ type: operation
 title: "Operation PowerOFF"
 aliases:
   - "Power Off"
-  - "PowerOFF"
+  - PowerOFF
   - "Operation Power Off"
-case_id: "CYB-2018-006"
+case_id: CYB-2018-006
 period: 1
-operation_type: "infrastructure-seizure"
-status: "ongoing"
+operation_type: infrastructure-seizure
+status: ongoing
 enforcement_type:
-  - "seizure"
-  - "arrest"
-  - "indictment"
-outcome: "success"
+  - seizure
+  - arrest
+  - indictment
+outcome: success
 timeframe:
-  announced: "2018-12-19"
-  start: "2018-12"
+  announced: 2018-12-19
+  start: 2018-12
   end: ""
   ongoing: true
 crime_type: "[[ddos-extortion|DDoS-for-Hire]]"
@@ -69,33 +69,35 @@ results:
     - "250+ formal warning letters issued"
     - "Google/YouTube ad campaigns for deterrence"
 edges:
-  - source_actor: "FBI"
+  - source_actor: FBI
     target_actor: "Europol EC3"
-    cooperation_type: "joint_investigation"
-    legal_basis: "Budapest_Convention"
-    direction: "undirected"
-  - source_actor: "FBI"
+    cooperation_type: joint_investigation
+    legal_basis: Budapest_Convention
+    direction: undirected
+  - source_actor: FBI
     target_actor: "UK NCA"
-    cooperation_type: "joint_investigation"
-    legal_basis: "MLAT"
-    direction: "undirected"
+    cooperation_type: joint_investigation
+    legal_basis: MLAT
+    direction: undirected
   - source_actor: "Europol EC3"
     target_actor: "Dutch National Police"
-    cooperation_type: "joint_investigation"
-    legal_basis: "Budapest_Convention"
-    direction: "undirected"
-  - source_actor: "FBI"
+    cooperation_type: joint_investigation
+    legal_basis: Budapest_Convention
+    direction: undirected
+  - source_actor: FBI
     target_actor: "Dutch National Police"
-    cooperation_type: "info_sharing"
-    legal_basis: "Budapest_Convention"
-    direction: "undirected"
+    cooperation_type: info_sharing
+    legal_basis: Budapest_Convention
+    direction: undirected
 credibility_index: 3.8
 source_tier: 1
-missing_fields: []
+missing_fields:
+  []
 related_cases:
   - "[[us-v-miller-poweroff]]"
 related_operations:
   - "[[ddos-for-hire-sweep-2016|Operation Tarpit (2016)]]"
+  - "[[operation-us-v-miller-poweroff]]"
 challenges_encountered:
   - "[[data-sovereignty]]"
 lessons_learned:
@@ -107,15 +109,14 @@ source_count: 7
 sources:
   - "[[fbi-international-ddos-for-hire-sweep|FBI DDoS-for-Hire Sweep (2016)]]"
   - "[[cyberscoop-international-ddos-for-hire-sweep|CyberScoop DDoS Sweep]]"
-  - "[3] Europol: Law enforcement shuts down 27 DDoS booters (2024-12-11)"
-  - "[4] DOJ: Federal Prosecutors Charge 6 Defendants (2022-12-14)"
-  - "[5] Wikipedia: Operation PowerOFF"
-  - "[6] DOJ: Law Enforcement Seizes 9 DDoS-for-Hire Webpages (2024-09)"
-  - "[7] DOJ: 13 More Domains Seized (2023-05-08)"
+  - "[3] Europol: "Law enforcement shuts down 27 DDoS booters (2024-12-11)\""
+  - "[4] DOJ: "Federal Prosecutors Charge 6 Defendants (2022-12-14)\""
+  - "[5] Wikipedia: "Operation PowerOFF\""
+  - "[6] DOJ: "Law Enforcement Seizes 9 DDoS-for-Hire Webpages (2024-09)\""
+  - "[7] DOJ: "13 More Domains Seized (2023-05-08)\""
 created: 2026-04-10
 updated: 2026-04-11
 ---
-
 ## Summary
 
 Operation PowerOFF is an **ongoing, multi-phase international law enforcement operation** targeting DDoS-for-hire (booter/stresser) services. Launched in December 2018 and still active as of December 2024, it is coordinated by [[europol-ec3|Europol's European Cybercrime Centre (EC3)]] and led operationally by the [[fbi-cyber-division|FBI]], with the [[uk-nca|UK National Crime Agency (NCA)]] as a core partner. The operation has conducted at least six major enforcement waves, seizing over 142 domains, arresting 16 individuals, and identifying hundreds of users across 15 countries.

@@ -4,23 +4,25 @@ title: "United States v. Aaron Brewer (Operation DisrupTor)"
 case_number: "N.D. Tex. Operation DisrupTor sentencing"
 jurisdiction: "U.S. District Court, Northern District of Texas"
 jurisdiction_country: "[[united-states]]"
-case_type: "prosecution"
-status: "sentenced"
+case_type: prosecution
+status: sentenced
 crime_charged:
   - "[[drug-trafficking]]"
 defendants:
   - name: "Aaron Brewer"
-    nationality: "American"
-    status: "sentenced"
+    nationality: American
+    status: sentenced
     sentence: "78 months"
     location_at_arrest: "United States"
-related_operation: ""
+related_operation: "[[operation-us-v-brewer-dark-web]]"
 ic_elements:
-  mlat_requests: []
+  mlat_requests:
+    []
   extradition: ""
   evidence_from_abroad:
     - "Dark web vendor account evidence tied to Operation DisrupTor"
-  foreign_arrests: []
+  foreign_arrests:
+    []
   asset_freezing:
     - "USD 50,000 forfeiture"
 cooperating_agencies:
@@ -38,7 +40,6 @@ sources:
 created: 2026-04-17
 updated: 2026-04-17
 ---
-
 ## Summary
 
 United States v. Brewer is a dark web narcotics case explicitly tied by DOJ to Operation DisrupTor. It shows how international darknet operations translated into concrete district-court prison sentences.

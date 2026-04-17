@@ -4,19 +4,19 @@ title: "Operation LadyBird -- Emotet Botnet Takedown"
 aliases:
   - "Operation LadyBird"
   - "Emotet Disruption"
-case_id: "CYB-2021-003"
+case_id: CYB-2021-003
 period: 2
-operation_type: "takedown"
-status: "completed"
+operation_type: takedown
+status: completed
 enforcement_type:
   - takedown
   - arrest
   - seizure
-outcome: "partial"
+outcome: partial
 timeframe:
-  announced: "2021-01-27"
-  start: "2019"
-  end: "2021-04-25"
+  announced: 2021-01-27
+  start: 2019
+  end: 2021-04-25
   ongoing: false
 crime_type: "[[ransomware-ic]]"
 target_entity: "Emotet botnet infrastructure and operators"
@@ -58,29 +58,30 @@ results:
 edges:
   - source_actor: "Netherlands NHTCU"
     target_actor: "Germany BKA"
-    cooperation_type: "joint_investigation"
-    legal_basis: "Budapest_Convention"
-    direction: "undirected"
+    cooperation_type: joint_investigation
+    legal_basis: Budapest_Convention
+    direction: undirected
   - source_actor: "Netherlands NHTCU"
     target_actor: "Ukraine Cyberpolice"
-    cooperation_type: "evidence_transfer"
-    legal_basis: "MLAT"
-    direction: "directed"
+    cooperation_type: evidence_transfer
+    legal_basis: MLAT
+    direction: directed
   - source_actor: "Europol EC3"
-    target_actor: "FBI"
-    cooperation_type: "info_sharing"
-    legal_basis: "bilateral_MOU"
-    direction: "undirected"
+    target_actor: FBI
+    cooperation_type: info_sharing
+    legal_basis: bilateral_MOU
+    direction: undirected
 credibility_index: 3.5
 source_tier: 1
 missing_fields:
-  - "cryptocurrency_seized"
+  - cryptocurrency_seized
   - "full list of national agencies beyond lead participants"
 related_cases:
   - "[[emotet-disruption-ladybird]]"
 related_operations:
   - "[[operation-endgame-phase1]]"
   - "[[operation-avalanche]]"
+  - "[[operation-emotet-disruption-ladybird]]"
 challenges_encountered:
   - "[[data-sovereignty]]"
 lessons_learned:
@@ -96,7 +97,6 @@ sources:
 created: 2026-04-10
 updated: 2026-04-14
 ---
-
 ## Summary
 
 Operation LadyBird was a multinational law enforcement operation that disrupted the **Emotet botnet** -- described by [[europol-ec3|Europol]] as "the world's most dangerous malware" -- on **27 January 2021**. The operation was coordinated by [[europol-ec3|Europol EC3]] and [[eurojust|Eurojust]], with the [[netherlands-politie|Dutch National Police (NHTCU)]] and Germany's Bundeskriminalamt (BKA) serving as the primary operational leads.

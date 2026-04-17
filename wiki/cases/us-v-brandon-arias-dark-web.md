@@ -4,24 +4,27 @@ title: "United States v. Brandon Arias (Drug Llama)"
 case_number: "S.D. Ill. Drug Llama plea"
 jurisdiction: "U.S. District Court, Southern District of Illinois"
 jurisdiction_country: "[[united-states]]"
-case_type: "prosecution"
-status: "pleaded_guilty"
+case_type: prosecution
+status: pleaded_guilty
 crime_charged:
   - "[[drug-trafficking]]"
 defendants:
   - name: "Brandon Arias"
-    nationality: "American"
+    nationality: American
     status: "pleaded guilty"
     sentence: ""
     location_at_arrest: "California, United States"
-related_operation: ""
+related_operation: "[[operation-us-v-brandon-arias-dark-web]]"
 ic_elements:
-  mlat_requests: []
+  mlat_requests:
+    []
   extradition: ""
   evidence_from_abroad:
     - "Dark web vendor evidence tied to the 'Drug Llama' identity"
-  foreign_arrests: []
-  asset_freezing: []
+  foreign_arrests:
+    []
+  asset_freezing:
+    []
 cooperating_agencies:
   - "[[us-doj]]"
 legal_frameworks_invoked:
@@ -37,7 +40,6 @@ sources:
 created: 2026-04-17
 updated: 2026-04-17
 ---
-
 ## Summary
 
 United States v. Arias is a guilty-plea case against one of the individuals behind the darknet fentanyl vendor identity "Drug Llama."

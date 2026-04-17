@@ -4,23 +4,25 @@ title: "United States v. Akshay Kancharla (OnlyTheFinest)"
 case_number: "E.D. Va. darknet vendor plea"
 jurisdiction: "U.S. District Court, Eastern District of Virginia"
 jurisdiction_country: "[[united-states]]"
-case_type: "prosecution"
-status: "convicted"
+case_type: prosecution
+status: convicted
 crime_charged:
   - "[[drug-trafficking]]"
 defendants:
   - name: "Akshay Ram Kancharla"
-    nationality: "American"
-    status: "convicted"
+    nationality: American
+    status: convicted
     sentence: ""
     location_at_arrest: "Florida, United States"
-related_operation: ""
+related_operation: "[[operation-us-v-kancharla-dark-web]]"
 ic_elements:
-  mlat_requests: []
+  mlat_requests:
+    []
   extradition: ""
   evidence_from_abroad:
     - "Darknet market evidence"
-  foreign_arrests: []
+  foreign_arrests:
+    []
   asset_freezing:
     - "Cryptocurrency wallet observed and seized"
 cooperating_agencies:
@@ -38,7 +40,6 @@ sources:
 created: 2026-04-17
 updated: 2026-04-17
 ---
-
 ## Summary
 
 United States v. Kancharla is a fentanyl-focused darknet vendor case involving the moniker `OnlyTheFinest` on ToRRez and Dark0de Reborn.

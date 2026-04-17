@@ -5,20 +5,20 @@ aliases:
   - "Silk Road seizure"
   - "Silk Road shutdown"
   - "Operation Silk Road"
-case_id: "CYB-2013-001"
+case_id: CYB-2013-001
 period: 1
-operation_type: "infrastructure-seizure"
-status: "completed"
+operation_type: infrastructure-seizure
+status: completed
 enforcement_type:
   - arrest
   - seizure
   - indictment
   - asset_freeze
-outcome: "success"
+outcome: success
 timeframe:
-  announced: "2013-10-02"
-  start: "2012-01-01"
-  end: "2013-10-02"
+  announced: 2013-10-02
+  start: 2012-01-01
+  end: 2013-10-02
   ongoing: false
 crime_type: "[[online-fraud-ic]]"
 target_entity: "Silk Road dark web marketplace and Ross William Ulbricht (Dread Pirate Roberts)"
@@ -48,24 +48,25 @@ results:
     - "Over 100,000 buyers served by thousands of vendors"
     - "Follow-on arrests of accomplices in Ireland, Thailand, and US"
 edges:
-  - source_actor: "FBI"
+  - source_actor: FBI
     target_actor: "Icelandic Police"
-    cooperation_type: "evidence_transfer"
-    legal_basis: "informal"
-    direction: "directed"
-  - source_actor: "FBI"
+    cooperation_type: evidence_transfer
+    legal_basis: informal
+    direction: directed
+  - source_actor: FBI
     target_actor: "Irish Garda"
-    cooperation_type: "extradition"
-    legal_basis: "bilateral_MOU"
-    direction: "directed"
-  - source_actor: "FBI"
+    cooperation_type: extradition
+    legal_basis: bilateral_MOU
+    direction: directed
+  - source_actor: FBI
     target_actor: "Thai Police"
-    cooperation_type: "extradition"
-    legal_basis: "MLAT"
-    direction: "directed"
+    cooperation_type: extradition
+    legal_basis: MLAT
+    direction: directed
 credibility_index: 4.5
 source_tier: 1
-missing_fields: []
+missing_fields:
+
 related_cases:
   - "[[us-v-ulbricht-silk-road]]"
   - "[[us-v-gary-davis-silk-road|United States v. Gary Davis (Silk Road)]]"
@@ -74,8 +75,21 @@ related_cases:
   - "[[us-v-sheldon-kennedy-silk-road|United States v. Sheldon Kennedy]]"
   - "[[us-v-roger-thomas-clark-silk-road|United States v. Roger Thomas Clark]]"
   - "[[us-v-haney-silk-road|United States v. Hugh Haney (Silk Road Laundering)]]"
+  - "[[us-v-gary-davis-silk-road]]"
+  - "[[us-v-haney-silk-road]]"
+  - "[[us-v-matthew-jones-silk-road]]"
+  - "[[us-v-olivia-bolles-silk-road]]"
+  - "[[us-v-roger-thomas-clark-silk-road]]"
+  - "[[us-v-sheldon-kennedy-silk-road]]"
 related_operations:
   - "[[darkmarket-takedown]]"
+  - "[[operation-us-v-gary-davis-silk-road]]"
+  - "[[operation-us-v-haney-silk-road]]"
+  - "[[operation-us-v-matthew-jones-silk-road]]"
+  - "[[operation-us-v-olivia-bolles-silk-road]]"
+  - "[[operation-us-v-roger-thomas-clark-silk-road]]"
+  - "[[operation-us-v-sheldon-kennedy-silk-road]]"
+  - "[[operation-us-v-ulbricht-silk-road]]"
 challenges_encountered:
   - "[[data-sovereignty]]"
 lessons_learned:
@@ -85,11 +99,10 @@ lessons_learned:
   - "Dark web marketplace takedowns trigger successor markets, requiring sustained enforcement"
 source_count: 7
 sources:
-  - "[[wired-operation-avalanche|Wired: Silk Road 2.0 / Ulbricht Sentencing Coverage]]"
+  - "[[wired-operation-avalanche|Wired: "Silk Road 2.0 / Ulbricht Sentencing Coverage]]\""
 created: 2026-04-10
 updated: 2026-04-17
 ---
-
 ## Summary
 
 The Silk Road takedown was the seizure and shutdown of the pioneering dark web drug marketplace on 2 October 2013, accompanied by the arrest of its creator and operator, Ross William Ulbricht (alias "Dread Pirate Roberts" or "DPR"), by the [[fbi-cyber-division|FBI]] in San Francisco. Silk Road, which operated on the Tor anonymity network from approximately February 2011, had facilitated an estimated USD 1.2 billion in illegal transactions -- primarily narcotics -- serving over 100,000 buyers through thousands of vendors worldwide. The FBI seized approximately 173,991 bitcoins (then worth ~$33.6 million) and the Silk Road server infrastructure hosted in Iceland.

@@ -4,24 +4,27 @@ title: "United States v. James Bookman (Dark Web Fentanyl Distributor)"
 case_number: "M.D. Fla. dark web fentanyl sentencing"
 jurisdiction: "U.S. District Court, Middle District of Florida"
 jurisdiction_country: "[[united-states]]"
-case_type: "prosecution"
-status: "sentenced"
+case_type: prosecution
+status: sentenced
 crime_charged:
   - "[[drug-trafficking]]"
 defendants:
   - name: "James Bookman"
-    nationality: "American"
-    status: "sentenced"
+    nationality: American
+    status: sentenced
     sentence: "15 years and 8 months"
     location_at_arrest: "Florida, United States"
-related_operation: ""
+related_operation: "[[operation-us-v-bookman-dark-web]]"
 ic_elements:
-  mlat_requests: []
+  mlat_requests:
+    []
   extradition: ""
   evidence_from_abroad:
     - "Dark web sales evidence"
-  foreign_arrests: []
-  asset_freezing: []
+  foreign_arrests:
+    []
+  asset_freezing:
+    []
 cooperating_agencies:
   - "[[us-doj]]"
 legal_frameworks_invoked:
@@ -37,7 +40,6 @@ sources:
 created: 2026-04-17
 updated: 2026-04-17
 ---
-
 ## Summary
 
 United States v. Bookman is a severe dark web fentanyl case in which DOJ linked the defendant's online sales to a customer overdose death.

@@ -4,24 +4,27 @@ title: "United States v. Tenzin Orgil (Dark Web Vendor)"
 case_number: "S.D. Fla. dark web vendor sentencing"
 jurisdiction: "U.S. District Court, Southern District of Florida"
 jurisdiction_country: "[[united-states]]"
-case_type: "prosecution"
-status: "sentenced"
+case_type: prosecution
+status: sentenced
 crime_charged:
   - "[[drug-trafficking]]"
 defendants:
   - name: "Tenzin Orgil"
-    nationality: "American"
-    status: "sentenced"
+    nationality: American
+    status: sentenced
     sentence: "168 months"
     location_at_arrest: "California, United States"
-related_operation: ""
+related_operation: "[[operation-us-v-orgil-dark-web]]"
 ic_elements:
-  mlat_requests: []
+  mlat_requests:
+    []
   extradition: ""
   evidence_from_abroad:
     - "Dark web market evidence"
-  foreign_arrests: []
-  asset_freezing: []
+  foreign_arrests:
+    []
+  asset_freezing:
+    []
 cooperating_agencies:
   - "[[us-doj]]"
 legal_frameworks_invoked:
@@ -37,7 +40,6 @@ sources:
 created: 2026-04-17
 updated: 2026-04-17
 ---
-
 ## Summary
 
 United States v. Orgil combines dark web sales with clandestine drug manufacturing, making it a broader narcotics-production case than many vendor-only prosecutions.

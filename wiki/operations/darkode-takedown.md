@@ -1,75 +1,63 @@
 ---
 aliases:
-- Darkode takedown
-- Darkode cybercrime forum bust
+  []
 case_id: CYB-2015-051
-challenges_encountered: []
-coordinating_body: '[[europol-ec3]]'
+challenges_encountered:
+  []
+coordinating_body: "[[europol-ec3]]"
 created: 2026-04-08
 credibility_index: 2.18
-crime_type: '[[cybercrime-forum-ic]]'
+crime_type: "[[cybercrime-forum-ic]]"
 edges:
-- cooperation_type: joint_investigation
-  direction: undirected
-  legal_basis: unknown
-  source_actor: FBI
-  target_actor: Europol
+  []
 enforcement_type:
-- arrest
-- takedown
-- indictment
-lead_agency: '[[fbi-cyber-division]]'
-legal_basis: []
-lessons_learned: []
-mechanisms_used: []
+  []
+lead_agency: "[[fbi-cyber-division]]"
+legal_basis:
+  []
+lessons_learned:
+  []
+mechanisms_used:
+  []
 missing_fields:
-- legal_basis
-- mechanisms_used
-- complete_participating_countries
+  []
 operation_type: takedown
 outcome: success
 participating_agencies:
-- '[[fbi-cyber-division]]'
-- '[[europol-ec3]]'
+  []
 participating_countries:
-- '[[united-states]]'
-- '[[united-kingdom]]'
-- '[[australia]]'
-- '[[brazil]]'
-- '[[israel]]'
-- '[[nigeria]]'
+  []
 period: 1
 related_cases:
-- '[[us-v-gudmunds-darkode]]'
-related_operations: []
+  - "[[us-v-gudmunds-darkode]]"
+related_operations:
+  - "[[operation-us-v-gudmunds-darkode]]"
 results:
   arrests: 28
-  cryptocurrency_seized: ''
+  cryptocurrency_seized: ""
   decryption_keys_recovered: 0
   domains_seized: 1
   indictments: 12
   other:
-  - Darkode forum seized and shut down
-  - Members from 20 countries identified
+    []
   servers_seized: 0
   victims_notified: 0
 source_count: 1
 source_tier: 3
 sources:
-- tier3-krebsonsecurity-darkode-2015
+  []
 status: completed
-target_entity: Darkode cybercrime forum
+target_entity: "Darkode cybercrime forum"
 timeframe:
-  announced: '2015-07-15'
-  end: '2015-07-15'
+  announced: 2015-07-15
+  end: 2015-07-15
   ongoing: false
-  start: '2015-07-15'
-title: Darkode Forum Takedown
-title_ko: Darkode 포럼 소탕
+  start: 2015-07-15
+title: "Darkode Forum Takedown"
+title_ko: "Darkode 포럼 소탕"
 type: operation
 updated: 2026-04-12
 ---
-
 > [!note] This operation is documented from a Tier 3 (cybersecurity media) source. Additional verification from official sources (Tier 1-2) would strengthen data reliability.
 
 ## Summary

@@ -1,3 +1,13 @@
+---
+related_operations:
+  - "[[operation-us-v-benthall-silk-road-2]]"
+  - "[[operation-us-v-farrell-silk-road-2]]"
+  - "[[operation-us-v-paiva-silk-road-2]]"
+related_cases:
+  - "[[us-v-benthall-silk-road-2]]"
+  - "[[us-v-farrell-silk-road-2]]"
+  - "[[us-v-paiva-silk-road-2]]"
+---
 ﻿---
 type: operation
 title: "Operation Onymous"

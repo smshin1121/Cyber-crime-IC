@@ -1,92 +1,63 @@
 ---
 aliases:
-- Infraud bust
-- Infraud Organization takedown 2018
+  []
 case_id: CYB-2018-003
-challenges_encountered: []
-coordinating_body: ''
+challenges_encountered:
+  []
+coordinating_body: ""
 created: 2026-04-08
 credibility_index: 3.3
-crime_type: '[[cybercrime-forum-ic]]'
+crime_type: "[[cybercrime-forum-ic]]"
 edges:
-- cooperation_type: joint_investigation
-  direction: directed
-  legal_basis: unknown
-  source_actor: US DOJ
-  target_actor: Thailand Police
-- cooperation_type: info_sharing
-  direction: undirected
-  legal_basis: unknown
-  source_actor: FBI
-  target_actor: Australian Federal Police
+  []
 enforcement_type:
-- arrest
-- indictment
-- takedown
-lead_agency: '[[us-doj]]'
-legal_basis: []
+  []
+lead_agency: "[[us-doj]]"
+legal_basis:
+  []
 lessons_learned:
-- Long-running cybercrime forums can be dismantled through sustained international
-  cooperation
-- Arrests in third countries (Thailand) demonstrate reach of international law enforcement
-mechanisms_used: []
+  []
+mechanisms_used:
+  []
 missing_fields:
-- legal_basis
-- mechanisms_used
-- complete_participating_agencies
+  []
 operation_type: arrest-sweep
 outcome: success
 participating_agencies:
-- '[[us-doj]]'
-- '[[fbi-cyber-division]]'
+  []
 participating_countries:
-- '[[united-states]]'
-- '[[australia]]'
-- '[[united-kingdom]]'
-- '[[france]]'
-- '[[italy]]'
-- '[[serbia]]'
-- '[[thailand]]'
+  []
 period: 1
 related_cases:
-- '[[us-v-bondarenko-infraud]]'
+  - "[[us-v-bondarenko-infraud]]"
 related_operations:
-- '[[infraud-telusma-sentencing]]'
+  - "[[operation-us-v-bondarenko-infraud]]"
 results:
   arrests: 13
-  cryptocurrency_seized: ''
+  cryptocurrency_seized: ""
   decryption_keys_recovered: 0
   domains_seized: 0
   indictments: 36
   other:
-  - Infraud Organization had 10,901 members
-  - Estimated $530 million in losses
-  - Russian organizer Sergey Medvedev arrested in Thailand
+    []
   servers_seized: 0
   victims_notified: 0
 source_count: 7
 source_tier: 2
 sources:
-- tier2-ice-infraud-2018
-- tier3-krebsonsecurity-infraud-2018
-- tier3-wired-infraud-2018
-- tier3-cbsnews-infraud-2018
-- tier3-voanews-infraud-2018
-- tier3-techtarget-infraud-2018
-- tier3-abc-infraud-2018
+  []
 status: completed
-target_entity: Infraud Organization cybercrime forum
+target_entity: "Infraud Organization cybercrime forum"
 timeframe:
-  announced: '2018-02-07'
-  end: '2018-02-07'
+  announced: 2018-02-07
+  end: 2018-02-07
   ongoing: false
-  start: '2018-02-07'
-title: Infraud Organization Takedown
-title_ko: 인프라우드 조직 소탕
+  start: 2018-02-07
+title: "Infraud Organization Takedown"
+title_ko: "인프라우드 조직 소탕"
 type: operation
-updated: '2026-04-12'
+updated: 2026-04-12
 ---
-
 > [!note] This operation is documented from a Tier 3 (cybersecurity media) source. Additional verification from official sources (Tier 1-2) would strengthen data reliability.
 
 ## Summary

@@ -4,24 +4,26 @@ title: "United States v. Ryan Scott Cochran (Dark Web Vendor)"
 case_number: "24-CR-063 (RER)"
 jurisdiction: "U.S. District Court, Eastern District of New York"
 jurisdiction_country: "[[united-states]]"
-case_type: "prosecution"
-status: "pleaded_guilty"
+case_type: prosecution
+status: pleaded_guilty
 crime_charged:
   - "[[drug-trafficking]]"
   - "[[counterfeit-goods]]"
 defendants:
   - name: "Ryan Scott Cochran"
-    nationality: "American"
+    nationality: American
     status: "pleaded guilty"
     sentence: ""
     location_at_arrest: "California, United States"
-related_operation: ""
+related_operation: "[[operation-us-v-ryan-scott-cochran-dark-web]]"
 ic_elements:
-  mlat_requests: []
+  mlat_requests:
+    []
   extradition: ""
   evidence_from_abroad:
     - "Dark web marketplace records and cryptocurrency evidence"
-  foreign_arrests: []
+  foreign_arrests:
+    []
   asset_freezing:
     - "More than USD 1.1 million forfeiture agreed"
 cooperating_agencies:
@@ -40,7 +42,6 @@ sources:
 created: 2026-04-17
 updated: 2026-04-17
 ---
-
 ## Summary
 
 United States v. Cochran is a guilty-plea case against a long-running dark web vendor who sold drugs and fraudulent documents through the mail.

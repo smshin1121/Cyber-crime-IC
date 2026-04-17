@@ -4,30 +4,33 @@ title: "United States v. Sirotkin and Deaver (Pill Cosby)"
 case_number: "S.D. Ohio dark web trafficking sentencing"
 jurisdiction: "U.S. District Court, Southern District of Ohio"
 jurisdiction_country: "[[united-states]]"
-case_type: "prosecution"
-status: "sentenced"
+case_type: prosecution
+status: sentenced
 crime_charged:
   - "[[drug-trafficking]]"
   - "[[money-laundering-ic]]"
 defendants:
   - name: "Khlari Sirotkin"
-    nationality: "American"
-    status: "sentenced"
+    nationality: American
+    status: sentenced
     sentence: "16 years"
     location_at_arrest: "United States"
   - name: "Sean Deaver"
-    nationality: "American"
-    status: "sentenced"
+    nationality: American
+    status: sentenced
     sentence: "18 years"
     location_at_arrest: "United States"
-related_operation: ""
+related_operation: "[[operation-us-v-sirotkin-deaver-dark-web]]"
 ic_elements:
-  mlat_requests: []
+  mlat_requests:
+    []
   extradition: ""
   evidence_from_abroad:
     - "Dark web marketplace accounts and laundering records"
-  foreign_arrests: []
-  asset_freezing: []
+  foreign_arrests:
+    []
+  asset_freezing:
+    []
 cooperating_agencies:
   - "[[us-doj]]"
 legal_frameworks_invoked:
@@ -44,7 +47,6 @@ sources:
 created: 2026-04-17
 updated: 2026-04-17
 ---
-
 ## Summary
 
 United States v. Sirotkin and Deaver is a large-scale dark web fentanyl and laundering case tied to the account `Pill Cosby`.

@@ -2,17 +2,20 @@
 type: operation
 title: "FIN7 Cybercrime Group Takedown"
 title_ko: "공식 작전명 없음 (FIN7 사이버범죄 조직 단속)"
-aliases: ["FIN7 Arrest"]
-case_id: "CYB-2018-004"
+aliases:
+  - "FIN7 Arrest"
+case_id: CYB-2018-004
 period: 1
-operation_type: "joint-investigation"
-status: "completed"
-enforcement_type: ["arrest", "indictment"]
-outcome: "success"
+operation_type: joint-investigation
+status: completed
+enforcement_type:
+  - arrest
+  - indictment
+outcome: success
 timeframe:
-  announced: "2018"
-  start: "2015"
-  end: "2018"
+  announced: 2018
+  start: 2015
+  end: 2018
   ongoing: false
 crime_type: "[[hacking-ic]]"
 target_entity: "FIN7 (Carbanak Group)"
@@ -26,8 +29,10 @@ participating_countries:
 participating_agencies:
   - "[[fbi]]"
   - "[[usdoj]]"
-legal_basis: []
-mechanisms_used: []
+legal_basis:
+  []
+mechanisms_used:
+  []
 results:
   arrests: 3
   indictments: 3
@@ -40,26 +45,30 @@ results:
     - "15 million+ credit card numbers stolen from 100+ US companies"
     - "Targeting restaurants, gaming, and hospitality sectors"
 edges:
-  - source_actor: "FBI"
+  - source_actor: FBI
     target_actor: "UK law enforcement"
-    cooperation_type: "joint_investigation"
-    legal_basis: "unknown"
-    direction: "undirected"
+    cooperation_type: joint_investigation
+    legal_basis: unknown
+    direction: undirected
 credibility_index: 2.28
 source_tier: 2
-missing_fields: ["legal_basis", "mechanisms_used"]
+missing_fields:
+  - legal_basis
+  - mechanisms_used
 related_cases:
   - "[[us-v-hladyr-fin7]]"
-related_operations: []
-challenges_encountered: []
-lessons_learned: []
+related_operations:
+  - "[[operation-us-v-hladyr-fin7]]"
+challenges_encountered:
+  []
+lessons_learned:
+  []
 source_count: 1
 sources:
   - "[1] FBI News (2018)"
 created: 2026-04-08
 updated: 2026-04-08
 ---
-
 ## Summary
 
 The FBI and U.S. Department of Justice investigated and prosecuted the FIN7 cybercrime group, which since 2015 had used malware and phishing attacks to steal over 15 million credit card numbers from more than 100 U.S. companies in the restaurant, gaming, and hotel sectors. Key members of the group were arrested in 2018, and stolen data had been sold on dark web marketplaces. The investigation involved cooperation with law enforcement in the United Kingdom, Australia, and France.

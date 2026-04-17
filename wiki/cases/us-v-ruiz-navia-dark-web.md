@@ -4,29 +4,32 @@ title: "United States v. Ruiz and Navia (Darknet Fentanyl Suppliers)"
 case_number: "C.D. Cal. darknet fentanyl sentencing"
 jurisdiction: "U.S. District Court, Central District of California"
 jurisdiction_country: "[[united-states]]"
-case_type: "prosecution"
-status: "sentenced"
+case_type: prosecution
+status: sentenced
 crime_charged:
   - "[[drug-trafficking]]"
 defendants:
   - name: "Adan Ruiz"
-    nationality: "American"
-    status: "sentenced"
+    nationality: American
+    status: sentenced
     sentence: "215 months"
     location_at_arrest: "California, United States"
   - name: "Omar Navia"
-    nationality: "American"
-    status: "sentenced"
+    nationality: American
+    status: sentenced
     sentence: "180 months"
     location_at_arrest: "California, United States"
-related_operation: ""
+related_operation: "[[operation-us-v-ruiz-navia-dark-web]]"
 ic_elements:
-  mlat_requests: []
+  mlat_requests:
+    []
   extradition: ""
   evidence_from_abroad:
     - "Darknet marketplace sales records"
-  foreign_arrests: []
-  asset_freezing: []
+  foreign_arrests:
+    []
+  asset_freezing:
+    []
 cooperating_agencies:
   - "[[us-doj]]"
 legal_frameworks_invoked:
@@ -42,7 +45,6 @@ sources:
 created: 2026-04-17
 updated: 2026-04-17
 ---
-
 ## Summary
 
 United States v. Ruiz and Navia is a darknet fentanyl supply case involving more than 1,000 customers nationwide and sentences of roughly 18 and 15 years.

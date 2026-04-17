@@ -4,34 +4,37 @@ title: "United States v. Dittman, Schiffner, and Langer (Darknet Fentanyl Vendor
 case_number: "E.D. Va. darknet fentanyl vendors sentencing"
 jurisdiction: "U.S. District Court, Eastern District of Virginia"
 jurisdiction_country: "[[united-states]]"
-case_type: "prosecution"
-status: "sentenced"
+case_type: prosecution
+status: sentenced
 crime_charged:
   - "[[drug-trafficking]]"
 defendants:
   - name: "Veronica Dittman"
-    nationality: "American"
-    status: "sentenced"
+    nationality: American
+    status: sentenced
     sentence: "60 months"
     location_at_arrest: "Arizona, United States"
   - name: "Rick Schiffner"
-    nationality: "American"
-    status: "sentenced"
+    nationality: American
+    status: sentenced
     sentence: ""
     location_at_arrest: "Arizona, United States"
   - name: "Devin Langer"
-    nationality: "American"
-    status: "sentenced"
+    nationality: American
+    status: sentenced
     sentence: ""
     location_at_arrest: "Arizona, United States"
-related_operation: ""
+related_operation: "[[operation-us-v-dittman-schiffner-langer-dark-web]]"
 ic_elements:
-  mlat_requests: []
+  mlat_requests:
+    []
   extradition: ""
   evidence_from_abroad:
     - "Darknet marketplace records"
-  foreign_arrests: []
-  asset_freezing: []
+  foreign_arrests:
+    []
+  asset_freezing:
+    []
 cooperating_agencies:
   - "[[us-doj]]"
 legal_frameworks_invoked:
@@ -47,7 +50,6 @@ sources:
 created: 2026-04-17
 updated: 2026-04-17
 ---
-
 ## Summary
 
 United States v. Dittman, Schiffner, and Langer is a high-volume darknet fentanyl and methamphetamine case involving multiple vendor aliases and more than 1,300 darknet sales.

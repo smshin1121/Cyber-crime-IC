@@ -4,24 +4,27 @@ title: "United States v. Brian McDonald (Darknet Fentanyl Seller)"
 case_number: "C.D. Cal. darknet fentanyl sentencing"
 jurisdiction: "U.S. District Court, Central District of California"
 jurisdiction_country: "[[united-states]]"
-case_type: "prosecution"
-status: "sentenced"
+case_type: prosecution
+status: sentenced
 crime_charged:
   - "[[drug-trafficking]]"
 defendants:
   - name: "Brian McDonald"
-    nationality: "American"
-    status: "sentenced"
+    nationality: American
+    status: sentenced
     sentence: "248 months"
     location_at_arrest: "California, United States"
-related_operation: ""
+related_operation: "[[operation-us-v-brian-mcdonald-dark-web]]"
 ic_elements:
-  mlat_requests: []
+  mlat_requests:
+    []
   extradition: ""
   evidence_from_abroad:
     - "Darknet marketplace evidence"
-  foreign_arrests: []
-  asset_freezing: []
+  foreign_arrests:
+    []
+  asset_freezing:
+    []
 cooperating_agencies:
   - "[[us-doj]]"
 legal_frameworks_invoked:
@@ -37,7 +40,6 @@ sources:
 created: 2026-04-17
 updated: 2026-04-17
 ---
-
 ## Summary
 
 United States v. Brian McDonald is a severe darknet fentanyl case involving a fatal overdose and firearms possession in furtherance of drug trafficking.

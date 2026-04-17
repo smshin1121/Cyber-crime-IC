@@ -2,20 +2,22 @@
 type: operation
 title: "Rydox Marketplace Takedown"
 title_ko: "라이독스 마켓플레이스 소탕"
-aliases: ["Rydox takedown", "Rydox marketplace seizure"]
-case_id: "CYB-2024-053"
+aliases:
+  - "Rydox takedown"
+  - "Rydox marketplace seizure"
+case_id: CYB-2024-053
 period: 3
-operation_type: "takedown"
-status: "completed"
+operation_type: takedown
+status: completed
 enforcement_type:
-  - "arrest"
-  - "seizure"
-  - "takedown"
-outcome: "success"
+  - arrest
+  - seizure
+  - takedown
+outcome: success
 timeframe:
-  announced: "2024-12-12"
-  start: "2024-12-12"
-  end: "2024-12-12"
+  announced: 2024-12-12
+  start: 2024-12-12
+  end: 2024-12-12
   ongoing: false
 crime_type: "[[cybercrime-forum-ic]]"
 target_entity: "Rydox marketplace"
@@ -28,8 +30,10 @@ participating_countries:
   - "[[malaysia]]"
 participating_agencies:
   - "[[fbi-cyber-division]]"
-legal_basis: []
-mechanisms_used: []
+legal_basis:
+  []
+mechanisms_used:
+  []
 results:
   arrests: 3
   indictments: 0
@@ -43,40 +47,43 @@ results:
     - "Administrators arrested in Albania, Kosovo, and Malaysia"
     - "Marketplace sold stolen personal data, access devices, and cybercrime tools"
 edges:
-  - source_actor: "FBI"
+  - source_actor: FBI
     target_actor: "Albania Police"
-    cooperation_type: "joint_investigation"
-    legal_basis: "unknown"
-    direction: "undirected"
-  - source_actor: "FBI"
+    cooperation_type: joint_investigation
+    legal_basis: unknown
+    direction: undirected
+  - source_actor: FBI
     target_actor: "Kosovo Police"
-    cooperation_type: "joint_investigation"
-    legal_basis: "unknown"
-    direction: "undirected"
-  - source_actor: "FBI"
+    cooperation_type: joint_investigation
+    legal_basis: unknown
+    direction: undirected
+  - source_actor: FBI
     target_actor: "Malaysia Police"
-    cooperation_type: "joint_investigation"
-    legal_basis: "unknown"
-    direction: "undirected"
+    cooperation_type: joint_investigation
+    legal_basis: unknown
+    direction: undirected
 credibility_index: 1.88
 source_tier: 3
 missing_fields:
-  - "legal_basis"
-  - "mechanisms_used"
-  - "financial_losses"
-  - "url"
+  - legal_basis
+  - mechanisms_used
+  - financial_losses
+  - url
 related_cases:
   - "[[us-v-kutleshi-rydox|United States v. Kutleshi (Rydox Marketplace)]]"
-related_operations: []
-challenges_encountered: []
+  - "[[us-v-kutleshi-rydox]]"
+related_operations:
+  - "[[operation-us-v-kutleshi-rydox]]"
+challenges_encountered:
+  []
 lessons_learned:
   - "Cybercrime marketplace operators can be arrested simultaneously across multiple continents"
 source_count: 1
-sources: []
+sources:
+  []
 created: 2026-04-08
 updated: 2026-04-17
 ---
-
 > [!note] This operation is documented from a Tier 3 (cybersecurity media) source. Additional verification from official sources (Tier 1-2) would strengthen data reliability.
 
 ## Summary

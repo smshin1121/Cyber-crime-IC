@@ -1,91 +1,62 @@
 ---
 aliases:
-- Qakbot Indictment
-- United States v. Gallyamov
+  []
 case_id: CYB-2025-005
 challenges_encountered:
-- Suspect located in Russia — extradition highly unlikely given geopolitical situation
-- Criminal activity continued even after botnet infrastructure takedown in August
-  2023
-coordinating_body: '[[europol-ec3]]'
+  []
+coordinating_body: "[[europol-ec3]]"
 created: 2026-04-08
 credibility_index: 3.25
-crime_type: '[[ransomware-ic]]'
+crime_type: "[[ransomware-ic]]"
 edges:
-- cooperation_type: joint_investigation
-  direction: undirected
-  legal_basis: unknown
-  source_actor: FBI
-  target_actor: Europol
-- cooperation_type: joint_investigation
-  direction: undirected
-  legal_basis: unknown
-  source_actor: FBI
-  target_actor: German BKA
-- cooperation_type: joint_investigation
-  direction: undirected
-  legal_basis: unknown
-  source_actor: FBI
-  target_actor: Dutch National Police
+  []
 enforcement_type:
-- indictment
-- asset_freeze
-lead_agency: '[[fbi-cyber-division]]'
-legal_basis: []
+  []
+lead_agency: "[[fbi-cyber-division]]"
+legal_basis:
+  []
 lessons_learned:
-- Infrastructure takedowns alone may not stop determined operators; sustained investigation
-  and indictment are necessary
-- Cryptocurrency forfeiture provides financial disruption even when arrest is not
-  immediately possible
-mechanisms_used: []
+  []
+mechanisms_used:
+  []
 missing_fields:
-- legal_basis
-- mechanisms_used
+  []
 operation_type: joint-investigation
 outcome: ongoing
 participating_agencies:
-- '[[fbi-cyber-division]]'
-- '[[europol-ec3]]'
+  []
 participating_countries:
-- '[[united-states]]'
-- '[[united-kingdom]]'
-- '[[france]]'
-- '[[germany]]'
-- '[[netherlands]]'
+  []
 period: 3
 related_cases:
-- '[[us-v-gallyamov-qakbot]]'
+  - "[[us-v-gallyamov-qakbot]]"
 related_operations:
-- '[[operation-endgame-phase1]]'
-- '[[operation-endgame-phase2]]'
+  - "[[operation-us-v-gallyamov-qakbot]]"
 results:
   arrests: 0
-  cryptocurrency_seized: USD 24,000,000+
+  cryptocurrency_seized: "USD 24,000,000+"
   decryption_keys_recovered: 0
   domains_seized: 0
   indictments: 1
   other:
-  - Civil forfeiture complaint filed for USD 24M+ in cryptocurrency
-  - Continues from FBI's August 2023 QakBot botnet takedown
-  - Gallyamov allegedly continued criminal activity through January 2025
+    []
   servers_seized: 0
   victims_notified: 0
 source_count: 1
 source_tier: 2
 sources:
-- '[[2025-05-22-doj-qakbot-gallyamov-indictment]]'
+  []
 status: ongoing
-target_entity: Rustam Rafailevich Gallyamov and Qakbot malware network
+target_entity: "Rustam Rafailevich Gallyamov and Qakbot malware network"
 timeframe:
-  announced: '2025-05-22'
-  end: ''
+  announced: 2025-05-22
+  end: ""
   ongoing: true
-  start: '2008'
-title: QakBot / Gallyamov Indictment
+  start: 2008
+title: "QakBot / Gallyamov Indictment"
 type: operation
 updated: 2026-04-12
 ---
-
 ## Summary
 
 The US Department of Justice unsealed an indictment on 22 May 2025 charging **Rustam Rafailevich Gallyamov**, 48, of Moscow, Russia, with leading the Qakbot malware conspiracy since 2008. Gallyamov allegedly used Qakbot to build a botnet providing access to co-conspirators who deployed ransomware variants including **ProLock, DopplePaymer, Egregor, REvil, Conti, Name Locker, Black Basta, and Cactus**. Despite the [[fbi-cyber-division|FBI's]] August 2023 takedown of the Qakbot botnet, Gallyamov allegedly continued criminal activity through January 2025. The DOJ filed a civil forfeiture complaint against **USD 24 million+** in cryptocurrency.

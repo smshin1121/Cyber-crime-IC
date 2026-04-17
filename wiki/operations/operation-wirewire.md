@@ -2,17 +2,21 @@
 type: operation
 title: "Operation WireWire"
 title_ko: "Operation WireWire (BEC 국제 단속)"
-aliases: []
-case_id: "CYB-2018-002"
+aliases:
+  []
+case_id: CYB-2018-002
 period: 1
-operation_type: "arrest-sweep"
-status: "completed"
-enforcement_type: ["arrest", "seizure", "asset_freeze"]
-outcome: "success"
+operation_type: arrest-sweep
+status: completed
+enforcement_type:
+  - arrest
+  - seizure
+  - asset_freeze
+outcome: success
 timeframe:
-  announced: "2018-06-11"
-  start: "2017"
-  end: "2018-06"
+  announced: 2018-06-11
+  start: 2017
+  end: 2018-06
   ongoing: false
 crime_type: "[[bec-ic]]"
 target_entity: "Business Email Compromise (BEC) networks"
@@ -30,8 +34,10 @@ participating_agencies:
   - "[[us-dhs]]"
   - "[[us-treasury]]"
   - "[[us-postal-inspection]]"
-legal_basis: []
-mechanisms_used: []
+legal_basis:
+  []
+mechanisms_used:
+  []
 results:
   arrests: 74
   indictments: 0
@@ -44,26 +50,31 @@ results:
     - "$2.4 million seized"
     - "$14 million in fraudulent wire transfers intercepted and recovered"
 edges:
-  - source_actor: "FBI"
+  - source_actor: FBI
     target_actor: "Nigeria law enforcement"
-    cooperation_type: "joint_investigation"
-    legal_basis: "unknown"
-    direction: "undirected"
+    cooperation_type: joint_investigation
+    legal_basis: unknown
+    direction: undirected
 credibility_index: 2.28
 source_tier: 2
-missing_fields: ["legal_basis", "mechanisms_used"]
+missing_fields:
+  - legal_basis
+  - mechanisms_used
 related_cases:
   - "[[us-v-odufuye-nwoke-bec|United States v. Odufuye and Nwoke (BEC)]]"
-related_operations: []
-challenges_encountered: []
-lessons_learned: []
+  - "[[us-v-odufuye-nwoke-bec]]"
+related_operations:
+  - "[[operation-us-v-odufuye-nwoke-bec]]"
+challenges_encountered:
+  []
+lessons_learned:
+  []
 source_count: 1
 sources:
   - "[1] FBI News (2018-06-11)"
 created: 2026-04-08
 updated: 2026-04-17
 ---
-
 ## Summary
 
 Operation WireWire was a coordinated international law enforcement operation led by the U.S. Department of Justice, FBI, Department of Homeland Security, and Treasury Department to disrupt Business Email Compromise (BEC) and Email Account Compromise (EAC) schemes. The operation resulted in 74 arrests across the United States, Nigeria, Canada, Mauritius, and Poland, with approximately $2.4 million seized and $14 million in fraudulent wire transfers intercepted and recovered.

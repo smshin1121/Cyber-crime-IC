@@ -4,40 +4,43 @@ title: "United States v. Gregory Castillo-Rosario et al. (Darknet Counterfeit Ad
 case_number: "E.D. Va. darknet counterfeit Adderall sentencing"
 jurisdiction: "U.S. District Court, Eastern District of Virginia"
 jurisdiction_country: "[[united-states]]"
-case_type: "prosecution"
-status: "sentenced"
+case_type: prosecution
+status: sentenced
 crime_charged:
   - "[[counterfeit-goods]]"
   - "[[drug-trafficking]]"
 defendants:
   - name: "Gregory Castillo-Rosario"
-    nationality: "American"
-    status: "sentenced"
+    nationality: American
+    status: sentenced
     sentence: ""
     location_at_arrest: "New York, United States"
   - name: "Joseph James Vasquez"
-    nationality: "American"
-    status: "sentenced"
+    nationality: American
+    status: sentenced
     sentence: ""
     location_at_arrest: "New York, United States"
   - name: "Joshua William Vasquez"
-    nationality: "American"
-    status: "sentenced"
+    nationality: American
+    status: sentenced
     sentence: ""
     location_at_arrest: "New Jersey, United States"
   - name: "Rafael Antonio Roman"
-    nationality: "American"
-    status: "sentenced"
+    nationality: American
+    status: sentenced
     sentence: ""
     location_at_arrest: "New York, United States"
-related_operation: ""
+related_operation: "[[operation-us-v-castillo-rosario-vasquez-roman-dark-web]]"
 ic_elements:
-  mlat_requests: []
+  mlat_requests:
+    []
   extradition: ""
   evidence_from_abroad:
     - "Darknet vendor-account evidence"
-  foreign_arrests: []
-  asset_freezing: []
+  foreign_arrests:
+    []
+  asset_freezing:
+    []
 cooperating_agencies:
   - "[[us-doj]]"
 legal_frameworks_invoked:
@@ -54,7 +57,6 @@ sources:
 created: 2026-04-17
 updated: 2026-04-17
 ---
-
 ## Summary
 
 United States v. Castillo-Rosario et al. is a multi-defendant darknet case involving counterfeit Adderall pills containing methamphetamine.

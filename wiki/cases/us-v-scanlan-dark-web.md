@@ -4,25 +4,28 @@ title: "United States v. Melissa Scanlan (The Drug Llama)"
 case_number: "S.D. Ill. Drug Llama sentencing"
 jurisdiction: "U.S. District Court, Southern District of Illinois"
 jurisdiction_country: "[[united-states]]"
-case_type: "prosecution"
-status: "sentenced"
+case_type: prosecution
+status: sentenced
 crime_charged:
   - "[[drug-trafficking]]"
   - "[[money-laundering-ic]]"
 defendants:
   - name: "Melissa Scanlan"
-    nationality: "American"
-    status: "sentenced"
+    nationality: American
+    status: sentenced
     sentence: "160 months"
     location_at_arrest: "United States"
-related_operation: ""
+related_operation: "[[operation-us-v-scanlan-dark-web]]"
 ic_elements:
-  mlat_requests: []
+  mlat_requests:
+    []
   extradition: ""
   evidence_from_abroad:
     - "International money-laundering component"
-  foreign_arrests: []
-  asset_freezing: []
+  foreign_arrests:
+    []
+  asset_freezing:
+    []
 cooperating_agencies:
   - "[[us-doj]]"
 legal_frameworks_invoked:
@@ -39,7 +42,6 @@ sources:
 created: 2026-04-17
 updated: 2026-04-17
 ---
-
 ## Summary
 
 United States v. Scanlan is a severe dark web fentanyl case involving death-resulting distribution and international money laundering. It is one of the harsher darknet-trafficking sentencing records in the dataset.

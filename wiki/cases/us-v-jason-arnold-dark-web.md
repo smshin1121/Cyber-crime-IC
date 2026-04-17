@@ -4,24 +4,27 @@ title: "United States v. Jason Keith Arnold (Dream Marketplace Vendor)"
 case_number: "E.D. Cal. Dream Marketplace plea"
 jurisdiction: "U.S. District Court, Eastern District of California"
 jurisdiction_country: "[[united-states]]"
-case_type: "prosecution"
-status: "pleaded_guilty"
+case_type: prosecution
+status: pleaded_guilty
 crime_charged:
   - "[[drug-trafficking]]"
 defendants:
   - name: "Jason Keith Arnold"
-    nationality: "American"
+    nationality: American
     status: "pleaded guilty"
     sentence: ""
     location_at_arrest: "Arizona, United States"
-related_operation: ""
+related_operation: "[[operation-us-v-jason-arnold-dark-web]]"
 ic_elements:
-  mlat_requests: []
+  mlat_requests:
+    []
   extradition: ""
   evidence_from_abroad:
     - "Dream Marketplace records"
-  foreign_arrests: []
-  asset_freezing: []
+  foreign_arrests:
+    []
+  asset_freezing:
+    []
 cooperating_agencies:
   - "[[us-doj]]"
 legal_frameworks_invoked:
@@ -37,7 +40,6 @@ sources:
 created: 2026-04-17
 updated: 2026-04-17
 ---
-
 ## Summary
 
 United States v. Arnold is a Dream Marketplace plea case involving vendor accounts used to ship heroin and methamphetamine nationwide.

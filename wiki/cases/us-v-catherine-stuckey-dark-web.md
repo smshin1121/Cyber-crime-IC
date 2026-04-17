@@ -4,24 +4,27 @@ title: "United States v. Catherine Stuckey (Darknet Marketplace Vendor)"
 case_number: "E.D. Cal. darknet plea"
 jurisdiction: "U.S. District Court, Eastern District of California"
 jurisdiction_country: "[[united-states]]"
-case_type: "prosecution"
-status: "pleaded_guilty"
+case_type: prosecution
+status: pleaded_guilty
 crime_charged:
   - "[[drug-trafficking]]"
 defendants:
   - name: "Catherine Stuckey"
-    nationality: "American"
+    nationality: American
     status: "pleaded guilty"
     sentence: ""
     location_at_arrest: "California, United States"
-related_operation: ""
+related_operation: "[[operation-us-v-catherine-stuckey-dark-web]]"
 ic_elements:
-  mlat_requests: []
+  mlat_requests:
+    []
   extradition: ""
   evidence_from_abroad:
     - "Dream Marketplace, Silk Road 3.0, and Nightmare Marketplace records"
-  foreign_arrests: []
-  asset_freezing: []
+  foreign_arrests:
+    []
+  asset_freezing:
+    []
 cooperating_agencies:
   - "[[us-doj]]"
 legal_frameworks_invoked:
@@ -37,7 +40,6 @@ sources:
 created: 2026-04-17
 updated: 2026-04-17
 ---
-
 ## Summary
 
 United States v. Stuckey is a guilty-plea case involving heroin, methamphetamine, and cocaine sold through multiple darknet marketplaces.

@@ -7,17 +7,17 @@ aliases:
   - "BidenCash Domain Seizure"
 case_id: ""
 period: 3
-operation_type: "infrastructure-seizure"
-status: "completed"
+operation_type: infrastructure-seizure
+status: completed
 enforcement_type:
-  - "seizure"
-  - "takedown"
-  - "asset_freeze"
-outcome: "success"
+  - seizure
+  - takedown
+  - asset_freeze
+outcome: success
 timeframe:
-  announced: "2025-06-05"
-  start: "2025-05-27"
-  end: "2025-06-05"
+  announced: 2025-06-05
+  start: 2025-05-27
+  end: 2025-06-05
   ongoing: false
 crime_type: "[[carding-fraud-ic]]"
 target_entity: "BidenCash carding marketplace (dark web and clearnet domains)"
@@ -57,35 +57,36 @@ results:
 edges:
   - source_actor: "US Secret Service"
     target_actor: "Dutch NHTCU"
-    cooperation_type: "joint_investigation"
-    legal_basis: "MLAT"
-    direction: "directed"
-  - source_actor: "FBI"
+    cooperation_type: joint_investigation
+    legal_basis: MLAT
+    direction: directed
+  - source_actor: FBI
     target_actor: "US Secret Service"
-    cooperation_type: "joint_investigation"
-    legal_basis: "unknown"
-    direction: "undirected"
+    cooperation_type: joint_investigation
+    legal_basis: unknown
+    direction: undirected
   - source_actor: "US Secret Service"
     target_actor: "Searchlight Cyber"
-    cooperation_type: "technical_assistance"
-    legal_basis: "informal"
-    direction: "undirected"
+    cooperation_type: technical_assistance
+    legal_basis: informal
+    direction: undirected
   - source_actor: "US Secret Service"
     target_actor: "Shadowserver Foundation"
-    cooperation_type: "technical_assistance"
-    legal_basis: "informal"
-    direction: "undirected"
+    cooperation_type: technical_assistance
+    legal_basis: informal
+    direction: undirected
 credibility_index: 4.5
 source_tier: 1
 missing_fields:
-  - "case_id"
-  - "arrests"
+  - case_id
+  - arrests
   - "cryptocurrency_seized (exact amount)"
 related_cases:
   - "[[in-re-bidencash-marketplace-seizure]]"
 related_operations:
   - "[[operation-endgame|Operation Endgame]]"
   - "[[rydox-marketplace-takedown|Rydox Marketplace Takedown]]"
+  - "[[operation-in-re-bidencash-marketplace-seizure]]"
 challenges_encountered:
   - "[[jurisdictional-conflicts|Cross-border domain seizure coordination]]"
   - "[[data-sovereignty|Data sovereignty across multiple hosting jurisdictions]]"
@@ -95,15 +96,14 @@ lessons_learned:
   - "Domain seizure without arrests leaves operators potentially able to reconstitute"
 source_count: 5
 sources:
-  - "[US Secret Service Press Release (2025-06-05)](https://www.secretservice.gov/newsroom/releases/2025/06/us-government-seizes-approximately-145-criminal-marketplace-domains)"
-  - "[DOJ Press Release via Fortune (2025-06-05)](https://fortune.com/crypto/2025/06/05/doj-seizes-crypto-web-domains-online-marketplace-bidencash/)"
-  - "[The Record (2025-06)](https://therecord.media/bidencash-cybercrime-darknet-market-takedown-us-netherlands)"
-  - "[The Hacker News (2025-06)](https://thehackernews.com/2025/06/doj-seizes-145-domains-tied-to.html)"
-  - "[Help Net Security (2025-06-06)](https://www.helpnetsecurity.com/2025/06/06/bidencash-marketplace-domains-seized/)"
+  - "[US Secret Service Press Release (2025-06-05)](https: "//www.secretservice.gov/newsroom/releases/2025/06/us-government-seizes-approximately-145-criminal-marketplace-domains)\""
+  - "[DOJ Press Release via Fortune (2025-06-05)](https: "//fortune.com/crypto/2025/06/05/doj-seizes-crypto-web-domains-online-marketplace-bidencash/)\""
+  - "[The Record (2025-06)](https: "//therecord.media/bidencash-cybercrime-darknet-market-takedown-us-netherlands)\""
+  - "[The Hacker News (2025-06)](https: "//thehackernews.com/2025/06/doj-seizes-145-domains-tied-to.html)\""
+  - "[Help Net Security (2025-06-06)](https: "//www.helpnetsecurity.com/2025/06/06/bidencash-marketplace-domains-seized/)\""
 created: 2026-04-10
 updated: 2026-04-11
 ---
-
 ## Summary
 
 On 5 June 2025, the US Attorney's Office for the Eastern District of Virginia announced the seizure of approximately 145 domains (both darknet and clearnet) and cryptocurrency funds associated with the BidenCash criminal marketplace. The operation was led by the [[us-secret-service|US Secret Service]] Frankfurt Resident Office and Cyber Investigative Section, together with the [[fbi-cyber-division|FBI]] Albuquerque Field Office, and coordinated by the [[us-doj|US Department of Justice]]. International partners included the [[netherlands-politie|Dutch National High Tech Crime Unit]] and private-sector firms Searchlight Cyber and The Shadowserver Foundation. The seized domains were redirected to a US law enforcement-controlled server. BidenCash, which had operated since March 2022, had served over 117,000 customers, facilitated the trafficking of more than 15 million payment card numbers, and generated over USD 17 million in revenue. The seizure was part of the broader [[operation-endgame|Operation Endgame]] framework. No arrests were announced as of the seizure date.

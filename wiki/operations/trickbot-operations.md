@@ -4,20 +4,20 @@ title: "TrickBot Botnet Disruption"
 aliases:
   - "TrickBot Takedown"
   - "TrickBot Disruption Operation"
-case_id: "CYB-2020-003"
+case_id: CYB-2020-003
 period: 2
-operation_type: "takedown"
-status: "completed"
+operation_type: takedown
+status: completed
 enforcement_type:
   - takedown
   - seizure
   - indictment
   - arrest
-outcome: "partial"
+outcome: partial
 timeframe:
-  announced: "2020-10-12"
-  start: "2020-10-01"
-  end: "2022-02-01"
+  announced: 2020-10-12
+  start: 2020-10-01
+  end: 2022-02-01
   ongoing: false
 crime_type: "[[ransomware-ic|Ransomware]]"
 target_entity: "TrickBot botnet infrastructure"
@@ -54,28 +54,30 @@ results:
     - "9 Russian nationals indicted (Sep 2023) for TrickBot and Conti conspiracies"
     - "Dunaev sentenced to 64 months (Jan 2024)"
 edges:
-  - source_actor: "Microsoft"
+  - source_actor: Microsoft
     target_actor: "US DOJ"
-    cooperation_type: "joint_investigation"
-    legal_basis: "informal"
-    direction: "undirected"
+    cooperation_type: joint_investigation
+    legal_basis: informal
+    direction: undirected
   - source_actor: "US Cyber Command"
-    target_actor: "Microsoft"
-    cooperation_type: "technical_assistance"
-    legal_basis: "informal"
-    direction: "undirected"
+    target_actor: Microsoft
+    cooperation_type: technical_assistance
+    legal_basis: informal
+    direction: undirected
   - source_actor: "US DOJ"
     target_actor: "South Korea"
-    cooperation_type: "extradition"
-    legal_basis: "MLAT"
-    direction: "directed"
+    cooperation_type: extradition
+    legal_basis: MLAT
+    direction: directed
 credibility_index: 4.5
 source_tier: 1
-missing_fields: []
+missing_fields:
+  []
 related_cases:
   - "[[us-v-galochkin-trickbot-conti]]"
 related_operations:
   - "[[emotet-takedown|Emotet Takedown]]"
+  - "[[operation-us-v-galochkin-trickbot-conti]]"
 challenges_encountered:
   - "[[jurisdictional-conflicts|Jurisdictional Conflicts]]"
 lessons_learned:
@@ -85,15 +87,14 @@ lessons_learned:
   - "International arrest cooperation (South Korea extradition) demonstrates global reach of US cybercrime enforcement"
 source_count: 5
 sources:
-  - "[Microsoft Blog — New action to combat ransomware (2020-10-12)](https://blogs.microsoft.com/on-the-issues/2020/10/12/trickbot-ransomware-cyberthreat-us-elections/)"
-  - "[Microsoft Blog — Update on disruption (2020-10-20)](https://blogs.microsoft.com/on-the-issues/2020/10/20/trickbot-ransomware-disruption-update/)"
-  - "[CyberScoop — Cyber Command, Microsoft take action (2020-10-12)](https://cyberscoop.com/trickbot-takedown-cyber-command-microsoft/)"
-  - "[DOJ — Multiple Foreign Nationals Charged (2023-09-07)](https://www.secretservice.gov/newsroom/releases/2023/09/multiple-foreign-nationals-charged-connection-trickbot-malware-and-conti)"
-  - "[BleepingComputer — Dunaev sentenced (2024-01)](https://www.bleepingcomputer.com/news/security/russian-trickbot-malware-dev-sentenced-to-64-months-in-prison/)"
+  - "[Microsoft Blog — New action to combat ransomware (2020-10-12)](https: "//blogs.microsoft.com/on-the-issues/2020/10/12/trickbot-ransomware-cyberthreat-us-elections/)\""
+  - "[Microsoft Blog — Update on disruption (2020-10-20)](https: "//blogs.microsoft.com/on-the-issues/2020/10/20/trickbot-ransomware-disruption-update/)\""
+  - "[CyberScoop — Cyber Command, Microsoft take action (2020-10-12)](https: "//cyberscoop.com/trickbot-takedown-cyber-command-microsoft/)\""
+  - "[DOJ — Multiple Foreign Nationals Charged (2023-09-07)](https: "//www.secretservice.gov/newsroom/releases/2023/09/multiple-foreign-nationals-charged-connection-trickbot-malware-and-conti)\""
+  - "[BleepingComputer — Dunaev sentenced (2024-01)](https: "//www.bleepingcomputer.com/news/security/russian-trickbot-malware-dev-sentenced-to-64-months-in-prison/)\""
 created: 2026-04-10
 updated: 2026-04-12
 ---
-
 ## Summary
 
 The TrickBot disruption was a multi-pronged effort in October 2020 involving both U.S. military cyber operations and a private-sector-led legal action to disable one of the world's largest and most persistent botnets. U.S. Cyber Command conducted offensive operations to interfere with TrickBot's command-and-control (C2) infrastructure, while Microsoft, acting under a court order from the U.S. District Court for the Eastern District of Virginia, took down 120 of 128 identified TrickBot servers in the first week. The urgency was driven by concerns that TrickBot-deployed ransomware could disrupt U.S. election infrastructure ahead of the November 2020 presidential election. While the initial disruption was temporary — TrickBot operators eventually rebuilt portions of their infrastructure — the operation was followed by a sustained law enforcement campaign that produced arrests and indictments through 2024, including the arrest of developer Vladimir Dunaev in [[south-korea|South Korea]] and the indictment of nine Russian nationals.

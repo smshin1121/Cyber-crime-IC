@@ -1,70 +1,63 @@
 ---
 aliases:
-- Marketplace A indictment
-- Dekhtyarchuk stolen data marketplace
+  []
 case_id: CYB-2021-054
-challenges_encountered: []
-coordinating_body: ''
+challenges_encountered:
+  []
+coordinating_body: ""
 created: 2026-04-08
 credibility_index: 2.55
-crime_type: '[[cybercrime-forum-ic]]'
+crime_type: "[[cybercrime-forum-ic]]"
 edges:
-- cooperation_type: joint_investigation
-  direction: undirected
-  legal_basis: unknown
-  source_actor: US DOJ
-  target_actor: Latvia Police
+  []
 enforcement_type:
-- arrest
-- indictment
-lead_agency: '[[us-doj]]'
-legal_basis: []
-lessons_learned: []
-mechanisms_used: []
+  []
+lead_agency: "[[us-doj]]"
+legal_basis:
+  []
+lessons_learned:
+  []
+mechanisms_used:
+  []
 missing_fields:
-- legal_basis
-- mechanisms_used
-- exact_timeframe
-- financial_losses
-- url
+  []
 operation_type: joint-investigation
 outcome: success
 participating_agencies:
-- '[[us-doj]]'
+  []
 participating_countries:
-- '[[united-states]]'
-- '[[latvia]]'
+  []
 period: 2
 related_cases:
   - "[[us-v-dekhtyarchuk-marketplace-a]]"
-related_operations: []
+related_operations:
+  - "[[operation-us-v-dekhtyarchuk-marketplace-a]]"
 results:
   arrests: 1
-  cryptocurrency_seized: ''
+  cryptocurrency_seized: ""
   decryption_keys_recovered: 0
   domains_seized: 0
   indictments: 1
   other:
-  - Dekhtyarchuk indicted for operating stolen data marketplace
-  - US-Latvia cooperation
+    []
   servers_seized: 0
   victims_notified: 0
 source_count: 1
 source_tier: 3
-sources: []
+sources:
+  []
 status: completed
-target_entity: Marketplace A operator (Dekhtyarchuk)
+target_entity: "Marketplace A operator (Dekhtyarchuk)"
 timeframe:
-  announced: '2021-01-01'
-  end: '2021-12-31'
+  announced: 2021-01-01
+  end: 2021-12-31
   ongoing: false
-  start: '2021-01-01'
-title: Marketplace A — Dekhtyarchuk Indictment
-title_ko: 마켓플레이스 A — 데크티아르축 기소
+  start: 2021-01-01
+title: "Marketplace A — Dekhtyarchuk Indictment"
+title_ko: "마켓플레이스 A — 데크티아르축 기소"
 type: operation
 updated: 2026-04-08
 ---
-
 > [!note] This operation is documented from a Tier 3 (cybersecurity media) source. Additional verification from official sources (Tier 1-2) would strengthen data reliability.
 
 ## Summary

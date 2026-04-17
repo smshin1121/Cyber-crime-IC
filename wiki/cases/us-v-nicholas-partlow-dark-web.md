@@ -4,24 +4,27 @@ title: "United States v. Nicholas Partlow (Darknet Drug Trafficker)"
 case_number: "W.D. Wash. darknet plea"
 jurisdiction: "U.S. District Court, Western District of Washington"
 jurisdiction_country: "[[united-states]]"
-case_type: "prosecution"
-status: "pleaded_guilty"
+case_type: prosecution
+status: pleaded_guilty
 crime_charged:
   - "[[drug-trafficking]]"
 defendants:
   - name: "Nicholas Partlow"
-    nationality: "American"
+    nationality: American
     status: "pleaded guilty"
     sentence: ""
     location_at_arrest: "Washington, United States"
-related_operation: ""
+related_operation: "[[operation-us-v-nicholas-partlow-dark-web]]"
 ic_elements:
-  mlat_requests: []
+  mlat_requests:
+    []
   extradition: ""
   evidence_from_abroad:
     - "Darknet-market transaction evidence"
-  foreign_arrests: []
-  asset_freezing: []
+  foreign_arrests:
+    []
+  asset_freezing:
+    []
 cooperating_agencies:
   - "[[us-doj]]"
 legal_frameworks_invoked:
@@ -37,7 +40,6 @@ sources:
 created: 2026-04-17
 updated: 2026-04-17
 ---
-
 ## Summary
 
 United States v. Partlow is a darknet drug-trafficking plea case involving fentanyl, methamphetamine, and firearms.

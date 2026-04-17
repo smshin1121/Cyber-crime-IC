@@ -4,24 +4,26 @@ title: "United States v. Richard Castro (Chemsusa)"
 case_number: "S.D.N.Y. dark web fentanyl sentencing"
 jurisdiction: "U.S. District Court, Southern District of New York"
 jurisdiction_country: "[[united-states]]"
-case_type: "prosecution"
-status: "sentenced"
+case_type: prosecution
+status: sentenced
 crime_charged:
   - "[[drug-trafficking]]"
   - "[[money-laundering-ic]]"
 defendants:
   - name: "Richard Castro"
-    nationality: "American"
-    status: "sentenced"
+    nationality: American
+    status: sentenced
     sentence: "210 months"
     location_at_arrest: "United States"
-related_operation: ""
+related_operation: "[[operation-us-v-castro-dark-web]]"
 ic_elements:
-  mlat_requests: []
+  mlat_requests:
+    []
   extradition: ""
   evidence_from_abroad:
     - "AlphaBay and Dream Market records"
-  foreign_arrests: []
+  foreign_arrests:
+    []
   asset_freezing:
     - "More than USD 4 million forfeited"
 cooperating_agencies:
@@ -40,7 +42,6 @@ sources:
 created: 2026-04-17
 updated: 2026-04-17
 ---
-
 ## Summary
 
 United States v. Castro is a high-severity dark web opioids case involving the monikers `Chemsusa`, `Chems_usa`, and `Chemical_usa`, and more than USD 4 million in forfeiture.

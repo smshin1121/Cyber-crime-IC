@@ -2,18 +2,20 @@
 type: operation
 title: "Nigerian BEC Convictions (Okpe/Obogo)"
 title_ko: "나이지리아 BEC 유죄판결 (옥페/오보고)"
-aliases: ["Okpe Obogo BEC sentencing", "Nigerian BEC convictions 2023"]
-case_id: "CYB-2023-053"
+aliases:
+  - "Okpe Obogo BEC sentencing"
+  - "Nigerian BEC convictions 2023"
+case_id: CYB-2023-053
 period: 3
-operation_type: "joint-investigation"
-status: "completed"
+operation_type: joint-investigation
+status: completed
 enforcement_type:
-  - "indictment"
-outcome: "success"
+  - indictment
+outcome: success
 timeframe:
-  announced: "2023-01-01"
-  start: "2023-01-01"
-  end: "2023-12-31"
+  announced: 2023-01-01
+  start: 2023-01-01
+  end: 2023-12-31
   ongoing: false
 crime_type: "[[bec-ic]]"
 target_entity: "Nigerian BEC perpetrators (Okpe, Obogo)"
@@ -24,8 +26,10 @@ participating_countries:
   - "[[nigeria]]"
 participating_agencies:
   - "[[us-doj]]"
-legal_basis: []
-mechanisms_used: []
+legal_basis:
+  []
+mechanisms_used:
+  []
 results:
   arrests: 0
   indictments: 2
@@ -40,30 +44,32 @@ results:
 edges:
   - source_actor: "US DOJ"
     target_actor: "Nigeria EFCC"
-    cooperation_type: "joint_investigation"
-    legal_basis: "unknown"
-    direction: "undirected"
+    cooperation_type: joint_investigation
+    legal_basis: unknown
+    direction: undirected
 credibility_index: 1.88
 source_tier: 3
 missing_fields:
-  - "legal_basis"
-  - "mechanisms_used"
-  - "exact_timeframe"
-  - "sentence_details"
-  - "financial_losses"
-  - "url"
+  - legal_basis
+  - mechanisms_used
+  - exact_timeframe
+  - sentence_details
+  - financial_losses
+  - url
 related_cases:
   - "[[us-v-okpe-obogo-bec]]"
-related_operations: []
-challenges_encountered: []
+related_operations:
+  - "[[operation-us-v-okpe-obogo-bec]]"
+challenges_encountered:
+  []
 lessons_learned:
   - "Successful prosecution and sentencing of BEC perpetrators demonstrates growing effectiveness of US-Nigeria cooperation"
 source_count: 1
-sources: []
+sources:
+  []
 created: 2026-04-08
 updated: 2026-04-08
 ---
-
 > [!note] This operation is documented from a Tier 3 (cybersecurity media) source. Additional verification from official sources (Tier 1-2) would strengthen data reliability.
 
 ## Summary

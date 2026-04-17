@@ -1,3 +1,37 @@
+---
+related_operations:
+  - "[[operation-us-v-adafin-xdedic]]"
+  - "[[operation-us-v-adejumo-jinadu-xdedic]]"
+  - "[[operation-us-v-habasescu-xdedic]]"
+  - "[[operation-us-v-ivanov-tolpintsev-xdedic]]"
+  - "[[operation-us-v-kharmanskyi-xdedic]]"
+  - "[[operation-us-v-levinson-xdedic]]"
+  - "[[operation-us-v-mckinzie-xdedic]]"
+  - "[[operation-us-v-mcneely-xdedic]]"
+  - "[[operation-us-v-odedeyi-davies-xdedic]]"
+  - "[[operation-us-v-ogunlana-xdedic]]"
+  - "[[operation-us-v-omotosho-xdedic]]"
+  - "[[operation-us-v-oyebanjo-xdedic]]"
+  - "[[operation-us-v-pankov-xdedic]]"
+  - "[[operation-us-v-spencer-xdedic]]"
+  - "[[operation-us-v-taylor-xdedic]]"
+related_cases:
+  - "[[us-v-adafin-xdedic]]"
+  - "[[us-v-adejumo-jinadu-xdedic]]"
+  - "[[us-v-habasescu-xdedic]]"
+  - "[[us-v-ivanov-tolpintsev-xdedic]]"
+  - "[[us-v-kharmanskyi-xdedic]]"
+  - "[[us-v-levinson-xdedic]]"
+  - "[[us-v-mckinzie-xdedic]]"
+  - "[[us-v-mcneely-xdedic]]"
+  - "[[us-v-odedeyi-davies-xdedic]]"
+  - "[[us-v-ogunlana-xdedic]]"
+  - "[[us-v-omotosho-xdedic]]"
+  - "[[us-v-oyebanjo-xdedic]]"
+  - "[[us-v-pankov-xdedic]]"
+  - "[[us-v-spencer-xdedic]]"
+  - "[[us-v-taylor-xdedic]]"
+---
 ﻿---
 type: operation
 title: "xDedic Marketplace Takedown"
