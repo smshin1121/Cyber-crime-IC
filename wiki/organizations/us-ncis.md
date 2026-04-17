@@ -1,30 +1,37 @@
 ---
-aliases: []
-contact_point_for: []
-cooperation_partners: []
-country: '[[united-states]]'
+aliases:
+  []
+contact_point_for:
+  []
+cooperation_partners:
+  []
+country: "[[united-states]]"
 created: 2026-04-10
-established: ''
-frameworks_administered: []
-headquarters: ''
-key_roles: []
-last_verified: '2026-04-10'
-mandate: Primary law enforcement and counterintelligence agency of the US Department
-  of the Navy; cybercrime enforcement for Navy and Marine Corps networks.
-mechanisms_operated: []
-notable_cases: []
-official_name: Naval Criminal Investigative Service
-operations_participated: []
+established: ""
+frameworks_administered:
+  []
+headquarters: ""
+key_roles:
+  []
+last_verified: 2026-04-10
+mandate: "Primary law enforcement and counterintelligence agency of the US Department"
+mechanisms_operated:
+  []
+notable_cases:
+  []
+official_name: "Naval Criminal Investigative Service"
+operations_participated:
+  - "[[operation-us-v-wu-haibo-isoon]]"
 org_type: national-unit
-parent_org: ''
+parent_org: ""
 source_count: 1
-sources: []
+sources:
+  []
 status: active
 title: NCIS
 type: organization
-updated: 2026-04-10
+updated: 2026-04-17
 ---
-
 > [!info] Stub
 > This page was auto-created to resolve a wikilink. It will be expanded when more sources are ingested.
 

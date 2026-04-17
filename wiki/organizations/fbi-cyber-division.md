@@ -1,79 +1,63 @@
 ---
 aliases:
-- FBI Cyber
-- FBI CD
-contact_point_for: []
+
+contact_point_for:
+
 cooperation_partners:
-- '[[europol-ec3]]'
-- '[[uk-nca]]'
-- '[[interpol-igci]]'
-country: '[[united-states]]'
+
+country: "[[united-states]]"
 created: 2026-04-08
-established: '2002'
-frameworks_administered: []
-headquarters: Washington, D.C., United States
+established: 2002
+frameworks_administered:
+
+headquarters: "Washington, D.C., United States"
 key_roles:
-- Lead US federal cybercrime investigations
-- 63+ Legal Attache offices worldwide for international cooperation
-- Internet Crime Complaint Center (IC3) — national reporting mechanism
-- Cyber Action Teams for rapid global incident response
-- Cyber threat intelligence and attribution
-- Ransomware disruption and investigation
-last_verified: '2026-04-10'
-mandate: Investigate cyber threats to the United States including state-sponsored
-  intrusions, ransomware attacks, online fraud, and major cybercriminal networks.
-mechanisms_operated: []
+
+last_verified: 2026-04-10
+mandate: "Investigate cyber threats to the United States including state-sponsored"
+mechanisms_operated:
+
 member_states: 0
-notable_cases: []
-official_name: Cyber Division, Federal Bureau of Investigation
-official_name_ko: 미국 연방수사국 사이버과
+notable_cases:
+
+official_name: "Cyber Division, Federal Bureau of Investigation"
+official_name_ko: "미국 연방수사국 사이버과"
 operations_participated:
-- '[[alphabay-takedown]]'
-- '[[black-axe-bec-2021]]'
-- '[[blackcat-lockeroga-kelvin-security-2023]]'
-- '[[darkode-takedown]]'
-- '[[emotet-takedown]]'
-- '[[infraud-organization-takedown]]'
-- '[[isoon-apt27-indictment]]'
-- '[[operation-bakovia]]'
-- '[[operation-checkmate-blacksuit]]'
-- '[[operation-cronos-phase1]]'
-- '[[operation-cronos-phase3]]'
-- '[[operation-chakra-iii]]'
-- '[[operation-destabilise]]'
-- '[[operation-endgame]]'
-- '[[operation-endgame-phase1]]'
-- '[[operation-endgame-phase2]]'
-- '[[operation-hyperion]]'
-- '[[operation-nova]]'
-- '[[operation-talent]]'
-- '[[phobos-8base-crackdown]]'
-- '[[qakbot-gallyamov-indictment]]'
-- '[[qqaazz-money-laundering-takedown]]'
-- '[[rydox-marketplace-takedown]]'
-- '[[xdedic-marketplace-takedown]]'
-- '[[zeus-spyeye-takedown]]'
-- '[[operation-dark-huntor]]'
-- '[[operation-trojan-shield]]'
-- '[[silk-road-takedown]]'
+  - "[[alphabay-takedown]]"
+  - "[[black-axe-bec-2021]]"
+  - "[[blackcat-lockeroga-kelvin-security-2023]]"
+  - "[[emotet-takedown]]"
+  - "[[isoon-apt27-indictment]]"
+  - "[[operation-bakovia]]"
+  - "[[operation-chakra-iii]]"
+  - "[[operation-checkmate-blacksuit]]"
+  - "[[operation-cronos-phase1]]"
+  - "[[operation-cronos-phase3]]"
+  - "[[operation-dark-huntor]]"
+  - "[[operation-destabilise]]"
+  - "[[operation-endgame]]"
+  - "[[operation-endgame-phase1]]"
+  - "[[operation-endgame-phase2]]"
+  - "[[operation-hyperion]]"
+  - "[[operation-trojan-shield]]"
+  - "[[operation-us-v-wu-haibo-isoon]]"
+  - "[[operation-us-v-yakubets-dridex]]"
+  - "[[operation-us-v-yunhe-wang-911-s5]]"
+  - "[[qqaazz-money-laundering-takedown]]"
+  - "[[rydox-marketplace-takedown]]"
+  - "[[silk-road-takedown]]"
+  - "[[xdedic-marketplace-takedown]]"
+  - "[[zeus-spyeye-takedown]]"
 org_type: national-agency
-parent_org: '[[fbi]]'
+parent_org: "[[fbi]]"
 source_count: 12
 sources:
-- '[[2024-02-20-europol-operation-cronos-lockbit]]'
-- '[[2024-05-30-europol-operation-endgame-botnet-takedown]]'
-- '[[2024-10-01-europol-operation-cronos-lockbit-phase3]]'
-- '[[2025-02-11-europol-phobos-8base-ransomware-arrests]]'
-- '[[2025-05-23-europol-operation-endgame-phase2]]'
-- '[[2025-05-22-doj-qakbot-gallyamov-indictment]]'
-- '[[2025-08-11-doj-blacksuit-royal-ransomware-takedown]]'
-- '[[2025-03-05-doj-isoon-chinese-hackers-charges]]'
-status: active
-title: FBI Cyber Division
-type: organization
-updated: '2026-04-10'
----
 
+status: active
+title: "FBI Cyber Division"
+type: organization
+updated: 2026-04-17
+---
 ## Current Status (as of 2026-04-10)
 
 **Status:** Active — no structural reorganization; leadership changed in June 2025.

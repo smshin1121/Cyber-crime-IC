@@ -1,52 +1,40 @@
 ---
 aliases:
-- US Treasury
-- Treasury OFAC
-- Treasury FinCEN
-- OFAC
-- FinCEN
-contact_point_for: []
-cooperation_partners:
-- '[[fbi-cyber-division]]'
-- '[[us-doj]]'
-- '[[europol-ec3]]'
-country: '[[united-states]]'
-created: 2026-04-10
-established: '1789'
-frameworks_administered: []
-headquarters: Washington, D.C., United States
-key_roles:
-- OFAC cyber sanctions designations under Executive Order 13694 (as amended by EO
-  13757)
-- Treasury designations against ransomware groups, mixers, and crypto exchanges
-- FinCEN Bank Secrecy Act enforcement against virtual currency money services businesses
-- FinCEN ransomware advisories and guidance
-- Cooperation with foreign financial intelligence units (via FinCEN)
-- Multilateral sanctions coordination with allies
-last_verified: '2026-04-10'
-mandate: Apply US economic sanctions and financial regulatory tools against cybercriminals,
-  state-sponsored cyber actors, and illicit virtual currency ecosystems. OFAC designates
-  cyber-related sanctions targets (ransomware operators, mixers, exchanges). FinCEN
-  enforces Bank Secrecy Act requirements against money transmitters and virtual currency
-  businesses used by cybercriminals.
-mechanisms_operated: []
-notable_cases: []
-official_name: United States Department of the Treasury — Office of Foreign Assets
-  Control and Financial Crimes Enforcement Network
-operations_participated:
-- '[[911-s5-botnet-takedown]]'
-- '[[cryptex-pm2btc-sanctions]]'
-- '[[operation-wirewire]]'
-org_type: national-agency
-parent_org: '[[us-federal-government]]'
-source_count: 8
-sources: []
-status: active
-title: US Department of the Treasury — OFAC and FinCEN (Cyber)
-type: organization
-updated: '2026-04-10'
----
 
+contact_point_for:
+
+cooperation_partners:
+
+country: "[[united-states]]"
+created: 2026-04-10
+established: 1789
+frameworks_administered:
+
+headquarters: "Washington, D.C., United States"
+key_roles:
+
+last_verified: 2026-04-10
+mandate: "Apply US economic sanctions and financial regulatory tools against cybercriminals,"
+mechanisms_operated:
+
+notable_cases:
+
+official_name: "United States Department of the Treasury — Office of Foreign Assets"
+operations_participated:
+  - "[[operation-us-v-wu-haibo-isoon]]"
+  - "[[operation-us-v-yakubets-dridex]]"
+  - "[[operation-us-v-yunhe-wang-911-s5]]"
+  - "[[operation-wirewire]]"
+org_type: national-agency
+parent_org: "[[us-federal-government]]"
+source_count: 8
+sources:
+
+status: active
+title: "US Department of the Treasury — OFAC and FinCEN (Cyber)"
+type: organization
+updated: 2026-04-17
+---
 ## Current Status (as of 2026-04-10)
 
 **Status:** Active. OFAC and FinCEN both continue to operate under the Treasury's **Office of Terrorism and Financial Intelligence (TFI)** with no structural reorganization. The most material recent change is the **delisting of Tornado Cash** in March 2025 following the Fifth Circuit's *Van Loon v. Department of the Treasury* decision (see History section and [Key Operations and Cases](#key-operations-and-cases) below) [3][5][6][7].

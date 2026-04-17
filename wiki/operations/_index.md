@@ -6,7 +6,7 @@ created: 2026-04-08
 updated: 2026-04-14
 ---
 
-# Operations (204)
+# Operations (208)
 
 | Operation | Case ID | Period | Status | CI | Tier |
 |-----------|---------|--------|--------|----|------|
@@ -190,6 +190,10 @@ updated: 2026-04-14
 | [[operation-us-v-vallerius-dream-market]] | CYB-FUP-096 | 1 | completed | 4.00 | 1 |
 | [[operation-us-v-vlastos-dark-web]] | CYB-FUP-097 | 3 | completed | 4.00 | 1 |
 | [[operation-us-v-witters-dark-web]] | CYB-FUP-098 | 1 | completed | 4.00 | 1 |
+| [[operation-us-v-telusma-infraud]] | CYB-FUP-099 | 2 | completed | 4.00 | 1 |
+| [[operation-us-v-wu-haibo-isoon]] | CYB-FUP-100 | 3 | ongoing | 4.00 | 1 |
+| [[operation-us-v-yakubets-dridex]] | CYB-FUP-101 | 1 | ongoing | 4.00 | 1 |
+| [[operation-us-v-yunhe-wang-911-s5]] | CYB-FUP-102 | 3 | ongoing | 4.00 | 1 |
 | [[africa-cyber-surge-ii]] | — | — | — | — | — |
 | [[andromeda-botnet-takedown]] | — | — | — | — | — |
 | [[bali-villa-cybercrime-raid-2024]] | — | — | completed | — | — |

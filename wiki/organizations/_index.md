@@ -24,9 +24,9 @@ updated: 2026-04-08
 | [[dod-inspector-general]] | national-agency | [[united-states]] | — | — | 1 |
 | [[dutch-police]] | national-agency | Netherlands | — | 1 | 0 |
 | [[fbi]] | national-agency | Washington, D.C., United States | — | 13 | 0 |
-| [[fbi-cyber-division]] | national-agency | Washington, D.C., United States | — | 22 | 12 |
+| [[fbi-cyber-division]] | national-agency | Washington, D.C., United States | — | 25 | 12 |
 | [[german-bka]] | national-agency | Wiesbaden, Germany | — | 2 | 0 |
-| [[germany-bka]] | national-agency | Wiesbaden, Germany | — | 6 | 0 |
+| [[germany-bka]] | national-agency | Wiesbaden, Germany | — | 7 | 0 |
 | [[germany-lka]] | national-agency | One in each of 16 German Länder (e.g. Munich, Stuttgart, Düsseldorf, | — | 2 | 3 |
 | [[indonesia-police]] | national-agency | Indonesia | — | 1 | 0 |
 | [[italy-dcsa]] | national-agency | Rome, Italy | Anti-narcotics coordination; Darknet market investigations | — | 0 |
@@ -53,10 +53,10 @@ updated: 2026-04-08
 | [[switzerland-ncsc]] | national-agency | [[switzerland]] | — | — | 1 |
 | [[thailand-police]] | national-agency | Bangkok, Thailand | — | — | 0 |
 | [[thailand-royal-police]] | national-agency | Bangkok, Thailand | — | — | 8 |
-| [[uk-nca]] | national-agency | London, United Kingdom | — | 9 | 8 |
+| [[uk-nca]] | national-agency | London, United Kingdom | — | 10 | 8 |
 | [[us-dhs]] | national-agency | Washington, D.C., United States | Homeland Security Investigations (HSI) — transnational cybercrime investigation; Coordination with foreign LEAs on cyber-enabled fraud | 3 | 0 |
-| [[us-doj]] | national-agency | Washington, D.C., United States | — | 6 | 5 |
-| [[us-treasury]] | national-agency | Washington, D.C., United States | — | 1 | 8 |
+| [[us-doj]] | national-agency | Washington, D.C., United States | — | 14 | 5 |
+| [[us-treasury]] | national-agency | Washington, D.C., United States | — | 4 | 8 |
 | [[usdoj]] | national-agency | Washington, D.C., United States | — | 9 | 0 |
 | [[armenia-police]] | national-unit | Yerevan, Armenia | — | 2 | 3 |
 | [[belgium-federal-police]] | national-unit | Brussels, Belgium | — | 1 | 1 |
@@ -88,7 +88,7 @@ updated: 2026-04-08
 | [[sweden-police]] | national-unit | Stockholm, Sweden | — | 2 | 3 |
 | [[ukraine-police]] | national-unit | Kyiv, Ukraine | — | 2 | 3 |
 | [[us-dcis]] | national-unit | Alexandria, Virginia, United States | — | 2 | 4 |
-| [[us-ncis]] | national-unit | [[united-states]] | — | — | 1 |
+| [[us-ncis]] | national-unit | [[united-states]] | — | 1 | 1 |
 | [[us-secret-service]] | national-unit | Washington, D.C., United States | — | 4 | 4 |
 | [[intel-security]] | private-sector | — | — | 1 | 0 |
 | [[kaspersky-lab]] | private-sector | — | — | 3 | 0 |
@@ -104,4 +104,4 @@ updated: 2026-04-08
 | [[ncfta]] | public-private-partnership | United States | — | 1 | 0 |
 | [[afripol]] | regional-org | Algiers, Algeria | — | 3 | 0 |
 | [[eurojust]] | regional-org | The Hague, Netherlands | — | 17 | 9 |
-| [[europol-ec3]] | regional-org | The Hague, Netherlands | — | 29 | 9 |
+| [[europol-ec3]] | regional-org | The Hague, Netherlands | — | 30 | 9 |

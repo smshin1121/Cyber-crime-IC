@@ -1,60 +1,48 @@
 ---
 aliases:
-- NCA
-- UK NCA
-contact_point_for: []
+
+contact_point_for:
+
 cooperation_partners:
-- '[[europol-ec3]]'
-- '[[fbi-cyber-division]]'
-- '[[interpol-igci]]'
-country: '[[united-kingdom]]'
+
+country: "[[united-kingdom]]"
 created: 2026-04-08
-established: '2013-10-07'
-frameworks_administered: []
-headquarters: London, United Kingdom
+established: 2013-10-07
+frameworks_administered:
+
+headquarters: "London, United Kingdom"
 key_roles:
-- Lead UK agency for serious and organised cybercrime
-- National Cyber Crime Unit (NCCU) operations
-- International liaison officer network
-- Led Operation Cronos Phase 1 (LockBit takedown) from the UK side
-- Ransomware disruption and investigation
-last_verified: '2026-04-10'
-mandate: Lead UK law enforcement agency for tackling serious and organised crime,
-  including cybercrime, human trafficking, drug trafficking, economic crime, and child
-  exploitation.
-mechanisms_operated: []
+
+last_verified: 2026-04-10
+mandate: "Lead UK law enforcement agency for tackling serious and organised crime,"
+mechanisms_operated:
+
 member_states: 0
-notable_cases: []
-official_name: National Crime Agency
-official_name_ko: 영국 국가범죄수사국
+notable_cases:
+
+official_name: "National Crime Agency"
+official_name_ko: "영국 국가범죄수사국"
 operations_participated:
-- '[[2bagoldmule-qqaazz]]'
-- '[[hive-ransomware-takedown]]'
-- '[[operation-bakovia]]'
-- '[[operation-cronos-phase1]]'
-- '[[operation-cronos-phase3]]'
-- '[[operation-destabilise]]'
-- '[[operation-endgame]]'
-- '[[operation-endgame-phase1]]'
-- '[[operation-endgame-phase2]]'
-- '[[operation-morpheus]]'
-- '[[phobos-8base-crackdown]]'
-- '[[operation-dark-huntor]]'
+  - "[[2bagoldmule-qqaazz]]"
+  - "[[operation-bakovia]]"
+  - "[[operation-cronos-phase1]]"
+  - "[[operation-cronos-phase3]]"
+  - "[[operation-dark-huntor]]"
+  - "[[operation-destabilise]]"
+  - "[[operation-endgame]]"
+  - "[[operation-endgame-phase1]]"
+  - "[[operation-endgame-phase2]]"
+  - "[[operation-us-v-yakubets-dridex]]"
 org_type: national-agency
-parent_org: ''
+parent_org: ""
 source_count: 8
 sources:
-- '[[2024-02-20-europol-operation-cronos-lockbit]]'
-- '[[2024-05-30-europol-operation-endgame-botnet-takedown]]'
-- '[[2024-10-01-europol-operation-cronos-lockbit-phase3]]'
-- '[[2025-02-11-europol-phobos-8base-ransomware-arrests]]'
-- '[[2025-05-23-europol-operation-endgame-phase2]]'
-status: active
-title: UK National Crime Agency (NCA)
-type: organization
-updated: '2026-04-09'
----
 
+status: active
+title: "UK National Crime Agency (NCA)"
+type: organization
+updated: 2026-04-17
+---
 ## Summary
 
 The National Crime Agency (NCA) is the [[united-kingdom|United Kingdom's]] lead law enforcement agency for tackling serious and organised crime. Established on 7 October 2013, replacing the Serious Organised Crime Agency (SOCA), the NCA has a broad mandate covering cybercrime, drug trafficking, economic crime, human trafficking, and child exploitation. Its **National Cyber Crime Unit (NCCU)** is the dedicated cybercrime arm responsible for conducting and coordinating major cyber investigations.

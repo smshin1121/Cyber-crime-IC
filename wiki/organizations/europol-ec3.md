@@ -1,99 +1,68 @@
 ---
 aliases:
-- EC3
-- Europol EC3
-contact_point_for: []
+
+contact_point_for:
+
 cooperation_partners:
-- '[[interpol-igci]]'
-- '[[fbi-cyber-division]]'
-country: ''
+
+country: ""
 created: 2026-04-08
-established: '2013-01-11'
-frameworks_administered: []
-headquarters: The Hague, Netherlands
+established: 2013-01-11
+frameworks_administered:
+
+headquarters: "The Hague, Netherlands"
 key_roles:
-- Coordination hub for EU cybercrime investigations
-- Joint Investigation Team (JIT) support and hosting
-- Operational analysis and intelligence
-- Digital forensics support
-- Cybercrime threat assessment (IOCTA)
-last_verified: '2026-04-10'
-mandate: EU hub for coordinating cybercrime investigations, providing operational
-  analysis, and supporting EU member states and partner countries in combating cybercrime.
+
+last_verified: 2026-04-10
+mandate: "EU hub for coordinating cybercrime investigations, providing operational"
 mechanisms_operated:
-- '[[europol-jit]]'
+
 member_states: 27
-notable_cases: []
-official_name: European Cybercrime Centre
-official_name_ko: 유럽사이버범죄센터
+notable_cases:
+
+official_name: "European Cybercrime Centre"
+official_name_ko: "유럽사이버범죄센터"
 operations_participated:
-- '[[2bagoldmule-qqaazz]]'
-- '[[andromeda-botnet-takedown]]'
-- '[[belgium-netherlands-phishing-gang]]'
-- '[[blackcat-lockeroga-kelvin-security-2023]]'
-- '[[ramnit-botnet-takedown]]'
-- '[[carbanak-cobalt-takedown]]'
-- '[[cyber-fraud-international-2015]]'
-- '[[darkode-takedown]]'
-- '[[operation-dark-huntor]]'
-- '[[ddos-for-hire-sweep-2016]]'
-- '[[doublevpn-takedown]]'
-- '[[emotet-takedown]]'
-- '[[alphabay-takedown]]'
-- '[[fake-shopping-sites-takedown-2024]]'
-- '[[franco-israeli-ceo-fraud]]'
-- '[[global-airport-action-day]]'
-- '[[goznym-takedown]]'
-- '[[hive-ransomware-takedown]]'
-- '[[imminent-monitor-rat-takedown]]'
-- '[[operation-avalanche]]'
-- '[[operation-bakovia]]'
-- '[[operation-cronos-phase1]]'
-- '[[operation-cronos-phase3]]'
-- '[[operation-endgame]]'
-- '[[operation-endgame-phase1]]'
-- '[[operation-endgame-phase2]]'
-- '[[operation-first-light-2024]]'
-- '[[operation-morpheus]]'
-- '[[operation-nova]]'
-- '[[operation-pleiades]]'
-- '[[operation-secreto]]'
-- '[[operation-shrouded-horizon]]'
-- '[[operation-source]]'
-- '[[operation-stream-kidflix]]'
-- '[[operation-talent]]'
-- '[[operation-trojan-shield]]'
-- '[[phobos-8base-crackdown]]'
-- '[[qakbot-gallyamov-indictment]]'
-- '[[qqaazz-money-laundering-takedown]]'
-- '[[rex-mundi-takedown]]'
-- '[[romania-phishing-takedown-2024]]'
-- '[[xdedic-marketplace-takedown]]'
-- '[[xhelper-upi-money-mule]]'
-- '[[zeus-spyeye-jit-takedown]]'
-- '[[zeus-spyeye-takedown]]'
-- '[[de-ch-crypto-mixer-takedown-2025]]'
-- '[[proxy-service-takedown-2026-03]]'
+  - "[[2bagoldmule-qqaazz]]"
+  - "[[alphabay-takedown]]"
+  - "[[belgium-netherlands-phishing-gang]]"
+  - "[[blackcat-lockeroga-kelvin-security-2023]]"
+  - "[[cyber-fraud-international-2015]]"
+  - "[[de-ch-crypto-mixer-takedown-2025]]"
+  - "[[emotet-takedown]]"
+  - "[[franco-israeli-ceo-fraud]]"
+  - "[[imminent-monitor-rat-takedown]]"
+  - "[[operation-bakovia]]"
+  - "[[operation-cronos-phase1]]"
+  - "[[operation-cronos-phase3]]"
+  - "[[operation-dark-huntor]]"
+  - "[[operation-endgame]]"
+  - "[[operation-endgame-phase1]]"
+  - "[[operation-endgame-phase2]]"
+  - "[[operation-first-light-2024]]"
+  - "[[operation-pleiades]]"
+  - "[[operation-secreto]]"
+  - "[[operation-source]]"
+  - "[[operation-trojan-shield]]"
+  - "[[operation-us-v-yakubets-dridex]]"
+  - "[[proxy-service-takedown-2026-03]]"
+  - "[[qqaazz-money-laundering-takedown]]"
+  - "[[rex-mundi-takedown]]"
+  - "[[romania-phishing-takedown-2024]]"
+  - "[[xdedic-marketplace-takedown]]"
+  - "[[xhelper-upi-money-mule]]"
+  - "[[zeus-spyeye-jit-takedown]]"
+  - "[[zeus-spyeye-takedown]]"
 org_type: regional-org
-parent_org: '[[europol-ec3]]'
+parent_org: "[[europol-ec3]]"
 source_count: 9
 sources:
-- '[[2024-02-20-europol-operation-cronos-lockbit]]'
-- '[[2024-05-30-europol-operation-endgame-botnet-takedown]]'
-- '[[2024-10-01-europol-operation-cronos-lockbit-phase3]]'
-- '[[2025-02-11-europol-phobos-8base-ransomware-arrests]]'
-- '[[2025-05-23-europol-operation-endgame-phase2]]'
-- '[[2025-05-22-doj-qakbot-gallyamov-indictment]]'
-- '[[2023-02-08-europol-franco-israeli-ceo-fraud]]'
-- '[[2025-04-04-europol-operation-stream-kidflix]]'
-- '[[2025-12-01-eurojust-de-ch-crypto-mixer-takedown]]'
-- '[[2026-03-12-eurojust-proxy-service-takedown]]'
-status: active
-title: Europol European Cybercrime Centre (EC3)
-type: organization
-updated: '2026-04-14'
----
 
+status: active
+title: "Europol European Cybercrime Centre (EC3)"
+type: organization
+updated: 2026-04-17
+---
 ## Current Status (as of 2026-04-10)
 
 **Status:** Active. EC3 remains Europol's dedicated cybercrime centre, headquartered at Europol HQ in **The Hague, Netherlands**, operating under Europol's legal mandate (**EU Regulation 2016/794**). No structural reorganization has been publicly reported since the 2016 Regulation [8][9].

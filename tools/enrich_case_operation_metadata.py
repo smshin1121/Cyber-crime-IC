@@ -158,6 +158,7 @@ def create_follow_on_operation(case_path: Path, case_post: Any, sequence: int) -
         return op_slug
 
     meta = case_post.metadata
+    parent_operation = wikilink_slug(meta.get("related_operation"))
     source_slugs = unique([wikilink_slug(s) for s in meta.get("sources", []) if wikilink_slug(s)])
     source_slugs, refs_table = build_refs(source_slugs)
     if not source_slugs:
@@ -195,7 +196,7 @@ aliases:
 case_id: "CYB-FUP-{sequence:03d}"
 period: {period}
 operation_role: "follow-on"
-parent_operation: ""
+parent_operation: {yaml_quote(wikilink(parent_operation) if parent_operation else "")}
 operation_type: {yaml_quote(op_type)}
 status: {yaml_quote('ongoing' if ongoing else 'completed')}
 enforcement_type:
@@ -236,7 +237,7 @@ source_tier: 1
 missing_fields: []
 related_cases:
   - "[[{case_slug}]]"
-related_operations: []
+related_operations:{yaml_list_block([wikilink(parent_operation)] if parent_operation else [])}
 challenges_encountered: []
 lessons_learned: []
 source_count: {len(source_slugs)}
@@ -299,6 +300,11 @@ def main() -> None:
                 next_id += 1
                 meta["related_operation"] = wikilink(op_slug)
                 case_changed = True
+                created_ops += 1
+        elif not (OPS_DIR / f"operation-{case_path.stem}.md").exists():
+            op_slug = create_follow_on_operation(case_path, case_post, next_id)
+            if op_slug:
+                next_id += 1
                 created_ops += 1
 
         if case_changed:

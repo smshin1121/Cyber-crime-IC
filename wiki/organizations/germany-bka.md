@@ -1,64 +1,45 @@
 ---
 aliases:
-- BKA
-- German Federal Criminal Police Office
-- Federal Criminal Police
-contact_point_for:
-- network: '[[24-7-network]]'
-  role: Budapest Convention Art. 35 contact point (Germany)
-- network: '[[europol-siena]]'
-  role: Europol National Unit
-cooperation_partners:
-- '[[europol-ec3]]'
-- '[[interpol-igci]]'
-- '[[fbi-cyber-division]]'
-- '[[uk-nca]]'
-- '[[netherlands-politie]]'
-country: '[[germany]]'
-created: 2026-04-08
-established: '1951-03-08'
-frameworks_administered: []
-headquarters: Wiesbaden, Germany
-key_roles:
-- INTERPOL NCB Germany
-- Central Europol National Unit
-- Federal cybercrime investigation
-- International cooperation coordination for German law enforcement
-- Criminal intelligence and analysis
-- Digital forensics
-last_verified: '2026-04-10'
-mandate: Germany's federal criminal police; investigates serious and organized crime
-  with international dimensions; serves as INTERPOL NCB Germany and central Europol
-  contact.
-mechanisms_operated: []
-member_states: 0
-notable_cases: []
-official_name: Bundeskriminalamt
-official_name_ko: 독일 연방형사경찰청
-operations_participated:
-- '[[andromeda-botnet-takedown]]'
-- '[[hive-ransomware-takedown]]'
-- '[[operation-avalanche]]'
-- '[[operation-cronos-phase1]]'
-- '[[operation-cronos-phase3]]'
-- '[[operation-endgame]]'
-- '[[operation-endgame-phase1]]'
-- '[[operation-endgame-phase2]]'
-- '[[operation-nova]]'
-- '[[operation-talent]]'
-- '[[phobos-8base-crackdown]]'
-- '[[qakbot-gallyamov-indictment]]'
-- '[[operation-dark-huntor]]'
-org_type: national-agency
-parent_org: '[[germany-bmi]]'
-source_count: 0
-sources: []
-status: active
-title: Bundeskriminalamt (BKA)
-type: organization
-updated: '2026-04-09'
----
 
+contact_point_for:
+
+cooperation_partners:
+
+country: "[[germany]]"
+created: 2026-04-08
+established: 1951-03-08
+frameworks_administered:
+
+headquarters: "Wiesbaden, Germany"
+key_roles:
+
+last_verified: 2026-04-10
+mandate: "Germany's federal criminal police; investigates serious and organized crime"
+mechanisms_operated:
+
+member_states: 0
+notable_cases:
+
+official_name: Bundeskriminalamt
+official_name_ko: "독일 연방형사경찰청"
+operations_participated:
+  - "[[operation-cronos-phase1]]"
+  - "[[operation-cronos-phase3]]"
+  - "[[operation-dark-huntor]]"
+  - "[[operation-endgame]]"
+  - "[[operation-endgame-phase1]]"
+  - "[[operation-endgame-phase2]]"
+  - "[[operation-us-v-yakubets-dridex]]"
+org_type: national-agency
+parent_org: "[[germany-bmi]]"
+source_count: 0
+sources:
+
+status: active
+title: "Bundeskriminalamt (BKA)"
+type: organization
+updated: 2026-04-17
+---
 ## Summary
 
 The **Bundeskriminalamt (BKA)** is Germany's federal criminal police, headquartered in Wiesbaden. It serves as **INTERPOL NCB Germany** and as Germany's **central Europol National Unit**, making it the primary coordination point for all international law enforcement cooperation involving Germany.
