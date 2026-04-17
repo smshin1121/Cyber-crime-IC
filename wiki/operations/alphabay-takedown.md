@@ -93,6 +93,8 @@ missing_fields:
   - "full list of national agencies in supporting roles"
 related_cases:
   - "[[us-v-cazes-alphabay]]"
+  - "[[us-v-herrell-alphabay|United States v. Bryan Herrell (AlphaBay Moderator)]]"
+  - "[[us-v-almashwali-alphabay|United States v. Abudullah Almashwali (AlphaBay Vendor)]]"
 related_operations:
   - "[[operation-shrouded-horizon]]"
   - "[[darkode-takedown]]"

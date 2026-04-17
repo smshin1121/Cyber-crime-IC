@@ -58,7 +58,22 @@ missing_fields:
   - "legal_basis"
   - "mechanisms_used"
   - "arrests"
-related_cases: []
+related_cases:
+  - "[[us-v-habasescu-xdedic|United States v. Alexandru Habasescu (xDedic)]]"
+  - "[[us-v-kharmanskyi-xdedic|United States v. Pavlo Kharmanskyi (xDedic)]]"
+  - "[[us-v-pankov-xdedic|United States v. Dariy Pankov (xDedic / NLBrute)]]"
+  - "[[us-v-levinson-xdedic|United States v. Allen Levinson (xDedic Tax-Fraud Buyer)]]"
+  - "[[us-v-mcneely-xdedic|United States v. McNeely et al. (xDedic Buyers)]]"
+  - "[[us-v-ivanov-tolpintsev-xdedic|United States v. Ivanov-Tolpintsev (xDedic Credentials Seller)]]"
+  - "[[us-v-adejumo-jinadu-xdedic|United States v. Adejumo and Jinadu (xDedic Tax-Fraud Proceeds)]]"
+  - "[[us-v-omotosho-xdedic|United States v. Bamidele Omotosho (xDedic Cyber Scams)]]"
+  - "[[us-v-odedeyi-davies-xdedic|United States v. Odedeyi and Davies (xDedic U.K. Extradition Case)]]"
+  - "[[us-v-spencer-xdedic|United States v. Joshua Spencer (xDedic)]]"
+  - "[[us-v-mckinzie-xdedic|United States v. Harold McKinzie (xDedic)]]"
+  - "[[us-v-adafin-xdedic|United States v. Olayemi Adafin (xDedic)]]"
+  - "[[us-v-oyebanjo-xdedic|United States v. Olakunle Oyebanjo (xDedic)]]"
+  - "[[us-v-taylor-xdedic|United States v. Akinola Taylor (xDedic)]]"
+  - "[[us-v-ogunlana-xdedic|United States v. Oluwarotimi Ogunlana (xDedic)]]"
 related_operations: []
 challenges_encountered: []
 lessons_learned: []

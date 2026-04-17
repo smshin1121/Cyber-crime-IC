@@ -46,7 +46,9 @@ legal_frameworks_invoked:
 mechanisms_used:
   - "[[joint-investigation-team]]"
   - "[[24-7-network]]"
-key_legal_issues: []
+key_legal_issues:
+  - "[[data-sovereignty]]"
+  - "[[jurisdictional-conflicts]]"
 precedent_value: "High — first large-scale law enforcement-controlled malware remediation (uninstall module deployed to infected machines worldwide via botnet's own update mechanism)"
 source_count: 1
 sources:
@@ -84,6 +86,15 @@ A JIT was established via [[eurojust|Eurojust]] enabling real-time evidence shar
 Dutch police recovered 4.3 million compromised email addresses and launched an online tool for victims to check exposure.
 
 ## Legal Analysis
+
+### Jurisdiction
+
+The US component relied on a court-authorized disruption order tied to infected machines and victim harm within the Middle District of North Carolina, while the arrests and many infrastructure actions were carried out under separate European and Ukrainian authorities.
+
+### Key Legal Issues
+
+- **Remote remediation authority:** The operation raised unusual questions about whether law enforcement can alter malware behavior on victim machines at global scale even for cleanup purposes.
+- **Split enforcement model:** The case combines a US judicial disruption order with foreign criminal arrests, illustrating how botnet response can be legally fragmented across jurisdictions.
 
 ### Precedent Value
 

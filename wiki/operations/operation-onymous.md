@@ -90,7 +90,10 @@ edges:
 credibility_index: 4.0
 source_tier: 1
 missing_fields: []
-related_cases: []
+related_cases:
+  - "[[us-v-benthall-silk-road-2|United States v. Blake Benthall (Silk Road 2.0)]]"
+  - "[[us-v-farrell-silk-road-2|United States v. Brian Farrell (Silk Road 2.0)]]"
+  - "[[us-v-paiva-silk-road-2|United States v. Michael Paiva (Silk Road 2.0 Purchaser)]]"
 related_operations:
   - "[[silk-road-takedown|Silk Road Takedown (2013)]]"
   - "[[alphabay-takedown|AlphaBay Takedown]]"

@@ -52,7 +52,8 @@ edges:
 credibility_index: 2.28
 source_tier: 2
 missing_fields: ["legal_basis", "mechanisms_used"]
-related_cases: []
+related_cases:
+  - "[[us-v-odufuye-nwoke-bec|United States v. Odufuye and Nwoke (BEC)]]"
 related_operations: []
 challenges_encountered: []
 lessons_learned: []

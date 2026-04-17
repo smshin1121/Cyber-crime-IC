@@ -68,6 +68,12 @@ source_tier: 1
 missing_fields: []
 related_cases:
   - "[[us-v-ulbricht-silk-road]]"
+  - "[[us-v-gary-davis-silk-road|United States v. Gary Davis (Silk Road)]]"
+  - "[[us-v-matthew-jones-silk-road|United States v. Matthew Jones]]"
+  - "[[us-v-olivia-bolles-silk-road|United States v. Olivia Bolles]]"
+  - "[[us-v-sheldon-kennedy-silk-road|United States v. Sheldon Kennedy]]"
+  - "[[us-v-roger-thomas-clark-silk-road|United States v. Roger Thomas Clark]]"
+  - "[[us-v-haney-silk-road|United States v. Hugh Haney (Silk Road Laundering)]]"
 related_operations:
   - "[[darkmarket-takedown]]"
 challenges_encountered:

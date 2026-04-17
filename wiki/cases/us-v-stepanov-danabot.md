@@ -42,7 +42,9 @@ legal_frameworks_invoked:
   - "[[budapest-convention]]"
 mechanisms_used:
   - "[[joint-investigation-team]]"
-key_legal_issues: []
+key_legal_issues:
+  - "[[data-sovereignty]]"
+  - "[[jurisdictional-conflicts]]"
 precedent_value: "Medium — largest indictment count (16 defendants) in a single botnet prosecution as part of the largest-ever anti-botnet operation"
 source_count: 1
 sources:
@@ -72,12 +74,31 @@ The DanaBot indictment was part of Operation Endgame Phase 2, involving seven co
 
 Concurrent with the indictment, the broader operation resulted in 300 servers taken down, 650 domains neutralized, EUR 3.5 million in cryptocurrency seized, 20 international arrest warrants, and 18 EU Most Wanted list additions.
 
+## Legal Analysis
+
+### Jurisdiction
+
+Public reporting suggests US jurisdiction was based on DanaBot's impact on US victims and networks, but the precise district-level theory remains under-documented because the underlying court record is not yet well surfaced in official sources.
+
+### Key Legal Issues
+
+- **Source-verification gap:** The present public narrative relies heavily on secondary reporting, creating a documentation problem that is unusual for a supposedly major US indictment.
+- **Hybrid malware use-case:** DanaBot's alleged use for both financially motivated crime and espionage complicates classification, victim analysis, and attribution narratives.
+
+### Precedent Value
+
+**Medium.** If the official charging record is confirmed, the case will matter as part of a very large coordinated botnet action, but its documentary value remains limited until primary-source court materials are secured.
+
 ## Proceedings Timeline
 
 | Date | Event |
 |------|-------|
 | 2025-05-19 to 22 | Operation Endgame Phase 2 action days |
 | 2025-05-23 | 16-count indictment unsealed; Europol announcement |
+
+## Cooperation Effectiveness
+
+The case shows strong operational cooperation because the indictment ran in parallel with a broad infrastructure action across multiple jurisdictions. Its weakness is documentary rather than operational: without a fully confirmed primary-source court record, the legal durability of the public narrative is harder to assess.
 
 ## Korean Relevance (한국 관련성)
 

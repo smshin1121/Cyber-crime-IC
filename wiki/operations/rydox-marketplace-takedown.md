@@ -65,7 +65,8 @@ missing_fields:
   - "mechanisms_used"
   - "financial_losses"
   - "url"
-related_cases: []
+related_cases:
+  - "[[us-v-kutleshi-rydox|United States v. Kutleshi (Rydox Marketplace)]]"
 related_operations: []
 challenges_encountered: []
 lessons_learned:

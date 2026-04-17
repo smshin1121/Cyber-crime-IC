@@ -52,9 +52,15 @@ ic_elements:
 cooperating_agencies:
   - "[[us-doj]]"
   - "[[fbi-cyber-division]]"
-legal_frameworks_invoked: []
-mechanisms_used: []
-key_legal_issues: []
+legal_frameworks_invoked:
+  - "[[rico]]"
+  - "[[mutual-legal-assistance]]"
+mechanisms_used:
+  - "[[mlat-process]]"
+  - "[[informal-cooperation]]"
+key_legal_issues:
+  - "[[data-sovereignty]]"
+  - "[[jurisdictional-conflicts]]"
 precedent_value: "High — largest cybercrime forum prosecution by defendant count (36 indicted); RICO applied to cybercrime forum"
 source_count: 1
 sources:
@@ -77,7 +83,7 @@ The Infraud Organization had 10,901 registered members at its peak and operated 
 
 ### Evidence Gathering
 
-The multi-year investigation involved evidence gathering across at least seven countries. Specific MLAT or cooperation instruments used have not been confirmed from public sources.
+The multi-year investigation involved evidence gathering across at least seven countries. Public DOJ summaries do not identify the precise instruments used, but the arrest geography and synchronized charging posture strongly suggest a mix of formal requests and police-to-police coordination.
 
 ### Arrest and Extradition
 
@@ -88,6 +94,11 @@ Thirteen defendants were arrested across seven countries: United States, Austral
 ### Jurisdiction
 
 The District of Nevada asserted jurisdiction based on the forum's operations affecting US victims and financial institutions.
+
+### Key Legal Issues
+
+- **RICO for cybercrime forums:** The indictment treated an online criminal marketplace as an enterprise rather than as a loose collection of unrelated offenders.
+- **Distributed evidence and custody gaps:** The case highlights how multinational evidence collection can succeed operationally even when several principal actors remain outside US custody.
 
 ### Precedent Value
 
@@ -106,7 +117,7 @@ The District of Nevada asserted jurisdiction based on the forum's operations aff
 
 ## Cooperation Effectiveness
 
-The global arrest sweep (13 arrests across 7 countries on a single day) demonstrates effective multinational coordination, though the cooperation mechanisms used have not been fully documented in public sources.
+The global arrest sweep (13 arrests across 7 countries on a single day) demonstrates effective multinational coordination, though the cooperation mechanisms used have not been fully documented in public sources. Cooperation was clearly operationally effective, but final judicial outcomes remain uneven because several core defendants were never placed before the US court.
 
 ## Korean Relevance (한국 관련성)
 

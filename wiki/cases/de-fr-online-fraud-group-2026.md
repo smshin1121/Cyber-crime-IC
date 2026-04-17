@@ -31,7 +31,9 @@ legal_frameworks_invoked:
   - "[[mutual-legal-assistance]]"
 mechanisms_used:
   - "[[mutual-legal-assistance|MLAT Process]]"
-key_legal_issues: []
+key_legal_issues:
+  - "[[jurisdictional-conflicts]]"
+  - "[[extradition-request]]"
 precedent_value: "low (routine bilateral DE-FR judicial cooperation; illustrative of Eurojust's everyday casework rather than a novel legal precedent)"
 source_count: 1
 sources:

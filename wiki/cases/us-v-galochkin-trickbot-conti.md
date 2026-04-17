@@ -53,7 +53,9 @@ cooperating_agencies:
   - "[[fbi-cyber-division]]"
   - "[[us-doj]]"
   - "[[us-secret-service]]"
-legal_frameworks_invoked: []
+legal_frameworks_invoked:
+  - "[[mutual-legal-assistance]]"
+  - "[[extradition-request]]"
 mechanisms_used:
   - "[[mutual-legal-assistance]]"
 key_legal_issues:
@@ -92,6 +94,11 @@ Alla Witte, a Latvian national, was arrested in Miami in February 2021. She plea
 ### Jurisdiction
 
 Three separate federal districts brought charges: the N.D. Ohio (TrickBot), M.D. Tennessee (Conti), and S.D. California (additional charges). Maximum penalties: 62 years (TrickBot), 25 years (Conti).
+
+### Key Legal Issues
+
+- **Multi-district charging design:** The case divides a single criminal ecosystem across multiple federal courts, raising coordination and narrative-consistency challenges.
+- **Custody asymmetry:** The prosecution secured real defendants through Miami and South Korea while the core Russian defendants remain outside US reach.
 
 ### Precedent Value
 

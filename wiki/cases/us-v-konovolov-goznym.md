@@ -48,7 +48,9 @@ legal_frameworks_invoked:
   - "[[budapest-convention]]"
 mechanisms_used:
   - "[[joint-investigation-team]]"
-key_legal_issues: []
+key_legal_issues:
+  - "[[data-sovereignty]]"
+  - "[[jurisdictional-conflicts]]"
 precedent_value: "High — first multinational prosecution with simultaneous parallel prosecutions in 5 countries for the same cybercrime network"
 source_count: 1
 sources:
@@ -84,6 +86,15 @@ Krasimir Nikolov was extradited from Bulgaria to the US to face charges.
 
 ## Legal Analysis
 
+### Jurisdiction
+
+The Western District of Pennsylvania asserted jurisdiction because the network targeted US businesses and financial institutions and because substantial victim and investigative effects were centered in the United States.
+
+### Key Legal Issues
+
+- **Parallel prosecutions versus extradition:** The case tested whether synchronized domestic prosecutions could substitute for mass extradition without sacrificing accountability.
+- **Sovereignty-respecting enforcement design:** It also showed how cybercrime enforcement can be structured to preserve national control over local defendants while still presenting a unified multinational case.
+
 ### Precedent Value
 
 **High.** The case established a model for coordinated multinational cybercrime prosecutions where each country prosecutes its own nationals in parallel, avoiding the delays and complications of mass extradition. This approach *likely* reflects the growing maturity of international cybercrime cooperation frameworks.
@@ -99,7 +110,7 @@ Krasimir Nikolov was extradited from Bulgaria to the US to face charges.
 
 ## Cooperation Effectiveness
 
-The GozNym case *almost certainly* represents a high-water mark for multinational cybercrime prosecution cooperation, with six countries agreeing to a coordinated approach that respected each nation's sovereignty while ensuring comprehensive enforcement.
+The GozNym case *almost certainly* represents a high-water mark for multinational cybercrime prosecution cooperation, with six countries agreeing to a coordinated approach that respected each nation's sovereignty while ensuring comprehensive enforcement. Its main strength was structural: participating states distributed prosecutions across jurisdictions instead of depending on a single court to obtain custody over every suspect.
 
 ## Korean Relevance (한국 관련성)
 

@@ -1,6 +1,6 @@
 # Wiki Index
 
-*Last updated: 2026-04-14 | Total pages: 494 | Total sources: 130*
+*Last updated: 2026-04-14 | Total pages: 571 | Total sources: 130*
 
 ## Legal Frameworks (7)
 - [[budapest-convention]] — First binding international treaty on cybercrime; 70+ parties; core IC provisions (Art. 29, 31, 32, 35)
@@ -47,7 +47,7 @@ Recent highlights:
 - [[operation-sentinel-africa]] — INTERPOL Africa BEC/ransomware (2025); 574 arrests
 (... and 77 more)
 
-## Cases (23)
+## Cases (100)
 - [[de-fr-online-fraud-group-2026]] — Bilateral DE-FR online fraud prosecution via Eurojust (2026)
 
 

@@ -103,6 +103,7 @@ source_tier: 1
 missing_fields: []
 related_cases:
   - "[[us-v-yakubets-dridex]]"
+  - "[[us-v-ghinkul-dridex|United States v. Ghinkul (Bugat/Dridex)]]"
 related_operations:
   - "[[goznym-takedown|GozNym Takedown]]"
   - "[[zeus-spyeye-takedown|Zeus/SpyEye Takedown]]"

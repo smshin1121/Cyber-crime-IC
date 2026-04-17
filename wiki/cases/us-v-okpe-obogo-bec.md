@@ -38,7 +38,9 @@ legal_frameworks_invoked:
   - "[[extradition-request]]"
 mechanisms_used:
   - "[[mutual-legal-assistance]]"
-key_legal_issues: []
+key_legal_issues:
+  - "[[jurisdictional-conflicts]]"
+  - "[[extraterritorial-jurisdiction]]"
 precedent_value: "High - the case clearly links BEC prosecution to overseas arrests and extraditions, which makes the international-cooperation component unusually explicit."
 source_count: 1
 sources:

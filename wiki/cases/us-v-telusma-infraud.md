@@ -25,10 +25,13 @@ ic_elements:
   asset_freezing: []
 cooperating_agencies:
   - "[[us-doj]]"
-legal_frameworks_invoked: []
+legal_frameworks_invoked:
+  - "[[mutual-legal-assistance]]"
 mechanisms_used:
   - "[[mutual-legal-assistance]]"
-key_legal_issues: []
+key_legal_issues:
+  - "[[jurisdictional-conflicts]]"
+  - "[[data-sovereignty]]"
 precedent_value: "Moderate - the sentencing likely shows the long prosecutorial tail and continuing international-assistance needs after a major cybercrime-forum takedown."
 source_count: 1
 sources:

@@ -59,7 +59,8 @@ missing_fields:
   - "mechanisms_used"
   - "results_arrests"
   - "results_indictments"
-related_cases: []
+related_cases:
+  - "[[us-v-nazarovi-qqaazz|United States v. Nazarovi et al. (QQAAZZ)]]"
 related_operations: []
 challenges_encountered: []
 lessons_learned:

@@ -27,11 +27,14 @@ cooperating_agencies:
   - "[[uk-nca]]"
   - "[[netherlands-politie]]"
   - "[[us-doj]]"
-legal_frameworks_invoked: []
+legal_frameworks_invoked:
+  - "[[computer-fraud-and-abuse-act]]"
 mechanisms_used:
   - "[[informal-cooperation]]"
   - "[[mutual-legal-assistance]]"
-key_legal_issues: []
+key_legal_issues:
+  - "[[jurisdictional-conflicts]]"
+  - "[[data-sovereignty]]"
 precedent_value: "Moderate - the case likely shows how a domestic booter prosecution can serve as one component of a multinational infrastructure-seizure campaign."
 source_count: 1
 sources:
