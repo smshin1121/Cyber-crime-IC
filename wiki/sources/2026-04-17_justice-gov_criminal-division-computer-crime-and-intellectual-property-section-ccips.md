@@ -1,0 +1,27 @@
+---
+type: source
+title: "Criminal Division — Computer Crime and Intellectual Property Section (CCIPS)"
+raw_path: raw/press-releases/2026-04-17_justice-gov_criminal-division-computer-crime-and-intellectual-property-section-ccips.md
+source_type: press-release
+publisher: "US Department of Justice"
+author: ""
+publish_date: 2026-04-17
+ingest_date: 2026-04-17
+language: en
+reliability: medium
+credibility: confirmed
+sensitivity: public
+pages_updated:
+  []
+key_findings:
+  - "The **US Department of Justice (DOJ)** is the central legal authority for international cybercrime cooperation involving the United States. Through its **Office of International Affairs (OIA)**, DOJ serves as the **central authority** for all US bilateral Mutual Legal Assistance Treaties (30+ MLATs). Through the **Computer Crime and Intellectual Property Section (CCIPS)** in the Criminal Division, DOJ leads federal cybercrime prosecution and serves as the **Budapest Convention Art. 35 contact point**."
+collection_url: https://www.justice.gov/criminal/criminal-ccips
+created: 2026-04-17
+---
+## Source Summary
+
+The **US Department of Justice (DOJ)** is the central legal authority for international cybercrime cooperation involving the United States. Through its **Office of International Affairs (OIA)**, DOJ serves as the **central authority** for all US bilateral Mutual Legal Assistance Treaties (30+ MLATs). Through the **Computer Crime and Intellectual Property Section (CCIPS)** in the Criminal Division, DOJ leads federal cybercrime prosecution and serves as the **Budapest Convention Art. 35 contact point**.
+
+## Relevance to IC
+
+This source was generated from `raw/press-releases/2026-04-17_justice-gov_criminal-division-computer-crime-and-intellectual-property-section-ccips.md` to make the raw corpus addressable from the source index.

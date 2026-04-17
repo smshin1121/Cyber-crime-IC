@@ -1,0 +1,27 @@
+---
+type: source
+title: "United States v. Odufuye and Nwoke"
+raw_path: raw/press-releases/2016-12-20_justice-gov_united-states-v-odufuye-and-nwoke.md
+source_type: press-release
+publisher: "US DOJ (District of Connecticut)"
+author: ""
+publish_date: 2016-12-20
+ingest_date: 2026-04-17
+language: en
+reliability: high
+credibility: confirmed
+sensitivity: public
+pages_updated:
+  []
+key_findings:
+  - "Odufuye and Nwoke (BEC) Enforcement Action is a defendant-specific enforcement action page derived from [[us-v-odufuye-nwoke-bec]]. It captures the prosecutorial or seizure stage reflected in the linked case record and preserves the operation-side catalog entry for this follow-on action."
+collection_url: https://www.justice.gov/usao-ct/pr/nigerian-nationals-charged-operating-business-compromise-scheme
+created: 2026-04-17
+---
+## Source Summary
+
+Odufuye and Nwoke (BEC) Enforcement Action is a defendant-specific enforcement action page derived from [[us-v-odufuye-nwoke-bec]]. It captures the prosecutorial or seizure stage reflected in the linked case record and preserves the operation-side catalog entry for this follow-on action.
+
+## Relevance to IC
+
+This source was generated from `raw/press-releases/2016-12-20_justice-gov_united-states-v-odufuye-and-nwoke.md` to make the raw corpus addressable from the source index.

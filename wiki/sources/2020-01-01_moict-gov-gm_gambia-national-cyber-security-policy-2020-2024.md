@@ -1,0 +1,27 @@
+---
+type: source
+title: "Gambia National Cyber Security Policy 2020-2024"
+raw_path: raw/press-releases/2020-01-01_moict-gov-gm_gambia-national-cyber-security-policy-2020-2024.md
+source_type: press-release
+publisher: "Ministry of Interior (The Gambia)"
+author: ""
+publish_date: 2020-01-01
+ingest_date: 2026-04-17
+language: en
+reliability: medium
+credibility: confirmed
+sensitivity: public
+pages_updated:
+  []
+key_findings:
+  - "The Gambia has limited cybercrime legislation centred on the **Information and Communications Act 2009 (ICA)**, which provides some substantive cybercrime offences but lacks comprehensive procedural powers for electronic evidence and international cooperation."
+collection_url: https://www.moict.gov.gm/
+created: 2026-04-17
+---
+## Source Summary
+
+The Gambia has limited cybercrime legislation centred on the **Information and Communications Act 2009 (ICA)**, which provides some substantive cybercrime offences but lacks comprehensive procedural powers for electronic evidence and international cooperation.
+
+## Relevance to IC
+
+This source was generated from `raw/press-releases/2020-01-01_moict-gov-gm_gambia-national-cyber-security-policy-2020-2024.md` to make the raw corpus addressable from the source index.

@@ -1,0 +1,27 @@
+---
+type: source
+title: "Russian National Charged with Decade-Long Series of Hacking and Bank Fraud"
+raw_path: raw/press-releases/2019-12-05_justice-gov_russian-national-charged-with-decade-long-series-of-hacking-and-bank-fraud.md
+source_type: press-release
+publisher: "US DOJ"
+author: ""
+publish_date: 2019-12-05
+ingest_date: 2026-04-17
+language: en
+reliability: high
+credibility: confirmed
+sensitivity: public
+pages_updated:
+  []
+key_findings:
+  - "The Dridex/Evil Corp disruption and prosecution was a **multi-year international law enforcement operation** targeting the Dridex banking trojan (also known as Bugat and Cridex) and its operators within the Russia-based cybercriminal organization **Evil Corp**. The operation unfolded in two major phases: (1) the **October 2015 technical disruption and arrest** of botnet administrator Andrey Ghinkul, conducted jointly by the [[fbi-cyber-division|FBI]] and [[uk-nca|UK National Crime Agency (NCA)]]; and (2) the **December 2019 indictment, sanctions, and reward** targeting Evil Corp leader **Maksim Yakubets** and deputy **Igor Turashev**, coordinated between the [[us-doj|US DOJ]], [[us-treasury|US Treasury (OFAC)]], and NCA."
+collection_url: https://www.justice.gov/archives/opa/pr/russian-national-charged-decade-long-series-hacking-and-bank-fraud-offenses-resulting-tens
+created: 2026-04-17
+---
+## Source Summary
+
+The Dridex/Evil Corp disruption and prosecution was a **multi-year international law enforcement operation** targeting the Dridex banking trojan (also known as Bugat and Cridex) and its operators within the Russia-based cybercriminal organization **Evil Corp**. The operation unfolded in two major phases: (1) the **October 2015 technical disruption and arrest** of botnet administrator Andrey Ghinkul, conducted jointly by the [[fbi-cyber-division|FBI]] and [[uk-nca|UK National Crime Agency (NCA)]]; and (2) the **December 2019 indictment, sanctions, and reward** targeting Evil Corp leader **Maksim Yakubets** and deputy **Igor Turashev**, coordinated between the [[us-doj|US DOJ]], [[us-treasury|US Treasury (OFAC)]], and NCA.
+
+## Relevance to IC
+
+This source was generated from `raw/press-releases/2019-12-05_justice-gov_russian-national-charged-with-decade-long-series-of-hacking-and-bank-fraud.md` to make the raw corpus addressable from the source index.

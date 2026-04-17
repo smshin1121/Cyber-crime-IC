@@ -1,0 +1,14 @@
+---
+title: "Doj Breaks Up Infraud Organization With Some Help"
+collection_source: "techtarget.com"
+collection_url: "https://www.techtarget.com/searchsecurity/news/252434713/DoJ-breaks-up-Infraud-Organization-with-some-help"
+collection_domain: "www.techtarget.com"
+collection_date: "2026-04-17"
+publish_date: "2026-04-17"
+language: "en"
+status: "collected"
+---
+
+## Summary
+
+In February 2018, the US Department of Justice announced the takedown of the **Infraud Organization**, a massive online cybercrime forum responsible for an estimated **$530 million** in losses. The operation resulted in **36 indictments** and **13 arrests** across multiple countries. The Infraud Organization had operated since 2010 with nearly 11,000 members, facilitating the sale of stolen financial data, malware, and other cybercrime services.
