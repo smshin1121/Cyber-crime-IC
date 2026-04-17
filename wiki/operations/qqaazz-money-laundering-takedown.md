@@ -1,29 +1,23 @@
 ---
-related_operations:
-  - "[[operation-us-v-nazarovi-qqaazz]]"
-related_cases:
-  - "[[us-v-nazarovi-qqaazz]]"
-operation_role: umbrella
-parent_operation: ""
----
-﻿---
 type: operation
 title: "QQAAZZ Money Laundering Network Takedown"
 title_ko: "QQAAZZ 자금세탁 네트워크 소탕"
-aliases: ["QQAAZZ takedown", "QQAAZZ money laundering bust"]
-case_id: "CYB-2020-052"
+aliases:
+  - "QQAAZZ takedown"
+  - "QQAAZZ money laundering bust"
+case_id: CYB-2020-052
 period: 2
-operation_type: "arrest-sweep"
-status: "completed"
+operation_type: arrest-sweep
+status: completed
 enforcement_type:
-  - "arrest"
-  - "indictment"
-  - "seizure"
-outcome: "success"
+  - arrest
+  - indictment
+  - seizure
+outcome: success
 timeframe:
-  announced: "2020-10-15"
-  start: "2020-10-15"
-  end: "2020-10-15"
+  announced: 2020-10-15
+  start: 2020-10-15
+  end: 2020-10-15
   ongoing: false
 crime_type: "[[money-laundering-ic]]"
 target_entity: "QQAAZZ money laundering network"
@@ -40,8 +34,10 @@ participating_countries:
 participating_agencies:
   - "[[fbi-cyber-division]]"
   - "[[europol-ec3]]"
-legal_basis: []
-mechanisms_used: []
+legal_basis:
+
+mechanisms_used:
+
 results:
   arrests: 0
   indictments: 0
@@ -55,31 +51,48 @@ results:
     - "Network provided laundering services for multiple cybercrime groups"
     - "Russian nationals among those charged"
 edges:
-  - source_actor: "FBI"
-    target_actor: "Europol"
-    cooperation_type: "joint_investigation"
-    legal_basis: "unknown"
-    direction: "undirected"
+  - source_actor: FBI
+    target_actor: Europol
+    cooperation_type: joint_investigation
+    legal_basis: unknown
+    direction: undirected
 credibility_index: 1.88
 source_tier: 3
 missing_fields:
-  - "legal_basis"
-  - "mechanisms_used"
-  - "results_arrests"
-  - "results_indictments"
+  - legal_basis
+  - mechanisms_used
+  - results_arrests
+  - results_indictments
 related_cases:
-  - "[[us-v-nazarovi-qqaazz|United States v. Nazarovi et al. (QQAAZZ)]]"
-related_operations: []
-challenges_encountered: []
+  - "[[us-v-nazarovi-qqaazz]]"
+related_operations:
+  - "[[operation-us-v-nazarovi-qqaazz]]"
+challenges_encountered:
+
 lessons_learned:
   - "Targeting money laundering infrastructure can disrupt multiple cybercrime groups simultaneously"
 source_count: 1
 sources:
-  - "tier3-cyberscoop-qqaazz-2020"
+  - tier3-cyberscoop-qqaazz-2020
 created: 2026-04-08
 updated: 2026-04-17
+operation_role: umbrella
+parent_operation: ""
+summary: "In October 2020, the FBI and Europol coordinated the takedown of **QQAAZZ**, a multi-national money laundering network that provided laundering services to cybercriminals worldwide. The QQAAZZ network operated as a \"money mule\" organization, opening hundreds of bank accounts across multiple countries to launder proceeds from cybercrimes including banking trojan theft, ransomware, and BEC schemes."
+jurisdictions:
+  - "[[united-states]]"
+  - "[[portugal]]"
+  - "[[spain]]"
+  - "[[united-kingdom]]"
+  - "[[latvia]]"
+  - "[[georgia]]"
+  - "[[bulgaria]]"
+organizations:
+  - "[[fbi-cyber-division]]"
+  - "[[europol-ec3]]"
+crime_types:
+  - "[[money-laundering-ic]]"
 ---
-
 > [!note] This operation is documented from a Tier 3 (cybersecurity media) source. Additional verification from official sources (Tier 1-2) would strengthen data reliability.
 
 ## Summary

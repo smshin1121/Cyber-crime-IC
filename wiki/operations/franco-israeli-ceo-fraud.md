@@ -59,9 +59,9 @@ participating_agencies:
   - "Portugal Policia Judiciaria"
   - "Spain Policia Nacional"
 legal_basis:
-  []
+
 mechanisms_used:
-  []
+
 results:
   arrests: 8
   indictments: 0
@@ -75,11 +75,11 @@ results:
     - "EUR 38 million stolen from a single company in one BEC attack"
     - "8 house searches conducted in France and Israel"
 related_cases:
-  []
+
 related_operations:
-  []
+
 challenges_encountered:
-  []
+
 lessons_learned:
   - "BEC proceeds are rapidly moved through international banking systems requiring swift multilateral cooperation for asset recovery"
   - "Criminal networks operating across EU and non-EU countries require coordination through Europol and bilateral channels"
@@ -90,6 +90,26 @@ created: 2026-04-08
 updated: 2026-04-08
 operation_role: umbrella
 parent_operation: ""
+summary: "The Franco-Israeli CEO Fraud Investigation was a Europol-supported multi-country operation that dismantled a criminal network using business email compromise (BEC) and CEO fraud to divert corporate payments. The group, based across France and Israel, stole approximately **EUR 38 million** from a single company in one attack. Five action days between January 2022 and January 2023 resulted in **8 arrests** (6 in France, 2 in Israel including the group leader) and seizures of approximately **EUR 5.5 million** across 6 countries."
+jurisdictions:
+  - France
+  - Israel
+  - Croatia
+  - Hungary
+  - Portugal
+  - Spain
+organizations:
+  - "France (Police Nationale, Gendarmerie Nationale)"
+  - "[[europol-ec3]]"
+  - "France Police Nationale"
+  - "[[france-gendarmerie]]"
+  - "Israel Police"
+  - "Croatia Hrvatska Policija"
+  - "Hungary Budapesti Rendor-fokapitanysag"
+  - "Portugal Policia Judiciaria"
+  - "Spain Policia Nacional"
+crime_types:
+  - "[[bec-ic]]"
 ---
 ## Summary
 

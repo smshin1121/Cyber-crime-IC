@@ -28,9 +28,9 @@ participating_countries:
 participating_agencies:
   - "[[fbi-cyber-division]]"
 legal_basis:
-  []
+
 mechanisms_used:
-  []
+
 results:
   arrests: 33
   indictments: 0
@@ -57,20 +57,28 @@ missing_fields:
   - financial_losses
   - url
 related_cases:
-  []
+
 related_operations:
-  []
+
 challenges_encountered:
-  []
+
 lessons_learned:
-  []
+
 source_count: 1
 sources:
-  []
+
 created: 2026-04-08
 updated: 2026-04-08
 operation_role: umbrella
 parent_operation: ""
+summary: "In 2021, the FBI coordinated a joint operation with Nigerian authorities that resulted in **33 arrests** of individuals linked to the **Black Axe** cybercrime group for Business Email Compromise (BEC) fraud. Black Axe (also known as the Neo Black Movement) is a Nigerian confraternity that has been linked to extensive cybercrime operations, particularly BEC schemes that target businesses worldwide."
+jurisdictions:
+  - "[[united-states]]"
+  - "[[nigeria]]"
+organizations:
+  - "[[fbi-cyber-division]]"
+crime_types:
+  - "[[bec-ic]]"
 ---
 > [!note] This operation is documented from a Tier 3 (cybersecurity media) source. Additional verification from official sources (Tier 1-2) would strengthen data reliability.
 

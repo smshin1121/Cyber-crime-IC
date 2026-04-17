@@ -1,37 +1,39 @@
 ---
 type: case
 title: "United States v. Wu Haibo et al."
-case_number: "1:25-cr-00072"
+case_number: 1:25-cr-00072
 jurisdiction: "U.S. District Court, District of Columbia"
 jurisdiction_country: "[[united-states]]"
-case_type: "prosecution"
-status: "indicted"
+case_type: prosecution
+status: indicted
 crime_charged:
   - "[[hacking-ic]]"
   - "[[online-fraud-ic]]"
 defendants:
   - name: "Wu Haibo"
-    nationality: "Chinese"
-    status: "indicted"
+    nationality: Chinese
+    status: indicted
     sentence: ""
     location_at_arrest: "At large in China"
   - name: "Chen Cheng"
-    nationality: "Chinese"
-    status: "indicted"
+    nationality: Chinese
+    status: indicted
     sentence: ""
     location_at_arrest: "At large in China"
   - name: "Wang Zheng"
-    nationality: "Chinese"
-    status: "indicted"
+    nationality: Chinese
+    status: indicted
     sentence: ""
     location_at_arrest: "At large in China"
 related_operation: "[[isoon-apt27-indictment]]"
 ic_elements:
-  mlat_requests: []
+  mlat_requests:
+    []
   extradition: "No extradition is expected in the near term because the defendants are believed to be located in China."
   evidence_from_abroad:
     - "Victim data and intrusion evidence from multiple foreign jurisdictions likely informed the indictment"
-  foreign_arrests: []
+  foreign_arrests:
+    []
   asset_freezing:
     - "Treasury sanctions announced in parallel"
 cooperating_agencies:
@@ -53,8 +55,8 @@ sources:
   - "[[2025-03-05_opa_wu-haibo-isoon-indictment]]"
 created: 2026-04-17
 updated: 2026-04-17
+summary: "United States v. Wu Haibo et al. is the public charging case associated with the 5 March 2025 DOJ action against i-Soon personnel, Chinese law-enforcement officers, and APT27-linked operators. It is one of the clearest examples in the repository of a cybercrime indictment that doubles as strategic attribution."
 ---
-
 ## Summary
 
 United States v. Wu Haibo et al. is the public charging case associated with the 5 March 2025 DOJ action against i-Soon personnel, Chinese law-enforcement officers, and APT27-linked operators. It is one of the clearest examples in the repository of a cybercrime indictment that doubles as strategic attribution.

@@ -90,6 +90,15 @@ created: 2026-04-14
 updated: 2026-04-14
 operation_role: umbrella
 parent_operation: ""
+summary: "On **1 December 2025**, [[eurojust|Eurojust]] announced that authorities from [[germany|Germany]] and [[switzerland|Switzerland]], together with Eurojust and [[europol-ec3|Europol]], had taken down a cryptocurrency mixing service suspected of being used by criminals to launder the proceeds of drug trafficking, weapons trafficking, online fraud, and other cybercrimes. During an action week, **more than EUR 25 million in cryptocurrency was seized and three servers were taken down**."
+jurisdictions:
+  - "[[germany]]"
+  - "[[switzerland]]"
+organizations:
+  - "[[eurojust]]"
+  - "[[europol-ec3]]"
+crime_types:
+  - "[[money-laundering-ic]]"
 ---
 ## Summary
 

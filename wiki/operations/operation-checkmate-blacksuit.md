@@ -53,9 +53,9 @@ participating_countries:
 participating_agencies:
   - "[[fbi-cyber-division]]"
 legal_basis:
-  []
+
 mechanisms_used:
-  []
+
 results:
   arrests: 0
   indictments: 0
@@ -68,11 +68,11 @@ results:
     - "450+ US victims identified since 2022"
     - "Bitcoin ransom payment of 49.3120227 BTC (USD 1,445,454.86 at transaction time) seized from one case"
 related_cases:
-  []
+
 related_operations:
-  []
+
 challenges_encountered:
-  []
+
 lessons_learned:
   - "Multi-agency domestic coordination (5 US agencies) combined with international partnerships enables comprehensive ransomware disruption"
   - "Domain seizures targeting leak sites and negotiation portals directly disrupt ransomware business model"
@@ -83,6 +83,16 @@ created: 2026-04-08
 updated: 2026-04-08
 operation_role: umbrella
 parent_operation: ""
+summary: "Operation Checkmate was a coordinated international operation to disrupt the **BlackSuit (formerly Royal) ransomware group**, announced by the US Department of Justice on 11 August 2025. The operation culminated in the takedown of **4 servers and 9 domains** on 24 July 2025. The seized domains were used by BlackSuit to leak stolen data and communicate with victims for ransom negotiations. **USD 1,091,453** in virtual currency was seized."
+jurisdictions:
+  - "[[united-states]]"
+  - "[[united-kingdom]]"
+  - "[[germany]]"
+  - "[[france]]"
+organizations:
+  - "[[fbi-cyber-division]]"
+crime_types:
+  - "[[ransomware-ic]]"
 ---
 ## Summary
 

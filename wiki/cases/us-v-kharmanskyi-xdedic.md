@@ -4,29 +4,30 @@ title: "United States v. Pavlo Kharmanskyi (xDedic)"
 case_number: "8:18-CR-546-TPB-AEP (M.D. Fla.)"
 jurisdiction: "U.S. District Court, Middle District of Florida"
 jurisdiction_country: "[[united-states]]"
-case_type: "prosecution"
-status: "sentenced"
+case_type: prosecution
+status: sentenced
 crime_charged:
   - "[[cybercrime-forum-ic]]"
   - "[[access-device-fraud]]"
 defendants:
   - name: "Pavlo Kharmanskyi"
-    nationality: "Ukrainian"
-    status: "sentenced"
+    nationality: Ukrainian
+    status: sentenced
     sentence: "Time served / 30 months reported in DOJ roundup"
     location_at_arrest: "Miami International Airport, Florida"
 related_operation: "[[xdedic-marketplace-takedown]]"
 ic_elements:
   mlat_requests:
-    - "Belgium"
-    - "Ukraine"
+    - Belgium
+    - Ukraine
   extradition: ""
   evidence_from_abroad:
-    - "Belgium"
-    - "Ukraine"
-    - "Netherlands"
-    - "Germany"
-  foreign_arrests: []
+    - Belgium
+    - Ukraine
+    - Netherlands
+    - Germany
+  foreign_arrests:
+    []
   asset_freezing:
     - "xDedic domains seized in 2019"
 cooperating_agencies:
@@ -49,8 +50,8 @@ sources:
   - "[[2024-01-04_mdfl_kharmanskyi-xdedic-summary]]"
 created: 2026-04-17
 updated: 2026-04-17
+summary: "United States v. Kharmanskyi is an xDedic administrator case arising from the same marketplace cluster as Habasescu, but with a different custody path. Instead of overseas extradition, DOJ says Kharmanskyi was arrested at Miami International Airport while entering the United States."
 ---
-
 ## Summary
 
 United States v. Kharmanskyi is an xDedic administrator case arising from the same marketplace cluster as Habasescu, but with a different custody path. Instead of overseas extradition, DOJ says Kharmanskyi was arrested at Miami International Airport while entering the United States.

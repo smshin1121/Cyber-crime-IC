@@ -1,25 +1,23 @@
 ---
-operation_role: umbrella
-parent_operation: ""
----
-﻿---
 type: operation
 title: "Operation Destabilise"
 title_ko: "디스태빌라이즈 작전"
-aliases: ["Operation Destabilise", "NCA FBI money laundering ransomware operation"]
-case_id: "CYB-2024-051"
+aliases:
+  - "Operation Destabilise"
+  - "NCA FBI money laundering ransomware operation"
+case_id: CYB-2024-051
 period: 3
-operation_type: "arrest-sweep"
-status: "completed"
+operation_type: arrest-sweep
+status: completed
 enforcement_type:
-  - "arrest"
-  - "seizure"
-  - "asset_freeze"
-outcome: "success"
+  - arrest
+  - seizure
+  - asset_freeze
+outcome: success
 timeframe:
-  announced: "2024-12-04"
-  start: "2024-01-01"
-  end: "2024-12-04"
+  announced: 2024-12-04
+  start: 2024-01-01
+  end: 2024-12-04
   ongoing: false
 crime_type: "[[money-laundering-ic]]"
 target_entity: "Russian-speaking money laundering networks for cybercrime/ransomware"
@@ -31,8 +29,10 @@ participating_countries:
 participating_agencies:
   - "[[uk-nca]]"
   - "[[fbi-cyber-division]]"
-legal_basis: []
-mechanisms_used: []
+legal_basis:
+
+mechanisms_used:
+
 results:
   arrests: 84
   indictments: 0
@@ -47,30 +47,44 @@ results:
     - "NCA-FBI joint operation"
 edges:
   - source_actor: "UK NCA"
-    target_actor: "FBI"
-    cooperation_type: "joint_investigation"
-    legal_basis: "unknown"
-    direction: "undirected"
+    target_actor: FBI
+    cooperation_type: joint_investigation
+    legal_basis: unknown
+    direction: undirected
 credibility_index: 1.88
 source_tier: 3
 missing_fields:
-  - "legal_basis"
-  - "mechanisms_used"
-  - "complete_participating_countries"
-  - "financial_amounts"
-  - "url"
-related_cases: []
-related_operations: []
-challenges_encountered: []
+  - legal_basis
+  - mechanisms_used
+  - complete_participating_countries
+  - financial_amounts
+  - url
+related_cases:
+
+related_operations:
+
+challenges_encountered:
+
 lessons_learned:
   - "Targeting money laundering infrastructure disrupts the financial flow that sustains cybercrime"
   - "Large-scale arrest operations (80+) require extensive coordination"
 source_count: 1
-sources: []
+sources:
+
 created: 2026-04-08
 updated: 2026-04-08
+operation_role: umbrella
+parent_operation: ""
+summary: "**Operation Destabilise** was a major NCA-FBI joint operation targeting **money laundering networks** that facilitated ransomware and cybercrime proceeds. The operation resulted in over **84 arrests** and the disruption of Russian-speaking money laundering networks that served as the financial backbone for cybercriminal groups."
+jurisdictions:
+  - "[[united-kingdom]]"
+  - "[[united-states]]"
+organizations:
+  - "[[uk-nca]]"
+  - "[[fbi-cyber-division]]"
+crime_types:
+  - "[[money-laundering-ic]]"
 ---
-
 > [!note] This operation is documented from a Tier 3 (cybersecurity media) source. Additional verification from official sources (Tier 1-2) would strengthen data reliability.
 
 ## Summary

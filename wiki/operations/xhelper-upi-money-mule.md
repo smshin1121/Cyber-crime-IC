@@ -28,9 +28,9 @@ participating_countries:
 participating_agencies:
   - "[[europol-ec3]]"
 legal_basis:
-  []
+
 mechanisms_used:
-  []
+
 results:
   arrests: 0
   indictments: 0
@@ -59,21 +59,29 @@ missing_fields:
   - financial_losses
   - url
 related_cases:
-  []
+
 related_operations:
-  []
+
 challenges_encountered:
-  []
+
 lessons_learned:
   - "Mobile payment systems (UPI) can be exploited for large-scale money laundering"
   - "India-China criminal networks require cross-border cooperation"
 source_count: 1
 sources:
-  []
+
 created: 2026-04-08
 updated: 2026-04-08
 operation_role: umbrella
 parent_operation: ""
+summary: "An international operation targeted the **XHelper** money mule network, which exploited India's **Unified Payments Interface (UPI)** system for large-scale money laundering. The operation involved cooperation between **India** and **China**, with **Europol** involvement. The XHelper network used UPI — India's real-time payment system — to move illicit funds through a network of money mules."
+jurisdictions:
+  - "[[india]]"
+  - "[[china]]"
+organizations:
+  - "[[europol-ec3]]"
+crime_types:
+  - "[[money-laundering-ic]]"
 ---
 > [!note] This operation is documented from a Tier 3 (cybersecurity media) source. Additional verification from official sources (Tier 1-2) would strengthen data reliability.
 

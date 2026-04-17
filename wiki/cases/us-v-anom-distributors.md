@@ -4,41 +4,43 @@ title: "United States v. ANOM Distributors"
 case_number: "21-cr-01623 (S.D. Cal.)"
 jurisdiction: "U.S. District Court, Southern District of California"
 jurisdiction_country: "[[united-states]]"
-case_type: "prosecution"
-status: "convicted"
+case_type: prosecution
+status: convicted
 crime_charged:
   - "[[organized-crime-ic]]"
 defendants:
   - name: "Osemah Elhassen"
-    nationality: "Australian"
-    status: "sentenced"
+    nationality: Australian
+    status: sentenced
     sentence: "63 months"
-    location_at_arrest: "Colombia"
+    location_at_arrest: Colombia
   - name: "Alexander Dmitrienko"
-    nationality: "Finnish"
-    status: "convicted"
+    nationality: Finnish
+    status: convicted
     sentence: ""
     location_at_arrest: "Finland/Spain-linked distribution network"
   - name: "Aurangzeb Ayub"
     nationality: "Dutch-based distributor"
-    status: "convicted"
+    status: convicted
     sentence: ""
-    location_at_arrest: "Netherlands"
+    location_at_arrest: Netherlands
 related_operation: "[[operation-trojan-shield]]"
 ic_elements:
-  mlat_requests: []
+  mlat_requests:
+    []
   extradition: "Multiple defendants were extradited to the Southern District of California from countries including Colombia, Finland-linked jurisdictions, and the Netherlands."
   evidence_from_abroad:
     - "Third-country server jurisdiction used for ANOM message collection"
-    - "Australia"
-    - "Netherlands"
-    - "Lithuania"
-    - "Colombia"
-    - "Finland"
+    - Australia
+    - Netherlands
+    - Lithuania
+    - Colombia
+    - Finland
   foreign_arrests:
-    - "Colombia"
-    - "Netherlands"
-  asset_freezing: []
+    - Colombia
+    - Netherlands
+  asset_freezing:
+    []
 cooperating_agencies:
   - "[[fbi-cyber-division]]"
   - "[[europol-ec3]]"
@@ -58,8 +60,8 @@ sources:
   - "[[2021-06-08_sdca_anom-enterprise-indictment]]"
 created: 2026-04-17
 updated: 2026-04-17
+summary: "United States v. ANOM Distributors is the San Diego prosecution of the 17-defendant enterprise charged in connection with Operation Trojan Shield. The case is *highly likely* one of the most operationally unusual criminal cases in the repository because the FBI itself controlled the messaging platform that generated the evidence."
 ---
-
 ## Summary
 
 United States v. ANOM Distributors is the San Diego prosecution of the 17-defendant enterprise charged in connection with Operation Trojan Shield. The case is *highly likely* one of the most operationally unusual criminal cases in the repository because the FBI itself controlled the messaging platform that generated the evidence.

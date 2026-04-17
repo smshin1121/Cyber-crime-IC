@@ -4,24 +4,27 @@ title: "United States v. Matthew Jones (Silk Road Vendor)"
 case_number: "M.D. Fla. Silk Road sentencing"
 jurisdiction: "U.S. District Court, Middle District of Florida"
 jurisdiction_country: "[[united-states]]"
-case_type: "prosecution"
-status: "sentenced"
+case_type: prosecution
+status: sentenced
 crime_charged:
   - "[[drug-trafficking]]"
 defendants:
   - name: "Matthew Jones"
-    nationality: "American"
-    status: "sentenced"
+    nationality: American
+    status: sentenced
     sentence: "5 years 10 months"
     location_at_arrest: "Texas, United States"
 related_operation: "[[silk-road-takedown]]"
 ic_elements:
-  mlat_requests: []
+  mlat_requests:
+    []
   extradition: ""
   evidence_from_abroad:
     - "Silk Road marketplace transaction records"
-  foreign_arrests: []
-  asset_freezing: []
+  foreign_arrests:
+    []
+  asset_freezing:
+    []
 cooperating_agencies:
   - "[[us-doj]]"
 legal_frameworks_invoked:
@@ -36,8 +39,8 @@ sources:
   - "[[2014-12-18_mdfl_matthew-jones-silk-road-sentencing]]"
 created: 2026-04-17
 updated: 2026-04-17
+summary: "United States v. Jones is a Silk Road vendor case involving hundreds of completed online drug sales under multiple aliases."
 ---
-
 ## Summary
 
 United States v. Jones is a Silk Road vendor case involving hundreds of completed online drug sales under multiple aliases.

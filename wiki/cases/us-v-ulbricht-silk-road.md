@@ -4,26 +4,26 @@ title: "United States v. Ulbricht (Silk Road)"
 case_number: "S1 14 Cr. 68 (KBF)"
 jurisdiction: "U.S. District Court, Southern District of New York"
 jurisdiction_country: "[[united-states]]"
-case_type: "prosecution"
-status: "sentenced"
+case_type: prosecution
+status: sentenced
 crime_charged:
   - "[[online-fraud-ic]]"
 defendants:
   - name: "Ross William Ulbricht"
-    nationality: "American"
-    status: "pardoned"
+    nationality: American
+    status: pardoned
     sentence: "Life imprisonment (two concurrent life terms plus 40 years); pardoned 2025-01-21"
     location_at_arrest: "San Francisco, California"
   - name: "Gary Davis"
-    nationality: "Irish"
-    status: "sentenced"
+    nationality: Irish
+    status: sentenced
     sentence: "78 months"
-    location_at_arrest: "Ireland"
+    location_at_arrest: Ireland
   - name: "Roger Thomas Clark"
-    nationality: "Canadian-Australian"
-    status: "sentenced"
+    nationality: Canadian-Australian
+    status: sentenced
     sentence: "20 years"
-    location_at_arrest: "Thailand"
+    location_at_arrest: Thailand
 related_operation: "[[silk-road-takedown]]"
 ic_elements:
   mlat_requests:
@@ -34,7 +34,8 @@ ic_elements:
   foreign_arrests:
     - "Ireland (Davis, 2014)"
     - "Thailand (Clark, 2015)"
-  asset_freezing: []
+  asset_freezing:
+    []
 cooperating_agencies:
   - "[[fbi-cyber-division]]"
   - "[[us-doj]]"
@@ -51,8 +52,8 @@ sources:
   - "[[wired-operation-avalanche]]"
 created: 2026-04-12
 updated: 2026-04-12
+summary: "United States v. Ulbricht is the landmark criminal prosecution of Ross William Ulbricht, creator and operator of the Silk Road dark web marketplace, in the Southern District of New York. Ulbricht was convicted on all seven counts on 4 February 2015 and sentenced to two concurrent life terms plus 40 years on 29 May 2015, with a forfeiture order of USD 183,961,921. At the time, this was *almost certainly* the most severe sentence ever imposed for a cybercrime."
 ---
-
 ## Summary
 
 United States v. Ulbricht is the landmark criminal prosecution of Ross William Ulbricht, creator and operator of the Silk Road dark web marketplace, in the Southern District of New York. Ulbricht was convicted on all seven counts on 4 February 2015 and sentenced to two concurrent life terms plus 40 years on 29 May 2015, with a forfeiture order of USD 183,961,921. At the time, this was *almost certainly* the most severe sentence ever imposed for a cybercrime.

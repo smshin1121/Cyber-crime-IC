@@ -60,6 +60,13 @@ created: 2026-04-17
 updated: 2026-04-17
 operation_role: follow-on
 parent_operation: "[[emotet-takedown]]"
+summary: "Emotet Botnet Disruption — Operation LadyBird Enforcement Action is a defendant-specific enforcement action page derived from [[emotet-disruption-ladybird]]. It captures the prosecutorial or seizure stage reflected in the linked case record and preserves the operation-side catalog entry for this follow-on action."
+jurisdictions:
+  - "[[united-states]]"
+organizations:
+  - "[[netherlands-politie]]"
+crime_types:
+  - "[[ransomware-ic]]"
 ---
 ## Summary
 

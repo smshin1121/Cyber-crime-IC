@@ -1,20 +1,67 @@
 ---
-related_operations:
-  - "[[operation-us-v-adafin-xdedic]]"
-  - "[[operation-us-v-adejumo-jinadu-xdedic]]"
-  - "[[operation-us-v-habasescu-xdedic]]"
-  - "[[operation-us-v-ivanov-tolpintsev-xdedic]]"
-  - "[[operation-us-v-kharmanskyi-xdedic]]"
-  - "[[operation-us-v-levinson-xdedic]]"
-  - "[[operation-us-v-mckinzie-xdedic]]"
-  - "[[operation-us-v-mcneely-xdedic]]"
-  - "[[operation-us-v-odedeyi-davies-xdedic]]"
-  - "[[operation-us-v-ogunlana-xdedic]]"
-  - "[[operation-us-v-omotosho-xdedic]]"
-  - "[[operation-us-v-oyebanjo-xdedic]]"
-  - "[[operation-us-v-pankov-xdedic]]"
-  - "[[operation-us-v-spencer-xdedic]]"
-  - "[[operation-us-v-taylor-xdedic]]"
+type: operation
+title: "xDedic Marketplace Takedown"
+title_ko: "xDedic 마켓플레이스 소탕"
+aliases:
+  - "xDedic takedown"
+  - "xDedic marketplace seizure 2019"
+case_id: CYB-2019-051
+period: 2
+operation_type: takedown
+status: completed
+enforcement_type:
+  - seizure
+  - takedown
+outcome: success
+timeframe:
+  announced: 2019-01-28
+  start: 2019-01-28
+  end: 2019-01-28
+  ongoing: false
+crime_type: "[[cybercrime-forum-ic]]"
+target_entity: "xDedic Marketplace"
+lead_agency: "[[fbi-cyber-division]]"
+coordinating_body: "[[europol-ec3]]"
+participating_countries:
+  - "[[united-states]]"
+  - "[[belgium]]"
+  - "[[ukraine]]"
+participating_agencies:
+  - "[[fbi-cyber-division]]"
+  - "[[europol-ec3]]"
+legal_basis:
+
+mechanisms_used:
+
+results:
+  arrests: 0
+  indictments: 0
+  servers_seized: 0
+  domains_seized: 1
+  cryptocurrency_seized: ""
+  decryption_keys_recovered: 0
+  victims_notified: 0
+  other:
+    - "xDedic marketplace seized"
+    - "Over 85,000 compromised servers had been listed for sale"
+    - "Estimated $68 million in fraud facilitated"
+edges:
+  - source_actor: FBI
+    target_actor: Europol
+    cooperation_type: joint_investigation
+    legal_basis: unknown
+    direction: undirected
+  - source_actor: FBI
+    target_actor: "Ukraine Cyber Police"
+    cooperation_type: joint_investigation
+    legal_basis: unknown
+    direction: undirected
+credibility_index: 1.88
+source_tier: 3
+missing_fields:
+  - legal_basis
+  - mechanisms_used
+  - arrests
 related_cases:
   - "[[us-v-adafin-xdedic]]"
   - "[[us-v-adejumo-jinadu-xdedic]]"
@@ -31,95 +78,44 @@ related_cases:
   - "[[us-v-pankov-xdedic]]"
   - "[[us-v-spencer-xdedic]]"
   - "[[us-v-taylor-xdedic]]"
+related_operations:
+  - "[[operation-us-v-adafin-xdedic]]"
+  - "[[operation-us-v-adejumo-jinadu-xdedic]]"
+  - "[[operation-us-v-habasescu-xdedic]]"
+  - "[[operation-us-v-ivanov-tolpintsev-xdedic]]"
+  - "[[operation-us-v-kharmanskyi-xdedic]]"
+  - "[[operation-us-v-levinson-xdedic]]"
+  - "[[operation-us-v-mckinzie-xdedic]]"
+  - "[[operation-us-v-mcneely-xdedic]]"
+  - "[[operation-us-v-odedeyi-davies-xdedic]]"
+  - "[[operation-us-v-ogunlana-xdedic]]"
+  - "[[operation-us-v-omotosho-xdedic]]"
+  - "[[operation-us-v-oyebanjo-xdedic]]"
+  - "[[operation-us-v-pankov-xdedic]]"
+  - "[[operation-us-v-spencer-xdedic]]"
+  - "[[operation-us-v-taylor-xdedic]]"
+challenges_encountered:
+
+lessons_learned:
+
+source_count: 1
+sources:
+  - tier3-thehackernews-xdedic-2019
+created: 2026-04-08
+updated: 2026-04-17
 operation_role: umbrella
 parent_operation: ""
----
-﻿---
-type: operation
-title: "xDedic Marketplace Takedown"
-title_ko: "xDedic 마켓플레이스 소탕"
-aliases: ["xDedic takedown", "xDedic marketplace seizure 2019"]
-case_id: "CYB-2019-051"
-period: 2
-operation_type: "takedown"
-status: "completed"
-enforcement_type:
-  - "seizure"
-  - "takedown"
-outcome: "success"
-timeframe:
-  announced: "2019-01-28"
-  start: "2019-01-28"
-  end: "2019-01-28"
-  ongoing: false
-crime_type: "[[cybercrime-forum-ic]]"
-target_entity: "xDedic Marketplace"
-lead_agency: "[[fbi-cyber-division]]"
-coordinating_body: "[[europol-ec3]]"
-participating_countries:
+summary: "In January 2019, the FBI, in cooperation with [[europol-ec3|Europol]] and Belgian and Ukrainian authorities, seized **xDedic**, a major online criminal marketplace that sold access to compromised computer servers worldwide. The marketplace had listed over **85,000 compromised servers** for sale and facilitated an estimated **$68 million** in fraud."
+jurisdictions:
   - "[[united-states]]"
   - "[[belgium]]"
   - "[[ukraine]]"
-participating_agencies:
+organizations:
   - "[[fbi-cyber-division]]"
   - "[[europol-ec3]]"
-legal_basis: []
-mechanisms_used: []
-results:
-  arrests: 0
-  indictments: 0
-  servers_seized: 0
-  domains_seized: 1
-  cryptocurrency_seized: ""
-  decryption_keys_recovered: 0
-  victims_notified: 0
-  other:
-    - "xDedic marketplace seized"
-    - "Over 85,000 compromised servers had been listed for sale"
-    - "Estimated $68 million in fraud facilitated"
-edges:
-  - source_actor: "FBI"
-    target_actor: "Europol"
-    cooperation_type: "joint_investigation"
-    legal_basis: "unknown"
-    direction: "undirected"
-  - source_actor: "FBI"
-    target_actor: "Ukraine Cyber Police"
-    cooperation_type: "joint_investigation"
-    legal_basis: "unknown"
-    direction: "undirected"
-credibility_index: 1.88
-source_tier: 3
-missing_fields:
-  - "legal_basis"
-  - "mechanisms_used"
-  - "arrests"
-related_cases:
-  - "[[us-v-habasescu-xdedic|United States v. Alexandru Habasescu (xDedic)]]"
-  - "[[us-v-kharmanskyi-xdedic|United States v. Pavlo Kharmanskyi (xDedic)]]"
-  - "[[us-v-pankov-xdedic|United States v. Dariy Pankov (xDedic / NLBrute)]]"
-  - "[[us-v-levinson-xdedic|United States v. Allen Levinson (xDedic Tax-Fraud Buyer)]]"
-  - "[[us-v-mcneely-xdedic|United States v. McNeely et al. (xDedic Buyers)]]"
-  - "[[us-v-ivanov-tolpintsev-xdedic|United States v. Ivanov-Tolpintsev (xDedic Credentials Seller)]]"
-  - "[[us-v-adejumo-jinadu-xdedic|United States v. Adejumo and Jinadu (xDedic Tax-Fraud Proceeds)]]"
-  - "[[us-v-omotosho-xdedic|United States v. Bamidele Omotosho (xDedic Cyber Scams)]]"
-  - "[[us-v-odedeyi-davies-xdedic|United States v. Odedeyi and Davies (xDedic U.K. Extradition Case)]]"
-  - "[[us-v-spencer-xdedic|United States v. Joshua Spencer (xDedic)]]"
-  - "[[us-v-mckinzie-xdedic|United States v. Harold McKinzie (xDedic)]]"
-  - "[[us-v-adafin-xdedic|United States v. Olayemi Adafin (xDedic)]]"
-  - "[[us-v-oyebanjo-xdedic|United States v. Olakunle Oyebanjo (xDedic)]]"
-  - "[[us-v-taylor-xdedic|United States v. Akinola Taylor (xDedic)]]"
-  - "[[us-v-ogunlana-xdedic|United States v. Oluwarotimi Ogunlana (xDedic)]]"
-related_operations: []
-challenges_encountered: []
-lessons_learned: []
-source_count: 1
-sources:
-  - "tier3-thehackernews-xdedic-2019"
-created: 2026-04-08
-updated: 2026-04-17
+crime_types:
+  - "[[cybercrime-forum-ic]]"
 ---
-
 > [!note] This operation is documented from a Tier 3 (cybersecurity media) source. Additional verification from official sources (Tier 1-2) would strengthen data reliability.
 
 ## Summary

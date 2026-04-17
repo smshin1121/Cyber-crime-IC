@@ -1,37 +1,37 @@
 ---
 aliases:
-  []
+
 case_id: CYB-2025-009
 challenges_encountered:
-  []
+
 coordinating_body: ""
 created: 2026-04-08
 credibility_index: 2.55
 crime_type: "[[voice-phishing-ic]]"
 edges:
-  []
+
 enforcement_type:
-  []
+
 lead_agency: "[[knpa-cyber-bureau]]"
 legal_basis:
-  []
+
 lessons_learned:
-  []
+
 mechanisms_used:
-  []
+
 missing_fields:
-  []
+
 operation_type: arrest-sweep
 outcome: ongoing
 participating_agencies:
-  []
+
 participating_countries:
-  []
+
 period: 3
 related_cases:
-  []
+
 related_operations:
-  []
+
 results:
   arrests: 0
   cryptocurrency_seized: ""
@@ -39,13 +39,13 @@ results:
   domains_seized: 0
   indictments: 0
   other:
-    []
+
   servers_seized: 0
   victims_notified: 0
 source_count: 1
 source_tier: 3
 sources:
-  []
+
 status: ongoing
 target_entity: "Korean nationals operating in Cambodian scam centres (voice phishing,"
 timeframe:
@@ -58,6 +58,11 @@ type: operation
 updated: 2026-04-08
 operation_role: umbrella
 parent_operation: ""
+summary: "In October 2025 and January 2026, South Korea repatriated **107+ nationals** from Cambodia suspected of operating in online scam centres conducting voice phishing, romance scams, and \"pig butchering\" cryptocurrency fraud. An additional **20+ suspects** were repatriated from Laos, Vietnam, Thailand, and the Philippines. The Korean government estimated approximately **1,000 Korean citizens** were working in Cambodian scam centres. The January 2026 batch allegedly scammed fellow Koreans out of **KRW 48.6 billion (USD 33 million)**."
+organizations:
+  - "[[knpa-cyber-bureau]]"
+crime_types:
+  - "[[voice-phishing-ic]]"
 ---
 ## Summary
 

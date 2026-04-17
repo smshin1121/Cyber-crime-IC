@@ -4,31 +4,32 @@ title: "United States v. Ghinkul (Bugat/Dridex)"
 case_number: "W.D. Pa. indictment announced 2015-10-13"
 jurisdiction: "U.S. District Court, Western District of Pennsylvania"
 jurisdiction_country: "[[united-states]]"
-case_type: "prosecution"
-status: "sentenced"
+case_type: prosecution
+status: sentenced
 crime_charged:
   - "[[malware-ic]]"
   - "[[online-fraud-ic]]"
 defendants:
   - name: "Andrey Ghinkul"
-    nationality: "Moldovan"
-    status: "sentenced"
+    nationality: Moldovan
+    status: sentenced
     sentence: "Time served"
-    location_at_arrest: "Cyprus"
+    location_at_arrest: Cyprus
 related_operation: "[[dridex-operations]]"
 ic_elements:
   mlat_requests:
-    - "Cyprus"
+    - Cyprus
     - "United Kingdom"
-    - "Moldova"
+    - Moldova
   extradition: "Ghinkul was arrested in Cyprus and extradited to the United States in February 2016."
   evidence_from_abroad:
-    - "Cyprus"
+    - Cyprus
     - "United Kingdom"
-    - "Moldova"
+    - Moldova
   foreign_arrests:
-    - "Cyprus"
-  asset_freezing: []
+    - Cyprus
+  asset_freezing:
+    []
 cooperating_agencies:
   - "[[fbi-cyber-division]]"
   - "[[uk-nca]]"
@@ -48,8 +49,8 @@ sources:
   - "[[2015-10-13_wdpa_ghinkul-bugat-dridex-indictment]]"
 created: 2026-04-17
 updated: 2026-04-17
+summary: "United States v. Ghinkul is the arrest-and-extradition phase of the broader [[dridex-operations|Dridex/Evil Corp disruption and prosecution]]. It is the repository's most concrete Dridex case involving actual custody over an operator."
 ---
-
 ## Summary
 
 United States v. Ghinkul is the arrest-and-extradition phase of the broader [[dridex-operations|Dridex/Evil Corp disruption and prosecution]]. It is the repository's most concrete Dridex case involving actual custody over an operator.

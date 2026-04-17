@@ -1,16 +1,12 @@
 ---
-operation_role: umbrella
-parent_operation: ""
----
-﻿---
 type: operation
 title: "Operation Kraken — Ghost Platform Takedown"
 title_ko: "크라켄 작전 (고스트 플랫폼 해체)"
 aliases:
-  - Operation Kraken
-  - Ghost Takedown
-  - Ghost Platform Dismantlement
-  - OTF NEXT
+  - "Operation Kraken"
+  - "Ghost Takedown"
+  - "Ghost Platform Dismantlement"
+  - "OTF NEXT"
 operation_type: infrastructure-seizure
 status: completed
 enforcement_type:
@@ -19,9 +15,9 @@ enforcement_type:
   - takedown
 outcome: success
 timeframe:
-  announced: "2024-09-18"
-  start: "2022-03"
-  end: "2024-09-18"
+  announced: 2024-09-18
+  start: 2022-03
+  end: 2024-09-18
   ongoing: false
 crime_type: "[[online-fraud-ic|Online Fraud]]"
 target_entity: "Ghost encrypted communications platform"
@@ -82,8 +78,32 @@ sources:
   - "[6] Information Age / ACS (2024-10-03)"
 created: 2026-04-10
 updated: 2026-04-10
+operation_role: umbrella
+parent_operation: ""
+summary: "Operation Kraken was a multinational law enforcement operation led by the [[australia-afp|Australian Federal Police (AFP)]] and coordinated by [[europol-ec3|Europol]] that dismantled **Ghost**, a dedicated encrypted communications platform built and used exclusively by organized crime networks worldwide. The operation culminated on September 17-18, 2024, with near-simultaneous raids across Australia, Ireland, Italy, Canada, and Sweden. The platform's alleged creator and administrator, **Jay Je Yoon Jung** (32, of New South Wales, Australia), was arrested at his home in Narwee, Sydney."
+jurisdictions:
+  - "[[australia]]"
+  - "[[united-states]]"
+  - "[[france]]"
+  - "[[ireland]]"
+  - "[[italy]]"
+  - "[[sweden]]"
+  - "[[canada]]"
+  - "[[netherlands]]"
+  - "[[iceland]]"
+organizations:
+  - "[[australia-afp|Australian Federal Police (AFP)]]"
+  - "[[europol-ec3|Europol]]"
+  - "[[fbi-cyber-division|FBI]]"
+  - "[[france-gendarmerie|French Gendarmerie]]"
+  - "[[canada-rcmp|Royal Canadian Mounted Police (RCMP)]]"
+  - "[[netherlands-politie|Dutch National Police]]"
+  - "[[ireland-garda|Irish Garda Síochána]]"
+  - "[[italy-dcsa|Italian Central Directorate for Anti-Drug Service]]"
+  - "[[sweden-police|Swedish Police Authority]]"
+crime_types:
+  - "[[online-fraud-ic|Online Fraud]]"
 ---
-
 ## Summary
 
 Operation Kraken was a multinational law enforcement operation led by the [[australia-afp|Australian Federal Police (AFP)]] and coordinated by [[europol-ec3|Europol]] that dismantled **Ghost**, a dedicated encrypted communications platform built and used exclusively by organized crime networks worldwide. The operation culminated on September 17-18, 2024, with near-simultaneous raids across Australia, Ireland, Italy, Canada, and Sweden. The platform's alleged creator and administrator, **Jay Je Yoon Jung** (32, of New South Wales, Australia), was arrested at his home in Narwee, Sydney.

@@ -1,24 +1,22 @@
 ---
-operation_role: umbrella
-parent_operation: ""
----
-﻿---
 type: operation
 title: "DoubleVPN Takedown"
 title_ko: "DoubleVPN 소탕"
-aliases: ["DoubleVPN seizure", "DoubleVPN takedown 2021"]
-case_id: "CYB-2021-051"
+aliases:
+  - "DoubleVPN seizure"
+  - "DoubleVPN takedown 2021"
+case_id: CYB-2021-051
 period: 2
-operation_type: "infrastructure-seizure"
-status: "completed"
+operation_type: infrastructure-seizure
+status: completed
 enforcement_type:
-  - "seizure"
-  - "takedown"
-outcome: "success"
+  - seizure
+  - takedown
+outcome: success
 timeframe:
-  announced: "2021-06-30"
-  start: "2020-10"
-  end: "2021-06-29"
+  announced: 2021-06-30
+  start: 2020-10
+  end: 2021-06-29
   ongoing: false
 crime_type: "[[cybercrime-infrastructure-ic]]"
 target_entity: "DoubleVPN (multi-layered VPN service marketed to cybercriminals)"
@@ -46,7 +44,8 @@ participating_agencies:
   - "[[uk-nca|UK NCA]]"
 legal_basis:
   - "[[empact|EMPACT (European Multidisciplinary Platform Against Criminal Threats)]]"
-mechanisms_used: []
+mechanisms_used:
+
 results:
   arrests: 0
   indictments: 0
@@ -63,32 +62,35 @@ results:
 edges:
   - source_actor: "Dutch National Police"
     target_actor: "Europol EC3"
-    cooperation_type: "joint_investigation"
-    legal_basis: "EMPACT"
-    direction: "undirected"
+    cooperation_type: joint_investigation
+    legal_basis: EMPACT
+    direction: undirected
   - source_actor: "Europol EC3"
-    target_actor: "Eurojust"
-    cooperation_type: "joint_investigation"
-    legal_basis: "EMPACT"
-    direction: "undirected"
+    target_actor: Eurojust
+    cooperation_type: joint_investigation
+    legal_basis: EMPACT
+    direction: undirected
   - source_actor: "Dutch National Police"
-    target_actor: "FBI"
-    cooperation_type: "joint_investigation"
-    legal_basis: "unknown"
-    direction: "undirected"
+    target_actor: FBI
+    cooperation_type: joint_investigation
+    legal_basis: unknown
+    direction: undirected
   - source_actor: "UK NCA"
     target_actor: "Europol EC3"
-    cooperation_type: "info_sharing"
-    legal_basis: "EMPACT"
-    direction: "undirected"
+    cooperation_type: info_sharing
+    legal_basis: EMPACT
+    direction: undirected
 credibility_index: 4.0
 source_tier: 1
 missing_fields:
-  - "servers_seized_count"
-  - "customer_count"
-related_cases: []
-related_operations: []
-challenges_encountered: []
+  - servers_seized_count
+  - customer_count
+related_cases:
+
+related_operations:
+
+challenges_encountered:
+
 lessons_learned:
   - "First law enforcement takedown of a criminal-enabling VPN service — set precedent for targeting cybercrime infrastructure providers"
   - "Dutch 'digital intrusion investigatory power' (hackbevoegdheid) proved essential for penetrating VPN infrastructure"
@@ -99,8 +101,33 @@ sources:
   - "[[europol-doublevpn-takedown|Europol Press Release 2021-06-30]]"
 created: 2026-04-08
 updated: 2026-04-11
+operation_role: umbrella
+parent_operation: ""
+summary: "On **29 June 2021**, law enforcement from **9 countries** simultaneously seized the infrastructure of **DoubleVPN**, a virtual private network service heavily marketed on Russian- and English-language cybercrime forums as a tool for concealing criminal activity, particularly ransomware operations. The operation was led by the [[netherlands-politie|Dutch National Police]] under the jurisdiction of the Dutch National Public Prosecutor's Office, with international coordination by [[europol-ec3|Europol EC3]] and [[eurojust|Eurojust]]."
+jurisdictions:
+  - "[[netherlands]]"
+  - "[[united-states]]"
+  - "[[canada]]"
+  - "[[germany]]"
+  - "[[united-kingdom]]"
+  - "[[sweden]]"
+  - "[[italy]]"
+  - "[[bulgaria]]"
+  - "[[switzerland]]"
+organizations:
+  - "[[netherlands-politie|Dutch National Police]]"
+  - "[[europol-ec3]]"
+  - "[[europol-ec3|Europol EC3]]"
+  - "[[eurojust]]"
+  - "[[fbi-cyber-division|FBI]]"
+  - "[[us-secret-service|US Secret Service]]"
+  - "[[us-doj|US DOJ]]"
+  - "[[canada-rcmp|RCMP]]"
+  - "[[germany-bka|BKA]]"
+  - "[[uk-nca|UK NCA]]"
+crime_types:
+  - "[[cybercrime-infrastructure-ic]]"
 ---
-
 ## Summary
 
 On **29 June 2021**, law enforcement from **9 countries** simultaneously seized the infrastructure of **DoubleVPN**, a virtual private network service heavily marketed on Russian- and English-language cybercrime forums as a tool for concealing criminal activity, particularly ransomware operations. The operation was led by the [[netherlands-politie|Dutch National Police]] under the jurisdiction of the Dutch National Public Prosecutor's Office, with international coordination by [[europol-ec3|Europol EC3]] and [[eurojust|Eurojust]].

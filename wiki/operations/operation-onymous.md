@@ -1,33 +1,21 @@
 ---
-related_operations:
-  - "[[operation-us-v-benthall-silk-road-2]]"
-  - "[[operation-us-v-farrell-silk-road-2]]"
-  - "[[operation-us-v-paiva-silk-road-2]]"
-related_cases:
-  - "[[us-v-benthall-silk-road-2]]"
-  - "[[us-v-farrell-silk-road-2]]"
-  - "[[us-v-paiva-silk-road-2]]"
-operation_role: umbrella
-parent_operation: ""
----
-﻿---
 type: operation
 title: "Operation Onymous"
 aliases:
   - "Op Onymous"
-case_id: "CYB-2014-001"
+case_id: CYB-2014-001
 period: 1
-operation_type: "takedown"
-status: "completed"
+operation_type: takedown
+status: completed
 enforcement_type:
   - arrest
   - seizure
   - takedown
-outcome: "success"
+outcome: success
 timeframe:
-  announced: "2014-11-07"
-  start: "2014-05-01"
-  end: "2014-11-06"
+  announced: 2014-11-07
+  start: 2014-05-01
+  end: 2014-11-06
   ongoing: false
 crime_type: "[[online-fraud-ic|Online Fraud]]"
 target_entity: "Silk Road 2.0, Cloud 9, Hydra, and other Tor hidden services"
@@ -79,38 +67,38 @@ results:
     - "Blake Benthall (Silk Road 2.0 operator) arrested in San Francisco"
     - "Drugs, weapons, cash, and computers seized"
 edges:
-  - source_actor: "FBI"
+  - source_actor: FBI
     target_actor: "Europol EC3"
-    cooperation_type: "joint_investigation"
-    legal_basis: "Budapest_Convention"
-    direction: "undirected"
-  - source_actor: "FBI"
-    target_actor: "Eurojust"
-    cooperation_type: "info_sharing"
-    legal_basis: "Budapest_Convention"
-    direction: "undirected"
-  - source_actor: "FBI"
+    cooperation_type: joint_investigation
+    legal_basis: Budapest_Convention
+    direction: undirected
+  - source_actor: FBI
+    target_actor: Eurojust
+    cooperation_type: info_sharing
+    legal_basis: Budapest_Convention
+    direction: undirected
+  - source_actor: FBI
     target_actor: "US DHS/ICE"
-    cooperation_type: "joint_investigation"
-    legal_basis: "informal"
-    direction: "undirected"
+    cooperation_type: joint_investigation
+    legal_basis: informal
+    direction: undirected
   - source_actor: "Europol EC3"
     target_actor: "UK NCA"
-    cooperation_type: "joint_investigation"
-    legal_basis: "Budapest_Convention"
-    direction: "undirected"
+    cooperation_type: joint_investigation
+    legal_basis: Budapest_Convention
+    direction: undirected
 credibility_index: 4.0
 source_tier: 1
-missing_fields: []
+missing_fields:
+
 related_cases:
-  - "[[us-v-benthall-silk-road-2|United States v. Blake Benthall (Silk Road 2.0)]]"
-  - "[[us-v-farrell-silk-road-2|United States v. Brian Farrell (Silk Road 2.0)]]"
-  - "[[us-v-paiva-silk-road-2|United States v. Michael Paiva (Silk Road 2.0 Purchaser)]]"
+  - "[[us-v-benthall-silk-road-2]]"
+  - "[[us-v-farrell-silk-road-2]]"
+  - "[[us-v-paiva-silk-road-2]]"
 related_operations:
-  - "[[silk-road-takedown|Silk Road Takedown (2013)]]"
-  - "[[alphabay-takedown|AlphaBay Takedown]]"
-  - "[[darkode-takedown|Darkode Takedown]]"
-  - "[[operation-shrouded-horizon|Operation Shrouded Horizon]]"
+  - "[[operation-us-v-benthall-silk-road-2]]"
+  - "[[operation-us-v-farrell-silk-road-2]]"
+  - "[[operation-us-v-paiva-silk-road-2]]"
 challenges_encountered:
   - "[[jurisdictional-conflicts|Jurisdictional Conflicts]]"
   - "[[data-sovereignty|Data Sovereignty]]"
@@ -121,15 +109,42 @@ lessons_learned:
   - "Investigation methods that exploit Tor vulnerabilities raise significant research ethics and civil liberties concerns"
 source_count: 5
 sources:
-  - "[Europol IOCTA 2015 — Darknets](https://www.europol.europa.eu/iocta/2015/darknets.html)"
-  - "[Wikipedia — Operation Onymous](https://en.wikipedia.org/wiki/Operation_Onymous)"
-  - "[FBI press release — Silk Road 2.0 Charged](https://www.fbi.gov/contact-us/field-offices/newyork/news/press-releases/operator-of-silk-road-2.0-website-charged-in-manhattan-federal-court)"
-  - "[ICE press release — International probe leads to arrest](https://www.ice.gov/news/releases/international-probe-leads-arrest-alleged-operator-silk-road-20)"
-  - "[GDPO Situation Analysis (Jan 2015)](https://www.swansea.ac.uk/media/Operation-Onymous.pdf)"
+  - "[Europol IOCTA 2015 — Darknets](https: "//www.europol.europa.eu/iocta/2015/darknets.html)\""
+  - "[Wikipedia — Operation Onymous](https: "//en.wikipedia.org/wiki/Operation_Onymous)\""
+  - "[FBI press release — Silk Road 2.0 Charged](https: "//www.fbi.gov/contact-us/field-offices/newyork/news/press-releases/operator-of-silk-road-2.0-website-charged-in-manhattan-federal-court)\""
+  - "[ICE press release — International probe leads to arrest](https: "//www.ice.gov/news/releases/international-probe-leads-arrest-alleged-operator-silk-road-20)\""
+  - "[GDPO Situation Analysis (Jan 2015)](https: "//www.swansea.ac.uk/media/Operation-Onymous.pdf)\""
 created: 2026-04-10
 updated: 2026-04-17
+operation_role: umbrella
+parent_operation: ""
+summary: "Operation Onymous was a joint international law enforcement operation conducted on 5-6 November 2014 by the [[fbi-cyber-division|FBI]], [[europol-ec3|Europol]], [[eurojust|Eurojust]], and the [[us-dhs|U.S. Department of Homeland Security]], targeting darknet markets and other hidden services on the Tor network. The operation resulted in the seizure of 267 .onion addresses across 27 distinct websites — including Silk Road 2.0, Cloud 9, and Hydra — the arrest of 17 individuals, and the seizure of approximately USD 1 million in Bitcoin along with cash, drugs, weapons, and computers. Blake Benthall, the alleged operator of Silk Road 2.0 (pseudonym \"Defcon\"), was arrested in San Francisco. The operation involved 17 European countries plus the United States and represented the largest coordinated action against Tor hidden services at the time. However, it also generated significant controversy regarding the methods used to deanonymize Tor hidden services, including questions about a possible Carnegie Mellon University research exploit."
+jurisdictions:
+  - "[[united-states|United States]]"
+  - "[[united-kingdom|United Kingdom]]"
+  - "[[bulgaria|Bulgaria]]"
+  - "[[czech-republic|Czech Republic]]"
+  - "[[finland|Finland]]"
+  - "[[france|France]]"
+  - "[[germany|Germany]]"
+  - "[[hungary|Hungary]]"
+  - "[[ireland|Ireland]]"
+  - "[[latvia|Latvia]]"
+  - "[[lithuania|Lithuania]]"
+  - "[[luxembourg|Luxembourg]]"
+  - "[[netherlands|Netherlands]]"
+  - "[[romania|Romania]]"
+  - "[[spain|Spain]]"
+  - "[[sweden|Sweden]]"
+  - "[[switzerland|Switzerland]]"
+organizations:
+  - "[[fbi-cyber-division|FBI]]"
+  - "[[europol-ec3|Europol EC3]]"
+  - "[[eurojust|Eurojust]]"
+  - "[[us-dhs|U.S. Department of Homeland Security]]"
+crime_types:
+  - "[[online-fraud-ic|Online Fraud]]"
 ---
-
 ## Summary
 
 Operation Onymous was a joint international law enforcement operation conducted on 5-6 November 2014 by the [[fbi-cyber-division|FBI]], [[europol-ec3|Europol]], [[eurojust|Eurojust]], and the [[us-dhs|U.S. Department of Homeland Security]], targeting darknet markets and other hidden services on the Tor network. The operation resulted in the seizure of 267 .onion addresses across 27 distinct websites — including Silk Road 2.0, Cloud 9, and Hydra — the arrest of 17 individuals, and the seizure of approximately USD 1 million in Bitcoin along with cash, drugs, weapons, and computers. Blake Benthall, the alleged operator of Silk Road 2.0 (pseudonym "Defcon"), was arrested in San Francisco. The operation involved 17 European countries plus the United States and represented the largest coordinated action against Tor hidden services at the time. However, it also generated significant controversy regarding the methods used to deanonymize Tor hidden services, including questions about a possible Carnegie Mellon University research exploit.

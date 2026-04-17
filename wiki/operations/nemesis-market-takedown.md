@@ -53,6 +53,16 @@ related_operations:
   - "[[operation-us-v-parsarad-nemesis]]"
 operation_role: umbrella
 parent_operation: ""
+summary: "The Nemesis Market Takedown was a Germany-led international law enforcement operation executed on **March 20, 2024**, in which the [[germany-bka|BKA (Bundeskriminalamt)]] and [[germany-frankfurt-prosecutor|ZIT (Zentralstelle zur Bekämpfung der Internetkriminalität)]] seized the server infrastructure of **Nemesis Market**, a darknet marketplace that facilitated the sale of illegal drugs, stolen data, and cybercrime services including ransomware, phishing kits, and DDoS attack tools."
+jurisdictions:
+  - "[[germany|Germany]]"
+  - "[[united-states|United States]]"
+organizations:
+  - "[[germany-bka|BKA (Bundeskriminalamt)]]"
+  - "[[germany-frankfurt-prosecutor|ZIT (Zentralstelle zur Bekämpfung der Internetkriminalität)]]"
+  - "[[fbi-cyber-division|FBI]]"
+crime_types:
+  - "[[online-fraud-ic|Online Fraud / Cybercrime Services]]"
 ---
 ## Summary
 

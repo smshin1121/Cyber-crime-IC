@@ -4,26 +4,28 @@ title: "United States v. Joshua Spencer (xDedic)"
 case_number: "M.D. Fla. xDedic roundup listing"
 jurisdiction: "U.S. District Court, Middle District of Florida"
 jurisdiction_country: "[[united-states]]"
-case_type: "prosecution"
-status: "sentenced"
+case_type: prosecution
+status: sentenced
 crime_charged:
   - "[[access-device-fraud]]"
 defendants:
   - name: "Joshua Spencer"
-    nationality: "American"
-    status: "sentenced"
+    nationality: American
+    status: sentenced
     sentence: "28 months"
     location_at_arrest: "United States"
 related_operation: "[[xdedic-marketplace-takedown]]"
 ic_elements:
   mlat_requests:
-    - "Belgium"
-    - "Ukraine"
+    - Belgium
+    - Ukraine
   extradition: ""
   evidence_from_abroad:
     - "Multinational xDedic marketplace evidence"
-  foreign_arrests: []
-  asset_freezing: []
+  foreign_arrests:
+    []
+  asset_freezing:
+    []
 cooperating_agencies:
   - "[[fbi-cyber-division]]"
   - "[[us-doj]]"
@@ -39,8 +41,8 @@ sources:
   - "[[2024-01-04_mdfl_spencer-xdedic-summary]]"
 created: 2026-04-17
 updated: 2026-04-17
+summary: "United States v. Joshua Spencer is a sparse but official xDedic-related prosecution entry. DOJ identifies Spencer as convicted of conspiracy to commit access-device fraud and sentenced to 28 months."
 ---
-
 > [!note] Sparse source
 > DOJ's official roundup provides only the offense of conviction and sentence, not a full factual narrative.
 

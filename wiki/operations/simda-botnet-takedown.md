@@ -3,7 +3,7 @@ type: operation
 title: "Simda Botnet Takedown"
 title_ko: "공식 작전명 없음 (Simda 봇넷 무력화 국제 공조 작전)"
 aliases:
-  []
+
 case_id: CYB-2015-004
 period: 1
 operation_type: takedown
@@ -38,9 +38,9 @@ participating_agencies:
   - "[[kaspersky-lab]]"
   - "[[trend-micro]]"
 legal_basis:
-  []
+
 mechanisms_used:
-  []
+
 results:
   arrests: 0
   indictments: 0
@@ -74,13 +74,13 @@ missing_fields:
   - legal_basis
   - mechanisms_used
 related_cases:
-  []
+
 related_operations:
-  []
+
 challenges_encountered:
-  []
+
 lessons_learned:
-  []
+
 source_count: 1
 sources:
   - "[1] INTERPOL News (2015-04-09)"
@@ -88,6 +88,25 @@ created: 2026-04-08
 updated: 2026-04-08
 operation_role: umbrella
 parent_operation: ""
+summary: "On April 9, 2015, INTERPOL coordinated an international operation to take down the Simda botnet, which had infected over 770,000 computers across 190+ countries. Law enforcement agencies from the Netherlands, United States, Russia, Luxembourg, and Poland, along with private sector partners Microsoft, Kaspersky Lab, Trend Micro, and Japan Cyber Defense Institute, simultaneously seized command-and-control servers to neutralize the botnet used for personal and financial data theft."
+jurisdictions:
+  - "[[netherlands]]"
+  - "[[united-states]]"
+  - "[[russia]]"
+  - "[[luxembourg]]"
+  - "[[poland]]"
+  - "[[japan]]"
+  - "[[singapore]]"
+organizations:
+  - "[[interpol]]"
+  - "[[dutch-nhtcu]]"
+  - "[[fbi]]"
+  - "[[russian-ministry-of-interior]]"
+  - "[[microsoft]]"
+  - "[[kaspersky-lab]]"
+  - "[[trend-micro]]"
+crime_types:
+  - "[[malware-ic]]"
 ---
 ## Summary
 

@@ -35,9 +35,9 @@ participating_agencies:
   - "[[uk-nca]]"
   - "[[netherlands-politie]]"
 legal_basis:
-  []
+
 mechanisms_used:
-  []
+
 results:
   arrests: 5
   indictments: 0
@@ -67,11 +67,11 @@ missing_fields:
   - mechanisms_used
   - exact_arrest_details
 related_cases:
-  []
+
 related_operations:
-  []
+
 challenges_encountered:
-  []
+
 lessons_learned:
   - "Private-sector partnership (McAfee) enhanced law enforcement intelligence gathering"
 source_count: 1
@@ -81,6 +81,21 @@ created: 2026-04-08
 updated: 2026-04-08
 operation_role: umbrella
 parent_operation: ""
+summary: "**Operation Bakovia** was a joint international law enforcement action targeting the distributors of **CTB-Locker** and **Cerber** ransomware, two of the most widespread ransomware families in 2016-2017. Coordinated by [[europol-ec3|Europol]], the operation resulted in arrests in Romania, with support from the FBI, UK NCA, and Dutch National Police. McAfee provided key private-sector intelligence support."
+jurisdictions:
+  - "[[romania]]"
+  - "[[netherlands]]"
+  - "[[united-states]]"
+  - "[[united-kingdom]]"
+organizations:
+  - "[[europol-ec3]]"
+  - "[[eurojust]]"
+  - "[[romania-diicot]]"
+  - "[[fbi-cyber-division]]"
+  - "[[uk-nca]]"
+  - "[[netherlands-politie]]"
+crime_types:
+  - "[[ransomware-ic]]"
 ---
 > [!note] This operation is documented from a Tier 3 (cybersecurity media) source. Additional verification from official sources (Tier 1-2) would strengthen data reliability.
 

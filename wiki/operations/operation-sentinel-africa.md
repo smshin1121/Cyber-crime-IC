@@ -66,9 +66,9 @@ participating_agencies:
   - "[[interpol-igci]]"
   - "[[afripol]]"
 legal_basis:
-  []
+
 mechanisms_used:
-  []
+
 results:
   arrests: 574
   indictments: 0
@@ -83,11 +83,11 @@ results:
     - "6 ransomware variants decrypted"
     - "Estimated USD 21 million+ in financial losses linked to investigated cases"
 related_cases:
-  []
+
 related_operations:
   - "[[operation-serengeti]]"
 challenges_encountered:
-  []
+
 lessons_learned:
   - "AFJOC umbrella enables sustained Africa-focused cybercrime operations"
   - "Donor funding model (UK FCDO, EU-CoE GLACY-e) supports African enforcement capacity building"
@@ -98,6 +98,32 @@ created: 2026-04-08
 updated: 2026-04-08
 operation_role: umbrella
 parent_operation: ""
+summary: "Operation Sentinel was an INTERPOL-coordinated cybercrime enforcement action conducted from 27 October to 27 November 2025 across **19 African countries** under the African Joint Operation against Cybercrime (AFJOC) umbrella. The operation resulted in **574 arrests**, **USD 3 million** recovered, over **6,000 malicious links** taken down, and **6 ransomware variants** decrypted. Primary targets were BEC, digital extortion, and ransomware. Investigated cases were linked to estimated financial losses exceeding **USD 21 million**."
+jurisdictions:
+  - Benin
+  - Botswana
+  - "Burkina Faso"
+  - Cameroon
+  - Chad
+  - Congo
+  - "Democratic Republic of the Congo"
+  - Djibouti
+  - Gabon
+  - Ghana
+  - Kenya
+  - Malawi
+  - Nigeria
+  - Senegal
+  - "South Africa"
+  - "South Sudan"
+  - Uganda
+  - Zambia
+  - Zimbabwe
+organizations:
+  - "[[interpol-igci]]"
+  - "[[afripol]]"
+crime_types:
+  - "[[bec-ic]]"
 ---
 ## Summary
 

@@ -1,6 +1,7 @@
 ---
 operation_role: umbrella
 parent_operation: ""
+summary: "**Operation NightFury** was an INTERPOL-coordinated operation that resulted in the arrest of **3 Indonesian nationals** involved in **Magecart**-style web skimming attacks using the **GetBilling** JavaScript skimmer. The operation involved cooperation between INTERPOL, Indonesian law enforcement, and private sector cybersecurity firm **Group-IB**, which provided critical intelligence."
 ---
 ﻿---
 aliases:

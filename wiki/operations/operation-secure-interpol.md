@@ -1,37 +1,37 @@
 ---
 aliases:
-  []
+
 case_id: CYB-2025-012
 challenges_encountered:
-  []
+
 coordinating_body: "[[interpol-igci]]"
 created: 2026-04-08
 credibility_index: 1.85
 crime_type: "[[hacking-ic]]"
 edges:
-  []
+
 enforcement_type:
-  []
+
 lead_agency: "[[interpol-igci]]"
 legal_basis:
-  []
+
 lessons_learned:
-  []
+
 mechanisms_used:
-  []
+
 missing_fields:
-  []
+
 operation_type: infrastructure-seizure
 outcome: success
 participating_agencies:
-  []
+
 participating_countries:
-  []
+
 period: 3
 related_cases:
-  []
+
 related_operations:
-  []
+
 results:
   arrests: 32
   cryptocurrency_seized: ""
@@ -39,13 +39,13 @@ results:
   domains_seized: 0
   indictments: 0
   other:
-    []
+
   servers_seized: 41
   victims_notified: 216000
 source_count: 2
 source_tier: 2
 sources:
-  []
+
 status: completed
 target_entity: "Infostealer malware infrastructure and operators across Asia-Pacific"
 timeframe:
@@ -58,6 +58,11 @@ type: operation
 updated: 2026-04-09
 operation_role: umbrella
 parent_operation: ""
+summary: "Operation Secure was an INTERPOL-led operation conducted from January to April 2025 across 26 Asia-Pacific countries, targeting infostealer malware infrastructure. The operation resulted in 32 arrests, the takedown of over 20,000 malicious IPs and domains, the seizure of 41 servers and 100GB+ of data, and notifications to more than 216,000 victims."
+organizations:
+  - "[[interpol-igci]]"
+crime_types:
+  - "[[hacking-ic]]"
 ---
 # Operation Secure (INTERPOL Infostealer Crackdown)
 

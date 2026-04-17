@@ -4,15 +4,15 @@ title: "United States v. Allen Levinson (xDedic Tax-Fraud Buyer)"
 case_number: "8:19-cr-00156-CEH-TGW (M.D. Fla.)"
 jurisdiction: "U.S. District Court, Middle District of Florida"
 jurisdiction_country: "[[united-states]]"
-case_type: "prosecution"
-status: "sentenced"
+case_type: prosecution
+status: sentenced
 crime_charged:
   - "[[identity-theft]]"
   - "[[online-fraud-ic]]"
 defendants:
   - name: "Allen Levinson"
-    nationality: "Nigerian"
-    status: "sentenced"
+    nationality: Nigerian
+    status: sentenced
     sentence: "78 months"
     location_at_arrest: "United Kingdom"
 related_operation: "[[xdedic-marketplace-takedown]]"
@@ -24,7 +24,8 @@ ic_elements:
     - "United Kingdom"
   foreign_arrests:
     - "United Kingdom"
-  asset_freezing: []
+  asset_freezing:
+    []
 cooperating_agencies:
   - "[[fbi-cyber-division]]"
   - "[[us-doj]]"
@@ -44,8 +45,8 @@ sources:
   - "[[2022-12-05_mdfl_levinson-xdedic-sentencing]]"
 created: 2026-04-17
 updated: 2026-04-17
+summary: "United States v. Allen Levinson is an xDedic-derived buyer case in which access purchased from the marketplace allegedly enabled a large-scale U.S. tax-refund fraud. It is one of the clearest examples of downstream harm flowing from a criminal access marketplace."
 ---
-
 ## Summary
 
 United States v. Allen Levinson is an xDedic-derived buyer case in which access purchased from the marketplace allegedly enabled a large-scale U.S. tax-refund fraud. It is one of the clearest examples of downstream harm flowing from a criminal access marketplace.

@@ -1,39 +1,35 @@
 ---
-operation_role: umbrella
-parent_operation: ""
----
-﻿---
 type: operation
 title: "Zeus/SpyEye Crime Syndicate Takedown"
 title_ko: "Zeus/SpyEye 범죄 조직 소탕"
-aliases: ["Zeus SpyEye takedown 2015"]
-case_id: "CYB-2015-050"
+aliases:
+  - "Zeus SpyEye takedown 2015"
+case_id: CYB-2015-050
 period: 1
-operation_type: "arrest-sweep"
-status: "completed"
+operation_type: arrest-sweep
+status: completed
 enforcement_type:
-  - "arrest"
-  - "indictment"
-outcome: "success"
+  - arrest
+  - indictment
+outcome: success
 timeframe:
-  announced: "2015-06-30"
-  start: "2015-06-30"
-  end: "2015-06-30"
+  announced: 2015-06-30
+  start: 2015-06-30
+  end: 2015-06-30
   ongoing: false
 crime_type: "[[banking-trojan-ic]]"
 target_entity: "Zeus/SpyEye banking trojan syndicate"
 lead_agency: "[[europol-ec3]]"
 coordinating_body: "[[europol-ec3]]"
 participating_countries:
-  - "[[united-states]]"
-  - "[[united-kingdom]]"
-  - "[[ukraine]]"
+
 participating_agencies:
   - "[[europol-ec3]]"
   - "[[fbi-cyber-division]]"
-participating_countries: []
-legal_basis: []
-mechanisms_used: []
+legal_basis:
+
+mechanisms_used:
+
 results:
   arrests: 5
   indictments: 0
@@ -45,29 +41,40 @@ results:
   other:
     - "Zeus and SpyEye banking trojan infrastructure disrupted"
 edges:
-  - source_actor: "Europol"
-    target_actor: "FBI"
-    cooperation_type: "joint_investigation"
-    legal_basis: "unknown"
-    direction: "undirected"
+  - source_actor: Europol
+    target_actor: FBI
+    cooperation_type: joint_investigation
+    legal_basis: unknown
+    direction: undirected
 credibility_index: 1.88
 source_tier: 3
 missing_fields:
-  - "legal_basis"
-  - "mechanisms_used"
-  - "exact_participating_countries"
-  - "exact_arrest_count"
-related_cases: []
-related_operations: []
-challenges_encountered: []
-lessons_learned: []
+  - legal_basis
+  - mechanisms_used
+  - exact_participating_countries
+  - exact_arrest_count
+related_cases:
+
+related_operations:
+
+challenges_encountered:
+
+lessons_learned:
+
 source_count: 1
 sources:
-  - "tier3-sophos-zeus-spyeye-2015"
+  - tier3-sophos-zeus-spyeye-2015
 created: 2026-04-08
 updated: 2026-04-08
+operation_role: umbrella
+parent_operation: ""
+summary: "In June 2015, Europol announced the takedown of a cybercrime syndicate responsible for distributing the **Zeus** and **SpyEye** banking trojans. These malware families were among the most prolific financial cybercrime tools of the 2010s, responsible for stealing hundreds of millions of dollars from online banking users worldwide."
+organizations:
+  - "[[europol-ec3]]"
+  - "[[fbi-cyber-division]]"
+crime_types:
+  - "[[banking-trojan-ic]]"
 ---
-
 > [!note] This operation is documented from a Tier 3 (cybersecurity media) source. Additional verification from official sources (Tier 1-2) would strengthen data reliability.
 
 ## Summary

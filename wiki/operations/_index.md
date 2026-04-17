@@ -6,18 +6,23 @@ created: 2026-04-08
 updated: 2026-04-14
 ---
 
-# Operations (200)
+# Operations (204)
 
 | Operation | Case ID | Period | Status | CI | Tier |
 |-----------|---------|--------|--------|----|------|
 | [[silk-road-takedown]] | CYB-2013-001 | 1 | completed | 4.50 | 1 |
+| [[operation-onymous]] | CYB-2014-001 | 1 | completed | 4.00 | 1 |
 | [[cyber-fraud-international-2015]] | CYB-2015-002 | 1 | completed | 2.28 | 2 |
 | [[ramnit-botnet-takedown]] | CYB-2015-002 | 1 | completed | 4.00 | 2 |
+| [[operation-source]] | CYB-2015-003 | 1 | completed | 2.28 | 2 |
 | [[simda-botnet-takedown]] | CYB-2015-004 | 1 | completed | 2.28 | 2 |
 | [[zeus-spyeye-jit-takedown]] | CYB-2015-005 | 1 | completed | 2.28 | 2 |
+| [[operation-pleiades]] | CYB-2015-006 | 1 | completed | 2.28 | 2 |
 | [[dridex-operations]] | CYB-2015-007 | 1 | completed | 4.00 | 1 |
+| [[zeus-spyeye-takedown]] | CYB-2015-050 | 1 | completed | 1.88 | 3 |
 | [[darkode-takedown]] | CYB-2015-051 | 1 | completed | 2.18 | 3 |
 | [[global-airport-action-day]] | CYB-2016-003 | 1 | completed | 1.85 | 2 |
+| [[bec-nigeria-2016]] | CYB-2016-050 | 1 | completed | 1.88 | 3 |
 | [[alphabay-takedown]] | CYB-2017-002 | 1 | completed | 4.00 | 1 |
 | [[operation-hyperion]] | CYB-2017-050 | 1 | completed | 1.88 | 3 |
 | [[banking-trojan-fraud-sentencing-2017]] | CYB-2017-051 | 1 | completed | 2.55 | 3 |
@@ -29,26 +34,38 @@ updated: 2026-04-14
 | [[operation-bakovia]] | CYB-2018-050 | 1 | completed | 1.88 | 3 |
 | [[goznym-takedown]] | CYB-2019-001 | 2 | completed | 3.62 | 2 |
 | [[imminent-monitor-rat-takedown]] | CYB-2019-050 | 2 | completed | 1.88 | 3 |
+| [[xdedic-marketplace-takedown]] | CYB-2019-051 | 2 | completed | 1.88 | 3 |
 | [[operation-falcon]] | CYB-2020-001 | 2 | completed | 3.62 | 2 |
 | [[operation-goldfish-alpha-night-fury]] | CYB-2020-002 | 2 | completed | 2.28 | 2 |
+| [[2bagoldmule-qqaazz]] | CYB-2020-003 | 2 | completed | 2.28 | 2 |
 | [[trickbot-operations]] | CYB-2020-003 | 2 | completed | 4.50 | 1 |
+| [[qqaazz-money-laundering-takedown]] | CYB-2020-052 | 2 | completed | 1.88 | 3 |
+| [[darkmarket-takedown]] | CYB-2021-001 | 2 | completed | 4.50 | 1 |
+| [[operation-secreto]] | CYB-2021-001 | 2 | completed | 2.28 | 2 |
 | [[operation-haechi-ii]] | CYB-2021-002 | 2 | completed | 2.95 | 2 |
 | [[emotet-takedown]] | CYB-2021-003 | 2 | completed | 3.50 | 1 |
 | [[operation-dark-huntor]] | CYB-2021-010 | 2 | completed | 3.50 | 2 |
+| [[doublevpn-takedown]] | CYB-2021-051 | 2 | completed | 4.00 | 1 |
 | [[black-axe-bec-2021]] | CYB-2021-052 | 2 | completed | 1.88 | 3 |
 | [[infraud-telusma-sentencing]] | CYB-2021-053 | 2 | completed | 1.88 | 3 |
 | [[marketplace-a-dekhtyarchuk-indictment]] | CYB-2021-054 | 2 | completed | 2.55 | 3 |
 | [[operation-killer-bee]] | CYB-2022-001 | 2 | completed | 2.28 | 2 |
 | [[operation-haechi-iii]] | CYB-2022-002 | 2 | completed | 3.50 | 2 |
+| [[vpnlab-takedown]] | CYB-2022-002 | 3 | completed | 4.50 | 1 |
 | [[franco-israeli-ceo-fraud]] | CYB-2023-001 | 3 | completed | 2.28 | 2 |
 | [[operation-jackal]] | CYB-2023-002 | 3 | completed | 2.28 | 2 |
 | [[korea-china-voice-phishing-qingdao]] | CYB-2023-003 | 3 | completed | 1.88 | 3 |
 | [[operation-haechi-iv]] | CYB-2023-004 | 3 | completed | 2.28 | 2 |
+| [[myanmar-kokang-scam-compound-crackdown]] | CYB-2023-022 | 3 | completed | 3.80 | 2 |
+| [[blackcat-lockeroga-kelvin-security-2023]] | CYB-2023-051 | 3 | completed | 1.88 | 3 |
+| [[operation-nervone]] | CYB-2023-052 | 3 | completed | 1.88 | 3 |
 | [[nigerian-bec-convictions-2023]] | CYB-2023-053 | 3 | completed | 1.88 | 3 |
 | [[operation-orion-international]] | CYB-2024-001 | 3 | completed | 2.28 | 2 |
 | [[operation-cronos-phase1]] | CYB-2024-002 | 3 | completed | 2.28 | 2 |
+| [[operation-endgame-phase1]] | CYB-2024-003 | 3 | completed | 2.28 | 2 |
 | [[operation-first-light-2024]] | CYB-2024-004 | 3 | completed | 2.28 | 2 |
 | [[operation-jackal-iii]] | CYB-2024-005 | 3 | completed | 2.28 | 2 |
+| [[operation-cronos-phase3]] | CYB-2024-006 | 3 | completed | 2.28 | 2 |
 | [[operation-synergia-ii]] | CYB-2024-007 | 3 | completed | 3.25 | 2 |
 | [[operation-serengeti]] | CYB-2024-008 | 3 | completed | 2.28 | 2 |
 | [[operation-haechi-v]] | CYB-2024-009 | 3 | completed | 2.28 | 2 |
@@ -60,6 +77,7 @@ updated: 2026-04-14
 | [[operation-chakra-iii]] | CYB-2024-021 | 3 | completed | 3.50 | 2 |
 | [[operation-morpheus]] | CYB-2024-050 | 3 | completed | 2.55 | 2 |
 | [[zambia-golden-top-call-center]] | CYB-2024-050 | 3 | completed | 1.88 | 3 |
+| [[operation-destabilise]] | CYB-2024-051 | 3 | completed | 1.88 | 3 |
 | [[cryptex-pm2btc-sanctions]] | CYB-2024-052 | 3 | completed | 2.18 | 3 |
 | [[rydox-marketplace-takedown]] | CYB-2024-053 | 3 | completed | 1.88 | 3 |
 | [[operation-stream-kidflix]] | CYB-2025-001 | 3 | completed | 2.48 | 3 |
@@ -168,45 +186,31 @@ updated: 2026-04-14
 | [[operation-us-v-taylor-fischer-dark-web]] | CYB-FUP-090 | 3 | completed | 4.00 | 1 |
 | [[operation-us-v-taylor-xdedic]] | CYB-FUP-091 | 3 | completed | 4.00 | 1 |
 | [[operation-us-v-ulbricht-silk-road]] | CYB-FUP-094 | 1 | completed | 4.00 | 1 |
-| [[2bagoldmule-qqaazz]] | — | — | — | — | — |
+| [[operation-us-v-udvardi-dark-web]] | CYB-FUP-095 | 3 | completed | 4.00 | 1 |
+| [[operation-us-v-vallerius-dream-market]] | CYB-FUP-096 | 1 | completed | 4.00 | 1 |
+| [[operation-us-v-vlastos-dark-web]] | CYB-FUP-097 | 3 | completed | 4.00 | 1 |
+| [[operation-us-v-witters-dark-web]] | CYB-FUP-098 | 1 | completed | 4.00 | 1 |
 | [[africa-cyber-surge-ii]] | — | — | — | — | — |
 | [[andromeda-botnet-takedown]] | — | — | — | — | — |
 | [[bali-villa-cybercrime-raid-2024]] | — | — | completed | — | — |
-| [[bec-nigeria-2016]] | — | — | — | — | — |
 | [[bidencash-takedown]] | — | 3 | completed | 4.50 | 1 |
-| [[blackcat-lockeroga-kelvin-security-2023]] | — | — | — | — | — |
 | [[carbanak-cobalt-takedown]] | — | — | — | — | — |
 | [[carding-action-2020]] | — | 2 | completed | 3.50 | 2 |
-| [[cyberbunker-takedown]] | — | — | — | — | — |
-| [[darkmarket-takedown]] | — | — | — | — | — |
+| [[cyberbunker-takedown]] | — | 2 | completed | 4.00 | 1 |
 | [[ddos-for-hire-sweep-2016]] | — | — | — | — | — |
-| [[doublevpn-takedown]] | — | — | — | — | — |
 | [[hive-ransomware-takedown]] | — | — | — | — | — |
-| [[lumma-stealer-takedown]] | — | — | — | — | — |
-| [[myanmar-kokang-scam-compound-crackdown]] | — | — | — | — | — |
+| [[lumma-stealer-takedown]] | — | — | completed | — | — |
 | [[nemesis-market-takedown]] | — | — | completed | — | — |
 | [[operation-avalanche]] | — | — | — | — | — |
-| [[operation-cronos-phase3]] | — | — | — | — | — |
 | [[operation-delilah]] | — | — | — | — | — |
-| [[operation-destabilise]] | — | — | — | — | — |
 | [[operation-endgame]] | — | — | ongoing | — | — |
-| [[operation-endgame-phase1]] | — | — | — | — | — |
 | [[operation-heart-blocker]] | — | — | completed | — | — |
-| [[operation-kraken-ghost-platform]] | — | — | — | — | — |
+| [[operation-kraken-ghost-platform]] | — | — | completed | — | — |
 | [[operation-lyrebird]] | — | — | — | — | — |
-| [[operation-nervone]] | — | — | — | — | — |
 | [[operation-nightfury]] | — | — | — | — | — |
 | [[operation-nova]] | — | — | — | — | — |
-| [[operation-onymous]] | — | — | — | — | — |
-| [[operation-pleiades]] | — | — | — | — | — |
 | [[operation-rewired]] | — | 2 | completed | 4.50 | 1 |
-| [[operation-secreto]] | — | — | — | — | — |
 | [[operation-shrouded-horizon]] | — | — | — | — | — |
-| [[operation-source]] | — | — | — | — | — |
 | [[operation-talent]] | — | — | — | — | — |
 | [[operation-trojan-shield]] | — | 2 | completed | 3.50 | 2 |
 | [[phobos-8base-crackdown]] | — | — | — | — | — |
-| [[qqaazz-money-laundering-takedown]] | — | — | — | — | — |
-| [[vpnlab-takedown]] | — | — | — | — | — |
-| [[xdedic-marketplace-takedown]] | — | — | — | — | — |
-| [[zeus-spyeye-takedown]] | — | — | — | — | — |

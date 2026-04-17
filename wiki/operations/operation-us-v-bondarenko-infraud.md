@@ -60,6 +60,13 @@ created: 2026-04-17
 updated: 2026-04-17
 operation_role: follow-on
 parent_operation: "[[infraud-organization-takedown]]"
+summary: "Bondarenko et al. (Infraud Organization) Enforcement Action is a defendant-specific enforcement action page derived from [[us-v-bondarenko-infraud]]. It captures the prosecutorial or seizure stage reflected in the linked case record and preserves the operation-side catalog entry for this follow-on action."
+jurisdictions:
+  - "[[united-states]]"
+organizations:
+  - "[[us-doj]]"
+crime_types:
+  - "[[online-fraud-ic]]"
 ---
 ## Summary
 

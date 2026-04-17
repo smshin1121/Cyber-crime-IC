@@ -60,6 +60,13 @@ created: 2026-04-17
 updated: 2026-04-17
 operation_role: follow-on
 parent_operation: "[[operation-onymous]]"
+summary: "Blake Benthall (Silk Road 2.0) Enforcement Action is a defendant-specific enforcement action page derived from [[us-v-benthall-silk-road-2]]. It captures the prosecutorial or seizure stage reflected in the linked case record and preserves the operation-side catalog entry for this follow-on action."
+jurisdictions:
+  - "[[united-states]]"
+organizations:
+  - "[[fbi-cyber-division]]"
+crime_types:
+  - "[[online-fraud-ic]]"
 ---
 ## Summary
 

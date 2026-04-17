@@ -24,7 +24,7 @@ ic_elements:
   foreign_arrests:
     - France
   asset_freezing:
-    []
+
 cooperating_agencies:
   - "[[eurojust]]"
 legal_frameworks_invoked:
@@ -41,6 +41,7 @@ sources:
   - "[[2026-03-11-eurojust-de-fr-online-fraud-group]]"
 created: 2026-04-14
 updated: 2026-04-14
+summary: "In March 2026, [[eurojust|Eurojust]] announced that a criminal group running an online fraud scheme in [[germany|Germany]] had been dismantled following bilateral judicial cooperation with [[france|France]], coordinated by Eurojust. The alleged leader of the group was based in France, making cross-border judicial cooperation essential to halt the group's activities. Victim losses are estimated at approximately **EUR 1 million**."
 ---
 > [!note] Sparse source
 > The Eurojust press release announcing this case is brief and omits defendant names, the case number, charges in detail, the precise number of arrests, and the German jurisdiction. The fields below reflect only what is stated in the source.

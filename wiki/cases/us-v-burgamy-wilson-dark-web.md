@@ -22,14 +22,14 @@ defendants:
 related_operation: "[[operation-us-v-burgamy-wilson-dark-web]]"
 ic_elements:
   mlat_requests:
-    []
+
   extradition: ""
   evidence_from_abroad:
     - "Darknet vendor-account and cryptocurrency evidence"
   foreign_arrests:
-    []
+
   asset_freezing:
-    []
+
 cooperating_agencies:
   - "[[us-doj]]"
 legal_frameworks_invoked:
@@ -44,6 +44,7 @@ sources:
   - "[[2020-07-10_edva_burgamy-wilson-darknet-firebomb-plea]]"
 created: 2026-04-17
 updated: 2026-04-17
+summary: "United States v. Burgamy and Wilson is a darknet prescription-drug case that expanded into laundering and attempted violent market suppression."
 ---
 ## Summary
 

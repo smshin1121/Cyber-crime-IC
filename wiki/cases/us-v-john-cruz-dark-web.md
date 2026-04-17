@@ -18,14 +18,14 @@ defendants:
 related_operation: "[[operation-us-v-john-cruz-dark-web]]"
 ic_elements:
   mlat_requests:
-    []
+
   extradition: ""
   evidence_from_abroad:
     - "Dark web storefront and pill-distribution evidence"
   foreign_arrests:
-    []
+
   asset_freezing:
-    []
+
 cooperating_agencies:
   - "[[us-doj]]"
 legal_frameworks_invoked:
@@ -41,6 +41,7 @@ sources:
   - "[[2025-11-18_edmo_john-cruz-dark-web-sentencing]]"
 created: 2026-04-17
 updated: 2026-04-17
+summary: "United States v. Cruz is a darknet counterfeit-pharmaceutical sentencing case involving repeat conduct after a prior guilty plea."
 ---
 ## Summary
 

@@ -32,14 +32,14 @@ defendants:
 related_operation: "[[operation-us-v-fatukala-cocaine-dark-web]]"
 ic_elements:
   mlat_requests:
-    []
+
   extradition: ""
   evidence_from_abroad:
     - "Dark web marketplace records"
   foreign_arrests:
-    []
+
   asset_freezing:
-    []
+
 cooperating_agencies:
   - "[[us-doj]]"
 legal_frameworks_invoked:
@@ -54,6 +54,7 @@ sources:
   - "[[2023-11-17_edca_fatukala-yamamoto-mina-hollis-dark-web-sentencing]]"
 created: 2026-04-17
 updated: 2026-04-17
+summary: "United States v. Fatukala et al. is a dark web cocaine distribution case involving approximately 13.7 kilograms sold over the darknet."
 ---
 ## Summary
 

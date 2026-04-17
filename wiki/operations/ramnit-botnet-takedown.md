@@ -30,7 +30,7 @@ participating_agencies:
   - "[[europol-ec3|Europol EC3]]"
   - "[[eurojust]]"
 legal_basis:
-  []
+
 mechanisms_used:
   - "[[j-cat|Joint Cybercrime Action Taskforce (J-CAT)]]"
 results:
@@ -71,6 +71,20 @@ created: 2026-04-08
 updated: 2026-04-10
 operation_role: umbrella
 parent_operation: ""
+summary: "On 24 February 2015, the **UK National Crime Agency (NCA)** led a multinational operation to take down the **Ramnit botnet**, which had infected approximately **3.2 million computers worldwide**. The operation was coordinated through [[europol-ec3|Europol's European Cybercrime Centre (EC3)]] and the [[j-cat|Joint Cybercrime Action Taskforce (J-CAT)]], with law enforcement participation from [[germany]], [[italy]], and the [[netherlands]]."
+jurisdictions:
+  - "[[united-kingdom]]"
+  - "[[germany]]"
+  - "[[italy]]"
+  - "[[netherlands]]"
+organizations:
+  - "[[uk-nca|UK National Crime Agency]]"
+  - "[[europol-ec3]]"
+  - "[[uk-nca|UK NCA]]"
+  - "[[europol-ec3|Europol EC3]]"
+  - "[[eurojust]]"
+crime_types:
+  - "[[malware-ic]]"
 ---
 > [!info] Page corrected (2026-04-10)
 > This page was originally filed as "Europol Botnet Takedown 2023" (`botnet-takedown-europol-2023.md`). Content verification of the Europol source URL confirmed this is actually the **February 2015 Ramnit botnet takedown**. Page renamed and all data corrected.

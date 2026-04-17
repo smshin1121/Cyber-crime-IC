@@ -1,37 +1,37 @@
 ---
 aliases:
-  []
+
 case_id: CYB-2020-001
 challenges_encountered:
-  []
+
 coordinating_body: "[[interpol]]"
 created: 2026-04-08
 credibility_index: 3.62
 crime_type: "[[bec-ic]]"
 edges:
-  []
+
 enforcement_type:
-  []
+
 lead_agency: "[[interpol]]"
 legal_basis:
-  []
+
 lessons_learned:
-  []
+
 mechanisms_used:
-  []
+
 missing_fields:
-  []
+
 operation_type: arrest-sweep
 outcome: success
 participating_agencies:
-  []
+
 participating_countries:
-  []
+
 period: 2
 related_cases:
-  []
+
 related_operations:
-  []
+
 results:
   arrests: 3
   cryptocurrency_seized: ""
@@ -39,13 +39,13 @@ results:
   domains_seized: 0
   indictments: 0
   other:
-    []
+
   servers_seized: 0
   victims_notified: 0
 source_count: 4
 source_tier: 2
 sources:
-  []
+
 status: completed
 target_entity: "Nigerian BEC group (TMT)"
 timeframe:
@@ -59,6 +59,11 @@ type: operation
 updated: 2026-04-09
 operation_role: umbrella
 parent_operation: ""
+summary: "INTERPOL, Group-IB, and the Nigeria Police Force conducted Operation Falcon, a joint investigation that resulted in the arrest of 3 Nigerian nationals in November 2020. The suspects were part of a prolific cybercrime group that used 26 different types of malware including AgentTesla, Loki, Azorult, Spartan, Nanocore, and Remcos to conduct phishing attacks and Business Email Compromise (BEC) schemes targeting government organizations and private companies in over 150 countries."
+organizations:
+  - "[[interpol]]"
+crime_types:
+  - "[[bec-ic]]"
 ---
 ## Summary
 

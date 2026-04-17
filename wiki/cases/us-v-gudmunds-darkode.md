@@ -4,45 +4,47 @@ title: "United States v. Gudmunds et al. (Darkode Forum)"
 case_number: "2:15-cr-00184 (W.D. Pa.)"
 jurisdiction: "U.S. District Court, Western District of Pennsylvania"
 jurisdiction_country: "[[united-states]]"
-case_type: "prosecution"
-status: "convicted"
+case_type: prosecution
+status: convicted
 crime_charged:
   - "[[cybercrime-forum-ic]]"
 defendants:
   - name: "Johan Anders Gudmunds"
-    nationality: "Swedish"
-    status: "indicted"
+    nationality: Swedish
+    status: indicted
     sentence: ""
-    location_at_arrest: "Sweden"
+    location_at_arrest: Sweden
   - name: "Morgan Culbertson"
-    nationality: "American"
-    status: "convicted"
+    nationality: American
+    status: convicted
     sentence: ""
     location_at_arrest: "Pittsburgh, Pennsylvania"
   - name: "Eric L. Crocker"
-    nationality: "American"
-    status: "convicted"
+    nationality: American
+    status: convicted
     sentence: ""
     location_at_arrest: "Binghamton, New York"
   - name: "Phillip R. Fleitz"
-    nationality: "American"
-    status: "convicted"
+    nationality: American
+    status: convicted
     sentence: ""
     location_at_arrest: "Indianapolis, Indiana"
 related_operation: "[[darkode-takedown]]"
 ic_elements:
-  mlat_requests: []
+  mlat_requests:
+    []
   extradition: ""
   evidence_from_abroad:
     - "20 countries in coalition"
   foreign_arrests:
-    - "Sweden"
-    - "Australia"
-    - "Brazil"
-    - "Israel"
-    - "Nigeria"
+    - Sweden
+    - Australia
+    - Brazil
+    - Israel
+    - Nigeria
     - "and others (20-country coalition)"
-  asset_freezing: []
+  asset_freezing:
+    []
 cooperating_agencies:
   - "[[fbi-cyber-division]]"
   - "[[europol-ec3]]"
@@ -60,8 +62,8 @@ sources:
   - "[[2015-07-15_wdpa_darkode-indictment]]"
 created: 2026-04-12
 updated: 2026-04-12
+summary: "United States v. Gudmunds et al. is the prosecution of 12 individuals charged in the Western District of Pennsylvania for their roles in the Darkode cybercrime forum, one of the most prolific English-language hacking forums. The charges were part of a coordinated effort by a coalition of 20 nations to charge, arrest, or search approximately 70 Darkode members worldwide on 15 July 2015."
 ---
-
 ## Summary
 
 United States v. Gudmunds et al. is the prosecution of 12 individuals charged in the Western District of Pennsylvania for their roles in the Darkode cybercrime forum, one of the most prolific English-language hacking forums. The charges were part of a coordinated effort by a coalition of 20 nations to charge, arrest, or search approximately 70 Darkode members worldwide on 15 July 2015.

@@ -81,9 +81,9 @@ participating_agencies:
   - "[[interpol-igci]]"
   - "[[knpa-cyber-bureau]]"
 legal_basis:
-  []
+
 mechanisms_used:
-  []
+
 results:
   arrests: 0
   indictments: 0
@@ -100,12 +100,12 @@ results:
     - "Thailand: "USD 6.6 million seized (largest single-case recovery in Thailand; BEC against Japanese corporation)\""
     - "Portugal: "45 arrests for social security fraud (EUR 228K / USD 270K, 531 victims)\""
 related_cases:
-  []
+
 related_operations:
   - "[[operation-haechi-v]]"
   - "[[operation-haechi-iv]]"
 challenges_encountered:
-  []
+
 lessons_learned:
   - "I-GRIP mechanism proven for rapid BEC fund recovery (Korea-UAE, Thailand cases)"
   - "HAECHI series continues to set financial recovery records ($439M vs $400M in HAECHI V)"
@@ -117,6 +117,45 @@ created: 2026-04-08
 updated: 2026-04-11
 operation_role: umbrella
 parent_operation: ""
+summary: "Operation HAECHI VI was the sixth iteration of the Korea-initiated HAECHI series, running from April to August 2025 across **40 countries and territories**. The operation recovered **USD 439 million** total (USD 342M fiat, USD 97M physical/virtual assets), blocked **68,000+ bank accounts**, froze **~400 cryptocurrency wallets**, and recovered approximately **USD 16 million** from crypto wallets. HAECHI VI set a new series record for financial recovery."
+jurisdictions:
+  - "[[south-korea]]"
+  - "[[portugal]]"
+  - "[[thailand]]"
+  - "[[united-arab-emirates]]"
+  - "[[japan]]"
+  - "[[albania]]"
+  - "[[argentina]]"
+  - "[[armenia]]"
+  - "[[australia]]"
+  - "[[brazil]]"
+  - "[[bulgaria]]"
+  - "[[cambodia]]"
+  - "[[canada]]"
+  - "[[china]]"
+  - "[[germany]]"
+  - "[[ghana]]"
+  - "[[india]]"
+  - "[[indonesia]]"
+  - "[[ireland]]"
+  - "[[kazakhstan]]"
+  - "[[malaysia]]"
+  - "[[nigeria]]"
+  - "[[philippines]]"
+  - "[[poland]]"
+  - "[[romania]]"
+  - "[[singapore]]"
+  - "[[south-africa]]"
+  - "[[spain]]"
+  - "[[sweden]]"
+  - "[[united-kingdom]]"
+  - "[[united-states]]"
+  - "[[vietnam]]"
+organizations:
+  - "[[interpol-igci]]"
+  - "[[knpa-cyber-bureau]]"
+crime_types:
+  - "[[online-fraud-ic]]"
 ---
 ## Summary
 

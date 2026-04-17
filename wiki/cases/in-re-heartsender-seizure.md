@@ -4,26 +4,26 @@ title: "In re HeartSender / Saim Raza Seizure"
 case_number: "S.D. Tex. seizure process (docket not publicly disclosed)"
 jurisdiction: "U.S. District Court, Southern District of Texas"
 jurisdiction_country: "[[united-states]]"
-case_type: "civil-seizure"
-status: "executed"
+case_type: civil-seizure
+status: executed
 crime_charged:
   - "[[bec-ic]]"
   - "[[online-fraud-ic]]"
 defendants:
   - name: "HeartSender / Saim Raza infrastructure"
-    nationality: "Unknown"
-    status: "seized"
+    nationality: Unknown
+    status: seized
     sentence: ""
     location_at_arrest: ""
 related_operation: "[[operation-heart-blocker]]"
 ic_elements:
   mlat_requests:
-    - "Netherlands"
-    - "Pakistan"
+    - Netherlands
+    - Pakistan
   extradition: ""
   evidence_from_abroad:
-    - "Netherlands"
-    - "Pakistan"
+    - Netherlands
+    - Pakistan
   foreign_arrests:
     - "Pakistan follow-on arrests announced separately in 2025"
   asset_freezing:
@@ -46,8 +46,8 @@ sources:
   - "[[2025-01-29_sdtx_heartsender-seizure]]"
 created: 2026-04-17
 updated: 2026-04-17
+summary: "In re HeartSender / Saim Raza Seizure captures the court-backed U.S. seizure action announced by DOJ on 29 January 2025 against the HeartSender / Saim Raza cybercrime service. The public record focuses on domain and server seizures rather than a named public indictment."
 ---
-
 ## Summary
 
 In re HeartSender / Saim Raza Seizure captures the court-backed U.S. seizure action announced by DOJ on 29 January 2025 against the HeartSender / Saim Raza cybercrime service. The public record focuses on domain and server seizures rather than a named public indictment.

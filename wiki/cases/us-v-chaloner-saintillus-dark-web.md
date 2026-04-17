@@ -17,14 +17,14 @@ defendants:
 related_operation: "[[operation-us-v-chaloner-saintillus-dark-web]]"
 ic_elements:
   mlat_requests:
-    []
+
   extradition: ""
   evidence_from_abroad:
     - "Dark web vendor-account and cryptocurrency evidence"
   foreign_arrests:
-    []
+
   asset_freezing:
-    []
+
 cooperating_agencies:
   - "[[us-doj]]"
 legal_frameworks_invoked:
@@ -39,6 +39,7 @@ sources:
   - "[[2024-02-05_edca_chaloner-saintillus-dark-web-sentencing]]"
 created: 2026-04-17
 updated: 2026-04-17
+summary: "United States v. Saintillus is a dark web fentanyl distribution case involving more than 1,000 deals through the vendor identity \"chlnsaint.\""
 ---
 ## Summary
 

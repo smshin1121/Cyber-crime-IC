@@ -1,37 +1,37 @@
 ---
 aliases:
-  []
+
 case_id: CYB-2017-051
 challenges_encountered:
-  []
+
 coordinating_body: ""
 created: 2026-04-08
 credibility_index: 2.55
 crime_type: "[[banking-trojan-ic]]"
 edges:
-  []
+
 enforcement_type:
-  []
+
 lead_agency: ""
 legal_basis:
-  []
+
 lessons_learned:
-  []
+
 mechanisms_used:
-  []
+
 missing_fields:
-  []
+
 operation_type: joint-investigation
 outcome: success
 participating_agencies:
-  []
+
 participating_countries:
-  []
+
 period: 1
 related_cases:
-  []
+
 related_operations:
-  []
+
 results:
   arrests: 1
   cryptocurrency_seized: ""
@@ -39,13 +39,13 @@ results:
   domains_seized: 0
   indictments: 1
   other:
-    []
+
   servers_seized: 0
   victims_notified: 0
 source_count: 1
 source_tier: 3
 sources:
-  []
+
 status: completed
 target_entity: "Banking fraud perpetrator (used home IP)"
 timeframe:
@@ -59,6 +59,9 @@ type: operation
 updated: 2026-04-08
 operation_role: umbrella
 parent_operation: ""
+summary: "A cybercriminal who used banking trojans for financial fraud was sentenced to **5 years in prison** after being identified in part because he used his home IP address during the fraud. The case illustrates how basic operational security failures can enable law enforcement to identify and prosecute cybercriminals even in technically sophisticated fraud schemes."
+crime_types:
+  - "[[banking-trojan-ic]]"
 ---
 > [!note] This operation is documented from a Tier 3 (cybersecurity media) source. Additional verification from official sources (Tier 1-2) would strengthen data reliability.
 

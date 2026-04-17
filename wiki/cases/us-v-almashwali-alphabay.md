@@ -4,14 +4,14 @@ title: "United States v. Abudullah Almashwali (AlphaBay Vendor)"
 case_number: "E.D. Cal. AlphaBay vendor sentencing"
 jurisdiction: "U.S. District Court, Eastern District of California"
 jurisdiction_country: "[[united-states]]"
-case_type: "prosecution"
-status: "sentenced"
+case_type: prosecution
+status: sentenced
 crime_charged:
   - "[[drug-trafficking]]"
 defendants:
   - name: "Abudullah Almashwali"
-    nationality: "Yemeni"
-    status: "sentenced"
+    nationality: Yemeni
+    status: sentenced
     sentence: "6.5 years"
     location_at_arrest: "New York, United States"
 related_operation: "[[alphabay-takedown]]"
@@ -21,7 +21,8 @@ ic_elements:
   extradition: ""
   evidence_from_abroad:
     - "AlphaBay records and related crypto preservation across foreign jurisdictions"
-  foreign_arrests: []
+  foreign_arrests:
+    []
   asset_freezing:
     - "Related civil forfeiture action against global assets"
 cooperating_agencies:
@@ -38,8 +39,8 @@ sources:
   - "[[2017-07-24_edca_almashwali-alphabay-sentencing]]"
 created: 2026-04-17
 updated: 2026-04-17
+summary: "United States v. Almashwali is an AlphaBay vendor case involving heroin and cocaine sales under the names `Area51` and `DarkApollo`."
 ---
-
 ## Summary
 
 United States v. Almashwali is an AlphaBay vendor case involving heroin and cocaine sales under the names `Area51` and `DarkApollo`.

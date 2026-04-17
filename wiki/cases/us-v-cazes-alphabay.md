@@ -4,35 +4,35 @@ title: "United States v. Alexandre Cazes (AlphaBay)"
 case_number: "1:17-cr-00144-LJO (E.D. Cal.)"
 jurisdiction: "U.S. District Court, Eastern District of California"
 jurisdiction_country: "[[united-states]]"
-case_type: "prosecution"
-status: "dismissed"
+case_type: prosecution
+status: dismissed
 crime_charged:
   - "[[online-fraud-ic]]"
   - "[[carding-fraud-ic]]"
 defendants:
   - name: "Alexandre Cazes"
-    nationality: "Canadian"
-    status: "deceased"
+    nationality: Canadian
+    status: deceased
     sentence: ""
     location_at_arrest: "Bangkok, Thailand"
 related_operation: "[[alphabay-takedown]]"
 ic_elements:
   mlat_requests:
-    - "Thailand"
+    - Thailand
   extradition: "Arrested in Thailand on behalf of the United States; extradition did not occur because Cazes died in custody."
   evidence_from_abroad:
-    - "Thailand"
-    - "Netherlands"
-    - "Lithuania"
-    - "Canada"
+    - Thailand
+    - Netherlands
+    - Lithuania
+    - Canada
     - "United Kingdom"
-    - "France"
+    - France
   foreign_arrests:
-    - "Thailand"
+    - Thailand
   asset_freezing:
-    - "Thailand"
-    - "Cyprus"
-    - "Liechtenstein"
+    - Thailand
+    - Cyprus
+    - Liechtenstein
     - "Antigua and Barbuda"
 cooperating_agencies:
   - "[[fbi-cyber-division]]"
@@ -54,8 +54,8 @@ sources:
   - "[[2017-07-20_edca_cazes-alphabay-indictment]]"
 created: 2026-04-17
 updated: 2026-04-17
+summary: "United States v. Alexandre Cazes is the core U.S. criminal case behind the AlphaBay component of Operation Bayonet. The case is *highly likely* one of the most consequential darknet-marketplace prosecutions ever initiated, even though it never reached adjudication because Cazes died in Thai custody before extradition."
 ---
-
 ## Summary
 
 United States v. Alexandre Cazes is the core U.S. criminal case behind the AlphaBay component of Operation Bayonet. The case is *highly likely* one of the most consequential darknet-marketplace prosecutions ever initiated, even though it never reached adjudication because Cazes died in Thai custody before extradition.

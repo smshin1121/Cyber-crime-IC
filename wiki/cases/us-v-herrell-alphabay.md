@@ -4,15 +4,15 @@ title: "United States v. Bryan Herrell (AlphaBay Moderator)"
 case_number: "E.D. Cal. AlphaBay moderator sentencing"
 jurisdiction: "U.S. District Court, Eastern District of California"
 jurisdiction_country: "[[united-states]]"
-case_type: "prosecution"
-status: "sentenced"
+case_type: prosecution
+status: sentenced
 crime_charged:
   - "[[online-fraud-ic]]"
   - "[[drug-trafficking]]"
 defendants:
   - name: "Bryan Connor Herrell"
-    nationality: "American"
-    status: "sentenced"
+    nationality: American
+    status: sentenced
     sentence: "11 years"
     location_at_arrest: "Colorado, United States"
 related_operation: "[[alphabay-takedown]]"
@@ -22,8 +22,10 @@ ic_elements:
   extradition: ""
   evidence_from_abroad:
     - "AlphaBay marketplace records and multinational seizure evidence"
-  foreign_arrests: []
-  asset_freezing: []
+  foreign_arrests:
+    []
+  asset_freezing:
+    []
 cooperating_agencies:
   - "[[us-doj]]"
 legal_frameworks_invoked:
@@ -39,8 +41,8 @@ sources:
   - "[[2020-09-01_edca_herrell-alphabay-sentencing]]"
 created: 2026-04-17
 updated: 2026-04-17
+summary: "United States v. Herrell is a key AlphaBay staff prosecution involving a marketplace moderator sentenced to 11 years."
 ---
-
 ## Summary
 
 United States v. Herrell is a key AlphaBay staff prosecution involving a marketplace moderator sentenced to 11 years.

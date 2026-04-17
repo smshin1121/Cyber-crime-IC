@@ -1,6 +1,7 @@
 ---
 operation_role: umbrella
 parent_operation: ""
+summary: "**Operation Nova** was an international law enforcement action that took down **Safe-Inet**, a bulletproof VPN service that had operated for over a decade. The operation was led by [[germany-bka|German BKA]] and coordinated by [[europol-ec3|Europol]], with participation from the FBI and law enforcement agencies in the Netherlands, Switzerland, and France. The service had been used by ransomware operators, Magecart web skimmers, and other cybercriminals to conceal their identities and locations."
 ---
 ﻿---
 aliases:

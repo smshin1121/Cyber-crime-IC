@@ -1,37 +1,37 @@
 ---
 aliases:
-  []
+
 case_id: CYB-2024-050
 challenges_encountered:
-  []
+
 coordinating_body: "[[europol-ec3]]"
 created: 2026-04-08
 credibility_index: 2.55
 crime_type: "[[hacking-ic]]"
 edges:
-  []
+
 enforcement_type:
-  []
+
 lead_agency: "[[uk-nca]]"
 legal_basis:
-  []
+
 lessons_learned:
-  []
+
 mechanisms_used:
-  []
+
 missing_fields:
-  []
+
 operation_type: infrastructure-seizure
 outcome: success
 participating_agencies:
-  []
+
 participating_countries:
-  []
+
 period: 3
 related_cases:
-  []
+
 related_operations:
-  []
+
 results:
   arrests: 0
   cryptocurrency_seized: ""
@@ -39,7 +39,7 @@ results:
   domains_seized: 0
   indictments: 0
   other:
-    []
+
   servers_seized: 593
   victims_notified: 0
 source_count: 1
@@ -59,6 +59,12 @@ type: operation
 updated: 2026-04-09
 operation_role: umbrella
 parent_operation: ""
+summary: "**Operation Morpheus** was an NCA-led, Europol-coordinated international operation targeting unauthorized (pirated/cracked) instances of **Cobalt Strike**, a legitimate penetration testing tool that has been extensively abused by cybercriminals for ransomware attacks, espionage, and other malicious purposes. The operation resulted in the takedown of **593 Cobalt Strike servers** across **27 countries**."
+organizations:
+  - "[[uk-nca]]"
+  - "[[europol-ec3]]"
+crime_types:
+  - "[[hacking-ic]]"
 ---
 > [!note] This operation is documented from a Tier 3 (cybersecurity media) source. Additional verification from official sources (Tier 1-2) would strengthen data reliability.
 

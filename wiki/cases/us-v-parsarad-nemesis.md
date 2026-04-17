@@ -1,30 +1,31 @@
 ---
 type: case
 title: "United States v. Behrouz Parsarad"
-case_number: "1:25-cr-00120"
+case_number: 1:25-cr-00120
 jurisdiction: "U.S. District Court, District of Columbia"
 jurisdiction_country: "[[united-states]]"
-case_type: "prosecution"
-status: "indicted"
+case_type: prosecution
+status: indicted
 crime_charged:
   - "[[online-fraud-ic]]"
   - "[[carding-fraud-ic]]"
 defendants:
   - name: "Behrouz Parsarad"
-    nationality: "Iranian"
-    status: "indicted"
+    nationality: Iranian
+    status: indicted
     sentence: ""
     location_at_arrest: "At large"
 related_operation: "[[nemesis-market-takedown]]"
 ic_elements:
   mlat_requests:
-    - "Germany"
-    - "Lithuania"
+    - Germany
+    - Lithuania
   extradition: ""
   evidence_from_abroad:
-    - "Germany"
-    - "Lithuania"
-  foreign_arrests: []
+    - Germany
+    - Lithuania
+  foreign_arrests:
+    []
   asset_freezing:
     - "Cryptocurrency and marketplace proceeds linked to Nemesis activity"
 cooperating_agencies:
@@ -44,8 +45,8 @@ sources:
   - "[[2025-04-17_opa_parsarad-nemesis-indictment]]"
 created: 2026-04-17
 updated: 2026-04-17
+summary: "United States v. Behrouz Parsarad is the public criminal case announced by DOJ in April 2025 against the alleged administrator of Nemesis Market. It provides the post-seizure charging action linked to the March 2024 multinational takedown of the marketplace's infrastructure."
 ---
-
 ## Summary
 
 United States v. Behrouz Parsarad is the public criminal case announced by DOJ in April 2025 against the alleged administrator of Nemesis Market. It provides the post-seizure charging action linked to the March 2024 multinational takedown of the marketplace's infrastructure.

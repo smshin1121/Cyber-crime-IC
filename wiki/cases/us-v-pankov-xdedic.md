@@ -4,28 +4,28 @@ title: "United States v. Dariy Pankov (xDedic / NLBrute)"
 case_number: "M.D. Fla. xDedic-related prosecution"
 jurisdiction: "U.S. District Court, Middle District of Florida"
 jurisdiction_country: "[[united-states]]"
-case_type: "prosecution"
-status: "sentenced"
+case_type: prosecution
+status: sentenced
 crime_charged:
   - "[[malware-ic]]"
   - "[[cybercrime-forum-ic]]"
 defendants:
   - name: "Dariy Pankov"
-    nationality: "Russian"
-    status: "sentenced"
+    nationality: Russian
+    status: sentenced
     sentence: "60 months"
     location_at_arrest: "Republic of Georgia"
 related_operation: "[[xdedic-marketplace-takedown]]"
 ic_elements:
   mlat_requests:
-    - "Georgia"
+    - Georgia
   extradition: "Pankov was arrested in Georgia and extradited to the United States."
   evidence_from_abroad:
-    - "Georgia"
-    - "Belgium"
-    - "Ukraine"
+    - Georgia
+    - Belgium
+    - Ukraine
   foreign_arrests:
-    - "Georgia"
+    - Georgia
   asset_freezing:
     - "USD 358,437 forfeiture sought"
 cooperating_agencies:
@@ -47,8 +47,8 @@ sources:
   - "[[2023-02-22_mdfl_pankov-xdedic-extradition]]"
 created: 2026-04-17
 updated: 2026-04-17
+summary: "United States v. Pankov is an xDedic-related prosecution focused on a major seller-side actor rather than a marketplace administrator or buyer. That makes it one of the more analytically useful cases in the xDedic cluster."
 ---
-
 ## Summary
 
 United States v. Pankov is an xDedic-related prosecution focused on a major seller-side actor rather than a marketplace administrator or buyer. That makes it one of the more analytically useful cases in the xDedic cluster.

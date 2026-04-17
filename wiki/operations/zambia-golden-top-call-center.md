@@ -26,11 +26,11 @@ participating_countries:
   - "[[zambia]]"
   - "[[china]]"
 participating_agencies:
-  []
+
 legal_basis:
-  []
+
 mechanisms_used:
-  []
+
 results:
   arrests: 77
   indictments: 0
@@ -60,11 +60,11 @@ missing_fields:
   - financial_losses
   - url
 related_cases:
-  []
+
 related_operations:
-  []
+
 challenges_encountered:
-  []
+
 lessons_learned:
   - "Fraudulent call centers in Africa increasingly involve multi-national criminal networks"
 source_count: 2
@@ -75,6 +75,14 @@ created: 2026-04-08
 updated: 2026-04-14
 operation_role: umbrella
 parent_operation: ""
+summary: "In **April 2024**, Zambian authorities raided the **Golden Top Support Services** call center in Roma, a suburb of Lusaka, resulting in **77 arrests** — including 22 Chinese nationals (who subsequently pleaded guilty in June 2024), 1 Cameroonian, and 54 Zambian youths aged 20-25 (Source: [[2024-06-05-therecord-zambia-golden-top-guilty-pleas]], [[2024-04-15-bitdefender-zambia-golden-top-arrests]]). The raid was led by Zambia's **Drug Enforcement Commission (DEC)** in coordination with Zambia Police, immigration, and anti-terrorism unit. Seizures included vehicles, two firearms, 97 desktop PCs, 13,000+ SIM cards, 11 SIM boxes, and 6 properties."
+jurisdictions:
+  - "[[zambia]]"
+  - "[[china]]"
+organizations:
+  - "Zambia Drug Enforcement Commission (DEC)"
+crime_types:
+  - "[[online-fraud-ic]]"
 ---
 > [!note] This operation is documented from a Tier 3 (cybersecurity media) source. Additional verification from official sources (Tier 1-2) would strengthen data reliability.
 

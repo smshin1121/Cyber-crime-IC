@@ -17,14 +17,14 @@ defendants:
 related_operation: "[[operation-us-v-nicholas-partlow-dark-web]]"
 ic_elements:
   mlat_requests:
-    []
+
   extradition: ""
   evidence_from_abroad:
     - "Darknet-market transaction evidence"
   foreign_arrests:
-    []
+
   asset_freezing:
-    []
+
 cooperating_agencies:
   - "[[us-doj]]"
 legal_frameworks_invoked:
@@ -39,6 +39,7 @@ sources:
   - "[[2022-03-07_wdwa_nicholas-partlow-darknet-plea]]"
 created: 2026-04-17
 updated: 2026-04-17
+summary: "United States v. Partlow is a darknet drug-trafficking plea case involving fentanyl, methamphetamine, and firearms."
 ---
 ## Summary
 

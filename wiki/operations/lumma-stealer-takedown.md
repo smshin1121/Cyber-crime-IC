@@ -1,21 +1,19 @@
 ---
-operation_role: umbrella
-parent_operation: ""
----
-﻿---
 type: operation
 title: "Lumma Stealer Takedown"
-aliases: ["LummaC2 Disruption", "Lumma Stealer Disruption"]
-operation_type: "takedown"
-status: "completed"
+aliases:
+  - "LummaC2 Disruption"
+  - "Lumma Stealer Disruption"
+operation_type: takedown
+status: completed
 enforcement_type:
   - seizure
   - takedown
-outcome: "success"
+outcome: success
 timeframe:
-  announced: "2025-05-21"
-  start: "2025-05-13"
-  end: "2025-05-21"
+  announced: 2025-05-21
+  start: 2025-05-13
+  end: 2025-05-21
   ongoing: false
 crime_type: "[[hacking-ic|Hacking / Malware Distribution]]"
 target_entity: "Lumma Stealer (LummaC2) — Malware-as-a-Service infostealer platform"
@@ -48,11 +46,23 @@ results:
     - "1.7 million instances of credential theft identified by FBI"
 source_count: 1
 sources:
-  - "[TechXplore — Global malware federal court Georgia](https://techxplore.com/news/2025-05-global-malware-federal-court-georgia.html)"
+  - "[TechXplore — Global malware federal court Georgia](https: "//techxplore.com/news/2025-05-global-malware-federal-court-georgia.html)\""
 created: 2025-05-21
 updated: 2026-04-10
+operation_role: umbrella
+parent_operation: ""
+summary: "The Lumma Stealer Takedown was a major public-private operation announced on May 21, 2025, that disrupted the infrastructure of **Lumma Stealer (LummaC2)**, one of the world's most widely used information-stealing malware platforms. Microsoft's Digital Crimes Unit (DCU) led the civil legal action, obtaining a court order from the U.S. District Court for the Northern District of Georgia, while the [[us-doj|U.S. Department of Justice]] unsealed warrants to seize five core domains. [[europol-ec3|Europol's EC3]] coordinated European law enforcement, and Japan's Cybercrime Control Center (JC3) facilitated the suspension of locally based infrastructure."
+jurisdictions:
+  - "[[united-states|United States]]"
+  - "[[japan|Japan]]"
+organizations:
+  - "[[us-doj|U.S. Department of Justice]]"
+  - "[[europol-ec3|Europol EC3]]"
+  - "[[fbi-cyber-division|FBI Cyber Division]]"
+  - "[[japan-npa|Japan Cybercrime Control Center (JC3)]]"
+crime_types:
+  - "[[hacking-ic|Hacking / Malware Distribution]]"
 ---
-
 ## Summary
 
 The Lumma Stealer Takedown was a major public-private operation announced on May 21, 2025, that disrupted the infrastructure of **Lumma Stealer (LummaC2)**, one of the world's most widely used information-stealing malware platforms. Microsoft's Digital Crimes Unit (DCU) led the civil legal action, obtaining a court order from the U.S. District Court for the Northern District of Georgia, while the [[us-doj|U.S. Department of Justice]] unsealed warrants to seize five core domains. [[europol-ec3|Europol's EC3]] coordinated European law enforcement, and Japan's Cybercrime Control Center (JC3) facilitated the suspension of locally based infrastructure.

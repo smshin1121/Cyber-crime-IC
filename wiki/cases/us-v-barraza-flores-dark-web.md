@@ -17,14 +17,14 @@ defendants:
 related_operation: "[[operation-us-v-barraza-flores-dark-web]]"
 ic_elements:
   mlat_requests:
-    []
+
   extradition: ""
   evidence_from_abroad:
     - "Dark web market and bitcoin transaction evidence"
   foreign_arrests:
-    []
+
   asset_freezing:
-    []
+
 cooperating_agencies:
   - "[[us-doj]]"
 legal_frameworks_invoked:
@@ -39,6 +39,7 @@ sources:
   - "[[2022-01-11_sdfl_barraza-flores-dark-web-sentencing]]"
 created: 2026-04-17
 updated: 2026-04-17
+summary: "United States v. Barraza Flores is a dark web trafficking case involving multiple markets and bitcoin payments. DOJ highlighted concealment of drugs inside wax candles shipped around the country."
 ---
 ## Summary
 

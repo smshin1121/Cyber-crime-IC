@@ -58,6 +58,12 @@ type: operation
 updated: 2026-04-12
 operation_role: umbrella
 parent_operation: ""
+summary: "The US Department of Justice unsealed an indictment on 22 May 2025 charging **Rustam Rafailevich Gallyamov**, 48, of Moscow, Russia, with leading the Qakbot malware conspiracy since 2008. Gallyamov allegedly used Qakbot to build a botnet providing access to co-conspirators who deployed ransomware variants including **ProLock, DopplePaymer, Egregor, REvil, Conti, Name Locker, Black Basta, and Cactus**. Despite the [[fbi-cyber-division|FBI's]] August 2023 takedown of the Qakbot botnet, Gallyamov allegedly continued criminal activity through January 2025. The DOJ filed a civil forfeiture complaint against **USD 24 million+** in cryptocurrency."
+organizations:
+  - "[[fbi-cyber-division]]"
+  - "[[europol-ec3]]"
+crime_types:
+  - "[[ransomware-ic]]"
 ---
 ## Summary
 

@@ -17,14 +17,14 @@ defendants:
 related_operation: "[[operation-us-v-roberts-dark-web]]"
 ic_elements:
   mlat_requests:
-    []
+
   extradition: ""
   evidence_from_abroad:
     - "Darknet vendor page and undercover purchase evidence"
   foreign_arrests:
-    []
+
   asset_freezing:
-    []
+
 cooperating_agencies:
   - "[[us-doj]]"
 legal_frameworks_invoked:
@@ -39,6 +39,7 @@ sources:
   - "[[2021-08-04_edva_roberts-darknet-drug-vendor-plea]]"
 created: 2026-04-17
 updated: 2026-04-17
+summary: "United States v. Roberts is a clean undercover-purchase-based darknet drug case involving illicit prescription-drug sales under the moniker `Pillpusher`."
 ---
 ## Summary
 

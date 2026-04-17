@@ -133,6 +133,23 @@ created: 2026-04-10
 updated: 2026-04-17
 operation_role: umbrella
 parent_operation: ""
+summary: "The Dridex/Evil Corp disruption and prosecution was a **multi-year international law enforcement operation** targeting the Dridex banking trojan (also known as Bugat and Cridex) and its operators within the Russia-based cybercriminal organization **Evil Corp**. The operation unfolded in two major phases: (1) the **October 2015 technical disruption and arrest** of botnet administrator Andrey Ghinkul, conducted jointly by the [[fbi-cyber-division|FBI]] and [[uk-nca|UK National Crime Agency (NCA)]]; and (2) the **December 2019 indictment, sanctions, and reward** targeting Evil Corp leader **Maksim Yakubets** and deputy **Igor Turashev**, coordinated between the [[us-doj|US DOJ]], [[us-treasury|US Treasury (OFAC)]], and NCA."
+jurisdictions:
+  - "[[united-states]]"
+  - "[[united-kingdom]]"
+  - "[[germany]]"
+  - Moldova
+  - Cyprus
+organizations:
+  - "[[fbi-cyber-division|FBI Cyber Division (Pittsburgh Field Office)]]"
+  - "[[europol-ec3|Europol EC3]]"
+  - "[[fbi-cyber-division|FBI Cyber Division]]"
+  - "[[uk-nca|UK National Crime Agency (NCA)]]"
+  - "[[us-doj|US Department of Justice]]"
+  - "[[us-treasury|US Treasury Department (OFAC)]]"
+  - "[[germany-bka|Germany BKA]]"
+crime_types:
+  - "[[online-fraud-ic|Banking Trojan Fraud]]"
 ---
 ## Summary
 

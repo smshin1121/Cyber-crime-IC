@@ -1,37 +1,37 @@
 ---
 aliases:
-  []
+
 case_id: CYB-2025-001
 challenges_encountered:
-  []
+
 coordinating_body: "[[europol-ec3]]"
 created: 2026-04-08
 credibility_index: 2.48
 crime_type: "[[csam-ic]]"
 edges:
-  []
+
 enforcement_type:
-  []
+
 lead_agency: "[[germany-bka|Bavarian State Criminal Police (BKA Bavaria)]]"
 legal_basis:
-  []
+
 lessons_learned:
-  []
+
 mechanisms_used:
-  []
+
 missing_fields:
-  []
+
 operation_type: takedown
 outcome: success
 participating_agencies:
-  []
+
 participating_countries:
-  []
+
 period: 3
 related_cases:
-  []
+
 related_operations:
-  []
+
 results:
   arrests: 79
   cryptocurrency_seized: "undisclosed (crypto payments traced via DeFi and exchanges)"
@@ -39,13 +39,13 @@ results:
   domains_seized: 0
   indictments: 0
   other:
-    []
+
   servers_seized: 0
   victims_notified: 0
 source_count: 0
 source_tier: 3
 sources:
-  []
+
 status: completed
 target_entity: "Kidflix (CSAM streaming platform)"
 timeframe:
@@ -58,6 +58,12 @@ type: operation
 updated: 2026-04-09
 operation_role: umbrella
 parent_operation: ""
+summary: "Operation Stream was a multi-year international law enforcement operation that dismantled Kidflix, one of the largest known child sexual abuse material (CSAM) streaming platforms on the dark web. Led by the Bavarian State Criminal Police and the Bavarian Central Office for the Prosecution of Cybercrime (ZCB), with coordination by [[europol-ec3|Europol]], the operation involved 35+ countries and is *highly likely* the largest CSAM platform takedown by user count (1.8 million registered users) as of 2025."
+organizations:
+  - "[[germany-bka|Bavarian State Criminal Police (BKA Bavaria)]]"
+  - "[[europol-ec3]]"
+crime_types:
+  - "[[csam-ic]]"
 ---
 # Operation Stream — Kidflix CSAM Platform Takedown
 

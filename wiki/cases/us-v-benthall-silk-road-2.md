@@ -4,33 +4,34 @@ title: "United States v. Blake Benthall (Silk Road 2.0)"
 case_number: "Complaint unsealed 2014-11-06 (S.D.N.Y.)"
 jurisdiction: "U.S. District Court, Southern District of New York"
 jurisdiction_country: "[[united-states]]"
-case_type: "prosecution"
-status: "arrested"
+case_type: prosecution
+status: arrested
 crime_charged:
   - "[[online-fraud-ic]]"
   - "[[hacking-ic]]"
 defendants:
   - name: "Blake Benthall"
-    nationality: "American"
-    status: "arrested"
+    nationality: American
+    status: arrested
     sentence: ""
     location_at_arrest: "San Francisco, California"
 related_operation: "[[operation-onymous]]"
 ic_elements:
   mlat_requests:
-    - "France"
-    - "Germany"
-    - "Lithuania"
-    - "Netherlands"
+    - France
+    - Germany
+    - Lithuania
+    - Netherlands
     - "United Kingdom"
   extradition: ""
   evidence_from_abroad:
-    - "France"
-    - "Germany"
-    - "Lithuania"
-    - "Netherlands"
+    - France
+    - Germany
+    - Lithuania
+    - Netherlands
     - "United Kingdom"
-  foreign_arrests: []
+  foreign_arrests:
+    []
   asset_freezing:
     - "Forfeiture action against dozens of dark-market sites announced in parallel"
 cooperating_agencies:
@@ -54,8 +55,8 @@ sources:
   - "[[2014-11-06_sdny_benthall-silk-road-2-complaint]]"
 created: 2026-04-17
 updated: 2026-04-17
+summary: "United States v. Blake Benthall is the Southern District of New York criminal case tied to the Silk Road 2.0 segment of [[operation-onymous|Operation Onymous]]. It is the most concrete U.S. prosecutorial record identified so far for that broader takedown and therefore serves as the operation's primary case anchor."
 ---
-
 ## Summary
 
 United States v. Blake Benthall is the Southern District of New York criminal case tied to the Silk Road 2.0 segment of [[operation-onymous|Operation Onymous]]. It is the most concrete U.S. prosecutorial record identified so far for that broader takedown and therefore serves as the operation's primary case anchor.

@@ -18,14 +18,14 @@ defendants:
 related_operation: "[[operation-us-v-hernandez-dark-web]]"
 ic_elements:
   mlat_requests:
-    []
+
   extradition: ""
   evidence_from_abroad:
     - "Dark web market evidence and cryptocurrency proceeds"
   foreign_arrests:
-    []
+
   asset_freezing:
-    []
+
 cooperating_agencies:
   - "[[us-doj]]"
 legal_frameworks_invoked:
@@ -41,6 +41,7 @@ sources:
   - "[[2024-06-26_edmi_hernandez-dark-web-sentencing]]"
 created: 2026-04-17
 updated: 2026-04-17
+summary: "United States v. Hernandez is an armed dark web trafficking case involving cocaine, counterfeit pills, crypto laundering, and firearms."
 ---
 ## Summary
 

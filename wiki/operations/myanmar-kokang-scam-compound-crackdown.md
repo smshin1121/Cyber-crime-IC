@@ -1,15 +1,11 @@
 ---
-operation_role: umbrella
-parent_operation: ""
----
-﻿---
 type: operation
 title: "Myanmar-Kokang Cyber Scam Compound Crackdown"
 aliases:
   - "Kokang Scam Crackdown"
   - "China-Myanmar Cyber Fraud Crackdown 2023"
   - "Northern Myanmar Telecom Fraud Crackdown"
-case_id: "CYB-2023-022"
+case_id: CYB-2023-022
 period: 3
 operation_type: arrest-sweep
 status: completed
@@ -19,9 +15,9 @@ enforcement_type:
   - seizure
 outcome: success
 timeframe:
-  announced: "2023-09"
-  start: "2023-09"
-  end: "2024-01"
+  announced: 2023-09
+  start: 2023-09
+  end: 2024-01
   ongoing: false
 crime_type: "[[online-fraud-ic]]"
 target_entity: "Cyber scam compounds in Kokang Self-Administered Zone, northern Myanmar"
@@ -31,7 +27,8 @@ participating_countries:
   - "[[china]]"
 participating_agencies:
   - "[[china-mps]]"
-legal_basis: []
+legal_basis:
+
 mechanisms_used:
   - "[[informal-cooperation]]"
 results:
@@ -52,33 +49,35 @@ results:
 edges:
   - source_actor: "China Ministry of Public Security"
     target_actor: "Myanmar Border Authorities"
-    cooperation_type: "extradition"
-    legal_basis: "bilateral_MOU"
-    direction: "directed"
+    cooperation_type: extradition
+    legal_basis: bilateral_MOU
+    direction: directed
   - source_actor: "China Ministry of Public Security"
     target_actor: "MNDAA (Myanmar National Democratic Alliance Army)"
-    cooperation_type: "joint_investigation"
-    legal_basis: "informal"
-    direction: "directed"
+    cooperation_type: joint_investigation
+    legal_basis: informal
+    direction: directed
   - source_actor: "Yunnan Provincial Public Security"
     target_actor: "Myanmar Border Authorities (Muse)"
-    cooperation_type: "extradition"
-    legal_basis: "informal"
-    direction: "directed"
+    cooperation_type: extradition
+    legal_basis: informal
+    direction: directed
 credibility_index: 3.8
 source_tier: 2
 missing_fields:
   - legal_basis
-  - exact arrest counts (Chinese domestic vs. repatriated)
+  - "exact arrest counts (Chinese domestic vs. repatriated)"
   - cryptocurrency_seized
-related_cases: []
-related_operations: []
+related_cases:
+
+related_operations:
+
 challenges_encountered:
   - "[[data-sovereignty]]"
 lessons_learned:
   - "Non-state armed groups can serve as de facto enforcement partners when state authorities are unable or unwilling to act"
   - "Military-kinetic operations (Operation 1027) can achieve anti-cybercrime objectives that law enforcement alone could not"
-  - "Scam compound displacement: crackdown in one region caused relocation to other parts of Myanmar, Cambodia, and Laos"
+  - "Scam compound displacement: "crackdown in one region caused relocation to other parts of Myanmar, Cambodia, and Laos\""
 source_count: 5
 sources:
   - "[1] VOA — Myanmar Rebel Offensive Helps China's Cybercrime Crackdown (2023-11-20)"
@@ -88,8 +87,16 @@ sources:
   - "[5] CNN — 2025 Was a Terrible Year for the Four Families (2026-01-04)"
 created: 2026-04-10
 updated: 2026-04-10
+operation_role: umbrella
+parent_operation: ""
+summary: "The Myanmar-Kokang Cyber Scam Compound Crackdown was a Chinese-led cross-border law enforcement campaign, beginning in September 2023, aimed at dismantling massive cyber fraud operations based in the Kokang Self-Administered Zone (SAZ) of northern Myanmar's Shan State. The crackdown was catalyzed by China's Ministry of Public Security (MPS) issuing arrest warrants for scam kingpins and was dramatically accelerated by **Operation 1027** — a military offensive launched on October 27, 2023 by the Three Brotherhood Alliance (a coalition of ethnic armed organizations including the MNDAA) that physically overran the scam compound territories."
+jurisdictions:
+  - "[[china]]"
+organizations:
+  - "[[china-mps]]"
+crime_types:
+  - "[[online-fraud-ic]]"
 ---
-
 ## Summary
 
 The Myanmar-Kokang Cyber Scam Compound Crackdown was a Chinese-led cross-border law enforcement campaign, beginning in September 2023, aimed at dismantling massive cyber fraud operations based in the Kokang Self-Administered Zone (SAZ) of northern Myanmar's Shan State. The crackdown was catalyzed by China's Ministry of Public Security (MPS) issuing arrest warrants for scam kingpins and was dramatically accelerated by **Operation 1027** — a military offensive launched on October 27, 2023 by the Three Brotherhood Alliance (a coalition of ethnic armed organizations including the MNDAA) that physically overran the scam compound territories.

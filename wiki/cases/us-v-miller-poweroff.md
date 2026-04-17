@@ -4,24 +4,27 @@ title: "United States v. Jeremiah Sam Evans Miller (Operation PowerOFF)"
 case_number: "CR 22-00582-FMO (C.D. Cal.)"
 jurisdiction: "U.S. District Court, Central District of California"
 jurisdiction_country: "[[united-states]]"
-case_type: "prosecution"
-status: "sentenced"
+case_type: prosecution
+status: sentenced
 crime_charged:
   - "[[ddos-extortion]]"
 defendants:
   - name: "Jeremiah Sam Evans Miller"
-    nationality: "American"
-    status: "sentenced"
+    nationality: American
+    status: sentenced
     sentence: "9 months"
     location_at_arrest: "San Antonio, Texas"
 related_operation: "[[operation-power-off]]"
 ic_elements:
-  mlat_requests: []
+  mlat_requests:
+    []
   extradition: ""
   evidence_from_abroad:
     - "Operation-wide partner evidence from the United Kingdom and the Netherlands is likely, though not itemized in the case release."
-  foreign_arrests: []
-  asset_freezing: []
+  foreign_arrests:
+    []
+  asset_freezing:
+    []
 cooperating_agencies:
   - "[[fbi-cyber-division]]"
   - "[[uk-nca]]"
@@ -41,8 +44,8 @@ sources:
   - "[[2024-07-15_cdca_miller-poweroff-sentencing]]"
 created: 2026-04-17
 updated: 2026-04-17
+summary: "United States v. Jeremiah Sam Evans Miller is the Central District of California prosecution of a RoyalStresser.com operator whose case formed part of Operation PowerOFF. The case is *likely* one of the most concrete publicly traceable U.S. prosecutorial outcomes tied to that broader multinational booter-service campaign."
 ---
-
 ## Summary
 
 United States v. Jeremiah Sam Evans Miller is the Central District of California prosecution of a RoyalStresser.com operator whose case formed part of Operation PowerOFF. The case is *likely* one of the most concrete publicly traceable U.S. prosecutorial outcomes tied to that broader multinational booter-service campaign.

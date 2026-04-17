@@ -1,37 +1,37 @@
 ---
 aliases:
-  []
+
 case_id: CYB-2016-003
 challenges_encountered:
-  []
+
 coordinating_body: "[[interpol]]"
 created: 2026-04-08
 credibility_index: 1.85
 crime_type: "[[online-fraud-ic]]"
 edges:
-  []
+
 enforcement_type:
-  []
+
 lead_agency: "[[interpol]]"
 legal_basis:
-  []
+
 lessons_learned:
-  []
+
 mechanisms_used:
-  []
+
 missing_fields:
-  []
+
 operation_type: arrest-sweep
 outcome: success
 participating_agencies:
-  []
+
 participating_countries:
-  []
+
 period: 1
 related_cases:
-  []
+
 related_operations:
-  []
+
 results:
   arrests: 193
   cryptocurrency_seized: ""
@@ -39,13 +39,13 @@ results:
   domains_seized: 0
   indictments: 0
   other:
-    []
+
   servers_seized: 0
   victims_notified: 0
 source_count: 1
 source_tier: 2
 sources:
-  []
+
 status: completed
 target_entity: "Airline ticket fraudsters using stolen card data"
 timeframe:
@@ -59,6 +59,11 @@ type: operation
 updated: 2026-04-09
 operation_role: umbrella
 parent_operation: ""
+summary: "The Global Airport Action Day, conducted from October 10-15, 2016, was an international operation coordinated by INTERPOL, Europol, Ameripol, and Frontex across 189 airports in 43 countries. The operation targeted airline ticket fraud perpetrated using stolen or hacked payment card information, detaining 193 suspects. The investigation revealed connections between airline ticket fraud and broader criminal activities including illegal immigration, human trafficking, drug trafficking, cybercrime, and terrorism support."
+organizations:
+  - "[[interpol]]"
+crime_types:
+  - "[[online-fraud-ic]]"
 ---
 ## Summary
 

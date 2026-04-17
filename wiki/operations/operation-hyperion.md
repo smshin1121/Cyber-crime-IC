@@ -27,9 +27,9 @@ participating_countries:
 participating_agencies:
   - "[[fbi-cyber-division]]"
 legal_basis:
-  []
+
 mechanisms_used:
-  []
+
 results:
   arrests: 0
   indictments: 0
@@ -55,13 +55,13 @@ missing_fields:
   - results_arrests
   - participating_countries
 related_cases:
-  []
+
 related_operations:
-  []
+
 challenges_encountered:
-  []
+
 lessons_learned:
-  []
+
 source_count: 1
 sources:
   - tier3-cyberscoop-operation-hyperion-2017
@@ -69,6 +69,13 @@ created: 2026-04-08
 updated: 2026-04-08
 operation_role: umbrella
 parent_operation: ""
+summary: "**Operation Hyperion** was an FBI-led sting operation targeting criminal activity on the dark web, with a particular focus on the use of **Zcash** cryptocurrency for illicit transactions. The operation represented law enforcement's evolving capability to investigate privacy-focused cryptocurrencies used by dark web criminals."
+jurisdictions:
+  - "[[united-states]]"
+organizations:
+  - "[[fbi-cyber-division]]"
+crime_types:
+  - "[[dark-web-ic]]"
 ---
 > [!note] This operation is documented from a Tier 3 (cybersecurity media) source. Additional verification from official sources (Tier 1-2) would strengthen data reliability.
 

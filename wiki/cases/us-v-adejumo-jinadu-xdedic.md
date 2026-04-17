@@ -4,25 +4,25 @@ title: "United States v. Adejumo and Jinadu (xDedic Tax-Fraud Proceeds)"
 case_number: "M.D. Fla. xDedic-related tax-fraud prosecution"
 jurisdiction: "U.S. District Court, Middle District of Florida"
 jurisdiction_country: "[[united-states]]"
-case_type: "prosecution"
-status: "sentenced"
+case_type: prosecution
+status: sentenced
 crime_charged:
   - "[[online-fraud-ic]]"
   - "[[identity-theft]]"
 defendants:
   - name: "Adetunji Adejumo"
-    nationality: "Nigerian"
-    status: "sentenced"
+    nationality: Nigerian
+    status: sentenced
     sentence: "33 months"
     location_at_arrest: "United States"
   - name: "Ibrahim Jinadu"
-    nationality: "Nigerian"
-    status: "sentenced"
+    nationality: Nigerian
+    status: sentenced
     sentence: "27 months"
     location_at_arrest: "United States"
   - name: "Olufemi Odedeyi"
-    nationality: "Nigerian"
-    status: "charged"
+    nationality: Nigerian
+    status: charged
     sentence: ""
     location_at_arrest: "United Kingdom"
 related_operation: "[[xdedic-marketplace-takedown]]"
@@ -34,7 +34,8 @@ ic_elements:
     - "United Kingdom"
   foreign_arrests:
     - "United Kingdom"
-  asset_freezing: []
+  asset_freezing:
+    []
 cooperating_agencies:
   - "[[fbi-cyber-division]]"
   - "[[us-doj]]"
@@ -55,8 +56,8 @@ sources:
   - "[[2023-11-29_mdfl_adejumo-jinadu-xdedic-sentencing]]"
 created: 2026-04-17
 updated: 2026-04-17
+summary: "United States v. Adejumo and Jinadu is an xDedic-related tax-fraud proceeds case in which U.S.-based defendants handled money generated from stolen access and PII. It complements the Levinson case by showing a different downstream fraud architecture within the same ecosystem."
 ---
-
 ## Summary
 
 United States v. Adejumo and Jinadu is an xDedic-related tax-fraud proceeds case in which U.S.-based defendants handled money generated from stolen access and PII. It complements the Levinson case by showing a different downstream fraud architecture within the same ecosystem.

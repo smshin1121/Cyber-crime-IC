@@ -4,24 +4,27 @@ title: "United States v. Olivia Bolles (Silk Road Vendor)"
 case_number: "M.D. Fla. Silk Road sentencing"
 jurisdiction: "U.S. District Court, Middle District of Florida"
 jurisdiction_country: "[[united-states]]"
-case_type: "prosecution"
-status: "sentenced"
+case_type: prosecution
+status: sentenced
 crime_charged:
   - "[[drug-trafficking]]"
 defendants:
   - name: "Olivia Bolles"
-    nationality: "American"
-    status: "sentenced"
+    nationality: American
+    status: sentenced
     sentence: "5 years"
     location_at_arrest: "Delaware, United States"
 related_operation: "[[silk-road-takedown]]"
 ic_elements:
-  mlat_requests: []
+  mlat_requests:
+    []
   extradition: ""
   evidence_from_abroad:
     - "Silk Road marketplace transaction records"
-  foreign_arrests: []
-  asset_freezing: []
+  foreign_arrests:
+    []
+  asset_freezing:
+    []
 cooperating_agencies:
   - "[[us-doj]]"
 legal_frameworks_invoked:
@@ -36,8 +39,8 @@ sources:
   - "[[2015-04-27_mdfl_olivia-bolles-silk-road-sentencing]]"
 created: 2026-04-17
 updated: 2026-04-17
+summary: "United States v. Bolles is a Silk Road case involving a licensed doctor who sold controlled substances under the vendor alias \\\"MDPro.\\\""
 ---
-
 ## Summary
 
 United States v. Bolles is a Silk Road case involving a licensed doctor who sold controlled substances under the vendor alias \"MDPro.\"

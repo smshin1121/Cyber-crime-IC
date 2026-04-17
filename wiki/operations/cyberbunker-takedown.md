@@ -1,8 +1,4 @@
 ---
-operation_role: umbrella
-parent_operation: ""
----
-﻿---
 type: operation
 title: "CyberBunker Bulletproof Hosting Takedown"
 title_ko: "사이버벙커 방탄호스팅 소탕"
@@ -12,16 +8,16 @@ aliases:
   - "CB3ROB Takedown"
 case_id: ""
 period: 2
-operation_type: "infrastructure-seizure"
-status: "completed"
+operation_type: infrastructure-seizure
+status: completed
 enforcement_type:
-  - "arrest"
-  - "seizure"
-outcome: "success"
+  - arrest
+  - seizure
+outcome: success
 timeframe:
-  announced: "2019-09-27"
-  start: "2015"
-  end: "2021-12-13"
+  announced: 2019-09-27
+  start: 2015
+  end: 2021-12-13
   ongoing: false
 crime_type: "[[online-fraud-ic]]"
 target_entity: "CyberBunker 2.0 (CB3ROB) bulletproof hosting operation in former NATO bunker"
@@ -53,27 +49,28 @@ results:
 edges:
   - source_actor: "Germany LKA Rhineland-Palatinate"
     target_actor: "Germany BKA"
-    cooperation_type: "joint_investigation"
-    legal_basis: "unknown"
-    direction: "undirected"
-  - source_actor: "Germany"
-    target_actor: "Netherlands"
-    cooperation_type: "evidence_transfer"
-    legal_basis: "Budapest_Convention"
-    direction: "directed"
-  - source_actor: "Germany"
+    cooperation_type: joint_investigation
+    legal_basis: unknown
+    direction: undirected
+  - source_actor: Germany
+    target_actor: Netherlands
+    cooperation_type: evidence_transfer
+    legal_basis: Budapest_Convention
+    direction: directed
+  - source_actor: Germany
     target_actor: "Europol EC3"
-    cooperation_type: "info_sharing"
-    legal_basis: "informal"
-    direction: "directed"
+    cooperation_type: info_sharing
+    legal_basis: informal
+    direction: directed
 credibility_index: 4.0
 source_tier: 1
 missing_fields:
-  - "case_id"
-  - "cryptocurrency_seized"
+  - case_id
+  - cryptocurrency_seized
 related_operations:
   - "[[darkmarket-takedown|DarkMarket Takedown (2021)]]"
-related_cases: []
+related_cases:
+
 challenges_encountered:
   - "[[jurisdictional-conflicts|Jurisdictional complexity of bulletproof hosting]]"
 lessons_learned:
@@ -82,15 +79,26 @@ lessons_learned:
   - "Multi-year investigation patience essential for complex infrastructure cases"
 source_count: 5
 sources:
-  - "[KrebsOnSecurity (2019-09-28)](https://krebsonsecurity.com/2019/09/german-cops-raid-cyberbunker-2-0-arrest-7-in-child-porn-dark-web-market-sting/)"
-  - "[The Register (2019-09-30)](https://www.theregister.com/2019/09/30/cyberbunker_cb3rob_germany_police_raid/)"
-  - "[DataBreaches.net (2021-12-13)](https://databreaches.net/2021/12/13/darknet-operators-of-cyber-bunker-convicted-and-sentenced-in-germany/)"
-  - "[Euronews (2021-12-13)](https://www.euronews.com/2021/12/13/german-court-convicts-eight-for-operating-illegal-data-centre-in-ex-military-bunker)"
-  - "[Wikipedia: CyberBunker](https://en.wikipedia.org/wiki/CyberBunker)"
+  - "[KrebsOnSecurity (2019-09-28)](https: "//krebsonsecurity.com/2019/09/german-cops-raid-cyberbunker-2-0-arrest-7-in-child-porn-dark-web-market-sting/)\""
+  - "[The Register (2019-09-30)](https: "//www.theregister.com/2019/09/30/cyberbunker_cb3rob_germany_police_raid/)\""
+  - "[DataBreaches.net (2021-12-13)](https: "//databreaches.net/2021/12/13/darknet-operators-of-cyber-bunker-convicted-and-sentenced-in-germany/)\""
+  - "[Euronews (2021-12-13)](https: "//www.euronews.com/2021/12/13/german-court-convicts-eight-for-operating-illegal-data-centre-in-ex-military-bunker)\""
+  - "[Wikipedia: "CyberBunker](https://en.wikipedia.org/wiki/CyberBunker)\""
 created: 2026-04-10
 updated: 2026-04-11
+operation_role: umbrella
+parent_operation: ""
+summary: "The CyberBunker Takedown was a major German law enforcement operation targeting a bulletproof hosting provider operating from a former NATO bunker in Traben-Trarbach, Rhineland-Palatinate, [[germany|Germany]]. On 26-27 September 2019, more than 600 police officers, including tactical units, raided the 5,000 square metre underground facility, arrested seven suspects, and seized approximately 200 servers. The facility, known as CyberBunker 2.0 (or CB3ROB), had hosted numerous dark web marketplaces, drug trading platforms, and fraud sites. Following a trial of more than a year, the Trier Regional Court convicted eight defendants in December 2021 for membership in a criminal organization, with sentences ranging from a one-year suspended sentence to five years and nine months in prison for the main defendant, a Dutch national named Herman Johan Xennt. The case was a landmark in bulletproof hosting prosecution and directly enabled the subsequent [[darkmarket-takedown|DarkMarket takedown]] in January 2021."
+jurisdictions:
+  - "[[germany]]"
+  - "[[netherlands]]"
+organizations:
+  - "[[germany-lka|Rhineland-Palatinate LKA]]"
+  - "[[europol-ec3|Europol EC3]]"
+  - "[[germany-bka|Bundeskriminalamt (BKA)]]"
+crime_types:
+  - "[[online-fraud-ic]]"
 ---
-
 ## Summary
 
 The CyberBunker Takedown was a major German law enforcement operation targeting a bulletproof hosting provider operating from a former NATO bunker in Traben-Trarbach, Rhineland-Palatinate, [[germany|Germany]]. On 26-27 September 2019, more than 600 police officers, including tactical units, raided the 5,000 square metre underground facility, arrested seven suspects, and seized approximately 200 servers. The facility, known as CyberBunker 2.0 (or CB3ROB), had hosted numerous dark web marketplaces, drug trading platforms, and fraud sites. Following a trial of more than a year, the Trier Regional Court convicted eight defendants in December 2021 for membership in a criminal organization, with sentences ranging from a one-year suspended sentence to five years and nine months in prison for the main defendant, a Dutch national named Herman Johan Xennt. The case was a landmark in bulletproof hosting prosecution and directly enabled the subsequent [[darkmarket-takedown|DarkMarket takedown]] in January 2021.

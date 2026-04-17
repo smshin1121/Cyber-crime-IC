@@ -1,6 +1,7 @@
 ---
 operation_role: umbrella
 parent_operation: ""
+summary: "Operation Talent was a German-led international law enforcement operation conducted on January 28-30, 2025, that dismantled the world's two largest cybercrime forums: **Cracked** (4 million+ users) and **Nulled** (5 million+ users). The operation was coordinated by Germany's BKA with Europol support and participation from 8 countries, resulting in 2 arrests and the takedown of associated criminal services including payment processing and hosting infrastructure."
 ---
 ﻿---
 aliases:

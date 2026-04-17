@@ -4,35 +4,36 @@ title: "United States v. Astamirov and Vasiliev (LockBit)"
 case_number: "24-467 / 24-468 (D.N.J.)"
 jurisdiction: "U.S. District Court, District of New Jersey"
 jurisdiction_country: "[[united-states]]"
-case_type: "prosecution"
-status: "convicted"
+case_type: prosecution
+status: convicted
 crime_charged:
   - "[[ransomware-ic]]"
 defendants:
   - name: "Ruslan Magomedovich Astamirov"
-    nationality: "Russian"
-    status: "convicted"
+    nationality: Russian
+    status: convicted
     sentence: ""
     location_at_arrest: "Arizona, United States"
   - name: "Mikhail Vasiliev"
-    nationality: "Russian-Canadian"
-    status: "convicted"
+    nationality: Russian-Canadian
+    status: convicted
     sentence: ""
-    location_at_arrest: "Canada"
+    location_at_arrest: Canada
 related_operation: "[[operation-cronos-phase1]]"
 ic_elements:
   mlat_requests:
-    - "Canada"
+    - Canada
     - "United Kingdom"
-    - "Switzerland"
+    - Switzerland
   extradition: "Vasiliev was arrested in Canada and extradited to the United States; LockBit prosecutions also relied on broader parallel cooperation surrounding Operation Cronos."
   evidence_from_abroad:
-    - "Canada"
+    - Canada
     - "United Kingdom"
-    - "Switzerland"
+    - Switzerland
   foreign_arrests:
-    - "Canada"
-  asset_freezing: []
+    - Canada
+  asset_freezing:
+    []
 cooperating_agencies:
   - "[[fbi-cyber-division]]"
   - "[[uk-nca]]"
@@ -50,8 +51,8 @@ sources:
   - "[[2024-07-18_nj_lockbit-astamirov-vasiliev-pleas]]"
 created: 2026-04-17
 updated: 2026-04-17
+summary: "United States v. Astamirov and Vasiliev is the New Jersey prosecution in which two LockBit participants pleaded guilty after the broader LockBit disruption campaign. The case is *highly likely* one of the strongest judicial outputs tied to Operation Cronos Phase 1 because it moves beyond seizure announcements into personal culpability, extradition, and admitted victim losses."
 ---
-
 ## Summary
 
 United States v. Astamirov and Vasiliev is the New Jersey prosecution in which two LockBit participants pleaded guilty after the broader LockBit disruption campaign. The case is *highly likely* one of the strongest judicial outputs tied to Operation Cronos Phase 1 because it moves beyond seizure announcements into personal culpability, extradition, and admitted victim losses.

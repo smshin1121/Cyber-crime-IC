@@ -1,33 +1,34 @@
 ---
 type: case
 title: "United States v. Fedir Hladyr"
-case_number: "CR18-152-RSL"
+case_number: CR18-152-RSL
 jurisdiction: "U.S. District Court, Western District of Washington"
 jurisdiction_country: "[[united-states]]"
-case_type: "prosecution"
-status: "sentenced"
+case_type: prosecution
+status: sentenced
 crime_charged:
   - "[[malware-ic]]"
   - "[[carding-fraud-ic]]"
 defendants:
   - name: "Fedir Hladyr"
-    nationality: "Ukrainian"
-    status: "sentenced"
+    nationality: Ukrainian
+    status: sentenced
     sentence: "10 years"
     location_at_arrest: "Dresden, Germany"
 related_operation: "[[fin7-takedown]]"
 ic_elements:
   mlat_requests:
-    - "Germany"
-    - "Poland"
+    - Germany
+    - Poland
   extradition: "Hladyr was arrested in Germany in January 2018 and extradited to the United States later that year."
   evidence_from_abroad:
-    - "Germany"
-    - "Poland"
-    - "Ukraine"
+    - Germany
+    - Poland
+    - Ukraine
   foreign_arrests:
     - "Germany (Dresden, 2018)"
-  asset_freezing: []
+  asset_freezing:
+    []
 cooperating_agencies:
   - "[[fbi]]"
   - "[[usdoj]]"
@@ -45,8 +46,8 @@ sources:
   - "[[2021-04-16_wdwa_hladyr-fin7-sentencing]]"
 created: 2026-04-17
 updated: 2026-04-17
+summary: "United States v. Fedir Hladyr is the principal U.S. criminal case publicly tied to the FIN7 prosecution track. DOJ announced in April 2021 that Hladyr, described as a systems administrator for FIN7, was sentenced to 10 years' imprisonment for his role in a long-running intrusion and payment-card theft conspiracy."
 ---
-
 ## Summary
 
 United States v. Fedir Hladyr is the principal U.S. criminal case publicly tied to the FIN7 prosecution track. DOJ announced in April 2021 that Hladyr, described as a systems administrator for FIN7, was sentenced to 10 years' imprisonment for his role in a long-running intrusion and payment-card theft conspiracy.

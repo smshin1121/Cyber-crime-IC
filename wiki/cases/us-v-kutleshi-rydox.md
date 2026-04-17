@@ -4,41 +4,41 @@ title: "United States v. Kutleshi (Rydox Marketplace)"
 case_number: "Indictment unsealed 2024-12-12 (W.D. Pa.)"
 jurisdiction: "U.S. District Court, Western District of Pennsylvania"
 jurisdiction_country: "[[united-states]]"
-case_type: "prosecution"
-status: "indicted"
+case_type: prosecution
+status: indicted
 crime_charged:
   - "[[cybercrime-forum-ic]]"
   - "[[identity-theft]]"
 defendants:
   - name: "Ardit Kutleshi"
-    nationality: "Kosovar"
-    status: "arrested"
+    nationality: Kosovar
+    status: arrested
     sentence: ""
-    location_at_arrest: "Kosovo"
+    location_at_arrest: Kosovo
   - name: "Jetmir Kutleshi"
-    nationality: "Kosovar"
-    status: "arrested"
+    nationality: Kosovar
+    status: arrested
     sentence: ""
-    location_at_arrest: "Kosovo"
+    location_at_arrest: Kosovo
   - name: "Shpend Sokoli"
-    nationality: "Kosovar"
-    status: "arrested"
+    nationality: Kosovar
+    status: arrested
     sentence: ""
-    location_at_arrest: "Albania"
+    location_at_arrest: Albania
 related_operation: "[[rydox-marketplace-takedown]]"
 ic_elements:
   mlat_requests:
-    - "Kosovo"
-    - "Albania"
-    - "Malaysia"
+    - Kosovo
+    - Albania
+    - Malaysia
   extradition: "Ardit Kutleshi and Jetmir Kutleshi were arrested in Kosovo pursuant to a U.S. extradition request."
   evidence_from_abroad:
-    - "Kosovo"
-    - "Albania"
-    - "Malaysia"
+    - Kosovo
+    - Albania
+    - Malaysia
   foreign_arrests:
-    - "Kosovo"
-    - "Albania"
+    - Kosovo
+    - Albania
   asset_freezing:
     - "Rydox.cc domain seized"
     - "Approximately USD 225,000 in cryptocurrency seized"
@@ -61,8 +61,8 @@ sources:
   - "[[2024-12-12_wdpa_kutleshi-rydox-indictment]]"
 created: 2026-04-17
 updated: 2026-04-17
+summary: "United States v. Kutleshi is the Western District of Pennsylvania case tied to the [[rydox-marketplace-takedown|Rydox marketplace takedown]]. It is a strong example of a cybercrime-marketplace case where the operational takedown and the criminal case are publicly linked on the same day."
 ---
-
 ## Summary
 
 United States v. Kutleshi is the Western District of Pennsylvania case tied to the [[rydox-marketplace-takedown|Rydox marketplace takedown]]. It is a strong example of a cybercrime-marketplace case where the operational takedown and the criminal case are publicly linked on the same day.

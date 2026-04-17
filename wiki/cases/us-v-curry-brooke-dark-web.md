@@ -22,12 +22,12 @@ defendants:
 related_operation: "[[operation-us-v-curry-brooke-dark-web]]"
 ic_elements:
   mlat_requests:
-    []
+
   extradition: ""
   evidence_from_abroad:
     - "Cryptocurrency tracing and dark web proceeds records"
   foreign_arrests:
-    []
+
   asset_freezing:
     - "Cash, cryptocurrency, computers, phones, and storage devices forfeited"
 cooperating_agencies:
@@ -44,6 +44,7 @@ sources:
   - "[[2019-10-02_sdca_curry-brooke-dark-web-laundering-plea]]"
 created: 2026-04-17
 updated: 2026-04-17
+summary: "United States v. Curry and Brooke is a dark-web-proceeds laundering case involving an unlicensed business that converted cash to bitcoin for darknet participants."
 ---
 ## Summary
 

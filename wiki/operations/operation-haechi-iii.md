@@ -59,7 +59,7 @@ participating_agencies:
   - "[[interpol-igci|INTERPOL IGCI]]"
   - "[[knpa|Korea National Police Agency (KNPA)]]"
 legal_basis:
-  []
+
 mechanisms_used:
   - "INTERPOL I-24/7 Network"
   - "INTERPOL Notice System (Red Notices)"
@@ -115,7 +115,7 @@ source_tier: 2
 missing_fields:
   - legal_basis
 related_cases:
-  []
+
 related_operations:
   - "[[operation-haechi-ii|Operation HAECHI-II]]"
   - "[[operation-haechi-iv|Operation HAECHI-IV]]"
@@ -123,7 +123,7 @@ related_operations:
   - "[[operation-haechi-vi|Operation HAECHI-VI]]"
   - "[[operation-first-light-2024|Operation First Light]]"
 challenges_encountered:
-  []
+
 lessons_learned:
   - "Real-time asset restraint (ARRP) is significantly more effective than post-hoc recovery; ARRP recovered $120M+ in its first year of deployment"
   - "Multi-country coordination through NCBs enables rapid cross-border identification of fraud networks"
@@ -140,6 +140,45 @@ created: 2026-04-10
 updated: 2026-04-11
 operation_role: umbrella
 parent_operation: ""
+summary: "Operation HAECHI-III was the third in INTERPOL's annual HAECHI series of operations targeting cyber-enabled financial crime. Running from **28 June to 23 November 2022**, it was coordinated by INTERPOL's Financial Crime and Anti-Corruption Centre (IFCACC) and involved **30 countries** acting through their respective INTERPOL National Central Bureaus (NCBs). The operation resulted in **975 arrests**, the resolution of **1,600+ cases**, and the seizure/interception of approximately **USD 130 million** in virtual assets and illicit funds."
+jurisdictions:
+  - "[[australia]]"
+  - Austria
+  - Brunei
+  - "[[cambodia]]"
+  - "Cote d'Ivoire"
+  - "[[france]]"
+  - Ghana
+  - "Hong Kong (China)"
+  - "[[india]]"
+  - "[[indonesia]]"
+  - Ireland
+  - "[[japan]]"
+  - "[[south-korea]]"
+  - Kyrgyzstan
+  - Laos
+  - "[[malaysia]]"
+  - Maldives
+  - "[[nigeria]]"
+  - "[[philippines]]"
+  - "[[poland]]"
+  - "[[romania]]"
+  - "[[singapore]]"
+  - Slovenia
+  - "South Africa"
+  - Spain
+  - "[[sweden]]"
+  - "[[thailand]]"
+  - "United Arab Emirates"
+  - "[[united-kingdom]]"
+  - "[[united-states]]"
+organizations:
+  - "[[interpol|INTERPOL]]"
+  - "[[interpol|INTERPOL IFCACC]]"
+  - "[[interpol-igci|INTERPOL IGCI]]"
+  - "[[knpa|Korea National Police Agency (KNPA)]]"
+crime_types:
+  - "[[online-fraud-ic|Online Fraud]]"
 ---
 ## Summary
 

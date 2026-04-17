@@ -17,14 +17,14 @@ defendants:
 related_operation: "[[operation-us-v-tan-dark-web]]"
 ic_elements:
   mlat_requests:
-    []
+
   extradition: ""
   evidence_from_abroad:
     - "Dark web vendor platform records"
   foreign_arrests:
-    []
+
   asset_freezing:
-    []
+
 cooperating_agencies:
   - "[[us-doj]]"
 legal_frameworks_invoked:
@@ -39,6 +39,7 @@ sources:
   - "[[2024-01-24_ndca_tony-tan-dark-web-sentencing]]"
 created: 2026-04-17
 updated: 2026-04-17
+summary: "United States v. Tan is a smaller but cleanly documented dark web vendor prosecution involving counterfeit Adderall pills pressed with methamphetamine."
 ---
 ## Summary
 

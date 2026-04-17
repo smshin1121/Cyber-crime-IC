@@ -60,6 +60,13 @@ created: 2026-04-17
 updated: 2026-04-17
 operation_role: follow-on
 parent_operation: "[[trickbot-operations]]"
+summary: "Galochkin et al. (TrickBot/Conti) Enforcement Action is a defendant-specific enforcement action page derived from [[us-v-galochkin-trickbot-conti]]. It captures the prosecutorial or seizure stage reflected in the linked case record and preserves the operation-side catalog entry for this follow-on action."
+jurisdictions:
+  - "[[united-states]]"
+organizations:
+  - "[[fbi-cyber-division]]"
+crime_types:
+  - "[[ransomware-ic]]"
 ---
 ## Summary
 

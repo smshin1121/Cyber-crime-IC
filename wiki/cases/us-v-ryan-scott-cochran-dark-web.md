@@ -18,12 +18,12 @@ defendants:
 related_operation: "[[operation-us-v-ryan-scott-cochran-dark-web]]"
 ic_elements:
   mlat_requests:
-    []
+
   extradition: ""
   evidence_from_abroad:
     - "Dark web marketplace records and cryptocurrency evidence"
   foreign_arrests:
-    []
+
   asset_freezing:
     - "More than USD 1.1 million forfeiture agreed"
 cooperating_agencies:
@@ -41,6 +41,7 @@ sources:
   - "[[2024-08-28_edny_ryan-scott-cochran-dark-web-plea]]"
 created: 2026-04-17
 updated: 2026-04-17
+summary: "United States v. Cochran is a guilty-plea case against a long-running dark web vendor who sold drugs and fraudulent documents through the mail."
 ---
 ## Summary
 

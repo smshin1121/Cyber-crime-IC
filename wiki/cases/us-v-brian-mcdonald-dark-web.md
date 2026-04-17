@@ -17,14 +17,14 @@ defendants:
 related_operation: "[[operation-us-v-brian-mcdonald-dark-web]]"
 ic_elements:
   mlat_requests:
-    []
+
   extradition: ""
   evidence_from_abroad:
     - "Darknet marketplace evidence"
   foreign_arrests:
-    []
+
   asset_freezing:
-    []
+
 cooperating_agencies:
   - "[[us-doj]]"
 legal_frameworks_invoked:
@@ -39,6 +39,7 @@ sources:
   - "[[2024-10-21_cdca_brian-mcdonald-darknet-sentencing]]"
 created: 2026-04-17
 updated: 2026-04-17
+summary: "United States v. Brian McDonald is a severe darknet fentanyl case involving a fatal overdose and firearms possession in furtherance of drug trafficking."
 ---
 ## Summary
 

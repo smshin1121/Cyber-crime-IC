@@ -4,41 +4,42 @@ title: "United States v. Odufuye and Nwoke (BEC)"
 case_number: "Seven-count indictment returned 2016-12-20 (D. Conn.)"
 jurisdiction: "U.S. District Court, District of Connecticut"
 jurisdiction_country: "[[united-states]]"
-case_type: "prosecution"
-status: "convicted"
+case_type: prosecution
+status: convicted
 crime_charged:
   - "[[bec-ic]]"
   - "[[online-fraud-ic]]"
 defendants:
   - name: "Adeyemi Odufuye"
-    nationality: "Nigerian"
-    status: "sentenced"
+    nationality: Nigerian
+    status: sentenced
     sentence: "45 months"
     location_at_arrest: "United Kingdom"
   - name: "Stanley Hugochukwu Nwoke"
-    nationality: "Nigerian"
-    status: "sentenced"
+    nationality: Nigerian
+    status: sentenced
     sentence: "36 months"
-    location_at_arrest: "Mauritius"
+    location_at_arrest: Mauritius
   - name: "Olumuyiwa Yahtrip Adejumo"
-    nationality: "Nigerian"
-    status: "sentenced"
+    nationality: Nigerian
+    status: sentenced
     sentence: "15 months"
     location_at_arrest: "Ohio, United States"
 related_operation: "[[operation-wirewire]]"
 ic_elements:
   mlat_requests:
     - "United Kingdom"
-    - "Mauritius"
+    - Mauritius
   extradition: "Odufuye was extradited from the United Kingdom and Nwoke was extradited from Mauritius."
   evidence_from_abroad:
     - "United Kingdom"
-    - "Mauritius"
+    - Mauritius
     - "Hong Kong"
   foreign_arrests:
     - "United Kingdom"
-    - "Mauritius"
-  asset_freezing: []
+    - Mauritius
+  asset_freezing:
+    []
 cooperating_agencies:
   - "[[fbi-cyber-division]]"
   - "[[office-of-international-affairs]]"
@@ -59,8 +60,8 @@ sources:
   - "[[2016-12-20_dct_odufuye-nwoke-bec-indictment]]"
 created: 2026-04-17
 updated: 2026-04-17
+summary: "United States v. Odufuye and Nwoke is a District of Connecticut BEC case that provides a concrete judicial counterpart to [[operation-wirewire|Operation WireWire]]. The case matters because it moved beyond arrest headlines into extradition, guilty pleas, sentencing, and restitution."
 ---
-
 ## Summary
 
 United States v. Odufuye and Nwoke is a District of Connecticut BEC case that provides a concrete judicial counterpart to [[operation-wirewire|Operation WireWire]]. The case matters because it moved beyond arrest headlines into extradition, guilty pleas, sentencing, and restitution.

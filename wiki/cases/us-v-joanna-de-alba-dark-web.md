@@ -17,14 +17,14 @@ defendants:
 related_operation: "[[operation-us-v-joanna-de-alba-dark-web]]"
 ic_elements:
   mlat_requests:
-    []
+
   extradition: ""
   evidence_from_abroad:
     - "Dark web marketplace records and cryptocurrency payments"
   foreign_arrests:
-    []
+
   asset_freezing:
-    []
+
 cooperating_agencies:
   - "[[us-doj]]"
   - "[[dea]]"
@@ -40,6 +40,7 @@ sources:
   - "[[2021-11-03_edny_joanna-de-alba-dark-web-sentencing]]"
 created: 2026-04-17
 updated: 2026-04-17
+summary: "United States v. De Alba is a broad-spectrum dark web narcotics case involving fentanyl, heroin, methamphetamine, cocaine, oxycodone, methadone, and MDMA sold for cryptocurrency."
 ---
 ## Summary
 

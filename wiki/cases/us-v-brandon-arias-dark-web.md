@@ -17,14 +17,14 @@ defendants:
 related_operation: "[[operation-us-v-brandon-arias-dark-web]]"
 ic_elements:
   mlat_requests:
-    []
+
   extradition: ""
   evidence_from_abroad:
     - "Dark web vendor evidence tied to the 'Drug Llama' identity"
   foreign_arrests:
-    []
+
   asset_freezing:
-    []
+
 cooperating_agencies:
   - "[[us-doj]]"
 legal_frameworks_invoked:
@@ -39,6 +39,7 @@ sources:
   - "[[2019-07-17_sdil_brandon-arias-dark-web-plea]]"
 created: 2026-04-17
 updated: 2026-04-17
+summary: "United States v. Arias is a guilty-plea case against one of the individuals behind the darknet fentanyl vendor identity \"Drug Llama.\""
 ---
 ## Summary
 

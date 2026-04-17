@@ -27,9 +27,9 @@ participating_agencies:
   - "[[romanian-police]]"
   - "[[romanian-prosecution]]"
 legal_basis:
-  []
+
 mechanisms_used:
-  []
+
 results:
   arrests: 16
   indictments: 0
@@ -53,13 +53,13 @@ missing_fields:
   - legal_basis
   - mechanisms_used
 related_cases:
-  []
+
 related_operations:
-  []
+
 challenges_encountered:
-  []
+
 lessons_learned:
-  []
+
 source_count: 1
 sources:
   - "[1] Europol News (2024-01)"
@@ -67,6 +67,15 @@ created: 2026-04-08
 updated: 2026-04-08
 operation_role: umbrella
 parent_operation: ""
+summary: "Europol and Romanian police and prosecutors conducted a joint operation that resulted in the arrest of 16 members of a cybercrime network in Romania that had been phishing bank credentials and conducting illegal fund transfers. The operation, which ran from 2023 to early 2024, dismantled the criminal network responsible for stealing banking credentials through phishing attacks and transferring victims' funds to accounts controlled by the group."
+jurisdictions:
+  - "[[romania]]"
+organizations:
+  - "[[romanian-police]]"
+  - "[[europol-ec3]]"
+  - "[[romanian-prosecution]]"
+crime_types:
+  - "[[online-fraud-ic]]"
 ---
 ## Summary
 

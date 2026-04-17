@@ -1,46 +1,44 @@
 ---
-operation_role: umbrella
-parent_operation: ""
----
-﻿---
 type: operation
 title: "Operation Endgame — Phase 1 (Botnet Takedown)"
-aliases: ["Operation Endgame Phase 1", "Endgame botnet takedown May 2024"]
-operation_type: "takedown"
-status: "completed"
-case_id: "CYB-2024-003"
+aliases:
+  - "Operation Endgame Phase 1"
+  - "Endgame botnet takedown May 2024"
+operation_type: takedown
+status: completed
+case_id: CYB-2024-003
 period: 3
 enforcement_type:
-  - "arrest"
-  - "seizure"
-  - "takedown"
-  - "asset_freeze"
-outcome: "success"
+  - arrest
+  - seizure
+  - takedown
+  - asset_freeze
+outcome: success
 credibility_index: 2.28
 source_tier: 2
 edges:
-  - source_actor: "Europol"
+  - source_actor: Europol
     target_actor: "German BKA"
-    cooperation_type: "joint_investigation"
-    legal_basis: "unknown"
-    direction: "undirected"
-  - source_actor: "Europol"
-    target_actor: "FBI"
-    cooperation_type: "joint_investigation"
-    legal_basis: "unknown"
-    direction: "undirected"
-  - source_actor: "Europol"
-    target_actor: "Eurojust"
-    cooperation_type: "joint_investigation"
-    legal_basis: "unknown"
-    direction: "undirected"
+    cooperation_type: joint_investigation
+    legal_basis: unknown
+    direction: undirected
+  - source_actor: Europol
+    target_actor: FBI
+    cooperation_type: joint_investigation
+    legal_basis: unknown
+    direction: undirected
+  - source_actor: Europol
+    target_actor: Eurojust
+    cooperation_type: joint_investigation
+    legal_basis: unknown
+    direction: undirected
 missing_fields:
-  - "legal_basis"
-  - "mechanisms_used"
+  - legal_basis
+  - mechanisms_used
 timeframe:
-  announced: "2024-05-30"
-  start: "2024-05-27"
-  end: "2024-05-29"
+  announced: 2024-05-30
+  start: 2024-05-27
+  end: 2024-05-29
   ongoing: false
 crime_type: "[[ransomware-ic]]"
 target_entity: "Dropper malware ecosystem (IcedID, SystemBC, Pikabot, Smokeloader, Bumblebee, Trickbot)"
@@ -76,8 +74,10 @@ participating_agencies:
   - "[[romania-police]]"
   - "[[switzerland-fedpol]]"
   - "[[ukraine-police]]"
-legal_basis: []
-mechanisms_used: []
+legal_basis:
+
+mechanisms_used:
+
 results:
   arrests: 4
   indictments: 0
@@ -89,10 +89,12 @@ results:
   other:
     - "16 location searches conducted"
     - "Command post with 20+ officers at Europol HQ"
-related_cases: []
+related_cases:
+
 related_operations:
   - "[[operation-endgame-phase2]]"
-challenges_encountered: []
+challenges_encountered:
+
 lessons_learned:
   - "Targeting upstream infrastructure (dropper malware) disrupts the entire ransomware supply chain"
   - "On-site command post at Europol HQ with 20+ officers from 4 countries enabled real-time coordination"
@@ -102,8 +104,42 @@ sources:
   - "[[2024-05-30-europol-operation-endgame-botnet-takedown]]"
 created: 2026-04-08
 updated: 2026-04-08
+operation_role: umbrella
+parent_operation: ""
+summary: "**Operation Endgame Phase 1** was the **largest-ever international operation against botnets**, conducted between 27 and 29 May 2024. The operation targeted dropper malware families — IcedID, SystemBC, Pikabot, Smokeloader, Bumblebee, and Trickbot — that serve as initial-access vectors for ransomware groups. Coordinated from [[europol-ec3|Europol]]'s headquarters with a command post of 20+ officers, the action resulted in 4 arrests, 100+ servers taken down across 10 countries, and 2,000+ domains seized."
+jurisdictions:
+  - "[[denmark]]"
+  - "[[france]]"
+  - "[[germany]]"
+  - "[[netherlands]]"
+  - "[[united-kingdom]]"
+  - "[[united-states]]"
+  - "[[armenia]]"
+  - "[[bulgaria]]"
+  - "[[lithuania]]"
+  - "[[portugal]]"
+  - "[[romania]]"
+  - "[[switzerland]]"
+  - "[[ukraine]]"
+organizations:
+  - "[[europol-ec3]]"
+  - "[[eurojust]]"
+  - "[[denmark-police]]"
+  - "[[france-national-police]]"
+  - "[[germany-bka]]"
+  - "[[netherlands-politie]]"
+  - "[[uk-nca]]"
+  - "[[fbi-cyber-division]]"
+  - "[[armenia-police]]"
+  - "[[bulgaria-police]]"
+  - "[[lithuania-police]]"
+  - "[[portugal-police]]"
+  - "[[romania-police]]"
+  - "[[switzerland-fedpol]]"
+  - "[[ukraine-police]]"
+crime_types:
+  - "[[ransomware-ic]]"
 ---
-
 ## Summary
 
 **Operation Endgame Phase 1** was the **largest-ever international operation against botnets**, conducted between 27 and 29 May 2024. The operation targeted dropper malware families — IcedID, SystemBC, Pikabot, Smokeloader, Bumblebee, and Trickbot — that serve as initial-access vectors for ransomware groups. Coordinated from [[europol-ec3|Europol]]'s headquarters with a command post of 20+ officers, the action resulted in 4 arrests, 100+ servers taken down across 10 countries, and 2,000+ domains seized.

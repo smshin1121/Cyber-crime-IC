@@ -18,14 +18,14 @@ defendants:
 related_operation: "[[operation-us-v-holly-adams-dark-web]]"
 ic_elements:
   mlat_requests:
-    []
+
   extradition: ""
   evidence_from_abroad:
     - "Dark web sales evidence and cryptocurrency laundering records"
   foreign_arrests:
-    []
+
   asset_freezing:
-    []
+
 cooperating_agencies:
   - "[[us-doj]]"
 legal_frameworks_invoked:
@@ -41,6 +41,7 @@ sources:
   - "[[2025-06-03_edca_holly-adams-dark-web-fentanyl-sentencing]]"
 created: 2026-04-17
 updated: 2026-04-17
+summary: "United States v. Holly Adams is a dark web fentanyl trafficking case in which DOJ said the defendant resumed sales after an earlier state search. It is a useful example of persistence after partial disruption."
 ---
 ## Summary
 

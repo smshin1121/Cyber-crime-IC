@@ -58,6 +58,13 @@ created: 2026-04-17
 updated: 2026-04-17
 operation_role: follow-on
 parent_operation: "[[silk-road-takedown]]"
+summary: "Roger Thomas Clark (Silk Road Adviser) Enforcement Action is a defendant-specific enforcement action page derived from [[us-v-roger-thomas-clark-silk-road]]. It captures the prosecutorial or seizure stage reflected in the linked case record and preserves the operation-side catalog entry for this follow-on action."
+jurisdictions:
+  - "[[united-states]]"
+organizations:
+  - "[[us-doj]]"
+crime_types:
+  - "[[drug-trafficking]]"
 ---
 ## Summary
 

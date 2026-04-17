@@ -18,14 +18,14 @@ defendants:
 related_operation: "[[operation-us-v-scanlan-dark-web]]"
 ic_elements:
   mlat_requests:
-    []
+
   extradition: ""
   evidence_from_abroad:
     - "International money-laundering component"
   foreign_arrests:
-    []
+
   asset_freezing:
-    []
+
 cooperating_agencies:
   - "[[us-doj]]"
 legal_frameworks_invoked:
@@ -41,6 +41,7 @@ sources:
   - "[[2020-02-12_sdil_scanlan-drug-llama-dark-web-sentencing]]"
 created: 2026-04-17
 updated: 2026-04-17
+summary: "United States v. Scanlan is a severe dark web fentanyl case involving death-resulting distribution and international money laundering. It is one of the harsher darknet-trafficking sentencing records in the dataset."
 ---
 ## Summary
 

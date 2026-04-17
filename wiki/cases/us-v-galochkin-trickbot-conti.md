@@ -4,40 +4,40 @@ title: "United States v. Galochkin et al. (TrickBot/Conti)"
 case_number: "N.D. Ohio; M.D. Tenn.; 23CR1166-LAB (S.D. Cal.)"
 jurisdiction: "U.S. District Courts: Northern District of Ohio, Middle District of Tennessee, Southern District of California"
 jurisdiction_country: "[[united-states]]"
-case_type: "prosecution"
-status: "indicted"
+case_type: prosecution
+status: indicted
 crime_charged:
   - "[[ransomware-ic]]"
   - "[[malware-ic]]"
 defendants:
   - name: "Maksim Galochkin"
-    nationality: "Russian"
-    status: "indicted"
+    nationality: Russian
+    status: indicted
     sentence: ""
     location_at_arrest: "At large (Russia)"
   - name: "Maksim Rudenskiy"
-    nationality: "Russian"
-    status: "indicted"
+    nationality: Russian
+    status: indicted
     sentence: ""
     location_at_arrest: "At large (Russia)"
   - name: "Mikhail Tsarev"
-    nationality: "Russian"
-    status: "indicted"
+    nationality: Russian
+    status: indicted
     sentence: ""
     location_at_arrest: "At large (Russia)"
   - name: "Andrey Zhuykov"
-    nationality: "Russian"
-    status: "indicted"
+    nationality: Russian
+    status: indicted
     sentence: ""
     location_at_arrest: "At large (Russia)"
   - name: "Vladimir Dunaev"
-    nationality: "Russian"
-    status: "sentenced"
+    nationality: Russian
+    status: sentenced
     sentence: "64 months"
     location_at_arrest: "South Korea"
   - name: "Alla Witte"
-    nationality: "Latvian"
-    status: "sentenced"
+    nationality: Latvian
+    status: sentenced
     sentence: "32 months"
     location_at_arrest: "Miami, Florida"
 related_operation: "[[trickbot-operations]]"
@@ -45,10 +45,12 @@ ic_elements:
   mlat_requests:
     - "South Korea"
   extradition: "Dunaev (South Korea to US, 2021)"
-  evidence_from_abroad: []
+  evidence_from_abroad:
+    []
   foreign_arrests:
     - "South Korea (Dunaev, September 2021)"
-  asset_freezing: []
+  asset_freezing:
+    []
 cooperating_agencies:
   - "[[fbi-cyber-division]]"
   - "[[us-doj]]"
@@ -67,8 +69,8 @@ sources:
   - "[[2015-05-29_sdny_us-v-ulbricht-sentencing]]"
 created: 2026-04-12
 updated: 2026-04-12
+summary: "United States v. Galochkin et al. encompasses three indictments unsealed on 7 September 2023 across three federal districts, charging nine Russian nationals with conspiracies related to the TrickBot malware and Conti ransomware operations. Two additional defendants (Dunaev and Witte) were charged separately and have been convicted and sentenced. The case demonstrates the sustained prosecution approach required when initial technical disruption (October 2020) fails to permanently disable a botnet."
 ---
-
 ## Summary
 
 United States v. Galochkin et al. encompasses three indictments unsealed on 7 September 2023 across three federal districts, charging nine Russian nationals with conspiracies related to the TrickBot malware and Conti ransomware operations. Two additional defendants (Dunaev and Witte) were charged separately and have been convicted and sentenced. The case demonstrates the sustained prosecution approach required when initial technical disruption (October 2020) fails to permanently disable a botnet.

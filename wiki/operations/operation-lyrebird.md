@@ -1,6 +1,7 @@
 ---
 operation_role: umbrella
 parent_operation: ""
+summary: "**Operation Lyrebird** was an INTERPOL-coordinated operation that resulted in the arrest of a suspect in **Morocco** linked to **phishing** and **carding** activities. The operation was conducted with intelligence support from cybersecurity firm **Group-IB**. The arrest demonstrated INTERPOL's growing capability to coordinate cybercrime operations in the African region."
 ---
 ﻿---
 aliases:

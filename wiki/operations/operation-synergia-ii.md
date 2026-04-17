@@ -1,37 +1,37 @@
 ---
 aliases:
-  []
+
 case_id: CYB-2024-007
 challenges_encountered:
-  []
+
 coordinating_body: "[[interpol-igci]]"
 created: 2026-04-08
 credibility_index: 3.25
 crime_type: "[[ransomware-ic]]"
 edges:
-  []
+
 enforcement_type:
-  []
+
 lead_agency: "[[interpol-igci]]"
 legal_basis:
-  []
+
 lessons_learned:
-  []
+
 mechanisms_used:
-  []
+
 missing_fields:
-  []
+
 operation_type: infrastructure-seizure
 outcome: success
 participating_agencies:
-  []
+
 participating_countries:
-  []
+
 period: 3
 related_cases:
-  []
+
 related_operations:
-  []
+
 results:
   arrests: 41
   cryptocurrency_seized: ""
@@ -39,13 +39,13 @@ results:
   domains_seized: 0
   indictments: 0
   other:
-    []
+
   servers_seized: 59
   victims_notified: 0
 source_count: 1
 source_tier: 2
 sources:
-  []
+
 status: completed
 target_entity: "Phishing, ransomware, and information stealer infrastructure"
 timeframe:
@@ -58,6 +58,11 @@ type: operation
 updated: 2026-04-08
 operation_role: umbrella
 parent_operation: ""
+summary: "Operation Synergia II was a massive INTERPOL-coordinated operation targeting malicious cyber infrastructure across **95 INTERPOL member countries** from April to August 2024. The operation focused on phishing, ransomware, and information stealer infrastructure. It identified approximately 30,000 suspicious IP addresses, took down 76% of them (~22,800), seized 59 servers and 43 electronic devices, and resulted in 41 arrests with 65 others still under investigation."
+organizations:
+  - "[[interpol-igci]]"
+crime_types:
+  - "[[ransomware-ic]]"
 ---
 ## Summary
 

@@ -31,9 +31,9 @@ participating_agencies:
   - "[[europol-ec3]]"
   - "[[j-cat]]"
 legal_basis:
-  []
+
 mechanisms_used:
-  []
+
 results:
   arrests: 8
   indictments: 0
@@ -62,13 +62,13 @@ missing_fields:
   - legal_basis
   - mechanisms_used
 related_cases:
-  []
+
 related_operations:
-  []
+
 challenges_encountered:
-  []
+
 lessons_learned:
-  []
+
 source_count: 1
 sources:
   - "[1] Europol News (2018-05-18)"
@@ -76,6 +76,19 @@ created: 2026-04-08
 updated: 2026-04-08
 operation_role: umbrella
 parent_operation: ""
+summary: "UK, French, and Thai law enforcement, coordinated by Europol and the Joint Cybercrime Action Taskforce (J-CAT), dismantled the Rex Mundi hacking group that had engaged in large-scale customer data breaches and cyber extortion targeting British companies. The operation resulted in the arrest of 8 suspects, including a key member arrested in Thailand. The investigation ran from May 2017 to May 2018."
+jurisdictions:
+  - "[[united-kingdom]]"
+  - "[[france]]"
+  - "[[thailand]]"
+organizations:
+  - "[[london-metropolitan-police]]"
+  - "[[europol-ec3]]"
+  - "[[french-high-tech-crime-unit]]"
+  - "[[thai-royal-police]]"
+  - "[[j-cat]]"
+crime_types:
+  - "[[hacking-ic]]"
 ---
 ## Summary
 

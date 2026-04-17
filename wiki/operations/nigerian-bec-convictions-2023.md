@@ -71,6 +71,14 @@ created: 2026-04-08
 updated: 2026-04-08
 operation_role: umbrella
 parent_operation: ""
+summary: "In 2023, Nigerian nationals **Okpe** and **Obogo** were sentenced in the United States for their roles in Business Email Compromise (BEC) fraud schemes. The convictions represented the successful conclusion of investigations involving cooperation between the US and Nigeria. BEC prosecutions have become increasingly common as law enforcement cooperation between the US and Nigeria has matured."
+jurisdictions:
+  - "[[united-states]]"
+  - "[[nigeria]]"
+organizations:
+  - "[[us-doj]]"
+crime_types:
+  - "[[bec-ic]]"
 ---
 > [!note] This operation is documented from a Tier 3 (cybersecurity media) source. Additional verification from official sources (Tier 1-2) would strengthen data reliability.
 

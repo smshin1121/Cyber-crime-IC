@@ -22,7 +22,7 @@ coordinating_body: "[[eurojust]]"
 participating_countries:
   - "[[germany]]"
 participating_agencies:
-  []
+
 legal_basis:
   - "[[budapest-convention]]"
   - "[[mutual-legal-assistance]]"
@@ -39,19 +39,19 @@ results:
   other:
     - "Defendant-specific follow-on action derived from [[de-fr-online-fraud-group-2026]]"
 edges:
-  []
+
 credibility_index: 4.0
 source_tier: 1
 missing_fields:
-  []
+
 related_cases:
   - "[[de-fr-online-fraud-group-2026]]"
 related_operations:
-  []
+
 challenges_encountered:
-  []
+
 lessons_learned:
-  []
+
 source_count: 1
 sources:
   - "[[2026-03-11-eurojust-de-fr-online-fraud-group]]"
@@ -59,6 +59,13 @@ created: 2026-04-17
 updated: 2026-04-17
 operation_role: follow-on
 parent_operation: ""
+summary: "DE-FR Online Fraud Group Dismantlement (March 2026) Enforcement Action is a defendant-specific enforcement action page derived from [[de-fr-online-fraud-group-2026]]. It captures the prosecutorial or seizure stage reflected in the linked case record and preserves the operation-side catalog entry for this follow-on action."
+jurisdictions:
+  - "[[germany]]"
+organizations:
+  - "[[eurojust]]"
+crime_types:
+  - "[[online-fraud-ic]]"
 ---
 ## Summary
 

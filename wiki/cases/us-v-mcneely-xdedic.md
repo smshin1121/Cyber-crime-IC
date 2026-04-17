@@ -4,40 +4,42 @@ title: "United States v. McNeely et al. (xDedic Buyers)"
 case_number: "8:21-CR-00101-KM-SPF (M.D. Fla.)"
 jurisdiction: "U.S. District Court, Middle District of Florida"
 jurisdiction_country: "[[united-states]]"
-case_type: "prosecution"
-status: "sentenced"
+case_type: prosecution
+status: sentenced
 crime_charged:
   - "[[online-fraud-ic]]"
   - "[[access-device-fraud]]"
 defendants:
   - name: "T'Andre McNeely"
-    nationality: "American"
-    status: "sentenced"
+    nationality: American
+    status: sentenced
     sentence: "78 months"
     location_at_arrest: "United States"
   - name: "Michael Carr"
-    nationality: "American"
-    status: "sentenced"
+    nationality: American
+    status: sentenced
     sentence: "78 months"
     location_at_arrest: "United States"
   - name: "Brandon Williams"
-    nationality: "American"
-    status: "sentenced"
+    nationality: American
+    status: sentenced
     sentence: "12 months and 1 day"
     location_at_arrest: "United States"
 related_operation: "[[xdedic-marketplace-takedown]]"
 ic_elements:
   mlat_requests:
-    - "Belgium"
-    - "Ukraine"
+    - Belgium
+    - Ukraine
   extradition: ""
   evidence_from_abroad:
-    - "Belgium"
-    - "Ukraine"
-    - "Netherlands"
-    - "Germany"
-  foreign_arrests: []
-  asset_freezing: []
+    - Belgium
+    - Ukraine
+    - Netherlands
+    - Germany
+  foreign_arrests:
+    []
+  asset_freezing:
+    []
 cooperating_agencies:
   - "[[fbi-cyber-division]]"
   - "[[us-doj]]"
@@ -57,8 +59,8 @@ sources:
   - "[[2024-08-07_mdfl_mcneely-xdedic-summary]]"
 created: 2026-04-17
 updated: 2026-04-17
+summary: "United States v. McNeely et al. is an xDedic-derived buyer case group in the Middle District of Florida. It demonstrates that the marketplace investigation did not stop with high-profile foreign defendants and also produced prison terms for downstream U.S.-based participants."
 ---
-
 ## Summary
 
 United States v. McNeely et al. is an xDedic-derived buyer case group in the Middle District of Florida. It demonstrates that the marketplace investigation did not stop with high-profile foreign defendants and also produced prison terms for downstream U.S.-based participants.

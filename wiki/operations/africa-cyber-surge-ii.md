@@ -1,6 +1,7 @@
 ---
 operation_role: umbrella
 parent_operation: ""
+summary: "**Africa Cyber Surge II** was a major INTERPOL-AFRIPOL joint operation involving **25 African countries**, resulting in **14 arrests** and the identification of over **20,000 cyber networks** linked to financial losses of more than **$40 million**. The operation targeted a range of cybercrimes including BEC, phishing, and online scams across the African continent."
 ---
 ﻿---
 aliases:

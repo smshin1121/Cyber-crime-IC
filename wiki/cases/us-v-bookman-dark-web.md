@@ -17,14 +17,14 @@ defendants:
 related_operation: "[[operation-us-v-bookman-dark-web]]"
 ic_elements:
   mlat_requests:
-    []
+
   extradition: ""
   evidence_from_abroad:
     - "Dark web sales evidence"
   foreign_arrests:
-    []
+
   asset_freezing:
-    []
+
 cooperating_agencies:
   - "[[us-doj]]"
 legal_frameworks_invoked:
@@ -39,6 +39,7 @@ sources:
   - "[[2025-04-10_mdfl_bookman-dark-web-fentanyl-sentencing]]"
 created: 2026-04-17
 updated: 2026-04-17
+summary: "United States v. Bookman is a severe dark web fentanyl case in which DOJ linked the defendant's online sales to a customer overdose death."
 ---
 ## Summary
 

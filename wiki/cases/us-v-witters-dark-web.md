@@ -4,23 +4,25 @@ title: "United States v. Matthew Witters (Dark Web Fentanyl Dealer)"
 case_number: "W.D. Wash. dark web fentanyl sentencing"
 jurisdiction: "U.S. District Court, Western District of Washington"
 jurisdiction_country: "[[united-states]]"
-case_type: "prosecution"
-status: "sentenced"
+case_type: prosecution
+status: sentenced
 crime_charged:
   - "[[drug-trafficking]]"
 defendants:
   - name: "Matthew Witters"
-    nationality: "American"
-    status: "sentenced"
+    nationality: American
+    status: sentenced
     sentence: "7 years"
     location_at_arrest: "Washington, United States"
-related_operation: ""
+related_operation: "[[operation-us-v-witters-dark-web]]"
 ic_elements:
-  mlat_requests: []
+  mlat_requests:
+    []
   extradition: ""
   evidence_from_abroad:
     - "AlphaBay and Dream Market records"
-  foreign_arrests: []
+  foreign_arrests:
+    []
   asset_freezing:
     - "Approximately USD 1.1 million forfeited"
 cooperating_agencies:
@@ -37,8 +39,8 @@ sources:
   - "[[2019-12-17_wdwa_witters-dark-web-fentanyl-sentencing]]"
 created: 2026-04-17
 updated: 2026-04-17
+summary: "United States v. Witters is a dark web fentanyl case tied to AlphaBay and Dream Market, with more than 2,300 sales and substantial forfeiture proceeds."
 ---
-
 ## Summary
 
 United States v. Witters is a dark web fentanyl case tied to AlphaBay and Dream Market, with more than 2,300 sales and substantial forfeiture proceeds.

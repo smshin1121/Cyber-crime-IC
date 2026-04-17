@@ -44,9 +44,9 @@ participating_countries:
 participating_agencies:
   - "[[fbi-cyber-division]]"
 legal_basis:
-  []
+
 mechanisms_used:
-  []
+
 results:
   arrests: 0
   indictments: 12
@@ -62,7 +62,7 @@ results:
 related_cases:
   - "[[us-v-wu-haibo-isoon]]"
 related_operations:
-  []
+
 challenges_encountered:
   - "All defendants located in China — arrest and extradition highly unlikely"
   - "State-sponsored nature complicates traditional law enforcement cooperation"
@@ -76,6 +76,13 @@ created: 2026-04-08
 updated: 2026-04-08
 operation_role: umbrella
 parent_operation: ""
+summary: "On 5 March 2025, the US Department of Justice announced charges against **12 Chinese nationals** affiliated with Anxun Information Technology Co. Ltd. (i-Soon) and Advanced Persistent Threat 27 (APT27). The defendants included two officers of China's Ministry of Public Security (MPS), eight i-Soon employees, and APT27 members. These actors conducted computer intrusions at the direction of China's MPS and Ministry of State Security (MSS) as well as on their own initiative."
+jurisdictions:
+  - "[[united-states]]"
+organizations:
+  - "[[fbi-cyber-division]]"
+crime_types:
+  - "[[hacking-ic]]"
 ---
 ## Summary
 

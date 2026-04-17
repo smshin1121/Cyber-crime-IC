@@ -4,15 +4,15 @@ title: "United States v. Brian Farrell (Silk Road 2.0)"
 case_number: "W.D. Wash. Silk Road 2.0 sentencing"
 jurisdiction: "U.S. District Court, Western District of Washington"
 jurisdiction_country: "[[united-states]]"
-case_type: "prosecution"
-status: "sentenced"
+case_type: prosecution
+status: sentenced
 crime_charged:
   - "[[online-fraud-ic]]"
   - "[[drug-trafficking]]"
 defendants:
   - name: "Brian Richard Farrell"
-    nationality: "American"
-    status: "sentenced"
+    nationality: American
+    status: sentenced
     sentence: "8 years"
     location_at_arrest: "Bellevue, Washington"
 related_operation: "[[operation-onymous]]"
@@ -22,8 +22,10 @@ ic_elements:
   extradition: ""
   evidence_from_abroad:
     - "Silk Road 2.0 marketplace evidence developed through multinational takedown activity"
-  foreign_arrests: []
-  asset_freezing: []
+  foreign_arrests:
+    []
+  asset_freezing:
+    []
 cooperating_agencies:
   - "[[us-dhs]]"
   - "[[fbi-cyber-division]]"
@@ -42,8 +44,8 @@ sources:
   - "[[2016-06-03_wdwa_farrell-silk-road-2-sentencing]]"
 created: 2026-04-17
 updated: 2026-04-17
+summary: "United States v. Brian Farrell is a secondary but important Silk Road 2.0 case linked to [[operation-onymous|Operation Onymous]]. It demonstrates that the takedown produced punishable outcomes for marketplace staff as well as for the alleged lead operator."
 ---
-
 ## Summary
 
 United States v. Brian Farrell is a secondary but important Silk Road 2.0 case linked to [[operation-onymous|Operation Onymous]]. It demonstrates that the takedown produced punishable outcomes for marketplace staff as well as for the alleged lead operator.

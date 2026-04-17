@@ -17,14 +17,14 @@ defendants:
 related_operation: "[[operation-us-v-john-mckernan-dark-web]]"
 ic_elements:
   mlat_requests:
-    []
+
   extradition: ""
   evidence_from_abroad:
     - "Darknet vendor evidence and bitcoin payments"
   foreign_arrests:
-    []
+
   asset_freezing:
-    []
+
 cooperating_agencies:
   - "[[us-doj]]"
 legal_frameworks_invoked:
@@ -39,6 +39,7 @@ sources:
   - "[[2023-04-07_edva_john-mckernan-darknet-sentencing]]"
 created: 2026-04-17
 updated: 2026-04-17
+summary: "United States v. McKernan is a fentanyl-focused darknet vendor case tied to the moniker `KingofKeys` and supported by controlled purchases and bitcoin payments."
 ---
 ## Summary
 

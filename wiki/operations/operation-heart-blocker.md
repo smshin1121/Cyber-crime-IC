@@ -65,6 +65,18 @@ related_operations:
   - "[[operation-in-re-heartsender-seizure]]"
 operation_role: umbrella
 parent_operation: ""
+summary: "Operation Heart Blocker was a joint US-Dutch law enforcement action on January 29, 2025, targeting the HeartSender cybercrime marketplace network (also known as Saim Raza). The U.S. Department of Justice and the Dutch National Police coordinated the seizure of 39 domains and their associated servers that had been operating since at least 2020 as marketplaces selling phishing kits, credential-stealing tools, email extractors, and scam page generators. These tools were used by transnational organized crime groups to conduct [[bec-ic|business email compromise (BEC)]] schemes, resulting in over $3 million in confirmed US victim losses according to the DOJ (later revised to over $50 million by Pakistan's NCCIA)."
+jurisdictions:
+  - "[[united-states]]"
+  - "[[netherlands]]"
+  - "[[pakistan]]"
+organizations:
+  - "[[us-doj|U.S. Department of Justice]]"
+  - "[[fbi-cyber-division|FBI Cyber Division]]"
+  - "[[netherlands-politie|Dutch National Police (Politie)]]"
+  - "[[pakistan-fia|Pakistan Federal Investigation Agency (FIA / NCCIA)]]"
+crime_types:
+  - "[[bec-ic|Business Email Compromise (BEC)]]"
 ---
 ## Summary
 

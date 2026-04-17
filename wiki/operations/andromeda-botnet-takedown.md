@@ -1,6 +1,7 @@
 ---
 operation_role: umbrella
 parent_operation: ""
+summary: "In late November to early December 2017, an international law enforcement operation dismantled the Andromeda botnet infrastructure. The FBI, German Central Criminal Investigation Office in Luneburg, Europol's European Cybercrime Centre (EC3), the Joint Cybercrime Action Task Force (J-CAT), and Eurojust coordinated with 17 countries and private sector partners including Microsoft to neutralize the botnet. One suspect was arrested in Belarus. The operation disrupted servers and domains used for malware distribution through the Andromeda malware family."
 ---
 ﻿---
 aliases:

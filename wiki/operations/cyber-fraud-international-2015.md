@@ -3,7 +3,7 @@ type: operation
 title: "International Cyber Fraud Dismantling Operation"
 title_ko: "공식 작전명 없음 (국제 사이버 사기 조직 단속)"
 aliases:
-  []
+
 case_id: CYB-2015-002
 period: 1
 operation_type: arrest-sweep
@@ -34,9 +34,9 @@ participating_agencies:
   - "[[polizia-di-stato]]"
   - "[[spanish-national-police]]"
 legal_basis:
-  []
+
 mechanisms_used:
-  []
+
 results:
   arrests: 49
   indictments: 0
@@ -65,13 +65,13 @@ missing_fields:
   - legal_basis
   - mechanisms_used
 related_cases:
-  []
+
 related_operations:
-  []
+
 challenges_encountered:
-  []
+
 lessons_learned:
-  []
+
 source_count: 1
 sources:
   - "[1] Europol News (2015-06)"
@@ -79,6 +79,21 @@ created: 2026-04-08
 updated: 2026-04-08
 operation_role: umbrella
 parent_operation: ""
+summary: "In June 2015, an international law enforcement operation coordinated by Europol and Eurojust dismantled a criminal group engaged in cyber fraud through email account intrusion and financial fraud. The operation resulted in 49 arrests across Italy, Spain, Poland, the United Kingdom, Belgium, and Georgia, with 58 premises searched and criminal proceeds including cash, credit cards, and forged documents seized."
+jurisdictions:
+  - "[[italy]]"
+  - "[[spain]]"
+  - "[[poland]]"
+  - "[[united-kingdom]]"
+  - "[[belgium]]"
+  - "[[georgia]]"
+organizations:
+  - "[[europol-ec3]]"
+  - "[[eurojust]]"
+  - "[[polizia-di-stato]]"
+  - "[[spanish-national-police]]"
+crime_types:
+  - "[[online-fraud-ic]]"
 ---
 ## Summary
 

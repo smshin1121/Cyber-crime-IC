@@ -26,9 +26,9 @@ participating_countries:
 participating_agencies:
   - "[[us-doj]]"
 legal_basis:
-  []
+
 mechanisms_used:
-  []
+
 results:
   arrests: 0
   indictments: 1
@@ -59,16 +59,23 @@ related_cases:
 related_operations:
   - "[[infraud-organization-takedown]]"
 challenges_encountered:
-  []
+
 lessons_learned:
   - "Large-scale cybercrime forum takedowns generate years of follow-up prosecutions"
 source_count: 1
 sources:
-  []
+
 created: 2026-04-08
 updated: 2026-04-08
 operation_role: umbrella
 parent_operation: ""
+summary: "In 2021, **Telusma**, a member of the **Infraud Organization**, was sentenced for his role in the international cybercrime network. This prosecution was a follow-up to the [[infraud-organization-takedown|2018 Infraud Organization takedown]] that resulted in 36 indictments and 13 arrests. The sentencing demonstrated the long tail of prosecutions that follow major cybercrime forum disruptions."
+jurisdictions:
+  - "[[united-states]]"
+organizations:
+  - "[[us-doj]]"
+crime_types:
+  - "[[cybercrime-forum-ic]]"
 ---
 > [!note] This operation is documented from a Tier 3 (cybersecurity media) source. Additional verification from official sources (Tier 1-2) would strengthen data reliability.
 

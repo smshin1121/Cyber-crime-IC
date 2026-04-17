@@ -1,37 +1,37 @@
 ---
 aliases:
-  []
+
 case_id: CYB-2025-002
 challenges_encountered:
-  []
+
 coordinating_body: ""
 created: 2026-04-08
 credibility_index: 2.95
 crime_type: "[[csam-ic]]"
 edges:
-  []
+
 enforcement_type:
-  []
+
 lead_agency: "[[singapore-police|Singapore Police Force]]"
 legal_basis:
-  []
+
 lessons_learned:
-  []
+
 mechanisms_used:
-  []
+
 missing_fields:
-  []
+
 operation_type: arrest-sweep
 outcome: success
 participating_agencies:
-  []
+
 participating_countries:
-  []
+
 period: 3
 related_cases:
-  []
+
 related_operations:
-  []
+
 results:
   arrests: 544
   cryptocurrency_seized: ""
@@ -39,13 +39,13 @@ results:
   domains_seized: 0
   indictments: 0
   other:
-    []
+
   servers_seized: 0
   victims_notified: 0
 source_count: 0
 source_tier: 2
 sources:
-  []
+
 status: completed
 target_entity: "CSAM producers, distributors, and possessors across Asia"
 timeframe:
@@ -58,6 +58,11 @@ type: operation
 updated: 2026-04-08
 operation_role: umbrella
 parent_operation: ""
+summary: "Operation Cyber Guardian (사이버 가디언 작전) was a coordinated 5-week crackdown on child sexual abuse material (CSAM) involving six Asian countries and regions. Initiated by the Singapore Police Force, the operation ran from February 24 to March 28, 2025, resulting in 544 arrests across the region. South Korea's National Investigation Headquarters led the Korean enforcement effort, which accounted for the largest share of arrests."
+organizations:
+  - "[[singapore-police|Singapore Police Force]]"
+crime_types:
+  - "[[csam-ic]]"
 ---
 # Operation Cyber Guardian — Asia 6-Country CSAM Crackdown
 

@@ -17,14 +17,14 @@ defendants:
 related_operation: "[[operation-us-v-peck-dark-web]]"
 ic_elements:
   mlat_requests:
-    []
+
   extradition: ""
   evidence_from_abroad:
     - "Dark web market evidence and cryptocurrency transactions"
   foreign_arrests:
-    []
+
   asset_freezing:
-    []
+
 cooperating_agencies:
   - "[[us-doj]]"
 legal_frameworks_invoked:
@@ -39,6 +39,7 @@ sources:
   - "[[2022-12-01_sdfl_anton-peck-dark-web-sentencing]]"
 created: 2026-04-17
 updated: 2026-04-17
+summary: "United States v. Peck is a dark web narcotics case involving the vendor profile `Syntropy`. DOJ tied the case to large-scale fentanyl, methamphetamine, and heroin distribution through dark web markets."
 ---
 ## Summary
 

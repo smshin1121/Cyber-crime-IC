@@ -17,14 +17,14 @@ defendants:
 related_operation: "[[operation-us-v-catherine-stuckey-dark-web]]"
 ic_elements:
   mlat_requests:
-    []
+
   extradition: ""
   evidence_from_abroad:
     - "Dream Marketplace, Silk Road 3.0, and Nightmare Marketplace records"
   foreign_arrests:
-    []
+
   asset_freezing:
-    []
+
 cooperating_agencies:
   - "[[us-doj]]"
 legal_frameworks_invoked:
@@ -39,6 +39,7 @@ sources:
   - "[[2020-07-15_edca_catherine-stuckey-darknet-plea]]"
 created: 2026-04-17
 updated: 2026-04-17
+summary: "United States v. Stuckey is a guilty-plea case involving heroin, methamphetamine, and cocaine sold through multiple darknet marketplaces."
 ---
 ## Summary
 

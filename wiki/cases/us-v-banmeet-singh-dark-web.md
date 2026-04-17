@@ -41,6 +41,7 @@ sources:
   - "[[2024-01-26_opa_banmeet-singh-dark-web-vendor-plea]]"
 created: 2026-04-17
 updated: 2026-04-17
+summary: "United States v. Banmeet Singh is a major transnational dark web narcotics case involving sales across Silk Road, AlphaBay, Hansa, and other markets. It is one of the most financially significant dark web vendor cases in the dataset."
 ---
 ## Summary
 

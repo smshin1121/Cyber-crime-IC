@@ -27,14 +27,14 @@ defendants:
 related_operation: "[[operation-us-v-dittman-schiffner-langer-dark-web]]"
 ic_elements:
   mlat_requests:
-    []
+
   extradition: ""
   evidence_from_abroad:
     - "Darknet marketplace records"
   foreign_arrests:
-    []
+
   asset_freezing:
-    []
+
 cooperating_agencies:
   - "[[us-doj]]"
 legal_frameworks_invoked:
@@ -49,6 +49,7 @@ sources:
   - "[[2023-07-14_edva_dittman-schiffner-langer-darknet-sentencing]]"
 created: 2026-04-17
 updated: 2026-04-17
+summary: "United States v. Dittman, Schiffner, and Langer is a high-volume darknet fentanyl and methamphetamine case involving multiple vendor aliases and more than 1,300 darknet sales."
 ---
 ## Summary
 

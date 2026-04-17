@@ -1,37 +1,37 @@
 ---
 aliases:
-  []
+
 case_id: CYB-2024-010
 challenges_encountered:
-  []
+
 coordinating_body: "[[afripol]]"
 created: 2026-04-08
 credibility_index: 2.28
 crime_type: "[[bec-ic]]"
 edges:
-  []
+
 enforcement_type:
-  []
+
 lead_agency: "[[interpol-igci]]"
 legal_basis:
-  []
+
 lessons_learned:
-  []
+
 mechanisms_used:
-  []
+
 missing_fields:
-  []
+
 operation_type: arrest-sweep
 outcome: success
 participating_agencies:
-  []
+
 participating_countries:
-  []
+
 period: 3
 related_cases:
-  []
+
 related_operations:
-  []
+
 results:
   arrests: 8
   cryptocurrency_seized: ""
@@ -39,13 +39,13 @@ results:
   domains_seized: 0
   indictments: 0
   other:
-    []
+
   servers_seized: 0
   victims_notified: 0
 source_count: 0
 source_tier: 2
 sources:
-  []
+
 status: completed
 target_entity: "West African cybercriminals operating phishing, BEC, romance scams,"
 timeframe:
@@ -58,6 +58,12 @@ type: operation
 updated: 2026-04-08
 operation_role: umbrella
 parent_operation: ""
+summary: "Operation Contender 2.0 was an INTERPOL-led operation targeting cybercriminals in West Africa, specifically in Cote d'Ivoire and Nigeria. The operation resulted in the arrest of 8 suspects involved in phishing, business email compromise (BEC), romance scams, and cryptocurrency fraud. The operation was part of INTERPOL's ongoing Africa Joint Operation against Cybercrime (AFJOC) programme with private sector intelligence support from Trend Micro and Group-IB."
+organizations:
+  - "[[interpol-igci]]"
+  - "[[afripol]]"
+crime_types:
+  - "[[bec-ic]]"
 ---
 # Operation Contender 2.0
 

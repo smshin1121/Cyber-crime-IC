@@ -1,37 +1,37 @@
 ---
 aliases:
-  []
+
 case_id: CYB-2024-052
 challenges_encountered:
-  []
+
 coordinating_body: ""
 created: 2026-04-08
 credibility_index: 2.18
 crime_type: "[[money-laundering-ic]]"
 edges:
-  []
+
 enforcement_type:
-  []
+
 lead_agency: "[[us-treasury]]"
 legal_basis:
-  []
+
 lessons_learned:
-  []
+
 mechanisms_used:
-  []
+
 missing_fields:
-  []
+
 operation_type: infrastructure-seizure
 outcome: success
 participating_agencies:
-  []
+
 participating_countries:
-  []
+
 period: 3
 related_cases:
-  []
+
 related_operations:
-  []
+
 results:
   arrests: 0
   cryptocurrency_seized: ""
@@ -39,13 +39,13 @@ results:
   domains_seized: 0
   indictments: 0
   other:
-    []
+
   servers_seized: 0
   victims_notified: 0
 source_count: 1
 source_tier: 3
 sources:
-  []
+
 status: completed
 target_entity: "Cryptex and PM2BTC crypto exchanges"
 timeframe:
@@ -59,6 +59,11 @@ type: operation
 updated: 2026-04-08
 operation_role: umbrella
 parent_operation: ""
+summary: "In September 2024, the US Treasury imposed sanctions on **Cryptex** and **PM2BTC**, two Russian-operated cryptocurrency exchanges used to launder proceeds from cybercrime, including ransomware. The Dutch National Police simultaneously seized related infrastructure. This action represented a combined regulatory-enforcement approach to disrupting cybercrime financial infrastructure."
+organizations:
+  - "[[us-treasury]]"
+crime_types:
+  - "[[money-laundering-ic]]"
 ---
 > [!note] This operation is documented from a Tier 3 (cybersecurity media) source. Additional verification from official sources (Tier 1-2) would strengthen data reliability.
 

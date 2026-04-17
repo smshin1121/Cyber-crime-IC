@@ -27,14 +27,14 @@ defendants:
 related_operation: "[[operation-us-v-ogando-dawodu-spencer-dark-web]]"
 ic_elements:
   mlat_requests:
-    []
+
   extradition: ""
   evidence_from_abroad:
     - "AlphaBay, Dream, Wall Street, and Empire market records"
   foreign_arrests:
-    []
+
   asset_freezing:
-    []
+
 cooperating_agencies:
   - "[[us-doj]]"
 legal_frameworks_invoked:
@@ -49,6 +49,7 @@ sources:
   - "[[2023-03-22_ddc_ogando-dawodu-spencer-darknet-sentencing]]"
 created: 2026-04-17
 updated: 2026-04-17
+summary: "United States v. Ogando, Dawodu, and Spencer is a darknet fentanyl conspiracy case spanning AlphaBay, Dream, Wall Street, and Empire, with all three defendants receiving lengthy prison terms."
 ---
 ## Summary
 

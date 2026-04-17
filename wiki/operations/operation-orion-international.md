@@ -1,37 +1,37 @@
 ---
 aliases:
-  []
+
 case_id: CYB-2024-001
 challenges_encountered:
-  []
+
 coordinating_body: "[[interpol-igci]]"
 created: 2026-04-08
 credibility_index: 2.28
 crime_type: "[[csam-ic]]"
 edges:
-  []
+
 enforcement_type:
-  []
+
 lead_agency: "[[interpol-igci]]"
 legal_basis:
-  []
+
 lessons_learned:
-  []
+
 mechanisms_used:
-  []
+
 missing_fields:
-  []
+
 operation_type: arrest-sweep
 outcome: success
 participating_agencies:
-  []
+
 participating_countries:
-  []
+
 period: 3
 related_cases:
-  []
+
 related_operations:
-  []
+
 results:
   arrests: 144
   cryptocurrency_seized: ""
@@ -39,13 +39,13 @@ results:
   domains_seized: 0
   indictments: 0
   other:
-    []
+
   servers_seized: 0
   victims_notified: 0
 source_count: 0
 source_tier: 2
 sources:
-  []
+
 status: completed
 target_entity: "CSAM distributors and producers across South America"
 timeframe:
@@ -58,6 +58,11 @@ type: operation
 updated: 2026-04-08
 operation_role: umbrella
 parent_operation: ""
+summary: "Operation Orion International was an [[interpol-igci|INTERPOL]]-coordinated enforcement operation across 12 South American countries targeting the transnational distribution of child sexual abuse material (CSAM) via instant messaging applications. Running from May to September 2024, the operation resulted in 144 arrests, 20 children rescued, and 7 Red Notice subjects apprehended. The operation was launched from intelligence provided by Chile's cybercrime unit and the Buenos Aires prosecutor's office, with support from [[unodc|UNODC]]."
+organizations:
+  - "[[interpol-igci]]"
+crime_types:
+  - "[[csam-ic]]"
 ---
 # Operation Orion International — South America CSAM Crackdown
 

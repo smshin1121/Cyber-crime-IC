@@ -31,7 +31,7 @@ participating_agencies:
   - "[[us-dhs]]"
   - "[[interpol]]"
 legal_basis:
-  []
+
 mechanisms_used:
   - "[[informal-cooperation]]"
   - "[[public-private-cooperation]]"
@@ -71,11 +71,11 @@ missing_fields:
   - legal_basis
   - cryptocurrency_seized
 related_cases:
-  []
+
 related_operations:
-  []
+
 challenges_encountered:
-  []
+
 lessons_learned:
   - "Private-sector referrals (Microsoft) likely played a role in initial intelligence, though CBI official statements emphasize law enforcement channels"
   - "Multi-phase operations (Chakra I through V) demonstrate sustained commitment to combating tech-support fraud"
@@ -88,6 +88,17 @@ created: 2026-04-10
 updated: 2026-04-10
 operation_role: umbrella
 parent_operation: ""
+summary: "Operation Chakra-III was the third phase of India's Central Bureau of Investigation (CBI) ongoing multi-phase campaign against transnational cyber-enabled financial crime. Launched in July 2024 with case registration RC2312024S0007, the operation targeted tech-support scam call centers operating from multiple Indian cities — principally Gurugram, Mumbai, Pune, Hyderabad, and Visakhapatnam — that defrauded victims in the United States and other countries. The CBI collaborated with the FBI, Homeland Security Investigations (HSI), and [[interpol|INTERPOL]], resulting in 43 arrests and the seizure of substantial evidence including gold bullion, cash, luxury vehicles, and over 950 electronic devices."
+jurisdictions:
+  - "[[india]]"
+  - "[[united-states]]"
+organizations:
+  - "[[cbi-india]]"
+  - "[[interpol]]"
+  - "[[fbi-cyber-division]]"
+  - "[[us-dhs]]"
+crime_types:
+  - "[[online-fraud-ic]]"
 ---
 ## Summary
 

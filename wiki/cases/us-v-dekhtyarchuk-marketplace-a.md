@@ -4,25 +4,28 @@ title: "United States v. Igor Dekhtyarchuk (Marketplace A)"
 case_number: "6:22-cr-00032 (E.D. Tex.)"
 jurisdiction: "U.S. District Court, Eastern District of Texas"
 jurisdiction_country: "[[united-states]]"
-case_type: "prosecution"
-status: "indicted"
+case_type: prosecution
+status: indicted
 crime_charged:
   - "[[carding-fraud-ic]]"
   - "[[online-fraud-ic]]"
 defendants:
   - name: "Igor Dekhtyarchuk"
-    nationality: "Russian"
-    status: "indicted"
+    nationality: Russian
+    status: indicted
     sentence: ""
     location_at_arrest: ""
 related_operation: "[[marketplace-a-dekhtyarchuk-indictment]]"
 ic_elements:
-  mlat_requests: []
+  mlat_requests:
+    []
   extradition: ""
   evidence_from_abroad:
-    - "Latvia"
-  foreign_arrests: []
-  asset_freezing: []
+    - Latvia
+  foreign_arrests:
+    []
+  asset_freezing:
+    []
 cooperating_agencies:
   - "[[fbi-cyber-division]]"
 legal_frameworks_invoked:
@@ -38,8 +41,8 @@ sources:
   - "[[2022-03-22_edtx_marketplace-a-dekhtyarchuk-indictment]]"
 created: 2026-04-17
 updated: 2026-04-17
+summary: "United States v. Igor Dekhtyarchuk is the March 2022 Eastern District of Texas indictment targeting the alleged administrator of \"Marketplace A,\" a cybercriminal marketplace that sold stolen login credentials, personally identifiable information, and authentication tools. The case is *likely* one of the clearer U.S. examples of a cross-border prosecution focused on a single marketplace operator rather than a sprawling conspiracy."
 ---
-
 ## Summary
 
 United States v. Igor Dekhtyarchuk is the March 2022 Eastern District of Texas indictment targeting the alleged administrator of "Marketplace A," a cybercriminal marketplace that sold stolen login credentials, personally identifiable information, and authentication tools. The case is *likely* one of the clearer U.S. examples of a cross-border prosecution focused on a single marketplace operator rather than a sprawling conspiracy.

@@ -1,25 +1,21 @@
 ---
-operation_role: umbrella
-parent_operation: ""
----
-﻿---
 type: operation
 title: "VPNLab.net Takedown"
 aliases:
   - "VPNLab Seizure"
   - "VPNLab.net Shutdown"
-case_id: "CYB-2022-002"
+case_id: CYB-2022-002
 period: 3
-operation_type: "infrastructure-seizure"
-status: "completed"
+operation_type: infrastructure-seizure
+status: completed
 enforcement_type:
   - seizure
   - takedown
-outcome: "success"
+outcome: success
 timeframe:
-  announced: "2022-01-18"
-  start: "2021-01-01"
-  end: "2022-01-17"
+  announced: 2022-01-18
+  start: 2021-01-01
+  end: 2022-01-17
   ongoing: false
 crime_type: "[[ransomware-ic|Ransomware]]"
 target_entity: "VPNLab.net bulletproof VPN service"
@@ -71,28 +67,30 @@ results:
 edges:
   - source_actor: "Hannover Police"
     target_actor: "Europol EC3"
-    cooperation_type: "joint_investigation"
-    legal_basis: "Budapest_Convention"
-    direction: "undirected"
+    cooperation_type: joint_investigation
+    legal_basis: Budapest_Convention
+    direction: undirected
   - source_actor: "Europol EC3"
-    target_actor: "Eurojust"
-    cooperation_type: "info_sharing"
-    legal_basis: "Budapest_Convention"
-    direction: "undirected"
+    target_actor: Eurojust
+    cooperation_type: info_sharing
+    legal_basis: Budapest_Convention
+    direction: undirected
   - source_actor: "Hannover Police"
     target_actor: "Dutch National Police"
-    cooperation_type: "joint_investigation"
-    legal_basis: "Budapest_Convention"
-    direction: "undirected"
+    cooperation_type: joint_investigation
+    legal_basis: Budapest_Convention
+    direction: undirected
   - source_actor: "Hannover Police"
     target_actor: "Latvia State Police"
-    cooperation_type: "evidence_transfer"
-    legal_basis: "MLAT"
-    direction: "directed"
+    cooperation_type: evidence_transfer
+    legal_basis: MLAT
+    direction: directed
 credibility_index: 4.5
 source_tier: 1
-missing_fields: []
-related_cases: []
+missing_fields:
+
+related_cases:
+
 related_operations:
   - "[[doublevpn-takedown|DoubleVPN Takedown]]"
 challenges_encountered:
@@ -104,14 +102,42 @@ lessons_learned:
   - "Seizing customer logs from bulletproof VPN services provides intelligence for future investigations"
 source_count: 4
 sources:
-  - "[Europol press release (2022-01-18)](https://www.europol.europa.eu/media-press/newsroom/news/unhappy-new-year-for-cybercriminals-vpnlabnet-goes-offline)"
-  - "[BleepingComputer (2022-01-18)](https://www.bleepingcomputer.com/news/security/europol-shuts-down-vpn-service-used-by-ransomware-groups/)"
-  - "[The Hacker News (2022-01-18)](https://thehackernews.com/2022/01/europol-shuts-down-vpnlab.html)"
-  - "[CyberScoop (2022-01-18)](https://cyberscoop.com/vpnlab-europol-germany-police-takedown/)"
+  - "[Europol press release (2022-01-18)](https: "//www.europol.europa.eu/media-press/newsroom/news/unhappy-new-year-for-cybercriminals-vpnlabnet-goes-offline)\""
+  - "[BleepingComputer (2022-01-18)](https: "//www.bleepingcomputer.com/news/security/europol-shuts-down-vpn-service-used-by-ransomware-groups/)\""
+  - "[The Hacker News (2022-01-18)](https: "//thehackernews.com/2022/01/europol-shuts-down-vpnlab.html)\""
+  - "[CyberScoop (2022-01-18)](https: "//cyberscoop.com/vpnlab-europol-germany-police-takedown/)\""
 created: 2026-04-10
 updated: 2026-04-11
+operation_role: umbrella
+parent_operation: ""
+summary: "On 17 January 2022, law enforcement authorities from 10 countries, coordinated by [[europol-ec3|Europol]] and supported by [[eurojust|Eurojust]], seized or disrupted the 15 servers hosting VPNLab.net, a [[bulletproof-hosting|bulletproof VPN service]] that had been used by cybercriminals to facilitate ransomware deployment, malware distribution, and other illicit activities since 2008. The operation was led by [[germany-lka|Hannover Police Department (Polizeidirektion Hannover)]] under the EMPACT security framework priority on \"Cybercrime — Attacks Against Information Systems.\" The service had been linked to at least 150 ransomware attacks causing financial damages of at least EUR 60 million. No arrests were made during the action day, but seized customer data was expected to support follow-on investigations."
+jurisdictions:
+  - "[[germany|Germany]]"
+  - "[[netherlands|Netherlands]]"
+  - "[[canada|Canada]]"
+  - "[[czech-republic|Czech Republic]]"
+  - "[[france|France]]"
+  - "[[hungary|Hungary]]"
+  - "[[latvia|Latvia]]"
+  - "[[ukraine|Ukraine]]"
+  - "[[united-kingdom|United Kingdom]]"
+  - "[[united-states|United States]]"
+organizations:
+  - "[[germany-lka|Hannover Police Department (Germany)]]"
+  - "[[europol-ec3|Europol EC3]]"
+  - "[[germany-lka|Hannover Police Department]]"
+  - "[[eurojust|Eurojust]]"
+  - "[[netherlands-politie|Dutch National Police]]"
+  - "[[canada-rcmp|RCMP]]"
+  - "[[czechia-police|Czech Police]]"
+  - "[[france-national-police|French National Police]]"
+  - "[[latvia-state-police|Latvian State Police]]"
+  - "[[ukraine-police|Ukrainian Police]]"
+  - "[[uk-nca|UK NCA]]"
+  - "[[fbi-cyber-division|FBI]]"
+crime_types:
+  - "[[ransomware-ic|Ransomware]]"
 ---
-
 ## Summary
 
 On 17 January 2022, law enforcement authorities from 10 countries, coordinated by [[europol-ec3|Europol]] and supported by [[eurojust|Eurojust]], seized or disrupted the 15 servers hosting VPNLab.net, a [[bulletproof-hosting|bulletproof VPN service]] that had been used by cybercriminals to facilitate ransomware deployment, malware distribution, and other illicit activities since 2008. The operation was led by [[germany-lka|Hannover Police Department (Polizeidirektion Hannover)]] under the EMPACT security framework priority on "Cybercrime — Attacks Against Information Systems." The service had been linked to at least 150 ransomware attacks causing financial damages of at least EUR 60 million. No arrests were made during the action day, but seized customer data was expected to support follow-on investigations.

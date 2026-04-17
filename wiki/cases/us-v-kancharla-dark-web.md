@@ -17,12 +17,12 @@ defendants:
 related_operation: "[[operation-us-v-kancharla-dark-web]]"
 ic_elements:
   mlat_requests:
-    []
+
   extradition: ""
   evidence_from_abroad:
     - "Darknet market evidence"
   foreign_arrests:
-    []
+
   asset_freezing:
     - "Cryptocurrency wallet observed and seized"
 cooperating_agencies:
@@ -39,6 +39,7 @@ sources:
   - "[[2022-05-26_edva_kancharla-darknet-vendor-plea]]"
 created: 2026-04-17
 updated: 2026-04-17
+summary: "United States v. Kancharla is a fentanyl-focused darknet vendor case involving the moniker `OnlyTheFinest` on ToRRez and Dark0de Reborn."
 ---
 ## Summary
 

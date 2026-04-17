@@ -33,14 +33,14 @@ defendants:
 related_operation: "[[operation-us-v-castillo-rosario-vasquez-roman-dark-web]]"
 ic_elements:
   mlat_requests:
-    []
+
   extradition: ""
   evidence_from_abroad:
     - "Darknet vendor-account evidence"
   foreign_arrests:
-    []
+
   asset_freezing:
-    []
+
 cooperating_agencies:
   - "[[us-doj]]"
 legal_frameworks_invoked:
@@ -56,6 +56,7 @@ sources:
   - "[[2025-06-06_edva_castillo-rosario-vasquez-roman-darknet-sentencing]]"
 created: 2026-04-17
 updated: 2026-04-17
+summary: "United States v. Castillo-Rosario et al. is a multi-defendant darknet case involving counterfeit Adderall pills containing methamphetamine."
 ---
 ## Summary
 

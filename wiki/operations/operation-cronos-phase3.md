@@ -1,45 +1,43 @@
 ---
-operation_role: umbrella
-parent_operation: ""
----
-﻿---
 type: operation
 title: "Operation Cronos — Phase 3 (LockBit Arrests and Sanctions)"
-aliases: ["Operation Cronos Phase 3", "LockBit power cut Oct 2024"]
-operation_type: "arrest-sweep"
-status: "completed"
-case_id: "CYB-2024-006"
+aliases:
+  - "Operation Cronos Phase 3"
+  - "LockBit power cut Oct 2024"
+operation_type: arrest-sweep
+status: completed
+case_id: CYB-2024-006
 period: 3
 enforcement_type:
-  - "arrest"
-  - "seizure"
-  - "asset_freeze"
-outcome: "success"
+  - arrest
+  - seizure
+  - asset_freeze
+outcome: success
 credibility_index: 2.28
 source_tier: 2
 edges:
-  - source_actor: "Europol"
+  - source_actor: Europol
     target_actor: "UK NCA"
-    cooperation_type: "joint_investigation"
-    legal_basis: "unknown"
-    direction: "undirected"
-  - source_actor: "Europol"
-    target_actor: "FBI"
-    cooperation_type: "joint_investigation"
-    legal_basis: "unknown"
-    direction: "undirected"
-  - source_actor: "Australia"
+    cooperation_type: joint_investigation
+    legal_basis: unknown
+    direction: undirected
+  - source_actor: Europol
+    target_actor: FBI
+    cooperation_type: joint_investigation
+    legal_basis: unknown
+    direction: undirected
+  - source_actor: Australia
     target_actor: "United Kingdom"
-    cooperation_type: "asset_recovery"
-    legal_basis: "unknown"
-    direction: "undirected"
+    cooperation_type: asset_recovery
+    legal_basis: unknown
+    direction: undirected
 missing_fields:
-  - "legal_basis"
-  - "mechanisms_used"
+  - legal_basis
+  - mechanisms_used
 timeframe:
-  announced: "2024-10-01"
-  start: "2024-10-01"
-  end: "2024-10-01"
+  announced: 2024-10-01
+  start: 2024-10-01
+  end: 2024-10-01
   ongoing: false
 crime_type: "[[ransomware-ic]]"
 target_entity: "LockBit ransomware group affiliates and Evil Corp"
@@ -73,8 +71,10 @@ participating_agencies:
   - "[[netherlands-politie]]"
   - "[[uk-nca]]"
   - "[[fbi-cyber-division]]"
-legal_basis: []
-mechanisms_used: []
+legal_basis:
+
+mechanisms_used:
+
 results:
   arrests: 4
   indictments: 0
@@ -88,10 +88,12 @@ results:
     - "UK sanctioned 15 Russian citizens for Evil Corp involvement"
     - "US sanctioned 6 citizens"
     - "Australia sanctioned 2 citizens"
-related_cases: []
+related_cases:
+
 related_operations:
   - "[[operation-cronos-phase1]]"
-challenges_encountered: []
+challenges_encountered:
+
 lessons_learned:
   - "Phased operations maintain sustained pressure on ransomware groups beyond initial takedown"
   - "Financial sanctions complement criminal enforcement, targeting the economic incentives of ransomware"
@@ -101,8 +103,40 @@ sources:
   - "[[2024-10-01-europol-operation-cronos-lockbit-phase3]]"
 created: 2026-04-08
 updated: 2026-04-08
+operation_role: umbrella
+parent_operation: ""
+summary: "**Operation Cronos Phase 3** was the third phase of the international enforcement campaign against the **LockBit** ransomware group, announced on 1 October 2024. This phase resulted in 4 new arrests across France, the UK, and Spain, the seizure of 9 servers in Spain, and coordinated **financial sanctions** by Australia, the UK, and the US against a prolific LockBit affiliate linked to **Evil Corp**."
+jurisdictions:
+  - "[[australia]]"
+  - "[[canada]]"
+  - "[[france]]"
+  - "[[germany]]"
+  - "[[japan]]"
+  - "[[netherlands]]"
+  - "[[romania]]"
+  - "[[spain]]"
+  - "[[sweden]]"
+  - "[[switzerland]]"
+  - "[[united-kingdom]]"
+  - "[[united-states]]"
+organizations:
+  - "[[europol-ec3]]"
+  - "[[eurojust]]"
+  - "[[australia-afp]]"
+  - "[[canada-rcmp]]"
+  - "[[france-gendarmerie]]"
+  - "[[germany-lka]]"
+  - "[[germany-bka]]"
+  - "[[japan-npa]]"
+  - "[[spain-guardia-civil]]"
+  - "[[sweden-police]]"
+  - "[[switzerland-fedpol]]"
+  - "[[netherlands-politie]]"
+  - "[[uk-nca]]"
+  - "[[fbi-cyber-division]]"
+crime_types:
+  - "[[ransomware-ic]]"
 ---
-
 ## Summary
 
 **Operation Cronos Phase 3** was the third phase of the international enforcement campaign against the **LockBit** ransomware group, announced on 1 October 2024. This phase resulted in 4 new arrests across France, the UK, and Spain, the seizure of 9 servers in Spain, and coordinated **financial sanctions** by Australia, the UK, and the US against a prolific LockBit affiliate linked to **Evil Corp**.

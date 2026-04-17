@@ -1,37 +1,37 @@
 ---
 aliases:
-  []
+
 case_id: CYB-2021-002
 challenges_encountered:
-  []
+
 coordinating_body: "[[interpol]]"
 created: 2026-04-08
 credibility_index: 2.95
 crime_type: "[[online-fraud-ic]]"
 edges:
-  []
+
 enforcement_type:
-  []
+
 lead_agency: "[[interpol]]"
 legal_basis:
-  []
+
 lessons_learned:
-  []
+
 mechanisms_used:
-  []
+
 missing_fields:
-  []
+
 operation_type: arrest-sweep
 outcome: success
 participating_agencies:
-  []
+
 participating_countries:
-  []
+
 period: 2
 related_cases:
-  []
+
 related_operations:
-  []
+
 results:
   arrests: 1003
   cryptocurrency_seized: ""
@@ -39,13 +39,13 @@ results:
   domains_seized: 0
   indictments: 0
   other:
-    []
+
   servers_seized: 0
   victims_notified: 0
 source_count: 2
 source_tier: 2
 sources:
-  []
+
 status: completed
 target_entity: "Online fraud and financial crime networks"
 timeframe:
@@ -59,6 +59,11 @@ type: operation
 updated: 2026-04-09
 operation_role: umbrella
 parent_operation: ""
+summary: "Operation HAECHI-II, led by INTERPOL with participation from 20+ countries and Hong Kong/Macau, was a four-month operation targeting online fraud, illegal online gambling, and money laundering. The operation resulted in over 1,000 arrests and the interception of more than $27 million in illicit funds. Over 2,350 bank accounts linked to criminal proceeds were frozen."
+organizations:
+  - "[[interpol]]"
+crime_types:
+  - "[[online-fraud-ic]]"
 ---
 ## Summary
 

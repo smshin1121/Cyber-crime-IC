@@ -1,37 +1,37 @@
 ---
 aliases:
-  []
+
 case_id: CYB-2024-014
 challenges_encountered:
-  []
+
 coordinating_body: "[[fbi]]"
 created: 2026-04-08
 credibility_index: 4.0
 crime_type: "[[malware-ic]]"
 edges:
-  []
+
 enforcement_type:
-  []
+
 lead_agency: "[[usdoj]]"
 legal_basis:
-  []
+
 lessons_learned:
-  []
+
 mechanisms_used:
-  []
+
 missing_fields:
-  []
+
 operation_type: takedown
 outcome: success
 participating_agencies:
-  []
+
 participating_countries:
-  []
+
 period: 3
 related_cases:
   - "[[us-v-yunhe-wang-911-s5]]"
 related_operations:
-  []
+
 results:
   arrests: 1
   cryptocurrency_seized: ""
@@ -39,13 +39,13 @@ results:
   domains_seized: 0
   indictments: 1
   other:
-    []
+
   servers_seized: 0
   victims_notified: 0
 source_count: 1
 source_tier: 2
 sources:
-  []
+
 status: completed
 target_entity: "911 S5 Botnet"
 timeframe:
@@ -59,6 +59,12 @@ type: operation
 updated: 2026-04-09
 operation_role: umbrella
 parent_operation: ""
+summary: "The U.S. Department of Justice and FBI, in cooperation with Germany, Singapore, and Thailand, dismantled the 911 S5 botnet -- the world's largest botnet, which had infected over 19 million IP addresses across nearly 200 countries. The administrator, YunHe Wang, was arrested. The botnet had been used to facilitate large-scale fraud, identity theft, child sexual exploitation, bomb threats, and illegal financial transactions."
+organizations:
+  - "[[usdoj]]"
+  - "[[fbi]]"
+crime_types:
+  - "[[malware-ic]]"
 ---
 ## Summary
 

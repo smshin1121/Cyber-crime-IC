@@ -17,14 +17,14 @@ defendants:
 related_operation: "[[operation-us-v-lint-dream-market]]"
 ic_elements:
   mlat_requests:
-    []
+
   extradition: ""
   evidence_from_abroad:
     - "Dream Market darknet marketplace evidence"
   foreign_arrests:
-    []
+
   asset_freezing:
-    []
+
 cooperating_agencies:
   - "[[us-doj]]"
 legal_frameworks_invoked:
@@ -39,6 +39,7 @@ sources:
   - "[[2018-12-03_wdwa_lint-dream-market-sentencing]]"
 created: 2026-04-17
 updated: 2026-04-17
+summary: "United States v. Lint is a Dream Market vendor prosecution involving LSD sales and direct physical evidence seized from the defendant's residence."
 ---
 ## Summary
 

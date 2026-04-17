@@ -67,6 +67,13 @@ created: 2026-04-12
 updated: 2026-04-14
 operation_role: umbrella
 parent_operation: ""
+organizations:
+  - "[[fbi-cyber-division]]"
+  - "[[europol-ec3]]"
+  - "[[australia-afp]]"
+crime_types:
+  - "[[organized-crime-ic]]"
+summary: "Operation Trojan Shield (AN0M) is an operation page covering enforcement activity against Transnational organized crime networks using encrypted communications. The operation is currently recorded as `completed`. Recorded outcome: `success`."
 ---
 > [!info] Stub
 > This page was auto-created. It will be expanded when more sources are ingested.

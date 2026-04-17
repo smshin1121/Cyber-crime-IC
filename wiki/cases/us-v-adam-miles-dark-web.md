@@ -18,12 +18,12 @@ defendants:
 related_operation: "[[operation-us-v-adam-miles-dark-web]]"
 ic_elements:
   mlat_requests:
-    []
+
   extradition: ""
   evidence_from_abroad:
     - "Dark web marketplace and cryptocurrency evidence"
   foreign_arrests:
-    []
+
   asset_freezing:
     - "Firearms, ammunition, and USD 61,872 forfeited"
 cooperating_agencies:
@@ -41,6 +41,7 @@ sources:
   - "[[2018-07-13_sdfl_adam-miles-dark-web-sentencing]]"
 created: 2026-04-17
 updated: 2026-04-17
+summary: "United States v. Adam Miles is a dark web vendor case involving narcotics trafficking, money laundering, and forfeiture of weapons and cash."
 ---
 ## Summary
 

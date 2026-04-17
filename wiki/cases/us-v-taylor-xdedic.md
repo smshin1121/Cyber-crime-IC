@@ -4,14 +4,14 @@ title: "United States v. Akinola Taylor (xDedic)"
 case_number: "M.D. Fla. xDedic roundup listing"
 jurisdiction: "U.S. District Court, Middle District of Florida"
 jurisdiction_country: "[[united-states]]"
-case_type: "prosecution"
-status: "convicted"
+case_type: prosecution
+status: convicted
 crime_charged:
   - "[[wire-fraud-statute]]"
 defendants:
   - name: "Akinola Taylor"
-    nationality: "British"
-    status: "convicted"
+    nationality: British
+    status: convicted
     sentence: ""
     location_at_arrest: ""
 related_operation: "[[xdedic-marketplace-takedown]]"
@@ -21,8 +21,10 @@ ic_elements:
   extradition: ""
   evidence_from_abroad:
     - "United Kingdom"
-  foreign_arrests: []
-  asset_freezing: []
+  foreign_arrests:
+    []
+  asset_freezing:
+    []
 cooperating_agencies:
   - "[[fbi-cyber-division]]"
   - "[[us-doj]]"
@@ -39,8 +41,8 @@ sources:
   - "[[2024-01-04_mdfl_taylor-xdedic-summary]]"
 created: 2026-04-17
 updated: 2026-04-17
+summary: "United States v. Akinola Taylor is an xDedic-related wire-fraud case identified in DOJ's 2024 roundup. Taylor had been convicted but not yet sentenced as of January 4, 2024."
 ---
-
 > [!note] Sparse source
 > DOJ's roundup gives only conviction and pending-sentence status.
 

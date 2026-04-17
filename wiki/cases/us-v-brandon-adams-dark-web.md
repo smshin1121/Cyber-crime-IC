@@ -18,12 +18,12 @@ defendants:
 related_operation: "[[operation-us-v-brandon-adams-dark-web]]"
 ic_elements:
   mlat_requests:
-    []
+
   extradition: ""
   evidence_from_abroad:
     - "Darknet marketplace records"
   foreign_arrests:
-    []
+
   asset_freezing:
     - "Nearly USD 1 million forfeited"
 cooperating_agencies:
@@ -40,6 +40,7 @@ sources:
   - "[[2024-05-01_edmo_brandon-adams-darknet-sentencing]]"
 created: 2026-04-17
 updated: 2026-04-17
+summary: "United States v. Brandon Adams is a darknet counterfeit-pill case involving millions of fake Xanax tablets sold under the name `BenzoBoys`."
 ---
 ## Summary
 

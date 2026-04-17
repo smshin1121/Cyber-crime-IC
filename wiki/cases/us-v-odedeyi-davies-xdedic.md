@@ -4,20 +4,20 @@ title: "United States v. Odedeyi and Davies (xDedic U.K. Extradition Case)"
 case_number: "M.D. Fla. xDedic-related indictment"
 jurisdiction: "U.S. District Court, Middle District of Florida"
 jurisdiction_country: "[[united-states]]"
-case_type: "prosecution"
-status: "charged"
+case_type: prosecution
+status: charged
 crime_charged:
   - "[[online-fraud-ic]]"
   - "[[identity-theft]]"
 defendants:
   - name: "Olufemi Odedeyi"
-    nationality: "Nigerian"
-    status: "charged"
+    nationality: Nigerian
+    status: charged
     sentence: ""
     location_at_arrest: "London, United Kingdom"
   - name: "Ibrahim Davies"
     nationality: "British or U.K.-based"
-    status: "charged"
+    status: charged
     sentence: ""
     location_at_arrest: "London, United Kingdom"
 related_operation: "[[xdedic-marketplace-takedown]]"
@@ -29,7 +29,8 @@ ic_elements:
     - "United Kingdom"
   foreign_arrests:
     - "United Kingdom"
-  asset_freezing: []
+  asset_freezing:
+    []
 cooperating_agencies:
   - "[[fbi-cyber-division]]"
   - "[[us-doj]]"
@@ -50,8 +51,8 @@ sources:
   - "[[2021-09-15_mdfl_odedeyi-davies-xdedic-indictment]]"
 created: 2026-04-17
 updated: 2026-04-17
+summary: "United States v. Odedeyi and Davies is the U.K.-arrest branch of an xDedic-related tax-fraud prosecution in the Middle District of Florida. It is useful because it isolates the extradition-facing part of a larger multi-defendant scheme."
 ---
-
 ## Summary
 
 United States v. Odedeyi and Davies is the U.K.-arrest branch of an xDedic-related tax-fraud prosecution in the Middle District of Florida. It is useful because it isolates the extradition-facing part of a larger multi-defendant scheme.

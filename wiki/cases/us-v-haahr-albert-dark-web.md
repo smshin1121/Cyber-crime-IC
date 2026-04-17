@@ -22,14 +22,14 @@ defendants:
 related_operation: "[[operation-us-v-haahr-albert-dark-web]]"
 ic_elements:
   mlat_requests:
-    []
+
   extradition: ""
   evidence_from_abroad:
     - "Dark web marketplace and controlled-purchase evidence"
   foreign_arrests:
-    []
+
   asset_freezing:
-    []
+
 cooperating_agencies:
   - "[[us-doj]]"
 legal_frameworks_invoked:
@@ -44,6 +44,7 @@ sources:
   - "[[2025-09-26_wdwa_haahr-albert-dark-web-plea]]"
 created: 2026-04-17
 updated: 2026-04-17
+summary: "United States v. Haahr and Albert is a recent guilty-plea case tied to dark web fentanyl-pill distribution from Washington state."
 ---
 ## Summary
 

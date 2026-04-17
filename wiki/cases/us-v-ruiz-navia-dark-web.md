@@ -22,14 +22,14 @@ defendants:
 related_operation: "[[operation-us-v-ruiz-navia-dark-web]]"
 ic_elements:
   mlat_requests:
-    []
+
   extradition: ""
   evidence_from_abroad:
     - "Darknet marketplace sales records"
   foreign_arrests:
-    []
+
   asset_freezing:
-    []
+
 cooperating_agencies:
   - "[[us-doj]]"
 legal_frameworks_invoked:
@@ -44,6 +44,7 @@ sources:
   - "[[2025-01-13_cdca_ruiz-navia-darknet-sentencing]]"
 created: 2026-04-17
 updated: 2026-04-17
+summary: "United States v. Ruiz and Navia is a darknet fentanyl supply case involving more than 1,000 customers nationwide and sentences of roughly 18 and 15 years."
 ---
 ## Summary
 

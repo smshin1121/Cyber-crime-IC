@@ -38,14 +38,14 @@ target_entity: "Cybercriminals in Africa targeting ransomware, BEC, digital exto
 lead_agency: "[[interpol-igci]]"
 coordinating_body: "[[afripol]]"
 participating_countries:
-  []
+
 participating_agencies:
   - "[[interpol-igci]]"
   - "[[afripol]]"
 legal_basis:
-  []
+
 mechanisms_used:
-  []
+
 results:
   arrests: 1006
   indictments: 0
@@ -59,12 +59,12 @@ results:
     - "35,000+ victims identified"
     - "USD 193 million in financial losses linked worldwide"
 related_cases:
-  []
+
 related_operations:
   - "[[operation-haechi-v]]"
   - "[[operation-synergia-ii]]"
 challenges_encountered:
-  []
+
 lessons_learned:
   - "INTERPOL-AFRIPOL partnership model demonstrates effective international-regional cooperation"
   - "Donor-funded operations (UK FCDO, Germany, Council of Europe) can enable capacity building through operational activity"
@@ -75,6 +75,12 @@ created: 2026-04-08
 updated: 2026-04-08
 operation_role: umbrella
 parent_operation: ""
+summary: "Operation Serengeti was a joint INTERPOL-[[afripol|AFRIPOL]] operation targeting cybercriminals across **19 African countries** from September to October 2024. The operation resulted in **1,006 arrests** and the dismantling of **134,089 malicious infrastructures and networks**. More than 35,000 victims were identified, with cases linked to nearly **USD 193 million** in financial losses worldwide. The operation was funded by the UK's Foreign, Commonwealth and Development Office, the German Federal Foreign Office, and the Council of Europe."
+organizations:
+  - "[[interpol-igci]]"
+  - "[[afripol]]"
+crime_types:
+  - "[[online-fraud-ic]]"
 ---
 ## Summary
 

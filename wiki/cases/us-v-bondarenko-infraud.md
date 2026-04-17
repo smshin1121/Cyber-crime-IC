@@ -4,51 +4,53 @@ title: "United States v. Bondarenko et al. (Infraud Organization)"
 case_number: "2:18-cr-00014 (D. Nev.)"
 jurisdiction: "U.S. District Court, District of Nevada"
 jurisdiction_country: "[[united-states]]"
-case_type: "prosecution"
-status: "convicted"
+case_type: prosecution
+status: convicted
 crime_charged:
   - "[[online-fraud-ic]]"
   - "[[cybercrime-forum-ic]]"
 defendants:
   - name: "Svyatoslav Bondarenko"
-    nationality: "Ukrainian"
-    status: "indicted"
+    nationality: Ukrainian
+    status: indicted
     sentence: ""
     location_at_arrest: "At large"
   - name: "Sergey Medvedev"
-    nationality: "Russian"
-    status: "sentenced"
+    nationality: Russian
+    status: sentenced
     sentence: "10 years"
-    location_at_arrest: "Thailand"
+    location_at_arrest: Thailand
   - name: "Marko Leopard"
     nationality: "North Macedonian"
-    status: "sentenced"
+    status: sentenced
     sentence: "5 years"
     location_at_arrest: ""
   - name: "John Telusma"
-    nationality: "American"
-    status: "sentenced"
+    nationality: American
+    status: sentenced
     sentence: "4 years"
     location_at_arrest: "Brooklyn, New York"
 related_operation: "[[infraud-organization-takedown]]"
 ic_elements:
-  mlat_requests: []
+  mlat_requests:
+    []
   extradition: "Medvedev (Thailand to US)"
   evidence_from_abroad:
-    - "Australia"
+    - Australia
     - "United Kingdom"
-    - "France"
-    - "Italy"
-    - "Serbia"
+    - France
+    - Italy
+    - Serbia
   foreign_arrests:
-    - "Australia"
+    - Australia
     - "United Kingdom"
-    - "France"
-    - "Italy"
-    - "Kosovo"
-    - "Serbia"
-    - "Thailand"
-  asset_freezing: []
+    - France
+    - Italy
+    - Kosovo
+    - Serbia
+    - Thailand
+  asset_freezing:
+    []
 cooperating_agencies:
   - "[[us-doj]]"
   - "[[fbi-cyber-division]]"
@@ -67,8 +69,8 @@ sources:
   - "[[2018-02-07_nv_infraud-organization-indictment]]"
 created: 2026-04-12
 updated: 2026-04-12
+summary: "United States v. Bondarenko et al. is the prosecution of 36 members of the Infraud Organization, a transnational cybercrime forum that operated from October 2010 to February 2018 under the slogan \"In Fraud We Trust.\" The nine-count superseding indictment, unsealed on 7 February 2018, charged the defendants with racketeering conspiracy (RICO), identity theft, wire fraud, and computer fraud. Actual losses exceeded USD 568 million, with intended losses exceeding USD 2.2 billion."
 ---
-
 ## Summary
 
 United States v. Bondarenko et al. is the prosecution of 36 members of the Infraud Organization, a transnational cybercrime forum that operated from October 2010 to February 2018 under the slogan "In Fraud We Trust." The nine-count superseding indictment, unsealed on 7 February 2018, charged the defendants with racketeering conspiracy (RICO), identity theft, wire fraud, and computer fraud. Actual losses exceeded USD 568 million, with intended losses exceeding USD 2.2 billion.

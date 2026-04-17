@@ -22,7 +22,7 @@ coordinating_body: "[[us-doj]]"
 participating_countries:
   - "[[united-states]]"
 participating_agencies:
-  []
+
 legal_basis:
   - "[[controlled-substances-act]]"
 mechanisms_used:
@@ -38,19 +38,19 @@ results:
   other:
     - "Defendant-specific follow-on action derived from [[us-v-lint-dream-market]]"
 edges:
-  []
+
 credibility_index: 4.0
 source_tier: 1
 missing_fields:
-  []
+
 related_cases:
   - "[[us-v-lint-dream-market]]"
 related_operations:
-  []
+
 challenges_encountered:
-  []
+
 lessons_learned:
-  []
+
 source_count: 1
 sources:
   - "[[2018-12-03_wdwa_lint-dream-market-sentencing]]"
@@ -58,6 +58,13 @@ created: 2026-04-17
 updated: 2026-04-17
 operation_role: follow-on
 parent_operation: ""
+summary: "Allen Lint (Dream Market) Enforcement Action is a defendant-specific enforcement action page derived from [[us-v-lint-dream-market]]. It captures the prosecutorial or seizure stage reflected in the linked case record and preserves the operation-side catalog entry for this follow-on action."
+jurisdictions:
+  - "[[united-states]]"
+organizations:
+  - "[[us-doj]]"
+crime_types:
+  - "[[drug-trafficking]]"
 ---
 ## Summary
 

@@ -1,26 +1,22 @@
 ---
-operation_role: umbrella
-parent_operation: ""
----
-﻿---
 type: operation
 title: "DarkMarket Marketplace Takedown"
 aliases:
   - "DarkMarket Seizure"
   - "DarkMarket Shutdown"
-case_id: "CYB-2021-001"
+case_id: CYB-2021-001
 period: 2
-operation_type: "infrastructure-seizure"
-status: "completed"
+operation_type: infrastructure-seizure
+status: completed
 enforcement_type:
   - arrest
   - seizure
   - takedown
-outcome: "success"
+outcome: success
 timeframe:
-  announced: "2021-01-12"
-  start: "2020-01-01"
-  end: "2021-01-11"
+  announced: 2021-01-12
+  start: 2020-01-01
+  end: 2021-01-11
   ongoing: false
 crime_type: "[[online-fraud-ic|Online Fraud]]"
 target_entity: "DarkMarket darknet marketplace"
@@ -64,28 +60,30 @@ results:
 edges:
   - source_actor: "Germany BKA"
     target_actor: "Europol EC3"
-    cooperation_type: "joint_investigation"
-    legal_basis: "Budapest_Convention"
-    direction: "undirected"
+    cooperation_type: joint_investigation
+    legal_basis: Budapest_Convention
+    direction: undirected
   - source_actor: "Germany BKA"
     target_actor: "Australia AFP"
-    cooperation_type: "info_sharing"
-    legal_basis: "MLAT"
-    direction: "directed"
+    cooperation_type: info_sharing
+    legal_basis: MLAT
+    direction: directed
   - source_actor: "Germany BKA"
     target_actor: "Moldova Police"
-    cooperation_type: "evidence_transfer"
-    legal_basis: "MLAT"
-    direction: "directed"
+    cooperation_type: evidence_transfer
+    legal_basis: MLAT
+    direction: directed
   - source_actor: "Germany BKA"
     target_actor: "Ukraine Police"
-    cooperation_type: "evidence_transfer"
-    legal_basis: "MLAT"
-    direction: "directed"
+    cooperation_type: evidence_transfer
+    legal_basis: MLAT
+    direction: directed
 credibility_index: 4.5
 source_tier: 1
-missing_fields: []
-related_cases: []
+missing_fields:
+
+related_cases:
+
 related_operations:
   - "[[operation-dark-huntor|Operation Dark HunTOR]]"
 challenges_encountered:
@@ -97,14 +95,34 @@ lessons_learned:
   - "Cryptocurrency tracing proved essential for transaction mapping"
 source_count: 4
 sources:
-  - "[Europol press release (2021-01-12)](https://www.europol.europa.eu/media-press/newsroom/news/darkmarket-worlds-largest-illegal-dark-web-marketplace-taken-down)"
-  - "[The Hacker News (2021-01-12)](https://thehackernews.com/2021/01/authorities-take-down-worlds-largest.html)"
-  - "[RFE/RL (2021-01-12)](https://www.rferl.org/a/ukraine-moldova-servers-seized-germany-busts-darknet-operation/31044327.html)"
-  - "[SBS News Australia (2021-01-12)](https://www.sbs.com.au/news/article/australian-man-arrested-in-germany-accused-of-running-worlds-largest-darknet-marketplace/pee58pzoh)"
+  - "[Europol press release (2021-01-12)](https: "//www.europol.europa.eu/media-press/newsroom/news/darkmarket-worlds-largest-illegal-dark-web-marketplace-taken-down)\""
+  - "[The Hacker News (2021-01-12)](https: "//thehackernews.com/2021/01/authorities-take-down-worlds-largest.html)\""
+  - "[RFE/RL (2021-01-12)](https: "//www.rferl.org/a/ukraine-moldova-servers-seized-germany-busts-darknet-operation/31044327.html)\""
+  - "[SBS News Australia (2021-01-12)](https: "//www.sbs.com.au/news/article/australian-man-arrested-in-germany-accused-of-running-worlds-largest-darknet-marketplace/pee58pzoh)\""
 created: 2026-04-10
 updated: 2026-04-11
+operation_role: umbrella
+parent_operation: ""
+summary: "DarkMarket was, at the time of its shutdown on 11 January 2021, the world's largest illegal darknet marketplace by user count. The takedown was led by the cybercrime unit of the Koblenz Public Prosecutor's Office and [[germany-bka|Germany's Federal Criminal Police Office (BKA)]], with coordination through [[europol-ec3|Europol's European Cybercrime Centre (EC3)]]. The operation resulted in the arrest of a 34-year-old Australian national near the German-Danish border, the seizure of more than 20 servers in [[moldova|Moldova]] and [[ukraine|Ukraine]], and the recovery of intelligence on approximately 500,000 users and 2,400 vendors. The intelligence gathered from DarkMarket's infrastructure directly enabled [[operation-dark-huntor|Operation Dark HunTOR]] nine months later, which produced 150 arrests across nine countries."
+jurisdictions:
+  - "[[germany|Germany]]"
+  - "[[australia|Australia]]"
+  - "[[united-kingdom|United Kingdom]]"
+  - "[[united-states|United States]]"
+  - "[[ukraine|Ukraine]]"
+  - "[[moldova|Moldova]]"
+  - "[[denmark|Denmark]]"
+organizations:
+  - "[[germany-bka|German BKA]]"
+  - "[[europol-ec3|Europol EC3]]"
+  - "[[australia-afp|Australian Federal Police]]"
+  - "[[fbi-cyber-division|FBI]]"
+  - "[[uk-nca|UK National Crime Agency]]"
+  - "[[denmark-police|Danish Police]]"
+  - "[[ukraine-police|Ukrainian Police]]"
+crime_types:
+  - "[[online-fraud-ic|Online Fraud]]"
 ---
-
 ## Summary
 
 DarkMarket was, at the time of its shutdown on 11 January 2021, the world's largest illegal darknet marketplace by user count. The takedown was led by the cybercrime unit of the Koblenz Public Prosecutor's Office and [[germany-bka|Germany's Federal Criminal Police Office (BKA)]], with coordination through [[europol-ec3|Europol's European Cybercrime Centre (EC3)]]. The operation resulted in the arrest of a 34-year-old Australian national near the German-Danish border, the seizure of more than 20 servers in [[moldova|Moldova]] and [[ukraine|Ukraine]], and the recovery of intelligence on approximately 500,000 users and 2,400 vendors. The intelligence gathered from DarkMarket's infrastructure directly enabled [[operation-dark-huntor|Operation Dark HunTOR]] nine months later, which produced 150 arrests across nine countries.

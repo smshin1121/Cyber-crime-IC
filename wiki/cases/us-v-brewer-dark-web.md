@@ -17,12 +17,12 @@ defendants:
 related_operation: "[[operation-us-v-brewer-dark-web]]"
 ic_elements:
   mlat_requests:
-    []
+
   extradition: ""
   evidence_from_abroad:
     - "Dark web vendor account evidence tied to Operation DisrupTor"
   foreign_arrests:
-    []
+
   asset_freezing:
     - "USD 50,000 forfeiture"
 cooperating_agencies:
@@ -39,6 +39,7 @@ sources:
   - "[[2021-07-08_ndtx_brewer-operation-disruptor-sentencing]]"
 created: 2026-04-17
 updated: 2026-04-17
+summary: "United States v. Brewer is a dark web narcotics case explicitly tied by DOJ to Operation DisrupTor. It shows how international darknet operations translated into concrete district-court prison sentences."
 ---
 ## Summary
 

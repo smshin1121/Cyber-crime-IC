@@ -76,6 +76,21 @@ created: 2026-04-08
 updated: 2026-04-17
 operation_role: umbrella
 parent_operation: ""
+summary: "Operation WireWire was a coordinated international law enforcement operation led by the U.S. Department of Justice, FBI, Department of Homeland Security, and Treasury Department to disrupt Business Email Compromise (BEC) and Email Account Compromise (EAC) schemes. The operation resulted in 74 arrests across the United States, Nigeria, Canada, Mauritius, and Poland, with approximately $2.4 million seized and $14 million in fraudulent wire transfers intercepted and recovered."
+jurisdictions:
+  - "[[united-states]]"
+  - "[[nigeria]]"
+  - "[[canada]]"
+  - "[[mauritius]]"
+  - "[[poland]]"
+organizations:
+  - "[[fbi]]"
+  - "[[usdoj]]"
+  - "[[us-dhs]]"
+  - "[[us-treasury]]"
+  - "[[us-postal-inspection]]"
+crime_types:
+  - "[[bec-ic]]"
 ---
 ## Summary
 

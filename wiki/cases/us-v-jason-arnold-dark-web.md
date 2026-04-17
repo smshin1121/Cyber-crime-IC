@@ -17,14 +17,14 @@ defendants:
 related_operation: "[[operation-us-v-jason-arnold-dark-web]]"
 ic_elements:
   mlat_requests:
-    []
+
   extradition: ""
   evidence_from_abroad:
     - "Dream Marketplace records"
   foreign_arrests:
-    []
+
   asset_freezing:
-    []
+
 cooperating_agencies:
   - "[[us-doj]]"
 legal_frameworks_invoked:
@@ -39,6 +39,7 @@ sources:
   - "[[2020-03-05_edca_jason-arnold-darknet-plea]]"
 created: 2026-04-17
 updated: 2026-04-17
+summary: "United States v. Arnold is a Dream Marketplace plea case involving vendor accounts used to ship heroin and methamphetamine nationwide."
 ---
 ## Summary
 

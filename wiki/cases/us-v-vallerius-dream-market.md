@@ -4,24 +4,26 @@ title: "United States v. Gal Vallerius (Dream Market)"
 case_number: "S.D. Fla. Dream Market sentencing"
 jurisdiction: "U.S. District Court, Southern District of Florida"
 jurisdiction_country: "[[united-states]]"
-case_type: "prosecution"
-status: "sentenced"
+case_type: prosecution
+status: sentenced
 crime_charged:
   - "[[drug-trafficking]]"
   - "[[money-laundering-ic]]"
 defendants:
   - name: "Gal Vallerius"
-    nationality: "French"
-    status: "sentenced"
+    nationality: French
+    status: sentenced
     sentence: "20 years"
     location_at_arrest: "United States"
-related_operation: ""
+related_operation: "[[operation-us-v-vallerius-dream-market]]"
 ic_elements:
-  mlat_requests: []
+  mlat_requests:
+    []
   extradition: ""
   evidence_from_abroad:
     - "Dark web marketplace evidence and cryptocurrency records"
-  foreign_arrests: []
+  foreign_arrests:
+    []
   asset_freezing:
     - "99.98947177 bitcoin forfeited"
     - "121.94805811 bitcoin cash forfeited"
@@ -41,8 +43,8 @@ sources:
   - "[[2018-08-28_sdfl_vallerius-dream-market-sentencing]]"
 created: 2026-04-17
 updated: 2026-04-17
+summary: "United States v. Vallerius is a significant Dream Market prosecution involving a senior administrator and vendor. It is one of the clearer DOJ cases connecting dark-web marketplace management to both narcotics trafficking and cryptocurrency laundering."
 ---
-
 ## Summary
 
 United States v. Vallerius is a significant Dream Market prosecution involving a senior administrator and vendor. It is one of the clearer DOJ cases connecting dark-web marketplace management to both narcotics trafficking and cryptocurrency laundering.

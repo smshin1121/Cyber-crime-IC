@@ -4,25 +4,28 @@ title: "United States v. Bamidele Omotosho (xDedic Cyber Scams)"
 case_number: "M.D. Fla. xDedic-related cyber-scam prosecution"
 jurisdiction: "U.S. District Court, Middle District of Florida"
 jurisdiction_country: "[[united-states]]"
-case_type: "prosecution"
-status: "sentenced"
+case_type: prosecution
+status: sentenced
 crime_charged:
   - "[[online-fraud-ic]]"
   - "[[identity-theft]]"
 defendants:
   - name: "Bamidele Omotosho"
-    nationality: "Nigerian"
-    status: "sentenced"
+    nationality: Nigerian
+    status: sentenced
     sentence: "12 years and 7 months"
     location_at_arrest: ""
 related_operation: "[[xdedic-marketplace-takedown]]"
 ic_elements:
-  mlat_requests: []
+  mlat_requests:
+    []
   extradition: ""
   evidence_from_abroad:
     - "xDedic-sourced credentials and PII originating from a multinational marketplace investigation"
-  foreign_arrests: []
-  asset_freezing: []
+  foreign_arrests:
+    []
+  asset_freezing:
+    []
 cooperating_agencies:
   - "[[fbi-cyber-division]]"
   - "[[us-doj]]"
@@ -40,8 +43,8 @@ sources:
   - "[[2024-07-23_mdfl_omotosho-xdedic-sentencing]]"
 created: 2026-04-17
 updated: 2026-04-17
+summary: "United States v. Omotosho is a major downstream xDedic case in which stolen credentials and PII purchased from the marketplace were used to run multiple separate fraud schemes. It is one of the clearest examples of the real-world harm xDedic access enabled."
 ---
-
 ## Summary
 
 United States v. Omotosho is a major downstream xDedic case in which stolen credentials and PII purchased from the marketplace were used to run multiple separate fraud schemes. It is one of the clearest examples of the real-world harm xDedic access enabled.

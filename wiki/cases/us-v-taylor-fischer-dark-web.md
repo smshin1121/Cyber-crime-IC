@@ -22,14 +22,14 @@ defendants:
 related_operation: "[[operation-us-v-taylor-fischer-dark-web]]"
 ic_elements:
   mlat_requests:
-    []
+
   extradition: ""
   evidence_from_abroad:
     - "Darknet marketplace evidence"
   foreign_arrests:
-    []
+
   asset_freezing:
-    []
+
 cooperating_agencies:
   - "[[us-doj]]"
 legal_frameworks_invoked:
@@ -44,6 +44,7 @@ sources:
   - "[[2023-08-25_edva_taylor-fischer-darknet-vendors-plea]]"
 created: 2026-04-17
 updated: 2026-04-17
+summary: "United States v. Taylor and Fischer is a dark web vendor conspiracy case involving more than 1,100 darknet sales under multiple monikers."
 ---
 ## Summary
 

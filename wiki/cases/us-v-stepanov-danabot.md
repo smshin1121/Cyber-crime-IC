@@ -4,35 +4,38 @@ title: "United States v. Stepanov et al. (DanaBot — Operation Endgame)"
 case_number: "Pending confirmation"
 jurisdiction: "U.S. federal court (district pending confirmation)"
 jurisdiction_country: "[[united-states]]"
-case_type: "prosecution"
-status: "indicted"
+case_type: prosecution
+status: indicted
 crime_charged:
   - "[[ransomware-ic]]"
   - "[[malware-ic]]"
 defendants:
   - name: "Aleksandr Stepanov"
-    nationality: "Russian"
-    status: "indicted"
+    nationality: Russian
+    status: indicted
     sentence: ""
     location_at_arrest: "At large (Novosibirsk, Russia)"
   - name: "Artem Kalinkin"
-    nationality: "Russian"
-    status: "indicted"
+    nationality: Russian
+    status: indicted
     sentence: ""
     location_at_arrest: "At large (Novosibirsk, Russia)"
 related_operation: "[[operation-endgame-phase2]]"
 ic_elements:
-  mlat_requests: []
+  mlat_requests:
+    []
   extradition: ""
   evidence_from_abroad:
-    - "France"
-    - "Germany"
-    - "Netherlands"
-    - "Denmark"
+    - France
+    - Germany
+    - Netherlands
+    - Denmark
     - "United Kingdom"
-    - "Canada"
-  foreign_arrests: []
-  asset_freezing: []
+    - Canada
+  foreign_arrests:
+    []
+  asset_freezing:
+    []
 cooperating_agencies:
   - "[[fbi-cyber-division]]"
   - "[[europol-ec3]]"
@@ -51,8 +54,8 @@ sources:
   - "[[2025-05-23_doj_danabot-indictment]]"
 created: 2026-04-12
 updated: 2026-04-12
+summary: "United States v. Stepanov et al. is the 16-count indictment of 16 Russian nationals for operating the DanaBot malware network, announced on 23 May 2025 as part of [[operation-endgame-phase2|Operation Endgame Phase 2]]. DanaBot infected 300,000+ computers worldwide and caused an estimated USD 50 million+ in financial damages. The malware served dual purposes: cybercrime (credential theft, fraud) and espionage (targeting government and military entities)."
 ---
-
 ## Summary
 
 United States v. Stepanov et al. is the 16-count indictment of 16 Russian nationals for operating the DanaBot malware network, announced on 23 May 2025 as part of [[operation-endgame-phase2|Operation Endgame Phase 2]]. DanaBot infected 300,000+ computers worldwide and caused an estimated USD 50 million+ in financial damages. The malware served dual purposes: cybercrime (credential theft, fraud) and espionage (targeting government and military entities).

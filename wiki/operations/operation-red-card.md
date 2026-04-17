@@ -1,37 +1,37 @@
 ---
 aliases:
-  []
+
 case_id: CYB-2024-011
 challenges_encountered:
-  []
+
 coordinating_body: "[[afripol]]"
 created: 2026-04-08
 credibility_index: 2.95
 crime_type: "[[online-fraud-ic]]"
 edges:
-  []
+
 enforcement_type:
-  []
+
 lead_agency: "[[interpol-igci]]"
 legal_basis:
-  []
+
 lessons_learned:
-  []
+
 mechanisms_used:
-  []
+
 missing_fields:
-  []
+
 operation_type: arrest-sweep
 outcome: success
 participating_agencies:
-  []
+
 participating_countries:
-  []
+
 period: 3
 related_cases:
-  []
+
 related_operations:
-  []
+
 results:
   arrests: 306
   cryptocurrency_seized: ""
@@ -39,13 +39,13 @@ results:
   domains_seized: 0
   indictments: 0
   other:
-    []
+
   servers_seized: 0
   victims_notified: 5000
 source_count: 0
 source_tier: 2
 sources:
-  []
+
 status: completed
 target_entity: "Cybercriminals operating mobile banking fraud, investment scams, SIM"
 timeframe:
@@ -58,6 +58,12 @@ type: operation
 updated: 2026-04-08
 operation_role: umbrella
 parent_operation: ""
+summary: "Operation Red Card was an INTERPOL-led international law enforcement operation conducted between November 2024 and February 2025, targeting cybercrime networks operating across seven African countries. The operation resulted in 306 arrests and the seizure of 1,842 devices, while identifying over 5,000 victims. It focused on mobile banking fraud, investment platform scams, messaging app scams, SIM box fraud, and malware distribution."
+organizations:
+  - "[[interpol-igci]]"
+  - "[[afripol]]"
+crime_types:
+  - "[[online-fraud-ic]]"
 ---
 # Operation Red Card
 

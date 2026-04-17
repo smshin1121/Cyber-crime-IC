@@ -67,9 +67,9 @@ participating_countries:
 participating_agencies:
   - "[[interpol-igci]]"
 legal_basis:
-  []
+
 mechanisms_used:
-  []
+
 results:
   arrests: 103
   indictments: 0
@@ -83,11 +83,11 @@ results:
     - "208 bank accounts blocked"
     - "EUR 2.15 million seized/frozen"
 related_cases:
-  []
+
 related_operations:
   - "[[operation-jackal-iii]]"
 challenges_encountered:
-  []
+
 lessons_learned:
   - "Dedicated operations targeting specific organized crime groups (Black Axe) can mobilize 21-country coordination"
   - "BEC enforcement requires parallel financial account blocking across multiple jurisdictions"
@@ -98,6 +98,33 @@ created: 2026-04-08
 updated: 2026-04-08
 operation_role: umbrella
 parent_operation: ""
+summary: "Operation Jackal was INTERPOL's first dedicated operation targeting **Black Axe** and similar West African organized crime groups, coordinated from 15 to 29 May 2023 across **21 countries** on five continents. The operation resulted in **103 arrests**, identification of **1,110 suspects**, blocking of **208 bank accounts**, and seizure/freezing of **EUR 2.15 million**. Black Axe is identified as responsible for the majority of the world's cyber-enabled financial fraud, particularly business email compromise (BEC)."
+jurisdictions:
+  - Argentina
+  - Australia
+  - Belgium
+  - Brazil
+  - Canada
+  - "Cote d'Ivoire"
+  - France
+  - Germany
+  - Indonesia
+  - Ireland
+  - Italy
+  - Malaysia
+  - Netherlands
+  - Nigeria
+  - Portugal
+  - "South Africa"
+  - Spain
+  - Switzerland
+  - "United Arab Emirates"
+  - "United Kingdom"
+  - "United States"
+organizations:
+  - "[[interpol-igci]]"
+crime_types:
+  - "[[bec-ic]]"
 ---
 ## Summary
 

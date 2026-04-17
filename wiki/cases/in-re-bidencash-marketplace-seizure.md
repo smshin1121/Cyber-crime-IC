@@ -4,24 +4,25 @@ title: "In re Seizure of BidenCash Marketplace Domains"
 case_number: "EDVA seizure warrants (numbers not publicly disclosed)"
 jurisdiction: "U.S. District Court, Eastern District of Virginia"
 jurisdiction_country: "[[united-states]]"
-case_type: "civil-seizure"
-status: "trial-pending"
+case_type: civil-seizure
+status: trial-pending
 crime_charged:
   - "[[carding-fraud-ic]]"
 defendants:
   - name: "Unknown BidenCash administrators"
-    nationality: "Unknown"
-    status: "fugitive"
+    nationality: Unknown
+    status: fugitive
     sentence: ""
     location_at_arrest: ""
 related_operation: "[[bidencash-takedown]]"
 ic_elements:
   mlat_requests:
-    - "Netherlands"
+    - Netherlands
   extradition: ""
   evidence_from_abroad:
-    - "Netherlands"
-  foreign_arrests: []
+    - Netherlands
+  foreign_arrests:
+    []
   asset_freezing:
     - "Cryptocurrency funds tied to BidenCash"
 cooperating_agencies:
@@ -43,8 +44,8 @@ sources:
   - "[[2025-06-04_edva_bidencash-marketplace-seizure]]"
 created: 2026-04-17
 updated: 2026-04-17
+summary: "In re Seizure of BidenCash Marketplace Domains is the Eastern District of Virginia seizure matter used to dismantle BidenCash infrastructure in June 2025. The case is *likely* one of the better recent examples in the repository of a court-authorized cybercrime market disruption that prioritized domains and cryptocurrency over named defendants."
 ---
-
 ## Summary
 
 In re Seizure of BidenCash Marketplace Domains is the Eastern District of Virginia seizure matter used to dismantle BidenCash infrastructure in June 2025. The case is *likely* one of the better recent examples in the repository of a court-authorized cybercrime market disruption that prioritized domains and cryptocurrency over named defendants.

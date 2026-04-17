@@ -17,14 +17,14 @@ defendants:
 related_operation: "[[operation-us-v-aragon-dark-web]]"
 ic_elements:
   mlat_requests:
-    []
+
   extradition: ""
   evidence_from_abroad:
     - "Dark web purchase evidence and intercepted parcels"
   foreign_arrests:
-    []
+
   asset_freezing:
-    []
+
 cooperating_agencies:
   - "[[us-doj]]"
 legal_frameworks_invoked:
@@ -39,6 +39,7 @@ sources:
   - "[[2026-01-16_or_aragon-dark-web-cocaine-sentencing]]"
 created: 2026-04-17
 updated: 2026-04-17
+summary: "United States v. Aragon is a dark web cocaine-purchase case involving intercepted parcels and attempted redistribution."
 ---
 ## Summary
 

@@ -1,25 +1,24 @@
 ---
-operation_role: umbrella
-parent_operation: ""
----
-﻿---
 type: operation
 title: "BlackCat/ALPHV, LockerGoga, and Kelvin Security Enforcement Actions (Dec 2023)"
 title_ko: "BlackCat/ALPHV, LockerGoga, Kelvin Security 단속 (2023년 12월)"
-aliases: ["BlackCat ALPHV takedown Dec 2023", "LockerGoga arrests", "Kelvin Security arrests"]
-case_id: "CYB-2023-051"
+aliases:
+  - "BlackCat ALPHV takedown Dec 2023"
+  - "LockerGoga arrests"
+  - "Kelvin Security arrests"
+case_id: CYB-2023-051
 period: 3
-operation_type: "arrest-sweep"
-status: "completed"
+operation_type: arrest-sweep
+status: completed
 enforcement_type:
-  - "arrest"
-  - "takedown"
-  - "seizure"
-outcome: "success"
+  - arrest
+  - takedown
+  - seizure
+outcome: success
 timeframe:
-  announced: "2023-12-19"
-  start: "2023-12-01"
-  end: "2023-12-31"
+  announced: 2023-12-19
+  start: 2023-12-01
+  end: 2023-12-31
   ongoing: false
 crime_type: "[[ransomware-ic]]"
 target_entity: "BlackCat/ALPHV, LockerGoga, Kelvin Security"
@@ -33,8 +32,10 @@ participating_countries:
 participating_agencies:
   - "[[fbi-cyber-division]]"
   - "[[europol-ec3]]"
-legal_basis: []
-mechanisms_used: []
+legal_basis:
+
+mechanisms_used:
+
 results:
   arrests: 0
   indictments: 0
@@ -49,30 +50,46 @@ results:
     - "Kelvin Security hacking group member arrested"
     - "Multiple enforcement actions in December 2023"
 edges:
-  - source_actor: "FBI"
-    target_actor: "Europol"
-    cooperation_type: "joint_investigation"
-    legal_basis: "unknown"
-    direction: "undirected"
+  - source_actor: FBI
+    target_actor: Europol
+    cooperation_type: joint_investigation
+    legal_basis: unknown
+    direction: undirected
 credibility_index: 1.88
 source_tier: 3
 missing_fields:
-  - "legal_basis"
-  - "mechanisms_used"
-  - "exact_arrest_counts"
-  - "exact_seizure_counts"
-  - "url"
-related_cases: []
-related_operations: []
-challenges_encountered: []
+  - legal_basis
+  - mechanisms_used
+  - exact_arrest_counts
+  - exact_seizure_counts
+  - url
+related_cases:
+
+related_operations:
+
+challenges_encountered:
+
 lessons_learned:
   - "Coordinated enforcement sweeps targeting multiple ransomware groups simultaneously increase pressure on the ecosystem"
 source_count: 1
-sources: []
+sources:
+
 created: 2026-04-08
 updated: 2026-04-08
+operation_role: umbrella
+parent_operation: ""
+summary: "In December 2023, a series of coordinated international enforcement actions targeted multiple cybercrime groups simultaneously:"
+jurisdictions:
+  - "[[united-states]]"
+  - "[[norway]]"
+  - "[[ukraine]]"
+  - "[[spain]]"
+organizations:
+  - "[[fbi-cyber-division]]"
+  - "[[europol-ec3]]"
+crime_types:
+  - "[[ransomware-ic]]"
 ---
-
 > [!note] This operation is documented from a Tier 3 (cybersecurity media) source. Additional verification from official sources (Tier 1-2) would strengthen data reliability.
 
 ## Summary

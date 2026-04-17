@@ -23,9 +23,9 @@ ic_elements:
     - "Hong Kong import evidence"
     - "Darknet marketplace records"
   foreign_arrests:
-    []
+
   asset_freezing:
-    []
+
 cooperating_agencies:
   - "[[us-doj]]"
 legal_frameworks_invoked:
@@ -40,6 +40,7 @@ sources:
   - "[[2021-07-30_sdny_okparaeke-fentmaster-dark-web-sentencing]]"
 created: 2026-04-17
 updated: 2026-04-17
+summary: "United States v. Okparaeke is a severe darknet opioids case involving the vendor `Fentmaster`, international imports from Hong Kong, and an overdose death."
 ---
 ## Summary
 

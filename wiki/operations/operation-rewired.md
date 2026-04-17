@@ -106,6 +106,26 @@ created: 2026-04-10
 updated: 2026-04-11
 operation_role: umbrella
 parent_operation: ""
+summary: "Operation reWired was a coordinated international law enforcement operation targeting Business Email Compromise (BEC) schemes, announced on 10 September 2019. Led by the [[fbi-cyber-division|FBI]] and coordinated by the [[us-doj|US Department of Justice]] through the International Organized Crime Intelligence and Operations Center (IOC-2), the four-month operation resulted in 281 arrests across 10 countries, the seizure of approximately USD 3.7 million, and the disruption or recovery of approximately USD 118 million in fraudulent wire transfers. The operation was the successor to [[operation-wirewire|Operation WireWire]] (2018) and represented the largest coordinated BEC enforcement action at the time."
+jurisdictions:
+  - "[[united-states]]"
+  - "[[nigeria]]"
+  - "[[turkey]]"
+  - "[[ghana]]"
+  - "[[france]]"
+  - "[[italy]]"
+  - "[[japan]]"
+  - "[[kenya]]"
+  - "[[malaysia]]"
+  - "[[united-kingdom]]"
+organizations:
+  - "[[fbi-cyber-division|FBI]]"
+  - "[[us-doj|US Department of Justice]]"
+  - "[[us-secret-service|US Secret Service]]"
+  - "[[us-dhs|US Department of Homeland Security]]"
+  - "[[ic3|Internet Crime Complaint Center (IC3)]]"
+crime_types:
+  - "[[bec-ic]]"
 ---
 ## Summary
 

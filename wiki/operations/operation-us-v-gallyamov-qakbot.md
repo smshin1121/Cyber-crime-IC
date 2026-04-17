@@ -59,6 +59,13 @@ created: 2026-04-17
 updated: 2026-04-17
 operation_role: follow-on
 parent_operation: "[[qakbot-gallyamov-indictment]]"
+summary: "Gallyamov (QakBot) Enforcement Action is a defendant-specific enforcement action page derived from [[us-v-gallyamov-qakbot]]. It captures the prosecutorial or seizure stage reflected in the linked case record and preserves the operation-side catalog entry for this follow-on action."
+jurisdictions:
+  - "[[united-states]]"
+organizations:
+  - "[[fbi-cyber-division]]"
+crime_types:
+  - "[[ransomware-ic]]"
 ---
 ## Summary
 

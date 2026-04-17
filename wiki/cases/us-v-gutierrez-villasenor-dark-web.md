@@ -17,14 +17,14 @@ defendants:
 related_operation: "[[operation-us-v-gutierrez-villasenor-dark-web]]"
 ic_elements:
   mlat_requests:
-    []
+
   extradition: ""
   evidence_from_abroad:
     - "Darknet vendor site evidence"
   foreign_arrests:
-    []
+
   asset_freezing:
-    []
+
 cooperating_agencies:
   - "[[us-doj]]"
 legal_frameworks_invoked:
@@ -39,6 +39,7 @@ sources:
   - "[[2019-04-12_ndca_gutierrez-villasenor-darknet-sentencing]]"
 created: 2026-04-17
 updated: 2026-04-17
+summary: "United States v. Gutierrez-Villasenor is a JetSetLife darknet vendor case resulting in a 10-year sentence."
 ---
 ## Summary
 

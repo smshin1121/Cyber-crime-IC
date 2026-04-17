@@ -1,37 +1,37 @@
 ---
 aliases:
-  []
+
 case_id: CYB-2024-013
 challenges_encountered:
-  []
+
 coordinating_body: "[[europol-ec3]]"
 created: 2026-04-08
 credibility_index: 3.25
 crime_type: "[[online-fraud-ic]]"
 edges:
-  []
+
 enforcement_type:
-  []
+
 lead_agency: "[[german-police]]"
 legal_basis:
-  []
+
 lessons_learned:
-  []
+
 mechanisms_used:
-  []
+
 missing_fields:
-  []
+
 operation_type: takedown
 outcome: success
 participating_agencies:
-  []
+
 participating_countries:
-  []
+
 period: 3
 related_cases:
-  []
+
 related_operations:
-  []
+
 results:
   arrests: 2
   cryptocurrency_seized: ""
@@ -39,13 +39,13 @@ results:
   domains_seized: 0
   indictments: 0
   other:
-    []
+
   servers_seized: 50
   victims_notified: 0
 source_count: 1
 source_tier: 2
 sources:
-  []
+
 status: completed
 target_entity: "Cybercrime marketplace-linked fraudulent shopping sites"
 timeframe:
@@ -59,6 +59,12 @@ type: operation
 updated: 2026-04-08
 operation_role: umbrella
 parent_operation: ""
+summary: "Europol and German police from Hannover, with the Verden prosecution office and European partner countries, took down a network of fraudulent online shopping sites tied to a cybercrime marketplace. The investigation began in autumn 2022 and culminated in the seizure of 50+ servers, the arrest of 2 key suspects, and the recovery of over 200 TB of digital evidence. The operation involved cooperation from Austria, Finland, the Netherlands, and Norway."
+organizations:
+  - "[[german-police]]"
+  - "[[europol-ec3]]"
+crime_types:
+  - "[[online-fraud-ic]]"
 ---
 ## Summary
 

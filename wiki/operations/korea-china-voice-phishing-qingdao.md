@@ -39,9 +39,9 @@ participating_agencies:
   - "[[seoul-metropolitan-police]]"
   - "Chinese Police (Qingdao)"
 legal_basis:
-  []
+
 mechanisms_used:
-  []
+
 results:
   arrests: 16
   indictments: 0
@@ -55,11 +55,11 @@ results:
     - "China-based call centre in Qingdao dismantled"
     - "Ringleader (38-year-old Chinese national) arrested"
 related_cases:
-  []
+
 related_operations:
   - "[[operation-haechi-v]]"
 challenges_encountered:
-  []
+
 lessons_learned:
   - "Bilateral Korea-China cooperation can effectively target China-based voice phishing call centres"
   - "First significant joint operation under Seoul-Beijing bilateral agreement establishes precedent"
@@ -70,6 +70,15 @@ created: 2026-04-08
 updated: 2026-04-08
 operation_role: umbrella
 parent_operation: ""
+summary: "The Seoul Metropolitan Police Agency (SMPA), in cooperation with Chinese police in Qingdao, arrested **16 suspects** (3 Chinese nationals, 13 Koreans) for voice phishing scams that extorted **KRW 2.7 billion (USD 2 million)** from **68 victims** between December 2022 and August 2023. This was reported as the **first significant joint Korea-China voice phishing roundup** under a bilateral cooperation agreement between Seoul and Beijing law enforcement."
+jurisdictions:
+  - "[[south-korea]]"
+  - China
+organizations:
+  - "[[seoul-metropolitan-police]]"
+  - "Chinese Police (Qingdao)"
+crime_types:
+  - "[[voice-phishing-ic]]"
 ---
 ## Summary
 

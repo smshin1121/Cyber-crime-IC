@@ -1,6 +1,7 @@
 ---
 operation_role: umbrella
 parent_operation: ""
+summary: "Operation Avalanche, launched from a German investigation in 2012 and culminating on November 30, 2016, dismantled the world's largest phishing, spam, and malware distribution network known as \"Avalanche.\" Europol, INTERPOL, FBI, and law enforcement agencies from 30+ countries, along with private cybersecurity firms, coordinated to block over 800,000 malicious domains, seize 221 servers, and arrest 5 suspects. The network had victimized users in over 180 countries through online banking hacking, phishing, spam, and malware distribution."
 ---
 ﻿---
 aliases:

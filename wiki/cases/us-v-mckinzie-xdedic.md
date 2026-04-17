@@ -4,26 +4,28 @@ title: "United States v. Harold McKinzie (xDedic)"
 case_number: "M.D. Fla. xDedic roundup listing"
 jurisdiction: "U.S. District Court, Middle District of Florida"
 jurisdiction_country: "[[united-states]]"
-case_type: "prosecution"
-status: "sentenced"
+case_type: prosecution
+status: sentenced
 crime_charged:
   - "[[wire-fraud-statute]]"
 defendants:
   - name: "Harold McKinzie"
-    nationality: "American"
-    status: "sentenced"
+    nationality: American
+    status: sentenced
     sentence: "5 years probation"
     location_at_arrest: "United States"
 related_operation: "[[xdedic-marketplace-takedown]]"
 ic_elements:
   mlat_requests:
-    - "Belgium"
-    - "Ukraine"
+    - Belgium
+    - Ukraine
   extradition: ""
   evidence_from_abroad:
     - "Multinational xDedic marketplace evidence"
-  foreign_arrests: []
-  asset_freezing: []
+  foreign_arrests:
+    []
+  asset_freezing:
+    []
 cooperating_agencies:
   - "[[fbi-cyber-division]]"
   - "[[us-doj]]"
@@ -39,8 +41,8 @@ sources:
   - "[[2024-01-04_mdfl_mckinzie-xdedic-summary]]"
 created: 2026-04-17
 updated: 2026-04-17
+summary: "United States v. Harold McKinzie is an xDedic-related case identified in DOJ's 2024 roundup. DOJ states that McKinzie was convicted of wire fraud and received five years of probation."
 ---
-
 > [!note] Sparse source
 > DOJ's official roundup provides sentence and offense but not detailed underlying facts.
 

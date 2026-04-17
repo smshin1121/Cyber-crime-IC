@@ -4,42 +4,42 @@ title: "United States v. Yakubets and Turashev (Dridex/Evil Corp)"
 case_number: "W.D. Pa. (10-count); D. Neb."
 jurisdiction: "U.S. District Court, Western District of Pennsylvania; U.S. District Court, District of Nebraska"
 jurisdiction_country: "[[united-states]]"
-case_type: "prosecution"
-status: "indicted"
+case_type: prosecution
+status: indicted
 crime_charged:
   - "[[online-fraud-ic]]"
   - "[[malware-ic]]"
 defendants:
   - name: "Maksim V. Yakubets"
-    nationality: "Russian"
-    status: "fugitive"
+    nationality: Russian
+    status: fugitive
     sentence: ""
     location_at_arrest: "At large (Moscow, Russia)"
   - name: "Igor Turashev"
-    nationality: "Russian"
-    status: "fugitive"
+    nationality: Russian
+    status: fugitive
     sentence: ""
     location_at_arrest: "At large (Russia)"
   - name: "Andrey Ghinkul"
-    nationality: "Moldovan"
-    status: "sentenced"
+    nationality: Moldovan
+    status: sentenced
     sentence: "Time served"
-    location_at_arrest: "Cyprus"
+    location_at_arrest: Cyprus
 related_operation: "[[dridex-operations]]"
 ic_elements:
   mlat_requests:
     - "United Kingdom"
-    - "Moldova"
+    - Moldova
   extradition: "Ghinkul (Cyprus to US, 2016)"
   evidence_from_abroad:
     - "United Kingdom"
-    - "Germany"
-    - "Moldova"
-    - "Cyprus"
+    - Germany
+    - Moldova
+    - Cyprus
   foreign_arrests:
     - "Cyprus (Ghinkul, August 2015)"
   asset_freezing:
-    - "OFAC sanctions: 17 individuals, 7 entities (Evil Corp)"
+    - "OFAC sanctions: "17 individuals, 7 entities (Evil Corp)\""
 cooperating_agencies:
   - "[[fbi-cyber-division]]"
   - "[[uk-nca]]"
@@ -60,8 +60,8 @@ sources:
   - "[[2015-10-13_wdpa_ghinkul-bugat-dridex-indictment]]"
 created: 2026-04-12
 updated: 2026-04-12
+summary: "United States v. Yakubets and Turashev is the December 2019 indictment of Maksim V. Yakubets (aka \"aqua\"), leader of the Evil Corp cybercriminal organization, and Igor Turashev for conspiracy, computer hacking, wire fraud, and bank fraud related to the Dridex (Bugat/Cridex) banking trojan. The Dridex malware infected computers in 40+ countries and caused over USD 100 million in theft."
 ---
-
 ## Summary
 
 United States v. Yakubets and Turashev is the December 2019 indictment of Maksim V. Yakubets (aka "aqua"), leader of the Evil Corp cybercriminal organization, and Igor Turashev for conspiracy, computer hacking, wire fraud, and bank fraud related to the Dridex (Bugat/Cridex) banking trojan. The Dridex malware infected computers in 40+ countries and caused over USD 100 million in theft.

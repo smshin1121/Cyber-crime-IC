@@ -4,14 +4,14 @@ title: "United States v. Michael Paiva (Silk Road 2.0 Purchaser)"
 case_number: "W.D. Mich. Silk Road 2.0 purchaser sentencing"
 jurisdiction: "U.S. District Court, Western District of Michigan"
 jurisdiction_country: "[[united-states]]"
-case_type: "prosecution"
-status: "sentenced"
+case_type: prosecution
+status: sentenced
 crime_charged:
   - "[[drug-trafficking]]"
 defendants:
   - name: "Michael Carlton Paiva"
-    nationality: "American"
-    status: "sentenced"
+    nationality: American
+    status: sentenced
     sentence: "30 months"
     location_at_arrest: "Michigan, United States"
 related_operation: "[[operation-onymous]]"
@@ -21,8 +21,10 @@ ic_elements:
   extradition: ""
   evidence_from_abroad:
     - "Marketplace data recovered after Silk Road 2.0 takedown"
-  foreign_arrests: []
-  asset_freezing: []
+  foreign_arrests:
+    []
+  asset_freezing:
+    []
 cooperating_agencies:
   - "[[fbi-cyber-division]]"
   - "[[us-doj]]"
@@ -38,8 +40,8 @@ sources:
   - "[[2017-03-09_wdmi_paiva-silk-road-2-sentencing]]"
 created: 2026-04-17
 updated: 2026-04-17
+summary: "United States v. Paiva is a domestic follow-on prosecution arising from the Silk Road 2.0 takedown. It shows how Operation Onymous generated actionable purchaser data that could be used in local narcotics prosecutions."
 ---
-
 ## Summary
 
 United States v. Paiva is a domestic follow-on prosecution arising from the Silk Road 2.0 takedown. It shows how Operation Onymous generated actionable purchaser data that could be used in local narcotics prosecutions.

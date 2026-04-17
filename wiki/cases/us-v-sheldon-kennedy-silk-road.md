@@ -4,25 +4,28 @@ title: "United States v. Sheldon Kennedy (Silk Road Vendor)"
 case_number: "D. Md. Silk Road sentencing"
 jurisdiction: "U.S. District Court, District of Maryland"
 jurisdiction_country: "[[united-states]]"
-case_type: "prosecution"
-status: "sentenced"
+case_type: prosecution
+status: sentenced
 crime_charged:
   - "[[drug-trafficking]]"
   - "[[counterfeit-goods]]"
 defendants:
   - name: "Sheldon Kennedy"
-    nationality: "American"
-    status: "sentenced"
+    nationality: American
+    status: sentenced
     sentence: "2 years"
     location_at_arrest: "Nebraska, United States"
 related_operation: "[[silk-road-takedown]]"
 ic_elements:
-  mlat_requests: []
+  mlat_requests:
+    []
   extradition: ""
   evidence_from_abroad:
     - "Silk Road marketplace records"
-  foreign_arrests: []
-  asset_freezing: []
+  foreign_arrests:
+    []
+  asset_freezing:
+    []
 cooperating_agencies:
   - "[[us-doj]]"
 legal_frameworks_invoked:
@@ -38,8 +41,8 @@ sources:
   - "[[2015-11-03_md_sheldon-kennedy-silk-road-sentencing]]"
 created: 2026-04-17
 updated: 2026-04-17
+summary: "United States v. Kennedy is a Silk Road vendor prosecution involving drugs, counterfeit currency, and firearms-related contraband sales."
 ---
-
 ## Summary
 
 United States v. Kennedy is a Silk Road vendor prosecution involving drugs, counterfeit currency, and firearms-related contraband sales.

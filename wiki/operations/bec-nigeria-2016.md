@@ -1,23 +1,21 @@
 ---
-operation_role: umbrella
-parent_operation: ""
----
-﻿---
 type: operation
 title: "Nigerian BEC Email Fraud Arrest ($60M)"
 title_ko: "나이지리아 BEC 이메일 사기 체포 (6천만 달러)"
-aliases: ["Nigerian email scammer arrest 2016", "$60M BEC arrest"]
-case_id: "CYB-2016-050"
+aliases:
+  - "Nigerian email scammer arrest 2016"
+  - "$60M BEC arrest"
+case_id: CYB-2016-050
 period: 1
-operation_type: "arrest-sweep"
-status: "completed"
+operation_type: arrest-sweep
+status: completed
 enforcement_type:
-  - "arrest"
-outcome: "success"
+  - arrest
+outcome: success
 timeframe:
-  announced: "2016-08-02"
-  start: "2016-08-02"
-  end: "2016-08-02"
+  announced: 2016-08-02
+  start: 2016-08-02
+  end: 2016-08-02
   ongoing: false
 crime_type: "[[bec-ic]]"
 target_entity: "Nigerian BEC scammer ($60M fraud)"
@@ -28,8 +26,10 @@ participating_countries:
   - "[[united-states]]"
 participating_agencies:
   - "[[interpol]]"
-legal_basis: []
-mechanisms_used: []
+legal_basis:
+
+mechanisms_used:
+
 results:
   arrests: 1
   indictments: 0
@@ -41,29 +41,42 @@ results:
   other:
     - "$60 million in BEC fraud attributed to arrested individual"
 edges:
-  - source_actor: "INTERPOL"
+  - source_actor: INTERPOL
     target_actor: "Nigeria EFCC"
-    cooperation_type: "joint_investigation"
-    legal_basis: "unknown"
-    direction: "undirected"
+    cooperation_type: joint_investigation
+    legal_basis: unknown
+    direction: undirected
 credibility_index: 1.88
 source_tier: 3
 missing_fields:
-  - "legal_basis"
-  - "mechanisms_used"
-  - "complete_participating_agencies"
-  - "suspect_name"
-related_cases: []
-related_operations: []
-challenges_encountered: []
-lessons_learned: []
+  - legal_basis
+  - mechanisms_used
+  - complete_participating_agencies
+  - suspect_name
+related_cases:
+
+related_operations:
+
+challenges_encountered:
+
+lessons_learned:
+
 source_count: 1
 sources:
-  - "tier3-sophos-nigerian-bec-2016"
+  - tier3-sophos-nigerian-bec-2016
 created: 2026-04-08
 updated: 2026-04-08
+operation_role: umbrella
+parent_operation: ""
+summary: "In August 2016, a Nigerian national was arrested for an email fraud scheme that caused approximately **$60 million** in losses through Business Email Compromise (BEC) scams. The arrest involved international cooperation, *likely* including INTERPOL coordination with Nigerian law enforcement."
+jurisdictions:
+  - "[[nigeria]]"
+  - "[[united-states]]"
+organizations:
+  - "[[interpol]]"
+crime_types:
+  - "[[bec-ic]]"
 ---
-
 > [!note] This operation is documented from a Tier 3 (cybersecurity media) source. Additional verification from official sources (Tier 1-2) would strengthen data reliability.
 
 ## Summary

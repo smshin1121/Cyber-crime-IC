@@ -17,14 +17,14 @@ defendants:
 related_operation: "[[operation-us-v-orgil-dark-web]]"
 ic_elements:
   mlat_requests:
-    []
+
   extradition: ""
   evidence_from_abroad:
     - "Dark web market evidence"
   foreign_arrests:
-    []
+
   asset_freezing:
-    []
+
 cooperating_agencies:
   - "[[us-doj]]"
 legal_frameworks_invoked:
@@ -39,6 +39,7 @@ sources:
   - "[[2024-05-21_sdfl_tenzin-orgil-dark-web-sentencing]]"
 created: 2026-04-17
 updated: 2026-04-17
+summary: "United States v. Orgil combines dark web sales with clandestine drug manufacturing, making it a broader narcotics-production case than many vendor-only prosecutions."
 ---
 ## Summary
 

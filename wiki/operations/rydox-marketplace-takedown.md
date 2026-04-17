@@ -85,6 +85,16 @@ created: 2026-04-08
 updated: 2026-04-17
 operation_role: umbrella
 parent_operation: ""
+summary: "In December 2024, the FBI coordinated an international operation that resulted in the seizure of the **Rydox** marketplace and the arrest of **3 administrators** in **Albania**, **Kosovo**, and **Malaysia**. Rydox was an online marketplace that sold stolen personal data, access devices, and cybercrime tools."
+jurisdictions:
+  - "[[united-states]]"
+  - "[[albania]]"
+  - "[[kosovo]]"
+  - "[[malaysia]]"
+organizations:
+  - "[[fbi-cyber-division]]"
+crime_types:
+  - "[[cybercrime-forum-ic]]"
 ---
 > [!note] This operation is documented from a Tier 3 (cybersecurity media) source. Additional verification from official sources (Tier 1-2) would strengthen data reliability.
 

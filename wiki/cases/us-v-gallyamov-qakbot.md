@@ -4,29 +4,31 @@ title: "United States v. Gallyamov (QakBot)"
 case_number: "C.D. Cal. (sealed)"
 jurisdiction: "U.S. District Court, Central District of California"
 jurisdiction_country: "[[united-states]]"
-case_type: "prosecution"
-status: "indicted"
+case_type: prosecution
+status: indicted
 crime_charged:
   - "[[ransomware-ic]]"
   - "[[malware-ic]]"
 defendants:
   - name: "Rustam Rafailevich Gallyamov"
-    nationality: "Russian"
-    status: "indicted"
+    nationality: Russian
+    status: indicted
     sentence: ""
     location_at_arrest: "At large (Moscow, Russia)"
 related_operation: "[[qakbot-gallyamov-indictment]]"
 ic_elements:
-  mlat_requests: []
+  mlat_requests:
+    []
   extradition: ""
   evidence_from_abroad:
-    - "France"
-    - "Germany"
-    - "Netherlands"
-    - "Denmark"
+    - France
+    - Germany
+    - Netherlands
+    - Denmark
     - "United Kingdom"
-    - "Canada"
-  foreign_arrests: []
+    - Canada
+  foreign_arrests:
+    []
   asset_freezing:
     - "USD 24 million+ cryptocurrency (civil forfeiture)"
 cooperating_agencies:
@@ -47,8 +49,8 @@ sources:
   - "[[2025-05-22_cdca_qakbot-gallyamov-indictment]]"
 created: 2026-04-12
 updated: 2026-04-12
+summary: "United States v. Gallyamov is the indictment of Rustam Rafailevich Gallyamov, 48, of Moscow, Russia, for leading the QakBot malware conspiracy since 2008. The indictment was unsealed on 22 May 2025 in conjunction with Operation Endgame. Gallyamov allegedly used QakBot to build a botnet providing initial access to ransomware operators deploying ProLock, DopplePaymer, Egregor, REvil, Conti, Name Locker, Black Basta, and Cactus."
 ---
-
 ## Summary
 
 United States v. Gallyamov is the indictment of Rustam Rafailevich Gallyamov, 48, of Moscow, Russia, for leading the QakBot malware conspiracy since 2008. The indictment was unsealed on 22 May 2025 in conjunction with Operation Endgame. Gallyamov allegedly used QakBot to build a botnet providing initial access to ransomware operators deploying ProLock, DopplePaymer, Egregor, REvil, Conti, Name Locker, Black Basta, and Cactus.

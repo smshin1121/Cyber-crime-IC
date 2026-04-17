@@ -18,14 +18,14 @@ defendants:
 related_operation: "[[operation-us-v-sabbagh-dark-web]]"
 ic_elements:
   mlat_requests:
-    []
+
   extradition: ""
   evidence_from_abroad:
     - "Darknet marketplace evidence and cryptocurrency payments"
   foreign_arrests:
-    []
+
   asset_freezing:
-    []
+
 cooperating_agencies:
   - "[[us-doj]]"
 legal_frameworks_invoked:
@@ -41,6 +41,7 @@ sources:
   - "[[2025-04-11_edky_sabbagh-darknet-counterfeit-sentencing]]"
 created: 2026-04-17
 updated: 2026-04-17
+summary: "United States v. Sabbagh is a darknet counterfeit-alprazolam case involving cryptocurrency-backed sales of fake pills."
 ---
 ## Summary
 

@@ -17,14 +17,14 @@ defendants:
 related_operation: "[[operation-us-v-madding-dark-web]]"
 ic_elements:
   mlat_requests:
-    []
+
   extradition: ""
   evidence_from_abroad:
     - "AlphaBay, Dream Market, and Wall Street Market records"
   foreign_arrests:
-    []
+
   asset_freezing:
-    []
+
 cooperating_agencies:
   - "[[us-doj]]"
 legal_frameworks_invoked:
@@ -39,6 +39,7 @@ sources:
   - "[[2021-05-24_wdwa_madding-dark-web-heroin-sentencing]]"
 created: 2026-04-17
 updated: 2026-04-17
+summary: "United States v. Madding is a dark web heroin case involving more than 1,600 sales across AlphaBay, Dream Market, and Wall Street Market."
 ---
 ## Summary
 

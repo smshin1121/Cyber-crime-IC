@@ -4,28 +4,29 @@ title: "United States v. Gary Davis (Silk Road)"
 case_number: "S.D.N.Y. Silk Road sentencing"
 jurisdiction: "U.S. District Court, Southern District of New York"
 jurisdiction_country: "[[united-states]]"
-case_type: "prosecution"
-status: "sentenced"
+case_type: prosecution
+status: sentenced
 crime_charged:
   - "[[online-fraud-ic]]"
   - "[[drug-trafficking]]"
 defendants:
   - name: "Gary Davis"
-    nationality: "Irish"
-    status: "sentenced"
+    nationality: Irish
+    status: sentenced
     sentence: "78 months"
-    location_at_arrest: "Ireland"
+    location_at_arrest: Ireland
 related_operation: "[[silk-road-takedown]]"
 ic_elements:
   mlat_requests:
-    - "Ireland"
+    - Ireland
   extradition: "Davis was extradited from Ireland to the United States."
   evidence_from_abroad:
-    - "Ireland"
+    - Ireland
     - "Silk Road marketplace records"
   foreign_arrests:
-    - "Ireland"
-  asset_freezing: []
+    - Ireland
+  asset_freezing:
+    []
 cooperating_agencies:
   - "[[us-doj]]"
 legal_frameworks_invoked:
@@ -43,8 +44,8 @@ sources:
   - "[[2019-07-25_sdny_gary-davis-silk-road-sentencing]]"
 created: 2026-04-17
 updated: 2026-04-17
+summary: "United States v. Gary Davis is a key follow-on Silk Road prosecution involving an Irish administrator extradited to the United States. It complements Ulbricht by showing that Silk Road liability reached salaried support staff."
 ---
-
 ## Summary
 
 United States v. Gary Davis is a key follow-on Silk Road prosecution involving an Irish administrator extradited to the United States. It complements Ulbricht by showing that Silk Road liability reached salaried support staff.

@@ -23,14 +23,14 @@ defendants:
 related_operation: "[[operation-us-v-sirotkin-deaver-dark-web]]"
 ic_elements:
   mlat_requests:
-    []
+
   extradition: ""
   evidence_from_abroad:
     - "Dark web marketplace accounts and laundering records"
   foreign_arrests:
-    []
+
   asset_freezing:
-    []
+
 cooperating_agencies:
   - "[[us-doj]]"
 legal_frameworks_invoked:
@@ -46,6 +46,7 @@ sources:
   - "[[2023-10-12_sdoh_sirotkin-deaver-dark-web-sentencing]]"
 created: 2026-04-17
 updated: 2026-04-17
+summary: "United States v. Sirotkin and Deaver is a large-scale dark web fentanyl and laundering case tied to the account `Pill Cosby`."
 ---
 ## Summary
 

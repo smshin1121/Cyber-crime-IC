@@ -4,24 +4,27 @@ title: "United States v. Roger Thomas Clark (Silk Road Adviser)"
 case_number: "S.D.N.Y. Silk Road sentencing"
 jurisdiction: "U.S. District Court, Southern District of New York"
 jurisdiction_country: "[[united-states]]"
-case_type: "prosecution"
-status: "sentenced"
+case_type: prosecution
+status: sentenced
 crime_charged:
   - "[[drug-trafficking]]"
 defendants:
   - name: "Roger Thomas Clark"
-    nationality: "Canadian"
-    status: "sentenced"
+    nationality: Canadian
+    status: sentenced
     sentence: "20 years"
     location_at_arrest: ""
 related_operation: "[[silk-road-takedown]]"
 ic_elements:
-  mlat_requests: []
+  mlat_requests:
+    []
   extradition: ""
   evidence_from_abroad:
     - "Silk Road internal communications and marketplace records"
-  foreign_arrests: []
-  asset_freezing: []
+  foreign_arrests:
+    []
+  asset_freezing:
+    []
 cooperating_agencies:
   - "[[us-doj]]"
 legal_frameworks_invoked:
@@ -36,8 +39,8 @@ sources:
   - "[[2023-07-11_sdny_roger-thomas-clark-silk-road-sentencing]]"
 created: 2026-04-17
 updated: 2026-04-17
+summary: "United States v. Clark is a major Silk Road prosecution involving the marketplace operator's long-time adviser and facilitator."
 ---
-
 ## Summary
 
 United States v. Clark is a major Silk Road prosecution involving the marketplace operator's long-time adviser and facilitator.

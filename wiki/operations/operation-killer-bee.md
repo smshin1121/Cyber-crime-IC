@@ -3,7 +3,7 @@ type: operation
 title: "Operation Killer Bee"
 title_ko: "Operation Killer Bee (Agent Tesla 악성코드 단속)"
 aliases:
-  []
+
 case_id: CYB-2022-001
 period: 2
 operation_type: arrest-sweep
@@ -38,9 +38,9 @@ participating_agencies:
   - "[[nigerian-efcc]]"
   - "[[trend-micro]]"
 legal_basis:
-  []
+
 mechanisms_used:
-  []
+
 results:
   arrests: 3
   indictments: 0
@@ -69,13 +69,13 @@ missing_fields:
   - legal_basis
   - mechanisms_used
 related_cases:
-  []
+
 related_operations:
-  []
+
 challenges_encountered:
-  []
+
 lessons_learned:
-  []
+
 source_count: 1
 sources:
   - "[1] INTERPOL News (2022-11)"
@@ -83,6 +83,26 @@ created: 2026-04-08
 updated: 2026-04-08
 operation_role: umbrella
 parent_operation: ""
+summary: "INTERPOL's Operation Killer Bee, conducted in coordination with the Nigerian Economic and Financial Crimes Commission (EFCC) and ASEAN member state law enforcement agencies, targeted cybercriminals using Agent Tesla malware for financial fraud and Business Email Compromise (BEC). The operation resulted in the arrest of 3 Nigerian nationals who had been using the malware to reroute financial transactions and steal confidential business data. Trend Micro and other cybersecurity firms provided technical support."
+jurisdictions:
+  - "[[brunei]]"
+  - "[[cambodia]]"
+  - "[[indonesia]]"
+  - "[[laos]]"
+  - "[[malaysia]]"
+  - "[[myanmar]]"
+  - "[[nigeria]]"
+  - "[[philippines]]"
+  - "[[singapore]]"
+  - "[[thailand]]"
+  - "[[vietnam]]"
+organizations:
+  - "[[interpol]]"
+  - "[[interpol-asean-desk]]"
+  - "[[nigerian-efcc]]"
+  - "[[trend-micro]]"
+crime_types:
+  - "[[bec-ic]]"
 ---
 ## Summary
 

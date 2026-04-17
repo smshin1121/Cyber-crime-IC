@@ -4,32 +4,32 @@ title: "United States v. Alexandru Habasescu (xDedic)"
 case_number: "Superseding indictment; case open 2023-09-11 (M.D. Fla.)"
 jurisdiction: "U.S. District Court, Middle District of Florida"
 jurisdiction_country: "[[united-states]]"
-case_type: "prosecution"
-status: "sentenced"
+case_type: prosecution
+status: sentenced
 crime_charged:
   - "[[cybercrime-forum-ic]]"
   - "[[identity-theft]]"
 defendants:
   - name: "Alexandru Habasescu"
-    nationality: "Moldovan"
-    status: "sentenced"
+    nationality: Moldovan
+    status: sentenced
     sentence: "41 months"
     location_at_arrest: "Tenerife, Canary Islands, Spain"
 related_operation: "[[xdedic-marketplace-takedown]]"
 ic_elements:
   mlat_requests:
-    - "Belgium"
-    - "Ukraine"
-    - "Spain"
+    - Belgium
+    - Ukraine
+    - Spain
   extradition: "Habasescu was extradited from Spain to the United States pursuant to the U.S.-Spain extradition treaty."
   evidence_from_abroad:
-    - "Belgium"
-    - "Ukraine"
-    - "Spain"
-    - "Netherlands"
-    - "Germany"
+    - Belgium
+    - Ukraine
+    - Spain
+    - Netherlands
+    - Germany
   foreign_arrests:
-    - "Spain"
+    - Spain
   asset_freezing:
     - "xDedic domains seized in 2019"
 cooperating_agencies:
@@ -52,8 +52,8 @@ sources:
   - "[[2022-11-22_mdfl_habasescu-xdedic-extradition]]"
 created: 2026-04-17
 updated: 2026-04-17
+summary: "United States v. Habasescu is the clearest identified U.S. administrator case arising from the [[xdedic-marketplace-takedown|xDedic Marketplace takedown]]. It turns an operation page that was previously seizure-centric into a concrete prosecution record."
 ---
-
 ## Summary
 
 United States v. Habasescu is the clearest identified U.S. administrator case arising from the [[xdedic-marketplace-takedown|xDedic Marketplace takedown]]. It turns an operation page that was previously seizure-centric into a concrete prosecution record.

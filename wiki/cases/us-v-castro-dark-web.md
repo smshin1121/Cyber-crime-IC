@@ -18,12 +18,12 @@ defendants:
 related_operation: "[[operation-us-v-castro-dark-web]]"
 ic_elements:
   mlat_requests:
-    []
+
   extradition: ""
   evidence_from_abroad:
     - "AlphaBay and Dream Market records"
   foreign_arrests:
-    []
+
   asset_freezing:
     - "More than USD 4 million forfeited"
 cooperating_agencies:
@@ -41,6 +41,7 @@ sources:
   - "[[2020-10-08_sdny_richard-castro-dark-web-sentencing]]"
 created: 2026-04-17
 updated: 2026-04-17
+summary: "United States v. Castro is a high-severity dark web opioids case involving the monikers `Chemsusa`, `Chems_usa`, and `Chemical_usa`, and more than USD 4 million in forfeiture."
 ---
 ## Summary
 

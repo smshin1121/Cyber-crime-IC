@@ -4,33 +4,35 @@ title: "United States v. Okpe and Obogo"
 case_number: "CR-19-0146-PHX-GMS (D. Ariz.)"
 jurisdiction: "U.S. District Court, District of Arizona"
 jurisdiction_country: "[[united-states]]"
-case_type: "prosecution"
-status: "sentenced"
+case_type: prosecution
+status: sentenced
 crime_charged:
   - "[[bec-ic]]"
   - "[[online-fraud-ic]]"
 defendants:
   - name: "Solomon Ekunke Okpe"
-    nationality: "Nigerian"
-    status: "sentenced"
+    nationality: Nigerian
+    status: sentenced
     sentence: "4 years and 1 month"
-    location_at_arrest: "Malaysia"
+    location_at_arrest: Malaysia
   - name: "Johnson Uke Obogo"
-    nationality: "Nigerian"
-    status: "sentenced"
+    nationality: Nigerian
+    status: sentenced
     sentence: "1 year and 1 day"
     location_at_arrest: "United Kingdom"
 related_operation: "[[nigerian-bec-convictions-2023]]"
 ic_elements:
-  mlat_requests: []
+  mlat_requests:
+    []
   extradition: "Okpe extradited from Malaysia; Obogo extradited from the United Kingdom to Arizona in 2022."
   evidence_from_abroad:
-    - "Malaysia"
+    - Malaysia
     - "United Kingdom"
   foreign_arrests:
-    - "Malaysia"
+    - Malaysia
     - "United Kingdom"
-  asset_freezing: []
+  asset_freezing:
+    []
 cooperating_agencies:
   - "[[us-doj]]"
   - "[[fbi-cyber-division]]"
@@ -47,8 +49,8 @@ sources:
   - "[[2023-03-27_doj_okpe-obogo-bec-sentencing]]"
 created: 2026-04-17
 updated: 2026-04-17
+summary: "United States v. Okpe and Obogo is a District of Arizona fraud prosecution arising from a multi-year cyber-enabled scheme that included business email compromise, work-from-home fraud, romance fraud, and credit-card abuse. The case is *highly likely* one of the cleaner examples in the repository where DOJ explicitly described both overseas arrests and extraditions in a BEC-related matter."
 ---
-
 ## Summary
 
 United States v. Okpe and Obogo is a District of Arizona fraud prosecution arising from a multi-year cyber-enabled scheme that included business email compromise, work-from-home fraud, romance fraud, and credit-card abuse. The case is *highly likely* one of the cleaner examples in the repository where DOJ explicitly described both overseas arrests and extraditions in a BEC-related matter.

@@ -59,6 +59,11 @@ type: operation
 updated: 2026-04-08
 operation_role: umbrella
 parent_operation: ""
+summary: "**Dekhtyarchuk** was indicted by US authorities for operating **Marketplace A**, an online marketplace for stolen data. The investigation involved cooperation between the **United States** and **Latvia**, demonstrating cross-border prosecution of cybercrime marketplace operators."
+organizations:
+  - "[[us-doj]]"
+crime_types:
+  - "[[cybercrime-forum-ic]]"
 ---
 > [!note] This operation is documented from a Tier 3 (cybersecurity media) source. Additional verification from official sources (Tier 1-2) would strengthen data reliability.
 

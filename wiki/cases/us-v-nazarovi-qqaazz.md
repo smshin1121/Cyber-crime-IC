@@ -4,47 +4,47 @@ title: "United States v. Nazarovi et al. (QQAAZZ)"
 case_number: "2:20-cr-00295-MJH (W.D. Pa.)"
 jurisdiction: "U.S. District Court, Western District of Pennsylvania"
 jurisdiction_country: "[[united-states]]"
-case_type: "prosecution"
-status: "indicted"
+case_type: prosecution
+status: indicted
 crime_charged:
   - "[[money-laundering-ic]]"
   - "[[malware-ic]]"
 defendants:
   - name: "Nika Nazarovi"
-    nationality: "Georgian"
-    status: "indicted"
+    nationality: Georgian
+    status: indicted
     sentence: ""
     location_at_arrest: ""
   - name: "Martins Ignatjevs"
-    nationality: "Latvian"
-    status: "indicted"
+    nationality: Latvian
+    status: indicted
     sentence: ""
     location_at_arrest: ""
   - name: "Aleksandre Kobiashvili"
-    nationality: "Georgian"
-    status: "indicted"
+    nationality: Georgian
+    status: indicted
     sentence: ""
     location_at_arrest: ""
 related_operation: "[[qqaazz-money-laundering-takedown]]"
 ic_elements:
   mlat_requests:
-    - "Portugal"
-    - "Spain"
+    - Portugal
+    - Spain
     - "United Kingdom"
-    - "Latvia"
-    - "Bulgaria"
-    - "Georgia"
-    - "Italy"
+    - Latvia
+    - Bulgaria
+    - Georgia
+    - Italy
   extradition: "DOJ said the Office of International Affairs coordinated requests for searches, arrests, extraditions, and evidence sharing."
   evidence_from_abroad:
-    - "Portugal"
-    - "Spain"
+    - Portugal
+    - Spain
     - "United Kingdom"
-    - "Latvia"
-    - "Bulgaria"
-    - "Georgia"
-    - "Italy"
-    - "Belgium"
+    - Latvia
+    - Bulgaria
+    - Georgia
+    - Italy
+    - Belgium
   foreign_arrests:
     - "Searches and arrests in Latvia"
   asset_freezing:
@@ -68,8 +68,8 @@ sources:
   - "[[2020-10-15_wdpa_nazarovi-qqaazz-indictment]]"
 created: 2026-04-17
 updated: 2026-04-17
+summary: "United States v. Nazarovi et al. is the principal U.S. criminal case tied to the [[qqaazz-money-laundering-takedown|QQAAZZ money laundering network takedown]]. It focuses not on a single malware family, but on a laundering service that allegedly supported multiple major cybercrime groups."
 ---
-
 ## Summary
 
 United States v. Nazarovi et al. is the principal U.S. criminal case tied to the [[qqaazz-money-laundering-takedown|QQAAZZ money laundering network takedown]]. It focuses not on a single malware family, but on a laundering service that allegedly supported multiple major cybercrime groups.

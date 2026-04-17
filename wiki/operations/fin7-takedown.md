@@ -70,6 +70,17 @@ created: 2026-04-08
 updated: 2026-04-08
 operation_role: umbrella
 parent_operation: ""
+summary: "The FBI and U.S. Department of Justice investigated and prosecuted the FIN7 cybercrime group, which since 2015 had used malware and phishing attacks to steal over 15 million credit card numbers from more than 100 U.S. companies in the restaurant, gaming, and hotel sectors. Key members of the group were arrested in 2018, and stolen data had been sold on dark web marketplaces. The investigation involved cooperation with law enforcement in the United Kingdom, Australia, and France."
+jurisdictions:
+  - "[[united-states]]"
+  - "[[united-kingdom]]"
+  - "[[australia]]"
+  - "[[france]]"
+organizations:
+  - "[[fbi]]"
+  - "[[usdoj]]"
+crime_types:
+  - "[[hacking-ic]]"
 ---
 ## Summary
 

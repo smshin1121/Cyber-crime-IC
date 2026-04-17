@@ -17,14 +17,14 @@ defendants:
 related_operation: "[[operation-us-v-shaughnessy-dark-web]]"
 ic_elements:
   mlat_requests:
-    []
+
   extradition: ""
   evidence_from_abroad:
     - "Darknet market evidence"
   foreign_arrests:
-    []
+
   asset_freezing:
-    []
+
 cooperating_agencies:
   - "[[us-doj]]"
 legal_frameworks_invoked:
@@ -39,6 +39,7 @@ sources:
   - "[[2024-02-12_ndtx_shaughnessy-darknet-sentencing]]"
 created: 2026-04-17
 updated: 2026-04-17
+summary: "United States v. Shaughnessy is a high-severity darknet fentanyl case involving analogues and a 24-plus-year sentence after trial."
 ---
 ## Summary
 

@@ -4,25 +4,28 @@ title: "United States v. John Telusma (Infraud)"
 case_number: "2:17-cr-00306 (D. Nev.)"
 jurisdiction: "U.S. District Court, District of Nevada"
 jurisdiction_country: "[[united-states]]"
-case_type: "prosecution"
-status: "sentenced"
+case_type: prosecution
+status: sentenced
 crime_charged:
   - "[[carding-fraud-ic]]"
   - "[[cybercrime-forum-ic]]"
 defendants:
   - name: "John Telusma"
-    nationality: "American"
-    status: "sentenced"
+    nationality: American
+    status: sentenced
     sentence: "4 years"
     location_at_arrest: "Brooklyn, New York"
 related_operation: "[[infraud-telusma-sentencing]]"
 ic_elements:
-  mlat_requests: []
+  mlat_requests:
+    []
   extradition: ""
   evidence_from_abroad:
     - "Multiple foreign jurisdictions linked to the broader Infraud case"
-  foreign_arrests: []
-  asset_freezing: []
+  foreign_arrests:
+    []
+  asset_freezing:
+    []
 cooperating_agencies:
   - "[[us-doj]]"
 legal_frameworks_invoked:
@@ -38,8 +41,8 @@ sources:
   - "[[2022-05-27_doj_telusma-infraud-sentencing]]"
 created: 2026-04-17
 updated: 2026-04-17
+summary: "United States v. John Telusma is the May 2022 District of Nevada sentencing of an Infraud Organization member who pleaded guilty to racketeering conspiracy. The case is *likely* important less for novel doctrine than for showing how a 2018 multinational takedown continued to generate accountable defendants years later."
 ---
-
 ## Summary
 
 United States v. John Telusma is the May 2022 District of Nevada sentencing of an Infraud Organization member who pleaded guilty to racketeering conspiracy. The case is *likely* important less for novel doctrine than for showing how a 2018 multinational takedown continued to generate accountable defendants years later.

@@ -27,9 +27,9 @@ participating_countries:
 participating_agencies:
   - "[[europol-ec3]]"
 legal_basis:
-  []
+
 mechanisms_used:
-  []
+
 results:
   arrests: 8
   indictments: 0
@@ -61,20 +61,28 @@ missing_fields:
   - financial_losses
   - url
 related_cases:
-  []
+
 related_operations:
-  []
+
 challenges_encountered:
-  []
+
 lessons_learned:
-  []
+
 source_count: 1
 sources:
-  []
+
 created: 2026-04-08
 updated: 2026-04-08
 operation_role: umbrella
 parent_operation: ""
+summary: "In 2025, Europol coordinated a joint Belgian-Dutch operation that resulted in **8 arrests** of individuals involved in a **phishing gang** operating across Belgium and the Netherlands. The operation targeted a criminal group that conducted phishing attacks to steal banking credentials and commit financial fraud."
+jurisdictions:
+  - "[[belgium]]"
+  - "[[netherlands]]"
+organizations:
+  - "[[europol-ec3]]"
+crime_types:
+  - "[[online-fraud-ic]]"
 ---
 > [!note] This operation is documented from a Tier 3 (cybersecurity media) source. Additional verification from official sources (Tier 1-2) would strengthen data reliability.
 

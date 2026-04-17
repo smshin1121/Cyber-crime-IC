@@ -97,6 +97,17 @@ created: 2026-04-14
 updated: 2026-04-14
 operation_role: umbrella
 parent_operation: ""
+summary: "On **12 March 2026**, [[eurojust|Eurojust]] announced the takedown of an unnamed website allegedly offering **IP proxy services for cybercriminals in 102 countries** of victims. The operation was conducted by authorities from **eight countries** — only four of which are publicly named: [[france|France]], [[austria|Austria]], the [[netherlands|Netherlands]], and the [[united-states|United States]] — coordinated by [[eurojust|Eurojust]] and [[europol-ec3|Europol]]. The operators of the proxy service are also suspected of running an associated **payment platform** for the service."
+jurisdictions:
+  - "[[france]]"
+  - "[[austria]]"
+  - "[[netherlands]]"
+  - "[[united-states]]"
+organizations:
+  - "[[eurojust]]"
+  - "[[europol-ec3]]"
+crime_types:
+  - "[[hacking-ic]]"
 ---
 ## Summary
 

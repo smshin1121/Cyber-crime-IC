@@ -4,28 +4,28 @@ title: "United States v. Ivanov-Tolpintsev (xDedic Credentials Seller)"
 case_number: "M.D. Fla. xDedic-related prosecution"
 jurisdiction: "U.S. District Court, Middle District of Florida"
 jurisdiction_country: "[[united-states]]"
-case_type: "prosecution"
-status: "sentenced"
+case_type: prosecution
+status: sentenced
 crime_charged:
   - "[[access-device-fraud]]"
   - "[[cybercrime-forum-ic]]"
 defendants:
   - name: "Glib Oleksandr Ivanov-Tolpintsev"
-    nationality: "Ukrainian"
-    status: "sentenced"
+    nationality: Ukrainian
+    status: sentenced
     sentence: "48 months"
     location_at_arrest: "Korczowa, Poland"
 related_operation: "[[xdedic-marketplace-takedown]]"
 ic_elements:
   mlat_requests:
-    - "Poland"
+    - Poland
   extradition: "Ivanov-Tolpintsev was arrested in Poland and extradited to the United States."
   evidence_from_abroad:
-    - "Poland"
-    - "Belgium"
-    - "Ukraine"
+    - Poland
+    - Belgium
+    - Ukraine
   foreign_arrests:
-    - "Poland"
+    - Poland
   asset_freezing:
     - "USD 82,648 forfeiture ordered"
 cooperating_agencies:
@@ -47,8 +47,8 @@ sources:
   - "[[2021-09-08_mdfl_ivanov-tolpintsev-xdedic-extradition]]"
 created: 2026-04-17
 updated: 2026-04-17
+summary: "United States v. Ivanov-Tolpintsev is an xDedic-related prosecution focused on large-scale credential decryption and resale. It is closely related to the supplier-side logic of the Pankov case but with a separate extradition path and sentencing record."
 ---
-
 ## Summary
 
 United States v. Ivanov-Tolpintsev is an xDedic-related prosecution focused on large-scale credential decryption and resale. It is closely related to the supplier-side logic of the Pankov case but with a separate extradition path and sentencing record.

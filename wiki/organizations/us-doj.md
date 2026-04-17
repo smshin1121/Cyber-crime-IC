@@ -1,73 +1,48 @@
 ---
 aliases:
-- DOJ
-- US DOJ
-- Justice Department
-- USDOJ
-contact_point_for:
-- network: '[[24-7-network]]'
-  role: Budapest Convention Art. 35 contact point (USA) — via CCIPS
-- network: '[[mlat-process]]'
-  role: Central authority for all US MLATs — via OIA
-cooperation_partners:
-- '[[fbi-cyber-division]]'
-- '[[europol-ec3]]'
-- '[[eurojust]]'
-- '[[uk-nca]]'
-- '[[germany-bka]]'
-country: '[[united-states]]'
-created: 2026-04-08
-established: '1870-07-01'
-frameworks_administered: []
-headquarters: Washington, D.C., United States
-key_roles:
-- Central authority for all US bilateral MLATs
-- Federal cybercrime prosecution (CCIPS)
-- International extradition processing (OIA)
-- Budapest Convention 24/7 contact point (CCIPS)
-- Policy coordination for international cybercrime cooperation
-- Asset forfeiture and recovery in cybercrime cases
-last_verified: '2026-04-10'
-mandate: Enforce federal law, administer justice, and ensure public safety; central
-  authority for US MLATs; lead federal cybercrime prosecution through CCIPS and US
-  Attorney's Offices.
-mechanisms_operated:
-- '[[mlat-process]]'
-member_states: 0
-notable_cases: []
-official_name: United States Department of Justice
-official_name_ko: 미국 법무부
-operations_participated:
-- '[[911-s5-botnet-takedown]]'
-- '[[fin7-takedown]]'
-- '[[goznym-takedown]]'
-- '[[hive-ransomware-takedown]]'
-- '[[infraud-organization-takedown]]'
-- '[[infraud-telusma-sentencing]]'
-- '[[isoon-apt27-indictment]]'
-- '[[marketplace-a-dekhtyarchuk-indictment]]'
-- '[[nigerian-bec-convictions-2023]]'
-- '[[operation-checkmate-blacksuit]]'
-- '[[operation-cronos-phase1]]'
-- '[[operation-cronos-phase3]]'
-- '[[operation-endgame]]'
-- '[[operation-endgame-phase1]]'
-- '[[operation-endgame-phase2]]'
-- '[[operation-shrouded-horizon]]'
-- '[[phobos-8base-crackdown]]'
-- '[[qakbot-gallyamov-indictment]]'
-- '[[operation-dark-huntor]]'
-- '[[silk-road-takedown]]'
-org_type: national-agency
-parent_org: ''
-source_count: 5
-sources: []
-status: active
-title: US Department of Justice (DOJ)
-type: organization
-updated: '2026-04-10'
----
 
+contact_point_for:
+
+cooperation_partners:
+
+country: "[[united-states]]"
+created: 2026-04-08
+established: 1870-07-01
+frameworks_administered:
+
+headquarters: "Washington, D.C., United States"
+key_roles:
+
+last_verified: 2026-04-10
+mandate: "Enforce federal law, administer justice, and ensure public safety; central"
+mechanisms_operated:
+
+member_states: 0
+notable_cases:
+
+official_name: "United States Department of Justice"
+official_name_ko: "미국 법무부"
+operations_participated:
+  - "[[infraud-telusma-sentencing]]"
+  - "[[nigerian-bec-convictions-2023]]"
+  - "[[operation-dark-huntor]]"
+  - "[[operation-endgame]]"
+  - "[[operation-endgame-phase2]]"
+  - "[[operation-us-v-udvardi-dark-web]]"
+  - "[[operation-us-v-vallerius-dream-market]]"
+  - "[[operation-us-v-vlastos-dark-web]]"
+  - "[[operation-us-v-witters-dark-web]]"
+  - "[[silk-road-takedown]]"
+org_type: national-agency
+parent_org: ""
+source_count: 5
+sources:
+
+status: active
+title: "US Department of Justice (DOJ)"
+type: organization
+updated: 2026-04-17
+---
 ## Current Status (as of 2026-04-10)
 
 **Status:** Active. OIA, CCIPS, and NSD all continue to operate; however, the Criminal Division's dedicated crypto enforcement unit (**NCET**) has undergone two material reorganizations in the last 30 months (see [History and Reorganizations](#history-and-reorganizations)).

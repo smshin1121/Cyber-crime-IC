@@ -1,6 +1,7 @@
 ---
 operation_role: umbrella
 parent_operation: ""
+summary: "From July 2022 to January 2023, the FBI, with support from 13 countries and Europol, infiltrated and dismantled the Hive ransomware group's server infrastructure. The FBI had covertly accessed Hive's networks, providing over 1,300 decryption keys to victims globally and preventing more than $100 million in ransom payments. Hive had targeted over 1,500 victims across 80+ countries, including hospitals, school districts, financial firms, and critical infrastructure."
 ---
 ﻿---
 aliases:

@@ -118,6 +118,36 @@ created: 2026-04-10
 updated: 2026-04-11
 operation_role: umbrella
 parent_operation: ""
+summary: "Operation PowerOFF is an **ongoing, multi-phase international law enforcement operation** targeting DDoS-for-hire (booter/stresser) services. Launched in December 2018 and still active as of December 2024, it is coordinated by [[europol-ec3|Europol's European Cybercrime Centre (EC3)]] and led operationally by the [[fbi-cyber-division|FBI]], with the [[uk-nca|UK National Crime Agency (NCA)]] as a core partner. The operation has conducted at least six major enforcement waves, seizing over 142 domains, arresting 16 individuals, and identifying hundreds of users across 15 countries."
+jurisdictions:
+  - "[[united-states]]"
+  - "[[united-kingdom]]"
+  - "[[netherlands]]"
+  - "[[germany]]"
+  - "[[france]]"
+  - "[[poland]]"
+  - "[[australia]]"
+  - "[[brazil]]"
+  - "[[canada]]"
+  - "[[finland]]"
+  - "[[japan]]"
+  - "[[latvia]]"
+  - "[[portugal]]"
+  - "[[romania]]"
+  - "[[sweden]]"
+organizations:
+  - "[[fbi-cyber-division|FBI Cyber Division]]"
+  - "[[europol-ec3|Europol EC3]]"
+  - "[[fbi-cyber-division|FBI]]"
+  - "[[uk-nca|UK NCA]]"
+  - "[[netherlands-politie|Dutch National Police]]"
+  - "[[germany-bka|BKA]]"
+  - "[[australia-afp|AFP]]"
+  - "[[canada-rcmp|RCMP]]"
+  - "[[japan-npa|Japan NPA]]"
+  - "[[us-doj|US DOJ]]"
+crime_types:
+  - "[[ddos-extortion|DDoS-for-Hire]]"
 ---
 ## Summary
 
