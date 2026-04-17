@@ -1054,6 +1054,12 @@ def render_bilingual(meta: dict, en_content: str, page_type: str,
     """Render both English and Korean content for a page."""
     en_html = render_markdown(en_content)
 
+    # The wiki landing page and category indexes are regenerated frequently,
+    # while the optional translation cache may lag behind and surface stale
+    # counts. Prefer fresh source content for these navigation pages.
+    if slug == "index" or page_type == "category-index":
+        return en_html, None
+
     # Look up cached translation
     full_slug = f"{category}/{slug}" if category else slug
     ko_md = _translation_cache.get(full_slug)
