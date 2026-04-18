@@ -18,6 +18,7 @@ operations_participated:
   - "[[operation-cronos-phase1]]"
   - "[[operation-cronos-phase3]]"
   - "[[operation-kraken-ghost-platform]]"
+  - "[[operation-trojan-shield]]"
 org_type: national-unit
 parent_org: "Polismyndigheten / Nationella operativa avdelningen (NOA) — Swedish Police"
 source_count: 3

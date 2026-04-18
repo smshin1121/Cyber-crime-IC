@@ -12,7 +12,7 @@ updated: 2026-04-08
 |--------------|------|------------|--------------|------------|---------|
 | [[c-proc]] | international-org | Bucharest, Romania | — | — | 5 |
 | [[icann]] | international-org | — | — | 1 | 0 |
-| [[interpol]] | international-org | Lyon, France | — | 27 | 4 |
+| [[interpol]] | international-org | Lyon, France | — | 28 | 4 |
 | [[interpol-igci]] | international-org | Singapore | — | 14 | 11 |
 | [[unodc]] | international-org | Vienna, Austria | — | — | 8 |
 | [[australia-afp]] | national-agency | Canberra, Australia | — | 8 | 6 |
@@ -24,9 +24,9 @@ updated: 2026-04-08
 | [[dod-inspector-general]] | national-agency | [[united-states]] | — | — | 1 |
 | [[dutch-police]] | national-agency | Netherlands | — | 1 | 0 |
 | [[fbi]] | national-agency | Washington, D.C., United States | — | 14 | 0 |
-| [[fbi-cyber-division]] | national-agency | Washington, D.C., United States | — | 75 | 12 |
+| [[fbi-cyber-division]] | national-agency | Washington, D.C., United States | — | 76 | 12 |
 | [[german-bka]] | national-agency | Wiesbaden, Germany | — | 2 | 0 |
-| [[germany-bka]] | national-agency | Wiesbaden, Germany | — | 15 | 5 |
+| [[germany-bka]] | national-agency | Wiesbaden, Germany | — | 16 | 5 |
 | [[germany-lka]] | national-agency | One in each of 16 German Länder (e.g. Munich, Stuttgart, Düsseldorf, | — | 4 | 3 |
 | [[indonesia-police]] | national-agency | Indonesia | — | 1 | 0 |
 | [[italy-dcsa]] | national-agency | Rome, Italy | Anti-narcotics coordination; Darknet market investigations | 1 | 0 |
@@ -55,7 +55,7 @@ updated: 2026-04-08
 | [[thailand-royal-police]] | national-agency | Bangkok, Thailand | — | — | 8 |
 | [[uk-nca]] | national-agency | London, United Kingdom | — | 17 | 8 |
 | [[us-dhs]] | national-agency | Washington, D.C., United States | Homeland Security Investigations (HSI) — transnational cybercrime investigation; Coordination with foreign LEAs on cyber-enabled fraud | 6 | 0 |
-| [[us-doj]] | national-agency | Washington, D.C., United States | — | 1169 | 5 |
+| [[us-doj]] | national-agency | Washington, D.C., United States | — | 1171 | 5 |
 | [[us-treasury]] | national-agency | Washington, D.C., United States | — | 6 | 8 |
 | [[usdoj]] | national-agency | Washington, D.C., United States | — | 9 | 0 |
 | [[armenia-police]] | national-unit | Yerevan, Armenia | — | 2 | 3 |
@@ -74,7 +74,7 @@ updated: 2026-04-08
 | [[latvia-state-police]] | national-unit | [[latvia]] | — | 1 | 1 |
 | [[lithuania-police]] | national-unit | Saltoniškių g. 19, Vilnius 08105, Lithuania | — | 2 | 3 |
 | [[mauritius-police-cybercrime]] | national-unit | [[mauritius]] | — | — | 1 |
-| [[netherlands-politie]] | national-unit | Driebergen-Rijsenburg, Netherlands | — | 16 | 0 |
+| [[netherlands-politie]] | national-unit | Driebergen-Rijsenburg, Netherlands | — | 18 | 0 |
 | [[norway-kripos]] | national-unit | [[norway]] | — | — | 1 |
 | [[norway-nc3]] | national-unit | [[norway]] | — | — | 1 |
 | [[poland-police]] | national-unit | ul. Wąwozowa 18, Warsaw, Poland | — | — | 3 |
@@ -85,7 +85,7 @@ updated: 2026-04-08
 | [[south-africa-hawks]] | national-unit | [[south-africa]] | — | — | 1 |
 | [[spain-guardia-civil]] | national-unit | Madrid, Spain | — | 1 | 0 |
 | [[spain-national-police]] | national-unit | [[spain]] | — | — | 1 |
-| [[sweden-police]] | national-unit | Stockholm, Sweden | — | 3 | 3 |
+| [[sweden-police]] | national-unit | Stockholm, Sweden | — | 4 | 3 |
 | [[ukraine-police]] | national-unit | Kyiv, Ukraine | — | 4 | 3 |
 | [[us-dcis]] | national-unit | Alexandria, Virginia, United States | — | 2 | 4 |
 | [[us-ncis]] | national-unit | [[united-states]] | — | 1 | 1 |
@@ -102,6 +102,6 @@ updated: 2026-04-08
 | [[supreme-prosecutors-office-korea]] | prosecution-office | Seocho-gu, Seoul, South Korea | — | — | 7 |
 | [[german-prosecution]] | prosecutorial-authority | Germany | — | 1 | 0 |
 | [[ncfta]] | public-private-partnership | United States | — | 1 | 0 |
-| [[afripol]] | regional-org | Algiers, Algeria | — | 5 | 0 |
-| [[eurojust]] | regional-org | The Hague, Netherlands | — | 22 | 9 |
+| [[afripol]] | regional-org | Algiers, Algeria | — | 6 | 0 |
+| [[eurojust]] | regional-org | The Hague, Netherlands | — | 24 | 9 |
 | [[europol-ec3]] | regional-org | The Hague, Netherlands | — | 66 | 9 |

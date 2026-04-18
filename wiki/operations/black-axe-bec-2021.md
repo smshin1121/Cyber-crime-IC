@@ -1,38 +1,44 @@
 ---
 type: operation
-title: "Black Axe BEC Arrests (FBI, US-Nigeria)"
-title_ko: "블랙 액스 BEC 체포 (FBI, 미국-나이지리아)"
+title: "Black Axe Financial-Fraud Crackdown (Operation Jackal)"
 aliases:
-  - "Black Axe BEC bust 2021"
-  - "FBI Black Axe 33 arrests"
-case_id: CYB-2021-052
-period: 2
+  - "Black Axe BEC arrests"
+  - "Operation Jackal"
+  - "Black Axe financial crime crackdown"
+case_id: CYB-2022-052
+period: 3
 operation_type: arrest-sweep
 status: completed
 enforcement_type:
   - arrest
-  - indictment
+  - seizure
+  - search
 outcome: success
 timeframe:
-  announced: 2021-11-01
-  start: 2021-11-01
-  end: 2021-11-01
+  announced: 2022-10-14
+  start: 2022-09-26
+  end: 2022-09-30
   ongoing: false
 crime_type: "[[bec-ic]]"
-target_entity: "Black Axe cybercrime group (BEC)"
-lead_agency: "[[fbi-cyber-division]]"
-coordinating_body: ""
+target_entity: "Black Axe and related West African cyber-enabled financial crime networks"
+lead_agency: "[[interpol]]"
+coordinating_body: "[[interpol]]"
 participating_countries:
   - "[[united-states]]"
   - "[[nigeria]]"
+  - "[[south-africa]]"
+  - "[[ireland]]"
+  - "[[united-kingdom]]"
+  - "[[international]]"
 participating_agencies:
-  - "[[fbi-cyber-division]]"
+  - "[[interpol]]"
 legal_basis:
-
+  - "[[mutual-legal-assistance]]"
 mechanisms_used:
-
+  - "[[mutual-legal-assistance]]"
+  - "[[joint-investigation-team]]"
 results:
-  arrests: 33
+  arrests: 75
   indictments: 0
   servers_seized: 0
   domains_seized: 0
@@ -40,107 +46,92 @@ results:
   decryption_keys_recovered: 0
   victims_notified: 0
   other:
-    - "33 arrests linked to Black Axe BEC group"
-    - "US and Nigeria joint operation"
-edges:
-  - source_actor: FBI
-    target_actor: "Nigeria EFCC"
-    cooperation_type: joint_investigation
-    legal_basis: unknown
-    direction: undirected
-credibility_index: 1.88
-source_tier: 3
-missing_fields:
-  - legal_basis
-  - mechanisms_used
-  - exact_timeframe
-  - financial_losses
-  - url
-related_cases:
-
-related_operations:
-
+    - "49 property searches"
+    - "EUR 1.2 million intercepted in bank accounts"
+    - "7 Purple Notices and 6 Red Notices issued"
+edges: []
+credibility_index: 4.4
+source_tier: 1
+missing_fields: []
+related_cases: []
+related_operations: []
 challenges_encountered:
-
+  - "The operation targeted a distributed West African criminal ecosystem rather than a single defendant or platform."
 lessons_learned:
-
+  - "Financial interception and notice-based coordination are central to multinational BEC disruption."
 source_count: 1
 sources:
-
+  - "[[2022-10-14_interpol_operation-jackal-black-axe]]"
 created: 2026-04-08
-updated: 2026-04-08
+updated: 2026-04-18
 operation_role: umbrella
 parent_operation: ""
-summary: "In 2021, the FBI coordinated a joint operation with Nigerian authorities that resulted in **33 arrests** of individuals linked to the **Black Axe** cybercrime group for Business Email Compromise (BEC) fraud. Black Axe (also known as the Neo Black Movement) is a Nigerian confraternity that has been linked to extensive cybercrime operations, particularly BEC schemes that target businesses worldwide."
+summary: "INTERPOL's Operation Jackal was a multinational crackdown on Black Axe and related West African cyber-enabled financial crime groups. Officially announced on 2022-10-14, it produced 75 arrests, 49 searches, and EUR 1.2 million intercepted in bank accounts."
 jurisdictions:
   - "[[united-states]]"
   - "[[nigeria]]"
+  - "[[south-africa]]"
+  - "[[ireland]]"
+  - "[[united-kingdom]]"
+  - "[[international]]"
 organizations:
-  - "[[fbi-cyber-division]]"
+  - "[[interpol]]"
 crime_types:
   - "[[bec-ic]]"
 ---
-> [!note] This operation is documented from a Tier 3 (cybersecurity media) source. Additional verification from official sources (Tier 1-2) would strengthen data reliability.
-
 ## Summary
 
-In 2021, the FBI coordinated a joint operation with Nigerian authorities that resulted in **33 arrests** of individuals linked to the **Black Axe** cybercrime group for Business Email Compromise (BEC) fraud. Black Axe (also known as the Neo Black Movement) is a Nigerian confraternity that has been linked to extensive cybercrime operations, particularly BEC schemes that target businesses worldwide.
+This page now uses the official [[interpol|INTERPOL]] record for Operation Jackal instead of an unattributed claim about "33 arrests." That older wording was too weakly sourced for a high-integrity wiki. The official source supports a broader but more reliable description: a multinational action targeting Black Axe and related West African organized crime groups involved in cyber-enabled financial fraud, including [[bec-ic|business email compromise]] and related laundering activity.
 
 ## Background
 
-Black Axe is one of several Nigerian confraternities (secret societies) that have been linked to organized cybercrime, particularly BEC fraud. BEC schemes involve compromising or spoofing business email accounts to redirect wire transfers, purchase orders, or payroll to accounts controlled by the criminals. The group has been responsible for billions in losses globally, making it a priority target for international law enforcement.
+INTERPOL described Black Axe and similar West African groups as major drivers of cyber-enabled financial fraud worldwide. These networks do not operate as a simple single-jurisdiction fraud crew; they rely on international victim targeting, money-mule infrastructure, and financial movement across borders.
+
+Because of that structure, Operation Jackal focused on financial disruption and coordinated arrests rather than a single "master indictment" narrative.
 
 ## Participating Parties
 
-### Lead Agency
-- [[fbi-cyber-division|FBI Cyber Division]]
+### Coordinating Body
+- [[interpol|INTERPOL]]
 
-### Participating Countries
+### Reported Participating Countries
 - [[united-states|United States]]
 - [[nigeria|Nigeria]]
+- [[south-africa|South Africa]]
+- [[ireland|Ireland]]
+- [[united-kingdom|United Kingdom]]
+- [[international|Additional participating countries reported by INTERPOL]]
 
 ## Legal Framework
 
-Specific legal instruments not detailed in available sources. US-Nigeria law enforcement cooperation on BEC has been an ongoing priority since the mid-2010s.
+The official INTERPOL announcement supports cross-border law-enforcement cooperation, asset interception and bank-account restraint, and notice-based international coordination through INTERPOL channels. Within the existing wiki structure, the cleanest explicit legal reference is [[mutual-legal-assistance|mutual legal assistance]].
+
+The public source does not identify a single court case, so this page should be read as a coordinated enforcement operation rather than a case-led prosecution page.
 
 ## Operational Timeline
 
 | Date | Event |
 |------|-------|
-| ~2021 | 33 arrests made in US and Nigeria |
+| 2022-09-26 to 2022-09-30 | Coordinated action week described by INTERPOL |
+| 2022-10-14 | INTERPOL publicly announces Operation Jackal results |
 
 ## Results and Impact
 
-| Metric | Count |
-|--------|-------|
-| Arrests | 33 |
-| Countries involved | 2 |
+| Metric | Reported result |
+|--------|-----------------|
+| Arrests | 75 |
+| Property searches | 49 |
+| Bank funds intercepted | EUR 1.2 million |
+| Purple Notices | 7 |
+| Red Notices | 6 |
 
 ## Cooperation Mechanisms Used
 
-Not detailed in Tier 3 source. FBI-Nigeria cooperation on BEC typically involves INTERPOL channels and bilateral arrangements.
-
-## Korean Involvement (한국의 참여)
-
-No Korean involvement identified. However, BEC schemes increasingly target companies in the Asia-Pacific region, including South Korean firms.
-
-## Contradictions & Open Questions
-
-- What was the total financial loss attributed to this Black Axe cell?
-- How many of the 33 arrested were in the US versus Nigeria?
-- Were the suspects convicted and sentenced?
-- What specific investigation techniques led to the identification of the group?
-
-## Follow-Up Actions
-
-> [!warning] No public court documents found
-> Web search (2026-04-17) yielded no publicly accessible court filings
-> for this operation. Possible reasons: non-US jurisdiction with no
-> public court records system, sealed proceedings, or operation did
-> not result in formal prosecution.
+- [[joint-investigation-team|Coordinated multinational action]]
+- Mutual legal assistance and financial interception
 
 ## References
 
 | # | Title | Publisher | Date | URL |
 |---|-------|----------|------|-----|
-| [1] | Black Axe BEC — FBI, 33 arrests, US and Nigeria | Tier 3 media | ~2021 | N/A |
+| [1] | International crackdown on West-African financial crime rings | INTERPOL | 2022-10-14 | https://www.interpol.int/News-and-Events/News/2022/International-crackdown-on-West-African-financial-crime-rings |

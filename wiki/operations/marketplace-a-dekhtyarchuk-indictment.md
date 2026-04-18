@@ -1,122 +1,131 @@
 ---
+type: operation
+title: "Marketplace A - Dekhtyarchuk Indictment"
 aliases:
-
-case_id: CYB-2021-054
-challenges_encountered:
-
-coordinating_body: ""
-created: 2026-04-08
-credibility_index: 2.55
-crime_type: "[[cybercrime-forum-ic]]"
-edges:
-
+  - "Marketplace A indictment"
+  - "Igor Dekhtyarchuk indictment"
+case_id: CYB-2022-054
+period: 3
+operation_type: indictment
+status: completed
 enforcement_type:
-
-lead_agency: "[[us-doj]]"
-legal_basis:
-
-lessons_learned:
-
-mechanisms_used:
-
-missing_fields:
-
-operation_type: joint-investigation
+  - indictment
+  - extradition
 outcome: success
-participating_agencies:
-
+timeframe:
+  announced: 2022-03-16
+  start: 2022-03-16
+  end: 2022-03-16
+  ongoing: false
+crime_type: "[[cybercrime-forum-ic]]"
+target_entity: "Marketplace A operator Igor Dekhtyarchuk"
+lead_agency: "[[us-doj]]"
+coordinating_body: ""
 participating_countries:
-
-period: 2
+  - "[[united-states]]"
+  - "[[latvia]]"
+participating_agencies:
+  - "[[us-doj]]"
+legal_basis:
+  - "[[mutual-legal-assistance]]"
+mechanisms_used:
+  - "[[mutual-legal-assistance]]"
+results:
+  arrests: 1
+  indictments: 1
+  servers_seized: 0
+  domains_seized: 0
+  cryptocurrency_seized: ""
+  decryption_keys_recovered: 0
+  victims_notified: 0
+  other:
+    - "Defendant extradited from Latvia"
+    - "Marketplace A alleged to have sold credentials and access devices"
+edges: []
+credibility_index: 4.2
+source_tier: 1
+missing_fields: []
 related_cases:
   - "[[us-v-dekhtyarchuk-marketplace-a]]"
 related_operations:
   - "[[operation-us-v-dekhtyarchuk-marketplace-a]]"
-results:
-  arrests: 1
-  cryptocurrency_seized: ""
-  decryption_keys_recovered: 0
-  domains_seized: 0
-  indictments: 1
-  other:
-
-  servers_seized: 0
-  victims_notified: 0
+challenges_encountered:
+  - "The case depended on cross-border custody and evidence transfer from Latvia to the United States."
+lessons_learned:
+  - "Marketplace prosecutions often become visible only after extradition or physical transfer of the defendant."
 source_count: 1
-source_tier: 3
 sources:
-
-status: completed
-target_entity: "Marketplace A operator (Dekhtyarchuk)"
-timeframe:
-  announced: 2021-01-01
-  end: 2021-12-31
-  ongoing: false
-  start: 2021-01-01
-title: "Marketplace A — Dekhtyarchuk Indictment"
-title_ko: "마켓플레이스 A — 데크티아르축 기소"
-type: operation
-updated: 2026-04-08
+  - "[[2022-03-16_justice-gov_united-states-v-igor-dekhtyarchuk]]"
+created: 2026-04-08
+updated: 2026-04-18
 operation_role: umbrella
 parent_operation: ""
-summary: "**Dekhtyarchuk** was indicted by US authorities for operating **Marketplace A**, an online marketplace for stolen data. The investigation involved cooperation between the **United States** and **Latvia**, demonstrating cross-border prosecution of cybercrime marketplace operators."
+summary: "On 2022-03-16, DOJ announced the indictment of Igor Dekhtyarchuk, alleged operator of Marketplace A, after extradition from Latvia. The case framed Marketplace A as a cybercrime market for stolen credentials and access devices affecting U.S. victims."
 organizations:
   - "[[us-doj]]"
 crime_types:
   - "[[cybercrime-forum-ic]]"
+jurisdictions:
+  - "[[united-states]]"
+  - "[[latvia]]"
 ---
-> [!note] This operation is documented from a Tier 3 (cybersecurity media) source. Additional verification from official sources (Tier 1-2) would strengthen data reliability.
-
 ## Summary
 
-**Dekhtyarchuk** was indicted by US authorities for operating **Marketplace A**, an online marketplace for stolen data. The investigation involved cooperation between the **United States** and **Latvia**, demonstrating cross-border prosecution of cybercrime marketplace operators.
+The Dekhtyarchuk indictment was a defendant-focused follow-on operation tied to the alleged operator of Marketplace A, a criminal marketplace for stolen credentials and related cybercrime products. DOJ announced the case on 2022-03-16 after Igor Dekhtyarchuk had been extradited from [[latvia|Latvia]] to the [[united-states|United States]].
+
+This page matters because it turns a loosely described marketplace prosecution into a traceable, source-backed operation page with a clear legal anchor.
 
 ## Background
 
-Online marketplaces for stolen data — including credentials, payment card information, and personal data — represent a key enabler of the cybercrime ecosystem. The prosecution of Marketplace A's operator was part of ongoing US efforts to dismantle the infrastructure supporting identity theft and financial fraud.
+According to the official DOJ announcement, Marketplace A operated as an online venue for trafficking in stolen credentials and access devices used in fraud and account compromise. The case illustrates a common pattern in cybercrime marketplace enforcement: infrastructure and criminal services may persist for years, but public visibility often begins only once a foreign arrest and extradition make a U.S. prosecution viable.
 
 ## Participating Parties
 
 ### Lead Agency
-- [[us-doj|US Department of Justice]]
+- [[us-doj|U.S. Department of Justice]]
 
-### Participating Countries
+### Participating Jurisdictions
 - [[united-states|United States]]
 - [[latvia|Latvia]]
 
 ## Legal Framework
 
-Specific legal instruments for US-Latvia cooperation not detailed in available Tier 3 sources. *Likely* involved MLAT arrangements or the Budapest Convention.
+The official release supports two clear international-cooperation dimensions:
 
-> [!warning] Legal status check needed
-> The specific legal basis for US-Latvia cooperation needs verification.
+- extradition from Latvia to the United States
+- [[mutual-legal-assistance|cross-border evidence and procedural support]] associated with prosecution
+
+The overt enforcement event itself is best characterized as an indictment-stage operation rather than a marketplace-wide coordinated takedown.
 
 ## Operational Timeline
 
 | Date | Event |
 |------|-------|
-| ~2021 | Dekhtyarchuk indicted for operating Marketplace A |
+| Before 2022-03-16 | Latvian custody and extradition process |
+| 2022-03-16 | DOJ announces indictment after extradition |
 
 ## Results and Impact
 
-| Metric | Count |
-|--------|-------|
-| Arrests | 1 |
+| Metric | Reported result |
+|--------|-----------------|
+| Arrests / custody events | 1 defendant transferred into U.S. process |
 | Indictments | 1 |
+| Cross-border jurisdictions | 2 |
 
-## Korean Involvement (한국의 참여)
+The impact of this kind of action is narrower than a full marketplace seizure, but it is still operationally significant because it shows that the United States can convert foreign custody into defendant-level cybercrime prosecution.
 
-No Korean involvement identified.
+## Cooperation Mechanisms Used
 
-## Contradictions & Open Questions
+- Indictment
+- Extradition
+- [[mutual-legal-assistance|Mutual legal assistance]]
 
-- What was the specific nature and scale of Marketplace A?
-- What was the total financial damage attributed to the marketplace?
-- Was Dekhtyarchuk extradited from Latvia or arrested elsewhere?
-- Was the defendant convicted and sentenced?
+## Follow-Up Actions
+
+The linked case page is [[us-v-dekhtyarchuk-marketplace-a]]. The corresponding defendant-specific follow-on operation is [[operation-us-v-dekhtyarchuk-marketplace-a]].
 
 ## References
 
 | # | Title | Publisher | Date | URL |
 |---|-------|----------|------|-----|
-| [1] | Marketplace A — Dekhtyarchuk indicted, US and Latvia | Tier 3 media | ~2021 | N/A |
+| [1] | Russian National Indicted in East Texas for Cyber Hacking Enterprise | U.S. Department of Justice (E.D. Tex.) | 2022-03-16 | https://www.justice.gov/usao-edtx/pr/russian-national-indicted-east-texas-cyber-hacking-enterprise |

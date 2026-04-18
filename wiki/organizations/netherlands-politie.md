@@ -39,6 +39,8 @@ operations_participated:
   - "[[operation-kraken-ghost-platform]]"
   - "[[operation-power-off]]"
   - "[[vpnlab-takedown]]"
+  - "[[cryptex-pm2btc-sanctions]]"
+  - "[[operation-trojan-shield]]"
 org_type: national-unit
 parent_org: "[[netherlands-politie-parent]]"
 source_count: 0

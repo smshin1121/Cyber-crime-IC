@@ -124,6 +124,10 @@ def _save(client, route: str, filepath: str) -> None:
         html = re.sub(r'href="/stats"', r'href="/stats.html"', html)
         html = re.sub(r'href="/search"', r'href="/search.html"', html)
 
+        # Step 1.5: keep root links usable after absolute-to-relative conversion
+        home_href = f'{prefix}index.html' if prefix else 'index.html'
+        html = html.replace('href="/"', f'href="{home_href}"')
+
         # Step 2: Convert absolute paths to relative
         html = html.replace('href="/', f'href="{prefix}')
         html = html.replace('action="/', f'action="{prefix}')

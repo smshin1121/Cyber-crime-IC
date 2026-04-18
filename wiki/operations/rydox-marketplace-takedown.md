@@ -1,7 +1,6 @@
 ---
 type: operation
 title: "Rydox Marketplace Takedown"
-title_ko: "라이독스 마켓플레이스 소탕"
 aliases:
   - "Rydox takedown"
   - "Rydox marketplace seizure"
@@ -13,6 +12,7 @@ enforcement_type:
   - arrest
   - seizure
   - takedown
+  - extradition-request
 outcome: success
 timeframe:
   announced: 2024-12-12
@@ -20,149 +20,146 @@ timeframe:
   end: 2024-12-12
   ongoing: false
 crime_type: "[[cybercrime-forum-ic]]"
-target_entity: "Rydox marketplace"
+target_entity: "Rydox cybercrime marketplace and its administrators"
 lead_agency: "[[fbi-cyber-division]]"
-coordinating_body: ""
+coordinating_body: "[[us-doj]]"
 participating_countries:
   - "[[united-states]]"
-  - "[[albania]]"
   - "[[kosovo]]"
+  - "[[albania]]"
   - "[[malaysia]]"
 participating_agencies:
   - "[[fbi-cyber-division]]"
+  - "[[us-doj]]"
 legal_basis:
-
+  - "[[mutual-legal-assistance]]"
 mechanisms_used:
-
+  - "[[mutual-legal-assistance]]"
 results:
   arrests: 3
-  indictments: 0
-  servers_seized: 0
+  indictments: 1
+  servers_seized: 1
   domains_seized: 1
-  cryptocurrency_seized: ""
+  cryptocurrency_seized: "Approximately $225,000"
   decryption_keys_recovered: 0
   victims_notified: 0
   other:
-    - "Rydox marketplace seized"
-    - "Administrators arrested in Albania, Kosovo, and Malaysia"
-    - "Marketplace sold stolen personal data, access devices, and cybercrime tools"
+    - "At least 7,600 sales reported"
+    - "More than 321,000 marketplace products listed"
+    - "More than 18,000 users reported"
+    - "At least $230,000 in marketplace revenue reported"
 edges:
-  - source_actor: FBI
-    target_actor: "Albania Police"
-    cooperation_type: joint_investigation
-    legal_basis: unknown
+  - source_actor: "[[fbi-cyber-division]]"
+    target_actor: "[[us-doj]]"
+    cooperation_type: prosecution_support
+    legal_basis: "[[domain-seizure]]"
     direction: undirected
-  - source_actor: FBI
-    target_actor: "Kosovo Police"
-    cooperation_type: joint_investigation
-    legal_basis: unknown
-    direction: undirected
-  - source_actor: FBI
-    target_actor: "Malaysia Police"
-    cooperation_type: joint_investigation
-    legal_basis: unknown
-    direction: undirected
-credibility_index: 1.88
-source_tier: 3
-missing_fields:
-  - legal_basis
-  - mechanisms_used
-  - financial_losses
-  - url
+credibility_index: 4.4
+source_tier: 1
+missing_fields: []
 related_cases:
-  - "[[us-v-kutleshi-rydox|United States v. Kutleshi (Rydox Marketplace)]]"
   - "[[us-v-kutleshi-rydox]]"
 related_operations:
   - "[[operation-us-v-kutleshi-rydox]]"
 challenges_encountered:
-
+  - "The marketplace had transnational administrators, infrastructure, and affected victims, requiring simultaneous action in multiple jurisdictions."
 lessons_learned:
-  - "Cybercrime marketplace operators can be arrested simultaneously across multiple continents"
+  - "Marketplace disruptions are stronger when infrastructure seizure is paired with arrests and restrained assets."
 source_count: 1
 sources:
-
+  - "[[2024-12-12_wdpa_kutleshi-rydox-indictment]]"
 created: 2026-04-08
-updated: 2026-04-17
+updated: 2026-04-18
 operation_role: umbrella
 parent_operation: ""
-summary: "In December 2024, the FBI coordinated an international operation that resulted in the seizure of the **Rydox** marketplace and the arrest of **3 administrators** in **Albania**, **Kosovo**, and **Malaysia**. Rydox was an online marketplace that sold stolen personal data, access devices, and cybercrime tools."
+summary: "On 2024-12-12, U.S. and partner authorities disrupted the Rydox cybercrime marketplace, arrested administrators in Kosovo and Albania, seized infrastructure in Malaysia, and restrained the Rydox domain and roughly $225,000 in cryptocurrency."
 jurisdictions:
   - "[[united-states]]"
-  - "[[albania]]"
   - "[[kosovo]]"
+  - "[[albania]]"
   - "[[malaysia]]"
 organizations:
   - "[[fbi-cyber-division]]"
+  - "[[us-doj]]"
 crime_types:
   - "[[cybercrime-forum-ic]]"
 ---
-> [!note] This operation is documented from a Tier 3 (cybersecurity media) source. Additional verification from official sources (Tier 1-2) would strengthen data reliability.
-
 ## Summary
 
-In December 2024, the FBI coordinated an international operation that resulted in the seizure of the **Rydox** marketplace and the arrest of **3 administrators** in **Albania**, **Kosovo**, and **Malaysia**. Rydox was an online marketplace that sold stolen personal data, access devices, and cybercrime tools.
+The Rydox takedown was a coordinated cybercrime marketplace disruption announced by the [[us-doj|U.S. Department of Justice]] on 2024-12-12. According to the official DOJ release, the action combined a U.S. indictment, a domain seizure, cryptocurrency restraint, arrests in [[kosovo|Kosovo]] and [[albania|Albania]], and server seizure activity in [[malaysia|Malaysia]].
 
-The operation was notable for the geographic diversity of arrests — spanning three continents (Europe, Southeast Asia) — demonstrating the FBI's reach in coordinating international arrests for cybercrime marketplace operators.
+This page is important because it captures a full-stack marketplace disruption model: prosecution, infrastructure seizure, arrests, and cross-border operational support all occurred in the same action.
 
 ## Background
 
-Rydox operated as an illicit online marketplace offering stolen personally identifiable information (PII), credit card data, login credentials, and cybercrime tools. Such marketplaces serve as key intermediaries in the cybercrime ecosystem, enabling identity theft, financial fraud, and other crimes by commoditizing stolen data.
+DOJ described Rydox as a cybercrime marketplace that sold stolen personal information, access devices, credentials, scam pages, and spamming tools. The announcement states that the marketplace had operated since 2016, completed at least 7,600 sales, offered more than 321,000 products, and served more than 18,000 users.
+
+That combination made Rydox more than a single fraud storefront. It functioned as reusable criminal infrastructure for identity theft, phishing, spam enablement, and account abuse.
 
 ## Participating Parties
 
-### Lead Agency
+### Lead Agencies
 - [[fbi-cyber-division|FBI Cyber Division]]
+- [[us-doj|U.S. Department of Justice]]
 
-### Participating Countries (4)
+### Participating Jurisdictions
 - [[united-states|United States]]
-- [[albania|Albania]]
 - [[kosovo|Kosovo]]
+- [[albania|Albania]]
 - [[malaysia|Malaysia]]
 
 ## Legal Framework
 
-Specific legal instruments for the multi-country arrests not detailed in available Tier 3 sources. The arrests in Albania, Kosovo, and Malaysia *likely* involved bilateral MLAT arrangements or extradition agreements.
+The public DOJ record clearly supports three mechanisms:
+
+- domain seizure of the Rydox marketplace
+- extradition-related action tied to the Kosovo arrests and U.S. request
+- [[mutual-legal-assistance|cross-border cooperation]] to synchronize arrests and infrastructure action
+
+The announcement also states that one defendant was expected to face domestic prosecution in Albania, illustrating that not every participant in the same coordinated action is necessarily routed into the same U.S. case.
 
 ## Operational Timeline
 
 | Date | Event |
 |------|-------|
-| Pre-2024 | Investigation into Rydox marketplace |
-| 2024-12-12 | Marketplace seized, 3 administrators arrested in 3 countries |
+| 2016 | DOJ says Rydox began operating |
+| 2024-12-12 | U.S. indictment unsealed, domain seized, arrests announced, Malaysian server action disclosed |
 
 ## Results and Impact
 
-| Metric | Count |
-|--------|-------|
-| Arrests | 3 (administrators) |
-| Marketplace seized | 1 (Rydox) |
-| Countries involved | 4 |
+| Metric | Reported result |
+|--------|-----------------|
+| Arrests | 3 |
+| Indictments | 1 U.S. case publicly referenced |
+| Domain seizures | 1 |
+| Server seizures | 1 server environment in Malaysia reported |
+| Cryptocurrency restrained | About $225,000 |
+| Marketplace revenue | At least $230,000 |
+| Sales | 7,600+ |
+| Marketplace products | 321,000+ |
+| Users | 18,000+ |
+
+The reported product volume and user count indicate that Rydox was not a marginal forum. It was a mature criminal marketplace whose disruption potentially removed a large amount of stolen-data inventory and cybercrime tooling from circulation.
 
 ## Cooperation Mechanisms Used
 
-Not detailed in Tier 3 source. Multi-country simultaneous arrests suggest pre-coordinated enforcement action.
+- Domain seizure
+- Server seizure
+- [[mutual-legal-assistance|Cross-border operational assistance]]
+- Extradition request support
 
-## Korean Involvement (한국의 참여)
+## Challenges and Friction Points
 
-No Korean involvement identified.
-
-## Contradictions & Open Questions
-
-- What was the total value of stolen data transacted through Rydox?
-- How many users did the marketplace have?
-- What specific legal mechanisms enabled arrests in Albania, Kosovo, and Malaysia?
-- Were the administrators extradited to the US for prosecution?
+- The action required coordination across jurisdictions with different prosecutorial pathways.
+- Some administrators were routed toward U.S. extradition exposure, while others were expected to face local proceedings.
+- Marketplace takedowns require technical continuity so that seizure banners, domain control, and evidentiary preservation are all maintained.
 
 ## Follow-Up Actions
 
-> [!warning] No public court documents found
-> Web search (2026-04-17) yielded no publicly accessible court filings
-> for this operation. Possible reasons: non-US jurisdiction with no
-> public court records system, sealed proceedings, or operation did
-> not result in formal prosecution.
+The defendant-specific case record is [[us-v-kutleshi-rydox]], with a linked follow-on enforcement page at [[operation-us-v-kutleshi-rydox]]. Additional public proceedings may emerge if extradition or local prosecutions become more visible.
 
 ## References
 
 | # | Title | Publisher | Date | URL |
 |---|-------|----------|------|-----|
-| [1] | Rydox marketplace takedown — US, Albania, Kosovo, Malaysia | Tier 3 media | 2024-12-12 | N/A |
+| [1] | Rydox Cybercrime Marketplace Shut Down and Three Administrators Arrested | U.S. Department of Justice (W.D. Pa.) | 2024-12-12 | https://www.justice.gov/usao-wdpa/pr/rydox-cybercrime-marketplace-shut-down-and-three-administrators-arrested |

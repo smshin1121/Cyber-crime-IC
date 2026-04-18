@@ -1,24 +1,23 @@
 ---
 type: operation
-title: "Infraud Organization — Telusma Sentencing"
-title_ko: "인프라우드 조직 — 텔루스마 판결"
+title: "Infraud Organization - Telusma Sentencing"
 aliases:
   - "Infraud Telusma sentencing"
-  - "Infraud follow-up prosecution"
-case_id: CYB-2021-053
-period: 2
-operation_type: joint-investigation
+  - "John Telusma sentencing"
+case_id: CYB-2022-053
+period: 3
+operation_type: sentencing
 status: completed
 enforcement_type:
-  - indictment
+  - sentencing
 outcome: success
 timeframe:
-  announced: 2021-01-01
-  start: 2021-01-01
-  end: 2021-12-31
+  announced: 2022-05-25
+  start: 2022-05-25
+  end: 2022-05-25
   ongoing: false
 crime_type: "[[cybercrime-forum-ic]]"
-target_entity: "Infraud Organization member (Telusma)"
+target_entity: "Infraud Organization member John Telusma"
 lead_agency: "[[us-doj]]"
 coordinating_body: ""
 participating_countries:
@@ -26,51 +25,42 @@ participating_countries:
 participating_agencies:
   - "[[us-doj]]"
 legal_basis:
-
+  - "sentencing"
 mechanisms_used:
-
+  - "sentencing"
 results:
   arrests: 0
-  indictments: 1
+  indictments: 0
   servers_seized: 0
   domains_seized: 0
   cryptocurrency_seized: ""
   decryption_keys_recovered: 0
   victims_notified: 0
   other:
-    - "Telusma sentenced for role in Infraud Organization"
-    - "Follow-up prosecution from 2018 Infraud takedown"
-edges:
-  - source_actor: "US DOJ"
-    target_actor: unknown
-    cooperation_type: joint_investigation
-    legal_basis: unknown
-    direction: undirected
-credibility_index: 1.88
-source_tier: 3
-missing_fields:
-  - legal_basis
-  - mechanisms_used
-  - exact_timeframe
-  - sentence_details
-  - url
+    - "Telusma sentenced to 80 months in prison"
+    - "Restitution ordered in the amount of $5,084,461"
+    - "Proceeding described as a follow-on to the broader Infraud case"
+edges: []
+credibility_index: 4.3
+source_tier: 1
+missing_fields: []
 related_cases:
   - "[[us-v-telusma-infraud]]"
 related_operations:
   - "[[infraud-organization-takedown]]"
   - "[[operation-us-v-telusma-infraud]]"
 challenges_encountered:
-
+  - "Sentencing-stage proceedings illustrate the long prosecutorial tail that follows large forum takedowns."
 lessons_learned:
-  - "Large-scale cybercrime forum takedowns generate years of follow-up prosecutions"
+  - "Major cybercrime forum cases continue producing value years after the initial arrest wave."
 source_count: 1
 sources:
-
+  - "[[2022-05-25_justice-gov_united-states-v-john-telusma]]"
 created: 2026-04-08
-updated: 2026-04-08
+updated: 2026-04-18
 operation_role: umbrella
 parent_operation: ""
-summary: "In 2021, **Telusma**, a member of the **Infraud Organization**, was sentenced for his role in the international cybercrime network. This prosecution was a follow-up to the [[infraud-organization-takedown|2018 Infraud Organization takedown]] that resulted in 36 indictments and 13 arrests. The sentencing demonstrated the long tail of prosecutions that follow major cybercrime forum disruptions."
+summary: "On 2022-05-25, DOJ announced that John Telusma had been sentenced to 80 months in prison for participating in the Infraud cybercrime enterprise. The sentencing extended the enforcement lifecycle of the earlier Infraud takedown and imposed more than $5 million in restitution."
 jurisdictions:
   - "[[united-states]]"
 organizations:
@@ -78,51 +68,56 @@ organizations:
 crime_types:
   - "[[cybercrime-forum-ic]]"
 ---
-> [!note] This operation is documented from a Tier 3 (cybersecurity media) source. Additional verification from official sources (Tier 1-2) would strengthen data reliability.
-
 ## Summary
 
-In 2021, **Telusma**, a member of the **Infraud Organization**, was sentenced for his role in the international cybercrime network. This prosecution was a follow-up to the [[infraud-organization-takedown|2018 Infraud Organization takedown]] that resulted in 36 indictments and 13 arrests. The sentencing demonstrated the long tail of prosecutions that follow major cybercrime forum disruptions.
+This operation page captures the sentencing phase for John Telusma, one of the defendants tied to the [[infraud-organization-takedown|Infraud Organization]] prosecution stream. DOJ announced on 2022-05-25 that Telusma had been sentenced to 80 months in prison and ordered to pay $5,084,461 in restitution.
+
+The value of this page is not that it marks a new takedown, but that it preserves the operational afterlife of a major cybercrime forum case. Large forum disruptions often generate years of downstream plea, conviction, and sentencing events.
 
 ## Background
 
-The Infraud Organization was a massive cybercrime forum dismantled in February 2018 with 36 indictments and 13 arrests. The organization had operated since 2010 with nearly 11,000 members and facilitated an estimated $530 million in losses. The Telusma sentencing was part of the ongoing prosecution of Infraud members identified during the original takedown.
+Infraud was one of the most visible cybercrime-forum prosecutions brought by DOJ, and its headline disruption occurred years before this sentencing event. Telusma's sentencing demonstrates how a major international cybercrime case remains active long after the public announcement phase.
+
+According to DOJ, the sentencing concerned Telusma's participation in a transnational cybercrime enterprise that trafficked in stolen financial data and fraud-enablement services.
 
 ## Participating Parties
 
 ### Lead Agency
-- [[us-doj|US Department of Justice]]
+- [[us-doj|U.S. Department of Justice]]
+
+### Jurisdiction
+- [[united-states|United States]]
 
 ## Legal Framework
 
-Prosecution under US federal cybercrime statutes as part of the broader Infraud case.
+This page is best understood as a sentencing-stage enforcement event within a longer criminal case. Unlike a seizure or synchronized arrest action, the legal significance lies in the court's final punishment and restitution order.
 
 ## Operational Timeline
 
 | Date | Event |
 |------|-------|
-| 2018-02 | Original Infraud Organization takedown |
-| ~2021 | Telusma sentenced |
+| 2018 | Infraud takedown and major public arrests/indictments |
+| 2022-05-25 | DOJ announces Telusma sentencing |
 
 ## Results and Impact
 
-| Metric | Detail |
-|--------|--------|
-| Sentencing | Telusma sentenced for Infraud participation |
+| Metric | Reported result |
+|--------|-----------------|
+| Prison sentence | 80 months |
+| Restitution | $5,084,461 |
 
-## Korean Involvement (한국의 참여)
+The sentencing shows that cybercrime-enterprise cases create measurable follow-through even when the original takedown is no longer in the news cycle. Restitution and custodial punishment are part of the disruption effect, not just a judicial epilogue.
 
-No Korean involvement identified.
+## Cooperation Mechanisms Used
 
-## Contradictions & Open Questions
+- Sentencing-stage prosecution
 
-- What was the specific sentence imposed on Telusma?
-- What was Telusma's role within the Infraud Organization?
-- How many of the original 36 indictees have been convicted to date?
-- Were any international cooperation mechanisms used in the Telusma prosecution specifically?
+## Follow-Up Actions
+
+The linked case page is [[us-v-telusma-infraud]], and the broader parent enforcement context remains [[infraud-organization-takedown]]. The corresponding defendant-specific follow-on operation is [[operation-us-v-telusma-infraud]].
 
 ## References
 
 | # | Title | Publisher | Date | URL |
 |---|-------|----------|------|-----|
-| [1] | Infraud — Telusma sentenced, international network | Tier 3 media | ~2021 | N/A |
+| [1] | Man Sentenced for Transnational Cybercrime Enterprise | U.S. Department of Justice | 2022-05-25 | https://www.justice.gov/archives/opa/pr/man-sentenced-transnational-cybercrime-enterprise |

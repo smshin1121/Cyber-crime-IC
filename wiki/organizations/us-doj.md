@@ -1192,6 +1192,8 @@ operations_participated:
   - "[[operation-wyandotte-county-district-court-bookkeepers-indicted-in-900-000-wire-fraud-scheme]]"
   - "[[operation-yevgeniy-nikulin-indicted-for-hacking-linkedin-dropbox-and-formspring]]"
   - "[[operation-zuni-man-indicted-for-federal-charges-in-triple-homicide]]"
+  - "[[cryptex-pm2btc-sanctions]]"
+  - "[[rydox-marketplace-takedown]]"
 org_type: national-agency
 parent_org: ""
 source_count: 5

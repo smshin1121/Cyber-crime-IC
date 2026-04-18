@@ -98,6 +98,7 @@ operations_participated:
   - "[[qakbot-gallyamov-indictment]]"
   - "[[trickbot-operations]]"
   - "[[vpnlab-takedown]]"
+  - "[[operation-us-v-parsarad-nemesis]]"
 org_type: national-agency
 parent_org: "[[fbi]]"
 source_count: 12

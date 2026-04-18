@@ -1,10 +1,10 @@
 ---
 type: operation
 title: "Belgium-Netherlands Phishing Gang Arrests"
-title_ko: "벨기에-네덜란드 피싱 갱 체포"
+title_ko: "벨기에-네덜란드 피싱 조직 검거"
 aliases:
   - "Belgium Netherlands phishing arrests"
-  - "Europol phishing gang bust 2025"
+  - "Eurojust phone phishing gang arrests"
 case_id: CYB-2025-051
 period: 3
 operation_type: arrest-sweep
@@ -13,23 +13,22 @@ enforcement_type:
   - arrest
 outcome: success
 timeframe:
-  announced: 2025-01-01
-  start: 2025-01-01
-  end: 2025-03-31
+  announced: 2024-12-06
+  start: 2024-12-06
+  end: 2024-12-06
   ongoing: false
 crime_type: "[[online-fraud-ic]]"
-target_entity: "Belgian-Dutch phishing gang"
+target_entity: "Belgian-Dutch phone phishing gang"
 lead_agency: ""
-coordinating_body: "[[europol-ec3]]"
+coordinating_body: "[[eurojust]]"
 participating_countries:
   - "[[belgium]]"
   - "[[netherlands]]"
 participating_agencies:
+  - "[[eurojust]]"
   - "[[europol-ec3]]"
 legal_basis:
-
 mechanisms_used:
-
 results:
   arrests: 8
   indictments: 0
@@ -39,64 +38,63 @@ results:
   decryption_keys_recovered: 0
   victims_notified: 0
   other:
-    - "8 arrests for phishing fraud"
-    - "Europol-coordinated Belgian-Dutch operation"
+    - "17 places searched in Belgium and the Netherlands"
+    - "Gang mainly operated from Rotterdam while targeting victims in Belgium"
 edges:
-  - source_actor: "Belgium Police"
-    target_actor: "Netherlands Police"
+  - source_actor: "Belgium authorities"
+    target_actor: "Netherlands authorities"
     cooperation_type: joint_investigation
     legal_basis: unknown
     direction: undirected
-  - source_actor: Europol
-    target_actor: "Belgium Police"
+  - source_actor: Eurojust
+    target_actor: Europol
     cooperation_type: joint_investigation
     legal_basis: unknown
     direction: undirected
-credibility_index: 1.88
-source_tier: 3
+credibility_index: 4.08
+source_tier: 1
 missing_fields:
   - legal_basis
   - mechanisms_used
   - lead_agency
   - financial_losses
-  - url
 related_cases:
-
 related_operations:
-
 challenges_encountered:
-
 lessons_learned:
-
+  - "Cross-border phone-phishing gangs can be disrupted effectively when police and judicial coordination run in parallel."
 source_count: 1
 sources:
-
+  - "[[2024-12-06_eurojust_action-against-phone-phishing-gang-belgium-and-netherlands-eight-arrests]]"
 created: 2026-04-08
-updated: 2026-04-08
+updated: 2026-04-18
 operation_role: umbrella
 parent_operation: ""
-summary: "In 2025, Europol coordinated a joint Belgian-Dutch operation that resulted in **8 arrests** of individuals involved in a **phishing gang** operating across Belgium and the Netherlands. The operation targeted a criminal group that conducted phishing attacks to steal banking credentials and commit financial fraud."
+summary: "Belgian and Dutch authorities, supported by Eurojust and Europol, arrested eight suspects in December 2024 in a coordinated action against a phone-phishing gang."
 jurisdictions:
   - "[[belgium]]"
   - "[[netherlands]]"
 organizations:
+  - "[[eurojust]]"
   - "[[europol-ec3]]"
 crime_types:
   - "[[online-fraud-ic]]"
 ---
-> [!note] This operation is documented from a Tier 3 (cybersecurity media) source. Additional verification from official sources (Tier 1-2) would strengthen data reliability.
+> [!note] Official source confirmed
+> This page is anchored to Eurojust's official release rather than a placeholder media summary.
 
 ## Summary
 
-In 2025, Europol coordinated a joint Belgian-Dutch operation that resulted in **8 arrests** of individuals involved in a **phishing gang** operating across Belgium and the Netherlands. The operation targeted a criminal group that conducted phishing attacks to steal banking credentials and commit financial fraud.
+Belgian and Dutch authorities, supported by [[eurojust|Eurojust]] and [[europol-ec3|Europol EC3]], arrested eight suspects in December 2024 in a coordinated action against a cross-border phone-phishing gang. The group targeted victims mainly in Belgium while operating largely from Rotterdam and other Dutch cities.
 
 ## Background
 
-Cross-border phishing gangs operating in the Benelux region have been a persistent challenge, exploiting the proximity and economic integration of Belgium and the Netherlands. These gangs typically conduct phishing campaigns via SMS (smishing) or email, impersonating banks to steal login credentials and subsequently drain victims' bank accounts.
+The group blended classic phishing and social engineering. According to Eurojust, suspects did not only seek banking or financial data by phone or online, but also visited mostly elderly victims in person while pretending to be bank employees or police officers. That hybrid online-offline fraud model made synchronized action across Belgium and the Netherlands especially important.
 
 ## Participating Parties
 
-### Coordinating Body
+### Coordinating Bodies
+- [[eurojust|Eurojust]]
 - [[europol-ec3|Europol EC3]]
 
 ### Participating Countries
@@ -105,24 +103,26 @@ Cross-border phishing gangs operating in the Benelux region have been a persiste
 
 ## Legal Framework
 
-Specific legal instruments not detailed in available Tier 3 sources. The Europol coordination suggests use of EU cooperation mechanisms, *likely* including the European Investigation Order.
+The public source does not list the full legal package, but it confirms that Eurojust and Europol coordinated and supported the action. That indicates formal judicial and police cooperation rather than an informal information-sharing-only arrangement.
 
 ## Operational Timeline
 
 | Date | Event |
 |------|-------|
-| ~2025-Q1 | 8 arrests in Belgium and Netherlands |
+| 2024-12-06 | Eight suspects arrested in Belgium and the Netherlands |
+| 2024-12-06 | Authorities search 17 places across both countries |
 
 ## Results and Impact
 
 | Metric | Count |
 |--------|-------|
 | Arrests | 8 |
-| Countries involved | 2 (+ Europol coordination) |
+| Search locations | 17 |
+| Countries involved | 2 (+ Eurojust and Europol support) |
 
 ## Cooperation Mechanisms Used
 
-Not detailed in Tier 3 source. Belgian-Dutch police cooperation is well-established through Europol and bilateral Benelux agreements.
+Eurojust and Europol officially supported the operation. The case shows the value of pairing judicial coordination with operational policing in neighboring jurisdictions where fraud networks move quickly across borders.
 
 ## Korean Involvement (한국의 참여)
 
@@ -130,20 +130,12 @@ No Korean involvement identified.
 
 ## Contradictions & Open Questions
 
-- How many victims were affected by the phishing gang?
-- What was the total financial loss?
-- What specific methods (SMS, email, fake websites) were used?
-- Were the arrested individuals the organizers or lower-level operators?
-
-## Follow-Up Actions
-
-> [!warning] No public court documents found
-> Web search (2026-04-17) yielded no publicly accessible court filings
-> for this operation. Possible reasons: non-US jurisdiction with no
-> public court records system, sealed proceedings, or operation did
-> not result in formal prosecution.
+- What was the total financial loss caused by the gang?
+- How many victims were affected?
+- Were the eight suspects ultimately prosecuted together or in separate national proceedings?
 
 ## References
+
 | # | Title | Publisher | Date | URL |
 |---|-------|----------|------|-----|
-| [1] | Belgium and Netherlands phishing gang — Europol, 8 arrests | Tier 3 media | ~2025 | N/A |
+| [1] | Action against ‘phone phishing’ gang in Belgium and the Netherlands: eight arrests | Eurojust | 2024-12-06 | https://www.eurojust.europa.eu/news/action-against-phone-phishing-gang-belgium-and-netherlands-eight-arrests |

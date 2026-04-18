@@ -184,6 +184,18 @@ body {
   border: 1px solid var(--border-color);
   padding: 6px 10px;
 }
+.article-body th,
+.article-body td,
+.article-body th a,
+.article-body td a,
+.infobox th,
+.infobox td,
+.infobox th a,
+.infobox td a,
+.infobox-header {
+  overflow-wrap: anywhere;
+  word-break: break-word;
+}
 .article-body tr:nth-child(even) { background: #fafafa; }
 
 .article-body code {

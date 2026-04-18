@@ -6,7 +6,7 @@ created: 2026-04-08
 updated: 2026-04-14
 ---
 
-# Sources (1701)
+# Sources (1706)
 
 | Source | Type | Publisher | Tier | Reliability | Domain |
 |--------|------|-----------|------|-------------|--------|
@@ -638,6 +638,7 @@ updated: 2026-04-14
 | [[2026-04-18_justice-gov_theodore-man-sentenced-prison-fraud-schemes-and-aggravated-identity-theft]] | press-release | US DOJ USAO | ? | high | ? |
 | [[2026-04-18_justice-gov_sumter-man-pleads-guilty-destruction-energy-facility-and-possession-child-sexual-abuse]] | press-release | US DOJ USAO | ? | high | ? |
 | [[2026-04-18_justice-gov_conway-man-sentenced-federal-prison-possessing-child-sexual-abuse-materials]] | press-release | US DOJ USAO | ? | high | ? |
+| [[2024-12-06_eurojust_action-against-phone-phishing-gang-belgium-and-netherlands-eight-arrests]] | press-release | Eurojust | 1 | high | ? |
 | [[europol-fraudulent-shopping-sites-takedown]] | press-release | Europol | 2 | high | ? |
 | [[2026-04-18_justice-gov_nebraska-man-pleads-guilty-multi-million-dollar-cryptojacking-case]] | press-release | US DOJ USAO | ? | high | ? |
 | [[2026-04-18_justice-gov_criminal-division]] | press-release | US DOJ USAO | ? | high | ? |
@@ -696,6 +697,8 @@ updated: 2026-04-14
 | [[the-cyber-express-operation-avalanche]] | news | The Cyber Express | 3 | medium | ? |
 | [[2026-04-18_justice-gov_two-russian-nationals-charged-connection-operating-billion-dollar-money-laundering]] | press-release | US DOJ USAO | ? | high | ? |
 | [[2026-04-18_justice-gov_fraud-public-corruption-and-civil-rights-section]] | press-release | US DOJ USAO | ? | high | ? |
+| [[2024-09-26_treasury_cryptex-pm2btc-coordinated-actions]] | press-release | U.S. Department of the Treasury | 1 | high | ? |
+| [[2024-09-26_justice-gov_two-russian-nationals-charged-money-laundering-services]] | press-release | US Department of Justice | 1 | high | ? |
 | [[2026-04-18_justice-gov_seven-charged-after-federal-investigation-disrupts-massive-counterfeit-pill]] | press-release | US DOJ USAO | ? | high | ? |
 | [[2026-04-18_justice-gov_former-emergency-physician-pleads-guilty-possessing-child-pornography]] | press-release | US DOJ USAO | ? | high | ? |
 | [[2026-04-18_justice-gov_defendants-sentenced-global-darknet-conspiracy]] | press-release | US DOJ USAO | ? | high | ? |
@@ -981,6 +984,7 @@ updated: 2026-04-14
 | [[2023-07-11_sdny_roger-thomas-clark-silk-road-sentencing]] | court-document | US DOJ (Southern District of New York) | ? | high | ? |
 | [[2023-07-11_justice-gov_united-states-v-roger-thomas-clark]] | press-release | US DOJ (Southern District of New York) | ? | high | ? |
 | [[2026-04-18_justice-gov_9-51000]] | press-release | US DOJ | ? | high | ? |
+| [[2023-07-05_interpol_operation-nervone-opera1er-arrest]] | press-release | INTERPOL | 1 | high | ? |
 | [[2023-07-01_oodaloop-com_doj-acts-on-national-cybersecurity-strategy-implementation-plan-with-fusion-of-c]] | press-release | OODA Loop | ? | medium | ? |
 | [[2026-04-18_justice-gov_uk-citizen-sentenced-five-years-prison-cybercrime-offenses]] | press-release | US DOJ USAO | ? | high | ? |
 | [[2026-04-18_justice-gov_uk-citizen-sentenced-five-years-cybercrime-offenses]] | press-release | US DOJ USAO | ? | high | ? |
@@ -1096,6 +1100,7 @@ updated: 2026-04-14
 | [[2022-11-01_gbhackers-com_operation-haechi-iii-interpol-arrested-1000-cyber-criminals-seized-130-million]] | press-release | GBHackers | ? | medium | ? |
 | [[2026-04-18_justice-gov_hacker-and-dark-market-operator-arraigned-federal-charges]] | press-release | US DOJ USAO | ? | high | ? |
 | [[2026-04-18_justice-gov_former-pitt-student-sentenced-6-years-prison-threatening-communications-and-impeding]] | press-release | US DOJ USAO | ? | high | ? |
+| [[2022-10-14_interpol_operation-jackal-black-axe]] | press-release | INTERPOL | ? | high | ? |
 | [[2026-04-18_justice-gov_california-man-indicted-cryptocurrency-money-laundering-conspiracy]] | press-release | US DOJ USAO | ? | high | ? |
 | [[2026-04-18_justice-gov_former-hacker-sentenced-stealing-computer-power-mine-cryptocurrency-and-stealing]] | press-release | US DOJ USAO | ? | high | ? |
 | [[2026-04-18_justice-gov_nigerian-state-official-sentenced-5-years-prison-stealing-us-disaster-aid-and-taxpayer]] | press-release | US DOJ USAO | ? | high | ? |

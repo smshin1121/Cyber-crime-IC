@@ -297,6 +297,7 @@ def bilingual_headings(html: str) -> str:
 def render_markdown(text):
     """Render markdown to HTML with wikilinks, callouts, and bilingual headings."""
     text = convert_wikilinks(text)
+    text = linkify_bare_urls_in_markdown(text)
     html = markdown.markdown(
         text,
         extensions=[
@@ -311,6 +312,22 @@ def render_markdown(text):
     html = open_external_links_in_new_tab(html)
     html = bilingual_headings(html)
     return Markup(html)
+
+
+def linkify_bare_urls_in_markdown(text):
+    """Turn bare URLs into Markdown links so rendering is consistent."""
+    pattern = re.compile(r'(?P<prefix>(^|[\s|>]))(?P<url>https?://[^\s<|]+)', re.M)
+
+    def replace(match):
+        prefix = match.group("prefix")
+        url = match.group("url")
+        trailing = ""
+        while url and url[-1] in ".,;:":
+            trailing = url[-1] + trailing
+            url = url[:-1]
+        return f"{prefix}[{url}]({url}){trailing}"
+
+    return pattern.sub(replace, text)
 
 
 def get_all_pages():

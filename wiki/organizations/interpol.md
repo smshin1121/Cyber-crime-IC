@@ -50,6 +50,7 @@ operations_participated:
   - "[[operation-usd-300-million-seized-and-3-500-suspects-arrested-in-international-financial-crime-operation-operation-haechi-3]]"
   - "[[operation-usd-300-million-seized-and-3-500-suspects-arrested-in-international-financial-crime-operation-operation-haechi]]"
   - "[[operation-usd-300-million-seized-and-3-500-suspects-arrested-operation-haechi-iv]]"
+  - "[[black-axe-bec-2021]]"
 org_type: international-org
 parent_org: ""
 source_count: 4

@@ -28,6 +28,7 @@ operations_participated:
   - "[[operation-serengeti]]"
   - "[[operation-contender-2]]"
   - "[[operation-red-card]]"
+  - "[[operation-nervone]]"
 org_type: regional-org
 parent_org: "[[african-union]]"
 source_count: 0

@@ -45,6 +45,8 @@ operations_participated:
   - "[[operation-de-fr-online-fraud-group-2026]]"
   - "[[operation-onymous]]"
   - "[[vpnlab-takedown]]"
+  - "[[belgium-netherlands-phishing-gang]]"
+  - "[[operation-us-v-parsarad-nemesis]]"
 org_type: regional-org
 parent_org: ""
 source_count: 9

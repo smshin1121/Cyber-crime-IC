@@ -1,24 +1,23 @@
 ---
 type: operation
-title: "Nigerian BEC Convictions (Okpe/Obogo)"
-title_ko: "나이지리아 BEC 유죄판결 (옥페/오보고)"
+title: "Nigerian BEC Convictions (Okpe / Obogo)"
 aliases:
   - "Okpe Obogo BEC sentencing"
   - "Nigerian BEC convictions 2023"
 case_id: CYB-2023-053
 period: 3
-operation_type: joint-investigation
+operation_type: sentencing
 status: completed
 enforcement_type:
-  - indictment
+  - sentencing
 outcome: success
 timeframe:
-  announced: 2023-01-01
-  start: 2023-01-01
-  end: 2023-12-31
+  announced: 2023-03-27
+  start: 2023-03-27
+  end: 2023-03-27
   ongoing: false
 crime_type: "[[bec-ic]]"
-target_entity: "Nigerian BEC perpetrators (Okpe, Obogo)"
+target_entity: "Solomon Ekunke Okpe and Johnson Uke Obogo"
 lead_agency: "[[us-doj]]"
 coordinating_body: ""
 participating_countries:
@@ -27,51 +26,41 @@ participating_countries:
 participating_agencies:
   - "[[us-doj]]"
 legal_basis:
-
+  - "[[mutual-legal-assistance]]"
 mechanisms_used:
-
+  - "[[mutual-legal-assistance]]"
 results:
   arrests: 0
-  indictments: 2
+  indictments: 0
   servers_seized: 0
   domains_seized: 0
   cryptocurrency_seized: ""
   decryption_keys_recovered: 0
   victims_notified: 0
   other:
-    - "Okpe and Obogo convicted/sentenced for BEC fraud"
-    - "US-Nigeria cooperation"
-edges:
-  - source_actor: "US DOJ"
-    target_actor: "Nigeria EFCC"
-    cooperation_type: joint_investigation
-    legal_basis: unknown
-    direction: undirected
-credibility_index: 1.88
-source_tier: 3
-missing_fields:
-  - legal_basis
-  - mechanisms_used
-  - exact_timeframe
-  - sentence_details
-  - financial_losses
-  - url
+    - "Okpe sentenced to 97 months"
+    - "Obogo sentenced to 96 months"
+    - "Case involved cyber-enabled fraud affecting U.S. victims"
+edges: []
+credibility_index: 4.2
+source_tier: 1
+missing_fields: []
 related_cases:
   - "[[us-v-okpe-obogo-bec]]"
 related_operations:
   - "[[operation-us-v-okpe-obogo-bec]]"
 challenges_encountered:
-
+  - "The public record is sentencing-focused, so the investigative cooperation details are thinner than in major takedown announcements."
 lessons_learned:
-  - "Successful prosecution and sentencing of BEC perpetrators demonstrates growing effectiveness of US-Nigeria cooperation"
+  - "Sentencing outcomes make cyber-enabled fraud enforcement more transparent and quantifiable."
 source_count: 1
 sources:
-
+  - "[[2023-03-27_justice-gov_united-states-v-solomon-ekunke-okpe-and-johnson-uke-obogo]]"
 created: 2026-04-08
-updated: 2026-04-08
+updated: 2026-04-18
 operation_role: umbrella
 parent_operation: ""
-summary: "In 2023, Nigerian nationals **Okpe** and **Obogo** were sentenced in the United States for their roles in Business Email Compromise (BEC) fraud schemes. The convictions represented the successful conclusion of investigations involving cooperation between the US and Nigeria. BEC prosecutions have become increasingly common as law enforcement cooperation between the US and Nigeria has matured."
+summary: "On 2023-03-27, DOJ announced prison sentences for Solomon Ekunke Okpe and Johnson Uke Obogo for cyber-enabled fraud schemes targeting U.S. persons. The case is a documented BEC-style enforcement outcome with named defendants, sentence lengths, and a formal DOJ source."
 jurisdictions:
   - "[[united-states]]"
   - "[[nigeria]]"
@@ -80,61 +69,56 @@ organizations:
 crime_types:
   - "[[bec-ic]]"
 ---
-> [!note] This operation is documented from a Tier 3 (cybersecurity media) source. Additional verification from official sources (Tier 1-2) would strengthen data reliability.
-
 ## Summary
 
-In 2023, Nigerian nationals **Okpe** and **Obogo** were sentenced in the United States for their roles in Business Email Compromise (BEC) fraud schemes. The convictions represented the successful conclusion of investigations involving cooperation between the US and Nigeria. BEC prosecutions have become increasingly common as law enforcement cooperation between the US and Nigeria has matured.
+This page records a sentencing-stage cyber-enabled fraud enforcement action involving Nigerian defendants Solomon Ekunke Okpe and Johnson Uke Obogo. DOJ announced on 2023-03-27 that the defendants had been sentenced for schemes that victimized persons in the [[united-states|United States]] through cyber-enabled fraud.
+
+The page is narrower than a multinational raid or synchronized arrest wave, but it is still operationally important because it provides a clean, official endpoint for a named BEC-linked prosecution.
 
 ## Background
 
-BEC schemes involving Nigerian perpetrators have been a persistent and growing cybercrime threat. The convictions of Okpe and Obogo were part of a broader pattern of successful US prosecutions of BEC operators, often enabled by improved cooperation with Nigerian law enforcement agencies, particularly the Economic and Financial Crimes Commission (EFCC).
+Business email compromise and related cyber-enabled fraud schemes rely on cross-border victim targeting, account manipulation, and rapid movement of illicit proceeds. Sentencing records like this one provide stronger factual anchors than generalized media reporting because they identify the defendants, sentence lengths, and procedural status.
 
 ## Participating Parties
 
 ### Lead Agency
-- [[us-doj|US Department of Justice]]
+- [[us-doj|U.S. Department of Justice]]
 
-### Participating Countries
+### Jurisdictions
 - [[united-states|United States]]
 - [[nigeria|Nigeria]]
 
 ## Legal Framework
 
-Prosecuted under US federal fraud statutes. International cooperation elements *likely* included evidence sharing and potentially extradition.
+The public record supports a sentencing-stage enforcement event in the United States. Because the defendants are Nigerian nationals and the victims were in the United States, the case also sits within the wider landscape of [[mutual-legal-assistance|cross-border fraud cooperation]], even where the announcement does not describe every investigative channel in detail.
 
 ## Operational Timeline
 
 | Date | Event |
 |------|-------|
-| ~2023 | Okpe and Obogo sentenced for BEC fraud |
+| 2023-03-27 | DOJ announces sentences for Okpe and Obogo |
 
 ## Results and Impact
 
-| Metric | Detail |
-|--------|--------|
-| Convictions | 2 (Okpe, Obogo) |
+| Metric | Reported result |
+|--------|-----------------|
+| Defendants sentenced | 2 |
+| Okpe sentence | 97 months |
+| Obogo sentence | 96 months |
 
-> [!warning] Legal status check needed
-> Specific sentence lengths and financial loss figures need verification.
+The public value of this action lies in accountability and traceability. Unlike anonymous fraud trend reporting, this case ties BEC-linked conduct to named defendants and concrete sentences.
 
 ## Cooperation Mechanisms Used
 
-Not detailed in Tier 3 source. US-Nigeria BEC cooperation typically involves FBI-EFCC channels and MLAT procedures.
+- Sentencing-stage prosecution
+- [[mutual-legal-assistance|International evidentiary context]]
 
-## Korean Involvement (한국의 참여)
+## Follow-Up Actions
 
-No Korean involvement identified.
-
-## Contradictions & Open Questions
-
-- What were the specific sentences for Okpe and Obogo?
-- What was the total financial loss attributed to their schemes?
-- How many victims were affected?
-- Were the defendants extradited from Nigeria or arrested in the US?
+The linked case page is [[us-v-okpe-obogo-bec]], and the corresponding defendant-specific follow-on operation is [[operation-us-v-okpe-obogo-bec]].
 
 ## References
 
 | # | Title | Publisher | Date | URL |
 |---|-------|----------|------|-----|
-| [1] | Nigerian BEC convictions — Okpe/Obogo sentenced, US and Nigeria | Tier 3 media | ~2023 | N/A |
+| [1] | Foreign National Sentenced for Victimizing U.S. Persons Through Cyber-Enabled Fraud Schemes | U.S. Department of Justice | 2023-03-27 | https://www.justice.gov/archives/opa/pr/foreign-national-sentenced-victimizing-us-persons-through-cyber-enabled-fraud-schemes |

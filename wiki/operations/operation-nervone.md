@@ -1,7 +1,7 @@
 ---
 type: operation
 title: "Operation Nervone (OPERA1ER)"
-title_ko: "네르보네 작전 (OPERA1ER)"
+title_ko: "작전 Nervone (OPERA1ER)"
 aliases:
   - "Operation Nervone"
   - "OPERA1ER arrest"
@@ -14,22 +14,21 @@ enforcement_type:
   - arrest
 outcome: success
 timeframe:
-  announced: 2023-06-05
-  start: 2023-06-05
-  end: 2023-06-05
+  announced: 2023-07-05
+  start: 2023-06
+  end: 2023-07-05
   ongoing: false
 crime_type: "[[online-fraud-ic]]"
-target_entity: "OPERA1ER cybercrime group leader"
+target_entity: "OPERA1ER cybercrime group"
 lead_agency: "[[interpol]]"
 coordinating_body: "[[interpol]]"
 participating_countries:
   - "[[cote-divoire]]"
 participating_agencies:
   - "[[interpol]]"
+  - "[[afripol]]"
 legal_basis:
-
 mechanisms_used:
-
 results:
   arrests: 1
   indictments: 0
@@ -39,124 +38,109 @@ results:
   decryption_keys_recovered: 0
   victims_notified: 0
   other:
-    - "OPERA1ER group leader arrested"
-    - "Group targeted financial institutions in 15 countries"
-    - "Group-IB provided intelligence support"
-    - "$11 million stolen from banks and financial services"
+    - "OPERA1ER linked to more than 30 attacks in 15 countries"
+    - "Estimated losses of at least USD 11 million, with higher estimates publicly noted"
+    - "Private-sector and public-sector intelligence sharing enabled suspect identification"
 edges:
   - source_actor: INTERPOL
-    target_actor: "Cote d'Ivoire Police"
+    target_actor: "[[cote-divoire]]"
     cooperation_type: joint_investigation
     legal_basis: unknown
     direction: undirected
-  - source_actor: Group-IB
-    target_actor: INTERPOL
-    cooperation_type: technical_assistance
+  - source_actor: INTERPOL
+    target_actor: AFRIPOL
+    cooperation_type: intelligence_sharing
     legal_basis: unknown
-    direction: directed
-credibility_index: 1.88
-source_tier: 3
+    direction: undirected
+credibility_index: 4.18
+source_tier: 1
 missing_fields:
   - legal_basis
   - mechanisms_used
   - complete_participating_countries
-  - url
 related_cases:
-
 related_operations:
-
 challenges_encountered:
-
 lessons_learned:
-  - "Private-sector threat intelligence (Group-IB) continued to prove critical for INTERPOL African operations"
-  - "Targeting group leadership disrupts criminal organizations more effectively than pursuing lower-level members"
+  - "Private-sector threat intelligence materially improves international operational targeting."
 source_count: 1
 sources:
-
+  - "[[2023-07-05_interpol_operation-nervone-opera1er-arrest]]"
 created: 2026-04-08
-updated: 2026-04-08
+updated: 2026-04-18
 operation_role: umbrella
 parent_operation: ""
-summary: "**Operation Nervone** was an INTERPOL-coordinated operation that resulted in the arrest of the leader of **OPERA1ER**, a French-speaking cybercrime group that had targeted financial institutions in **15 countries**, stealing an estimated **$11 million**. The arrest was made in Cote d'Ivoire with intelligence support from cybersecurity firm **Group-IB**."
+summary: "Operation Nervone was an INTERPOL-led action against the OPERA1ER group that culminated in the arrest of a key suspect in Côte d’Ivoire."
 jurisdictions:
   - "[[cote-divoire]]"
 organizations:
   - "[[interpol]]"
+  - "[[afripol]]"
 crime_types:
   - "[[online-fraud-ic]]"
 ---
-> [!note] This operation is documented from a Tier 3 (cybersecurity media) source. Additional verification from official sources (Tier 1-2) would strengthen data reliability.
+> [!note] Official source confirmed
+> This page now uses INTERPOL's own announcement for Operation Nervone.
 
 ## Summary
 
-**Operation Nervone** was an INTERPOL-coordinated operation that resulted in the arrest of the leader of **OPERA1ER**, a French-speaking cybercrime group that had targeted financial institutions in **15 countries**, stealing an estimated **$11 million**. The arrest was made in Cote d'Ivoire with intelligence support from cybersecurity firm **Group-IB**.
-
-OPERA1ER had been active since at least 2018, primarily targeting banks, financial services, and telecommunications companies in Africa, focusing on countries where French is widely spoken.
+Operation Nervone was an [[interpol|INTERPOL]]-led action against the OPERA1ER group that culminated in the arrest of a key suspect in Côte d’Ivoire. INTERPOL described the operation as a significant blow to a financially motivated cybercrime group that had targeted financial institutions and mobile banking services across multiple regions.
 
 ## Background
 
-OPERA1ER (also tracked as DESKTOP Group, Common Raven, NX$M$) was a French-speaking threat actor group that conducted targeted attacks against banks and financial institutions, primarily in Africa. The group used spear-phishing, malware, and social engineering to gain access to banking systems and initiate fraudulent transfers. Group-IB published detailed threat intelligence on OPERA1ER in 2022, which contributed to the identification and arrest of the group's leader.
+OPERA1ER, also tracked under aliases such as DESKTOP Group and Common Raven, was linked to more than 30 attacks in 15 countries across Africa, Asia, and Latin America. INTERPOL said the group was believed to have stolen at least USD 11 million, with higher public estimates also discussed. The campaign relied on malware, phishing, and business email compromise techniques against financial-sector targets.
 
 ## Participating Parties
 
 ### Coordinating Body
 - [[interpol|INTERPOL]]
 
-### Participating Countries
-- [[cote-divoire|Cote d'Ivoire]] (arrest location)
+### Supporting Partners
+- [[afripol|AFRIPOL]]
+- Group-IB
+- Orange
+- U.S. Secret Service
 
-### Target Countries (15)
-The group targeted financial institutions in 15 countries, primarily French-speaking African nations.
-
-### Private Sector Support
-- Group-IB (threat intelligence and analysis)
+### Arrest Location
+- [[cote-divoire|Côte d’Ivoire]]
 
 ## Legal Framework
 
-Specific legal instruments not detailed in available sources.
+Specific statutes were not publicly detailed, but INTERPOL described a coordinated international intelligence and enforcement effort with both public-sector and private-sector support.
 
 ## Operational Timeline
 
 | Date | Event |
 |------|-------|
-| ~2018 | OPERA1ER begins operations |
-| 2022 | Group-IB publishes detailed threat report on OPERA1ER |
-| 2023-06-05 | OPERA1ER leader arrested in Cote d'Ivoire |
+| ~2018 | OPERA1ER activity begins to come into view |
+| 2022 | Group-IB and Orange publish technical reporting on the group's methods |
+| Early June 2023 | Ivorian authorities arrest a key suspect |
+| 2023-07-05 | INTERPOL publicly announces Operation Nervone |
 
 ## Results and Impact
 
 | Metric | Detail |
 |--------|--------|
-| Arrests | 1 (group leader) |
+| Arrests | 1 key suspect |
 | Target countries | 15 |
-| Estimated theft | $11 million |
+| Estimated theft | At least USD 11 million |
 
 ## Cooperation Mechanisms Used
 
-INTERPOL coordination with Ivorian law enforcement, supported by Group-IB private sector intelligence.
+The operation relied on intelligence exchange among INTERPOL, AFRIPOL, Ivorian authorities, and private-sector threat-intelligence partners. It is a strong example of multinational cyber policing supported by external technical investigators.
 
 ## Korean Involvement (한국의 참여)
 
-No Korean involvement identified. OPERA1ER primarily targeted French-speaking African countries.
+No Korean involvement identified.
 
 ## Contradictions & Open Questions
 
-- What were the 15 countries targeted by OPERA1ER?
-- How many victims (financial institutions) were compromised?
-- Was the group leader convicted and sentenced?
-- Are other group members still at large?
-
-## Follow-Up Actions
-
-> [!warning] No public court documents found
-> Web search (2026-04-17) yielded no publicly accessible court filings
-> for this operation. Possible reasons: non-US jurisdiction with no
-> public court records system, sealed proceedings, or operation did
-> not result in formal prosecution.
+- Which 15 countries were directly affected?
+- Were additional OPERA1ER members arrested after the key suspect detention?
+- What judicial outcome followed in Côte d’Ivoire?
 
 ## References
 
 | # | Title | Publisher | Date | URL |
 |---|-------|----------|------|-----|
-| [1] | Operation Nervone — INTERPOL, Group-IB, OPERA1ER leader arrested, 15 countries | Tier 3 media | 2023-06-05 | N/A |
-
+| [1] | Suspected key figure of notorious cybercrime group arrested in joint operation | INTERPOL | 2023-07-05 | https://www.interpol.int/en/News-and-Events/News/2023/Suspected-key-figure-of-notorious-cybercrime-group-arrested-in-joint-operation |
