@@ -6,7 +6,7 @@ created: 2026-04-08
 updated: 2026-04-14
 ---
 
-# Sources (1698)
+# Sources (1701)
 
 | Source | Type | Publisher | Tier | Reliability | Domain |
 |--------|------|-----------|------|-------------|--------|
@@ -887,6 +887,7 @@ updated: 2026-04-14
 | [[2026-04-18_justice-gov_rico-conspirators-responsible-nationwide-computer-intrusions-and-tax-fraud-sentenced]] | press-release | US DOJ USAO | ? | high | ? |
 | [[2026-04-18_justice-gov_revere-massachusetts-man-sentenced-nationwide-rideshare-and-delivery-account-fraud]] | press-release | US DOJ USAO | ? | high | ? |
 | [[2026-04-18_justice-gov_philadelphia-man-sentenced-cyberstalking-and-wire-fraud]] | press-release | US DOJ USAO | ? | high | ? |
+| [[2023-12-19_justice-gov_justice-department-disrupts-prolific-alphvblackcat-ransomware-variant]] | press-release | US Department of Justice | 1 | high | ? |
 | [[2023-12-19_interpol_operation-haechi-iv]] | press-release | INTERPOL | ? | high | ? |
 | [[2023-12-19_interpol-int_usd-300-million-seized-and-3-500-suspects-arrested-operation-haechi-iv]] | press-release | INTERPOL | ? | high | ? |
 | [[2023-12-19_interpol-int_usd-300-million-seized-and-3-500-suspects-arrested-in-international-financial-cr]] | press-release | INTERPOL | ? | high | ? |
@@ -898,6 +899,7 @@ updated: 2026-04-14
 | [[2026-04-18_justice-gov_four-individuals-charged-laundering-millions-cryptocurrency-investment-scams-known-pig]] | press-release | US DOJ USAO | ? | high | ? |
 | [[2026-04-18_justice-gov_registered-sex-offender-charged-new-child-pornography-offense]] | press-release | US DOJ USAO | ? | high | ? |
 | [[2026-04-18_justice-gov_pennsylvania-man-sentenced-life-federal-prison-dealing-fentanyl-analogue-caused-fatal]] | press-release | US DOJ USAO | ? | high | ? |
+| [[2023-12-11_interior-gob-es_policia-nacional-detiene-lider-kelvin-security]] | press-release | Ministry of the Interior of Spain | 1 | high | ? |
 | [[2026-04-18_justice-gov_notice-victims-united-states-v-charles-edwards-sonal-patel-and-murali-venkata]] | press-release | US DOJ USAO | ? | high | ? |
 | [[2026-04-18_justice-gov_utah-man-pleads-guilty-murder-hire-scheme]] | press-release | US DOJ USAO | ? | high | ? |
 | [[2026-04-18_justice-gov_pierce-county-based-drug-trafficking-organization-indicted-distributing-cocaine]] | press-release | US DOJ USAO | ? | high | ? |
@@ -905,6 +907,7 @@ updated: 2026-04-14
 | [[2023-11-29_mdfl_adejumo-jinadu-xdedic-sentencing]] | court-document | US DOJ (Middle District of Florida) | ? | high | ? |
 | [[2023-11-29_justice-gov_united-states-v-adetunji-adejumo-and-ibrahim-jinadu]] | press-release | US DOJ (Middle District of Florida) | ? | high | ? |
 | [[2026-04-18_justice-gov_united-kingdom-national-pleads-guilty-hacking-securities-fraud-and-other-cybercrimes]] | press-release | US DOJ USAO | ? | high | ? |
+| [[2023-11-28_eurojust_ransomware-group-dismantled-ukraine-major-operation-supported-eurojust-europol]] | press-release | Eurojust | 1 | high | ? |
 | [[2026-04-18_justice-gov_ceres-man-sentenced-cyberstalking-two-victims]] | press-release | US DOJ USAO | ? | high | ? |
 | [[2023-11-23_legifrance-gouv-fr_d-cret-n-2023-1083-du-23-novembre-2023-portant-cr-ation-de-l-office-anti-cybercr]] | press-release | Légifrance | ? | medium | ? |
 | [[2026-04-18_justice-gov_pulaski-county-man-indicted-cyber-intrusion-identity-theft-and-bank-fraud]] | press-release | US DOJ USAO | ? | high | ? |

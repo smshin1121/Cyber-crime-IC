@@ -60,7 +60,7 @@ updated: 2026-04-14
 | [[korea-china-voice-phishing-qingdao]] | CYB-2023-003 | 3 | completed | 1.88 | 3 |
 | [[operation-haechi-iv]] | CYB-2023-004 | 3 | completed | 2.28 | 2 |
 | [[myanmar-kokang-scam-compound-crackdown]] | CYB-2023-022 | 3 | completed | 3.80 | 2 |
-| [[blackcat-lockeroga-kelvin-security-2023]] | CYB-2023-051 | 3 | completed | 1.88 | 3 |
+| [[blackcat-lockeroga-kelvin-security-2023]] | CYB-2023-051 | 3 | completed | 4.12 | 1 |
 | [[operation-nervone]] | CYB-2023-052 | 3 | completed | 1.88 | 3 |
 | [[nigerian-bec-convictions-2023]] | CYB-2023-053 | 3 | completed | 1.88 | 3 |
 | [[operation-orion-international]] | CYB-2024-001 | 3 | completed | 2.28 | 2 |
