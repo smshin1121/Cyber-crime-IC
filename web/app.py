@@ -305,6 +305,38 @@ def open_external_links_in_new_tab(html: str) -> str:
     )
 
 
+def style_reference_tables(html: str) -> str:
+    """Mark reference tables so CSS can size columns predictably."""
+
+    def replace(match):
+        table_html = match.group(0)
+        if not all(token in table_html for token in ("<th>#</th>", "<th>URL</th>")):
+            return table_html
+        if not ("<th>Source</th>" in table_html or "<th>Title</th>" in table_html):
+            return table_html
+        if 'class="' in table_html.split(">", 1)[0]:
+            table_html = re.sub(
+                r'<table([^>]*?)class="([^"]*)"',
+                lambda m: f'<table{m.group(1)}class="{m.group(2)} reference-table"',
+                table_html,
+                count=1,
+            )
+        else:
+            table_html = table_html.replace("<table>", '<table class="reference-table">', 1)
+        colgroup = (
+            "<colgroup>"
+            '<col class="col-ref-num">'
+            '<col class="col-ref-source">'
+            '<col class="col-ref-publisher">'
+            '<col class="col-ref-date">'
+            '<col class="col-ref-url">'
+            "</colgroup>"
+        )
+        return table_html.replace(">", f">{colgroup}", 1)
+
+    return re.sub(r"<table>.*?</table>", replace, html, flags=re.S)
+
+
 def bilingual_headings(html: str) -> str:
     """Replace section headings with bilingual KO/EN spans."""
     def replace_heading(match):
@@ -348,6 +380,7 @@ def render_markdown(text):
     )
     html = convert_callouts(html)
     html = open_external_links_in_new_tab(html)
+    html = style_reference_tables(html)
     html = bilingual_headings(html)
     return Markup(html)
 

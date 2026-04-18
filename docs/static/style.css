@@ -172,7 +172,7 @@ body {
   margin: 12px 0;
   width: 100%;
   font-size: 13px;
-  table-layout: fixed;
+  table-layout: auto;
 }
 .article-body th {
   background: var(--infobox-bg);
@@ -197,10 +197,6 @@ body {
   overflow-wrap: anywhere;
   word-break: break-word;
 }
-.article-body th:last-child,
-.article-body td:last-child {
-  width: 34%;
-}
 .article-body tr:nth-child(even) { background: #fafafa; }
 
 .article-body a.external-link,
@@ -211,6 +207,35 @@ body {
   text-overflow: ellipsis;
   white-space: nowrap;
   vertical-align: bottom;
+}
+
+.article-body table.reference-table {
+  table-layout: fixed;
+}
+
+.article-body table.reference-table th:nth-child(1),
+.article-body table.reference-table td:nth-child(1) {
+  width: 7%;
+}
+
+.article-body table.reference-table th:nth-child(2),
+.article-body table.reference-table td:nth-child(2) {
+  width: 41%;
+}
+
+.article-body table.reference-table th:nth-child(3),
+.article-body table.reference-table td:nth-child(3) {
+  width: 19%;
+}
+
+.article-body table.reference-table th:nth-child(4),
+.article-body table.reference-table td:nth-child(4) {
+  width: 13%;
+}
+
+.article-body table.reference-table th:nth-child(5),
+.article-body table.reference-table td:nth-child(5) {
+  width: 20%;
 }
 
 .article-body code {

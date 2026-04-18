@@ -6,7 +6,7 @@ created: 2026-04-08
 updated: 2026-04-14
 ---
 
-# Sources (1737)
+# Sources (1741)
 
 | Source | Type | Publisher | Tier | Reliability | Domain |
 |--------|------|-----------|------|-------------|--------|
@@ -1306,7 +1306,11 @@ updated: 2026-04-14
 | [[2026-04-18_justice-gov_three-allegedly-responsible-distributing-thousands-fentanyl-pills-whatcom-county]] | press-release | US DOJ USAO | ? | high | ? |
 | [[2026-04-18_justice-gov_3-north-korean-military-hackers-indicted-wide-ranging-scheme-commit-cyber-attacks-and]] | press-release | US DOJ USAO | ? | high | ? |
 | [[2026-04-18_justice-gov_two-men-charged-multi-million-dollar-darknet-drug-distribution-conspiracy]] | press-release | US DOJ USAO | ? | high | ? |
+| [[2021-02-09_cisomag_operation-secreto-europol-busts-international-cybercriminal-group]] | news | CISO MAG | 3 | medium | ? |
+| [[2021-02-04_greekreporter_greek-led-crime-ring-busted-for-stealing-millions-from-us-banks]] | news | Greek Reporter | 3 | medium | ? |
 | [[europol-operation-secreto]] | press-release | Europol | 2 | high | ? |
+| [[2021-02-03_secretservice-gov_105-arrested-stealing-over-eu12-million-us-based-banks]] | press-release | United States Secret Service | 1 | high | ? |
+| [[2021-02-03_policia-es_la-policia-nacional-y-el-servicio-secreto-de-los-eeuu-desarticulan-una-organizacion]] | press-release | Policía Nacional España | 1 | high | ? |
 | [[2026-04-18_justice-gov_greene-county-man-indicted-cyberstalking-and-interstate-threats]] | press-release | US DOJ USAO | ? | high | ? |
 | [[2021-02-01_europol-europa-eu_105-arrested-for-stealing-over-eur-12-million-from-us-based-banks]] | press-release | Europol | ? | high | ? |
 | [[2021-01-27_mdnc_emotet-disruption-order]] | court-document | US DOJ (OPA / M.D.N.C.) | ? | high | ? |

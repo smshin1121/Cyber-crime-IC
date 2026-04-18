@@ -31,6 +31,7 @@ operations_participated:
   - "[[operation-multiple-foreign-nationals-charged-in-connection-with-trickbot-and-conti]]"
   - "[[operation-rewired]]"
   - "[[trickbot-operations]]"
+  - "[[operation-105-arrested-for-stealing-over-eur-12-million-from-us-based-banks]]"
 org_type: national-unit
 parent_org: "[[us-secret-service-hq]]"
 source_count: 4

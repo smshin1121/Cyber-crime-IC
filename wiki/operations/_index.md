@@ -820,7 +820,7 @@ updated: 2026-04-14
 | [[operation-us-v-woodmere-man]] | CYB-FUP-497 | 2 | completed | 4.00 | 1 |
 | [[operation-utah-man-pleads-guilty-murder-hire-scheme]] | CYB-FUP-498 | 3 | completed | 4.00 | 1 |
 | [[operation-utah-man-sentenced-seven-years-prison-murder-hire-scheme]] | CYB-FUP-499 | 3 | completed | 4.00 | 1 |
-| [[operation-105-arrested-for-stealing-over-eur-12-million-from-us-based-banks]] | CYB-FUP-500 | 2 | completed | 4.00 | 1 |
+| [[operation-105-arrested-for-stealing-over-eur-12-million-from-us-based-banks]] | CYB-FUP-500 | 2 | completed | 4.18 | 1 |
 | [[operation-12-members-of-an-irish-high-risk-criminal-network-arrested]] | CYB-FUP-501 | 3 | completed | 4.00 | 1 |
 | [[operation-150-arrested-in-dark-web-drug-bust-as-police-seize-eur-26-million]] | CYB-FUP-502 | 2 | completed | 4.00 | 1 |
 | [[operation-19-individuals-worldwide-charged-in-transnational-cybercrime-investigation-of-the-xdedic-marketplace-2]] | CYB-FUP-503 | 3 | ongoing | 4.00 | 1 |
@@ -1130,7 +1130,7 @@ updated: 2026-04-14
 | [[operation-dark-web-fentanyl-dealer-sentenced-to-federal-prison]] | CYB-FUP-807 | 3 | completed | 4.00 | 1 |
 | [[operation-dark-web-fentanyl-distributor-sentenced-to-more-than-15-years-in-federal-prison]] | CYB-FUP-808 | 3 | completed | 4.00 | 1 |
 | [[operation-dark-web-fentanyl-trafficker-known-as-the-drug-llama-sentenced-to-13-years-in-federal-prison]] | CYB-FUP-809 | 2 | completed | 4.00 | 1 |
-| [[operation-dark-web-narcotics-trafficker-sentenced-to-96-months-in-prison-for-distributing-fentanyl-heroin-methamphetamin]] | CYB-FUP-810 | 2 | completed | 4.00 | 1 |
+| [[operation-dark-web-narcotics-trafficker-sentenced-to-96-months-in-prison-for-distributing-fentanyl-heroin-methamphetamin]] | CYB-FUP-810 | 2 | completed | 4.21 | 1 |
 | [[operation-dark-web-vendor-pleads-guilty-to-distributing-narcotics-and-forfeits-150m]] | CYB-FUP-811 | 3 | completed | 4.00 | 1 |
 | [[operation-dark-web-vendor-sentenced-to-eighteen-months-in-prison-for-distributing-methamphetamine-pressed-adderall-pills]] | CYB-FUP-812 | 3 | completed | 4.00 | 1 |
 | [[operation-darknet-drug-trafficker-from-pennsylvania-sentenced-in-d-c-for-selling-mass-quantities-of-fentanyl-online]] | CYB-FUP-813 | 3 | completed | 4.00 | 1 |
