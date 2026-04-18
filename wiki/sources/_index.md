@@ -6,7 +6,7 @@ created: 2026-04-08
 updated: 2026-04-14
 ---
 
-# Sources (1691)
+# Sources (1697)
 
 | Source | Type | Publisher | Tier | Reliability | Domain |
 |--------|------|-----------|------|-------------|--------|
@@ -938,6 +938,7 @@ updated: 2026-04-14
 | [[2026-04-18_justice-gov_everett-washington-man-sentenced-6-years-prison-cyberstalking-and-interstate-threats]] | press-release | US DOJ USAO | ? | high | ? |
 | [[2026-04-18_justice-gov_russian-malware-developer-pleads-guilty-conspiracy-commit-wire-and-computer-fraud]] | press-release | US DOJ USAO | ? | high | ? |
 | [[2026-04-18_justice-gov_marion-county-man-arrested-possession-child-sex-abuse-material]] | press-release | US DOJ USAO | ? | high | ? |
+| [[2023-09-12_lgtr-justiz-rlp-de_cyberbunker-convictions-final]] | court-press-release | Landgericht Trier | 1 | high | ? |
 | [[2026-04-18_justice-gov_final-two-us-based-defendants-amazon-bribery-case-sentenced]] | press-release | US DOJ USAO | ? | high | ? |
 | [[2023-09-08_koreatimes-co-kr_seoul-metropolitan-police-and-chinese-police-jointly-arrest-16-voice-phishing-su]] | press-release | The Korea Times | ? | medium | ? |
 | [[2023-09-08_koreatimes-co-kr_korea-china-voice-phishing-joint-operation]] | press-release | Korea Times | ? | medium | ? |
@@ -1170,9 +1171,10 @@ updated: 2026-04-14
 | [[2022-01-19_justice-gov_united-states-v-evan-jaime-hernandez]] | press-release | US DOJ (Central District of California) | ? | high | ? |
 | [[2022-01-19_cdca_evan-hernandez-dark-web-sentencing]] | court-document | US DOJ (Central District of California) | ? | high | ? |
 | [[2022-01-18_thehackernews-com_europol-shuts-down-vpnlab-cybercriminals-favourite-vpn-service]] | press-release | The Hacker News | ? | medium | ? |
+| [[2022-01-18_securityweek_com_vpnlab-goes-down-after-servers-seized]] | news-article | SecurityWeek | 3 | medium | ? |
 | [[2022-01-18_europol-europa-eu_unhappy-new-year-for-cybercriminals-as-vpnlab-net-goes-offline]] | press-release | Europol | ? | high | ? |
 | [[2022-01-18_cyberscoop-com_international-effort-takes-down-vpn-service-vpnlab-used-for-criminal-activity]] | press-release | CyberScoop | ? | medium | ? |
-| [[2022-01-18_bleepingcomputer-com_europol-shuts-down-vpn-service-used-by-ransomware-groups]] | press-release | BleepingComputer | ? | medium | ? |
+| [[2022-01-18_bleepingcomputer-com_europol-shuts-down-vpn-service-used-by-ransomware-groups]] | news-article | BleepingComputer | 3 | medium | ? |
 | [[2026-04-18_justice-gov_ccips-press-releases-2022]] | press-release | US DOJ | ? | high | ? |
 | [[2022-01-11_sdfl_barraza-flores-dark-web-sentencing]] | court-document | US DOJ (Southern District of Florida) | ? | high | ? |
 | [[2022-01-11_justice-gov_united-states-v-jose-rodolfo-barraza-flores]] | press-release | US DOJ (Southern District of Florida) | ? | high | ? |
@@ -1192,6 +1194,7 @@ updated: 2026-04-14
 | [[2022-01-01_csoonline-com_australian-federal-police-restructures-in-response-to-cybercrime]] | press-release | CSO Online | ? | medium | ? |
 | [[2022-01-01_coe-int_poland-establishes-central-bureau-to-fight-cybercrime]] | press-release | CoE Cybercrime | ? | medium | ? |
 | [[2022-01-01_cbzc-policja-gov-pl_about-cbzc-centralne-biuro-zwalczania-cyberprzest-pczo-ci]] | press-release | Polish Police / CBZC | ? | medium | ? |
+| [[2021-12-13_lgtr-justiz-rlp-de_cyberbunker-judgment]] | court-press-release | Landgericht Trier | 1 | high | ? |
 | [[2026-04-18_justice-gov_3-defendants-plead-guilty-dark-web-drug-sales-case]] | press-release | US DOJ USAO | ? | high | ? |
 | [[2026-04-18_justice-gov_pasadena-man-who-cyberstalked-and-made-threats-injure-rape-and-kill-sentenced-more-3]] | press-release | US DOJ USAO | ? | high | ? |
 | [[2026-04-18_justice-gov_utah-man-charged-murder-hire-scheme]] | press-release | US DOJ USAO | ? | high | ? |
@@ -1284,6 +1287,7 @@ updated: 2026-04-14
 | [[2021-01-12_rferl-org_servers-seized-in-ukraine-moldova-as-germany-takes-down-world-s-largest-illegal]] | press-release | RFE/RL | ? | medium | ? |
 | [[2021-01-12_europol-europa-eu_darkmarket-world-s-largest-illegal-dark-web-marketplace-taken-down]] | press-release | Europol | ? | high | ? |
 | [[2021-01-01_eurojust-europa-eu_mr-ladislav-hamran-re-elected-as-president-of-eurojust-historical]] | press-release | Eurojust | ? | high | ? |
+| [[2021-01-01_bka-de_cybercrime-bundeslagebild-2021-cyberbunker]] | government-report | Bundeskriminalamt | 1 | high | ? |
 | [[portswigger-operation-nova-safe-inet-vpn-takedown]] | news | PortSwigger (Daily Swig) | 3 | medium-high | ? |
 | [[cyberscoop-operation-nova-safe-inet-vpn-takedown]] | news | CyberScoop | 3 | medium-high | ? |
 | [[2020-12-22_web-archive-org_bulletproof-vpn-seized]] | press-release | cybersecuritynews.com | ? | medium | ? |
@@ -1326,6 +1330,7 @@ updated: 2026-04-14
 | [[2026-04-18_justice-gov_maryland-man-sentenced-30-months-prison-cyberstalking-former-girlfriend-and-threatening]] | press-release | US DOJ USAO | ? | high | ? |
 | [[2026-04-18_justice-gov_american-darknet-vendor-and-costa-rican-pharmacist-charged-narcotics-and-money-laundering]] | press-release | US DOJ USAO | ? | high | ? |
 | [[2026-04-18_justice-gov_oc-man-admits-operating-unlicensed-atm-network-laundered-millions-dollars-bitcoin-and]] | press-release | US DOJ USAO | ? | high | ? |
+| [[2020-07-21_lgtr-justiz-rlp-de_cyberbunker-indictment-admitted]] | court-press-release | Landgericht Trier | 1 | high | ? |
 | [[2026-04-18_justice-gov_kokomo-resident-arrested-federal-animal-cruelty-charges]] | press-release | US DOJ USAO | ? | high | ? |
 | [[2020-07-15_justice-gov_united-states-v-catherine-stuckey]] | press-release | US DOJ (Eastern District of California) | ? | high | ? |
 | [[2020-07-15_edca_catherine-stuckey-darknet-plea]] | court-document | US DOJ (Eastern District of California) | ? | high | ? |
@@ -1386,6 +1391,7 @@ updated: 2026-04-14
 | [[2026-04-18_justice-gov_south-korean-national-and-hundreds-others-charged-worldwide-takedown-largest-darknet]] | press-release | US DOJ USAO | ? | high | ? |
 | [[2019-10-02_sdca_curry-brooke-dark-web-laundering-plea]] | court-document | US DOJ (Southern District of California) | ? | high | ? |
 | [[2019-10-02_justice-gov_united-states-v-aidan-curry-and-connor-brooke]] | press-release | US DOJ (Southern District of California) | ? | high | ? |
+| [[2019-09-30_arstechnica_com_cyberbunker-raid]] | news-article | Ars Technica | 3 | medium | ? |
 | [[2026-04-18_justice-gov_press-public-documents]] | press-release | US DOJ | ? | high | ? |
 | [[2026-04-18_justice-gov_coushatta-man-sentenced-10-years-federal-prison-accessing-dark-web-site-intent-view]] | press-release | US DOJ USAO | ? | high | ? |
 | [[2026-04-18_justice-gov_fayette-county-man-admits-making-hoax-emergency-phone-calls-elicit-armed-police]] | press-release | US DOJ USAO | ? | high | ? |

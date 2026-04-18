@@ -26,7 +26,7 @@ updated: 2026-04-08
 | [[fbi]] | national-agency | Washington, D.C., United States | — | 14 | 0 |
 | [[fbi-cyber-division]] | national-agency | Washington, D.C., United States | — | 75 | 12 |
 | [[german-bka]] | national-agency | Wiesbaden, Germany | — | 2 | 0 |
-| [[germany-bka]] | national-agency | Wiesbaden, Germany | — | 14 | 5 |
+| [[germany-bka]] | national-agency | Wiesbaden, Germany | — | 15 | 5 |
 | [[germany-lka]] | national-agency | One in each of 16 German Länder (e.g. Munich, Stuttgart, Düsseldorf, | — | 4 | 3 |
 | [[indonesia-police]] | national-agency | Indonesia | — | 1 | 0 |
 | [[italy-dcsa]] | national-agency | Rome, Italy | Anti-narcotics coordination; Darknet market investigations | 1 | 0 |
@@ -104,4 +104,4 @@ updated: 2026-04-08
 | [[ncfta]] | public-private-partnership | United States | — | 1 | 0 |
 | [[afripol]] | regional-org | Algiers, Algeria | — | 5 | 0 |
 | [[eurojust]] | regional-org | The Hague, Netherlands | — | 22 | 9 |
-| [[europol-ec3]] | regional-org | The Hague, Netherlands | — | 65 | 9 |
+| [[europol-ec3]] | regional-org | The Hague, Netherlands | — | 66 | 9 |

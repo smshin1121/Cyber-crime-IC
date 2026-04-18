@@ -79,16 +79,16 @@ lessons_learned:
   - "Multi-year investigation patience essential for complex infrastructure cases"
 source_count: 5
 sources:
-  - "[KrebsOnSecurity (2019-09-28)](https: "//krebsonsecurity.com/2019/09/german-cops-raid-cyberbunker-2-0-arrest-7-in-child-porn-dark-web-market-sting/)\""
-  - "[The Register (2019-09-30)](https: "//www.theregister.com/2019/09/30/cyberbunker_cb3rob_germany_police_raid/)\""
-  - "[DataBreaches.net (2021-12-13)](https: "//databreaches.net/2021/12/13/darknet-operators-of-cyber-bunker-convicted-and-sentenced-in-germany/)\""
-  - "[Euronews (2021-12-13)](https: "//www.euronews.com/2021/12/13/german-court-convicts-eight-for-operating-illegal-data-centre-in-ex-military-bunker)\""
-  - "[Wikipedia: "CyberBunker](https://en.wikipedia.org/wiki/CyberBunker)\""
+  - "[[2020-07-21_lgtr-justiz-rlp-de_cyberbunker-indictment-admitted]]"
+  - "[[2021-12-13_lgtr-justiz-rlp-de_cyberbunker-judgment]]"
+  - "[[2023-09-12_lgtr-justiz-rlp-de_cyberbunker-convictions-final]]"
+  - "[[2021-01-01_bka-de_cybercrime-bundeslagebild-2021-cyberbunker]]"
+  - "[[2019-09-30_arstechnica_com_cyberbunker-raid]]"
 created: 2026-04-10
-updated: 2026-04-11
+updated: 2026-04-18
 operation_role: umbrella
 parent_operation: ""
-summary: "The CyberBunker Takedown was a major German law enforcement operation targeting a bulletproof hosting provider operating from a former NATO bunker in Traben-Trarbach, Rhineland-Palatinate, [[germany|Germany]]. On 26-27 September 2019, more than 600 police officers, including tactical units, raided the 5,000 square metre underground facility, arrested seven suspects, and seized approximately 200 servers. The facility, known as CyberBunker 2.0 (or CB3ROB), had hosted numerous dark web marketplaces, drug trading platforms, and fraud sites. Following a trial of more than a year, the Trier Regional Court convicted eight defendants in December 2021 for membership in a criminal organization, with sentences ranging from a one-year suspended sentence to five years and nine months in prison for the main defendant, a Dutch national named Herman Johan Xennt. The case was a landmark in bulletproof hosting prosecution and directly enabled the subsequent [[darkmarket-takedown|DarkMarket takedown]] in January 2021."
+summary: "The CyberBunker Takedown was a major German law enforcement operation targeting a bulletproof hosting provider operating from a former NATO bunker in Traben-Trarbach, Rhineland-Palatinate, [[germany|Germany]]. On 26-27 September 2019, more than 600 police officers raided the underground facility, arrested seven suspects and seized roughly 200 servers. The resulting prosecution against eight defendants culminated in December 2021 convictions for participation in a criminal organization, and those convictions were largely confirmed as final in September 2023. The operation became a landmark European bulletproof-hosting case and directly fed the later [[darkmarket-takedown|DarkMarket takedown]]."
 jurisdictions:
   - "[[germany]]"
   - "[[netherlands]]"
@@ -241,9 +241,19 @@ No [[south-korea|South Korean]] involvement in the CyberBunker takedown has been
 
 ## Follow-Up Actions
 
-> [!warning] No public court documents found
-> Web search (2026-04-17) yielded no publicly accessible court filings
-> for this operation. Possible reasons: non-US jurisdiction with no
-> public court records system, sealed proceedings, or operation did
-> not result in formal prosecution.
+> [!info] Public judicial notices available
+> As of 2026-04-18, the repo includes official Trier Regional Court
+> notices covering indictment admission, judgment, and the later
+> confirmation that the principal convictions became final. Full
+> underlying German court filings are not mirrored in the repo.
+
+## References
+
+| # | Source | Publisher | Date | URL |
+|---|--------|-----------|------|-----|
+| 1 | Anklage gegen acht Angeklagte im Verfahren um den sogenannten Cyberbunker in Traben-Trarbach zugelassen | Landgericht Trier | 2020-07-21 | https://lgtr.justiz.rlp.de/presse-aktuelles/detail/anklage-gegen-acht-angeklagte-im-verfahren-um-den-sogenannten-cyberbunker-in-traben-trarbach-zugelassen |
+| 2 | Urteil im sog. Cyberbunkerverfahren | Landgericht Trier | 2021-12-13 | https://lgtr.justiz.rlp.de/presse-aktuelles/detail/urteil-im-sog-cyberbunkerverfahren |
+| 3 | Verurteilungen der Angeklagten im Cyberbunker-Verfahren rechtskräftig | Landgericht Trier | 2023-09-12 | https://lgtr.justiz.rlp.de/presse-aktuelles/detail/verurteilungen-der-angeklagten-im-cyberbunker-verfahren-rechtskraeftig |
+| 4 | Cybercrime Bundeslagebild 2021 - CyberBunker section | Bundeskriminalamt | 2021 | https://www.bka.de/SharedDocs/Downloads/DE/Publikationen/JahresberichteUndLagebilder/Cybercrime/cybercrimeBundeslagebild2021.pdf?__blob=publicationFile&v=6 |
+| 5 | German police seize bulletproof hosting data center in former NATO bunker | Ars Technica | 2019-09-30 | https://arstechnica.com/information-technology/2019/09/german-police-seize-bulletproof-hosting-data-center-in-former-nato-bunker/ |
 

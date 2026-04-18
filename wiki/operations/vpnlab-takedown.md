@@ -100,17 +100,18 @@ lessons_learned:
   - "Targeting criminal infrastructure services disrupts multiple downstream criminal operations simultaneously"
   - "EMPACT framework enables effective multi-country coordination under EU priorities"
   - "Seizing customer logs from bulletproof VPN services provides intelligence for future investigations"
-source_count: 4
+source_count: 5
 sources:
-  - "[Europol press release (2022-01-18)](https: "//www.europol.europa.eu/media-press/newsroom/news/unhappy-new-year-for-cybercriminals-vpnlabnet-goes-offline)\""
-  - "[BleepingComputer (2022-01-18)](https: "//www.bleepingcomputer.com/news/security/europol-shuts-down-vpn-service-used-by-ransomware-groups/)\""
-  - "[The Hacker News (2022-01-18)](https: "//thehackernews.com/2022/01/europol-shuts-down-vpnlab.html)\""
-  - "[CyberScoop (2022-01-18)](https: "//cyberscoop.com/vpnlab-europol-germany-police-takedown/)\""
+  - "[[2022-01-18_europol-europa-eu_unhappy-new-year-for-cybercriminals-as-vpnlab-net-goes-offline]]"
+  - "[[2022-01-18_cyberscoop-com_international-effort-takes-down-vpn-service-vpnlab-used-for-criminal-activity]]"
+  - "[[2022-01-18_thehackernews-com_europol-shuts-down-vpnlab-cybercriminals-favourite-vpn-service]]"
+  - "[[2022-01-18_securityweek_com_vpnlab-goes-down-after-servers-seized]]"
+  - "[[2022-01-18_bleepingcomputer-com_europol-shuts-down-vpn-service-used-by-ransomware-groups]]"
 created: 2026-04-10
-updated: 2026-04-11
+updated: 2026-04-18
 operation_role: umbrella
 parent_operation: ""
-summary: "On 17 January 2022, law enforcement authorities from 10 countries, coordinated by [[europol-ec3|Europol]] and supported by [[eurojust|Eurojust]], seized or disrupted the 15 servers hosting VPNLab.net, a [[bulletproof-hosting|bulletproof VPN service]] that had been used by cybercriminals to facilitate ransomware deployment, malware distribution, and other illicit activities since 2008. The operation was led by [[germany-lka|Hannover Police Department (Polizeidirektion Hannover)]] under the EMPACT security framework priority on \"Cybercrime — Attacks Against Information Systems.\" The service had been linked to at least 150 ransomware attacks causing financial damages of at least EUR 60 million. No arrests were made during the action day, but seized customer data was expected to support follow-on investigations."
+summary: "On 17 January 2022, law enforcement authorities from ten countries, coordinated by [[europol-ec3|Europol]] and supported by [[eurojust|Eurojust]], seized or disrupted the 15 servers hosting VPNLab.net, a [[bulletproof-hosting|bulletproof VPN service]] long used by ransomware and malware actors. The operation was led from [[germany|Germany]] by Hannover police under the EMPACT priority on attacks against information systems. Public reporting tied the service to at least 150 ransomware attacks and more than EUR 60 million in losses. No arrests were announced on action day, but investigators seized customer data for follow-on exploitation."
 jurisdictions:
   - "[[germany|Germany]]"
   - "[[netherlands|Netherlands]]"
@@ -273,4 +274,5 @@ There is no publicly reported Korean involvement in the VPNLab.net takedown. How
 | 2 | Europol shuts down VPN service used by ransomware groups | BleepingComputer | 2022-01-18 | [Link](https://www.bleepingcomputer.com/news/security/europol-shuts-down-vpn-service-used-by-ransomware-groups/) |
 | 3 | Europol Shuts Down VPNLab, Cybercriminals' Favourite VPN Service | The Hacker News | 2022-01-18 | [Link](https://thehackernews.com/2022/01/europol-shuts-down-vpnlab.html) |
 | 4 | International effort takes down VPN service, VPNLab, used for criminal activity | CyberScoop | 2022-01-18 | [Link](https://cyberscoop.com/vpnlab-europol-germany-police-takedown/) |
+| 5 | VPNLab Goes Down After Servers Seized in Law Enforcement Operation | SecurityWeek | 2022-01-18 | [Link](https://www.securityweek.com/vpnlab-goes-down-after-servers-seized-law-enforcement-operation/) |
 
