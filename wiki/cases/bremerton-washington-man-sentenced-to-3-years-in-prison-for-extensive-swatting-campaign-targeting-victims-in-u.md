@@ -1,30 +1,26 @@
 ---
 type: case
-title: "Bremerton Washington, man sentenced to 3 years in prison for extensive swatting campaign targeting victims in US and Canada"
-case_number: "Source-derived from 2026-04-18_justice-gov_bremerton-washington-man-sentenced-3-years-prison-extensive-swatting-campaign"
-jurisdiction: "U.S. federal prosecution (district not specified in source)"
+title: "United States v. Ashton Connor Garcia (Swatting Campaign)"
+case_number: "Source-derived from DOJ and AP reporting; WDWA prosecution"
+jurisdiction: "U.S. District Court for the Western District of Washington"
 jurisdiction_country: "[[united-states]]"
 case_type: prosecution
 status: sentenced
 crime_charged:
   - "[[online-fraud-ic]]"
 defendants:
-  - name: "Bremerton Washington, man sentenced to 3 years in prison for extensive swatting campaign targeting victims in US and Canada"
-    nationality: Unknown
+  - name: "Ashton Connor Garcia"
+    nationality: "United States"
     status: sentenced
-    sentence: ""
-    location_at_arrest: ""
+    sentence: "Three years in prison"
+    location_at_arrest: "Washington State"
 related_operation: "[[operation-bremerton-washington-man-sentenced-to-3-years-in-prison-for-extensive-swatting-campaign-targeting-victims-in-u]]"
 ic_elements:
-  mlat_requests:
-    []
+  mlat_requests: []
   extradition: ""
-  evidence_from_abroad:
-    []
-  foreign_arrests:
-    []
-  asset_freezing:
-    []
+  evidence_from_abroad: []
+  foreign_arrests: []
+  asset_freezing: []
 cooperating_agencies:
   - "[[us-doj]]"
 legal_frameworks_invoked:
@@ -33,32 +29,40 @@ mechanisms_used:
   - "[[informal-cooperation]]"
 key_legal_issues:
   - "[[online-fraud-ic]]"
-precedent_value: "Source-derived official action page; procedural enrichment from primary filings may still be needed."
-source_count: 1
+precedent_value: "Useful as a cross-border victimization case showing how swatting incidents can create international-harm narratives within a domestic U.S. prosecution."
+source_count: 5
 sources:
+  - "[[2026-04-18_justice-gov_bremerton-washington-man-indicted-three-month-swatting-campaign-threatened-victims]]"
+  - "[[2026-04-18_justice-gov_bremerton-washington-man-pleads-guilty-four-federal-felonies-connected-his-extensive]]"
   - "[[2026-04-18_justice-gov_bremerton-washington-man-sentenced-3-years-prison-extensive-swatting-campaign]]"
+  - "[[2024-06-05_apnews_washington-man-sentenced-for-20-swatting-calls-of-false-threats-in-us-canada]]"
+  - "[[2023-03-30_ap_man-charged-in-20-plus-calls-of-false-threats-in-us-canada]]"
 created: 2026-04-18
 updated: 2026-04-18
-summary: "Bremerton Washington, man sentenced to 3 years in prison for extensive swatting campaign targeting victims in US and Canada is a source-derived case page generated from [[2026-04-18_justice-gov_bremerton-washington-man-sentenced-3-years-prison-extensive-swatting-campaign]]."
+summary: "This case tracks the federal prosecution of Ashton Connor Garcia for a swatting campaign that targeted victims in the United States and Canada, culminating in a three-year prison sentence in June 2024."
 ---
 ## Summary
 
-Bremerton Washington, man sentenced to 3 years in prison for extensive swatting campaign targeting victims in US and Canada is a source-derived case page generated from [[2026-04-18_justice-gov_bremerton-washington-man-sentenced-3-years-prison-extensive-swatting-campaign]].
+This case tracks the federal prosecution of Ashton Connor Garcia for a swatting campaign that targeted victims in the United States and Canada. Public reporting shows a three-stage record: indictment in March 2023, guilty plea in January 2024, and sentencing in June 2024.
 
 ## Facts
 
-This case page was generated from [[2026-04-18_justice-gov_bremerton-washington-man-sentenced-3-years-prison-extensive-swatting-campaign]] and reflects an official action title from the source corpus.
+DOJ and AP reporting describe at least 20 false emergency calls that triggered law-enforcement responses against victims in both the United States and Canada. Garcia ultimately pleaded guilty to four federal felonies, and the case concluded with a three-year prison sentence.
 
 ## International Cooperation Elements
 
-This source-derived page should be enriched with case-level cooperation detail if primary filings or fuller official narratives are collected.
+The prosecution itself was domestic, but the underlying victim pattern crossed into Canada. That gives the case cross-border significance even without a published extradition or MLAT component.
 
 ## Legal Analysis
 
-The present page is a structured placeholder built from source metadata and may require refinement from primary filings.
+This is not a precedent-heavy published judicial opinion case, but it is still useful as a documented example of cyber-enabled harm that affected victims across borders while being prosecuted in a single U.S. district.
 
 ## References
 
 | # | Source | Publisher | Date | URL |
 |---|---|---|---|---|
-| 1 | Bremerton Washington, man sentenced to 3 years in prison for extensive swatting campaign targeting victims in US and Canada | US DOJ USAO | 2024-06-04 | https://www.justice.gov/usao-wdwa/pr/bremerton-washington-man-sentenced-3-years-prison-extensive-swatting-campaign |
+| 1 | Bremerton, Washington man indicted for three-month swatting campaign that threatened victims across the USA and in Canada | USAO Western District of Washington | 2023-03-30 | https://www.justice.gov/usao-wdwa/pr/bremerton-washington-man-indicted-three-month-swatting-campaign-threatened-victims |
+| 2 | Bremerton, Washington man pleads guilty to four federal felonies connected to his extensive swatting scheme | USAO Western District of Washington | 2024-01-25 | https://www.justice.gov/usao-wdwa/pr/bremerton-washington-man-pleads-guilty-four-federal-felonies-connected-his-extensive |
+| 3 | Bremerton, Washington man sentenced to 3 years in prison for extensive swatting campaign targeting victims in US and Canada | USAO Western District of Washington | 2024-06-04 | https://www.justice.gov/usao-wdwa/pr/bremerton-washington-man-sentenced-3-years-prison-extensive-swatting-campaign |
+| 4 | Washington man sentenced for 20 'swatting' calls of false threats in US, Canada | Associated Press | 2024-06-05 | https://apnews.com/article/a8466da4c16c863fc1eb82ed6ad77b55 |
+| 5 | Man charged in 20-plus calls of false threats in U.S., Canada | Associated Press | 2023-03-30 | https://www.latimes.com/world-nation/story/2023-03-30/man-charged-in-20-plus-calls-of-false-threats-in-us-canada |

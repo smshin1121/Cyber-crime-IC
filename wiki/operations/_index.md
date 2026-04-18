@@ -60,6 +60,7 @@ updated: 2026-04-14
 | [[korea-china-voice-phishing-qingdao]] | CYB-2023-003 | 3 | completed | 1.88 | 3 |
 | [[operation-haechi-iv]] | CYB-2023-004 | 3 | completed | 2.28 | 2 |
 | [[myanmar-kokang-scam-compound-crackdown]] | CYB-2023-022 | 3 | completed | 3.80 | 2 |
+| [[africa-cyber-surge-ii]] | CYB-2023-050 | 3 | completed | 4.12 | 1 |
 | [[blackcat-lockeroga-kelvin-security-2023]] | CYB-2023-051 | 3 | completed | 4.12 | 1 |
 | [[operation-nervone]] | CYB-2023-052 | 3 | completed | 4.18 | 1 |
 | [[nigerian-bec-convictions-2023]] | CYB-2023-053 | 3 | completed | 4.20 | 1 |
@@ -81,7 +82,7 @@ updated: 2026-04-14
 | [[operation-morpheus]] | CYB-2024-050 | 3 | completed | 2.55 | 2 |
 | [[zambia-golden-top-call-center]] | CYB-2024-050 | 3 | completed | 1.88 | 3 |
 | [[operation-destabilise]] | CYB-2024-051 | 3 | completed | 1.88 | 3 |
-| [[cryptex-pm2btc-sanctions]] | CYB-2024-052 | 3 | completed | 4.25 | 1 |
+| [[cryptex-pm2btc-sanctions]] | CYB-2024-052 | 3 | completed | 4.33 | 1 |
 | [[rydox-marketplace-takedown]] | CYB-2024-053 | 3 | completed | 4.40 | 1 |
 | [[operation-stream-kidflix]] | CYB-2025-001 | 3 | completed | 2.48 | 3 |
 | [[operation-cyber-guardian]] | CYB-2025-002 | 3 | completed | 2.95 | 2 |
@@ -94,7 +95,7 @@ updated: 2026-04-14
 | [[operation-sentinel-africa]] | CYB-2025-010 | 3 | completed | 2.28 | 2 |
 | [[operation-secure-interpol]] | CYB-2025-012 | 3 | completed | 1.85 | 2 |
 | [[de-ch-crypto-mixer-takedown-2025]] | CYB-2025-013 | 3 | completed | 3.50 | 1 |
-| [[belgium-netherlands-phishing-gang]] | CYB-2025-051 | 3 | completed | 4.08 | 1 |
+| [[belgium-netherlands-phishing-gang]] | CYB-2025-051 | 3 | completed | 4.22 | 1 |
 | [[xhelper-upi-money-mule]] | CYB-2025-052 | 1 | disputed | 0.80 | 4 |
 | [[proxy-service-takedown-2026-03]] | CYB-2026-001 | 3 | completed | 3.50 | 1 |
 | [[operation-de-fr-online-fraud-group-2026]] | CYB-FUP-001 | 3 | completed | 4.00 | 1 |
@@ -839,7 +840,7 @@ updated: 2026-04-14
 | [[operation-bothell-washington-man-sentenced-to-5-years-in-prison-for-dealing-drugs-hidden-in-computer-hard-drives]] | CYB-FUP-517 | 2 | completed | 4.00 | 1 |
 | [[operation-brazilian-national-indicted-for-selling-firearms]] | CYB-FUP-518 | 3 | ongoing | 4.00 | 1 |
 | [[operation-bremerton-washington-man-indicted-for-three-month-swatting-campaign-that-threatened-victims-across-the-usa-and]] | CYB-FUP-519 | 3 | ongoing | 4.00 | 1 |
-| [[operation-bremerton-washington-man-sentenced-to-3-years-in-prison-for-extensive-swatting-campaign-targeting-victims-in-u]] | CYB-FUP-520 | 3 | completed | 4.00 | 1 |
+| [[operation-bremerton-washington-man-sentenced-to-3-years-in-prison-for-extensive-swatting-campaign-targeting-victims-in-u]] | CYB-FUP-520 | 3 | completed | 4.18 | 1 |
 | [[operation-bugat-botnet-administrator-arrested-and-malware-disabled-2]] | CYB-FUP-521 | 1 | completed | 4.00 | 1 |
 | [[operation-bulgarian-charged-with-goznym-malware-attacks-in-the-u-s]] | CYB-FUP-522 | 1 | ongoing | 4.00 | 1 |
 | [[operation-california-businessman-indicted-for-tax-evasion]] | CYB-FUP-523 | 3 | ongoing | 4.00 | 1 |
@@ -1319,7 +1320,6 @@ updated: 2026-04-14
 | [[operation-gloucester-police-officer-charged-with-child-pornography-offense]] | CYB-FUP-997 | 3 | ongoing | 4.00 | 1 |
 | [[operation-grand-jury-indicts-knoxville-woman-previously-arrested-in-murder-for-hire-plot]] | CYB-FUP-998 | 3 | ongoing | 4.00 | 1 |
 | [[operation-greene-county-man-indicted-for-cyberstalking-and-interstate-threats]] | CYB-FUP-999 | 2 | ongoing | 4.00 | 1 |
-| [[africa-cyber-surge-ii]] | — | — | — | — | — |
 | [[bali-villa-cybercrime-raid-2024]] | — | — | completed | — | — |
 | [[bidencash-takedown]] | — | 3 | completed | 4.50 | 1 |
 | [[carding-action-2020]] | — | 2 | completed | 3.50 | 2 |

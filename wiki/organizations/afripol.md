@@ -29,6 +29,7 @@ operations_participated:
   - "[[operation-contender-2]]"
   - "[[operation-red-card]]"
   - "[[operation-nervone]]"
+  - "[[africa-cyber-surge-ii]]"
 org_type: regional-org
 parent_org: "[[african-union]]"
 source_count: 0

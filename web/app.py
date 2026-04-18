@@ -1,6 +1,7 @@
 """
 사이버범죄 국제공조 위키 — Wikipedia-style Web Interface
 """
+import html as html_lib
 import os
 import re
 import site
@@ -259,10 +260,42 @@ def convert_callouts(html):
 
 
 def open_external_links_in_new_tab(html: str) -> str:
-    """Add target=_blank and rel=noopener to external links."""
+    """Normalize external links with new-tab behavior and full-URL tooltips."""
+
+    def replace(match):
+        attrs_before = match.group(1) or ""
+        url = match.group(2)
+        attrs_after = match.group(3) or ""
+        attrs = f"{attrs_before}href=\"{url}\"{attrs_after}"
+
+        if "target=" not in attrs:
+            attrs += ' target="_blank"'
+        if "rel=" not in attrs:
+            attrs += ' rel="noopener noreferrer"'
+        if "title=" not in attrs:
+            attrs += f' title="{html_lib.escape(url, quote=True)}"'
+        if "data-full-url=" not in attrs:
+            attrs += f' data-full-url="{html_lib.escape(url, quote=True)}"'
+
+        class_match = re.search(r'class="([^"]*)"', attrs)
+        if class_match:
+            classes = class_match.group(1).split()
+            if "external-link" not in classes:
+                classes.append("external-link")
+                attrs = re.sub(
+                    r'class="[^"]*"',
+                    f'class="{" ".join(classes)}"',
+                    attrs,
+                    count=1,
+                )
+        else:
+            attrs += ' class="external-link"'
+
+        return f"<a {attrs.strip()}>"
+
     return re.sub(
-        r'<a\s+href="(https?://[^"]+)"',
-        r'<a href="\1" target="_blank" rel="noopener noreferrer"',
+        r"<a\s+([^>]*?)href=\"(https?://[^\"]+)\"([^>]*)>",
+        replace,
         html,
     )
 

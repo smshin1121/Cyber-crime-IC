@@ -63,15 +63,15 @@ The **DOJ-led model** leverages US multi-agency coordination (FBI, HSI, USSS, IR
 | Total operations documented | 1330 | 2014-2025 |
 | Period 1 operations | 239 | 2014-2018 |
 | Period 2 operations | 282 | 2019-2022 |
-| Period 3 operations | 792 | 2023-2025 |
+| Period 3 operations | 793 | 2023-2025 |
 | Europol-coordinated | 56 | All periods |
-| INTERPOL-coordinated | 36 | All periods |
+| INTERPOL-coordinated | 37 | All periods |
 | DOJ/US-led | 1195 | All periods |
-| Total arrests (sourced operations) | 20,427+ | Across all operations |
+| Total arrests (sourced operations) | 20,442+ | Across all operations |
 | Total servers seized | 2,924+ | Primarily Europol operations |
 | Total domains seized | 812,111+ | All operations |
-| Unique participating countries | 149+ | All operations |
-| Sources with dedicated pages | 1718 | US DOJ USAO 663, Europol 79, INTERPOL 65, US DOJ 65, Council of Europe 54 |
+| Unique participating countries | 152+ | All operations |
+| Sources with dedicated pages | 1732 | US DOJ USAO 660, Europol 79, INTERPOL 66, US DOJ 65, Council of Europe 55 |
 | Crime types documented | 23 | All documented types |
 
 ## Recent Activity
@@ -80,7 +80,7 @@ See [[log]] for wiki activity history.
 
 ## References
 
-All statistics in this overview are aggregated from the 1330 operation pages and 1718 source pages in the wiki. Cooperation statistics in the table above are wiki-computed aggregations from individual operation pages. The 20 most-sourced operations with dedicated source pages are listed in [[ic-statistics-dashboard]].
+All statistics in this overview are aggregated from the 1330 operation pages and 1732 source pages in the wiki. Cooperation statistics in the table above are wiki-computed aggregations from individual operation pages. The 20 most-sourced operations with dedicated source pages are listed in [[ic-statistics-dashboard]].
 
 | # | Title | Publisher | Date | URL |
 |---|-------|----------|------|-----|

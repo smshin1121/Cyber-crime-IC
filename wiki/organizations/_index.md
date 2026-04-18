@@ -12,7 +12,7 @@ updated: 2026-04-08
 |--------------|------|------------|--------------|------------|---------|
 | [[c-proc]] | international-org | Bucharest, Romania | — | — | 5 |
 | [[icann]] | international-org | — | — | 1 | 0 |
-| [[interpol]] | international-org | Lyon, France | — | 28 | 4 |
+| [[interpol]] | international-org | Lyon, France | — | 29 | 4 |
 | [[interpol-igci]] | international-org | Singapore | — | 14 | 11 |
 | [[unodc]] | international-org | Vienna, Austria | — | — | 8 |
 | [[australia-afp]] | national-agency | Canberra, Australia | — | 8 | 6 |
@@ -76,7 +76,7 @@ updated: 2026-04-08
 | [[latvia-state-police]] | national-unit | [[latvia]] | — | 1 | 1 |
 | [[lithuania-police]] | national-unit | Saltoniškių g. 19, Vilnius 08105, Lithuania | — | 2 | 3 |
 | [[mauritius-police-cybercrime]] | national-unit | [[mauritius]] | — | — | 1 |
-| [[netherlands-politie]] | national-unit | Driebergen-Rijsenburg, Netherlands | — | 18 | 0 |
+| [[netherlands-politie]] | national-unit | Driebergen-Rijsenburg, Netherlands | — | 19 | 0 |
 | [[norway-kripos]] | national-unit | [[norway]] | — | — | 1 |
 | [[norway-nc3]] | national-unit | [[norway]] | — | — | 1 |
 | [[poland-police]] | national-unit | ul. Wąwozowa 18, Warsaw, Poland | — | — | 3 |
@@ -104,6 +104,6 @@ updated: 2026-04-08
 | [[supreme-prosecutors-office-korea]] | prosecution-office | Seocho-gu, Seoul, South Korea | — | — | 7 |
 | [[german-prosecution]] | prosecutorial-authority | Germany | — | 1 | 0 |
 | [[ncfta]] | public-private-partnership | United States | — | 1 | 0 |
-| [[afripol]] | regional-org | Algiers, Algeria | — | 6 | 0 |
+| [[afripol]] | regional-org | Algiers, Algeria | — | 7 | 0 |
 | [[eurojust]] | regional-org | The Hague, Netherlands | — | 25 | 9 |
 | [[europol-ec3]] | regional-org | The Hague, Netherlands | — | 66 | 9 |

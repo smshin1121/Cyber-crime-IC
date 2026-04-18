@@ -1,0 +1,30 @@
+---
+type: source
+title: "OFAC Designates Russian Exchange Cryptex, FinCEN names PM2BTC"
+collection_url: https://www.chainalysis.com/blog/ofac-sanctions-russian-exchange-cryptex-uaps-fraud-shop-2024/
+collection_domain: chainalysis.com
+source_type: analysis
+publisher: "Chainalysis"
+author: "Chainalysis Team"
+publish_date: 2024-09-26
+ingest_date: 2026-04-18
+language: en
+reliability: medium-high
+credibility: corroborated
+sensitivity: public
+source_tier: 3
+pages_updated:
+  - cryptex-pm2btc-sanctions
+key_findings:
+  - "Chainalysis summarized the Cryptex and PM2BTC actions and contextualized them in prior virtual-asset enforcement trends."
+  - "The analysis helps explain why PM2BTC mattered as only the second use of the specific FinCEN authority against a crypto-affiliated entity."
+created: 2026-04-18
+updated: 2026-04-18
+---
+## Source Summary
+
+This industry analysis provides useful explanatory context for the September 2024 Cryptex and PM2BTC action.
+
+## Relevance to IC
+
+For [[cryptex-pm2btc-sanctions]], it adds analytical depth without displacing the primary U.S. government sources.

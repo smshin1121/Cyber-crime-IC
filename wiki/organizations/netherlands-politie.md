@@ -41,6 +41,7 @@ operations_participated:
   - "[[vpnlab-takedown]]"
   - "[[cryptex-pm2btc-sanctions]]"
   - "[[operation-trojan-shield]]"
+  - "[[belgium-netherlands-phishing-gang]]"
 org_type: national-unit
 parent_org: "[[netherlands-politie-parent]]"
 source_count: 0

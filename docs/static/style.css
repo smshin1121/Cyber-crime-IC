@@ -172,6 +172,7 @@ body {
   margin: 12px 0;
   width: 100%;
   font-size: 13px;
+  table-layout: fixed;
 }
 .article-body th {
   background: var(--infobox-bg);
@@ -196,7 +197,21 @@ body {
   overflow-wrap: anywhere;
   word-break: break-word;
 }
+.article-body th:last-child,
+.article-body td:last-child {
+  width: 34%;
+}
 .article-body tr:nth-child(even) { background: #fafafa; }
+
+.article-body a.external-link,
+.infobox a.external-link {
+  display: inline-block;
+  max-width: 100%;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  white-space: nowrap;
+  vertical-align: bottom;
+}
 
 .article-body code {
   background: #f0f0f0;

@@ -6,7 +6,7 @@ created: 2026-04-08
 updated: 2026-04-14
 ---
 
-# Sources (1718)
+# Sources (1732)
 
 | Source | Type | Publisher | Tier | Reliability | Domain |
 |--------|------|-----------|------|-------------|--------|
@@ -626,6 +626,7 @@ updated: 2026-04-14
 | [[2026-04-18_justice-gov_us-charges-dual-russian-and-israeli-national-developer-lockbit-ransomware-group]] | press-release | US DOJ USAO | ? | high | ? |
 | [[2026-04-18_justice-gov_registered-sex-offender-sentenced-35-years-prison-exchanging-videos-images-child]] | press-release | US DOJ USAO | ? | high | ? |
 | [[2026-04-18_justice-gov_dentist-sentenced-15-years-prison-stealing-drugs-patients-and-performing-surgery]] | press-release | US DOJ USAO | ? | high | ? |
+| [[2024-12-19_politie-nl_27-jarige-man-aangehouden-voor-phishing]] | press-release | Dutch National Police | 1 | high | ? |
 | [[2024-12-12_wdpa_kutleshi-rydox-indictment]] | court-document | US DOJ (Western District of Pennsylvania) | ? | high | ? |
 | [[2024-12-12_theregister-com_operation-poweroff-extinguishes-18-more-ddos-booters]] | press-release | The Register | ? | medium | ? |
 | [[2024-12-12_justice-gov_united-states-v-ardit-kutleshi-and-jetmir-kutleshi]] | press-release | US DOJ (Western District of Pennsylvania) | ? | high | ? |
@@ -637,6 +638,9 @@ updated: 2026-04-14
 | [[2026-04-18_justice-gov_theodore-man-sentenced-prison-fraud-schemes-and-aggravated-identity-theft]] | press-release | US DOJ USAO | ? | high | ? |
 | [[2026-04-18_justice-gov_sumter-man-pleads-guilty-destruction-energy-facility-and-possession-child-sexual-abuse]] | press-release | US DOJ USAO | ? | high | ? |
 | [[2026-04-18_justice-gov_conway-man-sentenced-federal-prison-possessing-child-sexual-abuse-materials]] | press-release | US DOJ USAO | ? | high | ? |
+| [[2024-12-09_securityweek_eight-suspected-phishers-arrested-in-belgium-netherlands]] | news | SecurityWeek | 3 | medium-high | ? |
+| [[2024-12-06_politie-nl_internationaal-cybercrimenetwerk-opgerold]] | press-release | Dutch National Police | 1 | high | ? |
+| [[2024-12-06_nu-nl_politie-ontmantelt-cybercrimenetwerk-dat-miljoenen-buitmaakte-met-phishing]] | news | NU.nl | 3 | medium-high | ? |
 | [[2024-12-06_eurojust_action-against-phone-phishing-gang-belgium-and-netherlands-eight-arrests]] | press-release | Eurojust | 1 | high | ? |
 | [[europol-fraudulent-shopping-sites-takedown]] | press-release | Europol | 2 | high | ? |
 | [[2026-04-18_justice-gov_nebraska-man-pleads-guilty-multi-million-dollar-cryptojacking-case]] | press-release | US DOJ USAO | ? | high | ? |
@@ -696,8 +700,12 @@ updated: 2026-04-14
 | [[the-cyber-express-operation-avalanche]] | news | The Cyber Express | 3 | medium | ? |
 | [[2026-04-18_justice-gov_two-russian-nationals-charged-connection-operating-billion-dollar-money-laundering]] | press-release | US DOJ USAO | ? | high | ? |
 | [[2026-04-18_justice-gov_fraud-public-corruption-and-civil-rights-section]] | press-release | US DOJ USAO | ? | high | ? |
+| [[2024-09-26_usao-edva_two-russian-nationals-charged-connection-operating-billion-dollar-money-laundering]] | press-release | U.S. Attorney's Office, Eastern District of Virginia | 1 | high | ? |
 | [[2024-09-26_treasury_cryptex-pm2btc-coordinated-actions]] | press-release | U.S. Department of the Treasury | 1 | high | ? |
 | [[2024-09-26_justice-gov_two-russian-nationals-charged-money-laundering-services]] | press-release | US Department of Justice | 1 | high | ? |
+| [[2024-09-26_fincen_treasury-takes-coordinated-actions-against-illicit-russian-virtual-currency]] | press-release | Financial Crimes Enforcement Network | 1 | high | ? |
+| [[2024-09-26_fincen_imposition-special-measure-prohibiting-the-transmittal-of-funds-involving-pm2btc]] | legal-notice | Financial Crimes Enforcement Network | 1 | high | ? |
+| [[2024-09-26_chainalysis_ofac-designates-russian-exchange-cryptex-fincen-names-pm2btc]] | analysis | Chainalysis | 3 | medium-high | ? |
 | [[2026-04-18_justice-gov_seven-charged-after-federal-investigation-disrupts-massive-counterfeit-pill]] | press-release | US DOJ USAO | ? | high | ? |
 | [[2026-04-18_justice-gov_former-emergency-physician-pleads-guilty-possessing-child-pornography]] | press-release | US DOJ USAO | ? | high | ? |
 | [[2026-04-18_justice-gov_defendants-sentenced-global-darknet-conspiracy]] | press-release | US DOJ USAO | ? | high | ? |
@@ -772,8 +780,9 @@ updated: 2026-04-14
 | [[2024-06-07_fbi-gov_the-911-s5-cyber-threat]] | podcast | Federal Bureau of Investigation | 2 | high | ? |
 | [[2026-04-18_justice-gov_auburn-washington-man-charged-federally-drug-distribution-and-illegal-firearms]] | press-release | US DOJ USAO | ? | high | ? |
 | [[2024-06-05_therecord-media_chinese-nationals-plead-guilty-to-running-zambia-scam-operation]] | press-release | The Record (Recorded Future News) | ? | medium | ? |
+| [[2024-06-05_apnews_washington-man-sentenced-for-20-swatting-calls-of-false-threats-in-us-canada]] | news | Associated Press | 3 | high | ? |
 | [[2024-06-05-therecord-zambia-golden-top-guilty-pleas]] | news | The Record from Recorded Future News | ? | medium | ? |
-| [[2026-04-18_justice-gov_bremerton-washington-man-sentenced-3-years-prison-extensive-swatting-campaign]] | press-release | US DOJ USAO | ? | high | ? |
+| [[2026-04-18_justice-gov_bremerton-washington-man-sentenced-3-years-prison-extensive-swatting-campaign]] | press-release | USAO Western District of Washington | ? | high | ? |
 | [[2026-04-18_justice-gov_woman-accused-murder-hire-admits-using-dark-web-carry-out-crime]] | press-release | US DOJ USAO | ? | high | ? |
 | [[2026-04-18_justice-gov_king-county-couple-indicted-drug-and-illegal-weapons-possession]] | press-release | US DOJ USAO | ? | high | ? |
 | [[2026-04-18_justice-gov_former-king-county-jail-guard-pleads-guilty-bribery-and-drug-distribution]] | press-release | US DOJ USAO | ? | high | ? |
@@ -856,7 +865,7 @@ updated: 2026-04-14
 | [[2024-01-26_justice-gov_united-states-v-banmeet-singh]] | press-release | US DOJ Office of Public Affairs | ? | high | ? |
 | [[2026-04-18_justice-gov_russian-national-sentenced-involvement-development-and-deployment-trickbot-malware]] | press-release | US DOJ USAO | ? | high | ? |
 | [[2026-04-18_justice-gov_pittsburgh-man-indicted-cyberstalking-charge]] | press-release | US DOJ USAO | ? | high | ? |
-| [[2026-04-18_justice-gov_bremerton-washington-man-pleads-guilty-four-federal-felonies-connected-his-extensive]] | press-release | US DOJ USAO | ? | high | ? |
+| [[2026-04-18_justice-gov_bremerton-washington-man-pleads-guilty-four-federal-felonies-connected-his-extensive]] | press-release | USAO Western District of Washington | ? | high | ? |
 | [[2024-01-24_ndca_tony-tan-dark-web-sentencing]] | court-document | US DOJ (Northern District of California) | ? | high | ? |
 | [[2024-01-24_justice-gov_united-states-v-tony-tan]] | press-release | US DOJ (Northern District of California) | ? | high | ? |
 | [[2026-04-18_justice-gov_doctor-sentenced-dark-web-murder-hire-plot]] | press-release | US DOJ USAO | ? | high | ? |
@@ -971,6 +980,9 @@ updated: 2026-04-14
 | [[bbc-africa-cyber-surge-ii]] | press-release | INTERPOL | 1 | high | ? |
 | [[2026-04-18_justice-gov_computer-crime-and-intellectual-property-section-ccips-news]] | press-release | US DOJ | ? | high | ? |
 | [[2023-08-18_therecord-media_africa-cyber-surge-14-arrests-interpol]] | press-release | The Record | ? | medium | ? |
+| [[2023-08-18_kaspersky_assists-interpol-in-operation-to-disrupt-cybercrime-in-african-countries]] | press-release | Kaspersky | 3 | medium-high | ? |
+| [[2023-08-18_interpol_cybercrime-14-arrests-thousands-of-illicit-cyber-networks-disrupted-in-africa-operation]] | press-release | INTERPOL | 1 | high | ? |
+| [[2023-08-18_group-ib_africa-cyber-surge-ii]] | press-release | Group-IB | 3 | medium-high | ? |
 | [[2023-08-17_justice-gov_united-states-v-justin-udvardi]] | press-release | US DOJ (Eastern District of Virginia) | ? | high | ? |
 | [[2023-08-17_edva_justin-udvardi-darknet-sentencing]] | court-document | US DOJ (Eastern District of Virginia) | ? | high | ? |
 | [[2026-04-18_justice-gov_virginia-man-sentenced-federal-prison-conspiring-impersonate-federal-law-enforcement]] | press-release | US DOJ USAO | ? | high | ? |
@@ -991,6 +1003,7 @@ updated: 2026-04-14
 | [[2026-04-18_justice-gov_9-51000]] | press-release | US DOJ | ? | high | ? |
 | [[2023-07-05_interpol_operation-nervone-opera1er-arrest]] | press-release | INTERPOL | 1 | high | ? |
 | [[2023-07-01_oodaloop-com_doj-acts-on-national-cybersecurity-strategy-implementation-plan-with-fusion-of-c]] | press-release | OODA Loop | ? | medium | ? |
+| [[2023-06-30_coe_glacy-supports-interpols-africa-cyber-surge-operation-ii]] | report | Council of Europe | 2 | high | ? |
 | [[2026-04-18_justice-gov_uk-citizen-sentenced-five-years-prison-cybercrime-offenses]] | press-release | US DOJ USAO | ? | high | ? |
 | [[2026-04-18_justice-gov_uk-citizen-sentenced-five-years-cybercrime-offenses]] | press-release | US DOJ USAO | ? | high | ? |
 | [[2026-04-18_justice-gov_citizen-croatia-and-serbia-charged-running-monopoly-drug-market-darknet]] | press-release | US DOJ USAO | ? | high | ? |
@@ -1033,7 +1046,8 @@ updated: 2026-04-14
 | [[2026-04-18_justice-gov_information-victims-large-cases]] | press-release | US DOJ | ? | high | ? |
 | [[2026-04-18_justice-gov_justice-dept-seizes-over-112m-funds-linked-cryptocurrency-investment-schemes-over-half]] | press-release | US DOJ USAO | ? | high | ? |
 | [[2023-04-01_opengovasia-com_indonesia-to-update-cybercrime-laws-with-second-amendment-to-ite-law]] | press-release | OpenGov Asia | ? | medium | ? |
-| [[2026-04-18_justice-gov_bremerton-washington-man-indicted-three-month-swatting-campaign-threatened-victims]] | press-release | US DOJ USAO | ? | high | ? |
+| [[2026-04-18_justice-gov_bremerton-washington-man-indicted-three-month-swatting-campaign-threatened-victims]] | press-release | USAO Western District of Washington | ? | high | ? |
+| [[2023-03-30_ap_man-charged-in-20-plus-calls-of-false-threats-in-us-canada]] | news | Associated Press / Los Angeles Times syndication | 3 | high | ? |
 | [[2023-03-29_scworld_us-convicts-nigerian-bec-scammer]] | news-article | SC Media | ? | medium | ? |
 | [[2023-03-28_infosecurity-magazine_four-years-behind-bars-for-prolific-bec-scammer]] | news-article | Infosecurity Magazine | ? | medium | ? |
 | [[2026-04-18_justice-gov_drug-ring-tied-aryan-prison-gang-indicted-24-federal-arrests]] | press-release | US DOJ USAO | ? | high | ? |
