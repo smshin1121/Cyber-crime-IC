@@ -1,41 +1,32 @@
 ---
 aliases:
-- Armenia Cybercrime Department
-- Division for Combating High-Tech Crime
-- RA Police Cybercrime Unit
+  []
 contact_point_for:
-- network: '[[budapest-convention|Budapest Convention 24/7 Network]]'
-  role: Armenia 24/7 contact point (likely)
-country: '[[armenia]]'
+  []
+country: "[[armenia]]"
 created: 2026-04-10
 established: unknown
-headquarters: Yerevan, Armenia
+headquarters: "Yerevan, Armenia"
 key_roles:
-- Centralized cybercrime preliminary investigation
-- Support to local police units on cyber cases
-- Cooperation with 24/7 contact points of Budapest Convention members
-- Cooperation with leading international technology companies
-last_verified: '2026-04-10'
-mandate: Centralized police unit with country-wide competency for handling cybercrime
-  cases at the preliminary investigation stage, supporting local police units, and
-  serving as Armenia's operational contact point for international cybercrime cooperation
-  under the Budapest Convention framework.
-notable_cases: []
-official_name: Բարձր տեխնոլոգիաների ոլորտի հանցագործությունների դեմ պայքարի բաժին
+  []
+last_verified: 2026-04-10
+mandate: "Centralized police unit with country-wide competency for handling cybercrime"
+notable_cases:
+  []
+official_name: "Բարձր տեխնոլոգիաների ոլորտի հանցագործությունների դեմ պայքարի բաժին"
 operations_participated:
-- '[[operation-endgame]]'
-- '[[operation-endgame-phase1]]'
+  - "[[operation-endgame]]"
+  - "[[operation-endgame-phase1]]"
 org_type: national-unit
-parent_org: General Department on Combating Organized Crime — Police of the Republic
-  of Armenia (Ministry of Internal Affairs)
+parent_org: "General Department on Combating Organized Crime — Police of the Republic"
 source_count: 3
-sources: []
+sources:
+  []
 status: active
-title: Armenian Police — Division for Combating High-Tech Crime
+title: "Armenian Police — Division for Combating High-Tech Crime"
 type: organization
-updated: '2026-04-09'
+updated: 2026-04-14
 ---
-
 ## Summary
 
 The **Division for Combating High-Tech Crime** of the Police of the Republic of Armenia is a centralized cybercrime investigation unit under the **General Department on Combating Organized Crime** [1]. It is Armenia's primary police unit for handling cybercrime cases at the preliminary investigation stage, before cases are transferred to the Investigative Committee for formal investigation [1].

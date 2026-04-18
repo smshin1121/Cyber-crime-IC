@@ -1,47 +1,39 @@
 ---
 aliases:
-- DCCO Cybercrime Service
-- Romanian Police Cybercrime Unit
-- GIRP DCCO Cybercrime
-contact_point_for: []
+  []
+contact_point_for:
+  []
 cooperation_partners:
-- '[[romania-diicot]]'
-- '[[europol-ec3]]'
-- '[[fbi-cyber-division]]'
-- '[[interpol-igci]]'
-country: '[[romania]]'
+  []
+country: "[[romania]]"
 created: 2026-04-10
 established: unknown
-frameworks_administered: []
-headquarters: Bucharest, Romania
+frameworks_administered:
+  []
+headquarters: "Bucharest, Romania"
 key_roles:
-- Cybercrime investigation
-- Secondary 24/7 contact point (Budapest Convention)
-- Digital forensics
-- Operational support to DIICOT prosecutions
-last_verified: '2026-04-10'
-mandate: Romanian National Police (Poliția Română) specialized service for preventing
-  and investigating cybercrime; operates under the Directorate for Countering Organized
-  Criminality (DCCO) within the General Inspectorate of the Romanian Police.
-mechanisms_operated: []
-notable_cases: []
-official_name: Poliția Română — Direcția de Combatere a Criminalității Organizate,
-  Serviciul de Combatere a Criminalității Informatice
-official_name_ko: ''
+  []
+last_verified: 2026-04-10
+mandate: "Romanian National Police (Poliția Română) specialized service for preventing"
+mechanisms_operated:
+  []
+notable_cases:
+  []
+official_name: "Poliția Română — Direcția de Combatere a Criminalității Organizate,"
+official_name_ko: ""
 operations_participated:
-- '[[operation-endgame]]'
-- '[[operation-endgame-phase1]]'
-- '[[phobos-8base-crackdown]]'
+  - "[[operation-endgame]]"
+  - "[[operation-endgame-phase1]]"
 org_type: national-unit
-parent_org: '[[romania-police]]'
+parent_org: "[[romania-police]]"
 source_count: 0
-sources: []
+sources:
+  []
 status: active
-title: Romanian National Police — Service for Combating Cybercrime (DCCO)
+title: "Romanian National Police — Service for Combating Cybercrime (DCCO)"
 type: organization
-updated: '2026-04-09'
+updated: 2026-04-14
 ---
-
 ## Summary
 
 The **Service for Combating Cybercrime** (Serviciul de Combatere a Criminalității Informatice) is the specialized cybercrime unit within the **Directorate for Countering Organized Criminality (DCCO)** of the **General Inspectorate of the Romanian Police (GIRP)**. It functions as Romania's principal police-level cybercrime investigative body, working alongside the prosecutorial [[romania-diicot|DIICOT]] cybercrime service.

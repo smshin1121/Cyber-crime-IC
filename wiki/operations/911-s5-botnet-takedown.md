@@ -31,7 +31,7 @@ period: 3
 related_cases:
   - "[[us-v-yunhe-wang-911-s5]]"
 related_operations:
-
+  - "[[operation-us-v-yunhe-wang-911-s5]]"
 results:
   arrests: 1
   cryptocurrency_seized: ""

@@ -1,47 +1,39 @@
 ---
 aliases:
-- SMPA
-- 서울경찰청
-- 서울특별시경찰청
-- Seoul Metropolitan Police
-- Seoul Metropolitan Police Agency
-contact_point_for: []
-cooperation_partners: []
-country: '[[south-korea]]'
+  []
+contact_point_for:
+  []
+cooperation_partners:
+  []
+country: "[[south-korea]]"
 created: 2026-04-08
-established: '1945-10-21'
-frameworks_administered: []
-headquarters: Jongno-gu, Seoul, South Korea
+established: 1945-10-21
+frameworks_administered:
+  []
+headquarters: "Jongno-gu, Seoul, South Korea"
 key_roles:
-- Metropolitan-level policing for the Seoul Special City
-- Cybercrime investigation via 수사부 사이버수사과 and precinct-level 사이버수사팀
-- Bilateral cooperation with Chinese police on voice phishing (Qingdao operation, 2023)
-- Coordination with [[knpa-cyber-bureau|KNPA national cybercrime line]] on cross-jurisdiction cases
-last_verified: '2026-04-10'
-mandate: Metropolitan police agency for the Seoul Special City under the Korea National
-  Police Agency. Operates a 사이버수사과 (Cyber Investigation Division) under the
-  수사부 (Investigation Division) that conducts cybercrime investigations in the Seoul
-  area, including international cooperation cases. Subordinate to [[knpa]] and
-  operationally coordinated with the [[knpa-cyber-bureau|national cybercrime
-  enforcement line]] via the 수사국 사이버수사심의관.
-mechanisms_operated: []
+  []
+last_verified: 2026-04-10
+mandate: "Metropolitan police agency for the Seoul Special City under the Korea National"
+mechanisms_operated:
+  []
 member_states: 0
-notable_cases: []
-official_name: Seoul Metropolitan Police Agency
-official_name_ko: 서울특별시경찰청
+notable_cases:
+  []
+official_name: "Seoul Metropolitan Police Agency"
+official_name_ko: "서울특별시경찰청"
 operations_participated:
-- '[[korea-china-voice-phishing-qingdao]]'
+  - "[[korea-china-voice-phishing-qingdao]]"
 org_type: national-unit
-parent_org: '[[knpa]]'
+parent_org: "[[knpa]]"
 source_count: 3
 sources:
-- '[[2023-09-08-korea-china-voice-phishing-qingdao]]'
+  []
 status: active
-title: Seoul Metropolitan Police Agency (SMPA)
+title: "Seoul Metropolitan Police Agency (SMPA)"
 type: organization
-updated: 2026-04-10
+updated: 2026-04-14
 ---
-
 > [!info] Status — Active (parent org structure noted)
 > The **Seoul Metropolitan Police Agency (서울특별시경찰청, SMPA)** is active and not directly affected by the 2023 KNPA national-level reorganization that dissolved the standalone 경찰청 사이버수사국. SMPA's parent is the [[knpa|KNPA (Korea National Police Agency)]], not [[knpa-cyber-bureau]] directly — the prior `parent_org` wikilink has been corrected. SMPA underwent a **structural reorganization on 2023-10-30** into a 3-차장 체제 (Public Safety / Investigation / Everyday Life), 7 divisions, 26 departments, and 31 precincts [1][2].
 >

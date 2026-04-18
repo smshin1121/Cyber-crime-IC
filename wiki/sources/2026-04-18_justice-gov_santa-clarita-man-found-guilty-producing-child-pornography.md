@@ -1,0 +1,30 @@
+---
+type: source
+title: "Santa Clarita Man Found Guilty of Producing Child Pornography"
+raw_path: raw/press-releases/2026-04-18_justice-gov_santa-clarita-man-found-guilty-producing-child-pornography.md
+source_type: press-release
+publisher: "US DOJ USAO"
+author: ""
+publish_date: 2023-05-23
+ingest_date: 2026-04-18
+language: en
+reliability: high
+credibility: confirmed
+sensitivity: public
+pages_updated:
+
+key_findings:
+  - "Secure .gov websites use HTTPS A lock ( Lock Locked padlock ) or https:// means you’ve safely connected to the .gov website. Share sensitive information only on official, secure websites."
+collection_url: https://www.justice.gov/usao-cdca/pr/santa-clarita-man-found-guilty-producing-child-pornography
+created: 2026-04-18
+defendant_names:
+  - "Robert Quido Stella"
+updated: 2026-04-18
+---
+## Source Summary
+
+years ago that Stella had accessed a dark web child pornography website. On July...including one disguised as a USB charging block. According to evidence presented
+
+## Relevance to IC
+
+This source was discovered from Bing search results limited to official DOJ domains.

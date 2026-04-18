@@ -1,48 +1,41 @@
 ---
 aliases:
-- NC3
-- NSK
-- Danish National Cyber Crime Center
-- Rigspolitiets NC3
-contact_point_for:
-- network: '[[24-7-network]]'
-  role: Budapest Convention Art. 35 contact point (Denmark) — likely
-cooperation_partners:
-- '[[europol-ec3]]'
-- '[[interpol-igci]]'
-country: '[[denmark]]'
-created: 2026-04-10
-established: '2022-01-01'
-frameworks_administered: []
-headquarters: Copenhagen, Denmark
-key_roles:
-- National cybercrime investigation support
-- Digital forensics
-- IT-related sexual crime investigation (CSEM, grooming, sextortion)
-- International cybercrime cooperation for Denmark
-last_verified: '2026-04-10'
-mandate: NC3 is the specialized cybercrime center within Denmark's National Special
-  Crime Unit (NSK), supporting Danish police investigations of complex IT-related
-  crime including hacking, ransomware, and DDoS attacks.
-mechanisms_operated: []
-notable_cases: []
-official_name: Nationalt Cyber Crime Center (NC3) — National enhed for Særlig Kriminalitet
-  (NSK)
-official_name_ko: 덴마크 국립사이버범죄센터 (NC3) / 특수범죄국 (NSK)
-operations_participated:
-- '[[operation-endgame]]'
-- '[[operation-endgame-phase1]]'
-- '[[operation-endgame-phase2]]'
-org_type: national-unit
-parent_org: '[[denmark-national-police]]'
-source_count: 2
-sources: []
-status: active
-title: National Cyber Crime Center (NC3) / National Special Crime Unit (NSK)
-type: organization
-updated: '2026-04-09'
----
 
+contact_point_for:
+
+cooperation_partners:
+
+country: "[[denmark]]"
+created: 2026-04-10
+established: 2022-01-01
+frameworks_administered:
+
+headquarters: "Copenhagen, Denmark"
+key_roles:
+
+last_verified: 2026-04-10
+mandate: "NC3 is the specialized cybercrime center within Denmark's National Special"
+mechanisms_operated:
+
+notable_cases:
+
+official_name: "Nationalt Cyber Crime Center (NC3) — National enhed for Særlig Kriminalitet"
+official_name_ko: "덴마크 국립사이버범죄센터 (NC3) / 특수범죄국 (NSK)"
+operations_participated:
+  - "[[operation-endgame]]"
+  - "[[operation-endgame-phase1]]"
+  - "[[operation-endgame-phase2]]"
+  - "[[darkmarket-takedown]]"
+org_type: national-unit
+parent_org: "[[denmark-national-police]]"
+source_count: 2
+sources:
+
+status: active
+title: "National Cyber Crime Center (NC3) / National Special Crime Unit (NSK)"
+type: organization
+updated: 2026-04-14
+---
 ## Summary
 
 The **National Cyber Crime Center (NC3 — Nationalt Cyber Crime Center)** is Denmark's specialized cybercrime center, embedded within the **National Special Crime Unit (NSK — National enhed for Særlig Kriminalitet)**. NSK was created on **January 1, 2022** by merging several specialized Danish police units, including the previous standalone NC3 and the Nationwide Center for IT-related Economic Crime [1][2].

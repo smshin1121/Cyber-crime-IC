@@ -1,81 +1,64 @@
 ---
 aliases:
-- ICPO-INTERPOL
-- ICPO
-- 인터폴
-contact_point_for:
-- network: '[[interpol-i24-7]]'
-  role: Operator and administrator
-- network: '[[interpol-notices]]'
-  role: Issuing authority for international notices
-cooperation_partners:
-- '[[europol-ec3]]'
-- '[[afripol]]'
-- '[[fbi-cyber-division]]'
-- '[[uk-nca]]'
-- '[[knpa-cyber-bureau]]'
-country: ''
-created: 2026-04-08
-established: '1923-09-07'
-frameworks_administered: []
-headquarters: Lyon, France
-key_roles:
-- Global police communications network (I-24/7)
-- International notice system (Red, Blue, Purple Notices)
-- Operational coordination for multinational operations
-- Criminal databases (stolen documents, fingerprints, DNA, facial recognition)
-- Capacity building and training
-- Cybercrime operations through IGCI subsidiary
-last_verified: '2026-04-10'
-mandate: Enable police cooperation across 196 member countries through secure communications
-  (I-24/7), databases, operational support, training, and capacity building to combat
-  transnational crime.
-mechanisms_operated:
-- '[[interpol-i24-7]]'
-- '[[interpol-notices]]'
-- '[[interpol-i-grip]]'
-member_states: 196
-notable_cases: []
-official_name: International Criminal Police Organization — INTERPOL
-official_name_ko: 국제형사경찰기구 (인터폴)
-operations_participated:
-- '[[africa-cyber-surge-ii]]'
-- '[[bec-nigeria-2016]]'
-- '[[global-airport-action-day]]'
-- '[[operation-avalanche]]'
-- '[[operation-chakra-iii]]'
-- '[[operation-cyber-guardian]]'
-- '[[operation-delilah]]'
-- '[[operation-falcon]]'
-- '[[operation-first-light-2024]]'
-- '[[operation-goldfish-alpha-night-fury]]'
-- '[[operation-haechi-ii]]'
-- '[[operation-haechi-iv]]'
-- '[[operation-haechi-v]]'
-- '[[operation-haechi-vi]]'
-- '[[operation-jackal]]'
-- '[[operation-jackal-iii]]'
-- '[[operation-killer-bee]]'
-- '[[operation-lyrebird]]'
-- '[[operation-nervone]]'
-- '[[operation-nightfury]]'
-- '[[operation-pleiades]]'
-- '[[operation-red-card]]'
-- '[[operation-secure-interpol]]'
-- '[[operation-sentinel-africa]]'
-- '[[operation-serengeti]]'
-- '[[operation-synergia-ii]]'
-- '[[simda-botnet-takedown]]'
-org_type: international-org
-parent_org: ''
-source_count: 4
-sources: []
-status: active
-title: INTERPOL (International Criminal Police Organization)
-type: organization
-updated: '2026-04-10'
----
 
+contact_point_for:
+
+cooperation_partners:
+
+country: ""
+created: 2026-04-08
+established: 1923-09-07
+frameworks_administered:
+
+headquarters: "Lyon, France"
+key_roles:
+
+last_verified: 2026-04-10
+mandate: "Enable police cooperation across 196 member countries through secure communications"
+mechanisms_operated:
+
+member_states: 196
+notable_cases:
+
+official_name: "International Criminal Police Organization — INTERPOL"
+official_name_ko: "국제형사경찰기구 (인터폴)"
+operations_participated:
+  - "[[bec-nigeria-2016]]"
+  - "[[operation-chakra-iii]]"
+  - "[[operation-goldfish-alpha-night-fury]]"
+  - "[[operation-killer-bee]]"
+  - "[[operation-nervone]]"
+  - "[[operation-pleiades]]"
+  - "[[simda-botnet-takedown]]"
+  - "[[global-airport-action-day]]"
+  - "[[operation-almost-1-000-suspects-arrested-in-interpol-operation-which-seized-over-129-million]]"
+  - "[[operation-falcon]]"
+  - "[[operation-haechi-ii]]"
+  - "[[operation-haechi-iii]]"
+  - "[[operation-interpol-online-scamming-fraud-three-nigerians-arrested-in-operation-killer-bee]]"
+  - "[[operation-interpol-seized-130-million-from-cybercriminals-in-global-haechi-iii-crackdown]]"
+  - "[[operation-interpol-seized-130-million-from-cybercriminals-worldwide]]"
+  - "[[operation-interpol-seized-130-million-from]]"
+  - "[[operation-online-scamming-fraud-three-nigerians-arrested-in-interpol-operation-killer-bee]]"
+  - "[[operation-operation-orion-international-144-arrested-in-major-child-abuse-operation-across-south-america]]"
+  - "[[operation-three-arrested-as-interpol-group-ib-and-the-nigeria-police-force-disrupt-prol]]"
+  - "[[operation-usd-257-million-seized-in-global-police-crackdown-against-online-scams-operation-first-light-2024-2]]"
+  - "[[operation-usd-257-million-seized-in-global-police-crackdown-against-online-scams-operation-first-light-2024-3]]"
+  - "[[operation-usd-257-million-seized-in-global-police-crackdown-against-online-scams-operation-first-light-2024]]"
+  - "[[operation-usd-300-million-seized-and-3-500-suspects-arrested-in-international-financial-crime-operation-operation-haechi-2]]"
+  - "[[operation-usd-300-million-seized-and-3-500-suspects-arrested-in-international-financial-crime-operation-operation-haechi-3]]"
+  - "[[operation-usd-300-million-seized-and-3-500-suspects-arrested-in-international-financial-crime-operation-operation-haechi]]"
+  - "[[operation-usd-300-million-seized-and-3-500-suspects-arrested-operation-haechi-iv]]"
+org_type: international-org
+parent_org: ""
+source_count: 4
+sources:
+
+status: active
+title: "INTERPOL (International Criminal Police Organization)"
+type: organization
+updated: 2026-04-14
+---
 ## Current Status (as of 2026-04-10)
 
 **Status:** Active. INTERPOL remains headquartered in **Lyon, France**, with **196 member countries** and its Constitution unchanged. No structural reorganization reported.

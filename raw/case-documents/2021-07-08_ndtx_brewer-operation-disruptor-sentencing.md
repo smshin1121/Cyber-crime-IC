@@ -1,16 +1,18 @@
 ---
-title: "United States v. Aaron Brewer"
+title: "Darkweb Drug Trafficker Arrested in Operation DisrupTor Sentenced to 6.5 Years in Prison"
 court: "U.S. District Court, Northern District of Texas"
 case_number: "N.D. Tex. Operation DisrupTor sentencing"
 document_type: "sentencing announcement"
-date_filed: "2021-07-08"
-source_url: "https://www.justice.gov/usao-ndtx/pr/darkweb-drug-trafficker-arrested-operation-disruptor-sentenced-65-years-prison"
-collection_date: "2026-04-17"
+date_filed: 2021-07-08
+source_url: https://www.justice.gov/usao-ndtx/pr/darkweb-drug-trafficker-arrested-operation-disruptor-sentenced-65-years-prison
+collection_date: 2026-04-17
 publisher: "US DOJ (Northern District of Texas)"
-language: "en"
-sensitivity: "public"
+language: en
+sensitivity: public
+defendant_names:
+  - "Darkweb Drug Trafficker"
+updated: 2026-04-18
 ---
-
 ## United States v. Aaron Brewer
 
 On 8 July 2021, DOJ announced that Aaron Brewer, a dark web cocaine and heroin trafficker arrested under Operation DisrupTor, was sentenced to 78 months in prison in the Northern District of Texas.

@@ -1,14 +1,14 @@
 ---
-title: "Justice Department Charges 12 Chinese Contract Hackers — i-Soon/APT27"
+title: "Justice Department Charges 12 Chinese Contract Hackers and Law Enforcement Officers in Global Computer Intrusion Campaigns"
 collection_source: "US DOJ"
-collection_url: "https://www.justice.gov/opa/pr/justice-department-charges-12-chinese-contract-hackers-and-law-enforcement-officers-global"
-collection_domain: "www.justice.gov"
-collection_date: "2026-04-17"
-publish_date: "2025-03-05"
-language: "en"
-status: "collected"
+collection_url: https://www.justice.gov/opa/pr/justice-department-charges-12-chinese-contract-hackers-and-law-enforcement-officers-global
+collection_domain: www.justice.gov
+collection_date: 2026-04-17
+publish_date: 2025-03-05
+language: en
+status: collected
+updated: 2026-04-18
 ---
-
 ## Summary
 
 South Korea is a **highly capable** partner for international cooperation on cybercrime, with advanced technological infrastructure, specialized cybercrime enforcement units at both national and metropolitan levels, and comprehensive cybercrime legislation. Korea was **invited to accede** to the [[budapest-convention]] in **February 2023** and has been finalizing its accession since: the domestic implementing legislation (a 형사소송법 amendment introducing mandatory electronic-evidence preservation requests) passed the National Assembly on 2025-12-12 and takes effect 2026-07-01, with formal ratification expected to follow shortly afterward [15][16].

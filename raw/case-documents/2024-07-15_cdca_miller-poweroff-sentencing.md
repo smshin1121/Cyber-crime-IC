@@ -1,17 +1,19 @@
 ---
-title: "United States v. Jeremiah Sam Evans Miller"
+title: "Texas Man Sentenced to 9 Months in Federal Prison for Operating Website that Offered Computer Attack Services"
 court: "U.S. District Court, Central District of California"
 case_number: "CR 22-00582-FMO"
-document_type: "judgment"
-date_filed: "2024-07-15"
-source_url: "https://www.justice.gov/usao-cdca/pr/texas-man-sentenced-9-months-federal-prison-operating-website-offered-computer-attack"
-related_operation: "operation-power-off"
-collection_date: "2026-04-17"
+document_type: judgment
+date_filed: 2024-07-15
+source_url: https://www.justice.gov/usao-cdca/pr/texas-man-sentenced-9-months-federal-prison-operating-website-offered-computer-attack
+related_operation: operation-power-off
+collection_date: 2026-04-17
 publisher: "US DOJ (Central District of California)"
-language: "en"
-sensitivity: "public"
+language: en
+sensitivity: public
+defendant_names:
+  - "Scott Raul Esparza"
+updated: 2026-04-18
 ---
-
 ## United States v. Jeremiah Sam Evans Miller
 
 On 15 July 2024, the U.S. Attorney's Office for the Central District of California announced that Jeremiah Sam Evans Miller had been sentenced to nine months in federal prison for operating the DDoS-for-hire service RoyalStresser.com, previously known as Supremesecurityteam.com. Miller had pleaded guilty on 6 April 2023 to conspiracy and substantive Computer Fraud and Abuse Act charges.

@@ -1,0 +1,30 @@
+---
+type: source
+title: "New York Man Sentenced To 84 Months In Prison For Conspiring To Engage In Multimillion Dollar Wire Fraud Scheme"
+raw_path: raw/press-releases/2026-04-18_justice-gov_new-york-man-sentenced-84-months-prison-conspiring-engage-multimillion-dollar-wire-fraud.md
+source_type: press-release
+publisher: "US DOJ USAO"
+author: ""
+publish_date: 2025-02-05
+ingest_date: 2026-04-18
+language: en
+reliability: high
+credibility: confirmed
+sensitivity: public
+pages_updated:
+
+key_findings:
+  - "Secure .gov websites use HTTPS A lock ( Lock Locked padlock ) or https:// means you’ve safely connected to the .gov website. Share sensitive information only on official, secure websites."
+collection_url: https://www.justice.gov/usao-nj/pr/new-york-man-sentenced-84-months-prison-conspiring-engage-multimillion-dollar-wire-fraud
+created: 2026-04-18
+defendant_names:
+  - "Terrell Fuller"
+updated: 2026-04-18
+---
+## Source Summary
+
+Baldwin, New York, previously pleaded guilty before U.S. District Judge Stanley...S. Attorney Andrew Kogan of the Cybercrime Unit in Newark. ### Defense counsel:
+
+## Relevance to IC
+
+This source was discovered from Bing search results limited to official DOJ domains.

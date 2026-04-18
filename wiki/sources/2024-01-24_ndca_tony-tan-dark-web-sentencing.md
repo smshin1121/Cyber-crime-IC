@@ -1,6 +1,6 @@
 ---
 type: source
-title: "United States v. Tony Tan"
+title: "Dark Web Vendor Sentenced To Eighteen Months In Prison For Distributing Methamphetamine-Pressed Adderall Pills"
 raw_path: raw/case-documents/2024-01-24_ndca_tony-tan-dark-web-sentencing.md
 source_type: court-document
 publisher: "US DOJ (Northern District of California)"
@@ -12,11 +12,14 @@ reliability: high
 credibility: confirmed
 sensitivity: public
 pages_updated:
-  []
+
 key_findings:
-  - "On 24 January 2024, DOJ announced that Tony Tan was sentenced to 18 months in prison for distributing methamphetamine-pressed Adderall pills through a dark web vendor site called `Adderall123`. The case is a clear example of a lower-scale but well-documented dark web vendor prosecution involving methamphetamine disguised as prescription medication."
+  - "Secure .gov websites use HTTPS A lock ( Lock Locked padlock ) or https:// means you’ve safely connected to the .gov website. Share sensitive information only on official, secure websites."
 collection_url: https://www.justice.gov/usao-ndca/pr/dark-web-vendor-sentenced-eighteen-months-prison-distributing-methamphetamine-pressed
 created: 2026-04-17
+defendant_names:
+  - "Tony Tan"
+updated: 2026-04-18
 ---
 ## Source Summary
 

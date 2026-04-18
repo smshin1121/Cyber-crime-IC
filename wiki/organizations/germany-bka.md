@@ -30,6 +30,13 @@ operations_participated:
   - "[[operation-endgame-phase1]]"
   - "[[operation-endgame-phase2]]"
   - "[[operation-us-v-yakubets-dridex]]"
+  - "[[cyberbunker-takedown]]"
+  - "[[darkmarket-takedown]]"
+  - "[[doublevpn-takedown]]"
+  - "[[dridex-operations]]"
+  - "[[nemesis-market-takedown]]"
+  - "[[operation-power-off]]"
+  - "[[operation-stream-kidflix]]"
 org_type: national-agency
 parent_org: "[[germany-bmi]]"
 source_count: 0

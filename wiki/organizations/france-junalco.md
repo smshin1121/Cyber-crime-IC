@@ -1,39 +1,32 @@
 ---
 aliases:
-- JUNALCO
-- J3 Cybercrime Section
-- Paris Cybercrime Prosecutor
-contact_point_for: []
-country: '[[france]]'
+  []
+contact_point_for:
+  []
+country: "[[france]]"
 created: 2026-04-10
-established: '2019'
-headquarters: Paris, France
+established: 2019
+headquarters: "Paris, France"
 key_roles:
-- Concurrent national jurisdiction over highly complex cybercrime cases
-- J3 section — dedicated cybercrime prosecutorial unit
-- Coordination with Europol EC3 and foreign prosecutors (Eurojust)
-- Judicial lead on French participation in international cyber operations
-last_verified: '2026-04-10'
-mandate: Specialized French national jurisdiction with concurrent nationwide competence
-  over very-high-complexity organized crime cases, including cybercrime. The dedicated
-  J3 section prosecutes complex cybercrime matters and coordinates international cooperation
-  on ransomware, dark web and large-scale cyber fraud cases.
-notable_cases: []
-official_name: Juridiction Nationale de Lutte contre la Criminalité Organisée
+  []
+last_verified: 2026-04-10
+mandate: "Specialized French national jurisdiction with concurrent nationwide competence"
+notable_cases:
+  []
+official_name: "Juridiction Nationale de Lutte contre la Criminalité Organisée"
 operations_participated:
-- '[[operation-endgame]]'
-- '[[operation-endgame-phase2]]'
+  - "[[operation-endgame]]"
+  - "[[operation-endgame-phase2]]"
 org_type: prosecution-office
-parent_org: Parquet de Paris (Paris Public Prosecutor's Office)
+parent_org: "Parquet de Paris (Paris Public Prosecutor's Office)"
 source_count: 2
-sources: []
+sources:
+  []
 status: active
-title: JUNALCO — National Jurisdiction for the Fight against Organized Crime (Cybercrime
-  Section J3)
+title: "JUNALCO — National Jurisdiction for the Fight against Organized Crime (Cybercrime"
 type: organization
-updated: '2026-04-09'
+updated: 2026-04-14
 ---
-
 ## Summary
 
 **JUNALCO (Juridiction Nationale de Lutte contre la Criminalité Organisée)** is a specialized French national jurisdiction created in 2019 and installed at the Paris Judicial Tribunal in January 2020. It has concurrent nationwide competence over organized crime cases of very high complexity, including complex cybercrime matters handled by its dedicated **J3 cybercrime section** [1][2].

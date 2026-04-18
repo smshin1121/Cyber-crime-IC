@@ -1,6 +1,6 @@
 ---
 type: source
-title: "United States v. Sean Shaughnessy"
+title: "Darknet Fentanyl Dealer Sentenced to 24 Years"
 raw_path: raw/case-documents/2024-02-12_ndtx_shaughnessy-darknet-sentencing.md
 source_type: court-document
 publisher: "US DOJ (Northern District of Texas)"
@@ -12,11 +12,14 @@ reliability: high
 credibility: confirmed
 sensitivity: public
 pages_updated:
-  []
+
 key_findings:
-  - "On 12 February 2024, DOJ announced that Sean Shaughnessy, who used the moniker `Fent4U`, was sentenced to 293 months in prison for darknet fentanyl trafficking and possession of child pornography. DOJ said he sold fentanyl, carfentanil, pentedrone, and analogues over the dark web and was convicted at trial in 2023."
+  - "Secure .gov websites use HTTPS A lock ( Lock Locked padlock ) or https:// means you’ve safely connected to the .gov website. Share sensitive information only on official, secure websites."
 collection_url: https://www.justice.gov/usao-ndtx/pr/darknet-fentanyl-dealer-sentenced-24-years
 created: 2026-04-17
+defendant_names:
+  - "Sean Shaughnessy"
+updated: 2026-04-18
 ---
 ## Source Summary
 

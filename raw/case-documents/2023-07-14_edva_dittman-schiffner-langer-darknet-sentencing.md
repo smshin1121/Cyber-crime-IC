@@ -1,16 +1,19 @@
 ---
-title: "United States v. Veronica Dittman, Rick Schiffner, and Devin Langer"
+title: "Three Darknet Fentanyl Vendors Sentenced to Over 20 Years in Prison"
 court: "U.S. District Court, Eastern District of Virginia"
 case_number: "E.D. Va. darknet fentanyl vendors sentencing"
 document_type: "sentencing announcement"
-date_filed: "2023-07-14"
-source_url: "https://www.justice.gov/usao-edva/pr/three-darknet-fentanyl-vendors-sentenced-over-20-years-prison"
-collection_date: "2026-04-17"
+date_filed: 2023-07-14
+source_url: https://www.justice.gov/usao-edva/pr/three-darknet-fentanyl-vendors-sentenced-over-20-years-prison
+collection_date: 2026-04-17
 publisher: "US DOJ (Eastern District of Virginia)"
-language: "en"
-sensitivity: "public"
+language: en
+sensitivity: public
+defendant_names:
+  - "Donjuan Murphy"
+  - "Montrio Santos Neville"
+updated: 2026-04-18
 ---
-
 ## United States v. Veronica Dittman, Rick Schiffner, and Devin Langer
 
 On 14 July 2023, DOJ announced sentencing outcomes for three darknet fentanyl vendors operating under monikers including `TrustedTraphouse`, `GoldenTrails`, and `PopcornPlug`.

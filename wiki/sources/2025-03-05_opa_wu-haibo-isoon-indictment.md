@@ -1,6 +1,6 @@
 ---
 type: source
-title: "Justice Department Charges 12 Chinese Hackers and Law Enforcement Officers in Global Computer Intrusion Campaigns"
+title: "Page not found"
 raw_path: raw/case-documents/2025-03-05_opa_wu-haibo-isoon-indictment.md
 source_type: court-document
 publisher: "U.S. District Court for the District of Columbia"
@@ -12,11 +12,12 @@ reliability: high
 credibility: confirmed
 sensitivity: public
 pages_updated:
-  []
+
 key_findings:
-  - "On March 5, 2025, DOJ announced charges against Wu Haibo and other i-Soon employees, Chinese law-enforcement officers, and APT27-linked operators for global computer intrusion campaigns. The release ties the prosecution to a federal indictment in the District of Columbia. - Defendants: Wu Haibo and multiple co-defendants tied to i-Soon and Chinese state security organs - Court: U.S. District Court for the District of Columbia"
+  - "Secure .gov websites use HTTPS A lock ( Lock Locked padlock ) or https:// means you’ve safely connected to the .gov website. Share sensitive information only on official, secure websites."
 collection_url: https://www.justice.gov/opa/pr/justice-department-charges-12-chinese-hackers-and-law-enforcement-officers-global
 created: 2026-04-17
+updated: 2026-04-18
 ---
 ## Source Summary
 

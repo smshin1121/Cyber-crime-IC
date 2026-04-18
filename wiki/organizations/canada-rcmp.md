@@ -1,50 +1,45 @@
 ---
 aliases:
-- NC3
-- RCMP NC3
-- National Cybercrime Coordination Unit
-contact_point_for: []
-cooperation_partners:
-- '[[fbi-cyber-division]]'
-- '[[uk-nca]]'
-- '[[australia-afp]]'
-- '[[europol-ec3]]'
-- '[[interpol-igci]]'
-country: '[[canada]]'
-created: 2026-04-10
-established: '2020'
-frameworks_administered: []
-headquarters: Ottawa, Ontario, Canada
-key_roles:
-- Coordinates Canadian cybercrime investigations across all levels of policing
-- Collaborates with international partners
-- Provides digital investigative advice to Canadian police services
-- Produces actionable cybercrime intelligence
-- Operates national public cybercrime reporting mechanism (with Canadian Anti-Fraud
-  Centre)
-last_verified: '2026-04-10'
-mandate: Enable a coordinated Canadian law enforcement response to cybercrime by coordinating
-  investigations, providing digital investigative support, producing cybercrime intelligence,
-  and operating a national public reporting mechanism.
-mechanisms_operated: []
-notable_cases: []
-official_name: Royal Canadian Mounted Police — National Cybercrime Coordination Centre
-official_name_ko: 캐나다 기마경찰대 국가사이버범죄조정센터
-operations_participated:
-- '[[operation-cronos-phase1]]'
-- '[[operation-cronos-phase3]]'
-- '[[operation-endgame]]'
-- '[[operation-endgame-phase2]]'
-org_type: national-unit
-parent_org: '[[canada-rcmp-federal-policing]]'
-source_count: 3
-sources: []
-status: active
-title: RCMP — National Cybercrime Coordination Centre (NC3)
-type: organization
-updated: '2026-04-09'
----
 
+contact_point_for:
+
+cooperation_partners:
+
+country: "[[canada]]"
+created: 2026-04-10
+established: 2020
+frameworks_administered:
+
+headquarters: "Ottawa, Ontario, Canada"
+key_roles:
+
+last_verified: 2026-04-10
+mandate: "Enable a coordinated Canadian law enforcement response to cybercrime by coordinating"
+mechanisms_operated:
+
+notable_cases:
+
+official_name: "Royal Canadian Mounted Police — National Cybercrime Coordination Centre"
+official_name_ko: "캐나다 기마경찰대 국가사이버범죄조정센터"
+operations_participated:
+  - "[[operation-cronos-phase1]]"
+  - "[[operation-cronos-phase3]]"
+  - "[[operation-endgame]]"
+  - "[[operation-endgame-phase2]]"
+  - "[[doublevpn-takedown]]"
+  - "[[operation-kraken-ghost-platform]]"
+  - "[[operation-power-off]]"
+  - "[[vpnlab-takedown]]"
+org_type: national-unit
+parent_org: "[[canada-rcmp-federal-policing]]"
+source_count: 3
+sources:
+
+status: active
+title: "RCMP — National Cybercrime Coordination Centre (NC3)"
+type: organization
+updated: 2026-04-14
+---
 ## Summary
 
 The **National Cybercrime Coordination Centre (NC3)** is the [[canada|Canadian]] federal government's cybercrime coordination hub, operated by the Royal Canadian Mounted Police (RCMP) under Federal Policing. NC3 reached initial operating capability on **April 1, 2020** and was funded through Budget 2018 with CAD 137.5 million over five years plus CAD 23 million ongoing, as part of Canada's National Cyber Security Strategy.

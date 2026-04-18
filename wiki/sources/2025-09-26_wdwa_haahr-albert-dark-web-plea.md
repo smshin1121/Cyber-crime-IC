@@ -1,6 +1,6 @@
 ---
 type: source
-title: "United States v. Trevor Stephen Haahr and Kaeli Arielle Albert"
+title: "Two East Pierce County residents, who distributed fentanyl pills via the dark web, plead guilty"
 raw_path: raw/case-documents/2025-09-26_wdwa_haahr-albert-dark-web-plea.md
 source_type: court-document
 publisher: "US DOJ (Western District of Washington)"
@@ -12,11 +12,15 @@ reliability: high
 credibility: confirmed
 sensitivity: public
 pages_updated:
-  []
+
 key_findings:
-  - "On 26 September 2025, DOJ announced that Trevor Stephen Haahr and Kaeli Arielle Albert pleaded guilty to conspiring to sell fentanyl pills via a dark web marketplace."
+  - "Secure .gov websites use HTTPS A lock ( Lock Locked padlock ) or https:// means you’ve safely connected to the .gov website. Share sensitive information only on official, secure websites."
 collection_url: https://www.justice.gov/usao-wdwa/pr/two-east-pierce-county-residents-who-distributed-fentanyl-pills-dark-web-plead-guilty
 created: 2026-04-17
+defendant_names:
+  - "Trevor Stephen Haahr"
+  - "Kaeli Arielle Albert"
+updated: 2026-04-18
 ---
 ## Source Summary
 

@@ -1,6 +1,6 @@
 ---
 type: source
-title: "Russian National Charged with Decade-Long Series of Hacking and Bank Fraud"
+title: "Russian National Charged with Decade-Long Series of Hacking and Bank Fraud Offenses Resulting in Tens of Millions in Losses and Second Russian National Charged with Involvement in Deployment of “Bugat” Malware"
 raw_path: raw/press-releases/2019-12-05_justice-gov_russian-national-charged-with-decade-long-series-of-hacking-and-bank-fraud.md
 source_type: press-release
 publisher: "US DOJ"
@@ -12,11 +12,14 @@ reliability: high
 credibility: confirmed
 sensitivity: public
 pages_updated:
-  []
+
 key_findings:
-  - "The Dridex/Evil Corp disruption and prosecution was a **multi-year international law enforcement operation** targeting the Dridex banking trojan (also known as Bugat and Cridex) and its operators within the Russia-based cybercriminal organization **Evil Corp**. The operation unfolded in two major phases: (1) the **October 2015 technical disruption and arrest** of botnet administrator Andrey Ghinkul, conducted jointly by the [[fbi-cyber-division|FBI]] and [[uk-nca|UK National Crime Agency (NCA)]]; and (2) the **December 2019 indictment, sanctions, and reward** targeting Evil Corp leader **Maksim Yakubets** and deputy **Igor Turashev**, coordinated between the [[us-doj|US DOJ]], [[us-treasury|US Treasury (OFAC)]], and NCA."
+  - "Secure .gov websites use HTTPS A lock ( Lock Locked padlock ) or https:// means you’ve safely connected to the .gov website. Share sensitive information only on official, secure websites."
 collection_url: https://www.justice.gov/archives/opa/pr/russian-national-charged-decade-long-series-hacking-and-bank-fraud-offenses-resulting-tens
 created: 2026-04-17
+defendant_names:
+  - "Igor Turashev"
+updated: 2026-04-18
 ---
 ## Source Summary
 

@@ -1,6 +1,6 @@
 ---
 type: source
-title: "United States v. Konovolov et al. (GozNym Network)"
+title: "GozNym Cyber-Criminal Network Operating out of Europe Targeting American Entities Dismantled in International Operation"
 raw_path: raw/press-releases/2019-05-16_justice-gov_united-states-v-konovolov-et-al-goznym-network.md
 source_type: press-release
 publisher: "US DOJ (W.D. Pa.)"
@@ -12,11 +12,12 @@ reliability: high
 credibility: confirmed
 sensitivity: public
 pages_updated:
-  []
+
 key_findings:
-  - "Konovolov et al. (GozNym Network) Enforcement Action is a defendant-specific enforcement action page derived from [[us-v-konovolov-goznym]]. It captures the prosecutorial or seizure stage reflected in the linked case record and preserves the operation-side catalog entry for this follow-on action."
+  - "Secure .gov websites use HTTPS A lock ( Lock Locked padlock ) or https:// means you’ve safely connected to the .gov website. Share sensitive information only on official, secure websites."
 collection_url: https://www.justice.gov/archives/opa/pr/goznym-cyber-criminal-network-operating-out-europe-targeting-american-entities-dismantled
 created: 2026-04-17
+updated: 2026-04-18
 ---
 ## Source Summary
 

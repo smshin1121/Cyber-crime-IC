@@ -1,0 +1,30 @@
+---
+type: source
+title: "Florida man sentenced to 20 years in prison for producing images of child sexual abuse and traveling across the U.S. to sexually abuse a minor"
+raw_path: raw/press-releases/2026-04-18_justice-gov_florida-man-sentenced-20-years-prison-producing-images-child-sexual-abuse-and.md
+source_type: press-release
+publisher: "US DOJ USAO"
+author: ""
+publish_date: 2024-04-15
+ingest_date: 2026-04-18
+language: en
+reliability: high
+credibility: confirmed
+sensitivity: public
+pages_updated:
+
+key_findings:
+  - "Secure .gov websites use HTTPS A lock ( Lock Locked padlock ) or https:// means you’ve safely connected to the .gov website. Share sensitive information only on official, secure websites."
+collection_url: https://www.justice.gov/usao-wdwa/pr/florida-man-sentenced-20-years-prison-producing-images-child-sexual-abuse-and
+created: 2026-04-18
+defendant_names:
+  - "Samuel Aaron Leonard"
+updated: 2026-04-18
+---
+## Source Summary
+
+New Port Ritchey, Florida, man was sentenced today in U.S. District Court in Tacoma...Press Release Florida man sentenced to 20 years in prison for producing images...New Port Ritchey, Florida, man was sentenced today in U.S. District Court in Tacoma
+
+## Relevance to IC
+
+This source was discovered from Bing search results limited to official DOJ domains.

@@ -1,51 +1,46 @@
 ---
 aliases:
-- USSS CFTF
-- Secret Service Cyber
-- USSS ECTF
-- Cyber Fraud Task Force
-contact_point_for: []
+
+contact_point_for:
+
 cooperation_partners:
-- '[[fbi-cyber-division]]'
-- '[[europol-ec3]]'
-- '[[interpol-igci]]'
-country: '[[united-states]]'
+
+country: "[[united-states]]"
 created: 2026-04-10
 established: 2020-07
-frameworks_administered: []
-headquarters: Washington, D.C., United States
-key_roles:
-- Statutory jurisdiction over US financial cybercrime
-- Cyber Fraud Task Forces (CFTFs) — domestic and international network
-- Overseas Cyber Fraud Task Forces and liaisons
-- Recovery of cyber-enabled financial losses
-- Public-private partnership with financial institutions
-- Critical infrastructure financial payment system protection
-last_verified: '2026-04-10'
-mandate: Combat financial cybercrime through a unified national network of Cyber Fraud
-  Task Forces (CFTFs) that merges the former Electronic Crimes Task Forces (ECTFs)
-  and Financial Crimes Task Forces (FCTFs). Investigate credit/debit card fraud, identity
-  theft, counterfeit payment instruments, financial institution fraud, BEC, and other
-  technology-enabled financial crimes.
-mechanisms_operated: []
-notable_cases: []
-official_name: United States Secret Service, Cyber Fraud Task Forces
-operations_participated:
-- '[[hive-ransomware-takedown]]'
-- '[[operation-endgame]]'
-- '[[operation-endgame-phase2]]'
-- '[[operation-pleiades]]'
-- '[[operation-secreto]]'
-org_type: national-unit
-parent_org: '[[us-secret-service-hq]]'
-source_count: 4
-sources: []
-status: active
-title: US Secret Service — Cyber Fraud Task Forces
-type: organization
-updated: '2026-04-10'
----
+frameworks_administered:
 
+headquarters: "Washington, D.C., United States"
+key_roles:
+
+last_verified: 2026-04-10
+mandate: "Combat financial cybercrime through a unified national network of Cyber Fraud"
+mechanisms_operated:
+
+notable_cases:
+
+official_name: "United States Secret Service, Cyber Fraud Task Forces"
+operations_participated:
+  - "[[operation-endgame]]"
+  - "[[operation-endgame-phase2]]"
+  - "[[operation-pleiades]]"
+  - "[[operation-secreto]]"
+  - "[[bidencash-takedown]]"
+  - "[[doublevpn-takedown]]"
+  - "[[operation-in-re-bidencash-marketplace-seizure]]"
+  - "[[operation-multiple-foreign-nationals-charged-in-connection-with-trickbot-and-conti]]"
+  - "[[operation-rewired]]"
+  - "[[trickbot-operations]]"
+org_type: national-unit
+parent_org: "[[us-secret-service-hq]]"
+source_count: 4
+sources:
+
+status: active
+title: "US Secret Service — Cyber Fraud Task Forces"
+type: organization
+updated: 2026-04-14
+---
 ## Current Status (as of 2026-04-10)
 
 **Status:** Active — the Cyber Fraud Task Force (CFTF) model established in July 2020 remains the operational structure, with no further material reorganization [1][2].

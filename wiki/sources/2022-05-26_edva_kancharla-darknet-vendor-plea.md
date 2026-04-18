@@ -1,6 +1,6 @@
 ---
 type: source
-title: "United States v. Akshay Ram Kancharla"
+title: "Darknet Vendor of Fentanyl-Laced Pills Pleads Guilty"
 raw_path: raw/case-documents/2022-05-26_edva_kancharla-darknet-vendor-plea.md
 source_type: court-document
 publisher: "US DOJ (Eastern District of Virginia)"
@@ -12,11 +12,15 @@ reliability: high
 credibility: confirmed
 sensitivity: public
 pages_updated:
-  []
+
 key_findings:
-  - "On 26 May 2022, DOJ announced that Akshay Ram Kancharla pleaded guilty to distributing fentanyl on the darknet through the moniker `OnlyTheFinest` on ToRRez and Dark0de Reborn. DOJ said Kancharla sold tens of thousands of dollars in controlled substances and completed hundreds of transactions before a search warrant was executed at his residence."
+  - "Secure .gov websites use HTTPS A lock ( Lock Locked padlock ) or https:// means you’ve safely connected to the .gov website. Share sensitive information only on official, secure websites."
 collection_url: https://www.justice.gov/usao-edva/pr/darknet-vendor-fentanyl-laced-pills-pleads-guilty
 created: 2026-04-17
+defendant_names:
+  - "Donjuan Murphy"
+  - "Montrio Santos Neville"
+updated: 2026-04-18
 ---
 ## Source Summary
 

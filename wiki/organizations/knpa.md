@@ -3,10 +3,13 @@ type: organization
 title: "Korea National Police Agency (경찰청)"
 official_name: "Korea National Police Agency"
 official_name_ko: "대한민국 경찰청"
-aliases: ["KNPA", "경찰청", "Korean National Police Agency"]
-org_type: "national-agency"
-status: "active"
-established: "1945-10-21"
+aliases:
+  - KNPA
+  - "경찰청"
+  - "Korean National Police Agency"
+org_type: national-agency
+status: active
+established: 1945-10-21
 parent_org: "[[ministry-of-interior-korea]]"
 country: "[[south-korea]]"
 headquarters: "Seoul, South Korea"
@@ -22,20 +25,24 @@ cooperation_partners:
   - "[[interpol]]"
   - "[[europol-ec3]]"
   - "[[fbi-cyber-division]]"
-frameworks_administered: []
-mechanisms_operated: []
-operations_participated: []
-notable_cases: []
+frameworks_administered:
+  []
+mechanisms_operated:
+  []
+operations_participated:
+  - "[[operation-haechi-iii]]"
+notable_cases:
+  []
 contact_point_for:
   - network: "[[interpol-i24-7]]"
     role: "NCB Korea"
 source_count: 2
-sources: []
+sources:
+  []
 created: 2026-04-10
 updated: 2026-04-10
 last_verified: 2026-04-10
 ---
-
 ## Summary
 
 The **Korea National Police Agency (경찰청, KNPA)** is the national police service of the Republic of Korea. Established in 1945, it is South Korea's primary law enforcement authority. Cybercrime investigation is handled within the **국가수사본부 (National Investigation Headquarters, NIO)**, established in 2021 as part of a major police reform.

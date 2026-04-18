@@ -1,44 +1,43 @@
 ---
 aliases:
-- AFRIPOL
-contact_point_for: []
+
+contact_point_for:
+
 cooperation_partners:
-- '[[interpol-igci]]'
-country: ''
+
+country: ""
 created: 2026-04-08
-established: '2017'
-frameworks_administered: []
-headquarters: Algiers, Algeria
+established: 2017
+frameworks_administered:
+
+headquarters: "Algiers, Algeria"
 key_roles:
-- Coordination of pan-African law enforcement operations
-- Partnership with INTERPOL for African cybercrime enforcement
-- Capacity building for African law enforcement agencies
-last_verified: '2026-04-10'
-mandate: Continental police cooperation mechanism for Africa; coordinates law enforcement
-  cooperation among African Union member states.
-mechanisms_operated: []
+
+last_verified: 2026-04-10
+mandate: "Continental police cooperation mechanism for Africa; coordinates law enforcement"
+mechanisms_operated:
+
 member_states: 55
-notable_cases: []
-official_name: African Police Cooperation Organization
-official_name_ko: 아프리카경찰협력기구
+notable_cases:
+
+official_name: "African Police Cooperation Organization"
+official_name_ko: "아프리카경찰협력기구"
 operations_participated:
-- '[[africa-cyber-surge-ii]]'
-- '[[operation-contender-2]]'
-- '[[operation-first-light-2024]]'
-- '[[operation-red-card]]'
-- '[[operation-sentinel-africa]]'
-- '[[operation-serengeti]]'
+  - "[[operation-first-light-2024]]"
+  - "[[operation-sentinel-africa]]"
+  - "[[operation-serengeti]]"
+  - "[[operation-contender-2]]"
+  - "[[operation-red-card]]"
 org_type: regional-org
-parent_org: '[[african-union]]'
+parent_org: "[[african-union]]"
 source_count: 0
 sources:
-- '[[2024-11-26-interpol-operation-serengeti]]'
-status: active
-title: AFRIPOL (African Police Cooperation Organization)
-type: organization
-updated: '2026-04-09'
----
 
+status: active
+title: "AFRIPOL (African Police Cooperation Organization)"
+type: organization
+updated: 2026-04-14
+---
 ## Summary
 
 AFRIPOL (African Police Cooperation Organization) is the African Union's continental police cooperation mechanism, established in 2017 and headquartered in Algiers, Algeria. AFRIPOL coordinates law enforcement cooperation among the 55 AU member states and partners with [[interpol-igci|INTERPOL]] for joint operations targeting cybercrime and other transnational crime in Africa.

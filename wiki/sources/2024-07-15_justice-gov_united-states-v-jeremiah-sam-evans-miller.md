@@ -1,6 +1,6 @@
 ---
 type: source
-title: "United States v. Jeremiah Sam Evans Miller"
+title: "Texas Man Sentenced to 9 Months in Federal Prison for Operating Website that Offered Computer Attack Services"
 raw_path: raw/press-releases/2024-07-15_justice-gov_united-states-v-jeremiah-sam-evans-miller.md
 source_type: press-release
 publisher: "US DOJ (Central District of California)"
@@ -12,11 +12,14 @@ reliability: high
 credibility: confirmed
 sensitivity: public
 pages_updated:
-  []
+
 key_findings:
-  - "Jeremiah Sam Evans Miller (Operation PowerOFF) Enforcement Action is a defendant-specific enforcement action page derived from [[us-v-miller-poweroff]]. It captures the prosecutorial or seizure stage reflected in the linked case record and preserves the operation-side catalog entry for this follow-on action."
+  - "Secure .gov websites use HTTPS A lock ( Lock Locked padlock ) or https:// means you’ve safely connected to the .gov website. Share sensitive information only on official, secure websites."
 collection_url: https://www.justice.gov/usao-cdca/pr/texas-man-sentenced-9-months-federal-prison-operating-website-offered-computer-attack
 created: 2026-04-17
+defendant_names:
+  - "Scott Raul Esparza"
+updated: 2026-04-18
 ---
 ## Source Summary
 

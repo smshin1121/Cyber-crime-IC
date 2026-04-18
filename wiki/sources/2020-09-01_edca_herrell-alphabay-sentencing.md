@@ -1,6 +1,6 @@
 ---
 type: source
-title: "United States v. Bryan Connor Herrell"
+title: "Colorado Man Sentenced to 11 Years in Prison for Moderating Disputes on Darknet Marketplace Alphabay"
 raw_path: raw/case-documents/2020-09-01_edca_herrell-alphabay-sentencing.md
 source_type: court-document
 publisher: "US DOJ (Eastern District of California)"
@@ -14,9 +14,12 @@ sensitivity: public
 pages_updated:
   - alphabay-takedown
 key_findings:
-  - "On 1 September 2020, DOJ announced that Bryan Connor Herrell was sentenced to 11 years in prison for serving as a moderator on AlphaBay. DOJ said Herrell moderated disputes between buyers and sellers and helped maintain the functioning of what was then the world's largest online drug marketplace."
+  - "Secure .gov websites use HTTPS A lock ( Lock Locked padlock ) or https:// means you’ve safely connected to the .gov website. Share sensitive information only on official, secure websites."
 collection_url: https://www.justice.gov/usao-edca/pr/colorado-man-sentenced-11-years-prison-moderating-disputes-darknet-marketplace-alphabay
 created: 2026-04-17
+defendant_names:
+  - "Bryan Connor Herrell"
+updated: 2026-04-18
 ---
 ## Source Summary
 

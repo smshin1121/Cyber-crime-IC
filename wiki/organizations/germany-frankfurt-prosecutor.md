@@ -1,43 +1,33 @@
 ---
 aliases:
-- ZIT
-- ZIT Frankfurt
-- Generalstaatsanwaltschaft Frankfurt ZIT
-- Internet-Staatsanwaltschaft
-contact_point_for: []
-country: '[[germany]]'
-created: 2026-04-10
-established: '2010-01-01'
-headquarters: Frankfurt am Main, Germany
-key_roles:
-- Primary BKA prosecutorial partner for nationwide internet crime cases
-- Darknet marketplace takedown prosecutions
-- Nationwide jurisdiction allocation for internet crimes
-- Training for judges, prosecutors and police on cybercrime
-- Founding member of the Judicial Cybercrime Network (EU)
-last_verified: '2026-04-10'
-mandate: Central German prosecutorial office for internet crime, serving as first
-  point of contact for the BKA on internet crimes with unclear jurisdiction or nationwide
-  mass proceedings. Handles complex investigations in darknet crime, cybercrime (sensu
-  stricto), online child sexual abuse, and online hate crime.
-notable_cases: []
-official_name: Zentralstelle zur Bekämpfung der Internetkriminalität
-operations_participated:
-- '[[operation-avalanche]]'
-- '[[operation-endgame]]'
-- '[[operation-endgame-phase1]]'
-- '[[operation-endgame-phase2]]'
-- '[[operation-cronos-phase1]]'
-org_type: prosecution-office
-parent_org: Generalstaatsanwaltschaft Frankfurt am Main (Hessen)
-source_count: 3
-sources: []
-status: active
-title: Central Office for Combating Internet Crime (ZIT) — Frankfurt am Main
-type: organization
-updated: 2026-04-10
----
 
+contact_point_for:
+
+country: "[[germany]]"
+created: 2026-04-10
+established: 2010-01-01
+headquarters: "Frankfurt am Main, Germany"
+key_roles:
+
+last_verified: 2026-04-10
+mandate: "Central German prosecutorial office for internet crime, serving as first"
+notable_cases:
+
+official_name: "Zentralstelle zur Bekämpfung der Internetkriminalität"
+operations_participated:
+  - "[[operation-endgame]]"
+  - "[[operation-endgame-phase2]]"
+  - "[[nemesis-market-takedown]]"
+org_type: prosecution-office
+parent_org: "Generalstaatsanwaltschaft Frankfurt am Main (Hessen)"
+source_count: 3
+sources:
+
+status: active
+title: "Central Office for Combating Internet Crime (ZIT) — Frankfurt am Main"
+type: organization
+updated: 2026-04-14
+---
 ## Summary
 
 The **Zentralstelle zur Bekämpfung der Internetkriminalität (ZIT)** is a specialized central office of the **Generalstaatsanwaltschaft Frankfurt am Main** (General Public Prosecutor's Office Frankfurt, Hessen state), established on **1 January 2010** [1]. Originally headquartered in Gießen, ZIT relocated to Frankfurt am Main in July 2019 [1].

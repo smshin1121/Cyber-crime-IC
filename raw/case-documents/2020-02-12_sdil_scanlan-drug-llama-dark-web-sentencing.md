@@ -1,16 +1,18 @@
 ---
-title: "United States v. Melissa Scanlan"
+title: "Dark Web Fentanyl Trafficker Known as \"The Drug Llama\" Sentenced To 13 Years In Federal Prison"
 court: "U.S. District Court, Southern District of Illinois"
 case_number: "S.D. Ill. Drug Llama sentencing"
 document_type: "sentencing announcement"
-date_filed: "2020-02-12"
-source_url: "https://www.justice.gov/usao-sdil/pr/dark-web-fentanyl-trafficker-known-drug-llama-sentenced-13-years-federal-prison"
-collection_date: "2026-04-17"
+date_filed: 2020-02-12
+source_url: https://www.justice.gov/usao-sdil/pr/dark-web-fentanyl-trafficker-known-drug-llama-sentenced-13-years-federal-prison
+collection_date: 2026-04-17
 publisher: "US DOJ (Southern District of Illinois)"
-language: "en"
-sensitivity: "public"
+language: en
+sensitivity: public
+defendant_names:
+  - "Brandon Arias"
+updated: 2026-04-18
 ---
-
 ## United States v. Melissa Scanlan
 
 On 12 February 2020, DOJ announced that Melissa Scanlan, known as "The Drug Llama," was sentenced to 160 months in prison for trafficking fentanyl via the dark web, conspiring to commit international money laundering, and distributing fentanyl resulting in death.

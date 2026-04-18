@@ -1,6 +1,6 @@
 ---
 type: source
-title: "United States v. Veronica Dittman, Rick Schiffner, and Devin Langer"
+title: "Three Darknet Fentanyl Vendors Sentenced to Over 20 Years in Prison"
 raw_path: raw/press-releases/2023-07-14_justice-gov_united-states-v-veronica-dittman-rick-schiffner-and-devin-langer.md
 source_type: press-release
 publisher: "US DOJ (Eastern District of Virginia)"
@@ -12,11 +12,15 @@ reliability: high
 credibility: confirmed
 sensitivity: public
 pages_updated:
-  []
+
 key_findings:
-  - "Dittman, Schiffner, and Langer (Darknet Fentanyl Vendors) Enforcement Action is a defendant-specific enforcement action page derived from [[us-v-dittman-schiffner-langer-dark-web]]. It captures the prosecutorial or seizure stage reflected in the linked case record and preserves the operation-side catalog entry for this follow-on action."
+  - "Secure .gov websites use HTTPS A lock ( Lock Locked padlock ) or https:// means you’ve safely connected to the .gov website. Share sensitive information only on official, secure websites."
 collection_url: https://www.justice.gov/usao-edva/pr/three-darknet-fentanyl-vendors-sentenced-over-20-years-prison
 created: 2026-04-17
+defendant_names:
+  - "Donjuan Murphy"
+  - "Montrio Santos Neville"
+updated: 2026-04-18
 ---
 ## Source Summary
 

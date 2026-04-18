@@ -7,7 +7,7 @@ updated: 2026-04-14
 total: 61
 ---
 
-# Countries (84)
+# Countries (85)
 
 | Country | Legal System | Budapest Conv. | IC Capacity | MLAT Response | Sources |
 |---------|--------------|----------------|-------------|---------------|---------|
@@ -55,6 +55,7 @@ total: 61
 | [[ireland]] | common-law | — | unknown | unknown | 0 |
 | [[israel]] | mixed | — | unknown | unknown | 0 |
 | [[india]] | common-law | — | medium | 180+ | 0 |
+| [[international]] | mixed | — | variable | variable | 0 |
 | [[iceland]] | civil-law | — | unknown | unknown | 0 |
 | [[italy]] | civil-law | — | high | 90-180 | 0 |
 | [[japan]] | civil-law | — | high | 90-180 | 0 |

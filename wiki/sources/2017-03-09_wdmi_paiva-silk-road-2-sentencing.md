@@ -1,6 +1,6 @@
 ---
 type: source
-title: "United States v. Michael Carlton Paiva"
+title: "Norton Shores \"Dark Web\" Drug Dealer Sentenced To 30 Months In Prison"
 raw_path: raw/case-documents/2017-03-09_wdmi_paiva-silk-road-2-sentencing.md
 source_type: court-document
 publisher: "US DOJ (Western District of Michigan)"
@@ -14,9 +14,12 @@ sensitivity: public
 pages_updated:
   - operation-onymous
 key_findings:
-  - "On 9 March 2017, the U.S. Attorney's Office for the Western District of Michigan announced that Michael Carlton Paiva was sentenced to 30 months in prison for his role in a conspiracy to distribute controlled substances. DOJ said Paiva came to law enforcement attention after the international takedown of Silk Road 2.0. According to DOJ, investigators identified Paiva as a purchaser of significant quantities of MDMA, DMT, LSD, mescaline, and other controlled substances for redistribution in western Michigan. The case is a useful follow-on example of how the Silk Road 2.0 seizure produced not only administrator prosecutions but also purchaser-distributor cases in domestic districts."
+  - "Secure .gov websites use HTTPS A lock ( Lock Locked padlock ) or https:// means you’ve safely connected to the .gov website. Share sensitive information only on official, secure websites."
 collection_url: https://www.justice.gov/usao-wdmi/pr/2017_0309_Paiva
 created: 2026-04-17
+defendant_names:
+  - "Michael Carlton Paiva"
+updated: 2026-04-18
 ---
 ## Source Summary
 

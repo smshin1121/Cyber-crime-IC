@@ -58,6 +58,7 @@ related_cases:
   - "[[us-v-telusma-infraud]]"
 related_operations:
   - "[[infraud-organization-takedown]]"
+  - "[[operation-us-v-telusma-infraud]]"
 challenges_encountered:
 
 lessons_learned:

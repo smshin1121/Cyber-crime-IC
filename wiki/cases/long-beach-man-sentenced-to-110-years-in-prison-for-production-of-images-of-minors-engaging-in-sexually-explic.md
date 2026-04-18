@@ -1,0 +1,64 @@
+---
+type: case
+title: "Long Beach Man Sentenced to 110 Years in Prison for Production of Images of Minors Engaging in Sexually Explicit Conduct"
+case_number: "Source-derived from 2026-04-18_justice-gov_long-beach-man-sentenced-110-years-prison-production-images-minors-engaging-sexually"
+jurisdiction: "U.S. federal prosecution (district not specified in source)"
+jurisdiction_country: "[[united-states]]"
+case_type: prosecution
+status: sentenced
+crime_charged:
+  - "[[online-fraud-ic]]"
+defendants:
+  - name: "Long Beach Man Sentenced to 110 Years in Prison for Production of Images of Minors Engaging in Sexually Explicit Conduct"
+    nationality: Unknown
+    status: sentenced
+    sentence: ""
+    location_at_arrest: ""
+related_operation: "[[operation-long-beach-man-sentenced-to-110-years-in-prison-for-production-of-images-of-minors-engaging-in-sexually-explic]]"
+ic_elements:
+  mlat_requests:
+    []
+  extradition: ""
+  evidence_from_abroad:
+    []
+  foreign_arrests:
+    []
+  asset_freezing:
+    []
+cooperating_agencies:
+  - "[[us-doj]]"
+legal_frameworks_invoked:
+  - "[[informal-cooperation]]"
+mechanisms_used:
+  - "[[informal-cooperation]]"
+key_legal_issues:
+  - "[[online-fraud-ic]]"
+precedent_value: "Source-derived official action page; procedural enrichment from primary filings may still be needed."
+source_count: 1
+sources:
+  - "[[2026-04-18_justice-gov_long-beach-man-sentenced-110-years-prison-production-images-minors-engaging-sexually]]"
+created: 2026-04-18
+updated: 2026-04-18
+summary: "Long Beach Man Sentenced to 110 Years in Prison for Production of Images of Minors Engaging in Sexually Explicit Conduct is a source-derived case page generated from [[2026-04-18_justice-gov_long-beach-man-sentenced-110-years-prison-production-images-minors-engaging-sexually]]."
+---
+## Summary
+
+Long Beach Man Sentenced to 110 Years in Prison for Production of Images of Minors Engaging in Sexually Explicit Conduct is a source-derived case page generated from [[2026-04-18_justice-gov_long-beach-man-sentenced-110-years-prison-production-images-minors-engaging-sexually]].
+
+## Facts
+
+This case page was generated from [[2026-04-18_justice-gov_long-beach-man-sentenced-110-years-prison-production-images-minors-engaging-sexually]] and reflects an official action title from the source corpus.
+
+## International Cooperation Elements
+
+This source-derived page should be enriched with case-level cooperation detail if primary filings or fuller official narratives are collected.
+
+## Legal Analysis
+
+The present page is a structured placeholder built from source metadata and may require refinement from primary filings.
+
+## References
+
+| # | Source | Publisher | Date | URL |
+|---|---|---|---|---|
+| 1 | Long Beach Man Sentenced to 110 Years in Prison for Production of Images of Minors Engaging in Sexually Explicit Conduct | US DOJ USAO | 2025-08-29 | https://www.justice.gov/usao-sdms/pr/long-beach-man-sentenced-110-years-prison-production-images-minors-engaging-sexually |

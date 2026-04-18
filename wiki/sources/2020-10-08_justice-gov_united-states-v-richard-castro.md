@@ -1,6 +1,6 @@
 ---
 type: source
-title: "United States v. Richard Castro"
+title: "Prolific Dark Web Dealer Of Carfentanil And Fentanyl Sentenced To 17½ Years In Prison"
 raw_path: raw/press-releases/2020-10-08_justice-gov_united-states-v-richard-castro.md
 source_type: press-release
 publisher: "US DOJ (Southern District of New York)"
@@ -12,11 +12,14 @@ reliability: high
 credibility: confirmed
 sensitivity: public
 pages_updated:
-  []
+
 key_findings:
-  - "Richard Castro (Chemsusa) Enforcement Action is a defendant-specific enforcement action page derived from [[us-v-castro-dark-web]]. It captures the prosecutorial or seizure stage reflected in the linked case record and preserves the operation-side catalog entry for this follow-on action."
+  - "Secure .gov websites use HTTPS A lock ( Lock Locked padlock ) or https:// means you’ve safely connected to the .gov website. Share sensitive information only on official, secure websites."
 collection_url: https://www.justice.gov/usao-sdny/pr/prolific-dark-web-dealer-carfentanil-and-fentanyl-sentenced-17-years-prison
 created: 2026-04-17
+updated: 2026-04-18
+defendant_names:
+  - "Of Carfentanil And Fentanyl"
 ---
 ## Source Summary
 

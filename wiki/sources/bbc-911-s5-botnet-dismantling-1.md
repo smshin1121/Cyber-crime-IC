@@ -1,32 +1,26 @@
 ---
 type: source
-title: "US DOJ: Justice Department Leads Effort to Dismantle 911 S5 Botnet"
-collection_url: "https://www.justice.gov/archives/opa/pr/justice-department-leads-effort-among-multinational-partners-dismantle-worlds-largest-botnet"
-collection_domain: "justice.gov"
-source_type: "press-release"
+title: "Page not found"
+collection_url: https://www.justice.gov/archives/opa/pr/justice-department-leads-effort-among-multinational-partners-dismantle-worlds-largest-botnet
+collection_domain: justice.gov
+source_type: press-release
 publisher: "US Department of Justice"
 author: "DOJ Office of Public Affairs"
-publish_date: "2024-05-29"
-ingest_date: "2026-04-08"
-enriched_date: "2026-04-11"
-language: "en"
-reliability: "high"
-credibility: "confirmed"
-sensitivity: "public"
+publish_date: 2024-05-29
+ingest_date: 2026-04-08
+enriched_date: 2026-04-11
+language: en
+reliability: high
+credibility: confirmed
+sensitivity: public
 source_tier: 1
 pages_updated:
-  - "911-s5-botnet-takedown"
+  - 911-s5-botnet-takedown
 key_findings:
-  - "YunHe Wang (35, Chinese national) arrested in Singapore on 2024-05-24 for creating and operating the 911 S5 botnet from 2014 to July 2022"
-  - "~19 million unique IP addresses infected across 190+ countries, including 613,841 in the United States"
-  - "Wang received ~$99 million from selling proxied IP access; purchased luxury cars, watches, 21 properties"
-  - "23 domains and 70+ servers seized in coordinated US-Singapore-Thailand-Germany action"
-  - "Infection vector: free VPN apps (MaskVPN, DewVPN, PaladinVPN) with hidden proxy backdoors"
-  - "Previously filed as BBC source (bbc.com/news/technology-35028690) which was URL-mismatched. Replaced with DOJ official press release after Q0003 interview decision (2026-04-11)"
+  - "Secure .gov websites use HTTPS A lock ( Lock Locked padlock ) or https:// means you’ve safely connected to the .gov website. Share sensitive information only on official, secure websites."
 created: 2026-04-08
-updated: 2026-04-11
+updated: 2026-04-18
 ---
-
 > [!info] Source replaced (2026-04-11)
 > Originally filed as a BBC article (`bbc.com/news/technology-35028690`), which was a URL mismatch — the BBC URL pointed to an unrelated ~2015 article. Exhaustive search confirmed BBC did not publish a dedicated article on the 911 S5 takedown. Replaced with the US DOJ official press release per interview Q0003 decision.
 

@@ -1,16 +1,18 @@
 ---
-title: "United States v. Alex Ogando, Olatunji Dawodu, and Luis Spencer"
+title: "Three Individuals Sentenced in Darknet Narcotics Trafficking Conspiracy Involving Distribution of Pills Pressed with Fentanyl"
 court: "U.S. District Court, District of Columbia"
 case_number: "D.D.C. darknet narcotics trafficking sentencing"
 document_type: "sentencing announcement"
-date_filed: "2023-03-22"
-source_url: "https://www.justice.gov/usao-dc/pr/three-individuals-sentenced-darknet-narcotics-trafficking-conspiracy-involving"
-collection_date: "2026-04-17"
+date_filed: 2023-03-22
+source_url: https://www.justice.gov/usao-dc/pr/three-individuals-sentenced-darknet-narcotics-trafficking-conspiracy-involving
+collection_date: 2026-04-17
 publisher: "US DOJ (District of Columbia)"
-language: "en"
-sensitivity: "public"
+language: en
+sensitivity: public
+defendant_names:
+  - "Three Individuals"
+updated: 2026-04-18
 ---
-
 ## United States v. Alex Ogando, Olatunji Dawodu, and Luis Spencer
 
 On 22 March 2023, DOJ announced sentencing for three defendants convicted in a darknet fentanyl trafficking conspiracy involving AlphaBay, Dream, Wall Street, and Empire.

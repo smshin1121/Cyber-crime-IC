@@ -1,17 +1,19 @@
 ---
-title: "United States v. Ulbricht — Sentencing"
+title: "Ross Ulbricht, A/K/A “Dread Pirate Roberts,” Sentenced In Manhattan Federal Court To Life In Prison"
 court: "U.S. District Court, Southern District of New York"
 case_number: "S1 14 Cr. 68 (KBF)"
-document_type: "sentencing"
-date_filed: "2015-05-29"
-source_url: "https://www.justice.gov/usao-sdny/pr/ross-ulbricht-aka-dread-pirate-roberts-sentenced-manhattan-federal-court-life-prison"
-related_operation: "silk-road-takedown"
-collection_date: "2026-04-12"
+document_type: sentencing
+date_filed: 2015-05-29
+source_url: https://www.justice.gov/usao-sdny/pr/ross-ulbricht-aka-dread-pirate-roberts-sentenced-manhattan-federal-court-life-prison
+related_operation: silk-road-takedown
+collection_date: 2026-04-12
 publisher: "US DOJ (SDNY)"
-language: "en"
-sensitivity: "public"
+language: en
+sensitivity: public
+defendant_names:
+  - "In Manhattan Federal Court"
+updated: 2026-04-18
 ---
-
 ## United States v. Ulbricht — Sentencing
 
 On 29 May 2015, Ross William Ulbricht, 31, of San Francisco, California, was sentenced by Judge Katherine B. Forrest to two concurrent terms of life imprisonment plus 40 years without the possibility of parole. The court also imposed a forfeiture order of USD 183,961,921.

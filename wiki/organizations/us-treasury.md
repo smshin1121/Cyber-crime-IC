@@ -25,6 +25,8 @@ operations_participated:
   - "[[operation-us-v-yakubets-dridex]]"
   - "[[operation-us-v-yunhe-wang-911-s5]]"
   - "[[operation-wirewire]]"
+  - "[[cryptex-pm2btc-sanctions]]"
+  - "[[dridex-operations]]"
 org_type: national-agency
 parent_org: "[[us-federal-government]]"
 source_count: 8

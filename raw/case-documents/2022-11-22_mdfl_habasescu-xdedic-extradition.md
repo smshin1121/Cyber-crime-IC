@@ -1,17 +1,17 @@
 ---
-title: "United States v. Alexandru Habasescu"
+title: "Moldovan National And Technical Mastermind Of xDedic Marketplace Extradited From Spain"
 court: "U.S. District Court, Middle District of Florida"
 case_number: "Case open 2023-09-11 (M.D. Fla.)"
 document_type: "indictment / extradition announcement"
-date_filed: "2022-11-22"
-source_url: "https://www.justice.gov/usao-mdfl/pr/moldovan-national-and-technical-mastermind-xdedic-marketplace-extradited-spain"
-related_operation: "xdedic-marketplace-takedown"
-collection_date: "2026-04-17"
+date_filed: 2022-11-22
+source_url: https://www.justice.gov/usao-mdfl/pr/moldovan-national-and-technical-mastermind-xdedic-marketplace-extradited-spain
+related_operation: xdedic-marketplace-takedown
+collection_date: 2026-04-17
 publisher: "US DOJ (Middle District of Florida)"
-language: "en"
-sensitivity: "public"
+language: en
+sensitivity: public
+updated: 2026-04-18
 ---
-
 ## United States v. Alexandru Habasescu
 
 On 22 November 2022, the U.S. Attorney's Office for the Middle District of Florida announced the arrest and extradition from Spain of Alexandru Habasescu, whom DOJ described as the lead developer and technical mastermind of the xDedic Marketplace. DOJ said Habasescu was charged in a superseding indictment with conspiracy to commit access-device fraud and substantive access-device-fraud counts.

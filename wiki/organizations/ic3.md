@@ -1,42 +1,37 @@
 ---
 aliases:
-- IC3
-- FBI IC3
-contact_point_for: []
+  []
+contact_point_for:
+  []
 cooperation_partners:
-- '[[fbi-cyber-division]]'
-- '[[us-secret-service]]'
-country: '[[united-states]]'
+  []
+country: "[[united-states]]"
 created: 2026-04-10
 established: 2000-05
-frameworks_administered: []
-headquarters: Washington, D.C. / West Virginia, United States
+frameworks_administered:
+  []
+headquarters: "Washington, D.C. / West Virginia, United States"
 key_roles:
-- National intake portal for internet crime complaints (ic3.gov)
-- Trend analysis and annual Internet Crime Report publication
-- Recovery Asset Team (RAT) — freeze/recover fraudulent wire transfers
-- Intelligence sharing with FBI field offices and international partners
-- Data feed for joint FBI/Secret Service/DOJ investigations
-last_verified: '2026-04-10'
-mandate: Serve as the central hub for the public to report suspected internet-facilitated
-  criminal activity to US federal law enforcement. Collect, analyze, and disseminate
-  internet crime complaint data to FBI investigators, partner agencies, and international
-  counterparts. Operate the Recovery Asset Team (RAT) to assist in recovering fraudulently
-  transferred funds.
-mechanisms_operated: []
-notable_cases: []
-official_name: Internet Crime Complaint Center
-operations_participated: []
+  []
+last_verified: 2026-04-10
+mandate: "Serve as the central hub for the public to report suspected internet-facilitated"
+mechanisms_operated:
+  []
+notable_cases:
+  []
+official_name: "Internet Crime Complaint Center"
+operations_participated:
+  - "[[operation-rewired]]"
 org_type: national-unit
-parent_org: '[[fbi-cyber-division]]'
+parent_org: "[[fbi-cyber-division]]"
 source_count: 4
-sources: []
+sources:
+  []
 status: active
-title: Internet Crime Complaint Center (IC3)
+title: "Internet Crime Complaint Center (IC3)"
 type: organization
 updated: 2026-04-10
 ---
-
 ## Summary
 
 The Internet Crime Complaint Center (IC3) is the [[fbi-cyber-division|FBI Cyber Division]]'s central intake and analysis unit for public reports of internet-facilitated crime. Established in **May 2000** originally as the Internet Fraud Complaint Center, IC3 has become the single most comprehensive US national dataset on cyber-enabled fraud and cybercrime victimization.

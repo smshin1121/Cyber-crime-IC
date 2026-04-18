@@ -12,11 +12,12 @@ reliability: high
 credibility: confirmed
 sensitivity: public
 pages_updated:
-  []
+
 key_findings:
-  - "Operation LadyBird was a multinational law enforcement operation that disrupted the **Emotet botnet** -- described by [[europol-ec3|Europol]] as \"the world's most dangerous malware\" -- on **27 January 2021**. The operation was coordinated by [[europol-ec3|Europol EC3]] and [[eurojust|Eurojust]], with the [[netherlands-politie|Dutch National Police (NHTCU)]] and Germany's Bundeskriminalamt (BKA) serving as the primary operational leads."
+  - "Secure .gov websites use HTTPS A lock ( Lock Locked padlock ) or https:// means you’ve safely connected to the .gov website. Share sensitive information only on official, secure websites."
 collection_url: https://www.justice.gov/archives/opa/pr/emotet-botnet-disrupted-international-cyber-operation
 created: 2026-04-17
+updated: 2026-04-18
 ---
 ## Source Summary
 

@@ -1,6 +1,6 @@
 ---
 type: source
-title: "United States v. Matthew Jones"
+title: "Texas Business Executive Sentenced To Prison For Illegally Selling Oxycodone On Silk Road"
 raw_path: raw/press-releases/2014-12-18_justice-gov_united-states-v-matthew-jones.md
 source_type: press-release
 publisher: "US DOJ (Middle District of Florida)"
@@ -12,11 +12,15 @@ reliability: high
 credibility: confirmed
 sensitivity: public
 pages_updated:
-  []
+
 key_findings:
-  - "Matthew Jones (Silk Road Vendor) Enforcement Action is a defendant-specific enforcement action page derived from [[us-v-matthew-jones-silk-road]]. It captures the prosecutorial or seizure stage reflected in the linked case record and preserves the operation-side catalog entry for this follow-on action."
+  - "Secure .gov websites use HTTPS A lock ( Lock Locked padlock ) or https:// means you’ve safely connected to the .gov website. Share sensitive information only on official, secure websites."
 collection_url: https://www.justice.gov/usao-mdfl/pr/texas-business-executive-sentenced-prison-illegally-selling-oxycodone-silk-road
 created: 2026-04-17
+defendant_names:
+  - "To Prison For Illegally"
+  - "Texas Business Executive"
+updated: 2026-04-18
 ---
 ## Source Summary
 

@@ -3,7 +3,7 @@ type: crime-type
 title: "Extortion — IC Perspective"
 status: "stub"
 created: 2026-04-10
-updated: 2026-04-10
+updated: 2026-04-14
 last_verified: 2026-04-10
 source_count: 0
 sources: []
@@ -16,7 +16,11 @@ sources: []
 (To be expanded.)
 
 ## Criminalization Landscape
+Cyber-enabled extortion is commonly prosecuted through extortion, coercion, blackmail, computer misuse, and proceeds-of-crime statutes rather than a single harmonized offense.
+
 ## Typical IC Scenarios
+The international dimension often arises when threats, communications platforms, payment channels, and target organizations are distributed across multiple jurisdictions.
+
 ## References
 
 | # | Source | Publisher | Date | URL |

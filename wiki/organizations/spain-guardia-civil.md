@@ -1,43 +1,38 @@
 ---
 aliases:
-- GDT
-- Guardia Civil Cybercrime Group
-- Telematic Crime Group
-contact_point_for: []
+  []
+contact_point_for:
+  []
 cooperation_partners:
-- '[[europol-ec3]]'
-- '[[interpol-igci]]'
-country: '[[spain]]'
+  []
+country: "[[spain]]"
 created: 2026-04-10
-established: '1997'
-frameworks_administered: []
-headquarters: Madrid, Spain
+established: 1997
+frameworks_administered:
+  []
+headquarters: "Madrid, Spain"
 key_roles:
-- National cybercrime investigation
-- Cyber fraud and technological crime
-- Online child protection
-- Europol EC3 participation
-last_verified: '2026-04-10'
-mandate: Specialized cybercrime investigation unit of the Spanish Guardia Civil; integrated
-  in the Central Operational Unit (UCO); investigates hacking, cyber fraud, online
-  child sexual exploitation, and technological crime.
-mechanisms_operated: []
-notable_cases: []
-official_name: Grupo de Delitos Telemáticos, Guardia Civil
-official_name_ko: ''
+  []
+last_verified: 2026-04-10
+mandate: "Specialized cybercrime investigation unit of the Spanish Guardia Civil; integrated"
+mechanisms_operated:
+  []
+notable_cases:
+  []
+official_name: "Grupo de Delitos Telemáticos, Guardia Civil"
+official_name_ko: ""
 operations_participated:
-- '[[operation-cronos-phase3]]'
-- '[[phobos-8base-crackdown]]'
+  - "[[operation-cronos-phase3]]"
 org_type: national-unit
-parent_org: '[[spain-guardia-civil]]'
+parent_org: "[[spain-guardia-civil]]"
 source_count: 0
-sources: []
+sources:
+  []
 status: active
-title: Guardia Civil — Grupo de Delitos Telemáticos (GDT)
+title: "Guardia Civil — Grupo de Delitos Telemáticos (GDT)"
 type: organization
-updated: '2026-04-09'
+updated: 2026-04-14
 ---
-
 ## Summary
 
 The **Grupo de Delitos Telemáticos (GDT)** is the specialized cybercrime unit of Spain's **Guardia Civil**, a paramilitary police force with national jurisdiction. Originally created in 1997 as the **Grupo de Delitos Informáticos (GDI)** with only four officers, it was renamed **GDT** in February 2003 as its scope expanded to cover the full range of telematic/technological crime.

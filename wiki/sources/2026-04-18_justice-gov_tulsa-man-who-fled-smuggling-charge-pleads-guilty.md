@@ -1,0 +1,30 @@
+---
+type: source
+title: "Tulsa Man Who Fled From Smuggling Charge Pleads Guilty"
+raw_path: raw/press-releases/2026-04-18_justice-gov_tulsa-man-who-fled-smuggling-charge-pleads-guilty.md
+source_type: press-release
+publisher: "US DOJ USAO"
+author: ""
+publish_date: 2019-08-08
+ingest_date: 2026-04-18
+language: en
+reliability: high
+credibility: confirmed
+sensitivity: public
+pages_updated:
+
+key_findings:
+  - "Secure .gov websites use HTTPS A lock ( Lock Locked padlock ) or https:// means you’ve safely connected to the .gov website. Share sensitive information only on official, secure websites."
+collection_url: https://www.justice.gov/usao-ndok/pr/tulsa-man-who-fled-smuggling-charge-pleads-guilty
+created: 2026-04-18
+defendant_names:
+  - "Jeremy Daniel Singer"
+updated: 2026-04-18
+---
+## Source Summary
+
+package to Singer’s home in Tulsa and arrested Singer when he signed for the package...had stolen, before he was finally arrested. “The ‘dark web’ is a one-stop shop
+
+## Relevance to IC
+
+This source was discovered from Bing search results limited to official DOJ domains.

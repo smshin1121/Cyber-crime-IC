@@ -1,17 +1,17 @@
 ---
-title: "United States v. T'Andre McNeely et al."
+title: "xDedic Marketplace"
 court: "U.S. District Court, Middle District of Florida"
-case_number: "8:21-CR-00101-KM-SPF"
+case_number: 8:21-CR-00101-KM-SPF
 document_type: "case summary / victim-services recap"
-date_filed: "2024-08-07"
-source_url: "https://www.justice.gov/usao-mdfl/victim-witness-services/xDedic"
-related_operation: "xdedic-marketplace-takedown"
-collection_date: "2026-04-17"
+date_filed: 2024-08-07
+source_url: https://www.justice.gov/usao-mdfl/victim-witness-services/xDedic
+related_operation: xdedic-marketplace-takedown
+collection_date: 2026-04-17
 publisher: "US DOJ (Middle District of Florida)"
-language: "en"
-sensitivity: "public"
+language: en
+sensitivity: public
+updated: 2026-04-18
 ---
-
 ## United States v. T'Andre McNeely et al.
 
 The Department of Justice's xDedic victim-services page identifies `United States v. T'Andre McNeely, et al., 8:21-CR-00101-KM-SPF` as one of the cases that grew out of the xDedic Marketplace investigation. The page lists judgments for T'Andre McNeely, Michael Carr, and Brandon Williams.

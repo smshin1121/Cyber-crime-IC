@@ -1,46 +1,34 @@
 ---
 aliases:
-- Fedpol
-- Swiss Federal Office of Police
-- KOBIK (former CYCO name)
-- CYCO
-- NEDIK (Netzwerk Digitale Ermittlungsunterstützung)
-contact_point_for: []
-country: '[[switzerland]]'
+  []
+contact_point_for:
+  []
+country: "[[switzerland]]"
 created: 2026-04-10
-established: '2000-07-01'
-headquarters: Bern, Switzerland
+established: 2000-07-01
+headquarters: "Bern, Switzerland"
 key_roles:
-- Federal coordination between Swiss cantonal police and foreign law enforcement
-- CYCO — central contact point for illegal internet content reports
-- International cybercrime liaison (Europol, Interpol)
-- NEDIK — federal-cantonal digital investigation support network
-last_verified: '2026-04-10'
-mandate: Swiss federal law enforcement agency responsible for coordination between
-  cantonal police corps and between Swiss and foreign law enforcement. Hosts the Cybercrime
-  Coordination Unit Switzerland (CYCO / KOBIK) as Switzerland's central contact point
-  for reporting illegal internet content and for international cybercrime cooperation.
-notable_cases: []
-official_name: Bundesamt für Polizei / Office fédéral de la police / Ufficio federale
-  di polizia
+  []
+last_verified: 2026-04-10
+mandate: "Swiss federal law enforcement agency responsible for coordination between"
+notable_cases:
+  []
+official_name: "Bundesamt für Polizei / Office fédéral de la police / Ufficio federale"
 operations_participated:
-- '[[operation-cronos-phase1]]'
-- '[[operation-cronos-phase3]]'
-- '[[operation-endgame]]'
-- '[[operation-endgame-phase1]]'
-- '[[phobos-8base-crackdown]]'
+  - "[[operation-cronos-phase1]]"
+  - "[[operation-cronos-phase3]]"
+  - "[[operation-endgame]]"
+  - "[[operation-endgame-phase1]]"
 org_type: national-agency
-parent_org: Swiss Federal Department of Justice and Police (Eidgenössisches Justiz-
-  und Polizeidepartement — EJPD)
+parent_org: "Swiss Federal Department of Justice and Police (Eidgenössisches Justiz-"
 source_count: 4
-sources: []
+sources:
+  []
 status: active
-title: Fedpol — Swiss Federal Office of Police (with CYCO Cybercrime Coordination
-  Unit)
+title: "Fedpol — Swiss Federal Office of Police (with CYCO Cybercrime Coordination"
 type: organization
-updated: '2026-04-09'
+updated: 2026-04-14
 ---
-
 ## Summary
 
 **Fedpol** (Bundesamt für Polizei) is the Swiss Federal Office of Police, subordinate to the **Federal Department of Justice and Police (EJPD)** [1]. It is responsible for coordination between Swiss cantonal police corps and between Swiss and foreign police forces — a vital function given Switzerland's federal structure where criminal policing is primarily a cantonal competence [1].

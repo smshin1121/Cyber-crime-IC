@@ -1,49 +1,41 @@
 ---
 aliases:
-- NPA Cyber Affairs Bureau
-- サイバー警察局
-- 警察庁サイバー警察局
-- Japan NPA Cyber
-contact_point_for: []
-cooperation_partners:
-- '[[fbi-cyber-division]]'
-- '[[europol-ec3]]'
-- '[[interpol-igci]]'
-country: '[[japan]]'
-created: 2026-04-10
-established: '2022-04-01'
-frameworks_administered: []
-headquarters: Tokyo, Japan
-key_roles:
-- Central policing authority for cyberspace in Japan
-- Host National Cyber Unit (~200 investigators) for serious cybercrime
-- Investigate attacks on national/local government and critical infrastructure
-- Central consolidation and analysis of cyber intelligence
-- International cooperation with overseas law enforcement
-- Restructured from Info-Communications Bureau on 1 April 2022
-last_verified: '2026-04-10'
-mandate: Central consolidation and analysis of cyber information, implementation of
-  effective countermeasures against cybercrime and cyberterrorism, and close collaboration
-  with overseas public security authorities. Hosts the National Cyber Unit for investigating
-  serious cybercrime against Japanese government and critical infrastructure.
-mechanisms_operated: []
-notable_cases: []
-official_name: National Police Agency, Cyber Affairs Bureau
-official_name_ko: 일본 경찰청 사이버경찰국
-operations_participated:
-- '[[operation-cronos-phase1]]'
-- '[[operation-cronos-phase3]]'
-- '[[phobos-8base-crackdown]]'
-org_type: national-agency
-parent_org: '[[japan-npa-headquarters]]'
-source_count: 6
-sources: []
-status: active
-title: Japan National Police Agency — Cyber Affairs Bureau
-type: organization
-updated: '2026-04-09'
----
 
+contact_point_for:
+
+cooperation_partners:
+
+country: "[[japan]]"
+created: 2026-04-10
+established: 2022-04-01
+frameworks_administered:
+
+headquarters: "Tokyo, Japan"
+key_roles:
+
+last_verified: 2026-04-10
+mandate: "Central consolidation and analysis of cyber information, implementation of"
+mechanisms_operated:
+
+notable_cases:
+
+official_name: "National Police Agency, Cyber Affairs Bureau"
+official_name_ko: "일본 경찰청 사이버경찰국"
+operations_participated:
+  - "[[operation-cronos-phase1]]"
+  - "[[operation-cronos-phase3]]"
+  - "[[lumma-stealer-takedown]]"
+  - "[[operation-power-off]]"
+org_type: national-agency
+parent_org: "[[japan-npa-headquarters]]"
+source_count: 6
+sources:
+
+status: active
+title: "Japan National Police Agency — Cyber Affairs Bureau"
+type: organization
+updated: 2026-04-14
+---
 ## Summary
 
 The Cyber Affairs Bureau (サイバー警察局, Saibā keisatsu-kyoku) of Japan's National Police Agency (警察庁, Keisatsu-chō) was established on **1 April 2022** by restructuring the Info-Communications Bureau and integrating cyber-related divisions from several other NPA bureaus. It is now the central policing authority for cyberspace in Japan, with direct jurisdiction for the first time (historically, NPA coordinated rather than directly investigated).

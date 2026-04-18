@@ -1,17 +1,19 @@
 ---
-title: "United States v. Galochkin et al. (TrickBot/Conti)"
+title: "Multiple Foreign Nationals Charged in Connection with Trickbot Malware and Conti Ransomware Conspiracies"
 court: "U.S. District Courts: Northern District of Ohio, Middle District of Tennessee, Southern District of California"
 case_number: "Multiple: N.D. Ohio, M.D. Tenn., 23CR1166-LAB (S.D. Cal.)"
-document_type: "indictment"
-date_filed: "2023-09-07"
-source_url: "https://www.justice.gov/archives/opa/pr/multiple-foreign-nationals-charged-connection-trickbot-malware-and-conti-ransomware"
-related_operation: "trickbot-operations"
-collection_date: "2026-04-12"
+document_type: indictment
+date_filed: 2023-09-07
+source_url: https://www.justice.gov/archives/opa/pr/multiple-foreign-nationals-charged-connection-trickbot-malware-and-conti-ransomware
+related_operation: trickbot-operations
+collection_date: 2026-04-12
 publisher: "US DOJ (OPA)"
-language: "en"
-sensitivity: "public"
+language: en
+sensitivity: public
+defendant_names:
+  - "Multiple Foreign Nationals"
+updated: 2026-04-18
 ---
-
 ## United States v. Galochkin et al. — TrickBot/Conti Indictments
 
 On 7 September 2023, the Department of Justice unsealed three indictments in three federal districts charging nine Russian nationals with conspiracy related to the TrickBot malware and Conti ransomware operations.

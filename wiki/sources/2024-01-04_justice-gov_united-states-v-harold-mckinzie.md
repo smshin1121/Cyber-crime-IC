@@ -1,6 +1,6 @@
 ---
 type: source
-title: "United States v. Harold McKinzie"
+title: "19 Individuals Worldwide Charged In Transnational Cybercrime Investigation Of The xDedic Marketplace"
 raw_path: raw/press-releases/2024-01-04_justice-gov_united-states-v-harold-mckinzie.md
 source_type: press-release
 publisher: "US DOJ (Middle District of Florida)"
@@ -12,11 +12,15 @@ reliability: high
 credibility: confirmed
 sensitivity: public
 pages_updated:
-  []
+
 key_findings:
-  - "Harold McKinzie (xDedic) Enforcement Action is a defendant-specific enforcement action page derived from [[us-v-mckinzie-xdedic]]. It captures the prosecutorial or seizure stage reflected in the linked case record and preserves the operation-side catalog entry for this follow-on action."
+  - "Secure .gov websites use HTTPS A lock ( Lock Locked padlock ) or https:// means you’ve safely connected to the .gov website. Share sensitive information only on official, secure websites."
 collection_url: https://www.justice.gov/usao-mdfl/pr/19-individuals-worldwide-charged-transnational-cybercrime-investigation-xdedic
 created: 2026-04-17
+updated: 2026-04-18
+defendant_names:
+  - "In Transnational Cybercrime Investigation"
+  - "Individuals Worldwide"
 ---
 ## Source Summary
 

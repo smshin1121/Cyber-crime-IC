@@ -12,11 +12,12 @@ reliability: high
 credibility: confirmed
 sensitivity: public
 pages_updated:
-  []
+
 key_findings:
-  - "**DIICOT** (Direcția de Investigare a Infracțiunilor de Criminalitate Organizată și Terorism) is Romania's specialized prosecutorial directorate responsible for investigating and prosecuting organized crime, terrorism, and cybercrime. It was formed in 2004 under Law 508/2004 and operates under the jurisdiction of the Romanian Public Ministry, attached to the High Court of Cassation and Justice."
+  - "Secure .gov websites use HTTPS A lock ( Lock Locked padlock ) or https:// means you’ve safely connected to the .gov website. Share sensitive information only on official, secure websites."
 collection_url: https://www.justice.gov/archives/opa/pr/organized-romanian-criminal-groups-targeted-doj-and-romanian-law-enforcement
 created: 2026-04-17
+updated: 2026-04-18
 ---
 ## Source Summary
 

@@ -81,6 +81,7 @@ related_cases:
   - "[[us-v-olivia-bolles-silk-road]]"
   - "[[us-v-roger-thomas-clark-silk-road]]"
   - "[[us-v-sheldon-kennedy-silk-road]]"
+  - "[[us-v-ulbricht]]"
 related_operations:
   - "[[darkmarket-takedown]]"
   - "[[operation-us-v-gary-davis-silk-road]]"
@@ -90,6 +91,7 @@ related_operations:
   - "[[operation-us-v-roger-thomas-clark-silk-road]]"
   - "[[operation-us-v-sheldon-kennedy-silk-road]]"
   - "[[operation-us-v-ulbricht-silk-road]]"
+  - "[[operation-us-v-ulbricht]]"
 challenges_encountered:
   - "[[data-sovereignty]]"
 lessons_learned:

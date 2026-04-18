@@ -1,0 +1,30 @@
+---
+type: source
+title: "Illinois Man Sentenced to 2 Years in Federal Prison for Operating Subscription-Based Computer Attack Platforms"
+raw_path: raw/press-releases/2026-04-18_justice-gov_illinois-man-sentenced-2-years-federal-prison-operating-subscription-based-computer.md
+source_type: press-release
+publisher: "US DOJ USAO"
+author: ""
+publish_date: 2022-06-13
+ingest_date: 2026-04-18
+language: en
+reliability: high
+credibility: confirmed
+sensitivity: public
+pages_updated:
+
+key_findings:
+  - "Official websites use .gov A .gov website belongs to an official government organization in the United States."
+collection_url: https://www.justice.gov/usao-cdca/pr/illinois-man-sentenced-2-years-federal-prison-operating-subscription-based-computer
+created: 2026-04-18
+defendant_names:
+  - "Matthew Gatrel"
+updated: 2026-04-18
+---
+## Source Summary
+
+An Illinois man was sentenced today to 24 months in federal prison for running...Press Release Illinois Man Sentenced to 2 Years in Federal Prison for Operating...LOS ANGELES – An Illinois man was sentenced today to 24 months in federal prison
+
+## Relevance to IC
+
+This source was discovered from Bing search results limited to official DOJ domains.

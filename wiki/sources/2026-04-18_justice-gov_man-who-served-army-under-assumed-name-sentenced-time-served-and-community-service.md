@@ -1,0 +1,30 @@
+---
+type: source
+title: "Man who served in Army under an assumed name sentenced to time served and community service for passport fraud"
+raw_path: raw/press-releases/2026-04-18_justice-gov_man-who-served-army-under-assumed-name-sentenced-time-served-and-community-service.md
+source_type: press-release
+publisher: "US DOJ USAO"
+author: ""
+publish_date: 2022-09-06
+ingest_date: 2026-04-18
+language: en
+reliability: high
+credibility: confirmed
+sensitivity: public
+pages_updated:
+
+key_findings:
+  - "Official websites use .gov A .gov website belongs to an official government organization in the United States."
+collection_url: https://www.justice.gov/usao-edmo/pr/man-who-served-army-under-assumed-name-sentenced-time-served-and-community-service
+created: 2026-04-18
+defendant_names:
+  - "Antonio Barner"
+updated: 2026-04-18
+---
+## Source Summary
+
+served in Army under an assumed name sentenced to time served and community service...Judge Sarah E. Pitlyk on Tuesday sentenced a man who has been living under an
+
+## Relevance to IC
+
+This source was discovered from Bing search results limited to official DOJ domains.

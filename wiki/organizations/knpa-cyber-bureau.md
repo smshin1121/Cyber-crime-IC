@@ -1,63 +1,44 @@
 ---
 aliases:
-- KNPA Cyber Bureau
-- 경찰청 사이버안전국
-- 경찰청 사이버수사국
-- 사이버수사심의관
-- KNPA Cyber Investigation Bureau
+
 contact_point_for:
-- network: '[[24-7-network]]'
-  role: Budapest Convention Art. 35 contact point
-- network: '[[interpol-i24-7]]'
-  role: NCB Korea — cybercrime channel
+
 cooperation_partners:
-- '[[interpol-igci]]'
-- '[[fbi-cyber-division]]'
-- '[[europol-ec3]]'
-- '[[uk-nca]]'
-country: '[[south-korea]]'
+
+country: "[[south-korea]]"
 created: 2026-04-08
 dissolved_date: 2023-12
 established: 2014-08
-frameworks_administered: []
-headquarters: Seoul, South Korea
-key_roles:
-- National cybercrime investigation coordination
-- INTERPOL NCB Korea (cyber matters)
-- HAECHI series operational lead
-- I-24/7 network access
-- Digital forensics and technical analysis
-- International cybercrime cooperation coordination
-last_verified: 2026-04-10
-mandate: National coordination of cybercrime investigation for the Korea National
-  Police Agency; operational counterpart for international cybercrime cooperation.
-  Mandate preserved across successive reorganizations (사이버안전국 → 사이버수사국 → 수사국 사이버수사심의관).
-mechanisms_operated: []
-member_states: 0
-notable_cases: []
-official_name: Korea National Police Agency — cybercrime enforcement apparatus (historically
-  and currently)
-official_name_ko: 경찰청 사이버범죄 수사조직
-operations_participated:
-- '[[operation-haechi-iv]]'
-- '[[operation-haechi-v]]'
-- '[[operation-haechi-vi]]'
-- '[[phobos-8base-crackdown]]'
-- '[[operation-cyber-guardian]]'
-- '[[korea-china-voice-phishing-qingdao]]'
-- '[[korea-cambodia-scam-repatriation]]'
-org_type: national-unit
-parent_org: '[[knpa]]'
-predecessor: ''
-source_count: 5
-sources: []
-status: reorganized
-successor: ''
-title: KNPA Cybercrime Enforcement Organization (경찰청 사이버범죄 수사조직)
-type: organization
-updated: 2026-04-10
----
+frameworks_administered:
 
+headquarters: "Seoul, South Korea"
+key_roles:
+
+last_verified: 2026-04-10
+mandate: "National coordination of cybercrime investigation for the Korea National"
+mechanisms_operated:
+
+member_states: 0
+notable_cases:
+
+official_name: "Korea National Police Agency — cybercrime enforcement apparatus (historically"
+official_name_ko: "경찰청 사이버범죄 수사조직"
+operations_participated:
+  - "[[operation-haechi-iv]]"
+  - "[[operation-haechi-vi]]"
+  - "[[korea-cambodia-scam-repatriation]]"
+org_type: national-unit
+parent_org: "[[knpa]]"
+predecessor: ""
+source_count: 5
+sources:
+
+status: reorganized
+successor: ""
+title: "KNPA Cybercrime Enforcement Organization (경찰청 사이버범죄 수사조직)"
+type: organization
+updated: 2026-04-14
+---
 > [!warning] Status — Reorganized (as of 2023-12)
 > The standalone **경찰청 사이버수사국** (KNPA Cyber Investigation Bureau) was dissolved in late 2023 and its functions were absorbed into **경찰청 국가수사본부 수사국**, with a new **사이버수사심의관 (Cyber Investigation Deliberation Officer)** position created inside 수사국 at *deputy-director level* rather than bureau-director level. As of 2026-04-10 the **사이버수사국 no longer exists**; cybercrime investigation is conducted by the 사이버수사심의관 and 사이버수사과 within 수사국. A re-establishment of 사이버안전국 is under active consideration but has not yet been enacted (see [Current Status](#current-status-as-of-2026-04-10) below).
 >

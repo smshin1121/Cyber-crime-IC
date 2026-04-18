@@ -1,6 +1,6 @@
 ---
 type: source
-title: "United States v. Brandon Adams"
+title: "Darknet Vendor Who Sold Millions of Counterfeit Xanax Sentenced"
 raw_path: raw/case-documents/2024-05-01_edmo_brandon-adams-darknet-sentencing.md
 source_type: court-document
 publisher: "US DOJ (Eastern District of Missouri)"
@@ -12,11 +12,14 @@ reliability: high
 credibility: confirmed
 sensitivity: public
 pages_updated:
-  []
+
 key_findings:
-  - "On 1 May 2024, DOJ announced that Brandon Adams was sentenced to 24 months in prison for selling millions of counterfeit Xanax pills on the darknet under the name `BenzoBoys`. DOJ said Adams also forfeited nearly USD 1 million and admitted to selling counterfeit and misbranded pills over multiple years."
+  - "Secure .gov websites use HTTPS A lock ( Lock Locked padlock ) or https:// means you’ve safely connected to the .gov website. Share sensitive information only on official, secure websites."
 collection_url: https://www.justice.gov/usao-edmo/pr/darknet-vendor-who-sold-millions-counterfeit-xanax-sentenced
 created: 2026-04-17
+defendant_names:
+  - "Brandon Adams"
+updated: 2026-04-18
 ---
 ## Source Summary
 

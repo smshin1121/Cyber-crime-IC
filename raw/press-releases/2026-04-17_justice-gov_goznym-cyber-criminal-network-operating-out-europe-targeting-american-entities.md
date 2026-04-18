@@ -1,5 +1,5 @@
 ---
-title: "goznym cyber criminal network operating out europe targeting american entities"
+title: "GOZNYM CYBER-CRIMINAL NETWORK OPERATING OUT OF EUROPE TARGETING AMERICAN ENTITIES DISMANTLED IN INTERNATIONAL OPERATION"
 collection_source: justice.gov
 collection_url: https://www.justice.gov/usao-wdpa/pr/goznym-cyber-criminal-network-operating-out-europe-targeting-american-entities
 collection_domain: www.justice.gov
@@ -7,6 +7,7 @@ collection_date: 2026-04-17
 publish_date: 2026-04-17
 language: en
 status: collected
+updated: 2026-04-18
 ---
 ## Summary
 

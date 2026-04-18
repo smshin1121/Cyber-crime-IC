@@ -1,73 +1,58 @@
 ---
 aliases:
-- Eurojust
-- EU Agency for Criminal Justice Cooperation
-contact_point_for: []
+
+contact_point_for:
+
 cooperation_partners:
-- '[[europol-ec3]]'
-country: ''
+
+country: ""
 created: 2026-04-08
-established: '2002-02-28'
-frameworks_administered: []
-headquarters: The Hague, Netherlands
+established: 2002-02-28
+frameworks_administered:
+
+headquarters: "The Hague, Netherlands"
 key_roles:
-- Judicial coordination for cross-border criminal cases
-- Joint Investigation Team (JIT) facilitation and financial support
-- Mutual legal assistance (MLA) facilitation
-- Conflict of jurisdiction resolution
-- Coordination meetings for multi-country investigations
-- European Arrest Warrant coordination
-last_verified: '2026-04-10'
-mandate: EU judicial cooperation agency facilitating cross-border criminal investigations
-  and prosecutions, including cybercrime. Coordinates mutual legal assistance, Joint
-  Investigation Teams, European Arrest Warrants, and conflict of jurisdiction resolution.
+
+last_verified: 2026-04-10
+mandate: "EU judicial cooperation agency facilitating cross-border criminal investigations"
 mechanisms_operated:
-- '[[european-judicial-cybercrime-network]]'
+
 member_states: 27
 notable_cases:
-- '[[de-fr-online-fraud-group-2026]]'
-official_name: European Union Agency for Criminal Justice Cooperation (Eurojust)
-official_name_ko: 유럽연합 형사사법협력기구 (유로저스트)
+
+official_name: "European Union Agency for Criminal Justice Cooperation (Eurojust)"
+official_name_ko: "유럽연합 형사사법협력기구 (유로저스트)"
 operations_participated:
-- '[[andromeda-botnet-takedown]]'
-- '[[ramnit-botnet-takedown]]'
-- '[[cyber-fraud-international-2015]]'
-- '[[doublevpn-takedown]]'
-- '[[emotet-takedown]]'
-- '[[alphabay-takedown]]'
-- '[[imminent-monitor-rat-takedown]]'
-- '[[operation-avalanche]]'
-- '[[operation-bakovia]]'
-- '[[operation-cronos-phase1]]'
-- '[[operation-cronos-phase3]]'
-- '[[operation-endgame]]'
-- '[[operation-endgame-phase1]]'
-- '[[operation-endgame-phase2]]'
-- '[[operation-secreto]]'
-- '[[phobos-8base-crackdown]]'
-- '[[zeus-spyeye-jit-takedown]]'
-- '[[operation-dark-huntor]]'
-- '[[de-ch-crypto-mixer-takedown-2025]]'
-- '[[proxy-service-takedown-2026-03]]'
+  - "[[alphabay-takedown]]"
+  - "[[cyber-fraud-international-2015]]"
+  - "[[de-ch-crypto-mixer-takedown-2025]]"
+  - "[[doublevpn-takedown]]"
+  - "[[emotet-takedown]]"
+  - "[[imminent-monitor-rat-takedown]]"
+  - "[[operation-bakovia]]"
+  - "[[operation-cronos-phase1]]"
+  - "[[operation-cronos-phase3]]"
+  - "[[operation-dark-huntor]]"
+  - "[[operation-endgame]]"
+  - "[[operation-endgame-phase1]]"
+  - "[[operation-endgame-phase2]]"
+  - "[[operation-secreto]]"
+  - "[[proxy-service-takedown-2026-03]]"
+  - "[[ramnit-botnet-takedown]]"
+  - "[[zeus-spyeye-jit-takedown]]"
+  - "[[operation-de-fr-online-fraud-group-2026]]"
+  - "[[operation-onymous]]"
+  - "[[vpnlab-takedown]]"
 org_type: regional-org
-parent_org: ''
+parent_org: ""
 source_count: 9
 sources:
-- '[[2024-02-20-europol-operation-cronos-lockbit]]'
-- '[[2024-05-30-europol-operation-endgame-botnet-takedown]]'
-- '[[2024-10-01-europol-operation-cronos-lockbit-phase3]]'
-- '[[2025-02-11-europol-phobos-8base-ransomware-arrests]]'
-- '[[2025-05-23-europol-operation-endgame-phase2]]'
-- '[[2025-12-01-eurojust-de-ch-crypto-mixer-takedown]]'
-- '[[2025-12-05-eurojust-ejcn-19th-plenary]]'
-- '[[2026-03-11-eurojust-de-fr-online-fraud-group]]'
-- '[[2026-03-12-eurojust-proxy-service-takedown]]'
+
 status: active
 title: Eurojust
 type: organization
-updated: '2026-04-14'
+updated: 2026-04-14
 ---
-
 ## Current Status (as of 2026-04-10)
 
 **Status:** Active. Eurojust remains headquartered in **The Hague, Netherlands**, co-located with [[europol-ec3|Europol]], operating under **EU Regulation 2018/1727** (the Eurojust Regulation). No structural reorganization since the 2018 Regulation [6].

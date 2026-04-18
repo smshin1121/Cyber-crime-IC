@@ -1,17 +1,19 @@
 ---
-title: "United States v. Odufuye and Nwoke"
+title: "Nigerian Nationals Charged with Operating Business Compromise Scheme"
 court: "U.S. District Court, District of Connecticut"
 case_number: "Seven-count indictment returned 2016-12-20"
-document_type: "indictment"
-date_filed: "2016-12-20"
-source_url: "https://www.justice.gov/usao-ct/pr/nigerian-nationals-charged-operating-business-compromise-scheme"
-related_operation: "operation-wirewire"
-collection_date: "2026-04-17"
+document_type: indictment
+date_filed: 2016-12-20
+source_url: https://www.justice.gov/usao-ct/pr/nigerian-nationals-charged-operating-business-compromise-scheme
+related_operation: operation-wirewire
+collection_date: 2026-04-17
 publisher: "US DOJ (District of Connecticut)"
-language: "en"
-sensitivity: "public"
+language: en
+sensitivity: public
+defendant_names:
+  - "Nigerian Nationals"
+updated: 2026-04-18
 ---
-
 ## United States v. Odufuye and Nwoke
 
 On 22 December 2016, the U.S. Attorney's Office for the District of Connecticut announced charges against Adeyemi Odufuye and another defendant in a business email compromise scheme targeting U.S. businesses. DOJ said a federal grand jury had returned a seven-count indictment on 20 December 2016 charging conspiracy, five wire-fraud counts, and aggravated identity theft.

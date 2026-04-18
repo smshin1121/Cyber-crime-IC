@@ -1,17 +1,20 @@
 ---
-title: "United States v. Adetunji Adejumo and Ibrahim Jinadu"
+title: "U.S.-Based Conspirators Sentenced To Prison For International Tax Scheme"
 court: "U.S. District Court, Middle District of Florida"
 case_number: "M.D. Fla. xDedic-related tax-fraud prosecution"
 document_type: "sentencing announcement"
-date_filed: "2023-11-29"
-source_url: "https://www.justice.gov/usao-mdfl/pr/us-based-conspirators-sentenced-prison-international-tax-scheme"
-related_operation: "xdedic-marketplace-takedown"
-collection_date: "2026-04-17"
+date_filed: 2023-11-29
+source_url: https://www.justice.gov/usao-mdfl/pr/us-based-conspirators-sentenced-prison-international-tax-scheme
+related_operation: xdedic-marketplace-takedown
+collection_date: 2026-04-17
 publisher: "US DOJ (Middle District of Florida)"
-language: "en"
-sensitivity: "public"
+language: en
+sensitivity: public
+defendant_names:
+  - "To Prison For International"
+  - "Based Conspirators"
+updated: 2026-04-18
 ---
-
 ## United States v. Adetunji Adejumo and Ibrahim Jinadu
 
 On 29 November 2023, the U.S. Attorney's Office for the Middle District of Florida announced the sentencing of Adetunji Adejumo and Ibrahim Jinadu for conspiracy to commit wire fraud in an international tax-fraud scheme. DOJ's xDedic roundup later linked this case to access and PII obtained from xDedic-compromised servers.

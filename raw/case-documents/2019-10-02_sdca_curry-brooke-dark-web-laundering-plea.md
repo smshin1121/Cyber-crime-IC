@@ -1,16 +1,18 @@
 ---
-title: "United States v. Aidan Curry and Connor Brooke"
+title: "Dark Web Vendors Plead Guilty to Cryptocurrency Money Laundering Conspiracy"
 court: "U.S. District Court, Southern District of California"
 case_number: "S.D. Cal. dark web laundering plea"
 document_type: "plea announcement"
-date_filed: "2019-10-02"
-source_url: "https://www.justice.gov/usao-sdca/pr/dark-web-vendors-plead-guilty-cryptocurrency-money-laundering-conspiracy"
-collection_date: "2026-04-17"
+date_filed: 2019-10-02
+source_url: https://www.justice.gov/usao-sdca/pr/dark-web-vendors-plead-guilty-cryptocurrency-money-laundering-conspiracy
+collection_date: 2026-04-17
 publisher: "US DOJ (Southern District of California)"
-language: "en"
-sensitivity: "public"
+language: en
+sensitivity: public
+defendant_names:
+  - "Connor Brooke"
+updated: 2026-04-18
 ---
-
 ## United States v. Aidan Curry and Connor Brooke
 
 On 2 October 2019, DOJ announced that Aidan Curry and Connor Brooke pleaded guilty to conspiring to launder dark web proceeds through an unlicensed money transmitting business that sold bitcoin for cash.

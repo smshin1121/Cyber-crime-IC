@@ -1,46 +1,39 @@
 ---
 aliases:
-- GDBOP
-- GDCOC
-- General Directorate Combating Organised Crime — Cybercrime
+  []
 contact_point_for:
-- network: '[[24-7-network]]'
-  role: Budapest Convention Art. 35 contact point (Bulgaria)
+  []
 cooperation_partners:
-- '[[europol-ec3]]'
-- '[[interpol-igci]]'
-country: '[[bulgaria]]'
+  []
+country: "[[bulgaria]]"
 created: 2026-04-10
-established: '2013'
-frameworks_administered: []
-headquarters: Sofia, Bulgaria
+established: 2013
+frameworks_administered:
+  []
+headquarters: "Sofia, Bulgaria"
 key_roles:
-- Cybercrime investigation
-- 24/7 National Contact Point for high-tech crime
-- Combating online child sexual exploitation
-- Cybercrime.bg reporting platform operation
-last_verified: '2026-04-10'
-mandate: Specialized cybercrime directorate within Bulgaria's General Directorate
-  Combating Organized Crime (GDBOP/GDCOC), Ministry of Interior; investigates high-tech
-  crime and hosts the Bulgarian 24/7 National Contact Point.
+  []
+last_verified: 2026-04-10
+mandate: "Specialized cybercrime directorate within Bulgaria's General Directorate"
 mechanisms_operated:
-- '[[cybercrime-bg-platform]]'
-notable_cases: []
-official_name: Главна дирекция 'Борба с организираната престъпност' — Киберпрестъпност
-official_name_ko: 불가리아 조직범죄대응 총국 사이버범죄국
+  []
+notable_cases:
+  []
+official_name: "Главна дирекция 'Борба с организираната престъпност' — Киберпрестъпност"
+official_name_ko: "불가리아 조직범죄대응 총국 사이버범죄국"
 operations_participated:
-- '[[operation-endgame]]'
-- '[[operation-endgame-phase1]]'
+  - "[[operation-endgame]]"
+  - "[[operation-endgame-phase1]]"
 org_type: national-unit
-parent_org: '[[bulgaria-ministry-of-interior]]'
+parent_org: "[[bulgaria-ministry-of-interior]]"
 source_count: 2
-sources: []
+sources:
+  []
 status: active
-title: GDBOP Cybercrime Directorate
+title: "GDBOP Cybercrime Directorate"
 type: organization
-updated: '2026-04-09'
+updated: 2026-04-14
 ---
-
 ## Summary
 
 The **Cybercrime Directorate** of Bulgaria's **General Directorate Combating Organized Crime (GDBOP / GDCOC — Главна дирекция "Борба с организираната престъпност")** is the primary Bulgarian law enforcement unit responsible for investigating high-tech crime. It sits within the Ministry of Interior and hosts Bulgaria's **24/7 National Contact Point for high-tech crimes** under the [[budapest-convention|Budapest Convention]] [1][2].

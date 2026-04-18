@@ -4,12 +4,12 @@ title: "U.S. Department of Homeland Security (DHS)"
 official_name: "United States Department of Homeland Security"
 official_name_ko: "미국 국토안보부"
 aliases:
-  - "DHS"
+  - DHS
   - "US DHS"
   - "Homeland Security"
 org_type: national-agency
 status: active
-established: "2002-11-25"
+established: 2002-11-25
 parent_org: ""
 country: "[[united-states]]"
 headquarters: "Washington, D.C., United States"
@@ -24,13 +24,16 @@ operations_participated:
   - "[[911-s5-botnet-takedown]]"
   - "[[operation-chakra-iii]]"
   - "[[operation-wirewire]]"
+  - "[[operation-onymous]]"
+  - "[[operation-rewired]]"
+  - "[[operation-us-v-farrell-silk-road-2]]"
 source_count: 0
-sources: []
+sources:
+  []
 created: 2026-04-10
 updated: 2026-04-11
 last_verified: 2026-04-11
 ---
-
 ## Summary
 
 The **U.S. Department of Homeland Security (DHS)** is a federal cabinet department established on 25 November 2002. For cybercrime international cooperation, DHS operates primarily through **Homeland Security Investigations (HSI)**, a component of ICE (Immigration and Customs Enforcement), which has significant transnational cybercrime investigation authority.

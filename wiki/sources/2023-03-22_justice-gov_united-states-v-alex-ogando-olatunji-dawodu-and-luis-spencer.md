@@ -1,6 +1,6 @@
 ---
 type: source
-title: "United States v. Alex Ogando, Olatunji Dawodu, and Luis Spencer"
+title: "Three Individuals Sentenced in Darknet Narcotics Trafficking Conspiracy Involving Distribution of Pills Pressed with Fentanyl"
 raw_path: raw/press-releases/2023-03-22_justice-gov_united-states-v-alex-ogando-olatunji-dawodu-and-luis-spencer.md
 source_type: press-release
 publisher: "US DOJ (District of Columbia)"
@@ -12,11 +12,14 @@ reliability: high
 credibility: confirmed
 sensitivity: public
 pages_updated:
-  []
+
 key_findings:
-  - "Ogando, Dawodu, and Spencer (Darknet Narcotics Conspiracy) Enforcement Action is a defendant-specific enforcement action page derived from [[us-v-ogando-dawodu-spencer-dark-web]]. It captures the prosecutorial or seizure stage reflected in the linked case record and preserves the operation-side catalog entry for this follow-on action."
+  - "Secure .gov websites use HTTPS A lock ( Lock Locked padlock ) or https:// means you’ve safely connected to the .gov website. Share sensitive information only on official, secure websites."
 collection_url: https://www.justice.gov/usao-dc/pr/three-individuals-sentenced-darknet-narcotics-trafficking-conspiracy-involving
 created: 2026-04-17
+updated: 2026-04-18
+defendant_names:
+  - "Three Individuals"
 ---
 ## Source Summary
 

@@ -1,68 +1,54 @@
 ---
 aliases:
-- NHTCU
-- Dutch NHTCU
-- Politie Cybercrime
-- Dutch National Police Cyber
-contact_point_for:
-- network: '[[24-7-network]]'
-  role: Budapest Convention Art. 35 contact point (Netherlands)
-- network: '[[europol-siena]]'
-  role: National Unit (co-located proximity)
-cooperation_partners:
-- '[[europol-ec3]]'
-- '[[eurojust]]'
-- '[[fbi-cyber-division]]'
-- '[[germany-bka]]'
-- '[[uk-nca]]'
-country: '[[netherlands]]'
-created: 2026-04-08
-established: '2007'
-frameworks_administered: []
-headquarters: Driebergen-Rijsenburg, Netherlands
-key_roles:
-- Complex cybercrime investigation
-- International takedown infrastructure hosting
-- Innovative investigation techniques (hackbevoegdheid)
-- Europol operational partner (co-located in The Hague)
-- INTERPOL NCB Netherlands (cyber matters)
-- Digital forensics and malware analysis
-last_verified: '2026-04-10'
-mandate: Investigate complex and high-impact cybercrime cases with national and international
-  dimensions; support international takedown operations; develop innovative investigation
-  techniques.
-mechanisms_operated: []
-member_states: 0
-notable_cases: []
-official_name: Politie — Dienst Landelijke Recherche — Team High Tech Crime
-official_name_ko: 네덜란드 국가경찰 — 첨단기술범죄수사팀
-operations_participated:
-- '[[cryptex-pm2btc-sanctions]]'
-- '[[alphabay-takedown]]'
-- '[[doublevpn-takedown]]'
-- '[[emotet-takedown]]'
-- '[[hive-ransomware-takedown]]'
-- '[[operation-avalanche]]'
-- '[[operation-bakovia]]'
-- '[[operation-cronos-phase1]]'
-- '[[operation-cronos-phase3]]'
-- '[[operation-endgame]]'
-- '[[operation-endgame-phase1]]'
-- '[[operation-dark-huntor]]'
-- '[[operation-endgame-phase2]]'
-- '[[operation-nova]]'
-- '[[operation-talent]]'
-- '[[phobos-8base-crackdown]]'
-org_type: national-unit
-parent_org: '[[netherlands-politie-parent]]'
-source_count: 0
-sources: []
-status: active
-title: Dutch National Police — National High Tech Crime Unit (NHTCU)
-type: organization
-updated: '2026-04-09'
----
 
+contact_point_for:
+
+cooperation_partners:
+
+country: "[[netherlands]]"
+created: 2026-04-08
+established: 2007
+frameworks_administered:
+
+headquarters: "Driebergen-Rijsenburg, Netherlands"
+key_roles:
+
+last_verified: 2026-04-10
+mandate: "Investigate complex and high-impact cybercrime cases with national and international"
+mechanisms_operated:
+
+member_states: 0
+notable_cases:
+
+official_name: "Politie — Dienst Landelijke Recherche — Team High Tech Crime"
+official_name_ko: "네덜란드 국가경찰 — 첨단기술범죄수사팀"
+operations_participated:
+  - "[[alphabay-takedown]]"
+  - "[[emotet-takedown]]"
+  - "[[operation-bakovia]]"
+  - "[[operation-cronos-phase1]]"
+  - "[[operation-cronos-phase3]]"
+  - "[[operation-dark-huntor]]"
+  - "[[operation-endgame]]"
+  - "[[operation-endgame-phase1]]"
+  - "[[operation-endgame-phase2]]"
+  - "[[bidencash-takedown]]"
+  - "[[doublevpn-takedown]]"
+  - "[[operation-emotet-disruption-ladybird]]"
+  - "[[operation-heart-blocker]]"
+  - "[[operation-kraken-ghost-platform]]"
+  - "[[operation-power-off]]"
+  - "[[vpnlab-takedown]]"
+org_type: national-unit
+parent_org: "[[netherlands-politie-parent]]"
+source_count: 0
+sources:
+
+status: active
+title: "Dutch National Police — National High Tech Crime Unit (NHTCU)"
+type: organization
+updated: 2026-04-14
+---
 ## Summary
 
 The **National High Tech Crime Unit (NHTCU)** is the specialized cybercrime investigation team within the Dutch National Police (Politie). Part of the **Dienst Landelijke Recherche** (National Detective Service), the NHTCU is *almost certainly* among the top 3 most operationally effective national cybercrime units in Europe, having been instrumental in major international operations including [[operation-endgame-phase1|Operation Endgame]], [[operation-cronos-phase1|Operation Cronos]], [[hive-ransomware-takedown|Hive Ransomware Takedown]], and [[operation-talent|Operation Talent]].

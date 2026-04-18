@@ -1,6 +1,6 @@
 ---
 type: source
-title: "United States v. Allen Levinson"
+title: "Nigerian National Sentenced To More Than Six Years In Federal Prison For International Tax Fraud Scheme"
 raw_path: raw/press-releases/2022-12-05_justice-gov_united-states-v-allen-levinson.md
 source_type: press-release
 publisher: "US DOJ (Middle District of Florida)"
@@ -12,11 +12,15 @@ reliability: high
 credibility: confirmed
 sensitivity: public
 pages_updated:
-  []
+
 key_findings:
-  - "Allen Levinson (xDedic Tax-Fraud Buyer) Enforcement Action is a defendant-specific enforcement action page derived from [[us-v-levinson-xdedic]]. It captures the prosecutorial or seizure stage reflected in the linked case record and preserves the operation-side catalog entry for this follow-on action."
+  - "Secure .gov websites use HTTPS A lock ( Lock Locked padlock ) or https:// means you’ve safely connected to the .gov website. Share sensitive information only on official, secure websites."
 collection_url: https://www.justice.gov/usao-mdfl/pr/nigerian-national-sentenced-more-six-years-federal-prison-international-tax-fraud
 created: 2026-04-17
+updated: 2026-04-18
+defendant_names:
+  - "To More Than Six"
+  - "Nigerian National"
 ---
 ## Source Summary
 

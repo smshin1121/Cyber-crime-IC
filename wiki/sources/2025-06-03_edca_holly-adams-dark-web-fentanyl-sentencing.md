@@ -1,6 +1,6 @@
 ---
 type: source
-title: "United States v. Holly Adams"
+title: "Dark Web Fentanyl Dealer Sentenced to Federal Prison"
 raw_path: raw/case-documents/2025-06-03_edca_holly-adams-dark-web-fentanyl-sentencing.md
 source_type: court-document
 publisher: "US DOJ (Eastern District of California)"
@@ -12,11 +12,14 @@ reliability: high
 credibility: confirmed
 sensitivity: public
 pages_updated:
-  []
+
 key_findings:
-  - "On 3 June 2025, DOJ announced that Holly Adams was sentenced to 12 years in prison for conspiring to distribute fentanyl and launder the resulting proceeds through dark web sales. DOJ said Adams and a coconspirator sold counterfeit oxycodone pills pressed with fentanyl on the dark web and resumed activity even after an earlier state search and arrest."
+  - "Secure .gov websites use HTTPS A lock ( Lock Locked padlock ) or https:// means you’ve safely connected to the .gov website. Share sensitive information only on official, secure websites."
 collection_url: https://www.justice.gov/usao-edca/pr/dark-web-fentanyl-dealer-sentenced-federal-prison
 created: 2026-04-17
+defendant_names:
+  - "Holly Adams"
+updated: 2026-04-18
 ---
 ## Source Summary
 

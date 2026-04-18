@@ -33,6 +33,13 @@ operations_participated:
   - "[[operation-endgame-phase1]]"
   - "[[operation-endgame-phase2]]"
   - "[[operation-us-v-yakubets-dridex]]"
+  - "[[darkmarket-takedown]]"
+  - "[[doublevpn-takedown]]"
+  - "[[dridex-operations]]"
+  - "[[operation-morpheus]]"
+  - "[[operation-power-off]]"
+  - "[[ramnit-botnet-takedown]]"
+  - "[[vpnlab-takedown]]"
 org_type: national-agency
 parent_org: ""
 source_count: 8

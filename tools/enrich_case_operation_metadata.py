@@ -13,7 +13,7 @@ CASES_DIR = WIKI / "cases"
 OPS_DIR = WIKI / "operations"
 SOURCES_DIR = WIKI / "sources"
 RAW_CASE_DOCS_DIR = ROOT / "raw" / "case-documents"
-TODAY = "2026-04-17"
+TODAY = "2026-04-18"
 
 
 def wikilink_slug(value: Any) -> str:
@@ -159,6 +159,8 @@ def create_follow_on_operation(case_path: Path, case_post: Any, sequence: int) -
 
     meta = case_post.metadata
     parent_operation = wikilink_slug(meta.get("related_operation"))
+    if parent_operation == op_slug:
+        parent_operation = ""
     source_slugs = unique([wikilink_slug(s) for s in meta.get("sources", []) if wikilink_slug(s)])
     source_slugs, refs_table = build_refs(source_slugs)
     if not source_slugs:
@@ -317,6 +319,13 @@ def main() -> None:
         op_post = frontmatter.load(op_path)
         meta = op_post.metadata
         op_changed = False
+        op_slug = op_path.stem
+
+        if wikilink_slug(meta.get("parent_operation")) == op_slug:
+            meta["parent_operation"] = ""
+            related_ops = [str(v) for v in (meta.get("related_operations") or []) if wikilink_slug(v) != op_slug]
+            meta["related_operations"] = related_ops
+            op_changed = True
 
         if not meta.get("summary"):
             summary = extract_summary(op_post.content)

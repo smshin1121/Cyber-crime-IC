@@ -1,6 +1,6 @@
 ---
 type: source
-title: "United States v. Abudullah Almashwali"
+title: "Heroin and Cocaine Vendor on AlphaBay Sentenced to 6.5 Years in Prison"
 raw_path: raw/press-releases/2017-07-24_justice-gov_united-states-v-abudullah-almashwali.md
 source_type: press-release
 publisher: "US DOJ (Eastern District of California)"
@@ -12,11 +12,18 @@ reliability: high
 credibility: confirmed
 sensitivity: public
 pages_updated:
-  []
+
 key_findings:
-  - "Abudullah Almashwali (AlphaBay Vendor) Enforcement Action is a defendant-specific enforcement action page derived from [[us-v-almashwali-alphabay]]. It captures the prosecutorial or seizure stage reflected in the linked case record and preserves the operation-side catalog entry for this follow-on action."
+  - "Secure .gov websites use HTTPS A lock ( Lock Locked padlock ) or https:// means you’ve safely connected to the .gov website. Share sensitive information only on official, secure websites."
 collection_url: https://www.justice.gov/usao-edca/pr/heroin-and-cocaine-vendor-alphabay-sentenced-65-years-prison
 created: 2026-04-17
+defendant_names:
+  - "Jose Mendoza"
+  - "Jessy Johnson"
+  - "Alejandro Perez"
+  - "Gilberto Arteaga"
+  - "Delanious Ward"
+updated: 2026-04-18
 ---
 ## Source Summary
 

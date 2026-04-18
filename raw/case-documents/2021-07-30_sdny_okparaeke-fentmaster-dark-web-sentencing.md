@@ -1,16 +1,16 @@
 ---
-title: "United States v. Chukwuemeka Okparaeke"
+title: "Dark Web Narcotics Dealer “Fentmaster,” Responsible For Overdose Death, Sentenced To 15 Years In Prison"
 court: "U.S. District Court, Southern District of New York"
 case_number: "S.D.N.Y. Fentmaster sentencing"
 document_type: "sentencing announcement"
-date_filed: "2021-07-30"
-source_url: "https://www.justice.gov/usao-sdny/pr/dark-web-narcotics-dealer-fentmaster-responsible-overdose-death-sentenced-15-years"
-collection_date: "2026-04-17"
+date_filed: 2021-07-30
+source_url: https://www.justice.gov/usao-sdny/pr/dark-web-narcotics-dealer-fentmaster-responsible-overdose-death-sentenced-15-years
+collection_date: 2026-04-17
 publisher: "US DOJ (Southern District of New York)"
-language: "en"
-sensitivity: "public"
+language: en
+sensitivity: public
+updated: 2026-04-18
 ---
-
 ## United States v. Chukwuemeka Okparaeke
 
 On 30 July 2021, DOJ announced that Chukwuemeka Okparaeke, known as `Fentmaster`, was sentenced to 15 years in prison for importing and trafficking fentanyl analogues and synthetic opioids through a darknet marketplace.

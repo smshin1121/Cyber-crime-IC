@@ -1,49 +1,45 @@
 ---
 aliases:
-- AFP
-- AFP Cyber Command
-- JPC3
-contact_point_for: []
-cooperation_partners:
-- '[[fbi-cyber-division]]'
-- '[[uk-nca]]'
-- '[[europol-ec3]]'
-- '[[interpol-igci]]'
-country: '[[australia]]'
-created: 2026-04-10
-established: '1979'
-frameworks_administered: []
-headquarters: Canberra, Australia
-key_roles:
-- Cyber Command (established January 2022) leads AFP cybercrime response
-- Joint Policing Cybercrime Coordination Centre (JPC3) based in Sydney
-- Brings together all Australian policing jurisdictions for coordinated response
-- International cybercrime cooperation (Five Eyes partner)
-- Successor to Australian High Tech Crime Centre (AHTCC, 2003-2008)
-last_verified: '2026-04-10'
-mandate: Lead Australian federal law enforcement response to cybercrime through Cyber
-  Command and the Joint Policing Cybercrime Coordination Centre (JPC3), disrupting
-  high-harm, high-volume cybercrime affecting Australians.
-mechanisms_operated: []
-notable_cases: []
-official_name: Australian Federal Police
-official_name_ko: 호주연방경찰
-operations_participated:
-- '[[imminent-monitor-rat-takedown]]'
-- '[[operation-endgame]]'
-- '[[operation-cronos-phase1]]'
-- '[[operation-cronos-phase3]]'
-- '[[operation-trojan-shield]]'
-org_type: national-agency
-parent_org: ''
-source_count: 6
-sources: []
-status: active
-title: Australian Federal Police — Cyber Command
-type: organization
-updated: '2026-04-09'
----
 
+contact_point_for:
+
+cooperation_partners:
+
+country: "[[australia]]"
+created: 2026-04-10
+established: 1979
+frameworks_administered:
+
+headquarters: "Canberra, Australia"
+key_roles:
+
+last_verified: 2026-04-10
+mandate: "Lead Australian federal law enforcement response to cybercrime through Cyber"
+mechanisms_operated:
+
+notable_cases:
+
+official_name: "Australian Federal Police"
+official_name_ko: "호주연방경찰"
+operations_participated:
+  - "[[imminent-monitor-rat-takedown]]"
+  - "[[operation-cronos-phase1]]"
+  - "[[operation-cronos-phase3]]"
+  - "[[operation-endgame]]"
+  - "[[operation-trojan-shield]]"
+  - "[[darkmarket-takedown]]"
+  - "[[operation-kraken-ghost-platform]]"
+  - "[[operation-power-off]]"
+org_type: national-agency
+parent_org: ""
+source_count: 6
+sources:
+
+status: active
+title: "Australian Federal Police — Cyber Command"
+type: organization
+updated: 2026-04-14
+---
 ## Summary
 
 The Australian Federal Police (AFP) is the primary federal law enforcement agency of [[australia|Australia]] and operates the country's lead cybercrime investigation capability. The AFP established a dedicated **Cyber Command** in January 2022, funded with AUD 89.9 million through Australia's Cyber Security Strategy 2020. Cyber Command leads the AFP's response to cybercrime and operates the Joint Policing Cybercrime Coordination Centre (JPC3), a purpose-built facility in Sydney that brings together all Australian state and territory police jurisdictions.

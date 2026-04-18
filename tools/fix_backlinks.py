@@ -3,11 +3,13 @@ Fix missing bidirectional backlinks on organization pages.
 Scans all operations for participating_agencies and ensures
 each org page lists the operation in operations_participated.
 """
+from datetime import date
 from pathlib import Path
 
 import frontmatter
 
 WIKI_DIR = Path(__file__).resolve().parent.parent / "wiki"
+TODAY = date.today().isoformat()
 
 
 def fix_backlinks() -> int:
@@ -65,7 +67,7 @@ def fix_backlinks() -> int:
             post.metadata["operations_participated"] = [
                 f"[[{s}]]" for s in new_list
             ]
-            post.metadata["updated"] = "2026-04-09"
+            post.metadata["updated"] = TODAY
             fp.write_text(frontmatter.dumps(post), encoding="utf-8")
             fixed += len(missing)
             print(f"  {org_slug}: +{len(missing)} backlinks"

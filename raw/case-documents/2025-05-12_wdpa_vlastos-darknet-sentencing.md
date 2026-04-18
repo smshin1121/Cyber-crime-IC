@@ -1,16 +1,18 @@
 ---
-title: "United States v. George Sotiris Vlastos"
+title: "Pittsburgh Resident and Darknet Drug Trafficker Sentenced to Nearly Six Years in Prison on Federal Drug Trafficking and Firearms Convictions"
 court: "U.S. District Court, Western District of Pennsylvania"
 case_number: "W.D. Pa. darknet drug trafficking sentencing"
 document_type: "sentencing announcement"
-date_filed: "2025-05-12"
-source_url: "https://www.justice.gov/usao-wdpa/pr/pittsburgh-resident-and-darknet-drug-trafficker-sentenced-nearly-six-years-prison"
-collection_date: "2026-04-17"
+date_filed: 2025-05-12
+source_url: https://www.justice.gov/usao-wdpa/pr/pittsburgh-resident-and-darknet-drug-trafficker-sentenced-nearly-six-years-prison
+collection_date: 2026-04-17
 publisher: "US DOJ (Western District of Pennsylvania)"
-language: "en"
-sensitivity: "public"
+language: en
+sensitivity: public
+defendant_names:
+  - "George Sotiris Vlastos"
+updated: 2026-04-18
 ---
-
 ## United States v. George Sotiris Vlastos
 
 On 12 May 2025, DOJ announced that George Sotiris Vlastos was sentenced to 70 months in prison for distributing LSD, MDMA, ketamine, and cocaine acquired from an international MDMA/Ecstasy darknet vendor, along with firearms offenses.

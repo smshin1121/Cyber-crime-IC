@@ -1,43 +1,39 @@
 ---
 aliases:
-- UNC3T
-- PJ Cybercrime Unit
-- Polícia Judiciária UNC3T
-contact_point_for: []
+  []
+contact_point_for:
+  []
 cooperation_partners:
-- '[[europol-ec3]]'
-- '[[interpol-igci]]'
-country: '[[portugal]]'
+  []
+country: "[[portugal]]"
 created: 2026-04-10
-established: '2016'
-frameworks_administered: []
-headquarters: Lisbon, Portugal
+established: 2016
+frameworks_administered:
+  []
+headquarters: "Lisbon, Portugal"
 key_roles:
-- National cybercrime investigation
-- Digital forensics
-- Europol EC3 national hub for Portugal
-- 24/7 point of contact under Budapest Convention
-last_verified: '2026-04-10'
-mandate: Portugal's national specialized unit for preventive and repressive response
-  to cybercrime and technology-related crime; operates within the Polícia Judiciária
-  (PJ) and is modeled on Europol's EC3.
-mechanisms_operated: []
-notable_cases: []
-official_name: Unidade Nacional de Combate ao Cibercrime e à Criminalidade Tecnológica
-official_name_ko: ''
+  []
+last_verified: 2026-04-10
+mandate: "Portugal's national specialized unit for preventive and repressive response"
+mechanisms_operated:
+  []
+notable_cases:
+  []
+official_name: "Unidade Nacional de Combate ao Cibercrime e à Criminalidade Tecnológica"
+official_name_ko: ""
 operations_participated:
-- '[[operation-endgame]]'
-- '[[operation-endgame-phase1]]'
+  - "[[operation-endgame]]"
+  - "[[operation-endgame-phase1]]"
 org_type: national-unit
-parent_org: '[[portugal-policia-judiciaria]]'
+parent_org: "[[portugal-policia-judiciaria]]"
 source_count: 0
-sources: []
+sources:
+  []
 status: active
-title: National Unit for Combating Cybercrime and Technological Crime (UNC3T)
+title: "National Unit for Combating Cybercrime and Technological Crime (UNC3T)"
 type: organization
-updated: '2026-04-09'
+updated: 2026-04-14
 ---
-
 ## Summary
 
 The **Unidade Nacional de Combate ao Cibercrime e à Criminalidade Tecnológica (UNC3T)** is the specialized cybercrime unit of Portugal's **Polícia Judiciária (PJ)**. It was created by Decree-Law No. 81/2016 (28 November 2016), entering into operation in late 2016, replacing the earlier Unidade Nacional da Investigação da Criminalidade Informática (established August 2015). Its structure is *almost certainly* inspired by Europol's [[europol-ec3|EC3]] model, consolidating cybercrime-related competencies previously dispersed across multiple PJ units.

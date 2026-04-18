@@ -1,17 +1,17 @@
 ---
-title: "United States v. ANOM Distributors"
+title: "FBI’s Encrypted Phone Platform Infiltrated Hundreds of Criminal Syndicates; Result is Massive Worldwide Takedown"
 court: "U.S. District Court, Southern District of California"
-case_number: "21-cr-01623"
-document_type: "indictment"
-date_filed: "2021-06-08"
-source_url: "https://www.justice.gov/usao-sdca/pr/fbi-s-encrypted-phone-platform-infiltrated-hundreds-criminal-syndicates-result-massive"
-related_operation: "operation-trojan-shield"
-collection_date: "2026-04-17"
+case_number: 21-cr-01623
+document_type: indictment
+date_filed: 2021-06-08
+source_url: https://www.justice.gov/usao-sdca/pr/fbi-s-encrypted-phone-platform-infiltrated-hundreds-criminal-syndicates-result-massive
+related_operation: operation-trojan-shield
+collection_date: 2026-04-17
 publisher: "US DOJ (Southern District of California)"
-language: "en"
-sensitivity: "public"
+language: en
+sensitivity: public
+updated: 2026-04-18
 ---
-
 ## United States v. ANOM Distributors
 
 On 8 June 2021, the U.S. Attorney's Office for the Southern District of California announced the unsealing of a federal indictment charging 17 foreign nationals with distributing ANOM encrypted devices and services to criminal syndicates worldwide. DOJ described the indictment as the charging core of Operation Trojan Shield, the FBI-led operation in which the Bureau secretly operated the ANOM platform while collecting more than 27 million messages.

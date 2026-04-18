@@ -1,17 +1,17 @@
 ---
-title: "United States v. Stepanov et al. (DanaBot — Operation Endgame Phase 2)"
+title: "Leader of Qakbot Malware Conspiracy Indicted for Involvement in Global Ransomware Scheme"
 court: "U.S. federal court (district not yet confirmed from public sources)"
 case_number: "Pending confirmation"
-document_type: "indictment"
-date_filed: "2025-05-23"
-source_url: "https://www.justice.gov/opa/pr/leader-qakbot-malware-conspiracy-indicted-involvement-global-ransomware-scheme"
-related_operation: "operation-endgame-phase2"
-collection_date: "2026-04-12"
+document_type: indictment
+date_filed: 2025-05-23
+source_url: https://www.justice.gov/opa/pr/leader-qakbot-malware-conspiracy-indicted-involvement-global-ransomware-scheme
+related_operation: operation-endgame-phase2
+collection_date: 2026-04-12
 publisher: "US DOJ"
-language: "en"
-sensitivity: "public"
+language: en
+sensitivity: public
+updated: 2026-04-18
 ---
-
 ## United States v. Stepanov et al. — DanaBot Indictment (Operation Endgame Phase 2)
 
 As part of Operation Endgame Phase 2 (announced 23 May 2025), the US Department of Justice unsealed a 16-count indictment charging 16 Russian nationals for operating the DanaBot malware network.

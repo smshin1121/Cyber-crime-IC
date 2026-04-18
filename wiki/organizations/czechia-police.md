@@ -1,42 +1,38 @@
 ---
 aliases:
-- NCTEKK
-- NCOZ (predecessor for cybercrime)
-- Czech National Cybercrime Unit
+  []
 contact_point_for:
-- network: '[[24-7-network]]'
-  role: Budapest Convention Art. 35 contact point (Czech Republic) — likely
+  []
 cooperation_partners:
-- '[[europol-ec3]]'
-- '[[interpol-igci]]'
-country: '[[czech-republic]]'
+  []
+country: "[[czech-republic]]"
 created: 2026-04-10
-established: '2023-01-01'
-frameworks_administered: []
-headquarters: Prague, Czech Republic
+established: 2023-01-01
+frameworks_administered:
+  []
+headquarters: "Prague, Czech Republic"
 key_roles:
-- National cybercrime investigation
-- Terrorism and extremism investigation
-- International cybercrime cooperation
-last_verified: '2026-04-10'
-mandate: National unit of the Police of the Czech Republic responsible for combating
-  terrorism, extremism, and cybercrime; successor to the cybercrime section of NCOZ.
-mechanisms_operated: []
-notable_cases: []
-official_name: Národní centrála proti terorismu, extremismu a kybernetické kriminalitě
-official_name_ko: 체코 국립 테러·극단주의·사이버범죄 대응센터
+  []
+last_verified: 2026-04-10
+mandate: "National unit of the Police of the Czech Republic responsible for combating"
+mechanisms_operated:
+  []
+notable_cases:
+  []
+official_name: "Národní centrála proti terorismu, extremismu a kybernetické kriminalitě"
+official_name_ko: "체코 국립 테러·극단주의·사이버범죄 대응센터"
 operations_participated:
-- '[[phobos-8base-crackdown]]'
+  - "[[vpnlab-takedown]]"
 org_type: national-unit
-parent_org: '[[czech-police]]'
+parent_org: "[[czech-police]]"
 source_count: 2
-sources: []
+sources:
+  []
 status: active
-title: National Centre Against Terrorism, Extremism and Cybercrime (NCTEKK)
+title: "National Centre Against Terrorism, Extremism and Cybercrime (NCTEKK)"
 type: organization
-updated: '2026-04-09'
+updated: 2026-04-09
 ---
-
 ## Summary
 
 The **National Centre Against Terrorism, Extremism and Cybercrime (NCTEKK — Národní centrála proti terorismu, extremismu a kybernetické kriminalitě)** is a national-competence unit of the **Police of the Czech Republic** that consolidates Czech law enforcement's response to terrorism, extremism, and cybercrime. It was created on **January 1, 2023**, by extracting the terrorism, extremism, and cybercrime sections from the broader **National Centre Against Organized Crime (NCOZ — Národní centrála proti organizovanému zločinu)** [1][2].

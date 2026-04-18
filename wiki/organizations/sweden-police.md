@@ -1,42 +1,33 @@
 ---
 aliases:
-- NC3
-- SC3
-- Swedish Cybercrime Centre
-- Nationellt IT-brottscentrum
-- Polisen SC3
-contact_point_for: []
-country: '[[sweden]]'
-created: 2026-04-10
-established: '2015-10-01'
-headquarters: Stockholm, Sweden
-key_roles:
-- National expert function for complex cybercrime investigations
-- Coordination with 7 regional IT-crime centres
-- Cooperation with Europol EC3 and international partners
-- Investigations of ransomware, DDoS and criminal infrastructure cases
-last_verified: '2026-04-10'
-mandate: National-level specialist function of the Swedish Police Authority for investigating
-  complex cybercrimes, internet-related crimes against children, and other internet-central
-  crimes. Coordinates Sweden's response to ransomware, DDoS and infrastructure-abuse
-  cases.
-notable_cases: []
-official_name: Nationellt IT-brottscentrum
-operations_participated:
-- '[[operation-cronos-phase1]]'
-- '[[operation-cronos-phase3]]'
-- '[[phobos-8base-crackdown]]'
-org_type: national-unit
-parent_org: Polismyndigheten / Nationella operativa avdelningen (NOA) — Swedish Police
-  Authority, National Operations Department
-source_count: 3
-sources: []
-status: active
-title: Swedish Cybercrime Centre (SC3 / NC3) — Swedish Police Authority
-type: organization
-updated: '2026-04-09'
----
 
+contact_point_for:
+
+country: "[[sweden]]"
+created: 2026-04-10
+established: 2015-10-01
+headquarters: "Stockholm, Sweden"
+key_roles:
+
+last_verified: 2026-04-10
+mandate: "National-level specialist function of the Swedish Police Authority for investigating"
+notable_cases:
+
+official_name: "Nationellt IT-brottscentrum"
+operations_participated:
+  - "[[operation-cronos-phase1]]"
+  - "[[operation-cronos-phase3]]"
+  - "[[operation-kraken-ghost-platform]]"
+org_type: national-unit
+parent_org: "Polismyndigheten / Nationella operativa avdelningen (NOA) — Swedish Police"
+source_count: 3
+sources:
+
+status: active
+title: "Swedish Cybercrime Centre (SC3 / NC3) — Swedish Police Authority"
+type: organization
+updated: 2026-04-14
+---
 ## Summary
 
 The **Nationellt IT-brottscentrum** — **National IT Crime Centre**, also branded **SC3 (Swedish Cybercrime Centre)** and more recently **NC3** — began operations on **1 October 2015** as the Swedish Police Authority's expert function for investigating complex cybercrimes [1][2]. It is part of the **Nationella operativa avdelningen (NOA)** — the National Operations Department of Polismyndigheten, based in Stockholm [3].

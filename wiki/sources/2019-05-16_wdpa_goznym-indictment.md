@@ -1,6 +1,6 @@
 ---
 type: source
-title: "United States v. Konovolov et al. (GozNym Network)"
+title: "GozNym Cyber-Criminal Network Operating out of Europe Targeting American Entities Dismantled in International Operation"
 raw_path: raw/case-documents/2019-05-16_wdpa_goznym-indictment.md
 source_type: court-document
 publisher: "US DOJ (W.D. Pa.)"
@@ -14,9 +14,10 @@ sensitivity: public
 pages_updated:
   - goznym-takedown
 key_findings:
-  - "On 16 May 2019, the US Attorney's Office for the Western District of Pennsylvania unsealed an indictment charging 10 members of the GozNym criminal network with conspiracy to commit computer fraud, conspiracy to commit wire fraud and bank fraud, and conspiracy to commit money laundering. The GozNym network exemplified \"cybercrime as a service,\" assembling specialists recruited from underground criminal forums. The network used GozNym malware to infect over 41,000 victim computers and steal online banking credentials, attempting to steal approximately USD 100 million from victims primarily in the United States. ### Key Defendants"
+  - "Secure .gov websites use HTTPS A lock ( Lock Locked padlock ) or https:// means you’ve safely connected to the .gov website. Share sensitive information only on official, secure websites."
 collection_url: https://www.justice.gov/archives/opa/pr/goznym-cyber-criminal-network-operating-out-europe-targeting-american-entities-dismantled
 created: 2026-04-17
+updated: 2026-04-18
 ---
 ## Source Summary
 

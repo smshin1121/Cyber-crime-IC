@@ -1,46 +1,38 @@
 ---
 aliases:
-- DCIS
-- DoD IG DCIS
-contact_point_for: []
+  []
+contact_point_for:
+  []
 cooperation_partners:
-- '[[fbi-cyber-division]]'
-- '[[us-ncis]]'
-- '[[us-afosi]]'
-country: '[[united-states]]'
+  []
+country: "[[united-states]]"
 created: 2026-04-10
-established: '1981-04-20'
-frameworks_administered: []
-headquarters: Alexandria, Virginia, United States
+established: 1981-04-20
+frameworks_administered:
+  []
+headquarters: "Alexandria, Virginia, United States"
 key_roles:
-- Criminal investigative arm of the DoD Office of Inspector General
-- Investigate cybercrime against DoD networks and contractors
-- DCIS Cyber Field Office — cyber criminal investigations and forensic support
-- Protect the Defense Industrial Base (DIB) from criminal cyber threats
-- Procurement fraud, illegal technology transfer, and public corruption investigations
-- Cooperation with FBI, NCIS, AFOSI, and CID on joint DoD cybercrime cases
-last_verified: '2026-04-10'
-mandate: Investigate criminal activities involving US Department of Defense Components
-  and DoD contractors, including cybercrime against DoD networks, the Defense Industrial
-  Base, and the DoD Global Information Grid. Operate the DCIS Cyber Field Office for
-  cyber criminal investigations and digital forensic support.
-mechanisms_operated: []
-notable_cases: []
-official_name: Defense Criminal Investigative Service, Office of the Inspector General,
-  US Department of Defense
+  []
+last_verified: 2026-04-10
+mandate: "Investigate criminal activities involving US Department of Defense Components"
+mechanisms_operated:
+  []
+notable_cases:
+  []
+official_name: "Defense Criminal Investigative Service, Office of the Inspector General,"
 operations_participated:
-- '[[operation-endgame]]'
-- '[[operation-endgame-phase2]]'
+  - "[[operation-endgame]]"
+  - "[[operation-endgame-phase2]]"
 org_type: national-unit
-parent_org: '[[dod-inspector-general]]'
+parent_org: "[[dod-inspector-general]]"
 source_count: 4
-sources: []
+sources:
+  []
 status: active
-title: US Defense Criminal Investigative Service
+title: "US Defense Criminal Investigative Service"
 type: organization
-updated: '2026-04-09'
+updated: 2026-04-14
 ---
-
 ## Summary
 
 The Defense Criminal Investigative Service (DCIS) is the criminal investigative arm of the [[dod-inspector-general|Department of Defense Office of Inspector General]], established on **20 April 1981**. DCIS is a worldwide civilian federal law enforcement agency that investigates suspected criminal activities involving DoD Components and DoD contractors.

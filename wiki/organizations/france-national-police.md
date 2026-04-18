@@ -1,42 +1,34 @@
 ---
 aliases:
-- OFAC
-- Police Nationale Cybercrime Office
-- SDLC (predecessor)
-- OCLCTIC (predecessor)
-contact_point_for: []
-country: '[[france]]'
-created: 2026-04-10
-established: '2023-11-23'
-headquarters: Nanterre, France
-key_roles:
-- National coordination of Police Nationale cybercrime investigations
-- Central contact point for cyberattack victim reporting and complex cases
-- Digital forensics and darknet investigation
-- International cooperation on cybercrime (Europol EC3, Interpol)
-last_verified: '2026-04-10'
-mandate: National-competence French police cybercrime office coordinating complex
-  investigations into cyber-attacks, darknet crime and online fraud. Serves as central
-  hub for the Police Nationale's cybercrime investigative capability, complementary
-  to the Gendarmerie's C3N.
-notable_cases: []
-official_name: Office anti-cybercriminalité
-operations_participated:
-- '[[operation-endgame]]'
-- '[[operation-endgame-phase1]]'
-- '[[operation-endgame-phase2]]'
-- '[[phobos-8base-crackdown]]'
-org_type: national-unit
-parent_org: Direction Nationale de la Police Judiciaire (Police Nationale, Ministry
-  of Interior)
-source_count: 3
-sources: []
-status: active
-title: Office anti-cybercriminalité (OFAC) — French National Police
-type: organization
-updated: '2026-04-09'
----
 
+contact_point_for:
+
+country: "[[france]]"
+created: 2026-04-10
+established: 2023-11-23
+headquarters: "Nanterre, France"
+key_roles:
+
+last_verified: 2026-04-10
+mandate: "National-competence French police cybercrime office coordinating complex"
+notable_cases:
+
+official_name: "Office anti-cybercriminalité"
+operations_participated:
+  - "[[operation-endgame]]"
+  - "[[operation-endgame-phase1]]"
+  - "[[operation-endgame-phase2]]"
+  - "[[vpnlab-takedown]]"
+org_type: national-unit
+parent_org: "Direction Nationale de la Police Judiciaire (Police Nationale, Ministry"
+source_count: 3
+sources:
+
+status: active
+title: "Office anti-cybercriminalité (OFAC) — French National Police"
+type: organization
+updated: 2026-04-14
+---
 ## Summary
 
 The **Office anti-cybercriminalité (OFAC)** is the French **Police Nationale**'s national cybercrime office, created by decree on **23 November 2023** and attached to the Direction Nationale de la Police Judiciaire [1][2]. OFAC replaced the former **Sous-Direction de Lutte Contre la Cybercriminalité (SDLC)** and the **Office Central de Lutte Contre la Criminalité liée aux Technologies de l'Information et de la Communication (OCLCTIC)** [2][3].

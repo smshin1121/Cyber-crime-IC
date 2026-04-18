@@ -1,17 +1,17 @@
 ---
-title: "United States v. Gudmunds et al. (Darkode Forum)"
+title: "Major Computer Hacking Forum Dismantled"
 court: "U.S. District Court, Western District of Pennsylvania"
-case_number: "2:15-cr-00184"
-document_type: "indictment"
-date_filed: "2015-07-15"
-source_url: "https://www.justice.gov/opa/pr/major-computer-hacking-forum-dismantled"
-related_operation: "darkode-takedown"
-collection_date: "2026-04-12"
+case_number: 2:15-cr-00184
+document_type: indictment
+date_filed: 2015-07-15
+source_url: https://www.justice.gov/opa/pr/major-computer-hacking-forum-dismantled
+related_operation: darkode-takedown
+collection_date: 2026-04-12
 publisher: "US DOJ (W.D. Pa. / OPA)"
-language: "en"
-sensitivity: "public"
+language: en
+sensitivity: public
+updated: 2026-04-18
 ---
-
 ## United States v. Gudmunds et al. — Darkode Forum Dismantlement
 
 On 15 July 2015, the Department of Justice announced the dismantlement of the computer hacking forum known as Darkode. Criminal charges were filed in the Western District of Pennsylvania and elsewhere against 12 individuals associated with the forum. The action was part of a coordinated effort by a coalition of law enforcement authorities from 20 nations.

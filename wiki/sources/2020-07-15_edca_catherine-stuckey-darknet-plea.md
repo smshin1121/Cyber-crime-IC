@@ -1,6 +1,6 @@
 ---
 type: source
-title: "United States v. Catherine Stuckey"
+title: "Los Angeles County Woman Pleads Guilty to Conspiring to Distribute Heroin, Methamphetamine, and Cocaine on the Darknet"
 raw_path: raw/case-documents/2020-07-15_edca_catherine-stuckey-darknet-plea.md
 source_type: court-document
 publisher: "US DOJ (Eastern District of California)"
@@ -12,11 +12,14 @@ reliability: high
 credibility: confirmed
 sensitivity: public
 pages_updated:
-  []
+
 key_findings:
-  - "On 15 July 2020, DOJ announced that Catherine Stuckey pleaded guilty to conspiring to distribute heroin, methamphetamine, and cocaine through darknet vendor accounts on Dream Marketplace, Silk Road 3.0, and Nightmare Marketplace."
+  - "Secure .gov websites use HTTPS A lock ( Lock Locked padlock ) or https:// means you’ve safely connected to the .gov website. Share sensitive information only on official, secure websites."
 collection_url: https://www.justice.gov/usao-edca/pr/los-angeles-county-woman-pleads-guilty-conspiring-distribute-heroin-methamphetamine-and
 created: 2026-04-17
+defendant_names:
+  - "Catherine Stuckey"
+updated: 2026-04-18
 ---
 ## Source Summary
 

@@ -111,6 +111,7 @@ related_operations:
   - "[[zeus-spyeye-takedown|Zeus/SpyEye Takedown]]"
   - "[[operation-avalanche|Operation Avalanche]]"
   - "[[operation-us-v-ghinkul-dridex]]"
+  - "[[operation-us-v-yakubets-dridex]]"
 challenges_encountered:
   - "[[data-sovereignty]]"
 lessons_learned:

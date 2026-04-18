@@ -1,6 +1,6 @@
 ---
 type: source
-title: "United States — Emotet Botnet Disruption (Operation LadyBird)"
+title: "Emotet Botnet Disrupted in International Cyber Operation"
 raw_path: raw/press-releases/2021-01-27_justice-gov_united-states-emotet-botnet-disruption-operation-ladybird.md
 source_type: press-release
 publisher: "US DOJ (OPA / M.D.N.C.)"
@@ -12,11 +12,12 @@ reliability: high
 credibility: confirmed
 sensitivity: public
 pages_updated:
-  []
+
 key_findings:
-  - "Emotet Botnet Disruption — Operation LadyBird Enforcement Action is a defendant-specific enforcement action page derived from [[emotet-disruption-ladybird]]. It captures the prosecutorial or seizure stage reflected in the linked case record and preserves the operation-side catalog entry for this follow-on action."
+  - "Secure .gov websites use HTTPS A lock ( Lock Locked padlock ) or https:// means you’ve safely connected to the .gov website. Share sensitive information only on official, secure websites."
 collection_url: https://www.justice.gov/archives/opa/pr/emotet-botnet-disrupted-international-cyber-operation
 created: 2026-04-17
+updated: 2026-04-18
 ---
 ## Source Summary
 

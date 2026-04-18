@@ -1,40 +1,34 @@
 ---
 aliases:
-- Cyber Police UA
-- Cyberpolice of Ukraine
-- Department of Cyber Police
-- Ukraine National Police Cyber Department
-contact_point_for: []
-country: '[[ukraine]]'
-created: 2026-04-10
-established: '2015-10-11'
-headquarters: Kyiv, Ukraine
-key_roles:
-- Nationwide cybercrime investigation
-- Operational and investigative activities against cyber offences
-- Cyber defense support during armed conflict (since 2022)
-- International cooperation with Europol, Interpol, and FBI
-last_verified: '2026-04-10'
-mandate: Interregional territorial body of the Ukrainian National Police responsible
-  for implementing state policy on combating cybercrime, conducting operational and
-  investigative activities against offences involving computers, computer systems,
-  networks and telecommunications networks.
-notable_cases: []
-official_name: Департамент кіберполіції Національної поліції України
-operations_participated:
-- '[[operation-endgame]]'
-- '[[operation-endgame-phase1]]'
-org_type: national-unit
-parent_org: Національна поліція України (National Police of Ukraine) — Ministry of
-  Internal Affairs of Ukraine
-source_count: 3
-sources: []
-status: active
-title: Cyber Police of Ukraine — Department of Cyber Police
-type: organization
-updated: '2026-04-09'
----
 
+contact_point_for:
+
+country: "[[ukraine]]"
+created: 2026-04-10
+established: 2015-10-11
+headquarters: "Kyiv, Ukraine"
+key_roles:
+
+last_verified: 2026-04-10
+mandate: "Interregional territorial body of the Ukrainian National Police responsible"
+notable_cases:
+
+official_name: "Департамент кіберполіції Національної поліції України"
+operations_participated:
+  - "[[operation-endgame]]"
+  - "[[operation-endgame-phase1]]"
+  - "[[darkmarket-takedown]]"
+  - "[[vpnlab-takedown]]"
+org_type: national-unit
+parent_org: "Національна поліція України (National Police of Ukraine) — Ministry of"
+source_count: 3
+sources:
+
+status: active
+title: "Cyber Police of Ukraine — Department of Cyber Police"
+type: organization
+updated: 2026-04-14
+---
 ## Summary
 
 The **Cyber Police Department of the National Police of Ukraine** (Департамент кіберполіції Національної поліції України) was established during the 2015 Ukrainian internal affairs reform. It was formally created under Ministry of Internal Affairs **Order No. 85 of 10 November 2015** as an interregional territorial body of the Ukraine National Police and part of its criminal police [1][2].

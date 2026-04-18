@@ -1,0 +1,30 @@
+---
+type: source
+title: "Estonian National Extradited From Estonia To Face Charges Of Illegal Procurement Of U.S. Electronics"
+raw_path: raw/press-releases/2026-04-18_justice-gov_estonian-national-extradited-estonia-face-charges-illegal-procurement-us-electronics.md
+source_type: press-release
+publisher: "US DOJ USAO"
+author: ""
+publish_date: 2019-03-21
+ingest_date: 2026-04-18
+language: en
+reliability: high
+credibility: confirmed
+sensitivity: public
+pages_updated:
+
+key_findings:
+  - "Secure .gov websites use HTTPS A lock ( Lock Locked padlock ) or https:// means you’ve safely connected to the .gov website. Share sensitive information only on official, secure websites."
+collection_url: https://www.justice.gov/usao-ndca/pr/estonian-national-extradited-estonia-face-charges-illegal-procurement-us-electronics
+created: 2026-04-18
+updated: 2026-04-18
+defendant_names:
+  - "Of Illegal Procurement Of"
+---
+## Source Summary
+
+grand jury handed down a 52-count indictment charging Valery Kosmachov with engineering...face the charges. According to the indictment filed September 21, 2017, and unsealed
+
+## Relevance to IC
+
+This source was discovered from Bing search results limited to official DOJ domains.

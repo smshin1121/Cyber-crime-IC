@@ -1,6 +1,6 @@
 ---
 type: source
-title: "United States v. Ulbricht — Sentencing"
+title: "Ross Ulbricht, A/K/A “Dread Pirate Roberts,” Sentenced In Manhattan Federal Court To Life In Prison"
 raw_path: raw/press-releases/2015-05-29_justice-gov_united-states-v-ulbricht-sentencing.md
 source_type: press-release
 publisher: "US DOJ (SDNY)"
@@ -12,11 +12,14 @@ reliability: high
 credibility: confirmed
 sensitivity: public
 pages_updated:
-  []
+
 key_findings:
-  - "Galochkin et al. (TrickBot/Conti) Enforcement Action is a defendant-specific enforcement action page derived from [[us-v-galochkin-trickbot-conti]]. It captures the prosecutorial or seizure stage reflected in the linked case record and preserves the operation-side catalog entry for this follow-on action."
+  - "Secure .gov websites use HTTPS A lock ( Lock Locked padlock ) or https:// means you’ve safely connected to the .gov website. Share sensitive information only on official, secure websites."
 collection_url: https://www.justice.gov/usao-sdny/pr/ross-ulbricht-aka-dread-pirate-roberts-sentenced-manhattan-federal-court-life-prison
 created: 2026-04-17
+defendant_names:
+  - "In Manhattan Federal Court"
+updated: 2026-04-18
 ---
 ## Source Summary
 

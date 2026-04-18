@@ -1,43 +1,38 @@
 ---
 aliases:
-- DIICOT
-- Romanian Organized Crime Directorate
-contact_point_for: []
+  []
+contact_point_for:
+  []
 cooperation_partners:
-- '[[eurojust]]'
-- '[[europol-ec3]]'
-- '[[fbi-cyber-division]]'
-country: '[[romania]]'
+  []
+country: "[[romania]]"
 created: 2026-04-10
-established: '2004'
-frameworks_administered: []
-headquarters: Bucharest, Romania
+established: 2004
+frameworks_administered:
+  []
+headquarters: "Bucharest, Romania"
 key_roles:
-- Cybercrime prosecution
-- Organized crime investigation
-- International cooperation on serious crime
-- 24/7 contact point under Budapest Convention (primary)
-last_verified: '2026-04-10'
-mandate: Romanian specialized prosecutor's office investigating and prosecuting organized
-  crime, terrorism, drug trafficking, cybercrime, and serious financial crime; attached
-  to the High Court of Cassation and Justice.
-mechanisms_operated: []
-notable_cases: []
-official_name: Direcția de Investigare a Infracțiunilor de Criminalitate Organizată
-  și Terorism
-official_name_ko: ''
+  []
+last_verified: 2026-04-10
+mandate: "Romanian specialized prosecutor's office investigating and prosecuting organized"
+mechanisms_operated:
+  []
+notable_cases:
+  []
+official_name: "Direcția de Investigare a Infracțiunilor de Criminalitate Organizată"
+official_name_ko: ""
 operations_participated:
-- '[[operation-bakovia]]'
+  - "[[operation-bakovia]]"
 org_type: prosecution-office
-parent_org: '[[romania-public-ministry]]'
+parent_org: "[[romania-public-ministry]]"
 source_count: 0
-sources: []
+sources:
+  []
 status: active
-title: Directorate for Investigating Organized Crime and Terrorism (DIICOT)
+title: "Directorate for Investigating Organized Crime and Terrorism (DIICOT)"
 type: organization
-updated: '2026-04-09'
+updated: 2026-04-14
 ---
-
 ## Summary
 
 **DIICOT** (Direcția de Investigare a Infracțiunilor de Criminalitate Organizată și Terorism) is Romania's specialized prosecutorial directorate responsible for investigating and prosecuting organized crime, terrorism, and cybercrime. It was formed in 2004 under Law 508/2004 and operates under the jurisdiction of the Romanian Public Ministry, attached to the High Court of Cassation and Justice.

@@ -1,67 +1,52 @@
 ---
 aliases:
-- IGCI
-- INTERPOL Singapore
-contact_point_for: []
+
+contact_point_for:
+
 cooperation_partners:
-- '[[europol-ec3]]'
-- '[[afripol]]'
-country: ''
+
+country: ""
 created: 2026-04-08
-established: '2015'
-frameworks_administered: []
+established: 2015
+frameworks_administered:
+
 headquarters: Singapore
 key_roles:
-- Cybercrime investigations coordination
-- Digital forensics laboratory
-- INTERPOL Cyber Fusion Centre
-- I-24/7 secure communications network
-- Capacity building for member countries
-- Innovation and emerging threat research
-last_verified: '2026-04-10'
-mandate: INTERPOL's innovation and cyber hub, providing cutting-edge research, digital
-  forensics support, and operational coordination for cybercrime investigations across
-  196 member countries.
+
+last_verified: 2026-04-10
+mandate: "INTERPOL's innovation and cyber hub, providing cutting-edge research, digital"
 mechanisms_operated:
-- '[[interpol-i247]]'
+
 member_states: 196
-notable_cases: []
-official_name: INTERPOL Global Complex for Innovation
-official_name_ko: 인터폴 글로벌혁신단지
+notable_cases:
+
+official_name: "INTERPOL Global Complex for Innovation"
+official_name_ko: "인터폴 글로벌혁신단지"
 operations_participated:
-- '[[operation-contender-2]]'
-- '[[operation-first-light-2024]]'
-- '[[operation-haechi-iv]]'
-- '[[operation-haechi-v]]'
-- '[[operation-haechi-vi]]'
-- '[[operation-jackal]]'
-- '[[operation-jackal-iii]]'
-- '[[operation-orion-international]]'
-- '[[operation-red-card]]'
-- '[[operation-secure-interpol]]'
-- '[[operation-sentinel-africa]]'
-- '[[operation-serengeti]]'
-- '[[operation-synergia-ii]]'
+  - "[[operation-first-light-2024]]"
+  - "[[operation-haechi-iv]]"
+  - "[[operation-haechi-vi]]"
+  - "[[operation-jackal]]"
+  - "[[operation-jackal-iii]]"
+  - "[[operation-sentinel-africa]]"
+  - "[[operation-serengeti]]"
+  - "[[operation-contender-2]]"
+  - "[[operation-haechi-iii]]"
+  - "[[operation-haechi-v]]"
+  - "[[operation-orion-international]]"
+  - "[[operation-red-card]]"
+  - "[[operation-secure-interpol]]"
+  - "[[operation-synergia-ii]]"
 org_type: international-org
-parent_org: '[[interpol]]'
+parent_org: "[[interpol]]"
 source_count: 11
 sources:
-- '[[2024-12-02-interpol-operation-haechi-v]]'
-- '[[2024-11-06-interpol-operation-synergia-ii]]'
-- '[[2024-11-26-interpol-operation-serengeti]]'
-- '[[2023-06-06-interpol-operation-jackal]]'
-- '[[2024-08-28-interpol-operation-jackal-iii]]'
-- '[[2024-06-18-interpol-operation-first-light-2024]]'
-- '[[2023-12-19-interpol-operation-haechi-iv]]'
-- '[[2025-09-25-interpol-operation-haechi-vi]]'
-- '[[2025-12-22-interpol-operation-sentinel-africa]]'
-- '[[2024-10-15-interpol-operation-orion-international]]'
-status: active
-title: INTERPOL Global Complex for Innovation (IGCI)
-type: organization
-updated: '2026-04-10'
----
 
+status: active
+title: "INTERPOL Global Complex for Innovation (IGCI)"
+type: organization
+updated: 2026-04-14
+---
 > [!info] Updated 2026-04-08
 > Added 6 new operations: Jackal, Jackal III, First Light 2024, HAECHI IV, HAECHI VI, Sentinel Africa.
 

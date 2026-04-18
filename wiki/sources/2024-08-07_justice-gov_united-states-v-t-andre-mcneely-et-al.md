@@ -1,6 +1,6 @@
 ---
 type: source
-title: "United States v. T'Andre McNeely et al."
+title: "xDedic Marketplace"
 raw_path: raw/press-releases/2024-08-07_justice-gov_united-states-v-t-andre-mcneely-et-al.md
 source_type: press-release
 publisher: "US DOJ (Middle District of Florida)"
@@ -12,11 +12,12 @@ reliability: high
 credibility: confirmed
 sensitivity: public
 pages_updated:
-  []
+
 key_findings:
-  - "McNeely et al. (xDedic Buyers) Enforcement Action is a defendant-specific enforcement action page derived from [[us-v-mcneely-xdedic]]. It captures the prosecutorial or seizure stage reflected in the linked case record and preserves the operation-side catalog entry for this follow-on action."
+  - "Secure .gov websites use HTTPS A lock ( Lock Locked padlock ) or https:// means you’ve safely connected to the .gov website. Share sensitive information only on official, secure websites."
 collection_url: https://www.justice.gov/usao-mdfl/victim-witness-services/xDedic
 created: 2026-04-17
+updated: 2026-04-18
 ---
 ## Source Summary
 

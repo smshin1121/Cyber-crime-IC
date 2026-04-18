@@ -1,0 +1,30 @@
+---
+type: source
+title: "Theodore Man Sentenced to Prison for Fraud Schemes and Aggravated Identity Theft"
+raw_path: raw/press-releases/2026-04-18_justice-gov_theodore-man-sentenced-prison-fraud-schemes-and-aggravated-identity-theft.md
+source_type: press-release
+publisher: "US DOJ USAO"
+author: ""
+publish_date: 2024-12-09
+ingest_date: 2026-04-18
+language: en
+reliability: high
+credibility: confirmed
+sensitivity: public
+pages_updated:
+
+key_findings:
+  - "Secure .gov websites use HTTPS A lock ( Lock Locked padlock ) or https:// means you’ve safely connected to the .gov website. Share sensitive information only on official, secure websites."
+collection_url: https://www.justice.gov/usao-sdal/pr/theodore-man-sentenced-prison-fraud-schemes-and-aggravated-identity-theft
+created: 2026-04-18
+defendant_names:
+  - "Sean Donnell White"
+updated: 2026-04-18
+---
+## Source Summary
+
+MOBILE, AL – A Theodore man was sentenced to 32 months in prison for a bank...Press Release Theodore Man Sentenced to Prison for Fraud Schemes and Aggravated...Alabama MOBILE, AL – A Theodore man was sentenced to 32 months in prison for a bank
+
+## Relevance to IC
+
+This source was discovered from Bing search results limited to official DOJ domains.

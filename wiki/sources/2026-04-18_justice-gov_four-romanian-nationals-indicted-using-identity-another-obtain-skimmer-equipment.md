@@ -1,0 +1,28 @@
+---
+type: source
+title: "Four Romanian Nationals Indicted for Using the Identity of Another to Obtain \"Skimmer\" Equipment"
+raw_path: raw/press-releases/2026-04-18_justice-gov_four-romanian-nationals-indicted-using-identity-another-obtain-skimmer-equipment.md
+source_type: press-release
+publisher: "US DOJ USAO"
+author: ""
+publish_date: 2019-03-08
+ingest_date: 2026-04-18
+language: en
+reliability: high
+credibility: confirmed
+sensitivity: public
+pages_updated:
+
+key_findings:
+  - "Secure .gov websites use HTTPS A lock ( Lock Locked padlock ) or https:// means you’ve safely connected to the .gov website. Share sensitive information only on official, secure websites."
+collection_url: https://www.justice.gov/usao-edmo/pr/four-romanian-nationals-indicted-using-identity-another-obtain-skimmer-equipment
+created: 2026-04-18
+updated: 2026-04-18
+---
+## Source Summary
+
+Press Release Four Romanian Nationals Indicted for Using the Identity of Another...nationals from Glendale, Arizona, were indicted for conspiring to commit bank fraud
+
+## Relevance to IC
+
+This source was discovered from Bing search results limited to official DOJ domains.

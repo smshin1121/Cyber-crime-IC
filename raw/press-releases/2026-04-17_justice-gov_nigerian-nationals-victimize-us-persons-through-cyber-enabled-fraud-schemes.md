@@ -1,5 +1,5 @@
 ---
-title: "nigerian nationals victimize us persons through cyber enabled fraud schemes"
+title: "Nigerian Nationals Victimize U.S. Persons Through Cyber-Enabled Fraud Schemes"
 collection_source: justice.gov
 collection_url: https://www.justice.gov/usao-az/pr/nigerian-nationals-victimize-us-persons-through-cyber-enabled-fraud-schemes
 collection_domain: www.justice.gov
@@ -7,6 +7,7 @@ collection_date: 2026-04-17
 publish_date: 2026-04-17
 language: en
 status: collected
+updated: 2026-04-18
 ---
 ## Summary
 

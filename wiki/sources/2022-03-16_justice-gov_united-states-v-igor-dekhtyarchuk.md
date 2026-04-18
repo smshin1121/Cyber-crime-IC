@@ -1,6 +1,6 @@
 ---
 type: source
-title: "United States v. Igor Dekhtyarchuk"
+title: "Russian National Indicted in East Texas for Cyber Hacking Enterprise"
 raw_path: raw/press-releases/2022-03-16_justice-gov_united-states-v-igor-dekhtyarchuk.md
 source_type: press-release
 publisher: "US DOJ (Eastern District of Texas)"
@@ -12,11 +12,12 @@ reliability: high
 credibility: confirmed
 sensitivity: public
 pages_updated:
-  []
+
 key_findings:
-  - "Igor Dekhtyarchuk (Marketplace A) Enforcement Action is a defendant-specific enforcement action page derived from [[us-v-dekhtyarchuk-marketplace-a]]. It captures the prosecutorial or seizure stage reflected in the linked case record and preserves the operation-side catalog entry for this follow-on action."
+  - "Secure .gov websites use HTTPS A lock ( Lock Locked padlock ) or https:// means you’ve safely connected to the .gov website. Share sensitive information only on official, secure websites."
 collection_url: https://www.justice.gov/usao-edtx/pr/russian-national-indicted-east-texas-cyber-hacking-enterprise
 created: 2026-04-17
+updated: 2026-04-18
 ---
 ## Source Summary
 

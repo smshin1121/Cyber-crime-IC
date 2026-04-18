@@ -1,48 +1,43 @@
 ---
 aliases:
-- C3N
-- Gendarmerie Cybercrime Center
-- PJGN/C3N
-contact_point_for: []
-cooperation_partners:
-- '[[europol-ec3]]'
-- '[[interpol-igci]]'
-- '[[france-national-police]]'
-country: '[[france]]'
-created: 2026-04-10
-established: '2015'
-frameworks_administered: []
-headquarters: Pontoise, France
-key_roles:
-- National coordination of Gendarmerie cybercrime investigations
-- Digital forensics and technical analysis
-- Cybergend network coordination (5,300+ specialized investigators)
-- International cybercrime cooperation
-last_verified: '2026-04-10'
-mandate: National-competence judicial police unit of the Gendarmerie Nationale responsible
-  for coordinating all digital investigations and cybercrime operations within France's
-  Judicial Pole of the National Gendarmerie (PJGN).
-mechanisms_operated: []
-notable_cases: []
-official_name: Centre de lutte contre les criminalités numériques
-official_name_ko: 프랑스 국립헌병대 사이버범죄센터 (C3N)
-operations_participated:
-- '[[franco-israeli-ceo-fraud]]'
-- '[[operation-endgame]]'
-- '[[operation-cronos-phase1]]'
-- '[[operation-cronos-phase3]]'
-- '[[operation-endgame-phase2]]'
-- '[[retadup-botnet-takedown]]'
-org_type: national-unit
-parent_org: '[[france-gendarmerie-nationale]]'
-source_count: 1
-sources: []
-status: active
-title: Centre de lutte contre les criminalités numériques (C3N)
-type: organization
-updated: '2026-04-09'
----
 
+contact_point_for:
+
+cooperation_partners:
+
+country: "[[france]]"
+created: 2026-04-10
+established: 2015
+frameworks_administered:
+
+headquarters: "Pontoise, France"
+key_roles:
+
+last_verified: 2026-04-10
+mandate: "National-competence judicial police unit of the Gendarmerie Nationale responsible"
+mechanisms_operated:
+
+notable_cases:
+
+official_name: "Centre de lutte contre les criminalités numériques"
+official_name_ko: "프랑스 국립헌병대 사이버범죄센터 (C3N)"
+operations_participated:
+  - "[[franco-israeli-ceo-fraud]]"
+  - "[[operation-cronos-phase1]]"
+  - "[[operation-cronos-phase3]]"
+  - "[[operation-endgame]]"
+  - "[[operation-endgame-phase2]]"
+  - "[[operation-kraken-ghost-platform]]"
+org_type: national-unit
+parent_org: "[[france-gendarmerie-nationale]]"
+source_count: 1
+sources:
+
+status: active
+title: "Centre de lutte contre les criminalités numériques (C3N)"
+type: organization
+updated: 2026-04-14
+---
 ## Summary
 
 The **Centre de lutte contre les criminalités numériques (C3N)** is France's **Gendarmerie Nationale** cybercrime center, a judicial police unit with national competence attached to the **Judicial Pole of the National Gendarmerie (Pôle Judiciaire de la Gendarmerie Nationale — PJGN)**, located in Pontoise [1].

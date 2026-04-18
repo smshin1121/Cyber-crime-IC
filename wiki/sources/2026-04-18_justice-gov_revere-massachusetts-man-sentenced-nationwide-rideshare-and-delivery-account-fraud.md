@@ -1,0 +1,30 @@
+---
+type: source
+title: "Revere, Massachusetts Man Sentenced in Nationwide Rideshare and Delivery Account Fraud Scheme"
+raw_path: raw/press-releases/2026-04-18_justice-gov_revere-massachusetts-man-sentenced-nationwide-rideshare-and-delivery-account-fraud.md
+source_type: press-release
+publisher: "US DOJ USAO"
+author: ""
+publish_date: 2023-12-19
+ingest_date: 2026-04-18
+language: en
+reliability: high
+credibility: confirmed
+sensitivity: public
+pages_updated:
+
+key_findings:
+  - "Official websites use .gov A .gov website belongs to an official government organization in the United States."
+collection_url: https://www.justice.gov/usao-ri/pr/revere-massachusetts-man-sentenced-nationwide-rideshare-and-delivery-account-fraud
+created: 2026-04-18
+defendant_names:
+  - "Thiago De Souza Prado"
+updated: 2026-04-18
+---
+## Source Summary
+
+PROVIDENCE, RI – A Revere, MA, man was sentenced yesterday for defrauding rideshare...Release Revere, Massachusetts Man Sentenced in Nationwide Rideshare and Delivery...PROVIDENCE, RI – A Revere, MA, man was sentenced yesterday for defrauding rideshare
+
+## Relevance to IC
+
+This source was discovered from Bing search results limited to official DOJ domains.

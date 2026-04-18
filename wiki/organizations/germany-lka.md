@@ -1,42 +1,34 @@
 ---
 aliases:
-- LKA
-- German State Criminal Police Office
-- Landeskriminalämter
-contact_point_for: []
-country: '[[germany]]'
-created: 2026-04-10
-established: varies by Land
-headquarters: One in each of 16 German Länder (e.g. Munich, Stuttgart, Düsseldorf,
-  Wiesbaden, Hamburg, Berlin)
-key_roles:
-- State-level (Länder) criminal investigation coordination
-- State cybercrime investigation divisions
-- Central Cybercrime Contact Point (ZAC) for businesses
-- Digital forensics and traces departments
-- Operational support to BKA on federal/international cases
-last_verified: '2026-04-10'
-mandate: Collective reference to Germany's 16 state criminal police offices. Each
-  LKA is the central criminal investigation authority of its federal state and operates
-  a specialized cybercrime department (often including digital forensics and state-level
-  ZAC central contact points for the economy). LKAs handle the majority of Germany's
-  day-to-day cybercrime casework and feed operationally into BKA-led international
-  operations.
-notable_cases: []
-official_name: Landeskriminalamt (Landeskriminalämter)
-operations_participated:
-- '[[operation-endgame]]'
-- '[[operation-cronos-phase3]]'
-org_type: national-agency
-parent_org: Interior Ministry of each of Germany's 16 federal states (Länder)
-source_count: 3
-sources: []
-status: active
-title: Landeskriminalamt (LKA) — German State Criminal Police Offices (Collective)
-type: organization
-updated: '2026-04-09'
----
 
+contact_point_for:
+
+country: "[[germany]]"
+created: 2026-04-10
+established: "varies by Land"
+headquarters: "One in each of 16 German Länder (e.g. Munich, Stuttgart, Düsseldorf,"
+key_roles:
+
+last_verified: 2026-04-10
+mandate: "Collective reference to Germany's 16 state criminal police offices. Each"
+notable_cases:
+
+official_name: "Landeskriminalamt (Landeskriminalämter)"
+operations_participated:
+  - "[[operation-cronos-phase3]]"
+  - "[[operation-endgame]]"
+  - "[[cyberbunker-takedown]]"
+  - "[[vpnlab-takedown]]"
+org_type: national-agency
+parent_org: "Interior Ministry of each of Germany's 16 federal states (Länder)"
+source_count: 3
+sources:
+
+status: active
+title: "Landeskriminalamt (LKA) — German State Criminal Police Offices (Collective)"
+type: organization
+updated: 2026-04-14
+---
 > [!info] Collective reference
 > This page is a **collective reference** for Germany's 16 state-level **Landeskriminalämter (LKAs)**, not a single agency. Each LKA is an independent authority subordinate to its Land's interior ministry. For specific LKAs (e.g. LKA Bayern, LKA Baden-Württemberg), dedicated pages should be created when needed.
 

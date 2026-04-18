@@ -1,6 +1,6 @@
 ---
 type: source
-title: "United States v. Anton Peck"
+title: "Dark Web Drug Dealer Sentenced to 16 Years in Prison"
 raw_path: raw/press-releases/2022-12-01_justice-gov_united-states-v-anton-peck.md
 source_type: press-release
 publisher: "US DOJ (Southern District of Florida)"
@@ -12,11 +12,14 @@ reliability: high
 credibility: confirmed
 sensitivity: public
 pages_updated:
-  []
+
 key_findings:
-  - "Anton Peck (Dark Web Dealer) Enforcement Action is a defendant-specific enforcement action page derived from [[us-v-peck-dark-web]]. It captures the prosecutorial or seizure stage reflected in the linked case record and preserves the operation-side catalog entry for this follow-on action."
+  - "Secure .gov websites use HTTPS A lock ( Lock Locked padlock ) or https:// means you’ve safely connected to the .gov website. Share sensitive information only on official, secure websites."
 collection_url: https://www.justice.gov/usao-sdfl/pr/dark-web-drug-dealer-sentenced-16-years-prison
 created: 2026-04-17
+defendant_names:
+  - "Anton Peck"
+updated: 2026-04-18
 ---
 ## Source Summary
 

@@ -1,38 +1,32 @@
 ---
 aliases:
-- LKPB
-- LCPB
-- Lithuanian Criminal Police Bureau
-contact_point_for: []
-country: '[[lithuania]]'
+  []
+contact_point_for:
+  []
+country: "[[lithuania]]"
 created: 2026-04-10
 established: unknown
-headquarters: Saltoniškių g. 19, Vilnius 08105, Lithuania
+headquarters: "Saltoniškių g. 19, Vilnius 08105, Lithuania"
 key_roles:
-- Central national criminal police with nationwide competence
-- Cybercrime investigations
-- Cooperation with NKSC and Europol EC3
-- Cyber investigation laboratory development (EU-funded, Norway Grants)
-last_verified: '2026-04-10'
-mandate: Central criminal police authority of Lithuania with nationwide (non-territorial)
-  competence, including a specialized cybercrime investigation capability cooperating
-  with the National Cyber Security Centre (NKSC) and European partners.
-notable_cases: []
-official_name: Lietuvos kriminalinės policijos biuras
+  []
+last_verified: 2026-04-10
+mandate: "Central criminal police authority of Lithuania with nationwide (non-territorial)"
+notable_cases:
+  []
+official_name: "Lietuvos kriminalinės policijos biuras"
 operations_participated:
-- '[[operation-endgame]]'
-- '[[operation-endgame-phase1]]'
+  - "[[operation-endgame]]"
+  - "[[operation-endgame-phase1]]"
 org_type: national-unit
-parent_org: Policijos departamentas prie LR VRM (Police Department under the Ministry
-  of the Interior of Lithuania)
+parent_org: "Policijos departamentas prie LR VRM (Police Department under the Ministry"
 source_count: 3
-sources: []
+sources:
+  []
 status: active
-title: Lithuanian Criminal Police Bureau — Cybercrime Unit
+title: "Lithuanian Criminal Police Bureau — Cybercrime Unit"
 type: organization
-updated: '2026-04-09'
+updated: 2026-04-14
 ---
-
 ## Summary
 
 The **Lithuanian Criminal Police Bureau (Lietuvos kriminalinės policijos biuras — LKPB)** is the central criminal police authority of Lithuania, operating throughout the country on a non-territorial basis under the Police Department of the Ministry of the Interior [1][2]. It includes cybercrime investigative capability and is Lithuania's principal criminal police interface for international cybercrime cooperation.

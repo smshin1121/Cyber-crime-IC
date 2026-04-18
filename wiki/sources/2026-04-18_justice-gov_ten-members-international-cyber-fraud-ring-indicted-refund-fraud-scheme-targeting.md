@@ -1,0 +1,28 @@
+---
+type: source
+title: "Ten Members of International Cyber Fraud Ring Indicted for “Refund Fraud” Scheme Targeting Online Retailers"
+raw_path: raw/press-releases/2026-04-18_justice-gov_ten-members-international-cyber-fraud-ring-indicted-refund-fraud-scheme-targeting.md
+source_type: press-release
+publisher: "US DOJ USAO"
+author: ""
+publish_date: 2023-11-09
+ingest_date: 2026-04-18
+language: en
+reliability: high
+credibility: confirmed
+sensitivity: public
+pages_updated:
+
+key_findings:
+  - "Secure .gov websites use HTTPS A lock ( Lock Locked padlock ) or https:// means you’ve safely connected to the .gov website. Share sensitive information only on official, secure websites."
+collection_url: https://www.justice.gov/usao-ndok/pr/ten-members-international-cyber-fraud-ring-indicted-refund-fraud-scheme-targeting
+created: 2026-04-18
+updated: 2026-04-18
+---
+## Source Summary
+
+determine any sentence or fines after considering the U.S. Sentencing Guidelines...Sporting Goods, HP, Adidas, Google’s CyberCrime Investigation Group, and eBay’s Criminal
+
+## Relevance to IC
+
+This source was discovered from Bing search results limited to official DOJ domains.

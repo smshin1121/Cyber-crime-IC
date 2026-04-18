@@ -12,11 +12,14 @@ reliability: high
 credibility: confirmed
 sensitivity: public
 pages_updated:
-  []
+
 key_findings:
   - "UK, French, and Thai law enforcement, coordinated by Europol and the Joint Cybercrime Action Taskforce (J-CAT), dismantled the Rex Mundi hacking group that had engaged in large-scale customer data breaches and cyber extortion targeting British companies. The operation resulted in the arrest of 8 suspects, including a key member arrested in Thailand. The investigation ran from May 2017 to May 2018."
 collection_url: https://www.europol.europa.eu/media-press/newsroom/news/french-coder-who-helped-extort-british-company-arrested-in-thailand
 created: 2026-04-17
+defendant_names:
+  - "Helped Extort British Company"
+updated: 2026-04-18
 ---
 ## Source Summary
 

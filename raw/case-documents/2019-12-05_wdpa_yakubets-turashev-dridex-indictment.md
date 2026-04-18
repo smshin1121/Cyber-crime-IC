@@ -1,17 +1,19 @@
 ---
-title: "United States v. Yakubets and Turashev (Dridex/Evil Corp)"
+title: "Russian National Charged with Decade-Long Series of Hacking and Bank Fraud Offenses Resulting in Tens of Millions in Losses and Second Russian National Charged with Involvement in Deployment of “Bugat” Malware"
 court: "U.S. District Court, Western District of Pennsylvania"
 case_number: "W.D. Pa. (10-count indictment)"
-document_type: "indictment"
-date_filed: "2019-12-05"
-source_url: "https://www.justice.gov/archives/opa/pr/russian-national-charged-decade-long-series-hacking-and-bank-fraud-offenses-resulting-tens"
-related_operation: "dridex-operations"
-collection_date: "2026-04-12"
+document_type: indictment
+date_filed: 2019-12-05
+source_url: https://www.justice.gov/archives/opa/pr/russian-national-charged-decade-long-series-hacking-and-bank-fraud-offenses-resulting-tens
+related_operation: dridex-operations
+collection_date: 2026-04-12
 publisher: "US DOJ (OPA / W.D. Pa.)"
-language: "en"
-sensitivity: "public"
+language: en
+sensitivity: public
+defendant_names:
+  - "Igor Turashev"
+updated: 2026-04-18
 ---
-
 ## United States v. Yakubets and Turashev — Dridex/Evil Corp Indictment
 
 On 5 December 2019, the United States and United Kingdom jointly announced criminal charges against Maksim V. Yakubets (aka "aqua"), 32, of Moscow, Russia, related to two separate international computer hacking and bank fraud schemes spanning from May 2009 to the present.

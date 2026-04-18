@@ -1,6 +1,6 @@
 # Wiki Index
 
-*Last updated: 2026-04-14 | Total pages: 1467 | Total sources: 926*
+*Last updated: 2026-04-14 | Total pages: 4463 | Total sources: 1677*
 
 ## Legal Frameworks (7)
 - [[budapest-convention]] — First binding international treaty on cybercrime; 70+ parties; core IC provisions (Art. 29, 31, 32, 35)
@@ -22,7 +22,7 @@
 - [[afripol]] — African Police Cooperation Organization; co-led Operation Serengeti and Sentinel
 - [[seoul-metropolitan-police]] — Seoul Metropolitan Police Agency; led Korea-China Qingdao voice phishing operation
 
-## Countries (84)
+## Countries (85)
 - [[australia]] — Common law; Budapest party (2013); Five Eyes; AFP; IGCI partnership; Operation Ironside
 - [[austria]] — Civil law; EU member; participated in 2026 IP proxy service takedown
 - [[china]] — Civil law; NOT Budapest party; sovereignty-focused; voice phishing cooperation with Korea; UN Cybercrime Convention advocate
@@ -34,8 +34,8 @@
 - [[united-kingdom]] — Common law; Budapest party (2011); NCA (NCCU); led Operation Cronos; Five Eyes; post-Brexit Europol cooperation
 - [[united-states]] — Common law; Budapest party (2006); FBI/DOJ/Secret Service; CLOUD Act; 30+ MLATs; highest IC network centrality
 
-## Operations (208)
-See the operations index (`wiki/operations/_index.md`) for the full list of 208 operations (2014-2026).
+## Operations (1330)
+See the operations index (`wiki/operations/_index.md`) for the full list of 1330 operations (2014-2026).
 
 Recent highlights:
 - [[proxy-service-takedown-2026-03]] — Eurojust + Europol (2026); FR/AT/NL/US (+4 unnamed); 102 victim countries
@@ -47,7 +47,7 @@ Recent highlights:
 - [[operation-sentinel-africa]] — INTERPOL Africa BEC/ransomware (2025); 574 arrests
 (... and 77 more)
 
-## Cases (100)
+## Cases (1222)
 - [[de-fr-online-fraud-group-2026]] — Bilateral DE-FR online fraud prosecution via Eurojust (2026)
 
 
@@ -82,8 +82,8 @@ Recent highlights:
 - [[specialty-principle]] — Extradited person tried only for offense extradition was granted; prevents prosecution scope creep
 - [[nationality-principle]] — State jurisdiction over crimes by nationals abroad; Korean 형법 Art. 3; Cambodia scam centres
 
-## Sources (926)
-See the sources index (`wiki/sources/_index.md`) for the full list of 926 dedicated source pages.
+## Sources (1677)
+See the sources index (`wiki/sources/_index.md`) for the full list of 1677 dedicated source pages.
 
 Distribution: Europol 6, INTERPOL 10, US DOJ 3, Korea NPA 1, News 3. Additional operations sourced from Excel batch import (no dedicated source pages).
 

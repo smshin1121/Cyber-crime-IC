@@ -1,6 +1,6 @@
 ---
 type: source
-title: "United States v. Sheldon Kennedy"
+title: "Silk Road Vendor Sentenced to Two Years In Prison"
 raw_path: raw/case-documents/2015-11-03_md_sheldon-kennedy-silk-road-sentencing.md
 source_type: court-document
 publisher: "US DOJ (District of Maryland)"
@@ -12,11 +12,14 @@ reliability: high
 credibility: confirmed
 sensitivity: public
 pages_updated:
-  []
+
 key_findings:
-  - "On 3 November 2015, DOJ announced that Sheldon Kennedy was sentenced to 2 years in prison for selling drugs, guns, and counterfeit currency through Silk Road."
+  - "Secure .gov websites use HTTPS A lock ( Lock Locked padlock ) or https:// means you’ve safely connected to the .gov website. Share sensitive information only on official, secure websites."
 collection_url: https://www.justice.gov/usao-md/pr/silk-road-vendor-sentenced-two-years-prison
 created: 2026-04-17
+defendant_names:
+  - "Silk Road Vendor"
+updated: 2026-04-18
 ---
 ## Source Summary
 

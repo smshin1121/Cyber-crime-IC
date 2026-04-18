@@ -1,5 +1,5 @@
 ---
-title: lockbit
+title: LockBit
 collection_source: justice.gov
 collection_url: https://www.justice.gov/usao-nj/lockbit
 collection_domain: www.justice.gov
@@ -7,6 +7,7 @@ collection_date: 2026-04-17
 publish_date: 2026-04-17
 language: en
 status: collected
+updated: 2026-04-18
 ---
 ## Summary
 

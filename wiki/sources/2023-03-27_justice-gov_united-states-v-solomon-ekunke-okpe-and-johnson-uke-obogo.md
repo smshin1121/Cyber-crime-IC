@@ -1,6 +1,6 @@
 ---
 type: source
-title: "United States v. Solomon Ekunke Okpe and Johnson Uke Obogo"
+title: "Foreign National Sentenced for Victimizing U.S. Persons Through Cyber-Enabled Fraud Schemes"
 raw_path: raw/press-releases/2023-03-27_justice-gov_united-states-v-solomon-ekunke-okpe-and-johnson-uke-obogo.md
 source_type: press-release
 publisher: "US DOJ (Office of Public Affairs)"
@@ -12,11 +12,14 @@ reliability: high
 credibility: confirmed
 sensitivity: public
 pages_updated:
-  []
+
 key_findings:
-  - "Okpe and Obogo Enforcement Action is a defendant-specific enforcement action page derived from [[us-v-okpe-obogo-bec]]. It captures the prosecutorial or seizure stage reflected in the linked case record and preserves the operation-side catalog entry for this follow-on action."
+  - "Secure .gov websites use HTTPS A lock ( Lock Locked padlock ) or https:// means you’ve safely connected to the .gov website. Share sensitive information only on official, secure websites."
 collection_url: https://www.justice.gov/archives/opa/pr/foreign-national-sentenced-victimizing-us-persons-through-cyber-enabled-fraud-schemes
 created: 2026-04-17
+defendant_names:
+  - "Solomon Ekunke Okpe"
+updated: 2026-04-18
 ---
 ## Source Summary
 

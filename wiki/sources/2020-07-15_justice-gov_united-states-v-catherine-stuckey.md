@@ -1,6 +1,6 @@
 ---
 type: source
-title: "United States v. Catherine Stuckey"
+title: "Los Angeles County Woman Pleads Guilty to Conspiring to Distribute Heroin, Methamphetamine, and Cocaine on the Darknet"
 raw_path: raw/press-releases/2020-07-15_justice-gov_united-states-v-catherine-stuckey.md
 source_type: press-release
 publisher: "US DOJ (Eastern District of California)"
@@ -12,11 +12,14 @@ reliability: high
 credibility: confirmed
 sensitivity: public
 pages_updated:
-  []
+
 key_findings:
-  - "Catherine Stuckey (Darknet Marketplace Vendor) Enforcement Action is a defendant-specific enforcement action page derived from [[us-v-catherine-stuckey-dark-web]]. It captures the prosecutorial or seizure stage reflected in the linked case record and preserves the operation-side catalog entry for this follow-on action."
+  - "Secure .gov websites use HTTPS A lock ( Lock Locked padlock ) or https:// means you’ve safely connected to the .gov website. Share sensitive information only on official, secure websites."
 collection_url: https://www.justice.gov/usao-edca/pr/los-angeles-county-woman-pleads-guilty-conspiring-distribute-heroin-methamphetamine-and
 created: 2026-04-17
+defendant_names:
+  - "Catherine Stuckey"
+updated: 2026-04-18
 ---
 ## Source Summary
 

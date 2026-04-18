@@ -1,17 +1,19 @@
 ---
-title: "United States v. Ardit Kutleshi and Jetmir Kutleshi"
+title: "Rydox Cybercrime Marketplace Shut Down and Three Administrators Arrested"
 court: "U.S. District Court, Western District of Pennsylvania"
 case_number: "Indictment unsealed 2024-12-12"
-document_type: "indictment"
-date_filed: "2024-12-12"
-source_url: "https://www.justice.gov/usao-wdpa/pr/rydox-cybercrime-marketplace-shut-down-and-three-administrators-arrested"
-related_operation: "rydox-marketplace-takedown"
-collection_date: "2026-04-17"
+document_type: indictment
+date_filed: 2024-12-12
+source_url: https://www.justice.gov/usao-wdpa/pr/rydox-cybercrime-marketplace-shut-down-and-three-administrators-arrested
+related_operation: rydox-marketplace-takedown
+collection_date: 2026-04-17
 publisher: "US DOJ (Western District of Pennsylvania)"
-language: "en"
-sensitivity: "public"
+language: en
+sensitivity: public
+defendant_names:
+  - "Ardit Kutleshi"
+updated: 2026-04-18
 ---
-
 ## United States v. Ardit Kutleshi and Jetmir Kutleshi
 
 On 12 December 2024, DOJ announced the seizure of the Rydox cybercrime marketplace and the arrest of two alleged administrators, Ardit Kutleshi and Jetmir Kutleshi, in Kosovo pursuant to a U.S. extradition request. DOJ said the indictment had been unsealed that day in the Western District of Pennsylvania.

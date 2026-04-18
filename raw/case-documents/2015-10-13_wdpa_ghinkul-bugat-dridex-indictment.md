@@ -1,17 +1,17 @@
 ---
-title: "United States v. Ghinkul (Bugat/Dridex Botnet)"
+title: "Major Computer Hacking Forum Dismantled"
 court: "U.S. District Court, Western District of Pennsylvania"
 case_number: "W.D. Pa."
-document_type: "indictment"
-date_filed: "2015-10-13"
-source_url: "https://www.justice.gov/usao-wdpa/pr/major-computer-hacking-forum-dismantled"
-related_operation: "dridex-operations"
-collection_date: "2026-04-12"
+document_type: indictment
+date_filed: 2015-10-13
+source_url: https://www.justice.gov/usao-wdpa/pr/major-computer-hacking-forum-dismantled
+related_operation: dridex-operations
+collection_date: 2026-04-12
 publisher: "US DOJ (W.D. Pa.)"
-language: "en"
-sensitivity: "public"
+language: en
+sensitivity: public
+updated: 2026-04-18
 ---
-
 ## United States v. Ghinkul — Bugat/Dridex Botnet Administrator
 
 On 13 October 2015, the DOJ announced a nine-count indictment against Andrey Ghinkul (aka "Smilex"), a Moldovan national, for criminal conspiracy, unauthorized computer access with intent to defraud, damaging a computer, wire fraud, and bank fraud in connection with the Bugat/Dridex botnet.

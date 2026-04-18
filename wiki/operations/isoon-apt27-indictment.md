@@ -62,7 +62,7 @@ results:
 related_cases:
   - "[[us-v-wu-haibo-isoon]]"
 related_operations:
-
+  - "[[operation-us-v-wu-haibo-isoon]]"
 challenges_encountered:
   - "All defendants located in China — arrest and extradition highly unlikely"
   - "State-sponsored nature complicates traditional law enforcement cooperation"

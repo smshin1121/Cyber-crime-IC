@@ -1,0 +1,28 @@
+---
+type: source
+title: "Billings man sentenced to 10 years in prison for distributing methamphetamine"
+raw_path: raw/press-releases/2026-04-18_justice-gov_billings-man-sentenced-10-years-prison-distributing-methamphetamine.md
+source_type: press-release
+publisher: "US DOJ USAO"
+author: ""
+publish_date: 2025-12-12
+ingest_date: 2026-04-18
+language: en
+reliability: high
+credibility: confirmed
+sensitivity: public
+pages_updated:
+
+key_findings:
+  - "Secure .gov websites use HTTPS A lock ( Lock Locked padlock ) or https:// means you’ve safely connected to the .gov website. Share sensitive information only on official, secure websites."
+collection_url: https://www.justice.gov/usao-mt/pr/billings-man-sentenced-10-years-prison-distributing-methamphetamine
+created: 2026-04-18
+updated: 2026-04-18
+---
+## Source Summary
+
+Press Release Billings man sentenced to 10 years in prison for distributing...distributed methamphetamine in Billings was sentenced today to 120 months in prison to
+
+## Relevance to IC
+
+This source was discovered from Bing search results limited to official DOJ domains.

@@ -1,46 +1,38 @@
 ---
 aliases:
-- FCCU
-- Federal Judicial Police Cybercrime
-- Police Fédérale FCCU
+  []
 contact_point_for:
-- network: '[[24-7-network]]'
-  role: Budapest Convention Art. 35 contact point (Belgium)
+  []
 cooperation_partners:
-- '[[europol-ec3]]'
-- '[[interpol-igci]]'
-country: '[[belgium]]'
+  []
+country: "[[belgium]]"
 created: 2026-04-10
-established: '2002'
-frameworks_administered: []
-headquarters: Brussels, Belgium
+established: 2002
+frameworks_administered:
+  []
+headquarters: "Brussels, Belgium"
 key_roles:
-- National cybercrime investigation
-- Digital forensics and technical analysis
-- Support to Regional Computer Crime Units (RCCUs)
-- International cybercrime cooperation for Belgium
-- 24/7 Network contact point (Belgium)
-last_verified: '2026-04-10'
-mandate: National-level specialized unit of the Belgian Federal Judicial Police responsible
-  for investigating attacks on critical infrastructure, organized international ICT
-  crime, and supporting other investigations through digital forensics.
-mechanisms_operated: []
-notable_cases: []
-official_name: Federal Computer Crime Unit
-official_name_ko: 벨기에 연방 컴퓨터 범죄 수사대
+  []
+last_verified: 2026-04-10
+mandate: "National-level specialized unit of the Belgian Federal Judicial Police responsible"
+mechanisms_operated:
+  []
+notable_cases:
+  []
+official_name: "Federal Computer Crime Unit"
+official_name_ko: "벨기에 연방 컴퓨터 범죄 수사대"
 operations_participated:
-- '[[operation-endgame]]'
-- '[[phobos-8base-crackdown]]'
+  - "[[operation-endgame]]"
 org_type: national-unit
-parent_org: '[[belgium-federal-police]]'
+parent_org: "[[belgium-federal-police]]"
 source_count: 1
-sources: []
+sources:
+  []
 status: active
-title: Federal Computer Crime Unit (FCCU)
+title: "Federal Computer Crime Unit (FCCU)"
 type: organization
-updated: '2026-04-09'
+updated: 2026-04-14
 ---
-
 ## Summary
 
 The **Federal Computer Crime Unit (FCCU)** is Belgium's specialized national cybercrime police unit, operating under the **Federal Judicial Police (Police Judiciaire Fédérale / Federale Gerechtelijke Politie)** within the central directorate for the fight against serious and organized crime. The FCCU is complemented by **Regional Computer Crime Units (RCCUs)** in each judicial district, creating a two-tier structure that combines national coordination with local investigative capacity [1].

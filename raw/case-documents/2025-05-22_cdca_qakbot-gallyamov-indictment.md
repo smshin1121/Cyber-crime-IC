@@ -1,17 +1,17 @@
 ---
-title: "United States v. Gallyamov (QakBot)"
+title: "Leader of Qakbot Malware Conspiracy Indicted for Involvement in Global Ransomware Scheme"
 court: "U.S. District Court, Central District of California"
 case_number: "Sealed (C.D. Cal.)"
-document_type: "indictment"
-date_filed: "2025-05-22"
-source_url: "https://www.justice.gov/opa/pr/leader-qakbot-malware-conspiracy-indicted-involvement-global-ransomware-scheme"
-related_operation: "qakbot-gallyamov-indictment"
-collection_date: "2026-04-12"
+document_type: indictment
+date_filed: 2025-05-22
+source_url: https://www.justice.gov/opa/pr/leader-qakbot-malware-conspiracy-indicted-involvement-global-ransomware-scheme
+related_operation: qakbot-gallyamov-indictment
+collection_date: 2026-04-12
 publisher: "US DOJ (OPA)"
-language: "en"
-sensitivity: "public"
+language: en
+sensitivity: public
+updated: 2026-04-18
 ---
-
 ## United States v. Gallyamov — QakBot Indictment
 
 On 22 May 2025, the Department of Justice unsealed an indictment charging Rustam Rafailevich Gallyamov, 48, of Moscow, Russia, with leading the QakBot malware conspiracy since 2008. The indictment was unsealed in conjunction with Operation Endgame, the international law enforcement campaign targeting ransomware-enabling infrastructure.

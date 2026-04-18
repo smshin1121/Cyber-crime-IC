@@ -1,17 +1,17 @@
 ---
-title: "United States — Emotet Botnet Disruption (Operation LadyBird)"
+title: "Emotet Botnet Disrupted in International Cyber Operation"
 court: "U.S. District Court, Middle District of North Carolina"
 case_number: "M.D.N.C. (disruption order)"
-document_type: "disruption-order"
-date_filed: "2021-01-27"
-source_url: "https://www.justice.gov/archives/opa/pr/emotet-botnet-disrupted-international-cyber-operation"
-related_operation: "emotet-takedown"
-collection_date: "2026-04-12"
+document_type: disruption-order
+date_filed: 2021-01-27
+source_url: https://www.justice.gov/archives/opa/pr/emotet-botnet-disrupted-international-cyber-operation
+related_operation: emotet-takedown
+collection_date: 2026-04-12
 publisher: "US DOJ (OPA / M.D.N.C.)"
-language: "en"
-sensitivity: "public"
+language: en
+sensitivity: public
+updated: 2026-04-18
 ---
-
 ## Emotet Botnet Disruption — Operation LadyBird
 
 On 27 January 2021, the Department of Justice announced the disruption of the Emotet botnet, described by Europol as "the world's most dangerous malware," in an internationally coordinated operation known as Operation LadyBird.

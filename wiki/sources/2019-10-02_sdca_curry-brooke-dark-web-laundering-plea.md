@@ -1,6 +1,6 @@
 ---
 type: source
-title: "United States v. Aidan Curry and Connor Brooke"
+title: "Dark Web Vendors Plead Guilty to Cryptocurrency Money Laundering Conspiracy"
 raw_path: raw/case-documents/2019-10-02_sdca_curry-brooke-dark-web-laundering-plea.md
 source_type: court-document
 publisher: "US DOJ (Southern District of California)"
@@ -12,11 +12,14 @@ reliability: high
 credibility: confirmed
 sensitivity: public
 pages_updated:
-  []
+
 key_findings:
-  - "On 2 October 2019, DOJ announced that Aidan Curry and Connor Brooke pleaded guilty to conspiring to launder dark web proceeds through an unlicensed money transmitting business that sold bitcoin for cash. The case is notable because it focuses on crypto cash-out services for dark web participants rather than direct narcotics vending."
+  - "Secure .gov websites use HTTPS A lock ( Lock Locked padlock ) or https:// means you’ve safely connected to the .gov website. Share sensitive information only on official, secure websites."
 collection_url: https://www.justice.gov/usao-sdca/pr/dark-web-vendors-plead-guilty-cryptocurrency-money-laundering-conspiracy
 created: 2026-04-17
+defendant_names:
+  - "Connor Brooke"
+updated: 2026-04-18
 ---
 ## Source Summary
 
