@@ -70,9 +70,10 @@ lessons_learned:
   - "Large-scale arrest operations (80+) require extensive coordination"
 source_count: 1
 sources:
+  - "[[2024-12-04_nationalcrimeagency-gov-uk_operation-destabilise-84-arrests]]"
 
 created: 2026-04-08
-updated: 2026-04-08
+updated: 2026-04-18
 operation_role: umbrella
 parent_operation: ""
 summary: "**Operation Destabilise** was a major NCA-FBI joint operation targeting **money laundering networks** that facilitated ransomware and cybercrime proceeds. The operation resulted in over **84 arrests** and the disruption of Russian-speaking money laundering networks that served as the financial backbone for cybercriminal groups."
@@ -85,7 +86,7 @@ organizations:
 crime_types:
   - "[[money-laundering-ic]]"
 ---
-> [!note] This operation is documented from a Tier 3 (cybersecurity media) source. Additional verification from official sources (Tier 1-2) would strengthen data reliability.
+> [!note] This page is now anchored to an official NCA release, though additional court and sanctions records would still improve procedural completeness.
 
 ## Summary
 
@@ -115,7 +116,7 @@ Money laundering is a critical enabler of ransomware and other cybercrime. Crimi
 
 ## Legal Framework
 
-Specific legal instruments not detailed in available Tier 3 sources.
+Specific legal instruments are not fully detailed in the public NCA release, but the operation is clearly framed as an international NCA-led investigation with U.S. partner support and parallel sanctions action.
 
 ## Operational Timeline
 
@@ -135,7 +136,7 @@ The operation was *likely* one of the largest anti-money-laundering operations s
 
 ## Cooperation Mechanisms Used
 
-Not detailed in Tier 3 source. The NCA-FBI bilateral cooperation framework was *likely* the primary mechanism.
+The public NCA release does not spell out the full legal mechanism stack, but the operation clearly relied on NCA-led cross-border financial-investigation cooperation with U.S. partners and associated sanctions coordination.
 
 ## Korean Involvement (한국의 참여)
 
@@ -160,5 +161,5 @@ No Korean involvement identified.
 
 | # | Title | Publisher | Date | URL |
 |---|-------|----------|------|-----|
-| [1] | Operation Destabilise — NCA, FBI, money laundering for cybercrime/ransomware, 80+ arrests | Tier 3 media | 2024-12-04 | N/A |
+| [1] | Operation Destabilise: NCA disrupts multi-billion Russian money laundering networks with links to drugs, ransomware and espionage, resulting in 84 arrests | UK National Crime Agency | 2024-12-04 | https://www.nationalcrimeagency.gov.uk/news/operation-destabilise-nca-disrupts-multi-billion-russian-money-laundering-networks-with-links-to-drugs-ransomware-and-espionage-resulting-in-84-arrests |
 

@@ -6,7 +6,7 @@ created: 2026-04-08
 updated: 2026-04-14
 ---
 
-# Sources (1697)
+# Sources (1698)
 
 | Source | Type | Publisher | Tier | Reliability | Domain |
 |--------|------|-----------|------|-------------|--------|
@@ -642,6 +642,7 @@ updated: 2026-04-14
 | [[2026-04-18_justice-gov_nebraska-man-pleads-guilty-multi-million-dollar-cryptojacking-case]] | press-release | US DOJ USAO | ? | high | ? |
 | [[2026-04-18_justice-gov_criminal-division]] | press-release | US DOJ USAO | ? | high | ? |
 | [[2026-04-18_justice-gov_boone-man-sentenced-eight-years-federal-prison-using-dark-web-transport-child]] | press-release | US DOJ USAO | ? | high | ? |
+| [[2024-12-04_nationalcrimeagency-gov-uk_operation-destabilise-84-arrests]] | press-release | UK National Crime Agency | 1 | high | ? |
 | [[2024-12-04_europol-europa-eu_fraudulent-shopping-sites-tied-to-cybercrime-marketplace-taken-offline]] | press-release | Europol | ? | high | ? |
 | [[2026-04-18_justice-gov_alleged-child-molester-identified-his-distinctive-tattoos]] | press-release | US DOJ USAO | ? | high | ? |
 | [[2026-04-18_justice-gov_final-co-conspirator-ordered-prison-dark-web-pill-manufacturing-and-distribution-ring]] | press-release | US DOJ USAO | ? | high | ? |
