@@ -28,6 +28,7 @@ sources:
   - '[[2026-04-17_coe-int_france-octopus-cybercrime-community-country-profile]]'
   - '[[2026-04-17_diplomatie-gouv-fr_france-and-cyber-security]]'
   - '[[2019-12-17_legifrance-gouv-fr_circulaire-du-17-d-cembre-2019-relative-la-comp-tence-nationale-concurrente]]'
+  - '[[2026-01-13_gendarmerie-interieur-gouv-fr_cybercriminalite-etat-des-lieux]]'
 ---
 ## Summary
 
@@ -60,3 +61,6 @@ That division is important for this repo because French participation in multina
 | [3] | France - Octopus Cybercrime Community country profile | Council of Europe | current | https://www.coe.int/en/web/octopus/-/france |
 | [4] | France and Cyber security | Ministry for Europe and Foreign Affairs | current | https://www.diplomatie.gouv.fr/en/french-foreign-policy/digital-diplomacy/france-s-international-digital-strategy/ |
 | [5] | Circulaire du 17 décembre 2019 relative à la compétence nationale concurrente | Legifrance | 2019-12-17 | https://www.legifrance.gouv.fr/ |
+### Supplemental Source
+
+- Cybercriminalit챕 : 챕tat des lieux | Gendarmerie nationale | 2026-01-13 | https://www.gendarmerie.interieur.gouv.fr/gendinfo/dossiers/lutte-contre-la-criminalite-organisee/cybercriminalite-etat-des-lieux

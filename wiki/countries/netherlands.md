@@ -34,7 +34,8 @@ iso_code: NL
 key_agencies:
 - '[[netherlands-politie]]'
 - '[[netherlands-fiod]]'
-last_verified: '2026-04-10'
+- '[[netherlands-om]]'
+last_verified: '2026-04-18'
 legal_system: civil-law
 notable_cases: []
 operations_participated:
@@ -51,9 +52,13 @@ operations_participated:
 - '[[operation-haechi-v]]'
 - '[[proxy-service-takedown-2026-03]]'
 region: western-europe
-source_count: 1
+source_count: 5
 sources:
 - '[[2026-03-12-eurojust-proxy-service-takedown]]'
+- '[[2026-04-18_coe-int_netherlands-octopus-cybercrime-community-country-profile]]'
+- '[[2026-01-22_politie-nl_jaarcijfers-lx-internationale-samenwerking-verder-verstevigd]]'
+- '[[2025-05-09_politie-nl_anyproxy-amsterdam-fbi]]'
+- '[[2026-04-18_om-nl_internationale-samenwerking]]'
 title: Kingdom of the Netherlands
 treaty_memberships:
 - date: '2006-11-16'
@@ -65,7 +70,7 @@ treaty_memberships:
   reservations: []
   status: signatory
 type: country
-updated: 2026-04-14
+updated: 2026-04-18
 ---
 
 ## Summary

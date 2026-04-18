@@ -6,7 +6,7 @@ created: 2026-04-08
 updated: 2026-04-08
 ---
 
-# Organizations (97)
+# Organizations (99)
 
 | Organization | Type | Country/HQ | Key IC Roles | Operations | Sources |
 |--------------|------|------------|--------------|------------|---------|
@@ -55,13 +55,13 @@ updated: 2026-04-08
 | [[switzerland-ncsc]] | national-agency | [[switzerland]] | — | — | 1 |
 | [[thailand-police]] | national-agency | Bangkok, Thailand | — | — | 0 |
 | [[thailand-royal-police]] | national-agency | Bangkok, Thailand | — | — | 8 |
-| [[uk-nca]] | national-agency | London, United Kingdom | — | 17 | 8 |
+| [[uk-nca]] | national-agency | London, United Kingdom | — | 17 | 13 |
 | [[us-dhs]] | national-agency | Washington, D.C., United States | Homeland Security Investigations (HSI) — transnational cybercrime investigation; Coordination with foreign LEAs on cyber-enabled fraud | 6 | 0 |
 | [[us-doj]] | national-agency | Washington, D.C., United States | — | 1171 | 5 |
 | [[us-treasury]] | national-agency | Washington, D.C., United States | — | 6 | 8 |
 | [[usdoj]] | national-agency | Washington, D.C., United States | — | 9 | 0 |
 | [[armenia-police]] | national-unit | Yerevan, Armenia | — | 2 | 3 |
-| [[belgium-federal-police]] | national-unit | Brussels, Belgium | — | 1 | 1 |
+| [[belgium-federal-police]] | national-unit | Brussels, Belgium | National cybercrime investigation; Critical-infrastructure attack investigation | 1 | 4 |
 | [[bulgaria-police]] | national-unit | Sofia, Bulgaria | — | 2 | 2 |
 | [[canada-rcmp]] | national-unit | Ottawa, Ontario, Canada | — | 8 | 3 |
 | [[czechia-police]] | national-unit | Prague, Czech Republic | — | 1 | 2 |
@@ -72,11 +72,12 @@ updated: 2026-04-08
 | [[hong-kong-police]] | national-unit | Hong Kong SAR | — | — | 5 |
 | [[ic3]] | national-unit | Washington, D.C. / West Virginia, United States | — | 1 | 4 |
 | [[ireland-garda]] | national-unit | Dublin, Ireland | National cybercrime investigation; Digital forensics | 1 | 0 |
+| [[italy-polizia-postale]] | national-unit | Rome, Italy | Cybercrime investigation; Online child-protection investigations | — | 3 |
 | [[knpa-cyber-bureau]] | national-unit | Seoul, South Korea | — | 3 | 5 |
 | [[latvia-state-police]] | national-unit | [[latvia]] | — | 1 | 1 |
 | [[lithuania-police]] | national-unit | Saltoniškių g. 19, Vilnius 08105, Lithuania | — | 2 | 3 |
 | [[mauritius-police-cybercrime]] | national-unit | [[mauritius]] | — | — | 1 |
-| [[netherlands-politie]] | national-unit | Driebergen-Rijsenburg, Netherlands | — | 19 | 0 |
+| [[netherlands-politie]] | national-unit | Driebergen-Rijsenburg, Netherlands | — | 19 | 4 |
 | [[norway-kripos]] | national-unit | [[norway]] | — | — | 1 |
 | [[norway-nc3]] | national-unit | [[norway]] | — | — | 1 |
 | [[poland-police]] | national-unit | ul. Wąwozowa 18, Warsaw, Poland | — | — | 3 |
@@ -85,13 +86,13 @@ updated: 2026-04-08
 | [[seoul-metropolitan-police]] | national-unit | Jongno-gu, Seoul, South Korea | — | 1 | 3 |
 | [[singapore-police]] | national-unit | Singapore | — | 1 | 7 |
 | [[south-africa-hawks]] | national-unit | [[south-africa]] | — | — | 1 |
-| [[spain-guardia-civil]] | national-unit | Madrid, Spain | — | 1 | 0 |
-| [[spain-national-police]] | national-unit | [[spain]] | — | — | 1 |
+| [[spain-guardia-civil]] | national-unit | Madrid, Spain | Guardia Civil cybercrime investigation; 24/7 cybercrime contact function | 1 | 2 |
+| [[spain-national-police]] | national-unit | Madrid, Spain | National and transnational cybercrime investigation; National Police 24/7 cybercrime contact function | — | 2 |
 | [[sweden-police]] | national-unit | Stockholm, Sweden | — | 4 | 3 |
 | [[ukraine-police]] | national-unit | Kyiv, Ukraine | — | 4 | 3 |
 | [[us-dcis]] | national-unit | Alexandria, Virginia, United States | — | 2 | 4 |
 | [[us-ncis]] | national-unit | [[united-states]] | — | 1 | 1 |
-| [[us-secret-service]] | national-unit | Washington, D.C., United States | — | 10 | 4 |
+| [[us-secret-service]] | national-unit | Washington, D.C., United States | — | 11 | 4 |
 | [[intel-security]] | private-sector | — | — | 1 | 0 |
 | [[kaspersky-lab]] | private-sector | — | — | 3 | 0 |
 | [[microsoft]] | private-sector | Redmond, Washington, United States | — | 2 | 0 |
@@ -99,6 +100,7 @@ updated: 2026-04-08
 | [[group-ib]] | private-sector-partner | — | — | 1 | 0 |
 | [[france-junalco]] | prosecution-office | Paris, France | — | 2 | 2 |
 | [[germany-frankfurt-prosecutor]] | prosecution-office | Frankfurt am Main, Germany | — | 3 | 3 |
+| [[netherlands-om]] | prosecution-office | Rotterdam / Amsterdam / Zwolle / Den Bosch / Zoetermeer, Netherlands | International legal assistance; Joint investigation team coordination | 1 | 3 |
 | [[romania-diicot]] | prosecution-office | Bucharest, Romania | — | 1 | 0 |
 | [[spo-international-cooperation]] | prosecution-office | Seoul, South Korea | — | — | 9 |
 | [[supreme-prosecutors-office-korea]] | prosecution-office | Seocho-gu, Seoul, South Korea | — | — | 7 |

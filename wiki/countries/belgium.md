@@ -28,13 +28,18 @@ ic_capacity:
   rating: high
 iso_code: BE
 key_agencies: []
-last_verified: '2026-04-10'
+last_verified: '2026-04-18'
 legal_system: civil-law
 notable_cases: []
 operations_participated: []
 region: western-europe
 source_count: 5
-sources: []
+sources:
+- '[[2026-04-18_coe-int_belgium-octopus-cybercrime-community-country-profile]]'
+- '[[2026-03-12-eurojust-proxy-service-takedown]]'
+- '[[2024-05-30_europol-europa-eu_largest-ever-operation-against-botnets-operation-endgame]]'
+- '[[2024-02-20_europol-europa-eu_law-enforcement-disrupt-world-s-biggest-ransomware-operation-operation-cronos-lo]]'
+- '[[2025-02-11_europol-europa-eu_key-figures-behind-phobos-and-8base-ransomware-arrested-in-international-cybercr]]'
 title: Kingdom of Belgium
 treaty_memberships:
 - date: '2012-08-20'
@@ -46,7 +51,7 @@ treaty_memberships:
   reservations: []
   status: signatory
 type: country
-updated: 2026-04-10
+updated: 2026-04-18
 ---
 
 ## Summary

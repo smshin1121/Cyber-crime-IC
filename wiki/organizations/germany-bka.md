@@ -161,5 +161,10 @@ Korea-Germany (BKA) cybercrime cooperation is *likely* conducted primarily throu
 
 ## References
 
-> [!note]
-> This page was created based on general knowledge. No dedicated sources have been ingested (source_count: 0). Key claims should be verified against BKA annual reports (Bundeslagebild Cybercrime) and Europol publications.
+| # | Source | Publisher | Date | URL |
+|---|---|---|---|---|
+| 1 | BKA Our Tasks | Bundeskriminalamt | 2026-04-18 | https://www.bka.de/EN/OurTasks/ourtasks_node.html |
+| 2 | BKA Cybercrime | Bundeskriminalamt | 2026-04-18 | https://www.bka.de/EN/OurTasks/AreasOfCrime/Cybercrime/cybercrime_node.html |
+| 3 | Avalanche botnet infrastructure | BSI | 2026-04-18 | https://www.bsi.bund.de/ |
+| 4 | Operation Avalanche - closer look | Eurojust | 2017-04-01 | https://www.eurojust.europa.eu/ |
+| 5 | Germany - Octopus Cybercrime Community country profile | Council of Europe | current | https://www.coe.int/en/web/octopus/-/germany |

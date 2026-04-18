@@ -13,7 +13,7 @@ frameworks_administered:
 headquarters: "London, United Kingdom"
 key_roles:
 
-last_verified: 2026-04-10
+last_verified: 2026-04-18
 mandate: "Lead UK law enforcement agency for tackling serious and organised crime,"
 mechanisms_operated:
 
@@ -42,13 +42,18 @@ operations_participated:
   - "[[vpnlab-takedown]]"
 org_type: national-agency
 parent_org: ""
-source_count: 8
+source_count: 13
 sources:
+  - "[[2026-04-17_nationalcrimeagency-gov-uk_cybercrime]]"
+  - "[[2026-04-18_nationalcrimeagency-gov-uk_international-network]]"
+  - "[[2026-04-18_gov-uk_financial-sanctions-guidance-for-ransomware]]"
+  - "[[2024-05-07_gov-uk_uk-and-allies-sanction-prolific-cyber-hacker]]"
+  - "[[2024-12-04_nationalcrimeagency-gov-uk_operation-destabilise-84-arrests]]"
 
 status: active
 title: "UK National Crime Agency (NCA)"
 type: organization
-updated: 2026-04-17
+updated: 2026-04-18
 ---
 ## Summary
 
@@ -194,3 +199,13 @@ Direct NCA-Korea cybercrime cooperation is *likely* less developed than FBI-Kore
 | [6] | UK plans sweeping overhaul of policing amid surge in online crimes | The Record / Recorded Future News | 2025 | https://therecord.media/uk-national-policing-overhaul-cybercrime |
 | [7] | UK National Crime Agency to Launch Specialized Crypto Team (NCCU Crypto Cell) | Decrypt | 2023 | https://decrypt.co/118390/uk-national-crime-agency-to-launch-specialized-crypto-team |
 | [8] | Cybercrime | National Crime Agency | n.d. | https://www.nationalcrimeagency.gov.uk/what-we-do/crime-threats/cyber-crime |
+
+### Official Source Baseline
+
+| # | Source | Publisher | Date | URL |
+|---|---|---|---|---|
+| [9] | NCA Cybercrime | National Crime Agency | 2026-04-17 | https://www.nationalcrimeagency.gov.uk/what-we-do/crime-threats/cybercrime |
+| [10] | International network | National Crime Agency | current | https://www.nationalcrimeagency.gov.uk/what-we-do/how-we-work/providing-specialist-capabilities-for-law-enforcement/international-network |
+| [11] | Financial sanctions guidance for ransomware | Office of Financial Sanctions Implementation | 2026-01-28 | https://www.gov.uk/government/publications/financial-sanctions-guidance-for-ransomware/financial-sanctions-guidance-for-ransomware |
+| [12] | UK and allies sanction prolific cyber hacker | UK Government / FCDO / NCA / NCSC | 2024-05-07 | https://www.gov.uk/government/news/uk-and-allies-sanction-prolific-cyber-hacker |
+| [13] | Operation Destabilise: NCA disrupts multi-billion money laundering networks | National Crime Agency | 2024-12-04 | https://www.nationalcrimeagency.gov.uk/news/operation-destabilise-nca-disrupts-multi-billion-russian-money-laundering-networks-with-links-to-drugs-ransomware-and-espionage-resulting-in-84-arrests |

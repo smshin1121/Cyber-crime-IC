@@ -33,13 +33,19 @@ iso_code: ES
 key_agencies:
 - '[[spain-guardia-civil]]'
 - '[[spain-national-police]]'
-last_verified: '2026-04-10'
+last_verified: '2026-04-18'
 legal_system: civil-law
 notable_cases: []
 operations_participated: []
 region: western-europe
-source_count: 0
-sources: []
+source_count: 6
+sources:
+- '[[2026-04-18_coe-int_spain-octopus-cybercrime-community-country-profile]]'
+- '[[2022-11-29_interior-gob-es_organizacion-criminal-defraudo-mas-de-12-millones-de-euros-mediante-phishing]]'
+- '[[2023-12-11_interior-gob-es_policia-nacional-detiene-lider-kelvin-security]]'
+- '[[2026-03-12-eurojust-proxy-service-takedown]]'
+- '[[2024-02-20_europol-europa-eu_law-enforcement-disrupt-world-s-biggest-ransomware-operation-operation-cronos-lo]]'
+- '[[2026-04-18_policia-es_bcit]]'
 title: Kingdom of Spain
 treaty_memberships:
 - date: '2010-06-03'
@@ -51,7 +57,7 @@ treaty_memberships:
   reservations: []
   status: signatory
 type: country
-updated: 2026-04-10
+updated: 2026-04-18
 ---
 
 ## Summary

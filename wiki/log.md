@@ -417,3 +417,14 @@
   - Operation Orion International은 2024년 5-9월 12개 남미국 합동 CSAM 단속(144명 체포, 아동 20명 구출)으로 participating_countries frontmatter에 12개국 wikilink가 전부 박혀 있었으나, 이 중 11개 국가 페이지 자체가 존재하지 않아 broken wikilink 상태였음 (Colombia만 페이지 존재하되 역참조 누락)
   - CLAUDE.md Rule 7 (non-existent page wikilink 금지 + stub 필수) + Rule 3 (bidirectional invariant) + LESSONS.md L17 (participating_countries 공식 출처 교차 검증) 위반 사례
   - 검증: check_links.py broken 0, lint.py CRITICAL/HIGH/MEDIUM 0
+## [2026-04-18] query-filed | priority country source expansion registry
+- Pages created:
+  - wiki/analysis/priority-country-source-registry.md
+- Pages updated:
+  - wiki/analysis/_index.md
+  - wiki/index.md
+  - CLAUDE.md
+- Key findings:
+  - Source diversification should prioritize Germany, France, the United Kingdom, the Netherlands, Belgium, Spain, and Italy before broader global expansion.
+  - Country expansion is most useful when it strengthens synthesis, cross-jurisdiction comparison, and existing operation/case pages rather than creating thin standalone entries.
+  - The repo now has an explicit registry-level rule for shifting from page-count growth toward interpretation, connectedness, and trusted multi-country sourcing.

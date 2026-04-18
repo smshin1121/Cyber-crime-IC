@@ -31,14 +31,22 @@ ic_capacity:
   english_proficiency: medium
   rating: high
 iso_code: IT
-key_agencies: []
-last_verified: '2026-04-10'
+key_agencies:
+- '[[italy-polizia-postale]]'
+- '[[italy-dcsa]]'
+last_verified: '2026-04-18'
 legal_system: civil-law
 notable_cases: []
 operations_participated: []
 region: southern-europe
-source_count: 0
-sources: []
+source_count: 6
+sources:
+- '[[2026-04-18_coe-int_italy-octopus-cybercrime-community-country-profile]]'
+- '[[2017-06-21_poliziadistato-it_operazione-criptolocker]]'
+- '[[2024-05-11_poliziadistato-it_servizio-polizia-postale-e-per-la-sicurezza-cibernetica-riferimenti-normativi]]'
+- '[[2026-03-12-eurojust-proxy-service-takedown]]'
+- '[[2024-05-30_europol-europa-eu_largest-ever-operation-against-botnets-operation-endgame]]'
+- '[[2024-02-20_europol-europa-eu_law-enforcement-disrupt-world-s-biggest-ransomware-operation-operation-cronos-lo]]'
 title: Italian Republic
 treaty_memberships:
 - date: '2008-06-05'
@@ -50,7 +58,7 @@ treaty_memberships:
   reservations: []
   status: signatory
 type: country
-updated: 2026-04-10
+updated: 2026-04-18
 ---
 
 ## Summary

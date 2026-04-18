@@ -6,7 +6,7 @@ created: 2026-04-08
 updated: 2026-04-14
 ---
 
-# Sources (1741)
+# Sources (1764)
 
 | Source | Type | Publisher | Tier | Reliability | Domain |
 |--------|------|-----------|------|-------------|--------|
@@ -15,9 +15,20 @@ updated: 2026-04-14
 | [[2026-04-14_eurojust_cryptocurrency-mixing-service-used-to-launder-money-taken-do]] | press-release | Eurojust | ? | high | ? |
 | [[2026-04-14_eurojust_european-judicial-cybercrime-network-strengthens-resolve-to]] | press-release | Eurojust | ? | high | ? |
 | [[2524-01-01_techtarget-com_doj-breaks-up-infraud-organization-with-some-help]] | press-release | techtarget.com | ? | medium | ? |
+| [[2026-04-18_politie-be_internetcriminaliteit-fccu-contact]] | official-guidance | Lokale Politie Gent | 3 | medium | ? |
+| [[2026-04-18_politie-be_djsoc-fccu]] | official-guidance | Federale Politie | 2 | high | ? |
+| [[2026-04-18_policia-es_bcit]] | official-guidance | Policía Nacional | 2 | high | ? |
+| [[2026-04-18_om-nl_landelijk-parket]] | official-guidance | Openbaar Ministerie | 2 | high | ? |
+| [[2026-04-18_om-nl_internationale-samenwerking]] | official-guidance | Openbaar Ministerie | 2 | high | ? |
+| [[2026-04-18_nationalcrimeagency-gov-uk_international-network]] | official-guidance | National Crime Agency | 2 | high | ? |
 | [[2026-04-18_microsoft-com_gamarue-threat-profile]] | corporate-reference | Microsoft | 3 | medium | ? |
+| [[2026-04-18_guardiacivil-es_gdt]] | official-guidance | Guardia Civil | 2 | high | ? |
 | [[2026-04-18_europol-europa-eu_carbanak-cobalt-infographic]] | infographic | Europol | 2 | high | ? |
+| [[2026-04-18_coe-int_spain-octopus-cybercrime-community-country-profile]] | official-guidance | Council of Europe | 2 | high | ? |
+| [[2026-04-18_coe-int_netherlands-octopus-cybercrime-community-country-profile]] | official-guidance | Council of Europe | 2 | high | ? |
+| [[2026-04-18_coe-int_italy-octopus-cybercrime-community-country-profile]] | official-guidance | Council of Europe | 2 | high | ? |
 | [[2026-04-18_coe-int_germany-octopus-cybercrime-community-country-profile]] | country-profile | Council of Europe | 2 | high | ? |
+| [[2026-04-18_coe-int_belgium-octopus-cybercrime-community-country-profile]] | official-guidance | Council of Europe | 2 | high | ? |
 | [[2026-04-18_bsi-bund-de_avalanche-botnet-infrastructure]] | official-guidance | Federal Office for Information Security (BSI) | 2 | high | ? |
 | [[2026-04-18_bka-de_our-tasks]] | official-guidance | Bundeskriminalamt | 2 | high | ? |
 | [[2026-04-18_bka-de_cybercrime]] | official-guidance | Bundeskriminalamt | 2 | high | ? |
@@ -82,7 +93,7 @@ updated: 2026-04-14
 | [[2026-04-17_ncsc-admin-ch_official-website]] | press-release | Swiss NCSC | ? | medium | ? |
 | [[2026-04-17_ncis-navy-mil_official-website]] | press-release | NCIS | ? | medium | ? |
 | [[2026-04-17_nc4-go-ke_the-national-computer-and-cybercrimes-coordination-committee-nc4]] | press-release | NC4 Kenya | ? | medium | ? |
-| [[2026-04-17_nationalcrimeagency-gov-uk_cybercrime]] | press-release | National Crime Agency | ? | medium | ? |
+| [[2026-04-17_nationalcrimeagency-gov-uk_cybercrime]] | official-guidance | National Crime Agency | 2 | high | ? |
 | [[2026-04-17_namu-wiki_history-parent-ministry]] | press-release | 나무위키 | ? | medium | ? |
 | [[2026-04-17_namu-wiki_ec-84-9c-ec-9a-b8-ed-8a-b9-eb-b3-84-ec-8b-9c-ea-b2-bd-ec-b0-b0-ec-b2-ad]] | press-release | namu.wiki | ? | medium | ? |
 | [[2026-04-17_namu-wiki_ec-82-ac-ec-9d-b4-eb-b2-84-ec-88-98-ec-82-ac-eb-8c-80]] | press-release | namu.wiki | ? | medium | ? |
@@ -241,6 +252,7 @@ updated: 2026-04-14
 | [[2025-01-29_sdtx_heartsender-seizure]] | court-document | U.S. District Court for the Southern District of Texas | ? | high | ? |
 | [[2026-04-06_newsis-com_3]] | press-release | 뉴시스 | ? | medium | ? |
 | [[2026-04-06_newsis-com_]] | press-release | 뉴시스 | ? | medium | ? |
+| [[2026-03-27_politie-nl_minister-van-weel-team-high-tech-crime]] | official-article | Politie | 2 | high | ? |
 | [[2026-03-21_nwww-newsis-com_78]] | press-release | 뉴시스 | ? | medium | ? |
 | [[2026-04-18_justice-gov_us-v-amitoj-kapoor-and-siddharth-lillaney]] | press-release | US DOJ USAO | ? | high | ? |
 | [[2026-04-18_justice-gov_montenegro-icitap-cooperates-osce-mission-montenegro-delivery-targeted-law]] | press-release | US DOJ | ? | high | ? |
@@ -287,6 +299,7 @@ updated: 2026-04-14
 | [[2026-04-18_justice-gov_member-lummi-nation-indicted-distributing-fentanyl]] | press-release | US DOJ USAO | ? | high | ? |
 | [[2026-02-05_coe-int_cyberspex-hungary-became-the-third-state-to-ratify-the-second-additional-protoco]] | press-release | Council of Europe | ? | medium | ? |
 | [[2026-01-31_thepattayanews-com_cyber-police-raid-pattaya-condo-arrest-two-chinese-nationals]] | press-release | The Pattaya News | ? | medium | ? |
+| [[2026-04-18_gov-uk_financial-sanctions-guidance-for-ransomware]] | official-guidance | Office of Financial Sanctions Implementation | 2 | high | ? |
 | [[2026-04-18_justice-gov_tacoma-man-who-persisted-drug-trafficking-despite-being-stopped-more-25-pounds-meth]] | press-release | US DOJ USAO | ? | high | ? |
 | [[2026-04-18_justice-gov_slovakian-man-admits-aiding-darknet-market-sold-drugs-and-stolen-personal-information]] | press-release | US DOJ USAO | ? | high | ? |
 | [[2026-04-18_justice-gov_east-hartford-man-sentenced-10-years-prison-possessing-child-sex-abuse-material-while]] | press-release | US DOJ USAO | ? | high | ? |
@@ -295,6 +308,7 @@ updated: 2026-04-14
 | [[2026-04-18_justice-gov_chinese-national-sentenced-46-months-federal-prison-role-multimillion-dollar]] | press-release | US DOJ USAO | ? | high | ? |
 | [[2026-04-18_justice-gov_prolific-fentanyl-distributor-sentenced-six-years-prison]] | press-release | US DOJ USAO | ? | high | ? |
 | [[2026-04-18_justice-gov_columbus-man-charged-threatening-kill-federal-agents]] | press-release | US DOJ USAO | ? | high | ? |
+| [[2026-01-22_politie-nl_jaarcijfers-lx-internationale-samenwerking-verder-verstevigd]] | official-article | Politie | 2 | high | ? |
 | [[2026-04-18_justice-gov_north-reading-man-indicted-possession-child-pornography]] | press-release | US DOJ USAO | ? | high | ? |
 | [[2026-04-18_justice-gov_tennessee-man-pleads-hacking-us-supreme-court-americorps-and-va-health-system]] | press-release | US DOJ USAO | ? | high | ? |
 | [[2026-01-16_or_aragon-dark-web-cocaine-sentencing]] | court-document | US DOJ (District of Oregon) | ? | high | ? |
@@ -305,6 +319,7 @@ updated: 2026-04-14
 | [[2026-04-18_justice-gov_ledyard-man-pleads-guilty-child-exploitation-offense]] | press-release | US DOJ USAO | ? | high | ? |
 | [[2026-04-18_justice-gov_four-charged-connection-drug-distribution-scheme-involving-cocaine-and-firearms]] | press-release | US DOJ USAO | ? | high | ? |
 | [[2026-04-18_justice-gov_atlantic-biologicals-corporation-enters-deferred-prosecution-agreement-opioid-distribution]] | press-release | US DOJ (Office of Public Affairs) | ? | high | ? |
+| [[2026-01-13_gendarmerie-interieur-gouv-fr_cybercriminalite-etat-des-lieux]] | official-article | Gendarmerie nationale | 2 | high | ? |
 | [[2026-04-18_justice-gov_madison-county-sex-offender-indicted-failure-register]] | press-release | US DOJ USAO | ? | high | ? |
 | [[2026-01-09_web-archive-org_kisa-ai-ai]] | press-release | 정보통신신문 | ? | medium | ? |
 | [[2026-01-09_web-archive-org_kisa-ai]] | press-release | 정보통신신문 | ? | medium | ? |
@@ -489,6 +504,7 @@ updated: 2026-04-14
 | [[2026-04-18_justice-gov_gloucester-police-officer-charged-child-pornography-offense]] | press-release | US DOJ USAO | ? | high | ? |
 | [[2026-04-18_justice-gov_final-custody-defendant-whatcom-county-drug-trafficking-ring-sentenced-8-years-prison]] | press-release | US DOJ USAO | ? | high | ? |
 | [[2026-04-18_justice-gov_botnet-dismantled-international-operation-russian-and-kazakhstani-administrators]] | press-release | US DOJ USAO | ? | high | ? |
+| [[2025-05-09_politie-nl_anyproxy-amsterdam-fbi]] | official-press-release | Politie | 2 | high | ? |
 | [[2026-04-18_justice-gov_palm-beach-county-man-sentenced-cyberstalking-two-victims]] | press-release | US DOJ USAO | ? | high | ? |
 | [[2026-04-18_justice-gov_nurse-admits-tampering-vials-fentanyl]] | press-release | US DOJ USAO | ? | high | ? |
 | [[2026-04-18_justice-gov_kansas-woman-indicted-defrauding-elderly-victims]] | press-release | US DOJ USAO | ? | high | ? |
@@ -809,9 +825,11 @@ updated: 2026-04-14
 | [[2024-05-21_justice-gov_united-states-v-tenzin-orgil]] | press-release | US DOJ (Southern District of Florida) | ? | high | ? |
 | [[2026-04-18_justice-gov_thirteen-people-indicted-drug-trafficking-conspiracy-involving-fentanyl]] | press-release | US DOJ USAO | ? | high | ? |
 | [[2026-04-18_justice-gov_glendale-man-sentenced-10-years-federal-prison-participating-darknet-drug-trafficking]] | press-release | US DOJ USAO | ? | high | ? |
+| [[2024-05-11_poliziadistato-it_servizio-polizia-postale-e-per-la-sicurezza-cibernetica-riferimenti-normativi]] | official-guidance | Polizia di Stato | 2 | high | ? |
 | [[2026-04-18_justice-gov_hsi-dea-and-local-partners-seize-more-16-kilograms-fentanyl-powder-and-60000-fentanyl]] | press-release | US DOJ USAO | ? | high | ? |
 | [[2026-04-18_justice-gov_final-calicartel-defendant-pleads-guilty-dark-web-heroin-methamphetamine-and-cocaine]] | press-release | US DOJ USAO | ? | high | ? |
 | [[2026-04-18_justice-gov_woman-sentenced-9-years-dark-web-murder-hire-plot]] | press-release | US DOJ USAO | ? | high | ? |
+| [[2024-05-07_gov-uk_uk-and-allies-sanction-prolific-cyber-hacker]] | official-press-release | Foreign, Commonwealth & Development Office | 2 | high | ? |
 | [[2026-04-18_justice-gov_kentucky-man-sentenced-15-years-prison-advertising-child-pornography]] | press-release | US DOJ USAO | ? | high | ? |
 | [[2024-05-01_justice-gov_united-states-v-brandon-adams]] | press-release | US DOJ (Eastern District of Missouri) | ? | high | ? |
 | [[2024-05-01_edmo_brandon-adams-darknet-sentencing]] | court-document | US DOJ (Eastern District of Missouri) | ? | high | ? |
@@ -972,6 +990,7 @@ updated: 2026-04-14
 | [[2026-04-18_justice-gov_duvall-washington-man-awaiting-sentencing-possessing-images-child-sexual-abuse-pleads]] | press-release | US DOJ USAO | ? | high | ? |
 | [[2026-04-18_justice-gov_qakbot-malware-disrupted-international-cyber-takedown]] | press-release | US DOJ USAO | ? | high | ? |
 | [[2026-04-18_justice-gov_man-sentenced-stalking-and-threatening-congressman-kevin-hern-and-his-wife]] | press-release | US DOJ USAO | ? | high | ? |
+| [[2023-08-29_om-nl_qakbot-onschadelijk-gemaakt]] | official-press-release | Openbaar Ministerie | 2 | high | ? |
 | [[2023-08-25_justice-gov_united-states-v-cheerish-noel-taylor-and-robert-james-fischer]] | press-release | US DOJ (Eastern District of Virginia) | ? | high | ? |
 | [[2023-08-25_edva_taylor-fischer-darknet-vendors-plea]] | court-document | US DOJ (Eastern District of Virginia) | ? | high | ? |
 | [[2026-04-18_justice-gov_attorney-arrested-charges-insider-trading]] | press-release | US DOJ USAO | ? | high | ? |
@@ -1102,6 +1121,7 @@ updated: 2026-04-14
 | [[2022-12-01_sdfl_anton-peck-dark-web-sentencing]] | court-document | US DOJ (Southern District of Florida) | ? | high | ? |
 | [[2022-12-01_justice-gov_united-states-v-anton-peck]] | press-release | US DOJ (Southern District of Florida) | ? | high | ? |
 | [[2026-04-18_justice-gov_eastern-district-texas-announces-multi-year-investigation-transnational-cryptocurrency]] | press-release | US DOJ USAO | ? | high | ? |
+| [[2022-11-29_interior-gob-es_organizacion-criminal-defraudo-mas-de-12-millones-de-euros-mediante-phishing]] | official-press-release | Ministerio del Interior | 2 | high | ? |
 | [[the-hacker-news-operation-haechi-ii]] | news | The Hacker News | 3 | medium-high | ? |
 | [[2022-11-24_thehackernews-com_interpol-seized-130-million-from-cybercriminals-in-global-haechi-iii-crackdown]] | press-release | The Hacker News | ? | medium | ? |
 | [[2022-11-24_interpol-int_cyber-enabled-financial-crime-usd-130-million-intercepted-in-global-interpol-pol]] | press-release | INTERPOL | ? | high | ? |
@@ -1155,6 +1175,7 @@ updated: 2026-04-14
 | [[2022-06-30_coe-int_c-te-d-ivoire-invited-to-join-the-convention-on-cybercrime]] | press-release | Council of Europe / Cybercrime News | ? | medium | ? |
 | [[2026-04-18_justice-gov_st-louis-man-sentenced-aggravated-id-theft-other-charges]] | press-release | US DOJ USAO | ? | high | ? |
 | [[2026-04-18_justice-gov_bothell-washington-man-sentenced-5-years-prison-dealing-drugs-hidden-computer-hard]] | press-release | US DOJ USAO | ? | high | ? |
+| [[2022-06-22_fondosicurezzainterna-interno-gov-it_un-territorio-cyber-sicuro-tra-pubblico-e-privato]] | official-guidance | Ministero dell'Interno | 2 | high | ? |
 | [[2026-04-18_justice-gov_former-seattle-tech-worker-convicted-wire-fraud-and-computer-intrusions]] | press-release | US DOJ USAO | ? | high | ? |
 | [[2026-04-18_justice-gov_everett-man-indicted-cyberstalking-and-threatening-former-romantic-partner]] | press-release | US DOJ USAO | ? | high | ? |
 | [[2026-04-18_justice-gov_illinois-man-sentenced-2-years-federal-prison-operating-subscription-based-computer]] | press-release | US DOJ USAO | ? | high | ? |
@@ -1589,7 +1610,9 @@ updated: 2026-04-14
 | [[2026-04-18_justice-gov_new-britain-man-sentenced-10-years-prison-distributing-fentanyl]] | press-release | US DOJ USAO | ? | high | ? |
 | [[2026-04-18_justice-gov_two-former-employees-house-member-indicted-federal-charges-cyberstalking-case]] | press-release | US DOJ USAO | ? | high | ? |
 | [[2026-04-18_justice-gov_san-jose-resident-pleads-guilty-stealing-homeless-individuals-ids-and-using-them-seek]] | press-release | US DOJ USAO | ? | high | ? |
+| [[2017-06-21_poliziadistato-it_operazione-criptolocker]] | official-press-release | Polizia di Stato | 2 | high | ? |
 | [[2026-04-18_justice-gov_southern-california-resident-sentenced-34-months-prison-role-bank-fraud-conspiracy]] | press-release | US DOJ USAO | ? | high | ? |
+| [[2017-06-09_politie-be_oproep-aan-slachtoffers-wannacry]] | official-statement | Federale Politie | 2 | high | ? |
 | [[2017-07-20_edca_cazes-alphabay-indictment]] | court-document | US DOJ (Eastern District of California) | ? | high | ? |
 | [[2017-06-01_justice-gov_united-states-v-alexandre-cazes]] | press-release | US DOJ (Eastern District of California) | ? | high | ? |
 | [[2017-05-31_court-of-appeals-for-the-second-circuit_united-states-v-ulbricht-2]] | court-document | Court of Appeals for the Second Circuit | ? | high | ? |

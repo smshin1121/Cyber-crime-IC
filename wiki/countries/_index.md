@@ -39,10 +39,10 @@ total: 61
 | [[germany]] | civil-law | — | high | 90-180 | 5 |
 | [[denmark]] | civil-law | — | unknown | unknown | 0 |
 | [[ecuador]] | civil-law | — | unknown | unknown | 0 |
-| [[spain]] | civil-law | — | high | 90-180 | 0 |
+| [[spain]] | civil-law | — | high | 90-180 | 6 |
 | [[finland]] | civil-law | — | high | 90-180 | 6 |
-| [[france]] | civil-law | — | high | 90-180 | 5 |
-| [[united-kingdom]] | common-law | — | high | 90-180 | 0 |
+| [[france]] | civil-law | — | high | 90-180 | 6 |
+| [[united-kingdom]] | common-law | — | high | 90-180 | 5 |
 | [[georgia]] | civil-law | — | medium | unknown | 0 |
 | [[ghana]] | common-law | — | unknown | unknown | 0 |
 | [[gambia]] | mixed | — | low | unknown | 0 |
@@ -57,7 +57,7 @@ total: 61
 | [[india]] | common-law | — | medium | 180+ | 0 |
 | [[international]] | mixed | — | variable | variable | 0 |
 | [[iceland]] | civil-law | — | unknown | unknown | 0 |
-| [[italy]] | civil-law | — | high | 90-180 | 0 |
+| [[italy]] | civil-law | — | high | 90-180 | 6 |
 | [[japan]] | civil-law | — | high | 90-180 | 0 |
 | [[kenya]] | mixed | — | medium | unknown | 0 |
 | [[south-korea]] | civil-law | — | high | 60-120 | 17 |
@@ -72,7 +72,7 @@ total: 61
 | [[mexico]] | — | — | unknown | unknown | 0 |
 | [[malaysia]] | mixed | — | medium | unknown | 0 |
 | [[nigeria]] | mixed | — | medium | 180+ | 0 |
-| [[netherlands]] | civil-law | — | high | 60-120 | 1 |
+| [[netherlands]] | civil-law | — | high | 60-120 | 5 |
 | [[norway]] | civil-law | — | high | unknown | 0 |
 | [[peru]] | civil-law | — | unknown | unknown | 0 |
 | [[pakistan]] | common-law | — | unknown | unknown | 0 |

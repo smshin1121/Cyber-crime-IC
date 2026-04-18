@@ -32,7 +32,7 @@ iso_code: GB
 key_agencies:
 - '[[uk-nca]]'
 - '[[uk-met-police-cyber]]'
-last_verified: '2026-04-10'
+last_verified: '2026-04-18'
 legal_system: common-law
 notable_cases: []
 operations_participated:
@@ -48,8 +48,13 @@ operations_participated:
 - '[[operation-haechi-v]]'
 - '[[operation-first-light-2024]]'
 region: western-europe
-source_count: 0
-sources: []
+source_count: 5
+sources:
+- '[[2026-04-17_nationalcrimeagency-gov-uk_cybercrime]]'
+- '[[2026-04-18_nationalcrimeagency-gov-uk_international-network]]'
+- '[[2026-04-18_gov-uk_financial-sanctions-guidance-for-ransomware]]'
+- '[[2024-05-07_gov-uk_uk-and-allies-sanction-prolific-cyber-hacker]]'
+- '[[2024-12-04_nationalcrimeagency-gov-uk_operation-destabilise-84-arrests]]'
 title: United Kingdom
 treaty_memberships:
 - date: '2011-05-25'
@@ -61,7 +66,7 @@ treaty_memberships:
   reservations: []
   status: signatory
 type: country
-updated: 2026-04-08
+updated: 2026-04-18
 ---
 
 ## Summary
@@ -169,9 +174,6 @@ Korea-UK cybercrime cooperation is *likely* conducted primarily through multilat
 - **Five Eyes+ engagement:** Korea participates in expanded Five Eyes frameworks for cyber threat information sharing
 - **Budapest Convention:** Both parties since 2011 (UK) and 2024 (Korea), providing mutual MLA basis under the Convention
 
-> [!note]
-> This page is based on general knowledge of UK cybercrime cooperation structures and publicly available information. No collected sources have been ingested for this country profile. Content should be verified against primary sources.
-
 ## Contradictions & Open Questions
 
 - What is the operational impact of Brexit on UK-EU cybercrime cooperation effectiveness?
@@ -180,5 +182,10 @@ Korea-UK cybercrime cooperation is *likely* conducted primarily through multilat
 
 ## References
 
-> [!note]
-> This page was created based on general knowledge. No dedicated sources have been ingested (source_count: 0). Key claims should be verified against NCA annual reports, Home Office publications, and Council of Europe data.
+| # | Source | Publisher | Date | URL |
+|---|---|---|---|---|
+| 1 | NCA Cybercrime | National Crime Agency | 2026-04-17 | https://www.nationalcrimeagency.gov.uk/what-we-do/crime-threats/cybercrime |
+| 2 | International network | National Crime Agency | current | https://www.nationalcrimeagency.gov.uk/what-we-do/how-we-work/providing-specialist-capabilities-for-law-enforcement/international-network |
+| 3 | Financial sanctions guidance for ransomware | Office of Financial Sanctions Implementation | 2026-01-28 | https://www.gov.uk/government/publications/financial-sanctions-guidance-for-ransomware/financial-sanctions-guidance-for-ransomware |
+| 4 | UK and allies sanction prolific cyber hacker | UK Government / FCDO / NCA / NCSC | 2024-05-07 | https://www.gov.uk/government/news/uk-and-allies-sanction-prolific-cyber-hacker |
+| 5 | Operation Destabilise: NCA disrupts multi-billion money laundering networks | National Crime Agency | 2024-12-04 | https://www.nationalcrimeagency.gov.uk/news/operation-destabilise-nca-disrupts-multi-billion-russian-money-laundering-networks-with-links-to-drugs-ransomware-and-espionage-resulting-in-84-arrests |

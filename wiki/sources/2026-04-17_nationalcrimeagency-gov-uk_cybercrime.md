@@ -1,27 +1,31 @@
 ---
 type: source
-title: Cybercrime
+title: "NCA Cybercrime"
 raw_path: raw/press-releases/2026-04-17_nationalcrimeagency-gov-uk_cybercrime.md
-source_type: press-release
+source_type: official-guidance
 publisher: "National Crime Agency"
 author: ""
 publish_date: 2026-04-17
 ingest_date: 2026-04-17
 language: en
-reliability: medium
+reliability: high
 credibility: confirmed
 sensitivity: public
+source_tier: 2
 pages_updated:
-  []
+  - uk-nca
+  - united-kingdom
 key_findings:
-  - "The National Crime Agency (NCA) is the [[united-kingdom|United Kingdom's]] lead law enforcement agency for tackling serious and organised crime. Established on 7 October 2013, replacing the Serious Organised Crime Agency (SOCA), the NCA has a broad mandate covering cybercrime, drug trafficking, economic crime, human trafficking, and child exploitation. Its **National Cyber Crime Unit (NCCU)** is the dedicated cybercrime arm responsible for conducting and coordinating major cyber investigations."
-collection_url: https://www.nationalcrimeagency.gov.uk/what-we-do/crime-threats/cyber-crime
+  - "The NCA describes cybercrime as a global threat and states that international collaboration is essential because offenders and infrastructure are often based overseas."
+  - "The NCA says it works closely with UK police and international law-enforcement partners including Europol, the FBI, and the US Secret Service."
+  - "The page frames the NCA response around five disruption pillars: infrastructure, financial services, initial access and compromise, marketplaces and forums, and UK victims."
+collection_url: https://www.nationalcrimeagency.gov.uk/what-we-do/crime-threats/cybercrime
 created: 2026-04-17
 ---
 ## Source Summary
 
-The National Crime Agency (NCA) is the [[united-kingdom|United Kingdom's]] lead law enforcement agency for tackling serious and organised crime. Established on 7 October 2013, replacing the Serious Organised Crime Agency (SOCA), the NCA has a broad mandate covering cybercrime, drug trafficking, economic crime, human trafficking, and child exploitation. Its **National Cyber Crime Unit (NCCU)** is the dedicated cybercrime arm responsible for conducting and coordinating major cyber investigations.
+This official NCA page explains how the agency frames the cybercrime threat and its response, with direct emphasis on international collaboration, ecosystem disruption, and coordination with foreign partners.
 
 ## Relevance to IC
 
-This source was generated from `raw/press-releases/2026-04-17_nationalcrimeagency-gov-uk_cybercrime.md` to make the raw corpus addressable from the source index.
+It is a strong primary source for the cybercrime remit of [[uk-nca]] and for the cooperation posture described on [[united-kingdom]].

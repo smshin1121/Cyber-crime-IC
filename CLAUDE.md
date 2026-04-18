@@ -8,6 +8,22 @@ The user curates sources, directs analysis, and asks questions. You do everythin
 
 ---
 
+## Knowledge Base Direction
+
+This wiki is a compiled knowledge base, not a raw page-count project.
+
+The primary goal is accumulated interpretation and meaningful connections, not maximizing the number of pages. New sources should usually make the existing wiki more coherent, more comparative, and more explicit about relationships and contradictions.
+
+When deciding between creating a new page and improving an existing page, default to:
+1. Strengthen an existing page's explanation
+2. Add or repair meaningful cross-references
+3. Create or expand a synthesis page in `wiki/analysis/`
+4. Create a new entity page only if it has durable standalone value
+
+Use page creation conservatively. Avoid turning the wiki into a warehouse of thin auto-generated entries.
+
+---
+
 ## ⚠ MANDATORY: Read LESSONS.md before starting work
 
 Every session must begin by reading [`LESSONS.md`](LESSONS.md) (project root). It contains accumulated lessons from past mistakes. Same mistakes are NOT to be repeated.
@@ -572,6 +588,13 @@ created: YYYY-MM-DD
 
 ### INGEST — Processing a New Source
 
+**Pre-check: decide whether a new page is warranted at all.**
+- Does this source mainly deepen an existing page?
+- Would the highest-value output be synthesis in `wiki/analysis/`?
+- Would a new page be thin, duplicative, or naming-fragile?
+
+If yes, prefer updating existing pages and/or analysis rather than creating a new standalone page.
+
 **Step 1: Read** the full raw source.
 
 **Step 2: Discuss** key takeaways with user (skip if batch-ingest).
@@ -582,12 +605,18 @@ created: YYYY-MM-DD
 
 **Step 4: Extract & Integrate** entities.
 - For each entity: update existing page or create new one.
+- Prefer merge over multiplication. If an existing page can absorb the information cleanly, update it instead of creating a sibling page.
 - **Legal information must cite specific articles and note the date.**
 - **Preserve original-language legal terms** in parentheses.
 - For legislation: update the relevant country's `cybercrime_legislation`.
 - For press releases about operations: create/update operation page + all participant pages.
 - For case documents: extract IC elements, legal basis, defendants.
 - For treaties: map provisions article-by-article, update all party country pages.
+
+**Entity creation threshold**
+- Preferred publication threshold for normal `case` and `operation` pages: `source_count >= 5`.
+- If the topic matters but sourcing is still sparse, use an explicitly provisional stub/review-state page.
+- Do not mass-create thin follow-on pages when the same material fits better in a parent page or analysis page.
 
 **Step 5: Maintain Bidirectional Links**
 
@@ -625,7 +654,9 @@ created: YYYY-MM-DD
 
 **Step 2:** Synthesize answer with `[[wikilinks]]` as citations. Use confidence language.
 
-**Step 3:** If the answer is a reusable analysis (comparison, gap analysis, effectiveness assessment), offer to file it in `wiki/analysis/`.
+**Step 3:** If the answer is a reusable analysis (comparison, gap analysis, effectiveness assessment), file or update it in `wiki/analysis/` unless the user explicitly wants an ephemeral answer only.
+
+**Step 4:** If the query reveals a structural gap, update the relevant entity pages and cross-links as part of the same task when feasible.
 
 ### LINT — Wiki Health Check
 
@@ -654,14 +685,16 @@ created: YYYY-MM-DD
 18. Missing confidence qualifiers
 19. Empty sections
 20. Missing title_ko on concept pages
+21. Page exists but adds little beyond what a parent page or analysis page already explains
+22. Thin follow-on page that should be merged, demoted to stub, or replaced by analysis
 
 **LOW:**
-21. Incomplete frontmatter
-22. Naming convention violations
-23. Content duplication
-24. Unlinked entity mentions
-25. Missing multi-language terminology table on concepts
-26. Procedures without common_pitfalls
+23. Incomplete frontmatter
+24. Naming convention violations
+25. Content duplication
+26. Unlinked entity mentions
+27. Missing multi-language terminology table on concepts
+28. Procedures without common_pitfalls
 
 ---
 
@@ -685,6 +718,10 @@ updated: YYYY-MM-DD
 > [!info] Stub
 > This page was auto-created. It will be expanded when more sources are ingested.
 ```
+
+Use stubs sparingly. A stub is a temporary integrity device, not a successful endpoint. During later enrichment, prefer either:
+- promoting it into a fully sourced standalone page, or
+- merging it into a stronger parent or analysis page and removing the weak standalone entry
 
 ---
 
@@ -821,6 +858,11 @@ Slugification: lowercase, spaces/underscores → hyphens, remove special charact
 13. **Update `updated` date** in frontmatter when modifying a page.
 14. **Keep pages under 800 lines.** Split if needed.
 15. **Write wiki content in English.** User interaction can be in any language.
+16. **Prefer synthesis over proliferation.** If new information mainly clarifies relationships or patterns, update existing pages and `wiki/analysis/` rather than creating new standalone pages.
+17. **Use `wiki/analysis/` aggressively for durable insight.** Comparative answers, trend assessments, contradictions, and cross-jurisdiction patterns should become maintained pages.
+18. **Do not publish thin normal pages below the preferred source threshold** unless they are explicitly marked as provisional or stub content.
+19. **Canonicalize entities.** Prefer one canonical page plus aliases over multiple near-duplicate entity pages.
+20. **Measure quality by explanation and connectedness, not page count.**
 
 ---
 
@@ -839,5 +881,7 @@ Slugification: lowercase, spaces/underscores → hyphens, remove special charact
 | Translation uncertain | `> [!note] Translation note` |
 | Two pages same alias | Investigate, merge if same entity |
 | Page > 800 lines | Split by sub-topic or time period |
-| Query result is valuable | Offer to file as analysis page |
+| Query result is valuable | File or update an analysis page |
 | Treaty ratification update | Update both country AND framework pages |
+| New source mostly strengthens existing knowledge | Update existing pages before considering a new page |
+| Proposed new page would be thin | Prefer analysis page, parent-page expansion, or stub/review state |

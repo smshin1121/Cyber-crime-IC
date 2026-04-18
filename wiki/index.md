@@ -1,6 +1,6 @@
 # Wiki Index
 
-*Last updated: 2026-04-14 | Total pages: 4541 | Total sources: 1741*
+*Last updated: 2026-04-14 | Total pages: 4567 | Total sources: 1764*
 
 ## Legal Frameworks (8)
 - [[budapest-convention]] — First binding international treaty on cybercrime; 70+ parties; core IC provisions (Art. 29, 31, 32, 35)
@@ -8,7 +8,7 @@
 - [[second-additional-protocol]] — CETS No. 224; modernizes Budapest with direct provider access, emergency disclosure, JITs, video conferencing; not yet in force
 - [[cloud-act]] — US law enabling executive agreements for cross-border data access; bypasses MLAT; UK first agreement (2022)
 
-## Organizations (97)
+## Organizations (99)
 - [[europol-ec3]] — EU's central coordination hub for cybercrime investigations; coordinated 7 ingested operations
 - [[interpol]] — International Criminal Police Organization; 196 member countries; I-24/7 network; Red Notices; parent of IGCI
 - [[interpol-igci]] — INTERPOL's innovation and cyber hub in Singapore; 196 member countries; HAECHI, Jackal, Synergia, Serengeti, First Light, Sentinel operations
@@ -82,11 +82,11 @@ Recent highlights:
 - [[specialty-principle]] — Extradited person tried only for offense extradition was granted; prevents prosecution scope creep
 - [[nationality-principle]] — State jurisdiction over crimes by nationals abroad; Korean 형법 Art. 3; Cambodia scam centres
 
-## Sources (1741)
-See the sources index (`wiki/sources/_index.md`) for the full list of 1741 dedicated source pages.
+## Sources (1764)
+See the sources index (`wiki/sources/_index.md`) for the full list of 1764 dedicated source pages.
 
 Distribution: Europol 6, INTERPOL 10, US DOJ 3, Korea NPA 1, News 3. Additional operations sourced from Excel batch import (no dedicated source pages).
 
-## Analysis (2)
+## Analysis (3)
 - [[ic-statistics-dashboard]] — 사이버범죄 국제공조 통계 대시보드: INTERPOL 2014-2024 연도별 현황, 2모드 네트워크 중심성, 작전 집계
 
