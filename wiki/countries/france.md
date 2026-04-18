@@ -43,10 +43,13 @@ operations_participated:
 - '[[emotet-takedown]]'
 - '[[proxy-service-takedown-2026-03]]'
 region: western-europe
-source_count: 2
+source_count: 5
 sources:
-- '[[2026-03-11-eurojust-de-fr-online-fraud-group]]'
-- '[[2026-03-12-eurojust-proxy-service-takedown]]'
+- '[[2026-04-17_coe-int_france-octopus-cybercrime-community-country-profile]]'
+- '[[2026-04-17_diplomatie-gouv-fr_france-and-cyber-security]]'
+- '[[2021-08-08_gendarmerie-interieur-gouv-fr_comcybergend-la-gendarmerie-monte-en-puissance-face-a-la-menace-cyber]]'
+- '[[2021-09-15_gendarmerie-interieur-gouv-fr_des-enqueteurs-pour-traquer-les-cyber-criminels]]'
+- '[[2023-11-23_legifrance-gouv-fr_d-cret-n-2023-1083-du-23-novembre-2023-portant-cr-ation-de-l-office-anti-cybercr]]'
 title: French Republic
 treaty_memberships:
 - date: '2006-01-10'
@@ -58,7 +61,7 @@ treaty_memberships:
   reservations: []
   status: signatory
 type: country
-updated: 2026-04-14
+updated: 2026-04-18
 ---
 
 ## Summary

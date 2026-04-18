@@ -87,9 +87,13 @@ lessons_learned:
   - "EMPACT framework provides effective policy umbrella for EU-US joint operations"
 source_count: 5
 sources:
-  - "[[uk-nca-darkode-forum-takedown|UK NCA: "Operation Dark HunTOR press release]]\""
+  - "[[2021-10-26_europol-europa-eu_150-arrested-in-dark-web-drug-bust-as-police-seize-eur-26-million]]"
+  - "[[2021-10-26_dea-gov_department-of-justice-announces-results-of-operation-dark-huntor]]"
+  - "[[2021-10-26_justice-gov_deputy-ag-lisa-monaco-delivers-remarks-on-operation-dark-huntor]]"
+  - "[[2021-10-27_nationalcrimeagency-gov-uk_international-operation-targets-dark-web-drugs-marketplace]]"
+  - "[[2021-01-12_europol-europa-eu_darkmarket-world-s-largest-illegal-dark-web-marketplace-taken-down]]"
 created: 2026-04-10
-updated: 2026-04-10
+updated: 2026-04-18
 operation_role: umbrella
 parent_operation: ""
 summary: "Operation Dark HunTOR was a coordinated international law enforcement action announced on 26 October 2021 that resulted in the arrest of 150 suspected dark web drug traffickers across nine countries. The operation seized approximately EUR 26.7 million (~USD 31 million) in cash and cryptocurrency, 234 kg of drugs, and 45 firearms. Coordinated by [[europol-ec3|Europol's European Cybercrime Centre (EC3)]] and [[eurojust|Eurojust]], Dark HunTOR is almost certainly the largest follow-on enforcement action stemming from a single dark web marketplace seizure, building directly on the January 2021 takedown of [[darkmarket-takedown|DarkMarket]]."

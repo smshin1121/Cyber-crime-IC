@@ -6,7 +6,7 @@ created: 2026-04-08
 updated: 2026-04-14
 ---
 
-# Sources (1677)
+# Sources (1689)
 
 | Source | Type | Publisher | Tier | Reliability | Domain |
 |--------|------|-----------|------|-------------|--------|
@@ -15,6 +15,12 @@ updated: 2026-04-14
 | [[2026-04-14_eurojust_cryptocurrency-mixing-service-used-to-launder-money-taken-do]] | press-release | Eurojust | ? | high | ? |
 | [[2026-04-14_eurojust_european-judicial-cybercrime-network-strengthens-resolve-to]] | press-release | Eurojust | ? | high | ? |
 | [[2524-01-01_techtarget-com_doj-breaks-up-infraud-organization-with-some-help]] | press-release | techtarget.com | ? | medium | ? |
+| [[2026-04-18_microsoft-com_gamarue-threat-profile]] | corporate-reference | Microsoft | 3 | medium | ? |
+| [[2026-04-18_europol-europa-eu_carbanak-cobalt-infographic]] | infographic | Europol | 2 | high | ? |
+| [[2026-04-18_coe-int_germany-octopus-cybercrime-community-country-profile]] | country-profile | Council of Europe | 2 | high | ? |
+| [[2026-04-18_bsi-bund-de_avalanche-botnet-infrastructure]] | official-guidance | Federal Office for Information Security (BSI) | 2 | high | ? |
+| [[2026-04-18_bka-de_our-tasks]] | official-guidance | Bundeskriminalamt | 2 | high | ? |
+| [[2026-04-18_bka-de_cybercrime]] | official-guidance | Bundeskriminalamt | 2 | high | ? |
 | [[2026-04-17_web-guardiacivil-es_ciberdelincuencia-y-delitos-en-internet-gdt]] | press-release | Guardia Civil | ? | medium | ? |
 | [[2026-04-17_web-archive-org_national-cybercrime-action-plan-ncap]] | press-release | Singapore MHA | ? | medium | ? |
 | [[2026-04-17_web-archive-org_home]] | press-release | Cyber Security Agency of Singapore | ? | medium | ? |
@@ -1206,12 +1212,14 @@ updated: 2026-04-14
 | [[2026-04-18_justice-gov_illinois-man-convicted-federal-criminal-charges-operating-subscription-based-computer]] | press-release | US DOJ USAO | ? | high | ? |
 | [[2021-09-15_mdfl_odedeyi-davies-xdedic-indictment]] | court-document | US DOJ (Middle District of Florida) | ? | high | ? |
 | [[2021-09-15_justice-gov_united-states-v-olufemi-odedeyi-and-ibrahim-davies]] | press-release | US DOJ (Middle District of Florida) | ? | high | ? |
+| [[2021-09-15_gendarmerie-interieur-gouv-fr_des-enqueteurs-pour-traquer-les-cyber-criminels]] | official-article | Gendarmerie nationale | 2 | high | ? |
 | [[2026-04-18_justice-gov_grand-jury-indicts-st-louis-man-accused-wire-fraud-and-identity-theft]] | press-release | US DOJ USAO | ? | high | ? |
 | [[2026-04-18_justice-gov_two-texas-men-charged-stealing-over-million-dollars-romance-scam]] | press-release | US DOJ USAO | ? | high | ? |
 | [[2026-04-18_justice-gov_international-money-launderer-sentenced-over-11-years-federal-prison-laundering]] | press-release | US DOJ USAO | ? | high | ? |
 | [[2021-09-08_mdfl_ivanov-tolpintsev-xdedic-extradition]] | court-document | US DOJ (Middle District of Florida) | ? | high | ? |
 | [[2021-09-08_justice-gov_united-states-v-glib-ivanov-tolpintsev]] | press-release | US DOJ (Middle District of Florida) | ? | high | ? |
 | [[2026-04-18_justice-gov_ohio-resident-pleads-guilty-operating-darknet-based-bitcoin-mixer-laundered-over-300]] | press-release | US DOJ USAO | ? | high | ? |
+| [[2021-08-08_gendarmerie-interieur-gouv-fr_comcybergend-la-gendarmerie-monte-en-puissance-face-a-la-menace-cyber]] | official-article | Gendarmerie nationale | 2 | high | ? |
 | [[2026-04-18_justice-gov_two-defendants-plead-guilty-their-roles-helping-cybercriminals-launder-money-part]] | press-release | US DOJ USAO | ? | high | ? |
 | [[2026-04-18_justice-gov_fairfax-man-sentenced-receiving-soliciting-and-promoting-child-pornography]] | press-release | US DOJ USAO | ? | high | ? |
 | [[2021-08-04_justice-gov_united-states-v-cullen-roberts]] | press-release | US DOJ (Eastern District of Virginia) | ? | high | ? |
@@ -1455,6 +1463,7 @@ updated: 2026-04-14
 | [[2026-04-18_justice-gov_euclid-man-pleaded-guilty-distribution-fentanyl-he-ordered-china-and-sold-domestically]] | press-release | US DOJ USAO | ? | high | ? |
 | [[fbi-fin7-cybercrime-group-takedown]] | press-release | FBI (Seattle Field Office) | 2 | high | ? |
 | [[2026-04-18_justice-gov_three-members-notorious-international-cybercrime-group-fin7-custody-role-attacking-over]] | press-release | US DOJ USAO | ? | high | ? |
+| [[2018-08-01_fbi-gov_how-cyber-crime-group-fin7-attacked-and-stole-data-from-hundreds-of-us-companies]] | official-article | FBI | 2 | high | ? |
 | [[2018-07-13_sdfl_adam-miles-dark-web-sentencing]] | court-document | US DOJ (Southern District of Florida) | ? | high | ? |
 | [[2018-07-13_justice-gov_united-states-v-adam-lemar-miles]] | press-release | US DOJ (Southern District of Florida) | ? | high | ? |
 | [[2026-04-18_justice-gov_tennessee-man-indicted-federal-charges-cyberstalking-and-identity-theft-case]] | press-release | US DOJ USAO | ? | high | ? |
@@ -1502,6 +1511,7 @@ updated: 2026-04-14
 | [[2026-04-18_justice-gov_bristol-man-sentenced-10-years-federal-prison-distributing-fentanyl]] | press-release | US DOJ USAO | ? | high | ? |
 | [[portswigger-911-s5-botnet-dismantling]] | news | PortSwigger (The Daily Swig) | 3 | medium-high | ? |
 | [[europol-andromeda-botnet-dismantling]] | press-release | Europol | 2 | high | ? |
+| [[2017-12-04_microsoft-com_microsoft-assists-law-enforcement-help-disrupt-andromeda-botnet]] | corporate-blog | Microsoft | 3 | medium | ? |
 | [[2017-12-04_europol-europa-eu_andromeda-botnet-dismantled-in-international-cyber-operation]] | press-release | Europol | ? | high | ? |
 | [[2017-12-01_cyberscoop-com_ctb-locker-cerber-ransomware-arrests-europol-mcafee]] | press-release | CyberScoop | ? | medium | ? |
 | [[2026-04-18_justice-gov_us-charges-three-chinese-hackers-who-work-internet-security-firm-hacking-three]] | press-release | US DOJ USAO | ? | high | ? |
@@ -1538,6 +1548,7 @@ updated: 2026-04-14
 | [[2026-04-18_justice-gov_child-pornography-charges-brought-against-bay-area-babysitters]] | press-release | US DOJ USAO | ? | high | ? |
 | [[2017-04-24_freemalaysiatoday-com_interpol-finds-9000-compromised-websites]] | press-release | freemalaysiatoday.com | ? | medium | ? |
 | [[2026-04-18_justice-gov_south-carolina-man-charged-interstate-stalking-and-aggravated-id-theft-targeting]] | press-release | US DOJ USAO | ? | high | ? |
+| [[2017-04-01_eurojust-europa-eu_operation-avalanche-closer-look]] | report | Eurojust | 2 | high | ? |
 | [[2026-04-18_justice-gov_san-francisco-resident-sentenced-over-three-years-prison-aggravated-identity-theft]] | press-release | US DOJ USAO | ? | high | ? |
 | [[2026-04-18_justice-gov_former-jefferson-county-resident-indicted-identity-theft-and-student-loan-fraud-charges]] | press-release | US DOJ USAO | ? | high | ? |
 | [[2026-04-18_justice-gov_us-charges-russian-fsb-officers-and-their-criminal-conspirators-hacking-yahoo-and]] | press-release | US DOJ USAO | ? | high | ? |
@@ -1637,6 +1648,7 @@ updated: 2026-04-14
 | [[europol-europol-botnet-takedown-2023]] | press-release | Europol | 2 | high | ? |
 | [[2015-02-24_europol-europa-eu_botnet-taken-down-through-international-law-enforcement-cooperation]] | press-release | Europol | ? | high | ? |
 | [[2026-04-18_justice-gov_jm-9-50000-chip-guidance]] | press-release | US DOJ | ? | high | ? |
+| [[2015-02-16_securelist_the-great-bank-robbery-the-carbanak-apt]] | technical-report | Kaspersky Securelist | 2 | high | ? |
 | [[2015-02-04_fbi-gov_ross-ulbricht-found-guilty-on-all-counts]] | press-release | FBI New York | ? | high | ? |
 | [[2015-01-07_district-court-sd-new-york_united-states-v-ulbricht-2]] | court-document | District Court, S.D. New York | ? | high | ? |
 | [[2015-01-07_district-court-sd-new-york_united-states-v-ulbricht]] | court-document | District Court, S.D. New York | ? | high | ? |

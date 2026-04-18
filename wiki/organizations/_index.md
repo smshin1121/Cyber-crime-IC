@@ -26,7 +26,7 @@ updated: 2026-04-08
 | [[fbi]] | national-agency | Washington, D.C., United States | — | 14 | 0 |
 | [[fbi-cyber-division]] | national-agency | Washington, D.C., United States | — | 75 | 12 |
 | [[german-bka]] | national-agency | Wiesbaden, Germany | — | 2 | 0 |
-| [[germany-bka]] | national-agency | Wiesbaden, Germany | — | 14 | 0 |
+| [[germany-bka]] | national-agency | Wiesbaden, Germany | — | 14 | 5 |
 | [[germany-lka]] | national-agency | One in each of 16 German Länder (e.g. Munich, Stuttgart, Düsseldorf, | — | 4 | 3 |
 | [[indonesia-police]] | national-agency | Indonesia | — | 1 | 0 |
 | [[italy-dcsa]] | national-agency | Rome, Italy | Anti-narcotics coordination; Darknet market investigations | 1 | 0 |
@@ -65,7 +65,7 @@ updated: 2026-04-08
 | [[czechia-police]] | national-unit | Prague, Czech Republic | — | 1 | 2 |
 | [[denmark-police]] | national-unit | Copenhagen, Denmark | — | 4 | 2 |
 | [[dutch-nhtcu]] | national-unit | Netherlands | — | 2 | 0 |
-| [[france-gendarmerie]] | national-unit | Pontoise, France | — | 6 | 1 |
+| [[france-gendarmerie]] | national-unit | Pontoise, France | — | 6 | 5 |
 | [[france-national-police]] | national-unit | Nanterre, France | — | 4 | 3 |
 | [[hong-kong-police]] | national-unit | Hong Kong SAR | — | — | 5 |
 | [[ic3]] | national-unit | Washington, D.C. / West Virginia, United States | — | 1 | 4 |

@@ -33,6 +33,8 @@ operations_participated:
   - "[[operation-cronos-phase1]]"
   - "[[operation-cronos-phase3]]"
   - "[[operation-dark-huntor]]"
+  - "[[operation-avalanche]]"
+  - "[[andromeda-botnet-takedown]]"
   - "[[operation-endgame]]"
   - "[[operation-endgame-phase1]]"
   - "[[operation-endgame-phase2]]"

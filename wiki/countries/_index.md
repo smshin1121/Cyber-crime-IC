@@ -36,12 +36,12 @@ total: 61
 | [[cyprus]] | civil-law | — | unknown | unknown | 0 |
 | [[czech-republic]] | civil-law | — | medium | 90-180 | 4 |
 | [[czechia]] | civil-law | — | unknown | unknown | 0 |
-| [[germany]] | civil-law | — | high | 90-180 | 2 |
+| [[germany]] | civil-law | — | high | 90-180 | 5 |
 | [[denmark]] | civil-law | — | unknown | unknown | 0 |
 | [[ecuador]] | civil-law | — | unknown | unknown | 0 |
 | [[spain]] | civil-law | — | high | 90-180 | 0 |
 | [[finland]] | civil-law | — | high | 90-180 | 6 |
-| [[france]] | civil-law | — | high | 90-180 | 2 |
+| [[france]] | civil-law | — | high | 90-180 | 5 |
 | [[united-kingdom]] | common-law | — | high | 90-180 | 0 |
 | [[georgia]] | civil-law | — | medium | unknown | 0 |
 | [[ghana]] | common-law | — | unknown | unknown | 0 |

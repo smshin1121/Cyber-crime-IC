@@ -29,6 +29,7 @@ operations_participated:
   - "[[operation-killer-bee]]"
   - "[[operation-nervone]]"
   - "[[operation-pleiades]]"
+  - "[[operation-avalanche]]"
   - "[[simda-botnet-takedown]]"
   - "[[global-airport-action-day]]"
   - "[[operation-almost-1-000-suspects-arrested-in-interpol-operation-which-seized-over-129-million]]"

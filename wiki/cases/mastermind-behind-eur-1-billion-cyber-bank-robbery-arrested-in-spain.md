@@ -1,7 +1,7 @@
 ---
 type: case
 title: "Mastermind Behind EUR 1 Billion Cyber Bank Robbery Arrested in Spain"
-case_number: "Source-derived from 2018-03-01_europol-europa-eu_mastermind-behind-eur-1-billion-cyber-bank-robbery-arrested-in-spain"
+case_number: "Source-derived from Europol Carbanak/Cobalt arrest reporting"
 jurisdiction: "International law enforcement action (multi-jurisdictional)"
 jurisdiction_country: "[[international]]"
 case_type: prosecution
@@ -11,56 +11,67 @@ crime_charged:
   - "[[bank-fraud-ic]]"
   - "[[online-fraud-ic]]"
 defendants:
-  - name: "Billion Cyber Bank Robbery"
+  - name: "Unidentified alleged Carbanak/Cobalt mastermind"
     nationality: Unknown
     status: prosecuted
     sentence: ""
-    location_at_arrest: ""
+    location_at_arrest: Spain
 related_operation: "[[operation-mastermind-behind-eur-1-billion-cyber-bank-robbery-arrested-in-spain]]"
 ic_elements:
-  mlat_requests:
-    []
+  mlat_requests: []
   extradition: ""
-  evidence_from_abroad:
-    []
-  foreign_arrests:
-    []
-  asset_freezing:
-    []
+  evidence_from_abroad: []
+  foreign_arrests: []
+  asset_freezing: []
 cooperating_agencies:
   - "[[europol-ec3]]"
+  - "[[fbi]]"
 legal_frameworks_invoked:
   - "[[informal-cooperation]]"
 mechanisms_used:
   - "[[informal-cooperation]]"
 key_legal_issues:
   - "[[malware-ic]]"
-precedent_value: "Source-derived official action page; procedural enrichment from primary filings may still be needed."
-source_count: 1
+  - "[[bank-fraud-ic]]"
+precedent_value: "Strong for cross-border operational context, weak for defendant identity and downstream docket detail."
+source_count: 5
 sources:
   - "[[2018-03-01_europol-europa-eu_mastermind-behind-eur-1-billion-cyber-bank-robbery-arrested-in-spain]]"
+  - "[[europol-carbanakcobalt-mastermind-arrest]]"
+  - "[[2015-02-16_securelist_the-great-bank-robbery-the-carbanak-apt]]"
+  - "[[2026-04-18_europol-europa-eu_carbanak-cobalt-infographic]]"
+  - "[[2018-08-01_fbi-gov_how-cyber-crime-group-fin7-attacked-and-stole-data-from-hundreds-of-us-companies]]"
 created: 2026-04-18
 updated: 2026-04-18
-summary: "The Spanish National Police, in cooperation with Europol, the FBI, Romanian police, Belarusian police, and Taiwanese authorities, arrested the mastermind behind the Carbanak and Cobalt malware campaigns in Spain. The suspect led a cybercrime group that had used Carbanak, Cobalt, and Anunak malware to steal over EUR 1 billion from more than 100 financial institutions across 40+ countries since 2013. Private cybersecurity firms including Kaspersky contributed to the investigation."
+summary: "Spanish authorities, supported by Europol and other international partners, arrested the alleged mastermind behind the Carbanak/Cobalt campaigns in Spain. Public sources firmly support the arrest event and campaign scale but do not cleanly identify the suspect by name within the source set used here."
 ---
 ## Summary
 
-The Spanish National Police, in cooperation with Europol, the FBI, Romanian police, Belarusian police, and Taiwanese authorities, arrested the mastermind behind the Carbanak and Cobalt malware campaigns in Spain. The suspect led a cybercrime group that had used Carbanak, Cobalt, and Anunak malware to steal over EUR 1 billion from more than 100 financial institutions across 40+ countries since 2013. Private cybersecurity firms including Kaspersky contributed to the investigation.
+Spanish authorities, supported by Europol and other international partners, arrested the alleged mastermind behind the Carbanak/Cobalt campaigns in Spain. Public sources firmly support the arrest event and campaign scale but do not cleanly identify the suspect by name within the source set used here.
 
 ## Facts
 
-This case page was generated from [[2018-03-01_europol-europa-eu_mastermind-behind-eur-1-billion-cyber-bank-robbery-arrested-in-spain]] and reflects an official action title from the source corpus.
+The source set links the arrest to a campaign that targeted more than 100 financial institutions across more than 40 countries and was publicly associated with losses of more than EUR 1 billion. The technical tradecraft described in Kaspersky's reporting includes spear-phishing, lateral movement inside bank networks, and ATM or account-manipulation cash-out patterns.
 
 ## International Cooperation Elements
 
-This source-derived page should be enriched with case-level cooperation detail if primary filings or fuller official narratives are collected.
+This page remains valuable because the operational footprint is clear even when the defendant identity is not:
+
+- Spain conducted the arrest
+- [[europol-ec3|Europol EC3]] coordinated internationally
+- the [[fbi]] and additional authorities in Romania, Moldova, Belarus and Taiwan were publicly identified as partners
+- Kaspersky contributed technical intelligence that informed public understanding of the campaign
 
 ## Legal Analysis
 
-The present page is a structured placeholder built from source metadata and may require refinement from primary filings.
+The main integrity issue is identity. The source set used in this repo does not currently include a clean public charging document or court filing that settles the defendant's name and procedural status. To avoid dataset contamination, this page keeps the suspect unidentified. It records only what the current public-source record clearly supports: the arrest event, the campaign scale and the international cooperation pattern.
 
 ## References
 
 | # | Source | Publisher | Date | URL |
 |---|---|---|---|---|
 | 1 | Mastermind Behind EUR 1 Billion Cyber Bank Robbery Arrested in Spain | Europol | 2018-03-01 | https://www.europol.europa.eu/media-press/newsroom/news/mastermind-behind-eur-1-billion-cyber-bank-robbery-arrested-in-spain |
+| 2 | Europol: Mastermind Behind EUR 1 Billion Cyber Bank Robbery Arrested in Spain (Carbanak/Cobalt) | repo source page | 2026-04-10 | [[europol-carbanakcobalt-mastermind-arrest]] |
+| 3 | The Great Bank Robbery: the Carbanak APT | Kaspersky Securelist | 2015-02-16 | https://securelist.com/the-great-bank-robbery-the-carbanak-apt/68732/ |
+| 4 | Carbanak / Cobalt infographic | Europol | current | https://www.europol.europa.eu/cms/sites/default/files/documents/carbanakcobalt.pdf |
+| 5 | How Cyber Crime Group FIN7 Attacked and Stole Data from Hundreds of U.S. Companies | FBI | 2018-08-01 | https://www.fbi.gov/contact-us/field-offices/seattle/news/stories/how-cyber-crime-group-fin7-attacked-and-stole-data-from-hundreds-of-us-companies |

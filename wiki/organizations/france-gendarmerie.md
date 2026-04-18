@@ -1,26 +1,16 @@
 ---
-aliases:
-
-contact_point_for:
-
-cooperation_partners:
-
-country: "[[france]]"
-created: 2026-04-10
-established: 2015
-frameworks_administered:
-
-headquarters: "Pontoise, France"
-key_roles:
-
-last_verified: 2026-04-10
-mandate: "National-competence judicial police unit of the Gendarmerie Nationale responsible"
-mechanisms_operated:
-
-notable_cases:
-
+type: organization
+title: "Centre de lutte contre les criminalités numériques (C3N)"
+aliases: []
 official_name: "Centre de lutte contre les criminalités numériques"
-official_name_ko: "프랑스 국립헌병대 사이버범죄센터 (C3N)"
+official_name_ko: "프랑스 국가헌병대 사이버범죄 대응 센터 (C3N)"
+country: "[[france]]"
+org_type: national-unit
+parent_org: "[[france-gendarmerie-nationale]]"
+headquarters: "Pontoise, France"
+established: 2015
+status: active
+mandate: "National-competence judicial police cybercrime unit within the French Gendarmerie"
 operations_participated:
   - "[[franco-israeli-ceo-fraud]]"
   - "[[operation-cronos-phase1]]"
@@ -28,62 +18,45 @@ operations_participated:
   - "[[operation-endgame]]"
   - "[[operation-endgame-phase2]]"
   - "[[operation-kraken-ghost-platform]]"
-org_type: national-unit
-parent_org: "[[france-gendarmerie-nationale]]"
-source_count: 1
+created: 2026-04-10
+updated: 2026-04-18
+last_verified: 2026-04-18
+source_count: 5
 sources:
-
-status: active
-title: "Centre de lutte contre les criminalités numériques (C3N)"
-type: organization
-updated: 2026-04-14
+  - '[[2021-08-08_gendarmerie-interieur-gouv-fr_comcybergend-la-gendarmerie-monte-en-puissance-face-a-la-menace-cyber]]'
+  - '[[2021-09-15_gendarmerie-interieur-gouv-fr_des-enqueteurs-pour-traquer-les-cyber-criminels]]'
+  - '[[2026-04-17_coe-int_france-octopus-cybercrime-community-country-profile]]'
+  - '[[2026-04-17_diplomatie-gouv-fr_france-and-cyber-security]]'
+  - '[[2019-12-17_legifrance-gouv-fr_circulaire-du-17-d-cembre-2019-relative-la-comp-tence-nationale-concurrente]]'
 ---
 ## Summary
 
-The **Centre de lutte contre les criminalités numériques (C3N)** is France's **Gendarmerie Nationale** cybercrime center, a judicial police unit with national competence attached to the **Judicial Pole of the National Gendarmerie (Pôle Judiciaire de la Gendarmerie Nationale — PJGN)**, located in Pontoise [1].
+The **Centre de lutte contre les criminalités numériques (C3N)** is the French Gendarmerie's national judicial cybercrime unit. It sits inside the broader Gendarmerie cyber architecture and operates as one of the main state bodies handling higher-end cyber investigations with national competence.
 
-The C3N coordinates, at the national level, all investigations conducted by the Gendarmerie's decentralized "Cybergend" network of approximately **5,300 specialized digital investigators**. It is *almost certainly* one of the largest European cybercrime investigative networks by personnel count, distributing specialized tools and methods to field investigators including the "CyberAIDE" intranet, "GendExtract" rapid analysis software, and "Geofadet" geolocation application [1].
+## Mandate and Structure
 
-## Mandate and Authority
+Official Gendarmerie material shows that the cyber command structure created around **COMCyberGEND** centralizes and coordinates the institution's cyber capabilities. Within that structure, C3N and its regional investigative network handle darker-end judicial work linked to the dark web, cryptocurrency-enabled crime, attacks on information systems and other serious cyber-enabled offences.
 
-C3N is part of the French Gendarmerie Nationale (a military-status police force under the Ministry of Interior with judicial police powers). Since 2021, the C3N has been organized into four departments [1]:
+The public-source record also makes clear that the French system is dual-track:
 
-1. **Investigation department** — internet investigators handling cybercrime cases
-2. **Technical department** — development of analysis and investigation tools
-3. **Cyber design and development department**
-4. **Coordination department** — phenomenon analysis and investigator support
+- the **Gendarmerie** side operates through COMCyberGEND and C3N
+- the **Police Nationale** side operates through specialized police cyber offices
 
-## Structure Relevant to Cybercrime IC
-
-- C3N central unit at PJGN Pontoise
-- Cybergend network of ~5,300 field investigators distributed across Gendarmerie brigades
-- Complementary to the Police Nationale's [[france-national-police|OFAC]] (two parallel French cyber investigation networks)
+That division is important for this repo because French participation in multinational operations may appear under either police or gendarmerie channels depending on the case.
 
 ## IC Capabilities
 
-- National coordination role gives C3N leverage over large-scale takedowns
-- Close cooperation with Europol EC3
-- Proven infrastructure seizure capacity (see Retadup)
-- Strong technical tooling development
-
-## Key Operations and Cases
-
-### Operation Retadup (2019)
-
-In summer 2019, C3N — acting on intelligence from antivirus firm Avast — thwarted the **Retadup botnet**, which had infected approximately **1.35 million computers worldwide**. C3N was able to take control of the command-and-control server (located in France) and neutralize the malware remotely. This operation is *highly likely* one of the most technically significant European cyber operations conducted by a single national agency [1].
-
-## Cooperation Track Record
-
-France is a party to the Budapest Convention and a founding Europol member. C3N *almost certainly* maintains active cooperation with Europol EC3 and bilateral partners. The complementary relationship with Police Nationale's [[france-national-police|OFAC]] means France has dual cybercrime investigative capacity.
-
-## Contradictions & Open Questions
-
-- What is the current operational division of labor between C3N (Gendarmerie) and OFAC (Police Nationale)?
-- Does C3N hold the French Budapest Convention 24/7 contact point role, or is it with OFAC?
-- What recent international operations have involved C3N beyond Retadup?
+- national-competence judicial cyber investigations
+- regional investigative support through the Gendarmerie network
+- darkweb and cryptocurrency-related investigative coverage
+- regular interaction with Europol and Budapest-Convention cooperation structures
 
 ## References
 
 | # | Source | Publisher | Date | URL |
 |---|---|---|---|---|
-| [1] | Centre de lutte contre les criminalités numériques | Wikipédia (fr) | n.d. | https://fr.wikipedia.org/wiki/Centre_de_lutte_contre_les_criminalit%C3%A9s_num%C3%A9riques |
+| [1] | COMCyberGEND : la gendarmerie monte en puissance face à la menace cyber | Gendarmerie nationale | 2021-08-08 | https://www.gendarmerie.interieur.gouv.fr/gendinfo/actualites/2021/comcybergend-la-gendarmerie-monte-en-puissance-face-a-la-menace-cyber |
+| [2] | Des enquêteurs pour traquer les cyber criminels | Gendarmerie nationale | 2021-09-15 | https://www.gendarmerie.interieur.gouv.fr/gendinfo/actualites/2021/des-enqueteurs-pour-traquer-les-cyber-criminels |
+| [3] | France - Octopus Cybercrime Community country profile | Council of Europe | current | https://www.coe.int/en/web/octopus/-/france |
+| [4] | France and Cyber security | Ministry for Europe and Foreign Affairs | current | https://www.diplomatie.gouv.fr/en/french-foreign-policy/digital-diplomacy/france-s-international-digital-strategy/ |
+| [5] | Circulaire du 17 décembre 2019 relative à la compétence nationale concurrente | Legifrance | 2019-12-17 | https://www.legifrance.gouv.fr/ |

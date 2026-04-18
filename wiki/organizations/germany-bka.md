@@ -39,13 +39,18 @@ operations_participated:
   - "[[operation-stream-kidflix]]"
 org_type: national-agency
 parent_org: "[[germany-bmi]]"
-source_count: 0
+source_count: 5
 sources:
+  - "[[2026-04-18_bka-de_our-tasks]]"
+  - "[[2026-04-18_bka-de_cybercrime]]"
+  - "[[2026-04-18_bsi-bund-de_avalanche-botnet-infrastructure]]"
+  - "[[2017-04-01_eurojust-europa-eu_operation-avalanche-closer-look]]"
+  - "[[2026-04-18_coe-int_germany-octopus-cybercrime-community-country-profile]]"
 
 status: active
 title: "Bundeskriminalamt (BKA)"
 type: organization
-updated: 2026-04-17
+updated: 2026-04-18
 ---
 ## Summary
 

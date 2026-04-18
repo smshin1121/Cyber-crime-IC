@@ -50,10 +50,13 @@ operations_participated:
 - '[[hive-ransomware-takedown]]'
 - '[[de-ch-crypto-mixer-takedown-2025]]'
 region: western-europe
-source_count: 2
+source_count: 5
 sources:
-- '[[2025-12-01-eurojust-de-ch-crypto-mixer-takedown]]'
-- '[[2026-03-11-eurojust-de-fr-online-fraud-group]]'
+- '[[2026-04-18_bka-de_our-tasks]]'
+- '[[2026-04-18_bka-de_cybercrime]]'
+- '[[2026-04-18_bsi-bund-de_avalanche-botnet-infrastructure]]'
+- '[[2017-04-01_eurojust-europa-eu_operation-avalanche-closer-look]]'
+- '[[2026-04-18_coe-int_germany-octopus-cybercrime-community-country-profile]]'
 title: Federal Republic of Germany
 treaty_memberships:
 - date: '2009-03-09'
@@ -65,7 +68,7 @@ treaty_memberships:
   reservations: []
   status: signatory
 type: country
-updated: 2026-04-14
+updated: 2026-04-18
 ---
 
 ## Summary
