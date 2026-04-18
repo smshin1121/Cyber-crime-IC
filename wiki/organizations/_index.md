@@ -12,7 +12,7 @@ updated: 2026-04-08
 |--------------|------|------------|--------------|------------|---------|
 | [[c-proc]] | international-org | Bucharest, Romania | — | — | 5 |
 | [[icann]] | international-org | — | — | 1 | 0 |
-| [[interpol]] | international-org | Lyon, France | — | 26 | 4 |
+| [[interpol]] | international-org | Lyon, France | — | 27 | 4 |
 | [[interpol-igci]] | international-org | Singapore | — | 14 | 11 |
 | [[unodc]] | international-org | Vienna, Austria | — | — | 8 |
 | [[australia-afp]] | national-agency | Canberra, Australia | — | 8 | 6 |
@@ -103,5 +103,5 @@ updated: 2026-04-08
 | [[german-prosecution]] | prosecutorial-authority | Germany | — | 1 | 0 |
 | [[ncfta]] | public-private-partnership | United States | — | 1 | 0 |
 | [[afripol]] | regional-org | Algiers, Algeria | — | 5 | 0 |
-| [[eurojust]] | regional-org | The Hague, Netherlands | — | 20 | 9 |
-| [[europol-ec3]] | regional-org | The Hague, Netherlands | — | 62 | 9 |
+| [[eurojust]] | regional-org | The Hague, Netherlands | — | 22 | 9 |
+| [[europol-ec3]] | regional-org | The Hague, Netherlands | — | 65 | 9 |

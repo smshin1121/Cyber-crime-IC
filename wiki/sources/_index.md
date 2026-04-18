@@ -6,7 +6,7 @@ created: 2026-04-08
 updated: 2026-04-14
 ---
 
-# Sources (1689)
+# Sources (1691)
 
 | Source | Type | Publisher | Tier | Reliability | Domain |
 |--------|------|-----------|------|-------------|--------|
@@ -117,7 +117,6 @@ updated: 2026-04-14
 | [[2026-04-17_justice-gov_distributor-anom-hardened-encrypted-devices-sentenced-63-months-prison-racketeer]] | press-release | justice.gov | ? | medium | ? |
 | [[2026-04-17_justice-gov_criminal-division-cybersecurity-unit]] | press-release | US Department of Justice | ? | medium | ? |
 | [[2026-04-17_justice-gov_criminal-division-computer-crime-and-intellectual-property-section-ccips]] | press-release | US Department of Justice | ? | medium | ? |
-| [[2026-04-17_justice-gov_administrator-of-nemesis-market-charged-for-role-operating-darknet-marketplace]] | press-release | U.S. District Court for the District of Columbia | ? | high | ? |
 | [[2026-04-17_itlaw-fandom-com_cybercrime-central-unit-of-the-guardia-civil]] | press-release | IT Law Wiki | ? | medium | ? |
 | [[2026-04-17_it-ord-computersweden-se_swedish-cybercrime-centre-sc3]] | press-release | IDG ordlista (Computer Sweden) | ? | medium | ? |
 | [[2026-04-17_interpol-int_interpol-official-website-leadership-and-structure]] | press-release | INTERPOL | ? | high | ? |
@@ -238,7 +237,6 @@ updated: 2026-04-14
 | [[2026-04-17_apicc-info_republic-of-korea-apicc-member-profile]] | press-release | APICC | ? | medium | ? |
 | [[2026-04-17_afp-gov-au_cybercrime]] | press-release | Australian Federal Police | ? | medium | ? |
 | [[2026-04-17_acic-gov-au_official-website]] | press-release | Australian Criminal Intelligence Commission | ? | medium | ? |
-| [[2025-04-17_opa_parsarad-nemesis-indictment]] | court-document | U.S. District Court for the District of Columbia | ? | high | ? |
 | [[2025-03-05_opa_wu-haibo-isoon-indictment]] | court-document | U.S. District Court for the District of Columbia | ? | high | ? |
 | [[2025-01-29_sdtx_heartsender-seizure]] | court-document | U.S. District Court for the Southern District of Texas | ? | high | ? |
 | [[2021-04-16_wdwa_hladyr-fin7-sentencing]] | court-document | U.S. District Court for the Western District of Washington | ? | high | ? |
@@ -503,6 +501,8 @@ updated: 2026-04-14
 | [[2026-04-18_justice-gov_long-beach-man-pleads-guilty-production-and-distribution-images-minors-engaging]] | press-release | US DOJ USAO | ? | high | ? |
 | [[2026-04-18_justice-gov_iranian-national-indicted-operating-online-marketplace-offering-fentanyl-other-drugs]] | press-release | US DOJ USAO | ? | high | ? |
 | [[2026-04-18_justice-gov_iranian-national-indicted-operating-online-marketplace-offering-fentanyl-and-money]] | press-release | US DOJ (Office of Public Affairs) | ? | high | ? |
+| [[2026-04-17_justice-gov_administrator-of-nemesis-market-charged-for-role-operating-darknet-marketplace]] | press-release | U.S. Department of Justice | ? | high | ? |
+| [[2025-04-17_opa_parsarad-nemesis-indictment]] | court-document | U.S. Department of Justice | ? | high | ? |
 | [[2026-04-18_justice-gov_knox-county-man-sentenced-60-years-imprisonment-two-counts-production-child]] | press-release | US DOJ USAO | ? | high | ? |
 | [[2025-04-11_justice-gov_united-states-v-alessandro-sabbagh]] | press-release | US DOJ (Eastern District of Kentucky) | ? | high | ? |
 | [[2025-04-11_edky_sabbagh-darknet-counterfeit-sentencing]] | court-document | US DOJ (Eastern District of Kentucky) | ? | high | ? |
@@ -551,6 +551,7 @@ updated: 2026-04-14
 | [[2025-03-05_justice-gov_i-soon-apt27-indictment]] | press-release | US DOJ | ? | high | ? |
 | [[2025-03-05_doj_isoon-chinese-hackers-charges]] | press-release | US DOJ | ? | high | ? |
 | [[2025-03-05-doj-isoon-chinese-hackers-charges]] | press-release | US Department of Justice | ? | high | ? |
+| [[2025-03-04_treasury-gov_treasury-sanctions-head-of-online-darknet-marketplace-tied-to-fentanyl-sales]] | press-release | U.S. Department of the Treasury | 2 | high | ? |
 | [[2025-03-01_steptoe-com_treasury-department-delists-tornado-cash-following-the-fifth-circuit-s-decision]] | press-release | Steptoe LLP | ? | medium | ? |
 | [[2025-03-01_sifma-org_matthew-r-galeotti-head-of-criminal-division]] | press-release | SIFMA / DOJ | ? | high | ? |
 | [[2025-03-01_police-gov-sg_defenders-in-the-digital-age-police-ns-cybercrime-operators]] | press-release | Singapore Police Force | ? | medium | ? |
@@ -818,6 +819,7 @@ updated: 2026-04-14
 | [[2026-04-18_justice-gov_jumbotron-hacker-and-prolific-child-molester-sentenced-220-years-federal-prison]] | press-release | US DOJ USAO | ? | high | ? |
 | [[2026-04-18_justice-gov_former-privacy-consultant-convicted-cyberstalking-campaign-against-former-roommate-her]] | press-release | US DOJ USAO | ? | high | ? |
 | [[the-record-911-s5-botnet-dismantling]] | news | The Record from Recorded Future News | 3 | medium-high | ? |
+| [[2024-03-21_bka-de_illegaler-darknet-marktplatz-nemesis-market-abgeschaltet]] | press-release | Bundeskriminalamt / ZIT Frankfurt | 2 | high | ? |
 | [[2026-04-18_justice-gov_jury-finds-russian-swedish-operator-bitcoin-fog-guilty-running-darknet-cryptocurrency]] | press-release | US DOJ USAO | ? | high | ? |
 | [[2026-04-18_justice-gov_newport-news-man-sentenced-prolific-card-swiping-operation]] | press-release | US DOJ USAO | ? | high | ? |
 | [[2026-04-18_justice-gov_corinth-man-sentenced-30-years-producing-and-distributing-child-pornography]] | press-release | US DOJ USAO | ? | high | ? |

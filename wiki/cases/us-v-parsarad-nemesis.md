@@ -1,8 +1,8 @@
 ---
 type: case
 title: "United States v. Behrouz Parsarad"
-case_number: 1:25-cr-00120
-jurisdiction: "U.S. District Court, District of Columbia"
+case_number: "Northern District of Ohio prosecution announced 2025-04-17"
+jurisdiction: "U.S. federal prosecution, Northern District of Ohio"
 jurisdiction_country: "[[united-states]]"
 case_type: prosecution
 status: indicted
@@ -24,14 +24,14 @@ ic_elements:
   evidence_from_abroad:
     - Germany
     - Lithuania
-  foreign_arrests:
-    []
+  foreign_arrests: []
   asset_freezing:
-    - "Cryptocurrency and marketplace proceeds linked to Nemesis activity"
+    - "OFAC sanctions and identified virtual currency addresses"
 cooperating_agencies:
   - "[[us-doj]]"
   - "[[fbi-cyber-division]]"
   - "[[germany-bka]]"
+  - "[[eurojust]]"
 legal_frameworks_invoked:
   - "[[mutual-legal-assistance]]"
 mechanisms_used:
@@ -39,77 +39,50 @@ mechanisms_used:
   - "[[informal-cooperation]]"
 key_legal_issues:
   - "[[data-sovereignty]]"
-precedent_value: "High - the case likely demonstrates the delayed but important criminal follow-through that can emerge after a marketplace infrastructure seizure, even when the operator remains outside immediate custody."
-source_count: 1
+  - "[[electronic-evidence]]"
+precedent_value: "High practical value because it links a German-led darknet seizure to later U.S. criminal charges, sanctions and international evidence use."
+source_count: 5
 sources:
   - "[[2025-04-17_opa_parsarad-nemesis-indictment]]"
+  - "[[2026-04-18_justice-gov_iranian-national-indicted-operating-online-marketplace-offering-fentanyl-other-drugs]]"
+  - "[[2025-03-04_treasury-gov_treasury-sanctions-head-of-online-darknet-marketplace-tied-to-fentanyl-sales]]"
+  - "[[2024-03-21_bka-de_illegaler-darknet-marktplatz-nemesis-market-abgeschaltet]]"
+  - "[[2026-04-18_justice-gov_iranian-national-indicted-operating-online-marketplace-offering-fentanyl-and-money]]"
 created: 2026-04-17
-updated: 2026-04-17
-summary: "United States v. Behrouz Parsarad is the public criminal case announced by DOJ in April 2025 against the alleged administrator of Nemesis Market. It provides the post-seizure charging action linked to the March 2024 multinational takedown of the marketplace's infrastructure."
+updated: 2026-04-18
+summary: "United States v. Behrouz Parsarad is the named U.S. prosecution that followed the March 2024 seizure of Nemesis Market infrastructure. DOJ and Treasury materials make clear that the case depends on cross-border cooperation with Germany and Lithuania and on evidence preserved after the takedown."
 ---
 ## Summary
 
-United States v. Behrouz Parsarad is the public criminal case announced by DOJ in April 2025 against the alleged administrator of Nemesis Market. It provides the post-seizure charging action linked to the March 2024 multinational takedown of the marketplace's infrastructure.
+United States v. Behrouz Parsarad is the named U.S. prosecution that followed the March 2024 seizure of Nemesis Market infrastructure. DOJ and Treasury materials make clear that the case depends on cross-border cooperation with Germany and Lithuania and on evidence preserved after the takedown.
 
 ## Facts
 
-DOJ alleged that Parsarad operated Nemesis Market as a darknet marketplace used for narcotics sales, stolen data trafficking, and cybercrime-service transactions. The charging announcement tied the case directly to the earlier seizure of servers and infrastructure associated with the marketplace.
-
-This makes the case particularly useful for the wiki because it closes the gap between disruption and prosecution. The seizure happened first; the named criminal case followed later.
+DOJ alleged that Parsarad founded and operated Nemesis Market, a darknet marketplace that sold narcotics and cybercrime-related services. The official U.S. materials say the market processed more than 400,000 orders, and the case was announced after the infrastructure had already been seized in cooperation with German and Lithuanian partners.
 
 ## International Cooperation Elements
 
-### Evidence Gathering
-
-The public operation record indicates that German and Lithuanian authorities were central to the original seizure phase. That strongly suggests the U.S. prosecution depended on evidence or investigative outputs generated from infrastructure seized abroad.
-
-### Arrest and Extradition
-
-No arrest or extradition was announced with the indictment. The public case therefore remains an operator-at-large prosecution rather than a custody-based proceeding.
-
-### Asset Recovery
-
-Public materials emphasize illicit marketplace proceeds and crypto-linked economic activity, but the charging announcement does not quantify a final seizure or forfeiture amount tied specifically to Parsarad.
+German and Lithuanian assistance is expressly acknowledged in DOJ materials, and the DOJ announcement says the Cybercrime Liaison Prosecutor to [[eurojust]] and the Office of International Affairs provided significant help. Treasury's sanctions release adds a parallel financial-enforcement layer.
 
 ## Legal Analysis
 
-### Jurisdiction
-
-U.S. jurisdiction was *likely* based on Nemesis Market's effects on U.S. victims and users, U.S.-linked criminal transactions, and the broader U.S. role in the multinational investigation.
-
-### Key Legal Issues
-
-- **Post-seizure attribution:** The case shows that infrastructure seizure can produce downstream attribution and charging even if the administrator is not arrested during the takedown itself.
-- **Cross-border marketplace evidence:** The prosecution likely depended on integrating foreign-seized server data into a U.S. charging framework.
-
-### Precedent Value
-
-The case has *high* practical value because it demonstrates that marketplace takedowns need not end as purely technical disruptions; they can mature into identifiable criminal charges later.
+The case is significant because it shows how infrastructure seizure can mature into attribution, sanctions and charges without an immediate arrest. The current public record still leaves open whether Parsarad will ever be brought into custody, but it already provides a concrete model for transnational evidence conversion into a U.S. criminal case.
 
 ## Proceedings Timeline
 
 | Date | Event |
 |------|-------|
-| 2022-10 | Investigative activity tied to Nemesis operation already underway |
-| 2024-03-20 | Nemesis Market infrastructure seized in multinational action |
-| 2025-04-17 | DOJ announces indictment of Behrouz Parsarad |
-
-## Cooperation Effectiveness
-
-The case suggests the Nemesis operation was effective not only in taking the market offline but also in preserving enough evidence for a later charging action. Its present limitation is the lack of a public arrest.
-
-## Korean Relevance (?쒓뎅 愿?⑥꽦)
-
-South Korea was not publicly identified as a participant. The case is still relevant because darknet markets that trade stolen data and cybercrime services routinely create spillover risks for Korean users, institutions, and investigators.
-
-## Contradictions & Open Questions
-
-1. Public materials do not yet show whether Parsarad has been arrested or charged under seal elsewhere.
-2. The extent of Lithuanian evidentiary contribution is not publicly broken out.
-3. It remains unclear whether additional Nemesis operators or moderators were identified.
+| 2022-10 | Nemesis investigation already underway according to BKA |
+| 2024-03-20 | Nemesis infrastructure seized in Germany and Lithuania |
+| 2025-03-04 | OFAC sanctions Parsarad |
+| 2025-04-17 | DOJ and USAO announce charges against Parsarad |
 
 ## References
 
 | # | Source | Publisher | Date | URL |
-|---|--------|-----------|------|-----|
+|---|---|---|---|---|
 | 1 | Administrator of Nemesis Market Charged for Role Operating Darknet Marketplace | DOJ OPA | 2025-04-17 | https://www.justice.gov/opa/pr/administrator-nemesis-market-charged-role-operating-darknet-marketplace |
+| 2 | Iranian National Indicted for Operating Online Marketplace Offering Fentanyl, Other Drugs, and Money Laundering Services | USAO ND Ohio | 2025-04-17 | https://www.justice.gov/usao-ndoh/pr/iranian-national-indicted-operating-online-marketplace-offering-fentanyl-other-drugs |
+| 3 | Treasury Sanctions Head of Online Darknet Marketplace Tied to Fentanyl Sales | U.S. Treasury | 2025-03-04 | https://home.treasury.gov/news/press-releases/sb0040 |
+| 4 | Illegaler Darknet-Marktplatz "Nemesis Market" abgeschaltet | BKA / ZIT | 2024-03-21 | https://www.bka.de/DE/Presse/Listenseite_Pressemitteilungen/2024/Presse2024/240321_PM_Nemesis_Market.html |
+| 5 | Iranian National Indicted for Operating Online Marketplace Offering Fentanyl and Money Laundering Services | DOJ OPA | 2025-04-17 | https://www.justice.gov/opa/pr/iranian-national-indicted-operating-online-marketplace-offering-fentanyl-and-money |

@@ -6,14 +6,16 @@ aliases:
 case_id: CYB-FUP-076
 period: 3
 operation_type: indictment
+operation_role: follow-on
+parent_operation: "[[nemesis-market-takedown]]"
 status: ongoing
 enforcement_type:
   - indictment
 outcome: success
 timeframe:
-  announced: 2026-04-17
-  start: 2026
-  end: 2026-04-17
+  announced: 2025-04-17
+  start: 2025
+  end: 2025-04-17
   ongoing: true
 crime_type: "[[online-fraud-ic]]"
 target_entity: "Behrouz Parsarad"
@@ -21,8 +23,15 @@ lead_agency: "[[us-doj]]"
 coordinating_body: "[[us-doj]]"
 participating_countries:
   - "[[united-states]]"
-participating_agencies:
-
+  - "[[germany]]"
+  - "[[lithuania]]"
+jurisdictions:
+  - "[[united-states]]"
+organizations:
+  - "[[us-doj]]"
+  - "[[fbi-cyber-division]]"
+  - "[[germany-bka]]"
+  - "[[eurojust]]"
 legal_basis:
   - "[[mutual-legal-assistance]]"
 mechanisms_used:
@@ -37,57 +46,49 @@ results:
   decryption_keys_recovered: 0
   victims_notified: 0
   other:
-    - "Defendant-specific follow-on action derived from [[us-v-parsarad-nemesis]]"
-edges:
-
-credibility_index: 4.0
+    - "Follow-on charging action derived from the Nemesis infrastructure seizure"
+    - "Parallel OFAC sanctions action taken in March 2025"
+edges: []
+credibility_index: 4.25
 source_tier: 1
-missing_fields:
-
+missing_fields: []
 related_cases:
   - "[[us-v-parsarad-nemesis]]"
 related_operations:
   - "[[nemesis-market-takedown]]"
-challenges_encountered:
-
-lessons_learned:
-
-source_count: 1
+challenges_encountered: []
+lessons_learned: []
+source_count: 5
 sources:
   - "[[2025-04-17_opa_parsarad-nemesis-indictment]]"
+  - "[[2026-04-18_justice-gov_iranian-national-indicted-operating-online-marketplace-offering-fentanyl-other-drugs]]"
+  - "[[2025-03-04_treasury-gov_treasury-sanctions-head-of-online-darknet-marketplace-tied-to-fentanyl-sales]]"
+  - "[[2024-03-21_bka-de_illegaler-darknet-marktplatz-nemesis-market-abgeschaltet]]"
+  - "[[2026-04-18_justice-gov_iranian-national-indicted-operating-online-marketplace-offering-fentanyl-and-money]]"
+summary: "This follow-on enforcement action captures the post-seizure charging and sanctions phase directed at Behrouz Parsarad after the Nemesis infrastructure seizure."
 created: 2026-04-17
-updated: 2026-04-17
-operation_role: follow-on
-parent_operation: "[[nemesis-market-takedown]]"
-summary: "Behrouz Parsarad Enforcement Action is a defendant-specific enforcement action page derived from [[us-v-parsarad-nemesis]]. It captures the prosecutorial or seizure stage reflected in the linked case record and preserves the operation-side catalog entry for this follow-on action."
-jurisdictions:
-  - "[[united-states]]"
-organizations:
-  - "[[us-doj]]"
-crime_types:
-  - "[[online-fraud-ic]]"
+updated: 2026-04-18
 ---
 ## Summary
 
-Behrouz Parsarad Enforcement Action is a defendant-specific enforcement action page derived from [[us-v-parsarad-nemesis]]. It captures the prosecutorial or seizure stage reflected in the linked case record and preserves the operation-side catalog entry for this follow-on action.
+This follow-on enforcement action captures the post-seizure charging and sanctions phase directed at Behrouz Parsarad after the Nemesis infrastructure seizure.
 
 ## Background
 
-The underlying public case record identifies Behrouz Parsarad as the focal enforcement target. This page exists to represent the concrete enforcement action in the operations catalog without duplicating the deeper procedural detail already maintained on the case page.
-
-## Participating Parties
-
-- Lead agency: [[us-doj]]
-- Jurisdiction country: [[united-states]]
+The operation-side value of this page is that it preserves the shift from technical disruption to named enforcement. Nemesis was taken offline in March 2024. By March and April 2025, U.S. authorities had moved to sanctions and indictment.
 
 ## Results and Impact
 
-- Operation type: `indictment`
-- Case anchor: [[us-v-parsarad-nemesis]]
-- Source coverage: 1 official or catalogued source page(s)
+- 1 indictment announced
+- no public arrest announced
+- sanctions overlay added through OFAC
 
 ## References
 
 | # | Source | Publisher | Date | URL |
 |---|---|---|---|---|
-| [1] | Administrator of Nemesis Market Charged for Role Operating Darknet Marketplace | U.S. District Court for the District of Columbia | Unknown | https://www.justice.gov/opa/pr/administrator-nemesis-market-charged-role-operating-darknet-marketplace |
+| 1 | Administrator of Nemesis Market Charged for Role Operating Darknet Marketplace | DOJ OPA | 2025-04-17 | https://www.justice.gov/opa/pr/administrator-nemesis-market-charged-role-operating-darknet-marketplace |
+| 2 | Iranian National Indicted for Operating Online Marketplace Offering Fentanyl, Other Drugs, and Money Laundering Services | USAO ND Ohio | 2025-04-17 | https://www.justice.gov/usao-ndoh/pr/iranian-national-indicted-operating-online-marketplace-offering-fentanyl-other-drugs |
+| 3 | Treasury Sanctions Head of Online Darknet Marketplace Tied to Fentanyl Sales | U.S. Treasury | 2025-03-04 | https://home.treasury.gov/news/press-releases/sb0040 |
+| 4 | Illegaler Darknet-Marktplatz "Nemesis Market" abgeschaltet | BKA / ZIT | 2024-03-21 | https://www.bka.de/DE/Presse/Listenseite_Pressemitteilungen/2024/Presse2024/240321_PM_Nemesis_Market.html |
+| 5 | Iranian National Indicted for Operating Online Marketplace Offering Fentanyl and Money Laundering Services | DOJ OPA | 2025-04-17 | https://www.justice.gov/opa/pr/iranian-national-indicted-operating-online-marketplace-offering-fentanyl-and-money |

@@ -1,0 +1,31 @@
+---
+type: source
+title: "Illegaler Darknet-Marktplatz \"Nemesis Market\" abgeschaltet"
+collection_url: https://www.bka.de/DE/Presse/Listenseite_Pressemitteilungen/2024/Presse2024/240321_PM_Nemesis_Market.html
+collection_domain: bka.de
+source_type: press-release
+publisher: "Bundeskriminalamt / ZIT Frankfurt"
+author: ""
+publish_date: 2024-03-21
+ingest_date: 2026-04-18
+language: de
+reliability: high
+credibility: confirmed
+sensitivity: public
+source_tier: 2
+pages_updated:
+  - nemesis-market-takedown
+  - us-v-parsarad-nemesis
+key_findings:
+  - "BKA and ZIT announced on 21 March 2024 that the Nemesis Market server infrastructure in Germany and Lithuania had been seized in a coordinated action conducted on 20 March 2024."
+  - "The official BKA release reported over 150,000 user accounts, over 1,100 seller accounts, and cryptocurrency seizures valued at EUR 94,000."
+  - "The release stated that German, U.S. and Lithuanian authorities had been conducting coordinated investigations since October 2022."
+created: 2026-04-18
+---
+## Source Summary
+
+This BKA/ZIT press-release metadata was captured from the official BKA press-result page. It confirms the date of the coordinated Nemesis takedown, the German-Lithuanian server seizure, the EUR 94,000 cryptocurrency seizure figure, and the U.S.-German-Lithuanian cooperation pattern.
+
+## Relevance to IC
+
+This is the strongest public-source anchor in the repo for the Nemesis infrastructure seizure itself. It should be preferred over secondary news coverage for operational facts and seizure figures.

@@ -11,18 +11,19 @@ language: en
 reliability: high
 credibility: confirmed
 sensitivity: public
-pages_updated:
-
+pages_updated: []
 key_findings:
-  - "Secure .gov websites use HTTPS A lock ( Lock Locked padlock ) or https:// means you’ve safely connected to the .gov website. Share sensitive information only on official, secure websites."
+  - "DOJ OPA stated that Behrouz Parsarad launched Nemesis Market in March 2021 and that the market processed more than 400,000 orders."
+  - "The press release says U.S. law enforcement seized Nemesis on 20 March 2024 with German and Lithuanian partners."
+  - "DOJ OPA stated that Office of International Affairs and the Cybercrime Liaison Prosecutor to Eurojust provided significant assistance."
 collection_url: https://www.justice.gov/opa/pr/iranian-national-indicted-operating-online-marketplace-offering-fentanyl-and-money
 created: 2026-04-18
 updated: 2026-04-18
 ---
 ## Source Summary
 
-contraband made accessible on the darknet for more than three years,” said Matthew...from the harms caused by fentanyl and darknet marketplaces and pursuing accountability
+This DOJ Office of Public Affairs release is one of the core official Nemesis sources in the repo. It describes the scale of Nemesis, the charges against Parsarad, the March 2024 seizure and the international assistance provided by German and Lithuanian authorities.
 
 ## Relevance to IC
 
-This source was discovered from Bing search results limited to official DOJ domains.
+This source was discovered from official DOJ search results and corrected using the live DOJ press-release text.

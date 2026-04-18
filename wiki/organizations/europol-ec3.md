@@ -39,6 +39,7 @@ operations_participated:
   - "[[operation-avalanche]]"
   - "[[andromeda-botnet-takedown]]"
   - "[[carbanak-cobalt-takedown]]"
+  - "[[operation-australian-man-arrested-in-germany-accused-of-running-world-s-largest-darknet-marketplace]]"
   - "[[operation-endgame]]"
   - "[[operation-endgame-phase1]]"
   - "[[operation-endgame-phase2]]"

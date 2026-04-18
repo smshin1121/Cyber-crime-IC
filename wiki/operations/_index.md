@@ -172,7 +172,7 @@ updated: 2026-04-14
 | [[operation-us-v-oyebanjo-xdedic]] | CYB-FUP-073 | 3 | completed | 4.00 | 1 |
 | [[operation-us-v-paiva-silk-road-2]] | CYB-FUP-074 | 1 | completed | 4.00 | 1 |
 | [[operation-us-v-pankov-xdedic]] | CYB-FUP-075 | 3 | completed | 4.00 | 1 |
-| [[operation-us-v-parsarad-nemesis]] | CYB-FUP-076 | 3 | ongoing | 4.00 | 1 |
+| [[operation-us-v-parsarad-nemesis]] | CYB-FUP-076 | 3 | ongoing | 4.25 | 1 |
 | [[operation-us-v-peck-dark-web]] | CYB-FUP-077 | 2 | completed | 4.00 | 1 |
 | [[operation-us-v-roberts-dark-web]] | CYB-FUP-078 | 2 | completed | 4.00 | 1 |
 | [[operation-us-v-roger-thomas-clark-silk-road]] | CYB-FUP-079 | 3 | completed | 4.00 | 1 |
@@ -1117,7 +1117,7 @@ updated: 2026-04-14
 | [[operation-winnebago-county-woman-pleads-guilty-to-wire-fraud-for-stealing-funds-from-a-booster-club]] | CYB-FUP-795 | 3 | completed | 4.00 | 1 |
 | [[operation-almost-1-000-suspects-arrested-in-interpol-operation-which-seized-over-129-million]] | CYB-FUP-796 | 2 | completed | 4.00 | 1 |
 | [[operation-armed-dark-web-drug-trafficker-sentenced-to-over-a-decade-in-federal-prison]] | CYB-FUP-797 | 3 | completed | 4.00 | 1 |
-| [[operation-australian-man-arrested-in-germany-accused-of-running-world-s-largest-darknet-marketplace]] | CYB-FUP-798 | 2 | completed | 4.00 | 1 |
+| [[operation-australian-man-arrested-in-germany-accused-of-running-world-s-largest-darknet-marketplace]] | CYB-FUP-798 | 2 | completed | 4.00 | 2 |
 | [[operation-bitfinex-hacker-sentenced-in-money-laundering-conspiracy-involving-billions-in-stolen-cryptocurrency]] | CYB-FUP-799 | 3 | completed | 4.00 | 1 |
 | [[operation-bulletproof-vpn-seized]] | CYB-FUP-800 | 2 | completed | 4.00 | 1 |
 | [[operation-canadian-cybercriminal-sentenced-to-a-year-in-prison-for-nft-theft-scheme]] | CYB-FUP-801 | 3 | completed | 4.00 | 1 |
