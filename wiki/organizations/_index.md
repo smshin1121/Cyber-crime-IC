@@ -24,7 +24,7 @@ updated: 2026-04-08
 | [[dod-inspector-general]] | national-agency | [[united-states]] | — | — | 1 |
 | [[dutch-police]] | national-agency | Netherlands | — | 1 | 0 |
 | [[fbi]] | national-agency | Washington, D.C., United States | — | 14 | 0 |
-| [[fbi-cyber-division]] | national-agency | Washington, D.C., United States | — | 76 | 12 |
+| [[fbi-cyber-division]] | national-agency | Washington, D.C., United States | — | 75 | 12 |
 | [[german-bka]] | national-agency | Wiesbaden, Germany | — | 2 | 0 |
 | [[german-police]] | national-agency | — | — | 1 | 0 |
 | [[germany-bka]] | national-agency | Wiesbaden, Germany | — | 16 | 5 |
@@ -55,9 +55,9 @@ updated: 2026-04-08
 | [[switzerland-ncsc]] | national-agency | [[switzerland]] | — | — | 1 |
 | [[thailand-police]] | national-agency | Bangkok, Thailand | — | — | 0 |
 | [[thailand-royal-police]] | national-agency | Bangkok, Thailand | — | — | 8 |
-| [[uk-nca]] | national-agency | London, United Kingdom | — | 17 | 13 |
+| [[uk-nca]] | national-agency | London, United Kingdom | — | 19 | 13 |
 | [[us-dhs]] | national-agency | Washington, D.C., United States | Homeland Security Investigations (HSI) — transnational cybercrime investigation; Coordination with foreign LEAs on cyber-enabled fraud | 6 | 0 |
-| [[us-doj]] | national-agency | Washington, D.C., United States | — | 1171 | 5 |
+| [[us-doj]] | national-agency | Washington, D.C., United States | — | 1163 | 5 |
 | [[us-treasury]] | national-agency | Washington, D.C., United States | — | 6 | 8 |
 | [[usdoj]] | national-agency | Washington, D.C., United States | — | 9 | 0 |
 | [[armenia-police]] | national-unit | Yerevan, Armenia | — | 2 | 3 |
@@ -77,7 +77,7 @@ updated: 2026-04-08
 | [[latvia-state-police]] | national-unit | [[latvia]] | — | 1 | 1 |
 | [[lithuania-police]] | national-unit | Saltoniškių g. 19, Vilnius 08105, Lithuania | — | 2 | 3 |
 | [[mauritius-police-cybercrime]] | national-unit | [[mauritius]] | — | — | 1 |
-| [[netherlands-politie]] | national-unit | Driebergen-Rijsenburg, Netherlands | — | 19 | 4 |
+| [[netherlands-politie]] | national-unit | Driebergen-Rijsenburg, Netherlands | — | 20 | 4 |
 | [[norway-kripos]] | national-unit | [[norway]] | — | — | 1 |
 | [[norway-nc3]] | national-unit | [[norway]] | — | — | 1 |
 | [[poland-police]] | national-unit | ul. Wąwozowa 18, Warsaw, Poland | — | — | 3 |
@@ -86,8 +86,8 @@ updated: 2026-04-08
 | [[seoul-metropolitan-police]] | national-unit | Jongno-gu, Seoul, South Korea | — | 1 | 3 |
 | [[singapore-police]] | national-unit | Singapore | — | 1 | 7 |
 | [[south-africa-hawks]] | national-unit | [[south-africa]] | — | — | 1 |
-| [[spain-guardia-civil]] | national-unit | Madrid, Spain | Guardia Civil cybercrime investigation; 24/7 cybercrime contact function | 1 | 2 |
-| [[spain-national-police]] | national-unit | Madrid, Spain | National and transnational cybercrime investigation; National Police 24/7 cybercrime contact function | — | 2 |
+| [[spain-guardia-civil]] | national-unit | Madrid, Spain | Guardia Civil cybercrime investigation; 24/7 cybercrime contact function | 2 | 2 |
+| [[spain-national-police]] | national-unit | Madrid, Spain | National and transnational cybercrime investigation; National Police 24/7 cybercrime contact function | 1 | 2 |
 | [[sweden-police]] | national-unit | Stockholm, Sweden | — | 4 | 3 |
 | [[ukraine-police]] | national-unit | Kyiv, Ukraine | — | 4 | 3 |
 | [[us-dcis]] | national-unit | Alexandria, Virginia, United States | — | 2 | 4 |
@@ -107,5 +107,5 @@ updated: 2026-04-08
 | [[german-prosecution]] | prosecutorial-authority | Germany | — | 1 | 0 |
 | [[ncfta]] | public-private-partnership | United States | — | 1 | 0 |
 | [[afripol]] | regional-org | Algiers, Algeria | — | 7 | 0 |
-| [[eurojust]] | regional-org | The Hague, Netherlands | — | 25 | 9 |
-| [[europol-ec3]] | regional-org | The Hague, Netherlands | — | 66 | 9 |
+| [[eurojust]] | regional-org | The Hague, Netherlands | — | 31 | 9 |
+| [[europol-ec3]] | regional-org | The Hague, Netherlands | — | 70 | 9 |

@@ -1,0 +1,93 @@
+---
+type: operation
+title: "Germany-Romania Trusted Seller Account Fraud Takedown (2025)"
+aliases:
+  - "Large-scale fraud using trusted online seller accounts uncovered"
+operation_type: joint-investigation
+operation_role: umbrella
+parent_operation: ""
+status: completed
+case_id: CYB-2025-625
+period: 3
+enforcement_type:
+  - arrest
+  - search
+  - seizure
+outcome: success
+credibility_index: 4.5
+source_tier: 2
+edges: []
+missing_fields: []
+timeframe:
+  announced: 2025-06-25
+  start: 2024-12
+  end: 2025-06-24
+  ongoing: false
+crime_type: "[[online-fraud-ic]]"
+target_entity: "Criminal group hacking trusted online seller accounts to run marketplace fraud"
+lead_agency: "[[eurojust]]"
+coordinating_body: "[[eurojust]]"
+participating_countries:
+  - "[[germany]]"
+  - "[[romania]]"
+  - "[[austria]]"
+participating_agencies:
+  - "[[eurojust]]"
+legal_basis:
+  - "[[joint-investigation-team]]"
+  - "[[european-arrest-warrant]]"
+mechanisms_used:
+  - "[[joint-investigation-team]]"
+  - "[[european-arrest-warrant]]"
+  - "[[search-seizure]]"
+results:
+  arrests: 10
+  indictments: 0
+  servers_seized: 0
+  domains_seized: 0
+  cryptocurrency_seized: ""
+  decryption_keys_recovered: 0
+  victims_notified: 0
+  other:
+    - "405 seller accounts compromised"
+    - "Damages exceeded EUR 400,000"
+related_cases: []
+related_operations: []
+challenges_encountered: []
+lessons_learned:
+  - "Marketplace-account fraud can require a full JIT when offenders, infrastructure, and evidence are split across several EU states."
+source_count: 1
+sources:
+  - "[[2025-06-25_eurojust_large-scale-fraud-using-trusted-online-seller-accounts-uncovered]]"
+created: 2026-04-19
+updated: 2026-04-19
+summary: "Eurojust-supported Germany-Romania action against a cyber-enabled fraud group that hijacked trusted seller accounts, using a JIT, EAW procedures, and coordinated action days."
+jurisdictions:
+  - "[[germany]]"
+  - "[[romania]]"
+  - "[[austria]]"
+organizations:
+  - "[[eurojust]]"
+crime_types:
+  - "[[online-fraud-ic]]"
+---
+## Summary
+
+German and Romanian authorities dismantled a cyber-enabled fraud group that hijacked trusted online seller accounts and used them to sell goods that would never arrive. Eurojust supported the operation through a **joint investigation team** and later through **European Arrest Warrant** procedures.
+
+## Background
+
+The group used phishing to steal credentials from legitimate online sellers, then took over the accounts and posted fake offers. Because customers trusted the established seller reputations, the fraud generated substantial losses.
+
+## Results and Impact
+
+- four suspects arrested in Romania and three in Germany during the December 2024 phase
+- three additional members detained in Romania on 24 June 2025
+- house searches in Germany, Romania, and Austria
+- more than 405 seller accounts compromised
+
+## References
+
+| # | Source | Publisher | Date | URL |
+|---|---|---|---|---|
+| 1 | Large-scale fraud using trusted online seller accounts uncovered | Eurojust | 2025-06-25 | https://www.eurojust.europa.eu/news/large-scale-fraud-using-trusted-online-seller-accounts-uncovered |

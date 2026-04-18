@@ -52,7 +52,7 @@ results:
 related_cases:
   - "[[us-v-gallyamov-qakbot]]"
 related_operations:
-  - "[[operation-us-v-gallyamov-qakbot]]"
+  - "[[operation-endgame-phase2]]"
 challenges_encountered: []
 lessons_learned: []
 source_count: 2

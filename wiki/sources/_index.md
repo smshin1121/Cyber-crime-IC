@@ -6,7 +6,7 @@ created: 2026-04-08
 updated: 2026-04-14
 ---
 
-# Sources (1764)
+# Sources (1770)
 
 | Source | Type | Publisher | Tier | Reliability | Domain |
 |--------|------|-----------|------|-------------|--------|
@@ -374,6 +374,8 @@ updated: 2026-04-14
 | [[2026-04-18_justice-gov_tohatchi-man-indicted-federal-assault-charges]] | press-release | US DOJ USAO | ? | high | ? |
 | [[2026-04-18_justice-gov_massachusetts-man-pleads-guilty-knowingly-concealing-source-material-support-or]] | press-release | US DOJ USAO | ? | high | ? |
 | [[2026-04-18_justice-gov_federal-correctional-officer-indicted-receipt-bribe-public-official]] | press-release | US DOJ USAO | ? | high | ? |
+| [[2025-11-05_eurojust_eurojust-coordinates-major-operation-against-eur-300-million-global-credit-card-fraud-18]] | press-release | Eurojust | 2 | high | ? |
+| [[2025-11-04_eurojust_decisive-actions-against-cryptocurrency-scammers-earning-over-eur-600-million]] | press-release | Eurojust | 2 | high | ? |
 | [[2025-11-01_police-gov-sg_a-successful-asean-cybercrime-conference-2025]] | press-release | Singapore Police Force | ? | medium | ? |
 | [[2025-10-25_unodc-org_un-convention-against-cybercrime-opens-for-signature-in-hanoi-viet-nam]] | press-release | UNODC | ? | medium | ? |
 | [[2026-04-18_justice-gov_post-falls-man-indicted-sexual-exploitation-child-distribution-child-sexual-abuse]] | press-release | US DOJ USAO | ? | high | ? |
@@ -395,6 +397,7 @@ updated: 2026-04-14
 | [[2025-09-25_interpol-int_operation-haechi-vi]] | press-release | INTERPOL | ? | high | ? |
 | [[2025-09-25-interpol-operation-haechi-vi]] | press-release | INTERPOL | ? | high | ? |
 | [[2026-04-18_justice-gov_man-grays-harbor-county-washington-pleads-guilty-possession-narcotics-intent]] | press-release | US DOJ USAO | ? | high | ? |
+| [[2025-09-23_eurojust_crypto-fraud-over-100-million-euros-across-europe]] | press-release | Eurojust | ? | high | ? |
 | [[2026-04-18_justice-gov_parolee-indicted-illegal-possession-firearm]] | press-release | US DOJ USAO | ? | high | ? |
 | [[2026-04-18_justice-gov_independence-pair-indicted-drug-and-firearms-offenses]] | press-release | US DOJ USAO | ? | high | ? |
 | [[2026-04-18_justice-gov_shiprock-man-indicted-federal-sexual-assault-and-kidnapping-charges]] | press-release | US DOJ USAO | ? | high | ? |
@@ -442,6 +445,7 @@ updated: 2026-04-14
 | [[2026-04-18_justice-gov_foreign-national-indicted-wire-fraud-scheme]] | press-release | US DOJ USAO | ? | high | ? |
 | [[2026-04-18_justice-gov_physician-sentenced-18-years-prison-operating-pill-mill-his-northwest-dc-medical]] | press-release | US DOJ USAO | ? | high | ? |
 | [[2026-04-18_justice-gov_lone-american-indicted-international-drug-trafficking-investigation-sentenced-five]] | press-release | US DOJ USAO | ? | high | ? |
+| [[2025-06-25_eurojust_large-scale-fraud-using-trusted-online-seller-accounts-uncovered]] | press-release | Eurojust | 2 | high | ? |
 | [[2026-04-18_justice-gov_mexican-national-sentenced-prison-role-drug-ring-courier]] | press-release | US DOJ USAO | ? | high | ? |
 | [[2026-04-18_justice-gov_seven-georgians-indicted-operating-online-fentanyl-meth-marketplace]] | press-release | US DOJ USAO | ? | high | ? |
 | [[2026-04-18_justice-gov_sacramento-woman-pleads-guilty-conspiracy-distribute-fentanyl]] | press-release | US DOJ USAO | ? | high | ? |
@@ -496,6 +500,7 @@ updated: 2026-04-14
 | [[2026-04-18_justice-gov_oklahoma-man-sentenced-30-years-prison-sexually-exploiting-children]] | press-release | US DOJ USAO | ? | high | ? |
 | [[2026-04-18_justice-gov_columbia-sex-offender-charged-child-pornography-offense]] | press-release | US DOJ USAO | ? | high | ? |
 | [[2026-04-18_justice-gov_administrator-online-criminal-marketplace-extradited-kosovo-united-states]] | press-release | US DOJ USAO | ? | high | ? |
+| [[2025-05-13_eurojust_international-coalition-uncovers-eur-3-million-online-investment-fraud]] | press-release | Eurojust | 2 | high | ? |
 | [[2025-05-12_wdpa_vlastos-darknet-sentencing]] | court-document | US DOJ (Western District of Pennsylvania) | ? | high | ? |
 | [[2025-05-12_justice-gov_united-states-v-george-sotiris-vlastos]] | press-release | US DOJ (Western District of Pennsylvania) | ? | high | ? |
 | [[2025-05-10_nltimes-nl_german-dutch-authorities-shut-down-crypto-swap-service-in-major-money-laundering]] | press-release | NL Times | ? | medium | ? |
@@ -602,6 +607,7 @@ updated: 2026-04-14
 | [[2025-01-30_cyberscoop-com_department-of-justice-partners-with-dutch-police-to-break-up-heartsender-network]] | press-release | CyberScoop | ? | medium | ? |
 | [[2025-01-30-europol-operation-talent]] | press-release | Europol | ? | high | ? |
 | [[2025-01-29_justice-gov_justice-department-announces-seizure-of-cybercrime-websites-selling-hacking-tool]] | press-release | US DOJ | ? | high | ? |
+| [[2025-01-27_eurojust_illegal-financial-service-launder-millions-busted]] | press-release | Eurojust | ? | high | ? |
 | [[2025-01-23_nltimes-nl_dutch-police-seize-eur-41-million-in-cryptocurrency-in-record-cybercrime-bust]] | press-release | NL Times | ? | medium | ? |
 | [[2026-04-18_justice-gov_orange-county-man-sentenced-75-months-distributing-methamphetamine-and-selling-illegal]] | press-release | US DOJ USAO | ? | high | ? |
 | [[2026-04-18_justice-gov_dark-web-moderator-advertising-child-sexual-abuse-material-sentenced-15-years]] | press-release | US DOJ USAO | ? | high | ? |

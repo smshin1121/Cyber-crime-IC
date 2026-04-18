@@ -24,7 +24,7 @@ updated: 2026-04-18
 ---
 ## Source Summary
 
-Joanna De Alba (Dark Web Narcotics Trafficker) Enforcement Action is a defendant-specific enforcement action page derived from [[us-v-joanna-de-alba-dark-web]]. It captures the prosecutorial or seizure stage reflected in the linked case record and preserves the operation-side catalog entry for this follow-on action.
+This EDNY press release documents the November 2021 sentencing of Joanna De Alba for dark-web narcotics trafficking connected to Wall Street Market. In the wiki, the release now supports the canonical case [[dark-web-narcotics-trafficker-sentenced-to-96-months-in-prison-for-distributing-fentanyl-heroin-methamphetamin]] and the corresponding operation [[operation-dark-web-narcotics-trafficker-sentenced-to-96-months-in-prison-for-distributing-fentanyl-heroin-methamphetamin]] rather than a duplicate defendant-specific follow-on page.
 
 ## Relevance to IC
 

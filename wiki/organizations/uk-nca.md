@@ -38,6 +38,8 @@ operations_participated:
   - "[[dridex-operations]]"
   - "[[operation-morpheus]]"
   - "[[operation-power-off]]"
+  - "[[operation-eur-3m-online-investment-fraud-2025]]"
+  - "[[operation-eur-300m-global-credit-card-fraud-2025]]"
   - "[[ramnit-botnet-takedown]]"
   - "[[vpnlab-takedown]]"
 org_type: national-agency

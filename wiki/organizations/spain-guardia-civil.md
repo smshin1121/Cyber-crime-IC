@@ -22,6 +22,7 @@ frameworks_administered: []
 mechanisms_operated: []
 operations_participated:
   - "[[operation-cronos-phase3]]"
+  - "[[operation-eur-100m-illegal-financial-service-laundering-2025]]"
 notable_cases: []
 contact_point_for:
   - "[[24-7-network]]"

@@ -20,7 +20,8 @@ cooperation_partners:
   - "[[spain-guardia-civil]]"
 frameworks_administered: []
 mechanisms_operated: []
-operations_participated: []
+operations_participated:
+  - "[[operation-eur-100m-crypto-investment-fraud-2025]]"
 notable_cases: []
 contact_point_for:
   - "[[24-7-network]]"

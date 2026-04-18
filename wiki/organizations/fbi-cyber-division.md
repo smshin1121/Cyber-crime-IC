@@ -70,7 +70,6 @@ operations_participated:
   - "[[operation-us-v-benthall-silk-road-2]]"
   - "[[operation-us-v-cazes-alphabay]]"
   - "[[operation-us-v-dekhtyarchuk-marketplace-a]]"
-  - "[[operation-us-v-gallyamov-qakbot]]"
   - "[[operation-us-v-galochkin-trickbot-conti]]"
   - "[[operation-us-v-ghinkul-dridex]]"
   - "[[operation-us-v-gudmunds-darkode]]"

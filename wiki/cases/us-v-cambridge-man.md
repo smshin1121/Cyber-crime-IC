@@ -14,7 +14,7 @@ defendants:
     status: sentenced
     sentence: ""
     location_at_arrest: ""
-related_operation: "[[operation-us-v-cambridge-man]]"
+related_operation: ""
 ic_elements:
   mlat_requests:
     []

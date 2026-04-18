@@ -6,7 +6,7 @@ created: 2026-04-08
 updated: 2026-04-14
 ---
 
-# Operations (1330)
+# Operations (1323)
 
 | Operation | Case ID | Period | Status | CI | Tier |
 |-----------|---------|--------|--------|----|------|
@@ -96,9 +96,15 @@ updated: 2026-04-14
 | [[operation-secure-interpol]] | CYB-2025-012 | 3 | completed | 1.85 | 2 |
 | [[de-ch-crypto-mixer-takedown-2025]] | CYB-2025-013 | 3 | completed | 3.50 | 1 |
 | [[belgium-netherlands-phishing-gang]] | CYB-2025-051 | 3 | completed | 4.22 | 1 |
+| [[operation-eur-3m-online-investment-fraud-2025]] | CYB-2025-0513 | 3 | ongoing | 4.50 | 2 |
 | [[xhelper-upi-money-mule]] | CYB-2025-052 | 1 | disputed | 0.80 | 4 |
+| [[operation-eur-600m-crypto-scam-network-2025]] | CYB-2025-1104 | 3 | completed | 4.60 | 2 |
+| [[operation-eur-300m-global-credit-card-fraud-2025]] | CYB-2025-1105 | 3 | completed | 4.70 | 2 |
+| [[operation-germany-romania-trusted-seller-fraud-2025]] | CYB-2025-625 | 3 | completed | 4.50 | 2 |
 | [[proxy-service-takedown-2026-03]] | CYB-2026-001 | 3 | completed | 3.50 | 1 |
-| [[operation-de-fr-online-fraud-group-2026]] | CYB-FUP-001 | 3 | completed | 4.00 | 1 |
+| [[operation-de-fr-online-fraud-group-2026]] | CYB-2026-031 | 3 | completed | 4.40 | 2 |
+| [[operation-eur-100m-crypto-investment-fraud-2025]] | CYB-EU-2025-019 | 4 | completed | 4.30 | 1 |
+| [[operation-eur-100m-illegal-financial-service-laundering-2025]] | CYB-EU-2025-020 | 4 | completed | 4.32 | 1 |
 | [[operation-emotet-disruption-ladybird]] | CYB-FUP-002 | 2 | completed | 4.00 | 1 |
 | [[operation-in-re-bidencash-marketplace-seizure]] | CYB-FUP-003 | 3 | completed | 4.00 | 1 |
 | [[operation-in-re-heartsender-seizure]] | CYB-FUP-004 | 3 | completed | 4.00 | 1 |
@@ -130,7 +136,6 @@ updated: 2026-04-14
 | [[operation-us-v-evan-hernandez-dark-web]] | CYB-FUP-030 | 2 | completed | 4.00 | 1 |
 | [[operation-us-v-farrell-silk-road-2]] | CYB-FUP-031 | 1 | completed | 4.00 | 1 |
 | [[operation-us-v-fatukala-cocaine-dark-web]] | CYB-FUP-032 | 3 | completed | 4.00 | 1 |
-| [[operation-us-v-gallyamov-qakbot]] | CYB-FUP-033 | 3 | ongoing | 4.00 | 1 |
 | [[operation-us-v-galochkin-trickbot-conti]] | CYB-FUP-034 | 3 | ongoing | 4.00 | 1 |
 | [[operation-us-v-gary-davis-silk-road]] | CYB-FUP-035 | 1 | completed | 4.00 | 1 |
 | [[operation-us-v-ghinkul-dridex]] | CYB-FUP-036 | 1 | completed | 4.00 | 1 |
@@ -145,7 +150,6 @@ updated: 2026-04-14
 | [[operation-us-v-holly-adams-dark-web]] | CYB-FUP-045 | 3 | completed | 4.00 | 1 |
 | [[operation-us-v-ivanov-tolpintsev-xdedic]] | CYB-FUP-046 | 2 | completed | 4.00 | 1 |
 | [[operation-us-v-jason-arnold-dark-web]] | CYB-FUP-047 | 2 | completed | 4.00 | 1 |
-| [[operation-us-v-joanna-de-alba-dark-web]] | CYB-FUP-048 | 2 | completed | 4.00 | 1 |
 | [[operation-us-v-john-cruz-dark-web]] | CYB-FUP-049 | 3 | completed | 4.00 | 1 |
 | [[operation-us-v-john-mckernan-dark-web]] | CYB-FUP-050 | 3 | completed | 4.00 | 1 |
 | [[operation-us-v-kancharla-dark-web]] | CYB-FUP-051 | 2 | completed | 4.00 | 1 |
@@ -332,7 +336,6 @@ updated: 2026-04-14
 | [[operation-russian-malware-developer-pleads-guilty-to-conspiracy-to-commit-wire-and-computer-fraud]] | CYB-FUP-1121 | 3 | completed | 4.00 | 1 |
 | [[operation-russian-man-found-guilty-of-hacking-into-three-bay-area-tech-companies]] | CYB-FUP-1122 | 2 | completed | 4.00 | 1 |
 | [[operation-russian-national-and-bitcoin-exchange-charged-in-21-count-indictment-for-operating-alleged-international-money]] | CYB-FUP-1123 | 1 | ongoing | 4.00 | 1 |
-| [[operation-russian-national-and-leader-of-qakbot-malware-conspiracy-indicted-in-long-running-global-ransomware-scheme]] | CYB-FUP-1124 | 3 | ongoing | 4.00 | 1 |
 | [[operation-russian-national-charged-in-hacking-scheme-targeting-pittsburgh-national-golf-course]] | CYB-FUP-1125 | 1 | ongoing | 4.00 | 1 |
 | [[operation-russian-national-charged-with-decade-long-series-of-hacking-and-bank-fraud-offenses-resulting-in-tens-of-milli-2]] | CYB-FUP-1126 | 1 | ongoing | 4.00 | 1 |
 | [[operation-russian-national-charged-with-decade-long-series-of-hacking-and-bank-fraud-offenses-resulting-in-tens-of-milli]] | CYB-FUP-1127 | 1 | ongoing | 4.00 | 1 |
@@ -638,7 +641,6 @@ updated: 2026-04-14
 | [[operation-us-v-rogelio-pena]] | CYB-FUP-315 | 3 | completed | 4.00 | 1 |
 | [[operation-us-v-rostislav-panev]] | CYB-FUP-316 | 3 | completed | 4.00 | 1 |
 | [[operation-us-v-rushan-lavar-reed-and-celeste-nicole-reed]] | CYB-FUP-317 | 3 | completed | 4.00 | 1 |
-| [[operation-us-v-rustam-rafailevich-gallyamov]] | CYB-FUP-318 | 3 | ongoing | 4.00 | 1 |
 | [[operation-us-v-ryan-thomas-carver]] | CYB-FUP-319 | 1 | completed | 4.00 | 1 |
 | [[operation-us-v-ryan-william-newhart]] | CYB-FUP-320 | 3 | completed | 4.00 | 1 |
 | [[operation-us-v-sadie-bramlette-and-dejian-johl]] | CYB-FUP-321 | 3 | completed | 4.00 | 1 |
@@ -722,7 +724,6 @@ updated: 2026-04-14
 | [[operation-us-v-brought-against-bay-area]] | CYB-FUP-399 | 1 | ongoing | 4.00 | 1 |
 | [[operation-us-v-bugat-botnet-administrator]] | CYB-FUP-400 | 1 | completed | 4.00 | 1 |
 | [[operation-us-v-california-teenager]] | CYB-FUP-401 | 3 | completed | 4.00 | 1 |
-| [[operation-us-v-cambridge-man]] | CYB-FUP-402 | 3 | completed | 4.00 | 1 |
 | [[operation-us-v-charges-hartford-man]] | CYB-FUP-403 | 3 | ongoing | 4.00 | 1 |
 | [[operation-us-v-charges-man]] | CYB-FUP-404 | 3 | ongoing | 4.00 | 1 |
 | [[operation-us-v-charges-stamford-men]] | CYB-FUP-405 | 3 | ongoing | 4.00 | 1 |
@@ -839,7 +840,6 @@ updated: 2026-04-14
 | [[operation-black-diamond-washington-couple-charged-with-illegally-possessing-machine-guns-silencers-glock-switches-and-fe]] | CYB-FUP-516 | 3 | ongoing | 4.00 | 1 |
 | [[operation-bothell-washington-man-sentenced-to-5-years-in-prison-for-dealing-drugs-hidden-in-computer-hard-drives]] | CYB-FUP-517 | 2 | completed | 4.00 | 1 |
 | [[operation-brazilian-national-indicted-for-selling-firearms]] | CYB-FUP-518 | 3 | ongoing | 4.00 | 1 |
-| [[operation-bremerton-washington-man-indicted-for-three-month-swatting-campaign-that-threatened-victims-across-the-usa-and]] | CYB-FUP-519 | 3 | ongoing | 4.00 | 1 |
 | [[operation-bremerton-washington-man-sentenced-to-3-years-in-prison-for-extensive-swatting-campaign-targeting-victims-in-u]] | CYB-FUP-520 | 3 | completed | 4.18 | 1 |
 | [[operation-bugat-botnet-administrator-arrested-and-malware-disabled-2]] | CYB-FUP-521 | 1 | completed | 4.00 | 1 |
 | [[operation-bulgarian-charged-with-goznym-malware-attacks-in-the-u-s]] | CYB-FUP-522 | 1 | ongoing | 4.00 | 1 |
@@ -909,11 +909,6 @@ updated: 2026-04-14
 | [[operation-kirkwood-resident-pleads-guilty-for-identity-theft]] | CYB-FUP-586 | 2 | completed | 4.00 | 1 |
 | [[operation-laredo-professor-charged-with-distribution-and-production-of-child-pornography]] | CYB-FUP-587 | 3 | ongoing | 4.00 | 1 |
 | [[operation-leader-of-international-steroids-distribution-scheme-sentenced-to-eight-years-in-prison]] | CYB-FUP-588 | 3 | completed | 4.00 | 1 |
-| [[operation-leader-of-qakbot-malware-conspiracy-indicted-for-involvement-in-global-ransomware-scheme-2]] | CYB-FUP-589 | 3 | ongoing | 4.00 | 1 |
-| [[operation-leader-of-qakbot-malware-conspiracy-indicted-for-involvement-in-global-ransomware-scheme-3]] | CYB-FUP-590 | 3 | ongoing | 4.00 | 1 |
-| [[operation-leader-of-qakbot-malware-conspiracy-indicted-for-involvement-in-global-ransomware-scheme-4]] | CYB-FUP-591 | 3 | ongoing | 4.00 | 1 |
-| [[operation-leader-of-qakbot-malware-conspiracy-indicted-for-involvement-in-global-ransomware-scheme-5]] | CYB-FUP-592 | 3 | ongoing | 4.00 | 1 |
-| [[operation-leader-of-qakbot-malware-conspiracy-indicted-for-involvement-in-global-ransomware-scheme]] | CYB-FUP-593 | 3 | ongoing | 4.00 | 1 |
 | [[operation-lewis-county-man-charged-federally-with-unlawful-weapons-possession]] | CYB-FUP-594 | 3 | ongoing | 4.00 | 1 |
 | [[operation-man-caught-three-times-with-dealer-quantities-of-fentanyl-indicted-federally]] | CYB-FUP-595 | 3 | ongoing | 4.00 | 1 |
 | [[operation-man-from-grays-harbor-county-washington-pleads-guilty-to-possession-of-narcotics-with-intent-to-distribute]] | CYB-FUP-596 | 3 | completed | 4.00 | 1 |
@@ -1212,13 +1207,11 @@ updated: 2026-04-14
 | [[operation-botnet-dismantled-in-international-operation-russian-and-kazakhstani-administrators-indicted]] | CYB-FUP-889 | 3 | ongoing | 4.00 | 1 |
 | [[operation-bradley-lefebvre-sentenced-on-federal-harassment-charge]] | CYB-FUP-890 | 2 | completed | 4.00 | 1 |
 | [[operation-brazilian-extradited-from-switzerland-to-the-united-states-to-face-indictment-charging-involvement-in-290m-cry]] | CYB-FUP-891 | 3 | ongoing | 4.00 | 1 |
-| [[operation-bremerton-washington-man-pleads-guilty-to-four-federal-felonies-connected-to-his-extensive-swatting-scheme]] | CYB-FUP-892 | 3 | completed | 4.00 | 1 |
 | [[operation-brooklyn-ny-consultant-for-amazon-sellers-sentenced-to-home-detention-and-fine-for-role-in-bribery-scheme]] | CYB-FUP-893 | 3 | completed | 4.00 | 1 |
 | [[operation-brooksville-man-sentenced-to-prison-for-electronic-prescribing-fraud-scheme]] | CYB-FUP-894 | 3 | completed | 4.00 | 1 |
 | [[operation-california-man-indicted-in-cryptocurrency-money-laundering-conspiracy]] | CYB-FUP-895 | 2 | ongoing | 4.00 | 1 |
 | [[operation-california-man-sentenced-in-cryptocurrency-money-laundering-conspiracy]] | CYB-FUP-896 | 3 | completed | 4.00 | 1 |
 | [[operation-california-teenager-pleads-guilty-in-florida-to-making-hundreds-of-swatting-calls-across-the-united-states]] | CYB-FUP-897 | 3 | completed | 4.00 | 1 |
-| [[operation-cambridge-man-sentenced-for-child-pornography-offense]] | CYB-FUP-898 | 3 | completed | 4.00 | 1 |
 | [[operation-carmichaels-man-sentenced-to-3-years-for-cyberstalking]] | CYB-FUP-899 | 2 | completed | 4.00 | 1 |
 | [[operation-ceres-man-pleads-guilty-to-cyberstalking-two-victims]] | CYB-FUP-900 | 3 | completed | 4.00 | 1 |
 | [[operation-ceres-man-sentenced-for-cyberstalking-two-victims]] | CYB-FUP-901 | 3 | completed | 4.00 | 1 |

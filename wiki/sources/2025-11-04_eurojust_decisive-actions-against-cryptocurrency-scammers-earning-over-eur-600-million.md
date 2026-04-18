@@ -1,0 +1,34 @@
+---
+type: source
+title: "Decisive actions against cryptocurrency scammers earning over EUR 600 million"
+collection_url: https://www.eurojust.europa.eu/news/decisive-actions-against-cryptocurrency-scammers-earning-over-eur-600-million
+collection_domain: eurojust.europa.eu
+source_type: press-release
+publisher: "Eurojust"
+author: ""
+publish_date: 2025-11-04
+ingest_date: 2026-04-19
+language: en
+reliability: high
+credibility: confirmed
+sensitivity: public
+source_tier: 2
+pages_updated:
+  - operation-eur-600m-crypto-scam-network-2025
+  - france
+  - germany
+  - belgium
+  - spain
+key_findings:
+  - "Eurojust set up a joint investigation team between French and Belgian authorities."
+  - "French, Belgian, Cypriot, German, and Spanish authorities coordinated arrests and searches."
+  - "Nine suspects were arrested and assets were seized in cash, bank accounts, and cryptocurrencies."
+created: 2026-04-19
+---
+## Source Summary
+
+Eurojust describes a coordinated anti-fraud and money-laundering action against a cross-border cryptocurrency scam network that laundered approximately EUR 600 million.
+
+## Relevance to IC
+
+This is a high-value official source for a multinational Europe-centered financial-cybercrime operation.

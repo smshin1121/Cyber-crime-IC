@@ -14,7 +14,7 @@ defendants:
     status: sentenced
     sentence: ""
     location_at_arrest: ""
-related_operation: "[[operation-cambridge-man-sentenced-for-child-pornography-offense]]"
+related_operation: ""
 ic_elements:
   mlat_requests:
     []

@@ -58,6 +58,8 @@ credibility_index: 4.18
 source_tier: 1
 missing_fields: []
 related_cases:
+  - "[[bremerton-washington-man-indicted-for-three-month-swatting-campaign-that-threatened-victims-across-the-usa-and]]"
+  - "[[bremerton-washington-man-pleads-guilty-to-four-federal-felonies-connected-to-his-extensive-swatting-scheme]]"
   - "[[bremerton-washington-man-sentenced-to-3-years-in-prison-for-extensive-swatting-campaign-targeting-victims-in-u]]"
 related_operations: []
 challenges_encountered: []
