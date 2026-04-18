@@ -72,234 +72,23 @@
     </div>
     <div class="article-body">
       
-        <div class="ko-block"><h2 id="_1">요약</h2>
-<p>Lumma Stealer Takedown은 2025년 5월 21일에 발표된 주요 민관 작전으로, 세계에서 가장 널리 사용되는 정보 도용 악성 코드 플랫폼 중 하나인 <strong>Lumma Stealer(LummaC2)</strong>의 인프라를 중단시켰습니다. Microsoft의 DCU(Digital Crimes Unit)는 미국 조지아 북부 지방 법원으로부터 법원 명령을 받아 민사 소송을 주도했으며, <a href="../../wiki/organizations/us-doj.html" class="wikilink">U.S. Department of Justice</a>는 5개 핵심 도메인을 압류하라는 개봉 영장을 발부했습니다. <a href="../../wiki/organizations/europol-ec3.html" class="wikilink">Europol's EC3</a>는 유럽의 법 집행을 조정했으며 일본의 사이버 범죄 통제 센터(JC3)는 현지 기반 인프라의 정지를 촉진했습니다.</p>
-<p>이 작업으로 인해 Lumma의 명령 및 제어(C2) 네트워크를 구성하는 약 <strong>2,300개의 악성 도메인</strong>이 압수되거나 싱크홀링되어 악성 코드와 전 세계적으로 약 <strong>394,000개 이상의 감염된 Windows 컴퓨터</strong> 간의 통신이 중단되었습니다.</p>
-<p>이 작업은 현재까지 인포스틸러 인프라에 대한 최대 규모의 민관 철거 중 하나일 가능성이 <em>높으며</em> 형사 영장(DOJ)과 병행하여 민사 법원 명령(Microsoft)에 의존한다는 점에서 주목할 만합니다.</p>
-<h2 id="_2">배경</h2>
-<p><strong>LummaC2</strong>라고도 알려진 Lumma Stealer는 사이버 범죄자가 정보를 훔치는 악성 코드를 구매하고 배포할 수 있게 해주는 MaaS(Malware-as-a-Service) 플랫폼이었습니다. 악성코드는 감염된 시스템에서 다음을 포함한 민감한 데이터를 수집했습니다.</p>
+        <div class="ko-block"><h2 id="_1">개요</h2>
+<p><strong>Lumma Stealer Takedown</strong> <a href="../../wiki/organizations/europol-ec3.html" class="wikilink">Europol EC3</a>의 조정 하에 수행된 테이크다운 작전으로, <strong>2025-05-13 ~ 2025-05-21</strong> 기간 동안 <strong>2개국</strong>이 참여하였다.</p>
+<p>대상: Lumma Stealer (LummaC2) — Malware-as-a-Service infostealer platform</p>
+<h2 id="_2">결과</h2>
 <ul>
-<li>사용자 로그인 자격 증명(비밀번호, 세션 토큰)</li>
-<li>금융정보(신용카드번호, 은행계좌정보)</li>
-<li>암호화폐 지갑 데이터</li>
-<li>개인식별정보</li>
+<li><strong>2,300개</strong> 도메인 압수/차단</li>
+<li>1,300+ domains redirected to Microsoft sinkholes</li>
+<li>300 domains actioned by law enforcement with Europol support</li>
+<li>5 core domains seized by DOJ warrant</li>
+<li>394,000+ infected Windows computers identified (Mar-May 2025)</li>
+<li>1.7 million instances of credential theft identified by FBI</li>
 </ul>
-<p>인터넷 별칭 <strong>"Shamel"</strong>으로 알려진 러시아 기반의 <em>아마도</em> 개발자는 Telegram과 러시아어 포럼을 통해 Lumma를 마케팅했습니다. 이 서비스는 계층화된 가격 모델(250달러, 500달러, 다양한 기능 수준에 대해 1,000달러, 전체 소스 코드 액세스에 대해 20,000달러)으로 운영되었습니다. 2023년 11월 인터뷰에서 'Shamel'은 약 <strong>400명의 활성 고객</strong>을 주장했습니다.</p>
-<p>Lumma는 학교에 대한 랜섬웨어 공격, 은행 송금 사기, 암호화폐 절도 등 광범위한 범죄 활동을 가능하게 하기 위해 배포되었습니다. FBI는 민감한 정보를 도용하는 데 악성코드가 사용된 <strong>170만 개 이상의 사례</strong>를 확인했습니다.</p>
-<h2 id="_3">참가 당사자</h2>
-<h3 id="_4">법 집행</h3>
-<table>
-<thead>
-<tr>
-<th>Agency</th>
-<th>Country</th>
-<th>Role</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td><a href="../../wiki/organizations/us-doj.html" class="wikilink">U.S. Department of Justice</a></td>
-<td><a href="../../wiki/countries/united-states.html" class="wikilink">United States</a></td>
-<td>Unsealed warrants; seized 5 core domains and central command structure</td>
-</tr>
-<tr>
-<td><a href="../../wiki/organizations/fbi-cyber-division.html" class="wikilink">FBI Cyber Division</a></td>
-<td><a href="../../wiki/countries/united-states.html" class="wikilink">United States</a></td>
-<td>Investigation; identified 1.7 million theft instances</td>
-</tr>
-<tr>
-<td><a href="../../wiki/organizations/europol-ec3.html" class="wikilink">Europol EC3</a></td>
-<td>EU</td>
-<td>Coordinated European law enforcement; facilitated 300 domain seizures</td>
-</tr>
-<tr>
-<td>Japan Cybercrime Control Center (JC3)</td>
-<td><a href="../../wiki/countries/japan.html" class="wikilink">Japan</a></td>
-<td>Suspended locally based Lumma infrastructure</td>
-</tr>
-</tbody>
-</table>
-<h3 id="_5">민간 부문 파트너</h3>
-<table>
-<thead>
-<tr>
-<th>Organization</th>
-<th>Role</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td><strong>Microsoft Digital Crimes Unit (DCU)</strong></td>
-<td>Led civil legal action; filed lawsuit; sinkholed 1,300+ domains</td>
-</tr>
-<tr>
-<td>ESET</td>
-<td>Cybersecurity intelligence and technical support</td>
-</tr>
-<tr>
-<td>Cloudflare</td>
-<td>Infrastructure disruption support</td>
-</tr>
-<tr>
-<td>Lumen Technologies</td>
-<td>Network-level disruption</td>
-</tr>
-<tr>
-<td>Bitsight</td>
-<td>Threat intelligence</td>
-</tr>
-<tr>
-<td>CleanDNS</td>
-<td>Domain takedown support</td>
-</tr>
-<tr>
-<td>GMO Registry</td>
-<td>Domain registry cooperation</td>
-</tr>
-</tbody>
-</table>
-<h2 id="_6">법적 프레임워크</h2>
-<p>이 작업에서는 민사 및 형사 소송을 병행하는 <strong>이원적 법적 접근 방식</strong>을 사용했습니다.</p>
-<ol>
-<li>
-<p><strong>민사 소송(Microsoft)</strong>: Microsoft의 DCU는 <strong>2025년 5월 13일</strong> 미국에서 소송을 제기했습니다. 조지아 북부 지역 지방 법원**. 법원은 신원이 밝혀지지 않은 10명의 피고인("Shamel" 및 Lumma의 인프라를 지원하는 다른 사람들 포함)에 대해 임시 금지 명령을 내려 약 2,300개의 악성 도메인을 압수하고 리디렉션할 수 있도록 했습니다.</p>
-</li>
-<li>
-<p><strong>형사 조치(DOJ)</strong>: <strong>2025년 5월 19일</strong>에 DOJ는 Lumma 악성 코드 서비스를 운영하는 데 사용된 <strong>5개 인터넷 도메인</strong>의 압류를 승인하는 <strong>2개의 영장</strong>을 공개했습니다. 이러한 도메인은 맬웨어가 판매되는 관리 패널 및 시장 역할을 했습니다.</p>
-</li>
-<li>
-<p><strong>Europol 법적 근거</strong>: Europol은 <strong>Europol 규정 제26조</strong>에 따라 운영되며, 이를 통해 Europol은 심각한 범죄를 예방하고 퇴치하기 위해 민간 당사자로부터 정보를 받고 이들과 협력할 수 있습니다.</p>
-</li>
-</ol>
-<div class="callout callout-note"><div class="callout-title">📝 Legal basis detail
-이 작전에서 국경 간 협력을 위해 요청된 특정 부다페스트 협약 조항은 이용 가능한 출처에 자세히 나와 있지 않습니다. 이러한 협력은 공식적인 MLAT 프로세스보다는 주로 비공식 법 집행 채널과 공공-민간 파트너십 메커니즘에 의존한 것으로 보입니다.</div><div class="callout-body"></div></div>
-<h2 id="_7">운영 타임라인</h2>
-<table>
-<thead>
-<tr>
-<th>Date</th>
-<th>Event</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td>2022 (est.)</td>
-<td>Lumma Stealer begins operations as a MaaS platform</td>
-</tr>
-<tr>
-<td>2023-11</td>
-<td>Developer "Shamel" claims ~400 active clients in interview</td>
-</tr>
-<tr>
-<td>2025-03-16</td>
-<td>Start of Microsoft's monitoring period identifying 394,000+ infections</td>
-</tr>
-<tr>
-<td>2025-05-13</td>
-<td>Microsoft DCU files civil lawsuit in Northern District of Georgia</td>
-</tr>
-<tr>
-<td>2025-05-16</td>
-<td>End of Microsoft's monitoring period</td>
-</tr>
-<tr>
-<td>2025-05-19</td>
-<td>DOJ unseals two warrants authorizing seizure of five core domains</td>
-</tr>
-<tr>
-<td>2025-05-21</td>
-<td>Coordinated public announcement; infrastructure disrupted globally</td>
-</tr>
-</tbody>
-</table>
-<h2 id="_8">결과 및 영향</h2>
-<h3 id="_9">정량적 결과</h3>
-<ul>
-<li><strong>~2,300개 도메인</strong>이 압류되거나 중단되었습니다(Lumma의 C2 백본).</li>
-<li><strong>1,300개 이상의 도메인</strong>이 Microsoft 싱크홀로 리디렉션됨</li>
-<li><strong>300개 도메인</strong>은 Europol의 지원을 받아 법 집행 기관에서 조치를 취함</li>
-<li>DOJ 영장에 의해 압수된 <strong>5개 핵심 도메인</strong>(관리 및 배포)</li>
-<li><strong>394,000대 이상의 감염된 Windows 컴퓨터</strong> 확인(2025년 3월 16일 ~ 5월 16일)</li>
-<li>FBI 수사관이 파악한 <strong>170만 건의 도난 사례</strong></li>
-<li>게시 중단 시 발표된 <strong>체포자 0명</strong></li>
-</ul>
-<h3 id="_10">영향 평가</h3>
-<p>이 작업으로 Lumma의 C2 서버와 감염된 엔드포인트 간의 통신 링크가 끊어졌습니다. 싱크홀 도메인을 통해 Microsoft는 콜백에서 원격 측정 데이터를 수집하여 지속적인 위협 인텔리전스를 제공할 수 있었습니다. 관리 도메인 압수로 인해 악성 코드가 계열사에 판매되는 시장이 혼란에 빠졌습니다.</p>
-<div class="callout callout-warning"><div class="callout-title">⚠️ Operational resilience concern
-게시 중단 후 보고(2025년 5월 말 기준)에 따르면 Lumma Stealer 운영자는 MaaS 게시 중단에서 흔히 볼 수 있는 패턴인 인프라 재구축을 시도했을 가능성이 <em>가능성이</em> 높습니다. 이러한 혼란의 장기적인 효과는 지속적인 집행 압력에 달려 있습니다.</div><div class="callout-body"></div></div>
-<h2 id="_11">사용된 협력 메커니즘</h2>
-<ol>
-<li>
-<p><strong><a href="../../wiki/mechanisms/public-private-cooperation.html" class="wikilink">Public-Private Cooperation</a></strong>: 이 작업의 정의 기능입니다. Microsoft는 DOJ, Europol 및 JC3와 협력하면서 민사 법률 트랙을 주도했습니다. 민간 부문 파트너(ESET, Cloudflare, Lumen, Bitsight, CleanDNS, GMO Registry)는 인프라 중단을 위한 기술 역량을 제공했습니다.</p>
-</li>
-<li>
-<p><strong>민사-형사 병행 접근 방식</strong>: Microsoft는 도메인 압류(광범위, 최대 2,300개 도메인)에 대해 민사 법원 명령을 사용한 반면 DOJ는 가장 중요한 5개 도메인에 대해 형사 영장을 사용했습니다. 이 이중 접근 방식은 Microsoft가 초기 운영(예: Trickbot, Necurs)에서 개척한 모델입니다.</p>
-</li>
-<li>
-<p><strong><a href="../../wiki/mechanisms/informal-cooperation.html" class="wikilink">Informal Law Enforcement Cooperation</a></strong>: 미국, 유럽, 일본 당국 간의 국경 간 조정은 공식적인 MLAT 프로세스보다는 비공식 채널과 확립된 관계를 통해 수행된 것으로 보입니다.</p>
-</li>
-<li>
-<p><strong>도메인 레지스트리 협력</strong>: 도메인 등록 기관과 DNS 공급자가 협력하여 악성 도메인을 싱크홀로 전송, 일시 중지 또는 리디렉션했습니다.</p>
-</li>
-</ol>
-<h2 id="_12">과제 및 마찰 지점</h2>
-<ol>
-<li>
-<p><strong>체포 없음</strong>: 작전 규모에도 불구하고 체포가 발표되지 않았습니다. 개발자 "Shamel"은 자국민을 범죄인으로 인도하지 않고 사이버 범죄 문제에 대해 서방 법 집행 기관과 제한적으로 협력하는 관할권인 러시아에 기반을 두고 있는 <em>가능성이</em> 높습니다.</p>
-</li>
-<li>
-<p><strong>MaaS 복원력</strong>: Malware-as-a-Service 플랫폼은 신속한 인프라 재구성을 위해 설계되었습니다. 도메인 점유는 중단되지만 작업을 영구적으로 비활성화할 수는 없습니다.</p>
-</li>
-<li>
-<p><strong>귀속 문제</strong>: "Shamel"은 가명으로 식별되었지만 개발자가 러시아에 <em>있을 가능성이 있는</em> 위치를 고려할 때 확실한 식별 및 체포를 달성하는 것은 여전히 ​​​​어려운 일입니다.</p>
-</li>
-<li>
-<p><strong>감염 규모</strong>: 2개월 동안 394,000개 이상의 감염된 시스템이 확인되었으므로 치료 부담은 전 세계 개인 사용자와 조직에 있습니다.</p>
-</li>
-</ol>
-<h2 id="_13">배운 교훈</h2>
-<ol>
-<li>
-<p><strong>민사-범죄 이중 추적은 인프라 폐쇄에 효과적입니다</strong>: Microsoft의 민사 법원 명령은 형사 영장만 발부하는 것보다 더 광범위한 도메인 압류 권한을 제공한 반면 DOJ의 형사 영장은 가장 중요한 노드를 표적으로 삼았습니다.</p>
-</li>
-<li>
-<p><strong>전력 승수로서의 민간 부문</strong>: Microsoft의 DCU는 법 집행 기관의 권한을 보완하는 기술 역량, 법률 리소스 및 도메인 전문 지식을 제공했습니다. 7개 민간 부문 파트너의 참여는 광범위한 연합의 가치를 보여줍니다.</p>
-</li>
-<li>
-<p><strong>유로폴 제26조는 공공-민간 협력을 가능하게 합니다</strong>: 민간 당사자 참여에 대한 유로폴의 규제 체계는 운영의 유럽 측면을 조정하는 데 효과적인 것으로 입증되었습니다.</p>
-</li>
-<li>
-<p><strong>싱크홀링은 지속적인 인텔리전스를 제공</strong>: 도메인을 단순히 오프라인으로 전환하는 대신 도메인을 싱크홀로 리디렉션함으로써 감염된 시스템을 지속적으로 모니터링하고 치료 노력을 위한 데이터를 제공할 수 있었습니다.</p>
-</li>
-</ol>
-<h2 id="_14">후속 조치</h2>
-<ul>
-<li>콜백 트래픽에 대한 싱크홀 도메인에 대한 지속적인 모니터링</li>
-<li>압류된 기반 시설의 데이터는 추가 조사를 지원할 것으로 예상됩니다.</li>
-<li>394,000개 이상의 확인된 감염된 시스템에 대한 치료 노력</li>
-<li>"Shamel" 및 Lumma의 통신사 네트워크에 대한 지속적인 조사</li>
-<li>인프라 재구성 시도 모니터링</li>
-</ul>
-<h2 id="_15">한국의 참여(한국의 참여)</h2>
-<p>이 작전에 한국이 개입한 것으로 알려진 바는 없습니다. 한국은 참가국이나 기관에 포함되지 않았다. 그러나 Infostealer 감염의 전 세계적인 특성(전 세계적으로 394,000개 이상의 시스템)을 고려할 때 한국 시스템도 영향을 받았을 가능성이 <em>가능합니다</em>. <a href="../../wiki/countries/south-korea.html" class="wikilink">South Korea's</a> 사이버 보안 기관(<a href="../../wiki/organizations/kisa.html" class="wikilink">KISA</a> 포함)은 한국 네트워크의 Lumma 감염과 관련된 국내 치료 노력과 관련이 있습니다.</p>
-<h2 id="_16">모순 및 공개 질문</h2>
-<ol>
-<li>
-<p><strong>정확한 게시 중단 날짜</strong>: 출처는 5월 13일(Microsoft 소송 제기), 5월 19일(DOJ 영장 미봉인), 5월 21일(공개)을 작업 날짜로 다양하게 보고합니다. 작전은 <em>거의 확실하게</em> 하루 동안의 사건이라기보다는 여러 날에 걸친 협력 활동이었습니다.</p>
-</li>
-<li>
-<p><strong>도메인 수</strong>: 대부분의 소스에서는 "약 2,300개" 도메인을 인용하지만 Microsoft가 싱크홀한 도메인(~1,300개), 법 집행 기관의 조치를 받은 도메인(~300개), 나머지 도메인(압수 통지를 표시하는 ~700개) 간의 분류에 대한 설명이 필요합니다.</p>
-</li>
-<li>
-<p><strong>체포 일정 없음</strong>: 체포가 예상되는지 또는 이것이 순전히 인프라 중단 작업인지 여부는 사용 가능한 소스에서 명확하지 않습니다.</p>
-</li>
-<li>
-<p><strong>개발자 위치</strong>: 'Shamel'은 '러시아 기반'으로 설명되어 있지만 공개 성명에서 법 집행 기관이 이를 독립적으로 확인하지는 않았습니다.</p>
-</li>
-<li>
-<p><strong>감염 수 방법론</strong>: 394,000건의 수치는 특정 2개월 기간(2025년 3월 16일~5월 16일)을 포함하며 <em>아마도</em> Lumma에 감염된 총 시스템 수를 과소평가한 것 같습니다.</p>
-</li>
-</ol></div>
+<h2 id="_3">참여 기관</h2>
+<p><strong>주도기관:</strong> U.S. Department of Justice</p>
+<p><strong>조정기관:</strong> Europol EC3</p>
+<p><strong>참여기관:</strong> U.S. Department of Justice, FBI Cyber Division, Europol EC3, Japan Cybercrime Control Center (JC3)</p>
+<p><strong>참여국:</strong> United States, Japan</p></div>
         <div class="en-block"><h2 id="summary"><span class="heading-ko">개요</span><span class="heading-en">Summary</span></h2>
 <p>The Lumma Stealer Takedown was a major public-private operation announced on May 21, 2025, that disrupted the infrastructure of <strong>Lumma Stealer (LummaC2)</strong>, one of the world's most widely used information-stealing malware platforms. Microsoft's Digital Crimes Unit (DCU) led the civil legal action, obtaining a court order from the U.S. District Court for the Northern District of Georgia, while the <a href="../../wiki/organizations/us-doj.html" class="wikilink">U.S. Department of Justice</a> unsealed warrants to seize five core domains. <a href="../../wiki/organizations/europol-ec3.html" class="wikilink">Europol's EC3</a> coordinated European law enforcement, and Japan's Cybercrime Control Center (JC3) facilitated the suspension of locally based infrastructure.</p>
 <p>The operation resulted in the seizure or sinkholing of approximately <strong>2,300 malicious domains</strong> that formed Lumma's command-and-control (C2) network, severing communications between the malware and an estimated <strong>394,000+ infected Windows computers</strong> worldwide.</p>
@@ -603,7 +392,7 @@ not result in formal prosecution.</div><div class="callout-body"></div></div>
           </th>
           <td>
             
-              [[us-doj|U.S. Department of Justice]]
+              <a href="../../wiki/organizations/us-doj.html" class="wikilink">U.S. Department of Justice</a>
             
           </td>
         </tr>
@@ -615,7 +404,7 @@ not result in formal prosecution.</div><div class="callout-body"></div></div>
           </th>
           <td>
             
-              [[hacking-ic|Hacking / Malware Distribution]]
+              <a href="../../wiki/crime-types/hacking-ic.html" class="wikilink">Hacking / Malware Distribution</a>
             
           </td>
         </tr>

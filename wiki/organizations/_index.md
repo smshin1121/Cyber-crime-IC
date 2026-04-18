@@ -6,7 +6,7 @@ created: 2026-04-08
 updated: 2026-04-08
 ---
 
-# Organizations (95)
+# Organizations (97)
 
 | Organization | Type | Country/HQ | Key IC Roles | Operations | Sources |
 |--------------|------|------------|--------------|------------|---------|
@@ -26,8 +26,10 @@ updated: 2026-04-08
 | [[fbi]] | national-agency | Washington, D.C., United States | — | 14 | 0 |
 | [[fbi-cyber-division]] | national-agency | Washington, D.C., United States | — | 76 | 12 |
 | [[german-bka]] | national-agency | Wiesbaden, Germany | — | 2 | 0 |
+| [[german-police]] | national-agency | — | — | 1 | 0 |
 | [[germany-bka]] | national-agency | Wiesbaden, Germany | — | 16 | 5 |
 | [[germany-lka]] | national-agency | One in each of 16 German Länder (e.g. Munich, Stuttgart, Düsseldorf, | — | 4 | 3 |
+| [[indonesia-immigration]] | national-agency | — | — | 1 | 0 |
 | [[indonesia-police]] | national-agency | Indonesia | — | 1 | 0 |
 | [[italy-dcsa]] | national-agency | Rome, Italy | Anti-narcotics coordination; Darknet market investigations | 1 | 0 |
 | [[japan-npa]] | national-agency | Tokyo, Japan | — | 4 | 6 |
@@ -103,5 +105,5 @@ updated: 2026-04-08
 | [[german-prosecution]] | prosecutorial-authority | Germany | — | 1 | 0 |
 | [[ncfta]] | public-private-partnership | United States | — | 1 | 0 |
 | [[afripol]] | regional-org | Algiers, Algeria | — | 6 | 0 |
-| [[eurojust]] | regional-org | The Hague, Netherlands | — | 24 | 9 |
+| [[eurojust]] | regional-org | The Hague, Netherlands | — | 25 | 9 |
 | [[europol-ec3]] | regional-org | The Hague, Netherlands | — | 66 | 9 |

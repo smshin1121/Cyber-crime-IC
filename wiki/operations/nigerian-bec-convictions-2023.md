@@ -53,9 +53,13 @@ challenges_encountered:
   - "The public record is sentencing-focused, so the investigative cooperation details are thinner than in major takedown announcements."
 lessons_learned:
   - "Sentencing outcomes make cyber-enabled fraud enforcement more transparent and quantifiable."
-source_count: 1
+source_count: 5
 sources:
   - "[[2023-03-27_justice-gov_united-states-v-solomon-ekunke-okpe-and-johnson-uke-obogo]]"
+  - "[[2026-04-17_justice-gov_nigerian-nationals-victimize-us-persons-through-cyber-enabled-fraud-schemes]]"
+  - "[[2023-01-23_justice-gov_us-v-okpe-et-al-victim-notifications]]"
+  - "[[2023-03-29_scworld_us-convicts-nigerian-bec-scammer]]"
+  - "[[2023-03-28_infosecurity-magazine_four-years-behind-bars-for-prolific-bec-scammer]]"
 created: 2026-04-08
 updated: 2026-04-18
 operation_role: umbrella
@@ -122,3 +126,7 @@ The linked case page is [[us-v-okpe-obogo-bec]], and the corresponding defendant
 | # | Title | Publisher | Date | URL |
 |---|-------|----------|------|-----|
 | [1] | Foreign National Sentenced for Victimizing U.S. Persons Through Cyber-Enabled Fraud Schemes | U.S. Department of Justice | 2023-03-27 | https://www.justice.gov/archives/opa/pr/foreign-national-sentenced-victimizing-us-persons-through-cyber-enabled-fraud-schemes |
+| [2] | Nigerian Nationals Victimize U.S. Persons Through Cyber-Enabled Fraud Schemes | U.S. Department of Justice (District of Arizona) | 2023-02-03 | https://www.justice.gov/usao-az/pr/nigerian-nationals-victimize-us-persons-through-cyber-enabled-fraud-schemes |
+| [3] | US v Okpe et al | U.S. Department of Justice (Victim Notifications) | 2023-01-23 | https://www.justice.gov/usao-az/programs/victim-notifications/US-v-Okpe-et-al |
+| [4] | US convicts Nigerian BEC scammer | SC Media | 2023-03-29 | https://www.scworld.com/brief/us-convicts-nigerian-bec-scammer |
+| [5] | Four Years Behind Bars for Prolific BEC Scammer | Infosecurity Magazine | 2023-03-28 | https://www.infosecurity-magazine.com/news/four-years-prolific-bec-scammer/ |

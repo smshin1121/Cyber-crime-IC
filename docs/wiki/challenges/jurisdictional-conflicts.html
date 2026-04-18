@@ -69,149 +69,16 @@
     </div>
     <div class="article-body">
       
-        <div class="ko-block"><h2 id="_1">요약</h2>
-<p>두 개 이상의 국가가 동일한 사이버 범죄를 조사하고 기소할 권리를 동시에 주장할 때 관할권 분쟁이 발생합니다. 이는 극단적인 경우가 아니며, 초국가적 사이버 범죄의 <em>기본 조건</em>입니다. 사이버 범죄의 국경 없는 특성은 공격자의 위치, 서버 인프라, 피해자 및 증거가 일반적으로 여러 국가에 분산되어 있으며 각 국가는 <a href="../../wiki/concepts/territoriality-principle.html" class="wikilink">territoriality-principle</a>, <a href="../../wiki/concepts/nationality-principle.html" class="wikilink">nationality-principle</a> 또는 기타 관할권 원칙에 따라 관할권을 주장할 수 있는 합법적인 근거를 가지고 있음을 의미합니다.</p>
-<p>국제법의 다른 영역과 달리 사이버 범죄에는 관할권 충돌을 해결하기 위한 <strong>구속력 있는 메커니즘</strong>이 없습니다. 부다페스트 협약의 협의 요건(제22(5)조)은 구속력이 없으며, 경쟁하는 관할권 간에 우선순위를 부여하는 글로벌 프레임워크는 없습니다. 그 결과 중복된 조사, 비협조적인 기소, 포럼 쇼핑, 그리고 최악의 경우 <a href="../../wiki/concepts/ne-bis-in-idem.html" class="wikilink">ne-bis-in-idem</a> 원칙 위반(이중 위험)이 결합되었습니다.</p>
-<h2 id="_2">문제의 성격</h2>
-<h3 id="_3">관할권을 주장하는 여러 주</h3>
-<p>일반적인 랜섬웨어 공격은 문제를 보여줍니다.</p>
-<pre><code>Attacker (Russia) → C2 servers (Netherlands, Germany)
-    → Encrypts victim networks (US company, UK subsidiary, Korean contractor)
-    → Ransom payment (cryptocurrency, mixers in multiple jurisdictions)
-    → Proceeds laundered (UAE, Singapore)
-</code></pre>
-<p>이 시나리오에서는 <em>적어도</em> 6~7개국이 관할권을 주장할 수 있습니다.
-- <strong>러시아:</strong> 공격자의 국적(<a href="../../wiki/concepts/nationality-principle.html" class="wikilink">nationality-principle</a>)
-- <strong>네덜란드/독일:</strong> 범죄 인프라 위치(<a href="../../wiki/concepts/territoriality-principle.html" class="wikilink">territoriality-principle</a>)
-- <strong>미국:</strong> 1차 피해자 위치(영향 교리/객관 영토)
-- <strong>영국:</strong> 영향을 받는 자회사의 위치
-- <strong>대한민국:</strong> 영향을 받는 계약자의 위치
-- <strong>UAE/싱가포르:</strong> 자금세탁 장소</p>
-<p>각 국가의 주장은 자국의 국내법과 일반 국제법에 따라 적법합니다. 국제법의 어떤 규칙도 이들 중 어느 것에도 우선권을 부여하지 않습니다.</p>
-<h3 id="_4">동시 진행</h3>
-<p>여러 주에서 동일한 행위를 독립적으로 조사하면 몇 가지 문제가 나타납니다.</p>
-<ol>
-<li><strong>중복된 노력.</strong> 동일한 대상을 조사하는 데 중복되는 법 집행 자원이 부족합니다.</li>
-<li><strong>증거 충돌.</strong> 한 주에서 증거(서버, 암호화폐)를 압수하면 다른 주에서는 동일한 증거에 대한 접근 권한이 박탈될 수 있습니다.</li>
-<li><strong>증인/피고인 갈등.</strong> 체포된 용의자는 두 국가에서 동시에 재판을 받을 수 없습니다. 한 주로 인도되면 다른 주로 접근할 수 없게 됩니다.</li>
-<li><strong>일관되지 않는 결과.</strong> 동일한 행위에 대해 서로 다른 법률 시스템에 따라 서로 다른 결론이 나올 수 있습니다. 즉, 한 관할권에서는 무죄이고 다른 관할권에서는 유죄 판결을 받을 수 있습니다.</li>
-</ol>
-<h3 id="ne-bis-in-idem-risk">Ne Bis In Idem Risk</h3>
-<p><a href="../../wiki/concepts/ne-bis-in-idem.html" class="wikilink">ne-bis-in-idem</a>(이중 위험) 원칙은 동일한 범죄로 한 사람을 두 번 기소하는 것을 금지합니다. 그러나:
-- 이 원칙은 대부분의 국내 법률 시스템 <em>내에서</em> 적용되지만 <em>국제적</em> 적용은 불확실하고 일관성이 없습니다.
-- EU 내에서는 기본권 헌장 Art. 50 및 CISA 예술. 54는 동일한 보호를 위해 초국가적 ne bis를 제공합니다.
-- 전 세계적으로 동일한 행위에 대해 여러 국가에서 연속 기소되는 것을 구속력 있는 금지 조항은 없습니다.
-- 위험: 한 국가에서 유죄 판결을 받고 형을 선고받은 사람이 다른 국가에서 동일한 사이버 범죄로 기소될 수 있습니다.</p>
-<h3 id="_5">포럼 쇼핑</h3>
-<p>명확한 관할권 할당 규칙이 없는 경우, 검찰 당국은 다음을 제공하는 관할권을 선택하는 "포럼 쇼핑"에 참여할 수 있습니다.
-- 가장 유리한 법적 체계(가장 광범위한 위반, 가장 무거운 처벌)
-- 최강의 절차적 도구(도청, 검색 능력)
-- 가장 유리한 증거 규칙
-- 유죄 판결을 받을 가능성이 가장 높습니다.</p>
-<p>이는 검찰의 효율성에 도움이 될 수 있지만 적법 절차에 대한 우려를 불러일으키고 절차의 적법성을 훼손할 수 있습니다.</p>
-<h2 id="_6">협력에 미치는 영향</h2>
-<p>관할권 갈등은 역설적이게도 국제 협력을 <strong>방해</strong>하고 <strong>동기부여</strong>합니다.</p>
-<p><strong>장애물:</strong> 다른 국가가 자신의 주장을 "수용"하고 있다고 믿을 경우 협력을 꺼리는 국가입니다. 경쟁적인 조사로 인해 MLA 요청 거부, 범죄인 인도 분쟁 또는 자원을 낭비하는 병행 절차가 발생할 수 있습니다.</p>
-<p><strong>동기 부여:</strong> 단일 국가가 초국적 사이버 범죄를 효과적으로 조사할 수 없다는 인식으로 인해 국가는 합동 조사팀(<a href="../../wiki/mechanisms/europol-jit.html" class="wikilink">europol-jit</a>), 협력 작전(<a href="../../wiki/organizations/europol-ec3.html" class="wikilink">europol-ec3</a> 또는 <a href="../../wiki/organizations/interpol-igci.html" class="wikilink">interpol-igci</a>를 통해) 및 비공식적인 경찰 대 경찰 협력을 추진하게 됩니다.</p>
-<h2 id="_7">근본 원인</h2>
-<h3 id="_8">사이버 범죄의 국경 없는 성격</h3>
-<p>근본적인 근본 원인은 사이버 범죄가 영토 경계를 존중하지 않는다는 것입니다. 물리적 세계 범죄를 위해 개발된 관할권 규칙은 범죄 행위와 특정 영역 사이의 명확한 연관성을 가정합니다. 이 가정은 전 세계 네트워크에 본질적으로 분산되어 있는 행위에 대해 무너집니다.</p>
-<h3 id="_9">다중 영토 연결</h3>
-<p>각각의 관할권 기반(행위의 위치, 효과의 위치, 범죄자의 국적, 피해자의 국적)에 따라 다른 대답이 나옵니다. 모든 것이 국제법으로 인정되며 어느 것도 우선권을 갖지 않습니다.</p>
-<h3 id="_10">구속력 없는 충돌 해결 메커니즘</h3>
-<p>부다페스트 컨벤션 아트. 22(5)는 충돌 해결 메커니즘에 가장 가까운 것입니다.</p>
-<blockquote>
-<p>"둘 이상의 당사자가 본 협약에 따라 확립된 범죄 혐의에 대해 관할권을 주장하는 경우, 관련 당사자는 적절한 경우 기소에 가장 적합한 관할권을 결정하기 위해 협의해야 합니다."</p>
-</blockquote>
-<p>그러나 이 조항은 다음과 같습니다.
-- <strong>구속력 없음</strong>("적절한 경우 협의해야 합니다" — "해결해야 합니다"가 아님)
-- 관할권을 "가장 적절"하게 만드는 기준을 제공하지 않음<strong>
-- 국가가 협의에 실패하거나 동의하지 않는 경우 </strong>집행 메커니즘이 없습니다**</p>
-<p>UN 사이버범죄협약(2024, 아직 발효되지 않음) Art. 58에는 유사하지만 약간 강화된 협의 조항이 포함되어 있습니다. 그러나 결과적으로도 구속력이 없습니다.</p>
-<h2 id="_11">제안된 솔루션</h2>
-<h3 id="225">부다페스트 컨벤션 아트. 22(5) 상담</h3>
-<p>기존 협의 요건은 구속력은 없지만 대화에 대한 법적 근거를 제공합니다. 실제로 협의는 검사들 사이에서 그리고 Eurojust(EU 내) 또는 INTERPOL(전 세계적으로)을 통해 비공식적으로 이루어집니다. 효율성은 전적으로 당사자의 의지에 달려 있습니다.</p>
-<h3 id="eurojust">Eurojust 사건 조정</h3>
-<p>EU 내에서 <a href="../../wiki/organizations/eurojust.html" class="wikilink">Eurojust</a>는 관할권 갈등을 해결하는 데 중요한 역할을 합니다.</p>
+        <div class="ko-block"><h2 id="_1">개요</h2>
+<p><strong>Jurisdictional Conflicts in Cybercrime</strong> — 법적 유형의 과제 (심각도: 심각).</p>
+<p><strong>영향받는 메커니즘:</strong> Mlat Process, Europol Jit</p>
+<h2 id="_2">제안된 해결책</h2>
 <ul>
-<li><strong>이사회 프레임워크 결정 2009/948/JHA</strong>는 병행 절차가 존재할 경우 EU 회원국이 기본 중재자로 Eurojust를 사용하여 협의하도록 요구합니다.</li>
-<li>Eurojust는 병행 진행 상황을 감지할 수 있는 사례 관리 시스템을 유지관리합니다.</li>
-<li>Eurojust는 어느 회원국이 관할권을 행사해야 하는지 추천하는 <strong>서면 의견</strong>을 발행할 수 있습니다.</li>
-<li>Eurojust는 한 회원국에서 다른 회원국으로 <strong>절차 이전</strong>을 용이하게 할 수 있습니다.</li>
-</ul>
-<p><strong>제한사항:</strong> 이 메커니즘은 EU 내에서만 적용됩니다. 비 EU 국가와 관련된 분쟁에는 적용되지 않습니다.</p>
-<h3 id="_12">인터폴 운영 조정</h3>
-<p>비 EU 운영의 경우 <a href="../../wiki/organizations/interpol-igci.html" class="wikilink">INTERPOL</a>는 실질적인 협력을 통해 <em>사실상</em> 관할권 갈등을 해결하는 데 도움이 될 수 있는 운영 조정을 제공합니다. INTERPOL이 조정하는 작전이 선두 국가를 지정하면 다른 참여 국가는 암묵적으로 지원 역할을 수락합니다. 그러나 이러한 운영 조정은 어느 국가가 주요 관할권을 가지고 있는지에 대한 <em>법적</em> 문제를 해결하지 못합니다.</p>
-<h3 id="_13">제안된 바인딩 메커니즘</h3>
-<p>구속력 있는 관할권 할당을 위한 학술 및 정책 제안에는 다음이 포함됩니다.</p>
-<ol>
-<li><strong>우선순위 기준 프레임워크:</strong> 관할권 기반의 계층 구조(예: 법의 영역 &gt; 효과의 영역 &gt; 범죄자의 국적)를 설정하여 가장 강력한 권리를 주장하는 국가를 결정합니다.</li>
-<li><strong>포럼 선택 합의:</strong> 국가가 구속력 있는 개별 사건의 관할권 할당에 동의할 수 있도록 허용하는 다자간 조약 조항입니다.</li>
-<li><strong>국제 사이버 범죄 법원:</strong> 가장 심각한 초국가적 사이버 범죄에 대한 관할권을 가진 전문 재판소입니다(매우 야심적이지만 적극적인 협상은 없음).</li>
-<li><strong>절차 이전:</strong> 증거를 보존하고 중복을 방지하면서 한 주로서 다른 주로 형사 사건을 이전할 수 있는 능력을 공식화합니다.</li>
-</ol>
-<h2 id="_14">현재 논쟁 상황</h2>
-<p>논쟁은 현재의 협의적 접근 방식이 충분한지 또는 구속력 있는 규칙이 필요한지 여부에 중점을 두고 있습니다.</p>
-<ul>
-<li><strong>현상 유지 옹호자:</strong> 현재의 유연한 접근 방식을 통해 실용적인 사례별 해결이 가능합니다. 구속력 있는 규칙은 협상하기 어렵고 잘못된 결과를 초래할 수 있습니다(예: 기소할 능력이나 의지가 없는 주에 관할권을 할당하는 것).</li>
-<li><strong>개혁 옹호자들:</strong> 구속력 있는 규칙이 없으면 비효율성, 불공정성, 불처벌이 초래됩니다. 사이버 범죄 역량이 강한 국가(미국, 영국, EU)가 사례 선택을 주도하는 반면 개발도상국은 소외됩니다.</li>
-<li><strong>중간 기반:</strong> 부다페스트 협약 조항을 바탕으로 관할권 선택을 위한 구속력 없는 지침이나 모범 사례를 개발합니다. 22(5) 프레임워크.</li>
-</ul>
-<h2 id="_15">사례 연구</h2>
-<h3 id="lockbit">크로노스 작전(LockBit)</h3>
-<p><a href="../../wiki/operations/operation-cronos-phase1.html" class="wikilink">Operation Cronos</a> 시리즈(2024~2025)는 10개 이상 국가의 LockBit 랜섬웨어 그룹을 표적으로 삼았습니다. 어느 주에서 주요 피고인을 기소할 것인지에 대한 문제는 다음과 같은 조정이 필요했습니다.
-- 미국(DOJ/FBI — 청구)
-- 영국(NCA — 인프라 압류)
-- 프랑스, 독일, 네덜란드(유로폴 조정)
-- 기타 여러 참가 국가</p>
-<p>Europol과 Eurojust를 통한 작전 조정은 미국이 기소를 주도하고 다른 국가가 인프라 압수 및 증거 수집에 중점을 두면서 관할권 할당을 효과적으로 관리했습니다.</p>
-<h3 id="8">포보스/8기지 단속</h3>
-<p><a href="../../wiki/operations/phobos-8base-crackdown.html" class="wikilink">Phobos/8Base operation</a>(2025)는 한국에서 체포되어 미국으로 송환된 용의자가 관련된 사건이다. 한국은 체포 장소(그리고 잠재적으로 범죄의 국적 원칙이나 영향)에 따라 관할권을 가졌으나 기소는 미국에 맡겨졌습니다. 이 실용적인 결의안은 관할권 갈등을 피했지만 다음과 같은 질문을 제기합니다. 한국이 기소를 원했다면 어떻게 되었을까요?</p>
-<h2 id="_16">비교 관점</h2>
-<h3 id="eu">EU 접근 방식</h3>
-<p>EU는 EU 내 관할권 갈등을 해결하기 위한 가장 발전된 프레임워크를 보유하고 있습니다.
-- 프레임워크 결정 2009/948/JHA(관할권 충돌 예방 및 해결)
-- 유로저스트 조정 역할
-- 기본권 헌장 예술. 50 (동일하게)
-- 유럽 체포 영장 제도</p>
-<h3 id="_17">미국의 접근 방식</h3>
-<p>미국은 광범위한 치외법권 관할권을 자주 주장하며 가장 광범위한 양자 MLAT 네트워크를 보유하고 있습니다. 실제로 미국은 역량, 법적 도구, 미국 영토에 있는 많은 주요 서비스 제공업체의 위치로 인해 다국가 사이버 범죄 사건에서 기소를 주도하는 경우가 많습니다.</p>
-<h3 id="_18">아시아 태평양 접근 방식</h3>
-<p>아시아태평양 지역에는 EU와 동등한 지역 체제가 부족하다. 관할권 분쟁은 양자 채널, 인터폴 조정 또는 임시 조치를 통해 해결됩니다. 사이버 범죄 협력을 위한 ASEAN의 노력은 아직 초기 단계에 있습니다.</p>
-<h2 id="korean-perspective">Korean Perspective (한국 관점)</h2>
-<h3 id="_19">사이버 관할권에 대한 한국 법원의 접근 방식</h3>
-<p>한국 법원은 일반적으로 사이버 범죄에 대한 영토적 관할권에 대해 다음과 같이 폭넓게 해석해 왔습니다.</p>
-<ul>
-<li><strong>형법 Art. 2 (속지주의):</strong> 한국 법원은 범죄 행위나 그 효과가 한국에서 발생하는 경우 관할권을 인정합니다. 사이버범죄의 경우 해외에서 한국인 피해자를 타겟으로 삼는 경우나 한국의 인프라를 활용하는 경우도 포함된다.</li>
-<li><strong>대 법원 판례:</strong> 대법원은 데이터에 접근한 위치나 피해가 발생한 위치를 포함하여 범죄의 구성요소(구성요건적 또는 결과)가 한국 영토에서 발생한 경우 관할권이 존재한다고 판결했습니다.</li>
-</ul>
-<h3 id="_20">한국의 실제 관할권 분쟁</h3>
-<p>한국은 여러 가지 맥락에서 관할권 갈등을 겪었습니다.</p>
-<ol>
-<li>
-<p><strong>보이스피싱(Voice Phishing):</strong> 중국이나 동남아시아에서 한국인 피해자를 대상으로 활동하는 가해자입니다. 한국은 영향(피해자 위치)에 따라 관할권을 갖고 있으며 피해자의 국적, 때로는 가해자의 국적을 기준으로 하는 경우도 있습니다. 중국은 행위의 위치에 따라 관할권을 갖는다. <a href="../../wiki/operations/korea-china-voice-phishing-qingdao.html" class="wikilink">Korea-China Qingdao operation</a>는 갈등보다는 양자 협력을 보여주지만 근본적인 관할권 중복이 존재합니다.</p>
-</li>
-<li>
-<p><strong>해외 한인 사이버범죄자:</strong> 해외에서 사이버 범죄를 저지르는 한국인(예: <a href="../../wiki/operations/korea-cambodia-scam-repatriation.html" class="wikilink">korea-cambodia-scam-repatriation</a>에서 볼 수 있는 캄보디아 사기 센터). 한국은 <a href="../../wiki/concepts/nationality-principle.html" class="wikilink">nationality-principle</a>(형법 제3조)에 따라 관할권을 가지며, 개최국은 영토 관할권을 갖습니다. 해결에는 일반적으로 호스트 국가에서의 기소보다는 송환이 포함됩니다.</p>
-</li>
-<li>
-<p><strong>랜섬웨어 인도:</strong> 한국에서 체포되어 미국으로 인도된 포보스 관리자는 한국이 요청 국가에 기소를 유보하는 모습을 보여줍니다. <a href="../../wiki/concepts/specialty-principle.html" class="wikilink">specialty-principle</a>는 범죄인 인도 후 미국이 기소할 수 있는 범위를 제한합니다.</p>
-</li>
-</ol>
-<h3 id="_21">한국 및 포럼 선정</h3>
-<p>비교적 최근에 부다페스트 협약에 가입한(2024년) 한국은 여전히 Art에 따른 관할권 협의 관행을 발전시키고 있습니다. 22(5). 한국의 접근 방식은 다음을 선호할 <em>가능성이 높습니다</em>:
-- 가장 강력한 증거 기반을 갖춘 국가에서 기소
-- 작전을 주도하는 국가에 대한 존중(특히 랜섬웨어 사건의 경우 미국)
-- 주로 한국인 피해자 또는 한국인이 직접 관련된 경우 관할권 주장</p>
-<div class="callout callout-warning"><div class="callout-title">⚠️ Legal status check needed
-한국 법원의 판결이 부다페스트 협약 예술을 구체적으로 다루고 있는지 확인하십시오. 22(5) 2024년 한국 가입 이후 협의 의무.</div><div class="callout-body"></div></div>
-<h2 id="_22">모순 및 공개 질문</h2>
-<ul>
-<li>부다페스트 협약의 구속력 없는 협의 요건(Art. 22(5))이 충분합니까, 아니면 사이버 범죄 문제가 구속력 있는 관할권 할당 규칙을 요구합니까?</li>
-<li>법적 주장이 가장 강한 국가(예: 러시아 기반 공격자에 대한 러시아)가 기소를 꺼릴 경우 관할권을 어떻게 할당해야 합니까?</li>
-<li>미국이 주도하는 글로벌 사이버 범죄 사건의 기소 관행이 사실상 관할권의 계층 구조를 형성하는가? 이것이 합법적인가?</li>
-<li>개발도상국은 조사에 부족한 자원과 제공업체의 협력이 필요할 때 시민에게 영향을 미치는 사이버 범죄에 대한 관할권을 어떻게 주장할 수 있습니까?</li>
-<li>한국이 범죄인 인도를 위해 사이버 범죄 용의자를 체포할 때, 어떤 상황에서 청구국에 따르지 않고 자국의 관할권을 주장해야 합니까?</li>
+<li>Budapest Convention Art. 22(5) consultation</li>
+<li>Eurojust case coordination</li>
+<li>INTERPOL operational coordination</li>
+<li>Binding jurisdiction allocation mechanism (proposed)</li>
+<li>Forum selection criteria framework</li>
 </ul></div>
         <div class="en-block"><h2 id="summary"><span class="heading-ko">개요</span><span class="heading-en">Summary</span></h2>
 <p>Jurisdictional conflicts arise when two or more states simultaneously claim the right to investigate and prosecute the same cybercrime. This is not an edge case — it is the <em>default condition</em> for transnational cybercrime. The borderless nature of cyber offenses means that the attacker's location, the server infrastructure, the victim, and the evidence are typically distributed across multiple countries, each of which has a legitimate basis for asserting jurisdiction under the <a href="../../wiki/concepts/territoriality-principle.html" class="wikilink">territoriality-principle</a>, the <a href="../../wiki/concepts/nationality-principle.html" class="wikilink">nationality-principle</a>, or other jurisdictional doctrines.</p>

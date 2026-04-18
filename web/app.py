@@ -314,6 +314,17 @@ def render_markdown(text):
     return Markup(html)
 
 
+def render_infobox_value(text):
+    """Render simple inline content for infobox cells."""
+    if text is None:
+        return Markup("")
+    html = str(text)
+    html = convert_wikilinks(html)
+    html = linkify_bare_urls_in_markdown(html)
+    html = open_external_links_in_new_tab(html)
+    return Markup(html)
+
+
 def linkify_bare_urls_in_markdown(text):
     """Turn bare URLs into Markdown links so rendering is consistent."""
     pattern = re.compile(r'(?P<prefix>(^|[\s|>]))(?P<url>https?://[^\s<|]+)', re.M)
@@ -473,7 +484,17 @@ def build_infobox(meta, page_type):
     if sc:
         infobox.append(("출처 수", "Sources", str(sc), str(sc)))
 
-    return infobox
+    rendered_infobox = []
+    for label_ko, label_en, val_ko, val_en in infobox:
+        rendered_infobox.append(
+            (
+                label_ko,
+                label_en,
+                render_infobox_value(val_ko),
+                render_infobox_value(val_en),
+            )
+        )
+    return rendered_infobox
 
 
 # --- Korean Content Generator ---
@@ -1071,25 +1092,16 @@ def render_bilingual(meta: dict, en_content: str, page_type: str,
     """Render both English and Korean content for a page."""
     en_html = render_markdown(en_content)
 
-    # The wiki landing page and category indexes are regenerated frequently,
-    # while the optional translation cache may lag behind and surface stale
-    # counts. Prefer fresh source content for these navigation pages.
+    # Cached translations have repeatedly lagged behind source updates and
+    # reintroduced stale counts and broken wikilinks. Prefer fresh generation.
     if slug == "index" or page_type == "category-index":
         return en_html, None
 
-    # Look up cached translation
-    full_slug = f"{category}/{slug}" if category else slug
-    ko_md = _translation_cache.get(full_slug)
-
+    ko_md = generate_ko_content(meta, en_content, page_type)
     if ko_md:
         ko_html = render_markdown(ko_md)
     else:
-        # Fallback: generate from frontmatter
-        ko_md = generate_ko_content(meta, en_content, page_type)
-        if ko_md:
-            ko_html = render_markdown(ko_md)
-        else:
-            ko_html = None
+        ko_html = None
 
     return en_html, ko_html
 

@@ -96,9 +96,13 @@ lessons_learned:
   - "Dutch 'digital intrusion investigatory power' (hackbevoegdheid) proved essential for penetrating VPN infrastructure"
   - "30+ Europol coordination meetings + 6 Eurojust judicial meetings = 8-month preparation for simultaneous multi-country seizure"
   - "Seizing customer logs enables follow-on investigations against DoubleVPN users"
-source_count: 4
+source_count: 5
 sources:
   - "[[europol-doublevpn-takedown|Europol Press Release 2021-06-30]]"
+  - "[[2021-06-30_eurojust_coordinated-action-cuts-access-vpn-service-used-ransomware-groups]]"
+  - "[[2022-03-02_eurojust_annual-report-2021-doublevpn-case-example]]"
+  - "[[2021-06-30_nationalcrimeagency-gov-uk_doublevpn-takedown-nca-takes-uk-server-of-criminal-network-offline]]"
+  - "[[2021-06-30_therecord-media_dutch-police-takes-down-doublevpn-a-service-used-by-cybercrime-groups]]"
 created: 2026-04-08
 updated: 2026-04-11
 operation_role: umbrella
@@ -252,4 +256,5 @@ No known Korean involvement in this operation. However, DoubleVPN's customer bas
 | [2] | Coordinated action cuts off access to VPN service used by ransomware groups | Eurojust | 2021-06-30 | https://www.eurojust.europa.eu/news/coordinated-action-cuts-access-vpn-service-used-ransomware-groups |
 | [3] | DoubleVPN takedown: NCA takes UK server of criminal network offline | UK NCA | 2021-06-30 | https://www.nationalcrimeagency.gov.uk/news/doublevpn-takedown-nca-takes-uk-server-of-criminal-network-offline |
 | [4] | Dutch police takes down DoubleVPN, a service used by cybercrime groups | The Record | 2021-06-30 | https://therecord.media/dutch-police-takes-down-doublevpn-a-service-used-by-cybercrime-groups |
+| [5] | Eurojust Annual Report 2021: DoubleVPN case example | Eurojust | 2022-03-02 | https://www.eurojust.europa.eu/annual-report-2021/cybercrime/case-examples |
 

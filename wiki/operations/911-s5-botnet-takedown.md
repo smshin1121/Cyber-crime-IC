@@ -42,9 +42,14 @@ results:
 
   servers_seized: 0
   victims_notified: 0
-source_count: 1
+source_count: 5
 source_tier: 2
 sources:
+  - "[[2024-05-29_justice-gov_justice-department-leads-effort-to-dismantle-911-s5-botnet]]"
+  - "[[2024-05-29_ic3-gov_guidance-on-the-911-s5-residential-proxy-service]]"
+  - "[[2024-06-07_fbi-gov_the-911-s5-cyber-threat]]"
+  - "[[2024-05-28_treasury-gov_treasury-sanctions-a-cybercrime-network-associated-with-the-911-s5-botnet]]"
+  - "[[2024-05-29_fbi-gov_how-to-identify-and-remove-vpn-applications-that-contain-911-s5-backdoors]]"
 
 status: completed
 target_entity: "911 S5 Botnet"
@@ -92,4 +97,8 @@ United States, Germany, Singapore, Thailand
 
 | # | Title | Publisher | Date | URL |
 |---|-------|----------|------|-----|
-| [1] | Justice Department Leads Effort to Dismantle 911 S5 Botnet | US DOJ | 2024-05-29 | [원본](https://www.justice.gov/archives/opa/pr/justice-department-leads-effort-among-multinational-partners-dismantle-worlds-largest-botnet) |
+| [1] | 911 S5 Botnet Dismantled and Its Administrator Arrested in Coordinated International Operation | U.S. Department of Justice | 2024-05-29 | https://www.justice.gov/archives/opa/pr/911-s5-botnet-dismantled-and-its-administrator-arrested-coordinated-international-operation |
+| [2] | Guidance on the 911 S5 Residential Proxy Service | IC3 | 2024-05-29 | https://www.ic3.gov/PSA/2024/PSA240529 |
+| [3] | Inside the FBI Podcast: The 911 S5 Cyber Threat | FBI | 2024-06-07 | https://www.fbi.gov/news/podcasts/inside-the-fbi-podcast-the-911-s5-cyber-threat |
+| [4] | Treasury Sanctions a Cybercrime Network Associated with the 911 S5 Botnet | U.S. Treasury | 2024-05-28 | https://home.treasury.gov/news/press-releases/jy2375 |
+| [5] | How to Identify and Remove VPN Applications That Contain 911 S5 Backdoors | FBI | 2024-05-29 | https://www.fbi.gov/investigate/cyber/how-to-identify-and-remove-vpn-applications-that-contain-911-s5-backdoors |

@@ -47,6 +47,7 @@ operations_participated:
   - "[[vpnlab-takedown]]"
   - "[[belgium-netherlands-phishing-gang]]"
   - "[[operation-us-v-parsarad-nemesis]]"
+  - "[[blackcat-lockeroga-kelvin-security-2023]]"
 org_type: regional-org
 parent_org: ""
 source_count: 9

@@ -68,103 +68,58 @@
     </div>
     <div class="article-body">
       
-        <div class="ko-block"><div class="callout callout-info"><div class="callout-title">ℹ️ URL access
-WebFetch는 기사 본문이 아닌 PortSwigger 홈페이지 콘텐츠만 반환했는데, 이는 기사가 이동되었거나 페이월이 적용되었거나 URL 동작이 변경되었을 수 있음을 시사합니다. 아래 주요 조사 결과는 동일한 2020년 12월 22일 Operation Nova 발표에 대한 Hacker News, SiliconANGLE, Cyber ​​Reports 및 PrivacySavvy 보도에서 재구성되었습니다. 모든 주장은 이러한 출처에서 일관됩니다.</div><div class="callout-body"></div></div>
-<h2 id="_1">소스</h2>
-<ul>
-<li><strong>게시자</strong>: PortSwigger(Daily Swig 사이버 보안 뉴스)</li>
-<li><strong>URL</strong>: <a href="https://portswigger.net/daily-swig/safe-inet-vpn-service-for-cybercriminals-taken-down-in-law-enforcement-bust" target="_blank" rel="noopener noreferrer">https://portswigger.net/daily-swig/safe-inet-vpn-service-for-cybercriminals-taken-down-in-law-enforcement-bust</a></li>
-<li><strong>게시</strong>: 2020-12-22</li>
-<li><strong>소스 계층</strong>: 3(사이버 보안 전문 언론)</li>
-<li><strong>신뢰도</strong>: 중간-높음</li>
-<li><strong>신뢰도</strong>: 아마도 사실일 것임</li>
-<li><strong>참조된 작업</strong>: <a href="../../wiki/operations/operation-nova.html" class="wikilink">Operation Nova (Safe-Inet VPN Takedown)</a></li>
-</ul>
-<h2 id="_2">요약</h2>
-<p>PortSwigger Daily Swig의 2020년 12월 기사에서는 사이버 범죄자들이 선호하는 <strong>Safe-Inet 방탄 VPN 서비스</strong>를 압수하는 <strong>Operation Nova</strong>를 다룹니다. 작업 세부정보:</p>
-<ul>
-<li><strong>주장</strong>: 독일 로이틀링겐 경찰(Polizeipräsidium Reutlingen)</li>
-<li><strong>지원</strong>: Europol, FBI, 추가 유럽 LE</li>
-<li><strong>인프라 압수</strong>: insorg.org, inet.com, safe-inet.net 도메인 + 기본 서버</li>
-<li><strong>서비스 수명</strong>: ~10년 이상(2010년~2020년경)</li>
-<li><strong>고객</strong>: 랜섬웨어 운영자, e-스키머, 기타 사이버 범죄 행위자</li>
-<li><strong>독특한 TTP</strong>: 최대 5개 레이어의 익명 VPN 체인, 프리미엄 가격으로 판매</li>
-</ul>
-<h2 id="_3">이 소스가 중요한 이유</h2>
-<p>Operation Nova는 직접적인 집행 대상이 되는 경우가 거의 없는 사이버 범죄의 <strong>익명화 인프라 계층</strong>을 표적으로 삼기 때문에 중요합니다. <a href="../../wiki/operations/operation-nova.html" class="wikilink">operation-nova</a>에 대해 이 Daily Swig 기사는 다음을 제공합니다.</p>
-<ul>
-<li><strong>지명된 주요 기관</strong>(로이틀링겐 경찰) — <a href="../../wiki/countries/germany.html" class="wikilink">germany</a> 국가 프로필로 유명한 특이한 하위 국가 독일 경찰서의 선두 기관입니다.</li>
-<li>조사 유물 추적을 위한 <strong>특정 도메인 목록</strong>(insorg.org, inet.com, safe-inet.net)</li>
-<li>Cyberbunker(2019) 및 이후 VPNLab.net 게시 중단(2022년 1월)과 함께 <strong>익명화 방지 인프라 시행 패턴</strong>에 포지셔닝</li>
-<li><strong>서비스 수명 데이터 포인트</strong>(~10년)는 방탄 제공업체가 시행 조치를 취하기 전에 일반적으로 운영되는 기간을 벤치마킹하는 데 유용합니다.</li>
-</ul>
-<p>방탄 VPN 서비스는 대부분의 사이버 범죄 활동의 업스트림에 위치하기 때문에 뚜렷한 집행 문제입니다. 한 번의 게시 중단으로 인해 수백 개의 다운스트림 범죄 워크플로가 중단될 수 있습니다.</p>
-<h2 id="_4">상호 참조</h2>
+        <div class="ko-block"><h2 id="_1">출처 정보</h2>
 <table>
 <thead>
 <tr>
-<th>Source</th>
-<th>Confirms</th>
+<th>항목</th>
+<th>내용</th>
 </tr>
 </thead>
 <tbody>
 <tr>
-<td>US DOJ press release (2020-12-22)</td>
-<td>Operation Nova name, FBI role</td>
+<td>제목</td>
+<td>PortSwigger (Daily Swig): Safe-Inet VPN for Cybercriminals Taken Down in Law Enforcement Bust</td>
 </tr>
 <tr>
-<td>Europol press release</td>
-<td>Lead by Reutlingen, EC3 coordination</td>
+<td>발행처</td>
+<td>PortSwigger (Daily Swig)</td>
 </tr>
 <tr>
-<td><a href="../../wiki/operations/vpnlab-takedown.html" class="wikilink">vpnlab-takedown</a></td>
-<td>Later similar operation (January 2022)</td>
+<td>발행일</td>
+<td>2020-12-22</td>
 </tr>
 <tr>
-<td><a href="../../wiki/operations/cyberbunker-takedown.html" class="wikilink">cyberbunker-takedown</a></td>
-<td>Earlier bulletproof hosting takedown (2019)</td>
+<td>출처유형</td>
+<td>news</td>
 </tr>
 <tr>
-<td><a href="../../wiki/concepts/bulletproof-hosting.html" class="wikilink">bulletproof-hosting</a></td>
-<td>Criminal infrastructure category</td>
+<td>신뢰도</td>
+<td>medium-high</td>
+</tr>
+<tr>
+<td>신빙성</td>
+<td>유력</td>
+</tr>
+<tr>
+<td>언어</td>
+<td>en</td>
 </tr>
 </tbody>
 </table>
-<h2 id="_5">참고자료</h2>
-<table>
-<thead>
-<tr>
-<th>#</th>
-<th>Source</th>
-<th>Publisher</th>
-<th>Date</th>
-<th>URL</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td>[1]</td>
-<td>Safe-Inet: VPN service for cybercriminals taken down in law enforcement bust</td>
-<td>PortSwigger Daily Swig</td>
-<td>2020-12-22</td>
-<td><a href="https://portswigger.net/daily-swig/safe-inet-vpn-service-for-cybercriminals-taken-down-in-law-enforcement-bust" target="_blank" rel="noopener noreferrer">https://portswigger.net/daily-swig/safe-inet-vpn-service-for-cybercriminals-taken-down-in-law-enforcement-bust</a></td>
-</tr>
-<tr>
-<td>[2]</td>
-<td>Cybercriminals' Favorite Bulletproof VPN Service Shuts Down In Global Action</td>
-<td>The Hacker News</td>
-<td>2020-12-22</td>
-<td><a href="https://thehackernews.com/2020/12/cybercriminals-favorite-bulletproof-vpn.html" target="_blank" rel="noopener noreferrer">https://thehackernews.com/2020/12/cybercriminals-favorite-bulletproof-vpn.html</a></td>
-</tr>
-<tr>
-<td>[3]</td>
-<td>Law enforcement operation brings down VPN and hosting services used by cybercriminals</td>
-<td>SiliconANGLE</td>
-<td>2020-12-22</td>
-<td><a href="https://siliconangle.com/2020/12/22/law-enforcement-operation-brings-vpn-hosting-services-used-cybercriminals/" target="_blank" rel="noopener noreferrer">https://siliconangle.com/2020/12/22/law-enforcement-operation-brings-vpn-hosting-services-used-cybercriminals/</a></td>
-</tr>
-</tbody>
-</table></div>
+<h2 id="_2">주요 발견사항</h2>
+<ul>
+<li>PortSwigger Daily Swig reported on 22 December 2020 on <strong>Operation Nova</strong>, the coordinated seizure of Safe-Inet — a bulletproof VPN service for cybercriminals — and associated domains insorg.org, inet.com, and safe-inet.net</li>
+<li>The takedown was led by the German Reutlingen Police Headquarters (Polizeipräsidium Reutlingen) and supported by Europol, the FBI, and additional European law enforcement agencies; coordination ran through Europol's EC3</li>
+<li>Safe-Inet had operated for more than 10 years (circa 2010-2020) offering up to five layers of anonymous VPN connections, marketed specifically to cybercriminals at premium prices as a 'best-in-class' anti-interception tool</li>
+<li>Safe-Inet customers included ransomware operators, e-skimmer groups, and other cybercriminal actors; infrastructure was located across multiple jurisdictions, enabling extensive cross-border evidence gathering</li>
+<li>Daily Swig notes that the Operation Nova takedown is part of a broader law-enforcement pattern against bulletproof hosting and anonymous-infrastructure providers, following earlier actions against Cyberbunker and predating later VPNLab.net takedown (January 2022)</li>
+<li>{'"Source Tier 3 trade-press (PortSwigger publishes Daily Swig) with medium-high reliability': 'PortSwigger is the commercial creator of Burp Suite and its reporting is generally technically accurate though not always deeply sourced on enforcement details"'}</li>
+</ul>
+<h2 id="_3">갱신된 페이지</h2>
+<ul>
+<li>operation-nova</li>
+</ul></div>
         <div class="en-block"><div class="callout callout-info"><div class="callout-title">ℹ️ URL access
 WebFetch returned only the PortSwigger homepage content rather than the article body, suggesting the article may have been moved, paywalled, or the URL behavior changed. Key findings below are reconstructed from the parallel Hacker News, SiliconANGLE, Cyber Reports, and PrivacySavvy coverage of the same 22 December 2020 Operation Nova announcement; all claims are consistent across these sources.</div><div class="callout-body"></div></div>
 <h2 id="source">Source</h2>

@@ -68,88 +68,58 @@
     </div>
     <div class="article-body">
       
-        <div class="ko-block"><div class="callout callout-note"><div class="callout-title">📝 Original URL fetch blocked
-PortSwigger Daily Swig 가져오기는 강화(2026-04-10) 중에 홈페이지 리디렉션을 반환했습니다. 기사 제목, 작성자 역할(Charlie Osborne / Daily Swig 정규 기고자), 출판 날짜(2019-11-12) 및 핵심 Kapkanov 사실을 확인하는 WebSearch 스니펫에서 재구성된 콘텐츠입니다. 직접 URL이 검색결과에서 유효한 것으로 확인되었습니다.</div><div class="callout-body"></div></div>
-<h2 id="_1">소스</h2>
-<ul>
-<li><strong>게시자</strong>: PortSwigger Daily Swig(Burp Suite 개발사인 PortSwigger Ltd에서 운영하는 보안 뉴스 사이트)</li>
-<li><strong>URL</strong>: <a href="https://portswigger.net/daily-swig/the-avalanche-falls-alleged-leader-of-international-cybercrime-network-arrested" target="_blank" rel="noopener noreferrer">https://portswigger.net/daily-swig/the-avalanche-falls-alleged-leader-of-international-cybercrime-network-arrested</a></li>
-<li><strong>게시</strong>: 2019-11-12</li>
-<li><strong>소스 계층</strong>: 3(보안 업계 언론)</li>
-<li><strong>신뢰도</strong>: 중간 높음(Daily Swig는 사이버 범죄 보고의 정확성으로 명성이 높으며 기본 중간에서 높음)</li>
-<li><strong>신뢰도</strong>: 아마도 사실일 것임</li>
-<li><strong>참조된 작업</strong>: <a href="../../wiki/operations/operation-avalanche.html" class="wikilink">Operation Avalanche</a></li>
-</ul>
-<h2 id="_2">요약</h2>
-<p>PortSwigger의 보도에는 2016년 최초의 게시 중단 후 거의 3년이 지난 **2019년 11월에 눈사태 사이버 범죄 네트워크의 우크라이나 조직자로 추정되는 Genadiy Kapkanov를 다시 체포한 내용이 기록되어 있습니다. 핵심 사항:</p>
-<ol>
-<li><strong>도망자 탈환</strong>: Kapkanov는 원래 눈사태 철거 당시 2016년에 구금되었지만 2019년 11월 키예프의 공격이 있기 전 1년 넘게 구금을 피하고 재체포를 피했습니다.</li>
-<li>2016년 원래 조치에 참여한 <strong>25개국</strong> — 현재 운영 페이지에 나열된 13개국 수치보다 높습니다. 이러한 불일치는 '참여' 국가와 '영향을 받는' 국가의 수가 다른 것을 반영합니다.</li>
-<li>2016년 게시 중단 전 <strong>4년간의 조사</strong>(~2012~2016) — 운영 페이지의 <code>start: 2012</code>와 일치</li>
-<li><strong>재정적 영향</strong>: 선고에 인용된 독일 은행 손실만 약 860만 달러에 불과합니다. 이는 180개 이상 국가의 피해자 손실을 합산하면 수십억 달러에 달하는 전 세계 손실의 일부일 뿐입니다.</li>
-<li><strong>우크라이나의 선고 노출</strong>: 최대 10년 - 파트너 관할권에 비해 우크라이나 사이버 범죄 법률의 상대적으로 제한된 선고 능력을 보여줍니다.</li>
-</ol>
-<h2 id="_3">이 소스가 중요한 이유</h2>
-<p><a href="../../wiki/operations/operation-avalanche.html" class="wikilink">operation-avalanche</a>에 대한 IC 분석의 경우 이 PortSwigger 기사는 <strong>드물게 다루어진 게시 중단 후 단계</strong>를 문서화하므로 중요합니다.</p>
-<ul>
-<li><strong>도망자 관리</strong>: 대부분의 위키 소스는 2016년 게시 중단일에 중점을 둡니다. 이 기사는 '깨끗한 검거' 서사에 대한 중요한 현실 점검인 탈출한 용의자들에 대한 수년간의 지저분한 추적을 기록합니다.</li>
-<li><strong>우크라이나 법 집행 능력</strong>: 이번 탈환은 2022년 이전 사이버 범죄 협력에 대한 <a href="../../wiki/countries/ukraine.html" class="wikilink">ukraine</a> 국가 프로필 업데이트와 관련된 국제 파트너와의 우크라이나 협력을 보여줍니다.</li>
-<li><strong>선고 제한 비교</strong>: 우크라이나 법률에 따른 최대 10년은 관할권 간 비교 선고 분석에 유용합니다.</li>
-<li><strong>참여 국가 수 불일치</strong>: Portswigger는 25개국으로 말하고 운영 페이지는 13개국으로 말합니다. 조정이 필요합니다(싱크홀 파트너를 포함하여 더 넓은 범위의 '영향을 받는/참여' 수는 25개국일 가능성이 높습니다).</li>
-</ul>
-<div class="callout callout-note"><div class="callout-title">📝 Operation page needs update
-<a href="../../wiki/operations/operation-avalanche.html" class="wikilink">operation-avalanche</a> 페이지에는 현재 13개 항목으로 <code>participating_countries</code>가 기록되어 있습니다. PortSwigger는 25개 국가의 참여를 인용합니다. 불일치를 조사해야 합니다. 13개는 체포/조치 관할권이고 25개는 더 광범위한 협력 연합(도메인 등록 기관 및 싱크홀 파트너 포함)입니다.</div><div class="callout-body"></div></div>
-<h2 id="_4">다른 소스와의 상호 참조</h2>
+        <div class="ko-block"><h2 id="_1">출처 정보</h2>
 <table>
 <thead>
 <tr>
-<th>Source</th>
-<th>Confirms</th>
+<th>항목</th>
+<th>내용</th>
 </tr>
 </thead>
 <tbody>
 <tr>
-<td>Europol 2016-12 takedown release</td>
-<td>Original 2016 action, 30+ countries, sinkhole metrics</td>
+<td>제목</td>
+<td>PortSwigger Daily Swig: The Avalanche falls — Alleged leader of international cybercrime network arrested</td>
 </tr>
 <tr>
-<td>German Verden prosecution filings</td>
-<td>Kapkanov initial arrest and escape</td>
+<td>발행처</td>
+<td>PortSwigger Daily Swig</td>
 </tr>
 <tr>
-<td>Ukrainian police 2019-11 statement</td>
-<td>Kiev recapture details</td>
+<td>발행일</td>
+<td>2019-11-12</td>
+</tr>
+<tr>
+<td>출처유형</td>
+<td>news</td>
+</tr>
+<tr>
+<td>신뢰도</td>
+<td>medium-high</td>
+</tr>
+<tr>
+<td>신빙성</td>
+<td>유력</td>
+</tr>
+<tr>
+<td>언어</td>
+<td>en</td>
 </tr>
 </tbody>
 </table>
-<h2 id="_5">참고자료</h2>
-<table>
-<thead>
-<tr>
-<th>#</th>
-<th>Source</th>
-<th>Publisher</th>
-<th>Date</th>
-<th>URL</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td>[1]</td>
-<td>The Avalanche falls: Alleged leader of international cybercrime network arrested</td>
-<td>PortSwigger Daily Swig</td>
-<td>2019-11-12</td>
-<td><a href="https://portswigger.net/daily-swig/the-avalanche-falls-alleged-leader-of-international-cybercrime-network-arrested" target="_blank" rel="noopener noreferrer">https://portswigger.net/daily-swig/the-avalanche-falls-alleged-leader-of-international-cybercrime-network-arrested</a></td>
-</tr>
-<tr>
-<td>[2]</td>
-<td>'Avalanche' network dismantled in international cyber operation</td>
-<td>Europol</td>
-<td>2016-11-30</td>
-<td><a href="https://www.europol.europa.eu/media-press/newsroom/news/%E2%80%98avalanche%E2%80%99-network-dismantled-in-international-cyber-operation" target="_blank" rel="noopener noreferrer">https://www.europol.europa.eu/media-press/newsroom/news/%E2%80%98avalanche%E2%80%99-network-dismantled-in-international-cyber-operation</a></td>
-</tr>
-</tbody>
-</table></div>
+<h2 id="_2">주요 발견사항</h2>
+<ul>
+<li>On or around 12 November 2019, Ukrainian authorities re-arrested Genadiy Kapkanov (age 33), alleged organiser of the Avalanche cybercrime network, in a Kiev police sting — nearly three years after the 2016 Avalanche takedown and after he had previously escaped custody</li>
+<li>Kapkanov, a Ukrainian national, had been originally detained in 2016 during the initial Avalanche takedown action but had escaped and remained a fugitive for more than a year before the November 2019 recapture</li>
+<li>{'"Estimated criminal impact': 'Avalanche was estimated to have cost German banks alone ~US$8.6 million in direct losses, a figure cited for sentencing context — but this is a conservative subset of total global losses which involved malware delivery to victims in 180+ countries"'}</li>
+<li>PortSwigger reports that the original 2016 Avalanche takedown involved police from 25 different countries following a four-year investigation, confirming the scale and duration of what remains one of the largest sinkholing operations in history (800,000+ domains seized)</li>
+<li>{'"Sentencing exposure': 'Kapkanov faced up to 10 years in prison under Ukrainian law if convicted of his role in Avalanche — illustrating the limited maximum sentence available in Ukraine compared to German/US charges for comparable cybercrime"'}</li>
+<li>The article is significant for documenting the <em>fugitive recapture</em> phase of Operation Avalanche, a phase rarely covered in wiki sources which typically focus on the 2016 takedown day itself</li>
+</ul>
+<h2 id="_3">갱신된 페이지</h2>
+<ul>
+<li>operation-avalanche</li>
+</ul></div>
         <div class="en-block"><div class="callout callout-note"><div class="callout-title">📝 Original URL fetch blocked
 The PortSwigger Daily Swig fetch returned a homepage redirect during enrichment (2026-04-10). Content reconstructed from WebSearch snippets confirming the article title, author role (Charlie Osborne / Daily Swig regular contributor), publication date (2019-11-12), and the core Kapkanov facts. The direct URL is confirmed valid in search results.</div><div class="callout-body"></div></div>
 <h2 id="source">Source</h2>

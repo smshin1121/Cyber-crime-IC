@@ -17,11 +17,11 @@ enforcement_type:
 outcome: success
 timeframe:
   announced: 2023-12-19
-  start: 2023-12-01
-  end: 2023-12-31
+  start: 2023-11-28
+  end: 2023-12-19
   ongoing: false
 crime_type: "[[ransomware-ic]]"
-target_entity: "BlackCat/ALPHV, LockerGoga, Kelvin Security"
+target_entity: "BlackCat/ALPHV, LockerGoga-linked affiliate network, Kelvin Security"
 lead_agency: "[[fbi-cyber-division]]"
 coordinating_body: "[[europol-ec3]]"
 participating_countries:
@@ -32,23 +32,23 @@ participating_countries:
 participating_agencies:
   - "[[fbi-cyber-division]]"
   - "[[europol-ec3]]"
+  - "[[eurojust]]"
 legal_basis:
 
 mechanisms_used:
 
 results:
-  arrests: 0
+  arrests: 1
   indictments: 0
   servers_seized: 0
   domains_seized: 0
   cryptocurrency_seized: ""
-  decryption_keys_recovered: 0
-  victims_notified: 0
+  decryption_keys_recovered: 1
+  victims_notified: 500
   other:
     - "BlackCat/ALPHV infrastructure disrupted"
-    - "LockerGoga suspects arrested"
-    - "Kelvin Security hacking group member arrested"
-    - "Multiple enforcement actions in December 2023"
+    - "LockerGoga-linked affiliate network hit by searches and detentions in Ukraine"
+    - "Kelvin Security-linked suspect arrested in Spain"
 edges:
   - source_actor: FBI
     target_actor: Europol
@@ -69,12 +69,13 @@ challenges_encountered:
 
 lessons_learned:
   - "Coordinated enforcement sweeps targeting multiple ransomware groups simultaneously increase pressure on the ecosystem"
-source_count: 3
+source_count: 5
 sources:
   - "[[2023-12-19_justice-gov_justice-department-disrupts-prolific-alphvblackcat-ransomware-variant]]"
   - "[[2023-11-28_eurojust_ransomware-group-dismantled-ukraine-major-operation-supported-eurojust-europol]]"
   - "[[2023-12-11_interior-gob-es_policia-nacional-detiene-lider-kelvin-security]]"
-
+  - "[[2023-12-19_cisa-gov_stopransomware-alphv-blackcat]]"
+  - "[[2023-12-19_bleepingcomputer_fbi-disrupts-blackcat-ransomware-operation-creates-decryption-tool]]"
 created: 2026-04-08
 updated: 2026-04-18
 operation_role: umbrella
@@ -88,6 +89,7 @@ jurisdictions:
 organizations:
   - "[[fbi-cyber-division]]"
   - "[[europol-ec3]]"
+  - "[[eurojust]]"
 crime_types:
   - "[[ransomware-ic]]"
 ---
@@ -108,13 +110,14 @@ Taken together, these announcements illustrate how official cyber enforcement ac
 
 ## Background
 
-The page originally combined these events using a placeholder media roundup. The revised version anchors each element to an official source. The three actions were related only in timing and enforcement theme, not because authorities described them as one named umbrella operation.
+The page originally combined these events using a placeholder media roundup. The revised version anchors each element to official or clearly attributable sources. The three actions were related only in timing and enforcement theme, not because authorities described them as one named umbrella operation.
 
 ## Participating Parties
 
 ### Agencies
 - [[fbi-cyber-division|FBI Cyber Division]]
 - [[europol-ec3|Europol EC3]]
+- [[eurojust]]
 
 ### Participating Countries
 - [[united-states|United States]]
@@ -166,7 +169,7 @@ No Korean involvement identified.
 ## Follow-Up Actions
 
 > [!warning] No public court documents found
-> Web search (2026-04-17) yielded no publicly accessible court filings
+> Web search (2026-04-18) yielded no publicly accessible court filings
 > for this operation. Possible reasons: non-US jurisdiction with no
 > public court records system, sealed proceedings, or operation did
 > not result in formal prosecution.
@@ -175,7 +178,8 @@ No Korean involvement identified.
 
 | # | Title | Publisher | Date | URL |
 |---|-------|----------|------|-----|
-| [1] | Justice Department Disrupts Prolific ALPHV/Blackcat Ransomware Variant | US Department of Justice | 2023-12-19 | https://www.justice.gov/archives/opa/pr/justice-department-disrupts-prolific-alphvblackcat-ransomware-variant |
+| [1] | Justice Department Disrupts Prolific ALPHV/Blackcat Ransomware Variant | U.S. Department of Justice | 2023-12-19 | https://www.justice.gov/archives/opa/pr/justice-department-disrupts-prolific-alphvblackcat-ransomware-variant |
 | [2] | Ransomware group dismantled in Ukraine in a major international operation supported by Eurojust and Europol | Eurojust | 2023-11-28 | https://www.eurojust.europa.eu/news/ransomware-group-dismantled-ukraine-major-operation-supported-eurojust-europol |
 | [3] | La Policía Nacional detiene al líder del aparato financiero de uno de los grupos hacktivistas más importantes del mundo | Ministry of the Interior of Spain | 2023-12-11 | https://www.interior.gob.es/opencms/en/detail-pages/article/La-Policia-Nacional-detiene-al-lider-del-aparato-financiero-de-uno-de-los-grupos-hacktivistas-mas-importantes-del-mundo/ |
-
+| [4] | #StopRansomware: ALPHV Blackcat | CISA / FBI / HHS | 2023-12-19 | https://www.cisa.gov/news-events/cybersecurity-advisories/aa23-353a |
+| [5] | FBI disrupts BlackCat ransomware operation, creates decryption tool | BleepingComputer | 2023-12-19 | https://www.bleepingcomputer.com/news/security/fbi-disrupts-blackcat-ransomware-operation-creates-decryption-tool/ |

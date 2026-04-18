@@ -1,0 +1,31 @@
+---
+type: source
+title: "Coordinated action cuts off access to VPN service used by ransomware groups"
+collection_url: https://www.eurojust.europa.eu/news/coordinated-action-cuts-access-vpn-service-used-ransomware-groups
+collection_domain: eurojust.europa.eu
+source_type: press-release
+publisher: "Eurojust"
+author: ""
+publish_date: 2021-06-30
+ingest_date: 2026-04-18
+language: en
+reliability: high
+credibility: confirmed
+sensitivity: public
+source_tier: 1
+pages_updated:
+  - doublevpn-takedown
+key_findings:
+  - "Eurojust described the DoubleVPN action as a coordinated seizure of web domains and server infrastructure across Europe, the United States, and Canada."
+  - "The release states that Eurojust organized six dedicated coordination meetings and a coordination centre on the action day."
+  - "The action was explicitly placed in the EMPACT framework."
+created: 2026-04-18
+updated: 2026-04-18
+---
+## Source Summary
+
+This is the main judicial-cooperation source for the DoubleVPN takedown.
+
+## Relevance to IC
+
+For [[doublevpn-takedown]], it provides the strongest public evidence for Eurojust's coordination role and the cross-border legal-preparation layer behind the seizure.

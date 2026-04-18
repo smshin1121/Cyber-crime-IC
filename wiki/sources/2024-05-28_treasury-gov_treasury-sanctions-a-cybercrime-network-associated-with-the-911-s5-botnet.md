@@ -1,0 +1,31 @@
+---
+type: source
+title: "Treasury Sanctions a Cybercrime Network Associated with the 911 S5 Botnet"
+collection_url: https://home.treasury.gov/news/press-releases/jy2375
+collection_domain: treasury.gov
+source_type: press-release
+publisher: "U.S. Department of the Treasury"
+author: ""
+publish_date: 2024-05-28
+ingest_date: 2026-04-18
+language: en
+reliability: high
+credibility: confirmed
+sensitivity: public
+source_tier: 1
+pages_updated:
+  - 911-s5-botnet-takedown
+key_findings:
+  - "Treasury OFAC sanctioned Yunhe Wang, two associates, and three entities linked to the 911 S5 botnet."
+  - "The sanctions release independently confirms the fraud and proxy-service dimensions of the 911 S5 network."
+  - "The sanctions action shows the operation included financial-disruption measures as well as criminal process."
+created: 2026-04-18
+updated: 2026-04-18
+---
+## Source Summary
+
+This OFAC release adds a sanctions and asset-disruption layer to the 911 S5 operation record.
+
+## Relevance to IC
+
+For [[911-s5-botnet-takedown]], it confirms that the operation was not only an arrest and seizure action but also a coordinated financial disruption campaign.

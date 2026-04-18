@@ -68,10 +68,10 @@
           </th>
           <td>
             {% if item[2] != item[3] %}
-              <span class="heading-ko">{{ item[2] }}</span>
-              <span class="heading-en">{{ item[3] }}</span>
+              <span class="heading-ko">{{ item[2]|safe }}</span>
+              <span class="heading-en">{{ item[3]|safe }}</span>
             {% else %}
-              {{ item[2] }}
+              {{ item[2]|safe }}
             {% endif %}
           </td>
         </tr>
