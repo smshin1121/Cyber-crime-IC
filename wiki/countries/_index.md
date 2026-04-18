@@ -7,7 +7,7 @@ updated: 2026-04-14
 total: 61
 ---
 
-# Countries (85)
+# Countries (86)
 
 | Country | Legal System | Budapest Conv. | IC Capacity | MLAT Response | Sources |
 |---------|--------------|----------------|-------------|---------------|---------|
@@ -69,6 +69,7 @@ total: 61
 | [[montenegro]] | civil-law | — | unknown | unknown | 0 |
 | [[macedonia]] | civil-law | — | unknown | unknown | 0 |
 | [[mauritius]] | mixed | — | medium | unknown | 0 |
+| [[mexico]] | — | — | unknown | unknown | 0 |
 | [[malaysia]] | mixed | — | medium | unknown | 0 |
 | [[nigeria]] | mixed | — | medium | 180+ | 0 |
 | [[netherlands]] | civil-law | — | high | 60-120 | 1 |

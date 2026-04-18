@@ -293,9 +293,14 @@ def open_external_links_in_new_tab(html: str) -> str:
 
         return f"<a {attrs.strip()}>"
 
-    return re.sub(
+    html = re.sub(
         r"<a\s+([^>]*?)href=\"(https?://[^\"]+)\"([^>]*)>",
         replace,
+        html,
+    )
+    return re.sub(
+        r'(<a\b[^>]*class="[^"]*\bexternal-link\b[^"]*"[^>]*>)(https?://[^<]+)(</a>)',
+        r"\1Link\3",
         html,
     )
 
@@ -369,7 +374,7 @@ def linkify_bare_urls_in_markdown(text):
         while url and url[-1] in ".,;:":
             trailing = url[-1] + trailing
             url = url[:-1]
-        return f"{prefix}[{url}]({url}){trailing}"
+        return f"{prefix}[Link]({url}){trailing}"
 
     return pattern.sub(replace, text)
 

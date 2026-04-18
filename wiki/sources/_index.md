@@ -6,7 +6,7 @@ created: 2026-04-08
 updated: 2026-04-14
 ---
 
-# Sources (1732)
+# Sources (1737)
 
 | Source | Type | Publisher | Tier | Reliability | Domain |
 |--------|------|-----------|------|-------------|--------|
@@ -1231,9 +1231,11 @@ updated: 2026-04-14
 | [[2026-04-18_justice-gov_pasadena-man-who-cyberstalked-and-made-threats-injure-rape-and-kill-sentenced-more-3]] | press-release | US DOJ USAO | ? | high | ? |
 | [[2026-04-18_justice-gov_utah-man-charged-murder-hire-scheme]] | press-release | US DOJ USAO | ? | high | ? |
 | [[2026-04-18_justice-gov_prince-george-s-county-man-sentenced-seven-years-federal-prison-heroin-distribution]] | press-release | US DOJ USAO | ? | high | ? |
+| [[2021-11-05_morelaw_united-states-of-america-v-joanna-de-alba]] | legal-summary | MoreLaw | 3 | medium | ? |
 | [[2026-04-18_justice-gov_kirkwood-resident-pleads-guilty-identity-theft]] | press-release | US DOJ USAO | ? | high | ? |
 | [[2021-11-03_justice-gov_united-states-v-joanna-de-alba]] | press-release | US DOJ (Eastern District of New York) | ? | high | ? |
 | [[2021-11-03_edny_joanna-de-alba-dark-web-sentencing]] | court-document | US DOJ (Eastern District of New York) | ? | high | ? |
+| [[2021-11-03_dea_dark-web-narcotics-trafficker-sentenced-96-months-prison]] | press-release | Drug Enforcement Administration | 1 | high | ? |
 | [[2021-11-01_interpol-int_more-than-1-000-arrests-and-usd-27-million-intercepted-in-massive-financial-c]] | press-release | INTERPOL | ? | high | ? |
 | [[uk-nca-darkode-forum-takedown]] | press-release | UK National Crime Agency (NCA) | 2 | high | ? |
 | [[2026-04-18_justice-gov_culpeper-woman-arrested-dark-web-murder-hire-plot]] | press-release | US DOJ USAO | ? | high | ? |
@@ -1395,6 +1397,9 @@ updated: 2026-04-14
 | [[2026-04-18_justice-gov_ccips-press-releases-2020]] | press-release | US DOJ | ? | high | ? |
 | [[2026-04-18_justice-gov_weleakinfocom-domain-name-seized]] | press-release | US DOJ USAO | ? | high | ? |
 | [[2026-04-18_justice-gov_5-charged-28-million-dark-web-drug-trafficking-money-laundering-conspiracy]] | press-release | US DOJ USAO | ? | high | ? |
+| [[2020-01-03_decrypt_dark-web-vendor-indicted-for-selling-heroin-for-bitcoin]] | news | Decrypt | 3 | medium | ? |
+| [[2020-01-02_justice-gov_alleged-dark-web-narcotics-trafficker-indicted-distributing-heroin-and-methamphetamine]] | press-release | USAO Eastern District of New York | 1 | high | ? |
+| [[2020-01-02_dea_alleged-dark-web-narcotics-trafficker-indicted-for-distributing-heroin]] | press-release | Drug Enforcement Administration | 1 | high | ? |
 | [[2020-01-01_rm-coe-int_octocom-legal-profile-albania]] | press-release | Council of Europe | ? | medium | ? |
 | [[2020-01-01_moict-gov-gm_gambia-national-cyber-security-policy-2020-2024]] | press-release | Ministry of Interior (The Gambia) | ? | medium | ? |
 | [[2020-01-01_interpol-int_interpol-report-highlights-key-cyberthreats-in-southeast-asia]] | press-release | INTERPOL | ? | high | ? |
