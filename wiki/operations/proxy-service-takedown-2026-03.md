@@ -214,3 +214,9 @@ No [[south-korea|South Korean]] participation is documented in this operation. K
 > for this operation. Possible reasons: non-US jurisdiction with no
 > public court records system, sealed proceedings, or operation did
 > not result in formal prosecution.
+
+## References
+
+| # | Source | Publisher | Date | URL |
+|---|---|---|---|---|
+| 1 | Servers used for cybercrime around the world taken down | Eurojust | 2026-03-12 | [Link](https://www.eurojust.europa.eu/news/servers-used-cybercrime-around-world-taken-down) |

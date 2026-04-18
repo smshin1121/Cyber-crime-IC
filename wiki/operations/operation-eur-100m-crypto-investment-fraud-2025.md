@@ -23,7 +23,7 @@ timeframe:
   start: 2018
   end: 2025-09-23
   ongoing: false
-crime_type: "[[investment-fraud]]"
+crime_type: "[[online-fraud-ic]]"
 target_entity: "A transnational cryptocurrency investment fraud network targeting victims across Europe"
 lead_agency: "[[eurojust]]"
 coordinating_body: "[[eurojust]]"
@@ -74,7 +74,7 @@ organizations:
   - "[[europol-ec3]]"
   - "[[spain-national-police]]"
 crime_types:
-  - "[[investment-fraud]]"
+  - "[[online-fraud-ic]]"
 jurisdictions:
   - "[[bulgaria]]"
   - "[[italy]]"

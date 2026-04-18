@@ -23,7 +23,7 @@ timeframe:
   start: 2023
   end: 2025-01-27
   ongoing: false
-crime_type: "[[money-laundering]]"
+crime_type: "[[money-laundering-ic]]"
 target_entity: "A criminal network providing large-scale laundering services for other criminal organisations"
 lead_agency: "[[eurojust]]"
 coordinating_body: "[[eurojust]]"
@@ -71,7 +71,7 @@ organizations:
   - "[[europol-ec3]]"
   - "[[spain-guardia-civil]]"
 crime_types:
-  - "[[money-laundering]]"
+  - "[[money-laundering-ic]]"
 jurisdictions:
   - "[[cyprus]]"
   - "[[france]]"
