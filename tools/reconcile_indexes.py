@@ -226,8 +226,16 @@ def _row_organizations(slug: str, meta: dict) -> tuple[list[str], tuple[str, str
     )
 
 
+def _iso_to_flag(iso: str) -> str:
+    """Convert 2-letter ISO code to flag emoji (e.g., 'KR' → '🇰🇷')."""
+    if not iso or len(iso) != 2 or not iso.isalpha():
+        return ""
+    return "".join(chr(0x1F1E6 + ord(c) - ord("A")) for c in iso.upper())
+
+
 def _row_countries(slug: str, meta: dict) -> tuple[list[str], str]:
     iso = _get(meta, "iso_code", "")
+    flag = _iso_to_flag(iso)
     legal = _get(meta, "legal_system")
     # treaty_memberships → check budapest convention
     memberships = meta.get("treaty_memberships") or []
@@ -254,6 +262,7 @@ def _row_countries(slug: str, meta: dict) -> tuple[list[str], str]:
     src_count = _count(meta, "source_count") or _count(meta, "sources")
     return (
         [
+            f"{flag}",
             f"[[{slug}]]",
             legal,
             budapest,
@@ -437,7 +446,7 @@ CATEGORIES: dict[str, dict[str, Any]] = {
         "reverse_sort": False,
     },
     "countries": {
-        "headers": ["Country", "Legal System", "Budapest Conv.", "IC Capacity", "MLAT Response", "Sources"],
+        "headers": ["🏳️", "Country", "Legal System", "Budapest Conv.", "IC Capacity", "MLAT Response", "Sources"],
         "row": _row_countries,
         "reverse_sort": False,
     },
