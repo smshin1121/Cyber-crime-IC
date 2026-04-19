@@ -71,6 +71,8 @@ body {
   transition: background 0.15s;
 }
 .nav-links a:hover { background: rgba(255,255,255,0.15); color: #fff; }
+.nav-links a.nav-cosmos { background: linear-gradient(135deg, rgba(110,242,220,0.2), rgba(142,125,255,0.2)); border: 1px solid rgba(110,242,220,0.35); color: #6ef2dc; font-weight: 700; }
+.nav-links a.nav-cosmos:hover { background: linear-gradient(135deg, rgba(110,242,220,0.35), rgba(142,125,255,0.35)); color: #fff; }
 .nav-search {
   margin-left: auto;
   display: flex;
