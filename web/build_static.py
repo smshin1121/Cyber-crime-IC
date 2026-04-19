@@ -14,6 +14,7 @@ sys.path.insert(0, str(Path(__file__).resolve().parent.parent / "tools"))
 from app import app, WIKI_DIR, CATEGORIES, get_all_pages
 
 OUTPUT_DIR = Path(__file__).resolve().parent.parent / "docs"
+COSMOS_DIR = Path(__file__).resolve().parent.parent / "cosmos"
 
 
 def build() -> None:
@@ -43,6 +44,20 @@ def build() -> None:
     static_src = Path(__file__).parent / "static"
     static_dst = OUTPUT_DIR / "static"
     shutil.copytree(static_src, static_dst)
+
+    if COSMOS_DIR.exists():
+        try:
+            import subprocess
+            extract_script = COSMOS_DIR / "extract.py"
+            if extract_script.exists():
+                print("Building cosmos graph...")
+                subprocess.run([sys.executable, str(extract_script)], check=True)
+            cosmos_dst = OUTPUT_DIR / "cosmos"
+            if cosmos_dst.exists():
+                shutil.rmtree(cosmos_dst)
+            shutil.copytree(COSMOS_DIR, cosmos_dst)
+        except Exception as e:
+            print(f"  Warning: cosmos build skipped ({e})")
 
     routes_built = 0
 
