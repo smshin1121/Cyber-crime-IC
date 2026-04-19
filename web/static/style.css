@@ -73,6 +73,13 @@ body {
 .nav-links a:hover { background: rgba(255,255,255,0.15); color: #fff; }
 .nav-links a.nav-cosmos { background: linear-gradient(135deg, rgba(110,242,220,0.2), rgba(142,125,255,0.2)); border: 1px solid rgba(110,242,220,0.35); color: #6ef2dc; font-weight: 700; }
 .nav-links a.nav-cosmos:hover { background: linear-gradient(135deg, rgba(110,242,220,0.35), rgba(142,125,255,0.35)); color: #fff; }
+.nav-more { position: relative; display: inline-flex; }
+.nav-more-btn { color: rgba(255,255,255,0.85); background: none; border: 1px solid rgba(255,255,255,0.15); padding: 6px 10px; border-radius: 4px; font-size: 13px; cursor: pointer; transition: background 0.15s; }
+.nav-more-btn:hover { background: rgba(255,255,255,0.15); color: #fff; }
+.nav-dropdown { display: none; position: absolute; top: 100%; left: 0; margin-top: 4px; min-width: 180px; background: #1a1f2e; border: 1px solid rgba(255,255,255,0.12); border-radius: 8px; box-shadow: 0 12px 32px rgba(0,0,0,0.4); padding: 4px; z-index: 100; }
+.nav-more:hover .nav-dropdown, .nav-more:focus-within .nav-dropdown { display: flex; flex-direction: column; }
+.nav-dropdown a { color: rgba(255,255,255,0.85); text-decoration: none; padding: 8px 12px; border-radius: 4px; font-size: 13px; transition: background 0.15s; }
+.nav-dropdown a:hover { background: rgba(255,255,255,0.12); color: #fff; }
 .nav-search {
   margin-left: auto;
   display: flex;
