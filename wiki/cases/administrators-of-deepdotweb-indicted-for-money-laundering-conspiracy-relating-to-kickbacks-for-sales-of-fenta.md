@@ -20,7 +20,6 @@ defendants:
     status: indicted
     sentence: ""
     location_at_arrest: ""
-related_operation: "[[operation-administrators-of-deepdotweb-indicted-for-money-laundering-conspiracy-relating-to-kickbacks-for-sales-of-fenta]]"
 ic_elements:
   mlat_requests:
     []

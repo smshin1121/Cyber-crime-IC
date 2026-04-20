@@ -14,7 +14,7 @@ defendants:
     status: indicted
     sentence: ""
     location_at_arrest: ""
-related_operation: "[[operation-federal-correctional-officer-indicted-for-receipt-of-a-bribe-by-a-public-official]]"
+related_operation: ""
 ic_elements:
   mlat_requests:
     []

@@ -14,7 +14,6 @@ defendants:
     status: indicted
     sentence: ""
     location_at_arrest: ""
-related_operation: "[[operation-eight-indicted-in-credit-card-fraud-scheme]]"
 ic_elements:
   mlat_requests:
     []

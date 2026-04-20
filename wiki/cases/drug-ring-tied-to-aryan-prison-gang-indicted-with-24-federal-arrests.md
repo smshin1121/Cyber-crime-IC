@@ -14,7 +14,6 @@ defendants:
     status: indicted
     sentence: ""
     location_at_arrest: ""
-related_operation: "[[operation-drug-ring-tied-to-aryan-prison-gang-indicted-with-24-federal-arrests]]"
 ic_elements:
   mlat_requests:
     []

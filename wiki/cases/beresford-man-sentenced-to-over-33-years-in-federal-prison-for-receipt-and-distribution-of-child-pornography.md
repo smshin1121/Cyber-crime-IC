@@ -14,7 +14,7 @@ defendants:
     status: sentenced
     sentence: ""
     location_at_arrest: ""
-related_operation: "[[operation-beresford-man-sentenced-to-over-33-years-in-federal-prison-for-receipt-and-distribution-of-child-pornography]]"
+related_operation: ""
 ic_elements:
   mlat_requests:
     []

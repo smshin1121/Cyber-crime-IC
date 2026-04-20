@@ -14,7 +14,6 @@ defendants:
     status: convicted
     sentence: ""
     location_at_arrest: ""
-related_operation: "[[operation-everett-washington-man-convicted-of-cyberstalking-and-making-interstate-threats]]"
 ic_elements:
   mlat_requests:
     []

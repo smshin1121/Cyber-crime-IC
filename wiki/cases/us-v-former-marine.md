@@ -14,7 +14,6 @@ defendants:
     status: "pleaded guilty"
     sentence: ""
     location_at_arrest: ""
-related_operation: "[[operation-us-v-former-marine]]"
 ic_elements:
   mlat_requests:
     []
@@ -27,10 +26,6 @@ ic_elements:
     []
 cooperating_agencies:
   - "[[us-doj]]"
-legal_frameworks_invoked:
-  - "[[informal-cooperation]]"
-mechanisms_used:
-  - "[[informal-cooperation]]"
 key_legal_issues:
   - "[[online-fraud-ic]]"
 precedent_value: "Source-derived candidate case page; analytical significance requires further enrichment from primary filings."
@@ -48,10 +43,6 @@ United States v. Former Marine is a source-derived case page generated from [[20
 ## Facts
 
 This case page was generated from [[2026-04-18_justice-gov_former-marine-pleads-guilty-three-counts-cyberstalking]] and should be expanded with primary-court detail where available.
-
-## International Cooperation Elements
-
-The currently collected source indicates a transnational cybercrime enforcement context, but the specific cross-border mechanisms still need case-level enrichment.
 
 ## Legal Analysis
 

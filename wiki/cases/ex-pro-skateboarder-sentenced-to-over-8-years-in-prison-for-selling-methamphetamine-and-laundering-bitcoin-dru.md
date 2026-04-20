@@ -14,7 +14,7 @@ defendants:
     status: sentenced
     sentence: ""
     location_at_arrest: ""
-related_operation: "[[operation-ex-pro-skateboarder-sentenced-to-over-8-years-in-prison-for-selling-methamphetamine-and-laundering-bitcoin-dru]]"
+related_operation: ""
 ic_elements:
   mlat_requests:
     []

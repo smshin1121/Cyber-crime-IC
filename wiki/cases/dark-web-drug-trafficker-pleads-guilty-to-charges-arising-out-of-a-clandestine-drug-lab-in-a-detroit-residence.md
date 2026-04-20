@@ -15,7 +15,6 @@ defendants:
     status: "pleaded guilty"
     sentence: ""
     location_at_arrest: ""
-related_operation: "[[operation-dark-web-drug-trafficker-pleads-guilty-to-charges-arising-out-of-a-clandestine-drug-lab-in-a-detroit-residence]]"
 ic_elements:
   mlat_requests:
     []

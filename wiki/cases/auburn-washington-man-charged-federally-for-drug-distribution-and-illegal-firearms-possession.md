@@ -14,7 +14,7 @@ defendants:
     status: charged
     sentence: ""
     location_at_arrest: ""
-related_operation: "[[operation-auburn-washington-man-charged-federally-for-drug-distribution-and-illegal-firearms-possession]]"
+related_operation: ""
 ic_elements:
   mlat_requests:
     []

@@ -14,7 +14,6 @@ defendants:
     status: sentenced
     sentence: ""
     location_at_arrest: ""
-related_operation: "[[operation-covina-man-sentenced-to-18-months-in-prison-for-cyberstalking]]"
 ic_elements:
   mlat_requests:
     []

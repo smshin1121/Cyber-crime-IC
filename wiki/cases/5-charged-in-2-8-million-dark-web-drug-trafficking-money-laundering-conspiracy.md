@@ -16,7 +16,6 @@ defendants:
     status: charged
     sentence: ""
     location_at_arrest: ""
-related_operation: "[[operation-5-charged-in-2-8-million-dark-web-drug-trafficking-money-laundering-conspiracy]]"
 ic_elements:
   mlat_requests:
     []

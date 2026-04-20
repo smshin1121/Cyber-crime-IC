@@ -19,7 +19,6 @@ defendants:
     status: "pleaded guilty"
     sentence: ""
     location_at_arrest: ""
-related_operation: "[[operation-darknet-vendor-of-fentanyl-laced-pills-pleads-guilty]]"
 ic_elements:
   mlat_requests:
     []

@@ -2,7 +2,7 @@
 created: 2026-04-08
 title: "International Cooperation on Cyber Crime - Overview"
 type: overview
-updated: 2026-04-18
+updated: 2026-04-19
 ---
 # State of International Cooperation on Cyber Crime
 
@@ -10,7 +10,7 @@ updated: 2026-04-18
 
 ## Executive Summary
 
-International cooperation on cybercrime has entered an *almost certainly* unprecedented period of operational intensity. The wiki now documents **1330 operations** spanning 2014-2025 across five coordination models:
+International cooperation on cybercrime has entered an *almost certainly* unprecedented period of operational intensity. The wiki now documents **1216 operations** spanning 2014-2025 across five coordination models:
 
 1. **Europol-coordinated** (36 operations): The largest group by count, including ransomware takedowns (Cronos, Endgame, Phobos), botnet dismantlings (Avalanche, Andromeda), forum shutdowns (Darkode, Cracked/Nulled), and financial crime operations. Key results from the 6 most-sourced operations alone: 22+ arrests, 470+ servers, 2,650+ domains, EUR 78M+ cryptocurrency.
 2. **INTERPOL-coordinated** (22 operations): Dominant in arrest volume and geographic reach. Operations HAECHI IV/V/VI (combined: 9,000+ arrests, $1.1B+ seized), Jackal/III (~400 arrests targeting Black Axe), First Light 2024 (3,950 arrests, $257M), Serengeti (1,006 arrests), Sentinel (574 arrests), Synergia II (22,800 IPs taken down) across up to 95 countries.
@@ -60,18 +60,18 @@ The **DOJ-led model** leverages US multi-agency coordination (FBI, HSI, USSS, IR
 
 | Metric | Value | Period |
 |--------|-------|--------|
-| Total operations documented | 1330 | 2014-2025 |
-| Period 1 operations | 239 | 2014-2018 |
-| Period 2 operations | 282 | 2019-2022 |
-| Period 3 operations | 793 | 2023-2025 |
-| Europol-coordinated | 56 | All periods |
+| Total operations documented | 1216 | 2014-2025 |
+| Period 1 operations | 223 | 2014-2018 |
+| Period 2 operations | 252 | 2019-2022 |
+| Period 3 operations | 726 | 2023-2025 |
+| Europol-coordinated | 57 | All periods |
 | INTERPOL-coordinated | 37 | All periods |
-| DOJ/US-led | 1195 | All periods |
-| Total arrests (sourced operations) | 20,548+ | Across all operations |
-| Total servers seized | 2,924+ | Primarily Europol operations |
-| Total domains seized | 812,111+ | All operations |
-| Unique participating countries | 153+ | All operations |
-| Sources with dedicated pages | 1741 | US DOJ USAO 660, Europol 79, INTERPOL 66, US DOJ 65, Council of Europe 55 |
+| DOJ/US-led | 1076 | All periods |
+| Total arrests (sourced operations) | 20,625+ | Across all operations |
+| Total servers seized | 2,969+ | Primarily Europol operations |
+| Total domains seized | 812,123+ | All operations |
+| Unique participating countries | 168+ | All operations |
+| Sources with dedicated pages | 1778 | US DOJ USAO 660, Europol 78, INTERPOL 66, US DOJ 65, Council of Europe 59 |
 | Crime types documented | 23 | All documented types |
 
 ## Recent Activity
@@ -80,7 +80,7 @@ See [[log]] for wiki activity history.
 
 ## References
 
-All statistics in this overview are aggregated from the 1330 operation pages and 1741 source pages in the wiki. Cooperation statistics in the table above are wiki-computed aggregations from individual operation pages. The 20 most-sourced operations with dedicated source pages are listed in [[ic-statistics-dashboard]].
+All statistics in this overview are aggregated from the 1216 operation pages and 1778 source pages in the wiki. Cooperation statistics in the table above are wiki-computed aggregations from individual operation pages. The 20 most-sourced operations with dedicated source pages are listed in [[ic-statistics-dashboard]].
 
 | # | Title | Publisher | Date | URL |
 |---|-------|----------|------|-----|

@@ -15,7 +15,6 @@ defendants:
     status: indicted
     sentence: ""
     location_at_arrest: ""
-related_operation: "[[operation-darknet-fentanyl-dealer-indicted-for-selling-deadly-drug-for-bitcoin]]"
 ic_elements:
   mlat_requests:
     []

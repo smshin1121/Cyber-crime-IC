@@ -14,7 +14,6 @@ defendants:
     status: sentenced
     sentence: ""
     location_at_arrest: ""
-related_operation: "[[operation-east-hartford-man-sentenced-to-10-years-in-prison-for-possessing-child-sex-abuse-material-while-on-state-proba]]"
 ic_elements:
   mlat_requests:
     []

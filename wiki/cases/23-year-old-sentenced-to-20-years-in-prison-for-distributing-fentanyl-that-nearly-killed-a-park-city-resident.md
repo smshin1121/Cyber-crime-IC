@@ -14,7 +14,6 @@ defendants:
     status: sentenced
     sentence: ""
     location_at_arrest: ""
-related_operation: "[[operation-23-year-old-sentenced-to-20-years-in-prison-for-distributing-fentanyl-that-nearly-killed-a-park-city-resident]]"
 ic_elements:
   mlat_requests:
     []

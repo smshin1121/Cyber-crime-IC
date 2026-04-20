@@ -14,7 +14,7 @@ defendants:
     status: indicted
     sentence: ""
     location_at_arrest: ""
-related_operation: "[[operation-california-businessman-indicted-for-tax-evasion]]"
+related_operation: ""
 ic_elements:
   mlat_requests:
     []

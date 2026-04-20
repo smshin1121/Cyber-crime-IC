@@ -14,7 +14,7 @@ defendants:
     status: sentenced
     sentence: ""
     location_at_arrest: ""
-related_operation: "[[operation-brooklyn-ny-consultant-for-amazon-sellers-sentenced-to-home-detention-and-fine-for-role-in-bribery-scheme]]"
+related_operation: ""
 ic_elements:
   mlat_requests:
     []

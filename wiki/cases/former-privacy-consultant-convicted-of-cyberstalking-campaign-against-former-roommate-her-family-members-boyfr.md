@@ -14,7 +14,6 @@ defendants:
     status: convicted
     sentence: ""
     location_at_arrest: ""
-related_operation: "[[operation-former-privacy-consultant-convicted-of-cyberstalking-campaign-against-former-roommate-her-family-members-boyfr]]"
 ic_elements:
   mlat_requests:
     []
@@ -27,10 +26,6 @@ ic_elements:
     []
 cooperating_agencies:
   - "[[us-doj]]"
-legal_frameworks_invoked:
-  - "[[informal-cooperation]]"
-mechanisms_used:
-  - "[[informal-cooperation]]"
 key_legal_issues:
   - "[[online-fraud-ic]]"
 precedent_value: "Source-derived official action page; procedural enrichment from primary filings may still be needed."
@@ -48,10 +43,6 @@ Former privacy consultant convicted of cyberstalking campaign against former roo
 ## Facts
 
 This case page was generated from [[2026-04-18_justice-gov_former-privacy-consultant-convicted-cyberstalking-campaign-against-former-roommate-her]] and reflects an official action title from the source corpus.
-
-## International Cooperation Elements
-
-This source-derived page should be enriched with case-level cooperation detail if primary filings or fuller official narratives are collected.
 
 ## Legal Analysis
 

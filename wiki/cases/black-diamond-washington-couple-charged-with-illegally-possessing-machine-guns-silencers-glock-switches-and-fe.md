@@ -14,7 +14,7 @@ defendants:
     status: charged
     sentence: ""
     location_at_arrest: ""
-related_operation: "[[operation-black-diamond-washington-couple-charged-with-illegally-possessing-machine-guns-silencers-glock-switches-and-fe]]"
+related_operation: ""
 ic_elements:
   mlat_requests:
     []

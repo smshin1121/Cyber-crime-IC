@@ -14,7 +14,6 @@ defendants:
     status: sentenced
     sentence: ""
     location_at_arrest: ""
-related_operation: "[[operation-el-cerrito-resident-sentenced-to-four-and-a-half-years-in-prison-for-stealing-ids-and-u-s-treasury-checks]]"
 ic_elements:
   mlat_requests:
     []

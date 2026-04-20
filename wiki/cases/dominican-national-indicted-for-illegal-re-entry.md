@@ -14,7 +14,6 @@ defendants:
     status: indicted
     sentence: ""
     location_at_arrest: ""
-related_operation: "[[operation-dominican-national-indicted-for-illegal-re-entry]]"
 ic_elements:
   mlat_requests:
     []

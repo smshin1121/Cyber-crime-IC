@@ -14,7 +14,7 @@ defendants:
     status: sentenced
     sentence: ""
     location_at_arrest: ""
-related_operation: "[[operation-beverly-hills-man-sentenced-to-5-years-in-federal-prison-for-attempting-to-hire-hitman-to-kill-woman-he-briefl]]"
+related_operation: ""
 ic_elements:
   mlat_requests:
     []

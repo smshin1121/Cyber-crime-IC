@@ -14,7 +14,7 @@ defendants:
     status: sentenced
     sentence: ""
     location_at_arrest: ""
-related_operation: "[[operation-boone-man-is-sentenced-to-eight-years-in-federal-prison-for-using-the-dark-web-to-transport-child-pornography]]"
+related_operation: ""
 ic_elements:
   mlat_requests:
     []

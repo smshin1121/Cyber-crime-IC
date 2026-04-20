@@ -86,6 +86,21 @@ The same pass also adds further genuine European cross-border operations:
 - `operation-eur-100m-crypto-investment-fraud-2025`
 - `operation-eur-100m-illegal-financial-service-laundering-2025`
 
+## Third Remediation Batch
+
+The next pass starts removing entries that are not merely thin but fundamentally unverifiable in the current corpus.
+
+Removed placeholder operation:
+
+- `xhelper-upi-money-mule`
+
+Rationale:
+
+- no verified primary source in the repository
+- no operationally identified agency or confirmed enforcement event
+- prior versions had already been downgraded to a transparent placeholder
+- leaving it in the live operation catalog still distorted audit counts and falsely suggested it was a recoverable operation page rather than an unsupported claim
+
 ## Notes
 
 - A domestic prosecution can still remain as a `case` page without needing an `operation` page in the international-cooperation catalog.

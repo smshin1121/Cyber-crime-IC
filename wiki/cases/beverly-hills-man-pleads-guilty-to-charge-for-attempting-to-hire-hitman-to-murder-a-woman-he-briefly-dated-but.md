@@ -14,7 +14,7 @@ defendants:
     status: "pleaded guilty"
     sentence: ""
     location_at_arrest: ""
-related_operation: "[[operation-beverly-hills-man-pleads-guilty-to-charge-for-attempting-to-hire-hitman-to-murder-a-woman-he-briefly-dated-but]]"
+related_operation: ""
 ic_elements:
   mlat_requests:
     []

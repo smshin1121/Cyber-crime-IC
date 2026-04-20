@@ -14,7 +14,6 @@ defendants:
     status: charged
     sentence: ""
     location_at_arrest: ""
-related_operation: "[[operation-alleged-sim-swapper-charged-with-hacking-into-instagram-influencers-accounts-to-get-money-and-sexually-explici]]"
 ic_elements:
   mlat_requests:
     []

@@ -15,7 +15,6 @@ defendants:
     status: prosecuted
     sentence: ""
     location_at_arrest: ""
-related_operation: "[[operation-4-arrested-in-latest-l-a-county-based-jcode-operation-for-allegedly-operating-a-drug-distribution-network-on-t]]"
 ic_elements:
   mlat_requests:
     []
@@ -28,10 +27,6 @@ ic_elements:
     []
 cooperating_agencies:
   - "[[us-doj]]"
-legal_frameworks_invoked:
-  - "[[informal-cooperation]]"
-mechanisms_used:
-  - "[[informal-cooperation]]"
 key_legal_issues:
   - "[[drug-trafficking]]"
 precedent_value: "Source-derived official action page; procedural enrichment from primary filings may still be needed."
@@ -49,10 +44,6 @@ summary: "4 Arrested in Latest L.A. County-Based “JCODE” Operation for Alleg
 ## Facts
 
 This case page was generated from [[2026-04-18_justice-gov_4-arrested-latest-la-county-based-jcode-operation-allegedly-operating-drug]] and reflects an official action title from the source corpus.
-
-## International Cooperation Elements
-
-This source-derived page should be enriched with case-level cooperation detail if primary filings or fuller official narratives are collected.
 
 ## Legal Analysis
 

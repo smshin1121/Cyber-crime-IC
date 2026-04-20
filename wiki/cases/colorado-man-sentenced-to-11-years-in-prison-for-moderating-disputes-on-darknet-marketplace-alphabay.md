@@ -14,7 +14,6 @@ defendants:
     status: sentenced
     sentence: ""
     location_at_arrest: ""
-related_operation: "[[operation-colorado-man-sentenced-to-11-years-in-prison-for-moderating-disputes-on-darknet-marketplace-alphabay]]"
 ic_elements:
   mlat_requests:
     []
@@ -27,10 +26,6 @@ ic_elements:
     []
 cooperating_agencies:
   - "[[us-doj]]"
-legal_frameworks_invoked:
-  - "[[informal-cooperation]]"
-mechanisms_used:
-  - "[[informal-cooperation]]"
 key_legal_issues:
   - "[[online-fraud-ic]]"
 precedent_value: "Source-derived official action page; procedural enrichment from primary filings may still be needed."
@@ -48,10 +43,6 @@ Colorado Man Sentenced to 11 Years in Prison for Moderating Disputes on Darknet 
 ## Facts
 
 This case page was generated from [[2020-09-01_edca_herrell-alphabay-sentencing]] and reflects an official action title from the source corpus.
-
-## International Cooperation Elements
-
-This source-derived page should be enriched with case-level cooperation detail if primary filings or fuller official narratives are collected.
 
 ## Legal Analysis
 

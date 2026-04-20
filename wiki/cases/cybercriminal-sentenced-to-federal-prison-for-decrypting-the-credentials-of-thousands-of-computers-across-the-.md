@@ -14,7 +14,6 @@ defendants:
     status: sentenced
     sentence: ""
     location_at_arrest: ""
-related_operation: "[[operation-cybercriminal-sentenced-to-federal-prison-for-decrypting-the-credentials-of-thousands-of-computers-across-the-]]"
 ic_elements:
   mlat_requests:
     []

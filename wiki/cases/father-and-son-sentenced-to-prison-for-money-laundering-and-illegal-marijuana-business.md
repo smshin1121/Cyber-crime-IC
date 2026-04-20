@@ -19,7 +19,7 @@ defendants:
     status: sentenced
     sentence: ""
     location_at_arrest: ""
-related_operation: "[[operation-father-and-son-sentenced-to-prison-for-money-laundering-and-illegal-marijuana-business]]"
+related_operation: ""
 ic_elements:
   mlat_requests:
     []

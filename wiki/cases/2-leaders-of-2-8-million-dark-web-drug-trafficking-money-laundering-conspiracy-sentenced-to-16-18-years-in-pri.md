@@ -21,7 +21,6 @@ defendants:
     status: sentenced
     sentence: ""
     location_at_arrest: ""
-related_operation: "[[operation-2-leaders-of-2-8-million-dark-web-drug-trafficking-money-laundering-conspiracy-sentenced-to-16-18-years-in-pri]]"
 ic_elements:
   mlat_requests:
     []

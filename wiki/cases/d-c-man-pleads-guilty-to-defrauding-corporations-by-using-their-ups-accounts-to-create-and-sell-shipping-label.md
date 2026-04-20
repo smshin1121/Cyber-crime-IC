@@ -14,7 +14,6 @@ defendants:
     status: "pleaded guilty"
     sentence: ""
     location_at_arrest: ""
-related_operation: "[[operation-d-c-man-pleads-guilty-to-defrauding-corporations-by-using-their-ups-accounts-to-create-and-sell-shipping-label]]"
 ic_elements:
   mlat_requests:
     []

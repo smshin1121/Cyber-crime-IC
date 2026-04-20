@@ -15,7 +15,6 @@ defendants:
     status: sentenced
     sentence: ""
     location_at_arrest: ""
-related_operation: "[[operation-darknet-vendor-sentenced-for-conspiracy-to-sell-counterfeit-drugs]]"
 ic_elements:
   mlat_requests:
     []

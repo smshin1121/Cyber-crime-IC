@@ -14,7 +14,7 @@ defendants:
     status: sentenced
     sentence: ""
     location_at_arrest: ""
-related_operation: "[[operation-bellingham-man-sentenced-to-12-years-in-prison-for-attempted-enticement-of-a-minor-and-possession-of-images-of]]"
+related_operation: ""
 ic_elements:
   mlat_requests:
     []

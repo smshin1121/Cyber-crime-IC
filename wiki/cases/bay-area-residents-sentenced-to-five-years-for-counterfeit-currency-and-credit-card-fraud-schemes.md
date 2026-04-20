@@ -19,7 +19,7 @@ defendants:
     status: sentenced
     sentence: ""
     location_at_arrest: ""
-related_operation: "[[operation-bay-area-residents-sentenced-to-five-years-for-counterfeit-currency-and-credit-card-fraud-schemes]]"
+related_operation: ""
 ic_elements:
   mlat_requests:
     []

@@ -14,7 +14,7 @@ defendants:
     status: "seizure ordered"
     sentence: ""
     location_at_arrest: ""
-related_operation: "[[operation-bulletproof-vpn-seized]]"
+related_operation: ""
 ic_elements:
   mlat_requests:
     []

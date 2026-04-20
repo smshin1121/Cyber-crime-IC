@@ -14,7 +14,7 @@ defendants:
     status: sentenced
     sentence: ""
     location_at_arrest: ""
-related_operation: "[[operation-billings-meth-fentanyl-dealer-sentenced-to-12-years-in-prison]]"
+related_operation: ""
 ic_elements:
   mlat_requests:
     []

@@ -14,7 +14,6 @@ defendants:
     status: indicted
     sentence: ""
     location_at_arrest: ""
-related_operation: "[[operation-everett-man-indicted-for-selling-firearms]]"
 ic_elements:
   mlat_requests:
     []

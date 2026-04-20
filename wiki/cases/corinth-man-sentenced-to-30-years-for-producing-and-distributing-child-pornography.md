@@ -14,7 +14,6 @@ defendants:
     status: sentenced
     sentence: ""
     location_at_arrest: ""
-related_operation: "[[operation-corinth-man-sentenced-to-30-years-for-producing-and-distributing-child-pornography]]"
 ic_elements:
   mlat_requests:
     []

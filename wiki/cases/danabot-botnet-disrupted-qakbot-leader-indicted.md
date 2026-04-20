@@ -14,7 +14,6 @@ defendants:
     status: indicted
     sentence: ""
     location_at_arrest: ""
-related_operation: "[[operation-danabot-botnet-disrupted-qakbot-leader-indicted]]"
 ic_elements:
   mlat_requests:
     []

@@ -16,7 +16,6 @@ defendants:
     status: sentenced
     sentence: ""
     location_at_arrest: ""
-related_operation: "[[operation-dark-web-administrator-sentenced-to-20-years-in-prison-for-narcotics-trafficking-and-money-laundering]]"
 ic_elements:
   mlat_requests:
     []

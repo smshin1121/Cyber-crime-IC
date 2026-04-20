@@ -14,7 +14,6 @@ defendants:
     status: indicted
     sentence: ""
     location_at_arrest: ""
-related_operation: "[[operation-coraopolis-man-indicted-in-western-pennsylvania-and-in-the-district-of-columbia-on-drug-charges]]"
 ic_elements:
   mlat_requests:
     []

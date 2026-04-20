@@ -14,7 +14,7 @@ defendants:
     status: "pleaded guilty"
     sentence: ""
     location_at_arrest: ""
-related_operation: "[[operation-brazilian-national-pleads-guilty-to-role-in-nationwide-rideshare-and-delivery-account-fraud-scheme]]"
+related_operation: ""
 ic_elements:
   mlat_requests:
     []

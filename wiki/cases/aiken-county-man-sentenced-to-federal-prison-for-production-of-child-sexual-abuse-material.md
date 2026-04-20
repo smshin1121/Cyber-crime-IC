@@ -14,7 +14,6 @@ defendants:
     status: sentenced
     sentence: ""
     location_at_arrest: ""
-related_operation: "[[operation-aiken-county-man-sentenced-to-federal-prison-for-production-of-child-sexual-abuse-material]]"
 ic_elements:
   mlat_requests:
     []

@@ -15,7 +15,7 @@ defendants:
     status: sentenced
     sentence: ""
     location_at_arrest: ""
-related_operation: "[[operation-bitfinex-hacker-sentenced-in-money-laundering-conspiracy-involving-billions-in-stolen-cryptocurrency]]"
+related_operation: ""
 ic_elements:
   mlat_requests:
     []

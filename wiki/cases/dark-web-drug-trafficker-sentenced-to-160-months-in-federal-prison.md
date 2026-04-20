@@ -15,7 +15,6 @@ defendants:
     status: sentenced
     sentence: ""
     location_at_arrest: ""
-related_operation: "[[operation-dark-web-drug-trafficker-sentenced-to-160-months-in-federal-prison]]"
 ic_elements:
   mlat_requests:
     []

@@ -14,7 +14,6 @@ defendants:
     status: sentenced
     sentence: ""
     location_at_arrest: ""
-related_operation: "[[operation-darknet-vendor-who-sold-millions-of-counterfeit-xanax-sentenced]]"
 ic_elements:
   mlat_requests:
     []

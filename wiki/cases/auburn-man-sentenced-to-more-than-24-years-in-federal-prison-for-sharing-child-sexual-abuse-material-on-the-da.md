@@ -14,7 +14,7 @@ defendants:
     status: sentenced
     sentence: ""
     location_at_arrest: ""
-related_operation: "[[operation-auburn-man-sentenced-to-more-than-24-years-in-federal-prison-for-sharing-child-sexual-abuse-material-on-the-da]]"
+related_operation: ""
 ic_elements:
   mlat_requests:
     []

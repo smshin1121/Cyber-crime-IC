@@ -14,7 +14,6 @@ defendants:
     status: sentenced
     sentence: ""
     location_at_arrest: ""
-related_operation: "[[operation-coushatta-man-sentenced-to-10-years-in-federal-prison-for-accessing-a-dark-web-site-with-intent-to-view-child-]]"
 ic_elements:
   mlat_requests:
     []

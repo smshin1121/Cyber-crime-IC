@@ -14,7 +14,6 @@ defendants:
     status: sentenced
     sentence: ""
     location_at_arrest: ""
-related_operation: "[[operation-duvall-washington-man-awaiting-sentencing-for-possessing-images-of-child-sexual-abuse-pleads-guilty-to-contact]]"
 ic_elements:
   mlat_requests:
     []

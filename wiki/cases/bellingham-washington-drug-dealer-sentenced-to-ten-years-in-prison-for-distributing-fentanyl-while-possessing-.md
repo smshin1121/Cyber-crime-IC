@@ -14,7 +14,7 @@ defendants:
     status: sentenced
     sentence: ""
     location_at_arrest: ""
-related_operation: "[[operation-bellingham-washington-drug-dealer-sentenced-to-ten-years-in-prison-for-distributing-fentanyl-while-possessing-]]"
+related_operation: ""
 ic_elements:
   mlat_requests:
     []

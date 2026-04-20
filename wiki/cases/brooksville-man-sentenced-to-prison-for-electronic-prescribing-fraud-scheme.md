@@ -19,7 +19,7 @@ defendants:
     status: sentenced
     sentence: ""
     location_at_arrest: ""
-related_operation: "[[operation-brooksville-man-sentenced-to-prison-for-electronic-prescribing-fraud-scheme]]"
+related_operation: ""
 ic_elements:
   mlat_requests:
     []

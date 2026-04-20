@@ -14,7 +14,7 @@ defendants:
     status: prosecuted
     sentence: ""
     location_at_arrest: ""
-related_operation: "[[operation-beverly-hills-man-pleads-guilty-charge-attempting-hire-hitman-murder-woman-he-briefly]]"
+related_operation: ""
 ic_elements:
   mlat_requests:
     []

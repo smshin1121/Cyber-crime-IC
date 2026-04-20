@@ -14,7 +14,6 @@ defendants:
     status: indicted
     sentence: ""
     location_at_arrest: ""
-related_operation: "[[operation-drfrosty-indicted-for-distribution-of-methamphetamine-from-modesto-using-the-darknet]]"
 ic_elements:
   mlat_requests:
     []

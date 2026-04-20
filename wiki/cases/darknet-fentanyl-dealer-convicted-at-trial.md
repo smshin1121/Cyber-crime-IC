@@ -14,7 +14,6 @@ defendants:
     status: convicted
     sentence: ""
     location_at_arrest: ""
-related_operation: "[[operation-darknet-fentanyl-dealer-convicted-at-trial]]"
 ic_elements:
   mlat_requests:
     []

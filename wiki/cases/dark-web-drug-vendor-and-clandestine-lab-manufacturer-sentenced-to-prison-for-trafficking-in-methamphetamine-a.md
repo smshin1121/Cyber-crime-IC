@@ -15,7 +15,6 @@ defendants:
     status: sentenced
     sentence: ""
     location_at_arrest: ""
-related_operation: "[[operation-dark-web-drug-vendor-and-clandestine-lab-manufacturer-sentenced-to-prison-for-trafficking-in-methamphetamine-a]]"
 ic_elements:
   mlat_requests:
     []

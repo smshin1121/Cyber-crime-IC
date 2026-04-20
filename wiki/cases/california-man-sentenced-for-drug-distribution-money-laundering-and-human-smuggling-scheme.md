@@ -15,23 +15,8 @@ defendants:
     status: sentenced
     sentence: ""
     location_at_arrest: ""
-related_operation: "[[operation-california-man-sentenced-for-drug-distribution-money-laundering-and-human-smuggling-scheme]]"
-ic_elements:
-  mlat_requests:
-    []
-  extradition: ""
-  evidence_from_abroad:
-    []
-  foreign_arrests:
-    []
-  asset_freezing:
-    []
 cooperating_agencies:
   - "[[us-doj]]"
-legal_frameworks_invoked:
-  - "[[informal-cooperation]]"
-mechanisms_used:
-  - "[[informal-cooperation]]"
 key_legal_issues:
   - "[[drug-trafficking]]"
 precedent_value: "Source-derived official action page; procedural enrichment from primary filings may still be needed."
@@ -49,10 +34,6 @@ California man sentenced for drug distribution, money laundering, and human smug
 ## Facts
 
 This case page was generated from [[2026-04-18_justice-gov_california-man-sentenced-drug-distribution-money-laundering-and-human-smuggling-scheme]] and reflects an official action title from the source corpus.
-
-## International Cooperation Elements
-
-This source-derived page should be enriched with case-level cooperation detail if primary filings or fuller official narratives are collected.
 
 ## Legal Analysis
 

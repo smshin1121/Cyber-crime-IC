@@ -14,7 +14,6 @@ defendants:
     status: sentenced
     sentence: ""
     location_at_arrest: ""
-related_operation: "[[operation-creator-of-software-to-facilitate-privacy-invasion-and-online-extortion-sentenced-to-federal-prison-for-conspi]]"
 ic_elements:
   mlat_requests:
     []

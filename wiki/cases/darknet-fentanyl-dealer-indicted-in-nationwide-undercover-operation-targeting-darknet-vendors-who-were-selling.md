@@ -14,7 +14,6 @@ defendants:
     status: indicted
     sentence: ""
     location_at_arrest: ""
-related_operation: "[[operation-darknet-fentanyl-dealer-indicted-in-nationwide-undercover-operation-targeting-darknet-vendors-who-were-selling]]"
 ic_elements:
   mlat_requests:
     []

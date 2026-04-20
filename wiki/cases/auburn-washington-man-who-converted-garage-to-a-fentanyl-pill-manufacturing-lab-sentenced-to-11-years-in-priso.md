@@ -14,7 +14,7 @@ defendants:
     status: sentenced
     sentence: ""
     location_at_arrest: ""
-related_operation: "[[operation-auburn-washington-man-who-converted-garage-to-a-fentanyl-pill-manufacturing-lab-sentenced-to-11-years-in-priso]]"
+related_operation: ""
 ic_elements:
   mlat_requests:
     []

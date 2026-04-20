@@ -14,7 +14,6 @@ defendants:
     status: indicted
     sentence: ""
     location_at_arrest: ""
-related_operation: "[[operation-alleged-drug-dealer-to-downtown-seattle-aurora-id-and-homeless-encampments-indicted-for-drug-and-gun-crimes]]"
 ic_elements:
   mlat_requests:
     []

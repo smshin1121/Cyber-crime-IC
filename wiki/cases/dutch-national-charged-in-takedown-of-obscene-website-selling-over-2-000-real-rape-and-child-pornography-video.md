@@ -14,7 +14,6 @@ defendants:
     status: charged
     sentence: ""
     location_at_arrest: ""
-related_operation: "[[operation-dutch-national-charged-in-takedown-of-obscene-website-selling-over-2-000-real-rape-and-child-pornography-video]]"
 ic_elements:
   mlat_requests:
     []

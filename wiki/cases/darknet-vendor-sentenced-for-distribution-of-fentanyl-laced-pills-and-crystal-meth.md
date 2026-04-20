@@ -19,7 +19,6 @@ defendants:
     status: sentenced
     sentence: ""
     location_at_arrest: ""
-related_operation: "[[operation-darknet-vendor-sentenced-for-distribution-of-fentanyl-laced-pills-and-crystal-meth]]"
 ic_elements:
   mlat_requests:
     []

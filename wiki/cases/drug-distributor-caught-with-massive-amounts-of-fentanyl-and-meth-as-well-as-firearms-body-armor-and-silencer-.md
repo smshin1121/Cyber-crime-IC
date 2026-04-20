@@ -19,7 +19,6 @@ defendants:
     status: sentenced
     sentence: ""
     location_at_arrest: ""
-related_operation: "[[operation-drug-distributor-caught-with-massive-amounts-of-fentanyl-and-meth-as-well-as-firearms-body-armor-and-silencer-]]"
 ic_elements:
   mlat_requests:
     []

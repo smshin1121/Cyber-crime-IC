@@ -14,7 +14,7 @@ defendants:
     status: sentenced
     sentence: ""
     location_at_arrest: ""
-related_operation: "[[operation-bothell-washington-man-sentenced-to-5-years-in-prison-for-dealing-drugs-hidden-in-computer-hard-drives]]"
+related_operation: ""
 ic_elements:
   mlat_requests:
     []

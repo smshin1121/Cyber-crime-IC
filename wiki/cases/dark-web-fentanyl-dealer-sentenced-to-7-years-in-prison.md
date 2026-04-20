@@ -14,7 +14,6 @@ defendants:
     status: sentenced
     sentence: ""
     location_at_arrest: ""
-related_operation: "[[operation-dark-web-fentanyl-dealer-sentenced-to-7-years-in-prison]]"
 ic_elements:
   mlat_requests:
     []

@@ -14,7 +14,6 @@ defendants:
     status: sentenced
     sentence: ""
     location_at_arrest: ""
-related_operation: "[[operation-counterfeit-prescription-drug-distributor-sentenced-to-federal-prison]]"
 ic_elements:
   mlat_requests:
     []

@@ -14,7 +14,6 @@ defendants:
     status: "pleaded guilty"
     sentence: ""
     location_at_arrest: ""
-related_operation: "[[operation-alabama-man-pleads-guilty-in-connection-with-securities-and-exchange-commission-x-account-hack]]"
 ic_elements:
   mlat_requests:
     []

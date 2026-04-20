@@ -14,7 +14,6 @@ defendants:
     status: sentenced
     sentence: ""
     location_at_arrest: ""
-related_operation: "[[operation-everett-washington-man-sentenced-to-6-years-in-prison-for-cyberstalking-and-interstate-threats]]"
 ic_elements:
   mlat_requests:
     []

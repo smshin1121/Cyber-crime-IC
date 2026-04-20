@@ -15,7 +15,6 @@ defendants:
     status: "pleaded guilty"
     sentence: ""
     location_at_arrest: ""
-related_operation: "[[operation-co-creator-of-dark-web-marketplace-pleads-guilty-in-chicago-to-drug-conspiracy-charge]]"
 ic_elements:
   mlat_requests:
     []
@@ -28,10 +27,6 @@ ic_elements:
     []
 cooperating_agencies:
   - "[[us-doj]]"
-legal_frameworks_invoked:
-  - "[[informal-cooperation]]"
-mechanisms_used:
-  - "[[informal-cooperation]]"
 key_legal_issues:
   - "[[drug-trafficking]]"
 precedent_value: "Source-derived official action page; procedural enrichment from primary filings may still be needed."
@@ -49,10 +44,6 @@ Co-Creator of Dark Web Marketplace Pleads Guilty in Chicago to Drug Conspiracy C
 ## Facts
 
 This case page was generated from [[2026-04-18_justice-gov_co-creator-dark-web-marketplace-pleads-guilty-chicago-drug-conspiracy-charge]] and reflects an official action title from the source corpus.
-
-## International Cooperation Elements
-
-This source-derived page should be enriched with case-level cooperation detail if primary filings or fuller official narratives are collected.
 
 ## Legal Analysis
 

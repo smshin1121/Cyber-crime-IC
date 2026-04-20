@@ -14,7 +14,6 @@ defendants:
     status: prosecuted
     sentence: ""
     location_at_arrest: ""
-related_operation: "[[operation-alleged-child-molester-identified-his-distinctive-tattoos]]"
 ic_elements:
   mlat_requests:
     []
@@ -27,10 +26,6 @@ ic_elements:
     []
 cooperating_agencies:
   - "[[us-doj]]"
-legal_frameworks_invoked:
-  - "[[informal-cooperation]]"
-mechanisms_used:
-  - "[[informal-cooperation]]"
 key_legal_issues:
   - "[[online-fraud-ic]]"
 precedent_value: "Source-derived candidate case page; analytical significance requires further enrichment from primary filings."
@@ -48,10 +43,6 @@ United States v. Christopher Lynn Driskill is a source-derived case page generat
 ## Facts
 
 This case page was generated from [[2026-04-18_justice-gov_alleged-child-molester-identified-his-distinctive-tattoos]] and should be expanded with primary-court detail where available.
-
-## International Cooperation Elements
-
-The currently collected source indicates a transnational cybercrime enforcement context, but the specific cross-border mechanisms still need case-level enrichment.
 
 ## Legal Analysis
 

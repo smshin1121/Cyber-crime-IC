@@ -14,7 +14,6 @@ defendants:
     status: "pleaded guilty"
     sentence: ""
     location_at_arrest: ""
-related_operation: "[[operation-euclid-man-pleaded-guilty-to-distribution-of-fentanyl-that-he-ordered-from-china-and-sold-domestically]]"
 ic_elements:
   mlat_requests:
     []

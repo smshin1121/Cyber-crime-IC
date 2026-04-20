@@ -14,7 +14,7 @@ defendants:
     status: indicted
     sentence: ""
     location_at_arrest: ""
-related_operation: "[[operation-california-man-indicted-in-cryptocurrency-money-laundering-conspiracy]]"
+related_operation: ""
 ic_elements:
   mlat_requests:
     []

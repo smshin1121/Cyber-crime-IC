@@ -14,7 +14,7 @@ defendants:
     status: sentenced
     sentence: ""
     location_at_arrest: ""
-related_operation: "[[operation-fairfax-man-sentenced-for-receiving-soliciting-and-promoting-child-pornography]]"
+related_operation: ""
 ic_elements:
   mlat_requests:
     []

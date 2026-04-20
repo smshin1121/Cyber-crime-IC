@@ -14,7 +14,7 @@ defendants:
     status: sentenced
     sentence: ""
     location_at_arrest: ""
-related_operation: "[[operation-bristol-man-sentenced-to-10-years-in-federal-prison-for-distributing-fentanyl]]"
+related_operation: ""
 ic_elements:
   mlat_requests:
     []
