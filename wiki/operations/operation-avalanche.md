@@ -116,7 +116,26 @@ updated: 2026-04-21
 Operation Avalanche was a German-origin investigation and multinational takedown that disrupted one of the world's largest malware, phishing and spam infrastructures on 30 November 2016. Europol, Eurojust, INTERPOL, the FBI, BSI and many national partners combined judicial coordination, technical sinkholing, domain blocking and server seizures to break the network.
 
 > [!note] Audit Note — Participating Countries Source Verification (2026-04-21)
-> Colombia was removed from `participating_countries` on 2026-04-21 because it is not named as a participant in any of the tier-1/tier-2 primary sources on file (Europol press release, US DOJ press release, Eurojust Avalanche case report PDF). The remaining countries in the list are retained pending a country-by-country cross-check against the original Europol/Eurojust rosters. Additions to a country's `operations_participated` field should only be made when the operation's primary source explicitly names that country.
+> The Europol press release for Avalanche (the only public source believed to contain the full 30-country roster) is currently blocked from automated retrieval (Cloudflare bot protection, per [LESSONS.md L11](../../LESSONS.md)). Verification below is based on the subset of tier-1/tier-2 sources that ARE accessible.
+>
+> **Explicitly named in accessible tier-1 sources:**
+>
+> | Country | Primary source |
+> |---|---|
+> | Germany | Europol / INTERPOL mirror / Eurojust case report PDF / DOJ press release archive |
+> | United States | FBI Pittsburgh (DOJ press release archive), INTERPOL ("German and US authorities") |
+> | Netherlands | Eurojust 2017 Avalanche case report (closer-look PDF) |
+> | Canada | Canadian Cyber Centre advisory — "RCMP led the law enforcement effort in Canada" |
+>
+> **Removed — primary sources reviewed, country not named:**
+>
+> | Country | Basis for removal | Date |
+> |---|---|---|
+> | Colombia | Eurojust PDF exhaustively reviewed (no mention); Europol/INTERPOL/DOJ-archive accessible portions do not name Colombia; no secondary source corroborates Colombian role. | 2026-04-21 |
+>
+> **Retained but UNVERIFIED pending Europol full-roster access:** armenia, australia, austria, azerbaijan, belgium, belize, bulgaria, finland, france, hungary, india, italy, lithuania, luxembourg, moldova, montenegro, norway, poland, romania, singapore, sweden, taiwan, ukraine, united-kingdom.
+>
+> These 24 entries remain in `participating_countries` because absence from the accessible source subset is not evidence of non-participation (Europol's 30-country figure is independently confirmed). They should be treated as provisional until the Europol full press release is retrieved through an alternate channel.
 
 ## Why The Operation Matters
 

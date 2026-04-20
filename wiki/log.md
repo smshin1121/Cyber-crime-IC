@@ -1,5 +1,13 @@
 # Activity Log
 
+## [2026-04-21] audit | Avalanche participating-countries tier-1 verification pass
+- Follow-up to the Colombia audit earlier today. Audited the full 29-country roster of [[operation-avalanche]] against accessible tier-1 primary sources.
+- Europol full press release (the one source believed to hold the 30-country roster) is web-blocked by Cloudflare (per LESSONS.md L11). Verification is based on the subset accessible: INTERPOL mirror, Eurojust 2017 case report PDF, FBI/DOJ archive text indirectly via secondary reporting, Canadian Cyber Centre advisory.
+- Explicitly named in tier-1 sources: **Germany, United States, Netherlands, Canada**.
+- Removed earlier today (absence from every accessible source): **Colombia**.
+- 24 remaining countries retained as provisional (absence from accessible subset ≠ absence in full Europol roster). Flagged in a detailed verification table on the operation page.
+- Pages updated: wiki/operations/operation-avalanche.md (expanded Audit Note with verification breakdown), wiki/countries/canada.md (added [[operation-avalanche]] to operations_participated — Canada's participation is verified by RCMP statement in Canadian Cyber Centre advisory).
+
 ## [2026-04-21] audit | Colombia participating-operations source verification
 - Trigger: Globe picker showed Colombia across 4 operations; user asked for data provenance. Principle applied — only assert participation when a tier-1 primary source explicitly names Colombia.
 - Verified (primary source explicit): [[operation-orion-international]] (INTERPOL 2024-10-15), [[operation-haechi-ii]] (INTERPOL 2021-11-30), [[imminent-monitor-rat-takedown]] (Europol 2019-11-29)

@@ -34,6 +34,7 @@ notable_cases: []
 operations_participated:
 - '[[alphabay-takedown]]'
 - '[[emotet-takedown]]'
+- '[[operation-avalanche]]'
 region: north-america
 source_count: 5
 sources: []
@@ -48,7 +49,7 @@ treaty_memberships:
   reservations: []
   status: unknown
 type: country
-updated: 2026-04-10
+updated: 2026-04-21
 ---
 
 ## Summary

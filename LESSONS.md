@@ -201,6 +201,20 @@
 
 ## ❗ 도구 / 인프라
 
+### L19. participating_countries는 tier-1 출처가 명시할 때만 assert — 없으면 flag, 있으면 keep (2026-04-21)
+
+- **상황**: `operation-avalanche.md`에 Colombia 포함. Europol 공식 press release (Cloudflare로 차단), Eurojust case report PDF, Canadian Cyber Centre advisory, INTERPOL mirror 등 접근 가능한 tier-1 출처 전부에서 Colombia 미언급. frontmatter 데이터 출처가 불분명.
+- **왜 실패**: 과거 ingest 때 secondary news나 AI 요약 기반으로 country list가 확장되면서, 실제 1차 출처에 없는 국가가 들어감. L17과 반대 방향의 같은 문제.
+- **교훈**: **어떤 국가를 operation participant로 assert하려면 tier-1 primary source(Europol/INTERPOL/DOJ/국가기관 보도자료·법원서류)가 그 국가를 명시적으로 이름으로 호명해야 한다.**
+- **어떻게 적용**:
+  - 국가-작전 링크를 만들기 전에 primary source의 국가명 명시 여부 확인
+  - primary source 접근이 차단되면 `retained but UNVERIFIED` 표시하되 `assertion`은 보류 (false negative 위험 방지 — 없음 ≠ 부정)
+  - 접근 가능한 다수의 tier-1 출처 전수가 해당 국가를 언급하지 않을 때만 **제거 + Contradictions 섹션으로 이동**
+  - 작전 페이지에 Audit Note 표로 `Verified / Removed / Pending` 분류 명시
+  - country의 `operations_participated`에는 verified subset만 기재
+
+---
+
 ### L18. Windows schtasks는 DAILY에 복수 시간 미지원 (2026-04-10, 54e652d)
 
 - **상황**: 자동 수집을 1일 3회(아침/점심/저녁)로 변경하려 했으나, `schtasks /SC DAILY /ST` 은 단일 시간만 지원. 하나의 태스크에 07:00,12:00,19:00 을 동시에 지정 불가.
