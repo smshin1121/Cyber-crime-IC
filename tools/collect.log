@@ -709,3 +709,379 @@ Fetching: The Hacker News
   Rejected by filter: 24
   Sent to review queue: 0
   Accepted as new pending: 0
+=== IC Wiki Auto Collector === 2026-04-18T12:00:03.044193
+  Loaded 2565 existing operation titles for pre-dedup
+
+Fetching: Europol News
+  Found 10 items
+
+Fetching: INTERPOL News
+  Found 12 items
+
+Fetching: DOJ Cybercrime
+  Found 25 items
+
+Fetching: FBI National Press Releases
+  Found 0 items
+
+Fetching: Eurojust Press Releases
+  Found 50 items
+
+Fetching: CISA Cybersecurity Advisories
+  Found 30 items
+
+Fetching: NCSC UK News
+  Found 20 items
+
+Fetching: ENISA News
+  Found 13 items
+
+Fetching: BleepingComputer
+  Found 15 items
+
+Fetching: The Record (Recorded Future)
+  Found 5 items
+
+Fetching: The Hacker News
+  Found 50 items
+
+--- Academic search (OpenAlex) ---
+  Query: cybercrime international cooperation
+  Query: Budapest Convention cybercrime ratification
+  Query: ransomware multinational law enforcement operation
+  Query: MLAT mutual legal assistance cybercrime
+  Query: transnational cybercrime joint investigation
+
+=== Results ===
+  Rejected by filter: 0
+  Sent to review queue: 0
+  Accepted as new pending: 0
+=== IC Wiki Auto Collector === 2026-04-18T19:00:04.891579
+  Loaded 2565 existing operation titles for pre-dedup
+
+Fetching: Europol News
+  Found 10 items
+
+Fetching: INTERPOL News
+  Found 12 items
+
+Fetching: DOJ Cybercrime
+  Found 25 items
+
+Fetching: FBI National Press Releases
+  Found 0 items
+
+Fetching: Eurojust Press Releases
+  Found 50 items
+
+Fetching: CISA Cybersecurity Advisories
+  Found 30 items
+
+Fetching: NCSC UK News
+  Found 20 items
+
+Fetching: ENISA News
+  Found 13 items
+
+Fetching: BleepingComputer
+  Found 15 items
+
+Fetching: The Record (Recorded Future)
+  Found 5 items
+
+Fetching: The Hacker News
+  Found 50 items
+
+--- Academic search (OpenAlex) ---
+  Query: cybercrime international cooperation
+  Query: Budapest Convention cybercrime ratification
+  Query: ransomware multinational law enforcement operation
+  Query: MLAT mutual legal assistance cybercrime
+  Query: transnational cybercrime joint investigation
+
+=== Results ===
+  Rejected by filter: 2
+  Sent to review queue: 0
+  Accepted as new pending: 0
+=== IC Wiki Auto Collector === 2026-04-19T07:00:03.331453
+  Loaded 2565 existing operation titles for pre-dedup
+
+Fetching: Europol News
+  Found 10 items
+
+Fetching: INTERPOL News
+  Found 12 items
+
+Fetching: DOJ Cybercrime
+  Found 25 items
+
+Fetching: FBI National Press Releases
+  Found 0 items
+
+Fetching: Eurojust Press Releases
+  WARN: Failed to fetch https://www.eurojust.europa.eu/rss/press-releases.xml: <urlopen error [Errno 11002] getaddrinfo failed>
+
+Fetching: CISA Cybersecurity Advisories
+  Found 30 items
+
+Fetching: NCSC UK News
+  Found 20 items
+
+Fetching: ENISA News
+  Found 13 items
+
+Fetching: BleepingComputer
+  Found 15 items
+
+Fetching: The Record (Recorded Future)
+  Found 5 items
+
+Fetching: The Hacker News
+  Found 50 items
+
+--- Academic search (OpenAlex) ---
+  Query: cybercrime international cooperation
+  Query: Budapest Convention cybercrime ratification
+  Query: ransomware multinational law enforcement operation
+  Query: MLAT mutual legal assistance cybercrime
+  Query: transnational cybercrime joint investigation
+
+=== Results ===
+  Rejected by filter: 3
+  Sent to review queue: 0
+  Accepted as new pending: 0
+=== IC Wiki Auto Collector === 2026-04-19T12:00:03.218295
+  Loaded 2342 existing operation titles for pre-dedup
+
+Fetching: Europol News
+  Found 10 items
+
+Fetching: INTERPOL News
+  Found 12 items
+
+Fetching: DOJ Cybercrime
+  Found 25 items
+
+Fetching: FBI National Press Releases
+  Found 0 items
+
+Fetching: Eurojust Press Releases
+  Found 50 items
+
+Fetching: CISA Cybersecurity Advisories
+  Found 30 items
+
+Fetching: NCSC UK News
+  Found 20 items
+
+Fetching: ENISA News
+  Found 13 items
+
+Fetching: BleepingComputer
+  Found 15 items
+
+Fetching: The Record (Recorded Future)
+  Found 5 items
+
+Fetching: The Hacker News
+  Found 50 items
+
+--- Academic search (OpenAlex) ---
+  Query: cybercrime international cooperation
+  Query: Budapest Convention cybercrime ratification
+  Query: ransomware multinational law enforcement operation
+  Query: MLAT mutual legal assistance cybercrime
+  Query: transnational cybercrime joint investigation
+
+=== Results ===
+  Rejected by filter: 0
+  Sent to review queue: 0
+  Accepted as new pending: 0
+=== IC Wiki Auto Collector === 2026-04-19T19:00:04.897017
+  Loaded 2342 existing operation titles for pre-dedup
+
+Fetching: Europol News
+  Found 10 items
+
+Fetching: INTERPOL News
+  Found 12 items
+
+Fetching: DOJ Cybercrime
+  Found 25 items
+
+Fetching: FBI National Press Releases
+  Found 0 items
+
+Fetching: Eurojust Press Releases
+  Found 50 items
+
+Fetching: CISA Cybersecurity Advisories
+  Found 30 items
+
+Fetching: NCSC UK News
+  Found 20 items
+
+Fetching: ENISA News
+  Found 13 items
+
+Fetching: BleepingComputer
+  Found 15 items
+
+Fetching: The Record (Recorded Future)
+  Found 5 items
+
+Fetching: The Hacker News
+  Found 50 items
+
+--- Academic search (OpenAlex) ---
+  Query: cybercrime international cooperation
+  Query: Budapest Convention cybercrime ratification
+  Query: ransomware multinational law enforcement operation
+  Query: MLAT mutual legal assistance cybercrime
+  Query: transnational cybercrime joint investigation
+
+=== Results ===
+  Rejected by filter: 0
+  Sent to review queue: 0
+  Accepted as new pending: 0
+=== IC Wiki Auto Collector === 2026-04-20T07:00:03.262203
+  Loaded 2262 existing operation titles for pre-dedup
+
+Fetching: Europol News
+  Found 10 items
+
+Fetching: INTERPOL News
+  Found 12 items
+
+Fetching: DOJ Cybercrime
+  Found 25 items
+
+Fetching: FBI National Press Releases
+  Found 0 items
+
+Fetching: Eurojust Press Releases
+  Found 50 items
+
+Fetching: CISA Cybersecurity Advisories
+  Found 30 items
+
+Fetching: NCSC UK News
+  Found 20 items
+
+Fetching: ENISA News
+  Found 13 items
+
+Fetching: BleepingComputer
+  Found 15 items
+
+Fetching: The Record (Recorded Future)
+  Found 5 items
+
+Fetching: The Hacker News
+  Found 50 items
+
+--- Academic search (OpenAlex) ---
+  Query: cybercrime international cooperation
+  Query: Budapest Convention cybercrime ratification
+  Query: ransomware multinational law enforcement operation
+  Query: MLAT mutual legal assistance cybercrime
+  Query: transnational cybercrime joint investigation
+
+=== Results ===
+  Rejected by filter: 3
+  Sent to review queue: 0
+  Accepted as new pending: 0
+=== IC Wiki Auto Collector === 2026-04-20T12:00:05.305490
+  Loaded 2181 existing operation titles for pre-dedup
+
+Fetching: Europol News
+  Found 10 items
+
+Fetching: INTERPOL News
+  Found 12 items
+
+Fetching: DOJ Cybercrime
+  Found 25 items
+
+Fetching: FBI National Press Releases
+  Found 0 items
+
+Fetching: Eurojust Press Releases
+  Found 50 items
+
+Fetching: CISA Cybersecurity Advisories
+  Found 30 items
+
+Fetching: NCSC UK News
+  Found 20 items
+
+Fetching: ENISA News
+  Found 13 items
+
+Fetching: BleepingComputer
+  Found 15 items
+
+Fetching: The Record (Recorded Future)
+  Found 5 items
+
+Fetching: The Hacker News
+  Found 50 items
+
+--- Academic search (OpenAlex) ---
+  Query: cybercrime international cooperation
+  Query: Budapest Convention cybercrime ratification
+  Query: ransomware multinational law enforcement operation
+  Query: MLAT mutual legal assistance cybercrime
+  Query: transnational cybercrime joint investigation
+
+=== Results ===
+  Rejected by filter: 0
+  Sent to review queue: 0
+  Accepted as new pending: 0
+=== IC Wiki Auto Collector === 2026-04-20T19:00:03.489862
+  Loaded 2101 existing operation titles for pre-dedup
+
+Fetching: Europol News
+  Found 10 items
+
+Fetching: INTERPOL News
+  Found 12 items
+
+Fetching: DOJ Cybercrime
+  Found 25 items
+
+Fetching: FBI National Press Releases
+  Found 0 items
+
+Fetching: Eurojust Press Releases
+  Found 50 items
+
+Fetching: CISA Cybersecurity Advisories
+  Found 30 items
+
+Fetching: NCSC UK News
+  Found 20 items
+
+Fetching: ENISA News
+  Found 13 items
+
+Fetching: BleepingComputer
+  Found 15 items
+
+Fetching: The Record (Recorded Future)
+  Found 5 items
+
+Fetching: The Hacker News
+  Found 50 items
+
+--- Academic search (OpenAlex) ---
+  Query: cybercrime international cooperation
+  Query: Budapest Convention cybercrime ratification
+  Query: ransomware multinational law enforcement operation
+  Query: MLAT mutual legal assistance cybercrime
+  Query: transnational cybercrime joint investigation
+
+=== Results ===
+  Rejected by filter: 4
+  Sent to review queue: 0
+  Accepted as new pending: 0
