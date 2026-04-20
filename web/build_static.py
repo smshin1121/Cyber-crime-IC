@@ -11,7 +11,14 @@ from pathlib import Path
 sys.path.insert(0, str(Path(__file__).parent))
 sys.path.insert(0, str(Path(__file__).resolve().parent.parent / "tools"))
 
-from app import app, WIKI_DIR, CATEGORIES, get_all_pages
+from app import (
+    app,
+    WIKI_DIR,
+    CATEGORIES,
+    get_all_pages,
+    parse_page,
+    get_category_for_file,
+)
 
 OUTPUT_DIR = Path(__file__).resolve().parent.parent / "docs"
 COSMOS_DIR = Path(__file__).resolve().parent.parent / "cosmos"
@@ -101,6 +108,31 @@ def build() -> None:
             _save(client, f"/wiki/{slug}", f"wiki/{slug}.html")
             routes_built += 1
 
+    # Build client-side search index consumed by search.html
+    print("Building search index...")
+    import json
+    search_index = []
+    for md_file in sorted(WIKI_DIR.rglob("*.md")):
+        if md_file.name.startswith("_"):
+            continue
+        try:
+            meta, content = parse_page(md_file)
+        except Exception:
+            continue
+        cat = get_category_for_file(md_file) or ""
+        search_index.append({
+            "slug": md_file.stem,
+            "category": cat,
+            "title": str(meta.get("title") or md_file.stem),
+            "title_ko": str(meta.get("title_ko") or meta.get("official_name_ko") or ""),
+            "type": str(meta.get("type") or ""),
+            "text": str(content or "")[:4000],
+        })
+    (OUTPUT_DIR / "search-index.json").write_text(
+        json.dumps(search_index, ensure_ascii=False),
+        encoding="utf-8",
+    )
+
     # Create redirect index.html at root
     root_index = OUTPUT_DIR / "index.html"
     root_index.write_text(
@@ -138,6 +170,7 @@ def _save(client, route: str, filepath: str) -> None:
         html = re.sub(r'href="/category/([^"#]+?)"', r'href="/category/\1.html"', html)
         html = re.sub(r'href="/stats"', r'href="/stats.html"', html)
         html = re.sub(r'href="/search"', r'href="/search.html"', html)
+        html = re.sub(r'action="/search"', r'action="/search.html"', html)
 
         # Step 1.5: keep root links usable after absolute-to-relative conversion
         home_href = f'{prefix}index.html' if prefix else 'index.html'
