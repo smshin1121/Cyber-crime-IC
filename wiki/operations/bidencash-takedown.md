@@ -96,11 +96,11 @@ lessons_learned:
   - "Domain seizure without arrests leaves operators potentially able to reconstitute"
 source_count: 5
 sources:
-  - "[US Secret Service Press Release (2025-06-05)](https: "//www.secretservice.gov/newsroom/releases/2025/06/us-government-seizes-approximately-145-criminal-marketplace-domains)\""
-  - "[DOJ Press Release via Fortune (2025-06-05)](https: "//fortune.com/crypto/2025/06/05/doj-seizes-crypto-web-domains-online-marketplace-bidencash/)\""
-  - "[The Record (2025-06)](https: "//therecord.media/bidencash-cybercrime-darknet-market-takedown-us-netherlands)\""
-  - "[The Hacker News (2025-06)](https: "//thehackernews.com/2025/06/doj-seizes-145-domains-tied-to.html)\""
-  - "[Help Net Security (2025-06-06)](https: "//www.helpnetsecurity.com/2025/06/06/bidencash-marketplace-domains-seized/)\""
+  - "[US Secret Service Press Release (2025-06-05)](https://www.secretservice.gov/newsroom/releases/2025/06/us-government-seizes-approximately-145-criminal-marketplace-domains)"
+  - "[DOJ Press Release via Fortune (2025-06-05)](https://fortune.com/crypto/2025/06/05/doj-seizes-crypto-web-domains-online-marketplace-bidencash/)"
+  - "[The Record (2025-06)](https://therecord.media/bidencash-cybercrime-darknet-market-takedown-us-netherlands)"
+  - "[The Hacker News (2025-06)](https://thehackernews.com/2025/06/doj-seizes-145-domains-tied-to.html)"
+  - "[Help Net Security (2025-06-06)](https://www.helpnetsecurity.com/2025/06/06/bidencash-marketplace-domains-seized/)"
 created: 2026-04-10
 updated: 2026-04-11
 operation_role: umbrella

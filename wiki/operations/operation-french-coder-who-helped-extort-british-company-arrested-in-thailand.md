@@ -24,7 +24,8 @@ target_entity: "French Coder Who Helped Extort British Company Arrested in Thail
 lead_agency: "[[europol-ec3]]"
 coordinating_body: "[[europol-ec3]]"
 participating_countries:
-  - "[[international]]"
+  - "[[thailand]]"
+  - "[[united-kingdom]]"
 jurisdictions:
   - "[[international]]"
 participating_agencies:

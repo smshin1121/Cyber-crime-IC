@@ -1,126 +1,121 @@
 ---
+type: operation
+title: "Operation Cyber Guardian"
 aliases:
-
+  - "Cyber Guardian"
+  - "Asia 6-Country CSAM Crackdown"
 case_id: CYB-2025-002
-challenges_encountered:
-
-coordinating_body: ""
-created: 2026-04-08
-credibility_index: 2.95
-crime_type: "[[csam-ic]]"
-edges:
-
-enforcement_type:
-
-lead_agency: "[[singapore-police|Singapore Police Force]]"
-legal_basis:
-
-lessons_learned:
-
-mechanisms_used:
-
-missing_fields:
-
-operation_type: arrest-sweep
-outcome: success
-participating_agencies:
-
-participating_countries:
-
 period: 3
-related_cases:
-
-related_operations:
-
-results:
-  arrests: 544
-  cryptocurrency_seized: ""
-  decryption_keys_recovered: 0
-  domains_seized: 0
-  indictments: 0
-  other:
-
-  servers_seized: 0
-  victims_notified: 0
-source_count: 0
-source_tier: 2
-sources:
-
+operation_type: arrest-sweep
 status: completed
-target_entity: "CSAM producers, distributors, and possessors across Asia"
+enforcement_type:
+  - arrest
+  - search
+outcome: success
 timeframe:
   announced: 2025-04-07
+  start: 2025-02-24
   end: 2025-03-28
   ongoing: false
-  start: 2025-02-24
-title: "Operation Cyber Guardian — Asia 6-Country CSAM Crackdown"
-type: operation
-updated: 2026-04-08
+crime_type: "[[csam-ic]]"
+target_entity: "Online child sexual abuse and exploitation offenders across six Asian jurisdictions"
+lead_agency: "[[singapore-police]]"
+coordinating_body: ""
+participating_countries:
+  - "[[south-korea]]"
+  - "[[japan]]"
+  - "[[singapore]]"
+  - "[[malaysia]]"
+  - "[[thailand]]"
+  - "[[hong-kong]]"
+participating_agencies:
+  - "[[singapore-police]]"
+  - "[[knpa-cyber-bureau]]"
+  - "[[japan-npa]]"
+legal_basis: []
+mechanisms_used:
+  - "[[informal-cooperation]]"
+results:
+  arrests: 544
+  indictments: 0
+  servers_seized: 0
+  domains_seized: 0
+  cryptocurrency_seized: ""
+  decryption_keys_recovered: 0
+  victims_notified: 0
+  other:
+    - "South Korea recorded 435 suspects, including 374 arrests attributed to the National Investigation Headquarters."
+    - "Japan publicly reported 111 suspects."
+    - "Singapore publicly reported 21 suspects and Malaysia 4."
+source_count: 3
+sources:
+  - "[[2025-04-07_korea-npa_operation-cyber-guardian-asia-csam]]"
+  - "[[2025-04-07_seoul-co-kr_operation-cyber-guardian]]"
+  - "[[2025-04-01_japan-npa_operation-cyber-guardian]]"
+created: 2026-04-08
+updated: 2026-04-19
 operation_role: umbrella
 parent_operation: ""
-summary: "Operation Cyber Guardian (사이버 가디언 작전) was a coordinated 5-week crackdown on child sexual abuse material (CSAM) involving six Asian countries and regions. Initiated by the Singapore Police Force, the operation ran from February 24 to March 28, 2025, resulting in 544 arrests across the region. South Korea's National Investigation Headquarters led the Korean enforcement effort, which accounted for the largest share of arrests."
+summary: "Operation Cyber Guardian was a Singapore-initiated six-jurisdiction crackdown on online child sexual exploitation crimes in Asia, producing 544 identified suspects or arrests across South Korea, Japan, Singapore, Malaysia, Thailand, and Hong Kong."
+jurisdictions:
+  - "[[south-korea]]"
+  - "[[japan]]"
+  - "[[singapore]]"
+  - "[[malaysia]]"
+  - "[[thailand]]"
+  - "[[hong-kong]]"
 organizations:
-  - "[[singapore-police|Singapore Police Force]]"
+  - "[[singapore-police]]"
+  - "[[knpa-cyber-bureau]]"
+  - "[[japan-npa]]"
 crime_types:
   - "[[csam-ic]]"
 ---
-# Operation Cyber Guardian — Asia 6-Country CSAM Crackdown
+> [!note] Source basis
+> This page is anchored to Korean and Japanese official/public-agency material. It has been rebuilt from an encoding-damaged draft that showed `source_count: 0` despite having usable source material in the repository.
 
 ## Summary
 
-Operation Cyber Guardian (사이버 가디언 작전) was a coordinated 5-week crackdown on child sexual abuse material (CSAM) involving six Asian countries and regions. Initiated by the Singapore Police Force, the operation ran from February 24 to March 28, 2025, resulting in 544 arrests across the region. South Korea's National Investigation Headquarters led the Korean enforcement effort, which accounted for the largest share of arrests.
+**Operation Cyber Guardian** was a six-jurisdiction Asian crackdown on online child sexual abuse and exploitation offenses, initiated by the [[singapore-police|Singapore Police Force]] and carried out from 24 February to 28 March 2025. Public sources from [[south-korea|South Korea]] and [[japan|Japan]] confirm participation by South Korea, Japan, Singapore, Malaysia, Thailand, and Hong Kong, with **544 suspects** publicly reported across the operation.
 
 ## Background
 
-The operation targeted the production, distribution, and possession of CSAM through information communication networks. This *likely* represents the largest coordinated CSAM crackdown in the Asia-Pacific region by arrest count. A notable feature was the prosecution of offenders using AI to create deepfake CSAM by synthesizing minors' faces into sexual content.
+The operation targeted production, distribution, and possession of online child sexual abuse material, including AI-enabled deepfake exploitation cases noted by Korean authorities. What makes this page fit the international-cooperation corpus is not merely the arrest volume, but the fact that multiple police services worked to a common operational window and shared campaign structure under a named multinational operation.
 
 ## Participating Parties
 
-| Country/Region | Agency | Arrests |
-|---------------|--------|---------|
-| [[south-korea]] | [[knpa-cyber-bureau|National Investigation HQ]] | 435 (374 by NI HQ) |
-| [[japan]] | [[japan-npa|Japan NPA]] | 111 |
-| [[singapore]] | [[singapore-police|Singapore Police Force]] | 21 |
-| [[malaysia]] | [[malaysia-police|Royal Malaysia Police]] | 4 |
-| [[thailand]] | [[thailand-police|Royal Thai Police]] | pending |
-| [[hong-kong]] | [[hong-kong-police|Hong Kong Police Force]] | pending |
-
-## Operational Timeline
-
-| Date | Event |
-|------|-------|
-| 2025-02-24 | Operation commenced, initiated by Singapore Police |
-| 2025-02-24 to 2025-03-28 | 5-week coordinated enforcement period |
-| 2025-03-28 | Operation concluded |
-| 2025-04-07 | Results announced by Korean National Police Agency |
+| Country / Jurisdiction | Publicly named agency | Publicly reported figure |
+|---|---|---:|
+| [[south-korea|South Korea]] | [[knpa-cyber-bureau|National Investigation Headquarters]] | 435 |
+| [[japan|Japan]] | [[japan-npa|National Police Agency]] | 111 |
+| [[singapore|Singapore]] | [[singapore-police|Singapore Police Force]] | 21 |
+| [[malaysia|Malaysia]] | National police authorities | 4 |
+| [[thailand|Thailand]] | National police authorities | not broken out |
+| [[hong-kong|Hong Kong]] | Police authorities | not broken out |
 
 ## Results and Impact
 
-- **Total arrests:** 544 (59.9% increase from prior year's 272)
-- **Korea offense breakdown:** 258 possession/viewing, 74 production, 42 distribution
-- **Korea age breakdown:** 213 teenagers (49%), 127 in 20s, 23 in 30s, 10 in 40s, 1 aged 50+
-- **Detained:** 13 (Korea)
-- **Notable cases:** AI deepfake CSAM production using minors' faces (Aug 2023 - Mar 2025)
+| Metric | Detail |
+|--------|--------|
+| Total suspects / arrests publicly reported | 544 |
+| Operation window | 2025-02-24 to 2025-03-28 |
+| Korean custody figure | 13 |
+| Distinctive feature | Included AI deepfake child-exploitation investigations in Korean reporting |
 
 ## Cooperation Mechanisms Used
 
-Direct bilateral/multilateral police cooperation without formal international organization coordination. Singapore served as the initiating country, with each national police agency conducting enforcement independently within shared operational parameters.
-
-## Korean Involvement (한국의 참여)
-
-South Korea was the primary enforcement actor, accounting for 80% of total arrests. The National Investigation Headquarters (국가수사본부) led the Korean enforcement, making 374 arrests (86% of Korea's 435 total). The high proportion of teenage suspects (49%) has prompted domestic policy discussions on juvenile CSAM offenses.
+The available sources support a coordinated police-operation model with a shared timetable and exchanged investigative targets, but they do not identify a formal INTERPOL, MLAT, or treaty-specific framework. This page therefore treats the mechanism as named multilateral police cooperation rather than inferring a legal instrument that the sources do not mention.
 
 ## Contradictions & Open Questions
 
-- Thailand and Hong Kong arrest numbers not yet reported
-- Total stated as 544 but sum of reported countries = 510; gap of 34 likely from Thailand/Hong Kong
-- No mention of any formal legal framework or treaty basis for the cooperation
-- No INTERPOL or Europol involvement mentioned — unusual for an international CSAM operation
+- Public country totals do not fully reconcile in every secondary summary because Thailand and Hong Kong are not always broken out numerically.
+- The public material is policing-stage heavy; prosecution outcomes by country remain largely unavailable.
+- The exact Singapore-side operational command structure is not fully documented in the currently collected sources.
 
-## Follow-Up Actions
+## References
 
-> [!warning] No public court documents found
-> Web search (2026-04-17) yielded no publicly accessible court filings
-> for this operation. Possible reasons: non-US jurisdiction with no
-> public court records system, sealed proceedings, or operation did
-> not result in formal prosecution.
+| # | Title | Publisher | Date | URL |
+|---|-------|----------|------|-----|
+| [1] | Operation Cyber Guardian: Asia 6-Country Joint Crackdown on Child Sexual Abuse Material | Korea Policy Briefing | 2025-04-07 | https://www.korea.kr/briefing/pressReleaseView.do?newsId=156682866 |
+| [2] | Asia 6-country crackdown on online child sexual abuse material | Seoul Shinmun | 2025-04-07 | https://www.seoul.co.kr/news/society/2025/04/07/20250407014003 |
+| [3] | Operation Cyber Guardian | National Police Agency of Japan | 2025-04-01 | https://www.npa.go.jp/policy_area/no_cp/uploads/jointoperation_2025_04_eng.pdf |

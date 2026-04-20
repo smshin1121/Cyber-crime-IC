@@ -24,7 +24,8 @@ target_entity: "Operation Orion International: 144 Arrested in Major Child Abuse
 lead_agency: "[[interpol]]"
 coordinating_body: "[[interpol]]"
 participating_countries:
-  - "[[international]]"
+  - "[[chile]]"
+  - "[[united-states]]"
 jurisdictions:
   - "[[international]]"
 participating_agencies:

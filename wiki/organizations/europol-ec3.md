@@ -54,7 +54,6 @@ operations_participated:
   - "[[rex-mundi-takedown]]"
   - "[[romania-phishing-takedown-2024]]"
   - "[[xdedic-marketplace-takedown]]"
-  - "[[xhelper-upi-money-mule]]"
   - "[[zeus-spyeye-jit-takedown]]"
   - "[[zeus-spyeye-takedown]]"
   - "[[bidencash-takedown]]"
@@ -93,6 +92,8 @@ operations_participated:
   - "[[qakbot-gallyamov-indictment]]"
   - "[[ramnit-botnet-takedown]]"
   - "[[vpnlab-takedown]]"
+  - "[[operation-talent]]"
+  - "[[phobos-8base-crackdown]]"
 org_type: regional-org
 parent_org: "[[europol-ec3]]"
 source_count: 9

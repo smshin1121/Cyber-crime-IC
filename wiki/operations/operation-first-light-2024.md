@@ -38,7 +38,7 @@ target_entity: "Online scam networks (phishing, investment fraud, romance scams,
 lead_agency: "[[interpol-igci]]"
 coordinating_body: "[[interpol-igci]]"
 participating_countries:
-
+  - "[[spain]]"
 participating_agencies:
   - "[[interpol-igci]]"
   - "[[afripol]]"

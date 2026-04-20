@@ -1,137 +1,132 @@
 ---
+type: operation
+title: "Operation Red Card"
 aliases:
-
+  - "Red Card"
+  - "INTERPOL Operation Red Card"
 case_id: CYB-2024-011
-challenges_encountered:
-
-coordinating_body: "[[afripol]]"
-created: 2026-04-08
-credibility_index: 2.95
-crime_type: "[[online-fraud-ic]]"
-edges:
-
-enforcement_type:
-
-lead_agency: "[[interpol-igci]]"
-legal_basis:
-
-lessons_learned:
-
-mechanisms_used:
-
-missing_fields:
-
-operation_type: arrest-sweep
-outcome: success
-participating_agencies:
-
-participating_countries:
-
 period: 3
-related_cases:
-
-related_operations:
-
-results:
-  arrests: 306
-  cryptocurrency_seized: ""
-  decryption_keys_recovered: 0
-  domains_seized: 0
-  indictments: 0
-  other:
-
-  servers_seized: 0
-  victims_notified: 5000
-source_count: 0
-source_tier: 2
-sources:
-
+operation_type: arrest-sweep
 status: completed
-target_entity: "Cybercriminals operating mobile banking fraud, investment scams, SIM"
+enforcement_type:
+  - arrest
+  - search
+outcome: success
 timeframe:
   announced: 2025-03-24
+  start: 2024-11-01
   end: 2025-02-28
   ongoing: false
-  start: 2024-11-01
-title: "Operation Red Card"
-type: operation
-updated: 2026-04-08
+crime_type: "[[online-fraud-ic]]"
+target_entity: "Cross-border mobile-banking, investment, and messaging-app scam networks across Africa"
+lead_agency: "[[interpol-igci]]"
+coordinating_body: "[[afripol]]"
+participating_countries:
+  - "[[benin]]"
+  - "[[cote-divoire]]"
+  - "[[nigeria]]"
+  - "[[rwanda]]"
+  - "[[south-africa]]"
+  - "[[togo]]"
+  - "[[zambia]]"
+participating_agencies:
+  - "[[interpol-igci]]"
+  - "[[afripol]]"
+legal_basis: []
+mechanisms_used:
+  - "[[informal-cooperation]]"
+results:
+  arrests: 306
+  indictments: 0
+  servers_seized: 0
+  domains_seized: 0
+  cryptocurrency_seized: ""
+  decryption_keys_recovered: 0
+  victims_notified: 5000
+  other:
+    - "Authorities seized 1,842 devices."
+    - "Nigerian authorities arrested 130 suspects, including 113 foreign nationals."
+    - "Rwandan authorities recovered more than USD 103,000 according to the official release."
+source_count: 3
+sources:
+  - "[[2025-03-24-interpol-operation-red-card]]"
+  - "[[2025-03-24-africanews-operation-red-card]]"
+  - "[[2025-03-24_kaspersky_operation-red-card]]"
+created: 2026-04-08
+updated: 2026-04-19
 operation_role: umbrella
 parent_operation: ""
-summary: "Operation Red Card was an INTERPOL-led international law enforcement operation conducted between November 2024 and February 2025, targeting cybercrime networks operating across seven African countries. The operation resulted in 306 arrests and the seizure of 1,842 devices, while identifying over 5,000 victims. It focused on mobile banking fraud, investment platform scams, messaging app scams, SIM box fraud, and malware distribution."
+summary: "Operation Red Card was a seven-country African anti-fraud crackdown led by INTERPOL under AFJOC, producing 306 arrests and 1,842 device seizures across mobile banking, investment, and messaging-app scam cases."
+jurisdictions:
+  - "[[benin]]"
+  - "[[cote-divoire]]"
+  - "[[nigeria]]"
+  - "[[rwanda]]"
+  - "[[south-africa]]"
+  - "[[togo]]"
+  - "[[zambia]]"
 organizations:
   - "[[interpol-igci]]"
   - "[[afripol]]"
 crime_types:
   - "[[online-fraud-ic]]"
 ---
-# Operation Red Card
+> [!note] Source basis
+> This page is now anchored to INTERPOL's official March 24, 2025 release and supplemented by Africanews and Kaspersky reporting. It has been rebuilt from a draft that carried substantive content but no usable references section or source metadata.
 
 ## Summary
 
-Operation Red Card was an INTERPOL-led international law enforcement operation conducted between November 2024 and February 2025, targeting cybercrime networks operating across seven African countries. The operation resulted in 306 arrests and the seizure of 1,842 devices, while identifying over 5,000 victims. It focused on mobile banking fraud, investment platform scams, messaging app scams, SIM box fraud, and malware distribution.
-
-The operation was coordinated by INTERPOL's African Joint Operation against Cybercrime (AFJOC) with private sector intelligence support from Group-IB, Kaspersky, and Trend Micro, as well as funding from the UK Foreign Office.
+**Operation Red Card** was an [[interpol-igci|INTERPOL]] operation under the African Joint Operation against Cybercrime framework targeting cyber-enabled financial fraud across seven African countries. The public record supports **306 arrests**, **1,842 devices seized**, and **more than 5,000 identified victims** across mobile banking, investment-platform, and messaging-app scam cases.
 
 ## Background
 
-The operation targeted the growing threat of cyber-enabled financial fraud across Africa, where mobile banking adoption has outpaced cybersecurity infrastructure. Criminal networks exploited mobile banking platforms, investment apps, and messaging applications to defraud victims across multiple countries.
+The operation focused on transnational scam networks exploiting regional and cross-border payment behavior, especially mobile-banking and messaging ecosystems. INTERPOL's release and partner reporting make clear that the operation was intelligence-led and supported by private-sector enrichment before the coordinated enforcement phase.
 
 ## Participating Parties
 
-### Law Enforcement
-- **Lead**: [[interpol-igci|INTERPOL]] (AFJOC)
-- **Coordinating**: [[afripol|AFRIPOL]]
-- **Countries**: [[nigeria|Nigeria]], [[south-africa|South Africa]], [[zambia|Zambia]], [[rwanda|Rwanda]], [[benin|Benin]], [[cote-divoire|Cote d'Ivoire]], [[togo|Togo]]
+### Coordinating Bodies
+- [[interpol-igci|INTERPOL]]
+- [[afripol|AFRIPOL]] through the AFJOC framework
 
-### Private Sector Partners
-- Group-IB
+### Participating Countries
+- [[benin|Benin]]
+- [[cote-divoire|Cote d'Ivoire]]
+- [[nigeria|Nigeria]]
+- [[rwanda|Rwanda]]
+- [[south-africa|South Africa]]
+- [[togo|Togo]]
+- [[zambia|Zambia]]
+
+### Private-Sector Support Named in Public Material
 - Kaspersky
+- Group-IB
 - Trend Micro
-
-### Funding
-- UK Foreign, Commonwealth and Development Office
 
 ## Results and Impact
 
-| Metric | Value |
-|--------|-------|
+| Metric | Detail |
+|--------|--------|
 | Arrests | 306 |
 | Devices seized | 1,842 |
-| Victims identified | 5,000+ |
-| Countries | 7 |
+| Identified victims | 5,000+ |
+| Countries involved | 7 |
 
-### Country-Specific Results
-
-> [!note] Data granularity
-> The source does not break down arrests by country. Additional sources needed for country-level detail.
+Public reporting also provides enough country examples to show the operation was not merely symbolic. Nigeria, Rwanda, and South Africa all appear in public case summaries with concrete investigative results.
 
 ## Cooperation Mechanisms Used
 
-> [!warning] Missing data
-> Legal basis and specific cooperation mechanisms not detailed in available sources. Likely INTERPOL I-24/7 network and AFJOC coordination framework.
-
-## Challenges and Friction Points
-
-Not detailed in available sources.
-
-## Lessons Learned
-
-Not detailed in available sources.
-
-## Korean Involvement (한국의 참여)
-
-No Korean involvement reported in this operation.
+The sources support pre-operational intelligence sharing, enrichment by INTERPOL and private-sector partners, and synchronized national police action across seven countries. The precise treaty or MLA instruments are not named in the public material, so this page does not infer them.
 
 ## Contradictions & Open Questions
 
-- Exact legal basis for cross-border cooperation among the 7 African countries is not specified.
-- Individual country contribution and arrest distribution not disclosed.
+- Public reporting is consistent on the headline metrics, but not every country-level case is described with the same depth.
+- Device seizures are public; downstream prosecution and conviction figures are not.
+- The current source set supports the operational picture strongly, but judicial follow-through remains thin in the public record.
 
-## Follow-Up Actions
+## References
 
-> [!warning] No public court documents found
-> Web search (2026-04-17) yielded no publicly accessible court filings
-> for this operation. Possible reasons: non-US jurisdiction with no
-> public court records system, sealed proceedings, or operation did
-> not result in formal prosecution.
+| # | Title | Publisher | Date | URL |
+|---|-------|----------|------|-----|
+| [1] | More than 300 arrests as African countries clamp down on cyber threats | INTERPOL | 2025-03-24 | https://www.interpol.int/News-and-Events/News/2025/More-than-300-arrests-as-African-countries-clamp-down-on-cyber-threats |
+| [2] | Cybercrime crackdown: 306 arrested in Africa-wide operation | Africanews | 2025-03-24 | https://www.africanews.com/2025/03/24/cybercrime-crackdown-306-arrested-in-africa-wide-operation// |
+| [3] | Kaspersky supports INTERPOL-led operation Red Card, resulting in over 300 arrests | Kaspersky | 2025-03-24 | https://www.kaspersky.com/about/press-releases/kaspersky-supports-interpol-led-operation-red-card-resulting-in-over-300-arrests |

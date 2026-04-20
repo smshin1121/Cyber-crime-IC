@@ -109,11 +109,11 @@ lessons_learned:
   - "Investigation methods that exploit Tor vulnerabilities raise significant research ethics and civil liberties concerns"
 source_count: 5
 sources:
-  - "[Europol IOCTA 2015 — Darknets](https: "//www.europol.europa.eu/iocta/2015/darknets.html)\""
-  - "[Wikipedia — Operation Onymous](https: "//en.wikipedia.org/wiki/Operation_Onymous)\""
-  - "[FBI press release — Silk Road 2.0 Charged](https: "//www.fbi.gov/contact-us/field-offices/newyork/news/press-releases/operator-of-silk-road-2.0-website-charged-in-manhattan-federal-court)\""
-  - "[ICE press release — International probe leads to arrest](https: "//www.ice.gov/news/releases/international-probe-leads-arrest-alleged-operator-silk-road-20)\""
-  - "[GDPO Situation Analysis (Jan 2015)](https: "//www.swansea.ac.uk/media/Operation-Onymous.pdf)\""
+  - "[Europol IOCTA 2015 — Darknets](https://www.europol.europa.eu/iocta/2015/darknets.html)"
+  - "[Wikipedia — Operation Onymous](https://en.wikipedia.org/wiki/Operation_Onymous)"
+  - "[FBI press release — Silk Road 2.0 Charged](https://www.fbi.gov/contact-us/field-offices/newyork/news/press-releases/operator-of-silk-road-2.0-website-charged-in-manhattan-federal-court)"
+  - "[ICE press release — International probe leads to arrest](https://www.ice.gov/news/releases/international-probe-leads-arrest-alleged-operator-silk-road-20)"
+  - "[GDPO Situation Analysis (Jan 2015)](https://www.swansea.ac.uk/media/Operation-Onymous.pdf)"
 created: 2026-04-10
 updated: 2026-04-17
 operation_role: umbrella

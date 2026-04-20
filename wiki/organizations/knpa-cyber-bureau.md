@@ -27,6 +27,7 @@ operations_participated:
   - "[[operation-haechi-iv]]"
   - "[[operation-haechi-vi]]"
   - "[[korea-cambodia-scam-repatriation]]"
+  - "[[operation-cyber-guardian]]"
 org_type: national-unit
 parent_org: "[[knpa]]"
 predecessor: ""

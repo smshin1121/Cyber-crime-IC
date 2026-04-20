@@ -21,6 +21,8 @@ timeframe:
   end: 2017-12-04
   ongoing: false
 crime_type: "[[malware-ic]]"
+crime_types:
+  - "[[malware-ic]]"
 target_entity: Andromeda Botnet
 lead_agency: "[[fbi]]"
 coordinating_body: "[[europol-ec3]]"

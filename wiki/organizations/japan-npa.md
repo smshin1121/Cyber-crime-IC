@@ -26,6 +26,8 @@ operations_participated:
   - "[[operation-cronos-phase3]]"
   - "[[lumma-stealer-takedown]]"
   - "[[operation-power-off]]"
+  - "[[operation-cyber-guardian]]"
+  - "[[phobos-8base-crackdown]]"
 org_type: national-agency
 parent_org: "[[japan-npa-headquarters]]"
 source_count: 6

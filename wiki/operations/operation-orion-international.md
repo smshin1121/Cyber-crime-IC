@@ -1,129 +1,139 @@
 ---
+type: operation
+title: "Operation Orion International"
 aliases:
-
+  - "Orion International"
+  - "South America CSAM Crackdown 2024"
 case_id: CYB-2024-001
-challenges_encountered:
-
-coordinating_body: "[[interpol-igci]]"
-created: 2026-04-08
-credibility_index: 2.28
-crime_type: "[[csam-ic]]"
-edges:
-
-enforcement_type:
-
-lead_agency: "[[interpol-igci]]"
-legal_basis:
-
-lessons_learned:
-
-mechanisms_used:
-
-missing_fields:
-
-operation_type: arrest-sweep
-outcome: success
-participating_agencies:
-
-participating_countries:
-
 period: 3
-related_cases:
-
-related_operations:
-
-results:
-  arrests: 144
-  cryptocurrency_seized: ""
-  decryption_keys_recovered: 0
-  domains_seized: 0
-  indictments: 0
-  other:
-
-  servers_seized: 0
-  victims_notified: 0
-source_count: 0
-source_tier: 2
-sources:
-
+operation_type: arrest-sweep
 status: completed
-target_entity: "CSAM distributors and producers across South America"
+enforcement_type:
+  - arrest
+  - search
+outcome: success
 timeframe:
-  announced: 2024-10-15
+  announced: 2024-09-26
+  start: 2024-05-01
   end: 2024-09-30
   ongoing: false
-  start: 2024-05-01
-title: "Operation Orion International — South America CSAM Crackdown"
-type: operation
-updated: 2026-04-08
+crime_type: "[[csam-ic]]"
+target_entity: "Child sexual abuse and exploitation offenders operating across South America"
+lead_agency: "[[interpol-igci]]"
+coordinating_body: "[[interpol-igci]]"
+participating_countries:
+  - "[[argentina]]"
+  - "[[bolivia]]"
+  - "[[brazil]]"
+  - "[[chile]]"
+  - "[[colombia]]"
+  - "[[ecuador]]"
+  - "[[guyana]]"
+  - "[[paraguay]]"
+  - "[[peru]]"
+  - "[[suriname]]"
+  - "[[uruguay]]"
+  - "[[venezuela]]"
+participating_agencies:
+  - "[[interpol-igci]]"
+  - "[[unodc]]"
+legal_basis: []
+mechanisms_used:
+  - "[[informal-cooperation]]"
+results:
+  arrests: 144
+  indictments: 0
+  servers_seized: 0
+  domains_seized: 0
+  cryptocurrency_seized: ""
+  decryption_keys_recovered: 0
+  victims_notified: 20
+  other:
+    - "18 direct abusers were arrested."
+    - "111 suspects were charged with possession or distribution of abuse material."
+    - "Seven Red Notice subjects were arrested."
+source_count: 1
+sources:
+  - "[[2024-10-15_interpol-int_operation-orion-international]]"
+created: 2026-04-08
+updated: 2026-04-19
 operation_role: umbrella
 parent_operation: ""
-summary: "Operation Orion International was an [[interpol-igci|INTERPOL]]-coordinated enforcement operation across 12 South American countries targeting the transnational distribution of child sexual abuse material (CSAM) via instant messaging applications. Running from May to September 2024, the operation resulted in 144 arrests, 20 children rescued, and 7 Red Notice subjects apprehended. The operation was launched from intelligence provided by Chile's cybercrime unit and the Buenos Aires prosecutor's office, with support from [[unodc|UNODC]]."
+summary: "Operation Orion International was a 12-country South American child-protection crackdown coordinated by INTERPOL, resulting in 144 arrests, 20 safeguarded children, and seven arrests of Red Notice subjects."
+jurisdictions:
+  - "[[argentina]]"
+  - "[[bolivia]]"
+  - "[[brazil]]"
+  - "[[chile]]"
+  - "[[colombia]]"
+  - "[[ecuador]]"
+  - "[[guyana]]"
+  - "[[paraguay]]"
+  - "[[peru]]"
+  - "[[suriname]]"
+  - "[[uruguay]]"
+  - "[[venezuela]]"
 organizations:
   - "[[interpol-igci]]"
+  - "[[unodc]]"
 crime_types:
   - "[[csam-ic]]"
 ---
-# Operation Orion International — South America CSAM Crackdown
+> [!note] Source basis
+> This page is anchored to INTERPOL's official September 26, 2024 release. Duplicate source stubs existed in the repository; this page now uses the canonical INTERPOL source rather than inflating source density with duplicate wrappers.
 
 ## Summary
 
-Operation Orion International was an [[interpol-igci|INTERPOL]]-coordinated enforcement operation across 12 South American countries targeting the transnational distribution of child sexual abuse material (CSAM) via instant messaging applications. Running from May to September 2024, the operation resulted in 144 arrests, 20 children rescued, and 7 Red Notice subjects apprehended. The operation was launched from intelligence provided by Chile's cybercrime unit and the Buenos Aires prosecutor's office, with support from [[unodc|UNODC]].
+**Operation Orion International** was an [[interpol-igci|INTERPOL]]-coordinated operation across **12 South American countries** targeting the production, distribution, and possession of online child sexual abuse material. The public record supports **144 arrests**, the safeguarding of **20 child victims**, and the arrest of **seven individuals subject to INTERPOL Red Notices**.
 
 ## Background
 
-The operation was initiated after Chile's cybercrime unit and the Buenos Aires prosecutor's office shared intelligence with INTERPOL regarding investigations into transnational CSAM distribution networks using instant messaging platforms. INTERPOL then coordinated a region-wide response across all 12 South American countries.
+INTERPOL launched the operation after receiving investigative information from Chile's cybercrime unit and the Buenos Aires prosecutor's office regarding transnational abuse-material distribution through messaging applications. INTERPOL then consolidated and redistributed intelligence, while a pre-operational meeting supported by [[unodc|UNODC]] established the cross-border coordination roadmap.
 
 ## Participating Parties
 
-- **Coordinating body:** [[interpol-igci|INTERPOL]]
-- **Intelligence initiators:** Chile Cybercrime Unit (PDI), Buenos Aires Prosecutor's Office
-- **Supporting organization:** [[unodc|UNODC]]
-- **Participating countries (12):** Argentina, Bolivia, Brazil, Chile, Colombia, Ecuador, Guyana, Paraguay, Peru, Suriname, Uruguay, Venezuela
+### Coordinating Bodies
+- [[interpol-igci|INTERPOL]]
+- [[unodc|UNODC]] (pre-operational support)
 
-## Operational Timeline
-
-| Date | Event |
-|------|-------|
-| Pre-2024 | Chile and Argentina share intelligence with INTERPOL |
-| 2024-05 | Operation launched across 12 countries |
-| 2024-05 to 2024-09 | Five-month enforcement period |
-| 2024-10-15 | Results publicly announced by INTERPOL |
+### Participating Countries
+- [[argentina|Argentina]]
+- [[bolivia|Bolivia]]
+- [[brazil|Brazil]]
+- [[chile|Chile]]
+- [[colombia|Colombia]]
+- [[ecuador|Ecuador]]
+- [[guyana|Guyana]]
+- [[paraguay|Paraguay]]
+- [[peru|Peru]]
+- [[suriname|Suriname]]
+- [[uruguay|Uruguay]]
+- [[venezuela|Venezuela]]
 
 ## Results and Impact
 
-- **Total arrests:** 144
-- **Children rescued:** 20
-- **Direct abusers arrested:** 18
-- **Charged with possession/distribution:** 111
-- **Red Notice subjects arrested:** 7
-- **Offender demographics:** Ages 14-86, predominantly male
+| Metric | Detail |
+|--------|--------|
+| Arrests | 144 |
+| Child victims safeguarded | 20 |
+| Direct abusers arrested | 18 |
+| Possession / distribution charges | 111 |
+| Red Notice subjects arrested | 7 |
 
-### Country Highlights
-
-- **Argentina:** Safeguarded a 9-year-old victim after 6+ years of abuse; hardware seizures opened new investigative avenues
-- **Chile:** Arrested CSAM producer; safeguarded a 14-year-old girl
-- **Ecuador:** Apprehended a website manager through Korea-Ecuador cooperation
+The official release also highlights a Korea-Ecuador cooperation thread in the identification and apprehension of a website manager associated with child exploitation material, which reinforces the page's cross-regional international-cooperation relevance.
 
 ## Cooperation Mechanisms Used
 
-INTERPOL served as the central coordination hub, disseminating intelligence to national contact points in each participating country. Red Notice system used for 7 international arrests. UNODC provided technical assistance and capacity building support.
-
-## Korean Involvement (한국의 참여)
-
-Although not a direct participant, South Korea was involved through cross-regional cooperation with Ecuador in apprehending a CSAM website manager. This represents a notable example of inter-regional IC on CSAM cases.
+The sources support intelligence consolidation by INTERPOL, coordinated target action across 12 countries, and use of the Red Notice system. Because the official release does not enumerate specific MLA or JIT instruments, the page limits itself to documented INTERPOL and cross-border investigative coordination.
 
 ## Contradictions & Open Questions
 
-- Per-country arrest breakdown not disclosed
-- Specific devices and quantities seized not specified
-- Legal basis for cross-border cooperation not explicitly stated
-- Nature and scope of UNODC support not detailed
+- Country-level arrest totals are not fully disaggregated in the anchor release.
+- The public record is strong on enforcement-stage outcomes but weak on subsequent prosecution outcomes.
+- The precise institutional role of the Buenos Aires prosecutor's office beyond intelligence initiation is not fully detailed in currently collected sources.
 
-## Follow-Up Actions
+## References
 
-> [!warning] No public court documents found
-> Web search (2026-04-17) yielded no publicly accessible court filings
-> for this operation. Possible reasons: non-US jurisdiction with no
-> public court records system, sealed proceedings, or operation did
-> not result in formal prosecution.
+| # | Title | Publisher | Date | URL |
+|---|-------|----------|------|-----|
+| [1] | 20 rescued, 144 arrested in major child abuse operation across South America | INTERPOL | 2024-09-26 | https://www.interpol.int/News-and-Events/News/2024/20-rescued-144-arrested-in-major-child-abuse-operation-across-South-America |

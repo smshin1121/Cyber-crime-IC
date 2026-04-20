@@ -24,7 +24,10 @@ target_entity: "Europol: French coder who helped extort British company arrested
 lead_agency: "[[europol-ec3]]"
 coordinating_body: "[[europol-ec3]]"
 participating_countries:
-  - "[[international]]"
+  - "[[belgium]]"
+  - "[[france]]"
+  - "[[thailand]]"
+  - "[[united-kingdom]]"
 jurisdictions:
   - "[[international]]"
 participating_agencies:

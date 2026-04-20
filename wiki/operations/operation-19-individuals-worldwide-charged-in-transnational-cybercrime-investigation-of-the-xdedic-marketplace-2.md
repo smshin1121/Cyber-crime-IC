@@ -8,7 +8,7 @@ period: 3
 operation_role: "follow-on"
 parent_operation: ""
 operation_type: "indictment"
-status: "ongoing"
+status: "absorbed"
 enforcement_type:
   - indictment
 outcome: "success"
@@ -32,9 +32,7 @@ participating_agencies:
 organizations:
   - "[[us-doj]]"
 legal_basis:
-  - "[[informal-cooperation]]"
 mechanisms_used:
-  - "[[informal-cooperation]]"
 results:
   arrests: 0
   indictments: 1
@@ -57,14 +55,14 @@ lessons_learned: []
 source_count: 1
 sources:
   - "[[2024-01-04_justice-gov_united-states-v-harold-mckinzie]]"
-summary: "19 Individuals Worldwide Charged In Transnational Cybercrime Investigation Of The xDedic Marketplace Enforcement Action is a defendant-specific enforcement action page derived from [[19-individuals-worldwide-charged-in-transnational-cybercrime-investigation-of-the-xdedic-marketplace-2]]."
+summary: "19 Individuals Worldwide Charged In Transnational Cybercrime Investigation Of The xDedic Marketplace Enforcement Action is an absorbed duplicate wrapper for the canonical xDedic operation page [[operation-19-individuals-worldwide-charged-in-transnational-cybercrime-investigation-of-the-xdedic-marketplace]]."
 created: 2026-04-18
 updated: 2026-04-18
 ---
 
 ## Summary
 
-19 Individuals Worldwide Charged In Transnational Cybercrime Investigation Of The xDedic Marketplace Enforcement Action is a defendant-specific enforcement action page derived from [[19-individuals-worldwide-charged-in-transnational-cybercrime-investigation-of-the-xdedic-marketplace-2]]. It captures the prosecutorial or seizure stage reflected in the linked case record and preserves the operation-side catalog entry for this follow-on action.
+19 Individuals Worldwide Charged In Transnational Cybercrime Investigation Of The xDedic Marketplace Enforcement Action is a defendant-specific follow-on record derived from [[19-individuals-worldwide-charged-in-transnational-cybercrime-investigation-of-the-xdedic-marketplace-2]]. It preserves the catalog entry without asserting an explicit cooperation mechanism that the source does not document.
 
 ## Background
 

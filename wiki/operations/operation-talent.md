@@ -1,174 +1,136 @@
 ---
-operation_role: umbrella
-parent_operation: ""
-summary: "Operation Talent was a German-led international law enforcement operation conducted on January 28-30, 2025, that dismantled the world's two largest cybercrime forums: **Cracked** (4 million+ users) and **Nulled** (5 million+ users). The operation was coordinated by Germany's BKA with Europol support and participation from 8 countries, resulting in 2 arrests and the takedown of associated criminal services including payment processing and hosting infrastructure."
----
-﻿---
+type: operation
+title: "Operation Talent"
 aliases:
-- Talent
+  - "Talent"
 case_id: CYB-2025-011
-challenges_encountered: []
-coordinating_body: '[[europol-ec3]]'
-created: 2026-04-08
-credibility_index: 2.28
-crime_type: '[[hacking-ic]]'
-edges:
-- cooperation_type: joint_investigation
-  direction: undirected
-  legal_basis: unknown
-  source_actor: Germany BKA
-  target_actor: Europol
-- cooperation_type: joint_investigation
-  direction: undirected
-  legal_basis: MLAT
-  source_actor: FBI
-  target_actor: Germany BKA
-- cooperation_type: joint_investigation
-  direction: undirected
-  legal_basis: unknown
-  source_actor: Germany BKA
-  target_actor: Greece Police
-- cooperation_type: joint_investigation
-  direction: undirected
-  legal_basis: unknown
-  source_actor: Germany BKA
-  target_actor: Spain Police
-- cooperation_type: joint_investigation
-  direction: undirected
-  legal_basis: unknown
-  source_actor: Germany BKA
-  target_actor: France Police
-- cooperation_type: joint_investigation
-  direction: undirected
-  legal_basis: unknown
-  source_actor: Germany BKA
-  target_actor: Romania Police
-- cooperation_type: joint_investigation
-  direction: undirected
-  legal_basis: unknown
-  source_actor: Germany BKA
-  target_actor: Italy Police
-- cooperation_type: joint_investigation
-  direction: undirected
-  legal_basis: unknown
-  source_actor: Germany BKA
-  target_actor: Australia AFP
-enforcement_type:
-- arrest
-- takedown
-- seizure
-lead_agency: '[[germany-bka]]'
-legal_basis: []
-lessons_learned: []
-mechanisms_used: []
-missing_fields:
-- legal_basis
-- mechanisms_used
-- cryptocurrency_seized
-- servers_seized_count
-operation_type: takedown
-outcome: success
-participating_agencies:
-- '[[germany-bka]]'
-- '[[europol-ec3]]'
-- '[[fbi-cyber-division]]'
-participating_countries:
-- '[[germany]]'
-- '[[united-states]]'
-- '[[greece]]'
-- '[[spain]]'
-- '[[france]]'
-- '[[romania]]'
-- '[[italy]]'
-- '[[australia]]'
 period: 3
-related_cases: []
-related_operations: []
+operation_type: takedown
+status: completed
+enforcement_type:
+  - arrest
+  - seizure
+  - takedown
+outcome: success
+timeframe:
+  announced: 2025-01-30
+  start: 2025-01-28
+  end: 2025-01-30
+  ongoing: false
+crime_type: "[[hacking-ic]]"
+target_entity: "Cracked and Nulled cybercrime forums and their supporting criminal services"
+lead_agency: "[[germany-bka]]"
+coordinating_body: "[[europol-ec3]]"
+participating_countries:
+  - "[[germany]]"
+  - "[[united-states]]"
+  - "[[australia]]"
+  - "[[spain]]"
+  - "[[greece]]"
+  - "[[romania]]"
+  - "[[italy]]"
+  - "[[france]]"
+participating_agencies:
+  - "[[germany-bka]]"
+  - "[[europol-ec3]]"
+  - "[[fbi-cyber-division]]"
+  - "[[us-doj]]"
+legal_basis: []
+mechanisms_used:
+  - "[[informal-cooperation]]"
 results:
   arrests: 2
-  cryptocurrency_seized: ''
-  decryption_keys_recovered: 0
-  domains_seized: 0
   indictments: 0
-  other:
-  - Cracked forum dismantled (4M+ users)
-  - Nulled forum dismantled (5M+ users)
-  - Related services seized (payment, hosting)
-  - Annual criminal revenue EUR 1M+
-  servers_seized: 0
+  servers_seized: 17
+  domains_seized: 12
+  cryptocurrency_seized: "approximately EUR 300,000 in cash and crypto"
+  decryption_keys_recovered: 0
   victims_notified: 0
-source_count: 0
-source_tier: 2
+  other:
+    - "Cracked and Nulled had roughly 10 million registered user accounts combined."
+    - "Associated services Sellix and StarkRDP were also disrupted."
+    - "Searches were carried out at seven properties."
+source_count: 2
 sources:
-- '[[2025-01-30-europol-operation-talent]]'
-status: completed
-target_entity: Cracked and Nulled cybercrime forums — world's two largest cybercrime
-  marketplaces
-timeframe:
-  announced: '2025-01-30'
-  end: '2025-01-30'
-  ongoing: false
-  start: '2025-01-28'
-title: Operation Talent
-type: operation
-updated: 2026-04-08
+  - "[[2025-01-30-europol-operation-talent]]"
+  - "[[2025-01-30_justice-gov_cracked-and-nulled-marketplaces-disrupted-international-cyber-operation]]"
+created: 2026-04-08
+updated: 2026-04-19
+operation_role: umbrella
+parent_operation: ""
+summary: "Operation Talent was a Germany-led, Europol-supported international operation against the Cracked and Nulled cybercrime forums, producing two arrests, 17 server seizures, and broad evidence capture for follow-on investigations."
+jurisdictions:
+  - "[[germany]]"
+  - "[[united-states]]"
+  - "[[australia]]"
+  - "[[spain]]"
+  - "[[greece]]"
+  - "[[romania]]"
+  - "[[italy]]"
+  - "[[france]]"
+organizations:
+  - "[[germany-bka]]"
+  - "[[europol-ec3]]"
+  - "[[fbi-cyber-division]]"
+  - "[[us-doj]]"
+crime_types:
+  - "[[hacking-ic]]"
 ---
-
-# Operation Talent
+> [!note] Source basis
+> This page has been rebuilt from a malformed dual-frontmatter draft. It now rests on a BKA / Europol-side source page plus DOJ's official January 30, 2025 announcement.
 
 ## Summary
 
-Operation Talent was a German-led international law enforcement operation conducted on January 28-30, 2025, that dismantled the world's two largest cybercrime forums: **Cracked** (4 million+ users) and **Nulled** (5 million+ users). The operation was coordinated by Germany's BKA with Europol support and participation from 8 countries, resulting in 2 arrests and the takedown of associated criminal services including payment processing and hosting infrastructure.
-
-The forums served as marketplaces for stolen credentials, hacking tools, malware, AI-powered attack tools, and cybercrime-as-a-service offerings, generating over EUR 1 million in annual criminal revenue.
+**Operation Talent** was a Germany-led, [[europol-ec3|Europol]]-supported international operation targeting the cybercrime forums **Cracked** and **Nulled**. Between 28 and 30 January 2025, authorities from eight countries took coordinated action against the two forums and related criminal services, producing arrests, domain and server seizures, and extensive evidence capture for follow-on international investigations.
 
 ## Background
 
-Cracked and Nulled were long-established underground forums that served as central hubs for the global cybercrime ecosystem. They facilitated the sale and distribution of stolen data, credentials, hacking tools, and malware, effectively lowering the barrier to entry for aspiring cybercriminals.
+Cracked and Nulled were major access points into the cybercrime economy, hosting stolen data, malware, hacking tools, credential sets, fraud services, and AI-assisted attack tooling. Public official reporting indicates that the forums were deeply embedded in the global underground economy rather than being marginal websites, which makes Operation Talent a meaningful infrastructure-disruption case rather than a single-platform seizure.
 
 ## Participating Parties
 
-### Law Enforcement
-- **Lead**: [[germany-bka|Germany BKA (Bundeskriminalamt)]]
-- **Coordination**: [[europol-ec3|Europol EC3]]
-- **Participating**: [[fbi-cyber-division|FBI]], Greece Police, Spain Police, France Police, Romania Police, Italy Police (Polizia), Australia Federal Police
+### Lead / Coordination
+- [[germany-bka|Germany BKA]]
+- [[europol-ec3|Europol EC3]]
 
-### Countries
-[[germany|Germany]], [[united-states|United States]], [[greece|Greece]], [[spain|Spain]], [[france|France]], [[romania|Romania]], [[italy|Italy]], [[australia|Australia]]
+### Confirmed Participating Countries
+- [[germany|Germany]]
+- [[united-states|United States]]
+- [[australia|Australia]]
+- [[spain|Spain]]
+- [[greece|Greece]]
+- [[romania|Romania]]
+- [[italy|Italy]]
+- [[france|France]]
+
+### Confirmed U.S. Role
+- [[us-doj|U.S. Department of Justice]]
+- [[fbi-cyber-division|FBI]]
 
 ## Results and Impact
 
-| Metric | Value |
-|--------|-------|
+| Metric | Detail |
+|--------|--------|
 | Arrests | 2 |
-| Forums dismantled | 2 (Cracked + Nulled) |
-| Total forum users | 10M+ |
-| Countries | 8 |
-| Criminal revenue | EUR 1M+ annually |
+| Searches | 7 properties |
+| Servers seized | 17 |
+| Domains / accounts seized | 12 domains and related accounts reported by BKA |
+| Cash / cryptocurrency | around EUR 300,000 |
+| Scale of platforms | about 10 million registered user accounts combined |
 
 ## Cooperation Mechanisms Used
 
-> [!warning] Missing data
-> Specific cooperation mechanisms and legal basis not detailed in available source. Likely Europol JIT framework and bilateral MLATs.
-
-> [!note] DOJ confirmation pending
-> Row 59 of Excel data contains a DOJ press release (justice.gov) confirming US participation. This Tier 1 source would upgrade CI to 3.35 if verified.
-
-## Korean Involvement (한국의 참여)
-
-No Korean involvement reported.
+The sources clearly support synchronized multinational police action with Europol support and U.S. judicial involvement. The public record does not spell out the exact mutual legal assistance and evidence-transfer instruments, so this page confines itself to what is documented: Germany-led operational action, Europol support, and DOJ/FBI participation.
 
 ## Contradictions & Open Questions
 
-- Exact number of servers seized and infrastructure details not specified in available Europol source.
-- Whether arrests led to further indictments is not yet known.
-- The DOJ source (row 59, justice.gov) should be fetched to add Tier 1 legal document data.
+- Public figures vary slightly across summaries on the exact count of accounts, domains, and seized services, but the core seizure narrative is consistent.
+- Follow-on prosecutions against sellers and users of the forums are expected but not yet fully visible in public reporting.
+- The extent of Europol's public-facing own announcement page remains underdocumented in the current source set; this page therefore leans on BKA and DOJ official anchors.
 
-## Follow-Up Actions
+## References
 
-> [!warning] No public court documents found
-> Web search (2026-04-17) yielded no publicly accessible court filings
-> for this operation. Possible reasons: non-US jurisdiction with no
-> public court records system, sealed proceedings, or operation did
-> not result in formal prosecution.
-
+| # | Title | Publisher | Date | URL |
+|---|-------|----------|------|-----|
+| [1] | Strafverfolgungsbehörden schalten die zwei weltweit größten Cybercrime-Foren mit rund 10 Millionen registrierten Nutzern ab | Germany BKA | 2025-01-30 | https://www.bka.de/DE/Presse/Listenseite_Pressemitteilungen/2025/Presse2025/250130_Operation_Talent.html |
+| [2] | Cracked and Nulled Marketplaces Disrupted in International Cyber Operation | U.S. Department of Justice | 2025-01-30 | https://www.justice.gov/opa/pr/cracked-and-nulled-marketplaces-disrupted-international-cyber-operation |

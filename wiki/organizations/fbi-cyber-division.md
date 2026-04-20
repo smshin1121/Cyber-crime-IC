@@ -98,6 +98,8 @@ operations_participated:
   - "[[trickbot-operations]]"
   - "[[vpnlab-takedown]]"
   - "[[operation-us-v-parsarad-nemesis]]"
+  - "[[operation-talent]]"
+  - "[[phobos-8base-crackdown]]"
 org_type: national-agency
 parent_org: "[[fbi]]"
 source_count: 12

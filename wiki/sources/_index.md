@@ -6,7 +6,7 @@ created: 2026-04-08
 updated: 2026-04-14
 ---
 
-# Sources (1770)
+# Sources (1778)
 
 | Source | Type | Publisher | Tier | Reliability | Domain |
 |--------|------|-----------|------|-------------|--------|
@@ -497,6 +497,9 @@ updated: 2026-04-14
 | [[2025-05-22-europol-endgame-follow-up]] | press-release | Europol | ? | high | ? |
 | [[2025-05-22-doj-qakbot-gallyamov-indictment]] | press-release | US Department of Justice | ? | high | ? |
 | [[2026-04-18_justice-gov_justice-department-seizes-domains-behind-major-information-stealing-malware-operation]] | press-release | US DOJ (Office of Public Affairs) | ? | high | ? |
+| [[2025-05-21_microsoft_lumma-stealer-global-action]] | blog | Microsoft | ? | high | ? |
+| [[2025-05-21_microsoft-security-blog_lumma-stealer-analysis]] | research-blog | Microsoft Security Blog | ? | high | ? |
+| [[2025-05-21_justice-gov_lumma-stealer-domain-seizures]] | press-release | U.S. Department of Justice | ? | high | ? |
 | [[2026-04-18_justice-gov_oklahoma-man-sentenced-30-years-prison-sexually-exploiting-children]] | press-release | US DOJ USAO | ? | high | ? |
 | [[2026-04-18_justice-gov_columbia-sex-offender-charged-child-pornography-offense]] | press-release | US DOJ USAO | ? | high | ? |
 | [[2026-04-18_justice-gov_administrator-online-criminal-marketplace-extradited-kosovo-united-states]] | press-release | US DOJ USAO | ? | high | ? |
@@ -541,9 +544,11 @@ updated: 2026-04-14
 | [[2025-04-04_securityaffairs-com_operation-stream-kidflix]] | press-release | Security Affairs / TRM Labs | ? | medium | ? |
 | [[2025-04-04_europol_operation-stream-kidflix-takedown]] | press-release | Europol / Security Affairs / TRM Labs | ? | high | ? |
 | [[2025-04-04-europol-operation-stream-kidflix]] | news | Security Affairs / TRM Labs | ? | medium | ? |
+| [[2025-04-03_politie-nl_kidflix-offline-gehaald]] | press-release | Dutch National Police | ? | high | ? |
 | [[2025-04-01_venable-com_a-legal-whirlwind-settles-treasury-lifts-sanctions-on-tornado-cash]] | press-release | Venable LLP | ? | medium | ? |
 | [[2025-04-01_straitstimes-com_more-than-9000-malware-infected-servers-found-by-singapore-based-interpol-ope]] | press-release | straitstimes.com | ? | medium | ? |
 | [[2025-04-01_paulhastings-com_a-whirlwind-of-change-the-delisting-of-tornado-cash]] | press-release | Paul Hastings LLP | ? | medium | ? |
+| [[2025-04-01_japan-npa_operation-cyber-guardian]] | report | National Police Agency of Japan | ? | high | ? |
 | [[2025-04-01-interpol-operation-secure-infostealer]] | press-release | INTERPOL | ? | high | ? |
 | [[2026-04-18_justice-gov_justice-department-disrupts-hamas-terrorist-financing-scheme-through-seizure]] | press-release | US DOJ USAO | ? | high | ? |
 | [[2025-03-27_info-gov-hk_digital-policy-office-introduces-initiatives-to-promote-cybersecurity-in-2025]] | press-release | HKSAR Government | ? | medium | ? |
@@ -551,6 +556,7 @@ updated: 2026-04-14
 | [[2026-04-18_justice-gov_brooksville-man-sentenced-prison-electronic-prescribing-fraud-scheme]] | press-release | US DOJ USAO | ? | high | ? |
 | [[2026-04-18_justice-gov_st-lawrence-county-man-pleads-guilty-receiving-and-possessing-child-pornography]] | press-release | US DOJ USAO | ? | high | ? |
 | [[2026-04-18_justice-gov_violent-level-3-sex-offender-harwich-sentenced-decade-prison-child-pornography-offense]] | press-release | US DOJ USAO | ? | high | ? |
+| [[2025-03-24_kaspersky_operation-red-card]] | press-release | Kaspersky | ? | medium | ? |
 | [[2025-03-24-interpol-operation-red-card]] | press-release | INTERPOL | ? | high | ? |
 | [[2025-03-24-africanews-operation-red-card]] | news | Africanews | ? | medium | ? |
 | [[2025-03-21_home-treasury-gov_tornado-cash-delisting-press-release-sb-0057]] | press-release | US Department of the Treasury | ? | medium | ? |
@@ -603,9 +609,10 @@ updated: 2026-04-14
 | [[hackread-operation-avalanche]] | news | Hackread | 4 | medium | ? |
 | [[2026-04-18_justice-gov_two-members-multi-state-drug-trafficking-rings-linked-aryan-prison-gangs-sentenced]] | press-release | US DOJ USAO | ? | high | ? |
 | [[2025-01-30_krebsonsecurity-com_fbi-dutch-police-disrupt-manipulaters-phishing-gang]] | press-release | KrebsOnSecurity | ? | medium | ? |
+| [[2025-01-30_justice-gov_cracked-and-nulled-marketplaces-disrupted-international-cyber-operation]] | press-release | U.S. Department of Justice | ? | high | ? |
 | [[2025-01-30_hackread-com_heartsender-cybercrime-network-dismantled-in-joint-us-dutch-operation]] | press-release | Hackread | ? | medium | ? |
 | [[2025-01-30_cyberscoop-com_department-of-justice-partners-with-dutch-police-to-break-up-heartsender-network]] | press-release | CyberScoop | ? | medium | ? |
-| [[2025-01-30-europol-operation-talent]] | press-release | Europol | ? | high | ? |
+| [[2025-01-30-europol-operation-talent]] | press-release | Germany BKA / Europol-supported operation | ? | high | ? |
 | [[2025-01-29_justice-gov_justice-department-announces-seizure-of-cybercrime-websites-selling-hacking-tool]] | press-release | US DOJ | ? | high | ? |
 | [[2025-01-27_eurojust_illegal-financial-service-launder-millions-busted]] | press-release | Eurojust | ? | high | ? |
 | [[2025-01-23_nltimes-nl_dutch-police-seize-eur-41-million-in-cryptocurrency-in-record-cybercrime-bust]] | press-release | NL Times | ? | medium | ? |
@@ -709,6 +716,7 @@ updated: 2026-04-14
 | [[2024-10-15_interpol_operation-orion-international-south-america-csam]] | press-release | INTERPOL | ? | high | ? |
 | [[2024-10-15_interpol-int_operation-orion-international]] | press-release | INTERPOL | ? | high | ? |
 | [[2024-10-15-interpol-operation-orion-international]] | press-release | INTERPOL | ? | high | ? |
+| [[2024-10-08_group-ib_operation-contender-2]] | press-release | Group-IB | ? | medium | ? |
 | [[2026-04-18_justice-gov_fourteen-indicted-multi-state-drug-trafficking-conspiracy-linked-deadly-fentanyl]] | press-release | US DOJ USAO | ? | high | ? |
 | [[2024-10-03_ia-acs-org-au_9m-in-crypto-seized-from-accused-ghost-app-creator]] | press-release | Information Age / ACS | ? | medium | ? |
 | [[2026-04-18_justice-gov_fact-sheet-ccips-enforcement-actions-combat-cybercrime]] | press-release | US DOJ | ? | high | ? |
@@ -719,6 +727,7 @@ updated: 2026-04-14
 | [[2024-10-01_europol-europa-eu_lockbit-power-cut-four-new-arrests-operation-cronos-phase-3]] | press-release | Europol | ? | high | ? |
 | [[2024-10-01_europol-europa-eu_lockbit-power-cut-four-new-arrests-and-financial-sanctions-against-affiliates-op]] | press-release | Europol | ? | high | ? |
 | [[2024-10-01-europol-operation-cronos-lockbit-phase3]] | press-release | Europol | ? | high | ? |
+| [[2024-04-01-interpol-operation-contender-2]] | press-release | INTERPOL | ? | high | ? |
 | [[the-cyber-express-operation-avalanche]] | news | The Cyber Express | 3 | medium | ? |
 | [[2026-04-18_justice-gov_two-russian-nationals-charged-connection-operating-billion-dollar-money-laundering]] | press-release | US DOJ USAO | ? | high | ? |
 | [[2026-04-18_justice-gov_fraud-public-corruption-and-civil-rights-section]] | press-release | US DOJ USAO | ? | high | ? |
@@ -853,7 +862,6 @@ updated: 2026-04-14
 | [[2026-04-18_justice-gov_us-attorneys-office-and-dea-announce-first-utah-drug-overdose-task-force-combat-opioid]] | press-release | US DOJ USAO | ? | high | ? |
 | [[2026-04-18_justice-gov_23-year-old-sentenced-20-years-prison-distributing-fentanyl-nearly-killed-park-city]] | press-release | US DOJ USAO | ? | high | ? |
 | [[2024-04-01_vanguardngr-com_interpol-identifies-20-674-suspicious-networks-linked-to-terrorists-money-lau]] | press-release | Vanguard News | ? | medium | ? |
-| [[2024-04-01-interpol-operation-contender-2]] | press-release | INTERPOL | ? | high | ? |
 | [[2026-04-18_justice-gov_bellingham-washington-drug-dealer-sentenced-ten-years-prison-distributing-fentanyl]] | press-release | US DOJ USAO | ? | high | ? |
 | [[2026-04-18_justice-gov_prominent-global-cryptocurrency-exchange-kucoin-and-two-its-founders-criminally]] | press-release | US DOJ USAO | ? | high | ? |
 | [[2026-04-18_justice-gov_jumbotron-hacker-and-prolific-child-molester-sentenced-220-years-federal-prison]] | press-release | US DOJ USAO | ? | high | ? |

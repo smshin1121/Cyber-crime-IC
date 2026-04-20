@@ -43,12 +43,12 @@ target_entity: "Franco-Israeli criminal network conducting CEO fraud / BEC attac
 lead_agency: "France (Police Nationale, Gendarmerie Nationale)"
 coordinating_body: "[[europol-ec3]]"
 participating_countries:
-  - France
-  - Israel
-  - Croatia
-  - Hungary
-  - Portugal
-  - Spain
+  - "[[france]]"
+  - "[[israel]]"
+  - "[[croatia]]"
+  - "[[hungary]]"
+  - "[[portugal]]"
+  - "[[spain]]"
 participating_agencies:
   - "[[europol-ec3]]"
   - "France Police Nationale"

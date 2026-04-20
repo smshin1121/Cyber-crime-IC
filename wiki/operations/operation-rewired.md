@@ -98,10 +98,10 @@ lessons_learned:
   - "Successor to Operation WireWire showed value of repeating coordinated sweeps"
 source_count: 4
 sources:
-  - "[FBI Press Release (2019-09-10)](https: "//www.fbi.gov/news/stories/operation-rewired-bec-takedown-091019)\""
-  - "[DOJ Press Release (2019-09-10)](https: "//www.justice.gov/archives/opa/pr/281-arrested-worldwide-coordinated-international-enforcement-operation-targeting-hundreds)\""
-  - "[US Secret Service Press Release (2019-09-10)](https: "//www.secretservice.gov/press/releases/2019/09/281-arrested-worldwide-coordinated-international-enforcement-operation)\""
-  - "[EFCC Press Release (2019-09)](https: "//www.efcc.gov.ng/efcc/news-and-information/news-release/4806-operation-rewired-we-recovered-169-850-n92m-through-efcc-fbi-collaboration-magu)\""
+  - "[FBI Press Release (2019-09-10)](https://www.fbi.gov/news/stories/operation-rewired-bec-takedown-091019)"
+  - "[DOJ Press Release (2019-09-10)](https://www.justice.gov/archives/opa/pr/281-arrested-worldwide-coordinated-international-enforcement-operation-targeting-hundreds)"
+  - "[US Secret Service Press Release (2019-09-10)](https://www.secretservice.gov/press/releases/2019/09/281-arrested-worldwide-coordinated-international-enforcement-operation)"
+  - "[EFCC Press Release (2019-09)](https://www.efcc.gov.ng/efcc/news-and-information/news-release/4806-operation-rewired-we-recovered-169-850-n92m-through-efcc-fbi-collaboration-magu)"
 created: 2026-04-10
 updated: 2026-04-11
 operation_role: umbrella

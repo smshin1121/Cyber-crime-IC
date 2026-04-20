@@ -54,8 +54,8 @@ results:
   decryption_keys_recovered: 0
   victims_notified: 0
   other:
-    - "AlphaBay: "400,000 users, 40,000 vendors, 350,000+ listings disrupted\""
-    - "Hansa: "Covertly operated by Dutch police for ~1 month; 10,000 delivery addresses collected\""
+    - "AlphaBay: 400,000 users, 40,000 vendors, 350,000+ listings disrupted"
+    - "Hansa: Covertly operated by Dutch police for ~1 month; 10,000 delivery addresses collected"
     - "Alexandre Cazes (AlphaBay admin) died in Thai custody 2017-07-12"
     - "2 Hansa administrators arrested (German nationals)"
     - "27,000 transactions monitored during covert Hansa operation"

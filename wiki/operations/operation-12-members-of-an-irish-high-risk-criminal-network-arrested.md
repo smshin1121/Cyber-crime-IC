@@ -24,7 +24,11 @@ target_entity: "12 members of an Irish high-risk criminal network arrested"
 lead_agency: "[[europol-ec3]]"
 coordinating_body: "[[europol-ec3]]"
 participating_countries:
-  - "[[international]]"
+  - "[[australia]]"
+  - "[[canada]]"
+  - "[[ireland]]"
+  - "[[italy]]"
+  - "[[sweden]]"
 jurisdictions:
   - "[[international]]"
 participating_agencies:

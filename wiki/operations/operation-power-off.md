@@ -109,11 +109,11 @@ source_count: 7
 sources:
   - "[[fbi-international-ddos-for-hire-sweep|FBI DDoS-for-Hire Sweep (2016)]]"
   - "[[cyberscoop-international-ddos-for-hire-sweep|CyberScoop DDoS Sweep]]"
-  - "[3] Europol: "Law enforcement shuts down 27 DDoS booters (2024-12-11)\""
-  - "[4] DOJ: "Federal Prosecutors Charge 6 Defendants (2022-12-14)\""
-  - "[5] Wikipedia: "Operation PowerOFF\""
-  - "[6] DOJ: "Law Enforcement Seizes 9 DDoS-for-Hire Webpages (2024-09)\""
-  - "[7] DOJ: "13 More Domains Seized (2023-05-08)\""
+  - "[3] Europol: Law enforcement shuts down 27 DDoS booters (2024-12-11)"
+  - "[4] DOJ: Federal Prosecutors Charge 6 Defendants (2022-12-14)"
+  - "[5] Wikipedia: Operation PowerOFF"
+  - "[6] DOJ: Law Enforcement Seizes 9 DDoS-for-Hire Webpages (2024-09)"
+  - "[7] DOJ: 13 More Domains Seized (2023-05-08)"
 created: 2026-04-10
 updated: 2026-04-11
 operation_role: umbrella

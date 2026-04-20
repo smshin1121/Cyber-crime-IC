@@ -24,7 +24,7 @@ target_entity: "USD 257 million seized in global police crackdown against online
 lead_agency: "[[interpol]]"
 coordinating_body: "[[interpol]]"
 participating_countries:
-  - "[[international]]"
+  - "[[spain]]"
 jurisdictions:
   - "[[international]]"
 participating_agencies:

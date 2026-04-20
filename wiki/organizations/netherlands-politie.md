@@ -1,18 +1,25 @@
 ---
-aliases: []
-contact_point_for: []
-cooperation_partners: []
+aliases:
+  []
+contact_point_for:
+  []
+cooperation_partners:
+  []
 country: "[[netherlands]]"
 created: 2026-04-08
 established: 2007
-frameworks_administered: []
+frameworks_administered:
+  []
 headquarters: "Driebergen-Rijsenburg, Netherlands"
-key_roles: []
+key_roles:
+  []
 last_verified: 2026-04-18
 mandate: "Investigate complex and high-impact cybercrime cases with national and international dimensions."
-mechanisms_operated: []
+mechanisms_operated:
+  []
 member_states: 0
-notable_cases: []
+notable_cases:
+  []
 official_name: "Politie - Team High Tech Crime"
 official_name_ko: ""
 operations_participated:
@@ -36,6 +43,7 @@ operations_participated:
   - "[[cryptex-pm2btc-sanctions]]"
   - "[[operation-trojan-shield]]"
   - "[[belgium-netherlands-phishing-gang]]"
+  - "[[operation-stream-kidflix]]"
 org_type: national-unit
 parent_org: "[[netherlands-politie-parent]]"
 source_count: 4

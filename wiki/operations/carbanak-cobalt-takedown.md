@@ -19,6 +19,8 @@ timeframe:
   end: 2018-03
   ongoing: false
 crime_type: "[[malware-ic]]"
+crime_types:
+  - "[[malware-ic]]"
 target_entity: Carbanak/Cobalt cybercrime group
 lead_agency: "[[spanish-national-police]]"
 coordinating_body: "[[europol-ec3]]"

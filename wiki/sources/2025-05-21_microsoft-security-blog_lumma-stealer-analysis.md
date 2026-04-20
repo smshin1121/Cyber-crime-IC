@@ -1,0 +1,25 @@
+---
+type: source
+title: "Lumma Stealer: Breaking down the delivery techniques and capabilities of a prolific infostealer"
+raw_path: ""
+source_type: "research-blog"
+publisher: "Microsoft Security Blog"
+author: "Microsoft Threat Intelligence, Microsoft Digital Crimes Unit and Microsoft Defender Experts"
+publish_date: "2025-05-21"
+ingest_date: "2026-04-19"
+language: "en"
+reliability: "high"
+credibility: "confirmed"
+sensitivity: "public"
+pages_updated:
+  - "lumma-stealer-takedown"
+key_findings:
+  - "Microsoft details LummaC2's malware-as-a-service structure and delivery ecosystem."
+  - "The post confirms that disruption involved approximately 2,300 malicious domains."
+collection_url: "https://www.microsoft.com/en-us/security/blog/2025/05/21/lumma-stealer-breaking-down-the-delivery-techniques-and-capabilities-of-a-prolific-infostealer/"
+created: 2026-04-19
+---
+
+## Summary
+
+Technical Microsoft companion analysis for [[lumma-stealer-takedown]]. It strengthens the operation page by grounding the threat model and malware-delivery context in a primary vendor investigation.

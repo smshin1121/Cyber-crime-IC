@@ -1,129 +1,117 @@
 ---
+type: operation
+title: "Operation Stream"
 aliases:
-
+  - "Operation Stream: Kidflix"
+  - "Kidflix Takedown"
 case_id: CYB-2025-001
-challenges_encountered:
-
-coordinating_body: "[[europol-ec3]]"
-created: 2026-04-08
-credibility_index: 2.48
-crime_type: "[[csam-ic]]"
-edges:
-
-enforcement_type:
-
-lead_agency: "[[germany-bka|Bavarian State Criminal Police (BKA Bavaria)]]"
-legal_basis:
-
-lessons_learned:
-
-mechanisms_used:
-
-missing_fields:
-
-operation_type: takedown
-outcome: success
-participating_agencies:
-
-participating_countries:
-
 period: 3
-related_cases:
-
-related_operations:
-
-results:
-  arrests: 79
-  cryptocurrency_seized: "undisclosed (crypto payments traced via DeFi and exchanges)"
-  decryption_keys_recovered: 0
-  domains_seized: 0
-  indictments: 0
-  other:
-
-  servers_seized: 0
-  victims_notified: 0
-source_count: 0
-source_tier: 3
-sources:
-
+operation_type: takedown
 status: completed
-target_entity: "Kidflix (CSAM streaming platform)"
+enforcement_type:
+  - takedown
+  - seizure
+  - arrest
+outcome: success
 timeframe:
   announced: 2025-04-04
+  start: 2022-01-01
   end: 2025-03-11
   ongoing: false
-  start: 2022-01-01
-title: "Operation Stream — Kidflix CSAM Platform Takedown"
-type: operation
-updated: 2026-04-09
+crime_type: "[[csam-ic]]"
+target_entity: "Kidflix, a large dark-web child sexual abuse material streaming platform"
+lead_agency: "[[germany-bka|Bavarian State Criminal Police]]"
+coordinating_body: "[[europol-ec3]]"
+participating_countries:
+  - "[[germany]]"
+  - "[[netherlands]]"
+participating_agencies:
+  - "[[germany-bka]]"
+  - "[[europol-ec3]]"
+  - "[[netherlands-politie]]"
+legal_basis: []
+mechanisms_used:
+  - "[[informal-cooperation]]"
+results:
+  arrests: 79
+  indictments: 0
+  servers_seized: 1
+  domains_seized: 0
+  cryptocurrency_seized: "undisclosed"
+  decryption_keys_recovered: 0
+  victims_notified: 39
+  other:
+    - "1,393 suspects were identified worldwide."
+    - "More than 3,000 electronic devices were seized."
+    - "The platform had 1.8 million registered users."
+source_count: 3
+sources:
+  - "[[2025-04-04_europol_operation-stream-kidflix-takedown]]"
+  - "[[2025-04-04_securityaffairs-com_operation-stream-kidflix]]"
+  - "[[2025-04-03_politie-nl_kidflix-offline-gehaald]]"
+created: 2026-04-08
+updated: 2026-04-19
 operation_role: umbrella
 parent_operation: ""
-summary: "Operation Stream was a multi-year international law enforcement operation that dismantled Kidflix, one of the largest known child sexual abuse material (CSAM) streaming platforms on the dark web. Led by the Bavarian State Criminal Police and the Bavarian Central Office for the Prosecution of Cybercrime (ZCB), with coordination by [[europol-ec3|Europol]], the operation involved 35+ countries and is *highly likely* the largest CSAM platform takedown by user count (1.8 million registered users) as of 2025."
+summary: "Operation Stream dismantled the Kidflix dark-web CSAM platform through a Germany-led, Europol-coordinated investigation with Dutch server action, identifying 1,393 suspects and producing 79 arrests worldwide."
+jurisdictions:
+  - "[[germany]]"
+  - "[[netherlands]]"
 organizations:
-  - "[[germany-bka|Bavarian State Criminal Police (BKA Bavaria)]]"
+  - "[[germany-bka]]"
   - "[[europol-ec3]]"
+  - "[[netherlands-politie]]"
 crime_types:
   - "[[csam-ic]]"
 ---
-# Operation Stream — Kidflix CSAM Platform Takedown
+> [!note] Source basis
+> This page is now grounded in a collected Europol-centered source wrapper, a Security Affairs summary, and an official Dutch police page confirming the Netherlands-side server action. It replaces an encoding-damaged draft that had no references section despite clear cross-border relevance.
 
 ## Summary
 
-Operation Stream was a multi-year international law enforcement operation that dismantled Kidflix, one of the largest known child sexual abuse material (CSAM) streaming platforms on the dark web. Led by the Bavarian State Criminal Police and the Bavarian Central Office for the Prosecution of Cybercrime (ZCB), with coordination by [[europol-ec3|Europol]], the operation involved 35+ countries and is *highly likely* the largest CSAM platform takedown by user count (1.8 million registered users) as of 2025.
+**Operation Stream** was a Germany-led, [[europol-ec3|Europol]]-coordinated operation that dismantled **Kidflix**, a major dark-web child sexual abuse material streaming platform. The public record supports a long-running investigation from 2022 to March 2025, a server takedown in the [[netherlands|Netherlands]], and worldwide suspect identification and arrests tied to the platform's financial and hosting infrastructure.
 
 ## Background
 
-Kidflix launched in 2021 as a CSAM streaming platform on the dark web. Unlike traditional CSAM distribution sites, Kidflix enabled real-time streaming and used a cryptocurrency-based token system where uploaders earned tokens for categorizing content. The platform hosted over 91,000 unique videos totaling 6,288 hours, with approximately 3.5 new videos uploaded per hour.
+Kidflix functioned as a streaming-oriented CSAM platform with cryptocurrency-facilitated access and uploader incentives. The investigation traced financial flows and platform infrastructure over several years. The Dutch police release confirms that the server hosting roughly 72,000 videos was located in the Netherlands and that Dutch authorities acted on request from German authorities.
 
 ## Participating Parties
 
-- **Lead agency:** Bavarian State Criminal Police (Bayerisches Landeskriminalamt) and ZCB
-- **Coordinating body:** [[europol-ec3|Europol]]
-- **Participating countries:** 35+ (Germany and Netherlands explicitly named for server seizure)
-- **Supporting role:** [[germany-bka|German Federal Criminal Police (BKA)]]
+### Lead / Coordination
+- [[germany-bka|Bavarian State Criminal Police and Bavarian cyber prosecutors]]
+- [[europol-ec3|Europol EC3]]
 
-## Operational Timeline
+### Confirmed Cross-Border Operational Role
+- [[netherlands-politie|Dutch National Police]]
 
-| Date | Event |
-|------|-------|
-| 2021 | Kidflix platform launched |
-| 2022 | Investigation initiated by Bavarian authorities |
-| 2022-2025 | Multi-year investigation with Europol coordination |
-| 2025-03-11 | Servers seized in Germany and Netherlands; platform taken offline |
-| 2025-04-04 | Operation publicly announced |
+### Wider International Scope
+- Europol-linked reporting states involvement of more than 35 countries.
 
 ## Results and Impact
 
-- **Suspects identified:** 1,393 worldwide
-- **Arrests:** 79 (some confirmed as both distributors and direct abusers)
-- **Devices seized:** 3,000+
-- **Children protected:** 39
-- **Platform scale:** 1.8M users, 91K videos, 72K videos on server at seizure
+| Metric | Detail |
+|--------|--------|
+| Arrests | 79 |
+| Suspects identified | 1,393 |
+| Devices seized | 3,000+ |
+| Children protected | 39 |
+| Registered users | 1.8 million |
+| Videos on seized server | about 72,000 |
 
 ## Cooperation Mechanisms Used
 
-Europol provided coordination across 35+ countries. The investigation relied on cryptocurrency tracing through international exchanges, DeFi platforms, Bitcoin ATMs, and peer-to-peer exchanges.
-
-## Challenges and Friction Points
-
-- Cryptocurrency payment obfuscation through DeFi and multiple exchange types
-- Scale of platform (1.8M users) created identification challenges
-- Dark web hosting required specialized technical capabilities
-
-## Korean Involvement (한국의 참여)
-
-No direct Korean involvement reported in this operation.
+The public record supports a long-running multinational investigative model centered on Europol coordination, German lead investigation, and Dutch infrastructure action. Sources also indicate international financial tracing of cryptocurrency transactions through exchanges and related services, but they do not expose the full legal toolkit used for every country.
 
 ## Contradictions & Open Questions
 
-- Full list of 35+ participating countries not publicly disclosed
-- Server seizure count not specified (only that servers in Germany and Netherlands were seized)
-- Total cryptocurrency seized not disclosed despite tracing efforts
+- Public sources agree on the broad outcome but do not provide a complete list of the 35+ participating countries.
+- The exact number of servers seized is not fully broken out publicly; current public reporting clearly supports at least the Netherlands-hosted server action.
+- Court-stage case developments against identified users remain largely undisclosed.
 
-## Follow-Up Actions
+## References
 
-> [!warning] No public court documents found
-> Web search (2026-04-17) yielded no publicly accessible court filings
-> for this operation. Possible reasons: non-US jurisdiction with no
-> public court records system, sealed proceedings, or operation did
-> not result in formal prosecution.
+| # | Title | Publisher | Date | URL |
+|---|-------|----------|------|-----|
+| [1] | Europol-led Operation Stream Takes Down Kidflix CSAM Platform | Security Affairs / Europol-centered collected source | 2025-04-04 | https://securityaffairs.com/176154/cyber-crime/europol-led-op-shuts-down-csam-platform-kidflix.html |
+| [2] | Europol and German authorities lead global takedown of darknet child exploitation platform Kidflix | TRM Labs | 2025-04-04 | https://www.trmlabs.com/resources/blog/europol-and-german-authorities-lead-global-takedown-of-darknet-child-exploitation-platform-kidflix |
+| [3] | Kinderpornografisch platform KidFlix offline gehaald | Dutch National Police | 2025-04-03 | https://www.politie.nl/nieuws/2025/april/2/11-kinderpornografisch-platform-kidflix-offline-gehaald.html |

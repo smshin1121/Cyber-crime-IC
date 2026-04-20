@@ -39,6 +39,8 @@ operations_participated:
   - "[[operation-stream-kidflix]]"
   - "[[operation-australian-man-arrested-in-germany-accused-of-running-world-s-largest-darknet-marketplace]]"
   - "[[operation-us-v-parsarad-nemesis]]"
+  - "[[operation-talent]]"
+  - "[[phobos-8base-crackdown]]"
 org_type: national-agency
 parent_org: "[[germany-bmi]]"
 source_count: 5

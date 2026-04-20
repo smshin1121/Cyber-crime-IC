@@ -271,7 +271,8 @@ timeframe:
   start: ""
   end: ""
   ongoing: false
-crime_type: ""                 # wikilink
+crime_types: []                # wikilinks — canonical list. Operations commonly span multiple crime types (e.g., `[[ransomware-ic]]` + `[[money-laundering-ic]]` + `[[darknet-trade-ic]]` for a takedown with monetization angle). Single-type ops use a list of one.
+crime_type: ""                 # DEPRECATED — legacy single-value field, kept as read-only fallback during PoC v4 SNA migration. Do NOT author new content with this field. Scheduled for removal once all ingest paths + tools stop referencing it.
 target_entity: ""
 lead_agency: ""                # wikilink
 coordinating_body: ""          # wikilink

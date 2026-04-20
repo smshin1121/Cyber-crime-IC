@@ -14,7 +14,7 @@ updated: 2026-04-08
 | [[icann]] | international-org | — | — | 1 | 0 |
 | [[interpol]] | international-org | Lyon, France | — | 29 | 4 |
 | [[interpol-igci]] | international-org | Singapore | — | 14 | 11 |
-| [[unodc]] | international-org | Vienna, Austria | — | — | 8 |
+| [[unodc]] | international-org | Vienna, Austria | — | 1 | 8 |
 | [[australia-afp]] | national-agency | Canberra, Australia | — | 8 | 6 |
 | [[australian-criminal-intelligence-commission]] | national-agency | [[australia]] | — | — | 1 |
 | [[cbi-india]] | national-agency | New Delhi, India | Lead agency for Operation Chakra series (I-V) against transnational cybercrime; International Operations Division handles cross-border case coordination | 1 | 0 |
@@ -24,15 +24,15 @@ updated: 2026-04-08
 | [[dod-inspector-general]] | national-agency | [[united-states]] | — | — | 1 |
 | [[dutch-police]] | national-agency | Netherlands | — | 1 | 0 |
 | [[fbi]] | national-agency | Washington, D.C., United States | — | 14 | 0 |
-| [[fbi-cyber-division]] | national-agency | Washington, D.C., United States | — | 75 | 12 |
+| [[fbi-cyber-division]] | national-agency | Washington, D.C., United States | — | 77 | 12 |
 | [[german-bka]] | national-agency | Wiesbaden, Germany | — | 2 | 0 |
 | [[german-police]] | national-agency | — | — | 1 | 0 |
-| [[germany-bka]] | national-agency | Wiesbaden, Germany | — | 16 | 5 |
+| [[germany-bka]] | national-agency | Wiesbaden, Germany | — | 18 | 5 |
 | [[germany-lka]] | national-agency | One in each of 16 German Länder (e.g. Munich, Stuttgart, Düsseldorf, | — | 4 | 3 |
 | [[indonesia-immigration]] | national-agency | — | — | 1 | 0 |
 | [[indonesia-police]] | national-agency | Indonesia | — | 1 | 0 |
 | [[italy-dcsa]] | national-agency | Rome, Italy | Anti-narcotics coordination; Darknet market investigations | 1 | 0 |
-| [[japan-npa]] | national-agency | Tokyo, Japan | — | 4 | 6 |
+| [[japan-npa]] | national-agency | Tokyo, Japan | — | 6 | 6 |
 | [[kisa]] | national-agency | Naju, South Korea | — | — | 7 |
 | [[knpa]] | national-agency | Seoul, South Korea | National police service operations; Criminal investigation via 국가수사본부 (NIO) | 1 | 2 |
 | [[london-metropolitan-police]] | national-agency | London, United Kingdom | — | 2 | 0 |
@@ -55,9 +55,9 @@ updated: 2026-04-08
 | [[switzerland-ncsc]] | national-agency | [[switzerland]] | — | — | 1 |
 | [[thailand-police]] | national-agency | Bangkok, Thailand | — | — | 0 |
 | [[thailand-royal-police]] | national-agency | Bangkok, Thailand | — | — | 8 |
-| [[uk-nca]] | national-agency | London, United Kingdom | — | 19 | 13 |
+| [[uk-nca]] | national-agency | London, United Kingdom | — | 20 | 13 |
 | [[us-dhs]] | national-agency | Washington, D.C., United States | Homeland Security Investigations (HSI) — transnational cybercrime investigation; Coordination with foreign LEAs on cyber-enabled fraud | 6 | 0 |
-| [[us-doj]] | national-agency | Washington, D.C., United States | — | 1163 | 5 |
+| [[us-doj]] | national-agency | Washington, D.C., United States | — | 1062 | 5 |
 | [[us-treasury]] | national-agency | Washington, D.C., United States | — | 6 | 8 |
 | [[usdoj]] | national-agency | Washington, D.C., United States | — | 9 | 0 |
 | [[armenia-police]] | national-unit | Yerevan, Armenia | — | 2 | 3 |
@@ -73,11 +73,11 @@ updated: 2026-04-08
 | [[ic3]] | national-unit | Washington, D.C. / West Virginia, United States | — | 1 | 4 |
 | [[ireland-garda]] | national-unit | Dublin, Ireland | National cybercrime investigation; Digital forensics | 1 | 0 |
 | [[italy-polizia-postale]] | national-unit | Rome, Italy | Cybercrime investigation; Online child-protection investigations | — | 3 |
-| [[knpa-cyber-bureau]] | national-unit | Seoul, South Korea | — | 3 | 5 |
+| [[knpa-cyber-bureau]] | national-unit | Seoul, South Korea | — | 4 | 5 |
 | [[latvia-state-police]] | national-unit | [[latvia]] | — | 1 | 1 |
 | [[lithuania-police]] | national-unit | Saltoniškių g. 19, Vilnius 08105, Lithuania | — | 2 | 3 |
 | [[mauritius-police-cybercrime]] | national-unit | [[mauritius]] | — | — | 1 |
-| [[netherlands-politie]] | national-unit | Driebergen-Rijsenburg, Netherlands | — | 20 | 4 |
+| [[netherlands-politie]] | national-unit | Driebergen-Rijsenburg, Netherlands | — | 21 | 4 |
 | [[norway-kripos]] | national-unit | [[norway]] | — | — | 1 |
 | [[norway-nc3]] | national-unit | [[norway]] | — | — | 1 |
 | [[poland-police]] | national-unit | ul. Wąwozowa 18, Warsaw, Poland | — | — | 3 |
@@ -86,7 +86,7 @@ updated: 2026-04-08
 | [[seoul-metropolitan-police]] | national-unit | Jongno-gu, Seoul, South Korea | — | 1 | 3 |
 | [[singapore-police]] | national-unit | Singapore | — | 1 | 7 |
 | [[south-africa-hawks]] | national-unit | [[south-africa]] | — | — | 1 |
-| [[spain-guardia-civil]] | national-unit | Madrid, Spain | Guardia Civil cybercrime investigation; 24/7 cybercrime contact function | 2 | 2 |
+| [[spain-guardia-civil]] | national-unit | Madrid, Spain | Guardia Civil cybercrime investigation; 24/7 cybercrime contact function | 3 | 2 |
 | [[spain-national-police]] | national-unit | Madrid, Spain | National and transnational cybercrime investigation; National Police 24/7 cybercrime contact function | 1 | 2 |
 | [[sweden-police]] | national-unit | Stockholm, Sweden | — | 4 | 3 |
 | [[ukraine-police]] | national-unit | Kyiv, Ukraine | — | 4 | 3 |
@@ -107,5 +107,5 @@ updated: 2026-04-08
 | [[german-prosecution]] | prosecutorial-authority | Germany | — | 1 | 0 |
 | [[ncfta]] | public-private-partnership | United States | — | 1 | 0 |
 | [[afripol]] | regional-org | Algiers, Algeria | — | 7 | 0 |
-| [[eurojust]] | regional-org | The Hague, Netherlands | — | 31 | 9 |
-| [[europol-ec3]] | regional-org | The Hague, Netherlands | — | 70 | 9 |
+| [[eurojust]] | regional-org | The Hague, Netherlands | — | 32 | 9 |
+| [[europol-ec3]] | regional-org | The Hague, Netherlands | — | 71 | 9 |

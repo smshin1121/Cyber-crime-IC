@@ -24,7 +24,7 @@ target_entity: "Hook, Line and Sinker: Cybercrime Network Phishing Bank Credenti
 lead_agency: "[[europol-ec3]]"
 coordinating_body: "[[europol-ec3]]"
 participating_countries:
-  - "[[international]]"
+  - "[[romania]]"
 jurisdictions:
   - "[[international]]"
 participating_agencies:

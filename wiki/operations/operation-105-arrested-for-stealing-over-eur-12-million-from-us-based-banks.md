@@ -30,7 +30,11 @@ target_entity: "Operation Secreto fraud and laundering network targeting U.S.-ba
 lead_agency: "[[europol-ec3]]"
 coordinating_body: "[[europol-ec3]]"
 participating_countries:
-  - "[[international]]"
+  - "[[austria]]"
+  - "[[denmark]]"
+  - "[[greece]]"
+  - "[[spain]]"
+  - "[[united-states]]"
 jurisdictions:
   - "[[international]]"
 participating_agencies:

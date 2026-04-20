@@ -38,7 +38,7 @@ target_entity: "Black Axe and similar West African organized crime groups"
 lead_agency: "[[interpol-igci]]"
 coordinating_body: "[[interpol-igci]]"
 participating_countries:
-
+  - "[[argentina]]"
 participating_agencies:
   - "[[interpol-igci]]"
 legal_basis:
@@ -57,7 +57,7 @@ results:
     - "400+ additional suspects identified"
     - "720+ bank accounts blocked"
     - "USD 3 million in assets seized"
-    - "Argentina: "72 arrests, USD 1.2 million counterfeit notes, ~100 bank accounts frozen\""
+    - "Argentina: 72 arrests, USD 1.2 million counterfeit notes, ~100 bank accounts frozen"
 related_cases:
 
 related_operations:

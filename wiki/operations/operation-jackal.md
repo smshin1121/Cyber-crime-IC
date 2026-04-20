@@ -43,27 +43,27 @@ target_entity: "Black Axe and similar West African organized crime groups"
 lead_agency: "[[interpol-igci]]"
 coordinating_body: "[[interpol-igci]]"
 participating_countries:
-  - Argentina
-  - Australia
-  - Belgium
-  - Brazil
-  - Canada
+  - "[[argentina]]"
+  - "[[australia]]"
+  - "[[belgium]]"
+  - "[[brazil]]"
+  - "[[canada]]"
   - "Cote d'Ivoire"
-  - France
-  - Germany
-  - Indonesia
-  - Ireland
-  - Italy
-  - Malaysia
-  - Netherlands
-  - Nigeria
-  - Portugal
-  - "South Africa"
-  - Spain
-  - Switzerland
+  - "[[france]]"
+  - "[[germany]]"
+  - "[[indonesia]]"
+  - "[[ireland]]"
+  - "[[italy]]"
+  - "[[malaysia]]"
+  - "[[netherlands]]"
+  - "[[nigeria]]"
+  - "[[portugal]]"
+  - "[[south-africa]]"
+  - "[[spain]]"
+  - "[[switzerland]]"
   - "United Arab Emirates"
-  - "United Kingdom"
-  - "United States"
+  - "[[united-kingdom]]"
+  - "[[united-states]]"
 participating_agencies:
   - "[[interpol-igci]]"
 legal_basis:

@@ -24,7 +24,7 @@ target_entity: "USD 300 million seized and 3,500 suspects arrested — Operation
 lead_agency: "[[interpol]]"
 coordinating_body: "[[interpol]]"
 participating_countries:
-  - "[[international]]"
+  - "[[south-korea]]"
 jurisdictions:
   - "[[international]]"
 participating_agencies:

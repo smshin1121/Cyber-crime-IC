@@ -34,7 +34,7 @@ lead_agency: "[[seoul-metropolitan-police]]"
 coordinating_body: ""
 participating_countries:
   - "[[south-korea]]"
-  - China
+  - "[[china]]"
 participating_agencies:
   - "[[seoul-metropolitan-police]]"
   - "Chinese Police (Qingdao)"

@@ -25,16 +25,16 @@ lead_agency: "[[interpol|INTERPOL]]"
 coordinating_body: "[[interpol|INTERPOL IFCACC]]"
 participating_countries:
   - "[[australia]]"
-  - Austria
+  - "[[austria]]"
   - Brunei
   - "[[cambodia]]"
   - "Cote d'Ivoire"
   - "[[france]]"
-  - Ghana
+  - "[[ghana]]"
   - "Hong Kong (China)"
   - "[[india]]"
   - "[[indonesia]]"
-  - Ireland
+  - "[[ireland]]"
   - "[[japan]]"
   - "[[south-korea]]"
   - Kyrgyzstan
@@ -47,8 +47,8 @@ participating_countries:
   - "[[romania]]"
   - "[[singapore]]"
   - Slovenia
-  - "South Africa"
-  - Spain
+  - "[[south-africa]]"
+  - "[[spain]]"
   - "[[sweden]]"
   - "[[thailand]]"
   - "United Arab Emirates"
@@ -131,11 +131,11 @@ lessons_learned:
   - "Impersonation fraud (criminals posing as INTERPOL/Europol officers) is an emerging trend requiring public awareness campaigns"
 source_count: 5
 sources:
-  - "[[the-hacker-news-operation-haechi-ii|The Hacker News: "HAECHI-III Crackdown (2022-11-24)]]\""
-  - "[2] INTERPOL press release: "Cyber-enabled financial crime (2022-11-24)\""
-  - "[3] Bleeping Computer: "Interpol seized $130 million (2022-11-24)\""
-  - "[4] GBHackers: "Operation HAECHI III (2022-11)\""
-  - "[5] Heimdal Security: "$130 Million Seized (2022-11)\""
+  - "[[the-hacker-news-operation-haechi-ii|The Hacker News: HAECHI-III Crackdown (2022-11-24)]]"
+  - "[2] INTERPOL press release: Cyber-enabled financial crime (2022-11-24)"
+  - "[3] Bleeping Computer: Interpol seized $130 million (2022-11-24)"
+  - "[4] GBHackers: Operation HAECHI III (2022-11)"
+  - "[5] Heimdal Security: $130 Million Seized (2022-11)"
 created: 2026-04-10
 updated: 2026-04-11
 operation_role: umbrella

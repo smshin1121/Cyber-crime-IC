@@ -21,6 +21,8 @@ timeframe:
   end: 2016-11-30
   ongoing: false
 crime_type: "[[malware-ic]]"
+crime_types:
+  - "[[malware-ic]]"
 target_entity: Avalanche Network
 lead_agency: "[[german-prosecution]]"
 coordinating_body: "[[europol-ec3]]"

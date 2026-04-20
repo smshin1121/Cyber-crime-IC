@@ -24,7 +24,9 @@ target_entity: "Key figures behind Phobos and 8Base ransomware arrested in inter
 lead_agency: "[[europol-ec3]]"
 coordinating_body: "[[europol-ec3]]"
 participating_countries:
-  - "[[international]]"
+  - "[[italy]]"
+  - "[[south-korea]]"
+  - "[[united-states]]"
 jurisdictions:
   - "[[international]]"
 participating_agencies:

@@ -69,9 +69,9 @@ lessons_learned:
   - "Proactive data analysis can prevent losses before fraud is committed"
 source_count: 3
 sources:
-  - "[Europol Press Release (2020-11-26)](https: "//www.europol.europa.eu/newsroom/news/officers-foil-fraudsters-stealing-%E2%82%AC40-million-in-payment-card-scam)\""
-  - "[Group-IB Media (2020-11)](https: "//www.group-ib.com/media/carding-action-2020/)\""
-  - "[WeLiveSecurity (2020-11-27)](https: "//www.welivesecurity.com/2020/11/27/europol-partners-thwart-credit-card-fraud-scheme/)\""
+  - "[Europol Press Release (2020-11-26)](https://www.europol.europa.eu/newsroom/news/officers-foil-fraudsters-stealing-%E2%82%AC40-million-in-payment-card-scam)"
+  - "[Group-IB Media (2020-11)](https://www.group-ib.com/media/carding-action-2020/)"
+  - "[WeLiveSecurity (2020-11-27)](https://www.welivesecurity.com/2020/11/27/europol-partners-thwart-credit-card-fraud-scheme/)"
 created: 2026-04-10
 updated: 2026-04-11
 operation_role: umbrella

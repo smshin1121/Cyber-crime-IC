@@ -8,7 +8,7 @@ period: 3
 operation_role: "follow-on"
 parent_operation: ""
 operation_type: "sentencing"
-status: "completed"
+status: "absorbed"
 enforcement_type:
   - sentencing
 outcome: "success"
@@ -57,7 +57,7 @@ lessons_learned: []
 source_count: 1
 sources:
   - "[[2026-04-18_justice-gov_former-childcare-provider-sentenced-15-years-federal-prison-production-child-sexual]]"
-summary: "Former Childcare Provider Sentenced to 15 Years in Federal Prison for the Production of Child Sexual Abuse Material Enforcement Action is a defendant-specific enforcement action page derived from [[former-childcare-provider-sentenced-to-15-years-in-federal-prison-for-the-production-of-child-sexual-abuse-mat]]."
+summary: "Former Childcare Provider Sentenced to 15 Years in Federal Prison for the Production of Child Sexual Abuse Material Enforcement Action is a domestic-only U.S. follow-on record absorbed into the canonical case page [[former-childcare-provider-sentenced-to-15-years-in-federal-prison-for-the-production-of-child-sexual-abuse-mat]]. No visible cross-border mechanism is documented, so it is not treated as a separate international-cooperation operation."
 created: 2026-04-18
 updated: 2026-04-18
 ---

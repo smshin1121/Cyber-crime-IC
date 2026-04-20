@@ -38,7 +38,7 @@ target_entity: "Cybercriminals in Africa targeting ransomware, BEC, digital exto
 lead_agency: "[[interpol-igci]]"
 coordinating_body: "[[afripol]]"
 participating_countries:
-
+  - "[[united-kingdom]]"
 participating_agencies:
   - "[[interpol-igci]]"
   - "[[afripol]]"

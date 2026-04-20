@@ -24,7 +24,7 @@ target_entity: "Interpol Seized 130 Million From"
 lead_agency: "[[interpol]]"
 coordinating_body: "[[interpol]]"
 participating_countries:
-  - "[[international]]"
+  - "[[hong-kong]]"
 jurisdictions:
   - "[[international]]"
 participating_agencies:

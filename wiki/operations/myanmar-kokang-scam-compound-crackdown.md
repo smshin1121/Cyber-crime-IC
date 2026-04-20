@@ -77,7 +77,7 @@ challenges_encountered:
 lessons_learned:
   - "Non-state armed groups can serve as de facto enforcement partners when state authorities are unable or unwilling to act"
   - "Military-kinetic operations (Operation 1027) can achieve anti-cybercrime objectives that law enforcement alone could not"
-  - "Scam compound displacement: "crackdown in one region caused relocation to other parts of Myanmar, Cambodia, and Laos\""
+  - "Scam compound displacement: crackdown in one region caused relocation to other parts of Myanmar, Cambodia, and Laos"
 source_count: 5
 sources:
   - "[1] VOA — Myanmar Rebel Offensive Helps China's Cybercrime Crackdown (2023-11-20)"

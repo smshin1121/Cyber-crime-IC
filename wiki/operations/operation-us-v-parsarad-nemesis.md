@@ -18,6 +18,8 @@ timeframe:
   end: 2025-04-17
   ongoing: true
 crime_type: "[[online-fraud-ic]]"
+crime_types:
+  - "[[online-fraud-ic]]"
 target_entity: "Behrouz Parsarad"
 lead_agency: "[[us-doj]]"
 coordinating_body: "[[us-doj]]"

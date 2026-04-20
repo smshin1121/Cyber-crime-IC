@@ -30,8 +30,8 @@ participating_countries:
   - "[[united-states]]"
   - "[[united-kingdom]]"
   - "[[germany]]"
-  - Moldova
-  - Cyprus
+  - "[[moldova]]"
+  - "[[cyprus]]"
 participating_agencies:
   - "[[fbi-cyber-division|FBI Cyber Division]]"
   - "[[uk-nca|UK National Crime Agency (NCA)]]"
@@ -122,14 +122,14 @@ lessons_learned:
   - "FBI-NCA bilateral cooperation is a model for US-UK cybercrime investigations"
 source_count: 8
 sources:
-  - "[1] DOJ: "Bugat Botnet Administrator Arrested and Malware Disabled (2015-10-13)\""
-  - "[2] FBI: "Bugat Botnet Administrator Arrested (2015-10-13)\""
-  - "[3] DOJ: "Russian National Charged with Decade-Long Series of Hacking (2019-12-05)\""
-  - "[4] US Treasury: "Sanctions Evil Corp (2019-12-05)\""
-  - "[5] NCA: "International law enforcement operation exposes the world's most harmful cyber crime group (2019-12-05)\""
-  - "[6] DOJ: "Moldovan Sentenced for Distributing Multifunction Malware Package (2018-12-06)\""
-  - "[7] The Hacker News: "FBI Puts $5 Million Bounty (2019-12-05)\""
-  - "[8] Dell SecureWorks: "Dridex (Bugat v5) Botnet Takeover Operation (2015-10)\""
+  - "[1] DOJ: Bugat Botnet Administrator Arrested and Malware Disabled (2015-10-13)"
+  - "[2] FBI: Bugat Botnet Administrator Arrested (2015-10-13)"
+  - "[3] DOJ: Russian National Charged with Decade-Long Series of Hacking (2019-12-05)"
+  - "[4] US Treasury: Sanctions Evil Corp (2019-12-05)"
+  - "[5] NCA: International law enforcement operation exposes the world's most harmful cyber crime group (2019-12-05)"
+  - "[6] DOJ: Moldovan Sentenced for Distributing Multifunction Malware Package (2018-12-06)"
+  - "[7] The Hacker News: FBI Puts $5 Million Bounty (2019-12-05)"
+  - "[8] Dell SecureWorks: Dridex (Bugat v5) Botnet Takeover Operation (2015-10)"
 created: 2026-04-10
 updated: 2026-04-17
 operation_role: umbrella

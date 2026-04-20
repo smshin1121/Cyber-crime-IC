@@ -43,24 +43,24 @@ target_entity: "BEC, digital extortion, and ransomware networks operating in Afr
 lead_agency: "[[interpol-igci]]"
 coordinating_body: "[[interpol-igci]]"
 participating_countries:
-  - Benin
+  - "[[benin]]"
   - Botswana
   - "Burkina Faso"
-  - Cameroon
+  - "[[cameroon]]"
   - Chad
   - Congo
   - "Democratic Republic of the Congo"
   - Djibouti
   - Gabon
-  - Ghana
-  - Kenya
+  - "[[ghana]]"
+  - "[[kenya]]"
   - Malawi
-  - Nigeria
+  - "[[nigeria]]"
   - Senegal
-  - "South Africa"
+  - "[[south-africa]]"
   - "South Sudan"
   - Uganda
-  - Zambia
+  - "[[zambia]]"
   - Zimbabwe
 participating_agencies:
   - "[[interpol-igci]]"

@@ -6,9 +6,9 @@ aliases:
 case_id: "CYB-FUP-504"
 period: 3
 operation_role: "follow-on"
-parent_operation: ""
+parent_operation: "[[xdedic-marketplace-takedown]]"
 operation_type: "indictment"
-status: "ongoing"
+status: "absorbed"
 enforcement_type:
   - indictment
 outcome: "success"
@@ -57,14 +57,14 @@ lessons_learned: []
 source_count: 1
 sources:
   - "[[2024-01-04_justice-gov_united-states-v-joshua-spencer]]"
-summary: "19 Individuals Worldwide Charged In Transnational Cybercrime Investigation Of The xDedic Marketplace Enforcement Action is a defendant-specific enforcement action page derived from [[19-individuals-worldwide-charged-in-transnational-cybercrime-investigation-of-the-xdedic-marketplace-3]]."
+summary: "19 Individuals Worldwide Charged In Transnational Cybercrime Investigation Of The xDedic Marketplace Enforcement Action is an absorbed duplicate wrapper for the canonical xDedic operation page [[operation-19-individuals-worldwide-charged-in-transnational-cybercrime-investigation-of-the-xdedic-marketplace]]."
 created: 2026-04-18
 updated: 2026-04-18
 ---
 
 ## Summary
 
-19 Individuals Worldwide Charged In Transnational Cybercrime Investigation Of The xDedic Marketplace Enforcement Action is a defendant-specific enforcement action page derived from [[19-individuals-worldwide-charged-in-transnational-cybercrime-investigation-of-the-xdedic-marketplace-3]]. It captures the prosecutorial or seizure stage reflected in the linked case record and preserves the operation-side catalog entry for this follow-on action.
+19 Individuals Worldwide Charged In Transnational Cybercrime Investigation Of The xDedic Marketplace Enforcement Action is a defendant-specific follow-on under the [[xdedic-marketplace-takedown]] umbrella, derived from [[19-individuals-worldwide-charged-in-transnational-cybercrime-investigation-of-the-xdedic-marketplace-3]]. It captures the prosecutorial stage reflected in the linked case record without duplicating the broader takedown record.
 
 ## Background
 
@@ -78,6 +78,7 @@ The underlying public case record identifies 19 Individuals Worldwide Charged In
 ## Results and Impact
 
 - Operation type: `indictment`
+- Parent operation: [[xdedic-marketplace-takedown]]
 - Case anchor: [[19-individuals-worldwide-charged-in-transnational-cybercrime-investigation-of-the-xdedic-marketplace-3]]
 - Source coverage: 1 official or catalogued source page(s)
 

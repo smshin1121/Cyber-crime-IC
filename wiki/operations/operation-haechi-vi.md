@@ -96,9 +96,9 @@ results:
     - "USD 439 million total recovered (USD 342 million fiat + USD 97 million physical/virtual assets)"
     - "68,000+ bank accounts blocked"
     - "~400 cryptocurrency wallets frozen"
-    - "Korea-UAE sub-operation: "KRW 6.6 billion (USD 3.91 million) BEC recovery via I-GRIP\""
-    - "Thailand: "USD 6.6 million seized (largest single-case recovery in Thailand; BEC against Japanese corporation)\""
-    - "Portugal: "45 arrests for social security fraud (EUR 228K / USD 270K, 531 victims)\""
+    - "Korea-UAE sub-operation: KRW 6.6 billion (USD 3.91 million) BEC recovery via I-GRIP"
+    - "Thailand: USD 6.6 million seized (largest single-case recovery in Thailand; BEC against Japanese corporation)"
+    - "Portugal: 45 arrests for social security fraud (EUR 228K / USD 270K, 531 victims)"
 related_cases:
 
 related_operations:

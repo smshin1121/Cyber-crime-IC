@@ -24,7 +24,12 @@ target_entity: "Europol: 105 Arrested for Stealing Over €12 Million from US-Ba
 lead_agency: "[[europol-ec3]]"
 coordinating_body: "[[europol-ec3]]"
 participating_countries:
-  - "[[international]]"
+  - "[[austria]]"
+  - "[[denmark]]"
+  - "[[greece]]"
+  - "[[spain]]"
+  - "[[united-kingdom]]"
+  - "[[united-states]]"
 jurisdictions:
   - "[[international]]"
 participating_agencies:

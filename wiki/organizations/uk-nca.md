@@ -42,6 +42,7 @@ operations_participated:
   - "[[operation-eur-300m-global-credit-card-fraud-2025]]"
   - "[[ramnit-botnet-takedown]]"
   - "[[vpnlab-takedown]]"
+  - "[[phobos-8base-crackdown]]"
 org_type: national-agency
 parent_org: ""
 source_count: 13
@@ -51,7 +52,6 @@ sources:
   - "[[2026-04-18_gov-uk_financial-sanctions-guidance-for-ransomware]]"
   - "[[2024-05-07_gov-uk_uk-and-allies-sanction-prolific-cyber-hacker]]"
   - "[[2024-12-04_nationalcrimeagency-gov-uk_operation-destabilise-84-arrests]]"
-
 status: active
 title: "UK National Crime Agency (NCA)"
 type: organization

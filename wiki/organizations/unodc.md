@@ -1,45 +1,39 @@
 ---
 aliases:
-- UNODC
-- UN Office on Drugs and Crime
-contact_point_for: []
+  []
+contact_point_for:
+  []
 cooperation_partners:
-- '[[interpol-igci]]'
-- '[[europol-ec3]]'
-- '[[c-proc]]'
-country: ''
+  []
+country: ""
 created: 2026-04-10
-established: '1997'
+established: 1997
 frameworks_administered:
-- '[[un-cybercrime-convention-2024]]'
-headquarters: Vienna, Austria
+  []
+headquarters: "Vienna, Austria"
 key_roles:
-- Secretariat to the UN Convention against Cybercrime Ad Hoc Committee and State Parties
-- Delivery of the Global Programme on Cybercrime capacity building
-- Custodian of the UN Convention against Transnational Organized Crime (UNTOC/Palermo
-  Convention)
-- Custodian of the UN Convention against Corruption (UNCAC)
-- Coordination of the Commission on Crime Prevention and Criminal Justice (CCPCJ)
-last_verified: '2026-04-10'
-mandate: Assisting UN Member States in combating illicit drugs, organized crime, terrorism,
-  and corruption; administering the negotiation and promotion of the UN Convention
-  against Cybercrime; delivering the Global Programme on Cybercrime.
-mechanisms_operated: []
+  []
+last_verified: 2026-04-10
+mandate: "Assisting UN Member States in combating illicit drugs, organized crime, terrorism,"
+mechanisms_operated:
+  []
 member_states: 193
-notable_cases: []
-official_name: United Nations Office on Drugs and Crime
-official_name_ko: 유엔 마약범죄사무소
-operations_participated: []
+notable_cases:
+  []
+official_name: "United Nations Office on Drugs and Crime"
+official_name_ko: "유엔 마약범죄사무소"
+operations_participated:
+  - "[[operation-orion-international]]"
 org_type: international-org
-parent_org: '[[united-nations]]'
+parent_org: "[[united-nations]]"
 source_count: 8
-sources: []
+sources:
+  []
 status: active
-title: United Nations Office on Drugs and Crime (UNODC)
+title: "United Nations Office on Drugs and Crime (UNODC)"
 type: organization
 updated: 2026-04-10
 ---
-
 ## Summary
 
 The **United Nations Office on Drugs and Crime (UNODC)** is the UN's lead agency for combating illicit drugs, organized crime, terrorism, and corruption. Headquartered in **Vienna, Austria**, it was established in **1997** (originally as the Office for Drug Control and Crime Prevention) through a merger of the UN International Drug Control Programme and the Crime Prevention and Criminal Justice Division; it adopted its current name in 2002.

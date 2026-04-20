@@ -24,7 +24,7 @@ target_entity: "Mastermind Behind EUR 1 Billion Cyber Bank Robbery Arrested in S
 lead_agency: "[[europol-ec3]]"
 coordinating_body: "[[europol-ec3]]"
 participating_countries:
-  - "[[international]]"
+  - "[[spain]]"
 jurisdictions:
   - "[[international]]"
 participating_agencies:

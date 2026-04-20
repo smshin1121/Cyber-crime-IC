@@ -54,6 +54,7 @@ operations_participated:
   - "[[belgium-netherlands-phishing-gang]]"
   - "[[operation-us-v-parsarad-nemesis]]"
   - "[[blackcat-lockeroga-kelvin-security-2023]]"
+  - "[[phobos-8base-crackdown]]"
 org_type: regional-org
 parent_org: ""
 source_count: 9

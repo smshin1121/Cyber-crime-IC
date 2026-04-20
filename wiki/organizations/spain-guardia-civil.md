@@ -3,7 +3,8 @@ type: organization
 title: "Guardia Civil - Grupo de Delitos Telematicos (GDT)"
 official_name: "Grupo de Delitos Telematicos, Guardia Civil"
 official_name_ko: ""
-aliases: []
+aliases:
+  []
 org_type: national-unit
 status: active
 established: 1997
@@ -18,12 +19,16 @@ key_roles:
   - "Citizen-facing reporting and cybercrime collaboration intake"
 cooperation_partners:
   - "[[spain-national-police]]"
-frameworks_administered: []
-mechanisms_operated: []
+frameworks_administered:
+  []
+mechanisms_operated:
+  []
 operations_participated:
   - "[[operation-cronos-phase3]]"
   - "[[operation-eur-100m-illegal-financial-service-laundering-2025]]"
-notable_cases: []
+  - "[[phobos-8base-crackdown]]"
+notable_cases:
+  []
 contact_point_for:
   - "[[24-7-network]]"
 source_count: 2

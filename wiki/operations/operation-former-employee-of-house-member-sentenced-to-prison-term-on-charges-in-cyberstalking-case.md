@@ -8,7 +8,7 @@ period: 1
 operation_role: "follow-on"
 parent_operation: ""
 operation_type: "sentencing"
-status: "completed"
+status: "absorbed"
 enforcement_type:
   - sentencing
 outcome: "success"
@@ -57,7 +57,7 @@ lessons_learned: []
 source_count: 1
 sources:
   - "[[2026-04-18_justice-gov_former-employee-house-member-sentenced-prison-term-charges-cyberstalking-case]]"
-summary: "Former Employee of House Member Sentenced to Prison Term on Charges in Cyberstalking Case Enforcement Action is a defendant-specific enforcement action page derived from [[former-employee-of-house-member-sentenced-to-prison-term-on-charges-in-cyberstalking-case]]."
+summary: "Former Employee of House Member Sentenced to Prison Term on Charges in Cyberstalking Case Enforcement Action is a domestic-only U.S. follow-on record absorbed into the canonical case page [[former-employee-of-house-member-sentenced-to-prison-term-on-charges-in-cyberstalking-case]]. No visible cross-border mechanism is documented, so it is not treated as a separate international-cooperation operation."
 created: 2026-04-18
 updated: 2026-04-18
 ---

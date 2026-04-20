@@ -8,7 +8,7 @@ period: 3
 operation_role: "follow-on"
 parent_operation: ""
 operation_type: "sentencing"
-status: "completed"
+status: "absorbed"
 enforcement_type:
   - sentencing
 outcome: "success"
@@ -57,7 +57,7 @@ lessons_learned: []
 source_count: 1
 sources:
   - "[[2023-03-27_doj_okpe-obogo-bec-sentencing]]"
-summary: "Foreign National Sentenced for Victimizing U.S. Persons Through Cyber-Enabled Fraud Schemes Enforcement Action is a defendant-specific enforcement action page derived from [[foreign-national-sentenced-for-victimizing-u-s-persons-through-cyber-enabled-fraud-schemes]]."
+summary: "Foreign National Sentenced for Victimizing U.S. Persons Through Cyber-Enabled Fraud Schemes Enforcement Action is a domestic-only U.S. follow-on record absorbed into the canonical case page [[foreign-national-sentenced-for-victimizing-u-s-persons-through-cyber-enabled-fraud-schemes]]. No visible cross-border mechanism is documented, so it is not treated as a separate international-cooperation operation."
 created: 2026-04-18
 updated: 2026-04-18
 ---

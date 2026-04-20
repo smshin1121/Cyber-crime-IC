@@ -87,11 +87,11 @@ lessons_learned:
   - "International arrest cooperation (South Korea extradition) demonstrates global reach of US cybercrime enforcement"
 source_count: 5
 sources:
-  - "[Microsoft Blog — New action to combat ransomware (2020-10-12)](https: "//blogs.microsoft.com/on-the-issues/2020/10/12/trickbot-ransomware-cyberthreat-us-elections/)\""
-  - "[Microsoft Blog — Update on disruption (2020-10-20)](https: "//blogs.microsoft.com/on-the-issues/2020/10/20/trickbot-ransomware-disruption-update/)\""
-  - "[CyberScoop — Cyber Command, Microsoft take action (2020-10-12)](https: "//cyberscoop.com/trickbot-takedown-cyber-command-microsoft/)\""
-  - "[DOJ — Multiple Foreign Nationals Charged (2023-09-07)](https: "//www.secretservice.gov/newsroom/releases/2023/09/multiple-foreign-nationals-charged-connection-trickbot-malware-and-conti)\""
-  - "[BleepingComputer — Dunaev sentenced (2024-01)](https: "//www.bleepingcomputer.com/news/security/russian-trickbot-malware-dev-sentenced-to-64-months-in-prison/)\""
+  - "[Microsoft Blog — New action to combat ransomware (2020-10-12)](https://blogs.microsoft.com/on-the-issues/2020/10/12/trickbot-ransomware-cyberthreat-us-elections/)"
+  - "[Microsoft Blog — Update on disruption (2020-10-20)](https://blogs.microsoft.com/on-the-issues/2020/10/20/trickbot-ransomware-disruption-update/)"
+  - "[CyberScoop — Cyber Command, Microsoft take action (2020-10-12)](https://cyberscoop.com/trickbot-takedown-cyber-command-microsoft/)"
+  - "[DOJ — Multiple Foreign Nationals Charged (2023-09-07)](https://www.secretservice.gov/newsroom/releases/2023/09/multiple-foreign-nationals-charged-connection-trickbot-malware-and-conti)"
+  - "[BleepingComputer — Dunaev sentenced (2024-01)](https://www.bleepingcomputer.com/news/security/russian-trickbot-malware-dev-sentenced-to-64-months-in-prison/)"
 created: 2026-04-10
 updated: 2026-04-12
 operation_role: umbrella

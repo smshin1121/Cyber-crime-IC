@@ -24,7 +24,7 @@ target_entity: "Three Arrested As Interpol Group Ib And The Nigeria Police Force
 lead_agency: "[[interpol]]"
 coordinating_body: "[[interpol]]"
 participating_countries:
-  - "[[international]]"
+  - "[[nigeria]]"
 jurisdictions:
   - "[[international]]"
 participating_agencies:

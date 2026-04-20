@@ -40,10 +40,10 @@ lead_agency: "[[interpol-igci]]"
 coordinating_body: "[[interpol-igci]]"
 participating_countries:
   - "[[south-korea]]"
-  - "United States"
-  - "United Kingdom"
-  - Japan
-  - India
+  - "[[united-states]]"
+  - "[[united-kingdom]]"
+  - "[[japan]]"
+  - "[[india]]"
 participating_agencies:
   - "[[interpol-igci]]"
   - "[[knpa-cyber-bureau]]"

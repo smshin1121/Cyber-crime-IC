@@ -1,122 +1,120 @@
 ---
+type: operation
+title: "Operation Contender 2.0"
 aliases:
-
+  - "Contender 2.0"
+  - "INTERPOL Operation Contender 2.0"
 case_id: CYB-2024-010
-challenges_encountered:
-
-coordinating_body: "[[afripol]]"
-created: 2026-04-08
-credibility_index: 2.28
-crime_type: "[[bec-ic]]"
-edges:
-
-enforcement_type:
-
-lead_agency: "[[interpol-igci]]"
-legal_basis:
-
-lessons_learned:
-
-mechanisms_used:
-
-missing_fields:
-
-operation_type: arrest-sweep
-outcome: success
-participating_agencies:
-
-participating_countries:
-
 period: 3
-related_cases:
-
-related_operations:
-
+operation_type: arrest-sweep
+status: completed
+enforcement_type:
+  - arrest
+  - search
+outcome: success
+timeframe:
+  announced: 2024-10-01
+  start: 2024-04-01
+  end: 2024-09-30
+  ongoing: false
+crime_type: "[[bec-ic]]"
+target_entity: "West African phishing, BEC, and romance-scam actors linked to victims in Europe"
+lead_agency: "[[interpol-igci]]"
+coordinating_body: "[[afripol]]"
+participating_countries:
+  - "[[cote-divoire]]"
+  - "[[nigeria]]"
+  - "[[switzerland]]"
+  - "[[finland]]"
+participating_agencies:
+  - "[[interpol-igci]]"
+  - "[[afripol]]"
+legal_basis: []
+mechanisms_used:
+  - "[[informal-cooperation]]"
 results:
   arrests: 8
+  indictments: 0
+  servers_seized: 0
+  domains_seized: 0
   cryptocurrency_seized: ""
   decryption_keys_recovered: 0
-  domains_seized: 0
-  indictments: 0
-  other:
-
-  servers_seized: 0
   victims_notified: 0
-source_count: 0
-source_tier: 2
+  other:
+    - "Swiss phishing case generated more than 260 victim reports between August 2023 and April 2024."
+    - "Nigerian police arrested two suspects in a Finland-linked romance-scam investigation."
+    - "Digital devices were seized for forensic analysis in Cote d'Ivoire."
+source_count: 2
 sources:
-
-status: completed
-target_entity: "West African cybercriminals operating phishing, BEC, romance scams,"
-timeframe:
-  announced: 2024-04-01
-  end: 2024-05-31
-  ongoing: false
-  start: 2024-01-01
-title: "Operation Contender 2.0"
-type: operation
-updated: 2026-04-08
+  - "[[2024-04-01-interpol-operation-contender-2]]"
+  - "[[2024-10-08_group-ib_operation-contender-2]]"
+created: 2026-04-08
+updated: 2026-04-19
 operation_role: umbrella
 parent_operation: ""
-summary: "Operation Contender 2.0 was an INTERPOL-led operation targeting cybercriminals in West Africa, specifically in Cote d'Ivoire and Nigeria. The operation resulted in the arrest of 8 suspects involved in phishing, business email compromise (BEC), romance scams, and cryptocurrency fraud. The operation was part of INTERPOL's ongoing Africa Joint Operation against Cybercrime (AFJOC) programme with private sector intelligence support from Trend Micro and Group-IB."
+summary: "Operation Contender 2.0 was an INTERPOL AFJOC operation linking enforcement in Cote d'Ivoire and Nigeria to victims in Switzerland and Finland, producing eight arrests across phishing and romance-scam investigations."
+jurisdictions:
+  - "[[cote-divoire]]"
+  - "[[nigeria]]"
+  - "[[switzerland]]"
+  - "[[finland]]"
 organizations:
   - "[[interpol-igci]]"
   - "[[afripol]]"
 crime_types:
   - "[[bec-ic]]"
 ---
-# Operation Contender 2.0
+> [!note] Source basis
+> This page is anchored to INTERPOL's official October 1, 2024 release and supplemented by Group-IB's partner-side account of the same operation. The file has been rebuilt from a `source_count: 0` placeholder state.
 
 ## Summary
 
-Operation Contender 2.0 was an INTERPOL-led operation targeting cybercriminals in West Africa, specifically in Cote d'Ivoire and Nigeria. The operation resulted in the arrest of 8 suspects involved in phishing, business email compromise (BEC), romance scams, and cryptocurrency fraud. The operation was part of INTERPOL's ongoing Africa Joint Operation against Cybercrime (AFJOC) programme with private sector intelligence support from Trend Micro and Group-IB.
-
-International cooperation extended to Switzerland and Finland, where victims were identified and assisted.
+**Operation Contender 2.0** was an [[interpol-igci|INTERPOL]] operation under the African Joint Operation against Cybercrime framework that targeted phishing, business email compromise, and romance-fraud actors operating from West Africa. Public reporting ties the operation to enforcement in [[cote-divoire|Cote d'Ivoire]] and [[nigeria|Nigeria]], while the victims and investigative triggers extended to [[switzerland|Switzerland]] and [[finland|Finland]].
 
 ## Background
 
-This operation is part of INTERPOL's sustained effort to combat West African cybercrime networks, building on previous operations such as [[operation-jackal|Operation Jackal]] and [[operation-jackal-iii|Operation Jackal III]] which targeted Black Axe and related networks.
+The operation emerged from transnational victim reporting and intelligence exchange rather than from a single domestic case. In Cote d'Ivoire, Swiss reports about a phishing scheme helped trace suspects posing as buyers on classified-ad websites. In Nigeria, Finnish victim reporting and intelligence enriched by INTERPOL and private-sector partners helped identify suspects linked to romance-scam activity.
 
 ## Participating Parties
 
-### Law Enforcement
-- **Lead**: [[interpol-igci|INTERPOL]] (AFJOC)
-- **Operational countries**: [[cote-divoire|Cote d'Ivoire]], [[nigeria|Nigeria]]
-- **Victim countries**: [[switzerland|Switzerland]], [[finland|Finland]]
+### Coordinating Bodies
+- [[interpol-igci|INTERPOL]]
+- [[afripol|AFRIPOL]] through the AFJOC framework
 
-### Private Sector Partners
-- Trend Micro
+### Operational Countries
+- [[cote-divoire|Cote d'Ivoire]]
+- [[nigeria|Nigeria]]
+
+### Victim / Trigger Countries
+- [[switzerland|Switzerland]]
+- [[finland|Finland]]
+
+### Private-Sector Support
 - Group-IB
-
-### Funding
-- UK Foreign, Commonwealth and Development Office
+- Trend Micro
 
 ## Results and Impact
 
-| Metric | Value |
-|--------|-------|
-| Arrests | 8 |
-| Countries involved | 4 |
-| Crime types targeted | Phishing, BEC, romance scam, crypto fraud |
+| Metric | Detail |
+|--------|--------|
+| Arrests | 8 total publicly tied to the operation |
+| Main public case clusters | Swiss phishing case in Cote d'Ivoire; Finland-linked romance-scam case in Nigeria |
+| Devices seized | Yes, but no total publicly disclosed |
+| Financial harm disclosed | More than USD 1.4M reported in the Swiss-linked phishing case |
 
 ## Cooperation Mechanisms Used
 
-> [!warning] Missing data
-> Specific cooperation mechanisms and legal basis not detailed in available source.
-
-## Korean Involvement (한국의 참여)
-
-No Korean involvement reported.
+The public record points to intelligence-led coordination through INTERPOL's AFJOC program, supported by cross-border victim reporting and partner-supplied threat intelligence. The sources do not identify a specific MLAT, JIT, or extradition mechanism, so this page does not overstate the legal form of cooperation.
 
 ## Contradictions & Open Questions
 
-- Exact timeframe for the operation is approximate (2024, concentrated in April-May).
-- Financial losses and seizure amounts not disclosed in available source.
+- Public reporting clearly supports the international nature of the operation, but it does not disclose a comprehensive country-by-country arrest breakdown beyond the Cote d'Ivoire and Nigeria cases.
+- The exact operational window is described differently across summaries; October 1, 2024 is the public announcement date, not necessarily the full end of all follow-on inquiries.
+- Court-stage outcomes in Cote d'Ivoire and Nigeria remain opaque in the public record.
 
-## Follow-Up Actions
+## References
 
-> [!warning] No public court documents found
-> Web search (2026-04-17) yielded no publicly accessible court filings
-> for this operation. Possible reasons: non-US jurisdiction with no
-> public court records system, sealed proceedings, or operation did
-> not result in formal prosecution.
+| # | Title | Publisher | Date | URL |
+|---|-------|----------|------|-----|
+| [1] | Arrests in international operation targeting cybercriminals in West Africa | INTERPOL | 2024-10-01 | https://www.interpol.int/en/News-and-Events/News/2024/Arrests-in-international-operation-targeting-cybercriminals-in-West-Africa |
+| [2] | Group-IB supports INTERPOL in "Operation Contender 2.0" leading to the arrest of cybercriminals behind a romance scam | Group-IB | 2024-10-08 | https://www.group-ib.com/th/media-center/press-releases/operation-contender/ |

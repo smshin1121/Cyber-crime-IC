@@ -66,6 +66,10 @@ updated: 2026-04-18
 
 Jingliang Su Enforcement Action is a defendant-specific enforcement action page derived from [[chinese-national-sentenced-prison-role-crypto-scam-targeting-americans]]. It captures the prosecutorial or seizure stage reflected in the linked case record and preserves the operation-side catalog entry for this follow-on action.
 
+## Audit Note
+
+This page is a domestic-only follow-on with no visible cross-border mechanism. It is retained for link stability and absorbed into the canonical case page referenced in the metadata below.
+
 ## Background
 
 The underlying public case record identifies Jingliang Su as the focal enforcement target. This page exists to represent the concrete enforcement action in the operations catalog without duplicating the deeper procedural detail already maintained on the case page.

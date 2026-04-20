@@ -8,7 +8,7 @@ period: 3
 operation_role: "follow-on"
 parent_operation: ""
 operation_type: "indictment"
-status: "ongoing"
+status: "absorbed"
 enforcement_type:
   - indictment
 outcome: "success"
@@ -57,7 +57,7 @@ lessons_learned: []
 source_count: 1
 sources:
   - "[[2026-04-18_justice-gov_former-company-chief-financial-officer-indicted-using-35-million-company-cash-invest]]"
-summary: "Former company Chief Financial Officer indicted for using $35 million in company cash to invest in cryptocurrency venture Enforcement Action is a defendant-specific enforcement action page derived from [[former-company-chief-financial-officer-indicted-for-using-35-million-in-company-cash-to-invest-in-cryptocurren]]."
+summary: "Former company Chief Financial Officer indicted for using $35 million in company cash to invest in cryptocurrency venture Enforcement Action is a domestic-only U.S. follow-on record absorbed into the canonical case page [[former-company-chief-financial-officer-indicted-for-using-35-million-in-company-cash-to-invest-in-cryptocurren]]. No visible cross-border mechanism is documented, so it is not treated as a separate international-cooperation operation."
 created: 2026-04-18
 updated: 2026-04-18
 ---

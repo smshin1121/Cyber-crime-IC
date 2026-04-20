@@ -8,7 +8,7 @@ period: 1
 operation_role: "follow-on"
 parent_operation: ""
 operation_type: "prosecution"
-status: "completed"
+status: "absorbed"
 enforcement_type:
   - arrest
 outcome: "success"
@@ -57,7 +57,7 @@ lessons_learned: []
 source_count: 1
 sources:
   - "[[2026-04-18_justice-gov_former-employee-silicon-valley-company-pleads-guilty-damaging-ex-employer-s-computers]]"
-summary: "Former Employee Of Silicon Valley Company Pleads Guilty To Damaging Ex-Employer’s Computers Enforcement Action is a defendant-specific enforcement action page derived from [[former-employee-of-silicon-valley-company-pleads-guilty-to-damaging-ex-employers-computers]]."
+summary: "Former Employee Of Silicon Valley Company Pleads Guilty To Damaging Ex-Employer’s Computers Enforcement Action is a domestic-only U.S. follow-on record absorbed into the canonical case page [[former-employee-of-silicon-valley-company-pleads-guilty-to-damaging-ex-employers-computers]]. No visible cross-border mechanism is documented, so it is not treated as a separate international-cooperation operation."
 created: 2026-04-18
 updated: 2026-04-18
 ---
