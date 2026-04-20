@@ -1,0 +1,1104 @@
+[
+  {
+    "op_slug": "operation-haechi-vi",
+    "op_title": "Operation HAECHI VI",
+    "verified_local": 32,
+    "unverified_local": 3,
+    "unverified_countries": [
+      "japan",
+      "albania",
+      "argentina",
+      "armenia",
+      "australia",
+      "brazil",
+      "bulgaria",
+      "cambodia",
+      "canada",
+      "china",
+      "germany",
+      "ghana"
+    ],
+    "participating_countries": [
+      "south-korea",
+      "portugal",
+      "thailand",
+      "united-arab-emirates",
+      "japan",
+      "albania",
+      "argentina",
+      "armenia",
+      "australia",
+      "brazil",
+      "bulgaria",
+      "cambodia",
+      "canada",
+      "china",
+      "germany",
+      "ghana",
+      "india",
+      "indonesia",
+      "ireland",
+      "kazakhstan",
+      "malaysia",
+      "nigeria",
+      "philippines",
+      "poland",
+      "romania",
+      "singapore",
+      "south-africa",
+      "spain",
+      "sweden",
+      "united-kingdom",
+      "united-states",
+      "vietnam"
+    ],
+    "source_urls": [
+      {
+        "source_slug": "2025-09-25-interpol-operation-haechi-vi",
+        "url": "https://www.interpol.int/en/News-and-Events/News/2025/USD-439-million-recovered-in-global-financial-crime-operation",
+        "publisher": "INTERPOL",
+        "reliability": "high",
+        "source_type": "press-release",
+        "publish_date": "2025-09-25"
+      }
+    ]
+  },
+  {
+    "op_slug": "operation-eur-300m-global-credit-card-fraud-2025",
+    "op_title": "EUR 300 Million Global Credit Card Fraud Operation (2025)",
+    "verified_local": 10,
+    "unverified_local": 4,
+    "unverified_countries": [
+      "cyprus",
+      "italy",
+      "netherlands",
+      "spain",
+      "canada",
+      "singapore"
+    ],
+    "participating_countries": [
+      "germany",
+      "cyprus",
+      "italy",
+      "luxembourg",
+      "netherlands",
+      "spain",
+      "united-kingdom",
+      "united-states",
+      "canada",
+      "singapore"
+    ],
+    "source_urls": [
+      {
+        "source_slug": "2025-11-05_eurojust_eurojust-coordinates-major-operation-against-eur-300-million-global-credit-card-fraud-18",
+        "url": "https://www.eurojust.europa.eu/news/eurojust-coordinates-major-operation-against-eur-300-million-global-credit-card-fraud-18",
+        "publisher": "Eurojust",
+        "reliability": "high",
+        "source_type": "press-release",
+        "publish_date": "2025-11-05"
+      }
+    ]
+  },
+  {
+    "op_slug": "darkmarket-takedown",
+    "op_title": "DarkMarket Marketplace Takedown",
+    "verified_local": 7,
+    "unverified_local": 3,
+    "unverified_countries": [
+      "australia",
+      "united-kingdom",
+      "united-states",
+      "denmark"
+    ],
+    "participating_countries": [
+      "germany",
+      "australia",
+      "united-kingdom",
+      "united-states",
+      "ukraine",
+      "moldova",
+      "denmark"
+    ],
+    "source_urls": [
+      {
+        "source_slug": "2021-01-12_europol-europa-eu_darkmarket-world-s-largest-illegal-dark-web-marketplace-taken-down",
+        "url": "https://www.europol.europa.eu/media-press/newsroom/news/darkmarket-worlds-largest-illegal-dark-web-marketplace-taken-down",
+        "publisher": "Europol",
+        "reliability": "high",
+        "source_type": "press-release",
+        "publish_date": "2021-01-12"
+      },
+      {
+        "source_slug": "2021-01-12_thehackernews-com_authorities-take-down-world-s-largest-illegal-dark-web-marketplace",
+        "url": "https://thehackernews.com/2021/01/authorities-take-down-worlds-largest.html",
+        "publisher": "The Hacker News",
+        "reliability": "medium",
+        "source_type": "press-release",
+        "publish_date": "2021-01-12"
+      },
+      {
+        "source_slug": "2021-01-12_rferl-org_servers-seized-in-ukraine-moldova-as-germany-takes-down-world-s-largest-illegal",
+        "url": "https://www.rferl.org/a/ukraine-moldova-servers-seized-germany-busts-darknet-operation/31044327.html",
+        "publisher": "RFE/RL",
+        "reliability": "medium",
+        "source_type": "press-release",
+        "publish_date": "2021-01-12"
+      },
+      {
+        "source_slug": "2021-01-12_sbs-com-au_australian-man-arrested-in-germany-accused-of-running-world-s-largest-darknet-ma",
+        "url": "https://www.sbs.com.au/news/article/australian-man-arrested-in-germany-accused-of-running-worlds-largest-darknet-marketplace/pee58pzoh",
+        "publisher": "SBS News",
+        "reliability": "medium",
+        "source_type": "press-release",
+        "publish_date": "2021-01-12"
+      },
+      {
+        "source_slug": "2021-10-26_dea-gov_department-of-justice-announces-results-of-operation-dark-huntor",
+        "url": "https://www.dea.gov/press-releases/2021/10/26/department-justice-announces-results-operation-dark-huntor",
+        "publisher": "US DOJ/DEA",
+        "reliability": "high",
+        "source_type": "press-release",
+        "publish_date": "2021-10-26"
+      }
+    ]
+  },
+  {
+    "op_slug": "operation-us-v-parsarad-nemesis",
+    "op_title": "Behrouz Parsarad Enforcement Action",
+    "verified_local": 3,
+    "unverified_local": 0,
+    "unverified_countries": [
+      "united-states",
+      "germany",
+      "lithuania"
+    ],
+    "participating_countries": [
+      "united-states",
+      "germany",
+      "lithuania"
+    ],
+    "source_urls": [
+      {
+        "source_slug": "2025-04-17_opa_parsarad-nemesis-indictment",
+        "url": "https://www.justice.gov/opa/pr/administrator-nemesis-market-charged-role-operating-darknet-marketplace",
+        "publisher": "U.S. Department of Justice",
+        "reliability": "high",
+        "source_type": "court-document",
+        "publish_date": "2025-04-17"
+      },
+      {
+        "source_slug": "2026-04-18_justice-gov_iranian-national-indicted-operating-online-marketplace-offering-fentanyl-other-drugs",
+        "url": "https://www.justice.gov/usao-ndoh/pr/iranian-national-indicted-operating-online-marketplace-offering-fentanyl-other-drugs",
+        "publisher": "US DOJ USAO",
+        "reliability": "high",
+        "source_type": "press-release",
+        "publish_date": "2025-04-17"
+      },
+      {
+        "source_slug": "2025-03-04_treasury-gov_treasury-sanctions-head-of-online-darknet-marketplace-tied-to-fentanyl-sales",
+        "url": "https://home.treasury.gov/news/press-releases/sb0040",
+        "publisher": "U.S. Department of the Treasury",
+        "reliability": "high",
+        "source_type": "press-release",
+        "publish_date": "2025-03-04"
+      },
+      {
+        "source_slug": "2024-03-21_bka-de_illegaler-darknet-marktplatz-nemesis-market-abgeschaltet",
+        "url": "https://www.bka.de/DE/Presse/Listenseite_Pressemitteilungen/2024/Presse2024/240321_PM_Nemesis_Market.html",
+        "publisher": "Bundeskriminalamt / ZIT Frankfurt",
+        "reliability": "high",
+        "source_type": "press-release",
+        "publish_date": "2024-03-21"
+      },
+      {
+        "source_slug": "2026-04-18_justice-gov_iranian-national-indicted-operating-online-marketplace-offering-fentanyl-and-money",
+        "url": "https://www.justice.gov/opa/pr/iranian-national-indicted-operating-online-marketplace-offering-fentanyl-and-money",
+        "publisher": "US DOJ (Office of Public Affairs)",
+        "reliability": "high",
+        "source_type": "press-release",
+        "publish_date": "2025-04-17"
+      }
+    ]
+  },
+  {
+    "op_slug": "doublevpn-takedown",
+    "op_title": "DoubleVPN Takedown",
+    "verified_local": 9,
+    "unverified_local": 7,
+    "unverified_countries": [
+      "united-states",
+      "united-kingdom"
+    ],
+    "participating_countries": [
+      "netherlands",
+      "united-states",
+      "canada",
+      "germany",
+      "united-kingdom",
+      "sweden",
+      "italy",
+      "bulgaria",
+      "switzerland"
+    ],
+    "source_urls": [
+      {
+        "source_slug": "2021-06-30_eurojust_coordinated-action-cuts-access-vpn-service-used-ransomware-groups",
+        "url": "https://www.eurojust.europa.eu/news/coordinated-action-cuts-access-vpn-service-used-ransomware-groups",
+        "publisher": "Eurojust",
+        "reliability": "high",
+        "source_type": "press-release",
+        "publish_date": "2021-06-30"
+      },
+      {
+        "source_slug": "2022-03-02_eurojust_annual-report-2021-doublevpn-case-example",
+        "url": "https://www.eurojust.europa.eu/annual-report-2021/cybercrime/case-examples",
+        "publisher": "Eurojust",
+        "reliability": "high",
+        "source_type": "report",
+        "publish_date": "2022-03-02"
+      },
+      {
+        "source_slug": "2021-06-30_nationalcrimeagency-gov-uk_doublevpn-takedown-nca-takes-uk-server-of-criminal-network-offline",
+        "url": "https://www.nationalcrimeagency.gov.uk/news/doublevpn-takedown-nca-takes-uk-server-of-criminal-network-offline",
+        "publisher": "UK NCA",
+        "reliability": "medium",
+        "source_type": "press-release",
+        "publish_date": "2021-06-30"
+      },
+      {
+        "source_slug": "2021-06-30_therecord-media_dutch-police-takes-down-doublevpn-a-service-used-by-cybercrime-groups",
+        "url": "https://therecord.media/dutch-police-takes-down-doublevpn-a-service-used-by-cybercrime-groups",
+        "publisher": "The Record",
+        "reliability": "medium",
+        "source_type": "press-release",
+        "publish_date": "2021-06-30"
+      }
+    ]
+  },
+  {
+    "op_slug": "operation-dark-huntor",
+    "op_title": "Operation Dark HunTOR",
+    "verified_local": 9,
+    "unverified_local": 7,
+    "unverified_countries": [
+      "united-kingdom",
+      "united-states"
+    ],
+    "participating_countries": [
+      "australia",
+      "bulgaria",
+      "france",
+      "germany",
+      "italy",
+      "netherlands",
+      "switzerland",
+      "united-kingdom",
+      "united-states"
+    ],
+    "source_urls": [
+      {
+        "source_slug": "2021-10-26_europol-europa-eu_150-arrested-in-dark-web-drug-bust-as-police-seize-eur-26-million",
+        "url": "https://www.europol.europa.eu/media-press/newsroom/news/150-arrested-in-dark-web-drug-bust-police-seize-%E2%82%AC26-million",
+        "publisher": "Europol",
+        "reliability": "high",
+        "source_type": "press-release",
+        "publish_date": "2021-10-26"
+      },
+      {
+        "source_slug": "2021-10-26_dea-gov_department-of-justice-announces-results-of-operation-dark-huntor",
+        "url": "https://www.dea.gov/press-releases/2021/10/26/department-justice-announces-results-operation-dark-huntor",
+        "publisher": "US DOJ/DEA",
+        "reliability": "high",
+        "source_type": "press-release",
+        "publish_date": "2021-10-26"
+      },
+      {
+        "source_slug": "2021-10-26_justice-gov_deputy-ag-lisa-monaco-delivers-remarks-on-operation-dark-huntor",
+        "url": "https://www.justice.gov/archives/opa/speech/deputy-attorney-general-lisa-o-monaco-delivers-remarks-operation-dark-huntor",
+        "publisher": "US DOJ",
+        "reliability": "high",
+        "source_type": "press-release",
+        "publish_date": "2021-10-26"
+      },
+      {
+        "source_slug": "2021-10-27_nationalcrimeagency-gov-uk_international-operation-targets-dark-web-drugs-marketplace",
+        "url": "https://www.nationalcrimeagency.gov.uk/news/international-operation-targets-dark-web-drugs-marketplace",
+        "publisher": "UK NCA",
+        "reliability": "medium",
+        "source_type": "press-release",
+        "publish_date": "2021-10-27"
+      },
+      {
+        "source_slug": "2021-01-12_europol-europa-eu_darkmarket-world-s-largest-illegal-dark-web-marketplace-taken-down",
+        "url": "https://www.europol.europa.eu/media-press/newsroom/news/darkmarket-worlds-largest-illegal-dark-web-marketplace-taken-down",
+        "publisher": "Europol",
+        "reliability": "high",
+        "source_type": "press-release",
+        "publish_date": "2021-01-12"
+      }
+    ]
+  },
+  {
+    "op_slug": "operation-eur-3m-online-investment-fraud-2025",
+    "op_title": "EUR 3 Million Online Investment Fraud Coalition Action (2025)",
+    "verified_local": 7,
+    "unverified_local": 5,
+    "unverified_countries": [
+      "belgium",
+      "latvia"
+    ],
+    "participating_countries": [
+      "germany",
+      "cyprus",
+      "albania",
+      "united-kingdom",
+      "israel",
+      "belgium",
+      "latvia"
+    ],
+    "source_urls": [
+      {
+        "source_slug": "2025-05-13_eurojust_international-coalition-uncovers-eur-3-million-online-investment-fraud",
+        "url": "https://www.eurojust.europa.eu/news/international-coalition-uncovers-eur-3-million-online-investment-fraud",
+        "publisher": "Eurojust",
+        "reliability": "high",
+        "source_type": "press-release",
+        "publish_date": "2025-05-13"
+      }
+    ]
+  },
+  {
+    "op_slug": "operation-eur-600m-crypto-scam-network-2025",
+    "op_title": "EUR 600 Million Crypto Scam Network Takedown (2025)",
+    "verified_local": 5,
+    "unverified_local": 3,
+    "unverified_countries": [
+      "belgium",
+      "france"
+    ],
+    "participating_countries": [
+      "belgium",
+      "cyprus",
+      "france",
+      "germany",
+      "spain"
+    ],
+    "source_urls": [
+      {
+        "source_slug": "2025-11-04_eurojust_decisive-actions-against-cryptocurrency-scammers-earning-over-eur-600-million",
+        "url": "https://www.eurojust.europa.eu/news/decisive-actions-against-cryptocurrency-scammers-earning-over-eur-600-million",
+        "publisher": "Eurojust",
+        "reliability": "high",
+        "source_type": "press-release",
+        "publish_date": "2025-11-04"
+      }
+    ]
+  },
+  {
+    "op_slug": "operation-europol-105-arrested-for-stealing-over-12-million-from-us-based-banks-operation-secreto",
+    "op_title": "Europol: 105 Arrested for Stealing Over €12 Million from US-Based Banks (Operation Secreto) Enforcement Action",
+    "verified_local": 6,
+    "unverified_local": 4,
+    "unverified_countries": [
+      "united-kingdom",
+      "united-states"
+    ],
+    "participating_countries": [
+      "austria",
+      "denmark",
+      "greece",
+      "spain",
+      "united-kingdom",
+      "united-states"
+    ],
+    "source_urls": [
+      {
+        "source_slug": "europol-operation-secreto",
+        "url": "https://www.europol.europa.eu/media-press/newsroom/news/105-arrested-for-stealing-over-%E2%82%AC12-million-us-based-banks",
+        "publisher": "Europol",
+        "reliability": "high",
+        "source_type": "press-release",
+        "publish_date": "2021-02-03"
+      }
+    ]
+  },
+  {
+    "op_slug": "operation-europol-french-coder-who-helped-extort-british-company-arrested-in-thailand",
+    "op_title": "Europol: French coder who helped extort British company arrested in Thailand Enforcement Action",
+    "verified_local": 4,
+    "unverified_local": 2,
+    "unverified_countries": [
+      "belgium",
+      "united-kingdom"
+    ],
+    "participating_countries": [
+      "belgium",
+      "france",
+      "thailand",
+      "united-kingdom"
+    ],
+    "source_urls": [
+      {
+        "source_slug": "europol-rex-mundi-hacking-group-takedown",
+        "url": "https://www.europol.europa.eu/media-press/newsroom/news/french-coder-who-helped-extort-british-company-arrested-in-thailand",
+        "publisher": "Europol",
+        "reliability": "high",
+        "source_type": "press-release",
+        "publish_date": "2018-06-14"
+      }
+    ]
+  },
+  {
+    "op_slug": "alphabay-takedown",
+    "op_title": "Operation Bayonet -- AlphaBay & Hansa Takedown",
+    "verified_local": 8,
+    "unverified_local": 7,
+    "unverified_countries": [
+      "united-kingdom"
+    ],
+    "participating_countries": [
+      "united-states",
+      "thailand",
+      "netherlands",
+      "lithuania",
+      "canada",
+      "united-kingdom",
+      "france",
+      "germany"
+    ],
+    "source_urls": []
+  },
+  {
+    "op_slug": "bidencash-takedown",
+    "op_title": "BidenCash Marketplace Seizure",
+    "verified_local": 6,
+    "unverified_local": 5,
+    "unverified_countries": [
+      "united-states"
+    ],
+    "participating_countries": [
+      "united-states",
+      "netherlands",
+      "finland",
+      "germany",
+      "france",
+      "denmark"
+    ],
+    "source_urls": []
+  },
+  {
+    "op_slug": "carbanak-cobalt-takedown",
+    "op_title": "Carbanak/Cobalt Mastermind Arrest",
+    "verified_local": 6,
+    "unverified_local": 5,
+    "unverified_countries": [
+      "united-states"
+    ],
+    "participating_countries": [
+      "spain",
+      "united-states",
+      "romania",
+      "moldova",
+      "belarus",
+      "taiwan"
+    ],
+    "source_urls": [
+      {
+        "source_slug": "2018-03-01_europol-europa-eu_mastermind-behind-eur-1-billion-cyber-bank-robbery-arrested-in-spain",
+        "url": "https://www.europol.europa.eu/media-press/newsroom/news/mastermind-behind-eur-1-billion-cyber-bank-robbery-arrested-in-spain",
+        "publisher": "Europol",
+        "reliability": "high",
+        "source_type": "press-release",
+        "publish_date": "2018-03-01"
+      },
+      {
+        "source_slug": "2015-02-16_securelist_the-great-bank-robbery-the-carbanak-apt",
+        "url": "https://securelist.com/the-great-bank-robbery-the-carbanak-apt/68732/",
+        "publisher": "Kaspersky Securelist",
+        "reliability": "high",
+        "source_type": "technical-report",
+        "publish_date": "2015-02-16"
+      },
+      {
+        "source_slug": "2026-04-18_europol-europa-eu_carbanak-cobalt-infographic",
+        "url": "https://www.europol.europa.eu/cms/sites/default/files/documents/carbanakcobalt.pdf",
+        "publisher": "Europol",
+        "reliability": "high",
+        "source_type": "infographic",
+        "publish_date": "2026-04-18"
+      },
+      {
+        "source_slug": "2018-08-01_fbi-gov_how-cyber-crime-group-fin7-attacked-and-stole-data-from-hundreds-of-us-companies",
+        "url": "https://www.fbi.gov/contact-us/field-offices/seattle/news/stories/how-cyber-crime-group-fin7-attacked-and-stole-data-from-hundreds-of-us-companies",
+        "publisher": "FBI",
+        "reliability": "high",
+        "source_type": "official-article",
+        "publish_date": "2018-08-01"
+      }
+    ]
+  },
+  {
+    "op_slug": "cryptex-pm2btc-sanctions",
+    "op_title": "Cryptex and PM2BTC Coordinated Sanctions and Seizure Action",
+    "verified_local": 2,
+    "unverified_local": 1,
+    "unverified_countries": [
+      "united-states"
+    ],
+    "participating_countries": [
+      "united-states",
+      "netherlands"
+    ],
+    "source_urls": [
+      {
+        "source_slug": "2024-09-26_treasury_cryptex-pm2btc-coordinated-actions",
+        "url": "https://home.treasury.gov/news/press-releases/jy2616",
+        "publisher": "U.S. Department of the Treasury",
+        "reliability": "high",
+        "source_type": "press-release",
+        "publish_date": "2024-09-26"
+      },
+      {
+        "source_slug": "2024-09-26_justice-gov_two-russian-nationals-charged-money-laundering-services",
+        "url": "https://www.justice.gov/archives/opa/pr/two-russian-nationals-charged-connection-operating-billion-dollar-money-laundering-1",
+        "publisher": "US Department of Justice",
+        "reliability": "high",
+        "source_type": "press-release",
+        "publish_date": "2024-09-26"
+      },
+      {
+        "source_slug": "2024-09-26_fincen_treasury-takes-coordinated-actions-against-illicit-russian-virtual-currency",
+        "url": "https://www.fincen.gov/news/news-releases/treasury-takes-coordinated-actions-against-illicit-russian-virtual-currency",
+        "publisher": "Financial Crimes Enforcement Network",
+        "reliability": "high",
+        "source_type": "press-release",
+        "publish_date": "2024-09-26"
+      },
+      {
+        "source_slug": "2024-09-26_fincen_imposition-special-measure-prohibiting-the-transmittal-of-funds-involving-pm2btc",
+        "url": "https://www.fincen.gov/resources/statutes-regulations/federal-register-notices/imposition-special-measure-prohibiting-0",
+        "publisher": "Financial Crimes Enforcement Network",
+        "reliability": "high",
+        "source_type": "legal-notice",
+        "publish_date": "2024-09-26"
+      },
+      {
+        "source_slug": "2024-09-26_usao-edva_two-russian-nationals-charged-connection-operating-billion-dollar-money-laundering",
+        "url": "https://www.justice.gov/usao-edva/pr/two-russian-nationals-charged-connection-operating-billion-dollar-money-laundering",
+        "publisher": "U.S. Attorney's Office, Eastern District of Virginia",
+        "reliability": "high",
+        "source_type": "press-release",
+        "publish_date": "2024-09-26"
+      },
+      {
+        "source_slug": "2024-09-26_chainalysis_ofac-designates-russian-exchange-cryptex-fincen-names-pm2btc",
+        "url": "https://www.chainalysis.com/blog/ofac-sanctions-russian-exchange-cryptex-uaps-fraud-shop-2024/",
+        "publisher": "Chainalysis",
+        "reliability": "medium-high",
+        "source_type": "analysis",
+        "publish_date": "2024-09-26"
+      }
+    ]
+  },
+  {
+    "op_slug": "dridex-operations",
+    "op_title": "Dridex/Evil Corp Disruption and Prosecution",
+    "verified_local": 5,
+    "unverified_local": 4,
+    "unverified_countries": [
+      "united-kingdom"
+    ],
+    "participating_countries": [
+      "united-states",
+      "united-kingdom",
+      "germany",
+      "moldova",
+      "cyprus"
+    ],
+    "source_urls": []
+  },
+  {
+    "op_slug": "isoon-apt27-indictment",
+    "op_title": "i-Soon/APT27 Indictment (Chinese Contract Hackers)",
+    "verified_local": 2,
+    "unverified_local": 1,
+    "unverified_countries": [
+      "united-states"
+    ],
+    "participating_countries": [
+      "united-states",
+      "china"
+    ],
+    "source_urls": [
+      {
+        "source_slug": "2025-03-05-doj-isoon-chinese-hackers-charges",
+        "url": "https://www.justice.gov/opa/pr/justice-department-charges-12-chinese-contract-hackers-and-law-enforcement-officers-global",
+        "publisher": "US Department of Justice",
+        "reliability": "high",
+        "source_type": "press-release",
+        "publish_date": "2025-03-05"
+      }
+    ]
+  },
+  {
+    "op_slug": "lumma-stealer-takedown",
+    "op_title": "Lumma Stealer Takedown",
+    "verified_local": 2,
+    "unverified_local": 1,
+    "unverified_countries": [
+      "united-states"
+    ],
+    "participating_countries": [
+      "united-states",
+      "japan"
+    ],
+    "source_urls": [
+      {
+        "source_slug": "2025-05-21_microsoft_lumma-stealer-global-action",
+        "url": "https://blogs.microsoft.com/on-the-issues/2025/05/21/microsoft-leads-global-action-against-favored-cybercrime-tool/",
+        "publisher": "Microsoft",
+        "reliability": "high",
+        "source_type": "blog",
+        "publish_date": "2025-05-21"
+      },
+      {
+        "source_slug": "2025-05-21_justice-gov_lumma-stealer-domain-seizures",
+        "url": "https://www.justice.gov/opa/pr/justice-department-seizes-domains-behind-major-information-stealing-malware-operation",
+        "publisher": "U.S. Department of Justice",
+        "reliability": "high",
+        "source_type": "press-release",
+        "publish_date": "2025-05-21"
+      },
+      {
+        "source_slug": "2025-05-21_microsoft-security-blog_lumma-stealer-analysis",
+        "url": "https://www.microsoft.com/en-us/security/blog/2025/05/21/lumma-stealer-breaking-down-the-delivery-techniques-and-capabilities-of-a-prolific-infostealer/",
+        "publisher": "Microsoft Security Blog",
+        "reliability": "high",
+        "source_type": "research-blog",
+        "publish_date": "2025-05-21"
+      }
+    ]
+  },
+  {
+    "op_slug": "nemesis-market-takedown",
+    "op_title": "Nemesis Market Takedown",
+    "verified_local": 3,
+    "unverified_local": 2,
+    "unverified_countries": [
+      "united-states"
+    ],
+    "participating_countries": [
+      "germany",
+      "united-states",
+      "lithuania"
+    ],
+    "source_urls": [
+      {
+        "source_slug": "2024-03-21_bka-de_illegaler-darknet-marktplatz-nemesis-market-abgeschaltet",
+        "url": "https://www.bka.de/DE/Presse/Listenseite_Pressemitteilungen/2024/Presse2024/240321_PM_Nemesis_Market.html",
+        "publisher": "Bundeskriminalamt / ZIT Frankfurt",
+        "reliability": "high",
+        "source_type": "press-release",
+        "publish_date": "2024-03-21"
+      },
+      {
+        "source_slug": "2025-04-17_opa_parsarad-nemesis-indictment",
+        "url": "https://www.justice.gov/opa/pr/administrator-nemesis-market-charged-role-operating-darknet-marketplace",
+        "publisher": "U.S. Department of Justice",
+        "reliability": "high",
+        "source_type": "court-document",
+        "publish_date": "2025-04-17"
+      },
+      {
+        "source_slug": "2026-04-18_justice-gov_iranian-national-indicted-operating-online-marketplace-offering-fentanyl-other-drugs",
+        "url": "https://www.justice.gov/usao-ndoh/pr/iranian-national-indicted-operating-online-marketplace-offering-fentanyl-other-drugs",
+        "publisher": "US DOJ USAO",
+        "reliability": "high",
+        "source_type": "press-release",
+        "publish_date": "2025-04-17"
+      },
+      {
+        "source_slug": "2025-03-04_treasury-gov_treasury-sanctions-head-of-online-darknet-marketplace-tied-to-fentanyl-sales",
+        "url": "https://home.treasury.gov/news/press-releases/sb0040",
+        "publisher": "U.S. Department of the Treasury",
+        "reliability": "high",
+        "source_type": "press-release",
+        "publish_date": "2025-03-04"
+      }
+    ]
+  },
+  {
+    "op_slug": "operation-16-defendants-federally-charged-in-connection-with-danabot-malware-scheme-that-infected-computers-worldwide",
+    "op_title": "16 Defendants Federally Charged in Connection with DanaBot Malware Scheme That Infected Computers Worldwide Enforcement Action",
+    "verified_local": 1,
+    "unverified_local": 0,
+    "unverified_countries": [
+      "united-states"
+    ],
+    "participating_countries": [
+      "united-states"
+    ],
+    "source_urls": [
+      {
+        "source_slug": "2026-04-18_justice-gov_16-defendants-federally-charged-connection-danabot-malware-scheme-infected-computers",
+        "url": "https://www.justice.gov/usao-cdca/pr/16-defendants-federally-charged-connection-danabot-malware-scheme-infected-computers",
+        "publisher": "US DOJ USAO",
+        "reliability": "high",
+        "source_type": "press-release",
+        "publish_date": "2025-05-22"
+      }
+    ]
+  },
+  {
+    "op_slug": "operation-19-individuals-worldwide-charged-in-transnational-cybercrime-investigation-of-the-xdedic-marketplace",
+    "op_title": "19 Individuals Worldwide Charged In Transnational Cybercrime Investigation Of The xDedic Marketplace Enforcement Action",
+    "verified_local": 1,
+    "unverified_local": 0,
+    "unverified_countries": [
+      "united-states"
+    ],
+    "participating_countries": [
+      "united-states"
+    ],
+    "source_urls": [
+      {
+        "source_slug": "2024-01-04_justice-gov_united-states-v-akinola-taylor",
+        "url": "https://www.justice.gov/usao-mdfl/pr/19-individuals-worldwide-charged-transnational-cybercrime-investigation-xdedic",
+        "publisher": "US DOJ (Middle District of Florida)",
+        "reliability": "high",
+        "source_type": "press-release",
+        "publish_date": "2024-01-04"
+      }
+    ]
+  },
+  {
+    "op_slug": "operation-19-individuals-worldwide-charged-in-transnational-cybercrime-investigation-of-the-xdedic-marketplace-2",
+    "op_title": "19 Individuals Worldwide Charged In Transnational Cybercrime Investigation Of The xDedic Marketplace Enforcement Action",
+    "verified_local": 1,
+    "unverified_local": 0,
+    "unverified_countries": [
+      "united-states"
+    ],
+    "participating_countries": [
+      "united-states"
+    ],
+    "source_urls": [
+      {
+        "source_slug": "2024-01-04_justice-gov_united-states-v-harold-mckinzie",
+        "url": "https://www.justice.gov/usao-mdfl/pr/19-individuals-worldwide-charged-transnational-cybercrime-investigation-xdedic",
+        "publisher": "US DOJ (Middle District of Florida)",
+        "reliability": "high",
+        "source_type": "press-release",
+        "publish_date": "2024-01-04"
+      }
+    ]
+  },
+  {
+    "op_slug": "operation-19-individuals-worldwide-charged-in-transnational-cybercrime-investigation-of-the-xdedic-marketplace-3",
+    "op_title": "19 Individuals Worldwide Charged In Transnational Cybercrime Investigation Of The xDedic Marketplace Enforcement Action",
+    "verified_local": 1,
+    "unverified_local": 0,
+    "unverified_countries": [
+      "united-states"
+    ],
+    "participating_countries": [
+      "united-states"
+    ],
+    "source_urls": [
+      {
+        "source_slug": "2024-01-04_justice-gov_united-states-v-joshua-spencer",
+        "url": "https://www.justice.gov/usao-mdfl/pr/19-individuals-worldwide-charged-transnational-cybercrime-investigation-xdedic",
+        "publisher": "US DOJ (Middle District of Florida)",
+        "reliability": "high",
+        "source_type": "press-release",
+        "publish_date": "2024-01-04"
+      }
+    ]
+  },
+  {
+    "op_slug": "operation-19-individuals-worldwide-charged-in-transnational-cybercrime-investigation-of-the-xdedic-marketplace-4",
+    "op_title": "19 Individuals Worldwide Charged In Transnational Cybercrime Investigation Of The xDedic Marketplace Enforcement Action",
+    "verified_local": 1,
+    "unverified_local": 0,
+    "unverified_countries": [
+      "united-states"
+    ],
+    "participating_countries": [
+      "united-states"
+    ],
+    "source_urls": [
+      {
+        "source_slug": "2024-01-04_justice-gov_united-states-v-olakunle-oyebanjo",
+        "url": "https://www.justice.gov/usao-mdfl/pr/19-individuals-worldwide-charged-transnational-cybercrime-investigation-xdedic",
+        "publisher": "US DOJ (Middle District of Florida)",
+        "reliability": "high",
+        "source_type": "press-release",
+        "publish_date": "2024-01-04"
+      }
+    ]
+  },
+  {
+    "op_slug": "operation-19-individuals-worldwide-charged-in-transnational-cybercrime-investigation-of-the-xdedic-marketplace-5",
+    "op_title": "19 Individuals Worldwide Charged In Transnational Cybercrime Investigation Of The xDedic Marketplace Enforcement Action",
+    "verified_local": 1,
+    "unverified_local": 0,
+    "unverified_countries": [
+      "united-states"
+    ],
+    "participating_countries": [
+      "united-states"
+    ],
+    "source_urls": [
+      {
+        "source_slug": "2024-01-04_justice-gov_united-states-v-olayemi-adafin",
+        "url": "https://www.justice.gov/usao-mdfl/pr/19-individuals-worldwide-charged-transnational-cybercrime-investigation-xdedic",
+        "publisher": "US DOJ (Middle District of Florida)",
+        "reliability": "high",
+        "source_type": "press-release",
+        "publish_date": "2024-01-04"
+      }
+    ]
+  },
+  {
+    "op_slug": "operation-19-individuals-worldwide-charged-in-transnational-cybercrime-investigation-of-the-xdedic-marketplace-6",
+    "op_title": "19 Individuals Worldwide Charged In Transnational Cybercrime Investigation Of The xDedic Marketplace Enforcement Action",
+    "verified_local": 1,
+    "unverified_local": 0,
+    "unverified_countries": [
+      "united-states"
+    ],
+    "participating_countries": [
+      "united-states"
+    ],
+    "source_urls": [
+      {
+        "source_slug": "2024-01-04_justice-gov_united-states-v-oluwarotimi-ogunlana",
+        "url": "https://www.justice.gov/usao-mdfl/pr/19-individuals-worldwide-charged-transnational-cybercrime-investigation-xdedic",
+        "publisher": "US DOJ (Middle District of Florida)",
+        "reliability": "high",
+        "source_type": "press-release",
+        "publish_date": "2024-01-04"
+      }
+    ]
+  },
+  {
+    "op_slug": "operation-19-individuals-worldwide-charged-in-transnational-cybercrime-investigation-of-the-xdedic-marketplace-7",
+    "op_title": "19 Individuals Worldwide Charged In Transnational Cybercrime Investigation Of The xDedic Marketplace Enforcement Action",
+    "verified_local": 1,
+    "unverified_local": 0,
+    "unverified_countries": [
+      "united-states"
+    ],
+    "participating_countries": [
+      "united-states"
+    ],
+    "source_urls": [
+      {
+        "source_slug": "2024-01-04_justice-gov_united-states-v-pavlo-kharmanskyi",
+        "url": "https://www.justice.gov/usao-mdfl/pr/19-individuals-worldwide-charged-transnational-cybercrime-investigation-xdedic",
+        "publisher": "US DOJ (Middle District of Florida)",
+        "reliability": "high",
+        "source_type": "press-release",
+        "publish_date": "2024-01-04"
+      }
+    ]
+  },
+  {
+    "op_slug": "operation-australian-man-arrested-in-germany-accused-of-running-world-s-largest-darknet-marketplace",
+    "op_title": "Australian DarkMarket Operator Arrest Enforcement Action",
+    "verified_local": 4,
+    "unverified_local": 3,
+    "unverified_countries": [
+      "australia"
+    ],
+    "participating_countries": [
+      "germany",
+      "australia",
+      "moldova",
+      "ukraine"
+    ],
+    "source_urls": [
+      {
+        "source_slug": "2021-01-12_europol-europa-eu_darkmarket-world-s-largest-illegal-dark-web-marketplace-taken-down",
+        "url": "https://www.europol.europa.eu/media-press/newsroom/news/darkmarket-worlds-largest-illegal-dark-web-marketplace-taken-down",
+        "publisher": "Europol",
+        "reliability": "high",
+        "source_type": "press-release",
+        "publish_date": "2021-01-12"
+      },
+      {
+        "source_slug": "2021-01-12_thehackernews-com_authorities-take-down-world-s-largest-illegal-dark-web-marketplace",
+        "url": "https://thehackernews.com/2021/01/authorities-take-down-worlds-largest.html",
+        "publisher": "The Hacker News",
+        "reliability": "medium",
+        "source_type": "press-release",
+        "publish_date": "2021-01-12"
+      },
+      {
+        "source_slug": "2021-01-12_rferl-org_servers-seized-in-ukraine-moldova-as-germany-takes-down-world-s-largest-illegal",
+        "url": "https://www.rferl.org/a/ukraine-moldova-servers-seized-germany-busts-darknet-operation/31044327.html",
+        "publisher": "RFE/RL",
+        "reliability": "medium",
+        "source_type": "press-release",
+        "publish_date": "2021-01-12"
+      },
+      {
+        "source_slug": "2021-01-12_sbs-com-au_australian-man-arrested-in-germany-accused-of-running-world-s-largest-darknet-ma",
+        "url": "https://www.sbs.com.au/news/article/australian-man-arrested-in-germany-accused-of-running-worlds-largest-darknet-marketplace/pee58pzoh",
+        "publisher": "SBS News",
+        "reliability": "medium",
+        "source_type": "press-release",
+        "publish_date": "2021-01-12"
+      },
+      {
+        "source_slug": "2021-10-26_dea-gov_department-of-justice-announces-results-of-operation-dark-huntor",
+        "url": "https://www.dea.gov/press-releases/2021/10/26/department-justice-announces-results-operation-dark-huntor",
+        "publisher": "US DOJ/DEA",
+        "reliability": "high",
+        "source_type": "press-release",
+        "publish_date": "2021-10-26"
+      }
+    ]
+  },
+  {
+    "op_slug": "operation-avalanche",
+    "op_title": "Operation Avalanche",
+    "verified_local": 28,
+    "unverified_local": 27,
+    "unverified_countries": [
+      "united-kingdom"
+    ],
+    "participating_countries": [
+      "armenia",
+      "australia",
+      "austria",
+      "azerbaijan",
+      "belgium",
+      "belize",
+      "bulgaria",
+      "canada",
+      "finland",
+      "france",
+      "germany",
+      "hungary",
+      "india",
+      "italy",
+      "lithuania",
+      "luxembourg",
+      "moldova",
+      "montenegro",
+      "netherlands",
+      "norway",
+      "poland",
+      "romania",
+      "singapore",
+      "sweden",
+      "taiwan",
+      "ukraine",
+      "united-kingdom",
+      "united-states"
+    ],
+    "source_urls": [
+      {
+        "source_slug": "2016-11-30_europol-europa-eu_avalanche-network-dismantled-in-international-cyber-operation",
+        "url": "https://www.europol.europa.eu/media-press/newsroom/news/%E2%80%98avalanche%E2%80%99-network-dismantled-in-international-cyber-operation",
+        "publisher": "Europol",
+        "reliability": "high",
+        "source_type": "press-release",
+        "publish_date": "2016-11-30"
+      },
+      {
+        "source_slug": "2026-04-18_justice-gov_avalanche-network-dismantled-international-cyber-operation",
+        "url": "https://www.justice.gov/usao-wdpa/pr/avalanche-network-dismantled-international-cyber-operation",
+        "publisher": "US DOJ USAO",
+        "reliability": "high",
+        "source_type": "press-release",
+        "publish_date": "2016-12-05"
+      },
+      {
+        "source_slug": "2017-04-01_eurojust-europa-eu_operation-avalanche-closer-look",
+        "url": "https://www.eurojust.europa.eu/publication/operation-avalanche-closer-look",
+        "publisher": "Eurojust",
+        "reliability": "high",
+        "source_type": "report",
+        "publish_date": "2017-04-01"
+      },
+      {
+        "source_slug": "2026-04-18_bsi-bund-de_avalanche-botnet-infrastructure",
+        "url": "https://www.bsi.bund.de/EN/Themen/Verbraucherinnen-und-Verbraucher/Cyber-Sicherheitslage/Methoden-der-Cyber-Kriminalitaet/Botnetze/Botnetz-Avalanche/botnet-avalanche_node.html",
+        "publisher": "Federal Office for Information Security (BSI)",
+        "reliability": "high",
+        "source_type": "official-guidance",
+        "publish_date": "2026-04-18"
+      },
+      {
+        "source_slug": "bbc-operation-avalanche",
+        "url": "https://www.bbc.com/news/technology-30849172",
+        "publisher": "BBC",
+        "reliability": "medium",
+        "source_type": "news",
+        "publish_date": "2016-12-01"
+      },
+      {
+        "source_slug": "reuters-operation-avalanche",
+        "url": "https://www.reuters.com/technology/cybersecurity/ghost-cybercrime-platform-dismantled-global-operation-51-arrested-2024-09-18/",
+        "publisher": "Reuters",
+        "reliability": "high",
+        "source_type": "news",
+        "publish_date": "2024-09-18"
+      },
+      {
+        "source_slug": "kaspersky-operation-avalanche",
+        "url": "https://www.kaspersky.com/about/press-releases/kaspersky-shares-cyberthreat-data-with-interpol-in-operation-to-disrupt-transnational-cybercrime",
+        "publisher": "Kaspersky",
+        "reliability": "medium",
+        "source_type": "news",
+        "publish_date": ""
+      }
+    ]
+  },
+  {
+    "op_slug": "operation-ceres-man-pleads-guilty-cyberstalking-two-victims",
+    "op_title": "Kevin James Strutz Enforcement Action",
+    "verified_local": 1,
+    "unverified_local": 0,
+    "unverified_countries": [
+      "united-states"
+    ],
+    "participating_countries": [
+      "united-states"
+    ],
+    "source_urls": [
+      {
+        "source_slug": "2026-04-18_justice-gov_ceres-man-pleads-guilty-cyberstalking-two-victims",
+        "url": "https://www.justice.gov/usao-edca/pr/ceres-man-pleads-guilty-cyberstalking-two-victims",
+        "publisher": "US DOJ USAO",
+        "reliability": "high",
+        "source_type": "press-release",
+        "publish_date": "2023-05-22"
+      }
+    ]
+  },
+  {
+    "op_slug": "operation-chinese-national-sentenced-prison-role-crypto-scam-targeting-americans",
+    "op_title": "Jingliang Su Enforcement Action",
+    "verified_local": 1,
+    "unverified_local": 0,
+    "unverified_countries": [
+      "united-states"
+    ],
+    "participating_countries": [
+      "united-states"
+    ],
+    "source_urls": [
+      {
+        "source_slug": "2026-04-18_justice-gov_chinese-national-sentenced-prison-role-crypto-scam-targeting-americans",
+        "url": "https://www.justice.gov/opa/pr/chinese-national-sentenced-prison-role-crypto-scam-targeting-americans",
+        "publisher": "US DOJ (Office of Public Affairs)",
+        "reliability": "high",
+        "source_type": "press-release",
+        "publish_date": "2026-01-27"
+      }
+    ]
+  }
+]
