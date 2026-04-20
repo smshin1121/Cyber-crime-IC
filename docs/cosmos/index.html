@@ -32,7 +32,7 @@
     .topbar{position:absolute;right:18px;transform:none;top:14px;z-index:35;display:flex;align-items:center;gap:6px;padding:6px 8px;border-radius:999px;border:1px solid rgba(255,255,255,.12);background:rgba(255,255,255,.92);color:#111;box-shadow:0 14px 36px rgba(0,0,0,.18)}.topbar .label{font-size:10px;color:#404452}.seg{display:flex;gap:3px;padding:3px;border-radius:999px;background:#ececf2;border:1px solid rgba(0,0,0,.06)}.seg button{padding:5px 9px;font-size:11px;font-weight:700;background:transparent;border:0;color:#3a3a42}.seg button.active{background:#15131c;color:#f6f4ff}.switch{position:relative;width:40px;height:24px;border:0;border-radius:999px;background:#d9dbe4;padding:0}.switch::after{content:"";position:absolute;top:2px;left:2px;width:20px;height:20px;border-radius:50%;background:#fff;transition:transform .22s ease}.controls-open .switch{background:#2e7be6}.controls-open .switch::after{transform:translateX(16px)}
     .theme-card{padding:12px;border-radius:16px;border:1px solid rgba(255,255,255,.08);cursor:pointer;min-height:72px;background:linear-gradient(135deg,var(--t1),var(--t2) 58%,var(--t3));display:flex;align-items:end;font-weight:700}.theme-card.active{box-shadow:0 0 0 1px color-mix(in srgb,var(--primary) 75%,transparent),0 12px 28px rgba(0,0,0,.24)}.seg-grid{grid-template-columns:repeat(2,minmax(0,1fr))}.theme-grid{grid-template-columns:repeat(2,minmax(0,1fr))}.subgrid{display:grid;grid-template-columns:repeat(2,minmax(0,1fr));gap:10px}
     .panel::-webkit-scrollbar{width:10px}.panel::-webkit-scrollbar-track{background:rgba(255,255,255,.03);border-radius:999px}.panel::-webkit-scrollbar-thumb{background:linear-gradient(180deg,color-mix(in srgb,var(--secondary) 56%,transparent),color-mix(in srgb,var(--primary) 50%,transparent));border-radius:999px;border:2px solid rgba(11,16,26,.85)}.panel{scrollbar-color:color-mix(in srgb,var(--primary) 46%,transparent) rgba(255,255,255,.05);scrollbar-width:thin}
-    body.view-graph .globe-only,body.view-graph .sna-only{display:none!important}body.view-globe .graph-only,body.view-globe .sna-only{display:none!important}body.view-sna .graph-only,body.view-sna .globe-only{display:none!important}
+    body.view-graph .globe-only,body.view-graph .sna-only{display:none!important}body.view-globe .graph-only,body.view-globe .sna-only{display:none!important}body.view-sna .graph-only,body.view-sna .globe-only{display:none!important}body.view-sna .hide-in-sna{display:none!important}body.view-globe .hide-in-globe{display:none!important}body.view-graph .hide-in-graph{display:none!important}
     @media (max-width:1080px){:root{--view-left:18px;--view-right:18px}html,body{overflow:auto}#app{display:block;height:auto;min-height:100vh}.controls-panel{width:auto;border-radius:0;border:0;border-right:0;border-bottom:1px solid var(--line)}.right{border-left:0;border-top:1px solid var(--line)}#view{height:60vh;min-height:460px}.topbar,.badge,.stats{left:18px;right:18px}.badge{width:auto;max-width:calc(100% - 36px);top:70px}}
   </style>
 </head>
@@ -45,16 +45,16 @@
       <div class="hint">Pinned</div>
     </div>
     <div class="controls-body">
-      <section class="section">
+      <section class="section hide-in-sna">
         <div class="head"><div class="title">Navigate</div><div id="stamp" class="mono">loading</div></div>
         <div class="stack">
           <input id="search" type="search" placeholder="budapest, europol, korea">
           <div id="searchResults" class="results hidden"></div>
-          <div class="row"><button id="resetRoot" class="primary">Reset Root</button><button id="expand">Expand 2-Hop</button><button id="clearPath">Clear Path</button></div>
-          <select id="pathTarget"><option value="">Choose destination node</option></select>
+          <div class="row"><button id="resetRoot" class="primary">Reset Root</button><button id="expand" class="hide-in-globe">Expand 2-Hop</button><button id="clearPath" class="hide-in-globe">Clear Path</button></div>
+          <select id="pathTarget" class="hide-in-globe"><option value="">Choose destination node</option></select>
         </div>
       </section>
-      <section class="section">
+      <section class="section hide-in-sna">
         <div class="head"><div class="title">Filters</div></div>
         <div id="typeFilters" class="types"></div>
         <div class="metric"><span>Minimum sources</span><span id="sourceVal" class="mono">0</span></div>
@@ -244,4 +244,3 @@ window.addEventListener("resize",resize);R.domElement.addEventListener("click",c
 </script>
 </body>
 </html>
-
