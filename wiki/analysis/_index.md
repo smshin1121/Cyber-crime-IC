@@ -3,10 +3,10 @@ type: category-index
 title: "Analysis"
 category: analysis
 created: 2026-04-08
-updated: 2026-04-18
+updated: 2026-04-20
 ---
 
-# Analysis (5)
+# Analysis (7)
 
 | Analysis | Type | Confidence | Scope | Date |
 |----------|------|------------|-------|------|
@@ -15,3 +15,5 @@ updated: 2026-04-18
 | [[international-cooperation-operation-audit-2026-04]] | — | — | — | 2026-04-19 |
 | [[operation-audit-queue-2026-04]] | — | — | — | 2026-04-19 |
 | [[priority-country-source-registry]] | gap-analysis | high | — | 2026-04-18 |
+| [[sna-pilot]] | effectiveness-assessment | medium | PoC v5 reproduction of paper.pdf 2-mode network methodology | 2026-04-20 |
+| [[sna-structure-and-roles]] | comparative-study | medium | Two-mode SNA (operation × country / agency / crime-type) main analysis + core-periphery + brokerage | 2026-04-20 |

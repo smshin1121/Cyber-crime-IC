@@ -1,0 +1,7513 @@
+{
+  "agency": {
+    "edges": [
+      [
+        "2bagoldmule-qqaazz",
+        "europol-ec3"
+      ],
+      [
+        "2bagoldmule-qqaazz",
+        "fbi-cyber-division"
+      ],
+      [
+        "2bagoldmule-qqaazz",
+        "portuguese-judicial-police"
+      ],
+      [
+        "2bagoldmule-qqaazz",
+        "spanish-national-police"
+      ],
+      [
+        "2bagoldmule-qqaazz",
+        "uk-nca"
+      ],
+      [
+        "2bagoldmule-qqaazz",
+        "us-doj"
+      ],
+      [
+        "africa-cyber-surge-ii",
+        "afripol"
+      ],
+      [
+        "africa-cyber-surge-ii",
+        "interpol"
+      ],
+      [
+        "alphabay-takedown",
+        "eurojust"
+      ],
+      [
+        "alphabay-takedown",
+        "europol-ec3"
+      ],
+      [
+        "alphabay-takedown",
+        "fbi-cyber-division"
+      ],
+      [
+        "alphabay-takedown",
+        "netherlands-politie"
+      ],
+      [
+        "andromeda-botnet-takedown",
+        "eurojust"
+      ],
+      [
+        "andromeda-botnet-takedown",
+        "europol-ec3"
+      ],
+      [
+        "andromeda-botnet-takedown",
+        "fbi-cyber-division"
+      ],
+      [
+        "andromeda-botnet-takedown",
+        "german-bka"
+      ],
+      [
+        "andromeda-botnet-takedown",
+        "j-cat"
+      ],
+      [
+        "andromeda-botnet-takedown",
+        "microsoft"
+      ],
+      [
+        "belgium-netherlands-phishing-gang",
+        "eurojust"
+      ],
+      [
+        "belgium-netherlands-phishing-gang",
+        "europol-ec3"
+      ],
+      [
+        "belgium-netherlands-phishing-gang",
+        "netherlands-politie"
+      ],
+      [
+        "bidencash-takedown",
+        "europol-ec3"
+      ],
+      [
+        "bidencash-takedown",
+        "fbi-cyber-division"
+      ],
+      [
+        "bidencash-takedown",
+        "netherlands-politie"
+      ],
+      [
+        "bidencash-takedown",
+        "us-doj"
+      ],
+      [
+        "bidencash-takedown",
+        "us-secret-service"
+      ],
+      [
+        "blackcat-lockeroga-kelvin-security-2023",
+        "eurojust"
+      ],
+      [
+        "blackcat-lockeroga-kelvin-security-2023",
+        "europol-ec3"
+      ],
+      [
+        "blackcat-lockeroga-kelvin-security-2023",
+        "fbi-cyber-division"
+      ],
+      [
+        "carbanak-cobalt-takedown",
+        "europol-ec3"
+      ],
+      [
+        "carbanak-cobalt-takedown",
+        "fbi-cyber-division"
+      ],
+      [
+        "carbanak-cobalt-takedown",
+        "kaspersky-lab"
+      ],
+      [
+        "carbanak-cobalt-takedown",
+        "romanian-police"
+      ],
+      [
+        "carbanak-cobalt-takedown",
+        "spanish-national-police"
+      ],
+      [
+        "carding-action-2020",
+        "europol-ec3"
+      ],
+      [
+        "carding-action-2020",
+        "group-ib"
+      ],
+      [
+        "cryptex-pm2btc-sanctions",
+        "netherlands-politie"
+      ],
+      [
+        "cryptex-pm2btc-sanctions",
+        "us-doj"
+      ],
+      [
+        "cryptex-pm2btc-sanctions",
+        "us-treasury"
+      ],
+      [
+        "cyber-fraud-international-2015",
+        "eurojust"
+      ],
+      [
+        "cyber-fraud-international-2015",
+        "europol-ec3"
+      ],
+      [
+        "cyber-fraud-international-2015",
+        "polizia-di-stato"
+      ],
+      [
+        "cyber-fraud-international-2015",
+        "spanish-national-police"
+      ],
+      [
+        "cyberbunker-takedown",
+        "europol-ec3"
+      ],
+      [
+        "cyberbunker-takedown",
+        "germany-bka"
+      ],
+      [
+        "cyberbunker-takedown",
+        "germany-lka"
+      ],
+      [
+        "darkmarket-takedown",
+        "australia-afp"
+      ],
+      [
+        "darkmarket-takedown",
+        "denmark-police"
+      ],
+      [
+        "darkmarket-takedown",
+        "europol-ec3"
+      ],
+      [
+        "darkmarket-takedown",
+        "fbi-cyber-division"
+      ],
+      [
+        "darkmarket-takedown",
+        "germany-bka"
+      ],
+      [
+        "darkmarket-takedown",
+        "uk-nca"
+      ],
+      [
+        "darkmarket-takedown",
+        "ukraine-police"
+      ],
+      [
+        "de-ch-crypto-mixer-takedown-2025",
+        "eurojust"
+      ],
+      [
+        "de-ch-crypto-mixer-takedown-2025",
+        "europol-ec3"
+      ],
+      [
+        "doublevpn-takedown",
+        "canada-rcmp"
+      ],
+      [
+        "doublevpn-takedown",
+        "eurojust"
+      ],
+      [
+        "doublevpn-takedown",
+        "europol-ec3"
+      ],
+      [
+        "doublevpn-takedown",
+        "fbi-cyber-division"
+      ],
+      [
+        "doublevpn-takedown",
+        "germany-bka"
+      ],
+      [
+        "doublevpn-takedown",
+        "netherlands-politie"
+      ],
+      [
+        "doublevpn-takedown",
+        "uk-nca"
+      ],
+      [
+        "doublevpn-takedown",
+        "us-doj"
+      ],
+      [
+        "doublevpn-takedown",
+        "us-secret-service"
+      ],
+      [
+        "dridex-operations",
+        "europol-ec3"
+      ],
+      [
+        "dridex-operations",
+        "fbi-cyber-division"
+      ],
+      [
+        "dridex-operations",
+        "germany-bka"
+      ],
+      [
+        "dridex-operations",
+        "uk-nca"
+      ],
+      [
+        "dridex-operations",
+        "us-doj"
+      ],
+      [
+        "dridex-operations",
+        "us-treasury"
+      ],
+      [
+        "emotet-takedown",
+        "eurojust"
+      ],
+      [
+        "emotet-takedown",
+        "europol-ec3"
+      ],
+      [
+        "emotet-takedown",
+        "fbi-cyber-division"
+      ],
+      [
+        "emotet-takedown",
+        "netherlands-politie"
+      ],
+      [
+        "fin7-takedown",
+        "fbi-cyber-division"
+      ],
+      [
+        "fin7-takedown",
+        "us-doj"
+      ],
+      [
+        "franco-israeli-ceo-fraud",
+        "croatia-hrvatska-policija"
+      ],
+      [
+        "franco-israeli-ceo-fraud",
+        "europol-ec3"
+      ],
+      [
+        "franco-israeli-ceo-fraud",
+        "france-gendarmerie"
+      ],
+      [
+        "franco-israeli-ceo-fraud",
+        "france-police-nationale"
+      ],
+      [
+        "franco-israeli-ceo-fraud",
+        "france-police-nationale-gendarmerie-nationale"
+      ],
+      [
+        "franco-israeli-ceo-fraud",
+        "hungary-budapesti-rendor-fokapitanysag"
+      ],
+      [
+        "franco-israeli-ceo-fraud",
+        "israel-police"
+      ],
+      [
+        "franco-israeli-ceo-fraud",
+        "portugal-policia-judiciaria"
+      ],
+      [
+        "franco-israeli-ceo-fraud",
+        "spain-policia-nacional"
+      ],
+      [
+        "imminent-monitor-rat-takedown",
+        "australia-afp"
+      ],
+      [
+        "imminent-monitor-rat-takedown",
+        "eurojust"
+      ],
+      [
+        "imminent-monitor-rat-takedown",
+        "europol-ec3"
+      ],
+      [
+        "korea-china-voice-phishing-qingdao",
+        "chinese-police-qingdao"
+      ],
+      [
+        "korea-china-voice-phishing-qingdao",
+        "seoul-metropolitan-police"
+      ],
+      [
+        "lumma-stealer-takedown",
+        "europol-ec3"
+      ],
+      [
+        "lumma-stealer-takedown",
+        "fbi-cyber-division"
+      ],
+      [
+        "lumma-stealer-takedown",
+        "japan-npa"
+      ],
+      [
+        "lumma-stealer-takedown",
+        "us-doj"
+      ],
+      [
+        "nemesis-market-takedown",
+        "dea"
+      ],
+      [
+        "nemesis-market-takedown",
+        "fbi-cyber-division"
+      ],
+      [
+        "nemesis-market-takedown",
+        "germany-bka"
+      ],
+      [
+        "nemesis-market-takedown",
+        "germany-frankfurt-prosecutor"
+      ],
+      [
+        "nemesis-market-takedown",
+        "irs-ci"
+      ],
+      [
+        "operation-105-arrested-for-stealing-over-eur-12-million-from-us-based-banks",
+        "europol-ec3"
+      ],
+      [
+        "operation-105-arrested-for-stealing-over-eur-12-million-from-us-based-banks",
+        "us-secret-service"
+      ],
+      [
+        "operation-australian-man-arrested-in-germany-accused-of-running-world-s-largest-darknet-marketplace",
+        "europol-ec3"
+      ],
+      [
+        "operation-australian-man-arrested-in-germany-accused-of-running-world-s-largest-darknet-marketplace",
+        "germany-bka"
+      ],
+      [
+        "operation-avalanche",
+        "eurojust"
+      ],
+      [
+        "operation-avalanche",
+        "europol-ec3"
+      ],
+      [
+        "operation-avalanche",
+        "fbi-cyber-division"
+      ],
+      [
+        "operation-avalanche",
+        "german-prosecution"
+      ],
+      [
+        "operation-avalanche",
+        "icann"
+      ],
+      [
+        "operation-avalanche",
+        "interpol"
+      ],
+      [
+        "operation-avalanche",
+        "shadowserver"
+      ],
+      [
+        "operation-avalanche",
+        "us-doj"
+      ],
+      [
+        "operation-bakovia",
+        "eurojust"
+      ],
+      [
+        "operation-bakovia",
+        "europol-ec3"
+      ],
+      [
+        "operation-bakovia",
+        "fbi-cyber-division"
+      ],
+      [
+        "operation-bakovia",
+        "netherlands-politie"
+      ],
+      [
+        "operation-bakovia",
+        "romania-diicot"
+      ],
+      [
+        "operation-bakovia",
+        "uk-nca"
+      ],
+      [
+        "operation-chakra-iii",
+        "cbi-india"
+      ],
+      [
+        "operation-chakra-iii",
+        "fbi-cyber-division"
+      ],
+      [
+        "operation-chakra-iii",
+        "interpol"
+      ],
+      [
+        "operation-chakra-iii",
+        "us-dhs"
+      ],
+      [
+        "operation-contender-2",
+        "afripol"
+      ],
+      [
+        "operation-contender-2",
+        "interpol"
+      ],
+      [
+        "operation-cronos-phase1",
+        "australia-afp"
+      ],
+      [
+        "operation-cronos-phase1",
+        "canada-rcmp"
+      ],
+      [
+        "operation-cronos-phase1",
+        "eurojust"
+      ],
+      [
+        "operation-cronos-phase1",
+        "europol-ec3"
+      ],
+      [
+        "operation-cronos-phase1",
+        "fbi-cyber-division"
+      ],
+      [
+        "operation-cronos-phase1",
+        "france-gendarmerie"
+      ],
+      [
+        "operation-cronos-phase1",
+        "germany-bka"
+      ],
+      [
+        "operation-cronos-phase1",
+        "japan-npa"
+      ],
+      [
+        "operation-cronos-phase1",
+        "netherlands-politie"
+      ],
+      [
+        "operation-cronos-phase1",
+        "sweden-police"
+      ],
+      [
+        "operation-cronos-phase1",
+        "switzerland-fedpol"
+      ],
+      [
+        "operation-cronos-phase1",
+        "uk-nca"
+      ],
+      [
+        "operation-cronos-phase3",
+        "australia-afp"
+      ],
+      [
+        "operation-cronos-phase3",
+        "canada-rcmp"
+      ],
+      [
+        "operation-cronos-phase3",
+        "eurojust"
+      ],
+      [
+        "operation-cronos-phase3",
+        "europol-ec3"
+      ],
+      [
+        "operation-cronos-phase3",
+        "fbi-cyber-division"
+      ],
+      [
+        "operation-cronos-phase3",
+        "france-gendarmerie"
+      ],
+      [
+        "operation-cronos-phase3",
+        "germany-bka"
+      ],
+      [
+        "operation-cronos-phase3",
+        "germany-lka"
+      ],
+      [
+        "operation-cronos-phase3",
+        "japan-npa"
+      ],
+      [
+        "operation-cronos-phase3",
+        "netherlands-politie"
+      ],
+      [
+        "operation-cronos-phase3",
+        "spain-guardia-civil"
+      ],
+      [
+        "operation-cronos-phase3",
+        "sweden-police"
+      ],
+      [
+        "operation-cronos-phase3",
+        "switzerland-fedpol"
+      ],
+      [
+        "operation-cronos-phase3",
+        "uk-nca"
+      ],
+      [
+        "operation-cyber-guardian",
+        "japan-npa"
+      ],
+      [
+        "operation-cyber-guardian",
+        "knpa-cyber-bureau"
+      ],
+      [
+        "operation-cyber-guardian",
+        "singapore-police"
+      ],
+      [
+        "operation-dark-huntor",
+        "eurojust"
+      ],
+      [
+        "operation-dark-huntor",
+        "europol-ec3"
+      ],
+      [
+        "operation-dark-huntor",
+        "fbi-cyber-division"
+      ],
+      [
+        "operation-dark-huntor",
+        "germany-bka"
+      ],
+      [
+        "operation-dark-huntor",
+        "netherlands-politie"
+      ],
+      [
+        "operation-dark-huntor",
+        "uk-nca"
+      ],
+      [
+        "operation-dark-huntor",
+        "us-doj"
+      ],
+      [
+        "operation-destabilise",
+        "fbi-cyber-division"
+      ],
+      [
+        "operation-destabilise",
+        "uk-nca"
+      ],
+      [
+        "operation-endgame",
+        "armenia-police"
+      ],
+      [
+        "operation-endgame",
+        "australia-afp"
+      ],
+      [
+        "operation-endgame",
+        "belgium-federal-police"
+      ],
+      [
+        "operation-endgame",
+        "bulgaria-police"
+      ],
+      [
+        "operation-endgame",
+        "canada-rcmp"
+      ],
+      [
+        "operation-endgame",
+        "denmark-police"
+      ],
+      [
+        "operation-endgame",
+        "eurojust"
+      ],
+      [
+        "operation-endgame",
+        "europol-ec3"
+      ],
+      [
+        "operation-endgame",
+        "fbi-cyber-division"
+      ],
+      [
+        "operation-endgame",
+        "france-gendarmerie"
+      ],
+      [
+        "operation-endgame",
+        "france-junalco"
+      ],
+      [
+        "operation-endgame",
+        "france-national-police"
+      ],
+      [
+        "operation-endgame",
+        "germany-bka"
+      ],
+      [
+        "operation-endgame",
+        "germany-frankfurt-prosecutor"
+      ],
+      [
+        "operation-endgame",
+        "germany-lka"
+      ],
+      [
+        "operation-endgame",
+        "lithuania-police"
+      ],
+      [
+        "operation-endgame",
+        "netherlands-politie"
+      ],
+      [
+        "operation-endgame",
+        "portugal-police"
+      ],
+      [
+        "operation-endgame",
+        "romania-police"
+      ],
+      [
+        "operation-endgame",
+        "switzerland-fedpol"
+      ],
+      [
+        "operation-endgame",
+        "uk-nca"
+      ],
+      [
+        "operation-endgame",
+        "ukraine-police"
+      ],
+      [
+        "operation-endgame",
+        "us-dcis"
+      ],
+      [
+        "operation-endgame",
+        "us-doj"
+      ],
+      [
+        "operation-endgame",
+        "us-secret-service"
+      ],
+      [
+        "operation-endgame-phase1",
+        "armenia-police"
+      ],
+      [
+        "operation-endgame-phase1",
+        "bulgaria-police"
+      ],
+      [
+        "operation-endgame-phase1",
+        "denmark-police"
+      ],
+      [
+        "operation-endgame-phase1",
+        "eurojust"
+      ],
+      [
+        "operation-endgame-phase1",
+        "europol-ec3"
+      ],
+      [
+        "operation-endgame-phase1",
+        "fbi-cyber-division"
+      ],
+      [
+        "operation-endgame-phase1",
+        "france-national-police"
+      ],
+      [
+        "operation-endgame-phase1",
+        "germany-bka"
+      ],
+      [
+        "operation-endgame-phase1",
+        "lithuania-police"
+      ],
+      [
+        "operation-endgame-phase1",
+        "netherlands-politie"
+      ],
+      [
+        "operation-endgame-phase1",
+        "portugal-police"
+      ],
+      [
+        "operation-endgame-phase1",
+        "romania-police"
+      ],
+      [
+        "operation-endgame-phase1",
+        "switzerland-fedpol"
+      ],
+      [
+        "operation-endgame-phase1",
+        "uk-nca"
+      ],
+      [
+        "operation-endgame-phase1",
+        "ukraine-police"
+      ],
+      [
+        "operation-endgame-phase2",
+        "canada-rcmp"
+      ],
+      [
+        "operation-endgame-phase2",
+        "denmark-police"
+      ],
+      [
+        "operation-endgame-phase2",
+        "eurojust"
+      ],
+      [
+        "operation-endgame-phase2",
+        "europol-ec3"
+      ],
+      [
+        "operation-endgame-phase2",
+        "fbi-cyber-division"
+      ],
+      [
+        "operation-endgame-phase2",
+        "france-gendarmerie"
+      ],
+      [
+        "operation-endgame-phase2",
+        "france-junalco"
+      ],
+      [
+        "operation-endgame-phase2",
+        "france-national-police"
+      ],
+      [
+        "operation-endgame-phase2",
+        "germany-bka"
+      ],
+      [
+        "operation-endgame-phase2",
+        "germany-frankfurt-prosecutor"
+      ],
+      [
+        "operation-endgame-phase2",
+        "netherlands-politie"
+      ],
+      [
+        "operation-endgame-phase2",
+        "uk-nca"
+      ],
+      [
+        "operation-endgame-phase2",
+        "us-dcis"
+      ],
+      [
+        "operation-endgame-phase2",
+        "us-doj"
+      ],
+      [
+        "operation-endgame-phase2",
+        "us-secret-service"
+      ],
+      [
+        "operation-eur-100m-crypto-investment-fraud-2025",
+        "eurojust"
+      ],
+      [
+        "operation-eur-100m-crypto-investment-fraud-2025",
+        "europol-ec3"
+      ],
+      [
+        "operation-eur-100m-crypto-investment-fraud-2025",
+        "spain-national-police"
+      ],
+      [
+        "operation-eur-100m-illegal-financial-service-laundering-2025",
+        "eurojust"
+      ],
+      [
+        "operation-eur-100m-illegal-financial-service-laundering-2025",
+        "europol-ec3"
+      ],
+      [
+        "operation-eur-100m-illegal-financial-service-laundering-2025",
+        "spain-guardia-civil"
+      ],
+      [
+        "operation-eur-300m-global-credit-card-fraud-2025",
+        "eurojust"
+      ],
+      [
+        "operation-eur-300m-global-credit-card-fraud-2025",
+        "europol-ec3"
+      ],
+      [
+        "operation-eur-300m-global-credit-card-fraud-2025",
+        "uk-nca"
+      ],
+      [
+        "operation-eur-3m-online-investment-fraud-2025",
+        "eurojust"
+      ],
+      [
+        "operation-eur-3m-online-investment-fraud-2025",
+        "europol-ec3"
+      ],
+      [
+        "operation-eur-3m-online-investment-fraud-2025",
+        "uk-nca"
+      ],
+      [
+        "operation-goldfish-alpha-night-fury",
+        "interpol"
+      ],
+      [
+        "operation-goldfish-alpha-night-fury",
+        "interpol-asean-desk"
+      ],
+      [
+        "operation-haechi-iii",
+        "interpol"
+      ],
+      [
+        "operation-haechi-iii",
+        "knpa"
+      ],
+      [
+        "operation-haechi-iv",
+        "interpol"
+      ],
+      [
+        "operation-haechi-iv",
+        "knpa-cyber-bureau"
+      ],
+      [
+        "operation-haechi-vi",
+        "interpol"
+      ],
+      [
+        "operation-haechi-vi",
+        "knpa-cyber-bureau"
+      ],
+      [
+        "operation-heart-blocker",
+        "fbi-cyber-division"
+      ],
+      [
+        "operation-heart-blocker",
+        "netherlands-politie"
+      ],
+      [
+        "operation-heart-blocker",
+        "pakistan-fia"
+      ],
+      [
+        "operation-heart-blocker",
+        "us-doj"
+      ],
+      [
+        "operation-killer-bee",
+        "interpol"
+      ],
+      [
+        "operation-killer-bee",
+        "interpol-asean-desk"
+      ],
+      [
+        "operation-killer-bee",
+        "nigerian-efcc"
+      ],
+      [
+        "operation-killer-bee",
+        "trend-micro"
+      ],
+      [
+        "operation-kraken-ghost-platform",
+        "australia-afp"
+      ],
+      [
+        "operation-kraken-ghost-platform",
+        "canada-rcmp"
+      ],
+      [
+        "operation-kraken-ghost-platform",
+        "europol-ec3"
+      ],
+      [
+        "operation-kraken-ghost-platform",
+        "fbi-cyber-division"
+      ],
+      [
+        "operation-kraken-ghost-platform",
+        "france-gendarmerie"
+      ],
+      [
+        "operation-kraken-ghost-platform",
+        "ireland-garda"
+      ],
+      [
+        "operation-kraken-ghost-platform",
+        "italy-dcsa"
+      ],
+      [
+        "operation-kraken-ghost-platform",
+        "netherlands-politie"
+      ],
+      [
+        "operation-kraken-ghost-platform",
+        "sweden-police"
+      ],
+      [
+        "operation-onymous",
+        "eurojust"
+      ],
+      [
+        "operation-onymous",
+        "europol-ec3"
+      ],
+      [
+        "operation-onymous",
+        "fbi-cyber-division"
+      ],
+      [
+        "operation-onymous",
+        "us-dhs"
+      ],
+      [
+        "operation-orion-international",
+        "interpol"
+      ],
+      [
+        "operation-orion-international",
+        "unodc"
+      ],
+      [
+        "operation-pleiades",
+        "europol-ec3"
+      ],
+      [
+        "operation-pleiades",
+        "fbi-cyber-division"
+      ],
+      [
+        "operation-pleiades",
+        "interpol"
+      ],
+      [
+        "operation-pleiades",
+        "j-cat"
+      ],
+      [
+        "operation-pleiades",
+        "london-metropolitan-police"
+      ],
+      [
+        "operation-pleiades",
+        "us-secret-service"
+      ],
+      [
+        "operation-power-off",
+        "australia-afp"
+      ],
+      [
+        "operation-power-off",
+        "canada-rcmp"
+      ],
+      [
+        "operation-power-off",
+        "europol-ec3"
+      ],
+      [
+        "operation-power-off",
+        "fbi-cyber-division"
+      ],
+      [
+        "operation-power-off",
+        "germany-bka"
+      ],
+      [
+        "operation-power-off",
+        "japan-npa"
+      ],
+      [
+        "operation-power-off",
+        "netherlands-politie"
+      ],
+      [
+        "operation-power-off",
+        "uk-nca"
+      ],
+      [
+        "operation-power-off",
+        "us-doj"
+      ],
+      [
+        "operation-red-card",
+        "afripol"
+      ],
+      [
+        "operation-red-card",
+        "interpol"
+      ],
+      [
+        "operation-rewired",
+        "fbi-cyber-division"
+      ],
+      [
+        "operation-rewired",
+        "ic3"
+      ],
+      [
+        "operation-rewired",
+        "us-dhs"
+      ],
+      [
+        "operation-rewired",
+        "us-doj"
+      ],
+      [
+        "operation-rewired",
+        "us-secret-service"
+      ],
+      [
+        "operation-secreto",
+        "eurojust"
+      ],
+      [
+        "operation-secreto",
+        "europol-ec3"
+      ],
+      [
+        "operation-secreto",
+        "spanish-national-police"
+      ],
+      [
+        "operation-secreto",
+        "us-doj"
+      ],
+      [
+        "operation-secreto",
+        "us-secret-service"
+      ],
+      [
+        "operation-sentinel-africa",
+        "afripol"
+      ],
+      [
+        "operation-sentinel-africa",
+        "interpol"
+      ],
+      [
+        "operation-source",
+        "dutch-nhtcu"
+      ],
+      [
+        "operation-source",
+        "europol-ec3"
+      ],
+      [
+        "operation-source",
+        "fbi-cyber-division"
+      ],
+      [
+        "operation-source",
+        "intel-security"
+      ],
+      [
+        "operation-source",
+        "j-cat"
+      ],
+      [
+        "operation-source",
+        "kaspersky-lab"
+      ],
+      [
+        "operation-source",
+        "shadowserver"
+      ],
+      [
+        "operation-stream-kidflix",
+        "europol-ec3"
+      ],
+      [
+        "operation-stream-kidflix",
+        "germany-bka"
+      ],
+      [
+        "operation-stream-kidflix",
+        "netherlands-politie"
+      ],
+      [
+        "operation-talent",
+        "europol-ec3"
+      ],
+      [
+        "operation-talent",
+        "fbi-cyber-division"
+      ],
+      [
+        "operation-talent",
+        "germany-bka"
+      ],
+      [
+        "operation-talent",
+        "us-doj"
+      ],
+      [
+        "operation-trojan-shield",
+        "australia-afp"
+      ],
+      [
+        "operation-trojan-shield",
+        "europol-ec3"
+      ],
+      [
+        "operation-trojan-shield",
+        "fbi-cyber-division"
+      ],
+      [
+        "operation-trojan-shield",
+        "netherlands-politie"
+      ],
+      [
+        "operation-trojan-shield",
+        "sweden-police"
+      ],
+      [
+        "operation-wirewire",
+        "fbi-cyber-division"
+      ],
+      [
+        "operation-wirewire",
+        "us-dhs"
+      ],
+      [
+        "operation-wirewire",
+        "us-doj"
+      ],
+      [
+        "operation-wirewire",
+        "us-postal-inspection"
+      ],
+      [
+        "operation-wirewire",
+        "us-treasury"
+      ],
+      [
+        "phobos-8base-crackdown",
+        "eurojust"
+      ],
+      [
+        "phobos-8base-crackdown",
+        "europol-ec3"
+      ],
+      [
+        "phobos-8base-crackdown",
+        "fbi-cyber-division"
+      ],
+      [
+        "phobos-8base-crackdown",
+        "germany-bka"
+      ],
+      [
+        "phobos-8base-crackdown",
+        "japan-npa"
+      ],
+      [
+        "phobos-8base-crackdown",
+        "spain-guardia-civil"
+      ],
+      [
+        "phobos-8base-crackdown",
+        "uk-nca"
+      ],
+      [
+        "proxy-service-takedown-2026-03",
+        "eurojust"
+      ],
+      [
+        "proxy-service-takedown-2026-03",
+        "europol-ec3"
+      ],
+      [
+        "qqaazz-money-laundering-takedown",
+        "europol-ec3"
+      ],
+      [
+        "qqaazz-money-laundering-takedown",
+        "fbi-cyber-division"
+      ],
+      [
+        "ramnit-botnet-takedown",
+        "eurojust"
+      ],
+      [
+        "ramnit-botnet-takedown",
+        "europol-ec3"
+      ],
+      [
+        "ramnit-botnet-takedown",
+        "uk-nca"
+      ],
+      [
+        "rex-mundi-takedown",
+        "europol-ec3"
+      ],
+      [
+        "rex-mundi-takedown",
+        "french-high-tech-crime-unit"
+      ],
+      [
+        "rex-mundi-takedown",
+        "j-cat"
+      ],
+      [
+        "rex-mundi-takedown",
+        "london-metropolitan-police"
+      ],
+      [
+        "rex-mundi-takedown",
+        "thai-royal-police"
+      ],
+      [
+        "rydox-marketplace-takedown",
+        "fbi-cyber-division"
+      ],
+      [
+        "rydox-marketplace-takedown",
+        "us-doj"
+      ],
+      [
+        "silk-road-takedown",
+        "fbi-cyber-division"
+      ],
+      [
+        "silk-road-takedown",
+        "us-doj"
+      ],
+      [
+        "simda-botnet-takedown",
+        "dutch-nhtcu"
+      ],
+      [
+        "simda-botnet-takedown",
+        "fbi-cyber-division"
+      ],
+      [
+        "simda-botnet-takedown",
+        "interpol"
+      ],
+      [
+        "simda-botnet-takedown",
+        "kaspersky-lab"
+      ],
+      [
+        "simda-botnet-takedown",
+        "microsoft"
+      ],
+      [
+        "simda-botnet-takedown",
+        "russian-ministry-of-interior"
+      ],
+      [
+        "simda-botnet-takedown",
+        "trend-micro"
+      ],
+      [
+        "trickbot-operations",
+        "fbi-cyber-division"
+      ],
+      [
+        "trickbot-operations",
+        "us-doj"
+      ],
+      [
+        "trickbot-operations",
+        "us-secret-service"
+      ],
+      [
+        "vpnlab-takedown",
+        "canada-rcmp"
+      ],
+      [
+        "vpnlab-takedown",
+        "czechia-police"
+      ],
+      [
+        "vpnlab-takedown",
+        "eurojust"
+      ],
+      [
+        "vpnlab-takedown",
+        "europol-ec3"
+      ],
+      [
+        "vpnlab-takedown",
+        "fbi-cyber-division"
+      ],
+      [
+        "vpnlab-takedown",
+        "france-national-police"
+      ],
+      [
+        "vpnlab-takedown",
+        "germany-lka"
+      ],
+      [
+        "vpnlab-takedown",
+        "latvia-state-police"
+      ],
+      [
+        "vpnlab-takedown",
+        "netherlands-politie"
+      ],
+      [
+        "vpnlab-takedown",
+        "uk-nca"
+      ],
+      [
+        "vpnlab-takedown",
+        "ukraine-police"
+      ],
+      [
+        "xdedic-marketplace-takedown",
+        "europol-ec3"
+      ],
+      [
+        "xdedic-marketplace-takedown",
+        "fbi-cyber-division"
+      ],
+      [
+        "zeus-spyeye-jit-takedown",
+        "eurojust"
+      ],
+      [
+        "zeus-spyeye-jit-takedown",
+        "europol-ec3"
+      ]
+    ],
+    "nodes": [
+      {
+        "betweenness": 0.0002684563758389,
+        "brokerage": {
+          "consultant": 0,
+          "coordinator": 0,
+          "gatekeeper": 0,
+          "liaison": 0,
+          "representative": 0,
+          "total": 0
+        },
+        "core_periphery": "periphery",
+        "degree": 0.0547945205479452,
+        "partition": "regional-org",
+        "role": "participant",
+        "slug": "afripol"
+      },
+      {
+        "betweenness": 3.5359879677756065e-05,
+        "brokerage": {
+          "consultant": 0,
+          "coordinator": 0,
+          "gatekeeper": 0,
+          "liaison": 0,
+          "representative": 0,
+          "total": 0
+        },
+        "core_periphery": "periphery",
+        "degree": 0.0273972602739726,
+        "partition": "national-unit",
+        "role": "participant",
+        "slug": "armenia-police"
+      },
+      {
+        "betweenness": 0.0035034875921558,
+        "brokerage": {
+          "consultant": 68,
+          "coordinator": 12,
+          "gatekeeper": 36,
+          "liaison": 14,
+          "representative": 36,
+          "total": 166
+        },
+        "core_periphery": "core",
+        "degree": 0.1095890410958904,
+        "partition": "national-agency",
+        "role": "participant",
+        "slug": "australia-afp"
+      },
+      {
+        "betweenness": 0.0,
+        "brokerage": {
+          "consultant": 0,
+          "coordinator": 0,
+          "gatekeeper": 0,
+          "liaison": 0,
+          "representative": 0,
+          "total": 0
+        },
+        "core_periphery": "core",
+        "degree": 0.0136986301369863,
+        "partition": "national-unit",
+        "role": "participant",
+        "slug": "belgium-federal-police"
+      },
+      {
+        "betweenness": 3.5359879677756065e-05,
+        "brokerage": {
+          "consultant": 0,
+          "coordinator": 0,
+          "gatekeeper": 0,
+          "liaison": 0,
+          "representative": 0,
+          "total": 0
+        },
+        "core_periphery": "core",
+        "degree": 0.0273972602739726,
+        "partition": "national-unit",
+        "role": "participant",
+        "slug": "bulgaria-police"
+      },
+      {
+        "betweenness": 0.0034219719785334,
+        "brokerage": {
+          "consultant": 12,
+          "coordinator": 120,
+          "gatekeeper": 54,
+          "liaison": 10,
+          "representative": 54,
+          "total": 250
+        },
+        "core_periphery": "core",
+        "degree": 0.1095890410958904,
+        "partition": "national-unit",
+        "role": "internal-coordinator",
+        "slug": "canada-rcmp"
+      },
+      {
+        "betweenness": 0.0,
+        "brokerage": {
+          "consultant": 0,
+          "coordinator": 0,
+          "gatekeeper": 0,
+          "liaison": 0,
+          "representative": 0,
+          "total": 0
+        },
+        "core_periphery": "periphery",
+        "degree": 0.0136986301369863,
+        "partition": "national-agency",
+        "role": "participant",
+        "slug": "cbi-india"
+      },
+      {
+        "betweenness": 0.0,
+        "brokerage": {
+          "consultant": 0,
+          "coordinator": 0,
+          "gatekeeper": 0,
+          "liaison": 0,
+          "representative": 0,
+          "total": 0
+        },
+        "core_periphery": "periphery",
+        "degree": 0.0136986301369863,
+        "partition": "unknown",
+        "role": "participant",
+        "slug": "chinese-police-qingdao"
+      },
+      {
+        "betweenness": 0.0,
+        "brokerage": {
+          "consultant": 0,
+          "coordinator": 0,
+          "gatekeeper": 0,
+          "liaison": 0,
+          "representative": 0,
+          "total": 0
+        },
+        "core_periphery": "periphery",
+        "degree": 0.0136986301369863,
+        "partition": "unknown",
+        "role": "participant",
+        "slug": "croatia-hrvatska-policija"
+      },
+      {
+        "betweenness": 0.0,
+        "brokerage": {
+          "consultant": 0,
+          "coordinator": 0,
+          "gatekeeper": 0,
+          "liaison": 0,
+          "representative": 0,
+          "total": 0
+        },
+        "core_periphery": "periphery",
+        "degree": 0.0136986301369863,
+        "partition": "national-unit",
+        "role": "participant",
+        "slug": "czechia-police"
+      },
+      {
+        "betweenness": 0.0,
+        "brokerage": {
+          "consultant": 0,
+          "coordinator": 0,
+          "gatekeeper": 0,
+          "liaison": 0,
+          "representative": 0,
+          "total": 0
+        },
+        "core_periphery": "periphery",
+        "degree": 0.0136986301369863,
+        "partition": "unknown",
+        "role": "participant",
+        "slug": "dea"
+      },
+      {
+        "betweenness": 0.0003654076196493,
+        "brokerage": {
+          "consultant": 0,
+          "coordinator": 0,
+          "gatekeeper": 0,
+          "liaison": 0,
+          "representative": 0,
+          "total": 0
+        },
+        "core_periphery": "core",
+        "degree": 0.0547945205479452,
+        "partition": "national-unit",
+        "role": "participant",
+        "slug": "denmark-police"
+      },
+      {
+        "betweenness": 0.0008174933568291,
+        "brokerage": {
+          "consultant": 8,
+          "coordinator": 0,
+          "gatekeeper": 0,
+          "liaison": 14,
+          "representative": 0,
+          "total": 22
+        },
+        "core_periphery": "periphery",
+        "degree": 0.0273972602739726,
+        "partition": "national-unit",
+        "role": "participant",
+        "slug": "dutch-nhtcu"
+      },
+      {
+        "betweenness": 0.0715764695724656,
+        "brokerage": {
+          "consultant": 178,
+          "coordinator": 0,
+          "gatekeeper": 0,
+          "liaison": 710,
+          "representative": 0,
+          "total": 888
+        },
+        "core_periphery": "core",
+        "degree": 0.3835616438356164,
+        "partition": "regional-org",
+        "role": "liaison-broker",
+        "slug": "eurojust"
+      },
+      {
+        "betweenness": 0.3689408292268611,
+        "brokerage": {
+          "consultant": 412,
+          "coordinator": 0,
+          "gatekeeper": 19,
+          "liaison": 2178,
+          "representative": 19,
+          "total": 2628
+        },
+        "core_periphery": "core",
+        "degree": 0.6712328767123288,
+        "partition": "regional-org",
+        "role": "liaison-broker",
+        "slug": "europol-ec3"
+      },
+      {
+        "betweenness": 0.2924969991455478,
+        "brokerage": {
+          "consultant": 230,
+          "coordinator": 202,
+          "gatekeeper": 492,
+          "liaison": 776,
+          "representative": 492,
+          "total": 2192
+        },
+        "core_periphery": "core",
+        "degree": 0.5616438356164384,
+        "partition": "national-agency",
+        "role": "hub",
+        "slug": "fbi-cyber-division"
+      },
+      {
+        "betweenness": 0.0126157591829867,
+        "brokerage": {
+          "consultant": 12,
+          "coordinator": 68,
+          "gatekeeper": 150,
+          "liaison": 178,
+          "representative": 150,
+          "total": 558
+        },
+        "core_periphery": "core",
+        "degree": 0.0821917808219178,
+        "partition": "national-unit",
+        "role": "regional-coordinator",
+        "slug": "france-gendarmerie"
+      },
+      {
+        "betweenness": 4.072080683865016e-05,
+        "brokerage": {
+          "consultant": 0,
+          "coordinator": 0,
+          "gatekeeper": 0,
+          "liaison": 0,
+          "representative": 0,
+          "total": 0
+        },
+        "core_periphery": "core",
+        "degree": 0.0273972602739726,
+        "partition": "prosecution-office",
+        "role": "participant",
+        "slug": "france-junalco"
+      },
+      {
+        "betweenness": 0.0006509400339331,
+        "brokerage": {
+          "consultant": 0,
+          "coordinator": 40,
+          "gatekeeper": 12,
+          "liaison": 0,
+          "representative": 12,
+          "total": 64
+        },
+        "core_periphery": "core",
+        "degree": 0.0547945205479452,
+        "partition": "national-unit",
+        "role": "participant",
+        "slug": "france-national-police"
+      },
+      {
+        "betweenness": 0.0,
+        "brokerage": {
+          "consultant": 0,
+          "coordinator": 0,
+          "gatekeeper": 0,
+          "liaison": 0,
+          "representative": 0,
+          "total": 0
+        },
+        "core_periphery": "periphery",
+        "degree": 0.0136986301369863,
+        "partition": "unknown",
+        "role": "participant",
+        "slug": "france-police-nationale"
+      },
+      {
+        "betweenness": 0.0,
+        "brokerage": {
+          "consultant": 0,
+          "coordinator": 0,
+          "gatekeeper": 0,
+          "liaison": 0,
+          "representative": 0,
+          "total": 0
+        },
+        "core_periphery": "periphery",
+        "degree": 0.0136986301369863,
+        "partition": "unknown",
+        "role": "participant",
+        "slug": "france-police-nationale-gendarmerie-nationale"
+      },
+      {
+        "betweenness": 0.0,
+        "brokerage": {
+          "consultant": 0,
+          "coordinator": 0,
+          "gatekeeper": 0,
+          "liaison": 0,
+          "representative": 0,
+          "total": 0
+        },
+        "core_periphery": "periphery",
+        "degree": 0.0136986301369863,
+        "partition": "unknown",
+        "role": "participant",
+        "slug": "french-high-tech-crime-unit"
+      },
+      {
+        "betweenness": 0.0,
+        "brokerage": {
+          "consultant": 0,
+          "coordinator": 0,
+          "gatekeeper": 0,
+          "liaison": 0,
+          "representative": 0,
+          "total": 0
+        },
+        "core_periphery": "periphery",
+        "degree": 0.0136986301369863,
+        "partition": "national-agency",
+        "role": "participant",
+        "slug": "german-bka"
+      },
+      {
+        "betweenness": 0.0,
+        "brokerage": {
+          "consultant": 0,
+          "coordinator": 0,
+          "gatekeeper": 0,
+          "liaison": 0,
+          "representative": 0,
+          "total": 0
+        },
+        "core_periphery": "periphery",
+        "degree": 0.0136986301369863,
+        "partition": "prosecutorial-authority",
+        "role": "participant",
+        "slug": "german-prosecution"
+      },
+      {
+        "betweenness": 0.018760986024794,
+        "brokerage": {
+          "consultant": 44,
+          "coordinator": 8,
+          "gatekeeper": 47,
+          "liaison": 84,
+          "representative": 47,
+          "total": 230
+        },
+        "core_periphery": "core",
+        "degree": 0.2191780821917808,
+        "partition": "national-agency",
+        "role": "participant",
+        "slug": "germany-bka"
+      },
+      {
+        "betweenness": 0.0016645833038508,
+        "brokerage": {
+          "consultant": 0,
+          "coordinator": 0,
+          "gatekeeper": 2,
+          "liaison": 84,
+          "representative": 2,
+          "total": 88
+        },
+        "core_periphery": "core",
+        "degree": 0.0410958904109589,
+        "partition": "prosecution-office",
+        "role": "participant",
+        "slug": "germany-frankfurt-prosecutor"
+      },
+      {
+        "betweenness": 0.0012771006238811,
+        "brokerage": {
+          "consultant": 92,
+          "coordinator": 0,
+          "gatekeeper": 25,
+          "liaison": 16,
+          "representative": 25,
+          "total": 158
+        },
+        "core_periphery": "core",
+        "degree": 0.0547945205479452,
+        "partition": "national-agency",
+        "role": "participant",
+        "slug": "germany-lka"
+      },
+      {
+        "betweenness": 0.0,
+        "brokerage": {
+          "consultant": 0,
+          "coordinator": 0,
+          "gatekeeper": 0,
+          "liaison": 0,
+          "representative": 0,
+          "total": 0
+        },
+        "core_periphery": "periphery",
+        "degree": 0.0136986301369863,
+        "partition": "private-sector-partner",
+        "role": "participant",
+        "slug": "group-ib"
+      },
+      {
+        "betweenness": 0.0,
+        "brokerage": {
+          "consultant": 0,
+          "coordinator": 0,
+          "gatekeeper": 0,
+          "liaison": 0,
+          "representative": 0,
+          "total": 0
+        },
+        "core_periphery": "periphery",
+        "degree": 0.0136986301369863,
+        "partition": "unknown",
+        "role": "participant",
+        "slug": "hungary-budapesti-rendor-fokapitanysag"
+      },
+      {
+        "betweenness": 0.0,
+        "brokerage": {
+          "consultant": 0,
+          "coordinator": 0,
+          "gatekeeper": 0,
+          "liaison": 0,
+          "representative": 0,
+          "total": 0
+        },
+        "core_periphery": "periphery",
+        "degree": 0.0136986301369863,
+        "partition": "national-unit",
+        "role": "participant",
+        "slug": "ic3"
+      },
+      {
+        "betweenness": 0.0,
+        "brokerage": {
+          "consultant": 0,
+          "coordinator": 0,
+          "gatekeeper": 0,
+          "liaison": 0,
+          "representative": 0,
+          "total": 0
+        },
+        "core_periphery": "periphery",
+        "degree": 0.0136986301369863,
+        "partition": "international-org",
+        "role": "participant",
+        "slug": "icann"
+      },
+      {
+        "betweenness": 0.0,
+        "brokerage": {
+          "consultant": 0,
+          "coordinator": 0,
+          "gatekeeper": 0,
+          "liaison": 0,
+          "representative": 0,
+          "total": 0
+        },
+        "core_periphery": "periphery",
+        "degree": 0.0136986301369863,
+        "partition": "private-sector",
+        "role": "participant",
+        "slug": "intel-security"
+      },
+      {
+        "betweenness": 0.1904569352743165,
+        "brokerage": {
+          "consultant": 42,
+          "coordinator": 2,
+          "gatekeeper": 36,
+          "liaison": 254,
+          "representative": 36,
+          "total": 370
+        },
+        "core_periphery": "core",
+        "degree": 0.1917808219178082,
+        "partition": "international-org",
+        "role": "liaison-broker",
+        "slug": "interpol"
+      },
+      {
+        "betweenness": 0.0001193139448173,
+        "brokerage": {
+          "consultant": 0,
+          "coordinator": 0,
+          "gatekeeper": 0,
+          "liaison": 0,
+          "representative": 0,
+          "total": 0
+        },
+        "core_periphery": "periphery",
+        "degree": 0.0273972602739726,
+        "partition": "unknown",
+        "role": "participant",
+        "slug": "interpol-asean-desk"
+      },
+      {
+        "betweenness": 0.0,
+        "brokerage": {
+          "consultant": 0,
+          "coordinator": 0,
+          "gatekeeper": 0,
+          "liaison": 0,
+          "representative": 0,
+          "total": 0
+        },
+        "core_periphery": "periphery",
+        "degree": 0.0136986301369863,
+        "partition": "national-unit",
+        "role": "participant",
+        "slug": "ireland-garda"
+      },
+      {
+        "betweenness": 0.0,
+        "brokerage": {
+          "consultant": 0,
+          "coordinator": 0,
+          "gatekeeper": 0,
+          "liaison": 0,
+          "representative": 0,
+          "total": 0
+        },
+        "core_periphery": "periphery",
+        "degree": 0.0136986301369863,
+        "partition": "unknown",
+        "role": "participant",
+        "slug": "irs-ci"
+      },
+      {
+        "betweenness": 0.0,
+        "brokerage": {
+          "consultant": 0,
+          "coordinator": 0,
+          "gatekeeper": 0,
+          "liaison": 0,
+          "representative": 0,
+          "total": 0
+        },
+        "core_periphery": "periphery",
+        "degree": 0.0136986301369863,
+        "partition": "unknown",
+        "role": "participant",
+        "slug": "israel-police"
+      },
+      {
+        "betweenness": 0.0,
+        "brokerage": {
+          "consultant": 0,
+          "coordinator": 0,
+          "gatekeeper": 0,
+          "liaison": 0,
+          "representative": 0,
+          "total": 0
+        },
+        "core_periphery": "periphery",
+        "degree": 0.0136986301369863,
+        "partition": "national-agency",
+        "role": "participant",
+        "slug": "italy-dcsa"
+      },
+      {
+        "betweenness": 0.0039816377793031,
+        "brokerage": {
+          "consultant": 8,
+          "coordinator": 0,
+          "gatekeeper": 20,
+          "liaison": 40,
+          "representative": 20,
+          "total": 88
+        },
+        "core_periphery": "core",
+        "degree": 0.0547945205479452,
+        "partition": "unknown",
+        "role": "participant",
+        "slug": "j-cat"
+      },
+      {
+        "betweenness": 0.0292017662573124,
+        "brokerage": {
+          "consultant": 20,
+          "coordinator": 0,
+          "gatekeeper": 16,
+          "liaison": 8,
+          "representative": 16,
+          "total": 60
+        },
+        "core_periphery": "core",
+        "degree": 0.0821917808219178,
+        "partition": "national-agency",
+        "role": "participant",
+        "slug": "japan-npa"
+      },
+      {
+        "betweenness": 0.0022499607392197,
+        "brokerage": {
+          "consultant": 4,
+          "coordinator": 4,
+          "gatekeeper": 11,
+          "liaison": 24,
+          "representative": 11,
+          "total": 54
+        },
+        "core_periphery": "periphery",
+        "degree": 0.0410958904109589,
+        "partition": "private-sector",
+        "role": "participant",
+        "slug": "kaspersky-lab"
+      },
+      {
+        "betweenness": 0.0,
+        "brokerage": {
+          "consultant": 0,
+          "coordinator": 0,
+          "gatekeeper": 0,
+          "liaison": 0,
+          "representative": 0,
+          "total": 0
+        },
+        "core_periphery": "periphery",
+        "degree": 0.0136986301369863,
+        "partition": "national-agency",
+        "role": "participant",
+        "slug": "knpa"
+      },
+      {
+        "betweenness": 0.0038444209722315,
+        "brokerage": {
+          "consultant": 0,
+          "coordinator": 0,
+          "gatekeeper": 1,
+          "liaison": 2,
+          "representative": 1,
+          "total": 4
+        },
+        "core_periphery": "periphery",
+        "degree": 0.0410958904109589,
+        "partition": "national-unit",
+        "role": "participant",
+        "slug": "knpa-cyber-bureau"
+      },
+      {
+        "betweenness": 0.0,
+        "brokerage": {
+          "consultant": 0,
+          "coordinator": 0,
+          "gatekeeper": 0,
+          "liaison": 0,
+          "representative": 0,
+          "total": 0
+        },
+        "core_periphery": "periphery",
+        "degree": 0.0136986301369863,
+        "partition": "national-unit",
+        "role": "participant",
+        "slug": "latvia-state-police"
+      },
+      {
+        "betweenness": 3.5359879677756065e-05,
+        "brokerage": {
+          "consultant": 0,
+          "coordinator": 0,
+          "gatekeeper": 0,
+          "liaison": 0,
+          "representative": 0,
+          "total": 0
+        },
+        "core_periphery": "core",
+        "degree": 0.0273972602739726,
+        "partition": "national-unit",
+        "role": "participant",
+        "slug": "lithuania-police"
+      },
+      {
+        "betweenness": 0.0013973781246452,
+        "brokerage": {
+          "consultant": 0,
+          "coordinator": 0,
+          "gatekeeper": 2,
+          "liaison": 8,
+          "representative": 2,
+          "total": 12
+        },
+        "core_periphery": "periphery",
+        "degree": 0.0273972602739726,
+        "partition": "national-agency",
+        "role": "participant",
+        "slug": "london-metropolitan-police"
+      },
+      {
+        "betweenness": 0.0009966698632352,
+        "brokerage": {
+          "consultant": 4,
+          "coordinator": 0,
+          "gatekeeper": 2,
+          "liaison": 18,
+          "representative": 2,
+          "total": 26
+        },
+        "core_periphery": "core",
+        "degree": 0.0273972602739726,
+        "partition": "private-sector",
+        "role": "participant",
+        "slug": "microsoft"
+      },
+      {
+        "betweenness": 0.0263004002361076,
+        "brokerage": {
+          "consultant": 42,
+          "coordinator": 120,
+          "gatekeeper": 108,
+          "liaison": 42,
+          "representative": 108,
+          "total": 420
+        },
+        "core_periphery": "core",
+        "degree": 0.2602739726027397,
+        "partition": "national-unit",
+        "role": "regional-coordinator",
+        "slug": "netherlands-politie"
+      },
+      {
+        "betweenness": 0.0,
+        "brokerage": {
+          "consultant": 0,
+          "coordinator": 0,
+          "gatekeeper": 0,
+          "liaison": 0,
+          "representative": 0,
+          "total": 0
+        },
+        "core_periphery": "periphery",
+        "degree": 0.0136986301369863,
+        "partition": "unknown",
+        "role": "participant",
+        "slug": "nigerian-efcc"
+      },
+      {
+        "betweenness": 0.0,
+        "brokerage": {
+          "consultant": 0,
+          "coordinator": 0,
+          "gatekeeper": 0,
+          "liaison": 0,
+          "representative": 0,
+          "total": 0
+        },
+        "core_periphery": "periphery",
+        "degree": 0.0136986301369863,
+        "partition": "national-agency",
+        "role": "participant",
+        "slug": "pakistan-fia"
+      },
+      {
+        "betweenness": 0.0,
+        "brokerage": {
+          "consultant": 0,
+          "coordinator": 0,
+          "gatekeeper": 0,
+          "liaison": 0,
+          "representative": 0,
+          "total": 0
+        },
+        "core_periphery": "periphery",
+        "degree": 0.0136986301369863,
+        "partition": "unknown",
+        "role": "participant",
+        "slug": "polizia-di-stato"
+      },
+      {
+        "betweenness": 3.5359879677756065e-05,
+        "brokerage": {
+          "consultant": 0,
+          "coordinator": 0,
+          "gatekeeper": 0,
+          "liaison": 0,
+          "representative": 0,
+          "total": 0
+        },
+        "core_periphery": "core",
+        "degree": 0.0273972602739726,
+        "partition": "national-unit",
+        "role": "participant",
+        "slug": "portugal-police"
+      },
+      {
+        "betweenness": 0.0,
+        "brokerage": {
+          "consultant": 0,
+          "coordinator": 0,
+          "gatekeeper": 0,
+          "liaison": 0,
+          "representative": 0,
+          "total": 0
+        },
+        "core_periphery": "periphery",
+        "degree": 0.0136986301369863,
+        "partition": "unknown",
+        "role": "participant",
+        "slug": "portugal-policia-judiciaria"
+      },
+      {
+        "betweenness": 0.0,
+        "brokerage": {
+          "consultant": 0,
+          "coordinator": 0,
+          "gatekeeper": 0,
+          "liaison": 0,
+          "representative": 0,
+          "total": 0
+        },
+        "core_periphery": "periphery",
+        "degree": 0.0136986301369863,
+        "partition": "national-agency",
+        "role": "participant",
+        "slug": "portuguese-judicial-police"
+      },
+      {
+        "betweenness": 0.0,
+        "brokerage": {
+          "consultant": 0,
+          "coordinator": 0,
+          "gatekeeper": 0,
+          "liaison": 0,
+          "representative": 0,
+          "total": 0
+        },
+        "core_periphery": "periphery",
+        "degree": 0.0136986301369863,
+        "partition": "prosecution-office",
+        "role": "participant",
+        "slug": "romania-diicot"
+      },
+      {
+        "betweenness": 3.5359879677756065e-05,
+        "brokerage": {
+          "consultant": 0,
+          "coordinator": 0,
+          "gatekeeper": 0,
+          "liaison": 0,
+          "representative": 0,
+          "total": 0
+        },
+        "core_periphery": "core",
+        "degree": 0.0273972602739726,
+        "partition": "national-unit",
+        "role": "participant",
+        "slug": "romania-police"
+      },
+      {
+        "betweenness": 0.0,
+        "brokerage": {
+          "consultant": 0,
+          "coordinator": 0,
+          "gatekeeper": 0,
+          "liaison": 0,
+          "representative": 0,
+          "total": 0
+        },
+        "core_periphery": "periphery",
+        "degree": 0.0136986301369863,
+        "partition": "national-agency",
+        "role": "participant",
+        "slug": "romanian-police"
+      },
+      {
+        "betweenness": 0.0,
+        "brokerage": {
+          "consultant": 0,
+          "coordinator": 0,
+          "gatekeeper": 0,
+          "liaison": 0,
+          "representative": 0,
+          "total": 0
+        },
+        "core_periphery": "periphery",
+        "degree": 0.0136986301369863,
+        "partition": "unknown",
+        "role": "participant",
+        "slug": "russian-ministry-of-interior"
+      },
+      {
+        "betweenness": 0.0,
+        "brokerage": {
+          "consultant": 0,
+          "coordinator": 0,
+          "gatekeeper": 0,
+          "liaison": 0,
+          "representative": 0,
+          "total": 0
+        },
+        "core_periphery": "periphery",
+        "degree": 0.0136986301369863,
+        "partition": "national-unit",
+        "role": "participant",
+        "slug": "seoul-metropolitan-police"
+      },
+      {
+        "betweenness": 0.000605467886425,
+        "brokerage": {
+          "consultant": 0,
+          "coordinator": 0,
+          "gatekeeper": 9,
+          "liaison": 14,
+          "representative": 9,
+          "total": 32
+        },
+        "core_periphery": "core",
+        "degree": 0.0273972602739726,
+        "partition": "private-sector",
+        "role": "participant",
+        "slug": "shadowserver"
+      },
+      {
+        "betweenness": 0.0,
+        "brokerage": {
+          "consultant": 0,
+          "coordinator": 0,
+          "gatekeeper": 0,
+          "liaison": 0,
+          "representative": 0,
+          "total": 0
+        },
+        "core_periphery": "periphery",
+        "degree": 0.0136986301369863,
+        "partition": "national-unit",
+        "role": "participant",
+        "slug": "singapore-police"
+      },
+      {
+        "betweenness": 0.0002984785375472,
+        "brokerage": {
+          "consultant": 0,
+          "coordinator": 0,
+          "gatekeeper": 0,
+          "liaison": 0,
+          "representative": 0,
+          "total": 0
+        },
+        "core_periphery": "core",
+        "degree": 0.0410958904109589,
+        "partition": "national-unit",
+        "role": "participant",
+        "slug": "spain-guardia-civil"
+      },
+      {
+        "betweenness": 0.0,
+        "brokerage": {
+          "consultant": 0,
+          "coordinator": 0,
+          "gatekeeper": 0,
+          "liaison": 0,
+          "representative": 0,
+          "total": 0
+        },
+        "core_periphery": "periphery",
+        "degree": 0.0136986301369863,
+        "partition": "national-unit",
+        "role": "participant",
+        "slug": "spain-national-police"
+      },
+      {
+        "betweenness": 0.0,
+        "brokerage": {
+          "consultant": 0,
+          "coordinator": 0,
+          "gatekeeper": 0,
+          "liaison": 0,
+          "representative": 0,
+          "total": 0
+        },
+        "core_periphery": "core",
+        "degree": 0.0136986301369863,
+        "partition": "unknown",
+        "role": "participant",
+        "slug": "spain-policia-nacional"
+      },
+      {
+        "betweenness": 0.0011084937033877,
+        "brokerage": {
+          "consultant": 0,
+          "coordinator": 6,
+          "gatekeeper": 12,
+          "liaison": 8,
+          "representative": 12,
+          "total": 38
+        },
+        "core_periphery": "periphery",
+        "degree": 0.0547945205479452,
+        "partition": "national-agency",
+        "role": "participant",
+        "slug": "spanish-national-police"
+      },
+      {
+        "betweenness": 0.0004529853532058,
+        "brokerage": {
+          "consultant": 10,
+          "coordinator": 2,
+          "gatekeeper": 7,
+          "liaison": 2,
+          "representative": 7,
+          "total": 28
+        },
+        "core_periphery": "core",
+        "degree": 0.0547945205479452,
+        "partition": "national-unit",
+        "role": "participant",
+        "slug": "sweden-police"
+      },
+      {
+        "betweenness": 0.000673500269712,
+        "brokerage": {
+          "consultant": 44,
+          "coordinator": 0,
+          "gatekeeper": 15,
+          "liaison": 8,
+          "representative": 15,
+          "total": 82
+        },
+        "core_periphery": "core",
+        "degree": 0.0547945205479452,
+        "partition": "national-agency",
+        "role": "participant",
+        "slug": "switzerland-fedpol"
+      },
+      {
+        "betweenness": 0.0,
+        "brokerage": {
+          "consultant": 0,
+          "coordinator": 0,
+          "gatekeeper": 0,
+          "liaison": 0,
+          "representative": 0,
+          "total": 0
+        },
+        "core_periphery": "periphery",
+        "degree": 0.0136986301369863,
+        "partition": "unknown",
+        "role": "participant",
+        "slug": "thai-royal-police"
+      },
+      {
+        "betweenness": 0.0029839165257348,
+        "brokerage": {
+          "consultant": 0,
+          "coordinator": 4,
+          "gatekeeper": 8,
+          "liaison": 0,
+          "representative": 8,
+          "total": 20
+        },
+        "core_periphery": "periphery",
+        "degree": 0.0273972602739726,
+        "partition": "unknown",
+        "role": "participant",
+        "slug": "trend-micro"
+      },
+      {
+        "betweenness": 0.0188454973331813,
+        "brokerage": {
+          "consultant": 96,
+          "coordinator": 32,
+          "gatekeeper": 94,
+          "liaison": 50,
+          "representative": 94,
+          "total": 366
+        },
+        "core_periphery": "core",
+        "degree": 0.2465753424657534,
+        "partition": "national-agency",
+        "role": "regional-coordinator",
+        "slug": "uk-nca"
+      },
+      {
+        "betweenness": 0.0007029164024663,
+        "brokerage": {
+          "consultant": 0,
+          "coordinator": 40,
+          "gatekeeper": 12,
+          "liaison": 0,
+          "representative": 12,
+          "total": 64
+        },
+        "core_periphery": "core",
+        "degree": 0.0547945205479452,
+        "partition": "national-unit",
+        "role": "participant",
+        "slug": "ukraine-police"
+      },
+      {
+        "betweenness": 0.0,
+        "brokerage": {
+          "consultant": 0,
+          "coordinator": 0,
+          "gatekeeper": 0,
+          "liaison": 0,
+          "representative": 0,
+          "total": 0
+        },
+        "core_periphery": "periphery",
+        "degree": 0.0136986301369863,
+        "partition": "international-org",
+        "role": "participant",
+        "slug": "unodc"
+      },
+      {
+        "betweenness": 4.072080683865016e-05,
+        "brokerage": {
+          "consultant": 0,
+          "coordinator": 0,
+          "gatekeeper": 0,
+          "liaison": 0,
+          "representative": 0,
+          "total": 0
+        },
+        "core_periphery": "core",
+        "degree": 0.0273972602739726,
+        "partition": "national-unit",
+        "role": "participant",
+        "slug": "us-dcis"
+      },
+      {
+        "betweenness": 0.0025613597081706,
+        "brokerage": {
+          "consultant": 0,
+          "coordinator": 4,
+          "gatekeeper": 9,
+          "liaison": 16,
+          "representative": 9,
+          "total": 38
+        },
+        "core_periphery": "periphery",
+        "degree": 0.0547945205479452,
+        "partition": "national-agency",
+        "role": "participant",
+        "slug": "us-dhs"
+      },
+      {
+        "betweenness": 0.0460524250894281,
+        "brokerage": {
+          "consultant": 26,
+          "coordinator": 68,
+          "gatekeeper": 155,
+          "liaison": 188,
+          "representative": 155,
+          "total": 592
+        },
+        "core_periphery": "core",
+        "degree": 0.273972602739726,
+        "partition": "national-agency",
+        "role": "regional-coordinator",
+        "slug": "us-doj"
+      },
+      {
+        "betweenness": 0.0,
+        "brokerage": {
+          "consultant": 0,
+          "coordinator": 0,
+          "gatekeeper": 0,
+          "liaison": 0,
+          "representative": 0,
+          "total": 0
+        },
+        "core_periphery": "periphery",
+        "degree": 0.0136986301369863,
+        "partition": "unknown",
+        "role": "participant",
+        "slug": "us-postal-inspection"
+      },
+      {
+        "betweenness": 0.0111375236538578,
+        "brokerage": {
+          "consultant": 36,
+          "coordinator": 26,
+          "gatekeeper": 78,
+          "liaison": 50,
+          "representative": 78,
+          "total": 268
+        },
+        "core_periphery": "core",
+        "degree": 0.1232876712328767,
+        "partition": "national-unit",
+        "role": "participant",
+        "slug": "us-secret-service"
+      },
+      {
+        "betweenness": 0.0005735382582691,
+        "brokerage": {
+          "consultant": 0,
+          "coordinator": 4,
+          "gatekeeper": 3,
+          "liaison": 4,
+          "representative": 3,
+          "total": 14
+        },
+        "core_periphery": "periphery",
+        "degree": 0.0410958904109589,
+        "partition": "national-agency",
+        "role": "participant",
+        "slug": "us-treasury"
+      }
+    ],
+    "operations": [
+      "2bagoldmule-qqaazz",
+      "africa-cyber-surge-ii",
+      "alphabay-takedown",
+      "andromeda-botnet-takedown",
+      "belgium-netherlands-phishing-gang",
+      "bidencash-takedown",
+      "blackcat-lockeroga-kelvin-security-2023",
+      "carbanak-cobalt-takedown",
+      "carding-action-2020",
+      "cryptex-pm2btc-sanctions",
+      "cyber-fraud-international-2015",
+      "cyberbunker-takedown",
+      "darkmarket-takedown",
+      "de-ch-crypto-mixer-takedown-2025",
+      "doublevpn-takedown",
+      "dridex-operations",
+      "emotet-takedown",
+      "fin7-takedown",
+      "franco-israeli-ceo-fraud",
+      "imminent-monitor-rat-takedown",
+      "korea-china-voice-phishing-qingdao",
+      "lumma-stealer-takedown",
+      "nemesis-market-takedown",
+      "operation-105-arrested-for-stealing-over-eur-12-million-from-us-based-banks",
+      "operation-australian-man-arrested-in-germany-accused-of-running-world-s-largest-darknet-marketplace",
+      "operation-avalanche",
+      "operation-bakovia",
+      "operation-chakra-iii",
+      "operation-contender-2",
+      "operation-cronos-phase1",
+      "operation-cronos-phase3",
+      "operation-cyber-guardian",
+      "operation-dark-huntor",
+      "operation-destabilise",
+      "operation-endgame",
+      "operation-endgame-phase1",
+      "operation-endgame-phase2",
+      "operation-eur-100m-crypto-investment-fraud-2025",
+      "operation-eur-100m-illegal-financial-service-laundering-2025",
+      "operation-eur-300m-global-credit-card-fraud-2025",
+      "operation-eur-3m-online-investment-fraud-2025",
+      "operation-goldfish-alpha-night-fury",
+      "operation-haechi-iii",
+      "operation-haechi-iv",
+      "operation-haechi-vi",
+      "operation-heart-blocker",
+      "operation-killer-bee",
+      "operation-kraken-ghost-platform",
+      "operation-onymous",
+      "operation-orion-international",
+      "operation-pleiades",
+      "operation-power-off",
+      "operation-red-card",
+      "operation-rewired",
+      "operation-secreto",
+      "operation-sentinel-africa",
+      "operation-source",
+      "operation-stream-kidflix",
+      "operation-talent",
+      "operation-trojan-shield",
+      "operation-wirewire",
+      "phobos-8base-crackdown",
+      "proxy-service-takedown-2026-03",
+      "qqaazz-money-laundering-takedown",
+      "ramnit-botnet-takedown",
+      "rex-mundi-takedown",
+      "rydox-marketplace-takedown",
+      "silk-road-takedown",
+      "simda-botnet-takedown",
+      "trickbot-operations",
+      "vpnlab-takedown",
+      "xdedic-marketplace-takedown",
+      "zeus-spyeye-jit-takedown"
+    ]
+  },
+  "country": {
+    "edges": [
+      [
+        "2bagoldmule-qqaazz",
+        "australia"
+      ],
+      [
+        "2bagoldmule-qqaazz",
+        "austria"
+      ],
+      [
+        "2bagoldmule-qqaazz",
+        "belgium"
+      ],
+      [
+        "2bagoldmule-qqaazz",
+        "bulgaria"
+      ],
+      [
+        "2bagoldmule-qqaazz",
+        "czech-republic"
+      ],
+      [
+        "2bagoldmule-qqaazz",
+        "georgia"
+      ],
+      [
+        "2bagoldmule-qqaazz",
+        "germany"
+      ],
+      [
+        "2bagoldmule-qqaazz",
+        "italy"
+      ],
+      [
+        "2bagoldmule-qqaazz",
+        "latvia"
+      ],
+      [
+        "2bagoldmule-qqaazz",
+        "poland"
+      ],
+      [
+        "2bagoldmule-qqaazz",
+        "portugal"
+      ],
+      [
+        "2bagoldmule-qqaazz",
+        "spain"
+      ],
+      [
+        "2bagoldmule-qqaazz",
+        "sweden"
+      ],
+      [
+        "2bagoldmule-qqaazz",
+        "switzerland"
+      ],
+      [
+        "2bagoldmule-qqaazz",
+        "united-kingdom"
+      ],
+      [
+        "2bagoldmule-qqaazz",
+        "united-states"
+      ],
+      [
+        "africa-cyber-surge-ii",
+        "cameroon"
+      ],
+      [
+        "africa-cyber-surge-ii",
+        "gambia"
+      ],
+      [
+        "africa-cyber-surge-ii",
+        "kenya"
+      ],
+      [
+        "africa-cyber-surge-ii",
+        "mauritius"
+      ],
+      [
+        "africa-cyber-surge-ii",
+        "nigeria"
+      ],
+      [
+        "africa-cyber-surge-ii",
+        "south-africa"
+      ],
+      [
+        "africa-cyber-surge-ii",
+        "tanzania"
+      ],
+      [
+        "alphabay-takedown",
+        "canada"
+      ],
+      [
+        "alphabay-takedown",
+        "france"
+      ],
+      [
+        "alphabay-takedown",
+        "germany"
+      ],
+      [
+        "alphabay-takedown",
+        "lithuania"
+      ],
+      [
+        "alphabay-takedown",
+        "netherlands"
+      ],
+      [
+        "alphabay-takedown",
+        "thailand"
+      ],
+      [
+        "alphabay-takedown",
+        "united-kingdom"
+      ],
+      [
+        "alphabay-takedown",
+        "united-states"
+      ],
+      [
+        "andromeda-botnet-takedown",
+        "australia"
+      ],
+      [
+        "andromeda-botnet-takedown",
+        "austria"
+      ],
+      [
+        "andromeda-botnet-takedown",
+        "belarus"
+      ],
+      [
+        "andromeda-botnet-takedown",
+        "belgium"
+      ],
+      [
+        "andromeda-botnet-takedown",
+        "canada"
+      ],
+      [
+        "andromeda-botnet-takedown",
+        "finland"
+      ],
+      [
+        "andromeda-botnet-takedown",
+        "france"
+      ],
+      [
+        "andromeda-botnet-takedown",
+        "germany"
+      ],
+      [
+        "andromeda-botnet-takedown",
+        "italy"
+      ],
+      [
+        "andromeda-botnet-takedown",
+        "montenegro"
+      ],
+      [
+        "andromeda-botnet-takedown",
+        "netherlands"
+      ],
+      [
+        "andromeda-botnet-takedown",
+        "poland"
+      ],
+      [
+        "andromeda-botnet-takedown",
+        "singapore"
+      ],
+      [
+        "andromeda-botnet-takedown",
+        "spain"
+      ],
+      [
+        "andromeda-botnet-takedown",
+        "taiwan"
+      ],
+      [
+        "andromeda-botnet-takedown",
+        "united-kingdom"
+      ],
+      [
+        "andromeda-botnet-takedown",
+        "united-states"
+      ],
+      [
+        "belgium-netherlands-phishing-gang",
+        "belgium"
+      ],
+      [
+        "belgium-netherlands-phishing-gang",
+        "netherlands"
+      ],
+      [
+        "bidencash-takedown",
+        "denmark"
+      ],
+      [
+        "bidencash-takedown",
+        "finland"
+      ],
+      [
+        "bidencash-takedown",
+        "france"
+      ],
+      [
+        "bidencash-takedown",
+        "germany"
+      ],
+      [
+        "bidencash-takedown",
+        "netherlands"
+      ],
+      [
+        "bidencash-takedown",
+        "united-states"
+      ],
+      [
+        "blackcat-lockeroga-kelvin-security-2023",
+        "norway"
+      ],
+      [
+        "blackcat-lockeroga-kelvin-security-2023",
+        "spain"
+      ],
+      [
+        "blackcat-lockeroga-kelvin-security-2023",
+        "ukraine"
+      ],
+      [
+        "blackcat-lockeroga-kelvin-security-2023",
+        "united-states"
+      ],
+      [
+        "carbanak-cobalt-takedown",
+        "belarus"
+      ],
+      [
+        "carbanak-cobalt-takedown",
+        "moldova"
+      ],
+      [
+        "carbanak-cobalt-takedown",
+        "romania"
+      ],
+      [
+        "carbanak-cobalt-takedown",
+        "spain"
+      ],
+      [
+        "carbanak-cobalt-takedown",
+        "taiwan"
+      ],
+      [
+        "carbanak-cobalt-takedown",
+        "united-states"
+      ],
+      [
+        "carding-action-2020",
+        "hungary"
+      ],
+      [
+        "carding-action-2020",
+        "italy"
+      ],
+      [
+        "carding-action-2020",
+        "united-kingdom"
+      ],
+      [
+        "cryptex-pm2btc-sanctions",
+        "netherlands"
+      ],
+      [
+        "cryptex-pm2btc-sanctions",
+        "united-states"
+      ],
+      [
+        "cyber-fraud-international-2015",
+        "belgium"
+      ],
+      [
+        "cyber-fraud-international-2015",
+        "georgia"
+      ],
+      [
+        "cyber-fraud-international-2015",
+        "italy"
+      ],
+      [
+        "cyber-fraud-international-2015",
+        "poland"
+      ],
+      [
+        "cyber-fraud-international-2015",
+        "spain"
+      ],
+      [
+        "cyber-fraud-international-2015",
+        "united-kingdom"
+      ],
+      [
+        "cyberbunker-takedown",
+        "germany"
+      ],
+      [
+        "cyberbunker-takedown",
+        "netherlands"
+      ],
+      [
+        "darkmarket-takedown",
+        "australia"
+      ],
+      [
+        "darkmarket-takedown",
+        "denmark"
+      ],
+      [
+        "darkmarket-takedown",
+        "germany"
+      ],
+      [
+        "darkmarket-takedown",
+        "moldova"
+      ],
+      [
+        "darkmarket-takedown",
+        "ukraine"
+      ],
+      [
+        "darkmarket-takedown",
+        "united-kingdom"
+      ],
+      [
+        "darkmarket-takedown",
+        "united-states"
+      ],
+      [
+        "de-ch-crypto-mixer-takedown-2025",
+        "germany"
+      ],
+      [
+        "de-ch-crypto-mixer-takedown-2025",
+        "switzerland"
+      ],
+      [
+        "doublevpn-takedown",
+        "bulgaria"
+      ],
+      [
+        "doublevpn-takedown",
+        "canada"
+      ],
+      [
+        "doublevpn-takedown",
+        "germany"
+      ],
+      [
+        "doublevpn-takedown",
+        "italy"
+      ],
+      [
+        "doublevpn-takedown",
+        "netherlands"
+      ],
+      [
+        "doublevpn-takedown",
+        "sweden"
+      ],
+      [
+        "doublevpn-takedown",
+        "switzerland"
+      ],
+      [
+        "doublevpn-takedown",
+        "united-kingdom"
+      ],
+      [
+        "doublevpn-takedown",
+        "united-states"
+      ],
+      [
+        "dridex-operations",
+        "cyprus"
+      ],
+      [
+        "dridex-operations",
+        "germany"
+      ],
+      [
+        "dridex-operations",
+        "moldova"
+      ],
+      [
+        "dridex-operations",
+        "united-kingdom"
+      ],
+      [
+        "dridex-operations",
+        "united-states"
+      ],
+      [
+        "emotet-takedown",
+        "canada"
+      ],
+      [
+        "emotet-takedown",
+        "france"
+      ],
+      [
+        "emotet-takedown",
+        "germany"
+      ],
+      [
+        "emotet-takedown",
+        "lithuania"
+      ],
+      [
+        "emotet-takedown",
+        "netherlands"
+      ],
+      [
+        "emotet-takedown",
+        "ukraine"
+      ],
+      [
+        "emotet-takedown",
+        "united-kingdom"
+      ],
+      [
+        "emotet-takedown",
+        "united-states"
+      ],
+      [
+        "fin7-takedown",
+        "australia"
+      ],
+      [
+        "fin7-takedown",
+        "france"
+      ],
+      [
+        "fin7-takedown",
+        "united-kingdom"
+      ],
+      [
+        "fin7-takedown",
+        "united-states"
+      ],
+      [
+        "franco-israeli-ceo-fraud",
+        "croatia"
+      ],
+      [
+        "franco-israeli-ceo-fraud",
+        "france"
+      ],
+      [
+        "franco-israeli-ceo-fraud",
+        "hungary"
+      ],
+      [
+        "franco-israeli-ceo-fraud",
+        "israel"
+      ],
+      [
+        "franco-israeli-ceo-fraud",
+        "portugal"
+      ],
+      [
+        "franco-israeli-ceo-fraud",
+        "spain"
+      ],
+      [
+        "imminent-monitor-rat-takedown",
+        "australia"
+      ],
+      [
+        "imminent-monitor-rat-takedown",
+        "colombia"
+      ],
+      [
+        "imminent-monitor-rat-takedown",
+        "czech-republic"
+      ],
+      [
+        "imminent-monitor-rat-takedown",
+        "netherlands"
+      ],
+      [
+        "imminent-monitor-rat-takedown",
+        "poland"
+      ],
+      [
+        "imminent-monitor-rat-takedown",
+        "spain"
+      ],
+      [
+        "imminent-monitor-rat-takedown",
+        "sweden"
+      ],
+      [
+        "imminent-monitor-rat-takedown",
+        "united-kingdom"
+      ],
+      [
+        "korea-china-voice-phishing-qingdao",
+        "china"
+      ],
+      [
+        "korea-china-voice-phishing-qingdao",
+        "south-korea"
+      ],
+      [
+        "lumma-stealer-takedown",
+        "japan"
+      ],
+      [
+        "lumma-stealer-takedown",
+        "united-states"
+      ],
+      [
+        "nemesis-market-takedown",
+        "germany"
+      ],
+      [
+        "nemesis-market-takedown",
+        "lithuania"
+      ],
+      [
+        "nemesis-market-takedown",
+        "united-states"
+      ],
+      [
+        "operation-105-arrested-for-stealing-over-eur-12-million-from-us-based-banks",
+        "austria"
+      ],
+      [
+        "operation-105-arrested-for-stealing-over-eur-12-million-from-us-based-banks",
+        "denmark"
+      ],
+      [
+        "operation-105-arrested-for-stealing-over-eur-12-million-from-us-based-banks",
+        "greece"
+      ],
+      [
+        "operation-105-arrested-for-stealing-over-eur-12-million-from-us-based-banks",
+        "spain"
+      ],
+      [
+        "operation-105-arrested-for-stealing-over-eur-12-million-from-us-based-banks",
+        "united-states"
+      ],
+      [
+        "operation-australian-man-arrested-in-germany-accused-of-running-world-s-largest-darknet-marketplace",
+        "australia"
+      ],
+      [
+        "operation-australian-man-arrested-in-germany-accused-of-running-world-s-largest-darknet-marketplace",
+        "germany"
+      ],
+      [
+        "operation-australian-man-arrested-in-germany-accused-of-running-world-s-largest-darknet-marketplace",
+        "moldova"
+      ],
+      [
+        "operation-australian-man-arrested-in-germany-accused-of-running-world-s-largest-darknet-marketplace",
+        "ukraine"
+      ],
+      [
+        "operation-avalanche",
+        "armenia"
+      ],
+      [
+        "operation-avalanche",
+        "australia"
+      ],
+      [
+        "operation-avalanche",
+        "austria"
+      ],
+      [
+        "operation-avalanche",
+        "azerbaijan"
+      ],
+      [
+        "operation-avalanche",
+        "belgium"
+      ],
+      [
+        "operation-avalanche",
+        "belize"
+      ],
+      [
+        "operation-avalanche",
+        "bulgaria"
+      ],
+      [
+        "operation-avalanche",
+        "canada"
+      ],
+      [
+        "operation-avalanche",
+        "colombia"
+      ],
+      [
+        "operation-avalanche",
+        "finland"
+      ],
+      [
+        "operation-avalanche",
+        "france"
+      ],
+      [
+        "operation-avalanche",
+        "germany"
+      ],
+      [
+        "operation-avalanche",
+        "hungary"
+      ],
+      [
+        "operation-avalanche",
+        "india"
+      ],
+      [
+        "operation-avalanche",
+        "italy"
+      ],
+      [
+        "operation-avalanche",
+        "lithuania"
+      ],
+      [
+        "operation-avalanche",
+        "luxembourg"
+      ],
+      [
+        "operation-avalanche",
+        "moldova"
+      ],
+      [
+        "operation-avalanche",
+        "montenegro"
+      ],
+      [
+        "operation-avalanche",
+        "netherlands"
+      ],
+      [
+        "operation-avalanche",
+        "norway"
+      ],
+      [
+        "operation-avalanche",
+        "poland"
+      ],
+      [
+        "operation-avalanche",
+        "romania"
+      ],
+      [
+        "operation-avalanche",
+        "singapore"
+      ],
+      [
+        "operation-avalanche",
+        "sweden"
+      ],
+      [
+        "operation-avalanche",
+        "taiwan"
+      ],
+      [
+        "operation-avalanche",
+        "ukraine"
+      ],
+      [
+        "operation-avalanche",
+        "united-kingdom"
+      ],
+      [
+        "operation-avalanche",
+        "united-states"
+      ],
+      [
+        "operation-bakovia",
+        "netherlands"
+      ],
+      [
+        "operation-bakovia",
+        "romania"
+      ],
+      [
+        "operation-bakovia",
+        "united-kingdom"
+      ],
+      [
+        "operation-bakovia",
+        "united-states"
+      ],
+      [
+        "operation-chakra-iii",
+        "india"
+      ],
+      [
+        "operation-chakra-iii",
+        "united-states"
+      ],
+      [
+        "operation-contender-2",
+        "cote-divoire"
+      ],
+      [
+        "operation-contender-2",
+        "finland"
+      ],
+      [
+        "operation-contender-2",
+        "nigeria"
+      ],
+      [
+        "operation-contender-2",
+        "switzerland"
+      ],
+      [
+        "operation-cronos-phase1",
+        "australia"
+      ],
+      [
+        "operation-cronos-phase1",
+        "canada"
+      ],
+      [
+        "operation-cronos-phase1",
+        "finland"
+      ],
+      [
+        "operation-cronos-phase1",
+        "france"
+      ],
+      [
+        "operation-cronos-phase1",
+        "germany"
+      ],
+      [
+        "operation-cronos-phase1",
+        "japan"
+      ],
+      [
+        "operation-cronos-phase1",
+        "netherlands"
+      ],
+      [
+        "operation-cronos-phase1",
+        "new-zealand"
+      ],
+      [
+        "operation-cronos-phase1",
+        "poland"
+      ],
+      [
+        "operation-cronos-phase1",
+        "sweden"
+      ],
+      [
+        "operation-cronos-phase1",
+        "switzerland"
+      ],
+      [
+        "operation-cronos-phase1",
+        "ukraine"
+      ],
+      [
+        "operation-cronos-phase1",
+        "united-kingdom"
+      ],
+      [
+        "operation-cronos-phase1",
+        "united-states"
+      ],
+      [
+        "operation-cronos-phase3",
+        "australia"
+      ],
+      [
+        "operation-cronos-phase3",
+        "canada"
+      ],
+      [
+        "operation-cronos-phase3",
+        "france"
+      ],
+      [
+        "operation-cronos-phase3",
+        "germany"
+      ],
+      [
+        "operation-cronos-phase3",
+        "japan"
+      ],
+      [
+        "operation-cronos-phase3",
+        "netherlands"
+      ],
+      [
+        "operation-cronos-phase3",
+        "romania"
+      ],
+      [
+        "operation-cronos-phase3",
+        "spain"
+      ],
+      [
+        "operation-cronos-phase3",
+        "sweden"
+      ],
+      [
+        "operation-cronos-phase3",
+        "switzerland"
+      ],
+      [
+        "operation-cronos-phase3",
+        "united-kingdom"
+      ],
+      [
+        "operation-cronos-phase3",
+        "united-states"
+      ],
+      [
+        "operation-cyber-guardian",
+        "hong-kong"
+      ],
+      [
+        "operation-cyber-guardian",
+        "japan"
+      ],
+      [
+        "operation-cyber-guardian",
+        "malaysia"
+      ],
+      [
+        "operation-cyber-guardian",
+        "singapore"
+      ],
+      [
+        "operation-cyber-guardian",
+        "south-korea"
+      ],
+      [
+        "operation-cyber-guardian",
+        "thailand"
+      ],
+      [
+        "operation-dark-huntor",
+        "australia"
+      ],
+      [
+        "operation-dark-huntor",
+        "bulgaria"
+      ],
+      [
+        "operation-dark-huntor",
+        "france"
+      ],
+      [
+        "operation-dark-huntor",
+        "germany"
+      ],
+      [
+        "operation-dark-huntor",
+        "italy"
+      ],
+      [
+        "operation-dark-huntor",
+        "netherlands"
+      ],
+      [
+        "operation-dark-huntor",
+        "switzerland"
+      ],
+      [
+        "operation-dark-huntor",
+        "united-kingdom"
+      ],
+      [
+        "operation-dark-huntor",
+        "united-states"
+      ],
+      [
+        "operation-destabilise",
+        "united-kingdom"
+      ],
+      [
+        "operation-destabilise",
+        "united-states"
+      ],
+      [
+        "operation-endgame",
+        "armenia"
+      ],
+      [
+        "operation-endgame",
+        "australia"
+      ],
+      [
+        "operation-endgame",
+        "bulgaria"
+      ],
+      [
+        "operation-endgame",
+        "canada"
+      ],
+      [
+        "operation-endgame",
+        "denmark"
+      ],
+      [
+        "operation-endgame",
+        "france"
+      ],
+      [
+        "operation-endgame",
+        "germany"
+      ],
+      [
+        "operation-endgame",
+        "lithuania"
+      ],
+      [
+        "operation-endgame",
+        "netherlands"
+      ],
+      [
+        "operation-endgame",
+        "portugal"
+      ],
+      [
+        "operation-endgame",
+        "romania"
+      ],
+      [
+        "operation-endgame",
+        "switzerland"
+      ],
+      [
+        "operation-endgame",
+        "ukraine"
+      ],
+      [
+        "operation-endgame",
+        "united-kingdom"
+      ],
+      [
+        "operation-endgame",
+        "united-states"
+      ],
+      [
+        "operation-endgame-phase1",
+        "armenia"
+      ],
+      [
+        "operation-endgame-phase1",
+        "bulgaria"
+      ],
+      [
+        "operation-endgame-phase1",
+        "denmark"
+      ],
+      [
+        "operation-endgame-phase1",
+        "france"
+      ],
+      [
+        "operation-endgame-phase1",
+        "germany"
+      ],
+      [
+        "operation-endgame-phase1",
+        "lithuania"
+      ],
+      [
+        "operation-endgame-phase1",
+        "netherlands"
+      ],
+      [
+        "operation-endgame-phase1",
+        "portugal"
+      ],
+      [
+        "operation-endgame-phase1",
+        "romania"
+      ],
+      [
+        "operation-endgame-phase1",
+        "switzerland"
+      ],
+      [
+        "operation-endgame-phase1",
+        "ukraine"
+      ],
+      [
+        "operation-endgame-phase1",
+        "united-kingdom"
+      ],
+      [
+        "operation-endgame-phase1",
+        "united-states"
+      ],
+      [
+        "operation-endgame-phase2",
+        "canada"
+      ],
+      [
+        "operation-endgame-phase2",
+        "denmark"
+      ],
+      [
+        "operation-endgame-phase2",
+        "france"
+      ],
+      [
+        "operation-endgame-phase2",
+        "germany"
+      ],
+      [
+        "operation-endgame-phase2",
+        "netherlands"
+      ],
+      [
+        "operation-endgame-phase2",
+        "united-kingdom"
+      ],
+      [
+        "operation-endgame-phase2",
+        "united-states"
+      ],
+      [
+        "operation-eur-100m-crypto-investment-fraud-2025",
+        "bulgaria"
+      ],
+      [
+        "operation-eur-100m-crypto-investment-fraud-2025",
+        "italy"
+      ],
+      [
+        "operation-eur-100m-crypto-investment-fraud-2025",
+        "lithuania"
+      ],
+      [
+        "operation-eur-100m-crypto-investment-fraud-2025",
+        "portugal"
+      ],
+      [
+        "operation-eur-100m-crypto-investment-fraud-2025",
+        "romania"
+      ],
+      [
+        "operation-eur-100m-crypto-investment-fraud-2025",
+        "spain"
+      ],
+      [
+        "operation-eur-100m-illegal-financial-service-laundering-2025",
+        "cyprus"
+      ],
+      [
+        "operation-eur-100m-illegal-financial-service-laundering-2025",
+        "france"
+      ],
+      [
+        "operation-eur-100m-illegal-financial-service-laundering-2025",
+        "germany"
+      ],
+      [
+        "operation-eur-100m-illegal-financial-service-laundering-2025",
+        "spain"
+      ],
+      [
+        "operation-eur-300m-global-credit-card-fraud-2025",
+        "canada"
+      ],
+      [
+        "operation-eur-300m-global-credit-card-fraud-2025",
+        "cyprus"
+      ],
+      [
+        "operation-eur-300m-global-credit-card-fraud-2025",
+        "germany"
+      ],
+      [
+        "operation-eur-300m-global-credit-card-fraud-2025",
+        "italy"
+      ],
+      [
+        "operation-eur-300m-global-credit-card-fraud-2025",
+        "luxembourg"
+      ],
+      [
+        "operation-eur-300m-global-credit-card-fraud-2025",
+        "netherlands"
+      ],
+      [
+        "operation-eur-300m-global-credit-card-fraud-2025",
+        "singapore"
+      ],
+      [
+        "operation-eur-300m-global-credit-card-fraud-2025",
+        "spain"
+      ],
+      [
+        "operation-eur-300m-global-credit-card-fraud-2025",
+        "united-kingdom"
+      ],
+      [
+        "operation-eur-300m-global-credit-card-fraud-2025",
+        "united-states"
+      ],
+      [
+        "operation-eur-3m-online-investment-fraud-2025",
+        "albania"
+      ],
+      [
+        "operation-eur-3m-online-investment-fraud-2025",
+        "belgium"
+      ],
+      [
+        "operation-eur-3m-online-investment-fraud-2025",
+        "cyprus"
+      ],
+      [
+        "operation-eur-3m-online-investment-fraud-2025",
+        "germany"
+      ],
+      [
+        "operation-eur-3m-online-investment-fraud-2025",
+        "israel"
+      ],
+      [
+        "operation-eur-3m-online-investment-fraud-2025",
+        "latvia"
+      ],
+      [
+        "operation-eur-3m-online-investment-fraud-2025",
+        "united-kingdom"
+      ],
+      [
+        "operation-goldfish-alpha-night-fury",
+        "indonesia"
+      ],
+      [
+        "operation-goldfish-alpha-night-fury",
+        "malaysia"
+      ],
+      [
+        "operation-goldfish-alpha-night-fury",
+        "myanmar"
+      ],
+      [
+        "operation-goldfish-alpha-night-fury",
+        "philippines"
+      ],
+      [
+        "operation-goldfish-alpha-night-fury",
+        "singapore"
+      ],
+      [
+        "operation-goldfish-alpha-night-fury",
+        "thailand"
+      ],
+      [
+        "operation-goldfish-alpha-night-fury",
+        "vietnam"
+      ],
+      [
+        "operation-haechi-iii",
+        "australia"
+      ],
+      [
+        "operation-haechi-iii",
+        "austria"
+      ],
+      [
+        "operation-haechi-iii",
+        "brunei"
+      ],
+      [
+        "operation-haechi-iii",
+        "cambodia"
+      ],
+      [
+        "operation-haechi-iii",
+        "cote-d-ivoire"
+      ],
+      [
+        "operation-haechi-iii",
+        "france"
+      ],
+      [
+        "operation-haechi-iii",
+        "ghana"
+      ],
+      [
+        "operation-haechi-iii",
+        "hong-kong-china"
+      ],
+      [
+        "operation-haechi-iii",
+        "india"
+      ],
+      [
+        "operation-haechi-iii",
+        "indonesia"
+      ],
+      [
+        "operation-haechi-iii",
+        "ireland"
+      ],
+      [
+        "operation-haechi-iii",
+        "japan"
+      ],
+      [
+        "operation-haechi-iii",
+        "kyrgyzstan"
+      ],
+      [
+        "operation-haechi-iii",
+        "laos"
+      ],
+      [
+        "operation-haechi-iii",
+        "malaysia"
+      ],
+      [
+        "operation-haechi-iii",
+        "maldives"
+      ],
+      [
+        "operation-haechi-iii",
+        "nigeria"
+      ],
+      [
+        "operation-haechi-iii",
+        "philippines"
+      ],
+      [
+        "operation-haechi-iii",
+        "poland"
+      ],
+      [
+        "operation-haechi-iii",
+        "romania"
+      ],
+      [
+        "operation-haechi-iii",
+        "singapore"
+      ],
+      [
+        "operation-haechi-iii",
+        "slovenia"
+      ],
+      [
+        "operation-haechi-iii",
+        "south-africa"
+      ],
+      [
+        "operation-haechi-iii",
+        "south-korea"
+      ],
+      [
+        "operation-haechi-iii",
+        "spain"
+      ],
+      [
+        "operation-haechi-iii",
+        "sweden"
+      ],
+      [
+        "operation-haechi-iii",
+        "thailand"
+      ],
+      [
+        "operation-haechi-iii",
+        "united-arab-emirates"
+      ],
+      [
+        "operation-haechi-iii",
+        "united-kingdom"
+      ],
+      [
+        "operation-haechi-iii",
+        "united-states"
+      ],
+      [
+        "operation-haechi-iv",
+        "india"
+      ],
+      [
+        "operation-haechi-iv",
+        "japan"
+      ],
+      [
+        "operation-haechi-iv",
+        "south-korea"
+      ],
+      [
+        "operation-haechi-iv",
+        "united-kingdom"
+      ],
+      [
+        "operation-haechi-iv",
+        "united-states"
+      ],
+      [
+        "operation-haechi-vi",
+        "albania"
+      ],
+      [
+        "operation-haechi-vi",
+        "argentina"
+      ],
+      [
+        "operation-haechi-vi",
+        "armenia"
+      ],
+      [
+        "operation-haechi-vi",
+        "australia"
+      ],
+      [
+        "operation-haechi-vi",
+        "brazil"
+      ],
+      [
+        "operation-haechi-vi",
+        "bulgaria"
+      ],
+      [
+        "operation-haechi-vi",
+        "cambodia"
+      ],
+      [
+        "operation-haechi-vi",
+        "canada"
+      ],
+      [
+        "operation-haechi-vi",
+        "china"
+      ],
+      [
+        "operation-haechi-vi",
+        "germany"
+      ],
+      [
+        "operation-haechi-vi",
+        "ghana"
+      ],
+      [
+        "operation-haechi-vi",
+        "india"
+      ],
+      [
+        "operation-haechi-vi",
+        "indonesia"
+      ],
+      [
+        "operation-haechi-vi",
+        "ireland"
+      ],
+      [
+        "operation-haechi-vi",
+        "japan"
+      ],
+      [
+        "operation-haechi-vi",
+        "kazakhstan"
+      ],
+      [
+        "operation-haechi-vi",
+        "malaysia"
+      ],
+      [
+        "operation-haechi-vi",
+        "nigeria"
+      ],
+      [
+        "operation-haechi-vi",
+        "philippines"
+      ],
+      [
+        "operation-haechi-vi",
+        "poland"
+      ],
+      [
+        "operation-haechi-vi",
+        "portugal"
+      ],
+      [
+        "operation-haechi-vi",
+        "romania"
+      ],
+      [
+        "operation-haechi-vi",
+        "singapore"
+      ],
+      [
+        "operation-haechi-vi",
+        "south-africa"
+      ],
+      [
+        "operation-haechi-vi",
+        "south-korea"
+      ],
+      [
+        "operation-haechi-vi",
+        "spain"
+      ],
+      [
+        "operation-haechi-vi",
+        "sweden"
+      ],
+      [
+        "operation-haechi-vi",
+        "thailand"
+      ],
+      [
+        "operation-haechi-vi",
+        "united-arab-emirates"
+      ],
+      [
+        "operation-haechi-vi",
+        "united-kingdom"
+      ],
+      [
+        "operation-haechi-vi",
+        "united-states"
+      ],
+      [
+        "operation-haechi-vi",
+        "vietnam"
+      ],
+      [
+        "operation-heart-blocker",
+        "netherlands"
+      ],
+      [
+        "operation-heart-blocker",
+        "pakistan"
+      ],
+      [
+        "operation-heart-blocker",
+        "united-states"
+      ],
+      [
+        "operation-killer-bee",
+        "brunei"
+      ],
+      [
+        "operation-killer-bee",
+        "cambodia"
+      ],
+      [
+        "operation-killer-bee",
+        "indonesia"
+      ],
+      [
+        "operation-killer-bee",
+        "laos"
+      ],
+      [
+        "operation-killer-bee",
+        "malaysia"
+      ],
+      [
+        "operation-killer-bee",
+        "myanmar"
+      ],
+      [
+        "operation-killer-bee",
+        "nigeria"
+      ],
+      [
+        "operation-killer-bee",
+        "philippines"
+      ],
+      [
+        "operation-killer-bee",
+        "singapore"
+      ],
+      [
+        "operation-killer-bee",
+        "thailand"
+      ],
+      [
+        "operation-killer-bee",
+        "vietnam"
+      ],
+      [
+        "operation-kraken-ghost-platform",
+        "australia"
+      ],
+      [
+        "operation-kraken-ghost-platform",
+        "canada"
+      ],
+      [
+        "operation-kraken-ghost-platform",
+        "france"
+      ],
+      [
+        "operation-kraken-ghost-platform",
+        "iceland"
+      ],
+      [
+        "operation-kraken-ghost-platform",
+        "ireland"
+      ],
+      [
+        "operation-kraken-ghost-platform",
+        "italy"
+      ],
+      [
+        "operation-kraken-ghost-platform",
+        "netherlands"
+      ],
+      [
+        "operation-kraken-ghost-platform",
+        "sweden"
+      ],
+      [
+        "operation-kraken-ghost-platform",
+        "united-states"
+      ],
+      [
+        "operation-onymous",
+        "bulgaria"
+      ],
+      [
+        "operation-onymous",
+        "czech-republic"
+      ],
+      [
+        "operation-onymous",
+        "finland"
+      ],
+      [
+        "operation-onymous",
+        "france"
+      ],
+      [
+        "operation-onymous",
+        "germany"
+      ],
+      [
+        "operation-onymous",
+        "hungary"
+      ],
+      [
+        "operation-onymous",
+        "ireland"
+      ],
+      [
+        "operation-onymous",
+        "latvia"
+      ],
+      [
+        "operation-onymous",
+        "lithuania"
+      ],
+      [
+        "operation-onymous",
+        "luxembourg"
+      ],
+      [
+        "operation-onymous",
+        "netherlands"
+      ],
+      [
+        "operation-onymous",
+        "romania"
+      ],
+      [
+        "operation-onymous",
+        "spain"
+      ],
+      [
+        "operation-onymous",
+        "sweden"
+      ],
+      [
+        "operation-onymous",
+        "switzerland"
+      ],
+      [
+        "operation-onymous",
+        "united-kingdom"
+      ],
+      [
+        "operation-onymous",
+        "united-states"
+      ],
+      [
+        "operation-orion-international",
+        "argentina"
+      ],
+      [
+        "operation-orion-international",
+        "bolivia"
+      ],
+      [
+        "operation-orion-international",
+        "brazil"
+      ],
+      [
+        "operation-orion-international",
+        "chile"
+      ],
+      [
+        "operation-orion-international",
+        "colombia"
+      ],
+      [
+        "operation-orion-international",
+        "ecuador"
+      ],
+      [
+        "operation-orion-international",
+        "guyana"
+      ],
+      [
+        "operation-orion-international",
+        "paraguay"
+      ],
+      [
+        "operation-orion-international",
+        "peru"
+      ],
+      [
+        "operation-orion-international",
+        "suriname"
+      ],
+      [
+        "operation-orion-international",
+        "uruguay"
+      ],
+      [
+        "operation-orion-international",
+        "venezuela"
+      ],
+      [
+        "operation-pleiades",
+        "australia"
+      ],
+      [
+        "operation-pleiades",
+        "austria"
+      ],
+      [
+        "operation-pleiades",
+        "bosnia-and-herzegovina"
+      ],
+      [
+        "operation-pleiades",
+        "france"
+      ],
+      [
+        "operation-pleiades",
+        "germany"
+      ],
+      [
+        "operation-pleiades",
+        "japan"
+      ],
+      [
+        "operation-pleiades",
+        "romania"
+      ],
+      [
+        "operation-pleiades",
+        "switzerland"
+      ],
+      [
+        "operation-pleiades",
+        "united-kingdom"
+      ],
+      [
+        "operation-pleiades",
+        "united-states"
+      ],
+      [
+        "operation-power-off",
+        "australia"
+      ],
+      [
+        "operation-power-off",
+        "brazil"
+      ],
+      [
+        "operation-power-off",
+        "canada"
+      ],
+      [
+        "operation-power-off",
+        "finland"
+      ],
+      [
+        "operation-power-off",
+        "france"
+      ],
+      [
+        "operation-power-off",
+        "germany"
+      ],
+      [
+        "operation-power-off",
+        "japan"
+      ],
+      [
+        "operation-power-off",
+        "latvia"
+      ],
+      [
+        "operation-power-off",
+        "netherlands"
+      ],
+      [
+        "operation-power-off",
+        "poland"
+      ],
+      [
+        "operation-power-off",
+        "portugal"
+      ],
+      [
+        "operation-power-off",
+        "romania"
+      ],
+      [
+        "operation-power-off",
+        "sweden"
+      ],
+      [
+        "operation-power-off",
+        "united-kingdom"
+      ],
+      [
+        "operation-power-off",
+        "united-states"
+      ],
+      [
+        "operation-red-card",
+        "benin"
+      ],
+      [
+        "operation-red-card",
+        "cote-divoire"
+      ],
+      [
+        "operation-red-card",
+        "nigeria"
+      ],
+      [
+        "operation-red-card",
+        "rwanda"
+      ],
+      [
+        "operation-red-card",
+        "south-africa"
+      ],
+      [
+        "operation-red-card",
+        "togo"
+      ],
+      [
+        "operation-red-card",
+        "zambia"
+      ],
+      [
+        "operation-rewired",
+        "france"
+      ],
+      [
+        "operation-rewired",
+        "ghana"
+      ],
+      [
+        "operation-rewired",
+        "italy"
+      ],
+      [
+        "operation-rewired",
+        "japan"
+      ],
+      [
+        "operation-rewired",
+        "kenya"
+      ],
+      [
+        "operation-rewired",
+        "malaysia"
+      ],
+      [
+        "operation-rewired",
+        "nigeria"
+      ],
+      [
+        "operation-rewired",
+        "turkey"
+      ],
+      [
+        "operation-rewired",
+        "united-kingdom"
+      ],
+      [
+        "operation-rewired",
+        "united-states"
+      ],
+      [
+        "operation-secreto",
+        "austria"
+      ],
+      [
+        "operation-secreto",
+        "denmark"
+      ],
+      [
+        "operation-secreto",
+        "greece"
+      ],
+      [
+        "operation-secreto",
+        "spain"
+      ],
+      [
+        "operation-secreto",
+        "united-states"
+      ],
+      [
+        "operation-sentinel-africa",
+        "benin"
+      ],
+      [
+        "operation-sentinel-africa",
+        "botswana"
+      ],
+      [
+        "operation-sentinel-africa",
+        "burkina-faso"
+      ],
+      [
+        "operation-sentinel-africa",
+        "cameroon"
+      ],
+      [
+        "operation-sentinel-africa",
+        "chad"
+      ],
+      [
+        "operation-sentinel-africa",
+        "congo"
+      ],
+      [
+        "operation-sentinel-africa",
+        "democratic-republic-of-the-congo"
+      ],
+      [
+        "operation-sentinel-africa",
+        "djibouti"
+      ],
+      [
+        "operation-sentinel-africa",
+        "gabon"
+      ],
+      [
+        "operation-sentinel-africa",
+        "ghana"
+      ],
+      [
+        "operation-sentinel-africa",
+        "kenya"
+      ],
+      [
+        "operation-sentinel-africa",
+        "malawi"
+      ],
+      [
+        "operation-sentinel-africa",
+        "nigeria"
+      ],
+      [
+        "operation-sentinel-africa",
+        "senegal"
+      ],
+      [
+        "operation-sentinel-africa",
+        "south-africa"
+      ],
+      [
+        "operation-sentinel-africa",
+        "south-sudan"
+      ],
+      [
+        "operation-sentinel-africa",
+        "uganda"
+      ],
+      [
+        "operation-sentinel-africa",
+        "zambia"
+      ],
+      [
+        "operation-sentinel-africa",
+        "zimbabwe"
+      ],
+      [
+        "operation-source",
+        "eu-member-states"
+      ],
+      [
+        "operation-source",
+        "netherlands"
+      ],
+      [
+        "operation-source",
+        "united-states"
+      ],
+      [
+        "operation-stream-kidflix",
+        "germany"
+      ],
+      [
+        "operation-stream-kidflix",
+        "netherlands"
+      ],
+      [
+        "operation-talent",
+        "australia"
+      ],
+      [
+        "operation-talent",
+        "france"
+      ],
+      [
+        "operation-talent",
+        "germany"
+      ],
+      [
+        "operation-talent",
+        "greece"
+      ],
+      [
+        "operation-talent",
+        "italy"
+      ],
+      [
+        "operation-talent",
+        "romania"
+      ],
+      [
+        "operation-talent",
+        "spain"
+      ],
+      [
+        "operation-talent",
+        "united-states"
+      ],
+      [
+        "operation-trojan-shield",
+        "australia"
+      ],
+      [
+        "operation-trojan-shield",
+        "germany"
+      ],
+      [
+        "operation-trojan-shield",
+        "international"
+      ],
+      [
+        "operation-trojan-shield",
+        "netherlands"
+      ],
+      [
+        "operation-trojan-shield",
+        "sweden"
+      ],
+      [
+        "operation-trojan-shield",
+        "united-states"
+      ],
+      [
+        "operation-wirewire",
+        "canada"
+      ],
+      [
+        "operation-wirewire",
+        "mauritius"
+      ],
+      [
+        "operation-wirewire",
+        "nigeria"
+      ],
+      [
+        "operation-wirewire",
+        "poland"
+      ],
+      [
+        "operation-wirewire",
+        "united-states"
+      ],
+      [
+        "phobos-8base-crackdown",
+        "belgium"
+      ],
+      [
+        "phobos-8base-crackdown",
+        "czechia"
+      ],
+      [
+        "phobos-8base-crackdown",
+        "france"
+      ],
+      [
+        "phobos-8base-crackdown",
+        "germany"
+      ],
+      [
+        "phobos-8base-crackdown",
+        "japan"
+      ],
+      [
+        "phobos-8base-crackdown",
+        "poland"
+      ],
+      [
+        "phobos-8base-crackdown",
+        "romania"
+      ],
+      [
+        "phobos-8base-crackdown",
+        "singapore"
+      ],
+      [
+        "phobos-8base-crackdown",
+        "south-korea"
+      ],
+      [
+        "phobos-8base-crackdown",
+        "spain"
+      ],
+      [
+        "phobos-8base-crackdown",
+        "sweden"
+      ],
+      [
+        "phobos-8base-crackdown",
+        "switzerland"
+      ],
+      [
+        "phobos-8base-crackdown",
+        "thailand"
+      ],
+      [
+        "phobos-8base-crackdown",
+        "united-kingdom"
+      ],
+      [
+        "phobos-8base-crackdown",
+        "united-states"
+      ],
+      [
+        "proxy-service-takedown-2026-03",
+        "austria"
+      ],
+      [
+        "proxy-service-takedown-2026-03",
+        "france"
+      ],
+      [
+        "proxy-service-takedown-2026-03",
+        "netherlands"
+      ],
+      [
+        "proxy-service-takedown-2026-03",
+        "united-states"
+      ],
+      [
+        "qqaazz-money-laundering-takedown",
+        "bulgaria"
+      ],
+      [
+        "qqaazz-money-laundering-takedown",
+        "georgia"
+      ],
+      [
+        "qqaazz-money-laundering-takedown",
+        "latvia"
+      ],
+      [
+        "qqaazz-money-laundering-takedown",
+        "portugal"
+      ],
+      [
+        "qqaazz-money-laundering-takedown",
+        "spain"
+      ],
+      [
+        "qqaazz-money-laundering-takedown",
+        "united-kingdom"
+      ],
+      [
+        "qqaazz-money-laundering-takedown",
+        "united-states"
+      ],
+      [
+        "ramnit-botnet-takedown",
+        "germany"
+      ],
+      [
+        "ramnit-botnet-takedown",
+        "italy"
+      ],
+      [
+        "ramnit-botnet-takedown",
+        "netherlands"
+      ],
+      [
+        "ramnit-botnet-takedown",
+        "united-kingdom"
+      ],
+      [
+        "rex-mundi-takedown",
+        "france"
+      ],
+      [
+        "rex-mundi-takedown",
+        "thailand"
+      ],
+      [
+        "rex-mundi-takedown",
+        "united-kingdom"
+      ],
+      [
+        "rydox-marketplace-takedown",
+        "albania"
+      ],
+      [
+        "rydox-marketplace-takedown",
+        "kosovo"
+      ],
+      [
+        "rydox-marketplace-takedown",
+        "malaysia"
+      ],
+      [
+        "rydox-marketplace-takedown",
+        "united-states"
+      ],
+      [
+        "silk-road-takedown",
+        "australia"
+      ],
+      [
+        "silk-road-takedown",
+        "iceland"
+      ],
+      [
+        "silk-road-takedown",
+        "ireland"
+      ],
+      [
+        "silk-road-takedown",
+        "thailand"
+      ],
+      [
+        "silk-road-takedown",
+        "united-states"
+      ],
+      [
+        "simda-botnet-takedown",
+        "japan"
+      ],
+      [
+        "simda-botnet-takedown",
+        "luxembourg"
+      ],
+      [
+        "simda-botnet-takedown",
+        "netherlands"
+      ],
+      [
+        "simda-botnet-takedown",
+        "poland"
+      ],
+      [
+        "simda-botnet-takedown",
+        "russia"
+      ],
+      [
+        "simda-botnet-takedown",
+        "singapore"
+      ],
+      [
+        "simda-botnet-takedown",
+        "united-states"
+      ],
+      [
+        "trickbot-operations",
+        "south-korea"
+      ],
+      [
+        "trickbot-operations",
+        "united-states"
+      ],
+      [
+        "vpnlab-takedown",
+        "canada"
+      ],
+      [
+        "vpnlab-takedown",
+        "czech-republic"
+      ],
+      [
+        "vpnlab-takedown",
+        "france"
+      ],
+      [
+        "vpnlab-takedown",
+        "germany"
+      ],
+      [
+        "vpnlab-takedown",
+        "hungary"
+      ],
+      [
+        "vpnlab-takedown",
+        "latvia"
+      ],
+      [
+        "vpnlab-takedown",
+        "netherlands"
+      ],
+      [
+        "vpnlab-takedown",
+        "ukraine"
+      ],
+      [
+        "vpnlab-takedown",
+        "united-kingdom"
+      ],
+      [
+        "vpnlab-takedown",
+        "united-states"
+      ],
+      [
+        "xdedic-marketplace-takedown",
+        "belgium"
+      ],
+      [
+        "xdedic-marketplace-takedown",
+        "ukraine"
+      ],
+      [
+        "xdedic-marketplace-takedown",
+        "united-states"
+      ],
+      [
+        "zeus-spyeye-jit-takedown",
+        "austria"
+      ],
+      [
+        "zeus-spyeye-jit-takedown",
+        "belgium"
+      ],
+      [
+        "zeus-spyeye-jit-takedown",
+        "ukraine"
+      ]
+    ],
+    "nodes": [
+      {
+        "betweenness": 0.002998657583995,
+        "brokerage": {
+          "consultant": 4,
+          "coordinator": 0,
+          "gatekeeper": 0,
+          "liaison": 228,
+          "representative": 0,
+          "total": 232
+        },
+        "core_periphery": "core",
+        "degree": 0.0410958904109589,
+        "partition": "balkans",
+        "role": "participant",
+        "slug": "albania"
+      },
+      {
+        "betweenness": 0.0282173094660549,
+        "brokerage": {
+          "consultant": 0,
+          "coordinator": 0,
+          "gatekeeper": 287,
+          "liaison": 0,
+          "representative": 287,
+          "total": 574
+        },
+        "core_periphery": "core",
+        "degree": 0.0273972602739726,
+        "partition": "south-america",
+        "role": "specialist-broker",
+        "slug": "argentina"
+      },
+      {
+        "betweenness": 0.0018046841354383,
+        "brokerage": {
+          "consultant": 18,
+          "coordinator": 0,
+          "gatekeeper": 54,
+          "liaison": 512,
+          "representative": 54,
+          "total": 638
+        },
+        "core_periphery": "core",
+        "degree": 0.0547945205479452,
+        "partition": "eastern-europe",
+        "role": "participant",
+        "slug": "armenia"
+      },
+      {
+        "betweenness": 0.031568373870332,
+        "brokerage": {
+          "consultant": 86,
+          "coordinator": 0,
+          "gatekeeper": 0,
+          "liaison": 1798,
+          "representative": 0,
+          "total": 1884
+        },
+        "core_periphery": "core",
+        "degree": 0.2602739726027397,
+        "partition": "oceania",
+        "role": "participant",
+        "slug": "australia"
+      },
+      {
+        "betweenness": 0.0128231712852194,
+        "brokerage": {
+          "consultant": 22,
+          "coordinator": 10,
+          "gatekeeper": 147,
+          "liaison": 858,
+          "representative": 147,
+          "total": 1184
+        },
+        "core_periphery": "core",
+        "degree": 0.1232876712328767,
+        "partition": "western-europe",
+        "role": "participant",
+        "slug": "austria"
+      },
+      {
+        "betweenness": 0.0,
+        "brokerage": {
+          "consultant": 0,
+          "coordinator": 0,
+          "gatekeeper": 0,
+          "liaison": 0,
+          "representative": 0,
+          "total": 0
+        },
+        "core_periphery": "core",
+        "degree": 0.0136986301369863,
+        "partition": "caucasus",
+        "role": "participant",
+        "slug": "azerbaijan"
+      },
+      {
+        "betweenness": 7.49475796479074e-05,
+        "brokerage": {
+          "consultant": 0,
+          "coordinator": 0,
+          "gatekeeper": 0,
+          "liaison": 0,
+          "representative": 0,
+          "total": 0
+        },
+        "core_periphery": "core",
+        "degree": 0.0273972602739726,
+        "partition": "eastern-europe",
+        "role": "participant",
+        "slug": "belarus"
+      },
+      {
+        "betweenness": 0.0091412980890575,
+        "brokerage": {
+          "consultant": 22,
+          "coordinator": 6,
+          "gatekeeper": 51,
+          "liaison": 318,
+          "representative": 51,
+          "total": 448
+        },
+        "core_periphery": "core",
+        "degree": 0.1232876712328767,
+        "partition": "western-europe",
+        "role": "participant",
+        "slug": "belgium"
+      },
+      {
+        "betweenness": 0.0,
+        "brokerage": {
+          "consultant": 0,
+          "coordinator": 0,
+          "gatekeeper": 0,
+          "liaison": 0,
+          "representative": 0,
+          "total": 0
+        },
+        "core_periphery": "core",
+        "degree": 0.0136986301369863,
+        "partition": "central-america",
+        "role": "participant",
+        "slug": "belize"
+      },
+      {
+        "betweenness": 0.0008541330778899,
+        "brokerage": {
+          "consultant": 2,
+          "coordinator": 4,
+          "gatekeeper": 29,
+          "liaison": 26,
+          "representative": 29,
+          "total": 90
+        },
+        "core_periphery": "core",
+        "degree": 0.0273972602739726,
+        "partition": "west-africa",
+        "role": "participant",
+        "slug": "benin"
+      },
+      {
+        "betweenness": 0.0,
+        "brokerage": {
+          "consultant": 0,
+          "coordinator": 0,
+          "gatekeeper": 0,
+          "liaison": 0,
+          "representative": 0,
+          "total": 0
+        },
+        "core_periphery": "core",
+        "degree": 0.0136986301369863,
+        "partition": "south-america",
+        "role": "participant",
+        "slug": "bolivia"
+      },
+      {
+        "betweenness": 0.0,
+        "brokerage": {
+          "consultant": 0,
+          "coordinator": 0,
+          "gatekeeper": 0,
+          "liaison": 0,
+          "representative": 0,
+          "total": 0
+        },
+        "core_periphery": "core",
+        "degree": 0.0136986301369863,
+        "partition": "southeastern-europe",
+        "role": "participant",
+        "slug": "bosnia-and-herzegovina"
+      },
+      {
+        "betweenness": 0.0,
+        "brokerage": {
+          "consultant": 0,
+          "coordinator": 0,
+          "gatekeeper": 0,
+          "liaison": 0,
+          "representative": 0,
+          "total": 0
+        },
+        "core_periphery": "core",
+        "degree": 0.0136986301369863,
+        "partition": "unknown",
+        "role": "participant",
+        "slug": "botswana"
+      },
+      {
+        "betweenness": 0.0431051370709581,
+        "brokerage": {
+          "consultant": 2,
+          "coordinator": 0,
+          "gatekeeper": 328,
+          "liaison": 90,
+          "representative": 328,
+          "total": 748
+        },
+        "core_periphery": "core",
+        "degree": 0.0410958904109589,
+        "partition": "south-america",
+        "role": "specialist-broker",
+        "slug": "brazil"
+      },
+      {
+        "betweenness": 0.0003634739937482,
+        "brokerage": {
+          "consultant": 0,
+          "coordinator": 22,
+          "gatekeeper": 17,
+          "liaison": 0,
+          "representative": 17,
+          "total": 56
+        },
+        "core_periphery": "core",
+        "degree": 0.0273972602739726,
+        "partition": "unknown",
+        "role": "participant",
+        "slug": "brunei"
+      },
+      {
+        "betweenness": 0.0068483763943499,
+        "brokerage": {
+          "consultant": 18,
+          "coordinator": 4,
+          "gatekeeper": 84,
+          "liaison": 628,
+          "representative": 84,
+          "total": 818
+        },
+        "core_periphery": "core",
+        "degree": 0.136986301369863,
+        "partition": "eastern-europe",
+        "role": "participant",
+        "slug": "bulgaria"
+      },
+      {
+        "betweenness": 0.0,
+        "brokerage": {
+          "consultant": 0,
+          "coordinator": 0,
+          "gatekeeper": 0,
+          "liaison": 0,
+          "representative": 0,
+          "total": 0
+        },
+        "core_periphery": "core",
+        "degree": 0.0136986301369863,
+        "partition": "unknown",
+        "role": "participant",
+        "slug": "burkina-faso"
+      },
+      {
+        "betweenness": 0.0012987690537114,
+        "brokerage": {
+          "consultant": 0,
+          "coordinator": 38,
+          "gatekeeper": 91,
+          "liaison": 14,
+          "representative": 91,
+          "total": 234
+        },
+        "core_periphery": "core",
+        "degree": 0.0410958904109589,
+        "partition": "unknown",
+        "role": "participant",
+        "slug": "cambodia"
+      },
+      {
+        "betweenness": 0.0008563535911602,
+        "brokerage": {
+          "consultant": 4,
+          "coordinator": 0,
+          "gatekeeper": 0,
+          "liaison": 86,
+          "representative": 0,
+          "total": 90
+        },
+        "core_periphery": "core",
+        "degree": 0.0273972602739726,
+        "partition": "central-africa",
+        "role": "participant",
+        "slug": "cameroon"
+      },
+      {
+        "betweenness": 0.013820912036271,
+        "brokerage": {
+          "consultant": 46,
+          "coordinator": 0,
+          "gatekeeper": 0,
+          "liaison": 1128,
+          "representative": 0,
+          "total": 1174
+        },
+        "core_periphery": "core",
+        "degree": 0.2054794520547945,
+        "partition": "north-america",
+        "role": "participant",
+        "slug": "canada"
+      },
+      {
+        "betweenness": 0.0,
+        "brokerage": {
+          "consultant": 0,
+          "coordinator": 0,
+          "gatekeeper": 0,
+          "liaison": 0,
+          "representative": 0,
+          "total": 0
+        },
+        "core_periphery": "core",
+        "degree": 0.0136986301369863,
+        "partition": "unknown",
+        "role": "participant",
+        "slug": "chad"
+      },
+      {
+        "betweenness": 0.0,
+        "brokerage": {
+          "consultant": 0,
+          "coordinator": 0,
+          "gatekeeper": 0,
+          "liaison": 0,
+          "representative": 0,
+          "total": 0
+        },
+        "core_periphery": "core",
+        "degree": 0.0136986301369863,
+        "partition": "south-america",
+        "role": "participant",
+        "slug": "chile"
+      },
+      {
+        "betweenness": 0.0027809593758444,
+        "brokerage": {
+          "consultant": 0,
+          "coordinator": 0,
+          "gatekeeper": 0,
+          "liaison": 0,
+          "representative": 0,
+          "total": 0
+        },
+        "core_periphery": "core",
+        "degree": 0.0273972602739726,
+        "partition": "east-asia",
+        "role": "participant",
+        "slug": "china"
+      },
+      {
+        "betweenness": 0.0329612163363179,
+        "brokerage": {
+          "consultant": 0,
+          "coordinator": 0,
+          "gatekeeper": 301,
+          "liaison": 22,
+          "representative": 301,
+          "total": 624
+        },
+        "core_periphery": "core",
+        "degree": 0.0410958904109589,
+        "partition": "south-america",
+        "role": "specialist-broker",
+        "slug": "colombia"
+      },
+      {
+        "betweenness": 0.0,
+        "brokerage": {
+          "consultant": 0,
+          "coordinator": 0,
+          "gatekeeper": 0,
+          "liaison": 0,
+          "representative": 0,
+          "total": 0
+        },
+        "core_periphery": "core",
+        "degree": 0.0136986301369863,
+        "partition": "unknown",
+        "role": "participant",
+        "slug": "congo"
+      },
+      {
+        "betweenness": 0.0,
+        "brokerage": {
+          "consultant": 0,
+          "coordinator": 0,
+          "gatekeeper": 0,
+          "liaison": 0,
+          "representative": 0,
+          "total": 0
+        },
+        "core_periphery": "core",
+        "degree": 0.0136986301369863,
+        "partition": "unknown",
+        "role": "participant",
+        "slug": "cote-d-ivoire"
+      },
+      {
+        "betweenness": 0.0006913662593163,
+        "brokerage": {
+          "consultant": 0,
+          "coordinator": 0,
+          "gatekeeper": 4,
+          "liaison": 12,
+          "representative": 4,
+          "total": 20
+        },
+        "core_periphery": "core",
+        "degree": 0.0273972602739726,
+        "partition": "west-africa",
+        "role": "participant",
+        "slug": "cote-divoire"
+      },
+      {
+        "betweenness": 0.0,
+        "brokerage": {
+          "consultant": 0,
+          "coordinator": 0,
+          "gatekeeper": 0,
+          "liaison": 0,
+          "representative": 0,
+          "total": 0
+        },
+        "core_periphery": "core",
+        "degree": 0.0136986301369863,
+        "partition": "southeastern-europe",
+        "role": "participant",
+        "slug": "croatia"
+      },
+      {
+        "betweenness": 0.0004615052152687,
+        "brokerage": {
+          "consultant": 2,
+          "coordinator": 0,
+          "gatekeeper": 0,
+          "liaison": 26,
+          "representative": 0,
+          "total": 28
+        },
+        "core_periphery": "core",
+        "degree": 0.0547945205479452,
+        "partition": "eastern-mediterranean",
+        "role": "participant",
+        "slug": "cyprus"
+      },
+      {
+        "betweenness": 0.0003169964270976,
+        "brokerage": {
+          "consultant": 4,
+          "coordinator": 0,
+          "gatekeeper": 1,
+          "liaison": 30,
+          "representative": 1,
+          "total": 36
+        },
+        "core_periphery": "core",
+        "degree": 0.0547945205479452,
+        "partition": "central-europe",
+        "role": "participant",
+        "slug": "czech-republic"
+      },
+      {
+        "betweenness": 0.0,
+        "brokerage": {
+          "consultant": 0,
+          "coordinator": 0,
+          "gatekeeper": 0,
+          "liaison": 0,
+          "representative": 0,
+          "total": 0
+        },
+        "core_periphery": "core",
+        "degree": 0.0136986301369863,
+        "partition": "central-europe",
+        "role": "participant",
+        "slug": "czechia"
+      },
+      {
+        "betweenness": 0.0,
+        "brokerage": {
+          "consultant": 0,
+          "coordinator": 0,
+          "gatekeeper": 0,
+          "liaison": 0,
+          "representative": 0,
+          "total": 0
+        },
+        "core_periphery": "core",
+        "degree": 0.0136986301369863,
+        "partition": "unknown",
+        "role": "participant",
+        "slug": "democratic-republic-of-the-congo"
+      },
+      {
+        "betweenness": 0.0011016437424618,
+        "brokerage": {
+          "consultant": 0,
+          "coordinator": 0,
+          "gatekeeper": 1,
+          "liaison": 24,
+          "representative": 1,
+          "total": 26
+        },
+        "core_periphery": "core",
+        "degree": 0.0958904109589041,
+        "partition": "northern-europe",
+        "role": "participant",
+        "slug": "denmark"
+      },
+      {
+        "betweenness": 0.0,
+        "brokerage": {
+          "consultant": 0,
+          "coordinator": 0,
+          "gatekeeper": 0,
+          "liaison": 0,
+          "representative": 0,
+          "total": 0
+        },
+        "core_periphery": "core",
+        "degree": 0.0136986301369863,
+        "partition": "unknown",
+        "role": "participant",
+        "slug": "djibouti"
+      },
+      {
+        "betweenness": 0.0,
+        "brokerage": {
+          "consultant": 0,
+          "coordinator": 0,
+          "gatekeeper": 0,
+          "liaison": 0,
+          "representative": 0,
+          "total": 0
+        },
+        "core_periphery": "core",
+        "degree": 0.0136986301369863,
+        "partition": "south-america",
+        "role": "participant",
+        "slug": "ecuador"
+      },
+      {
+        "betweenness": 0.0,
+        "brokerage": {
+          "consultant": 0,
+          "coordinator": 0,
+          "gatekeeper": 0,
+          "liaison": 0,
+          "representative": 0,
+          "total": 0
+        },
+        "core_periphery": "core",
+        "degree": 0.0136986301369863,
+        "partition": "unknown",
+        "role": "participant",
+        "slug": "eu-member-states"
+      },
+      {
+        "betweenness": 0.0071827501888891,
+        "brokerage": {
+          "consultant": 26,
+          "coordinator": 2,
+          "gatekeeper": 24,
+          "liaison": 308,
+          "representative": 24,
+          "total": 384
+        },
+        "core_periphery": "core",
+        "degree": 0.0958904109589041,
+        "partition": "northern-europe",
+        "role": "participant",
+        "slug": "finland"
+      },
+      {
+        "betweenness": 0.0464640644064116,
+        "brokerage": {
+          "consultant": 54,
+          "coordinator": 10,
+          "gatekeeper": 209,
+          "liaison": 1492,
+          "representative": 209,
+          "total": 1974
+        },
+        "core_periphery": "core",
+        "degree": 0.3424657534246575,
+        "partition": "western-europe",
+        "role": "regional-coordinator",
+        "slug": "france"
+      },
+      {
+        "betweenness": 0.0,
+        "brokerage": {
+          "consultant": 0,
+          "coordinator": 0,
+          "gatekeeper": 0,
+          "liaison": 0,
+          "representative": 0,
+          "total": 0
+        },
+        "core_periphery": "core",
+        "degree": 0.0136986301369863,
+        "partition": "unknown",
+        "role": "participant",
+        "slug": "gabon"
+      },
+      {
+        "betweenness": 0.0,
+        "brokerage": {
+          "consultant": 0,
+          "coordinator": 0,
+          "gatekeeper": 0,
+          "liaison": 0,
+          "representative": 0,
+          "total": 0
+        },
+        "core_periphery": "core",
+        "degree": 0.0136986301369863,
+        "partition": "west-africa",
+        "role": "participant",
+        "slug": "gambia"
+      },
+      {
+        "betweenness": 0.0001347486882913,
+        "brokerage": {
+          "consultant": 0,
+          "coordinator": 0,
+          "gatekeeper": 0,
+          "liaison": 0,
+          "representative": 0,
+          "total": 0
+        },
+        "core_periphery": "core",
+        "degree": 0.0410958904109589,
+        "partition": "south-caucasus",
+        "role": "participant",
+        "slug": "georgia"
+      },
+      {
+        "betweenness": 0.0693535699428141,
+        "brokerage": {
+          "consultant": 38,
+          "coordinator": 10,
+          "gatekeeper": 171,
+          "liaison": 1164,
+          "representative": 171,
+          "total": 1554
+        },
+        "core_periphery": "core",
+        "degree": 0.4383561643835616,
+        "partition": "western-europe",
+        "role": "regional-coordinator",
+        "slug": "germany"
+      },
+      {
+        "betweenness": 0.0439266995308931,
+        "brokerage": {
+          "consultant": 312,
+          "coordinator": 0,
+          "gatekeeper": 40,
+          "liaison": 1154,
+          "representative": 40,
+          "total": 1546
+        },
+        "core_periphery": "core",
+        "degree": 0.0547945205479452,
+        "partition": "west-africa",
+        "role": "specialist-broker",
+        "slug": "ghana"
+      },
+      {
+        "betweenness": 9.746338198784892e-05,
+        "brokerage": {
+          "consultant": 0,
+          "coordinator": 0,
+          "gatekeeper": 1,
+          "liaison": 0,
+          "representative": 1,
+          "total": 2
+        },
+        "core_periphery": "core",
+        "degree": 0.0410958904109589,
+        "partition": "southern-europe",
+        "role": "participant",
+        "slug": "greece"
+      },
+      {
+        "betweenness": 0.0,
+        "brokerage": {
+          "consultant": 0,
+          "coordinator": 0,
+          "gatekeeper": 0,
+          "liaison": 0,
+          "representative": 0,
+          "total": 0
+        },
+        "core_periphery": "core",
+        "degree": 0.0136986301369863,
+        "partition": "south-america",
+        "role": "participant",
+        "slug": "guyana"
+      },
+      {
+        "betweenness": 0.0,
+        "brokerage": {
+          "consultant": 0,
+          "coordinator": 0,
+          "gatekeeper": 0,
+          "liaison": 0,
+          "representative": 0,
+          "total": 0
+        },
+        "core_periphery": "core",
+        "degree": 0.0136986301369863,
+        "partition": "east-asia",
+        "role": "participant",
+        "slug": "hong-kong"
+      },
+      {
+        "betweenness": 0.0,
+        "brokerage": {
+          "consultant": 0,
+          "coordinator": 0,
+          "gatekeeper": 0,
+          "liaison": 0,
+          "representative": 0,
+          "total": 0
+        },
+        "core_periphery": "core",
+        "degree": 0.0136986301369863,
+        "partition": "unknown",
+        "role": "participant",
+        "slug": "hong-kong-china"
+      },
+      {
+        "betweenness": 0.0026540713265877,
+        "brokerage": {
+          "consultant": 16,
+          "coordinator": 0,
+          "gatekeeper": 11,
+          "liaison": 170,
+          "representative": 11,
+          "total": 208
+        },
+        "core_periphery": "core",
+        "degree": 0.0684931506849315,
+        "partition": "central-europe",
+        "role": "participant",
+        "slug": "hungary"
+      },
+      {
+        "betweenness": 3.973433045878254e-05,
+        "brokerage": {
+          "consultant": 0,
+          "coordinator": 0,
+          "gatekeeper": 0,
+          "liaison": 2,
+          "representative": 0,
+          "total": 2
+        },
+        "core_periphery": "core",
+        "degree": 0.0273972602739726,
+        "partition": "northern-europe",
+        "role": "participant",
+        "slug": "iceland"
+      },
+      {
+        "betweenness": 0.0053960163680983,
+        "brokerage": {
+          "consultant": 38,
+          "coordinator": 0,
+          "gatekeeper": 0,
+          "liaison": 854,
+          "representative": 0,
+          "total": 892
+        },
+        "core_periphery": "core",
+        "degree": 0.0684931506849315,
+        "partition": "south-asia",
+        "role": "participant",
+        "slug": "india"
+      },
+      {
+        "betweenness": 0.0027305060977856,
+        "brokerage": {
+          "consultant": 38,
+          "coordinator": 0,
+          "gatekeeper": 0,
+          "liaison": 196,
+          "representative": 0,
+          "total": 234
+        },
+        "core_periphery": "core",
+        "degree": 0.0547945205479452,
+        "partition": "southeast-asia",
+        "role": "participant",
+        "slug": "indonesia"
+      },
+      {
+        "betweenness": 0.0,
+        "brokerage": {
+          "consultant": 0,
+          "coordinator": 0,
+          "gatekeeper": 0,
+          "liaison": 0,
+          "representative": 0,
+          "total": 0
+        },
+        "core_periphery": "core",
+        "degree": 0.0136986301369863,
+        "partition": "transnational",
+        "role": "participant",
+        "slug": "international"
+      },
+      {
+        "betweenness": 0.0036601040495461,
+        "brokerage": {
+          "consultant": 28,
+          "coordinator": 2,
+          "gatekeeper": 97,
+          "liaison": 440,
+          "representative": 97,
+          "total": 664
+        },
+        "core_periphery": "core",
+        "degree": 0.0684931506849315,
+        "partition": "western-europe",
+        "role": "participant",
+        "slug": "ireland"
+      },
+      {
+        "betweenness": 0.0002783118346341,
+        "brokerage": {
+          "consultant": 0,
+          "coordinator": 0,
+          "gatekeeper": 0,
+          "liaison": 20,
+          "representative": 0,
+          "total": 20
+        },
+        "core_periphery": "core",
+        "degree": 0.0273972602739726,
+        "partition": "middle-east",
+        "role": "participant",
+        "slug": "israel"
+      },
+      {
+        "betweenness": 0.0114559477647132,
+        "brokerage": {
+          "consultant": 28,
+          "coordinator": 0,
+          "gatekeeper": 37,
+          "liaison": 538,
+          "representative": 37,
+          "total": 640
+        },
+        "core_periphery": "core",
+        "degree": 0.1780821917808219,
+        "partition": "southern-europe",
+        "role": "participant",
+        "slug": "italy"
+      },
+      {
+        "betweenness": 0.0194947949500808,
+        "brokerage": {
+          "consultant": 80,
+          "coordinator": 2,
+          "gatekeeper": 83,
+          "liaison": 874,
+          "representative": 83,
+          "total": 1122
+        },
+        "core_periphery": "core",
+        "degree": 0.1643835616438356,
+        "partition": "east-asia",
+        "role": "participant",
+        "slug": "japan"
+      },
+      {
+        "betweenness": 0.0,
+        "brokerage": {
+          "consultant": 0,
+          "coordinator": 0,
+          "gatekeeper": 0,
+          "liaison": 0,
+          "representative": 0,
+          "total": 0
+        },
+        "core_periphery": "core",
+        "degree": 0.0136986301369863,
+        "partition": "unknown",
+        "role": "participant",
+        "slug": "kazakhstan"
+      },
+      {
+        "betweenness": 0.0103191615297261,
+        "brokerage": {
+          "consultant": 4,
+          "coordinator": 0,
+          "gatekeeper": 43,
+          "liaison": 254,
+          "representative": 43,
+          "total": 344
+        },
+        "core_periphery": "core",
+        "degree": 0.0410958904109589,
+        "partition": "east-africa",
+        "role": "participant",
+        "slug": "kenya"
+      },
+      {
+        "betweenness": 0.0,
+        "brokerage": {
+          "consultant": 0,
+          "coordinator": 0,
+          "gatekeeper": 0,
+          "liaison": 0,
+          "representative": 0,
+          "total": 0
+        },
+        "core_periphery": "core",
+        "degree": 0.0136986301369863,
+        "partition": "western-balkans",
+        "role": "participant",
+        "slug": "kosovo"
+      },
+      {
+        "betweenness": 0.0,
+        "brokerage": {
+          "consultant": 0,
+          "coordinator": 0,
+          "gatekeeper": 0,
+          "liaison": 0,
+          "representative": 0,
+          "total": 0
+        },
+        "core_periphery": "core",
+        "degree": 0.0136986301369863,
+        "partition": "unknown",
+        "role": "participant",
+        "slug": "kyrgyzstan"
+      },
+      {
+        "betweenness": 0.0003634739937482,
+        "brokerage": {
+          "consultant": 0,
+          "coordinator": 22,
+          "gatekeeper": 17,
+          "liaison": 0,
+          "representative": 17,
+          "total": 56
+        },
+        "core_periphery": "core",
+        "degree": 0.0273972602739726,
+        "partition": "unknown",
+        "role": "participant",
+        "slug": "laos"
+      },
+      {
+        "betweenness": 0.0012689238889545,
+        "brokerage": {
+          "consultant": 4,
+          "coordinator": 0,
+          "gatekeeper": 19,
+          "liaison": 110,
+          "representative": 19,
+          "total": 152
+        },
+        "core_periphery": "core",
+        "degree": 0.0821917808219178,
+        "partition": "eastern-europe",
+        "role": "participant",
+        "slug": "latvia"
+      },
+      {
+        "betweenness": 0.0022807190735722,
+        "brokerage": {
+          "consultant": 12,
+          "coordinator": 4,
+          "gatekeeper": 19,
+          "liaison": 102,
+          "representative": 19,
+          "total": 156
+        },
+        "core_periphery": "core",
+        "degree": 0.1095890410958904,
+        "partition": "eastern-europe",
+        "role": "participant",
+        "slug": "lithuania"
+      },
+      {
+        "betweenness": 0.0008742382357816,
+        "brokerage": {
+          "consultant": 6,
+          "coordinator": 6,
+          "gatekeeper": 32,
+          "liaison": 124,
+          "representative": 32,
+          "total": 200
+        },
+        "core_periphery": "core",
+        "degree": 0.0547945205479452,
+        "partition": "western-europe",
+        "role": "participant",
+        "slug": "luxembourg"
+      },
+      {
+        "betweenness": 0.0,
+        "brokerage": {
+          "consultant": 0,
+          "coordinator": 0,
+          "gatekeeper": 0,
+          "liaison": 0,
+          "representative": 0,
+          "total": 0
+        },
+        "core_periphery": "core",
+        "degree": 0.0136986301369863,
+        "partition": "unknown",
+        "role": "participant",
+        "slug": "malawi"
+      },
+      {
+        "betweenness": 0.0116692654149478,
+        "brokerage": {
+          "consultant": 40,
+          "coordinator": 0,
+          "gatekeeper": 12,
+          "liaison": 516,
+          "representative": 12,
+          "total": 580
+        },
+        "core_periphery": "core",
+        "degree": 0.0958904109589041,
+        "partition": "southeast-asia",
+        "role": "participant",
+        "slug": "malaysia"
+      },
+      {
+        "betweenness": 0.0,
+        "brokerage": {
+          "consultant": 0,
+          "coordinator": 0,
+          "gatekeeper": 0,
+          "liaison": 0,
+          "representative": 0,
+          "total": 0
+        },
+        "core_periphery": "core",
+        "degree": 0.0136986301369863,
+        "partition": "unknown",
+        "role": "participant",
+        "slug": "maldives"
+      },
+      {
+        "betweenness": 0.0012508345820796,
+        "brokerage": {
+          "consultant": 0,
+          "coordinator": 0,
+          "gatekeeper": 5,
+          "liaison": 12,
+          "representative": 5,
+          "total": 22
+        },
+        "core_periphery": "core",
+        "degree": 0.0273972602739726,
+        "partition": "east-africa",
+        "role": "participant",
+        "slug": "mauritius"
+      },
+      {
+        "betweenness": 0.0013492518027855,
+        "brokerage": {
+          "consultant": 2,
+          "coordinator": 8,
+          "gatekeeper": 17,
+          "liaison": 54,
+          "representative": 17,
+          "total": 98
+        },
+        "core_periphery": "core",
+        "degree": 0.0684931506849315,
+        "partition": "eastern-europe",
+        "role": "participant",
+        "slug": "moldova"
+      },
+      {
+        "betweenness": 8.179113952690585e-05,
+        "brokerage": {
+          "consultant": 8,
+          "coordinator": 0,
+          "gatekeeper": 0,
+          "liaison": 20,
+          "representative": 0,
+          "total": 28
+        },
+        "core_periphery": "core",
+        "degree": 0.0273972602739726,
+        "partition": "southeastern-europe",
+        "role": "participant",
+        "slug": "montenegro"
+      },
+      {
+        "betweenness": 6.848474207023678e-05,
+        "brokerage": {
+          "consultant": 0,
+          "coordinator": 0,
+          "gatekeeper": 0,
+          "liaison": 0,
+          "representative": 0,
+          "total": 0
+        },
+        "core_periphery": "core",
+        "degree": 0.0273972602739726,
+        "partition": "unknown",
+        "role": "participant",
+        "slug": "myanmar"
+      },
+      {
+        "betweenness": 0.0454893985884828,
+        "brokerage": {
+          "consultant": 30,
+          "coordinator": 10,
+          "gatekeeper": 104,
+          "liaison": 506,
+          "representative": 104,
+          "total": 754
+        },
+        "core_periphery": "core",
+        "degree": 0.3972602739726027,
+        "partition": "western-europe",
+        "role": "regional-coordinator",
+        "slug": "netherlands"
+      },
+      {
+        "betweenness": 0.0,
+        "brokerage": {
+          "consultant": 0,
+          "coordinator": 0,
+          "gatekeeper": 0,
+          "liaison": 0,
+          "representative": 0,
+          "total": 0
+        },
+        "core_periphery": "core",
+        "degree": 0.0136986301369863,
+        "partition": "unknown",
+        "role": "participant",
+        "slug": "new-zealand"
+      },
+      {
+        "betweenness": 0.1071075450317713,
+        "brokerage": {
+          "consultant": 356,
+          "coordinator": 12,
+          "gatekeeper": 224,
+          "liaison": 1688,
+          "representative": 224,
+          "total": 2504
+        },
+        "core_periphery": "core",
+        "degree": 0.1232876712328767,
+        "partition": "west-africa",
+        "role": "specialist-broker",
+        "slug": "nigeria"
+      },
+      {
+        "betweenness": 0.0002756444694067,
+        "brokerage": {
+          "consultant": 0,
+          "coordinator": 0,
+          "gatekeeper": 2,
+          "liaison": 0,
+          "representative": 2,
+          "total": 4
+        },
+        "core_periphery": "core",
+        "degree": 0.0273972602739726,
+        "partition": "western-europe",
+        "role": "participant",
+        "slug": "norway"
+      },
+      {
+        "betweenness": 0.0,
+        "brokerage": {
+          "consultant": 0,
+          "coordinator": 0,
+          "gatekeeper": 0,
+          "liaison": 0,
+          "representative": 0,
+          "total": 0
+        },
+        "core_periphery": "periphery",
+        "degree": 0.0136986301369863,
+        "partition": "south-asia",
+        "role": "participant",
+        "slug": "pakistan"
+      },
+      {
+        "betweenness": 0.0,
+        "brokerage": {
+          "consultant": 0,
+          "coordinator": 0,
+          "gatekeeper": 0,
+          "liaison": 0,
+          "representative": 0,
+          "total": 0
+        },
+        "core_periphery": "core",
+        "degree": 0.0136986301369863,
+        "partition": "south-america",
+        "role": "participant",
+        "slug": "paraguay"
+      },
+      {
+        "betweenness": 0.0,
+        "brokerage": {
+          "consultant": 0,
+          "coordinator": 0,
+          "gatekeeper": 0,
+          "liaison": 0,
+          "representative": 0,
+          "total": 0
+        },
+        "core_periphery": "core",
+        "degree": 0.0136986301369863,
+        "partition": "south-america",
+        "role": "participant",
+        "slug": "peru"
+      },
+      {
+        "betweenness": 0.0027305060977856,
+        "brokerage": {
+          "consultant": 0,
+          "coordinator": 38,
+          "gatekeeper": 91,
+          "liaison": 14,
+          "representative": 91,
+          "total": 234
+        },
+        "core_periphery": "core",
+        "degree": 0.0547945205479452,
+        "partition": "unknown",
+        "role": "participant",
+        "slug": "philippines"
+      },
+      {
+        "betweenness": 0.0186188649630499,
+        "brokerage": {
+          "consultant": 94,
+          "coordinator": 14,
+          "gatekeeper": 191,
+          "liaison": 1182,
+          "representative": 191,
+          "total": 1672
+        },
+        "core_periphery": "core",
+        "degree": 0.1643835616438356,
+        "partition": "eastern-europe",
+        "role": "regional-coordinator",
+        "slug": "poland"
+      },
+      {
+        "betweenness": 0.0075496665590089,
+        "brokerage": {
+          "consultant": 4,
+          "coordinator": 2,
+          "gatekeeper": 69,
+          "liaison": 462,
+          "representative": 69,
+          "total": 606
+        },
+        "core_periphery": "core",
+        "degree": 0.1095890410958904,
+        "partition": "western-europe",
+        "role": "participant",
+        "slug": "portugal"
+      },
+      {
+        "betweenness": 0.0181572221052591,
+        "brokerage": {
+          "consultant": 48,
+          "coordinator": 14,
+          "gatekeeper": 181,
+          "liaison": 1126,
+          "representative": 181,
+          "total": 1550
+        },
+        "core_periphery": "core",
+        "degree": 0.1917808219178082,
+        "partition": "eastern-europe",
+        "role": "regional-coordinator",
+        "slug": "romania"
+      },
+      {
+        "betweenness": 0.0,
+        "brokerage": {
+          "consultant": 0,
+          "coordinator": 0,
+          "gatekeeper": 0,
+          "liaison": 0,
+          "representative": 0,
+          "total": 0
+        },
+        "core_periphery": "periphery",
+        "degree": 0.0136986301369863,
+        "partition": "unknown",
+        "role": "participant",
+        "slug": "russia"
+      },
+      {
+        "betweenness": 0.0,
+        "brokerage": {
+          "consultant": 0,
+          "coordinator": 0,
+          "gatekeeper": 0,
+          "liaison": 0,
+          "representative": 0,
+          "total": 0
+        },
+        "core_periphery": "core",
+        "degree": 0.0136986301369863,
+        "partition": "east-africa",
+        "role": "participant",
+        "slug": "rwanda"
+      },
+      {
+        "betweenness": 0.0,
+        "brokerage": {
+          "consultant": 0,
+          "coordinator": 0,
+          "gatekeeper": 0,
+          "liaison": 0,
+          "representative": 0,
+          "total": 0
+        },
+        "core_periphery": "core",
+        "degree": 0.0136986301369863,
+        "partition": "unknown",
+        "role": "participant",
+        "slug": "senegal"
+      },
+      {
+        "betweenness": 0.0254582062523315,
+        "brokerage": {
+          "consultant": 94,
+          "coordinator": 0,
+          "gatekeeper": 55,
+          "liaison": 1326,
+          "representative": 55,
+          "total": 1530
+        },
+        "core_periphery": "core",
+        "degree": 0.136986301369863,
+        "partition": "southeast-asia",
+        "role": "participant",
+        "slug": "singapore"
+      },
+      {
+        "betweenness": 0.0,
+        "brokerage": {
+          "consultant": 0,
+          "coordinator": 0,
+          "gatekeeper": 0,
+          "liaison": 0,
+          "representative": 0,
+          "total": 0
+        },
+        "core_periphery": "core",
+        "degree": 0.0136986301369863,
+        "partition": "unknown",
+        "role": "participant",
+        "slug": "slovenia"
+      },
+      {
+        "betweenness": 0.0657659436052746,
+        "brokerage": {
+          "consultant": 330,
+          "coordinator": 0,
+          "gatekeeper": 41,
+          "liaison": 1614,
+          "representative": 41,
+          "total": 2026
+        },
+        "core_periphery": "core",
+        "degree": 0.0684931506849315,
+        "partition": "southern-africa",
+        "role": "specialist-broker",
+        "slug": "south-africa"
+      },
+      {
+        "betweenness": 0.0144294692336169,
+        "brokerage": {
+          "consultant": 26,
+          "coordinator": 2,
+          "gatekeeper": 50,
+          "liaison": 264,
+          "representative": 50,
+          "total": 392
+        },
+        "core_periphery": "core",
+        "degree": 0.0958904109589041,
+        "partition": "east-asia",
+        "role": "participant",
+        "slug": "south-korea"
+      },
+      {
+        "betweenness": 0.0,
+        "brokerage": {
+          "consultant": 0,
+          "coordinator": 0,
+          "gatekeeper": 0,
+          "liaison": 0,
+          "representative": 0,
+          "total": 0
+        },
+        "core_periphery": "core",
+        "degree": 0.0136986301369863,
+        "partition": "unknown",
+        "role": "participant",
+        "slug": "south-sudan"
+      },
+      {
+        "betweenness": 0.0408050715057503,
+        "brokerage": {
+          "consultant": 52,
+          "coordinator": 10,
+          "gatekeeper": 197,
+          "liaison": 1262,
+          "representative": 197,
+          "total": 1718
+        },
+        "core_periphery": "core",
+        "degree": 0.2602739726027397,
+        "partition": "western-europe",
+        "role": "regional-coordinator",
+        "slug": "spain"
+      },
+      {
+        "betweenness": 0.0,
+        "brokerage": {
+          "consultant": 0,
+          "coordinator": 0,
+          "gatekeeper": 0,
+          "liaison": 0,
+          "representative": 0,
+          "total": 0
+        },
+        "core_periphery": "core",
+        "degree": 0.0136986301369863,
+        "partition": "south-america",
+        "role": "participant",
+        "slug": "suriname"
+      },
+      {
+        "betweenness": 0.0158394581447699,
+        "brokerage": {
+          "consultant": 72,
+          "coordinator": 2,
+          "gatekeeper": 77,
+          "liaison": 1346,
+          "representative": 77,
+          "total": 1574
+        },
+        "core_periphery": "core",
+        "degree": 0.1780821917808219,
+        "partition": "northern-europe",
+        "role": "participant",
+        "slug": "sweden"
+      },
+      {
+        "betweenness": 0.0111852973758084,
+        "brokerage": {
+          "consultant": 8,
+          "coordinator": 4,
+          "gatekeeper": 41,
+          "liaison": 234,
+          "representative": 41,
+          "total": 328
+        },
+        "core_periphery": "core",
+        "degree": 0.1643835616438356,
+        "partition": "western-europe",
+        "role": "regional-coordinator",
+        "slug": "switzerland"
+      },
+      {
+        "betweenness": 0.0004025843995343,
+        "brokerage": {
+          "consultant": 8,
+          "coordinator": 0,
+          "gatekeeper": 0,
+          "liaison": 20,
+          "representative": 0,
+          "total": 28
+        },
+        "core_periphery": "core",
+        "degree": 0.0410958904109589,
+        "partition": "east-asia",
+        "role": "participant",
+        "slug": "taiwan"
+      },
+      {
+        "betweenness": 0.0,
+        "brokerage": {
+          "consultant": 0,
+          "coordinator": 0,
+          "gatekeeper": 0,
+          "liaison": 0,
+          "representative": 0,
+          "total": 0
+        },
+        "core_periphery": "core",
+        "degree": 0.0136986301369863,
+        "partition": "east-africa",
+        "role": "participant",
+        "slug": "tanzania"
+      },
+      {
+        "betweenness": 0.0140881299917477,
+        "brokerage": {
+          "consultant": 42,
+          "coordinator": 0,
+          "gatekeeper": 14,
+          "liaison": 572,
+          "representative": 14,
+          "total": 642
+        },
+        "core_periphery": "core",
+        "degree": 0.1232876712328767,
+        "partition": "southeast-asia",
+        "role": "participant",
+        "slug": "thailand"
+      },
+      {
+        "betweenness": 0.0,
+        "brokerage": {
+          "consultant": 0,
+          "coordinator": 0,
+          "gatekeeper": 0,
+          "liaison": 0,
+          "representative": 0,
+          "total": 0
+        },
+        "core_periphery": "core",
+        "degree": 0.0136986301369863,
+        "partition": "west-africa",
+        "role": "participant",
+        "slug": "togo"
+      },
+      {
+        "betweenness": 0.0,
+        "brokerage": {
+          "consultant": 0,
+          "coordinator": 0,
+          "gatekeeper": 0,
+          "liaison": 0,
+          "representative": 0,
+          "total": 0
+        },
+        "core_periphery": "core",
+        "degree": 0.0136986301369863,
+        "partition": "western-asia",
+        "role": "participant",
+        "slug": "turkey"
+      },
+      {
+        "betweenness": 0.0,
+        "brokerage": {
+          "consultant": 0,
+          "coordinator": 0,
+          "gatekeeper": 0,
+          "liaison": 0,
+          "representative": 0,
+          "total": 0
+        },
+        "core_periphery": "core",
+        "degree": 0.0136986301369863,
+        "partition": "unknown",
+        "role": "participant",
+        "slug": "uganda"
+      },
+      {
+        "betweenness": 0.0070043552709427,
+        "brokerage": {
+          "consultant": 10,
+          "coordinator": 4,
+          "gatekeeper": 22,
+          "liaison": 116,
+          "representative": 22,
+          "total": 174
+        },
+        "core_periphery": "core",
+        "degree": 0.1506849315068493,
+        "partition": "eastern-europe",
+        "role": "regional-coordinator",
+        "slug": "ukraine"
+      },
+      {
+        "betweenness": 0.0003275856662141,
+        "brokerage": {
+          "consultant": 0,
+          "coordinator": 24,
+          "gatekeeper": 67,
+          "liaison": 14,
+          "representative": 67,
+          "total": 172
+        },
+        "core_periphery": "core",
+        "degree": 0.0273972602739726,
+        "partition": "unknown",
+        "role": "participant",
+        "slug": "united-arab-emirates"
+      },
+      {
+        "betweenness": 0.0875107501274139,
+        "brokerage": {
+          "consultant": 76,
+          "coordinator": 10,
+          "gatekeeper": 222,
+          "liaison": 1558,
+          "representative": 222,
+          "total": 2088
+        },
+        "core_periphery": "core",
+        "degree": 0.4657534246575342,
+        "partition": "western-europe",
+        "role": "regional-coordinator",
+        "slug": "united-kingdom"
+      },
+      {
+        "betweenness": 0.2192613238411742,
+        "brokerage": {
+          "consultant": 146,
+          "coordinator": 0,
+          "gatekeeper": 18,
+          "liaison": 2850,
+          "representative": 18,
+          "total": 3032
+        },
+        "core_periphery": "core",
+        "degree": 0.6712328767123288,
+        "partition": "north-america",
+        "role": "global-liaison",
+        "slug": "united-states"
+      },
+      {
+        "betweenness": 0.0,
+        "brokerage": {
+          "consultant": 0,
+          "coordinator": 0,
+          "gatekeeper": 0,
+          "liaison": 0,
+          "representative": 0,
+          "total": 0
+        },
+        "core_periphery": "core",
+        "degree": 0.0136986301369863,
+        "partition": "south-america",
+        "role": "participant",
+        "slug": "uruguay"
+      },
+      {
+        "betweenness": 0.0,
+        "brokerage": {
+          "consultant": 0,
+          "coordinator": 0,
+          "gatekeeper": 0,
+          "liaison": 0,
+          "representative": 0,
+          "total": 0
+        },
+        "core_periphery": "core",
+        "degree": 0.0136986301369863,
+        "partition": "south-america",
+        "role": "participant",
+        "slug": "venezuela"
+      },
+      {
+        "betweenness": 0.0014514397018211,
+        "brokerage": {
+          "consultant": 0,
+          "coordinator": 8,
+          "gatekeeper": 40,
+          "liaison": 0,
+          "representative": 40,
+          "total": 88
+        },
+        "core_periphery": "core",
+        "degree": 0.0410958904109589,
+        "partition": "unknown",
+        "role": "participant",
+        "slug": "vietnam"
+      },
+      {
+        "betweenness": 0.0008541330778899,
+        "brokerage": {
+          "consultant": 6,
+          "coordinator": 0,
+          "gatekeeper": 0,
+          "liaison": 84,
+          "representative": 0,
+          "total": 90
+        },
+        "core_periphery": "core",
+        "degree": 0.0273972602739726,
+        "partition": "southern-africa",
+        "role": "participant",
+        "slug": "zambia"
+      },
+      {
+        "betweenness": 0.0,
+        "brokerage": {
+          "consultant": 0,
+          "coordinator": 0,
+          "gatekeeper": 0,
+          "liaison": 0,
+          "representative": 0,
+          "total": 0
+        },
+        "core_periphery": "core",
+        "degree": 0.0136986301369863,
+        "partition": "unknown",
+        "role": "participant",
+        "slug": "zimbabwe"
+      }
+    ],
+    "operations": [
+      "2bagoldmule-qqaazz",
+      "africa-cyber-surge-ii",
+      "alphabay-takedown",
+      "andromeda-botnet-takedown",
+      "belgium-netherlands-phishing-gang",
+      "bidencash-takedown",
+      "blackcat-lockeroga-kelvin-security-2023",
+      "carbanak-cobalt-takedown",
+      "carding-action-2020",
+      "cryptex-pm2btc-sanctions",
+      "cyber-fraud-international-2015",
+      "cyberbunker-takedown",
+      "darkmarket-takedown",
+      "de-ch-crypto-mixer-takedown-2025",
+      "doublevpn-takedown",
+      "dridex-operations",
+      "emotet-takedown",
+      "fin7-takedown",
+      "franco-israeli-ceo-fraud",
+      "imminent-monitor-rat-takedown",
+      "korea-china-voice-phishing-qingdao",
+      "lumma-stealer-takedown",
+      "nemesis-market-takedown",
+      "operation-105-arrested-for-stealing-over-eur-12-million-from-us-based-banks",
+      "operation-australian-man-arrested-in-germany-accused-of-running-world-s-largest-darknet-marketplace",
+      "operation-avalanche",
+      "operation-bakovia",
+      "operation-chakra-iii",
+      "operation-contender-2",
+      "operation-cronos-phase1",
+      "operation-cronos-phase3",
+      "operation-cyber-guardian",
+      "operation-dark-huntor",
+      "operation-destabilise",
+      "operation-endgame",
+      "operation-endgame-phase1",
+      "operation-endgame-phase2",
+      "operation-eur-100m-crypto-investment-fraud-2025",
+      "operation-eur-100m-illegal-financial-service-laundering-2025",
+      "operation-eur-300m-global-credit-card-fraud-2025",
+      "operation-eur-3m-online-investment-fraud-2025",
+      "operation-goldfish-alpha-night-fury",
+      "operation-haechi-iii",
+      "operation-haechi-iv",
+      "operation-haechi-vi",
+      "operation-heart-blocker",
+      "operation-killer-bee",
+      "operation-kraken-ghost-platform",
+      "operation-onymous",
+      "operation-orion-international",
+      "operation-pleiades",
+      "operation-power-off",
+      "operation-red-card",
+      "operation-rewired",
+      "operation-secreto",
+      "operation-sentinel-africa",
+      "operation-source",
+      "operation-stream-kidflix",
+      "operation-talent",
+      "operation-trojan-shield",
+      "operation-wirewire",
+      "phobos-8base-crackdown",
+      "proxy-service-takedown-2026-03",
+      "qqaazz-money-laundering-takedown",
+      "ramnit-botnet-takedown",
+      "rex-mundi-takedown",
+      "rydox-marketplace-takedown",
+      "silk-road-takedown",
+      "simda-botnet-takedown",
+      "trickbot-operations",
+      "vpnlab-takedown",
+      "xdedic-marketplace-takedown",
+      "zeus-spyeye-jit-takedown"
+    ]
+  },
+  "crime_type": {
+    "edges": [
+      [
+        "2bagoldmule-qqaazz",
+        "money-laundering-ic"
+      ],
+      [
+        "africa-cyber-surge-ii",
+        "online-fraud-ic"
+      ],
+      [
+        "alphabay-takedown",
+        "online-fraud-ic"
+      ],
+      [
+        "andromeda-botnet-takedown",
+        "malware-ic"
+      ],
+      [
+        "belgium-netherlands-phishing-gang",
+        "online-fraud-ic"
+      ],
+      [
+        "bidencash-takedown",
+        "carding-fraud-ic"
+      ],
+      [
+        "blackcat-lockeroga-kelvin-security-2023",
+        "ransomware-ic"
+      ],
+      [
+        "carbanak-cobalt-takedown",
+        "malware-ic"
+      ],
+      [
+        "carding-action-2020",
+        "carding-fraud-ic"
+      ],
+      [
+        "cryptex-pm2btc-sanctions",
+        "money-laundering-ic"
+      ],
+      [
+        "cyber-fraud-international-2015",
+        "online-fraud-ic"
+      ],
+      [
+        "cyberbunker-takedown",
+        "online-fraud-ic"
+      ],
+      [
+        "darkmarket-takedown",
+        "online-fraud-ic"
+      ],
+      [
+        "de-ch-crypto-mixer-takedown-2025",
+        "money-laundering-ic"
+      ],
+      [
+        "doublevpn-takedown",
+        "cybercrime-infrastructure-ic"
+      ],
+      [
+        "dridex-operations",
+        "online-fraud-ic"
+      ],
+      [
+        "emotet-takedown",
+        "ransomware-ic"
+      ],
+      [
+        "fin7-takedown",
+        "hacking-ic"
+      ],
+      [
+        "franco-israeli-ceo-fraud",
+        "bec-ic"
+      ],
+      [
+        "imminent-monitor-rat-takedown",
+        "hacking-ic"
+      ],
+      [
+        "korea-china-voice-phishing-qingdao",
+        "voice-phishing-ic"
+      ],
+      [
+        "lumma-stealer-takedown",
+        "hacking-ic"
+      ],
+      [
+        "nemesis-market-takedown",
+        "online-fraud-ic"
+      ],
+      [
+        "operation-105-arrested-for-stealing-over-eur-12-million-from-us-based-banks",
+        "bank-fraud-ic"
+      ],
+      [
+        "operation-105-arrested-for-stealing-over-eur-12-million-from-us-based-banks",
+        "carding-fraud-ic"
+      ],
+      [
+        "operation-105-arrested-for-stealing-over-eur-12-million-from-us-based-banks",
+        "money-laundering-ic"
+      ],
+      [
+        "operation-australian-man-arrested-in-germany-accused-of-running-world-s-largest-darknet-marketplace",
+        "online-fraud-ic"
+      ],
+      [
+        "operation-avalanche",
+        "malware-ic"
+      ],
+      [
+        "operation-bakovia",
+        "ransomware-ic"
+      ],
+      [
+        "operation-chakra-iii",
+        "online-fraud-ic"
+      ],
+      [
+        "operation-contender-2",
+        "bec-ic"
+      ],
+      [
+        "operation-cronos-phase1",
+        "ransomware-ic"
+      ],
+      [
+        "operation-cronos-phase3",
+        "ransomware-ic"
+      ],
+      [
+        "operation-cyber-guardian",
+        "csam-ic"
+      ],
+      [
+        "operation-dark-huntor",
+        "online-fraud-ic"
+      ],
+      [
+        "operation-destabilise",
+        "money-laundering-ic"
+      ],
+      [
+        "operation-endgame",
+        "ransomware-ic"
+      ],
+      [
+        "operation-endgame-phase1",
+        "ransomware-ic"
+      ],
+      [
+        "operation-endgame-phase2",
+        "ransomware-ic"
+      ],
+      [
+        "operation-eur-100m-crypto-investment-fraud-2025",
+        "online-fraud-ic"
+      ],
+      [
+        "operation-eur-100m-illegal-financial-service-laundering-2025",
+        "money-laundering-ic"
+      ],
+      [
+        "operation-eur-300m-global-credit-card-fraud-2025",
+        "online-fraud-ic"
+      ],
+      [
+        "operation-eur-3m-online-investment-fraud-2025",
+        "online-fraud-ic"
+      ],
+      [
+        "operation-goldfish-alpha-night-fury",
+        "malware-ic"
+      ],
+      [
+        "operation-haechi-iii",
+        "online-fraud-ic"
+      ],
+      [
+        "operation-haechi-iv",
+        "online-fraud-ic"
+      ],
+      [
+        "operation-haechi-vi",
+        "online-fraud-ic"
+      ],
+      [
+        "operation-heart-blocker",
+        "bec-ic"
+      ],
+      [
+        "operation-killer-bee",
+        "bec-ic"
+      ],
+      [
+        "operation-kraken-ghost-platform",
+        "online-fraud-ic"
+      ],
+      [
+        "operation-onymous",
+        "online-fraud-ic"
+      ],
+      [
+        "operation-orion-international",
+        "csam-ic"
+      ],
+      [
+        "operation-pleiades",
+        "ddos-ic"
+      ],
+      [
+        "operation-power-off",
+        "ddos-extortion"
+      ],
+      [
+        "operation-red-card",
+        "online-fraud-ic"
+      ],
+      [
+        "operation-rewired",
+        "bec-ic"
+      ],
+      [
+        "operation-secreto",
+        "online-fraud-ic"
+      ],
+      [
+        "operation-sentinel-africa",
+        "bec-ic"
+      ],
+      [
+        "operation-source",
+        "malware-ic"
+      ],
+      [
+        "operation-stream-kidflix",
+        "csam-ic"
+      ],
+      [
+        "operation-talent",
+        "hacking-ic"
+      ],
+      [
+        "operation-trojan-shield",
+        "organized-crime-ic"
+      ],
+      [
+        "operation-wirewire",
+        "bec-ic"
+      ],
+      [
+        "phobos-8base-crackdown",
+        "ransomware-ic"
+      ],
+      [
+        "proxy-service-takedown-2026-03",
+        "hacking-ic"
+      ],
+      [
+        "qqaazz-money-laundering-takedown",
+        "money-laundering-ic"
+      ],
+      [
+        "ramnit-botnet-takedown",
+        "malware-ic"
+      ],
+      [
+        "rex-mundi-takedown",
+        "hacking-ic"
+      ],
+      [
+        "rydox-marketplace-takedown",
+        "cybercrime-forum-ic"
+      ],
+      [
+        "silk-road-takedown",
+        "online-fraud-ic"
+      ],
+      [
+        "simda-botnet-takedown",
+        "malware-ic"
+      ],
+      [
+        "trickbot-operations",
+        "ransomware-ic"
+      ],
+      [
+        "vpnlab-takedown",
+        "ransomware-ic"
+      ],
+      [
+        "xdedic-marketplace-takedown",
+        "cybercrime-forum-ic"
+      ],
+      [
+        "zeus-spyeye-jit-takedown",
+        "malware-ic"
+      ]
+    ],
+    "nodes": [
+      {
+        "betweenness": 0.0,
+        "brokerage": {
+          "consultant": 0,
+          "coordinator": 0,
+          "gatekeeper": 0,
+          "liaison": 0,
+          "representative": 0,
+          "total": 0
+        },
+        "core_periphery": "periphery",
+        "degree": 0.0136986301369863,
+        "partition": "unknown",
+        "role": "participant",
+        "slug": "bank-fraud-ic"
+      },
+      {
+        "betweenness": 0.0056134723336006,
+        "brokerage": {
+          "consultant": 0,
+          "coordinator": 0,
+          "gatekeeper": 0,
+          "liaison": 0,
+          "representative": 0,
+          "total": 0
+        },
+        "core_periphery": "periphery",
+        "degree": 0.0958904109589041,
+        "partition": "cyber-enabled",
+        "role": "participant",
+        "slug": "bec-ic"
+      },
+      {
+        "betweenness": 0.0050788559208767,
+        "brokerage": {
+          "consultant": 0,
+          "coordinator": 0,
+          "gatekeeper": 0,
+          "liaison": 0,
+          "representative": 0,
+          "total": 0
+        },
+        "core_periphery": "periphery",
+        "degree": 0.0410958904109589,
+        "partition": "unknown",
+        "role": "participant",
+        "slug": "carding-fraud-ic"
+      },
+      {
+        "betweenness": 0.0008019246190858,
+        "brokerage": {
+          "consultant": 0,
+          "coordinator": 0,
+          "gatekeeper": 0,
+          "liaison": 0,
+          "representative": 0,
+          "total": 0
+        },
+        "core_periphery": "periphery",
+        "degree": 0.0410958904109589,
+        "partition": "content-related",
+        "role": "participant",
+        "slug": "csam-ic"
+      },
+      {
+        "betweenness": 0.0002673082063619,
+        "brokerage": {
+          "consultant": 0,
+          "coordinator": 0,
+          "gatekeeper": 0,
+          "liaison": 0,
+          "representative": 0,
+          "total": 0
+        },
+        "core_periphery": "periphery",
+        "degree": 0.0273972602739726,
+        "partition": "cyber-dependent",
+        "role": "participant",
+        "slug": "cybercrime-forum-ic"
+      },
+      {
+        "betweenness": 0.0,
+        "brokerage": {
+          "consultant": 0,
+          "coordinator": 0,
+          "gatekeeper": 0,
+          "liaison": 0,
+          "representative": 0,
+          "total": 0
+        },
+        "core_periphery": "periphery",
+        "degree": 0.0136986301369863,
+        "partition": "cyber-dependent",
+        "role": "participant",
+        "slug": "cybercrime-infrastructure-ic"
+      },
+      {
+        "betweenness": 0.0,
+        "brokerage": {
+          "consultant": 0,
+          "coordinator": 0,
+          "gatekeeper": 0,
+          "liaison": 0,
+          "representative": 0,
+          "total": 0
+        },
+        "core_periphery": "periphery",
+        "degree": 0.0136986301369863,
+        "partition": "unknown",
+        "role": "participant",
+        "slug": "ddos-extortion"
+      },
+      {
+        "betweenness": 0.0,
+        "brokerage": {
+          "consultant": 0,
+          "coordinator": 0,
+          "gatekeeper": 0,
+          "liaison": 0,
+          "representative": 0,
+          "total": 0
+        },
+        "core_periphery": "periphery",
+        "degree": 0.0136986301369863,
+        "partition": "cyber-dependent",
+        "role": "participant",
+        "slug": "ddos-ic"
+      },
+      {
+        "betweenness": 0.004009623095429,
+        "brokerage": {
+          "consultant": 0,
+          "coordinator": 0,
+          "gatekeeper": 0,
+          "liaison": 0,
+          "representative": 0,
+          "total": 0
+        },
+        "core_periphery": "periphery",
+        "degree": 0.0821917808219178,
+        "partition": "cyber-dependent",
+        "role": "participant",
+        "slug": "hacking-ic"
+      },
+      {
+        "betweenness": 0.0074846297781341,
+        "brokerage": {
+          "consultant": 0,
+          "coordinator": 0,
+          "gatekeeper": 0,
+          "liaison": 0,
+          "representative": 0,
+          "total": 0
+        },
+        "core_periphery": "periphery",
+        "degree": 0.1095890410958904,
+        "partition": "cyber-dependent",
+        "role": "participant",
+        "slug": "malware-ic"
+      },
+      {
+        "betweenness": 0.012028869286287,
+        "brokerage": {
+          "consultant": 0,
+          "coordinator": 0,
+          "gatekeeper": 0,
+          "liaison": 0,
+          "representative": 0,
+          "total": 0
+        },
+        "core_periphery": "core",
+        "degree": 0.0958904109589041,
+        "partition": "cyber-enabled",
+        "role": "participant",
+        "slug": "money-laundering-ic"
+      },
+      {
+        "betweenness": 0.061748195669607,
+        "brokerage": {
+          "consultant": 0,
+          "coordinator": 0,
+          "gatekeeper": 0,
+          "liaison": 0,
+          "representative": 0,
+          "total": 0
+        },
+        "core_periphery": "periphery",
+        "degree": 0.3013698630136986,
+        "partition": "cyber-enabled",
+        "role": "participant",
+        "slug": "online-fraud-ic"
+      },
+      {
+        "betweenness": 0.0,
+        "brokerage": {
+          "consultant": 0,
+          "coordinator": 0,
+          "gatekeeper": 0,
+          "liaison": 0,
+          "representative": 0,
+          "total": 0
+        },
+        "core_periphery": "periphery",
+        "degree": 0.0136986301369863,
+        "partition": "unknown",
+        "role": "participant",
+        "slug": "organized-crime-ic"
+      },
+      {
+        "betweenness": 0.0147019513499064,
+        "brokerage": {
+          "consultant": 0,
+          "coordinator": 0,
+          "gatekeeper": 0,
+          "liaison": 0,
+          "representative": 0,
+          "total": 0
+        },
+        "core_periphery": "periphery",
+        "degree": 0.1506849315068493,
+        "partition": "cyber-dependent",
+        "role": "participant",
+        "slug": "ransomware-ic"
+      },
+      {
+        "betweenness": 0.0,
+        "brokerage": {
+          "consultant": 0,
+          "coordinator": 0,
+          "gatekeeper": 0,
+          "liaison": 0,
+          "representative": 0,
+          "total": 0
+        },
+        "core_periphery": "periphery",
+        "degree": 0.0136986301369863,
+        "partition": "cyber-enabled",
+        "role": "participant",
+        "slug": "voice-phishing-ic"
+      }
+    ],
+    "operations": [
+      "2bagoldmule-qqaazz",
+      "africa-cyber-surge-ii",
+      "alphabay-takedown",
+      "andromeda-botnet-takedown",
+      "belgium-netherlands-phishing-gang",
+      "bidencash-takedown",
+      "blackcat-lockeroga-kelvin-security-2023",
+      "carbanak-cobalt-takedown",
+      "carding-action-2020",
+      "cryptex-pm2btc-sanctions",
+      "cyber-fraud-international-2015",
+      "cyberbunker-takedown",
+      "darkmarket-takedown",
+      "de-ch-crypto-mixer-takedown-2025",
+      "doublevpn-takedown",
+      "dridex-operations",
+      "emotet-takedown",
+      "fin7-takedown",
+      "franco-israeli-ceo-fraud",
+      "imminent-monitor-rat-takedown",
+      "korea-china-voice-phishing-qingdao",
+      "lumma-stealer-takedown",
+      "nemesis-market-takedown",
+      "operation-105-arrested-for-stealing-over-eur-12-million-from-us-based-banks",
+      "operation-australian-man-arrested-in-germany-accused-of-running-world-s-largest-darknet-marketplace",
+      "operation-avalanche",
+      "operation-bakovia",
+      "operation-chakra-iii",
+      "operation-contender-2",
+      "operation-cronos-phase1",
+      "operation-cronos-phase3",
+      "operation-cyber-guardian",
+      "operation-dark-huntor",
+      "operation-destabilise",
+      "operation-endgame",
+      "operation-endgame-phase1",
+      "operation-endgame-phase2",
+      "operation-eur-100m-crypto-investment-fraud-2025",
+      "operation-eur-100m-illegal-financial-service-laundering-2025",
+      "operation-eur-300m-global-credit-card-fraud-2025",
+      "operation-eur-3m-online-investment-fraud-2025",
+      "operation-goldfish-alpha-night-fury",
+      "operation-haechi-iii",
+      "operation-haechi-iv",
+      "operation-haechi-vi",
+      "operation-heart-blocker",
+      "operation-killer-bee",
+      "operation-kraken-ghost-platform",
+      "operation-onymous",
+      "operation-orion-international",
+      "operation-pleiades",
+      "operation-power-off",
+      "operation-red-card",
+      "operation-rewired",
+      "operation-secreto",
+      "operation-sentinel-africa",
+      "operation-source",
+      "operation-stream-kidflix",
+      "operation-talent",
+      "operation-trojan-shield",
+      "operation-wirewire",
+      "phobos-8base-crackdown",
+      "proxy-service-takedown-2026-03",
+      "qqaazz-money-laundering-takedown",
+      "ramnit-botnet-takedown",
+      "rex-mundi-takedown",
+      "rydox-marketplace-takedown",
+      "silk-road-takedown",
+      "simda-botnet-takedown",
+      "trickbot-operations",
+      "vpnlab-takedown",
+      "xdedic-marketplace-takedown",
+      "zeus-spyeye-jit-takedown"
+    ]
+  },
+  "role_colors": {
+    "global-liaison": "#FFD700",
+    "hub": "#FFC300",
+    "internal-coordinator": "#1F77B4",
+    "liaison-broker": "#C70039",
+    "operation": "#2F4F4F",
+    "participant": "#B0B0B0",
+    "regional-coordinator": "#2CA02C",
+    "specialist-broker": "#9467BD"
+  },
+  "rules_version": "roles-v1",
+  "snapshot": "2026-04-20-d50e3208"
+}
