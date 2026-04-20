@@ -539,3 +539,10 @@
 - Verification: two edit anchors unique in both files; cosmos/ and docs/cosmos/ diff clean; `lint.py` 0 issues; `check_links.py` 0 broken (153,397 links total).
 - Closes outstanding follow-up from the prior SNA-mode entry ("click-to-select SNA node → E.detail wiki-page summary").
 - Remaining Cosmos UI follow-up: crime-type sub-toggle activation — gated on multi-value `crime_types` backfill.
+
+
+## [2026-04-20] cosmos-tweak | Camera defaults closer + zoom range widened
+- Initial camera distance reduced on all three modes — users reported the default angle felt too far from the scene. New defaults: Graph 210 → 130, Globe 255 → 180, SNA 260 → 140.
+- Wheel zoom clamps widened so zoom-in/zoom-out has useful headroom at both ends: Graph 120..320 → 60..320, Globe 180..340 → 110..360, SNA 180..360 → 60..400.
+- Sliders in the right panel updated to match the new bounds (globeDistance and snaDistance min/max/value attributes).
+- `cosmos/index.html` + `docs/cosmos/index.html` synced. JS brackets balanced, no structural changes.
