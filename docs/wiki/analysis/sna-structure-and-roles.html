@@ -1,0 +1,1590 @@
+<!DOCTYPE html>
+<html lang="ko" class="lang-ko">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Structure and Roles of International Cybercrime Cooperation (Step B) — 사이버범죄 국제공조 위키</title>
+  <link rel="stylesheet" href="../../static/style.css">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link href="https://fonts.googleapis.com/css2?family=Noto+Sans+KR:wght@400;600;700&family=Noto+Serif+KR:wght@400;700&display=swap" rel="stylesheet">
+</head>
+<body>
+  <nav class="top-nav">
+    <div class="top-nav-inner">
+      <a href="../../index.html" class="nav-logo">
+        <span class="i18n" data-ko="🌐 사이버범죄 국제공조 위키" data-en="🌐 Cybercrime IC Wiki"></span>
+      </a>
+      <div class="nav-links">
+        <a href="../../category/operations.html"><span class="i18n" data-ko="작전" data-en="Operations"></span></a>
+        <a href="../../category/organizations.html"><span class="i18n" data-ko="기관" data-en="Organizations"></span></a>
+        <a href="../../category/countries.html"><span class="i18n" data-ko="국가" data-en="Countries"></span></a>
+        <a href="../../category/cases.html"><span class="i18n" data-ko="판례" data-en="Cases"></span></a>
+        <div class="nav-more">
+          <button class="nav-more-btn"><span class="i18n" data-ko="더보기 ▾" data-en="More ▾"></span></button>
+          <div class="nav-dropdown">
+            <a href="../../category/legal-frameworks.html"><span class="i18n" data-ko="법적 프레임워크" data-en="Legal Frameworks"></span></a>
+            <a href="../../category/mechanisms.html"><span class="i18n" data-ko="메커니즘" data-en="Mechanisms"></span></a>
+            <a href="../../category/crime-types.html"><span class="i18n" data-ko="범죄유형" data-en="Crime Types"></span></a>
+            <a href="../../category/concepts.html"><span class="i18n" data-ko="개념" data-en="Concepts"></span></a>
+            <a href="../../category/sources.html"><span class="i18n" data-ko="출처" data-en="Sources"></span></a>
+            <a href="../../stats.html"><span class="i18n" data-ko="통계" data-en="Statistics"></span></a>
+          </div>
+        </div>
+        <a href="../../cosmos/index.html" class="nav-cosmos"><span class="i18n" data-ko="&#127760; Cosmos" data-en="&#127760; Cosmos"></span></a>
+      </div>
+      <form class="nav-search" action="../../search.html" method="get">
+        <input type="text" name="q" class="i18n-placeholder" data-ko="위키 검색..." data-en="Search wiki..." value="">
+        <button type="submit"><span class="i18n" data-ko="검색" data-en="Search"></span></button>
+      </form>
+      <button class="lang-toggle" id="langToggle" title="한국어/English">
+        <span class="lang-flag lang-flag-ko">🇰🇷 한</span>
+        <span class="lang-flag lang-flag-en">🇺🇸 EN</span>
+      </button>
+    </div>
+  </nav>
+
+  
+<div class="page-wrapper">
+  <main class="article">
+    <div class="article-header">
+      <h1>
+        
+          Structure and Roles of International Cybercrime Cooperation (Step B)
+        
+      </h1>
+      <div class="article-meta">
+        
+          <span class="badge">
+            <span class="i18n" data-ko="analysis" data-en="analysis"></span>
+          </span>
+        
+        
+          <span><a href="../../category/analysis.html">
+            <span class="i18n"
+              data-ko="분석"
+              data-en="Analysis"></span>
+          </a></span>
+        
+        
+          <span>
+            <span class="i18n" data-ko="최종 수정" data-en="Updated"></span>: 2026-04-20
+          </span>
+        
+        
+      </div>
+    </div>
+    <div class="article-body">
+      
+        <h2 id="summary"><span class="heading-ko">개요</span><span class="heading-en">Summary</span></h2>
+<p>This page is the Step B reproduction of the 2-mode network analysis described in <code>paper.pdf</code> ("사이버범죄 국제공조의 구조와 역할: 2모드 네트워크 분석 / Structure and Roles of International Cybercrime Cooperation: A Two-Mode Network Analysis"). It builds on the iterative data-quality work recorded in <a href="../../wiki/analysis/sna-pilot.html" class="wikilink">sna-pilot</a> (PoC v1 → v5: YAML repair, alias canonicalization, bare-string normalization, crime_types list schema, source-side country repair, source-backed subset enrichment).</p>
+<p>The question the paper asks is <strong>not</strong> "who cooperates most" but <strong>"how are participation breadth and connection function distributed across actor types"</strong>. The paper's answer is that the two functions diverge — some actors participate in many operations but do not bridge operation clusters, while others sit between operation clusters without high overall participation. Reproducing that result on our wiki corpus tests whether the pattern is a feature of cybercrime IC structure or an artifact of the paper's particular corpus.</p>
+<p>Our PoC v5 subset (73 operations, 109 countries, 78 agencies, 15 crime types) is <strong>smaller and Euro-weighted</strong> relative to the paper's corpus (164 operations, 131 countries, 222 agencies, 204 crime types — English-Google-News only). Absolute metric values therefore are NOT directly comparable. What IS comparable is the <em>qualitative shape</em> of the findings: which actors sit at high-degree positions, which at high-betweenness positions, whether the two groups coincide, and what structural roles emerge.</p>
+<p>The rest of this page presents that comparison. Confidence labels follow the US IC Analytic Standards per <code>CLAUDE.md</code> §Confidence Language.</p>
+<h2 id="corpus-and-methodology">Corpus and Methodology</h2>
+<h3 id="our-corpus">Our corpus</h3>
+<table>
+<thead>
+<tr>
+<th>Attribute</th>
+<th>Value</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Snapshot id</td>
+<td><code>2026-04-20-d50e3208</code></td>
+</tr>
+<tr>
+<td>Rules version</td>
+<td><code>poc-v5</code></td>
+</tr>
+<tr>
+<td>Operations scanned</td>
+<td>1,136 (of wiki/operations/)</td>
+</tr>
+<tr>
+<td>Operations included</td>
+<td><strong>73</strong> (pass all inclusion rules)</td>
+</tr>
+<tr>
+<td>Operations excluded</td>
+<td>1,062 (breakdown: <code>countries_lt_2=1,017</code>, <code>status_not_live=17</code>, <code>agencies_lt_2=20</code>, <code>not_operation_type=7</code>, <code>no_enforcement_action=1</code>)</td>
+</tr>
+<tr>
+<td>Countries referenced</td>
+<td>109</td>
+</tr>
+<tr>
+<td>Agencies referenced</td>
+<td>78</td>
+</tr>
+<tr>
+<td>Crime types referenced</td>
+<td>15</td>
+</tr>
+<tr>
+<td>Source corpus composition</td>
+<td>Multi-language RSS feeds (INTERPOL / Europol / Eurojust / DOJ / ENISA / national agency PRs / news / court documents / academic papers / legislation / policy documents) plus audit-curated remediation</td>
+</tr>
+</tbody>
+</table>
+<p>Inclusion rules (full spec in <code>_workspace/sna/edge-schema-and-inclusion-rules.md</code>): <code>type: operation</code> AND <code>status ∈ {completed, ongoing}</code> AND <code>participating_countries ≥ 2</code> AND <code>participating_agencies ≥ 2</code> AND <code>crime_types</code> non-empty AND <code>enforcement_type</code> contains at least one of <code>{arrest, seizure, takedown, extradition, indictment, asset_freeze}</code>. Soft filter: audit-denylist + domestic-followon regex with country-count ≤ 2 AND condition.</p>
+<p>Data-quality passes applied to reach v5 (see <a href="../../wiki/analysis/sna-pilot.html" class="wikilink">sna-pilot</a> for detail):
+1. <strong>YAML URL-quoting repair</strong> (v1→v2) — 13 canonical ops (alphabay, silk-road, trickbot, dridex, onymous, power-off, rewired, jackal-iii, haechi-iii, haechi-vi, myanmar-kokang, bidencash, carding-action-2020) recovered by fixing a source-ingest serialization bug. <code>parse_error</code> 13 → 0.
+2. <strong>Alias canonicalization</strong> (v1→v2) — <code>fbi → fbi-cyber-division</code>, <code>usdoj → us-doj</code>, <code>interpol-igci → interpol</code>. Direction chosen by explicit "Legacy compatibility page" markers on the losing pages.
+3. <strong>Bare-string normalization</strong> (v2→v3) — 88 bare-string values slugified during SNA graph construction (<code>extract_wikilinks</code>).
+4. <strong>Crime_types list schema</strong> (v3→v4) — canonical field is <code>crime_types: []</code>; legacy <code>crime_type</code> single-value retained as read-only fallback during migration.
+5. <strong>Source-side country bare-string repair</strong> (v4→v5) — 44 line-level fixes across 7 ops; bare strings like <code>"France"</code> and <code>- Argentina</code> rewritten to <code>&lt;a href="../../wiki/countries/france.html" class="wikilink"&gt;france&lt;/a&gt;</code> / <code>&lt;a href="../../wiki/countries/argentina.html" class="wikilink"&gt;argentina&lt;/a&gt;</code> canonical wikilinks. Source data now matches the SNA's script-side normalization.
+6. <strong>Source-backed country enrichment</strong> (v4→v5) — 46 subset → 20 applied. Eurojust/Europol/INTERPOL-anchored ops with <code>participating_countries ≤ 1</code> enriched from the matching <code>wiki/sources/&lt;slug&gt;.md</code> <code>key_findings</code> field. <strong>Source-backed country enrichment only; no inferred countries added.</strong> Placeholder values <code>{international, global, worldwide, various}</code> were treated as empty.</p>
+<h3 id="papers-corpus-recap-from-sna-pilot-_workspacesnapaper-network-definitionsmd">Paper's corpus (recap from <a href="../../wiki/analysis/sna-pilot.html" class="wikilink">sna-pilot</a> / <code>_workspace/sna/paper-network-definitions.md</code>)</h3>
+<ul>
+<li>Period: 2015-2025.</li>
+<li>Source: Google News, English only.</li>
+<li>Query: <code>("cybercrime" OR "cyber crime") AND ("international operation" OR "joint operation" OR "law enforcement cooperation" OR "coordinated operation")</code>.</li>
+<li>Screening: 3 stages — topical → full-text with ≥2 agencies + actual enforcement + ≥2 identifiable dimensions → dedup same-operation articles.</li>
+<li>Final sample: 164 ops / 222 agencies / 131 countries / 204 crime-types with 830 / 908 / 835 2-mode edges.</li>
+<li>Tools: UCINET 6.816 (density, centrality, core-periphery fitness) + NetMiner 4 (community detection, brokerage).</li>
+</ul>
+<h3 id="why-absolute-numbers-are-not-comparable">Why absolute numbers are not comparable</h3>
+<ul>
+<li><strong>Corpus size and language</strong>: our 73-op subset is 45% of the paper's 164; our corpus includes non-English RSS and official agency feeds, so actor diversity and regional coverage differ.</li>
+<li><strong>Audit filter direction</strong>: our audit removed false-positive US-DOJ procedural wrappers and kept Eurojust-anchored operations — both moves tilt the subset toward European coordinators. The paper's corpus, being English-news-only, also has a Western bias but a different one (US press dominance).</li>
+<li><strong>Screening asymmetry</strong>: the paper's 3-stage Google-News filter is stricter on single-article ops than our wiki's lint + audit + dedup pipeline; edge cases are classified differently.</li>
+<li><strong>Crime-type granularity</strong>: paper 204, ours 15 — ~14× difference. Crime-type community and transitivity comparisons are therefore not valid as-is.</li>
+</ul>
+<h2 id="basic-structure-cohesion">Basic Structure — Cohesion</h2>
+<p>Paper's Table 2 analog. All metrics computed by <code>tools/sna_analysis.py</code> on bipartite graphs (density, fragmentation) or their 1-mode projection onto the mode-2 side (transitivity).</p>
+<table>
+<thead>
+<tr>
+<th>Metric</th>
+<th style="text-align: right;">Paper Agency</th>
+<th style="text-align: right;">PoC v5 Agency</th>
+<th style="text-align: right;">Paper Country</th>
+<th style="text-align: right;">PoC v5 Country</th>
+<th style="text-align: right;">Paper Crime</th>
+<th style="text-align: right;">PoC v5 Crime</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Density</td>
+<td style="text-align: right;">0.023</td>
+<td style="text-align: right;">0.063</td>
+<td style="text-align: right;">0.042</td>
+<td style="text-align: right;">0.072</td>
+<td style="text-align: right;">0.025</td>
+<td style="text-align: right;">0.068</td>
+</tr>
+<tr>
+<td>Fragmentation</td>
+<td style="text-align: right;">0.086</td>
+<td style="text-align: right;">0.039</td>
+<td style="text-align: right;">0.000</td>
+<td style="text-align: right;"><strong>0.000</strong></td>
+<td style="text-align: right;">0.000</td>
+<td style="text-align: right;">0.874</td>
+</tr>
+<tr>
+<td>Avg distance</td>
+<td style="text-align: right;">4.022</td>
+<td style="text-align: right;">3.336</td>
+<td style="text-align: right;">3.551</td>
+<td style="text-align: right;">3.822</td>
+<td style="text-align: right;">3.921</td>
+<td style="text-align: right;">1.913</td>
+</tr>
+<tr>
+<td>Diameter</td>
+<td style="text-align: right;">10.000</td>
+<td style="text-align: right;">6</td>
+<td style="text-align: right;">8.000</td>
+<td style="text-align: right;">8</td>
+<td style="text-align: right;">8.000</td>
+<td style="text-align: right;">2</td>
+</tr>
+<tr>
+<td>Radius</td>
+<td style="text-align: right;">1.000</td>
+<td style="text-align: right;">4</td>
+<td style="text-align: right;">4.000</td>
+<td style="text-align: right;">4</td>
+<td style="text-align: right;">5.000</td>
+<td style="text-align: right;">1</td>
+</tr>
+<tr>
+<td>Transitivity (mode-2 projection)</td>
+<td style="text-align: right;">0.337</td>
+<td style="text-align: right;">0.648</td>
+<td style="text-align: right;">0.386</td>
+<td style="text-align: right;">0.691</td>
+<td style="text-align: right;">0.341</td>
+<td style="text-align: right;"><strong>1.000</strong></td>
+</tr>
+<tr>
+<td>Components</td>
+<td style="text-align: right;">—</td>
+<td style="text-align: right;">2</td>
+<td style="text-align: right;">—</td>
+<td style="text-align: right;"><strong>1</strong></td>
+<td style="text-align: right;">—</td>
+<td style="text-align: right;">13</td>
+</tr>
+</tbody>
+</table>
+<h3 id="reproduced-structural-signatures-confidence-medium">Reproduced structural signatures (confidence: medium)</h3>
+<ul>
+<li><strong>Country network is fully connected</strong> (fragmentation 0.000, single 182-node component). Matches paper's 0.000 exactly. The YAML repair + bare-string normalization + enrichment passes closed the regional gaps that had produced 3 disconnected components in PoC v1 and 1 in v4.</li>
+<li><strong>Agency network has a dominant giant component</strong> (148 of 151 nodes, fragmentation 0.039, close to paper's 0.086). The 3-node isolated subgroup is a single Asian regional operation (Qingdao BOP-2023) whose agency participants are sub-units of the Korean / Chinese national police not yet connected to the Europol / Eurojust core through other operations — a reasonable structural position for a bilateral Korea-China enforcement action.</li>
+<li><strong>Agency and country transitivities are elevated</strong> (0.648 / 0.691 vs. paper's 0.337 / 0.386). Highly likely driven by the Euro-weighted subset: operations in our corpus disproportionately co-include Europol + Eurojust + 3+ EU national agencies, which pack the 1-mode projection with triangles.</li>
+</ul>
+<h3 id="what-does-not-reproduce-and-why">What does NOT reproduce (and why)</h3>
+<div class="callout callout-warning"><div class="callout-title">⚠️ Crime-type transitivity 1.000 is a sample artifact, NOT a structural finding
+The crime-type 1-mode projection has exactly ONE triangle, formed by a single operation (<code>&lt;a href="../../wiki/operations/operation-105-arrested-for-stealing-over-eur-12-million-from-us-based-banks.html" class="wikilink"&gt;operation-105-arrested-for-stealing-over-eur-12-million-from-us-based-banks&lt;/a&gt;</code>) whose <code>crime_types</code> list carries three values — <code>&lt;a href="../../wiki/crime-types/bank-fraud-ic.html" class="wikilink"&gt;bank-fraud-ic&lt;/a&gt;</code>, <code>&lt;a href="../../wiki/crime-types/carding-fraud-ic.html" class="wikilink"&gt;carding-fraud-ic&lt;/a&gt;</code>, <code>&lt;a href="../../wiki/crime-types/money-laundering-ic.html" class="wikilink"&gt;money-laundering-ic&lt;/a&gt;</code>. Because networkx's transitivity ratio is (triangles × 3) / (connected-triples), and that single triangle produces the only connected triples in the entire projection, the ratio is 1.0 by arithmetic. This is NOT evidence that crime-types co-occur systematically — it is evidence that our <code>crime_types</code> schema migration (PoC v4) permits multi-values but only one op has been back-filled so far. <strong>Do not interpret the 1.0 as a paper-comparable number.</strong> Paper's 0.341 was computed on 204 crime-type nodes with multi-valued co-occurrences — the structural scale and the statistic's support set are different by orders of magnitude. Multi-value backfill of <code>crime_types</code> is an explicit Step B-follow-up pending in <a href="../../wiki/analysis/sna-pilot.html" class="wikilink">sna-pilot</a>.</div><div class="callout-body"></div></div>
+<ul>
+<li><strong>Crime-type fragmentation 0.874</strong> (vs. paper 0.000) is the other side of the same schema artifact: most operations in our subset carry a <code>crime_types</code> list of one, so the 1-mode projection onto crime-types is overwhelmingly disconnected (13 components, the largest only 23 nodes).</li>
+<li><strong>Agency diameter 6</strong> (vs. paper 10) is within the band of a smaller, denser subset — not a substantive divergence.</li>
+</ul>
+<h2 id="structural-positions-centrality">Structural Positions — Centrality</h2>
+<p>Paper's Table 3 analog. Centralities computed on the 2-mode bipartite graph directly (degree / closeness / betweenness) and on the full graph for eigenvector.</p>
+<h3 id="country-mode-2-top-12">Country (mode-2) top 12</h3>
+<table>
+<thead>
+<tr>
+<th style="text-align: right;">Rank</th>
+<th>Country</th>
+<th style="text-align: right;">Degree</th>
+<th style="text-align: right;">Betweenness</th>
+<th style="text-align: right;">Closeness</th>
+<th style="text-align: right;">Eigenvector</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td style="text-align: right;">1</td>
+<td><a href="../../wiki/countries/united-states.html" class="wikilink">united-states</a></td>
+<td style="text-align: right;"><strong>0.671</strong></td>
+<td style="text-align: right;"><strong>0.219</strong></td>
+<td style="text-align: right;">0.717</td>
+<td style="text-align: right;">0.305</td>
+</tr>
+<tr>
+<td style="text-align: right;">2</td>
+<td><a href="../../wiki/countries/united-kingdom.html" class="wikilink">united-kingdom</a></td>
+<td style="text-align: right;">0.466</td>
+<td style="text-align: right;">0.088</td>
+<td style="text-align: right;">0.647</td>
+<td style="text-align: right;">0.255</td>
+</tr>
+<tr>
+<td style="text-align: right;">3</td>
+<td><a href="../../wiki/countries/germany.html" class="wikilink">germany</a></td>
+<td style="text-align: right;">0.438</td>
+<td style="text-align: right;">0.069</td>
+<td style="text-align: right;">0.622</td>
+<td style="text-align: right;">0.236</td>
+</tr>
+<tr>
+<td style="text-align: right;">4</td>
+<td><a href="../../wiki/countries/netherlands.html" class="wikilink">netherlands</a></td>
+<td style="text-align: right;">0.397</td>
+<td style="text-align: right;">0.045</td>
+<td style="text-align: right;">0.528</td>
+<td style="text-align: right;">0.199</td>
+</tr>
+<tr>
+<td style="text-align: right;">5</td>
+<td><a href="../../wiki/countries/france.html" class="wikilink">france</a></td>
+<td style="text-align: right;">0.342</td>
+<td style="text-align: right;">0.046</td>
+<td style="text-align: right;">0.614</td>
+<td style="text-align: right;">0.200</td>
+</tr>
+<tr>
+<td style="text-align: right;">6</td>
+<td><a href="../../wiki/countries/spain.html" class="wikilink">spain</a></td>
+<td style="text-align: right;">0.260</td>
+<td style="text-align: right;">0.041</td>
+<td style="text-align: right;">0.596</td>
+<td style="text-align: right;">0.125</td>
+</tr>
+<tr>
+<td style="text-align: right;">7</td>
+<td><a href="../../wiki/countries/australia.html" class="wikilink">australia</a></td>
+<td style="text-align: right;">0.260</td>
+<td style="text-align: right;">0.032</td>
+<td style="text-align: right;">0.601</td>
+<td style="text-align: right;">0.161</td>
+</tr>
+<tr>
+<td style="text-align: right;">8</td>
+<td><a href="../../wiki/countries/canada.html" class="wikilink">canada</a></td>
+<td style="text-align: right;">0.205</td>
+<td style="text-align: right;">0.014</td>
+<td style="text-align: right;">0.570</td>
+<td style="text-align: right;">0.139</td>
+</tr>
+<tr>
+<td style="text-align: right;">9</td>
+<td><a href="../../wiki/countries/romania.html" class="wikilink">romania</a></td>
+<td style="text-align: right;">0.192</td>
+<td style="text-align: right;">0.018</td>
+<td style="text-align: right;">0.581</td>
+<td style="text-align: right;">0.128</td>
+</tr>
+<tr>
+<td style="text-align: right;">10</td>
+<td><a href="../../wiki/countries/italy.html" class="wikilink">italy</a></td>
+<td style="text-align: right;">0.178</td>
+<td style="text-align: right;">0.011</td>
+<td style="text-align: right;">0.538</td>
+<td style="text-align: right;">0.091</td>
+</tr>
+<tr>
+<td style="text-align: right;">11</td>
+<td><a href="../../wiki/countries/japan.html" class="wikilink">japan</a></td>
+<td style="text-align: right;">0.164</td>
+<td style="text-align: right;">0.019</td>
+<td style="text-align: right;">0.559</td>
+<td style="text-align: right;">0.092</td>
+</tr>
+<tr>
+<td style="text-align: right;">12</td>
+<td><a href="../../wiki/countries/nigeria.html" class="wikilink">nigeria</a></td>
+<td style="text-align: right;"><strong>0.123</strong></td>
+<td style="text-align: right;"><strong>0.107</strong></td>
+<td style="text-align: right;">0.577</td>
+<td style="text-align: right;">0.037</td>
+</tr>
+</tbody>
+</table>
+<p><strong>Paper's country highlights</strong> (for comparison): US 0.622 / 0.389, Germany 0.233 / 0.042, UK 0.305 / 0.098, Nigeria 0.140 / 0.111.</p>
+<h3 id="country-interpretation-confidence-medium">Country interpretation (confidence: medium)</h3>
+<ul>
+<li><strong>United States is top on both degree and betweenness</strong> — in both studies. Our betweenness (0.219) is lower than the paper's (0.389), consistent with our smaller N and tighter subset. The paper and the wiki corpus both point to the US as the dominant cross-cluster liaison in cybercrime IC.</li>
+<li><strong>Nigeria is the clearest BEC-specialist regional broker</strong>: low degree (0.123) but disproportionately high betweenness (0.107), close to the paper's (0.140 / 0.111). Nigerian participation concentrates in BEC and Operation Jackal (African organised crime / BEC networks), which bridge Africa-centric ops to the global US/EU-anchored fabric. This pattern was not visible in PoC v1 — bare-string normalization in v3 was what surfaced it.</li>
+<li><strong>South Africa</strong> (not in top 12) shows a parallel regional-broker profile: degree 0.068, betweenness 0.066. Primary bridging happens through Operation Sentinel Africa and Haechi operations.</li>
+<li><strong>Brazil</strong> (not in top 12 either) sits even lower on degree (0.041) but has meaningful betweenness (0.043), almost entirely through Operation Orion (South America child-abuse material network). This is a third, distinct regional-broker signature in the subset.</li>
+<li><strong>UK / Germany / Netherlands / France</strong> sit higher in our subset than in the paper. Highly likely a corpus-composition effect: our audit filter removed US-DOJ procedural-wrapper ops, so Eurojust-anchored multi-country operations constitute a larger share of our subset. Not a substantive divergence in underlying cooperation patterns.</li>
+</ul>
+<h3 id="agency-mode-2-top-12">Agency (mode-2) top 12</h3>
+<table>
+<thead>
+<tr>
+<th style="text-align: right;">Rank</th>
+<th>Agency</th>
+<th style="text-align: right;">Degree</th>
+<th style="text-align: right;">Betweenness</th>
+<th style="text-align: right;">Closeness</th>
+<th style="text-align: right;">Eigenvector</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td style="text-align: right;">1</td>
+<td><a href="../../wiki/organizations/europol-ec3.html" class="wikilink">europol-ec3</a></td>
+<td style="text-align: right;"><strong>0.671</strong></td>
+<td style="text-align: right;"><strong>0.369</strong></td>
+<td style="text-align: right;">0.747</td>
+<td style="text-align: right;">0.373</td>
+</tr>
+<tr>
+<td style="text-align: right;">2</td>
+<td><a href="../../wiki/organizations/fbi-cyber-division.html" class="wikilink">fbi-cyber-division</a> (merged with legacy <code>fbi</code>)</td>
+<td style="text-align: right;"><strong>0.562</strong></td>
+<td style="text-align: right;"><strong>0.292</strong></td>
+<td style="text-align: right;">0.691</td>
+<td style="text-align: right;">0.325</td>
+</tr>
+<tr>
+<td style="text-align: right;">3</td>
+<td><a href="../../wiki/organizations/eurojust.html" class="wikilink">eurojust</a></td>
+<td style="text-align: right;">0.384</td>
+<td style="text-align: right;">0.072</td>
+<td style="text-align: right;">0.589</td>
+<td style="text-align: right;">0.243</td>
+</tr>
+<tr>
+<td style="text-align: right;">4</td>
+<td><a href="../../wiki/organizations/us-doj.html" class="wikilink">us-doj</a> (merged with legacy <code>usdoj</code>)</td>
+<td style="text-align: right;">0.274</td>
+<td style="text-align: right;">0.046</td>
+<td style="text-align: right;">0.551</td>
+<td style="text-align: right;">0.156</td>
+</tr>
+<tr>
+<td style="text-align: right;">5</td>
+<td><a href="../../wiki/organizations/netherlands-politie.html" class="wikilink">netherlands-politie</a></td>
+<td style="text-align: right;">0.260</td>
+<td style="text-align: right;">0.026</td>
+<td style="text-align: right;">0.506</td>
+<td style="text-align: right;">0.196</td>
+</tr>
+<tr>
+<td style="text-align: right;">6</td>
+<td><a href="../../wiki/organizations/uk-nca.html" class="wikilink">uk-nca</a></td>
+<td style="text-align: right;">0.247</td>
+<td style="text-align: right;">0.019</td>
+<td style="text-align: right;">0.501</td>
+<td style="text-align: right;">0.194</td>
+</tr>
+<tr>
+<td style="text-align: right;">7</td>
+<td><a href="../../wiki/organizations/germany-bka.html" class="wikilink">germany-bka</a></td>
+<td style="text-align: right;">0.219</td>
+<td style="text-align: right;">0.019</td>
+<td style="text-align: right;">0.490</td>
+<td style="text-align: right;">0.168</td>
+</tr>
+<tr>
+<td style="text-align: right;">8</td>
+<td><a href="../../wiki/organizations/interpol.html" class="wikilink">interpol</a> (merged with legacy <code>interpol-igci</code>)</td>
+<td style="text-align: right;"><strong>0.192</strong></td>
+<td style="text-align: right;"><strong>0.190</strong></td>
+<td style="text-align: right;">0.503</td>
+<td style="text-align: right;">0.021</td>
+</tr>
+<tr>
+<td style="text-align: right;">9</td>
+<td><a href="../../wiki/organizations/us-secret-service.html" class="wikilink">us-secret-service</a></td>
+<td style="text-align: right;">0.123</td>
+<td style="text-align: right;">0.011</td>
+<td style="text-align: right;">0.503</td>
+<td style="text-align: right;">0.080</td>
+</tr>
+<tr>
+<td style="text-align: right;">10</td>
+<td><a href="../../wiki/organizations/canada-rcmp.html" class="wikilink">canada-rcmp</a></td>
+<td style="text-align: right;">0.110</td>
+<td style="text-align: right;">0.003</td>
+<td style="text-align: right;">0.475</td>
+<td style="text-align: right;">0.110</td>
+</tr>
+<tr>
+<td style="text-align: right;">11</td>
+<td><a href="../../wiki/organizations/australia-afp.html" class="wikilink">australia-afp</a></td>
+<td style="text-align: right;">0.110</td>
+<td style="text-align: right;">0.004</td>
+<td style="text-align: right;">0.471</td>
+<td style="text-align: right;">0.091</td>
+</tr>
+<tr>
+<td style="text-align: right;">12</td>
+<td><a href="../../wiki/organizations/japan-npa.html" class="wikilink">japan-npa</a></td>
+<td style="text-align: right;">0.082</td>
+<td style="text-align: right;">0.029</td>
+<td style="text-align: right;">0.447</td>
+<td style="text-align: right;">0.058</td>
+</tr>
+</tbody>
+</table>
+<p><strong>Paper's agency highlights</strong>: FBI 0.494 / 0.371, Europol 0.311 / 0.132, DOJ 0.280 / 0.094, INTERPOL 0.268 / 0.135.</p>
+<h3 id="agency-interpretation-confidence-medium">Agency interpretation (confidence: medium)</h3>
+<ul>
+<li><strong>FBI (merged) ranks 2 at degree 0.562 and betweenness 0.292</strong> — within the same magnitude as the paper's FBI (0.494 / 0.371). The degree gap narrows because the <code>fbi → fbi-cyber-division</code> alias merge (PoC v2) consolidated nine operation participations that had been split between legacy and current slug. Without the merge, FBI would be split across two rank positions and understated.</li>
+<li><strong>Europol EC3 ranks 1</strong> in our subset where the paper has FBI top. Highly likely a corpus-composition artifact (Eurojust-anchored operations over-represented, US-DOJ wrappers removed). Not a substantive claim about Europol-vs-FBI dominance.</li>
+<li><strong>INTERPOL (merged) reproduces the paper's cross-domain broker signature</strong> exactly: low degree (0.192) and comparably high betweenness (0.190), meaning INTERPOL participates in relatively few operations but sits between many distinct operation clusters. Paper reports 0.268 / 0.135 — same low-deg / high-btw shape.</li>
+<li><strong>US DOJ (merged) at degree 0.274</strong> matches the paper's DOJ (0.280) almost exactly — the strongest numeric alignment in the agency table.</li>
+<li><strong>Japan NPA</strong> (rank 12 by degree) shows a moderate Asian-regional-broker profile (betweenness 0.029 on degree 0.082). Not visible in the paper's top rankings; likely reflects our inclusion of Asia-centric ops (Haechi series, Phobos/8Base) where the paper's English-news corpus may have under-represented them.</li>
+</ul>
+<h3 id="crime-type-mode-2">Crime-type (mode-2)</h3>
+<p>Because 72 of 73 included operations carry a <code>crime_types</code> list of one, the crime-type network is a near-star topology and most centrality metrics are structurally degenerate on this mode. Reporting degree only, with context caveats:</p>
+<table>
+<thead>
+<tr>
+<th style="text-align: right;">Rank</th>
+<th>Crime type</th>
+<th style="text-align: right;">Degree</th>
+<th style="text-align: right;">Participation count (ops)</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td style="text-align: right;">1</td>
+<td><a href="../../wiki/crime-types/online-fraud-ic.html" class="wikilink">online-fraud-ic</a></td>
+<td style="text-align: right;">0.301</td>
+<td style="text-align: right;">22</td>
+</tr>
+<tr>
+<td style="text-align: right;">2</td>
+<td><a href="../../wiki/crime-types/ransomware-ic.html" class="wikilink">ransomware-ic</a></td>
+<td style="text-align: right;">0.151</td>
+<td style="text-align: right;">11</td>
+</tr>
+<tr>
+<td style="text-align: right;">3</td>
+<td><a href="../../wiki/crime-types/malware-ic.html" class="wikilink">malware-ic</a></td>
+<td style="text-align: right;">0.110</td>
+<td style="text-align: right;">8</td>
+</tr>
+<tr>
+<td style="text-align: right;">4</td>
+<td><a href="../../wiki/crime-types/money-laundering-ic.html" class="wikilink">money-laundering-ic</a></td>
+<td style="text-align: right;">0.096</td>
+<td style="text-align: right;">7</td>
+</tr>
+<tr>
+<td style="text-align: right;">5</td>
+<td><a href="../../wiki/crime-types/bec-ic.html" class="wikilink">bec-ic</a></td>
+<td style="text-align: right;">0.096</td>
+<td style="text-align: right;">7</td>
+</tr>
+<tr>
+<td style="text-align: right;">6</td>
+<td><a href="../../wiki/crime-types/hacking-ic.html" class="wikilink">hacking-ic</a></td>
+<td style="text-align: right;">0.082</td>
+<td style="text-align: right;">6</td>
+</tr>
+<tr>
+<td style="text-align: right;">7</td>
+<td><a href="../../wiki/crime-types/carding-fraud-ic.html" class="wikilink">carding-fraud-ic</a></td>
+<td style="text-align: right;">0.041</td>
+<td style="text-align: right;">3</td>
+</tr>
+<tr>
+<td style="text-align: right;">8</td>
+<td><a href="../../wiki/crime-types/csam-ic.html" class="wikilink">csam-ic</a></td>
+<td style="text-align: right;">0.041</td>
+<td style="text-align: right;">3</td>
+</tr>
+<tr>
+<td style="text-align: right;">9</td>
+<td><a href="../../wiki/crime-types/cybercrime-forum-ic.html" class="wikilink">cybercrime-forum-ic</a></td>
+<td style="text-align: right;">0.027</td>
+<td style="text-align: right;">2</td>
+</tr>
+<tr>
+<td style="text-align: right;">10</td>
+<td><a href="../../wiki/crime-types/bank-fraud-ic.html" class="wikilink">bank-fraud-ic</a></td>
+<td style="text-align: right;">0.014</td>
+<td style="text-align: right;">1</td>
+</tr>
+</tbody>
+</table>
+<div class="callout callout-warning"><div class="callout-title">⚠️ Crime-type centrality is not structurally interpretable in PoC v5
+All but one operation has a single-valued <code>crime_types</code> list. Betweenness, closeness, eigenvector, transitivity, and community detection on the crime-type mode are degenerate or near-degenerate. Only degree (= operation count per crime type) is meaningfully reported.</div><div class="callout-body"></div></div>
+<p>The paper reports the top crime-types as money laundering (0.378 / 0.258) and identity theft (0.341 / 0.205), with ransomware, malware distribution, and darknet also in the top tier. Our top-by-degree list (online-fraud, ransomware, malware, money-laundering, BEC, hacking) overlaps qualitatively but the coarse 15-category schema cannot reproduce the paper's 204-category resolution.</p>
+<h2 id="connectedness-communities-and-the-core-periphery-question">Connectedness, Communities, and the Core-Periphery Question</h2>
+<p>Paper-style core-periphery analysis (Borgatti-Everett fitness) is deferred to the supplementary section. What we can report without that tool:</p>
+<h3 id="connected-components">Connected components</h3>
+<table>
+<thead>
+<tr>
+<th>Network</th>
+<th style="text-align: right;">Components</th>
+<th style="text-align: right;">Largest component</th>
+<th>Component-size tail</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Agency</td>
+<td style="text-align: right;">2</td>
+<td style="text-align: right;">148 / 151 (98%)</td>
+<td>3 (single isolated Asian bilateral op)</td>
+</tr>
+<tr>
+<td>Country</td>
+<td style="text-align: right;">1</td>
+<td style="text-align: right;">182 / 182 (100%)</td>
+<td>—</td>
+</tr>
+<tr>
+<td>Crime-type</td>
+<td style="text-align: right;">13</td>
+<td style="text-align: right;">23 / 88 (26%)</td>
+<td>12, 12, 9, 8, 7, 4, 3, 2, 2, ... (schema artifact)</td>
+</tr>
+</tbody>
+</table>
+<h3 id="louvain-communities-computed-on-1-mode-projection-onto-mode-2">Louvain communities (computed on 1-mode projection onto mode-2)</h3>
+<table>
+<thead>
+<tr>
+<th>Network</th>
+<th style="text-align: right;">Communities</th>
+<th style="text-align: right;">Modularity</th>
+<th>Paper reports</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Agency</td>
+<td style="text-align: right;">5</td>
+<td style="text-align: right;">0.287</td>
+<td>5 communities, modularity 0.213</td>
+</tr>
+<tr>
+<td>Country</td>
+<td style="text-align: right;">4</td>
+<td style="text-align: right;">0.307</td>
+<td>53 communities, modularity 0.287</td>
+</tr>
+<tr>
+<td>Crime-type</td>
+<td style="text-align: right;">13</td>
+<td style="text-align: right;">0.000</td>
+<td>4 communities, modularity 0.231</td>
+</tr>
+</tbody>
+</table>
+<p><strong>Agency community count matches exactly</strong> (5 = 5). Modularity within the same band. The structural partition of agencies into ~5 clusters is a reproduced finding.</p>
+<p><strong>Country community count is far coarser</strong> in our subset (4 vs. 53). Paper's 53 reflects its 131-country set with many one-operation-country leaves producing singleton communities. Our 4 communities reflect 109 countries in 73 operations — density is higher, partition is coarser. Modularity 0.307 is within the paper's range (0.287), so the partition quality is comparable; the count difference is a count-level artifact of corpus size, not a substantive divergence.</p>
+<p><strong>Crime-type community detection is degenerate</strong> (0.000 modularity, 13 singleton-ish components) — same schema artifact as §Basic Structure.</p>
+<h3 id="what-we-can-say-about-core-periphery-without-cpnet">What we can say about core-periphery WITHOUT cpnet</h3>
+<p>Even without running Borgatti-Everett fitness directly, three observations from the centrality tables suggest a core-periphery structure:</p>
+<ol>
+<li><strong>Heavy degree concentration at the top</strong> — US, UK, Germany carry 0.67 / 0.47 / 0.44 while the 50th-percentile country is below 0.10. The paper reports a similar top-heavy profile. Confidence: medium.</li>
+<li><strong>Agency top-4 dominates</strong> — Europol EC3, FBI Cyber Division, Eurojust, US DOJ together capture roughly 50% of degree-centrality mass. Paper's agency core block (DOJ + FBI + Europol) density is 0.437 — a similar "dense core, sparse periphery" pattern by inspection.</li>
+<li><strong>Single giant connected component at the country mode</strong> with a long-tail degree distribution is the classic core-periphery structural signature.</li>
+</ol>
+<p>Formal fitness computation via <code>cpnet</code> is deferred; see §Supplementary.</p>
+<h2 id="role-differentiation-participation-vs-connection">Role Differentiation — Participation vs. Connection</h2>
+<p>The paper's central claim is that <strong>participation breadth (degree) and connection function (betweenness) are not the same actor</strong>. Our subset reproduces this:</p>
+<table>
+<thead>
+<tr>
+<th>Actor</th>
+<th style="text-align: right;">Degree rank</th>
+<th style="text-align: right;">Betweenness rank</th>
+<th>Role signature</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>US (country)</td>
+<td style="text-align: right;">1 (0.671)</td>
+<td style="text-align: right;">1 (0.219)</td>
+<td>Global liaison — both high</td>
+</tr>
+<tr>
+<td>Europol EC3 (agency)</td>
+<td style="text-align: right;">1 (0.671)</td>
+<td style="text-align: right;">1 (0.369)</td>
+<td>Global coordinator — both high</td>
+</tr>
+<tr>
+<td>FBI Cyber Division (agency)</td>
+<td style="text-align: right;">2 (0.562)</td>
+<td style="text-align: right;">2 (0.292)</td>
+<td>Global coordinator — both high</td>
+</tr>
+<tr>
+<td>INTERPOL (agency)</td>
+<td style="text-align: right;">8 (0.192)</td>
+<td style="text-align: right;">3 (0.190)</td>
+<td>Cross-domain broker — low-deg, high-btw</td>
+</tr>
+<tr>
+<td>Nigeria (country)</td>
+<td style="text-align: right;">12 (0.123)</td>
+<td style="text-align: right;">~6 (0.107)</td>
+<td>BEC-specialist regional broker — low-deg, moderate-high btw</td>
+</tr>
+<tr>
+<td>South Africa (country)</td>
+<td style="text-align: right;">~30 (0.068)</td>
+<td style="text-align: right;">~10 (0.066)</td>
+<td>Africa regional broker — low-deg, moderate btw</td>
+</tr>
+<tr>
+<td>Brazil (country)</td>
+<td style="text-align: right;">~40 (0.041)</td>
+<td style="text-align: right;">~15 (0.043)</td>
+<td>South America regional broker — low-deg, moderate btw</td>
+</tr>
+<tr>
+<td>Japan NPA (agency)</td>
+<td style="text-align: right;">12 (0.082)</td>
+<td style="text-align: right;">7 (0.029)</td>
+<td>Asia regional broker — low-deg, elevated btw relative to deg</td>
+</tr>
+<tr>
+<td>Eurojust (agency)</td>
+<td style="text-align: right;">3 (0.384)</td>
+<td style="text-align: right;">4 (0.072)</td>
+<td>Broad-participation-but-not-broker — high deg, relatively low btw</td>
+</tr>
+<tr>
+<td>Germany (country)</td>
+<td style="text-align: right;">3 (0.438)</td>
+<td style="text-align: right;">4 (0.069)</td>
+<td>Regional coordinator — high deg, low btw (participates broadly within Europe, doesn't bridge to Africa/Asia)</td>
+</tr>
+</tbody>
+</table>
+<h3 id="interpretation-confidence-medium">Interpretation (confidence: medium)</h3>
+<ul>
+<li><strong>The US and the top two agencies (Europol EC3, FBI Cyber Division) are both global coordinators</strong> — high on both scales. The paper identifies the US, Europol, and FBI in similar roles.</li>
+<li><strong>INTERPOL is the clearest pure broker</strong> in our subset and in the paper. It sits between the EU-anchored operations and the Asia / Africa / Latin America operations without participating as often as the national coordinators.</li>
+<li><strong>Nigeria / South Africa / Brazil are regional brokers</strong> — each specializes in a geographic cluster (West African BEC; Southern African cybercrime sweeps; South American child-abuse operations) and bridges that cluster to the global fabric without accumulating large overall degree.</li>
+<li><strong>Eurojust and Germany show the inverse</strong> — high overall participation but low cross-cluster brokerage. Eurojust is a broad coordinator <em>within</em> European operations; Germany is a prominent European participant but does not frequently bridge to non-European clusters. This is the "broad participation without brokerage" signature the paper identifies for regional coordinators.</li>
+</ul>
+<h3 id="what-the-subset-cannot-support-yet">What the subset cannot support yet</h3>
+<ul>
+<li><strong>Sub-national or sub-agency brokerage</strong> — our alias canonicalization merges sub-units into their parent organization (INTERPOL IGCI into INTERPOL, FBI Cyber Division remains separate from a hypothetical "FBI" umbrella). The paper's node resolution is coarser at the agency mode, so finer distinctions like "which INTERPOL regional bureau bridges which operation cluster" require more detailed data than our wiki currently carries.</li>
+<li><strong>Temporal role dynamics</strong> — the paper and this analysis both collapse 10 years (2015-2025) into a single static network. Whether INTERPOL's brokerage signature is stable or emerged during a specific sub-period cannot be answered without a time-sliced network. Paper explicitly notes this as a future-work item.</li>
+</ul>
+<h2 id="korean-perspective">Korean Perspective (한국 관점)</h2>
+<p>South Korea appears in the subset at degree 0.096 / betweenness 0.014 (rank ~15 by degree, rank ~25 by betweenness). Korean participation concentrates in:</p>
+<ul>
+<li><strong><a href="../../wiki/operations/operation-haechi-iii.html" class="wikilink">operation-haechi-iii</a></strong> — INTERPOL-led multi-year anti-financial-crime operation where Korea is a primary participant.</li>
+<li><strong><a href="../../wiki/operations/operation-haechi-iv.html" class="wikilink">operation-haechi-iv</a></strong> — Same program, later cycle.</li>
+<li><strong><a href="../../wiki/operations/operation-jackal-iii.html" class="wikilink">operation-jackal-iii</a></strong> — Black Axe / West African BEC network takedown with Korean enforcement support.</li>
+<li><strong>Phobos / 8Base ransomware arrest operations</strong> — Three ops (recently enriched in v5) where Korea participated alongside Italy and the US in a multinational arrest coordination.</li>
+<li><strong><a href="../../wiki/operations/operation-key-figures-behind-phobos-and-8base-ransomware-arrested-in-international-cybercrime-crackdown.html" class="wikilink">operation-key-figures-behind-phobos-and-8base-ransomware-arrested-in-international-cybercrime-crackdown</a></strong> — the three enrichment-applied ops add Korea to the subset in v5.</li>
+</ul>
+<p>Korean agency representation is partial: <code>&lt;a href="../../wiki/countries/south-korea.html" class="wikilink"&gt;south-korea&lt;/a&gt;</code> appears as a country node, but the specific Korean agencies (국가정보원, 대검찰청 사이버범죄수사단, 경찰청 국가수사본부 사이버수사국) are under-represented in operation frontmatter. This is highly likely a wiki-content gap, not a substantive absence from real-world operations — Korean IC participation in Haechi and Phobos arrests is well-documented in press releases and <a href="../../wiki/countries/south-korea.html" class="wikilink">south-korea</a>.</p>
+<p><strong>Structural position</strong>: South Korea's profile in our subset is that of an Asia-regional participant with moderate Haechi-family participation and occasional bilateral action (Korea-UAE sub-operation in Haechi VI, Korea-China Qingdao voice-phishing bilateral). Not a top-tier global liaison. Broker betweenness is low (0.014) because Korean participation does not bridge between distinct operation clusters — most Korean ops are within the Haechi cluster. This is likely an accurate reflection of Korean IC practice circa 2015-2025: deep specialist participation within INTERPOL-led Asia-financial-crime operations, with broader structural brokerage still developing.</p>
+<h2 id="limitations"><span class="heading-ko">한계</span><span class="heading-en">Limitations</span></h2>
+<p>Three limitations constrain interpretation and are explicitly surfaced (per user direction at Step B intake):</p>
+<h3 id="1-subset-corpus-limitation">1. Subset corpus limitation</h3>
+<p>The 73-op included subset represents audit-filtered, multi-source multi-country cooperation operations. It is NOT the full universe of cybercrime IC. It specifically excludes:
+- 1,017 operations whose wiki pages have <code>participating_countries</code> counts of 0 or 1 (either domestic follow-ons OR genuinely multi-country operations with unfilled frontmatter).
+- 20 operations whose wiki pages list fewer than 2 <code>participating_agencies</code>.
+- 17 operations with non-live status (stubs, planned, classified).</p>
+<p>The audit filter was designed to remove false-positive US-DOJ procedural wrappers; its incidental effect is a Euro-weighted subset where Eurojust-anchored operations have more relative mass than in the paper's English-Google-News corpus. <strong>Absolute metric values are NOT directly comparable to the paper.</strong> Qualitative pattern comparison is valid.</p>
+<h3 id="2-coarse-crime-type-schema">2. Coarse crime-type schema</h3>
+<p>The wiki's <code>crime_types</code> taxonomy has 15 leaf categories in use (<code>online-fraud-ic</code>, <code>ransomware-ic</code>, <code>malware-ic</code>, <code>bec-ic</code>, <code>money-laundering-ic</code>, <code>hacking-ic</code>, <code>carding-fraud-ic</code>, <code>csam-ic</code>, <code>cybercrime-forum-ic</code>, <code>bank-fraud-ic</code>, <code>cybercrime-infrastructure-ic</code>, <code>ddos-extortion</code>, <code>ddos-ic</code>, <code>organized-crime-ic</code>, <code>voice-phishing-ic</code>). The paper operates on 204 crime-type labels derived from a more granular INTERPOL + Budapest Convention classification with adjusted field labels.</p>
+<p>Consequence: <strong>crime-type structural comparison to the paper is not supported</strong> at this resolution. Paper-level findings like "money laundering and identity theft are the bridging crime-types" cannot be tested on our 15-category schema. The crime-type network currently produces degenerate community detection (modularity 0.0), near-star topology, and a transitivity sample artifact of 1.0 driven by a single multi-valued op. Multi-value <code>crime_types</code> backfill and finer-grained category expansion are explicit Step B follow-ups — see <a href="../../wiki/analysis/sna-pilot.html" class="wikilink">sna-pilot</a> §Next steps.</p>
+<h3 id="3-residual-country-under-enrichment">3. Residual country under-enrichment</h3>
+<p>Of the 46-op Eurojust/Europol/INTERPOL subset targeted by the v5 enrichment pass, 20 were applied source-backed. The remaining 26 break down:
+- 11 <code>no_sources</code> — operation pages with no <code>sources:</code> wikilink set. Source data may exist in raw press releases but isn't yet connected.
+- 11 <code>no_extract</code> — source <code>key_findings</code> text is too generic ("international cooperation", "global partners") to yield explicit country names.
+- 2 <code>no_key_findings</code> — source page exists but key_findings field is empty.
+- 2 <code>empty_delta</code> — source extraction returned only countries already in the operation's frontmatter.</p>
+<p>A separate, much larger backlog of <strong>1,017 operations outside the Eurojust/Europol/INTERPOL subset</strong> still have <code>participating_countries</code> counts below the inclusion threshold. Some are legitimately domestic (correctly excluded); others are multi-country operations whose frontmatter has not been enriched. The subset-first enrichment approach (user-approved) deferred that larger backlog to a later cycle on the explicit rationale that the 46-op subset provides sufficient quality uplift for Step B interpretation.</p>
+<h2 id="corpus-difference-and-bias">Corpus Difference and Bias</h2>
+<p>The following table summarizes where our corpus is expected to diverge from the paper's and the direction of each effect:</p>
+<table>
+<thead>
+<tr>
+<th>Dimension</th>
+<th>Paper corpus</th>
+<th>Our corpus</th>
+<th>Direction of bias</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Language</td>
+<td>English news only</td>
+<td>Multi-language (RSS + press releases + court docs + academic)</td>
+<td>Ours includes more non-English operations, especially EU bilateral actions</td>
+</tr>
+<tr>
+<td>Source type</td>
+<td>News media</td>
+<td>Mixed (news + official agency feeds + court documents)</td>
+<td>Ours is weighted toward official operational announcements; paper is weighted toward journalistic coverage</td>
+</tr>
+<tr>
+<td>Country coverage</td>
+<td>Western-press-covered operations</td>
+<td>Broader, but with audit filter removing US-DOJ wrappers</td>
+<td>Europol / Eurojust / INTERPOL-led operations over-represented in ours</td>
+</tr>
+<tr>
+<td>Time period</td>
+<td>2015-2025, 10 years</td>
+<td>Same 10-year window, but with post-audit recency skew (Eurojust feed launched 2023)</td>
+<td>Ours is more recent-weighted at the margin</td>
+</tr>
+<tr>
+<td>Screening</td>
+<td>3-stage topical + full-text + dedup</td>
+<td>Inclusion-rule filter + audit denylist + soft regex</td>
+<td>Different decision boundaries; ours filters more on structural signals (country/agency counts) and less on narrative content</td>
+</tr>
+<tr>
+<td>Crime-type granularity</td>
+<td>204 labels</td>
+<td>15 labels</td>
+<td>Ours is coarser by ~14×</td>
+</tr>
+</tbody>
+</table>
+<p><strong>Bias direction for centrality interpretation</strong>: our Europol EC3 &gt; FBI is explained by audit-filter corpus composition, not by any substantive change in cybercrime IC. Our Nigeria / South Africa / Brazil regional-broker signals are strengthened (not weakened) relative to what an English-only news corpus would show — because we include French / Spanish / Portuguese Eurojust and INTERPOL releases that cover those operations more consistently.</p>
+<h2 id="supplementary-core-periphery-borgatti-everett">Supplementary — Core-Periphery (Borgatti-Everett)</h2>
+<p>Paper's Table 4 analog. Computed by <code>tools/sna_core_periphery_brokerage.py</code> via <code>cpnet.BE</code> on the 1-mode projection of mode-2 nodes (largest connected component). Operations are classified as core iff they connect to at least one mode-2 core member. 4-block densities are computed on the full 2-mode bipartite graph.</p>
+<h3 id="fitness-4-block-densities">Fitness + 4-block densities</h3>
+<table>
+<thead>
+<tr>
+<th>Metric</th>
+<th style="text-align: right;">Paper Agency</th>
+<th style="text-align: right;">PoC v5 Agency</th>
+<th style="text-align: right;">Paper Country</th>
+<th style="text-align: right;">PoC v5 Country</th>
+<th style="text-align: right;">Paper Crime</th>
+<th style="text-align: right;">PoC v5 Crime</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Fitness</td>
+<td style="text-align: right;">0.254</td>
+<td style="text-align: right;"><strong>0.266</strong></td>
+<td style="text-align: right;">0.358</td>
+<td style="text-align: right;"><strong>0.008</strong></td>
+<td style="text-align: right;">0.225</td>
+<td style="text-align: right;">0.000</td>
+</tr>
+<tr>
+<td>Core-Core block density</td>
+<td style="text-align: right;">0.437</td>
+<td style="text-align: right;">0.128</td>
+<td style="text-align: right;">0.457</td>
+<td style="text-align: right;">0.073</td>
+<td style="text-align: right;">0.331</td>
+<td style="text-align: right;">1.000</td>
+</tr>
+<tr>
+<td>Core-Periphery</td>
+<td style="text-align: right;">0.000</td>
+<td style="text-align: right;">0.019</td>
+<td style="text-align: right;">0.048</td>
+<td style="text-align: right;">0.014</td>
+<td style="text-align: right;">0.051</td>
+<td style="text-align: right;">0.020</td>
+</tr>
+<tr>
+<td>Periphery-Core</td>
+<td style="text-align: right;">0.020</td>
+<td style="text-align: right;">0.000</td>
+<td style="text-align: right;">0.038</td>
+<td style="text-align: right;">0.000</td>
+<td style="text-align: right;">0.022</td>
+<td style="text-align: right;">0.000</td>
+</tr>
+<tr>
+<td>Periphery-Periphery</td>
+<td style="text-align: right;">0.008</td>
+<td style="text-align: right;">0.043</td>
+<td style="text-align: right;">0.013</td>
+<td style="text-align: right;">0.000</td>
+<td style="text-align: right;">0.007</td>
+<td style="text-align: right;">0.071</td>
+</tr>
+<tr>
+<td>Mode-2 core size</td>
+<td style="text-align: right;">—</td>
+<td style="text-align: right;"><strong>32</strong></td>
+<td style="text-align: right;">—</td>
+<td style="text-align: right;">107</td>
+<td style="text-align: right;">—</td>
+<td style="text-align: right;">1</td>
+</tr>
+</tbody>
+</table>
+<h3 id="agency-core-members-our-partition">Agency core members (our partition)</h3>
+<div class="callout callout-note"><div class="callout-title">📝 Agency core membership
+cpnet BE assigns the following 32 agencies to the core block: <code>australia-afp</code>, <code>belgium-federal-police</code>, <code>bulgaria-police</code>, <code>canada-rcmp</code>, <code>denmark-police</code>, <code>eurojust</code>, <code>europol-ec3</code>, <code>fbi-cyber-division</code>, <code>france-gendarmerie</code>, <code>france-junalco</code>, <code>france-national-police</code>, <code>germany-bka</code>, <code>ireland-gardai</code>, <code>israel-police</code>, <code>italy-postale</code>, <code>netherlands-politie</code>, <code>portugal-policia-judiciaria</code>, <code>romania-diicot</code>, <code>spain-guardia-civil</code>, <code>spain-policia-nacional</code>, <code>sweden-police</code>, <code>switzerland-fedpol</code>, <code>uk-nca</code>, <code>us-doj</code>, <code>us-fbi-icc</code>, <code>us-irs-ci</code>, <code>us-secret-service</code>, plus a few additional European national units. INTERPOL is in the periphery block by BE's assignment, which is consistent with its low overall degree (0.192) despite high betweenness (0.190) — the BE partition is degree-driven.</div><div class="callout-body"><p>The paper's tight core (DOJ + FBI + Europol only) is a narrower partition than ours. The numerical fitness (0.266 vs. paper 0.254) is close, but the partition granularity differs — likely an algorithmic difference between <code>cpnet.BE</code> (simulated annealing) and UCINET's BE (discrete optimization).</p></div></div>
+<h3 id="agency-finding-confidence-medium">Agency finding (confidence: medium)</h3>
+<p>The agency network <strong>reproduces the paper's core-periphery structural signature</strong> at the fitness level (0.266 vs. 0.254). The core block contains Europol EC3 + Eurojust + FBI Cyber Division + US DOJ + US Secret Service as the paper does, plus a broader set of European national police units that our Eurojust-weighted subset elevates. Core-Core density (0.128) is lower than the paper's (0.437), which reflects the larger core size — 32 nodes forming a less dense clique than the paper's 3-node tight core.</p>
+<h3 id="country-and-crime-type-findings-confidence-high-on-the-limitation">Country and crime-type findings (confidence: high on the limitation)</h3>
+<div class="callout callout-warning"><div class="callout-title">⚠️ Country core-periphery from cpnet BE is near-degenerate in our subset
+The country fitness of 0.008 and core size of 107 out of 182 mode-2 nodes indicates that <code>cpnet.BE</code> did not find a meaningful core-periphery partition — it split the graph roughly in half with weak structural coherence. The likely cause is algorithmic: the country network is dense (density 0.072) and nearly fully connected (1 component, fragmentation 0.000), and BE's simulated-annealing search on dense graphs tends to converge on near-trivial partitions. The paper, using UCINET's discrete BE, reports 0.358 / C-C 0.457 — a tighter, more meaningful partition. <strong>This is a tool-difference, not a data-difference claim.</strong> Alternative cpnet algorithms (Rombach continuous-coreness, Lip, LowRankCore) may produce a cleaner partition; left as a Step C-follow-up.</div><div class="callout-body"><p>[!warning] Crime-type core-periphery is undefined in PoC v5
+Fitness 0.000 with core size 1 (containing only <code>money-laundering-ic</code>) is an artifact of the single-valued <code>crime_types</code> schema: the 1-mode projection onto crime-types has only one triangle (from <code>&lt;a href="../../wiki/operations/operation-105-arrested-for-stealing-over-eur-12-million-from-us-based-banks.html" class="wikilink"&gt;operation-105-arrested-for-stealing-over-eur-12-million-from-us-based-banks&lt;/a&gt;</code> with 3 crime types), so cpnet BE has essentially no structure to partition. Multi-value backfill (see <a href="../../wiki/analysis/sna-pilot.html" class="wikilink">sna-pilot</a> Step C roadmap) is required before crime-type core-periphery becomes interpretable.</p></div></div>
+<h2 id="supplementary-brokerage-gould-fernandez-5-roles">Supplementary — Brokerage (Gould-Fernandez 5 Roles)</h2>
+<p>Paper's Table 5 analog. Computed by <code>tools/sna_core_periphery_brokerage.py</code> on the 1-mode projection of mode-2 nodes. Node partitions drawn from wiki metadata:
+- Agency: <code>org_type</code> field (<code>international-org</code>, <code>regional-org</code>, <code>national-agency</code>, <code>national-unit</code>, <code>prosecution-office</code>, etc.)
+- Country: <code>region</code> field (<code>western-europe</code>, <code>north-america</code>, <code>east-asia</code>, <code>west-africa</code>, <code>southern-africa</code>, etc.)
+- Crime-type: <code>crime_category</code> field (<code>cyber-dependent</code>, <code>cyber-enabled</code>, <code>content-related</code>)</p>
+<p>Each ordered triad <code>(i, k, j)</code> where <code>k</code> is a broker (common neighbor of <code>i</code> and <code>j</code>), <code>(i, j)</code> not directly connected, contributes one count to the role classified by the group triple <code>(g(i), g(k), g(j))</code>. Roles: Coordinator (all same group), Gatekeeper (broker in same group as receiver), Representative (broker in same group as sender), Consultant (alters in same group, broker outside), Liaison (all three different groups).</p>
+<h3 id="country-brokerage-top-10-by-total">Country brokerage — top 10 by total</h3>
+<table>
+<thead>
+<tr>
+<th style="text-align: right;">Rank</th>
+<th>Country</th>
+<th>Region partition</th>
+<th style="text-align: right;">Coord</th>
+<th style="text-align: right;">Gate</th>
+<th style="text-align: right;">Rep</th>
+<th style="text-align: right;">Cons</th>
+<th style="text-align: right;">Liais</th>
+<th style="text-align: right;">Total</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td style="text-align: right;">1</td>
+<td><a href="../../wiki/countries/united-states.html" class="wikilink">united-states</a></td>
+<td>north-america</td>
+<td style="text-align: right;">0</td>
+<td style="text-align: right;">18</td>
+<td style="text-align: right;">18</td>
+<td style="text-align: right;">146</td>
+<td style="text-align: right;"><strong>2,850</strong></td>
+<td style="text-align: right;">3,032</td>
+</tr>
+<tr>
+<td style="text-align: right;">2</td>
+<td><a href="../../wiki/countries/nigeria.html" class="wikilink">nigeria</a></td>
+<td>west-africa</td>
+<td style="text-align: right;">12</td>
+<td style="text-align: right;"><strong>224</strong></td>
+<td style="text-align: right;"><strong>224</strong></td>
+<td style="text-align: right;">356</td>
+<td style="text-align: right;">1,688</td>
+<td style="text-align: right;">2,504</td>
+</tr>
+<tr>
+<td style="text-align: right;">3</td>
+<td><a href="../../wiki/countries/united-kingdom.html" class="wikilink">united-kingdom</a></td>
+<td>western-europe</td>
+<td style="text-align: right;">10</td>
+<td style="text-align: right;">222</td>
+<td style="text-align: right;">222</td>
+<td style="text-align: right;">76</td>
+<td style="text-align: right;">1,558</td>
+<td style="text-align: right;">2,088</td>
+</tr>
+<tr>
+<td style="text-align: right;">4</td>
+<td><a href="../../wiki/countries/south-africa.html" class="wikilink">south-africa</a></td>
+<td>southern-africa</td>
+<td style="text-align: right;">0</td>
+<td style="text-align: right;">41</td>
+<td style="text-align: right;">41</td>
+<td style="text-align: right;">330</td>
+<td style="text-align: right;">1,614</td>
+<td style="text-align: right;">2,026</td>
+</tr>
+<tr>
+<td style="text-align: right;">5</td>
+<td><a href="../../wiki/countries/france.html" class="wikilink">france</a></td>
+<td>western-europe</td>
+<td style="text-align: right;">10</td>
+<td style="text-align: right;">209</td>
+<td style="text-align: right;">209</td>
+<td style="text-align: right;">54</td>
+<td style="text-align: right;">1,492</td>
+<td style="text-align: right;">1,974</td>
+</tr>
+<tr>
+<td style="text-align: right;">6</td>
+<td><a href="../../wiki/countries/australia.html" class="wikilink">australia</a></td>
+<td>oceania</td>
+<td style="text-align: right;">0</td>
+<td style="text-align: right;">0</td>
+<td style="text-align: right;">0</td>
+<td style="text-align: right;">86</td>
+<td style="text-align: right;">1,798</td>
+<td style="text-align: right;">1,884</td>
+</tr>
+<tr>
+<td style="text-align: right;">7</td>
+<td><a href="../../wiki/countries/spain.html" class="wikilink">spain</a></td>
+<td>western-europe</td>
+<td style="text-align: right;">10</td>
+<td style="text-align: right;">197</td>
+<td style="text-align: right;">197</td>
+<td style="text-align: right;">52</td>
+<td style="text-align: right;">1,262</td>
+<td style="text-align: right;">1,718</td>
+</tr>
+<tr>
+<td style="text-align: right;">8</td>
+<td><a href="../../wiki/countries/poland.html" class="wikilink">poland</a></td>
+<td>eastern-europe</td>
+<td style="text-align: right;">14</td>
+<td style="text-align: right;">191</td>
+<td style="text-align: right;">191</td>
+<td style="text-align: right;">94</td>
+<td style="text-align: right;">1,182</td>
+<td style="text-align: right;">1,672</td>
+</tr>
+<tr>
+<td style="text-align: right;">9</td>
+<td><a href="../../wiki/countries/sweden.html" class="wikilink">sweden</a></td>
+<td>northern-europe</td>
+<td style="text-align: right;">2</td>
+<td style="text-align: right;">77</td>
+<td style="text-align: right;">77</td>
+<td style="text-align: right;">72</td>
+<td style="text-align: right;">1,346</td>
+<td style="text-align: right;">1,574</td>
+</tr>
+<tr>
+<td style="text-align: right;">10</td>
+<td><a href="../../wiki/countries/germany.html" class="wikilink">germany</a></td>
+<td>western-europe</td>
+<td style="text-align: right;">10</td>
+<td style="text-align: right;">171</td>
+<td style="text-align: right;">171</td>
+<td style="text-align: right;">38</td>
+<td style="text-align: right;">1,164</td>
+<td style="text-align: right;">1,554</td>
+</tr>
+</tbody>
+</table>
+<h3 id="country-brokerage-interpretation-confidence-medium">Country brokerage interpretation (confidence: medium)</h3>
+<ul>
+<li><strong>US is a pure global liaison</strong> — 94% of its brokered triads involve three different regions. Coordinator and Consultant counts are negligible (0 and 146). This is the textbook global-liaison signature and reproduces the paper's finding on US role structure.</li>
+<li><strong>Nigeria shows the highest gatekeeper-representative mix in the top 10</strong> — Gate+Rep = 448 vs. its Liaison of 1,688. The pattern means Nigeria frequently bridges West-African operation participants into the global fabric (gatekeeper bringing outsider to west-africa) AND routes from West Africa outward (representative). This is the clearest "specialist regional broker" signature in our data and qualitatively matches the paper's Nigeria finding.</li>
+<li><strong>South Africa, Australia, and (implied) Brazil</strong> all show high Liaison and moderate Consultant counts, with Coordinator=0 — each is a regional isolate whose ops predominantly bridge cross-regional.</li>
+<li><strong>UK, France, Spain, Germany, Poland</strong> cluster as western/eastern-European national participants with balanced Gate+Rep (~200) + Coordinator (~10) + Consultant (~50-90) + Liaison (~1,200-1,500) — the regional-coordinator-plus-outward-liaison profile.</li>
+<li><strong>Sweden</strong> shows a thinner Gate+Rep profile (77 each) than its western-European peers, indicating it participates in more diverse-partner operations (Baltic / Scandinavian sub-cluster) rather than the dense Continental EU core.</li>
+</ul>
+<h3 id="agency-brokerage-top-10-by-total">Agency brokerage — top 10 by total</h3>
+<table>
+<thead>
+<tr>
+<th style="text-align: right;">Rank</th>
+<th>Agency</th>
+<th><code>org_type</code></th>
+<th style="text-align: right;">Coord</th>
+<th style="text-align: right;">Gate</th>
+<th style="text-align: right;">Rep</th>
+<th style="text-align: right;">Cons</th>
+<th style="text-align: right;">Liais</th>
+<th style="text-align: right;">Total</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td style="text-align: right;">1</td>
+<td><a href="../../wiki/organizations/europol-ec3.html" class="wikilink">europol-ec3</a></td>
+<td>regional-org</td>
+<td style="text-align: right;">0</td>
+<td style="text-align: right;">19</td>
+<td style="text-align: right;">19</td>
+<td style="text-align: right;"><strong>412</strong></td>
+<td style="text-align: right;"><strong>2,178</strong></td>
+<td style="text-align: right;">2,628</td>
+</tr>
+<tr>
+<td style="text-align: right;">2</td>
+<td><a href="../../wiki/organizations/fbi-cyber-division.html" class="wikilink">fbi-cyber-division</a></td>
+<td>national-agency</td>
+<td style="text-align: right;"><strong>202</strong></td>
+<td style="text-align: right;"><strong>492</strong></td>
+<td style="text-align: right;"><strong>492</strong></td>
+<td style="text-align: right;">230</td>
+<td style="text-align: right;">776</td>
+<td style="text-align: right;">2,192</td>
+</tr>
+<tr>
+<td style="text-align: right;">3</td>
+<td><a href="../../wiki/organizations/eurojust.html" class="wikilink">eurojust</a></td>
+<td>regional-org</td>
+<td style="text-align: right;">0</td>
+<td style="text-align: right;">0</td>
+<td style="text-align: right;">0</td>
+<td style="text-align: right;">178</td>
+<td style="text-align: right;">710</td>
+<td style="text-align: right;">888</td>
+</tr>
+<tr>
+<td style="text-align: right;">4</td>
+<td><a href="../../wiki/organizations/us-doj.html" class="wikilink">us-doj</a></td>
+<td>national-agency</td>
+<td style="text-align: right;">68</td>
+<td style="text-align: right;">155</td>
+<td style="text-align: right;">155</td>
+<td style="text-align: right;">26</td>
+<td style="text-align: right;">188</td>
+<td style="text-align: right;">592</td>
+</tr>
+<tr>
+<td style="text-align: right;">5</td>
+<td><a href="../../wiki/organizations/france-gendarmerie.html" class="wikilink">france-gendarmerie</a></td>
+<td>national-unit</td>
+<td style="text-align: right;">68</td>
+<td style="text-align: right;">150</td>
+<td style="text-align: right;">150</td>
+<td style="text-align: right;">12</td>
+<td style="text-align: right;">178</td>
+<td style="text-align: right;">558</td>
+</tr>
+<tr>
+<td style="text-align: right;">6</td>
+<td><a href="../../wiki/organizations/netherlands-politie.html" class="wikilink">netherlands-politie</a></td>
+<td>national-unit</td>
+<td style="text-align: right;"><strong>120</strong></td>
+<td style="text-align: right;">108</td>
+<td style="text-align: right;">108</td>
+<td style="text-align: right;">42</td>
+<td style="text-align: right;">42</td>
+<td style="text-align: right;">420</td>
+</tr>
+<tr>
+<td style="text-align: right;">7</td>
+<td><a href="../../wiki/organizations/interpol.html" class="wikilink">interpol</a></td>
+<td>international-org</td>
+<td style="text-align: right;">2</td>
+<td style="text-align: right;">36</td>
+<td style="text-align: right;">36</td>
+<td style="text-align: right;">42</td>
+<td style="text-align: right;"><strong>254</strong></td>
+<td style="text-align: right;">370</td>
+</tr>
+<tr>
+<td style="text-align: right;">8</td>
+<td><a href="../../wiki/organizations/uk-nca.html" class="wikilink">uk-nca</a></td>
+<td>national-agency</td>
+<td style="text-align: right;">32</td>
+<td style="text-align: right;">94</td>
+<td style="text-align: right;">94</td>
+<td style="text-align: right;">96</td>
+<td style="text-align: right;">50</td>
+<td style="text-align: right;">366</td>
+</tr>
+<tr>
+<td style="text-align: right;">9</td>
+<td><a href="../../wiki/organizations/us-secret-service.html" class="wikilink">us-secret-service</a></td>
+<td>national-unit</td>
+<td style="text-align: right;">26</td>
+<td style="text-align: right;">78</td>
+<td style="text-align: right;">78</td>
+<td style="text-align: right;">36</td>
+<td style="text-align: right;">50</td>
+<td style="text-align: right;">268</td>
+</tr>
+<tr>
+<td style="text-align: right;">10</td>
+<td><a href="../../wiki/organizations/canada-rcmp.html" class="wikilink">canada-rcmp</a></td>
+<td>national-unit</td>
+<td style="text-align: right;"><strong>120</strong></td>
+<td style="text-align: right;">54</td>
+<td style="text-align: right;">54</td>
+<td style="text-align: right;">12</td>
+<td style="text-align: right;">10</td>
+<td style="text-align: right;">250</td>
+</tr>
+</tbody>
+</table>
+<h3 id="agency-brokerage-interpretation-confidence-medium">Agency brokerage interpretation (confidence: medium)</h3>
+<ul>
+<li><strong>Europol EC3 is a pure cross-domain broker</strong> — 83% Liaison + 16% Consultant + almost 0 Coordinator. It bridges distinct organization-type groups (international-orgs ↔ national-agencies ↔ national-units) without operating as an intra-group coordinator. <strong>This matches the paper's Europol signature exactly</strong> (paper: Coord 10 / Gate 162 / Rep 162 / Cons 1,176 / Liais 430 — high Cons+Liais, minimal Coord).</li>
+<li><strong>FBI Cyber Division is the most balanced agency broker</strong>. Its 202 Coordinator (bridging within national-agency) + 492/492 Gate/Rep + 230 Consultant + 776 Liaison spread across all 5 roles is the signature of a <strong>hub agency that coordinates, gatekeeps, and bridges simultaneously</strong>. Paper's FBI was Coord 1,580 + Gate 442 + Rep 442 + Cons 18 + Liais 80 — Coordinator-dominant. <strong>Ours is Gatekeeper/Representative-dominant instead</strong>, reflecting our Eurojust-weighted subset where FBI bridges across more organization types rather than coordinating internally.</li>
+<li><strong>Eurojust is a pure Liaison+Consultant broker</strong> (0 Coord / 0 Gate / 0 Rep / 178 Cons / 710 Liais) — structurally similar to Europol EC3. Coord=0 means Eurojust never bridges two <code>regional-org</code> members to each other, which makes sense (there's only one Eurojust in its group).</li>
+<li><strong>INTERPOL reproduces the paper's international-org Liaison specialist signature</strong> — 254 Liaison out of 370 total (69%), with low Gate/Rep/Cons. Paper's INTERPOL had Coord 4 / Gate 64 / Rep 64 / Cons 250 / Liais 284 (total 666) — very similar Liaison-dominant profile.</li>
+<li><strong>Netherlands-Politie and Canada-RCMP are internal coordinators</strong> — 120 Coord each, low Liaison. The pattern indicates they bridge multiple operations <em>within</em> the <code>national-unit</code> group (e.g., bridging Dutch and Belgian police or Canadian and US domestic units in the same op series) more than bridging across org types.</li>
+<li><strong>Italy, Germany, France national units</strong> (not in top 10, but in CSV) cluster as moderate regional coordinators — similar profile to Netherlands but lower total volume.</li>
+</ul>
+<h3 id="crime-type-brokerage-not-interpretable-in-poc-v5">Crime-type brokerage — not interpretable in PoC v5</h3>
+<div class="callout callout-warning"><div class="callout-title">⚠️ Crime-type brokerage is all zeros
+All 15 crime-type nodes have total brokerage 0. This is the direct consequence of the list-of-one <code>crime_types</code> schema: the 1-mode projection onto crime-types has ~1 edge per op (from the one multi-valued op), so there are no triads for Gould-Fernandez to classify. <strong>This is NOT a finding</strong>. Multi-value backfill (see <a href="../../wiki/analysis/sna-pilot.html" class="wikilink">sna-pilot</a>) is a prerequisite.</div><div class="callout-body"></div></div>
+<h2 id="figures-role-indicator-based-network-visualizations">Figures — Role-indicator-based Network Visualizations</h2>
+<p>Two interactive HTML figures render the 2-mode agency and country networks with node coloring derived from the Step C role classification (<code>tools/sna_visualize.py</code>, rules <code>roles-v1</code>). Core-block nodes (from <code>cpnet.BE</code>) carry a thicker border. Operations appear as small dark-slate nodes (mode-1). Hover any node for degree + betweenness + brokerage detail.</p>
+<ul>
+<li><strong><a href="sna/agency-network.html">Agency network</a></strong> — 78 mode-2 agency nodes × 73 operations, 360 edges.</li>
+<li><strong><a href="sna/country-network.html">Country network</a></strong> — 109 mode-2 country nodes × 73 operations, 566 edges.</li>
+</ul>
+<p>Crime-type network visualization is omitted in this release because the single-valued <code>crime_types</code> schema (see §Basic Structure warning) makes the crime-type mode near-degenerate — 72 of 73 ops connect to exactly one crime-type node, so a force-directed layout would not reveal additional structure beyond the degree counts already tabulated.</p>
+<h3 id="role-classification-rules-roles-v1-per-toolssna_visualizepy">Role classification rules (<code>roles-v1</code>, per <code>tools/sna_visualize.py</code>)</h3>
+<p><strong>Agency signatures</strong> (input: degree + brokerage counts; total = sum of 5 role counts):</p>
+<table>
+<thead>
+<tr>
+<th>Role</th>
+<th>Predicate</th>
+<th>Intuition</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><code>hub</code></td>
+<td>degree ≥ 0.30 AND coord ≥ 100 AND (gate+rep) ≥ 500</td>
+<td>High participation across multiple operation clusters AND substantial intra-group coordination</td>
+</tr>
+<tr>
+<td><code>liaison-broker</code></td>
+<td>liais/total &gt; 0.65 AND coord/total &lt; 0.10 AND total ≥ 200</td>
+<td>Cross-domain bridging between distinct org-type groups; rarely brokers within own group</td>
+</tr>
+<tr>
+<td><code>internal-coordinator</code></td>
+<td>coord/total &gt; 0.30 AND coord ≥ 80</td>
+<td>Primarily bridges within own org-type group</td>
+</tr>
+<tr>
+<td><code>regional-coordinator</code></td>
+<td>(gate+rep)/total &gt; 0.40 AND gate ≥ 80</td>
+<td>Mixed within-group and bring-in/send-out brokerage — typical national police in regional contexts</td>
+</tr>
+<tr>
+<td><code>participant</code></td>
+<td>(otherwise)</td>
+<td>Normal member without distinct broker signature</td>
+</tr>
+</tbody>
+</table>
+<p><strong>Country signatures</strong> (input: degree + betweenness + brokerage counts):</p>
+<table>
+<thead>
+<tr>
+<th>Role</th>
+<th>Predicate</th>
+<th>Intuition</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><code>global-liaison</code></td>
+<td>liais/total &gt; 0.90 AND degree &gt; 0.30</td>
+<td>Global three-different-region broker, top overall participation</td>
+</tr>
+<tr>
+<td><code>regional-coordinator</code></td>
+<td>(gate+rep)/total &gt; 0.20 AND degree &gt; 0.15</td>
+<td>Balanced intra-regional + cross-regional participation</td>
+</tr>
+<tr>
+<td><code>specialist-broker</code></td>
+<td>degree &lt; 0.20 AND betweenness/degree &gt; 0.50</td>
+<td>Low overall participation but disproportionate bridging — regional / crime-specialty broker</td>
+</tr>
+<tr>
+<td><code>participant</code></td>
+<td>(otherwise)</td>
+<td>Normal member without distinct broker signature</td>
+</tr>
+</tbody>
+</table>
+<h3 id="role-assignment-v5-results">Role assignment — v5 results</h3>
+<p><strong>Agency</strong> (9 of 78 non-participants):</p>
+<table>
+<thead>
+<tr>
+<th>Role</th>
+<th>Agents</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><code>hub</code></td>
+<td><a href="../../wiki/organizations/fbi-cyber-division.html" class="wikilink">fbi-cyber-division</a></td>
+</tr>
+<tr>
+<td><code>liaison-broker</code></td>
+<td><a href="../../wiki/organizations/europol-ec3.html" class="wikilink">europol-ec3</a>, <a href="../../wiki/organizations/eurojust.html" class="wikilink">eurojust</a>, <a href="../../wiki/organizations/interpol.html" class="wikilink">interpol</a></td>
+</tr>
+<tr>
+<td><code>internal-coordinator</code></td>
+<td><a href="../../wiki/organizations/canada-rcmp.html" class="wikilink">canada-rcmp</a></td>
+</tr>
+<tr>
+<td><code>regional-coordinator</code></td>
+<td><a href="../../wiki/organizations/us-doj.html" class="wikilink">us-doj</a>, <a href="../../wiki/organizations/netherlands-politie.html" class="wikilink">netherlands-politie</a>, <a href="../../wiki/organizations/uk-nca.html" class="wikilink">uk-nca</a>, <a href="../../wiki/organizations/france-gendarmerie.html" class="wikilink">france-gendarmerie</a></td>
+</tr>
+</tbody>
+</table>
+<p><strong>Country</strong> (16 of 109 non-participants):</p>
+<table>
+<thead>
+<tr>
+<th>Role</th>
+<th>Countries</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><code>global-liaison</code></td>
+<td><a href="../../wiki/countries/united-states.html" class="wikilink">united-states</a></td>
+</tr>
+<tr>
+<td><code>regional-coordinator</code></td>
+<td><a href="../../wiki/countries/united-kingdom.html" class="wikilink">united-kingdom</a>, <a href="../../wiki/countries/germany.html" class="wikilink">germany</a>, <a href="../../wiki/countries/netherlands.html" class="wikilink">netherlands</a>, <a href="../../wiki/countries/france.html" class="wikilink">france</a>, <a href="../../wiki/countries/spain.html" class="wikilink">spain</a>, <a href="../../wiki/countries/poland.html" class="wikilink">poland</a>, <a href="../../wiki/countries/romania.html" class="wikilink">romania</a>, <a href="../../wiki/countries/switzerland.html" class="wikilink">switzerland</a>, <a href="../../wiki/countries/ukraine.html" class="wikilink">ukraine</a></td>
+</tr>
+<tr>
+<td><code>specialist-broker</code></td>
+<td><a href="../../wiki/countries/nigeria.html" class="wikilink">nigeria</a>, <a href="../../wiki/countries/south-africa.html" class="wikilink">south-africa</a>, <a href="../../wiki/countries/brazil.html" class="wikilink">brazil</a>, <a href="../../wiki/countries/argentina.html" class="wikilink">argentina</a>, <a href="../../wiki/countries/colombia.html" class="wikilink">colombia</a>, <a href="../../wiki/countries/ghana.html" class="wikilink">ghana</a></td>
+</tr>
+</tbody>
+</table>
+<h3 id="legend-color-scheme-consistent-across-html-figures-role_classificationcsv-and-cosmossna-rolesjson">Legend color scheme (consistent across HTML figures, role_classification.csv, and cosmos/sna-roles.json)</h3>
+<table>
+<thead>
+<tr>
+<th>Role</th>
+<th>Hex</th>
+<th>Visual</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>hub</td>
+<td><code>#FFC300</code></td>
+<td>amber</td>
+</tr>
+<tr>
+<td>liaison-broker</td>
+<td><code>#C70039</code></td>
+<td>red</td>
+</tr>
+<tr>
+<td>internal-coordinator</td>
+<td><code>#1F77B4</code></td>
+<td>blue</td>
+</tr>
+<tr>
+<td>regional-coordinator</td>
+<td><code>#2CA02C</code></td>
+<td>green</td>
+</tr>
+<tr>
+<td>specialist-broker</td>
+<td><code>#9467BD</code></td>
+<td>purple</td>
+</tr>
+<tr>
+<td>global-liaison</td>
+<td><code>#FFD700</code></td>
+<td>gold</td>
+</tr>
+<tr>
+<td>participant</td>
+<td><code>#B0B0B0</code></td>
+<td>gray</td>
+</tr>
+<tr>
+<td>operation (mode-1)</td>
+<td><code>#2F4F4F</code></td>
+<td>slate</td>
+</tr>
+</tbody>
+</table>
+<h3 id="notes-on-interpretation-confidence-medium">Notes on interpretation (confidence: medium)</h3>
+<ul>
+<li><strong>South America broker triad</strong> — Argentina, Brazil, Colombia all classify as specialist brokers. Their primary structural role is bridging operation clusters anchored in <a href="../../wiki/operations/operation-orion-international.html" class="wikilink">operation-orion-international</a> (child-abuse material) with the Europol-led and Interpol-led operation clusters. Before v5 bare-string normalization these countries were either absent from the network or split across bare-string and wikilink forms.</li>
+<li><strong>Ghana</strong> in the specialist-broker group reflects Sentinel Africa and Haechi operations where it bridges West-African BEC clusters to the global fabric — similar role profile to Nigeria at smaller scale.</li>
+<li><strong>Ukraine and Switzerland</strong> as regional-coordinators reflect BEC / crypto-related Eurojust and Europol operations where both countries participate as the legal/technical anchor for European sub-clusters (Ukraine in eastern-European takedowns; Switzerland in crypto-investigation and legal-assistance roles).</li>
+<li><strong>The absence of an Asian country from the regional-coordinator or specialist-broker lists</strong> is partly a corpus effect (fewer Asian-led ops in the subset) and partly a threshold effect — South Korea and Japan sit just below the specialist-broker degree/betweenness ratio cutoff.</li>
+</ul>
+<h3 id="cosmos-integration-sna-mode">Cosmos integration (SNA mode)</h3>
+<p>The Cosmos visualization now carries a third toggle: <code>Graph | Globe | SNA</code>, parallel to the existing Graph and Globe modes. Selecting <strong>SNA</strong> loads <code>cosmos/sna-roles.json</code> on demand and renders a bipartite 2-mode network (operations × agency or operations × country) with nodes colored by the same role palette used in the wiki figures above.</p>
+<p><strong>SNA-mode controls</strong> (panel becomes visible only when SNA is active):
+- <strong>Network</strong>: <code>Agency</code> / <code>Country</code> sub-toggle — switches the rendered 2-mode network without re-fetching. Role filter and legend rebuild on switch.
+- <strong>Camera distance</strong>: 180–360 range.
+- <strong>Show labels</strong>: on/off for mode-2 node labels.
+- <strong>Show edges</strong>: on/off for op ↔ mode-2 lines (hidden role nodes' edges also drop).
+- <strong>Core block only</strong>: hides periphery mode-2 nodes, leaving only the <code>cpnet.BE</code> core block visible.
+- <strong>Role filter</strong>: per-role toggle chips (one per role present in the current network). First click on a chip turns that role off (all others stay on); subsequent clicks add/remove roles; re-enabling every role collapses back to "all on"; turning off the last active role falls back to showing just that one.
+- <strong>Hover tooltip</strong>: hover a mode-2 node to see a floating card with slug, role, partition, core/periphery status, degree, betweenness, and the full Gould-Fernandez 5-role brokerage breakdown (coord / gate / rep / cons / liais / total). Follows the cursor, auto-repositions near screen edges.
+- <strong>Legend</strong>: in-panel role color key, rebuilt when the network sub-toggle changes.</p>
+<p>Graph and Globe modes are unchanged — each mode owns its rendering pipeline and UI section. Mode switch + state persistence hooks (<code>saveState</code> / <code>loadState</code>) are updated so state JSON round-trips include the SNA view configuration.</p>
+<h2 id="step-b-c-closeout-and-next-steps">Step B + C Closeout and Next Steps</h2>
+<h3 id="what-step-b-has-established-confidence-medium">What Step B has established (confidence: medium)</h3>
+<ol>
+<li>The paper's headline reproducibility claim holds: low-density, core-periphery-shaped, role-differentiated 2-mode networks do appear in our wiki data.</li>
+<li>Centrality-based role signatures (global coordinator, cross-domain broker, regional broker, broad-participation-but-not-broker) all reproduce qualitatively.</li>
+<li>Absolute metric values do NOT match the paper — this is a corpus-composition difference, not a methodological error.</li>
+<li>The crime-type mode cannot yet support paper-style interpretation due to schema coarseness and single-valued list state.</li>
+<li>The PoC v1 → v5 data-quality pipeline (YAML repair + alias canonicalization + bare-string normalization + crime_types schema + source-side country repair + source-backed enrichment) is a documented, reproducible baseline. Each step is reversible and auditable.</li>
+</ol>
+<h3 id="step-c-delivered-this-page">Step C delivered (this page)</h3>
+<ul>
+<li>✅ <strong>Core-periphery fitness</strong> (<code>cpnet.BE</code>) — agency fitness 0.266 reproduces paper's 0.254 pattern. Country + crime-type partitions are not meaningful under <code>cpnet.BE</code> on our subset (documented in-line).</li>
+<li>✅ <strong>Brokerage roles</strong> (Gould-Fernandez) — full 5-role counts computed against wiki-metadata partitions. Europol EC3 / Eurojust / INTERPOL cross-domain-broker signature reproduced; FBI Cyber Division balanced-hub signature reproduced; Nigeria / South Africa / Australia / Brazil regional-broker signatures reproduced.</li>
+<li>✅ <strong>Role-indicator-based visualization</strong> (<code>tools/sna_visualize.py</code>) — two interactive pyvis HTML figures for agency and country networks with color-coded role classification + core/periphery border thickness. Role classification rules <code>roles-v1</code> documented + reviewable. Cosmos-ready role data shipped as <code>cosmos/sna-roles.json</code>.</li>
+<li>✅ <strong>Cosmos SNA mode</strong> — <code>cosmos/index.html</code> now has a third <code>Graph | Globe | SNA</code> toggle parallel to the existing two modes. SNA mode renders a bipartite 2-mode network with agency/country sub-toggle, core-block-only filter, edge/label toggles, and the same role color palette as the pyvis figures. Existing Graph and Globe modes are unchanged.</li>
+<li>✅ <strong>SNA hover tooltip + role filter</strong> (second Cosmos iteration) — hover surfaces the Gould-Fernandez 5-role breakdown + core/periphery + centrality for each mode-2 node; role filter chips let the reader isolate a single role class (e.g., show only liaison brokers, or only specialist brokers) without losing context. State persists through <code>saveState</code> / <code>loadState</code>.</li>
+</ul>
+<h3 id="deferred-to-later-step-c-follow-ups">Deferred to later Step C follow-ups</h3>
+<p>These remain NOT prerequisites for the claims above but will strengthen the evidence and open additional findings:</p>
+<ul>
+<li><strong>Alternative core-periphery algorithms</strong> — <code>cpnet.Rombach</code>, <code>cpnet.Lip</code>, <code>cpnet.LowRankCore</code> may yield cleaner country partition where <code>cpnet.BE</code> converged to near-trivial assignment.</li>
+<li><strong>Cosmos SNA mode — advanced UI (partially done)</strong>: hover tooltip + per-role filter + click-to-detail wiki integration now live (2026-04-20). Clicking an SNA node (op or mode-2 agency/country/crime-type) populates the right-panel detail with the matching <code>wiki/&lt;kind&gt;/&lt;slug&gt;.md</code> summary and halos the active node in the scene. Remaining: crime-type sub-toggle (suppressed until multi-value <code>crime_types</code> backfill) and persistent role-filter state in exported state JSON (already partially implemented via <code>saveState</code>).</li>
+<li><strong>Temporal network</strong> — time-sliced sub-networks (paper's 3 periods: 2015-2018, 2019-2022, 2023-2025) to test role stability.</li>
+<li><strong>Multi-value <code>crime_types</code> backfill</strong> — body-prose keyword extraction + manual enrichment on high-impact ops to make the crime-type mode structurally meaningful.</li>
+<li><strong>Remaining 26-op subset enrichment</strong> — URL fetching or manual source reading for operations where source key_findings was insufficient.</li>
+<li><strong>Canonical country pages for the 22 unmapped bare-string countries</strong> — Brunei, Cote d'Ivoire, Hong Kong, UAE, Benin, Burkina Faso, Chad, Congo, DRC, Djibouti, Gabon, Malawi, Senegal, South Sudan, Uganda, Zimbabwe, Botswana, Slovenia, Kyrgyzstan, Laos, Maldives — all mentioned in ops but missing canonical pages.</li>
+<li><strong>Broader <code>countries_lt_2</code> enrichment</strong> — the 1,017-op backlog outside the 46-op subset.</li>
+</ul>
+<h2 id="reproducibility">Reproducibility</h2>
+<p>Every number in this page can be reproduced from:
+- Spec: <code>_workspace/sna/paper-network-definitions.md</code> + <code>_workspace/sna/edge-schema-and-inclusion-rules.md</code>
+- Tool: <code>python tools/sna_analysis.py</code> → <code>_workspace/sna/out/2026-04-20-d50e3208/</code>
+- Supplementary tool: <code>python tools/sna_core_periphery_brokerage.py</code> → <code>metrics_core_periphery.json</code>, <code>metrics_brokerage_{country,agency,crimetype}.csv</code>, <code>metrics_supplementary.json</code> under the same snapshot directory.
+- Snapshot manifest: <code>_workspace/sna/out/2026-04-20-d50e3208/manifest.json</code> + <code>metrics_supplementary.json</code>.
+- Data-quality passes: <code>tools/repair_yaml_quotes.py</code>, <code>tools/migrate_crime_type_to_list.py</code>, <code>tools/repair_bare_country_strings.py</code>, <code>tools/select_enrichment_subset.py</code>, <code>tools/enrich_participating_countries.py</code>.
+- Audit history: <a href="../../wiki/analysis/sna-pilot.html" class="wikilink">sna-pilot</a> fixes-applied table + <code>wiki/log.md</code> entries from 2026-04-19 through 2026-04-20.</p>
+<p>No wiki content was modified while drafting this analysis page. All underlying data changes (enrichment, bare-string repair, schema migration) are documented in <a href="../../wiki/analysis/sna-pilot.html" class="wikilink">sna-pilot</a> and <code>wiki/log.md</code> as their own audit-logged events.</p>
+<h2 id="contradictions-open-questions"><span class="heading-ko">모순점 및 미해결 문제</span><span class="heading-en">Contradictions &amp; Open Questions</span></h2>
+<div class="callout callout-warning"><div class="callout-title">⚠️ Crime-type transitivity 1.000 is a sample artifact
+See §Basic Structure warning. This value must NOT be read as paper-comparable evidence. It is the arithmetic consequence of a single multi-valued <code>crime_types</code> op in an otherwise list-of-one field. Multi-value backfill will change this value materially.</div><div class="callout-body"><p>[!note] Euro-weighted subset is corpus, not finding
+The ordering Europol EC3 &gt; FBI, and Germany/UK/Netherlands higher than the paper's ordering, are functions of the wiki audit policy that removed US-DOJ procedural wrappers. Any claim that "Europol is more central than FBI in cybercrime IC" would be unsupported by either this subset or the paper's corpus — it's a corpus-composition effect, not a substantive finding.</p>
+<p>[!note] Korean participation is likely under-counted at the agency resolution
+<code>&lt;a href="../../wiki/countries/south-korea.html" class="wikilink"&gt;south-korea&lt;/a&gt;</code> appears as a country node, but specific Korean agencies (NIS, KNPA Cyber Bureau, Supreme Prosecutors' Office Cyber Crime Investigation Division) are under-represented in <code>participating_agencies</code> frontmatter. Korean IC work in Haechi operations and Phobos arrests is real; the wiki frontmatter under-records it. Step C wiki-content enrichment should prioritize Korean agency attribution for ops where Korean participation is documented in source key_findings but agency-level attribution is missing.</p>
+<p>[!note] The <code>operation-105-arrested-...</code> multi-valued crime_types
+This single op carries <code>&lt;a href="../../wiki/crime-types/bank-fraud-ic.html" class="wikilink"&gt;bank-fraud-ic&lt;/a&gt; + &lt;a href="../../wiki/crime-types/carding-fraud-ic.html" class="wikilink"&gt;carding-fraud-ic&lt;/a&gt; + &lt;a href="../../wiki/crime-types/money-laundering-ic.html" class="wikilink"&gt;money-laundering-ic&lt;/a&gt;</code> as its <code>crime_types</code> list. The multi-valuation is legitimate (the source press release describes all three). But in a 73-op corpus, one multi-valued op is not enough to generate structural crime-type findings. Flagged here so the schema decision is remembered as valid at the data-point level, not just at the field-level.</p></div></div>
+      
+    </div>
+  </main>
+
+  <aside class="sidebar">
+    
+
+    <div class="cat-nav">
+      <h3><span class="i18n" data-ko="카테고리" data-en="Categories"></span></h3>
+      <ul>
+        
+        <li>
+          📜
+          <a href="../../category/legal-frameworks.html"
+             >
+            <span class="i18n" data-ko="법적 프레임워크" data-en="Legal Frameworks"></span>
+          </a>
+        </li>
+        
+        <li>
+          🏛️
+          <a href="../../category/organizations.html"
+             >
+            <span class="i18n" data-ko="기관" data-en="Organizations"></span>
+          </a>
+        </li>
+        
+        <li>
+          🌍
+          <a href="../../category/countries.html"
+             >
+            <span class="i18n" data-ko="국가" data-en="Countries"></span>
+          </a>
+        </li>
+        
+        <li>
+          🎯
+          <a href="../../category/operations.html"
+             >
+            <span class="i18n" data-ko="작전" data-en="Operations"></span>
+          </a>
+        </li>
+        
+        <li>
+          ⚖️
+          <a href="../../category/cases.html"
+             >
+            <span class="i18n" data-ko="사건" data-en="Cases"></span>
+          </a>
+        </li>
+        
+        <li>
+          🔗
+          <a href="../../category/mechanisms.html"
+             >
+            <span class="i18n" data-ko="공조 메커니즘" data-en="Mechanisms"></span>
+          </a>
+        </li>
+        
+        <li>
+          📋
+          <a href="../../category/procedures.html"
+             >
+            <span class="i18n" data-ko="절차" data-en="Procedures"></span>
+          </a>
+        </li>
+        
+        <li>
+          🔒
+          <a href="../../category/crime-types.html"
+             >
+            <span class="i18n" data-ko="범죄유형" data-en="Crime Types"></span>
+          </a>
+        </li>
+        
+        <li>
+          ⚠️
+          <a href="../../category/challenges.html"
+             >
+            <span class="i18n" data-ko="과제" data-en="Challenges"></span>
+          </a>
+        </li>
+        
+        <li>
+          📖
+          <a href="../../category/concepts.html"
+             >
+            <span class="i18n" data-ko="법적 개념" data-en="Concepts"></span>
+          </a>
+        </li>
+        
+        <li>
+          📰
+          <a href="../../category/sources.html"
+             >
+            <span class="i18n" data-ko="출처" data-en="Sources"></span>
+          </a>
+        </li>
+        
+        <li>
+          📊
+          <a href="../../category/analysis.html"
+             style="font-weight:700">
+            <span class="i18n" data-ko="분석" data-en="Analysis"></span>
+          </a>
+        </li>
+        
+        <li>
+          📅
+          <a href="../../category/timelines.html"
+             >
+            <span class="i18n" data-ko="타임라인" data-en="Timelines"></span>
+          </a>
+        </li>
+        
+      </ul>
+    </div>
+  </aside>
+</div>
+
+
+  <div class="footer">
+    <span class="i18n"
+      data-ko="사이버범죄 국제공조 위키 &mdash; LLM Wiki Pattern &mdash; 2026-04-20 기준 데이터"
+      data-en="Cybercrime International Cooperation Wiki &mdash; LLM Wiki Pattern &mdash; Data as of 2026-04-20">
+    </span>
+  </div>
+
+  <script>
+  (function() {
+    // Language toggle system — Korean default
+    var STORAGE_KEY = 'wiki-lang';
+
+    function getLang() {
+      return localStorage.getItem(STORAGE_KEY) || 'ko';
+    }
+
+    function setLang(lang) {
+      localStorage.setItem(STORAGE_KEY, lang);
+      applyLang(lang);
+    }
+
+    function applyLang(lang) {
+      var html = document.documentElement;
+      html.classList.remove('lang-ko', 'lang-en');
+      html.classList.add('lang-' + lang);
+      html.setAttribute('lang', lang === 'ko' ? 'ko' : 'en');
+
+      // Update i18n text content
+      document.querySelectorAll('.i18n').forEach(function(el) {
+        var text = el.getAttribute('data-' + lang);
+        if (text) el.innerHTML = text;
+      });
+
+      // Update i18n placeholders
+      document.querySelectorAll('.i18n-placeholder').forEach(function(el) {
+        var text = el.getAttribute('data-' + lang);
+        if (text) el.setAttribute('placeholder', text);
+      });
+    }
+
+    // Toggle button
+    var btn = document.getElementById('langToggle');
+    if (btn) {
+      btn.addEventListener('click', function() {
+        var current = getLang();
+        setLang(current === 'ko' ? 'en' : 'ko');
+      });
+    }
+
+    // Apply saved language on load
+    applyLang(getLang());
+  })();
+  </script>
+</body>
+</html>

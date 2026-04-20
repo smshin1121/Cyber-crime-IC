@@ -32,7 +32,7 @@
         </div>
         <a href="../cosmos/index.html" class="nav-cosmos"><span class="i18n" data-ko="&#127760; Cosmos" data-en="&#127760; Cosmos"></span></a>
       </div>
-      <form class="nav-search" action="../search" method="get">
+      <form class="nav-search" action="../search.html" method="get">
         <input type="text" name="q" class="i18n-placeholder" data-ko="위키 검색..." data-en="Search wiki..." value="">
         <button type="submit"><span class="i18n" data-ko="검색" data-en="Search"></span></button>
       </form>
@@ -566,6 +566,168 @@
 <li>Country expansion is most useful when it strengthens synthesis, cross-jurisdiction comparison, and existing operation/case pages rather than creating thin standalone entries.</li>
 <li>The repo now has an explicit registry-level rule for shifting from page-count growth toward interpretation, connectedness, and trusted multi-country sourcing.</li>
 </ul>
+<h2 id="2026-04-20-analysis-filed-sna-poc-2-mode-network-reproduction-of-paperpdf">[2026-04-20] analysis-filed | SNA PoC — 2-mode network reproduction of paper.pdf</h2>
+<ul>
+<li>Analysis page: <a href="../wiki/analysis/sna-pilot.html" class="wikilink">SNA Pilot</a></li>
+<li>Tool: <code>tools/sna_analysis.py</code> (networkx 3.6.1 + pandas 3.0.2 + pyyaml 6.0.2)</li>
+<li>Spec: <code>_workspace/sna/paper-network-definitions.md</code>, <code>_workspace/sna/edge-schema-and-inclusion-rules.md</code></li>
+<li>Snapshot: <code>2026-04-19-d50e3208</code> under <code>_workspace/sna/out/</code></li>
+<li>Pages created: <a href="../wiki/analysis/sna-pilot.html" class="wikilink">sna-pilot</a></li>
+<li>Pages updated: <code>_workspace/sna/audit-denylist.txt</code> (new, 14 slugs from audit Batches 1-3)</li>
+<li>Key findings:</li>
+<li>61 operations pass all inclusion rules out of 1,136 scanned (1,023 rejected by <code>participating_countries ≥ 2</code> hard filter; 13 lost to YAML URL-quoting parse errors on canonical ops incl. alphabay / silk-road / trickbot / dridex).</li>
+<li>Paper-style structural patterns reappear at low confidence: US leads country degree+betweenness (0.607 / 0.175), core-periphery skew visible, agencies-with-breadth vs agencies-with-brokerage split visible (INTERPOL low-deg high-btw).</li>
+<li>Europol EC3 dominates agency-mode centrality (degree 0.689, betweenness 0.446) in our subset — higher than paper's Europol (0.311 / 0.132). Likely a corpus-composition artifact of the audit filter removing US-DOJ procedural wrappers, not a substantive divergence.</li>
+<li>Crime-type network structurally not comparable (single-valued <code>crime_type</code> schema → star topology → transitivity 0, community detection degenerate). Step B must resolve.</li>
+<li>Alias-resolution deferral splits FBI into <code>fbi</code> + <code>fbi-cyber-division</code>, understating FBI centrality.</li>
+<li>Step B backlog surfaced: (1) fix YAML URL-quoting on 13 canonical ops, (2) alias canonicalization pass in <code>sna_analysis.py</code>, (3) crime-type schema decision (list-valued vs body-derived), (4) <code>participating_countries</code> enrichment on genuinely-multi-country ops with empty field, (5) add cpnet core-periphery + Gould-Fernandez brokerage + visualizations after data cleanup.</li>
+</ul>
+<h2 id="2026-04-20-fixsna-rerun-yaml-url-quoting-repair-sna-alias-canonicalization-poc-v2">[2026-04-20] fix+sna-rerun | YAML URL-quoting repair + SNA alias canonicalization (PoC v2)</h2>
+<ul>
+<li>Tools added: <code>tools/repair_yaml_quotes.py</code> (frontmatter repair, idempotent, dry-run supported), <code>_workspace/sna/node-alias-map.yaml</code> (3 agency merge mappings)</li>
+<li>Tool updated: <code>tools/sna_analysis.py</code> — loads alias map, applies <code>canonicalize_record</code> before graph build, records <code>alias_canonicalization</code> block in manifest, <code>rules_version</code> bumped <code>poc-v1 → poc-v2</code></li>
+<li>Pages updated: <a href="../wiki/analysis/sna-pilot.html" class="wikilink">sna-pilot</a> (all numeric tables + key judgments + next steps refreshed against v2 snapshot)</li>
+<li>Files modified by YAML repair (13 canonical ops, frontmatter only, body untouched): alphabay-takedown, bidencash-takedown, carding-action-2020, dridex-operations, myanmar-kokang-scam-compound-crackdown, operation-haechi-iii, operation-haechi-vi, operation-jackal-iii, operation-onymous, operation-power-off, operation-rewired, silk-road-takedown, trickbot-operations — total 48 line-level fixes (26 Pattern A inner-quote + 22 Pattern B URL-in-markdown-link)</li>
+<li>Alias merges applied: fbi→fbi-cyber-division (9 slot-merges), usdoj→us-doj (5), interpol-igci→interpol (7). Direction chosen by explicit "Legacy compatibility page" markers in the losing pages' <code>mandate:</code> fields.</li>
+<li>Snapshot v2 outcome: included 61→72 (+11), parse_error 13→0, agencies 81→78 (−3 aliased), edges country 433→566 / agency 314→358 / crime 61→72.</li>
+<li>Structural outcome: country network now fully connected (fragmentation 0.269→<strong>0.000</strong>, matches paper); FBI consolidated to rank 2 agency (degree 0.569, was split 0.393 + 0.148); INTERPOL now shows the paper's low-deg / high-btw broker signature (0.194 / 0.192).</li>
+<li>Remaining Step B backlog: crime-type schema decision, <code>countries_lt_2</code> enrichment on genuinely-multi-country ops, bare-string agency normalization, cpnet + Gould-Fernandez + viz.</li>
+</ul>
+<h2 id="2026-04-20-fixsna-rerun-bare-string-normalization-crime_types-list-schema-poc-v3-v4">[2026-04-20] fix+sna-rerun | Bare-string normalization + crime_types list schema (PoC v3 → v4)</h2>
+<ul>
+<li>Tools added: <code>tools/scan_bare_strings.py</code> (diagnostic scanner), <code>tools/migrate_crime_type_to_list.py</code> (one-shot, idempotent schema migration)</li>
+<li>Tool updated: <code>tools/sna_analysis.py</code> — <code>extract_wikilinks</code> slugifies non-wikilink bare strings; <code>OpRecord</code> field <code>crime_type</code> → <code>crime_types: list[str]</code>; canonical list read first, legacy single field read only as fallback. <code>rules_version</code> bumped <code>poc-v3 → poc-v4</code>.</li>
+<li>Schema change in <code>CLAUDE.md</code> — Operation frontmatter template: <code>crime_types: []</code> (canonical list) added as primary field; <code>crime_type: ""</code> marked DEPRECATED / read-only fallback.</li>
+<li>Pages updated: <a href="../wiki/analysis/sna-pilot.html" class="wikilink">sna-pilot</a> (confidence raised to medium; all v1→v2→v3→v4 progression table complete).</li>
+<li>Files modified by schema migration: 4 operation files back-filled <code>crime_types</code> from legacy single value (<code>andromeda-botnet-takedown</code>, <code>carbanak-cobalt-takedown</code>, <code>operation-avalanche</code>, <code>operation-us-v-parsarad-nemesis</code>). 1,124 ops already had the list form from prior data work; 7 have no crime type data yet.</li>
+<li>Bare-string normalization outcome: 88 bare-string values slugified. Country node count 133 → 109 (24 merged into canonical pages like <code>france</code>, <code>nigeria</code>, <code>spain</code>). Nigeria broker signature now visible (deg 0.125 / btw 0.108 — close match to paper's 0.140 / 0.111). South Africa shows a parallel regional-broker pattern (0.069 / 0.066).</li>
+<li>Crime-types schema outcome: all 72 included ops read from canonical <code>crime_types</code> list (0 legacy-fallback reads). Current network is still list-of-one structurally — multi-value backfill is Step B work.</li>
+<li>Step B open items now: (1) multi-value <code>crime_types</code> backfill (body-prose + related_operations), (2) <code>countries_lt_2</code> enrichment on genuinely-multi-country ops, (3) source-side fix for 33 country bare-strings that map to existing canonical pages (listed in <code>_workspace/sna/bare-strings-scan.csv</code>), (4) cpnet core-periphery + Gould-Fernandez brokerage + visualizations, (5) <code>wiki/analysis/sna-structure-and-roles.md</code> full comparison.</li>
+</ul>
+<h2 id="2026-04-20-fixenrichsna-rerun-source-side-country-bare-string-repair-source-backed-subset-enrichment-poc-v4-v5">[2026-04-20] fix+enrich+sna-rerun | Source-side country bare-string repair + source-backed subset enrichment (PoC v4 → v5)</h2>
+<ul>
+<li>Tools added: <code>tools/repair_bare_country_strings.py</code> (idempotent, dry-run), <code>tools/select_enrichment_subset.py</code> (subset rule codified), <code>tools/enrich_participating_countries.py</code> (proposal + apply, source-backed only)</li>
+<li>Pages updated: <a href="../wiki/analysis/sna-pilot.html" class="wikilink">sna-pilot</a> (v5 tables and status), 7 ops frontmatter (bare-string source fix), 20 ops frontmatter (source-backed country enrichment)</li>
+<li><code>tools/repair_bare_country_strings.py</code> outcome: 44 line-level fixes across 7 ops (<code>dridex-operations</code>, <code>franco-israeli-ceo-fraud</code>, <code>korea-china-voice-phishing-qingdao</code>, <code>operation-haechi-iii</code>, <code>operation-haechi-iv</code>, <code>operation-jackal</code>, <code>operation-sentinel-africa</code>). <code>operation-jackal</code> alone had 19 bare country strings rewritten. SNA edge counts unchanged (script-side already normalized); source cleanup benefits build / lint / reconcile / future ingest.</li>
+<li>Subset selection (A): 46 ops with Eurojust/Europol/INTERPOL-anchored source AND <code>participating_countries</code> count ≤ 1. Manifest at <code>_workspace/sna/enrichment-subset-2026-04-19.json</code>. Locked subset rule: source wikilink slug contains <code>eurojust|europol|interpol</code>, OR URL on those domains, OR <code>lead_agency</code>/<code>coordinating_body</code> in <code>{eurojust, europol-ec3, europol, interpol, interpol-igci}</code>.</li>
+<li>Enrichment (A): 46 subset → <strong>20 applied</strong>. Source-backed country enrichment only; no inferred countries added. Adjective-only matches excluded by design. Placeholder values <code>{international, global, worldwide, various}</code> treated as empty. Manifest at <code>_workspace/sna/enrichment-proposals-2026-04-20.json</code> records <code>snapshot_date</code>, <code>subset_rule</code>, <code>enriched_ops_count</code>, <code>applied_detail</code> per user rule. Remaining 26 subset ops break down: 11 no-sources, 11 no-extract, 2 no-key-findings, 2 empty-delta.</li>
+<li>Enrichment adds 17 unique canonical country slugs across 20 ops (argentina, austria, belgium, canada, denmark, france, greece, hong-kong, ireland, italy, romania, south-korea, spain, sweden, thailand, united-kingdom, united-states).</li>
+<li>SNA v5 outcome: included 72 → 73 (+1 op passed country gate after enrichment); op-country edges 566 → 571 (+5); op-agency 358 → 360 (+2, agency set unchanged); op-crime 72 → 75 (+3, crime-type count 14 → 15 with one multi-valued op accidentally producing crime-type transitivity 1.0 — artifact of list schema, not a meaningful pattern yet).</li>
+<li>Step B open items: (1) multi-value <code>crime_types</code> backfill, (2) enrichment of remaining 26 subset ops (URL fetch / raw-file reading required), (3) country page creation for 22 bare-string countries without canonical pages (Brunei, Cote d'Ivoire, Hong Kong, UAE, etc.), (4) broader <code>countries_lt_2</code> enrichment on the 1,017-op backlog, (5) cpnet + Gould-Fernandez + viz, (6) <code>wiki/analysis/sna-structure-and-roles.md</code> main Step B page.</li>
+</ul>
+<h2 id="2026-04-20-analysis-filed-sna-step-b-main-analysis-structure-and-roles">[2026-04-20] analysis-filed | SNA Step B main analysis — structure and roles</h2>
+<ul>
+<li>Pages created: <a href="../wiki/analysis/sna-structure-and-roles.html" class="wikilink">sna-structure-and-roles</a> (Step B main body — comparative-study, confidence medium, ~540 lines)</li>
+<li>Basis: PoC v5 snapshot <code>2026-04-20-d50e3208</code> (73 ops, 109 countries, 78 agencies, 15 crime types)</li>
+<li>Structure: Summary → Corpus and methodology → Basic structure (cohesion vs paper Table 2) → Structural positions (centrality vs paper Table 3) → Connectedness + communities → Role differentiation (participation vs connection) → Korean perspective → Limitations (subset / coarse crime schema / residual enrichment) → Corpus difference/bias → Step C supplementary roadmap → Reproducibility → Contradictions &amp; open questions</li>
+<li>Reproduced qualitative findings (confidence medium): US global liaison (top-deg + top-btw both studies); FBI Cyber Division rank 2 agency at 0.562/0.292 (paper's FBI 0.494/0.371); INTERPOL low-deg/high-btw cross-domain broker signature (ours 0.192/0.190 vs paper 0.268/0.135); Nigeria BEC-specialist regional broker (ours 0.123/0.107 vs paper 0.140/0.111); Europol EC3 rank 1 (corpus-composition artifact, not substantive divergence from paper).</li>
+<li>Additional findings (Asia/LatAm/Africa): South Africa regional broker (0.068/0.066), Brazil regional broker (0.041/0.043 through Operation Orion), Japan NPA Asia broker (0.082/0.029).</li>
+<li>Strong caveats flagged with callouts: crime-type transitivity 1.000 is sample artifact from single multi-valued op, not structural finding; Euro-weighted subset ordering Europol&gt;FBI is corpus-composition, not substantive; Korean agency attribution under-represented at frontmatter level.</li>
+<li>Step C deferred: cpnet Borgatti-Everett fitness, Gould-Fernandez brokerage, network visualization, temporal slicing, multi-value crime_types backfill, remaining 26 subset enrichment, 22 canonical country page creation, 1,017-op broader countries_lt_2 enrichment.</li>
+</ul>
+<h2 id="2026-04-20-analysis-extended-step-c-supplementary-core-periphery-gould-fernandez-brokerage">[2026-04-20] analysis-extended | Step C supplementary — core-periphery + Gould-Fernandez brokerage</h2>
+<ul>
+<li>Tools added: <code>tools/sna_core_periphery_brokerage.py</code> (cpnet.BE on mode-2 projection, Gould-Fernandez 5-role on mode-2 projection with wiki-metadata partitions).</li>
+<li>Dependency added: <code>cpnet==0.0.21</code> installed via pip (pulls in <code>simanneal</code>, <code>numba</code>, <code>llvmlite</code>, <code>plotly</code>, <code>seaborn</code>).</li>
+<li>Outputs: <code>_workspace/sna/out/2026-04-20-d50e3208/metrics_core_periphery.json</code>, <code>metrics_brokerage_{agency,country,crimetype}.csv</code>, <code>metrics_supplementary.json</code>.</li>
+<li>Pages updated: <a href="../wiki/analysis/sna-structure-and-roles.html" class="wikilink">sna-structure-and-roles</a> — added Supplementary §Core-Periphery and §Brokerage sections (+104 lines, total 473); refreshed scope + key_judgments in frontmatter.</li>
+<li>Core-periphery outcome: agency fitness 0.266 (paper 0.254 — close match). Country fitness 0.008 is <code>cpnet.BE</code> near-degenerate on dense connected graph (documented as tool-difference vs paper's UCINET BE). Crime-type fitness 0.000 schema-artifact (documented). Agency core block (32 nodes) includes paper's DOJ + FBI + Europol tight core plus broader EU national units — partition granularity differs.</li>
+<li>Brokerage outcome: paper's role signatures reproduce qualitatively — Europol EC3 pure cross-domain broker (Liais 2,178 / 96%); FBI Cyber Division balanced hub (all 5 roles, Gate+Rep 492+492 dominant); Eurojust Liaison-dominant (Liais 710 / 80%); INTERPOL Liaison specialist (254 / 69%) matching paper's international-org pattern; Netherlands-Politie and Canada-RCMP internal coordinators (Coord 120 each). Country-side: US 94% Liaison (global-liaison signature), Nigeria Gate+Rep 448 (BEC-specialist regional broker), South Africa / Australia / Brazil Liaison-dominant regional brokers.</li>
+<li>Strong caveats preserved: crime-type brokerage is all zeros (schema artifact), country cpnet BE partition is near-trivial (algorithm-specific), Step C role matches are qualitative not numeric.</li>
+<li>Visualization and temporal slicing remain in later Step C follow-ups, now designable against confirmed role indicators.</li>
+</ul>
+<h2 id="2026-04-20-analysis-extended-step-c-2-role-indicator-based-visualizations">[2026-04-20] analysis-extended | Step C-2 — role-indicator-based visualizations</h2>
+<ul>
+<li>Tools added: <code>tools/sna_visualize.py</code> — classifies every mode-2 node into <code>{hub, liaison-broker, internal-coordinator, regional-coordinator, specialist-broker, global-liaison, participant}</code> per <code>roles-v1</code> rules; renders pyvis HTML figures; exports consolidated role data for Cosmos.</li>
+<li>Dependency added: <code>pyvis==0.3.2</code> installed via pip.</li>
+<li>Files created:</li>
+<li><code>wiki/analysis/sna/agency-network.html</code> — 78 mode-2 + 73 op nodes, 360 edges, role-colored</li>
+<li><code>wiki/analysis/sna/country-network.html</code> — 109 mode-2 + 73 op nodes, 566 edges, role-colored</li>
+<li><code>cosmos/sna-roles.json</code> — 202-node role+centrality+brokerage manifest ready for future Cosmos UI integration (existing Cosmos view unchanged)</li>
+<li><code>_workspace/sna/out/2026-04-20-d50e3208/role_classification.csv</code> — full classification manifest (inputs + rule version)</li>
+<li>Pages updated: <a href="../wiki/analysis/sna-structure-and-roles.html" class="wikilink">sna-structure-and-roles</a> — added §Figures (147 lines, brings total to 547).</li>
+<li>Role classification results (Step B/C interpretations confirmed):</li>
+<li>Agency 9 non-participants: hub (1) FBI Cyber Division; liaison-broker (3) Europol EC3 / Eurojust / INTERPOL; internal-coordinator (1) Canada-RCMP; regional-coordinator (4) US-DOJ / Netherlands-Politie / UK-NCA / France-Gendarmerie.</li>
+<li>Country 16 non-participants: global-liaison (1) US; regional-coordinator (9) UK/Germany/Netherlands/France/Spain/Poland/Romania/Switzerland/Ukraine; specialist-broker (6) Nigeria/South-Africa/Brazil/Argentina/Colombia/Ghana.</li>
+<li>Crime-type (15 nodes): all <code>participant</code> — schema artifact (list-of-one topology produces no brokerage, already-known limitation).</li>
+<li>Refinements during this turn: agency liaison-broker rule tightened from <code>liais/total &gt; 0.70 AND coord/total &lt; 0.05</code> to <code>liais/total &gt; 0.65 AND coord/total &lt; 0.10 AND total ≥ 200</code> — captures INTERPOL (liais ratio 69%) while rejecting small-volume noise (germany-frankfurt-prosecutor total 88).</li>
+<li>Cosmos UI integration deferred to a follow-up turn (role filter / core-periphery highlight / broker badge). Data layer (<code>cosmos/sna-roles.json</code>) already shipped.</li>
+<li>Next candidates: Cosmos UI integration; cpnet alternative algorithms for country partition; multi-value crime_types backfill.</li>
+</ul>
+<h2 id="2026-04-20-cosmos-feature-sna-mode-added-as-third-toggle-parallel-to-graphglobe">[2026-04-20] cosmos-feature | SNA mode added as third toggle parallel to Graph/Globe</h2>
+<ul>
+<li><code>cosmos/index.html</code> + <code>docs/cosmos/index.html</code> updated (222 → 236 lines) — additive only, Graph and Globe modes unchanged.</li>
+<li>UI changes: third button in top-right mode segment (<code>Graph | Globe | SNA</code>); new SNA-only section in right panel with Agency/Country sub-toggle, camera distance, show labels / show edges / core-block-only checkboxes, role legend.</li>
+<li>JS changes: <code>S.sna</code> config + <code>S.snaData</code>; <code>loadSnaData()</code> (lazy fetch <code>./sna-roles.json</code> on first SNA mode entry); <code>renderSna()</code> (bipartite 2-mode sphere layout — inner sphere = operations, outer sphere = mode-2 nodes — role-colored, core-block emissive bump, degree-sized); <code>syncSnaControls()</code>; <code>buildSnaLegend()</code>; <code>updateViewModeUI()</code> extended; <code>rerender</code>/<code>render</code>/<code>wheel</code>/<code>saveState</code>/<code>loadState</code> extended for the sna case. <code>body.view-sna</code> CSS class auto-hides Graph + Globe only sections.</li>
+<li>Data layer: <code>tools/sna_visualize.py</code> reshaped <code>cosmos/sna-roles.json</code> export — now per-kind (<code>agency</code>, <code>country</code>, <code>crime_type</code>) with <code>nodes</code> / <code>operations</code> / <code>edges</code> lists. 78 agencies / 360 edges, 109 countries / 571 edges, 15 crime-types / 75 edges. Manifest written to <code>cosmos/sna-roles.json</code> AND synced to <code>docs/cosmos/sna-roles.json</code>.</li>
+<li>Verification: JS parses cleanly (headless <code>new Function()</code> check); all HTML IDs and JS refs match; no changes to existing data.json or Graph/Globe render paths.</li>
+<li><a href="../wiki/analysis/sna-structure-and-roles.html" class="wikilink">sna-structure-and-roles</a> updated — §Figures / Cosmos integration section rewritten from "deferred UI" to "SNA mode live"; Step C closeout checkbox added for Cosmos SNA mode; remaining Cosmos-UI follow-ups (broker badge, role filter, crime-type sub-toggle) deferred to the next supplementary milestone.</li>
+<li>Outstanding: multi-value <code>crime_types</code> backfill, cpnet alternative algorithms for country core-periphery, broader 1,017-op <code>countries_lt_2</code> enrichment.</li>
+</ul>
+<h2 id="2026-04-20-cosmos-feature-sna-mode-ui-hover-tooltip-role-filter">[2026-04-20] cosmos-feature | SNA mode UI — hover tooltip + role filter</h2>
+<ul>
+<li><code>cosmos/index.html</code> + <code>docs/cosmos/index.html</code> updated (236 → 243 lines). Additive only — Graph / Globe / SNA base render paths unchanged.</li>
+<li>New HTML: top-level <code>#snaTooltip</code> div (sna-only, position:fixed, pointer-events:none), <code>#snaRoleFilter</code> chip container inside the SNA section (between core-only checkbox and legend).</li>
+<li>New state: <code>S.sna.roleFilter = null | Set&lt;string&gt;</code>. <code>null</code> means all roles enabled. A Set means only listed roles render. Serialized as array in <code>saveState</code> / rehydrated to Set in <code>loadState</code>.</li>
+<li>New functions: <code>snaRolesPresent()</code> (derive sorted role set for current network), <code>buildSnaRoleFilter()</code> (renders clickable chips, toggles with sensible defaults — first click isolates clicked role's opposites, re-enabling all collapses back to null, emptying falls back to clicked-role-only), <code>hoverSna(ev)</code> (raycaster against MES, pops floating tooltip with slug + role + partition + core/periphery + degree + betweenness + full G-F 5-role brokerage counts), <code>hideSnaTooltip()</code>.</li>
+<li><code>renderSna()</code> applies <code>S.sna.roleFilter</code> before node placement; edges to filtered-out nodes also drop. <code>visibleSlugs</code> set drives edge inclusion.</li>
+<li>Event hooks: <code>R.domElement.addEventListener("mousemove", hoverSna)</code> + <code>"mouseleave", hideSnaTooltip</code>. <code>updateViewModeUI</code> hides tooltip whenever leaving SNA mode. Network sub-toggle resets <code>roleFilter</code> to null and rebuilds the chip set (different networks have different role compositions).</li>
+<li>Verification: JS parses (<code>new Function()</code> check), all HTML ids + JS refs + functions wired, mousemove/mouseleave hooks registered. Sync to <code>docs/cosmos/index.html</code> done.</li>
+<li><a href="../wiki/analysis/sna-structure-and-roles.html" class="wikilink">sna-structure-and-roles</a> updated — SNA-mode controls table now includes Role filter + Hover tooltip sections; Step C closeout adds a new checkbox row for the second Cosmos iteration; remaining Cosmos UI follow-ups narrowed to crime-type sub-toggle (schema-gated) and click-to-detail SNA→wiki-page linkage.</li>
+<li>Outstanding Cosmos UI: click-to-select SNA node → E.detail wiki-page summary; crime-type sub-toggle activation after multi-value <code>crime_types</code> backfill.</li>
+</ul>
+<h2 id="2026-04-20-cosmos-feature-sna-mode-click-to-detail-wiki-linkage">[2026-04-20] cosmos-feature | SNA mode — click-to-detail wiki linkage</h2>
+<ul>
+<li><code>cosmos/index.html</code> + <code>docs/cosmos/index.html</code> updated (243 lines unchanged — additive edits within existing lines).</li>
+<li>New behavior: clicking an SNA node (inner-sphere operation OR outer-sphere mode-2 agency/country/crime-type) populates the right-panel <code>#detail</code> with the node's wiki summary — identical detail rendering to graph-mode click. Activation gated on <code>S.map.get(id)</code> so only wiki-backed slugs open the panel.</li>
+<li>Click handler change: <code>click(ev)</code> now dispatches on <code>S.viewMode === "sna"</code> before the graph branch. Sets <code>S.active = id</code>, calls <code>updateDetail(id)</code>, then <code>renderSna()</code> so the active-node halo refreshes. Graph and globe click paths untouched.</li>
+<li>Render change: <code>renderSna()</code> adds a primary-color transparent glow sphere at the active node position (radius 1.4 for ops, 6.5 for mode-2 — wraps max degree-sized node). Activated only when <code>S.active</code> matches an op slug or mode-2 slug in the current network (<code>posMap.get("op::" + S.active) || posMap.get("m2::" + S.active)</code>). No-op when <code>S.active</code> is a legal-framework, case, etc. that isn't part of the SNA bipartite — no regression when crossing modes.</li>
+<li>Verification: two edit anchors unique in both files; cosmos/ and docs/cosmos/ diff clean; <code>lint.py</code> 0 issues; <code>check_links.py</code> 0 broken (153,397 links total).</li>
+<li>Closes outstanding follow-up from the prior SNA-mode entry ("click-to-select SNA node → E.detail wiki-page summary").</li>
+<li>Remaining Cosmos UI follow-up: crime-type sub-toggle activation — gated on multi-value <code>crime_types</code> backfill.</li>
+</ul>
+<h2 id="2026-04-20-cosmos-tweak-camera-defaults-closer-zoom-range-widened">[2026-04-20] cosmos-tweak | Camera defaults closer + zoom range widened</h2>
+<ul>
+<li>Initial camera distance reduced on all three modes — users reported the default angle felt too far from the scene. New defaults: Graph 210 → 130, Globe 255 → 180, SNA 260 → 140.</li>
+<li>Wheel zoom clamps widened so zoom-in/zoom-out has useful headroom at both ends: Graph 120..320 → 60..320, Globe 180..340 → 110..360, SNA 180..360 → 60..400.</li>
+<li>Sliders in the right panel updated to match the new bounds (globeDistance and snaDistance min/max/value attributes).</li>
+<li><code>cosmos/index.html</code> + <code>docs/cosmos/index.html</code> synced. JS brackets balanced, no structural changes.</li>
+</ul>
+<h2 id="2026-04-20-cosmos-tweak-revert-graphglobe-camera-defaults-sna-crime-type-toggle-activated">[2026-04-20] cosmos-tweak | Revert Graph/Globe camera defaults + SNA Crime-Type toggle activated</h2>
+<ul>
+<li>Prior entry changed camera defaults and wheel-zoom clamps on all three modes (Graph, Globe, SNA). User feedback: Graph and Globe were fine — only SNA needed the closer angle and wider zoom range.</li>
+<li>Reverted Graph and Globe to original values: Graph default 210, clamp 120..320; Globe default 255, clamp 180..340, slider min/max/value and <code>globeDistanceVal2</code> restored; <code>CAM.position.set(0,0,220)</code> restored.</li>
+<li>Kept the SNA-only changes from the prior entry: default 140, clamp 60..400, slider min=60 max=400 value=140.</li>
+<li>New: SNA network sub-toggle gains a third segment — <code>Agency | Country | Crime</code> — matching the paper's 2-mode community structure dimensions. Button added to <code>#snaNetwork</code> with <code>data-sna-network="crime_type"</code>; segment container extended to 3-column grid via inline <code>grid-template-columns</code>.</li>
+<li>No JS change needed: <code>renderSna()</code>, <code>buildSnaLegend()</code>, <code>snaRolesPresent()</code>, <code>buildSnaRoleFilter()</code>, and the <code>#snaNetwork button</code> onclick handler all already dispatched on <code>S.sna.network</code> as a string key and already had a crime-type fallback branch ("star topology — schema artifact" warning in rootBadge).</li>
+<li>Schema limitation remains: crime-type mode-2 nodes (15 total) are all role="participant" because every operation still lists exactly one crime_type under the deprecated single-value schema. Star topology — degree, betweenness, and role differentiation are all zero. Reactivates structurally only after multi-value <code>crime_types</code> backfill (Option B, deferred).</li>
+<li><code>cosmos/index.html</code> + <code>docs/cosmos/index.html</code> synced. JS brackets balanced.</li>
+</ul>
+<h2 id="2026-04-20-cosmos-feature-sna-2d-3d-view-toggle">[2026-04-20] cosmos-feature | SNA 2D / 3D view toggle</h2>
+<ul>
+<li>New UI in SNA controls: <code>3D | 2D</code> segment under the Agency/Country/Crime toggle. <code>S.sna.view</code> state (default "3d") persists via saveState/loadState.</li>
+<li>3D mode (default): current sphere layout — ops on inner sphere r=16, mode-2 on outer sphere r=30 via Fibonacci spiral.</li>
+<li>2D mode: ops and mode-2 flatten to concentric circles in the XY plane (z=0). On entering 2D the scene group rotation is reset to zero; auto-rotate is suppressed while SNA+2D so the plane stays face-on to the camera. Toggling back to 3D restores normal rotation.</li>
+<li>No change to hover tooltip, role filter, click-to-detail, or active-node halo — all continue to work in both views because they operate on the shared posMap positions.</li>
+<li><code>cosmos/index.html</code> + <code>docs/cosmos/index.html</code> synced; JS brackets balanced.</li>
+</ul>
+<h2 id="2026-04-20-cosmos-tweak-sna-font-size-slider">[2026-04-20] cosmos-tweak | SNA font size slider</h2>
+<ul>
+<li>New right-panel slider under Camera distance: <code>Font size</code> (range 0.40..2.50x, step 0.05, default 1.00x). <code>S.sna.fontScale</code> state multiplies the per-label <code>scale</code> arg passed to <code>label()</code> so every mode-2 label scales uniformly. Operations remain unlabeled dots.</li>
+<li>Slider live-redraws SNA on input (same pattern as Camera distance). syncSnaControls keeps slider + value readout in sync after loadState. saveState persists <code>fontScale</code>.</li>
+<li><code>cosmos/index.html</code> + <code>docs/cosmos/index.html</code> synced; JS brackets balanced.</li>
+</ul>
+<h2 id="2026-04-20-cosmos-feature-sna-paper-style-force-layout-community-coloring">[2026-04-20] cosmos-feature | SNA paper-style force layout + community coloring</h2>
+<ul>
+<li><code>tools/sna_visualize.py</code> extended — new <code>compute_layout_and_community()</code> runs <code>nx.spring_layout</code> (seed=42, 100 iterations, k=1/sqrt(N)) on the 2-mode graph and <code>nx.community.louvain_communities</code> on the mode-2 projection. Outputs deterministic positions in [-1, 1] and community assignment per node (ops inherit plurality-of-neighbors community).</li>
+<li><code>cosmos/sna-roles.json</code> schema widened — per mode-2 node: <code>x</code>, <code>y</code>, <code>community_id</code>. New per-kind dicts: <code>op_meta</code> (op slug → <code>{x, y, community_id}</code>) and <code>community_colors</code> (palette indexed by community id). 12-color <code>COMMUNITY_PALETTE</code> in <code>sna_visualize.py</code>.</li>
+<li>Community counts from regeneration: agency 6 communities, country 4 communities, crime_type 13 communities (most singletons — expected given the single-value <code>crime_type</code> schema).</li>
+<li>Cosmos SNA UI: two new toggles under the network segment.</li>
+<li>View: <code>3D | Rings | Force</code>. 3D keeps the Fibonacci sphere. Rings is the concentric XY-plane layout (renamed from "2D"). Force reads precomputed <code>x/y</code> from the JSON and places nodes at <code>(x, y, 0) * 26</code> — paper-faithful 2-mode spring layout.</li>
+<li>Color: <code>Role | Community</code>. Role keeps the G-F brokerage palette. Community uses <code>community_colors</code>; ops also take community color in this mode (emissive dimmed) so Louvain clusters read visually.</li>
+<li><code>renderSna()</code> branches on both view and colorBy. <code>buildSnaLegend()</code> swaps to community legend when colorBy === "community". Auto-rotate suppressed for rings and force views; legacy save-state <code>view === "2d"</code> is migrated to "rings" in <code>loadState</code>.</li>
+<li><code>cosmos/index.html</code> + <code>docs/cosmos/index.html</code> synced; JS brackets balanced. <code>cosmos/sna-roles.json</code> and <code>docs/cosmos/sna-roles.json</code> regenerated by <code>tools/sna_visualize.py</code>.</li>
+</ul>
       
     </div>
   </main>
@@ -689,8 +851,8 @@
 
   <div class="footer">
     <span class="i18n"
-      data-ko="사이버범죄 국제공조 위키 &mdash; LLM Wiki Pattern &mdash; 2026-04-19 기준 데이터"
-      data-en="Cybercrime International Cooperation Wiki &mdash; LLM Wiki Pattern &mdash; Data as of 2026-04-19">
+      data-ko="사이버범죄 국제공조 위키 &mdash; LLM Wiki Pattern &mdash; 2026-04-20 기준 데이터"
+      data-en="Cybercrime International Cooperation Wiki &mdash; LLM Wiki Pattern &mdash; Data as of 2026-04-20">
     </span>
   </div>
 

@@ -3,7 +3,7 @@
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>검색:  — 사이버범죄 국제공조 위키</title>
+  <title>검색 — 사이버범죄 국제공조 위키</title>
   <link rel="stylesheet" href="static/style.css">
   <link rel="preconnect" href="https://fonts.googleapis.com">
   <link href="https://fonts.googleapis.com/css2?family=Noto+Sans+KR:wght@400;600;700&family=Noto+Serif+KR:wght@400;700&display=swap" rel="stylesheet">
@@ -32,7 +32,7 @@
         </div>
         <a href="cosmos/index.html" class="nav-cosmos"><span class="i18n" data-ko="&#127760; Cosmos" data-en="&#127760; Cosmos"></span></a>
       </div>
-      <form class="nav-search" action="search" method="get">
+      <form class="nav-search" action="search.html" method="get">
         <input type="text" name="q" class="i18n-placeholder" data-ko="위키 검색..." data-en="Search wiki..." value="">
         <button type="submit"><span class="i18n" data-ko="검색" data-en="Search"></span></button>
       </form>
@@ -48,30 +48,157 @@
   <main class="article">
     <div class="article-header">
       <h1>
-        <span class="i18n" data-ko='검색 결과: ""' data-en='Search results: ""'></span>
+        <span id="searchTitle" class="i18n" data-ko='검색' data-en='Search'></span>
       </h1>
       <div class="article-meta">
-        <span>0<span class="i18n" data-ko="건 발견" data-en=" results"></span></span>
+        <span id="resultCount">0</span><span class="i18n" data-ko="건 발견" data-en=" results"></span>
       </div>
     </div>
     <div class="article-body">
-      
-        <p>
+      <div id="searchResults">
+        <p id="emptyState">
           <span class="i18n"
-            data-ko='""에 대한 검색 결과가 없습니다.'
-            data-en='No results found for "".'>
+            data-ko='검색어를 입력하세요.'
+            data-en='Enter a search query.'>
           </span>
         </p>
-      
+      </div>
     </div>
   </main>
 </div>
 
+<script>
+(function() {
+  function escapeHtml(s) {
+    return String(s == null ? "" : s).replace(/[&<>"']/g, function(c) {
+      return ({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'})[c];
+    });
+  }
+  function applyI18n(root) {
+    var lang = (localStorage.getItem('wiki-lang') || 'ko');
+    (root || document).querySelectorAll('.i18n').forEach(function(el) {
+      var text = el.getAttribute('data-' + lang);
+      if (text) el.innerHTML = text;
+    });
+  }
+
+  var params = new URLSearchParams(window.location.search);
+  var query = (params.get('q') || '').trim();
+  var qLower = query.toLowerCase();
+
+  var navInput = document.querySelector('.nav-search input[name="q"]');
+  if (navInput) navInput.value = query;
+
+  var titleEl = document.getElementById('searchTitle');
+  var countEl = document.getElementById('resultCount');
+  var resultsEl = document.getElementById('searchResults');
+
+  if (!query) return;
+
+  titleEl.setAttribute('data-ko', '검색 결과: "' + query + '"');
+  titleEl.setAttribute('data-en', 'Search results: "' + query + '"');
+
+  resultsEl.innerHTML = '<p><span class="i18n" data-ko="검색 중..." data-en="Searching...">Searching...</span></p>';
+  applyI18n(resultsEl);
+  applyI18n(titleEl.parentNode);
+
+  // docs/search.html is at depth 0 — search-index.json sits next to it.
+  fetch('search-index.json').then(function(r) {
+    if (!r.ok) throw new Error('status ' + r.status);
+    return r.json();
+  }).then(function(index) {
+    var results = [];
+    for (var i = 0; i < index.length; i++) {
+      var p = index[i];
+      var title = p.title || '';
+      var titleKo = p.title_ko || '';
+      var text = p.text || '';
+      var hay = (title + ' ' + titleKo + ' ' + text).toLowerCase();
+      var idx = hay.indexOf(qLower);
+      if (idx < 0) continue;
+      var start = Math.max(0, idx - 80);
+      var end = Math.min(hay.length, idx + qLower.length + 80);
+      var snippet = hay.substring(start, end).trim();
+      results.push({
+        slug: p.slug,
+        category: p.category,
+        title: title,
+        title_ko: titleKo,
+        type: p.type || '',
+        snippet: '...' + snippet + '...',
+        titleHit: title.toLowerCase().indexOf(qLower) >= 0 || titleKo.toLowerCase().indexOf(qLower) >= 0
+      });
+    }
+    results.sort(function(a, b) { return (b.titleHit ? 1 : 0) - (a.titleHit ? 1 : 0); });
+
+    countEl.textContent = String(results.length);
+
+    if (results.length === 0) {
+      resultsEl.innerHTML =
+        '<p><span class="i18n" ' +
+        'data-ko="&quot;' + escapeHtml(query) + '&quot;에 대한 검색 결과가 없습니다." ' +
+        'data-en="No results found for &quot;' + escapeHtml(query) + '&quot;."></span></p>';
+      applyI18n(resultsEl);
+      return;
+    }
+
+    resultsEl.innerHTML = '';
+    var frag = document.createDocumentFragment();
+    for (var j = 0; j < results.length; j++) {
+      var r = results[j];
+      var wrap = document.createElement('div');
+      wrap.className = 'search-result';
+      var h3 = document.createElement('h3');
+      var a = document.createElement('a');
+      a.setAttribute('href', 'wiki/' + (r.category ? r.category + '/' : '') + r.slug + '.html');
+      a.textContent = r.title;
+      h3.appendChild(a);
+      wrap.appendChild(h3);
+      if (r.title_ko) {
+        var ko = document.createElement('div');
+        ko.setAttribute('style', 'color:#555;font-size:13px;');
+        ko.textContent = r.title_ko;
+        wrap.appendChild(ko);
+      }
+      var snip = document.createElement('div');
+      snip.className = 'snippet';
+      snip.textContent = r.snippet;
+      wrap.appendChild(snip);
+      var metaDiv = document.createElement('div');
+      metaDiv.className = 'result-meta';
+      if (r.category) {
+        var cLabel = document.createElement('span');
+        cLabel.className = 'i18n';
+        cLabel.setAttribute('data-ko', '카테고리');
+        cLabel.setAttribute('data-en', 'Category');
+        metaDiv.appendChild(cLabel);
+        metaDiv.appendChild(document.createTextNode(': ' + r.category));
+      }
+      if (r.type) {
+        metaDiv.appendChild(document.createTextNode(' · '));
+        var tLabel = document.createElement('span');
+        tLabel.className = 'i18n';
+        tLabel.setAttribute('data-ko', '유형');
+        tLabel.setAttribute('data-en', 'Type');
+        metaDiv.appendChild(tLabel);
+        metaDiv.appendChild(document.createTextNode(': ' + r.type));
+      }
+      wrap.appendChild(metaDiv);
+      frag.appendChild(wrap);
+    }
+    resultsEl.appendChild(frag);
+    applyI18n(resultsEl);
+  }).catch(function(err) {
+    resultsEl.innerHTML = '<p>검색 인덱스 로드 실패: ' + escapeHtml(String(err && err.message || err)) + '</p>';
+  });
+})();
+</script>
+
 
   <div class="footer">
     <span class="i18n"
-      data-ko="사이버범죄 국제공조 위키 &mdash; LLM Wiki Pattern &mdash; 2026-04-19 기준 데이터"
-      data-en="Cybercrime International Cooperation Wiki &mdash; LLM Wiki Pattern &mdash; Data as of 2026-04-19">
+      data-ko="사이버범죄 국제공조 위키 &mdash; LLM Wiki Pattern &mdash; 2026-04-20 기준 데이터"
+      data-en="Cybercrime International Cooperation Wiki &mdash; LLM Wiki Pattern &mdash; Data as of 2026-04-20">
     </span>
   </div>
 

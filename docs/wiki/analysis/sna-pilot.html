@@ -1,0 +1,868 @@
+<!DOCTYPE html>
+<html lang="ko" class="lang-ko">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>SNA Pilot — Two-Mode Network Reproduction (PoC) — 사이버범죄 국제공조 위키</title>
+  <link rel="stylesheet" href="../../static/style.css">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link href="https://fonts.googleapis.com/css2?family=Noto+Sans+KR:wght@400;600;700&family=Noto+Serif+KR:wght@400;700&display=swap" rel="stylesheet">
+</head>
+<body>
+  <nav class="top-nav">
+    <div class="top-nav-inner">
+      <a href="../../index.html" class="nav-logo">
+        <span class="i18n" data-ko="🌐 사이버범죄 국제공조 위키" data-en="🌐 Cybercrime IC Wiki"></span>
+      </a>
+      <div class="nav-links">
+        <a href="../../category/operations.html"><span class="i18n" data-ko="작전" data-en="Operations"></span></a>
+        <a href="../../category/organizations.html"><span class="i18n" data-ko="기관" data-en="Organizations"></span></a>
+        <a href="../../category/countries.html"><span class="i18n" data-ko="국가" data-en="Countries"></span></a>
+        <a href="../../category/cases.html"><span class="i18n" data-ko="판례" data-en="Cases"></span></a>
+        <div class="nav-more">
+          <button class="nav-more-btn"><span class="i18n" data-ko="더보기 ▾" data-en="More ▾"></span></button>
+          <div class="nav-dropdown">
+            <a href="../../category/legal-frameworks.html"><span class="i18n" data-ko="법적 프레임워크" data-en="Legal Frameworks"></span></a>
+            <a href="../../category/mechanisms.html"><span class="i18n" data-ko="메커니즘" data-en="Mechanisms"></span></a>
+            <a href="../../category/crime-types.html"><span class="i18n" data-ko="범죄유형" data-en="Crime Types"></span></a>
+            <a href="../../category/concepts.html"><span class="i18n" data-ko="개념" data-en="Concepts"></span></a>
+            <a href="../../category/sources.html"><span class="i18n" data-ko="출처" data-en="Sources"></span></a>
+            <a href="../../stats.html"><span class="i18n" data-ko="통계" data-en="Statistics"></span></a>
+          </div>
+        </div>
+        <a href="../../cosmos/index.html" class="nav-cosmos"><span class="i18n" data-ko="&#127760; Cosmos" data-en="&#127760; Cosmos"></span></a>
+      </div>
+      <form class="nav-search" action="../../search.html" method="get">
+        <input type="text" name="q" class="i18n-placeholder" data-ko="위키 검색..." data-en="Search wiki..." value="">
+        <button type="submit"><span class="i18n" data-ko="검색" data-en="Search"></span></button>
+      </form>
+      <button class="lang-toggle" id="langToggle" title="한국어/English">
+        <span class="lang-flag lang-flag-ko">🇰🇷 한</span>
+        <span class="lang-flag lang-flag-en">🇺🇸 EN</span>
+      </button>
+    </div>
+  </nav>
+
+  
+<div class="page-wrapper">
+  <main class="article">
+    <div class="article-header">
+      <h1>
+        
+          SNA Pilot — Two-Mode Network Reproduction (PoC)
+        
+      </h1>
+      <div class="article-meta">
+        
+          <span class="badge">
+            <span class="i18n" data-ko="analysis" data-en="analysis"></span>
+          </span>
+        
+        
+          <span><a href="../../category/analysis.html">
+            <span class="i18n"
+              data-ko="분석"
+              data-en="Analysis"></span>
+          </a></span>
+        
+        
+          <span>
+            <span class="i18n" data-ko="최종 수정" data-en="Updated"></span>: 2026-04-20
+          </span>
+        
+        
+      </div>
+    </div>
+    <div class="article-body">
+      
+        <h2 id="summary"><span class="heading-ko">개요</span><span class="heading-en">Summary</span></h2>
+<p>This is the <strong>PoC snapshot</strong> of the 2-mode network methodology from <code>paper.pdf</code> ("Structure and Roles of International Cybercrime Cooperation: A Two-Mode Network Analysis") applied to the current wiki corpus. It is <strong>not</strong> a re-implementation of the paper — the corpora, screening rules, node-set scales, and tool stacks differ. It is a <em>first baseline</em> against which Step-B (post-cleanup full reproduction) will be compared.</p>
+<p>All snapshot artifacts are in <code>_workspace/sna/out/2026-04-19-d50e3208/</code> — edge lists, node metadata, metrics JSON, included/excluded operation lists, and the manifest.</p>
+<h2 id="snapshot-metadata">Snapshot metadata</h2>
+<table>
+<thead>
+<tr>
+<th>Field</th>
+<th>Value</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><code>snapshot_date</code></td>
+<td><strong>2026-04-19</strong> (UTC)</td>
+</tr>
+<tr>
+<td><code>snapshot_id</code></td>
+<td><code>2026-04-19-d50e3208</code></td>
+</tr>
+<tr>
+<td><code>git_ref.head</code></td>
+<td><code>d50e3208</code> (branch <code>master</code>, working tree dirty)</td>
+</tr>
+<tr>
+<td><code>rules_version</code></td>
+<td><code>poc-v5</code> (v4 + source-side country bare-string repair + source-backed <code>participating_countries</code> enrichment on the Eurojust/Europol/INTERPOL subset)</td>
+</tr>
+<tr>
+<td><code>operations_files_scanned</code></td>
+<td>1,136</td>
+</tr>
+<tr>
+<td><code>included_operations_count</code></td>
+<td><strong>73</strong></td>
+</tr>
+<tr>
+<td><code>excluded_operations_count</code></td>
+<td><strong>1,062</strong></td>
+</tr>
+<tr>
+<td><code>enrichment_subset_size</code></td>
+<td><strong>46</strong> (ops with Eurojust/Europol/INTERPOL-anchored source AND <code>participating_countries</code> count ≤ 1)</td>
+</tr>
+<tr>
+<td><code>enrichment_applied</code></td>
+<td><strong>20</strong> (of 46 subset — 46 subset → 20 applied; source-backed country enrichment only; no inferred countries added)</td>
+</tr>
+<tr>
+<td><code>alias_slot_merges</code></td>
+<td><strong>21</strong> (3 agency mappings: <code>fbi</code>, <code>usdoj</code>, <code>interpol-igci</code>)</td>
+</tr>
+<tr>
+<td><code>bare_string_normalizations</code></td>
+<td><strong>88</strong> (bare strings slugified; 33 country entries merged into existing canonical pages)</td>
+</tr>
+<tr>
+<td><code>tool_versions</code></td>
+<td>Python 3.14.3, networkx 3.6.1, pandas 3.0.2, pyyaml 6.0.2</td>
+</tr>
+</tbody>
+</table>
+<h3 id="exclusion-reason-breakdown">Exclusion reason breakdown</h3>
+<table>
+<thead>
+<tr>
+<th>Reason</th>
+<th style="text-align: right;">Count</th>
+<th>Meaning</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><code>countries_lt_2</code></td>
+<td style="text-align: right;">1,025</td>
+<td>Operation page has fewer than 2 distinct <code>participating_countries</code> entries after wikilink normalization</td>
+</tr>
+<tr>
+<td><code>status_not_live</code></td>
+<td style="text-align: right;">17</td>
+<td><code>status</code> ∉ {<code>completed</code>, <code>ongoing</code>} — stubs, planned, classified</td>
+</tr>
+<tr>
+<td><code>agencies_lt_2</code></td>
+<td style="text-align: right;">13</td>
+<td>Fewer than 2 distinct <code>participating_agencies</code> (after lead/coordinating merge)</td>
+</tr>
+<tr>
+<td><code>not_operation_type</code></td>
+<td style="text-align: right;">7</td>
+<td>File parses but <code>type: operation</code> header is missing or different</td>
+</tr>
+<tr>
+<td><code>no_enforcement_action</code></td>
+<td style="text-align: right;">1</td>
+<td><code>enforcement_type</code> list is empty or has no enforcement keyword</td>
+</tr>
+<tr>
+<td><code>parse_error</code></td>
+<td style="text-align: right;">0</td>
+<td>YAML URL-quoting bug fixed by <code>tools/repair_yaml_quotes.py</code> (13 canonical ops recovered incl. alphabay, silk-road, trickbot, dridex, onymous, power-off, rewired, jackal-iii, haechi-iii, haechi-vi, myanmar-kokang, bidencash, carding-action-2020)</td>
+</tr>
+<tr>
+<td><code>crime_type_missing</code></td>
+<td style="text-align: right;">0</td>
+<td>—</td>
+</tr>
+<tr>
+<td><code>audit_denylist</code></td>
+<td style="text-align: right;">0</td>
+<td>None of the 14 audit-denylist slugs were still in the wiki at snapshot time (already removed)</td>
+</tr>
+<tr>
+<td><code>domestic_followon_pattern</code></td>
+<td style="text-align: right;">0</td>
+<td>Soft regex pattern + <code>countries ≤ 2</code> AND condition caught no additional cases beyond the hard filter</td>
+</tr>
+</tbody>
+</table>
+<h3 id="snapshot-node-edge-counts">Snapshot node + edge counts</h3>
+<table>
+<thead>
+<tr>
+<th>Network</th>
+<th style="text-align: right;">Operations (mode-1)</th>
+<th style="text-align: right;">Mode-2 nodes</th>
+<th style="text-align: right;">Edges</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Operation × Country</td>
+<td style="text-align: right;">73</td>
+<td style="text-align: right;">109</td>
+<td style="text-align: right;">571</td>
+</tr>
+<tr>
+<td>Operation × Agency</td>
+<td style="text-align: right;">73</td>
+<td style="text-align: right;">78</td>
+<td style="text-align: right;">360</td>
+</tr>
+<tr>
+<td>Operation × Crime-type</td>
+<td style="text-align: right;">73</td>
+<td style="text-align: right;">15</td>
+<td style="text-align: right;">75</td>
+</tr>
+</tbody>
+</table>
+<p>Paper for comparison: 164 operations × 131 countries / 222 agencies / 204 crime-types with 908 / 830 / 835 edges. Country count dropped from v2's 133 to 109 after bare-string normalization merged 24 duplicates (e.g., <code>"France"</code> bare-string → <code>france</code> canonical slug). Agency count unchanged (11 bare-strings normalized but none matched existing canonical slugs; the new slugs are sub-units like <code>spain-policia-nacional</code>, <code>israel-police</code>). PoC v5 added +5 country edges and +1 operation after source-backed enrichment of the 46-op Eurojust/Europol/INTERPOL subset (20 applied).</p>
+<h2 id="inclusion-rules-from-_workspacesnaedge-schema-and-inclusion-rulesmd">Inclusion rules (from <code>_workspace/sna/edge-schema-and-inclusion-rules.md</code>)</h2>
+<p>Hard filters (mechanical): <code>type: operation</code> AND <code>status ∈ {completed, ongoing}</code> AND <code>≥ 2 distinct participating_countries</code> AND <code>≥ 2 distinct participating_agencies</code> (lead + coordinating merged in) AND <code>crime_type</code> non-empty AND <code>enforcement_type</code> contains at least one of <code>{arrest, seizure, takedown, extradition, indictment, asset_freeze}</code>.</p>
+<p>Soft filter: domestic-followon filename pattern excluded only when <code>participating_countries ≤ 2</code> (regex list in <code>tools/sna_analysis.py</code>).</p>
+<p>Manual denylist: <code>_workspace/sna/audit-denylist.txt</code> (14 slugs from <code>&lt;a href="../../wiki/analysis/international-cooperation-operation-audit-2026-04.html" class="wikilink"&gt;international-cooperation-operation-audit-2026-04&lt;/a&gt;</code>) — at snapshot time all 14 were already physically removed from the wiki.</p>
+<h2 id="cohesion-metrics-poc-vs-paper">Cohesion metrics (PoC vs. paper)</h2>
+<table>
+<thead>
+<tr>
+<th>Metric</th>
+<th style="text-align: right;">Paper Agency</th>
+<th style="text-align: right;">PoC Agency</th>
+<th style="text-align: right;">Paper Country</th>
+<th style="text-align: right;">PoC Country</th>
+<th style="text-align: right;">Paper Crime</th>
+<th style="text-align: right;">PoC Crime</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Density</td>
+<td style="text-align: right;">0.023</td>
+<td style="text-align: right;">0.064</td>
+<td style="text-align: right;">0.042</td>
+<td style="text-align: right;">0.059</td>
+<td style="text-align: right;">0.025</td>
+<td style="text-align: right;">0.071</td>
+</tr>
+<tr>
+<td>Fragmentation</td>
+<td style="text-align: right;">0.086</td>
+<td style="text-align: right;">0.039</td>
+<td style="text-align: right;">0.000</td>
+<td style="text-align: right;"><strong>0.000</strong></td>
+<td style="text-align: right;">0.000</td>
+<td style="text-align: right;"><strong>0.879</strong></td>
+</tr>
+<tr>
+<td>Avg distance</td>
+<td style="text-align: right;">4.022</td>
+<td style="text-align: right;">3.336</td>
+<td style="text-align: right;">3.551</td>
+<td style="text-align: right;">3.822</td>
+<td style="text-align: right;">3.921</td>
+<td style="text-align: right;">1.913</td>
+</tr>
+<tr>
+<td>Diameter</td>
+<td style="text-align: right;">10.000</td>
+<td style="text-align: right;">6</td>
+<td style="text-align: right;">8.000</td>
+<td style="text-align: right;">8</td>
+<td style="text-align: right;">8.000</td>
+<td style="text-align: right;">2</td>
+</tr>
+<tr>
+<td>Radius</td>
+<td style="text-align: right;">1.000</td>
+<td style="text-align: right;">4</td>
+<td style="text-align: right;">4.000</td>
+<td style="text-align: right;">4</td>
+<td style="text-align: right;">5.000</td>
+<td style="text-align: right;">1</td>
+</tr>
+<tr>
+<td>Transitivity (mode-2 projection)</td>
+<td style="text-align: right;">0.337</td>
+<td style="text-align: right;">0.648</td>
+<td style="text-align: right;">0.386</td>
+<td style="text-align: right;">0.673</td>
+<td style="text-align: right;">0.341</td>
+<td style="text-align: right;">0.000</td>
+</tr>
+<tr>
+<td>Components</td>
+<td style="text-align: right;">—</td>
+<td style="text-align: right;">2</td>
+<td style="text-align: right;">—</td>
+<td style="text-align: right;"><strong>1</strong></td>
+<td style="text-align: right;">—</td>
+<td style="text-align: right;">14</td>
+</tr>
+</tbody>
+</table>
+<p><strong>Observations</strong> (confidence medium unless stated):</p>
+<ul>
+<li><strong>Country network is now fully connected</strong> (fragmentation 0.000, single 205-node component) — matches the paper exactly. The YAML repair reinstated canonical ops (silk-road, trickbot, dridex, onymous, etc.) that bridged the previously-disjoint regional clusters.</li>
+<li><strong>Higher density across all three</strong> (~2-3x paper's) is almost certainly a sample-size effect: our 72 operations pack the same mode-2 nodes into a bipartite graph with a smaller denominator than the paper's 164.</li>
+<li><strong>Agency transitivity 0.648</strong> (vs. paper 0.337) remains elevated. Likely driven by our Euro-biased subset: many operations co-include Europol + Eurojust + multiple EU national agencies, forming triangle-heavy projections. Same mechanism applies to country transitivity.</li>
+<li><strong>Crime-type fragmentation 0.879</strong> is an almost-certainly-a-schema-artifact finding, not substantive. Our schema ties each operation to a single <code>crime_type</code> — this produces a star graph per crime type with no triangles (transitivity 0). Paper's operations carry multiple crime-types each; their crime-type network is therefore non-degenerate. <strong>Still not comparable as currently built</strong> — Step B must resolve.</li>
+</ul>
+<h2 id="centrality-top-rankings">Centrality — top rankings</h2>
+<h3 id="agency-mode-2">Agency (mode-2)</h3>
+<table>
+<thead>
+<tr>
+<th style="text-align: right;">Rank</th>
+<th>Agency</th>
+<th style="text-align: right;">Degree</th>
+<th style="text-align: right;">Betweenness</th>
+<th style="text-align: right;">Closeness</th>
+<th style="text-align: right;">Eigenvector</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td style="text-align: right;">1</td>
+<td>Europol EC3</td>
+<td style="text-align: right;"><strong>0.667</strong></td>
+<td style="text-align: right;"><strong>0.363</strong></td>
+<td style="text-align: right;">0.746</td>
+<td style="text-align: right;">0.370</td>
+</tr>
+<tr>
+<td style="text-align: right;">2</td>
+<td>FBI Cyber Division (<code>fbi</code>+<code>fbi-cyber-division</code> merged)</td>
+<td style="text-align: right;"><strong>0.569</strong></td>
+<td style="text-align: right;"><strong>0.296</strong></td>
+<td style="text-align: right;">0.694</td>
+<td style="text-align: right;">0.326</td>
+</tr>
+<tr>
+<td style="text-align: right;">3</td>
+<td>Eurojust</td>
+<td style="text-align: right;">0.389</td>
+<td style="text-align: right;">0.073</td>
+<td style="text-align: right;">0.591</td>
+<td style="text-align: right;">0.243</td>
+</tr>
+<tr>
+<td style="text-align: right;">4</td>
+<td>US DOJ (<code>us-doj</code>+<code>usdoj</code> merged)</td>
+<td style="text-align: right;">0.278</td>
+<td style="text-align: right;">0.046</td>
+<td style="text-align: right;">0.552</td>
+<td style="text-align: right;">0.157</td>
+</tr>
+<tr>
+<td style="text-align: right;">5</td>
+<td>Netherlands Politie</td>
+<td style="text-align: right;">0.264</td>
+<td style="text-align: right;">0.027</td>
+<td style="text-align: right;">0.507</td>
+<td style="text-align: right;">0.197</td>
+</tr>
+<tr>
+<td style="text-align: right;">6</td>
+<td>UK NCA</td>
+<td style="text-align: right;">0.250</td>
+<td style="text-align: right;">0.019</td>
+<td style="text-align: right;">0.502</td>
+<td style="text-align: right;">0.195</td>
+</tr>
+<tr>
+<td style="text-align: right;">7</td>
+<td>Germany BKA</td>
+<td style="text-align: right;">0.222</td>
+<td style="text-align: right;">0.019</td>
+<td style="text-align: right;">0.491</td>
+<td style="text-align: right;">0.168</td>
+</tr>
+<tr>
+<td style="text-align: right;">8</td>
+<td>INTERPOL (<code>interpol</code>+<code>interpol-igci</code> merged)</td>
+<td style="text-align: right;">0.194</td>
+<td style="text-align: right;"><strong>0.192</strong></td>
+<td style="text-align: right;">0.504</td>
+<td style="text-align: right;">0.022</td>
+</tr>
+<tr>
+<td style="text-align: right;">9</td>
+<td>Australia AFP</td>
+<td style="text-align: right;">0.111</td>
+<td style="text-align: right;">0.004</td>
+<td style="text-align: right;">0.472</td>
+<td style="text-align: right;">0.091</td>
+</tr>
+<tr>
+<td style="text-align: right;">10</td>
+<td>US Secret Service</td>
+<td style="text-align: right;">0.111</td>
+<td style="text-align: right;">0.009</td>
+<td style="text-align: right;">0.502</td>
+<td style="text-align: right;">0.077</td>
+</tr>
+</tbody>
+</table>
+<p>Paper comparison: FBI leads (Deg 0.494, Btw 0.371), then Europol (0.311, 0.132), DOJ (0.280, 0.094), INTERPOL (0.268, 0.135).</p>
+<p><strong>Interpretation</strong> (confidence medium):</p>
+<ul>
+<li><strong>FBI now ranks #2 (degree 0.569, betweenness 0.296)</strong> after the alias canonicalization pass merged <code>fbi</code> and <code>fbi-cyber-division</code>. This is within the same order of magnitude as the paper's FBI (0.494 / 0.371) and confirms that the PoC v1 FBI-split was a methodology artifact, not a data artifact.</li>
+<li><strong>Europol EC3 still leads both degree and betweenness</strong> in our subset (0.667 / 0.363 vs. paper's 0.311 / 0.132). This is <strong>likely a corpus-composition effect</strong>, not a substantive divergence. The audit pass removed many US-DOJ procedural-wrapper operations; what remains is Eurojust-anchored in a large share of cases (<code>operation-de-fr-online-fraud-group-2026</code>, <code>operation-eur-600m-crypto-scam-network-2025</code>, and several other Eurojust-sourced operations per <code>&lt;a href="../../wiki/analysis/international-cooperation-operation-audit-2026-04.html" class="wikilink"&gt;international-cooperation-operation-audit-2026-04&lt;/a&gt;</code>).</li>
+<li><strong>INTERPOL low-degree / high-betweenness pattern reproduces the paper.</strong> In our subset (deg 0.194, btw 0.192) INTERPOL's betweenness is comparable to its degree — the cross-domain broker signature the paper identifies for international organizations. Paper reports INTERPOL deg 0.268 / btw 0.135.</li>
+<li><strong>DOJ rank 4 matches paper's rank 3</strong> (0.280). Close numeric alignment.</li>
+</ul>
+<h3 id="country-mode-2">Country (mode-2)</h3>
+<table>
+<thead>
+<tr>
+<th style="text-align: right;">Rank</th>
+<th>Country</th>
+<th style="text-align: right;">Degree</th>
+<th style="text-align: right;">Betweenness</th>
+<th style="text-align: right;">Closeness</th>
+<th style="text-align: right;">Eigenvector</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td style="text-align: right;">1</td>
+<td>United States</td>
+<td style="text-align: right;"><strong>0.667</strong></td>
+<td style="text-align: right;"><strong>0.215</strong></td>
+<td style="text-align: right;">0.716</td>
+<td style="text-align: right;">0.303</td>
+</tr>
+<tr>
+<td style="text-align: right;">2</td>
+<td>United Kingdom</td>
+<td style="text-align: right;">0.472</td>
+<td style="text-align: right;">0.089</td>
+<td style="text-align: right;">0.649</td>
+<td style="text-align: right;">0.256</td>
+</tr>
+<tr>
+<td style="text-align: right;">3</td>
+<td>Germany</td>
+<td style="text-align: right;">0.444</td>
+<td style="text-align: right;">0.070</td>
+<td style="text-align: right;">0.623</td>
+<td style="text-align: right;">0.237</td>
+</tr>
+<tr>
+<td style="text-align: right;">4</td>
+<td>Netherlands</td>
+<td style="text-align: right;">0.403</td>
+<td style="text-align: right;">0.046</td>
+<td style="text-align: right;">0.529</td>
+<td style="text-align: right;">0.200</td>
+</tr>
+<tr>
+<td style="text-align: right;">5</td>
+<td>France</td>
+<td style="text-align: right;">0.347</td>
+<td style="text-align: right;">0.047</td>
+<td style="text-align: right;">0.615</td>
+<td style="text-align: right;">0.200</td>
+</tr>
+<tr>
+<td style="text-align: right;">6</td>
+<td>Australia</td>
+<td style="text-align: right;">0.264</td>
+<td style="text-align: right;">0.032</td>
+<td style="text-align: right;">0.603</td>
+<td style="text-align: right;">0.161</td>
+</tr>
+<tr>
+<td style="text-align: right;">7</td>
+<td>Spain</td>
+<td style="text-align: right;">0.250</td>
+<td style="text-align: right;">0.038</td>
+<td style="text-align: right;">0.595</td>
+<td style="text-align: right;">0.122</td>
+</tr>
+<tr>
+<td style="text-align: right;">8</td>
+<td>Canada</td>
+<td style="text-align: right;">0.208</td>
+<td style="text-align: right;">0.014</td>
+<td style="text-align: right;">0.571</td>
+<td style="text-align: right;">0.139</td>
+</tr>
+<tr>
+<td style="text-align: right;">9</td>
+<td>Romania</td>
+<td style="text-align: right;">0.194</td>
+<td style="text-align: right;">0.019</td>
+<td style="text-align: right;">0.583</td>
+<td style="text-align: right;">0.128</td>
+</tr>
+<tr>
+<td style="text-align: right;">10</td>
+<td>Sweden / Italy (tie)</td>
+<td style="text-align: right;">0.181</td>
+<td style="text-align: right;">0.016 / 0.012</td>
+<td style="text-align: right;">0.581 / 0.539</td>
+<td style="text-align: right;">0.128 / 0.092</td>
+</tr>
+</tbody>
+</table>
+<p><strong>Notable lower-rank findings</strong>:</p>
+<table>
+<thead>
+<tr>
+<th style="text-align: right;">Rank (by deg)</th>
+<th>Country</th>
+<th style="text-align: right;">Degree</th>
+<th style="text-align: right;">Betweenness</th>
+<th>Note</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td style="text-align: right;">~20</td>
+<td>Nigeria</td>
+<td style="text-align: right;">0.125</td>
+<td style="text-align: right;"><strong>0.108</strong></td>
+<td>BEC-specialist broker — <strong>now visible after bare-string normalization</strong> (was absent in v2 due to <code>"Nigeria"</code> bare-string entries on Operation Jackal). Paper: deg 0.140 / btw 0.111 — close match.</td>
+</tr>
+<tr>
+<td style="text-align: right;">~29</td>
+<td>South Africa</td>
+<td style="text-align: right;">0.069</td>
+<td style="text-align: right;">0.066</td>
+<td>Similar low-deg / high-btw broker for Africa-centric ops (Sentinel Africa, Haechi).</td>
+</tr>
+</tbody>
+</table>
+<p>Paper comparison: US 0.622 / 0.389, Germany 0.233 / 0.042, UK 0.305 / 0.098, Nigeria 0.140 / 0.111.</p>
+<p><strong>Interpretation</strong> (confidence medium):</p>
+<ul>
+<li><strong>US leads on both degree (0.667) and betweenness (0.215) in both studies</strong> — the "global liaison" pattern reproduces. Our betweenness (0.215) is lower than the paper's (0.389), consistent with smaller N.</li>
+<li><strong>Nigeria broker signature now reproduces the paper</strong> (our 0.125 / 0.108 vs paper 0.140 / 0.111). Bare-string normalization of <code>"Nigeria"</code> entries in Operation Jackal and related BEC operations surfaced this latent pattern.</li>
+<li><strong>South Africa</strong> shows a similar low-deg / high-btw broker profile — a regional analog of Nigeria's role, now visible in the Haechi and Sentinel Africa subsets.</li>
+<li>UK / Germany / Netherlands / France remain higher than the paper (Euro-weighted audit filter).</li>
+</ul>
+<h3 id="crime-type-mode-2">Crime-type (mode-2)</h3>
+<p>With the single-valued <code>crime_type</code> schema, the crime-type-mode bipartite graph is a star — any operation connects to exactly one crime type. Degree rankings therefore only reflect how many operations reference a given crime type; betweenness, closeness, eigenvector, transitivity, and community detection are all structurally degenerate. <strong>Top-by-degree only, reported for completeness:</strong></p>
+<p><code>online-fraud-ic</code> (18 ops), <code>ransomware-ic</code> (12), <code>malware-ic</code> (10), <code>bec-ic</code> (7), <code>money-laundering-ic</code> (7), <code>hacking-ic</code> (7), <code>csam-ic</code> (4), <code>cybercrime-forum-ic</code> (3). These counts are consistent with the paper's broad crime ordering (fraud + ransomware + malware at the top) but do not reflect brokerage structure.</p>
+<p><strong>This entire mode should be rebuilt in Step B</strong> with either (a) list-valued <code>crime_types: []</code> schema + frontmatter migration, or (b) multi-edges derived from body prose / <code>related_operations</code>.</p>
+<h2 id="components-and-communities">Components and communities</h2>
+<table>
+<thead>
+<tr>
+<th>Network</th>
+<th style="text-align: right;">Components</th>
+<th style="text-align: right;">Largest CC</th>
+<th style="text-align: right;">Louvain communities</th>
+<th style="text-align: right;">Modularity</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Agency</td>
+<td style="text-align: right;">2</td>
+<td style="text-align: right;">147 (98%)</td>
+<td style="text-align: right;">6</td>
+<td style="text-align: right;">0.290</td>
+</tr>
+<tr>
+<td>Country</td>
+<td style="text-align: right;"><strong>1</strong></td>
+<td style="text-align: right;"><strong>205 (100%)</strong></td>
+<td style="text-align: right;">7</td>
+<td style="text-align: right;">0.341</td>
+</tr>
+<tr>
+<td>Crime-type</td>
+<td style="text-align: right;">14</td>
+<td style="text-align: right;">23 (27%)</td>
+<td style="text-align: right;">0 (degenerate)</td>
+<td style="text-align: right;">0.000</td>
+</tr>
+</tbody>
+</table>
+<p>Paper reports: agency 5 communities / modularity 0.213, country 53 / 0.287, crime-type 4 / 0.231.</p>
+<p><strong>Observations</strong> (confidence medium):</p>
+<ul>
+<li><strong>Country network now matches the paper's full-connectivity claim</strong> (fragmentation 0.000, 1 component of 205 nodes, vs paper's 0.000 fragmentation). The YAML repair reinstated canonical ops that bridged previously-disjoint regional clusters.</li>
+<li>Agency community count close to paper (6 vs 5). Modularity 0.290 vs paper 0.213 — still slightly higher, consistent with our cleaner Euro-biased subset.</li>
+<li>Country 7 communities vs paper 53. Paper's high community count likely reflects its 131-country set with many singleton-operation countries. Our 205-country set has 72 operations, so on average 3 ops per community — coarser but qualitatively similar regional structure. Modularity 0.341 is now close to paper's 0.287.</li>
+<li>Crime-type community detection still degenerates to 0 communities / 0 modularity — this is the schema artifact (single-valued <code>crime_type</code> → star topology → empty projection). <strong>Not fixable without a schema decision in Step B.</strong></li>
+</ul>
+<h2 id="known-limitations-of-this-poc-post-v2">Known limitations of this PoC (post-v2)</h2>
+<ol>
+<li><strong>Corpus: ~1/16 of available operation pages.</strong> Of 1,136 operation files scanned, only 72 pass all inclusion rules. The overwhelming majority (1,025) fail the <code>participating_countries ≥ 2</code> hard filter — this is both a valid filter (domestic-only follow-ons correctly rejected) AND a surfacing of a genuine wiki enrichment gap (many ops have empty <code>participating_countries</code> fields despite being multi-country).</li>
+<li><strong>Crime-type network is structurally not comparable</strong> to the paper. See §Centrality / §Components-Communities above. Step B must migrate <code>crime_type</code> to a list-valued field OR derive multi-edges from body prose.</li>
+<li><strong>Subset is Euro-biased</strong> by construction of the audit filter. This is intentional (removes false-positive US-procedural-wrappers) but directly affects the relative centrality ordering — in particular Europol EC3 sits where the paper's FBI sat. Absolute metric comparison to the paper is <strong>not valid</strong>.</li>
+<li><strong>Aliases beyond the 3 known pairs are not merged.</strong> Current alias map (<code>_workspace/sna/node-alias-map.yaml</code>) handles only <code>fbi → fbi-cyber-division</code>, <code>usdoj → us-doj</code>, <code>interpol-igci → interpol</code>. Other duplicate slug pairs (e.g., bare-string agencies like <code>"DEA"</code>, <code>"IRS-CI"</code> appearing in operation frontmatter alongside proper wikilink slugs like <code>dea</code>) are not yet resolved.</li>
+<li><strong>No core-periphery, no brokerage (Gould-Fernandez), no visualizations</strong> — deferred to Step B per <code>_workspace/sna/edge-schema-and-inclusion-rules.md §4</code>.</li>
+<li><strong>Tool differences.</strong> Paper uses UCINET 6.816 and NetMiner 4; we use networkx 3.6.1. Algorithmic defaults on ties and disconnected components differ. Values are reproducible within our tool stack but not byte-identical to the paper's.</li>
+</ol>
+<h3 id="fixes-applied-across-poc-v1-v2-v3-v4">Fixes applied across PoC v1 → v2 → v3 → v4</h3>
+<table>
+<thead>
+<tr>
+<th>Fix</th>
+<th>Version</th>
+<th>Impact</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>YAML URL-quoting repair (<code>tools/repair_yaml_quotes.py</code>) on 13 canonical ops</td>
+<td>v1→v2</td>
+<td>+11 ops to included set (61 → 72); <code>parse_error</code> 13 → 0; country network went from 3 components → <strong>1 connected component matching paper</strong></td>
+</tr>
+<tr>
+<td>Alias canonicalization (<code>_workspace/sna/node-alias-map.yaml</code>, 3 agency mappings)</td>
+<td>v1→v2</td>
+<td>21 record-slots merged; FBI consolidated to rank 2 at degree 0.569 (was split 0.393 + 0.148); DOJ consolidated to rank 4; INTERPOL now shows the paper's low-deg / high-btw broker signature</td>
+</tr>
+<tr>
+<td>Bare-string normalization (extract_wikilinks slugifies non-wikilink values)</td>
+<td>v2→v3</td>
+<td>88 bare strings slugified; country node count 133 → <strong>109</strong> (33 merged into existing canonical slugs like <code>france</code>, <code>nigeria</code>, <code>spain</code>, etc.); <strong>Nigeria broker signature now visible</strong> (deg 0.125 / btw 0.108 — close match to paper's 0.140 / 0.111)</td>
+</tr>
+<tr>
+<td><strong><code>crime_types</code> list schema migration</strong> (<code>tools/migrate_crime_type_to_list.py</code>, <code>CLAUDE.md</code> updated, SNA reads canonical list + legacy single fallback)</td>
+<td>v3→v4</td>
+<td>Canonical field is now <code>crime_types: []</code> list. 4 remaining ops back-filled from legacy single field; 1,124 ops already had the list form. All 72 included ops read from canonical list (0 fallback reads). <strong>Crime-type network is still list-of-one structurally</strong> — multi-crime backfill is Step B work — but the schema is now in place for non-degenerate analysis.</td>
+</tr>
+<tr>
+<td>Source-side bare-string repair (<code>tools/repair_bare_country_strings.py</code>) — 44 country entries across 7 ops converted from bare strings (<code>"France"</code>, <code>Argentina</code>) to canonical wikilinks (<code>"&lt;a href="../../wiki/countries/france.html" class="wikilink"&gt;france&lt;/a&gt;"</code>)</td>
+<td>v4→v5</td>
+<td>SNA edge counts unchanged (script-side already normalized) but wiki source now canonical — build, lint, reconcile, and future ingest all benefit. Remaining 22 country bare-strings have no canonical page yet (Brunei, Cote d'Ivoire, Hong Kong (China), etc. — country-page creation is a separate backlog).</td>
+</tr>
+<tr>
+<td>Source-backed <code>participating_countries</code> enrichment (<code>tools/enrich_participating_countries.py</code>) on the 46-op subset (Eurojust/Europol/INTERPOL anchor AND count ≤ 1)</td>
+<td>v4→v5</td>
+<td><strong>46 subset → 20 applied</strong>. <strong>Source-backed country enrichment only; no inferred countries added.</strong> Adjective-only matches and placeholder values (<code>"international"</code>) excluded by design. +1 op passed the <code>participating_countries ≥ 2</code> gate; +5 country edges. Manifest in <code>_workspace/sna/enrichment-proposals-2026-04-20.json</code> records <code>snapshot_date</code>, <code>subset_rule</code>, <code>enriched_ops_count</code>, <code>applied_detail</code>. Remaining 26 of the subset (11 no-sources, 11 no-extract, 2 no-key-findings, 2 empty-delta) are Step B tasks — require URL fetching or manual source reading.</td>
+</tr>
+</tbody>
+</table>
+<h2 id="what-this-poc-confirms-and-what-it-does-not">What this PoC confirms and what it does not</h2>
+<ul>
+<li><strong>Confirmed (high confidence):</strong> the wiki schema supports paper-style 2-mode SNA. The mechanical pipeline (parse → filter → build 2-mode graph → compute metrics → export) works end-to-end and produces reproducible, manifest-backed snapshots.</li>
+<li><strong>Confirmed (medium confidence):</strong> broad structural patterns of the paper reappear — core-periphery concentration hinted at by skewed degree distributions, US leads country degree + betweenness, agencies-with-breadth vs. agencies-with-brokerage split visible (INTERPOL low-deg high-btw pattern).</li>
+<li><strong>Not yet confirmed:</strong> any absolute metric value or ranking order. The corpus is too small, Euro-biased, schema-restricted (crime-type), and alias-split to make numeric claims.</li>
+<li><strong>Clearly surfaced for fix:</strong> a concrete data-cleanup backlog (YAML parse, alias canonicalization, crime-type multi-valued, <code>participating_countries</code> enrichment on ops that are genuinely international but have empty field) that Step B should resolve before full-paper reproduction.</li>
+</ul>
+<h2 id="next-steps">Next steps</h2>
+<ul>
+<li>[x] ~~Fix YAML parse errors on the 13 canonical ops~~ — done in <code>tools/repair_yaml_quotes.py</code>; +11 ops recovered.</li>
+<li>[x] ~~Alias canonicalization pass (<code>fbi</code>, <code>usdoj</code>, <code>interpol-igci</code>)~~ — done in <code>tools/sna_analysis.py</code> + <code>_workspace/sna/node-alias-map.yaml</code>.</li>
+<li>[x] ~~Bare-string normalization~~ — done in <code>tools/sna_analysis.py</code>; 88 bare-strings slugified; Nigeria broker signature recovered.</li>
+<li>[x] ~~Crime-type schema decision~~ — <code>crime_types: []</code> list is the canonical field (PoC v4). <code>crime_type</code> single-value remains as read-only legacy fallback. Migration in <code>tools/migrate_crime_type_to_list.py</code>; <code>CLAUDE.md</code> operation schema updated; <code>sna_analysis.py</code> reads list first, falls back to single.</li>
+<li>[x] ~~Source-side bare-string repair for 33 country entries~~ — done in <code>tools/repair_bare_country_strings.py</code> (44 line fixes across 7 ops; <code>operation-jackal</code> alone had 19 bare-string countries rewritten to wikilinks).</li>
+<li>[x] ~~Source-backed <code>participating_countries</code> enrichment on Eurojust/Europol/INTERPOL subset~~ — 20 of 46 subset ops applied via <code>tools/enrich_participating_countries.py</code>. Source-backed country enrichment only; no inferred countries added. <code>_workspace/sna/enrichment-proposals-2026-04-20.json</code> carries the manifest.</li>
+<li>[ ] <strong>Backfill multi-value <code>crime_types</code></strong> (Step B) — derive additional crime-type edges per op from body prose + <code>related_operations</code> union. Currently all but one of the 73 included ops are list-of-one, so the crime-type network is still effectively star-topology. Two-pronged backfill: (a) body-prose keyword extraction (automated, noisy, needs review), (b) manual enrichment on the high-impact ops first (e.g., AlphaBay has both <code>online-fraud-ic</code> and realistically <code>money-laundering-ic</code> + <code>csam-ic</code>).</li>
+<li>[ ] <strong>Enrich remaining 26 subset ops</strong> — 11 no-sources, 11 no-extract, 2 no-key-findings, 2 empty-delta. Requires URL fetching of the raw press release OR manual reading of existing raw files.</li>
+<li>[ ] <strong>Country page creation for the 22 remaining bare-string countries</strong> — Brunei, Cote d'Ivoire, Hong Kong, Kyrgyzstan, Laos, Maldives, UAE, Slovenia, Benin, Burkina Faso, Chad, Congo, DRC, Djibouti, Gabon, Malawi, Senegal, South Sudan, Uganda, Zimbabwe, Botswana, Zimbabwe. These are mentioned in ops (mostly Haechi / Sentinel-Africa) but have no canonical country page — creating them would give operation-country wikilinks a target to resolve to.</li>
+<li>[ ] <strong>Enrich <code>participating_countries</code> on operations outside the 46-op subset</strong> (larger 1,017-op backlog) — only after Step B body is drafted, so the content priorities are clear.</li>
+<li>[ ] <strong>Step B</strong> (<code>wiki/analysis/sna-structure-and-roles.md</code>): fuller numeric comparison to the paper + core-periphery (<code>cpnet</code>) + Gould-Fernandez brokerage + visualizations.</li>
+</ul>
+<h2 id="reproducibility">Reproducibility</h2>
+<p>Re-run this snapshot (read-only over the wiki — produces files only under <code>_workspace/sna/out/</code>):</p>
+<pre><code class="language-bash">python tools/sna_analysis.py
+</code></pre>
+<p>Artifacts under <code>_workspace/sna/out/2026-04-19-d50e3208/</code>:
+- <code>manifest.json</code> — snapshot metadata + exclusion breakdown
+- <code>included_operations.txt</code> — 61 operation slugs
+- <code>excluded_operations.csv</code> — 1,074 slugs with reason
+- <code>edges_op_country.csv</code>, <code>edges_op_agency.csv</code>, <code>edges_op_crimetype.csv</code>
+- <code>nodes_operations.csv</code>, <code>nodes_countries.csv</code>, <code>nodes_agencies.csv</code>, <code>nodes_crimetypes.csv</code>
+- <code>metrics_cohesion.json</code>, <code>metrics_centrality_*.csv</code>, <code>metrics_components.json</code>, <code>metrics_community.json</code></p>
+<p>Spec documents:
+- <code>_workspace/sna/paper-network-definitions.md</code> — paper methodology extraction
+- <code>_workspace/sna/edge-schema-and-inclusion-rules.md</code> — PoC schema + filter rules</p>
+<h2 id="contradictions-open-questions"><span class="heading-ko">모순점 및 미해결 문제</span><span class="heading-en">Contradictions &amp; Open Questions</span></h2>
+<div class="callout callout-note"><div class="callout-title">📝 Crime-type schema
+The single-valued <code>crime_type</code> (single wikilink) schema is functional for wiki navigation but structurally insufficient for paper-style crime-type SNA. Consider migrating to <code>crime_types: []</code> list or building a derived multi-edge network in Step B.</div><div class="callout-body"><p>[!note] Audit filter directionality
+The audit filter was designed to remove false-positive US-DOJ procedural wrappers from the wiki catalog, not to normalize for SNA corpus composition. The Euro-centric skew that results is a feature of the wiki catalog policy, not a bug in the filter — but it does mean the PoC subset is <strong>not</strong> a sample representative of global cybercrime IC. Step B will need an explicit note on corpus composition when comparing to the paper's English-Google-News corpus.</p>
+<p>[!warning] Legal status check needed
+None — this page contains no legal-status claims.</p></div></div>
+      
+    </div>
+  </main>
+
+  <aside class="sidebar">
+    
+
+    <div class="cat-nav">
+      <h3><span class="i18n" data-ko="카테고리" data-en="Categories"></span></h3>
+      <ul>
+        
+        <li>
+          📜
+          <a href="../../category/legal-frameworks.html"
+             >
+            <span class="i18n" data-ko="법적 프레임워크" data-en="Legal Frameworks"></span>
+          </a>
+        </li>
+        
+        <li>
+          🏛️
+          <a href="../../category/organizations.html"
+             >
+            <span class="i18n" data-ko="기관" data-en="Organizations"></span>
+          </a>
+        </li>
+        
+        <li>
+          🌍
+          <a href="../../category/countries.html"
+             >
+            <span class="i18n" data-ko="국가" data-en="Countries"></span>
+          </a>
+        </li>
+        
+        <li>
+          🎯
+          <a href="../../category/operations.html"
+             >
+            <span class="i18n" data-ko="작전" data-en="Operations"></span>
+          </a>
+        </li>
+        
+        <li>
+          ⚖️
+          <a href="../../category/cases.html"
+             >
+            <span class="i18n" data-ko="사건" data-en="Cases"></span>
+          </a>
+        </li>
+        
+        <li>
+          🔗
+          <a href="../../category/mechanisms.html"
+             >
+            <span class="i18n" data-ko="공조 메커니즘" data-en="Mechanisms"></span>
+          </a>
+        </li>
+        
+        <li>
+          📋
+          <a href="../../category/procedures.html"
+             >
+            <span class="i18n" data-ko="절차" data-en="Procedures"></span>
+          </a>
+        </li>
+        
+        <li>
+          🔒
+          <a href="../../category/crime-types.html"
+             >
+            <span class="i18n" data-ko="범죄유형" data-en="Crime Types"></span>
+          </a>
+        </li>
+        
+        <li>
+          ⚠️
+          <a href="../../category/challenges.html"
+             >
+            <span class="i18n" data-ko="과제" data-en="Challenges"></span>
+          </a>
+        </li>
+        
+        <li>
+          📖
+          <a href="../../category/concepts.html"
+             >
+            <span class="i18n" data-ko="법적 개념" data-en="Concepts"></span>
+          </a>
+        </li>
+        
+        <li>
+          📰
+          <a href="../../category/sources.html"
+             >
+            <span class="i18n" data-ko="출처" data-en="Sources"></span>
+          </a>
+        </li>
+        
+        <li>
+          📊
+          <a href="../../category/analysis.html"
+             style="font-weight:700">
+            <span class="i18n" data-ko="분석" data-en="Analysis"></span>
+          </a>
+        </li>
+        
+        <li>
+          📅
+          <a href="../../category/timelines.html"
+             >
+            <span class="i18n" data-ko="타임라인" data-en="Timelines"></span>
+          </a>
+        </li>
+        
+      </ul>
+    </div>
+  </aside>
+</div>
+
+
+  <div class="footer">
+    <span class="i18n"
+      data-ko="사이버범죄 국제공조 위키 &mdash; LLM Wiki Pattern &mdash; 2026-04-20 기준 데이터"
+      data-en="Cybercrime International Cooperation Wiki &mdash; LLM Wiki Pattern &mdash; Data as of 2026-04-20">
+    </span>
+  </div>
+
+  <script>
+  (function() {
+    // Language toggle system — Korean default
+    var STORAGE_KEY = 'wiki-lang';
+
+    function getLang() {
+      return localStorage.getItem(STORAGE_KEY) || 'ko';
+    }
+
+    function setLang(lang) {
+      localStorage.setItem(STORAGE_KEY, lang);
+      applyLang(lang);
+    }
+
+    function applyLang(lang) {
+      var html = document.documentElement;
+      html.classList.remove('lang-ko', 'lang-en');
+      html.classList.add('lang-' + lang);
+      html.setAttribute('lang', lang === 'ko' ? 'ko' : 'en');
+
+      // Update i18n text content
+      document.querySelectorAll('.i18n').forEach(function(el) {
+        var text = el.getAttribute('data-' + lang);
+        if (text) el.innerHTML = text;
+      });
+
+      // Update i18n placeholders
+      document.querySelectorAll('.i18n-placeholder').forEach(function(el) {
+        var text = el.getAttribute('data-' + lang);
+        if (text) el.setAttribute('placeholder', text);
+      });
+    }
+
+    // Toggle button
+    var btn = document.getElementById('langToggle');
+    if (btn) {
+      btn.addEventListener('click', function() {
+        var current = getLang();
+        setLang(current === 'ko' ? 'en' : 'ko');
+      });
+    }
+
+    // Apply saved language on load
+    applyLang(getLang());
+  })();
+  </script>
+</body>
+</html>
