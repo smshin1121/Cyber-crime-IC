@@ -53,6 +53,7 @@ import argparse
 import csv
 import json
 import logging
+import math
 import sys
 from pathlib import Path
 
@@ -81,6 +82,13 @@ ROLE_COLORS = {
     "participant": "#B0B0B0",
     "operation": "#2F4F4F",  # dark slate for ops (mode-1)
 }
+
+# Community palette for Louvain-assignment coloring. Recycled per-kind.
+COMMUNITY_PALETTE = [
+    "#6ef2dc", "#8e7dff", "#ffbf59", "#ff6f61",
+    "#57ead7", "#67a1ff", "#ff94ba", "#ffd37a",
+    "#7ed957", "#9cb6ff", "#f87171", "#a78bfa",
+]
 
 
 def classify_agency(row) -> str:
@@ -306,6 +314,97 @@ def _build_legend_html(kind: str, title: str) -> str:
     )
 
 
+def compute_layout_and_community(
+    edges_df: pd.DataFrame, kind: str
+) -> dict:
+    """Run spring_layout + Louvain community detection on a 2-mode network.
+
+    Returns a dict with:
+      - m2_positions: {mode-2 slug: (x, y)}  normalized to [-1, 1]
+      - op_positions: {op slug: (x, y)}      normalized to [-1, 1]
+      - m2_community: {mode-2 slug: int}     Louvain community id
+      - op_community: {op slug: int}         plurality of mode-2 neighbors' community
+      - community_colors: list[str]          one hex per community id
+    Deterministic via seed=42.
+    """
+    right_col = {
+        "agency": "agency_slug",
+        "country": "country_slug",
+        "crime_type": "crime_type_slug",
+    }[kind]
+
+    G = nx.Graph()
+    for _, row in edges_df.iterrows():
+        G.add_edge(f"op::{row['op_slug']}", f"m2::{row[right_col]}")
+
+    if G.number_of_nodes() == 0:
+        return {
+            "m2_positions": {}, "op_positions": {},
+            "m2_community": {}, "op_community": {},
+            "community_colors": [],
+        }
+
+    k = 1.0 / math.sqrt(max(1, G.number_of_nodes()))
+    pos = nx.spring_layout(G, seed=42, iterations=100, k=k)
+
+    xs = [float(p[0]) for p in pos.values()]
+    ys = [float(p[1]) for p in pos.values()]
+    x_span = max(max(xs) - min(xs), 1e-6)
+    y_span = max(max(ys) - min(ys), 1e-6)
+    x_mid = (max(xs) + min(xs)) / 2.0
+    y_mid = (max(ys) + min(ys)) / 2.0
+    norm = {
+        n: (
+            float(2.0 * (p[0] - x_mid) / x_span),
+            float(2.0 * (p[1] - y_mid) / y_span),
+        )
+        for n, p in pos.items()
+    }
+
+    m2_nodes_ns = [n for n in G.nodes if n.startswith("m2::")]
+    op_nodes_ns = [n for n in G.nodes if n.startswith("op::")]
+
+    community_assignment: dict[str, int] = {}
+    try:
+        M2 = nx.bipartite.projected_graph(G, m2_nodes_ns)
+        communities = list(nx.community.louvain_communities(M2, seed=42))
+    except Exception as exc:  # pragma: no cover
+        log.warning("louvain failed for %s (%s); single-community fallback", kind, exc)
+        communities = [set(m2_nodes_ns)]
+
+    for cid, members in enumerate(communities):
+        for node in members:
+            community_assignment[node] = cid
+
+    for op in op_nodes_ns:
+        counts: dict[int, int] = {}
+        for nb in G.neighbors(op):
+            c = community_assignment.get(nb)
+            if c is None:
+                continue
+            counts[c] = counts.get(c, 0) + 1
+        community_assignment[op] = (
+            max(counts, key=counts.get) if counts else -1
+        )
+
+    n_communities = max(len(communities), 1)
+    colors = [
+        COMMUNITY_PALETTE[i % len(COMMUNITY_PALETTE)]
+        for i in range(n_communities)
+    ]
+
+    def _bare(ns: str) -> str:
+        return ns.split("::", 1)[1]
+
+    return {
+        "m2_positions": {_bare(n): norm[n] for n in m2_nodes_ns},
+        "op_positions": {_bare(n): norm[n] for n in op_nodes_ns},
+        "m2_community": {_bare(n): community_assignment[n] for n in m2_nodes_ns},
+        "op_community": {_bare(n): community_assignment[n] for n in op_nodes_ns},
+        "community_colors": colors,
+    }
+
+
 def export_cosmos_roles(
     role_dfs: dict[str, pd.DataFrame],
     edges_by_kind: dict[str, pd.DataFrame],
@@ -358,10 +457,43 @@ def export_cosmos_roles(
                 op_set.add(op)
                 edges_list.append([op, m2])
         nodes = [_node_record(r) for r in df.to_dict("records")]
+
+        layout = (
+            compute_layout_and_community(edges_df, kind)
+            if edges_df is not None and not edges_df.empty
+            else {
+                "m2_positions": {}, "op_positions": {},
+                "m2_community": {}, "op_community": {},
+                "community_colors": [],
+            }
+        )
+        m2_pos = layout["m2_positions"]
+        m2_com = layout["m2_community"]
+        op_pos = layout["op_positions"]
+        op_com = layout["op_community"]
+
+        for rec in nodes:
+            slug = rec["slug"]
+            x, y = m2_pos.get(slug, (0.0, 0.0))
+            rec["x"] = x
+            rec["y"] = y
+            rec["community_id"] = int(m2_com.get(slug, -1))
+
+        op_meta = {
+            op: {
+                "x": op_pos.get(op, (0.0, 0.0))[0],
+                "y": op_pos.get(op, (0.0, 0.0))[1],
+                "community_id": int(op_com.get(op, -1)),
+            }
+            for op in sorted(op_set)
+        }
+
         payload[kind] = {
             "nodes": nodes,
             "operations": sorted(op_set),
             "edges": sorted(edges_list),
+            "op_meta": op_meta,
+            "community_colors": layout["community_colors"],
         }
     out_path.parent.mkdir(parents=True, exist_ok=True)
     with out_path.open("w", encoding="utf-8") as fh:

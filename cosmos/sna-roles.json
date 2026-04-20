@@ -1,5 +1,13 @@
 {
   "agency": {
+    "community_colors": [
+      "#6ef2dc",
+      "#8e7dff",
+      "#ffbf59",
+      "#ff6f61",
+      "#57ead7",
+      "#67a1ff"
+    ],
     "edges": [
       [
         "2bagoldmule-qqaazz",
@@ -1453,11 +1461,14 @@
           "representative": 0,
           "total": 0
         },
+        "community_id": 0,
         "core_periphery": "periphery",
         "degree": 0.0547945205479452,
         "partition": "regional-org",
         "role": "participant",
-        "slug": "afripol"
+        "slug": "afripol",
+        "x": 0.278686129277842,
+        "y": -0.011053303676715913
       },
       {
         "betweenness": 3.5359879677756065e-05,
@@ -1469,11 +1480,14 @@
           "representative": 0,
           "total": 0
         },
+        "community_id": 2,
         "core_periphery": "periphery",
         "degree": 0.0273972602739726,
         "partition": "national-unit",
         "role": "participant",
-        "slug": "armenia-police"
+        "slug": "armenia-police",
+        "x": 0.6425895852506798,
+        "y": 0.8161983348214523
       },
       {
         "betweenness": 0.0035034875921558,
@@ -1485,11 +1499,14 @@
           "representative": 36,
           "total": 166
         },
+        "community_id": 2,
         "core_periphery": "core",
         "degree": 0.1095890410958904,
         "partition": "national-agency",
         "role": "participant",
-        "slug": "australia-afp"
+        "slug": "australia-afp",
+        "x": 0.7415667654123567,
+        "y": 0.6209798275492543
       },
       {
         "betweenness": 0.0,
@@ -1501,11 +1518,14 @@
           "representative": 0,
           "total": 0
         },
+        "community_id": 2,
         "core_periphery": "core",
         "degree": 0.0136986301369863,
         "partition": "national-unit",
         "role": "participant",
-        "slug": "belgium-federal-police"
+        "slug": "belgium-federal-police",
+        "x": 0.6850610056388329,
+        "y": 0.938810164489925
       },
       {
         "betweenness": 3.5359879677756065e-05,
@@ -1517,11 +1537,14 @@
           "representative": 0,
           "total": 0
         },
+        "community_id": 2,
         "core_periphery": "core",
         "degree": 0.0273972602739726,
         "partition": "national-unit",
         "role": "participant",
-        "slug": "bulgaria-police"
+        "slug": "bulgaria-police",
+        "x": 0.6513615815090453,
+        "y": 0.8465049928007607
       },
       {
         "betweenness": 0.0034219719785334,
@@ -1533,11 +1556,14 @@
           "representative": 54,
           "total": 250
         },
+        "community_id": 2,
         "core_periphery": "core",
         "degree": 0.1095890410958904,
         "partition": "national-unit",
         "role": "internal-coordinator",
-        "slug": "canada-rcmp"
+        "slug": "canada-rcmp",
+        "x": 0.732648946708587,
+        "y": 0.5519197187905672
       },
       {
         "betweenness": 0.0,
@@ -1549,11 +1575,14 @@
           "representative": 0,
           "total": 0
         },
+        "community_id": 0,
         "core_periphery": "periphery",
         "degree": 0.0136986301369863,
         "partition": "national-agency",
         "role": "participant",
-        "slug": "cbi-india"
+        "slug": "cbi-india",
+        "x": 0.4456377838109289,
+        "y": 0.06535250200444763
       },
       {
         "betweenness": 0.0,
@@ -1565,11 +1594,14 @@
           "representative": 0,
           "total": 0
         },
+        "community_id": 4,
         "core_periphery": "periphery",
         "degree": 0.0136986301369863,
         "partition": "unknown",
         "role": "participant",
-        "slug": "chinese-police-qingdao"
+        "slug": "chinese-police-qingdao",
+        "x": -0.9953707056773488,
+        "y": -1.0
       },
       {
         "betweenness": 0.0,
@@ -1581,11 +1613,14 @@
           "representative": 0,
           "total": 0
         },
+        "community_id": 3,
         "core_periphery": "periphery",
         "degree": 0.0136986301369863,
         "partition": "unknown",
         "role": "participant",
-        "slug": "croatia-hrvatska-policija"
+        "slug": "croatia-hrvatska-policija",
+        "x": 0.9799477179035833,
+        "y": 0.8647249213617172
       },
       {
         "betweenness": 0.0,
@@ -1597,11 +1632,14 @@
           "representative": 0,
           "total": 0
         },
+        "community_id": 2,
         "core_periphery": "periphery",
         "degree": 0.0136986301369863,
         "partition": "national-unit",
         "role": "participant",
-        "slug": "czechia-police"
+        "slug": "czechia-police",
+        "x": 0.7978391640217659,
+        "y": 0.1535247379911426
       },
       {
         "betweenness": 0.0,
@@ -1613,11 +1651,14 @@
           "representative": 0,
           "total": 0
         },
+        "community_id": 2,
         "core_periphery": "periphery",
         "degree": 0.0136986301369863,
         "partition": "unknown",
         "role": "participant",
-        "slug": "dea"
+        "slug": "dea",
+        "x": 0.9128387859415783,
+        "y": 0.2799472517368166
       },
       {
         "betweenness": 0.0003654076196493,
@@ -1629,11 +1670,14 @@
           "representative": 0,
           "total": 0
         },
+        "community_id": 2,
         "core_periphery": "core",
         "degree": 0.0547945205479452,
         "partition": "national-unit",
         "role": "participant",
-        "slug": "denmark-police"
+        "slug": "denmark-police",
+        "x": 0.6655318764882133,
+        "y": 0.7271955915042378
       },
       {
         "betweenness": 0.0008174933568291,
@@ -1645,11 +1689,14 @@
           "representative": 0,
           "total": 22
         },
+        "community_id": 0,
         "core_periphery": "periphery",
         "degree": 0.0273972602739726,
         "partition": "national-unit",
         "role": "participant",
-        "slug": "dutch-nhtcu"
+        "slug": "dutch-nhtcu",
+        "x": 0.508188021203422,
+        "y": 0.13762713936950452
       },
       {
         "betweenness": 0.0715764695724656,
@@ -1661,11 +1708,14 @@
           "representative": 0,
           "total": 888
         },
+        "community_id": 0,
         "core_periphery": "core",
         "degree": 0.3835616438356164,
         "partition": "regional-org",
         "role": "liaison-broker",
-        "slug": "eurojust"
+        "slug": "eurojust",
+        "x": 0.7184189716607955,
+        "y": 0.4791330329852162
       },
       {
         "betweenness": 0.3689408292268611,
@@ -1677,11 +1727,14 @@
           "representative": 19,
           "total": 2628
         },
+        "community_id": 0,
         "core_periphery": "core",
         "degree": 0.6712328767123288,
         "partition": "regional-org",
         "role": "liaison-broker",
-        "slug": "europol-ec3"
+        "slug": "europol-ec3",
+        "x": 0.7166902870110013,
+        "y": 0.44018968836707056
       },
       {
         "betweenness": 0.2924969991455478,
@@ -1693,11 +1746,14 @@
           "representative": 492,
           "total": 2192
         },
+        "community_id": 0,
         "core_periphery": "core",
         "degree": 0.5616438356164384,
         "partition": "national-agency",
         "role": "hub",
-        "slug": "fbi-cyber-division"
+        "slug": "fbi-cyber-division",
+        "x": 0.6601918357810721,
+        "y": 0.4130994588238202
       },
       {
         "betweenness": 0.0126157591829867,
@@ -1709,11 +1765,14 @@
           "representative": 150,
           "total": 558
         },
+        "community_id": 3,
         "core_periphery": "core",
         "degree": 0.0821917808219178,
         "partition": "national-unit",
         "role": "regional-coordinator",
-        "slug": "france-gendarmerie"
+        "slug": "france-gendarmerie",
+        "x": 0.7825889062867916,
+        "y": 0.7018246608590614
       },
       {
         "betweenness": 4.072080683865016e-05,
@@ -1725,11 +1784,14 @@
           "representative": 0,
           "total": 0
         },
+        "community_id": 2,
         "core_periphery": "core",
         "degree": 0.0273972602739726,
         "partition": "prosecution-office",
         "role": "participant",
-        "slug": "france-junalco"
+        "slug": "france-junalco",
+        "x": 0.7006750941807715,
+        "y": 0.813363294768458
       },
       {
         "betweenness": 0.0006509400339331,
@@ -1741,11 +1803,14 @@
           "representative": 12,
           "total": 64
         },
+        "community_id": 2,
         "core_periphery": "core",
         "degree": 0.0547945205479452,
         "partition": "national-unit",
         "role": "participant",
-        "slug": "france-national-police"
+        "slug": "france-national-police",
+        "x": 0.6750041668932794,
+        "y": 0.5371772176017297
       },
       {
         "betweenness": 0.0,
@@ -1757,11 +1822,14 @@
           "representative": 0,
           "total": 0
         },
+        "community_id": 3,
         "core_periphery": "periphery",
         "degree": 0.0136986301369863,
         "partition": "unknown",
         "role": "participant",
-        "slug": "france-police-nationale"
+        "slug": "france-police-nationale",
+        "x": 0.9656141491131678,
+        "y": 0.9226196531190539
       },
       {
         "betweenness": 0.0,
@@ -1773,11 +1841,14 @@
           "representative": 0,
           "total": 0
         },
+        "community_id": 3,
         "core_periphery": "periphery",
         "degree": 0.0136986301369863,
         "partition": "unknown",
         "role": "participant",
-        "slug": "france-police-nationale-gendarmerie-nationale"
+        "slug": "france-police-nationale-gendarmerie-nationale",
+        "x": 0.9888464175545162,
+        "y": 0.9227625353053703
       },
       {
         "betweenness": 0.0,
@@ -1789,11 +1860,14 @@
           "representative": 0,
           "total": 0
         },
+        "community_id": 0,
         "core_periphery": "periphery",
         "degree": 0.0136986301369863,
         "partition": "unknown",
         "role": "participant",
-        "slug": "french-high-tech-crime-unit"
+        "slug": "french-high-tech-crime-unit",
+        "x": 0.7366877633546415,
+        "y": -0.20024703227775492
       },
       {
         "betweenness": 0.0,
@@ -1805,11 +1879,14 @@
           "representative": 0,
           "total": 0
         },
+        "community_id": 0,
         "core_periphery": "periphery",
         "degree": 0.0136986301369863,
         "partition": "national-agency",
         "role": "participant",
-        "slug": "german-bka"
+        "slug": "german-bka",
+        "x": 0.6154699628930317,
+        "y": -0.019796323580774437
       },
       {
         "betweenness": 0.0,
@@ -1821,11 +1898,14 @@
           "representative": 0,
           "total": 0
         },
+        "community_id": 0,
         "core_periphery": "periphery",
         "degree": 0.0136986301369863,
         "partition": "prosecutorial-authority",
         "role": "participant",
-        "slug": "german-prosecution"
+        "slug": "german-prosecution",
+        "x": 0.5079907014062974,
+        "y": 0.09655793551048865
       },
       {
         "betweenness": 0.018760986024794,
@@ -1837,11 +1917,14 @@
           "representative": 47,
           "total": 230
         },
+        "community_id": 2,
         "core_periphery": "core",
         "degree": 0.2191780821917808,
         "partition": "national-agency",
         "role": "participant",
-        "slug": "germany-bka"
+        "slug": "germany-bka",
+        "x": 0.729728176847261,
+        "y": 0.4736943298348442
       },
       {
         "betweenness": 0.0016645833038508,
@@ -1853,11 +1936,14 @@
           "representative": 2,
           "total": 88
         },
+        "community_id": 2,
         "core_periphery": "core",
         "degree": 0.0410958904109589,
         "partition": "prosecution-office",
         "role": "participant",
-        "slug": "germany-frankfurt-prosecutor"
+        "slug": "germany-frankfurt-prosecutor",
+        "x": 0.7811542629891919,
+        "y": 0.5738827357477022
       },
       {
         "betweenness": 0.0012771006238811,
@@ -1869,11 +1955,14 @@
           "representative": 25,
           "total": 158
         },
+        "community_id": 2,
         "core_periphery": "core",
         "degree": 0.0547945205479452,
         "partition": "national-agency",
         "role": "participant",
-        "slug": "germany-lka"
+        "slug": "germany-lka",
+        "x": 0.7663491114995878,
+        "y": 0.5027935681508761
       },
       {
         "betweenness": 0.0,
@@ -1885,11 +1974,14 @@
           "representative": 0,
           "total": 0
         },
+        "community_id": 0,
         "core_periphery": "periphery",
         "degree": 0.0136986301369863,
         "partition": "private-sector-partner",
         "role": "participant",
-        "slug": "group-ib"
+        "slug": "group-ib",
+        "x": 0.9229477686628419,
+        "y": 0.08119497199868674
       },
       {
         "betweenness": 0.0,
@@ -1901,11 +1993,14 @@
           "representative": 0,
           "total": 0
         },
+        "community_id": 3,
         "core_periphery": "periphery",
         "degree": 0.0136986301369863,
         "partition": "unknown",
         "role": "participant",
-        "slug": "hungary-budapesti-rendor-fokapitanysag"
+        "slug": "hungary-budapesti-rendor-fokapitanysag",
+        "x": 1.0,
+        "y": 0.8639624866538994
       },
       {
         "betweenness": 0.0,
@@ -1917,11 +2012,14 @@
           "representative": 0,
           "total": 0
         },
+        "community_id": 1,
         "core_periphery": "periphery",
         "degree": 0.0136986301369863,
         "partition": "national-unit",
         "role": "participant",
-        "slug": "ic3"
+        "slug": "ic3",
+        "x": 0.4782906692319831,
+        "y": 0.42336111609323285
       },
       {
         "betweenness": 0.0,
@@ -1933,11 +2031,14 @@
           "representative": 0,
           "total": 0
         },
+        "community_id": 0,
         "core_periphery": "periphery",
         "degree": 0.0136986301369863,
         "partition": "international-org",
         "role": "participant",
-        "slug": "icann"
+        "slug": "icann",
+        "x": 0.48404408828581813,
+        "y": 0.1998912400975128
       },
       {
         "betweenness": 0.0,
@@ -1949,11 +2050,14 @@
           "representative": 0,
           "total": 0
         },
+        "community_id": 0,
         "core_periphery": "periphery",
         "degree": 0.0136986301369863,
         "partition": "private-sector",
         "role": "participant",
-        "slug": "intel-security"
+        "slug": "intel-security",
+        "x": 0.5574391185446277,
+        "y": -0.02412452132251299
       },
       {
         "betweenness": 0.1904569352743165,
@@ -1965,11 +2069,14 @@
           "representative": 36,
           "total": 370
         },
+        "community_id": 0,
         "core_periphery": "core",
         "degree": 0.1917808219178082,
         "partition": "international-org",
         "role": "liaison-broker",
-        "slug": "interpol"
+        "slug": "interpol",
+        "x": 0.3880569874154198,
+        "y": 0.20231069578160985
       },
       {
         "betweenness": 0.0001193139448173,
@@ -1981,11 +2088,14 @@
           "representative": 0,
           "total": 0
         },
+        "community_id": 0,
         "core_periphery": "periphery",
         "degree": 0.0273972602739726,
         "partition": "unknown",
         "role": "participant",
-        "slug": "interpol-asean-desk"
+        "slug": "interpol-asean-desk",
+        "x": 0.2200949627307341,
+        "y": 0.2298965101456018
       },
       {
         "betweenness": 0.0,
@@ -1997,11 +2107,14 @@
           "representative": 0,
           "total": 0
         },
+        "community_id": 5,
         "core_periphery": "periphery",
         "degree": 0.0136986301369863,
         "partition": "national-unit",
         "role": "participant",
-        "slug": "ireland-garda"
+        "slug": "ireland-garda",
+        "x": 0.8949837177702393,
+        "y": 0.6100778897473006
       },
       {
         "betweenness": 0.0,
@@ -2013,11 +2126,14 @@
           "representative": 0,
           "total": 0
         },
+        "community_id": 2,
         "core_periphery": "periphery",
         "degree": 0.0136986301369863,
         "partition": "unknown",
         "role": "participant",
-        "slug": "irs-ci"
+        "slug": "irs-ci",
+        "x": 0.9023359481797874,
+        "y": 0.22336678193299705
       },
       {
         "betweenness": 0.0,
@@ -2029,11 +2145,14 @@
           "representative": 0,
           "total": 0
         },
+        "community_id": 3,
         "core_periphery": "periphery",
         "degree": 0.0136986301369863,
         "partition": "unknown",
         "role": "participant",
-        "slug": "israel-police"
+        "slug": "israel-police",
+        "x": 0.9970354878671233,
+        "y": 0.8068250472465693
       },
       {
         "betweenness": 0.0,
@@ -2045,11 +2164,14 @@
           "representative": 0,
           "total": 0
         },
+        "community_id": 5,
         "core_periphery": "periphery",
         "degree": 0.0136986301369863,
         "partition": "national-agency",
         "role": "participant",
-        "slug": "italy-dcsa"
+        "slug": "italy-dcsa",
+        "x": 0.884973725824386,
+        "y": 0.6734576886695305
       },
       {
         "betweenness": 0.0039816377793031,
@@ -2061,11 +2183,14 @@
           "representative": 20,
           "total": 88
         },
+        "community_id": 0,
         "core_periphery": "core",
         "degree": 0.0547945205479452,
         "partition": "unknown",
         "role": "participant",
-        "slug": "j-cat"
+        "slug": "j-cat",
+        "x": 0.6230894221686679,
+        "y": 0.09032594281859492
       },
       {
         "betweenness": 0.0292017662573124,
@@ -2077,11 +2202,14 @@
           "representative": 16,
           "total": 60
         },
+        "community_id": 5,
         "core_periphery": "core",
         "degree": 0.0821917808219178,
         "partition": "national-agency",
         "role": "participant",
-        "slug": "japan-npa"
+        "slug": "japan-npa",
+        "x": 0.6123030074561243,
+        "y": 0.6315514690311894
       },
       {
         "betweenness": 0.0022499607392197,
@@ -2093,11 +2221,14 @@
           "representative": 11,
           "total": 54
         },
+        "community_id": 0,
         "core_periphery": "periphery",
         "degree": 0.0410958904109589,
         "partition": "private-sector",
         "role": "participant",
-        "slug": "kaspersky-lab"
+        "slug": "kaspersky-lab",
+        "x": 0.5271386025470738,
+        "y": 0.34065903774338285
       },
       {
         "betweenness": 0.0,
@@ -2109,11 +2240,14 @@
           "representative": 0,
           "total": 0
         },
+        "community_id": 0,
         "core_periphery": "periphery",
         "degree": 0.0136986301369863,
         "partition": "national-agency",
         "role": "participant",
-        "slug": "knpa"
+        "slug": "knpa",
+        "x": 0.19455803209886277,
+        "y": -0.043936211075073735
       },
       {
         "betweenness": 0.0038444209722315,
@@ -2125,11 +2259,14 @@
           "representative": 1,
           "total": 4
         },
+        "community_id": 5,
         "core_periphery": "periphery",
         "degree": 0.0410958904109589,
         "partition": "national-unit",
         "role": "participant",
-        "slug": "knpa-cyber-bureau"
+        "slug": "knpa-cyber-bureau",
+        "x": 0.35674323589776347,
+        "y": 0.5608717520092001
       },
       {
         "betweenness": 0.0,
@@ -2141,11 +2278,14 @@
           "representative": 0,
           "total": 0
         },
+        "community_id": 2,
         "core_periphery": "periphery",
         "degree": 0.0136986301369863,
         "partition": "national-unit",
         "role": "participant",
-        "slug": "latvia-state-police"
+        "slug": "latvia-state-police",
+        "x": 0.8165010840737907,
+        "y": 0.189304661936345
       },
       {
         "betweenness": 3.5359879677756065e-05,
@@ -2157,11 +2297,14 @@
           "representative": 0,
           "total": 0
         },
+        "community_id": 2,
         "core_periphery": "core",
         "degree": 0.0273972602739726,
         "partition": "national-unit",
         "role": "participant",
-        "slug": "lithuania-police"
+        "slug": "lithuania-police",
+        "x": 0.6299804418073465,
+        "y": 0.7931333902694222
       },
       {
         "betweenness": 0.0013973781246452,
@@ -2173,11 +2316,14 @@
           "representative": 2,
           "total": 12
         },
+        "community_id": 0,
         "core_periphery": "periphery",
         "degree": 0.0273972602739726,
         "partition": "national-agency",
         "role": "participant",
-        "slug": "london-metropolitan-police"
+        "slug": "london-metropolitan-police",
+        "x": 0.6243831903439011,
+        "y": 0.019875017453690125
       },
       {
         "betweenness": 0.0009966698632352,
@@ -2189,11 +2335,14 @@
           "representative": 2,
           "total": 26
         },
+        "community_id": 0,
         "core_periphery": "core",
         "degree": 0.0273972602739726,
         "partition": "private-sector",
         "role": "participant",
-        "slug": "microsoft"
+        "slug": "microsoft",
+        "x": 0.5434473592169884,
+        "y": 0.1620120814123394
       },
       {
         "betweenness": 0.0263004002361076,
@@ -2205,11 +2354,14 @@
           "representative": 108,
           "total": 420
         },
+        "community_id": 2,
         "core_periphery": "core",
         "degree": 0.2602739726027397,
         "partition": "national-unit",
         "role": "regional-coordinator",
-        "slug": "netherlands-politie"
+        "slug": "netherlands-politie",
+        "x": 0.7243348287996437,
+        "y": 0.49870755204136197
       },
       {
         "betweenness": 0.0,
@@ -2221,11 +2373,14 @@
           "representative": 0,
           "total": 0
         },
+        "community_id": 0,
         "core_periphery": "periphery",
         "degree": 0.0136986301369863,
         "partition": "unknown",
         "role": "participant",
-        "slug": "nigerian-efcc"
+        "slug": "nigerian-efcc",
+        "x": 0.19128093581448571,
+        "y": 0.28426200467407997
       },
       {
         "betweenness": 0.0,
@@ -2237,11 +2392,14 @@
           "representative": 0,
           "total": 0
         },
+        "community_id": 1,
         "core_periphery": "periphery",
         "degree": 0.0136986301369863,
         "partition": "national-agency",
         "role": "participant",
-        "slug": "pakistan-fia"
+        "slug": "pakistan-fia",
+        "x": 0.7564964153651581,
+        "y": 0.8739806794719124
       },
       {
         "betweenness": 0.0,
@@ -2253,11 +2411,14 @@
           "representative": 0,
           "total": 0
         },
+        "community_id": 0,
         "core_periphery": "periphery",
         "degree": 0.0136986301369863,
         "partition": "unknown",
         "role": "participant",
-        "slug": "polizia-di-stato"
+        "slug": "polizia-di-stato",
+        "x": 0.7111610574530602,
+        "y": 1.0
       },
       {
         "betweenness": 3.5359879677756065e-05,
@@ -2269,11 +2430,14 @@
           "representative": 0,
           "total": 0
         },
+        "community_id": 2,
         "core_periphery": "core",
         "degree": 0.0273972602739726,
         "partition": "national-unit",
         "role": "participant",
-        "slug": "portugal-police"
+        "slug": "portugal-police",
+        "x": 0.6656732980178622,
+        "y": 0.8356327589608044
       },
       {
         "betweenness": 0.0,
@@ -2285,11 +2449,14 @@
           "representative": 0,
           "total": 0
         },
+        "community_id": 3,
         "core_periphery": "periphery",
         "degree": 0.0136986301369863,
         "partition": "unknown",
         "role": "participant",
-        "slug": "portugal-policia-judiciaria"
+        "slug": "portugal-policia-judiciaria",
+        "x": 0.9486142577061716,
+        "y": 0.9843582844704045
       },
       {
         "betweenness": 0.0,
@@ -2301,11 +2468,14 @@
           "representative": 0,
           "total": 0
         },
+        "community_id": 0,
         "core_periphery": "periphery",
         "degree": 0.0136986301369863,
         "partition": "national-agency",
         "role": "participant",
-        "slug": "portuguese-judicial-police"
+        "slug": "portuguese-judicial-police",
+        "x": 0.5627172168063864,
+        "y": 0.7956735179805343
       },
       {
         "betweenness": 0.0,
@@ -2317,11 +2487,14 @@
           "representative": 0,
           "total": 0
         },
+        "community_id": 0,
         "core_periphery": "periphery",
         "degree": 0.0136986301369863,
         "partition": "prosecution-office",
         "role": "participant",
-        "slug": "romania-diicot"
+        "slug": "romania-diicot",
+        "x": 0.7485671146541393,
+        "y": 0.9162648114137133
       },
       {
         "betweenness": 3.5359879677756065e-05,
@@ -2333,11 +2506,14 @@
           "representative": 0,
           "total": 0
         },
+        "community_id": 2,
         "core_periphery": "core",
         "degree": 0.0273972602739726,
         "partition": "national-unit",
         "role": "participant",
-        "slug": "romania-police"
+        "slug": "romania-police",
+        "x": 0.6800797311656371,
+        "y": 0.8548449762249141
       },
       {
         "betweenness": 0.0,
@@ -2349,11 +2525,14 @@
           "representative": 0,
           "total": 0
         },
+        "community_id": 0,
         "core_periphery": "periphery",
         "degree": 0.0136986301369863,
         "partition": "national-agency",
         "role": "participant",
-        "slug": "romanian-police"
+        "slug": "romanian-police",
+        "x": 0.5004847163361374,
+        "y": 0.635284745453081
       },
       {
         "betweenness": 0.0,
@@ -2365,11 +2544,14 @@
           "representative": 0,
           "total": 0
         },
+        "community_id": 0,
         "core_periphery": "periphery",
         "degree": 0.0136986301369863,
         "partition": "unknown",
         "role": "participant",
-        "slug": "russian-ministry-of-interior"
+        "slug": "russian-ministry-of-interior",
+        "x": 0.4129389807422633,
+        "y": 0.1528090515487098
       },
       {
         "betweenness": 0.0,
@@ -2381,11 +2563,14 @@
           "representative": 0,
           "total": 0
         },
+        "community_id": 4,
         "core_periphery": "periphery",
         "degree": 0.0136986301369863,
         "partition": "national-unit",
         "role": "participant",
-        "slug": "seoul-metropolitan-police"
+        "slug": "seoul-metropolitan-police",
+        "x": -1.0,
+        "y": -0.9110726813479911
       },
       {
         "betweenness": 0.000605467886425,
@@ -2397,11 +2582,14 @@
           "representative": 9,
           "total": 32
         },
+        "community_id": 0,
         "core_periphery": "core",
         "degree": 0.0273972602739726,
         "partition": "private-sector",
         "role": "participant",
-        "slug": "shadowserver"
+        "slug": "shadowserver",
+        "x": 0.5505843549957116,
+        "y": 0.10899505829620147
       },
       {
         "betweenness": 0.0,
@@ -2413,11 +2601,14 @@
           "representative": 0,
           "total": 0
         },
+        "community_id": 5,
         "core_periphery": "periphery",
         "degree": 0.0136986301369863,
         "partition": "national-unit",
         "role": "participant",
-        "slug": "singapore-police"
+        "slug": "singapore-police",
+        "x": 0.3848367815615211,
+        "y": 0.8538138372781737
       },
       {
         "betweenness": 0.0002984785375472,
@@ -2429,11 +2620,14 @@
           "representative": 0,
           "total": 0
         },
+        "community_id": 5,
         "core_periphery": "core",
         "degree": 0.0410958904109589,
         "partition": "national-unit",
         "role": "participant",
-        "slug": "spain-guardia-civil"
+        "slug": "spain-guardia-civil",
+        "x": 0.7513350114310122,
+        "y": 0.7433893512156532
       },
       {
         "betweenness": 0.0,
@@ -2445,11 +2639,14 @@
           "representative": 0,
           "total": 0
         },
+        "community_id": 0,
         "core_periphery": "periphery",
         "degree": 0.0136986301369863,
         "partition": "national-unit",
         "role": "participant",
-        "slug": "spain-national-police"
+        "slug": "spain-national-police",
+        "x": 0.9363055740708114,
+        "y": 0.4155012254416687
       },
       {
         "betweenness": 0.0,
@@ -2461,11 +2658,14 @@
           "representative": 0,
           "total": 0
         },
+        "community_id": 3,
         "core_periphery": "core",
         "degree": 0.0136986301369863,
         "partition": "unknown",
         "role": "participant",
-        "slug": "spain-policia-nacional"
+        "slug": "spain-policia-nacional",
+        "x": 0.9706768392204681,
+        "y": 0.9717996942107412
       },
       {
         "betweenness": 0.0011084937033877,
@@ -2477,11 +2677,14 @@
           "representative": 12,
           "total": 38
         },
+        "community_id": 0,
         "core_periphery": "periphery",
         "degree": 0.0547945205479452,
         "partition": "national-agency",
         "role": "participant",
-        "slug": "spanish-national-police"
+        "slug": "spanish-national-police",
+        "x": 0.6105509511646048,
+        "y": 0.6749558259160853
       },
       {
         "betweenness": 0.0004529853532058,
@@ -2493,11 +2696,14 @@
           "representative": 7,
           "total": 28
         },
+        "community_id": 5,
         "core_periphery": "core",
         "degree": 0.0547945205479452,
         "partition": "national-unit",
         "role": "participant",
-        "slug": "sweden-police"
+        "slug": "sweden-police",
+        "x": 0.7864672582357345,
+        "y": 0.6581738389630095
       },
       {
         "betweenness": 0.000673500269712,
@@ -2509,11 +2715,14 @@
           "representative": 15,
           "total": 82
         },
+        "community_id": 2,
         "core_periphery": "core",
         "degree": 0.0547945205479452,
         "partition": "national-agency",
         "role": "participant",
-        "slug": "switzerland-fedpol"
+        "slug": "switzerland-fedpol",
+        "x": 0.7012827297887873,
+        "y": 0.7536758679944096
       },
       {
         "betweenness": 0.0,
@@ -2525,11 +2734,14 @@
           "representative": 0,
           "total": 0
         },
+        "community_id": 0,
         "core_periphery": "periphery",
         "degree": 0.0136986301369863,
         "partition": "unknown",
         "role": "participant",
-        "slug": "thai-royal-police"
+        "slug": "thai-royal-police",
+        "x": 0.7125448572925963,
+        "y": -0.21685071746462684
       },
       {
         "betweenness": 0.0029839165257348,
@@ -2541,11 +2753,14 @@
           "representative": 8,
           "total": 20
         },
+        "community_id": 0,
         "core_periphery": "periphery",
         "degree": 0.0273972602739726,
         "partition": "unknown",
         "role": "participant",
-        "slug": "trend-micro"
+        "slug": "trend-micro",
+        "x": 0.3667423053160957,
+        "y": 0.2581491646064453
       },
       {
         "betweenness": 0.0188454973331813,
@@ -2557,11 +2772,14 @@
           "representative": 94,
           "total": 366
         },
+        "community_id": 2,
         "core_periphery": "core",
         "degree": 0.2465753424657534,
         "partition": "national-agency",
         "role": "regional-coordinator",
-        "slug": "uk-nca"
+        "slug": "uk-nca",
+        "x": 0.7011867250096809,
+        "y": 0.5359118581765508
       },
       {
         "betweenness": 0.0007029164024663,
@@ -2573,11 +2791,14 @@
           "representative": 12,
           "total": 64
         },
+        "community_id": 2,
         "core_periphery": "core",
         "degree": 0.0547945205479452,
         "partition": "national-unit",
         "role": "participant",
-        "slug": "ukraine-police"
+        "slug": "ukraine-police",
+        "x": 0.6672121074989039,
+        "y": 0.5714518024858931
       },
       {
         "betweenness": 0.0,
@@ -2589,11 +2810,14 @@
           "representative": 0,
           "total": 0
         },
+        "community_id": 0,
         "core_periphery": "periphery",
         "degree": 0.0136986301369863,
         "partition": "international-org",
         "role": "participant",
-        "slug": "unodc"
+        "slug": "unodc",
+        "x": 0.17519730678219916,
+        "y": 0.09030186594105084
       },
       {
         "betweenness": 4.072080683865016e-05,
@@ -2605,11 +2829,14 @@
           "representative": 0,
           "total": 0
         },
+        "community_id": 2,
         "core_periphery": "core",
         "degree": 0.0273972602739726,
         "partition": "national-unit",
         "role": "participant",
-        "slug": "us-dcis"
+        "slug": "us-dcis",
+        "x": 0.7233487805966444,
+        "y": 0.8081268150727101
       },
       {
         "betweenness": 0.0025613597081706,
@@ -2621,11 +2848,14 @@
           "representative": 9,
           "total": 38
         },
+        "community_id": 1,
         "core_periphery": "periphery",
         "degree": 0.0547945205479452,
         "partition": "national-agency",
         "role": "participant",
-        "slug": "us-dhs"
+        "slug": "us-dhs",
+        "x": 0.5782339745556697,
+        "y": 0.21049666509869522
       },
       {
         "betweenness": 0.0460524250894281,
@@ -2637,11 +2867,14 @@
           "representative": 155,
           "total": 592
         },
+        "community_id": 1,
         "core_periphery": "core",
         "degree": 0.273972602739726,
         "partition": "national-agency",
         "role": "regional-coordinator",
-        "slug": "us-doj"
+        "slug": "us-doj",
+        "x": 0.6510028075448191,
+        "y": 0.40902622043637166
       },
       {
         "betweenness": 0.0,
@@ -2653,11 +2886,14 @@
           "representative": 0,
           "total": 0
         },
+        "community_id": 1,
         "core_periphery": "periphery",
         "degree": 0.0136986301369863,
         "partition": "unknown",
         "role": "participant",
-        "slug": "us-postal-inspection"
+        "slug": "us-postal-inspection",
+        "x": 0.6525326359819064,
+        "y": -0.1054554864844879
       },
       {
         "betweenness": 0.0111375236538578,
@@ -2669,11 +2905,14 @@
           "representative": 78,
           "total": 268
         },
+        "community_id": 2,
         "core_periphery": "core",
         "degree": 0.1232876712328767,
         "partition": "national-unit",
         "role": "participant",
-        "slug": "us-secret-service"
+        "slug": "us-secret-service",
+        "x": 0.6352487831426594,
+        "y": 0.44178415974005913
       },
       {
         "betweenness": 0.0005735382582691,
@@ -2685,13 +2924,383 @@
           "representative": 3,
           "total": 14
         },
+        "community_id": 1,
         "core_periphery": "periphery",
         "degree": 0.0410958904109589,
         "partition": "national-agency",
         "role": "participant",
-        "slug": "us-treasury"
+        "slug": "us-treasury",
+        "x": 0.7100267863292223,
+        "y": 0.11949776369588923
       }
     ],
+    "op_meta": {
+      "2bagoldmule-qqaazz": {
+        "community_id": 0,
+        "x": 0.6317373347802127,
+        "y": 0.5838560508513456
+      },
+      "africa-cyber-surge-ii": {
+        "community_id": 0,
+        "x": 0.31660437647043194,
+        "y": 0.07974823417990858
+      },
+      "alphabay-takedown": {
+        "community_id": 0,
+        "x": 0.7210885440447273,
+        "y": 0.3694428204603791
+      },
+      "andromeda-botnet-takedown": {
+        "community_id": 0,
+        "x": 0.6430552780591634,
+        "y": 0.23728312306123223
+      },
+      "belgium-netherlands-phishing-gang": {
+        "community_id": 0,
+        "x": 0.7769640371186475,
+        "y": 0.4353527949201162
+      },
+      "bidencash-takedown": {
+        "community_id": 0,
+        "x": 0.675509197470657,
+        "y": 0.3875106061152753
+      },
+      "blackcat-lockeroga-kelvin-security-2023": {
+        "community_id": 0,
+        "x": 0.7256074078531481,
+        "y": 0.31661970066572337
+      },
+      "carbanak-cobalt-takedown": {
+        "community_id": 0,
+        "x": 0.5865497156145292,
+        "y": 0.5106913776796932
+      },
+      "carding-action-2020": {
+        "community_id": 0,
+        "x": 0.8408108058179742,
+        "y": 0.22907013690432104
+      },
+      "cryptex-pm2btc-sanctions": {
+        "community_id": 1,
+        "x": 0.7219056980117481,
+        "y": 0.26143666505108587
+      },
+      "cyber-fraud-international-2015": {
+        "community_id": 0,
+        "x": 0.6969652345585913,
+        "y": 0.7198777869439075
+      },
+      "cyberbunker-takedown": {
+        "community_id": 2,
+        "x": 0.7796524679466732,
+        "y": 0.359048852413105
+      },
+      "darkmarket-takedown": {
+        "community_id": 2,
+        "x": 0.6857552458452201,
+        "y": 0.5655030976073817
+      },
+      "de-ch-crypto-mixer-takedown-2025": {
+        "community_id": 0,
+        "x": 0.8005987562699999,
+        "y": 0.43406852671048335
+      },
+      "doublevpn-takedown": {
+        "community_id": 2,
+        "x": 0.6876307480867438,
+        "y": 0.4612541724373017
+      },
+      "dridex-operations": {
+        "community_id": 0,
+        "x": 0.7020562548446457,
+        "y": 0.33058960046066804
+      },
+      "emotet-takedown": {
+        "community_id": 0,
+        "x": 0.7359980682873037,
+        "y": 0.4036698616904786
+      },
+      "fin7-takedown": {
+        "community_id": 0,
+        "x": 0.5988262255606154,
+        "y": 0.3533475829715001
+      },
+      "franco-israeli-ceo-fraud": {
+        "community_id": 3,
+        "x": 0.9026209454829859,
+        "y": 0.7873407991847878
+      },
+      "imminent-monitor-rat-takedown": {
+        "community_id": 0,
+        "x": 0.789085912160214,
+        "y": 0.5192533941768255
+      },
+      "korea-china-voice-phishing-qingdao": {
+        "community_id": 4,
+        "x": -0.9563915787792068,
+        "y": -0.9258834928101266
+      },
+      "lumma-stealer-takedown": {
+        "community_id": 0,
+        "x": 0.6284572250113863,
+        "y": 0.4934062201601345
+      },
+      "nemesis-market-takedown": {
+        "community_id": 2,
+        "x": 0.8118019868238692,
+        "y": 0.3576169699068667
+      },
+      "operation-105-arrested-for-stealing-over-eur-12-million-from-us-based-banks": {
+        "community_id": 0,
+        "x": 0.6673015045609418,
+        "y": 0.29373398785688026
+      },
+      "operation-australian-man-arrested-in-germany-accused-of-running-world-s-largest-darknet-marketplace": {
+        "community_id": 0,
+        "x": 0.7872380078580302,
+        "y": 0.32142878534701347
+      },
+      "operation-avalanche": {
+        "community_id": 0,
+        "x": 0.573884976809202,
+        "y": 0.30103580546124536
+      },
+      "operation-bakovia": {
+        "community_id": 0,
+        "x": 0.719961271116085,
+        "y": 0.6387109177529475
+      },
+      "operation-chakra-iii": {
+        "community_id": 0,
+        "x": 0.5121762631177713,
+        "y": 0.23546252238846654
+      },
+      "operation-contender-2": {
+        "community_id": 0,
+        "x": 0.30239292039099785,
+        "y": 0.10430389888284775
+      },
+      "operation-cronos-phase1": {
+        "community_id": 2,
+        "x": 0.7134957965484412,
+        "y": 0.5923836651652097
+      },
+      "operation-cronos-phase3": {
+        "community_id": 2,
+        "x": 0.7221357218457481,
+        "y": 0.5987463566355138
+      },
+      "operation-cyber-guardian": {
+        "community_id": 5,
+        "x": 0.45472429266232217,
+        "y": 0.7041803571007866
+      },
+      "operation-dark-huntor": {
+        "community_id": 0,
+        "x": 0.6967461916147769,
+        "y": 0.4234667362374865
+      },
+      "operation-destabilise": {
+        "community_id": 0,
+        "x": 0.6140563079798057,
+        "y": 0.5465424881616658
+      },
+      "operation-endgame": {
+        "community_id": 2,
+        "x": 0.6942208251611371,
+        "y": 0.6515921140530173
+      },
+      "operation-endgame-phase1": {
+        "community_id": 2,
+        "x": 0.6768253371262429,
+        "y": 0.6525247482568904
+      },
+      "operation-endgame-phase2": {
+        "community_id": 2,
+        "x": 0.7035014988306313,
+        "y": 0.588048276147404
+      },
+      "operation-eur-100m-crypto-investment-fraud-2025": {
+        "community_id": 0,
+        "x": 0.83168337843648,
+        "y": 0.43724709643541215
+      },
+      "operation-eur-100m-illegal-financial-service-laundering-2025": {
+        "community_id": 0,
+        "x": 0.7723738292828504,
+        "y": 0.6268333815597392
+      },
+      "operation-eur-300m-global-credit-card-fraud-2025": {
+        "community_id": 0,
+        "x": 0.7656539205788834,
+        "y": 0.5326199924838438
+      },
+      "operation-eur-3m-online-investment-fraud-2025": {
+        "community_id": 0,
+        "x": 0.7597197634879531,
+        "y": 0.568455667777813
+      },
+      "operation-goldfish-alpha-night-fury": {
+        "community_id": 0,
+        "x": 0.2836760142103021,
+        "y": 0.2049993980093061
+      },
+      "operation-haechi-iii": {
+        "community_id": 0,
+        "x": 0.2723919509399166,
+        "y": 0.06113022758409783
+      },
+      "operation-haechi-iv": {
+        "community_id": 0,
+        "x": 0.3244757920021548,
+        "y": 0.386819521843161
+      },
+      "operation-haechi-vi": {
+        "community_id": 0,
+        "x": 0.33889466122194173,
+        "y": 0.39282111826876837
+      },
+      "operation-heart-blocker": {
+        "community_id": 1,
+        "x": 0.6994961916448128,
+        "y": 0.6316972406123431
+      },
+      "operation-killer-bee": {
+        "community_id": 0,
+        "x": 0.2811486451140799,
+        "y": 0.25568081987842234
+      },
+      "operation-kraken-ghost-platform": {
+        "community_id": 2,
+        "x": 0.790435228753304,
+        "y": 0.568989627903584
+      },
+      "operation-onymous": {
+        "community_id": 0,
+        "x": 0.6521012055118465,
+        "y": 0.3288545109382225
+      },
+      "operation-orion-international": {
+        "community_id": 0,
+        "x": 0.26249145048101963,
+        "y": 0.14060936695550805
+      },
+      "operation-pleiades": {
+        "community_id": 0,
+        "x": 0.5792967805529455,
+        "y": 0.2586199271788545
+      },
+      "operation-power-off": {
+        "community_id": 2,
+        "x": 0.6838952440460948,
+        "y": 0.5157888079936743
+      },
+      "operation-red-card": {
+        "community_id": 0,
+        "x": 0.3271020890763224,
+        "y": 0.020022900278943736
+      },
+      "operation-rewired": {
+        "community_id": 1,
+        "x": 0.5724786330281361,
+        "y": 0.38132412587767495
+      },
+      "operation-secreto": {
+        "community_id": 0,
+        "x": 0.6471710868193074,
+        "y": 0.5227773043803431
+      },
+      "operation-sentinel-africa": {
+        "community_id": 0,
+        "x": 0.31261574236490375,
+        "y": 0.04203505776195442
+      },
+      "operation-source": {
+        "community_id": 0,
+        "x": 0.59760750902922,
+        "y": 0.2145332933444364
+      },
+      "operation-stream-kidflix": {
+        "community_id": 2,
+        "x": 0.7708596502998218,
+        "y": 0.389570884817713
+      },
+      "operation-talent": {
+        "community_id": 0,
+        "x": 0.689632742374697,
+        "y": 0.34714821776296784
+      },
+      "operation-trojan-shield": {
+        "community_id": 2,
+        "x": 0.746639055142009,
+        "y": 0.5207626690220729
+      },
+      "operation-wirewire": {
+        "community_id": 1,
+        "x": 0.6489015484241835,
+        "y": 0.15489600657456631
+      },
+      "phobos-8base-crackdown": {
+        "community_id": 0,
+        "x": 0.6877181754149242,
+        "y": 0.5901145721611056
+      },
+      "proxy-service-takedown-2026-03": {
+        "community_id": 0,
+        "x": 0.7948388291816705,
+        "y": 0.38884439266542176
+      },
+      "qqaazz-money-laundering-takedown": {
+        "community_id": 0,
+        "x": 0.7097098556757585,
+        "y": 0.2420073877240491
+      },
+      "ramnit-botnet-takedown": {
+        "community_id": 0,
+        "x": 0.7525139291678221,
+        "y": 0.6167245346323474
+      },
+      "rex-mundi-takedown": {
+        "community_id": 0,
+        "x": 0.6982957249930352,
+        "y": 0.02591523307436733
+      },
+      "rydox-marketplace-takedown": {
+        "community_id": 0,
+        "x": 0.6540108568462872,
+        "y": 0.23117579553076414
+      },
+      "silk-road-takedown": {
+        "community_id": 0,
+        "x": 0.6212720494226458,
+        "y": 0.2717785617416632
+      },
+      "simda-botnet-takedown": {
+        "community_id": 0,
+        "x": 0.48675759459060525,
+        "y": 0.2628734545089127
+      },
+      "trickbot-operations": {
+        "community_id": 0,
+        "x": 0.5949689556261718,
+        "y": 0.42305392103020734
+      },
+      "vpnlab-takedown": {
+        "community_id": 2,
+        "x": 0.7387944946630848,
+        "y": 0.3866566838751402
+      },
+      "xdedic-marketplace-takedown": {
+        "community_id": 0,
+        "x": 0.6932756872382719,
+        "y": 0.2491604361628966
+      },
+      "zeus-spyeye-jit-takedown": {
+        "community_id": 0,
+        "x": 0.8042710850878233,
+        "y": 0.48499904728868265
+      }
+    },
     "operations": [
       "2bagoldmule-qqaazz",
       "africa-cyber-surge-ii",
@@ -2769,6 +3378,12 @@
     ]
   },
   "country": {
+    "community_colors": [
+      "#6ef2dc",
+      "#8e7dff",
+      "#ffbf59",
+      "#ff6f61"
+    ],
     "edges": [
       [
         "2bagoldmule-qqaazz",
@@ -5066,11 +5681,14 @@
           "representative": 0,
           "total": 232
         },
+        "community_id": 1,
         "core_periphery": "core",
         "degree": 0.0410958904109589,
         "partition": "balkans",
         "role": "participant",
-        "slug": "albania"
+        "slug": "albania",
+        "x": 0.07609781774280482,
+        "y": -0.1690301626048739
       },
       {
         "betweenness": 0.0282173094660549,
@@ -5082,11 +5700,14 @@
           "representative": 287,
           "total": 574
         },
+        "community_id": 2,
         "core_periphery": "core",
         "degree": 0.0273972602739726,
         "partition": "south-america",
         "role": "specialist-broker",
-        "slug": "argentina"
+        "slug": "argentina",
+        "x": 0.15974490491524662,
+        "y": -0.40784858072202806
       },
       {
         "betweenness": 0.0018046841354383,
@@ -5098,11 +5719,14 @@
           "representative": 54,
           "total": 638
         },
+        "community_id": 0,
         "core_periphery": "core",
         "degree": 0.0547945205479452,
         "partition": "eastern-europe",
         "role": "participant",
-        "slug": "armenia"
+        "slug": "armenia",
+        "x": 0.15934942396651042,
+        "y": -0.04781052404046295
       },
       {
         "betweenness": 0.031568373870332,
@@ -5114,11 +5738,14 @@
           "representative": 0,
           "total": 1884
         },
+        "community_id": 0,
         "core_periphery": "core",
         "degree": 0.2602739726027397,
         "partition": "oceania",
         "role": "participant",
-        "slug": "australia"
+        "slug": "australia",
+        "x": 0.23304191936859062,
+        "y": 0.11609081553947165
       },
       {
         "betweenness": 0.0128231712852194,
@@ -5130,11 +5757,14 @@
           "representative": 147,
           "total": 1184
         },
+        "community_id": 0,
         "core_periphery": "core",
         "degree": 0.1232876712328767,
         "partition": "western-europe",
         "role": "participant",
-        "slug": "austria"
+        "slug": "austria",
+        "x": 0.28027087623303437,
+        "y": 0.173352097005297
       },
       {
         "betweenness": 0.0,
@@ -5146,11 +5776,14 @@
           "representative": 0,
           "total": 0
         },
+        "community_id": 0,
         "core_periphery": "core",
         "degree": 0.0136986301369863,
         "partition": "caucasus",
         "role": "participant",
-        "slug": "azerbaijan"
+        "slug": "azerbaijan",
+        "x": 0.20492035277223816,
+        "y": -0.35309237587023906
       },
       {
         "betweenness": 7.49475796479074e-05,
@@ -5162,11 +5795,14 @@
           "representative": 0,
           "total": 0
         },
+        "community_id": 0,
         "core_periphery": "core",
         "degree": 0.0273972602739726,
         "partition": "eastern-europe",
         "role": "participant",
-        "slug": "belarus"
+        "slug": "belarus",
+        "x": 0.14888794577212228,
+        "y": -0.2589764236999776
       },
       {
         "betweenness": 0.0091412980890575,
@@ -5178,11 +5814,14 @@
           "representative": 51,
           "total": 448
         },
+        "community_id": 0,
         "core_periphery": "core",
         "degree": 0.1232876712328767,
         "partition": "western-europe",
         "role": "participant",
-        "slug": "belgium"
+        "slug": "belgium",
+        "x": 0.3955555587041572,
+        "y": 0.1011456789200249
       },
       {
         "betweenness": 0.0,
@@ -5194,11 +5833,14 @@
           "representative": 0,
           "total": 0
         },
+        "community_id": 0,
         "core_periphery": "core",
         "degree": 0.0136986301369863,
         "partition": "central-america",
         "role": "participant",
-        "slug": "belize"
+        "slug": "belize",
+        "x": 0.32202202467887253,
+        "y": -0.34515713179969276
       },
       {
         "betweenness": 0.0008541330778899,
@@ -5210,11 +5852,14 @@
           "representative": 29,
           "total": 90
         },
+        "community_id": 3,
         "core_periphery": "core",
         "degree": 0.0273972602739726,
         "partition": "west-africa",
         "role": "participant",
-        "slug": "benin"
+        "slug": "benin",
+        "x": -0.6039928196170357,
+        "y": 0.8492471503474596
       },
       {
         "betweenness": 0.0,
@@ -5226,11 +5871,14 @@
           "representative": 0,
           "total": 0
         },
+        "community_id": 2,
         "core_periphery": "core",
         "degree": 0.0136986301369863,
         "partition": "south-america",
         "role": "participant",
-        "slug": "bolivia"
+        "slug": "bolivia",
+        "x": 0.3427008114261581,
+        "y": -0.9742985203889457
       },
       {
         "betweenness": 0.0,
@@ -5242,11 +5890,14 @@
           "representative": 0,
           "total": 0
         },
+        "community_id": 0,
         "core_periphery": "core",
         "degree": 0.0136986301369863,
         "partition": "southeastern-europe",
         "role": "participant",
-        "slug": "bosnia-and-herzegovina"
+        "slug": "bosnia-and-herzegovina",
+        "x": 0.35879641125586736,
+        "y": 0.5316161984854941
       },
       {
         "betweenness": 0.0,
@@ -5258,11 +5909,14 @@
           "representative": 0,
           "total": 0
         },
+        "community_id": 3,
         "core_periphery": "core",
         "degree": 0.0136986301369863,
         "partition": "unknown",
         "role": "participant",
-        "slug": "botswana"
+        "slug": "botswana",
+        "x": -1.0,
+        "y": 0.7663444662746024
       },
       {
         "betweenness": 0.0431051370709581,
@@ -5274,11 +5928,14 @@
           "representative": 328,
           "total": 748
         },
+        "community_id": 2,
         "core_periphery": "core",
         "degree": 0.0410958904109589,
         "partition": "south-america",
         "role": "specialist-broker",
-        "slug": "brazil"
+        "slug": "brazil",
+        "x": 0.21790538816792773,
+        "y": -0.32412438875088845
       },
       {
         "betweenness": 0.0003634739937482,
@@ -5290,11 +5947,14 @@
           "representative": 17,
           "total": 56
         },
+        "community_id": 1,
         "core_periphery": "core",
         "degree": 0.0273972602739726,
         "partition": "unknown",
         "role": "participant",
-        "slug": "brunei"
+        "slug": "brunei",
+        "x": -0.4529795734930386,
+        "y": 0.13990534246088082
       },
       {
         "betweenness": 0.0068483763943499,
@@ -5306,11 +5966,14 @@
           "representative": 84,
           "total": 818
         },
+        "community_id": 0,
         "core_periphery": "core",
         "degree": 0.136986301369863,
         "partition": "eastern-europe",
         "role": "participant",
-        "slug": "bulgaria"
+        "slug": "bulgaria",
+        "x": 0.2576109887875754,
+        "y": 0.036304829664813576
       },
       {
         "betweenness": 0.0,
@@ -5322,11 +5985,14 @@
           "representative": 0,
           "total": 0
         },
+        "community_id": 3,
         "core_periphery": "core",
         "degree": 0.0136986301369863,
         "partition": "unknown",
         "role": "participant",
-        "slug": "burkina-faso"
+        "slug": "burkina-faso",
+        "x": -0.967042664392166,
+        "y": 0.7204231709772162
       },
       {
         "betweenness": 0.0012987690537114,
@@ -5338,11 +6004,14 @@
           "representative": 91,
           "total": 234
         },
+        "community_id": 1,
         "core_periphery": "core",
         "degree": 0.0410958904109589,
         "partition": "unknown",
         "role": "participant",
-        "slug": "cambodia"
+        "slug": "cambodia",
+        "x": -0.2659217253206868,
+        "y": 0.17612800581492413
       },
       {
         "betweenness": 0.0008563535911602,
@@ -5354,11 +6023,14 @@
           "representative": 0,
           "total": 90
         },
+        "community_id": 3,
         "core_periphery": "core",
         "degree": 0.0273972602739726,
         "partition": "central-africa",
         "role": "participant",
-        "slug": "cameroon"
+        "slug": "cameroon",
+        "x": -0.602357582272723,
+        "y": 0.7906721737659199
       },
       {
         "betweenness": 0.013820912036271,
@@ -5370,11 +6042,14 @@
           "representative": 0,
           "total": 1174
         },
+        "community_id": 0,
         "core_periphery": "core",
         "degree": 0.2054794520547945,
         "partition": "north-america",
         "role": "participant",
-        "slug": "canada"
+        "slug": "canada",
+        "x": 0.22033627290444807,
+        "y": 0.1375938103625862
       },
       {
         "betweenness": 0.0,
@@ -5386,11 +6061,14 @@
           "representative": 0,
           "total": 0
         },
+        "community_id": 3,
         "core_periphery": "core",
         "degree": 0.0136986301369863,
         "partition": "unknown",
         "role": "participant",
-        "slug": "chad"
+        "slug": "chad",
+        "x": -0.933628450560753,
+        "y": 0.9011703559065362
       },
       {
         "betweenness": 0.0,
@@ -5402,11 +6080,14 @@
           "representative": 0,
           "total": 0
         },
+        "community_id": 2,
         "core_periphery": "core",
         "degree": 0.0136986301369863,
         "partition": "south-america",
         "role": "participant",
-        "slug": "chile"
+        "slug": "chile",
+        "x": 0.5481032912312096,
+        "y": -0.9165950809898993
       },
       {
         "betweenness": 0.0027809593758444,
@@ -5418,11 +6099,14 @@
           "representative": 0,
           "total": 0
         },
+        "community_id": 1,
         "core_periphery": "core",
         "degree": 0.0273972602739726,
         "partition": "east-asia",
         "role": "participant",
-        "slug": "china"
+        "slug": "china",
+        "x": -0.3369509843630044,
+        "y": -0.11807076742075195
       },
       {
         "betweenness": 0.0329612163363179,
@@ -5434,11 +6118,14 @@
           "representative": 301,
           "total": 624
         },
+        "community_id": 2,
         "core_periphery": "core",
         "degree": 0.0410958904109589,
         "partition": "south-america",
         "role": "specialist-broker",
-        "slug": "colombia"
+        "slug": "colombia",
+        "x": 0.3704065077726595,
+        "y": -0.38918679994958605
       },
       {
         "betweenness": 0.0,
@@ -5450,11 +6137,14 @@
           "representative": 0,
           "total": 0
         },
+        "community_id": 3,
         "core_periphery": "core",
         "degree": 0.0136986301369863,
         "partition": "unknown",
         "role": "participant",
-        "slug": "congo"
+        "slug": "congo",
+        "x": -0.8368652345424735,
+        "y": 0.9583590716139847
       },
       {
         "betweenness": 0.0,
@@ -5466,11 +6156,14 @@
           "representative": 0,
           "total": 0
         },
+        "community_id": 1,
         "core_periphery": "core",
         "degree": 0.0136986301369863,
         "partition": "unknown",
         "role": "participant",
-        "slug": "cote-d-ivoire"
+        "slug": "cote-d-ivoire",
+        "x": -0.47974772747649375,
+        "y": 0.20501914926420095
       },
       {
         "betweenness": 0.0006913662593163,
@@ -5482,11 +6175,14 @@
           "representative": 4,
           "total": 20
         },
+        "community_id": 3,
         "core_periphery": "core",
         "degree": 0.0273972602739726,
         "partition": "west-africa",
         "role": "participant",
-        "slug": "cote-divoire"
+        "slug": "cote-divoire",
+        "x": -0.16705171986819603,
+        "y": 0.6931743988069317
       },
       {
         "betweenness": 0.0,
@@ -5498,11 +6194,14 @@
           "representative": 0,
           "total": 0
         },
+        "community_id": 0,
         "core_periphery": "core",
         "degree": 0.0136986301369863,
         "partition": "southeastern-europe",
         "role": "participant",
-        "slug": "croatia"
+        "slug": "croatia",
+        "x": 0.9258251716788292,
+        "y": -0.19218080673041285
       },
       {
         "betweenness": 0.0004615052152687,
@@ -5514,11 +6213,14 @@
           "representative": 0,
           "total": 28
         },
+        "community_id": 0,
         "core_periphery": "core",
         "degree": 0.0547945205479452,
         "partition": "eastern-mediterranean",
         "role": "participant",
-        "slug": "cyprus"
+        "slug": "cyprus",
+        "x": 0.4735180416674248,
+        "y": -0.21022727192025772
       },
       {
         "betweenness": 0.0003169964270976,
@@ -5530,11 +6232,14 @@
           "representative": 1,
           "total": 36
         },
+        "community_id": 0,
         "core_periphery": "core",
         "degree": 0.0547945205479452,
         "partition": "central-europe",
         "role": "participant",
-        "slug": "czech-republic"
+        "slug": "czech-republic",
+        "x": 0.5658551725329514,
+        "y": -0.033473222922273733
       },
       {
         "betweenness": 0.0,
@@ -5546,11 +6251,14 @@
           "representative": 0,
           "total": 0
         },
+        "community_id": 0,
         "core_periphery": "core",
         "degree": 0.0136986301369863,
         "partition": "central-europe",
         "role": "participant",
-        "slug": "czechia"
+        "slug": "czechia",
+        "x": -0.10648650969547256,
+        "y": -0.1977320323135619
       },
       {
         "betweenness": 0.0,
@@ -5562,11 +6270,14 @@
           "representative": 0,
           "total": 0
         },
+        "community_id": 3,
         "core_periphery": "core",
         "degree": 0.0136986301369863,
         "partition": "unknown",
         "role": "participant",
-        "slug": "democratic-republic-of-the-congo"
+        "slug": "democratic-republic-of-the-congo",
+        "x": -0.8121383915735637,
+        "y": 0.9066391751840905
       },
       {
         "betweenness": 0.0011016437424618,
@@ -5578,11 +6289,14 @@
           "representative": 1,
           "total": 26
         },
+        "community_id": 0,
         "core_periphery": "core",
         "degree": 0.0958904109589041,
         "partition": "northern-europe",
         "role": "participant",
-        "slug": "denmark"
+        "slug": "denmark",
+        "x": 0.5704576284136914,
+        "y": 0.13895889396989988
       },
       {
         "betweenness": 0.0,
@@ -5594,11 +6308,14 @@
           "representative": 0,
           "total": 0
         },
+        "community_id": 3,
         "core_periphery": "core",
         "degree": 0.0136986301369863,
         "partition": "unknown",
         "role": "participant",
-        "slug": "djibouti"
+        "slug": "djibouti",
+        "x": -0.972163799934361,
+        "y": 0.8644018802320141
       },
       {
         "betweenness": 0.0,
@@ -5610,11 +6327,14 @@
           "representative": 0,
           "total": 0
         },
+        "community_id": 2,
         "core_periphery": "core",
         "degree": 0.0136986301369863,
         "partition": "south-america",
         "role": "participant",
-        "slug": "ecuador"
+        "slug": "ecuador",
+        "x": 0.4736653605740484,
+        "y": -0.9435601639456527
       },
       {
         "betweenness": 0.0,
@@ -5626,11 +6346,14 @@
           "representative": 0,
           "total": 0
         },
+        "community_id": 0,
         "core_periphery": "core",
         "degree": 0.0136986301369863,
         "partition": "unknown",
         "role": "participant",
-        "slug": "eu-member-states"
+        "slug": "eu-member-states",
+        "x": 0.9119520057782927,
+        "y": 0.4691937352548363
       },
       {
         "betweenness": 0.0071827501888891,
@@ -5642,11 +6365,14 @@
           "representative": 24,
           "total": 384
         },
+        "community_id": 0,
         "core_periphery": "core",
         "degree": 0.0958904109589041,
         "partition": "northern-europe",
         "role": "participant",
-        "slug": "finland"
+        "slug": "finland",
+        "x": 0.1838385363878229,
+        "y": 0.18520567886939865
       },
       {
         "betweenness": 0.0464640644064116,
@@ -5658,11 +6384,14 @@
           "representative": 209,
           "total": 1974
         },
+        "community_id": 0,
         "core_periphery": "core",
         "degree": 0.3424657534246575,
         "partition": "western-europe",
         "role": "regional-coordinator",
-        "slug": "france"
+        "slug": "france",
+        "x": 0.2802116536871921,
+        "y": 0.1274278505350398
       },
       {
         "betweenness": 0.0,
@@ -5674,11 +6403,14 @@
           "representative": 0,
           "total": 0
         },
+        "community_id": 3,
         "core_periphery": "core",
         "degree": 0.0136986301369863,
         "partition": "unknown",
         "role": "participant",
-        "slug": "gabon"
+        "slug": "gabon",
+        "x": -0.9261665992949315,
+        "y": 0.7747157129632128
       },
       {
         "betweenness": 0.0,
@@ -5690,11 +6422,14 @@
           "representative": 0,
           "total": 0
         },
+        "community_id": 3,
         "core_periphery": "core",
         "degree": 0.0136986301369863,
         "partition": "west-africa",
         "role": "participant",
-        "slug": "gambia"
+        "slug": "gambia",
+        "x": -0.48127724303935926,
+        "y": 0.8980753413766183
       },
       {
         "betweenness": 0.0001347486882913,
@@ -5706,11 +6441,14 @@
           "representative": 0,
           "total": 0
         },
+        "community_id": 0,
         "core_periphery": "core",
         "degree": 0.0410958904109589,
         "partition": "south-caucasus",
         "role": "participant",
-        "slug": "georgia"
+        "slug": "georgia",
+        "x": 0.533420767967925,
+        "y": -0.15252372430986413
       },
       {
         "betweenness": 0.0693535699428141,
@@ -5722,11 +6460,14 @@
           "representative": 171,
           "total": 1554
         },
+        "community_id": 0,
         "core_periphery": "core",
         "degree": 0.4383561643835616,
         "partition": "western-europe",
         "role": "regional-coordinator",
-        "slug": "germany"
+        "slug": "germany",
+        "x": 0.37444453663775873,
+        "y": 0.08682503010368081
       },
       {
         "betweenness": 0.0439266995308931,
@@ -5738,11 +6479,14 @@
           "representative": 40,
           "total": 1546
         },
+        "community_id": 3,
         "core_periphery": "core",
         "degree": 0.0547945205479452,
         "partition": "west-africa",
         "role": "specialist-broker",
-        "slug": "ghana"
+        "slug": "ghana",
+        "x": -0.3137978581228818,
+        "y": 0.372943244791273
       },
       {
         "betweenness": 9.746338198784892e-05,
@@ -5754,11 +6498,14 @@
           "representative": 1,
           "total": 2
         },
+        "community_id": 0,
         "core_periphery": "core",
         "degree": 0.0410958904109589,
         "partition": "southern-europe",
         "role": "participant",
-        "slug": "greece"
+        "slug": "greece",
+        "x": 0.7237792197572788,
+        "y": 0.20075799353252735
       },
       {
         "betweenness": 0.0,
@@ -5770,11 +6517,14 @@
           "representative": 0,
           "total": 0
         },
+        "community_id": 2,
         "core_periphery": "core",
         "degree": 0.0136986301369863,
         "partition": "south-america",
         "role": "participant",
-        "slug": "guyana"
+        "slug": "guyana",
+        "x": 0.6289048930661266,
+        "y": -0.8944560179590461
       },
       {
         "betweenness": 0.0,
@@ -5786,11 +6536,14 @@
           "representative": 0,
           "total": 0
         },
+        "community_id": 1,
         "core_periphery": "core",
         "degree": 0.0136986301369863,
         "partition": "east-asia",
         "role": "participant",
-        "slug": "hong-kong"
+        "slug": "hong-kong",
+        "x": -0.5889657225577255,
+        "y": -0.1522402673269963
       },
       {
         "betweenness": 0.0,
@@ -5802,11 +6555,14 @@
           "representative": 0,
           "total": 0
         },
+        "community_id": 1,
         "core_periphery": "core",
         "degree": 0.0136986301369863,
         "partition": "unknown",
         "role": "participant",
-        "slug": "hong-kong-china"
+        "slug": "hong-kong-china",
+        "x": -0.3941940490242136,
+        "y": 0.26845936770931644
       },
       {
         "betweenness": 0.0026540713265877,
@@ -5818,11 +6574,14 @@
           "representative": 11,
           "total": 208
         },
+        "community_id": 0,
         "core_periphery": "core",
         "degree": 0.0684931506849315,
         "partition": "central-europe",
         "role": "participant",
-        "slug": "hungary"
+        "slug": "hungary",
+        "x": 0.5352090355075335,
+        "y": -0.09324010918300586
       },
       {
         "betweenness": 3.973433045878254e-05,
@@ -5834,11 +6593,14 @@
           "representative": 0,
           "total": 2
         },
+        "community_id": 0,
         "core_periphery": "core",
         "degree": 0.0273972602739726,
         "partition": "northern-europe",
         "role": "participant",
-        "slug": "iceland"
+        "slug": "iceland",
+        "x": 0.1332969297466339,
+        "y": 0.4630780962373147
       },
       {
         "betweenness": 0.0053960163680983,
@@ -5850,11 +6612,14 @@
           "representative": 0,
           "total": 892
         },
+        "community_id": 1,
         "core_periphery": "core",
         "degree": 0.0684931506849315,
         "partition": "south-asia",
         "role": "participant",
-        "slug": "india"
+        "slug": "india",
+        "x": -0.057400421368521325,
+        "y": 0.06128351755932831
       },
       {
         "betweenness": 0.0027305060977856,
@@ -5866,11 +6631,14 @@
           "representative": 0,
           "total": 234
         },
+        "community_id": 1,
         "core_periphery": "core",
         "degree": 0.0547945205479452,
         "partition": "southeast-asia",
         "role": "participant",
-        "slug": "indonesia"
+        "slug": "indonesia",
+        "x": -0.29130108387012493,
+        "y": 0.06455662974763317
       },
       {
         "betweenness": 0.0,
@@ -5882,11 +6650,14 @@
           "representative": 0,
           "total": 0
         },
+        "community_id": 0,
         "core_periphery": "core",
         "degree": 0.0136986301369863,
         "partition": "transnational",
         "role": "participant",
-        "slug": "international"
+        "slug": "international",
+        "x": 0.5767144228341309,
+        "y": 0.5260707182388848
       },
       {
         "betweenness": 0.0036601040495461,
@@ -5898,11 +6669,14 @@
           "representative": 97,
           "total": 664
         },
+        "community_id": 1,
         "core_periphery": "core",
         "degree": 0.0684931506849315,
         "partition": "western-europe",
         "role": "participant",
-        "slug": "ireland"
+        "slug": "ireland",
+        "x": 0.058720310668853186,
+        "y": 0.2037150177201649
       },
       {
         "betweenness": 0.0002783118346341,
@@ -5914,11 +6688,14 @@
           "representative": 0,
           "total": 20
         },
+        "community_id": 0,
         "core_periphery": "core",
         "degree": 0.0273972602739726,
         "partition": "middle-east",
         "role": "participant",
-        "slug": "israel"
+        "slug": "israel",
+        "x": 0.7098483768595506,
+        "y": -0.23490965044903878
       },
       {
         "betweenness": 0.0114559477647132,
@@ -5930,11 +6707,14 @@
           "representative": 37,
           "total": 640
         },
+        "community_id": 0,
         "core_periphery": "core",
         "degree": 0.1780821917808219,
         "partition": "southern-europe",
         "role": "participant",
-        "slug": "italy"
+        "slug": "italy",
+        "x": 0.2974123734814651,
+        "y": 0.08654486956169262
       },
       {
         "betweenness": 0.0194947949500808,
@@ -5946,11 +6726,14 @@
           "representative": 83,
           "total": 1122
         },
+        "community_id": 1,
         "core_periphery": "core",
         "degree": 0.1643835616438356,
         "partition": "east-asia",
         "role": "participant",
-        "slug": "japan"
+        "slug": "japan",
+        "x": 0.027283355282539248,
+        "y": 0.1053784306840979
       },
       {
         "betweenness": 0.0,
@@ -5962,11 +6745,14 @@
           "representative": 0,
           "total": 0
         },
+        "community_id": 1,
         "core_periphery": "core",
         "degree": 0.0136986301369863,
         "partition": "unknown",
         "role": "participant",
-        "slug": "kazakhstan"
+        "slug": "kazakhstan",
+        "x": -0.2703390794574869,
+        "y": -0.14757106154075775
       },
       {
         "betweenness": 0.0103191615297261,
@@ -5978,11 +6764,14 @@
           "representative": 43,
           "total": 344
         },
+        "community_id": 3,
         "core_periphery": "core",
         "degree": 0.0410958904109589,
         "partition": "east-africa",
         "role": "participant",
-        "slug": "kenya"
+        "slug": "kenya",
+        "x": -0.39341723158932573,
+        "y": 0.5526952504173863
       },
       {
         "betweenness": 0.0,
@@ -5994,11 +6783,14 @@
           "representative": 0,
           "total": 0
         },
+        "community_id": 1,
         "core_periphery": "core",
         "degree": 0.0136986301369863,
         "partition": "western-balkans",
         "role": "participant",
-        "slug": "kosovo"
+        "slug": "kosovo",
+        "x": -0.30476140138312974,
+        "y": -0.34013182383267976
       },
       {
         "betweenness": 0.0,
@@ -6010,11 +6802,14 @@
           "representative": 0,
           "total": 0
         },
+        "community_id": 1,
         "core_periphery": "core",
         "degree": 0.0136986301369863,
         "partition": "unknown",
         "role": "participant",
-        "slug": "kyrgyzstan"
+        "slug": "kyrgyzstan",
+        "x": -0.4262901042916253,
+        "y": 0.3062806691755361
       },
       {
         "betweenness": 0.0003634739937482,
@@ -6026,11 +6821,14 @@
           "representative": 17,
           "total": 56
         },
+        "community_id": 1,
         "core_periphery": "core",
         "degree": 0.0273972602739726,
         "partition": "unknown",
         "role": "participant",
-        "slug": "laos"
+        "slug": "laos",
+        "x": -0.42582420869091864,
+        "y": 0.18935153744782657
       },
       {
         "betweenness": 0.0012689238889545,
@@ -6042,11 +6840,14 @@
           "representative": 19,
           "total": 152
         },
+        "community_id": 0,
         "core_periphery": "core",
         "degree": 0.0821917808219178,
         "partition": "eastern-europe",
         "role": "participant",
-        "slug": "latvia"
+        "slug": "latvia",
+        "x": 0.4941295039596653,
+        "y": -0.0503275815550829
       },
       {
         "betweenness": 0.0022807190735722,
@@ -6058,11 +6859,14 @@
           "representative": 19,
           "total": 156
         },
+        "community_id": 0,
         "core_periphery": "core",
         "degree": 0.1095890410958904,
         "partition": "eastern-europe",
         "role": "participant",
-        "slug": "lithuania"
+        "slug": "lithuania",
+        "x": 0.4273723357669857,
+        "y": 0.04672804322651882
       },
       {
         "betweenness": 0.0008742382357816,
@@ -6074,11 +6878,14 @@
           "representative": 32,
           "total": 200
         },
+        "community_id": 0,
         "core_periphery": "core",
         "degree": 0.0547945205479452,
         "partition": "western-europe",
         "role": "participant",
-        "slug": "luxembourg"
+        "slug": "luxembourg",
+        "x": 0.19536074275232077,
+        "y": -0.15050453959719
       },
       {
         "betweenness": 0.0,
@@ -6090,11 +6897,14 @@
           "representative": 0,
           "total": 0
         },
+        "community_id": 3,
         "core_periphery": "core",
         "degree": 0.0136986301369863,
         "partition": "unknown",
         "role": "participant",
-        "slug": "malawi"
+        "slug": "malawi",
+        "x": -0.9898793258514802,
+        "y": 0.8169814150798572
       },
       {
         "betweenness": 0.0116692654149478,
@@ -6106,11 +6916,14 @@
           "representative": 12,
           "total": 580
         },
+        "community_id": 1,
         "core_periphery": "core",
         "degree": 0.0958904109589041,
         "partition": "southeast-asia",
         "role": "participant",
-        "slug": "malaysia"
+        "slug": "malaysia",
+        "x": -0.21423462269418128,
+        "y": 0.07078613214867348
       },
       {
         "betweenness": 0.0,
@@ -6122,11 +6935,14 @@
           "representative": 0,
           "total": 0
         },
+        "community_id": 1,
         "core_periphery": "core",
         "degree": 0.0136986301369863,
         "partition": "unknown",
         "role": "participant",
-        "slug": "maldives"
+        "slug": "maldives",
+        "x": -0.45438913426810473,
+        "y": 0.2527966540718489
       },
       {
         "betweenness": 0.0012508345820796,
@@ -6138,11 +6954,14 @@
           "representative": 5,
           "total": 22
         },
+        "community_id": 3,
         "core_periphery": "core",
         "degree": 0.0273972602739726,
         "partition": "east-africa",
         "role": "participant",
-        "slug": "mauritius"
+        "slug": "mauritius",
+        "x": -0.19284447383161643,
+        "y": 0.5802648755454215
       },
       {
         "betweenness": 0.0013492518027855,
@@ -6154,11 +6973,14 @@
           "representative": 17,
           "total": 98
         },
+        "community_id": 0,
         "core_periphery": "core",
         "degree": 0.0684931506849315,
         "partition": "eastern-europe",
         "role": "participant",
-        "slug": "moldova"
+        "slug": "moldova",
+        "x": 0.4240668134697974,
+        "y": -0.1794938859243058
       },
       {
         "betweenness": 8.179113952690585e-05,
@@ -6170,11 +6992,14 @@
           "representative": 0,
           "total": 28
         },
+        "community_id": 0,
         "core_periphery": "core",
         "degree": 0.0273972602739726,
         "partition": "southeastern-europe",
         "role": "participant",
-        "slug": "montenegro"
+        "slug": "montenegro",
+        "x": 0.15702348882073786,
+        "y": -0.2164872671585132
       },
       {
         "betweenness": 6.848474207023678e-05,
@@ -6186,11 +7011,14 @@
           "representative": 0,
           "total": 0
         },
+        "community_id": 1,
         "core_periphery": "core",
         "degree": 0.0273972602739726,
         "partition": "unknown",
         "role": "participant",
-        "slug": "myanmar"
+        "slug": "myanmar",
+        "x": -0.5954098185826883,
+        "y": 0.05697559289792117
       },
       {
         "betweenness": 0.0454893985884828,
@@ -6202,11 +7030,14 @@
           "representative": 104,
           "total": 754
         },
+        "community_id": 0,
         "core_periphery": "core",
         "degree": 0.3972602739726027,
         "partition": "western-europe",
         "role": "regional-coordinator",
-        "slug": "netherlands"
+        "slug": "netherlands",
+        "x": 0.3996848852047929,
+        "y": 0.13756351196308952
       },
       {
         "betweenness": 0.0,
@@ -6218,11 +7049,14 @@
           "representative": 0,
           "total": 0
         },
+        "community_id": 0,
         "core_periphery": "core",
         "degree": 0.0136986301369863,
         "partition": "unknown",
         "role": "participant",
-        "slug": "new-zealand"
+        "slug": "new-zealand",
+        "x": 0.30142662615329974,
+        "y": 0.49439668111940965
       },
       {
         "betweenness": 0.1071075450317713,
@@ -6234,11 +7068,14 @@
           "representative": 224,
           "total": 2504
         },
+        "community_id": 3,
         "core_periphery": "core",
         "degree": 0.1232876712328767,
         "partition": "west-africa",
         "role": "specialist-broker",
-        "slug": "nigeria"
+        "slug": "nigeria",
+        "x": -0.2696059990101258,
+        "y": 0.4252345243810293
       },
       {
         "betweenness": 0.0002756444694067,
@@ -6250,11 +7087,14 @@
           "representative": 2,
           "total": 4
         },
+        "community_id": 0,
         "core_periphery": "core",
         "degree": 0.0273972602739726,
         "partition": "western-europe",
         "role": "participant",
-        "slug": "norway"
+        "slug": "norway",
+        "x": 0.41400801473109533,
+        "y": -0.28264120225245054
       },
       {
         "betweenness": 0.0,
@@ -6266,11 +7106,14 @@
           "representative": 0,
           "total": 0
         },
+        "community_id": 0,
         "core_periphery": "periphery",
         "degree": 0.0136986301369863,
         "partition": "south-asia",
         "role": "participant",
-        "slug": "pakistan"
+        "slug": "pakistan",
+        "x": 1.0,
+        "y": 0.3371688733831162
       },
       {
         "betweenness": 0.0,
@@ -6282,11 +7125,14 @@
           "representative": 0,
           "total": 0
         },
+        "community_id": 2,
         "core_periphery": "core",
         "degree": 0.0136986301369863,
         "partition": "south-america",
         "role": "participant",
-        "slug": "paraguay"
+        "slug": "paraguay",
+        "x": 0.397513438579446,
+        "y": -0.9521785141043749
       },
       {
         "betweenness": 0.0,
@@ -6298,11 +7144,14 @@
           "representative": 0,
           "total": 0
         },
+        "community_id": 2,
         "core_periphery": "core",
         "degree": 0.0136986301369863,
         "partition": "south-america",
         "role": "participant",
-        "slug": "peru"
+        "slug": "peru",
+        "x": 0.5556394947235636,
+        "y": -0.974724783627054
       },
       {
         "betweenness": 0.0027305060977856,
@@ -6314,11 +7163,14 @@
           "representative": 91,
           "total": 234
         },
+        "community_id": 1,
         "core_periphery": "core",
         "degree": 0.0547945205479452,
         "partition": "unknown",
         "role": "participant",
-        "slug": "philippines"
+        "slug": "philippines",
+        "x": -0.3001808230811712,
+        "y": 0.09786679276711441
       },
       {
         "betweenness": 0.0186188649630499,
@@ -6330,11 +7182,14 @@
           "representative": 191,
           "total": 1672
         },
+        "community_id": 0,
         "core_periphery": "core",
         "degree": 0.1643835616438356,
         "partition": "eastern-europe",
         "role": "regional-coordinator",
-        "slug": "poland"
+        "slug": "poland",
+        "x": 0.12889975064425016,
+        "y": 0.06739687767859777
       },
       {
         "betweenness": 0.0075496665590089,
@@ -6346,11 +7201,14 @@
           "representative": 69,
           "total": 606
         },
+        "community_id": 0,
         "core_periphery": "core",
         "degree": 0.1095890410958904,
         "partition": "western-europe",
         "role": "participant",
-        "slug": "portugal"
+        "slug": "portugal",
+        "x": 0.32888199241063815,
+        "y": -0.034881121636262995
       },
       {
         "betweenness": 0.0181572221052591,
@@ -6362,11 +7220,14 @@
           "representative": 181,
           "total": 1550
         },
+        "community_id": 0,
         "core_periphery": "core",
         "degree": 0.1917808219178082,
         "partition": "eastern-europe",
         "role": "regional-coordinator",
-        "slug": "romania"
+        "slug": "romania",
+        "x": 0.1978907587947097,
+        "y": 0.07102789799670316
       },
       {
         "betweenness": 0.0,
@@ -6378,11 +7239,14 @@
           "representative": 0,
           "total": 0
         },
+        "community_id": 0,
         "core_periphery": "periphery",
         "degree": 0.0136986301369863,
         "partition": "unknown",
         "role": "participant",
-        "slug": "russia"
+        "slug": "russia",
+        "x": -0.06787163472520452,
+        "y": -0.31415765385304395
       },
       {
         "betweenness": 0.0,
@@ -6394,11 +7258,14 @@
           "representative": 0,
           "total": 0
         },
+        "community_id": 3,
         "core_periphery": "core",
         "degree": 0.0136986301369863,
         "partition": "east-africa",
         "role": "participant",
-        "slug": "rwanda"
+        "slug": "rwanda",
+        "x": -0.3781173703334009,
+        "y": 0.9995034316038277
       },
       {
         "betweenness": 0.0,
@@ -6410,11 +7277,14 @@
           "representative": 0,
           "total": 0
         },
+        "community_id": 3,
         "core_periphery": "core",
         "degree": 0.0136986301369863,
         "partition": "unknown",
         "role": "participant",
-        "slug": "senegal"
+        "slug": "senegal",
+        "x": -0.88980443510638,
+        "y": 0.93203534602558
       },
       {
         "betweenness": 0.0254582062523315,
@@ -6426,11 +7296,14 @@
           "representative": 55,
           "total": 1530
         },
+        "community_id": 1,
         "core_periphery": "core",
         "degree": 0.136986301369863,
         "partition": "southeast-asia",
         "role": "participant",
-        "slug": "singapore"
+        "slug": "singapore",
+        "x": -0.06324829209209322,
+        "y": 0.008518255510383306
       },
       {
         "betweenness": 0.0,
@@ -6442,11 +7315,14 @@
           "representative": 0,
           "total": 0
         },
+        "community_id": 1,
         "core_periphery": "core",
         "degree": 0.0136986301369863,
         "partition": "unknown",
         "role": "participant",
-        "slug": "slovenia"
+        "slug": "slovenia",
+        "x": -0.3681162727506014,
+        "y": 0.32677352609841404
       },
       {
         "betweenness": 0.0657659436052746,
@@ -6458,11 +7334,14 @@
           "representative": 41,
           "total": 2026
         },
+        "community_id": 3,
         "core_periphery": "core",
         "degree": 0.0684931506849315,
         "partition": "southern-africa",
         "role": "specialist-broker",
-        "slug": "south-africa"
+        "slug": "south-africa",
+        "x": -0.33554487619802253,
+        "y": 0.461886362759522
       },
       {
         "betweenness": 0.0144294692336169,
@@ -6474,11 +7353,14 @@
           "representative": 50,
           "total": 392
         },
+        "community_id": 1,
         "core_periphery": "core",
         "degree": 0.0958904109589041,
         "partition": "east-asia",
         "role": "participant",
-        "slug": "south-korea"
+        "slug": "south-korea",
+        "x": -0.17850500556497612,
+        "y": -0.016743785781340694
       },
       {
         "betweenness": 0.0,
@@ -6490,11 +7372,14 @@
           "representative": 0,
           "total": 0
         },
+        "community_id": 3,
         "core_periphery": "core",
         "degree": 0.0136986301369863,
         "partition": "unknown",
         "role": "participant",
-        "slug": "south-sudan"
+        "slug": "south-sudan",
+        "x": -0.7702545201385813,
+        "y": 0.9570952815342958
       },
       {
         "betweenness": 0.0408050715057503,
@@ -6506,11 +7391,14 @@
           "representative": 197,
           "total": 1718
         },
+        "community_id": 0,
         "core_periphery": "core",
         "degree": 0.2602739726027397,
         "partition": "western-europe",
         "role": "regional-coordinator",
-        "slug": "spain"
+        "slug": "spain",
+        "x": 0.2985273480867126,
+        "y": 0.022202886884042615
       },
       {
         "betweenness": 0.0,
@@ -6522,11 +7410,14 @@
           "representative": 0,
           "total": 0
         },
+        "community_id": 2,
         "core_periphery": "core",
         "degree": 0.0136986301369863,
         "partition": "south-america",
         "role": "participant",
-        "slug": "suriname"
+        "slug": "suriname",
+        "x": 0.6111872210530375,
+        "y": -0.9445135475469959
       },
       {
         "betweenness": 0.0158394581447699,
@@ -6538,11 +7429,14 @@
           "representative": 77,
           "total": 1574
         },
+        "community_id": 0,
         "core_periphery": "core",
         "degree": 0.1780821917808219,
         "partition": "northern-europe",
         "role": "participant",
-        "slug": "sweden"
+        "slug": "sweden",
+        "x": 0.17027624060569516,
+        "y": 0.10600655239156316
       },
       {
         "betweenness": 0.0111852973758084,
@@ -6554,11 +7448,14 @@
           "representative": 41,
           "total": 328
         },
+        "community_id": 0,
         "core_periphery": "core",
         "degree": 0.1643835616438356,
         "partition": "western-europe",
         "role": "regional-coordinator",
-        "slug": "switzerland"
+        "slug": "switzerland",
+        "x": 0.2735875702419482,
+        "y": 0.2167923928749053
       },
       {
         "betweenness": 0.0004025843995343,
@@ -6570,11 +7467,14 @@
           "representative": 0,
           "total": 28
         },
+        "community_id": 0,
         "core_periphery": "core",
         "degree": 0.0410958904109589,
         "partition": "east-asia",
         "role": "participant",
-        "slug": "taiwan"
+        "slug": "taiwan",
+        "x": 0.2445427050514917,
+        "y": -0.22229659539998262
       },
       {
         "betweenness": 0.0,
@@ -6586,11 +7486,14 @@
           "representative": 0,
           "total": 0
         },
+        "community_id": 3,
         "core_periphery": "core",
         "degree": 0.0136986301369863,
         "partition": "east-africa",
         "role": "participant",
-        "slug": "tanzania"
+        "slug": "tanzania",
+        "x": -0.4103193483899341,
+        "y": 0.9067907170810187
       },
       {
         "betweenness": 0.0140881299917477,
@@ -6602,11 +7505,14 @@
           "representative": 14,
           "total": 642
         },
+        "community_id": 1,
         "core_periphery": "core",
         "degree": 0.1232876712328767,
         "partition": "southeast-asia",
         "role": "participant",
-        "slug": "thailand"
+        "slug": "thailand",
+        "x": -0.12117733247996548,
+        "y": 0.12006964035770172
       },
       {
         "betweenness": 0.0,
@@ -6618,11 +7524,14 @@
           "representative": 0,
           "total": 0
         },
+        "community_id": 3,
         "core_periphery": "core",
         "degree": 0.0136986301369863,
         "partition": "west-africa",
         "role": "participant",
-        "slug": "togo"
+        "slug": "togo",
+        "x": -0.45379113747667044,
+        "y": 1.0
       },
       {
         "betweenness": 0.0,
@@ -6634,11 +7543,14 @@
           "representative": 0,
           "total": 0
         },
+        "community_id": 3,
         "core_periphery": "core",
         "degree": 0.0136986301369863,
         "partition": "western-asia",
         "role": "participant",
-        "slug": "turkey"
+        "slug": "turkey",
+        "x": -0.22451632129320748,
+        "y": 0.47507644929615456
       },
       {
         "betweenness": 0.0,
@@ -6650,11 +7562,14 @@
           "representative": 0,
           "total": 0
         },
+        "community_id": 3,
         "core_periphery": "core",
         "degree": 0.0136986301369863,
         "partition": "unknown",
         "role": "participant",
-        "slug": "uganda"
+        "slug": "uganda",
+        "x": -0.9122487782037499,
+        "y": 0.830365503018037
       },
       {
         "betweenness": 0.0070043552709427,
@@ -6666,11 +7581,14 @@
           "representative": 22,
           "total": 174
         },
+        "community_id": 0,
         "core_periphery": "core",
         "degree": 0.1506849315068493,
         "partition": "eastern-europe",
         "role": "regional-coordinator",
-        "slug": "ukraine"
+        "slug": "ukraine",
+        "x": 0.44407151244637333,
+        "y": 0.09661965568853842
       },
       {
         "betweenness": 0.0003275856662141,
@@ -6682,11 +7600,14 @@
           "representative": 67,
           "total": 172
         },
+        "community_id": 1,
         "core_periphery": "core",
         "degree": 0.0273972602739726,
         "partition": "unknown",
         "role": "participant",
-        "slug": "united-arab-emirates"
+        "slug": "united-arab-emirates",
+        "x": -0.26210537339967593,
+        "y": 0.13301924813078275
       },
       {
         "betweenness": 0.0875107501274139,
@@ -6698,11 +7619,14 @@
           "representative": 222,
           "total": 2088
         },
+        "community_id": 0,
         "core_periphery": "core",
         "degree": 0.4657534246575342,
         "partition": "western-europe",
         "role": "regional-coordinator",
-        "slug": "united-kingdom"
+        "slug": "united-kingdom",
+        "x": 0.2606750490776676,
+        "y": 0.09354489297824178
       },
       {
         "betweenness": 0.2192613238411742,
@@ -6714,11 +7638,14 @@
           "representative": 18,
           "total": 3032
         },
+        "community_id": 0,
         "core_periphery": "core",
         "degree": 0.6712328767123288,
         "partition": "north-america",
         "role": "global-liaison",
-        "slug": "united-states"
+        "slug": "united-states",
+        "x": 0.26566570199725476,
+        "y": 0.12540599605397898
       },
       {
         "betweenness": 0.0,
@@ -6730,11 +7657,14 @@
           "representative": 0,
           "total": 0
         },
+        "community_id": 2,
         "core_periphery": "core",
         "degree": 0.0136986301369863,
         "partition": "south-america",
         "role": "participant",
-        "slug": "uruguay"
+        "slug": "uruguay",
+        "x": 0.4273249645062854,
+        "y": -1.0
       },
       {
         "betweenness": 0.0,
@@ -6746,11 +7676,14 @@
           "representative": 0,
           "total": 0
         },
+        "community_id": 2,
         "core_periphery": "core",
         "degree": 0.0136986301369863,
         "partition": "south-america",
         "role": "participant",
-        "slug": "venezuela"
+        "slug": "venezuela",
+        "x": 0.4972023801063968,
+        "y": -0.995097400899269
       },
       {
         "betweenness": 0.0014514397018211,
@@ -6762,11 +7695,14 @@
           "representative": 40,
           "total": 88
         },
+        "community_id": 1,
         "core_periphery": "core",
         "degree": 0.0410958904109589,
         "partition": "unknown",
         "role": "participant",
-        "slug": "vietnam"
+        "slug": "vietnam",
+        "x": -0.36637391222065385,
+        "y": 2.3275750288784403e-05
       },
       {
         "betweenness": 0.0008541330778899,
@@ -6778,11 +7714,14 @@
           "representative": 0,
           "total": 90
         },
+        "community_id": 3,
         "core_periphery": "core",
         "degree": 0.0273972602739726,
         "partition": "southern-africa",
         "role": "participant",
-        "slug": "zambia"
+        "slug": "zambia",
+        "x": -0.5990958855546523,
+        "y": 0.8841928225812656
       },
       {
         "betweenness": 0.0,
@@ -6794,13 +7733,383 @@
           "representative": 0,
           "total": 0
         },
+        "community_id": 3,
         "core_periphery": "core",
         "degree": 0.0136986301369863,
         "partition": "unknown",
         "role": "participant",
-        "slug": "zimbabwe"
+        "slug": "zimbabwe",
+        "x": -0.8659731173330372,
+        "y": 0.8691264349753987
       }
     ],
+    "op_meta": {
+      "2bagoldmule-qqaazz": {
+        "community_id": 0,
+        "x": 0.3594460153463758,
+        "y": 0.03300329697751146
+      },
+      "africa-cyber-surge-ii": {
+        "community_id": 3,
+        "x": -0.3961463366436677,
+        "y": 0.6845345834472603
+      },
+      "alphabay-takedown": {
+        "community_id": 0,
+        "x": 0.17968666980859532,
+        "y": 0.14559144233379462
+      },
+      "andromeda-botnet-takedown": {
+        "community_id": 0,
+        "x": 0.20880854848083485,
+        "y": 0.0019860243196399563
+      },
+      "belgium-netherlands-phishing-gang": {
+        "community_id": 0,
+        "x": 0.613903903267498,
+        "y": 0.26349266663381227
+      },
+      "bidencash-takedown": {
+        "community_id": 0,
+        "x": 0.4265065369072754,
+        "y": 0.22067010005975338
+      },
+      "blackcat-lockeroga-kelvin-security-2023": {
+        "community_id": 0,
+        "x": 0.3864075502441613,
+        "y": -0.11444199252647641
+      },
+      "carbanak-cobalt-takedown": {
+        "community_id": 0,
+        "x": 0.2523987275995179,
+        "y": -0.1277962887458398
+      },
+      "carding-action-2020": {
+        "community_id": 0,
+        "x": 0.5363154110461956,
+        "y": -0.01987531473578315
+      },
+      "cryptex-pm2btc-sanctions": {
+        "community_id": 0,
+        "x": 0.510315226526694,
+        "y": 0.3161455269642232
+      },
+      "cyber-fraud-international-2015": {
+        "community_id": 0,
+        "x": 0.3204611052618708,
+        "y": -0.05202186108083996
+      },
+      "cyberbunker-takedown": {
+        "community_id": 0,
+        "x": 0.6840174810132625,
+        "y": 0.09293606854025503
+      },
+      "darkmarket-takedown": {
+        "community_id": 0,
+        "x": 0.458737357340148,
+        "y": 0.02255477941890503
+      },
+      "de-ch-crypto-mixer-takedown-2025": {
+        "community_id": 0,
+        "x": 0.5474541928438252,
+        "y": 0.28107448002476404
+      },
+      "doublevpn-takedown": {
+        "community_id": 0,
+        "x": 0.31239097171448926,
+        "y": 0.1775412467148008
+      },
+      "dridex-operations": {
+        "community_id": 0,
+        "x": 0.40248689184391995,
+        "y": -0.07957360607896781
+      },
+      "emotet-takedown": {
+        "community_id": 0,
+        "x": 0.39858681025979226,
+        "y": 0.17607756596569205
+      },
+      "fin7-takedown": {
+        "community_id": 0,
+        "x": 0.25408807581080556,
+        "y": 0.28165244747670815
+      },
+      "franco-israeli-ceo-fraud": {
+        "community_id": 0,
+        "x": 0.6007895658909269,
+        "y": -0.0862756160012987
+      },
+      "imminent-monitor-rat-takedown": {
+        "community_id": 0,
+        "x": 0.31652444089917775,
+        "y": -0.07502959159038836
+      },
+      "korea-china-voice-phishing-qingdao": {
+        "community_id": 1,
+        "x": -0.44493464479592987,
+        "y": -0.17118315513385948
+      },
+      "lumma-stealer-takedown": {
+        "community_id": 1,
+        "x": 0.014361271167678553,
+        "y": -0.0054945567777067664
+      },
+      "nemesis-market-takedown": {
+        "community_id": 0,
+        "x": 0.5886566928663063,
+        "y": 0.07877988203588122
+      },
+      "operation-105-arrested-for-stealing-over-eur-12-million-from-us-based-banks": {
+        "community_id": 0,
+        "x": 0.5181954277646992,
+        "y": 0.1841606350310418
+      },
+      "operation-australian-man-arrested-in-germany-accused-of-running-world-s-largest-darknet-marketplace": {
+        "community_id": 0,
+        "x": 0.4310220190461315,
+        "y": -0.05663886408225
+      },
+      "operation-avalanche": {
+        "community_id": 0,
+        "x": 0.26325872587615856,
+        "y": -0.051386803109982004
+      },
+      "operation-bakovia": {
+        "community_id": 0,
+        "x": 0.3147249721808027,
+        "y": 0.25057907747260644
+      },
+      "operation-chakra-iii": {
+        "community_id": 1,
+        "x": -0.022613310272816354,
+        "y": 0.21406505434482723
+      },
+      "operation-contender-2": {
+        "community_id": 3,
+        "x": 0.007742831348973791,
+        "y": 0.44088229547263474
+      },
+      "operation-cronos-phase1": {
+        "community_id": 0,
+        "x": 0.24326522668073472,
+        "y": 0.2102177816647377
+      },
+      "operation-cronos-phase3": {
+        "community_id": 0,
+        "x": 0.20166770855259694,
+        "y": 0.11796911710681604
+      },
+      "operation-cyber-guardian": {
+        "community_id": 1,
+        "x": -0.2819756527589756,
+        "y": -0.021590705014833723
+      },
+      "operation-dark-huntor": {
+        "community_id": 0,
+        "x": 0.3480298112663543,
+        "y": 0.17325670759656783
+      },
+      "operation-destabilise": {
+        "community_id": 0,
+        "x": 0.4193739936917343,
+        "y": 0.3302842205472414
+      },
+      "operation-endgame": {
+        "community_id": 0,
+        "x": 0.3384481209946443,
+        "y": 0.09111064986303341
+      },
+      "operation-endgame-phase1": {
+        "community_id": 0,
+        "x": 0.361117551170442,
+        "y": 0.06649147012298298
+      },
+      "operation-endgame-phase2": {
+        "community_id": 0,
+        "x": 0.43444276921374864,
+        "y": 0.18297041579741238
+      },
+      "operation-eur-100m-crypto-investment-fraud-2025": {
+        "community_id": 0,
+        "x": 0.3713905082288137,
+        "y": -0.03432196511363709
+      },
+      "operation-eur-100m-illegal-financial-service-laundering-2025": {
+        "community_id": 0,
+        "x": 0.4749469294387487,
+        "y": -0.07236553172718199
+      },
+      "operation-eur-300m-global-credit-card-fraud-2025": {
+        "community_id": 0,
+        "x": 0.24556438660335236,
+        "y": -0.024173237416416152
+      },
+      "operation-eur-3m-online-investment-fraud-2025": {
+        "community_id": 0,
+        "x": 0.4266436042411547,
+        "y": -0.11737739056350896
+      },
+      "operation-goldfish-alpha-night-fury": {
+        "community_id": 1,
+        "x": -0.35801296406122857,
+        "y": 0.041707246480493114
+      },
+      "operation-haechi-iii": {
+        "community_id": 1,
+        "x": -0.11090083190132968,
+        "y": 0.17860700057884094
+      },
+      "operation-haechi-iv": {
+        "community_id": 1,
+        "x": -0.0032022049347811125,
+        "y": 0.09354205406245489
+      },
+      "operation-haechi-vi": {
+        "community_id": 1,
+        "x": -0.02396804514418297,
+        "y": 0.05390061548633668
+      },
+      "operation-heart-blocker": {
+        "community_id": 0,
+        "x": 0.6774788905347339,
+        "y": 0.24447196584448852
+      },
+      "operation-killer-bee": {
+        "community_id": 1,
+        "x": -0.3440114494116091,
+        "y": 0.14231084165029723
+      },
+      "operation-kraken-ghost-platform": {
+        "community_id": 0,
+        "x": 0.19892587279970725,
+        "y": 0.2493539135795313
+      },
+      "operation-onymous": {
+        "community_id": 0,
+        "x": 0.31807871171816193,
+        "y": 0.04666166029348326
+      },
+      "operation-orion-international": {
+        "community_id": 2,
+        "x": 0.41719397553034876,
+        "y": -0.7498732241248498
+      },
+      "operation-pleiades": {
+        "community_id": 0,
+        "x": 0.24388828737918533,
+        "y": 0.24860544240389454
+      },
+      "operation-power-off": {
+        "community_id": 0,
+        "x": 0.2415091150167417,
+        "y": 0.009062554876608874
+      },
+      "operation-red-card": {
+        "community_id": 3,
+        "x": -0.3944287903671268,
+        "y": 0.7561365048276185
+      },
+      "operation-rewired": {
+        "community_id": 0,
+        "x": -0.04606166289026892,
+        "y": 0.270675859575516
+      },
+      "operation-secreto": {
+        "community_id": 0,
+        "x": 0.5276475907115296,
+        "y": 0.15583031195665
+      },
+      "operation-sentinel-africa": {
+        "community_id": 3,
+        "x": -0.6924467325440604,
+        "y": 0.7261582287202576
+      },
+      "operation-source": {
+        "community_id": 0,
+        "x": 0.6290884652222892,
+        "y": 0.31613069197230453
+      },
+      "operation-stream-kidflix": {
+        "community_id": 0,
+        "x": 0.6768730606564964,
+        "y": 0.1420707730528507
+      },
+      "operation-talent": {
+        "community_id": 0,
+        "x": 0.4416255518086748,
+        "y": 0.1358261783361325
+      },
+      "operation-trojan-shield": {
+        "community_id": 0,
+        "x": 0.36672148300827545,
+        "y": 0.28692438718579183
+      },
+      "operation-wirewire": {
+        "community_id": 0,
+        "x": 0.0027830548129251236,
+        "y": 0.3227447314839142
+      },
+      "phobos-8base-crackdown": {
+        "community_id": 0,
+        "x": 0.10678093813095618,
+        "y": 0.042024703963222505
+      },
+      "proxy-service-takedown-2026-03": {
+        "community_id": 0,
+        "x": 0.3956312339914752,
+        "y": 0.26503063492672996
+      },
+      "qqaazz-money-laundering-takedown": {
+        "community_id": 0,
+        "x": 0.42414988964388817,
+        "y": -0.025171521675050764
+      },
+      "ramnit-botnet-takedown": {
+        "community_id": 0,
+        "x": 0.5250151665717141,
+        "y": 0.0984108960054143
+      },
+      "rex-mundi-takedown": {
+        "community_id": 0,
+        "x": 0.045366773692070095,
+        "y": 0.17199219331997692
+      },
+      "rydox-marketplace-takedown": {
+        "community_id": 1,
+        "x": -0.08975638467991263,
+        "y": -0.11881515649547504
+      },
+      "silk-road-takedown": {
+        "community_id": 0,
+        "x": 0.07681718706547472,
+        "y": 0.2796728758724242
+      },
+      "simda-botnet-takedown": {
+        "community_id": 0,
+        "x": 0.09775841477786132,
+        "y": -0.05404066981118873
+      },
+      "trickbot-operations": {
+        "community_id": 1,
+        "x": -0.029028492850674572,
+        "y": -0.05366832136180205
+      },
+      "vpnlab-takedown": {
+        "community_id": 0,
+        "x": 0.4616934995748101,
+        "y": 0.05704704709327301
+      },
+      "xdedic-marketplace-takedown": {
+        "community_id": 0,
+        "x": 0.4455406441095759,
+        "y": 0.2753069111698463
+      },
+      "zeus-spyeye-jit-takedown": {
+        "community_id": 0,
+        "x": 0.4281409089897011,
+        "y": 0.3037668121011842
+      }
+    },
     "operations": [
       "2bagoldmule-qqaazz",
       "africa-cyber-surge-ii",
@@ -6878,6 +8187,21 @@
     ]
   },
   "crime_type": {
+    "community_colors": [
+      "#6ef2dc",
+      "#8e7dff",
+      "#ffbf59",
+      "#ff6f61",
+      "#57ead7",
+      "#67a1ff",
+      "#ff94ba",
+      "#ffd37a",
+      "#7ed957",
+      "#9cb6ff",
+      "#f87171",
+      "#a78bfa",
+      "#6ef2dc"
+    ],
     "edges": [
       [
         "2bagoldmule-qqaazz",
@@ -7191,11 +8515,14 @@
           "representative": 0,
           "total": 0
         },
+        "community_id": 0,
         "core_periphery": "periphery",
         "degree": 0.0136986301369863,
         "partition": "unknown",
         "role": "participant",
-        "slug": "bank-fraud-ic"
+        "slug": "bank-fraud-ic",
+        "x": 0.05011016866523715,
+        "y": -0.07161319253239898
       },
       {
         "betweenness": 0.0056134723336006,
@@ -7207,11 +8534,14 @@
           "representative": 0,
           "total": 0
         },
+        "community_id": 6,
         "core_periphery": "periphery",
         "degree": 0.0958904109589041,
         "partition": "cyber-enabled",
         "role": "participant",
-        "slug": "bec-ic"
+        "slug": "bec-ic",
+        "x": 0.6651398378557001,
+        "y": 0.6446445422953028
       },
       {
         "betweenness": 0.0050788559208767,
@@ -7223,11 +8553,14 @@
           "representative": 0,
           "total": 0
         },
+        "community_id": 0,
         "core_periphery": "periphery",
         "degree": 0.0410958904109589,
         "partition": "unknown",
         "role": "participant",
-        "slug": "carding-fraud-ic"
+        "slug": "carding-fraud-ic",
+        "x": 0.030405746335319905,
+        "y": -0.11384044792578638
       },
       {
         "betweenness": 0.0008019246190858,
@@ -7239,11 +8572,14 @@
           "representative": 0,
           "total": 0
         },
+        "community_id": 8,
         "core_periphery": "periphery",
         "degree": 0.0410958904109589,
         "partition": "content-related",
         "role": "participant",
-        "slug": "csam-ic"
+        "slug": "csam-ic",
+        "x": 0.7154689574427237,
+        "y": -0.7184258546935329
       },
       {
         "betweenness": 0.0002673082063619,
@@ -7255,11 +8591,14 @@
           "representative": 0,
           "total": 0
         },
+        "community_id": 12,
         "core_periphery": "periphery",
         "degree": 0.0273972602739726,
         "partition": "cyber-dependent",
         "role": "participant",
-        "slug": "cybercrime-forum-ic"
+        "slug": "cybercrime-forum-ic",
+        "x": 0.9854605796493485,
+        "y": 0.3344403243080398
       },
       {
         "betweenness": 0.0,
@@ -7271,11 +8610,14 @@
           "representative": 0,
           "total": 0
         },
+        "community_id": 4,
         "core_periphery": "periphery",
         "degree": 0.0136986301369863,
         "partition": "cyber-dependent",
         "role": "participant",
-        "slug": "cybercrime-infrastructure-ic"
+        "slug": "cybercrime-infrastructure-ic",
+        "x": 0.3111377556496159,
+        "y": 0.8874190010712655
       },
       {
         "betweenness": 0.0,
@@ -7287,11 +8629,14 @@
           "representative": 0,
           "total": 0
         },
+        "community_id": 10,
         "core_periphery": "periphery",
         "degree": 0.0136986301369863,
         "partition": "unknown",
         "role": "participant",
-        "slug": "ddos-extortion"
+        "slug": "ddos-extortion",
+        "x": 0.06975224939392437,
+        "y": 0.969507478813837
       },
       {
         "betweenness": 0.0,
@@ -7303,11 +8648,14 @@
           "representative": 0,
           "total": 0
         },
+        "community_id": 9,
         "core_periphery": "periphery",
         "degree": 0.0136986301369863,
         "partition": "cyber-dependent",
         "role": "participant",
-        "slug": "ddos-ic"
+        "slug": "ddos-ic",
+        "x": -0.6885769339872361,
+        "y": -0.7174382955136912
       },
       {
         "betweenness": 0.004009623095429,
@@ -7319,11 +8667,14 @@
           "representative": 0,
           "total": 0
         },
+        "community_id": 5,
         "core_periphery": "periphery",
         "degree": 0.0821917808219178,
         "partition": "cyber-dependent",
         "role": "participant",
-        "slug": "hacking-ic"
+        "slug": "hacking-ic",
+        "x": -0.6323438308122938,
+        "y": -0.45417889336139067
       },
       {
         "betweenness": 0.0074846297781341,
@@ -7335,11 +8686,14 @@
           "representative": 0,
           "total": 0
         },
+        "community_id": 2,
         "core_periphery": "periphery",
         "degree": 0.1095890410958904,
         "partition": "cyber-dependent",
         "role": "participant",
-        "slug": "malware-ic"
+        "slug": "malware-ic",
+        "x": 0.8976062623515039,
+        "y": -0.14950526416834467
       },
       {
         "betweenness": 0.012028869286287,
@@ -7351,11 +8705,14 @@
           "representative": 0,
           "total": 0
         },
+        "community_id": 0,
         "core_periphery": "core",
         "degree": 0.0958904109589041,
         "partition": "cyber-enabled",
         "role": "participant",
-        "slug": "money-laundering-ic"
+        "slug": "money-laundering-ic",
+        "x": 0.12967721899829923,
+        "y": -0.07187185064116271
       },
       {
         "betweenness": 0.061748195669607,
@@ -7367,11 +8724,14 @@
           "representative": 0,
           "total": 0
         },
+        "community_id": 1,
         "core_periphery": "periphery",
         "degree": 0.3013698630136986,
         "partition": "cyber-enabled",
         "role": "participant",
-        "slug": "online-fraud-ic"
+        "slug": "online-fraud-ic",
+        "x": -0.3492675381707346,
+        "y": 0.43211103797040656
       },
       {
         "betweenness": 0.0,
@@ -7383,11 +8743,14 @@
           "representative": 0,
           "total": 0
         },
+        "community_id": 11,
         "core_periphery": "periphery",
         "degree": 0.0136986301369863,
         "partition": "unknown",
         "role": "participant",
-        "slug": "organized-crime-ic"
+        "slug": "organized-crime-ic",
+        "x": 0.05903677792203224,
+        "y": -0.9674460242021381
       },
       {
         "betweenness": 0.0147019513499064,
@@ -7399,11 +8762,14 @@
           "representative": 0,
           "total": 0
         },
+        "community_id": 3,
         "core_periphery": "periphery",
         "degree": 0.1506849315068493,
         "partition": "cyber-dependent",
         "role": "participant",
-        "slug": "ransomware-ic"
+        "slug": "ransomware-ic",
+        "x": 0.06430392716326745,
+        "y": -0.6553660333482775
       },
       {
         "betweenness": 0.0,
@@ -7415,13 +8781,383 @@
           "representative": 0,
           "total": 0
         },
+        "community_id": 7,
         "core_periphery": "periphery",
         "degree": 0.0136986301369863,
         "partition": "cyber-enabled",
         "role": "participant",
-        "slug": "voice-phishing-ic"
+        "slug": "voice-phishing-ic",
+        "x": -1.0,
+        "y": -0.3065367018279417
       }
     ],
+    "op_meta": {
+      "2bagoldmule-qqaazz": {
+        "community_id": 0,
+        "x": 0.1431419660142186,
+        "y": -0.038372273844442924
+      },
+      "africa-cyber-surge-ii": {
+        "community_id": 1,
+        "x": -0.38440398167870266,
+        "y": 0.41344592632272126
+      },
+      "alphabay-takedown": {
+        "community_id": 1,
+        "x": -0.37837887941639864,
+        "y": 0.4627661066487919
+      },
+      "andromeda-botnet-takedown": {
+        "community_id": 2,
+        "x": 0.8699022553686132,
+        "y": -0.14318199384241193
+      },
+      "belgium-netherlands-phishing-gang": {
+        "community_id": 1,
+        "x": -0.40331360192991594,
+        "y": 0.41953718903384984
+      },
+      "bidencash-takedown": {
+        "community_id": 0,
+        "x": -0.0036505931615423816,
+        "y": -0.11630731513903189
+      },
+      "blackcat-lockeroga-kelvin-security-2023": {
+        "community_id": 3,
+        "x": 0.04056730685149019,
+        "y": -0.687997719330342
+      },
+      "carbanak-cobalt-takedown": {
+        "community_id": 2,
+        "x": 0.9115191086199657,
+        "y": -0.11726778180486191
+      },
+      "carding-action-2020": {
+        "community_id": 0,
+        "x": 0.013549440157302568,
+        "y": -0.14249236726701672
+      },
+      "cryptex-pm2btc-sanctions": {
+        "community_id": 0,
+        "x": 0.16769069745523607,
+        "y": -0.07717428055511229
+      },
+      "cyber-fraud-international-2015": {
+        "community_id": 1,
+        "x": -0.32874706695398026,
+        "y": 0.3896561341793102
+      },
+      "cyberbunker-takedown": {
+        "community_id": 1,
+        "x": -0.346477409662176,
+        "y": 0.3825590232480751
+      },
+      "darkmarket-takedown": {
+        "community_id": 1,
+        "x": -0.3022940676661783,
+        "y": 0.45936274224295065
+      },
+      "de-ch-crypto-mixer-takedown-2025": {
+        "community_id": 0,
+        "x": 0.1548427101551228,
+        "y": -0.09849050232623986
+      },
+      "doublevpn-takedown": {
+        "community_id": 4,
+        "x": 0.3177318719588379,
+        "y": 0.9110119418473629
+      },
+      "dridex-operations": {
+        "community_id": 1,
+        "x": -0.4051974014552906,
+        "y": 0.4423809736726122
+      },
+      "emotet-takedown": {
+        "community_id": 3,
+        "x": 0.05856289256500788,
+        "y": -0.6238875359242109
+      },
+      "fin7-takedown": {
+        "community_id": 5,
+        "x": -0.6692246314110762,
+        "y": -0.45440788929077486
+      },
+      "franco-israeli-ceo-fraud": {
+        "community_id": 6,
+        "x": 0.7014887583656826,
+        "y": 0.6449824178362715
+      },
+      "imminent-monitor-rat-takedown": {
+        "community_id": 5,
+        "x": -0.6209564120972282,
+        "y": -0.4289856024721332
+      },
+      "korea-china-voice-phishing-qingdao": {
+        "community_id": 7,
+        "x": -0.9946030413366215,
+        "y": -0.3270992294494386
+      },
+      "lumma-stealer-takedown": {
+        "community_id": 5,
+        "x": -0.6593559963942425,
+        "y": -0.47992605499906654
+      },
+      "nemesis-market-takedown": {
+        "community_id": 1,
+        "x": -0.2976017735981011,
+        "y": 0.4378458052804973
+      },
+      "operation-105-arrested-for-stealing-over-eur-12-million-from-us-based-banks": {
+        "community_id": 0,
+        "x": 0.0741508868795979,
+        "y": -0.0886411066190063
+      },
+      "operation-australian-man-arrested-in-germany-accused-of-running-world-s-largest-darknet-marketplace": {
+        "community_id": 1,
+        "x": -0.31899744883362524,
+        "y": 0.44800594578528785
+      },
+      "operation-avalanche": {
+        "community_id": 2,
+        "x": 0.8960701250503156,
+        "y": -0.18441238917156186
+      },
+      "operation-bakovia": {
+        "community_id": 3,
+        "x": 0.03599296835512354,
+        "y": -0.6291585267786816
+      },
+      "operation-chakra-iii": {
+        "community_id": 1,
+        "x": -0.318281279775029,
+        "y": 0.4720111210803264
+      },
+      "operation-contender-2": {
+        "community_id": 6,
+        "x": 0.68643250790872,
+        "y": 0.6180226115129024
+      },
+      "operation-cronos-phase1": {
+        "community_id": 3,
+        "x": 0.02743661007334963,
+        "y": -0.6707041657946147
+      },
+      "operation-cronos-phase3": {
+        "community_id": 3,
+        "x": 0.08257112474878385,
+        "y": -0.6234212952810246
+      },
+      "operation-cyber-guardian": {
+        "community_id": 8,
+        "x": 0.7075885882075096,
+        "y": -0.7439998541244179
+      },
+      "operation-dark-huntor": {
+        "community_id": 1,
+        "x": -0.3527177399446046,
+        "y": 0.4665036443737568
+      },
+      "operation-destabilise": {
+        "community_id": 0,
+        "x": 0.11584739557497464,
+        "y": -0.04337936524530973
+      },
+      "operation-endgame": {
+        "community_id": 3,
+        "x": 0.0252098133269013,
+        "y": -0.6491438195202083
+      },
+      "operation-endgame-phase1": {
+        "community_id": 3,
+        "x": 0.09979701039904146,
+        "y": -0.6386464914179106
+      },
+      "operation-endgame-phase2": {
+        "community_id": 3,
+        "x": 0.10379890081477125,
+        "y": -0.6602638898619411
+      },
+      "operation-eur-100m-crypto-investment-fraud-2025": {
+        "community_id": 1,
+        "x": -0.37656575831238526,
+        "y": 0.48113697738904854
+      },
+      "operation-eur-100m-illegal-financial-service-laundering-2025": {
+        "community_id": 0,
+        "x": 0.12697614642286997,
+        "y": -0.10204795609753407
+      },
+      "operation-eur-300m-global-credit-card-fraud-2025": {
+        "community_id": 1,
+        "x": -0.38538303014567804,
+        "y": 0.4392652965605411
+      },
+      "operation-eur-3m-online-investment-fraud-2025": {
+        "community_id": 1,
+        "x": -0.3341326006568004,
+        "y": 0.48152029250313605
+      },
+      "operation-goldfish-alpha-night-fury": {
+        "community_id": 2,
+        "x": 0.9381585144300398,
+        "y": -0.15810565114060235
+      },
+      "operation-haechi-iii": {
+        "community_id": 1,
+        "x": -0.35479247062000474,
+        "y": 0.4860942738567758
+      },
+      "operation-haechi-iv": {
+        "community_id": 1,
+        "x": -0.38822892483105315,
+        "y": 0.39497302800845024
+      },
+      "operation-haechi-vi": {
+        "community_id": 1,
+        "x": -0.3597831097577175,
+        "y": 0.4019489592516378
+      },
+      "operation-heart-blocker": {
+        "community_id": 6,
+        "x": 0.6949005890572227,
+        "y": 0.6707886161877356
+      },
+      "operation-killer-bee": {
+        "community_id": 6,
+        "x": 0.6707485634302298,
+        "y": 0.6809850448187088
+      },
+      "operation-kraken-ghost-platform": {
+        "community_id": 1,
+        "x": -0.3244367678520279,
+        "y": 0.42050577477585704
+      },
+      "operation-onymous": {
+        "community_id": 1,
+        "x": -0.30050926906082476,
+        "y": 0.41797329884443707
+      },
+      "operation-orion-international": {
+        "community_id": 8,
+        "x": 0.6939254389291887,
+        "y": -0.6913824771268189
+      },
+      "operation-pleiades": {
+        "community_id": 9,
+        "x": -0.7046681992264787,
+        "y": -0.7343241224936096
+      },
+      "operation-power-off": {
+        "community_id": 10,
+        "x": 0.06894654043530714,
+        "y": 1.0
+      },
+      "operation-red-card": {
+        "community_id": 1,
+        "x": -0.36868639600593905,
+        "y": 0.38357871145376116
+      },
+      "operation-rewired": {
+        "community_id": 6,
+        "x": 0.6333813102634192,
+        "y": 0.6433130398873639
+      },
+      "operation-secreto": {
+        "community_id": 1,
+        "x": -0.31261315748790575,
+        "y": 0.4003374996639119
+      },
+      "operation-sentinel-africa": {
+        "community_id": 6,
+        "x": 0.6423956732426653,
+        "y": 0.6700802018861466
+      },
+      "operation-source": {
+        "community_id": 2,
+        "x": 0.8833647863991687,
+        "y": -0.1182641939221509
+      },
+      "operation-stream-kidflix": {
+        "community_id": 8,
+        "x": 0.7451223185454519,
+        "y": -0.7363124568325786
+      },
+      "operation-talent": {
+        "community_id": 5,
+        "x": -0.6284783315764931,
+        "y": -0.48668252203169665
+      },
+      "operation-trojan-shield": {
+        "community_id": 11,
+        "x": 0.05898523650757939,
+        "y": -1.0
+      },
+      "operation-wirewire": {
+        "community_id": 6,
+        "x": 0.658275699275542,
+        "y": 0.6175801413658389
+      },
+      "phobos-8base-crackdown": {
+        "community_id": 3,
+        "x": 0.09633043194748837,
+        "y": -0.6805909724261165
+      },
+      "proxy-service-takedown-2026-03": {
+        "community_id": 5,
+        "x": -0.604179330155644,
+        "y": -0.46642222208830597
+      },
+      "qqaazz-money-laundering-takedown": {
+        "community_id": 0,
+        "x": 0.16300897332927408,
+        "y": -0.05365551060682835
+      },
+      "ramnit-botnet-takedown": {
+        "community_id": 2,
+        "x": 0.9333012081172258,
+        "y": -0.1344018824901608
+      },
+      "rex-mundi-takedown": {
+        "community_id": 5,
+        "x": -0.6507018217855575,
+        "y": -0.4271175100170441
+      },
+      "rydox-marketplace-takedown": {
+        "community_id": 12,
+        "x": 0.97042872459668,
+        "y": 0.3537121250772546
+      },
+      "silk-road-takedown": {
+        "community_id": 1,
+        "x": -0.39746783187861334,
+        "y": 0.4633718184203716
+      },
+      "simda-botnet-takedown": {
+        "community_id": 2,
+        "x": 0.9232940420622371,
+        "y": -0.17761668688561313
+      },
+      "trickbot-operations": {
+        "community_id": 3,
+        "x": 0.07950526244290433,
+        "y": -0.693165323742573
+      },
+      "vpnlab-takedown": {
+        "community_id": 3,
+        "x": 0.05919203821181734,
+        "y": -0.69867046338744
+      },
+      "xdedic-marketplace-takedown": {
+        "community_id": 12,
+        "x": 1.0,
+        "y": 0.31483814748205236
+      },
+      "zeus-spyeye-jit-takedown": {
+        "community_id": 2,
+        "x": 0.8713929343057478,
+        "y": -0.17183211289076675
+      }
+    },
     "operations": [
       "2bagoldmule-qqaazz",
       "africa-cyber-surge-ii",
