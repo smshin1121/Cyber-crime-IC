@@ -14,7 +14,6 @@ defendants:
     status: "pleaded guilty"
     sentence: ""
     location_at_arrest: ""
-related_operation: "[[operation-darkweb-drug-trafficker-arrested-in-operation-disruptor-pleads-guilty]]"
 ic_elements:
   mlat_requests:
     []

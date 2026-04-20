@@ -14,7 +14,6 @@ defendants:
     status: sentenced
     sentence: ""
     location_at_arrest: ""
-related_operation: "[[operation-defendants-sentenced-for-global-darknet-conspiracy]]"
 ic_elements:
   mlat_requests:
     []

@@ -14,7 +14,6 @@ defendants:
     status: sentenced
     sentence: ""
     location_at_arrest: ""
-related_operation: "[[operation-darkode-defendant-sentenced-to-probation]]"
 ic_elements:
   mlat_requests:
     []

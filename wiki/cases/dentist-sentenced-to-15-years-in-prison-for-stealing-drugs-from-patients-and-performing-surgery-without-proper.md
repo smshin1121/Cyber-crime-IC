@@ -14,7 +14,6 @@ defendants:
     status: sentenced
     sentence: ""
     location_at_arrest: ""
-related_operation: "[[operation-dentist-sentenced-to-15-years-in-prison-for-stealing-drugs-from-patients-and-performing-surgery-without-proper]]"
 ic_elements:
   mlat_requests:
     []

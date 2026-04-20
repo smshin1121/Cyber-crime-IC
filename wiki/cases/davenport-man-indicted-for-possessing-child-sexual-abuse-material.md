@@ -14,7 +14,6 @@ defendants:
     status: indicted
     sentence: ""
     location_at_arrest: ""
-related_operation: "[[operation-davenport-man-indicted-for-possessing-child-sexual-abuse-material]]"
 ic_elements:
   mlat_requests:
     []

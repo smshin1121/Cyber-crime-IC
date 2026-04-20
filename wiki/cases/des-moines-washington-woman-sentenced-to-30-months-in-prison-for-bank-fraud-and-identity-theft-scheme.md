@@ -15,7 +15,6 @@ defendants:
     status: sentenced
     sentence: ""
     location_at_arrest: ""
-related_operation: "[[operation-des-moines-washington-woman-sentenced-to-30-months-in-prison-for-bank-fraud-and-identity-theft-scheme]]"
 ic_elements:
   mlat_requests:
     []

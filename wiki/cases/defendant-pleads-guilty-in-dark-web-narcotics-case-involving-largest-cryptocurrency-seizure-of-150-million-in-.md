@@ -15,7 +15,6 @@ defendants:
     status: "pleaded guilty"
     sentence: ""
     location_at_arrest: ""
-related_operation: "[[operation-defendant-pleads-guilty-in-dark-web-narcotics-case-involving-largest-cryptocurrency-seizure-of-150-million-in-]]"
 ic_elements:
   mlat_requests:
     []

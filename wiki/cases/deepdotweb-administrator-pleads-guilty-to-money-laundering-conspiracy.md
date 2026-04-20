@@ -19,7 +19,6 @@ defendants:
     status: "pleaded guilty"
     sentence: ""
     location_at_arrest: ""
-related_operation: "[[operation-deepdotweb-administrator-pleads-guilty-to-money-laundering-conspiracy]]"
 ic_elements:
   mlat_requests:
     []

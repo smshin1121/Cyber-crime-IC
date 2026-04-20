@@ -14,7 +14,6 @@ defendants:
     status: sentenced
     sentence: ""
     location_at_arrest: ""
-related_operation: "[[operation-darkweb-drug-trafficker-arrested-in-operation-disruptor-sentenced-to-6-5-years-in-prison]]"
 ic_elements:
   mlat_requests:
     []

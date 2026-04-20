@@ -19,7 +19,6 @@ defendants:
     status: sentenced
     sentence: ""
     location_at_arrest: ""
-related_operation: "[[operation-delaware-doctor-who-illegally-sold-controlled-substances-on-the-silk-road-drug-marketplace-sentenced-to-five-y]]"
 ic_elements:
   mlat_requests:
     []
