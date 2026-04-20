@@ -75,6 +75,10 @@ updated: 2026-04-18
 
 This follow-on action captures the arrest component of the DarkMarket takedown for the unidentified Australian alleged operator.
 
+## Audit Note
+
+This is a real multinational enforcement component, but it is only the arrest slice of the larger DarkMarket action. The summary stays narrow on purpose so the page does not overstate the procedural scope.
+
 ## Background
 
 Unlike the umbrella DarkMarket page, this follow-on entry isolates the operator-arrest aspect. That is useful because the marketplace seizure and the named operator allegation are often cited together even though their evidentiary and procedural status are not identical.

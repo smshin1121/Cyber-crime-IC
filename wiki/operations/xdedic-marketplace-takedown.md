@@ -124,6 +124,10 @@ In January 2019, the FBI, in cooperation with [[europol-ec3|Europol]] and Belgia
 
 The xDedic marketplace operated on the dark web and allowed buyers to search for compromised servers by criteria such as price, geographic location, operating system, and other technical characteristics, enabling a wide range of cybercrimes including tax fraud, ransomware deployment, and data theft.
 
+## Audit Note
+
+This stays in the wiki because the takedown is genuinely multinational. The source base is still Tier 3, so the exact server count and fraud estimate should be treated as provisional.
+
 ## Background
 
 xDedic was first identified by Kaspersky Lab in 2016, at which point it offered approximately 70,000 hacked servers for sale. The marketplace operated as a clearinghouse where hackers could sell access to compromised Remote Desktop Protocol (RDP) servers to other criminals, who would then use them as launchpads for further attacks. The marketplace migrated to the dark web after public exposure in 2016.

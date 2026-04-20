@@ -160,6 +160,10 @@ The Dridex malware infected computers in over **40 countries** and caused more t
 
 The outcome is assessed as **partial success**: one defendant was arrested, extradited, and sentenced, and the botnet was temporarily disrupted; however, the principal targets (Yakubets and Turashev) remain at large in Russia, and Evil Corp subsequently pivoted to ransomware operations.
 
+## Audit Note
+
+This is a genuine multinational umbrella. The 2015 disruption, the 2019 sanctions, and the prosecution/extradition layer are distinct and should be read as related phases rather than a single filing.
+
 ## Background
 
 ### The Dridex Malware

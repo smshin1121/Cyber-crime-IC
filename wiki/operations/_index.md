@@ -6,7 +6,7 @@ created: 2026-04-08
 updated: 2026-04-14
 ---
 
-# Operations (1095)
+# Operations (1085)
 
 | Operation | Case ID | Period | Status | CI | Tier |
 |-----------|---------|--------|--------|----|------|
@@ -822,8 +822,6 @@ updated: 2026-04-14
 | [[operation-19-individuals-worldwide-charged-in-transnational-cybercrime-investigation-of-the-xdedic-marketplace-7]] | CYB-FUP-508 | 3 | absorbed | 4.00 | 1 |
 | [[operation-19-individuals-worldwide-charged-in-transnational-cybercrime-investigation-of-the-xdedic-marketplace]] | CYB-FUP-509 | 3 | ongoing | 4.00 | 1 |
 | [[operation-bremerton-washington-man-sentenced-to-3-years-in-prison-for-extensive-swatting-campaign-targeting-victims-in-u]] | CYB-FUP-520 | 3 | completed | 4.18 | 1 |
-| [[operation-dentist-sentenced-to-15-years-in-prison-for-stealing-drugs-from-patients-and-performing-surgery-without-proper]] | CYB-FUP-538 | 3 | absorbed | 4.00 | 1 |
-| [[operation-des-moines-washington-woman-sentenced-to-30-months-in-prison-for-bank-fraud-and-identity-theft-scheme]] | CYB-FUP-539 | 3 | absorbed | 4.00 | 1 |
 | [[operation-europol-105-arrested-for-stealing-over-12-million-from-us-based-banks-operation-secreto]] | CYB-FUP-543 | 2 | completed | 4.00 | 1 |
 | [[operation-europol-french-coder-who-helped-extort-british-company-arrested-in-thailand]] | CYB-FUP-544 | 1 | completed | 4.00 | 1 |
 | [[operation-europol-mastermind-behind-eur-1-billion-cyber-bank-robbery-arrested-in-spain-carbanak-cobalt]] | CYB-FUP-545 | 1 | completed | 4.00 | 1 |
@@ -925,7 +923,6 @@ updated: 2026-04-14
 | [[operation-wichita-man-indicted-for-firearms-charges]] | CYB-FUP-668 | 3 | ongoing | 4.00 | 1 |
 | [[operation-administrator-of-online-criminal-marketplace-extradited-from-kosovo-to-the-united-states]] | CYB-FUP-670 | 3 | completed | 4.00 | 1 |
 | [[operation-chinese-national-sentenced-prison-role-crypto-scam-targeting-americans]] | CYB-FUP-677 | 3 | completed | 4.00 | 1 |
-| [[operation-darkode-defendant-sentenced-to-probation]] | CYB-FUP-684 | 1 | absorbed | 4.00 | 1 |
 | [[operation-euclid-ohio-man-pleads-guilty-distribution-fentanyl-he-ordered-china-and-sold]] | CYB-FUP-687 | 1 | completed | 4.00 | 1 |
 | [[operation-foreign-national-pleads-guilty-to-role-in-cybercrime-schemes-involving-tens-of-millions-of-dollars-in-losses]] | CYB-FUP-693 | 3 | absorbed | 4.00 | 1 |
 | [[operation-internet-stalker-sentenced-to-more-than-14-years-in-federal-prison]] | CYB-FUP-699 | 1 | completed | 4.00 | 1 |
@@ -1028,9 +1025,6 @@ updated: 2026-04-14
 | [[operation-australian-man-arrested-in-germany-accused-of-running-world-s-largest-darknet-marketplace]] | CYB-FUP-798 | 2 | completed | 4.00 | 2 |
 | [[operation-dark-web-narcotics-trafficker-sentenced-to-96-months-in-prison-for-distributing-fentanyl-heroin-methamphetamin]] | CYB-FUP-810 | 2 | completed | 4.21 | 1 |
 | [[operation-darknet-drug-vendor-arrested-for-distributing-illicit-prescription-drugs]] | CYB-FUP-815 | 2 | completed | 4.00 | 1 |
-| [[operation-darkweb-drug-trafficker-arrested-in-operation-disruptor-sentenced-to-6-5-years-in-prison]] | CYB-FUP-825 | 2 | absorbed | 4.00 | 1 |
-| [[operation-defendant-pleads-guilty-in-dark-web-narcotics-case-involving-largest-cryptocurrency-seizure-of-150-million-in-]] | CYB-FUP-826 | 3 | absorbed | 4.00 | 1 |
-| [[operation-delaware-doctor-who-illegally-sold-controlled-substances-on-the-silk-road-drug-marketplace-sentenced-to-five-y]] | CYB-FUP-827 | 1 | absorbed | 4.00 | 1 |
 | [[operation-ghost-cybercrime-platform-dismantled-in-global-operation-51-arrested]] | CYB-FUP-832 | 3 | completed | 4.00 | 1 |
 | [[operation-interpol-seized-130-million-from-cybercriminals-in-global-haechi-iii-crackdown]] | CYB-FUP-833 | 2 | completed | 4.00 | 1 |
 | [[operation-interpol-seized-130-million-from-cybercriminals-worldwide]] | CYB-FUP-834 | 2 | completed | 4.00 | 1 |
@@ -1069,10 +1063,6 @@ updated: 2026-04-14
 | [[operation-brazilian-extradited-from-switzerland-to-the-united-states-to-face-indictment-charging-involvement-in-290m-cry]] | CYB-FUP-891 | 3 | ongoing | 4.00 | 1 |
 | [[operation-culpeper-woman-arrested-in-dark-web-murder-for-hire-plot]] | CYB-FUP-916 | 2 | absorbed | 4.00 | 1 |
 | [[operation-darknet-vendor-arrested-on-distribution-and-money-laundering-charges]] | CYB-FUP-927 | 2 | ongoing | 4.00 | 1 |
-| [[operation-darkweb-drug-trafficker-arrested-in-operation-disruptor-pleads-guilty]] | CYB-FUP-929 | 2 | absorbed | 4.00 | 1 |
-| [[operation-davenport-man-indicted-for-possessing-child-sexual-abuse-material]] | CYB-FUP-930 | 3 | absorbed | 4.00 | 1 |
-| [[operation-deepdotweb-administrator-pleads-guilty-to-money-laundering-conspiracy]] | CYB-FUP-931 | 2 | absorbed | 4.00 | 1 |
-| [[operation-defendants-sentenced-for-global-darknet-conspiracy]] | CYB-FUP-932 | 3 | absorbed | 4.00 | 1 |
 | [[operation-dual-russian-and-israeli-national-extradited-to-the-united-states-for-his-role-in-the-lockbit-ransomware-consp]] | CYB-FUP-940 | 3 | completed | 4.00 | 1 |
 | [[operation-estonian-national-extradited-from-estonia-to-face-charges-of-illegal-procurement-of-u-s-electronics]] | CYB-FUP-945 | 1 | ongoing | 4.00 | 1 |
 | [[operation-florida-computer-programmer-arrested-for-hacking]] | CYB-FUP-958 | 1 | completed | 4.00 | 1 |

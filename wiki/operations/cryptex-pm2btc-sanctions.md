@@ -94,6 +94,10 @@ crime_types:
 
 The September 2024 Cryptex and PM2BTC action combined U.S. sanctions, anti-money-laundering regulation, criminal charging, and Dutch infrastructure seizure. Together, the measures targeted a Russian virtual-currency laundering ecosystem that U.S. authorities linked to ransomware payments, darknet activity, and wider cybercrime finance.
 
+## Audit Note
+
+This page is kept because the action is multinational, but the sanctions, criminal charging, and Dutch seizure pieces are separate legal layers. They are intentionally not collapsed into one generic enforcement story.
+
 ## Background
 
 Cryptex and PM2BTC were described by U.S. authorities as key financial services for illicit Russian virtual-currency flows. Treasury and FinCEN focused on the financial-risk side of the ecosystem, while DOJ tied the same action to two Russian defendants and to Dutch seizure activity against the services' infrastructure.

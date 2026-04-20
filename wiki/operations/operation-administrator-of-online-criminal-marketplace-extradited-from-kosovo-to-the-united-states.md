@@ -66,6 +66,10 @@ updated: 2026-04-18
 
 Administrator Of Online Criminal Marketplace Extradited From Kosovo To The United States Enforcement Action is a defendant-specific enforcement action page derived from [[administrator-of-online-criminal-marketplace-extradited-from-kosovo-to-the-united-states]]. It captures the prosecutorial or seizure stage reflected in the linked case record and preserves the operation-side catalog entry for this follow-on action.
 
+## Audit Note
+
+This page is kept because the cross-border fact pattern is the extradition from Kosovo to the United States. The wider investigation belongs on the case page and should not be duplicated here.
+
 ## Background
 
 The underlying public case record identifies Administrator Of Online Criminal Marketplace Extradited From Kosovo To The United States as the focal enforcement target. This page exists to represent the concrete enforcement action in the operations catalog without duplicating the deeper procedural detail already maintained on the case page.

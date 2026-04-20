@@ -84,6 +84,10 @@ The US Department of Justice unsealed an indictment on 22 May 2025 charging **Ru
 
 This action was a multinational effort involving the US, France, Germany, the Netherlands, Denmark, the United Kingdom, and Canada, with [[europol-ec3|Europol]] providing support.
 
+## Audit Note
+
+This page intentionally fuses the 2025 indictment with the 2023 Dutch disruption layer. The multinational substance is real, but the two phases should not be read as a single procedural event.
+
 ## Background
 
 Qakbot, also known as QBot or Pinkslipbot, is one of the longest-running malware families, active since 2008. Originally a banking trojan, it evolved into a major initial-access-as-a-service platform for ransomware operators. In August 2023, a multinational action disrupted the botnet and seized infrastructure across several countries.

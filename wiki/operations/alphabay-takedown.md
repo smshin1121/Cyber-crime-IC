@@ -144,6 +144,10 @@ crime_types:
 
 Operation Bayonet was a multinational law enforcement operation that dismantled **AlphaBay** and **Hansa** -- the world's two largest darknet marketplaces -- in **July 2017**. The operation was led by the [[fbi-cyber-division|FBI]] and the US Drug Enforcement Administration (DEA) for the AlphaBay component, while the [[netherlands-politie|Dutch National Police (NHTCU)]] led the Hansa component, with [[europol-ec3|Europol]] coordinating the overall strategy.
 
+## Audit Note
+
+This remains an umbrella operation because AlphaBay and Hansa were handled as linked but distinct phases of a multinational takedown. The Hansa covert-operation phase should not be collapsed into the AlphaBay seizure itself.
+
 The operation is *almost certainly* the most sophisticated darknet marketplace takedown in history, employing an unprecedented **double-sting strategy**: the [[netherlands-politie|Dutch police]] covertly seized and operated the Hansa marketplace for approximately one month before AlphaBay was publicly shut down, anticipating that AlphaBay users would migrate to Hansa. This migration trap allowed law enforcement to collect extensive evidence on thousands of vendors and buyers.
 
 AlphaBay's administrator, **Alexandre Cazes** (Canadian, age 25), was arrested by Thai police on **5 July 2017** in Bangkok on behalf of the United States. Cazes died in Thai custody on **12 July 2017** in an apparent suicide. Hansa's two German administrators were arrested by German police. At the time of shutdown, AlphaBay had approximately **400,000 users**, **40,000 vendors**, and over **350,000 listings** for illegal goods and services.

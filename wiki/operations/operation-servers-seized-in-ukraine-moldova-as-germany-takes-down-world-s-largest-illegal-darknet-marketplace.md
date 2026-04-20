@@ -65,6 +65,10 @@ updated: 2026-04-18
 
 Servers Seized In Ukraine, Moldova As Germany Takes Down 'World's Largest' Illegal Darknet Marketplace Enforcement Action is a defendant-specific enforcement action page derived from [[servers-seized-in-ukraine-moldova-as-germany-takes-down-world-s-largest-illegal-darknet-marketplace]]. It captures the prosecutorial or seizure stage reflected in the linked case record and preserves the operation-side catalog entry for this follow-on action.
 
+## Audit Note
+
+This page is retained because the seizure component is genuinely cross-border, but it should be read as a derived infrastructure-seizure slice of the German takedown rather than as a standalone operation.
+
 ## Background
 
 The underlying public case record identifies Servers Seized In Ukraine, Moldova As Germany Takes Down 'World's Largest' Illegal Darknet Marketplace as the focal enforcement target. This page exists to represent the concrete enforcement action in the operations catalog without duplicating the deeper procedural detail already maintained on the case page.
