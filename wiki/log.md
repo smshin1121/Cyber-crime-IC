@@ -564,3 +564,9 @@
 - 2D mode: ops and mode-2 flatten to concentric circles in the XY plane (z=0). On entering 2D the scene group rotation is reset to zero; auto-rotate is suppressed while SNA+2D so the plane stays face-on to the camera. Toggling back to 3D restores normal rotation.
 - No change to hover tooltip, role filter, click-to-detail, or active-node halo — all continue to work in both views because they operate on the shared posMap positions.
 - `cosmos/index.html` + `docs/cosmos/index.html` synced; JS brackets balanced.
+
+
+## [2026-04-20] cosmos-tweak | SNA font size slider
+- New right-panel slider under Camera distance: `Font size` (range 0.40..2.50x, step 0.05, default 1.00x). `S.sna.fontScale` state multiplies the per-label `scale` arg passed to `label()` so every mode-2 label scales uniformly. Operations remain unlabeled dots.
+- Slider live-redraws SNA on input (same pattern as Camera distance). syncSnaControls keeps slider + value readout in sync after loadState. saveState persists `fontScale`.
+- `cosmos/index.html` + `docs/cosmos/index.html` synced; JS brackets balanced.
