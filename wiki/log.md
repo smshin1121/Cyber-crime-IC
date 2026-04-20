@@ -546,3 +546,21 @@
 - Wheel zoom clamps widened so zoom-in/zoom-out has useful headroom at both ends: Graph 120..320 → 60..320, Globe 180..340 → 110..360, SNA 180..360 → 60..400.
 - Sliders in the right panel updated to match the new bounds (globeDistance and snaDistance min/max/value attributes).
 - `cosmos/index.html` + `docs/cosmos/index.html` synced. JS brackets balanced, no structural changes.
+
+
+## [2026-04-20] cosmos-tweak | Revert Graph/Globe camera defaults + SNA Crime-Type toggle activated
+- Prior entry changed camera defaults and wheel-zoom clamps on all three modes (Graph, Globe, SNA). User feedback: Graph and Globe were fine — only SNA needed the closer angle and wider zoom range.
+- Reverted Graph and Globe to original values: Graph default 210, clamp 120..320; Globe default 255, clamp 180..340, slider min/max/value and `globeDistanceVal2` restored; `CAM.position.set(0,0,220)` restored.
+- Kept the SNA-only changes from the prior entry: default 140, clamp 60..400, slider min=60 max=400 value=140.
+- New: SNA network sub-toggle gains a third segment — `Agency | Country | Crime` — matching the paper's 2-mode community structure dimensions. Button added to `#snaNetwork` with `data-sna-network="crime_type"`; segment container extended to 3-column grid via inline `grid-template-columns`.
+- No JS change needed: `renderSna()`, `buildSnaLegend()`, `snaRolesPresent()`, `buildSnaRoleFilter()`, and the `#snaNetwork button` onclick handler all already dispatched on `S.sna.network` as a string key and already had a crime-type fallback branch ("star topology — schema artifact" warning in rootBadge).
+- Schema limitation remains: crime-type mode-2 nodes (15 total) are all role="participant" because every operation still lists exactly one crime_type under the deprecated single-value schema. Star topology — degree, betweenness, and role differentiation are all zero. Reactivates structurally only after multi-value `crime_types` backfill (Option B, deferred).
+- `cosmos/index.html` + `docs/cosmos/index.html` synced. JS brackets balanced.
+
+
+## [2026-04-20] cosmos-feature | SNA 2D / 3D view toggle
+- New UI in SNA controls: `3D | 2D` segment under the Agency/Country/Crime toggle. `S.sna.view` state (default "3d") persists via saveState/loadState.
+- 3D mode (default): current sphere layout — ops on inner sphere r=16, mode-2 on outer sphere r=30 via Fibonacci spiral.
+- 2D mode: ops and mode-2 flatten to concentric circles in the XY plane (z=0). On entering 2D the scene group rotation is reset to zero; auto-rotate is suppressed while SNA+2D so the plane stays face-on to the camera. Toggling back to 3D restores normal rotation.
+- No change to hover tooltip, role filter, click-to-detail, or active-node halo — all continue to work in both views because they operate on the shared posMap positions.
+- `cosmos/index.html` + `docs/cosmos/index.html` synced; JS brackets balanced.
