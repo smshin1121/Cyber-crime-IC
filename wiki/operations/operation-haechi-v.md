@@ -24,9 +24,11 @@ missing_fields:
 operation_type: arrest-sweep
 outcome: success
 participating_agencies:
-
+  - "[[knpa-cyber-bureau]]"
+  - "Chinese Public Security Bureau"
 participating_countries:
-
+  - "[[south-korea]]"
+  - "[[china]]"
 period: 3
 related_cases:
 

@@ -73,7 +73,7 @@ updated: 2026-04-08
 | [[ic3]] | national-unit | Washington, D.C. / West Virginia, United States | — | 1 | 4 |
 | [[ireland-garda]] | national-unit | Dublin, Ireland | National cybercrime investigation; Digital forensics | 1 | 0 |
 | [[italy-polizia-postale]] | national-unit | Rome, Italy | Cybercrime investigation; Online child-protection investigations | — | 3 |
-| [[knpa-cyber-bureau]] | national-unit | Seoul, South Korea | — | 4 | 5 |
+| [[knpa-cyber-bureau]] | national-unit | Seoul, South Korea | — | 5 | 5 |
 | [[latvia-state-police]] | national-unit | [[latvia]] | — | 1 | 1 |
 | [[lithuania-police]] | national-unit | Saltoniškių g. 19, Vilnius 08105, Lithuania | — | 2 | 3 |
 | [[mauritius-police-cybercrime]] | national-unit | [[mauritius]] | — | — | 1 |

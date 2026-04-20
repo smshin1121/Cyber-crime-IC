@@ -26,6 +26,24 @@ outcome: success
 participating_agencies:
 
 participating_countries:
+  - "[[south-korea]]"
+  - "[[china]]"
+  - "[[india]]"
+  - "[[indonesia]]"
+  - "[[ireland]]"
+  - "[[japan]]"
+  - "[[cambodia]]"
+  - "[[laos]]"
+  - "[[malaysia]]"
+  - "[[philippines]]"
+  - "[[romania]]"
+  - "[[singapore]]"
+  - "[[slovenia]]"
+  - "[[spain]]"
+  - "[[thailand]]"
+  - "[[vietnam]]"
+  - "[[colombia]]"
+  - "[[hong-kong]]"
 
 period: 2
 related_cases:

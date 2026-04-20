@@ -26,7 +26,8 @@ outcome: ongoing
 participating_agencies:
 
 participating_countries:
-
+  - "[[south-korea]]"
+  - "[[cambodia]]"
 period: 3
 related_cases:
 

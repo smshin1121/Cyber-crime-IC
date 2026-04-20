@@ -44,6 +44,9 @@ participating_countries:
   - "[[united-kingdom]]"
   - "[[japan]]"
   - "[[india]]"
+  - "[[china]]"
+  - "[[hong-kong]]"
+  - "[[philippines]]"
 participating_agencies:
   - "[[interpol-igci]]"
   - "[[knpa-cyber-bureau]]"

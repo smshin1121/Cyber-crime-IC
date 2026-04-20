@@ -41,6 +41,7 @@ lead_agency: "[[fbi-cyber-division]]"
 coordinating_body: ""
 participating_countries:
   - "[[united-states]]"
+  - "[[china]]"
 participating_agencies:
   - "[[fbi-cyber-division]]"
 legal_basis:

@@ -7,7 +7,7 @@ updated: 2026-04-14
 total: 61
 ---
 
-# Countries (86)
+# Countries (94)
 
 | 🏳️ | Country | Legal System | Budapest Conv. | IC Capacity | MLAT Response | Sources |
 |----|---------|--------------|----------------|-------------|---------------|---------|
@@ -39,6 +39,7 @@ total: 61
 | 🇩🇪 | [[germany]] | civil-law | — | high | 90-180 | 5 |
 | 🇩🇰 | [[denmark]] | civil-law | — | unknown | unknown | 0 |
 | 🇪🇨 | [[ecuador]] | civil-law | — | unknown | unknown | 0 |
+| 🇪🇪 | [[estonia]] | civil-law | listed | high | unknown | 0 |
 | 🇪🇸 | [[spain]] | civil-law | — | high | 90-180 | 6 |
 | 🇫🇮 | [[finland]] | civil-law | — | high | 90-180 | 6 |
 | 🇫🇷 | [[france]] | civil-law | — | high | 90-180 | 6 |
@@ -60,7 +61,9 @@ total: 61
 | 🇮🇹 | [[italy]] | civil-law | — | high | 90-180 | 6 |
 | 🇯🇵 | [[japan]] | civil-law | — | high | 90-180 | 0 |
 | 🇰🇪 | [[kenya]] | mixed | — | medium | unknown | 0 |
+| 🇰🇭 | [[cambodia]] | civil-law | — | low | unknown | 0 |
 | 🇰🇷 | [[south-korea]] | civil-law | — | high | 60-120 | 17 |
+| 🇱🇦 | [[laos]] | civil-law | — | unknown | unknown | 0 |
 | 🇱🇹 | [[lithuania]] | civil-law | listed | unknown | unknown | 0 |
 | 🇱🇺 | [[luxembourg]] | civil-law | — | unknown | unknown | 0 |
 | 🇱🇻 | [[latvia]] | civil-law | — | medium | unknown | 0 |
@@ -68,6 +71,7 @@ total: 61
 | 🇲🇩 | [[moldova]] | civil-law | — | unknown | unknown | 0 |
 | 🇲🇪 | [[montenegro]] | civil-law | — | unknown | unknown | 0 |
 | 🇲🇰 | [[macedonia]] | civil-law | — | unknown | unknown | 0 |
+| 🇲🇲 | [[myanmar]] | mixed | — | unknown | unknown | 0 |
 | 🇲🇺 | [[mauritius]] | mixed | — | medium | unknown | 0 |
 | 🇲🇽 | [[mexico]] | — | — | unknown | unknown | 0 |
 | 🇲🇾 | [[malaysia]] | mixed | — | medium | unknown | 0 |
@@ -75,15 +79,18 @@ total: 61
 | 🇳🇱 | [[netherlands]] | civil-law | — | high | 60-120 | 5 |
 | 🇳🇴 | [[norway]] | civil-law | — | high | unknown | 0 |
 | 🇵🇪 | [[peru]] | civil-law | — | unknown | unknown | 0 |
+| 🇵🇭 | [[philippines]] | mixed | listed | medium | unknown | 0 |
 | 🇵🇰 | [[pakistan]] | common-law | — | unknown | unknown | 0 |
 | 🇵🇱 | [[poland]] | civil-law | — | medium | unknown | 3 |
 | 🇵🇹 | [[portugal]] | civil-law | — | medium | unknown | 3 |
 | 🇵🇾 | [[paraguay]] | civil-law | — | unknown | unknown | 0 |
 | 🇷🇴 | [[romania]] | civil-law | — | high | unknown | 4 |
 | 🇷🇸 | [[serbia]] | civil-law | — | medium | unknown | 3 |
+| 🇷🇺 | [[russia]] | civil-law | listed | low | 180+ | 0 |
 | 🇷🇼 | [[rwanda]] | mixed | — | medium | unknown | 3 |
 | 🇸🇪 | [[sweden]] | civil-law | — | high | 90-180 | 0 |
 | 🇸🇬 | [[singapore]] | common-law | — | high | unknown | 0 |
+| 🇸🇮 | [[slovenia]] | civil-law | listed | medium | unknown | 0 |
 | 🇸🇷 | [[suriname]] | civil-law | — | unknown | unknown | 0 |
 | 🇹🇬 | [[togo]] | civil-law | — | low | unknown | 3 |
 | 🇹🇭 | [[thailand]] | civil-law | — | medium | unknown | 3 |
@@ -94,6 +101,7 @@ total: 61
 | 🇺🇸 | [[united-states]] | common-law | — | high | 180+ | 1 |
 | 🇺🇾 | [[uruguay]] | civil-law | — | unknown | unknown | 0 |
 | 🇻🇪 | [[venezuela]] | civil-law | — | unknown | unknown | 0 |
+| 🇻🇳 | [[vietnam]] | civil-law | — | low | unknown | 0 |
 | 🇽🇰 | [[kosovo]] | civil-law | — | low | unknown | 0 |
 | 🇿🇦 | [[south-africa]] | mixed | — | medium | unknown | 0 |
 | 🇿🇲 | [[zambia]] | common-law | — | low | unknown | 2 |

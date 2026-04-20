@@ -25,6 +25,7 @@ official_name: "Korea National Police Agency — cybercrime enforcement apparatu
 official_name_ko: "경찰청 사이버범죄 수사조직"
 operations_participated:
   - "[[operation-haechi-iv]]"
+  - "[[operation-haechi-v]]"
   - "[[operation-haechi-vi]]"
   - "[[korea-cambodia-scam-repatriation]]"
   - "[[operation-cyber-guardian]]"

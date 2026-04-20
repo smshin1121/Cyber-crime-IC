@@ -25,8 +25,11 @@ lead_agency: "[[china-mps]]"
 coordinating_body: ""
 participating_countries:
   - "[[china]]"
+  - "[[myanmar]]"
 participating_agencies:
   - "[[china-mps]]"
+  - "Myanmar Border Authorities"
+  - "MNDAA (Myanmar National Democratic Alliance Army)"
 legal_basis:
 
 mechanisms_used:
