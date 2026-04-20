@@ -35,7 +35,6 @@ participating_countries:
   - "[[belize]]"
   - "[[bulgaria]]"
   - "[[canada]]"
-  - "[[colombia]]"
   - "[[finland]]"
   - "[[france]]"
   - "[[germany]]"
@@ -110,11 +109,14 @@ sources:
   - "[[kaspersky-operation-avalanche]]"
 summary: "Operation Avalanche was a German-origin investigation and multinational takedown that disrupted one of the world's largest malware, phishing and spam infrastructures on 30 November 2016. Europol, Eurojust, INTERPOL, the FBI, BSI and many national partners combined judicial coordination, technical sinkholing, domain blocking and server seizures to break the network."
 created: 2026-04-08
-updated: 2026-04-18
+updated: 2026-04-21
 ---
 ## Summary
 
 Operation Avalanche was a German-origin investigation and multinational takedown that disrupted one of the world's largest malware, phishing and spam infrastructures on 30 November 2016. Europol, Eurojust, INTERPOL, the FBI, BSI and many national partners combined judicial coordination, technical sinkholing, domain blocking and server seizures to break the network.
+
+> [!note] Audit Note — Participating Countries Source Verification (2026-04-21)
+> Colombia was removed from `participating_countries` on 2026-04-21 because it is not named as a participant in any of the tier-1/tier-2 primary sources on file (Europol press release, US DOJ press release, Eurojust Avalanche case report PDF). The remaining countries in the list are retained pending a country-by-country cross-check against the original Europol/Eurojust rosters. Additions to a country's `operations_participated` field should only be made when the operation's primary source explicitly names that country.
 
 ## Why The Operation Matters
 

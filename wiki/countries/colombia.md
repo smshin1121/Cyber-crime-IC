@@ -25,11 +25,13 @@ ic_capacity:
   rating: medium
 iso_code: CO
 key_agencies: []
-last_verified: '2026-04-10'
+last_verified: '2026-04-21'
 legal_system: civil-law
 notable_cases: []
 operations_participated:
 - '[[operation-orion-international]]'
+- '[[operation-haechi-ii]]'
+- '[[imminent-monitor-rat-takedown]]'
 region: south-america
 source_count: 5
 sources: []
@@ -40,7 +42,7 @@ treaty_memberships:
   reservations: []
   status: party
 type: country
-updated: 2026-04-13
+updated: 2026-04-21
 ---
 
 ## Summary
@@ -91,6 +93,16 @@ National CERT under the Ministry of ICT; coordinates incident response.
 
 Colombia is *likely* an active participant in Interpol's cybercrime operations in Latin America. Its accession to the Budapest Convention in 2020 has *likely* increased its formal MLA cooperation with European parties. Colombia is a long-standing US partner with extensive MLAT traffic.
 
+### Verified Operational Participation (primary-source confirmed)
+
+| Operation | Coordinator | Primary source explicitly naming Colombia |
+|---|---|---|
+| [[operation-orion-international]] | INTERPOL | INTERPOL press release, 2024-10-15 (full country roster) |
+| [[operation-haechi-ii]] | INTERPOL | INTERPOL press release, 2021-11-30 (full country roster incl. USD 8M BEC case in Colombia) |
+| [[imminent-monitor-rat-takedown]] | AFP / Europol | Europol press release, 2019-11-29 ("arrests in Europe, Colombia and Australia") |
+
+**Source-verification policy.** Additions to `operations_participated` on this page are only made when a tier-1 primary source (Europol / INTERPOL / DOJ / national agency press release or court filing) explicitly names Colombia as a participant. Operations whose frontmatter lists Colombia but whose primary sources do not mention Colombia are tracked in `## Contradictions & Open Questions` below and not asserted as participation.
+
 ## Capacity Assessment
 
 Capacity is *likely* medium to medium-high by regional standards. Colombia benefits from substantial US and EU capacity-building investment. Spanish is the working language; English proficiency in specialized units is *likely* medium.
@@ -100,6 +112,7 @@ Capacity is *likely* medium to medium-high by regional standards. Colombia benef
 - Exact content of Colombia's Budapest Convention declarations (e.g., Article 24 designated authorities).
 - Status of Second Additional Protocol signature/ratification.
 - Current cybercrime caseload at DIJIN and Fiscalía cybercrime unit.
+- **Operation Avalanche (2016) — unverified participation.** [[operation-avalanche]] previously listed Colombia in its `participating_countries` field, but the Europol press release, US DOJ press release, and the 2017 Eurojust Avalanche case report PDF do not name Colombia. Removed from both pages on 2026-04-21 pending a tier-1 source that explicitly confirms Colombian involvement.
 
 ## References
 

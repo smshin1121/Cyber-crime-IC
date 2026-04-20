@@ -1,5 +1,11 @@
 # Activity Log
 
+## [2026-04-21] audit | Colombia participating-operations source verification
+- Trigger: Globe picker showed Colombia across 4 operations; user asked for data provenance. Principle applied — only assert participation when a tier-1 primary source explicitly names Colombia.
+- Verified (primary source explicit): [[operation-orion-international]] (INTERPOL 2024-10-15), [[operation-haechi-ii]] (INTERPOL 2021-11-30), [[imminent-monitor-rat-takedown]] (Europol 2019-11-29)
+- Un-verified, removed: [[operation-avalanche]] — Europol press release, US DOJ press release, and 2017 Eurojust case report PDF do not name Colombia. Removed `[[colombia]]` from avalanche's `participating_countries`; flagged in Colombia's Contradictions section pending evidence.
+- Pages updated: wiki/countries/colombia.md (added Verified Operational Participation table + source-verification policy), wiki/operations/operation-avalanche.md (Audit Note).
+
 ## [2026-04-12] ingest | Court documents for 10 operations (판결문 수집 첫 배치)
 - Source: DOJ press releases, indictments, sentencing announcements (justice.gov)
 - Raw case documents created (10): silk-road sentencing, infraud indictment, goznym indictment, darkode indictment, trickbot/conti indictments, qakbot/gallyamov indictment, danabot indictment, dridex/yakubets indictment, ghinkul/bugat indictment, emotet disruption order
