@@ -14,7 +14,6 @@ defendants:
     status: sentenced
     sentence: ""
     location_at_arrest: ""
-related_operation: "[[operation-gulfport-man-sentenced-to-87-months-for-possession-of-videos-and-images-of-minors-engaging-in-sexually-explici]]"
 ic_elements:
   mlat_requests:
     []
@@ -48,10 +47,6 @@ Gulfport Man Sentenced to 87 Months for Possession of Videos and Images of Minor
 ## Facts
 
 This case page was generated from [[2026-04-18_justice-gov_gulfport-man-sentenced-87-months-possession-videos-and-images-minors-engaging-sexually]] and reflects an official action title from the source corpus.
-
-## International Cooperation Elements
-
-This source-derived page should be enriched with case-level cooperation detail if primary filings or fuller official narratives are collected.
 
 ## Legal Analysis
 

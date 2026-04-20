@@ -14,7 +14,6 @@ defendants:
     status: sentenced
     sentence: ""
     location_at_arrest: ""
-related_operation: "[[operation-georgia-man-sentenced-to-six-years-in-federal-prison-for-possession-of-child-sexual-abuse-material]]"
 ic_elements:
   mlat_requests:
     []
@@ -48,10 +47,6 @@ Georgia Man Sentenced to Six Years in Federal Prison for Possession of Child Sex
 ## Facts
 
 This case page was generated from [[2026-04-18_justice-gov_georgia-man-sentenced-six-years-federal-prison-possession-child-sexual-abuse-material]] and reflects an official action title from the source corpus.
-
-## International Cooperation Elements
-
-This source-derived page should be enriched with case-level cooperation detail if primary filings or fuller official narratives are collected.
 
 ## Legal Analysis
 

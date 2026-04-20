@@ -15,7 +15,6 @@ defendants:
     status: sentenced
     sentence: ""
     location_at_arrest: ""
-related_operation: "[[operation-glendale-man-sentenced-to-10-years-in-federal-prison-for-participating-in-darknet-drug-trafficking-organizatio]]"
 ic_elements:
   mlat_requests:
     []
@@ -49,10 +48,6 @@ Glendale Man Sentenced to 10 Years in Federal Prison for Participating in Darkne
 ## Facts
 
 This case page was generated from [[2026-04-18_justice-gov_glendale-man-sentenced-10-years-federal-prison-participating-darknet-drug-trafficking]] and reflects an official action title from the source corpus.
-
-## International Cooperation Elements
-
-This source-derived page should be enriched with case-level cooperation detail if primary filings or fuller official narratives are collected.
 
 ## Legal Analysis
 

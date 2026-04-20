@@ -16,7 +16,6 @@ defendants:
     status: "pleaded guilty"
     sentence: ""
     location_at_arrest: ""
-related_operation: "[[operation-french-cybercriminal-pleads-guilty-to-fraud-and-aggravated-identity-theft-for-hacking-private-information]]"
 ic_elements:
   mlat_requests:
     []
@@ -29,10 +28,6 @@ ic_elements:
     []
 cooperating_agencies:
   - "[[us-doj]]"
-legal_frameworks_invoked:
-  - "[[informal-cooperation]]"
-mechanisms_used:
-  - "[[informal-cooperation]]"
 key_legal_issues:
   - "[[carding-fraud-ic]]"
 precedent_value: "Source-derived official action page; procedural enrichment from primary filings may still be needed."
@@ -50,10 +45,6 @@ French cybercriminal pleads guilty to fraud and aggravated identity theft for ha
 ## Facts
 
 This case page was generated from [[2026-04-18_justice-gov_french-cybercriminal-pleads-guilty-fraud-and-aggravated-identity-theft-hacking-private]] and reflects an official action title from the source corpus.
-
-## International Cooperation Elements
-
-This source-derived page should be enriched with case-level cooperation detail if primary filings or fuller official narratives are collected.
 
 ## Legal Analysis
 

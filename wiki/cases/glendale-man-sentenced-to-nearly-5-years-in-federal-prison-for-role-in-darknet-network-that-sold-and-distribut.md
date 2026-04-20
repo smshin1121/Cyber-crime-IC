@@ -15,7 +15,6 @@ defendants:
     status: sentenced
     sentence: ""
     location_at_arrest: ""
-related_operation: "[[operation-glendale-man-sentenced-to-nearly-5-years-in-federal-prison-for-role-in-darknet-network-that-sold-and-distribut]]"
 ic_elements:
   mlat_requests:
     []
@@ -49,10 +48,6 @@ Glendale Man Sentenced to Nearly 5 Years in Federal Prison for Role in Darknet N
 ## Facts
 
 This case page was generated from [[2026-04-18_justice-gov_glendale-man-sentenced-nearly-5-years-federal-prison-role-darknet-network-sold-and]] and reflects an official action title from the source corpus.
-
-## International Cooperation Elements
-
-This source-derived page should be enriched with case-level cooperation detail if primary filings or fuller official narratives are collected.
 
 ## Legal Analysis
 

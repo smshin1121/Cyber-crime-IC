@@ -6,7 +6,7 @@ created: 2026-04-08
 updated: 2026-04-14
 ---
 
-# Operations (1135)
+# Operations (1095)
 
 | Operation | Case ID | Period | Status | CI | Tier |
 |-----------|---------|--------|--------|----|------|
@@ -202,13 +202,6 @@ updated: 2026-04-14
 | [[operation-us-v-witters-dark-web]] | CYB-FUP-098 | 1 | completed | 4.00 | 1 |
 | [[operation-us-v-telusma-infraud]] | CYB-FUP-099 | 2 | completed | 4.00 | 1 |
 | [[operation-us-v-wu-haibo-isoon]] | CYB-FUP-100 | 3 | ongoing | 4.00 | 1 |
-| [[operation-guam-meth-trafficker-sentenced-to-135-months-in-federal-prison]] | CYB-FUP-1000 | 3 | completed | 4.00 | 1 |
-| [[operation-guatemalan-national-and-malden-man-indicted-for-distributing-cocaine]] | CYB-FUP-1001 | 3 | ongoing | 4.00 | 1 |
-| [[operation-honduran-national-indicted-for-illegal-re-entry]] | CYB-FUP-1002 | 3 | ongoing | 4.00 | 1 |
-| [[operation-huntsville-man-pleads-guilty-to-possessing-large-collection-of-child-pornography]] | CYB-FUP-1003 | 1 | completed | 4.00 | 1 |
-| [[operation-illinois-man-convicted-of-federal-criminal-charges-for-operating-subscription-based-computer-attack-platforms]] | CYB-FUP-1004 | 2 | completed | 4.00 | 1 |
-| [[operation-illinois-man-sentenced-to-2-years-in-federal-prison-for-operating-subscription-based-computer-attack-platforms]] | CYB-FUP-1005 | 2 | completed | 4.00 | 1 |
-| [[operation-illinois-nurse-charged-with-tampering-with-morphine-prescribed-to-patient]] | CYB-FUP-1006 | 3 | ongoing | 4.00 | 1 |
 | [[operation-independence-pair-indicted-for-drug-and-firearms-offenses]] | CYB-FUP-1007 | 3 | ongoing | 4.00 | 1 |
 | [[operation-individual-arrested-and-charged-with-operating-notorious-darknet-cryptocurrency-mixer]] | CYB-FUP-1008 | 2 | ongoing | 4.00 | 1 |
 | [[operation-international-crypto-vendor-sentenced-for-money-laundering-conspiracy]] | CYB-FUP-1009 | 3 | completed | 4.00 | 1 |
@@ -829,23 +822,14 @@ updated: 2026-04-14
 | [[operation-19-individuals-worldwide-charged-in-transnational-cybercrime-investigation-of-the-xdedic-marketplace-7]] | CYB-FUP-508 | 3 | absorbed | 4.00 | 1 |
 | [[operation-19-individuals-worldwide-charged-in-transnational-cybercrime-investigation-of-the-xdedic-marketplace]] | CYB-FUP-509 | 3 | ongoing | 4.00 | 1 |
 | [[operation-bremerton-washington-man-sentenced-to-3-years-in-prison-for-extensive-swatting-campaign-targeting-victims-in-u]] | CYB-FUP-520 | 3 | completed | 4.18 | 1 |
-| [[operation-dentist-sentenced-to-15-years-in-prison-for-stealing-drugs-from-patients-and-performing-surgery-without-proper]] | CYB-FUP-538 | 3 | completed | 4.00 | 1 |
-| [[operation-des-moines-washington-woman-sentenced-to-30-months-in-prison-for-bank-fraud-and-identity-theft-scheme]] | CYB-FUP-539 | 3 | completed | 4.00 | 1 |
-| [[operation-doctor-sentenced-in-dark-web-murder-for-hire-plot]] | CYB-FUP-540 | 3 | completed | 4.00 | 1 |
+| [[operation-dentist-sentenced-to-15-years-in-prison-for-stealing-drugs-from-patients-and-performing-surgery-without-proper]] | CYB-FUP-538 | 3 | absorbed | 4.00 | 1 |
+| [[operation-des-moines-washington-woman-sentenced-to-30-months-in-prison-for-bank-fraud-and-identity-theft-scheme]] | CYB-FUP-539 | 3 | absorbed | 4.00 | 1 |
 | [[operation-europol-105-arrested-for-stealing-over-12-million-from-us-based-banks-operation-secreto]] | CYB-FUP-543 | 2 | completed | 4.00 | 1 |
 | [[operation-europol-french-coder-who-helped-extort-british-company-arrested-in-thailand]] | CYB-FUP-544 | 1 | completed | 4.00 | 1 |
 | [[operation-europol-mastermind-behind-eur-1-billion-cyber-bank-robbery-arrested-in-spain-carbanak-cobalt]] | CYB-FUP-545 | 1 | completed | 4.00 | 1 |
 | [[operation-fayette-county-man-admits-making-hoax-emergency-phone-calls-to-elicit-an-armed-police-response-practice-is-kno]] | CYB-FUP-548 | 1 | completed | 4.00 | 1 |
-| [[operation-five-indicted-for-drug-trafficking-in-the-jungle-and-seattles-international-district]] | CYB-FUP-553 | 3 | ongoing | 4.00 | 1 |
-| [[operation-five-individuals-indicted-for-crimes-related-to-transnational-repression-scheme-to-silence-critics-of-the-peop]] | CYB-FUP-554 | 2 | ongoing | 4.00 | 1 |
-| [[operation-five-sisters-indicted-for-defrauding-retailers-return-program]] | CYB-FUP-555 | 3 | ongoing | 4.00 | 1 |
 | [[operation-french-coder-who-helped-extort-british-company-arrested-in-thailand]] | CYB-FUP-564 | 1 | completed | 4.00 | 1 |
-| [[operation-french-cybercriminal-pleads-guilty-to-fraud-and-aggravated-identity-theft-for-hacking-private-information]] | CYB-FUP-565 | 3 | completed | 4.00 | 1 |
-| [[operation-heroin-and-cocaine-vendor-on-alphabay-sentenced-to-6-5-years-in-prison]] | CYB-FUP-566 | 1 | completed | 4.00 | 1 |
-| [[operation-honduran-citizen-indicted-on-illegal-re-entry-charge]] | CYB-FUP-567 | 3 | ongoing | 4.00 | 1 |
 | [[operation-hook-line-and-sinker-cybercrime-network-phishing-bank-credentials-arrested-in-romania]] | CYB-FUP-568 | 3 | completed | 4.00 | 1 |
-| [[operation-husband-and-wife-indicted-in-1-1-million-wire-fraud-conspiracy]] | CYB-FUP-569 | 3 | ongoing | 4.00 | 1 |
-| [[operation-id-thief-indicted-for-bank-fraud]] | CYB-FUP-570 | 2 | ongoing | 4.00 | 1 |
 | [[operation-interpol-online-scamming-fraud-three-nigerians-arrested-in-operation-killer-bee]] | CYB-FUP-571 | 2 | completed | 4.00 | 1 |
 | [[operation-iranian-national-indicted-for-operating-online-marketplace-offering-fentanyl-and-money-laundering-services]] | CYB-FUP-572 | 3 | ongoing | 4.00 | 1 |
 | [[operation-iranian-national-indicted-for-operating-online-marketplace-offering-fentanyl-other-drugs-and-money-laundering-]] | CYB-FUP-573 | 3 | ongoing | 4.00 | 1 |
@@ -941,15 +925,9 @@ updated: 2026-04-14
 | [[operation-wichita-man-indicted-for-firearms-charges]] | CYB-FUP-668 | 3 | ongoing | 4.00 | 1 |
 | [[operation-administrator-of-online-criminal-marketplace-extradited-from-kosovo-to-the-united-states]] | CYB-FUP-670 | 3 | completed | 4.00 | 1 |
 | [[operation-chinese-national-sentenced-prison-role-crypto-scam-targeting-americans]] | CYB-FUP-677 | 3 | completed | 4.00 | 1 |
-| [[operation-darkode-defendant-sentenced-to-probation]] | CYB-FUP-684 | 1 | completed | 4.00 | 1 |
+| [[operation-darkode-defendant-sentenced-to-probation]] | CYB-FUP-684 | 1 | absorbed | 4.00 | 1 |
 | [[operation-euclid-ohio-man-pleads-guilty-distribution-fentanyl-he-ordered-china-and-sold]] | CYB-FUP-687 | 1 | completed | 4.00 | 1 |
-| [[operation-five-defendants-sentenced-in-connection-with-operating-one-of-the-largest-illegal-television-show-streaming-se]] | CYB-FUP-690 | 3 | completed | 4.00 | 1 |
-| [[operation-florida-man-and-woman-sentenced-for-conspiracy-to-sell-counterfeit-drugs-on-dark-web]] | CYB-FUP-691 | 3 | completed | 4.00 | 1 |
-| [[operation-florida-man-pleads-guilty-in-case-targeting-opioid-trafficking-on-the-darknet]] | CYB-FUP-692 | 1 | completed | 4.00 | 1 |
 | [[operation-foreign-national-pleads-guilty-to-role-in-cybercrime-schemes-involving-tens-of-millions-of-dollars-in-losses]] | CYB-FUP-693 | 3 | absorbed | 4.00 | 1 |
-| [[operation-gulfport-man-sentenced-to-87-months-for-possession-of-videos-and-images-of-minors-engaging-in-sexually-explici]] | CYB-FUP-696 | 3 | completed | 4.00 | 1 |
-| [[operation-hacker-collective-member-who-made-online-threats-against-schools-and-airline-sentenced-to-nearly-8-years-in-fe]] | CYB-FUP-697 | 2 | completed | 4.00 | 1 |
-| [[operation-idaho-man-sentenced-to-federal-prison-for-role-in-darknet-drug-distribution-scheme]] | CYB-FUP-698 | 2 | completed | 4.00 | 1 |
 | [[operation-internet-stalker-sentenced-to-more-than-14-years-in-federal-prison]] | CYB-FUP-699 | 1 | completed | 4.00 | 1 |
 | [[operation-iranian-man-pleaded-guilty-to-role-in-robbinhood-ransomware]] | CYB-FUP-700 | 3 | completed | 4.00 | 1 |
 | [[operation-jordanian-man-admits-selling-unauthorized-access-to-computer-networks-of-50-companies]] | CYB-FUP-701 | 3 | completed | 4.00 | 1 |
@@ -1050,12 +1028,9 @@ updated: 2026-04-14
 | [[operation-australian-man-arrested-in-germany-accused-of-running-world-s-largest-darknet-marketplace]] | CYB-FUP-798 | 2 | completed | 4.00 | 2 |
 | [[operation-dark-web-narcotics-trafficker-sentenced-to-96-months-in-prison-for-distributing-fentanyl-heroin-methamphetamin]] | CYB-FUP-810 | 2 | completed | 4.21 | 1 |
 | [[operation-darknet-drug-vendor-arrested-for-distributing-illicit-prescription-drugs]] | CYB-FUP-815 | 2 | completed | 4.00 | 1 |
-| [[operation-darkweb-drug-trafficker-arrested-in-operation-disruptor-sentenced-to-6-5-years-in-prison]] | CYB-FUP-825 | 2 | completed | 4.00 | 1 |
-| [[operation-defendant-pleads-guilty-in-dark-web-narcotics-case-involving-largest-cryptocurrency-seizure-of-150-million-in-]] | CYB-FUP-826 | 3 | completed | 4.00 | 1 |
-| [[operation-delaware-doctor-who-illegally-sold-controlled-substances-on-the-silk-road-drug-marketplace-sentenced-to-five-y]] | CYB-FUP-827 | 1 | completed | 4.00 | 1 |
-| [[operation-florida-man-indicted-for-selling-fentanyl-on-the-darknet-in-exchange-for-cryptocurrency]] | CYB-FUP-828 | 2 | ongoing | 4.00 | 1 |
-| [[operation-florida-man-pleads-guilty-to-selling-fentanyl-over-the-dark-web]] | CYB-FUP-829 | 3 | completed | 4.00 | 1 |
-| [[operation-florida-man-sentenced-to-10-years-in-prison-for-selling-fentanyl-over-the-dark-web]] | CYB-FUP-830 | 3 | completed | 4.00 | 1 |
+| [[operation-darkweb-drug-trafficker-arrested-in-operation-disruptor-sentenced-to-6-5-years-in-prison]] | CYB-FUP-825 | 2 | absorbed | 4.00 | 1 |
+| [[operation-defendant-pleads-guilty-in-dark-web-narcotics-case-involving-largest-cryptocurrency-seizure-of-150-million-in-]] | CYB-FUP-826 | 3 | absorbed | 4.00 | 1 |
+| [[operation-delaware-doctor-who-illegally-sold-controlled-substances-on-the-silk-road-drug-marketplace-sentenced-to-five-y]] | CYB-FUP-827 | 1 | absorbed | 4.00 | 1 |
 | [[operation-ghost-cybercrime-platform-dismantled-in-global-operation-51-arrested]] | CYB-FUP-832 | 3 | completed | 4.00 | 1 |
 | [[operation-interpol-seized-130-million-from-cybercriminals-in-global-haechi-iii-crackdown]] | CYB-FUP-833 | 2 | completed | 4.00 | 1 |
 | [[operation-interpol-seized-130-million-from-cybercriminals-worldwide]] | CYB-FUP-834 | 2 | completed | 4.00 | 1 |
@@ -1094,20 +1069,13 @@ updated: 2026-04-14
 | [[operation-brazilian-extradited-from-switzerland-to-the-united-states-to-face-indictment-charging-involvement-in-290m-cry]] | CYB-FUP-891 | 3 | ongoing | 4.00 | 1 |
 | [[operation-culpeper-woman-arrested-in-dark-web-murder-for-hire-plot]] | CYB-FUP-916 | 2 | absorbed | 4.00 | 1 |
 | [[operation-darknet-vendor-arrested-on-distribution-and-money-laundering-charges]] | CYB-FUP-927 | 2 | ongoing | 4.00 | 1 |
-| [[operation-darkweb-drug-trafficker-arrested-in-operation-disruptor-pleads-guilty]] | CYB-FUP-929 | 2 | completed | 4.00 | 1 |
-| [[operation-davenport-man-indicted-for-possessing-child-sexual-abuse-material]] | CYB-FUP-930 | 3 | ongoing | 4.00 | 1 |
-| [[operation-deepdotweb-administrator-pleads-guilty-to-money-laundering-conspiracy]] | CYB-FUP-931 | 2 | completed | 4.00 | 1 |
-| [[operation-defendants-sentenced-for-global-darknet-conspiracy]] | CYB-FUP-932 | 3 | completed | 4.00 | 1 |
-| [[operation-distributor-of-anom-hardened-encrypted-devices-sentenced-to-63-months-in-prison-for-racketeering-conspiracy]] | CYB-FUP-933 | 3 | completed | 4.00 | 1 |
-| [[operation-district-man-charged-in-investigation-of-illegal-posting-of-restricted-personal-information-of-u-s-senators-on]] | CYB-FUP-934 | 1 | ongoing | 4.00 | 1 |
-| [[operation-district-man-indicted-for-distributing-child-pornography]] | CYB-FUP-935 | 3 | ongoing | 4.00 | 1 |
-| [[operation-district-man-sentenced-to-97-months-in-prison-for-soliciting-and-receiving-child-pornography]] | CYB-FUP-936 | 3 | completed | 4.00 | 1 |
+| [[operation-darkweb-drug-trafficker-arrested-in-operation-disruptor-pleads-guilty]] | CYB-FUP-929 | 2 | absorbed | 4.00 | 1 |
+| [[operation-davenport-man-indicted-for-possessing-child-sexual-abuse-material]] | CYB-FUP-930 | 3 | absorbed | 4.00 | 1 |
+| [[operation-deepdotweb-administrator-pleads-guilty-to-money-laundering-conspiracy]] | CYB-FUP-931 | 2 | absorbed | 4.00 | 1 |
+| [[operation-defendants-sentenced-for-global-darknet-conspiracy]] | CYB-FUP-932 | 3 | absorbed | 4.00 | 1 |
 | [[operation-dual-russian-and-israeli-national-extradited-to-the-united-states-for-his-role-in-the-lockbit-ransomware-consp]] | CYB-FUP-940 | 3 | completed | 4.00 | 1 |
 | [[operation-estonian-national-extradited-from-estonia-to-face-charges-of-illegal-procurement-of-u-s-electronics]] | CYB-FUP-945 | 1 | ongoing | 4.00 | 1 |
-| [[operation-five-defendants-sentenced-in-wide-reaching-drug-trafficking-conspiracy]] | CYB-FUP-957 | 3 | completed | 4.00 | 1 |
 | [[operation-florida-computer-programmer-arrested-for-hacking]] | CYB-FUP-958 | 1 | completed | 4.00 | 1 |
-| [[operation-florida-man-pleads-guilty-to-production-of-images-of-child-sexual-abuse-and-traveling-to-sexually-assault-a-mi]] | CYB-FUP-959 | 3 | completed | 4.00 | 1 |
-| [[operation-florida-man-sentenced-to-20-years-in-prison-for-producing-images-of-child-sexual-abuse-and-traveling-across-th]] | CYB-FUP-960 | 3 | completed | 4.00 | 1 |
 | [[operation-foreign-national-indicted-in-wire-fraud-scheme]] | CYB-FUP-961 | 3 | absorbed | 4.00 | 1 |
 | [[operation-foreign-national-sentenced-for-victimizing-u-s-persons-through-cyber-enabled-fraud-schemes]] | CYB-FUP-962 | 3 | absorbed | 4.00 | 1 |
 | [[operation-foreign-nationals-sentenced-for-roles-in-transnational-cybercrime-enterprise]] | CYB-FUP-963 | 3 | absorbed | 4.00 | 1 |
@@ -1119,15 +1087,7 @@ updated: 2026-04-14
 | [[operation-former-employee-of-silicon-valley-company-pleads-guilty-to-damaging-ex-employers-computers]] | CYB-FUP-969 | 1 | absorbed | 4.00 | 1 |
 | [[operation-former-owner-of-t-mobile-retail-store-in-eagle-rock-found-guilty-of-committing-25-million-scheme-to-illegally-]] | CYB-FUP-976 | 2 | completed | 4.00 | 1 |
 | [[operation-former-teaching-assistant-in-st-louis-admits-blackmailing-student]] | CYB-FUP-981 | 2 | completed | 4.00 | 1 |
-| [[operation-georgetown-restauranteurs-sentenced-to-prison-for-tax-offenses-and-theft-of-covid-19-relief-funds]] | CYB-FUP-991 | 3 | completed | 4.00 | 1 |
-| [[operation-georgia-man-sentenced-to-4-5-years-in-federal-prison-for-using-stolen-credit-card-numbers-to-obtain-over-half-]] | CYB-FUP-992 | 3 | completed | 4.00 | 1 |
-| [[operation-georgia-man-sentenced-to-six-years-in-federal-prison-for-possession-of-child-sexual-abuse-material]] | CYB-FUP-993 | 3 | completed | 4.00 | 1 |
-| [[operation-glendale-man-sentenced-to-10-years-in-federal-prison-for-participating-in-darknet-drug-trafficking-organizatio]] | CYB-FUP-994 | 3 | completed | 4.00 | 1 |
-| [[operation-glendale-man-sentenced-to-13-years-for-participating-in-darknet-drug-distribution-ring]] | CYB-FUP-995 | 2 | completed | 4.00 | 1 |
-| [[operation-glendale-man-sentenced-to-nearly-5-years-in-federal-prison-for-role-in-darknet-network-that-sold-and-distribut]] | CYB-FUP-996 | 3 | completed | 4.00 | 1 |
-| [[operation-gloucester-police-officer-charged-with-child-pornography-offense]] | CYB-FUP-997 | 3 | ongoing | 4.00 | 1 |
 | [[operation-grand-jury-indicts-knoxville-woman-previously-arrested-in-murder-for-hire-plot]] | CYB-FUP-998 | 3 | ongoing | 4.00 | 1 |
-| [[operation-greene-county-man-indicted-for-cyberstalking-and-interstate-threats]] | CYB-FUP-999 | 2 | ongoing | 4.00 | 1 |
 | [[bali-villa-cybercrime-raid-2024]] | — | — | completed | — | — |
 | [[bidencash-takedown]] | — | 3 | completed | 4.50 | 1 |
 | [[carding-action-2020]] | — | 2 | completed | 3.50 | 2 |

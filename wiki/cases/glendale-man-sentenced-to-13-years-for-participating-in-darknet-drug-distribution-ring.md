@@ -15,7 +15,6 @@ defendants:
     status: sentenced
     sentence: ""
     location_at_arrest: ""
-related_operation: "[[operation-glendale-man-sentenced-to-13-years-for-participating-in-darknet-drug-distribution-ring]]"
 ic_elements:
   mlat_requests:
     []
@@ -49,10 +48,6 @@ Glendale Man Sentenced to 13 Years for Participating in Darknet Drug Distributio
 ## Facts
 
 This case page was generated from [[2026-04-18_justice-gov_glendale-man-sentenced-13-years-participating-darknet-drug-distribution-ring]] and reflects an official action title from the source corpus.
-
-## International Cooperation Elements
-
-This source-derived page should be enriched with case-level cooperation detail if primary filings or fuller official narratives are collected.
 
 ## Legal Analysis
 

@@ -20,7 +20,6 @@ defendants:
     status: sentenced
     sentence: ""
     location_at_arrest: ""
-related_operation: "[[operation-florida-man-and-woman-sentenced-for-conspiracy-to-sell-counterfeit-drugs-on-dark-web]]"
 ic_elements:
   mlat_requests:
     []
@@ -33,10 +32,6 @@ ic_elements:
     []
 cooperating_agencies:
   - "[[us-doj]]"
-legal_frameworks_invoked:
-  - "[[informal-cooperation]]"
-mechanisms_used:
-  - "[[informal-cooperation]]"
 key_legal_issues:
   - "[[drug-trafficking]]"
 precedent_value: "Source-derived official action page; procedural enrichment from primary filings may still be needed."
@@ -54,10 +49,6 @@ Florida Man and Woman Sentenced for Conspiracy to Sell Counterfeit Drugs on Dark
 ## Facts
 
 This case page was generated from [[2026-04-18_justice-gov_florida-man-and-woman-sentenced-conspiracy-sell-counterfeit-drugs-dark-web]] and reflects an official action title from the source corpus.
-
-## International Cooperation Elements
-
-This source-derived page should be enriched with case-level cooperation detail if primary filings or fuller official narratives are collected.
 
 ## Legal Analysis
 

@@ -57,7 +57,7 @@ updated: 2026-04-08
 | [[thailand-royal-police]] | national-agency | Bangkok, Thailand | — | — | 8 |
 | [[uk-nca]] | national-agency | London, United Kingdom | — | 20 | 13 |
 | [[us-dhs]] | national-agency | Washington, D.C., United States | Homeland Security Investigations (HSI) — transnational cybercrime investigation; Coordination with foreign LEAs on cyber-enabled fraud | 6 | 0 |
-| [[us-doj]] | national-agency | Washington, D.C., United States | — | 1062 | 5 |
+| [[us-doj]] | national-agency | Washington, D.C., United States | — | 1022 | 5 |
 | [[us-treasury]] | national-agency | Washington, D.C., United States | — | 6 | 8 |
 | [[usdoj]] | national-agency | Washington, D.C., United States | — | 9 | 0 |
 | [[armenia-police]] | national-unit | Yerevan, Armenia | — | 2 | 3 |

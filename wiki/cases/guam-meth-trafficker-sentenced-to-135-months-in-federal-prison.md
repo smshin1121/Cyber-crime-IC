@@ -14,7 +14,6 @@ defendants:
     status: sentenced
     sentence: ""
     location_at_arrest: ""
-related_operation: "[[operation-guam-meth-trafficker-sentenced-to-135-months-in-federal-prison]]"
 ic_elements:
   mlat_requests:
     []
@@ -48,10 +47,6 @@ Guam Meth Trafficker Sentenced to 135-Months in Federal Prison is a source-deriv
 ## Facts
 
 This case page was generated from [[2026-04-18_justice-gov_guam-meth-trafficker-sentenced-135-months-federal-prison]] and reflects an official action title from the source corpus.
-
-## International Cooperation Elements
-
-This source-derived page should be enriched with case-level cooperation detail if primary filings or fuller official narratives are collected.
 
 ## Legal Analysis
 

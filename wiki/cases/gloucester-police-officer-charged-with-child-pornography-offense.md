@@ -14,7 +14,6 @@ defendants:
     status: charged
     sentence: ""
     location_at_arrest: ""
-related_operation: "[[operation-gloucester-police-officer-charged-with-child-pornography-offense]]"
 ic_elements:
   mlat_requests:
     []
@@ -48,10 +47,6 @@ Gloucester Police Officer Charged with Child Pornography Offense is a source-der
 ## Facts
 
 This case page was generated from [[2026-04-18_justice-gov_gloucester-police-officer-charged-child-pornography-offense]] and reflects an official action title from the source corpus.
-
-## International Cooperation Elements
-
-This source-derived page should be enriched with case-level cooperation detail if primary filings or fuller official narratives are collected.
 
 ## Legal Analysis
 

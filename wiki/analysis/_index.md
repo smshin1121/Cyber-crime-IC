@@ -15,5 +15,5 @@ updated: 2026-04-20
 | [[international-cooperation-operation-audit-2026-04]] | — | — | — | 2026-04-19 |
 | [[operation-audit-queue-2026-04]] | — | — | — | 2026-04-19 |
 | [[priority-country-source-registry]] | gap-analysis | high | — | 2026-04-18 |
-| [[sna-pilot]] | effectiveness-assessment | medium | PoC v5 reproduction of paper.pdf 2-mode network methodology | 2026-04-20 |
-| [[sna-structure-and-roles]] | comparative-study | medium | Two-mode SNA (operation × country / agency / crime-type) main analysis + core-periphery + brokerage | 2026-04-20 |
+| [[sna-pilot]] | effectiveness-assessment | medium | PoC v5 reproduction of paper.pdf 2-mode network methodology on the current wiki corpus, after YAML-quoting repair + alias canonicalization + bare-string normalization + crime_types list schema migration + source-side country bare-string repair + source-backed `participating_countries` enrichment on the 46-op Eurojust/Europol/INTERPOL subset (20 applied). Multi-value crime_types backfill and broader countries_lt_2 enrichment pending before Step B. | 2026-04-20 |
+| [[sna-structure-and-roles]] | comparative-study | medium | Reproduction of paper.pdf 2-mode SNA (operation × country / agency / crime-type) on the current wiki corpus at PoC v5 data quality. Main-body analysis plus Step C supplementary: Borgatti-Everett core-periphery (cpnet) and Gould-Fernandez 5-role brokerage. Network visualization remains a later follow-up. | 2026-04-20 |

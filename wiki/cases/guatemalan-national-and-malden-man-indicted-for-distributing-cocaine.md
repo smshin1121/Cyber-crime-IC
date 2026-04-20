@@ -14,7 +14,6 @@ defendants:
     status: indicted
     sentence: ""
     location_at_arrest: ""
-related_operation: "[[operation-guatemalan-national-and-malden-man-indicted-for-distributing-cocaine]]"
 ic_elements:
   mlat_requests:
     []
@@ -48,10 +47,6 @@ Guatemalan National and Malden Man Indicted for Distributing Cocaine is a source
 ## Facts
 
 This case page was generated from [[2026-04-18_justice-gov_guatemalan-national-and-malden-man-indicted-distributing-cocaine]] and reflects an official action title from the source corpus.
-
-## International Cooperation Elements
-
-This source-derived page should be enriched with case-level cooperation detail if primary filings or fuller official narratives are collected.
 
 ## Legal Analysis
 
