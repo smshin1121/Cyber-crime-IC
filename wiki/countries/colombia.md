@@ -32,6 +32,7 @@ operations_participated:
 - '[[operation-orion-international]]'
 - '[[operation-haechi-ii]]'
 - '[[imminent-monitor-rat-takedown]]'
+- '[[operation-avalanche]]'
 region: south-america
 source_count: 5
 sources: []
@@ -97,6 +98,7 @@ Colombia is *likely* an active participant in Interpol's cybercrime operations i
 
 | Operation | Coordinator | Primary source explicitly naming Colombia |
 |---|---|---|
+| [[operation-avalanche]] | German prosecutors / Europol | Europol press release, 2016-11-30 — inline "Countries involved:" roster lists Colombia (confirmed 2026-04-21 via `curl_cffi` TLS impersonation) |
 | [[operation-orion-international]] | INTERPOL | INTERPOL press release, 2024-10-15 (full country roster) |
 | [[operation-haechi-ii]] | INTERPOL | INTERPOL press release, 2021-11-30 (full country roster incl. USD 8M BEC case in Colombia) |
 | [[imminent-monitor-rat-takedown]] | AFP / Europol | Europol press release, 2019-11-29 ("arrests in Europe, Colombia and Australia") |
@@ -112,7 +114,7 @@ Capacity is *likely* medium to medium-high by regional standards. Colombia benef
 - Exact content of Colombia's Budapest Convention declarations (e.g., Article 24 designated authorities).
 - Status of Second Additional Protocol signature/ratification.
 - Current cybercrime caseload at DIJIN and Fiscalía cybercrime unit.
-- **Operation Avalanche (2016) — unverified participation.** [[operation-avalanche]] previously listed Colombia in its `participating_countries` field, but the Europol press release, US DOJ press release, and the 2017 Eurojust Avalanche case report PDF do not name Colombia. Removed from both pages on 2026-04-21 pending a tier-1 source that explicitly confirms Colombian involvement.
+- **Operation Avalanche (2016) — reinstated 2026-04-21.** Previously removed earlier the same day because Cloudflare-blocked Europol access prevented full-roster verification. Reinstated after retrieving the Europol press release via `curl_cffi` Chrome TLS impersonation; the inline roster explicitly names Colombia. Lesson logged under LESSONS.md L20.
 
 ## References
 

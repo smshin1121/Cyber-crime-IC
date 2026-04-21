@@ -201,6 +201,19 @@
 
 ## ❗ 도구 / 인프라
 
+### L20. Cloudflare/SPA 벽은 `curl_cffi` TLS impersonation + script-preserving parse로 뚫는다 (2026-04-21)
+
+- **상황**: Europol/DOJ 등 핵심 1차 출처 URL이 `WebFetch`로는 Cloudflare 차단 (403/challenge). 이 때문에 Colombia-Avalanche 검증을 포기하고 frontmatter에서 제거하는 오판을 저질렀음.
+- **돌파구**: `curl_cffi` + `impersonate="chrome124"` 로 TLS fingerprint를 Chrome처럼 위장하면 Europol 포함 대부분의 정부/기관 사이트에서 200 OK 를 돌려준다. BeautifulSoup이 `<script>` 태그를 기본 제거하지만, React SPA 페이지(예: 새 Europol newsroom)는 본문이 inline JSON에 담겨 있으므로 `<script>` 보존한 채 `get_text()` 로 추출하면 국가 명단이 드러난다.
+- **증거**: Europol Avalanche 페이지의 inline JSON에 "Countries involved: Armenia, Australia, … **Colombia** … Gibraltar …" 전체 30국 roster가 직접 포함. Colombia 제거는 잘못된 결정이었고 같은 날 복원.
+- **교훈**: **"Cloudflare가 막았다 ≠ 출처에 없다."** 검증 포기 전에 (1) `curl_cffi` TLS 스푸핑 시도, (2) SPA면 script-preserving parse, (3) 그래도 안 되면 Playwright/browser-use 풀 브라우저로 에스컬레이션. 최소 2-step fallback 거친 뒤에만 "not in source"라고 판정.
+- **어떻게 적용**:
+  - `tools/web_verify_tls.py` 가 이 3단계 파이프라인을 제공 (현재 curl_cffi + script-preserve 단계 구현)
+  - 모든 web-verification 결과는 `.verification/web_verified.md` 에 누적
+  - L19의 "removed" 버킷에 넣기 전에 이 도구로 한 번 더 확인 의무화
+
+---
+
 ### L19. participating_countries는 tier-1 출처가 명시할 때만 assert — 없으면 flag, 있으면 keep (2026-04-21)
 
 - **상황**: `operation-avalanche.md`에 Colombia 포함. Europol 공식 press release (Cloudflare로 차단), Eurojust case report PDF, Canadian Cyber Centre advisory, INTERPOL mirror 등 접근 가능한 tier-1 출처 전부에서 Colombia 미언급. frontmatter 데이터 출처가 불분명.

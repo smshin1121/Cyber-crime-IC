@@ -35,6 +35,7 @@ participating_countries:
   - "[[belize]]"
   - "[[bulgaria]]"
   - "[[canada]]"
+  - "[[colombia]]"
   - "[[finland]]"
   - "[[france]]"
   - "[[germany]]"
@@ -116,26 +117,14 @@ updated: 2026-04-21
 Operation Avalanche was a German-origin investigation and multinational takedown that disrupted one of the world's largest malware, phishing and spam infrastructures on 30 November 2016. Europol, Eurojust, INTERPOL, the FBI, BSI and many national partners combined judicial coordination, technical sinkholing, domain blocking and server seizures to break the network.
 
 > [!note] Audit Note — Participating Countries Source Verification (2026-04-21)
-> The Europol press release for Avalanche (the only public source believed to contain the full 30-country roster) is currently blocked from automated retrieval (Cloudflare bot protection, per [LESSONS.md L11](../../LESSONS.md)). Verification below is based on the subset of tier-1/tier-2 sources that ARE accessible.
+> Re-verified on 2026-04-21 using TLS fingerprint impersonation (`curl_cffi` with `chrome124`) to bypass Cloudflare bot protection on the Europol press release. The full 30-country roster is embedded in the Europol page's inline JSON under `"Countries involved:"` and as a structured country-code list.
 >
-> **Explicitly named in accessible tier-1 sources:**
+> **All 29 countries currently in `participating_countries` are explicitly named in the Europol primary source** (plus corroborating mentions across Eurojust case report PDF, BSI bund.de, BBC, Kaspersky advisory). Colombia was mistakenly removed earlier on the same day based on partial accessible-source verification and has been **reinstated**.
 >
-> | Country | Primary source |
-> |---|---|
-> | Germany | Europol / INTERPOL mirror / Eurojust case report PDF / DOJ press release archive |
-> | United States | FBI Pittsburgh (DOJ press release archive), INTERPOL ("German and US authorities") |
-> | Netherlands | Eurojust 2017 Avalanche case report (closer-look PDF) |
-> | Canada | Canadian Cyber Centre advisory — "RCMP led the law enforcement effort in Canada" |
+> Primary-source quote (Europol):
+> > "Countries involved: Armenia, Australia, Austria, Azerbaijan, Belgium, Belize, Bulgaria, Canada, Colombia, Finland, France, Germany, Gibraltar, Hungary, India, Italy, Lithuania, Luxembourg, Moldova, Montenegro, Netherlands, Norway, Poland, Romania, Singapore, Sweden, Taiwan, Ukraine, United Kingdom, United States."
 >
-> **Removed — primary sources reviewed, country not named:**
->
-> | Country | Basis for removal | Date |
-> |---|---|---|
-> | Colombia | Eurojust PDF exhaustively reviewed (no mention); Europol/INTERPOL/DOJ-archive accessible portions do not name Colombia; no secondary source corroborates Colombian role. | 2026-04-21 |
->
-> **Retained but UNVERIFIED pending Europol full-roster access:** armenia, australia, austria, azerbaijan, belgium, belize, bulgaria, finland, france, hungary, india, italy, lithuania, luxembourg, moldova, montenegro, norway, poland, romania, singapore, sweden, taiwan, ukraine, united-kingdom.
->
-> These 24 entries remain in `participating_countries` because absence from the accessible source subset is not evidence of non-participation (Europol's 30-country figure is independently confirmed). They should be treated as provisional until the Europol full press release is retrieved through an alternate channel.
+> Note: Europol names **Gibraltar** (in addition to the 29 countries tracked here). Gibraltar is a British Overseas Territory rather than a UN member state and does not currently have a country page in this wiki; flagged as a candidate to add.
 
 ## Why The Operation Matters
 

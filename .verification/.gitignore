@@ -1,2 +1,4 @@
 # Audit reports are generated; track the latest snapshot only
 last_run.log
+web_verify_run.log
+web_cache/
