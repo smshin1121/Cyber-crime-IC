@@ -201,6 +201,18 @@
 
 ## ❗ 도구 / 인프라
 
+### L21. Akamai Bot Manager(justice.gov/DOJ)는 meta-refresh + bm-verify 세션으로 뚫는다 (2026-04-21)
+
+- **상황**: DOJ (`justice.gov`, `usao-*`) URL이 `curl_cffi` TLS 스푸핑 성공(200 OK)인데 본문이 ~3KB 짜리 `<meta http-equiv="refresh">` 페이지. 실제 기사 내용은 뒤따르지 않음.
+- **원인**: Cloudflare가 아니라 Akamai Bot Manager. 첫 요청에서 `bm-verify` 쿠키를 설정하고 몇 초 뒤 meta-refresh로 같은 URL을 재요청시켜 bot 여부를 재검증.
+- **돌파구**: `curl_cffi.Session()`으로 첫 요청의 쿠키 유지 → meta-refresh URL 파싱 → `time.sleep(5.5)` → 같은 세션으로 재요청 → 실제 본문(~100KB) 응답.
+- **교훈**: **"200 OK인데 본문 < 8KB이고 `bm-verify` 있음 = Akamai challenge."** Cloudflare/SPA 파이프라인과 별도의 3번째 케이스로 처리. 웹 차단은 한 가지 메커니즘이 아니다.
+- **어떻게 적용**:
+  - `tools/web_verify_tls.py`의 `fetch_text()`가 이 challenge 패턴 감지 시 meta-refresh URL 추출 → 5.5초 대기 → 동일 session으로 재요청
+  - rate limit 때문에 DOJ 페이지당 +5.5초 추가 소요 (배치 처리 시 고려)
+
+---
+
 ### L20. Cloudflare/SPA 벽은 `curl_cffi` TLS impersonation + script-preserving parse로 뚫는다 (2026-04-21)
 
 - **상황**: Europol/DOJ 등 핵심 1차 출처 URL이 `WebFetch`로는 Cloudflare 차단 (403/challenge). 이 때문에 Colombia-Avalanche 검증을 포기하고 frontmatter에서 제거하는 오판을 저질렀음.

@@ -160,16 +160,39 @@ def fetch_text(url: str) -> tuple[str, str | None]:
     if cache.exists() and cache.stat().st_size > 200:
         return cache.read_text(encoding="utf-8", errors="replace"), None
     try:
-        r = cffi_requests.get(url, impersonate=IMPERSONATE,
-                              timeout=REQUEST_TIMEOUT, allow_redirects=True)
+        sess = cffi_requests.Session()
+        r = sess.get(url, impersonate=IMPERSONATE,
+                     timeout=REQUEST_TIMEOUT, allow_redirects=True)
     except Exception as exc:  # noqa: BLE001
         return "", f"fetch_error: {str(exc)[:150]}"
     if r.status_code != 200:
         return "", f"http_{r.status_code}"
     html = r.text
     low = html.lower()
+    # Akamai Bot Manager challenge: page is ~3KB with a meta-refresh pointing
+    # to the same URL plus a bm-verify cookie now set in the session. Wait a
+    # few seconds and retry with the same session.
+    if "bm-verify" in low and "meta http-equiv=\"refresh\"" in low and len(html) < 8000:
+        m = re.search(r'content="[0-9]+;\s*URL=\'([^\']+)', html, re.IGNORECASE)
+        if m:
+            redirect = m.group(1)
+            if redirect.startswith("/"):
+                from urllib.parse import urlparse
+                root = urlparse(url)
+                redirect = f"{root.scheme}://{root.netloc}{redirect}"
+            time.sleep(5.5)
+            try:
+                r = sess.get(redirect, impersonate=IMPERSONATE,
+                             timeout=REQUEST_TIMEOUT, allow_redirects=True)
+                if r.status_code == 200 and len(r.text) > 8000:
+                    html = r.text
+                    low = html.lower()
+            except Exception:
+                pass
     if "just a moment" in low and "cf-chl" in low and len(html) < 20000:
         return "", "cloudflare_challenge"
+    if "bm-verify" in low and len(html) < 8000:
+        return "", "akamai_challenge"
     soup = BeautifulSoup(html, "html.parser")
     for tag in soup(["style", "noscript", "svg"]):
         tag.decompose()
