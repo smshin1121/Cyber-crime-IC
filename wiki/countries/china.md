@@ -42,6 +42,7 @@ operations_participated:
 - '[[operation-haechi-v]]'
 - '[[operation-first-light-2024]]'
 - '[[isoon-apt27-indictment]]'
+- '[[operation-haechi-vi]]'
 region: east-asia
 source_count: 0
 sources: []
@@ -52,7 +53,7 @@ treaty_memberships:
   reservations: []
   status: non-party
 type: country
-updated: 2026-04-08
+updated: 2026-04-21
 ---
 
 ## Summary

@@ -25,12 +25,13 @@ ic_capacity:
   english_proficiency: "high"
   avg_mlat_response_days: "unknown"
 bilateral_agreements: []
-operations_participated: []
+operations_participated:
+- '[[operation-haechi-vi]]'
 notable_cases: []
 cooperation_assessment: ""
 source_count: 0
 created: 2026-04-20
-updated: 2026-04-20
+updated: 2026-04-21
 ---
 
 > [!info] Stub

@@ -51,6 +51,10 @@ operations_participated:
 - '[[operation-talent]]'
 - '[[operation-haechi-v]]'
 - '[[proxy-service-takedown-2026-03]]'
+- '[[operation-eur-300m-global-credit-card-fraud-2025]]'
+- '[[doublevpn-takedown]]'
+- '[[operation-dark-huntor]]'
+- '[[cryptex-pm2btc-sanctions]]'
 region: western-europe
 source_count: 5
 sources:
@@ -70,7 +74,7 @@ treaty_memberships:
   reservations: []
   status: signatory
 type: country
-updated: 2026-04-18
+updated: 2026-04-21
 ---
 
 ## Summary

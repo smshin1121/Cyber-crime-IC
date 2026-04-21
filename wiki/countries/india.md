@@ -32,7 +32,8 @@ key_agencies: []
 last_verified: '2026-04-10'
 legal_system: common-law
 notable_cases: []
-operations_participated: []
+operations_participated:
+- '[[operation-haechi-vi]]'
 region: south-asia
 source_count: 0
 sources: []
@@ -43,7 +44,7 @@ treaty_memberships:
   reservations: []
   status: non-party
 type: country
-updated: 2026-04-10
+updated: 2026-04-21
 ---
 
 ## Summary

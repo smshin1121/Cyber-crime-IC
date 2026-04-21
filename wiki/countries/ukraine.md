@@ -33,6 +33,7 @@ legal_system: civil-law
 notable_cases: []
 operations_participated:
 - '[[emotet-takedown]]'
+- '[[darkmarket-takedown]]'
 region: eastern-europe
 source_count: 3
 sources: []
@@ -47,7 +48,7 @@ treaty_memberships:
   reservations: []
   status: signatory
 type: country
-updated: 2026-04-10
+updated: 2026-04-21
 ---
 
 ## Summary

@@ -1,5 +1,13 @@
 # Activity Log
 
+## [2026-04-21] audit | TLS-spoofing pipeline + L19 bidirectional back-link apply (30 ops)
+- Built `tools/web_verify_tls.py` using `curl_cffi` with Chrome TLS fingerprint impersonation to bypass Cloudflare on Europol / Eurojust / DOJ / BSI / national CERT primary sources.
+- First batch (top-30 unverified ops): 15 fully verified (including Avalanche 29/29 and HAECHI-VI 32/32 after adding Viet Nam + Kazakhstan + UAE aliases and stub pages), 4 partially, 11 with no reachable sources on record.
+- Lesson logged: LESSONS.md L20 ("Cloudflare/SPA wall — curl_cffi TLS impersonation + script-preserving parse is the required fallback before declaring a country 'not in source'").
+- Correction: [[colombia]] reinstated in [[operation-avalanche]] — earlier same-day removal was based on accessible-subset only and the Europol press release does explicitly list Colombia.
+- Applied L19 "verified" bucket: `tools/apply_bidirectional_ops.py` — added 81 missing country→op back-links to 39 country pages across the 15 fully-verified operations. Idempotent; re-run safe.
+- Stub pages created: `wiki/countries/kazakhstan.md`, `wiki/countries/united-arab-emirates.md` (named in INTERPOL HAECHI-VI roster but previously dangling wikilinks).
+
 ## [2026-04-21] audit | Avalanche participating-countries tier-1 verification pass
 - Follow-up to the Colombia audit earlier today. Audited the full 29-country roster of [[operation-avalanche]] against accessible tier-1 primary sources.
 - Europol full press release (the one source believed to hold the 30-country roster) is web-blocked by Cloudflare (per LESSONS.md L11). Verification is based on the subset accessible: INTERPOL mirror, Eurojust 2017 case report PDF, FBI/DOJ archive text indirectly via secondary reporting, Canadian Cyber Centre advisory.

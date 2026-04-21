@@ -31,7 +31,10 @@ key_agencies: []
 last_verified: '2026-04-18'
 legal_system: civil-law
 notable_cases: []
-operations_participated: []
+operations_participated:
+- '[[operation-eur-3m-online-investment-fraud-2025]]'
+- '[[operation-eur-600m-crypto-scam-network-2025]]'
+- '[[operation-europol-french-coder-who-helped-extort-british-company-arrested-in-thailand]]'
 region: western-europe
 source_count: 5
 sources:
@@ -51,7 +54,7 @@ treaty_memberships:
   reservations: []
   status: signatory
 type: country
-updated: 2026-04-18
+updated: 2026-04-21
 ---
 
 ## Summary

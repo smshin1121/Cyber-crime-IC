@@ -60,6 +60,13 @@ operations_participated:
 - '[[goznym-takedown]]'
 - '[[fin7-takedown]]'
 - '[[proxy-service-takedown-2026-03]]'
+- '[[operation-eur-300m-global-credit-card-fraud-2025]]'
+- '[[darkmarket-takedown]]'
+- '[[operation-us-v-parsarad-nemesis]]'
+- '[[doublevpn-takedown]]'
+- '[[operation-dark-huntor]]'
+- '[[cryptex-pm2btc-sanctions]]'
+- '[[lumma-stealer-takedown]]'
 region: north-america
 source_count: 1
 sources:
@@ -75,7 +82,7 @@ treaty_memberships:
   reservations: []
   status: signatory
 type: country
-updated: 2026-04-14
+updated: 2026-04-21
 ---
 
 ## Summary

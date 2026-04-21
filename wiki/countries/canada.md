@@ -35,6 +35,9 @@ operations_participated:
 - '[[alphabay-takedown]]'
 - '[[emotet-takedown]]'
 - '[[operation-avalanche]]'
+- '[[operation-haechi-vi]]'
+- '[[operation-eur-300m-global-credit-card-fraud-2025]]'
+- '[[doublevpn-takedown]]'
 region: north-america
 source_count: 5
 sources: []

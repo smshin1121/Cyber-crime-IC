@@ -47,6 +47,13 @@ operations_participated:
 - '[[operation-avalanche]]'
 - '[[operation-haechi-v]]'
 - '[[operation-first-light-2024]]'
+- '[[operation-haechi-vi]]'
+- '[[operation-eur-300m-global-credit-card-fraud-2025]]'
+- '[[darkmarket-takedown]]'
+- '[[doublevpn-takedown]]'
+- '[[operation-dark-huntor]]'
+- '[[operation-eur-3m-online-investment-fraud-2025]]'
+- '[[operation-europol-french-coder-who-helped-extort-british-company-arrested-in-thailand]]'
 region: western-europe
 source_count: 5
 sources:
@@ -66,7 +73,7 @@ treaty_memberships:
   reservations: []
   status: signatory
 type: country
-updated: 2026-04-18
+updated: 2026-04-21
 ---
 
 ## Summary

@@ -49,6 +49,14 @@ operations_participated:
 - '[[operation-haechi-v]]'
 - '[[hive-ransomware-takedown]]'
 - '[[de-ch-crypto-mixer-takedown-2025]]'
+- '[[operation-haechi-vi]]'
+- '[[operation-eur-300m-global-credit-card-fraud-2025]]'
+- '[[darkmarket-takedown]]'
+- '[[operation-us-v-parsarad-nemesis]]'
+- '[[doublevpn-takedown]]'
+- '[[operation-dark-huntor]]'
+- '[[operation-eur-3m-online-investment-fraud-2025]]'
+- '[[operation-eur-600m-crypto-scam-network-2025]]'
 region: western-europe
 source_count: 5
 sources:
@@ -68,7 +76,7 @@ treaty_memberships:
   reservations: []
   status: signatory
 type: country
-updated: 2026-04-18
+updated: 2026-04-21
 ---
 
 ## Summary

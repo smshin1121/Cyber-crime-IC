@@ -33,7 +33,8 @@ key_agencies:
 last_verified: '2026-04-10'
 legal_system: civil-law
 notable_cases: []
-operations_participated: []
+operations_participated:
+- '[[operation-eur-3m-online-investment-fraud-2025]]'
 region: eastern-europe
 source_count: 0
 sources: []
@@ -48,7 +49,7 @@ treaty_memberships:
   reservations: []
   status: party
 type: country
-updated: 2026-04-10
+updated: 2026-04-21
 ---
 
 ## Summary

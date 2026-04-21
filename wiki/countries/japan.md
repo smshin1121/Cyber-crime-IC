@@ -42,6 +42,7 @@ operations_participated:
 - '[[operation-first-light-2024]]'
 - '[[operation-synergia-ii]]'
 - '[[operation-cronos-phase1]]'
+- '[[lumma-stealer-takedown]]'
 region: east-asia
 source_count: 0
 sources: []
@@ -56,7 +57,7 @@ treaty_memberships:
   reservations: []
   status: signatory
 type: country
-updated: 2026-04-08
+updated: 2026-04-21
 ---
 
 ## Summary

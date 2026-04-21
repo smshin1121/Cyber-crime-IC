@@ -1,6 +1,6 @@
 # participating_countries — web primary-source verification (curl_cffi)
 
-_Run: 2026-04-21 09:02_
+_Run: 2026-04-21 09:07_
 
 Fetched via curl_cffi with Chrome TLS fingerprint impersonation (bypasses Cloudflare on most static press releases). For each op in the verification queue, every country in its `participating_countries` is checked against the rendered text of all cited source URLs.
 
@@ -11,8 +11,8 @@ Fetched via curl_cffi with Chrome TLS fingerprint impersonation (bypasses Cloudf
 ## Summary
 
 - Operations processed: 30
-- Fully verified (every frontmatter country named in a source): 14
-- Partially verified: 4
+- Fully verified (every frontmatter country named in a source): 15
+- Partially verified: 3
 - Nothing verified (all sources failed): 12
 
 ## Results
@@ -23,13 +23,13 @@ Fetched via curl_cffi with Chrome TLS fingerprint impersonation (bypasses Cloudf
 
 **Participating (frontmatter, 32)**: south-korea, portugal, thailand, united-arab-emirates, japan, albania, argentina, armenia, australia, brazil, bulgaria, cambodia, canada, china, germany, ghana, india, indonesia, ireland, kazakhstan, malaysia, nigeria, philippines, poland, romania, singapore, south-africa, spain, sweden, united-kingdom, united-states, vietnam
 
-**Verified via web (29)**: albania, argentina, armenia, australia, brazil, bulgaria, cambodia, canada, china, germany, ghana, india, indonesia, ireland, japan, malaysia, nigeria, philippines, poland, portugal, romania, singapore, south-africa, south-korea, spain, sweden, thailand, united-kingdom, united-states
+**Verified via web (32)**: albania, argentina, armenia, australia, brazil, bulgaria, cambodia, canada, china, germany, ghana, india, indonesia, ireland, japan, kazakhstan, malaysia, nigeria, philippines, poland, portugal, romania, singapore, south-africa, south-korea, spain, sweden, thailand, united-arab-emirates, united-kingdom, united-states, vietnam
 
-**Still missing (3)**: kazakhstan, united-arab-emirates, vietnam
+**Still missing (0)**: —
 
 | URL | Publisher | Chars | Found | Error |
 |---|---|---:|---|---|
-| https://www.interpol.int/en/News-and-Events/News/2025/USD-439-million-recovered- | INTERPOL | 6792 | south-korea, portugal, thailand, japan, albania, argentina, armenia, australia, brazil, bulgaria, cambodia, canada, chin |  |
+| https://www.interpol.int/en/News-and-Events/News/2025/USD-439-million-recovered- | INTERPOL | 6792 | south-korea, portugal, thailand, united-arab-emirates, japan, albania, argentina, armenia, australia, brazil, bulgaria,  |  |
 
 ### operation-eur-300m-global-credit-card-fraud-2025
 
@@ -96,7 +96,7 @@ Fetched via curl_cffi with Chrome TLS fingerprint impersonation (bypasses Cloudf
 | https://www.eurojust.europa.eu/news/coordinated-action-cuts-access-vpn-service-u | Eurojust | 13554 | netherlands, united-states, canada, germany, united-kingdom, sweden, italy, bulgaria, switzerland |  |
 | https://www.eurojust.europa.eu/annual-report-2021/cybercrime/case-examples | Eurojust | 17004 | netherlands, united-states, canada, germany, sweden, italy, bulgaria |  |
 | https://www.nationalcrimeagency.gov.uk/news/doublevpn-takedown-nca-takes-uk-serv | UK NCA | 4855 | netherlands, canada |  |
-| https://therecord.media/dutch-police-takes-down-doublevpn-a-service-used-by-cybe | The Record | 3461 | netherlands, united-states, canada, germany, sweden, italy, bulgaria, switzerland |  |
+| https://therecord.media/dutch-police-takes-down-doublevpn-a-service-used-by-cybe | The Record | 3454 | netherlands, united-states, canada, germany, sweden, italy, bulgaria, switzerland |  |
 
 ### operation-dark-huntor
 

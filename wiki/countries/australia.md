@@ -45,6 +45,8 @@ operations_participated:
 - '[[operation-first-light-2024]]'
 - '[[operation-cyber-guardian]]'
 - '[[operation-ironside]]'
+- '[[darkmarket-takedown]]'
+- '[[operation-dark-huntor]]'
 region: oceania
 source_count: 0
 sources: []
@@ -59,7 +61,7 @@ treaty_memberships:
   reservations: []
   status: signatory
 type: country
-updated: 2026-04-08
+updated: 2026-04-21
 ---
 
 ## Summary

@@ -36,7 +36,10 @@ key_agencies:
 last_verified: '2026-04-18'
 legal_system: civil-law
 notable_cases: []
-operations_participated: []
+operations_participated:
+- '[[operation-haechi-vi]]'
+- '[[operation-eur-300m-global-credit-card-fraud-2025]]'
+- '[[operation-eur-600m-crypto-scam-network-2025]]'
 region: western-europe
 source_count: 6
 sources:
@@ -57,7 +60,7 @@ treaty_memberships:
   reservations: []
   status: signatory
 type: country
-updated: 2026-04-18
+updated: 2026-04-21
 ---
 
 ## Summary

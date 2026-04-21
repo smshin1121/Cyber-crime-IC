@@ -29,7 +29,9 @@ key_agencies: []
 last_verified: '2026-04-10'
 legal_system: civil-law
 notable_cases: []
-operations_participated: []
+operations_participated:
+- '[[operation-haechi-vi]]'
+- '[[operation-eur-3m-online-investment-fraud-2025]]'
 region: balkans
 source_count: 3
 sources: []
@@ -44,7 +46,7 @@ treaty_memberships:
   reservations: []
   status: in-progress
 type: country
-updated: 2026-04-10
+updated: 2026-04-21
 ---
 
 ## Summary

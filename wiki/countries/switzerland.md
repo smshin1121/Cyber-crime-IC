@@ -36,6 +36,8 @@ legal_system: civil-law
 notable_cases: []
 operations_participated:
 - '[[de-ch-crypto-mixer-takedown-2025]]'
+- '[[doublevpn-takedown]]'
+- '[[operation-dark-huntor]]'
 region: western-europe
 source_count: 1
 sources:
@@ -51,7 +53,7 @@ treaty_memberships:
   reservations: []
   status: signatory
 type: country
-updated: 2026-04-14
+updated: 2026-04-21
 ---
 
 ## Summary

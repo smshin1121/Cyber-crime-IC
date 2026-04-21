@@ -33,6 +33,8 @@ legal_system: civil-law
 notable_cases: []
 operations_participated:
 - '[[alphabay-takedown]]'
+- '[[operation-haechi-vi]]'
+- '[[operation-europol-french-coder-who-helped-extort-british-company-arrested-in-thailand]]'
 region: southeast-asia
 source_count: 3
 sources: []
@@ -43,7 +45,7 @@ treaty_memberships:
   reservations: []
   status: non-party
 type: country
-updated: 2026-04-10
+updated: 2026-04-21
 ---
 
 ## Summary
