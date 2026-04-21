@@ -23,7 +23,6 @@ ic_capacity:
 bilateral_agreements: []
 operations_participated:
   - "[[andromeda-botnet-takedown]]"
-  - "[[carbanak-cobalt-takedown]]"
   - "[[operation-avalanche]]"
 notable_cases: []
 cooperation_assessment: ""

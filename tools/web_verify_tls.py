@@ -51,15 +51,37 @@ class CountryProfile:
     aliases: list[str]
 
     def patterns(self) -> list[re.Pattern[str]]:
-        needles = {self.title, *self.aliases, self.slug.replace("-", " ")}
-        needles.discard("")
-        return [re.compile(r"\b" + re.escape(n) + r"\b", re.IGNORECASE)
-                for n in sorted(needles, key=len, reverse=True) if len(n) >= 3]
+        # manual aliases (from ALIAS_OVERRIDES + frontmatter) are trusted even
+        # if short (e.g., "UK", "US", "UAE"); auto-derived forms keep >=3 guard
+        manual = {self.title, *self.aliases}
+        manual.discard("")
+        derived = {self.slug.replace("-", " ")}
+        derived -= manual
+        pats: list[re.Pattern[str]] = []
+        seen: set[str] = set()
+        for n in sorted(manual | derived, key=len, reverse=True):
+            if n in seen:
+                continue
+            if n in derived and len(n) < 3:
+                continue
+            if len(n) < 2:
+                continue
+            seen.add(n)
+            # Case-sensitive for all-caps 2-letter tokens to avoid false-
+            # positive matches on common English words (e.g., "us"/"uk").
+            flags = 0 if (len(n) <= 3 and n.isupper()) else re.IGNORECASE
+            pats.append(re.compile(r"\b" + re.escape(n) + r"\b", flags))
+        return pats
 
 
 ALIAS_OVERRIDES: dict[str, list[str]] = {
-    "united-states": ["US", "USA", "U.S.", "U.S.A.", "America", "American"],
-    "united-kingdom": ["UK", "U.K.", "Britain", "British"],
+    "united-states": ["US", "USA", "U.S.", "U.S.A.", "America", "American",
+                       "Vereinigte Staaten", "Etats-Unis"],
+    "united-kingdom": ["UK", "U.K.", "Britain", "British",
+                        "Vereinigtes Königreich", "Royaume-Uni"],
+    "lithuania": ["Litauen", "Lituanie", "Lithuanian"],
+    "latvia": ["Lettland", "Lettonie", "Latvian"],
+    "estonia": ["Estland", "Estonie", "Estonian"],
     "netherlands": ["Dutch", "Holland"],
     "germany": ["German"],
     "france": ["French"],

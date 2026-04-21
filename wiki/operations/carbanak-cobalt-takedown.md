@@ -28,9 +28,6 @@ participating_countries:
   - "[[spain]]"
   - "[[united-states]]"
   - "[[romania]]"
-  - "[[moldova]]"
-  - "[[belarus]]"
-  - "[[taiwan]]"
 participating_agencies:
   - "[[spanish-national-police]]"
   - "[[europol-ec3]]"
@@ -80,6 +77,9 @@ updated: 2026-04-18
 ## Summary
 
 Spanish authorities, supported by Europol and other international partners, arrested the alleged mastermind behind the Carbanak/Cobalt bank-fraud campaigns in Spain. The arrest narrative is official; the technical understanding of the campaign still depends heavily on Kaspersky's earlier reporting.
+
+> [!note] Audit Note — Participating Countries (2026-04-21)
+> Belarus, Moldova, and Taiwan were removed from `participating_countries` after a tier-1 source cross-check: the Europol Carbanak/Cobalt PDF (1.1 MB), BBC, Reuters, and Kaspersky's Securelist writeup all fail to name any of the three as operational participants (targeting / victim geography was discussed, not LE contribution). Retained countries — Spain (lead), United States (FBI), Romania — are each explicitly named in multiple primary sources.
 
 ## Why The Operation Matters
 
