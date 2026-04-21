@@ -47,6 +47,8 @@ operations_participated:
 - '[[operation-ironside]]'
 - '[[darkmarket-takedown]]'
 - '[[operation-dark-huntor]]'
+- '[[operation-australian-man-arrested-in-germany-accused-of-running-world-s-largest-darknet-marketplace]]'
+- '[[operation-avalanche]]'
 region: oceania
 source_count: 0
 sources: []

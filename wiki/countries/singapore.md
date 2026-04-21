@@ -34,6 +34,7 @@ notable_cases: []
 operations_participated:
 - '[[operation-haechi-vi]]'
 - '[[operation-eur-300m-global-credit-card-fraud-2025]]'
+- '[[operation-avalanche]]'
 region: southeast-asia
 source_count: 0
 sources: []

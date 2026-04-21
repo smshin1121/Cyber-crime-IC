@@ -35,6 +35,7 @@ notable_cases: []
 operations_participated:
 - '[[operation-haechi-vi]]'
 - '[[doublevpn-takedown]]'
+- '[[operation-avalanche]]'
 region: northern-europe
 source_count: 0
 sources: []

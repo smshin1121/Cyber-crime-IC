@@ -23,6 +23,7 @@ ic_capacity:
 bilateral_agreements: []
 operations_participated:
 - '[[operation-haechi-vi]]'
+- '[[operation-avalanche]]'
 notable_cases: []
 cooperation_assessment: ""
 source_count: 0

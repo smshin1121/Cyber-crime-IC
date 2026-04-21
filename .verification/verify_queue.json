@@ -977,6 +977,7 @@
       "belize",
       "bulgaria",
       "canada",
+      "colombia",
       "finland",
       "france",
       "germany",
@@ -1098,6 +1099,1558 @@
         "reliability": "high",
         "source_type": "press-release",
         "publish_date": "2026-01-27"
+      }
+    ]
+  },
+  {
+    "op_slug": "operation-contender-2",
+    "op_title": "Operation Contender 2.0",
+    "verified_local": 4,
+    "unverified_local": 3,
+    "unverified_countries": [
+      "cote-divoire"
+    ],
+    "participating_countries": [
+      "cote-divoire",
+      "nigeria",
+      "switzerland",
+      "finland"
+    ],
+    "source_urls": [
+      {
+        "source_slug": "2024-04-01-interpol-operation-contender-2",
+        "url": "https://www.interpol.int/en/News-and-Events/News/2024/Arrests-in-international-operation-targeting-cybercriminals-in-West-Africa",
+        "publisher": "INTERPOL",
+        "reliability": "high",
+        "source_type": "press-release",
+        "publish_date": "2024-10-01"
+      },
+      {
+        "source_slug": "2024-10-08_group-ib_operation-contender-2",
+        "url": "https://www.group-ib.com/th/media-center/press-releases/operation-contender/",
+        "publisher": "Group-IB",
+        "reliability": "medium",
+        "source_type": "press-release",
+        "publish_date": "2024-10-08"
+      }
+    ]
+  },
+  {
+    "op_slug": "operation-culpeper-woman-arrested-in-dark-web-murder-for-hire-plot",
+    "op_title": "Culpeper Woman Arrested in Dark Web Murder-for-Hire Plot Enforcement Action",
+    "verified_local": 1,
+    "unverified_local": 0,
+    "unverified_countries": [
+      "united-states"
+    ],
+    "participating_countries": [
+      "united-states"
+    ],
+    "source_urls": [
+      {
+        "source_slug": "2026-04-18_justice-gov_culpeper-woman-arrested-dark-web-murder-hire-plot",
+        "url": "https://www.justice.gov/usao-wdva/pr/culpeper-woman-arrested-dark-web-murder-hire-plot",
+        "publisher": "US DOJ USAO",
+        "reliability": "high",
+        "source_type": "press-release",
+        "publish_date": "2021-10-27"
+      }
+    ]
+  },
+  {
+    "op_slug": "operation-darknet-drug-vendor-arrested-for-distributing-illicit-prescription-drugs",
+    "op_title": "Darknet Drug Vendor Arrested for Distributing Illicit Prescription Drugs Enforcement Action",
+    "verified_local": 1,
+    "unverified_local": 0,
+    "unverified_countries": [
+      "united-states"
+    ],
+    "participating_countries": [
+      "united-states"
+    ],
+    "source_urls": [
+      {
+        "source_slug": "2026-04-18_justice-gov_darknet-drug-vendor-arrested-distributing-illicit-prescription-drugs",
+        "url": "https://www.justice.gov/usao-edva/pr/darknet-drug-vendor-arrested-distributing-illicit-prescription-drugs",
+        "publisher": "US DOJ USAO",
+        "reliability": "high",
+        "source_type": "press-release",
+        "publish_date": "2020-12-02"
+      }
+    ]
+  },
+  {
+    "op_slug": "operation-darknet-vendor-arrested-on-distribution-and-money-laundering-charges",
+    "op_title": "Darknet Vendor Arrested on Distribution and Money Laundering Charges Enforcement Action",
+    "verified_local": 1,
+    "unverified_local": 0,
+    "unverified_countries": [
+      "united-states"
+    ],
+    "participating_countries": [
+      "united-states"
+    ],
+    "source_urls": [
+      {
+        "source_slug": "2026-04-18_justice-gov_darknet-vendor-arrested-distribution-and-money-laundering-charges",
+        "url": "https://www.justice.gov/usao-edva/pr/darknet-vendor-arrested-distribution-and-money-laundering-charges",
+        "publisher": "US DOJ USAO",
+        "reliability": "high",
+        "source_type": "press-release",
+        "publish_date": "2020-04-09"
+      }
+    ]
+  },
+  {
+    "op_slug": "operation-deepdotweb-administrator-pleads-guilty-money-laundering-conspiracy",
+    "op_title": "Tal Prihar and Michael Phan Enforcement Action",
+    "verified_local": 1,
+    "unverified_local": 0,
+    "unverified_countries": [
+      "united-states"
+    ],
+    "participating_countries": [
+      "united-states"
+    ],
+    "source_urls": [
+      {
+        "source_slug": "2026-04-18_justice-gov_deepdotweb-administrator-pleads-guilty-money-laundering-conspiracy",
+        "url": "https://www.justice.gov/usao-wdpa/pr/deepdotweb-administrator-pleads-guilty-money-laundering-conspiracy",
+        "publisher": "US DOJ USAO",
+        "reliability": "high",
+        "source_type": "press-release",
+        "publish_date": "2021-03-31"
+      }
+    ]
+  },
+  {
+    "op_slug": "operation-estonian-national-extradited-from-estonia-to-face-charges-of-illegal-procurement-of-u-s-electronics",
+    "op_title": "Estonian National Extradited From Estonia To Face Charges Of Illegal Procurement Of U.S. Electronics Enforcement Action",
+    "verified_local": 1,
+    "unverified_local": 0,
+    "unverified_countries": [
+      "united-states"
+    ],
+    "participating_countries": [
+      "united-states"
+    ],
+    "source_urls": [
+      {
+        "source_slug": "2026-04-18_justice-gov_estonian-national-extradited-estonia-face-charges-illegal-procurement-us-electronics",
+        "url": "https://www.justice.gov/usao-ndca/pr/estonian-national-extradited-estonia-face-charges-illegal-procurement-us-electronics",
+        "publisher": "US DOJ USAO",
+        "reliability": "high",
+        "source_type": "press-release",
+        "publish_date": "2019-03-21"
+      }
+    ]
+  },
+  {
+    "op_slug": "operation-euclid-ohio-man-pleads-guilty-distribution-fentanyl-he-ordered-china-and-sold",
+    "op_title": "Antoin Austin Enforcement Action",
+    "verified_local": 1,
+    "unverified_local": 0,
+    "unverified_countries": [
+      "united-states"
+    ],
+    "participating_countries": [
+      "united-states"
+    ],
+    "source_urls": [
+      {
+        "source_slug": "2026-04-18_justice-gov_euclid-ohio-man-pleads-guilty-distribution-fentanyl-he-ordered-china-and-sold",
+        "url": "https://www.justice.gov/usao-wdpa/pr/euclid-ohio-man-pleads-guilty-distribution-fentanyl-he-ordered-china-and-sold",
+        "publisher": "US DOJ USAO",
+        "reliability": "high",
+        "source_type": "press-release",
+        "publish_date": "2018-08-13"
+      }
+    ]
+  },
+  {
+    "op_slug": "operation-fayette-county-man-admits-making-hoax-emergency-phone-calls-to-elicit-an-armed-police-response-practice-is-kno",
+    "op_title": "Fayette County Man Admits Making Hoax Emergency Phone Calls to Elicit an Armed Police Response: Practice is Known as “Swatting” Enforcement Action",
+    "verified_local": 1,
+    "unverified_local": 0,
+    "unverified_countries": [
+      "united-states"
+    ],
+    "participating_countries": [
+      "united-states"
+    ],
+    "source_urls": [
+      {
+        "source_slug": "2026-04-18_justice-gov_fayette-county-man-admits-making-hoax-emergency-phone-calls-elicit-armed-police",
+        "url": "https://www.justice.gov/usao-wdpa/pr/fayette-county-man-admits-making-hoax-emergency-phone-calls-elicit-armed-police",
+        "publisher": "US DOJ USAO",
+        "reliability": "high",
+        "source_type": "press-release",
+        "publish_date": "2019-09-11"
+      }
+    ]
+  },
+  {
+    "op_slug": "operation-florida-computer-programmer-arrested-for-hacking",
+    "op_title": "Florida Computer Programmer Arrested For Hacking Enforcement Action",
+    "verified_local": 1,
+    "unverified_local": 0,
+    "unverified_countries": [
+      "united-states"
+    ],
+    "participating_countries": [
+      "united-states"
+    ],
+    "source_urls": [
+      {
+        "source_slug": "2026-04-18_justice-gov_florida-computer-programmer-arrested-hacking",
+        "url": "https://www.justice.gov/usao-ndca/pr/florida-computer-programmer-arrested-hacking",
+        "publisher": "US DOJ USAO",
+        "reliability": "high",
+        "source_type": "press-release",
+        "publish_date": "2016-09-02"
+      }
+    ]
+  },
+  {
+    "op_slug": "operation-florida-man-pleads-guilty-production-images-child-sexual-abuse-and-traveling-sexually",
+    "op_title": "Samuel Aaron Leonard Enforcement Action",
+    "verified_local": 1,
+    "unverified_local": 0,
+    "unverified_countries": [
+      "united-states"
+    ],
+    "participating_countries": [
+      "united-states"
+    ],
+    "source_urls": [
+      {
+        "source_slug": "2026-04-18_justice-gov_florida-man-pleads-guilty-production-images-child-sexual-abuse-and-traveling-sexually",
+        "url": "https://www.justice.gov/usao-wdwa/pr/florida-man-pleads-guilty-production-images-child-sexual-abuse-and-traveling-sexually",
+        "publisher": "US DOJ USAO",
+        "reliability": "high",
+        "source_type": "press-release",
+        "publish_date": "2024-01-30"
+      }
+    ]
+  },
+  {
+    "op_slug": "operation-foreign-national-indicted-in-wire-fraud-scheme",
+    "op_title": "Foreign National Indicted In Wire Fraud Scheme Enforcement Action",
+    "verified_local": 1,
+    "unverified_local": 0,
+    "unverified_countries": [
+      "united-states"
+    ],
+    "participating_countries": [
+      "united-states"
+    ],
+    "source_urls": [
+      {
+        "source_slug": "2026-04-18_justice-gov_foreign-national-indicted-wire-fraud-scheme",
+        "url": "https://www.justice.gov/usao-mdfl/pr/foreign-national-indicted-wire-fraud-scheme",
+        "publisher": "US DOJ USAO",
+        "reliability": "high",
+        "source_type": "press-release",
+        "publish_date": "2025-06-27"
+      }
+    ]
+  },
+  {
+    "op_slug": "operation-foreign-national-pleads-guilty-to-role-in-cybercrime-schemes-involving-tens-of-millions-of-dollars-in-losses",
+    "op_title": "Foreign National Pleads Guilty to Role in Cybercrime Schemes Involving Tens of Millions of Dollars in Losses Enforcement Action",
+    "verified_local": 1,
+    "unverified_local": 0,
+    "unverified_countries": [
+      "united-states"
+    ],
+    "participating_countries": [
+      "united-states"
+    ],
+    "source_urls": [
+      {
+        "source_slug": "2026-04-18_justice-gov_foreign-national-pleads-guilty-role-cybercrime-schemes-involving-tens-millions-dollars",
+        "url": "https://www.justice.gov/usao-ne/pr/foreign-national-pleads-guilty-role-cybercrime-schemes-involving-tens-millions-dollars",
+        "publisher": "US DOJ USAO",
+        "reliability": "high",
+        "source_type": "press-release",
+        "publish_date": "2024-02-20"
+      }
+    ]
+  },
+  {
+    "op_slug": "operation-former-childcare-provider-sentenced-to-15-years-in-federal-prison-for-the-production-of-child-sexual-abuse-mat",
+    "op_title": "Former Childcare Provider Sentenced to 15 Years in Federal Prison for the Production of Child Sexual Abuse Material Enforcement Action",
+    "verified_local": 1,
+    "unverified_local": 0,
+    "unverified_countries": [
+      "united-states"
+    ],
+    "participating_countries": [
+      "united-states"
+    ],
+    "source_urls": [
+      {
+        "source_slug": "2026-04-18_justice-gov_former-childcare-provider-sentenced-15-years-federal-prison-production-child-sexual",
+        "url": "https://www.justice.gov/usao-nh/pr/former-childcare-provider-sentenced-15-years-federal-prison-production-child-sexual",
+        "publisher": "US DOJ USAO",
+        "reliability": "high",
+        "source_type": "press-release",
+        "publish_date": "2026-02-18"
+      }
+    ]
+  },
+  {
+    "op_slug": "operation-former-commander-and-adjutant-of-nonprofit-veterans-organization-indicted-for-wire-fraud-and-tax-fraud",
+    "op_title": "Former Commander and Adjutant of Nonprofit Veteran’s Organization Indicted for Wire Fraud and Tax Fraud Enforcement Action",
+    "verified_local": 1,
+    "unverified_local": 0,
+    "unverified_countries": [
+      "united-states"
+    ],
+    "participating_countries": [
+      "united-states"
+    ],
+    "source_urls": [
+      {
+        "source_slug": "2026-04-18_justice-gov_former-commander-and-adjutant-nonprofit-veterans-organization-indicted-wire-fraud-and",
+        "url": "https://www.justice.gov/usao-id/pr/former-commander-and-adjutant-nonprofit-veterans-organization-indicted-wire-fraud-and",
+        "publisher": "US DOJ USAO",
+        "reliability": "high",
+        "source_type": "press-release",
+        "publish_date": "2025-12-15"
+      }
+    ]
+  },
+  {
+    "op_slug": "operation-former-company-chief-financial-officer-indicted-for-using-35-million-in-company-cash-to-invest-in-cryptocurren",
+    "op_title": "Former company Chief Financial Officer indicted for using $35 million in company cash to invest in cryptocurrency venture Enforcement Action",
+    "verified_local": 1,
+    "unverified_local": 0,
+    "unverified_countries": [
+      "united-states"
+    ],
+    "participating_countries": [
+      "united-states"
+    ],
+    "source_urls": [
+      {
+        "source_slug": "2026-04-18_justice-gov_former-company-chief-financial-officer-indicted-using-35-million-company-cash-invest",
+        "url": "https://www.justice.gov/usao-wdwa/pr/former-company-chief-financial-officer-indicted-using-35-million-company-cash-invest",
+        "publisher": "US DOJ USAO",
+        "reliability": "high",
+        "source_type": "press-release",
+        "publish_date": "2023-05-17"
+      }
+    ]
+  },
+  {
+    "op_slug": "operation-former-emergency-physician-pleads-guilty-to-possessing-child-pornography",
+    "op_title": "Former emergency physician pleads guilty to possessing child pornography Enforcement Action",
+    "verified_local": 1,
+    "unverified_local": 0,
+    "unverified_countries": [
+      "united-states"
+    ],
+    "participating_countries": [
+      "united-states"
+    ],
+    "source_urls": [
+      {
+        "source_slug": "2026-04-18_justice-gov_former-emergency-physician-pleads-guilty-possessing-child-pornography",
+        "url": "https://www.justice.gov/usao-sdoh/pr/former-emergency-physician-pleads-guilty-possessing-child-pornography",
+        "publisher": "US DOJ USAO",
+        "reliability": "high",
+        "source_type": "press-release",
+        "publish_date": "2024-09-23"
+      }
+    ]
+  },
+  {
+    "op_slug": "operation-former-employee-of-house-member-sentenced-to-prison-term-on-charges-in-cyberstalking-case",
+    "op_title": "Former Employee of House Member Sentenced to Prison Term on Charges in Cyberstalking Case Enforcement Action",
+    "verified_local": 1,
+    "unverified_local": 0,
+    "unverified_countries": [
+      "united-states"
+    ],
+    "participating_countries": [
+      "united-states"
+    ],
+    "source_urls": [
+      {
+        "source_slug": "2026-04-18_justice-gov_former-employee-house-member-sentenced-prison-term-charges-cyberstalking-case",
+        "url": "https://www.justice.gov/usao-dc/pr/former-employee-house-member-sentenced-prison-term-charges-cyberstalking-case",
+        "publisher": "US DOJ USAO",
+        "reliability": "high",
+        "source_type": "press-release",
+        "publish_date": "2018-03-08"
+      }
+    ]
+  },
+  {
+    "op_slug": "operation-former-employee-of-silicon-valley-company-pleads-guilty-to-damaging-ex-employers-computers",
+    "op_title": "Former Employee Of Silicon Valley Company Pleads Guilty To Damaging Ex-Employer’s Computers Enforcement Action",
+    "verified_local": 1,
+    "unverified_local": 0,
+    "unverified_countries": [
+      "united-states"
+    ],
+    "participating_countries": [
+      "united-states"
+    ],
+    "source_urls": [
+      {
+        "source_slug": "2026-04-18_justice-gov_former-employee-silicon-valley-company-pleads-guilty-damaging-ex-employer-s-computers",
+        "url": "https://www.justice.gov/usao-ndca/pr/former-employee-silicon-valley-company-pleads-guilty-damaging-ex-employer-s-computers",
+        "publisher": "US DOJ USAO",
+        "reliability": "high",
+        "source_type": "press-release",
+        "publish_date": "2016-06-09"
+      }
+    ]
+  },
+  {
+    "op_slug": "operation-former-owner-of-t-mobile-retail-store-in-eagle-rock-found-guilty-of-committing-25-million-scheme-to-illegally-",
+    "op_title": "Former Owner of T-Mobile Retail Store in Eagle Rock Found Guilty of Committing $25 Million Scheme to Illegally Unlock Cellphones Enforcement Action",
+    "verified_local": 1,
+    "unverified_local": 0,
+    "unverified_countries": [
+      "united-states"
+    ],
+    "participating_countries": [
+      "united-states"
+    ],
+    "source_urls": [
+      {
+        "source_slug": "2026-04-18_justice-gov_former-owner-t-mobile-retail-store-eagle-rock-found-guilty-committing-25-million-scheme",
+        "url": "https://www.justice.gov/usao-cdca/pr/former-owner-t-mobile-retail-store-eagle-rock-found-guilty-committing-25-million-scheme",
+        "publisher": "US DOJ USAO",
+        "reliability": "high",
+        "source_type": "press-release",
+        "publish_date": "2022-08-01"
+      }
+    ]
+  },
+  {
+    "op_slug": "operation-former-teaching-assistant-in-st-louis-admits-blackmailing-student",
+    "op_title": "Former Teaching Assistant in St. Louis Admits Blackmailing Student Enforcement Action",
+    "verified_local": 1,
+    "unverified_local": 0,
+    "unverified_countries": [
+      "united-states"
+    ],
+    "participating_countries": [
+      "united-states"
+    ],
+    "source_urls": [
+      {
+        "source_slug": "2026-04-18_justice-gov_former-teaching-assistant-st-louis-admits-blackmailing-student",
+        "url": "https://www.justice.gov/usao-edmo/pr/former-teaching-assistant-st-louis-admits-blackmailing-student",
+        "publisher": "US DOJ USAO",
+        "reliability": "high",
+        "source_type": "press-release",
+        "publish_date": "2022-12-01"
+      }
+    ]
+  },
+  {
+    "op_slug": "operation-french-coder-who-helped-extort-british-company-arrested-in-thailand",
+    "op_title": "French Coder Who Helped Extort British Company Arrested in Thailand Enforcement Action",
+    "verified_local": 2,
+    "unverified_local": 1,
+    "unverified_countries": [
+      "united-kingdom"
+    ],
+    "participating_countries": [
+      "thailand",
+      "united-kingdom"
+    ],
+    "source_urls": [
+      {
+        "source_slug": "2018-05-18_europol-europa-eu_french-coder-who-helped-extort-british-company-arrested-in-thailand",
+        "url": "https://www.europol.europa.eu/media-press/newsroom/news/french-coder-who-helped-extort-british-company-arrested-in-thailand",
+        "publisher": "Europol",
+        "reliability": "high",
+        "source_type": "press-release",
+        "publish_date": "2018-05-18"
+      }
+    ]
+  },
+  {
+    "op_slug": "operation-ghost-cybercrime-platform-dismantled-in-global-operation-51-arrested",
+    "op_title": "Ghost cybercrime platform dismantled in global operation, 51 arrested Enforcement Action",
+    "verified_local": 1,
+    "unverified_local": 0,
+    "unverified_countries": [
+      "united-states"
+    ],
+    "participating_countries": [
+      "united-states"
+    ],
+    "source_urls": [
+      {
+        "source_slug": "2024-09-18_reuters-com_ghost-cybercrime-platform-dismantled-in-global-operation-51-arrested",
+        "url": "https://www.reuters.com/technology/cybersecurity/ghost-cybercrime-platform-dismantled-global-operation-51-arrested-2024-09-18/",
+        "publisher": "Reuters",
+        "reliability": "medium",
+        "source_type": "press-release",
+        "publish_date": "2024-09-18"
+      }
+    ]
+  },
+  {
+    "op_slug": "operation-grand-jury-indicts-knoxville-woman-previously-arrested-in-murder-for-hire-plot",
+    "op_title": "Grand Jury Indicts Knoxville Woman Previously Arrested In Murder-For-Hire Plot Enforcement Action",
+    "verified_local": 1,
+    "unverified_local": 0,
+    "unverified_countries": [
+      "united-states"
+    ],
+    "participating_countries": [
+      "united-states"
+    ],
+    "source_urls": [
+      {
+        "source_slug": "2026-04-18_justice-gov_grand-jury-indicts-knoxville-woman-previously-arrested-murder-hire-plot-0",
+        "url": "https://www.justice.gov/usao-edtn/pr/grand-jury-indicts-knoxville-woman-previously-arrested-murder-hire-plot-0",
+        "publisher": "US DOJ USAO",
+        "reliability": "high",
+        "source_type": "press-release",
+        "publish_date": "2023-06-07"
+      }
+    ]
+  },
+  {
+    "op_slug": "operation-greene-county-man-indicted-cyberstalking-and-interstate-threats",
+    "op_title": "Kaleb Levicky Enforcement Action",
+    "verified_local": 1,
+    "unverified_local": 0,
+    "unverified_countries": [
+      "united-states"
+    ],
+    "participating_countries": [
+      "united-states"
+    ],
+    "source_urls": [
+      {
+        "source_slug": "2026-04-18_justice-gov_greene-county-man-indicted-cyberstalking-and-interstate-threats",
+        "url": "https://www.justice.gov/usao-wdpa/pr/greene-county-man-indicted-cyberstalking-and-interstate-threats",
+        "publisher": "US DOJ USAO",
+        "reliability": "high",
+        "source_type": "press-release",
+        "publish_date": "2021-02-01"
+      }
+    ]
+  },
+  {
+    "op_slug": "operation-illinois-man-sentenced-2-years-federal-prison-operating-subscription-based-computer",
+    "op_title": "Matthew Gatrel Enforcement Action",
+    "verified_local": 1,
+    "unverified_local": 0,
+    "unverified_countries": [
+      "united-states"
+    ],
+    "participating_countries": [
+      "united-states"
+    ],
+    "source_urls": [
+      {
+        "source_slug": "2026-04-18_justice-gov_illinois-man-sentenced-2-years-federal-prison-operating-subscription-based-computer",
+        "url": "https://www.justice.gov/usao-cdca/pr/illinois-man-sentenced-2-years-federal-prison-operating-subscription-based-computer",
+        "publisher": "US DOJ USAO",
+        "reliability": "high",
+        "source_type": "press-release",
+        "publish_date": "2022-06-13"
+      }
+    ]
+  },
+  {
+    "op_slug": "operation-in-re-bidencash-marketplace-seizure",
+    "op_title": "Seizure of BidenCash Marketplace Domains Enforcement Action",
+    "verified_local": 1,
+    "unverified_local": 0,
+    "unverified_countries": [
+      "united-states"
+    ],
+    "participating_countries": [
+      "united-states"
+    ],
+    "source_urls": [
+      {
+        "source_slug": "2025-06-04_edva_bidencash-marketplace-seizure",
+        "url": "https://www.justice.gov/usao-edva/pr/us-government-seizes-approximately-145-criminal-marketplace-domains",
+        "publisher": "US DOJ (Eastern District of Virginia)",
+        "reliability": "high",
+        "source_type": "court-document",
+        "publish_date": "2025-06-04"
+      }
+    ]
+  },
+  {
+    "op_slug": "operation-in-re-heartsender-seizure",
+    "op_title": "HeartSender / Saim Raza Seizure Enforcement Action",
+    "verified_local": 1,
+    "unverified_local": 0,
+    "unverified_countries": [
+      "united-states"
+    ],
+    "participating_countries": [
+      "united-states"
+    ],
+    "source_urls": [
+      {
+        "source_slug": "2025-01-29_sdtx_heartsender-seizure",
+        "url": "https://www.justice.gov/usao-sdtx/pr/international-operation-takes-down-cybercrime-ring-selling-hacking-tools",
+        "publisher": "U.S. District Court for the Southern District of Texas",
+        "reliability": "high",
+        "source_type": "court-document",
+        "publish_date": "2026-04-17"
+      }
+    ]
+  },
+  {
+    "op_slug": "operation-independence-pair-indicted-for-drug-and-firearms-offenses",
+    "op_title": "Independence Pair Indicted for Drug and Firearms Offenses Enforcement Action",
+    "verified_local": 1,
+    "unverified_local": 0,
+    "unverified_countries": [
+      "united-states"
+    ],
+    "participating_countries": [
+      "united-states"
+    ],
+    "source_urls": [
+      {
+        "source_slug": "2026-04-18_justice-gov_independence-pair-indicted-drug-and-firearms-offenses",
+        "url": "https://www.justice.gov/usao-wdmo/pr/independence-pair-indicted-drug-and-firearms-offenses",
+        "publisher": "US DOJ USAO",
+        "reliability": "high",
+        "source_type": "press-release",
+        "publish_date": "2025-09-10"
+      }
+    ]
+  },
+  {
+    "op_slug": "operation-individual-arrested-and-charged-with-operating-notorious-darknet-cryptocurrency-mixer",
+    "op_title": "Individual Arrested and Charged with Operating Notorious Darknet Cryptocurrency \"Mixer\" Enforcement Action",
+    "verified_local": 1,
+    "unverified_local": 0,
+    "unverified_countries": [
+      "united-states"
+    ],
+    "participating_countries": [
+      "united-states"
+    ],
+    "source_urls": [
+      {
+        "source_slug": "2026-04-18_justice-gov_individual-arrested-and-charged-operating-notorious-darknet-cryptocurrency-mixer",
+        "url": "https://www.justice.gov/usao-dc/pr/individual-arrested-and-charged-operating-notorious-darknet-cryptocurrency-mixer",
+        "publisher": "US DOJ USAO",
+        "reliability": "high",
+        "source_type": "press-release",
+        "publish_date": "2021-04-29"
+      }
+    ]
+  },
+  {
+    "op_slug": "operation-international-crypto-vendor-sentenced-for-money-laundering-conspiracy",
+    "op_title": "International Crypto Vendor Sentenced for Money Laundering Conspiracy Enforcement Action",
+    "verified_local": 1,
+    "unverified_local": 0,
+    "unverified_countries": [
+      "united-states"
+    ],
+    "participating_countries": [
+      "united-states"
+    ],
+    "source_urls": [
+      {
+        "source_slug": "2026-04-18_justice-gov_international-crypto-vendor-sentenced-money-laundering-conspiracy",
+        "url": "https://www.justice.gov/usao-edky/pr/international-crypto-vendor-sentenced-money-laundering-conspiracy",
+        "publisher": "US DOJ USAO",
+        "reliability": "high",
+        "source_type": "press-release",
+        "publish_date": "2025-01-17"
+      }
+    ]
+  },
+  {
+    "op_slug": "operation-international-hacker-for-hire-who-conspired-with-and-aided-russian-fsb-officers-sentenced-to-five-years-in-pri",
+    "op_title": "International Hacker-For-Hire Who Conspired With And Aided Russian FSB Officers Sentenced To Five Years In Prison Enforcement Action",
+    "verified_local": 1,
+    "unverified_local": 0,
+    "unverified_countries": [
+      "united-states"
+    ],
+    "participating_countries": [
+      "united-states"
+    ],
+    "source_urls": [
+      {
+        "source_slug": "2026-04-18_justice-gov_international-hacker-hire-who-conspired-and-aided-russian-fsb-officers-sentenced-five",
+        "url": "https://www.justice.gov/usao-ndca/pr/international-hacker-hire-who-conspired-and-aided-russian-fsb-officers-sentenced-five",
+        "publisher": "US DOJ USAO",
+        "reliability": "high",
+        "source_type": "press-release",
+        "publish_date": "2018-05-30"
+      }
+    ]
+  },
+  {
+    "op_slug": "operation-international-money-launderer-sentenced-to-over-11-years-in-federal-prison-for-laundering-millions-from-cyber-",
+    "op_title": "International Money Launderer Sentenced to over 11 Years in Federal Prison for Laundering Millions from Cyber Crime Schemes Enforcement Action",
+    "verified_local": 1,
+    "unverified_local": 0,
+    "unverified_countries": [
+      "united-states"
+    ],
+    "participating_countries": [
+      "united-states"
+    ],
+    "source_urls": [
+      {
+        "source_slug": "2026-04-18_justice-gov_international-money-launderer-sentenced-over-11-years-federal-prison-laundering",
+        "url": "https://www.justice.gov/usao-cdca/pr/international-money-launderer-sentenced-over-11-years-federal-prison-laundering",
+        "publisher": "US DOJ USAO",
+        "reliability": "high",
+        "source_type": "press-release",
+        "publish_date": "2021-09-08"
+      }
+    ]
+  },
+  {
+    "op_slug": "operation-internet-stalker-sentenced-to-more-than-14-years-in-federal-prison",
+    "op_title": "Internet Stalker Sentenced to More than 14 Years in Federal Prison Enforcement Action",
+    "verified_local": 1,
+    "unverified_local": 0,
+    "unverified_countries": [
+      "united-states"
+    ],
+    "participating_countries": [
+      "united-states"
+    ],
+    "source_urls": [
+      {
+        "source_slug": "2026-04-18_justice-gov_internet-stalker-sentenced-more-14-years-federal-prison",
+        "url": "https://www.justice.gov/usao-co/pr/internet-stalker-sentenced-more-14-years-federal-prison",
+        "publisher": "US DOJ USAO",
+        "reliability": "high",
+        "source_type": "press-release",
+        "publish_date": "2019-01-25"
+      }
+    ]
+  },
+  {
+    "op_slug": "operation-iranian-man-pleaded-guilty-to-role-in-robbinhood-ransomware",
+    "op_title": "Iranian Man Pleaded Guilty to Role in Robbinhood Ransomware Enforcement Action",
+    "verified_local": 1,
+    "unverified_local": 0,
+    "unverified_countries": [
+      "united-states"
+    ],
+    "participating_countries": [
+      "united-states"
+    ],
+    "source_urls": [
+      {
+        "source_slug": "2026-04-18_justice-gov_iranian-man-pleaded-guilty-role-robbinhood-ransomware",
+        "url": "https://www.justice.gov/opa/pr/iranian-man-pleaded-guilty-role-robbinhood-ransomware",
+        "publisher": "US DOJ (Office of Public Affairs)",
+        "reliability": "high",
+        "source_type": "press-release",
+        "publish_date": "2025-05-27"
+      }
+    ]
+  },
+  {
+    "op_slug": "operation-iranian-national-indicted-for-operating-online-marketplace-offering-fentanyl-and-money-laundering-services",
+    "op_title": "Iranian National Indicted for Operating Online Marketplace Offering Fentanyl and Money Laundering Services Enforcement Action",
+    "verified_local": 1,
+    "unverified_local": 0,
+    "unverified_countries": [
+      "united-states"
+    ],
+    "participating_countries": [
+      "united-states"
+    ],
+    "source_urls": [
+      {
+        "source_slug": "2026-04-18_justice-gov_iranian-national-indicted-operating-online-marketplace-offering-fentanyl-and-money",
+        "url": "https://www.justice.gov/opa/pr/iranian-national-indicted-operating-online-marketplace-offering-fentanyl-and-money",
+        "publisher": "US DOJ (Office of Public Affairs)",
+        "reliability": "high",
+        "source_type": "press-release",
+        "publish_date": "2025-04-17"
+      }
+    ]
+  },
+  {
+    "op_slug": "operation-iranian-national-indicted-for-operating-online-marketplace-offering-fentanyl-other-drugs-and-money-laundering-",
+    "op_title": "Iranian National Indicted for Operating Online Marketplace Offering Fentanyl, Other Drugs, and Money Laundering Services Enforcement Action",
+    "verified_local": 1,
+    "unverified_local": 0,
+    "unverified_countries": [
+      "united-states"
+    ],
+    "participating_countries": [
+      "united-states"
+    ],
+    "source_urls": [
+      {
+        "source_slug": "2026-04-18_justice-gov_iranian-national-indicted-operating-online-marketplace-offering-fentanyl-other-drugs",
+        "url": "https://www.justice.gov/usao-ndoh/pr/iranian-national-indicted-operating-online-marketplace-offering-fentanyl-other-drugs",
+        "publisher": "US DOJ USAO",
+        "reliability": "high",
+        "source_type": "press-release",
+        "publish_date": "2025-04-17"
+      }
+    ]
+  },
+  {
+    "op_slug": "operation-irish-man-who-helped-operate-the-silk-road-website-sentenced-in-manhattan-federal-court-to-over-six-years-in-p",
+    "op_title": "Irish Man Who Helped Operate The “Silk Road” Website Sentenced In Manhattan Federal Court To Over Six Years In Prison Enforcement Action",
+    "verified_local": 1,
+    "unverified_local": 0,
+    "unverified_countries": [
+      "united-states"
+    ],
+    "participating_countries": [
+      "united-states"
+    ],
+    "source_urls": [
+      {
+        "source_slug": "2019-07-25_justice-gov_united-states-v-gary-davis",
+        "url": "https://www.justice.gov/usao-sdny/pr/irish-man-who-helped-operate-silk-road-website-sentenced-manhattan-federal-court-over",
+        "publisher": "US DOJ (Southern District of New York)",
+        "reliability": "high",
+        "source_type": "press-release",
+        "publish_date": "2019-07-25"
+      }
+    ]
+  },
+  {
+    "op_slug": "operation-issaquah-washington-man-sentenced-to-7-years-in-prison-for-dealing-fentanyl-and-other-drugs-on-the-darknet",
+    "op_title": "Issaquah, Washington man sentenced to 7 years in prison for dealing fentanyl and other drugs on the darknet Enforcement Action",
+    "verified_local": 1,
+    "unverified_local": 0,
+    "unverified_countries": [
+      "united-states"
+    ],
+    "participating_countries": [
+      "united-states"
+    ],
+    "source_urls": [
+      {
+        "source_slug": "2026-04-18_justice-gov_issaquah-washington-man-sentenced-7-years-prison-dealing-fentanyl-and-other-drugs",
+        "url": "https://www.justice.gov/usao-wdwa/pr/issaquah-washington-man-sentenced-7-years-prison-dealing-fentanyl-and-other-drugs",
+        "publisher": "US DOJ USAO",
+        "reliability": "high",
+        "source_type": "press-release",
+        "publish_date": "2022-09-23"
+      }
+    ]
+  },
+  {
+    "op_slug": "operation-jefferson-county-man-sentenced-to-6-12-years-in-prison-for-possession-of-child-pornography",
+    "op_title": "Jefferson County Man Sentenced to 6 ½ Years in Prison for Possession of Child Pornography Enforcement Action",
+    "verified_local": 1,
+    "unverified_local": 0,
+    "unverified_countries": [
+      "united-states"
+    ],
+    "participating_countries": [
+      "united-states"
+    ],
+    "source_urls": [
+      {
+        "source_slug": "2026-04-18_justice-gov_jefferson-county-man-sentenced-6-years-prison-possession-child-pornography",
+        "url": "https://www.justice.gov/usao-ndal/pr/jefferson-county-man-sentenced-6-years-prison-possession-child-pornography",
+        "publisher": "US DOJ USAO",
+        "reliability": "high",
+        "source_type": "press-release",
+        "publish_date": "2021-05-21"
+      }
+    ]
+  },
+  {
+    "op_slug": "operation-jordanian-man-admits-selling-unauthorized-access-to-computer-networks-of-50-companies",
+    "op_title": "Jordanian Man Admits Selling Unauthorized Access to Computer Networks of 50 Companies Enforcement Action",
+    "verified_local": 1,
+    "unverified_local": 0,
+    "unverified_countries": [
+      "united-states"
+    ],
+    "participating_countries": [
+      "united-states"
+    ],
+    "source_urls": [
+      {
+        "source_slug": "2026-04-18_justice-gov_jordanian-man-admits-selling-unauthorized-access-computer-networks-50-companies",
+        "url": "https://www.justice.gov/usao-nj/pr/jordanian-man-admits-selling-unauthorized-access-computer-networks-50-companies",
+        "publisher": "US DOJ USAO",
+        "reliability": "high",
+        "source_type": "press-release",
+        "publish_date": "2026-01-15"
+      }
+    ]
+  },
+  {
+    "op_slug": "operation-jumbotron-hacker-and-prolific-child-molester-sentenced-to-220-years-in-federal-prison",
+    "op_title": "Jumbotron Hacker And Prolific Child Molester Sentenced To 220 Years In Federal Prison Enforcement Action",
+    "verified_local": 1,
+    "unverified_local": 0,
+    "unverified_countries": [
+      "united-states"
+    ],
+    "participating_countries": [
+      "united-states"
+    ],
+    "source_urls": [
+      {
+        "source_slug": "2026-04-18_justice-gov_jumbotron-hacker-and-prolific-child-molester-sentenced-220-years-federal-prison",
+        "url": "https://www.justice.gov/usao-mdfl/pr/jumbotron-hacker-and-prolific-child-molester-sentenced-220-years-federal-prison",
+        "publisher": "US DOJ USAO",
+        "reliability": "high",
+        "source_type": "press-release",
+        "publish_date": "2024-03-26"
+      }
+    ]
+  },
+  {
+    "op_slug": "operation-justice-department-secures-forfeiture-of-over-5m-of-funds-traceable-to-business-email-compromise-scheme-target",
+    "op_title": "Justice Department Secures Forfeiture of Over $5M of Funds Traceable to Business Email Compromise Scheme Targeting Massachusetts Workers Union Enforcement Action",
+    "verified_local": 1,
+    "unverified_local": 0,
+    "unverified_countries": [
+      "united-states"
+    ],
+    "participating_countries": [
+      "united-states"
+    ],
+    "source_urls": [
+      {
+        "source_slug": "2026-04-18_justice-gov_justice-department-secures-forfeiture-over-5m-funds-traceable-business-email-compromise",
+        "url": "https://www.justice.gov/opa/pr/justice-department-secures-forfeiture-over-5m-funds-traceable-business-email-compromise",
+        "publisher": "US DOJ (Office of Public Affairs)",
+        "reliability": "high",
+        "source_type": "press-release",
+        "publish_date": "2025-03-26"
+      }
+    ]
+  },
+  {
+    "op_slug": "operation-justice-department-seeks-forfeiture-of-848-247-in-cryptocurrency-from-confidence-scams",
+    "op_title": "Justice Department Seeks Forfeiture of $848,247 in Cryptocurrency from Confidence Scams Enforcement Action",
+    "verified_local": 1,
+    "unverified_local": 0,
+    "unverified_countries": [
+      "united-states"
+    ],
+    "participating_countries": [
+      "united-states"
+    ],
+    "source_urls": [
+      {
+        "source_slug": "2026-04-18_justice-gov_justice-department-seeks-forfeiture-848247-cryptocurrency-confidence-scams",
+        "url": "https://www.justice.gov/usao-dc/pr/justice-department-seeks-forfeiture-848247-cryptocurrency-confidence-scams",
+        "publisher": "US DOJ USAO",
+        "reliability": "high",
+        "source_type": "press-release",
+        "publish_date": "2025-09-02"
+      }
+    ]
+  },
+  {
+    "op_slug": "operation-justice-department-seeks-forfeiture-of-over-5-million-in-bitcoin-stolen-in-sim-swapping-scams",
+    "op_title": "Justice Department Seeks Forfeiture of Over $5 Million in Bitcoin Stolen in SIM Swapping Scams Enforcement Action",
+    "verified_local": 1,
+    "unverified_local": 0,
+    "unverified_countries": [
+      "united-states"
+    ],
+    "participating_countries": [
+      "united-states"
+    ],
+    "source_urls": [
+      {
+        "source_slug": "2026-04-18_justice-gov_justice-department-seeks-forfeiture-over-5-million-bitcoin-stolen-sim-swapping-scams",
+        "url": "https://www.justice.gov/usao-dc/pr/justice-department-seeks-forfeiture-over-5-million-bitcoin-stolen-sim-swapping-scams",
+        "publisher": "US DOJ USAO",
+        "reliability": "high",
+        "source_type": "press-release",
+        "publish_date": "2025-09-09"
+      }
+    ]
+  },
+  {
+    "op_slug": "operation-justice-dept-seizes-over-112m-in-funds-linked-to-cryptocurrency-investment-schemes-with-over-half-seized-in-lo",
+    "op_title": "Justice Dept. Seizes Over $112M in Funds Linked to Cryptocurrency Investment Schemes, With Over Half Seized in Los Angeles Case Enforcement Action",
+    "verified_local": 1,
+    "unverified_local": 0,
+    "unverified_countries": [
+      "united-states"
+    ],
+    "participating_countries": [
+      "united-states"
+    ],
+    "source_urls": [
+      {
+        "source_slug": "2026-04-18_justice-gov_justice-dept-seizes-over-112m-funds-linked-cryptocurrency-investment-schemes-over-half",
+        "url": "https://www.justice.gov/usao-cdca/pr/justice-dept-seizes-over-112m-funds-linked-cryptocurrency-investment-schemes-over-half",
+        "publisher": "US DOJ USAO",
+        "reliability": "high",
+        "source_type": "press-release",
+        "publish_date": "2023-04-03"
+      }
+    ]
+  },
+  {
+    "op_slug": "operation-kansas-city-woman-indicted-for-fraudulent-tax-returns",
+    "op_title": "Kansas City Woman Indicted for Fraudulent Tax Returns Enforcement Action",
+    "verified_local": 1,
+    "unverified_local": 0,
+    "unverified_countries": [
+      "united-states"
+    ],
+    "participating_countries": [
+      "united-states"
+    ],
+    "source_urls": [
+      {
+        "source_slug": "2026-04-18_justice-gov_kansas-city-woman-indicted-fraudulent-tax-returns",
+        "url": "https://www.justice.gov/usao-wdmo/pr/kansas-city-woman-indicted-fraudulent-tax-returns",
+        "publisher": "US DOJ USAO",
+        "reliability": "high",
+        "source_type": "press-release",
+        "publish_date": "2025-05-22"
+      }
+    ]
+  },
+  {
+    "op_slug": "operation-kansas-farmer-indicted-for-insurance-fraud",
+    "op_title": "Kansas farmer indicted for insurance fraud Enforcement Action",
+    "verified_local": 1,
+    "unverified_local": 0,
+    "unverified_countries": [
+      "united-states"
+    ],
+    "participating_countries": [
+      "united-states"
+    ],
+    "source_urls": [
+      {
+        "source_slug": "2026-04-18_justice-gov_kansas-farmer-indicted-insurance-fraud",
+        "url": "https://www.justice.gov/usao-ks/pr/kansas-farmer-indicted-insurance-fraud",
+        "publisher": "US DOJ USAO",
+        "reliability": "high",
+        "source_type": "press-release",
+        "publish_date": "2025-11-26"
+      }
+    ]
+  },
+  {
+    "op_slug": "operation-kansas-man-pleads-guilty-to-child-pornography-possession",
+    "op_title": "Kansas man pleads guilty to child pornography possession Enforcement Action",
+    "verified_local": 1,
+    "unverified_local": 0,
+    "unverified_countries": [
+      "united-states"
+    ],
+    "participating_countries": [
+      "united-states"
+    ],
+    "source_urls": [
+      {
+        "source_slug": "2026-04-18_justice-gov_kansas-man-pleads-guilty-child-pornography-possession",
+        "url": "https://www.justice.gov/usao-ks/pr/kansas-man-pleads-guilty-child-pornography-possession",
+        "publisher": "US DOJ USAO",
+        "reliability": "high",
+        "source_type": "press-release",
+        "publish_date": "2025-01-17"
+      }
+    ]
+  },
+  {
+    "op_slug": "operation-kansas-woman-indicted-for-defrauding-elderly-victims",
+    "op_title": "Kansas Woman Indicted for Defrauding Elderly Victims Enforcement Action",
+    "verified_local": 1,
+    "unverified_local": 0,
+    "unverified_countries": [
+      "united-states"
+    ],
+    "participating_countries": [
+      "united-states"
+    ],
+    "source_urls": [
+      {
+        "source_slug": "2026-04-18_justice-gov_kansas-woman-indicted-defrauding-elderly-victims",
+        "url": "https://www.justice.gov/usao-wdmo/pr/kansas-woman-indicted-defrauding-elderly-victims",
+        "publisher": "US DOJ USAO",
+        "reliability": "high",
+        "source_type": "press-release",
+        "publish_date": "2025-04-25"
+      }
+    ]
+  },
+  {
+    "op_slug": "operation-kc-man-sentenced-for-selling-meth-heroin-on-the-dark-web",
+    "op_title": "KC Man Sentenced for Selling Meth, Heroin on the Dark Web Enforcement Action",
+    "verified_local": 1,
+    "unverified_local": 0,
+    "unverified_countries": [
+      "united-states"
+    ],
+    "participating_countries": [
+      "united-states"
+    ],
+    "source_urls": [
+      {
+        "source_slug": "2026-04-18_justice-gov_kc-man-sentenced-selling-meth-heroin-dark-web",
+        "url": "https://www.justice.gov/usao-wdmo/pr/kc-man-sentenced-selling-meth-heroin-dark-web",
+        "publisher": "US DOJ USAO",
+        "reliability": "high",
+        "source_type": "press-release",
+        "publish_date": "2024-02-29"
+      }
+    ]
+  },
+  {
+    "op_slug": "operation-kent-washington-resident-indicted-for-dealing-fentanyl-while-illegally-possessing-firearm",
+    "op_title": "Kent, Washington, resident indicted for dealing fentanyl while illegally possessing firearm Enforcement Action",
+    "verified_local": 1,
+    "unverified_local": 0,
+    "unverified_countries": [
+      "united-states"
+    ],
+    "participating_countries": [
+      "united-states"
+    ],
+    "source_urls": [
+      {
+        "source_slug": "2026-04-18_justice-gov_kent-washington-resident-indicted-dealing-fentanyl-while-illegally-possessing-firearm",
+        "url": "https://www.justice.gov/usao-wdwa/pr/kent-washington-resident-indicted-dealing-fentanyl-while-illegally-possessing-firearm",
+        "publisher": "US DOJ USAO",
+        "reliability": "high",
+        "source_type": "press-release",
+        "publish_date": "2023-03-10"
+      }
+    ]
+  },
+  {
+    "op_slug": "operation-kentucky-man-pleads-guilty-advertising-child-pornography",
+    "op_title": "Scott Allison Enforcement Action",
+    "verified_local": 1,
+    "unverified_local": 0,
+    "unverified_countries": [
+      "united-states"
+    ],
+    "participating_countries": [
+      "united-states"
+    ],
+    "source_urls": [
+      {
+        "source_slug": "2026-04-18_justice-gov_kentucky-man-pleads-guilty-advertising-child-pornography",
+        "url": "https://www.justice.gov/usao-ma/pr/kentucky-man-pleads-guilty-advertising-child-pornography",
+        "publisher": "US DOJ USAO",
+        "reliability": "high",
+        "source_type": "press-release",
+        "publish_date": "2023-09-05"
+      }
+    ]
+  },
+  {
+    "op_slug": "operation-kentucky-man-pleads-guilty-to-advertising-child-pornography",
+    "op_title": "Kentucky Man Pleads Guilty to Advertising Child Pornography Enforcement Action",
+    "verified_local": 1,
+    "unverified_local": 0,
+    "unverified_countries": [
+      "united-states"
+    ],
+    "participating_countries": [
+      "united-states"
+    ],
+    "source_urls": [
+      {
+        "source_slug": "2026-04-18_justice-gov_kentucky-man-pleads-guilty-advertising-child-pornography",
+        "url": "https://www.justice.gov/usao-ma/pr/kentucky-man-pleads-guilty-advertising-child-pornography",
+        "publisher": "US DOJ USAO",
+        "reliability": "high",
+        "source_type": "press-release",
+        "publish_date": "2023-09-05"
+      }
+    ]
+  },
+  {
+    "op_slug": "operation-kentucky-man-sentenced-to-15-years-in-prison-for-advertising-child-pornography",
+    "op_title": "Kentucky Man Sentenced to 15 Years in Prison for Advertising Child Pornography Enforcement Action",
+    "verified_local": 1,
+    "unverified_local": 0,
+    "unverified_countries": [
+      "united-states"
+    ],
+    "participating_countries": [
+      "united-states"
+    ],
+    "source_urls": [
+      {
+        "source_slug": "2026-04-18_justice-gov_kentucky-man-sentenced-15-years-prison-advertising-child-pornography",
+        "url": "https://www.justice.gov/usao-ma/pr/kentucky-man-sentenced-15-years-prison-advertising-child-pornography",
+        "publisher": "US DOJ USAO",
+        "reliability": "high",
+        "source_type": "press-release",
+        "publish_date": "2024-05-01"
+      }
+    ]
+  },
+  {
+    "op_slug": "operation-key-member-of-drug-ring-associated-with-aryan-prison-gang-sentenced-to-7-years-in-prison",
+    "op_title": "Key member of drug ring associated with Aryan prison gang sentenced to 7+ years in prison Enforcement Action",
+    "verified_local": 1,
+    "unverified_local": 0,
+    "unverified_countries": [
+      "united-states"
+    ],
+    "participating_countries": [
+      "united-states"
+    ],
+    "source_urls": [
+      {
+        "source_slug": "2026-04-18_justice-gov_key-member-drug-ring-associated-aryan-prison-gang-sentenced-7-years-prison",
+        "url": "https://www.justice.gov/usao-wdwa/pr/key-member-drug-ring-associated-aryan-prison-gang-sentenced-7-years-prison",
+        "publisher": "US DOJ USAO",
+        "reliability": "high",
+        "source_type": "press-release",
+        "publish_date": "2025-02-07"
+      }
+    ]
+  },
+  {
+    "op_slug": "operation-king-county-couple-indicted-for-drug-and-illegal-weapons-possession",
+    "op_title": "King County couple indicted for drug and illegal weapons possession Enforcement Action",
+    "verified_local": 1,
+    "unverified_local": 0,
+    "unverified_countries": [
+      "united-states"
+    ],
+    "participating_countries": [
+      "united-states"
+    ],
+    "source_urls": [
+      {
+        "source_slug": "2026-04-18_justice-gov_king-county-couple-indicted-drug-and-illegal-weapons-possession",
+        "url": "https://www.justice.gov/usao-wdwa/pr/king-county-couple-indicted-drug-and-illegal-weapons-possession",
+        "publisher": "US DOJ USAO",
+        "reliability": "high",
+        "source_type": "press-release",
+        "publish_date": "2024-05-30"
+      }
+    ]
+  },
+  {
+    "op_slug": "operation-king-county-man-who-dealt-narcotics-on-the-dark-web-and-kept-a-cache-of-weapons-at-his-rv-sentenced-to-8-years",
+    "op_title": "King County man who dealt narcotics on the dark web and kept a cache of weapons at his RV sentenced to 8 years in prison Enforcement Action",
+    "verified_local": 1,
+    "unverified_local": 0,
+    "unverified_countries": [
+      "united-states"
+    ],
+    "participating_countries": [
+      "united-states"
+    ],
+    "source_urls": [
+      {
+        "source_slug": "2026-04-18_justice-gov_king-county-man-who-dealt-narcotics-dark-web-and-kept-cache-weapons-his-rv-sentenced-8",
+        "url": "https://www.justice.gov/usao-wdwa/pr/king-county-man-who-dealt-narcotics-dark-web-and-kept-cache-weapons-his-rv-sentenced-8",
+        "publisher": "US DOJ USAO",
+        "reliability": "high",
+        "source_type": "press-release",
+        "publish_date": "2025-02-25"
+      }
+    ]
+  },
+  {
+    "op_slug": "operation-kirkwood-resident-pleads-guilty-for-identity-theft",
+    "op_title": "Kirkwood resident pleads guilty for identity theft Enforcement Action",
+    "verified_local": 1,
+    "unverified_local": 0,
+    "unverified_countries": [
+      "united-states"
+    ],
+    "participating_countries": [
+      "united-states"
+    ],
+    "source_urls": [
+      {
+        "source_slug": "2026-04-18_justice-gov_kirkwood-resident-pleads-guilty-identity-theft",
+        "url": "https://www.justice.gov/usao-edmo/pr/kirkwood-resident-pleads-guilty-identity-theft",
+        "publisher": "US DOJ USAO",
+        "reliability": "high",
+        "source_type": "press-release",
+        "publish_date": "2021-11-03"
+      }
+    ]
+  },
+  {
+    "op_slug": "operation-knox-county-man-sentenced-to-60-years-imprisonment-for-two-counts-of-production-of-child-pornography",
+    "op_title": "Knox County Man Sentenced To 60 Years Imprisonment For Two Counts Of Production Of Child Pornography Enforcement Action",
+    "verified_local": 1,
+    "unverified_local": 0,
+    "unverified_countries": [
+      "united-states"
+    ],
+    "participating_countries": [
+      "united-states"
+    ],
+    "source_urls": [
+      {
+        "source_slug": "2026-04-18_justice-gov_knox-county-man-sentenced-60-years-imprisonment-two-counts-production-child",
+        "url": "https://www.justice.gov/usao-edtn/pr/knox-county-man-sentenced-60-years-imprisonment-two-counts-production-child",
+        "publisher": "US DOJ USAO",
+        "reliability": "high",
+        "source_type": "press-release",
+        "publish_date": "2025-04-16"
+      }
+    ]
+  },
+  {
+    "op_slug": "operation-kosovo-national-pleads-guilty-to-operating-an-online-criminal-marketplace",
+    "op_title": "Kosovo National Pleads Guilty To Operating An Online Criminal Marketplace Enforcement Action",
+    "verified_local": 1,
+    "unverified_local": 0,
+    "unverified_countries": [
+      "united-states"
+    ],
+    "participating_countries": [
+      "united-states"
+    ],
+    "source_urls": [
+      {
+        "source_slug": "2026-04-18_justice-gov_kosovo-national-pleads-guilty-operating-online-criminal-marketplace",
+        "url": "https://www.justice.gov/usao-mdfl/pr/kosovo-national-pleads-guilty-operating-online-criminal-marketplace",
+        "publisher": "US DOJ USAO",
+        "reliability": "high",
+        "source_type": "press-release",
+        "publish_date": "2025-09-09"
+      }
+    ]
+  },
+  {
+    "op_slug": "operation-lakeland-man-pleads-guilty-to-receiving-child-sex-abuse-videos-from-the-largest-darknet-child-pornography-webs",
+    "op_title": "Lakeland Man Pleads Guilty To Receiving Child Sex Abuse Videos From The Largest Darknet Child Pornography Website, Which Was Funded By Bitcoin Enforcement Action",
+    "verified_local": 1,
+    "unverified_local": 0,
+    "unverified_countries": [
+      "united-states"
+    ],
+    "participating_countries": [
+      "united-states"
+    ],
+    "source_urls": [
+      {
+        "source_slug": "2026-04-18_justice-gov_lakeland-man-pleads-guilty-receiving-child-sex-abuse-videos-largest-darknet-child",
+        "url": "https://www.justice.gov/usao-mdfl/pr/lakeland-man-pleads-guilty-receiving-child-sex-abuse-videos-largest-darknet-child",
+        "publisher": "US DOJ USAO",
+        "reliability": "high",
+        "source_type": "press-release",
+        "publish_date": "2021-03-30"
+      }
+    ]
+  },
+  {
+    "op_slug": "operation-lakeland-man-sentenced-to-more-than-9-years-in-federal-prison-for-downloading-and-possessing-child-sex-abuse-v",
+    "op_title": "Lakeland Man Sentenced To More Than 9 Years In Federal Prison For Downloading And Possessing Child Sex Abuse Videos From The Darkweb Enforcement Action",
+    "verified_local": 1,
+    "unverified_local": 0,
+    "unverified_countries": [
+      "united-states"
+    ],
+    "participating_countries": [
+      "united-states"
+    ],
+    "source_urls": [
+      {
+        "source_slug": "2026-04-18_justice-gov_lakeland-man-sentenced-more-9-years-federal-prison-downloading-and-possessing-child-sex",
+        "url": "https://www.justice.gov/usao-mdfl/pr/lakeland-man-sentenced-more-9-years-federal-prison-downloading-and-possessing-child-sex",
+        "publisher": "US DOJ USAO",
+        "reliability": "high",
+        "source_type": "press-release",
+        "publish_date": "2021-07-01"
+      }
+    ]
+  },
+  {
+    "op_slug": "operation-laredo-professor-charged-with-distribution-and-production-of-child-pornography",
+    "op_title": "Laredo professor charged with distribution and production of child pornography Enforcement Action",
+    "verified_local": 1,
+    "unverified_local": 0,
+    "unverified_countries": [
+      "united-states"
+    ],
+    "participating_countries": [
+      "united-states"
+    ],
+    "source_urls": [
+      {
+        "source_slug": "2026-04-18_justice-gov_laredo-professor-charged-distribution-and-production-child-pornography",
+        "url": "https://www.justice.gov/usao-sdtx/pr/laredo-professor-charged-distribution-and-production-child-pornography",
+        "publisher": "US DOJ USAO",
+        "reliability": "high",
+        "source_type": "press-release",
+        "publish_date": "2024-12-10"
+      }
+    ]
+  },
+  {
+    "op_slug": "operation-latvian-national-charged-for-alleged-role-in-transnational-cybercrime-organization",
+    "op_title": "Latvian National Charged for Alleged Role in Transnational Cybercrime Organization Enforcement Action",
+    "verified_local": 1,
+    "unverified_local": 0,
+    "unverified_countries": [
+      "united-states"
+    ],
+    "participating_countries": [
+      "united-states"
+    ],
+    "source_urls": [
+      {
+        "source_slug": "2026-04-18_justice-gov_latvian-national-charged-alleged-role-transnational-cybercrime-organization",
+        "url": "https://www.justice.gov/usao-ndoh/pr/latvian-national-charged-alleged-role-transnational-cybercrime-organization",
+        "publisher": "US DOJ USAO",
+        "reliability": "high",
+        "source_type": "press-release",
+        "publish_date": "2021-06-04"
+      }
+    ]
+  },
+  {
+    "op_slug": "operation-law-enforcement-seize-record-amounts-of-illegal-drugs-firearms-and-drug-trafficking-proceeds-in-international-",
+    "op_title": "Law Enforcement Seize Record Amounts of Illegal Drugs, Firearms, and Drug Trafficking Proceeds in International Operation Against Darknet Trafficking of Fentanyl and Opioids; 270 Arrested Across Four Continents Enforcement Action",
+    "verified_local": 1,
+    "unverified_local": 0,
+    "unverified_countries": [
+      "united-states"
+    ],
+    "participating_countries": [
+      "united-states"
+    ],
+    "source_urls": [
+      {
+        "source_slug": "2026-04-18_justice-gov_law-enforcement-seize-record-amounts-illegal-drugs-firearms-and-drug-trafficking-proceeds",
+        "url": "https://www.justice.gov/opa/pr/law-enforcement-seize-record-amounts-illegal-drugs-firearms-and-drug-trafficking-proceeds",
+        "publisher": "US DOJ (Office of Public Affairs)",
+        "reliability": "high",
+        "source_type": "press-release",
+        "publish_date": "2025-05-22"
+      }
+    ]
+  },
+  {
+    "op_slug": "operation-leader-of-darknet-drug-distribution-conspiracy-sentenced-to-federal-prison",
+    "op_title": "Leader of Darknet Drug Distribution Conspiracy Sentenced to Federal Prison Enforcement Action",
+    "verified_local": 1,
+    "unverified_local": 0,
+    "unverified_countries": [
+      "united-states"
+    ],
+    "participating_countries": [
+      "united-states"
+    ],
+    "source_urls": [
+      {
+        "source_slug": "2026-04-18_justice-gov_leader-darknet-drug-distribution-conspiracy-sentenced-federal-prison",
+        "url": "https://www.justice.gov/usao-or/pr/leader-darknet-drug-distribution-conspiracy-sentenced-federal-prison",
+        "publisher": "US DOJ USAO",
+        "reliability": "high",
+        "source_type": "press-release",
+        "publish_date": "2021-03-31"
+      }
+    ]
+  },
+  {
+    "op_slug": "operation-leader-of-darknet-italianmafiabrussels-drug-trafficking-organization-sentenced-to-11-years-imprisonment",
+    "op_title": "Leader Of Darknet ItalianMafiaBrussels Drug Trafficking Organization Sentenced To 11 Years’ Imprisonment Enforcement Action",
+    "verified_local": 1,
+    "unverified_local": 0,
+    "unverified_countries": [
+      "united-states"
+    ],
+    "participating_countries": [
+      "united-states"
+    ],
+    "source_urls": [
+      {
+        "source_slug": "2026-04-18_justice-gov_leader-darknet-italianmafiabrussels-drug-trafficking-organization-sentenced-11-years",
+        "url": "https://www.justice.gov/usao-co/pr/leader-darknet-italianmafiabrussels-drug-trafficking-organization-sentenced-11-years",
+        "publisher": "US DOJ USAO",
+        "reliability": "high",
+        "source_type": "press-release",
+        "publish_date": "2018-10-01"
+      }
+    ]
+  },
+  {
+    "op_slug": "operation-leader-of-international-malvertising-and-ransomware-schemes-extradited-from-poland-to-face-cybercrime-charges",
+    "op_title": "Leader of International Malvertising and Ransomware Schemes Extradited from Poland to Face Cybercrime Charges Enforcement Action",
+    "verified_local": 1,
+    "unverified_local": 0,
+    "unverified_countries": [
+      "united-states"
+    ],
+    "participating_countries": [
+      "united-states"
+    ],
+    "source_urls": [
+      {
+        "source_slug": "2026-04-18_justice-gov_leader-international-malvertising-and-ransomware-schemes-extradited-poland-face",
+        "url": "https://www.justice.gov/usao-nj/pr/leader-international-malvertising-and-ransomware-schemes-extradited-poland-face",
+        "publisher": "US DOJ USAO",
+        "reliability": "high",
+        "source_type": "press-release",
+        "publish_date": "2024-08-12"
+      }
+    ]
+  },
+  {
+    "op_slug": "operation-leader-of-international-steroids-distribution-scheme-sentenced-to-eight-years-in-prison",
+    "op_title": "Leader of International Steroids Distribution Scheme Sentenced to Eight Years in Prison Enforcement Action",
+    "verified_local": 1,
+    "unverified_local": 0,
+    "unverified_countries": [
+      "united-states"
+    ],
+    "participating_countries": [
+      "united-states"
+    ],
+    "source_urls": [
+      {
+        "source_slug": "2026-04-18_justice-gov_leader-international-steroids-distribution-scheme-sentenced-eight-years-prison",
+        "url": "https://www.justice.gov/usao-sdca/pr/leader-international-steroids-distribution-scheme-sentenced-eight-years-prison",
+        "publisher": "US DOJ USAO",
+        "reliability": "high",
+        "source_type": "press-release",
+        "publish_date": "2023-08-21"
+      }
+    ]
+  },
+  {
+    "op_slug": "operation-leader-of-transnational-cybercrime-group-noirs-luxury-refunds-charged-with-conspiracy-to-commit-mail-and-wire-",
+    "op_title": "Leader of Transnational Cybercrime Group “Noir’s Luxury Refunds” Charged with Conspiracy to Commit Mail and Wire Fraud Enforcement Action",
+    "verified_local": 1,
+    "unverified_local": 0,
+    "unverified_countries": [
+      "united-states"
+    ],
+    "participating_countries": [
+      "united-states"
+    ],
+    "source_urls": [
+      {
+        "source_slug": "2026-04-18_justice-gov_leader-transnational-cybercrime-group-noirs-luxury-refunds-charged-conspiracy-commit-0",
+        "url": "https://www.justice.gov/usao-ndal/pr/leader-transnational-cybercrime-group-noirs-luxury-refunds-charged-conspiracy-commit-0",
+        "publisher": "US DOJ USAO",
+        "reliability": "high",
+        "source_type": "press-release",
+        "publish_date": "2025-04-21"
       }
     ]
   }

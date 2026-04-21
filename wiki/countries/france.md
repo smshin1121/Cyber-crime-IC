@@ -45,6 +45,7 @@ operations_participated:
 - '[[operation-dark-huntor]]'
 - '[[operation-eur-600m-crypto-scam-network-2025]]'
 - '[[operation-europol-french-coder-who-helped-extort-british-company-arrested-in-thailand]]'
+- '[[operation-avalanche]]'
 region: western-europe
 source_count: 6
 sources:

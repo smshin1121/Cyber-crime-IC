@@ -45,6 +45,7 @@ operations_participated:
 - '[[bec-nigeria-2016]]'
 - '[[black-axe-bec-2021]]'
 - '[[nigerian-bec-convictions-2023]]'
+- '[[operation-contender-2]]'
 region: west-africa
 source_count: 0
 sources: []
@@ -59,7 +60,7 @@ treaty_memberships:
   reservations: []
   status: signatory
 type: country
-updated: 2026-04-08
+updated: 2026-04-21
 ---
 
 ## Summary

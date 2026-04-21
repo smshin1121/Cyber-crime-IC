@@ -36,6 +36,7 @@ operations_participated:
 - '[[operation-haechi-vi]]'
 - '[[doublevpn-takedown]]'
 - '[[operation-dark-huntor]]'
+- '[[operation-avalanche]]'
 region: eastern-europe
 source_count: 4
 sources: []

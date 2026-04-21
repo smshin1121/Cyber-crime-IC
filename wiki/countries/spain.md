@@ -40,6 +40,7 @@ operations_participated:
 - '[[operation-haechi-vi]]'
 - '[[operation-eur-300m-global-credit-card-fraud-2025]]'
 - '[[operation-eur-600m-crypto-scam-network-2025]]'
+- '[[operation-europol-105-arrested-for-stealing-over-12-million-from-us-based-banks-operation-secreto]]'
 region: western-europe
 source_count: 6
 sources:

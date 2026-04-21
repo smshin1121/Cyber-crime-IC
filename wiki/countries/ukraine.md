@@ -34,6 +34,8 @@ notable_cases: []
 operations_participated:
 - '[[emotet-takedown]]'
 - '[[darkmarket-takedown]]'
+- '[[operation-australian-man-arrested-in-germany-accused-of-running-world-s-largest-darknet-marketplace]]'
+- '[[operation-avalanche]]'
 region: eastern-europe
 source_count: 3
 sources: []

@@ -38,6 +38,7 @@ operations_participated:
 - '[[de-ch-crypto-mixer-takedown-2025]]'
 - '[[doublevpn-takedown]]'
 - '[[operation-dark-huntor]]'
+- '[[operation-contender-2]]'
 region: western-europe
 source_count: 1
 sources:

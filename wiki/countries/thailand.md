@@ -35,6 +35,7 @@ operations_participated:
 - '[[alphabay-takedown]]'
 - '[[operation-haechi-vi]]'
 - '[[operation-europol-french-coder-who-helped-extort-british-company-arrested-in-thailand]]'
+- '[[operation-french-coder-who-helped-extort-british-company-arrested-in-thailand]]'
 region: southeast-asia
 source_count: 3
 sources: []

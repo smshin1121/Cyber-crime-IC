@@ -67,6 +67,13 @@ operations_participated:
 - '[[operation-dark-huntor]]'
 - '[[cryptex-pm2btc-sanctions]]'
 - '[[lumma-stealer-takedown]]'
+- '[[operation-chinese-national-sentenced-prison-role-crypto-scam-targeting-americans]]'
+- '[[operation-iranian-man-pleaded-guilty-to-role-in-robbinhood-ransomware]]'
+- '[[operation-iranian-national-indicted-for-operating-online-marketplace-offering-fentanyl-and-money-laundering-services]]'
+- '[[operation-justice-department-secures-forfeiture-of-over-5m-of-funds-traceable-to-business-email-compromise-scheme-target]]'
+- '[[operation-law-enforcement-seize-record-amounts-of-illegal-drugs-firearms-and-drug-trafficking-proceeds-in-international-]]'
+- '[[operation-europol-105-arrested-for-stealing-over-12-million-from-us-based-banks-operation-secreto]]'
+- '[[nemesis-market-takedown]]'
 region: north-america
 source_count: 1
 sources:

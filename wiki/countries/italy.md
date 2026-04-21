@@ -41,6 +41,7 @@ operations_participated:
 - '[[operation-eur-300m-global-credit-card-fraud-2025]]'
 - '[[doublevpn-takedown]]'
 - '[[operation-dark-huntor]]'
+- '[[operation-avalanche]]'
 region: southern-europe
 source_count: 6
 sources:

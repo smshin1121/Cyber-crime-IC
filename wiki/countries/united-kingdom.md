@@ -54,6 +54,8 @@ operations_participated:
 - '[[operation-dark-huntor]]'
 - '[[operation-eur-3m-online-investment-fraud-2025]]'
 - '[[operation-europol-french-coder-who-helped-extort-british-company-arrested-in-thailand]]'
+- '[[operation-french-coder-who-helped-extort-british-company-arrested-in-thailand]]'
+- '[[operation-europol-105-arrested-for-stealing-over-12-million-from-us-based-banks-operation-secreto]]'
 region: western-europe
 source_count: 5
 sources:

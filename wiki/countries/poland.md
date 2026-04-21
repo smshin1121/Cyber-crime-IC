@@ -32,6 +32,7 @@ legal_system: civil-law
 notable_cases: []
 operations_participated:
 - '[[operation-haechi-vi]]'
+- '[[operation-avalanche]]'
 region: eastern-europe
 source_count: 3
 sources: []

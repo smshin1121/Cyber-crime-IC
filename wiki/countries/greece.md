@@ -30,7 +30,8 @@ key_agencies: []
 last_verified: '2026-04-10'
 legal_system: civil-law
 notable_cases: []
-operations_participated: []
+operations_participated:
+- '[[operation-europol-105-arrested-for-stealing-over-12-million-from-us-based-banks-operation-secreto]]'
 region: southern-europe
 source_count: 0
 sources: []
@@ -45,7 +46,7 @@ treaty_memberships:
   reservations: []
   status: unknown
 type: country
-updated: 2026-04-10
+updated: 2026-04-21
 ---
 
 ## Summary

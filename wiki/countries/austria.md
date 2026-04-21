@@ -29,7 +29,7 @@ source_count: 1
 sources:
   - "[[2026-03-12-eurojust-proxy-service-takedown]]"
 created: 2026-04-14
-updated: 2026-04-14
+updated: 2026-04-21
 ---
 
 > [!info] Stub

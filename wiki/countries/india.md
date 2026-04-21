@@ -34,6 +34,7 @@ legal_system: common-law
 notable_cases: []
 operations_participated:
 - '[[operation-haechi-vi]]'
+- '[[operation-avalanche]]'
 region: south-asia
 source_count: 0
 sources: []
