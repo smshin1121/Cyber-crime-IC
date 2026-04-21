@@ -78,12 +78,37 @@ def wikilink_to_slug(val: str) -> str:
 
 
 def source_url(ref: str) -> dict | None:
-    slug = wikilink_to_slug(ref)
+    ref_str = str(ref).strip()
+    # Case 1 — inline markdown link: "[Title](https://...)"
+    md_link = re.search(r"\[([^\]]+)\]\((https?://[^\s\)]+)\)", ref_str)
+    if md_link:
+        return {
+            "source_slug": md_link.group(1)[:80],
+            "url": md_link.group(2),
+            "publisher": "",
+            "reliability": "",
+            "source_type": "",
+            "publish_date": "",
+        }
+    # Case 2 — plain URL anywhere in the string
+    raw_url = re.search(r"(https?://[^\s\)]+)", ref_str)
+    if raw_url and not ref_str.startswith("[["):
+        return {
+            "source_slug": raw_url.group(1)[-60:],
+            "url": raw_url.group(1),
+            "publisher": "",
+            "reliability": "",
+            "source_type": "",
+            "publish_date": "",
+        }
+    # Case 3 — wikilink to a wiki/sources/*.md page
+    slug = wikilink_to_slug(ref_str)
     path = SOURCES / f"{slug}.md"
     if not path.exists():
         return None
     fm = load_frontmatter(path)
-    url = fm.get("collection_url") or fm.get("url") or ""
+    url = (fm.get("collection_url") or fm.get("source_url")
+           or fm.get("url") or "")
     if not url:
         return None
     return {
