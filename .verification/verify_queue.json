@@ -466,7 +466,48 @@
       "france",
       "germany"
     ],
-    "source_urls": []
+    "source_urls": [
+      {
+        "source_slug": "2017-07-20-europol-alphabay-hansa-takedown",
+        "url": "https://www.europol.europa.eu/media-press/newsroom/news/massive-blow-to-criminal-dark-web-activities-after-globally-coordinated-operation",
+        "publisher": "Europol",
+        "reliability": "high",
+        "source_type": "press-release",
+        "publish_date": "2017-07-20"
+      },
+      {
+        "source_slug": "2017-07-20-doj-alphabay-shutdown",
+        "url": "https://www.justice.gov/opa/pr/alphabay-largest-online-dark-market-shut-down",
+        "publisher": "US Department of Justice (Office of Public Affairs)",
+        "reliability": "high",
+        "source_type": "press-release",
+        "publish_date": "2017-07-20"
+      },
+      {
+        "source_slug": "2017-07-20-dea-alphabay-shutdown",
+        "url": "https://www.dea.gov/press-releases/2017/07/20/alphabay-largest-online-dark-market-shut-down",
+        "publisher": "US Drug Enforcement Administration",
+        "reliability": "high",
+        "source_type": "press-release",
+        "publish_date": "2017-07-20"
+      },
+      {
+        "source_slug": "2017-07-20-fbi-alphabay-takedown",
+        "url": "https://www.fbi.gov/news/stories/alphabay-takedown",
+        "publisher": "US Federal Bureau of Investigation",
+        "reliability": "high",
+        "source_type": "press-release",
+        "publish_date": "2017-07-20"
+      },
+      {
+        "source_slug": "unodc-alphabay-true-crime-story",
+        "url": "https://www.unodc.org/unodc/untoc20/truecrimestories/alphabay.html",
+        "publisher": "UN Office on Drugs and Crime (UNODC)",
+        "reliability": "high",
+        "source_type": "government-report",
+        "publish_date": ""
+      }
+    ]
   },
   {
     "op_slug": "bidencash-takedown",
@@ -484,7 +525,48 @@
       "france",
       "denmark"
     ],
-    "source_urls": []
+    "source_urls": [
+      {
+        "source_slug": "US Secret Service Press Release (2025-06-05)",
+        "url": "https://www.secretservice.gov/newsroom/releases/2025/06/us-government-seizes-approximately-145-criminal-marketplace-domains",
+        "publisher": "",
+        "reliability": "",
+        "source_type": "",
+        "publish_date": ""
+      },
+      {
+        "source_slug": "DOJ Press Release via Fortune (2025-06-05)",
+        "url": "https://fortune.com/crypto/2025/06/05/doj-seizes-crypto-web-domains-online-marketplace-bidencash/",
+        "publisher": "",
+        "reliability": "",
+        "source_type": "",
+        "publish_date": ""
+      },
+      {
+        "source_slug": "The Record (2025-06)",
+        "url": "https://therecord.media/bidencash-cybercrime-darknet-market-takedown-us-netherlands",
+        "publisher": "",
+        "reliability": "",
+        "source_type": "",
+        "publish_date": ""
+      },
+      {
+        "source_slug": "The Hacker News (2025-06)",
+        "url": "https://thehackernews.com/2025/06/doj-seizes-145-domains-tied-to.html",
+        "publisher": "",
+        "reliability": "",
+        "source_type": "",
+        "publish_date": ""
+      },
+      {
+        "source_slug": "Help Net Security (2025-06-06)",
+        "url": "https://www.helpnetsecurity.com/2025/06/06/bidencash-marketplace-domains-seized/",
+        "publisher": "",
+        "reliability": "",
+        "source_type": "",
+        "publish_date": ""
+      }
+    ]
   },
   {
     "op_slug": "carbanak-cobalt-takedown",

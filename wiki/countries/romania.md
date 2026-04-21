@@ -37,6 +37,7 @@ notable_cases: []
 operations_participated:
 - '[[operation-haechi-vi]]'
 - '[[operation-avalanche]]'
+- '[[carbanak-cobalt-takedown]]'
 region: eastern-europe
 source_count: 4
 sources: []

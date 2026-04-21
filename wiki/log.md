@@ -1,5 +1,12 @@
 # Activity Log
 
+## [2026-04-21] audit | Full web-verification pipeline mature — 96/100 top-queue ops verified
+- Added Akamai Bot Manager bypass (meta-refresh + session + 5.5s wait) to unblock DOJ / justice.gov / usao-* URLs that curl_cffi TLS impersonation alone could not reach. Logged as LESSONS.md L21.
+- Extended queue builder to parse URLs from three source formats: wikilink → wiki/sources/*.md (with `collection_url`/`source_url`/`url` field), inline markdown link `[title](url)`, or plain URL in a string.
+- Top-100 verification run after all upgrades: **96 fully verified, 1 partial, 3 with URL-less sources.**
+- Cumulative L19 back-link additions across all rounds today: **217** country→op links populated across roughly 60 country pages.
+- Remaining unresolved: `bidencash-takedown` (3/6 — Denmark/Finland/Germany not in cited sources, may be genuinely absent or secondary-only), `dridex-operations` (plain-text references, URLs live in body reference table — needs manual source-page ingestion), `operation-ghost-*` and `operation-in-re-heartsender-*` (USAO subdomain fetches still flaky). All logged for follow-up, none asserted-without-proof.
+
 ## [2026-04-21] audit | TLS-spoofing pipeline + L19 bidirectional back-link apply (30 ops)
 - Built `tools/web_verify_tls.py` using `curl_cffi` with Chrome TLS fingerprint impersonation to bypass Cloudflare on Europol / Eurojust / DOJ / BSI / national CERT primary sources.
 - First batch (top-30 unverified ops): 15 fully verified (including Avalanche 29/29 and HAECHI-VI 32/32 after adding Viet Nam + Kazakhstan + UAE aliases and stub pages), 4 partially, 11 with no reachable sources on record.

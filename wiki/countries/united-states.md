@@ -145,6 +145,7 @@ operations_participated:
 - '[[operation-leader-of-international-malvertising-and-ransomware-schemes-extradited-from-poland-to-face-cybercrime-charges]]'
 - '[[operation-leader-of-international-steroids-distribution-scheme-sentenced-to-eight-years-in-prison]]'
 - '[[operation-leader-of-transnational-cybercrime-group-noirs-luxury-refunds-charged-with-conspiracy-to-commit-mail-and-wire-]]'
+- '[[carbanak-cobalt-takedown]]'
 region: north-america
 source_count: 1
 sources:
