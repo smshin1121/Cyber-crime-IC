@@ -26,7 +26,11 @@ outcome: success
 participating_agencies:
 
 participating_countries:
-
+  - "[[germany]]"
+  - "[[austria]]"
+  - "[[finland]]"
+  - "[[netherlands]]"
+  - "[[norway]]"
 period: 3
 related_cases:
 
@@ -56,7 +60,7 @@ timeframe:
 title: "Fraudulent Shopping Sites Takedown"
 title_ko: "명시되지 않음 (가짜 쇼핑 사이트 단속)"
 type: operation
-updated: 2026-04-08
+updated: 2026-04-22
 operation_role: umbrella
 parent_operation: ""
 summary: "Europol and German police from Hannover, with the Verden prosecution office and European partner countries, took down a network of fraudulent online shopping sites tied to a cybercrime marketplace. The investigation began in autumn 2022 and culminated in the seizure of 50+ servers, the arrest of 2 key suspects, and the recovery of over 200 TB of digital evidence. The operation involved cooperation from Austria, Finland, the Netherlands, and Norway."

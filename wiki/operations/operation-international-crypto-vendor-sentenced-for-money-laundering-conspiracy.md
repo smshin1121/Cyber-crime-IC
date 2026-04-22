@@ -3,19 +3,19 @@ type: operation
 title: "International Crypto Vendor Sentenced for Money Laundering Conspiracy Enforcement Action"
 aliases:
   - "International Crypto Vendor Sentenced for Money Laundering Conspiracy"
-case_id: "CYB-FUP-1009"
+case_id: CYB-FUP-1009
 period: 3
-operation_role: "follow-on"
+operation_role: follow-on
 parent_operation: ""
-operation_type: "sentencing"
-status: "completed"
+operation_type: sentencing
+status: absorbed
 enforcement_type:
   - sentencing
-outcome: "success"
+outcome: success
 timeframe:
-  announced: "2025-01-17"
-  start: "2025"
-  end: "2025-01-17"
+  announced: 2025-01-17
+  start: 2025
+  end: 2025-01-17
   ongoing: false
 crime_type: "[[money-laundering-ic]]"
 crime_types:
@@ -45,41 +45,34 @@ results:
   victims_notified: 0
   other:
     - "Defendant-specific follow-on action derived from [[international-crypto-vendor-sentenced-for-money-laundering-conspiracy]]"
-edges: []
+edges:
+  []
 credibility_index: 4.0
 source_tier: 1
-missing_fields: []
+missing_fields:
+  []
 related_cases:
   - "[[international-crypto-vendor-sentenced-for-money-laundering-conspiracy]]"
-related_operations: []
-challenges_encountered: []
-lessons_learned: []
+related_operations:
+  []
+challenges_encountered:
+  []
+lessons_learned:
+  []
 source_count: 1
 sources:
   - "[[2026-04-18_justice-gov_international-crypto-vendor-sentenced-money-laundering-conspiracy]]"
-summary: "International Crypto Vendor Sentenced for Money Laundering Conspiracy Enforcement Action is a defendant-specific enforcement action page derived from [[international-crypto-vendor-sentenced-for-money-laundering-conspiracy]]."
+summary: "This domestic-only U.S. follow-on record has been absorbed into the canonical case page [[international-crypto-vendor-sentenced-for-money-laundering-conspiracy]]. No visible cross-border mechanism is documented, so it is not treated as a separate international-cooperation operation."
 created: 2026-04-18
-updated: 2026-04-18
+updated: 2026-04-22
 ---
-
 ## Summary
 
-International Crypto Vendor Sentenced for Money Laundering Conspiracy Enforcement Action is a defendant-specific enforcement action page derived from [[international-crypto-vendor-sentenced-for-money-laundering-conspiracy]]. It captures the prosecutorial or seizure stage reflected in the linked case record and preserves the operation-side catalog entry for this follow-on action.
+This domestic-only U.S. follow-on record has been absorbed into the canonical case page [[international-crypto-vendor-sentenced-for-money-laundering-conspiracy]]. No visible cross-border mechanism is documented, so it is not treated as a separate international-cooperation operation.
 
-## Background
+## Canonical Record
 
-The underlying public case record identifies International Crypto Vendor Sentenced for Money Laundering Conspiracy as the focal enforcement target. This page exists to represent the concrete enforcement action in the operations catalog without duplicating the deeper procedural detail already maintained on the case page.
-
-## Participating Parties
-
-- Lead agency: [[us-doj]]
-- Jurisdiction country: [[united-states]]
-
-## Results and Impact
-
-- Operation type: `sentencing`
-- Case anchor: [[international-crypto-vendor-sentenced-for-money-laundering-conspiracy]]
-- Source coverage: 1 official or catalogued source page(s)
+- [[international-crypto-vendor-sentenced-for-money-laundering-conspiracy]]
 
 ## References
 

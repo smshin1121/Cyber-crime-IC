@@ -6,7 +6,7 @@ aliases:
 case_id: CYB-FUP-081
 period: 3
 operation_type: prosecution
-status: completed
+status: absorbed
 enforcement_type:
   - arrest
 outcome: success
@@ -56,10 +56,10 @@ source_count: 1
 sources:
   - "[[2024-08-28_edny_ryan-scott-cochran-dark-web-plea]]"
 created: 2026-04-17
-updated: 2026-04-17
+updated: 2026-04-22
 operation_role: follow-on
 parent_operation: ""
-summary: "Ryan Scott Cochran (Dark Web Vendor) Enforcement Action is a defendant-specific enforcement action page derived from [[us-v-ryan-scott-cochran-dark-web]]. It captures the prosecutorial or seizure stage reflected in the linked case record and preserves the operation-side catalog entry for this follow-on action."
+summary: "This domestic-only U.S. follow-on record has been absorbed into the canonical case page [[us-v-ryan-scott-cochran-dark-web]]. No visible cross-border mechanism is documented, so it is not treated as a separate international-cooperation operation."
 jurisdictions:
   - "[[united-states]]"
 organizations:
@@ -69,25 +69,14 @@ crime_types:
 ---
 ## Summary
 
-Ryan Scott Cochran (Dark Web Vendor) Enforcement Action is a defendant-specific enforcement action page derived from [[us-v-ryan-scott-cochran-dark-web]]. It captures the prosecutorial or seizure stage reflected in the linked case record and preserves the operation-side catalog entry for this follow-on action.
+This domestic-only U.S. follow-on record has been absorbed into the canonical case page [[us-v-ryan-scott-cochran-dark-web]]. No visible cross-border mechanism is documented, so it is not treated as a separate international-cooperation operation.
 
-## Background
+## Canonical Record
 
-The underlying public case record identifies Ryan Scott Cochran (Dark Web Vendor) as the focal enforcement target. This page exists to represent the concrete enforcement action in the operations catalog without duplicating the deeper procedural detail already maintained on the case page.
-
-## Participating Parties
-
-- Lead agency: [[us-doj]]
-- Jurisdiction country: [[united-states]]
-
-## Results and Impact
-
-- Operation type: `prosecution`
-- Case anchor: [[us-v-ryan-scott-cochran-dark-web]]
-- Source coverage: 1 official or catalogued source page(s)
+- [[us-v-ryan-scott-cochran-dark-web]]
 
 ## References
 
 | # | Source | Publisher | Date | URL |
 |---|---|---|---|---|
-| [1] | United States v. Ryan Scott Cochran | US DOJ (Eastern District of New York) | 2024-08-28 | https://www.justice.gov/usao-edny/pr/dark-web-vendor-pleads-guilty-distributing-fentanyl-through-mail |
+| [1] | Dark Web Vendor Pleads Guilty to Distributing Fentanyl Through the Mail | US DOJ (Eastern District of New York) | 2024-08-28 | https://www.justice.gov/usao-edny/pr/dark-web-vendor-pleads-guilty-distributing-fentanyl-through-mail |

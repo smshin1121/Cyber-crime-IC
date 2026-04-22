@@ -6,7 +6,7 @@ aliases:
 case_id: CYB-FUP-020
 period: 3
 operation_type: sentencing
-status: completed
+status: absorbed
 enforcement_type:
   - sentencing
 outcome: success
@@ -55,10 +55,10 @@ source_count: 1
 sources:
   - "[[2024-10-21_cdca_brian-mcdonald-darknet-sentencing]]"
 created: 2026-04-17
-updated: 2026-04-17
+updated: 2026-04-22
 operation_role: follow-on
 parent_operation: ""
-summary: "Brian McDonald (Darknet Fentanyl Seller) Enforcement Action is a defendant-specific enforcement action page derived from [[us-v-brian-mcdonald-dark-web]]. It captures the prosecutorial or seizure stage reflected in the linked case record and preserves the operation-side catalog entry for this follow-on action."
+summary: "This domestic-only U.S. follow-on record has been absorbed into the canonical case page [[us-v-brian-mcdonald-dark-web]]. No visible cross-border mechanism is documented, so it is not treated as a separate international-cooperation operation."
 jurisdictions:
   - "[[united-states]]"
 organizations:
@@ -68,25 +68,14 @@ crime_types:
 ---
 ## Summary
 
-Brian McDonald (Darknet Fentanyl Seller) Enforcement Action is a defendant-specific enforcement action page derived from [[us-v-brian-mcdonald-dark-web]]. It captures the prosecutorial or seizure stage reflected in the linked case record and preserves the operation-side catalog entry for this follow-on action.
+This domestic-only U.S. follow-on record has been absorbed into the canonical case page [[us-v-brian-mcdonald-dark-web]]. No visible cross-border mechanism is documented, so it is not treated as a separate international-cooperation operation.
 
-## Background
+## Canonical Record
 
-The underlying public case record identifies Brian McDonald (Darknet Fentanyl Seller) as the focal enforcement target. This page exists to represent the concrete enforcement action in the operations catalog without duplicating the deeper procedural detail already maintained on the case page.
-
-## Participating Parties
-
-- Lead agency: [[us-doj]]
-- Jurisdiction country: [[united-states]]
-
-## Results and Impact
-
-- Operation type: `sentencing`
-- Case anchor: [[us-v-brian-mcdonald-dark-web]]
-- Source coverage: 1 official or catalogued source page(s)
+- [[us-v-brian-mcdonald-dark-web]]
 
 ## References
 
 | # | Source | Publisher | Date | URL |
 |---|---|---|---|---|
-| [1] | United States v. Brian McDonald | US DOJ (Central District of California) | 2024-10-21 | https://www.justice.gov/usao-cdca/pr/van-nuys-man-sentenced-more-20-years-prison-trafficking-fentanyl-and-cocaine-darknet |
+| [1] | Van Nuys Man Sentenced to More Than 20 Years in Prison for Trafficking Fentanyl and Cocaine via Darknet Marketplaces and Possessing Guns | US DOJ (Central District of California) | 2024-10-21 | https://www.justice.gov/usao-cdca/pr/van-nuys-man-sentenced-more-20-years-prison-trafficking-fentanyl-and-cocaine-darknet |

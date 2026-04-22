@@ -3,19 +3,19 @@ type: operation
 title: "Two Virginia Men Arrested for Conspiring to Destroy Government Databases Enforcement Action"
 aliases:
   - "Two Virginia Men Arrested for Conspiring to Destroy Government Databases"
-case_id: "CYB-FUP-744"
+case_id: CYB-FUP-744
 period: 3
-operation_role: "follow-on"
+operation_role: follow-on
 parent_operation: ""
-operation_type: "prosecution"
-status: "completed"
+operation_type: prosecution
+status: absorbed
 enforcement_type:
   - arrest
-outcome: "success"
+outcome: success
 timeframe:
-  announced: "2025-12-03"
-  start: "2025"
-  end: "2025-12-03"
+  announced: 2025-12-03
+  start: 2025
+  end: 2025-12-03
   ongoing: false
 crime_type: "[[online-fraud-ic]]"
 crime_types:
@@ -45,41 +45,34 @@ results:
   victims_notified: 0
   other:
     - "Defendant-specific follow-on action derived from [[two-virginia-men-arrested-for-conspiring-to-destroy-government-databases]]"
-edges: []
+edges:
+  []
 credibility_index: 4.0
 source_tier: 1
-missing_fields: []
+missing_fields:
+  []
 related_cases:
   - "[[two-virginia-men-arrested-for-conspiring-to-destroy-government-databases]]"
-related_operations: []
-challenges_encountered: []
-lessons_learned: []
+related_operations:
+  []
+challenges_encountered:
+  []
+lessons_learned:
+  []
 source_count: 1
 sources:
   - "[[2026-04-18_justice-gov_two-virginia-men-arrested-conspiring-destroy-government-databases]]"
-summary: "Two Virginia Men Arrested for Conspiring to Destroy Government Databases Enforcement Action is a defendant-specific enforcement action page derived from [[two-virginia-men-arrested-for-conspiring-to-destroy-government-databases]]."
+summary: "This domestic-only U.S. follow-on record has been absorbed into the canonical case page [[two-virginia-men-arrested-for-conspiring-to-destroy-government-databases]]. No visible cross-border mechanism is documented, so it is not treated as a separate international-cooperation operation."
 created: 2026-04-18
-updated: 2026-04-18
+updated: 2026-04-22
 ---
-
 ## Summary
 
-Two Virginia Men Arrested for Conspiring to Destroy Government Databases Enforcement Action is a defendant-specific enforcement action page derived from [[two-virginia-men-arrested-for-conspiring-to-destroy-government-databases]]. It captures the prosecutorial or seizure stage reflected in the linked case record and preserves the operation-side catalog entry for this follow-on action.
+This domestic-only U.S. follow-on record has been absorbed into the canonical case page [[two-virginia-men-arrested-for-conspiring-to-destroy-government-databases]]. No visible cross-border mechanism is documented, so it is not treated as a separate international-cooperation operation.
 
-## Background
+## Canonical Record
 
-The underlying public case record identifies Two Virginia Men Arrested for Conspiring to Destroy Government Databases as the focal enforcement target. This page exists to represent the concrete enforcement action in the operations catalog without duplicating the deeper procedural detail already maintained on the case page.
-
-## Participating Parties
-
-- Lead agency: [[us-doj]]
-- Jurisdiction country: [[united-states]]
-
-## Results and Impact
-
-- Operation type: `prosecution`
-- Case anchor: [[two-virginia-men-arrested-for-conspiring-to-destroy-government-databases]]
-- Source coverage: 1 official or catalogued source page(s)
+- [[two-virginia-men-arrested-for-conspiring-to-destroy-government-databases]]
 
 ## References
 

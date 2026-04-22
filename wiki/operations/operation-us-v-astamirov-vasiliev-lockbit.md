@@ -6,7 +6,7 @@ aliases:
 case_id: CYB-FUP-011
 period: 3
 operation_type: conviction
-status: completed
+status: absorbed
 enforcement_type:
   - conviction
 outcome: success
@@ -56,10 +56,10 @@ source_count: 1
 sources:
   - "[[2024-07-18_nj_lockbit-astamirov-vasiliev-pleas]]"
 created: 2026-04-17
-updated: 2026-04-17
+updated: 2026-04-22
 operation_role: follow-on
 parent_operation: "[[operation-cronos-phase1]]"
-summary: "Astamirov and Vasiliev (LockBit) Enforcement Action is a defendant-specific enforcement action page derived from [[us-v-astamirov-vasiliev-lockbit]]. It captures the prosecutorial or seizure stage reflected in the linked case record and preserves the operation-side catalog entry for this follow-on action."
+summary: "This domestic-only U.S. follow-on record has been absorbed into the canonical case page [[us-v-astamirov-vasiliev-lockbit]]. No visible cross-border mechanism is documented, so it is not treated as a separate international-cooperation operation."
 jurisdictions:
   - "[[united-states]]"
 organizations:
@@ -69,25 +69,14 @@ crime_types:
 ---
 ## Summary
 
-Astamirov and Vasiliev (LockBit) Enforcement Action is a defendant-specific enforcement action page derived from [[us-v-astamirov-vasiliev-lockbit]]. It captures the prosecutorial or seizure stage reflected in the linked case record and preserves the operation-side catalog entry for this follow-on action.
+This domestic-only U.S. follow-on record has been absorbed into the canonical case page [[us-v-astamirov-vasiliev-lockbit]]. No visible cross-border mechanism is documented, so it is not treated as a separate international-cooperation operation.
 
-## Background
+## Canonical Record
 
-The underlying public case record identifies Astamirov and Vasiliev (LockBit) as the focal enforcement target. This page exists to represent the concrete enforcement action in the operations catalog without duplicating the deeper procedural detail already maintained on the case page.
-
-## Participating Parties
-
-- Lead agency: [[fbi-cyber-division]]
-- Jurisdiction country: [[united-states]]
-
-## Results and Impact
-
-- Operation type: `conviction`
-- Case anchor: [[us-v-astamirov-vasiliev-lockbit]]
-- Source coverage: 1 official or catalogued source page(s)
+- [[us-v-astamirov-vasiliev-lockbit]]
 
 ## References
 
 | # | Source | Publisher | Date | URL |
 |---|---|---|---|---|
-| [1] | United States v. Ruslan Astamirov and Mikhail Vasiliev | US DOJ (District of New Jersey) | 2024-07-18 | https://www.justice.gov/usao-nj/pr/two-foreign-nationals-plead-guilty-participation-lockbit-ransomware-group |
+| [1] | Two Foreign Nationals Plead Guilty to Participation in LockBit Ransomware Group | US DOJ (District of New Jersey) | 2024-07-18 | https://www.justice.gov/usao-nj/pr/two-foreign-nationals-plead-guilty-participation-lockbit-ransomware-group |

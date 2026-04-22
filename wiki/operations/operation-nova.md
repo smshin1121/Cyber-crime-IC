@@ -2,86 +2,74 @@
 operation_role: umbrella
 parent_operation: ""
 summary: "**Operation Nova** was an international law enforcement action that took down **Safe-Inet**, a bulletproof VPN service that had operated for over a decade. The operation was led by [[germany-bka|German BKA]] and coordinated by [[europol-ec3|Europol]], with participation from the FBI and law enforcement agencies in the Netherlands, Switzerland, and France. The service had been used by ransomware operators, Magecart web skimmers, and other cybercriminals to conceal their identities and locations."
----
-﻿---
 aliases:
-- Operation Nova
-- Safe-Inet takedown
+  - "Operation Nova"
+  - "Safe-Inet takedown"
 case_id: CYB-2020-050
-challenges_encountered: []
-coordinating_body: '[[europol-ec3]]'
+challenges_encountered:
+  []
+coordinating_body: "[[europol-ec3]]"
 created: 2026-04-08
 credibility_index: 2.55
-crime_type: '[[cybercrime-infrastructure-ic]]'
+crime_type: "[[cybercrime-infrastructure-ic]]"
 edges:
-- cooperation_type: joint_investigation
-  direction: undirected
-  legal_basis: unknown
-  source_actor: Germany BKA
-  target_actor: Europol
-- cooperation_type: joint_investigation
-  direction: undirected
-  legal_basis: unknown
-  source_actor: FBI
-  target_actor: Europol
+  []
 enforcement_type:
-- seizure
-- takedown
-lead_agency: '[[germany-bka]]'
-legal_basis: []
+  []
+lead_agency: "[[germany-bka]]"
+legal_basis:
+  []
 lessons_learned:
-- Targeting cybercrime infrastructure (bulletproof hosting/VPN) can disrupt multiple
-  criminal groups simultaneously
-mechanisms_used: []
+  []
+mechanisms_used:
+  []
 missing_fields:
-- legal_basis
-- mechanisms_used
+  []
 operation_type: infrastructure-seizure
 outcome: success
 participating_agencies:
-- '[[germany-bka]]'
-- '[[fbi-cyber-division]]'
-- '[[europol-ec3]]'
+  - "[[germany-bka]]"
+  - "[[fbi-cyber-division]]"
+  - "[[europol-ec3]]"
 participating_countries:
-- '[[germany]]'
-- '[[united-states]]'
-- '[[netherlands]]'
-- '[[switzerland]]'
-- '[[france]]'
+  - "[[germany]]"
+  - "[[united-states]]"
+  - "[[netherlands]]"
+  - "[[switzerland]]"
+  - "[[france]]"
 period: 2
-related_cases: []
-related_operations: []
+related_cases:
+  []
+related_operations:
+  []
 results:
   arrests: 0
-  cryptocurrency_seized: ''
+  cryptocurrency_seized: ""
   decryption_keys_recovered: 0
   domains_seized: 3
   indictments: 0
   other:
-  - Safe-Inet VPN service shut down
-  - Service had been active for over a decade
-  - Used by ransomware operators, Magecart skimmers, and other cybercriminals
+    []
   servers_seized: 3
   victims_notified: 0
 source_count: 3
 source_tier: 3
 sources:
-- tier3-cyberscoop-safe-inet-2020
-- tier3-portswigger-safe-inet-2020
-- tier3-cybersecuritynews-safe-inet-2020
+  - tier3-cyberscoop-safe-inet-2020
+  - tier3-portswigger-safe-inet-2020
+  - tier3-cybersecuritynews-safe-inet-2020
 status: completed
-target_entity: Safe-Inet bulletproof VPN service
+target_entity: "Safe-Inet bulletproof VPN service"
 timeframe:
-  announced: '2020-12-22'
-  end: '2020-12-22'
+  announced: 2020-12-22
+  end: 2020-12-22
   ongoing: false
-  start: '2020-12-22'
-title: Operation Nova (Safe-Inet VPN Takedown)
-title_ko: 노바 작전 (Safe-Inet VPN 소탕)
+  start: 2020-12-22
+title: "Operation Nova (Safe-Inet VPN Takedown)"
+title_ko: "노바 작전 (Safe-Inet VPN 소탕)"
 type: operation
-updated: '2026-04-09'
+updated: 2026-04-22
 ---
-
 > [!note] This operation is documented from a Tier 3 (cybersecurity media) source. Additional verification from official sources (Tier 1-2) would strengthen data reliability.
 
 ## Summary

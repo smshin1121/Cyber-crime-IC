@@ -8,7 +8,7 @@ period: 3
 operation_role: follow-on
 parent_operation: ""
 operation_type: prosecution
-status: completed
+status: absorbed
 enforcement_type:
   - arrest
 outcome: success
@@ -46,47 +46,36 @@ results:
   other:
     - "Defendant-specific follow-on action derived from [[us-v-adan-ruiz-and-omar-navia]]"
 edges:
-  []
+
 credibility_index: 4.0
 source_tier: 1
 missing_fields:
-  []
+
 related_cases:
   - "[[us-v-adan-ruiz-and-omar-navia]]"
 related_operations:
-  []
+
 challenges_encountered:
-  []
+
 lessons_learned:
-  []
+
 source_count: 1
 sources:
   - "[[2025-01-13_justice-gov_united-states-v-adan-ruiz-and-omar-navia]]"
-summary: "Adan Ruiz And Omar Navia Enforcement Action is a defendant-specific enforcement action page derived from [[us-v-adan-ruiz-and-omar-navia]]."
+summary: "This domestic-only U.S. follow-on record has been absorbed into the canonical case page [[us-v-adan-ruiz-and-omar-navia]]. No visible cross-border mechanism is documented, so it is not treated as a separate international-cooperation operation."
 created: 2026-04-17
-updated: 2026-04-17
+updated: 2026-04-22
 ---
 ## Summary
 
-Adan Ruiz And Omar Navia Enforcement Action is a defendant-specific enforcement action page derived from [[us-v-adan-ruiz-and-omar-navia]]. It captures the prosecutorial or seizure stage reflected in the linked case record and preserves the operation-side catalog entry for this follow-on action.
+This domestic-only U.S. follow-on record has been absorbed into the canonical case page [[us-v-adan-ruiz-and-omar-navia]]. No visible cross-border mechanism is documented, so it is not treated as a separate international-cooperation operation.
 
-## Background
+## Canonical Record
 
-The underlying public case record identifies Adan Ruiz And Omar Navia as the focal enforcement target. This page exists to represent the concrete enforcement action in the operations catalog without duplicating the deeper procedural detail already maintained on the case page.
-
-## Participating Parties
-
-- Lead agency: [[us-doj]]
-- Jurisdiction country: [[united-states]]
-
-## Results and Impact
-
-- Operation type: `prosecution`
-- Case anchor: [[us-v-adan-ruiz-and-omar-navia]]
-- Source coverage: 1 official or catalogued source page(s)
+- [[us-v-adan-ruiz-and-omar-navia]]
 
 ## References
 
 | # | Source | Publisher | Date | URL |
 |---|---|---|---|---|
-| [1] | United States v. Adan Ruiz and Omar Navia | US DOJ (Central District of California) | 2025-01-13 | https://www.justice.gov/usao-cdca/pr/two-southern-california-men-who-supplied-fentanyl-sold-darknet-customers-all-50-states |
+| [1] | Two Southern California Men Who Supplied Fentanyl Sold to Darknet Customers in All 50 States Sentenced to Federal Prison | US DOJ (Central District of California) | 2025-01-13 | https://www.justice.gov/usao-cdca/pr/two-southern-california-men-who-supplied-fentanyl-sold-darknet-customers-all-50-states |

@@ -6,7 +6,7 @@ aliases:
 case_id: CYB-FUP-002
 period: 2
 operation_type: prosecution
-status: completed
+status: absorbed
 enforcement_type:
   - arrest
 outcome: success
@@ -57,10 +57,10 @@ source_count: 1
 sources:
   - "[[2021-01-27_mdnc_emotet-disruption-order]]"
 created: 2026-04-17
-updated: 2026-04-17
+updated: 2026-04-22
 operation_role: follow-on
 parent_operation: "[[emotet-takedown]]"
-summary: "Emotet Botnet Disruption — Operation LadyBird Enforcement Action is a defendant-specific enforcement action page derived from [[emotet-disruption-ladybird]]. It captures the prosecutorial or seizure stage reflected in the linked case record and preserves the operation-side catalog entry for this follow-on action."
+summary: "This domestic-only U.S. follow-on record has been absorbed into the canonical case page [[emotet-disruption-ladybird]]. No visible cross-border mechanism is documented, so it is not treated as a separate international-cooperation operation."
 jurisdictions:
   - "[[united-states]]"
 organizations:
@@ -70,25 +70,14 @@ crime_types:
 ---
 ## Summary
 
-Emotet Botnet Disruption — Operation LadyBird Enforcement Action is a defendant-specific enforcement action page derived from [[emotet-disruption-ladybird]]. It captures the prosecutorial or seizure stage reflected in the linked case record and preserves the operation-side catalog entry for this follow-on action.
+This domestic-only U.S. follow-on record has been absorbed into the canonical case page [[emotet-disruption-ladybird]]. No visible cross-border mechanism is documented, so it is not treated as a separate international-cooperation operation.
 
-## Background
+## Canonical Record
 
-The underlying public case record identifies Emotet Botnet Disruption — Operation LadyBird as the focal enforcement target. This page exists to represent the concrete enforcement action in the operations catalog without duplicating the deeper procedural detail already maintained on the case page.
-
-## Participating Parties
-
-- Lead agency: [[netherlands-politie]]
-- Jurisdiction country: [[united-states]]
-
-## Results and Impact
-
-- Operation type: `prosecution`
-- Case anchor: [[emotet-disruption-ladybird]]
-- Source coverage: 1 official or catalogued source page(s)
+- [[emotet-disruption-ladybird]]
 
 ## References
 
 | # | Source | Publisher | Date | URL |
 |---|---|---|---|---|
-| [1] | United States — Emotet Botnet Disruption (Operation LadyBird) | US DOJ (OPA / M.D.N.C.) | 2021-01-27 | https://www.justice.gov/archives/opa/pr/emotet-botnet-disrupted-international-cyber-operation |
+| [1] | Emotet Botnet Disrupted in International Cyber Operation | US DOJ (OPA / M.D.N.C.) | 2021-01-27 | https://www.justice.gov/archives/opa/pr/emotet-botnet-disrupted-international-cyber-operation |

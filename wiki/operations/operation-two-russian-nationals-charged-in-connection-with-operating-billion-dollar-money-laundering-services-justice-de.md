@@ -3,19 +3,19 @@ type: operation
 title: "Two Russian nationals charged in connection with operating billion-dollar money laundering services; Justice Department seizes web domains for multiple illicit crypto exchanges Enforcement Action"
 aliases:
   - "Two Russian nationals charged in connection with operating billion-dollar money laundering services; Justice Department seizes web domains for multiple illicit crypto exchanges"
-case_id: "CYB-FUP-861"
+case_id: CYB-FUP-861
 period: 3
-operation_role: "follow-on"
+operation_role: follow-on
 parent_operation: ""
-operation_type: "indictment"
-status: "ongoing"
+operation_type: indictment
+status: absorbed
 enforcement_type:
   - indictment
-outcome: "success"
+outcome: success
 timeframe:
-  announced: "2024-09-26"
-  start: "2024"
-  end: "2024-09-26"
+  announced: 2024-09-26
+  start: 2024
+  end: 2024-09-26
   ongoing: true
 crime_type: "[[money-laundering-ic]]"
 crime_types:
@@ -45,41 +45,34 @@ results:
   victims_notified: 0
   other:
     - "Defendant-specific follow-on action derived from [[two-russian-nationals-charged-in-connection-with-operating-billion-dollar-money-laundering-services-justice-de]]"
-edges: []
+edges:
+  []
 credibility_index: 4.0
 source_tier: 1
-missing_fields: []
+missing_fields:
+  []
 related_cases:
   - "[[two-russian-nationals-charged-in-connection-with-operating-billion-dollar-money-laundering-services-justice-de]]"
-related_operations: []
-challenges_encountered: []
-lessons_learned: []
+related_operations:
+  []
+challenges_encountered:
+  []
+lessons_learned:
+  []
 source_count: 1
 sources:
   - "[[2026-04-18_justice-gov_two-russian-nationals-charged-connection-operating-billion-dollar-money-laundering]]"
-summary: "Two Russian nationals charged in connection with operating billion-dollar money laundering services; Justice Department seizes web domains for multiple illicit crypto exchanges Enforcement Action is a defendant-specific enforcement action page derived from [[two-russian-nationals-charged-in-connection-with-operating-billion-dollar-money-laundering-services-justice-de]]."
+summary: "This domestic-only U.S. follow-on record has been absorbed into the canonical case page [[two-russian-nationals-charged-in-connection-with-operating-billion-dollar-money-laundering-services-justice-de]]. No visible cross-border mechanism is documented, so it is not treated as a separate international-cooperation operation."
 created: 2026-04-18
-updated: 2026-04-18
+updated: 2026-04-22
 ---
-
 ## Summary
 
-Two Russian nationals charged in connection with operating billion-dollar money laundering services; Justice Department seizes web domains for multiple illicit crypto exchanges Enforcement Action is a defendant-specific enforcement action page derived from [[two-russian-nationals-charged-in-connection-with-operating-billion-dollar-money-laundering-services-justice-de]]. It captures the prosecutorial or seizure stage reflected in the linked case record and preserves the operation-side catalog entry for this follow-on action.
+This domestic-only U.S. follow-on record has been absorbed into the canonical case page [[two-russian-nationals-charged-in-connection-with-operating-billion-dollar-money-laundering-services-justice-de]]. No visible cross-border mechanism is documented, so it is not treated as a separate international-cooperation operation.
 
-## Background
+## Canonical Record
 
-The underlying public case record identifies Two Russian nationals charged in connection with operating billion-dollar money laundering services; Justice Department seizes web domains for multiple illicit crypto exchanges as the focal enforcement target. This page exists to represent the concrete enforcement action in the operations catalog without duplicating the deeper procedural detail already maintained on the case page.
-
-## Participating Parties
-
-- Lead agency: [[us-doj]]
-- Jurisdiction country: [[united-states]]
-
-## Results and Impact
-
-- Operation type: `indictment`
-- Case anchor: [[two-russian-nationals-charged-in-connection-with-operating-billion-dollar-money-laundering-services-justice-de]]
-- Source coverage: 1 official or catalogued source page(s)
+- [[two-russian-nationals-charged-in-connection-with-operating-billion-dollar-money-laundering-services-justice-de]]
 
 ## References
 

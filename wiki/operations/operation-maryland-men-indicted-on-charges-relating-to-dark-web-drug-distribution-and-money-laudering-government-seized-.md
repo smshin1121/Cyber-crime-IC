@@ -3,19 +3,19 @@ type: operation
 title: "Maryland Men Indicted on Charges Relating to Dark Web Drug Distribution and Money Laudering; Government Seized more than $22 Million in Assets Enforcement Action"
 aliases:
   - "Maryland Men Indicted on Charges Relating to Dark Web Drug Distribution and Money Laudering; Government Seized more than $22 Million in Assets"
-case_id: "CYB-FUP-597"
+case_id: CYB-FUP-597
 period: 1
-operation_role: "follow-on"
+operation_role: follow-on
 parent_operation: ""
-operation_type: "seizure"
-status: "completed"
+operation_type: seizure
+status: absorbed
 enforcement_type:
   - seizure
-outcome: "success"
+outcome: success
 timeframe:
-  announced: "2018-06-26"
-  start: "2018"
-  end: "2018-06-26"
+  announced: 2018-06-26
+  start: 2018
+  end: 2018-06-26
   ongoing: false
 crime_type: "[[drug-trafficking]]"
 crime_types:
@@ -45,41 +45,34 @@ results:
   victims_notified: 0
   other:
     - "Defendant-specific follow-on action derived from [[maryland-men-indicted-on-charges-relating-to-dark-web-drug-distribution-and-money-laudering-government-seized-]]"
-edges: []
+edges:
+  []
 credibility_index: 4.0
 source_tier: 1
-missing_fields: []
+missing_fields:
+  []
 related_cases:
   - "[[maryland-men-indicted-on-charges-relating-to-dark-web-drug-distribution-and-money-laudering-government-seized-]]"
-related_operations: []
-challenges_encountered: []
-lessons_learned: []
+related_operations:
+  []
+challenges_encountered:
+  []
+lessons_learned:
+  []
 source_count: 1
 sources:
   - "[[2026-04-18_justice-gov_maryland-men-indicted-charges-relating-dark-web-drug-distribution-and-money-laudering]]"
-summary: "Maryland Men Indicted on Charges Relating to Dark Web Drug Distribution and Money Laudering; Government Seized more than $22 Million in Assets Enforcement Action is a defendant-specific enforcement action page derived from [[maryland-men-indicted-on-charges-relating-to-dark-web-drug-distribution-and-money-laudering-government-seized-]]."
+summary: "This domestic-only U.S. follow-on record has been absorbed into the canonical case page [[maryland-men-indicted-on-charges-relating-to-dark-web-drug-distribution-and-money-laudering-government-seized-]]. No visible cross-border mechanism is documented, so it is not treated as a separate international-cooperation operation."
 created: 2026-04-18
-updated: 2026-04-18
+updated: 2026-04-22
 ---
-
 ## Summary
 
-Maryland Men Indicted on Charges Relating to Dark Web Drug Distribution and Money Laudering; Government Seized more than $22 Million in Assets Enforcement Action is a defendant-specific enforcement action page derived from [[maryland-men-indicted-on-charges-relating-to-dark-web-drug-distribution-and-money-laudering-government-seized-]]. It captures the prosecutorial or seizure stage reflected in the linked case record and preserves the operation-side catalog entry for this follow-on action.
+This domestic-only U.S. follow-on record has been absorbed into the canonical case page [[maryland-men-indicted-on-charges-relating-to-dark-web-drug-distribution-and-money-laudering-government-seized-]]. No visible cross-border mechanism is documented, so it is not treated as a separate international-cooperation operation.
 
-## Background
+## Canonical Record
 
-The underlying public case record identifies Maryland Men Indicted on Charges Relating to Dark Web Drug Distribution and Money Laudering; Government Seized more than $22 Million in Assets as the focal enforcement target. This page exists to represent the concrete enforcement action in the operations catalog without duplicating the deeper procedural detail already maintained on the case page.
-
-## Participating Parties
-
-- Lead agency: [[us-doj]]
-- Jurisdiction country: [[united-states]]
-
-## Results and Impact
-
-- Operation type: `seizure`
-- Case anchor: [[maryland-men-indicted-on-charges-relating-to-dark-web-drug-distribution-and-money-laudering-government-seized-]]
-- Source coverage: 1 official or catalogued source page(s)
+- [[maryland-men-indicted-on-charges-relating-to-dark-web-drug-distribution-and-money-laudering-government-seized-]]
 
 ## References
 

@@ -6,7 +6,7 @@ aliases:
 case_id: CYB-FUP-090
 period: 3
 operation_type: conviction
-status: completed
+status: absorbed
 enforcement_type:
   - conviction
 outcome: success
@@ -55,10 +55,10 @@ source_count: 1
 sources:
   - "[[2023-08-25_edva_taylor-fischer-darknet-vendors-plea]]"
 created: 2026-04-17
-updated: 2026-04-17
+updated: 2026-04-22
 operation_role: follow-on
 parent_operation: ""
-summary: "Taylor and Fischer (Darknet Vendors) Enforcement Action is a defendant-specific enforcement action page derived from [[us-v-taylor-fischer-dark-web]]. It captures the prosecutorial or seizure stage reflected in the linked case record and preserves the operation-side catalog entry for this follow-on action."
+summary: "This domestic-only U.S. follow-on record has been absorbed into the canonical case page [[us-v-taylor-fischer-dark-web]]. No visible cross-border mechanism is documented, so it is not treated as a separate international-cooperation operation."
 jurisdictions:
   - "[[united-states]]"
 organizations:
@@ -68,25 +68,14 @@ crime_types:
 ---
 ## Summary
 
-Taylor and Fischer (Darknet Vendors) Enforcement Action is a defendant-specific enforcement action page derived from [[us-v-taylor-fischer-dark-web]]. It captures the prosecutorial or seizure stage reflected in the linked case record and preserves the operation-side catalog entry for this follow-on action.
+This domestic-only U.S. follow-on record has been absorbed into the canonical case page [[us-v-taylor-fischer-dark-web]]. No visible cross-border mechanism is documented, so it is not treated as a separate international-cooperation operation.
 
-## Background
+## Canonical Record
 
-The underlying public case record identifies Taylor and Fischer (Darknet Vendors) as the focal enforcement target. This page exists to represent the concrete enforcement action in the operations catalog without duplicating the deeper procedural detail already maintained on the case page.
-
-## Participating Parties
-
-- Lead agency: [[us-doj]]
-- Jurisdiction country: [[united-states]]
-
-## Results and Impact
-
-- Operation type: `conviction`
-- Case anchor: [[us-v-taylor-fischer-dark-web]]
-- Source coverage: 1 official or catalogued source page(s)
+- [[us-v-taylor-fischer-dark-web]]
 
 ## References
 
 | # | Source | Publisher | Date | URL |
 |---|---|---|---|---|
-| [1] | United States v. Cheerish Noel Taylor and Robert James Fischer | US DOJ (Eastern District of Virginia) | 2023-08-25 | https://www.justice.gov/usao-edva/pr/two-darknet-vendors-plead-guilty-trafficking-fentanyl-and-other-illegal-drugs |
+| [1] | Two Darknet Vendors Plead Guilty to Trafficking Fentanyl and Other Illegal Drugs | US DOJ (Eastern District of Virginia) | 2023-08-25 | https://www.justice.gov/usao-edva/pr/two-darknet-vendors-plead-guilty-trafficking-fentanyl-and-other-illegal-drugs |

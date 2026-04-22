@@ -6,7 +6,7 @@ aliases:
 case_id: CYB-FUP-075
 period: 3
 operation_type: sentencing
-status: completed
+status: absorbed
 enforcement_type:
   - sentencing
 outcome: success
@@ -57,10 +57,10 @@ source_count: 1
 sources:
   - "[[2023-02-22_mdfl_pankov-xdedic-extradition]]"
 created: 2026-04-17
-updated: 2026-04-17
+updated: 2026-04-22
 operation_role: follow-on
 parent_operation: "[[xdedic-marketplace-takedown]]"
-summary: "Dariy Pankov (xDedic / NLBrute) Enforcement Action is a defendant-specific enforcement action page derived from [[us-v-pankov-xdedic]]. It captures the prosecutorial or seizure stage reflected in the linked case record and preserves the operation-side catalog entry for this follow-on action."
+summary: "This domestic-only U.S. follow-on record has been absorbed into the canonical case page [[us-v-pankov-xdedic]]. No visible cross-border mechanism is documented, so it is not treated as a separate international-cooperation operation."
 jurisdictions:
   - "[[united-states]]"
 organizations:
@@ -70,25 +70,14 @@ crime_types:
 ---
 ## Summary
 
-Dariy Pankov (xDedic / NLBrute) Enforcement Action is a defendant-specific enforcement action page derived from [[us-v-pankov-xdedic]]. It captures the prosecutorial or seizure stage reflected in the linked case record and preserves the operation-side catalog entry for this follow-on action.
+This domestic-only U.S. follow-on record has been absorbed into the canonical case page [[us-v-pankov-xdedic]]. No visible cross-border mechanism is documented, so it is not treated as a separate international-cooperation operation.
 
-## Background
+## Canonical Record
 
-The underlying public case record identifies Dariy Pankov (xDedic / NLBrute) as the focal enforcement target. This page exists to represent the concrete enforcement action in the operations catalog without duplicating the deeper procedural detail already maintained on the case page.
-
-## Participating Parties
-
-- Lead agency: [[fbi-cyber-division]]
-- Jurisdiction country: [[united-states]]
-
-## Results and Impact
-
-- Operation type: `sentencing`
-- Case anchor: [[us-v-pankov-xdedic]]
-- Source coverage: 1 official or catalogued source page(s)
+- [[us-v-pankov-xdedic]]
 
 ## References
 
 | # | Source | Publisher | Date | URL |
 |---|---|---|---|---|
-| [1] | United States v. Dariy Pankov | US DOJ (Middle District of Florida) | 2023-02-22 | https://www.justice.gov/usao-mdfl/pr/russian-malware-developer-arrested-and-extradited-united-states |
+| [1] | Russian Malware Developer Arrested And Extradited To The United States | US DOJ (Middle District of Florida) | 2023-02-22 | https://www.justice.gov/usao-mdfl/pr/russian-malware-developer-arrested-and-extradited-united-states |

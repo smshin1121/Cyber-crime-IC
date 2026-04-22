@@ -6,7 +6,7 @@ aliases:
 case_id: CYB-FUP-013
 period: 2
 operation_type: sentencing
-status: completed
+status: absorbed
 enforcement_type:
   - sentencing
 outcome: success
@@ -55,10 +55,10 @@ source_count: 1
 sources:
   - "[[2022-01-11_sdfl_barraza-flores-dark-web-sentencing]]"
 created: 2026-04-17
-updated: 2026-04-17
+updated: 2026-04-22
 operation_role: follow-on
 parent_operation: ""
-summary: "Barraza Flores (Dark Web Trafficker) Enforcement Action is a defendant-specific enforcement action page derived from [[us-v-barraza-flores-dark-web]]. It captures the prosecutorial or seizure stage reflected in the linked case record and preserves the operation-side catalog entry for this follow-on action."
+summary: "This domestic-only U.S. follow-on record has been absorbed into the canonical case page [[us-v-barraza-flores-dark-web]]. No visible cross-border mechanism is documented, so it is not treated as a separate international-cooperation operation."
 jurisdictions:
   - "[[united-states]]"
 organizations:
@@ -68,25 +68,14 @@ crime_types:
 ---
 ## Summary
 
-Barraza Flores (Dark Web Trafficker) Enforcement Action is a defendant-specific enforcement action page derived from [[us-v-barraza-flores-dark-web]]. It captures the prosecutorial or seizure stage reflected in the linked case record and preserves the operation-side catalog entry for this follow-on action.
+This domestic-only U.S. follow-on record has been absorbed into the canonical case page [[us-v-barraza-flores-dark-web]]. No visible cross-border mechanism is documented, so it is not treated as a separate international-cooperation operation.
 
-## Background
+## Canonical Record
 
-The underlying public case record identifies Barraza Flores (Dark Web Trafficker) as the focal enforcement target. This page exists to represent the concrete enforcement action in the operations catalog without duplicating the deeper procedural detail already maintained on the case page.
-
-## Participating Parties
-
-- Lead agency: [[us-doj]]
-- Jurisdiction country: [[united-states]]
-
-## Results and Impact
-
-- Operation type: `sentencing`
-- Case anchor: [[us-v-barraza-flores-dark-web]]
-- Source coverage: 1 official or catalogued source page(s)
+- [[us-v-barraza-flores-dark-web]]
 
 ## References
 
 | # | Source | Publisher | Date | URL |
 |---|---|---|---|---|
-| [1] | United States v. Jose Rodolfo Barraza Flores | US DOJ (Southern District of Florida) | 2022-01-11 | https://www.justice.gov/usao-sdfl/pr/dark-web-drug-trafficker-sentenced-160-months-federal-prison |
+| [1] | Dark Web Drug Trafficker Sentenced to 160 Months in Federal Prison | US DOJ (Southern District of Florida) | 2022-01-11 | https://www.justice.gov/usao-sdfl/pr/dark-web-drug-trafficker-sentenced-160-months-federal-prison |

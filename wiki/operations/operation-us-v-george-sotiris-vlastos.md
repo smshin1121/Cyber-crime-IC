@@ -8,7 +8,7 @@ period: 3
 operation_role: follow-on
 parent_operation: ""
 operation_type: prosecution
-status: completed
+status: absorbed
 enforcement_type:
   - arrest
 outcome: success
@@ -46,47 +46,36 @@ results:
   other:
     - "Defendant-specific follow-on action derived from [[us-v-george-sotiris-vlastos]]"
 edges:
-  []
+
 credibility_index: 4.0
 source_tier: 1
 missing_fields:
-  []
+
 related_cases:
   - "[[us-v-george-sotiris-vlastos]]"
 related_operations:
-  []
+
 challenges_encountered:
-  []
+
 lessons_learned:
-  []
+
 source_count: 1
 sources:
   - "[[2025-05-12_justice-gov_united-states-v-george-sotiris-vlastos]]"
-summary: "George Sotiris Vlastos Enforcement Action is a defendant-specific enforcement action page derived from [[us-v-george-sotiris-vlastos]]."
+summary: "This domestic-only U.S. follow-on record has been absorbed into the canonical case page [[us-v-george-sotiris-vlastos]]. No visible cross-border mechanism is documented, so it is not treated as a separate international-cooperation operation."
 created: 2026-04-17
-updated: 2026-04-17
+updated: 2026-04-22
 ---
 ## Summary
 
-George Sotiris Vlastos Enforcement Action is a defendant-specific enforcement action page derived from [[us-v-george-sotiris-vlastos]]. It captures the prosecutorial or seizure stage reflected in the linked case record and preserves the operation-side catalog entry for this follow-on action.
+This domestic-only U.S. follow-on record has been absorbed into the canonical case page [[us-v-george-sotiris-vlastos]]. No visible cross-border mechanism is documented, so it is not treated as a separate international-cooperation operation.
 
-## Background
+## Canonical Record
 
-The underlying public case record identifies George Sotiris Vlastos as the focal enforcement target. This page exists to represent the concrete enforcement action in the operations catalog without duplicating the deeper procedural detail already maintained on the case page.
-
-## Participating Parties
-
-- Lead agency: [[us-doj]]
-- Jurisdiction country: [[united-states]]
-
-## Results and Impact
-
-- Operation type: `prosecution`
-- Case anchor: [[us-v-george-sotiris-vlastos]]
-- Source coverage: 1 official or catalogued source page(s)
+- [[us-v-george-sotiris-vlastos]]
 
 ## References
 
 | # | Source | Publisher | Date | URL |
 |---|---|---|---|---|
-| [1] | United States v. George Sotiris Vlastos | US DOJ (Western District of Pennsylvania) | 2025-05-12 | https://www.justice.gov/usao-wdpa/pr/pittsburgh-resident-and-darknet-drug-trafficker-sentenced-nearly-six-years-prison |
+| [1] | Pittsburgh Resident and Darknet Drug Trafficker Sentenced to Nearly Six Years in Prison on Federal Drug Trafficking and Firearms Convictions | US DOJ (Western District of Pennsylvania) | 2025-05-12 | https://www.justice.gov/usao-wdpa/pr/pittsburgh-resident-and-darknet-drug-trafficker-sentenced-nearly-six-years-prison |

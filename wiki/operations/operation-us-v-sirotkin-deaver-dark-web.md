@@ -6,7 +6,7 @@ aliases:
 case_id: CYB-FUP-086
 period: 3
 operation_type: sentencing
-status: completed
+status: absorbed
 enforcement_type:
   - sentencing
 outcome: success
@@ -56,10 +56,10 @@ source_count: 1
 sources:
   - "[[2023-10-12_sdoh_sirotkin-deaver-dark-web-sentencing]]"
 created: 2026-04-17
-updated: 2026-04-17
+updated: 2026-04-22
 operation_role: follow-on
 parent_operation: ""
-summary: "Sirotkin and Deaver (Pill Cosby) Enforcement Action is a defendant-specific enforcement action page derived from [[us-v-sirotkin-deaver-dark-web]]. It captures the prosecutorial or seizure stage reflected in the linked case record and preserves the operation-side catalog entry for this follow-on action."
+summary: "This domestic-only U.S. follow-on record has been absorbed into the canonical case page [[us-v-sirotkin-deaver-dark-web]]. No visible cross-border mechanism is documented, so it is not treated as a separate international-cooperation operation."
 jurisdictions:
   - "[[united-states]]"
 organizations:
@@ -69,25 +69,14 @@ crime_types:
 ---
 ## Summary
 
-Sirotkin and Deaver (Pill Cosby) Enforcement Action is a defendant-specific enforcement action page derived from [[us-v-sirotkin-deaver-dark-web]]. It captures the prosecutorial or seizure stage reflected in the linked case record and preserves the operation-side catalog entry for this follow-on action.
+This domestic-only U.S. follow-on record has been absorbed into the canonical case page [[us-v-sirotkin-deaver-dark-web]]. No visible cross-border mechanism is documented, so it is not treated as a separate international-cooperation operation.
 
-## Background
+## Canonical Record
 
-The underlying public case record identifies Sirotkin and Deaver (Pill Cosby) as the focal enforcement target. This page exists to represent the concrete enforcement action in the operations catalog without duplicating the deeper procedural detail already maintained on the case page.
-
-## Participating Parties
-
-- Lead agency: [[us-doj]]
-- Jurisdiction country: [[united-states]]
-
-## Results and Impact
-
-- Operation type: `sentencing`
-- Case anchor: [[us-v-sirotkin-deaver-dark-web]]
-- Source coverage: 1 official or catalogued source page(s)
+- [[us-v-sirotkin-deaver-dark-web]]
 
 ## References
 
 | # | Source | Publisher | Date | URL |
 |---|---|---|---|---|
-| [1] | United States v. Khlari Sirotkin and Sean Deaver | US DOJ (Southern District of Ohio) | 2023-10-12 | https://www.justice.gov/usao-sdoh/pr/2-leaders-28-million-dark-web-drug-trafficking-money-laundering-conspiracy-sentenced |
+| [1] | 2 leaders of $2.8 million dark web drug trafficking, money laundering conspiracy sentenced to 16 & 18 years in prison | US DOJ (Southern District of Ohio) | 2023-10-12 | https://www.justice.gov/usao-sdoh/pr/2-leaders-28-million-dark-web-drug-trafficking-money-laundering-conspiracy-sentenced |

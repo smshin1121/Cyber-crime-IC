@@ -266,3 +266,13 @@ No [[south-korea|South Korean]] participation in the BidenCash seizure has been 
 
 > [!note] Post-seizure status
 > As of early 2026, BidenCash domains remain offline and redirected to the law enforcement seizure notice. No successor marketplace operating under the BidenCash brand has been identified.
+
+## References
+
+| # | Title | Publisher | Date | URL |
+|---|---|---|---|---|
+| 1 | U.S. Government Seizes Approximately 145 Criminal Marketplace Domains Associated with the BidenCash Marketplace | US Secret Service | 2025-06-05 | https://www.secretservice.gov/newsroom/releases/2025/06/us-government-seizes-approximately-145-criminal-marketplace-domains |
+| 2 | DOJ seizes crypto and web domains linked to online criminal marketplace BidenCash | Fortune | 2025-06-05 | https://fortune.com/crypto/2025/06/05/doj-seizes-crypto-web-domains-online-marketplace-bidencash/ |
+| 3 | US and Netherlands take down BidenCash cybercrime marketplace infrastructure | The Record | 2025-06 | https://therecord.media/bidencash-cybercrime-darknet-market-takedown-us-netherlands |
+| 4 | DOJ seizes 145 domains tied to BidenCash marketplace | The Hacker News | 2025-06 | https://thehackernews.com/2025/06/doj-seizes-145-domains-tied-to.html |
+| 5 | BidenCash marketplace domains seized in coordinated international action | Help Net Security | 2025-06-06 | https://www.helpnetsecurity.com/2025/06/06/bidencash-marketplace-domains-seized/ |

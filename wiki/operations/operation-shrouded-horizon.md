@@ -2,8 +2,6 @@
 operation_role: umbrella
 parent_operation: ""
 summary: "FBI-led Operation Shrouded Horizon, conducted in cooperation with Europol and law enforcement agencies from 20 countries over an 18-month investigation, dismantled the largest English-language cybercrime forum, Darkode. The operation resulted in the arrest of more than 70 individuals and the indictment of 12, neutralizing a criminal marketplace for malware, botnets, stolen personal information, and credit card data trafficking."
----
-﻿---
 aliases:
 - Darkode Takedown
 case_id: CYB-2015-001

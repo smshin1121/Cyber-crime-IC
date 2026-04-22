@@ -3,19 +3,19 @@ type: operation
 title: "Puyallup man caught with nearly 100,000 fentanyl pills and five firearms sentenced to six-and-a-half years in prison Enforcement Action"
 aliases:
   - "Puyallup man caught with nearly 100,000 fentanyl pills and five firearms sentenced to six-and-a-half years in prison"
-case_id: "CYB-FUP-620"
+case_id: CYB-FUP-620
 period: 3
-operation_role: "follow-on"
+operation_role: follow-on
 parent_operation: ""
-operation_type: "sentencing"
-status: "completed"
+operation_type: sentencing
+status: absorbed
 enforcement_type:
   - sentencing
-outcome: "success"
+outcome: success
 timeframe:
-  announced: "2024-07-22"
-  start: "2024"
-  end: "2024-07-22"
+  announced: 2024-07-22
+  start: 2024
+  end: 2024-07-22
   ongoing: false
 crime_type: "[[online-fraud-ic]]"
 crime_types:
@@ -45,41 +45,34 @@ results:
   victims_notified: 0
   other:
     - "Defendant-specific follow-on action derived from [[puyallup-man-caught-with-nearly-100-000-fentanyl-pills-and-five-firearms-sentenced-to-six-and-a-half-years-in-]]"
-edges: []
+edges:
+  []
 credibility_index: 4.0
 source_tier: 1
-missing_fields: []
+missing_fields:
+  []
 related_cases:
   - "[[puyallup-man-caught-with-nearly-100-000-fentanyl-pills-and-five-firearms-sentenced-to-six-and-a-half-years-in-]]"
-related_operations: []
-challenges_encountered: []
-lessons_learned: []
+related_operations:
+  []
+challenges_encountered:
+  []
+lessons_learned:
+  []
 source_count: 1
 sources:
   - "[[2026-04-18_justice-gov_puyallup-man-caught-nearly-100000-fentanyl-pills-and-five-firearms-sentenced-six-and]]"
-summary: "Puyallup man caught with nearly 100,000 fentanyl pills and five firearms sentenced to six-and-a-half years in prison Enforcement Action is a defendant-specific enforcement action page derived from [[puyallup-man-caught-with-nearly-100-000-fentanyl-pills-and-five-firearms-sentenced-to-six-and-a-half-years-in-]]."
+summary: "This domestic-only U.S. follow-on record has been absorbed into the canonical case page [[puyallup-man-caught-with-nearly-100-000-fentanyl-pills-and-five-firearms-sentenced-to-six-and-a-half-years-in-]]. No visible cross-border mechanism is documented, so it is not treated as a separate international-cooperation operation."
 created: 2026-04-18
-updated: 2026-04-18
+updated: 2026-04-22
 ---
-
 ## Summary
 
-Puyallup man caught with nearly 100,000 fentanyl pills and five firearms sentenced to six-and-a-half years in prison Enforcement Action is a defendant-specific enforcement action page derived from [[puyallup-man-caught-with-nearly-100-000-fentanyl-pills-and-five-firearms-sentenced-to-six-and-a-half-years-in-]]. It captures the prosecutorial or seizure stage reflected in the linked case record and preserves the operation-side catalog entry for this follow-on action.
+This domestic-only U.S. follow-on record has been absorbed into the canonical case page [[puyallup-man-caught-with-nearly-100-000-fentanyl-pills-and-five-firearms-sentenced-to-six-and-a-half-years-in-]]. No visible cross-border mechanism is documented, so it is not treated as a separate international-cooperation operation.
 
-## Background
+## Canonical Record
 
-The underlying public case record identifies Puyallup man caught with nearly 100,000 fentanyl pills and five firearms sentenced to six-and-a-half years in prison as the focal enforcement target. This page exists to represent the concrete enforcement action in the operations catalog without duplicating the deeper procedural detail already maintained on the case page.
-
-## Participating Parties
-
-- Lead agency: [[us-doj]]
-- Jurisdiction country: [[united-states]]
-
-## Results and Impact
-
-- Operation type: `sentencing`
-- Case anchor: [[puyallup-man-caught-with-nearly-100-000-fentanyl-pills-and-five-firearms-sentenced-to-six-and-a-half-years-in-]]
-- Source coverage: 1 official or catalogued source page(s)
+- [[puyallup-man-caught-with-nearly-100-000-fentanyl-pills-and-five-firearms-sentenced-to-six-and-a-half-years-in-]]
 
 ## References
 

@@ -6,7 +6,7 @@ aliases:
 case_id: CYB-FUP-025
 period: 1
 operation_type: prosecution
-status: completed
+status: absorbed
 enforcement_type:
   - arrest
 outcome: success
@@ -57,10 +57,10 @@ source_count: 1
 sources:
   - "[[2017-07-20_edca_cazes-alphabay-indictment]]"
 created: 2026-04-17
-updated: 2026-04-17
+updated: 2026-04-22
 operation_role: follow-on
 parent_operation: "[[alphabay-takedown]]"
-summary: "Alexandre Cazes (AlphaBay) Enforcement Action is a defendant-specific enforcement action page derived from [[us-v-cazes-alphabay]]. It captures the prosecutorial or seizure stage reflected in the linked case record and preserves the operation-side catalog entry for this follow-on action."
+summary: "This domestic-only U.S. follow-on record has been absorbed into the canonical case page [[us-v-cazes-alphabay]]. No visible cross-border mechanism is documented, so it is not treated as a separate international-cooperation operation."
 jurisdictions:
   - "[[united-states]]"
 organizations:
@@ -70,25 +70,14 @@ crime_types:
 ---
 ## Summary
 
-Alexandre Cazes (AlphaBay) Enforcement Action is a defendant-specific enforcement action page derived from [[us-v-cazes-alphabay]]. It captures the prosecutorial or seizure stage reflected in the linked case record and preserves the operation-side catalog entry for this follow-on action.
+This domestic-only U.S. follow-on record has been absorbed into the canonical case page [[us-v-cazes-alphabay]]. No visible cross-border mechanism is documented, so it is not treated as a separate international-cooperation operation.
 
-## Background
+## Canonical Record
 
-The underlying public case record identifies Alexandre Cazes (AlphaBay) as the focal enforcement target. This page exists to represent the concrete enforcement action in the operations catalog without duplicating the deeper procedural detail already maintained on the case page.
-
-## Participating Parties
-
-- Lead agency: [[fbi-cyber-division]]
-- Jurisdiction country: [[united-states]]
-
-## Results and Impact
-
-- Operation type: `prosecution`
-- Case anchor: [[us-v-cazes-alphabay]]
-- Source coverage: 1 official or catalogued source page(s)
+- [[us-v-cazes-alphabay]]
 
 ## References
 
 | # | Source | Publisher | Date | URL |
 |---|---|---|---|---|
-| [1] | United States v. Alexandre Cazes | US DOJ (Eastern District of California) | 2017-06-01 | https://www.justice.gov/usao-edca/pr/alphabay-largest-online-dark-market-shut-down |
+| [1] | AlphaBay, the Largest Online “Dark Market,” Shut Down | US DOJ (Eastern District of California) | 2017-06-01 | https://www.justice.gov/usao-edca/pr/alphabay-largest-online-dark-market-shut-down |

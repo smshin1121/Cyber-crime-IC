@@ -3,19 +3,19 @@ type: operation
 title: "Jesse Kipf Enforcement Action"
 aliases:
   - "United States v. Jesse Kipf"
-case_id: "CYB-FUP-197"
+case_id: CYB-FUP-197
 period: 3
-operation_role: "follow-on"
+operation_role: follow-on
 parent_operation: ""
-operation_type: "sentencing"
-status: "completed"
+operation_type: sentencing
+status: absorbed
 enforcement_type:
   - sentencing
-outcome: "success"
+outcome: success
 timeframe:
-  announced: "2024-08-20"
-  start: "2024"
-  end: "2024-08-20"
+  announced: 2024-08-20
+  start: 2024
+  end: 2024-08-20
   ongoing: false
 crime_type: "[[carding-fraud-ic]]"
 crime_types:
@@ -45,41 +45,34 @@ results:
   victims_notified: 0
   other:
     - "Defendant-specific follow-on action derived from [[pulaski-county-man-sentenced-cyber-intrusion-and-aggravated-identity-theft]]"
-edges: []
+edges:
+  []
 credibility_index: 4.0
 source_tier: 1
-missing_fields: []
+missing_fields:
+  []
 related_cases:
   - "[[pulaski-county-man-sentenced-cyber-intrusion-and-aggravated-identity-theft]]"
-related_operations: []
-challenges_encountered: []
-lessons_learned: []
+related_operations:
+  []
+challenges_encountered:
+  []
+lessons_learned:
+  []
 source_count: 1
 sources:
   - "[[2026-04-18_justice-gov_pulaski-county-man-sentenced-cyber-intrusion-and-aggravated-identity-theft]]"
-summary: "Jesse Kipf Enforcement Action is a defendant-specific enforcement action page derived from [[pulaski-county-man-sentenced-cyber-intrusion-and-aggravated-identity-theft]]."
+summary: "This domestic-only U.S. follow-on record has been absorbed into the canonical case page [[pulaski-county-man-sentenced-cyber-intrusion-and-aggravated-identity-theft]]. No visible cross-border mechanism is documented, so it is not treated as a separate international-cooperation operation."
 created: 2026-04-18
-updated: 2026-04-18
+updated: 2026-04-22
 ---
-
 ## Summary
 
-Jesse Kipf Enforcement Action is a defendant-specific enforcement action page derived from [[pulaski-county-man-sentenced-cyber-intrusion-and-aggravated-identity-theft]]. It captures the prosecutorial or seizure stage reflected in the linked case record and preserves the operation-side catalog entry for this follow-on action.
+This domestic-only U.S. follow-on record has been absorbed into the canonical case page [[pulaski-county-man-sentenced-cyber-intrusion-and-aggravated-identity-theft]]. No visible cross-border mechanism is documented, so it is not treated as a separate international-cooperation operation.
 
-## Background
+## Canonical Record
 
-The underlying public case record identifies Jesse Kipf as the focal enforcement target. This page exists to represent the concrete enforcement action in the operations catalog without duplicating the deeper procedural detail already maintained on the case page.
-
-## Participating Parties
-
-- Lead agency: [[us-doj]]
-- Jurisdiction country: [[united-states]]
-
-## Results and Impact
-
-- Operation type: `sentencing`
-- Case anchor: [[pulaski-county-man-sentenced-cyber-intrusion-and-aggravated-identity-theft]]
-- Source coverage: 1 official or catalogued source page(s)
+- [[pulaski-county-man-sentenced-cyber-intrusion-and-aggravated-identity-theft]]
 
 ## References
 

@@ -6,7 +6,7 @@ aliases:
 case_id: CYB-FUP-060
 period: 3
 operation_type: sentencing
-status: completed
+status: absorbed
 enforcement_type:
   - sentencing
 outcome: success
@@ -57,10 +57,10 @@ source_count: 1
 sources:
   - "[[2024-08-07_mdfl_mcneely-xdedic-summary]]"
 created: 2026-04-17
-updated: 2026-04-17
+updated: 2026-04-22
 operation_role: follow-on
 parent_operation: "[[xdedic-marketplace-takedown]]"
-summary: "McNeely et al. (xDedic Buyers) Enforcement Action is a defendant-specific enforcement action page derived from [[us-v-mcneely-xdedic]]. It captures the prosecutorial or seizure stage reflected in the linked case record and preserves the operation-side catalog entry for this follow-on action."
+summary: "This domestic-only U.S. follow-on record has been absorbed into the canonical case page [[us-v-mcneely-xdedic]]. No visible cross-border mechanism is documented, so it is not treated as a separate international-cooperation operation."
 jurisdictions:
   - "[[united-states]]"
 organizations:
@@ -70,25 +70,14 @@ crime_types:
 ---
 ## Summary
 
-McNeely et al. (xDedic Buyers) Enforcement Action is a defendant-specific enforcement action page derived from [[us-v-mcneely-xdedic]]. It captures the prosecutorial or seizure stage reflected in the linked case record and preserves the operation-side catalog entry for this follow-on action.
+This domestic-only U.S. follow-on record has been absorbed into the canonical case page [[us-v-mcneely-xdedic]]. No visible cross-border mechanism is documented, so it is not treated as a separate international-cooperation operation.
 
-## Background
+## Canonical Record
 
-The underlying public case record identifies McNeely et al. (xDedic Buyers) as the focal enforcement target. This page exists to represent the concrete enforcement action in the operations catalog without duplicating the deeper procedural detail already maintained on the case page.
-
-## Participating Parties
-
-- Lead agency: [[fbi-cyber-division]]
-- Jurisdiction country: [[united-states]]
-
-## Results and Impact
-
-- Operation type: `sentencing`
-- Case anchor: [[us-v-mcneely-xdedic]]
-- Source coverage: 1 official or catalogued source page(s)
+- [[us-v-mcneely-xdedic]]
 
 ## References
 
 | # | Source | Publisher | Date | URL |
 |---|---|---|---|---|
-| [1] | United States v. T'Andre McNeely et al. | US DOJ (Middle District of Florida) | 2024-08-07 | https://www.justice.gov/usao-mdfl/victim-witness-services/xDedic |
+| [1] | xDedic Marketplace | US DOJ (Middle District of Florida) | 2024-08-07 | https://www.justice.gov/usao-mdfl/victim-witness-services/xDedic |

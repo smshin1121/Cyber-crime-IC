@@ -3,19 +3,19 @@ type: operation
 title: "Four International Hacking Suspects Enforcement Action"
 aliases:
   - "United States v. Four International Hacking Suspects"
-case_id: "CYB-FUP-430"
+case_id: CYB-FUP-430
 period: 1
-operation_role: "follow-on"
+operation_role: follow-on
 parent_operation: ""
-operation_type: "indictment"
-status: "ongoing"
+operation_type: indictment
+status: absorbed
 enforcement_type:
   - indictment
-outcome: "success"
+outcome: success
 timeframe:
-  announced: "2019-06-06"
-  start: "2019"
-  end: "2019-06-06"
+  announced: 2019-06-06
+  start: 2019
+  end: 2019-06-06
   ongoing: true
 crime_type: "[[online-fraud-ic]]"
 crime_types:
@@ -45,41 +45,34 @@ results:
   victims_notified: 0
   other:
     - "Defendant-specific follow-on action derived from [[us-v-four-international-hacking-suspects]]"
-edges: []
+edges:
+  []
 credibility_index: 4.0
 source_tier: 1
-missing_fields: []
+missing_fields:
+  []
 related_cases:
   - "[[us-v-four-international-hacking-suspects]]"
-related_operations: []
-challenges_encountered: []
-lessons_learned: []
+related_operations:
+  []
+challenges_encountered:
+  []
+lessons_learned:
+  []
 source_count: 1
 sources:
   - "[[2026-04-18_justice-gov_four-international-hacking-suspects-charged-racketeering]]"
-summary: "Four International Hacking Suspects Enforcement Action is a defendant-specific enforcement action page derived from [[us-v-four-international-hacking-suspects]]."
+summary: "This domestic-only U.S. follow-on record has been absorbed into the canonical case page [[us-v-four-international-hacking-suspects]]. No visible cross-border mechanism is documented, so it is not treated as a separate international-cooperation operation."
 created: 2026-04-18
-updated: 2026-04-18
+updated: 2026-04-22
 ---
-
 ## Summary
 
-Four International Hacking Suspects Enforcement Action is a defendant-specific enforcement action page derived from [[us-v-four-international-hacking-suspects]]. It captures the prosecutorial or seizure stage reflected in the linked case record and preserves the operation-side catalog entry for this follow-on action.
+This domestic-only U.S. follow-on record has been absorbed into the canonical case page [[us-v-four-international-hacking-suspects]]. No visible cross-border mechanism is documented, so it is not treated as a separate international-cooperation operation.
 
-## Background
+## Canonical Record
 
-The underlying public case record identifies Four International Hacking Suspects as the focal enforcement target. This page exists to represent the concrete enforcement action in the operations catalog without duplicating the deeper procedural detail already maintained on the case page.
-
-## Participating Parties
-
-- Lead agency: [[us-doj]]
-- Jurisdiction country: [[united-states]]
-
-## Results and Impact
-
-- Operation type: `indictment`
-- Case anchor: [[us-v-four-international-hacking-suspects]]
-- Source coverage: 1 official or catalogued source page(s)
+- [[us-v-four-international-hacking-suspects]]
 
 ## References
 

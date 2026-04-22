@@ -3,19 +3,19 @@ type: operation
 title: "United States Seized and Files Forfeiture Action to Recover over $54 Million of Cryptocurrency Traceable to Narcotics Distribution Scheme Enforcement Action"
 aliases:
   - "United States Seized and Files Forfeiture Action to Recover over $54 Million of Cryptocurrency Traceable to Narcotics Distribution Scheme"
-case_id: "CYB-FUP-654"
+case_id: CYB-FUP-654
 period: 3
-operation_role: "follow-on"
+operation_role: follow-on
 parent_operation: ""
-operation_type: "seizure"
-status: "completed"
+operation_type: seizure
+status: absorbed
 enforcement_type:
   - seizure
-outcome: "success"
+outcome: success
 timeframe:
-  announced: "2023-11-02"
-  start: "2023"
-  end: "2023-11-02"
+  announced: 2023-11-02
+  start: 2023
+  end: 2023-11-02
   ongoing: false
 crime_type: "[[drug-trafficking]]"
 crime_types:
@@ -45,41 +45,34 @@ results:
   victims_notified: 0
   other:
     - "Defendant-specific follow-on action derived from [[united-states-seized-and-files-forfeiture-action-to-recover-over-54-million-of-cryptocurrency-traceable-to-nar]]"
-edges: []
+edges:
+  []
 credibility_index: 4.0
 source_tier: 1
-missing_fields: []
+missing_fields:
+  []
 related_cases:
   - "[[united-states-seized-and-files-forfeiture-action-to-recover-over-54-million-of-cryptocurrency-traceable-to-nar]]"
-related_operations: []
-challenges_encountered: []
-lessons_learned: []
+related_operations:
+  []
+challenges_encountered:
+  []
+lessons_learned:
+  []
 source_count: 1
 sources:
   - "[[2026-04-18_justice-gov_united-states-seized-and-files-forfeiture-action-recover-over-54-million-cryptocurrency]]"
-summary: "United States Seized and Files Forfeiture Action to Recover over $54 Million of Cryptocurrency Traceable to Narcotics Distribution Scheme Enforcement Action is a defendant-specific enforcement action page derived from [[united-states-seized-and-files-forfeiture-action-to-recover-over-54-million-of-cryptocurrency-traceable-to-nar]]."
+summary: "This domestic-only U.S. follow-on record has been absorbed into the canonical case page [[united-states-seized-and-files-forfeiture-action-to-recover-over-54-million-of-cryptocurrency-traceable-to-nar]]. No visible cross-border mechanism is documented, so it is not treated as a separate international-cooperation operation."
 created: 2026-04-18
-updated: 2026-04-18
+updated: 2026-04-22
 ---
-
 ## Summary
 
-United States Seized and Files Forfeiture Action to Recover over $54 Million of Cryptocurrency Traceable to Narcotics Distribution Scheme Enforcement Action is a defendant-specific enforcement action page derived from [[united-states-seized-and-files-forfeiture-action-to-recover-over-54-million-of-cryptocurrency-traceable-to-nar]]. It captures the prosecutorial or seizure stage reflected in the linked case record and preserves the operation-side catalog entry for this follow-on action.
+This domestic-only U.S. follow-on record has been absorbed into the canonical case page [[united-states-seized-and-files-forfeiture-action-to-recover-over-54-million-of-cryptocurrency-traceable-to-nar]]. No visible cross-border mechanism is documented, so it is not treated as a separate international-cooperation operation.
 
-## Background
+## Canonical Record
 
-The underlying public case record identifies United States Seized and Files Forfeiture Action to Recover over $54 Million of Cryptocurrency Traceable to Narcotics Distribution Scheme as the focal enforcement target. This page exists to represent the concrete enforcement action in the operations catalog without duplicating the deeper procedural detail already maintained on the case page.
-
-## Participating Parties
-
-- Lead agency: [[us-doj]]
-- Jurisdiction country: [[united-states]]
-
-## Results and Impact
-
-- Operation type: `seizure`
-- Case anchor: [[united-states-seized-and-files-forfeiture-action-to-recover-over-54-million-of-cryptocurrency-traceable-to-nar]]
-- Source coverage: 1 official or catalogued source page(s)
+- [[united-states-seized-and-files-forfeiture-action-to-recover-over-54-million-of-cryptocurrency-traceable-to-nar]]
 
 ## References
 

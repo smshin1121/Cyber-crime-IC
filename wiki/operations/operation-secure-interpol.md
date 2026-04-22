@@ -26,7 +26,12 @@ outcome: success
 participating_agencies:
 
 participating_countries:
-
+  - "[[india]]"
+  - "[[indonesia]]"
+  - "[[japan]]"
+  - "[[south-korea]]"
+  - "[[singapore]]"
+  - "[[thailand]]"
 period: 3
 related_cases:
 
@@ -55,7 +60,7 @@ timeframe:
   start: 2025-01-01
 title: "Operation Secure (INTERPOL Infostealer Crackdown)"
 type: operation
-updated: 2026-04-09
+updated: 2026-04-22
 operation_role: umbrella
 parent_operation: ""
 summary: "Operation Secure was an INTERPOL-led operation conducted from January to April 2025 across 26 Asia-Pacific countries, targeting infostealer malware infrastructure. The operation resulted in 32 arrests, the takedown of over 20,000 malicious IPs and domains, the seizure of 41 servers and 100GB+ of data, and notifications to more than 216,000 victims."

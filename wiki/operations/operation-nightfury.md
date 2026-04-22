@@ -2,83 +2,70 @@
 operation_role: umbrella
 parent_operation: ""
 summary: "**Operation NightFury** was an INTERPOL-coordinated operation that resulted in the arrest of **3 Indonesian nationals** involved in **Magecart**-style web skimming attacks using the **GetBilling** JavaScript skimmer. The operation involved cooperation between INTERPOL, Indonesian law enforcement, and private sector cybersecurity firm **Group-IB**, which provided critical intelligence."
----
-﻿---
 aliases:
-- Operation Night Fury
-- Magecart Indonesia arrest
-- GetBilling operation
+  - "Operation Night Fury"
+  - "Magecart Indonesia arrest"
+  - "GetBilling operation"
 case_id: CYB-2020-051
-challenges_encountered: []
-coordinating_body: '[[interpol]]'
+challenges_encountered:
+  []
+coordinating_body: "[[interpol]]"
 created: 2026-04-08
 credibility_index: 2.55
-crime_type: '[[online-fraud-ic]]'
+crime_type: "[[online-fraud-ic]]"
 edges:
-- cooperation_type: joint_investigation
-  direction: undirected
-  legal_basis: unknown
-  source_actor: INTERPOL
-  target_actor: Indonesia Police
-- cooperation_type: technical_assistance
-  direction: directed
-  legal_basis: unknown
-  source_actor: Group-IB
-  target_actor: INTERPOL
+  []
 enforcement_type:
-- arrest
-lead_agency: '[[interpol]]'
-legal_basis: []
+  []
+lead_agency: "[[interpol]]"
+legal_basis:
+  []
 lessons_learned:
-- INTERPOL-coordinated operations can successfully target cybercriminals in Southeast
-  Asia
-- Private sector threat intelligence (Group-IB) can directly support law enforcement
-  operations
-mechanisms_used: []
+  []
+mechanisms_used:
+  []
 missing_fields:
-- legal_basis
-- mechanisms_used
+  []
 operation_type: arrest-sweep
 outcome: success
 participating_agencies:
-- '[[interpol]]'
-- '[[indonesia-police]]'
+  - "[[interpol]]"
+  - "[[indonesia-police]]"
 participating_countries:
-- '[[indonesia]]'
-- '[[singapore]]'
+  - "[[indonesia]]"
+  - "[[singapore]]"
 period: 2
-related_cases: []
-related_operations: []
+related_cases:
+  []
+related_operations:
+  []
 results:
   arrests: 3
-  cryptocurrency_seized: ''
+  cryptocurrency_seized: ""
   decryption_keys_recovered: 0
   domains_seized: 0
   indictments: 0
   other:
-  - 3 Indonesian nationals arrested for Magecart web skimming
-  - GetBilling JavaScript skimmer infrastructure disrupted
-  - Group-IB provided private sector intelligence
+    []
   servers_seized: 0
   victims_notified: 0
 source_count: 2
 source_tier: 3
 sources:
-- tier3-cyberscoop-magecart-nightfury-2020
-- tier3-groupib-nightfury-2020
+  - tier3-groupib-nightfury-2020
+  - tier3-cyberscoop-magecart-nightfury-2020
 status: completed
-target_entity: Magecart/GetBilling web skimming group
+target_entity: "Magecart/GetBilling web skimming group"
 timeframe:
-  announced: '2020-01-24'
-  end: '2020-01-24'
+  announced: 2020-01-24
+  end: 2020-01-24
   ongoing: false
-  start: '2020-01-24'
-title: Operation NightFury (Magecart/GetBilling)
-title_ko: 나이트퓨리 작전 (Magecart/GetBilling)
+  start: 2020-01-24
+title: "Operation NightFury (Magecart/GetBilling)"
+title_ko: "나이트퓨리 작전 (Magecart/GetBilling)"
 type: operation
-updated: '2026-04-09'
+updated: 2026-04-22
 ---
-
 > [!note] This operation is documented from a Tier 3 (cybersecurity media) source. Additional verification from official sources (Tier 1-2) would strengthen data reliability.
 
 ## Summary

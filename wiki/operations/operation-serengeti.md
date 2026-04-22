@@ -38,7 +38,25 @@ target_entity: "Cybercriminals in Africa targeting ransomware, BEC, digital exto
 lead_agency: "[[interpol-igci]]"
 coordinating_body: "[[afripol]]"
 participating_countries:
-  - "[[united-kingdom]]"
+  - "[[algeria]]"
+  - "[[angola]]"
+  - "[[benin]]"
+  - "[[cameroon]]"
+  - "[[cote-divoire]]"
+  - "[[democratic-republic-of-the-congo]]"
+  - "[[gabon]]"
+  - "[[ghana]]"
+  - "[[kenya]]"
+  - "[[mauritius]]"
+  - "[[mozambique]]"
+  - "[[nigeria]]"
+  - "[[rwanda]]"
+  - "[[senegal]]"
+  - "[[south-africa]]"
+  - "[[tanzania]]"
+  - "[[tunisia]]"
+  - "[[zambia]]"
+  - "[[zimbabwe]]"
 participating_agencies:
   - "[[interpol-igci]]"
   - "[[afripol]]"
@@ -72,7 +90,7 @@ source_count: 1
 sources:
   - "[[2024-11-26-interpol-operation-serengeti]]"
 created: 2026-04-08
-updated: 2026-04-08
+updated: 2026-04-22
 operation_role: umbrella
 parent_operation: ""
 summary: "Operation Serengeti was a joint INTERPOL-[[afripol|AFRIPOL]] operation targeting cybercriminals across **19 African countries** from September to October 2024. The operation resulted in **1,006 arrests** and the dismantling of **134,089 malicious infrastructures and networks**. More than 35,000 victims were identified, with cases linked to nearly **USD 193 million** in financial losses worldwide. The operation was funded by the UK's Foreign, Commonwealth and Development Office, the German Federal Foreign Office, and the Council of Europe."

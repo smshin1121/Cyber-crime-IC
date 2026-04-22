@@ -6,7 +6,7 @@ aliases:
 case_id: CYB-FUP-088
 period: 3
 operation_type: indictment
-status: ongoing
+status: absorbed
 enforcement_type:
   - indictment
 outcome: success
@@ -55,10 +55,10 @@ source_count: 1
 sources:
   - "[[2025-05-23_doj_danabot-indictment]]"
 created: 2026-04-17
-updated: 2026-04-17
+updated: 2026-04-22
 operation_role: follow-on
 parent_operation: "[[operation-endgame-phase2]]"
-summary: "Stepanov et al. (DanaBot — Operation Endgame) Enforcement Action is a defendant-specific enforcement action page derived from [[us-v-stepanov-danabot]]. It captures the prosecutorial or seizure stage reflected in the linked case record and preserves the operation-side catalog entry for this follow-on action."
+summary: "This domestic-only U.S. follow-on record has been absorbed into the canonical case page [[us-v-stepanov-danabot]]. No visible cross-border mechanism is documented, so it is not treated as a separate international-cooperation operation."
 jurisdictions:
   - "[[united-states]]"
 organizations:
@@ -68,25 +68,14 @@ crime_types:
 ---
 ## Summary
 
-Stepanov et al. (DanaBot — Operation Endgame) Enforcement Action is a defendant-specific enforcement action page derived from [[us-v-stepanov-danabot]]. It captures the prosecutorial or seizure stage reflected in the linked case record and preserves the operation-side catalog entry for this follow-on action.
+This domestic-only U.S. follow-on record has been absorbed into the canonical case page [[us-v-stepanov-danabot]]. No visible cross-border mechanism is documented, so it is not treated as a separate international-cooperation operation.
 
-## Background
+## Canonical Record
 
-The underlying public case record identifies Stepanov et al. (DanaBot — Operation Endgame) as the focal enforcement target. This page exists to represent the concrete enforcement action in the operations catalog without duplicating the deeper procedural detail already maintained on the case page.
-
-## Participating Parties
-
-- Lead agency: [[fbi-cyber-division]]
-- Jurisdiction country: [[united-states]]
-
-## Results and Impact
-
-- Operation type: `indictment`
-- Case anchor: [[us-v-stepanov-danabot]]
-- Source coverage: 1 official or catalogued source page(s)
+- [[us-v-stepanov-danabot]]
 
 ## References
 
 | # | Source | Publisher | Date | URL |
 |---|---|---|---|---|
-| [1] | United States v. Stepanov et al. (DanaBot — Operation Endgame Phase 2) | US DOJ | 2025-05-23 | https://www.justice.gov/opa/pr/leader-qakbot-malware-conspiracy-indicted-involvement-global-ransomware-scheme |
+| [1] | Leader of Qakbot Malware Conspiracy Indicted for Involvement in Global Ransomware Scheme | US DOJ | 2025-05-23 | https://www.justice.gov/opa/pr/leader-qakbot-malware-conspiracy-indicted-involvement-global-ransomware-scheme |

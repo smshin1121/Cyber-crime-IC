@@ -3,19 +3,19 @@ type: operation
 title: "John Telusma (Infraud) Enforcement Action"
 aliases:
   - "United States v. John Telusma (Infraud)"
-case_id: "CYB-FUP-099"
+case_id: CYB-FUP-099
 period: 2
-operation_role: "follow-on"
+operation_role: follow-on
 parent_operation: "[[infraud-telusma-sentencing]]"
-operation_type: "sentencing"
-status: "completed"
+operation_type: sentencing
+status: absorbed
 enforcement_type:
   - sentencing
-outcome: "success"
+outcome: success
 timeframe:
-  announced: "2022-05-25"
-  start: "2022"
-  end: "2022-05-25"
+  announced: 2022-05-25
+  start: 2022
+  end: 2022-05-25
   ongoing: false
 crime_type: "[[carding-fraud-ic]]"
 crime_types:
@@ -45,45 +45,37 @@ results:
   victims_notified: 0
   other:
     - "Defendant-specific follow-on action derived from [[us-v-telusma-infraud]]"
-edges: []
+edges:
+  []
 credibility_index: 4.0
 source_tier: 1
-missing_fields: []
+missing_fields:
+  []
 related_cases:
   - "[[us-v-telusma-infraud]]"
 related_operations:
   - "[[infraud-telusma-sentencing]]"
-challenges_encountered: []
-lessons_learned: []
+challenges_encountered:
+  []
+lessons_learned:
+  []
 source_count: 1
 sources:
   - "[[2022-05-27_doj_telusma-infraud-sentencing]]"
-summary: "John Telusma (Infraud) Enforcement Action is a defendant-specific enforcement action page derived from [[us-v-telusma-infraud]]."
+summary: "This domestic-only U.S. follow-on record has been absorbed into the canonical case page [[us-v-telusma-infraud]]. No visible cross-border mechanism is documented, so it is not treated as a separate international-cooperation operation."
 created: 2026-04-17
-updated: 2026-04-17
+updated: 2026-04-22
 ---
-
 ## Summary
 
-John Telusma (Infraud) Enforcement Action is a defendant-specific enforcement action page derived from [[us-v-telusma-infraud]]. It captures the prosecutorial or seizure stage reflected in the linked case record and preserves the operation-side catalog entry for this follow-on action.
+This domestic-only U.S. follow-on record has been absorbed into the canonical case page [[us-v-telusma-infraud]]. No visible cross-border mechanism is documented, so it is not treated as a separate international-cooperation operation.
 
-## Background
+## Canonical Record
 
-The underlying public case record identifies John Telusma (Infraud) as the focal enforcement target. This page exists to represent the concrete enforcement action in the operations catalog without duplicating the deeper procedural detail already maintained on the case page.
-
-## Participating Parties
-
-- Lead agency: [[us-doj]]
-- Jurisdiction country: [[united-states]]
-
-## Results and Impact
-
-- Operation type: `sentencing`
-- Case anchor: [[us-v-telusma-infraud]]
-- Source coverage: 1 official or catalogued source page(s)
+- [[us-v-telusma-infraud]]
 
 ## References
 
 | # | Source | Publisher | Date | URL |
 |---|---|---|---|---|
-| [1] | United States v. John Telusma | US DOJ (Office of Public Affairs) | 2022-05-25 | https://www.justice.gov/archives/opa/pr/man-sentenced-transnational-cybercrime-enterprise |
+| [1] | Man Sentenced for Transnational Cybercrime Enterprise | US DOJ (Office of Public Affairs) | 2022-05-25 | https://www.justice.gov/archives/opa/pr/man-sentenced-transnational-cybercrime-enterprise |

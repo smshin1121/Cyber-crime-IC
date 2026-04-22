@@ -3,35 +3,38 @@ type: operation
 title: "Ulbricht Enforcement Action"
 aliases:
   - "United States v. Ulbricht"
-case_id: "CYB-FUP-129"
+case_id: CYB-FUP-129
 period: 1
-operation_role: "follow-on"
+operation_role: follow-on
 parent_operation: "[[silk-road-takedown]]"
-operation_type: "indictment"
-status: "ongoing"
+operation_type: indictment
+status: absorbed
 enforcement_type:
   - indictment
-outcome: "success"
+outcome: success
 timeframe:
-  announced: "2017-05-31"
-  start: "2017"
-  end: "2017-05-31"
+  announced: 2017-05-31
+  start: 2017
+  end: 2017-05-31
   ongoing: true
 crime_type: "[[online-fraud-ic]]"
 crime_types:
   - "[[online-fraud-ic]]"
-target_entity: "Ulbricht"
+target_entity: Ulbricht
 lead_agency: "[[us-doj]]"
 coordinating_body: "[[us-doj]]"
 participating_countries:
   - "[[united-states]]"
 jurisdictions:
   - "[[united-states]]"
-participating_agencies: []
+participating_agencies:
+  []
 organizations:
   - "[[us-doj]]"
-legal_basis: []
-mechanisms_used: []
+legal_basis:
+  []
+mechanisms_used:
+  []
 results:
   arrests: 0
   indictments: 1
@@ -42,42 +45,34 @@ results:
   victims_notified: 0
   other:
     - "Defendant-specific follow-on action derived from [[us-v-ulbricht]]"
-edges: []
+edges:
+  []
 credibility_index: 4.0
 source_tier: 1
-missing_fields: []
+missing_fields:
+  []
 related_cases:
   - "[[us-v-ulbricht]]"
 related_operations:
   - "[[silk-road-takedown]]"
-challenges_encountered: []
-lessons_learned: []
+challenges_encountered:
+  []
+lessons_learned:
+  []
 source_count: 1
 sources:
   - "[[2017-05-31_court-of-appeals-for-the-second-circuit_united-states-v-ulbricht]]"
-summary: "Ulbricht Enforcement Action is a defendant-specific enforcement action page derived from [[us-v-ulbricht]]."
+summary: "This domestic-only U.S. follow-on record has been absorbed into the canonical case page [[us-v-ulbricht]]. No visible cross-border mechanism is documented, so it is not treated as a separate international-cooperation operation."
 created: 2026-04-18
-updated: 2026-04-18
+updated: 2026-04-22
 ---
-
 ## Summary
 
-Ulbricht Enforcement Action is a defendant-specific enforcement action page derived from [[us-v-ulbricht]]. It captures the prosecutorial or seizure stage reflected in the linked case record and preserves the operation-side catalog entry for this follow-on action.
+This domestic-only U.S. follow-on record has been absorbed into the canonical case page [[us-v-ulbricht]]. No visible cross-border mechanism is documented, so it is not treated as a separate international-cooperation operation.
 
-## Background
+## Canonical Record
 
-The underlying public case record identifies Ulbricht as the focal enforcement target. This page exists to represent the concrete enforcement action in the operations catalog without duplicating the deeper procedural detail already maintained on the case page.
-
-## Participating Parties
-
-- Lead agency: [[us-doj]]
-- Jurisdiction country: [[united-states]]
-
-## Results and Impact
-
-- Operation type: `indictment`
-- Case anchor: [[us-v-ulbricht]]
-- Source coverage: 1 official or catalogued source page(s)
+- [[us-v-ulbricht]]
 
 ## References
 

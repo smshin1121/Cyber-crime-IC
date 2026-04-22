@@ -24,6 +24,7 @@ lead_agency: "[[interpol]]"
 coordinating_body: "[[interpol]]"
 participating_countries:
   - "[[cote-divoire]]"
+  - "[[united-states]]"
 participating_agencies:
   - "[[interpol]]"
   - "[[afripol]]"
@@ -67,7 +68,7 @@ source_count: 1
 sources:
   - "[[2023-07-05_interpol_operation-nervone-opera1er-arrest]]"
 created: 2026-04-08
-updated: 2026-04-18
+updated: 2026-04-22
 operation_role: umbrella
 parent_operation: ""
 summary: "Operation Nervone was an INTERPOL-led action against the OPERA1ER group that culminated in the arrest of a key suspect in Côte d’Ivoire."

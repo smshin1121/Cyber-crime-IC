@@ -6,7 +6,7 @@ aliases:
 case_id: CYB-FUP-070
 period: 1
 operation_type: sentencing
-status: completed
+status: absorbed
 enforcement_type:
   - sentencing
 outcome: success
@@ -55,10 +55,10 @@ source_count: 1
 sources:
   - "[[2015-04-27_mdfl_olivia-bolles-silk-road-sentencing]]"
 created: 2026-04-17
-updated: 2026-04-17
+updated: 2026-04-22
 operation_role: follow-on
 parent_operation: "[[silk-road-takedown]]"
-summary: "Olivia Bolles (Silk Road Vendor) Enforcement Action is a defendant-specific enforcement action page derived from [[us-v-olivia-bolles-silk-road]]. It captures the prosecutorial or seizure stage reflected in the linked case record and preserves the operation-side catalog entry for this follow-on action."
+summary: "This domestic-only U.S. follow-on record has been absorbed into the canonical case page [[us-v-olivia-bolles-silk-road]]. No visible cross-border mechanism is documented, so it is not treated as a separate international-cooperation operation."
 jurisdictions:
   - "[[united-states]]"
 organizations:
@@ -68,25 +68,14 @@ crime_types:
 ---
 ## Summary
 
-Olivia Bolles (Silk Road Vendor) Enforcement Action is a defendant-specific enforcement action page derived from [[us-v-olivia-bolles-silk-road]]. It captures the prosecutorial or seizure stage reflected in the linked case record and preserves the operation-side catalog entry for this follow-on action.
+This domestic-only U.S. follow-on record has been absorbed into the canonical case page [[us-v-olivia-bolles-silk-road]]. No visible cross-border mechanism is documented, so it is not treated as a separate international-cooperation operation.
 
-## Background
+## Canonical Record
 
-The underlying public case record identifies Olivia Bolles (Silk Road Vendor) as the focal enforcement target. This page exists to represent the concrete enforcement action in the operations catalog without duplicating the deeper procedural detail already maintained on the case page.
-
-## Participating Parties
-
-- Lead agency: [[us-doj]]
-- Jurisdiction country: [[united-states]]
-
-## Results and Impact
-
-- Operation type: `sentencing`
-- Case anchor: [[us-v-olivia-bolles-silk-road]]
-- Source coverage: 1 official or catalogued source page(s)
+- [[us-v-olivia-bolles-silk-road]]
 
 ## References
 
 | # | Source | Publisher | Date | URL |
 |---|---|---|---|---|
-| [1] | United States v. Olivia Bolles | US DOJ (Middle District of Florida) | 2015-04-27 | https://www.justice.gov/usao-mdfl/pr/delaware-doctor-who-illegally-sold-controlled-substances-silk-road-drug-marketplace |
+| [1] | Delaware Doctor Who Illegally Sold Controlled Substances On The Silk Road Drug Marketplace Sentenced To Five Years In Prison | US DOJ (Middle District of Florida) | 2015-04-27 | https://www.justice.gov/usao-mdfl/pr/delaware-doctor-who-illegally-sold-controlled-substances-silk-road-drug-marketplace |

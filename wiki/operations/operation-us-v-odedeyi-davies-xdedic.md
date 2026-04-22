@@ -6,7 +6,7 @@ aliases:
 case_id: CYB-FUP-064
 period: 2
 operation_type: indictment
-status: ongoing
+status: absorbed
 enforcement_type:
   - indictment
 outcome: success
@@ -57,10 +57,10 @@ source_count: 1
 sources:
   - "[[2021-09-15_mdfl_odedeyi-davies-xdedic-indictment]]"
 created: 2026-04-17
-updated: 2026-04-17
+updated: 2026-04-22
 operation_role: follow-on
 parent_operation: "[[xdedic-marketplace-takedown]]"
-summary: "Odedeyi and Davies (xDedic U.K. Extradition Case) Enforcement Action is a defendant-specific enforcement action page derived from [[us-v-odedeyi-davies-xdedic]]. It captures the prosecutorial or seizure stage reflected in the linked case record and preserves the operation-side catalog entry for this follow-on action."
+summary: "This domestic-only U.S. follow-on record has been absorbed into the canonical case page [[us-v-odedeyi-davies-xdedic]]. No visible cross-border mechanism is documented, so it is not treated as a separate international-cooperation operation."
 jurisdictions:
   - "[[united-states]]"
 organizations:
@@ -70,25 +70,14 @@ crime_types:
 ---
 ## Summary
 
-Odedeyi and Davies (xDedic U.K. Extradition Case) Enforcement Action is a defendant-specific enforcement action page derived from [[us-v-odedeyi-davies-xdedic]]. It captures the prosecutorial or seizure stage reflected in the linked case record and preserves the operation-side catalog entry for this follow-on action.
+This domestic-only U.S. follow-on record has been absorbed into the canonical case page [[us-v-odedeyi-davies-xdedic]]. No visible cross-border mechanism is documented, so it is not treated as a separate international-cooperation operation.
 
-## Background
+## Canonical Record
 
-The underlying public case record identifies Odedeyi and Davies (xDedic U.K. Extradition Case) as the focal enforcement target. This page exists to represent the concrete enforcement action in the operations catalog without duplicating the deeper procedural detail already maintained on the case page.
-
-## Participating Parties
-
-- Lead agency: [[fbi-cyber-division]]
-- Jurisdiction country: [[united-states]]
-
-## Results and Impact
-
-- Operation type: `indictment`
-- Case anchor: [[us-v-odedeyi-davies-xdedic]]
-- Source coverage: 1 official or catalogued source page(s)
+- [[us-v-odedeyi-davies-xdedic]]
 
 ## References
 
 | # | Source | Publisher | Date | URL |
 |---|---|---|---|---|
-| [1] | United States v. Olufemi Odedeyi and Ibrahim Davies | US DOJ (Middle District of Florida) | 2021-09-15 | https://www.justice.gov/usao-mdfl/pr/four-men-federally-charged-transnational-wire-fraud-and-identity-theft-conspiracy |
+| [1] | Four Men Federally Charged In Transnational Wire Fraud And Identity Theft Conspiracy | US DOJ (Middle District of Florida) | 2021-09-15 | https://www.justice.gov/usao-mdfl/pr/four-men-federally-charged-transnational-wire-fraud-and-identity-theft-conspiracy |

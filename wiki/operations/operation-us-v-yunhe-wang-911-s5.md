@@ -3,19 +3,19 @@ type: operation
 title: "YunHe Wang (911 S5 Botnet) Enforcement Action"
 aliases:
   - "United States v. YunHe Wang (911 S5 Botnet)"
-case_id: "CYB-FUP-102"
+case_id: CYB-FUP-102
 period: 3
-operation_role: "follow-on"
+operation_role: follow-on
 parent_operation: "[[911-s5-botnet-takedown]]"
-operation_type: "indictment"
-status: "ongoing"
+operation_type: indictment
+status: absorbed
 enforcement_type:
   - indictment
-outcome: "success"
+outcome: success
 timeframe:
-  announced: "2024-05-22"
-  start: "2024"
-  end: "2024-05-22"
+  announced: 2024-05-22
+  start: 2024
+  end: 2024-05-22
   ongoing: true
 crime_type: "[[malware-ic]]"
 crime_types:
@@ -50,45 +50,37 @@ results:
   victims_notified: 0
   other:
     - "Defendant-specific follow-on action derived from [[us-v-yunhe-wang-911-s5]]"
-edges: []
+edges:
+  []
 credibility_index: 4.0
 source_tier: 1
-missing_fields: []
+missing_fields:
+  []
 related_cases:
   - "[[us-v-yunhe-wang-911-s5]]"
 related_operations:
   - "[[911-s5-botnet-takedown]]"
-challenges_encountered: []
-lessons_learned: []
+challenges_encountered:
+  []
+lessons_learned:
+  []
 source_count: 1
 sources:
   - "[[2024-05-29_opa_yunhe-wang-911-s5-indictment]]"
-summary: "YunHe Wang (911 S5 Botnet) Enforcement Action is a defendant-specific enforcement action page derived from [[us-v-yunhe-wang-911-s5]]."
+summary: "This domestic-only U.S. follow-on record has been absorbed into the canonical case page [[us-v-yunhe-wang-911-s5]]. No visible cross-border mechanism is documented, so it is not treated as a separate international-cooperation operation."
 created: 2026-04-17
-updated: 2026-04-17
+updated: 2026-04-22
 ---
-
 ## Summary
 
-YunHe Wang (911 S5 Botnet) Enforcement Action is a defendant-specific enforcement action page derived from [[us-v-yunhe-wang-911-s5]]. It captures the prosecutorial or seizure stage reflected in the linked case record and preserves the operation-side catalog entry for this follow-on action.
+This domestic-only U.S. follow-on record has been absorbed into the canonical case page [[us-v-yunhe-wang-911-s5]]. No visible cross-border mechanism is documented, so it is not treated as a separate international-cooperation operation.
 
-## Background
+## Canonical Record
 
-The underlying public case record identifies YunHe Wang (911 S5 Botnet) as the focal enforcement target. This page exists to represent the concrete enforcement action in the operations catalog without duplicating the deeper procedural detail already maintained on the case page.
-
-## Participating Parties
-
-- Lead agency: [[fbi-cyber-division]]
-- Jurisdiction country: [[united-states]]
-
-## Results and Impact
-
-- Operation type: `indictment`
-- Case anchor: [[us-v-yunhe-wang-911-s5]]
-- Source coverage: 1 official or catalogued source page(s)
+- [[us-v-yunhe-wang-911-s5]]
 
 ## References
 
 | # | Source | Publisher | Date | URL |
 |---|---|---|---|---|
-| [1] | United States v. YunHe Wang (911 S5 Botnet) | US DOJ | 2024-05-22 | https://www.justice.gov/archives/opa/pr/justice-department-leads-effort-among-multinational-partners-dismantle-worlds-largest-botnet |
+| [1] | Page not found | US DOJ | 2024-05-22 | https://www.justice.gov/archives/opa/pr/justice-department-leads-effort-among-multinational-partners-dismantle-worlds-largest-botnet |

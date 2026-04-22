@@ -3,19 +3,19 @@ type: operation
 title: "Scott Quinn Berkett Enforcement Action"
 aliases:
   - "United States v. Scott Quinn Berkett"
-case_id: "CYB-FUP-183"
+case_id: CYB-FUP-183
 period: 2
-operation_role: "follow-on"
+operation_role: follow-on
 parent_operation: ""
-operation_type: "prosecution"
-status: "completed"
+operation_type: prosecution
+status: absorbed
 enforcement_type:
   - arrest
-outcome: "success"
+outcome: success
 timeframe:
-  announced: "2022-09-12"
-  start: "2022"
-  end: "2022-09-12"
+  announced: 2022-09-12
+  start: 2022
+  end: 2022-09-12
   ongoing: false
 crime_type: "[[online-fraud-ic]]"
 crime_types:
@@ -45,41 +45,34 @@ results:
   victims_notified: 0
   other:
     - "Defendant-specific follow-on action derived from [[us-v-scott-quinn-berkett]]"
-edges: []
+edges:
+  []
 credibility_index: 4.0
 source_tier: 1
-missing_fields: []
+missing_fields:
+  []
 related_cases:
   - "[[us-v-scott-quinn-berkett]]"
-related_operations: []
-challenges_encountered: []
-lessons_learned: []
+related_operations:
+  []
+challenges_encountered:
+  []
+lessons_learned:
+  []
 source_count: 1
 sources:
   - "[[2026-04-18_justice-gov_beverly-hills-man-sentenced-5-years-federal-prison-attempting-hire-hitman-kill-woman-he]]"
-summary: "Scott Quinn Berkett Enforcement Action is a defendant-specific enforcement action page derived from [[us-v-scott-quinn-berkett]]."
+summary: "This domestic-only U.S. follow-on record has been absorbed into the canonical case page [[us-v-scott-quinn-berkett]]. No visible cross-border mechanism is documented, so it is not treated as a separate international-cooperation operation."
 created: 2026-04-18
-updated: 2026-04-18
+updated: 2026-04-22
 ---
-
 ## Summary
 
-Scott Quinn Berkett Enforcement Action is a defendant-specific enforcement action page derived from [[us-v-scott-quinn-berkett]]. It captures the prosecutorial or seizure stage reflected in the linked case record and preserves the operation-side catalog entry for this follow-on action.
+This domestic-only U.S. follow-on record has been absorbed into the canonical case page [[us-v-scott-quinn-berkett]]. No visible cross-border mechanism is documented, so it is not treated as a separate international-cooperation operation.
 
-## Background
+## Canonical Record
 
-The underlying public case record identifies Scott Quinn Berkett as the focal enforcement target. This page exists to represent the concrete enforcement action in the operations catalog without duplicating the deeper procedural detail already maintained on the case page.
-
-## Participating Parties
-
-- Lead agency: [[us-doj]]
-- Jurisdiction country: [[united-states]]
-
-## Results and Impact
-
-- Operation type: `prosecution`
-- Case anchor: [[us-v-scott-quinn-berkett]]
-- Source coverage: 1 official or catalogued source page(s)
+- [[us-v-scott-quinn-berkett]]
 
 ## References
 

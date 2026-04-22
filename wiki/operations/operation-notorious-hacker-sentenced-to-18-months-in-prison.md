@@ -3,19 +3,19 @@ type: operation
 title: "Notorious Hacker Sentenced to 18 Months in Prison Enforcement Action"
 aliases:
   - "Notorious Hacker Sentenced to 18 Months in Prison"
-case_id: "CYB-FUP-1072"
+case_id: CYB-FUP-1072
 period: 3
-operation_role: "follow-on"
+operation_role: follow-on
 parent_operation: ""
-operation_type: "sentencing"
-status: "completed"
+operation_type: sentencing
+status: absorbed
 enforcement_type:
   - sentencing
-outcome: "success"
+outcome: success
 timeframe:
-  announced: "2023-11-15"
-  start: "2023"
-  end: "2023-11-15"
+  announced: 2023-11-15
+  start: 2023
+  end: 2023-11-15
   ongoing: false
 crime_type: "[[malware-ic]]"
 crime_types:
@@ -45,41 +45,34 @@ results:
   victims_notified: 0
   other:
     - "Defendant-specific follow-on action derived from [[notorious-hacker-sentenced-to-18-months-in-prison]]"
-edges: []
+edges:
+  []
 credibility_index: 4.0
 source_tier: 1
-missing_fields: []
+missing_fields:
+  []
 related_cases:
   - "[[notorious-hacker-sentenced-to-18-months-in-prison]]"
-related_operations: []
-challenges_encountered: []
-lessons_learned: []
+related_operations:
+  []
+challenges_encountered:
+  []
+lessons_learned:
+  []
 source_count: 1
 sources:
   - "[[2026-04-18_justice-gov_notorious-hacker-sentenced-18-months-prison]]"
-summary: "Notorious Hacker Sentenced to 18 Months in Prison Enforcement Action is a defendant-specific enforcement action page derived from [[notorious-hacker-sentenced-to-18-months-in-prison]]."
+summary: "This domestic-only U.S. follow-on record has been absorbed into the canonical case page [[notorious-hacker-sentenced-to-18-months-in-prison]]. No visible cross-border mechanism is documented, so it is not treated as a separate international-cooperation operation."
 created: 2026-04-18
-updated: 2026-04-18
+updated: 2026-04-22
 ---
-
 ## Summary
 
-Notorious Hacker Sentenced to 18 Months in Prison Enforcement Action is a defendant-specific enforcement action page derived from [[notorious-hacker-sentenced-to-18-months-in-prison]]. It captures the prosecutorial or seizure stage reflected in the linked case record and preserves the operation-side catalog entry for this follow-on action.
+This domestic-only U.S. follow-on record has been absorbed into the canonical case page [[notorious-hacker-sentenced-to-18-months-in-prison]]. No visible cross-border mechanism is documented, so it is not treated as a separate international-cooperation operation.
 
-## Background
+## Canonical Record
 
-The underlying public case record identifies Notorious Hacker Sentenced to 18 Months in Prison as the focal enforcement target. This page exists to represent the concrete enforcement action in the operations catalog without duplicating the deeper procedural detail already maintained on the case page.
-
-## Participating Parties
-
-- Lead agency: [[us-doj]]
-- Jurisdiction country: [[united-states]]
-
-## Results and Impact
-
-- Operation type: `sentencing`
-- Case anchor: [[notorious-hacker-sentenced-to-18-months-in-prison]]
-- Source coverage: 1 official or catalogued source page(s)
+- [[notorious-hacker-sentenced-to-18-months-in-prison]]
 
 ## References
 

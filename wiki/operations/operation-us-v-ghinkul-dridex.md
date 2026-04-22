@@ -6,7 +6,7 @@ aliases:
 case_id: CYB-FUP-036
 period: 1
 operation_type: sentencing
-status: completed
+status: absorbed
 enforcement_type:
   - sentencing
 outcome: success
@@ -57,10 +57,10 @@ source_count: 1
 sources:
   - "[[2015-10-13_wdpa_ghinkul-bugat-dridex-indictment]]"
 created: 2026-04-17
-updated: 2026-04-17
+updated: 2026-04-22
 operation_role: follow-on
 parent_operation: "[[dridex-operations]]"
-summary: "Ghinkul (Bugat/Dridex) Enforcement Action is a defendant-specific enforcement action page derived from [[us-v-ghinkul-dridex]]. It captures the prosecutorial or seizure stage reflected in the linked case record and preserves the operation-side catalog entry for this follow-on action."
+summary: "This domestic-only U.S. follow-on record has been absorbed into the canonical case page [[us-v-ghinkul-dridex]]. No visible cross-border mechanism is documented, so it is not treated as a separate international-cooperation operation."
 jurisdictions:
   - "[[united-states]]"
 organizations:
@@ -70,25 +70,14 @@ crime_types:
 ---
 ## Summary
 
-Ghinkul (Bugat/Dridex) Enforcement Action is a defendant-specific enforcement action page derived from [[us-v-ghinkul-dridex]]. It captures the prosecutorial or seizure stage reflected in the linked case record and preserves the operation-side catalog entry for this follow-on action.
+This domestic-only U.S. follow-on record has been absorbed into the canonical case page [[us-v-ghinkul-dridex]]. No visible cross-border mechanism is documented, so it is not treated as a separate international-cooperation operation.
 
-## Background
+## Canonical Record
 
-The underlying public case record identifies Ghinkul (Bugat/Dridex) as the focal enforcement target. This page exists to represent the concrete enforcement action in the operations catalog without duplicating the deeper procedural detail already maintained on the case page.
-
-## Participating Parties
-
-- Lead agency: [[fbi-cyber-division]]
-- Jurisdiction country: [[united-states]]
-
-## Results and Impact
-
-- Operation type: `sentencing`
-- Case anchor: [[us-v-ghinkul-dridex]]
-- Source coverage: 1 official or catalogued source page(s)
+- [[us-v-ghinkul-dridex]]
 
 ## References
 
 | # | Source | Publisher | Date | URL |
 |---|---|---|---|---|
-| [1] | United States v. Ghinkul (Bugat/Dridex Botnet) | US DOJ (W.D. Pa.) | 2015-10-13 | https://www.justice.gov/usao-wdpa/pr/major-computer-hacking-forum-dismantled |
+| [1] | Major Computer Hacking Forum Dismantled | US DOJ (W.D. Pa.) | 2015-10-13 | https://www.justice.gov/usao-wdpa/pr/major-computer-hacking-forum-dismantled |

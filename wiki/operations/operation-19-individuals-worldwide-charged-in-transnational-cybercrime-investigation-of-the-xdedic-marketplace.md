@@ -3,19 +3,19 @@ type: operation
 title: "19 Individuals Worldwide Charged In Transnational Cybercrime Investigation Of The xDedic Marketplace Enforcement Action"
 aliases:
   - "19 Individuals Worldwide Charged In Transnational Cybercrime Investigation Of The xDedic Marketplace"
-case_id: "CYB-FUP-509"
+case_id: CYB-FUP-509
 period: 3
-operation_role: "follow-on"
+operation_role: follow-on
 parent_operation: ""
-operation_type: "indictment"
-status: "ongoing"
+operation_type: indictment
+status: absorbed
 enforcement_type:
   - indictment
-outcome: "success"
+outcome: success
 timeframe:
-  announced: "2024-01-04"
-  start: "2024"
-  end: "2024-01-04"
+  announced: 2024-01-04
+  start: 2024
+  end: 2024-01-04
   ongoing: true
 crime_type: "[[online-fraud-ic]]"
 crime_types:
@@ -31,8 +31,8 @@ participating_agencies:
   - "[[us-doj]]"
 organizations:
   - "[[us-doj]]"
-legal_basis:
-mechanisms_used:
+legal_basis: ""
+mechanisms_used: ""
 results:
   arrests: 0
   indictments: 1
@@ -43,41 +43,34 @@ results:
   victims_notified: 0
   other:
     - "Defendant-specific follow-on action derived from [[19-individuals-worldwide-charged-in-transnational-cybercrime-investigation-of-the-xdedic-marketplace]]"
-edges: []
+edges:
+  []
 credibility_index: 4.0
 source_tier: 1
-missing_fields: []
+missing_fields:
+  []
 related_cases:
   - "[[19-individuals-worldwide-charged-in-transnational-cybercrime-investigation-of-the-xdedic-marketplace]]"
-related_operations: []
-challenges_encountered: []
-lessons_learned: []
+related_operations:
+  []
+challenges_encountered:
+  []
+lessons_learned:
+  []
 source_count: 1
 sources:
   - "[[2024-01-04_justice-gov_united-states-v-akinola-taylor]]"
-summary: "19 Individuals Worldwide Charged In Transnational Cybercrime Investigation Of The xDedic Marketplace Enforcement Action is a defendant-specific follow-on record derived from [[19-individuals-worldwide-charged-in-transnational-cybercrime-investigation-of-the-xdedic-marketplace]]."
+summary: "This domestic-only U.S. follow-on record has been absorbed into the canonical case page [[19-individuals-worldwide-charged-in-transnational-cybercrime-investigation-of-the-xdedic-marketplace]]. No visible cross-border mechanism is documented, so it is not treated as a separate international-cooperation operation."
 created: 2026-04-18
-updated: 2026-04-18
+updated: 2026-04-22
 ---
-
 ## Summary
 
-19 Individuals Worldwide Charged In Transnational Cybercrime Investigation Of The xDedic Marketplace Enforcement Action is a defendant-specific follow-on record derived from [[19-individuals-worldwide-charged-in-transnational-cybercrime-investigation-of-the-xdedic-marketplace]]. It preserves the catalog entry without asserting an explicit cooperation mechanism that the source does not document.
+This domestic-only U.S. follow-on record has been absorbed into the canonical case page [[19-individuals-worldwide-charged-in-transnational-cybercrime-investigation-of-the-xdedic-marketplace]]. No visible cross-border mechanism is documented, so it is not treated as a separate international-cooperation operation.
 
-## Background
+## Canonical Record
 
-The underlying public case record identifies 19 Individuals Worldwide Charged In Transnational Cybercrime Investigation Of The xDedic Marketplace as the focal enforcement target. This page exists to represent the concrete enforcement action in the operations catalog without duplicating the deeper procedural detail already maintained on the case page.
-
-## Participating Parties
-
-- Lead agency: [[us-doj]]
-- Jurisdiction country: [[united-states]]
-
-## Results and Impact
-
-- Operation type: `indictment`
-- Case anchor: [[19-individuals-worldwide-charged-in-transnational-cybercrime-investigation-of-the-xdedic-marketplace]]
-- Source coverage: 1 official or catalogued source page(s)
+- [[19-individuals-worldwide-charged-in-transnational-cybercrime-investigation-of-the-xdedic-marketplace]]
 
 ## References
 

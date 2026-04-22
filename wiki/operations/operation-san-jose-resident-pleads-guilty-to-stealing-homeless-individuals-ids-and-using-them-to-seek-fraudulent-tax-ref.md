@@ -3,19 +3,19 @@ type: operation
 title: "San Jose Resident Pleads Guilty To Stealing Homeless Individuals’ IDs And Using Them To Seek Fraudulent Tax Refunds Enforcement Action"
 aliases:
   - "San Jose Resident Pleads Guilty To Stealing Homeless Individuals’ IDs And Using Them To Seek Fraudulent Tax Refunds"
-case_id: "CYB-FUP-735"
+case_id: CYB-FUP-735
 period: 1
-operation_role: "follow-on"
+operation_role: follow-on
 parent_operation: ""
-operation_type: "prosecution"
-status: "completed"
+operation_type: prosecution
+status: absorbed
 enforcement_type:
   - arrest
-outcome: "success"
+outcome: success
 timeframe:
-  announced: "2017-06-27"
-  start: "2017"
-  end: "2017-06-27"
+  announced: 2017-06-27
+  start: 2017
+  end: 2017-06-27
   ongoing: false
 crime_type: "[[online-fraud-ic]]"
 crime_types:
@@ -45,41 +45,34 @@ results:
   victims_notified: 0
   other:
     - "Defendant-specific follow-on action derived from [[san-jose-resident-pleads-guilty-to-stealing-homeless-individuals-ids-and-using-them-to-seek-fraudulent-tax-ref]]"
-edges: []
+edges:
+  []
 credibility_index: 4.0
 source_tier: 1
-missing_fields: []
+missing_fields:
+  []
 related_cases:
   - "[[san-jose-resident-pleads-guilty-to-stealing-homeless-individuals-ids-and-using-them-to-seek-fraudulent-tax-ref]]"
-related_operations: []
-challenges_encountered: []
-lessons_learned: []
+related_operations:
+  []
+challenges_encountered:
+  []
+lessons_learned:
+  []
 source_count: 1
 sources:
   - "[[2026-04-18_justice-gov_san-jose-resident-pleads-guilty-stealing-homeless-individuals-ids-and-using-them-seek]]"
-summary: "San Jose Resident Pleads Guilty To Stealing Homeless Individuals’ IDs And Using Them To Seek Fraudulent Tax Refunds Enforcement Action is a defendant-specific enforcement action page derived from [[san-jose-resident-pleads-guilty-to-stealing-homeless-individuals-ids-and-using-them-to-seek-fraudulent-tax-ref]]."
+summary: "This domestic-only U.S. follow-on record has been absorbed into the canonical case page [[san-jose-resident-pleads-guilty-to-stealing-homeless-individuals-ids-and-using-them-to-seek-fraudulent-tax-ref]]. No visible cross-border mechanism is documented, so it is not treated as a separate international-cooperation operation."
 created: 2026-04-18
-updated: 2026-04-18
+updated: 2026-04-22
 ---
-
 ## Summary
 
-San Jose Resident Pleads Guilty To Stealing Homeless Individuals’ IDs And Using Them To Seek Fraudulent Tax Refunds Enforcement Action is a defendant-specific enforcement action page derived from [[san-jose-resident-pleads-guilty-to-stealing-homeless-individuals-ids-and-using-them-to-seek-fraudulent-tax-ref]]. It captures the prosecutorial or seizure stage reflected in the linked case record and preserves the operation-side catalog entry for this follow-on action.
+This domestic-only U.S. follow-on record has been absorbed into the canonical case page [[san-jose-resident-pleads-guilty-to-stealing-homeless-individuals-ids-and-using-them-to-seek-fraudulent-tax-ref]]. No visible cross-border mechanism is documented, so it is not treated as a separate international-cooperation operation.
 
-## Background
+## Canonical Record
 
-The underlying public case record identifies San Jose Resident Pleads Guilty To Stealing Homeless Individuals’ IDs And Using Them To Seek Fraudulent Tax Refunds as the focal enforcement target. This page exists to represent the concrete enforcement action in the operations catalog without duplicating the deeper procedural detail already maintained on the case page.
-
-## Participating Parties
-
-- Lead agency: [[us-doj]]
-- Jurisdiction country: [[united-states]]
-
-## Results and Impact
-
-- Operation type: `prosecution`
-- Case anchor: [[san-jose-resident-pleads-guilty-to-stealing-homeless-individuals-ids-and-using-them-to-seek-fraudulent-tax-ref]]
-- Source coverage: 1 official or catalogued source page(s)
+- [[san-jose-resident-pleads-guilty-to-stealing-homeless-individuals-ids-and-using-them-to-seek-fraudulent-tax-ref]]
 
 ## References
 

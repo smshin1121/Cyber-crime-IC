@@ -6,7 +6,7 @@ aliases:
 case_id: CYB-FUP-003
 period: 3
 operation_type: prosecution
-status: completed
+status: absorbed
 enforcement_type:
   - arrest
 outcome: success
@@ -57,10 +57,10 @@ source_count: 1
 sources:
   - "[[2025-06-04_edva_bidencash-marketplace-seizure]]"
 created: 2026-04-17
-updated: 2026-04-17
+updated: 2026-04-22
 operation_role: follow-on
 parent_operation: "[[bidencash-takedown]]"
-summary: "Seizure of BidenCash Marketplace Domains Enforcement Action is a defendant-specific enforcement action page derived from [[in-re-bidencash-marketplace-seizure]]. It captures the prosecutorial or seizure stage reflected in the linked case record and preserves the operation-side catalog entry for this follow-on action."
+summary: "This domestic-only U.S. follow-on record has been absorbed into the canonical case page [[in-re-bidencash-marketplace-seizure]]. No visible cross-border mechanism is documented, so it is not treated as a separate international-cooperation operation."
 jurisdictions:
   - "[[united-states]]"
 organizations:
@@ -70,25 +70,14 @@ crime_types:
 ---
 ## Summary
 
-Seizure of BidenCash Marketplace Domains Enforcement Action is a defendant-specific enforcement action page derived from [[in-re-bidencash-marketplace-seizure]]. It captures the prosecutorial or seizure stage reflected in the linked case record and preserves the operation-side catalog entry for this follow-on action.
+This domestic-only U.S. follow-on record has been absorbed into the canonical case page [[in-re-bidencash-marketplace-seizure]]. No visible cross-border mechanism is documented, so it is not treated as a separate international-cooperation operation.
 
-## Background
+## Canonical Record
 
-The underlying public case record identifies Seizure of BidenCash Marketplace Domains as the focal enforcement target. This page exists to represent the concrete enforcement action in the operations catalog without duplicating the deeper procedural detail already maintained on the case page.
-
-## Participating Parties
-
-- Lead agency: [[us-secret-service]]
-- Jurisdiction country: [[united-states]]
-
-## Results and Impact
-
-- Operation type: `prosecution`
-- Case anchor: [[in-re-bidencash-marketplace-seizure]]
-- Source coverage: 1 official or catalogued source page(s)
+- [[in-re-bidencash-marketplace-seizure]]
 
 ## References
 
 | # | Source | Publisher | Date | URL |
 |---|---|---|---|---|
-| [1] | In re Seizure of BidenCash Marketplace Domains and Cryptocurrency | US DOJ (Eastern District of Virginia) | 2025-06-04 | https://www.justice.gov/usao-edva/pr/us-government-seizes-approximately-145-criminal-marketplace-domains |
+| [1] | U.S. Government seizes approximately 145 criminal marketplace domains | US DOJ (Eastern District of Virginia) | 2025-06-04 | https://www.justice.gov/usao-edva/pr/us-government-seizes-approximately-145-criminal-marketplace-domains |

@@ -8,7 +8,7 @@ period: 1
 operation_role: "follow-on"
 parent_operation: "[[dridex-operations]]"
 operation_type: "indictment"
-status: "ongoing"
+status: "absorbed"
 enforcement_type:
   - indictment
 outcome: "success"
@@ -69,29 +69,18 @@ source_count: 2
 sources:
   - "[[2019-12-05_wdpa_yakubets-turashev-dridex-indictment]]"
   - "[[2015-10-13_wdpa_ghinkul-bugat-dridex-indictment]]"
-summary: "Yakubets and Turashev (Dridex/Evil Corp) Enforcement Action is a defendant-specific enforcement action page derived from [[us-v-yakubets-dridex]]."
+summary: "This domestic-only U.S. follow-on record has been absorbed into the canonical case page [[us-v-yakubets-dridex]]. No visible cross-border mechanism is documented at the operation-page level, so it is not treated as a separate international-cooperation operation."
 created: 2026-04-17
 updated: 2026-04-17
 ---
 
 ## Summary
 
-Yakubets and Turashev (Dridex/Evil Corp) Enforcement Action is a defendant-specific enforcement action page derived from [[us-v-yakubets-dridex]]. It captures the prosecutorial or seizure stage reflected in the linked case record and preserves the operation-side catalog entry for this follow-on action.
+This domestic-only U.S. follow-on record has been absorbed into the canonical case page [[us-v-yakubets-dridex]]. No visible cross-border mechanism is documented at the operation-page level, so it is not treated as a separate international-cooperation operation.
 
-## Background
+## Canonical Record
 
-The underlying public case record identifies Yakubets and Turashev (Dridex/Evil Corp) as the focal enforcement target. This page exists to represent the concrete enforcement action in the operations catalog without duplicating the deeper procedural detail already maintained on the case page.
-
-## Participating Parties
-
-- Lead agency: [[fbi-cyber-division]]
-- Jurisdiction country: [[united-states]]
-
-## Results and Impact
-
-- Operation type: `indictment`
-- Case anchor: [[us-v-yakubets-dridex]]
-- Source coverage: 2 official or catalogued source page(s)
+- [[us-v-yakubets-dridex]]
 
 ## References
 

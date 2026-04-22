@@ -8,7 +8,7 @@ period: 1
 operation_role: follow-on
 parent_operation: ""
 operation_type: prosecution
-status: completed
+status: absorbed
 enforcement_type:
   - arrest
 outcome: success
@@ -46,47 +46,36 @@ results:
   other:
     - "Defendant-specific follow-on action derived from [[us-v-adam-lemar-miles]]"
 edges:
-  []
+
 credibility_index: 4.0
 source_tier: 1
 missing_fields:
-  []
+
 related_cases:
   - "[[us-v-adam-lemar-miles]]"
 related_operations:
-  []
+
 challenges_encountered:
-  []
+
 lessons_learned:
-  []
+
 source_count: 1
 sources:
   - "[[2018-07-13_justice-gov_united-states-v-adam-lemar-miles]]"
-summary: "Adam Lemar Miles Enforcement Action is a defendant-specific enforcement action page derived from [[us-v-adam-lemar-miles]]."
+summary: "This domestic-only U.S. follow-on record has been absorbed into the canonical case page [[us-v-adam-lemar-miles]]. No visible cross-border mechanism is documented, so it is not treated as a separate international-cooperation operation."
 created: 2026-04-17
-updated: 2026-04-17
+updated: 2026-04-22
 ---
 ## Summary
 
-Adam Lemar Miles Enforcement Action is a defendant-specific enforcement action page derived from [[us-v-adam-lemar-miles]]. It captures the prosecutorial or seizure stage reflected in the linked case record and preserves the operation-side catalog entry for this follow-on action.
+This domestic-only U.S. follow-on record has been absorbed into the canonical case page [[us-v-adam-lemar-miles]]. No visible cross-border mechanism is documented, so it is not treated as a separate international-cooperation operation.
 
-## Background
+## Canonical Record
 
-The underlying public case record identifies Adam Lemar Miles as the focal enforcement target. This page exists to represent the concrete enforcement action in the operations catalog without duplicating the deeper procedural detail already maintained on the case page.
-
-## Participating Parties
-
-- Lead agency: [[us-doj]]
-- Jurisdiction country: [[united-states]]
-
-## Results and Impact
-
-- Operation type: `prosecution`
-- Case anchor: [[us-v-adam-lemar-miles]]
-- Source coverage: 1 official or catalogued source page(s)
+- [[us-v-adam-lemar-miles]]
 
 ## References
 
 | # | Source | Publisher | Date | URL |
 |---|---|---|---|---|
-| [1] | United States v. Adam Lemar Miles | US DOJ (Southern District of Florida) | 2018-07-13 | https://www.justice.gov/usao-sdfl/pr/dark-web-vendor-sentenced-108-months-prison-narcotics-trafficking-and-money-laundering |
+| [1] | Dark Web Vendor Sentenced to 108 Months in Prison for Narcotics Trafficking and Money Laundering Charges | US DOJ (Southern District of Florida) | 2018-07-13 | https://www.justice.gov/usao-sdfl/pr/dark-web-vendor-sentenced-108-months-prison-narcotics-trafficking-and-money-laundering |

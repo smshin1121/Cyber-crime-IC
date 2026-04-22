@@ -8,7 +8,7 @@ period: 3
 operation_role: follow-on
 parent_operation: ""
 operation_type: prosecution
-status: completed
+status: absorbed
 enforcement_type:
   - arrest
 outcome: success
@@ -46,47 +46,36 @@ results:
   other:
     - "Defendant-specific follow-on action derived from [[us-v-dominick-jeffrey-aragon]]"
 edges:
-  []
+
 credibility_index: 4.0
 source_tier: 1
 missing_fields:
-  []
+
 related_cases:
   - "[[us-v-dominick-jeffrey-aragon]]"
 related_operations:
-  []
+
 challenges_encountered:
-  []
+
 lessons_learned:
-  []
+
 source_count: 1
 sources:
   - "[[2026-01-16_justice-gov_united-states-v-dominick-jeffrey-aragon]]"
-summary: "Dominick Jeffrey Aragon Enforcement Action is a defendant-specific enforcement action page derived from [[us-v-dominick-jeffrey-aragon]]."
+summary: "This domestic-only U.S. follow-on record has been absorbed into the canonical case page [[us-v-dominick-jeffrey-aragon]]. No visible cross-border mechanism is documented, so it is not treated as a separate international-cooperation operation."
 created: 2026-04-17
-updated: 2026-04-17
+updated: 2026-04-22
 ---
 ## Summary
 
-Dominick Jeffrey Aragon Enforcement Action is a defendant-specific enforcement action page derived from [[us-v-dominick-jeffrey-aragon]]. It captures the prosecutorial or seizure stage reflected in the linked case record and preserves the operation-side catalog entry for this follow-on action.
+This domestic-only U.S. follow-on record has been absorbed into the canonical case page [[us-v-dominick-jeffrey-aragon]]. No visible cross-border mechanism is documented, so it is not treated as a separate international-cooperation operation.
 
-## Background
+## Canonical Record
 
-The underlying public case record identifies Dominick Jeffrey Aragon as the focal enforcement target. This page exists to represent the concrete enforcement action in the operations catalog without duplicating the deeper procedural detail already maintained on the case page.
-
-## Participating Parties
-
-- Lead agency: [[us-doj]]
-- Jurisdiction country: [[united-states]]
-
-## Results and Impact
-
-- Operation type: `prosecution`
-- Case anchor: [[us-v-dominick-jeffrey-aragon]]
-- Source coverage: 1 official or catalogued source page(s)
+- [[us-v-dominick-jeffrey-aragon]]
 
 ## References
 
 | # | Source | Publisher | Date | URL |
 |---|---|---|---|---|
-| [1] | United States v. Dominick Jeffrey Aragon | US DOJ (District of Oregon) | 2026-01-16 | https://www.justice.gov/usao-or/pr/oregon-man-sentenced-federal-prison-attempting-sell-cocaine-purchased-dark-web |
+| [1] | Oregon Man Sentenced to Federal Prison for Attempting to Sell Cocaine Purchased from the Dark Web | US DOJ (District of Oregon) | 2026-01-16 | https://www.justice.gov/usao-or/pr/oregon-man-sentenced-federal-prison-attempting-sell-cocaine-purchased-dark-web |

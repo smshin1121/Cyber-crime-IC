@@ -68,6 +68,7 @@ DOJ_DELAY = 1.5
 MAX_BACKOFF = 32  # max exponential backoff seconds
 TODAY = datetime.now().strftime("%Y-%m-%d")
 COOLDOWN_DAYS = 30
+JINA_READER_PREFIX = "https://r.jina.ai/"
 
 # US-related lead agencies (for priority scoring)
 US_AGENCIES = frozenset({
@@ -89,6 +90,17 @@ CASE_NUMBER_RE = re.compile(
 DEFENDANT_RE = re.compile(
     r"(?:United States|U\.S\.|Government)\s+v\.\s+([A-Z][a-z]+(?:\s+[A-Z][a-z]+)*)",
     re.IGNORECASE,
+)
+
+DOJ_CONTEXT_NAME_PATTERNS = (
+    re.compile(
+        r"according to court documents[, ]+([A-Z][a-z]+(?:\s+[A-Z][a-z]+){1,3})",
+        re.IGNORECASE,
+    ),
+    re.compile(
+        r"(?:defendant|suspect|accused|operator|national)\s+([A-Z][a-z]+(?:\s+[A-Z][a-z]+){1,3})",
+        re.IGNORECASE,
+    ),
 )
 
 # Proper name pattern for extracting names from target_entity
@@ -207,6 +219,8 @@ class OperationInfo:
     body_text: str
     case_numbers: tuple[str, ...]
     defendant_names: tuple[str, ...]
+    source_refs: tuple[str, ...]
+    related_case_refs: tuple[str, ...]
     priority_score: int
 
 
@@ -255,6 +269,33 @@ def _get_nested_int(meta: dict[str, Any], *keys: str, default: int = 0) -> int:
         return default
 
 
+def extract_case_numbers_from_text(text: str) -> tuple[str, ...]:
+    """Extract normalized PACER-style case numbers from free text."""
+    patterns = [
+        CASE_NUMBER_RE,
+        re.compile(
+            r"\b(?:Case|Criminal Case|Criminal No\.?|Case No\.?|No\.)\s*[:#]?\s*"
+            r"(\d{1,2}:\d{2}-(?:cr|cv|mj)-\d{1,6}(?:-\w+)*)\b",
+            re.IGNORECASE,
+        ),
+        re.compile(
+            r"\b(\d{1,2}:\d{2}-(?:cr|cv|mj)-\d{1,6}(?:-[A-Za-z0-9]+)*)\b",
+            re.IGNORECASE,
+        ),
+    ]
+    found: list[str] = []
+    seen: set[str] = set()
+    for pattern in patterns:
+        for match in pattern.findall(text or ""):
+            case_number = str(match).strip()
+            normalized = case_number.lower()
+            if normalized in seen:
+                continue
+            seen.add(normalized)
+            found.append(case_number)
+    return tuple(found)
+
+
 def load_operation(slug: str) -> OperationInfo | None:
     """Load operation frontmatter and extract search-relevant fields."""
     filepath = WIKI_OPS_DIR / f"{slug}.md"
@@ -290,9 +331,11 @@ def load_operation(slug: str) -> OperationInfo | None:
 
     # Results
     indictments = _get_nested_int(meta, "results", "indictments")
+    source_refs = tuple(_get_list(meta, "sources"))
+    related_case_refs = tuple(_get_list(meta, "related_cases"))
 
     # Extract case numbers from body
-    case_numbers = tuple(CASE_NUMBER_RE.findall(body))
+    case_numbers = extract_case_numbers_from_text(body)
 
     # Extract defendant names from body and target_entity
     defendant_matches = DEFENDANT_RE.findall(body)
@@ -343,6 +386,8 @@ def load_operation(slug: str) -> OperationInfo | None:
         body_text=body,
         case_numbers=case_numbers,
         defendant_names=defendant_names,
+        source_refs=source_refs,
+        related_case_refs=related_case_refs,
         priority_score=score,
     )
 
@@ -528,13 +573,65 @@ def _http_get_html(url: str, timeout: int = 30) -> str | None:
         return None
 
 
+def _looks_blocked_or_empty(body: str) -> bool:
+    """Detect common WAF/challenge/empty-page responses."""
+    body_lower = body.lower()
+    if len(body.strip()) < 200:
+        return True
+    blocked_markers = (
+        "checking your browser",
+        "verify you are human",
+        "enable javascript",
+        "captcha",
+        "access denied",
+        "just a moment",
+        "cf-ray",
+        "datadome",
+        "__cf_bm",
+    )
+    return any(marker in body_lower for marker in blocked_markers)
+
+
+def _http_get_jina_text(url: str, timeout: int = 30) -> str | None:
+    """Fetch a text-rendered page via Jina Reader, following Insane Search fallback."""
+    jina_url = f"{JINA_READER_PREFIX}{url}"
+    req = Request(jina_url, headers={
+        "User-Agent": (
+            "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 "
+            "(KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
+        ),
+        "Accept": "text/plain, text/markdown, application/json",
+        "X-With-Links": "true",
+    })
+    try:
+        with urlopen(req, timeout=timeout) as resp:
+            return resp.read().decode("utf-8", errors="replace")
+    except (HTTPError, URLError, OSError) as e:
+        print(f"    [WARN] Jina fallback failed: {e}")
+        return None
+
+
+def _get_doj_page_text(press_release_url: str) -> str | None:
+    """Fetch DOJ page text using direct HTML first, then Jina Reader fallback."""
+    body = _http_get_html(press_release_url)
+    if body and not _looks_blocked_or_empty(body):
+        return body
+
+    if body:
+        print("    [INFO] DOJ page looked blocked/empty; trying Jina fallback")
+    return _http_get_jina_text(press_release_url)
+
+
 def search_courtlistener(
     query: str,
     query_label: str,
     date_after: str = "",
+    result_type: str | None = "o",
 ) -> list[CourtDocument]:
     """Search CourtListener API for court opinions matching query."""
-    params = f"q={quote_plus(query)}&type=o&format=json&order_by=dateFiled+desc"
+    params = f"q={quote_plus(query)}&format=json&order_by=dateFiled+desc"
+    if result_type:
+        params += f"&type={quote_plus(result_type)}"
     if date_after:
         params += f"&filed_after={quote_plus(date_after)}"
 
@@ -580,8 +677,8 @@ def search_courtlistener(
             continue
 
         doc_type = _classify_document_type(f"{case_name} {snippet}")
-        case_num_match = CASE_NUMBER_RE.search(f"{case_name} {snippet}")
-        case_number = case_num_match.group(1) if case_num_match else ""
+        case_numbers = extract_case_numbers_from_text(f"{case_name} {snippet}")
+        case_number = case_numbers[0] if case_numbers else ""
 
         results.append(CourtDocument(
             case_name=case_name,
@@ -603,7 +700,7 @@ def search_courtlistener(
 
 def extract_doj_pdfs(press_release_url: str) -> list[dict[str, str]]:
     """Extract PDF links from a DOJ press release page."""
-    body = _http_get_html(press_release_url)
+    body = _get_doj_page_text(press_release_url)
     if body is None:
         return []
 
@@ -613,6 +710,14 @@ def extract_doj_pdfs(press_release_url: str) -> list[dict[str, str]]:
         re.IGNORECASE,
     )
     matches = pdf_re.findall(body)
+
+    markdown_pdf_re = re.compile(
+        r"\]\((https?://[^)\s]+\.pdf|/[^)\s]+\.pdf)\)",
+        re.IGNORECASE,
+    )
+    for match in markdown_pdf_re.findall(body):
+        if match not in matches:
+            matches.append(match)
 
     # Also check for relative PDF links
     rel_pdf_re = re.compile(
@@ -643,6 +748,173 @@ def extract_doj_pdfs(press_release_url: str) -> list[dict[str, str]]:
         })
 
     return results
+
+
+def _strip_html_to_text(body: str) -> str:
+    """Convert HTML to plain text for regex extraction."""
+    body = re.sub(r"<script\b[^>]*>.*?</script>", " ", body, flags=re.IGNORECASE | re.DOTALL)
+    body = re.sub(r"<style\b[^>]*>.*?</style>", " ", body, flags=re.IGNORECASE | re.DOTALL)
+    body = re.sub(r"<[^>]+>", " ", body)
+    body = html.unescape(body)
+    body = re.sub(r"\s+", " ", body)
+    return body.strip()
+
+
+def _extract_doj_defendant_names(text: str) -> tuple[str, ...]:
+    """Extract likely defendant full names from DOJ press-release text."""
+    names: list[str] = []
+    seen: set[str] = set()
+
+    for pattern in DOJ_CONTEXT_NAME_PATTERNS:
+        for match in pattern.findall(text):
+            name = match.strip()
+            if " " not in name or len(name) < 6:
+                continue
+            lowered = name.lower()
+            if lowered not in seen:
+                seen.add(lowered)
+                names.append(name)
+
+    for match in DEFENDANT_RE.findall(text):
+        name = match.strip()
+        if " " not in name:
+            continue
+        lowered = name.lower()
+        if lowered not in seen:
+            seen.add(lowered)
+            names.append(name)
+
+    name_re = re.compile(
+        r"\b([A-Z][a-z]+(?:\s+[A-Z][a-z]+){1,3})\b"
+    )
+    skip_tokens = {
+        "United States", "Eastern District", "Western District", "Southern District",
+        "Northern District", "Department Justice", "Federal Bureau",
+        "Office Public", "District Court", "Attorney Office", "Justice Department",
+        "Federal Investigation", "Court Documents",
+    }
+    for match in name_re.findall(text):
+        candidate = match.strip()
+        if candidate in skip_tokens or "District" in candidate or "Department" in candidate:
+            continue
+        lowered = candidate.lower()
+        if lowered not in seen:
+            seen.add(lowered)
+            names.append(candidate)
+
+    return tuple(names[:8])
+
+
+def extract_doj_leads(press_release_url: str) -> dict[str, Any]:
+    """Extract case-number leads from a DOJ press release page."""
+    body = _get_doj_page_text(press_release_url)
+    if body is None:
+        return {"case_numbers": (), "defendant_names": (), "pdfs": []}
+
+    text = _strip_html_to_text(body)
+    pdfs = extract_doj_pdfs(press_release_url)
+    pdf_text = " ".join(p.get("pdf_url", "") for p in pdfs)
+    case_numbers = extract_case_numbers_from_text(f"{text} {pdf_text}")
+    defendant_names = _extract_doj_defendant_names(text)
+
+    return {
+        "case_numbers": case_numbers,
+        "defendant_names": defendant_names,
+        "pdfs": pdfs,
+    }
+
+
+def _resolve_source_path_from_ref(source_ref: str) -> Path | None:
+    """Resolve a [[source-slug]] reference to a source markdown path."""
+    slug = _strip_wikilink(source_ref)
+    if not slug:
+        return None
+    source_path = PROJECT_ROOT / "wiki" / "sources" / f"{slug}.md"
+    if source_path.exists():
+        return source_path
+    return None
+
+
+def get_doj_source_urls(op: OperationInfo) -> list[str]:
+    """Resolve DOJ collection URLs from linked source pages and raw files."""
+    urls: list[str] = []
+    seen: set[str] = set()
+
+    for source_ref in op.source_refs:
+        source_path = _resolve_source_path_from_ref(source_ref)
+        if source_path is None:
+            continue
+        try:
+            post = fm_load(source_path)
+        except Exception:
+            continue
+
+        collection_url = str(post.metadata.get("collection_url") or "").strip()
+        if "justice.gov" in collection_url and collection_url not in seen:
+            seen.add(collection_url)
+            urls.append(collection_url)
+
+        raw_path = str(post.metadata.get("raw_path") or "").strip()
+        if raw_path:
+            raw_file = PROJECT_ROOT / raw_path
+            if raw_file.exists():
+                try:
+                    raw_post = fm_load(raw_file)
+                except Exception:
+                    continue
+                raw_url = str(raw_post.metadata.get("collection_url") or "").strip()
+                if "justice.gov" in raw_url and raw_url not in seen:
+                    seen.add(raw_url)
+                    urls.append(raw_url)
+
+    return urls
+
+
+def get_related_case_leads(op: OperationInfo) -> dict[str, tuple[str, ...]]:
+    """Resolve case numbers and defendants from already-linked case pages."""
+    case_numbers: list[str] = []
+    defendant_names: list[str] = []
+    seen_case_numbers: set[str] = set()
+    seen_defendants: set[str] = set()
+
+    for case_ref in op.related_case_refs:
+        slug = _strip_wikilink(case_ref)
+        if not slug:
+            continue
+        case_path = WIKI_CASES_DIR / f"{slug}.md"
+        if not case_path.exists():
+            continue
+        try:
+            post = fm_load(case_path)
+        except Exception:
+            continue
+
+        meta = post.metadata
+        case_number_raw = str(meta.get("case_number") or "").strip()
+        for case_number in extract_case_numbers_from_text(case_number_raw):
+            normalized = case_number.lower()
+            if normalized not in seen_case_numbers:
+                seen_case_numbers.add(normalized)
+                case_numbers.append(case_number)
+
+        defendants = meta.get("defendants", [])
+        if isinstance(defendants, list):
+            for entry in defendants:
+                if isinstance(entry, dict):
+                    name = str(entry.get("name") or "").strip()
+                else:
+                    name = str(entry).strip()
+                if " " not in name or len(name) < 6:
+                    continue
+                lowered = name.lower()
+                if lowered not in seen_defendants:
+                    seen_defendants.add(lowered)
+                    defendant_names.append(name)
+
+    return {
+        "case_numbers": tuple(case_numbers),
+        "defendant_names": tuple(defendant_names),
+    }
 
 
 # ---------------------------------------------------------------------------
@@ -918,6 +1190,67 @@ def process_operation(
     print(f"\nProcessing: {op.slug} (score: {op.priority_score})")
 
     queries = build_queries(op)
+    extra_queries: list[tuple[str, str]] = []
+    seen_query_keys = {(label, query) for label, query in queries}
+
+    related_case_leads = get_related_case_leads(op)
+    related_case_numbers = list(related_case_leads.get("case_numbers", ()) or ())
+    related_defendants = list(related_case_leads.get("defendant_names", ()) or ())
+    if related_case_numbers or related_defendants:
+        print("  Related case leads:")
+        if related_case_numbers:
+            print(f"    case numbers: {', '.join(related_case_numbers[:4])}")
+        if related_defendants:
+            print(f"    defendants: {', '.join(related_defendants[:3])}")
+
+    for case_number in related_case_numbers:
+        key = ("case_number", case_number)
+        if key not in seen_query_keys:
+            extra_queries.append(key)
+            seen_query_keys.add(key)
+
+    for name in related_defendants:
+        query = f'"{name}" (indictment OR sentenced OR convicted OR guilty)'
+        key = ("related_case_defendant", query)
+        if key not in seen_query_keys:
+            extra_queries.append(key)
+            seen_query_keys.add(key)
+
+    doj_urls = get_doj_source_urls(op)
+    if doj_urls:
+        print(f"  DOJ lead extraction: {len(doj_urls)} source URL(s)")
+    for doj_url in doj_urls:
+        print(f"    -> {doj_url}")
+        leads = extract_doj_leads(doj_url)
+        lead_case_numbers = list(leads.get("case_numbers", ()) or ())
+        lead_defendants = list(leads.get("defendant_names", ()) or ())
+        lead_pdfs = list(leads.get("pdfs", ()) or ())
+
+        if lead_case_numbers:
+            print(f"       case numbers: {', '.join(lead_case_numbers[:4])}")
+        if lead_defendants:
+            print(f"       defendants: {', '.join(lead_defendants[:3])}")
+        if lead_pdfs:
+            print(f"       DOJ PDFs: {len(lead_pdfs)}")
+
+        for case_number in lead_case_numbers:
+            key = ("doj_case_number", case_number)
+            if key not in seen_query_keys:
+                extra_queries.append(key)
+                seen_query_keys.add(key)
+
+        for name in lead_defendants:
+            if " " not in name or len(name) < 6:
+                continue
+            query = f'"{name}" (indictment OR sentenced OR convicted OR guilty)'
+            key = ("doj_defendant", query)
+            if key not in seen_query_keys:
+                extra_queries.append(key)
+                seen_query_keys.add(key)
+
+    if extra_queries:
+        queries = extra_queries + queries
+
     if not queries:
         print("  No viable search queries generated")
         stats.zero_result_operations += 1
@@ -940,7 +1273,9 @@ def process_operation(
     for label, query in queries:
         print(f"  CourtListener [{label}]: q={query[:60]}...")
         try:
-            results = search_courtlistener(query, label, date_after)
+            result_type = None if label in {"case_number", "doj_case_number"} else "o"
+            search_after = "" if label in {"case_number", "doj_case_number"} else date_after
+            results = search_courtlistener(query, label, search_after, result_type=result_type)
         except Exception as e:
             print(f"    [ERR] {e}")
             stats.errors += 1
@@ -1061,11 +1396,28 @@ def main() -> None:
 
     # DOJ PDF extraction mode
     if args.doj_url:
-        print(f"\nExtracting PDFs from DOJ press release: {args.doj_url}")
-        pdfs = extract_doj_pdfs(args.doj_url)
+        print(f"\nExtracting DOJ leads from press release: {args.doj_url}")
+        leads = extract_doj_leads(args.doj_url)
+        case_numbers = list(leads.get("case_numbers", ()) or ())
+        defendant_names = list(leads.get("defendant_names", ()) or ())
+        pdfs = list(leads.get("pdfs", ()) or ())
+
+        if case_numbers:
+            print("  Case numbers:")
+            for case_number in case_numbers:
+                print(f"    - {case_number}")
+        else:
+            print("  No case numbers found")
+
+        if defendant_names:
+            print("  Defendant names:")
+            for name in defendant_names[:8]:
+                print(f"    - {name}")
+
         if pdfs:
+            print("  DOJ PDFs:")
             for p in pdfs:
-                print(f"  [{p['document_type']}] {p['pdf_url']}")
+                print(f"    - [{p['document_type']}] {p['pdf_url']}")
         else:
             print("  No PDFs found")
         return

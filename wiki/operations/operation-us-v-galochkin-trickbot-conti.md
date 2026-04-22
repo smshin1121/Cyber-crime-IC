@@ -6,7 +6,7 @@ aliases:
 case_id: CYB-FUP-034
 period: 3
 operation_type: indictment
-status: ongoing
+status: absorbed
 enforcement_type:
   - indictment
 outcome: success
@@ -60,7 +60,7 @@ created: 2026-04-17
 updated: 2026-04-17
 operation_role: follow-on
 parent_operation: "[[trickbot-operations]]"
-summary: "Galochkin et al. (TrickBot/Conti) Enforcement Action is a defendant-specific enforcement action page derived from [[us-v-galochkin-trickbot-conti]]. It captures the prosecutorial or seizure stage reflected in the linked case record and preserves the operation-side catalog entry for this follow-on action."
+summary: "This domestic-only U.S. follow-on record has been absorbed into the canonical case page [[us-v-galochkin-trickbot-conti]]. No visible cross-border mechanism is documented at the operation-page level, so it is not treated as a separate international-cooperation operation."
 jurisdictions:
   - "[[united-states]]"
 organizations:
@@ -70,22 +70,11 @@ crime_types:
 ---
 ## Summary
 
-Galochkin et al. (TrickBot/Conti) Enforcement Action is a defendant-specific enforcement action page derived from [[us-v-galochkin-trickbot-conti]]. It captures the prosecutorial or seizure stage reflected in the linked case record and preserves the operation-side catalog entry for this follow-on action.
+This domestic-only U.S. follow-on record has been absorbed into the canonical case page [[us-v-galochkin-trickbot-conti]]. No visible cross-border mechanism is documented at the operation-page level, so it is not treated as a separate international-cooperation operation.
 
-## Background
+## Canonical Record
 
-The underlying public case record identifies Galochkin et al. (TrickBot/Conti) as the focal enforcement target. This page exists to represent the concrete enforcement action in the operations catalog without duplicating the deeper procedural detail already maintained on the case page.
-
-## Participating Parties
-
-- Lead agency: [[fbi-cyber-division]]
-- Jurisdiction country: [[united-states]]
-
-## Results and Impact
-
-- Operation type: `indictment`
-- Case anchor: [[us-v-galochkin-trickbot-conti]]
-- Source coverage: 2 official or catalogued source page(s)
+- [[us-v-galochkin-trickbot-conti]]
 
 ## References
 

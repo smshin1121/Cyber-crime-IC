@@ -6,7 +6,7 @@ aliases:
 case_id: CYB-FUP-085
 period: 1
 operation_type: sentencing
-status: completed
+status: absorbed
 enforcement_type:
   - sentencing
 outcome: success
@@ -56,10 +56,10 @@ source_count: 1
 sources:
   - "[[2015-11-03_md_sheldon-kennedy-silk-road-sentencing]]"
 created: 2026-04-17
-updated: 2026-04-17
+updated: 2026-04-22
 operation_role: follow-on
 parent_operation: "[[silk-road-takedown]]"
-summary: "Sheldon Kennedy (Silk Road Vendor) Enforcement Action is a defendant-specific enforcement action page derived from [[us-v-sheldon-kennedy-silk-road]]. It captures the prosecutorial or seizure stage reflected in the linked case record and preserves the operation-side catalog entry for this follow-on action."
+summary: "This domestic-only U.S. follow-on record has been absorbed into the canonical case page [[us-v-sheldon-kennedy-silk-road]]. No visible cross-border mechanism is documented, so it is not treated as a separate international-cooperation operation."
 jurisdictions:
   - "[[united-states]]"
 organizations:
@@ -69,25 +69,14 @@ crime_types:
 ---
 ## Summary
 
-Sheldon Kennedy (Silk Road Vendor) Enforcement Action is a defendant-specific enforcement action page derived from [[us-v-sheldon-kennedy-silk-road]]. It captures the prosecutorial or seizure stage reflected in the linked case record and preserves the operation-side catalog entry for this follow-on action.
+This domestic-only U.S. follow-on record has been absorbed into the canonical case page [[us-v-sheldon-kennedy-silk-road]]. No visible cross-border mechanism is documented, so it is not treated as a separate international-cooperation operation.
 
-## Background
+## Canonical Record
 
-The underlying public case record identifies Sheldon Kennedy (Silk Road Vendor) as the focal enforcement target. This page exists to represent the concrete enforcement action in the operations catalog without duplicating the deeper procedural detail already maintained on the case page.
-
-## Participating Parties
-
-- Lead agency: [[us-doj]]
-- Jurisdiction country: [[united-states]]
-
-## Results and Impact
-
-- Operation type: `sentencing`
-- Case anchor: [[us-v-sheldon-kennedy-silk-road]]
-- Source coverage: 1 official or catalogued source page(s)
+- [[us-v-sheldon-kennedy-silk-road]]
 
 ## References
 
 | # | Source | Publisher | Date | URL |
 |---|---|---|---|---|
-| [1] | United States v. Sheldon Kennedy | US DOJ (District of Maryland) | 2015-11-03 | https://www.justice.gov/usao-md/pr/silk-road-vendor-sentenced-two-years-prison |
+| [1] | Silk Road Vendor Sentenced to Two Years In Prison | US DOJ (District of Maryland) | 2015-11-03 | https://www.justice.gov/usao-md/pr/silk-road-vendor-sentenced-two-years-prison |

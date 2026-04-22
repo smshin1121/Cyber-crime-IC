@@ -6,7 +6,7 @@ aliases:
 case_id: CYB-FUP-035
 period: 1
 operation_type: sentencing
-status: completed
+status: absorbed
 enforcement_type:
   - sentencing
 outcome: success
@@ -57,10 +57,10 @@ source_count: 1
 sources:
   - "[[2019-07-25_sdny_gary-davis-silk-road-sentencing]]"
 created: 2026-04-17
-updated: 2026-04-17
+updated: 2026-04-22
 operation_role: follow-on
 parent_operation: "[[silk-road-takedown]]"
-summary: "Gary Davis (Silk Road) Enforcement Action is a defendant-specific enforcement action page derived from [[us-v-gary-davis-silk-road]]. It captures the prosecutorial or seizure stage reflected in the linked case record and preserves the operation-side catalog entry for this follow-on action."
+summary: "This domestic-only U.S. follow-on record has been absorbed into the canonical case page [[us-v-gary-davis-silk-road]]. No visible cross-border mechanism is documented, so it is not treated as a separate international-cooperation operation."
 jurisdictions:
   - "[[united-states]]"
 organizations:
@@ -70,25 +70,14 @@ crime_types:
 ---
 ## Summary
 
-Gary Davis (Silk Road) Enforcement Action is a defendant-specific enforcement action page derived from [[us-v-gary-davis-silk-road]]. It captures the prosecutorial or seizure stage reflected in the linked case record and preserves the operation-side catalog entry for this follow-on action.
+This domestic-only U.S. follow-on record has been absorbed into the canonical case page [[us-v-gary-davis-silk-road]]. No visible cross-border mechanism is documented, so it is not treated as a separate international-cooperation operation.
 
-## Background
+## Canonical Record
 
-The underlying public case record identifies Gary Davis (Silk Road) as the focal enforcement target. This page exists to represent the concrete enforcement action in the operations catalog without duplicating the deeper procedural detail already maintained on the case page.
-
-## Participating Parties
-
-- Lead agency: [[us-doj]]
-- Jurisdiction country: [[united-states]]
-
-## Results and Impact
-
-- Operation type: `sentencing`
-- Case anchor: [[us-v-gary-davis-silk-road]]
-- Source coverage: 1 official or catalogued source page(s)
+- [[us-v-gary-davis-silk-road]]
 
 ## References
 
 | # | Source | Publisher | Date | URL |
 |---|---|---|---|---|
-| [1] | United States v. Gary Davis | US DOJ (Southern District of New York) | 2019-07-25 | https://www.justice.gov/usao-sdny/pr/irish-man-who-helped-operate-silk-road-website-sentenced-manhattan-federal-court-over |
+| [1] | Irish Man Who Helped Operate The “Silk Road” Website Sentenced In Manhattan Federal Court To Over Six Years In Prison | US DOJ (Southern District of New York) | 2019-07-25 | https://www.justice.gov/usao-sdny/pr/irish-man-who-helped-operate-silk-road-website-sentenced-manhattan-federal-court-over |

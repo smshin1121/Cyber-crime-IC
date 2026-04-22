@@ -6,7 +6,7 @@ aliases:
 case_id: CYB-FUP-026
 period: 3
 operation_type: sentencing
-status: completed
+status: absorbed
 enforcement_type:
   - sentencing
 outcome: success
@@ -55,10 +55,10 @@ source_count: 1
 sources:
   - "[[2024-02-05_edca_chaloner-saintillus-dark-web-sentencing]]"
 created: 2026-04-17
-updated: 2026-04-17
+updated: 2026-04-22
 operation_role: follow-on
 parent_operation: ""
-summary: "Chaloner Saintillus (Dark Web Vendor) Enforcement Action is a defendant-specific enforcement action page derived from [[us-v-chaloner-saintillus-dark-web]]. It captures the prosecutorial or seizure stage reflected in the linked case record and preserves the operation-side catalog entry for this follow-on action."
+summary: "This domestic-only U.S. follow-on record has been absorbed into the canonical case page [[us-v-chaloner-saintillus-dark-web]]. No visible cross-border mechanism is documented, so it is not treated as a separate international-cooperation operation."
 jurisdictions:
   - "[[united-states]]"
 organizations:
@@ -68,25 +68,14 @@ crime_types:
 ---
 ## Summary
 
-Chaloner Saintillus (Dark Web Vendor) Enforcement Action is a defendant-specific enforcement action page derived from [[us-v-chaloner-saintillus-dark-web]]. It captures the prosecutorial or seizure stage reflected in the linked case record and preserves the operation-side catalog entry for this follow-on action.
+This domestic-only U.S. follow-on record has been absorbed into the canonical case page [[us-v-chaloner-saintillus-dark-web]]. No visible cross-border mechanism is documented, so it is not treated as a separate international-cooperation operation.
 
-## Background
+## Canonical Record
 
-The underlying public case record identifies Chaloner Saintillus (Dark Web Vendor) as the focal enforcement target. This page exists to represent the concrete enforcement action in the operations catalog without duplicating the deeper procedural detail already maintained on the case page.
-
-## Participating Parties
-
-- Lead agency: [[us-doj]]
-- Jurisdiction country: [[united-states]]
-
-## Results and Impact
-
-- Operation type: `sentencing`
-- Case anchor: [[us-v-chaloner-saintillus-dark-web]]
-- Source coverage: 1 official or catalogued source page(s)
+- [[us-v-chaloner-saintillus-dark-web]]
 
 ## References
 
 | # | Source | Publisher | Date | URL |
 |---|---|---|---|---|
-| [1] | United States v. Chaloner Saintillus | US DOJ (Eastern District of California) | 2024-02-05 | https://www.justice.gov/usao-edca/pr/florida-man-sentenced-10-years-prison-selling-fentanyl-over-dark-web |
+| [1] | Florida Man Sentenced to 10 Years in Prison for Selling Fentanyl over the Dark Web | US DOJ (Eastern District of California) | 2024-02-05 | https://www.justice.gov/usao-edca/pr/florida-man-sentenced-10-years-prison-selling-fentanyl-over-dark-web |

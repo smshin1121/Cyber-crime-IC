@@ -6,7 +6,7 @@ aliases:
 case_id: CYB-FUP-058
 period: 1
 operation_type: sentencing
-status: completed
+status: absorbed
 enforcement_type:
   - sentencing
 outcome: success
@@ -55,10 +55,10 @@ source_count: 1
 sources:
   - "[[2014-12-18_mdfl_matthew-jones-silk-road-sentencing]]"
 created: 2026-04-17
-updated: 2026-04-17
+updated: 2026-04-22
 operation_role: follow-on
 parent_operation: "[[silk-road-takedown]]"
-summary: "Matthew Jones (Silk Road Vendor) Enforcement Action is a defendant-specific enforcement action page derived from [[us-v-matthew-jones-silk-road]]. It captures the prosecutorial or seizure stage reflected in the linked case record and preserves the operation-side catalog entry for this follow-on action."
+summary: "This domestic-only U.S. follow-on record has been absorbed into the canonical case page [[us-v-matthew-jones-silk-road]]. No visible cross-border mechanism is documented, so it is not treated as a separate international-cooperation operation."
 jurisdictions:
   - "[[united-states]]"
 organizations:
@@ -68,25 +68,14 @@ crime_types:
 ---
 ## Summary
 
-Matthew Jones (Silk Road Vendor) Enforcement Action is a defendant-specific enforcement action page derived from [[us-v-matthew-jones-silk-road]]. It captures the prosecutorial or seizure stage reflected in the linked case record and preserves the operation-side catalog entry for this follow-on action.
+This domestic-only U.S. follow-on record has been absorbed into the canonical case page [[us-v-matthew-jones-silk-road]]. No visible cross-border mechanism is documented, so it is not treated as a separate international-cooperation operation.
 
-## Background
+## Canonical Record
 
-The underlying public case record identifies Matthew Jones (Silk Road Vendor) as the focal enforcement target. This page exists to represent the concrete enforcement action in the operations catalog without duplicating the deeper procedural detail already maintained on the case page.
-
-## Participating Parties
-
-- Lead agency: [[us-doj]]
-- Jurisdiction country: [[united-states]]
-
-## Results and Impact
-
-- Operation type: `sentencing`
-- Case anchor: [[us-v-matthew-jones-silk-road]]
-- Source coverage: 1 official or catalogued source page(s)
+- [[us-v-matthew-jones-silk-road]]
 
 ## References
 
 | # | Source | Publisher | Date | URL |
 |---|---|---|---|---|
-| [1] | United States v. Matthew Jones | US DOJ (Middle District of Florida) | 2014-12-18 | https://www.justice.gov/usao-mdfl/pr/texas-business-executive-sentenced-prison-illegally-selling-oxycodone-silk-road |
+| [1] | Texas Business Executive Sentenced To Prison For Illegally Selling Oxycodone On Silk Road | US DOJ (Middle District of Florida) | 2014-12-18 | https://www.justice.gov/usao-mdfl/pr/texas-business-executive-sentenced-prison-illegally-selling-oxycodone-silk-road |

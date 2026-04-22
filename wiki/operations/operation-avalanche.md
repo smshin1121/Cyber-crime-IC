@@ -176,4 +176,6 @@ The operation also illustrates a recurring cybercrime pattern: infrastructure di
 | 2 | Avalanche network dismantled in international cyber operation | U.S. Department of Justice | repo snapshot | [[2026-04-18_justice-gov_avalanche-network-dismantled-international-cyber-operation]] |
 | 3 | Operation Avalanche: a closer look | Eurojust | 2017-04-01 | https://www.eurojust.europa.eu/publication/operation-avalanche-closer-look |
 | 4 | "Avalanche" botnet infrastructure | BSI | current | https://www.bsi.bund.de/EN/Themen/Verbraucherinnen-und-Verbraucher/Cyber-Sicherheitslage/Methoden-der-Cyber-Kriminalitaet/Botnetze/Botnetz-Avalanche/botnet-avalanche_node.html |
-| 5 | Supplementary press and technical coverage | BBC / Reuters / Kaspersky | 2016-2017 | see linked source pages |
+| 5 | Operation Avalanche supplementary coverage | BBC | 2016-2017 | see linked source page |
+| 6 | Operation Avalanche supplementary coverage | Reuters | 2016-2017 | see linked source page |
+| 7 | Operation Avalanche supplementary coverage | Kaspersky | 2016-2017 | see linked source page |

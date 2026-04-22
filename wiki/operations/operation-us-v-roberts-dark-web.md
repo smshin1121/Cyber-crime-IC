@@ -6,7 +6,7 @@ aliases:
 case_id: CYB-FUP-078
 period: 2
 operation_type: conviction
-status: completed
+status: absorbed
 enforcement_type:
   - conviction
 outcome: success
@@ -55,10 +55,10 @@ source_count: 1
 sources:
   - "[[2021-08-04_edva_roberts-darknet-drug-vendor-plea]]"
 created: 2026-04-17
-updated: 2026-04-17
+updated: 2026-04-22
 operation_role: follow-on
 parent_operation: ""
-summary: "Cullen Roberts (Pillpusher) Enforcement Action is a defendant-specific enforcement action page derived from [[us-v-roberts-dark-web]]. It captures the prosecutorial or seizure stage reflected in the linked case record and preserves the operation-side catalog entry for this follow-on action."
+summary: "This domestic-only U.S. follow-on record has been absorbed into the canonical case page [[us-v-roberts-dark-web]]. No visible cross-border mechanism is documented, so it is not treated as a separate international-cooperation operation."
 jurisdictions:
   - "[[united-states]]"
 organizations:
@@ -68,25 +68,14 @@ crime_types:
 ---
 ## Summary
 
-Cullen Roberts (Pillpusher) Enforcement Action is a defendant-specific enforcement action page derived from [[us-v-roberts-dark-web]]. It captures the prosecutorial or seizure stage reflected in the linked case record and preserves the operation-side catalog entry for this follow-on action.
+This domestic-only U.S. follow-on record has been absorbed into the canonical case page [[us-v-roberts-dark-web]]. No visible cross-border mechanism is documented, so it is not treated as a separate international-cooperation operation.
 
-## Background
+## Canonical Record
 
-The underlying public case record identifies Cullen Roberts (Pillpusher) as the focal enforcement target. This page exists to represent the concrete enforcement action in the operations catalog without duplicating the deeper procedural detail already maintained on the case page.
-
-## Participating Parties
-
-- Lead agency: [[us-doj]]
-- Jurisdiction country: [[united-states]]
-
-## Results and Impact
-
-- Operation type: `conviction`
-- Case anchor: [[us-v-roberts-dark-web]]
-- Source coverage: 1 official or catalogued source page(s)
+- [[us-v-roberts-dark-web]]
 
 ## References
 
 | # | Source | Publisher | Date | URL |
 |---|---|---|---|---|
-| [1] | United States v. Cullen Roberts | US DOJ (Eastern District of Virginia) | 2021-08-04 | https://www.justice.gov/usao-edva/pr/darknet-drug-vendor-pleads-guilty-distributing-illicit-prescription-drugs |
+| [1] | Darknet Drug Vendor Pleads Guilty to Distributing Illicit Prescription Drugs | US DOJ (Eastern District of Virginia) | 2021-08-04 | https://www.justice.gov/usao-edva/pr/darknet-drug-vendor-pleads-guilty-distributing-illicit-prescription-drugs |

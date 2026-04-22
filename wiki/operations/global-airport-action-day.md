@@ -26,7 +26,8 @@ outcome: success
 participating_agencies:
 
 participating_countries:
-
+  - "[[united-states]]"
+  - "[[canada]]"
 period: 1
 related_cases:
 
@@ -56,7 +57,7 @@ timeframe:
 title: "Global Airport Action Day"
 title_ko: "Global Airport Action Day (항공권 사기 국제 공조 단속)"
 type: operation
-updated: 2026-04-09
+updated: 2026-04-22
 operation_role: umbrella
 parent_operation: ""
 summary: "The Global Airport Action Day, conducted from October 10-15, 2016, was an international operation coordinated by INTERPOL, Europol, Ameripol, and Frontex across 189 airports in 43 countries. The operation targeted airline ticket fraud perpetrated using stolen or hacked payment card information, detaining 193 suspects. The investigation revealed connections between airline ticket fraud and broader criminal activities including illegal immigration, human trafficking, drug trafficking, cybercrime, and terrorism support."

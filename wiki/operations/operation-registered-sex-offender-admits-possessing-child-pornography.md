@@ -3,19 +3,19 @@ type: operation
 title: "Registered Sex Offender Admits Possessing Child Pornography Enforcement Action"
 aliases:
   - "Registered Sex Offender Admits Possessing Child Pornography"
-case_id: "CYB-FUP-1108"
+case_id: CYB-FUP-1108
 period: 3
-operation_role: "follow-on"
+operation_role: follow-on
 parent_operation: ""
-operation_type: "prosecution"
-status: "completed"
+operation_type: prosecution
+status: absorbed
 enforcement_type:
   - arrest
-outcome: "success"
+outcome: success
 timeframe:
-  announced: "2024-11-19"
-  start: "2024"
-  end: "2024-11-19"
+  announced: 2024-11-19
+  start: 2024
+  end: 2024-11-19
   ongoing: false
 crime_type: "[[online-fraud-ic]]"
 crime_types:
@@ -45,41 +45,34 @@ results:
   victims_notified: 0
   other:
     - "Defendant-specific follow-on action derived from [[registered-sex-offender-admits-possessing-child-pornography]]"
-edges: []
+edges:
+  []
 credibility_index: 4.0
 source_tier: 1
-missing_fields: []
+missing_fields:
+  []
 related_cases:
   - "[[registered-sex-offender-admits-possessing-child-pornography]]"
-related_operations: []
-challenges_encountered: []
-lessons_learned: []
+related_operations:
+  []
+challenges_encountered:
+  []
+lessons_learned:
+  []
 source_count: 1
 sources:
   - "[[2026-04-18_justice-gov_registered-sex-offender-admits-possessing-child-pornography-0]]"
-summary: "Registered Sex Offender Admits Possessing Child Pornography Enforcement Action is a defendant-specific enforcement action page derived from [[registered-sex-offender-admits-possessing-child-pornography]]."
+summary: "This domestic-only U.S. follow-on record has been absorbed into the canonical case page [[registered-sex-offender-admits-possessing-child-pornography]]. No visible cross-border mechanism is documented, so it is not treated as a separate international-cooperation operation."
 created: 2026-04-18
-updated: 2026-04-18
+updated: 2026-04-22
 ---
-
 ## Summary
 
-Registered Sex Offender Admits Possessing Child Pornography Enforcement Action is a defendant-specific enforcement action page derived from [[registered-sex-offender-admits-possessing-child-pornography]]. It captures the prosecutorial or seizure stage reflected in the linked case record and preserves the operation-side catalog entry for this follow-on action.
+This domestic-only U.S. follow-on record has been absorbed into the canonical case page [[registered-sex-offender-admits-possessing-child-pornography]]. No visible cross-border mechanism is documented, so it is not treated as a separate international-cooperation operation.
 
-## Background
+## Canonical Record
 
-The underlying public case record identifies Registered Sex Offender Admits Possessing Child Pornography as the focal enforcement target. This page exists to represent the concrete enforcement action in the operations catalog without duplicating the deeper procedural detail already maintained on the case page.
-
-## Participating Parties
-
-- Lead agency: [[us-doj]]
-- Jurisdiction country: [[united-states]]
-
-## Results and Impact
-
-- Operation type: `prosecution`
-- Case anchor: [[registered-sex-offender-admits-possessing-child-pornography]]
-- Source coverage: 1 official or catalogued source page(s)
+- [[registered-sex-offender-admits-possessing-child-pornography]]
 
 ## References
 

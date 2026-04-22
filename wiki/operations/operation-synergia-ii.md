@@ -26,7 +26,11 @@ outcome: success
 participating_agencies:
 
 participating_countries:
-
+  - "[[hong-kong]]"
+  - "[[macau]]"
+  - "[[mongolia]]"
+  - "[[madagascar]]"
+  - "[[estonia]]"
 period: 3
 related_cases:
 
@@ -55,7 +59,7 @@ timeframe:
   start: 2024-04-01
 title: "Operation Synergia II"
 type: operation
-updated: 2026-04-08
+updated: 2026-04-22
 operation_role: umbrella
 parent_operation: ""
 summary: "Operation Synergia II was a massive INTERPOL-coordinated operation targeting malicious cyber infrastructure across **95 INTERPOL member countries** from April to August 2024. The operation focused on phishing, ransomware, and information stealer infrastructure. It identified approximately 30,000 suspicious IP addresses, took down 76% of them (~22,800), seized 59 servers and 43 electronic devices, and resulted in 41 arrests with 65 others still under investigation."

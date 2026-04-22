@@ -3,19 +3,19 @@ type: operation
 title: "Operator Of “Silk Road 2.0” Website Charged In Manhattan Federal Court Enforcement Action"
 aliases:
   - "Operator Of “Silk Road 2.0” Website Charged In Manhattan Federal Court"
-case_id: "CYB-FUP-849"
+case_id: CYB-FUP-849
 period: 1
-operation_role: "follow-on"
+operation_role: follow-on
 parent_operation: ""
-operation_type: "indictment"
-status: "ongoing"
+operation_type: indictment
+status: absorbed
 enforcement_type:
   - indictment
-outcome: "success"
+outcome: success
 timeframe:
-  announced: "2014-11-06"
-  start: "2014"
-  end: "2014-11-06"
+  announced: 2014-11-06
+  start: 2014
+  end: 2014-11-06
   ongoing: true
 crime_type: "[[online-fraud-ic]]"
 crime_types:
@@ -45,41 +45,34 @@ results:
   victims_notified: 0
   other:
     - "Defendant-specific follow-on action derived from [[operator-of-silk-road-2-0-website-charged-in-manhattan-federal-court]]"
-edges: []
+edges:
+  []
 credibility_index: 4.0
 source_tier: 1
-missing_fields: []
+missing_fields:
+  []
 related_cases:
   - "[[operator-of-silk-road-2-0-website-charged-in-manhattan-federal-court]]"
-related_operations: []
-challenges_encountered: []
-lessons_learned: []
+related_operations:
+  []
+challenges_encountered:
+  []
+lessons_learned:
+  []
 source_count: 1
 sources:
   - "[[2014-11-06_justice-gov_united-states-v-blake-benthall]]"
-summary: "Operator Of “Silk Road 2.0” Website Charged In Manhattan Federal Court Enforcement Action is a defendant-specific enforcement action page derived from [[operator-of-silk-road-2-0-website-charged-in-manhattan-federal-court]]."
+summary: "This domestic-only U.S. follow-on record has been absorbed into the canonical case page [[operator-of-silk-road-2-0-website-charged-in-manhattan-federal-court]]. No visible cross-border mechanism is documented, so it is not treated as a separate international-cooperation operation."
 created: 2026-04-18
-updated: 2026-04-18
+updated: 2026-04-22
 ---
-
 ## Summary
 
-Operator Of “Silk Road 2.0” Website Charged In Manhattan Federal Court Enforcement Action is a defendant-specific enforcement action page derived from [[operator-of-silk-road-2-0-website-charged-in-manhattan-federal-court]]. It captures the prosecutorial or seizure stage reflected in the linked case record and preserves the operation-side catalog entry for this follow-on action.
+This domestic-only U.S. follow-on record has been absorbed into the canonical case page [[operator-of-silk-road-2-0-website-charged-in-manhattan-federal-court]]. No visible cross-border mechanism is documented, so it is not treated as a separate international-cooperation operation.
 
-## Background
+## Canonical Record
 
-The underlying public case record identifies Operator Of “Silk Road 2.0” Website Charged In Manhattan Federal Court as the focal enforcement target. This page exists to represent the concrete enforcement action in the operations catalog without duplicating the deeper procedural detail already maintained on the case page.
-
-## Participating Parties
-
-- Lead agency: [[us-doj]]
-- Jurisdiction country: [[united-states]]
-
-## Results and Impact
-
-- Operation type: `indictment`
-- Case anchor: [[operator-of-silk-road-2-0-website-charged-in-manhattan-federal-court]]
-- Source coverage: 1 official or catalogued source page(s)
+- [[operator-of-silk-road-2-0-website-charged-in-manhattan-federal-court]]
 
 ## References
 

@@ -6,7 +6,7 @@ aliases:
 case_id: CYB-FUP-089
 period: 3
 operation_type: sentencing
-status: completed
+status: absorbed
 enforcement_type:
   - sentencing
 outcome: success
@@ -55,10 +55,10 @@ source_count: 1
 sources:
   - "[[2024-01-24_ndca_tony-tan-dark-web-sentencing]]"
 created: 2026-04-17
-updated: 2026-04-17
+updated: 2026-04-22
 operation_role: follow-on
 parent_operation: ""
-summary: "Tony Tan (Dark Web Vendor) Enforcement Action is a defendant-specific enforcement action page derived from [[us-v-tan-dark-web]]. It captures the prosecutorial or seizure stage reflected in the linked case record and preserves the operation-side catalog entry for this follow-on action."
+summary: "This domestic-only U.S. follow-on record has been absorbed into the canonical case page [[us-v-tan-dark-web]]. No visible cross-border mechanism is documented, so it is not treated as a separate international-cooperation operation."
 jurisdictions:
   - "[[united-states]]"
 organizations:
@@ -68,25 +68,14 @@ crime_types:
 ---
 ## Summary
 
-Tony Tan (Dark Web Vendor) Enforcement Action is a defendant-specific enforcement action page derived from [[us-v-tan-dark-web]]. It captures the prosecutorial or seizure stage reflected in the linked case record and preserves the operation-side catalog entry for this follow-on action.
+This domestic-only U.S. follow-on record has been absorbed into the canonical case page [[us-v-tan-dark-web]]. No visible cross-border mechanism is documented, so it is not treated as a separate international-cooperation operation.
 
-## Background
+## Canonical Record
 
-The underlying public case record identifies Tony Tan (Dark Web Vendor) as the focal enforcement target. This page exists to represent the concrete enforcement action in the operations catalog without duplicating the deeper procedural detail already maintained on the case page.
-
-## Participating Parties
-
-- Lead agency: [[us-doj]]
-- Jurisdiction country: [[united-states]]
-
-## Results and Impact
-
-- Operation type: `sentencing`
-- Case anchor: [[us-v-tan-dark-web]]
-- Source coverage: 1 official or catalogued source page(s)
+- [[us-v-tan-dark-web]]
 
 ## References
 
 | # | Source | Publisher | Date | URL |
 |---|---|---|---|---|
-| [1] | United States v. Tony Tan | US DOJ (Northern District of California) | 2024-01-24 | https://www.justice.gov/usao-ndca/pr/dark-web-vendor-sentenced-eighteen-months-prison-distributing-methamphetamine-pressed |
+| [1] | Dark Web Vendor Sentenced To Eighteen Months In Prison For Distributing Methamphetamine-Pressed Adderall Pills | US DOJ (Northern District of California) | 2024-01-24 | https://www.justice.gov/usao-ndca/pr/dark-web-vendor-sentenced-eighteen-months-prison-distributing-methamphetamine-pressed |

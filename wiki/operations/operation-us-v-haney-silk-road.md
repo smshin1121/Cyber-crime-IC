@@ -6,7 +6,7 @@ aliases:
 case_id: CYB-FUP-041
 period: 2
 operation_type: sentencing
-status: completed
+status: absorbed
 enforcement_type:
   - sentencing
 outcome: success
@@ -55,10 +55,10 @@ source_count: 1
 sources:
   - "[[2020-02-12_sdny_hugh-haney-silk-road-laundering-sentencing]]"
 created: 2026-04-17
-updated: 2026-04-17
+updated: 2026-04-22
 operation_role: follow-on
 parent_operation: "[[silk-road-takedown]]"
-summary: "Hugh Haney (Silk Road Laundering) Enforcement Action is a defendant-specific enforcement action page derived from [[us-v-haney-silk-road]]. It captures the prosecutorial or seizure stage reflected in the linked case record and preserves the operation-side catalog entry for this follow-on action."
+summary: "This domestic-only U.S. follow-on record has been absorbed into the canonical case page [[us-v-haney-silk-road]]. No visible cross-border mechanism is documented, so it is not treated as a separate international-cooperation operation."
 jurisdictions:
   - "[[united-states]]"
 organizations:
@@ -68,25 +68,14 @@ crime_types:
 ---
 ## Summary
 
-Hugh Haney (Silk Road Laundering) Enforcement Action is a defendant-specific enforcement action page derived from [[us-v-haney-silk-road]]. It captures the prosecutorial or seizure stage reflected in the linked case record and preserves the operation-side catalog entry for this follow-on action.
+This domestic-only U.S. follow-on record has been absorbed into the canonical case page [[us-v-haney-silk-road]]. No visible cross-border mechanism is documented, so it is not treated as a separate international-cooperation operation.
 
-## Background
+## Canonical Record
 
-The underlying public case record identifies Hugh Haney (Silk Road Laundering) as the focal enforcement target. This page exists to represent the concrete enforcement action in the operations catalog without duplicating the deeper procedural detail already maintained on the case page.
-
-## Participating Parties
-
-- Lead agency: [[us-doj]]
-- Jurisdiction country: [[united-states]]
-
-## Results and Impact
-
-- Operation type: `sentencing`
-- Case anchor: [[us-v-haney-silk-road]]
-- Source coverage: 1 official or catalogued source page(s)
+- [[us-v-haney-silk-road]]
 
 ## References
 
 | # | Source | Publisher | Date | URL |
 |---|---|---|---|---|
-| [1] | United States v. Hugh Brian Haney | US DOJ (Southern District of New York) | 2020-02-12 | https://www.justice.gov/usao-sdny/pr/dark-web-narcotics-trafficker-sentenced-3-years-prison-connection-laundering-more-19 |
+| [1] | Dark Web Narcotics Trafficker Sentenced To 3½ Years In Prison In Connection With Laundering More Than $19 Million | US DOJ (Southern District of New York) | 2020-02-12 | https://www.justice.gov/usao-sdny/pr/dark-web-narcotics-trafficker-sentenced-3-years-prison-connection-laundering-more-19 |

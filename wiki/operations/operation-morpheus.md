@@ -26,7 +26,13 @@ outcome: success
 participating_agencies:
 
 participating_countries:
-
+  - "[[united-kingdom]]"
+  - "[[australia]]"
+  - "[[canada]]"
+  - "[[germany]]"
+  - "[[netherlands]]"
+  - "[[poland]]"
+  - "[[united-states]]"
 period: 3
 related_cases:
 
@@ -56,7 +62,7 @@ timeframe:
 title: "Operation Morpheus (Cobalt Strike Takedown)"
 title_ko: "모르페우스 작전 (코발트 스트라이크 소탕)"
 type: operation
-updated: 2026-04-09
+updated: 2026-04-22
 operation_role: umbrella
 parent_operation: ""
 summary: "**Operation Morpheus** was an NCA-led, Europol-coordinated international operation targeting unauthorized (pirated/cracked) instances of **Cobalt Strike**, a legitimate penetration testing tool that has been extensively abused by cybercriminals for ransomware attacks, espionage, and other malicious purposes. The operation resulted in the takedown of **593 Cobalt Strike servers** across **27 countries**."

@@ -3,19 +3,19 @@ type: operation
 title: "Three allegedly responsible for distributing thousands of fentanyl pills in Whatcom County indicted for drug distribution Enforcement Action"
 aliases:
   - "Three allegedly responsible for distributing thousands of fentanyl pills in Whatcom County indicted for drug distribution"
-case_id: "CYB-FUP-640"
+case_id: CYB-FUP-640
 period: 2
-operation_role: "follow-on"
+operation_role: follow-on
 parent_operation: ""
-operation_type: "indictment"
-status: "ongoing"
+operation_type: indictment
+status: absorbed
 enforcement_type:
   - indictment
-outcome: "success"
+outcome: success
 timeframe:
-  announced: "2021-02-23"
-  start: "2021"
-  end: "2021-02-23"
+  announced: 2021-02-23
+  start: 2021
+  end: 2021-02-23
   ongoing: true
 crime_type: "[[drug-trafficking]]"
 crime_types:
@@ -45,41 +45,34 @@ results:
   victims_notified: 0
   other:
     - "Defendant-specific follow-on action derived from [[three-allegedly-responsible-for-distributing-thousands-of-fentanyl-pills-in-whatcom-county-indicted-for-drug-d]]"
-edges: []
+edges:
+  []
 credibility_index: 4.0
 source_tier: 1
-missing_fields: []
+missing_fields:
+  []
 related_cases:
   - "[[three-allegedly-responsible-for-distributing-thousands-of-fentanyl-pills-in-whatcom-county-indicted-for-drug-d]]"
-related_operations: []
-challenges_encountered: []
-lessons_learned: []
+related_operations:
+  []
+challenges_encountered:
+  []
+lessons_learned:
+  []
 source_count: 1
 sources:
   - "[[2026-04-18_justice-gov_three-allegedly-responsible-distributing-thousands-fentanyl-pills-whatcom-county]]"
-summary: "Three allegedly responsible for distributing thousands of fentanyl pills in Whatcom County indicted for drug distribution Enforcement Action is a defendant-specific enforcement action page derived from [[three-allegedly-responsible-for-distributing-thousands-of-fentanyl-pills-in-whatcom-county-indicted-for-drug-d]]."
+summary: "This domestic-only U.S. follow-on record has been absorbed into the canonical case page [[three-allegedly-responsible-for-distributing-thousands-of-fentanyl-pills-in-whatcom-county-indicted-for-drug-d]]. No visible cross-border mechanism is documented, so it is not treated as a separate international-cooperation operation."
 created: 2026-04-18
-updated: 2026-04-18
+updated: 2026-04-22
 ---
-
 ## Summary
 
-Three allegedly responsible for distributing thousands of fentanyl pills in Whatcom County indicted for drug distribution Enforcement Action is a defendant-specific enforcement action page derived from [[three-allegedly-responsible-for-distributing-thousands-of-fentanyl-pills-in-whatcom-county-indicted-for-drug-d]]. It captures the prosecutorial or seizure stage reflected in the linked case record and preserves the operation-side catalog entry for this follow-on action.
+This domestic-only U.S. follow-on record has been absorbed into the canonical case page [[three-allegedly-responsible-for-distributing-thousands-of-fentanyl-pills-in-whatcom-county-indicted-for-drug-d]]. No visible cross-border mechanism is documented, so it is not treated as a separate international-cooperation operation.
 
-## Background
+## Canonical Record
 
-The underlying public case record identifies Three allegedly responsible for distributing thousands of fentanyl pills in Whatcom County indicted for drug distribution as the focal enforcement target. This page exists to represent the concrete enforcement action in the operations catalog without duplicating the deeper procedural detail already maintained on the case page.
-
-## Participating Parties
-
-- Lead agency: [[us-doj]]
-- Jurisdiction country: [[united-states]]
-
-## Results and Impact
-
-- Operation type: `indictment`
-- Case anchor: [[three-allegedly-responsible-for-distributing-thousands-of-fentanyl-pills-in-whatcom-county-indicted-for-drug-d]]
-- Source coverage: 1 official or catalogued source page(s)
+- [[three-allegedly-responsible-for-distributing-thousands-of-fentanyl-pills-in-whatcom-county-indicted-for-drug-d]]
 
 ## References
 

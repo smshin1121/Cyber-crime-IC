@@ -6,7 +6,7 @@ aliases:
 case_id: CYB-FUP-018
 period: 1
 operation_type: prosecution
-status: completed
+status: absorbed
 enforcement_type:
   - arrest
 outcome: success
@@ -55,10 +55,10 @@ source_count: 1
 sources:
   - "[[2019-07-17_sdil_brandon-arias-dark-web-plea]]"
 created: 2026-04-17
-updated: 2026-04-17
+updated: 2026-04-22
 operation_role: follow-on
 parent_operation: ""
-summary: "Brandon Arias (Drug Llama) Enforcement Action is a defendant-specific enforcement action page derived from [[us-v-brandon-arias-dark-web]]. It captures the prosecutorial or seizure stage reflected in the linked case record and preserves the operation-side catalog entry for this follow-on action."
+summary: "This domestic-only U.S. follow-on record has been absorbed into the canonical case page [[us-v-brandon-arias-dark-web]]. No visible cross-border mechanism is documented, so it is not treated as a separate international-cooperation operation."
 jurisdictions:
   - "[[united-states]]"
 organizations:
@@ -68,25 +68,14 @@ crime_types:
 ---
 ## Summary
 
-Brandon Arias (Drug Llama) Enforcement Action is a defendant-specific enforcement action page derived from [[us-v-brandon-arias-dark-web]]. It captures the prosecutorial or seizure stage reflected in the linked case record and preserves the operation-side catalog entry for this follow-on action.
+This domestic-only U.S. follow-on record has been absorbed into the canonical case page [[us-v-brandon-arias-dark-web]]. No visible cross-border mechanism is documented, so it is not treated as a separate international-cooperation operation.
 
-## Background
+## Canonical Record
 
-The underlying public case record identifies Brandon Arias (Drug Llama) as the focal enforcement target. This page exists to represent the concrete enforcement action in the operations catalog without duplicating the deeper procedural detail already maintained on the case page.
-
-## Participating Parties
-
-- Lead agency: [[us-doj]]
-- Jurisdiction country: [[united-states]]
-
-## Results and Impact
-
-- Operation type: `prosecution`
-- Case anchor: [[us-v-brandon-arias-dark-web]]
-- Source coverage: 1 official or catalogued source page(s)
+- [[us-v-brandon-arias-dark-web]]
 
 ## References
 
 | # | Source | Publisher | Date | URL |
 |---|---|---|---|---|
-| [1] | United States v. Brandon Arias | US DOJ (Southern District of Illinois) | 2019-07-17 | https://www.justice.gov/usao-sdil/pr/drug-llama-pleads-guilty-distributing-fentanyl-dark-web |
+| [1] | "The Drug Llama" Pleads Guilty to Distributing Fentanyl on the Dark Web | US DOJ (Southern District of Illinois) | 2019-07-17 | https://www.justice.gov/usao-sdil/pr/drug-llama-pleads-guilty-distributing-fentanyl-dark-web |

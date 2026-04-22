@@ -3,19 +3,19 @@ type: operation
 title: "Orange County Man Sentenced To 75 Months For Distributing Methamphetamine And Selling Illegal Pills On The Dark Web Enforcement Action"
 aliases:
   - "Orange County Man Sentenced To 75 Months For Distributing Methamphetamine And Selling Illegal Pills On The Dark Web"
-case_id: "CYB-FUP-1085"
+case_id: CYB-FUP-1085
 period: 3
-operation_role: "follow-on"
+operation_role: follow-on
 parent_operation: ""
-operation_type: "sentencing"
-status: "completed"
+operation_type: sentencing
+status: absorbed
 enforcement_type:
   - sentencing
-outcome: "success"
+outcome: success
 timeframe:
-  announced: "2025-01-22"
-  start: "2025"
-  end: "2025-01-22"
+  announced: 2025-01-22
+  start: 2025
+  end: 2025-01-22
   ongoing: false
 crime_type: "[[online-fraud-ic]]"
 crime_types:
@@ -45,41 +45,34 @@ results:
   victims_notified: 0
   other:
     - "Defendant-specific follow-on action derived from [[orange-county-man-sentenced-to-75-months-for-distributing-methamphetamine-and-selling-illegal-pills-on-the-dar]]"
-edges: []
+edges:
+  []
 credibility_index: 4.0
 source_tier: 1
-missing_fields: []
+missing_fields:
+  []
 related_cases:
   - "[[orange-county-man-sentenced-to-75-months-for-distributing-methamphetamine-and-selling-illegal-pills-on-the-dar]]"
-related_operations: []
-challenges_encountered: []
-lessons_learned: []
+related_operations:
+  []
+challenges_encountered:
+  []
+lessons_learned:
+  []
 source_count: 1
 sources:
   - "[[2026-04-18_justice-gov_orange-county-man-sentenced-75-months-distributing-methamphetamine-and-selling-illegal]]"
-summary: "Orange County Man Sentenced To 75 Months For Distributing Methamphetamine And Selling Illegal Pills On The Dark Web Enforcement Action is a defendant-specific enforcement action page derived from [[orange-county-man-sentenced-to-75-months-for-distributing-methamphetamine-and-selling-illegal-pills-on-the-dar]]."
+summary: "This domestic-only U.S. follow-on record has been absorbed into the canonical case page [[orange-county-man-sentenced-to-75-months-for-distributing-methamphetamine-and-selling-illegal-pills-on-the-dar]]. No visible cross-border mechanism is documented, so it is not treated as a separate international-cooperation operation."
 created: 2026-04-18
-updated: 2026-04-18
+updated: 2026-04-22
 ---
-
 ## Summary
 
-Orange County Man Sentenced To 75 Months For Distributing Methamphetamine And Selling Illegal Pills On The Dark Web Enforcement Action is a defendant-specific enforcement action page derived from [[orange-county-man-sentenced-to-75-months-for-distributing-methamphetamine-and-selling-illegal-pills-on-the-dar]]. It captures the prosecutorial or seizure stage reflected in the linked case record and preserves the operation-side catalog entry for this follow-on action.
+This domestic-only U.S. follow-on record has been absorbed into the canonical case page [[orange-county-man-sentenced-to-75-months-for-distributing-methamphetamine-and-selling-illegal-pills-on-the-dar]]. No visible cross-border mechanism is documented, so it is not treated as a separate international-cooperation operation.
 
-## Background
+## Canonical Record
 
-The underlying public case record identifies Orange County Man Sentenced To 75 Months For Distributing Methamphetamine And Selling Illegal Pills On The Dark Web as the focal enforcement target. This page exists to represent the concrete enforcement action in the operations catalog without duplicating the deeper procedural detail already maintained on the case page.
-
-## Participating Parties
-
-- Lead agency: [[us-doj]]
-- Jurisdiction country: [[united-states]]
-
-## Results and Impact
-
-- Operation type: `sentencing`
-- Case anchor: [[orange-county-man-sentenced-to-75-months-for-distributing-methamphetamine-and-selling-illegal-pills-on-the-dar]]
-- Source coverage: 1 official or catalogued source page(s)
+- [[orange-county-man-sentenced-to-75-months-for-distributing-methamphetamine-and-selling-illegal-pills-on-the-dar]]
 
 ## References
 
