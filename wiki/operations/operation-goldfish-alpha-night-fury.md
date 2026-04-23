@@ -68,11 +68,15 @@ challenges_encountered:
 
 lessons_learned:
 
-source_count: 1
+source_count: 5
 sources:
-  - "[1] INTERPOL News (2020)"
+  - "[[interpol-operation-goldfish-alpha-night-fury]]"
+  - "[[2020-01-27_group-ib_night-fury]]"
+  - "[[2020-01-28_techtarget_3-magecart-suspects-arrested-in-interpol-operation]]"
+  - "[[2020-02-17_interpol-es_southeast-asia-cyberthreats-goldfish-alpha-night-fury]]"
+  - "[[cyberscoop-operation-nightfury-magecartgetbilling]]"
 created: 2026-04-08
-updated: 2026-04-08
+updated: 2026-04-23
 operation_role: umbrella
 parent_operation: ""
 summary: "INTERPOL's ASEAN Cybercrime Operations Desk coordinated two operations -- Goldfish Alpha (targeting cryptojacking malware) and Night Fury (targeting e-commerce malware) -- across Southeast Asian nations during 2019-2020. These operations addressed key cyber threats facing the ASEAN region including botnets, phishing, BEC, banking malware, ransomware, and cryptojacking. Through information sharing and joint operations among ASEAN member states, criminal networks were dismantled and arrests were made."
@@ -121,6 +125,11 @@ Indonesia, Malaysia, Thailand, Philippines, Singapore, Vietnam, Myanmar, and oth
 > not result in formal prosecution.
 
 ## References
+
 | # | Title | Publisher | Date | URL |
-|---|-------|----------|------|-----|
-| [1] | INTERPOL Report Highlights Key Cyberthreats in Southeast Asia | INTERPOL | 2020 | [원본](https://www.interpol.int/News-and-Events/News/2020/INTERPOL-report-highlights-key-cyberthreats-in-Southeast-Asia) |
+|---|---|---|---|---|
+| [1] | INTERPOL: Report highlights key cyberthreats in Southeast Asia (Goldfish Alpha / Night Fury) | INTERPOL | 2020-02-17 | https://www.interpol.int/News-and-Events/News/2020/INTERPOL-report-highlights-key-cyberthreats-in-Southeast-Asia |
+| [2] | Group-IB helps take down a cybergang behind the infection of hundreds of websites | Group-IB | 2020-01-27 | https://www.group-ib.com/media-center/press-releases/night-fury/ |
+| [3] | 3 Magecart suspects arrested in Interpol operation | TechTarget | 2020-01-28 | https://www.techtarget.com/searchsecurity/news/252477470/3-Magecart-suspects-arrested-in-Interpol-operation |
+| [4] | Un informe de INTERPOL destaca las principales ciberamenazas en el Sudeste Asiático | INTERPOL | 2020-02-17 | https://www.interpol.int/es/Noticias-y-acontecimientos/Noticias/2020/Un-informe-de-INTERPOL-destaca-las-principales-ciberamenazas-en-el-Sudeste-Asiatico |
+| [5] | CyberScoop: Indonesian Police Arrest 3 Men for Alleged Magecart-Style Attacks (Operation NightFury / GetBilling) | CyberScoop | 2020-01-27 | https://cyberscoop.com/magecart-arrest-indonesia-interpol-getbilling/ |

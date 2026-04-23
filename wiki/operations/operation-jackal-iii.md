@@ -69,11 +69,15 @@ challenges_encountered:
 lessons_learned:
   - "Series-based operations (Jackal I → III) demonstrate escalating enforcement effectiveness"
   - "BEC intersects with broader financial crime including counterfeiting (Argentina case)"
-source_count: 1
+source_count: 5
 sources:
   - "[[2024-08-28-interpol-operation-jackal-iii]]"
+  - "[[2024-07-16_garda-ie_interpol-operation-jackal-ireland-operation-skein-july-2024]]"
+  - "[[2024-07-23_policiajudiciaria-pt_pj-participa-na-fase-iii-da-operacao-jackal]]"
+  - "[[2024-07-17_apnews_interpol-arrests-300-people-in-a-global-crackdown-on-west-african-crime-groups-across-5-continents]]"
+  - "[[2022-10-14_garda-ie_interpol-operation-jackal-ireland-operation-skein-14th-october-2022]]"
 created: 2026-04-08
-updated: 2026-04-22
+updated: 2026-04-23
 operation_role: umbrella
 parent_operation: ""
 summary: "Operation Jackal III was the third iteration of INTERPOL's dedicated campaign against Black Axe and similar West African organized crime syndicates. Conducted from 10 April to 3 July 2024 across **21 countries** on five continents, the operation resulted in approximately **300 arrests** (nearly tripling the 103 arrests in 2023's [[operation-jackal|Operation Jackal]]), identification of **400+ additional suspects**, blocking of **720+ bank accounts**, and seizure of **USD 3 million**."
@@ -137,6 +141,11 @@ No direct Korean involvement. Black Axe primarily targets victims in Europe, Nor
 > not result in formal prosecution.
 
 ## References
+
 | # | Title | Publisher | Date | URL |
-|---|-------|----------|------|-----|
-| [1] | INTERPOL operation strikes major blow against West African financial crime — Operation Jackal III | INTERPOL | 2024-08-28 | [원본](https://www.interpol.int/en/News-and-Events/News/2024/INTERPOL-operation-strikes-major-blow-against-West-African-financial-crime) |
+|---|---|---|---|---|
+| [1] | INTERPOL operation strikes major blow against West African financial crime - Operation Jackal III | INTERPOL | 2024-08-28 | https://www.interpol.int/en/News-and-Events/News/2024/INTERPOL-operation-strikes-major-blow-against-West-African-financial-crime |
+| [2] | INTERPOL Operation JACKAL / Ireland Operation SKEIN - July 2024 | An Garda Siochana | 2024-07-16 | https://www.garda.ie/en/about-us/our-departments/office-of-corporate-communications/press-releases/2024/july/interpol-operation-jackal-ireland-operation-skein-july-2024.html |
+| [3] | PJ participa na fase III da operacao Jackal | Policia Judiciaria | 2024-07-23 | https://www.policiajudiciaria.pt/pj-participa-na-fase-iii-da-operacao-jackal/ |
+| [4] | Interpol arrests 300 people in a global crackdown on West African crime groups across 5 continents | Associated Press | 2024-07-17 | https://ny1.com/nyc/all-boroughs/ap-top-news/2024/07/17/interpol-arrests-300-people-in-a-global-crackdown-on-west-african-crime-groups-across-5-continents |
+| [5] | Interpol Operation JACKAL / Ireland Operation Skein - 14th October 2022 | An Garda Siochana | 2022-10-14 | https://www.garda.ie/en/about-us/our-departments/office-of-corporate-communications/press-releases/2022/october/interpol-operation-jackal-ireland-operation-skein-14th-october-2022.html |

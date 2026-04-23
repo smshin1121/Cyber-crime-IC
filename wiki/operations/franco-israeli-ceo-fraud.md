@@ -74,6 +74,7 @@ results:
     - "EUR 5.5 million total seized/frozen across multiple countries"
     - "EUR 38 million stolen from a single company in one BEC attack"
     - "8 house searches conducted in France and Israel"
+    - "Portuguese investigators documented four companies and 17 bank accounts used in the laundering strand"
 related_cases:
 
 related_operations:
@@ -81,16 +82,20 @@ related_operations:
 challenges_encountered:
 
 lessons_learned:
-  - "BEC proceeds are rapidly moved through international banking systems requiring swift multilateral cooperation for asset recovery"
-  - "Criminal networks operating across EU and non-EU countries require coordination through Europol and bilateral channels"
-source_count: 1
+  - "BEC proceeds can transit multiple jurisdictions quickly, requiring near-simultaneous bank-freeze measures."
+  - "Participating-country police releases often preserve financial-routing detail absent from the umbrella Europol summary."
+source_count: 5
 sources:
-  - "[[2023-02-08-europol-franco-israeli-ceo-fraud]]"
+  - "[[2023-02-08_europol_franco-israeli-ceo-fraud-bust]]"
+  - "[[2023-02-17_policia-es_desarticulada-una-organizacion-franco-israeli-que-estafo-mas-de-38-millones-de-euros-mediante-el-fraude-del-ceo]]"
+  - "[[2023-02-17_policiajudiciaria-pt_operacao-sefricime-2-2]]"
+  - "[[2023-02-17_helpnetsecurity_authorities-break-up-gang-responsible-for-eur-38-million-ceo-fraud]]"
+  - "[[2023-02-18_occrp_police-dismantle-franco-israeli-crime-network-behind-theft-of-eur38-million]]"
 created: 2026-04-08
-updated: 2026-04-08
+updated: 2026-04-23
 operation_role: umbrella
 parent_operation: ""
-summary: "The Franco-Israeli CEO Fraud Investigation was a Europol-supported multi-country operation that dismantled a criminal network using business email compromise (BEC) and CEO fraud to divert corporate payments. The group, based across France and Israel, stole approximately **EUR 38 million** from a single company in one attack. Five action days between January 2022 and January 2023 resulted in **8 arrests** (6 in France, 2 in Israel including the group leader) and seizures of approximately **EUR 5.5 million** across 6 countries."
+summary: "The Franco-Israeli CEO Fraud Investigation was a Europol-supported multi-country operation that dismantled a criminal network using business email compromise (BEC) and CEO fraud to divert corporate payments. Five action days between January 2022 and January 2023 led to 8 arrests in France and Israel, while parallel asset tracing in Portugal, Hungary, Croatia, and Spain produced about EUR 5.5 million in seizures."
 jurisdictions:
   - France
   - Israel
@@ -113,71 +118,85 @@ crime_types:
 ---
 ## Summary
 
-The Franco-Israeli CEO Fraud Investigation was a Europol-supported multi-country operation that dismantled a criminal network using business email compromise (BEC) and CEO fraud to divert corporate payments. The group, based across France and Israel, stole approximately **EUR 38 million** from a single company in one attack. Five action days between January 2022 and January 2023 resulted in **8 arrests** (6 in France, 2 in Israel including the group leader) and seizures of approximately **EUR 5.5 million** across 6 countries.
+The Franco-Israeli CEO Fraud Investigation targeted a business email compromise and CEO-fraud network that hit France-based companies and laundered proceeds through a cross-border banking structure. Public reporting ties the operation to two key French victim events in late 2021 and to follow-on asset tracing across Portugal, Hungary, Croatia, Spain, China, and Israel.
 
 ## Background
 
-The criminal network impersonated company executives, convincing financial officers to authorize urgent confidential transfers. The stolen funds were laundered through a pre-existing money laundering scheme involving multiple bank accounts across the EU, China, and Israel.
+The scheme relied on executive impersonation and fake-lawyer pretexts to pressure finance staff into making urgent confidential transfers. One French real-estate developer lost approximately EUR 38 million within days, making the case one of the largest publicly reported BEC losses in Europe.
 
 ## Participating Parties
 
 - **Lead:** France (Police Nationale, Gendarmerie Nationale)
 - **Coordination:** [[europol-ec3|Europol EC3]]
-- **France:** Police Nationale, Gendarmerie Nationale (arrests, house searches)
-- **Israel:** Israel Police (arrests including group leader)
-- **Croatia:** Hrvatska Policija, Ured za sprjecavanje pranja novca (EUR 600,000 seized)
-- **Hungary:** Budapesti Rendor-fokapitanysag (EUR 1.1 million seized)
-- **Portugal:** Policia Judiciaria (EUR 3 million seized)
-- **Spain:** Policia Nacional (EUR 400,000 seized)
+- **Israel:** Israel Police
+- **Croatia:** Hrvatska Policija and the Croatian anti-money-laundering office
+- **Hungary:** Budapesti Rendor-fokapitanysag
+- **Portugal:** Policia Judiciaria
+- **Spain:** Policia Nacional
 
 ## Operational Timeline
 
-1. **January 2022:** First action day
-2. **January 2022 – January 2023:** Five action days conducted across France and Israel
-3. **January 2023:** Final action day; 8 suspects arrested including Israeli-based group leader
-4. **8 February 2023:** Europol announces results
+| Date | Event |
+|------|-------|
+| 2021-12 | Two major French victim incidents begin to expose the network |
+| 2022-01 | Investigators connect the French cases and expand the probe internationally |
+| 2022-01 to 2023-01 | Five action days carried out in France and Israel |
+| 2023-02-08 | Europol publicly announces the dismantling results |
+| 2023-02-17 | Spain and Portugal publish participating-country operational details |
 
 ## Results and Impact
 
-- **8 arrests** (6 in France, 2 in Israel)
-- **8 house searches** in France and Israel
-- **~EUR 5.5 million** in total asset seizures:
-  - Portugal: EUR 3 million
-  - Hungary: EUR 1.1 million
-  - Croatia: EUR 600,000
-  - Spain: EUR 400,000
-  - Virtual currencies: EUR 350,000
-- **EUR 38 million** stolen from single victim (one of the largest BEC losses in Europe)
+- **8 arrests**: 6 in France and 2 in Israel
+- **8 searches**: conducted in France and Israel
+- **Approx. EUR 5.5 million** seized or frozen across participating jurisdictions
+- **Country breakdown preserved in public reporting**:
+  - Portugal: about EUR 3 million
+  - Hungary: about EUR 1.1 million
+  - Croatia: about EUR 600,000
+  - Spain: about EUR 400,000
+  - Cryptocurrency: about EUR 350,000
 
 ## Cooperation Mechanisms Used
 
-Europol provided analytical support and coordination connecting the investigation across 7 jurisdictions. Asset seizures required parallel execution in multiple countries, demonstrating the need for coordinated financial investigation.
+The public sources show a classic multijurisdictional financial-investigation model:
+
+- Europol analytical support and coordination
+- Parallel bank-account tracing across multiple EU jurisdictions
+- National police action in France and Israel
+- Participating-country asset-freeze and shell-company investigation in Portugal, Spain, Hungary, and Croatia
+
+Portugal's official release is especially useful because it records four companies, 17 bank accounts, and three false identities used in the laundering infrastructure.
 
 ## Money Laundering Route
 
-The criminal proceeds were laundered through a pre-existing money laundering scheme:
-- **EU bank accounts** (Portugal, Hungary, Croatia, Spain) → **China** → **Israel**
-- Cryptocurrency also used (EUR 350,000 seized)
+Public reporting describes the route broadly as:
 
-## Korean Involvement (한국의 참여)
+- France-based victim transfers
+- bank accounts in Portugal, Hungary, Croatia, and Spain
+- onward movement to China
+- eventual cash-out or control in Israel
 
-No direct Korean involvement in this operation. However, the BEC modus operandi is relevant to Korean BEC cases where similar CEO impersonation tactics target Korean corporate victims.
+## Korean Involvement
+
+No direct Korean participation was identified in the available public record.
 
 ## Contradictions & Open Questions
 
-- What was the specific BEC technique used (email spoofing, account compromise, or social engineering)?
-- Were additional suspects identified beyond the 8 arrested?
-- What is the current judicial status of the arrested suspects?
+- Public sources vary between "seized," "frozen," and "recovered" when describing the financial figures.
+- The exact post-arrest judicial outcomes are not clearly documented in open sources.
+- The public record does not fully disclose the legal process used between France and Israel.
 
 ## Follow-Up Actions
 
 > [!warning] No public court documents found
-> Web search (2026-04-17) yielded no publicly accessible court filings
-> for this operation. Possible reasons: non-US jurisdiction with no
-> public court records system, sealed proceedings, or operation did
-> not result in formal prosecution.
+> Open-source review through 2026-04-23 did not surface accessible court records tied to the arrests.
 
 ## References
+
 | # | Title | Publisher | Date | URL |
-|---|-------|----------|------|-----|
-| [1] | Franco-Israeli gang behind EUR 38 million CEO fraud busted | Europol | 2023-02-08 | [원본](https://www.europol.europa.eu/media-press/newsroom/news/franco-israeli-gang-behind-eur-38-million-ceo-fraud-busted) |
+|---|---|---|---|---|
+| [1] | Franco-Israeli gang behind EUR 38 million CEO fraud busted | Europol | 2023-02-08 | https://www.europol.europa.eu/media-press/newsroom/news/franco-israeli-gang-behind-eur-38-million-ceo-fraud-busted |
+| [2] | Desarticulada una organización franco-israelí que estafó más de 38 millones de euros mediante el 'fraude del CEO' | Policía Nacional | 2023-02-17 | https://www.policia.es/_es/comunicacion_prensa_detalle.php?ID=15327 |
+| [3] | OPERAÇÃO 'SEFRICIME 2.2' | Polícia Judiciária | 2023-02-17 | https://www.policiajudiciaria.pt/operacao-sefricime-2-2/ |
+| [4] | Authorities break up gang responsible for EUR 38 million CEO fraud | Help Net Security | 2023-02-17 | https://www.helpnetsecurity.com/2023/02/17/authorities-break-up-gang-responsible-eur-38-million-ceo-fraud/ |
+| [5] | Police Dismantle Franco-Israeli Crime Network Behind Theft of EUR 38 Million | OCCRP | 2023-02-18 | https://www.occrp.org/en/news/police-dismantle-franco-israeli-crime-network-behind-theft-of-eur38-million |

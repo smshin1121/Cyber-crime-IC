@@ -6,24 +6,24 @@ aliases:
   - "Hive Ransomware Takedown"
 case_id: CYB-2023-006
 challenges_encountered:
-  []
+
 coordinating_body: "[[europol-ec3]]"
 created: 2026-04-08
 credibility_index: 3.25
 crime_type: "[[ransomware-ic]]"
 edges:
-  []
+
 enforcement_type:
-  []
+
 lead_agency: "[[fbi]]"
 legal_basis:
-  []
+
 lessons_learned:
-  []
+
 mechanisms_used:
-  []
+
 missing_fields:
-  []
+
 operation_type: takedown
 outcome: success
 participating_agencies:
@@ -50,9 +50,9 @@ participating_countries:
   - "[[ireland]]"
 period: 3
 related_cases:
-  []
+
 related_operations:
-  []
+
 results:
   arrests: 0
   cryptocurrency_seized: ""
@@ -60,13 +60,17 @@ results:
   domains_seized: 0
   indictments: 0
   other:
-    []
+
   servers_seized: 0
   victims_notified: 1500
-source_count: 1
+source_count: 5
 source_tier: 2
 sources:
-  - "[1] Europol News (2023-01-26)"
+  - "[[europol-hive-ransomware-infrastructure-takedown]]"
+  - "[[cbs-news-hive-ransomware-infrastructure-takedown]]"
+  - "[[2026-04-18_justice-gov_socal-man-arrested-federal-charges-alleging-he-schemed-advertise-and-sell-hive]]"
+  - "[[2023-01-26_techcrunch-com_united-states-hive-ransomware-seized]]"
+  - "[[2023-01-26_dw-com_us-german-authorities-block-hive-ransomware-website]]"
 status: completed
 target_entity: "Hive Ransomware Group"
 timeframe:
@@ -77,7 +81,7 @@ timeframe:
 title: "Hive Ransomware Infrastructure Takedown"
 title_ko: "명시되지 않음 (Hive 랜섬웨어 인프라 해체)"
 type: operation
-updated: 2026-04-22
+updated: 2026-04-09
 ---
 ## Summary
 
@@ -119,5 +123,9 @@ United States, Germany, Netherlands, United Kingdom, Canada, France, Romania, Li
 ## References
 
 | # | Title | Publisher | Date | URL |
-|---|-------|----------|------|-----|
-| [1] | Cybercriminals Stung as Hive Infrastructure Shut Down | Europol | 2023-01-26 | [원본](https://www.europol.europa.eu/media-press/newsroom/news/cybercriminals-stung-hive-infrastructure-shut-down) |
+|---|---|---|---|---|
+| [1] | Europol: Cybercriminals Stung as Hive Infrastructure Shut Down | Europol | 2023-01-26 | https://www.europol.europa.eu/media-press/newsroom/news/cybercriminals-stung-hive-infrastructure-shut-down |
+| [2] | CBS News: DOJ Charges Two Russians with Operating Phobos Ransomware Group | CBS News | 2025-02-11 | https://www.cbsnews.com/news/justice-department-charges-russian-men-cybercrime-ransomware/ |
+| [3] | SoCal Man Arrested on Federal Charges Alleging He Schemed to Advertise and Sell ‘Hive’ Computer Intrusion Malware | US DOJ USAO | 2024-04-11 | https://www.justice.gov/usao-cdca/pr/socal-man-arrested-federal-charges-alleging-he-schemed-advertise-and-sell-hive |
+| [4] | US announces it seized Hive ransomware gang's leak sites and decryption keys | TechCrunch | 2023-01-26 | https://techcrunch.com/2023/01/26/united-states-hive-ransomware-seized/ |
+| [5] | US, German authorities block 'Hive' ransomware website | DW | 2023-01-26 | https://www.dw.com/en/us-german-authorities-block-hive-ransomware-website/a-64528557 |

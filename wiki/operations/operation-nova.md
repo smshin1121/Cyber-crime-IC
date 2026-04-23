@@ -7,24 +7,24 @@ aliases:
   - "Safe-Inet takedown"
 case_id: CYB-2020-050
 challenges_encountered:
-  []
+
 coordinating_body: "[[europol-ec3]]"
 created: 2026-04-08
 credibility_index: 2.55
 crime_type: "[[cybercrime-infrastructure-ic]]"
 edges:
-  []
+
 enforcement_type:
-  []
+
 lead_agency: "[[germany-bka]]"
 legal_basis:
-  []
+
 lessons_learned:
-  []
+
 mechanisms_used:
-  []
+
 missing_fields:
-  []
+
 operation_type: infrastructure-seizure
 outcome: success
 participating_agencies:
@@ -39,9 +39,9 @@ participating_countries:
   - "[[france]]"
 period: 2
 related_cases:
-  []
+
 related_operations:
-  []
+
 results:
   arrests: 0
   cryptocurrency_seized: ""
@@ -49,15 +49,17 @@ results:
   domains_seized: 3
   indictments: 0
   other:
-    []
+
   servers_seized: 3
   victims_notified: 0
-source_count: 3
+source_count: 5
 source_tier: 3
 sources:
-  - tier3-cyberscoop-safe-inet-2020
-  - tier3-portswigger-safe-inet-2020
-  - tier3-cybersecuritynews-safe-inet-2020
+  - "[[2020-12-22_cyberscoop-com_safe-inet-takedown-fbi-interpol]]"
+  - "[[2020-12-22_portswigger-net_safe-inet-vpn-service-for-cybercriminals-taken-down-in-law-enforcement-bust]]"
+  - "[[2020-12-22_bleepingcomputer-com_safe-inet-insorg-vpn-services-shut-down-by-law-enforcement]]"
+  - "[[2020-12-22_infosecurity-magazine_police-seize-safe-inet]]"
+  - "[[2020-12-24_cisomag_operation-nova-seizes-safe-inet-vpn]]"
 status: completed
 target_entity: "Safe-Inet bulletproof VPN service"
 timeframe:
@@ -144,7 +146,9 @@ No Korean involvement identified.
 ## References
 
 | # | Title | Publisher | Date | URL |
-|---|-------|----------|------|-----|
-| [1] | Safe Inet Takedown Fbi Interpol | CyberScoop | 2020-12-22 | [원본](https://cyberscoop.com/safe-inet-takedown-fbi-interpol/) |
-| [2] | Bulletproof Vpn Seized | cybersecuritynews.com | 2020-12-22 | [원본](http://web.archive.org/web/20240714062723/https://cybersecuritynews.com/bulletproof-vpn-seized/) |
-| [3] | Safe Inet Vpn Service For Cybercriminals Taken Down In Law Enforcement Bust | portswigger.net | 2020-12-22 | [원본](https://portswigger.net/daily-swig/safe-inet-vpn-service-for-cybercriminals-taken-down-in-law-enforcement-bust) |
+|---|---|---|---|---|
+| [1] | Safe Inet Takedown Fbi Interpol | CyberScoop | 2020-12-22 | https://cyberscoop.com/safe-inet-takedown-fbi-interpol/ |
+| [2] | Safe Inet Vpn Service For Cybercriminals Taken Down In Law Enforcement Bust | portswigger.net | 2020-12-22 | https://portswigger.net/daily-swig/safe-inet-vpn-service-for-cybercriminals-taken-down-in-law-enforcement-bust |
+| [3] | Safe-Inet, Insorg VPN services shut down by law enforcement | BleepingComputer | 2020-12-22 | https://www.bleepingcomputer.com/news/security/safe-inet-insorg-vpn-services-shut-down-by-law-enforcement/ |
+| [4] | Police Seize VPN Service Beloved by Cyber-criminals | Infosecurity Magazine | 2020-12-22 | https://www.infosecurity-magazine.com/news/police-seize-safe-inet/ |
+| [5] | Operation Nova: Global Law Enforcement Agencies Seize Safe-Inet Criminal VPN Service | CISO MAG | 2020-12-24 | https://cisomag.com/operation-nova-seizes-safe-inet-vpn/ |

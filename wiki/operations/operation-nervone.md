@@ -28,8 +28,8 @@ participating_countries:
 participating_agencies:
   - "[[interpol]]"
   - "[[afripol]]"
-legal_basis:
-mechanisms_used:
+legal_basis: ""
+mechanisms_used: ""
 results:
   arrests: 1
   indictments: 0
@@ -59,16 +59,20 @@ missing_fields:
   - legal_basis
   - mechanisms_used
   - complete_participating_countries
-related_cases:
-related_operations:
-challenges_encountered:
+related_cases: ""
+related_operations: ""
+challenges_encountered: ""
 lessons_learned:
   - "Private-sector threat intelligence materially improves international operational targeting."
-source_count: 1
+source_count: 5
 sources:
   - "[[2023-07-05_interpol_operation-nervone-opera1er-arrest]]"
+  - "[[2021-07-05_group-ib-com_interpol-led-operation-takes-down-prolific-cybercriminal]]"
+  - "[[2023-07-05_group-ib_operation-nervone-opera1er]]"
+  - "[[2023-07-05_group-ib_top-investigations_operation-nervone]]"
+  - "[[2023-07-05_group-ib-fr_operation-nervone]]"
 created: 2026-04-08
-updated: 2026-04-22
+updated: 2026-04-09
 operation_role: umbrella
 parent_operation: ""
 summary: "Operation Nervone was an INTERPOL-led action against the OPERA1ER group that culminated in the arrest of a key suspect in Côte d’Ivoire."
@@ -143,5 +147,9 @@ No Korean involvement identified.
 ## References
 
 | # | Title | Publisher | Date | URL |
-|---|-------|----------|------|-----|
+|---|---|---|---|---|
 | [1] | Suspected key figure of notorious cybercrime group arrested in joint operation | INTERPOL | 2023-07-05 | https://www.interpol.int/en/News-and-Events/News/2023/Suspected-key-figure-of-notorious-cybercrime-group-arrested-in-joint-operation |
+| [2] | INTERPOL-led operation takes down prolific cybercriminal | Group-IB | 2021-07-05 | https://www.group-ib.com/media-center/press-releases/gib-interpol-lyrebird/ |
+| [3] | Operation Nervone: Group-IB assists INTERPOL-led mission to detain key cybercrime suspect in Côte d'Ivoire | Group-IB | 2023-07-05 | https://www.group-ib.com/media-center/press-releases/operation-nervone/ |
+| [4] | Operation Nervone: The takedown of OPERA1ER | Group-IB | 2023-07-05 | https://www.group-ib.com/it/top-investigations/operation-nervone/ |
+| [5] | Operation Nervone: Group-IB assists INTERPOL-led mission to detain key cybercrime suspect in Côte d'Ivoire | Group-IB | 2023-07-05 | https://www.group-ib.com/fr/media-center/press-releases/operation-nervone/ |

@@ -67,11 +67,14 @@ challenges_encountered:
 lessons_learned:
   - "Public-private cooperation with payment card industry significantly amplifies law enforcement reach"
   - "Proactive data analysis can prevent losses before fraud is committed"
-source_count: 3
+source_count: 6
 sources:
-  - "[Europol Press Release (2020-11-26)](https://www.europol.europa.eu/newsroom/news/officers-foil-fraudsters-stealing-%E2%82%AC40-million-in-payment-card-scam)"
-  - "[Group-IB Media (2020-11)](https://www.group-ib.com/media/carding-action-2020/)"
-  - "[WeLiveSecurity (2020-11-27)](https://www.welivesecurity.com/2020/11/27/europol-partners-thwart-credit-card-fraud-scheme/)"
+  - "[[2020-11-26_ukfinance-org-uk_dcpcu-works-with-europol-on-operation-carding-action-2020]]"
+  - "[[2020-12-01_cisomag-com_operation-carding-action-2020-cracks-down-credit-card-scammers]]"
+  - "[[2020-11-30_association-secure-transactions-eu_carding-action-by-police-prevents-e40-million-in-losses]]"
+  - "[[2020-11-26_group-ib-com_carding-action-2020]]"
+  - "[[2020-11-27_welivesecurity-com_europol-partners-thwart-credit-card-fraud-scheme]]"
+  - "[[2020-11-26_europol-europa-eu_officers-foil-fraudsters-stealing-eur-40-million-in-payment-card-scam]]"
 created: 2026-04-10
 updated: 2026-04-11
 operation_role: umbrella
@@ -194,3 +197,14 @@ No Korean participation in Carding Action 2020 has been publicly documented. How
 > for this operation. Possible reasons: non-US jurisdiction with no
 > public court records system, sealed proceedings, or operation did
 > not result in formal prosecution.
+
+## References
+
+| # | Title | Publisher | Date | URL |
+|---|---|---|---|---|
+| [1] | DCPCU works with Europol on operation Carding Action 2020 | UK Finance | 2020-11-26 | https://www.ukfinance.org.uk/press/press-releases/dcpcu-works-with-europol-on-operation-carding-action-2020 |
+| [2] | Operation Carding Action 2020 Cracks Down Credit Card Scammers | CISO MAG | 2020-12-01 | https://cisomag.com/credit-card-scammers-arrested-in-carding-scam-2020/ |
+| [3] | Carding Action by Police prevents EUR 40 million in losses | EAST | 2020-11-30 | https://www.association-secure-transactions.eu/carding-action-by-police-prevents-e40-million-in-losses/ |
+| [4] | Carding Action 2020: Group-IB supports Europol-backed operation saving EUR 40 million | Group-IB | 2020-11-26 | https://www.group-ib.com/it/media-center/press-releases/carding-action-2020/ |
+| [5] | Europol and partners thwart credit card fraud scheme | WeLiveSecurity | 2020-11-27 | https://www.welivesecurity.com/2020/11/27/europol-partners-thwart-credit-card-fraud-scheme/ |
+| [6] | Officers foil fraudsters stealing EUR 40 million in payment card scam | Europol | 2020-11-26 | https://www.europol.europa.eu/newsroom/news/officers-foil-fraudsters-stealing-%E2%82%AC40-million-in-payment-card-scam |

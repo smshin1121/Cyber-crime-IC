@@ -42,10 +42,14 @@ results:
 
   servers_seized: 0
   victims_notified: 0
-source_count: 1
+source_count: 5
 source_tier: 3
 sources:
-
+  - "[[bbc-banking-trojan-fraud-sentencing]]"
+  - "[[2025-06-25_helpnetsecurity-com_the-downfall-of-a-major-cybercrime-ring-exploiting-banking-trojans]]"
+  - "[[2015-06-25_scworld-com_europol-takes-down-high-profile-ukraine-based-cybergang]]"
+  - "[[2015-06-27_thehackernews-com_europol-arrests-gang-behind-zeus-and-spyeye-banking-malware]]"
+  - "[[2015-06-29_techmonitor-ai_zeus-spyeye-malware-gang-members-arrested-in-ukraine]]"
 status: completed
 target_entity: "Banking fraud perpetrator (used home IP)"
 timeframe:
@@ -125,5 +129,9 @@ No Korean involvement identified.
 ## References
 
 | # | Title | Publisher | Date | URL |
-|---|-------|----------|------|-----|
-| [1] | Crook Who Used His Home IP Address for Banking Fraud Gets 5 Years in Prison | BleepingComputer | ~2017 | [link](https://www.bleepingcomputer.com/news/security/crook-who-used-his-home-ip-address-for-banking-fraud-gets-5-years-in-prison/) |
+|---|---|---|---|---|
+| [1] | BBC News: Polish Banking Trojan Fraudster (Tomasz Skowron) Sentenced to Five Years | BBC News | 2018-04-26 | https://www.bbc.com/news/uk-43893420 |
+| [2] | The downfall of a major cybercrime ring exploiting banking Trojans | Help Net Security | 2015-06-25 | https://www.helpnetsecurity.com/2015/06/25/the-downfall-of-a-major-cybercrime-ring-exploiting-banking-trojans/ |
+| [3] | Europol takes down high profile Ukraine-based cybergang | SC Media | 2015-06-25 | https://www.scworld.com/news/europol-takes-down-high-profile-ukraine-based-cybergang |
+| [4] | Europol Arrests Gang Behind Zeus and SpyEye Banking Malware | The Hacker News | 2015-06-27 | https://thehackernews.com/2015/06/zeus-spyeye-banking-malware.html?m=1 |
+| [5] | Zeus & SpyEye malware gang members arrested in Ukraine | Tech Monitor | 2015-06-29 | https://www.techmonitor.ai/hardware/zeus-spyeye-malware-gang-members-arrested-in-ukraine-4611234 |

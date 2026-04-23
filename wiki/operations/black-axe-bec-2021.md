@@ -49,21 +49,29 @@ results:
     - "49 property searches"
     - "EUR 1.2 million intercepted in bank accounts"
     - "7 Purple Notices and 6 Red Notices issued"
-edges: []
+edges:
+
 credibility_index: 4.4
 source_tier: 1
-missing_fields: []
-related_cases: []
-related_operations: []
+missing_fields:
+
+related_cases:
+
+related_operations:
+
 challenges_encountered:
   - "The operation targeted a distributed West African criminal ecosystem rather than a single defendant or platform."
 lessons_learned:
   - "Financial interception and notice-based coordination are central to multinational BEC disruption."
-source_count: 1
+source_count: 5
 sources:
   - "[[2022-10-14_interpol_operation-jackal-black-axe]]"
+  - "[[2022-10-14_interpol-int_international-crackdown-on-west-african-financial-crime-rings]]"
+  - "[[2023-06-06_interpol_operation-jackal-black-axe-bec]]"
+  - "[[2024-08-28_interpol_operation-jackal-iii-black-axe]]"
+  - "[[2022-10-21_vanguardngr-com_interpol-arrests-over-70-suspected-fraudsters-linked-to-black-axe-cult-in-nigeria]]"
 created: 2026-04-08
-updated: 2026-04-18
+updated: 2026-04-09
 operation_role: umbrella
 parent_operation: ""
 summary: "INTERPOL's Operation Jackal was a multinational crackdown on Black Axe and related West African cyber-enabled financial crime groups. Officially announced on 2022-10-14, it produced 75 arrests, 49 searches, and EUR 1.2 million intercepted in bank accounts."
@@ -133,5 +141,9 @@ The public source does not identify a single court case, so this page should be 
 ## References
 
 | # | Title | Publisher | Date | URL |
-|---|-------|----------|------|-----|
-| [1] | International crackdown on West-African financial crime rings | INTERPOL | 2022-10-14 | https://www.interpol.int/News-and-Events/News/2022/International-crackdown-on-West-African-financial-crime-rings |
+|---|---|---|---|---|
+| [1] | International crackdown on West-African financial crime rings | INTERPOL | 2022-10-14 |  |
+| [2] | International crackdown on West-African financial crime rings | INTERPOL | 2022-10-14 | https://www.interpol.int/News-and-Events/News/2022/International-crackdown-on-West-African-financial-crime-rings |
+| [3] | Closing ranks on West African organized crime: more than EUR 2 million seized in Operation Jackal | INTERPOL | 2023-06-06 | https://www.interpol.int/News-and-Events/News/2023/Closing-ranks-on-West-African-organized-crime-more-than-EUR-2-million-seized-in-Operation-Jackal |
+| [4] | INTERPOL operation strikes major blow against West African financial crime - Operation Jackal III | INTERPOL | 2024-08-28 | https://www.interpol.int/en/News-and-Events/News/2024/INTERPOL-operation-strikes-major-blow-against-West-African-financial-crime |
+| [5] | INTERPOL arrests over 70 suspected fraudsters linked to Black Axe cult in Nigeria | Vanguard | 2022-10-21 | https://www.vanguardngr.com/2022/10/interpol-arrests-over-70-suspected-fraudsters-linked-to-black-axe-cult-in-nigeria/ |

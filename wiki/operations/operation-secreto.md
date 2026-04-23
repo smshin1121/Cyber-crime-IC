@@ -72,9 +72,13 @@ challenges_encountered:
 
 lessons_learned:
 
-source_count: 1
+source_count: 5
 sources:
-  - "[1] Europol News (2021-02)"
+  - "[[europol-operation-secreto]]"
+  - "[[the-record-operation-secreto]]"
+  - "[[2021-02-03_secretservice-gov_105-arrested-for-stealing-over-eur-12-million-from-u-s-based-banks]]"
+  - "[[2021-02-03_policia-es_la-policia-nacional-y-el-servicio-secreto-de-los-eeuu-desarticulan-una-organizacion]]"
+  - "[[2021-02-09_cisomag_operation-secreto-europol-busts-international-cybercriminal-group]]"
 created: 2026-04-08
 updated: 2026-04-08
 operation_role: umbrella
@@ -133,6 +137,9 @@ Spain, United States, Austria, Denmark, Greece
 ## References
 
 | # | Title | Publisher | Date | URL |
-|---|-------|----------|------|-----|
-| [1] | 105 Arrested for Stealing Over EUR 12 Million from US-Based Banks | Europol | 2021-02 | [원본](https://www.europol.europa.eu/media-press/newsroom/news/105-arrested-for-stealing-over-%E2%82%AC12-million-us-based-banks) |
-
+|---|---|---|---|---|
+| [1] | Europol: 105 Arrested for Stealing Over €12 Million from US-Based Banks (Operation Secreto) | Europol | 2021-02-03 | https://www.europol.europa.eu/media-press/newsroom/news/105-arrested-for-stealing-over-%E2%82%AC12-million-us-based-banks |
+| [2] | the-record-operation-secreto | Unknown | Unknown |  |
+| [3] | 105 Arrested for Stealing Over EUR 12 Million from U.S.-based Banks | United States Secret Service | 2021-02-03 | https://www.secretservice.gov/newsroom/releases/2021/02/105-arrested-stealing-over-eu12-million-us-based-banks |
+| [4] | La Policía Nacional y el Servicio Secreto de los EEUU desarticulan una organización que habría defraudado más de 12.000.000 de euros | Policía Nacional España | 2021-02-03 | https://www.policia.es/_es/comunicacion_prensa_detalle.php?ID=8401 |
+| [5] | Operation SECRETO: Europol Busts International Cybercriminal Group | CISO MAG | 2021-02-09 | https://cisomag.com/operation-secreto-europol-busts-international-cybercriminal-group/ |

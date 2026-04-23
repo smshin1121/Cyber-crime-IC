@@ -99,9 +99,13 @@ lessons_learned:
   - "Targeting upstream infrastructure (dropper malware) disrupts the entire ransomware supply chain"
   - "On-site command post at Europol HQ with 20+ officers from 4 countries enabled real-time coordination"
   - "Scale of 100+ servers and 2,000+ domains required coordinated simultaneous action across 10 countries"
-source_count: 1
+source_count: 5
 sources:
   - "[[2024-05-30-europol-operation-endgame-botnet-takedown]]"
+  - "[[2024-05-29_fbi-gov_operation-endgame-coordinated-worldwide-law-enforcement-action-against-network-o]]"
+  - "[[2024-05-30_bmi-bund-de_worldwide-investigation-against-cyber-crime-crowned-by-success]]"
+  - "[[2024-05-30_krebsonsecurity-com_operation-endgame-hits-malware-delivery-platforms]]"
+  - "[[2026-04-17_europol-europa-eu_operation-endgame-official-page]]"
 created: 2026-04-08
 updated: 2026-04-08
 operation_role: umbrella
@@ -230,6 +234,9 @@ No direct Korean involvement in Operation Endgame Phase 1 was identified.
 ## References
 
 | # | Title | Publisher | Date | URL |
-|---|-------|----------|------|-----|
-| [1] | Largest ever operation against botnets hits dropper malware ecosystem — Operation Endgame | Europol | 2024-05-30 | [원본](https://www.europol.europa.eu/media-press/newsroom/news/largest-ever-operation-against-botnets-hits-dropper-malware-ecosystem) |
-
+|---|---|---|---|---|
+| [1] | Largest ever operation against botnets hits dropper malware ecosystem - Operation Endgame | Europol | 2024-05-30 | https://www.europol.europa.eu/media-press/newsroom/news/largest-ever-operation-against-botnets-hits-dropper-malware-ecosystem |
+| [2] | Operation Endgame: Coordinated Worldwide Law Enforcement Action Against Network of Cybercriminals | FBI | 2024-05-29 | https://www.fbi.gov/news/press-releases/operation-endgame-coordinated-worldwide-law-enforcement-action-against-network-of-cybercriminals |
+| [3] | Worldwide investigation against cyber crime crowned by success | German BMI | 2024-05-30 | https://www.bmi.bund.de/SharedDocs/kurzmeldungen/EN/2024/05/endgame.html |
+| [4] | 'Operation Endgame' Hits Malware Delivery Platforms | KrebsOnSecurity | 2024-05-30 | https://krebsonsecurity.com/2024/05/operation-endgame-hits-malware-delivery-platforms/ |
+| [5] | Operation Endgame — official page | Europol | 2026-04-17 | https://www.europol.europa.eu/operations-services-and-innovation/operations/operation-endgame |

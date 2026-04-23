@@ -16,8 +16,10 @@ enforcement_type:
 outcome: success
 credibility_index: 4.5
 source_tier: 2
-edges: []
-missing_fields: []
+edges:
+
+missing_fields:
+
 timeframe:
   announced: 2025-05-13
   start: 2022-09-06
@@ -56,14 +58,21 @@ results:
   other:
     - "At least 100 victims identified"
     - "Searches across Albania, Cyprus, Israel, Belgium, and Latvia in different phases"
-related_cases: []
-related_operations: []
-challenges_encountered: []
+related_cases:
+
+related_operations:
+
+challenges_encountered:
+
 lessons_learned:
   - "Online investment fraud can require long-running staged action days, with evidence from early searches used to identify managerial layers later."
-source_count: 1
+source_count: 5
 sources:
   - "[[2025-05-13_eurojust_international-coalition-uncovers-eur-3-million-online-investment-fraud]]"
+  - "[[2025-05-13_securityonline-info_europol-cracks-e3m-investment-fraud-global-operation-dismantles-online-scam-network]]"
+  - "[[2025-05-13_globalregulatoryinsights-com_international-coalition-uncovers-eur-3-million-online-investment-fraud]]"
+  - "[[2025-05-08_gracechurchfcp-com_international-coalition-uncovers-e3m-online-investment-fraud]]"
+  - "[[2025-05-13_ilmetropolitano-it_eurojust-coalizione-internazionale-scopre-frodi-sugli-investimenti-online-da-3-mln-di-e]]"
 created: 2026-04-19
 updated: 2026-04-19
 summary: "Eurojust- and Europol-supported international action against a fake online investment platform, involving Germany and the United Kingdom among other states."
@@ -98,6 +107,10 @@ The group used a fake trading platform and aggressive call-centre tactics to pre
 
 ## References
 
-| # | Source | Publisher | Date | URL |
+| # | Title | Publisher | Date | URL |
 |---|---|---|---|---|
-| 1 | International coalition uncovers EUR 3 million online investment fraud | Eurojust | 2025-05-13 | https://www.eurojust.europa.eu/news/international-coalition-uncovers-eur-3-million-online-investment-fraud |
+| [1] | International coalition uncovers EUR 3 million online investment fraud | Eurojust | 2025-05-13 | https://www.eurojust.europa.eu/news/international-coalition-uncovers-eur-3-million-online-investment-fraud |
+| [2] | Europol Cracks EUR 3M Investment Fraud: Global Operation Dismantles Online Scam Network | Security Online | 2025-05-13 | https://securityonline.info/europol-cracks-e3m-investment-fraud-global-operation-dismantles-online-scam-network/ |
+| [3] | International coalition uncovers EUR 3 million online investment fraud | Global Regulatory Insights | 2025-05-13 | https://globalregulatoryinsights.com/art/international-coalition-uncovers-eur-3-million-online-investment-fraud/ |
+| [4] | International Coalition Uncovers EUR 3m Online Investment Fraud | Gracechurch Financial Crime Prevention | 2025-05-08 | https://gracechurchfcp.com/2025/05/international-coalition-uncovers-e3m-online-investment-fraud/ |
+| [5] | Eurojust. Coalizione internazionale scopre frodi sugli investimenti online da 3 mln di EUR | Il Metropolitano | 2025-05-13 | https://www.ilmetropolitano.it/2025/05/13/eurojust-coalizione-internazionale-scopre-frodi-sugli-investimenti-online-da-3-mln-di-e/ |

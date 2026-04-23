@@ -85,11 +85,15 @@ challenges_encountered:
 
 lessons_learned:
 
-source_count: 1
+source_count: 5
 sources:
-  - "[1] Europol News (2020-10)"
+  - "[[europol-2bagoldmule-qqaazz-takedown]]"
+  - "[[2020-10-16_occrp_pan-continental-operation-busts-money-launderers-for-europes-cybercriminals]]"
+  - "[[2020-10-15_ap_europol-fbi-arrest-20-cybercrime-money-launderers-from-various-nations]]"
+  - "[[2020-10-16_amlintelligence_notorious-central-europe-crime-gang-that-laundered-tens-of-millions-of-euro-for-hackers-targeted-in-raids]]"
+  - "[[2020-10-15_cyberscoop-com_fbi-accuses-russian-money-laundering-qqaazz]]"
 created: 2026-04-08
-updated: 2026-04-08
+updated: 2026-04-23
 operation_role: umbrella
 parent_operation: ""
 summary: "Operation 2BaGoldMule, led by Europol and involving 16 countries, dismantled the QQAAZZ criminal network that had laundered tens of millions of euros in criminal proceeds from cybercrime. The network operated since 2016, using hundreds of corporate and personal bank accounts to launder funds stolen through hacking and online fraud. The operation resulted in 20 arrests across multiple countries."
@@ -155,6 +159,9 @@ Portugal, United States, Spain, United Kingdom, Latvia, Bulgaria, Georgia, Italy
 ## References
 
 | # | Title | Publisher | Date | URL |
-|---|-------|----------|------|-----|
-| [1] | 20 Arrests in QQAAZZ Multi-Million Money Laundering Case | Europol | 2020-10 | [원본](https://www.europol.europa.eu/media-press/newsroom/news/20-arrests-in-qqaazz-multi-million-money-laundering-case) |
-
+|---|---|---|---|---|
+| [1] | Europol: 20 Arrests in QQAAZZ Multi-Million Money Laundering Case | Europol | 2020-10-15 | https://www.europol.europa.eu/media-press/newsroom/news/20-arrests-in-qqaazz-multi-million-money-laundering-case |
+| [2] | Pan-Continental Operation Busts Money Launderers for Europe’s Cybercriminals | OCCRP | 2020-10-16 | https://www.occrp.org/en/news/pan-continental-operation-busts-money-launderers-for-europes-cybercriminals |
+| [3] | Europol, FBI arrest 20 cybercrime money-launderers from various nations | Associated Press | 2020-10-15 | https://www.business-standard.com/article/international/europol-fbi-arrest-20-cybercrime-money-launderers-from-various-nations-120101501638_1.html |
+| [4] | Notorious Central Europe crime gang that laundered tens of millions of euro for hackers targeted in raids | AML Intelligence | 2020-10-16 | https://www.amlintelligence.com/2020/10/14-international-criminals-charged-in-laundering-investigation/ |
+| [5] | FBI accuses Russian money laundering QQAAZZ | CyberScoop | 2020-10-15 | https://cyberscoop.com/fbi-accuses-russian-money-laundering-qqaazz/ |

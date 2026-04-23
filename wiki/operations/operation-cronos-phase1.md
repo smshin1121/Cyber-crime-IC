@@ -100,11 +100,17 @@ lessons_learned:
   - "Multi-year coordination (27 Europol meetings, 4 technical sprints) enabled simultaneous multi-country action"
   - "Rapid decryption tool release through No More Ransom portal demonstrated victim-centric approach"
   - "SIENA messaging (1,000+ messages) proved essential for secure operational communication"
-source_count: 1
+source_count: 7
 sources:
   - "[[2024-02-20-europol-operation-cronos-lockbit]]"
+  - "[[2024-05-07_gov-uk_uk-and-allies-sanction-prolific-cyber-hacker]]"
+  - "[[2024-07-18_nj_lockbit-astamirov-vasiliev-pleas]]"
+  - "[[2024-07-22_justice-gov_lockbit-case-summary-page]]"
+  - "[[2024-10-01_europol-europa-eu_operation-cronos-phase-3]]"
+  - "[[2024-12-04_nationalcrimeagency-gov-uk_operation-destabilise-nca-disrupts-multi-billion-money-laundering-networks]]"
+  - "[[2026-01-28_gov-uk_financial-sanctions-guidance-for-ransomware]]"
 created: 2026-04-08
-updated: 2026-04-08
+updated: 2026-04-09
 operation_role: umbrella
 parent_operation: ""
 summary: "**Operation Cronos Phase 1** was a landmark international law enforcement action that disrupted **LockBit**, the world's most deployed ransomware variant since 2022. On 20 February 2024, agencies from 10 countries executed a coordinated takedown of LockBit's infrastructure, led by the [[uk-nca|UK National Crime Agency]] and coordinated by [[europol-ec3|Europol]] and [[eurojust|Eurojust]]."
@@ -240,5 +246,11 @@ No direct Korean involvement in Operation Cronos Phase 1 was identified. However
 ## References
 
 | # | Title | Publisher | Date | URL |
-|---|-------|----------|------|-----|
-| [1] | Law enforcement disrupt world's biggest ransomware operation — Operation Cronos (LockBit) | Europol | 2024-02-20 | [원본](https://www.europol.europa.eu/media-press/newsroom/news/law-enforcement-disrupt-worlds-biggest-ransomware-operation) |
+|---|---|---|---|---|
+| [1] | Law enforcement disrupt world's biggest ransomware operation - Operation Cronos (LockBit) | Europol | 2024-02-20 | https://www.europol.europa.eu/media-press/newsroom/news/law-enforcement-disrupt-worlds-biggest-ransomware-operation |
+| [2] | UK and Allies Sanction Prolific Cyber Hacker | Foreign, Commonwealth & Development Office | 2024-05-07 | https://www.gov.uk/government/news/uk-and-allies-sanction-prolific-cyber-hacker |
+| [3] | Two Foreign Nationals Plead Guilty to Participation in LockBit Ransomware Group | US DOJ (District of New Jersey) | 2024-07-18 | https://www.justice.gov/usao-nj/pr/two-foreign-nationals-plead-guilty-participation-lockbit-ransomware-group |
+| [4] | LockBit case summary page | DOJ NJ | 2024-07-22 | https://www.justice.gov/usao-nj/lockbit |
+| [5] | Operation Cronos Phase 3 | Europol | 2024-10-01 | https://www.europol.europa.eu/media-press/newsroom/news/lockbit-power-cut-four-new-arrests-and-financial-sanctions-against-affiliates |
+| [6] | Operation Destabilise: NCA disrupts multi-billion money laundering networks | National Crime Agency | 2024-12-04 | https://www.nationalcrimeagency.gov.uk/news/operation-destabilise-nca-disrupts-multi-billion-russian-money-laundering-networks-with-links-to-drugs-ransomware-and-espionage-resulting-in-84-arrests |
+| [7] | Financial sanctions guidance for ransomware | Office of Financial Sanctions Implementation | 2026-01-28 | https://www.gov.uk/government/publications/financial-sanctions-guidance-for-ransomware/financial-sanctions-guidance-for-ransomware |

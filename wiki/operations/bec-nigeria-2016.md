@@ -61,11 +61,15 @@ challenges_encountered:
 
 lessons_learned:
 
-source_count: 1
+source_count: 5
 sources:
-  - tier3-sophos-nigerian-bec-2016
+  - "[[2016-08-01_interpol-es_ringleader-of-global-network-behind-thousands-of-online-scams-arrested-in-nigeria]]"
+  - "[[2016-08-01_arstechnica_nigerian-authorities-arrest-alleged-mastermind-of-60m-worth-of-online-scams]]"
+  - "[[2016-08-01_cnn_nigerian-man-arrested-in-global-60-million-scam]]"
+  - "[[2016-08-01_dw_nigerian-arrested-for-international-60-million-dollar-online-fraud]]"
+  - "[[2016-12-22_justice-gov_nigerian-nationals-charged-with-operating-business-compromise-scheme]]"
 created: 2026-04-08
-updated: 2026-04-08
+updated: 2026-04-23
 operation_role: umbrella
 parent_operation: ""
 summary: "In August 2016, a Nigerian national was arrested for an email fraud scheme that caused approximately **$60 million** in losses through Business Email Compromise (BEC) scams. The arrest involved international cooperation, *likely* including INTERPOL coordination with Nigerian law enforcement."
@@ -144,6 +148,9 @@ No Korean involvement identified. However, BEC schemes increasingly targeted com
 ## References
 
 | # | Title | Publisher | Date | URL |
-|---|-------|----------|------|-----|
-| [1] | Nigerian scammer arrested for $60 million email fraud | Sophos | 2016-08-02 | [link](http://web.archive.org/web/20251107193750/https://news.sophos.com/en-us/2016/08/02/nigerian-scammer-arrested-for-60-million-email-fraud/) |
-
+|---|---|---|---|---|
+| [1] | Ringleader of global network behind thousands of online scams arrested in Nigeria | INTERPOL | 2016-08-01 | https://www.interpol.int/es/Noticias-y-acontecimientos/Noticias/2016/Ringleader-of-global-network-behind-thousands-of-online-scams-arrested-in-Nigeria |
+| [2] | Nigerian authorities arrest alleged mastermind of $60M worth of online scams | Ars Technica | 2016-08-01 | https://arstechnica.com/tech-policy/2016/08/nigerian-authorities-arrest-alleged-mastermind-of-60m-worth-of-online-scams/ |
+| [3] | Nigerian man arrested in global, $60 million scam | CNN | 2016-08-01 | https://money.cnn.com/2016/08/01/news/companies/nigeria-scam-arrest/index.html |
+| [4] | Nigerian arrested for international 60 million dollar online fraud | Deutsche Welle | 2016-08-01 | https://www.dw.com/en/nigerian-arrested-for-international-60-million-dollar-online-fraud/a-19441117 |
+| [5] | Nigerian Nationals Charged with Operating Business Compromise Scheme | DOJ D. Conn. | 2016-12-22 | https://www.justice.gov/usao-ct/pr/nigerian-nationals-charged-operating-business-compromise-scheme |

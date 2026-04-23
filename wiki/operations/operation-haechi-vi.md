@@ -110,11 +110,15 @@ lessons_learned:
   - "I-GRIP mechanism proven for rapid BEC fund recovery (Korea-UAE, Thailand cases)"
   - "HAECHI series continues to set financial recovery records ($439M vs $400M in HAECHI V)"
   - "Crypto wallet freezing now standard component of financial cybercrime operations"
-source_count: 1
+source_count: 5
 sources:
   - "[[2025-09-25-interpol-operation-haechi-vi]]"
+  - "[[2025-09-25_interpol-es_usd-439-million-recovered-in-global-financial-crime-operation-haechi-vi]]"
+  - "[[2025-09-25_maldivespolice-gov-mv_interpol-operation-haechi-vi-recovery-and-arrest-update]]"
+  - "[[2025-09-26_comsuregroup_operation-haechi-vi-439m-recovered]]"
+  - "[[2025-09-27_dailysecurityreview_operation-haechi-vi-record-recovery]]"
 created: 2026-04-08
-updated: 2026-04-11
+updated: 2026-04-23
 operation_role: umbrella
 parent_operation: ""
 summary: "Operation HAECHI VI was the sixth iteration of the Korea-initiated HAECHI series, running from April to August 2025 across **40 countries and territories**. The operation recovered **USD 439 million** total (USD 342M fiat, USD 97M physical/virtual assets), blocked **68,000+ bank accounts**, froze **~400 cryptocurrency wallets**, and recovered approximately **USD 16 million** from crypto wallets. HAECHI VI set a new series record for financial recovery."
@@ -223,6 +227,11 @@ Korea continues as the **lead country** of the HAECHI series. In HAECHI VI:
 > not result in formal prosecution.
 
 ## References
+
 | # | Title | Publisher | Date | URL |
-|---|-------|----------|------|-----|
-| [1] | USD 439 million recovered in global financial crime operation — Operation HAECHI VI | INTERPOL | 2025-09-25 | [원본](https://www.interpol.int/en/News-and-Events/News/2025/USD-439-million-recovered-in-global-financial-crime-operation) |
+|---|---|---|---|---|
+| [1] | USD 439 million recovered in global financial crime operation - Operation HAECHI VI | INTERPOL | 2025-09-25 | https://www.interpol.int/en/News-and-Events/News/2025/USD-439-million-recovered-in-global-financial-crime-operation |
+| [2] | Recuperados USD 439 millones en una operación mundial contra la delincuencia financiera: Operación HAECHI VI | INTERPOL | 2025-09-25 | https://www.interpol.int/es/Noticias-y-acontecimientos/Noticias/2025/USD-439-million-recovered-in-global-financial-crime-operation |
+| [3] | Maldives Police notes INTERPOL Operation HAECHI VI outcomes | Maldives Police Service | 2025-09-25 | https://www.police.gov.mv/media/news/24615 |
+| [4] | Operation HAECHI VI sees $439m recovered from global financial crime | Comsure Group | 2025-09-26 | https://comsuregroup.com/news/operation-haechi-vi-sees-439m-recovered-from-global-financial-crime/ |
+| [5] | Operation HAECHI VI records $439 million recovery in global financial crime crackdown | Daily Security Review | 2025-09-27 | https://dailysecurityreview.com/security-spotlight/operation-haechi-vi-records-439-million-recovery-in-global-financial-crime-crackdown/ |

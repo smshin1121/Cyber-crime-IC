@@ -68,12 +68,15 @@ challenges_encountered:
 lessons_learned:
   - "Targeting money laundering infrastructure disrupts the financial flow that sustains cybercrime"
   - "Large-scale arrest operations (80+) require extensive coordination"
-source_count: 1
+source_count: 5
 sources:
   - "[[2024-12-04_nationalcrimeagency-gov-uk_operation-destabilise-84-arrests]]"
-
+  - "[[2024-12-04_treasury-gov_treasury-exposes-money-laundering-network-using-digital-assets-to-evade-sanctions]]"
+  - "[[2024-12-04_theguardian_global-investigation-exposes-alleged-billion-dollar-russian-money-laundering-network]]"
+  - "[[2024-12-04_wired_operation-destabilise-money-laundering]]"
+  - "[[2024-12-04_computerweekly-com_nca-takes-out-network-that-laundered-ransomware-payments]]"
 created: 2026-04-08
-updated: 2026-04-18
+updated: 2026-04-09
 operation_role: umbrella
 parent_operation: ""
 summary: "**Operation Destabilise** was a major NCA-FBI joint operation targeting **money laundering networks** that facilitated ransomware and cybercrime proceeds. The operation resulted in over **84 arrests** and the disruption of Russian-speaking money laundering networks that served as the financial backbone for cybercriminal groups."
@@ -160,6 +163,9 @@ No Korean involvement identified.
 ## References
 
 | # | Title | Publisher | Date | URL |
-|---|-------|----------|------|-----|
+|---|---|---|---|---|
 | [1] | Operation Destabilise: NCA disrupts multi-billion Russian money laundering networks with links to drugs, ransomware and espionage, resulting in 84 arrests | UK National Crime Agency | 2024-12-04 | https://www.nationalcrimeagency.gov.uk/news/operation-destabilise-nca-disrupts-multi-billion-russian-money-laundering-networks-with-links-to-drugs-ransomware-and-espionage-resulting-in-84-arrests |
-
+| [2] | Treasury Exposes Money Laundering Network Using Digital Assets to Evade Sanctions | U.S. Department of the Treasury | 2024-12-04 | https://home.treasury.gov/news/press-releases/jy2735 |
+| [3] | Global investigation exposes alleged billion-dollar Russian money-laundering network | The Guardian | 2024-12-04 | https://www.theguardian.com/business/2024/dec/04/global-investigation-exposes-alleged-billion-dollar-russian-money-laundering-network |
+| [4] | She Was a Russian Socialite and Influencer. Cops Say She's a Crypto Laundering Kingpin | Wired | 2024-12-04 | https://www.wired.com/story/operation-destabilise-money-laundering |
+| [5] | NCA takes out network that laundered ransomware payments | Computer Weekly | 2024-12-04 | https://www.computerweekly.com/news/366616657/NCA-takes-out-network-that-laundered-ransomware-payments |

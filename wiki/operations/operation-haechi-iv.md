@@ -78,11 +78,15 @@ lessons_learned:
   - "Series-based approach enables consistent escalation (975 → 3,500 arrests from HAECHI III to IV)"
   - "AI-generated voice cloning emerging as new threat for impersonation scams"
   - "Virtual assets now represent significant portion of seizures (USD 101M of USD 300M total)"
-source_count: 1
+source_count: 5
 sources:
   - "[[2023-12-19-interpol-operation-haechi-iv]]"
+  - "[[2023-12-19_interpol-es_usd-300-million-seized-and-3-500-suspects-arrested-operation-haechi-iv]]"
+  - "[[2023-12-20_techradar_interpol-operation-results-in-arrest-of-3500-criminals-and-seizure-of-300-million]]"
+  - "[[2023-12-21_mynavi-techplus_interpol-operation-haechi-iv]]"
+  - "[[2023-12-20_pcgamer_interpol-seizes-usd300m-from-global-cybercriminals-and-says-ai-voice-cloning-is-creating-a-whole-new-class-of-victim]]"
 created: 2026-04-08
-updated: 2026-04-08
+updated: 2026-04-23
 operation_role: umbrella
 parent_operation: ""
 summary: "Operation HAECHI IV was the fourth iteration of the Korea-initiated HAECHI series, running from July to December 2023 across **34 countries**. The operation resulted in approximately **3,500 arrests** and seizure of **USD 300 million** (USD 199M fiat, USD 101M virtual assets). Authorities blocked **82,112 suspicious bank accounts**. HAECHI IV represented a **260% increase** in arrests compared to HAECHI III (2022)."
@@ -169,6 +173,11 @@ South Korea leads the HAECHI series through the [[knpa-cyber-bureau|KNPA]]. In H
 > not result in formal prosecution.
 
 ## References
+
 | # | Title | Publisher | Date | URL |
-|---|-------|----------|------|-----|
-| [1] | USD 300 million seized and 3,500 suspects arrested in international financial crime operation — Operation HAECHI IV | INTERPOL | 2023-12-19 | [원본](https://www.interpol.int/News-and-Events/News/2023/USD-300-million-seized-and-3-500-suspects-arrested-in-international-financial-crime-operation) |
+|---|---|---|---|---|
+| [1] | USD 300 million seized and 3,500 suspects arrested in international financial crime operation - Operation HAECHI IV | INTERPOL | 2023-12-19 | https://www.interpol.int/News-and-Events/News/2023/USD-300-million-seized-and-3-500-suspects-arrested-in-international-financial-crime-operation |
+| [2] | USD 300 millones incautados y 3.500 sospechosos detenidos en una operación internacional contra la delincuencia financiera: Operación HAECHI IV | INTERPOL | 2023-12-19 | https://www.interpol.int/es/Noticias-y-acontecimientos/Noticias/2023/USD-300-million-seized-and-3-500-suspects-arrested-in-international-financial-crime-operation |
+| [3] | Interpol operation results in arrest of 3,500 criminals and seizure of $300 million | TechRadar | 2023-12-20 | https://www.techradar.com/pro/security/interpol-operation-results-in-arrest-of-3500-criminals-and-seizure-of-dollar300-million |
+| [4] | INTERPOL、詐欺・資金洗浄の国際捜査「Operation HAECHI IV」で3500人超を逮捕 | TECH+ | 2023-12-21 | https://news.mynavi.jp/techplus/article/20231221-2845400/ |
+| [5] | Interpol seizes $300m from global cybercriminals and says AI voice cloning is creating a whole new class of victim | PC Gamer | 2023-12-20 | https://www.pcgamer.com/interpol-seizes-dollar300m-from-global-cybercriminals-and-says-ai-voice-cloning-is-creating-a-whole-new-class-of-victim/ |

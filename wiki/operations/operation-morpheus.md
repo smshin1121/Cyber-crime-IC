@@ -48,10 +48,14 @@ results:
 
   servers_seized: 593
   victims_notified: 0
-source_count: 1
+source_count: 5
 source_tier: 2
 sources:
   - "[[2024-06-28-uk-nca-operation-morpheus-cobalt-strike]]"
+  - "[[the-hacker-news-operation-morpheus-cobalt-strike-takedown]]"
+  - "[[uk-nca-operation-morpheus-cobalt-strike-takedown]]"
+  - "[[2024-07-03_bleepingcomputer-com_europol-takes-down-593-cobalt-strike-servers-used-by-cybercriminals]]"
+  - "[[2024-07-03_techradar-com_hundreds-of-cobalt-strike-linked-servers-taken-down-in-major-police-operation]]"
 status: completed
 target_entity: "Unauthorized Cobalt Strike servers"
 timeframe:
@@ -62,7 +66,7 @@ timeframe:
 title: "Operation Morpheus (Cobalt Strike Takedown)"
 title_ko: "모르페우스 작전 (코발트 스트라이크 소탕)"
 type: operation
-updated: 2026-04-22
+updated: 2026-04-09
 operation_role: umbrella
 parent_operation: ""
 summary: "**Operation Morpheus** was an NCA-led, Europol-coordinated international operation targeting unauthorized (pirated/cracked) instances of **Cobalt Strike**, a legitimate penetration testing tool that has been extensively abused by cybercriminals for ransomware attacks, espionage, and other malicious purposes. The operation resulted in the takedown of **593 Cobalt Strike servers** across **27 countries**."
@@ -149,9 +153,11 @@ No Korean involvement identified. However, Cobalt Strike abuse is a global issue
 > not result in formal prosecution.
 
 ## References
-| # | Title | Publisher | Date | URL |
-|---|-------|----------|------|-----|
-| [1] | National Crime Agency leads international operation to degrade illegal versions of Cobalt Strike | UK NCA | 2024-07-03 | [link](https://www.nationalcrimeagency.gov.uk/news/national-crime-agency-leads-international-operation-to-degrade-illegal-versions-of-cobalt-strike) |
 
-> [!note] Source enrichment 2026-04-14
-> A prior Tier-3 row (The Hacker News aggregator, 2024-07) was removed in favor of the Tier-1 NCA primary source. The NCA page corroborates all quantitative claims on this page.
+| # | Title | Publisher | Date | URL |
+|---|---|---|---|---|
+| [1] | National Crime Agency leads international operation to degrade illegal versions of Cobalt Strike | UK National Crime Agency | 2024-07-03 |  |
+| [2] | The Hacker News: Global Police Operation Shuts Down 600 Cybercrime Servers (Operation Morpheus) | The Hacker News | 2024-07-03 | https://thehackernews.com/2024/07/global-police-operation-shuts-down-600.html |
+| [3] | UK NCA: Operation Morpheus (Cobalt Strike Takedown) | UK NCA | Unknown | https://www.nationalcrimeagency.gov.uk/news/national-crime-agency-leads-international-operation-to-degrade-illegal-versions-of-cobalt-strike |
+| [4] | Europol takes down 593 Cobalt Strike servers used by cybercriminals | BleepingComputer | 2024-07-03 | https://www.bleepingcomputer.com/news/security/europol-takes-down-593-cobalt-strike-servers-used-by-cybercriminals/ |
+| [5] | Hundreds of Cobalt Strike-linked servers taken down in major police operation | TechRadar | 2024-07-03 | https://www.techradar.com/pro/security/hundreds-of-cobalt-strike-linked-servers-taken-down-in-major-police-operation |

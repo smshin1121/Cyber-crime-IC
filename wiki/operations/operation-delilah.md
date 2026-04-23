@@ -3,69 +3,68 @@ operation_role: umbrella
 parent_operation: ""
 summary: "**Operation Delilah** was an INTERPOL-coordinated operation that resulted in the arrest of a leader of **SilverTerrier**, a prolific Nigerian Business Email Compromise (BEC) cybercrime group. The arrest was conducted in [[nigeria|Nigeria]] and represented a significant blow to one of the most tracked BEC groups."
 aliases:
-- Operation Delilah
-- SilverTerrier arrest
-- INTERPOL Nigeria BEC leader arrest
+
 case_id: CYB-2022-050
-challenges_encountered: []
-coordinating_body: '[[interpol]]'
+challenges_encountered:
+
+coordinating_body: "[[interpol]]"
 created: 2026-04-08
 credibility_index: 2.25
-crime_type: '[[bec-ic]]'
+crime_type: "[[bec-ic]]"
 edges:
-- cooperation_type: joint_investigation
-  direction: undirected
-  legal_basis: unknown
-  source_actor: INTERPOL
-  target_actor: Nigeria EFCC
+
 enforcement_type:
-- arrest
-lead_agency: '[[interpol]]'
-legal_basis: []
+
+lead_agency: "[[interpol]]"
+legal_basis:
+
 lessons_learned:
-- Targeting BEC group leaders can disrupt entire criminal networks
-mechanisms_used: []
+
+mechanisms_used:
+
 missing_fields:
-- legal_basis
-- mechanisms_used
-- exact_timeframe
-- financial_losses
-- url
+
 operation_type: arrest-sweep
 outcome: success
 participating_agencies:
-- '[[interpol]]'
+
 participating_countries:
-- '[[nigeria]]'
+
 period: 2
-related_cases: []
-related_operations: []
+related_cases:
+
+related_operations:
+
 results:
   arrests: 1
-  cryptocurrency_seized: ''
+  cryptocurrency_seized: ""
   decryption_keys_recovered: 0
   domains_seized: 0
   indictments: 0
   other:
-  - SilverTerrier BEC group leader arrested in Nigeria
+
   servers_seized: 0
   victims_notified: 0
-source_count: 2
+source_count: 5
 source_tier: 3
-sources: []
+sources:
+  - "[[group-ib-operation-delilah-silverterrier-bec]]"
+  - "[[cyberscoop-operation-delilah-silverterrier-bec]]"
+  - "[[2022-05-25_interpol-int_suspected-head-of-cybercrime-gang-arrested-in-nigeria]]"
+  - "[[2022-05-25_bleepingcomputer-com_interpol-arrests-alleged-leader-of-the-silverterrier-bec-gang]]"
+  - "[[2022-05-25_unit42-paloaltonetworks-com_operation-delilah-business-email-compromise-actor]]"
 status: completed
-target_entity: SilverTerrier BEC group leader
+target_entity: "SilverTerrier BEC group leader"
 timeframe:
-  announced: '2022-01-01'
-  end: '2022-12-31'
+  announced: 2022-01-01
+  end: 2022-12-31
   ongoing: false
-  start: '2022-01-01'
-title: Operation Delilah (SilverTerrier BEC)
-title_ko: 들릴라 작전 (SilverTerrier BEC)
+  start: 2022-01-01
+title: "Operation Delilah (SilverTerrier BEC)"
+title_ko: "들릴라 작전 (SilverTerrier BEC)"
 type: operation
-updated: '2026-04-09'
+updated: 2026-04-09
 ---
-
 > [!note] This operation is documented from a Tier 3 (cybersecurity media) source. Additional verification from official sources (Tier 1-2) would strengthen data reliability.
 
 ## Summary
@@ -128,6 +127,9 @@ No Korean involvement identified. SilverTerrier has primarily targeted Western c
 ## References
 
 | # | Title | Publisher | Date | URL |
-|---|-------|----------|------|-----|
-| [1] | Silverterrier Interpol Nigeria Bec | CyberScoop | 2022-01-01 | [원본](https://cyberscoop.com/silverterrier-interpol-nigeria-bec/) |
-| [2] | Interpol Gib Delilah | Group-IB | 2022-01-01 | [원본](https://www.group-ib.com/media-center/press-releases/interpol-gib-delilah/) |
+|---|---|---|---|---|
+| [1] | Group-IB: Operation Delilah — Interpol Nabs Suspected Leader of Transnational Phishing Ring | Group-IB | 2022-05-25 | https://www.group-ib.com/media-center/press-releases/interpol-gib-delilah/ |
+| [2] | CyberScoop: Operation Delilah (SilverTerrier BEC) | CyberScoop | 2022-05-25 | https://cyberscoop.com/silverterrier-interpol-nigeria-bec/ |
+| [3] | Suspected head of cybercrime gang arrested in Nigeria | INTERPOL | 2022-05-25 | https://www.interpol.int/en/News-and-Events/News/2022/Suspected-head-of-cybercrime-gang-arrested-in-Nigeria |
+| [4] | Interpol arrests alleged leader of the SilverTerrier BEC gang | BleepingComputer | 2022-05-25 | https://www.bleepingcomputer.com/news/security/interpol-arrests-alleged-leader-of-the-silverterrier-bec-gang/ |
+| [5] | Operation Delilah Helps Identify Business Email Compromise Actor | Palo Alto Networks Unit 42 | 2022-05-25 | https://unit42.paloaltonetworks.com/operation-delilah-business-email-compromise-actor/ |

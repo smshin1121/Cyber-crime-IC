@@ -79,11 +79,13 @@ challenges_encountered:
 lessons_learned:
   - "Private-sector referrals (Microsoft) likely played a role in initial intelligence, though CBI official statements emphasize law enforcement channels"
   - "Multi-phase operations (Chakra I through V) demonstrate sustained commitment to combating tech-support fraud"
-source_count: 3
+source_count: 5
 sources:
-  - "[1] The Cyber Express — CBI Seizes Transnational Cybercrime Network (2024-09)"
-  - "[2] The420.in — Operation CHAKRA-III Inside CBI's Takedown (2024-10)"
-  - "[3] News on Air (Gov India) — CBI Operation Chakra-III Dismantles Network (2024-09)"
+  - "[[2024-09-01_newsonair-gov-in_cbi-operation-chakra-iii-dismantles-virtual-asset-network]]"
+  - "[[2024-10-01_the420-in_operation-chakra-iii-inside-cbi-s-explosive-takedown]]"
+  - "[[2024-07-26_newindianexpress-com_operation-chakra-iii-cbi-arrests-43-operatives]]"
+  - "[[2024-07-26_indianexpress-com_cbi-busts-cyber-crime-network-operating-from-gurugram-43-arrested]]"
+  - "[[2024-07-26_tribuneindia-com_cbi-busts-gurugram-call-centre-that-duped-foreigners-nabs-43-cyber-criminals]]"
 created: 2026-04-10
 updated: 2026-04-10
 operation_role: umbrella
@@ -251,7 +253,9 @@ No known Korean involvement in Operation Chakra-III. However, tech-support scams
 ## References
 
 | # | Title | Publisher | Date | URL |
-|---|-------|----------|------|-----|
-| [1] | CBI Takes Down Transnational Cybercrime Network In India | The Cyber Express | 2024-09 | [원본](https://thecyberexpress.com/cbi-seizes-transnational-cybercrime-network/) |
-| [2] | Operation CHAKRA-III: Inside CBI's Explosive Takedown | The420.in | 2024-10 | [원본](https://the420.in/operation-chakra-iii-inside-the-cbis-explosive-takedown-of-a-global-cyber-fraud-network/) |
-| [3] | CBI Operation Chakra-III Dismantles Virtual Asset Network | News on Air (Gov India) | 2024-09 | [원본](https://www.newsonair.gov.in/cbi-in-ongoing-operation-chakra-iii-dismantles-virtual-asset-and-bullion-supported-cybercrime-network/) |
+|---|---|---|---|---|
+| [1] | CBI Operation Chakra-III Dismantles Virtual Asset Network | News on Air (Gov India) | 2024-09-01 | https://www.newsonair.gov.in/cbi-in-ongoing-operation-chakra-iii-dismantles-virtual-asset-and-bullion-supported-cybercrime-network/ |
+| [2] | Operation CHAKRA-III: Inside CBI's Explosive Takedown | The420.in | 2024-10-01 | https://the420.in/operation-chakra-iii-inside-the-cbis-explosive-takedown-of-a-global-cyber-fraud-network/ |
+| [3] | Operation CHAKRA-III: CBI arrests 43 operatives of transnational cyber financial crime network | The New Indian Express | 2024-07-26 | https://www.newindianexpress.com/nation/2024/Jul/26/operation-chakra-iii-cbi-arrests-43-operatives-of-transnational-cyber-financial-crime-network-2 |
+| [4] | CBI busts cyber crime network operating from Gurugram; 43 arrested | The Indian Express | 2024-07-26 | https://indianexpress.com/article/cities/delhi/cbi-busts-gurugram-call-centre-duped-foreigners-nabs-cyber-criminals-9477534/ |
+| [5] | CBI busts cyber crime network operating from Haryana's Gurugram; 43 arrested | The Tribune | 2024-07-26 | https://www.tribuneindia.com/news/india/cbi-busts-gurugram-call-centre-that-duped-foreigners-nabs-43-cyber-criminals-643559/ |

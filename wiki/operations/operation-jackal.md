@@ -91,11 +91,15 @@ challenges_encountered:
 lessons_learned:
   - "Dedicated operations targeting specific organized crime groups (Black Axe) can mobilize 21-country coordination"
   - "BEC enforcement requires parallel financial account blocking across multiple jurisdictions"
-source_count: 1
+source_count: 5
 sources:
   - "[[2023-06-06-interpol-operation-jackal]]"
+  - "[[2022-10-14_garda-ie_interpol-operation-jackal-ireland-operation-skein-14th-october-2022]]"
+  - "[[2023-08-10_garda-ie_interpol-operation-jackal-ireland-operation-skein-update-august-2023]]"
+  - "[[2023-08-10_irishexaminer-com_34-arrested-in-ireland-as-part-of-interpol-operation-targeting-west-african-crime-syndicate]]"
+  - "[[2023-08-08_brusselstimes-com_internet-scams-interpol-swoops-down-on-west-africa-based-criminal-networks]]"
 created: 2026-04-08
-updated: 2026-04-08
+updated: 2026-04-23
 operation_role: umbrella
 parent_operation: ""
 summary: "Operation Jackal was INTERPOL's first dedicated operation targeting **Black Axe** and similar West African organized crime groups, coordinated from 15 to 29 May 2023 across **21 countries** on five continents. The operation resulted in **103 arrests**, identification of **1,110 suspects**, blocking of **208 bank accounts**, and seizure/freezing of **EUR 2.15 million**. Black Axe is identified as responsible for the majority of the world's cyber-enabled financial fraud, particularly business email compromise (BEC)."
@@ -177,6 +181,11 @@ No direct Korean involvement in this operation. Black Axe operations primarily t
 > not result in formal prosecution.
 
 ## References
+
 | # | Title | Publisher | Date | URL |
-|---|-------|----------|------|-----|
-| [1] | Closing ranks on West African organized crime: more than EUR 2 million seized in Operation Jackal | INTERPOL | 2023-06-06 | [원본](https://www.interpol.int/News-and-Events/News/2023/Closing-ranks-on-West-African-organized-crime-more-than-EUR-2-million-seized-in-Operation-Jackal) |
+|---|---|---|---|---|
+| [1] | Closing ranks on West African organized crime: more than EUR 2 million seized in Operation Jackal | INTERPOL | 2023-06-06 | https://www.interpol.int/News-and-Events/News/2023/Closing-ranks-on-West-African-organized-crime-more-than-EUR-2-million-seized-in-Operation-Jackal |
+| [2] | Interpol Operation JACKAL / Ireland Operation Skein - 14th October 2022 | An Garda Siochana | 2022-10-14 | https://www.garda.ie/en/about-us/our-departments/office-of-corporate-communications/press-releases/2022/october/interpol-operation-jackal-ireland-operation-skein-14th-october-2022.html |
+| [3] | INTERPOL Operation JACKAL / Ireland Operation SKEIN - Update August 2023 | An Garda Siochana | 2023-08-10 | https://www.garda.ie/en/about-us/our-departments/office-of-corporate-communications/press-releases/2023/august/interpol-operation-jackal-ireland-operation-skein-update-august-2023.html |
+| [4] | 34 arrested in Ireland as part of Interpol operation targeting West African crime syndicate | Irish Examiner | 2023-08-10 | https://www.irishexaminer.com/news/courtandcrime/arid-41201884.html |
+| [5] | Internet scams: Interpol swoops down on West Africa-based criminal networks | The Brussels Times | 2023-08-08 | https://www.brusselstimes.com/news/637054/internet-scams-interpol-swoops-down-on-west-africa-based-criminal-networks/ |

@@ -93,11 +93,15 @@ lessons_learned:
   - "Infrastructure-focused operations can achieve massive scale (300 servers, 650 domains) even without immediate arrests"
   - "International arrest warrants and EU Most Wanted listings create sustained pressure on fugitives"
   - "Cumulative cryptocurrency seizures (EUR 21.2M+) demonstrate the financial disruption potential of sustained campaigns"
-source_count: 3
+source_count: 7
 sources:
   - "[[2025-05-23-europol-operation-endgame-phase2]]"
   - "[[2025-05-28-thehackernews-danabot-malware]]"
   - "[[2025-05-22-europol-endgame-follow-up]]"
+  - "[[2024-05-29_fbi-gov_operation-endgame-coordinated-worldwide-law-enforcement-action-against-network-o]]"
+  - "[[2024-05-30_europol-europa-eu_largest-ever-operation-against-botnets-operation-endgame]]"
+  - "[[2024-05-30_krebsonsecurity-com_operation-endgame-hits-malware-delivery-platforms]]"
+  - "[[2025-05-22_europol-europa-eu_operation-endgame-follow-up-leads-to-detentions-and-server-takedowns]]"
 created: 2026-04-08
 updated: 2026-04-12
 operation_role: umbrella
@@ -245,7 +249,11 @@ A follow-up enforcement action (row 21, Europol URL) resulted in:
 ## References
 
 | # | Title | Publisher | Date | URL |
-|---|-------|----------|------|-----|
-| [1] | Operation Endgame strikes again: the ransomware kill chain broken at its source | Europol | 2025-05-23 | [원본](https://www.europol.europa.eu/media-press/newsroom/news/operation-endgame-strikes-again-ransomware-kill-chain-broken-its-source) |
-| [2] | US Dismantles DanaBot Malware Network | The Hacker News | 2025-05-28 | [원본](https://thehackernews.com/2025/05/us-dismantles-danabot-malware-network.html) |
-| [3] | Operation Endgame: Follow-up leads to detentions and server takedowns | Europol | 2025-05-22 | [원본](https://www.europol.europa.eu/media-press/newsroom/news/operation-endgame-follow-leads-to-five-detentions-and-interrogations-well-server-takedowns) |
+|---|---|---|---|---|
+| [1] | Operation Endgame strikes again: the ransomware kill chain broken at its source | Europol | 2025-05-23 | https://www.europol.europa.eu/media-press/newsroom/news/operation-endgame-strikes-again-ransomware-kill-chain-broken-its-source |
+| [2] | DanaBot malware reporting | The Hacker News | 2025-05-28 |  |
+| [3] | Operation Endgame Follow-up | Europol | 2025-05-22 |  |
+| [4] | Operation Endgame: Coordinated Worldwide Law Enforcement Action Against Network of Cybercriminals | FBI | 2024-05-29 | https://www.fbi.gov/news/press-releases/operation-endgame-coordinated-worldwide-law-enforcement-action-against-network-of-cybercriminals |
+| [5] | Largest ever operation against botnets — Operation Endgame | Europol | 2024-05-30 | https://www.europol.europa.eu/media-press/newsroom/news/largest-ever-operation-against-botnets-hits-dropper-malware-ecosystem |
+| [6] | 'Operation Endgame' Hits Malware Delivery Platforms | KrebsOnSecurity | 2024-05-30 | https://krebsonsecurity.com/2024/05/operation-endgame-hits-malware-delivery-platforms/ |
+| [7] | Operation Endgame: Follow-up leads to detentions and server takedowns | Europol | 2025-05-22 | https://www.europol.europa.eu/media-press/newsroom/news/operation-endgame-follow-leads-to-five-detentions-and-interrogations-well-server-takedowns |

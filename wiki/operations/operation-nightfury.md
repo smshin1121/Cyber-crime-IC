@@ -8,24 +8,24 @@ aliases:
   - "GetBilling operation"
 case_id: CYB-2020-051
 challenges_encountered:
-  []
+
 coordinating_body: "[[interpol]]"
 created: 2026-04-08
 credibility_index: 2.55
 crime_type: "[[online-fraud-ic]]"
 edges:
-  []
+
 enforcement_type:
-  []
+
 lead_agency: "[[interpol]]"
 legal_basis:
-  []
+
 lessons_learned:
-  []
+
 mechanisms_used:
-  []
+
 missing_fields:
-  []
+
 operation_type: arrest-sweep
 outcome: success
 participating_agencies:
@@ -36,9 +36,9 @@ participating_countries:
   - "[[singapore]]"
 period: 2
 related_cases:
-  []
+
 related_operations:
-  []
+
 results:
   arrests: 3
   cryptocurrency_seized: ""
@@ -46,14 +46,18 @@ results:
   domains_seized: 0
   indictments: 0
   other:
-    []
+
   servers_seized: 0
   victims_notified: 0
-source_count: 2
+source_count: 6
 source_tier: 3
 sources:
-  - tier3-groupib-nightfury-2020
-  - tier3-cyberscoop-magecart-nightfury-2020
+  - "[[group-ib-operation-nightfury-magecartgetbilling]]"
+  - "[[cyberscoop-operation-nightfury-magecartgetbilling]]"
+  - "[[2020-01-28_techtarget-com_3-magecart-suspects-arrested-in-interpol-operation]]"
+  - "[[2020-01-27_bleepingcomputer-com_first-magecart-hackers-caught-infected-hundreds-of-web-stores]]"
+  - "[[2020-01-25_thehackernews-com_interpol-arrests-3-indonesian-credit-card-hackers-for-magecart-attacks]]"
+  - "[[2020-01-28_infosecurity-magazine_suspected-magecart-hackers-arrested-in-indonesia]]"
 status: completed
 target_entity: "Magecart/GetBilling web skimming group"
 timeframe:
@@ -134,6 +138,10 @@ No Korean involvement identified. South Korean e-commerce sites could potentiall
 ## References
 
 | # | Title | Publisher | Date | URL |
-|---|-------|----------|------|-----|
-| [1] | Night Fury | Group-IB | 2020-01-24 | [원본](https://www.group-ib.com/media-center/press-releases/night-fury/) |
-| [2] | Magecart Arrest Indonesia Interpol Getbilling | CyberScoop | 2020-01-24 | [원본](https://cyberscoop.com/magecart-arrest-indonesia-interpol-getbilling/) |
+|---|---|---|---|---|
+| [1] | Group-IB: Night Fury — INTERPOL-coordinated arrest of Magecart/GetBilling operators | Group-IB | 2020-01-24 | https://www.group-ib.com/media-center/press-releases/night-fury/ |
+| [2] | CyberScoop: Indonesian Police Arrest 3 Men for Alleged Magecart-Style Attacks (Operation NightFury / GetBilling) | CyberScoop | 2020-01-27 | https://cyberscoop.com/magecart-arrest-indonesia-interpol-getbilling/ |
+| [3] | 3 Magecart suspects arrested in Interpol operation | TechTarget | 2020-01-28 | https://www.techtarget.com/searchsecurity/news/252477470/3-Magecart-suspects-arrested-in-Interpol-operation |
+| [4] | First MageCart Hackers Caught, Infected Hundreds of Web Stores | BleepingComputer | 2020-01-27 | https://www.bleepingcomputer.com/news/security/first-magecart-hackers-caught-infected-hundreds-of-web-stores/ |
+| [5] | Interpol Arrests 3 Indonesian Credit Card Hackers for Magecart Attacks | The Hacker News | 2020-01-25 | https://thehackernews.com/2020/01/indonesian-magecart-hackers.html?m=1 |
+| [6] | Suspected Magecart Hackers Arrested in Indonesia | Infosecurity Magazine | 2020-01-28 | https://www.infosecurity-magazine.com/news/suspected-magecart-hackers/ |

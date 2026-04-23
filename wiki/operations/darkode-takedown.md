@@ -47,10 +47,14 @@ results:
 
   servers_seized: 0
   victims_notified: 0
-source_count: 1
+source_count: 5
 source_tier: 3
 sources:
-
+  - "[[2015-07-15_wdpa_darkode-indictment]]"
+  - "[[2015-07-15_fbi-gov_cyber-criminal-forum-taken-down]]"
+  - "[[2015-07-15_justice-gov_darkode-forum-dismantled-w-d-pa]]"
+  - "[[2015-07-01_wired-com_dozens-nabbed-takedown-cybercrime-forum-darkode]]"
+  - "[[2015-07-15_krebsonsecurity-com_the-darkode-cybercrime-forum-up-close]]"
 status: completed
 target_entity: "Darkode cybercrime forum"
 timeframe:
@@ -61,7 +65,7 @@ timeframe:
 title: "Darkode Forum Takedown"
 title_ko: "Darkode 포럼 소탕"
 type: operation
-updated: 2026-04-22
+updated: 2026-04-09
 operation_role: umbrella
 parent_operation: ""
 summary: "In July 2015, the FBI, in coordination with Europol and law enforcement from approximately 20 countries, took down **Darkode**, one of the most prolific English-language cybercrime forums. The operation resulted in charges, arrests, or searches of approximately 70 Darkode members worldwide, with 12 individuals indicted in the United States."
@@ -137,5 +141,9 @@ No Korean involvement was identified in the Darkode takedown.
 ## References
 
 | # | Title | Publisher | Date | URL |
-|---|-------|----------|------|-----|
-| [1] | The Darkode Cybercrime Forum, Up Close | Krebs on Security | 2015-07-15 | [link](https://krebsonsecurity.com/2015/07/the-darkode-cybercrime-forum-up-close/) |
+|---|---|---|---|---|
+| [1] | Major Computer Hacking Forum Dismantled | US DOJ (W.D. Pa. / OPA) | 2015-07-15 | https://www.justice.gov/opa/pr/major-computer-hacking-forum-dismantled |
+| [2] | Cyber Criminal Forum Taken Down | FBI | 2015-07-15 | https://www.fbi.gov/news/stories/cyber-criminal-forum-taken-down |
+| [3] | Darkode Forum Dismantled (W.D. Pa.) | DOJ W.D. Pa. | 2015-07-15 | https://www.justice.gov/usao-wdpa/pr/major-computer-hacking-forum-dismantled |
+| [4] | Dozens Nabbed Takedown Cybercrime Forum Darkode | Wired | 2015-07-01 | https://www.wired.com/2015/07/dozens-nabbed-takedown-cybercrime-forum-darkode/ |
+| [5] | The Darkode Cybercrime Forum, Up Close | Krebs on Security | 2015-07-15 | https://krebsonsecurity.com/2015/07/the-darkode-cybercrime-forum-up-close/ |

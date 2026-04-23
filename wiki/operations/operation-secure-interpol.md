@@ -47,10 +47,14 @@ results:
 
   servers_seized: 41
   victims_notified: 216000
-source_count: 2
+source_count: 5
 source_tier: 2
 sources:
-
+  - "[[2025-04-01-interpol-operation-secure-infostealer]]"
+  - "[[2025-04-01_straitstimes-com_more-than-9000-malware-infected-servers-found-by-singapore-based-interpol-ope]]"
+  - "[[2017-04-24_freemalaysiatoday-com_interpol-finds-9000-compromised-websites]]"
+  - "[[2025-04-01_kaspersky-com_kaspersky-supports-interpol-operation-secure]]"
+  - "[[2025-04-01_helpnetsecurity-com_operation-secure-disrupts-global-infostealer-malware-operations]]"
 status: completed
 target_entity: "Infostealer malware infrastructure and operators across Asia-Pacific"
 timeframe:
@@ -130,7 +134,11 @@ South Korea (대한민국) was among the 26 participating countries. Specific Ko
 > not result in formal prosecution.
 
 ## References
+
 | # | Title | Publisher | Date | URL |
-|---|-------|----------|------|-----|
-| [1] | More Than 9000 Malware Infected Servers Found By Singapore Based Interpol Ope... | straitstimes.com | 2025-04-01 | [원본](https://www.straitstimes.com/singapore/more-than-9000-malware-infected-servers-found-by-singapore-based-interpol-operation) |
-| [2] | Interpol Finds 9000 Compromised Websites | freemalaysiatoday.com | 2017-04-24 | [원본](https://www.freemalaysiatoday.com/category/nation/2017/04/24/interpol-finds-9000-compromised-websites) |
+|---|---|---|---|---|
+| [1] | Operation Secure | INTERPOL | 2025-04-01 |  |
+| [2] | More Than 9000 Malware Infected Servers Found By Singapore Based Interpol Ope... | straitstimes.com | 2025-04-01 | https://www.straitstimes.com/singapore/more-than-9000-malware-infected-servers-found-by-singapore-based-interpol-operation |
+| [3] | Interpol Finds 9000 Compromised Websites | freemalaysiatoday.com | 2017-04-24 | https://www.freemalaysiatoday.com/category/nation/2017/04/24/interpol-finds-9000-compromised-websites |
+| [4] | Kaspersky supports INTERPOL Operation Secure | Kaspersky | 2025-04-01 | https://www.kaspersky.com/about/press-releases/kaspersky-supports-interpol-operation-secure |
+| [5] | Operation Secure disrupts global infostealer malware operations | Help Net Security | 2025-04-01 | https://www.helpnetsecurity.com/2025/04/01/operation-secure-interpol-infostealer/ |

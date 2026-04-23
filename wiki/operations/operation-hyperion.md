@@ -62,9 +62,14 @@ challenges_encountered:
 
 lessons_learned:
 
-source_count: 1
+source_count: 6
 sources:
-  - tier3-cyberscoop-operation-hyperion-2017
+  - "[[2017-01-01_cyberscoop-com_dark-web-fbi-sting-zcash-operation-hyperion]]"
+  - "[[2016-11-01_fbi-gov_a-primer-on-darknet-marketplaces]]"
+  - "[[2016-10-31_ice-gov_international-darknet-marketplace-enforcement-operation]]"
+  - "[[2016-11-01_police-govt-nz_kiwi-darknet-illegal-drug-buyers-identified-during-worldwide-operation]]"
+  - "[[2016-10-31_om_nl_darknet-website-in-wereldwijde-actieweek-operation-hyperion]]"
+  - "[[2016-11-08_helpnetsecurity-com_dutch-police-takes-over-darknet-market]]"
 created: 2026-04-08
 updated: 2026-04-08
 operation_role: umbrella
@@ -135,5 +140,10 @@ No Korean involvement identified.
 ## References
 
 | # | Title | Publisher | Date | URL |
-|---|-------|----------|------|-----|
-| [1] | Dark Web FBI Sting Zcash — Operation Hyperion | CyberScoop | 2017 | [link](https://cyberscoop.com/dark-web-fbi-sting-zcash-operation-hyperion/) |
+|---|---|---|---|---|
+| [1] | Dark Web FBI Sting Zcash — Operation Hyperion | CyberScoop | 2017-01-01 | https://cyberscoop.com/dark-web-fbi-sting-zcash-operation-hyperion/ |
+| [2] | A Primer on DarkNet Marketplaces | FBI | 2016-11-01 | https://www.fbi.gov/news/stories/a-primer-on-darknet-marketplaces |
+| [3] | Law enforcement agencies around the world collaborate on international Darknet marketplace enforcement operation | U.S. Immigration and Customs Enforcement | 2016-10-31 | https://www.ice.gov/news/releases/law-enforcement-agencies-around-world-collaborate-international-darknet-marketplace |
+| [4] | Kiwi darknet illegal drug buyers identified during worldwide operation | New Zealand Police | 2016-11-01 | https://www.police.govt.nz/news/release/kiwi-darknet-illegal-drug-buyers-identified-during-worldwide-operation |
+| [5] | OM en politie lanceren darknet website in wereldwijde actieweek | Openbaar Ministerie | 2016-10-31 | https://www.om.nl/actueel/nieuws/2016/10/31/om-en-politie-lanceren-darknet-website-in-wereldwijde-actieweek |
+| [6] | Dutch police takes over darknet market, posts warning | Help Net Security | 2016-11-08 | https://www.helpnetsecurity.com/2016/11/08/darknet-market-dutch-police/ |

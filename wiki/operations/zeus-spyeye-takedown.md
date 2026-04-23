@@ -61,11 +61,16 @@ challenges_encountered:
 
 lessons_learned:
 
-source_count: 1
+source_count: 6
 sources:
-  - tier3-sophos-zeus-spyeye-2015
+  - "[[europol-zeusspyeye-joint-investigation-team-takedown]]"
+  - "[[2015-06-30_news-sophos-com_zeus-and-spyeye-crime-syndicate-taken-down-by-europol]]"
+  - "[[2025-06-25_helpnetsecurity-com_the-downfall-of-a-major-cybercrime-ring-exploiting-banking-trojans]]"
+  - "[[2015-06-25_scworld-com_europol-takes-down-high-profile-ukraine-based-cybergang]]"
+  - "[[2015-06-27_thehackernews-com_europol-arrests-gang-behind-zeus-and-spyeye-banking-malware]]"
+  - "[[2015-06-29_techmonitor-ai_zeus-spyeye-malware-gang-members-arrested-in-ukraine]]"
 created: 2026-04-08
-updated: 2026-04-08
+updated: 2026-04-09
 operation_role: umbrella
 parent_operation: ""
 summary: "In June 2015, Europol announced the takedown of a cybercrime syndicate responsible for distributing the **Zeus** and **SpyEye** banking trojans. These malware families were among the most prolific financial cybercrime tools of the 2010s, responsible for stealing hundreds of millions of dollars from online banking users worldwide."
@@ -145,6 +150,10 @@ No Korean involvement identified. Zeus and SpyEye primarily targeted Western ban
 ## References
 
 | # | Title | Publisher | Date | URL |
-|---|-------|----------|------|-----|
-| [1] | Zeus and SpyEye crime syndicate taken down by Europol | Sophos | 2015-06-30 | [link](https://news.sophos.com/en-us/2015/06/30/zeus-and-spyeye-crime-syndicate-taken-down-by-europol/) |
-
+|---|---|---|---|---|
+| [1] | Europol: Major Cybercrime Ring Dismantled by Joint Investigation Team | Europol | 2015-06-25 | https://www.europol.europa.eu/media-press/newsroom/news/major-cybercrime-ring-dismantled-joint-investigation-team |
+| [2] | Zeus and SpyEye crime syndicate taken down by Europol | Sophos | 2015-06-30 | https://news.sophos.com/en-us/2015/06/30/zeus-and-spyeye-crime-syndicate-taken-down-by-europol/ |
+| [3] | The downfall of a major cybercrime ring exploiting banking Trojans | Help Net Security | 2015-06-25 | https://www.helpnetsecurity.com/2015/06/25/the-downfall-of-a-major-cybercrime-ring-exploiting-banking-trojans/ |
+| [4] | Europol takes down high profile Ukraine-based cybergang | SC Media | 2015-06-25 | https://www.scworld.com/news/europol-takes-down-high-profile-ukraine-based-cybergang |
+| [5] | Europol Arrests Gang Behind Zeus and SpyEye Banking Malware | The Hacker News | 2015-06-27 | https://thehackernews.com/2015/06/zeus-spyeye-banking-malware.html?m=1 |
+| [6] | Zeus & SpyEye malware gang members arrested in Ukraine | Tech Monitor | 2015-06-29 | https://www.techmonitor.ai/hardware/zeus-spyeye-malware-gang-members-arrested-in-ukraine-4611234 |

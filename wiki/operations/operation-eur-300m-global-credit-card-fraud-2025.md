@@ -17,8 +17,10 @@ enforcement_type:
 outcome: success
 credibility_index: 4.7
 source_tier: 2
-edges: []
-missing_fields: []
+edges:
+
+missing_fields:
+
 timeframe:
   announced: 2025-11-05
   start: 2023
@@ -61,15 +63,22 @@ results:
   other:
     - "Over 60 places searched"
     - "90 EIOs and MLA requests supported by Eurojust"
-related_cases: []
-related_operations: []
-challenges_encountered: []
+related_cases:
+
+related_operations:
+
+challenges_encountered:
+
 lessons_learned:
   - "Payment-service abuse cases often depend on both EU tools and non-EU MLA channels at the same time."
   - "German and UK elements can sit inside a much wider cross-border fraud-and-laundering structure."
-source_count: 1
+source_count: 5
 sources:
   - "[[2025-11-05_eurojust_eurojust-coordinates-major-operation-against-eur-300-million-global-credit-card-fraud-18]]"
+  - "[[2025-11-05_112wwft-nl_eurojust-coordinates-major-operation-against-eur-300-million-global-credit-card-fraud-18-arrests]]"
+  - "[[2025-12-22_eurojusts-cross-border-investigations-2025_credit-card-fraud-roundup]]"
+  - "[[2025-11-05_eurojust-fraud-term_eur-300m-global-credit-card-fraud]]"
+  - "[[2025-11-05_eurojust-newsroom_eur-300m-global-credit-card-fraud]]"
 created: 2026-04-19
 updated: 2026-04-19
 summary: "Eurojust-coordinated multinational action against a EUR 300 million global credit-card fraud scheme, with German and UK participation and broad EIO/MLA support."
@@ -110,6 +119,10 @@ Eurojust coordinated a major operation against a global credit-card fraud scheme
 
 ## References
 
-| # | Source | Publisher | Date | URL |
+| # | Title | Publisher | Date | URL |
 |---|---|---|---|---|
-| 1 | Eurojust coordinates major operation against EUR 300 million global credit card fraud: 18 arrests | Eurojust | 2025-11-05 | https://www.eurojust.europa.eu/news/eurojust-coordinates-major-operation-against-eur-300-million-global-credit-card-fraud-18 |
+| [1] | Eurojust coordinates major operation against EUR 300 million global credit card fraud: 18 arrests | Eurojust | 2025-11-05 | https://www.eurojust.europa.eu/news/eurojust-coordinates-major-operation-against-eur-300-million-global-credit-card-fraud-18 |
+| [2] | Eurojust coordinates major operation against EUR 300 million global credit card fraud: 18 arrests | 112WWFT | 2025-11-05 | https://www.112wwft.nl/2025/11/05/eurojust-coordinates-major-operation-against-eur-300-million-global-credit-card-fraud-18-arrests/ |
+| [3] | Eurojust's cross-border investigations in 2025 continued to fight organised crime | Eurojust | 2025-12-22 | https://www.eurojust.europa.eu/news/eurojusts-cross-border-investigations-2025-continued-fight-organised-crime |
+| [4] | Eurojust fraud topic page - EUR 300 million global credit card fraud | Eurojust | 2025-11-05 | https://www.eurojust.europa.eu/term/fraud?page=6 |
+| [5] | Eurojust newsroom listing - EUR 300 million global credit card fraud | Eurojust | 2025-11-05 | https://www.eurojust.europa.eu/media-and-events/press-releases-and-news?page=1 |

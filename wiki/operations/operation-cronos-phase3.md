@@ -98,11 +98,15 @@ lessons_learned:
   - "Phased operations maintain sustained pressure on ransomware groups beyond initial takedown"
   - "Financial sanctions complement criminal enforcement, targeting the economic incentives of ransomware"
   - "Identifying links between ransomware groups (LockBit-Evil Corp nexus) enables broader disruption"
-source_count: 1
+source_count: 5
 sources:
   - "[[2024-10-01-europol-operation-cronos-lockbit-phase3]]"
+  - "[[2024-05-07_gov-uk_uk-and-allies-sanction-prolific-cyber-hacker]]"
+  - "[[2024-02-20_europol_operation-cronos-lockbit]]"
+  - "[[2026-01-28_gov-uk_financial-sanctions-guidance-for-ransomware]]"
+  - "[[2024-10-02_therecord-media_operation-cronos-phase-3-lockbit]]"
 created: 2026-04-08
-updated: 2026-04-08
+updated: 2026-04-09
 operation_role: umbrella
 parent_operation: ""
 summary: "**Operation Cronos Phase 3** was the third phase of the international enforcement campaign against the **LockBit** ransomware group, announced on 1 October 2024. This phase resulted in 4 new arrests across France, the UK, and Spain, the seizure of 9 servers in Spain, and coordinated **financial sanctions** by Australia, the UK, and the US against a prolific LockBit affiliate linked to **Evil Corp**."
@@ -230,6 +234,9 @@ No direct Korean involvement in Operation Cronos Phase 3 was identified. Japan w
 ## References
 
 | # | Title | Publisher | Date | URL |
-|---|-------|----------|------|-----|
-| [1] | LockBit power cut: four new arrests and financial sanctions against affiliates — Operation Cronos Phase 3 | Europol | 2024-10-01 | [원본](https://www.europol.europa.eu/media-press/newsroom/news/lockbit-power-cut-four-new-arrests-and-financial-sanctions-against-affiliates) |
-
+|---|---|---|---|---|
+| [1] | LockBit power cut: four new arrests and financial sanctions against affiliates - Operation Cronos Phase 3 | Europol | 2024-10-01 | https://www.europol.europa.eu/media-press/newsroom/news/lockbit-power-cut-four-new-arrests-and-financial-sanctions-against-affiliates |
+| [2] | UK and Allies Sanction Prolific Cyber Hacker | Foreign, Commonwealth & Development Office | 2024-05-07 | https://www.gov.uk/government/news/uk-and-allies-sanction-prolific-cyber-hacker |
+| [3] | Law enforcement disrupt world's biggest ransomware operation - Operation Cronos (LockBit) | Europol | 2024-02-20 | https://www.europol.europa.eu/media-press/newsroom/news/law-enforcement-disrupt-worlds-biggest-ransomware-operation |
+| [4] | Financial sanctions guidance for ransomware | Office of Financial Sanctions Implementation | 2026-01-28 | https://www.gov.uk/government/publications/financial-sanctions-guidance-for-ransomware/financial-sanctions-guidance-for-ransomware |
+| [5] | Operation Cronos phase 3 targets LockBit affiliates | The Record | 2024-10-02 | https://therecord.media/operation-cronos-phase-3-lockbit |

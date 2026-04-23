@@ -83,9 +83,13 @@ challenges_encountered:
   - "[[data-sovereignty]]"
 lessons_learned:
   - "Bilateral DE-CH cooperation under Eurojust coordination can deliver significant cryptocurrency seizures even where one participant (Switzerland) is outside the EU"
-source_count: 1
+source_count: 5
 sources:
   - "[[2025-12-01-eurojust-de-ch-crypto-mixer-takedown]]"
+  - "[[2025-12-01_coindesk-com_cryptomixer-takedown]]"
+  - "[[2025-12-01_amlintelligence-com_cryptomixer-used-to-mix-13bn-in-bitcoin]]"
+  - "[[2025-12-02_techradar-com_huge-cryptomixer-takedown-sees-feds-seize-over-usd30milion]]"
+  - "[[2025-12-01_heise-de_illegaler-cryptomixer-von-strafverfolgern-zerschlagen]]"
 created: 2026-04-14
 updated: 2026-04-14
 operation_role: umbrella
@@ -198,3 +202,13 @@ No [[south-korea|South Korean]] participation is documented in this operation. K
 > for this operation. Possible reasons: non-US jurisdiction with no
 > public court records system, sealed proceedings, or operation did
 > not result in formal prosecution.
+
+## References
+
+| # | Title | Publisher | Date | URL |
+|---|---|---|---|---|
+| [1] | Cryptocurrency mixing service used to launder money taken down | Eurojust | 2025-12-01 | https://www.eurojust.europa.eu/news/cryptocurrency-mixing-service-used-launder-money-taken-down |
+| [2] | European authorities seize Bitcoin-mixing service Cryptomixer | CoinDesk | 2025-12-01 | https://www.coindesk.com/policy/2025/12/01/european-authorities-seize-usd1-51b-bitcoin-laundering-service-cryptomixer |
+| [3] | EU takes down Cryptomixer, used to mix EUR 1.3bn in Bitcoin | AML Intelligence | 2025-12-01 | https://www.amlintelligence.com/2025/12/latest-eu-takes-down-cryptomixer-used-to-mix-e1-3bn-in-bitcoin/ |
+| [4] | Huge cryptomixer takedown sees feds seize over USD 30 million | TechRadar | 2025-12-02 | https://www.techradar.com/pro/security/huge-cryptomixer-takedown-sees-feds-seize-over-usd30milion |
+| [5] | Illegaler 'Cryptomixer' von Strafverfolgern zerschlagen | heise online | 2025-12-01 | https://www.heise.de/news/Illegaler-Cryptomixer-von-Strafverfolgern-zerschlagen-11098583.html |

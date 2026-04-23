@@ -67,10 +67,16 @@ challenges_encountered:
 
 lessons_learned:
   - "Fraudulent call centers in Africa increasingly involve multi-national criminal networks"
-source_count: 2
+source_count: 8
 sources:
   - "[[2024-06-05-therecord-zambia-golden-top-guilty-pleas]]"
   - "[[2024-04-15-bitdefender-zambia-golden-top-arrests]]"
+  - "[[2024-06-07_apnews-com_22-chinese-nationals-sentenced-to-long-prison-terms-in-zambia-for-multinational-cybercrimes]]"
+  - "[[2024-04-15_bitdefender-com_zambia-arrests-77-people-in-swoop-on-scam-call-centre]]"
+  - "[[2024-06-05_therecord-media_chinese-nationals-plead-guilty-to-running-zambia-scam-operation]]"
+  - "[[2024-06-08_zambiamonitor-com_22-chinese-nationals-one-cameroonian-jailed-7-years-with-hard-labour-for-cybercrime]]"
+  - "[[2024-04-11_openzambia-com_chinese-crime-syndicate-raided-in-lusaka]]"
+  - "[[2024-06-11_lusakatimes-com_22-chinese-nationals-sentenced-to-long-prison-terms-in-zambia-for-multinational-cybercrimes]]"
 created: 2026-04-08
 updated: 2026-04-14
 operation_role: umbrella
@@ -154,7 +160,14 @@ No Korean involvement identified. However, Korean nationals have been targets an
 > not result in formal prosecution.
 
 ## References
+
 | # | Title | Publisher | Date | URL |
-|---|-------|----------|------|-----|
-| [1] | Chinese nationals plead guilty to running Zambia scam operation | The Record (Recorded Future News) | 2024-06-05 | [link](https://therecord.media/zambia-guilty-pleas-chinese-nationals-scam-call-center) |
-| [2] | Zambia arrests 77 people in swoop on 'scam' call centre | Bitdefender (Hot for Security) | 2024-04-15 | [link](https://www.bitdefender.com/en-us/blog/hotforsecurity/zambia-arrests-77-people-in-swoop-on-scam-call-centre) |
+|---|---|---|---|---|
+| [1] | Chinese nationals plead guilty to running Zambia scam operation | The Record from Recorded Future News | 2024-06-05 |  |
+| [2] | Zambia arrests 77 people in swoop on 'scam' call centre | Bitdefender (Hot for Security blog) | 2024-04-15 |  |
+| [3] | 22 Chinese nationals sentenced to long prison terms in Zambia for multinational cybercrimes | Associated Press | 2024-06-07 | https://apnews.com/article/f0e1dec5c4a08a23c270c469f70f8557 |
+| [4] | Zambia arrests 77 people in swoop on 'scam' call centre | Bitdefender (Hot for Security) | 2024-04-15 | https://www.bitdefender.com/en-us/blog/hotforsecurity/zambia-arrests-77-people-in-swoop-on-scam-call-centre |
+| [5] | Chinese nationals plead guilty to running Zambia scam operation | The Record (Recorded Future News) | 2024-06-05 | https://therecord.media/zambia-guilty-pleas-chinese-nationals-scam-call-center |
+| [6] | 22 Chinese nationals, one Cameroonian jailed 7 years with hard labour for cybercrime | Zambia Monitor | 2024-06-08 | https://www.zambiamonitor.com/22-chinese-nationals-one-cameroonian-jailed-7-years-with-hard-labour-for-cybercrime/ |
+| [7] | Chinese Crime Syndicate Raided in Lusaka | Open Zambia | 2024-04-11 | https://www.openzambia.com/politics/2024/4/11/chinese-crime-syndicate-raided-in-lusaka |
+| [8] | 22 Chinese nationals sentenced to long prison terms in Zambia for multinational cybercrimes | Lusaka Times | 2024-06-11 | https://www.lusakatimes.com/2024/06/11/22-chinese-nationals-sentenced-to-long-prison-terms-in-zambia-for-multinational-cybercrimes/ |

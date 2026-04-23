@@ -42,10 +42,14 @@ results:
 
   servers_seized: 0
   victims_notified: 0
-source_count: 4
+source_count: 5
 source_tier: 2
 sources:
-
+  - "[[interpol-operation-falcon]]"
+  - "[[cyberscoop-operation-falcon]]"
+  - "[[2020-11-25_group-ib_operation-falcon-group-ib-helps-interpol-identify-nigerian-bec-ring-members]]"
+  - "[[2020-11-27_pmnewsnigeria_operation-falcon-three-nigerians-busted-for-cybercrime]]"
+  - "[[2020-11-27_guardian-ng_operation-falcon-nigerian-police-join-interpol-group-ib-to-arrest-three-suspected-tmt-fraudsters]]"
 status: completed
 target_entity: "Nigerian BEC group (TMT)"
 timeframe:
@@ -97,9 +101,11 @@ Nigeria (arrests made domestically; victims across 150+ countries)
 > not result in formal prosecution.
 
 ## References
+
 | # | Title | Publisher | Date | URL |
-|---|-------|----------|------|-----|
-| [1] | Interpol 3 Nigerians Busted For Cyber Crime Operate In 150 Countries | pmnewsnigeria.com | 2020-11-27 | [원본](https://pmnewsnigeria.com/2020/11/27/interpol-3-nigerians-busted-for-cyber-crime-operate-in-150-countries/) |
-| [2] | #Google Vignette | guardian.ng | 2020-11 | [원본](https://guardian.ng/news/nigerian-police-join-interpol-group-ib-to-arrest-three-suspected-tmt-fraudsters/#google_vignette) |
-| [3] | Three Arrested As Interpol Group Ib And The Nigeria Police Force Disrupt Prol... | INTERPOL | 2020-11 | [원본](https://www.interpol.int/News-and-Events/News/2020/Three-arrested-as-INTERPOL-Group-IB-and-the-Nigeria-Police-Force-disrupt-prolific-cybercrime-group) |
-| [4] | Nigeria Email Scam Arrests Bec Group Ib | CyberScoop | 2020-11 | [원본](https://cyberscoop.com/nigeria-email-scam-arrests-bec-group-ib/) |
+|---|---|---|---|---|
+| [1] | INTERPOL: Operation Falcon | INTERPOL | Unknown | https://www.interpol.int/News-and-Events/News/2020/Three-arrested-as-INTERPOL-Group-IB-and-the-Nigeria-Police-Force-disrupt-prolific-cybercrime-group |
+| [2] | CyberScoop: Accused Email Scammers Busted in Nigeria (Operation Falcon) | CyberScoop | 2020-11-25 | https://cyberscoop.com/nigeria-email-scam-arrests-bec-group-ib/ |
+| [3] | Operation Falcon: Group-IB helps INTERPOL identify Nigerian BEC ring members | Group-IB | 2020-11-25 | https://www.group-ib.com/media-center/press-releases/gib-interpol-bec/ |
+| [4] | Interpol: 3 Nigerians busted for cybercrime, operate in 150 countries | PM News Nigeria | 2020-11-27 | https://pmnewsnigeria.com/2020/11/27/interpol-3-nigerians-busted-for-cyber-crime-operate-in-150-countries/ |
+| [5] | Nigerian police join INTERPOL, Group-IB to arrest three suspected TMT fraudsters | The Guardian Nigeria | 2020-11-27 | https://guardian.ng/news/nigerian-police-join-interpol-group-ib-to-arrest-three-suspected-tmt-fraudsters/ |

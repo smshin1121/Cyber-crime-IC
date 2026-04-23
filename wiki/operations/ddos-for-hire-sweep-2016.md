@@ -6,24 +6,24 @@ aliases:
   - "International Cyber Sweep DDoS"
 case_id: CYB-2016-002
 challenges_encountered:
-  []
+
 coordinating_body: "[[europol-ec3]]"
 created: 2026-04-08
 credibility_index: 2.95
 crime_type: "[[ddos-ic]]"
 edges:
-  []
+
 enforcement_type:
-  []
+
 lead_agency: "[[europol-ec3]]"
 legal_basis:
-  []
+
 lessons_learned:
-  []
+
 mechanisms_used:
-  []
+
 missing_fields:
-  []
+
 operation_type: arrest-sweep
 outcome: success
 participating_agencies:
@@ -45,9 +45,9 @@ participating_countries:
   - "[[australia]]"
 period: 1
 related_cases:
-  []
+
 related_operations:
-  []
+
 results:
   arrests: 34
   cryptocurrency_seized: ""
@@ -55,14 +55,18 @@ results:
   domains_seized: 0
   indictments: 0
   other:
-    []
+
   servers_seized: 0
   victims_notified: 0
-source_count: 2
+source_count: 6
 source_tier: 2
 sources:
-  - "[1] FBI News (2016-12)"
-  - "[2] CyberScoop (2016-12-09)"
+  - "[[fbi-international-ddos-for-hire-sweep]]"
+  - "[[cyberscoop-international-ddos-for-hire-sweep]]"
+  - "[[2016-12-12_pcworld-com_dozens-arrested-in-international-ddos-for-hire-crackdown]]"
+  - "[[2016-12-13_securityaffairs-com_dozens-of-teenagers-arrested-by-europol-over-ddos-attacks]]"
+  - "[[2016-12-13_hackread-com_europol-us-authorities-bust-ddos-attackers]]"
+  - "[[2016-12-16_meritalk-com_fbi-tries-to-curb-young-ddos-hackers]]"
 status: completed
 target_entity: "DDoS-for-hire service users"
 timeframe:
@@ -107,6 +111,10 @@ United States, United Kingdom, France, Belgium, Hungary, Lithuania, Netherlands,
 ## References
 
 | # | Title | Publisher | Date | URL |
-|---|-------|----------|------|-----|
-| [1] | Ddos Europol Arrest December 2016 | CyberScoop | 2016-12-09 | [원본](https://cyberscoop.com/ddos-europol-arrest-december-2016/) |
-| [2] | International Cyber Sweep Nets Ddos Attackers | FBI | 2016-12-09 | [원본](https://www.fbi.gov/news/stories/international-cyber-sweep-nets-ddos-attackers) |
+|---|---|---|---|---|
+| [1] | FBI: International Cyber Sweep Nets DDoS Attackers (Operation Tarpit) | FBI | 2016-12-12 | https://www.fbi.gov/news/stories/international-cyber-sweep-nets-ddos-attackers |
+| [2] | CyberScoop: DDoS-happy teenagers arrested in international cybercrime bust | CyberScoop | 2016-12-12 | https://cyberscoop.com/ddos-europol-arrest-december-2016/ |
+| [3] | Dozens arrested in international DDoS-for-hire crackdown | PCWorld | 2016-12-12 | https://www.pcworld.com/article/411303/dozens-arrested-in-international-ddos-for-hire-crackdown.html |
+| [4] | Dozens of teenagers arrested by Europol over DDoS attacks | Security Affairs | 2016-12-13 | https://securityaffairs.com/54335/cyber-crime/europol-ddos-arrests.html |
+| [5] | Europol and US authorities bust 34 DDoS attackers and 101 suspects | Hackread | 2016-12-13 | https://hackread.com/europol-us-authorities-bust-ddos-attackers/ |
+| [6] | FBI Tries to Curb Young DDoS Hackers | MeriTalk | 2016-12-16 | https://aws-origin.meritalk.com/?p=25932 |

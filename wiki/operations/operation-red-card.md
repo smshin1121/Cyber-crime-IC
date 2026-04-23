@@ -32,7 +32,8 @@ participating_countries:
 participating_agencies:
   - "[[interpol-igci]]"
   - "[[afripol]]"
-legal_basis: []
+legal_basis:
+
 mechanisms_used:
   - "[[informal-cooperation]]"
 results:
@@ -47,11 +48,14 @@ results:
     - "Authorities seized 1,842 devices."
     - "Nigerian authorities arrested 130 suspects, including 113 foreign nationals."
     - "Rwandan authorities recovered more than USD 103,000 according to the official release."
-source_count: 3
+source_count: 6
 sources:
   - "[[2025-03-24-interpol-operation-red-card]]"
   - "[[2025-03-24-africanews-operation-red-card]]"
   - "[[2025-03-24_kaspersky_operation-red-card]]"
+  - "[[2025-03-24_africanews-com_cybercrime-crackdown-306-arrested-in-africa-wide-operation]]"
+  - "[[2025-03-24_techafricanews-com_red-card-for-cybercrime-interpol-and-kaspersky-crack-down-on-african-scammers]]"
+  - "[[2025-03-24_africanews-operation-red-card-full]]"
 created: 2026-04-08
 updated: 2026-04-19
 operation_role: umbrella
@@ -126,7 +130,10 @@ The sources support pre-operational intelligence sharing, enrichment by INTERPOL
 ## References
 
 | # | Title | Publisher | Date | URL |
-|---|-------|----------|------|-----|
+|---|---|---|---|---|
 | [1] | More than 300 arrests as African countries clamp down on cyber threats | INTERPOL | 2025-03-24 | https://www.interpol.int/News-and-Events/News/2025/More-than-300-arrests-as-African-countries-clamp-down-on-cyber-threats |
-| [2] | Cybercrime crackdown: 306 arrested in Africa-wide operation | Africanews | 2025-03-24 | https://www.africanews.com/2025/03/24/cybercrime-crackdown-306-arrested-in-africa-wide-operation// |
+| [2] | Operation Red Card reporting | Africanews | 2025-03-24 |  |
 | [3] | Kaspersky supports INTERPOL-led operation Red Card, resulting in over 300 arrests | Kaspersky | 2025-03-24 | https://www.kaspersky.com/about/press-releases/kaspersky-supports-interpol-led-operation-red-card-resulting-in-over-300-arrests |
+| [4] | Cybercrime crackdown: 306 arrested in Africa-wide operation | Africanews | 2025-03-24 | https://www.africanews.com/2025/03/24/cybercrime-crackdown-306-arrested-in-africa-wide-operation// |
+| [5] | Red Card for cybercrime: INTERPOL and Kaspersky crack down on African scammers | TechAfrica News | 2025-03-24 | https://techafricanews.com/2025/03/24/red-card-for-cybercrime-interpol-and-kaspersky-crack-down-on-african-scammers/ |
+| [6] | Cybercrime crackdown: 306 arrested in Africa-wide operation | Africanews | 2025-03-24 | https://www.africanews.com/2025/03/24/cybercrime-crackdown-306-arrested-in-africa-wide-operation/ |

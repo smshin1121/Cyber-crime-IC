@@ -3,19 +3,19 @@ type: operation
 title: "French Coder Who Helped Extort British Company Arrested in Thailand Enforcement Action"
 aliases:
   - "French Coder Who Helped Extort British Company Arrested in Thailand"
-case_id: "CYB-FUP-564"
+case_id: CYB-FUP-564
 period: 1
-operation_role: "follow-on"
+operation_role: follow-on
 parent_operation: ""
-operation_type: "prosecution"
-status: "completed"
+operation_type: prosecution
+status: completed
 enforcement_type:
   - arrest
-outcome: "success"
+outcome: success
 timeframe:
-  announced: "2018-05-18"
-  start: "2018"
-  end: "2018-05-18"
+  announced: 2018-05-18
+  start: 2018
+  end: 2018-05-18
   ongoing: false
 crime_type: "[[online-fraud-ic]]"
 crime_types:
@@ -46,23 +46,31 @@ results:
   victims_notified: 0
   other:
     - "Defendant-specific follow-on action derived from [[french-coder-who-helped-extort-british-company-arrested-in-thailand]]"
-edges: []
+edges:
+
 credibility_index: 4.0
 source_tier: 1
-missing_fields: []
+missing_fields:
+
 related_cases:
   - "[[french-coder-who-helped-extort-british-company-arrested-in-thailand]]"
-related_operations: []
-challenges_encountered: []
-lessons_learned: []
-source_count: 1
+related_operations:
+
+challenges_encountered:
+
+lessons_learned:
+
+source_count: 5
 sources:
   - "[[2018-05-18_europol-europa-eu_french-coder-who-helped-extort-british-company-arrested-in-thailand]]"
+  - "[[2018-06-19_welivesecurity-com_europol-and-partners-dismantle-prolific-cyber-extortion-gang]]"
+  - "[[2018-06-15_bleepingcomputer-com_europol-dismantles-one-of-the-internets-oldest-hacker-groups]]"
+  - "[[2018-06-15_securityweek-com_french-nationals-arrested-for-rex-mundi-hacks]]"
+  - "[[2018-06-18_infosecurity-magazine_europol-disrupts-rex-mundi-cybercrime-group]]"
 summary: "French Coder Who Helped Extort British Company Arrested in Thailand Enforcement Action is a defendant-specific enforcement action page derived from [[french-coder-who-helped-extort-british-company-arrested-in-thailand]]."
 created: 2026-04-18
 updated: 2026-04-18
 ---
-
 ## Summary
 
 French Coder Who Helped Extort British Company Arrested in Thailand Enforcement Action is a defendant-specific enforcement action page derived from [[french-coder-who-helped-extort-british-company-arrested-in-thailand]]. It captures the prosecutorial or seizure stage reflected in the linked case record and preserves the operation-side catalog entry for this follow-on action.
@@ -84,6 +92,10 @@ The underlying public case record identifies French Coder Who Helped Extort Brit
 
 ## References
 
-| # | Source | Publisher | Date | URL |
+| # | Title | Publisher | Date | URL |
 |---|---|---|---|---|
 | [1] | French Coder Who Helped Extort British Company Arrested in Thailand | Europol | 2018-05-18 | https://www.europol.europa.eu/media-press/newsroom/news/french-coder-who-helped-extort-british-company-arrested-in-thailand |
+| [2] | Europol and partners dismantle prolific cyber-extortion gang | WeLiveSecurity / ESET | 2018-06-19 | https://www.welivesecurity.com/2018/06/19/europol-dismantle-cyber-extortion-gang/ |
+| [3] | Europol Dismantles One of the Internet's Oldest Hacker Groups | BleepingComputer | 2018-06-15 | https://www.bleepingcomputer.com/news/security/europol-dismantles-one-of-the-internets-oldest-hacker-groups/ |
+| [4] | French Nationals Arrested for Rex Mundi Hacks | SecurityWeek | 2018-06-15 | https://www.securityweek.com/french-nationals-arrested-rex-mundi-hacks/ |
+| [5] | Europol Disrupts Rex Mundi Cybercrime Group | Infosecurity Magazine | 2018-06-18 | https://www.infosecurity-magazine.com/news/europol-disrupts-rex-mundi/ |

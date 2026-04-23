@@ -16,8 +16,10 @@ enforcement_type:
 outcome: success
 credibility_index: 4.32
 source_tier: 1
-edges: []
-missing_fields: []
+edges:
+
+missing_fields:
+
 timeframe:
   announced: 2025-01-27
   start: 2023
@@ -55,14 +57,21 @@ results:
     - "EUR 8 million in cash seized."
     - "EUR 2 million in bank accounts seized."
     - "91 searches were carried out across Spain, France and Cyprus."
-related_cases: []
-related_operations: []
-challenges_encountered: []
+related_cases:
+
+related_operations:
+
+challenges_encountered:
+
 lessons_learned:
   - "Cross-border laundering services require combined tax, judicial and crypto-tracing channels rather than single-country enforcement."
-source_count: 1
+source_count: 5
 sources:
   - "[[2025-01-27_eurojust_illegal-financial-service-launder-millions-busted]]"
+  - "[[2025-02-07_riskcompliance-biz_criminals-operating-an-illegal-financial-service-to-launder-millions-of-euros-busted]]"
+  - "[[2025-01-27_europeantimes-news_criminals-operating-an-illegal-financial-service-to-launder-millions-of-euros-busted]]"
+  - "[[2025-01-27_eurojust-fraud-term_illegal-financial-service-laundering]]"
+  - "[[2025-01-27_eurojust-financial-crime-term_illegal-financial-service-laundering]]"
 created: 2026-04-19
 updated: 2026-04-19
 summary: "A Eurojust- and Europol-supported joint investigation by Spanish, Cypriot and German authorities, with French support, dismantled a laundering service that moved approximately EUR 100 million for other criminal organisations."
@@ -109,6 +118,10 @@ Eurojust reported that the scheme began to surface in 2023 after suspicious trip
 
 ## References
 
-| # | Source | Publisher | Date | URL |
+| # | Title | Publisher | Date | URL |
 |---|---|---|---|---|
-| 1 | Criminals operating an illegal financial service to launder millions of euros busted | Eurojust | 2025-01-27 | [Link](https://www.eurojust.europa.eu/news/criminals-operating-illegal-financial-service-launder-millions-euros-busted) |
+| [1] | Criminals operating an illegal financial service to launder millions of euros busted | Eurojust | 2025-01-27 | https://www.eurojust.europa.eu/news/criminals-operating-illegal-financial-service-launder-millions-euros-busted |
+| [2] | Criminals operating an illegal financial service to launder millions of euros busted | Risk & Compliance Platform Europe | 2025-02-07 | https://www.riskcompliance.biz/news/criminals-operating-an-illegal-financial-service-to-launder-millions-of-euros-busted/ |
+| [3] | Criminals operating an illegal financial service to launder millions of euros busted | The European Times | 2025-01-27 | https://europeantimes.news/2025/01/criminals-operating-an-illegal-financial-service-to-launder-millions-of-euros-busted-eurojust// |
+| [4] | Eurojust fraud topic page - illegal financial service laundering | Eurojust | 2025-01-27 | https://www.eurojust.europa.eu/term/fraud?page=8 |
+| [5] | Eurojust financial crime topic page - illegal financial service laundering | Eurojust | 2025-01-27 | https://www.eurojust.europa.eu/term/financial-crime |

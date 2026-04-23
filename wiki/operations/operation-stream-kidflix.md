@@ -2,7 +2,7 @@
 type: operation
 title: "Operation Stream"
 aliases:
-  - "Operation Stream: Kidflix"
+  - "Operation Stream: "Kidflix\""
   - "Kidflix Takedown"
 case_id: CYB-2025-001
 period: 3
@@ -29,7 +29,8 @@ participating_agencies:
   - "[[germany-bka]]"
   - "[[europol-ec3]]"
   - "[[netherlands-politie]]"
-legal_basis: []
+legal_basis:
+
 mechanisms_used:
   - "[[informal-cooperation]]"
 results:
@@ -37,18 +38,21 @@ results:
   indictments: 0
   servers_seized: 1
   domains_seized: 0
-  cryptocurrency_seized: "undisclosed"
+  cryptocurrency_seized: undisclosed
   decryption_keys_recovered: 0
   victims_notified: 39
   other:
     - "1,393 suspects were identified worldwide."
     - "More than 3,000 electronic devices were seized."
     - "The platform had 1.8 million registered users."
-source_count: 3
+source_count: 6
 sources:
   - "[[2025-04-04_europol_operation-stream-kidflix-takedown]]"
   - "[[2025-04-04_securityaffairs-com_operation-stream-kidflix]]"
   - "[[2025-04-03_politie-nl_kidflix-offline-gehaald]]"
+  - "[[2025-04-04-europol-operation-stream-kidflix]]"
+  - "[[2025-04-02_bleepingcomputer-com_police-shuts-down-kidflix-child-sexual-exploitation-platform]]"
+  - "[[2025-05-15_eucrim_pedophile-platform-kidflix-shut-down]]"
 created: 2026-04-08
 updated: 2026-04-19
 operation_role: umbrella
@@ -111,7 +115,10 @@ The public record supports a long-running multinational investigative model cent
 ## References
 
 | # | Title | Publisher | Date | URL |
-|---|-------|----------|------|-----|
-| [1] | Europol-led Operation Stream Takes Down Kidflix CSAM Platform | Security Affairs / Europol-centered collected source | 2025-04-04 | https://securityaffairs.com/176154/cyber-crime/europol-led-op-shuts-down-csam-platform-kidflix.html |
-| [2] | Europol and German authorities lead global takedown of darknet child exploitation platform Kidflix | TRM Labs | 2025-04-04 | https://www.trmlabs.com/resources/blog/europol-and-german-authorities-lead-global-takedown-of-darknet-child-exploitation-platform-kidflix |
+|---|---|---|---|---|
+| [1] | Europol-led Operation Stream Takes Down Kidflix CSAM Platform | Europol / Security Affairs / TRM Labs | 2025-04-04 | https://securityaffairs.com/176154/cyber-crime/europol-led-op-shuts-down-csam-platform-kidflix.html |
+| [2] | Operation Stream / Kidflix | Security Affairs / TRM Labs | 2025-04-04 | https://securityaffairs.com/176270/cyber-crime/operation-stream-kidflix-takedown.html |
 | [3] | Kinderpornografisch platform KidFlix offline gehaald | Dutch National Police | 2025-04-03 | https://www.politie.nl/nieuws/2025/april/2/11-kinderpornografisch-platform-kidflix-offline-gehaald.html |
+| [4] | Europol-led Operation Stream Takes Down Kidflix CSAM Platform | Security Affairs / TRM Labs | 2025-04-04 |  |
+| [5] | Police shuts down KidFlix child sexual exploitation platform | BleepingComputer | 2025-04-02 | https://www.bleepingcomputer.com/news/security/police-shuts-down-kidflix-child-sexual-exploitation-platform/ |
+| [6] | Pedophile Platform 'Kidflix' Shut Down | eucrim | 2025-05-15 | https://eucrim.eu/news/pedophile-platform-kidflix-shut-down/ |

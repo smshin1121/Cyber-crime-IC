@@ -3,73 +3,68 @@ operation_role: umbrella
 parent_operation: ""
 summary: "**Operation Lyrebird** was an INTERPOL-coordinated operation that resulted in the arrest of a suspect in **Morocco** linked to **phishing** and **carding** activities. The operation was conducted with intelligence support from cybersecurity firm **Group-IB**. The arrest demonstrated INTERPOL's growing capability to coordinate cybercrime operations in the African region."
 aliases:
-- Operation Lyrebird
-- INTERPOL Morocco phishing arrest
+
 case_id: CYB-2021-050
-challenges_encountered: []
-coordinating_body: '[[interpol]]'
+challenges_encountered:
+
+coordinating_body: "[[interpol]]"
 created: 2026-04-08
 credibility_index: 2.55
-crime_type: '[[online-fraud-ic]]'
+crime_type: "[[online-fraud-ic]]"
 edges:
-- cooperation_type: joint_investigation
-  direction: undirected
-  legal_basis: unknown
-  source_actor: INTERPOL
-  target_actor: Morocco Police
-- cooperation_type: technical_assistance
-  direction: directed
-  legal_basis: unknown
-  source_actor: Group-IB
-  target_actor: INTERPOL
+
 enforcement_type:
-- arrest
-lead_agency: '[[interpol]]'
-legal_basis: []
+
+lead_agency: "[[interpol]]"
+legal_basis:
+
 lessons_learned:
-- INTERPOL-Group-IB partnership effective for targeting cybercriminals in North Africa
-mechanisms_used: []
+
+mechanisms_used:
+
 missing_fields:
-- legal_basis
-- mechanisms_used
-- exact_timeframe
-- url
+
 operation_type: arrest-sweep
 outcome: success
 participating_agencies:
-- '[[interpol]]'
+
 participating_countries:
-- '[[morocco]]'
+
 period: 2
-related_cases: []
-related_operations: []
+related_cases:
+
+related_operations:
+
 results:
   arrests: 1
-  cryptocurrency_seized: ''
+  cryptocurrency_seized: ""
   decryption_keys_recovered: 0
   domains_seized: 0
   indictments: 0
   other:
-  - Suspect linked to phishing and carding activities
-  - Group-IB provided private sector intelligence
+
   servers_seized: 0
   victims_notified: 0
-source_count: 1
+source_count: 5
 source_tier: 3
-sources: []
+sources:
+  - "[[group-ib-operation-lyrebird]]"
+  - "[[2021-07-06_interpol-int_suspected-key-actor-arrested-in-morocco-operation-lyrebird]]"
+  - "[[2021-07_portswigger-net_operation-lyrebird-cybercops-nab-moroccan-phish-and-carding-kingpin]]"
+  - "[[2021-09-28_technadu-com_operation-lyrebird-dr-hex-arrest]]"
+  - "[[2021-07-06_darkreading-com_operation-lyrebird-morocco-arrest]]"
 status: completed
-target_entity: Moroccan phishing/carding suspect
+target_entity: "Moroccan phishing/carding suspect"
 timeframe:
-  announced: '2021-07-05'
-  end: '2021-07-05'
+  announced: 2021-07-05
+  end: 2021-07-05
   ongoing: false
-  start: '2021-07-05'
-title: Operation Lyrebird
-title_ko: 라이어버드 작전
+  start: 2021-07-05
+title: "Operation Lyrebird"
+title_ko: "라이어버드 작전"
 type: operation
-updated: '2026-04-09'
+updated: 2026-04-09
 ---
-
 > [!note] This operation is documented from a Tier 3 (cybersecurity media) source. Additional verification from official sources (Tier 1-2) would strengthen data reliability.
 
 ## Summary
@@ -134,5 +129,9 @@ No Korean involvement identified.
 ## References
 
 | # | Title | Publisher | Date | URL |
-|---|-------|----------|------|-----|
-| [1] | INTERPOL-led operation takes down prolific cybercriminal | Group-IB | 2021-07-05 | [원본](https://www.group-ib.com/media-center/press-releases/gib-interpol-lyrebird/) |
+|---|---|---|---|---|
+| [1] | Group-IB: Operation Lyrebird — Identifying 'Dr HeX' in Morocco | Group-IB | 2021-07-05 | https://www.group-ib.com/media-center/press-releases/gib-interpol-lyrebird/ |
+| [2] | Suspected cybercrime actor arrested in Morocco after INTERPOL operation | INTERPOL | 2021-07-06 | https://www.interpol.int/News-and-Events/News/2021/Suspected-cybercrime-actor-arrested-in-Morocco |
+| [3] | Operation Lyrebird: Cybercops nab Moroccan phish-and-carding kingpin | The Daily Swig / PortSwigger | 2021-07-01 | https://portswigger.net/daily-swig/operation-lyrebird-cybercops-nab-moroccan-phish-and-carding-kingpin |
+| [4] | Operation Lyrebird leads to arrest of Dr HeX-linked suspect | TechNadu | 2021-09-28 | https://www.technadu.com/operation-lyrebird-dr-hex-arrest/315867/ |
+| [5] | INTERPOL operation leads to Morocco arrest in phishing and carding case | Dark Reading | 2021-07-06 | https://www.darkreading.com/cyberattacks-data-breaches/interpol-operation-lyrebird-morocco-arrest |

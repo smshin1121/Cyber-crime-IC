@@ -16,8 +16,10 @@ enforcement_type:
 outcome: success
 credibility_index: 4.3
 source_tier: 1
-edges: []
-missing_fields: []
+edges:
+
+missing_fields:
+
 timeframe:
   announced: 2025-09-23
   start: 2018
@@ -58,14 +60,21 @@ results:
   other:
     - "Searches were carried out in Spain, Portugal, Italy, Romania and Bulgaria."
     - "Bank accounts and other financial assets were frozen."
-related_cases: []
-related_operations: []
-challenges_encountered: []
+related_cases:
+
+related_operations:
+
+challenges_encountered:
+
 lessons_learned:
   - "Large investment-fraud platforms often require a JIT plus multiple EIO and freezing-order tracks to preserve digital and financial evidence across jurisdictions."
-source_count: 1
+source_count: 5
 sources:
   - "[[2025-09-23_eurojust_crypto-fraud-over-100-million-euros-across-europe]]"
+  - "[[2025-09-23_decripto-org_eurojust-dismantles-eur-100-million-crypto-scam-five-arrests-and-seizures]]"
+  - "[[2025-09-23_world-border-congress_eurojust-coordinates-action-to-halt-cryptocurrency-fraud-of-over-100-million-euros-across-europe]]"
+  - "[[2025-09-23_721news-com_eurojust-coordinates-action-to-halt-cryptocurrency-fraud-of-over-100-million-euros-across-europe]]"
+  - "[[2025-09-23_112wwft-nl_eurojust-coordinates-action-to-halt-cryptocurrency-fraud-of-over-100-million-euros-across-europe]]"
 created: 2026-04-19
 updated: 2026-04-19
 summary: "Eurojust coordinated a 2025 multinational action against a cryptocurrency investment-fraud network that defrauded victims in at least 23 countries of over EUR 100 million and triggered arrests, searches, and asset freezes across six participating states."
@@ -113,6 +122,10 @@ According to Eurojust, the fraud had been running since at least 2018 and used p
 
 ## References
 
-| # | Source | Publisher | Date | URL |
+| # | Title | Publisher | Date | URL |
 |---|---|---|---|---|
-| 1 | Eurojust coordinates action to halt cryptocurrency fraud of over 100 million euros across Europe | Eurojust | 2025-09-23 | [Link](https://www.eurojust.europa.eu/news/eurojust-coordinates-action-halt-cryptocurrency-fraud-over-100-million-euros-across-europe) |
+| [1] | Eurojust coordinates action to halt cryptocurrency fraud of over 100 million euros across Europe | Eurojust | 2025-09-23 | https://www.eurojust.europa.eu/news/eurojust-coordinates-action-halt-cryptocurrency-fraud-over-100-million-euros-across-europe |
+| [2] | Eurojust dismantles EUR 100 million crypto scam: five arrests and seizures | Decripto | 2025-09-23 | https://decripto.org/en/eurojust-dismantles-eur-100-million-crypto-scam-five-arrests-and-seizures/ |
+| [3] | Eurojust coordinates action to halt cryptocurrency fraud of over 100 million euros across Europe | World Border Security Congress | 2025-09-23 | https://world-border-congress.com/eurojust-coordinates-action-to-halt-cryptocurrency-fraud-of-over-100-million-euros-across-europe/ |
+| [4] | Eurojust coordinates action to halt cryptocurrency fraud of over 100 million euros across Europe | 721news | 2025-09-23 | https://www.721news.com/2025/09/eurojust-coordinates-action-to-halt-cryptocurrency-fraud-of-over-100-million-euros-across-europe/ |
+| [5] | Eurojust coordinates action to halt cryptocurrency fraud of over 100 million euros across Europe | 112WWFT | 2025-09-23 | https://www.112wwft.nl/2025/09/23/eurojust-coordinates-action-to-halt-cryptocurrency-fraud-of-over-100-million-euros-across-europe/ |

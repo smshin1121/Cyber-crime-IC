@@ -98,11 +98,26 @@ challenges_encountered:
 
 lessons_learned:
 
-source_count: 1
+source_count: 16
 sources:
-  - tier3-thehackernews-xdedic-2019
+  - "[[2021-09-08_mdfl_ivanov-tolpintsev-xdedic-extradition]]"
+  - "[[2021-09-15_mdfl_odedeyi-davies-xdedic-indictment]]"
+  - "[[2022-11-22_mdfl_habasescu-xdedic-extradition]]"
+  - "[[2022-12-05_mdfl_levinson-xdedic-sentencing]]"
+  - "[[2023-02-22_mdfl_pankov-xdedic-extradition]]"
+  - "[[2023-11-29_mdfl_adejumo-jinadu-xdedic-sentencing]]"
+  - "[[2024-01-04_mdfl_adafin-xdedic-summary]]"
+  - "[[2024-01-04_mdfl_kharmanskyi-xdedic-summary]]"
+  - "[[2024-01-04_mdfl_mckinzie-xdedic-summary]]"
+  - "[[2024-01-04_mdfl_ogunlana-xdedic-summary]]"
+  - "[[2024-01-04_mdfl_oyebanjo-xdedic-summary]]"
+  - "[[2024-01-04_mdfl_spencer-xdedic-summary]]"
+  - "[[2024-01-04_mdfl_taylor-xdedic-summary]]"
+  - "[[2024-07-23_mdfl_omotosho-xdedic-sentencing]]"
+  - "[[2024-08-07_mdfl_mcneely-xdedic-summary]]"
+  - "[[2024-08-07_justice-gov_xdedic-marketplace-victim-services-case-summary]]"
 created: 2026-04-08
-updated: 2026-04-17
+updated: 2026-04-09
 operation_role: umbrella
 parent_operation: ""
 summary: "In January 2019, the FBI, in cooperation with [[europol-ec3|Europol]] and Belgian and Ukrainian authorities, seized **xDedic**, a major online criminal marketplace that sold access to compromised computer servers worldwide. The marketplace had listed over **85,000 compromised servers** for sale and facilitated an estimated **$68 million** in fraud."
@@ -192,6 +207,20 @@ No Korean involvement identified. However, compromised servers in any country co
 ## References
 
 | # | Title | Publisher | Date | URL |
-|---|-------|----------|------|-----|
-| [1] | Cyber Criminal Marketplace | The Hacker News | 2019-01-28 | [link](https://thehackernews.com/2019/01/cyber-criminal-marketplace.html) |
-
+|---|---|---|---|---|
+| [1] | Ukrainian Cyber Criminal Extradited For Decrypting The Credentials Of Thousands Of Computers Across The World And Selling Them On A Dark Web Website | US DOJ (Middle District of Florida) | 2021-09-08 | https://www.justice.gov/usao-mdfl/pr/ukrainian-cyber-criminal-extradited-decrypting-credentials-thousands-computers-across |
+| [2] | Four Men Federally Charged In Transnational Wire Fraud And Identity Theft Conspiracy | US DOJ (Middle District of Florida) | 2021-09-15 | https://www.justice.gov/usao-mdfl/pr/four-men-federally-charged-transnational-wire-fraud-and-identity-theft-conspiracy |
+| [3] | Moldovan National And Technical Mastermind Of xDedic Marketplace Extradited From Spain | US DOJ (Middle District of Florida) | 2022-11-22 | https://www.justice.gov/usao-mdfl/pr/moldovan-national-and-technical-mastermind-xdedic-marketplace-extradited-spain |
+| [4] | Nigerian National Sentenced To More Than Six Years In Federal Prison For International Tax Fraud Scheme | US DOJ (Middle District of Florida) | 2022-12-05 | https://www.justice.gov/usao-mdfl/pr/nigerian-national-sentenced-more-six-years-federal-prison-international-tax-fraud |
+| [5] | Russian Malware Developer Arrested And Extradited To The United States | US DOJ (Middle District of Florida) | 2023-02-22 | https://www.justice.gov/usao-mdfl/pr/russian-malware-developer-arrested-and-extradited-united-states |
+| [6] | U.S.-Based Conspirators Sentenced To Prison For International Tax Scheme | US DOJ (Middle District of Florida) | 2023-11-29 | https://www.justice.gov/usao-mdfl/pr/us-based-conspirators-sentenced-prison-international-tax-scheme |
+| [7] | 19 Individuals Worldwide Charged In Transnational Cybercrime Investigation Of The xDedic Marketplace | US DOJ (Middle District of Florida) | 2024-01-04 | https://www.justice.gov/usao-mdfl/pr/19-individuals-worldwide-charged-transnational-cybercrime-investigation-xdedic |
+| [8] | 19 Individuals Worldwide Charged In Transnational Cybercrime Investigation Of The xDedic Marketplace | US DOJ (Middle District of Florida) | 2024-01-04 | https://www.justice.gov/usao-mdfl/pr/19-individuals-worldwide-charged-transnational-cybercrime-investigation-xdedic |
+| [9] | 19 Individuals Worldwide Charged In Transnational Cybercrime Investigation Of The xDedic Marketplace | US DOJ (Middle District of Florida) | 2024-01-04 | https://www.justice.gov/usao-mdfl/pr/19-individuals-worldwide-charged-transnational-cybercrime-investigation-xdedic |
+| [10] | 19 Individuals Worldwide Charged In Transnational Cybercrime Investigation Of The xDedic Marketplace | US DOJ (Middle District of Florida) | 2024-01-04 | https://www.justice.gov/usao-mdfl/pr/19-individuals-worldwide-charged-transnational-cybercrime-investigation-xdedic |
+| [11] | 19 Individuals Worldwide Charged In Transnational Cybercrime Investigation Of The xDedic Marketplace | US DOJ (Middle District of Florida) | 2024-01-04 | https://www.justice.gov/usao-mdfl/pr/19-individuals-worldwide-charged-transnational-cybercrime-investigation-xdedic |
+| [12] | 19 Individuals Worldwide Charged In Transnational Cybercrime Investigation Of The xDedic Marketplace | US DOJ (Middle District of Florida) | 2024-01-04 | https://www.justice.gov/usao-mdfl/pr/19-individuals-worldwide-charged-transnational-cybercrime-investigation-xdedic |
+| [13] | 19 Individuals Worldwide Charged In Transnational Cybercrime Investigation Of The xDedic Marketplace | US DOJ (Middle District of Florida) | 2024-01-04 | https://www.justice.gov/usao-mdfl/pr/19-individuals-worldwide-charged-transnational-cybercrime-investigation-xdedic |
+| [14] | Nigerian National Sentenced To More Than 12 Years In Federal Prison For Cyber Scams | US DOJ (Middle District of Florida) | 2024-07-23 | https://www.justice.gov/usao-mdfl/pr/nigerian-national-sentenced-more-12-years-federal-prison-cyber-scams |
+| [15] | xDedic Marketplace | US DOJ (Middle District of Florida) | 2024-08-07 | https://www.justice.gov/usao-mdfl/victim-witness-services/xDedic |
+| [16] | xDedic Marketplace victim-services case summary | DOJ M.D. Fla. | 2024-08-07 | https://www.justice.gov/usao-mdfl/victim-witness-services/xDedic |

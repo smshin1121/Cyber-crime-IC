@@ -81,11 +81,15 @@ challenges_encountered:
 
 lessons_learned:
 
-source_count: 1
+source_count: 5
 sources:
-  - "[1] INTERPOL News (2015-04-09)"
+  - "[[interpol-911-s5-botnet-dismantling]]"
+  - "[[2015-04-13_kaspersky-com_kaspersky-lab-joins-forces-with-interpol-industry-and-law-enforcement-partners-to-disrupt-simda-botnet]]"
+  - "[[2015-04-13_kaspersky-com_simda-botnet-a-stealthy-malware-waiter]]"
+  - "[[2015-04-13_trendmicro-com_trend-micro-joins-interpol-botnet-takedown-presents-at-interpol-world-2015]]"
+  - "[[2015-04-15_techspot-com_interpol-led-operation-takes-down-the-botnet-that-infected-over-770k-pcs]]"
 created: 2026-04-08
-updated: 2026-04-08
+updated: 2026-04-09
 operation_role: umbrella
 parent_operation: ""
 summary: "On April 9, 2015, INTERPOL coordinated an international operation to take down the Simda botnet, which had infected over 770,000 computers across 190+ countries. Law enforcement agencies from the Netherlands, United States, Russia, Luxembourg, and Poland, along with private sector partners Microsoft, Kaspersky Lab, Trend Micro, and Japan Cyber Defense Institute, simultaneously seized command-and-control servers to neutralize the botnet used for personal and financial data theft."
@@ -149,5 +153,9 @@ Netherlands, United States, Russia, Luxembourg, Poland, Japan, Singapore
 ## References
 
 | # | Title | Publisher | Date | URL |
-|---|-------|----------|------|-----|
-| [1] | INTERPOL Coordinates Global Operation to Take Down Simda Botnet | INTERPOL | 2015-04-09 | [원본](https://www.interpol.int/News-and-Events/News/2015/INTERPOL-coordinates-global-operation-to-take-down-Simda-botnet) |
+|---|---|---|---|---|
+| [1] | INTERPOL: INTERPOL Coordinates Global Operation to Take Down Simda Botnet | INTERPOL | 2015-04-13 | https://www.interpol.int/News-and-Events/News/2015/INTERPOL-coordinates-global-operation-to-take-down-Simda-botnet |
+| [2] | Kaspersky Lab Joins Forces with INTERPOL, Industry and Law Enforcement Partners to Disrupt Simda Botnet | Kaspersky | 2015-04-13 | https://usa.kaspersky.com/about/press-releases/kaspersky-lab-joins-forces-with-interpol-industry-and-law-enforcement-partners-to-disrupt-simda-botnet |
+| [3] | Simda botnet: a stealthy malware waiter | Kaspersky | 2015-04-13 | https://www.kaspersky.com/blog/simda-botnet-a-stealthy-malware-waiter/3831/ |
+| [4] | Trend Micro Joins INTERPOL Botnet Takedown, Presents at INTERPOL World 2015 | Trend Micro | 2015-04-13 | https://newsroom.trendmicro.com/2015-04-13-Trend-Micro-Joins-INTERPOL-Botnet-Takedown-Presents-at-INTERPOL-World-2015 |
+| [5] | Interpol-led operation takes down the botnet that infected over 770K PCs | TechSpot | 2015-04-15 | https://www.techspot.com/news/60376-interpol-led-operation-takes-down-botnet-infected-over.html |

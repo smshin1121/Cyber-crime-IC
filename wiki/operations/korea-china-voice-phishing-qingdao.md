@@ -63,11 +63,15 @@ challenges_encountered:
 lessons_learned:
   - "Bilateral Korea-China cooperation can effectively target China-based voice phishing call centres"
   - "First significant joint operation under Seoul-Beijing bilateral agreement establishes precedent"
-source_count: 1
+source_count: 5
 sources:
   - "[[2023-09-08-korea-china-voice-phishing-qingdao]]"
+  - "[[2026-04-17_web-archive-org_articleview-html]]"
+  - "[[2023-09-07_koreatimes-co-kr_police-nab-16-voice-phishing-scam-suspects-based-in-china]]"
+  - "[[2023-09-07_yna-co-kr_police-nab-16-voice-phishing-scam-suspects-based-in-china]]"
+  - "[[2023-09-07_asiae-co-kr_16-members-of-voice-phishing-organization-based-in-qingdao-china-arrested]]"
 created: 2026-04-08
-updated: 2026-04-08
+updated: 2026-04-09
 operation_role: umbrella
 parent_operation: ""
 summary: "The Seoul Metropolitan Police Agency (SMPA), in cooperation with Chinese police in Qingdao, arrested **16 suspects** (3 Chinese nationals, 13 Koreans) for voice phishing scams that extorted **KRW 2.7 billion (USD 2 million)** from **68 victims** between December 2022 and August 2023. This was reported as the **first significant joint Korea-China voice phishing roundup** under a bilateral cooperation agreement between Seoul and Beijing law enforcement."
@@ -133,6 +137,11 @@ Korea's voice phishing challenge:
 > not result in formal prosecution.
 
 ## References
+
 | # | Title | Publisher | Date | URL |
-|---|-------|----------|------|-----|
-| [1] | Seoul Metropolitan Police and Chinese police jointly arrest 16 voice phishing suspects in Qingdao | The Korea Times | 2023-09-08 | [원본](https://www.koreatimes.co.kr/www/nation/2024/07/113_358692.html) |
+|---|---|---|---|---|
+| [1] | Seoul Metropolitan Police and Chinese police jointly arrest 16 voice phishing suspects in Qingdao | The Korea Times | 2023-09-08 | https://www.koreatimes.co.kr/www/nation/2024/07/113_358692.html |
+| [2] | articleView.html | web.archive.org | 2026-04-17 | https://web.archive.org/web/*/news.bbsi.co.kr/news/articleView.html?idxno=4065611 |
+| [3] | Police nab 16 voice phishing scam suspects based in China | The Korea Times | 2023-09-07 | https://www.koreatimes.co.kr/southkorea/20230907/police-nab-16-voice-phishing-scam-suspects-based-in-china |
+| [4] | Police nab 16 voice phishing scam suspects based in China | Yonhap News Agency | 2023-09-07 | https://en.yna.co.kr/view/AEN20230907006000315 |
+| [5] | 16 Members of Voice Phishing Organization Based in Qingdao, China Arrested | Asia Economy | 2023-09-07 | https://cm.asiae.co.kr/en/article/2023090709533990657 |

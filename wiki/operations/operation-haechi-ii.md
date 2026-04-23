@@ -44,7 +44,6 @@ participating_countries:
   - "[[vietnam]]"
   - "[[colombia]]"
   - "[[hong-kong]]"
-
 period: 2
 related_cases:
 
@@ -60,10 +59,14 @@ results:
 
   servers_seized: 0
   victims_notified: 0
-source_count: 2
+source_count: 5
 source_tier: 2
 sources:
-
+  - "[[interpol-operation-haechi-ii]]"
+  - "[[the-hacker-news-operation-haechi-ii]]"
+  - "[[2021-11-26_bleepingcomputer-com_interpol-arrests-over-1000-suspects-linked-to-cyber-crime]]"
+  - "[[2021-11-30_helpnetsecurity-com_massive-online-crime-crackdown-leads-to-1000-arrests]]"
+  - "[[2021-11-26_interpol-int_more-than-1000-arrests-and-usd-27-million-intercepted-in-massive-financial-crime-crackdown]]"
 status: completed
 target_entity: "Online fraud and financial crime networks"
 timeframe:
@@ -115,7 +118,11 @@ South Korea (한국) was a key participant in Operation HAECHI-II, consistent wi
 > not result in formal prosecution.
 
 ## References
+
 | # | Title | Publisher | Date | URL |
-|---|-------|----------|------|-----|
-| [1] | Interpol Seized 130 Million From | The Hacker News | 2022-11 | [원본](https://thehackernews.com/2022/11/interpol-seized-130-million-from.html) |
-| [2] | More Than 1 000 Arrests And Usd 27 Million Intercepted In Massive Financial C... | INTERPOL | 2021-11 | [원본](https://www.interpol.int/News-and-Events/News/2021/More-than-1-000-arrests-and-USD-27-million-intercepted-in-massive-financial-crime-crackdown) |
+|---|---|---|---|---|
+| [1] | INTERPOL: Operation HAECHI-II | INTERPOL | Unknown | https://www.interpol.int/News-and-Events/News/2021/More-than-1-000-arrests-and-USD-27-million-intercepted-in-massive-financial-crime-crackdown |
+| [2] | The Hacker News: INTERPOL Seized $130 Million from Cybercriminals in Global HAECHI-III Crackdown | The Hacker News | 2022-11-24 | https://thehackernews.com/2022/11/interpol-seized-130-million-from.html |
+| [3] | Interpol arrests over 1,000 suspects linked to cyber crime | BleepingComputer | 2021-11-26 | https://www.bleepingcomputer.com/news/legal/interpol-arrests-over-1-000-suspects-linked-to-cyber-crime/ |
+| [4] | Massive online crime crackdown leads to 1,000 arrests | Help Net Security | 2021-11-30 | https://www.helpnetsecurity.com/2021/11/30/haechi-ii-crime-crackdown/ |
+| [5] | More than 1,000 arrests and USD 27 million intercepted in massive financial crime crackdown | INTERPOL | 2021-11-26 | https://www.interpol.int/en/News-and-Events/News/2021/More-than-1-000-arrests-and-USD-27-million-intercepted-in-massive-financial-crime-crackdown |

@@ -96,12 +96,13 @@ lessons_learned:
   - "FBI-EFCC bilateral cooperation was critical for arrests in Nigeria"
   - "Follow-the-money approach through financial institutions is essential for BEC cases"
   - "Successor to Operation WireWire showed value of repeating coordinated sweeps"
-source_count: 4
+source_count: 5
 sources:
-  - "[FBI Press Release (2019-09-10)](https://www.fbi.gov/news/stories/operation-rewired-bec-takedown-091019)"
-  - "[DOJ Press Release (2019-09-10)](https://www.justice.gov/archives/opa/pr/281-arrested-worldwide-coordinated-international-enforcement-operation-targeting-hundreds)"
-  - "[US Secret Service Press Release (2019-09-10)](https://www.secretservice.gov/press/releases/2019/09/281-arrested-worldwide-coordinated-international-enforcement-operation)"
-  - "[EFCC Press Release (2019-09)](https://www.efcc.gov.ng/efcc/news-and-information/news-release/4806-operation-rewired-we-recovered-169-850-n92m-through-efcc-fbi-collaboration-magu)"
+  - "[[2019-09-10_fbi-gov_operation-rewired-bec-takedown]]"
+  - "[[2019-09-10_justice-gov_281-arrested-worldwide-coordinated-international-enforcement-operation-targeting-hundreds]]"
+  - "[[2019-09-10_secretservice-gov_281-arrested-worldwide-coordinated-international-enforcement-operation]]"
+  - "[[2019-09-11_scworld-com_operation-rewired-campaign]]"
+  - "[[2019-09-10_wired-com_email-scammer-global-takedown]]"
 created: 2026-04-10
 updated: 2026-04-11
 operation_role: umbrella
@@ -267,3 +268,13 @@ No [[south-korea|South Korean]] participation in Operation reWired has been publ
 > for this operation. Possible reasons: non-US jurisdiction with no
 > public court records system, sealed proceedings, or operation did
 > not result in formal prosecution.
+
+## References
+
+| # | Title | Publisher | Date | URL |
+|---|---|---|---|---|
+| [1] | Operation reWired | FBI | 2019-09-10 | https://www.fbi.gov/news/stories/operation-rewired-bec-takedown-091019 |
+| [2] | 281 Arrested Worldwide in Coordinated International Enforcement Operation Targeting Hundreds of Individuals in Cyber-Enabled Financial Fraud | U.S. Department of Justice | 2019-09-10 | https://www.justice.gov/archives/opa/pr/281-arrested-worldwide-coordinated-international-enforcement-operation-targeting-hundreds |
+| [3] | 281 Arrested Worldwide in Coordinated International Enforcement Operation Targeting Hundreds of Individuals in Cyber-enabled Financial Fraud | U.S. Secret Service | 2019-09-10 | https://www.secretservice.gov/press/releases/2019/09/281-arrested-worldwide-coordinated-international-enforcement-operation |
+| [4] | Authorities arrest 281 alleged BEC scammers in Operation reWired campaign | SC Media | 2019-09-11 | https://www.scworld.com/news/authorities-arrest-281-alleged-bec-scammers-in-operation-rewired-campaign |
+| [5] | 281 Alleged Email Scammers Arrested in Massive Global Sweep | Wired | 2019-09-10 | https://www.wired.com/story/email-scammer-global-takedown |

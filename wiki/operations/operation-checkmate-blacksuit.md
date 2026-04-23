@@ -76,9 +76,13 @@ challenges_encountered:
 lessons_learned:
   - "Multi-agency domestic coordination (5 US agencies) combined with international partnerships enables comprehensive ransomware disruption"
   - "Domain seizures targeting leak sites and negotiation portals directly disrupt ransomware business model"
-source_count: 1
+source_count: 5
 sources:
   - "[[2025-08-11-doj-blacksuit-royal-ransomware-takedown]]"
+  - "[[2025-07-24_bleepingcomputer-com_law-enforcement-seizes-blacksuit-ransomware-leak-sites]]"
+  - "[[2025-07-25_scworld-com_operation-checkmate-shuts-down-blacksuits-extortion-sites]]"
+  - "[[2025-07-25_bitdefender-com_after-500-million-in-ransom-demands-law-enforcement-seizes-blacksuit-site]]"
+  - "[[2025-07-28_techradar-com_top-ransomware-group-blacksuit-has-dark-web-extortion-sites-seized-and-shut-down]]"
 created: 2026-04-08
 updated: 2026-04-08
 operation_role: umbrella
@@ -142,5 +146,9 @@ No Korean involvement noted in this operation.
 ## References
 
 | # | Title | Publisher | Date | URL |
-|---|-------|----------|------|-----|
-| [1] | Coordinated Disruption Actions Against BlackSuit (Royal) Ransomware — Operation Checkmate | US DOJ | 2025-08-11 | [원본](https://www.justice.gov/opa/pr/justice-department-announces-coordinated-disruption-actions-against-blacksuit-royal) |
+|---|---|---|---|---|
+| [1] | Justice Department Announces Coordinated Disruption Actions Against BlackSuit (Royal) Ransomware Operations | US Department of Justice | 2025-08-11 | https://www.justice.gov/opa/pr/justice-department-announces-coordinated-disruption-actions-against-blacksuit-royal |
+| [2] | BlackSuit ransomware extortion sites seized in Operation Checkmate | BleepingComputer | 2025-07-24 | https://www.bleepingcomputer.com/news/security/law-enforcement-seizes-blacksuit-ransomware-leak-sites/ |
+| [3] | Operation Checkmate shuts down BlackSuit's extortion sites | SC Media | 2025-07-25 | https://www.scworld.com/brief/operation-checkmate-shuts-down-blacksuits-extortion-sites |
+| [4] | After $500 Million in Ransom Demands, Law Enforcement Seizes BlackSuit Site | Bitdefender | 2025-07-25 | https://www.bitdefender.com/en-us/blog/businessinsights/blacksuit-ransomware-seized-takedown |
+| [5] | Top ransomware group BlackSuit has dark web extortion sites seized and shut down | TechRadar | 2025-07-28 | https://www.techradar.com/pro/security/top-ransomware-group-blacksuit-has-dark-web-extortion-sites-seized-and-shut-down |

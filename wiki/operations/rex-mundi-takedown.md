@@ -69,9 +69,13 @@ challenges_encountered:
 
 lessons_learned:
 
-source_count: 1
+source_count: 5
 sources:
-  - "[1] Europol News (2018-05-18)"
+  - "[[europol-rex-mundi-hacking-group-takedown]]"
+  - "[[2018-06-19_welivesecurity-com_europol-and-partners-dismantle-prolific-cyber-extortion-gang]]"
+  - "[[2018-06-15_bleepingcomputer-com_europol-dismantles-one-of-the-internets-oldest-hacker-groups]]"
+  - "[[2018-06-15_securityweek-com_french-nationals-arrested-for-rex-mundi-hacks]]"
+  - "[[2018-06-18_infosecurity-magazine_europol-disrupts-rex-mundi-cybercrime-group]]"
 created: 2026-04-08
 updated: 2026-04-08
 operation_role: umbrella
@@ -122,6 +126,11 @@ United Kingdom, France, Thailand
 > not result in formal prosecution.
 
 ## References
+
 | # | Title | Publisher | Date | URL |
-|---|-------|----------|------|-----|
-| [1] | French Coder Who Helped Extort British Company Arrested in Thailand | Europol | 2018-05-18 | [원본](https://www.europol.europa.eu/media-press/newsroom/news/french-coder-who-helped-extort-british-company-arrested-in-thailand) |
+|---|---|---|---|---|
+| [1] | Europol: French coder who helped extort British company arrested in Thailand | Europol | 2018-06-14 | https://www.europol.europa.eu/media-press/newsroom/news/french-coder-who-helped-extort-british-company-arrested-in-thailand |
+| [2] | Europol and partners dismantle prolific cyber-extortion gang | WeLiveSecurity / ESET | 2018-06-19 | https://www.welivesecurity.com/2018/06/19/europol-dismantle-cyber-extortion-gang/ |
+| [3] | Europol Dismantles One of the Internet's Oldest Hacker Groups | BleepingComputer | 2018-06-15 | https://www.bleepingcomputer.com/news/security/europol-dismantles-one-of-the-internets-oldest-hacker-groups/ |
+| [4] | French Nationals Arrested for Rex Mundi Hacks | SecurityWeek | 2018-06-15 | https://www.securityweek.com/french-nationals-arrested-rex-mundi-hacks/ |
+| [5] | Europol Disrupts Rex Mundi Cybercrime Group | Infosecurity Magazine | 2018-06-18 | https://www.infosecurity-magazine.com/news/europol-disrupts-rex-mundi/ |

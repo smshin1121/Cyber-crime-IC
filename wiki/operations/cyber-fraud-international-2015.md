@@ -72,11 +72,15 @@ challenges_encountered:
 
 lessons_learned:
 
-source_count: 1
+source_count: 5
 sources:
-  - "[1] Europol News (2015-06)"
+  - "[[europol-international-cyber-fraud-dismantling-operation]]"
+  - "[[2015-12-31_europol-review-2015_operation-triangle-financial-fraud-cybercrime-group-dismantled]]"
+  - "[[2015-06-11_europeanaffairs_europol-operation-triangle-cybercrime-net-dismantled]]"
+  - "[[2015-06-12_infosecuritymagazine_europol-busts-operation-triangle-in-six-nation-raid]]"
+  - "[[2015-06-12_securityaffairs_law-enforcement-dismantled-gang-behind-operation-triangle-phishing-campaign]]"
 created: 2026-04-08
-updated: 2026-04-08
+updated: 2026-04-23
 operation_role: umbrella
 parent_operation: ""
 summary: "In June 2015, an international law enforcement operation coordinated by Europol and Eurojust dismantled a criminal group engaged in cyber fraud through email account intrusion and financial fraud. The operation resulted in 49 arrests across Italy, Spain, Poland, the United Kingdom, Belgium, and Georgia, with 58 premises searched and criminal proceeds including cash, credit cards, and forged documents seized."
@@ -130,6 +134,11 @@ Italy, Spain, Poland, United Kingdom, Belgium, Georgia
 > not result in formal prosecution.
 
 ## References
+
 | # | Title | Publisher | Date | URL |
-|---|-------|----------|------|-----|
-| [1] | International Operation Dismantles Criminal Group of Cyber Fraudsters | Europol | 2015-06 | [원본](https://www.europol.europa.eu/media-press/newsroom/news/international-operation-dismantles-criminal-group-of-cyber-fraudsters) |
+|---|---|---|---|---|
+| [1] | Europol: International operation dismantles criminal group of cyber-fraudsters | Europol | 2015-06-10 | https://www.europol.europa.eu/media-press/newsroom/news/international-operation-dismantles-criminal-group-of-cyber-fraudsters |
+| [2] | Europol Review 2015 - Operation Triangle / Financial fraud cybercrime group dismantled | Europol | 2015-12-31 | https://www.europol.europa.eu/annual_review/2015/cybercrime.html |
+| [3] | Europol: Operation Triangle, cybercrime net dismantled | European Affairs Magazine | 2015-06-11 | https://www.europeanaffairs.it/blog/2015/06/11/europol-operation-triangle-cybercrime-net-dismantled/ |
+| [4] | Europol Busts Operation Triangle in Six-Nation Raid | Infosecurity Magazine | 2015-06-12 | https://www.infosecurity-magazine.com/news/europol-busts-operation-triangle/ |
+| [5] | Law enforcement dismantled gang behind Operation Triangle phishing campaign | Security Affairs | 2015-06-12 | https://securityaffairs.com/37741/cyber-crime/europol-operation-triangle-phishing.html |

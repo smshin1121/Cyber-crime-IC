@@ -2,7 +2,7 @@
 type: operation
 title: "Operation Talent"
 aliases:
-  - "Talent"
+  - Talent
 case_id: CYB-2025-011
 period: 3
 operation_type: takedown
@@ -35,7 +35,8 @@ participating_agencies:
   - "[[europol-ec3]]"
   - "[[fbi-cyber-division]]"
   - "[[us-doj]]"
-legal_basis: []
+legal_basis:
+
 mechanisms_used:
   - "[[informal-cooperation]]"
 results:
@@ -50,10 +51,13 @@ results:
     - "Cracked and Nulled had roughly 10 million registered user accounts combined."
     - "Associated services Sellix and StarkRDP were also disrupted."
     - "Searches were carried out at seven properties."
-source_count: 2
+source_count: 5
 sources:
   - "[[2025-01-30-europol-operation-talent]]"
   - "[[2025-01-30_justice-gov_cracked-and-nulled-marketplaces-disrupted-international-cyber-operation]]"
+  - "[[2025-01-30_cybernews-com_cracked-and-nulled-seized-in-operation-talent]]"
+  - "[[2025-01-31_infosecurity-magazine_operation-talent-cracked-nulled-dismantled]]"
+  - "[[2025-01-31_bleepingcomputer-com_operation-talent-cracked-nulled]]"
 created: 2026-04-08
 updated: 2026-04-19
 operation_role: umbrella
@@ -131,6 +135,9 @@ The sources clearly support synchronized multinational police action with Europo
 ## References
 
 | # | Title | Publisher | Date | URL |
-|---|-------|----------|------|-----|
-| [1] | Strafverfolgungsbehörden schalten die zwei weltweit größten Cybercrime-Foren mit rund 10 Millionen registrierten Nutzern ab | Germany BKA | 2025-01-30 | https://www.bka.de/DE/Presse/Listenseite_Pressemitteilungen/2025/Presse2025/250130_Operation_Talent.html |
+|---|---|---|---|---|
+| [1] | Operation Talent | Germany BKA / Europol-supported operation | 2025-01-30 | https://www.bka.de/DE/Presse/Listenseite_Pressemitteilungen/2025/Presse2025/250130_Operation_Talent.html |
 | [2] | Cracked and Nulled Marketplaces Disrupted in International Cyber Operation | U.S. Department of Justice | 2025-01-30 | https://www.justice.gov/opa/pr/cracked-and-nulled-marketplaces-disrupted-international-cyber-operation |
+| [3] | Cracked and Nulled seized in Operation Talent | Cybernews | 2025-01-30 | https://cybernews.com/news/cracked-nulled-seized-operation-talent/ |
+| [4] | Operation Talent dismantles Cracked and Nulled | Infosecurity Magazine | 2025-01-31 | https://www.infosecurity-magazine.com/news/operation-talent-cracked-nulled/ |
+| [5] | Operation Talent disrupts Cracked and Nulled cybercrime forums | BleepingComputer | 2025-01-31 | https://www.bleepingcomputer.com/news/security/operation-talent-disrupts-cracked-and-nulled-cybercrime-forums/ |

@@ -72,11 +72,15 @@ lessons_learned:
   - "I-GRIP mechanism enables rapid cross-border fund interception critical for phone scam cases"
   - "Scam operations increasingly involve trafficking/forced labor (Namibia rescue)"
   - "61-country scope demonstrates global reach of INTERPOL-coordinated anti-fraud operations"
-source_count: 1
+source_count: 5
 sources:
   - "[[2024-06-18-interpol-operation-first-light-2024]]"
+  - "[[2025-12-01_police-gov-sg_cad-report-2024-operation-first-light]]"
+  - "[[2024-07-01_police-gov-sg_mid-year-scams-and-cybercrime-brief-2024-operation-first-light]]"
+  - "[[2026-02-01_interpol-int_annual-report-2024-operation-first-light]]"
+  - "[[2026-04-01_interpol-int_support-for-afripol-operation-first-light]]"
 created: 2026-04-08
-updated: 2026-04-22
+updated: 2026-04-09
 operation_role: umbrella
 parent_operation: ""
 summary: "Operation First Light 2024 was an INTERPOL-coordinated global crackdown on online scams conducted from March to May 2024 across **61 countries**. The operation resulted in **3,950 arrests**, identification of **14,643 additional suspects**, freezing of **6,745 bank accounts**, and seizure of assets worth **USD 257 million**. Bolstered by AFRIPOL, ASEANAPOL, GCCPOL, and Europol."
@@ -141,6 +145,11 @@ Korea's specific participation in First Light 2024 is not detailed in the source
 > not result in formal prosecution.
 
 ## References
+
 | # | Title | Publisher | Date | URL |
-|---|-------|----------|------|-----|
-| [1] | USD 257 million seized in global police crackdown against online scams — Operation First Light 2024 | INTERPOL | 2024-06-18 | [원본](https://www.interpol.int/News-and-Events/News/2024/USD-257-million-seized-in-global-police-crackdown-against-online-scams) |
+|---|---|---|---|---|
+| [1] | USD 257 million seized in global police crackdown against online scams - Operation First Light 2024 | INTERPOL | 2024-06-18 | https://www.interpol.int/News-and-Events/News/2024/USD-257-million-seized-in-global-police-crackdown-against-online-scams |
+| [2] | CAD Report 2024 | Singapore Police Force Commercial Affairs Department | 2025-12-01 | https://www.police.gov.sg/-/media/SPF/Media-Room/Publications/CAD-Report-2024/CAD-Report-2024.pdf |
+| [3] | Mid-Year Scams and Cybercrime Brief 2024 | Singapore Police Force | 2024-07-01 | https://www.police.gov.sg/-/media/B560DF9AB68441A0B5AEAEEEF9ADCB6A.ashx |
+| [4] | INTERPOL Annual Report 2024 | INTERPOL | 2026-02-01 | https://www.interpol.int/content/download/23674/file/Annual%20Report%202024_EN.pdf |
+| [5] | Support for AFRIPOL | INTERPOL | 2026-04-01 | https://www.interpol.int/Who-we-are/Our-partners/Our-partnerships-with-regional-policing-bodies/Support-for-AFRIPOL |

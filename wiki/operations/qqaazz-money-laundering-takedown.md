@@ -71,11 +71,15 @@ challenges_encountered:
 
 lessons_learned:
   - "Targeting money laundering infrastructure can disrupt multiple cybercrime groups simultaneously"
-source_count: 1
+source_count: 5
 sources:
-  - tier3-cyberscoop-qqaazz-2020
+  - "[[2020-10-15_wdpa_nazarovi-qqaazz-indictment]]"
+  - "[[europol-2bagoldmule-qqaazz-takedown]]"
+  - "[[2020-10-15_cyberscoop-com_fbi-accuses-russian-money-laundering-qqaazz]]"
+  - "[[2020-10-15_occrp-org_pan-continental-operation-busts-money-launderers-for-europes-cybercriminals]]"
+  - "[[2020-10-16_amlintelligence-com_international-criminals-charged-in-laundering-investigation]]"
 created: 2026-04-08
-updated: 2026-04-17
+updated: 2026-04-09
 operation_role: umbrella
 parent_operation: ""
 summary: "In October 2020, the FBI and Europol coordinated the takedown of **QQAAZZ**, a multi-national money laundering network that provided laundering services to cybercriminals worldwide. The QQAAZZ network operated as a \"money mule\" organization, opening hundreds of bank accounts across multiple countries to launder proceeds from cybercrimes including banking trojan theft, ransomware, and BEC schemes."
@@ -169,6 +173,9 @@ No Korean involvement identified.
 ## References
 
 | # | Title | Publisher | Date | URL |
-|---|-------|----------|------|-----|
-| [1] | FBI accuses Russian money laundering QQAAZZ | CyberScoop | 2020-10-15 | [link](https://cyberscoop.com/fbi-accuses-russian-money-laundering-qqaazz/) |
-
+|---|---|---|---|---|
+| [1] | OFFICIALS ANNOUNCE INTERNATIONAL OPERATION TARGETING TRANSNATIONAL CRIMINAL ORGANIZATION QQAAZZ THAT PROVIDED MONEY LAUNDERING SERVICES TO HIGH-LEVEL CYBERCRIMINALS | US DOJ (Western District of Pennsylvania) | 2020-09-29 | https://www.justice.gov/usao-wdpa/pr/officials-announce-international-operation-targeting-transnational-criminal |
+| [2] | Europol: 20 Arrests in QQAAZZ Multi-Million Money Laundering Case | Europol | 2020-10-15 | https://www.europol.europa.eu/media-press/newsroom/news/20-arrests-in-qqaazz-multi-million-money-laundering-case |
+| [3] | FBI accuses Russian money laundering QQAAZZ | CyberScoop | 2020-10-15 | https://cyberscoop.com/fbi-accuses-russian-money-laundering-qqaazz/ |
+| [4] | Pan-Continental Operation Busts Money Launderers for Europe's Cybercriminals | OCCRP | 2020-10-15 | https://www.occrp.org/en/news/pan-continental-operation-busts-money-launderers-for-europes-cybercriminals |
+| [5] | Notorious Central Europe crime gang that laundered tens of millions of euro for hackers targeted in raids | AML Intelligence | 2020-10-16 | https://www.amlintelligence.com/2020/10/14-international-criminals-charged-in-laundering-investigation/ |

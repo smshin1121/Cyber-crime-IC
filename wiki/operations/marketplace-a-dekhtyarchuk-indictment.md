@@ -41,10 +41,12 @@ results:
   other:
     - "Defendant extradited from Latvia"
     - "Marketplace A alleged to have sold credentials and access devices"
-edges: []
+edges:
+
 credibility_index: 4.2
 source_tier: 1
-missing_fields: []
+missing_fields:
+
 related_cases:
   - "[[us-v-dekhtyarchuk-marketplace-a]]"
 related_operations:
@@ -53,11 +55,15 @@ challenges_encountered:
   - "The case depended on cross-border custody and evidence transfer from Latvia to the United States."
 lessons_learned:
   - "Marketplace prosecutions often become visible only after extradition or physical transfer of the defendant."
-source_count: 1
+source_count: 5
 sources:
   - "[[2022-03-16_justice-gov_united-states-v-igor-dekhtyarchuk]]"
+  - "[[the-cyber-express-marketplace-a-dekhtyarchuk-indictment]]"
+  - "[[2022-03-18_fbi-gov_igor-dekhtyarchuk]]"
+  - "[[2022-03-24_infosecurity-magazine_us-indicts-russian-over-carding-shop]]"
+  - "[[2022-03-24_securityweek-com_russian-operator-cybercrime-marketplace-indicted-us]]"
 created: 2026-04-08
-updated: 2026-04-18
+updated: 2026-04-09
 operation_role: umbrella
 parent_operation: ""
 summary: "On 2022-03-16, DOJ announced the indictment of Igor Dekhtyarchuk, alleged operator of Marketplace A, after extradition from Latvia. The case framed Marketplace A as a cybercrime market for stolen credentials and access devices affecting U.S. victims."
@@ -127,5 +133,9 @@ The linked case page is [[us-v-dekhtyarchuk-marketplace-a]]. The corresponding d
 ## References
 
 | # | Title | Publisher | Date | URL |
-|---|-------|----------|------|-----|
-| [1] | Russian National Indicted in East Texas for Cyber Hacking Enterprise | U.S. Department of Justice (E.D. Tex.) | 2022-03-16 | https://www.justice.gov/usao-edtx/pr/russian-national-indicted-east-texas-cyber-hacking-enterprise |
+|---|---|---|---|---|
+| [1] | Russian National Indicted in East Texas for Cyber Hacking Enterprise | US DOJ (Eastern District of Texas) | 2022-03-16 | https://www.justice.gov/usao-edtx/pr/russian-national-indicted-east-texas-cyber-hacking-enterprise |
+| [2] | The Cyber Express: BidenCash Marketplace Domains Seized in U.S. Crackdown | The Cyber Express | 2025-06-06 | https://thecyberexpress.com/bidencash-marketplace-domains-seized/ |
+| [3] | IGOR DEKHTYARCHUK | FBI | 2022-03-18 | https://www.fbi.gov/wanted/cyber/igor-dekhtyarchuk |
+| [4] | US Indicts Russian Over 'Carding Shop' | Infosecurity Magazine | 2022-03-24 | https://www.infosecurity-magazine.com/news/us-indicts-russian-over-carding/ |
+| [5] | Russian Operator of Cybercrime Marketplace Indicted in US | SecurityWeek | 2022-03-24 | https://www.securityweek.com/russian-operator-cybercrime-marketplace-indicted-us/ |

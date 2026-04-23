@@ -1,7 +1,7 @@
 ---
 type: operation
 title: "Operation Pleiades"
-title_ko: "Operation Pleiades (DD4BC 사이버범죄 조직 단속)"
+title_ko: "Operation Pleiades (DD4BC 단속)"
 aliases:
   - "DD4BC Takedown"
 case_id: CYB-2015-006
@@ -13,9 +13,9 @@ enforcement_type:
   - seizure
 outcome: success
 timeframe:
-  announced: 2015-12
-  start: 2015-12
-  end: 2015-12
+  announced: 2016-01-12
+  start: 2015-12-15
+  end: 2015-12-16
   ongoing: false
 crime_type: "[[ddos-ic]]"
 target_entity: "DD4BC (DDoS for Bitcoin) group"
@@ -33,7 +33,6 @@ participating_countries:
   - "[[romania]]"
   - "[[switzerland]]"
 participating_agencies:
-  - "[[europol-ec3]]"
   - "[[europol-ec3]]"
   - "[[j-cat]]"
   - "[[london-metropolitan-police]]"
@@ -53,8 +52,9 @@ results:
   decryption_keys_recovered: 0
   victims_notified: 0
   other:
-    - "DD4BC group key member arrested"
-    - "DDoS-for-Bitcoin extortion network disrupted"
+    - "One additional suspect detained"
+    - "Property searches conducted in Bosnia and Herzegovina"
+    - "DD4BC extortion network disrupted"
 edges:
   - source_actor: "Europol EC3"
     target_actor: "London Metropolitan Police"
@@ -64,6 +64,11 @@ edges:
   - source_actor: "Europol EC3"
     target_actor: FBI
     cooperation_type: joint_investigation
+    legal_basis: unknown
+    direction: undirected
+  - source_actor: "UK Metropolitan Police Cyber Crime Unit"
+    target_actor: "Bosnia and Herzegovina Federal Police"
+    cooperation_type: intelligence_sharing
     legal_basis: unknown
     direction: undirected
 credibility_index: 2.28
@@ -78,15 +83,20 @@ related_operations:
 challenges_encountered:
 
 lessons_learned:
-
-source_count: 1
+  - "DDoS extortion cases required broad reporting and information-sharing because many victims were reluctant to notify police."
+  - "Operation Pleiades is an early example of coordinated crypto-extortion enforcement before ransomware became dominant."
+source_count: 5
 sources:
-  - "[1] Europol News (2015-12)"
+  - "[[europol-operation-pleiades]]"
+  - "[[2016-01-12_pcworld_europol-tracks-dd4bc-cyber-extortion-gang-to-bosnia]]"
+  - "[[2016-01-13_welivesecurity_global-operation-against-dd4bc-results-in-arrests]]"
+  - "[[2016-01-12_coindesk_suspected-members-of-bitcoin-extortion-group-dd4bc-captured]]"
+  - "[[2016-01-13_infosecurity-magazine_police-around-the-world-join-forces-to-target-ddos-gang]]"
 created: 2026-04-08
-updated: 2026-04-08
+updated: 2026-04-23
 operation_role: umbrella
 parent_operation: ""
-summary: "In December 2015, Europol, the FBI, and law enforcement from 10+ countries conducted Operation Pleiades targeting the DD4BC (DDoS for Bitcoin) cybercriminal group. DD4BC had launched DDoS attacks against companies in the online gambling, financial services, and entertainment sectors, extorting Bitcoin payments. Key members of the group were arrested, significantly disrupting the DDoS-for-Bitcoin extortion network."
+summary: "Operation Pleiades was the December 2015 international action against DD4BC, the DDoS-for-Bitcoin extortion group. The operation combined Austrian, Bosnian, British, German, U.S., and wider international support, producing one arrest, one detention, and evidence seizures in Bosnia and Herzegovina."
 jurisdictions:
   - "[[united-kingdom]]"
   - "[[austria]]"
@@ -110,40 +120,72 @@ crime_types:
 ---
 ## Summary
 
-In December 2015, Europol, the FBI, and law enforcement from 10+ countries conducted Operation Pleiades targeting the DD4BC (DDoS for Bitcoin) cybercriminal group. DD4BC had launched DDoS attacks against companies in the online gambling, financial services, and entertainment sectors, extorting Bitcoin payments. Key members of the group were arrested, significantly disrupting the DDoS-for-Bitcoin extortion network.
+Operation Pleiades was the international enforcement action against DD4BC, a group known for threatening and launching distributed denial-of-service attacks unless victims paid in Bitcoin. The operation matters as an early multinational response to crypto-denominated cyber extortion, before later ransomware takedowns became more common.
 
 ## Participating Parties
 
-**Lead Agencies:**
-- Europol European Cybercrime Centre (EC3)
-- Joint Cybercrime Action Taskforce (J-CAT)
-- London Metropolitan Police Cyber Crime Unit (MPCCU)
+**Lead and coordination**
+- [[europol-ec3|Europol EC3]]
+- [[j-cat|Joint Cybercrime Action Taskforce]]
 
-**Participating Countries (10):**
-United Kingdom, Austria, Germany, Bosnia and Herzegovina, United States, Australia, France, Japan, Romania, Switzerland
+**Operational countries**
+- [[austria|Austria]]
+- [[bosnia-and-herzegovina|Bosnia and Herzegovina]]
+- [[germany|Germany]]
+- [[united-kingdom|United Kingdom]]
 
-**Participating Agencies:**
-- FBI
-- US Secret Service
-- INTERPOL
+**Supporting countries and agencies**
+- [[france|France]]
+- [[japan|Japan]]
+- [[romania|Romania]]
+- [[switzerland|Switzerland]]
+- [[united-states|United States]] ([[fbi|FBI]], [[us-secret-service|US Secret Service]])
+- [[australia|Australia]]
+- [[interpol|INTERPOL]]
 
 ## Results
 
-- **Key member arrested** in Bosnia and Herzegovina
-- DD4BC DDoS-for-Bitcoin extortion network disrupted
-- Attacks on online gambling, financial, and entertainment companies addressed
+- **1 main target arrested**
+- **1 additional suspect detained**
+- **Property searches and evidence seizures** in Bosnia and Herzegovina
+- **DD4BC extortion network disrupted**
+
+## Threat Context
+
+DD4BC started by targeting online gambling operators and later expanded into financial services and entertainment. Its model combined low-level proof-of-capability DDoS attacks with Bitcoin ransom demands and reputational threats if victims did not comply.
+
+## Operational Timeline
+
+| Date | Event |
+|------|-------|
+| 2014 | DD4BC extortion campaigns begin to draw international attention |
+| 2015-12-15 to 2015-12-16 | Coordinated action days carried out |
+| 2016-01-12 | Europol publicly announces Operation Pleiades |
+
+## Cooperation Mechanisms Used
+
+Public reporting credits:
+
+- Austrian initiation of the operation
+- UK Metropolitan Police Cyber Crime Unit identification of key suspects in Bosnia and Herzegovina
+- Europol coordination through EC3 and J-CAT
+- wider intelligence and support from France, Japan, Romania, Switzerland, Australia, the FBI, the U.S. Secret Service, and INTERPOL
+
+## Korean Involvement
+
+No Korean participation was identified in the available public record.
 
 ## Follow-Up Actions
 
 > [!warning] No public court documents found
-> Web search (2026-04-17) yielded no publicly accessible court filings
-> for this operation. Possible reasons: non-US jurisdiction with no
-> public court records system, sealed proceedings, or operation did
-> not result in formal prosecution.
+> Open-source review through 2026-04-23 did not surface accessible court records tied to the arrested DD4BC suspects.
 
 ## References
 
 | # | Title | Publisher | Date | URL |
-|---|-------|----------|------|-----|
-| [1] | International Action Against DD4BC Cybercriminal Group | Europol | 2015-12 | [원본](https://www.europol.europa.eu/media-press/newsroom/news/international-action-against-dd4bc-cybercriminal-group) |
-
+|---|---|---|---|---|
+| [1] | Europol: International Action Against DD4BC Cybercriminal Group (Operation Pleiades) | Europol | 2016-01-12 | https://www.europol.europa.eu/media-press/newsroom/news/international-action-against-dd4bc-cybercriminal-group |
+| [2] | Europol tracks DD4BC cyber-extortion gang to Bosnia | PCWorld | 2016-01-12 | https://www.pcworld.com/article/419135/europol-tracks-dd4bc-cyber-extortion-gang-to-bosnia.html |
+| [3] | Global operation against DD4BC results in arrests | WeLiveSecurity | 2016-01-13 | https://www.welivesecurity.com/2016/01/13/global-operation-dd4bc-results-arrests/ |
+| [4] | Suspected Members of Bitcoin Extortion Group DD4BC Captured | CoinDesk | 2016-01-12 | https://www.coindesk.com/markets/2016/01/12/suspected-members-of-bitcoin-extortion-group-dd4bc-captured |
+| [5] | Police Around the World Join Forces to Target DDoS Gang | Infosecurity Magazine | 2016-01-13 | https://www.infosecurity-magazine.com/news/police-around-world-join-forces/ |

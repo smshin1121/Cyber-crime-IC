@@ -17,8 +17,10 @@ enforcement_type:
 outcome: success
 credibility_index: 4.6
 source_tier: 2
-edges: []
-missing_fields: []
+edges:
+
+missing_fields:
+
 timeframe:
   announced: 2025-11-04
   start: 2025-10-27
@@ -53,14 +55,21 @@ results:
   other:
     - "EUR 800,000 seized in bank accounts"
     - "EUR 300,000 seized in cash"
-related_cases: []
-related_operations: []
-challenges_encountered: []
+related_cases:
+
+related_operations:
+
+challenges_encountered:
+
 lessons_learned:
   - "French-Belgian JIT structure can scale outward when additional operational states need to join a crypto-fraud takedown."
-source_count: 1
+source_count: 5
 sources:
   - "[[2025-11-04_eurojust_decisive-actions-against-cryptocurrency-scammers-earning-over-eur-600-million]]"
+  - "[[2025-11-07_trmlabs-com_eurojust-coordinates-global-crackdown-on-eu600-million-crypto-investment-fraud-network]]"
+  - "[[2025-11-06_thepaypers-com_crypto-scammers-steal-over-eur-600-million-now-arrested]]"
+  - "[[2025-11-04_112wwft-nl_decisive-actions-against-cryptocurrency-scammers-earning-over-eur-600-million]]"
+  - "[[2025-11-06_ifcreview-com_crypto-actions-against-cryptocurrency-scammers-earning-over-eur-600-million]]"
 created: 2026-04-19
 updated: 2026-04-19
 summary: "Eurojust-coordinated action against a Europe-based cryptocurrency scam and laundering network, with a French-Belgian JIT and synchronized arrests in Cyprus, Spain, and Germany."
@@ -93,6 +102,10 @@ French, Belgian, Cypriot, German, and Spanish authorities worked with Eurojust t
 
 ## References
 
-| # | Source | Publisher | Date | URL |
+| # | Title | Publisher | Date | URL |
 |---|---|---|---|---|
-| 1 | Decisive actions against cryptocurrency scammers earning over EUR 600 million | Eurojust | 2025-11-04 | https://www.eurojust.europa.eu/news/decisive-actions-against-cryptocurrency-scammers-earning-over-eur-600-million |
+| [1] | Decisive actions against cryptocurrency scammers earning over EUR 600 million | Eurojust | 2025-11-04 | https://www.eurojust.europa.eu/news/decisive-actions-against-cryptocurrency-scammers-earning-over-eur-600-million |
+| [2] | Eurojust Coordinates Global Crackdown on EUR 600 Million Crypto Investment Fraud Network | TRM Labs | 2025-11-07 | https://www.trmlabs.com/ko/resources/blog/eurojust-coordinates-global-crackdown-on-eu600-million-crypto-investment-fraud-network |
+| [3] | Crypto scammers steal over EUR 600 million, now arrested | The Paypers | 2025-11-06 | https://thepaypers.com/fraud-and-fincrime/news/crypto-scammers-steal-over-eur-600-million-now-arrested |
+| [4] | Decisive actions against cryptocurrency scammers earning over EUR 600 million | 112WWFT | 2025-11-04 | https://www.112wwft.nl/2025/11/04/decisive-actions-against-cryptocurrency-scammers-earning-over-eur-600-million/ |
+| [5] | CRYPTO: Actions against cryptocurrency scammers earning over EUR 600 million | IFC Review | 2025-11-06 | https://www.ifcreview.com/news/2025/november/crypto-actions-against-cryptocurrency-scammers-earning-over-eur-600-million/ |

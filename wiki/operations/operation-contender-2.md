@@ -29,7 +29,8 @@ participating_countries:
 participating_agencies:
   - "[[interpol-igci]]"
   - "[[afripol]]"
-legal_basis: []
+legal_basis:
+
 mechanisms_used:
   - "[[informal-cooperation]]"
 results:
@@ -44,10 +45,14 @@ results:
     - "Swiss phishing case generated more than 260 victim reports between August 2023 and April 2024."
     - "Nigerian police arrested two suspects in a Finland-linked romance-scam investigation."
     - "Digital devices were seized for forensic analysis in Cote d'Ivoire."
-source_count: 2
+source_count: 6
 sources:
   - "[[2024-04-01-interpol-operation-contender-2]]"
   - "[[2024-10-08_group-ib_operation-contender-2]]"
+  - "[[2024-10-03_thehackernews-com_interpol-arrests-8-in-major-phishing-and-romance-fraud-crackdown-in-west-africa]]"
+  - "[[2024-10-01_interpol-int-fr_operation-contender-2]]"
+  - "[[2024-10-02_aptantech-com_operation-contender-2-leads-to-arrests-of-8-cybercrime-suspects]]"
+  - "[[2024-10-04_bitdefender-com_international-phishing-ring-dismantled-in-major-interpol-sweep]]"
 created: 2026-04-08
 updated: 2026-04-19
 operation_role: umbrella
@@ -115,6 +120,10 @@ The public record points to intelligence-led coordination through INTERPOL's AFJ
 ## References
 
 | # | Title | Publisher | Date | URL |
-|---|-------|----------|------|-----|
+|---|---|---|---|---|
 | [1] | Arrests in international operation targeting cybercriminals in West Africa | INTERPOL | 2024-10-01 | https://www.interpol.int/en/News-and-Events/News/2024/Arrests-in-international-operation-targeting-cybercriminals-in-West-Africa |
-| [2] | Group-IB supports INTERPOL in "Operation Contender 2.0" leading to the arrest of cybercriminals behind a romance scam | Group-IB | 2024-10-08 | https://www.group-ib.com/th/media-center/press-releases/operation-contender/ |
+| [2] | Group-IB supports INTERPOL in Operation Contender 2.0 | Group-IB | 2024-10-08 | https://www.group-ib.com/th/media-center/press-releases/operation-contender/ |
+| [3] | INTERPOL Arrests 8 in Major Phishing and Romance Fraud Crackdown in West Africa | The Hacker News | 2024-10-03 | https://thehackernews.com/2024/10/interpol-arrests-8-in-major-phishing.html |
+| [4] | Des cybermalfaiteurs arrêtés lors d’une opération internationale en Afrique de l’Ouest | INTERPOL | 2024-10-01 | https://www.interpol.int/fr/Actualites-et-evenements/Actualites/2024/Des-cybermalfaiteurs-arretes-lors-d-une-operation-internationale-en-Afrique-de-l-Ouest |
+| [5] | Operation Contender 2.0 leads to arrests of 8 cybercrime suspects in Cote d'Ivoire and Nigeria | aptantech | 2024-10-02 | https://aptantech.com/2024/10/02/operation-contender-2-0-leads-to-arrests-of-8-cybercrime-suspects-in-cote-divoire-and-nigeria/ |
+| [6] | International Phishing Ring Dismantled in Major Interpol Sweep | Bitdefender | 2024-10-04 | https://www.bitdefender.com/en-us/blog/hotforsecurity/international-phishing-ring-dismantled-in-major-interpol-sweep |

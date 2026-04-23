@@ -56,7 +56,8 @@ edges:
     direction: undirected
 credibility_index: 4.4
 source_tier: 1
-missing_fields: []
+missing_fields:
+
 related_cases:
   - "[[us-v-kutleshi-rydox]]"
 related_operations:
@@ -65,11 +66,15 @@ challenges_encountered:
   - "The marketplace had transnational administrators, infrastructure, and affected victims, requiring simultaneous action in multiple jurisdictions."
 lessons_learned:
   - "Marketplace disruptions are stronger when infrastructure seizure is paired with arrests and restrained assets."
-source_count: 1
+source_count: 5
 sources:
   - "[[2024-12-12_wdpa_kutleshi-rydox-indictment]]"
+  - "[[2024-12-12_cyberscoop-com_rydox-cybercriminal-marketplace-seized-doj-albania-kosovo]]"
+  - "[[2024-12-13_technadu_kosovo-police-shuts-down-rydox-cybercrime-marketplace]]"
+  - "[[2024-12-13_securityaffairs-com_us-authorities-seized-marketplace-rydox]]"
+  - "[[2024-12-16_bitdefender-com_rydox-cybercrime-marketplace-seized-by-law-enforcement-suspected-admins-arrested]]"
 created: 2026-04-08
-updated: 2026-04-18
+updated: 2026-04-09
 operation_role: umbrella
 parent_operation: ""
 summary: "On 2024-12-12, U.S. and partner authorities disrupted the Rydox cybercrime marketplace, arrested administrators in Kosovo and Albania, seized infrastructure in Malaysia, and restrained the Rydox domain and roughly $225,000 in cryptocurrency."
@@ -161,5 +166,9 @@ The defendant-specific case record is [[us-v-kutleshi-rydox]], with a linked fol
 ## References
 
 | # | Title | Publisher | Date | URL |
-|---|-------|----------|------|-----|
-| [1] | Rydox Cybercrime Marketplace Shut Down and Three Administrators Arrested | U.S. Department of Justice (W.D. Pa.) | 2024-12-12 | https://www.justice.gov/usao-wdpa/pr/rydox-cybercrime-marketplace-shut-down-and-three-administrators-arrested |
+|---|---|---|---|---|
+| [1] | Rydox Cybercrime Marketplace Shut Down and Three Administrators Arrested | US DOJ (Western District of Pennsylvania) | 2024-12-12 | https://www.justice.gov/usao-wdpa/pr/rydox-cybercrime-marketplace-shut-down-and-three-administrators-arrested |
+| [2] | Cybercriminal marketplace Rydox seized in international law enforcement operation | CyberScoop | 2024-12-12 | https://cyberscoop.com/rydox-cybercriminal-marketplace-seized-doj-albania-kosovo/ |
+| [3] | Kosovo Police Shuts Down Rydox Cybercrime Marketplace and Arrests Admins | TechNadu | 2024-12-13 | https://www.technadu.com/kosovo-police-shuts-down-rydox-cybercrime-marketplace/560710/ |
+| [4] | U.S. authorities seized cybercrime marketplace Rydox | Security Affairs | 2024-12-13 | https://securityaffairs.com/171956/cyber-crime/u-s-authorities-seized-marketplace-rydox.html |
+| [5] | Rydox cybercrime marketplace seized by law enforcement, suspected admins arrested | Bitdefender | 2024-12-16 | https://www.bitdefender.com/en-us/blog/hotforsecurity/rydox-cybercrime-marketplace-seized-by-law-enforcement-suspected-admins-arrested |

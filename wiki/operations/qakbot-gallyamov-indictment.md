@@ -1,18 +1,21 @@
 ---
 type: operation
 title: "QakBot / Gallyamov Indictment"
-aliases: []
+aliases:
+
 case_id: CYB-2025-005
 operation_type: joint-investigation
 operation_role: umbrella
 parent_operation: ""
 status: ongoing
 period: 3
-enforcement_type: []
+enforcement_type:
+
 outcome: ongoing
 credibility_index: 3.25
 source_tier: 2
-edges: []
+edges:
+
 missing_fields:
   - legal_basis
   - mechanisms_used
@@ -38,8 +41,10 @@ participating_agencies:
   - "[[europol-ec3]]"
   - "[[netherlands-om]]"
   - "[[netherlands-politie]]"
-legal_basis: []
-mechanisms_used: []
+legal_basis:
+
+mechanisms_used:
+
 results:
   arrests: 0
   indictments: 1
@@ -48,17 +53,23 @@ results:
   cryptocurrency_seized: "USD 24,000,000+"
   decryption_keys_recovered: 0
   victims_notified: 0
-  other: []
+  other:
+
 related_cases:
   - "[[us-v-gallyamov-qakbot]]"
 related_operations:
   - "[[operation-endgame-phase2]]"
-challenges_encountered: []
-lessons_learned: []
-source_count: 2
+challenges_encountered:
+
+lessons_learned:
+
+source_count: 5
 sources:
   - "[[2025-05-22_justice-gov_qakbot-gallyamov-indictment]]"
   - "[[2023-08-29_om-nl_qakbot-onschadelijk-gemaakt]]"
+  - "[[2025-05-22_cdca_qakbot-gallyamov-indictment]]"
+  - "[[2025-05-23_helpnetsecurity-com_danabot-botnet-disrupted-qakbot-leader-indicted]]"
+  - "[[2023-08-30_eurojust-europa-eu_qakbot-malware-network-dismantled]]"
 created: 2026-04-08
 updated: 2026-04-18
 summary: "The US Department of Justice unsealed an indictment on 22 May 2025 charging Rustam Rafailevich Gallyamov with leading the Qakbot malware conspiracy. The operation also sits on top of a multinational disruption chain in which Dutch prosecutors and police publicly described the 2023 seizure of 22 Qakbot servers in the Netherlands."
@@ -119,5 +130,8 @@ The Dutch prosecution-side record is particularly useful for this operation fami
 
 | # | Title | Publisher | Date | URL |
 |---|---|---|---|---|
-| 1 | Leader of Qakbot Malware Conspiracy Indicted | US DOJ | 2025-05-22 | [Link](https://www.justice.gov/opa/pr/leader-qakbot-malware-conspiracy-indicted-involvement-global-ransomware-scheme) |
-| 2 | Grootste wereldwijde botnet Qakbot onschadelijk gemaakt | Openbaar Ministerie | 2023-08-29 | [Link](https://www.om.nl/actueel/nieuws/2023/08/29/grootste-wereldwijde-botnet-qakbot-onschadelijk-gemaakt) |
+| [1] | Page not found | US DOJ | 2025-05-22 | https://www.justice.gov/archives/opa/pr/leader-qakbot-malware-conspiracy-indictment-involvement-global-ransomware-scheme |
+| [2] | Grootste wereldwijde botnet Qakbot onschadelijk gemaakt | Openbaar Ministerie | 2023-08-29 | https://www.om.nl/actueel/nieuws/2023/08/29/grootste-wereldwijde-botnet-qakbot-onschadelijk-gemaakt |
+| [3] | Leader of Qakbot Malware Conspiracy Indicted for Involvement in Global Ransomware Scheme | US DOJ (OPA) | 2025-05-22 | https://www.justice.gov/opa/pr/leader-qakbot-malware-conspiracy-indicted-involvement-global-ransomware-scheme |
+| [4] | DanaBot botnet disrupted, QakBot leader indicted | Help Net Security | 2025-05-23 | https://www.helpnetsecurity.com/2025/05/23/operation-endgame-danabot-botnet-disrupted-qakbot-leader-indicted/ |
+| [5] | Malware network that infected more than 700,000 victims and caused hundreds of millions of dollars in damage worldwide dismantled in multinational law enforcement operation | Eurojust | 2023-08-30 | https://www.eurojust.europa.eu/news/malware-network-infected-more-700000-victims-and-caused-hundreds-millions-dollars-damage |

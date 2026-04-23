@@ -16,8 +16,10 @@ enforcement_type:
 outcome: success
 credibility_index: 4.5
 source_tier: 2
-edges: []
-missing_fields: []
+edges:
+
+missing_fields:
+
 timeframe:
   announced: 2025-06-25
   start: 2024-12
@@ -51,14 +53,21 @@ results:
   other:
     - "405 seller accounts compromised"
     - "Damages exceeded EUR 400,000"
-related_cases: []
-related_operations: []
-challenges_encountered: []
+related_cases:
+
+related_operations:
+
+challenges_encountered:
+
 lessons_learned:
   - "Marketplace-account fraud can require a full JIT when offenders, infrastructure, and evidence are split across several EU states."
-source_count: 1
+source_count: 5
 sources:
   - "[[2025-06-25_eurojust_large-scale-fraud-using-trusted-online-seller-accounts-uncovered]]"
+  - "[[2025-06-25_eurojust-europa-eu_trusted-seller-accounts-fraud-germany-romania]]"
+  - "[[2025-06-26_ieu-monitoring-com_eurojust-helps-uncover-large-scale-fraud-based-on-trusted-online-seller-accounts]]"
+  - "[[2025-06-27_immuniweb-com_cybercrime-investigations-weekly-trusted-seller-fraud]]"
+  - "[[2025-06-25_eurojust-fraud-term_trusted-seller-accounts-germany-romania]]"
 created: 2026-04-19
 updated: 2026-04-19
 summary: "Eurojust-supported Germany-Romania action against a cyber-enabled fraud group that hijacked trusted seller accounts, using a JIT, EAW procedures, and coordinated action days."
@@ -88,6 +97,10 @@ The group used phishing to steal credentials from legitimate online sellers, the
 
 ## References
 
-| # | Source | Publisher | Date | URL |
+| # | Title | Publisher | Date | URL |
 |---|---|---|---|---|
-| 1 | Large-scale fraud using trusted online seller accounts uncovered | Eurojust | 2025-06-25 | https://www.eurojust.europa.eu/news/large-scale-fraud-using-trusted-online-seller-accounts-uncovered |
+| [1] | Large-scale fraud using trusted online seller accounts uncovered | Eurojust | 2025-06-25 | https://www.eurojust.europa.eu/news/large-scale-fraud-using-trusted-online-seller-accounts-uncovered |
+| [2] | Eurojust helps uncover large-scale fraud based on trusted online seller accounts | Eurojust | 2025-06-25 | https://www.eurojust.europa.eu/news/eurojust-helps-uncover-large-scale-fraud-based-trusted-online-seller-accounts |
+| [3] | Eurojust helps dismantle fraud scheme using hijacked trusted seller accounts | INSIGHT EU Monitoring | 2025-06-26 | https://ieu-monitoring.com/editorial/eurojust-helps-uncover-large-scale-fraud-based-on-trusted-online-seller-accounts/834094/ |
+| [4] | Cybercrime Investigations Weekly - trusted seller account fraud | ImmuniWeb | 2025-06-27 | https://www.immuniweb.com/blog/four-breachforums-operators-arrested-in-france.html |
+| [5] | Eurojust fraud topic page - trusted seller account fraud | Eurojust | 2025-06-25 | https://www.eurojust.europa.eu/term/fraud?page=7 |

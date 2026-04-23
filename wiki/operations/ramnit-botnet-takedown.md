@@ -64,11 +64,15 @@ source_tier: 2
 missing_fields:
   - legal_basis
   - arrests
-source_count: 1
+source_count: 5
 sources:
-  - "[[europol-europol-botnet-takedown-2023|Europol Press Release 2015-02-24]]"
+  - "[[europol-europol-botnet-takedown-2023]]"
+  - "[[2015-10-22_microsoft_breaking-up-a-botnet-how-ramnit-was-foiled]]"
+  - "[[2015-02-25_anubisnetworks_aids-europols-european-cybercrime-centre-in-takedown-of-malicious-botnet]]"
+  - "[[2015-02-25_arstechnica_europol-cracks-down-on-botnet-infecting-3-2-million-computers]]"
+  - "[[2015-02-25_pcworld_europol-and-security-vendors-disrupt-massive-ramnit-botnet]]"
 created: 2026-04-08
-updated: 2026-04-10
+updated: 2026-04-23
 operation_role: umbrella
 parent_operation: ""
 summary: "On 24 February 2015, the **UK National Crime Agency (NCA)** led a multinational operation to take down the **Ramnit botnet**, which had infected approximately **3.2 million computers worldwide**. The operation was coordinated through [[europol-ec3|Europol's European Cybercrime Centre (EC3)]] and the [[j-cat|Joint Cybercrime Action Taskforce (J-CAT)]], with law enforcement participation from [[germany]], [[italy]], and the [[netherlands]]."
@@ -162,6 +166,11 @@ No known Korean involvement in this operation. However, Ramnit infections were r
 > not result in formal prosecution.
 
 ## References
-| # | Source | Publisher | Date | URL |
+
+| # | Title | Publisher | Date | URL |
 |---|---|---|---|---|
-| [1] | Botnet Taken Down Through International Law Enforcement Cooperation | Europol | 2015-02-24 | https://www.europol.europa.eu/media-press/newsroom/news/botnet-taken-down-through-international-law-enforcement-cooperation |
+| [1] | Europol: Botnet taken down through international law enforcement cooperation (Ramnit, 2015) | Europol | 2015-02-24 | https://www.europol.europa.eu/media-press/newsroom/news/botnet-taken-down-through-international-law-enforcement-cooperation |
+| [2] | Breaking Up a Botnet - How Ramnit was Foiled | Microsoft | 2015-10-22 | https://blogs.microsoft.com/eupolicy/2015/10/22/breaking-up-a-botnet-how-ramnit-was-foiled/ |
+| [3] | AnubisNetworks Aids Europol’s European Cybercrime Centre in Takedown of Malicious Botnet | AnubisNetworks | 2015-02-25 | https://www.anubisnetworks.com/news/community/news/anubisnetworks-aids-europols-european-cybercrime-centre-in-takedown-of-malicious-botnet |
+| [4] | Europol cracks down on botnet infecting 3.2 million computers | Ars Technica | 2015-02-25 | https://arstechnica.com/tech-policy/2015/02/europol-cracks-down-on-botnet-infecting-3-2-million-computers/ |
+| [5] | Europol and security vendors disrupt massive Ramnit botnet | PCWorld | 2015-02-25 | https://www.pcworld.com/article/432079/europol-and-security-vendors-disrupt-massive-ramnit-botnet.html |

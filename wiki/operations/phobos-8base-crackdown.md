@@ -47,7 +47,8 @@ participating_agencies:
   - "[[uk-nca]]"
   - "[[spain-guardia-civil]]"
   - "[[japan-npa]]"
-legal_basis: []
+legal_basis:
+
 mechanisms_used:
   - "[[extradition]]"
   - "[[informal-cooperation]]"
@@ -62,11 +63,13 @@ results:
   other:
     - "Europol reported 37 operational meetings and nearly 600 SIENA messages."
     - "A Phobos administrator was arrested in South Korea in June 2024 and extradited to the United States in November 2024."
-source_count: 3
+source_count: 5
 sources:
   - "[[2025-02-11-europol-phobos-8base-ransomware-arrests]]"
   - "[[2026-04-18_justice-gov_phobos-ransomware-affiliates-arrested-coordinated-international-disruption]]"
   - "[[2026-04-18_justice-gov_phobos-ransomware-administrator-extradited-south-korea-face-cybercrime-charges]]"
+  - "[[2025-02-11_bleepingcomputer-com_us-charges-phobos-8base-ransomware-operators]]"
+  - "[[2025-02-11_techcrunch-com_authorities-arrest-four-suspected-8base-ransomware-operators-in-global-takedown]]"
 created: 2026-04-08
 updated: 2026-04-19
 operation_role: umbrella
@@ -160,7 +163,9 @@ This operation has confirmed Korean relevance. Official material states that a P
 ## References
 
 | # | Title | Publisher | Date | URL |
-|---|-------|----------|------|-----|
+|---|---|---|---|---|
 | [1] | Key figures behind Phobos and 8Base ransomware arrested in international cybercrime crackdown | Europol | 2025-02-11 | https://www.europol.europa.eu/media-press/newsroom/news/key-figures-behind-phobos-and-8base-ransomware-arrested-in-international-cybercrime-crackdown |
-| [2] | Phobos ransomware affiliates arrested in coordinated international disruption | U.S. Department of Justice | 2026-04-18 | https://www.justice.gov/opa/pr/phobos-ransomware-affiliates-arrested-coordinated-international-disruption |
-| [3] | Phobos ransomware administrator extradited from South Korea to face cybercrime charges | U.S. Department of Justice | 2026-04-18 | https://www.justice.gov/opa/pr/phobos-ransomware-administrator-extradited-south-korea-face-cybercrime-charges |
+| [2] | Phobos Ransomware Affiliates Arrested in Coordinated International Disruption | US DOJ (Office of Public Affairs) | 2025-02-10 | https://www.justice.gov/opa/pr/phobos-ransomware-affiliates-arrested-coordinated-international-disruption |
+| [3] | Phobos Ransomware Administrator Extradited From South Korea To Face Cybercrime Charges | US DOJ USAO | 2024-11-18 | https://www.justice.gov/usao-md/pr/phobos-ransomware-administrator-extradited-south-korea-face-cybercrime-charges |
+| [4] | U.S. charges Phobos and 8Base ransomware operators after international crackdown | BleepingComputer | 2025-02-11 | https://www.bleepingcomputer.com/news/security/us-charges-phobos-8base-ransomware-operators-after-international-crackdown/ |
+| [5] | Authorities arrest four suspected 8base ransomware operators in global takedown | TechCrunch | 2025-02-11 | https://techcrunch.com/2025/02/11/authorities-arrest-four-suspected-8base-ransomware-operators-in-global-takedown/ |

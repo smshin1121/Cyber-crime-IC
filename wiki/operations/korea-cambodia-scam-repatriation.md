@@ -43,10 +43,14 @@ results:
 
   servers_seized: 0
   victims_notified: 0
-source_count: 1
+source_count: 5
 source_tier: 3
 sources:
-
+  - "[[2025-10-18-korea-cambodia-scam-repatriation]]"
+  - "[[2025-10-21_yna_co_kr_arrest-warrants-issued-for-48-suspects-brought-from-cambodia]]"
+  - "[[2026-01-28_yna_co_kr_136-scam-suspects-nabbed-by-joint-s-korea-cambodia-police-team]]"
+  - "[[2025-12-09_koreatimes-co-kr_trial-begins-for-46-suspects-accused-of-involvement-in-online-scams-in-cambodia]]"
+  - "[[2025-10-20_koreatimes-co-kr_police-seek-arrest-warrants-for-58-scam-suspects-brought-from-cambodia]]"
 status: ongoing
 target_entity: "Korean nationals operating in Cambodian scam centres (voice phishing,"
 timeframe:
@@ -56,7 +60,7 @@ timeframe:
   start: 2025-10
 title: "Korea-Cambodia Scam Centre Repatriation"
 type: operation
-updated: 2026-04-08
+updated: 2026-04-09
 operation_role: umbrella
 parent_operation: ""
 summary: "In October 2025 and January 2026, South Korea repatriated **107+ nationals** from Cambodia suspected of operating in online scam centres conducting voice phishing, romance scams, and \"pig butchering\" cryptocurrency fraud. An additional **20+ suspects** were repatriated from Laos, Vietnam, Thailand, and the Philippines. The Korean government estimated approximately **1,000 Korean citizens** were working in Cambodian scam centres. The January 2026 batch allegedly scammed fellow Koreans out of **KRW 48.6 billion (USD 33 million)**."
@@ -122,6 +126,11 @@ The scale of the problem underscores the need for multilateral cooperation frame
 > not result in formal prosecution.
 
 ## References
+
 | # | Title | Publisher | Date | URL |
-|---|-------|----------|------|-----|
-| [1] | South Korea repatriates 64 scam centre suspects from Cambodia | Al Jazeera / Korea Herald | 2025-10-18 | [원본](https://www.aljazeera.com/news/2025/10/20/south-korea-police-seek-warrants-for-repatriated-scam-centre-suspects) |
+|---|---|---|---|---|
+| [1] | South Korea repatriates 64 scam centre suspects from Cambodia | Al Jazeera / France24 / Korea Herald | 2025-10-18 | https://www.aljazeera.com/news/2025/10/20/south-korea-police-seek-warrants-for-repatriated-scam-centre-suspects |
+| [2] | Arrest warrants issued for 48 suspects brought from Cambodia | Yonhap News Agency | 2025-10-21 | https://en.yna.co.kr/view/AEN20251021001600315 |
+| [3] | 136 scam suspects nabbed by joint S. Korea-Cambodia police team since Nov. | Yonhap News Agency | 2026-01-28 | https://en.yna.co.kr/view/AEN20260128005300315 |
+| [4] | Trial begins for 46 suspects accused of involvement in online scams in Cambodia | The Korea Times | 2025-12-09 | https://www.koreatimes.co.kr/southkorea/law-crime/20251209/trial-begins-for-46-suspects-accused-of-involvement-in-online-scams-in-cambodia |
+| [5] | Police seek arrest warrants for 58 scam suspects brought from Cambodia | The Korea Times | 2025-10-20 | https://www.koreatimes.co.kr/southkorea/law-crime/20251020/police-seek-arrest-warrants-for-59-scam-suspects-brought-from-cambodia |

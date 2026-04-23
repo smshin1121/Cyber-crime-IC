@@ -86,11 +86,15 @@ challenges_encountered:
 lessons_learned:
   - "INTERPOL-AFRIPOL partnership model demonstrates effective international-regional cooperation"
   - "Donor-funded operations (UK FCDO, Germany, Council of Europe) can enable capacity building through operational activity"
-source_count: 1
+source_count: 5
 sources:
   - "[[2024-11-26-interpol-operation-serengeti]]"
+  - "[[2024-11-27_group-ib_operation-serengeti]]"
+  - "[[2024-11-27_kaspersky_operation-serengeti]]"
+  - "[[2024-11-26_apnews_interpol-clamps-down-on-cybercrime-and-arrests-over-1000-suspects-in-africa]]"
+  - "[[2024-04-01_interpol_africa-cyberthreat-assessment-report-2024]]"
 created: 2026-04-08
-updated: 2026-04-22
+updated: 2026-04-23
 operation_role: umbrella
 parent_operation: ""
 summary: "Operation Serengeti was a joint INTERPOL-[[afripol|AFRIPOL]] operation targeting cybercriminals across **19 African countries** from September to October 2024. The operation resulted in **1,006 arrests** and the dismantling of **134,089 malicious infrastructures and networks**. More than 35,000 victims were identified, with cases linked to nearly **USD 193 million** in financial losses worldwide. The operation was funded by the UK's Foreign, Commonwealth and Development Office, the German Federal Foreign Office, and the Council of Europe."
@@ -153,6 +157,11 @@ No Korean involvement noted in this operation.
 > not result in formal prosecution.
 
 ## References
+
 | # | Title | Publisher | Date | URL |
-|---|-------|----------|------|-----|
-| [1] | Major cybercrime operation nets 1,006 suspects — Operation Serengeti | INTERPOL | 2024-11-26 | [원본](https://www.interpol.int/en/News-and-Events/News/2024/Major-cybercrime-operation-nets-1-006-suspects) |
+|---|---|---|---|---|
+| [1] | Major cybercrime operation nets 1,006 suspects — Operation Serengeti | INTERPOL | 2024-11-26 | https://www.interpol.int/en/News-and-Events/News/2024/Major-cybercrime-operation-nets-1-006-suspects |
+| [2] | Group-IB contributes to INTERPOL and AFRIPOL-led Operation Serengeti | Group-IB | 2024-11-27 | https://www.group-ib.com/media-center/press-releases/operation-serengeti/ |
+| [3] | Kaspersky contributes to joint INTERPOL-AFRIPOL operation combating cybercrime across Africa | Kaspersky | 2024-11-27 | https://www.kaspersky.com/about/press-releases/kaspersky-contributes-to-joint-interpol-afripol-operation-combating-cybercrime-across-africa |
+| [4] | Interpol clamps down on cybercrime and arrests over 1,000 suspects in Africa | Associated Press | 2024-11-26 | https://apnews.com/article/208111329edd3a1a64faf85cc7c0d2c0 |
+| [5] | INTERPOL Africa Cyberthreat Assessment Report 2024 | INTERPOL | 2024-04-01 | https://www.interpol.int/content/download/21048/file/AJFOC_Africa%20Cyberthreat%20Assessment%20Report_2024.pdf |

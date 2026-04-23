@@ -90,9 +90,13 @@ challenges_encountered:
   - "[[jurisdictional-conflicts]]"
 lessons_learned:
   - "Cross-Atlantic FR-AT-NL-US judicial cooperation under Eurojust coordination can dismantle cybercrime anonymisation infrastructure even where the underlying victim base spans 102 countries"
-source_count: 1
+source_count: 5
 sources:
   - "[[2026-03-12-eurojust-proxy-service-takedown]]"
+  - "[[2025-05-09_politie-nl_anyproxy-amsterdam-fbi]]"
+  - "[[2026-03-13_cyberscoop-com_socksescort-proxy-network-botnet-takedown]]"
+  - "[[2026-03-13_cybernews-com_major-residential-proxy-service-socksescort-down]]"
+  - "[[2026-03-13_techradar-com_major-socksescort-proxy-network-powered-by-linux-malware-taken-down-by-fbi-and-other-police-forces]]"
 created: 2026-04-14
 updated: 2026-04-14
 operation_role: umbrella
@@ -217,6 +221,10 @@ No [[south-korea|South Korean]] participation is documented in this operation. K
 
 ## References
 
-| # | Source | Publisher | Date | URL |
+| # | Title | Publisher | Date | URL |
 |---|---|---|---|---|
-| 1 | Servers used for cybercrime around the world taken down | Eurojust | 2026-03-12 | [Link](https://www.eurojust.europa.eu/news/servers-used-cybercrime-around-world-taken-down) |
+| [1] | Servers used for cybercrime around the world taken down | Eurojust | 2026-03-12 | https://www.eurojust.europa.eu/news/servers-used-cybercrime-around-world-taken-down |
+| [2] | Internationale cybercrime aangepakt: Politie Amsterdam en FBI ontmantelen proxydienst Anyproxy | Politie | 2025-05-09 | https://www.politie.nl/nieuws/2025/mei/9/internationale-cybercrime-aangepakt-politie-amsterdam-en-fbi-ontmantelen-proxydienst-anyproxy.html |
+| [3] | Authorities takedown global proxy network SocksEscort | CyberScoop | 2026-03-13 | https://cyberscoop.com/socksescort-proxy-network-botnet-takedown/ |
+| [4] | Authorities shut down cybercrime service that sold access to 369,000 home internet connections | Cybernews | 2026-03-13 | https://cybernews.com/security/major-residential-proxy-service-socksescort-down/ |
+| [5] | Major SocksEscort proxy network powered by Linux malware taken down by FBI and other police forces | TechRadar | 2026-03-13 | https://www.techradar.com/pro/security/major-socksescort-proxy-network-powered-by-linux-malware-taken-down-by-fbi-and-other-police-forces |

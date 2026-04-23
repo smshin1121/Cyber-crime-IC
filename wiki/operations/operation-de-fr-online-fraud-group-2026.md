@@ -16,8 +16,10 @@ enforcement_type:
 outcome: success
 credibility_index: 4.4
 source_tier: 2
-edges: []
-missing_fields: []
+edges:
+
+missing_fields:
+
 timeframe:
   announced: 2026-03-11
   start: 2026-03-10
@@ -50,14 +52,20 @@ results:
     - "Cryptocurrencies and jewellery seized"
 related_cases:
   - "[[de-fr-online-fraud-group-2026]]"
-related_operations: []
-challenges_encountered: []
+related_operations:
+
+challenges_encountered:
+
 lessons_learned:
   - "Judicial cooperation was decisive because the alleged group leader was located in France while the main victimization pattern was in Germany."
   - "The EIO can be the central mechanism when a cyber-fraud case requires coordinated searches in another EU member state."
-source_count: 1
+source_count: 5
 sources:
   - "[[2026-03-11-eurojust-de-fr-online-fraud-group]]"
+  - "[[2026-03-11_eurojust-fraud-term_online-fraud-group-france-germany]]"
+  - "[[2026-03-11_eurojust-cybercrime-term_online-fraud-group-france-germany]]"
+  - "[[2026-03-11_pressreleasepoint-com_judicial-cooperation-key-to-arresting-leaders-of-online-fraud-group]]"
+  - "[[2026-03-11_eurojust-germany-term_online-fraud-group-france-germany]]"
 created: 2026-04-17
 updated: 2026-04-19
 summary: "Eurojust-coordinated Franco-German action against an online-fraud group, with searches in France under a European Investigation Order and arrests on a synchronized action day."
@@ -97,6 +105,10 @@ According to Eurojust, the group used phishing emails to gain access to online-b
 
 ## References
 
-| # | Source | Publisher | Date | URL |
+| # | Title | Publisher | Date | URL |
 |---|---|---|---|---|
-| 1 | Judicial cooperation key to arresting leaders of online fraud group | Eurojust | 2026-03-11 | https://www.eurojust.europa.eu/news/judicial-cooperation-key-arresting-leaders-online-fraud-group |
+| [1] | Judicial cooperation key to arresting leaders of online fraud group | Eurojust | 2026-03-11 | https://www.eurojust.europa.eu/news/judicial-cooperation-key-arresting-leaders-online-fraud-group |
+| [2] | Eurojust fraud topic page - France-Germany online fraud group | Eurojust | 2026-03-11 | https://www.eurojust.europa.eu/term/fraud?page=6 |
+| [3] | Eurojust cybercrime topic page - France-Germany online fraud group | Eurojust | 2026-03-11 | https://www.eurojust.europa.eu/term/cybercrime |
+| [4] | Judicial cooperation key to arresting leaders of online fraud group | PressReleasePoint | 2026-03-11 | https://www.pressreleasepoint.com/judicial-cooperation-key-arresting-leaders-online-fraud-group |
+| [5] | Eurojust Germany topic page - France-Germany online fraud group | Eurojust | 2026-03-11 | https://www.eurojust.europa.eu/term/germany |

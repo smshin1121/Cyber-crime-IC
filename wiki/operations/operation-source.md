@@ -73,9 +73,13 @@ challenges_encountered:
 
 lessons_learned:
 
-source_count: 1
+source_count: 5
 sources:
-  - "[1] Europol News (2015-04)"
+  - "[[europol-operation-source]]"
+  - "[[2015-04-09_scworld-com_international-effort-takes-down-beebone-botnet]]"
+  - "[[2015-04-09_securityweek-com_authorities-takedown-beebone-botnet-international-operation]]"
+  - "[[2015-04-09_arstechnica_us-european-police-take-down-highly-elusive-botnet-known-as-beebone]]"
+  - "[[2015-04-10_wired-com_beebone-botnet-bites-the-dust]]"
 created: 2026-04-08
 updated: 2026-04-08
 operation_role: umbrella
@@ -133,6 +137,9 @@ Netherlands, United States, EU member states (Germany, France, Italy, etc.)
 ## References
 
 | # | Title | Publisher | Date | URL |
-|---|-------|----------|------|-----|
-| [1] | International Police Operation Targets Polymorphic Beebone Botnet | Europol | 2015-04 | [원본](https://www.europol.europa.eu/media-press/newsroom/news/international-police-operation-targets-polymorphic-beebone-botnet) |
-
+|---|---|---|---|---|
+| [1] | Europol: International Police Operation Targets Polymorphic Beebone Botnet (Operation Source) | Europol | 2015-04-09 | https://www.europol.europa.eu/media-press/newsroom/news/international-police-operation-targets-polymorphic-beebone-botnet |
+| [2] | International effort takes down Beebone botnet | SC Media | 2015-04-09 | https://www.scworld.com/news/international-effort-takes-down-beebone-botnet |
+| [3] | Authorities Takedown Beebone Botnet in International Operation | SecurityWeek | 2015-04-09 | https://www.securityweek.com/authorities-takedown-beebone-botnet-international-operation/ |
+| [4] | US, European police take down highly elusive botnet known as Beebone | Ars Technica | 2015-04-09 | https://arstechnica.com/information-technology/2015/04/us-european-police-take-down-highly-elusive-botnet-known-as-beebone/ |
+| [5] | Beebone Botnet bites the dust | Wired | 2015-04-10 | https://www.wired.com/beyond-the-beyond/2015/04/beebone-botnet-bites-dust |

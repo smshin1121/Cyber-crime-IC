@@ -60,11 +60,15 @@ challenges_encountered:
 
 lessons_learned:
 
-source_count: 1
+source_count: 5
 sources:
-  - "[1] Europol News (2024-01)"
+  - "[[europol-romania-phishing-network-takedown]]"
+  - "[[2020-09-29_eurojust-europa-eu_successful-takedown-in-romania-of-an-ocg-carrying-out-elaborated-cybercrime-and-bank-frauds]]"
+  - "[[2020-10-13_incibe-es_operacion-internacional-contra-un-grupo-de-ciberdelincuentes]]"
+  - "[[2020-10-13_incibe-es_en_international-operation-against-group-cybercriminals]]"
+  - "[[2020-09-29_ilmetropolitano-it_hook-line-and-sinker-cybercrime-network-phishing-bank-credentials-arrested-in-romania]]"
 created: 2026-04-08
-updated: 2026-04-08
+updated: 2026-04-09
 operation_role: umbrella
 parent_operation: ""
 summary: "Europol and Romanian police and prosecutors conducted a joint operation that resulted in the arrest of 16 members of a cybercrime network in Romania that had been phishing bank credentials and conducting illegal fund transfers. The operation, which ran from 2023 to early 2024, dismantled the criminal network responsible for stealing banking credentials through phishing attacks and transferring victims' funds to accounts controlled by the group."
@@ -108,6 +112,11 @@ Romania
 > not result in formal prosecution.
 
 ## References
+
 | # | Title | Publisher | Date | URL |
-|---|-------|----------|------|-----|
-| [1] | Hook, Line and Sinker: Cybercrime Network Phishing Bank Credentials Arrested in Romania | Europol | 2024-01 | [원본](https://www.europol.europa.eu/media-press/newsroom/news/hook-line-and-sinker-cybercrime-network-phishing-bank-credentials-arrested-in-romania) |
+|---|---|---|---|---|
+| [1] | Europol: Romania Phishing Network Takedown | Europol | Unknown | https://www.europol.europa.eu/media-press/newsroom/news/hook-line-and-sinker-cybercrime-network-phishing-bank-credentials-arrested-in-romania |
+| [2] | Eurojust supports successful takedown in Romania of an OCG carrying out elaborated cybercrime and bank frauds in Lithuania and Estonia | Eurojust | 2020-09-29 | https://www.eurojust.europa.eu/news/eurojust-supports-successful-takedown-romania-ocg-carrying-out-elaborated-cybercrime-and-bank |
+| [3] | Operación internacional contra un grupo de ciberdelincuentes | INCIBE-CERT | 2020-10-13 | https://www.incibe.es/index.php/incibe-cert/publicaciones/bitacora-de-seguridad/operacion-internacional-grupo-ciberdelincuentes |
+| [4] | International operation against a group of cybercriminals | INCIBE-CERT | 2020-10-13 | https://www.incibe.es/en/incibe-cert/publications/cybersecurity-highlights/international-operation-against-group-cybercriminals |
+| [5] | Hook, line and sinker: cybercrime network phishing bank credentials arrested in Romania | Il Metropolitano | 2020-09-29 | https://www.ilmetropolitano.it/2020/09/29/hook-line-and-sinker-cybercrime-network-phishing-bank-credentials-arrested-in-romania/ |

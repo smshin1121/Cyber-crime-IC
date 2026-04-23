@@ -91,11 +91,15 @@ challenges_encountered:
 lessons_learned:
   - "AFJOC umbrella enables sustained Africa-focused cybercrime operations"
   - "Donor funding model (UK FCDO, EU-CoE GLACY-e) supports African enforcement capacity building"
-source_count: 1
+source_count: 5
 sources:
   - "[[2025-12-22-interpol-operation-sentinel-africa]]"
+  - "[[2025-06-23_interpol_africa-cyberthreat-assessment-report-2025]]"
+  - "[[2026-01-08_team-cymru_interpol-afripol-operation-sentinel-africa]]"
+  - "[[2025-12-23_interpol-int_support-for-afripol-operation-sentinel]]"
+  - "[[2025-12-24_tomshardware_operation-sentinel-africa-cybercrime-crackdown]]"
 created: 2026-04-08
-updated: 2026-04-08
+updated: 2026-04-23
 operation_role: umbrella
 parent_operation: ""
 summary: "Operation Sentinel was an INTERPOL-coordinated cybercrime enforcement action conducted from 27 October to 27 November 2025 across **19 African countries** under the African Joint Operation against Cybercrime (AFJOC) umbrella. The operation resulted in **574 arrests**, **USD 3 million** recovered, over **6,000 malicious links** taken down, and **6 ransomware variants** decrypted. Primary targets were BEC, digital extortion, and ransomware. Investigated cases were linked to estimated financial losses exceeding **USD 21 million**."
@@ -173,6 +177,11 @@ No direct Korean involvement. Operation focused exclusively on African countries
 > not result in formal prosecution.
 
 ## References
+
 | # | Title | Publisher | Date | URL |
-|---|-------|----------|------|-----|
-| [1] | 574 arrests and USD 3 million recovered in coordinated cybercrime operation across Africa — Operation Sentinel | INTERPOL | 2025-12-22 | [원본](https://www.interpol.int/en/News-and-Events/News/2025/574-arrests-and-USD-3-million-recovered-in-coordinated-cybercrime-operation-across-Africa) |
+|---|---|---|---|---|
+| [1] | 574 arrests and USD 3 million recovered in coordinated cybercrime operation across Africa - Operation Sentinel | INTERPOL | 2025-12-22 | https://www.interpol.int/en/News-and-Events/News/2025/574-arrests-and-USD-3-million-recovered-in-coordinated-cybercrime-operation-across-Africa |
+| [2] | INTERPOL Africa Cyberthreat Assessment Report 2025 | INTERPOL | 2025-06-23 | https://www.interpol.int/content/download/25784/file/Africa%20Cyberthreat%20Assessment%20Report%202025.pdf |
+| [3] | Team Cymru supports INTERPOL and AFRIPOL in Operation Sentinel | Team Cymru | 2026-01-08 | https://team-cymru.com/post/interpol-and-afripol-operation-sentinel |
+| [4] | Support for AFRIPOL | INTERPOL | 2025-12-23 | https://www.interpol.int/Who-we-are/Our-partners/Our-partnerships-with-regional-policing-bodies/Support-for-AFRIPOL |
+| [5] | Interpol arrests 574 suspects in African cybercrime crackdown, takes down 6,000 malicious links | Tom's Hardware | 2025-12-24 | https://www.tomshardware.com/tech-industry/cyber-security/interpol-arrests-574-suspects-in-african-cybercrime-crackdown-takes-down-6-000-malicious-links |

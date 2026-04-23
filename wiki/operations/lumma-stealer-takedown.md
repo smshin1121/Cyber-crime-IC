@@ -47,11 +47,13 @@ results:
     - "The DOJ seized five core domains used as Lumma administration panels."
     - "Microsoft identified more than 394,000 infected Windows computers between March 16 and May 16, 2025."
     - "The FBI identified at least 1.7 million credential-theft instances tied to LummaC2."
-source_count: 3
+source_count: 5
 sources:
   - "[[2025-05-21_microsoft_lumma-stealer-global-action]]"
   - "[[2025-05-21_justice-gov_lumma-stealer-domain-seizures]]"
   - "[[2025-05-21_microsoft-security-blog_lumma-stealer-analysis]]"
+  - "[[2025-05-21_bleepingcomputer-com_lumma-infostealer-malware-operation-disrupted-2300-domains-seized]]"
+  - "[[2025-05-21_wired-com_lumma-stealer-takedown-disrupted]]"
 created: 2025-05-21
 updated: 2026-04-19
 operation_role: umbrella
@@ -114,7 +116,9 @@ The operation is notable because the cooperation model is explicit in the source
 ## References
 
 | # | Title | Publisher | Date | URL |
-|---|-------|----------|------|-----|
+|---|---|---|---|---|
 | [1] | Disrupting Lumma Stealer: Microsoft leads global action against favored cybercrime tool | Microsoft | 2025-05-21 | https://blogs.microsoft.com/on-the-issues/2025/05/21/microsoft-leads-global-action-against-favored-cybercrime-tool/ |
 | [2] | Justice Department Seizes Domains Behind Major Information-Stealing Malware Operation | U.S. Department of Justice | 2025-05-21 | https://www.justice.gov/opa/pr/justice-department-seizes-domains-behind-major-information-stealing-malware-operation |
 | [3] | Lumma Stealer: Breaking down the delivery techniques and capabilities of a prolific infostealer | Microsoft Security Blog | 2025-05-21 | https://www.microsoft.com/en-us/security/blog/2025/05/21/lumma-stealer-breaking-down-the-delivery-techniques-and-capabilities-of-a-prolific-infostealer/ |
+| [4] | Lumma infostealer malware operation disrupted, 2,300 domains seized | BleepingComputer | 2025-05-21 | https://www.bleepingcomputer.com/news/security/lumma-infostealer-malware-operation-disrupted-2-300-domains-seized/ |
+| [5] | Authorities Carry Out Elaborate Global Takedown of Infostealer Heavily Used by Cybercriminals | WIRED | 2025-05-21 | https://www.wired.com/story/lumma-stealer-takedown-disrupted/ |

@@ -32,7 +32,8 @@ participating_agencies:
   - "[[singapore-police]]"
   - "[[knpa-cyber-bureau]]"
   - "[[japan-npa]]"
-legal_basis: []
+legal_basis:
+
 mechanisms_used:
   - "[[informal-cooperation]]"
 results:
@@ -47,11 +48,13 @@ results:
     - "South Korea recorded 435 suspects, including 374 arrests attributed to the National Investigation Headquarters."
     - "Japan publicly reported 111 suspects."
     - "Singapore publicly reported 21 suspects and Malaysia 4."
-source_count: 3
+source_count: 5
 sources:
-  - "[[2025-04-07_korea-npa_operation-cyber-guardian-asia-csam]]"
   - "[[2025-04-07_seoul-co-kr_operation-cyber-guardian]]"
   - "[[2025-04-01_japan-npa_operation-cyber-guardian]]"
+  - "[[2025-04-07_korea-kr_operation-cyber-guardian-asia-6-country-joint-crackdown-on-child-sexual-abuse-ma]]"
+  - "[[2025-04-07_seoul-co-kr_asia-6-country-crackdown-on-online-child-sexual-abuse-material]]"
+  - "[[2025-04-08_police-gov-sg_cross-border-operation-targeting-online-child-sexual-exploitation-activities]]"
 created: 2026-04-08
 updated: 2026-04-19
 operation_role: umbrella
@@ -115,7 +118,9 @@ The available sources support a coordinated police-operation model with a shared
 ## References
 
 | # | Title | Publisher | Date | URL |
-|---|-------|----------|------|-----|
-| [1] | Operation Cyber Guardian: Asia 6-Country Joint Crackdown on Child Sexual Abuse Material | Korea Policy Briefing | 2025-04-07 | https://www.korea.kr/briefing/pressReleaseView.do?newsId=156682866 |
-| [2] | Asia 6-country crackdown on online child sexual abuse material | Seoul Shinmun | 2025-04-07 | https://www.seoul.co.kr/news/society/2025/04/07/20250407014003 |
-| [3] | Operation Cyber Guardian | National Police Agency of Japan | 2025-04-01 | https://www.npa.go.jp/policy_area/no_cp/uploads/jointoperation_2025_04_eng.pdf |
+|---|---|---|---|---|
+| [1] | Operation Cyber Guardian | Korea NPA / Seoul Shinmun | 2025-04-07 | https://www.seoul.co.kr/news/society/2025/04/07/20250407500065 |
+| [2] | Operation Cyber Guardian | National Police Agency of Japan | 2025-04-01 | https://www.npa.go.jp/policy_area/no_cp/uploads/jointoperation_2025_04_eng.pdf |
+| [3] | Operation Cyber Guardian: Asia 6-Country Joint Crackdown on Child Sexual Abuse Material | Korea Policy Briefing | 2025-04-07 | https://www.korea.kr/briefing/pressReleaseView.do?newsId=156682866 |
+| [4] | Asia 6-country crackdown on online child sexual abuse material | Seoul Shinmun | 2025-04-07 | https://www.seoul.co.kr/news/society/2025/04/07/20250407014003 |
+| [5] | Cross-border Operation Targeting Online Child Sexual Exploitation Activities | Singapore Police Force | 2025-04-08 | https://www.police.gov.sg/Media-Room/Police-Life/2025/04/Cross-border-Operation-Targeting-Online-Child-Sexual-Exploitation-Activities |
