@@ -1,0 +1,27 @@
+---
+type: source
+title: "Justice Department Seeks Forfeiture of $848,247 in Cryptocurrency from Confidence Scams"
+raw_path: raw/press-releases/2025-09-02_justice-gov_justice-department-seeks-forfeiture-of-848-247-in-cryptocurrency-from-confidence.md
+source_type: press-release
+publisher: "US DOJ USAO"
+author: ""
+publish_date: 2025-09-02
+ingest_date: 2026-04-17
+language: en
+reliability: high
+credibility: confirmed
+sensitivity: public
+pages_updated:
+  - operation-justice-department-seeks-forfeiture-of-848-247-in-cryptocurrency-from-confidence-scams
+key_findings:
+  - "This domestic-only U.S. follow-on record has been absorbed into the canonical case page [[justice-department-seeks-forfeiture-of-848-247-in-cryptocurrency-from-confidence-scams]]. No visible cross-border mechanism is documented, so it is not treated as a separate international-cooperation operation."
+collection_url: https://www.justice.gov/usao-dc/pr/justice-department-seeks-forfeiture-848247-cryptocurrency-confidence-scams
+created: 2026-04-17
+---
+## Source Summary
+
+This domestic-only U.S. follow-on record has been absorbed into the canonical case page [[justice-department-seeks-forfeiture-of-848-247-in-cryptocurrency-from-confidence-scams]]. No visible cross-border mechanism is documented, so it is not treated as a separate international-cooperation operation.
+
+## Relevance to IC
+
+The source supports [[operation-justice-department-seeks-forfeiture-of-848-247-in-cryptocurrency-from-confidence-scams]] in the `operations` corpus.

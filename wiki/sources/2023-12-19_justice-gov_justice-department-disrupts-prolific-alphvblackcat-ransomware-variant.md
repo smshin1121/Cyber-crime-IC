@@ -16,9 +16,7 @@ source_tier: 1
 pages_updated:
   - blackcat-lockeroga-kelvin-security-2023
 key_findings:
-  - "The Justice Department announced a disruption campaign against the ALPHV/BlackCat ransomware variant on 19 December 2023."
-  - "The FBI had developed a decryption tool and offered it to more than 500 victims."
-  - "The release described the action as part of a broader international law-enforcement effort against a ransomware-as-a-service ecosystem with more than 1,000 victims."
+  - "Secure .gov websites use HTTPS A lock ( Lock Locked padlock ) or https:// means you’ve safely connected to the .gov website. Share sensitive information only on official, secure websites."
 created: 2026-04-18
 updated: 2026-04-18
 ---

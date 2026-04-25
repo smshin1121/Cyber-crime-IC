@@ -41,11 +41,11 @@ results:
     - "Restitution ordered in the amount of $5,084,461"
     - "Proceeding described as a follow-on to the broader Infraud case"
 edges:
-  []
+
 credibility_index: 4.3
 source_tier: 1
 missing_fields:
-  []
+
 related_cases:
   - "[[us-v-telusma-infraud]]"
 related_operations:
@@ -55,9 +55,10 @@ challenges_encountered:
   - "Sentencing-stage proceedings illustrate the long prosecutorial tail that follows large forum takedowns."
 lessons_learned:
   - "Major cybercrime forum cases continue producing value years after the initial arrest wave."
-source_count: 1
+source_count: 2
 sources:
   - "[[2022-05-25_justice-gov_united-states-v-john-telusma]]"
+  - "[[2022-05-27_doj_telusma-infraud-sentencing]]"
 created: 2026-04-08
 updated: 2026-04-22
 operation_role: umbrella
@@ -80,6 +81,7 @@ This domestic-only U.S. follow-on record has been absorbed into the canonical ca
 
 ## References
 
-| # | Source | Publisher | Date | URL |
+| # | Title | Publisher | Date | URL |
 |---|---|---|---|---|
-| [1] | Man Sentenced for Transnational Cybercrime Enterprise | DOJ OPA | 2022-05-27 | https://www.justice.gov/archives/opa/pr/man-sentenced-transnational-cybercrime-enterprise |
+| [1] | Man Sentenced for Transnational Cybercrime Enterprise | US DOJ (Office of Public Affairs) | 2022-05-25 | https://www.justice.gov/archives/opa/pr/man-sentenced-transnational-cybercrime-enterprise |
+| [2] | Man Sentenced for Transnational Cybercrime Enterprise | US DOJ (Office of Public Affairs) | 2022-05-25 | https://www.justice.gov/archives/opa/pr/man-sentenced-transnational-cybercrime-enterprise |

@@ -3,19 +3,19 @@ type: operation
 title: "19 Individuals Worldwide Charged In Transnational Cybercrime Investigation Of The xDedic Marketplace Enforcement Action"
 aliases:
   - "19 Individuals Worldwide Charged In Transnational Cybercrime Investigation Of The xDedic Marketplace"
-case_id: "CYB-FUP-503"
+case_id: CYB-FUP-503
 period: 3
-operation_role: "follow-on"
+operation_role: follow-on
 parent_operation: ""
-operation_type: "indictment"
-status: "absorbed"
+operation_type: indictment
+status: absorbed
 enforcement_type:
   - indictment
-outcome: "success"
+outcome: success
 timeframe:
-  announced: "2024-01-04"
-  start: "2024"
-  end: "2024-01-04"
+  announced: 2024-01-04
+  start: 2024
+  end: 2024-01-04
   ongoing: true
 crime_type: "[[online-fraud-ic]]"
 crime_types:
@@ -31,8 +31,8 @@ participating_agencies:
   - "[[us-doj]]"
 organizations:
   - "[[us-doj]]"
-legal_basis:
-mechanisms_used:
+legal_basis: ""
+mechanisms_used: ""
 results:
   arrests: 0
   indictments: 1
@@ -43,23 +43,31 @@ results:
   victims_notified: 0
   other:
     - "Defendant-specific follow-on action derived from [[19-individuals-worldwide-charged-in-transnational-cybercrime-investigation-of-the-xdedic-marketplace-2]]"
-edges: []
+edges:
+  []
 credibility_index: 4.0
 source_tier: 1
-missing_fields: []
+missing_fields:
+  []
 related_cases:
   - "[[19-individuals-worldwide-charged-in-transnational-cybercrime-investigation-of-the-xdedic-marketplace-2]]"
-related_operations: []
-challenges_encountered: []
-lessons_learned: []
-source_count: 1
+related_operations:
+  []
+challenges_encountered:
+  []
+lessons_learned:
+  []
+source_count: 5
 sources:
   - "[[2024-01-04_justice-gov_united-states-v-harold-mckinzie]]"
+  - "[[2021-09-08_mdfl_ivanov-tolpintsev-xdedic-extradition]]"
+  - "[[2022-11-22_mdfl_habasescu-xdedic-extradition]]"
+  - "[[2023-02-22_mdfl_pankov-xdedic-extradition]]"
+  - "[[2024-08-07_justice-gov_xdedic-marketplace-victim-services-case-summary]]"
 summary: "19 Individuals Worldwide Charged In Transnational Cybercrime Investigation Of The xDedic Marketplace Enforcement Action is an absorbed duplicate wrapper for the canonical xDedic operation page [[operation-19-individuals-worldwide-charged-in-transnational-cybercrime-investigation-of-the-xdedic-marketplace]]."
 created: 2026-04-18
-updated: 2026-04-18
+updated: 2026-04-25
 ---
-
 ## Summary
 
 19 Individuals Worldwide Charged In Transnational Cybercrime Investigation Of The xDedic Marketplace Enforcement Action is a defendant-specific follow-on record derived from [[19-individuals-worldwide-charged-in-transnational-cybercrime-investigation-of-the-xdedic-marketplace-2]]. It preserves the catalog entry without asserting an explicit cooperation mechanism that the source does not document.
@@ -81,6 +89,10 @@ The underlying public case record identifies 19 Individuals Worldwide Charged In
 
 ## References
 
-| # | Source | Publisher | Date | URL |
+| # | Title | Publisher | Date | URL |
 |---|---|---|---|---|
 | [1] | 19 Individuals Worldwide Charged In Transnational Cybercrime Investigation Of The xDedic Marketplace | US DOJ (Middle District of Florida) | 2024-01-04 | https://www.justice.gov/usao-mdfl/pr/19-individuals-worldwide-charged-transnational-cybercrime-investigation-xdedic |
+| [2] | Ukrainian Cyber Criminal Extradited For Decrypting The Credentials Of Thousands Of Computers Across The World And Selling Them On A Dark Web Website | US DOJ (Middle District of Florida) | 2021-09-08 | https://www.justice.gov/usao-mdfl/pr/ukrainian-cyber-criminal-extradited-decrypting-credentials-thousands-computers-across |
+| [3] | Moldovan National And Technical Mastermind Of xDedic Marketplace Extradited From Spain | US DOJ (Middle District of Florida) | 2022-11-22 | https://www.justice.gov/usao-mdfl/pr/moldovan-national-and-technical-mastermind-xdedic-marketplace-extradited-spain |
+| [4] | Russian Malware Developer Arrested And Extradited To The United States | US DOJ (Middle District of Florida) | 2023-02-22 | https://www.justice.gov/usao-mdfl/pr/russian-malware-developer-arrested-and-extradited-united-states |
+| [5] | xDedic Marketplace victim-services case summary | DOJ M.D. Fla. | 2024-08-07 | https://www.justice.gov/usao-mdfl/victim-witness-services/xDedic |

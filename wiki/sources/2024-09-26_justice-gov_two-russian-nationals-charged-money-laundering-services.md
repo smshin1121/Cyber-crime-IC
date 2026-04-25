@@ -16,11 +16,11 @@ source_tier: 1
 pages_updated:
   - cryptex-pm2btc-sanctions
 key_findings:
-  - "DOJ described coordinated criminal actions tied to Russian cybercrime money laundering services."
-  - "The announcement said Dutch partners seized servers hosting PM2BTC and Cryptex and took cryptocurrency worth more than USD 7 million."
-  - "The release tied the operation to related U.S. government and foreign-partner actions."
+  - "Secure .gov websites use HTTPS A lock ( Lock Locked padlock ) or https:// means you’ve safely connected to the .gov website. Share sensitive information only on official, secure websites."
 created: 2026-04-18
 updated: 2026-04-18
+defendant_names:
+  - "Two Russian Nationals"
 ---
 ## Source Summary
 

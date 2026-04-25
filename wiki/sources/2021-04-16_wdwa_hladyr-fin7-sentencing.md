@@ -15,12 +15,12 @@ pages_updated:
   - fin7-takedown
   - us-v-hladyr-fin7
 key_findings:
-  - "Fedir Hladyr was sentenced to 10 years in prison for his managerial role in FIN7."
-  - "The release framed FIN7 losses as exceeding USD 3 billion across banks, merchants, card companies, and consumers."
-  - "It confirmed Hladyr's arrest in Dresden and extradition to Seattle."
+  - "Secure .gov websites use HTTPS A lock ( Lock Locked padlock ) or https:// means you’ve safely connected to the .gov website. Share sensitive information only on official, secure websites."
 collection_url: https://www.justice.gov/usao-wdwa/pr/high-level-organizer-notorious-hacking-group-fin7-sentenced-ten-years-prison-scheme
 created: 2026-04-17
 updated: 2026-04-18
+defendant_names:
+  - "Fedir Hladyr"
 ---
 ## Source Summary
 

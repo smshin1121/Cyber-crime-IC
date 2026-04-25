@@ -52,9 +52,10 @@ challenges_encountered:
 
 lessons_learned:
 
-source_count: 1
+source_count: 2
 sources:
   - "[[2015-11-03_md_sheldon-kennedy-silk-road-sentencing]]"
+  - "[[{'\"[[wired-operation-avalanche|Wired': 'Silk Road 2.0 / Ulbricht Sentencing Coverage]]\"'}]]"
 created: 2026-04-17
 updated: 2026-04-22
 operation_role: follow-on
@@ -77,6 +78,6 @@ This domestic-only U.S. follow-on record has been absorbed into the canonical ca
 
 ## References
 
-| # | Source | Publisher | Date | URL |
+| # | Title | Publisher | Date | URL |
 |---|---|---|---|---|
 | [1] | Silk Road Vendor Sentenced to Two Years In Prison | US DOJ (District of Maryland) | 2015-11-03 | https://www.justice.gov/usao-md/pr/silk-road-vendor-sentenced-two-years-prison |

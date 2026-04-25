@@ -51,11 +51,15 @@ challenges_encountered:
 
 lessons_learned:
 
-source_count: 1
+source_count: 5
 sources:
   - "[[2022-05-26_edva_kancharla-darknet-vendor-plea]]"
+  - "[[2022-05-26_washingtonpost_com_fentanyl-dealer-pleads-guilty-in-virginia-after-online-drug-bust]]"
+  - "[[2022-05-30_media-uspa24-com_darknet-vendor-of-fentanyl-laced-pills-pleads-guilty]]"
+  - "[[2022-05-26_shorenewsnetwork_com_darknet-vendor-of-fentanyl-laced-pills-pleads-guilty]]"
+  - "[[2022-05-31_safemedicines_org_may-31-2022]]"
 created: 2026-04-17
-updated: 2026-04-22
+updated: 2026-04-25
 operation_role: follow-on
 parent_operation: ""
 summary: "This domestic-only U.S. follow-on record has been absorbed into the canonical case page [[us-v-kancharla-dark-web]]. No visible cross-border mechanism is documented, so it is not treated as a separate international-cooperation operation."
@@ -76,6 +80,10 @@ This domestic-only U.S. follow-on record has been absorbed into the canonical ca
 
 ## References
 
-| # | Source | Publisher | Date | URL |
+| # | Title | Publisher | Date | URL |
 |---|---|---|---|---|
 | [1] | Darknet Vendor of Fentanyl-Laced Pills Pleads Guilty | US DOJ (Eastern District of Virginia) | 2022-05-26 | https://www.justice.gov/usao-edva/pr/darknet-vendor-fentanyl-laced-pills-pleads-guilty |
+| [2] | Fentanyl dealer pleads guilty in Virginia after online drug bust | The Washington Post | 2022-05-26 | https://www.washingtonpost.com/dc-md-va/2022/05/26/virginia-fentanyl-plea/ |
+| [3] | Darknet Vendor of Fentanyl-Laced Pills Pleads Guilty | USPA News | 2022-05-30 | https://www.media.uspa24.com/bericht-20904/darknet-vendor-of-fentanyl-laced-pills-pleads-guilty.html |
+| [4] | Darknet Vendor of Fentanyl-Laced Pills Pleads Guilty | Shore News Network | 2022-05-26 | https://www.shorenewsnetwork.com/2022/05/26/darknet-vendor-of-fentanyl-laced-pills-pleads-guilty/ |
+| [5] | May 31, 2022: PSM holds online congressional briefing about drug importation | Partnership for Safe Medicines | 2022-05-31 | https://www.safemedicines.org/2022/05/may-31-2022.html |

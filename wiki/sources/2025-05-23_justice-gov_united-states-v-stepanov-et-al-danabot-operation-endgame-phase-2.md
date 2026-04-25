@@ -11,12 +11,13 @@ language: en
 reliability: high
 credibility: confirmed
 sensitivity: public
-pages_updated: []
+pages_updated:
+  []
 key_findings:
-  - "The DOJ tied Operation Endgame Phase 2 to both the DanaBot disruption and the QakBot leader indictment."
+  - "Secure .gov websites use HTTPS A lock ( Lock Locked padlock ) or https:// means you’ve safely connected to the .gov website. Share sensitive information only on official, secure websites."
 collection_url: https://www.justice.gov/opa/pr/leader-qakbot-malware-conspiracy-indicted-involvement-global-ransomware-scheme
 created: 2026-04-17
-updated: 2026-04-19
+updated: 2026-04-18
 ---
 ## Source Summary
 

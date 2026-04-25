@@ -52,9 +52,14 @@ challenges_encountered:
 
 lessons_learned:
 
-source_count: 1
+source_count: 6
 sources:
   - "[[2022-03-22_edtx_marketplace-a-dekhtyarchuk-indictment]]"
+  - "[[2022-03-16_justice-gov_united-states-v-igor-dekhtyarchuk]]"
+  - "[[the-cyber-express-marketplace-a-dekhtyarchuk-indictment]]"
+  - "[[2022-03-18_fbi-gov_igor-dekhtyarchuk]]"
+  - "[[2022-03-24_infosecurity-magazine_us-indicts-russian-over-carding-shop]]"
+  - "[[2022-03-24_securityweek-com_russian-operator-cybercrime-marketplace-indicted-us]]"
 created: 2026-04-17
 updated: 2026-04-22
 operation_role: follow-on
@@ -77,6 +82,11 @@ This domestic-only U.S. follow-on record has been absorbed into the canonical ca
 
 ## References
 
-| # | Source | Publisher | Date | URL |
+| # | Title | Publisher | Date | URL |
 |---|---|---|---|---|
 | [1] | Russian National Indicted in East Texas for Cyber Hacking Enterprise | US DOJ (Eastern District of Texas) | 2022-03-16 | https://www.justice.gov/usao-edtx/pr/russian-national-indicted-east-texas-cyber-hacking-enterprise |
+| [2] | Russian National Indicted in East Texas for Cyber Hacking Enterprise | US DOJ (Eastern District of Texas) | 2022-03-16 | https://www.justice.gov/usao-edtx/pr/russian-national-indicted-east-texas-cyber-hacking-enterprise |
+| [3] | The Cyber Express: BidenCash Marketplace Domains Seized in U.S. Crackdown | The Cyber Express | 2025-06-06 | https://thecyberexpress.com/bidencash-marketplace-domains-seized/ |
+| [4] | IGOR DEKHTYARCHUK | FBI | 2022-03-18 | https://www.fbi.gov/wanted/cyber/igor-dekhtyarchuk |
+| [5] | US Indicts Russian Over 'Carding Shop' | Infosecurity Magazine | 2022-03-24 | https://www.infosecurity-magazine.com/news/us-indicts-russian-over-carding/ |
+| [6] | Russian Operator of Cybercrime Marketplace Indicted in US | SecurityWeek | 2022-03-24 | https://www.securityweek.com/russian-operator-cybercrime-marketplace-indicted-us/ |

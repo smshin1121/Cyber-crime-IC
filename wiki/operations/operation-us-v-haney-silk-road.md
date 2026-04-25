@@ -51,9 +51,10 @@ challenges_encountered:
 
 lessons_learned:
 
-source_count: 1
+source_count: 2
 sources:
   - "[[2020-02-12_sdny_hugh-haney-silk-road-laundering-sentencing]]"
+  - "[[{'\"[[wired-operation-avalanche|Wired': 'Silk Road 2.0 / Ulbricht Sentencing Coverage]]\"'}]]"
 created: 2026-04-17
 updated: 2026-04-22
 operation_role: follow-on
@@ -76,6 +77,6 @@ This domestic-only U.S. follow-on record has been absorbed into the canonical ca
 
 ## References
 
-| # | Source | Publisher | Date | URL |
+| # | Title | Publisher | Date | URL |
 |---|---|---|---|---|
 | [1] | Dark Web Narcotics Trafficker Sentenced To 3½ Years In Prison In Connection With Laundering More Than $19 Million | US DOJ (Southern District of New York) | 2020-02-12 | https://www.justice.gov/usao-sdny/pr/dark-web-narcotics-trafficker-sentenced-3-years-prison-connection-laundering-more-19 |

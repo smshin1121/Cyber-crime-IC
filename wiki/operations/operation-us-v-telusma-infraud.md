@@ -46,22 +46,23 @@ results:
   other:
     - "Defendant-specific follow-on action derived from [[us-v-telusma-infraud]]"
 edges:
-  []
+
 credibility_index: 4.0
 source_tier: 1
 missing_fields:
-  []
+
 related_cases:
   - "[[us-v-telusma-infraud]]"
 related_operations:
   - "[[infraud-telusma-sentencing]]"
 challenges_encountered:
-  []
+
 lessons_learned:
-  []
-source_count: 1
+
+source_count: 2
 sources:
   - "[[2022-05-27_doj_telusma-infraud-sentencing]]"
+  - "[[2022-05-25_justice-gov_united-states-v-john-telusma]]"
 summary: "This domestic-only U.S. follow-on record has been absorbed into the canonical case page [[us-v-telusma-infraud]]. No visible cross-border mechanism is documented, so it is not treated as a separate international-cooperation operation."
 created: 2026-04-17
 updated: 2026-04-22
@@ -76,6 +77,7 @@ This domestic-only U.S. follow-on record has been absorbed into the canonical ca
 
 ## References
 
-| # | Source | Publisher | Date | URL |
+| # | Title | Publisher | Date | URL |
 |---|---|---|---|---|
 | [1] | Man Sentenced for Transnational Cybercrime Enterprise | US DOJ (Office of Public Affairs) | 2022-05-25 | https://www.justice.gov/archives/opa/pr/man-sentenced-transnational-cybercrime-enterprise |
+| [2] | Man Sentenced for Transnational Cybercrime Enterprise | US DOJ (Office of Public Affairs) | 2022-05-25 | https://www.justice.gov/archives/opa/pr/man-sentenced-transnational-cybercrime-enterprise |

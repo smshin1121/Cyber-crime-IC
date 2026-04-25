@@ -51,9 +51,10 @@ challenges_encountered:
 
 lessons_learned:
 
-source_count: 1
+source_count: 2
 sources:
   - "[[2023-07-11_sdny_roger-thomas-clark-silk-road-sentencing]]"
+  - "[[{'\"[[wired-operation-avalanche|Wired': 'Silk Road 2.0 / Ulbricht Sentencing Coverage]]\"'}]]"
 created: 2026-04-17
 updated: 2026-04-22
 operation_role: follow-on
@@ -76,6 +77,6 @@ This domestic-only U.S. follow-on record has been absorbed into the canonical ca
 
 ## References
 
-| # | Source | Publisher | Date | URL |
+| # | Title | Publisher | Date | URL |
 |---|---|---|---|---|
 | [1] | Senior Adviser To The Operator Of The Silk Road Online Black Market Sentenced To 20 Years In Prison | US DOJ (Southern District of New York) | 2023-07-11 | https://www.justice.gov/usao-sdny/pr/senior-adviser-operator-silk-road-online-black-market-sentenced-20-years-prison |

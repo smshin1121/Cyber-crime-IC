@@ -53,9 +53,10 @@ challenges_encountered:
 
 lessons_learned:
 
-source_count: 1
+source_count: 2
 sources:
   - "[[2019-07-25_sdny_gary-davis-silk-road-sentencing]]"
+  - "[[{'\"[[wired-operation-avalanche|Wired': 'Silk Road 2.0 / Ulbricht Sentencing Coverage]]\"'}]]"
 created: 2026-04-17
 updated: 2026-04-22
 operation_role: follow-on
@@ -78,6 +79,6 @@ This domestic-only U.S. follow-on record has been absorbed into the canonical ca
 
 ## References
 
-| # | Source | Publisher | Date | URL |
+| # | Title | Publisher | Date | URL |
 |---|---|---|---|---|
 | [1] | Irish Man Who Helped Operate The “Silk Road” Website Sentenced In Manhattan Federal Court To Over Six Years In Prison | US DOJ (Southern District of New York) | 2019-07-25 | https://www.justice.gov/usao-sdny/pr/irish-man-who-helped-operate-silk-road-website-sentenced-manhattan-federal-court-over |

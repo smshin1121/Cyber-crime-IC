@@ -51,9 +51,10 @@ challenges_encountered:
 
 lessons_learned:
 
-source_count: 1
+source_count: 2
 sources:
   - "[[2015-04-27_mdfl_olivia-bolles-silk-road-sentencing]]"
+  - "[[{'\"[[wired-operation-avalanche|Wired': 'Silk Road 2.0 / Ulbricht Sentencing Coverage]]\"'}]]"
 created: 2026-04-17
 updated: 2026-04-22
 operation_role: follow-on
@@ -76,6 +77,6 @@ This domestic-only U.S. follow-on record has been absorbed into the canonical ca
 
 ## References
 
-| # | Source | Publisher | Date | URL |
+| # | Title | Publisher | Date | URL |
 |---|---|---|---|---|
 | [1] | Delaware Doctor Who Illegally Sold Controlled Substances On The Silk Road Drug Marketplace Sentenced To Five Years In Prison | US DOJ (Middle District of Florida) | 2015-04-27 | https://www.justice.gov/usao-mdfl/pr/delaware-doctor-who-illegally-sold-controlled-substances-silk-road-drug-marketplace |

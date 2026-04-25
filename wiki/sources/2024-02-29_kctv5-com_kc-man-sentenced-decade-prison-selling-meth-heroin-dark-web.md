@@ -1,0 +1,27 @@
+---
+type: source
+title: "KC man sentenced to decade in prison for selling meth, heroin on dark web"
+source_type: news
+publisher: "KCTV5"
+author: "Sarah Motter"
+publish_date: 2024-02-29
+ingest_date: 2026-04-25
+language: en
+reliability: medium
+credibility: reported
+sensitivity: public
+pages_updated:
+  - operation-kc-man-sentenced-for-selling-meth-heroin-on-the-dark-web
+key_findings:
+  - "KCTV5 reported the 10-year sentence, forfeiture order, guilty plea date, and White House Market sales period for John M. LeCoque."
+  - "The outlet restated the court narrative that LeCoque sold methamphetamine and heroin over the dark web and marketed the drugs directly to online buyers."
+collection_url: https://www.kctv5.com/2024/02/29/kc-man-sentenced-decade-prison-selling-meth-heroin-dark-web/
+created: 2026-04-25
+---
+## Source Summary
+
+KCTV5 provided a local secondary account of the LeCoque sentencing and summarized the case timeline, dark web marketplace use, and forfeiture outcome.
+
+## Relevance to IC
+
+This source gives [[operation-kc-man-sentenced-for-selling-meth-heroin-on-the-dark-web]] a non-government local news reference.

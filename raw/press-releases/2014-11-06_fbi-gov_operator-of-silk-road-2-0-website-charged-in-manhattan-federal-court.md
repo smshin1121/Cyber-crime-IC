@@ -8,7 +8,7 @@ publish_date: 2014-11-06
 language: en
 status: collected
 defendant_names:
-  - "of Silk Road"
+  - "Blake Benthall"
 updated: 2026-04-18
 ---
 ## Summary

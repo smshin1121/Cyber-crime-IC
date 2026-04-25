@@ -46,25 +46,29 @@ results:
   other:
     - "Defendant-specific follow-on action derived from [[international-crypto-vendor-sentenced-for-money-laundering-conspiracy]]"
 edges:
-  []
+
 credibility_index: 4.0
 source_tier: 1
 missing_fields:
-  []
+
 related_cases:
   - "[[international-crypto-vendor-sentenced-for-money-laundering-conspiracy]]"
 related_operations:
-  []
+
 challenges_encountered:
-  []
+
 lessons_learned:
-  []
-source_count: 1
+
+source_count: 5
 sources:
   - "[[2026-04-18_justice-gov_international-crypto-vendor-sentenced-money-laundering-conspiracy]]"
+  - "[[2025-04-08_gizmodo_the-fbi-hijacked-and-ran-a-dark-web-money-laundering-operation-called-elonmuskwhm]]"
+  - "[[2025-01-24_cyberintel-media_fbi-takes-down-crypto-laundering-scam]]"
+  - "[[2025-01-21_cryptotimes-io_indian-crypto-vendor-sentenced-in-prison-for-money-laundering]]"
+  - "[[2025-01-17_morelaw_re-united-states-of-america-v-anurag-pramod-murarka]]"
 summary: "This domestic-only U.S. follow-on record has been absorbed into the canonical case page [[international-crypto-vendor-sentenced-for-money-laundering-conspiracy]]. No visible cross-border mechanism is documented, so it is not treated as a separate international-cooperation operation."
 created: 2026-04-18
-updated: 2026-04-22
+updated: 2026-04-25
 ---
 ## Summary
 
@@ -76,6 +80,10 @@ This domestic-only U.S. follow-on record has been absorbed into the canonical ca
 
 ## References
 
-| # | Source | Publisher | Date | URL |
+| # | Title | Publisher | Date | URL |
 |---|---|---|---|---|
 | [1] | International Crypto Vendor Sentenced for Money Laundering Conspiracy | US DOJ USAO | 2025-01-17 | https://www.justice.gov/usao-edky/pr/international-crypto-vendor-sentenced-money-laundering-conspiracy |
+| [2] | The FBI Hijacked and Ran a Dark Web Money Laundering Operation Called 'ElonmuskWHM' | Gizmodo | 2025-04-08 | https://gizmodo.com/the-fbi-hijacked-and-ran-a-dark-web-money-laundering-operation-called-elonmuskwhm-2000586515 |
+| [3] | FBI Takes Down Crypto-Laundering Scam | Cyber Intelligence | 2025-01-24 | https://cyberintel.media/fbi-takes-down-crypto-laundering-scam/ |
+| [4] | Indian Crypto Vendor Sentenced in Prison for Money Laundering | The Crypto Times | 2025-01-21 | https://www.cryptotimes.io/2025/01/21/indian-crypto-vendor-sentenced-in-prison-for-money-laundering/ |
+| [5] | Re: United States of America v. Anurag Pramod Murarka | MoreLaw | 2025-01-17 | https://www.morelaw.com/verdicts/case.asp?d=189143&s=KY |

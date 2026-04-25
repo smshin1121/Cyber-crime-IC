@@ -11,11 +11,10 @@ language: en
 reliability: high
 credibility: confirmed
 sensitivity: public
-pages_updated: []
+pages_updated:
+  []
 key_findings:
-  - "The Northern District of Ohio announced charges against Behrouz Parsarad for operating Nemesis Market."
-  - "The release stated that the prosecution was made possible by assistance from German and Lithuanian allies and that Nemesis had over 150,000 users and more than 1,100 vendors."
-  - "The release linked the case to J-CODE and to assistance from the Cybercrime Liaison Prosecutor to Eurojust."
+  - "Secure .gov websites use HTTPS A lock ( Lock Locked padlock ) or https:// means you’ve safely connected to the .gov website. Share sensitive information only on official, secure websites."
 collection_url: https://www.justice.gov/usao-ndoh/pr/iranian-national-indicted-operating-online-marketplace-offering-fentanyl-other-drugs
 created: 2026-04-18
 updated: 2026-04-18

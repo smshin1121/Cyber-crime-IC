@@ -46,25 +46,29 @@ results:
   other:
     - "Defendant-specific follow-on action derived from [[slovakian-man-admits-aiding-darknet-market-that-sold-drugs-and-stolen-personal-information]]"
 edges:
-  []
+
 credibility_index: 4.0
 source_tier: 1
 missing_fields:
-  []
+
 related_cases:
   - "[[slovakian-man-admits-aiding-darknet-market-that-sold-drugs-and-stolen-personal-information]]"
 related_operations:
-  []
+
 challenges_encountered:
-  []
+
 lessons_learned:
-  []
-source_count: 1
+
+source_count: 5
 sources:
   - "[[2026-04-18_justice-gov_slovakian-man-admits-aiding-darknet-market-sold-drugs-and-stolen-personal-information]]"
+  - "[[2023-12-21_justice-gov_slovakian-man-accused-of-running-darknet-market-selling-drugs-and-personal-infor]]"
+  - "[[2023-11-08_justice-gov_serbian-citizen-pleads-guilty-to-running-monopoly-drug-market-on-the-darknet]]"
+  - "[[2026-04-18_justice-gov_serbian-citizen-sentenced-14-years-prison-operating-monopoly-narcotics-marketplace-dark]]"
+  - "[[2025-06-23_justice-gov_seven-georgians-indicted-for-operating-online-fentanyl-meth-marketplace]]"
 summary: "This domestic-only U.S. follow-on record has been absorbed into the canonical case page [[slovakian-man-admits-aiding-darknet-market-that-sold-drugs-and-stolen-personal-information]]. No visible cross-border mechanism is documented, so it is not treated as a separate international-cooperation operation."
 created: 2026-04-18
-updated: 2026-04-22
+updated: 2026-04-25
 ---
 ## Summary
 
@@ -76,6 +80,10 @@ This domestic-only U.S. follow-on record has been absorbed into the canonical ca
 
 ## References
 
-| # | Source | Publisher | Date | URL |
+| # | Title | Publisher | Date | URL |
 |---|---|---|---|---|
 | [1] | Slovakian Man Admits Aiding Darknet Market that Sold Drugs and Stolen Personal Information | US DOJ USAO | 2026-01-27 | https://www.justice.gov/usao-edmo/pr/slovakian-man-admits-aiding-darknet-market-sold-drugs-and-stolen-personal-information |
+| [2] | Slovakian Man Accused of Running Darknet Market Selling Drugs and Personal Information | US DOJ USAO | 2023-12-21 | https://www.justice.gov/usao-edmo/pr/slovakian-man-accused-running-darknet-market-selling-drugs-and-personal-information |
+| [3] | Serbian Citizen Pleads Guilty to Running Monopoly Drug Market on the Darknet | US DOJ USAO | 2023-11-08 | https://www.justice.gov/usao-dc/pr/serbian-citizen-pleads-guilty-running-monopoly-drug-market-darknet |
+| [4] | Serbian Citizen Sentenced to 14 Years in Prison for Operating the Monopoly Narcotics Marketplace on the Dark Net | US DOJ USAO | 2024-02-15 | https://www.justice.gov/usao-dc/pr/serbian-citizen-sentenced-14-years-prison-operating-monopoly-narcotics-marketplace-dark |
+| [5] | Seven Georgians Indicted for Operating Online Fentanyl, Meth Marketplace | US DOJ USAO | 2025-06-23 | https://www.justice.gov/usao-mdga/pr/seven-georgians-indicted-operating-online-fentanyl-meth-marketplace |

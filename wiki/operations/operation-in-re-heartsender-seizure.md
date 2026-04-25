@@ -52,9 +52,14 @@ challenges_encountered:
 
 lessons_learned:
 
-source_count: 1
+source_count: 6
 sources:
   - "[[2025-01-29_sdtx_heartsender-seizure]]"
+  - "[[[1] US DOJ Press Release (2025-01-29)]]"
+  - "[[[2] KrebsOnSecurity (2025-01-30)]]"
+  - "[[[3] KrebsOnSecurity — Pakistan Arrests (2025-05-28)]]"
+  - "[[[4] CyberScoop (2025-01-30)]]"
+  - "[[[5] Hackread (2025-01-30)]]"
 created: 2026-04-17
 updated: 2026-04-22
 operation_role: follow-on
@@ -77,6 +82,6 @@ This domestic-only U.S. follow-on record has been absorbed into the canonical ca
 
 ## References
 
-| # | Source | Publisher | Date | URL |
+| # | Title | Publisher | Date | URL |
 |---|---|---|---|---|
 | [1] | Page not found | U.S. District Court for the Southern District of Texas | 2026-04-17 | https://www.justice.gov/usao-sdtx/pr/international-operation-takes-down-cybercrime-ring-selling-hacking-tools |

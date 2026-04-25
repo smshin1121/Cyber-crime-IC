@@ -52,9 +52,14 @@ challenges_encountered:
 
 lessons_learned:
 
-source_count: 1
+source_count: 6
 sources:
   - "[[2020-09-01_edca_herrell-alphabay-sentencing]]"
+  - "[[2017-07-20-europol-alphabay-hansa-takedown]]"
+  - "[[2017-07-20-doj-alphabay-shutdown]]"
+  - "[[2017-07-20-dea-alphabay-shutdown]]"
+  - "[[2017-07-20-fbi-alphabay-takedown]]"
+  - "[[unodc-alphabay-true-crime-story]]"
 created: 2026-04-17
 updated: 2026-04-22
 operation_role: follow-on
@@ -77,6 +82,11 @@ This domestic-only U.S. follow-on record has been absorbed into the canonical ca
 
 ## References
 
-| # | Source | Publisher | Date | URL |
+| # | Title | Publisher | Date | URL |
 |---|---|---|---|---|
 | [1] | Colorado Man Sentenced to 11 Years in Prison for Moderating Disputes on Darknet Marketplace Alphabay | US DOJ (Eastern District of California) | 2020-09-01 | https://www.justice.gov/usao-edca/pr/colorado-man-sentenced-11-years-prison-moderating-disputes-darknet-marketplace-alphabay |
+| [2] | Massive blow to criminal Dark Web activities after globally coordinated operation | Europol | 2017-07-20 | https://www.europol.europa.eu/media-press/newsroom/news/massive-blow-to-criminal-dark-web-activities-after-globally-coordinated-operation |
+| [3] | AlphaBay, the Largest Online 'Dark Market,' Shut Down | US Department of Justice (Office of Public Affairs) | 2017-07-20 | https://www.justice.gov/opa/pr/alphabay-largest-online-dark-market-shut-down |
+| [4] | AlphaBay, Largest Online 'Dark Market,' Shut Down | US Drug Enforcement Administration | 2017-07-20 | https://www.dea.gov/press-releases/2017/07/20/alphabay-largest-online-dark-market-shut-down |
+| [5] | AlphaBay Takedown | US Federal Bureau of Investigation | 2017-07-20 | https://www.fbi.gov/news/stories/alphabay-takedown |
+| [6] | True Crime Story: AlphaBay | UN Office on Drugs and Crime (UNODC) | Unknown | https://www.unodc.org/unodc/untoc20/truecrimestories/alphabay.html |

@@ -18,7 +18,7 @@ key_findings:
 collection_url: https://www.fbi.gov/contact-us/field-offices/newyork/news/press-releases/operator-of-silk-road-2.0-website-charged-in-manhattan-federal-court
 created: 2026-04-17
 defendant_names:
-  - "of Silk Road"
+  - "Blake Benthall"
 updated: 2026-04-18
 ---
 ## Source Summary

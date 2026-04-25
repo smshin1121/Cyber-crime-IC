@@ -16,11 +16,11 @@ source_tier: 1
 pages_updated:
   - fin7-takedown
 key_findings:
-  - "DOJ announced the seven-year sentence of Andrii Kolpakov for his role in FIN7."
-  - "The release confirms that Kolpakov was arrested in Spain and extradited to the United States."
-  - "The case shows the FIN7 investigation continued to generate sentencing outcomes years after the initial 2018 arrests."
+  - "Secure .gov websites use HTTPS A lock ( Lock Locked padlock ) or https:// means you’ve safely connected to the .gov website. Share sensitive information only on official, secure websites."
 created: 2026-04-18
 updated: 2026-04-18
+defendant_names:
+  - "Andrii Kolpakov"
 ---
 ## Source Summary
 

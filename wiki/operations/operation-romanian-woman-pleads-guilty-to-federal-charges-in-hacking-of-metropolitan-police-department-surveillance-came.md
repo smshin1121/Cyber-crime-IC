@@ -46,25 +46,28 @@ results:
   other:
     - "Defendant-specific follow-on action derived from [[romanian-woman-pleads-guilty-to-federal-charges-in-hacking-of-metropolitan-police-department-surveillance-came]]"
 edges:
-  []
+
 credibility_index: 4.0
 source_tier: 1
 missing_fields:
-  []
+
 related_cases:
   - "[[romanian-woman-pleads-guilty-to-federal-charges-in-hacking-of-metropolitan-police-department-surveillance-came]]"
 related_operations:
-  []
+
 challenges_encountered:
-  []
+
 lessons_learned:
-  []
-source_count: 1
+
+source_count: 4
 sources:
   - "[[2026-04-18_justice-gov_romanian-woman-pleads-guilty-federal-charges-hacking-metropolitan-police-department]]"
+  - "[[2017-12-28_justice-gov_two-romanian-suspects-charged-with-hacking-of-metropolitan-police-department-sur]]"
+  - "[[2026-04-17_justice-gov_organized-romanian-criminal-groups-targeted-by-doj-and-romanian-law-enforcement]]"
+  - "[[2026-04-17_en-wikipedia-org_romanian-police]]"
 summary: "This domestic-only U.S. follow-on record has been absorbed into the canonical case page [[romanian-woman-pleads-guilty-to-federal-charges-in-hacking-of-metropolitan-police-department-surveillance-came]]. No visible cross-border mechanism is documented, so it is not treated as a separate international-cooperation operation."
 created: 2026-04-18
-updated: 2026-04-22
+updated: 2026-04-25
 ---
 ## Summary
 
@@ -76,6 +79,9 @@ This domestic-only U.S. follow-on record has been absorbed into the canonical ca
 
 ## References
 
-| # | Source | Publisher | Date | URL |
+| # | Title | Publisher | Date | URL |
 |---|---|---|---|---|
 | [1] | Romanian Woman Pleads Guilty to Federal Charges in Hacking of Metropolitan Police Department Surveillance Cameras | US DOJ USAO | 2018-09-20 | https://www.justice.gov/usao-dc/pr/romanian-woman-pleads-guilty-federal-charges-hacking-metropolitan-police-department |
+| [2] | Two Romanian Suspects Charged With Hacking of Metropolitan Police Department Surveillance Cameras in Connection with Ransomware Scheme | US DOJ USAO | 2017-12-28 | https://www.justice.gov/usao-dc/pr/two-romanian-suspects-charged-hacking-metropolitan-police-department-surveillance-cameras |
+| [3] | Organized Romanian Criminal Groups Targeted by DOJ and Romanian Law Enforcement | US DOJ | 2026-04-17 | https://www.justice.gov/archives/opa/pr/organized-romanian-criminal-groups-targeted-doj-and-romanian-law-enforcement |
+| [4] | Romanian Police | Wikipedia | 2026-04-17 | https://en.wikipedia.org/wiki/Romanian_Police |

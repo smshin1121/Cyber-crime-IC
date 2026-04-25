@@ -28,13 +28,13 @@ participating_countries:
 jurisdictions:
   - "[[united-states]]"
 participating_agencies:
-  []
+
 organizations:
   - "[[us-doj]]"
 legal_basis:
-  []
+
 mechanisms_used:
-  []
+
 results:
   arrests: 0
   indictments: 1
@@ -46,22 +46,23 @@ results:
   other:
     - "Defendant-specific follow-on action derived from [[us-v-ulbricht]]"
 edges:
-  []
+
 credibility_index: 4.0
 source_tier: 1
 missing_fields:
-  []
+
 related_cases:
   - "[[us-v-ulbricht]]"
 related_operations:
   - "[[silk-road-takedown]]"
 challenges_encountered:
-  []
+
 lessons_learned:
-  []
-source_count: 1
+
+source_count: 2
 sources:
   - "[[2017-05-31_court-of-appeals-for-the-second-circuit_united-states-v-ulbricht]]"
+  - "[[{'\"[[wired-operation-avalanche|Wired': 'Silk Road 2.0 / Ulbricht Sentencing Coverage]]\"'}]]"
 summary: "This domestic-only U.S. follow-on record has been absorbed into the canonical case page [[us-v-ulbricht]]. No visible cross-border mechanism is documented, so it is not treated as a separate international-cooperation operation."
 created: 2026-04-18
 updated: 2026-04-22
@@ -76,6 +77,6 @@ This domestic-only U.S. follow-on record has been absorbed into the canonical ca
 
 ## References
 
-| # | Source | Publisher | Date | URL |
+| # | Title | Publisher | Date | URL |
 |---|---|---|---|---|
 | [1] | United States v. Ulbricht | Court of Appeals for the Second Circuit | 2017-05-31 | https://www.courtlistener.com/opinion/4395694/united-states-v-ulbricht/ |

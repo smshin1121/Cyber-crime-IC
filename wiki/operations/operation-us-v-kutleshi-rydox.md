@@ -53,9 +53,13 @@ challenges_encountered:
 
 lessons_learned:
 
-source_count: 1
+source_count: 5
 sources:
   - "[[2024-12-12_wdpa_kutleshi-rydox-indictment]]"
+  - "[[2024-12-12_cyberscoop-com_rydox-cybercriminal-marketplace-seized-doj-albania-kosovo]]"
+  - "[[2024-12-13_technadu_kosovo-police-shuts-down-rydox-cybercrime-marketplace]]"
+  - "[[2024-12-13_securityaffairs-com_us-authorities-seized-marketplace-rydox]]"
+  - "[[2024-12-16_bitdefender-com_rydox-cybercrime-marketplace-seized-by-law-enforcement-suspected-admins-arrested]]"
 created: 2026-04-17
 updated: 2026-04-22
 operation_role: follow-on
@@ -78,6 +82,10 @@ This domestic-only U.S. follow-on record has been absorbed into the canonical ca
 
 ## References
 
-| # | Source | Publisher | Date | URL |
+| # | Title | Publisher | Date | URL |
 |---|---|---|---|---|
 | [1] | Rydox Cybercrime Marketplace Shut Down and Three Administrators Arrested | US DOJ (Western District of Pennsylvania) | 2024-12-12 | https://www.justice.gov/usao-wdpa/pr/rydox-cybercrime-marketplace-shut-down-and-three-administrators-arrested |
+| [2] | Cybercriminal marketplace Rydox seized in international law enforcement operation | CyberScoop | 2024-12-12 | https://cyberscoop.com/rydox-cybercriminal-marketplace-seized-doj-albania-kosovo/ |
+| [3] | Kosovo Police Shuts Down Rydox Cybercrime Marketplace and Arrests Admins | TechNadu | 2024-12-13 | https://www.technadu.com/kosovo-police-shuts-down-rydox-cybercrime-marketplace/560710/ |
+| [4] | U.S. authorities seized cybercrime marketplace Rydox | Security Affairs | 2024-12-13 | https://securityaffairs.com/171956/cyber-crime/u-s-authorities-seized-marketplace-rydox.html |
+| [5] | Rydox cybercrime marketplace seized by law enforcement, suspected admins arrested | Bitdefender | 2024-12-16 | https://www.bitdefender.com/en-us/blog/hotforsecurity/rydox-cybercrime-marketplace-seized-by-law-enforcement-suspected-admins-arrested |

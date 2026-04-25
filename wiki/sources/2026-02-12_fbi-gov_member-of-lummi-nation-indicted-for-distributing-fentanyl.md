@@ -1,0 +1,27 @@
+---
+type: source
+title: "Member of Lummi Nation Indicted for Distributing Fentanyl"
+source_type: agency-news
+publisher: "FBI"
+author: ""
+publish_date: 2026-02-12
+ingest_date: 2026-04-25
+language: en
+reliability: high
+credibility: confirmed
+sensitivity: public
+pages_updated:
+  - operation-member-of-lummi-nation-indicted-for-distributing-fentanyl
+key_findings:
+  - "FBI Indian Country News reported that a member of the Lummi Nation was indicted for distributing fentanyl on tribal land in Whatcom County."
+  - "The item preserves a distinct FBI-hosted URL for the Lummi fentanyl-distribution case."
+collection_url: https://www.fbi.gov/investigate/violent-crime/indian-country-crime/indian-country-news
+created: 2026-04-25
+---
+## Source Summary
+
+FBI Indian Country News listed the Lummi fentanyl indictment on a dedicated tribal-crime news page.
+
+## Relevance to IC
+
+This source adds a distinct federal-agency reference for [[operation-member-of-lummi-nation-indicted-for-distributing-fentanyl]].

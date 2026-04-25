@@ -46,25 +46,29 @@ results:
   other:
     - "Defendant-specific follow-on action derived from [[renton-washington-man-who-worked-with-his-son-to-deal-drugs-and-launder-proceeds-sentenced-to-5-years-in-priso]]"
 edges:
-  []
+
 credibility_index: 4.0
 source_tier: 1
 missing_fields:
-  []
+
 related_cases:
   - "[[renton-washington-man-who-worked-with-his-son-to-deal-drugs-and-launder-proceeds-sentenced-to-5-years-in-priso]]"
 related_operations:
-  []
+
 challenges_encountered:
-  []
+
 lessons_learned:
-  []
-source_count: 1
+
+source_count: 5
 sources:
   - "[[2026-04-18_justice-gov_renton-washington-man-who-worked-his-son-deal-drugs-and-launder-proceeds-sentenced-5]]"
+  - "[[2025-01-16_ocdetf_renton-washington-man-who-worked-with-his-son-to-deal-drugs-and-launder-proceeds-sentenced-to-5-years-in-prison]]"
+  - "[[2025-01-17_fox13seattle_renton-man-sentenced-family-drug-ring]]"
+  - "[[2025-01-22_rentonreporter_renton-man-sentenced-to-five-years-for-drug-dealing]]"
+  - "[[2025-01-16_federalnewswire_renton-man-sentenced-for-drug-trafficking-forfeits-assets]]"
 summary: "This domestic-only U.S. follow-on record has been absorbed into the canonical case page [[renton-washington-man-who-worked-with-his-son-to-deal-drugs-and-launder-proceeds-sentenced-to-5-years-in-priso]]. No visible cross-border mechanism is documented, so it is not treated as a separate international-cooperation operation."
 created: 2026-04-18
-updated: 2026-04-22
+updated: 2026-04-25
 ---
 ## Summary
 
@@ -76,6 +80,10 @@ This domestic-only U.S. follow-on record has been absorbed into the canonical ca
 
 ## References
 
-| # | Source | Publisher | Date | URL |
+| # | Title | Publisher | Date | URL |
 |---|---|---|---|---|
 | [1] | Renton, Washington man who worked with his son to deal drugs and launder proceeds sentenced to 5 years in prison | US DOJ USAO | 2025-01-16 | https://www.justice.gov/usao-wdwa/pr/renton-washington-man-who-worked-his-son-deal-drugs-and-launder-proceeds-sentenced-5 |
+| [2] | Renton, Washington man who worked with his son to deal drugs and launder proceeds sentenced to 5 years in prison | Organized Crime Drug Enforcement Task Forces | 2025-01-16 | https://www.justice.gov/ocdetf/press-room |
+| [3] | Renton, WA man sentenced to 5 years for money laundering in family drug ring | FOX 13 Seattle | 2025-01-17 | https://www.fox13seattle.com/news/renton-man-sentenced-family-drug-ring |
+| [4] | Renton man sentenced to five years for drug dealing | Renton Reporter | 2025-01-22 | https://www.rentonreporter.com/2025/01/22/renton-man-sentenced-to-five-years-for-drug-dealing/ |
+| [5] | Renton man sentenced for drug trafficking; forfeits assets | Federal Newswire | 2025-01-16 | https://thefederalnewswire.com/stories/668105809-renton-man-sentenced-for-drug-trafficking-forfeits-assets |

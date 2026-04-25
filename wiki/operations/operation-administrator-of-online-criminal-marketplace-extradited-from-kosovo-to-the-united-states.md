@@ -46,25 +46,28 @@ results:
   other:
     - "Defendant-specific follow-on action derived from [[administrator-of-online-criminal-marketplace-extradited-from-kosovo-to-the-united-states]]"
 edges:
-  []
+
 credibility_index: 4.0
 source_tier: 1
 missing_fields:
-  []
+
 related_cases:
   - "[[administrator-of-online-criminal-marketplace-extradited-from-kosovo-to-the-united-states]]"
 related_operations:
-  []
+
 challenges_encountered:
-  []
+
 lessons_learned:
-  []
-source_count: 1
+
+source_count: 4
 sources:
   - "[[2026-04-18_justice-gov_administrator-online-criminal-marketplace-extradited-kosovo-united-states]]"
+  - "[[2024-12-12_justice-gov_rydox-cybercrime-marketplace-shut-down-and-three-administrators-arrested]]"
+  - "[[2024-12-13_technadu_kosovo-police-shuts-down-rydox-cybercrime-marketplace]]"
+  - "[[2024-12-16_bitdefender-com_rydox-cybercrime-marketplace-seized-by-law-enforcement-suspected-admins-arrested]]"
 summary: "This domestic-only U.S. follow-on record has been absorbed into the canonical case page [[administrator-of-online-criminal-marketplace-extradited-from-kosovo-to-the-united-states]]. No visible cross-border mechanism is documented, so it is not treated as a separate international-cooperation operation."
 created: 2026-04-18
-updated: 2026-04-22
+updated: 2026-04-25
 ---
 ## Summary
 
@@ -76,6 +79,9 @@ This domestic-only U.S. follow-on record has been absorbed into the canonical ca
 
 ## References
 
-| # | Source | Publisher | Date | URL |
+| # | Title | Publisher | Date | URL |
 |---|---|---|---|---|
 | [1] | Administrator Of Online Criminal Marketplace Extradited From Kosovo To The United States | US DOJ USAO | 2025-05-13 | https://www.justice.gov/usao-mdfl/pr/administrator-online-criminal-marketplace-extradited-kosovo-united-states |
+| [2] | Rydox Cybercrime Marketplace Shut Down and Three Administrators Arrested | US DOJ (Western District of Pennsylvania) | 2024-12-12 | https://www.justice.gov/usao-wdpa/pr/rydox-cybercrime-marketplace-shut-down-and-three-administrators-arrested |
+| [3] | Kosovo Police Shuts Down Rydox Cybercrime Marketplace and Arrests Admins | TechNadu | 2024-12-13 | https://www.technadu.com/kosovo-police-shuts-down-rydox-cybercrime-marketplace/560710/ |
+| [4] | Rydox cybercrime marketplace seized by law enforcement, suspected admins arrested | Bitdefender | 2024-12-16 | https://www.bitdefender.com/en-us/blog/hotforsecurity/rydox-cybercrime-marketplace-seized-by-law-enforcement-suspected-admins-arrested |

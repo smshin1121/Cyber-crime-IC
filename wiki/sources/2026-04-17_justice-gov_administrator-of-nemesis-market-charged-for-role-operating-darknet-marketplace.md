@@ -1,6 +1,6 @@
 ---
 type: source
-title: "Administrator of Nemesis Market Charged for Role Operating Darknet Marketplace"
+title: "Page not found"
 raw_path: raw/press-releases/2026-04-17_justice-gov_administrator-of-nemesis-market-charged-for-role-operating-darknet-marketplace.md
 source_type: press-release
 publisher: "U.S. Department of Justice"
@@ -11,11 +11,10 @@ language: en
 reliability: high
 credibility: confirmed
 sensitivity: public
-pages_updated: []
+pages_updated:
+  []
 key_findings:
-  - "DOJ announced that Behrouz Parsarad was charged for operating Nemesis Market."
-  - "The announcement linked the prosecution to the March 2024 market seizure conducted with German and Lithuanian partners."
-  - "The release highlighted assistance from the Office of International Affairs and the Cybercrime Liaison Prosecutor to Eurojust."
+  - "Secure .gov websites use HTTPS A lock ( Lock Locked padlock ) or https:// means you’ve safely connected to the .gov website. Share sensitive information only on official, secure websites."
 collection_url: https://www.justice.gov/opa/pr/administrator-nemesis-market-charged-role-operating-darknet-marketplace
 created: 2026-04-17
 updated: 2026-04-18

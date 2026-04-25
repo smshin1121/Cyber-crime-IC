@@ -52,9 +52,16 @@ challenges_encountered:
 
 lessons_learned:
 
-source_count: 1
+source_count: 8
 sources:
   - "[[2024-07-15_cdca_miller-poweroff-sentencing]]"
+  - "[[fbi-international-ddos-for-hire-sweep]]"
+  - "[[cyberscoop-international-ddos-for-hire-sweep]]"
+  - "[[{'\"[3] Europol': 'Law enforcement shuts down 27 DDoS booters (2024-12-11)\"'}]]"
+  - "[[{'\"[4] DOJ': 'Federal Prosecutors Charge 6 Defendants (2022-12-14)\"'}]]"
+  - "[[{'\"[5] Wikipedia': 'Operation PowerOFF\"'}]]"
+  - "[[{'\"[6] DOJ': 'Law Enforcement Seizes 9 DDoS-for-Hire Webpages (2024-09)\"'}]]"
+  - "[[{'\"[7] DOJ': '13 More Domains Seized (2023-05-08)\"'}]]"
 created: 2026-04-17
 updated: 2026-04-22
 operation_role: follow-on
@@ -77,6 +84,8 @@ This domestic-only U.S. follow-on record has been absorbed into the canonical ca
 
 ## References
 
-| # | Source | Publisher | Date | URL |
+| # | Title | Publisher | Date | URL |
 |---|---|---|---|---|
 | [1] | Texas Man Sentenced to 9 Months in Federal Prison for Operating Website that Offered Computer Attack Services | US DOJ (Central District of California) | 2024-07-15 | https://www.justice.gov/usao-cdca/pr/texas-man-sentenced-9-months-federal-prison-operating-website-offered-computer-attack |
+| [2] | FBI: International Cyber Sweep Nets DDoS Attackers (Operation Tarpit) | FBI | 2016-12-12 | https://www.fbi.gov/news/stories/international-cyber-sweep-nets-ddos-attackers |
+| [3] | CyberScoop: DDoS-happy teenagers arrested in international cybercrime bust | CyberScoop | 2016-12-12 | https://cyberscoop.com/ddos-europol-arrest-december-2016/ |

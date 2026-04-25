@@ -51,9 +51,14 @@ challenges_encountered:
 
 lessons_learned:
 
-source_count: 1
+source_count: 6
 sources:
   - "[[2017-03-09_wdmi_paiva-silk-road-2-sentencing]]"
+  - "[[{'\"[Europol IOCTA 2015 — Darknets](https': '//www.europol.europa.eu/iocta/2015/darknets.html)\"'}]]"
+  - "[[{'\"[Wikipedia — Operation Onymous](https': '//en.wikipedia.org/wiki/Operation_Onymous)\"'}]]"
+  - "[[{'\"[FBI press release — Silk Road 2.0 Charged](https': '//www.fbi.gov/contact-us/field-offices/newyork/news/press-releases/operator-of-silk-road-2.0-website-charged-in-manhattan-federal-court)\"'}]]"
+  - "[[{'\"[ICE press release — International probe leads to arrest](https': '//www.ice.gov/news/releases/international-probe-leads-arrest-alleged-operator-silk-road-20)\"'}]]"
+  - "[[{'\"[GDPO Situation Analysis (Jan 2015)](https': '//www.swansea.ac.uk/media/Operation-Onymous.pdf)\"'}]]"
 created: 2026-04-17
 updated: 2026-04-22
 operation_role: follow-on
@@ -76,6 +81,6 @@ This domestic-only U.S. follow-on record has been absorbed into the canonical ca
 
 ## References
 
-| # | Source | Publisher | Date | URL |
+| # | Title | Publisher | Date | URL |
 |---|---|---|---|---|
 | [1] | Norton Shores "Dark Web" Drug Dealer Sentenced To 30 Months In Prison | US DOJ (Western District of Michigan) | 2017-03-09 | https://www.justice.gov/usao-wdmi/pr/2017_0309_Paiva |

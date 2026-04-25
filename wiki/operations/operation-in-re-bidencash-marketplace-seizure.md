@@ -53,9 +53,14 @@ challenges_encountered:
 
 lessons_learned:
 
-source_count: 1
+source_count: 6
 sources:
   - "[[2025-06-04_edva_bidencash-marketplace-seizure]]"
+  - "[[{'\"[US Secret Service Press Release (2025-06-05)](https': '//www.secretservice.gov/newsroom/releases/2025/06/us-government-seizes-approximately-145-criminal-marketplace-domains)\"'}]]"
+  - "[[{'\"[DOJ Press Release via Fortune (2025-06-05)](https': '//fortune.com/crypto/2025/06/05/doj-seizes-crypto-web-domains-online-marketplace-bidencash/)\"'}]]"
+  - "[[{'\"[The Record (2025-06)](https': '//therecord.media/bidencash-cybercrime-darknet-market-takedown-us-netherlands)\"'}]]"
+  - "[[{'\"[The Hacker News (2025-06)](https': '//thehackernews.com/2025/06/doj-seizes-145-domains-tied-to.html)\"'}]]"
+  - "[[{'\"[Help Net Security (2025-06-06)](https': '//www.helpnetsecurity.com/2025/06/06/bidencash-marketplace-domains-seized/)\"'}]]"
 created: 2026-04-17
 updated: 2026-04-22
 operation_role: follow-on
@@ -78,6 +83,6 @@ This domestic-only U.S. follow-on record has been absorbed into the canonical ca
 
 ## References
 
-| # | Source | Publisher | Date | URL |
+| # | Title | Publisher | Date | URL |
 |---|---|---|---|---|
 | [1] | U.S. Government seizes approximately 145 criminal marketplace domains | US DOJ (Eastern District of Virginia) | 2025-06-04 | https://www.justice.gov/usao-edva/pr/us-government-seizes-approximately-145-criminal-marketplace-domains |
