@@ -55,11 +55,11 @@ lessons_learned:
 source_count: 6
 sources:
   - "[[2025-01-29_sdtx_heartsender-seizure]]"
-  - "[[[1] US DOJ Press Release (2025-01-29)]]"
-  - "[[[2] KrebsOnSecurity (2025-01-30)]]"
-  - "[[[3] KrebsOnSecurity — Pakistan Arrests (2025-05-28)]]"
-  - "[[[4] CyberScoop (2025-01-30)]]"
-  - "[[[5] Hackread (2025-01-30)]]"
+  - "[[2026-04-17_justice-gov_international-operation-takes-down-cybercrime-ring-selling-hacking-tools]]"
+  - "[[2025-01-30_krebsonsecurity-com_fbi-dutch-police-disrupt-manipulaters-phishing-gang]]"
+  - "[[2025-05-28_krebsonsecurity-com_pakistan-arrests-21-in-heartsender-malware-service]]"
+  - "[[2025-01-30_cyberscoop-com_department-of-justice-partners-with-dutch-police-to-break-up-heartsender-network]]"
+  - "[[2025-01-30_hackread-com_heartsender-cybercrime-network-dismantled-in-joint-us-dutch-operation]]"
 created: 2026-04-17
 updated: 2026-04-22
 operation_role: follow-on
@@ -85,3 +85,8 @@ This domestic-only U.S. follow-on record has been absorbed into the canonical ca
 | # | Title | Publisher | Date | URL |
 |---|---|---|---|---|
 | [1] | Page not found | U.S. District Court for the Southern District of Texas | 2026-04-17 | https://www.justice.gov/usao-sdtx/pr/international-operation-takes-down-cybercrime-ring-selling-hacking-tools |
+| [2] | Page not found | U.S. District Court for the Southern District of Texas | 2026-04-17 | https://www.justice.gov/usao-sdtx/pr/international-operation-takes-down-cybercrime-ring-selling-hacking-tools |
+| [3] | FBI, Dutch Police Disrupt 'Manipulaters' Phishing Gang | KrebsOnSecurity | 2025-01-30 | https://krebsonsecurity.com/2025/01/fbi-dutch-police-disrupt-manipulaters-phishing-gang/ |
+| [4] | Pakistan Arrests 21 in 'Heartsender' Malware Service | KrebsOnSecurity | 2025-05-28 | https://krebsonsecurity.com/2025/05/pakistan-arrests-21-in-heartsender-malware-service/ |
+| [5] | Department of Justice partners with Dutch police to break up HeartSender network | CyberScoop | 2025-01-30 | https://cyberscoop.com/doj-saim-raza-heartsender-takedown/ |
+| [6] | HeartSender Cybercrime Network Dismantled in Joint US-Dutch Operation | Hackread | 2025-01-30 | https://hackread.com/heartsender-cybercrime-network-dismantled-us-dutch-op/ |

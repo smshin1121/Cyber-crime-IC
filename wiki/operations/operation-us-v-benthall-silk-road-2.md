@@ -56,11 +56,11 @@ lessons_learned:
 source_count: 6
 sources:
   - "[[2014-11-06_sdny_benthall-silk-road-2-complaint]]"
-  - "[[{'\"[Europol IOCTA 2015 — Darknets](https': '//www.europol.europa.eu/iocta/2015/darknets.html)\"'}]]"
-  - "[[{'\"[Wikipedia — Operation Onymous](https': '//en.wikipedia.org/wiki/Operation_Onymous)\"'}]]"
-  - "[[{'\"[FBI press release — Silk Road 2.0 Charged](https': '//www.fbi.gov/contact-us/field-offices/newyork/news/press-releases/operator-of-silk-road-2.0-website-charged-in-manhattan-federal-court)\"'}]]"
-  - "[[{'\"[ICE press release — International probe leads to arrest](https': '//www.ice.gov/news/releases/international-probe-leads-arrest-alleged-operator-silk-road-20)\"'}]]"
-  - "[[{'\"[GDPO Situation Analysis (Jan 2015)](https': '//www.swansea.ac.uk/media/Operation-Onymous.pdf)\"'}]]"
+  - "[[2015-01-01_europol-europa-eu_iocta-2015-darknets]]"
+  - "[[2026-04-17_en-wikipedia-org_operation-onymous]]"
+  - "[[2014-11-06_fbi-gov_operator-of-silk-road-2-0-website-charged-in-manhattan-federal-court]]"
+  - "[[2014-11-06_ice-gov_international-probe-leads-to-the-arrest-of-the-alleged-operator-of-silk-road-2-0]]"
+  - "[[2015-01-01_swansea-ac-uk_gdpo-situation-analysis-operation-onymous]]"
 created: 2026-04-17
 updated: 2026-04-22
 operation_role: follow-on
@@ -86,3 +86,8 @@ This domestic-only U.S. follow-on record has been absorbed into the canonical ca
 | # | Title | Publisher | Date | URL |
 |---|---|---|---|---|
 | [1] | Operator Of “Silk Road 2.0” Website Charged In Manhattan Federal Court | US DOJ (Southern District of New York) | 2014-11-06 | https://www.justice.gov/usao-sdny/pr/operator-silk-road-20-website-charged-manhattan-federal-court |
+| [2] | IOCTA 2015 — Darknets | Europol | 2015-01-01 | https://www.europol.europa.eu/iocta/2015/darknets.html |
+| [3] | Operation Onymous | Wikipedia | 2026-04-17 | https://en.wikipedia.org/wiki/Operation_Onymous |
+| [4] | Operator of Silk Road 2.0 Website Charged in Manhattan Federal Court | FBI | 2014-11-06 | https://www.fbi.gov/contact-us/field-offices/newyork/news/press-releases/operator-of-silk-road-2.0-website-charged-in-manhattan-federal-court |
+| [5] | International probe leads to the arrest of the alleged operator of "Silk Road 2.0" | ICE / HSI | 2014-11-06 | https://www.ice.gov/news/releases/international-probe-leads-arrest-alleged-operator-silk-road-20 |
+| [6] | GDPO Situation Analysis — Operation Onymous | Swansea University | 2015-01-01 | https://www.swansea.ac.uk/media/Operation-Onymous.pdf |

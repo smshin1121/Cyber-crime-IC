@@ -53,7 +53,7 @@ lessons_learned:
 
 source_count: 4
 sources:
-  - "[[wired-operation-avalanche]]"
+  - "[[2015-05-29_wired-com_wired-silk-road-2-0-ulbricht-sentencing-coverage]]"
   - "[[2015-05-29_sdny_us-v-ulbricht-sentencing]]"
   - "[[2015-05-29_npr_silk-road-founder-sentenced-life-prison]]"
   - "[[2015-05-29_fbi-gov_ross-ulbricht-sentenced-to-life-in-prison]]"

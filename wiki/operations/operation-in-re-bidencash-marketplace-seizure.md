@@ -56,11 +56,11 @@ lessons_learned:
 source_count: 6
 sources:
   - "[[2025-06-04_edva_bidencash-marketplace-seizure]]"
-  - "[[{'\"[US Secret Service Press Release (2025-06-05)](https': '//www.secretservice.gov/newsroom/releases/2025/06/us-government-seizes-approximately-145-criminal-marketplace-domains)\"'}]]"
-  - "[[{'\"[DOJ Press Release via Fortune (2025-06-05)](https': '//fortune.com/crypto/2025/06/05/doj-seizes-crypto-web-domains-online-marketplace-bidencash/)\"'}]]"
-  - "[[{'\"[The Record (2025-06)](https': '//therecord.media/bidencash-cybercrime-darknet-market-takedown-us-netherlands)\"'}]]"
-  - "[[{'\"[The Hacker News (2025-06)](https': '//thehackernews.com/2025/06/doj-seizes-145-domains-tied-to.html)\"'}]]"
-  - "[[{'\"[Help Net Security (2025-06-06)](https': '//www.helpnetsecurity.com/2025/06/06/bidencash-marketplace-domains-seized/)\"'}]]"
+  - "[[2025-06-05_secretservice-gov_u-s-government-seizes-approximately-145-criminal-marketplace-domains-associated]]"
+  - "[[2025-06-05_fortune-com_doj-seizes-crypto-and-web-domains-linked-to-online-criminal-marketplace-bidencas]]"
+  - "[[2025-06-01_therecord-media_us-and-netherlands-take-down-bidencash-cybercrime-marketplace-infrastructure]]"
+  - "[[2025-06-01_thehackernews-com_doj-seizes-145-domains-tied-to-bidencash-marketplace]]"
+  - "[[2025-06-06_helpnetsecurity-com_bidencash-marketplace-domains-seized-in-coordinated-international-action]]"
 created: 2026-04-17
 updated: 2026-04-22
 operation_role: follow-on
@@ -86,3 +86,8 @@ This domestic-only U.S. follow-on record has been absorbed into the canonical ca
 | # | Title | Publisher | Date | URL |
 |---|---|---|---|---|
 | [1] | U.S. Government seizes approximately 145 criminal marketplace domains | US DOJ (Eastern District of Virginia) | 2025-06-04 | https://www.justice.gov/usao-edva/pr/us-government-seizes-approximately-145-criminal-marketplace-domains |
+| [2] | U.S. Government Seizes Approximately 145 Criminal Marketplace Domains Associated with the BidenCash Marketplace | US Secret Service | 2025-06-05 | https://www.secretservice.gov/newsroom/releases/2025/06/us-government-seizes-approximately-145-criminal-marketplace-domains |
+| [3] | DOJ seizes crypto and web domains linked to online criminal marketplace BidenCash | Fortune | 2025-06-05 | https://fortune.com/crypto/2025/06/05/doj-seizes-crypto-web-domains-online-marketplace-bidencash/ |
+| [4] | US and Netherlands take down BidenCash cybercrime marketplace infrastructure | The Record | 2025-06-01 | https://therecord.media/bidencash-cybercrime-darknet-market-takedown-us-netherlands |
+| [5] | DOJ seizes 145 domains tied to BidenCash marketplace | The Hacker News | 2025-06-01 | https://thehackernews.com/2025/06/doj-seizes-145-domains-tied-to.html |
+| [6] | BidenCash marketplace domains seized in coordinated international action | Help Net Security | 2025-06-06 | https://www.helpnetsecurity.com/2025/06/06/bidencash-marketplace-domains-seized/ |
