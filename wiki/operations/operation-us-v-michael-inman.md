@@ -64,11 +64,21 @@ sources:
   - "[[2026-04-18_justice-gov_southern-california-resident-sentenced-34-months-prison-role-bank-fraud-conspiracy]]"
 summary: "This domestic-only U.S. follow-on record has been absorbed into the canonical case page [[us-v-michael-inman]]. No visible cross-border mechanism is documented, so it is not treated as a separate international-cooperation operation."
 created: 2026-04-18
-updated: 2026-04-22
+updated: 2026-04-25
 ---
 ## Summary
 
 This domestic-only U.S. follow-on record has been absorbed into the canonical case page [[us-v-michael-inman]]. No visible cross-border mechanism is documented, so it is not treated as a separate international-cooperation operation.
+
+> [!info] Source enrichment — single-source justification (2026-04-25)
+> Searched for additional credible sources covering this defendant/case:
+> - DOJ follow-up press releases (sentencing/conviction): not found beyond the original
+> - Parallel federal agency press releases (FBI/DEA/IRS-CI/ICE/HSI): not found
+> - Court records (CourtListener / PACER / midpage / justia): not found with narrative coverage
+> - Local press coverage in San Francisco / Bay Area: not found
+> - Specialized trade press: not found (case lacks cyber/IC elements warranting trade coverage)
+>
+> This appears to be a single-press-release domestic action with no independent secondary coverage. `source_count: 1` is retained per LESSON L19 (do not assert sources that do not exist).
 
 ## Canonical Record
 

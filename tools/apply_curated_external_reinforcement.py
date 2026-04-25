@@ -4609,6 +4609,340 @@ CURATED: dict[str, dict[str, Any]] = {
             "2024-10-02_regtechtimes_terrell-fullers-multimillion-dollar-fraud-scheme",
         ],
     },
+    "operation-man-charged-with-threatening-and-cyberstalking-congressman": {
+        "sources": [
+            "2026-04-18_justice-gov_man-charged-threatening-and-cyberstalking-congressman",
+            "2022-05-23_tulsaworld_man-held-federal-complaint-alleging-threatened-cyberstalked-rep-kevin-hern",
+            "2022-08-10_nbcnews_oklahoma-man-pleads-guilty-stalking-threatening-gop-rep-kevin-hern",
+            "2022-08-15_fox23_man-pleads-guilty-cyberstalking-threatening-rep-kevin-hern",
+            "2023-08-29_ktul_bartlesville-man-sentenced-three-years-cyberstalking-congressman-hern",
+        ],
+    },
+    "operation-man-sentenced-for-stalking-and-threatening-congressman-kevin-hern-and-his-wife": {
+        "sources": [
+            "2026-04-18_justice-gov_man-sentenced-stalking-and-threatening-congressman-kevin-hern-and-his-wife",
+            "2023-08-29_ktul_bartlesville-man-sentenced-three-years-cyberstalking-congressman-hern",
+            "2023-08-29_kjrh_bartlesville-man-sentenced-stalking-threatening-rep-kevin-hern",
+            "2023-08-29_fox23_bartlesville-man-sentenced-stalking-threatening-rep-kevin-hern-wife",
+            "2022-08-10_nbcnews_oklahoma-man-pleads-guilty-stalking-threatening-gop-rep-kevin-hern",
+        ],
+    },
+    "operation-man-sentenced-stalking-and-threatening-congressman-kevin-hern-and-his-wife": {
+        "sources": [
+            "2026-04-18_justice-gov_man-sentenced-stalking-and-threatening-congressman-kevin-hern-and-his-wife",
+            "2023-08-29_ktul_bartlesville-man-sentenced-three-years-cyberstalking-congressman-hern",
+            "2023-08-29_kjrh_bartlesville-man-sentenced-stalking-threatening-rep-kevin-hern",
+            "2023-08-29_fox23_bartlesville-man-sentenced-stalking-threatening-rep-kevin-hern-wife",
+            "2022-08-10_nbcnews_oklahoma-man-pleads-guilty-stalking-threatening-gop-rep-kevin-hern",
+        ],
+    },
+    "operation-skiatook-man-indicted-for-threatening-to-kill-federal-agents": {
+        "sources": [
+            "2026-04-18_justice-gov_skiatook-man-indicted-threatening-kill-federal-agents",
+            "2025-12-11_ktul_skiatook-man-indicted-10-charges-threats-federal-law-enforcement",
+            "2025-12-11_krmg_skiatook-man-accused-making-threats-federal-law-enforcement",
+            "2025-12-11_kfor_oklahoma-man-accused-threatening-kill-federal-agents-online",
+            "2025-12-11_tulsaworld_grand-jury-indictment-links-skiatook-man-ice-death-threats",
+        ],
+    },
+    "operation-ten-members-of-international-cyber-fraud-ring-indicted-for-refund-fraud-scheme-targeting-online-retailers": {
+        "sources": [
+            "2026-04-18_justice-gov_ten-members-international-cyber-fraud-ring-indicted-refund-fraud-scheme-targeting",
+            "2023-11-09_fox23_ten-charged-oklahoma-international-refund-fraud-ring",
+            "2023-12-05_keyt_two-central-coast-men-among-ten-indicted-online-refund-fraud-scheme",
+            "2023-11-09_shorenewsnetwork_ten-members-international-cyber-fraud-ring-indicted-refund-fraud",
+            "2024-03-08_cnbc_refund-fraud-schemes-promoted-tiktok-telegram-amazon-walmart",
+        ],
+    },
+    "operation-tulsa-man-sentenced-to-30-months-in-prison-for-sending-emails-threatening-to-kill-president-biden": {
+        "sources": [
+            "2026-04-18_justice-gov_tulsa-man-sentenced-30-months-prison-sending-emails-threatening-kill-president-biden",
+            "2022-08-16_secretservice_tulsa-man-sentenced-30-months-prison-threatening-kill-biden",
+            "2022-08-16_tulsaworld_tulsa-man-sentenced-prison-admitting-threatening-kill-biden",
+            "2022-08-16_krmg_tulsa-man-sentenced-30-months-threatening-kill-president-biden",
+            "2021-06-21_5newsonline_tulsa-man-arrested-threatening-president-biden-congress-families",
+        ],
+    },
+    "operation-tulsa-man-who-fled-from-smuggling-charge-pleads-guilty": {
+        "sources": [
+            "2026-04-18_justice-gov_tulsa-man-who-fled-smuggling-charge-pleads-guilty",
+            "2019-08-08_newson6_tulsa-food-truck-owner-pleads-guilty-smuggling-ecstasy",
+            "2019-08-08_ktul_man-sentenced-smuggling-ecstasy-dark-web",
+            "2019-08-08_kfor_oklahoma-food-truck-owner-sentenced-smuggling-ecstasy-germany",
+            "2019-08-08_tulsaworld_man-accused-ordering-pounds-marijuana-ecstasy-free-joints-homeless",
+        ],
+    },
+    "operation-two-tulsans-sentenced-for-running-illegal-dark-web-cryptocurrency-pharmacy": {
+        "sources": [
+            "2026-04-18_justice-gov_two-tulsans-sentenced-running-illegal-dark-web-cryptocurrency-pharmacy",
+            "2025-03-15_newstalkkzrg_two-tulsans-sentenced-running-illegal-dark-web-cryptocurrency-pharmacy",
+            "2025-03-10_newson6_2-tulsa-men-sentenced-buying-selling-illegal-drugs-dark-web",
+            "2025-03-10_krmg_tulsa-man-sentenced-selling-illegal-drugs-dark-web",
+            "2024-09-19_fda_two-tulsa-men-indicted-introducing-misbranded-drugs-interstate-commerce",
+        ],
+    },
+    "operation-us-v-aaron-michael-thomas": {
+        "sources": [
+            "2026-04-18_justice-gov_two-tulsans-sentenced-running-illegal-dark-web-cryptocurrency-pharmacy",
+            "2025-03-15_newstalkkzrg_two-tulsans-sentenced-running-illegal-dark-web-cryptocurrency-pharmacy",
+            "2025-03-10_newson6_2-tulsa-men-sentenced-buying-selling-illegal-drugs-dark-web",
+            "2025-03-10_krmg_tulsa-man-sentenced-selling-illegal-drugs-dark-web",
+            "2024-09-19_fda_two-tulsa-men-indicted-introducing-misbranded-drugs-interstate-commerce",
+        ],
+    },
+    "operation-us-v-alexey-viktorovich-chertkov-kirill-vladimirovich-morozov-aleksandr-aleksandrovich-shi": {
+        "sources": [
+            "2026-04-18_justice-gov_botnet-dismantled-international-operation-russian-and-kazakhstani-administrators",
+            "2025-05-09_tulsaworld_four-charged-46-million-international-hacking-scheme-oklahoma-computers",
+            "2025-05-09_techcrunch_fbi-dutch-police-seize-shut-down-botnet-hacked-routers",
+            "2025-05-09_bleepingcomputer_police-dismantles-botnet-selling-hacked-routers-as-residential-proxies",
+            "2025-05-09_cyberscoop_us-seizes-anyproxy-5socks-botnets-indicts-administrators",
+        ],
+    },
+    "operation-us-v-jeremy-daniel-singer": {
+        "sources": [
+            "2026-04-18_justice-gov_tulsa-man-who-fled-smuggling-charge-pleads-guilty",
+            "2019-08-08_newson6_tulsa-food-truck-owner-pleads-guilty-smuggling-ecstasy",
+            "2019-08-08_ktul_man-sentenced-smuggling-ecstasy-dark-web",
+            "2019-08-08_kfor_oklahoma-food-truck-owner-sentenced-smuggling-ecstasy-germany",
+            "2019-08-08_tulsaworld_man-accused-ordering-pounds-marijuana-ecstasy-free-joints-homeless",
+        ],
+    },
+    "operation-us-v-john-jacobs-ahrens": {
+        "sources": [
+            "2026-04-18_justice-gov_tulsa-man-sentenced-30-months-prison-sending-emails-threatening-kill-president-biden",
+            "2022-08-16_secretservice_tulsa-man-sentenced-30-months-prison-threatening-kill-biden",
+            "2022-08-16_tulsaworld_tulsa-man-sentenced-prison-admitting-threatening-kill-biden",
+            "2022-08-16_krmg_tulsa-man-sentenced-30-months-threatening-kill-president-biden",
+            "2021-06-21_5newsonline_tulsa-man-arrested-threatening-president-biden-congress-families",
+        ],
+    },
+    "operation-us-v-keith-charles-eisenberger": {
+        "sources": [
+            "2026-04-18_justice-gov_man-sentenced-stalking-and-threatening-congressman-kevin-hern-and-his-wife",
+            "2023-08-29_ktul_bartlesville-man-sentenced-three-years-cyberstalking-congressman-hern",
+            "2023-08-29_kjrh_bartlesville-man-sentenced-stalking-threatening-rep-kevin-hern",
+            "2023-08-29_fox23_bartlesville-man-sentenced-stalking-threatening-rep-kevin-hern-wife",
+            "2022-08-10_nbcnews_oklahoma-man-pleads-guilty-stalking-threatening-gop-rep-kevin-hern",
+        ],
+    },
+    "operation-us-v-logan-christopher-murfin": {
+        "sources": [
+            "2026-04-18_justice-gov_skiatook-man-indicted-threatening-kill-federal-agents",
+            "2025-12-11_ktul_skiatook-man-indicted-10-charges-threats-federal-law-enforcement",
+            "2025-12-11_krmg_skiatook-man-accused-making-threats-federal-law-enforcement",
+            "2025-12-11_kfor_oklahoma-man-accused-threatening-kill-federal-agents-online",
+            "2025-12-11_tulsaworld_grand-jury-indictment-links-skiatook-man-ice-death-threats",
+        ],
+    },
+    "operation-us-v-sunday-daniel-ganyo": {
+        "sources": [
+            "2026-04-18_justice-gov_nigerian-national-pleads-guilty-multi-million-dollar-cyber-fraud-scheme-targeting",
+            "2024-11-26_justice-gov_extradited-nigerian-national-sentenced-7-years-restitution-cyber-fraud",
+            "2023-07-21_justice-gov_nigerian-national-extradited-south-africa-cyber-fraud-tulsa-company",
+            "2024-11-26_ktul_fbi-uncovers-28m-wire-fraud-tracking-fake-shipment-tulsa-africa",
+            "2023-07-22_guardian-ng_nigerian-extradited-us-over-400000-cyber-fraud",
+        ],
+    },
+    "operation-us-v-yevgeniy-alexandrovich-nikulin": {
+        "sources": [
+            "2026-04-18_justice-gov_russian-hacker-sentenced-over-7-years-prison-hacking-three-bay-area-tech-companies",
+            "2020-09-30_theregister_russian-hacker-described-as-brilliant-by-judge-gets-seven-years-linkedin-dropbox",
+            "2020-09-30_cbsnews_russian-hacker-who-targeted-bay-area-tech-companies-sentenced-to-over-7-years-in-prison",
+            "2020-09-30_bankinfosecurity_russian-gets-7-year-sentence-for-hacking-linkedin-dropbox",
+            "2020-09-29_therecord_russian-hacker-nikulin-sentenced-to-over-7-years-in-prison-for-tech-industry-breaches",
+            "2021-12-23_infosecurity_russian-hackers-1-7m-restitution-order-overturned",
+        ],
+    },
+    "operation-us-v-yevgeniy-nikulin": {
+        "sources": [
+            "2026-04-18_justice-gov_russian-man-found-guilty-hacking-three-bay-area-tech-companies",
+            "2020-07-11_securityaffairs_yevgeniy-nikulin-russian-hacker-behind-dropbox-and-linkedin-hacks-found-guilty",
+            "2020-07-11_engadget_us-court-finds-russian-national-guilty-of-hacking-linkedin-dropbox",
+            "2020-07-14_theregister_guilty-russian-miscreant-who-hacked-linkedin-dropbox-formspring",
+            "2020-07-11_washingtontimes_yevgeniy-nikulin-russian-hacker-convicted-california",
+        ],
+    },
+    "operation-yevgeniy-nikulin-indicted-for-hacking-linkedin-dropbox-and-formspring": {
+        "sources": [
+            "2026-04-18_justice-gov_yevgeniy-nikulin-indicted-hacking-linkedin-dropbox-and-formspring",
+            "2016-10-21_venturebeat_russian-indicted-us-charges-hacking-linkedin-dropbox-formspring",
+            "2016-10-21_databreaches_yevgeniy-nikulin-indicted-hacking-linkedin-dropbox-formspring",
+            "2018-03-30_thehill_russian-accused-linkedin-hack-extradited-us",
+            "2018-03-30_cyberscoop_extradited-russian-yevgeniy-nikulin-pleads-not-guilty-linkedin-breach",
+        ],
+    },
+    "operation-us-v-road-task-force-agent": {
+        "sources": [
+            "2026-04-18_justice-gov_former-silk-road-task-force-agent-sentenced-78-months-prison-extortion-money-laundering",
+            "2015-10-19_coindesk_rogue-silk-road-agent-carl-force-jailed-78-months",
+            "2015-10-19_nbcnews_corrupt-silk-road-dea-agent-carl-force-gets-over-6-years-prison",
+            "2015-10-19_courthousenews_agent-who-swiped-silk-road-bitcoins-sentenced",
+            "2015-10-19_oig-justice-gov_former-dea-agent-sentenced-extortion-money-laundering",
+        ],
+    },
+    "operation-us-v-sanford-wallace": {
+        "sources": [
+            "2026-04-18_justice-gov_sanford-spam-king-wallace-sentenced-two-and-half-years-custody-spamming-facebook-users",
+            "2016-06-15_theregister_spam-king-sent-down-for-30-months",
+            "2016-06-15_siliconangle_facebook-spammer-sanford-spam-king-wallace-given-30-months-in-jail",
+            "2016-06-16_fortune_spam-king-sanford-wallace-gets-30-months-in-prison",
+            "2016-06-16_csmonitor_why-self-proclaimed-spam-king-got-30-months-in-prison-for-facebook-hack",
+        ],
+    },
+    "operation-us-v-of-illegal-procurement-of": {
+        "sources": [
+            "2026-04-18_justice-gov_estonian-national-extradited-estonia-face-charges-illegal-procurement-us-electronics",
+            "2019-03-21_cbsnews_man-accused-of-smuggling-electronics-russia-charges-san-francisco",
+            "2019-03-21_err_us-court-charges-two-men-of-smuggling-microchips-to-russia-via-estonia",
+            "2019-07-18_winston-strawn_september-2017-indictment-alleges-charges-of-illegal-procurement-of-us-electronics",
+            "2019-03-21_courthousenews_two-men-accused-smuggling-us-electronics-russia",
+        ],
+    },
+    "operation-us-v-to-five-years-for": {
+        "sources": [
+            "2026-04-18_justice-gov_uk-citizen-sentenced-five-years-cybercrime-offenses",
+            "2023-06-23_krebsonsecurity_uk-cyber-thug-plugwalkjoe-gets-5-years-in-prison",
+            "2023-06-23_secureworld_plugwalkjoe-prison-twitter-hack",
+            "2023-06-23_bloomberg_twitter-hacker-bitcoin-scheme-five-years-prison",
+            "2023-05-10_cnn_uk-citizen-extradited-us-pleads-guilty-2020-twitter-hack",
+        ],
+    },
+    "operation-us-v-with-production-of-child-and-mountain-view-resident": {
+        "sources": [
+            "2026-04-18_justice-gov_mountain-view-resident-charged-production-child-pornography-and-cyberstalking",
+            "2017-05-26_patch_federal-child-porn-production-distribution-charges-filed-against-mountain-view-man",
+            "2019-01-29_usss_secret-service-san-francisco-electronic-crimes-task-force-investigation-leads-186-month",
+            "2019-01-29_patch_mountain-view-man-convicted-of-child-porn-sentenced-to-15-years",
+            "2019-01-31_mountainviewvoice_mountain-view-man-sentenced-to-15-years-on-child-porn-charges",
+        ],
+    },
+    "operation-us-v-tan-dark-web": {
+        "sources": [
+            "2024-01-24_ndca_tony-tan-dark-web-sentencing",
+            "2024-01-24_dea-gov_dark-web-vendor-sentenced-18-months-meth-pressed-adderall",
+            "2024-01-24_kron4_man-gets-18-months-federal-prison-dark-web-drug-dealing",
+            "2024-01-26_todaycybernews_dark-web-vendor-tony-tan-sentenced-18-months-meth-laced-counterfeit-adderall",
+            "2024-01-24_justice-gov_united-states-v-tony-tan",
+        ],
+    },
+    "operation-us-v-ronald-victor-solakian": {
+        "sources": [
+            "2026-04-18_justice-gov_sonoma-county-resident-sentenced-30-months-prison-passport-fraud-and-identity-theft",
+            "2018-11-07_fox40_fugitive-using-dead-childs-name-caught-sonoma-county",
+            "2018-11-07_nbcbayarea_fugitive-using-dead-childs-name-caught-california",
+            "2018-11-07_sonomanews_fugitive-discovered-sonoma-county-after-23-years",
+            "2018-11-08_pressdemocrat_captured-fugitive-stole-identity",
+        ],
+    },
+    "operation-us-v-maxito-pean": {
+        "sources": [
+            "2026-04-18_justice-gov_san-jose-man-sentenced-27-months-imprisonment-money-laundering",
+            "2014-12-04_cbsnews_fed-jury-indicts-haitian-man-email-takeover-scam-233k-norcal",
+            "2014-12-04_justice-gov_haitian-man-charged-200000-email-takeover-scam-saratoga",
+            "2014-12-05_haitianbusiness_haitian-man-maxito-pean-indicted-saratoga-233000-email-scam",
+            "2014-12-04_courtlistener_united-states-v-pean-5-14-cr-00543",
+        ],
+    },
+    "operation-kansas-farmer-indicted-for-insurance-fraud": {
+        "sources": [
+            "2026-04-18_justice-gov_kansas-farmer-indicted-insurance-fraud",
+            "2025-11-27_kwch_kansas-farmer-indicted-for-insurance-fraud",
+            "2025-11-27_kake_kansas-farmer-indicted-for-crop-loss-insurance-fraud",
+            "2026-04-04_audacy-knss_kansas-farmer-pleads-guilty-to-crop-insurance-fraud",
+            "2026-04-07_eurekaherald_kansas-farmer-pled-guilty-to-crop-insurance-fraud",
+        ],
+    },
+    "operation-kansas-man-pleads-guilty-to-child-pornography-possession": {
+        "sources": [
+            "2026-04-18_justice-gov_kansas-man-pleads-guilty-child-pornography-possession",
+            "2025-01-17_kwch_wichita-man-pleads-guilty-child-pornography-possession",
+            "2025-01-20_wibw_kansas-man-pleads-guilty-child-pornography-possession",
+            "2025-01-21_greatbendpost_international-child-porn-investigation-led-to-kan-mans-arrest",
+            "2025-01-18_ksnw_wichita-man-pleads-guilty-child-porn-possession",
+        ],
+    },
+    "operation-men-indicted-for-crimes-related-to-securities-fraud": {
+        "sources": [
+            "2026-04-18_justice-gov_men-indicted-crimes-related-securities-fraud",
+            "2025-12-16_kwch_3-men-charged-multi-million-dollar-ponzi-scheme-derby-business",
+            "2025-12-16_audacy-knss_three-men-indicted-in-wichita-for-a-ponzi-scheme",
+            "2025-12-17_kake_three-men-charged-ponzi-scheme-derby-business",
+            "2025-12-16_audacy-kmbz_three-men-indicted-in-wichita-for-a-ponzi-scheme",
+        ],
+    },
+    "operation-nebraska-businessman-indicted-for-fraud": {
+        "sources": [
+            "2026-04-18_justice-gov_nebraska-businessman-indicted-fraud",
+            "2025-03-13_kctv5_contractor-charged-after-700k-defrauded-customers-nationwide",
+            "2025-03-13_wibw_contractor-charged-after-700k-defrauded-customers-nationwide",
+            "2025-03-13_kwch_contractor-indicted-defrauding-customers-across-midwest-700k",
+            "2026-01-16_wibw_nebraska-contractor-sentenced-prison-building-barndominiums-fraud-scheme",
+        ],
+    },
+    "operation-overland-park-men-indicted-for-investment-fraud-scheme": {
+        "sources": [
+            "2026-04-18_justice-gov_overland-park-men-indicted-investment-fraud-scheme",
+            "2025-11-24_wibw_two-overland-park-men-indicted-4m-investment-fraud",
+            "2025-11-24_kctv5_pair-overland-park-men-indicted-investment-fraud-scheme",
+            "2025-12-07_salinapost_two-kansas-men-accused-of-using-investors-money-luxury-trips",
+            "2025-12-07_littleapplepost_two-kansas-men-accused-of-using-investors-money-luxury-trips",
+        ],
+    },
+    "operation-us-v-alexander-james-rosell": {
+        "sources": [
+            "2026-04-18_justice-gov_kansas-man-pleads-guilty-child-pornography-possession",
+            "2025-01-17_kwch_wichita-man-pleads-guilty-child-pornography-possession",
+            "2025-01-20_wibw_kansas-man-pleads-guilty-child-pornography-possession",
+            "2025-01-21_greatbendpost_international-child-porn-investigation-led-to-kan-mans-arrest",
+            "2025-01-18_ksnw_wichita-man-pleads-guilty-child-porn-possession",
+        ],
+    },
+    "operation-us-v-baha-ibrahim-and-jawad-albadawi": {
+        "sources": [
+            "2026-04-18_justice-gov_overland-park-men-indicted-investment-fraud-scheme",
+            "2025-11-24_wibw_two-overland-park-men-indicted-4m-investment-fraud",
+            "2025-11-24_kctv5_pair-overland-park-men-indicted-investment-fraud-scheme",
+            "2025-12-07_salinapost_two-kansas-men-accused-of-using-investors-money-luxury-trips",
+            "2025-12-07_littleapplepost_two-kansas-men-accused-of-using-investors-money-luxury-trips",
+        ],
+    },
+    "operation-us-v-eric-caleb-carlson": {
+        "sources": [
+            "2026-04-18_justice-gov_former-school-employee-pleads-guilty-child-porn-charge",
+            "2023-11-03_kwch_former-wichita-school-employee-pleads-guilty-child-porn-charge",
+            "2023-11-03_wibw_former-wichita-school-employee-pleads-guilty-child-porn-charge",
+            "2023-11-04_jcpost_former-kan-school-employee-downloaded-child-porn-from-dark-web",
+            "2023-11-03_wichita-eagle_former-wichita-public-schools-it-worker-pleads-guilty-federal-child-porn-charge",
+        ],
+    },
+    "operation-us-v-julia-roberts-and-vicki-robinson": {
+        "sources": [
+            "2026-04-18_justice-gov_wyandotte-county-district-court-bookkeepers-indicted-900000-wire-fraud-scheme",
+            "2025-09-05_heartlander_wyandotte-county-court-bookkeepers-federally-indicted-embezzling-nearly-million",
+            "2025-09-05_kctv5_pair-bookkeepers-federally-charged-after-900k-stolen-courts-account",
+            "2025-09-05_kshb_feds-charge-pair-in-scheme-to-steal-900000-from-wyandotte-county-district-court",
+            "2025-09-05_audacy-knss_kansas-court-bookkeepers-indicted-for-wire-fraud",
+        ],
+    },
+    "operation-us-v-steve-parish-richard-dean-and-joshua-owen": {
+        "sources": [
+            "2026-04-18_justice-gov_men-indicted-crimes-related-securities-fraud",
+            "2025-12-16_kwch_3-men-charged-multi-million-dollar-ponzi-scheme-derby-business",
+            "2025-12-16_audacy-knss_three-men-indicted-in-wichita-for-a-ponzi-scheme",
+            "2025-12-17_kake_three-men-charged-ponzi-scheme-derby-business",
+            "2025-12-16_audacy-kmbz_three-men-indicted-in-wichita-for-a-ponzi-scheme",
+        ],
+    },
+    "operation-wyandotte-county-district-court-bookkeepers-indicted-in-900-000-wire-fraud-scheme": {
+        "sources": [
+            "2026-04-18_justice-gov_wyandotte-county-district-court-bookkeepers-indicted-900000-wire-fraud-scheme",
+            "2025-09-05_heartlander_wyandotte-county-court-bookkeepers-federally-indicted-embezzling-nearly-million",
+            "2025-09-05_kctv5_pair-bookkeepers-federally-charged-after-900k-stolen-courts-account",
+            "2025-09-05_kshb_feds-charge-pair-in-scheme-to-steal-900000-from-wyandotte-county-district-court",
+            "2025-09-05_audacy-knss_kansas-court-bookkeepers-indicted-for-wire-fraud",
+        ],
+    },
 
 }
 

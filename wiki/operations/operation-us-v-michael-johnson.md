@@ -64,11 +64,21 @@ sources:
   - "[[2026-04-18_justice-gov_pittsburg-resident-pleads-guilty-stolen-identity-tax-fraud]]"
 summary: "This domestic-only U.S. follow-on record has been absorbed into the canonical case page [[us-v-michael-johnson]]. No visible cross-border mechanism is documented, so it is not treated as a separate international-cooperation operation."
 created: 2026-04-18
-updated: 2026-04-22
+updated: 2026-04-25
 ---
 ## Summary
 
 This domestic-only U.S. follow-on record has been absorbed into the canonical case page [[us-v-michael-johnson]]. No visible cross-border mechanism is documented, so it is not treated as a separate international-cooperation operation.
+
+> [!info] Source enrichment — single-source justification (2026-04-25)
+> Searched for additional credible sources covering this defendant/case:
+> - DOJ follow-up press releases (sentencing/conviction): a separate 2017 sentencing press release exists ("Pittsburg Resident Sentenced To 84 Months") but for a different defendant in a related case, not Michael Johnson directly
+> - Parallel federal agency press releases (FBI/DEA/IRS-CI/ICE/HSI): not found
+> - Court records (CourtListener / PACER / midpage / justia): not found with narrative coverage
+> - Local press coverage in Pittsburg / Antioch / East Bay: only DataBreaches.net repost of the 2015 charge announcement (already represented by the original DOJ source)
+> - Specialized trade press: not found (case lacks cyber/IC elements warranting trade coverage)
+>
+> This appears to be a single-press-release domestic action with no independent secondary coverage of Michael Johnson personally. `source_count: 1` is retained per LESSON L19 (do not assert sources that do not exist).
 
 ## Canonical Record
 

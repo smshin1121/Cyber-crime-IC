@@ -46,25 +46,29 @@ results:
   other:
     - "Defendant-specific follow-on action derived from [[us-v-alexey-viktorovich-chertkov-kirill-vladimirovich-morozov-aleksandr-aleksandrovich-shi]]"
 edges:
-  []
+
 credibility_index: 4.0
 source_tier: 1
 missing_fields:
-  []
+
 related_cases:
   - "[[us-v-alexey-viktorovich-chertkov-kirill-vladimirovich-morozov-aleksandr-aleksandrovich-shi]]"
 related_operations:
-  []
+
 challenges_encountered:
-  []
+
 lessons_learned:
-  []
-source_count: 1
+
+source_count: 5
 sources:
   - "[[2026-04-18_justice-gov_botnet-dismantled-international-operation-russian-and-kazakhstani-administrators]]"
+  - "[[2025-05-09_tulsaworld_four-charged-46-million-international-hacking-scheme-oklahoma-computers]]"
+  - "[[2025-05-09_techcrunch_fbi-dutch-police-seize-shut-down-botnet-hacked-routers]]"
+  - "[[2025-05-09_bleepingcomputer_police-dismantles-botnet-selling-hacked-routers-as-residential-proxies]]"
+  - "[[2025-05-09_cyberscoop_us-seizes-anyproxy-5socks-botnets-indicts-administrators]]"
 summary: "This domestic-only U.S. follow-on record has been absorbed into the canonical case page [[us-v-alexey-viktorovich-chertkov-kirill-vladimirovich-morozov-aleksandr-aleksandrovich-shi]]. No visible cross-border mechanism is documented, so it is not treated as a separate international-cooperation operation."
 created: 2026-04-18
-updated: 2026-04-22
+updated: 2026-04-25
 ---
 ## Summary
 
@@ -76,6 +80,10 @@ This domestic-only U.S. follow-on record has been absorbed into the canonical ca
 
 ## References
 
-| # | Source | Publisher | Date | URL |
+| # | Title | Publisher | Date | URL |
 |---|---|---|---|---|
 | [1] | Botnet Dismantled in International Operation, Russian and Kazakhstani Administrators Indicted | US DOJ USAO | 2025-05-09 | https://www.justice.gov/usao-ndok/pr/botnet-dismantled-international-operation-russian-and-kazakhstani-administrators |
+| [2] | Four charged in $46 million international hacking scheme involving Oklahoma computers | Tulsa World | 2025-05-09 | https://tulsaworld.com/news/local/crime-courts/article_570d0ad1-6b40-4816-a534-1ebf5e40b017.html |
+| [3] | FBI and Dutch police seize and shut down botnet of hacked routers | TechCrunch | 2025-05-09 | https://techcrunch.com/2025/05/09/fbi-and-dutch-police-seize-and-shut-down-botnet-of-hacked-routers/ |
+| [4] | Police dismantles botnet selling hacked routers as residential proxies | BleepingComputer | 2025-05-09 | https://www.bleepingcomputer.com/news/security/police-dismantles-botnet-selling-hacked-routers-as-residential-proxies/ |
+| [5] | US seizes Anyproxy, 5socks botnets and indicts alleged administrators | CyberScoop | 2025-05-09 | https://cyberscoop.com/anyproxy-5socks-botnets-seized/ |

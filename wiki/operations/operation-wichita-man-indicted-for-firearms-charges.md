@@ -64,11 +64,21 @@ sources:
   - "[[2026-04-18_justice-gov_wichita-man-indicted-firearms-charges]]"
 summary: "This domestic-only U.S. follow-on record has been absorbed into the canonical case page [[wichita-man-indicted-for-firearms-charges]]. No visible cross-border mechanism is documented, so it is not treated as a separate international-cooperation operation."
 created: 2026-04-18
-updated: 2026-04-22
+updated: 2026-04-25
 ---
 ## Summary
 
 This domestic-only U.S. follow-on record has been absorbed into the canonical case page [[wichita-man-indicted-for-firearms-charges]]. No visible cross-border mechanism is documented, so it is not treated as a separate international-cooperation operation.
+
+> [!info] Source enrichment — single-source justification (2026-04-25)
+> Searched for additional credible sources covering this defendant/case (Charles E. Colbert Jr., 26, Wichita, Dec 11, 2025 indictment for illegal possession of a machine gun and prohibited person in possession of a firearm):
+> - DOJ follow-up press releases (plea/sentencing): not found (case still pending)
+> - Parallel federal agency press releases (ATF.gov: search returned only an unrelated Wichita robbery case): not found
+> - Court records (CourtListener / PACER / midpage / justia): not found in searchable indexes
+> - Local press coverage: only KWCH Wichita and KAKE Wichita confirmed — both same-day (Dec 11, 2025) — short of 4-extra threshold
+> - Specialized trade press: case lacks cyber/IC elements warranting trade coverage
+>
+> This appears to be a single-press-release domestic firearms case with only minimal local Wichita TV coverage and no parallel ATF release, follow-up DOJ press release, or out-of-market press. `source_count: 1` is retained per LESSON L19 (do not assert sources that do not exist).
 
 ## Canonical Record
 

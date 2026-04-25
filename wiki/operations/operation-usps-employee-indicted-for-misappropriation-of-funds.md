@@ -64,11 +64,21 @@ sources:
   - "[[2026-04-18_justice-gov_usps-employee-indicted-misappropriation-funds]]"
 summary: "This domestic-only U.S. follow-on record has been absorbed into the canonical case page [[usps-employee-indicted-for-misappropriation-of-funds]]. No visible cross-border mechanism is documented, so it is not treated as a separate international-cooperation operation."
 created: 2026-04-18
-updated: 2026-04-22
+updated: 2026-04-25
 ---
 ## Summary
 
 This domestic-only U.S. follow-on record has been absorbed into the canonical case page [[usps-employee-indicted-for-misappropriation-of-funds]]. No visible cross-border mechanism is documented, so it is not treated as a separate international-cooperation operation.
+
+> [!info] Source enrichment — single-source justification (2026-04-25)
+> Searched for additional credible sources covering this defendant/case (Dalton R. Garcia, 33, Brewster KS, USPS employee, Feb 2026 indictment for misappropriation of postal funds):
+> - DOJ follow-up press releases (sentencing/conviction): not found (case still pending)
+> - Parallel federal agency press releases (USPS-OIG / USPIS public release): not found at OIG investigative news releases page
+> - Court records (CourtListener / PACER / midpage / justia): not found in searchable indexes
+> - Local press coverage in Wichita / Topeka / KC (KWCH, KAKE, KCTV5, KSHB, Wichita Eagle, Kansas City Star): only WIBW Topeka, postalemployeenetwork.com (trade blog), KSAL Salina, and KSN/KSNW Wichita — KSN repeatedly returned HTTP 403, leaving 3 confirmed secondary sources, below the 4-extra threshold
+> - Specialized trade press: postalemployeenetwork.com is the only trade outlet (already counted)
+>
+> Coverage is real but thin; falls one source short of the (C) reinforcement threshold. `source_count: 1` is retained per LESSON L19 (do not assert sources that do not exist).
 
 ## Canonical Record
 

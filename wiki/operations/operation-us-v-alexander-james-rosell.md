@@ -46,25 +46,29 @@ results:
   other:
     - "Defendant-specific follow-on action derived from [[us-v-alexander-james-rosell]]"
 edges:
-  []
+
 credibility_index: 4.0
 source_tier: 1
 missing_fields:
-  []
+
 related_cases:
   - "[[us-v-alexander-james-rosell]]"
 related_operations:
-  []
+
 challenges_encountered:
-  []
+
 lessons_learned:
-  []
-source_count: 1
+
+source_count: 5
 sources:
   - "[[2026-04-18_justice-gov_kansas-man-pleads-guilty-child-pornography-possession]]"
+  - "[[2025-01-17_kwch_wichita-man-pleads-guilty-child-pornography-possession]]"
+  - "[[2025-01-20_wibw_kansas-man-pleads-guilty-child-pornography-possession]]"
+  - "[[2025-01-21_greatbendpost_international-child-porn-investigation-led-to-kan-mans-arrest]]"
+  - "[[2025-01-18_ksnw_wichita-man-pleads-guilty-child-porn-possession]]"
 summary: "This domestic-only U.S. follow-on record has been absorbed into the canonical case page [[us-v-alexander-james-rosell]]. No visible cross-border mechanism is documented, so it is not treated as a separate international-cooperation operation."
 created: 2026-04-18
-updated: 2026-04-22
+updated: 2026-04-25
 ---
 ## Summary
 
@@ -76,6 +80,10 @@ This domestic-only U.S. follow-on record has been absorbed into the canonical ca
 
 ## References
 
-| # | Source | Publisher | Date | URL |
+| # | Title | Publisher | Date | URL |
 |---|---|---|---|---|
 | [1] | Kansas man pleads guilty to child pornography possession | US DOJ USAO | 2025-01-17 | https://www.justice.gov/usao-ks/pr/kansas-man-pleads-guilty-child-pornography-possession |
+| [2] | Wichita man pleads guilty to child pornography possession | KWCH | 2025-01-17 | https://www.kwch.com/2025/01/17/wichita-man-pleads-guilty-child-pornography-possession/ |
+| [3] | Kansas man pleads guilty to child pornography possession | WIBW | 2025-01-20 | https://www.wibw.com/2025/01/20/kansas-man-pleads-guilty-child-pornography-possession/ |
+| [4] | International child porn investigation led to Kan. man's arrest | Great Bend Post | 2025-01-21 | https://greatbendpost.com/posts/0e44c8d0-af43-40fa-a4fa-3dcd012db87a |
+| [5] | Wichita man pleads guilty to child porn possession | KSNW (via Yahoo News) | 2025-01-18 | https://www.yahoo.com/news/wichita-man-pleads-guilty-child-002546609.html |

@@ -64,11 +64,21 @@ sources:
   - "[[2026-04-18_justice-gov_san-jose-resident-sentenced-year-custody-damaging-computers-silicon-valley-company]]"
 summary: "This domestic-only U.S. follow-on record has been absorbed into the canonical case page [[us-v-robert-saunders]]. No visible cross-border mechanism is documented, so it is not treated as a separate international-cooperation operation."
 created: 2026-04-18
-updated: 2026-04-22
+updated: 2026-04-25
 ---
 ## Summary
 
 This domestic-only U.S. follow-on record has been absorbed into the canonical case page [[us-v-robert-saunders]]. No visible cross-border mechanism is documented, so it is not treated as a separate international-cooperation operation.
+
+> [!info] Source enrichment — single-source justification (2026-04-25)
+> Searched for additional credible sources covering this defendant/case (NetSuite hack):
+> - DOJ follow-up press releases (sentencing/conviction): not found beyond original
+> - Parallel federal agency press releases (FBI/DEA/IRS-CI/ICE/HSI): no parallel FBI release found
+> - Court records (CourtListener / PACER / midpage / justia): docket exists but no narrative coverage
+> - Local press coverage in San Francisco / Bay Area: KRON4 piece from June 2016 covers a different (Kezeor / Agilent) case, not Saunders
+> - Specialized trade press: 3 secondary sources exist (The Register, iTnews, Fugitive Watch) — short of the 4-source threshold for confident reinforcement
+>
+> Tech-press did identify the unnamed Silicon Valley victim as NetSuite. However, the secondary coverage falls just short of the 4-source threshold required for full reinforcement. `source_count: 1` is retained on the operation page per LESSON L19 (do not assert sources that do not exist). The 3 confirmed secondaries are filed in `wiki/sources/` as ingest artifacts but not appended to this operation's frontmatter sources list.
 
 ## Canonical Record
 
