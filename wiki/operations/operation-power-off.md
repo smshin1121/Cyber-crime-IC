@@ -293,12 +293,12 @@ There is no confirmed direct Korean participation in any phase of Operation Powe
 
 ## References
 
-| # | Source | Publisher | Date | URL |
-|---|--------|-----------|------|-----|
+| # | Title | Publisher | Date | URL |
+|---|---|---|---|---|
 | [1] | Law enforcement shuts down 27 DDoS booters ahead of annual Christmas attacks | Europol | 2024-12-11 | https://www.europol.europa.eu/media-press/newsroom/news/law-enforcement-shuts-down-27-ddos-booters-ahead-of-annual-christmas-attacks |
-| [2] | Federal Prosecutors in Los Angeles and Alaska Charge 6 Defendants | US DOJ | 2022-12-14 | https://www.justice.gov/usao-cdca/pr/federal-prosecutors-los-angeles-and-alaska-charge-6-defendants-operating-websites |
-| [3] | Law Enforcement Seizes 9 DDoS-for-Hire Webpages | US DOJ CDCA | 2024-09 | https://www.justice.gov/usao-cdca/pr/law-enforcement-seizes-9-ddos-hire-webpages-part-global-crackdown-booter-and-stresser |
+| [2] | Federal Prosecutors in Los Angeles and Alaska Charge 6 Defendants with Operating Websites that Offered Computer Attack Services | US DOJ | 2022-12-14 | https://www.justice.gov/usao-cdca/pr/federal-prosecutors-los-angeles-and-alaska-charge-6-defendants-operating-websites |
+| [3] | Law Enforcement Seizes 9 DDoS-for-Hire Webpages as Part of Global Crackdown on ‘Booter’ and ‘Stresser’ DDoS Services | US DOJ CDCA | 2024-09-01 | https://www.justice.gov/usao-cdca/pr/law-enforcement-seizes-9-ddos-hire-webpages-part-global-crackdown-booter-and-stresser |
 | [4] | FBI seizes 13 more domains linked to DDoS-for-hire services | Bleeping Computer | 2023-05-09 | https://www.bleepingcomputer.com/news/security/fbi-seizes-13-more-domains-linked-to-ddos-for-hire-services/ |
 | [5] | International crackdown disrupts DDoS-for-hire operations | CyberScoop | 2024-12-12 | https://cyberscoop.com/international-crackdown-disrupts-ddos-for-hire-operations/ |
-| [6] | Operation PowerOFF | Wikipedia | — | https://en.wikipedia.org/wiki/Operation_PowerOFF |
+| [6] | Operation PowerOFF | Wikipedia | 2026-04-17 | https://en.wikipedia.org/wiki/Operation_PowerOFF |
 | [7] | Operation PowerOFF extinguishes 18 more DDoS booters | The Register | 2024-12-12 | https://www.theregister.com/2024/12/12/operation_poweroff_ddos_takedowns/ |

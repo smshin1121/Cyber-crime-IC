@@ -322,12 +322,12 @@ South Korea was not directly involved in the Silk Road investigation or prosecut
 
 ## References
 
-| # | Source | Publisher | Date | URL |
+| # | Title | Publisher | Date | URL |
 |---|---|---|---|---|
-| [1] | Manhattan U.S. Attorney Announces the Indictment of Ross Ulbricht | DOJ SDNY | 2014-02-04 | https://www.justice.gov/usao-sdny/pr/manhattan-us-attorney-announces-indictment-ross-ulbricht-creator-and-owner-silk-road |
+| [1] | Manhattan U.S. Attorney Announces The Indictment Of Ross Ulbricht, The Creator And Owner Of The “Silk Road” Website | DOJ SDNY | 2014-02-04 | https://www.justice.gov/usao-sdny/pr/manhattan-us-attorney-announces-indictment-ross-ulbricht-creator-and-owner-silk-road |
 | [2] | Ross Ulbricht Found Guilty on All Counts | FBI New York | 2015-02-04 | https://www.fbi.gov/contact-us/field-offices/newyork/news/press-releases/ross-ulbricht-the-creator-and-owner-of-the-silk-road-website-found-guilty-in-manhattan-federal-court-on-all-counts |
 | [3] | Ross Ulbricht Sentenced to Life in Federal Prison | US ICE | 2015-05-29 | https://www.ice.gov/news/releases/ross-ulbricht-aka-dread-pirate-roberts-sentenced-life-federal-prison-creating |
 | [4] | Ross Ulbricht Sentenced to Life in Prison | FBI New York | 2015-05-29 | https://www.fbi.gov/contact-us/field-offices/newyork/news/press-releases/ross-ulbricht-aka-dread-pirate-roberts-sentenced-in-manhattan-federal-court-to-life-in-prison |
-| [5] | Irish Man Who Helped Operate Silk Road Sentenced | DOJ SDNY | 2019-07-19 | https://www.justice.gov/usao-sdny/pr/irish-man-who-helped-operate-silk-road-website-sentenced-manhattan-federal-court-over |
+| [5] | Irish Man Who Helped Operate The “Silk Road” Website Sentenced In Manhattan Federal Court To Over Six Years In Prison | DOJ SDNY | 2019-07-19 | https://www.justice.gov/usao-sdny/pr/irish-man-who-helped-operate-silk-road-website-sentenced-manhattan-federal-court-over |
 | [6] | Senior Advisor Arrested in Thailand | US ICE | 2015-12-03 | https://www.ice.gov/news/releases/senior-advisor-operator-shuttered-silk-road-website-arrested-thailand |
-| [7] | Silk Road (marketplace) | Wikipedia | 2025 | https://en.wikipedia.org/wiki/Silk_Road_(marketplace) |
+| [7] | Silk Road (marketplace) | Wikipedia | 2025-01-01 | https://en.wikipedia.org/wiki/Silk_Road_(marketplace |

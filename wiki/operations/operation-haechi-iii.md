@@ -314,10 +314,11 @@ Korea's leadership role in the HAECHI series is consistent with its broader comm
 > not result in formal prosecution.
 
 ## References
-| # | Source | Publisher | Date | URL |
-|---|--------|-----------|------|-----|
+
+| # | Title | Publisher | Date | URL |
+|---|---|---|---|---|
 | [1] | Cyber-enabled financial crime: USD 130 million intercepted in global INTERPOL police operation | INTERPOL | 2022-11-24 | https://www.interpol.int/en/News-and-Events/News/2022/Cyber-enabled-financial-crime-USD-130-million-intercepted-in-global-INTERPOL-police-operation |
 | [2] | Interpol seized $130 million from cybercriminals worldwide | Bleeping Computer | 2022-11-24 | https://www.bleepingcomputer.com/news/security/interpol-seized-130-million-from-cybercriminals-worldwide/ |
 | [3] | Interpol Seized $130 Million from Cybercriminals in Global "HAECHI-III" Crackdown | The Hacker News | 2022-11-24 | https://thehackernews.com/2022/11/interpol-seized-130-million-from.html |
-| [4] | Operation HAECHI III - INTERPOL Arrested 1000 Cyber Criminals & Seized $130 Million | GBHackers | 2022-11 | https://gbhackers.com/operation-haechi-iii/ |
-| [5] | Almost 1,000 suspects arrested in Interpol operation which seized over $129 million | The Record (Recorded Future News) | 2022-11 | https://therecord.media/almost-1000-suspects-arrested-in-interpol-operation-which-seized-over-129-million |
+| [4] | Operation HAECHI III - INTERPOL Arrested 1000 Cyber Criminals & Seized $130 Million | GBHackers | 2022-11-01 | https://gbhackers.com/operation-haechi-iii/ |
+| [5] | Almost 1,000 suspects arrested in Interpol operation which seized over $129 million | The Record (Recorded Future News) | 2022-11-01 | https://therecord.media/almost-1000-suspects-arrested-in-interpol-operation-which-seized-over-129-million |

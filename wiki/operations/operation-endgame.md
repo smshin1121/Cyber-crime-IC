@@ -424,13 +424,13 @@ However, Operation Endgame is relevant to Korean cybersecurity interests in seve
 ## References
 
 | # | Title | Publisher | Date | URL |
-|---|-------|----------|------|-----|
-| [1] | Largest ever operation against botnets hits dropper malware ecosystem | Europol | 2024-05-30 | [link](https://www.europol.europa.eu/media-press/newsroom/news/largest-ever-operation-against-botnets-hits-dropper-malware-ecosystem) |
-| [2] | Operation Endgame: Coordinated Worldwide Law Enforcement Action Against Network of Cybercriminals | FBI | 2024-05-29 | [link](https://www.fbi.gov/news/press-releases/operation-endgame-coordinated-worldwide-law-enforcement-action-against-network-of-cybercriminals) |
-| [3] | Worldwide investigation against cyber crime crowned by success | German BMI | 2024-05-30 | [link](https://www.bmi.bund.de/SharedDocs/kurzmeldungen/EN/2024/05/endgame.html) |
-| [4] | Operation Endgame follow-up leads to five detentions and interrogations as well as server takedowns | Europol | 2025-04-09 | [link](https://www.europol.europa.eu/media-press/newsroom/news/operation-endgame-follow-leads-to-five-detentions-and-interrogations-well-server-takedowns) |
-| [5] | Operation ENDGAME strikes again: the ransomware kill chain broken at its source | Europol | 2025-05-23 | [link](https://www.europol.europa.eu/media-press/newsroom/news/operation-endgame-strikes-again-ransomware-kill-chain-broken-its-source) |
-| [6] | Operation Endgame — official page | Europol | ongoing | [link](https://www.europol.europa.eu/operations-services-and-innovation/operations/operation-endgame) |
-| [7] | 'Operation Endgame' Hits Malware Delivery Platforms | KrebsOnSecurity | 2024-05-30 | [link](https://krebsonsecurity.com/2024/05/operation-endgame-hits-malware-delivery-platforms/) |
-| [8] | U.S. Dismantles DanaBot Malware Network, Charges 16 | The Hacker News | 2025-05-23 | [link](https://thehackernews.com/2025/05/us-dismantles-danabot-malware-network.html) |
-| [9] | DanaBot botnet disrupted, QakBot leader indicted | Help Net Security | 2025-05-23 | [link](https://www.helpnetsecurity.com/2025/05/23/operation-endgame-danabot-botnet-disrupted-qakbot-leader-indicted/) |
+|---|---|---|---|---|
+| [1] | Largest ever operation against botnets hits dropper malware ecosystem - Operation Endgame | Europol | 2024-05-30 | https://www.europol.europa.eu/media-press/newsroom/news/largest-ever-operation-against-botnets-hits-dropper-malware-ecosystem |
+| [2] | Operation Endgame: Coordinated Worldwide Law Enforcement Action Against Network of Cybercriminals | FBI | 2024-05-29 | https://www.fbi.gov/news/press-releases/operation-endgame-coordinated-worldwide-law-enforcement-action-against-network-of-cybercriminals |
+| [3] | Worldwide investigation against cyber crime crowned by success | German BMI | 2024-05-30 | https://www.bmi.bund.de/SharedDocs/kurzmeldungen/EN/2024/05/endgame.html |
+| [4] | Operation Endgame follow-up leads to five detentions and interrogations as well as server takedowns | Europol | 2025-04-09 | https://www.europol.europa.eu/media-press/newsroom/news/operation-endgame-follow-leads-to-five-detentions-and-interrogations-well-server-takedowns |
+| [5] | Operation Endgame strikes again: the ransomware kill chain broken at its source | Europol | 2025-05-23 | https://www.europol.europa.eu/media-press/newsroom/news/operation-endgame-strikes-again-ransomware-kill-chain-broken-its-source |
+| [6] | Operation Endgame — official page | Europol | 2026-04-17 | https://www.europol.europa.eu/operations-services-and-innovation/operations/operation-endgame |
+| [7] | 'Operation Endgame' Hits Malware Delivery Platforms | KrebsOnSecurity | 2024-05-30 | https://krebsonsecurity.com/2024/05/operation-endgame-hits-malware-delivery-platforms/ |
+| [8] | The Hacker News: US Dismantles DanaBot Malware Network (Operation Endgame Phase 2) | The Hacker News | 2025-05-23 | https://thehackernews.com/2025/05/us-dismantles-danabot-malware-network.html |
+| [9] | DanaBot botnet disrupted, QakBot leader indicted | Help Net Security | 2025-05-23 | https://www.helpnetsecurity.com/2025/05/23/operation-endgame-danabot-botnet-disrupted-qakbot-leader-indicted/ |

@@ -184,10 +184,11 @@ No Korean involvement identified. However, given the global user base (124 count
 > not result in formal prosecution.
 
 ## References
+
 | # | Title | Publisher | Date | URL |
-|---|-------|----------|------|-----|
-| [1] | Europol Imminent Monitor RAT | The Hacker News | 2019-11-29 | [link](https://thehackernews.com/2019/11/europol-imminent-monitor-rat.html) |
-| [2] | Notorious RAT spy tool global operation | WeLiveSecurity | 2019-12-03 | [link](https://www.welivesecurity.com/2019/12/03/notorious-rat-spy-tool-global-operation/) |
-| [3] | Imminent Monitor spyware operation undone by opsec mistakes | PortSwigger | 2019-12 | [link](https://portswigger.net/daily-swig/imminent-monitor-spyware-operation-undone-by-opsec-mistakes) |
-| [4] | National Security Wrap 186 | ASPI | 2019-12 | [link](https://www.aspi.org.au/strategist-posts/national-security-wrap-186/) |
-| [5] | Cybercrime site selling hacking tool taken down | Wired-Gov | 2019-12-02 | [link](https://www.wired-gov.net/wg/news.nsf/print/Cybercrime+site+selling+hacking+tool+taken+down+following+international+operation+02122019111500) |
+|---|---|---|---|---|
+| [1] | Europol Imminent Monitor RAT | The Hacker News | 2019-11-29 | https://thehackernews.com/2019/11/europol-imminent-monitor-rat.html |
+| [2] | Notorious RAT spy tool global operation | WeLiveSecurity | 2019-12-03 | https://www.welivesecurity.com/2019/12/03/notorious-rat-spy-tool-global-operation/ |
+| [3] | Imminent Monitor spyware operation undone by opsec mistakes | PortSwigger | 2019-12-01 | https://portswigger.net/daily-swig/imminent-monitor-spyware-operation-undone-by-opsec-mistakes |
+| [4] | National Security Wrap 186 | ASPI | 2019-12-01 | https://www.aspi.org.au/strategist-posts/national-security-wrap-186/ |
+| [5] | Cybercrime site selling hacking tool taken down | Wired-Gov | 2019-12-02 | https://www.wired-gov.net/wg/news.nsf/print/Cybercrime+site+selling+hacking+tool+taken+down+following+international+operation+02122019111500 |
