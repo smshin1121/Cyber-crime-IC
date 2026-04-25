@@ -46,25 +46,29 @@ results:
   other:
     - "Defendant-specific follow-on action derived from [[tennessee-man-indicted-on-federal-charges-in-cyberstalking-and-identity-theft-case]]"
 edges:
-  []
+
 credibility_index: 4.0
 source_tier: 1
 missing_fields:
-  []
+
 related_cases:
   - "[[tennessee-man-indicted-on-federal-charges-in-cyberstalking-and-identity-theft-case]]"
 related_operations:
-  []
+
 challenges_encountered:
-  []
+
 lessons_learned:
-  []
-source_count: 1
+
+source_count: 5
 sources:
   - "[[2026-04-18_justice-gov_tennessee-man-indicted-federal-charges-cyberstalking-and-identity-theft-case]]"
+  - "[[2019-12-19_fbi-gov_cyberstalker-sentenced-maliska]]"
+  - "[[2019-06-17_justice-gov_tennessee-man-pleads-guilty-cyberstalking]]"
+  - "[[2018-07-13_minclaw_civil-case-leads-to-federal-cyberstalking-charges]]"
+  - "[[2018-07-12_bitdefender_tennessee-man-sentenced-17-years-identity-theft]]"
 summary: "This domestic-only U.S. follow-on record has been absorbed into the canonical case page [[tennessee-man-indicted-on-federal-charges-in-cyberstalking-and-identity-theft-case]]. No visible cross-border mechanism is documented, so it is not treated as a separate international-cooperation operation."
 created: 2026-04-18
-updated: 2026-04-22
+updated: 2026-04-25
 ---
 ## Summary
 
@@ -76,6 +80,10 @@ This domestic-only U.S. follow-on record has been absorbed into the canonical ca
 
 ## References
 
-| # | Source | Publisher | Date | URL |
+| # | Title | Publisher | Date | URL |
 |---|---|---|---|---|
 | [1] | Tennessee Man Indicted on Federal Charges in Cyberstalking and Identity Theft Case | US DOJ USAO | 2018-07-12 | https://www.justice.gov/usao-dc/pr/tennessee-man-indicted-federal-charges-cyberstalking-and-identity-theft-case |
+| [2] | Cyberstalker Sentenced | Federal Bureau of Investigation | 2019-12-19 | https://www.fbi.gov/news/stories/cyberstalker-sentenced-121919 |
+| [3] | Tennessee Man Pleads Guilty to Cyberstalking | U.S. Department of Justice, USAO D.D.C. | 2019-06-17 | https://www.justice.gov/usao-dc/pr/tennessee-man-pleads-guilty-cyberstalking |
+| [4] | Civil Case Leads to Federal Cyberstalking Charges | Minc Law | 2018-07-13 | https://www.minclaw.com/federal-indictment-charges-in-cyberstalking-identify-theft-case/ |
+| [5] | Tennessee Man Sentenced to 17 Years in Federal Prison for Identity Theft and Fraud | Bitdefender (Hot for Security blog) | 2018-07-12 | https://www.bitdefender.com/en-us/blog/hotforsecurity/tennessee-man-sentenced-to-17-years-in-federal-prison-for-identity-theft-and-fraud |

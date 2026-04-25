@@ -64,11 +64,21 @@ sources:
   - "[[2026-04-18_justice-gov_marion-county-man-arrested-possession-child-sex-abuse-material]]"
 summary: "This domestic-only U.S. follow-on record has been absorbed into the canonical case page [[marion-county-man-arrested-for-possession-of-child-sex-abuse-material]]. No visible cross-border mechanism is documented, so it is not treated as a separate international-cooperation operation."
 created: 2026-04-18
-updated: 2026-04-22
+updated: 2026-04-25
 ---
 ## Summary
 
 This domestic-only U.S. follow-on record has been absorbed into the canonical case page [[marion-county-man-arrested-for-possession-of-child-sex-abuse-material]]. No visible cross-border mechanism is documented, so it is not treated as a separate international-cooperation operation.
+
+> [!info] Source enrichment - single-source justification (2026-04-25)
+> Searched for additional credible sources covering this defendant/case (Matthew Allen Gahan, Marion County):
+> - DOJ follow-up press releases (sentencing/conviction): exist as separate operation page [[operation-marion-county-man-pleads-guilty-to-production-of-child-sex-abuse-material]], not as parallel coverage of this arrest event
+> - Parallel federal agency press releases (FBI/DEA/IRS-CI/ICE/HSI): not found
+> - Court records (CourtListener / PACER / midpage / justia): docket exists but no narrative coverage
+> - Local press coverage in Ocala: regional outlets (Ocala-News.com) covered the broader Marion County child sex sting series but not this specific defendant at the arrest stage
+> - Specialized trade press: not found (case lacks cyber/IC elements warranting trade coverage)
+>
+> This appears to be a single-press-release domestic CSAM arrest with no independent secondary coverage at the arrest event. `source_count: 1` is retained per LESSON L19 (do not assert sources that do not exist).
 
 ## Canonical Record
 

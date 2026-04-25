@@ -59,12 +59,16 @@ challenges_encountered:
 
 lessons_learned:
 
-source_count: 1
+source_count: 5
 sources:
   - "[[2023-03-22_justice-gov_united-states-v-alex-ogando-olatunji-dawodu-and-luis-spencer]]"
+  - "[[2023-03-22_fda-gov_three-individuals-sentenced-darknet-narcotics-fentanyl]]"
+  - "[[2021-02-25_uspis_three-individuals-arrested-darknet-narcotics-fentanyl]]"
+  - "[[2021-04-21_leagle_us-v-teixeira-spencer-21-145]]"
+  - "[[2021-04-21_govinfo_us-courts-dcd-1-21-cr-00145]]"
 summary: "This domestic-only U.S. follow-on record has been absorbed into the canonical case page [[us-v-alex-ogando-olatunji-dawodu-and-luis-spencer]]. No visible cross-border mechanism is documented, so it is not treated as a separate international-cooperation operation."
 created: 2026-04-17
-updated: 2026-04-22
+updated: 2026-04-25
 ---
 ## Summary
 
@@ -76,6 +80,10 @@ This domestic-only U.S. follow-on record has been absorbed into the canonical ca
 
 ## References
 
-| # | Source | Publisher | Date | URL |
+| # | Title | Publisher | Date | URL |
 |---|---|---|---|---|
 | [1] | Three Individuals Sentenced in Darknet Narcotics Trafficking Conspiracy Involving Distribution of Pills Pressed with Fentanyl | US DOJ (District of Columbia) | 2023-03-22 | https://www.justice.gov/usao-dc/pr/three-individuals-sentenced-darknet-narcotics-trafficking-conspiracy-involving |
+| [2] | Three Individuals Sentenced in Darknet Narcotics Trafficking Conspiracy Involving Distribution of Pills Pressed with Fentanyl | U.S. Food and Drug Administration, Office of Criminal Investigations | 2023-03-22 | https://www.fda.gov/inspections-compliance-enforcement-and-criminal-investigations/doj-press-releases-involving-fda-oci/three-individuals-sentenced-darknet-narcotics-trafficking-conspiracy-involving-distribution-pills |
+| [3] | Three Individuals Arrested for Involvement in Darknet Narcotics Trafficking Involving Pills Pressed with Fentanyl | U.S. Postal Inspection Service | 2021-02-25 | https://www.uspis.gov/news/press-release/three-individuals-arrested-for-involvement-in-darknet-narcotics-trafficking-involving-pills-pressed-with-fenta |
+| [4] | United States v. Teixeira-Spencer, Crim. No. 21-145 (JDB) | Leagle.com | 2021-04-21 | https://www.leagle.com/decision/infdco20210421f70 |
+| [5] | United States District Court for the District of Columbia: 1:21-cr-00145 | U.S. Government Publishing Office (govinfo.gov) | 2021-04-21 | https://www.govinfo.gov/content/pkg/USCOURTS-dcd-1_21-cr-00145/pdf/USCOURTS-dcd-1_21-cr-00145-0.pdf |

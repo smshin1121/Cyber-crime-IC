@@ -51,11 +51,15 @@ challenges_encountered:
 
 lessons_learned:
 
-source_count: 1
+source_count: 5
 sources:
   - "[[2024-02-05_edca_chaloner-saintillus-dark-web-sentencing]]"
+  - "[[2023-04-06_justice-gov_florida-man-pleads-guilty-selling-fentanyl-over-dark-web]]"
+  - "[[2020-12-08_justice-gov_florida-man-indicted-selling-fentanyl-darknet-cryptocurrency]]"
+  - "[[2020-12-09_cbs12_delray-beach-man-indicted-fentanyl-cryptocurrency]]"
+  - "[[2023-04-07_thecyberpost_ncidetf-arrested-chlnsaint-vendor-list]]"
 created: 2026-04-17
-updated: 2026-04-22
+updated: 2026-04-25
 operation_role: follow-on
 parent_operation: ""
 summary: "This domestic-only U.S. follow-on record has been absorbed into the canonical case page [[us-v-chaloner-saintillus-dark-web]]. No visible cross-border mechanism is documented, so it is not treated as a separate international-cooperation operation."
@@ -76,6 +80,10 @@ This domestic-only U.S. follow-on record has been absorbed into the canonical ca
 
 ## References
 
-| # | Source | Publisher | Date | URL |
+| # | Title | Publisher | Date | URL |
 |---|---|---|---|---|
 | [1] | Florida Man Sentenced to 10 Years in Prison for Selling Fentanyl over the Dark Web | US DOJ (Eastern District of California) | 2024-02-05 | https://www.justice.gov/usao-edca/pr/florida-man-sentenced-10-years-prison-selling-fentanyl-over-dark-web |
+| [2] | Florida Man Pleads Guilty to Selling Fentanyl over the Dark Web | US DOJ (Eastern District of California) | 2023-04-06 | https://www.justice.gov/usao-edca/pr/florida-man-pleads-guilty-selling-fentanyl-over-dark-web |
+| [3] | Florida Man Indicted for Selling Fentanyl on the Darknet in Exchange for Cryptocurrency | US DOJ (Eastern District of California) | 2020-12-08 | https://www.justice.gov/usao-edca/pr/florida-man-indicted-selling-fentanyl-darknet-exchange-cryptocurrency |
+| [4] | Delray Beach man indicted for selling fentanyl in exchange for cryptocurrency | CBS12 (West Palm Beach) | 2020-12-09 | https://cbs12.com/news/local/delray-beach-man-indicted-for-selling-fentanyl-in-exchange-for-cryptocurrency |
+| [5] | NCIDETF Adds 'Chlnsaint' to Their Arrested Vendor List | The Cyber Post | 2023-04-07 | https://thecyberpost.com/news/cybercrime/darkweb-news/ncidetf-adds-chlnsaint-to-their-arrested-vendor-list/ |

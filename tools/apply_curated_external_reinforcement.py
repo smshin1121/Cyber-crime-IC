@@ -1603,6 +1603,609 @@ CURATED: dict[str, dict[str, Any]] = {
             "2024-02-02_justice-gov_one-defendant-sentenced-prison-and-another-ordered-detained-pretrial-week-separate",
         ],
     },
+    "operation-former-employee-of-house-member-sentenced-to-prison-term-on-charges-in-cyberstalking-case": {
+        "sources": [
+            "2026-04-18_justice-gov_former-employee-house-member-sentenced-prison-term-charges-cyberstalking-case",
+            "2018-03-08_washingtonpost_us-house-member-still-feels-exposed-stripped-by-ex-aides-cyberstalking-crimes",
+            "2018-01-23_washingtonpost_two-ex-staffers-plead-guilty-in-release-of-explicit-images-of-us-house-member-husband",
+            "2018-01-23_courthousenews_ex-staffers-plead-guilty-to-circulating-explicit-images-of-house-member",
+            "2018-03-08_wjla_ex-house-staffer-sentenced-for-stealing-distributing-nude-images-of-congresswoman",
+        ],
+    },
+    "operation-man-pleads-guilty-to-charges-of-stealing-senate-information-illegally-posting-restricted-personal-information-": {
+        "sources": [
+            "2026-04-18_justice-gov_man-pleads-guilty-charges-stealing-senate-information-illegally-posting-restricted",
+            "2019-04-05_rollcall_senate-doxxing-suspect-pleads-guilty-faces-over-2-years-in-prison",
+            "2018-10-03_washingtontimes_jackson-cosko-democratic-operative-charged-doxxing-senators",
+            "2019-06-19_thedailybeast_ex-senate-staffer-jackson-cosko-sentenced-4-years-doxxing-five-senators",
+            "2019-06-19_washingtonpost_ex-senate-staffer-sentenced-4-years-doxing-gop-senators-kavanaugh-confirmation",
+        ],
+    },
+    "operation-us-v-district-man": {
+        "sources": [
+            "2026-04-18_justice-gov_restricted-personal-information-us-senators-website",
+            "2018-10-03_washingtontimes_jackson-cosko-democratic-operative-charged-doxxing-senators",
+            "2019-04-05_rollcall_senate-doxxing-suspect-pleads-guilty-faces-over-2-years-in-prison",
+            "2019-06-19_washingtonpost_ex-senate-staffer-sentenced-4-years-doxing-gop-senators-kavanaugh-confirmation",
+            "2019-06-19_thedailybeast_ex-senate-staffer-jackson-cosko-sentenced-4-years-doxxing-five-senators",
+        ],
+    },
+    "operation-two-former-employees-of-house-member-indicted-on-federal-charges-in-cyberstalking-case": {
+        "sources": [
+            "2026-04-18_justice-gov_two-former-employees-house-member-indicted-federal-charges-cyberstalking-case",
+            "2017-07-13_cbsnews_ex-house-employees-allegedly-circulated-nude-photos-of-congress-member",
+            "2018-01-23_washingtonpost_two-ex-staffers-plead-guilty-in-release-of-explicit-images-of-us-house-member-husband",
+            "2018-01-23_courthousenews_ex-staffers-plead-guilty-to-circulating-explicit-images-of-house-member",
+            "2018-03-08_washingtonpost_us-house-member-still-feels-exposed-stripped-by-ex-aides-cyberstalking-crimes",
+        ],
+    },
+    "operation-new-york-man-sentenced-to-24-months-in-prison-for-internet-offenses-including-doxing-swatting-making-a-false-b": {
+        "sources": [
+            "2026-04-18_justice-gov_new-york-man-sentenced-24-months-prison-internet-offenses-including-doxing-swatting",
+            "2016-07-12_krebsonsecurity_serial-swatter-stalker-and-doxer-mir-islam-gets-just-1-year-in-jail",
+            "2016-07-12_washingtontimes_mir-islam-hacker-sentenced-targeting-nra-boss-lawmakers-cybercrimes",
+            "2016-07-11_lieu-house-gov_lieu-statement-sentencing-of-his-swatting-perpetrator",
+            "2016-07-15_sophos_serial-swatter-stalker-and-doxer-mir-islam-given-2-years-prison",
+        ],
+    },
+    "operation-notorious-hacker-sentenced-to-18-months-in-prison": {
+        "sources": [
+            "2026-04-18_justice-gov_notorious-hacker-sentenced-18-months-prison",
+            "2023-11-16_securityweek_draftkings-hacker-sentenced-to-18-months-in-prison",
+            "2023-11-15_securityaffairs_draftkings-hacker-sentenced-prison-ordered-pay-1-4-million",
+            "2023-11-15_justice-gov_us-v-thomas-mccormick-case-page",
+            "2023-11-16_cyberwebspider_draftkings-hacker-prison-sentence",
+        ],
+    },
+    "operation-ohio-man-pleads-guilty-for-unlawfully-stealing-over-712-seized-bitcoin-subject-to-forfeiture-in-brothers-pendi": {
+        "sources": [
+            "2026-04-18_justice-gov_ohio-man-pleads-guilty-unlawfully-stealing-over-712-seized-bitcoin-subject-forfeiture",
+            "2023-01-06_coindesk_brother-of-criminal-bitcoin-mixing-ceo-pleads-guilty-stealing-712-bitcoins-irs",
+            "2023-04-21_therecord_brother-helix-crypto-mixer-jailed-stealing-bitcoin",
+            "2023-01-09_chainalysis_investigation-larry-gary-harmon-helix-mixer",
+            "2023-04-21_justice-gov-opa_man-sentenced-for-stealing-over-712-bitcoin-subject-forfeiture",
+        ],
+    },
+    "operation-us-v-gary-james-harmon": {
+        "sources": [
+            "2026-04-18_justice-gov_ohio-man-pleads-guilty-unlawfully-stealing-over-712-seized-bitcoin-subject-forfeiture",
+            "2023-01-06_coindesk_brother-of-criminal-bitcoin-mixing-ceo-pleads-guilty-stealing-712-bitcoins-irs",
+            "2023-04-21_therecord_brother-helix-crypto-mixer-jailed-stealing-bitcoin",
+            "2023-01-09_chainalysis_investigation-larry-gary-harmon-helix-mixer",
+            "2023-04-21_justice-gov-opa_man-sentenced-for-stealing-over-712-bitcoin-subject-forfeiture",
+        ],
+    },
+    "operation-physician-sentenced-to-18-years-in-prison-for-operating-a-pill-mill-from-his-northwest-d-c-medical-practice": {
+        "sources": [
+            "2026-04-18_justice-gov_physician-sentenced-18-years-prison-operating-pill-mill-his-northwest-dc-medical",
+            "2025-06-26_dea-gov_physician-sentenced-18-years-prison-operating-pill-mill-northwest-dc",
+            "2025-06-26_hhs-oig_physician-sentenced-18-years-pill-mill-northwest-dc",
+            "2025-06-26_wjla_maryland-doctor-pill-mill-northwest-dc-okafor",
+            "2025-06-26_oig-dc_physician-sentenced-18-years-pill-mill",
+        ],
+    },
+    "operation-tennessee-man-indicted-on-federal-charges-in-cyberstalking-and-identity-theft-case": {
+        "sources": [
+            "2026-04-18_justice-gov_tennessee-man-indicted-federal-charges-cyberstalking-and-identity-theft-case",
+            "2019-12-19_fbi-gov_cyberstalker-sentenced-maliska",
+            "2019-06-17_justice-gov_tennessee-man-pleads-guilty-cyberstalking",
+            "2018-07-13_minclaw_civil-case-leads-to-federal-cyberstalking-charges",
+            "2018-07-12_bitdefender_tennessee-man-sentenced-17-years-identity-theft",
+        ],
+    },
+    "operation-three-former-department-of-homeland-security-employees-sentenced-in-scheme-to-defraud-the-united-states": {
+        "sources": [
+            "2026-04-18_justice-gov_three-former-department-homeland-security-employees-sentenced-scheme-defraud-united",
+            "2024-01-26_dhs-oig_three-former-dhs-employees-sentenced-scheme-defraud",
+            "2024-01-26_uspsoig_three-former-dhs-employees-sentenced-defraud",
+            "2024-01-31_law360_three-ex-dhs-staffers-prison-probation-software-theft",
+            "2024-01-31_nextgov_former-dhs-employees-sentenced-software-databases-theft",
+        ],
+    },
+    "operation-three-individuals-arrested-for-involvement-in-darknet-narcotics-trafficking-involving-pills-pressed-with-fenta": {
+        "sources": [
+            "2026-04-18_justice-gov_three-individuals-arrested-involvement-darknet-narcotics-trafficking-involving-pills",
+            "2021-02-25_uspis_three-individuals-arrested-darknet-narcotics-fentanyl",
+            "2021-04-21_leagle_us-v-teixeira-spencer-21-145",
+            "2021-04-21_govinfo_us-courts-dcd-1-21-cr-00145",
+            "2021-02-25_wftv_florida-men-bitcoin-darknet-fentanyl-pills",
+        ],
+    },
+    "operation-three-individuals-sentenced-in-darknet-narcotics-trafficking-conspiracy-involving-distribution-of-pills-presse": {
+        "sources": [
+            "2023-03-22_ddc_ogando-dawodu-spencer-darknet-sentencing",
+            "2023-03-22_fda-gov_three-individuals-sentenced-darknet-narcotics-fentanyl",
+            "2021-02-25_uspis_three-individuals-arrested-darknet-narcotics-fentanyl",
+            "2021-04-21_leagle_us-v-teixeira-spencer-21-145",
+            "2021-04-21_govinfo_us-courts-dcd-1-21-cr-00145",
+        ],
+    },
+    "operation-us-v-alex-ogando-olatunji-dawodu-and-luis-spencer": {
+        "sources": [
+            "2023-03-22_justice-gov_united-states-v-alex-ogando-olatunji-dawodu-and-luis-spencer",
+            "2023-03-22_fda-gov_three-individuals-sentenced-darknet-narcotics-fentanyl",
+            "2021-02-25_uspis_three-individuals-arrested-darknet-narcotics-fentanyl",
+            "2021-04-21_leagle_us-v-teixeira-spencer-21-145",
+            "2021-04-21_govinfo_us-courts-dcd-1-21-cr-00145",
+        ],
+    },
+    "operation-maryland-man-sentenced-to-30-months-in-prison-for-cyberstalking-former-girlfriend-and-threatening-workplace-vi": {
+        "sources": [
+            "2026-04-18_justice-gov_maryland-man-sentenced-30-months-prison-cyberstalking-former-girlfriend-and-threatening",
+            "2020-02-13_thedailybeast_feds-ex-nsa-employee-cyberstalked-girlfriend-two-years",
+            "2019-07-25_cryptome_us-v-spann-court-filing",
+            "2020-08-17_congressheightsontherise_maryland-man-sentenced-30-months-cyberstalking",
+            "2020-02-14_bemorelegal_maryland-man-charged-cyberstalking",
+        ],
+    },
+    "operation-us-v-brandon-spann": {
+        "sources": [
+            "2026-04-18_justice-gov_maryland-man-sentenced-30-months-prison-cyberstalking-former-girlfriend-and-threatening",
+            "2020-02-13_thedailybeast_feds-ex-nsa-employee-cyberstalked-girlfriend-two-years",
+            "2019-07-25_cryptome_us-v-spann-court-filing",
+            "2020-08-17_congressheightsontherise_maryland-man-sentenced-30-months-cyberstalking",
+            "2020-02-14_bemorelegal_maryland-man-charged-cyberstalking",
+        ],
+    },
+    "operation-two-arrested-for-alleged-conspiracy-to-launder-4-5-billion-in-stolen-cryptocurrency": {
+        "sources": [
+            "2026-04-18_justice-gov_two-arrested-alleged-conspiracy-launder-45-billion-stolen-cryptocurrency",
+            "2022-02-08_washingtonpost_lichtenstein-morgan-arrested-bitcoin-bitfinex",
+            "2022-02-08_ice-gov_hsi-partners-bitfinex-laundering-arrests",
+            "2022-02-08_coindesk_judge-stops-release-bitfinex-hack-laundering-suspects",
+            "2022-02-08_justice-gov_us-v-ilya-lichtenstein-and-heather-morgan-case-page",
+        ],
+    },
+    "operation-us-v-celeste-santifer": {
+        "sources": [
+            "2026-04-18_justice-gov_virginia-woman-sentenced-prison-fraudulently-ordering-cell-phones-behalf-her-non-profit",
+            "2023-05-04_wusa9_former-ymca-employee-sentenced-41-months-cell-phones",
+            "2022-09-09_courtlistener_us-v-santifer-docket",
+            "2023-05-08_alxnow_alexandria-woman-sentenced-41-months-wire-fraud",
+            "2023-05-04_patch_fraudulent-cell-phone-resales-alexandria-woman",
+        ],
+    },
+    "operation-us-v-david-brian-pate-and-jose-luis-fung-hou": {
+        "sources": [
+            "2026-04-18_justice-gov_american-darknet-vendor-and-costa-rican-pharmacist-charged-narcotics-and-money-laundering",
+            "2020-08-04_cointelegraph_darknet-vendor-pharmacist-270-million-bitcoin-drug-trade",
+            "2020-08-05_qcostarica_renowned-costa-rican-doctor-accused-darknet",
+            "2020-08-05_infosecurity-magazine_silk-road-vendor-indicted-narcotics",
+            "2020-08-04_americanbar_doj-charges-american-darknet-suppliers-costa-rican-pharmacist",
+        ],
+    },
+    "operation-us-v-dutch-national": {
+        "sources": [
+            "2026-04-18_justice-gov_dutch-national-charged-takedown-obscene-website-selling-over-2000-real-rape-and-child",
+            "2020-03-12_washingtonpost_dark-scandals-website-shut-down-arrest-netherlands",
+            "2020-03-12_ice-gov_dutch-national-takedown-dark-scandals",
+            "2020-03-12_coindesk_us-charges-dutch-national-crypto-funded-child-porn-site",
+            "2020-03-12_stltoday_crypto-exchanges-online-child-sex-abuse-profiteer",
+        ],
+    },
+    "operation-us-v-eric-council": {
+        "sources": [
+            "2026-04-18_justice-gov_guilty-plea-hacking-secs-x-account-caused-bitcoin-value-spike",
+            "2025-05-16_justice-gov-opa_alabama-man-sentenced-14-months-sec-x-hack",
+            "2025-05-16_cnbc_sec-bitcoin-hack-alabama-man-sentenced-14-months",
+            "2024-10-17_washingtontimes_eric-council-jr-arrested-sec-social-media-hack",
+            "2025-05-17_coindesk_alabama-man-sentenced-hacking-secs-social-media-fake-bitcoin-etf",
+        ],
+    },
+    "operation-us-v-evan-tangeman": {
+        "sources": [
+            "2026-04-18_justice-gov_guilty-plea-and-superseding-indictment-announced-social-engineering-scheme-stole-263",
+            "2025-12-08_irs-gov_guilty-plea-superseding-indictment-263-million-cryptocurrency",
+            "2025-12-08_decrypt_ninth-defendant-pleads-guilty-263m-crypto-scheme",
+            "2025-12-08_theblock_22-year-old-guilty-263-million-crypto-syndicate",
+            "2025-12-08_ktla_socal-man-laundered-263-million-stolen-crypto",
+        ],
+    },
+    "operation-us-v-four-international-hacking-suspects": {
+        "sources": [
+            "2026-04-18_justice-gov_four-international-hacking-suspects-charged-racketeering",
+            "2019-06-06_krebsonsecurity_darkode-racketeering-indictment-pdf",
+            "2019-06-06_total-slovenia-news_us-charges-nicehash-founder-skorjanc",
+            "2019-06-09_scworld_court-unseals-darkode-hacking-forum-indictment",
+            "2019-08-15_cybersecurityventures_hack-blotter-q3-2019",
+        ],
+    },
+    "operation-us-v-four-russian-government-employees": {
+        "sources": [
+            "2026-04-18_justice-gov_four-russian-government-employees-charged-two-historical-hacking-campaigns-targeting",
+            "2022-03-24_fbi-gov_russian-government-employees-charged-hacking-campaigns",
+            "2022-03-24_darkreading_russian-state-sponsored-trisis-dragonfly-energy-indictment",
+            "2022-03-25_techcrunch_us-charges-four-russian-spies-saudi-oil-us-nuclear",
+            "2022-03-24_cyberscoop_doj-charges-russians-trisis-critical-infrastructure",
+        ],
+    },
+    "operation-us-v-haider-ali-and-arian-taherzadeh": {
+        "sources": [
+            "2026-04-18_justice-gov_virginia-man-sentenced-federal-prison-conspiring-impersonate-federal-law-enforcement",
+            "2023-12-08_secretservice_dc-man-sentenced-impersonate-federal-law-enforcement",
+            "2022-04-07_washingtonpost_man-posed-as-dhs-worker-pakistani-intelligence",
+            "2022-04-08_cbsnews_two-men-posing-federal-agents-indicted",
+            "2023-08-09_fox5dc_virginia-man-impersonated-federal-agent-sentenced-six-years",
+        ],
+    },
+    "operation-russian-malware-developer-arrested-and-extradited-to-the-united-states": {
+        "sources": [
+            "2023-02-22_justice-gov_united-states-v-dariy-pankov",
+            "2023-02-23_theregister_suspected-russian-nlbrute-malware-boss-extradited-to-us",
+            "2023-02-22_cyberscoop_russian-national-accused-of-developing-selling-malware-appears-in-us-court",
+            "2023-02-22_therecord_russian-accused-of-developing-password-cracking-tool-extradited-to-us",
+            "2023-02-23_securityaffairs_alleged-author-of-nlbrute-malware-was-extradited-to-us",
+        ],
+    },
+    "operation-russian-malware-developer-pleads-guilty-to-conspiracy-to-commit-wire-and-computer-fraud": {
+        "sources": [
+            "2026-04-18_justice-gov_russian-malware-developer-pleads-guilty-conspiracy-commit-wire-and-computer-fraud",
+            "2023-09-14_securityaffairs_dariy-pankov-nlbrute-malware-author-pleads-guilty",
+            "2023-09-14_securityweek_extradited-russian-hacker-behind-nlbrute-malware-pleads-guilty",
+            "2023-09-15_hackread_russian-malware-developer-behind-nlbrute-extradited-pleads-guilty",
+            "2023-09-15_bitdefender_russian-malware-developer-behind-nlbrute-faces-five-years-in-prison",
+        ],
+    },
+    "operation-ukrainian-cyber-criminal-extradited-for-decrypting-the-credentials-of-thousands-of-computers-across-the-world-": {
+        "sources": [
+            "2021-09-08_mdfl_ivanov-tolpintsev-xdedic-extradition",
+            "2021-09-09_tampafreepress_ukrainian-cyber-criminal-extradited-to-tampa-faces-17-years",
+            "2021-09-08_bleepingcomputer_ukrainian-extradited-for-selling-2000-stolen-logins-per-week",
+            "2021-09-08_therecord_ukrainian-indicted-for-running-brute-force-botnet-selling-hacked-pc-accounts",
+            "2021-09-09_rferl_ukrainian-extradited-to-us-to-face-hacking-charges",
+        ],
+    },
+    "operation-ssndob-marketplace-administrator-pleads-guilty-to-charges-related-to-his-operation-of-a-series-of-websites-tha": {
+        "sources": [
+            "2026-04-18_justice-gov_ssndob-marketplace-administrator-pleads-guilty-charges-related-his-operation-series",
+            "2023-08-11_bleepingcomputer_ssndob-cybercrime-market-admin-faces-15-years-after-pleading-guilty",
+            "2023-08-14_infosecurity_ssndob-marketplace-admin-pleads-guilty",
+            "2023-08-11_flashpoint_ssndob-marketplace-admin-pleads-guilty-to-fraud-trafficking-pii",
+            "2023-08-12_databreaches_ssndob-marketplace-admin-guilty-plea",
+        ],
+    },
+    "operation-nigerian-national-sentenced-to-more-than-six-years-in-federal-prison-for-international-tax-fraud-scheme": {
+        "sources": [
+            "2022-12-05_justice-gov_united-states-v-allen-levinson",
+            "2022-02-03_irs-ci_nigerian-citizen-extradited-from-uk-arraigned-wire-fraud-stolen-tax-information",
+            "2021-12-08_doj-opa_nigerian-national-extradited-from-united-kingdom-to-face-fraud-charges",
+            "2022-12-13_fij_nigerian-linked-with-dark-web-wanted-to-defraud-us-govt-of-63m",
+            "2022-12-19_accountingtoday_tax-fraud-blotter-standing-corrected-levinson",
+        ],
+    },
+    "operation-rico-conspirators-responsible-for-nationwide-computer-intrusions-and-tax-fraud-sentenced-to-federal-prison": {
+        "sources": [
+            "2026-04-18_justice-gov_rico-conspirators-responsible-nationwide-computer-intrusions-and-tax-fraud-sentenced",
+            "2023-12-19_tampafreepress_9-rico-conspirators-in-florida-sentenced-for-cybercrimes-millions-in-tax-fraud",
+            "2024-01-08_progressiveaccountant_ptin-thieves-sentenced",
+            "2022-11-22_irs-ci_band-of-cybercriminals-responsible-for-computer-intrusions-nationwide-indicted-rico",
+            "2023-12-21_databreaches_rico-conspirators-sentenced-computer-intrusions-tax-fraud",
+        ],
+    },
+    "operation-jumbotron-hacker-and-prolific-child-molester-sentenced-to-220-years-in-federal-prison": {
+        "sources": [
+            "2026-04-18_justice-gov_jumbotron-hacker-and-prolific-child-molester-sentenced-220-years-federal-prison",
+            "2024-03-26_jacksonvilletoday_jumbotron-hacker-sex-offender-220-years",
+            "2024-03-26_cbsmiami_jumbotron-hacker-jaguars-stadium-220-years",
+            "2024-03-26_nbcmiami_jumbotron-hacker-sex-offender-220-years",
+            "2024-03-26_foxnews_jumbotron-hacker-sentenced-220-years-child-sex-abuse-material",
+        ],
+    },
+    "operation-st-augustine-serial-child-molester-convicted-of-hacking-jumbotron-child-exploitation-offenses-sex-offender-reg": {
+        "sources": [
+            "2026-04-18_justice-gov_st-augustine-serial-child-molester-convicted-hacking-jumbotron-child-exploitation",
+            "2023-11-17_washingtontimes_samuel-arthur-thompson-sex-offender-found-guilty-jumbotron",
+            "2023-11-21_jacksonvilletoday_sex-offender-convicted-of-hacking-jaguars-jumbotron",
+            "2024-03-27_yahoosports_ex-jaguars-employee-hacked-jumbotron-sentenced-220",
+            "2024-03-26_outkick_former-jacksonville-jaguars-employee-hacked-jumbotron-sentenced",
+        ],
+    },
+    "operation-pennsylvania-man-convicted-of-distributing-fentanyl-analogue-that-killed-orlando-woman": {
+        "sources": [
+            "2026-04-18_justice-gov_pennsylvania-man-convicted-distributing-fentanyl-analogue-killed-orlando-woman",
+            "2018-04-27_dea_pennsylvania-man-sentenced-life-distributing-fentanyl-analogue-orlando-woman",
+            "2018-04-27_seattletimes_man-gets-life-fatal-synthetic-opioid-overdose-achey",
+            "2018-04-30_darknetlive_alphabay-vendor-etiking-sentenced-to-life-in-prison",
+            "2018-04-12_chainalysis_analyzing-fentanyl-dealer-cryptocurrency-transactions",
+        ],
+    },
+    "operation-u-s-based-conspirators-sentenced-to-prison-for-international-tax-scheme": {
+        "sources": [
+            "2023-11-29_mdfl_adejumo-jinadu-xdedic-sentencing",
+            "2023-08-21_occrp_us-two-plead-guilty-to-transnational-tax-fraud-scheme",
+            "2023-12-03_accountingtoday_tax-fraud-blotter-fishy-adejumo-jinadu",
+            "2023-08-21_shorenewsnetwork_guilty-pleas-transnational-tax-fraud-scheme",
+            "2021-09-15_zebranews_adetunji-adejumo-nigerian-fraudsters-federally-charged-wire-fraud-conspiracy",
+        ],
+    },
+    "operation-us-v-adetunji-adejumo-and-ibrahim-jinadu": {
+        "sources": [
+            "2023-11-29_justice-gov_united-states-v-adetunji-adejumo-and-ibrahim-jinadu",
+            "2023-08-21_occrp_us-two-plead-guilty-to-transnational-tax-fraud-scheme",
+            "2023-12-03_accountingtoday_tax-fraud-blotter-fishy-adejumo-jinadu",
+            "2023-08-21_shorenewsnetwork_guilty-pleas-transnational-tax-fraud-scheme",
+            "2021-09-15_zebranews_adetunji-adejumo-nigerian-fraudsters-federally-charged-wire-fraud-conspiracy",
+        ],
+    },
+    "operation-us-v-and-prolific-child-molester": {
+        "sources": [
+            "2026-04-18_justice-gov_jumbotron-hacker-and-prolific-child-molester-sentenced-220-years-federal-prison",
+            "2024-03-26_jacksonvilletoday_jumbotron-hacker-sex-offender-220-years",
+            "2024-03-26_cbsmiami_jumbotron-hacker-jaguars-stadium-220-years",
+            "2024-03-26_nbcmiami_jumbotron-hacker-sex-offender-220-years",
+            "2024-03-26_foxnews_jumbotron-hacker-sentenced-220-years-child-sex-abuse-material",
+        ],
+    },
+    "operation-rico-conspirator-convicted-at-trial": {
+        "sources": [
+            "2026-04-18_justice-gov_rico-conspirator-convicted-trial",
+            "2023-11-08_wsbt_man-convicted-dickenson-elan-making-millions-fake-tax-info",
+            "2022-11-22_patch_clearwater-man-among-cybercriminals-accused-stealing-millions",
+            "2023-11-08_foxillinois_dickenson-elan-rico-conspiracy-conviction",
+            "2022-11-22_isssource_8-indicted-for-sophisticated-attacks",
+        ],
+    },
+    "operation-us-v-at-trial": {
+        "sources": [
+            "2026-04-18_justice-gov_rico-conspirator-convicted-trial",
+            "2023-11-08_wsbt_man-convicted-dickenson-elan-making-millions-fake-tax-info",
+            "2022-11-22_patch_clearwater-man-among-cybercriminals-accused-stealing-millions",
+            "2023-11-08_foxillinois_dickenson-elan-rico-conspiracy-conviction",
+            "2022-11-22_isssource_8-indicted-for-sophisticated-attacks",
+        ],
+    },
+    "operation-us-v-bookman-dark-web": {
+        "sources": [
+            "2025-04-10_mdfl_bookman-dark-web-fentanyl-sentencing",
+            "2025-04-10_tampafreepress_largo-dealers-dark-web-fentanyl-montana-overdose-15-years",
+            "2025-04-11_myfloridanews_florida-man-sentenced-15-years-dark-web-drug-distribution",
+            "2025-04-11_newsbreak_florida-dark-web-fentanyl-dealer-sentenced-15-years",
+            "2025-04-10_publicnow_dark-web-fentanyl-distributor-sentenced-more-than-15-years",
+        ],
+    },
+    "operation-lakeland-man-pleads-guilty-to-receiving-child-sex-abuse-videos-from-the-largest-darknet-child-pornography-webs": {
+        "sources": [
+            "2026-04-18_justice-gov_lakeland-man-pleads-guilty-receiving-child-sex-abuse-videos-largest-darknet-child",
+            "2021-03-30_wfla_doj-lakeland-man-used-bitcoin-to-buy-child-porn-on-darknet",
+            "2019-10-16_wtsp_florida-men-among-hundreds-charged-in-worldwide-child-porn-website-takedown",
+            "2019-10-17_patch_2-florida-men-accused-in-worldwide-kiddie-porn-bust",
+            "2019-10-16_ice_south-korean-national-and-hundreds-others-charged-worldwide-takedown-largest-darknet",
+        ],
+    },
+    "operation-lakeland-man-sentenced-to-more-than-9-years-in-federal-prison-for-downloading-and-possessing-child-sex-abuse-v": {
+        "sources": [
+            "2026-04-18_justice-gov_lakeland-man-sentenced-more-9-years-federal-prison-downloading-and-possessing-child-sex",
+            "2021-07-01_tampafreepress_lakeland-man-gets-over-9-years-in-federal-prison-for-child-porn",
+            "2021-07-01_shorenewsnetwork_lakeland-man-sentenced-9-years-darkweb-csam",
+            "2021-07-02_goldrushcam_lakeland-florida-man-sentenced-9-years-darkweb-csam",
+            "2019-10-16_ice_south-korean-national-and-hundreds-others-charged-worldwide-takedown-largest-darknet",
+        ],
+    },
+    "operation-ceres-man-pleads-guilty-cyberstalking-two-victims": {
+        "sources": [
+            "2026-04-18_justice-gov_ceres-man-pleads-guilty-cyberstalking-two-victims",
+            "2023-11-13_justice-gov_ceres-man-sentenced-cyberstalking-two-victims",
+            "2020-08-13_yahoo-news_airbnb-host-son-secretly-filmed-guest-shower-blackmail",
+            "2023-11-14_cerescourier_ceres-man-sentenced-cyberstalking-two-women-airbnb",
+            "2020-06-05_cbs-sacramento_ceres-man-recording-airbnb-guest-cyberstalking",
+        ],
+    },
+    "operation-us-v-bryan-connor-herrell": {
+        "sources": [
+            "2020-09-01_justice-gov_united-states-v-bryan-connor-herrell",
+            "2020-09-02_bleepingcomputer_alphabay-dark-web-marketplace-moderator-gets-11-years-in-prison",
+            "2020-09-02_engadget_alphabay-moderator-sentenced-11-years",
+            "2020-09-01_cbs-colorado_bryan-herrell-aurora-sentenced-prison-international-dark-web-business",
+            "2020-09-02_decrypt_darknet-moderator-paid-bitcoin-sentenced-11-years",
+        ],
+    },
+    "operation-us-v-chaloner-saintillus-dark-web": {
+        "sources": [
+            "2024-02-05_edca_chaloner-saintillus-dark-web-sentencing",
+            "2023-04-06_justice-gov_florida-man-pleads-guilty-selling-fentanyl-over-dark-web",
+            "2020-12-08_justice-gov_florida-man-indicted-selling-fentanyl-darknet-cryptocurrency",
+            "2020-12-09_cbs12_delray-beach-man-indicted-fentanyl-cryptocurrency",
+            "2023-04-07_thecyberpost_ncidetf-arrested-chlnsaint-vendor-list",
+        ],
+    },
+    "operation-tattoo-shop-owner-pleads-guilty-to-distributing-heroin-and-methamphetamine-on-the-darknet": {
+        "sources": [
+            "2020-03-05_justice-gov_united-states-v-jason-keith-arnold",
+            "2022-02-17_justice-gov_tattoo-shop-owner-sentenced-7-years-prison-distributing-heroin-methamphetamine",
+            "2019-04-05_dea-gov_fentanyl-heroin-darknet-vendors-indicted",
+            "2022-02-18_uspsoig-gov_arizona-man-sentenced-11-years-conspiracy-narcotics-dark-web",
+            "2022-02-19_appeal-democrat_arizona-man-sentenced-dark-web-drug-sales",
+        ],
+    },
+    "operation-us-v-jason-arnold-dark-web": {
+        "sources": [
+            "2020-03-05_edca_jason-arnold-darknet-plea",
+            "2022-02-17_justice-gov_tattoo-shop-owner-sentenced-7-years-prison-distributing-heroin-methamphetamine",
+            "2019-04-05_dea-gov_fentanyl-heroin-darknet-vendors-indicted",
+            "2022-02-18_uspsoig-gov_arizona-man-sentenced-11-years-conspiracy-narcotics-dark-web",
+            "2020-03-04_12news_owner-chandler-tattoo-parlor-charged-trafficking-drugs-darknet",
+        ],
+    },
+    "operation-us-v-jason-keith-arnold-and-david-white": {
+        "sources": [
+            "2026-04-18_justice-gov_tattoo-shop-owner-sentenced-more-7-years-prison-distributing-heroin-and-methamphetamine",
+            "2022-02-17_justice-gov_tattoo-shop-owner-sentenced-7-years-prison-distributing-heroin-methamphetamine",
+            "2019-04-05_dea-gov_fentanyl-heroin-darknet-vendors-indicted",
+            "2022-02-18_uspsoig-gov_arizona-man-sentenced-11-years-conspiracy-narcotics-dark-web",
+            "2020-03-04_manteca-bulletin_4-charged-drug-trafficking-darknet",
+        ],
+    },
+    "operation-us-v-catherine-stuckey-dark-web": {
+        "sources": [
+            "2020-07-15_edca_catherine-stuckey-darknet-plea",
+            "2024-05-10_justice-gov_final-calicartel-defendant-pleads-guilty-dark-web-heroin-methamphetamine-cocaine",
+            "2023-06-06_justice-gov_dark-web-traffickers-heroin-methamphetamine-cocaine-prosecuted",
+            "2020-07-19_darkweblink_california-beauty-pleads-guilty-distributing-drugs-10-years",
+            "2020-07-20_dnstats_cali-man-pleads-guilty-running-calicartel-account",
+        ],
+    },
+    "operation-us-v-eddy-steven-sandoval-lopez": {
+        "sources": [
+            "2026-04-18_justice-gov_nicaraguan-national-pleads-guilty-conspiring-distribute-cocaine-and-marijuana-darknet",
+            "2019-06-03_ice-gov_nicaraguan-national-pleads-guilty-conspiring-distribute-cocaine-marijuana-darknet",
+            "2019-06-03_dea-gov_nicaraguan-national-pleads-guilty-cocaine-marijuana-darknet",
+            "2018-06-21_justice-gov_two-sacramento-men-indicted-distributing-cocaine-marijuana-dark-web-marketplaces",
+            "2018-06-22_softpedia_duo-accused-dark-web-drug-dealing-faces-20-years-prison",
+        ],
+    },
+    "operation-us-v-devin-shanahan": {
+        "sources": [
+            "2026-04-18_justice-gov_final-calicartel-defendant-pleads-guilty-dark-web-heroin-methamphetamine-and-cocaine",
+            "2021-10-08_justice-gov_ventura-county-man-pleads-guilty-dark-web-narcotics-distribution-conspiracy",
+            "2023-06-06_justice-gov_dark-web-traffickers-heroin-methamphetamine-cocaine-prosecuted",
+            "2021-10-09_uspsoig-gov_california-man-operating-dark-web-vendor-account-pleads-guilty-conspiracy",
+            "2024-05-11_darknetlive_operators-calicartel-drugs-vendor-account-sentenced",
+        ],
+    },
+    "operation-us-v-ian-hoffmann": {
+        "sources": [
+            "2026-04-18_justice-gov_dark-web-traffickers-heroin-methamphetamine-and-cocaine-prosecuted",
+            "2021-10-08_justice-gov_ventura-county-man-pleads-guilty-dark-web-narcotics-distribution-conspiracy",
+            "2024-05-10_justice-gov_final-calicartel-defendant-pleads-guilty-dark-web-heroin-methamphetamine-cocaine",
+            "2021-10-09_uspsoig-gov_california-man-operating-dark-web-vendor-account-pleads-guilty-conspiracy",
+            "2021-10-09_shorenewsnetwork_ventura-county-man-pleads-guilty-dark-web-narcotics-distribution-conspiracy",
+        ],
+    },
+    "operation-us-v-holly-adams-dark-web": {
+        "sources": [
+            "2025-06-03_edca_holly-adams-dark-web-fentanyl-sentencing",
+            "2025-06-03_irs-gov_dark-web-fentanyl-dealer-sentenced-federal-prison",
+            "2022-05-12_justice-gov_sacramento-grand-jury-indicts-riverside-county-man-woman-fentanyl-distribution-money-laundering",
+            "2025-06-04_actionnewsnow_woman-sentenced-12-years-federal-prison-fentanyl-dark-web",
+            "2022-05-13_irs-gov_sacramento-grand-jury-indicts-riverside-county-fentanyl-money-laundering",
+        ],
+    },
+    "operation-us-v-holly-danielle-adams-and-devlin-hosner": {
+        "sources": [
+            "2026-04-18_justice-gov_southern-california-woman-pleads-guilty-fentanyl-distribution-and-money-laundering",
+            "2025-06-03_irs-gov_dark-web-fentanyl-dealer-sentenced-federal-prison",
+            "2022-05-12_justice-gov_sacramento-grand-jury-indicts-riverside-county-man-woman-fentanyl-distribution-money-laundering",
+            "2025-06-04_actionnewsnow_woman-sentenced-12-years-federal-prison-fentanyl-dark-web",
+            "2022-05-13_irs-gov_sacramento-grand-jury-indicts-riverside-county-fentanyl-money-laundering",
+        ],
+    },
+    "operation-us-v-devlin-hosner-and-holly-adams": {
+        "sources": [
+            "2026-04-18_justice-gov_southern-california-man-pleads-guilty-fentanyl-and-methamphetamine-distribution",
+            "2025-06-03_irs-gov_dark-web-fentanyl-dealer-sentenced-federal-prison",
+            "2022-05-12_justice-gov_sacramento-grand-jury-indicts-riverside-county-man-woman-fentanyl-distribution-money-laundering",
+            "2025-06-04_actionnewsnow_woman-sentenced-12-years-federal-prison-fentanyl-dark-web",
+            "2022-05-13_irs-gov_sacramento-grand-jury-indicts-riverside-county-fentanyl-money-laundering",
+        ],
+    },
+    "operation-us-v-fatukala-cocaine-dark-web": {
+        "sources": [
+            "2023-11-17_edca_fatukala-yamamoto-mina-hollis-dark-web-sentencing",
+            "2023-06-06_justice-gov_dark-web-traffickers-heroin-methamphetamine-cocaine-prosecuted",
+            "2023-01-26_dea-gov_seventh-defendant-pleads-guilty-large-scale-sacramento-cocaine-heroin",
+            "2023-12-15_dea-gov_ninth-defendant-pleads-guilty-large-scale-sacramento-cocaine-heroin",
+            "2023-01-26_cslea_seventh-defendant-pleads-guilty-sacramento-drug-trafficking-conspiracy",
+        ],
+    },
+    "operation-us-v-fatukala-yamamoto-mina-and-hollis": {
+        "sources": [
+            "2023-11-17_justice-gov_united-states-v-fatukala-yamamoto-mina-and-hollis",
+            "2023-06-06_justice-gov_dark-web-traffickers-heroin-methamphetamine-cocaine-prosecuted",
+            "2023-01-26_dea-gov_seventh-defendant-pleads-guilty-large-scale-sacramento-cocaine-heroin",
+            "2023-12-15_dea-gov_ninth-defendant-pleads-guilty-large-scale-sacramento-cocaine-heroin",
+            "2023-01-26_cslea_seventh-defendant-pleads-guilty-sacramento-drug-trafficking-conspiracy",
+        ],
+    },
+    "operation-us-v-jaziz-jesahias-cea": {
+        "sources": [
+            "2026-04-18_justice-gov_former-national-guard-member-sentenced-20-years-prison-using-internet-commit-child",
+            "2021-04-29_justice-gov_former-national-guard-member-pleads-guilty-internet-sexual-exploitation-qatar",
+            "2022-03-18_fox40_galt-man-former-national-guard-20-years-prison-child-exploitation",
+            "2021-04-30_cbs-sanfrancisco_former-california-national-guardsman-guilty-trading-child-porn-overseas",
+            "2021-04-30_fox40_former-california-national-guard-pleads-guilty-child-pornography",
+        ],
+    },
+    "operation-us-v-anthony-dalton-wolff": {
+        "sources": [
+            "2026-04-18_justice-gov_arizona-man-indicted-offenses-involving-sexual-exploitation-minor",
+            "2024-09-13_fox10phoenix_arizona-man-indicted-attempting-lure-minor-undercover-agent",
+            "2024-09-13_yahoo-news_arizona-man-indicted-attempting-lure-minor",
+            "2024-09-13_hoodline_arizona-man-indicted-attempting-arrange-sexual-encounter-minor-dark-web",
+            "2024-09-13_facebook-fox10phoenix_anthony-dalton-wolff-42-surprise-indicted-suspect",
+        ],
+    },
+    "operation-us-v-international-travel": {
+        "sources": [
+            "2026-04-18_justice-gov_two-indictments-charge-international-travel-engage-illicit-sexual-activity-minors-0",
+            "2023-07-12_justice-gov_danish-national-arrested-fresno-airport-illicit-sexual-activity-minors",
+            "2023-07-13_justice-gov-archives_two-indictments-international-travel-illicit-sexual-activity-minors",
+            "2024-09-30_justice-gov_sacramento-man-sentenced-life-buying-children-other-child-exploitation",
+            "2017-08-23_ice-gov_sacramento-man-indicted-traveling-overseas-have-sex-children",
+        ],
+    },
+    "operation-us-v-dequan-lamar-mitchell": {
+        "sources": [
+            "2026-04-18_justice-gov_vallejo-man-indicted-illegal-firearm-possession",
+            "2026-02-13_dailyrepublic_vallejo-man-indicted-illegal-firearm-possession",
+            "2026-02-13_actionnewsnow_vallejo-man-indicted-federal-grand-jury-illegal-possession-firearm",
+            "2026-02-13_crimevoice_grand-jury-indicts-vallejo-man-illegal-possession-firearm",
+            "2026-02-05_pressdemocrat_vallejo-man-caught-selling-stolen-gun-jail-furlough-murder",
+        ],
+    },
+    "operation-us-v-evan-hayes": {
+        "sources": [
+            "2026-04-18_justice-gov_two-individuals-sentenced-conspiracy-charges-involving-sale-fraudulent-identity",
+            "2022-04-04_justice-gov-archives_two-individuals-sentenced-conspiracy-sale-fraudulent-identity-documents-darknet",
+            "2022-04-05_wivb_buffalo-man-woman-italy-sentenced-selling-fake-ids",
+            "2022-04-05_benzinga_fake-new-york-drivers-licenses-darknet-market-two-men-sentenced",
+            "2022-04-05_justice-gov_two-individuals-sentenced-conspiracy-charges-fraudulent-identity-documents",
+        ],
+    },
+    "operation-two-stockton-residents-charged-with-sexual-exploitation-of-a-minor": {
+        "sources": [
+            "2026-04-18_justice-gov_two-stockton-residents-charged-sexual-exploitation-minor",
+            "2020-06-19_fox40_federal-officials-charge-2-stockton-residents-sexual-exploitation-child",
+            "2020-06-19_hoodline_top-stockton-news-teen-shot-walnut-workers-rally",
+            "2020-12-08_justice-gov_stockton-man-charged-sexual-exploitation-minor",
+            "2021-12-15_justice-gov_stockton-man-pleads-guilty-attempted-sexual-exploitation-minor",
+        ],
+    },
+    "operation-us-v-jonathan-michael-thornton-and-katherine-leann-herrera": {
+        "sources": [
+            "2026-04-18_justice-gov_two-stockton-residents-charged-sexual-exploitation-minor",
+            "2020-06-19_fox40_federal-officials-charge-2-stockton-residents-sexual-exploitation-child",
+            "2020-06-19_hoodline_top-stockton-news-teen-shot-walnut-workers-rally",
+            "2020-12-08_justice-gov_stockton-man-charged-sexual-exploitation-minor",
+            "2021-12-15_justice-gov_stockton-man-pleads-guilty-attempted-sexual-exploitation-minor",
+        ],
+    },
+    "operation-sacramento-sex-offender-pleads-guilty-to-distributing-child-pornography-on-the-dark-web": {
+        "sources": [
+            "2026-04-18_justice-gov_sacramento-sex-offender-pleads-guilty-distributing-child-pornography-dark-web",
+            "2025-02-24_justice-gov_sacramento-man-sentenced-24-years-running-multiple-dark-web-child-sexual-abuse-websites",
+            "2025-02-24_justice-gov-opa_man-sentenced-24-years-running-dark-web-child-sexual-abuse-websites",
+            "2025-02-25_actionnewsnow_sacramento-man-24-years-4-months-running-multiple-dark-web-child-sex-abuse-websites",
+            "2025-02-25_yahoo-news_california-man-sentenced-24-years-prison-dark-web-child-porn",
+        ],
+    },
+    "operation-sacramento-woman-pleads-guilty-to-conspiracy-to-distribute-fentanyl": {
+        "sources": [
+            "2026-04-18_justice-gov_sacramento-woman-pleads-guilty-conspiracy-distribute-fentanyl",
+            "2024-08-29_justice-gov_sacramento-area-group-charged-shipping-fentanyl-pills-across-united-states",
+            "2025-06-23_justice-gov_sacramento-woman-pleads-guilty-fentanyl-distribution",
+            "2025-06-23_goldenstatetoday_sacramento-woman-pleads-guilty-distributing-fentanyl",
+            "2025-07-21_dea-gov_sacramento-man-sentenced-9-years-fentanyl-meth-trafficking",
+        ],
+    },
+    "operation-two-individuals-sentenced-for-conspiracy-charges-involving-the-sale-of-fraudulent-identity-documents-on-the-da": {
+        "sources": [
+            "2026-04-18_justice-gov_two-individuals-sentenced-conspiracy-charges-involving-sale-fraudulent-identity",
+            "2022-04-04_justice-gov-archives_two-individuals-sentenced-conspiracy-sale-fraudulent-identity-documents-darknet",
+            "2022-04-05_wivb_buffalo-man-woman-italy-sentenced-selling-fake-ids",
+            "2022-04-05_benzinga_fake-new-york-drivers-licenses-darknet-market-two-men-sentenced",
+            "2022-04-05_ice-gov_darknet-vendor-fraudulent-identity-documents-sentenced",
+        ],
+    },
 
 }
 

@@ -46,25 +46,29 @@ results:
   other:
     - "Defendant-specific follow-on action derived from [[three-former-department-of-homeland-security-employees-sentenced-in-scheme-to-defraud-the-united-states]]"
 edges:
-  []
+
 credibility_index: 4.0
 source_tier: 1
 missing_fields:
-  []
+
 related_cases:
   - "[[three-former-department-of-homeland-security-employees-sentenced-in-scheme-to-defraud-the-united-states]]"
 related_operations:
-  []
+
 challenges_encountered:
-  []
+
 lessons_learned:
-  []
-source_count: 1
+
+source_count: 5
 sources:
   - "[[2026-04-18_justice-gov_three-former-department-homeland-security-employees-sentenced-scheme-defraud-united]]"
+  - "[[2024-01-26_dhs-oig_three-former-dhs-employees-sentenced-scheme-defraud]]"
+  - "[[2024-01-26_uspsoig_three-former-dhs-employees-sentenced-defraud]]"
+  - "[[2024-01-31_law360_three-ex-dhs-staffers-prison-probation-software-theft]]"
+  - "[[2024-01-31_nextgov_former-dhs-employees-sentenced-software-databases-theft]]"
 summary: "This domestic-only U.S. follow-on record has been absorbed into the canonical case page [[three-former-department-of-homeland-security-employees-sentenced-in-scheme-to-defraud-the-united-states]]. No visible cross-border mechanism is documented, so it is not treated as a separate international-cooperation operation."
 created: 2026-04-18
-updated: 2026-04-22
+updated: 2026-04-25
 ---
 ## Summary
 
@@ -76,6 +80,10 @@ This domestic-only U.S. follow-on record has been absorbed into the canonical ca
 
 ## References
 
-| # | Source | Publisher | Date | URL |
+| # | Title | Publisher | Date | URL |
 |---|---|---|---|---|
 | [1] | Three Former Department of Homeland Security Employees Sentenced in Scheme to Defraud the United States | US DOJ USAO | 2024-01-26 | https://www.justice.gov/usao-dc/pr/three-former-department-homeland-security-employees-sentenced-scheme-defraud-united |
+| [2] | Three Former Department of Homeland Security Employees Sentenced in Scheme to Defraud the United States | U.S. Department of Homeland Security, Office of Inspector General | 2024-01-26 | https://www.oig.dhs.gov/sites/default/files/assets/pr/2024/dojpr-012624-three-former-department-homeland-security-employees-sentenced-scheme-defraud-united.pdf |
+| [3] | Three Former Department of Homeland Security Employees Sentenced in Scheme to Defraud the United States | U.S. Postal Service, Office of Inspector General | 2024-01-26 | https://www.uspsoig.gov/investigative-work/investigative-news-releases/three-former-department-homeland-security-employees |
+| [4] | 3 Ex-DHS Staffers Get Prison, Probation For Software Theft | Law360 | 2024-01-31 | https://www.law360.com/ip/articles/1791230/3-ex-dhs-staffers-get-prison-probation-for-software-theft |
+| [5] | Former DHS employees sentenced for plot to steal government software, databases | Nextgov/FCW | 2024-01-31 | https://www.nextgov.com/people/2024/01/former-dhs-employees-sentenced-plot-steal-government-software-databases/393689/ |

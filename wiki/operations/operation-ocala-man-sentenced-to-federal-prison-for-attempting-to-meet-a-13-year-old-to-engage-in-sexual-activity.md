@@ -64,11 +64,21 @@ sources:
   - "[[2026-04-18_justice-gov_ocala-man-sentenced-federal-prison-attempting-meet-13-year-old-engage-sexual-activity]]"
 summary: "This domestic-only U.S. follow-on record has been absorbed into the canonical case page [[ocala-man-sentenced-to-federal-prison-for-attempting-to-meet-a-13-year-old-to-engage-in-sexual-activity]]. No visible cross-border mechanism is documented, so it is not treated as a separate international-cooperation operation."
 created: 2026-04-18
-updated: 2026-04-22
+updated: 2026-04-25
 ---
 ## Summary
 
 This domestic-only U.S. follow-on record has been absorbed into the canonical case page [[ocala-man-sentenced-to-federal-prison-for-attempting-to-meet-a-13-year-old-to-engage-in-sexual-activity]]. No visible cross-border mechanism is documented, so it is not treated as a separate international-cooperation operation.
+
+> [!info] Source enrichment - single-source justification (2026-04-25)
+> Searched for additional credible sources covering this defendant/case (Alexander Thomas Daugherty, Ocala):
+> - DOJ follow-up press releases: not found
+> - Parallel federal agency press releases (FBI/DEA/IRS-CI/ICE/HSI): an HSI press release exists for a same-date sentencing of "Florida Man Sentenced for Attempting to Entice a Minor" (Daugherty), but the URL points to a similar case with a different defendant (per L1 verification - not confirmed match)
+> - Court records (CourtListener / PACER / midpage / justia): docket exists but no narrative coverage
+> - Local press coverage in Ocala: not found at this defendant level
+> - Specialized trade press: not found (purely domestic HSI undercover operation)
+>
+> This is a domestic HSI undercover-sting case with no cross-border cooperation element. `source_count: 1` is retained per LESSON L19.
 
 ## Canonical Record
 

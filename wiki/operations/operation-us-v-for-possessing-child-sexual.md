@@ -64,11 +64,21 @@ sources:
   - "[[2026-04-18_justice-gov_davenport-man-indicted-possessing-child-sexual-abuse-material]]"
 summary: "This domestic-only U.S. follow-on record has been absorbed into the canonical case page [[us-v-for-possessing-child-sexual]]. No visible cross-border mechanism is documented, so it is not treated as a separate international-cooperation operation."
 created: 2026-04-18
-updated: 2026-04-22
+updated: 2026-04-25
 ---
 ## Summary
 
 This domestic-only U.S. follow-on record has been absorbed into the canonical case page [[us-v-for-possessing-child-sexual]]. No visible cross-border mechanism is documented, so it is not treated as a separate international-cooperation operation.
+
+> [!info] Source enrichment - single-source justification (2026-04-25)
+> Searched for additional credible sources covering this defendant/case (Mauricio Flores, Davenport, FL - August 2025 CSAM possession indictment):
+> - DOJ follow-up press releases (sentencing/conviction): not found (recent August 2025 indictment)
+> - Parallel federal agency press releases (FBI/DEA/IRS-CI/ICE/HSI): not found
+> - Court records (CourtListener / PACER / midpage / justia): docket exists but no narrative coverage
+> - Local press coverage in Davenport, FL or Tampa: not found
+> - Specialized trade press: not found
+>
+> This is a domestic CSAM-possession indictment with no cross-border cooperation element. `source_count: 1` is retained per LESSON L19.
 
 ## Canonical Record
 

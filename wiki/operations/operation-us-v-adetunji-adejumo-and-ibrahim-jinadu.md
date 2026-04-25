@@ -59,12 +59,16 @@ challenges_encountered:
 
 lessons_learned:
 
-source_count: 1
+source_count: 5
 sources:
   - "[[2023-11-29_justice-gov_united-states-v-adetunji-adejumo-and-ibrahim-jinadu]]"
+  - "[[2023-08-21_occrp_us-two-plead-guilty-to-transnational-tax-fraud-scheme]]"
+  - "[[2023-12-03_accountingtoday_tax-fraud-blotter-fishy-adejumo-jinadu]]"
+  - "[[2023-08-21_shorenewsnetwork_guilty-pleas-transnational-tax-fraud-scheme]]"
+  - "[[2021-09-15_zebranews_adetunji-adejumo-nigerian-fraudsters-federally-charged-wire-fraud-conspiracy]]"
 summary: "This domestic-only U.S. follow-on record has been absorbed into the canonical case page [[us-v-adetunji-adejumo-and-ibrahim-jinadu]]. No visible cross-border mechanism is documented, so it is not treated as a separate international-cooperation operation."
 created: 2026-04-17
-updated: 2026-04-22
+updated: 2026-04-25
 ---
 ## Summary
 
@@ -76,6 +80,10 @@ This domestic-only U.S. follow-on record has been absorbed into the canonical ca
 
 ## References
 
-| # | Source | Publisher | Date | URL |
+| # | Title | Publisher | Date | URL |
 |---|---|---|---|---|
 | [1] | U.S.-Based Conspirators Sentenced To Prison For International Tax Scheme | US DOJ (Middle District of Florida) | 2023-11-29 | https://www.justice.gov/usao-mdfl/pr/us-based-conspirators-sentenced-prison-international-tax-scheme |
+| [2] | US: Two Plead Guilty to Transnational Tax Fraud Scheme | OCCRP (Organized Crime and Corruption Reporting Project) | 2023-08-21 | https://www.occrp.org/en/news/us-two-plead-guilty-to-transnational-tax-fraud-scheme |
+| [3] | Tax Fraud Blotter: Fishy (Adejumo and Jinadu sentencing) | Accounting Today | 2023-12-03 | https://www.accountingtoday.com/news/tax-fraud-blotter-fishy |
+| [4] | Guilty Pleas Entered in Transnational Tax Fraud Scheme; Third Conspirator Awaits Extradition | Shore News Network | 2023-08-21 | https://www.shorenewsnetwork.com/2023/08/21/guilty-pleas-entered-in-transnational-tax-fraud-scheme-third-conspirator-awaits-extradition/ |
+| [5] | Adetunji Adejumo, 3 Other Nigerian Fraudsters Federally Charged In Transnational Wire Fraud And Identity Theft Conspiracy in USA | Zebra News (Nigeria) | 2021-09-15 | https://zebranewsonline.com/adetunji-adejumo-3-other-nigerian-fraudsters-federally-charged-in-transnational-wire-fraud-and-identity-theft-conspiracy-in-usa/ |

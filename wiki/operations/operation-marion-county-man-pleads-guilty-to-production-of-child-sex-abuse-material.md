@@ -64,11 +64,21 @@ sources:
   - "[[2026-04-18_justice-gov_marion-county-man-pleads-guilty-production-child-sex-abuse-material]]"
 summary: "This domestic-only U.S. follow-on record has been absorbed into the canonical case page [[marion-county-man-pleads-guilty-to-production-of-child-sex-abuse-material]]. No visible cross-border mechanism is documented, so it is not treated as a separate international-cooperation operation."
 created: 2026-04-18
-updated: 2026-04-22
+updated: 2026-04-25
 ---
 ## Summary
 
 This domestic-only U.S. follow-on record has been absorbed into the canonical case page [[marion-county-man-pleads-guilty-to-production-of-child-sex-abuse-material]]. No visible cross-border mechanism is documented, so it is not treated as a separate international-cooperation operation.
+
+> [!info] Source enrichment - single-source justification (2026-04-25)
+> Searched for additional credible sources covering this defendant/case (Matthew Allen Gahan, Marion County guilty plea):
+> - DOJ follow-up press releases (sentencing): a sentencing press release exists separately ("Marion County Man Sentenced To 20 Years" October 2024), but does not provide independent narrative coverage of this plea event itself
+> - Parallel federal agency press releases (FBI/DEA/IRS-CI/ICE/HSI): not found
+> - Court records (CourtListener / PACER / midpage / justia): docket exists but no narrative coverage
+> - Local press coverage in Ocala: regional outlets covered broader Marion County child sex sting series, not this specific plea event
+> - Specialized trade press: not found
+>
+> The case has international cooperation elements (the minor was located outside the U.S., per court records), but no parallel agency or independent-press source documents this. `source_count: 1` is retained per LESSON L19.
 
 ## Canonical Record
 
