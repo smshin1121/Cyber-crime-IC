@@ -3880,6 +3880,438 @@ CURATED: dict[str, dict[str, Any]] = {
             "2023-05-18_doj_us-v-garrison-23-cr-597-lak-sdny-case-page",
         ],
     },
+    "operation-us-v-humberto-garcia": {
+        "sources": [
+            "2026-04-18_justice-gov_monroe-washington-man-sentenced-10-years-prison-role-right-hand-man-deadly-drug",
+            "2024-10-25_dea_washington-man-sentenced-10-years-prison-role-right-hand-man-deadly-drug",
+            "2024-10-25_kiro7_monroe-man-sentenced-10-years-being-right-hand-man-deadly-drug-ring",
+            "2024-10-25_fox13seattle_wa-drug-ring-right-hand-man-sentenced",
+            "2024-10-25_komonews_18-arrested-major-drug-distribution-busts",
+        ],
+    },
+    "operation-us-v-humberto-lopez-rodriguez-and-lopez-rodriguez": {
+        "sources": [
+            "2026-04-18_justice-gov_defendant-who-trafficked-drugs-while-absconding-federal-drug-trafficking-sentence-gets",
+            "2025-07-30_dea_defendant-who-trafficked-drugs-while-absconding-federal-drug-trafficking",
+            "2025-07-30_kiro7_repeat-offender-mexican-national-sentenced-after-fleeing-wa-drug-trafficking-sentence",
+            "2025-07-30_federalwaymirror_renton-man-sentenced-for-drug-trafficking",
+            "2025-07-30_yahoo_repeat-offender-mexican-national-sentenced",
+        ],
+    },
+    "operation-us-v-jail-guard-mosses-ramos-and-michael-anthony-barquet": {
+        "sources": [
+            "2026-04-18_justice-gov_former-king-county-jail-guard-and-five-others-indicted-bribery-scheme-brought-meth-and",
+            "2023-11-02_seattletimes_guard-charged-bribery-scheme-bringing-fentanyl-into-seattle-jail",
+            "2023-11-02_king5_former-jail-guard-indicted-bringing-meth-fentanyl-seattle",
+            "2023-11-02_komonews_former-seattle-jail-guard-indicted-smuggling-meth-fentanyl",
+            "2023-11-02_fox13seattle_former-correctional-officer-indicted-bribery-scheme",
+        ],
+    },
+    "operation-us-v-john-michael-sherwood-and-kevin-christopher-gartry": {
+        "sources": [
+            "2026-04-18_justice-gov_two-defendants-appear-indictment-connected-7-million-drugs-left-beach-near-port-angeles",
+            "2022-12-08_peninsuladailynews_trial-set-defendents-accused-7-million-drug-smuggling",
+            "2022-12-08_komonews_3-people-indicted-7-million-drugs-washington-beaches",
+            "2022-12-08_cbc_bc-man-among-3-accused-drug-smuggling-washington-state",
+            "2022-12-08_pqbnews_scheme-smuggle-drugs-bc-jet-ski-end-us-prison",
+        ],
+    },
+    "operation-us-v-johnny-elias": {
+        "sources": [
+            "2026-04-18_justice-gov_auburn-washington-man-who-converted-garage-fentanyl-pill-manufacturing-lab-sentenced",
+            "2025-07-30_dea_auburn-washington-man-converted-garage-fentanyl-pill-manufacturing",
+            "2025-07-30_kiro7_auburn-man-sentenced-prison-garage-fentanyl-lab-guns",
+            "2025-07-30_king5_youth-counselor-auburn-sentenced-manufacturing-fentanyl-pills",
+            "2025-07-30_auburnreporter_auburn-man-converted-garage-fentanyl-pill-manufacturing-sentenced-11-years",
+        ],
+    },
+    "operation-us-v-joseph-nilsen-and-kristen-leccese": {
+        "sources": [
+            "2026-04-18_justice-gov_final-two-us-based-defendants-amazon-bribery-case-sentenced",
+            "2023-09-08_seattletimes_linchpin-amazon-marketplace-bribery-scheme-sentenced-seattle",
+            "2023-09-08_ecommercebytes_mysterious-mr-k-behind-two-defendants-amazon-bribery-case",
+            "2022-05-18_spokesman_two-suspects-plead-guilty-scheme-manipulate-amazon-marketplace",
+            "2023-09-08_komonews_charge-6-sellers-bribed-amazon-employees-100-million",
+        ],
+    },
+    "operation-us-v-kenneth-warren-rhule-and-kenneth-john-rule": {
+        "sources": [
+            "2026-04-18_justice-gov_father-and-son-sentenced-prison-money-laundering-and-illegal-marijuana-business",
+            "2022-05-31_dea_monroe-father-and-son-sentenced-prison-money-laundering-illegal-marijuana",
+            "2022-05-31_heraldnet_monroe-father-son-get-5-years-marijuana-bitcoin-scheme",
+            "2022-05-31_kiro7_father-son-monroe-sentenced-prison-marijuana-money-laundering",
+            "2022-05-31_decrypt_father-son-team-sentenced-laundering-weed-cash-btc",
+        ],
+    },
+    "operation-us-v-lint-dream-market": {
+        "sources": [
+            "2018-12-03_wdwa_lint-dream-market-sentencing",
+            "2018-12-03_darknetonion_seattle-based-alphabe-dream-vendor-salesman-sentenced",
+            "2018-12-03_darknetlive_ncidetf-vendor-arrested-list",
+            "2018-12-03_darknetstats_dream-market-vendor-everett-wa-sentenced-4-years",
+            "2018-12-03_thenextweb_top-fentanyl-seller-alphabay-dream-market-sentenced",
+        ],
+    },
+    "operation-us-v-luis-donaldo-galeana-garcia-juan-carlos-garnica-pacheco-lorena-esquivel-and-dustin-ra": {
+        "sources": [
+            "2026-04-18_justice-gov_four-charged-connection-drug-distribution-scheme-involving-cocaine-and-firearms",
+            "2026-01-13_dea_four-charged-connection-drug-distribution-scheme-cocaine-firearms",
+            "2026-01-14_heraldnet_two-snohomish-county-residents-face-drug-trafficking-charges",
+            "2026-01-13_komonews_4-people-federal-charges-drug-trafficking-conspiracy-marysville",
+            "2026-01-22_lynnwoodtimes_marysville-drug-ice-border-patrol-bust",
+        ],
+    },
+    "operation-us-v-madding-dark-web": {
+        "sources": [
+            "2021-05-24_justice-gov_united-states-v-zachary-madding",
+            "2021-05-24_ice_hsi-efforts-help-put-dark-web-drug-dealer-prison",
+            "2021-05-24_heraldnet_dark-web-heroin-dealer-mill-creek-sentenced-5-years",
+            "2021-05-24_dnstats_perpetualeuphoria-sentencing",
+            "2021-05-24_darkweblink_dark-web-heroin-dealer-jailed",
+        ],
+    },
+    "operation-us-v-marquise-tolbert": {
+        "sources": [
+            "2026-04-18_justice-gov_tacoma-man-lengthy-criminal-history-pleads-guilty-gun-and-drug-charges",
+            "2024-09-13_fox13seattle_man-guilty-gun-drug-charges-seattle-mass-shooting",
+            "2024-09-13_komonews_man-acquitted-murder-drug-charges-judge-tana-lin",
+            "2024-09-13_yahoo_tacoma-man-involved-seattle-mass-shooting-pleads-guilty",
+            "2024-09-13_kiro7_federal-judges-prison-terms-3-western-wa-drug-traffickers",
+        ],
+    },
+    "operation-us-v-michael-warren": {
+        "sources": [
+            "2026-04-18_justice-gov_key-member-drug-ring-associated-aryan-prison-gang-sentenced-7-years-prison",
+            "2024-08-30_komonews_shelton-man-sentenced-supplying-fentanyl-aryan-gangs-prison",
+            "2024-08-30_fox13seattle_22-washington-residents-arrested-aryan-prison-gang",
+            "2024-08-30_abc45_washington-man-sentenced-supplying-fentanyl-aryan-gangs-prison",
+            "2024-08-30_cbsaustin_washington-man-sentenced-supplying-fentanyl-aryan-gangs-prison",
+        ],
+    },
+    "operation-us-v-mohamed-abdirisak-mohamed": {
+        "sources": [
+            "2026-04-18_justice-gov_final-custody-defendant-whatcom-county-drug-trafficking-ring-sentenced-8-years-prison",
+            "2025-05-09_dea_final-custody-defendant-whatcom-county-drug-trafficking-ring-sentenced-8-years",
+            "2025-05-09_kiro7_seattle-man-sentenced-8-years-distributing-fentanyl-whatcom-county",
+            "2025-05-09_mybellinghamnow_seattle-man-sentenced-eight-years-whatcom-county-drug-ring",
+            "2025-05-09_mynorthwest_seattle-man-8-years-fentanyl-drug-ring",
+        ],
+    },
+    "operation-us-v-mosses-ramos-michael-anthony-barquet-neca-silvestre-katrina-cazares-and-kayara-zepeda": {
+        "sources": [
+            "2026-04-18_justice-gov_former-king-county-jail-guard-pleads-guilty-bribery-and-drug-distribution",
+            "2024-05-30_king5_former-king-county-jail-guard-admits-smuggling-meth-fentanyl-pills",
+            "2024-05-30_kiro7_former-king-county-jail-guard-sentenced-102-months",
+            "2024-05-30_valleyrecord_king-county-jail-guard-bribes-smuggle-drugs",
+            "2024-05-30_kentreporter_king-county-jail-guard-bribes-smuggle-drugs",
+        ],
+    },
+    "operation-us-v-natasha-parkhill": {
+        "sources": [
+            "2026-04-18_justice-gov_significant-member-whatcom-county-fentanyl-trafficking-ring-sentenced-4-years-prison",
+            "2024-07-15_dea_member-fentanyl-trafficking-ring-sentenced-distributing-deadly-fentanyl",
+            "2023-04-20_dea_six-indicted-whatcom-county-fentanyl-trafficking-organization",
+            "2023-04-20_komonews_6-drug-ring-traveled-seattle-bellingham-indicted-trafficking-fentanyl",
+            "2023-04-20_spokesman_six-fentanyl-trafficking-charges-whatcom-county",
+        ],
+    },
+    "operation-us-v-nevin-shetty": {
+        "sources": [
+            "2026-04-18_justice-gov_former-company-chief-financial-officer-indicted-using-35-million-company-cash-invest",
+            "2023-05-17_geekwire_ex-cfo-seattle-startup-indicted-35m-crypto-business",
+            "2023-05-17_cointelegraph_former-cfo-indicted-diverting-35m-crypto",
+            "2023-05-17_cfodive_ex-fabric-cfo-accused-losing-35m-crypto-crash",
+            "2023-05-17_king5_former-cfo-prison-fraud-crypto",
+        ],
+    },
+    "operation-us-v-nicholas-partlow-dark-web": {
+        "sources": [
+            "2022-03-07_justice-gov_united-states-v-nicholas-partlow",
+            "2022-03-07_dea_darknet-drug-trafficker-pleads-guilty-conspiracy-firearm-charges",
+            "2022-03-07_uspsoig_issaquah-wa-man-sentenced-7-years-darknet-drug-dealing",
+            "2022-03-07_fox13seattle_drug-trafficker-admits-400-online-sales-fentanyl-darknet",
+            "2022-03-07_patch_accused-eastside-drug-trafficker-pleads-guilty-federal-charges",
+        ],
+    },
+    "operation-us-v-onomen-uduebor": {
+        "sources": [
+            "2026-04-18_justice-gov_nigerian-citizen-extradited-uk-arraigned-indictment-wire-fraud-involving-stolen-tax",
+            "2025-03-07_irs_nigerian-citizen-extradited-from-uk-arraigned-wire-fraud",
+            "2025-07-02_irs_nigerian-man-sentenced-40-months-prison-tax-refund-scheme",
+            "2025-03-07_mynorthwest_nigerian-national-indicted-fake-tax-returns",
+            "2025-03-07_extradition-co_nigerian-national-extradited-uk-us-fraudulent-tax-refunds",
+        ],
+    },
+    "operation-us-v-percy-levy-and-eugene-smith": {
+        "sources": [
+            "2026-04-18_justice-gov_three-snohomish-county-men-indicted-drug-trafficking-conspiracy-involving-cocaine",
+            "2025-03-13_lynnwoodtimes_percy-levy-clemency-arrested-firearms-drugs",
+            "2025-03-13_king5_man-commuted-gov-inslee-drug-charges",
+            "2025-03-13_kiro7_everett-community-activist-arrested-felony-charges",
+            "2025-03-13_fox13seattle_everett-man-granted-clemency-arrested",
+        ],
+    },
+    "operation-us-v-ramon-duarte-garcia-and-defendant-humberto-lopez-rodriguez": {
+        "sources": [
+            "2026-04-18_justice-gov_lone-american-indicted-international-drug-trafficking-investigation-sentenced-five",
+            "2025-06-26_dea_lone-american-living-tukwila-indicted-international-drug-trafficking",
+            "2025-06-26_irs_lone-american-indicted-international-drug-trafficking-investigation",
+            "2025-09-23_dea_two-members-mexico-connected-drug-trafficking-group-sentenced",
+            "2025-06-26_ilovekent_ex-kent-resident-drug-ring-colombia-seattle-10-years",
+        ],
+    },
+    "operation-us-v-ramon-duarte-garcia": {
+        "sources": [
+            "2026-04-18_justice-gov_repeat-drug-trafficker-caught-twice-kilos-drugs-and-firearms-sentenced-10-years-prison",
+            "2025-05-28_dea_drug-trafficker-western-washington-caught-twice-kilos-firearms",
+            "2025-05-28_irs_repeat-drug-trafficker-caught-twice-kilos-drugs-firearms",
+            "2025-05-28_fox13seattle_repeat-kent-drug-trafficker-sentenced-10-years",
+            "2025-05-28_kentreporter_judge-sentences-former-kent-man-10-years-drug-dealing",
+        ],
+    },
+    "operation-us-v-ricky-ramacho": {
+        "sources": [
+            "2026-04-18_justice-gov_members-seattle-drug-trafficking-organization-indicted-distribution-heroin",
+            "2016-08-11_ice_members-violent-seattle-area-drug-trafficking-organization-indicted",
+            "2016-08-11_seattletimes_heroin-trafficking-ringleader-tied-seattle-returned-us",
+            "2016-08-11_komonews_authorities-seattle-heroin-traffickers-indicted",
+            "2016-08-11_fox13seattle_seattle-heroin-traffickers-indicted-tijuana-arrest",
+        ],
+    },
+    "operation-us-v-rogelio-pena": {
+        "sources": [
+            "2026-04-18_justice-gov_tacoma-man-who-persisted-drug-trafficking-despite-being-stopped-more-25-pounds-meth",
+            "2026-01-27_dea_tacoma-man-persisted-drug-trafficking-25-pounds-meth-66-months",
+            "2026-01-27_irs_tacoma-man-persisted-drug-trafficking-25-pounds-meth",
+            "2026-01-27_dailyfly_tacoma-man-sentenced-66-months-25-pounds-meth-fentanyl",
+            "2026-01-27_kiro7_22-year-old-66-months-distributing-20000-fentanyl-pills",
+        ],
+    },
+    "operation-us-v-samuel-aaron-leonard": {
+        "sources": [
+            "2026-04-18_justice-gov_florida-man-sentenced-20-years-prison-producing-images-child-sexual-abuse-and",
+            "2024-04-15_columbian_florida-man-20-years-prison-vancouver-14-year-old",
+            "2024-01-30_columbian_florida-man-pleads-guilty-child-sex-abuse-charges-vancouver",
+            "2024-04-15_koin_florida-man-20-year-sentence-cross-country-vancouver",
+            "2024-04-15_chronline_florida-man-faces-federal-child-sex-abuse-imagery-charge",
+        ],
+    },
+    "operation-us-v-santana-sandoval-and-defendant-kevin-torres-velasquez": {
+        "sources": [
+            "2026-04-18_justice-gov_two-everett-residents-charged-federally-drug-distribution-activities-involving",
+            "2025-05-13_lynnwoodtimes_everett-fentanyl-honduran-defendants",
+            "2025-05-09_heraldnet_dea-everett-man-fentanyl-kill-millions",
+            "2025-05-09_mynorthwest_honduran-everett-fentanyl-arrests",
+            "2025-05-09_kiro7_honduran-nationals-arrested-everett-7-kilos-fentanyl",
+        ],
+    },
+    "operation-us-v-glib-ivanov-tolpintsev": {
+        "sources": [
+            "2021-09-08_justice-gov_united-states-v-glib-ivanov-tolpintsev",
+            "2021-09-08_cyberscoop_ukrainian-cybercriminal-extradited-credential-theft",
+            "2021-09-08_thehill_ukrainian-extradited-us-allegedly-selling-computer-credentials",
+            "2021-09-08_france24_ukrainian-extradited-us-trafficking-computer-passwords",
+            "2021-09-08_tampafp_ukrainian-cyber-criminal-extradited-tampa",
+        ],
+    },
+    "operation-us-v-to-federal-prison-for": {
+        "sources": [
+            "2026-04-18_justice-gov_cybercriminal-sentenced-federal-prison-decrypting-credentials-thousands-computers",
+            "2022-05-12_therecord_ukrainian-sentenced-4-years-selling-hacked-passwords",
+            "2022-05-12_securityweek_ukrainian-sentenced-us-prison-selling-hacked-credentials",
+            "2022-05-12_cybernews_ukrainian-sent-prison-stolen-passwords",
+            "2022-05-12_hackread_ukrainian-sentence-brute-forcing-selling-login-credentials",
+        ],
+    },
+    "operation-us-v-related-to-his-operation-and-marketplace-administrator": {
+        "sources": [
+            "2026-04-18_justice-gov_ssndob-marketplace-administrator-pleads-guilty-charges-related-his-operation-series",
+            "2023-11-30_theregister_ssndob-administrator-19-million",
+            "2023-11-28_therecord_ukrainian-eight-year-prison-sentence-ssdob",
+            "2023-08-11_flashpoint_ssndob-marketplace-admin-pleads-guilty-fraud-trafficking-pii",
+            "2023-08-11_bleepingcomputer_ssndob-cybercrime-market-admin-faces-15-years",
+        ],
+    },
+    "operation-us-v-russian-malware-developer": {
+        "sources": [
+            "2026-04-18_justice-gov_russian-malware-developer-pleads-guilty-conspiracy-commit-wire-and-computer-fraud",
+            "2023-09-14_cyberscoop_russian-dariy-pankov-nlbrute-malware-cybercrime",
+            "2023-09-14_bankinfosecurity_nlbrute-malware-developer-pleads-guilty-us-court",
+            "2023-09-14_databreaches_russian-malware-developer-pleads-guilty-conspiracy",
+            "2023-09-14_bleepingcomputer_russian-malware-dev-nlbrute-pleads-guilty",
+        ],
+    },
+    "operation-us-v-t-andre-mcneely": {
+        "sources": [
+            "2024-08-07_justice-gov_united-states-v-t-andre-mcneely-et-al",
+            "2022-12-05_shorenewsnetwork_nigerian-national-sentenced-international-tax-fraud-mcneely",
+            "2024-01-24_justice-gov_19-individuals-worldwide-charged-xdedic",
+            "2024-01-24_securityaffairs_doj-charged-19-individuals-xdedic-marketplace",
+            "2024-01-24_bleepingcomputer_us-charged-19-suspects-xdedic-cybercrime-marketplace",
+        ],
+    },
+    "operation-us-v-olufemi-odedeyi-and-ibrahim-davies": {
+        "sources": [
+            "2021-09-15_justice-gov_united-states-v-olufemi-odedeyi-and-ibrahim-davies",
+            "2021-09-15_kokh_four-men-arrested-wire-fraud-allegations",
+            "2023-08-21_occrp_us-two-plead-guilty-transnational-tax-fraud-scheme",
+            "2023-08-21_shorenewsnetwork_guilty-pleas-transnational-tax-fraud-third-conspirator-extradition",
+            "2024-01-25_thehackernews_doj-charges-19-worldwide-68-million-xdedic",
+        ],
+    },
+    "operation-us-v-of-hacking-jumbotron-and-augustine-serial-child-molester": {
+        "sources": [
+            "2026-04-18_justice-gov_st-augustine-serial-child-molester-convicted-hacking-jumbotron-child-exploitation",
+            "2024-03-27_nbcmiami_convicted-sex-offender-hacked-jumbotron-jaguars-stadium-220-years",
+            "2024-03-27_atf_jumbotron-hacker-sentenced-220-years",
+            "2024-03-27_fox35orlando_florida-sex-offender-hacked-jumbotron-jaguars-220-years",
+            "2024-03-27_justice-gov_jumbotron-hacker-sentenced-220-years",
+        ],
+    },
+    "operation-us-v-to-federal-prison-and-intrusions-and-tax-fraud": {
+        "sources": [
+            "2026-04-18_justice-gov_rico-conspirators-responsible-nationwide-computer-intrusions-and-tax-fraud-sentenced",
+            "2023-12-19_tampafp_9-rico-conspirators-florida-sentenced-cybercrimes",
+            "2022-11-09_irs_band-cybercriminals-rico-conspiracy-millions",
+            "2022-11-09_justice-gov_band-cybercriminals-rico-conspiracy-indicted",
+            "2023-09-13_justice-gov_rico-conspirator-convicted-trial",
+        ],
+    },
+    "operation-us-v-lakeland-man": {
+        "sources": [
+            "2026-04-18_justice-gov_lakeland-man-pleads-guilty-receiving-child-sex-abuse-videos-largest-darknet-child",
+            "2021-03-29_wfla_doj-lakeland-man-bitcoin-buy-child-porn-darknet",
+            "2021-07-01_shorenewsnetwork_lakeland-man-sentenced-9-years-darkweb",
+            "2019-10-16_securityboulevard_welcome-to-video-raid-337-arrests-bitcoin-kyc",
+            "2019-10-16_wtsp_florida-men-among-hundreds-charged-worldwide-child-porn-takedown",
+        ],
+    },
+    "operation-us-v-to-more-than-and-lakeland-man": {
+        "sources": [
+            "2026-04-18_justice-gov_lakeland-man-sentenced-more-9-years-federal-prison-downloading-and-possessing-child-sex",
+            "2021-03-29_wfla_doj-lakeland-man-bitcoin-buy-child-porn-darknet",
+            "2021-07-01_shorenewsnetwork_lakeland-man-sentenced-9-years-darkweb",
+            "2019-10-16_securityboulevard_welcome-to-video-raid-337-arrests-bitcoin-kyc",
+            "2019-10-16_wtsp_florida-men-among-hundreds-charged-worldwide-child-porn-takedown",
+        ],
+    },
+    "operation-newport-news-man-sentenced-for-prolific-card-swiping-operation": {
+        "sources": [
+            "2026-04-18_justice-gov_newport-news-man-sentenced-prolific-card-swiping-operation",
+            "2024-03-08_wavy_newport-news-man-sentenced-prolific-card-swiping-operation",
+            "2024-03-08_13newsnow_newport-news-man-sentenced-9-plus-years-identity-theft",
+            "2024-03-08_yahoo_newport-news-man-sentenced-prolific-card-swiping",
+            "2024-01-10_pacermonitor_usa-v-dorsey-edva-1-24-cr-00007",
+        ],
+    },
+    "operation-us-v-nehemie-almonor": {
+        "sources": [
+            "2026-04-18_justice-gov_newport-news-man-sentenced-prolific-card-swiping-operation",
+            "2024-03-08_wavy_newport-news-man-sentenced-prolific-card-swiping-operation",
+            "2024-03-08_13newsnow_newport-news-man-sentenced-9-plus-years-identity-theft",
+            "2024-03-08_yahoo_newport-news-man-sentenced-prolific-card-swiping",
+            "2024-01-10_pacermonitor_usa-v-dorsey-edva-1-24-cr-00007",
+        ],
+    },
+    "operation-us-v-burgamy-wilson-dark-web": {
+        "sources": [
+            "2020-07-10_edva_burgamy-wilson-darknet-firebomb-plea",
+            "2020-11-20_cbsbaltimore_maryland-drug-dealer-nebraska-pharmacist-sentenced-firebomb",
+            "2020-07-10_fda_darknet-vendor-pharmacist-firebomb-plea",
+            "2020-11-20_journalstar_pair-sentenced-auburn-pharmacy-firebomb-plot",
+            "2020-11-20_washingtontimes_pair-sentenced-nebraska-pharmacy-fire-bomb-plot",
+        ],
+    },
+    "operation-two-russian-nationals-charged-in-connection-with-operating-billion-dollar-money-laundering-services-justice-de": {
+        "sources": [
+            "2026-04-18_justice-gov_two-russian-nationals-charged-connection-operating-billion-dollar-money-laundering",
+            "2025-03-07_cyberscoop_russian-crypto-exchange-garantex-seized-international-operation",
+            "2025-03-07_coindesk_sanctioned-russian-crypto-exchange-garantex-seized-operators-charged-money-laundering",
+            "2025-03-07_techcrunch_us-charges-admins-garantex-money-laundering-terrorists-hackers",
+            "2025-03-07_chainalysis_international-action-dismantles-russian-crypto-exchange-garantex",
+        ],
+    },
+    "operation-us-v-castillo-rosario-vasquez-roman-dark-web": {
+        "sources": [
+            "2025-06-06_edva_castillo-rosario-vasquez-roman-darknet-sentencing",
+            "2025-04-14_dea_darknet-vendor-sentenced-conspiracy-sell-counterfeit-drugs",
+            "2024-02-01_pacermonitor_usa-v-vasquez-edva-1-24-cr-00076",
+            "2024-02-01_blocktribune_darknet-marketplace-vendor-counterfeit-adderall-bitcoin",
+            "2024-02-15_darknetlive_counterfeit-adderall-vendors-mrjohnson-nuveodeluxe-allstaterx-busted",
+        ],
+    },
+    "operation-us-v-gregory-castillo-rosario-joseph-james-vasquez-joshua-william-vas": {
+        "sources": [
+            "2025-06-06_justice-gov_united-states-v-gregory-castillo-rosario-joseph-james-vasquez-joshua-william-vas",
+            "2025-04-14_dea_darknet-vendor-sentenced-conspiracy-sell-counterfeit-drugs",
+            "2024-02-01_pacermonitor_usa-v-vasquez-edva-1-24-cr-00076",
+            "2024-02-01_blocktribune_darknet-marketplace-vendor-counterfeit-adderall-bitcoin",
+            "2024-02-15_darknetlive_counterfeit-adderall-vendors-mrjohnson-nuveodeluxe-allstaterx-busted",
+        ],
+    },
+    "operation-us-v-dittman-schiffner-langer-dark-web": {
+        "sources": [
+            "2023-07-14_edva_dittman-schiffner-langer-darknet-sentencing",
+            "2023-07-14_fda_three-darknet-fentanyl-vendors-sentenced-over-20-years-prison",
+            "2023-07-14_ice_hsi-arizona-3-darknet-fentanyl-vendors-prison",
+            "2023-07-14_wjla_dark-web-drug-trio-arizona-sentenced",
+            "2023-01-21_yahoo_dark-web-drug-trafficker-fbi-roadmap-clients-journal",
+        ],
+    },
+    "operation-us-v-veronica-dittman-rick-schiffner-and-devin-langer": {
+        "sources": [
+            "2023-07-14_justice-gov_united-states-v-veronica-dittman-rick-schiffner-and-devin-langer",
+            "2023-07-14_fda_three-darknet-fentanyl-vendors-sentenced-over-20-years-prison",
+            "2023-07-14_ice_hsi-arizona-3-darknet-fentanyl-vendors-prison",
+            "2023-07-14_wjla_dark-web-drug-trio-arizona-sentenced",
+            "2023-01-21_yahoo_dark-web-drug-trafficker-fbi-roadmap-clients-journal",
+        ],
+    },
+    "operation-us-v-roberts-dark-web": {
+        "sources": [
+            "2021-08-04_edva_roberts-darknet-drug-vendor-plea",
+            "2021-08-04_dea_darknet-drug-vendor-pleads-guilty-distributing-illicit-prescription-drugs",
+            "2021-08-04_shorenewsnetwork_darknet-drug-vendor-pleads-guilty-distributing-illicit-prescription-drugs",
+            "2021-08-08_darknetdaily_pillpusher-pleads-guilty-drug-charges",
+            "2021-08-04_darkweblive_pillpusher-pleads-guilty-prescription-drugs",
+        ],
+    },
+    "operation-us-v-akshay-ram-kancharla": {
+        "sources": [
+            "2022-05-26_justice-gov_united-states-v-akshay-ram-kancharla",
+            "2022-05-26_washingtonpost_kancharla-tampa-fentanyl-plea-virginia",
+            "2022-05-26_shorenewsnetwork_darknet-vendor-fentanyl-laced-pills-pleads-guilty",
+            "2022-05-26_dariknews_kancharla-tampa-fentanyl-plea",
+            "2022-05-31_safemedicines_psm-online-congressional-briefing-drug-importation",
+        ],
+    },
+    "operation-woodbridge-man-convicted-again-for-possessing-child-sexual-abuse-material": {
+        "sources": [
+            "2026-04-18_justice-gov_woodbridge-man-convicted-again-possessing-child-sexual-abuse-material",
+            "2024-07-31_dhs-hsi_washington-dc-investigation-virginia-man-csam-conviction",
+            "2024-06-22_patch_woodbridge-man-second-child-porn-conviction",
+            "2017-11-03_washingtonpost_he-wanted-sheriffs-deputy-now-prison-child-porn-case",
+            "2013-07-25_washingtonpost_pr-william-police-arrest-woodbridge-man-possession-child-porn",
+        ],
+    },
+    "operation-woodbridge-man-convicted-again-possessing-child-sexual-abuse-material": {
+        "sources": [
+            "2026-04-18_justice-gov_woodbridge-man-convicted-again-possessing-child-sexual-abuse-material",
+            "2024-07-31_dhs-hsi_washington-dc-investigation-virginia-man-csam-conviction",
+            "2024-06-22_patch_woodbridge-man-second-child-porn-conviction",
+            "2017-11-03_washingtonpost_he-wanted-sheriffs-deputy-now-prison-child-porn-case",
+            "2013-07-25_washingtonpost_pr-william-police-arrest-woodbridge-man-possession-child-porn",
+        ],
+    },
+    "operation-us-v-conor-brian-fitzpatrick": {
+        "sources": [
+            "2026-04-18_justice-gov_garantex-cryptocurrency-exchange-disrupted-international-operation",
+            "2025-03-07_cyberscoop_russian-crypto-exchange-garantex-seized-international-operation",
+            "2025-03-07_coindesk_sanctioned-russian-crypto-exchange-garantex-seized-operators-charged-money-laundering",
+            "2025-03-07_techcrunch_us-charges-admins-garantex-money-laundering-terrorists-hackers",
+            "2025-03-07_chainalysis_international-action-dismantles-russian-crypto-exchange-garantex",
+        ],
+    },
 
 }
 

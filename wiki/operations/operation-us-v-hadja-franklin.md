@@ -64,11 +64,21 @@ sources:
   - "[[2026-04-18_justice-gov_pennsylvania-family-pleads-guilty-fentanyl-trafficking]]"
 summary: "This domestic-only U.S. follow-on record has been absorbed into the canonical case page [[us-v-hadja-franklin]]. No visible cross-border mechanism is documented, so it is not treated as a separate international-cooperation operation."
 created: 2026-04-18
-updated: 2026-04-22
+updated: 2026-04-25
 ---
 ## Summary
 
 This domestic-only U.S. follow-on record has been absorbed into the canonical case page [[us-v-hadja-franklin]]. No visible cross-border mechanism is documented, so it is not treated as a separate international-cooperation operation.
+
+> [!info] Source enrichment — single-source justification (2026-04-25)
+> This page references the same EDVA press release as [[operation-pennsylvania-family-pleads-guilty-to-fentanyl-trafficking]]; Hadja Franklin is one of the three Bangurah/Franklin family co-defendants.
+> Searched for additional credible sources:
+> - DOJ follow-up press releases (sentencing/conviction): not found
+> - Parallel federal agency press releases: only an FDA-OCI reprint
+> - Court records (PACER / midpage): no public docket coverage with narrative
+> - Local press coverage: not found
+>
+> This appears to be a single-press-release domestic action. `source_count: 1` is retained per LESSON L19.
 
 ## Canonical Record
 

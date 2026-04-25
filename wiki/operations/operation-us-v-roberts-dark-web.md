@@ -51,11 +51,15 @@ challenges_encountered:
 
 lessons_learned:
 
-source_count: 1
+source_count: 5
 sources:
   - "[[2021-08-04_edva_roberts-darknet-drug-vendor-plea]]"
+  - "[[2021-08-04_dea_darknet-drug-vendor-pleads-guilty-distributing-illicit-prescription-drugs]]"
+  - "[[2021-08-04_shorenewsnetwork_darknet-drug-vendor-pleads-guilty-distributing-illicit-prescription-drugs]]"
+  - "[[2021-08-08_darknetdaily_pillpusher-pleads-guilty-drug-charges]]"
+  - "[[2021-08-04_darkweblive_pillpusher-pleads-guilty-prescription-drugs]]"
 created: 2026-04-17
-updated: 2026-04-22
+updated: 2026-04-25
 operation_role: follow-on
 parent_operation: ""
 summary: "This domestic-only U.S. follow-on record has been absorbed into the canonical case page [[us-v-roberts-dark-web]]. No visible cross-border mechanism is documented, so it is not treated as a separate international-cooperation operation."
@@ -76,6 +80,10 @@ This domestic-only U.S. follow-on record has been absorbed into the canonical ca
 
 ## References
 
-| # | Source | Publisher | Date | URL |
+| # | Title | Publisher | Date | URL |
 |---|---|---|---|---|
 | [1] | Darknet Drug Vendor Pleads Guilty to Distributing Illicit Prescription Drugs | US DOJ (Eastern District of Virginia) | 2021-08-04 | https://www.justice.gov/usao-edva/pr/darknet-drug-vendor-pleads-guilty-distributing-illicit-prescription-drugs |
+| [2] | Darknet Drug Vendor Pleads Guilty to Distributing Illicit Prescription Drugs | DEA | 2021-08-04 | https://admin.dea.gov/press-releases/2021/08/04/darknet-drug-vendor-pleads-guilty-distributing-illicit-prescription-drugs |
+| [3] | Darknet Drug Vendor Pleads Guilty to Distributing Illicit Prescription Drugs | Shore News Network | 2021-08-04 | https://www.shorenewsnetwork.com/2021/08/04/darknet-drug-vendor-pleads-guilty-to-distributing-illicit-prescription-drugs/ |
+| [4] | Prescription Vendor 'Pillpusher' Pleads Guilty to Drug Charges | Dark Net Daily | 2021-08-08 | https://darknetdaily.com/2021/08/08/prescription-vendor-pillpusher-pleads-guilty-to-drug-charges/ |
+| [5] | Pillpusher pleads guilty to selling prescription drugs | Dark Web Live | 2021-08-04 | https://darkweblive.net/pillpusher-pleads-guilty-to-selling-prescription-drugs/ |

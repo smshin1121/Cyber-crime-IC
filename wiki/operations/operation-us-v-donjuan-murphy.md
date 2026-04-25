@@ -64,11 +64,16 @@ sources:
   - "[[2026-04-18_justice-gov_firebomb-attack-plotters-sentenced-combined-over-23-years-prison]]"
 summary: "This domestic-only U.S. follow-on record has been absorbed into the canonical case page [[us-v-donjuan-murphy]]. No visible cross-border mechanism is documented, so it is not treated as a separate international-cooperation operation."
 created: 2026-04-18
-updated: 2026-04-22
+updated: 2026-04-25
 ---
 ## Summary
 
 This domestic-only U.S. follow-on record has been absorbed into the canonical case page [[us-v-donjuan-murphy]]. No visible cross-border mechanism is documented, so it is not treated as a separate international-cooperation operation.
+
+> [!warning] Source enrichment — filename/content mismatch (2026-04-25, LESSON L1)
+> The DOJ press release this operation cites (https://www.justice.gov/usao-edva/pr/firebomb-attack-plotters-sentenced-combined-over-23-years-prison) is the November 20, 2020 sentencing of William Burgamy IV (14 years) and Hyrum T. Wilson (9 years) for the Auburn, Nebraska pharmacy firebomb plot. **The name "Donjuan Murphy" does not appear in that press release or in any related media coverage of the case.** Multiple WebSearch passes (justice.gov, courtlistener, fbi.gov, news outlets) returned zero results matching this defendant name in the Eastern District of Virginia.
+>
+> This is a filename-vs-content mismatch (L1, L16). The slug appears to be either a data-entry artifact or a placeholder name that does not correspond to a real defendant on this press release. `source_count: 1` is retained per LESSON L19; no fabricated sources will be added. The companion canonical case page should be reviewed and either renamed (to align with Burgamy/Wilson) or removed.
 
 ## Canonical Record
 

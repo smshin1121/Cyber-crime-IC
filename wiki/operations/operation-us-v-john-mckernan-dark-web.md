@@ -55,7 +55,7 @@ source_count: 1
 sources:
   - "[[2023-04-07_edva_john-mckernan-darknet-sentencing]]"
 created: 2026-04-17
-updated: 2026-04-22
+updated: 2026-04-25
 operation_role: follow-on
 parent_operation: ""
 summary: "This domestic-only U.S. follow-on record has been absorbed into the canonical case page [[us-v-john-mckernan-dark-web]]. No visible cross-border mechanism is documented, so it is not treated as a separate international-cooperation operation."
@@ -69,6 +69,16 @@ crime_types:
 ## Summary
 
 This domestic-only U.S. follow-on record has been absorbed into the canonical case page [[us-v-john-mckernan-dark-web]]. No visible cross-border mechanism is documented, so it is not treated as a separate international-cooperation operation.
+
+> [!info] Source enrichment — single-source justification (2026-04-25)
+> Searched for additional credible sources covering this defendant (John McKernan / "KingofKeys", Scottsdale AZ darknet fentanyl vendor):
+> - DOJ follow-up press releases: only the 2023-04-07 EDVA sentencing release; no separate plea/indictment release found
+> - Parallel federal agency press releases (FBI Phoenix/DEA/HSI Arizona): no published parallel release identified
+> - Court records (PACER / CourtListener): no public narrative docket coverage
+> - Local press coverage: KTAR News (Phoenix) only
+> - Darknet-research outlets: DarkwebTrust and SafeMedicines (weekly roundup)
+>
+> Three independent secondary outlets were located, falling short of the 4-source threshold for Path A reinforcement. `source_count: 1` is retained per LESSON L19. The three outlets located (KTAR, DarkwebTrust, SafeMedicines) have been preserved as `wiki/sources/` files for future enrichment.
 
 ## Canonical Record
 

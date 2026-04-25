@@ -59,12 +59,16 @@ challenges_encountered:
 
 lessons_learned:
 
-source_count: 1
+source_count: 5
 sources:
   - "[[2024-08-07_justice-gov_united-states-v-t-andre-mcneely-et-al]]"
+  - "[[2022-12-05_shorenewsnetwork_nigerian-national-sentenced-international-tax-fraud-mcneely]]"
+  - "[[2024-01-24_justice-gov_19-individuals-worldwide-charged-xdedic]]"
+  - "[[2024-01-24_securityaffairs_doj-charged-19-individuals-xdedic-marketplace]]"
+  - "[[2024-01-24_bleepingcomputer_us-charged-19-suspects-xdedic-cybercrime-marketplace]]"
 summary: "This domestic-only U.S. follow-on record has been absorbed into the canonical case page [[us-v-t-andre-mcneely]]. No visible cross-border mechanism is documented, so it is not treated as a separate international-cooperation operation."
 created: 2026-04-17
-updated: 2026-04-22
+updated: 2026-04-25
 ---
 ## Summary
 
@@ -76,6 +80,10 @@ This domestic-only U.S. follow-on record has been absorbed into the canonical ca
 
 ## References
 
-| # | Source | Publisher | Date | URL |
+| # | Title | Publisher | Date | URL |
 |---|---|---|---|---|
 | [1] | xDedic Marketplace | US DOJ (Middle District of Florida) | 2024-08-07 | https://www.justice.gov/usao-mdfl/victim-witness-services/xDedic |
+| [2] | Nigerian National Sentenced To More Than Six Years In Federal Prison For International Tax Fraud Scheme | Shore News Network | 2022-12-05 | https://www.shorenewsnetwork.com/2022/12/05/nigerian-national-sentenced-to-more-than-six-years-in-federal-prison-for-international-tax-fraud-scheme/ |
+| [3] | 19 Individuals Worldwide Charged In Transnational Cybercrime Investigation Of The xDedic Marketplace | US DOJ (Middle District of Florida) | 2024-01-24 | https://www.justice.gov/usao-mdfl/pr/19-individuals-worldwide-charged-transnational-cybercrime-investigation-xdedic |
+| [4] | DoJ charged 19 individuals in a transnational cybercrime investigation xDedic Marketplace | Security Affairs | 2024-01-24 | https://securityaffairs.com/157101/cyber-crime/cybercrime-investigation-xdedic-marketplace.html |
+| [5] | US charged 19 suspects linked to xDedic cybercrime marketplace | BleepingComputer | 2024-01-24 | https://www.bleepingcomputer.com/news/security/us-charged-19-suspects-linked-to-xdedic-cybercrime-marketplace/ |

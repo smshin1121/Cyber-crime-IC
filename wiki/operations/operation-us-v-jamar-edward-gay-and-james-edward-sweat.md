@@ -64,11 +64,16 @@ sources:
   - "[[2026-04-18_justice-gov_darknet-vendor-arrested-distribution-and-money-laundering-charges]]"
 summary: "This domestic-only U.S. follow-on record has been absorbed into the canonical case page [[us-v-jamar-edward-gay-and-james-edward-sweat]]. No visible cross-border mechanism is documented, so it is not treated as a separate international-cooperation operation."
 created: 2026-04-18
-updated: 2026-04-22
+updated: 2026-04-25
 ---
 ## Summary
 
 This domestic-only U.S. follow-on record has been absorbed into the canonical case page [[us-v-jamar-edward-gay-and-james-edward-sweat]]. No visible cross-border mechanism is documented, so it is not treated as a separate international-cooperation operation.
+
+> [!warning] Source enrichment — filename/content mismatch (2026-04-25, LESSON L1)
+> The DOJ press release this operation cites (https://www.justice.gov/usao-edva/pr/darknet-vendor-arrested-distribution-and-money-laundering-charges) is the April 9, 2020 EDVA arrest of William Burgamy IV (NeverPressedRx darknet pharmacy vendor, Maryland), which later led to the Burgamy/Wilson firebomb-plot prosecution covered by [[operation-us-v-burgamy-wilson-dark-web]]. **The names "Jamar Edward Gay" and "James Edward Sweat" do not appear in that press release or in any media coverage tied to it.** Multiple WebSearch passes returned zero results matching these defendant names.
+>
+> This is a filename-vs-content mismatch (L1, L16). The slug appears to be either a data-entry artifact or placeholder names. `source_count: 1` is retained per LESSON L19; no fabricated sources will be added. The companion canonical case page should be reviewed for renaming or removal.
 
 ## Canonical Record
 

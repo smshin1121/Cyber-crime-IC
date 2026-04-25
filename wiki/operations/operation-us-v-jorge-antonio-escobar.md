@@ -64,11 +64,16 @@ sources:
   - "[[2026-04-18_justice-gov_fairfax-man-sentenced-receiving-soliciting-and-promoting-child-pornography]]"
 summary: "This domestic-only U.S. follow-on record has been absorbed into the canonical case page [[us-v-jorge-antonio-escobar]]. No visible cross-border mechanism is documented, so it is not treated as a separate international-cooperation operation."
 created: 2026-04-18
-updated: 2026-04-22
+updated: 2026-04-25
 ---
 ## Summary
 
 This domestic-only U.S. follow-on record has been absorbed into the canonical case page [[us-v-jorge-antonio-escobar]]. No visible cross-border mechanism is documented, so it is not treated as a separate international-cooperation operation.
+
+> [!warning] Source enrichment — filename/content mismatch (2026-04-25, LESSON L1)
+> The DOJ press release this operation cites (https://www.justice.gov/usao-edva/pr/fairfax-man-sentenced-receiving-soliciting-and-promoting-child-pornography) is the August 2021 sentencing of **Christopher Robert Sueiro**, 40, of Fairfax, to 20 years for downloading and promoting CSAM via a darknet hidden-service forum. **The name "Jorge Antonio Escobar" does not appear in the press release or in any media coverage tied to it** (WTOP News, Patch, InsideNova, Daily Caller, MoreLaw all confirm Sueiro). Multiple WebSearch passes returned zero independent results for "Jorge Antonio Escobar" in this EDVA prosecution.
+>
+> This is a filename-vs-content mismatch (L1, L16). The slug appears to be either a data-entry artifact or a placeholder name. `source_count: 1` is retained per LESSON L19; no fabricated sources will be added. The companion canonical case page should be reviewed for renaming (to Sueiro) or removal.
 
 ## Canonical Record
 

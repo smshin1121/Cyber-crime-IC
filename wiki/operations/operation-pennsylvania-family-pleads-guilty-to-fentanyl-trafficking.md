@@ -64,11 +64,21 @@ sources:
   - "[[2026-04-18_justice-gov_pennsylvania-family-pleads-guilty-fentanyl-trafficking]]"
 summary: "This domestic-only U.S. follow-on record has been absorbed into the canonical case page [[pennsylvania-family-pleads-guilty-to-fentanyl-trafficking]]. No visible cross-border mechanism is documented, so it is not treated as a separate international-cooperation operation."
 created: 2026-04-18
-updated: 2026-04-22
+updated: 2026-04-25
 ---
 ## Summary
 
 This domestic-only U.S. follow-on record has been absorbed into the canonical case page [[pennsylvania-family-pleads-guilty-to-fentanyl-trafficking]]. No visible cross-border mechanism is documented, so it is not treated as a separate international-cooperation operation.
+
+> [!info] Source enrichment — single-source justification (2026-04-25)
+> Searched for additional credible sources covering this defendant/case (Tobyhanna PA Bangurah/Franklin family, MonPham darknet vendor):
+> - DOJ follow-up press releases (sentencing/conviction): not found beyond the original 2024-03-05 plea announcement
+> - Parallel federal agency press releases: only an FDA-OCI reprint of the same DOJ release; no independent FBI/DEA/HSI release
+> - Court records (CourtListener / PACER / midpage / justia): no public docket coverage with narrative
+> - Local press coverage in Pocono region or Eastern District of Virginia: not found
+> - Specialized trade press: not found
+>
+> This appears to be a single-press-release domestic action with only an agency-reprint companion. `source_count: 1` is retained per LESSON L19 (do not assert sources that do not exist).
 
 ## Canonical Record
 

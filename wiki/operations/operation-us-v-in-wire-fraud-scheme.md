@@ -64,11 +64,21 @@ sources:
   - "[[2026-04-18_justice-gov_foreign-national-indicted-wire-fraud-scheme]]"
 summary: "This domestic-only U.S. follow-on record has been absorbed into the canonical case page [[us-v-in-wire-fraud-scheme]]. No visible cross-border mechanism is documented, so it is not treated as a separate international-cooperation operation."
 created: 2026-04-18
-updated: 2026-04-22
+updated: 2026-04-25
 ---
 ## Summary
 
 This domestic-only U.S. follow-on record has been absorbed into the canonical case page [[us-v-in-wire-fraud-scheme]]. No visible cross-border mechanism is documented, so it is not treated as a separate international-cooperation operation.
+
+> [!info] Source enrichment — single-source justification (2026-04-25)
+> Searched for additional credible sources covering this defendant/case (Ken-ichi Larroza Hatakama, Filipino national):
+> - DOJ follow-up press releases (sentencing/conviction): not found (case appears pending)
+> - Parallel federal agency press releases (FBI/DEA/IRS-CI/ICE/HSI): not found
+> - Court records (CourtListener / PACER / midpage / justia): docket exists but no narrative coverage
+> - Local press coverage in Orlando area: only WFTV piece (single outlet, syndicated to Yahoo); no second independent outlet
+> - Specialized trade press: not found despite the malicious-code element (case received minimal coverage)
+>
+> This is effectively a single-press-release indictment with only one independent local TV outlet (WFTV) reposting, insufficient to reach the 4+ secondary threshold. `source_count: 1` is retained per LESSON L19 (do not assert sources that do not exist).
 
 ## Canonical Record
 
