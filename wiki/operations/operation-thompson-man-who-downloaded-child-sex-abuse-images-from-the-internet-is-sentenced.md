@@ -64,11 +64,21 @@ sources:
   - "[[2026-04-18_justice-gov_thompson-man-who-downloaded-child-sex-abuse-images-internet-sentenced]]"
 summary: "This domestic-only U.S. follow-on record has been absorbed into the canonical case page [[thompson-man-who-downloaded-child-sex-abuse-images-from-the-internet-is-sentenced]]. No visible cross-border mechanism is documented, so it is not treated as a separate international-cooperation operation."
 created: 2026-04-18
-updated: 2026-04-22
+updated: 2026-04-25
 ---
 ## Summary
 
 This domestic-only U.S. follow-on record has been absorbed into the canonical case page [[thompson-man-who-downloaded-child-sex-abuse-images-from-the-internet-is-sentenced]]. No visible cross-border mechanism is documented, so it is not treated as a separate international-cooperation operation.
+
+> [!info] Source enrichment — single-source justification (2026-04-25)
+> Searched for additional credible sources covering this defendant/case (Shayne Shayer, sentenced March 4, 2022; HSI investigation initiated by European law enforcement):
+> - DOJ follow-up press releases: not found beyond the sentencing release
+> - Parallel federal agency press releases (HSI/ICE): not found as standalone releases for this defendant
+> - Court records: docket exists but no narrative coverage
+> - Local press coverage: Daily Voice (Windham-Willimantic) carried the story with DOJ-derived facts; ShoreNews mirrored DOJ release
+> - Specialized trade press: not found
+>
+> Although the underlying HSI investigation traced back to a European law enforcement referral (potential IC element), no independent reporting documents the foreign side. `source_count: 1` is retained per LESSON L19; the European-origin lead is noted for analytical context but not asserted as a separate source.
 
 ## Canonical Record
 

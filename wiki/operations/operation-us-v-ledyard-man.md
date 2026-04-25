@@ -64,11 +64,21 @@ sources:
   - "[[2026-04-18_justice-gov_ledyard-man-charged-child-exploitation-offense]]"
 summary: "This domestic-only U.S. follow-on record has been absorbed into the canonical case page [[us-v-ledyard-man]]. No visible cross-border mechanism is documented, so it is not treated as a separate international-cooperation operation."
 created: 2026-04-18
-updated: 2026-04-22
+updated: 2026-04-25
 ---
 ## Summary
 
 This domestic-only U.S. follow-on record has been absorbed into the canonical case page [[us-v-ledyard-man]]. No visible cross-border mechanism is documented, so it is not treated as a separate international-cooperation operation.
+
+> [!info] Source enrichment — single-source justification (2026-04-25)
+> Searched for additional credible sources covering this defendant/case (Jason Gibson, charged May 29, 2025):
+> - DOJ follow-up press releases: subsequent plea release exists but covers sibling operation pages
+> - Parallel federal agency press releases: not found
+> - Court records: docket exists but no narrative coverage
+> - Local press coverage: WTNH and The Day carried the arrest; no IC angle
+> - Specialized trade press: not found
+>
+> This duplicate-named follow-on page (sibling to operation-ledyard-man-charged-with-child-exploitation-offense) shares the same underlying case and lacks independent secondary IC-relevant coverage. `source_count: 1` is retained per LESSON L19.
 
 ## Canonical Record
 

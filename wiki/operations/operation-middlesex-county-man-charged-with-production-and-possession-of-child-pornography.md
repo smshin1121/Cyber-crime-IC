@@ -64,11 +64,21 @@ sources:
   - "[[2026-04-18_justice-gov_middlesex-county-man-charged-production-and-possession-child-pornography]]"
 summary: "This domestic-only U.S. follow-on record has been absorbed into the canonical case page [[middlesex-county-man-charged-with-production-and-possession-of-child-pornography]]. No visible cross-border mechanism is documented, so it is not treated as a separate international-cooperation operation."
 created: 2026-04-18
-updated: 2026-04-22
+updated: 2026-04-25
 ---
 ## Summary
 
 This domestic-only U.S. follow-on record has been absorbed into the canonical case page [[middlesex-county-man-charged-with-production-and-possession-of-child-pornography]]. No visible cross-border mechanism is documented, so it is not treated as a separate international-cooperation operation.
+
+> [!info] Source enrichment — single-source justification (2026-04-25)
+> Searched for additional credible sources covering Anthony Lagotta Jr. (54, Plainsboro, NJ) and the August 2024 production / possession of child sexual abuse material charge:
+> - DOJ follow-up press releases (sentencing/conviction): not found as of 2026-04-25
+> - Parallel federal agency press releases (FBI Newark / HSI / USPIS): not found
+> - Court records (CourtListener / PACER / midpage / justia): docket likely sealed or pre-conviction; no narrative coverage found
+> - Local press coverage in Middlesex County / Newark: not found (Patch / NJ.com / Star-Ledger searches yield only the DOJ release as primary)
+> - Specialized trade press: not relevant — case lacks cyber/IC elements warranting trade coverage
+>
+> This appears to be a single-press-release domestic CSAM action with no independent secondary coverage. `source_count: 1` is retained per LESSON L19 (do not assert sources that do not exist).
 
 ## Canonical Record
 

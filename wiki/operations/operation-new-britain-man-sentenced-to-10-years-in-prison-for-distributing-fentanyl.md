@@ -64,11 +64,21 @@ sources:
   - "[[2026-04-18_justice-gov_new-britain-man-sentenced-10-years-prison-distributing-fentanyl]]"
 summary: "This domestic-only U.S. follow-on record has been absorbed into the canonical case page [[new-britain-man-sentenced-to-10-years-in-prison-for-distributing-fentanyl]]. No visible cross-border mechanism is documented, so it is not treated as a separate international-cooperation operation."
 created: 2026-04-18
-updated: 2026-04-22
+updated: 2026-04-25
 ---
 ## Summary
 
 This domestic-only U.S. follow-on record has been absorbed into the canonical case page [[new-britain-man-sentenced-to-10-years-in-prison-for-distributing-fentanyl]]. No visible cross-border mechanism is documented, so it is not treated as a separate international-cooperation operation.
+
+> [!info] Source enrichment — single-source justification (2026-04-25)
+> Searched for additional credible sources covering this defendant/case (Kyle Petersen, sentenced July 19, 2017):
+> - DOJ follow-up press releases: not found (this is the sentencing release; conviction was via plea on April 26, 2017)
+> - Parallel federal agency press releases: DEA mirrored the DOJ release verbatim — no independent reporting
+> - Court records (CourtListener / PACER): docket exists but no narrative coverage
+> - Local press coverage (Hartford Courant / NBC CT): not found via WebSearch
+> - Specialized trade press: not found (purely local fentanyl distribution case, no IC elements)
+>
+> This is a domestic DEA Hartford Task Force / New Britain PD investigation with no cross-border element. `source_count: 1` is retained per LESSON L19.
 
 ## Canonical Record
 

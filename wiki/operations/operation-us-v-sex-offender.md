@@ -64,11 +64,21 @@ sources:
   - "[[2026-04-18_justice-gov_sex-offender-pleads-guilty-child-exploitation-offense-admits-violating-supervised]]"
 summary: "This domestic-only U.S. follow-on record has been absorbed into the canonical case page [[us-v-sex-offender]]. No visible cross-border mechanism is documented, so it is not treated as a separate international-cooperation operation."
 created: 2026-04-18
-updated: 2026-04-22
+updated: 2026-04-25
 ---
 ## Summary
 
 This domestic-only U.S. follow-on record has been absorbed into the canonical case page [[us-v-sex-offender]]. No visible cross-border mechanism is documented, so it is not treated as a separate international-cooperation operation.
+
+> [!info] Source enrichment — single-source justification (2026-04-25)
+> Searched for additional credible sources covering this defendant/case (sex-offender plea on supervised-release violation, August 13, 2024):
+> - DOJ follow-up press releases (sentencing): not found via WebSearch given the generic title
+> - Parallel federal agency press releases (FBI/HSI/USMS): not found
+> - Court records: docket exists but no narrative coverage
+> - Local press coverage: minimal and redundant
+> - Specialized trade press: not found
+>
+> The defendant title is generic ("Sex Offender") and the underlying case is a domestic supervised-release violation with no cross-border element. This is also a duplicate-named follow-on page (sibling to operation-sex-offender-pleads-guilty-to-child-exploitation-offense-admits-violating-supervised-release). `source_count: 1` is retained per LESSON L19.
 
 ## Canonical Record
 

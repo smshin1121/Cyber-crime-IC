@@ -64,11 +64,21 @@ sources:
   - "[[2026-04-18_justice-gov_union-county-new-jersey-man-charged-receiving-child-pornography]]"
 summary: "This domestic-only U.S. follow-on record has been absorbed into the canonical case page [[union-county-new-jersey-man-charged-with-receiving-child-pornography]]. No visible cross-border mechanism is documented, so it is not treated as a separate international-cooperation operation."
 created: 2026-04-18
-updated: 2026-04-22
+updated: 2026-04-25
 ---
 ## Summary
 
 This domestic-only U.S. follow-on record has been absorbed into the canonical case page [[union-county-new-jersey-man-charged-with-receiving-child-pornography]]. No visible cross-border mechanism is documented, so it is not treated as a separate international-cooperation operation.
+
+> [!info] Source enrichment — single-source justification (2026-04-25)
+> Searched for additional credible sources covering the February 2019 charging of a Union County, NJ man with receiving child pornography:
+> - DOJ follow-up press releases (sentencing/conviction): the related defendant Jeffrey Shreve (35, Scotch Plains) appears in a March 2019 distribution-charges release — separate filename, possibly different defendant
+> - Parallel federal agency press releases (FBI Newark / HSI): one HSI involvement is referenced but no parallel agency PR was located
+> - Court records (CourtListener / PACER / midpage / justia): no narrative coverage found
+> - Local press coverage: not found
+> - Specialized trade press: not applicable
+>
+> This appears to be a single-press-release domestic CSAM action without identified follow-up coverage. `source_count: 1` is retained per LESSON L19 (do not assert sources that do not exist) and L1 (do not conflate filename-similar releases without verification).
 
 ## Canonical Record
 

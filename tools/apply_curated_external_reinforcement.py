@@ -4312,6 +4312,303 @@ CURATED: dict[str, dict[str, Any]] = {
             "2025-03-07_chainalysis_international-action-dismantles-russian-crypto-exchange-garantex",
         ],
     },
+    "operation-us-v-mateo-ventura": {
+        "sources": [
+            "2026-04-18_justice-gov_massachusetts-man-sentenced-knowingly-concealing-source-material-support-or-resources",
+            "2023-10-17_nbcboston_mass-teen-indicted-on-federal-charge-in-isis-supporting-gift-card-scheme",
+            "2026-01-09_boston-com_wakefield-man-sentenced-for-plot-to-support-isis-terrorism-with-gift-cards",
+            "2026-01-09_fallriverreporter_massachusetts-man-sentenced-to-prison-after-being-accused-of-supporting-isis",
+            "2023-10-17_cbsboston_wakefield-mateo-ventura-indicted-gift-cards-isis",
+        ],
+    },
+    "operation-massachusetts-man-pleads-guilty-knowingly-concealing-source-material-support-or": {
+        "sources": [
+            "2026-04-18_justice-gov_massachusetts-man-pleads-guilty-knowingly-concealing-source-material-support-or",
+            "2023-10-17_nbcboston_mass-teen-indicted-on-federal-charge-in-isis-supporting-gift-card-scheme",
+            "2026-01-09_boston-com_wakefield-man-sentenced-for-plot-to-support-isis-terrorism-with-gift-cards",
+            "2026-01-09_fallriverreporter_massachusetts-man-sentenced-to-prison-after-being-accused-of-supporting-isis",
+            "2023-10-17_cbsboston_wakefield-mateo-ventura-indicted-gift-cards-isis",
+        ],
+    },
+    "operation-massachusetts-man-pleads-guilty-to-knowingly-concealing-the-source-of-material-support-or-resources-to-isis": {
+        "sources": [
+            "2026-04-18_justice-gov_massachusetts-man-pleads-guilty-knowingly-concealing-source-material-support-or",
+            "2023-10-17_nbcboston_mass-teen-indicted-on-federal-charge-in-isis-supporting-gift-card-scheme",
+            "2026-01-09_boston-com_wakefield-man-sentenced-for-plot-to-support-isis-terrorism-with-gift-cards",
+            "2026-01-09_fallriverreporter_massachusetts-man-sentenced-to-prison-after-being-accused-of-supporting-isis",
+            "2023-10-17_cbsboston_wakefield-mateo-ventura-indicted-gift-cards-isis",
+        ],
+    },
+    "operation-massachusetts-man-sentenced-for-knowingly-concealing-the-source-of-material-support-or-resources-to-isis": {
+        "sources": [
+            "2026-04-18_justice-gov_massachusetts-man-sentenced-knowingly-concealing-source-material-support-or-resources",
+            "2023-10-17_nbcboston_mass-teen-indicted-on-federal-charge-in-isis-supporting-gift-card-scheme",
+            "2026-01-09_boston-com_wakefield-man-sentenced-for-plot-to-support-isis-terrorism-with-gift-cards",
+            "2026-01-09_fallriverreporter_massachusetts-man-sentenced-to-prison-after-being-accused-of-supporting-isis",
+            "2023-10-17_cbsboston_wakefield-mateo-ventura-indicted-gift-cards-isis",
+        ],
+    },
+    "operation-us-v-scott-allison": {
+        "sources": [
+            "2026-04-18_justice-gov_kentucky-man-sentenced-15-years-prison-advertising-child-pornography",
+            "2023-09-05_wbko_glasgow-man-pleads-guilty-advertising-child-pornography",
+            "2024-05-02_wcluradio_glasgow-man-sentenced-to-15-years-on-child-porn-charges",
+            "2024-05-02_ice-gov_kentucky-man-sentenced-15-years-advertising-child-exploitation-material",
+            "2023-09-05_hoodline_kentucky-pedophile-guilty-boston-court-peddles-130k-child-abuse-images-videos-dark-web",
+        ],
+    },
+    "operation-kentucky-man-pleads-guilty-advertising-child-pornography": {
+        "sources": [
+            "2026-04-18_justice-gov_kentucky-man-pleads-guilty-advertising-child-pornography",
+            "2023-09-05_wbko_glasgow-man-pleads-guilty-advertising-child-pornography",
+            "2024-05-02_wcluradio_glasgow-man-sentenced-to-15-years-on-child-porn-charges",
+            "2024-05-02_ice-gov_kentucky-man-sentenced-15-years-advertising-child-exploitation-material",
+            "2023-09-05_hoodline_kentucky-pedophile-guilty-boston-court-peddles-130k-child-abuse-images-videos-dark-web",
+        ],
+    },
+    "operation-kentucky-man-pleads-guilty-to-advertising-child-pornography": {
+        "sources": [
+            "2026-04-18_justice-gov_kentucky-man-pleads-guilty-advertising-child-pornography",
+            "2023-09-05_wbko_glasgow-man-pleads-guilty-advertising-child-pornography",
+            "2024-05-02_wcluradio_glasgow-man-sentenced-to-15-years-on-child-porn-charges",
+            "2024-05-02_ice-gov_kentucky-man-sentenced-15-years-advertising-child-exploitation-material",
+            "2023-09-05_hoodline_kentucky-pedophile-guilty-boston-court-peddles-130k-child-abuse-images-videos-dark-web",
+        ],
+    },
+    "operation-kentucky-man-sentenced-to-15-years-in-prison-for-advertising-child-pornography": {
+        "sources": [
+            "2026-04-18_justice-gov_kentucky-man-sentenced-15-years-prison-advertising-child-pornography",
+            "2023-09-05_wbko_glasgow-man-pleads-guilty-advertising-child-pornography",
+            "2024-05-02_wcluradio_glasgow-man-sentenced-to-15-years-on-child-porn-charges",
+            "2024-05-02_ice-gov_kentucky-man-sentenced-15-years-advertising-child-exploitation-material",
+            "2023-09-05_hoodline_kentucky-pedophile-guilty-boston-court-peddles-130k-child-abuse-images-videos-dark-web",
+        ],
+    },
+    "operation-us-v-neal-staton-grubert": {
+        "sources": [
+            "2026-04-18_justice-gov_texas-man-sentenced-15-years-prison-advertising-child-pornography",
+            "2023-11-07_hoodline_texas-man-sentenced-to-15-years-for-advertising-child-pornography-international-cooperation-brings-justice",
+            "2023-11-06_fox7austin_bertram-texas-neal-grubert-sentence-advertising-child-sexual-abuse-material-dark-web",
+            "2023-07-08_mytexasdaily_texas-man-pleads-guilty-to-advertising-child-pornography-on-the-dark-web",
+            "2023-11-06_kxan_bertram-man-sentenced-in-child-pornography-case",
+        ],
+    },
+    "operation-texas-man-sentenced-to-15-years-in-prison-for-advertising-child-pornography": {
+        "sources": [
+            "2026-04-18_justice-gov_texas-man-sentenced-15-years-prison-advertising-child-pornography",
+            "2023-11-07_hoodline_texas-man-sentenced-to-15-years-for-advertising-child-pornography-international-cooperation-brings-justice",
+            "2023-11-06_fox7austin_bertram-texas-neal-grubert-sentence-advertising-child-sexual-abuse-material-dark-web",
+            "2023-07-08_mytexasdaily_texas-man-pleads-guilty-to-advertising-child-pornography-on-the-dark-web",
+            "2023-11-06_kxan_bertram-man-sentenced-in-child-pornography-case",
+        ],
+    },
+    "operation-us-v-wemerson-dutra-aguiar": {
+        "sources": [
+            "2026-04-18_justice-gov_brazilian-national-pleads-guilty-role-nationwide-rideshare-and-delivery-account-fraud-0",
+            "2022-01-27_lynnjournal_man-pleads-guilty-to-role-in-nationwide-rideshare",
+            "2021-05-07_nbcboston_19-charged-in-ride-hailing-fake-driver-account-scheme",
+            "2022-03-23_irs-gov_two-plead-guilty-in-nationwide-rideshare-and-delivery-account-fraud-scheme",
+            "2021-05-08_frankonfraud_2000-identities-stolen-for-rideshare-fraud-scheme",
+        ],
+    },
+    "operation-us-v-demario-sorrells": {
+        "sources": [
+            "2026-04-18_justice-gov_chicago-area-man-sentenced-role-nationwide-fraud-conspiracy",
+            "2024-02-08_wifr_rockford-man-pleads-guilty-nationwide-fraud-conspiracy",
+            "2024-10-01_secretservice-gov_chicago-area-rap-promotor-sentenced-nearly-three-years-prison-role",
+            "2024-08-30_wwlp_man-sentenced-in-springfield-for-using-dark-web-to-fund-chicago-rappers-lavish-lifestyle",
+            "2024-05-23_newbedfordguide_chicago-rap-promoter-boston-scam-netted-millions-private-jet-luxury-cars-designer-puppies",
+        ],
+    },
+    "operation-us-v-alexander-aiello": {
+        "sources": [
+            "2026-04-18_justice-gov_gloucester-police-officer-charged-child-pornography-offense",
+            "2025-05-09_bostonglobe_gloucester-officer-charged-with-receiving-child-pornography",
+            "2026-02-02_bostonglobe_ex-gloucester-officer-alexander-aiello-child-porn-sentence-four-years-prison",
+            "2025-05-09_nbcboston_gloucester-police-officer-charged-with-possession-of-child-pornography",
+            "2026-02-02_boston-com_former-north-shore-police-officer-gets-prison-time-for-child-porn-charge",
+        ],
+    },
+    "operation-us-v-christhian-castillo": {
+        "sources": [
+            "2026-04-18_justice-gov_guatemalan-national-and-malden-man-indicted-distributing-cocaine",
+            "2025-02-23_dea-gov_guatemalan-national-and-malden-man-arrested-for-distributing-cocaine",
+            "2025-06-01_dea-gov_guatemalan-national-and-malden-man-indicted-for-distributing-cocaine",
+            "2025-02-19_patch_two-malden-men-facing-federal-drug-charges",
+            "2025-02-23_yahoo_malden-man-guatemalan-national-arrested-for-alleged-cocaine-distribution",
+        ],
+    },
+    "operation-us-v-jonathan-fleischmann": {
+        "sources": [
+            "2026-04-18_justice-gov_violent-level-3-sex-offender-harwich-sentenced-decade-prison-child-pornography-offense",
+            "2025-03-25_hoodline_harwich-sex-offender-sentenced-to-10-years-for-child-pornography",
+            "2024-07-25_capecod_registered-sex-offender-from-harwich-pleads-guilty-to-possessing-child-pornography",
+            "2025-03-25_fallriverreporter_violent-massachusetts-level-3-sex-offender-sentenced",
+            "2025-03-25_dailyvoice_child-porn-bust-level-3-sex-offender-caught-with-hundreds-of-photos-videos",
+        ],
+    },
+    "operation-violent-level-3-sex-offender-from-harwich-sentenced-to-decade-in-prison-for-child-pornography-offense": {
+        "sources": [
+            "2026-04-18_justice-gov_violent-level-3-sex-offender-harwich-sentenced-decade-prison-child-pornography-offense",
+            "2025-03-25_hoodline_harwich-sex-offender-sentenced-to-10-years-for-child-pornography",
+            "2024-07-25_capecod_registered-sex-offender-from-harwich-pleads-guilty-to-possessing-child-pornography",
+            "2025-03-25_fallriverreporter_violent-massachusetts-level-3-sex-offender-sentenced",
+            "2025-03-25_dailyvoice_child-porn-bust-level-3-sex-offender-caught-with-hundreds-of-photos-videos",
+        ],
+    },
+    "operation-us-v-victor-da-silva-soares": {
+        "sources": [
+            "2026-04-18_justice-gov_everett-man-indicted-selling-firearms",
+            "2025-07-26_boston-com_us-attorney-everett-man-accused-of-selling-thousands-of-dollars-of-illegal-guns-in-malden-parking-lot",
+            "2025-07-26_yahoo_mass-man-indicted-for-trafficking-firearms",
+            "2025-03-25_everettindependent_brazilian-nationals-with-local-ties-charged-in-firearms-investigation",
+            "2025-03-20_hyannisnews_five-brazilian-gun-traffickers-living-in-yarmouth-barnstable",
+        ],
+    },
+    "operation-wakefield-man-pleads-guilty-to-role-in-methamphetamine-trafficking-ring": {
+        "sources": [
+            "2026-04-18_justice-gov_wakefield-man-pleads-guilty-role-methamphetamine-trafficking-ring",
+            "2025-12-10_dea-gov_wakefield-man-pleads-guilty-role-meth-trafficking-ring",
+            "2025-12-03_patch_wakefield-peabody-tewksbury-residents-plead-guilty-meth-drug-trafficking",
+            "2026-03-23_fallriverreporter_massachusetts-man-sentenced-in-drug-trafficking-ring-meth-firearms",
+            "2025-12-04_thefederalnewswire_byfield-man-pleads-guilty-for-role-in-large-scale-methamphetamine-trafficking-ring",
+        ],
+    },
+    "operation-north-reading-man-indicted-for-possession-of-child-pornography": {
+        "sources": [
+            "2026-04-18_justice-gov_north-reading-man-indicted-possession-child-pornography",
+            "2026-01-20_yahoo_massachusetts-man-indicted-on-child-porn-charge",
+            "2025-08-15_homenewshere_north-reading-man-arrested-for-possession-of-child-porn",
+            "2025-08-15_yahoo_registered-sex-offender-living-in-mass-town-caught-with-10k-child-porn-videos-images",
+            "2025-08-15_newportdispatch_north-reading-man-charged-with-child-pornography-possession",
+        ],
+    },
+    "operation-nigerian-nationals-charged-with-operating-business-compromise-scheme": {
+        "sources": [
+            "2016-12-20_justice-gov_united-states-v-odufuye-and-nwoke",
+            "2018-01-03_justice-gov_nigerian-national-admits-role-business-email-compromise-scheme",
+            "2018-12-12_justice-gov_nigerian-national-sentenced-45-months-prison-business-email-compromise-scheme",
+            "2019-05-22_justice-gov_third-nigerian-national-admits-role-business-email-compromise-scheme",
+            "2019-05-22_dailyvoice_third-person-admits-to-role-in-email-scheme-targeting-cfos-controllers",
+        ],
+    },
+    "operation-seven-charged-after-federal-investigation-disrupts-massive-counterfeit-pill-manufacturing-operation": {
+        "sources": [
+            "2026-04-18_justice-gov_seven-charged-after-federal-investigation-disrupts-massive-counterfeit-pill",
+            "2024-09-24_dea_seven-charged-after-federal-investigation-disrupts-massive-counterfeit-pill",
+            "2024-09-24_cbsnews_indictments-fake-pills-garage-lab-connecticut-doj",
+            "2024-09-23_nbcconnecticut_seizure-fake-pills-largest-ever-new-england",
+            "2024-09-23_patch_7-charged-massive-counterfeit-pill-manufacturing-operation-feds",
+        ],
+    },
+    "operation-us-v-amitoj-kapoor-and-siddharth-lillaney": {
+        "sources": [
+            "2026-04-18_justice-gov_us-v-amitoj-kapoor-and-siddharth-lillaney",
+            "2026-02-06_irs_glastonbury-men-charged-using-thousands-stolen-identities-defraud-fanduel",
+            "2026-02-09_fox61_2-connecticut-men-allegedly-defrauded-3m-from-online-gambling-companies-fanduel",
+            "2026-02-06_infosecuritymagazine_men-charged-gambling-fraud-scheme",
+            "2026-02-09_americanbazaar_two-indian-american-men-arrested-connecticut-3-m-fraud",
+        ],
+    },
+    "operation-us-v-charges-stamford-men": {
+        "sources": [
+            "2026-04-18_justice-gov_indictment-charges-stamford-men-trafficking-fentanyl",
+            "2025-04-25_dea_indictment-charges-stamford-men-trafficking-fentanyl",
+            "2025-04-09_newportdispatch_2-stamford-men-indicted-on-fentanyl-trafficking-charges",
+            "2025-04-08_patch_2-stamford-men-accused-using-mail-traffic-fentanyl-ct-feds",
+            "2025-04-08_wtnh_stamford-man-charged-with-fentanyl-cocaine-trafficking",
+        ],
+    },
+    "operation-jordanian-man-admits-selling-unauthorized-access-to-computer-networks-of-50-companies": {
+        "sources": [
+            "2026-04-18_justice-gov_jordanian-man-admits-selling-unauthorized-access-computer-networks-50-companies",
+            "2026-01-19_bleepingcomputer_jordanian-pleads-guilty-selling-access-50-corporate-networks",
+            "2026-01-20_helpnetsecurity_initial-access-broker-pleads-guilty",
+            "2026-01-20_securityaffairs_access-broker-jordanian-pleads-guilty-hacking-50-companies",
+            "2026-01-19_securityweek_jordanian-admits-us-court-selling-access-50-enterprise-networks",
+        ],
+    },
+    "operation-us-v-firas-bashiti": {
+        "sources": [
+            "2026-04-18_justice-gov_jordanian-man-admits-selling-unauthorized-access-computer-networks-50-companies",
+            "2026-01-19_bleepingcomputer_jordanian-pleads-guilty-selling-access-50-corporate-networks",
+            "2026-01-20_helpnetsecurity_initial-access-broker-pleads-guilty",
+            "2026-01-20_securityaffairs_access-broker-jordanian-pleads-guilty-hacking-50-companies",
+            "2026-01-19_securityweek_jordanian-admits-us-court-selling-access-50-enterprise-networks",
+        ],
+    },
+    "operation-leader-of-international-malvertising-and-ransomware-schemes-extradited-from-poland-to-face-cybercrime-charges": {
+        "sources": [
+            "2026-04-18_justice-gov_leader-international-malvertising-and-ransomware-schemes-extradited-poland-face",
+            "2024-08-12_secretservice_leader-international-malvertising-and-ransomware-schemes-extradited",
+            "2024-08-13_securityweek_us-charges-three-eastern-europeans-ransomware-malvertising",
+            "2024-08-14_flashpoint_usa-vs-maksim-silnikau-andrei-tarasov-volodymyr-kadariya",
+            "2024-08-13_voanews_alleged-leader-cybercriminals-extradited-us",
+        ],
+    },
+    "operation-us-v-maksym-silnikov": {
+        "sources": [
+            "2026-04-18_justice-gov_leader-international-malvertising-and-ransomware-schemes-extradited-poland-face",
+            "2024-08-12_secretservice_leader-international-malvertising-and-ransomware-schemes-extradited",
+            "2024-08-13_securityweek_us-charges-three-eastern-europeans-ransomware-malvertising",
+            "2024-08-14_flashpoint_usa-vs-maksim-silnikau-andrei-tarasov-volodymyr-kadariya",
+            "2024-08-13_voanews_alleged-leader-cybercriminals-extradited-us",
+        ],
+    },
+    "operation-us-charges-dual-russian-and-israeli-national-developer-lockbit-ransomware-group": {
+        "sources": [
+            "2026-04-18_justice-gov_us-charges-dual-russian-and-israeli-national-developer-lockbit-ransomware-group",
+            "2024-12-20_cyberscoop_justice-department-unveils-charges-against-alleged-lockbit-developer",
+            "2024-12-20_bloomberg_us-charges-israeli-national-with-working-for-lockbit-ransom-gang",
+            "2024-12-23_bitdefender_alleged-lockbit-ransomware-developer-arrested-israel-awaits-extradition",
+            "2024-12-24_thaicert_united-states-charges-russian-israeli-programmer-behind-development-lockbit-ransomware",
+        ],
+    },
+    "operation-us-v-rostislav-panev": {
+        "sources": [
+            "2026-04-18_justice-gov_dual-russian-and-israeli-national-extradited-united-states-his-role-lockbit-ransomware",
+            "2025-03-14_therecord_lockbit-alleged-russian-developer-extradited-us-israel",
+            "2025-03-14_securityaffairs_lockbit-ransomware-developer-rostislav-panev-extradited-to-us",
+            "2025-03-14_techcrunch_developer-of-lockbit-ransomware-gets-extradited-to-the-united-states",
+            "2025-03-14_infosecuritymagazine_lockbit-ransomware-developer-extradited",
+        ],
+    },
+    "operation-us-v-ruslan-astamirov-and-mikhail-vasiliev": {
+        "sources": [
+            "2024-07-18_justice-gov_united-states-v-ruslan-astamirov-and-mikhail-vasiliev",
+            "2024-07-19_therecord_lockbit-affiliates-russia-plead-guilty",
+            "2024-07-22_insurancejournal_two-russian-men-plead-guilty-in-lockbit-ransomware-attacks",
+            "2024-07-20_securityaffairs_lockbit-ransomware-group-members-plead-guilty",
+            "2024-07-19_hipaajournal_lockbit-ransomware-affiliates-plead-guilty",
+        ],
+    },
+    "operation-united-states-seized-and-files-forfeiture-action-to-recover-over-54-million-of-cryptocurrency-traceable-to-nar": {
+        "sources": [
+            "2026-04-18_justice-gov_united-states-seized-and-files-forfeiture-action-recover-over-54-million-cryptocurrency",
+            "2023-11-02_coindesk_us-seizes-drug-rings-54m-crypto-stash-as-prisoners-hatched-big-plans",
+            "2023-11-03_cryptonews_us-authorities-seize-54-million-worth-of-crypto-from-drug-ring-leader",
+            "2023-11-03_cryptodotnews_us-authorities-to-seize-54m-in-ethereum-connected-to-narcotics-trafficking",
+            "2023-11-03_watcherguru_54-million-seized-in-crypto-from-new-jersey-drug-ring-leader",
+        ],
+    },
+    "operation-new-york-man-sentenced-to-84-months-in-prison-for-conspiring-to-engage-in-multimillion-dollar-wire-fraud-schem": {
+        "sources": [
+            "2026-04-18_justice-gov_new-york-man-sentenced-84-months-prison-conspiring-engage-multimillion-dollar-wire-fraud",
+            "2023-08-25_justice-gov-usao-nj_new-york-man-charged-fraudulently-obtaining-more-1-million",
+            "2024-10-01_justice-gov-usao-nj_new-york-man-admits-conspiring-engage-multimillion-dollar-wire-fraud-scheme",
+            "2023-08-27_bkreader_new-york-man-charged-with-fraudulently-obtaining-more-than-12m",
+            "2024-10-02_regtechtimes_terrell-fullers-multimillion-dollar-fraud-scheme",
+        ],
+    },
+    "operation-us-v-terrell-fuller": {
+        "sources": [
+            "2026-04-18_justice-gov_new-york-man-sentenced-84-months-prison-conspiring-engage-multimillion-dollar-wire-fraud",
+            "2023-08-25_justice-gov-usao-nj_new-york-man-charged-fraudulently-obtaining-more-1-million",
+            "2024-10-01_justice-gov-usao-nj_new-york-man-admits-conspiring-engage-multimillion-dollar-wire-fraud-scheme",
+            "2023-08-27_bkreader_new-york-man-charged-with-fraudulently-obtaining-more-than-12m",
+            "2024-10-02_regtechtimes_terrell-fullers-multimillion-dollar-fraud-scheme",
+        ],
+    },
 
 }
 

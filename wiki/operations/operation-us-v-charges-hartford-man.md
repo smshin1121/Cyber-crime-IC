@@ -64,11 +64,21 @@ sources:
   - "[[2026-04-18_justice-gov_indictment-charges-hartford-man-federal-supervised-release-illegally-possessing-loaded]]"
 summary: "This domestic-only U.S. follow-on record has been absorbed into the canonical case page [[us-v-charges-hartford-man]]. No visible cross-border mechanism is documented, so it is not treated as a separate international-cooperation operation."
 created: 2026-04-18
-updated: 2026-04-22
+updated: 2026-04-25
 ---
 ## Summary
 
 This domestic-only U.S. follow-on record has been absorbed into the canonical case page [[us-v-charges-hartford-man]]. No visible cross-border mechanism is documented, so it is not treated as a separate international-cooperation operation.
+
+> [!info] Source enrichment — single-source justification (2026-04-25)
+> Searched for additional credible sources covering this defendant/case (Hartford man, supervised-release loaded firearm indictment, Sept 30, 2025):
+> - DOJ follow-up press releases (plea/sentencing): not found
+> - Parallel federal agency press releases (ATF/FBI): not specifically found for this individual
+> - Court records: docket likely exists but no narrative coverage
+> - Local press coverage (Hartford Courant / WTNH / WFSB): not found via WebSearch
+> - Specialized trade press: not found (firearm-possession case, no IC angle)
+>
+> This is a supervised-release-violation firearms case with no cross-border element. `source_count: 1` is retained per LESSON L19.
 
 ## Canonical Record
 

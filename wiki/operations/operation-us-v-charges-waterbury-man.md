@@ -64,11 +64,21 @@ sources:
   - "[[2026-04-18_justice-gov_indictment-charges-waterbury-man-drug-and-gun-offenses]]"
 summary: "This domestic-only U.S. follow-on record has been absorbed into the canonical case page [[us-v-charges-waterbury-man]]. No visible cross-border mechanism is documented, so it is not treated as a separate international-cooperation operation."
 created: 2026-04-18
-updated: 2026-04-22
+updated: 2026-04-25
 ---
 ## Summary
 
 This domestic-only U.S. follow-on record has been absorbed into the canonical case page [[us-v-charges-waterbury-man]]. No visible cross-border mechanism is documented, so it is not treated as a separate international-cooperation operation.
+
+> [!info] Source enrichment — single-source justification (2026-04-25)
+> Searched for additional credible sources covering this defendant/case (Timeek Heath, indicted June 4, 2025):
+> - DOJ follow-up press releases (plea/sentencing): not found
+> - Parallel federal agency press releases (DEA/ATF): DEA cross-posted the DOJ release verbatim — not independent reporting
+> - Court records (CourtListener / PACER): docket exists but no narrative coverage with IC value
+> - Local press coverage: Yahoo News and WFSB carried brief items; no IC angle
+> - Specialized trade press: not found (firearms-trafficking and fentanyl-distribution case, no transnational angle)
+>
+> This is a domestic gun-and-drugs case with no cross-border element. `source_count: 1` is retained per LESSON L19.
 
 ## Canonical Record
 

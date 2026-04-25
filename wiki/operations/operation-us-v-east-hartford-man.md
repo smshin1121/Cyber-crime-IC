@@ -64,11 +64,21 @@ sources:
   - "[[2026-04-18_justice-gov_east-hartford-man-sentenced-10-years-prison-possessing-child-sex-abuse-material-while]]"
 summary: "This domestic-only U.S. follow-on record has been absorbed into the canonical case page [[us-v-east-hartford-man]]. No visible cross-border mechanism is documented, so it is not treated as a separate international-cooperation operation."
 created: 2026-04-18
-updated: 2026-04-22
+updated: 2026-04-25
 ---
 ## Summary
 
 This domestic-only U.S. follow-on record has been absorbed into the canonical case page [[us-v-east-hartford-man]]. No visible cross-border mechanism is documented, so it is not treated as a separate international-cooperation operation.
+
+> [!info] Source enrichment — single-source justification (2026-04-25)
+> Searched for additional credible sources covering this defendant/case (Ryan Perry, sentenced January 27, 2026, with darknet-CSAM federal investigation):
+> - DOJ follow-up press releases: not found beyond the sentencing release
+> - Parallel federal agency press releases (FBI/HSI): not found
+> - Court records: docket exists but no narrative coverage
+> - Local press coverage: WTNH and Daily Voice carried the sentencing with DOJ-derived facts; only 2 secondary outlets
+> - Specialized trade press: not found
+>
+> The federal investigation reportedly traced Perry to a darknet CSAM site (potential IC element by inference), but no independent reporting documents foreign-investigative cooperation, and only two regional outlets covered the case. Below the 4-extra-source threshold for Path A. `source_count: 1` is retained per LESSON L19.
 
 ## Canonical Record
 
