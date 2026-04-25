@@ -17,13 +17,17 @@ key_findings:
 collection_url: https://en.wikipedia.org/wiki/Operation_DisrupTor
 created: 2026-04-25
 raw_path: raw/news/2020-09-22_wikipedia_operation-disruptor-wikipedia.md
-text_status: summarized
+text_status: parsed
 content_hash: sha256:ac81f2940dfb37cde22aff58e92e6ec4cf08275029e28437e0f26b549949ac38
 word_count: 827
-stored_word_count: 80
-extraction_date: 2026-04-25
+extraction_date: 2026-04-26
 last_fetcher: urllib
-copyright_policy: summary-only
+storage_mode: fulltext
+license_basis: wikimedia_terms_cc_by_sa_gfdl
+license_url: https://foundation.wikimedia.org/wiki/Policy:Terms_of_Use
+attribution_required: true
+share_alike_required: true
+attribution_url: https://en.wikipedia.org/wiki/Operation_DisrupTor
 ---
 ## Source Summary
 

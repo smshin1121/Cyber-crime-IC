@@ -6305,6 +6305,366 @@ CURATED: dict[str, dict[str, Any]] = {
             "2025-01-21_x-usao-me_dark-web-moderator-michael-posey-sentenced",
         ],
     },
+    "operation-us-v-christopher-lynn-driskill": {
+        "sources": [
+            "2026-04-18_justice-gov_coleman-man-identified-distinctive-tattoos-sentenced-720-months-federal-prison",
+            "2025-08-01_fox4news_texas-man-sentenced-60-years-child-pornography-tattoos",
+            "2025-08-01_ktxs_coleman-man-sentenced-60-years-dark-web-csam",
+            "2024-12-03_southplainslive_fbi-cracks-down-alleged-child-predator-coleman",
+            "2025-08-01_hoodline_coleman-man-sentenced-720-months-csam",
+        ],
+    },
+    "operation-us-v-michelle-murphy": {
+        "sources": [
+            "2026-04-18_justice-gov_woman-sentenced-9-years-dark-web-murder-hire-plot",
+            "2024-05-10_ice-hsi_woman-sentenced-murder-for-hire-scheme-hsi-dallas-led-investigation",
+            "2024-05-09_fox4news_bedford-woman-sentenced-bitcoin-murder-for-hire",
+            "2024-05-10_wfaa_bedford-woman-sentenced-9-years-attempted-murder-for-hire",
+            "2024-05-10_lawandcrime_girlfriend-locked-up-paying-dark-web-hitman-bitcoin",
+        ],
+    },
+    "operation-us-v-shaughnessy-dark-web": {
+        "sources": [
+            "2024-02-12_ndtx_shaughnessy-darknet-sentencing",
+            "2024-02-12_wfaa_dallas-darknet-fentanyl-dealer-24-year-prison-sentence",
+            "2024-02-12_fox4news_north-texas-man-darknet-fentanyl-shaughnessy",
+            "2022-10-01_ice-hsi_darknet-fentanyl-dealer-indicted-dallas-bitcoin",
+            "2024-02-12_hoodline_dallas-darknet-dealer-24-years-fentanyl-csam",
+        ],
+    },
+    "operation-us-v-colin-andrew-shapard": {
+        "sources": [
+            "2026-04-18_justice-gov_23-year-old-sentenced-20-years-prison-distributing-fentanyl-nearly-killed-park-city",
+            "2024-04-05_deseretnews_drug-dealer-tied-park-city-teen-deaths-prison",
+            "2024-04-05_sltrib_park-city-teen-no-jail-fentanyl-od",
+            "2024-04-04_kpcw_former-park-city-resident-20-years-fentanyl",
+            "2024-04-05_ksl_most-dangerous-drug-dealer-park-city-teen-deaths-prison",
+        ],
+    },
+    "operation-us-v-krista-renae-stone": {
+        "sources": [
+            "2026-04-18_justice-gov_woman-who-used-dark-web-commit-murder-hire-kill-ex-boyfriends-new-girlfriend-sentenced",
+            "2024-08-19_gephardtdaily_utah-woman-78-months-murder-for-hire",
+            "2024-08-19_ksl_salt-lake-woman-prison-murder-for-hire-ex-girlfriend",
+            "2024-05-30_ksl_salt-lake-woman-pleads-guilty-murder-for-hire",
+            "2024-05-30_abc4_utah-woman-bitcoin-hitman-dark-web-admits",
+        ],
+    },
+    "operation-woman-accused-murder-hire-admits-using-dark-web-carry-out-crime": {
+        "sources": [
+            "2026-04-18_justice-gov_woman-accused-murder-hire-admits-using-dark-web-carry-out-crime",
+            "2024-05-30_ksl_salt-lake-woman-pleads-guilty-murder-for-hire",
+            "2024-05-30_abc4_utah-woman-bitcoin-hitman-dark-web-admits",
+            "2024-08-19_gephardtdaily_utah-woman-78-months-murder-for-hire",
+            "2024-08-19_ksl_salt-lake-woman-prison-murder-for-hire-ex-girlfriend",
+        ],
+    },
+    "operation-us-v-patrick-mayberry": {
+        "sources": [
+            "2026-04-18_justice-gov_registered-sex-offender-charged-new-child-pornography-offense",
+            "2023-12-12_myleaderpaper_patrick-mayberry-faces-federal-csam-charge",
+            "2024-04-04_myleaderpaper_mayberry-17-year-prison-sentence-csam",
+            "2024-04-04_kfmo_registered-sex-offender-sentenced-thursday",
+            "2024-04-04_kickam1530_one-tip-17-years-federal-prison-missouri-csam",
+        ],
+    },
+    "operation-us-v-robert-merkle": {
+        "sources": [
+            "2026-04-18_justice-gov_st-louis-man-indicted-cyberstalking-charges",
+            "2022-08-11_riverfronttimes_serial-cyberstalker-merkle-faces-federal-charges",
+            "2022-08-11_fox2now_st-louis-man-indicted-cyberstalking-threatening-women",
+            "2022-08-12_wilx_53-year-old-indicted-cyberstalking-terrorizing-women",
+            "2023-08-31_kttn_missouri-man-71-months-rape-threats-five-women",
+        ],
+    },
+    "operation-us-v-seattle-man": {
+        "sources": [
+            "2026-04-18_justice-gov_seattle-man-sentenced-buying-630000-counterfeit-pills-dark-web",
+            "2024-04-12_dea_seattle-man-sentenced-buying-630000-counterfeit-pills-dark-web",
+            "2023-06-15_dea_seattle-man-admits-buying-630000-counterfeit-pills-dark-web",
+            "2024-04-13_fox13seattle_seattle-man-sentenced-dark-web-drug-trafficking",
+            "2024-04-13_kttn_seattle-man-sentenced-prison-missouri-dark-web",
+        ],
+    },
+    "operation-foreign-national-pleads-guilty-to-role-in-cybercrime-schemes-involving-tens-of-millions-of-dollars-in-losses": {
+        "sources": [
+            "2026-04-18_justice-gov_foreign-national-pleads-guilty-role-cybercrime-schemes-involving-tens-millions-dollars",
+            "2024-02-15_therecord_hacker-tank-pleads-guilty-zeus-icedid-malware",
+            "2024-02-15_bleepingcomputer_zeus-icedid-malware-gangs-leader-pleads-guilty",
+            "2024-02-16_theregister_extradited-zeus-icedid-malware-kingpin-pleads-guilty",
+            "2024-02-15_securityweek_ukrainian-pleads-guilty-zeus-icedid-malware-operations",
+        ],
+    },
+    "operation-us-v-vyacheslav-igorevich-penchukov": {
+        "sources": [
+            "2026-04-18_justice-gov_foreign-national-pleads-guilty-role-cybercrime-schemes-involving-tens-millions-dollars",
+            "2024-02-15_therecord_hacker-tank-pleads-guilty-zeus-icedid-malware",
+            "2024-02-15_bleepingcomputer_zeus-icedid-malware-gangs-leader-pleads-guilty",
+            "2024-02-16_theregister_extradited-zeus-icedid-malware-kingpin-pleads-guilty",
+            "2024-07-11_theregister_icedid-kingpin-gets-nine-years-prison",
+        ],
+    },
+    "operation-laredo-professor-charged-with-distribution-and-production-of-child-pornography": {
+        "sources": [
+            "2026-04-18_justice-gov_laredo-professor-charged-distribution-and-production-child-pornography",
+            "2024-12-09_kgns_laredo-music-teacher-arrested-child-pornography",
+            "2024-12-23_arizonadailyindependent_fbi-seeks-victims-asu-music-teacher",
+            "2024-12-09_texasscorecard_laredo-educator-arrested-csam",
+            "2024-12-09_mytexasdaily_laredo-man-charged-producing-child-exploitation-videos",
+        ],
+    },
+    "operation-us-v-marco-juarez": {
+        "sources": [
+            "2026-04-18_justice-gov_final-co-conspirator-ordered-prison-dark-web-pill-manufacturing-and-distribution-ring",
+            "2024-12-02_ice-hsi_fourth-co-conspirator-sentenced-dark-web-drug-trafficking-houston",
+            "2024-12-03_click2houston_houston-man-sentenced-meth-pills-adderall-dark-web",
+            "2024-12-02_hoodline_houston-man-sentenced-10-years-dark-web-meth-adderall",
+            "2024-12-03_mytexasdaily_houston-man-sentenced-meth-laced-pill-distribution-ring",
+        ],
+    },
+    "operation-long-beach-man-pleads-guilty-to-production-and-distribution-of-images-of-minors-engaging-in-sexually-explicit-": {
+        "sources": [
+            "2026-04-18_justice-gov_long-beach-man-pleads-guilty-production-and-distribution-images-minors-engaging",
+            "2025-04-19_thebeatofthecapital_mississippi-man-pleads-guilty-creating-sharing-explicit-images",
+            "2025-04-19_yahoo_mississippi-man-pleads-guilty-creating-sharing-explicit-images",
+            "2025-08-26_wjtv_mississippi-man-110-year-sentence-exploiting-minors",
+            "2023-02-11_wlox_long-beach-man-arrested-child-sex-crimes",
+        ],
+    },
+    "operation-long-beach-man-sentenced-to-110-years-in-prison-for-production-of-images-of-minors-engaging-in-sexually-explic": {
+        "sources": [
+            "2026-04-18_justice-gov_long-beach-man-sentenced-110-years-prison-production-images-minors-engaging-sexually",
+            "2025-08-29_yahoo_mississippi-man-110-year-sentence-exploiting-minors",
+            "2025-08-29_wkrg_biloxi-man-sentenced-mississippi-child-exploitation-investigation",
+            "2025-04-19_yahoo_mississippi-man-pleads-guilty-creating-sharing-child-explicit-images",
+            "2025-04-19_thebeatofthecapital_mississippi-man-pleads-guilty-creating-sharing-child-explicit-images",
+        ],
+    },
+    "operation-michigan-man-indicted-on-wire-fraud-and-aggravated-identity-theft-charges": {
+        "sources": [
+            "2026-04-18_justice-gov_michigan-man-indicted-wire-fraud-and-aggravated-identity-theft-charges",
+            "2025-02-21_infosecurity-magazine_michigan-man-indicted-dark-web-credential-fraud",
+            "2026-03-19_alphanews_michigan-man-sentenced-wire-fraud-aggravated-identity-theft-minnesota",
+            "2025-02-20_kimt_former-minnesota-man-caught-dark-web-scheme-5-years-jail",
+            "2025-02-20_yahoo_indictment-michigan-man-living-minnesota-2500-stolen-logins",
+        ],
+    },
+    "operation-us-v-andrew-shenkosky": {
+        "sources": [
+            "2026-04-18_justice-gov_michigan-man-indicted-wire-fraud-and-aggravated-identity-theft-charges",
+            "2025-02-21_infosecurity-magazine_michigan-man-indicted-dark-web-credential-fraud",
+            "2026-03-19_alphanews_michigan-man-sentenced-wire-fraud-aggravated-identity-theft-minnesota",
+            "2025-02-20_kimt_former-minnesota-man-caught-dark-web-scheme-5-years-jail",
+            "2025-02-20_yahoo_indictment-michigan-man-living-minnesota-2500-stolen-logins",
+        ],
+    },
+    "operation-oklahoma-man-sentenced-to-30-years-in-prison-for-sexually-exploiting-children": {
+        "sources": [
+            "2026-04-18_justice-gov_oklahoma-man-sentenced-30-years-prison-sexually-exploiting-children",
+            "2025-05-13_justice-gov_oklahoma-man-sentenced-30-years-prison-sexually-exploiting-children-opa",
+            "2025-05-13_ktul_stilwell-man-sentenced-30-years-csam-dark-web",
+            "2025-05-13_fox23_stilwell-man-sentenced-30-years-prison-sexually-exploiting-children",
+            "2025-05-13_stilwelldemocrat_stilwell-man-30-years-sexually-exploiting-children",
+        ],
+    },
+    "operation-us-v-landon-joe-black": {
+        "sources": [
+            "2026-04-18_justice-gov_oklahoma-man-sentenced-30-years-prison-sexually-exploiting-children",
+            "2025-05-13_justice-gov_oklahoma-man-sentenced-30-years-prison-sexually-exploiting-children-opa",
+            "2025-05-13_ktul_stilwell-man-sentenced-30-years-csam-dark-web",
+            "2025-05-13_fox23_stilwell-man-sentenced-30-years-prison-sexually-exploiting-children",
+            "2025-05-13_stilwelldemocrat_stilwell-man-30-years-sexually-exploiting-children",
+        ],
+    },
+    "operation-prior-felon-pleads-guilty-to-cyberstalking": {
+        "sources": [
+            "2026-04-18_justice-gov_prior-felon-pleads-guilty-cyberstalking",
+            "2026-02-28_wivb_middle-island-man-pleads-guilty-cyberstalking-followed-victim-wny",
+            "2026-02-28_fingerlakes1_prior-felon-admits-cyberstalking-woman",
+            "2026-02-28_niagara-gazette_man-pleads-guilty-cyberstalking-third-arrest-wny-woman",
+            "2024-03-28_wgrz_serial-stalker-charged-stalking-wny-victim",
+        ],
+    },
+    "operation-us-v-daniel-richter": {
+        "sources": [
+            "2026-04-18_justice-gov_prior-felon-pleads-guilty-cyberstalking",
+            "2026-02-28_wivb_middle-island-man-pleads-guilty-cyberstalking-followed-victim-wny",
+            "2026-02-28_fingerlakes1_prior-felon-admits-cyberstalking-woman",
+            "2026-02-28_niagara-gazette_man-pleads-guilty-cyberstalking-third-arrest-wny-woman",
+            "2024-03-28_wgrz_serial-stalker-charged-stalking-wny-victim",
+        ],
+    },
+    "operation-russian-national-indicted-in-east-texas-for-cyber-hacking-enterprise": {
+        "sources": [
+            "2022-03-16_justice-gov_united-states-v-igor-dekhtyarchuk",
+            "2022-03-23_bleepingcomputer_fbi-adds-russian-cybercrime-market-owner-to-most-wanted-list",
+            "2022-03-22_cyberscoop_igor-dekhtyarchuk-marketplace-a-indictment-doj-fbi",
+            "2022-03-23_thehackernews_23-year-old-russian-hacker-wanted-by-fbi-for-running-marketplace-of-stolen-logins",
+            "2022-03-23_click2houston_russian-man-indicted-in-east-texas-for-cyber-hacking-enterprise",
+        ],
+    },
+    "operation-us-v-john-khuu": {
+        "sources": [
+            "2026-04-18_justice-gov_california-man-indicted-cryptocurrency-money-laundering-conspiracy",
+            "2025-03-12_justice-gov_california-man-sentenced-cryptocurrency-money-laundering-conspiracy",
+            "2025-03-13_decrypt_california-man-sentenced-bitcoin-launder-dark-web-mdma",
+            "2025-03-13_cbs19_california-man-7-years-cryptocurrency-laundering-east-texas-ties",
+            "2022-08-23_theblock_california-man-indicted-laundering-crypto-drug-trafficking",
+        ],
+    },
+    "operation-thirty-six-defendants-indicted-for-alleged-roles-in-transnational-criminal-organization-responsible-for-more-t": {
+        "sources": [
+            "2018-02-07_nv_infraud-organization-indictment",
+            "2018-02-07_cyberscoop_infraud-doj-arrests-svyatoslav-bondarenko-sergey-medvedev",
+            "2018-02-08_southtahoenow_las-vegas-grand-jury-indicts-36-international-cyber-crimes",
+            "2021-03-19_justice-gov_foreign-nationals-sentenced-roles-transnational-cybercrime-enterprise",
+            "2018-02-08_cbsnews_us-russia-cybercrime-dark-web-market-suspect-sergey-medvedev-thailand",
+        ],
+    },
+    "operation-us-v-bondarenko-infraud": {
+        "sources": [
+            "2018-02-07_nv_infraud-organization-indictment",
+            "2018-02-07_cyberscoop_infraud-doj-arrests-svyatoslav-bondarenko-sergey-medvedev",
+            "2018-02-08_southtahoenow_las-vegas-grand-jury-indicts-36-international-cyber-crimes",
+            "2021-03-19_justice-gov_foreign-nationals-sentenced-roles-transnational-cybercrime-enterprise",
+            "2018-02-08_cbsnews_us-russia-cybercrime-dark-web-market-suspect-sergey-medvedev-thailand",
+        ],
+    },
+    "operation-us-v-auburn-man": {
+        "sources": [
+            "2026-04-18_justice-gov_auburn-man-sentenced-more-24-years-federal-prison-sharing-child-sexual-abuse-material",
+            "2026-01-15_wtvm_auburn-man-sentenced-24-years-child-abuse-material-conspiracy",
+            "2026-03-18_wsfa_maryland-alabama-men-sentenced-federal-csam-charges",
+            "2026-01-15_waka_auburn-man-24-years-prison-sharing-child-sex-abuse-material",
+            "2026-01-15_yahoo_alabama-man-24-years-prison-dark-web-child-porn",
+        ],
+    },
+    "operation-us-v-brandon-arias-dark-web": {
+        "sources": [
+            "2019-07-17_sdil_brandon-arias-dark-web-plea",
+            "2019-07-22_justice-gov_brandon-aria-aka-drug-llama-sentenced-9-years",
+            "2020-02-11_dea-gov_dark-web-fentanyl-trafficker-sentenced-13-years-federal-prison",
+            "2022-12-21_abc7chicago_drug-llama-melissa-scanlan-drugs-fentanyl",
+            "2020-02-12_riverbender_dark-web-fentanyl-trafficker-known-as-the-drug-llama-is-sentenced-to-13-years",
+        ],
+    },
+    "operation-us-v-scanlan-dark-web": {
+        "sources": [
+            "2020-02-12_sdil_scanlan-drug-llama-dark-web-sentencing",
+            "2020-02-11_dea-gov_dark-web-fentanyl-trafficker-sentenced-13-years-federal-prison",
+            "2022-12-21_abc7chicago_drug-llama-melissa-scanlan-drugs-fentanyl",
+            "2020-02-12_riverbender_dark-web-fentanyl-trafficker-known-as-the-drug-llama-is-sentenced-to-13-years",
+            "2020-02-12_fda-gov_dark-web-fentanyl-trafficker-known-drug-llama-sentenced-13-years",
+        ],
+    },
+    "operation-weleakinfo-com-domain-name-seized": {
+        "sources": [
+            "2026-04-18_justice-gov_weleakinfocom-domain-name-seized",
+            "2020-01-17_npr_fbi-takes-down-weleakinfo-suspected-selling-stolen-data",
+            "2020-01-20_sophos_fbi-seizes-credentials-for-sale-site-weleakinfo",
+            "2020-01-16_securityweek_fbi-takes-down-site-selling-subscriptions-stolen-data",
+            "2020-12-09_bleepingcomputer_uk-nca-visits-weleakinfo-users-warn-stolen-data",
+        ],
+    },
+    "operation-weleakinfo-to-and-related-domain-names-seized": {
+        "sources": [
+            "2026-04-18_justice-gov_weleakinfoto-and-related-domain-names-seized",
+            "2022-05-31_therecord_doj-seizes-three-cybercrime-domains",
+            "2022-06-01_nextgov_fbi-doj-seize-website-addresses-illegal-data-sales",
+            "2022-05-31_securityweek_us-authorities-seize-domains-stolen-data-ddos",
+            "2022-06-09_hackread_fbi-seizes-weleakinfo-ipstress-ovh-booter",
+        ],
+    },
+    "operation-south-korean-national-and-hundreds-of-others-charged-worldwide-in-the-takedown-of-the-largest-darknet-child-po": {
+        "sources": [
+            "2026-04-18_justice-gov_south-korean-national-and-hundreds-others-charged-worldwide-takedown-largest-darknet",
+            "2019-10-19_cnn_authorities-caught-south-korean-darknet-child-exploitation",
+            "2019-10-16_techcrunch_doj-takedown-worlds-largest-child-exploitation-darknet",
+            "2019-10-16_ice-gov_south-korean-national-hundreds-charged-worldwide-darknet-child",
+            "2019-10-19_scmp_south-korean-darknet-child-porn-bitcoin-bedroom",
+        ],
+    },
+    "operation-two-sentenced-in-dark-web-identity-theft-and-retail-fraud-conspiracy": {
+        "sources": [
+            "2026-04-18_justice-gov_two-sentenced-dark-web-identity-theft-and-retail-fraud-conspiracy",
+            "2024-11-26_cbs17_two-raleigh-men-sentenced-fraud-identity-theft-laundering",
+            "2024-11-27_thecoastlandtimes_two-men-sentenced-dark-web-identity-theft-retail-fraud",
+            "2024-11-22_hoodline_new-york-duo-sentenced-raleigh-dark-web-identity-theft",
+            "2024-11-22_jocoreport_two-sentenced-dark-web-identity-theft-retail-fraud",
+        ],
+    },
+    "operation-u-s-attorney-heap-announces-forfeiture-of-cryptocurrency-and-return-of-fraud-proceeds-to-victim": {
+        "sources": [
+            "2026-04-18_justice-gov_us-attorney-heap-announces-forfeiture-cryptocurrency-and-return-fraud-proceeds-victim",
+            "2025-11-24_wtoc_over-84000-returned-richmond-hill-theft-victim",
+            "2025-11-24_wsbtv_feds-return-nearly-85k-cryptocurrency-theft-victim",
+            "2025-11-25_bryancountynews_local-victim-cryptocurrency-scam-gets-good-news",
+            "2025-12-10_savannahbusinessjournal_cryptocurrency-richmond-hill-84k-restitution",
+        ],
+    },
+    "operation-us-v-annie-nicole-ritenour": {
+        "sources": [
+            "2026-04-18_justice-gov_culpeper-woman-arrested-dark-web-murder-hire-plot",
+            "2021-10-27_wsls_virginia-woman-arrested-dark-web-murder-for-hire-bitcoin",
+            "2023-06-13_starexponent_culpeper-woman-pleads-guilty-dark-web-murder-for-hire",
+            "2021-10-29_wric_culpeper-woman-7-year-prison-dark-web-murder-for-hire",
+            "2021-10-28_insidenova_culpeper-woman-arrested-dark-web-murder-for-hire",
+        ],
+    },
+    "operation-us-v-beresford-man": {
+        "sources": [
+            "2026-04-18_justice-gov_beresford-man-sentenced-over-33-years-federal-prison-receipt-and-distribution-child",
+            "2025-03-12_siouxcityjournal_beresford-man-33-years-prison-child-porn",
+            "2025-03-11_ice-gov_south-dakota-man-sentenced-production-child-pornography",
+            "2025-03-11_legalnewsline_beresford-man-33-year-sentence-child-porn",
+            "2025-03-11_dakotabroadcasting_beresford-man-33-years-child-porn",
+        ],
+    },
+    "operation-us-v-jacob-elijah-kilgore": {
+        "sources": [
+            "2026-04-18_justice-gov_boone-man-sentenced-eight-years-federal-prison-using-dark-web-transport-child",
+            "2024-12-05_abc11_kilgore-north-carolina-man-8-years-prison-dark-web",
+            "2024-12-05_wjhl_doj-boone-man-sentenced-using-dark-web-150-images",
+            "2024-12-05_wlos_boone-man-eight-years-dark-web-child-pornography",
+            "2024-12-05_qcnews_boone-man-sentenced-dark-web-child-porn",
+        ],
+    },
+    "operation-us-v-jacob-matthew-medina": {
+        "sources": [
+            "2026-04-18_justice-gov_glendale-man-sentenced-13-years-participating-darknet-drug-distribution-ring",
+            "2022-01-07_12news_glendale-drug-trafficker-13-years-fentanyl",
+            "2022-01-08_glendalestar_glendale-man-13-years-darknet-drug-ring",
+            "2022-01-07_ktar_glendale-man-13-years-prison-darknet-drug-trafficking",
+            "2022-01-07_newskudo_glendale-man-13-years-prison-opioid-case",
+        ],
+    },
+    "operation-us-v-ryan-william-newhart": {
+        "sources": [
+            "2026-04-18_justice-gov_billings-meth-fentanyl-dealer-sentenced-12-years-prison",
+            "2024-09-20_billingsgazette_billings-meth-fentanyl-dealer-12-years-dark-web",
+            "2024-09-05_dhs-hsi_drug-dealer-sentenced-meth-fentanyl-trafficking-montana",
+            "2024-09-20_catcountry_billings-meth-fentanyl-drug-sentence",
+            "2024-09-20_billingsmix_billings-meth-dealer-prison-sentence",
+        ],
+    },
+    "operation-us-v-sherman-jackson": {
+        "sources": [
+            "2026-04-18_justice-gov_darknet-international-gun-traffickers-sentenced",
+            "2018-04-17_ajc_international-gun-smuggling-metro-atlanta-prison",
+            "2018-04-17_upi_georgia-man-sentenced-firearms-ring-dark-web",
+            "2018-04-18_patch_dark-web-gun-smuggler-atlanta-sentenced",
+            "2017-06-02_justice-gov-ndga_gun-traffickers-arrested-dark-net-export-guns-world",
+        ],
+    },
+    "operation-us-v-steven-ehizojie-oboite-eric-xavier-bechet-jabari-ayinde-cooper-rashad-cortese-kinloch": {
+        "sources": [
+            "2026-04-18_justice-gov_seven-georgians-indicted-operating-online-fentanyl-meth-marketplace",
+            "2025-06-23_wsbtv_7-metro-atlanta-indicted-fentanyl-meth-dark-web",
+            "2025-06-23_irs-gov_seven-georgians-indicted-online-fentanyl-meth-marketplace",
+            "2025-06-24_wuga_seven-georgians-indicted-athens-massive-meth-fentanyl-dark-web",
+            "2025-06-23_timesgeorgian_seven-charged-online-fentanyl-meth-marketplace",
+        ],
+    },
 
 }
 

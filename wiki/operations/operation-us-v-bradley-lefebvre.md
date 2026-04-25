@@ -64,11 +64,21 @@ sources:
   - "[[2026-04-18_justice-gov_bradley-lefebvre-sentenced-federal-harassment-charge]]"
 summary: "This domestic-only U.S. follow-on record has been absorbed into the canonical case page [[us-v-bradley-lefebvre]]. No visible cross-border mechanism is documented, so it is not treated as a separate international-cooperation operation."
 created: 2026-04-18
-updated: 2026-04-22
+updated: 2026-04-25
 ---
 ## Summary
 
 This domestic-only U.S. follow-on record has been absorbed into the canonical case page [[us-v-bradley-lefebvre]]. No visible cross-border mechanism is documented, so it is not treated as a separate international-cooperation operation.
+
+> [!info] Source enrichment — single-source justification (2026-04-25)
+> Searched for additional credible sources covering this defendant/case:
+> - DOJ follow-up press releases (sentencing/conviction): the original sentencing PR is the only DOJ release on this defendant; an earlier USAO D. Vt. plea-stage PR exists but only for completeness
+> - Parallel federal agency press releases (FBI/DEA/IRS-CI/ICE/HSI): not found
+> - Court records (CourtListener / PACER / midpage / justia): docket exists at PACER (Case No. 2:20-cr-00104) but no narrative coverage
+> - Local press coverage in Burlington / Vermont: only Newport Dispatch (one outlet, near-verbatim from DOJ release)
+> - Specialized trade press: not found (case lacks cyber/IC elements warranting trade coverage)
+>
+> This appears to be a single-press-release domestic federal harassment action with only one verbatim local-newspaper restatement. Not enough independent secondary coverage exists to reach source_count >= 5. `source_count: 1` is retained per LESSON L19 (do not assert sources that do not exist).
 
 ## Canonical Record
 

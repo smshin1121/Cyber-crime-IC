@@ -17,13 +17,17 @@ key_findings:
   - "Finland is a Party to the [[budapest-convention|Budapest Convention on Cybercrime]], having signed on 23 November 2001 and ratified in **May 2007** [1]. Finland signed the [[second-additional-protocol|Second Additional Protocol (CETS 224)]] on 12 May 2022 as part of the initial group of 22 signatories [2]. Finland's substantive cybercrime framework is located in **Chapter 38 of the Criminal Code (Rikoslaki)**, titled \"Data and communications offences\" [3][4]."
 collection_url: "https://en.wikipedia.org/wiki/National_Bureau_of_Investigation_(Finland"
 created: 2026-04-17
-text_status: summarized
+text_status: parsed
 content_hash: sha256:7985f105967234b2a313dc4a360f0a454ab8567ed7aa67050283d2a44efb8bce
 word_count: 987
-stored_word_count: 80
-extraction_date: 2026-04-25
+extraction_date: 2026-04-26
 last_fetcher: jina
-copyright_policy: summary-only
+storage_mode: fulltext
+license_basis: wikimedia_terms_cc_by_sa_gfdl
+license_url: https://foundation.wikimedia.org/wiki/Policy:Terms_of_Use
+attribution_required: true
+share_alike_required: true
+attribution_url: https://en.wikipedia.org/wiki/National_Bureau_of_Investigation_(Finland
 ---
 ## Source Summary
 

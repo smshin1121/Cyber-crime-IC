@@ -17,13 +17,17 @@ key_findings:
   - "The **National Cyber Crime Center (NC3 — Nationalt Cyber Crime Center)** is Denmark's specialized cybercrime center, embedded within the **National Special Crime Unit (NSK — National enhed for Særlig Kriminalitet)**. NSK was created on **January 1, 2022** by merging several specialized Danish police units, including the previous standalone NC3 and the Nationwide Center for IT-related Economic Crime [1][2]."
 collection_url: "https://en.wikipedia.org/wiki/National_Special_Crime_Unit_(Denmark"
 created: 2026-04-17
-text_status: summarized
+text_status: parsed
 content_hash: sha256:fb5c4cdedc3d49d549749473ba5d82ba0e8bd5131a7e123e4b24836ac27ab69f
 word_count: 987
-stored_word_count: 80
-extraction_date: 2026-04-25
+extraction_date: 2026-04-26
 last_fetcher: jina
-copyright_policy: summary-only
+storage_mode: fulltext
+license_basis: wikimedia_terms_cc_by_sa_gfdl
+license_url: https://foundation.wikimedia.org/wiki/Policy:Terms_of_Use
+attribution_required: true
+share_alike_required: true
+attribution_url: https://en.wikipedia.org/wiki/National_Special_Crime_Unit_(Denmark
 ---
 ## Source Summary
 

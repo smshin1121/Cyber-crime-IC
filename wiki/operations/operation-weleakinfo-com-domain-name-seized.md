@@ -46,25 +46,29 @@ results:
   other:
     - "Defendant-specific follow-on action derived from [[weleakinfo-com-domain-name-seized]]"
 edges:
-  []
+
 credibility_index: 4.0
 source_tier: 1
 missing_fields:
-  []
+
 related_cases:
   - "[[weleakinfo-com-domain-name-seized]]"
 related_operations:
-  []
+
 challenges_encountered:
-  []
+
 lessons_learned:
-  []
-source_count: 1
+
+source_count: 5
 sources:
   - "[[2026-04-18_justice-gov_weleakinfocom-domain-name-seized]]"
+  - "[[2020-01-17_npr_fbi-takes-down-weleakinfo-suspected-selling-stolen-data]]"
+  - "[[2020-01-20_sophos_fbi-seizes-credentials-for-sale-site-weleakinfo]]"
+  - "[[2020-01-16_securityweek_fbi-takes-down-site-selling-subscriptions-stolen-data]]"
+  - "[[2020-12-09_bleepingcomputer_uk-nca-visits-weleakinfo-users-warn-stolen-data]]"
 summary: "This domestic-only U.S. follow-on record has been absorbed into the canonical case page [[weleakinfo-com-domain-name-seized]]. No visible cross-border mechanism is documented, so it is not treated as a separate international-cooperation operation."
 created: 2026-04-18
-updated: 2026-04-22
+updated: 2026-04-25
 ---
 ## Summary
 
@@ -76,6 +80,10 @@ This domestic-only U.S. follow-on record has been absorbed into the canonical ca
 
 ## References
 
-| # | Source | Publisher | Date | URL |
+| # | Title | Publisher | Date | URL |
 |---|---|---|---|---|
 | [1] | WeLeakInfo.com Domain Name Seized | US DOJ USAO | 2020-01-16 | https://www.justice.gov/usao-dc/pr/weleakinfocom-domain-name-seized |
+| [2] | FBI Takes Down WeLeakInfo Site, Suspected Of Selling Access To Stolen Data | NPR | 2020-01-17 | https://www.npr.org/2020/01/17/797282149/fbi-seizes-website-suspected-of-selling-access-to-billions-of-pieces-of-stolen-d |
+| [3] | FBI seizes credentials-for-sale site WeLeakInfo.com | Sophos News | 2020-01-20 | https://news.sophos.com/en-us/2020/01/20/fbi-seizes-credentials-for-sale-site-weleakinfo-com/ |
+| [4] | FBI Takes Down Site Selling Subscriptions to Stolen Data | SecurityWeek | 2020-01-16 | https://www.securityweek.com/fbi-takes-down-site-selling-subscriptions-stolen-data/ |
+| [5] | UK NCA visits WeLeakInfo users to warn of using stolen data | BleepingComputer | 2020-12-09 | https://www.bleepingcomputer.com/news/security/uk-nca-visits-weleakinfo-users-to-warn-of-using-stolen-data/ |

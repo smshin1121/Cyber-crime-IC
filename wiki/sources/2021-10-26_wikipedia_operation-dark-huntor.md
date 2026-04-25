@@ -18,13 +18,17 @@ key_findings:
 collection_url: https://en.wikipedia.org/wiki/Operation_Dark_HunTor
 created: 2026-04-25
 raw_path: raw/government-reports/2021-10-26_wikipedia_operation-dark-huntor.md
-text_status: summarized
+text_status: parsed
 content_hash: sha256:cf046d018e9bbb0fc5131516909184e1f2d496e713d1892b0781afe7421cd368
 word_count: 1404
-stored_word_count: 80
-extraction_date: 2026-04-25
+extraction_date: 2026-04-26
 last_fetcher: urllib
-copyright_policy: summary-only
+storage_mode: fulltext
+license_basis: wikimedia_terms_cc_by_sa_gfdl
+license_url: https://foundation.wikimedia.org/wiki/Policy:Terms_of_Use
+attribution_required: true
+share_alike_required: true
+attribution_url: https://en.wikipedia.org/wiki/Operation_Dark_HunTor
 ---
 ## Source Summary
 

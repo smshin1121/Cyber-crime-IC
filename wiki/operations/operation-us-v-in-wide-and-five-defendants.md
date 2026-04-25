@@ -64,11 +64,21 @@ sources:
   - "[[2026-04-18_justice-gov_five-defendants-sentenced-wide-reaching-drug-trafficking-conspiracy]]"
 summary: "This domestic-only U.S. follow-on record has been absorbed into the canonical case page [[us-v-in-wide-and-five-defendants]]. No visible cross-border mechanism is documented, so it is not treated as a separate international-cooperation operation."
 created: 2026-04-18
-updated: 2026-04-22
+updated: 2026-04-25
 ---
 ## Summary
 
 This domestic-only U.S. follow-on record has been absorbed into the canonical case page [[us-v-in-wide-and-five-defendants]]. No visible cross-border mechanism is documented, so it is not treated as a separate international-cooperation operation.
+
+> [!info] Source enrichment — single-source justification (2026-04-25)
+> Searched for additional credible sources covering this defendant/case (Five defendants sentenced in M.D. Pa. wide-reaching drug trafficking conspiracy, 2026-01-08):
+> - DOJ follow-up press releases (sentencing/conviction): not found beyond the single USAO M.D. Pa. release
+> - Parallel federal agency press releases (FBI/DEA/IRS-CI/ICE/HSI): not found
+> - Court records (CourtListener / PACER / midpage / justia): not found in public indexes
+> - Local press coverage in Harrisburg / Scranton (PennLive, TribLIVE, Pittsburgh Post-Gazette, Lancaster Online, Citizens' Voice): no independent narrative coverage indexed
+> - Specialized trade press: not found (case lacks cyber/IC elements warranting trade coverage)
+>
+> This appears to be a single-press-release domestic Middle District of Pennsylvania drug action with no independent secondary coverage. `source_count: 1` is retained per LESSON L19 (do not assert sources that do not exist).
 
 ## Canonical Record
 

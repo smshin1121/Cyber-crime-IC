@@ -46,25 +46,29 @@ results:
   other:
     - "Defendant-specific follow-on action derived from [[weleakinfo-to-and-related-domain-names-seized]]"
 edges:
-  []
+
 credibility_index: 4.0
 source_tier: 1
 missing_fields:
-  []
+
 related_cases:
   - "[[weleakinfo-to-and-related-domain-names-seized]]"
 related_operations:
-  []
+
 challenges_encountered:
-  []
+
 lessons_learned:
-  []
-source_count: 1
+
+source_count: 5
 sources:
   - "[[2026-04-18_justice-gov_weleakinfoto-and-related-domain-names-seized]]"
+  - "[[2022-05-31_therecord_doj-seizes-three-cybercrime-domains]]"
+  - "[[2022-06-01_nextgov_fbi-doj-seize-website-addresses-illegal-data-sales]]"
+  - "[[2022-05-31_securityweek_us-authorities-seize-domains-stolen-data-ddos]]"
+  - "[[2022-06-09_hackread_fbi-seizes-weleakinfo-ipstress-ovh-booter]]"
 summary: "This domestic-only U.S. follow-on record has been absorbed into the canonical case page [[weleakinfo-to-and-related-domain-names-seized]]. No visible cross-border mechanism is documented, so it is not treated as a separate international-cooperation operation."
 created: 2026-04-18
-updated: 2026-04-22
+updated: 2026-04-25
 ---
 ## Summary
 
@@ -76,6 +80,10 @@ This domestic-only U.S. follow-on record has been absorbed into the canonical ca
 
 ## References
 
-| # | Source | Publisher | Date | URL |
+| # | Title | Publisher | Date | URL |
 |---|---|---|---|---|
 | [1] | WeLeakInfo.to and Related Domain Names Seized | US DOJ USAO | 2022-05-31 | https://www.justice.gov/usao-dc/pr/weleakinfoto-and-related-domain-names-seized |
+| [2] | DOJ seizes three web domain names used for cybercrime | The Record (Recorded Future) | 2022-05-31 | https://therecord.media/doj-seizes-three-cybercrime-domains |
+| [3] | FBI, DOJ Seize Website Addresses, Associated Illegal Data Sales, Hacking Services | Nextgov/FCW | 2022-06-01 | https://www.nextgov.com/cybersecurity/2022/06/fbi-doj-seize-website-addresses-associated-illegal-data-sales-hacking-services/367670/ |
+| [4] | US Authorities Seize Domains Selling Stolen Data, DDoS Services | SecurityWeek | 2022-05-31 | https://www.securityweek.com/us-authorities-seize-domains-selling-stolen-data-ddos-services/ |
+| [5] | FBI Seizes WeLeakInfo, IPStress and OVH-Booter Cybercrime Portals | HackRead | 2022-06-09 | https://hackread.com/fbi-seizes-weleakinfo-ipstress-ovh-booter-cybercrime-portals/ |

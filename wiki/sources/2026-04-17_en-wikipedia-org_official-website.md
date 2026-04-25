@@ -17,13 +17,17 @@ key_findings:
   - "Morocco's General Directorate for Territorial Surveillance; domestic intelligence and counter-terrorism with cybersecurity role. For detailed facts, see the official source [1]."
 collection_url: https://en.wikipedia.org/wiki/General_Directorate_for_Territorial_Surveillance
 created: 2026-04-17
-text_status: summarized
+text_status: parsed
 content_hash: sha256:4354ccaae77d1f0a2a0adaa66e516ac0473c176231063f0e43b56f43a8c2c6ac
 word_count: 4686
-stored_word_count: 80
-extraction_date: 2026-04-25
+extraction_date: 2026-04-26
 last_fetcher: urllib
-copyright_policy: summary-only
+storage_mode: fulltext
+license_basis: wikimedia_terms_cc_by_sa_gfdl
+license_url: https://foundation.wikimedia.org/wiki/Policy:Terms_of_Use
+attribution_required: true
+share_alike_required: true
+attribution_url: https://en.wikipedia.org/wiki/General_Directorate_for_Territorial_Surveillance
 ---
 ## Source Summary
 
