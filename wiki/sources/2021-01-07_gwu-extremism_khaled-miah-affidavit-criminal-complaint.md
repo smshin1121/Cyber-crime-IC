@@ -1,0 +1,28 @@
+---
+type: source
+title: "Khaled Miah Affidavit in Support of Criminal Complaint"
+source_type: case-document
+publisher: "GWU Program on Extremism / Federal court filing"
+author: "FBI Special Agent (affiant)"
+publish_date: 2021-01-07
+ingest_date: 2026-04-25
+language: en
+reliability: high
+credibility: confirmed
+sensitivity: public
+pages_updated:
+  - operation-pittsburgh-man-charged-threatening-communications-and-impeding-fbi-investigation-1
+  - operation-pittsburgh-man-charged-with-threatening-communications-and-impeding-fbi-investigation
+key_findings:
+  - "Authoritative federal court filing — the FBI affiant's first-person account of evidence."
+  - "GWU Program on Extremism mirrors the public PACER document."
+collection_url: https://extremism.gwu.edu/sites/g/files/zaxdzs5746/files/Khaled%20Miah%20Affidavit%20in%20Support%20of%20Criminal%20Complaint.pdf
+created: 2026-04-25
+---
+## Source Summary
+
+The actual federal criminal complaint affidavit (FBI Special Agent affiant) hosted by GWU Program on Extremism. Court-record primary document.
+
+## Relevance to IC
+
+Authoritative court-record primary document for the Khaled Miah case.

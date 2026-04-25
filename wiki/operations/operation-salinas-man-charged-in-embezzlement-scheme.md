@@ -64,11 +64,21 @@ sources:
   - "[[2026-04-18_justice-gov_salinas-man-charged-embezzlement-scheme]]"
 summary: "This domestic-only U.S. follow-on record has been absorbed into the canonical case page [[salinas-man-charged-in-embezzlement-scheme]]. No visible cross-border mechanism is documented, so it is not treated as a separate international-cooperation operation."
 created: 2026-04-18
-updated: 2026-04-22
+updated: 2026-04-25
 ---
 ## Summary
 
 This domestic-only U.S. follow-on record has been absorbed into the canonical case page [[salinas-man-charged-in-embezzlement-scheme]]. No visible cross-border mechanism is documented, so it is not treated as a separate international-cooperation operation.
+
+> [!info] Source enrichment — single-source justification (2026-04-25)
+> Searched for additional credible sources covering this defendant/case (Neal Morton / Tehama Golf Club embezzlement, Carmel CA):
+> - DOJ follow-up press releases (sentencing/conviction): a separate plea PR (Salinas Man Pleads Guilty To Embezzling More Than $182,700 From Carmel Golf Club) exists but is treated as a different operation entry; no fugitive/extradition follow-up
+> - Parallel federal agency press releases (FBI/IRS-CI/HSI): not found as standalone PRs
+> - Court records (CourtListener / PACER / midpage / justia): no narrative coverage indexed in the public sources
+> - Local press coverage in Salinas/Monterey County: Monterey County Weekly and Golf Digest have downstream coverage of the sentencing (Clint Eastwood testimony angle), but were Cloudflare/Akamai-blocked on direct fetch and align with the sentencing PR rather than this charging-stage operation
+> - Specialized trade press: not found (no cyber/IC element warranting trade coverage; this is bank-fraud/identity-theft embezzlement)
+>
+> This appears to be a single-press-release domestic action with no independent secondary coverage that genuinely matches this charging-stage operation. `source_count: 1` is retained per LESSON L19 (do not assert sources that do not exist).
 
 ## Canonical Record
 

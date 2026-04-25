@@ -64,11 +64,21 @@ sources:
   - "[[2026-04-18_justice-gov_salinas-residents-charged-tax-and-mortgage-fraud-scheme]]"
 summary: "This domestic-only U.S. follow-on record has been absorbed into the canonical case page [[salinas-residents-charged-in-tax-and-mortgage-fraud-scheme]]. No visible cross-border mechanism is documented, so it is not treated as a separate international-cooperation operation."
 created: 2026-04-18
-updated: 2026-04-22
+updated: 2026-04-25
 ---
 ## Summary
 
 This domestic-only U.S. follow-on record has been absorbed into the canonical case page [[salinas-residents-charged-in-tax-and-mortgage-fraud-scheme]]. No visible cross-border mechanism is documented, so it is not treated as a separate international-cooperation operation.
+
+> [!info] Source enrichment — single-source justification (2026-04-25)
+> Searched for additional credible sources covering this defendant/case (Elizabeth Calderon + Sanchez, Salinas tax + mortgage fraud charging stage):
+> - DOJ follow-up press releases (sentencing/conviction): downstream sentencing PR exists but is tied to a separate operation entry (Salinas Resident Sentenced 54 Months)
+> - Parallel federal agency press releases (FBI/IRS-CI/HSI): not found as standalone PRs
+> - Court records: docket exists in NDCA but no narrative press coverage indexed
+> - Local press in Salinas/Monterey County: not found
+> - Specialized trade press: not found (no cyber/IC element)
+>
+> This is a single-press-release domestic action with no independent secondary coverage. `source_count: 1` is retained per LESSON L19.
 
 ## Canonical Record
 

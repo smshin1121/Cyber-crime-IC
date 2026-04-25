@@ -1,0 +1,28 @@
+---
+type: source
+title: "Cyber-stalker who posed as missing Duquesne University student gets federal prison"
+source_type: news
+publisher: "Pittsburgh Post-Gazette"
+author: "Staff"
+publish_date: 2018-08-14
+ingest_date: 2026-04-25
+language: en
+reliability: medium
+credibility: probably-true
+sensitivity: public
+pages_updated:
+  - operation-south-carolina-man-charged-with-interstate-stalking-and-aggravated-id-theft-targeting-pennsylvania-resident
+  - operation-south-carolina-man-sentenced-to-30-months-in-prison-for-interstate-stalking
+key_findings:
+  - "Pittsburgh-of-record local newspaper sentencing coverage."
+  - "URL existence verified via search engine indexing."
+collection_url: https://www.post-gazette.com/news/crime-courts/2018/08/14/Cyber-stalker-Nathaniel-Earl-Dunlap-Dakota-James-harassment-neighbor-federal-prison/stories/201808140116
+created: 2026-04-25
+---
+## Source Summary
+
+Pittsburgh Post-Gazette sentencing-day coverage.
+
+## Relevance to IC
+
+Local Pittsburgh-of-record press for the Dunlap case (covers 2017 charge + 2018 sentencing operation slugs).

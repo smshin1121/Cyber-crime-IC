@@ -64,11 +64,21 @@ sources:
   - "[[2026-04-18_justice-gov_salinas-resident-sentenced-54-months-prison-identity-theft-and-preparing-false-tax]]"
 summary: "This domestic-only U.S. follow-on record has been absorbed into the canonical case page [[salinas-resident-sentenced-to-54-months-in-prison-for-identity-theft-and-preparing-false-tax-returns]]. No visible cross-border mechanism is documented, so it is not treated as a separate international-cooperation operation."
 created: 2026-04-18
-updated: 2026-04-22
+updated: 2026-04-25
 ---
 ## Summary
 
 This domestic-only U.S. follow-on record has been absorbed into the canonical case page [[salinas-resident-sentenced-to-54-months-in-prison-for-identity-theft-and-preparing-false-tax-returns]]. No visible cross-border mechanism is documented, so it is not treated as a separate international-cooperation operation.
+
+> [!info] Source enrichment — single-source justification (2026-04-25)
+> Searched for additional credible sources covering this defendant/case (Elizabeth Calderon, Salinas tax preparer, ~4,000 fraudulent returns):
+> - DOJ follow-up press releases: prior plea PR exists but is tied to a separate operation entry
+> - Parallel federal agency press releases (FBI/IRS-CI/HSI): not found as standalone PRs
+> - Court records (CourtListener / PACER): docket exists but no narrative press coverage indexed
+> - Local press in Salinas/Monterey County (Salinas Californian, Monterey Herald, Monterey County Weekly): not found
+> - Specialized trade press: not found (no cyber/IC element warranting trade coverage)
+>
+> This is a single-press-release domestic action with no independent secondary coverage. `source_count: 1` is retained per LESSON L19.
 
 ## Canonical Record
 

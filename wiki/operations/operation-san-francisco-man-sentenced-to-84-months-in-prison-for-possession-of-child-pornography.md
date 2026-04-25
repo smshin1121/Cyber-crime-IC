@@ -64,11 +64,21 @@ sources:
   - "[[2026-04-18_justice-gov_san-francisco-man-sentenced-84-months-prison-possession-child-pornography]]"
 summary: "This domestic-only U.S. follow-on record has been absorbed into the canonical case page [[san-francisco-man-sentenced-to-84-months-in-prison-for-possession-of-child-pornography]]. No visible cross-border mechanism is documented, so it is not treated as a separate international-cooperation operation."
 created: 2026-04-18
-updated: 2026-04-22
+updated: 2026-04-25
 ---
 ## Summary
 
 This domestic-only U.S. follow-on record has been absorbed into the canonical case page [[san-francisco-man-sentenced-to-84-months-in-prison-for-possession-of-child-pornography]]. No visible cross-border mechanism is documented, so it is not treated as a separate international-cooperation operation.
+
+> [!info] Source enrichment — single-source justification (2026-04-25)
+> Searched for additional credible sources covering this defendant/case (Edward Shia, San Francisco, 12,400+ images and 150+ videos, sentenced 84 months by Judge Chhabria):
+> - DOJ follow-up press releases: not found (sentence is itself the disposition)
+> - Parallel federal agency press releases (FBI/HSI/USPS Inspectors): not found as standalone PRs
+> - Court records: U.S. v. Shia (CR 15-00257 VC) docket exists; Leagle case-law page available but blocked on direct fetch and is technical court document not narrative coverage
+> - Local press coverage in San Francisco: only one piece found (San Francisco Patch / Bay City News, 2017-05-26)
+> - Specialized trade press: not found (no cyber/IC element warranting trade coverage; this is straightforward CSAM possession)
+>
+> Although one piece of local press exists, it is below the 4-extra threshold for Path A. `source_count: 1` is retained per LESSON L19.
 
 ## Canonical Record
 

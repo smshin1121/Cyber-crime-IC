@@ -64,11 +64,21 @@ sources:
   - "[[2026-04-18_justice-gov_pittsburg-resident-pleads-guilty-stolen-identity-tax-fraud]]"
 summary: "This domestic-only U.S. follow-on record has been absorbed into the canonical case page [[pittsburg-resident-pleads-guilty-to-stolen-identity-tax-fraud]]. No visible cross-border mechanism is documented, so it is not treated as a separate international-cooperation operation."
 created: 2026-04-18
-updated: 2026-04-22
+updated: 2026-04-25
 ---
 ## Summary
 
 This domestic-only U.S. follow-on record has been absorbed into the canonical case page [[pittsburg-resident-pleads-guilty-to-stolen-identity-tax-fraud]]. No visible cross-border mechanism is documented, so it is not treated as a separate international-cooperation operation.
+
+> [!info] Source enrichment — single-source justification (2026-04-25)
+> Searched for additional credible sources covering this defendant/case (Michael Johnson, Pittsburg, CA / 2012 tax-preparer-burglary refund-fraud scheme):
+> - DOJ follow-up press releases (sentencing/conviction): the related Pittsburg sentencing PR is on a co-conspirator (Nicole Berry / former Antioch officer chain), not this specific defendant, and ties to a different existing operation page
+> - Parallel federal agency press releases (FBI/DEA/IRS-CI/ICE/HSI): not found as standalone PRs (IRS-CI investigated but no dedicated IRS-CI release)
+> - Court records (CourtListener / PACER / midpage / justia): no narrative coverage indexed
+> - Local press coverage in the Bay Area / East Bay (Mercury News, SF Chronicle, East Bay Times): not found
+> - Specialized trade press: not found (no cyber/IC element warranting trade coverage)
+>
+> This appears to be a single-press-release domestic action with no independent secondary coverage. `source_count: 1` is retained per LESSON L19 (do not assert sources that do not exist).
 
 ## Canonical Record
 

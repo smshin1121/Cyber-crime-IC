@@ -46,25 +46,29 @@ results:
   other:
     - "Defendant-specific follow-on action derived from [[estonian-national-extradited-from-estonia-to-face-charges-of-illegal-procurement-of-u-s-electronics]]"
 edges:
-  []
+
 credibility_index: 4.0
 source_tier: 1
 missing_fields:
-  []
+
 related_cases:
   - "[[estonian-national-extradited-from-estonia-to-face-charges-of-illegal-procurement-of-u-s-electronics]]"
 related_operations:
-  []
+
 challenges_encountered:
-  []
+
 lessons_learned:
-  []
-source_count: 1
+
+source_count: 5
 sources:
   - "[[2026-04-18_justice-gov_estonian-national-extradited-estonia-face-charges-illegal-procurement-us-electronics]]"
+  - "[[2019-03-21_err_us-court-charges-two-men-of-smuggling-microchips-to-russia-via-estonia]]"
+  - "[[2019-03-21_cbsnews_man-accused-of-smuggling-electronics-russia-charges-san-francisco]]"
+  - "[[2019-07-18_winston-strawn_september-2017-indictment-alleges-charges-of-illegal-procurement-of-us-electronics]]"
+  - "[[2019-03-22_freightwaves_indictment-prison-time-for-illicit-us-exports]]"
 summary: "This domestic-only U.S. follow-on record has been absorbed into the canonical case page [[estonian-national-extradited-from-estonia-to-face-charges-of-illegal-procurement-of-u-s-electronics]]. No visible cross-border mechanism is documented, so it is not treated as a separate international-cooperation operation."
 created: 2026-04-18
-updated: 2026-04-22
+updated: 2026-04-25
 ---
 ## Summary
 
@@ -76,6 +80,10 @@ This domestic-only U.S. follow-on record has been absorbed into the canonical ca
 
 ## References
 
-| # | Source | Publisher | Date | URL |
+| # | Title | Publisher | Date | URL |
 |---|---|---|---|---|
 | [1] | Estonian National Extradited From Estonia To Face Charges Of Illegal Procurement Of U.S. Electronics | US DOJ USAO | 2019-03-21 | https://www.justice.gov/usao-ndca/pr/estonian-national-extradited-estonia-face-charges-illegal-procurement-us-electronics |
+| [2] | US court charges two men of smuggling microchips to Russia via Estonia | ERR (Eesti Rahvusringhääling) | 2019-03-21 | https://news.err.ee/922455/us-court-charges-two-men-of-smuggling-microchips-to-russia-via-estonia |
+| [3] | Man Accused Of Smuggling Electronics To Russia Faces Charges In SF Federal Court | CBS San Francisco | 2019-03-21 | https://www.cbsnews.com/sanfrancisco/news/smuggling-electronics-russia-charges-san-francisco/ |
+| [4] | September 2017 Indictment Alleges Charges of Illegal Procurement of U.S. Electronics | Winston & Strawn (Global Trade and Foreign Policy Insights) | 2019-07-18 | https://www.winston.com/en/blogs-and-podcasts/global-trade-and-foreign-policy-insights/september-2017-indictment-alleges-charges-of-illegal-procurement-of-us-electronics |
+| [5] | Indictment, prison time for illicit U.S. exports | FreightWaves (American Shipper) | 2019-03-22 | https://www.freightwaves.com/news/indictment-prison-time-for-illicit-u-s-exports |

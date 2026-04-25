@@ -64,11 +64,21 @@ sources:
   - "[[2026-04-18_justice-gov_san-francisco-resident-sentenced-over-three-years-prison-aggravated-identity-theft]]"
 summary: "This domestic-only U.S. follow-on record has been absorbed into the canonical case page [[san-francisco-resident-sentenced-to-over-three-years-in-prison-for-aggravated-identity-theft]]. No visible cross-border mechanism is documented, so it is not treated as a separate international-cooperation operation."
 created: 2026-04-18
-updated: 2026-04-22
+updated: 2026-04-25
 ---
 ## Summary
 
 This domestic-only U.S. follow-on record has been absorbed into the canonical case page [[san-francisco-resident-sentenced-to-over-three-years-in-prison-for-aggravated-identity-theft]]. No visible cross-border mechanism is documented, so it is not treated as a separate international-cooperation operation.
+
+> [!info] Source enrichment — single-source justification (2026-04-25)
+> Searched for additional credible sources covering this defendant/case (Yee Man Lui, San Francisco, sentenced 40 months for aggravated identity theft + access device fraud):
+> - DOJ follow-up press releases: this PR is itself the disposition; no further follow-up
+> - Parallel federal agency press releases (FBI/USSS/IRS-CI/HSI): not found as standalone PRs
+> - Court records: docket exists but no narrative press coverage indexed
+> - Local press coverage in San Francisco / Bay Area: not found
+> - Specialized trade press: not found (no cyber/IC element warranting trade coverage)
+>
+> This is a single-press-release domestic action with no independent secondary coverage. `source_count: 1` is retained per LESSON L19.
 
 ## Canonical Record
 

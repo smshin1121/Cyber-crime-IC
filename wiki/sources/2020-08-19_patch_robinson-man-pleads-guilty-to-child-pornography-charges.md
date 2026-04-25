@@ -1,0 +1,28 @@
+---
+type: source
+title: "Robinson Man Pleads Guilty To Child Pornography Charges"
+source_type: news
+publisher: "Patch (Robinson, PA)"
+author: "Staff"
+publish_date: 2020-08-19
+ingest_date: 2026-04-25
+language: en
+reliability: medium
+credibility: probably-true
+sensitivity: public
+pages_updated:
+  - operation-robinson-twp-man-pleads-guilty-in-international-investigation-into-darknet-sale-of-child-exploitation-videos-a
+  - operation-us-v-anthony-bellisario
+key_findings:
+  - "Local Robinson, PA Patch coverage confirms Bellisario plea details."
+  - "Confirms 'Welcome 2 Video' as the international darknet site under investigation."
+collection_url: https://patch.com/pennsylvania/moon/robinson-man-pleads-guilty-child-pornography-charges
+created: 2026-04-25
+---
+## Source Summary
+
+Local Robinson, PA Patch coverage of Bellisario plea — important IC element through the Welcome 2 Video international investigation linkage.
+
+## Relevance to IC
+
+Local hometown press for the [[operation-robinson-twp-man-pleads-guilty-in-international-investigation-into-darknet-sale-of-child-exploitation-videos-a]] / [[operation-us-v-anthony-bellisario]] case. Welcome 2 Video was a multinational South Korea / US / UK / Germany cooperation operation.

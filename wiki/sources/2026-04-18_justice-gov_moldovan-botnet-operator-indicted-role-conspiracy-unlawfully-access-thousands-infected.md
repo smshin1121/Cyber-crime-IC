@@ -11,10 +11,9 @@ language: en
 reliability: high
 credibility: confirmed
 sensitivity: public
-pages_updated:
-
+pages_updated: []
 key_findings:
-  - "Secure .gov websites use HTTPS A lock ( Lock Locked padlock ) or https: "// means you’ve safely connected to the .gov website. Share sensitive information only on official, secure websites.\""
+  - "The captured page included standard DOJ site-security boilerplate about HTTPS and official .gov pages."
 collection_url: https://www.justice.gov/usao-wdpa/pr/moldovan-botnet-operator-indicted-role-conspiracy-unlawfully-access-thousands-infected
 created: 2026-04-18
 updated: 2026-04-18

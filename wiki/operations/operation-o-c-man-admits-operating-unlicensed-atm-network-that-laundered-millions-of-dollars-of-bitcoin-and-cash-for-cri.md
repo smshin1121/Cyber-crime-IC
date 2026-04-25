@@ -46,25 +46,29 @@ results:
   other:
     - "Defendant-specific follow-on action derived from [[o-c-man-admits-operating-unlicensed-atm-network-that-laundered-millions-of-dollars-of-bitcoin-and-cash-for-cri]]"
 edges:
-  []
+
 credibility_index: 4.0
 source_tier: 1
 missing_fields:
-  []
+
 related_cases:
   - "[[o-c-man-admits-operating-unlicensed-atm-network-that-laundered-millions-of-dollars-of-bitcoin-and-cash-for-cri]]"
 related_operations:
-  []
+
 challenges_encountered:
-  []
+
 lessons_learned:
-  []
-source_count: 1
+
+source_count: 5
 sources:
   - "[[2026-04-18_justice-gov_oc-man-admits-operating-unlicensed-atm-network-laundered-millions-dollars-bitcoin-and]]"
+  - "[[2020-07-22_cbsnews-losangeles_yorba-linda-man-plea-deal-unlicense-bitcoin-network]]"
+  - "[[2020-07-23_atmmarketplace_superman29-pleads-guilty-laundering-millions-bitcoin-atms]]"
+  - "[[2020-07-24_blockchain-bakermckenzie_superman-29-laundering-millions-bitcoin]]"
+  - "[[2021-06-07_wilsontaxlaw_oc-man-sentenced-2-years-prison-laundering-bitcoin]]"
 summary: "This domestic-only U.S. follow-on record has been absorbed into the canonical case page [[o-c-man-admits-operating-unlicensed-atm-network-that-laundered-millions-of-dollars-of-bitcoin-and-cash-for-cri]]. No visible cross-border mechanism is documented, so it is not treated as a separate international-cooperation operation."
 created: 2026-04-18
-updated: 2026-04-22
+updated: 2026-04-25
 ---
 ## Summary
 
@@ -76,6 +80,10 @@ This domestic-only U.S. follow-on record has been absorbed into the canonical ca
 
 ## References
 
-| # | Source | Publisher | Date | URL |
+| # | Title | Publisher | Date | URL |
 |---|---|---|---|---|
 | [1] | O.C. Man Admits Operating Unlicensed ATM Network that Laundered Millions of Dollars of Bitcoin and Cash for Criminals’ Benefit | US DOJ USAO | 2020-07-22 | https://www.justice.gov/usao-cdca/pr/oc-man-admits-operating-unlicensed-atm-network-laundered-millions-dollars-bitcoin-and |
+| [2] | Yorba Linda Man To Plead Guilty For Operating Illegal Bitcoin, Money Laundering Business | CBS Los Angeles (KCBS-TV) | 2020-07-22 | https://www.cbsnews.com/losangeles/news/yorba-linda-man-plea-deal-unlicense-bitcoin-network-money-laundering-business/ |
+| [3] | 'Superman29' pleads guilty to laundering millions using bitcoin ATMs | ATM Marketplace | 2020-07-23 | https://www.atmmarketplace.com/news/superman29-pleads-guilty-to-laundering-millions-using-bitcoin-atms/ |
+| [4] | 'Superman 29' To Plead Guilty To Laundering Millions of Dollars' Worth of Bitcoin | Blockchain blog (Baker McKenzie) | 2020-07-24 | https://blockchain.bakermckenzie.com/2020/07/24/superman-29-to-plead-guilty-to-laundering-millions-of-dollars-worth-of-bitcoin/ |
+| [5] | OC Man Sentenced to 2 Years in Prison for Laundering Bitcoin | Wilson Tax Law Group | 2021-06-07 | https://wilsontaxlaw.com/oc-man-sentenced-to-2-years-in-prison-for-laundering-bitcoin/ |

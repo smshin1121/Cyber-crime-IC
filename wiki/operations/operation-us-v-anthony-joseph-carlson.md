@@ -64,11 +64,21 @@ sources:
   - "[[2026-04-18_justice-gov_michigan-man-sentenced-3-years-prison-role-sim-swapping-led-account-takeovers-and]]"
 summary: "This domestic-only U.S. follow-on record has been absorbed into the canonical case page [[us-v-anthony-joseph-carlson]]. No visible cross-border mechanism is documented, so it is not treated as a separate international-cooperation operation."
 created: 2026-04-18
-updated: 2026-04-22
+updated: 2026-04-25
 ---
 ## Summary
 
 This domestic-only U.S. follow-on record has been absorbed into the canonical case page [[us-v-anthony-joseph-carlson]]. No visible cross-border mechanism is documented, so it is not treated as a separate international-cooperation operation.
+
+> [!info] Source enrichment — single-source justification (2026-04-25)
+> Searched for additional credible sources covering this defendant (Anthony Joseph Carlson):
+> - DOJ follow-up press releases: the underlying USAO C.D. Cal. release is itself the sentencing release; no further DOJ companion notice located
+> - Parallel federal agency press releases (FBI/DEA/IRS-CI/ICE/HSI): not found
+> - Court records (CourtListener / PACER / midpage / justia): docket exists but no narrative coverage retrievable
+> - Local press coverage in Los Angeles: not found beyond a now-404 Santa Monica Daily Press summary; only ClickOnDetroit (Detroit local) covered the defendant's home-district angle
+> - Specialized trade press (BleepingComputer, KrebsOnSecurity, TheRecord, CyberScoop, SecurityWeek): not found despite SIM-swap coverage being a regular trade-press topic
+>
+> This appears to be a single-press-release domestic action (small dollar value of $122K, no cyber-crime ring framing) with thin independent secondary coverage. `source_count: 1` is retained per LESSON L19 (do not assert sources that do not exist).
 
 ## Canonical Record
 

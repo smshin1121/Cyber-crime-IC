@@ -64,11 +64,21 @@ sources:
   - "[[2026-04-18_justice-gov_sonoma-county-resident-sentenced-30-months-prison-passport-fraud-and-identity-theft]]"
 summary: "This domestic-only U.S. follow-on record has been absorbed into the canonical case page [[sonoma-county-resident-sentenced-to-30-months-in-prison-for-passport-fraud-and-identity-theft]]. No visible cross-border mechanism is documented, so it is not treated as a separate international-cooperation operation."
 created: 2026-04-18
-updated: 2026-04-22
+updated: 2026-04-25
 ---
 ## Summary
 
 This domestic-only U.S. follow-on record has been absorbed into the canonical case page [[sonoma-county-resident-sentenced-to-30-months-in-prison-for-passport-fraud-and-identity-theft]]. No visible cross-border mechanism is documented, so it is not treated as a separate international-cooperation operation.
+
+> [!info] Source enrichment — single-source justification (2026-04-25)
+> Searched for additional credible sources covering this defendant/case (Ronald Victor Solakian, 70, Sonoma County, 23-year fugitive identified via passport-application scrutiny by State Dept Diplomatic Security Service):
+> - DOJ follow-up press releases: this PR is itself the disposition; no further follow-up
+> - Parallel federal agency press releases: DSS / State Department had named co-credit on the DOJ PR but did not issue a separate dedicated PR
+> - Court records: docket exists; no narrative press coverage indexed
+> - Local press coverage in Sonoma County / Bay Area: 3 pieces found (Sonoma Index-Tribune, NBC Bay Area, FOX40 Sacramento) — below the 4-extra threshold for Path A reinforcement
+> - Specialized trade press: not found
+>
+> Although three independent local press pieces exist, the threshold for Path A reinforcement is 4+ additional credible sources. `source_count: 1` is retained per LESSON L19 to avoid asserting a count not supported by an independent set of fully-verified secondary sources.
 
 ## Canonical Record
 

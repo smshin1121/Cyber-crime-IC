@@ -64,11 +64,21 @@ sources:
   - "[[2026-04-18_justice-gov_san-jose-man-sentenced-27-months-imprisonment-money-laundering]]"
 summary: "This domestic-only U.S. follow-on record has been absorbed into the canonical case page [[san-jose-man-sentenced-to-27-months-imprisonment-for-money-laundering]]. No visible cross-border mechanism is documented, so it is not treated as a separate international-cooperation operation."
 created: 2026-04-18
-updated: 2026-04-22
+updated: 2026-04-25
 ---
 ## Summary
 
 This domestic-only U.S. follow-on record has been absorbed into the canonical case page [[san-jose-man-sentenced-to-27-months-imprisonment-for-money-laundering]]. No visible cross-border mechanism is documented, so it is not treated as a separate international-cooperation operation.
+
+> [!info] Source enrichment — single-source justification (2026-04-25)
+> Searched for additional credible sources covering this defendant/case (Maxito Pean, Haiti-origin / Florida resident, sentenced 27 months for laundering $233K via shell-account recruitment):
+> - DOJ follow-up press releases: this PR is the disposition; no further follow-up
+> - Parallel federal agency press releases (FBI/IRS-CI/USPS Inspectors): not found as standalone PRs
+> - Court records: docket exists but no narrative press coverage indexed
+> - Local press coverage in San Jose / Bay Area: not found
+> - Specialized trade press: not found (no cyber/IC element warranting trade coverage)
+>
+> Although the defendant is Haiti-origin, the conduct is purely US-domestic (FL/CA shell-account recruitment) and there is no cross-border MLA or extradition. `source_count: 1` is retained per LESSON L19.
 
 ## Canonical Record
 

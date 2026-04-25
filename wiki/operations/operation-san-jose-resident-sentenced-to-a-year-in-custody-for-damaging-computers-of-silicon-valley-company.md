@@ -64,11 +64,21 @@ sources:
   - "[[2026-04-18_justice-gov_san-jose-resident-sentenced-year-custody-damaging-computers-silicon-valley-company]]"
 summary: "This domestic-only U.S. follow-on record has been absorbed into the canonical case page [[san-jose-resident-sentenced-to-a-year-in-custody-for-damaging-computers-of-silicon-valley-company]]. No visible cross-border mechanism is documented, so it is not treated as a separate international-cooperation operation."
 created: 2026-04-18
-updated: 2026-04-22
+updated: 2026-04-25
 ---
 ## Summary
 
 This domestic-only U.S. follow-on record has been absorbed into the canonical case page [[san-jose-resident-sentenced-to-a-year-in-custody-for-damaging-computers-of-silicon-valley-company]]. No visible cross-border mechanism is documented, so it is not treated as a separate international-cooperation operation.
+
+> [!info] Source enrichment — single-source justification (2026-04-25)
+> Searched for additional credible sources covering this defendant/case (Robert Saunders, San Jose, sentenced 12 months for unauthorized access to a publicly-traded San Mateo SaaS company in 2012):
+> - DOJ follow-up press releases: this PR is itself the disposition; no further follow-up
+> - Parallel federal agency press releases (FBI/USSS): not found as standalone PRs
+> - Court records: docket exists; no narrative press coverage indexed
+> - Local press coverage in San Jose / Bay Area: not found beyond a small "Fugitive Watch" syndication
+> - Specialized trade press: not found
+>
+> This is a single-press-release domestic action with no independent secondary coverage at the threshold required. `source_count: 1` is retained per LESSON L19.
 
 ## Canonical Record
 

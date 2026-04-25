@@ -64,11 +64,21 @@ sources:
   - "[[2026-04-18_justice-gov_san-jose-resident-pleads-guilty-stealing-homeless-individuals-ids-and-using-them-seek]]"
 summary: "This domestic-only U.S. follow-on record has been absorbed into the canonical case page [[san-jose-resident-pleads-guilty-to-stealing-homeless-individuals-ids-and-using-them-to-seek-fraudulent-tax-ref]]. No visible cross-border mechanism is documented, so it is not treated as a separate international-cooperation operation."
 created: 2026-04-18
-updated: 2026-04-22
+updated: 2026-04-25
 ---
 ## Summary
 
 This domestic-only U.S. follow-on record has been absorbed into the canonical case page [[san-jose-resident-pleads-guilty-to-stealing-homeless-individuals-ids-and-using-them-to-seek-fraudulent-tax-ref]]. No visible cross-border mechanism is documented, so it is not treated as a separate international-cooperation operation.
+
+> [!info] Source enrichment — single-source justification (2026-04-25)
+> Searched for additional credible sources covering this defendant/case (Diep "Nancy" Vo + Trong "John" Nguyen, San Jose, $3.4M tax refund fraud targeting homeless Vietnamese-American individuals):
+> - DOJ follow-up press releases: a parallel DOJ Tax Division (OPA) PR exists and a downstream sentencing PR exists, but both are tied to separate operation entries
+> - Parallel federal agency press releases (FBI/IRS-CI/HSI): not found as standalone PRs (IRS-CI investigated but no dedicated PR)
+> - Court records: docket exists but no narrative press coverage indexed
+> - Local press coverage in San Jose / Bay Area: not found despite the local-community-victim angle
+> - Specialized trade press: not found (no cyber/IC element warranting trade coverage)
+>
+> This is a single-press-release domestic action with no independent secondary coverage. `source_count: 1` is retained per LESSON L19.
 
 ## Canonical Record
 
