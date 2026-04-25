@@ -46,25 +46,29 @@ results:
   other:
     - "Defendant-specific follow-on action derived from [[us-v-larry-dean-harmon]]"
 edges:
-  []
+
 credibility_index: 4.0
 source_tier: 1
 missing_fields:
-  []
+
 related_cases:
   - "[[us-v-larry-dean-harmon]]"
 related_operations:
-  []
+
 challenges_encountered:
-  []
+
 lessons_learned:
-  []
-source_count: 1
+
+source_count: 5
 sources:
   - "[[2026-04-18_justice-gov_ohio-resident-pleads-guilty-operating-darknet-based-bitcoin-mixer-laundered-over-300]]"
+  - "[[2024-11-15_therecord_ohio-man-helix-crypto-sentenced]]"
+  - "[[2024-11-16_theregister_helix-bitcoin-mixer]]"
+  - "[[2024-11-15_irs-ci_operator-helix-darknet-cryptocurrency-mixer-sentenced-money-laundering-conspiracy]]"
+  - "[[2021-08-18_coindesk_bitcoin-mixing-ceo-harmon-pleads-guilty-us-money-laundering]]"
 summary: "This domestic-only U.S. follow-on record has been absorbed into the canonical case page [[us-v-larry-dean-harmon]]. No visible cross-border mechanism is documented, so it is not treated as a separate international-cooperation operation."
 created: 2026-04-18
-updated: 2026-04-22
+updated: 2026-04-25
 ---
 ## Summary
 
@@ -76,6 +80,10 @@ This domestic-only U.S. follow-on record has been absorbed into the canonical ca
 
 ## References
 
-| # | Source | Publisher | Date | URL |
+| # | Title | Publisher | Date | URL |
 |---|---|---|---|---|
 | [1] | Ohio Resident Pleads Guilty to Operating Darknet-Based Bitcoin ‘Mixer’ That Laundered Over $300 Million | US DOJ USAO | 2021-08-18 | https://www.justice.gov/usao-dc/pr/ohio-resident-pleads-guilty-operating-darknet-based-bitcoin-mixer-laundered-over-300 |
+| [2] | Ohio man behind Helix cryptocurrency mixer gets 3-year sentence | The Record (Recorded Future News) | 2024-11-15 | https://therecord.media/ohio-man-helix-crypto-sentenced |
+| [3] | Man behind Helix cryptocurrency mixer gets three years | The Register | 2024-11-16 | https://www.theregister.com/2024/11/16/helix_bitcoin_mixer/ |
+| [4] | Operator of Helix darknet cryptocurrency mixer sentenced in money laundering conspiracy involving hundreds of millions of dollars | IRS Criminal Investigation | 2024-11-15 | https://www.irs.gov/compliance/criminal-investigation/operator-of-helix-darknet-cryptocurrency-mixer-sentenced-in-money-laundering-conspiracy-involving-hundreds-of-millions-of-dollars |
+| [5] | Bitcoin Mixing CEO Harmon Pleads Guilty to US Money-Laundering Charge | CoinDesk | 2021-08-18 | https://www.coindesk.com/policy/2021/08/18/bitcoin-mixing-ceo-harmon-pleads-guilty-to-us-money-laundering-charge |

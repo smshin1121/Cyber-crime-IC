@@ -46,25 +46,29 @@ results:
   other:
     - "Defendant-specific follow-on action derived from [[us-v-karen-kowkabi]]"
 edges:
-  []
+
 credibility_index: 4.0
 source_tier: 1
 missing_fields:
-  []
+
 related_cases:
   - "[[us-v-karen-kowkabi]]"
 related_operations:
-  []
+
 challenges_encountered:
-  []
+
 lessons_learned:
-  []
-source_count: 1
+
+source_count: 5
 sources:
   - "[[2026-04-18_justice-gov_georgetown-restauranteurs-sentenced-prison-tax-offenses-and-theft-covid-19-relief-funds]]"
+  - "[[2023-12-18_irs-ci_georgetown-restauranteurs-sentenced-to-prison-tax-offenses-covid-relief]]"
+  - "[[2023-12-19_wtop_georgetown-restaurant-owners-sentenced-tax-evasion-theft-covid-relief]]"
+  - "[[2023-08-16_nbcwashington_georgetown-restaurant-owner-pleads-guilty-stealing-738k-covid-relief]]"
+  - "[[2023-08-14_justice-gov_georgetown-restauranteurs-plead-guilty-tax-offenses-theft-covid-relief]]"
 summary: "This domestic-only U.S. follow-on record has been absorbed into the canonical case page [[us-v-karen-kowkabi]]. No visible cross-border mechanism is documented, so it is not treated as a separate international-cooperation operation."
 created: 2026-04-18
-updated: 2026-04-22
+updated: 2026-04-25
 ---
 ## Summary
 
@@ -76,6 +80,10 @@ This domestic-only U.S. follow-on record has been absorbed into the canonical ca
 
 ## References
 
-| # | Source | Publisher | Date | URL |
+| # | Title | Publisher | Date | URL |
 |---|---|---|---|---|
 | [1] | Georgetown Restauranteurs Sentenced to Prison for Tax Offenses and Theft of COVID-19 Relief Funds | US DOJ USAO | 2023-12-18 | https://www.justice.gov/usao-dc/pr/georgetown-restauranteurs-sentenced-prison-tax-offenses-and-theft-covid-19-relief-funds |
+| [2] | Georgetown restauranteurs sentenced to prison for tax offenses and theft of COVID-19 relief funds | IRS Criminal Investigation | 2023-12-18 | https://www.irs.gov/compliance/criminal-investigation/georgetown-restauranteurs-sentenced-to-prison-for-tax-offenses-and-theft-of-covid-19-relief-funds |
+| [3] | Georgetown restaurant owners sentenced in tax evasion, theft of COVID relief funds case | WTOP News | 2023-12-19 | https://wtop.com/crime/2023/12/georgetown-restaurant-owners-sentenced-in-tax-evasion-theft-of-covid-relief-funds-case/ |
+| [4] | Georgetown restaurant owner pleads guilty to stealing $738K in COVID relief funds | NBC4 Washington | 2023-08-16 | https://www.nbcwashington.com/news/local/georgetown-restaurant-owner-pleads-guilty-to-stealing-738k-in-covid-relief-funds/3405640/ |
+| [5] | Georgetown Restauranteurs Plead Guilty to Tax Offenses and Theft of COVID Relief Funds | US DOJ USAO-DC | 2023-08-14 | https://www.justice.gov/usao-dc/pr/georgetown-restauranteurs-plead-guilty-tax-offenses-and-theft-covid-relief-funds |

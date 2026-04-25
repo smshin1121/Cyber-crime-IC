@@ -64,11 +64,21 @@ sources:
   - "[[2026-04-18_justice-gov_chilean-charged-cyberstalking]]"
 summary: "This domestic-only U.S. follow-on record has been absorbed into the canonical case page [[us-v-oscar-gabriel-rojas-urquieta]]. No visible cross-border mechanism is documented, so it is not treated as a separate international-cooperation operation."
 created: 2026-04-18
-updated: 2026-04-22
+updated: 2026-04-25
 ---
 ## Summary
 
 This domestic-only U.S. follow-on record has been absorbed into the canonical case page [[us-v-oscar-gabriel-rojas-urquieta]]. No visible cross-border mechanism is documented, so it is not treated as a separate international-cooperation operation.
+
+> [!info] Source enrichment — single-source justification (2026-04-25)
+> Searched for additional credible sources covering this defendant/case (Oscar Gabriel Rojas Urquieta, 24, Chilean national indicted for cyberstalking an Erie, PA resident, March 2017):
+> - DOJ follow-up press releases (extradition / plea / sentencing): not found
+> - Parallel federal agency press releases (FBI Pittsburgh field office, State Department): not found
+> - Court records (CourtListener / PACER / midpage / justia): docket likely exists at WDPA Erie Division but no narrative coverage found via search
+> - Local press coverage in Erie, PA (Erie Times-News, GoErie, WJET YourErie): not found
+> - International coverage (Chilean press): not found via WebSearch
+>
+> The case is potentially of IC interest because it involves a Chilean defendant and pre-existing relationship in Chile, and FBI plus Gannon University Police were credited; however, only the original WDPA charging press release surfaced. `source_count: 1` is retained per LESSON L19 (do not assert sources that do not exist).
 
 ## Canonical Record
 

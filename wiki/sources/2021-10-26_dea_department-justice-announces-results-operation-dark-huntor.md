@@ -1,0 +1,26 @@
+---
+type: source
+title: "Department of Justice Announces Results of Operation Dark HunTor"
+source_type: press-release
+publisher: "U.S. Drug Enforcement Administration"
+author: "DEA"
+publish_date: 2021-10-26
+ingest_date: 2026-04-25
+language: en
+reliability: high
+credibility: confirmed
+sensitivity: public
+pages_updated:
+  - operation-us-v-ogando-dawodu-spencer-dark-web
+key_findings:
+  - "DEA parallel agency confirmation of Operation Dark HunTor international context."
+collection_url: https://www.dea.gov/press-releases/2021/10/26/department-justice-announces-results-operation-dark-huntor
+created: 2026-04-25
+---
+## Source Summary
+
+DEA parallel agency press release for Operation Dark HunTor.
+
+## Relevance to IC
+
+Parallel federal agency confirmation for [[operation-us-v-ogando-dawodu-spencer-dark-web]] international-cooperation context. Direct fetch blocked; content confirmed via WebSearch.

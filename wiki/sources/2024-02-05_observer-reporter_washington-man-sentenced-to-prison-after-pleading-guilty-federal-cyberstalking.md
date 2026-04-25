@@ -1,0 +1,28 @@
+---
+type: source
+title: "Washington man sentenced to prison after pleading guilty to federal cyberstalking charge"
+source_type: news
+publisher: "Observer-Reporter"
+author: "Staff"
+publish_date: 2024-02-05
+ingest_date: 2026-04-25
+language: en
+reliability: medium
+credibility: probably-true
+sensitivity: public
+pages_updated:
+  - operation-us-v-eric-scholl
+  - operation-washington-pa-man-charged-with-cyberstalking
+key_findings:
+  - "Confirms two-year federal prison sentence by Judge Marilyn J. Horan"
+  - "Confirms restitution order to victim"
+collection_url: https://www.observer-reporter.com/news/local-news/2024/feb/05/washington-man-sentenced-to-prison-after-pleading-guilty-to-federal-cyberstalking-charge/
+created: 2026-04-25
+---
+## Source Summary
+
+Observer-Reporter Washington, PA newspaper sentencing-day coverage of Eric Scholl's two-year federal prison sentence on cyberstalking.
+
+## Relevance to IC
+
+Local Washington, PA press coverage of sentencing for [[operation-us-v-eric-scholl]] (also linked to [[operation-washington-pa-man-charged-with-cyberstalking]]).

@@ -64,11 +64,21 @@ sources:
   - "[[2026-04-18_justice-gov_dc-man-pleads-guilty-defrauding-corporations-using-their-ups-accounts-create-and-sell]]"
 summary: "This domestic-only U.S. follow-on record has been absorbed into the canonical case page [[us-v-raekwon-malik-harrod]]. No visible cross-border mechanism is documented, so it is not treated as a separate international-cooperation operation."
 created: 2026-04-18
-updated: 2026-04-22
+updated: 2026-04-25
 ---
 ## Summary
 
 This domestic-only U.S. follow-on record has been absorbed into the canonical case page [[us-v-raekwon-malik-harrod]]. No visible cross-border mechanism is documented, so it is not treated as a separate international-cooperation operation.
+
+> [!info] Source enrichment — single-source justification (2026-04-25)
+> Searched for additional credible sources covering this defendant/case:
+> - DOJ follow-up press releases: sentencing PR exists (July 2024) but is the only follow-up
+> - Parallel federal agency press releases (FBI/USPS-OIG): not found beyond FBIWFO social media retweet
+> - Court records (CourtListener / PACER / midpage / justia): not in narrative form
+> - Local press coverage: DCNewsNow + Yahoo (syndicated same article) + Hoodline only
+> - Specialized trade press: not found (case lacks cyber/IC elements warranting trade coverage)
+>
+> This is a single-press-release domestic action — UPS account fraud is purely domestic with no international cooperation element. Independent press coverage is limited to syndicated local DC outlets. `source_count: 1` is retained per LESSON L19 (do not assert sources that do not exist).
 
 ## Canonical Record
 

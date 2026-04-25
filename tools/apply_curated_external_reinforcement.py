@@ -2737,6 +2737,589 @@ CURATED: dict[str, dict[str, Any]] = {
             "2020-07-03_occrp_alleged-cyber-godfather-hushpuppi-arrives-us",
         ],
     },
+    "operation-member-of-the-dark-overlord-hacking-group-extradited-from-united-kingdom-to-face-charges-in-st-louis": {
+        "sources": [
+            "2026-04-18_justice-gov_member-dark-overlord-hacking-group-extradited-united-kingdom-face-charges-st-louis",
+            "2020-09-21_doj-opa_uk-national-sentenced-prison-role-dark-overlord-hacking-group",
+            "2019-12-18_doj-opa_member-dark-overlord-hacking-group-extradited-united-kingdom-face-charges-st-louis",
+            "2019-12-18_kfvs12_member-dark-overlord-hacking-group-extradited-st-louis",
+            "2019-12-19_thehackernews_dark-overlord-hacker-extradited",
+            "2020-09-21_engadget_the-dark-overlord-member-sentenced",
+        ],
+    },
+    "operation-us-v-nathan-wyatt": {
+        "sources": [
+            "2026-04-18_justice-gov_member-dark-overlord-hacking-group-extradited-united-kingdom-face-charges-st-louis",
+            "2020-09-21_doj-opa_uk-national-sentenced-prison-role-dark-overlord-hacking-group",
+            "2019-12-18_doj-opa_member-dark-overlord-hacking-group-extradited-united-kingdom-face-charges-st-louis",
+            "2019-12-18_kfvs12_member-dark-overlord-hacking-group-extradited-st-louis",
+            "2019-12-19_thehackernews_dark-overlord-hacker-extradited",
+            "2020-09-21_engadget_the-dark-overlord-member-sentenced",
+        ],
+    },
+    "operation-us-v-alan-bill": {
+        "sources": [
+            "2026-04-18_justice-gov_slovakian-man-accused-running-darknet-market-selling-drugs-and-personal-information",
+            "2023-12-21_dea_slovakian-man-accused-running-darknet-market-selling-drugs-and-personal-information",
+            "2023-12-21_irs-ci_slovakian-man-accused-running-darknet-market-selling-drugs-and-personal-information",
+            "2023-12-22_stltoday_st-louis-feds-say-slovakian-man-ran-dark-web-market-for-drugs-malware-stolen-ids",
+            "2026-01-29_bleepingcomputer_slovakian-man-pleads-guilty-to-operating-kingdown-market-cybercrime-marketplace",
+            "2026-01-28_ssa-oig_slovakian-man-admits-aiding-darknet-market-that-sold-drugs-and-stolen-personal-information",
+        ],
+    },
+    "operation-us-v-brandon-adams-dark-web": {
+        "sources": [
+            "2024-05-01_edmo_brandon-adams-darknet-sentencing",
+            "2024-05-01_dea_darknet-vendor-who-sold-millions-fake-xanax-pills-sentenced",
+            "2024-05-02_cybernews_darknet-vendor-prison-sentence-counterfeit-xanax",
+            "2024-05-02_missourian_sullivan-man-sentenced-in-counterfeit-pills-scheme",
+            "2024-05-02_kttn_man-fined-10000-sentenced-to-two-years-in-missouri-prison-for-selling-fake-xanax",
+        ],
+    },
+    "operation-us-v-john-cruz-dark-web": {
+        "sources": [
+            "2025-11-18_edmo_john-cruz-dark-web-sentencing",
+            "2025-11-18_dea_new-york-man-sentenced-54-months-prison-for-selling-counterfeit-xanax",
+            "2023-04-14_dea_new-york-man-indicted-st-louis-accused-selling-counterfeit-xanax-dark-web",
+            "2025-11-19_kttn_dark-web-dealer-gets-prison-for-selling-counterfeit-xanax-pills",
+            "2025-11-20_missourian_dark-web-drug-dealer-tied-to-local-counterfeit-pill-scheme-sentenced",
+            "2024-07-01_doj-edmo_new-york-man-admits-continuing-sell-counterfeit-xanax-dark-web",
+        ],
+    },
+    "operation-mississippi-county-sheriff-indicted-on-charges-of-identity-theft": {
+        "sources": [
+            "2026-04-18_justice-gov_mississippi-county-sheriff-indicted-charges-identity-theft",
+            "2018-11-20_doj-edmo_mississippi-county-sheriff-pleads-guilty-fraud-and-identity-theft-agrees-resign",
+            "2019-03-18_doj-edmo_mississippi-county-sheriff-sentenced-10-months-fraud-and-identity-theft",
+            "2018-11-20_kfvs12_former-mississippi-co-sheriff-pleads-guilty-fraud-id-theft-agrees-to-resign",
+            "2018-11-20_stltoday_missouri-sheriff-pleads-guilty-to-wire-fraud-and-identity-theft",
+            "2018-03-15_semissourian_feds-indict-mississippi-county-sheriff-cory-hutcheson",
+        ],
+    },
+    "operation-us-v-cory-hutcheson": {
+        "sources": [
+            "2026-04-18_justice-gov_mississippi-county-sheriff-indicted-charges-identity-theft",
+            "2018-11-20_doj-edmo_mississippi-county-sheriff-pleads-guilty-fraud-and-identity-theft-agrees-resign",
+            "2019-03-18_doj-edmo_mississippi-county-sheriff-sentenced-10-months-fraud-and-identity-theft",
+            "2018-11-20_kfvs12_former-mississippi-co-sheriff-pleads-guilty-fraud-id-theft-agrees-to-resign",
+            "2018-11-20_stltoday_missouri-sheriff-pleads-guilty-to-wire-fraud-and-identity-theft",
+            "2018-03-15_semissourian_feds-indict-mississippi-county-sheriff-cory-hutcheson",
+        ],
+    },
+    "operation-former-teaching-assistant-in-st-louis-admits-blackmailing-student": {
+        "sources": [
+            "2026-04-18_justice-gov_former-teaching-assistant-st-louis-admits-blackmailing-student",
+            "2022-12-01_kmov_former-slu-teaching-assistant-pleads-guilty-blackmailing-student",
+            "2022-12-01_ksdk_saint-louis-university-teaching-assistant-blackmailing-student",
+            "2022-12-01_fox2now_former-slu-teaching-assistant-admits-blackmailing-student",
+            "2022-12-05_thestar_former-teaching-assistant-blackmailed-ex-us-feds-say",
+        ],
+    },
+    "operation-us-v-hussein-kadhim-abood-khalaf": {
+        "sources": [
+            "2026-04-18_justice-gov_former-teaching-assistant-st-louis-admits-blackmailing-student",
+            "2022-12-01_kmov_former-slu-teaching-assistant-pleads-guilty-blackmailing-student",
+            "2022-12-01_ksdk_saint-louis-university-teaching-assistant-blackmailing-student",
+            "2022-12-01_fox2now_former-slu-teaching-assistant-admits-blackmailing-student",
+            "2022-12-05_thestar_former-teaching-assistant-blackmailed-ex-us-feds-say",
+        ],
+    },
+    "operation-man-who-served-in-army-under-an-assumed-name-sentenced-to-time-served-and-community-service-for-passport-fraud": {
+        "sources": [
+            "2026-04-18_justice-gov_man-who-served-army-under-assumed-name-sentenced-time-served-and-community-service",
+            "2022-09-06_firstalert4_sentence-handed-down-man-who-used-st-louis-residents-identity-enlist-army",
+            "2022-09-06_kttn_man-who-served-in-army-under-assumed-name-sentenced",
+            "2022-09-08_foxnews_army-veteran-gets-community-service-using-false-identity",
+            "2022-09-06_krcgtv_former-st-louis-man-sentenced-fake-identity-army-1985",
+        ],
+    },
+    "operation-us-v-antonio-barner": {
+        "sources": [
+            "2026-04-18_justice-gov_man-who-served-army-under-assumed-name-sentenced-time-served-and-community-service",
+            "2022-09-06_firstalert4_sentence-handed-down-man-who-used-st-louis-residents-identity-enlist-army",
+            "2022-09-06_kttn_man-who-served-in-army-under-assumed-name-sentenced",
+            "2022-09-08_foxnews_army-veteran-gets-community-service-using-false-identity",
+            "2022-09-06_krcgtv_former-st-louis-man-sentenced-fake-identity-army-1985",
+        ],
+    },
+    "operation-st-louis-man-sentenced-to-71-months-for-making-rape-threats-to-five-women": {
+        "sources": [
+            "2026-04-18_justice-gov_st-louis-man-sentenced-71-months-making-rape-threats-five-women",
+            "2023-08-04_kttn_missouri-man-sentenced-71-months-rape-threats-five-women",
+            "2023-08-04_fox2now_st-louis-man-sentenced-rape-threats-5-women",
+            "2022-08-12_ksdk_robert-merkle-indicted-federal-grand-jury-cyberstalking",
+            "2023-03-16_fox2now_st-louis-man-pleads-guilty-rape-threats-five-women",
+        ],
+    },
+    "operation-us-v-louis-man": {
+        "sources": [
+            "2026-04-18_justice-gov_st-louis-man-sentenced-71-months-making-rape-threats-five-women",
+            "2023-08-04_kttn_missouri-man-sentenced-71-months-rape-threats-five-women",
+            "2023-08-04_fox2now_st-louis-man-sentenced-rape-threats-5-women",
+            "2022-08-12_ksdk_robert-merkle-indicted-federal-grand-jury-cyberstalking",
+            "2023-03-16_fox2now_st-louis-man-pleads-guilty-rape-threats-five-women",
+        ],
+    },
+    "operation-st-louis-man-admits-making-rape-threats-to-five-women": {
+        "sources": [
+            "2026-04-18_justice-gov_st-louis-man-admits-making-rape-threats-five-women",
+            "2023-03-16_fox2now_st-louis-man-pleads-guilty-rape-threats-five-women",
+            "2023-08-04_kttn_missouri-man-sentenced-71-months-rape-threats-five-women",
+            "2023-08-04_fox2now_st-louis-man-sentenced-rape-threats-5-women",
+            "2022-08-12_ksdk_robert-merkle-indicted-federal-grand-jury-cyberstalking",
+        ],
+    },
+    "operation-st-louis-man-indicted-on-cyberstalking-charges": {
+        "sources": [
+            "2026-04-18_justice-gov_st-louis-man-indicted-cyberstalking-charges",
+            "2022-08-12_ksdk_robert-merkle-indicted-federal-grand-jury-cyberstalking",
+            "2022-08-12_fox2now_st-louis-man-indicted-cyberstalking-threatening-women",
+            "2023-03-16_fox2now_st-louis-man-pleads-guilty-rape-threats-five-women",
+            "2023-08-04_kttn_missouri-man-sentenced-71-months-rape-threats-five-women",
+        ],
+    },
+    "operation-st-louis-man-sentenced-on-aggravated-id-theft-other-charges": {
+        "sources": [
+            "2026-04-18_justice-gov_st-louis-man-sentenced-aggravated-id-theft-other-charges",
+            "2022-06-29_secret-service_st-louis-man-sentenced-aggravated-id-theft-other-charges",
+            "2022-06-29_firstalert4_st-louis-man-sentenced-prison-id-theft",
+            "2022-06-29_fox2now_st-louis-man-sentenced-aggravated-identity-theft",
+            "2022-06-29_kttn_missouri-man-sentenced-id-theft-hiding-evidence-jail-inmate",
+        ],
+    },
+    "operation-us-v-bryson-whiteside": {
+        "sources": [
+            "2026-04-18_justice-gov_st-louis-man-sentenced-aggravated-id-theft-other-charges",
+            "2022-06-29_secret-service_st-louis-man-sentenced-aggravated-id-theft-other-charges",
+            "2022-06-29_firstalert4_st-louis-man-sentenced-prison-id-theft",
+            "2022-06-29_fox2now_st-louis-man-sentenced-aggravated-identity-theft",
+            "2022-06-29_kttn_missouri-man-sentenced-id-theft-hiding-evidence-jail-inmate",
+        ],
+    },
+    "operation-two-indicted-accused-of-harboring-aliens": {
+        "sources": [
+            "2026-04-18_justice-gov_two-indicted-accused-harboring-aliens",
+            "2025-09-04_stlpr_st-charles-residents-charged-illegally-harboring-people-ice-raid",
+            "2025-09-04_ksdk_armed-ice-raid-missouri-two-charged-illegally-harboring-immigrants",
+            "2025-09-04_fox2now_st-charles-county-duo-accused-harboring-undocumented-migrants",
+            "2025-09-04_stltoday_feds-charge-two-harboring-undocumented-immigrants-st-peters-homes",
+        ],
+    },
+    "operation-us-v-guo-liang-ye-and-de-jin-ye": {
+        "sources": [
+            "2026-04-18_justice-gov_two-indicted-accused-harboring-aliens",
+            "2025-09-04_stlpr_st-charles-residents-charged-illegally-harboring-people-ice-raid",
+            "2025-09-04_ksdk_armed-ice-raid-missouri-two-charged-illegally-harboring-immigrants",
+            "2025-09-04_fox2now_st-charles-county-duo-accused-harboring-undocumented-migrants",
+            "2025-09-04_stltoday_feds-charge-two-harboring-undocumented-immigrants-st-peters-homes",
+        ],
+    },
+    "operation-kirkwood-resident-pleads-guilty-for-identity-theft": {
+        "sources": [
+            "2026-04-18_justice-gov_kirkwood-resident-pleads-guilty-identity-theft",
+            "2021-11-03_fox2now_81-year-old-money-mule-pleads-guilty-romance-fraud-scheme",
+            "2021-11-03_ksdk_kirkwood-woman-admits-helping-romance-scammer-money-mule",
+            "2022-02-24_stlpr_kirkwood-octogenarian-international-money-mule",
+            "2022-02-25_timesnewspapers_woman-sentenced-after-helping-scam-artist",
+        ],
+    },
+    "operation-registered-sex-offender-charged-with-new-child-pornography-offense": {
+        "sources": [
+            "2026-04-18_justice-gov_registered-sex-offender-charged-new-child-pornography-offense",
+            "2025-04-03_doj-edmo_registered-sex-offender-sentenced-17-years-prison-possessing-child-pornography",
+            "2023-12-12_firstalert4_registered-sex-offender-charged-distributing-child-sexual-abuse-materials",
+            "2023-12-15_myleaderpaper_patrick-mayberry-faces-federal-child-pornography-charge",
+            "2024-11-19_myleaderpaper_mayberry-pleads-guilty-to-child-pornography-possession",
+            "2025-04-04_myleaderpaper_mayberry-gets-17-year-prison-sentence-for-selling-child-porn",
+        ],
+    },
+    "operation-registered-sex-offender-admits-possessing-child-pornography": {
+        "sources": [
+            "2026-04-18_justice-gov_registered-sex-offender-admits-possessing-child-pornography-0",
+            "2024-08-22_doj-edmo_st-charles-sex-offender-admits-possessing-child-pornography",
+            "2025-03-13_doj-edmo_missouri-sex-offender-sentenced-14-years-prison-possessing-child-pornography",
+            "2025-03-13_kttn_chesterfield-man-sentenced-14-years-prison-child-porn-charges",
+            "2025-03-14_hoodline_missouri-sex-offender-sentenced-14-years-child-pornography-possession",
+        ],
+    },
+    "operation-registered-sex-offender-admits-possessing-child-pornography-0": {
+        "sources": [
+            "2026-04-18_justice-gov_registered-sex-offender-admits-possessing-child-pornography-0",
+            "2024-08-22_doj-edmo_st-charles-sex-offender-admits-possessing-child-pornography",
+            "2025-03-13_doj-edmo_missouri-sex-offender-sentenced-14-years-prison-possessing-child-pornography",
+            "2025-03-13_kttn_chesterfield-man-sentenced-14-years-prison-child-porn-charges",
+            "2025-03-14_hoodline_missouri-sex-offender-sentenced-14-years-child-pornography-possession",
+        ],
+    },
+    "operation-us-v-homeland-security-employees": {
+        "sources": [
+            "2026-04-18_justice-gov_three-former-department-homeland-security-employees-sentenced-scheme-defraud-united",
+            "2024-01-29_bleepingcomputer_dhs-employees-jailed-for-stealing-data-of-200k-us-govt-workers",
+            "2024-01-29_nextgov_former-dhs-employees-sentenced-plot-steal-government-software-databases",
+            "2024-01-26_uspsoig_three-former-department-homeland-security-employees",
+            "2024-01-29_law360_3-ex-dhs-staffers-get-prison-probation-for-software-theft",
+        ],
+    },
+    "operation-us-v-house-member": {
+        "sources": [
+            "2026-04-18_justice-gov_former-employee-house-member-sentenced-prison-term-charges-cyberstalking-case",
+            "2018-03-09_wjla_ex-house-staffer-sentenced-for-stealing-distributing-nude-images-video-of-congresswoman",
+            "2017-07-13_cbsnews_juan-mccullum-dorene-browne-louis-charged-congress-nude-photos",
+            "2018-01-24_washingtonexaminer_former-staffers-plead-guilty-circulating-lewd-photos-democratic-congresswoman",
+            "2018-01-23_justice-gov_two-former-employees-house-member-plead-guilty-charges-cyber-related-case",
+        ],
+    },
+    "operation-us-v-ilya-lichtenstein-and-heather-morgan": {
+        "sources": [
+            "2026-04-18_justice-gov_united-states-v-ilya-lichtenstein-and-heather-morgan",
+            "2024-11-13_trmlabs_lichtenstein-sentenced-bitfinex-hack-razzlekhan-10-billion",
+            "2024-11-14_cnbc_bitfinex-hacker-sentenced-to-five-years-in-prison-for-bitcoin-money-laundering-scheme",
+            "2024-11-18_coindesk_bitfinex-hack-launderer-heather-razzlekhan-morgan-sentenced-18-months",
+            "2024-11-20_dhs-hsi_bitfinex-hacker-sentenced-money-laundering-conspiracy",
+        ],
+    },
+    "operation-us-v-ilya-lichtenstein-heather-morgan-and-new-york-city": {
+        "sources": [
+            "2026-04-18_justice-gov_husband-and-wife-plead-guilty-money-laundering-conspiracy-involving-hack-and-theft",
+            "2023-08-03_fortune_bitcoin-heist-tied-to-bitfinex-hack-case-sees-guilty-plea",
+            "2023-08-02_trmlabs_bitfinex-money-launderers-plead-guilty-razzlekhan",
+            "2023-07-21_chainalysis_bitfinex-hack-money-launderers-plead-guilty",
+            "2023-08-03_cnbc_new-york-man-admits-being-original-bitfinex-hacker-during-guilty-plea-dc",
+        ],
+    },
+    "operation-us-v-insider-trading": {
+        "sources": [
+            "2026-04-18_justice-gov_attorney-arrested-charges-insider-trading",
+            "2023-12-21_abajournal_visiting-biglaw-attorney-gets-prison-sentence-for-insider-trading",
+            "2023-08-24_abovethelaw_ex-attorney-at-top-10-biglaw-firm-charged-with-insider-trading",
+            "2023-08-23_sec_sec-charges-former-attorney-us-based-global-law-firm-with-insider-trading",
+            "2023-12-20_justice-gov_visiting-brazilian-attorney-sentenced-prison-insider-trading",
+        ],
+    },
+    "operation-us-v-karen-kowkabi": {
+        "sources": [
+            "2026-04-18_justice-gov_georgetown-restauranteurs-sentenced-prison-tax-offenses-and-theft-covid-19-relief-funds",
+            "2023-12-18_irs-ci_georgetown-restauranteurs-sentenced-to-prison-tax-offenses-covid-relief",
+            "2023-12-19_wtop_georgetown-restaurant-owners-sentenced-tax-evasion-theft-covid-relief",
+            "2023-08-16_nbcwashington_georgetown-restaurant-owner-pleads-guilty-stealing-738k-covid-relief",
+            "2023-08-14_justice-gov_georgetown-restauranteurs-plead-guilty-tax-offenses-theft-covid-relief",
+        ],
+    },
+    "operation-us-v-larry-dean-harmon": {
+        "sources": [
+            "2026-04-18_justice-gov_ohio-resident-pleads-guilty-operating-darknet-based-bitcoin-mixer-laundered-over-300",
+            "2024-11-15_therecord_ohio-man-helix-crypto-sentenced",
+            "2024-11-16_theregister_helix-bitcoin-mixer",
+            "2024-11-15_irs-ci_operator-helix-darknet-cryptocurrency-mixer-sentenced-money-laundering-conspiracy",
+            "2021-08-18_coindesk_bitcoin-mixing-ceo-harmon-pleads-guilty-us-money-laundering",
+        ],
+    },
+    "operation-us-v-mihai-alexandru-isvanca": {
+        "sources": [
+            "2026-04-18_justice-gov_romanian-woman-pleads-guilty-federal-charges-hacking-metropolitan-police-department",
+            "2018-09-21_nextgov_romanian-woman-pleads-guilty-hacking-dc-cameras-ahead-trump-inauguration",
+            "2018-09-20_statescoop_romanian-woman-pleads-guilty-2017-ransomware-attack-dc-police-cameras",
+            "2018-09-21_infosecurity_woman-pleads-guilty-to-dc-cctv-ransomware-blitz",
+            "2018-09-20_secretservice_romanian-woman-pleads-guilty-federal-charges-hacking-metropolitan-police",
+        ],
+    },
+    "operation-us-v-milomir-desnica": {
+        "sources": [
+            "2026-04-18_justice-gov_serbian-citizen-pleads-guilty-running-monopoly-drug-market-darknet",
+            "2023-11-09_therecord_serbian-pleads-guilty-monopoly-market",
+            "2023-06-26_bankinfosecurity_monopoly-darknet-market-suspected-operator-extradited-to-us",
+            "2023-06-26_bleepingcomputer_man-charged-in-us-for-running-monopoly-darknet-drug-market",
+            "2023-11-11_securityaffairs_monopoly-market-admin-plead-guilty",
+        ],
+    },
+    "operation-us-v-mir-islam": {
+        "sources": [
+            "2026-04-18_justice-gov_new-york-man-sentenced-24-months-prison-internet-offenses-including-doxing-swatting",
+            "2016-07-11_krebsonsecurity_serial-swatter-stalker-doxer-mir-islam-gets-just-1-year-jail",
+            "2016-07-18_majorgeeks_swatter-sentenced-to-two-years",
+            "2016-07-13_theothermccain_mir-islam-swat-swatting-prison-fbi",
+            "2016-07-12_washingtontimes_mir-islam-hacker-sentenced-targeting-nra-lawmakers",
+        ],
+    },
+    "operation-us-v-nicholas-moore": {
+        "sources": [
+            "2026-04-18_justice-gov_tennessee-man-pleads-hacking-us-supreme-court-americorps-and-va-health-system",
+            "2026-01-19_securityaffairs_hacker-pleads-guilty-supreme-court-americorps-va",
+            "2026-01-17_securityweek_tennessee-man-pleads-guilty-repeatedly-hacking-supreme-court-filing-system",
+            "2026-01-19_paubox_nicholas-moore-pleads-guilty-hacking-us-supreme-court",
+            "2026-01-16_washingtonpost_nicholas-moore-supreme-court-hacked-filing-system",
+        ],
+    },
+    "operation-us-v-notorious-hacker": {
+        "sources": [
+            "2026-04-18_justice-gov_notorious-hacker-sentenced-18-months-prison",
+            "2023-11-16_securityweek_administrator-darkode-hacking-forum-sentenced-to-prison",
+            "2023-11-16_isssource_hacker-sent-to-slammer-for-18-months",
+            "2019-10-01_krebsonsecurity_mariposa-botnet-author-darkcode-crime-forum-admin-arrested-germany",
+            "2018-12-04_justice-gov_four-international-hacking-suspects-charged-racketeering",
+        ],
+    },
+    "operation-us-v-ogando-dawodu-spencer-dark-web": {
+        "sources": [
+            "2023-03-22_ddc_ogando-dawodu-spencer-darknet-sentencing",
+            "2023-03-22_fda-oci_three-individuals-sentenced-darknet-narcotics-trafficking-conspiracy-fentanyl-pills",
+            "2021-10-26_cyberscoop_global-operation-dark-huntor-dark-web-sting-150-arrests",
+            "2021-10-27_welivesecurity_dark-huntor-150-arrested-31-million-seized-dark-web-bust",
+            "2021-10-26_dea_department-justice-announces-results-operation-dark-huntor",
+        ],
+    },
+    "operation-us-v-olatunji-dawodu-and-alex-ogando": {
+        "sources": [
+            "2026-04-18_justice-gov_three-individuals-arrested-involvement-darknet-narcotics-trafficking-involving-pills",
+            "2021-02-25_uspis_three-individuals-arrested-darknet-narcotics-trafficking-pills-fentanyl",
+            "2021-05-03_hidta_hidta-funded-hi-tech-drug-initiative-darknet-fentanyl",
+            "2021-07-21_rflawgroup_two-south-florida-men-arrested-trafficking-opioids-darknet",
+            "2021-09-17_fldrugdefensegroup_judge-revokes-home-detention-darknet-opioid-trafficking",
+        ],
+    },
+    "operation-us-v-oleksandr-didenko": {
+        "sources": [
+            "2026-04-18_justice-gov_two-romanian-suspects-charged-hacking-metropolitan-police-department-surveillance-cameras",
+            "2017-12-22_bankinfosecurity_feds-charge-romanians-hacking-washington-cctv-cameras",
+            "2017-12-29_romaniainsider_us-romanians-surveillance-cameras-hacking",
+            "2017-12-28_secretservice_two-romanian-suspects-charged-hacking-dc-metropolitan-police-department",
+            "2017-12-22_thehackernews_police-camera-hacking",
+        ],
+    },
+    "operation-us-v-roman-sterlingov": {
+        "sources": [
+            "2026-04-18_justice-gov_individual-arrested-and-charged-operating-notorious-darknet-cryptocurrency-mixer",
+            "2024-11-11_infosecurity_man-gets-12-years-running-bitcoin-fog-crypto-mixer",
+            "2024-11-11_theregister_bitcoin-fog-sentencing",
+            "2024-03-12_coindesk_bitcoin-fog-founder-convicted-of-money-laundering",
+            "2024-11-11_thehackernews_bitcoin-fog-founder-sentenced-12-years",
+        ],
+    },
+    "operation-us-v-rushan-lavar-reed-and-celeste-nicole-reed": {
+        "sources": [
+            "2026-04-18_justice-gov_darknet-drug-trafficking-couple-las-vegas-sentenced-dc-federal-prison-terms",
+            "2025-02-21_fox5vegas_couple-sentenced-dark-web-storefront-mrsfeelgood-drug-trafficking",
+            "2025-02-18_news3lv_las-vegas-couple-sentenced-running-drug-trafficking-ring-via-darknet",
+            "2025-02-18_ktnv_las-vegas-couple-sentenced-prison-drug-trafficking-darknet-market",
+            "2025-02-21_hoodline_las-vegas-couple-sentenced-running-prolific-darknet-drug-operation",
+        ],
+    },
+    "operation-us-v-stealing-senate-information": {
+        "sources": [
+            "2026-04-18_justice-gov_man-pleads-guilty-charges-stealing-senate-information-illegally-posting-restricted",
+            "2019-04-05_washingtontimes_ex-democratic-staffer-guilty-doxing-gop-senators",
+            "2019-06-19_thedailybeast_ex-senate-staffer-jackson-cosko-sentenced-4-years",
+            "2019-06-19_washingtonexaminer_former-democratic-aide-headed-to-prison-doxing-republican-senators",
+            "2019-04-05_thehill_former-democratic-aide-pleads-guilty-doxing-gop-senators",
+        ],
+    },
+    "operation-us-v-unsealed-against-russian-national": {
+        "sources": [
+            "2026-04-18_justice-gov_ransomware-charges-unsealed-against-russian-national",
+            "2023-05-17_theregister_feds-charge-russian-ransomware-matveev",
+            "2023-05-16_techcrunch_doj-sanctions-matveev-wazawaka-ransomware",
+            "2023-05-16_chainalysis_us-sanctions-charges-russia-based-ransomware-developer-matveev",
+            "2023-05-16_irs-ci_russian-national-charged-with-ransomware-attacks-critical-infrastructure",
+        ],
+    },
+    "operation-virginia-man-sentenced-to-federal-prison-for-conspiring-to-impersonate-federal-law-enforcement-officer": {
+        "sources": [
+            "2026-04-18_justice-gov_virginia-man-sentenced-federal-prison-conspiring-impersonate-federal-law-enforcement",
+            "2023-08-09_fox5dc_virginia-man-who-impersonated-federal-agent-sentenced",
+            "2022-04-08_cbsnews_secret-service-taherzadeh-ali-iranian-intelligence",
+            "2023-12-01_secretservice_dc-man-sentenced-federal-prison-conspiracy-impersonate",
+            "2022-04-07_washingtonpost_federal-agents-impersonators-secret-service",
+        ],
+    },
+    "operation-virginia-woman-sentenced-to-prison-for-fraudulently-ordering-cell-phones-on-behalf-of-her-non-profit-employer-": {
+        "sources": [
+            "2026-04-18_justice-gov_virginia-woman-sentenced-prison-fraudulently-ordering-cell-phones-behalf-her-non-profit",
+            "2023-05-08_alxnow_alexandria-woman-sentenced-41-months-prison-wire-fraud",
+            "2023-05-08_patch_fraudulent-cell-phone-resales-lead-sentence-alexandria-woman",
+            "2023-05-04_wusa9_former-ymca-employee-sentenced-41-months-ordering-cell-phones",
+            "2023-05-04_moralepatcharmory_virginia-woman-sentenced-fraudulently-ordering-cell-phones",
+        ],
+    },
+    "operation-us-v-krasimir-nikolov": {
+        "sources": [
+            "2026-04-18_justice-gov_three-members-goznym-cybercrime-network-sentenced-parallel-multi-national-prosecutions",
+            "2019-12-20_bleepingcomputer_goznym-gang-members-behind-100-million-damages-sentenced",
+            "2019-12-20_cyberscoop_goznym-georgian-bulgarian-cybercriminals-sentenced-doj",
+            "2019-12-20_postgazette_goznym-malware-leaders-pittsburgh-convicted-sentenced-prosecuted-country-georgia-europe",
+            "2019-12-23_securityweek_three-goznym-malware-operators-sentenced",
+        ],
+    },
+    "operation-us-v-tal-prihar-and-michael-phan": {
+        "sources": [
+            "2026-04-18_justice-gov_administrators-deepdotweb-indicted-money-laundering-conspiracy-relating-kickbacks-sales",
+            "2019-05-08_justice-gov_administrators-of-deepdotweb-indicted-for-money-laundering-conspiracy-relating-t",
+            "2021-03-31_cyberscoop_deepdotweb-boss-pleads-guilty-to-laundering-millions",
+            "2022-01-26_cyberscoop_co-operator-of-deepdotweb-sentenced-to-more-than-8-years-for-money-laundering",
+            "2026-03-21_wikipedia_deepdotweb",
+        ],
+    },
+    "operation-us-v-david-tinley": {
+        "sources": [
+            "2026-04-18_justice-gov_siemens-contract-employee-gets-jail-time-intentionally-damaging-computers",
+            "2019-12-17_postgazette_software-contractor-david-tinley-prison-logic-bombs-siemens-sabotage",
+            "2019-12-18_bleepingcomputer_siemens-contractor-jailed-for-sabotage-with-logic-bombs",
+            "2019-12-18_securityweek_former-siemens-contractor-sentenced-prison-planting-logic-bombs",
+            "2019-06-25_theregister_thats-a-sticky-siemens-situation-former-coder-blows-his-logic-bomb",
+        ],
+    },
+    "operation-us-v-russian-national": {
+        "sources": [
+            "2026-04-18_justice-gov_russian-national-charged-hacking-scheme-targeting-pittsburgh-national-golf-course",
+            "2018-11-29_cbspittsburgh_russian-man-charged-hacking-pittsburgh-national-golf-course",
+            "2018-11-29_postgazette_russia-hacking-pittsburgh-national-golf-course-gibsonia-west-deer-ilya-kulkov",
+            "2018-11-29_triblive_feds-russian-man-hacked-west-deer-golf-course-computer-to-shop-on-ebay",
+            "2018-11-30_scmagazine_russian-national-charged-with-hacking-pittsburgh-golf-course-to-commit-fraud",
+        ],
+    },
+    "operation-us-v-indicted-for-role-in": {
+        "sources": [
+            "2026-04-18_justice-gov_moldovan-botnet-operator-indicted-role-conspiracy-unlawfully-access-thousands-infected",
+            "2024-04-16_fbi_alexander-lefterov-most-wanted-cyber",
+            "2024-04-16_secretservice_moldovan-botnet-operator-indicted-role-conspiracy",
+            "2024-04-17_bleepingcomputer_moldovan-charged-for-operating-botnet-used-to-push-ransomware",
+            "2024-04-17_cyberinsider_botnet-operator-charged-with-major-cyber-crimes-in-the-us",
+        ],
+    },
+    "operation-us-v-nathaniel-earl-dunlap": {
+        "sources": [
+            "2026-04-18_justice-gov_south-carolina-man-charged-interstate-stalking-and-aggravated-id-theft-targeting",
+            "2017-04-17_justice-gov_south-carolina-man-charged-with-interstate-stalking-and-aggravated-id-theft-targ",
+            "2017-07-28_justice-gov_south-carolina-man-pleads-guilty-interstate-stalking-charge",
+            "2017-07-28_triblive_dakota-james-impersonator-pleads-guilty-in-federal-court",
+            "2018-08-14_postgazette_cyber-stalker-nathaniel-earl-dunlap-dakota-james-harassment-neighbor-federal-prison",
+        ],
+    },
+    "operation-us-v-south-carolina-man": {
+        "sources": [
+            "2026-04-18_justice-gov_south-carolina-man-sentenced-30-months-prison-interstate-stalking",
+            "2018-08-14_justice-gov_south-carolina-man-sentenced-to-30-months-in-prison-for-interstate-stalking",
+            "2018-08-14_postgazette_cyber-stalker-nathaniel-earl-dunlap-dakota-james-harassment-neighbor-federal-prison",
+            "2017-07-28_justice-gov_south-carolina-man-pleads-guilty-interstate-stalking-charge",
+            "2017-07-28_triblive_dakota-james-impersonator-pleads-guilty-in-federal-court",
+        ],
+    },
+    "operation-us-v-george-sotiris-vlastos": {
+        "sources": [
+            "2025-05-12_justice-gov_united-states-v-george-sotiris-vlastos",
+            "2025-05-12_justice-gov_pittsburgh-resident-and-darknet-drug-trafficker-sentenced-nearly-six-years-prison",
+            "2025-05-12_legalnewsline_pittsburgh-man-sentenced-to-nearly-six-years-for-drug-trafficking-and-firearms-offenses",
+            "2024-08-15_govinfo_usa-v-vlastos-2-24-cr-00214-pawd",
+            "2025-05-12_wdpa_vlastos-darknet-sentencing",
+        ],
+    },
+    "operation-us-v-vlastos-dark-web": {
+        "sources": [
+            "2025-05-12_wdpa_vlastos-darknet-sentencing",
+            "2025-05-12_justice-gov_pittsburgh-resident-and-darknet-drug-trafficker-sentenced-nearly-six-years-prison",
+            "2025-05-12_legalnewsline_pittsburgh-man-sentenced-to-nearly-six-years-for-drug-trafficking-and-firearms-offenses",
+            "2025-05-12_justice-gov_united-states-v-george-sotiris-vlastos",
+            "2024-08-15_govinfo_usa-v-vlastos-2-24-cr-00214-pawd",
+        ],
+    },
+    "operation-us-v-khaled-miah": {
+        "sources": [
+            "2026-04-18_justice-gov_former-pitt-student-sentenced-6-years-prison-threatening-communications-and-impeding",
+            "2022-10-19_justice-gov_former-pitt-student-sentenced-to-6-years-in-prison-for-threatening-communication",
+            "2021-01-07_postgazette_khaled-miah-pittsburgh-charged-alleged-threats-fbi-agents",
+            "2021-01-07_triblive_feds-former-pitt-student-threatened-fbi-agents-celebrated-attacks-on-us",
+            "2022-10-19_cbspittsburgh_former-pitt-student-sentenced-threatening-fbi-agents-social-media",
+        ],
+    },
+    "operation-us-v-kaleb-levicky": {
+        "sources": [
+            "2026-04-18_justice-gov_carmichaels-man-sentenced-3-years-cyberstalking",
+            "2022-08-05_justice-gov_carmichaels-man-sentenced-to-3-years-for-cyberstalking",
+            "2022-08-05_shorenewsnetwork_carmichaels-man-sentenced-to-3-years-for-cyberstalking",
+            "2021-01-27_pacer_usa-v-levicky-2-21-cr-00019-pawd",
+            "2022-08-08_observer-reporter_former-carmichaels-man-sentenced-prison-cyberstalking",
+        ],
+    },
+    "operation-us-v-san-antonio-man": {
+        "sources": [
+            "2026-04-18_justice-gov_san-antonio-man-sentenced-january-2018-threats-made-against-players-and-fans-nfl",
+            "2018-11-27_justice-gov_san-antonio-man-sentenced-for-january-2018-threats-made-against-players-and-fans",
+            "2018-01-14_washingtonpost_mass-shooting-threat-against-steelers-players-fans-during-nfl-playoff-game-ends-in-arrest",
+            "2018-01-14_cnn_fbi-texas-man-threatened-to-kill-pittsburgh-steelers-players-and-fans",
+            "2018-01-14_ksat_sa-man-threatened-mass-shooting-at-nfl-playoff-game-affidavit-says",
+        ],
+    },
+    "operation-us-v-new-jersey-man": {
+        "sources": [
+            "2026-04-18_justice-gov_new-jersey-man-sentenced-prison-after-pleading-guilty-posting-restricted-information",
+            "2021-08-02_justice-gov_new-jersey-man-sentenced-to-prison-after-pleading-guilty-to-posting-restricted-i",
+            "2021-08-02_postgazette_william-kaetz-paramus-nj-judge-ranjan-sentenced-16-months",
+            "2021-08-03_abajournal_new-jersey-man-gets-prison-time-for-posting-federal-judges-home-address",
+            "2021-08-03_newsweek_new-jersey-man-gets-16-months-doxxing-federal-judge",
+        ],
+    },
+    "operation-us-v-justin-sean-johnson": {
+        "sources": [
+            "2026-04-18_justice-gov_judge-sentences-michigan-man-7-years-prison-hacking-upmc-hr-databases-and-stealing",
+            "2020-06-18_postgazette_justin-sean-johnson-suspected-upmc-hacker-arrested-detroit",
+            "2021-10-18_bleepingcomputer_man-gets-7-years-in-prison-for-hacking-65k-health-care-employees",
+            "2021-10-18_securityweek_university-pittsburgh-medical-center-hacker-sentenced-to-prison",
+            "2021-10-18_govinfosecurity_hacker-in-upmc-data-theft-fraud-case-gets-maximum-sentences",
+        ],
+    },
+    "operation-us-v-three-chinese-hackers-who": {
+        "sources": [
+            "2026-04-18_justice-gov_us-charges-three-chinese-hackers-who-work-internet-security-firm-hacking-three",
+            "2017-11-28_cyberscoop_doj-reveals-indictment-against-chinese-cyber-spies-that-stole-us-business-secrets",
+            "2017-11-28_bleepingcomputer_us-charges-three-members-of-elite-chinese-cyber-espionage-unit",
+            "2017-11-28_csoonline_us-charges-3-chinese-security-firm-hackers-with-cyber-espionage",
+            "2017-11-30_foreignpolicy_feds-quietly-reveal-chinese-state-backed-hacking-operation",
+        ],
+    },
+    "operation-us-v-willy-clock": {
+        "sources": [
+            "2026-04-18_justice-gov_us-citizen-deported-uganda-face-counterfeiting-charges-western-pa",
+            "2015-12-11_fbi-pittsburgh_us-citizen-deported-from-uganda-to-face-counterfeiting-charges-in-western-pa",
+            "2014-12-30_krebsonsecurity_alleged-counterfeiter-willy-clock-arrested",
+            "2015-04-30_justice-gov_four-charged-international-uganda-based-cyber-counterfeiting-scheme",
+            "2019-09-09_triblive_man-gets-6-plus-years-for-2m-counterfeit-darknet-scheme-that-hit-pittsburgh-uganda-stores",
+        ],
+    },
+    "operation-us-v-tai-jauna-jones": {
+        "sources": [
+            "2026-04-18_justice-gov_pittsburgh-woman-pleads-guilty-credit-card-fraud-and-aggravated-identity-theft-charges",
+            "2025-04-21_justice-gov_pittsburgh-woman-pleads-guilty-to-credit-card-fraud-and-aggravated-identity-thef",
+            "2025-04-21_hoodline_pittsburgh-woman-pleads-guilty-credit-card-fraud-identity-theft",
+            "2025-04-22_triblive_third-person-pleads-guilty-monroeville-rental-car-scam",
+            "2025-04-22_yahoo_pittsburgh-woman-pleads-guilty-monroeville-rental-car-scam",
+        ],
+    },
+    "operation-us-v-jacob-blair": {
+        "sources": [
+            "2026-04-18_justice-gov_coraopolis-man-indicted-western-pennsylvania-and-district-columbia-drug-charges",
+            "2023-02-28_justice-gov_coraopolis-man-indicted-in-western-pennsylvania-and-in-the-district-of-columbia",
+            "2023-02-28_dea-gov_indictment-charges-alleged-darknet-marketplace-fentanyl-dealer",
+            "2023-02-28_yourerie_pa-man-charged-with-alleged-drug-possession-darknet-marketplace-dealing",
+            "2024-12-18_postgazette_aliquippa-man-pleads-guilty-counterfeit-narcotics-darknet-marketplace-tor2door",
+        ],
+    },
+    "operation-us-v-eric-scholl": {
+        "sources": [
+            "2026-04-18_justice-gov_one-defendant-sentenced-prison-and-another-ordered-detained-pretrial-week-separate",
+            "2022-07-15_observer-reporter_washington-man-facing-federal-cyberstalking-charges",
+            "2022-07-14_wpxi_washington-man-accused-cyberstalking-his-ex-wife-after-pfa-filed",
+            "2024-02-05_observer-reporter_washington-man-sentenced-to-prison-after-pleading-guilty-federal-cyberstalking",
+            "2024-02-02_wpxi_washington-man-sentenced-cyberstalking-ex-wife",
+        ],
+    },
+    "operation-washington-pa-man-charged-with-cyberstalking": {
+        "sources": [
+            "2026-04-18_justice-gov_washington-pa-man-charged-cyberstalking",
+            "2022-07-14_justice-gov_washington-pa-man-charged-with-cyberstalking",
+            "2022-07-15_observer-reporter_washington-man-facing-federal-cyberstalking-charges",
+            "2022-07-14_wpxi_washington-man-accused-cyberstalking-his-ex-wife-after-pfa-filed",
+            "2024-02-05_observer-reporter_washington-man-sentenced-to-prison-after-pleading-guilty-federal-cyberstalking",
+        ],
+    },
 
 }
 

@@ -64,11 +64,21 @@ sources:
   - "[[2026-04-18_justice-gov_district-man-sentenced-97-months-prison-soliciting-and-receiving-child-pornography]]"
 summary: "This domestic-only U.S. follow-on record has been absorbed into the canonical case page [[us-v-raymond-glover]]. No visible cross-border mechanism is documented, so it is not treated as a separate international-cooperation operation."
 created: 2026-04-18
-updated: 2026-04-22
+updated: 2026-04-25
 ---
 ## Summary
 
 This domestic-only U.S. follow-on record has been absorbed into the canonical case page [[us-v-raymond-glover]]. No visible cross-border mechanism is documented, so it is not treated as a separate international-cooperation operation.
+
+> [!info] Source enrichment — single-source justification (2026-04-25)
+> Searched for additional credible sources covering this defendant/case:
+> - DOJ follow-up press releases: plea PR exists (March 2023) but is the same case
+> - Parallel federal agency press releases (ICE/HSI): exists; HSI Washington DC was lead investigator. WebFetch blocked by Akamai but URL exists.
+> - Court records (CourtListener docket 63247924): exists but blocked from fetch
+> - Local press coverage in DC: Daily Voice (Arlington) covered both plea and sentencing but blocked from fetch
+> - Specialized trade press: not found (CSAM cases generally lack trade-press coverage outside niche outlets)
+>
+> CSAM cases typically receive limited press coverage due to victim sensitivity. While 2-3 verified additional sources exist (HSI ICE, Daily Voice), all are blocked by site bot protections from direct verification. Per LESSON L19, retaining `source_count: 1` rather than asserting unverified content.
 
 ## Canonical Record
 

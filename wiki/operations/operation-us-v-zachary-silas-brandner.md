@@ -64,11 +64,21 @@ sources:
   - "[[2026-04-18_justice-gov_district-man-indicted-distributing-child-pornography]]"
 summary: "This domestic-only U.S. follow-on record has been absorbed into the canonical case page [[us-v-zachary-silas-brandner]]. No visible cross-border mechanism is documented, so it is not treated as a separate international-cooperation operation."
 created: 2026-04-18
-updated: 2026-04-22
+updated: 2026-04-25
 ---
 ## Summary
 
 This domestic-only U.S. follow-on record has been absorbed into the canonical case page [[us-v-zachary-silas-brandner]]. No visible cross-border mechanism is documented, so it is not treated as a separate international-cooperation operation.
+
+> [!info] Source enrichment — single-source justification (2026-04-25)
+> Searched for additional credible sources covering this defendant/case:
+> - DOJ follow-up press releases (sentencing/conviction): not yet (case is recent — June 2025 indictment)
+> - Parallel federal agency press releases (FBI/HSI): not separately published
+> - Court records (CourtListener / PACER): exists but blocked from fetch
+> - Local press coverage in DC: DCNewsNow + Yahoo (syndicated single article) + NewsBreak only
+> - Specialized trade press: not found (CSAM cases generally lack trade-press coverage outside niche outlets)
+>
+> CSAM cases involving an undercover online sting and an indictment-only stage typically receive minimal independent media coverage. `source_count: 1` is retained per LESSON L19 (do not assert sources that do not exist).
 
 ## Canonical Record
 

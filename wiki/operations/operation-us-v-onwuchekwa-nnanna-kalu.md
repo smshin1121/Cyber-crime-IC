@@ -64,11 +64,21 @@ sources:
   - "[[2026-04-18_justice-gov_nigerian-national-pleads-guilty-125-million-business-email-compromise-scam-impacting-us]]"
 summary: "This domestic-only U.S. follow-on record has been absorbed into the canonical case page [[us-v-onwuchekwa-nnanna-kalu]]. No visible cross-border mechanism is documented, so it is not treated as a separate international-cooperation operation."
 created: 2026-04-18
-updated: 2026-04-22
+updated: 2026-04-25
 ---
 ## Summary
 
 This domestic-only U.S. follow-on record has been absorbed into the canonical case page [[us-v-onwuchekwa-nnanna-kalu]]. No visible cross-border mechanism is documented, so it is not treated as a separate international-cooperation operation.
+
+> [!info] Source enrichment — single-source justification (2026-04-25)
+> Searched for additional credible sources covering this defendant/case:
+> - DOJ follow-up press releases (sentencing): not located in WebSearch
+> - Parallel federal agency press releases (FBI/USSS/IRS-CI/HSI): not located
+> - Court records (CourtListener / PACER / midpage / justia): not located in narrative form
+> - Local press coverage in Boston (the victim location): not located
+> - Specialized trade press: only ISMG/BankInfoSecurity (one byline by Mathew J. Schwartz republished on govinfosecurity); SecurityWeek and CyberScoop top hits cover different Nigerian BEC defendants (Simon-Ebo, Okwanna), not Kalu
+>
+> Despite the case having clear international cooperation elements (Nigeria FBI extradition request 2022, extradition to US April 2023, London victim transfer point), media coverage was thin — likely because the $1.25M loss was modest by BEC standards and the defendant was relatively low-profile. `source_count: 1` is retained per LESSON L19 (do not assert sources that do not exist). The international cooperation elements are documented in the existing DOJ press release.
 
 ## Canonical Record
 

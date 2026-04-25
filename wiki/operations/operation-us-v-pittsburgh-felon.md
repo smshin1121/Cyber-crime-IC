@@ -64,11 +64,21 @@ sources:
   - "[[2026-04-18_justice-gov_pittsburgh-felon-sentenced-95-years-prison-identity-theft-and-firearms-crimes]]"
 summary: "This domestic-only U.S. follow-on record has been absorbed into the canonical case page [[us-v-pittsburgh-felon]]. No visible cross-border mechanism is documented, so it is not treated as a separate international-cooperation operation."
 created: 2026-04-18
-updated: 2026-04-22
+updated: 2026-04-25
 ---
 ## Summary
 
 This domestic-only U.S. follow-on record has been absorbed into the canonical case page [[us-v-pittsburgh-felon]]. No visible cross-border mechanism is documented, so it is not treated as a separate international-cooperation operation.
+
+> [!info] Source enrichment — single-source justification (2026-04-25)
+> Searched for additional credible sources covering this defendant/case (Cheron Tucker, 9.5-year federal sentence on identity theft and firearms charges, January 2025):
+> - DOJ follow-up press releases (sentencing only — no follow-up): not found
+> - Parallel federal agency press releases (FBI Pittsburgh / USSS / IRS-CI / ATF / USPIS): not found
+> - Court records (CourtListener / PACER / midpage / justia): docket likely exists at WDPA but no narrative coverage found via search
+> - Local press coverage in Pittsburgh (Post-Gazette / TribLIVE / WPXI / KDKA / WTAE): not found
+> - Specialized trade press (BleepingComputer / KrebsOnSecurity / TheRecord / CyberScoop / SecurityWeek): not found (case lacks distinct cyber-IC elements warranting trade coverage despite mention of dark-web credit-card-data sourcing)
+>
+> This appears to be a single-press-release domestic action with no independent secondary coverage. `source_count: 1` is retained per LESSON L19 (do not assert sources that do not exist).
 
 ## Canonical Record
 
