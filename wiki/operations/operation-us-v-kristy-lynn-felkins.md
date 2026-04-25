@@ -46,25 +46,29 @@ results:
   other:
     - "Defendant-specific follow-on action derived from [[us-v-kristy-lynn-felkins]]"
 edges:
-  []
+
 credibility_index: 4.0
 source_tier: 1
 missing_fields:
-  []
+
 related_cases:
   - "[[us-v-kristy-lynn-felkins]]"
 related_operations:
-  []
+
 challenges_encountered:
-  []
+
 lessons_learned:
-  []
-source_count: 1
+
+source_count: 5
 sources:
   - "[[2026-04-18_justice-gov_nevada-woman-sentenced-5-years-prison-hiring-hitman-dark-web-kill-her-ex-husband]]"
+  - "[[2023-07-21_lasvegassun_nevada-woman-hired-hitman-using-bitcoin-five-years-prison]]"
+  - "[[2023-07-22_kolotv_fallon-woman-hired-hitman-using-bitcoin-five-years-prison]]"
+  - "[[2023-07-23_cbssanfrancisco_nevada-woman-hired-hitman-bitcoin-sentenced]]"
+  - "[[2023-07-25_benzinga_nevada-woman-bitcoin-hitman-5-year-prison-sentence]]"
 summary: "This domestic-only U.S. follow-on record has been absorbed into the canonical case page [[us-v-kristy-lynn-felkins]]. No visible cross-border mechanism is documented, so it is not treated as a separate international-cooperation operation."
 created: 2026-04-18
-updated: 2026-04-22
+updated: 2026-04-25
 ---
 ## Summary
 
@@ -76,6 +80,10 @@ This domestic-only U.S. follow-on record has been absorbed into the canonical ca
 
 ## References
 
-| # | Source | Publisher | Date | URL |
+| # | Title | Publisher | Date | URL |
 |---|---|---|---|---|
 | [1] | Nevada Woman Sentenced to 5 Years Prison for Hiring Hitman on Dark Web to Kill Her Ex-Husband | US DOJ USAO | 2023-07-21 | https://www.justice.gov/usao-edca/pr/nevada-woman-sentenced-5-years-prison-hiring-hitman-dark-web-kill-her-ex-husband |
+| [2] | A Nevada woman who hired a hitman using bitcoin to kill her ex-husband gets five years in prison | Las Vegas Sun (AP) | 2023-07-21 | https://lasvegassun.com/news/2023/jul/21/a-nevada-woman-who-hired-a-hitman-using-bitcoin-to/ |
+| [3] | A Fallon woman who hired a hitman using bitcoin to kill her ex-husband gets five years in prison | KOLO-TV (Reno NBC affiliate) | 2023-07-22 | https://www.kolotv.com/2023/07/22/fallon-woman-who-hired-hitman-using-bitcoin-kill-her-ex-husband-gets-five-years-prison/ |
+| [4] | Nevada woman who hired hitman using bitcoin to kill ex-husband gets 5 years in prison | CBS San Francisco | 2023-07-23 | https://www.cbsnews.com/sanfrancisco/news/murder-for-hire-nevada-woman-hired-hitman-to-kill-husband-using-bitcoin-sentenced/ |
+| [5] | Nevada Woman Who Used Bitcoin For Hiring Hitman To Kill Husband Receives 5-Year Prison Sentence | Benzinga | 2023-07-25 | https://www.benzinga.com/markets/cryptocurrency/23/07/33366574/nevada-woman-who-used-bitcoin-for-hiring-hitman-to-kill-husband-receives-5-year-prison-sen |

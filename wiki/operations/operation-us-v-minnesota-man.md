@@ -64,11 +64,21 @@ sources:
   - "[[2026-04-18_justice-gov_minnesota-man-pleads-guilty-stalking-and-interstate-communications]]"
 summary: "This domestic-only U.S. follow-on record has been absorbed into the canonical case page [[us-v-minnesota-man]]. No visible cross-border mechanism is documented, so it is not treated as a separate international-cooperation operation."
 created: 2026-04-18
-updated: 2026-04-22
+updated: 2026-04-25
 ---
 ## Summary
 
 This domestic-only U.S. follow-on record has been absorbed into the canonical case page [[us-v-minnesota-man]]. No visible cross-border mechanism is documented, so it is not treated as a separate international-cooperation operation.
+
+> [!info] Source enrichment — single-source justification (2026-04-25)
+> Duplicate slug variant of [[operation-minnesota-man-pleads-guilty-to-stalking-and-interstate-communications]]; both follow-on pages share the Eric Bolduan plea press release. Searched for additional sources:
+> - DOJ follow-up press releases: not found beyond original
+> - Parallel federal agency press releases (FBI/DEA/IRS-CI/ICE/HSI): no parallel investigative credit
+> - Court records (CourtListener / PACER): docket exists, no narrative coverage matched
+> - Local press: media coverage of identical domestic stalking conduct
+> - Specialized trade press: not found (no IC angle)
+>
+> Single-press-release domestic action with no independent IC secondary coverage. `source_count: 1` is retained per LESSON L19.
 
 ## Canonical Record
 

@@ -46,25 +46,29 @@ results:
   other:
     - "Defendant-specific follow-on action derived from [[key-figures-behind-phobos-and-8base-ransomware-arrested]]"
 edges:
-  []
+
 credibility_index: 4.0
 source_tier: 1
 missing_fields:
-  []
+
 related_cases:
   - "[[key-figures-behind-phobos-and-8base-ransomware-arrested]]"
 related_operations:
-  []
+
 challenges_encountered:
-  []
+
 lessons_learned:
-  []
-source_count: 1
+
+source_count: 5
 sources:
   - "[[2025-02-11_europol-europa-eu_key-figures-behind-phobos-and-8base-ransomware-arrested]]"
+  - "[[2025-02-11_bleepingcomputer-com_us-charges-phobos-8base-ransomware-operators]]"
+  - "[[2025-02-11_techcrunch-com_authorities-arrest-four-suspected-8base-ransomware-operators-in-global-takedown]]"
+  - "[[2025-02-10_therecord_phobos-ransomware-takedown-arrests-russian-nationals]]"
+  - "[[2025-02-10_databreaches_phobos-ransomware-affiliates-arrested-coordinated-international-disruption]]"
 summary: "This domestic-only U.S. follow-on record has been absorbed into the canonical case page [[key-figures-behind-phobos-and-8base-ransomware-arrested]]. No visible cross-border mechanism is documented, so it is not treated as a separate international-cooperation operation."
 created: 2026-04-18
-updated: 2026-04-22
+updated: 2026-04-25
 ---
 ## Summary
 
@@ -76,6 +80,10 @@ This domestic-only U.S. follow-on record has been absorbed into the canonical ca
 
 ## References
 
-| # | Source | Publisher | Date | URL |
+| # | Title | Publisher | Date | URL |
 |---|---|---|---|---|
 | [1] | Key figures behind Phobos and 8Base ransomware arrested | Europol | 2025-02-11 | https://www.europol.europa.eu/media-press/newsroom/news/key-figures-behind-phobos-and-8base-ransomware-arrested-in-international-cybercrime-crackdown |
+| [2] | U.S. charges Phobos and 8Base ransomware operators after international crackdown | BleepingComputer | 2025-02-11 | https://www.bleepingcomputer.com/news/security/us-charges-phobos-8base-ransomware-operators-after-international-crackdown/ |
+| [3] | Authorities arrest four suspected 8base ransomware operators in global takedown | TechCrunch | 2025-02-11 | https://techcrunch.com/2025/02/11/authorities-arrest-four-suspected-8base-ransomware-operators-in-global-takedown/ |
+| [4] | Two Russian nationals arrested in takedown of Phobos ransomware infrastructure | The Record (Recorded Future News) | 2025-02-10 | https://therecord.media/phobos-ransomware-takedown-arrests-russian-nationals |
+| [5] | Phobos Ransomware Affiliates Arrested in Coordinated International Disruption | DataBreaches.net | 2025-02-10 | https://databreaches.net/2025/02/11/phobos-ransomware-affiliates-arrested-coordinated-international-disruption/ |

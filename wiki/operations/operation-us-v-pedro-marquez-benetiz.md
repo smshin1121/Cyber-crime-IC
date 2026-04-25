@@ -64,11 +64,21 @@ sources:
   - "[[2026-04-18_justice-gov_honduran-national-indicted-illegal-re-entry]]"
 summary: "This domestic-only U.S. follow-on record has been absorbed into the canonical case page [[us-v-pedro-marquez-benetiz]]. No visible cross-border mechanism is documented, so it is not treated as a separate international-cooperation operation."
 created: 2026-04-18
-updated: 2026-04-22
+updated: 2026-04-25
 ---
 ## Summary
 
 This domestic-only U.S. follow-on record has been absorbed into the canonical case page [[us-v-pedro-marquez-benetiz]]. No visible cross-border mechanism is documented, so it is not treated as a separate international-cooperation operation.
+
+> [!info] Source enrichment — single-source justification (2026-04-25)
+> Searched for additional credible sources covering this defendant/case (Pedro Marquez Benetiz, Honduran national, RI):
+> - DOJ follow-up press releases (sentencing/plea): not found (case is at indictment stage)
+> - Parallel federal agency press releases (ICE/HSI): not found despite ICE-led investigation
+> - Court records (CourtListener / PACER / midpage / justia): not found
+> - Local press coverage in District of Rhode Island: not found (no WPRI / WJAR / ABC6 / Providence Journal coverage identified)
+> - Specialized trade press: not applicable (illegal re-entry case lacks cyber/IC elements)
+>
+> This appears to be a single-press-release domestic action with no independent secondary coverage. `source_count: 1` is retained per LESSON L19.
 
 ## Canonical Record
 

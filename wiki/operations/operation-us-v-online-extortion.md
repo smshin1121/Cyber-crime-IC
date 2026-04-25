@@ -64,11 +64,21 @@ sources:
   - "[[2026-04-18_justice-gov_creator-software-facilitate-privacy-invasion-and-online-extortion-sentenced-federal]]"
 summary: "This domestic-only U.S. follow-on record has been absorbed into the canonical case page [[us-v-online-extortion]]. No visible cross-border mechanism is documented, so it is not treated as a separate international-cooperation operation."
 created: 2026-04-18
-updated: 2026-04-22
+updated: 2026-04-25
 ---
 ## Summary
 
 This domestic-only U.S. follow-on record has been absorbed into the canonical case page [[us-v-online-extortion]]. No visible cross-border mechanism is documented, so it is not treated as a separate international-cooperation operation.
+
+> [!info] Source enrichment — single-source justification (2026-04-25)
+> Searched for additional credible sources covering this defendant/case (Brandon Bourret, "PhotoFucket" creator, Colorado Springs; sentenced Nov 2016, D. Colo.):
+> - DOJ follow-up press releases: only the original USAO-CO release exists
+> - Parallel federal agency press releases (FBI/DEA/IRS-CI/ICE/HSI): not found
+> - Court records (CourtListener / PACER / midpage / justia): docket exists but no narrative coverage matched
+> - Local press coverage in Colorado Springs / Denver: not found
+> - Specialized trade press: not found (case is a domestic CFAA prosecution without cyber-IC angle warranting trade coverage)
+>
+> Single-press-release domestic action with no independent secondary coverage. `source_count: 1` is retained per LESSON L19.
 
 ## Canonical Record
 

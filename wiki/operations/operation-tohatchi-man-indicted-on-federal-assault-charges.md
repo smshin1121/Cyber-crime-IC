@@ -64,11 +64,21 @@ sources:
   - "[[2026-04-18_justice-gov_tohatchi-man-indicted-federal-assault-charges]]"
 summary: "This domestic-only U.S. follow-on record has been absorbed into the canonical case page [[tohatchi-man-indicted-on-federal-assault-charges]]. No visible cross-border mechanism is documented, so it is not treated as a separate international-cooperation operation."
 created: 2026-04-18
-updated: 2026-04-22
+updated: 2026-04-25
 ---
 ## Summary
 
 This domestic-only U.S. follow-on record has been absorbed into the canonical case page [[tohatchi-man-indicted-on-federal-assault-charges]]. No visible cross-border mechanism is documented, so it is not treated as a separate international-cooperation operation.
+
+> [!info] Source enrichment — single-source justification (2026-04-25)
+> Searched for additional credible sources covering this defendant/case (Jeremy Yazzie, June 23, 2025 knife assault, Tohatchi NM):
+> - DOJ follow-up press releases (sentencing/conviction): not found
+> - Parallel federal agency press releases (FBI/HSI): not located beyond the FBI Albuquerque feed already attached to the canonical DOJ release
+> - Court records (CourtListener / PACER / midpage): docket may exist but no narrative coverage available
+> - Local press coverage (Albuquerque Journal, KOAT/KOB/KRQE, Navajo Times): not found
+> - Specialized trade press: not applicable (Indian Country domestic violent crime, no cyber/IC element)
+>
+> This appears to be a single-press-release Indian Country domestic action with no independent secondary coverage. `source_count: 1` is retained per LESSON L19 (do not assert sources that do not exist). Note: This case has no cybercrime international-cooperation element and likely should not be in the IC corpus.
 
 ## Canonical Record
 

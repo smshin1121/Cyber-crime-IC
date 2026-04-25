@@ -46,25 +46,29 @@ results:
   other:
     - "Defendant-specific follow-on action derived from [[us-v-myron-rodos]]"
 edges:
-  []
+
 credibility_index: 4.0
 source_tier: 1
 missing_fields:
-  []
+
 related_cases:
   - "[[us-v-myron-rodos]]"
 related_operations:
-  []
+
 challenges_encountered:
-  []
+
 lessons_learned:
-  []
-source_count: 1
+
+source_count: 5
 sources:
   - "[[2026-04-18_justice-gov_north-philadelphia-pill-mill-doctor-sentenced-five-years-prison-illegal-opioid]]"
+  - "[[2021-03-02_phillyvoice_rodos-north-philly-prison-pill-mill-sex-money]]"
+  - "[[2021-03-03_aroundambler_ambler-man-five-years-pill-mill]]"
+  - "[[2021-03-02_patch-philadelphia_philly-doc-prison-opioids-sex-money]]"
+  - "[[2021-03-02_oversight-gov_north-philadelphia-pill-mill-doctor-sentenced]]"
 summary: "This domestic-only U.S. follow-on record has been absorbed into the canonical case page [[us-v-myron-rodos]]. No visible cross-border mechanism is documented, so it is not treated as a separate international-cooperation operation."
 created: 2026-04-18
-updated: 2026-04-22
+updated: 2026-04-25
 ---
 ## Summary
 
@@ -76,6 +80,10 @@ This domestic-only U.S. follow-on record has been absorbed into the canonical ca
 
 ## References
 
-| # | Source | Publisher | Date | URL |
+| # | Title | Publisher | Date | URL |
 |---|---|---|---|---|
 | [1] | North Philadelphia “Pill Mill” Doctor Sentenced to Five Years in Prison for Illegal Opioid Distribution | US DOJ USAO | 2021-03-02 | https://www.justice.gov/usao-edpa/pr/north-philadelphia-pill-mill-doctor-sentenced-five-years-prison-illegal-opioid |
+| [2] | North Philly 'pill mill' doctor gets prison in sex-for-drugs case | PhillyVoice | 2021-03-02 | https://www.phillyvoice.com/myron-rodos-north-philly-prison-pill-mill-sex-money-oxycodone-methadone/ |
+| [3] | Ambler man sentenced to five years in prison for running pill mill | Around Ambler | 2021-03-03 | https://aroundambler.com/ambler-man-sentenced-to-five-years-in-prison-for-running-pill-mill/ |
+| [4] | Philly Doc Gets Prison After Exchanging Opioids For Sex, Money | Patch Philadelphia | 2021-03-02 | https://patch.com/pennsylvania/philadelphia/philly-doc-gets-prison-after-exchanging-opioids-sex-money |
+| [5] | North Philadelphia 'Pill Mill' Doctor Sentenced to Five Years in Prison | Oversight.gov (CIGIE) | 2021-03-02 | https://www.oversight.gov/investigative-press-releases/North-Philadelphia-%E2%80%9CPill-Mill%E2%80%9D-Doctor-Sentenced-Five-Years-Prison |

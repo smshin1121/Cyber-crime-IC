@@ -64,11 +64,21 @@ sources:
   - "[[2026-04-18_justice-gov_nurse-charged-tampering-vials-fentanyl]]"
 summary: "This domestic-only U.S. follow-on record has been absorbed into the canonical case page [[nurse-charged-with-tampering-with-vials-of-fentanyl]]. No visible cross-border mechanism is documented, so it is not treated as a separate international-cooperation operation."
 created: 2026-04-18
-updated: 2026-04-22
+updated: 2026-04-25
 ---
 ## Summary
 
 This domestic-only U.S. follow-on record has been absorbed into the canonical case page [[nurse-charged-with-tampering-with-vials-of-fentanyl]]. No visible cross-border mechanism is documented, so it is not treated as a separate international-cooperation operation.
+
+> [!info] Source enrichment — single-source justification (2026-04-25)
+> Same Travis Eskridge case at the Feb 2025 indictment stage (companion to the May 2025 plea ops). Searched for additional sources:
+> - DOJ follow-up press releases: only the USAO-EDMI charge release exists
+> - Parallel federal agency press releases (FBI/DEA/HSI): not found
+> - Court records (CourtListener / PACER): docket exists, no narrative coverage matched
+> - Local press in Detroit (Detroit News, ClickOnDetroit, FOX 2): exists but purely domestic
+> - Specialized trade press: not found (no IC angle)
+>
+> Single-press-release domestic indictment with no IC element. `source_count: 1` is retained per LESSON L19.
 
 ## Canonical Record
 

@@ -64,11 +64,21 @@ sources:
   - "[[2026-04-18_justice-gov_arizona-man-indicted-federal-assault-charges]]"
 summary: "This domestic-only U.S. follow-on record has been absorbed into the canonical case page [[us-v-emerson-hayes]]. No visible cross-border mechanism is documented, so it is not treated as a separate international-cooperation operation."
 created: 2026-04-18
-updated: 2026-04-22
+updated: 2026-04-25
 ---
 ## Summary
 
 This domestic-only U.S. follow-on record has been absorbed into the canonical case page [[us-v-emerson-hayes]]. No visible cross-border mechanism is documented, so it is not treated as a separate international-cooperation operation.
+
+> [!info] Source enrichment — single-source justification (2026-04-25)
+> Searched for additional credible sources covering this defendant/case (Emerson Hayes, 61, Navajo Nation member from Arizona, September 2023 knife assault charged April 2025 in NM):
+> - DOJ follow-up press releases: not found
+> - Parallel federal agency press releases (FBI/HSI): not located beyond the FBI Albuquerque feed
+> - Court records (CourtListener / PACER): no narrative coverage available
+> - Local press coverage (Albuquerque Journal, KOAT/KOB/KRQE): not found
+> - Specialized trade press: not applicable (Indian Country domestic violent crime, no cyber/IC element)
+>
+> This appears to be a single-press-release Indian Country domestic action with no independent secondary coverage. `source_count: 1` is retained per LESSON L19. Note: This case has no cybercrime international-cooperation element.
 
 ## Canonical Record
 

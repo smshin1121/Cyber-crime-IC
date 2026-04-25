@@ -55,7 +55,7 @@ source_count: 1
 sources:
   - "[[2026-01-16_or_aragon-dark-web-cocaine-sentencing]]"
 created: 2026-04-17
-updated: 2026-04-22
+updated: 2026-04-25
 operation_role: follow-on
 parent_operation: ""
 summary: "This domestic-only U.S. follow-on record has been absorbed into the canonical case page [[us-v-aragon-dark-web]]. No visible cross-border mechanism is documented, so it is not treated as a separate international-cooperation operation."
@@ -69,6 +69,16 @@ crime_types:
 ## Summary
 
 This domestic-only U.S. follow-on record has been absorbed into the canonical case page [[us-v-aragon-dark-web]]. No visible cross-border mechanism is documented, so it is not treated as a separate international-cooperation operation.
+
+> [!info] Source enrichment — single-source justification (2026-04-25)
+> Searched for additional credible sources covering this defendant/case (Dominick Jeffrey Aragon, Medford, OR):
+> - DOJ follow-up press releases (sentencing/conviction): only the original D. Or. release found
+> - Parallel federal agency press releases (FBI/DEA/IRS-CI/ICE/HSI): not found (USPIS led but no separate USPIS press release)
+> - Court records (CourtListener / PACER / midpage / justia): not found
+> - Local press coverage in District of Oregon: KDRV, Daily Tidings, KAJO 99.7FM identified (3 secondary outlets) — below the 4-extra threshold
+> - Specialized trade press: not found
+>
+> Three secondary sources were identified but did not reach the 4-extra threshold. `source_count: 1` is retained per LESSON L19.
 
 ## Canonical Record
 

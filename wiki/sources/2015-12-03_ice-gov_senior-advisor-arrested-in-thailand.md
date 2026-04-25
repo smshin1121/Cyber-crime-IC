@@ -20,6 +20,11 @@ created: 2026-04-17
 defendant_names:
   - "Senior Advisor"
 updated: 2026-04-18
+text_status: parsed
+content_hash: sha256:47784b34013fcf0a3e053c041afe2464a35bad2980e476142703a1fda7c62152
+word_count: 1937
+extraction_date: 2026-04-25
+last_fetcher: urllib
 ---
 ## Source Summary
 

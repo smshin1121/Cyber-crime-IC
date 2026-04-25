@@ -64,11 +64,21 @@ sources:
   - "[[2026-04-18_justice-gov_internet-stalker-sentenced-more-14-years-federal-prison]]"
 summary: "This domestic-only U.S. follow-on record has been absorbed into the canonical case page [[us-v-internet-stalker]]. No visible cross-border mechanism is documented, so it is not treated as a separate international-cooperation operation."
 created: 2026-04-18
-updated: 2026-04-22
+updated: 2026-04-25
 ---
 ## Summary
 
 This domestic-only U.S. follow-on record has been absorbed into the canonical case page [[us-v-internet-stalker]]. No visible cross-border mechanism is documented, so it is not treated as a separate international-cooperation operation.
+
+> [!info] Source enrichment — single-source justification (2026-04-25)
+> Duplicate slug variant of [[operation-internet-stalker-sentenced-to-more-than-14-years-in-federal-prison]]; both follow-on pages share the same Eric Bolduan cyberstalking USAO-CO press release. Searched for additional sources:
+> - DOJ follow-up press releases: not found beyond the original
+> - Parallel federal agency press releases (FBI/DEA/IRS-CI/ICE/HSI): no parallel investigative credit
+> - Court records (CourtListener / PACER): docket exists, no narrative coverage matched
+> - Local press in Denver: media coverage exists (9News, Denver Gazette, etc.) but covers identical domestic stalking conduct
+> - Specialized trade press: not found (no IC angle)
+>
+> Single-press-release domestic action with no independent international-cooperation secondary coverage. `source_count: 1` is retained per LESSON L19.
 
 ## Canonical Record
 

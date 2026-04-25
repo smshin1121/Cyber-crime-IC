@@ -5384,6 +5384,423 @@ CURATED: dict[str, dict[str, Any]] = {
             "2024-01-18_yahoo_four-plead-guilty-kentucky-fake-drugs-cryptocurrency-dark-web",
         ],
     },
+    "operation-us-v-jian-zhang": {
+        "sources": [
+            "2026-04-18_justice-gov_chinese-national-indicted-his-role-distributing-fentanyl-resulted-four-drug-overdoses",
+            "2017-10-17_doj-opa_first-ever-indictments-against-designated-chinese-manufacturers-fentanyl",
+            "2017-10-17_dea_first-ever-indictments-against-designated-chinese-manufacturers-fentanyl",
+            "2017-10-17_treasury_sanctions-chinese-fentanyl-trafficker-jian-zhang",
+            "2017-10-17_wweek_dark-web-drug-bust-three-portland-residents-jian-zhang-fentanyl",
+            "2017-10-17_doj-opa_sessions-speech-international-fentanyl-case",
+        ],
+    },
+    "operation-pennsylvania-man-sentenced-to-life-in-federal-prison-for-dealing-fentanyl-analogue-that-caused-fatal-overdoses": {
+        "sources": [
+            "2026-04-18_justice-gov_pennsylvania-man-sentenced-life-federal-prison-dealing-fentanyl-analogue-caused-fatal",
+            "2023-12-11_opb_man-linked-29-overdose-deaths-life-prison-fentanyl-online",
+            "2023-12-12_ktvz_fentanyl-dealer-pennsylvania-life-prison-three-oregon-overdoses",
+            "2023-12-11_local21_pa-man-life-fentanyl-narcoboss-alphabay",
+            "2023-03-08_doj-or_jury-convicts-pennsylvania-man-fentanyl-analogue-oregon",
+            "2023-12-12_klcc_man-linked-29-overdose-deaths-life-fentanyl-online",
+        ],
+    },
+    "operation-us-v-henry-konah-koffie": {
+        "sources": [
+            "2026-04-18_justice-gov_jury-convicts-pennsylvania-man-dealing-fentanyl-analogue-caused-fatal-overdoses-oregon",
+            "2023-12-11_opb_man-linked-29-overdose-deaths-life-prison-fentanyl-online",
+            "2023-12-12_ktvz_fentanyl-dealer-pennsylvania-life-prison-three-oregon-overdoses",
+            "2023-12-11_local21_pa-man-life-fentanyl-narcoboss-alphabay",
+            "2023-03-08_doj-or_jury-convicts-pennsylvania-man-fentanyl-analogue-oregon",
+            "2023-12-12_klcc_man-linked-29-overdose-deaths-life-fentanyl-online",
+        ],
+    },
+    "operation-revere-massachusetts-man-sentenced-in-nationwide-rideshare-and-delivery-account-fraud-scheme": {
+        "sources": [
+            "2026-04-18_justice-gov_revere-massachusetts-man-sentenced-nationwide-rideshare-and-delivery-account-fraud",
+            "2023-12-19_nbcboston_revere-man-sentenced-rideshare-delivery-fraud-scheme",
+            "2023-12-19_necn_revere-man-sentenced-rideshare-delivery-fraud-scheme",
+            "2023-12-19_wwlp_massachusetts-man-sentenced-nationwide-rideshare-fraud-scheme",
+            "2023-09-19_hoodline_massive-rideshare-fraud-revere-boston-providence-conviction",
+        ],
+    },
+    "operation-us-v-thiago-de-souza-prado": {
+        "sources": [
+            "2026-04-18_justice-gov_revere-massachusetts-man-sentenced-nationwide-rideshare-and-delivery-account-fraud",
+            "2023-12-19_nbcboston_revere-man-sentenced-rideshare-delivery-fraud-scheme",
+            "2023-12-19_necn_revere-man-sentenced-rideshare-delivery-fraud-scheme",
+            "2023-12-19_wwlp_massachusetts-man-sentenced-nationwide-rideshare-fraud-scheme",
+            "2023-09-19_hoodline_massive-rideshare-fraud-revere-boston-providence-conviction",
+        ],
+    },
+    "operation-leader-of-darknet-drug-distribution-conspiracy-sentenced-to-federal-prison": {
+        "sources": [
+            "2026-04-18_justice-gov_leader-darknet-drug-distribution-conspiracy-sentenced-federal-prison",
+            "2021-04-02_valleytimes_tigard-man-sentenced-federal-prison-online-drug-sales",
+            "2021-04-03_shorenews_leader-darknet-drug-distribution-conspiracy-sentenced-federal-prison",
+            "2021-03-23_elkhorn_former-boise-idaho-man-sentenced-darknet-drug-scheme",
+            "2021-03-24_darknetdaily_idaho-man-sentenced-prison-mdma-ketamine-trafficking-scheme",
+        ],
+    },
+    "operation-us-v-james-campbell-cardwell": {
+        "sources": [
+            "2026-04-18_justice-gov_leader-darknet-drug-distribution-conspiracy-sentenced-federal-prison",
+            "2021-04-02_valleytimes_tigard-man-sentenced-federal-prison-online-drug-sales",
+            "2021-04-03_shorenews_leader-darknet-drug-distribution-conspiracy-sentenced-federal-prison",
+            "2021-03-23_elkhorn_former-boise-idaho-man-sentenced-darknet-drug-scheme",
+            "2021-03-24_darknetdaily_idaho-man-sentenced-prison-mdma-ketamine-trafficking-scheme",
+        ],
+    },
+    "operation-us-v-kevin-marc-crotteau-and-brandon-paul-bart": {
+        "sources": [
+            "2026-04-18_justice-gov_idaho-man-sentenced-federal-prison-role-darknet-drug-distribution-scheme",
+            "2021-03-23_elkhorn_former-boise-idaho-man-sentenced-darknet-drug-scheme",
+            "2021-03-24_darknetdaily_idaho-man-sentenced-prison-mdma-ketamine-trafficking-scheme",
+            "2021-03-23_getinfosec_former-boise-man-prison-mdma-ketamine-darknet",
+            "2021-04-03_shorenews_leader-darknet-drug-distribution-conspiracy-sentenced-federal-prison",
+        ],
+    },
+    "operation-us-v-charlestown-man": {
+        "sources": [
+            "2026-04-18_justice-gov_charlestown-man-sentenced-ten-years-federal-prison-following-fourth-conviction-child",
+            "2025-02-14_abc6_charlestown-man-sentenced-fourth-child-pornography-conviction",
+            "2025-02-14_wpri_charlestown-man-10-years-fourth-child-porn-conviction",
+            "2025-02-15_westerlysun_charlestown-man-sentenced-prison-child-pornography",
+            "2025-02-14_fallriverreporter_rhode-island-level-iii-sex-offender-fourth-child-pornography",
+        ],
+    },
+    "operation-us-v-easton-man": {
+        "sources": [
+            "2026-04-18_justice-gov_easton-man-sentenced-30-years-prison-producing-child-pornography",
+            "2024-11-15_wfmz_judge-sentences-easton-man-child-pornography",
+            "2024-11-15_hoodline_easton-man-30-years-child-pornography-production",
+            "2024-11-15_doj-opa_pennsylvania-man-sentenced-30-years-child-exploitation-crimes",
+            "2024-11-15_ice_pennsylvania-man-sentenced-30-years-prison-child-pornography",
+        ],
+    },
+    "operation-us-v-yang-yong": {
+        "sources": [
+            "2026-04-18_justice-gov_chinese-national-sentenced-15-years-prison-conspiring-sell-oxycodone-darknet",
+            "2025-10-14_inquirer_dark-web-drug-trafficker-25m-bitcoin-15-years-chinodrug",
+            "2025-10-14_tordaily_chinodrug-sentenced-15-years-oxycodone-darknet",
+            "2024-04-01_midpage_united-states-v-huang-2-24-cr-00145-edpa",
+            "2024-09-01_blocktribune_us-seeks-forfeiture-18m-bitcoin-drug-trafficker",
+        ],
+    },
+    "operation-north-philadelphia-pill-mill-doctor-sentenced-to-five-years-in-prison-for-illegal-opioid-distribution": {
+        "sources": [
+            "2026-04-18_justice-gov_north-philadelphia-pill-mill-doctor-sentenced-five-years-prison-illegal-opioid",
+            "2021-03-02_phillyvoice_rodos-north-philly-prison-pill-mill-sex-money",
+            "2021-03-03_aroundambler_ambler-man-five-years-pill-mill",
+            "2021-03-02_patch-philadelphia_philly-doc-prison-opioids-sex-money",
+            "2021-03-02_oversight-gov_north-philadelphia-pill-mill-doctor-sentenced",
+        ],
+    },
+    "operation-us-v-myron-rodos": {
+        "sources": [
+            "2026-04-18_justice-gov_north-philadelphia-pill-mill-doctor-sentenced-five-years-prison-illegal-opioid",
+            "2021-03-02_phillyvoice_rodos-north-philly-prison-pill-mill-sex-money",
+            "2021-03-03_aroundambler_ambler-man-five-years-pill-mill",
+            "2021-03-02_patch-philadelphia_philly-doc-prison-opioids-sex-money",
+            "2021-03-02_oversight-gov_north-philadelphia-pill-mill-doctor-sentenced",
+        ],
+    },
+    "operation-us-v-yutong-zhang": {
+        "sources": [
+            "2026-04-18_justice-gov_chester-county-doctor-pleads-guilty-operating-pill-mill-out-main-line-pain-clinic",
+            "2022-02-03_patch-tredyffrin_main-line-doctor-admits-pill-mill",
+            "2022-02-03_dailyvoice-westchester_suburban-philly-doctor-pleads-guilty-pill-mill",
+            "2022-09-15_doj-edpa_chester-county-doctor-sentenced-two-years-pill-mill",
+            "2022-09-15_dailyvoice-chester_chesco-doctor-pill-mill-sentenced",
+        ],
+    },
+    "operation-us-v-ryan-menkins": {
+        "sources": [
+            "2026-04-18_justice-gov_west-chester-drug-dealer-pleads-guilty-purchasing-hundreds-deadly-fentanyl-pills",
+            "2022-04-29_dea_fentanyl-dealer-pleads-guilty-distributing-narcotics",
+            "2024-06-01_doj-edpa_west-chester-drug-dealer-sentenced-6-5-years-fentanyl",
+            "2020-09-16_yc-news_west-chester-drug-dealer-fentanyl-disguised-as-pain-meds-6-years",
+            "2024-06-01_wxpm_dealer-sentenced-deadly-disguised-drugs",
+        ],
+    },
+    "operation-west-chester-drug-dealer-pleads-guilty-to-purchasing-hundreds-of-deadly-fentanyl-pills-disguised-as-oxycodone": {
+        "sources": [
+            "2026-04-18_justice-gov_west-chester-drug-dealer-pleads-guilty-purchasing-hundreds-deadly-fentanyl-pills",
+            "2022-04-29_dea_fentanyl-dealer-pleads-guilty-distributing-narcotics",
+            "2024-06-01_doj-edpa_west-chester-drug-dealer-sentenced-6-5-years-fentanyl",
+            "2020-09-16_yc-news_west-chester-drug-dealer-fentanyl-disguised-as-pain-meds-6-years",
+            "2024-06-01_wxpm_dealer-sentenced-deadly-disguised-drugs",
+        ],
+    },
+    "operation-montgomery-county-doctor-charged-with-illegally-prescribing-opioids": {
+        "sources": [
+            "2026-04-18_justice-gov_montgomery-county-doctor-charged-illegally-prescribing-opioids",
+            "2019-08-02_cbsnews-philadelphia_montgomery-county-doctor-charged",
+            "2018-03-15_inquirer_montco-psychiatrist-charged-running-pill-mill",
+            "2019-08-02_nbc10philly_four-pennsylvania-doctors-over-prescribing-opioids",
+            "2019-08-02_6abc_four-montco-doctors-illegally-prescribing-opioids",
+        ],
+    },
+    "operation-us-v-de-los-santos": {
+        "sources": [
+            "2026-04-18_justice-gov_dominican-national-indicted-illegal-re-entry",
+            "2025-06-12_abc6_dominican-national-facing-deportation-for-third-time",
+            "2025-09-15_doj-ri_dominican-national-admits-illegally-re-entry-third-deportation",
+            "2025-12-01_doj-ri_dominican-national-faces-third-deportation-sentenced",
+            "2025-12-01_abc6_dominican-national-sentenced-illegal-reentry-third-deportation",
+        ],
+    },
+    "operation-us-v-jonathan-patrick-turrentine": {
+        "sources": [
+            "2026-04-18_justice-gov_sacramento-man-indicted-drug-distribution-darknet",
+            "2021-10-26_eurojust_150-arrested-dark-web-drug-bust-police-seize-eur-26-million",
+            "2021-10-27_welivesecurity_dark-huntor-150-arrested-31-million-seized-major-dark-web-bust",
+            "2021-10-26_darkreading_doj-europol-arrest-150-in-disruption-of-darknet-drug-operation",
+            "2021-10-26_wikipedia_operation-dark-huntor",
+        ],
+    },
+    "operation-us-v-kevin-james-strutz": {
+        "sources": [
+            "2026-04-18_justice-gov_ceres-man-sentenced-cyberstalking-two-victims",
+            "2023-11-27_kmjnow_peeping-tom-sentenced-for-cyberstalking",
+            "2023-11-29_gvwire_valley-man-sentenced-for-cyberstalking-two-women-including-airbnb-guest",
+            "2023-11-27_cerescourier_ceres-man-sentenced-cyberstalking-two-women-one-using-airbnb-home",
+            "2020-11-19_cbssanfrancisco_grand-jury-indicts-ceres-man-for-cyberstalking-airbnb-guest",
+        ],
+    },
+    "operation-us-v-kristy-lynn-felkins": {
+        "sources": [
+            "2026-04-18_justice-gov_nevada-woman-sentenced-5-years-prison-hiring-hitman-dark-web-kill-her-ex-husband",
+            "2023-07-21_lasvegassun_nevada-woman-hired-hitman-using-bitcoin-five-years-prison",
+            "2023-07-22_kolotv_fallon-woman-hired-hitman-using-bitcoin-five-years-prison",
+            "2023-07-23_cbssanfrancisco_nevada-woman-hired-hitman-bitcoin-sentenced",
+            "2023-07-25_benzinga_nevada-woman-bitcoin-hitman-5-year-prison-sentence",
+        ],
+    },
+    "operation-us-v-louis-donald-mendonsa": {
+        "sources": [
+            "2026-04-18_justice-gov_sacramento-sex-offender-pleads-guilty-distributing-child-pornography-dark-web",
+            "2025-02-28_hoodline_sacramento-man-sentenced-over-24-years-child-sexual-abuse-sites-dark-web",
+            "2025-02-27_desertsun_california-man-sentenced-24-years-dark-web-child-exploitation",
+            "2025-02-27_justice-gov_man-sentenced-over-24-years-prison-multiple-dark-web-child-sexual-abuse-websites",
+            "2025-02-28_actionnewsnow_sacramento-man-sentenced-24-years-running-dark-web-child-sex-abuse-websites",
+        ],
+    },
+    "operation-us-v-manager-marquis-hooper": {
+        "sources": [
+            "2026-04-18_justice-gov_former-navy-it-manager-sentenced-over-5-years-prison-hacking-computer-database",
+            "2023-10-19_theregister_navy-it-manager-prison",
+            "2023-10-17_starsandstripes_former-sailor-jailed-bitcoin-fraud",
+            "2023-10-26_navytimes_former-navy-chief-sentenced-identity-theft-scam",
+            "2023-10-18_securityweek_former-navy-it-manager-sentenced-prison-hacking-selling-pii",
+        ],
+    },
+    "operation-us-v-omar-isho": {
+        "sources": [
+            "2026-04-18_justice-gov_drfrosty-indicted-distribution-methamphetamine-modesto-using-darknet",
+            "2019-10-24_cbssacramento_modesto-man-drfrosty-sentenced-5-years-distributing-meth-dark-web",
+            "2019-06-17_bigvalleynews_drfrosty-indicted-distribution-methamphetamine-modesto-darknet",
+            "2019-10-24_justice-gov_drfrosty-sentenced-distribution-methamphetamine-using-dark-net",
+            "2019-10-24_darknetstats_empire-market-vendor-drfrosty-sentenced-almost-6-years-prison",
+        ],
+    },
+    "operation-us-v-sadie-bramlette-and-dejian-johl": {
+        "sources": [
+            "2026-04-18_justice-gov_sacramento-woman-pleads-guilty-conspiracy-distribute-fentanyl",
+            "2025-06-24_hoodline_sacramento-duo-confess-fentanyl-distribution-conspiracy-dark-web-drug-ring",
+            "2025-06-23_goldenstatetoday_sacramento-woman-pleads-guilty-distributing-fentanyl",
+            "2025-06-23_justice-gov_sacramento-woman-pleads-guilty-fentanyl-distribution",
+            "2024-08-29_justice-gov_sacramento-area-group-charged-shipping-fentanyl-pills-across-united-states",
+        ],
+    },
+    "operation-vallejo-man-indicted-for-illegal-firearm-possession": {
+        "sources": [
+            "2026-04-18_justice-gov_vallejo-man-indicted-illegal-firearm-possession",
+            "2026-02-13_dailyrepublic_vallejo-man-indicted-illegal-firearm-possession",
+            "2026-02-13_actionnewsnow_vallejo-man-indicted-federal-grand-jury-illegal-possession-firearm",
+            "2026-02-13_crimevoice_grand-jury-indicts-vallejo-man-illegal-possession-firearm",
+            "2026-02-05_pressdemocrat_vallejo-man-caught-selling-stolen-gun-jail-furlough-murder",
+        ],
+    },
+    "operation-us-v-robert-quido-stella": {
+        "sources": [
+            "2026-04-18_justice-gov_santa-clarita-man-found-guilty-producing-child-pornography",
+            "2023-05-23_hometownstation_canyon-country-man-found-guilty-producing-possessing-child-pornography",
+            "2023-05-22_kfiam640_santa-clarita-man-found-guilty-producing-child-pornography",
+            "2024-02_signalscv_santa-clarita-man-gets-20-years-child-pornography-case",
+            "2023-05-22_mynewsla_santa-clarita-man-found-guilty-producing-child-pornography",
+        ],
+    },
+    "operation-us-v-ruiz-navia-dark-web": {
+        "sources": [
+            "2025-01-13_cdca_ruiz-navia-darknet-sentencing",
+            "2025-01-14_hoodline_two-southern-california-men-sentenced-major-fentanyl-distribution-dark-web",
+            "2023-11-07_foxla_2-socal-men-charged-darknet-sell-drugs-50-states",
+            "2023-11-07_ktla_socal-men-helped-sell-124k-fentanyl-pills-darknet-doj",
+            "2025-01-13_legalnewsline_southern-california-men-sentenced-nationwide-darknet-fentanyl-distribution",
+        ],
+    },
+    "operation-us-v-samuel-trelawney-hughes": {
+        "sources": [
+            "2026-04-18_justice-gov_pasadena-man-who-cyberstalked-and-made-threats-injure-rape-and-kill-sentenced-more-3",
+            "2021-11-15_mynewsla_pasadena-man-sentenced-over-3-years-prison-cyberstalking",
+            "2021-11-15_patch_pasadena-man-3-years-prison-online-threats",
+            "2021-11-16_cbsnews-losangeles_samuel-hughes-pasadena-3-years-online-threats-women",
+            "2021-11-16_audacy-knxnews_pasadena-man-sentenced-3-years-cyberstalking",
+        ],
+    },
+    "operation-us-v-scott-quinn-berkett": {
+        "sources": [
+            "2026-04-18_justice-gov_beverly-hills-man-sentenced-5-years-federal-prison-attempting-hire-hitman-kill-woman-he",
+            "2022-09-13_abc7la_beverly-hills-california-murder-for-hire-scott-quinn-berkett",
+            "2022-09-15_beverlypress_beverly-hills-man-receives-five-year-sentence-murder-for-hire",
+            "2022-09_courthousenews_spurned-beverly-hills-man-gets-5-years-failed-murder-plot",
+            "2022-06-15_iheart_beverly-hills-man-pleads-guilty-paying-darknet-hitman-kill-woman",
+        ],
+    },
+    "operation-us-v-shengsheng-he": {
+        "sources": [
+            "2026-04-18_justice-gov_san-gabriel-valley-man-sentenced-more-4-years-federal-prison-role-369-million-global",
+            "2025-09-08_mynewsla_sgv-man-sentenced-prison-369m-digital-investment-scam",
+            "2025-09-08_hoodline_san-gabriel-valley-man-sentenced-369-million-international-digital-asset-scam",
+            "2025-09-08_thefederalnewswire_san-gabriel-valley-man-sentenced-international-crypto-scam",
+            "2025-09-08_justice-gov_san-gabriel-valley-man-sentenced-to-more-than-4-years-in-federal-prison-for-role",
+        ],
+    },
+    "operation-us-v-timothy-dalton-vaughn": {
+        "sources": [
+            "2026-04-18_justice-gov_hacker-collective-member-who-made-online-threats-against-schools-and-airline-sentenced",
+            "2020-11-30_krebsonsecurity_bomb-threat-ddos-purveyor-gets-eight-years",
+            "2020-11-30_nbcnews_hacker-collective-member-sentenced-nearly-8-years",
+            "2019-02-14_theregister_apophis-squad-indictment-vaughn-duke-cohan",
+            "2020-11-30_databreaches_apophis-squad-member-online-threats-schools-airline-sentenced",
+        ],
+    },
+    "operation-us-v-victoria-eduardovna-dubranova": {
+        "sources": [
+            "2026-04-18_justice-gov_justice-department-announces-actions-combat-two-russian-state-sponsored-cyber-criminal",
+            "2025-12-09_cyberscoop_us-charges-russian-backed-hacker-critical-infrastructure-attacks-carr-noname05716",
+            "2025-12-09_nbclosangeles_ukrainian-national-charged-la-computer-hacking-russia",
+            "2025-12-09_foxnews_ukrainian-woman-charged-russian-backed-cyberattacks-10m-reward",
+            "2025-12-09_justice-gov_justice-department-announces-actions-to-combat-two-russian-state-sponsored-cyber",
+        ],
+    },
+    "operation-van-nuys-man-sentenced-to-more-than-20-years-in-prison-for-trafficking-fentanyl-and-cocaine-via-darknet-market": {
+        "sources": [
+            "2024-10-21_justice-gov_united-states-v-brian-mcdonald",
+            "2024-10-21_mynewsla_van-nuys-man-sentenced-federal-prison-darknet-drugs",
+            "2024-07-17_mynewsla_van-nuys-man-pleads-guilty-darknet-drugs",
+            "2024-07-01_mynewsla_van-nuys-man-to-plead-guilty-darknet-drugs",
+            "2023-05-18_sanfernandosun_van-nuys-burbank-duo-indicted-fentanyl",
+        ],
+    },
+    "operation-us-v-filip-lucian-simion": {
+        "sources": [
+            "2026-04-18_justice-gov_leader-darknet-italianmafiabrussels-drug-trafficking-organization-sentenced-11-years",
+            "2018-10-01_ice-gov_leader-darknets-italianmafiabrussels-drug-trafficking-organization-sentenced-denver",
+            "2018-10-01_denver7_com_leader-of-italianmafiabrussels-drug-trafficking-organization-sentenced-to-prison-in-denver",
+            "2016-10-17_justice-gov_romania-extradites-alleged-leader-italianmafiabrussels-drug-trafficking-organization",
+            "2016-10-17_ibtimesuk_silk-road-dark-web-drug-ring-italianmafiabrussels-leader-extradited-us",
+        ],
+    },
+    "operation-us-v-leonardo-cristea-and-filip-lucian-simion": {
+        "sources": [
+            "2026-04-18_justice-gov_member-darknet-drug-trafficking-organization-italianmafiabrussels-sentenced-prison",
+            "2018-04-11_ice-gov_member-darknet-drug-trafficking-organization-italianmafiabrussels-sentenced-3-years",
+            "2018-04-11_occrp_org_us-3-years-prison-for-international-darknet-drug-trafficker",
+            "2016-10-17_ice-gov_alleged-leader-italianmafiabrussels-drug-trafficking-organization-extradited-romania",
+            "2016-10-17_ibtimesuk_silk-road-dark-web-drug-ring-italianmafiabrussels-leader-extradited-us",
+        ],
+    },
+    "operation-us-v-dark-web-drug-trafficker": {
+        "sources": [
+            "2026-04-18_justice-gov_dark-web-drug-trafficker-pleads-guilty-charges-arising-out-clandestine-drug-lab",
+            "2023-07-19_irs-gov_dark-web-drug-trafficker-pleads-guilty-charges-arising-out-clandestine-drug-lab",
+            "2023-07-19_cbsdetroit_detroit-woman-29-pleads-guilty-distributing-millions-pills-dark-web-trafficking",
+            "2023-07-20_yahoo_fake-xanax-guns-cryptocurrency-dark-web-drug-dealers-detroit-house",
+            "2024-03-24_clickondetroit_leader-dark-web-trafficking-ring-pleads-guilty-drug-charges",
+        ],
+    },
+    "operation-us-v-hernandez-dark-web": {
+        "sources": [
+            "2024-06-26_edmi_hernandez-dark-web-sentencing",
+            "2024-06-27_detroitnews_detroit-man-feds-say-sold-drugs-dark-web-sentenced-prison",
+            "2024-06-27_clickondetroit_leader-dark-web-conspiracy-cocaine-counterfeit-pills-detroit-sentenced",
+            "2024-06-26_trmlabs_detroit-man-sentenced-over-ten-years-drug-trafficking-crypto-money-laundering",
+            "2024-06-27_fox2detroit_leader-dark-web-trafficking-ring-guilty-distributing-drugs-detroit",
+        ],
+    },
+    "operation-key-figures-behind-phobos-and-8base-ransomware-arrested-in-international-cybercrime-crackdown-2": {
+        "sources": [
+            "2025-02-11_europol-europa-eu_key-figures-behind-phobos-and-8base-ransomware-arrested-in-international-cybercr",
+            "2025-02-11_bleepingcomputer-com_us-charges-phobos-8base-ransomware-operators",
+            "2025-02-11_techcrunch-com_authorities-arrest-four-suspected-8base-ransomware-operators-in-global-takedown",
+            "2025-02-10_therecord_phobos-ransomware-takedown-arrests-russian-nationals",
+            "2025-02-10_databreaches_phobos-ransomware-affiliates-arrested-coordinated-international-disruption",
+        ],
+    },
+    "operation-key-figures-behind-phobos-and-8base-ransomware-arrested": {
+        "sources": [
+            "2025-02-11_europol-europa-eu_key-figures-behind-phobos-and-8base-ransomware-arrested",
+            "2025-02-11_bleepingcomputer-com_us-charges-phobos-8base-ransomware-operators",
+            "2025-02-11_techcrunch-com_authorities-arrest-four-suspected-8base-ransomware-operators-in-global-takedown",
+            "2025-02-10_therecord_phobos-ransomware-takedown-arrests-russian-nationals",
+            "2025-02-10_databreaches_phobos-ransomware-affiliates-arrested-coordinated-international-disruption",
+        ],
+    },
+    "operation-multiple-foreign-nationals-charged-in-connection-with-trickbot-and-conti": {
+        "sources": [
+            "2023-09-07_secretservice-gov_multiple-foreign-nationals-charged-in-connection-with-trickbot-and-conti",
+            "2023-09-07_flashpoint_court-doc-trickbot-conti-conspiracies",
+            "2023-09-08_wislawjournal_russian-nationals-charged-trickbot-conti",
+            "2023-09-08_hstoday_multiple-foreign-nationals-trickbot-conti",
+            "2023-09-07_justice-gov_multiple-foreign-nationals-charged-in-connection-with-trickbot-malware-and-conti",
+        ],
+    },
+    "operation-russian-trickbot-malware-dev-sentenced-to-64-months-in-prison": {
+        "sources": [
+            "2024-01-01_bleepingcomputer-com_russian-trickbot-malware-dev-sentenced-to-64-months-in-prison",
+            "2024-01-25_therecord_russian-developer-trickbot-malware-sentenced-five-years",
+            "2024-01-25_theregister_trickbot-malware-developer-sentenced-five-years",
+            "2024-01-26_securityaffairs_trickbot-malware-developer-sentenced-64-months",
+            "2024-01-26_gbhackers_russian-trickbot-malware-developer-pleaded-guilty",
+        ],
+    },
+    "operation-ross-ulbricht-found-guilty-on-all-counts": {
+        "sources": [
+            "2015-02-04_fbi-gov_ross-ulbricht-found-guilty-on-all-counts",
+            "2015-02-05_dea-gov_ross-ulbricht-creator-and-owner-silk-road-website-found-guilty-manhattan",
+            "2015-02-04_cnbc_silk-road-website-founder-ross-ulbricht-found-guilty-on-all-counts",
+            "2015-02-04_justice-gov_ross-ulbricht-creator-and-owner-silk-road-website-found-guilty",
+            "2015-02-04_ctpublic_silk-road-operator-ross-ulbricht-convicted-on-all-counts",
+        ],
+    },
+    "operation-ross-ulbricht-sentenced-to-life-in-federal-prison": {
+        "sources": [
+            "2015-05-29_ice-gov_ross-ulbricht-sentenced-to-life-in-federal-prison",
+            "2015-05-29_justice-gov_ross-ulbricht-a-k-a-dread-pirate-roberts-sentenced-in-manhattan-federal-court-to",
+            "2015-05-29_cnn-money_silk-road-ross-ulbricht-prison-sentence",
+            "2015-05-29_npr_silk-road-founder-sentenced-life-prison",
+            "2015-05-29_time_silkroad-founder-ross-ulbricht-life-prison-crimes",
+        ],
+    },
+    "operation-ross-ulbricht-sentenced-to-life-in-prison": {
+        "sources": [
+            "2015-05-29_fbi-gov_ross-ulbricht-sentenced-to-life-in-prison",
+            "2015-05-29_justice-gov_ross-ulbricht-a-k-a-dread-pirate-roberts-sentenced-in-manhattan-federal-court-to",
+            "2015-05-29_wired-com_wired-silk-road-2-0-ulbricht-sentencing-coverage",
+            "2015-05-30_aljazeera_silk-road-website-founder-jailed-life-new-york",
+            "2015-05-29_time_silkroad-founder-ross-ulbricht-life-prison-crimes",
+        ],
+    },
+    "operation-senior-advisor-arrested-in-thailand": {
+        "sources": [
+            "2015-12-03_ice-gov_senior-advisor-arrested-in-thailand",
+            "2015-12-03_nbcnews_alleged-top-adviser-silk-road-operator-arrested-thailand",
+            "2015-12-04_thehackernews_variety-jones-senior-adviser-silk-road-arrested-thailand",
+            "2015-12-08_sophos_suspected-silk-road-architect-variety-jones-arrested-thailand",
+            "2015-12-04_thenextweb_silk-road-architect-variety-jones-arrested-thailand",
+        ],
+    },
 
 }
 

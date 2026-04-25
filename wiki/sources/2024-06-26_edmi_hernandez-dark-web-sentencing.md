@@ -14,12 +14,17 @@ sensitivity: public
 pages_updated:
 
 key_findings:
-  - "Secure .gov websites use HTTPS A lock ( Lock Locked padlock ) or https:// means you’ve safely connected to the .gov website. Share sensitive information only on official, secure websites."
+  - "Secure .gov websites use HTTPS A lock ( Lock Locked padlock ) or https: "// means you’ve safely connected to the .gov website. Share sensitive information only on official, secure websites.\""
 collection_url: https://www.justice.gov/usao-edmi/pr/armed-dark-web-drug-trafficker-sentenced-over-decade-federal-prison
 created: 2026-04-17
 defendant_names:
   - "Victor Hernandez"
 updated: 2026-04-18
+text_status: parsed
+content_hash: sha256:4441a3f64ab8f29fa6f8dbb368e6dbe69ef1c90aaa5a13f1f07f0795faae361c
+word_count: 1149
+extraction_date: 2026-04-25
+last_fetcher: doj_fetch
 ---
 ## Source Summary
 

@@ -18,6 +18,12 @@ key_findings:
   - "The release detailed the IMB darknet MDMA sales model, bitcoin payments, and the joint U.S.-European enforcement structure involving Belgium, Romania, Europol, and Eurojust."
 collection_url: https://www.justice.gov/usao-co/pr/romania-extradites-alleged-leader-italianmafiabrussels-drug-trafficking-organization
 created: 2026-04-25
+raw_path: raw/press-releases/2016-10-17_justice-gov_romania-extradites-alleged-leader-italianmafiabrussels-drug-trafficking-organization.md
+text_status: parsed
+content_hash: sha256:22374f4399ba1548c651896d913bcbbc351ec44fdd535acda180ab6f18d102e7
+word_count: 125
+extraction_date: 2026-04-25
+last_fetcher: doj_fetch
 ---
 ## Source Summary
 

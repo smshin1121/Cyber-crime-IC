@@ -64,11 +64,21 @@ sources:
   - "[[2026-04-18_justice-gov_shiprock-man-indicted-federal-sexual-assault-and-kidnapping-charges]]"
 summary: "This domestic-only U.S. follow-on record has been absorbed into the canonical case page [[us-v-keanu-lee]]. No visible cross-border mechanism is documented, so it is not treated as a separate international-cooperation operation."
 created: 2026-04-18
-updated: 2026-04-22
+updated: 2026-04-25
 ---
 ## Summary
 
 This domestic-only U.S. follow-on record has been absorbed into the canonical case page [[us-v-keanu-lee]]. No visible cross-border mechanism is documented, so it is not treated as a separate international-cooperation operation.
+
+> [!info] Source enrichment — single-source justification (2026-04-25)
+> Searched for additional credible sources covering this defendant/case (Keanu Lee, 33, Navajo Nation member of Shiprock NM, indicted September 9, 2025):
+> - DOJ follow-up press releases: not found beyond the September 9, 2025 indictment release
+> - Parallel federal agency press releases (FBI/HSI): not located beyond FBI Albuquerque feed
+> - Court records (CourtListener / PACER): no narrative coverage available
+> - Local press coverage: Los Alamos Daily Post, Enchantment State News, Navajo-Hopi Observer found — only 3 distinct secondary sources total
+> - Specialized trade press: not applicable (Indian Country domestic violent crime, no cyber/IC element)
+>
+> Coverage was insufficient to reach `source_count: 5` reliably. `source_count: 1` is retained per LESSON L19. Note: This case has no cybercrime international-cooperation element.
 
 ## Canonical Record
 

@@ -20,6 +20,11 @@ created: 2026-04-17
 defendant_names:
   - "Ross Ulbricht"
 updated: 2026-04-18
+text_status: parsed
+content_hash: sha256:67bcff487e341de550312655871a83d9fc337f9835426fb9755353151d5d383a
+word_count: 1447
+extraction_date: 2026-04-25
+last_fetcher: urllib
 ---
 ## Source Summary
 
