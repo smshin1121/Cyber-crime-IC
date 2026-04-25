@@ -34,3 +34,4 @@ web/server.log
 .env
 *.key
 *.pem
+.verification/last_run.log

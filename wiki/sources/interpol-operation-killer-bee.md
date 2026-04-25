@@ -19,9 +19,9 @@ pages_updated:
 key_findings:
   - "INTERPOL announced Operation Killer Bee on 30 May 2022, reporting three arrests in simultaneous raids in Lagos and Benin City, Nigeria against a BEC scheme using Agent Tesla Remote Access Trojan (RAT) to reroute financial transactions"
   - "The targeted group stole corporate online-banking credentials from victims in Southeast Asia, the Middle East, and North Africa; one suspect (Hendrix Omorume, age 38) was convicted on three counts of serious financial fraud and sentenced to 12 months imprisonment"
-  - "Operation scope: "11 countries in Southeast Asia — Brunei, Cambodia, Indonesia, Laos, Malaysia, Myanmar, Nigeria, Philippines, Singapore, Thailand, and Vietnam (Nigeria as origin country, 10 ASEAN/adjacent as affected countries)\""
-  - "Lead coordination: "INTERPOL's ASEAN Cybercrime Operations Desk, funded by the Japan-ASEAN Integration Fund 2.0 and supported by the Singapore government — a distinctive funding pattern worth noting for capacity-building analysis\""
-  - "Private-sector intelligence contribution: "Trend Micro provided the original Agent Tesla malware telemetry that seeded the investigation, illustrating the public-private threat-intelligence pipeline\""
+  - 'Operation scope: 11 countries in Southeast Asia ??Brunei, Cambodia, Indonesia, Laos, Malaysia, Myanmar, Nigeria, Philippines, Singapore, Thailand, and Vietnam (Nigeria as origin country, 10 ASEAN/adjacent as affected countries)'
+  - 'Lead coordination: INTERPOL''s ASEAN Cybercrime Operations Desk, funded by the Japan-ASEAN Integration Fund 2.0 and supported by the Singapore government ??a distinctive funding pattern worth noting for capacity-building analysis'
+  - 'Private-sector intelligence contribution: Trend Micro provided the original Agent Tesla malware telemetry that seeded the investigation, illustrating the public-private threat-intelligence pipeline'
   - "All three arrested suspects were aged 31-38 and possessed fake documents including fraudulent invoices and forged official letters — evidence of the social-engineering sophistication typical of West African BEC actors"
   - "Operation Killer Bee is a reference example of INTERPOL's ASEAN Cybercrime Operations Desk executing cross-region (Africa→ASEAN) enforcement with Japanese funding support"
 created: 2026-04-08

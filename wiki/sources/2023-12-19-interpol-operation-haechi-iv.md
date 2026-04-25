@@ -1,30 +1,34 @@
 ---
 type: source
 title: "USD 300 million seized and 3,500 suspects arrested in international financial crime operation - Operation HAECHI IV"
-raw_path: "_workspace/collected/2023-12-19_interpol_operation-haechi-iv.md"
-source_type: "press-release"
-publisher: "INTERPOL"
+raw_path: _workspace/collected/2023-12-19_interpol_operation-haechi-iv.md
+source_type: press-release
+publisher: INTERPOL
 author: ""
-publish_date: "2023-12-19"
-ingest_date: "2026-04-08"
-language: "en"
-reliability: "high"
-credibility: "probably-true"
-sensitivity: "public"
+publish_date: 2023-12-19
+ingest_date: 2026-04-08
+language: en
+reliability: high
+credibility: probably-true
+sensitivity: public
 pages_updated:
-  - "operation-haechi-iv"
-  - "interpol-igci"
-  - "south-korea"
-  - "voice-phishing-ic"
-  - "online-fraud-ic"
+  - operation-haechi-iv
+  - interpol-igci
+  - south-korea
+  - voice-phishing-ic
+  - online-fraud-ic
 key_findings:
-  - "HAECHI IV: ~3,500 arrests, USD 300 million seized across 34 countries (260% increase over HAECHI III)"
+  - "HAECHI IV: "~3,500 arrests, USD 300 million seized across 34 countries (260% increase over HAECHI III)\""
   - "82,112 suspicious bank accounts blocked; 7 types of cyber-enabled fraud targeted"
   - "INTERPOL issued Purple Notices warning of AI-generated voice cloning in scams"
-collection_url: "https://www.interpol.int/News-and-Events/News/2023/USD-300-million-seized-and-3-500-suspects-arrested-in-international-financial-crime-operation"
+collection_url: https://www.interpol.int/News-and-Events/News/2023/USD-300-million-seized-and-3-500-suspects-arrested-in-international-financial-crime-operation
 created: 2026-04-08
+text_status: parsed
+content_hash: sha256:b3877e721de4d07459c06a452c53ca9d2b08bdcf327dad02832fc08ddadecc9f
+word_count: 790
+extraction_date: 2026-04-25
+last_fetcher: urllib
 ---
-
 ## Summary
 
 Operation HAECHI IV, the fourth iteration of Korea-initiated HAECHI series, ran July to December 2023 across 34 countries. ~3,500 arrests, USD 300 million seized ($199M fiat, $101M virtual assets), 82,112 bank accounts blocked. Targeted voice phishing, romance scams, investment fraud, BEC, e-commerce fraud and more. 260% arrest increase over HAECHI III.

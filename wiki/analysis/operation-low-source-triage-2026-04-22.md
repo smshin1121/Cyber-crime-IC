@@ -14,7 +14,7 @@ This report classifies operation pages that remain below the `5`-source minimum 
 
 - merge_into_case: **0**
 - merge_into_parent: **0**
-- retain_and_enrich: **81**
+- retain_and_enrich: **77**
 - metadata_repair: **0**
 - high_risk_review: **7**
 
@@ -42,51 +42,51 @@ Count: **0**
 
 ## retain_and_enrich
 
-Count: **81**
+Count: **77**
 
 | Operation | Sources | Refs | Role | Countries | Notes |
 |---|---:|---:|---|---:|---|
-| [[bec-nigeria-2016]] | 1 | 1 | umbrella | 2 | multinational_umbrella |
-| [[de-ch-crypto-mixer-takedown-2025]] | 1 | 0 | umbrella | 2 | source_count_mismatch:1!=0, missing_visible_references, multinational_umbrella |
-| [[global-airport-action-day]] | 1 | 1 | umbrella | 2 | multinational_umbrella |
-| [[isoon-apt27-indictment]] | 1 | 1 | umbrella | 2 | multinational_umbrella |
-| [[korea-cambodia-scam-repatriation]] | 1 | 1 | umbrella | 2 | multinational_umbrella |
-| [[korea-china-voice-phishing-qingdao]] | 1 | 1 | umbrella | 2 | multinational_umbrella |
-| [[marketplace-a-dekhtyarchuk-indictment]] | 1 | 1 | umbrella | 2 | multinational_umbrella |
-| [[operation-de-fr-online-fraud-group-2026]] | 1 | 1 | umbrella | 2 | multinational_umbrella |
-| [[operation-destabilise]] | 1 | 1 | umbrella | 2 | multinational_umbrella |
-| [[operation-french-coder-who-helped-extort-british-company-arrested-in-thailand]] | 1 | 1 | follow-on | 2 | multinational_but_thin |
-| [[operation-haechi-v]] | 1 | 1 | umbrella | 2 | multinational_umbrella |
-| [[operation-nervone]] | 1 | 1 | umbrella | 2 | multinational_umbrella |
-| [[operation-operation-orion-international-144-arrested-in-major-child-abuse-operation-across-south-america]] | 1 | 1 | follow-on | 2 | multinational_but_thin |
-| [[operation-first-light-2024]] | 1 | 1 | umbrella | 3 | multinational_umbrella |
-| [[operation-germany-romania-trusted-seller-fraud-2025]] | 1 | 1 | umbrella | 3 | multinational_umbrella |
+| [[de-ch-crypto-mixer-takedown-2025]] | 1 | 1 | umbrella | 2 | multinational_umbrella |
 | [[operation-jackal-iii]] | 1 | 1 | umbrella | 3 | multinational_umbrella |
-| [[operation-key-figures-behind-phobos-and-8base-ransomware-arrested-in-international-cybercrime-crackdown]] | 1 | 1 | follow-on | 3 | multinational_but_thin |
-| [[operation-key-figures-behind-phobos-and-8base-ransomware-arrested-in-international-cybercrime-crackdown-3]] | 1 | 1 | follow-on | 3 | multinational_but_thin |
 | [[operation-source]] | 1 | 1 | umbrella | 3 | multinational_umbrella |
 | [[rex-mundi-takedown]] | 1 | 1 | umbrella | 3 | multinational_umbrella |
-| [[xdedic-marketplace-takedown]] | 1 | 1 | umbrella | 3 | multinational_umbrella |
-| [[zeus-spyeye-jit-takedown]] | 1 | 1 | umbrella | 3 | multinational_umbrella |
 | [[operation-bakovia]] | 1 | 1 | umbrella | 4 | multinational_umbrella |
 | [[operation-checkmate-blacksuit]] | 1 | 1 | umbrella | 4 | multinational_umbrella |
-| [[operation-eur-100m-illegal-financial-service-laundering-2025]] | 1 | 1 | umbrella | 4 | multinational_umbrella |
-| [[operation-europol-french-coder-who-helped-extort-british-company-arrested-in-thailand]] | 1 | 1 | follow-on | 4 | multinational_but_thin |
-| [[proxy-service-takedown-2026-03]] | 1 | 1 | umbrella | 4 | multinational_umbrella |
 | [[ramnit-botnet-takedown]] | 1 | 1 | umbrella | 4 | multinational_umbrella |
-| [[rydox-marketplace-takedown]] | 1 | 1 | umbrella | 4 | multinational_umbrella |
-| [[fake-shopping-sites-takedown-2024]] | 1 | 1 | umbrella | 5 | multinational_umbrella |
 | [[operation-12-members-of-an-irish-high-risk-criminal-network-arrested]] | 1 | 1 | follow-on | 5 | multinational_but_thin |
-| [[operation-eur-600m-crypto-scam-network-2025]] | 1 | 1 | umbrella | 5 | multinational_umbrella |
-| [[operation-secreto]] | 1 | 1 | umbrella | 5 | multinational_umbrella |
-| [[operation-synergia-ii]] | 1 | 1 | umbrella | 5 | multinational_umbrella |
-| [[operation-wirewire]] | 1 | 1 | umbrella | 5 | multinational_umbrella |
-| [[black-axe-bec-2021]] | 1 | 1 | umbrella | 6 | multinational_umbrella |
-| [[cyber-fraud-international-2015]] | 1 | 1 | umbrella | 6 | multinational_umbrella |
-| [[darkode-takedown]] | 1 | 1 | umbrella | 6 | multinational_umbrella |
-| [[franco-israeli-ceo-fraud]] | 1 | 1 | umbrella | 6 | multinational_umbrella |
-| [[operation-eur-100m-crypto-investment-fraud-2025]] | 1 | 1 | umbrella | 6 | multinational_umbrella |
-| ... | ... | ... | ... | ... | 41 more |
+| [[operation-goldfish-alpha-night-fury]] | 1 | 1 | umbrella | 7 | multinational_umbrella |
+| [[operation-haechi-iv]] | 1 | 1 | umbrella | 8 | multinational_umbrella |
+| [[operation-pleiades]] | 1 | 1 | umbrella | 10 | multinational_umbrella |
+| [[operation-killer-bee]] | 1 | 1 | umbrella | 11 | multinational_umbrella |
+| [[operation-endgame-phase1]] | 1 | 1 | umbrella | 13 | multinational_umbrella |
+| [[2bagoldmule-qqaazz]] | 1 | 1 | umbrella | 16 | multinational_umbrella |
+| [[operation-serengeti]] | 1 | 1 | umbrella | 19 | multinational_umbrella |
+| [[operation-jackal]] | 1 | 1 | umbrella | 21 | multinational_umbrella |
+| [[operation-haechi-vi]] | 1 | 1 | umbrella | 32 | multinational_umbrella |
+| [[global-airport-action-day]] | 2 | 2 | umbrella | 2 | multinational_umbrella |
+| [[operation-destabilise]] | 2 | 2 | umbrella | 2 | multinational_umbrella |
+| [[operation-haechi-v]] | 2 | 2 | umbrella | 2 | multinational_umbrella |
+| [[operation-nervone]] | 2 | 2 | umbrella | 2 | multinational_umbrella |
+| [[operation-nightfury]] | 2 | 2 | umbrella | 2 | multinational_umbrella |
+| [[operation-operation-orion-international-144-arrested-in-major-child-abuse-operation-across-south-america]] | 2 | 2 | follow-on | 2 | multinational_but_thin |
+| [[zambia-golden-top-call-center]] | 2 | 2 | umbrella | 2 | multinational_umbrella |
+| [[operation-germany-romania-trusted-seller-fraud-2025]] | 2 | 2 | umbrella | 3 | multinational_umbrella |
+| [[zeus-spyeye-jit-takedown]] | 2 | 2 | umbrella | 3 | multinational_umbrella |
+| [[operation-contender-2]] | 2 | 2 | umbrella | 4 | multinational_umbrella |
+| [[operation-eur-100m-illegal-financial-service-laundering-2025]] | 2 | 2 | umbrella | 4 | multinational_umbrella |
+| [[operation-europol-french-coder-who-helped-extort-british-company-arrested-in-thailand]] | 2 | 2 | follow-on | 4 | multinational_but_thin |
+| [[proxy-service-takedown-2026-03]] | 2 | 2 | umbrella | 4 | multinational_umbrella |
+| [[operation-eur-600m-crypto-scam-network-2025]] | 2 | 2 | umbrella | 5 | multinational_umbrella |
+| [[operation-secreto]] | 2 | 2 | umbrella | 5 | multinational_umbrella |
+| [[operation-synergia-ii]] | 2 | 2 | umbrella | 5 | multinational_umbrella |
+| [[black-axe-bec-2021]] | 2 | 2 | umbrella | 6 | multinational_umbrella |
+| [[cyber-fraud-international-2015]] | 2 | 2 | umbrella | 6 | multinational_umbrella |
+| [[operation-eur-100m-crypto-investment-fraud-2025]] | 2 | 2 | umbrella | 6 | multinational_umbrella |
+| [[operation-europol-105-arrested-for-stealing-over-12-million-from-us-based-banks-operation-secreto]] | 2 | 2 | follow-on | 6 | multinational_but_thin |
+| [[operation-secure-interpol]] | 2 | 2 | umbrella | 6 | multinational_umbrella |
+| [[operation-trojan-shield]] | 2 | 2 | umbrella | 6 | multinational_umbrella |
+| [[operation-eur-3m-online-investment-fraud-2025]] | 2 | 2 | umbrella | 7 | multinational_umbrella |
+| ... | ... | ... | ... | ... | 37 more |
 
 ## metadata_repair
 
@@ -101,12 +101,12 @@ Count: **7**
 
 | Operation | Sources | Refs | Role | Countries | Notes |
 |---|---:|---:|---|---:|---|
-| [[operation-lyrebird]] | 1 | 1 | umbrella | 0 | single_country_low_source |
 | [[banking-trojan-fraud-sentencing-2017]] | 1 | 1 | umbrella | 1 | single_country_low_source |
 | [[operation-hyperion]] | 1 | 1 | umbrella | 1 | single_country_low_source |
-| [[romania-phishing-takedown-2024]] | 1 | 1 | umbrella | 1 | single_country_low_source |
-| [[zeus-spyeye-takedown]] | 1 | 1 | umbrella | 1 | single_country_low_source |
+| [[operation-lyrebird]] | 1 | 1 | umbrella | 1 | single_country_low_source |
 | [[operation-delilah]] | 2 | 2 | umbrella | 0 | single_country_low_source |
+| [[romania-phishing-takedown-2024]] | 2 | 2 | umbrella | 1 | single_country_low_source |
+| [[zeus-spyeye-takedown]] | 2 | 2 | umbrella | 1 | single_country_low_source |
 | [[operation-falcon]] | 4 | 4 | umbrella | 1 | single_country_low_source |
 
 ## Recommended First Batch

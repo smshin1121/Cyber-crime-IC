@@ -26,9 +26,9 @@ key_findings:
   - "Alleged mastermind of the Carbanak/Cobalt cybercrime group arrested in Alicante, Spain on 26 March 2018 by the Spanish National Police (Policía Nacional) following a multi-year joint investigation"
   - "Group caused cumulative losses of over EUR 1 billion to the financial industry since 2013; Cobalt malware alone enabled thefts of up to EUR 10 million per heist"
   - "Over 100 financial institutions targeted across more than 40 countries — a significant scale for a single cybercriminal enterprise"
-  - "International cooperation partners: "Spanish National Police (lead), Europol EC3 (coordination), US FBI, Romanian authorities, Moldovan authorities, Belarusian authorities, Taiwanese authorities, and private-sector cybersecurity firms\""
-  - "Malware evolution timeline: "Anunak (late 2013) → Carbanak (2014-2016) → Cobalt Strike-based custom tooling (post-2016) — illustrating the group's continuous tool development\""
-  - "Modus operandi: "spear-phishing emails with malicious attachments sent to bank employees, followed by lateral movement to internal banking networks and ATM-controlling servers to execute 'jackpotting' cash withdrawals and SWIFT-style account manipulations\""
+  - 'International cooperation partners: Spanish National Police (lead), Europol EC3 (coordination), US FBI, Romanian authorities, Moldovan authorities, Belarusian authorities, Taiwanese authorities, and private-sector cybersecurity firms'
+  - 'Malware evolution timeline: Anunak (late 2013) ??Carbanak (2014-2016) ??Cobalt Strike-based custom tooling (post-2016) ??illustrating the group''s continuous tool development'
+  - 'Modus operandi: spear-phishing emails with malicious attachments sent to bank employees, followed by lateral movement to internal banking networks and ATM-controlling servers to execute ''jackpotting'' cash withdrawals and SWIFT-style account manipulations'
 created: 2026-04-08
 updated: 2026-04-18
 defendant_names:

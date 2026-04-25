@@ -43,10 +43,8 @@ participating_countries:
   - "[[switzerland]]"
 participating_agencies:
   - "[[interpol-igci]]"
-legal_basis:
-
-mechanisms_used:
-
+legal_basis: []
+mechanisms_used: []
 results:
   arrests: 300
   indictments: 0
@@ -59,13 +57,11 @@ results:
     - "400+ additional suspects identified"
     - "720+ bank accounts blocked"
     - "USD 3 million in assets seized"
-    - "Argentina: "72 arrests, USD 1.2 million counterfeit notes, ~100 bank accounts frozen\""
-related_cases:
-
+    - 'Argentina: 72 arrests, USD 1.2 million counterfeit notes, ~100 bank accounts frozen'
+related_cases: []
 related_operations:
   - "[[operation-jackal]]"
-challenges_encountered:
-
+challenges_encountered: []
 lessons_learned:
   - "Series-based operations (Jackal I → III) demonstrate escalating enforcement effectiveness"
   - "BEC intersects with broader financial crime including counterfeiting (Argentina case)"

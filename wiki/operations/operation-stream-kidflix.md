@@ -2,7 +2,7 @@
 type: operation
 title: "Operation Stream"
 aliases:
-  - "Operation Stream: "Kidflix\""
+  - 'Operation Stream: Kidflix'
   - "Kidflix Takedown"
 case_id: CYB-2025-001
 period: 3
@@ -29,8 +29,7 @@ participating_agencies:
   - "[[germany-bka]]"
   - "[[europol-ec3]]"
   - "[[netherlands-politie]]"
-legal_basis:
-
+legal_basis: []
 mechanisms_used:
   - "[[informal-cooperation]]"
 results:

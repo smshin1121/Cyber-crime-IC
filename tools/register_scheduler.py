@@ -21,6 +21,12 @@ import subprocess
 import sys
 from pathlib import Path
 
+try:
+    sys.stdout.reconfigure(encoding="utf-8", errors="replace")
+    sys.stderr.reconfigure(encoding="utf-8", errors="replace")
+except Exception:
+    pass
+
 PROJECT_ROOT = Path(__file__).resolve().parent.parent
 BAT_PATH = PROJECT_ROOT / "tools" / "scheduled_collect.bat"
 
@@ -56,7 +62,7 @@ def _build_query_cmd(task_name: str) -> list[str]:
 
 
 def _run(cmd: list[str], *, silent: bool = False) -> subprocess.CompletedProcess[str]:
-    result = subprocess.run(cmd, capture_output=True, text=True)
+    result = subprocess.run(cmd, capture_output=True, text=True, errors="replace")
     if not silent:
         if result.stdout.strip():
             print(result.stdout.strip())
@@ -78,7 +84,7 @@ def _remove_legacy_task() -> None:
     """Remove the old single-task if it exists."""
     r = subprocess.run(
         ["schtasks", "/Query", "/TN", LEGACY_TASK_NAME],
-        capture_output=True, text=True,
+        capture_output=True, text=True, errors="replace",
     )
     if r.returncode == 0:
         print(f"  Removing legacy task '{LEGACY_TASK_NAME}'...")
@@ -161,7 +167,7 @@ def main() -> None:
         # Also check legacy
         r = subprocess.run(
             ["schtasks", "/Query", "/TN", LEGACY_TASK_NAME],
-            capture_output=True, text=True,
+            capture_output=True, text=True, errors="replace",
         )
         if r.returncode == 0:
             print(f"\n  [WARN] Legacy task '{LEGACY_TASK_NAME}' still exists.")

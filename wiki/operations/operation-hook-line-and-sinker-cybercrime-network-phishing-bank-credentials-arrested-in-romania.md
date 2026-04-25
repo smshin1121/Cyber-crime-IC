@@ -2,7 +2,7 @@
 type: operation
 title: "Hook, Line and Sinker: Cybercrime Network Phishing Bank Credentials Arrested in Romania Enforcement Action"
 aliases:
-  - "Hook, Line and Sinker: "Cybercrime Network Phishing Bank Credentials Arrested in Romania\""
+  - 'Hook, Line and Sinker: Cybercrime Network Phishing Bank Credentials Arrested in Romania'
 case_id: CYB-FUP-568
 period: 3
 operation_role: follow-on
@@ -45,20 +45,15 @@ results:
   victims_notified: 0
   other:
     - "Defendant-specific follow-on action derived from [[hook-line-and-sinker-cybercrime-network-phishing-bank-credentials-arrested-in-romania]]"
-edges:
-
+edges: []
 credibility_index: 4.0
 source_tier: 1
-missing_fields:
-
+missing_fields: []
 related_cases:
   - "[[hook-line-and-sinker-cybercrime-network-phishing-bank-credentials-arrested-in-romania]]"
-related_operations:
-
-challenges_encountered:
-
-lessons_learned:
-
+related_operations: []
+challenges_encountered: []
+lessons_learned: []
 source_count: 5
 sources:
   - "[[2024-01-01_europol-europa-eu_hook-line-and-sinker-cybercrime-network-phishing-bank-credentials-arrested-in-ro]]"

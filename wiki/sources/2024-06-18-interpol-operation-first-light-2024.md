@@ -1,29 +1,33 @@
 ---
 type: source
 title: "USD 257 million seized in global police crackdown against online scams - Operation First Light 2024"
-raw_path: "_workspace/collected/2024-06-18_interpol_operation-first-light-2024.md"
-source_type: "press-release"
-publisher: "INTERPOL"
+raw_path: _workspace/collected/2024-06-18_interpol_operation-first-light-2024.md
+source_type: press-release
+publisher: INTERPOL
 author: ""
-publish_date: "2024-06-18"
-ingest_date: "2026-04-08"
-language: "en"
-reliability: "high"
-credibility: "probably-true"
-sensitivity: "public"
+publish_date: 2024-06-18
+ingest_date: 2026-04-08
+language: en
+reliability: high
+credibility: probably-true
+sensitivity: public
 pages_updated:
-  - "operation-first-light-2024"
-  - "interpol-igci"
-  - "online-fraud-ic"
-  - "voice-phishing-ic"
+  - operation-first-light-2024
+  - interpol-igci
+  - online-fraud-ic
+  - voice-phishing-ic
 key_findings:
   - "3,950 arrests and USD 257 million seized across 61 countries in online scam crackdown"
   - "14,643 additional suspects identified; 6,745 bank accounts frozen"
-  - "Namibia: 88 youths rescued from forced scam operations; Spain: I-GRIP intercepted USD 331K BEC fraud"
-collection_url: "https://www.interpol.int/News-and-Events/News/2024/USD-257-million-seized-in-global-police-crackdown-against-online-scams"
+  - "Namibia: "88 youths rescued from forced scam operations; Spain: I-GRIP intercepted USD 331K BEC fraud\""
+collection_url: https://www.interpol.int/News-and-Events/News/2024/USD-257-million-seized-in-global-police-crackdown-against-online-scams
 created: 2026-04-08
+text_status: parsed
+content_hash: sha256:e2c63762c5b44ca6655c8f2a72dc4a8a710e609b0d72ad6c8ab4c49d1b60b9b5
+word_count: 844
+extraction_date: 2026-04-25
+last_fetcher: urllib
 ---
-
 ## Summary
 
 Operation First Light 2024 was a coordinated global crackdown on online scams from March to May 2024 across 61 countries. 3,950 arrests, 14,643 additional suspects identified, USD 257 million seized, 6,745 bank accounts frozen. Bolstered by AFRIPOL, ASEANAPOL, GCCPOL, and Europol. Utilized INTERPOL's I-GRIP mechanism for cross-border fund recovery.

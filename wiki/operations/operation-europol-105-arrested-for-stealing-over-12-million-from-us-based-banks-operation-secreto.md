@@ -2,7 +2,7 @@
 type: operation
 title: "Europol: 105 Arrested for Stealing Over €12 Million from US-Based Banks (Operation Secreto) Enforcement Action"
 aliases:
-  - "Europol: "105 Arrested for Stealing Over €12 Million from US-Based Banks (Operation Secreto)\""
+  - 'Europol: 105 Arrested for Stealing Over ??2 Million from US-Based Banks (Operation Secreto)'
 case_id: CYB-FUP-543
 period: 2
 operation_role: follow-on
@@ -50,20 +50,15 @@ results:
   victims_notified: 0
   other:
     - "Defendant-specific follow-on action derived from [[europol-105-arrested-for-stealing-over-12-million-from-us-based-banks-operation-secreto]]"
-edges:
-
+edges: []
 credibility_index: 4.0
 source_tier: 1
-missing_fields:
-
+missing_fields: []
 related_cases:
   - "[[europol-105-arrested-for-stealing-over-12-million-from-us-based-banks-operation-secreto]]"
-related_operations:
-
-challenges_encountered:
-
-lessons_learned:
-
+related_operations: []
+challenges_encountered: []
+lessons_learned: []
 source_count: 5
 sources:
   - "[[europol-operation-secreto]]"

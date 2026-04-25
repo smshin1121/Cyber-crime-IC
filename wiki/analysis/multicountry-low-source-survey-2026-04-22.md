@@ -42,3 +42,4 @@ The search strategy is intentionally non-US-first to reduce current DOJ concentr
 ## Search Playbook
 
 Use the queries below with normal web search first. If the source is blocked, run the same URL through `insane-search` fallbacks in this order: Jina Reader -> curl_cffi TLS impersonation -> Playwright/browser fallback.
+

@@ -1,6 +1,6 @@
 ---
 type: raw_case_document
-title: "Page not found"
+title: "High-level organizer of notorious hacking group FIN7 sentenced to ten years in prison for scheme that compromised tens of millions of debit and credit cards"
 date: 2021-04-16
 court: "U.S. District Court for the Western District of Washington"
 jurisdiction: "United States"
@@ -14,6 +14,8 @@ related_entities:
   - "[[us-v-hladyr-fin7]]"
 created: 2026-04-17
 updated: 2026-04-18
+defendant_names:
+  - "Fedir Hladyr"
 ---
 ## Summary
 

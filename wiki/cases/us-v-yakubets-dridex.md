@@ -39,7 +39,7 @@ ic_elements:
   foreign_arrests:
     - "Cyprus (Ghinkul, August 2015)"
   asset_freezing:
-    - "OFAC sanctions: "17 individuals, 7 entities (Evil Corp)\""
+    - 'OFAC sanctions: 17 individuals, 7 entities (Evil Corp)'
 cooperating_agencies:
   - "[[fbi-cyber-division]]"
   - "[[uk-nca]]"

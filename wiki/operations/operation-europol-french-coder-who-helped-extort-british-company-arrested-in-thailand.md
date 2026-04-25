@@ -2,7 +2,7 @@
 type: operation
 title: "Europol: French coder who helped extort British company arrested in Thailand Enforcement Action"
 aliases:
-  - "Europol: "French coder who helped extort British company arrested in Thailand\""
+  - 'Europol: French coder who helped extort British company arrested in Thailand'
 case_id: CYB-FUP-544
 period: 1
 operation_role: follow-on
@@ -48,20 +48,15 @@ results:
   victims_notified: 0
   other:
     - "Defendant-specific follow-on action derived from [[europol-french-coder-who-helped-extort-british-company-arrested-in-thailand]]"
-edges:
-
+edges: []
 credibility_index: 4.0
 source_tier: 1
-missing_fields:
-
+missing_fields: []
 related_cases:
   - "[[europol-french-coder-who-helped-extort-british-company-arrested-in-thailand]]"
-related_operations:
-
-challenges_encountered:
-
-lessons_learned:
-
+related_operations: []
+challenges_encountered: []
+lessons_learned: []
 source_count: 5
 sources:
   - "[[europol-rex-mundi-hacking-group-takedown]]"
