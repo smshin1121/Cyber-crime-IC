@@ -64,11 +64,21 @@ sources:
   - "[[2026-04-18_justice-gov_new-jersey-man-sentenced-prescription-opioid-conspiracy]]"
 summary: "This domestic-only U.S. follow-on record has been absorbed into the canonical case page [[new-jersey-man-sentenced-for-prescription-opioid-conspiracy]]. No visible cross-border mechanism is documented, so it is not treated as a separate international-cooperation operation."
 created: 2026-04-18
-updated: 2026-04-22
+updated: 2026-04-25
 ---
 ## Summary
 
 This domestic-only U.S. follow-on record has been absorbed into the canonical case page [[new-jersey-man-sentenced-for-prescription-opioid-conspiracy]]. No visible cross-border mechanism is documented, so it is not treated as a separate international-cooperation operation.
+
+> [!info] Source enrichment — single-source justification (2026-04-25)
+> Searched for additional credible sources covering this defendant/case:
+> - DOJ follow-up press releases: the cited OPA release is itself the sentencing announcement
+> - Parallel federal agency press releases (DEA/FBI/IRS-CI/HSI/USPIS): not found
+> - Court records (CourtListener / PACER): docket exists (D.N.J.) but no narrative IC coverage
+> - Local press coverage (Star-Ledger / NJ.com / Bergen Record): not found
+> - Specialized trade press: not applicable (domestic prescription-fraud case)
+>
+> This is a **fundamentally domestic** prescription opioid conspiracy case in New Jersey. No international cooperation channel is implicated. `source_count: 1` is retained per LESSON L19.
 
 ## Canonical Record
 

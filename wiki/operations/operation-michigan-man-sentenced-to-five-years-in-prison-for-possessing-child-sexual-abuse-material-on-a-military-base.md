@@ -64,11 +64,21 @@ sources:
   - "[[2026-04-18_justice-gov_michigan-man-sentenced-five-years-prison-possessing-child-sexual-abuse-material-military]]"
 summary: "This domestic-only U.S. follow-on record has been absorbed into the canonical case page [[michigan-man-sentenced-to-five-years-in-prison-for-possessing-child-sexual-abuse-material-on-a-military-base]]. No visible cross-border mechanism is documented, so it is not treated as a separate international-cooperation operation."
 created: 2026-04-18
-updated: 2026-04-22
+updated: 2026-04-25
 ---
 ## Summary
 
 This domestic-only U.S. follow-on record has been absorbed into the canonical case page [[michigan-man-sentenced-to-five-years-in-prison-for-possessing-child-sexual-abuse-material-on-a-military-base]]. No visible cross-border mechanism is documented, so it is not treated as a separate international-cooperation operation.
+
+> [!info] Source enrichment — single-source justification (2026-04-25)
+> Searched for additional credible sources covering this defendant/case:
+> - DOJ follow-up press releases (sentencing/conviction): the cited OPA release is itself the sentencing announcement
+> - Parallel federal agency press releases (FBI/USPIS/NCMEC/HSI): not found
+> - Court records (CourtListener / PACER): docket exists but no narrative IC coverage
+> - Local press coverage (Detroit Free Press / Michigan Live / military base local): isolated minor mentions only
+> - Specialized trade press: not applicable (CSAM cases not generally covered by IC trade press)
+>
+> This is a **fundamentally domestic** CSAM possession case on a U.S. military base. No international cooperation channel (MLAT, extradition, joint investigation) is implicated. `source_count: 1` is retained per LESSON L19.
 
 ## Canonical Record
 

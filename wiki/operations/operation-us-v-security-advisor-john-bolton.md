@@ -64,11 +64,21 @@ sources:
   - "[[2026-04-18_justice-gov_justice-department-statements-regarding-indictment-former-national-security-advisor-john]]"
 summary: "This domestic-only U.S. follow-on record has been absorbed into the canonical case page [[us-v-security-advisor-john-bolton]]. No visible cross-border mechanism is documented, so it is not treated as a separate international-cooperation operation."
 created: 2026-04-18
-updated: 2026-04-22
+updated: 2026-04-25
 ---
 ## Summary
 
 This domestic-only U.S. follow-on record has been absorbed into the canonical case page [[us-v-security-advisor-john-bolton]]. No visible cross-border mechanism is documented, so it is not treated as a separate international-cooperation operation.
+
+> [!info] Source enrichment — single-source justification (2026-04-25)
+> Searched for additional credible sources covering this defendant/case:
+> - DOJ follow-up press releases (sentencing/conviction): not found (case in pre-trial / not-guilty plea phase)
+> - Parallel federal agency press releases (FBI/DEA/IRS-CI/ICE/HSI): not found beyond standard FBI search-warrant references
+> - Court records (CourtListener / PACER / midpage / justia): docket exists but no narrative IC-cooperation coverage
+> - Local press coverage in District of Maryland: extensive coverage exists but is on the domestic classified-documents prosecution, not international cooperation
+> - Specialized trade press: extensive political coverage exists but no IC angle
+>
+> This is a high-profile but **fundamentally domestic** classified-information mishandling prosecution under 18 U.S.C. § 793. The operation page applies an `informal-cooperation` mechanism placeholder; no international cooperation channel (MLAT, extradition, joint investigation) is implicated. `source_count: 1` is retained per LESSON L19 (do not assert sources that do not exist).
 
 ## Canonical Record
 

@@ -51,11 +51,15 @@ challenges_encountered:
 
 lessons_learned:
 
-source_count: 1
+source_count: 5
 sources:
   - "[[2021-07-30_sdny_okparaeke-fentmaster-dark-web-sentencing]]"
+  - "[[2021-07-30_uspis_dark-web-fentmaster-sentenced-15-years-federal-prison]]"
+  - "[[2021-07-30_patch_fentmaster-sentenced-selling-fentanyl-synthetic-opioids]]"
+  - "[[2021-07-30_columbian_narcotics-dealer-15-years-federal-prison]]"
+  - "[[2021-08-02_postalemployeenetwork_dark-web-narcotics-dealer-shipped-via-usps-15-years]]"
 created: 2026-04-17
-updated: 2026-04-22
+updated: 2026-04-25
 operation_role: follow-on
 parent_operation: ""
 summary: "This domestic-only U.S. follow-on record has been absorbed into the canonical case page [[us-v-okparaeke-dark-web]]. No visible cross-border mechanism is documented, so it is not treated as a separate international-cooperation operation."
@@ -76,6 +80,10 @@ This domestic-only U.S. follow-on record has been absorbed into the canonical ca
 
 ## References
 
-| # | Source | Publisher | Date | URL |
+| # | Title | Publisher | Date | URL |
 |---|---|---|---|---|
 | [1] | Dark Web Narcotics Dealer “Fentmaster,” Responsible For Overdose Death, Sentenced To 15 Years In Prison | US DOJ (Southern District of New York) | 2021-07-30 | https://www.justice.gov/usao-sdny/pr/dark-web-narcotics-dealer-fentmaster-responsible-overdose-death-sentenced-15-years |
+| [2] | Dark Web 'FentMaster' Sentenced to 15 Years Federal Prison | U.S. Postal Inspection Service | 2021-07-30 | https://www.uspis.gov/news/news-article/dark-web-fentmaster-sentenced-to-15-years-federal-prison |
+| [3] | 'Fentmaster' Sentenced For Selling Fentanyl, Synthetic Opioids | Patch | 2021-07-30 | https://patch.com/new-york/midhudsonvalley/fentmaster-sentenced-selling-fentanyl-synthetic-opioids |
+| [4] | Narcotics dealer gets 15 years in federal prison | The Columbian (Vancouver, WA) | 2021-07-30 | https://www.columbian.com/news/2021/jul/30/narcotics-dealer-gets-15-years-in-federal-prison/ |
+| [5] | Dark Web Narcotics Dealer Who Shipped Drugs Via USPS — Sentenced To 15 Years | Postal Employee Network | 2021-08-02 | https://postalemployeenetwork.com/news/2021/08/02/dark-web-narcotics-dealer-who-shipped-drugs-via-usps-responsible-for-overdose-death-sentenced-to-15-years-in-prison/ |

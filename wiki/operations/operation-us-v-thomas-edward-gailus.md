@@ -64,11 +64,21 @@ sources:
   - "[[2026-04-18_justice-gov_repeat-offender-sentenced-10-years-possession-child-sexual-abuse-material]]"
 summary: "This domestic-only U.S. follow-on record has been absorbed into the canonical case page [[us-v-thomas-edward-gailus]]. No visible cross-border mechanism is documented, so it is not treated as a separate international-cooperation operation."
 created: 2026-04-18
-updated: 2026-04-22
+updated: 2026-04-25
 ---
 ## Summary
 
 This domestic-only U.S. follow-on record has been absorbed into the canonical case page [[us-v-thomas-edward-gailus]]. No visible cross-border mechanism is documented, so it is not treated as a separate international-cooperation operation.
+
+> [!info] Source enrichment — single-source justification (2026-04-25)
+> Searched for additional credible sources covering this defendant/case:
+> - DOJ follow-up press releases: the cited OPA release is itself the sentencing announcement (Gailus is the repeat-offender CSAM defendant)
+> - Parallel federal agency press releases (FBI/USPIS/NCMEC/HSI): not found
+> - Court records (CourtListener / PACER): docket exists but no narrative IC coverage
+> - Local press: not found
+> - Specialized trade press: not applicable
+>
+> This is a **fundamentally domestic** CSAM possession case. No international cooperation channel is implicated. `source_count: 1` is retained per LESSON L19.
 
 ## Canonical Record
 

@@ -46,25 +46,29 @@ results:
   other:
     - "Defendant-specific follow-on action derived from [[us-v-christerfer-frick]]"
 edges:
-  []
+
 credibility_index: 4.0
 source_tier: 1
 missing_fields:
-  []
+
 related_cases:
   - "[[us-v-christerfer-frick]]"
 related_operations:
-  []
+
 challenges_encountered:
-  []
+
 lessons_learned:
-  []
-source_count: 1
+
+source_count: 5
 sources:
   - "[[2026-04-18_justice-gov_stanwood-washington-repeat-offender-sentenced-10-years-prison-selling-heroin-and]]"
+  - "[[2024-04-26_king5_stanwood-man-sentenced-over-10-years-prison-repeat-drug-conviction]]"
+  - "[[2024-04-26_fox13seattle_stanwood-man-sentenced-10-years-selling-opioids-dark-web]]"
+  - "[[2024-04-26_heraldnet_stanwood-man-federal-prison-selling-fentanyl-dark-web]]"
+  - "[[2021-05-13_justice-gov_us-v-christerfer-frick-indictment]]"
 summary: "This domestic-only U.S. follow-on record has been absorbed into the canonical case page [[us-v-christerfer-frick]]. No visible cross-border mechanism is documented, so it is not treated as a separate international-cooperation operation."
 created: 2026-04-18
-updated: 2026-04-22
+updated: 2026-04-25
 ---
 ## Summary
 
@@ -76,6 +80,10 @@ This domestic-only U.S. follow-on record has been absorbed into the canonical ca
 
 ## References
 
-| # | Source | Publisher | Date | URL |
+| # | Title | Publisher | Date | URL |
 |---|---|---|---|---|
 | [1] | Stanwood, Washington repeat offender sentenced to 10+ years in prison for selling heroin and fentanyl over the dark web | US DOJ USAO | 2024-04-12 | https://www.justice.gov/usao-wdwa/pr/stanwood-washington-repeat-offender-sentenced-10-years-prison-selling-heroin-and |
+| [2] | Stanwood man sentenced to over 10 years in prison for repeat drug conviction | KING 5 Seattle | 2024-04-26 | https://www.king5.com/article/news/crime/stanwood-man-sentenced-prison-drug-conviction/281-9431c9d1-bc06-4fde-ab9a-8888b6ae6cad |
+| [3] | Stanwood man sentenced 10 years for selling opioids on dark web | FOX 13 Seattle | 2024-04-26 | https://www.fox13seattle.com/news/stanwood-dark-web-heroin-fentanyl |
+| [4] | Stanwood man gets federal prison for selling fentanyl on dark web | HeraldNet | 2024-04-26 | https://www.heraldnet.com/news/stanwood-man-gets-federal-prison-for-selling-fentanyl-on-dark-web/ |
+| [5] | U.S. v. Christerfer Frick Indictment | U.S. Department of Justice | 2021-05-13 | https://www.justice.gov/opa/page/file/1444501/dl |

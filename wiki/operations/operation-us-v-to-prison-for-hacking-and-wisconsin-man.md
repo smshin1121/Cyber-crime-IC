@@ -46,25 +46,29 @@ results:
   other:
     - "Defendant-specific follow-on action derived from [[us-v-to-prison-for-hacking-and-wisconsin-man]]"
 edges:
-  []
+
 credibility_index: 4.0
 source_tier: 1
 missing_fields:
-  []
+
 related_cases:
   - "[[us-v-to-prison-for-hacking-and-wisconsin-man]]"
 related_operations:
-  []
+
 challenges_encountered:
-  []
+
 lessons_learned:
-  []
-source_count: 1
+
+source_count: 5
 sources:
   - "[[2026-04-18_justice-gov_wisconsin-man-sentenced-prison-hacking-fantasy-sports-and-betting-website]]"
+  - "[[2024-02-01_securityweek_draftkings-hacker-sentenced-18-months-prison]]"
+  - "[[2024-01-31_bloomberg_draftkings-hacker-sentenced-18-months-600k-theft]]"
+  - "[[2024-02-02_washingtonpost_teen-draftkings-hacker-sentenced-18-month-jail-term]]"
+  - "[[2023-05-18_doj_us-v-garrison-23-cr-597-lak-sdny-case-page]]"
 summary: "This domestic-only U.S. follow-on record has been absorbed into the canonical case page [[us-v-to-prison-for-hacking-and-wisconsin-man]]. No visible cross-border mechanism is documented, so it is not treated as a separate international-cooperation operation."
 created: 2026-04-18
-updated: 2026-04-22
+updated: 2026-04-25
 ---
 ## Summary
 
@@ -76,6 +80,10 @@ This domestic-only U.S. follow-on record has been absorbed into the canonical ca
 
 ## References
 
-| # | Source | Publisher | Date | URL |
+| # | Title | Publisher | Date | URL |
 |---|---|---|---|---|
 | [1] | Wisconsin Man Sentenced To Prison For Hacking Fantasy Sports And Betting Website | US DOJ USAO | 2024-01-31 | https://www.justice.gov/usao-sdny/pr/wisconsin-man-sentenced-prison-hacking-fantasy-sports-and-betting-website |
+| [2] | DraftKings Hacker Sentenced to 18 Months in Prison | SecurityWeek | 2024-02-01 | https://www.securityweek.com/draftkings-hacker-sentenced-to-18-months-in-prison/ |
+| [3] | DraftKings Hacker Sentenced to 18 Months Over $600,000 Theft | Bloomberg | 2024-01-31 | https://www.bloomberg.com/news/articles/2024-01-31/draftkings-hacker-sentenced-to-18-months-over-600-000-attack |
+| [4] | Teen DraftKings hacker sentenced to 18-month jail term | Washington Post | 2024-02-02 | https://www.washingtonpost.com/sports/2024/02/02/draftkings-hacker-sentenced-jail/ |
+| [5] | US v. Garrison, 23-CR-597 (LAK) — SDNY case page | U.S. Attorney's Office, SDNY | 2023-05-18 | https://www.justice.gov/usao-sdny/us-v-garrison-23-cr-597-lak |

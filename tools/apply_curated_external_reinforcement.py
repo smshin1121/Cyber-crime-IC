@@ -3320,6 +3320,566 @@ CURATED: dict[str, dict[str, Any]] = {
             "2024-02-05_observer-reporter_washington-man-sentenced-to-prison-after-pleading-guilty-federal-cyberstalking",
         ],
     },
+    "operation-us-v-brian-richard-farrell": {
+        "sources": [
+            "2016-06-03_justice-gov_united-states-v-brian-richard-farrell",
+            "2016-06-03_fbi-seattle_key-player-silk-road-20-sentenced-eight-years-prison",
+            "2016-06-03_ice-gov_key-figure-silk-road-drug-distribution-scheme-sentenced-8-years-prison",
+            "2016-06-06_securityweek_silk-road-20-admin-sentenced-8-years-prison",
+            "2016-06-07_sophos_silk-road-20-deputy-sentenced-8-years-jail",
+        ],
+    },
+    "operation-two-estonian-citizens-arrested-in-575-million-cryptocurrency-fraud-and-money-laundering-scheme": {
+        "sources": [
+            "2026-04-18_justice-gov_two-estonian-citizens-arrested-575-million-cryptocurrency-fraud-and-money-laundering",
+            "2022-11-21_estonianworld_two-estonian-citizens-arrested-suspected-usd-575-million-cryptocurrency-fraud",
+            "2024-05-30_fox13seattle_2-estonians-indicted-600m-crypto-scheme-face-seattle-court",
+            "2024-05-30_fortune_two-39-year-old-estonian-men-alleged-kingpins-half-billion-fraud-us-investors",
+            "2025-04-18_coindesk_feds-mistakenly-order-estonian-hashflare-fraudsters-to-self-deport-ahead-of-sentencin",
+        ],
+    },
+    "operation-us-v-california-teenager": {
+        "sources": [
+            "2026-04-18_justice-gov_california-teenager-pleads-guilty-florida-making-hundreds-swatting-calls-across-united",
+            "2024-11-13_justice-gov-mdfl_california-teenager-pleads-guilty-florida-making-hundreds-swatting-calls-across-unite",
+            "2024-11-14_cnn_california-teen-pleads-guilty-making-hundreds-swatting-calls-across-us",
+            "2025-02-13_nbcnews_teen-serial-swatter-made-hundreds-fake-threats-sentenced-4-years-prison",
+            "2025-02-13_justice-gov-mdfl_california-teenager-sentenced-48-months-nationwide-swatting-spree",
+        ],
+    },
+    "operation-us-v-charging-involvement": {
+        "sources": [
+            "2026-04-18_justice-gov_brazilian-extradited-switzerland-united-states-face-indictment-charging-involvement",
+            "2025-02-21_irs-gov-ci_brazilian-extradited-from-switzerland-to-the-united-states-290m-cryptocurrency-fraud",
+            "2025-02-21_legalnewsline_brazilian-extradited-from-switzerland-over-alleged-290m-cryptocurrency-ponzi-scheme",
+            "2025-02-22_tradersunion_brazilian-bitcoin-scam-operator-extradited-switzerland-amid-sec-probe",
+            "2025-02-22_ainvest_brazilian-mastermind-extradited-us-over-29b-crypto-scam",
+        ],
+    },
+    "operation-us-v-ephraim-rosenberg": {
+        "sources": [
+            "2026-04-18_justice-gov_brooklyn-ny-consultant-amazon-sellers-sentenced-home-detention-and-fine-role-bribery",
+            "2023-07-14_cnbc_amazon-seller-consultant-avoids-jail-in-employee-bribery-scheme",
+            "2023-07-14_ecommercebytes_from-crockdictment-to-home-confinement-consultant-sentenced-in-amazon-bribery-scheme",
+            "2023-07-08_ecommercebytes_more-details-about-consultants-role-in-amazon-bribery-scheme",
+            "2023-09-29_seattletimes_linchpin-amazon-marketplace-bribery-scheme-sentenced-seattle",
+        ],
+    },
+    "operation-us-v-hadis-nuhanovic": {
+        "sources": [
+            "2026-04-18_justice-gov_amazon-seller-and-consultant-sentenced-20-months-prison-bribery-scheme-and-illegal",
+            "2023-09-29_seattletimes_linchpin-amazon-marketplace-bribery-scheme-sentenced-seattle",
+            "2023-09-29_kiro7_amazon-seller-sentenced-bribery-scheme-obtain-inside-info-amazon-employees",
+            "2020-09-18_komonews_charge-6-sellers-bribed-amazon-employees-to-gain-unfair-advantage-worth-100-million",
+            "2020-09-21_infosecurity-magazine_six-indicted-for-bribing-amazon-workers-in-100m-scheme",
+        ],
+    },
+    "operation-us-v-fatiu-ismaila-lawal-and-sakiru-olanrewaju-ambali": {
+        "sources": [
+            "2026-04-18_justice-gov_second-canadian-resident-pleads-guilty-massive-covid-19-benefit-fraud-scheme",
+            "2025-04-15_irs-gov-ci_nigerian-who-defrauded-us-pandemic-aid-programs-1-million-sentenced-54-months",
+            "2025-04-15_justice-gov-wdwa_nigerian-defrauded-us-pandemic-aid-programs-1-million-sentenced-54-months-prison",
+            "2024-08-13_justice-gov-wdwa_nigerian-citizen-extradited-from-germany-face-charges-over-attempt-25-million",
+            "2024-04-17_dol-oig_dol-oig-second-canadian-resident-pleads-guilty-massive-covid-19-benefit-fraud",
+        ],
+    },
+    "operation-us-v-allen-d-lint": {
+        "sources": [
+            "2018-12-03_justice-gov_united-states-v-allen-d-lint",
+            "2018-12-04_ice-gov_hsi-efforts-help-put-dark-web-drug-dealer-prison",
+            "2018-12-04_justice-gov-wdwa_dark-web-heroin-dealer-sentenced-5-years-prison",
+            "2018-12-04_dea-gov_dea-dark-web-internet-trafficking-topic",
+            "2018-12-03_justia_united-states-v-allen-lint-case-docket-reference",
+        ],
+    },
+    "operation-us-v-christopher-scott-crawford": {
+        "sources": [
+            "2026-04-18_justice-gov_everett-man-indicted-cyberstalking-and-threatening-former-romantic-partner",
+            "2023-09-15_justice-gov-wdwa_everett-washington-man-convicted-cyberstalking-and-making-interstate-threats",
+            "2022-06-03_fox13seattle_everett-man-indicted-cyberstalking-threatening-former-partner-3-years",
+            "2023-09-15_kiro7_prison-sentence-everett-man-cyberstalking-interstate-threats-case",
+            "2023-09-15_heraldnet_everett-man-sentenced-6-years-cyberstalking-ex-wife",
+        ],
+    },
+    "operation-us-v-haahr-albert-dark-web": {
+        "sources": [
+            "2025-09-26_wdwa_haahr-albert-dark-web-plea",
+            "2024-09-26_kiro7_dark-web-drug-dealers-pierce-county-admit-distributing-100000-fentanyl-pills",
+            "2024-09-26_mynorthwest_pierce-county-drug-dealers-admit-dark-web-fentanyl-sales",
+            "2025-03-21_justice-gov-wdwa_puyallup-man-sentenced-42-months-running-dark-web-fentanyl-marketplace",
+            "2025-03-21_kiro7_puyallup-man-sentenced-distributing-100k-fentanyl-pills-disguised-oxycodone-dark-web",
+        ],
+    },
+    "operation-us-v-clayton-harker": {
+        "sources": [
+            "2026-04-18_justice-gov_bellingham-man-sentenced-12-years-prison-attempted-enticement-minor-and-possession",
+            "2022-12-21_justice-gov-wdwa_bellingham-washington-man-arrested-charged-federally-sexual-abuse-children",
+            "2024-02-23_fox13seattle_bellingham-man-sentenced-12-years-trying-sexually-assault-8-year-old-girl",
+            "2024-02-23_kiro7_extremely-troubling-bellingham-sex-offender-sentenced-12-years",
+            "2024-02-23_whatcom-news_bellingham-man-sentenced-12-years-in-prison-after-being",
+        ],
+    },
+    "operation-us-v-ashton-connor-garcia": {
+        "sources": [
+            "2026-04-18_justice-gov_bremerton-washington-man-pleads-guilty-four-federal-felonies-connected-his-extensive",
+            "2024-04-26_justice-gov-wdwa_bremerton-washington-man-sentenced-3-years-prison-extensive-swatting-campaign",
+            "2023-04-21_justice-gov-wdwa_bremerton-washington-man-indicted-three-month-swatting-campaign-threatened-victims-us",
+            "2024-04-26_komonews_cyber-terrorist-reported-fake-911-calls-us-canada-sentenced-prison",
+            "2024-01-26_king5_bremerton-man-pleads-guilty-multi-state-swatting-campaign",
+        ],
+    },
+    "operation-us-v-andy-peter-vongdala": {
+        "sources": [
+            "2026-04-18_justice-gov_auburn-washington-man-charged-federally-drug-distribution-and-illegal-firearms",
+            "2024-05-01_fox13seattle_wa-man-charged-drug-trafficking-illegal-guns",
+            "2024-05-01_kiro7_auburn-man-arrested-charged-possessing-135-pounds-mdma-other-drugs-weapons",
+            "2024-05-01_auburn-reporter_renton-police-bust-auburn-man-federal-drug-case",
+            "2024-05-01_mynorthwest_auburn-man-arrested-charged-135-pounds-mdma-other-drugs-weapons",
+        ],
+    },
+    "operation-us-v-anthony-raymond-dodd": {
+        "sources": [
+            "2026-04-18_justice-gov_three-defendants-significant-gun-and-drug-involved-cases-sentenced-prison",
+            "2025-07-25_king5_seattle-man-convicted-bringing-fentanyl-loaded-gun-probation-check-in",
+            "2025-07-25_kiro7_seattle-man-caught-fentanyl-gun-doc-meeting-convicted",
+            "2024-09-19_mynorthwest_judges-give-prison-terms-3-western-wa-drug-traffickers",
+            "2025-07-25_wawd-uscourts_us-v-anthony-raymond-dodd-case-docket-reference",
+        ],
+    },
+    "operation-us-v-chandler-bennett": {
+        "sources": [
+            "2026-04-18_justice-gov_second-defendant-sentenced-7-years-prison-drug-trafficking-rvs-near-state-park",
+            "2024-09-09_dea-gov_pierce-county-man-sentenced-seven-years-prison-drug-gun-crimes",
+            "2024-09-09_mynorthwest_king-county-woman-sentenced-7-years-drug-lab",
+            "2024-09-09_king5_king-county-man-woman-sentenced-federal-drug-investigation",
+            "2024-09-09_kiro7_king-county-woman-sentenced-drug-lab-firearms-rv-near-state-park",
+        ],
+    },
+    "operation-us-v-christerfer-frick": {
+        "sources": [
+            "2026-04-18_justice-gov_stanwood-washington-repeat-offender-sentenced-10-years-prison-selling-heroin-and",
+            "2024-04-26_king5_stanwood-man-sentenced-over-10-years-prison-repeat-drug-conviction",
+            "2024-04-26_fox13seattle_stanwood-man-sentenced-10-years-selling-opioids-dark-web",
+            "2024-04-26_heraldnet_stanwood-man-federal-prison-selling-fentanyl-dark-web",
+            "2021-05-13_justice-gov_us-v-christerfer-frick-indictment",
+        ],
+    },
+    "operation-us-v-daniel-faix": {
+        "sources": [
+            "2026-04-18_justice-gov_bellingham-washington-drug-dealer-sentenced-ten-years-prison-distributing-fentanyl",
+            "2024-03-29_dea-gov_bellingham-washington-drug-dealer-sentenced-10-years-prison-distributing-fentanyl-fir",
+            "2024-03-29_fox13seattle_bellingham-drug-dealer-sentenced-10-years-prison",
+            "2024-03-29_yahoo-news_bellingham-man-sentenced-role-drug-ring-trafficked-fentanyl-whatcom-county",
+            "2024-01-05_dea-gov_seattle-man-distributed-thousands-fentanyl-pills-whatcom-county-sentenced-six-years",
+        ],
+    },
+    "operation-us-v-dustin-carl-wurges-and-jonathan-mayhall": {
+        "sources": [
+            "2026-04-18_justice-gov_final-defendant-sentenced-ten-years-prison-fentanyl-distribution-scheme",
+            "2024-03-04_fox13seattle_drug-traffickers-ties-wa-aryan-prison-gang-sentenced",
+            "2024-03-04_chronline_final-defendant-sentenced-10-years-prison-fentanyl-scheme",
+            "2024-03-04_fbi-seattle_persistent-armed-fentanyl-dealer-gets-20-year-prison-sentence",
+            "2025-08-20_justice-gov-wdwa_leader-prolific-fentanyl-trafficking-ring-sentenced-20-years-prison",
+        ],
+    },
+    "operation-us-v-frank-lozano-graves": {
+        "sources": [
+            "2026-04-18_justice-gov_renton-washington-man-who-worked-his-son-deal-drugs-and-launder-proceeds-sentenced-5",
+            "2025-02-26_fox13seattle_renton-wa-man-sentenced-5-years-money-laundering-family-drug-ring",
+            "2025-02-26_renton-reporter_renton-man-sentenced-five-years-drug-dealing",
+            "2025-02-26_federal-newswire_renton-man-sentenced-aryan-linked-drug-trafficking-operation",
+            "2023-01-10_justice-gov-wdwa_renton-washington-resident-sentenced-ten-years-prison-drug-trafficking-stolen-handgun",
+        ],
+    },
+    "operation-us-v-hector-duran-aldaco": {
+        "sources": [
+            "2026-04-18_justice-gov_thirteen-people-indicted-drug-trafficking-conspiracy-involving-fentanyl",
+            "2024-05-14_dea-gov_thirteen-people-indicted-drug-trafficking-conspiracy-involving-fentanyl-meth-cocaine",
+            "2024-05-14_fox13seattle_13-indicted-western-wa-drug-trafficking-conspiracy",
+            "2024-05-14_komonews_federal-agents-bust-major-narcotics-ring-seizing-deadly-drugs-indicting-13-people",
+            "2024-05-15_hoodline_feds-indict-13-suspected-western-washington-drug-trafficking-ring-fentanyl-firearms",
+        ],
+    },
+    "operation-thurston-county-man-caught-twice-with-drugs-and-firearms-sentenced-to-7-years-in-prison": {
+        "sources": [
+            "2026-04-18_justice-gov_thurston-county-man-caught-twice-drugs-and-firearms-sentenced-7-years-prison",
+            "2024-11-18_dea-gov_thurston-county-man-caught-twice-drugs-firearms-sentenced-7-years-prison",
+            "2024-11-18_chronline_rochester-man-caught-twice-drugs-firearms-gets-seven-years-prison",
+            "2025-01-15_chronline_rochester-man-caught-twice-drugs-firearms-sentenced-seven-years-us-district-court",
+            "2024-08-13_justice-gov-wdwa_thurston-county-man-sentenced-78-months-prison-possessing-distribution-amounts",
+        ],
+    },
+    "operation-twelve-people-charged-in-two-indictments-following-investigation-of-drug-trafficking-ring": {
+        "sources": [
+            "2026-04-18_justice-gov_twelve-people-charged-two-indictments-following-investigation-drug-trafficking-ring",
+            "2024-11-06_justice-gov-wdwa_twelve-indicted-connection-violent-drug-trafficking-gang-distributed-fentanyl-seattle",
+            "2024-11-06_dhs-hsi_hsi-seattle-operation-12-indictments-violent-drug-trafficking-organization",
+            "2024-09-19_justice-gov-wdwa_twelve-arrested-takedown-north-sound-drug-trafficking-organization",
+            "2024-10-03_justice-gov-wdwa_fourteen-indicted-multi-state-drug-trafficking-conspiracy-lummi-nation",
+        ],
+    },
+    "operation-two-drug-traffickers-sentenced-to-lengthy-prison-terms-in-case-arising-from-investigation-of-aryan-family-pris": {
+        "sources": [
+            "2026-04-18_justice-gov_two-drug-traffickers-sentenced-lengthy-prison-terms-case-arising-investigation-aryan",
+            "2024-12-16_dea-gov_second-in-command-drug-distribution-organization-tied-aryan-prison-gang-sentenced-12",
+            "2024-12-16_justice-gov-wdwa_second-in-command-drug-distribution-organization-tied-aryan-prison-gang-sentenced-12",
+            "2023-03-27_justice-gov-wdwa_drug-ring-tied-aryan-prison-gang-indicted-24-federal-arrests",
+            "2024-09-13_kptv_aryan-gang-member-washington-sentenced-prison-drug-trafficking",
+        ],
+    },
+    "operation-two-members-of-multi-state-drug-trafficking-rings-linked-to-aryan-prison-gangs-sentenced-to-lengthy-prison-ter": {
+        "sources": [
+            "2026-04-18_justice-gov_two-members-multi-state-drug-trafficking-rings-linked-aryan-prison-gangs-sentenced",
+            "2025-01-31_dea-gov_two-members-multi-state-drug-trafficking-rings-linked-aryan-prison-gangs",
+            "2025-01-31_komonews_two-washington-residents-linked-aryan-prison-gangs-sentenced-drug-trafficking",
+            "2025-01-31_chronline_two-washington-residents-worked-aryan-gangs-sell-drugs-off-prison",
+            "2025-02-01_thatmomentin_pierce-county-residents-sentenced-role-aryan-gang-drug-trafficking-ring",
+        ],
+    },
+    "operation-us-v-eric-smith-and-sara-thompson": {
+        "sources": [
+            "2026-04-18_justice-gov_two-members-multi-state-drug-trafficking-rings-linked-aryan-prison-gangs-sentenced",
+            "2025-01-31_dea-gov_two-members-multi-state-drug-trafficking-rings-linked-aryan-prison-gangs",
+            "2025-01-31_komonews_two-washington-residents-linked-aryan-prison-gangs-sentenced-drug-trafficking",
+            "2025-01-31_chronline_two-washington-residents-worked-aryan-gangs-sell-drugs-off-prison",
+            "2024-12-16_justice-gov-wdwa_second-in-command-drug-distribution-organization-tied-aryan-prison-gang-sentenced-12",
+        ],
+    },
+    "operation-iranian-man-pleaded-guilty-to-role-in-robbinhood-ransomware": {
+        "sources": [
+            "2026-04-18_justice-gov_iranian-man-pleaded-guilty-role-robbinhood-ransomware",
+            "2025-05-27_securityweek_iranian-man-pleads-guilty-baltimore-ransomware-attack",
+            "2025-05-27_cyberscoop_iranian-man-pleads-guilty-robbinhood-ransomware-scheme",
+            "2025-05-27_therecord_iranian-pleads-guilty-baltimore-ransomware-attack",
+            "2025-05-27_thehackernews_iranian-hacker-pleads-guilty-19m-robbinhood-baltimore",
+        ],
+    },
+    "operation-us-v-phobos-ransomware-affiliates": {
+        "sources": [
+            "2026-04-18_justice-gov_phobos-ransomware-affiliates-arrested-coordinated-international-disruption",
+            "2025-02-10_europol_key-figures-phobos-8base-ransomware-arrested-international-crackdown",
+            "2025-02-11_bleepingcomputer_poland-arrests-suspect-phobos-ransomware-operation",
+            "2025-02-10_therecord_phobos-ransomware-takedown-arrests-russian-nationals",
+            "2025-02-10_databreaches_phobos-ransomware-affiliates-arrested-coordinated-international-disruption",
+        ],
+    },
+    "operation-us-v-banmeet-singh-dark-web": {
+        "sources": [
+            "2024-01-26_opa_banmeet-singh-dark-web-vendor-plea",
+            "2024-01-26_irs_defendant-pleads-guilty-dark-web-narcotics-150m-cryptocurrency-seizure",
+            "2024-01-26_infosecurity-magazine_dark-web-drugs-vendor-150m-guilty-plea",
+            "2024-04-20_indiablooms_indian-national-banmeet-singh-sentenced-five-years",
+            "2024-01-26_tribuneindia_uttarakhand-man-pleads-guilty-dark-web-drugs-150m-crypto",
+        ],
+    },
+    "operation-us-v-catalin-dragomir": {
+        "sources": [
+            "2026-04-18_justice-gov_romanian-national-pleads-guilty-selling-access-networks-oregon-state-government-office-and",
+            "2026-02-20_securityweek_romanian-hacker-pleads-guilty-selling-access-us-state-network",
+            "2026-02-20_statescoop_oregon-access-broker-pleads-guilty-inthematrix1",
+            "2026-02-20_securityaffairs_romanian-hacker-pleads-guilty-oregon-state-networks",
+            "2026-02-20_koin_romanian-hacker-pleads-guilty-oregon-state-computer-breach",
+        ],
+    },
+    "operation-us-v-igor-turashev": {
+        "sources": [
+            "2019-12-05_justice-gov_russian-national-charged-with-decade-long-series-of-hacking-and-bank-fraud",
+            "2019-12-05_treasury_sanctions-russia-based-evil-corp-tri-lateral-uk-australia",
+            "2019-12-05_aljazeera_russian-evil-corp-hackers-charged-100m-cyber-theft",
+            "2019-12-05_bleepingcomputer_evil-corp-hackers-charged-stealing-100-million",
+            "2019-12-05_npr_russian-hacking-group-evil-corp-charged-bank-fraud",
+        ],
+    },
+    "operation-russian-national-charged-with-decade-long-series-of-hacking-and-bank-fraud-offenses-resulting-in-tens-of-milli": {
+        "sources": [
+            "2019-12-05_justice-gov_russian-national-charged-with-decade-long-series-of-hacking-and-bank-fraud",
+            "2019-12-05_treasury_sanctions-russia-based-evil-corp-tri-lateral-uk-australia",
+            "2019-12-05_aljazeera_russian-evil-corp-hackers-charged-100m-cyber-theft",
+            "2019-12-05_bleepingcomputer_evil-corp-hackers-charged-stealing-100-million",
+            "2019-12-05_npr_russian-hacking-group-evil-corp-charged-bank-fraud",
+        ],
+    },
+    "operation-russian-national-charged-with-decade-long-series-of-hacking-and-bank-fraud-offenses-resulting-in-tens-of-milli-2": {
+        "sources": [
+            "2019-12-05_wdpa_yakubets-turashev-dridex-indictment",
+            "2019-12-05_treasury_sanctions-russia-based-evil-corp-tri-lateral-uk-australia",
+            "2019-12-05_aljazeera_russian-evil-corp-hackers-charged-100m-cyber-theft",
+            "2019-12-05_bleepingcomputer_evil-corp-hackers-charged-stealing-100-million",
+            "2019-12-05_npr_russian-hacking-group-evil-corp-charged-bank-fraud",
+        ],
+    },
+    "operation-us-v-bugat-botnet-administrator": {
+        "sources": [
+            "2015-10-13_justice-gov_bugat-botnet-administrator-arrested-and-malware-disabled",
+            "2015-10-13_fbi_bugat-botnet-administrator-arrested-malware-disabled",
+            "2017-03-14_wdpa_moldovan-sentenced-distributing-multifunction-malware-package",
+            "2015-10-13_networkworld_fbi-doj-take-out-10-million-bugat-banking-botnet",
+            "2015-10-13_scmagazine_moldovian-sentenced-stealing-millions-bugat-banking-malware",
+        ],
+    },
+    "operation-us-v-across-four-continents": {
+        "sources": [
+            "2026-04-18_justice-gov_law-enforcement-seize-record-amounts-illegal-drugs-firearms-and-drug-trafficking-proceeds",
+            "2025-05-22_fbi_global-operation-targets-darknet-drug-trafficking",
+            "2025-05-22_ice_dismantle-major-illicit-drug-networks-global-darknet-crackdown",
+            "2025-05-22_hackread_operation-raptor-police-arrests-270-dark-web-vendors",
+            "2025-05-22_trmlabs_operation-raptor-largest-darknet-takedown-history",
+        ],
+    },
+    "operation-foreign-national-sentenced-for-victimizing-u-s-persons-through-cyber-enabled-fraud-schemes": {
+        "sources": [
+            "2023-03-27_doj_okpe-obogo-bec-sentencing",
+            "2023-02-03_usao-az_nigerian-nationals-victimize-us-persons-cyber-enabled-fraud",
+            "2023-03-29_saharareporters_nigerian-jailed-four-years-multi-million-dollar-cybercrime",
+            "2023-03-28_vanguard_nigerian-bags-four-year-jail-1m-cyber-fraud",
+            "2023-02-03_arizonadailyindependent_extradition-arizona-nigerians-plead-guilty-cyber-crimes",
+        ],
+    },
+    "operation-us-v-solomon-ekunke-okpe-and-johnson-uke-obogo": {
+        "sources": [
+            "2023-03-27_justice-gov_united-states-v-solomon-ekunke-okpe-and-johnson-uke-obogo",
+            "2023-02-03_usao-az_nigerian-nationals-victimize-us-persons-cyber-enabled-fraud",
+            "2023-03-29_saharareporters_nigerian-jailed-four-years-multi-million-dollar-cybercrime",
+            "2023-03-28_vanguard_nigerian-bags-four-year-jail-1m-cyber-fraud",
+            "2023-02-03_arizonadailyindependent_extradition-arizona-nigerians-plead-guilty-cyber-crimes",
+        ],
+    },
+    "operation-man-sentenced-for-transnational-cybercrime-enterprise": {
+        "sources": [
+            "2022-05-25_justice-gov_united-states-v-john-telusma",
+            "2022-05-22_thehackernews_new-york-man-sentenced-4-years-transnational-cybercrime",
+            "2022-05-22_securityweek_seventh-member-international-cyber-fraud-ring-sentenced",
+            "2022-05-22_therecord_man-helped-infraud-cybercrime-cartel-credit-cards-sentenced",
+            "2022-05-22_legalreader_darknet-infraud-member-sentenced-cybercrime-case",
+        ],
+    },
+    "operation-foreign-nationals-sentenced-for-roles-in-transnational-cybercrime-enterprise": {
+        "sources": [
+            "2026-04-17_justice-gov_foreign-nationals-sentenced-roles-transnational-cybercrime-enterprise",
+            "2026-04-17_cyberscoop_us-nationals-sentenced-facilitate-north-korea-tech-worker-scheme",
+            "2026-04-17_hstoday_foreign-nationals-sentenced-roles-transnational-cybercrime-enterprise",
+            "2026-04-15_globalsecurity_two-us-nationals-sentenced-dprk-it-worker-5m-revenue",
+            "2026-04-17_ice_foreign-nationals-sentenced-roles-transnational-cybercrime-hsi-las-vegas",
+        ],
+    },
+    "operation-us-v-foreign-nationals": {
+        "sources": [
+            "2026-04-17_justice-gov_foreign-nationals-sentenced-roles-transnational-cybercrime-enterprise",
+            "2026-04-17_cyberscoop_us-nationals-sentenced-facilitate-north-korea-tech-worker-scheme",
+            "2026-04-17_hstoday_foreign-nationals-sentenced-roles-transnational-cybercrime-enterprise",
+            "2026-04-15_globalsecurity_two-us-nationals-sentenced-dprk-it-worker-5m-revenue",
+            "2026-04-17_ice_foreign-nationals-sentenced-roles-transnational-cybercrime-hsi-las-vegas",
+        ],
+    },
+    "operation-justice-department-secures-forfeiture-of-over-5m-of-funds-traceable-to-business-email-compromise-scheme-target": {
+        "sources": [
+            "2026-04-18_justice-gov_justice-department-secures-forfeiture-over-5m-funds-traceable-business-email-compromise",
+            "2025-03-26_secret-service_forfeiture-5m-bec-massachusetts-workers-union",
+            "2025-03-26_usao-ma_forfeiture-5m-bec-massachusetts-workers-union",
+            "2025-03-26_bostonglobe_doj-dorchester-labor-union-5-million-recovered",
+            "2024-06-06_saharareporters_us-files-forfeiture-5million-fraud-traced-nigeria-china",
+        ],
+    },
+    "operation-orange-county-man-sentenced-to-75-months-for-distributing-methamphetamine-and-selling-illegal-pills-on-the-dar": {
+        "sources": [
+            "2026-04-18_justice-gov_orange-county-man-sentenced-75-months-distributing-methamphetamine-and-selling-illegal",
+            "2025-01-22_hoodline_dark-web-drug-dealer-tuxedo-park-sentenced-75-months-southern-district-new-york",
+            "2025-01-22_dailyvoice_dark-web-pill-factory-leader-tuxedo-park-time-prison",
+            "2025-01-22_news12-westchester_orange-county-man-75-months-meth-dark-web-drug-sales",
+            "2024-08-26_casemine_united-states-v-weiland-7-24-cr-00502-cs-sdny-judgment",
+        ],
+    },
+    "operation-us-v-kyle-weiland": {
+        "sources": [
+            "2026-04-18_justice-gov_orange-county-man-sentenced-75-months-distributing-methamphetamine-and-selling-illegal",
+            "2025-01-22_hoodline_dark-web-drug-dealer-tuxedo-park-sentenced-75-months-southern-district-new-york",
+            "2025-01-22_dailyvoice_dark-web-pill-factory-leader-tuxedo-park-time-prison",
+            "2025-01-22_news12-westchester_orange-county-man-75-months-meth-dark-web-drug-sales",
+            "2024-08-26_casemine_united-states-v-weiland-7-24-cr-00502-cs-sdny-judgment",
+        ],
+    },
+    "operation-prominent-global-cryptocurrency-exchange-kucoin-and-two-of-its-founders-criminally-charged-with-bank-secrecy-a": {
+        "sources": [
+            "2026-04-18_justice-gov_prominent-global-cryptocurrency-exchange-kucoin-and-two-its-founders-criminally",
+            "2024-03-26_fortune_doj-accuses-kucoin-money-laundering-criminal-charges",
+            "2024-03-26_cointelegraph_us-justice-department-charges-kucoin-money-laundering",
+            "2024-03-26_occrp_us-doj-announces-historic-336b-crypto-seizure-kucoin",
+            "2024-04-01_moneylaunderingnews_kucoin-founders-charged-money-transmitter-futures-merchant",
+        ],
+    },
+    "operation-us-v-with-bank-secrecy-act-and-of-its-founders-criminally": {
+        "sources": [
+            "2026-04-18_justice-gov_prominent-global-cryptocurrency-exchange-kucoin-and-two-its-founders-criminally",
+            "2024-03-26_fortune_doj-accuses-kucoin-money-laundering-criminal-charges",
+            "2024-03-26_cointelegraph_us-justice-department-charges-kucoin-money-laundering",
+            "2024-03-26_occrp_us-doj-announces-historic-336b-crypto-seizure-kucoin",
+            "2024-04-01_moneylaunderingnews_kucoin-founders-charged-money-transmitter-futures-merchant",
+        ],
+    },
+    "operation-ross-ulbricht-a-k-a-dread-pirate-roberts-sentenced-in-manhattan-federal-court-to-life-in-prison": {
+        "sources": [
+            "2015-05-29_justice-gov_united-states-v-ulbricht-sentencing",
+            "2015-05-29_fbi-gov_ross-ulbricht-sentenced-to-life-in-prison",
+            "2015-05-29_ice-gov_ross-ulbricht-sentenced-to-life-in-federal-prison",
+            "2015-05-29_cnn-money_silk-road-ross-ulbricht-prison-sentence",
+            "2015-05-29_npr_silk-road-founder-sentenced-life-prison",
+            "2015-05-29_time_silkroad-founder-ross-ulbricht-life-prison-crimes",
+            "2015-05-30_aljazeera_silk-road-website-founder-jailed-life-new-york",
+        ],
+    },
+    "operation-third-defendant-pleads-guilty-to-hacking-fantasy-sports-and-betting-website": {
+        "sources": [
+            "2026-04-18_justice-gov_third-defendant-pleads-guilty-hacking-fantasy-sports-and-betting-website",
+            "2025-12-12_securityweek_third-draftkings-hacker-pleads-guilty",
+            "2025-12-12_infosecurity-magazine_third-defendant-pleads-guilty-fantasy-sports-betting-hack",
+            "2025-12-16_tribuna_third-defendant-pleads-guilty-draftkings-credential-stuffing-hacking",
+            "2023-05-18_doj_us-v-garrison-23-cr-597-lak-sdny-case-page",
+        ],
+    },
+    "operation-us-v-third-defendant": {
+        "sources": [
+            "2026-04-18_justice-gov_third-defendant-pleads-guilty-hacking-fantasy-sports-and-betting-website",
+            "2025-12-12_securityweek_third-draftkings-hacker-pleads-guilty",
+            "2025-12-12_infosecurity-magazine_third-defendant-pleads-guilty-fantasy-sports-betting-hack",
+            "2025-12-16_tribuna_third-defendant-pleads-guilty-draftkings-credential-stuffing-hacking",
+            "2023-05-18_doj_us-v-garrison-23-cr-597-lak-sdny-case-page",
+        ],
+    },
+    "operation-u-k-citizen-extradited-and-pleads-guilty-to-cybercrime-offenses": {
+        "sources": [
+            "2026-04-18_justice-gov_uk-citizen-extradited-and-pleads-guilty-cybercrime-offenses",
+            "2023-05-09_justice-gov-opa_uk-citizen-extradited-pleads-guilty-cyber-crime-offenses",
+            "2023-05-09_darkreading_twitter-hacker-cops-cybercrimes-extradited-us-trial",
+            "2023-05-10_cnn_uk-citizen-extradited-us-pleads-guilty-2020-twitter-hack",
+            "2023-06-23_krebsonsecurity_uk-cyber-thug-plugwalkjoe-gets-5-years-prison",
+        ],
+    },
+    "operation-u-k-citizen-sentenced-to-five-years-in-prison-for-cybercrime-offenses": {
+        "sources": [
+            "2026-04-18_justice-gov_uk-citizen-sentenced-five-years-prison-cybercrime-offenses",
+            "2023-06-23_justice-gov-ndca_uk-citizen-sentenced-five-years-cybercrime-offenses",
+            "2023-06-23_krebsonsecurity_uk-cyber-thug-plugwalkjoe-gets-5-years-prison",
+            "2023-06-23_techcrunch_hacker-responsible-2020-twitter-breach-sentenced-prison",
+            "2023-05-10_cnn_uk-citizen-extradited-us-pleads-guilty-2020-twitter-hack",
+        ],
+    },
+    "operation-us-v-to-five-years-in": {
+        "sources": [
+            "2026-04-18_justice-gov_uk-citizen-sentenced-five-years-prison-cybercrime-offenses",
+            "2023-06-23_justice-gov-ndca_uk-citizen-sentenced-five-years-cybercrime-offenses",
+            "2023-06-23_krebsonsecurity_uk-cyber-thug-plugwalkjoe-gets-5-years-prison",
+            "2023-06-23_techcrunch_hacker-responsible-2020-twitter-breach-sentenced-prison",
+            "2023-05-10_cnn_uk-citizen-extradited-us-pleads-guilty-2020-twitter-hack",
+        ],
+    },
+    "operation-us-v-castro-dark-web": {
+        "sources": [
+            "2020-10-08_sdny_richard-castro-dark-web-sentencing",
+            "2020-10-09_arinsa_dark-web-dealer-laundered-millions-buying-zimbabwe-bank-notes",
+            "2020-10-10_deepwebmarketsreview_alphabay-vendor-chemsusa-sentenced-17-years-prison",
+            "2019-07-29_thenextweb_fentanyl-dealer-forfeit-4m-bitcoin-quadrillions-bank-notes",
+            "2020-10-08_darknetstats_alphabay-dream-market-vendor-chemsusa-sentenced-17-5-years",
+        ],
+    },
+    "operation-us-v-following-seizure-and-forfeiture-and-dark-web-fraud-defendant": {
+        "sources": [
+            "2026-04-18_justice-gov_silk-road-dark-web-fraud-defendant-sentenced-following-seizure-and-forfeiture-over-34",
+            "2023-04-14_bloomberg_bitcoin-thief-once-worth-3-4-billion-gets-year-prison",
+            "2023-04-14_fortune_theft-bitcoin-3-billion-leads-one-year-prison-sentence-james-zhong",
+            "2023-04-14_cointelegraph_individual-behind-3-4b-silk-road-bitcoin-theft-sentenced",
+            "2023-10-17_cnbc_secret-life-jimmy-zhong-stole-lost-3-billion",
+        ],
+    },
+    "operation-us-v-hugh-brian-haney": {
+        "sources": [
+            "2020-02-12_justice-gov_united-states-v-hugh-brian-haney",
+            "2020-02-12_techspot_silk-road-drug-dealer-pleads-guilty-laundering-19-million-bitcoin",
+            "2020-02-12_occrp_dark-web-drug-trafficker-pleads-guilty-money-laundering",
+            "2020-02-12_coingeek_silk-road-seller-pleads-guilty-money-laundering-via-btc",
+            "2020-02-12_coinrivet_ohio-man-pleads-guilty-laundering-19m-bitcoin",
+        ],
+    },
+    "operation-us-v-in-manhattan-federal-court": {
+        "sources": [
+            "2019-07-19_justice-gov_irish-man-who-helped-operate-silk-road-sentenced",
+            "2019-07-26_thejournalie_irish-man-sentenced-six-years-us-prison-silk-road-narcotics-conspiracy",
+            "2019-07-25_thehackernews_silk-road-admin-sentenced-78-months-prison-drug-trafficking",
+            "2019-07-26_thenextweb_silk-road-site-admin-extradited-78-month-prison-sentence",
+            "2019-07-25_irishcentral_gary-davis-sentenced-dark-web-silk-road-involvement",
+        ],
+    },
+    "operation-us-v-okparaeke-dark-web": {
+        "sources": [
+            "2021-07-30_sdny_okparaeke-fentmaster-dark-web-sentencing",
+            "2021-07-30_uspis_dark-web-fentmaster-sentenced-15-years-federal-prison",
+            "2021-07-30_patch_fentmaster-sentenced-selling-fentanyl-synthetic-opioids",
+            "2021-07-30_columbian_narcotics-dealer-15-years-federal-prison",
+            "2021-08-02_postalemployeenetwork_dark-web-narcotics-dealer-shipped-via-usps-15-years",
+        ],
+    },
+    "operation-us-v-with-selling-fentanyl-and-and-father-and-son": {
+        "sources": [
+            "2026-04-18_justice-gov_father-and-son-charged-selling-fentanyl-and-oxycodone-dark-web",
+            "2017-08-23_newsweek_fentanyl-father-son-new-york-city-dark-web-drugs-arrest",
+            "2017-08-23_nbcnewyork_staten-island-father-son-pleads-guilty-selling-fentanyl-oxycodone-dark-web",
+            "2017-08-23_amny_staten-island-father-son-sold-fentanyl-oxycodone-dark-web",
+            "2017-08-23_ibtimes-uk_fentanyl-family-father-son-charged-selling-deadly-opioid-dark-web",
+        ],
+    },
+    "operation-wisconsin-man-charged-with-hacking-fantasy-sports-and-betting-website": {
+        "sources": [
+            "2026-04-18_justice-gov_wisconsin-man-charged-hacking-fantasy-sports-and-betting-website",
+            "2023-05-18_cnbc_teen-charged-hacking-sports-betting-site-bragged-fraud-is-fun",
+            "2023-05-18_espn_wisconsin-man-18-charged-cyberattack-sportsbook",
+            "2023-05-18_cbsnews_fraud-is-fun-wisconsin-man-charged-hacking-fantasy-sports-betting",
+            "2023-05-19_theregister_teen-court-after-600k-stolen-draftkings-gamblers",
+        ],
+    },
+    "operation-us-v-with-hacking-fantasy-sports-and-wisconsin-man": {
+        "sources": [
+            "2026-04-18_justice-gov_wisconsin-man-charged-hacking-fantasy-sports-and-betting-website",
+            "2023-05-18_cnbc_teen-charged-hacking-sports-betting-site-bragged-fraud-is-fun",
+            "2023-05-18_espn_wisconsin-man-18-charged-cyberattack-sportsbook",
+            "2023-05-18_cbsnews_fraud-is-fun-wisconsin-man-charged-hacking-fantasy-sports-betting",
+            "2023-05-19_theregister_teen-court-after-600k-stolen-draftkings-gamblers",
+        ],
+    },
+    "operation-wisconsin-man-pleads-guilty-to-hacking-fantasy-sports-and-betting-website": {
+        "sources": [
+            "2026-04-18_justice-gov_wisconsin-man-pleads-guilty-hacking-fantasy-sports-and-betting-website",
+            "2023-11-15_cnbc_fraud-is-fun-draftkings-teen-hacker-pleads-guilty",
+            "2023-11-15_nbcnews_draftkings-teen-hacker-fraud-fun-pleads-guilty",
+            "2023-11-16_vegasslotsonline_teen-draftkings-hacker-pleads-guilty-after-theft-600000",
+            "2023-05-18_doj_us-v-garrison-23-cr-597-lak-sdny-case-page",
+        ],
+    },
+    "operation-us-v-wisconsin-man": {
+        "sources": [
+            "2026-04-18_justice-gov_wisconsin-man-pleads-guilty-hacking-fantasy-sports-and-betting-website",
+            "2023-11-15_cnbc_fraud-is-fun-draftkings-teen-hacker-pleads-guilty",
+            "2023-11-15_nbcnews_draftkings-teen-hacker-fraud-fun-pleads-guilty",
+            "2023-11-16_vegasslotsonline_teen-draftkings-hacker-pleads-guilty-after-theft-600000",
+            "2023-05-18_doj_us-v-garrison-23-cr-597-lak-sdny-case-page",
+        ],
+    },
+    "operation-wisconsin-man-sentenced-to-prison-for-hacking-fantasy-sports-and-betting-website": {
+        "sources": [
+            "2026-04-18_justice-gov_wisconsin-man-sentenced-prison-hacking-fantasy-sports-and-betting-website",
+            "2024-02-01_securityweek_draftkings-hacker-sentenced-18-months-prison",
+            "2024-01-31_bloomberg_draftkings-hacker-sentenced-18-months-600k-theft",
+            "2024-02-02_washingtonpost_teen-draftkings-hacker-sentenced-18-month-jail-term",
+            "2023-05-18_doj_us-v-garrison-23-cr-597-lak-sdny-case-page",
+        ],
+    },
+    "operation-us-v-to-prison-for-hacking-and-wisconsin-man": {
+        "sources": [
+            "2026-04-18_justice-gov_wisconsin-man-sentenced-prison-hacking-fantasy-sports-and-betting-website",
+            "2024-02-01_securityweek_draftkings-hacker-sentenced-18-months-prison",
+            "2024-01-31_bloomberg_draftkings-hacker-sentenced-18-months-600k-theft",
+            "2024-02-02_washingtonpost_teen-draftkings-hacker-sentenced-18-month-jail-term",
+            "2023-05-18_doj_us-v-garrison-23-cr-597-lak-sdny-case-page",
+        ],
+    },
 
 }
 

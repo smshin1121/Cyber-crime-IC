@@ -46,25 +46,29 @@ results:
   other:
     - "Defendant-specific follow-on action derived from [[prominent-global-cryptocurrency-exchange-kucoin-and-two-of-its-founders-criminally-charged-with-bank-secrecy-a]]"
 edges:
-  []
+
 credibility_index: 4.0
 source_tier: 1
 missing_fields:
-  []
+
 related_cases:
   - "[[prominent-global-cryptocurrency-exchange-kucoin-and-two-of-its-founders-criminally-charged-with-bank-secrecy-a]]"
 related_operations:
-  []
+
 challenges_encountered:
-  []
+
 lessons_learned:
-  []
-source_count: 1
+
+source_count: 5
 sources:
   - "[[2026-04-18_justice-gov_prominent-global-cryptocurrency-exchange-kucoin-and-two-its-founders-criminally]]"
+  - "[[2024-03-26_fortune_doj-accuses-kucoin-money-laundering-criminal-charges]]"
+  - "[[2024-03-26_cointelegraph_us-justice-department-charges-kucoin-money-laundering]]"
+  - "[[2024-03-26_occrp_us-doj-announces-historic-336b-crypto-seizure-kucoin]]"
+  - "[[2024-04-01_moneylaunderingnews_kucoin-founders-charged-money-transmitter-futures-merchant]]"
 summary: "This domestic-only U.S. follow-on record has been absorbed into the canonical case page [[prominent-global-cryptocurrency-exchange-kucoin-and-two-of-its-founders-criminally-charged-with-bank-secrecy-a]]. No visible cross-border mechanism is documented, so it is not treated as a separate international-cooperation operation."
 created: 2026-04-18
-updated: 2026-04-22
+updated: 2026-04-25
 ---
 ## Summary
 
@@ -76,6 +80,10 @@ This domestic-only U.S. follow-on record has been absorbed into the canonical ca
 
 ## References
 
-| # | Source | Publisher | Date | URL |
+| # | Title | Publisher | Date | URL |
 |---|---|---|---|---|
 | [1] | Prominent Global Cryptocurrency Exchange KuCoin And Two Of Its Founders Criminally Charged With Bank Secrecy Act And Unlicensed Money Transmission Offenses | US DOJ USAO | 2024-03-26 | https://www.justice.gov/usao-sdny/pr/prominent-global-cryptocurrency-exchange-kucoin-and-two-its-founders-criminally |
+| [2] | DOJ accuses crypto exchange KuCoin of money laundering | Fortune Crypto | 2024-03-26 | https://fortune.com/crypto/2024/03/26/kucoin-criminal-crypto-binance-doj-cftc-justice-sdny/ |
+| [3] | US Justice Department charges KuCoin and two founders with violating AML laws | Cointelegraph | 2024-03-26 | https://cointelegraph.com/news/justice-department-charges-kucoin-money-laundering |
+| [4] | US: Crypto Traders Charged With Helping Criminals Launder Billions | OCCRP | 2024-03-26 | https://www.occrp.org/en/news/us-crypto-traders-charged-with-helping-criminals-launder-billions |
+| [5] | KuCoin and Founders Charged with Operating Illegally as Money Transmitter and Futures Commission Merchant | Money Laundering Watch (Ballard Spahr) | 2024-04-01 | https://www.moneylaunderingnews.com/2024/04/kucoin-and-founders-charged-with-operating-illegally-as-money-transmitter-and-futures-commission-merchant/ |

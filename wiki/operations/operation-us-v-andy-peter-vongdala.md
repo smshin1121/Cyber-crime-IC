@@ -46,25 +46,29 @@ results:
   other:
     - "Defendant-specific follow-on action derived from [[us-v-andy-peter-vongdala]]"
 edges:
-  []
+
 credibility_index: 4.0
 source_tier: 1
 missing_fields:
-  []
+
 related_cases:
   - "[[us-v-andy-peter-vongdala]]"
 related_operations:
-  []
+
 challenges_encountered:
-  []
+
 lessons_learned:
-  []
-source_count: 1
+
+source_count: 5
 sources:
   - "[[2026-04-18_justice-gov_auburn-washington-man-charged-federally-drug-distribution-and-illegal-firearms]]"
+  - "[[2024-05-01_fox13seattle_wa-man-charged-drug-trafficking-illegal-guns]]"
+  - "[[2024-05-01_kiro7_auburn-man-arrested-charged-possessing-135-pounds-mdma-other-drugs-weapons]]"
+  - "[[2024-05-01_auburn-reporter_renton-police-bust-auburn-man-federal-drug-case]]"
+  - "[[2024-05-01_mynorthwest_auburn-man-arrested-charged-135-pounds-mdma-other-drugs-weapons]]"
 summary: "This domestic-only U.S. follow-on record has been absorbed into the canonical case page [[us-v-andy-peter-vongdala]]. No visible cross-border mechanism is documented, so it is not treated as a separate international-cooperation operation."
 created: 2026-04-18
-updated: 2026-04-22
+updated: 2026-04-25
 ---
 ## Summary
 
@@ -76,6 +80,10 @@ This domestic-only U.S. follow-on record has been absorbed into the canonical ca
 
 ## References
 
-| # | Source | Publisher | Date | URL |
+| # | Title | Publisher | Date | URL |
 |---|---|---|---|---|
 | [1] | Auburn, Washington man charged federally for drug distribution and illegal firearms possession | US DOJ USAO | 2024-06-05 | https://www.justice.gov/usao-wdwa/pr/auburn-washington-man-charged-federally-drug-distribution-and-illegal-firearms |
+| [2] | WA man charged with drug trafficking, illegal guns | FOX 13 Seattle | 2024-05-01 | https://www.fox13seattle.com/news/renton-drug-trafficking-illegal-firearms |
+| [3] | Auburn man arrested, charged for possessing 135 pounds of MDMA among other drugs, weapons | KIRO 7 Seattle | 2024-05-01 | https://www.kiro7.com/news/local/auburn-man-arrested-charged-possessing-135-pounds-mdma-among-other-drugs-weapons/KVXVCZPSL5GUHFAWBTZ65DTVCE/ |
+| [4] | Renton police bust Auburn man in federal drug case | Auburn Reporter | 2024-05-01 | https://www.auburn-reporter.com/news/renton-police-bust-auburn-man-in-federal-drug-case/ |
+| [5] | Auburn man arrested, charged for possessing 135 pounds of MDMA among other drugs, weapons | MyNorthwest | 2024-05-01 | https://mynorthwest.com/3961904/auburn-man-arrested-charged-possessing-135-pounds-mdma-drugs-weapons/ |
