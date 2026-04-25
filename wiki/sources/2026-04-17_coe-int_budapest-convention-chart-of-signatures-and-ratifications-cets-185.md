@@ -12,11 +12,20 @@ reliability: medium
 credibility: confirmed
 sensitivity: public
 pages_updated:
-  []
+
 key_findings:
   - "France is a **foundational partner** in European cybercrime cooperation. It was one of the early ratifying parties to the [[budapest-convention|Budapest Convention on Cybercrime]] (ratified 10 January 2006; entry into force 1 May 2006) and operates a mature 24/7 Point of Contact at the **OCLCTIC** since 2000."
 collection_url: "https://www.coe.int/en/web/conventions/full-list?module=signatures-by-treaty&treatynum=185"
 created: 2026-04-17
+text_status: parsed
+content_hash: sha256:c9c0021f43a5c9a9308752816c2c9854ef867e8082d18bf960660b3d6bdd8a0a
+word_count: 4817
+extraction_date: 2026-04-26
+last_fetcher: jina
+storage_mode: fulltext
+license_basis: treaty_status_public_record
+attribution_required: true
+attribution_url: "https://www.coe.int/en/web/conventions/full-list?module=signatures-by-treaty&treatynum=185"
 ---
 ## Source Summary
 

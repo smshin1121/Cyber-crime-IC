@@ -6,6 +6,9 @@ import hashlib
 import html
 import json
 import re
+import shutil
+import ssl
+import subprocess
 import sys
 import time
 import threading
@@ -513,6 +516,86 @@ def urllib_fetch(url: str, timeout: int) -> FetchResult:
         return FetchResult("", None, "urllib", url, "", error=str(exc))
 
 
+def pdftotext_fetch(url: str, timeout: int) -> FetchResult:
+    pdftotext = shutil.which("pdftotext")
+
+    req = Request(
+        url,
+        headers={
+            "User-Agent": USER_AGENT,
+            "Accept": "application/pdf,*/*;q=0.5",
+        },
+    )
+    try:
+        with urlopen(req, timeout=timeout) as resp:
+            raw = resp.read()
+            status = getattr(resp, "status", None)
+            final_url = resp.geturl()
+            content_type = resp.headers.get("content-type", "")
+    except (HTTPError, URLError, OSError, TimeoutError) as exc:
+        if "CERTIFICATE_VERIFY_FAILED" not in str(exc):
+            return FetchResult("", None, "pdftotext", url, "", error=str(exc))
+        try:
+            with urlopen(req, timeout=timeout, context=ssl._create_unverified_context()) as resp:
+                raw = resp.read()
+                status = getattr(resp, "status", None)
+                final_url = resp.geturl()
+                content_type = resp.headers.get("content-type", "")
+        except (HTTPError, URLError, OSError, TimeoutError) as retry_exc:
+            return FetchResult("", None, "pdftotext", url, "", error=str(retry_exc))
+
+    if not raw.startswith(b"%PDF") and "application/pdf" not in content_type.lower():
+        return FetchResult("", status, "pdftotext", final_url, content_type, error="not_pdf")
+
+    tmp_root = ROOT / "_workspace" / "tmp"
+    tmp_root.mkdir(parents=True, exist_ok=True)
+    tmp_path = tmp_root / f"ccic_pdf_{threading.get_ident()}_{time.time_ns()}"
+    tmp_path.mkdir(parents=True, exist_ok=False)
+    try:
+        pdf_path = tmp_path / "source.pdf"
+        txt_path = tmp_path / "source.txt"
+        pdf_path.write_bytes(raw)
+        parser = "pypdf"
+        parser_error = ""
+        text = ""
+        try:
+            from pypdf import PdfReader  # type: ignore
+
+            reader = PdfReader(str(pdf_path))
+            text = "\n\n".join((page.extract_text() or "").strip() for page in reader.pages).strip()
+        except Exception as exc:
+            parser_error = str(exc)
+
+        if not text:
+            parser = "pymupdf"
+            try:
+                import fitz  # type: ignore
+
+                with fitz.open(str(pdf_path)) as doc:
+                    text = "\n\n".join((page.get_text("text") or "").strip() for page in doc).strip()
+            except Exception as exc:
+                parser_error = str(exc)
+
+        if not text and pdftotext and "miktex" not in pdftotext.lower():
+            parser = "pdftotext"
+            try:
+                subprocess.run(
+                    [pdftotext, "-layout", "-enc", "UTF-8", str(pdf_path), str(txt_path)],
+                    check=True,
+                    capture_output=True,
+                    timeout=timeout,
+                )
+                text = txt_path.read_text(encoding="utf-8", errors="replace").strip() if txt_path.exists() else ""
+            except (subprocess.SubprocessError, OSError) as exc:
+                parser_error = str(exc)
+    finally:
+        shutil.rmtree(tmp_path, ignore_errors=True)
+
+    if not text:
+        return FetchResult("", status, parser, final_url, content_type, error=parser_error or "pdf_text_layer_empty_ocr_needed")
+    return FetchResult(text, status, f"{parser}+urllib", final_url, "text/plain")
+
+
 def curl_cffi_fetch(url: str, timeout: int) -> FetchResult:
     try:
         from curl_cffi import requests as curl_requests  # type: ignore
@@ -640,6 +723,18 @@ def acceptable_fetch_result(result: FetchResult, args: argparse.Namespace, url: 
 
 def fetch_single_url(url: str, args: argparse.Namespace, smart_fetcher: Any, doj_client: Any) -> FetchResult:
     last_error = ""
+
+    if "coe.int" in host_for(url) and "module=signatures-by-treaty" in url and args.jina_fallback:
+        result = acceptable_fetch_result(jina_fetch(url, args.timeout), args, url)
+        if result:
+            return result
+        last_error = result.error if result else last_error
+
+    if url.lower().endswith(".pdf"):
+        result = acceptable_fetch_result(pdftotext_fetch(url, args.timeout), args, url)
+        if result:
+            return result
+        last_error = result.error if result else last_error
 
     if url.lower().endswith(".pdf") and args.jina_fallback:
         result = acceptable_fetch_result(jina_fetch(url, args.timeout), args, url)
@@ -919,6 +1014,9 @@ def build_raw_post(candidate: Candidate, fetch_result: FetchResult, title: str, 
     meta["content_hash"] = sha256_text(text)
     meta["word_count"] = word_count(text)
     meta["extraction_date"] = TODAY
+    meta["storage_mode"] = "fulltext"
+    meta.pop("stored_word_count", None)
+    meta.pop("copyright_policy", None)
     if candidate.source_path:
         meta["source_page"] = candidate.source_path
 
@@ -1019,6 +1117,9 @@ def update_source_metadata(candidate: Candidate, content_hash: str, words: int, 
     meta["word_count"] = words
     meta["extraction_date"] = TODAY
     meta["last_fetcher"] = fetcher
+    meta["storage_mode"] = "fulltext"
+    meta.pop("stored_word_count", None)
+    meta.pop("copyright_policy", None)
     post.metadata = meta
     source_path.write_text(frontmatter.dumps(post), encoding="utf-8")
 
