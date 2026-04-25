@@ -59,12 +59,13 @@ challenges_encountered:
 
 lessons_learned:
 
-source_count: 4
+source_count: 5
 sources:
   - "[[2026-04-18_justice-gov_south-carolina-man-sentenced-30-months-prison-interstate-stalking]]"
   - "[[2018-08-14_postgazette_cyber-stalker-nathaniel-earl-dunlap-dakota-james-harassment-neighbor-federal-prison]]"
   - "[[2017-07-28_justice-gov_south-carolina-man-pleads-guilty-interstate-stalking-charge]]"
   - "[[2017-07-28_triblive_dakota-james-impersonator-pleads-guilty-in-federal-court]]"
+  - "[[2018-08-15_rawstory_man-bizarre-lengths-harass-neighbor-suspected-black-friend]]"
 summary: "This domestic-only U.S. follow-on record has been absorbed into the canonical case page [[us-v-south-carolina-man]]. No visible cross-border mechanism is documented, so it is not treated as a separate international-cooperation operation."
 created: 2026-04-18
 updated: 2026-04-25
@@ -85,3 +86,4 @@ This domestic-only U.S. follow-on record has been absorbed into the canonical ca
 | [2] | Cyber-stalker who posed as missing Duquesne University student gets federal prison | Pittsburgh Post-Gazette | 2018-08-14 | https://www.post-gazette.com/news/crime-courts/2018/08/14/Cyber-stalker-Nathaniel-Earl-Dunlap-Dakota-James-harassment-neighbor-federal-prison/stories/201808140116 |
 | [3] | South Carolina Man Pleads Guilty to Interstate Stalking Charge | US DOJ USAO-WDPA | 2017-07-28 | https://www.justice.gov/usao-wdpa/pr/south-carolina-man-pleads-guilty-interstate-stalking-charge |
 | [4] | Dakota James impersonator pleads guilty in federal court | TribLIVE / Pittsburgh Tribune-Review | 2017-07-28 | https://archive.triblive.com/local/pittsburgh-allegheny/dakota-james-impersonator-pleads-guilty-in-federal-court/ |
+| [5] | Man went to bizarre lengths to harass neighbor he suspected of having a black friend | Raw Story | 2018-08-15 | https://www.rawstory.com/2018/08/man-went-bizarre-lengths-harass-neighbor-suspected-black-friend/ |

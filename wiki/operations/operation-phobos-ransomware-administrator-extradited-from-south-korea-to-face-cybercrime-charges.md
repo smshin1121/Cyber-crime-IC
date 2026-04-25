@@ -59,12 +59,13 @@ challenges_encountered:
 
 lessons_learned:
 
-source_count: 4
+source_count: 5
 sources:
   - "[[2026-04-18_justice-gov_phobos-ransomware-administrator-extradited-south-korea-face-cybercrime-charges]]"
   - "[[2025-02-11_europol_phobos-8base-ransomware-arrests]]"
   - "[[2025-02-11_bleepingcomputer-com_us-charges-phobos-8base-ransomware-operators]]"
   - "[[cbs-news-hive-ransomware-infrastructure-takedown]]"
+  - "[[2025-07-15_therecord_phobos-ransomware-leader-facing-20-years-guilty-plea]]"
 summary: "This domestic-only U.S. follow-on record has been absorbed into the canonical case page [[phobos-ransomware-administrator-extradited-from-south-korea-to-face-cybercrime-charges]]. No visible cross-border mechanism is documented, so it is not treated as a separate international-cooperation operation."
 created: 2026-04-18
 updated: 2026-04-25
@@ -85,3 +86,4 @@ This domestic-only U.S. follow-on record has been absorbed into the canonical ca
 | [2] | Key figures behind Phobos and 8Base ransomware arrested in international cybercrime crackdown | Europol | 2025-02-11 | https://www.europol.europa.eu/media-press/newsroom/news/key-figures-behind-phobos-and-8base-ransomware-arrested-in-international-cybercrime-crackdown |
 | [3] | U.S. charges Phobos and 8Base ransomware operators after international crackdown | BleepingComputer | 2025-02-11 | https://www.bleepingcomputer.com/news/security/us-charges-phobos-8base-ransomware-operators-after-international-crackdown/ |
 | [4] | CBS News: DOJ Charges Two Russians with Operating Phobos Ransomware Group | CBS News | 2025-02-11 | https://www.cbsnews.com/news/justice-department-charges-russian-men-cybercrime-ransomware/ |
+| [5] | Phobos ransomware leader facing 20 years in prison after pleading guilty to hacking charges | The Record (Recorded Future News) | 2025-07-15 | https://therecord.media/phobos-ransomware-leader-facing-20-years |

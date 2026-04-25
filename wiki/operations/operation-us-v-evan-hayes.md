@@ -68,10 +68,21 @@ sources:
 summary: "This domestic-only U.S. follow-on record has been absorbed into the canonical case page [[us-v-evan-hayes]]. No visible cross-border mechanism is documented, so it is not treated as a separate international-cooperation operation."
 created: 2026-04-18
 updated: 2026-04-25
+top_up_callout: 2026-04-25
 ---
 ## Summary
 
 This domestic-only U.S. follow-on record has been absorbed into the canonical case page [[us-v-evan-hayes]]. No visible cross-border mechanism is documented, so it is not treated as a separate international-cooperation operation.
+
+> [!info] Source enrichment top-up — partial reinforcement (2026-04-25)
+> This page was reinforced in earlier waves but URL deduplication left source_count at 4. A second top-up search for 1 additional credible source found:
+> - DOJ follow-up press releases: already cited (USAO-EDCA + OPA-archive both linked)
+> - Parallel federal agency press releases (FBI/USPIS/DEA): not found — investigation was led by FBI + USPIS but no separate parallel PR issued
+> - Court records (CourtListener/PACER/midpage): no narrative content
+> - Local press in EDCA / Buffalo / Italy: WIVB and Benzinga already cited; further Italian-press coverage not located in English-language sources
+> - Trade press (BleepingComputer/KrebsOnSecurity/TheRecord/CyberScoop): not applicable — case below cyber-press coverage threshold (small-volume darknet ID document fraud)
+>
+> source_count: 4 retained per LESSON L19 (do not assert sources that do not exist).
 
 ## Canonical Record
 

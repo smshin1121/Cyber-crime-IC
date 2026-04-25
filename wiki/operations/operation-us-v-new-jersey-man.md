@@ -59,12 +59,13 @@ challenges_encountered:
 
 lessons_learned:
 
-source_count: 4
+source_count: 5
 sources:
   - "[[2026-04-18_justice-gov_new-jersey-man-sentenced-prison-after-pleading-guilty-posting-restricted-information]]"
   - "[[2021-08-02_postgazette_william-kaetz-paramus-nj-judge-ranjan-sentenced-16-months]]"
   - "[[2021-08-03_abajournal_new-jersey-man-gets-prison-time-for-posting-federal-judges-home-address]]"
   - "[[2021-08-03_newsweek_new-jersey-man-gets-16-months-doxxing-federal-judge]]"
+  - "[[2021-08-03_njglobe_man-threatening-letters-federal-judge-16-months-prison]]"
 summary: "This domestic-only U.S. follow-on record has been absorbed into the canonical case page [[us-v-new-jersey-man]]. No visible cross-border mechanism is documented, so it is not treated as a separate international-cooperation operation."
 created: 2026-04-18
 updated: 2026-04-25
@@ -85,3 +86,4 @@ This domestic-only U.S. follow-on record has been absorbed into the canonical ca
 | [2] | N.J. man sentenced to 16 months in prison for threatening federal judge | Pittsburgh Post-Gazette | 2021-08-02 | https://www.post-gazette.com/news/crime-courts/2021/08/02/william-kaetz-paramus-nj-judge-j-nicholas-ranjan-sentenced-16-months-federal-prison-threats-newark/stories/202108020128 |
 | [3] | New Jersey man gets prison time for posting federal judge's home address on Twitter and Facebook | ABA Journal | 2021-08-03 | https://www.abajournal.com/news/article/new-jersey-man-gets-prison-time-for-posting-federal-judges-home-address-on-facebook-and-twitter |
 | [4] | New Jersey Man Gets 16 Months for Doxxing Federal Judge on Facebook and Twitter | Newsweek | 2021-08-03 | https://www.newsweek.com/new-jersey-man-gets-16-months-doxxing-federal-judge-facebook-twitter-1615909 |
+| [5] | Man who sent threatening letters to federal judge gets 16 months in prison | New Jersey Globe | 2021-08-03 | https://newjerseyglobe.com/judiciary/man-who-set-threatening-letters-to-federal-judge-gets-16-months-in-prison/ |

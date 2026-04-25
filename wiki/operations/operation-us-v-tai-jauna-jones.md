@@ -59,12 +59,13 @@ challenges_encountered:
 
 lessons_learned:
 
-source_count: 4
+source_count: 5
 sources:
   - "[[2026-04-18_justice-gov_pittsburgh-woman-pleads-guilty-credit-card-fraud-and-aggravated-identity-theft-charges]]"
   - "[[2025-04-21_hoodline_pittsburgh-woman-pleads-guilty-credit-card-fraud-identity-theft]]"
   - "[[2025-04-22_triblive_third-person-pleads-guilty-monroeville-rental-car-scam]]"
   - "[[2025-04-22_yahoo_pittsburgh-woman-pleads-guilty-monroeville-rental-car-scam]]"
+  - "[[2024-09-26_triblive_brentwood-youngwood-await-sentencing-avis-rental-scheme]]"
 summary: "This domestic-only U.S. follow-on record has been absorbed into the canonical case page [[us-v-tai-jauna-jones]]. No visible cross-border mechanism is documented, so it is not treated as a separate international-cooperation operation."
 created: 2026-04-18
 updated: 2026-04-25
@@ -85,3 +86,4 @@ This domestic-only U.S. follow-on record has been absorbed into the canonical ca
 | [2] | Pittsburgh Woman Pleads Guilty to Credit Card Fraud and Identity Theft, Faces Up to 12 Years in Prison | Hoodline Pittsburgh | 2025-04-21 | https://hoodline.com/2025/04/pittsburgh-woman-pleads-guilty-to-credit-card-fraud-and-identity-theft-faces-up-to-12-years-in-prison/ |
 | [3] | Third person pleads guilty in Monroeville rental-car scam | TribLIVE (Monroeville Times Express) | 2025-04-22 | https://community.triblive.com/c/monroeville-times-express/news/3779729 |
 | [4] | Pittsburgh woman pleads guilty to charges connected to Monroeville rental car scam | Yahoo News (syndicated) | 2025-04-22 | https://www.yahoo.com/news/pittsburgh-woman-pleads-guilty-charges-003544655.html |
+| [5] | Brentwood man, Youngwood woman await sentencing in rental scheme that cost Avis $500K | TribLIVE / Pittsburgh Tribune-Review | 2024-09-26 | https://archive.triblive.com/local/westmoreland/pittsburgh-man-youngwood-woman-await-sentencing-in-fraudulent-car-rental-scheme/ |

@@ -59,12 +59,14 @@ challenges_encountered:
 
 lessons_learned:
 
-source_count: 4
+source_count: 6
 sources:
   - "[[2025-05-12_wdpa_vlastos-darknet-sentencing]]"
   - "[[2025-05-13_explorejeffersonpa_pa-resident-and-darknet-drug-trafficker-sentenced]]"
   - "[[2025-05-12_legalnewsline_pittsburgh-man-sentenced-to-nearly-six-years-for-drug-trafficking-and-firearms-offenses]]"
   - "[[2024-08-15_govinfo_usa-v-vlastos-2-24-cr-00214-pawd]]"
+  - "[[2025-05-13_beavercountyradio_pittsburgh-man-70-months-firearm-controlled-substances]]"
+  - "[[2024-11-06_hoodline_pittsburgh-felon-pleads-guilty-false-statement-firearm]]"
 summary: "This domestic-only U.S. follow-on record has been absorbed into the canonical case page [[pittsburgh-resident-and-darknet-drug-trafficker-sentenced-to-nearly-six-years-in-prison-on-federal-drug-traffi]]. No visible cross-border mechanism is documented, so it is not treated as a separate international-cooperation operation."
 created: 2026-04-18
 updated: 2026-04-25
@@ -85,3 +87,5 @@ This domestic-only U.S. follow-on record has been absorbed into the canonical ca
 | [2] | Pa. Resident and Darknet Drug Trafficker Sentenced to Nearly Six Years in Prison on Federal Drug Trafficking and Firearms Convictions | exploreJefferson PA | 2025-05-13 | https://www.explorejeffersonpa.com/crime/2025/05/13/pa-resident-and-darknet-drug-trafficker-sentenced-to-nearly-six-years-in-prison-on-federal-drug-trafficking-and-firearms-convictions-163546/ |
 | [3] | Pittsburgh man sentenced to nearly six years for drug trafficking and firearms offenses | Legal Newsline | 2025-05-12 | https://legalnewsline.com/stories/671356824-pittsburgh-man-sentenced-to-nearly-six-years-for-drug-trafficking-and-firearms-offenses |
 | [4] | USA v. VLASTOS (2:24-cr-00214), W.D. Pa. | GovInfo / U.S. Federal Courts | 2024-08-15 | https://www.govinfo.gov/app/details/USCOURTS-pawd-2_24-cr-00214/USCOURTS-pawd-2_24-cr-00214-0 |
+| [5] | Pittsburgh man gets a prison sentence of seventy months for firearm and controlled substances offenses | Beaver County Radio | 2025-05-13 | https://beavercountyradio.com/news/pittsburgh-man-gets-a-prison-sentence-of-seventy-months-and-three-years-of-supervised-release-for-disobeying-federal-firearm-laws-and-distributing-controlled-substances-in-western-pennsylvania/ |
+| [6] | Pittsburgh Felon Pleads Guilty to False Statement in Attempted Firearm Purchase | Hoodline | 2024-11-06 | https://hoodline.com/2024/11/pittsburgh-felon-pleads-guilty-to-false-statement-in-attempted-firearm-purchase/ |

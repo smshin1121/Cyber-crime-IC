@@ -59,12 +59,13 @@ challenges_encountered:
 
 lessons_learned:
 
-source_count: 4
+source_count: 5
 sources:
   - "[[2026-04-18_justice-gov_two-indictments-charge-international-travel-engage-illicit-sexual-activity-minors-0]]"
   - "[[2023-07-13_justice-gov-archives_two-indictments-international-travel-illicit-sexual-activity-minors]]"
   - "[[2024-09-30_justice-gov_sacramento-man-sentenced-life-buying-children-other-child-exploitation]]"
   - "[[2017-08-23_ice-gov_sacramento-man-indicted-traveling-overseas-have-sex-children]]"
+  - "[[2024-09-30_cbsnews_sacramento-man-life-prison-buying-filipino-children-clemans]]"
 summary: "This domestic-only U.S. follow-on record has been absorbed into the canonical case page [[us-v-international-travel]]. No visible cross-border mechanism is documented, so it is not treated as a separate international-cooperation operation."
 created: 2026-04-18
 updated: 2026-04-25
@@ -85,3 +86,4 @@ This domestic-only U.S. follow-on record has been absorbed into the canonical ca
 | [2] | Two Indictments Charge International Travel to Engage in Illicit Sexual Activity with Minors (Project Safe Childhood) | US DOJ (Eastern District of California — Project Safe Childhood) | 2023-07-13 | https://www.justice.gov/usao-edca/pr?f%5B0%5D=facet_topics:1201&page=1 |
 | [3] | Sacramento Man Sentenced to Life in Prison for Buying Children and Other Child Exploitation Crimes | US DOJ (Eastern District of California) | 2024-09-30 | https://www.justice.gov/usao-edca/pr/sacramento-man-sentenced-life-prison-buying-children-and-other-child-exploitation |
 | [4] | Sacramento man indicted for traveling overseas to have sex with children (archived) | US Immigration and Customs Enforcement (ICE) | 2017-08-23 | https://www.ice.gov/news/releases/sacramento-man-indicted-traveling-overseas-have-sex-children |
+| [5] | Sacramento Man Gets Life In Prison For Buying Filipino Children | CBS Sacramento | 2024-09-30 | https://www.cbsnews.com/sacramento/news/michael-carey-clemans-sentence/ |

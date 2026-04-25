@@ -59,12 +59,13 @@ challenges_encountered:
 
 lessons_learned:
 
-source_count: 4
+source_count: 5
 sources:
   - "[[2024-06-18_interpol_operation-first-light-2024]]"
   - "[[2024-07-01_police-gov-sg_mid-year-scams-and-cybercrime-brief-2024-operation-first-light]]"
   - "[[2025-12-01_police-gov-sg_cad-report-2024-operation-first-light]]"
   - "[[2026-02-01_interpol-int_annual-report-2024-operation-first-light]]"
+  - "[[2024-06-20_gizmodo_interpol-fraud-scams-ftc-operation-first-light-2024]]"
 summary: "This domestic-only U.S. follow-on record has been absorbed into the canonical case page [[usd-257-million-seized-in-global-police-crackdown-against-online-scams-operation-first-light-2024-3]]. No visible cross-border mechanism is documented, so it is not treated as a separate international-cooperation operation."
 created: 2026-04-18
 updated: 2026-04-25
@@ -85,3 +86,4 @@ This domestic-only U.S. follow-on record has been absorbed into the canonical ca
 | [2] | Mid-Year Scams and Cybercrime Brief 2024 | Singapore Police Force | 2024-07-01 | https://www.police.gov.sg/-/media/B560DF9AB68441A0B5AEAEEEF9ADCB6A.ashx |
 | [3] | CAD Report 2024 | Singapore Police Force Commercial Affairs Department | 2025-12-01 | https://www.police.gov.sg/-/media/SPF/Media-Room/Publications/CAD-Report-2024/CAD-Report-2024.pdf |
 | [4] | INTERPOL Annual Report 2024 | INTERPOL | 2026-02-01 | https://www.interpol.int/content/download/23674/file/Annual%20Report%202024_EN.pdf |
+| [5] | Interpol Arrests Thousands in Crackdown on International Online Scams | Gizmodo | 2024-06-20 | https://gizmodo.com/interpol-fraud-scams-ftc-operation-first-light-2024-1851566535 |

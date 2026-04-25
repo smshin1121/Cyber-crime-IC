@@ -52,12 +52,15 @@ challenges_encountered:
 
 lessons_learned:
 
-source_count: 2
+source_count: 5
 sources:
   - "[[2023-09-07_ndoh-mdtn-sdca_trickbot-conti-indictments]]"
   - "[[2015-05-29_sdny_us-v-ulbricht-sentencing]]"
+  - "[[2023-09-07_gov-uk_uk-sanctions-members-of-russian-cybercrime-gang]]"
+  - "[[2023-09-07_foxnews_russian-cybercrime-suspects-indicted-multi-million-dollar-trickbot-malware-conti-ransomware-scheme]]"
+  - "[[2023-09-07_hometownstations_multiple-foreign-nationals-charged-in-connection-with-trickbot-malware-and-conti-ransomware-conspiracies]]"
 created: 2026-04-17
-updated: 2026-04-17
+updated: 2026-04-25
 operation_role: follow-on
 parent_operation: "[[trickbot-operations]]"
 summary: "This domestic-only U.S. follow-on record has been absorbed into the canonical case page [[us-v-galochkin-trickbot-conti]]. No visible cross-border mechanism is documented at the operation-page level, so it is not treated as a separate international-cooperation operation."
@@ -78,7 +81,10 @@ This domestic-only U.S. follow-on record has been absorbed into the canonical ca
 
 ## References
 
-| # | Source | Publisher | Date | URL |
+| # | Title | Publisher | Date | URL |
 |---|---|---|---|---|
-| [1] | United States v. Galochkin et al. (TrickBot/Conti) | US DOJ (OPA) | 2023-09-07 | https://www.justice.gov/archives/opa/pr/multiple-foreign-nationals-charged-connection-trickbot-malware-and-conti-ransomware |
-| [2] | United States v. Ulbricht — Sentencing | US DOJ (SDNY) | 2015-05-29 | https://www.justice.gov/usao-sdny/pr/ross-ulbricht-aka-dread-pirate-roberts-sentenced-manhattan-federal-court-life-prison |
+| [1] | Multiple Foreign Nationals Charged in Connection with Trickbot Malware and Conti Ransomware Conspiracies | US DOJ (OPA) | 2023-09-07 | https://www.justice.gov/archives/opa/pr/multiple-foreign-nationals-charged-connection-trickbot-malware-and-conti-ransomware |
+| [2] | Ross Ulbricht, A/K/A “Dread Pirate Roberts,” Sentenced In Manhattan Federal Court To Life In Prison | US DOJ (SDNY) | 2015-05-29 | https://www.justice.gov/usao-sdny/pr/ross-ulbricht-aka-dread-pirate-roberts-sentenced-manhattan-federal-court-life-prison |
+| [3] | UK sanctions members of Russian cybercrime gang | UK Government (gov.uk) | 2023-09-07 | https://www.gov.uk/government/news/uk-sanctions-members-of-russian-cybercrime-gang |
+| [4] | Russian cybercrime suspects indicted in multi-million dollar Trickbot malware and Conti ransomware scheme | Fox News | 2023-09-07 | https://www.foxnews.com/us/russian-cybercrime-suspects-indicted-multi-million-dollar-trickbot-malware-conti-ransomware-scheme |
+| [5] | Multiple Foreign Nationals Charged in Connection with Trickbot Malware and Conti Ransomware Conspiracies | HometownStations (NBC Lima OH affiliate) | 2023-09-07 | https://www.hometownstations.com/news/multiple-foreign-nationals-charged-in-connection-with-trickbot-malware-and-conti-ransomware-conspiracies/article_70242f22-4daf-11ee-8b4b-a3a0a0cee17c.html |

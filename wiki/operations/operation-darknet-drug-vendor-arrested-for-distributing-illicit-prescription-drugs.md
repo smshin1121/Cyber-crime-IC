@@ -59,12 +59,13 @@ challenges_encountered:
 
 lessons_learned:
 
-source_count: 4
+source_count: 5
 sources:
   - "[[2026-04-18_justice-gov_darknet-drug-vendor-arrested-distributing-illicit-prescription-drugs]]"
   - "[[2021-08-04_justice-gov_darknet-drug-vendor-pleads-guilty-to-distributing-illicit-prescription-drugs]]"
   - "[[2020-04-09_justice-gov_darknet-vendor-arrested-on-distribution-and-money-laundering-charges]]"
   - "[[2016-10-31_ice-gov_international-darknet-marketplace-enforcement-operation]]"
+  - "[[2020-12-04_ajc_fbi-arrests-duluth-man-darknet-opioids]]"
 summary: "This domestic-only U.S. follow-on record has been absorbed into the canonical case page [[darknet-drug-vendor-arrested-for-distributing-illicit-prescription-drugs]]. No visible cross-border mechanism is documented, so it is not treated as a separate international-cooperation operation."
 created: 2026-04-18
 updated: 2026-04-25
@@ -85,3 +86,4 @@ This domestic-only U.S. follow-on record has been absorbed into the canonical ca
 | [2] | Darknet Drug Vendor Pleads Guilty to Distributing Illicit Prescription Drugs | US DOJ (Eastern District of Virginia) | 2021-08-04 | https://www.justice.gov/usao-edva/pr/darknet-drug-vendor-pleads-guilty-distributing-illicit-prescription-drugs |
 | [3] | Darknet Vendor Arrested on Distribution and Money Laundering Charges | US DOJ USAO | 2020-04-09 | https://www.justice.gov/usao-edva/pr/darknet-vendor-arrested-distribution-and-money-laundering-charges |
 | [4] | Law enforcement agencies around the world collaborate on international Darknet marketplace enforcement operation | U.S. Immigration and Customs Enforcement | 2016-10-31 | https://www.ice.gov/news/releases/law-enforcement-agencies-around-world-collaborate-international-darknet-marketplace |
+| [5] | FBI arrests Duluth man accused of selling opioids on the darknet | Atlanta Journal-Constitution | 2020-12-04 | https://www.ajc.com/news/fbi-arrests-duluth-man-accused-of-selling-opioids-on-the-darknet/H3GBDL7MA5COTMO5ZPUJ4XY3BA/ |

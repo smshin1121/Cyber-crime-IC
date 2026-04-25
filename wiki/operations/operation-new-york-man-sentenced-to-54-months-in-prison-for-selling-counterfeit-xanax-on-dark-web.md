@@ -59,12 +59,13 @@ challenges_encountered:
 
 lessons_learned:
 
-source_count: 4
+source_count: 5
 sources:
   - "[[2025-11-18_justice-gov_united-states-v-john-cruz]]"
   - "[[2023-04-14_justice-gov_new-york-man-indicted-in-st-louis-accused-of-selling-counterfeit-xanax-on-dark-w]]"
   - "[[2025-07-01_justice-gov_new-york-man-admits-continuing-to-sell-counterfeit-xanax-on-dark-web]]"
   - "[[2024-05-01_justice-gov_darknet-vendor-who-sold-millions-of-counterfeit-xanax-sentenced]]"
+  - "[[2025-11-19_kttn_dark-web-dealer-prison-counterfeit-xanax]]"
 summary: "This domestic-only U.S. follow-on record has been absorbed into the canonical case page [[new-york-man-sentenced-to-54-months-in-prison-for-selling-counterfeit-xanax-on-dark-web]]. No visible cross-border mechanism is documented, so it is not treated as a separate international-cooperation operation."
 created: 2026-04-18
 updated: 2026-04-25
@@ -85,3 +86,4 @@ This domestic-only U.S. follow-on record has been absorbed into the canonical ca
 | [2] | New York Man Indicted in St. Louis, Accused of Selling Counterfeit Xanax on Dark Web | US DOJ USAO | 2023-04-14 | https://www.justice.gov/usao-edmo/pr/new-york-man-indicted-st-louis-accused-selling-counterfeit-xanax-dark-web |
 | [3] | New York Man Admits Continuing to Sell Counterfeit Xanax on Dark Web | US DOJ USAO | 2025-07-01 | https://www.justice.gov/usao-edmo/pr/new-york-man-admits-continuing-sell-counterfeit-xanax-dark-web |
 | [4] | Darknet Vendor Who Sold Millions of Counterfeit Xanax Sentenced | US DOJ (Eastern District of Missouri) | 2024-05-01 | https://www.justice.gov/usao-edmo/pr/darknet-vendor-who-sold-millions-counterfeit-xanax-sentenced |
+| [5] | Dark web dealer gets prison for selling counterfeit Xanax pills | KTTN News (Trenton, MO) | 2025-11-19 | https://www.kttn.com/dark-web-dealer-gets-prison-for-selling-counterfeit-xanax-pills/ |

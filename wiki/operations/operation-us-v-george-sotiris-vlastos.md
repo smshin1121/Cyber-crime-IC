@@ -67,10 +67,21 @@ sources:
 summary: "This domestic-only U.S. follow-on record has been absorbed into the canonical case page [[us-v-george-sotiris-vlastos]]. No visible cross-border mechanism is documented, so it is not treated as a separate international-cooperation operation."
 created: 2026-04-17
 updated: 2026-04-25
+top_up_callout: 2026-04-25
 ---
 ## Summary
 
 This domestic-only U.S. follow-on record has been absorbed into the canonical case page [[us-v-george-sotiris-vlastos]]. No visible cross-border mechanism is documented, so it is not treated as a separate international-cooperation operation.
+
+> [!info] Source enrichment top-up — partial reinforcement (2026-04-25)
+> This page was reinforced in earlier waves but URL deduplication left source_count at 3. A second top-up search for 2 additional credible sources found:
+> - DOJ follow-up press releases (sentencing/conviction): already cited (USAO-WDPA primary PR + DC follow-up DOJ already linked via canonical case)
+> - Parallel federal agency press releases (FBI/DEA/IRS-CI/USPIS): not found — agency PRs trace back to the same DOJ source
+> - Court records (CourtListener/PACER/midpage/justia): GovInfo PACER docket already cited
+> - Local press in WDPA: not found — Pittsburgh Post-Gazette/TribLIVE/WTAE/WPXI/KDKA all returned no Vlastos coverage
+> - Trade press (BleepingComputer/KrebsOnSecurity/TheRecord/CyberScoop): not applicable (single-defendant darknet drug case below cyber-press coverage threshold)
+>
+> source_count: 3 retained per LESSON L19 (do not assert sources that do not exist).
 
 ## Canonical Record
 

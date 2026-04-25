@@ -59,13 +59,15 @@ challenges_encountered:
 
 lessons_learned:
 
-source_count: 2
+source_count: 4
 sources:
   - "[[2017-05-31_court-of-appeals-for-the-second-circuit_united-states-v-ulbricht]]"
-  - "[[{'\"[[wired-operation-avalanche|Wired': 'Silk Road 2.0 / Ulbricht Sentencing Coverage]]\"'}]]"
+  - "[[2017-05-31_justia_united-states-v-ulbricht-no-15-1815]]"
+  - "[[2017-06-01_natlawreview_silk-road-website-founder-loses-appeal]]"
+  - "[[2017-05-31_nsarchive_united-states-v-ross-william-ulbricht]]"
 summary: "This domestic-only U.S. follow-on record has been absorbed into the canonical case page [[us-v-ulbricht]]. No visible cross-border mechanism is documented, so it is not treated as a separate international-cooperation operation."
 created: 2026-04-18
-updated: 2026-04-22
+updated: 2026-04-25
 ---
 ## Summary
 
@@ -80,3 +82,6 @@ This domestic-only U.S. follow-on record has been absorbed into the canonical ca
 | # | Title | Publisher | Date | URL |
 |---|---|---|---|---|
 | [1] | United States v. Ulbricht | Court of Appeals for the Second Circuit | 2017-05-31 | https://www.courtlistener.com/opinion/4395694/united-states-v-ulbricht/ |
+| [2] | United States v. Ulbricht, No. 15-1815 (2d Cir. 2017) — Justia | Justia | 2017-05-31 | https://law.justia.com/cases/federal/appellate-courts/ca2/15-1815/15-1815-2017-05-31.html |
+| [3] | Silk Road Website Founder Loses Appeal of Conviction and Life Sentence | National Law Review | 2017-06-01 | https://natlawreview.com/article/silk-road-website-founder-loses-appeal-conviction-and-life-sentence |
+| [4] | United States v. Ross William Ulbricht — Second Circuit Docket No. 15-1815 (NSArchive) | National Security Archive (GWU) | 2017-05-31 | https://nsarchive.gwu.edu/document/15309-united-states-america-appellee-v-ross-william |

@@ -59,12 +59,13 @@ challenges_encountered:
 
 lessons_learned:
 
-source_count: 4
+source_count: 5
 sources:
   - "[[2026-04-18_justice-gov_tattoo-shop-owner-sentenced-more-7-years-prison-distributing-heroin-and-methamphetamine]]"
   - "[[2019-04-05_dea-gov_fentanyl-heroin-darknet-vendors-indicted]]"
   - "[[2022-02-18_uspsoig-gov_arizona-man-sentenced-11-years-conspiracy-narcotics-dark-web]]"
   - "[[2020-03-04_manteca-bulletin_4-charged-drug-trafficking-darknet]]"
+  - "[[2019-03-08_abc15_chandler-tattoo-business-owner-arrested-in-connection-to-fbi-investigation]]"
 summary: "This domestic-only U.S. follow-on record has been absorbed into the canonical case page [[us-v-jason-keith-arnold-and-david-white]]. No visible cross-border mechanism is documented, so it is not treated as a separate international-cooperation operation."
 created: 2026-04-18
 updated: 2026-04-25
@@ -85,3 +86,4 @@ This domestic-only U.S. follow-on record has been absorbed into the canonical ca
 | [2] | Fentanyl and heroin darknet vendors indicted | US DEA | 2019-04-05 | https://www.dea.gov/press-releases/2019/04/05/fentanyl-and-heroin-darknet-vendors-indicted |
 | [3] | Arizona Man Sentenced to over 11 Years in Prison for Conspiracy to Sell Narcotics on the Dark Web | USPS Office of Inspector General | 2022-02-18 | https://www.uspsoig.gov/investigative-work/investigative-news-releases/arizona-man-sentenced-over-11-years-prison |
 | [4] | 4 charged with drug trafficking on darknet | Manteca Bulletin | 2020-03-04 | https://www.mantecabulletin.com/news/state/4-charged-drug-trafficking-darknet/ |
+| [5] | Chandler tattoo business owner arrested in connection to FBI investigation | ABC15 (KNXV-Phoenix) | 2019-03-08 | https://www.abc15.com/news/region-southeast-valley/chandler/chandler-tattoo-business-owner-arrested-in-connection-to-fbi-investigation |

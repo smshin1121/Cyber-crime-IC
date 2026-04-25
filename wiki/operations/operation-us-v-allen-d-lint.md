@@ -59,12 +59,13 @@ challenges_encountered:
 
 lessons_learned:
 
-source_count: 4
+source_count: 5
 sources:
   - "[[2018-12-03_justice-gov_united-states-v-allen-d-lint]]"
   - "[[2018-12-04_ice-gov_hsi-efforts-help-put-dark-web-drug-dealer-prison]]"
   - "[[2018-12-04_justice-gov-wdwa_dark-web-heroin-dealer-sentenced-5-years-prison]]"
   - "[[2018-12-04_dea-gov_dea-dark-web-internet-trafficking-topic]]"
+  - "[[2018-12-04_kentreporter_everett-online-heroin-meth-dealer-sentenced-mailing-drugs]]"
 summary: "This domestic-only U.S. follow-on record has been absorbed into the canonical case page [[us-v-allen-d-lint]]. No visible cross-border mechanism is documented, so it is not treated as a separate international-cooperation operation."
 created: 2026-04-17
 updated: 2026-04-25
@@ -85,3 +86,4 @@ This domestic-only U.S. follow-on record has been absorbed into the canonical ca
 | [2] | HSI efforts help put dark web drug dealer in prison | ICE | 2018-12-04 | https://www.ice.gov/news/releases/hsi-efforts-help-put-dark-web-drug-dealer-prison |
 | [3] | Dark web heroin dealer sentenced to 5 years in prison | USAO WDWA | 2018-12-04 | https://www.justice.gov/usao-wdwa/pr/dark-web-heroin-dealer-sentenced-5-years-prison |
 | [4] | Dark Web Internet Trafficking Topic Page | DEA | 2018-12-04 | https://www.dea.gov/taxonomy/term/771 |
+| [5] | Everett online heroin and meth dealer sentenced for mailing drugs nationwide | Kent Reporter | 2018-12-04 | https://www.kentreporter.com/news/everett-online-heroin-and-meth-dealer-sentenced-for-mailing-drugs-nationwide/ |

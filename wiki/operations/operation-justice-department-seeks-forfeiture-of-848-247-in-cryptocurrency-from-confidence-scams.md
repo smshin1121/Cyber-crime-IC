@@ -59,12 +59,13 @@ challenges_encountered:
 
 lessons_learned:
 
-source_count: 4
+source_count: 5
 sources:
   - "[[2026-04-18_justice-gov_justice-department-seeks-forfeiture-848247-cryptocurrency-confidence-scams]]"
   - "[[2026-04-18_justice-gov_united-states-seizes-more-868247-alleged-proceeds-cryptocurrency-confidence-scheme]]"
   - "[[2026-04-18_justice-gov_four-individuals-charged-laundering-millions-cryptocurrency-investment-scams-known-pig]]"
   - "[[2026-04-17_trmlabs-com_unmasking-a-crypto-scam-network-the-royal-thai-police-crack-down]]"
+  - "[[2025-09-03_regtechtimes_doj-targets-848247-tether-cryptocurrency-scam-losses]]"
 summary: "This domestic-only U.S. follow-on record has been absorbed into the canonical case page [[justice-department-seeks-forfeiture-of-848-247-in-cryptocurrency-from-confidence-scams]]. No visible cross-border mechanism is documented, so it is not treated as a separate international-cooperation operation."
 created: 2026-04-18
 updated: 2026-04-25
@@ -85,3 +86,4 @@ This domestic-only U.S. follow-on record has been absorbed into the canonical ca
 | [2] | United States Seizes More than $868,247 in Alleged Proceeds of a Cryptocurrency Confidence Scheme | US DOJ USAO | 2025-05-23 | https://www.justice.gov/usao-dc/pr/united-states-seizes-more-868247-alleged-proceeds-cryptocurrency-confidence-scheme |
 | [3] | Four Individuals Charged with Laundering Millions from Cryptocurrency Investment Scams Known as ‘Pig Butchering’ | US DOJ USAO | 2023-12-14 | https://www.justice.gov/usao-cdca/pr/four-individuals-charged-laundering-millions-cryptocurrency-investment-scams-known-pig |
 | [4] | Unmasking a Crypto Scam Network: The Royal Thai Police Crack Down | TRM Labs | 2026-04-17 | https://www.trmlabs.com/resources/case-studies/unmasking-a-crypto-scam-network-the-royal-thai-police-crack-down |
+| [5] | DOJ targets $848,247 in Tether as part of effort to curb rising cryptocurrency scam losses | RegTech Times | 2025-09-03 | https://regtechtimes.com/848247-in-cryptocurrency-linked-to-online-scams/ |

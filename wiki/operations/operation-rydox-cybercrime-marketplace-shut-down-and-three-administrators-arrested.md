@@ -59,12 +59,13 @@ challenges_encountered:
 
 lessons_learned:
 
-source_count: 4
+source_count: 5
 sources:
   - "[[2024-12-12_wdpa_kutleshi-rydox-indictment]]"
   - "[[2024-12-12_cyberscoop-com_rydox-cybercriminal-marketplace-seized-doj-albania-kosovo]]"
   - "[[2024-12-13_securityaffairs-com_us-authorities-seized-marketplace-rydox]]"
   - "[[2024-12-16_bitdefender-com_rydox-cybercrime-marketplace-seized-by-law-enforcement-suspected-admins-arrested]]"
+  - "[[2024-12-12_therecord_three-arrested-kosovo-rydox-marketplace-extradition]]"
 summary: "This domestic-only U.S. follow-on record has been absorbed into the canonical case page [[rydox-cybercrime-marketplace-shut-down-and-three-administrators-arrested]]. No visible cross-border mechanism is documented, so it is not treated as a separate international-cooperation operation."
 created: 2026-04-18
 updated: 2026-04-25
@@ -85,3 +86,4 @@ This domestic-only U.S. follow-on record has been absorbed into the canonical ca
 | [2] | Cybercriminal marketplace Rydox seized in international law enforcement operation | CyberScoop | 2024-12-12 | https://cyberscoop.com/rydox-cybercriminal-marketplace-seized-doj-albania-kosovo/ |
 | [3] | U.S. authorities seized cybercrime marketplace Rydox | Security Affairs | 2024-12-13 | https://securityaffairs.com/171956/cyber-crime/u-s-authorities-seized-marketplace-rydox.html |
 | [4] | Rydox cybercrime marketplace seized by law enforcement, suspected admins arrested | Bitdefender | 2024-12-16 | https://www.bitdefender.com/en-us/blog/hotforsecurity/rydox-cybercrime-marketplace-seized-by-law-enforcement-suspected-admins-arrested |
+| [5] | Three arrested in Kosovo for operating Rydox cybercriminal marketplace | The Record (Recorded Future News) | 2024-12-12 | https://therecord.media/three-arrested-in-kosovo-rydox-marketplace-awaiting-extradition |

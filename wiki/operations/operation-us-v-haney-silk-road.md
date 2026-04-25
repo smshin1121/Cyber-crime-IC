@@ -51,12 +51,14 @@ challenges_encountered:
 
 lessons_learned:
 
-source_count: 2
+source_count: 4
 sources:
   - "[[2020-02-12_sdny_hugh-haney-silk-road-laundering-sentencing]]"
-  - "[[{'\"[[wired-operation-avalanche|Wired': 'Silk Road 2.0 / Ulbricht Sentencing Coverage]]\"'}]]"
+  - "[[2019-11-08_occrp_dark-web-drug-trafficker-pleads-guilty-to-money-laundering]]"
+  - "[[2019-11-08_thenextweb_silk-road-drug-dealer-laundered-19m-bitcoin]]"
+  - "[[2019-11-08_coindesk_silk-road-seller-pleads-guilty-money-laundering-19-million-bitcoin]]"
 created: 2026-04-17
-updated: 2026-04-22
+updated: 2026-04-25
 operation_role: follow-on
 parent_operation: "[[silk-road-takedown]]"
 summary: "This domestic-only U.S. follow-on record has been absorbed into the canonical case page [[us-v-haney-silk-road]]. No visible cross-border mechanism is documented, so it is not treated as a separate international-cooperation operation."
@@ -80,3 +82,6 @@ This domestic-only U.S. follow-on record has been absorbed into the canonical ca
 | # | Title | Publisher | Date | URL |
 |---|---|---|---|---|
 | [1] | Dark Web Narcotics Trafficker Sentenced To 3½ Years In Prison In Connection With Laundering More Than $19 Million | US DOJ (Southern District of New York) | 2020-02-12 | https://www.justice.gov/usao-sdny/pr/dark-web-narcotics-trafficker-sentenced-3-years-prison-connection-laundering-more-19 |
+| [2] | 'Dark Web' Drug Trafficker Pleads Guilty to Money Laundering | OCCRP | 2019-11-08 | https://www.occrp.org/en/news/dark-web-drug-trafficker-pleads-guilty-to-money-laundering |
+| [3] | Silk Road drug dealer laundered $19M in profits with Bitcoin | TheNextWeb | 2019-11-08 | https://thenextweb.com/news/silk-road-drug-dealer-laundered-19m-in-profits-with-bitcoin |
+| [4] | Silk Road Seller Pleads Guilty to Money Laundering $19 Million With Bitcoin | Coindesk | 2019-11-08 | https://www.coindesk.com/markets/2019/11/08/silk-road-seller-pleads-guilty-to-money-laundering-19-million-with-bitcoin |

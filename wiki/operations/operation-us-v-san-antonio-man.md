@@ -59,12 +59,13 @@ challenges_encountered:
 
 lessons_learned:
 
-source_count: 4
+source_count: 5
 sources:
   - "[[2026-04-18_justice-gov_san-antonio-man-sentenced-january-2018-threats-made-against-players-and-fans-nfl]]"
   - "[[2018-01-14_washingtonpost_mass-shooting-threat-against-steelers-players-fans-during-nfl-playoff-game-ends-in-arrest]]"
   - "[[2018-01-14_cnn_fbi-texas-man-threatened-to-kill-pittsburgh-steelers-players-and-fans]]"
   - "[[2018-01-14_ksat_sa-man-threatened-mass-shooting-at-nfl-playoff-game-affidavit-says]]"
+  - "[[2018-01-14_cbssports_texas-man-arrested-threatening-kill-players-fans-jaguars-steelers]]"
 summary: "This domestic-only U.S. follow-on record has been absorbed into the canonical case page [[us-v-san-antonio-man]]. No visible cross-border mechanism is documented, so it is not treated as a separate international-cooperation operation."
 created: 2026-04-18
 updated: 2026-04-25
@@ -85,3 +86,4 @@ This domestic-only U.S. follow-on record has been absorbed into the canonical ca
 | [2] | Mass-shooting threat against Steelers players, fans during NFL playoff game ends in arrest | The Washington Post | 2018-01-14 | https://www.washingtonpost.com/news/early-lead/wp/2018/01/14/threat-to-kill-steelers-players-fans-during-nfl-playoff-game-ends-in-arrest/ |
 | [3] | FBI: Texas man threatened to kill Pittsburgh Steelers players and fans | CNN | 2018-01-14 | https://www.cnn.com/2018/01/14/us/mass-shooting-threat-pittsburgh-steelers-playoff-game/index.html |
 | [4] | SA man threatened mass shooting at NFL playoff game, affidavit says | KSAT San Antonio (ABC) | 2018-01-14 | https://www.ksat.com/news/sa-man-threatened-mass-shooting-at-nfl-playoff-game-affidavit-says-1 |
+| [5] | Texas man arrested after threatening to kill players, fans at Jaguars-Steelers game | CBS Sports | 2018-01-14 | https://www.cbssports.com/nfl/news/texas-man-arrested-after-threatening-to-kill-players-fans-at-jaguars-steelers-game/ |

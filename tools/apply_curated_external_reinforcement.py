@@ -6665,6 +6665,299 @@ CURATED: dict[str, dict[str, Any]] = {
             "2025-06-23_timesgeorgian_seven-charged-online-fentanyl-meth-marketplace",
         ],
     },
+    "infraud-telusma-sentencing": {
+        "sources": [
+            "2022-05-29_bleepingcomputer_new-yorker-imprisoned-for-role-in-carding-group",
+            "2022-05-27_therecord_man-who-helped-infraud-cybercrime-cartel-sentenced",
+            "2022-05-31_securityweek_seventh-member-cyber-fraud-ring-sentenced",
+        ],
+    },
+    "operation-us-v-haney-silk-road": {
+        "sources": [
+            "2019-11-08_occrp_dark-web-drug-trafficker-pleads-guilty-to-money-laundering",
+            "2019-11-08_thenextweb_silk-road-drug-dealer-laundered-19m-bitcoin",
+            "2019-11-08_coindesk_silk-road-seller-pleads-guilty-money-laundering-19-million-bitcoin",
+        ],
+    },
+    "operation-us-v-roger-thomas-clark-silk-road": {
+        "sources": [
+            "2023-07-11_therecord_silk-road-mentor-variety-jones-sentenced-to-20-years",
+            "2023-07-12_gizmodo_silk-road-roger-thomas-clark-sentenced-20-years",
+            "2023-07-11_vice_top-silk-road-advisor-variety-jones-sentenced-20-years",
+        ],
+    },
+    "operation-us-v-ulbricht": {
+        "sources": [
+            "2017-05-31_justia_united-states-v-ulbricht-no-15-1815",
+            "2017-06-01_natlawreview_silk-road-website-founder-loses-appeal",
+            "2017-05-31_nsarchive_united-states-v-ross-william-ulbricht",
+        ],
+    },
+    "operation-two-men-indicted-in-sim-swapping-scheme-to-steal-cryptocurrency": {
+        "sources": [
+            "2019-02-06_krebsonsecurity_more-alleged-sim-swappers-face-justice",
+            "2019-02-06_coingeek_california-court-indicts-two-men-sim-swapping",
+        ],
+    },
+    "operation-us-v-vlastos-dark-web": {
+        "sources": [
+            "2025-05-13_beavercountyradio_pittsburgh-man-70-months-firearm-controlled-substances",
+            "2024-11-06_hoodline_pittsburgh-felon-pleads-guilty-false-statement-firearm",
+        ],
+    },
+    "operation-darknet-drug-vendor-arrested-for-distributing-illicit-prescription-drugs": {
+        "sources": [
+            "2020-12-04_ajc_fbi-arrests-duluth-man-darknet-opioids",
+        ],
+    },
+    "operation-multiple-foreign-nationals-charged-in-connection-with-trickbot-malware-and-conti-ransomware-conspiracies": {
+        "sources": [
+            "2023-09-07_infosecurity-magazine_uk-us-sanction-11-russians-conti-trickbot",
+        ],
+    },
+    "operation-new-york-man-sentenced-to-54-months-in-prison-for-selling-counterfeit-xanax-on-dark-web": {
+        "sources": [
+            "2025-11-19_kttn_dark-web-dealer-prison-counterfeit-xanax",
+        ],
+    },
+    "operation-pittsburgh-resident-and-darknet-drug-trafficker-sentenced-to-nearly-six-years-in-prison-on-federal-drug-traffi": {
+        "sources": [
+            "2025-05-13_beavercountyradio_pittsburgh-man-70-months-firearm-controlled-substances",
+            "2024-11-06_hoodline_pittsburgh-felon-pleads-guilty-false-statement-firearm",
+        ],
+    },
+    "operation-two-romanian-suspects-charged-with-hacking-of-metropolitan-police-department-surveillance-cameras-in-connectio": {
+        "sources": [
+            "2018-07-30_statescoop_romanians-accused-2017-ransomware-dc-police-cameras-bigger-plans",
+        ],
+    },
+    "operation-us-v-ardit-kutleshi-and-jetmir-kutleshi": {
+        "sources": [
+            "2024-12-12_bleepingcomputer_police-shuts-down-rydox-cybercrime-market",
+        ],
+    },
+    "operation-us-v-jacob-blair": {
+        "sources": [
+            "2024-12-18_cbsnews_pennsylvania-man-pleads-guilty-counterfeit-narcotics-online",
+        ],
+    },
+    "operation-us-v-khaled-miah": {
+        "sources": [
+            "2021-01-08_triblive_former-pitt-student-fbi-threats-remain-custody",
+        ],
+    },
+    "operation-us-v-san-antonio-man": {
+        "sources": [
+            "2018-01-14_cbssports_texas-man-arrested-threatening-kill-players-fans-jaguars-steelers",
+        ],
+    },
+    "operation-us-v-tai-jauna-jones": {
+        "sources": [
+            "2024-09-26_triblive_brentwood-youngwood-await-sentencing-avis-rental-scheme",
+        ],
+    },
+    "operation-us-v-victoria-eduardovna-dubranova": {
+        "sources": [
+            "2025-12-09_bleepingcomputer_ukrainian-hacker-charged-helping-russian-hacktivist-groups",
+        ],
+    },
+    "operation-usd-257-million-seized-in-global-police-crackdown-against-online-scams-operation-first-light-2024": {
+        "sources": [
+            "2024-06-27_infosecurity-magazine_operation-first-light-seizes-257m-global-scam-bust",
+        ],
+    },
+    "operation-us-v-galochkin-trickbot-conti": {
+        "sources": [
+            "2023-09-07_gov-uk_uk-sanctions-members-of-russian-cybercrime-gang",
+            "2023-09-07_foxnews_russian-cybercrime-suspects-indicted-multi-million-dollar-trickbot-malware-conti-ransomware-scheme",
+            "2023-09-07_hometownstations_multiple-foreign-nationals-charged-in-connection-with-trickbot-malware-and-conti-ransomware-conspiracies",
+        ],
+    },
+    "operation-us-v-matthew-jones-silk-road": {
+        "sources": [
+            "2014-05-30_justice-gov_texas-resident-charged-illegally-selling-controlled-substances-silk-road-bitmessage",
+            "2014-08-15_justice-gov_texas-business-executive-pleads-guilty-illegally-selling-oxycodone-silk-road",
+            "2014-05-30_us-mdfl_jones-criminal-complaint",
+        ],
+    },
+    "operation-us-v-sheldon-kennedy-silk-road": {
+        "sources": [
+            "2014-02-20_cbsnews-baltimore_neb-man-charged-in-silk-road-case",
+            "2014-02-20_justice-gov_charges-filed-against-vendor-using-silk-road-website-sell-drugs-and-guns",
+            "2014-02-20_ice-gov_charges-filed-against-vendor-selling-drugs-and-guns-silk-road-website",
+        ],
+    },
+    "operation-us-v-yakubets-dridex": {
+        "sources": [
+            "2019-12-05_threatpost_feds-offer-5m-reward-to-nab-evil-corp-dridex-hacker",
+            "2019-12-05_cyberscoop_us-charges-two-russians-in-connection-with-dridex-banking-malware",
+            "2024-10-03_chainalysis_ofac-designates-russia-based-evil-corp-october-2024",
+        ],
+    },
+    "operation-16-defendants-federally-charged-in-connection-with-danabot-malware-scheme-that-infected-computers-worldwide": {
+        "sources": [
+            "2025-05-23_therecord_hackers-charged-infrastructure-dismantled-operation-endgame",
+        ],
+    },
+    "operation-administrator-of-online-criminal-marketplace-extradited-from-kosovo-to-the-united-states": {
+        "sources": [
+            "2025-05-14_bleepingcomputer_kosovo-extradites-blackdb-admin-to-face-us-cybercrime-charges",
+        ],
+    },
+    "operation-europol-mastermind-behind-eur-1-billion-cyber-bank-robbery-arrested-in-spain-carbanak-cobalt": {
+        "sources": [
+            "2018-03-26_securityweek_ukrainian-suspected-leading-carbanak-gang-arrested-spain",
+        ],
+    },
+    "operation-new-york-man-admits-continuing-to-sell-counterfeit-xanax-on-dark-web": {
+        "sources": [
+            "2025-11-19_missourian_dark-web-drug-dealer-tied-to-local-counterfeit-pill-scheme-sentenced",
+        ],
+    },
+    "operation-ohio-resident-pleads-guilty-to-operating-darknet-based-bitcoin-mixer-that-laundered-over-300-million": {
+        "sources": [
+            "2021-08-18_bleepingcomputer_bitcoin-mixer-owner-pleads-guilty-to-laundering-over-300-million",
+        ],
+    },
+    "operation-romanian-woman-pleads-guilty-to-federal-charges-in-hacking-of-metropolitan-police-department-surveillance-came": {
+        "sources": [
+            "2018-09-20_rollcall_romanian-cyberattack-targeted-security-cameras-ahead-of-inauguration",
+        ],
+    },
+    "operation-two-texas-men-charged-in-stealing-over-a-million-dollars-in-a-romance-scam": {
+        "sources": [
+            "2022-12-20_foxnews_texas-man-pleads-guilty-romance-scam-swindled-missouri-woman-1-2m",
+        ],
+    },
+    "operation-us-v-jason-keith-arnold-and-david-white": {
+        "sources": [
+            "2019-03-08_abc15_chandler-tattoo-business-owner-arrested-in-connection-to-fbi-investigation",
+        ],
+    },
+    "operation-us-v-nathaniel-earl-dunlap": {
+        "sources": [
+            "2017-04-14_cbsnews-pittsburgh_man-pretended-missing-duquesne-grad-student",
+        ],
+    },
+    "operation-us-v-shengsheng-he": {
+        "sources": [
+            "2025-06-10_americanbanker_anatomy-of-a-39-5-million-pig-butchering-scam",
+        ],
+    },
+    "operation-us-v-tal-prihar-and-michael-phan": {
+        "sources": [
+            "2019-05-08_techcrunch_justice-department-charges-deep-dot-web-administrators-with-money-laundering",
+        ],
+    },
+    "operation-usd-257-million-seized-in-global-police-crackdown-against-online-scams-operation-first-light-2024-2": {
+        "sources": [
+            "2024-06-27_infosecurity-magazine_operation-first-light-seizes-257m-in-global-scam-bust",
+        ],
+    },
+    "operation-washington-pa-man-charged-with-cyberstalking": {
+        "sources": [
+            "2022-07-16_wjpa_washington-man-charged-with-cyberstalking",
+        ],
+    },
+    "operation-us-v-gary-davis-silk-road": {
+        "sources": [
+            "2019-07-25_irishcentral_gary-davis-sentenced-dark-web-silk-road-involvement",
+            "2019-07-25_thehackernews_silk-road-admin-sentenced-78-months-prison-drug-trafficking",
+            "2019-07-26_thejournalie_irish-man-sentenced-six-years-us-prison-silk-road-narcotics-conspiracy",
+        ],
+    },
+    "operation-us-v-olivia-bolles-silk-road": {
+        "sources": [
+            "2014-10-03_wtop_del-doctor-sentenced-silk-road-drug-sales-case",
+            "2014-10-03_washingtontimes_del-doctor-sentenced-silk-road-drug-sales-case",
+            "2013-11-25_dailydot_olivia-bolles-alexandra-gold-silk-road-arrested-oxycontin",
+        ],
+    },
+    "operation-us-v-telusma-infraud": {
+        "sources": [
+            "2022-05-22_legalreader_darknet-infraud-member-sentenced-cybercrime-case",
+            "2022-05-22_therecord_man-helped-infraud-cybercrime-cartel-credit-cards-sentenced",
+            "2022-05-28_thehackernews_new-york-man-sentenced-4-years-transnational-cybercrime-scheme",
+        ],
+    },
+    "operation-justice-department-seeks-forfeiture-of-over-5-million-in-bitcoin-stolen-in-sim-swapping-scams": {
+        "sources": [
+            "2025-09-09_law_justice-department-pursues-5-million-bitcoin-tied-sim-swap-thefts",
+            "2025-09-09_casino-org_stake-com-cited-doj-seeks-5-million-bitcoin-seizure-sim-swap-case",
+        ],
+    },
+    "operation-owners-of-empire-market-charged-in-chicago-with-operating-430-million-dark-web-marketplace": {
+        "sources": [
+            "2024-06-15_cyberinsider_empire-market-admins-charged-running-430-million-dark-web-site",
+            "2024-06-17_dhs-hsi_dark-web-marketplace-owners-charged-facilitating-430m-illegal-goods-sales",
+        ],
+    },
+    "operation-us-v-ulbricht-silk-road": {
+        "sources": [
+            "2015-05-29_npr_silk-road-founder-sentenced-life-prison",
+            "2015-05-29_fbi-gov_ross-ulbricht-sentenced-to-life-in-prison",
+        ],
+    },
+    "operation-chinese-national-sentenced-prison-role-crypto-scam-targeting-americans": {
+        "sources": [
+            "2026-01-28_fortune_judge-chinese-crypto-scammer-37-million-46-month-sentence",
+        ],
+    },
+    "operation-justice-department-seeks-forfeiture-of-848-247-in-cryptocurrency-from-confidence-scams": {
+        "sources": [
+            "2025-09-03_regtechtimes_doj-targets-848247-tether-cryptocurrency-scam-losses",
+        ],
+    },
+    "operation-new-york-man-indicted-in-st-louis-accused-of-selling-counterfeit-xanax-on-dark-web": {
+        "sources": [
+            "2023-04-14_stltoday_seattle-area-man-indicted-st-louis-dark-web-drug-counterfeiting-scheme",
+        ],
+    },
+    "operation-phobos-ransomware-administrator-extradited-from-south-korea-to-face-cybercrime-charges": {
+        "sources": [
+            "2025-07-15_therecord_phobos-ransomware-leader-facing-20-years-guilty-plea",
+        ],
+    },
+    "operation-rydox-cybercrime-marketplace-shut-down-and-three-administrators-arrested": {
+        "sources": [
+            "2024-12-12_therecord_three-arrested-kosovo-rydox-marketplace-extradition",
+        ],
+    },
+    "operation-us-v-allen-d-lint": {
+        "sources": [
+            "2018-12-04_kentreporter_everett-online-heroin-meth-dealer-sentenced-mailing-drugs",
+        ],
+    },
+    "operation-us-v-international-travel": {
+        "sources": [
+            "2024-09-30_cbsnews_sacramento-man-life-prison-buying-filipino-children-clemans",
+        ],
+    },
+    "operation-us-v-kaleb-levicky": {
+        "sources": [
+            "2022-03-22_postgazette_greene-county-data-engineer-kaleb-levicky-cyberstalking-death-threats",
+        ],
+    },
+    "operation-us-v-new-jersey-man": {
+        "sources": [
+            "2021-08-03_njglobe_man-threatening-letters-federal-judge-16-months-prison",
+        ],
+    },
+    "operation-us-v-south-carolina-man": {
+        "sources": [
+            "2018-08-15_rawstory_man-bizarre-lengths-harass-neighbor-suspected-black-friend",
+        ],
+    },
+    "operation-us-v-tan-dark-web": {
+        "sources": [
+            "2024-01-24_yahoo_man-18-months-federal-prison-dark-web-drug-dealing",
+        ],
+    },
+    "operation-usd-257-million-seized-in-global-police-crackdown-against-online-scams-operation-first-light-2024-3": {
+        "sources": [
+            "2024-06-20_gizmodo_interpol-fraud-scams-ftc-operation-first-light-2024",
+        ],
+    },
 
 }
 
