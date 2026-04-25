@@ -19,6 +19,12 @@ key_findings:
   - "The Council of Europe profile provides Germany's cybercrime and electronic-evidence legal framework in the Budapest Convention ecosystem."
   - "The profile is useful for competent-authority, preservation-order, traffic-data and procedural-safeguard references."
 created: 2026-04-18
+raw_path: raw/press-releases/2026-04-18_coe-int_germany-octopus-cybercrime-community-country-profile.md
+text_status: parsed
+content_hash: sha256:4de78e1ddd135dc3eeab02e888b5141278de189e576b3d06fe3cad25709bac28
+word_count: 2421
+extraction_date: 2026-04-25
+last_fetcher: jina
 ---
 ## Source Summary
 

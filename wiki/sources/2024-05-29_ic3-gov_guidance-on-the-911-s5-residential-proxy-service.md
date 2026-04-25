@@ -21,6 +21,12 @@ key_findings:
   - "The advisory framed the botnet as a vehicle for fraud, identity theft, child exploitation, and initial access brokering."
 created: 2026-04-18
 updated: 2026-04-18
+raw_path: raw/press-releases/2024-05-29_ic3-gov_guidance-on-the-911-s5-residential-proxy-service.md
+text_status: parsed
+content_hash: sha256:a45c393012c6a37e803ebc8485cf104172363b3b695235805c48c0005ece5885
+word_count: 789
+extraction_date: 2026-04-25
+last_fetcher: urllib
 ---
 ## Source Summary
 

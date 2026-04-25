@@ -17,6 +17,12 @@ key_findings:
   - "Identifies darknet and Telegram as PII-acquisition channels — relevant to cross-border data-sourcing element of the case."
 collection_url: https://www.irs.gov/compliance/criminal-investigation/glastonbury-men-charged-with-using-thousands-of-stolen-identities-to-defraud-fanduel-and-other-online-gambling-sites-of-3-million
 created: 2026-04-25
+raw_path: raw/press-releases/2026-02-06_irs_glastonbury-men-charged-using-thousands-stolen-identities-defraud-fanduel.md
+text_status: parsed
+content_hash: sha256:8c422769442579e657e4c4cbc9a1058e189090f2869a3955ad6bad4d10f08cd3
+word_count: 409
+extraction_date: 2026-04-25
+last_fetcher: urllib
 ---
 ## Source Summary
 

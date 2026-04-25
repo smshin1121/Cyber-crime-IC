@@ -17,6 +17,12 @@ key_findings:
   - "Confirms AlphaBay/Dream Market vendor PlasticA scope."
 collection_url: https://www.justice.gov/usao-edca/pr/two-individuals-sentenced-conspiracy-charges-involving-sale-fraudulent-identity
 created: 2026-04-25
+raw_path: raw/press-releases/2022-04-05_justice-gov_two-individuals-sentenced-conspiracy-charges-fraudulent-identity-documents.md
+text_status: parsed
+content_hash: sha256:ba15ce863ad72b739638d62d9c729fc6e632c1e02771998fa4f391b3d9ba1cc8
+word_count: 151
+extraction_date: 2026-04-25
+last_fetcher: doj_fetch
 ---
 ## Source Summary
 

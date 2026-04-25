@@ -17,6 +17,11 @@ key_findings:
   - "This domestic-only U.S. follow-on record has been absorbed into the canonical case page [[seattle-man-sentenced-for-buying-630-000-counterfeit-pills-on-the-dark-web]]. No visible cross-border mechanism is documented, so it is not treated as a separate international-cooperation operation."
 collection_url: https://www.justice.gov/usao-edmo/pr/seattle-man-sentenced-buying-630000-counterfeit-pills-dark-web
 created: 2026-04-17
+text_status: parsed
+content_hash: sha256:2ec3e819e004d47af28131001ab8655b5b217f4e77f5bf084e5dfe019179094c
+word_count: 174
+extraction_date: 2026-04-25
+last_fetcher: doj_fetch
 ---
 ## Source Summary
 

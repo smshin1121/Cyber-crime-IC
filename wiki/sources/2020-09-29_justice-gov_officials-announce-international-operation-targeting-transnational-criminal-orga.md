@@ -17,6 +17,11 @@ key_findings:
   - "This domestic-only U.S. follow-on record has been absorbed into the canonical case page [[us-v-nazarovi-qqaazz]]. No visible cross-border mechanism is documented, so it is not treated as a separate international-cooperation operation."
 collection_url: https://www.justice.gov/usao-wdpa/pr/officials-announce-international-operation-targeting-transnational-criminal
 created: 2026-04-17
+text_status: parsed
+content_hash: sha256:8c9c52c4bb72f39c7d3935f8d35f7159511553b3ed3aeca4f10977a6a9e1ea14
+word_count: 1810
+extraction_date: 2026-04-25
+last_fetcher: doj_fetch
 ---
 ## Source Summary
 

@@ -17,6 +17,11 @@ key_findings:
   - "This domestic-only U.S. follow-on record has been absorbed into the canonical case page [[senior-adviser-to-the-operator-of-the-silk-road-online-black-market-sentenced-to-20-years-in-prison]]. No visible cross-border mechanism is documented, so it is not treated as a separate international-cooperation operation."
 collection_url: https://www.justice.gov/usao-sdny/pr/senior-adviser-operator-silk-road-online-black-market-sentenced-20-years-prison
 created: 2026-04-17
+text_status: parsed
+content_hash: sha256:49a58bc0a4a9dd4db8c206c4ca172cc8363eb7566830a68b9dd625cb766d33b1
+word_count: 1261
+extraction_date: 2026-04-25
+last_fetcher: doj_fetch
 ---
 ## Source Summary
 

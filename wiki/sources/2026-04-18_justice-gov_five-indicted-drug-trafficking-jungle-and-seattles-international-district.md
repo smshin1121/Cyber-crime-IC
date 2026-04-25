@@ -14,10 +14,15 @@ sensitivity: public
 pages_updated:
 
 key_findings:
-  - "Secure .gov websites use HTTPS A lock ( Lock Locked padlock ) or https:// means you’ve safely connected to the .gov website. Share sensitive information only on official, secure websites."
+  - "Secure .gov websites use HTTPS A lock ( Lock Locked padlock ) or https: "// means you’ve safely connected to the .gov website. Share sensitive information only on official, secure websites.\""
 collection_url: https://www.justice.gov/usao-wdwa/pr/five-indicted-drug-trafficking-jungle-and-seattles-international-district
 created: 2026-04-18
 updated: 2026-04-18
+text_status: parsed
+content_hash: sha256:e393980cb36ebfea03fd88d04f7eaf24f7f83ec8485e66b2556685cb928f0dac
+word_count: 1226
+extraction_date: 2026-04-25
+last_fetcher: doj_fetch
 ---
 ## Source Summary
 

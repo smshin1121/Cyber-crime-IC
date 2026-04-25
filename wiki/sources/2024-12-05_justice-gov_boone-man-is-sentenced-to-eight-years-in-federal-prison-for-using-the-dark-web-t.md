@@ -17,6 +17,11 @@ key_findings:
   - "This domestic-only U.S. follow-on record has been absorbed into the canonical case page [[us-v-jacob-elijah-kilgore]]. No visible cross-border mechanism is documented, so it is not treated as a separate international-cooperation operation."
 collection_url: https://www.justice.gov/usao-wdnc/pr/boone-man-sentenced-eight-years-federal-prison-using-dark-web-transport-child
 created: 2026-04-17
+text_status: parsed
+content_hash: sha256:788f488114f05265a579f041a7ea331738eab68cd7c9261802a793e3697b0430
+word_count: 193
+extraction_date: 2026-04-25
+last_fetcher: doj_fetch
 ---
 ## Source Summary
 

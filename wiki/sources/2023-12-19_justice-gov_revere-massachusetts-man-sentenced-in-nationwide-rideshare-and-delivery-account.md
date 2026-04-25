@@ -17,6 +17,11 @@ key_findings:
   - "This domestic-only U.S. follow-on record has been absorbed into the canonical case page [[revere-massachusetts-man-sentenced-in-nationwide-rideshare-and-delivery-account-fraud-scheme]]. No visible cross-border mechanism is documented, so it is not treated as a separate international-cooperation operation."
 collection_url: https://www.justice.gov/usao-ri/pr/revere-massachusetts-man-sentenced-nationwide-rideshare-and-delivery-account-fraud
 created: 2026-04-17
+text_status: parsed
+content_hash: sha256:5194a4f4a99a00bfe827578bbf06412f06d24bea4824eaf94356c37f3af8c2e3
+word_count: 959
+extraction_date: 2026-04-25
+last_fetcher: doj_fetch
 ---
 ## Source Summary
 

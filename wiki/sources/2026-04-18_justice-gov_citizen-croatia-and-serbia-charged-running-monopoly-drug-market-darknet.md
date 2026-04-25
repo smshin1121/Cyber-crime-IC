@@ -14,10 +14,15 @@ sensitivity: public
 pages_updated:
 
 key_findings:
-  - "Secure .gov websites use HTTPS A lock ( Lock Locked padlock ) or https:// means you’ve safely connected to the .gov website. Share sensitive information only on official, secure websites."
+  - "Secure .gov websites use HTTPS A lock ( Lock Locked padlock ) or https: "// means you’ve safely connected to the .gov website. Share sensitive information only on official, secure websites.\""
 collection_url: https://www.justice.gov/usao-dc/pr/citizen-croatia-and-serbia-charged-running-monopoly-drug-market-darknet
 created: 2026-04-18
 updated: 2026-04-18
+text_status: parsed
+content_hash: sha256:f8375e1d3ef4d4d46183d1609e7371e250e037289d2258f082750e8999cafde5
+word_count: 1253
+extraction_date: 2026-04-25
+last_fetcher: doj_fetch
 ---
 ## Source Summary
 

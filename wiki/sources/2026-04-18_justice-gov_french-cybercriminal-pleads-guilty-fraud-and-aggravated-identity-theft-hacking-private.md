@@ -14,10 +14,15 @@ sensitivity: public
 pages_updated:
 
 key_findings:
-  - "Secure .gov websites use HTTPS A lock ( Lock Locked padlock ) or https:// means you’ve safely connected to the .gov website. Share sensitive information only on official, secure websites."
+  - "Secure .gov websites use HTTPS A lock ( Lock Locked padlock ) or https: "// means you’ve safely connected to the .gov website. Share sensitive information only on official, secure websites.\""
 collection_url: https://www.justice.gov/usao-wdwa/pr/french-cybercriminal-pleads-guilty-fraud-and-aggravated-identity-theft-hacking-private
 created: 2026-04-18
 updated: 2026-04-18
+text_status: parsed
+content_hash: sha256:815667c6f2b712628fffad8ae7a7e4b5d83d14185f8ff62d9ba33b7f8878fa1a
+word_count: 981
+extraction_date: 2026-04-25
+last_fetcher: doj_fetch
 ---
 ## Source Summary
 

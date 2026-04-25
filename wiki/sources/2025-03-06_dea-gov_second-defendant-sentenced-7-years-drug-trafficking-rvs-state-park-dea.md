@@ -2,8 +2,8 @@
 type: source
 title: "Second defendant sentenced to 7 years in prison for drug trafficking from RVs near a state park"
 source_type: press-release
-publisher: "DEA"
-author: "Staff"
+publisher: DEA
+author: Staff
 publish_date: 2025-03-06
 ingest_date: 2026-04-25
 language: en
@@ -17,6 +17,12 @@ key_findings:
   - "Confirms the May 12, 2024 rural King County shooting that triggered the case."
 collection_url: https://www.dea.gov/press-releases/2025/03/06/second-defendant-sentenced-7-years-prison-drug-trafficking-rvs-near
 created: 2026-04-25
+raw_path: raw/press-releases/2025-03-06_dea-gov_second-defendant-sentenced-7-years-drug-trafficking-rvs-state-park-dea.md
+text_status: parsed
+content_hash: sha256:44b5bb3fa67f442b1d630edd3379fbab29772bd7e0a6f171d30e945ccf06ff78
+word_count: 4760
+extraction_date: 2026-04-25
+last_fetcher: jina
 ---
 ## Source Summary
 

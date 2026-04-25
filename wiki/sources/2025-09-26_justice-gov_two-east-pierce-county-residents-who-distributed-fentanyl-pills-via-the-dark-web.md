@@ -17,6 +17,11 @@ key_findings:
   - "This domestic-only U.S. follow-on record has been absorbed into the canonical case page [[us-v-haahr-albert-dark-web]]. No visible cross-border mechanism is documented, so it is not treated as a separate international-cooperation operation."
 collection_url: https://www.justice.gov/usao-wdwa/pr/two-east-pierce-county-residents-who-distributed-fentanyl-pills-dark-web-plead-guilty
 created: 2026-04-17
+text_status: parsed
+content_hash: sha256:3dfeff5eb1c9d2482e048b7fcf26ab4f616a91edb417da1f801b9ac6c17bc530
+word_count: 925
+extraction_date: 2026-04-25
+last_fetcher: doj_fetch
 ---
 ## Source Summary
 

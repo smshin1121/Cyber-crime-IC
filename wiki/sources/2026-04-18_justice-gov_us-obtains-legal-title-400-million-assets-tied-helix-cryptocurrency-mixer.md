@@ -14,10 +14,15 @@ sensitivity: public
 pages_updated:
 
 key_findings:
-  - "Secure .gov websites use HTTPS A lock ( Lock Locked padlock ) or https:// means you’ve safely connected to the .gov website. Share sensitive information only on official, secure websites."
+  - "Secure .gov websites use HTTPS A lock ( Lock Locked padlock ) or https: "// means you’ve safely connected to the .gov website. Share sensitive information only on official, secure websites.\""
 collection_url: https://www.justice.gov/usao-dc/pr/us-obtains-legal-title-400-million-assets-tied-helix-cryptocurrency-mixer
 created: 2026-04-18
 updated: 2026-04-18
+text_status: parsed
+content_hash: sha256:9fd58f0a88066f7229709d5b2afdf9cf27d862f958e8a6aeba40961b94e672de
+word_count: 1066
+extraction_date: 2026-04-25
+last_fetcher: doj_fetch
 ---
 ## Source Summary
 

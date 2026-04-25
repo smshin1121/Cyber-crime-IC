@@ -17,6 +17,11 @@ key_findings:
   - "This domestic-only U.S. follow-on record has been absorbed into the canonical case page [[us-v-olivia-bolles-silk-road]]. No visible cross-border mechanism is documented, so it is not treated as a separate international-cooperation operation."
 collection_url: https://www.justice.gov/usao-mdfl/pr/delaware-doctor-who-illegally-sold-controlled-substances-silk-road-drug-marketplace
 created: 2026-04-17
+text_status: parsed
+content_hash: sha256:d3e8534e661d5b05c0c00b03d8ecc466354df3b64c8fc56372a9956785a172a7
+word_count: 736
+extraction_date: 2026-04-25
+last_fetcher: doj_fetch
 ---
 ## Source Summary
 

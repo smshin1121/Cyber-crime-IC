@@ -20,6 +20,11 @@ created: 2026-04-17
 defendant_names:
   - "Blake Benthall"
 updated: 2026-04-18
+text_status: parsed
+content_hash: sha256:ee819d96e6ad4437ec578c7eaeecce23248f1ebb4b21f9efc76bc997c51e0510
+word_count: 1637
+extraction_date: 2026-04-25
+last_fetcher: urllib
 ---
 ## Source Summary
 

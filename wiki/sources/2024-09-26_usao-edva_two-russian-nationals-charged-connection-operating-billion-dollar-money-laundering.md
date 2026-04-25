@@ -16,11 +16,17 @@ source_tier: 1
 pages_updated:
   - cryptex-pm2btc-sanctions
 key_findings:
-  - "Secure .gov websites use HTTPS A lock ( Lock Locked padlock ) or https:// means you’ve safely connected to the .gov website. Share sensitive information only on official, secure websites."
+  - "Secure .gov websites use HTTPS A lock ( Lock Locked padlock ) or https: "// means you’ve safely connected to the .gov website. Share sensitive information only on official, secure websites.\""
 created: 2026-04-18
 updated: 2026-04-18
 defendant_names:
   - "Conor Brian Fitzpatrick"
+raw_path: raw/press-releases/2026-04-18_justice-gov_two-russian-nationals-charged-connection-operating-billion-dollar-money-laundering.md
+text_status: parsed
+content_hash: sha256:26b136cf21842b29e46e7a0236fd736686e8ad2c8ff0d95dac7ddd1975d451bd
+word_count: 166
+extraction_date: 2026-04-25
+last_fetcher: doj_fetch
 ---
 ## Source Summary
 

@@ -17,6 +17,11 @@ key_findings:
   - "This domestic-only U.S. follow-on record has been absorbed into the canonical case page [[usps-employee-indicted-for-misappropriation-of-funds]]. No visible cross-border mechanism is documented, so it is not treated as a separate international-cooperation operation."
 collection_url: https://www.justice.gov/usao-ks/pr/usps-employee-indicted-misappropriation-funds
 created: 2026-04-17
+text_status: parsed
+content_hash: sha256:71524b86e091b337221044cdb4d92ba7acc9dcce750ba487e4313e07a41f7320
+word_count: 141
+extraction_date: 2026-04-25
+last_fetcher: doj_fetch
 ---
 ## Source Summary
 

@@ -17,6 +17,11 @@ key_findings:
   - "This domestic-only U.S. follow-on record has been absorbed into the canonical case page [[us-v-unsealed-against-russian-national]]. No visible cross-border mechanism is documented, so it is not treated as a separate international-cooperation operation."
 collection_url: https://www.justice.gov/usao-dc/pr/ransomware-charges-unsealed-against-russian-national
 created: 2026-04-17
+text_status: parsed
+content_hash: sha256:df22be4e035c1c064e6220d8f30b3a2f21476bfb81a1d7b81eca45c40ed11cd4
+word_count: 1173
+extraction_date: 2026-04-25
+last_fetcher: doj_fetch
 ---
 ## Source Summary
 

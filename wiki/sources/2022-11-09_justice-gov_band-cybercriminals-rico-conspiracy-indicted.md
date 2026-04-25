@@ -17,6 +17,12 @@ key_findings:
   - "Names original defendants and the dark web server credential purchase scheme."
 collection_url: https://www.justice.gov/usao-mdfl/pr/band-cybercriminals-responsible-computer-intrusions-nationwide-indicted-rico-conspiracy
 created: 2026-04-25
+raw_path: raw/press-releases/2022-11-09_justice-gov_band-cybercriminals-rico-conspiracy-indicted.md
+text_status: parsed
+content_hash: sha256:7b749d6950ef7f44492056e980bcfb348c62e74cefaaddfc1af36bac400274d3
+word_count: 1101
+extraction_date: 2026-04-25
+last_fetcher: doj_fetch
 ---
 ## Source Summary
 

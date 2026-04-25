@@ -3,7 +3,7 @@ type: source
 title: "International Money Launderer Sentenced to More Than 11 Years in Prison for Laundering Millions of Dollars in Cyber Crime Schemes"
 source_type: press-release
 publisher: "US DOJ Office of Public Affairs"
-author: "Staff"
+author: Staff
 publish_date: 2021-09-08
 ingest_date: 2026-04-25
 language: en
@@ -17,6 +17,12 @@ key_findings:
   - "$30 million restitution ordered"
 collection_url: https://www.justice.gov/archives/opa/pr/international-money-launderer-sentenced-more-11-years-prison-laundering-millions-dollars
 created: 2026-04-25
+raw_path: raw/press-releases/2021-09-08_doj-opa_international-money-launderer-11-years-cyber-crime-opa.md
+text_status: parsed
+content_hash: sha256:0c76bb55249e2456c728fd92dd937a52d088a89688b43305ec08f3514dc0b170
+word_count: 1256
+extraction_date: 2026-04-25
+last_fetcher: doj_fetch
 ---
 ## Source Summary
 

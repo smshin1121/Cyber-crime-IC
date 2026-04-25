@@ -14,10 +14,15 @@ sensitivity: public
 pages_updated:
 
 key_findings:
-  - "Secure .gov websites use HTTPS A lock ( Lock Locked padlock ) or https:// means you’ve safely connected to the .gov website. Share sensitive information only on official, secure websites."
+  - "Secure .gov websites use HTTPS A lock ( Lock Locked padlock ) or https: "// means you’ve safely connected to the .gov website. Share sensitive information only on official, secure websites.\""
 collection_url: https://www.justice.gov/usao-cdca/pr/2-defendants-charged-us-courts-part-global-crackdown-booter-services-offering
 created: 2026-04-18
 updated: 2026-04-18
+text_status: parsed
+content_hash: sha256:4a43f9a232175b1c62ae0478c94a59ef3a7a26dfd9f474c3c7407962df31266a
+word_count: 1688
+extraction_date: 2026-04-25
+last_fetcher: doj_fetch
 ---
 ## Source Summary
 

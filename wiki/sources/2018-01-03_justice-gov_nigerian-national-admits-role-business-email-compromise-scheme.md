@@ -17,6 +17,12 @@ key_findings:
   - "FBI tied Odufuye and co-conspirators to 36 wire transfers totaling >$1.6 million Sept 2015-May 2016, including >$500K from a Torrington, CT victim company."
 collection_url: https://www.justice.gov/usao-ct/pr/nigerian-national-admits-role-business-e-mail-compromise-scheme
 created: 2026-04-25
+raw_path: raw/press-releases/2018-01-03_justice-gov_nigerian-national-admits-role-business-email-compromise-scheme.md
+text_status: parsed
+content_hash: sha256:8f08014d5d5b9ddd04270097da4b2ff8cf85584f879925f6a332ce470722e9f7
+word_count: 913
+extraction_date: 2026-04-25
+last_fetcher: doj_fetch
 ---
 ## Source Summary
 

@@ -14,10 +14,15 @@ sensitivity: public
 pages_updated:
 
 key_findings:
-  - "Secure .gov websites use HTTPS A lock ( Lock Locked padlock ) or https:// means you’ve safely connected to the .gov website. Share sensitive information only on official, secure websites."
+  - "Secure .gov websites use HTTPS A lock ( Lock Locked padlock ) or https: "// means you’ve safely connected to the .gov website. Share sensitive information only on official, secure websites.\""
 collection_url: https://www.justice.gov/usao-wdwa/pr/binance-and-ceo-plead-guilty-federal-charges-4b-resolution
 created: 2026-04-18
 updated: 2026-04-18
+text_status: parsed
+content_hash: sha256:93a5a718c4b109796dcbbd6891e9583b7aeb71c27880e5fe13cd4fac4ca0f6a8
+word_count: 2608
+extraction_date: 2026-04-25
+last_fetcher: doj_fetch
 ---
 ## Source Summary
 

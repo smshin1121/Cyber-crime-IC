@@ -14,12 +14,17 @@ sensitivity: public
 pages_updated:
 
 key_findings:
-  - "Secure .gov websites use HTTPS A lock ( Lock Locked padlock ) or https:// means you’ve safely connected to the .gov website. Share sensitive information only on official, secure websites."
+  - "Secure .gov websites use HTTPS A lock ( Lock Locked padlock ) or https: "// means you’ve safely connected to the .gov website. Share sensitive information only on official, secure websites.\""
 collection_url: https://www.justice.gov/usao-sdca/pr/distributor-anom-hardened-encrypted-devices-sentenced-63-months-prison-racketeering
 created: 2026-04-17
 updated: 2026-04-18
 defendant_names:
   - "Hardened Encrypted Devices"
+text_status: parsed
+content_hash: sha256:cdc6cc021bf04b96dfdbe317cff454d27172981b34197564202afa86c4fe7f33
+word_count: 162
+extraction_date: 2026-04-25
+last_fetcher: doj_fetch
 ---
 ## Source Summary
 

@@ -17,6 +17,11 @@ key_findings:
   - "This domestic-only U.S. follow-on record has been absorbed into the canonical case page [[us-v-kenneth-warren-rhule-and-kenneth-john-rule]]. No visible cross-border mechanism is documented, so it is not treated as a separate international-cooperation operation."
 collection_url: https://www.justice.gov/usao-wdwa/pr/father-and-son-sentenced-prison-money-laundering-and-illegal-marijuana-business
 created: 2026-04-17
+text_status: parsed
+content_hash: sha256:95c52e74ab55bac10529cab7407e79ef10d5549e11e710300fd68a301dfe19a0
+word_count: 1067
+extraction_date: 2026-04-25
+last_fetcher: doj_fetch
 ---
 ## Source Summary
 

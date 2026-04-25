@@ -17,6 +17,12 @@ key_findings:
   - "Documents three Dream Market vendor accounts."
 collection_url: https://www.ice.gov/news/releases/nicaraguan-national-pleads-guilty-conspiring-distribute-cocaine-marijuana-darknet
 created: 2026-04-25
+raw_path: raw/press-releases/2019-06-03_ice-gov_nicaraguan-national-pleads-guilty-conspiring-distribute-cocaine-marijuana-darknet.md
+text_status: parsed
+content_hash: sha256:8aad11b9d474a801bc57123dae4aab1b46b9ffda0ceb5fcb33c13ff24fcc1702
+word_count: 884
+extraction_date: 2026-04-25
+last_fetcher: urllib
 ---
 ## Source Summary
 

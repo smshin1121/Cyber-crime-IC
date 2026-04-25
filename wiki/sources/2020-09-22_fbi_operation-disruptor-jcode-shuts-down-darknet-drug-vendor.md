@@ -2,8 +2,8 @@
 type: source
 title: "Operation DisrupTor"
 source_type: press-release
-publisher: "FBI"
-author: "Staff"
+publisher: FBI
+author: Staff
 publish_date: 2020-09-22
 ingest_date: 2026-04-25
 language: en
@@ -17,6 +17,12 @@ key_findings:
   - "Stealthgod organization linked to 18,000+ illicit drug sales"
 collection_url: https://www.fbi.gov/news/stories/operation-disruptor-jcode-shuts-down-darknet-drug-vendor-092220
 created: 2026-04-25
+raw_path: raw/press-releases/2020-09-22_fbi_operation-disruptor-jcode-shuts-down-darknet-drug-vendor.md
+text_status: parsed
+content_hash: sha256:7bf8f2bf2436059c3db8cedfc7f6bb7dce6784767cf85903f230a131e4332801
+word_count: 1877
+extraction_date: 2026-04-25
+last_fetcher: urllib
 ---
 ## Source Summary
 

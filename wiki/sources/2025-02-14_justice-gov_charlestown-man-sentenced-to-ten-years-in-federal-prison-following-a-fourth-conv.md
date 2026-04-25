@@ -17,6 +17,11 @@ key_findings:
   - "This domestic-only U.S. follow-on record has been absorbed into the canonical case page [[us-v-charlestown-man]]. No visible cross-border mechanism is documented, so it is not treated as a separate international-cooperation operation."
 collection_url: https://www.justice.gov/usao-ri/pr/charlestown-man-sentenced-ten-years-federal-prison-following-fourth-conviction-child
 created: 2026-04-17
+text_status: parsed
+content_hash: sha256:5474fd49c91e6b52e44af96f5217c906831e9c39e5205ed22c2cd23ce62cae8c
+word_count: 653
+extraction_date: 2026-04-25
+last_fetcher: doj_fetch
 ---
 ## Source Summary
 

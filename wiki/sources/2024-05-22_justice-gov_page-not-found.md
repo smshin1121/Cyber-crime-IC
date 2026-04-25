@@ -17,6 +17,11 @@ key_findings:
   - "This domestic-only U.S. follow-on record has been absorbed into the canonical case page [[us-v-yunhe-wang-911-s5]]. No visible cross-border mechanism is documented, so it is not treated as a separate international-cooperation operation."
 collection_url: https://www.justice.gov/archives/opa/pr/justice-department-leads-effort-among-multinational-partners-dismantle-worlds-largest-botnet
 created: 2026-04-17
+text_status: parsed
+content_hash: sha256:cbc8918e8f7d7edc011ec1cffd10911493ee0ad2b9fcf0d55c77bae492cc79ed
+word_count: 248
+extraction_date: 2026-04-25
+last_fetcher: doj_fetch
 ---
 ## Source Summary
 

@@ -17,6 +17,11 @@ key_findings:
   - "This domestic-only U.S. follow-on record has been absorbed into the canonical case page [[resident-of-tacoma-hotel-indicted-for-drug-and-gun-crimes]]. No visible cross-border mechanism is documented, so it is not treated as a separate international-cooperation operation."
 collection_url: https://www.justice.gov/usao-wdwa/pr/resident-tacoma-hotel-indicted-drug-and-gun-crimes
 created: 2026-04-17
+text_status: parsed
+content_hash: sha256:53e86c113aa1a9de08a469225fd8fc95a7fe51e3102108f7680730209fb0cf7c
+word_count: 1035
+extraction_date: 2026-04-25
+last_fetcher: doj_fetch
 ---
 ## Source Summary
 

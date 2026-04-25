@@ -17,6 +17,12 @@ key_findings:
   - "Confirms NCIDE Task Force investigation."
 collection_url: https://www.justice.gov/usao-edca/pr/ventura-county-man-pleads-guilty-dark-web-narcotics-distribution-conspiracy
 created: 2026-04-25
+raw_path: raw/press-releases/2021-10-08_justice-gov_ventura-county-man-pleads-guilty-dark-web-narcotics-distribution-conspiracy.md
+text_status: parsed
+content_hash: sha256:f250bbedf9236f9d1316520ad7957438c7b7784d261d6a5df2a5ae99f5e0137b
+word_count: 146
+extraction_date: 2026-04-25
+last_fetcher: doj_fetch
 ---
 ## Source Summary
 

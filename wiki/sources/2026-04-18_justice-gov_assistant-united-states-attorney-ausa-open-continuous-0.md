@@ -14,10 +14,15 @@ sensitivity: public
 pages_updated:
 
 key_findings:
-  - "Secure .gov websites use HTTPS A lock ( Lock Locked padlock ) or https:// means you’ve safely connected to the .gov website. Share sensitive information only on official, secure websites."
+  - "Secure .gov websites use HTTPS A lock ( Lock Locked padlock ) or https: "// means you’ve safely connected to the .gov website. Share sensitive information only on official, secure websites.\""
 collection_url: https://www.justice.gov/legal-careers/job/assistant-united-states-attorney-ausa-open-continuous-0
 created: 2026-04-18
 updated: 2026-04-18
+text_status: parsed
+content_hash: sha256:fe905c3d81f282f9140ab77e354d8b5391c20fcc0777a5184c90e29887c1ea78
+word_count: 3463
+extraction_date: 2026-04-25
+last_fetcher: doj_fetch
 ---
 ## Source Summary
 

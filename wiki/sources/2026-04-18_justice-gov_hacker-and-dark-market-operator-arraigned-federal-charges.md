@@ -14,10 +14,15 @@ sensitivity: public
 pages_updated:
 
 key_findings:
-  - "Secure .gov websites use HTTPS A lock ( Lock Locked padlock ) or https:// means you’ve safely connected to the .gov website. Share sensitive information only on official, secure websites."
+  - "Secure .gov websites use HTTPS A lock ( Lock Locked padlock ) or https: "// means you’ve safely connected to the .gov website. Share sensitive information only on official, secure websites.\""
 collection_url: https://www.justice.gov/usao-ndga/pr/hacker-and-dark-market-operator-arraigned-federal-charges
 created: 2026-04-18
 updated: 2026-04-18
+text_status: parsed
+content_hash: sha256:cc9a4acab6b9aff04f5c1596727071a893ed7dcb98d532056090449dbf3ea950
+word_count: 171
+extraction_date: 2026-04-25
+last_fetcher: doj_fetch
 ---
 ## Source Summary
 

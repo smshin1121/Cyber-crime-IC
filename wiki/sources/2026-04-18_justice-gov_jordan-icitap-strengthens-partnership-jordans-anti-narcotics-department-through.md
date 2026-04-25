@@ -14,10 +14,15 @@ sensitivity: public
 pages_updated:
 
 key_findings:
-  - "Secure .gov websites use HTTPS A lock ( Lock Locked padlock ) or https:// means you’ve safely connected to the .gov website. Share sensitive information only on official, secure websites."
+  - "Secure .gov websites use HTTPS A lock ( Lock Locked padlock ) or https: "// means you’ve safely connected to the .gov website. Share sensitive information only on official, secure websites.\""
 collection_url: https://www.justice.gov/criminal/criminal-icitap/blog/jordan-icitap-strengthens-partnership-jordans-anti-narcotics-department-through
 created: 2026-04-18
 updated: 2026-04-18
+text_status: parsed
+content_hash: sha256:96e48b3cfeb3a0352b14b92361ebb90415e22b6530e05b3b93d30ee6a452e309
+word_count: 711
+extraction_date: 2026-04-25
+last_fetcher: doj_fetch
 ---
 ## Source Summary
 

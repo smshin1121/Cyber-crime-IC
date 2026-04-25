@@ -17,6 +17,12 @@ key_findings:
   - "Confirms HSI lead and CEOS technical assistance role."
 collection_url: https://www.justice.gov/usao-edca/pr/sacramento-man-sentenced-over-24-years-prison-running-multiple-dark-web-child-sexual
 created: 2026-04-25
+raw_path: raw/press-releases/2025-02-24_justice-gov_sacramento-man-sentenced-24-years-running-multiple-dark-web-child-sexual-abuse-websites.md
+text_status: parsed
+content_hash: sha256:b445a1ca43b3e1bb4fb7464abeb963ef23c282479e8637b4db1c610c89490412
+word_count: 153
+extraction_date: 2026-04-25
+last_fetcher: doj_fetch
 ---
 ## Source Summary
 

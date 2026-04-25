@@ -3,7 +3,7 @@ type: source
 title: "Three Former Department of Homeland Security Employees Sentenced in Scheme to Defraud the United States"
 source_type: press-release
 publisher: "USPS Office of Inspector General"
-author: "Staff"
+author: Staff
 publish_date: 2024-01-26
 ingest_date: 2026-04-25
 language: en
@@ -17,6 +17,12 @@ key_findings:
   - "USPS-OIG was a co-investigating agency with DHS-OIG."
 collection_url: https://www.uspsoig.gov/investigative-work/investigative-news-releases/three-former-department-homeland-security-employees
 created: 2026-04-25
+raw_path: raw/press-releases/2024-01-26_uspsoig_three-former-department-homeland-security-employees.md
+text_status: parsed
+content_hash: sha256:5ff34e15f4dee16bfb080a9670f464da222c99451eaf2d473f5873bdd5e5ffe2
+word_count: 639
+extraction_date: 2026-04-25
+last_fetcher: urllib
 ---
 ## Source Summary
 

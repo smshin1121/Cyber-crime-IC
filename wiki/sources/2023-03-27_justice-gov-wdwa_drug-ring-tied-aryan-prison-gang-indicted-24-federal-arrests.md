@@ -3,7 +3,7 @@ type: source
 title: "Drug ring tied to Aryan prison gang indicted with 24 federal arrests"
 source_type: press-release
 publisher: "USAO WDWA"
-author: "Staff"
+author: Staff
 publish_date: 2023-03-27
 ingest_date: 2026-04-25
 language: en
@@ -17,6 +17,12 @@ key_findings:
   - "Foundation for ongoing cell-member sentencings"
 collection_url: https://www.justice.gov/usao-wdwa/pr/drug-ring-tied-aryan-prison-gang-indicted-24-federal-arrests
 created: 2026-04-25
+raw_path: raw/press-releases/2023-03-27_justice-gov-wdwa_drug-ring-tied-aryan-prison-gang-indicted-24-federal-arrests.md
+text_status: parsed
+content_hash: sha256:17429cbd95275b3964e73f738732c4809fe640a052acacc9f0e5db123864cc47
+word_count: 1651
+extraction_date: 2026-04-25
+last_fetcher: doj_fetch
 ---
 ## Source Summary
 

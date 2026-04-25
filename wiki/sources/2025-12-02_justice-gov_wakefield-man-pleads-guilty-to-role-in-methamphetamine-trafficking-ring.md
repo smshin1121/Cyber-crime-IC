@@ -17,6 +17,11 @@ key_findings:
   - "This domestic-only U.S. follow-on record has been absorbed into the canonical case page [[wakefield-man-pleads-guilty-to-role-in-methamphetamine-trafficking-ring]]. No visible cross-border mechanism is documented, so it is not treated as a separate international-cooperation operation."
 collection_url: https://www.justice.gov/usao-ma/pr/wakefield-man-pleads-guilty-role-methamphetamine-trafficking-ring
 created: 2026-04-17
+text_status: parsed
+content_hash: sha256:02c38d27c16147dc6455be93ab5520092bf71976033f9e09e83ae14f387f8be2
+word_count: 190
+extraction_date: 2026-04-25
+last_fetcher: doj_fetch
 ---
 ## Source Summary
 

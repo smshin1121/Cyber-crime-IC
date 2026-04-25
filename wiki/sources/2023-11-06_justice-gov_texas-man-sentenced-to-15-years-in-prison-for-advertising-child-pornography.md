@@ -17,6 +17,11 @@ key_findings:
   - "This domestic-only U.S. follow-on record has been absorbed into the canonical case page [[texas-man-sentenced-to-15-years-in-prison-for-advertising-child-pornography]]. No visible cross-border mechanism is documented, so it is not treated as a separate international-cooperation operation."
 collection_url: https://www.justice.gov/usao-ma/pr/texas-man-sentenced-15-years-prison-advertising-child-pornography
 created: 2026-04-17
+text_status: parsed
+content_hash: sha256:29b0d2c3d9d97f0d14be28a24bc1dcd4e4691c188cd158bee0844e4afdc285f2
+word_count: 192
+extraction_date: 2026-04-25
+last_fetcher: doj_fetch
 ---
 ## Source Summary
 

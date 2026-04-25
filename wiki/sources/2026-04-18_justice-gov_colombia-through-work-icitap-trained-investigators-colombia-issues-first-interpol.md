@@ -14,10 +14,15 @@ sensitivity: public
 pages_updated:
 
 key_findings:
-  - "Secure .gov websites use HTTPS A lock ( Lock Locked padlock ) or https:// means you’ve safely connected to the .gov website. Share sensitive information only on official, secure websites."
+  - "Secure .gov websites use HTTPS A lock ( Lock Locked padlock ) or https: "// means you’ve safely connected to the .gov website. Share sensitive information only on official, secure websites.\""
 collection_url: https://www.justice.gov/criminal/criminal-icitap/blog/colombia-through-work-icitap-trained-investigators-colombia-issues-first-interpol
 created: 2026-04-18
 updated: 2026-04-18
+text_status: parsed
+content_hash: sha256:b9c7d8ffa9c277a48d53801d44d7f0e09521f2320f05dafe5a7ab0c792bb6d28
+word_count: 673
+extraction_date: 2026-04-25
+last_fetcher: doj_fetch
 ---
 ## Source Summary
 

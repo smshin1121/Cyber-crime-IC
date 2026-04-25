@@ -14,10 +14,15 @@ sensitivity: public
 pages_updated:
 
 key_findings:
-  - "Secure .gov websites use HTTPS A lock ( Lock Locked padlock ) or https:// means you’ve safely connected to the .gov website. Share sensitive information only on official, secure websites."
+  - "Secure .gov websites use HTTPS A lock ( Lock Locked padlock ) or https: "// means you’ve safely connected to the .gov website. Share sensitive information only on official, secure websites.\""
 collection_url: https://www.justice.gov/criminal/criminal-mlars/mlars-press-releases
 created: 2026-04-18
 updated: 2026-04-18
+text_status: parsed
+content_hash: sha256:26f1810cd670fc64ade8c5380c26d74798346f95c185c5aad1bf5427575b8e6a
+word_count: 443
+extraction_date: 2026-04-25
+last_fetcher: doj_fetch
 ---
 ## Source Summary
 

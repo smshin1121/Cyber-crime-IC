@@ -14,10 +14,15 @@ sensitivity: public
 pages_updated:
 
 key_findings:
-  - "Secure .gov websites use HTTPS A lock ( Lock Locked padlock ) or https:// means you’ve safely connected to the .gov website. Share sensitive information only on official, secure websites."
+  - "Secure .gov websites use HTTPS A lock ( Lock Locked padlock ) or https: "// means you’ve safely connected to the .gov website. Share sensitive information only on official, secure websites.\""
 collection_url: https://www.justice.gov/usao-md/pr/honduran-citizen-indicted-illegal-re-entry-charge
 created: 2026-04-18
 updated: 2026-04-18
+text_status: parsed
+content_hash: sha256:c15127d6ca93c3afb88e90dc0fbbad10c042200e79d5aaea84824c3dd3685bf1
+word_count: 677
+extraction_date: 2026-04-25
+last_fetcher: doj_fetch
 ---
 ## Source Summary
 

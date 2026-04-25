@@ -14,10 +14,15 @@ sensitivity: public
 pages_updated:
 
 key_findings:
-  - "Secure .gov websites use HTTPS A lock ( Lock Locked padlock ) or https:// means you’ve safely connected to the .gov website. Share sensitive information only on official, secure websites."
+  - "Secure .gov websites use HTTPS A lock ( Lock Locked padlock ) or https: "// means you’ve safely connected to the .gov website. Share sensitive information only on official, secure websites.\""
 collection_url: https://www.justice.gov/usao-wdwa/pr/team-western-washington-honored-investigation-and-prosecution-major-cybercrime-group
 created: 2026-04-18
 updated: 2026-04-18
+text_status: parsed
+content_hash: sha256:0484b4eb6aaddf995c692578e10b0792ab93fccb7af161868db6823d0d8df3b8
+word_count: 978
+extraction_date: 2026-04-25
+last_fetcher: doj_fetch
 ---
 ## Source Summary
 

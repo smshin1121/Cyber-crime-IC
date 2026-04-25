@@ -14,10 +14,15 @@ sensitivity: public
 pages_updated:
 
 key_findings:
-  - "Secure .gov websites use HTTPS A lock ( Lock Locked padlock ) or https:// means you’ve safely connected to the .gov website. Share sensitive information only on official, secure websites."
+  - "Secure .gov websites use HTTPS A lock ( Lock Locked padlock ) or https: "// means you’ve safely connected to the .gov website. Share sensitive information only on official, secure websites.\""
 collection_url: https://www.justice.gov/opa/pr/alabama-man-pleads-guilty-connection-securities-and-exchange-commission-x-account-hack
 created: 2026-04-18
 updated: 2026-04-18
+text_status: parsed
+content_hash: sha256:cb0376e05188f91444c1b28a9f2f2c63670c81f028fd3aa2b386005a91173167
+word_count: 927
+extraction_date: 2026-04-25
+last_fetcher: doj_fetch
 ---
 ## Source Summary
 

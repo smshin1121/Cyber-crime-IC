@@ -3,7 +3,7 @@ type: source
 title: "Former Owner of T-Mobile Retail Store in Eagle Rock Found Guilty of Committing $25 Million Scheme to Illegally Unlock Cellphones"
 source_type: press-release
 publisher: "IRS Criminal Investigation"
-author: "Staff"
+author: Staff
 publish_date: 2022-08-01
 ingest_date: 2026-04-25
 language: en
@@ -17,6 +17,12 @@ key_findings:
   - "Khudaverdyan convicted on 14 felonies including wire fraud, computer fraud, money laundering and aggravated identity theft for ~$25M scheme spanning August 2014 to June 2019."
 collection_url: https://www.irs.gov/compliance/criminal-investigation/former-owner-of-t-mobile-retail-store-in-eagle-rock-found-guilty-of-committing-25-million-scheme-to-illegally-unlock-cellphones
 created: 2026-04-25
+raw_path: raw/press-releases/2022-08-01_irs-gov_former-owner-t-mobile-retail-store-eagle-rock-25-million-unlock-scheme.md
+text_status: parsed
+content_hash: sha256:37fd5f7aaae94436041fcb07dced66a9cb91467f2c91b7a212a3d115c09c6919
+word_count: 428
+extraction_date: 2026-04-25
+last_fetcher: urllib
 ---
 ## Source Summary
 

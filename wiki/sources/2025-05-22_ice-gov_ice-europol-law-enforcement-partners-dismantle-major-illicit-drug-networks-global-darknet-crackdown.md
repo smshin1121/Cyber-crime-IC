@@ -2,7 +2,7 @@
 type: source
 title: "ICE, Europol, law enforcement partners, dismantle major illicit drug networks in global Darknet crackdown"
 source_type: press-release
-publisher: "ICE"
+publisher: ICE
 author: ""
 publish_date: 2025-05-22
 ingest_date: 2026-04-25
@@ -17,6 +17,12 @@ key_findings:
   - "The release highlighted Europol and JCODE coordination and framed the action as a major darknet drug-network disruption."
 collection_url: https://www.ice.gov/news/releases/ice-europol-law-enforcement-partners-dismantle-major-illicit-drug-networks-global
 created: 2026-04-25
+raw_path: raw/press-releases/2025-05-22_ice_dismantle-major-illicit-drug-networks-global-darknet-crackdown.md
+text_status: parsed
+content_hash: sha256:c56de7dd4db659d6afe17e7375dcbfac74715c1c89298a9bc10856747bc7ce54
+word_count: 2667
+extraction_date: 2026-04-25
+last_fetcher: urllib
 ---
 ## Source Summary
 

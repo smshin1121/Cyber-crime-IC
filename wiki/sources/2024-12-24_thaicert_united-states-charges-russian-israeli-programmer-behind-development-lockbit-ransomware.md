@@ -17,6 +17,12 @@ key_findings:
   - "Demonstrates dissemination of U.S. cybercrime enforcement actions to ASEAN cybersecurity community"
 collection_url: https://www.thaicert.or.th/en/2024/12/24/the-united-states-charges-a-russian-israeli-programmer-behind-the-development-of-lockbit-ransomware/
 created: 2026-04-25
+raw_path: raw/news/2024-12-24_thaicert_united-states-charges-russian-israeli-programmer-behind-development-lockbit-ransomware.md
+text_status: parsed
+content_hash: sha256:a06e877e65ff898cad184233cbd1d2bf3aa76024cbc0d67266d2b090179cd5ab
+word_count: 383
+extraction_date: 2026-04-25
+last_fetcher: urllib
 ---
 ## Source Summary
 

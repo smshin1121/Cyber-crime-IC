@@ -17,6 +17,11 @@ key_findings:
   - "This domestic-only U.S. follow-on record has been absorbed into the canonical case page [[us-v-jacob-blair]]. No visible cross-border mechanism is documented, so it is not treated as a separate international-cooperation operation."
 collection_url: https://www.justice.gov/usao-wdpa/pr/coraopolis-man-indicted-western-pennsylvania-and-district-columbia-drug-charges
 created: 2026-04-17
+text_status: parsed
+content_hash: sha256:60ee2f93812704f8da5495ca8e1e8918ab7c8a504d70f575bcd107c060f35e59
+word_count: 790
+extraction_date: 2026-04-25
+last_fetcher: doj_fetch
 ---
 ## Source Summary
 

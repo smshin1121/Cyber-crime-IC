@@ -17,6 +17,11 @@ key_findings:
   - "This domestic-only U.S. follow-on record has been absorbed into the canonical case page [[us-v-timothy-dalton-vaughn]]. No visible cross-border mechanism is documented, so it is not treated as a separate international-cooperation operation."
 collection_url: https://www.justice.gov/usao-cdca/pr/hacker-collective-member-who-made-online-threats-against-schools-and-airline-sentenced
 created: 2026-04-17
+text_status: parsed
+content_hash: sha256:b2005f97bbfc995b3df8c2d0c0d908673d6804eddb4830198c5f62d28c792631
+word_count: 887
+extraction_date: 2026-04-25
+last_fetcher: doj_fetch
 ---
 ## Source Summary
 

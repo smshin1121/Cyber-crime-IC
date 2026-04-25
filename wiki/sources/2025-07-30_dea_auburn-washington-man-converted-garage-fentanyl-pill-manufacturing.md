@@ -17,6 +17,12 @@ key_findings:
   - "DEA Seattle led the November 2024 raid that found 4kg fentanyl powder and pill press"
 collection_url: https://www.dea.gov/press-releases/2025/07/30/auburn-washington-man-who-converted-garage-fentanyl-pill-manufacturing
 created: 2026-04-25
+raw_path: raw/press-releases/2025-07-30_dea_auburn-washington-man-converted-garage-fentanyl-pill-manufacturing.md
+text_status: parsed
+content_hash: sha256:e31cf68efb1bf337b08210337c02175aeb6a73c8fdbe8ff6971becd56a3db58b
+word_count: 738
+extraction_date: 2026-04-25
+last_fetcher: wayback+urllib
 ---
 ## Source Summary
 

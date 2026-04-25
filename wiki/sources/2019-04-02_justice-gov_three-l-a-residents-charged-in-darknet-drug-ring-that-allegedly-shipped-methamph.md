@@ -17,6 +17,11 @@ key_findings:
   - "This domestic-only U.S. follow-on record has been absorbed into the canonical case page [[three-l-a-residents-charged-in-darknet-drug-ring-that-allegedly-shipped-methamphetamine-to-buyers-around-the-w]]. No visible cross-border mechanism is documented, so it is not treated as a separate international-cooperation operation."
 collection_url: https://www.justice.gov/usao-cdca/pr/three-la-residents-charged-darknet-drug-ring-allegedly-shipped-methamphetamine-buyers
 created: 2026-04-17
+text_status: parsed
+content_hash: sha256:364b433e71e3681fdc4831264ba07c70bb978b03b0de80faabb46c4627e84529
+word_count: 1116
+extraction_date: 2026-04-25
+last_fetcher: doj_fetch
 ---
 ## Source Summary
 

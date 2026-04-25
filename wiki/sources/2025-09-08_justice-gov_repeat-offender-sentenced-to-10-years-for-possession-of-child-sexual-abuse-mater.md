@@ -17,6 +17,11 @@ key_findings:
   - "This domestic-only U.S. follow-on record has been absorbed into the canonical case page [[repeat-offender-sentenced-to-10-years-for-possession-of-child-sexual-abuse-material]]. No visible cross-border mechanism is documented, so it is not treated as a separate international-cooperation operation."
 collection_url: https://www.justice.gov/opa/pr/repeat-offender-sentenced-10-years-possession-child-sexual-abuse-material
 created: 2026-04-17
+text_status: parsed
+content_hash: sha256:a00d92015bd649c8e598841f490b390cbe3a9d6f44d45c0ba94265314bd6ee2a
+word_count: 763
+extraction_date: 2026-04-25
+last_fetcher: doj_fetch
 ---
 ## Source Summary
 

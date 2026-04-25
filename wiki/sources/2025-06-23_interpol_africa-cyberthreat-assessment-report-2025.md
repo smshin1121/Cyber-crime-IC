@@ -12,11 +12,16 @@ reliability: high
 credibility: confirmed
 sensitivity: public
 pages_updated:
-  []
+
 key_findings:
   - "The 2025 Africa Cyberthreat Assessment Report describes the BEC, ransomware and digital-extortion environment that Operation Sentinel later targeted."
-collection_url: https://www.interpol.int/content/download/25784/file/Africa%20Cyberthreat%20Assessment%20Report%202025.pdf
+collection_url: "https://www.interpol.int/content/download/25784/file/Africa%20Cyberthreat%20Assessment%20Report%202025.pdf"
 created: 2026-04-23
+text_status: parsed
+content_hash: sha256:7a2edd55efa833e95f9c1d50160260f447790a8ccb29fd3ebadb065442961269
+word_count: 409
+extraction_date: 2026-04-25
+last_fetcher: jina
 ---
 ## Source Summary
 

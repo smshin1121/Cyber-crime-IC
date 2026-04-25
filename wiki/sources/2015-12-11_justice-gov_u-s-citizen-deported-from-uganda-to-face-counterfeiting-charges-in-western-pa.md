@@ -17,6 +17,11 @@ key_findings:
   - "This domestic-only U.S. follow-on record has been absorbed into the canonical case page [[us-v-willy-clock]]. No visible cross-border mechanism is documented, so it is not treated as a separate international-cooperation operation."
 collection_url: https://www.justice.gov/usao-wdpa/pr/us-citizen-deported-uganda-face-counterfeiting-charges-western-pa
 created: 2026-04-17
+text_status: parsed
+content_hash: sha256:25eadd8d471e203223614a350e4fb922aa58a3e6452e4de781ef8ba89f2a81a0
+word_count: 1003
+extraction_date: 2026-04-25
+last_fetcher: doj_fetch
 ---
 ## Source Summary
 

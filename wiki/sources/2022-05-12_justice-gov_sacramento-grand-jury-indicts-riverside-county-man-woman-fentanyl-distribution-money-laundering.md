@@ -17,6 +17,12 @@ key_findings:
   - "Documents $800K+ cryptocurrency proceeds and 1,100+ narcotics transactions."
 collection_url: https://www.justice.gov/usao-edca/pr/sacramento-grand-jury-indicts-riverside-county-man-and-woman-fentanyl-distribution-and
 created: 2026-04-25
+raw_path: raw/press-releases/2022-05-12_justice-gov_sacramento-grand-jury-indicts-riverside-county-man-woman-fentanyl-distribution-money-laundering.md
+text_status: parsed
+content_hash: sha256:f4ca667d16749e1335fcd06594f4d869797bd657ebf7be4d58432107dd40405b
+word_count: 151
+extraction_date: 2026-04-25
+last_fetcher: doj_fetch
 ---
 ## Source Summary
 

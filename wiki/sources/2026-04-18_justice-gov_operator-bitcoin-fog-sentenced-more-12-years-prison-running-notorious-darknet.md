@@ -14,12 +14,17 @@ sensitivity: public
 pages_updated:
 
 key_findings:
-  - "Secure .gov websites use HTTPS A lock ( Lock Locked padlock ) or https:// means you’ve safely connected to the .gov website. Share sensitive information only on official, secure websites."
+  - "Secure .gov websites use HTTPS A lock ( Lock Locked padlock ) or https: "// means you’ve safely connected to the .gov website. Share sensitive information only on official, secure websites.\""
 collection_url: https://www.justice.gov/usao-dc/pr/operator-bitcoin-fog-sentenced-more-12-years-prison-running-notorious-darknet
 created: 2026-04-18
 defendant_names:
   - "Roman Sterlingov"
 updated: 2026-04-18
+text_status: parsed
+content_hash: sha256:693469af63460275656ecf9fa67d43b9a08f36c10867ce4a8685495eb6d74f2f
+word_count: 1962
+extraction_date: 2026-04-25
+last_fetcher: doj_fetch
 ---
 ## Source Summary
 

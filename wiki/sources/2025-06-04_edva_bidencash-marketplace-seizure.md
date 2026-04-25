@@ -14,12 +14,17 @@ sensitivity: public
 pages_updated:
   - bidencash-takedown
 key_findings:
-  - "Secure .gov websites use HTTPS A lock ( Lock Locked padlock ) or https:// means you’ve safely connected to the .gov website. Share sensitive information only on official, secure websites."
+  - "Secure .gov websites use HTTPS A lock ( Lock Locked padlock ) or https: "// means you’ve safely connected to the .gov website. Share sensitive information only on official, secure websites.\""
 collection_url: https://www.justice.gov/usao-edva/pr/us-government-seizes-approximately-145-criminal-marketplace-domains
 created: 2026-04-17
 defendant_names:
   - "Conor Brian Fitzpatrick"
 updated: 2026-04-18
+text_status: parsed
+content_hash: sha256:c3732c35af224bb277edc65aed82c853293b3b94e24661ffcade345dc5c5238f
+word_count: 153
+extraction_date: 2026-04-25
+last_fetcher: doj_fetch
 ---
 ## Source Summary
 

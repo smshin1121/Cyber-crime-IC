@@ -14,10 +14,15 @@ sensitivity: public
 pages_updated:
 
 key_findings:
-  - "Secure .gov websites use HTTPS A lock ( Lock Locked padlock ) or https:// means you’ve safely connected to the .gov website. Share sensitive information only on official, secure websites."
+  - "Secure .gov websites use HTTPS A lock ( Lock Locked padlock ) or https: "// means you’ve safely connected to the .gov website. Share sensitive information only on official, secure websites.\""
 collection_url: https://www.justice.gov/usao-edpa/pr/delaware-county-pharmacy-and-owner-pharmacist-agree-pay-750k-and-never-again-dispense-0
 created: 2026-04-18
 updated: 2026-04-18
+text_status: parsed
+content_hash: sha256:08f77f6e1cf54965b36eefaf9b32cd9a46e8b102be3fafc6b13a2bdcc6a3ab3c
+word_count: 1180
+extraction_date: 2026-04-25
+last_fetcher: doj_fetch
 ---
 ## Source Summary
 

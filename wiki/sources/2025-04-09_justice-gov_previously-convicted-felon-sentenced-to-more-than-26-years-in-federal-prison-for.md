@@ -17,6 +17,11 @@ key_findings:
   - "This domestic-only U.S. follow-on record has been absorbed into the canonical case page [[previously-convicted-felon-sentenced-to-more-than-26-years-in-federal-prison-for-possessing-a-firearm-in-conne]]. No visible cross-border mechanism is documented, so it is not treated as a separate international-cooperation operation."
 collection_url: https://www.justice.gov/usao-md/pr/previously-convicted-felon-sentenced-more-26-years-federal-prison-possessing-firearm
 created: 2026-04-17
+text_status: parsed
+content_hash: sha256:fa91133970c608aadd7a8bea734fc64763a1c61583618ea3b2680bbc3bf830c1
+word_count: 1923
+extraction_date: 2026-04-25
+last_fetcher: doj_fetch
 ---
 ## Source Summary
 

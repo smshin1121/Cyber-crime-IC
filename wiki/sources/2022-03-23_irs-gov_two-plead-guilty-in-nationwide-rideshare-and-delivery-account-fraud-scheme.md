@@ -17,6 +17,12 @@ key_findings:
   - "Release explicitly tags U.S. v. Wemerson Dutra Aguiar as the parent docket."
 collection_url: https://www.irs.gov/compliance/criminal-investigation/two-plead-guilty-in-nationwide-rideshare-and-delivery-account-fraud-scheme
 created: 2026-04-25
+raw_path: raw/press-releases/2022-03-23_irs-gov_two-plead-guilty-in-nationwide-rideshare-and-delivery-account-fraud-scheme.md
+text_status: parsed
+content_hash: sha256:d49e9289af230e2aa0d844d32dd96257a5837dfe0ef3729d75c909d08cae31c6
+word_count: 410
+extraction_date: 2026-04-25
+last_fetcher: urllib
 ---
 ## Source Summary
 

@@ -20,6 +20,11 @@ created: 2026-04-18
 defendant_names:
   - "Sean Shaughnessy"
 updated: 2026-04-18
+text_status: parsed
+content_hash: sha256:be2f16c82c9492eb618e9b33d1c581ef01bfedb1e921413e42225f2e17d41832
+word_count: 141
+extraction_date: 2026-04-25
+last_fetcher: doj_fetch
 ---
 ## Source Summary
 

@@ -17,6 +17,11 @@ key_findings:
   - "This domestic-only U.S. follow-on record has been absorbed into the canonical case page [[san-francisco-resident-sentenced-to-over-three-years-in-prison-for-aggravated-identity-theft]]. No visible cross-border mechanism is documented, so it is not treated as a separate international-cooperation operation."
 collection_url: https://www.justice.gov/usao-ndca/pr/san-francisco-resident-sentenced-over-three-years-prison-aggravated-identity-theft
 created: 2026-04-17
+text_status: parsed
+content_hash: sha256:1a0d674a5ee5f4dbf8a88758ad5f9e9eafe8c47f5fb6d41656db51d155dca943
+word_count: 802
+extraction_date: 2026-04-25
+last_fetcher: doj_fetch
 ---
 ## Source Summary
 

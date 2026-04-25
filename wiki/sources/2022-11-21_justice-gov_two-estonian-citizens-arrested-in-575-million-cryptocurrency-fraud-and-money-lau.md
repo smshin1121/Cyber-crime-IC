@@ -17,6 +17,11 @@ key_findings:
   - "This domestic-only U.S. follow-on record has been absorbed into the canonical case page [[two-estonian-citizens-arrested-in-575-million-cryptocurrency-fraud-and-money-laundering-scheme]]. No visible cross-border mechanism is documented, so it is not treated as a separate international-cooperation operation."
 collection_url: https://www.justice.gov/usao-wdwa/pr/two-estonian-citizens-arrested-575-million-cryptocurrency-fraud-and-money-laundering
 created: 2026-04-17
+text_status: parsed
+content_hash: sha256:b65e04465b7538095c941a8cc583a6a96b08c5a0001660b3ef686b9d46b3bb46
+word_count: 1430
+extraction_date: 2026-04-25
+last_fetcher: doj_fetch
 ---
 ## Source Summary
 

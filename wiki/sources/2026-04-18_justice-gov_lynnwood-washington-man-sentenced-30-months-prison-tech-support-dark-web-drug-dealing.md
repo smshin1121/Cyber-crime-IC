@@ -14,10 +14,15 @@ sensitivity: public
 pages_updated:
 
 key_findings:
-  - "Secure .gov websites use HTTPS A lock ( Lock Locked padlock ) or https:// means you’ve safely connected to the .gov website. Share sensitive information only on official, secure websites."
+  - "Secure .gov websites use HTTPS A lock ( Lock Locked padlock ) or https: "// means you’ve safely connected to the .gov website. Share sensitive information only on official, secure websites.\""
 collection_url: https://www.justice.gov/usao-wdwa/pr/lynnwood-washington-man-sentenced-30-months-prison-tech-support-dark-web-drug-dealing
 created: 2026-04-18
 updated: 2026-04-18
+text_status: parsed
+content_hash: sha256:53f8787ae338b6667359c7e38f5c3e1bae89722de5aebad26c46ce2cba754847
+word_count: 881
+extraction_date: 2026-04-25
+last_fetcher: doj_fetch
 ---
 ## Source Summary
 

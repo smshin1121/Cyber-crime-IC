@@ -14,13 +14,18 @@ sensitivity: public
 pages_updated:
 
 key_findings:
-  - "Secure .gov websites use HTTPS A lock ( Lock Locked padlock ) or https:// means you’ve safely connected to the .gov website. Share sensitive information only on official, secure websites."
+  - "Secure .gov websites use HTTPS A lock ( Lock Locked padlock ) or https: "// means you’ve safely connected to the .gov website. Share sensitive information only on official, secure websites.\""
 collection_url: https://www.justice.gov/usao-edva/pr/jury-convicts-virginia-man-receiving-soliciting-and-promoting-child-pornography-2
 created: 2026-04-18
 defendant_names:
   - "Jorge Antonio Escobar"
   - "Yahmir Deshawn Kawante Hamlet"
 updated: 2026-04-18
+text_status: parsed
+content_hash: sha256:3ef0c62f5f358c9a87e7f387b9ddd881327a9320449de95adcbb563bfd82ce63
+word_count: 155
+extraction_date: 2026-04-25
+last_fetcher: doj_fetch
 ---
 ## Source Summary
 

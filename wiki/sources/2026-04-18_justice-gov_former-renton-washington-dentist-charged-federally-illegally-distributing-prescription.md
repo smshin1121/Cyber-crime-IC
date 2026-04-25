@@ -14,10 +14,15 @@ sensitivity: public
 pages_updated:
 
 key_findings:
-  - "Secure .gov websites use HTTPS A lock ( Lock Locked padlock ) or https:// means you’ve safely connected to the .gov website. Share sensitive information only on official, secure websites."
+  - "Secure .gov websites use HTTPS A lock ( Lock Locked padlock ) or https: "// means you’ve safely connected to the .gov website. Share sensitive information only on official, secure websites.\""
 collection_url: https://www.justice.gov/usao-wdwa/pr/former-renton-washington-dentist-charged-federally-illegally-distributing-prescription
 created: 2026-04-18
 updated: 2026-04-18
+text_status: parsed
+content_hash: sha256:87a7f7df68b922c0bb03ee5518ef358d59ee5e16cc0c630fa5d4560cc691f9c0
+word_count: 791
+extraction_date: 2026-04-25
+last_fetcher: doj_fetch
 ---
 ## Source Summary
 

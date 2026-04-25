@@ -12,11 +12,16 @@ reliability: medium
 credibility: reported
 sensitivity: public
 pages_updated:
-  []
+
 key_findings:
   - "A participating-country police summary of HAECHI VI broadly matches INTERPOL's account but appears to misstate the total recovery figure as USD 493 million."
 collection_url: https://www.police.gov.mv/media/news/24615
 created: 2026-04-23
+text_status: parsed
+content_hash: sha256:2380448655a51dff72ef803fbe7c06758e9aaed41c7a02f00e2654b27917c2e4
+word_count: 415
+extraction_date: 2026-04-25
+last_fetcher: urllib
 ---
 ## Source Summary
 

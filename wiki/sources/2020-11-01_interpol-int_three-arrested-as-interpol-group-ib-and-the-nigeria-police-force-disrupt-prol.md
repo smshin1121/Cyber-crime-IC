@@ -20,6 +20,11 @@ created: 2026-04-17
 defendant_names:
   - "As Interpol Group Ib"
 updated: 2026-04-18
+text_status: parsed
+content_hash: sha256:a7fd51d2e23f8fad2140a5f9febea5d78b46ec3a8fbd384cb22a1b38ae8377a7
+word_count: 432
+extraction_date: 2026-04-25
+last_fetcher: urllib
 ---
 ## Source Summary
 

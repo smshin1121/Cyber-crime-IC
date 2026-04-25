@@ -14,10 +14,15 @@ sensitivity: public
 pages_updated:
 
 key_findings:
-  - "Secure .gov websites use HTTPS A lock ( Lock Locked padlock ) or https:// means you’ve safely connected to the .gov website. Share sensitive information only on official, secure websites."
+  - "Secure .gov websites use HTTPS A lock ( Lock Locked padlock ) or https: "// means you’ve safely connected to the .gov website. Share sensitive information only on official, secure websites.\""
 collection_url: https://www.justice.gov/opa/pr/justice-department-announces-seizure-cybercrime-websites-selling-hacking-tools-transnational
 created: 2026-04-17
 updated: 2026-04-18
+text_status: parsed
+content_hash: sha256:e5fd672cd8c911464e5711c3c674d76bad96cd162083a0f0387a41fb3d99c48c
+word_count: 840
+extraction_date: 2026-04-25
+last_fetcher: doj_fetch
 ---
 ## Source Summary
 

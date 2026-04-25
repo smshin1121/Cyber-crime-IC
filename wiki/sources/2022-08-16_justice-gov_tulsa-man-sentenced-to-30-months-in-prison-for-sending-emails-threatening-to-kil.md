@@ -17,6 +17,11 @@ key_findings:
   - "This domestic-only U.S. follow-on record has been absorbed into the canonical case page [[tulsa-man-sentenced-to-30-months-in-prison-for-sending-emails-threatening-to-kill-president-biden]]. No visible cross-border mechanism is documented, so it is not treated as a separate international-cooperation operation."
 collection_url: https://www.justice.gov/usao-ndok/pr/tulsa-man-sentenced-30-months-prison-sending-emails-threatening-kill-president-biden
 created: 2026-04-17
+text_status: parsed
+content_hash: sha256:cc31e0d1f1408b25fee4f27ebf8b31ee5a2908cb47222c4ce10038a0e3abe439
+word_count: 1015
+extraction_date: 2026-04-25
+last_fetcher: doj_fetch
 ---
 ## Source Summary
 

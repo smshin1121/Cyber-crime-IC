@@ -17,6 +17,11 @@ key_findings:
   - "The September 2024 Cryptex and PM2BTC action combined U.S. sanctions, anti-money-laundering regulation, criminal charging, and Dutch infrastructure seizure. Together, the measures targeted a Russian virtual-currency laundering ecosystem that U.S. authorities linked to ransomware payments, darknet activity, and wider cybercrime finance."
 collection_url: https://www.fincen.gov/resources/statutes-regulations/federal-register-notices/imposition-special-measure-prohibiting-0
 created: 2026-04-17
+text_status: parsed
+content_hash: sha256:9e7fdb379a336cc44c1ec689aa1b094588f93a8c1189c7a81230de87a08ae73f
+word_count: 219
+extraction_date: 2026-04-25
+last_fetcher: urllib
 ---
 ## Source Summary
 

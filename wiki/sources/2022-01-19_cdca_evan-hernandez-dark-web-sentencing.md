@@ -14,12 +14,17 @@ sensitivity: public
 pages_updated:
 
 key_findings:
-  - "Secure .gov websites use HTTPS A lock ( Lock Locked padlock ) or https:// means you’ve safely connected to the .gov website. Share sensitive information only on official, secure websites."
+  - "Secure .gov websites use HTTPS A lock ( Lock Locked padlock ) or https: "// means you’ve safely connected to the .gov website. Share sensitive information only on official, secure websites.\""
 collection_url: https://www.justice.gov/usao-cdca/pr/ex-pro-skateboarder-sentenced-over-8-years-prison-selling-methamphetamine-and
 created: 2026-04-17
 defendant_names:
   - "Evan Jaime Hernandez"
 updated: 2026-04-18
+text_status: parsed
+content_hash: sha256:96ced1adca28139e67b86cd0cacefd0b275ead0f9e9a6c40c7469b1ce588db2a
+word_count: 983
+extraction_date: 2026-04-25
+last_fetcher: doj_fetch
 ---
 ## Source Summary
 

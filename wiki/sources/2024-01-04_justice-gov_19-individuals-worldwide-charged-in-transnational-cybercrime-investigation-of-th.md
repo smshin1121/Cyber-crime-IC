@@ -17,6 +17,11 @@ key_findings:
   - "19 Individuals Worldwide Charged In Transnational Cybercrime Investigation Of The xDedic Marketplace Enforcement Action is a defendant-specific follow-on record derived from [[19-individuals-worldwide-charged-in-transnational-cybercrime-investigation-of-the-xdedic-marketplace-2]]. It preserves the catalog entry without asserting an explicit cooperation mechanism that the source does not document."
 collection_url: https://www.justice.gov/usao-mdfl/pr/19-individuals-worldwide-charged-transnational-cybercrime-investigation-xdedic
 created: 2026-04-17
+text_status: parsed
+content_hash: sha256:6ea03825ac88904c267125b1175f601db95a88ce72acada6125eaf9b81ae2632
+word_count: 1369
+extraction_date: 2026-04-25
+last_fetcher: doj_fetch
 ---
 ## Source Summary
 

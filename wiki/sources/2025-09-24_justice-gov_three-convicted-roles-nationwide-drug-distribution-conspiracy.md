@@ -17,6 +17,12 @@ key_findings:
   - "The conviction release showed the Seattle branch remained part of the live nationwide prosecution after the 2023 Seattle indictments."
 collection_url: https://www.justice.gov/usao-wdpa/pr/three-convicted-roles-nationwide-drug-distribution-conspiracy
 created: 2026-04-25
+raw_path: raw/government-reports/2025-09-24_justice-gov_three-convicted-roles-nationwide-drug-distribution-conspiracy.md
+text_status: parsed
+content_hash: sha256:675372099b2746bd74b4c1f61a8fef7cb22950112454f64010f399df1723acad
+word_count: 1314
+extraction_date: 2026-04-25
+last_fetcher: doj_fetch
 ---
 ## Source Summary
 

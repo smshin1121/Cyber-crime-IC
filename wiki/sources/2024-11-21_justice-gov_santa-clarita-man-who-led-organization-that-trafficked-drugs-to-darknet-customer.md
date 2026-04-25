@@ -17,6 +17,11 @@ key_findings:
   - "This domestic-only U.S. follow-on record has been absorbed into the canonical case page [[santa-clarita-man-who-led-organization-that-trafficked-drugs-to-darknet-customers-nationwide-sentenced-to-8-ye]]. No visible cross-border mechanism is documented, so it is not treated as a separate international-cooperation operation."
 collection_url: https://www.justice.gov/usao-cdca/pr/santa-clarita-man-who-led-organization-trafficked-drugs-darknet-customers-nationwide
 created: 2026-04-17
+text_status: parsed
+content_hash: sha256:05a111e6489cb792689d69705bd73eb22a2a6d49b14d03fa8da9f6dcad5a780a
+word_count: 839
+extraction_date: 2026-04-25
+last_fetcher: doj_fetch
 ---
 ## Source Summary
 

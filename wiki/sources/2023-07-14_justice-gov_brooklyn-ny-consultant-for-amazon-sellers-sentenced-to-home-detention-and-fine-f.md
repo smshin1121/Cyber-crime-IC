@@ -17,6 +17,11 @@ key_findings:
   - "This domestic-only U.S. follow-on record has been absorbed into the canonical case page [[us-v-ephraim-rosenberg]]. No visible cross-border mechanism is documented, so it is not treated as a separate international-cooperation operation."
 collection_url: https://www.justice.gov/usao-wdwa/pr/brooklyn-ny-consultant-amazon-sellers-sentenced-home-detention-and-fine-role-bribery
 created: 2026-04-17
+text_status: parsed
+content_hash: sha256:0e879198eb8e8113570e63cf5743dd7ef1e90bf7b0b9d4bc6b03bb75dc868d8f
+word_count: 1051
+extraction_date: 2026-04-25
+last_fetcher: doj_fetch
 ---
 ## Source Summary
 

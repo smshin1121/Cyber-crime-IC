@@ -14,10 +14,15 @@ sensitivity: public
 pages_updated:
 
 key_findings:
-  - "Secure .gov websites use HTTPS A lock ( Lock Locked padlock ) or https:// means you’ve safely connected to the .gov website. Share sensitive information only on official, secure websites."
+  - "Secure .gov websites use HTTPS A lock ( Lock Locked padlock ) or https: "// means you’ve safely connected to the .gov website. Share sensitive information only on official, secure websites.\""
 collection_url: https://www.justice.gov/usao-dc/pr/united-states-seizes-more-868247-alleged-proceeds-cryptocurrency-confidence-scheme
 created: 2026-04-18
 updated: 2026-04-18
+text_status: parsed
+content_hash: sha256:5d9e492b03f0290a5cdf4a301abe52ed45d5f0019bb8a080d59e3b6b30579853
+word_count: 921
+extraction_date: 2026-04-25
+last_fetcher: doj_fetch
 ---
 ## Source Summary
 

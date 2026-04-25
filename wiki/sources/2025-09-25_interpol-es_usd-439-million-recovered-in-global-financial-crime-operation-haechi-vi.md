@@ -12,11 +12,16 @@ reliability: high
 credibility: confirmed
 sensitivity: public
 pages_updated:
-  []
+
 key_findings:
   - "Spanish-language INTERPOL coverage of HAECHI VI confirms the core recovery, account-blocking and crypto-freeze figures."
 collection_url: https://www.interpol.int/es/Noticias-y-acontecimientos/Noticias/2025/USD-439-million-recovered-in-global-financial-crime-operation
 created: 2026-04-23
+text_status: parsed
+content_hash: sha256:756cd67ecbc99623588b8e83b77d471b047ac93c42bf890c28c8dde497d12f7d
+word_count: 1250
+extraction_date: 2026-04-25
+last_fetcher: urllib
 ---
 ## Source Summary
 

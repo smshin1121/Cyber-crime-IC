@@ -17,6 +17,11 @@ key_findings:
   - "This domestic-only U.S. follow-on record has been absorbed into the canonical case page [[southern-california-woman-pleads-guilty-to-fentanyl-distribution-and-money-laundering-conspiracy]]. No visible cross-border mechanism is documented, so it is not treated as a separate international-cooperation operation."
 collection_url: https://www.justice.gov/usao-edca/pr/southern-california-woman-pleads-guilty-fentanyl-distribution-and-money-laundering
 created: 2026-04-17
+text_status: parsed
+content_hash: sha256:da7bf5a58b36be8a9dae45692b9935d54f621c089a1c8be7ae5d47ceb2908c38
+word_count: 147
+extraction_date: 2026-04-25
+last_fetcher: doj_fetch
 ---
 ## Source Summary
 

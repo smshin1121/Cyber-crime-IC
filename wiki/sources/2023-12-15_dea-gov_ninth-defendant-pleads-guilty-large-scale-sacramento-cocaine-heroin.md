@@ -17,6 +17,12 @@ key_findings:
   - "Continued parallel agency coverage."
 collection_url: https://www.dea.gov/press-releases/2023/12/15/ninth-defendant-pleads-guilty-large-scale-sacramento-cocaine-and-heroin
 created: 2026-04-25
+raw_path: raw/press-releases/2023-12-15_dea-gov_ninth-defendant-pleads-guilty-large-scale-sacramento-cocaine-heroin.md
+text_status: parsed
+content_hash: sha256:2fb2217018e9cc0f176fbb7d5547d0d48cd4a903aefa54a1d78e697992275716
+word_count: 5568
+extraction_date: 2026-04-25
+last_fetcher: jina
 ---
 ## Source Summary
 

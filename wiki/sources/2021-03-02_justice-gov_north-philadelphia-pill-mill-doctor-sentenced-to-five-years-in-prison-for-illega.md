@@ -17,6 +17,11 @@ key_findings:
   - "This domestic-only U.S. follow-on record has been absorbed into the canonical case page [[north-philadelphia-pill-mill-doctor-sentenced-to-five-years-in-prison-for-illegal-opioid-distribution]]. No visible cross-border mechanism is documented, so it is not treated as a separate international-cooperation operation."
 collection_url: https://www.justice.gov/usao-edpa/pr/north-philadelphia-pill-mill-doctor-sentenced-five-years-prison-illegal-opioid
 created: 2026-04-17
+text_status: parsed
+content_hash: sha256:5c3f89472bdc8e082d936d3095446c3ace154c53eddc305638fd373ae0453fd6
+word_count: 848
+extraction_date: 2026-04-25
+last_fetcher: doj_fetch
 ---
 ## Source Summary
 

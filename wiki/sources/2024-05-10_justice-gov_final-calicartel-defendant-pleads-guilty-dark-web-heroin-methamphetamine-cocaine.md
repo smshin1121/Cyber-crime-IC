@@ -17,6 +17,12 @@ key_findings:
   - "Documents multi-marketplace vendor account network."
 collection_url: https://www.justice.gov/usao-edca/pr/final-calicartel-defendant-pleads-guilty-dark-web-heroin-methamphetamine-and-cocaine
 created: 2026-04-25
+raw_path: raw/press-releases/2024-05-10_justice-gov_final-calicartel-defendant-pleads-guilty-dark-web-heroin-methamphetamine-cocaine.md
+text_status: parsed
+content_hash: sha256:2f8c949f00b432ae07f0161e76499ff6799945a89be74e57e23f57396c5703a2
+word_count: 149
+extraction_date: 2026-04-25
+last_fetcher: doj_fetch
 ---
 ## Source Summary
 

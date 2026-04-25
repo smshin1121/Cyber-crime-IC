@@ -14,10 +14,15 @@ sensitivity: public
 pages_updated:
 
 key_findings:
-  - "Secure .gov websites use HTTPS A lock ( Lock Locked padlock ) or https:// means you’ve safely connected to the .gov website. Share sensitive information only on official, secure websites."
+  - "Secure .gov websites use HTTPS A lock ( Lock Locked padlock ) or https: "// means you’ve safely connected to the .gov website. Share sensitive information only on official, secure websites.\""
 collection_url: https://www.justice.gov/usao-sdtx/pr/282-charged-new-cases-related-sdtxs-continuing-efforts-secure-southern-border
 created: 2026-04-18
 updated: 2026-04-18
+text_status: parsed
+content_hash: sha256:20e57ad86f7bd4555b42be25836fa92914248b80e15fbf4d0401b5078e740c36
+word_count: 165
+extraction_date: 2026-04-25
+last_fetcher: doj_fetch
 ---
 ## Source Summary
 

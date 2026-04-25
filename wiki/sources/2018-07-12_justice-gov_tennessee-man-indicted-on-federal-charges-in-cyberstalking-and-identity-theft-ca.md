@@ -17,6 +17,11 @@ key_findings:
   - "This domestic-only U.S. follow-on record has been absorbed into the canonical case page [[tennessee-man-indicted-on-federal-charges-in-cyberstalking-and-identity-theft-case]]. No visible cross-border mechanism is documented, so it is not treated as a separate international-cooperation operation."
 collection_url: https://www.justice.gov/usao-dc/pr/tennessee-man-indicted-federal-charges-cyberstalking-and-identity-theft-case
 created: 2026-04-17
+text_status: parsed
+content_hash: sha256:f8bdf3d00a347c5d92143d5a60575a3d749a71facb33b8644f3c915fcb6d01cc
+word_count: 1067
+extraction_date: 2026-04-25
+last_fetcher: doj_fetch
 ---
 ## Source Summary
 

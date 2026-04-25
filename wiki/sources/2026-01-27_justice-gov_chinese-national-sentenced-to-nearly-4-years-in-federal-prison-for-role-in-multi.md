@@ -17,6 +17,11 @@ key_findings:
   - "This domestic-only U.S. follow-on record has been absorbed into the canonical case page [[us-v-jingliang-su]]. No visible cross-border mechanism is documented, so it is not treated as a separate international-cooperation operation."
 collection_url: https://www.justice.gov/usao-cdca/pr/chinese-national-sentenced-46-months-federal-prison-role-multimillion-dollar
 created: 2026-04-17
+text_status: parsed
+content_hash: sha256:bd49a47e3260e0dd3b531ead792ec050193b7785179239dfd0bdde31e168305b
+word_count: 1325
+extraction_date: 2026-04-25
+last_fetcher: doj_fetch
 ---
 ## Source Summary
 

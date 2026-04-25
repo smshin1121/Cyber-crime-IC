@@ -14,12 +14,17 @@ sensitivity: public
 pages_updated:
   - phobos-8base-crackdown
 key_findings:
-  - "Secure .gov websites use HTTPS A lock ( Lock Locked padlock ) or https:// means you’ve safely connected to the .gov website. Share sensitive information only on official, secure websites."
+  - "Secure .gov websites use HTTPS A lock ( Lock Locked padlock ) or https: "// means you’ve safely connected to the .gov website. Share sensitive information only on official, secure websites.\""
 collection_url: https://www.justice.gov/opa/pr/phobos-ransomware-administrator-extradited-south-korea-face-cybercrime-charges
 created: 2026-04-17
 defendant_names:
   - "Evgenii Ptitsyn"
 updated: 2026-04-18
+text_status: parsed
+content_hash: sha256:874f1a15cdf15290001c51e969e2ad191b908642a030c532ab011ce038bb037b
+word_count: 1420
+extraction_date: 2026-04-25
+last_fetcher: doj_fetch
 ---
 ## Source Summary
 

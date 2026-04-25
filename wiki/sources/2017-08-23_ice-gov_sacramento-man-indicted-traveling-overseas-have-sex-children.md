@@ -17,6 +17,12 @@ key_findings:
   - "Documents recurring HSI role in this casework."
 collection_url: https://www.ice.gov/news/releases/sacramento-man-indicted-traveling-overseas-have-sex-children
 created: 2026-04-25
+raw_path: raw/press-releases/2017-08-23_ice-gov_sacramento-man-indicted-traveling-overseas-have-sex-children.md
+text_status: parsed
+content_hash: sha256:7b384c500c4428fb7ad7d397b59a5d76f14a8eb5fa1e413ecb8a273050fe270b
+word_count: 994
+extraction_date: 2026-04-25
+last_fetcher: urllib
 ---
 ## Source Summary
 

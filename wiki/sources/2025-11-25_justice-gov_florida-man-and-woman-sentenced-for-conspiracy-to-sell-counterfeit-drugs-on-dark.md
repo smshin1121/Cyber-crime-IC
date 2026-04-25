@@ -17,6 +17,11 @@ key_findings:
   - "This domestic-only U.S. follow-on record has been absorbed into the canonical case page [[us-v-michael-basalyga]]. No visible cross-border mechanism is documented, so it is not treated as a separate international-cooperation operation."
 collection_url: https://www.justice.gov/usao-edky/pr/florida-man-and-woman-sentenced-conspiracy-sell-counterfeit-drugs-dark-web-0
 created: 2026-04-17
+text_status: parsed
+content_hash: sha256:3d0482dfa32b9ed40af267a50a42231fda3c400a9607661af1e40130e32818b0
+word_count: 643
+extraction_date: 2026-04-25
+last_fetcher: doj_fetch
 ---
 ## Source Summary
 

@@ -14,12 +14,17 @@ sensitivity: public
 pages_updated:
 
 key_findings:
-  - "Secure .gov websites use HTTPS A lock ( Lock Locked padlock ) or https:// means you’ve safely connected to the .gov website. Share sensitive information only on official, secure websites."
+  - "Secure .gov websites use HTTPS A lock ( Lock Locked padlock ) or https: "// means you’ve safely connected to the .gov website. Share sensitive information only on official, secure websites.\""
 collection_url: https://www.justice.gov/usao-ma/pr/two-plead-guilty-nationwide-rideshare-and-delivery-account-fraud-scheme-0
 created: 2026-04-18
 defendant_names:
   - "Priscila Barbosa"
 updated: 2026-04-18
+text_status: parsed
+content_hash: sha256:c08734db49fabf598c2366e5b62fd4a8e4d176f763e1ea639b9f7a4931ecc692
+word_count: 191
+extraction_date: 2026-04-25
+last_fetcher: doj_fetch
 ---
 ## Source Summary
 

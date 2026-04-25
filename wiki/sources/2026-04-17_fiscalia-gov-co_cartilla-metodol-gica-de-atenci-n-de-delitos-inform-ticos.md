@@ -12,11 +12,16 @@ reliability: medium
 credibility: confirmed
 sensitivity: public
 pages_updated:
-  []
+
 key_findings:
   - "Colombia deposited its instrument of accession to the [[budapest-convention|Budapest Convention on Cybercrime]] on **16 March 2020**, becoming the 65th Party [1][2]. Its substantive cybercrime law is **Ley 1273 de 2009 \"De la protección de la información y de los datos\"**, which amended the Criminal Code to create a new protected legal good (\"protection of information and data\") and established comprehensive substantive offences [3][4]."
 collection_url: https://www.fiscalia.gov.co/colombia/wp-content/uploads/Cartilla-Metodologica-de-Atencion-de-Delitos-Informaticos.pdf
 created: 2026-04-17
+text_status: parsed
+content_hash: sha256:b68b19d5d5dabea0a37e8985e6b83890404efec7b02b2e02b6bec3af357f1dfc
+word_count: 5753
+extraction_date: 2026-04-25
+last_fetcher: jina
 ---
 ## Source Summary
 

@@ -17,6 +17,12 @@ key_findings:
   - "Documents broader DOJ portfolio context for the prosecution."
 collection_url: https://www.justice.gov/opa/pr/man-sentenced-over-24-years-prison-running-multiple-dark-web-child-sexual-abuse-websites
 created: 2026-04-25
+raw_path: raw/press-releases/2025-02-24_justice-gov-opa_man-sentenced-24-years-running-dark-web-child-sexual-abuse-websites.md
+text_status: parsed
+content_hash: sha256:cfbf42d305470935baef95e78a371bb71c0f6a91fbf6c44904aa3fb730d2f043
+word_count: 784
+extraction_date: 2026-04-25
+last_fetcher: doj_fetch
 ---
 ## Source Summary
 

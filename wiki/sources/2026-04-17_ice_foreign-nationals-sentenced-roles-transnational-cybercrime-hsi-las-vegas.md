@@ -18,6 +18,12 @@ key_findings:
   - "Multi-agency cooperation across HSI, FBI, DOJ NSD."
 collection_url: https://www.ice.gov/news/releases/foreign-nationals-sentenced-roles-transnational-cybercrime-following-hsi-las-vegas
 created: 2026-04-25
+raw_path: raw/press-releases/2026-04-17_ice_foreign-nationals-sentenced-roles-transnational-cybercrime-hsi-las-vegas.md
+text_status: parsed
+content_hash: sha256:91f696eff4bd24fb23d98bf368bb484aa20460e66c0161ae823604d7aeab0150
+word_count: 1256
+extraction_date: 2026-04-25
+last_fetcher: urllib
 ---
 ## Source Summary
 

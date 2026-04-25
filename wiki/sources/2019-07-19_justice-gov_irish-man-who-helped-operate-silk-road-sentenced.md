@@ -14,12 +14,17 @@ sensitivity: public
 pages_updated:
 
 key_findings:
-  - "Secure .gov websites use HTTPS A lock ( Lock Locked padlock ) or https:// means you’ve safely connected to the .gov website. Share sensitive information only on official, secure websites."
+  - "Secure .gov websites use HTTPS A lock ( Lock Locked padlock ) or https: "// means you’ve safely connected to the .gov website. Share sensitive information only on official, secure websites.\""
 collection_url: https://www.justice.gov/usao-sdny/pr/irish-man-who-helped-operate-silk-road-website-sentenced-manhattan-federal-court-over
 created: 2026-04-17
 updated: 2026-04-18
 defendant_names:
   - "In Manhattan Federal Court"
+text_status: parsed
+content_hash: sha256:1c1c39f70bc32992548e23df2478b4ce0ae733fd5497aafaee4bd52e4490dbb4
+word_count: 1330
+extraction_date: 2026-04-25
+last_fetcher: doj_fetch
 ---
 ## Source Summary
 

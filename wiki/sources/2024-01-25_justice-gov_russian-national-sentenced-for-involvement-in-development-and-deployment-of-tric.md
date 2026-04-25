@@ -17,6 +17,11 @@ key_findings:
   - "This domestic-only U.S. follow-on record has been absorbed into the canonical case page [[russian-national-sentenced-for-involvement-in-development-and-deployment-of-trickbot-malware]]. No visible cross-border mechanism is documented, so it is not treated as a separate international-cooperation operation."
 collection_url: https://www.justice.gov/usao-ndoh/pr/russian-national-sentenced-involvement-development-and-deployment-trickbot-malware
 created: 2026-04-17
+text_status: parsed
+content_hash: sha256:af54db5e04cfca58ef3a86017ea7e442249fdb4f326ac0121bdb629d2f0053eb
+word_count: 1183
+extraction_date: 2026-04-25
+last_fetcher: doj_fetch
 ---
 ## Source Summary
 

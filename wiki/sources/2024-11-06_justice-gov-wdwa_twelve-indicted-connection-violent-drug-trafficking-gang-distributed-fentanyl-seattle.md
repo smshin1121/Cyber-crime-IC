@@ -3,7 +3,7 @@ type: source
 title: "Twelve indicted in connection with violent drug trafficking gang distributed fentanyl Seattle"
 source_type: press-release
 publisher: "USAO WDWA"
-author: "Staff"
+author: Staff
 publish_date: 2024-11-06
 ingest_date: 2026-04-25
 language: en
@@ -17,6 +17,12 @@ key_findings:
   - "12th defendant illegal-weapons charge tied to Hookah bar shooting"
 collection_url: https://www.justice.gov/usao-wdwa/pr/twelve-indicted-connection-violent-drug-trafficking-gang-distributed-fentanyl-seattle
 created: 2026-04-25
+raw_path: raw/press-releases/2024-11-06_justice-gov-wdwa_twelve-indicted-connection-violent-drug-trafficking-gang-distributed-fentanyl-seattle.md
+text_status: parsed
+content_hash: sha256:47b5e7d4630e2ff44c22eeba8cb36f76d0cc959208af86af3c426906f96f9fa3
+word_count: 1495
+extraction_date: 2026-04-25
+last_fetcher: doj_fetch
 ---
 ## Source Summary
 

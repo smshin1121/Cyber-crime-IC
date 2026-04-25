@@ -14,12 +14,17 @@ sensitivity: public
 pages_updated:
 
 key_findings:
-  - "Secure .gov websites use HTTPS A lock ( Lock Locked padlock ) or https:// means you’ve safely connected to the .gov website. Share sensitive information only on official, secure websites."
+  - "Secure .gov websites use HTTPS A lock ( Lock Locked padlock ) or https: "// means you’ve safely connected to the .gov website. Share sensitive information only on official, secure websites.\""
 collection_url: https://www.justice.gov/usao-edmo/pr/darknet-vendor-who-sold-millions-counterfeit-xanax-sentenced
 created: 2026-04-17
 defendant_names:
   - "Brandon Adams"
 updated: 2026-04-18
+text_status: parsed
+content_hash: sha256:da5cd06dcad9096657c249eb3df1373d032f1b995b38efb6030481a78ff0e25e
+word_count: 170
+extraction_date: 2026-04-25
+last_fetcher: doj_fetch
 ---
 ## Source Summary
 

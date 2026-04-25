@@ -17,6 +17,12 @@ key_findings:
   - "The release described undercover purchases and seizures of heroin, cocaine, methamphetamine, and marijuana tied to the Chandler-based distribution cell."
 collection_url: https://www.justice.gov/usao-edca/pr/arizona-man-pleads-guilty-dark-web-narcotics-conspiracy
 created: 2026-04-25
+raw_path: raw/press-releases/2021-10-07_justice-gov_arizona-man-pleads-guilty-dark-web-narcotics-conspiracy.md
+text_status: parsed
+content_hash: sha256:f9cffbb52c1260c2a0adf1c447a238406d764553838e5509b142f056c404a20a
+word_count: 144
+extraction_date: 2026-04-25
+last_fetcher: doj_fetch
 ---
 ## Source Summary
 

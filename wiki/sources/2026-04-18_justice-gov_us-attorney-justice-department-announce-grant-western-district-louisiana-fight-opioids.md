@@ -14,10 +14,15 @@ sensitivity: public
 pages_updated:
 
 key_findings:
-  - "Secure .gov websites use HTTPS A lock ( Lock Locked padlock ) or https:// means you’ve safely connected to the .gov website. Share sensitive information only on official, secure websites."
+  - "Secure .gov websites use HTTPS A lock ( Lock Locked padlock ) or https: "// means you’ve safely connected to the .gov website. Share sensitive information only on official, secure websites.\""
 collection_url: https://www.justice.gov/usao-wdla/pr/us-attorney-justice-department-announce-grant-western-district-louisiana-fight-opioids
 created: 2026-04-18
 updated: 2026-04-18
+text_status: parsed
+content_hash: sha256:1ba309b53bec11fed5a66e9d333cb7d2fea6ce280c444317ea7543aa2312a7d2
+word_count: 1355
+extraction_date: 2026-04-25
+last_fetcher: doj_fetch
 ---
 ## Source Summary
 

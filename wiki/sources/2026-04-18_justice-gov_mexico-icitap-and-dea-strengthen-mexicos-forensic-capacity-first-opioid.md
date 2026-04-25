@@ -14,10 +14,15 @@ sensitivity: public
 pages_updated:
 
 key_findings:
-  - "Secure .gov websites use HTTPS A lock ( Lock Locked padlock ) or https:// means you’ve safely connected to the .gov website. Share sensitive information only on official, secure websites."
+  - "Secure .gov websites use HTTPS A lock ( Lock Locked padlock ) or https: "// means you’ve safely connected to the .gov website. Share sensitive information only on official, secure websites.\""
 collection_url: https://www.justice.gov/criminal/criminal-icitap/blog/mexico-icitap-and-dea-strengthen-mexicos-forensic-capacity-first-opioid
 created: 2026-04-18
 updated: 2026-04-18
+text_status: parsed
+content_hash: sha256:311cb68a1dd7fc3e794ec6fa7d3fd488fd9a5cf6a7daf182213af090a046afdd
+word_count: 720
+extraction_date: 2026-04-25
+last_fetcher: doj_fetch
 ---
 ## Source Summary
 

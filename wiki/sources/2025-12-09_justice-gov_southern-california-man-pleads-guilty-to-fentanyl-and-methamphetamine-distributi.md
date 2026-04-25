@@ -17,6 +17,11 @@ key_findings:
   - "This domestic-only U.S. follow-on record has been absorbed into the canonical case page [[southern-california-man-pleads-guilty-to-fentanyl-and-methamphetamine-distribution-conspiracy]]. No visible cross-border mechanism is documented, so it is not treated as a separate international-cooperation operation."
 collection_url: https://www.justice.gov/usao-edca/pr/southern-california-man-pleads-guilty-fentanyl-and-methamphetamine-distribution
 created: 2026-04-17
+text_status: parsed
+content_hash: sha256:2ede64461f65c9677df4c6b0884e00d24353fa12c0c3d092e39a2386635f3cb6
+word_count: 146
+extraction_date: 2026-04-25
+last_fetcher: doj_fetch
 ---
 ## Source Summary
 

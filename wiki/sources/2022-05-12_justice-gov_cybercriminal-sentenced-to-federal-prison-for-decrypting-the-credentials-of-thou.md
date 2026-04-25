@@ -17,6 +17,11 @@ key_findings:
   - "This domestic-only U.S. follow-on record has been absorbed into the canonical case page [[us-v-to-federal-prison-for]]. No visible cross-border mechanism is documented, so it is not treated as a separate international-cooperation operation."
 collection_url: https://www.justice.gov/usao-mdfl/pr/cybercriminal-sentenced-federal-prison-decrypting-credentials-thousands-computers
 created: 2026-04-17
+text_status: parsed
+content_hash: sha256:a058354416b7d56cf145310ab73e2bcdf25b94c48617ec3829cc3427ce702f19
+word_count: 899
+extraction_date: 2026-04-25
+last_fetcher: doj_fetch
 ---
 ## Source Summary
 

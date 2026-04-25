@@ -14,10 +14,15 @@ sensitivity: public
 pages_updated:
 
 key_findings:
-  - "Secure .gov websites use HTTPS A lock ( Lock Locked padlock ) or https:// means you’ve safely connected to the .gov website. Share sensitive information only on official, secure websites."
+  - "Secure .gov websites use HTTPS A lock ( Lock Locked padlock ) or https: "// means you’ve safely connected to the .gov website. Share sensitive information only on official, secure websites.\""
 collection_url: https://www.justice.gov/usao-cdca/pr/us-attorney-martin-estrada-leave-justice-department-after-serving-chief-federal-law
 created: 2026-04-18
 updated: 2026-04-18
+text_status: parsed
+content_hash: sha256:db098f90c77524d644341031fb38f9ef16f015adc141f6cd08840f998a94c373
+word_count: 2835
+extraction_date: 2026-04-25
+last_fetcher: doj_fetch
 ---
 ## Source Summary
 

@@ -17,6 +17,11 @@ key_findings:
   - "This domestic-only U.S. follow-on record has been absorbed into the canonical case page [[two-men-indicted-for-international-conspiracy-to-ship-fentanyl-other-drugs-into-united-states-through-dark-web]]. No visible cross-border mechanism is documented, so it is not treated as a separate international-cooperation operation."
 collection_url: https://www.justice.gov/usao-sdga/pr/two-men-indicted-international-conspiracy-ship-fentanyl-other-drugs-united-states
 created: 2026-04-17
+text_status: parsed
+content_hash: sha256:a1ed13bcee10e561acfaebdbebfc8f97e98f51c7547feedd99ef33e0cb57e1b1
+word_count: 172
+extraction_date: 2026-04-25
+last_fetcher: doj_fetch
 ---
 ## Source Summary
 

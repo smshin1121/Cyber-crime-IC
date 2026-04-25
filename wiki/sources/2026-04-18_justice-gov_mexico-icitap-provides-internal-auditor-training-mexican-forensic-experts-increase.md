@@ -14,10 +14,15 @@ sensitivity: public
 pages_updated:
 
 key_findings:
-  - "Secure .gov websites use HTTPS A lock ( Lock Locked padlock ) or https:// means you’ve safely connected to the .gov website. Share sensitive information only on official, secure websites."
+  - "Secure .gov websites use HTTPS A lock ( Lock Locked padlock ) or https: "// means you’ve safely connected to the .gov website. Share sensitive information only on official, secure websites.\""
 collection_url: https://www.justice.gov/criminal/criminal-icitap/blog/mexico-icitap-provides-internal-auditor-training-mexican-forensic-experts-increase
 created: 2026-04-18
 updated: 2026-04-18
+text_status: parsed
+content_hash: sha256:a4d5b53ffce76af03d513925b4c019cbd5df9fc981c7b894bf570546e252348e
+word_count: 721
+extraction_date: 2026-04-25
+last_fetcher: doj_fetch
 ---
 ## Source Summary
 

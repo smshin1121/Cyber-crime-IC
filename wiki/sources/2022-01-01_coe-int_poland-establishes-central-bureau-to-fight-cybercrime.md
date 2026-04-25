@@ -12,11 +12,16 @@ reliability: medium
 credibility: confirmed
 sensitivity: public
 pages_updated:
-  []
+
 key_findings:
   - "Poland is a European Union member and **[[budapest-convention|Budapest Convention]] party**. Its cybercrime law enforcement underwent a major institutional reform in 2022 with the creation of the **Central Bureau for Combating Cybercrime** (*Centralne Biuro Zwalczania Cyberprzestępczości*, **CBZC**), a dedicated national cybercrime investigation service within the Polish Police."
 collection_url: https://www.coe.int/en/web/cybercrime/-/poland-central-bureau
 created: 2026-04-17
+text_status: parsed
+content_hash: sha256:911b595b164c20f2b4e63216274c855a94a6f42bd780fa94b6005c152c0a2c78
+word_count: 134
+extraction_date: 2026-04-25
+last_fetcher: jina
 ---
 ## Source Summary
 

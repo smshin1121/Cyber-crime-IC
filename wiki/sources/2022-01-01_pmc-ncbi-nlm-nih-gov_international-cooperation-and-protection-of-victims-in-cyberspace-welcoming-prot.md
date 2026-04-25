@@ -12,11 +12,16 @@ reliability: medium
 credibility: confirmed
 sensitivity: public
 pages_updated:
-  []
+
 key_findings:
   - "Italy ratified the [[budapest-convention|Budapest Convention]] in 2008 via **Law No. 48 of 18 March 2008**, which simultaneously introduced significant reforms to the Italian Criminal Code, Code of Criminal Procedure, and corporate liability framework under **Legislative Decree 231/2001**."
 collection_url: https://pmc.ncbi.nlm.nih.gov/articles/PMC8978772/
 created: 2026-04-17
+text_status: parsed
+content_hash: sha256:670d66de11076ec2f1a1dbe78351211b9f229bbda1e856a431eefa5e18021f91
+word_count: 4482
+extraction_date: 2026-04-25
+last_fetcher: urllib
 ---
 ## Source Summary
 

@@ -17,6 +17,11 @@ key_findings:
   - "This domestic-only U.S. follow-on record has been absorbed into the canonical case page [[three-people-sentenced-to-prison-for-distributing-methamphetamine-fentanyl-and-nitazenes]]. No visible cross-border mechanism is documented, so it is not treated as a separate international-cooperation operation."
 collection_url: https://www.justice.gov/usao-sdfl/pr/three-people-sentenced-prison-distributing-methamphetamine-fentanyl-and-nitazenes
 created: 2026-04-17
+text_status: parsed
+content_hash: sha256:4cce92f40dd435d5bab5e1249e73ba4382b6c59b1a9567bd19334b7df350e885
+word_count: 1083
+extraction_date: 2026-04-25
+last_fetcher: doj_fetch
 ---
 ## Source Summary
 

@@ -18,6 +18,12 @@ key_findings:
   - "The release captured the national operational totals and the laundering-for-cash undercover mechanism used by HSI New York."
 collection_url: https://www.justice.gov/archives/opa/pr/first-nationwide-undercover-operation-targeting-darknet-vendors-results-arrests-more-35
 created: 2026-04-25
+raw_path: raw/press-releases/2018-06-26_justice-gov_opa_first-nationwide-undercover-operation-targeting-darknet-vendors-results-arrests-more-35.md
+text_status: parsed
+content_hash: sha256:2a7a87e987e1300333d51189033a0c7210abe7e278a1deefe08929f0066a9668
+word_count: 2666
+extraction_date: 2026-04-25
+last_fetcher: doj_fetch
 ---
 ## Source Summary
 

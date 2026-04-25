@@ -1,0 +1,133 @@
+---
+title: "Nevada Woman Sentenced to 5 Years Prison for Hiring Hitman on Dark Web to Kill Her Ex-Husband"
+collection_source: "US DOJ USAO"
+collection_url: https://www.justice.gov/usao-edca/pr/nevada-woman-sentenced-5-years-prison-hiring-hitman-dark-web-kill-her-ex-husband
+collection_domain: justice.gov
+collection_date: 2026-04-17
+publish_date: 2023-07-21
+language: en
+status: collected
+final_url: https://www.justice.gov/usao-edca/pr/nevada-woman-sentenced-5-years-prison-hiring-hitman-dark-web-kill-her-ex-husband
+text_status: parsed
+fetcher: doj_fetch
+http_status: 200
+content_type: text/html
+content_hash: sha256:42cbdbc332f2f125d160b917f70f1afddee4cb60e85d1ab0e56bb41d42e59203
+word_count: 152
+extraction_date: 2026-04-25
+source_page: wiki/sources/2023-07-21_justice-gov_nevada-woman-sentenced-to-5-years-prison-for-hiring-hitman-on-dark-web-to-kill-h.md
+---
+## Summary
+
+This domestic-only U.S. follow-on record has been absorbed into the canonical case page [[nevada-woman-sentenced-to-5-years-prison-for-hiring-hitman-on-dark-web-to-kill-her-ex-husband]]. No visible cross-border mechanism is documented, so it is not treated as a separate international-cooperation operation.
+
+## Extracted Text
+
+Eastern District of California | Nevada Woman Sentenced to 5 Years Prison for Hiring Hitman on Dark Web to Kill Her Ex-Husband | United States Department of Justice
+
+Here's how you know
+
+A .gov website belongs to an official government organization in the United States.
+
+A lock (
+
+) or https:// means you’ve safely connected to the .gov website. Share sensitive information only on official, secure websites.
+
+DOJ Menu
+
+U.S. Department
+
+of Justice
+
+About
+
+The Attorney General
+
+Organizational Chart
+
+Budget & Performance
+
+History
+
+Privacy Program
+
+Our Work
+
+News
+
+Press Releases
+
+Speeches
+
+Videos
+
+Photo Galleries
+
+Blogs
+
+Podcasts
+
+Resources
+
+Guidance Documents
+
+Forms
+
+Publications
+
+Information for Victims in Large Cases
+
+Justice Manual
+
+Business and Contracts
+
+Grants
+
+Employment
+
+Why Justice ?
+
+Benefits
+
+DOJ Vacancies
+
+Legal Careers at DOJ
+
+About EDCA
+
+Find Help
+
+Contact Us
+
+Utilities
+
+Search
+
+Menu
+
+Close
+
+Meet the U.S. Attorney
+
+Report to District
+
+Sacramento Office
+
+Fresno Office
+
+Bakersfield Office
+
+Divisions
+
+Frequently Asked Questions
+
+Victim Information
+
+Victim Rights
+
+## Extraction Notes
+
+- parser: document
+- fetcher: doj_fetch
+- fetched_at: 2026-04-25T14:19:45+00:00
+- final_url: https://www.justice.gov/usao-edca/pr/nevada-woman-sentenced-5-years-prison-hiring-hitman-dark-web-kill-her-ex-husband

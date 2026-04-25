@@ -17,6 +17,11 @@ key_findings:
   - "This domestic-only U.S. follow-on record has been absorbed into the canonical case page [[us-v-krista-renae-stone]]. No visible cross-border mechanism is documented, so it is not treated as a separate international-cooperation operation."
 collection_url: https://www.justice.gov/usao-ut/pr/woman-who-used-dark-web-commit-murder-hire-kill-ex-boyfriends-new-girlfriend-sentenced
 created: 2026-04-17
+text_status: parsed
+content_hash: sha256:598232e258c1d5ae4435616cf2d90851876f8cf1e38e9ac5c9acccc62a2a2ef5
+word_count: 166
+extraction_date: 2026-04-25
+last_fetcher: doj_fetch
 ---
 ## Source Summary
 

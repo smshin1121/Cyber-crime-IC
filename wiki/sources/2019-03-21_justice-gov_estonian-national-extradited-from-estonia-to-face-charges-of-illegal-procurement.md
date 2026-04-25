@@ -17,6 +17,11 @@ key_findings:
   - "This domestic-only U.S. follow-on record has been absorbed into the canonical case page [[estonian-national-extradited-from-estonia-to-face-charges-of-illegal-procurement-of-u-s-electronics]]. No visible cross-border mechanism is documented, so it is not treated as a separate international-cooperation operation."
 collection_url: https://www.justice.gov/usao-ndca/pr/estonian-national-extradited-estonia-face-charges-illegal-procurement-us-electronics
 created: 2026-04-17
+text_status: parsed
+content_hash: sha256:9ac8881d38a5a4ca954d51f71869eeff6dc46a885f493e79af18d399195d0d48
+word_count: 1093
+extraction_date: 2026-04-25
+last_fetcher: doj_fetch
 ---
 ## Source Summary
 

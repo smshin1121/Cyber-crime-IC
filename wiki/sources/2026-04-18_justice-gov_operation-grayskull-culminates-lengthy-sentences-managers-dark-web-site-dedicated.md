@@ -14,10 +14,15 @@ sensitivity: public
 pages_updated:
 
 key_findings:
-  - "Secure .gov websites use HTTPS A lock ( Lock Locked padlock ) or https:// means you’ve safely connected to the .gov website. Share sensitive information only on official, secure websites."
+  - "Secure .gov websites use HTTPS A lock ( Lock Locked padlock ) or https: "// means you’ve safely connected to the .gov website. Share sensitive information only on official, secure websites.\""
 collection_url: https://www.justice.gov/usao-sdfl/pr/operation-grayskull-culminates-lengthy-sentences-managers-dark-web-site-dedicated
 created: 2026-04-18
 updated: 2026-04-18
+text_status: parsed
+content_hash: sha256:97b23d5bc01b903a3b2a114c17cdb1ba15ae83a3d267bb4c23525dc6b6e5161d
+word_count: 2026
+extraction_date: 2026-04-25
+last_fetcher: doj_fetch
 ---
 ## Source Summary
 

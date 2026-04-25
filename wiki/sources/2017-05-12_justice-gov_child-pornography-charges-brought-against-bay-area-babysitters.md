@@ -17,6 +17,11 @@ key_findings:
   - "This domestic-only U.S. follow-on record has been absorbed into the canonical case page [[us-v-brought-against-bay-area]]. No visible cross-border mechanism is documented, so it is not treated as a separate international-cooperation operation."
 collection_url: https://www.justice.gov/usao-ndca/pr/child-pornography-charges-brought-against-bay-area-babysitters
 created: 2026-04-17
+text_status: parsed
+content_hash: sha256:e59b5758968b26567b77df580051230d242da8eb649b26d4ff22df33a89b5511
+word_count: 955
+extraction_date: 2026-04-25
+last_fetcher: doj_fetch
 ---
 ## Source Summary
 

@@ -17,6 +17,11 @@ key_findings:
   - "This domestic-only U.S. follow-on record has been absorbed into the canonical case page [[nurse-charged-with-tampering-with-vials-of-fentanyl]]. No visible cross-border mechanism is documented, so it is not treated as a separate international-cooperation operation."
 collection_url: https://www.justice.gov/usao-edmi/pr/nurse-charged-tampering-vials-fentanyl
 created: 2026-04-17
+text_status: parsed
+content_hash: sha256:7b2c2c6023f3f89802a10e5fe94cacdb3a6ec0d203c6cd925756396296b77693
+word_count: 817
+extraction_date: 2026-04-25
+last_fetcher: doj_fetch
 ---
 ## Source Summary
 

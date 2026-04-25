@@ -14,12 +14,17 @@ sensitivity: public
 pages_updated:
 
 key_findings:
-  - "Secure .gov websites use HTTPS A lock ( Lock Locked padlock ) or https:// means you’ve safely connected to the .gov website. Share sensitive information only on official, secure websites."
+  - "Secure .gov websites use HTTPS A lock ( Lock Locked padlock ) or https: "// means you’ve safely connected to the .gov website. Share sensitive information only on official, secure websites.\""
 collection_url: https://www.justice.gov/usao-edmo/pr/former-doctor-sentenced-stealing-identity-apply-medical-jobs
 created: 2026-04-18
 defendant_names:
   - "Former Doctor"
 updated: 2026-04-18
+text_status: parsed
+content_hash: sha256:318d777621d61524799a17b0a6ac4b7a4569f97cb5dbdf2395a6dbb101fa1a0d
+word_count: 172
+extraction_date: 2026-04-25
+last_fetcher: doj_fetch
 ---
 ## Source Summary
 

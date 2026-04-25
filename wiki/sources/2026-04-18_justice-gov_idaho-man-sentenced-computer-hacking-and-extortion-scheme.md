@@ -14,10 +14,15 @@ sensitivity: public
 pages_updated:
 
 key_findings:
-  - "Secure .gov websites use HTTPS A lock ( Lock Locked padlock ) or https:// means you’ve safely connected to the .gov website. Share sensitive information only on official, secure websites."
+  - "Secure .gov websites use HTTPS A lock ( Lock Locked padlock ) or https: "// means you’ve safely connected to the .gov website. Share sensitive information only on official, secure websites.\""
 collection_url: https://www.justice.gov/usao-ndga/pr/idaho-man-sentenced-computer-hacking-and-extortion-scheme
 created: 2026-04-18
 updated: 2026-04-18
+text_status: parsed
+content_hash: sha256:24c728d3eac0aa266be63085d070b2477d413da35c144d568d60a3ef5f7a2cd6
+word_count: 171
+extraction_date: 2026-04-25
+last_fetcher: doj_fetch
 ---
 ## Source Summary
 

@@ -17,6 +17,11 @@ key_findings:
   - "This domestic-only U.S. follow-on record has been absorbed into the canonical case page [[massachusetts-man-sentenced-for-knowingly-concealing-the-source-of-material-support-or-resources-to-isis]]. No visible cross-border mechanism is documented, so it is not treated as a separate international-cooperation operation."
 collection_url: https://www.justice.gov/usao-ma/pr/massachusetts-man-sentenced-knowingly-concealing-source-material-support-or-resources
 created: 2026-04-17
+text_status: parsed
+content_hash: sha256:da864e2e91f1fa168314d14bd1caa24cb905b6aa356b0614bf6fa6ddeee9ff51
+word_count: 195
+extraction_date: 2026-04-25
+last_fetcher: doj_fetch
 ---
 ## Source Summary
 

@@ -17,6 +17,11 @@ key_findings:
   - "This domestic-only U.S. follow-on record has been absorbed into the canonical case page [[us-v-adam-lemar-miles]]. No visible cross-border mechanism is documented, so it is not treated as a separate international-cooperation operation."
 collection_url: https://www.justice.gov/usao-sdfl/pr/dark-web-vendor-sentenced-108-months-prison-narcotics-trafficking-and-money-laundering
 created: 2026-04-17
+text_status: parsed
+content_hash: sha256:0af5e3964bc66417d3ef6a9f49922f46faca8ed78a273d2eeaf7bd5958ed162f
+word_count: 963
+extraction_date: 2026-04-25
+last_fetcher: doj_fetch
 ---
 ## Source Summary
 

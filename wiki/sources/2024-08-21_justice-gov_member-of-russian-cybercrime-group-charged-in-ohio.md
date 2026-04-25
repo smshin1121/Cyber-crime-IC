@@ -17,6 +17,11 @@ key_findings:
   - "This domestic-only U.S. follow-on record has been absorbed into the canonical case page [[member-of-russian-cybercrime-group-charged-in-ohio]]. No visible cross-border mechanism is documented, so it is not treated as a separate international-cooperation operation."
 collection_url: https://www.justice.gov/usao-sdoh/pr/member-russian-cybercrime-group-charged-ohio
 created: 2026-04-17
+text_status: parsed
+content_hash: sha256:2500a3b691ad3bf599cf3ff8c8e0c2d69c7aacb822d970803aac4d796fc4ecef
+word_count: 690
+extraction_date: 2026-04-25
+last_fetcher: doj_fetch
 ---
 ## Source Summary
 

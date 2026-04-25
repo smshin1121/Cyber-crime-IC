@@ -14,13 +14,18 @@ sensitivity: public
 pages_updated:
 
 key_findings:
-  - "Secure .gov websites use HTTPS A lock ( Lock Locked padlock ) or https:// means you’ve safely connected to the .gov website. Share sensitive information only on official, secure websites."
+  - "Secure .gov websites use HTTPS A lock ( Lock Locked padlock ) or https: "// means you’ve safely connected to the .gov website. Share sensitive information only on official, secure websites.\""
 collection_url: https://www.justice.gov/usao-edva/pr/darknet-drug-vendor-pleads-guilty-distributing-illicit-prescription-drugs
 created: 2026-04-17
 defendant_names:
   - "Donjuan Murphy"
   - "Montrio Santos Neville"
 updated: 2026-04-18
+text_status: parsed
+content_hash: sha256:4240267fac86476646c2ed49429dec9279d8862908dc0bbc68ea9a301b533b60
+word_count: 154
+extraction_date: 2026-04-25
+last_fetcher: doj_fetch
 ---
 ## Source Summary
 

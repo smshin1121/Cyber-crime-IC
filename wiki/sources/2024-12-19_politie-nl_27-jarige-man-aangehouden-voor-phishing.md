@@ -20,6 +20,12 @@ key_findings:
   - "The release indicates the investigation remained active after the initial cross-border arrest sweep."
 created: 2026-04-18
 updated: 2026-04-18
+raw_path: raw/press-releases/2024-12-19_politie-nl_27-jarige-man-aangehouden-voor-phishing.md
+text_status: parsed
+content_hash: sha256:425b80fbf2ac0fc5a15e8294c34597a9c07172b56e5117fbab48be239ee070a9
+word_count: 432
+extraction_date: 2026-04-25
+last_fetcher: urllib
 ---
 ## Source Summary
 

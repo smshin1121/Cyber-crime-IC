@@ -17,6 +17,11 @@ key_findings:
   - "This domestic-only U.S. follow-on record has been absorbed into the canonical case page [[us-v-road-task-force-agent]]. No visible cross-border mechanism is documented, so it is not treated as a separate international-cooperation operation."
 collection_url: https://www.justice.gov/usao-ndca/pr/former-silk-road-task-force-agent-sentenced-78-months-prison-extortion-money-laundering
 created: 2026-04-17
+text_status: parsed
+content_hash: sha256:7cf884437b4a0e33fdb89547cee931a75bc36bd2b31653cbfa45d586cfec47c7
+word_count: 1963
+extraction_date: 2026-04-25
+last_fetcher: doj_fetch
 ---
 ## Source Summary
 

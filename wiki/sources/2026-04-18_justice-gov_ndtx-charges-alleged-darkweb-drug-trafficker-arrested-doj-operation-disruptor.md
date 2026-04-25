@@ -14,12 +14,17 @@ sensitivity: public
 pages_updated:
 
 key_findings:
-  - "Secure .gov websites use HTTPS A lock ( Lock Locked padlock ) or https:// means you’ve safely connected to the .gov website. Share sensitive information only on official, secure websites."
+  - "Secure .gov websites use HTTPS A lock ( Lock Locked padlock ) or https: "// means you’ve safely connected to the .gov website. Share sensitive information only on official, secure websites.\""
 collection_url: https://www.justice.gov/usao-ndtx/pr/ndtx-charges-alleged-darkweb-drug-trafficker-arrested-doj-operation-disruptor
 created: 2026-04-18
 updated: 2026-04-18
 defendant_names:
   - "Drug Trafficker"
+text_status: parsed
+content_hash: sha256:9a406f767a26cc4bcec6860a07a24a2babe7aed788869095c877c28af7d325b2
+word_count: 2104
+extraction_date: 2026-04-25
+last_fetcher: doj_fetch
 ---
 ## Source Summary
 

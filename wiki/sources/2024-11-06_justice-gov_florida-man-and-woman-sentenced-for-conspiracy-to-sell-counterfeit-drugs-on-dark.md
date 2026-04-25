@@ -17,6 +17,11 @@ key_findings:
   - "This domestic-only U.S. follow-on record has been absorbed into the canonical case page [[us-v-omar-thomas-wala-and-vienna-cavanaugh]]. No visible cross-border mechanism is documented, so it is not treated as a separate international-cooperation operation."
 collection_url: https://www.justice.gov/usao-edky/pr/florida-man-and-woman-sentenced-conspiracy-sell-counterfeit-drugs-dark-web
 created: 2026-04-17
+text_status: parsed
+content_hash: sha256:7ac1cacae4756ffa625e8ab9935591a7a685817a5bed6f4a8bd527dff8618a16
+word_count: 866
+extraction_date: 2026-04-25
+last_fetcher: doj_fetch
 ---
 ## Source Summary
 

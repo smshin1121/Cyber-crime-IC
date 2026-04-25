@@ -3,7 +3,7 @@ type: source
 title: "California Teenager Sentenced To 48 Months For Nationwide Swatting Spree"
 source_type: press-release
 publisher: "USAO Middle District of Florida"
-author: "Staff"
+author: Staff
 publish_date: 2025-02-13
 ingest_date: 2026-04-25
 language: en
@@ -17,6 +17,12 @@ key_findings:
   - "Multi-USAO partner districts including WDWA"
 collection_url: https://www.justice.gov/usao-mdfl/pr/california-teenager-sentenced-48-months-nationwide-swatting-spree
 created: 2026-04-25
+raw_path: raw/press-releases/2025-02-13_justice-gov-mdfl_california-teenager-sentenced-48-months-nationwide-swatting-spree.md
+text_status: parsed
+content_hash: sha256:3a0fd214147d317828c7e4b8e31c5e053a1d304742a9bc6c171f5305ef5e5d9a
+word_count: 1118
+extraction_date: 2026-04-25
+last_fetcher: doj_fetch
 ---
 ## Source Summary
 

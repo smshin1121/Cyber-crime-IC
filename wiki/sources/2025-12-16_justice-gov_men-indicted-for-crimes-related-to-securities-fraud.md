@@ -17,6 +17,11 @@ key_findings:
   - "This domestic-only U.S. follow-on record has been absorbed into the canonical case page [[men-indicted-for-crimes-related-to-securities-fraud]]. No visible cross-border mechanism is documented, so it is not treated as a separate international-cooperation operation."
 collection_url: https://www.justice.gov/usao-ks/pr/men-indicted-crimes-related-securities-fraud
 created: 2026-04-17
+text_status: parsed
+content_hash: sha256:d398d90d9a2804cade5ceae0b10c0885d2ee40c64112e86bb61c6b586ba9b8ce
+word_count: 142
+extraction_date: 2026-04-25
+last_fetcher: doj_fetch
 ---
 ## Source Summary
 

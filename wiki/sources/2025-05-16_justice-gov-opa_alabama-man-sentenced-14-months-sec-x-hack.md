@@ -16,6 +16,12 @@ key_findings:
   - "Eric Council Jr. sentenced to 14 months for the January 2024 SEC X account SIM-swap hack"
 collection_url: https://www.justice.gov/opa/pr/alabama-man-sentenced-14-months-connection-securities-and-exchange-commission-x-hack-spiked
 created: 2026-04-25
+raw_path: raw/press-releases/2025-05-16_justice-gov-opa_alabama-man-sentenced-14-months-sec-x-hack-spiked-bitcoin.md
+text_status: parsed
+content_hash: sha256:75c45ee21f5aabadca23849a32d134c2d79093170fa8cccf335bd6d725d13d4d
+word_count: 1089
+extraction_date: 2026-04-25
+last_fetcher: doj_fetch
 ---
 ## Source Summary
 

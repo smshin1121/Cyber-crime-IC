@@ -16,6 +16,12 @@ key_findings:
   - "ICE-HSI Washington / NY confirmed parallel investigative role"
 collection_url: https://www.ice.gov/news/releases/ice-homeland-security-investigations-partners-investigation-leading-2-arrests-alleged
 created: 2026-04-25
+raw_path: raw/press-releases/2022-02-08_ice-gov_ice-hsi-partners-investigation-leading-2-arrests-launder-4-5-billion-cryptocurrency.md
+text_status: parsed
+content_hash: sha256:6bedc09c27446a321233da8db69f7e7988e72b65bd73becbc8272652f36464fb
+word_count: 1472
+extraction_date: 2026-04-25
+last_fetcher: urllib
 ---
 ## Source Summary
 

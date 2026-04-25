@@ -17,6 +17,11 @@ key_findings:
   - "This domestic-only U.S. follow-on record has been absorbed into the canonical case page [[us-v-jail-guard-mosses-ramos-and-michael-anthony-barquet]]. No visible cross-border mechanism is documented, so it is not treated as a separate international-cooperation operation."
 collection_url: https://www.justice.gov/usao-wdwa/pr/former-king-county-jail-guard-and-five-others-indicted-bribery-scheme-brought-meth-and
 created: 2026-04-17
+text_status: parsed
+content_hash: sha256:f8407c897772a17ccd759394e7014414bc6c2e4a9446ccef73141ffe91a1fdf9
+word_count: 1005
+extraction_date: 2026-04-25
+last_fetcher: doj_fetch
 ---
 ## Source Summary
 

@@ -17,6 +17,12 @@ key_findings:
   - "Establishes 1,100+ transaction count and 98% feedback rating."
 collection_url: https://www.justice.gov/usao-edca/pr/florida-man-pleads-guilty-selling-fentanyl-over-dark-web
 created: 2026-04-25
+raw_path: raw/press-releases/2023-04-06_justice-gov_florida-man-pleads-guilty-selling-fentanyl-over-dark-web.md
+text_status: parsed
+content_hash: sha256:7ceb71c3f99d8c29704603f3962d642c7b813e76148f50b7d55f385f12633c28
+word_count: 146
+extraction_date: 2026-04-25
+last_fetcher: doj_fetch
 ---
 ## Source Summary
 

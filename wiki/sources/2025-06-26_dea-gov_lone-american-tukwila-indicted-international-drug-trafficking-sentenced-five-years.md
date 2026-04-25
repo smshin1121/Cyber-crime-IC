@@ -2,8 +2,8 @@
 type: source
 title: "Lone American Living in Tukwila Indicted in International Drug Trafficking Investigation Sentenced to Five Years in Prison"
 source_type: press-release
-publisher: "DEA"
-author: "Staff"
+publisher: DEA
+author: Staff
 publish_date: 2025-06-26
 ingest_date: 2026-04-25
 language: en
@@ -17,6 +17,12 @@ key_findings:
   - "Confirms ties to Mexico and Colombia suppliers and the multi-agency seizures."
 collection_url: https://www.dea.gov/press-releases/2025/06/26/lone-american-living-tukwila-indicted-international-drug-trafficking
 created: 2026-04-25
+raw_path: raw/press-releases/2025-06-26_dea-gov_lone-american-tukwila-indicted-international-drug-trafficking-sentenced-five-years.md
+text_status: parsed
+content_hash: sha256:268811e0ac3670cdefc9d042b2441cae1bdc0935c311522a83770c4f433fa2c3
+word_count: 5826
+extraction_date: 2026-04-25
+last_fetcher: jina
 ---
 ## Source Summary
 

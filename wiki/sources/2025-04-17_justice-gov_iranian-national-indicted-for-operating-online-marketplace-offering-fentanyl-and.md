@@ -17,6 +17,11 @@ key_findings:
   - "This domestic-only U.S. follow-on record has been absorbed into the canonical case page [[iranian-national-indicted-for-operating-online-marketplace-offering-fentanyl-and-money-laundering-services]]. No visible cross-border mechanism is documented, so it is not treated as a separate international-cooperation operation."
 collection_url: https://www.justice.gov/opa/pr/iranian-national-indicted-operating-online-marketplace-offering-fentanyl-and-money
 created: 2026-04-17
+text_status: parsed
+content_hash: sha256:169984182035b8490b0a9fccee976de33aa4d218feae5b434c676540fd99a896
+word_count: 1276
+extraction_date: 2026-04-25
+last_fetcher: doj_fetch
 ---
 ## Source Summary
 

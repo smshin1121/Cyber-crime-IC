@@ -18,6 +18,12 @@ key_findings:
   - "Parallel pre-sentencing DOJ press release tied to same defendant and conduct"
 collection_url: https://www.justice.gov/usao-nj/pr/new-york-man-charged-fraudulently-obtaining-more-1-million
 created: 2026-04-25
+raw_path: raw/press-releases/2023-08-25_justice-gov-usao-nj_new-york-man-charged-fraudulently-obtaining-more-1-million.md
+text_status: parsed
+content_hash: sha256:93f6b8c50b8da9261d633d500cb58ff721df5c9d349e7922ebbbd07ebde3b934
+word_count: 814
+extraction_date: 2026-04-25
+last_fetcher: doj_fetch
 ---
 ## Source Summary
 

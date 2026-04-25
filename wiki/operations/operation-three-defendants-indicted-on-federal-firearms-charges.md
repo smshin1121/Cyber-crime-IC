@@ -64,11 +64,21 @@ sources:
   - "[[2026-04-18_justice-gov_three-defendants-indicted-federal-firearms-charges]]"
 summary: "This domestic-only U.S. follow-on record has been absorbed into the canonical case page [[three-defendants-indicted-on-federal-firearms-charges]]. No visible cross-border mechanism is documented, so it is not treated as a separate international-cooperation operation."
 created: 2026-04-18
-updated: 2026-04-22
+updated: 2026-04-25
 ---
 ## Summary
 
 This domestic-only U.S. follow-on record has been absorbed into the canonical case page [[three-defendants-indicted-on-federal-firearms-charges]]. No visible cross-border mechanism is documented, so it is not treated as a separate international-cooperation operation.
+
+> [!info] Source enrichment — single-source justification (2026-04-25)
+> Searched for additional credible sources covering this SDGA Project Safe Neighborhoods batch firearms indictment (Johnson, Ealy, Bryant):
+> - DOJ follow-up press releases: this is the indictment PR; sentencing PRs would be per-defendant
+> - Parallel federal agency press releases (ATF/FBI): ATF general-program PRs exist but no independent Johnson/Ealy/Bryant-specific narrative
+> - Court records (CourtListener / PACER / midpage / justia): not found in narrative form
+> - Local Savannah press: only a Yahoo News republication exists; no Savannah Morning News article retrievable
+> - Trade press: not applicable (domestic firearms case)
+>
+> Single-press-release routine domestic firearms enforcement action. `source_count: 1` retained per LESSON L19.
 
 ## Canonical Record
 

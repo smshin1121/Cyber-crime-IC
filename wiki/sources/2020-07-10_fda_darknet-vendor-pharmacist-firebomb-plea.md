@@ -16,6 +16,12 @@ key_findings:
   - "FDA-OCI parallel press release confirms federal multi-agency investigation."
 collection_url: https://www.fda.gov/inspections-compliance-enforcement-and-criminal-investigations/doj-press-releases-involving-fda-oci/darknet-vendor-and-pharmacist-plead-guilty-firebomb-attack-plot
 created: 2026-04-25
+raw_path: raw/press-releases/2020-07-10_fda_darknet-vendor-pharmacist-firebomb-plea.md
+text_status: parsed
+content_hash: sha256:473a15faf7740a0da9f6326fa34a6ac3fc34699ccce9517d1eb5ad6554c99221
+word_count: 788
+extraction_date: 2026-04-25
+last_fetcher: jina
 ---
 ## Source Summary
 

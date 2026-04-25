@@ -17,6 +17,12 @@ key_findings:
   - "The release supplies the cross-border operational context and seizure totals referenced in the Sacramento indictment."
 collection_url: https://www.justice.gov/archives/opa/pr/international-law-enforcement-operation-targeting-opioid-traffickers-darknet-results-150
 created: 2026-04-25
+raw_path: raw/press-releases/2021-10-26_justice-gov_opa_international-law-enforcement-operation-targeting-opioid-traffickers-darknet-results-150.md
+text_status: parsed
+content_hash: sha256:cb0d5493ff2c1553db85d8b567705934df07e78f8a1df8a9e530c325fe8b7237
+word_count: 2367
+extraction_date: 2026-04-25
+last_fetcher: doj_fetch
 ---
 ## Source Summary
 

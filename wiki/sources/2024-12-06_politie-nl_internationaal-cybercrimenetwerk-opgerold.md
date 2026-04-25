@@ -21,6 +21,12 @@ key_findings:
   - "The group allegedly targeted victims in at least ten European countries through phishing and bank-helpdesk fraud and stole millions of euros."
 created: 2026-04-18
 updated: 2026-04-18
+raw_path: raw/press-releases/2024-12-06_politie-nl_internationaal-cybercrimenetwerk-opgerold.md
+text_status: parsed
+content_hash: sha256:f6e73e3452316729a2829b16803f529c5e42d755aec029e977d4e3bdd117798d
+word_count: 1065
+extraction_date: 2026-04-25
+last_fetcher: urllib
 ---
 ## Source Summary
 

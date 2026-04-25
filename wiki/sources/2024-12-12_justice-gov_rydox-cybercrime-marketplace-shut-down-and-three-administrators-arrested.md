@@ -17,6 +17,11 @@ key_findings:
   - "This domestic-only U.S. follow-on record has been absorbed into the canonical case page [[rydox-cybercrime-marketplace-shut-down-and-three-administrators-arrested]]. No visible cross-border mechanism is documented, so it is not treated as a separate international-cooperation operation."
 collection_url: https://www.justice.gov/usao-wdpa/pr/rydox-cybercrime-marketplace-shut-down-and-three-administrators-arrested
 created: 2026-04-17
+text_status: parsed
+content_hash: sha256:ce3685be1713d1a26e3594e427145cefc5bee783873cc5cfa9b54f49ff4529d9
+word_count: 1313
+extraction_date: 2026-04-25
+last_fetcher: doj_fetch
 ---
 ## Source Summary
 

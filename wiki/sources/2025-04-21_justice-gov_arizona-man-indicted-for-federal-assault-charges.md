@@ -17,6 +17,11 @@ key_findings:
   - "This domestic-only U.S. follow-on record has been absorbed into the canonical case page [[us-v-emerson-hayes]]. No visible cross-border mechanism is documented, so it is not treated as a separate international-cooperation operation."
 collection_url: https://www.justice.gov/usao-nm/pr/arizona-man-indicted-federal-assault-charges
 created: 2026-04-17
+text_status: parsed
+content_hash: sha256:b02a6d02506f5b84240190d9064e568ed7f1f4b574548e75189c2baf1e26b1f2
+word_count: 572
+extraction_date: 2026-04-25
+last_fetcher: doj_fetch
 ---
 ## Source Summary
 

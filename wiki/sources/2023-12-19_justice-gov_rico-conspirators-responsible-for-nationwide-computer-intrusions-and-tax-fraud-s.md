@@ -17,6 +17,11 @@ key_findings:
   - "This domestic-only U.S. follow-on record has been absorbed into the canonical case page [[rico-conspirators-responsible-for-nationwide-computer-intrusions-and-tax-fraud-sentenced-to-federal-prison]]. No visible cross-border mechanism is documented, so it is not treated as a separate international-cooperation operation."
 collection_url: https://www.justice.gov/usao-mdfl/pr/rico-conspirators-responsible-nationwide-computer-intrusions-and-tax-fraud-sentenced
 created: 2026-04-17
+text_status: parsed
+content_hash: sha256:1890778527f8d76ac2537ea2390d8eb277c4c412edf46e3da66fbecb369a8b09
+word_count: 1285
+extraction_date: 2026-04-25
+last_fetcher: doj_fetch
 ---
 ## Source Summary
 

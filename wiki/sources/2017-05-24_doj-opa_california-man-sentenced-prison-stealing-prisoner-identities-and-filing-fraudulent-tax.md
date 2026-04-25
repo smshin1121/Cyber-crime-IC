@@ -16,6 +16,12 @@ key_findings:
   - "Parallel DOJ Tax Division press release on Webber sentencing"
 collection_url: https://www.justice.gov/archives/opa/pr/california-man-sentenced-prison-stealing-prisoner-identities-and-filing-fraudulent-tax
 created: 2026-04-25
+raw_path: raw/press-releases/2017-05-24_doj-opa_california-man-sentenced-prison-stealing-prisoner-identities-and-filing-fraudulent-tax.md
+text_status: parsed
+content_hash: sha256:be8ed284b9b518e6d5daf578c5ffc882849236e66f1c12c9559a80512adad252
+word_count: 706
+extraction_date: 2026-04-25
+last_fetcher: doj_fetch
 ---
 ## Source Summary
 

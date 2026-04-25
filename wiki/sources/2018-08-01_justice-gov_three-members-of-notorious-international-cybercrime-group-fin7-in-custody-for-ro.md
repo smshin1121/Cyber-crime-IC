@@ -17,6 +17,11 @@ key_findings:
   - "The FBI and U.S. Department of Justice investigated and prosecuted the FIN7 cybercrime group, which since 2015 had used malware and phishing attacks to steal over 15 million credit card numbers from more than 100 U.S. companies in the restaurant, gaming, and hotel sectors. Key members of the group were arrested in 2018, and stolen data had been sold on dark web marketplaces. The investigation involved cooperation with law enforcement in the United Kingdom, Australia, and France."
 collection_url: https://www.justice.gov/usao-wdwa/pr/three-members-notorious-international-cybercrime-group-fin7-custody-role-attacking-over
 created: 2026-04-17
+text_status: parsed
+content_hash: sha256:8db559510726d8da8340dd58ea2b70df72d399052416ffa801a32c1aeb91589d
+word_count: 1618
+extraction_date: 2026-04-25
+last_fetcher: doj_fetch
 ---
 ## Source Summary
 

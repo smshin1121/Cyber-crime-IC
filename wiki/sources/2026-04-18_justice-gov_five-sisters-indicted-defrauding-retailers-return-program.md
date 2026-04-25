@@ -14,10 +14,15 @@ sensitivity: public
 pages_updated:
 
 key_findings:
-  - "Secure .gov websites use HTTPS A lock ( Lock Locked padlock ) or https:// means you’ve safely connected to the .gov website. Share sensitive information only on official, secure websites."
+  - "Secure .gov websites use HTTPS A lock ( Lock Locked padlock ) or https: "// means you’ve safely connected to the .gov website. Share sensitive information only on official, secure websites.\""
 collection_url: https://www.justice.gov/usao-wdwa/pr/five-sisters-indicted-defrauding-retailers-return-program
 created: 2026-04-18
 updated: 2026-04-18
+text_status: parsed
+content_hash: sha256:53d62ba4928af3b432bba964dc766cf15db2835d5e289fc0ed7cd283dad60082
+word_count: 1014
+extraction_date: 2026-04-25
+last_fetcher: doj_fetch
 ---
 ## Source Summary
 

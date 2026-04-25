@@ -17,6 +17,11 @@ key_findings:
   - "This domestic-only U.S. follow-on record has been absorbed into the canonical case page [[jordanian-man-admits-selling-unauthorized-access-to-computer-networks-of-50-companies]]. No visible cross-border mechanism is documented, so it is not treated as a separate international-cooperation operation."
 collection_url: https://www.justice.gov/usao-nj/pr/jordanian-man-admits-selling-unauthorized-access-computer-networks-50-companies
 created: 2026-04-17
+text_status: parsed
+content_hash: sha256:f3bb19f7bbec16aa0e6221cf6a93fb7515d590aaf2bb427adf88cf5e7fb1c2a2
+word_count: 735
+extraction_date: 2026-04-25
+last_fetcher: doj_fetch
 ---
 ## Source Summary
 

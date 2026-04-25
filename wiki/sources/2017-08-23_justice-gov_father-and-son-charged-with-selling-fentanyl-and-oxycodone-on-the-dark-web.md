@@ -17,6 +17,11 @@ key_findings:
   - "This domestic-only U.S. follow-on record has been absorbed into the canonical case page [[us-v-with-selling-fentanyl-and-and-father-and-son]]. No visible cross-border mechanism is documented, so it is not treated as a separate international-cooperation operation."
 collection_url: https://www.justice.gov/usao-sdny/pr/father-and-son-charged-selling-fentanyl-and-oxycodone-dark-web
 created: 2026-04-17
+text_status: parsed
+content_hash: sha256:8cb1591a1ec6e5de6af6d2a7715a49d0a6ef700e10bc7ce2d1d8b843cdb27718
+word_count: 1365
+extraction_date: 2026-04-25
+last_fetcher: doj_fetch
 ---
 ## Source Summary
 

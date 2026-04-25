@@ -17,6 +17,11 @@ key_findings:
   - "This domestic-only U.S. follow-on record has been absorbed into the canonical case page [[man-pleads-guilty-to-conspiracy-to-distribute-meth-on-the-darknet]]. No visible cross-border mechanism is documented, so it is not treated as a separate international-cooperation operation."
 collection_url: https://www.justice.gov/usao-edva/pr/man-pleads-guilty-conspiracy-distribute-meth-darknet
 created: 2026-04-17
+text_status: parsed
+content_hash: sha256:ca0eba93434b9247fdc48ffb5974f56151def4a6224dc0f24c39eb419586b261
+word_count: 155
+extraction_date: 2026-04-25
+last_fetcher: doj_fetch
 ---
 ## Source Summary
 

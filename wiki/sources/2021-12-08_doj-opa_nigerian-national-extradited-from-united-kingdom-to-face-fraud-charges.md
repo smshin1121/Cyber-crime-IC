@@ -17,6 +17,12 @@ key_findings:
   - "Reflects Main DOJ priority on international tax fraud enforcement."
 collection_url: https://www.justice.gov/archives/opa/pr/nigerian-national-extradited-united-kingdom-face-fraud-charges
 created: 2026-04-25
+raw_path: raw/press-releases/2021-12-08_doj-opa_nigerian-national-extradited-from-united-kingdom-to-face-fraud-charges.md
+text_status: parsed
+content_hash: sha256:4cf2b1f27de7f49d9d8202f50731c0b1ec19c5f933e7a86b5be259d6a50f4b39
+word_count: 1241
+extraction_date: 2026-04-25
+last_fetcher: doj_fetch
 ---
 ## Source Summary
 

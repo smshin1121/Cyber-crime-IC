@@ -14,12 +14,17 @@ sensitivity: public
 pages_updated:
 
 key_findings:
-  - "Secure .gov websites use HTTPS A lock ( Lock Locked padlock ) or https:// means you’ve safely connected to the .gov website. Share sensitive information only on official, secure websites."
+  - "Secure .gov websites use HTTPS A lock ( Lock Locked padlock ) or https: "// means you’ve safely connected to the .gov website. Share sensitive information only on official, secure websites.\""
 collection_url: https://www.justice.gov/usao-ndtx/pr/darknet-fentanyl-dealer-indicted-selling-deadly-drug-bitcoin
 created: 2026-04-18
 defendant_names:
   - "Sean Shaughnessy"
 updated: 2026-04-18
+text_status: parsed
+content_hash: sha256:af915312ab351f11c84df3d40a763876beeb6cd2e8d8d6a734d4a089f508c0c5
+word_count: 900
+extraction_date: 2026-04-25
+last_fetcher: doj_fetch
 ---
 ## Source Summary
 

@@ -4,7 +4,7 @@ title: "Internationale cybercrime aangepakt: Politie Amsterdam en FBI ontmantele
 collection_url: https://www.politie.nl/nieuws/2025/mei/9/internationale-cybercrime-aangepakt-politie-amsterdam-en-fbi-ontmantelen-proxydienst-anyproxy.html
 collection_domain: politie.nl
 source_type: official-press-release
-publisher: "Politie"
+publisher: Politie
 author: ""
 publish_date: 2025-05-09
 ingest_date: 2026-04-18
@@ -21,6 +21,12 @@ key_findings:
   - "The service was described as having been used since 2004 by cybercriminals for phishing, ransomware attacks, and data theft."
   - "The case provides a concrete recent example of Dutch-US cybercrime cooperation."
 created: 2026-04-18
+raw_path: raw/press-releases/2025-05-09_politie-nl_internationale-cybercrime-aangepakt-politie-amsterdam-en-fbi-ontmantelen-proxydi.md
+text_status: parsed
+content_hash: sha256:ca03d06463b26c222e6627a4f06f191e68fc232cb0dfd1190764bcaf44e5dd01
+word_count: 778
+extraction_date: 2026-04-25
+last_fetcher: urllib
 ---
 ## Source Summary
 

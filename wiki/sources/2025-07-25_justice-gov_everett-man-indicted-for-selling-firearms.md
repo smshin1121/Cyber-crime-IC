@@ -17,6 +17,11 @@ key_findings:
   - "This domestic-only U.S. follow-on record has been absorbed into the canonical case page [[us-v-victor-da-silva-soares]]. No visible cross-border mechanism is documented, so it is not treated as a separate international-cooperation operation."
 collection_url: https://www.justice.gov/usao-ma/pr/everett-man-indicted-selling-firearms
 created: 2026-04-17
+text_status: parsed
+content_hash: sha256:16a41a28db855c2e516cb4e57777102a9b51a13868a4c0e710d3998ef7ede4b7
+word_count: 186
+extraction_date: 2026-04-25
+last_fetcher: doj_fetch
 ---
 ## Source Summary
 

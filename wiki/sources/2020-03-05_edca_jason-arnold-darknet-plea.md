@@ -14,13 +14,18 @@ sensitivity: public
 pages_updated:
 
 key_findings:
-  - "Secure .gov websites use HTTPS A lock ( Lock Locked padlock ) or https:// means you’ve safely connected to the .gov website. Share sensitive information only on official, secure websites."
+  - "Secure .gov websites use HTTPS A lock ( Lock Locked padlock ) or https: "// means you’ve safely connected to the .gov website. Share sensitive information only on official, secure websites.\""
 collection_url: https://www.justice.gov/usao-edca/pr/tattoo-shop-owner-pleads-guilty-distributing-heroin-and-methamphetamine-darknet
 created: 2026-04-17
 defendant_names:
   - "Jason Keith Arnold"
   - "David White"
 updated: 2026-04-18
+text_status: parsed
+content_hash: sha256:9248a15d5265dc77812b21620fd9aaee32968bfce1197908892b02e5b51be34f
+word_count: 148
+extraction_date: 2026-04-25
+last_fetcher: doj_fetch
 ---
 ## Source Summary
 

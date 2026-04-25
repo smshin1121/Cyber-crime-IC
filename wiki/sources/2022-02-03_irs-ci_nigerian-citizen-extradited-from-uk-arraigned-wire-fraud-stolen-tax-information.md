@@ -17,6 +17,12 @@ key_findings:
   - "Levinson arrested attempting to enter the UK on December 2, 2020, extradited to U.S. February 2022."
 collection_url: https://www.irs.gov/compliance/criminal-investigation/nigerian-citizen-extradited-from-the-uk-arraigned-on-indictment-for-wire-fraud-involving-stolen-tax-information
 created: 2026-04-25
+raw_path: raw/press-releases/2022-02-03_irs-ci_nigerian-citizen-extradited-from-uk-arraigned-wire-fraud-stolen-tax-information.md
+text_status: parsed
+content_hash: sha256:85752177d6d4bd04eb27dc1ad203bbd32268c9bcc736a44fda47ce987b25a320
+word_count: 422
+extraction_date: 2026-04-25
+last_fetcher: urllib
 ---
 ## Source Summary
 

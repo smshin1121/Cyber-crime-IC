@@ -17,6 +17,11 @@ key_findings:
   - "This domestic-only U.S. follow-on record has been absorbed into the canonical case page [[us-v-james-verl-barlow-matthew-taylor-barlow-and-jennifer-helen-cambpell]]. No visible cross-border mechanism is documented, so it is not treated as a separate international-cooperation operation."
 collection_url: https://www.justice.gov/usao-sdoh/pr/3-defendants-plead-guilty-dark-web-drug-sales-case
 created: 2026-04-17
+text_status: parsed
+content_hash: sha256:e6164fd98c1a3818d76600d2cdaa6e1b6969c9532faf459be74b3fddab16e42b
+word_count: 807
+extraction_date: 2026-04-25
+last_fetcher: doj_fetch
 ---
 ## Source Summary
 

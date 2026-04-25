@@ -14,10 +14,15 @@ sensitivity: public
 pages_updated:
 
 key_findings:
-  - "Secure .gov websites use HTTPS A lock ( Lock Locked padlock ) or https:// means you’ve safely connected to the .gov website. Share sensitive information only on official, secure websites."
+  - "Secure .gov websites use HTTPS A lock ( Lock Locked padlock ) or https: "// means you’ve safely connected to the .gov website. Share sensitive information only on official, secure websites.\""
 collection_url: https://www.justice.gov/usao-sdny/pr/incognito-market-owner-pleads-guilty-operating-one-largest-illegal-narcotics
 created: 2026-04-18
 updated: 2026-04-18
+text_status: parsed
+content_hash: sha256:f4360146a74ea75e8111e1c7f0398197dcf6c8f9eab37cfb0fadfa52539c62da
+word_count: 1389
+extraction_date: 2026-04-25
+last_fetcher: doj_fetch
 ---
 ## Source Summary
 

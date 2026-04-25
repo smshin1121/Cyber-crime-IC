@@ -17,6 +17,12 @@ key_findings:
   - "Confirms identity of original July 2018 'Tennessee Man' indictment"
 collection_url: https://www.justice.gov/usao-dc/pr/tennessee-man-pleads-guilty-cyberstalking
 created: 2026-04-25
+raw_path: raw/press-releases/2019-06-17_justice-gov_tennessee-man-pleads-guilty-to-cyberstalking.md
+text_status: parsed
+content_hash: sha256:219b7a230acd51c7755f91d2af0a393f6c35c54fd66f629ff58805e6a1342b33
+word_count: 926
+extraction_date: 2026-04-25
+last_fetcher: doj_fetch
 ---
 ## Source Summary
 

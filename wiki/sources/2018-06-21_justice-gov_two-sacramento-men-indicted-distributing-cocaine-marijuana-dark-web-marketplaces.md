@@ -17,6 +17,12 @@ key_findings:
   - "Identifies co-defendant Frederick and the joint vendor operation."
 collection_url: https://www.justice.gov/usao-edca/pr/two-sacramento-men-indicted-distributing-cocaine-and-marijuana-dark-web-marketplaces
 created: 2026-04-25
+raw_path: raw/press-releases/2018-06-21_justice-gov_two-sacramento-men-indicted-distributing-cocaine-marijuana-dark-web-marketplaces.md
+text_status: parsed
+content_hash: sha256:71f1b3cca484733bfb049cf3691619fadaa34dca2d835b7d40b0411863012365
+word_count: 148
+extraction_date: 2026-04-25
+last_fetcher: doj_fetch
 ---
 ## Source Summary
 

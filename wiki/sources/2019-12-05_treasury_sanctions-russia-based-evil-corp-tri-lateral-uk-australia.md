@@ -16,10 +16,16 @@ pages_updated:
   - operation-russian-national-charged-with-decade-long-series-of-hacking-and-bank-fraud-offenses-resulting-in-tens-of-milli
   - operation-russian-national-charged-with-decade-long-series-of-hacking-and-bank-fraud-offenses-resulting-in-tens-of-milli-2
 key_findings:
-  - "Tri-lateral sanctions action: U.S. Treasury OFAC + UK + Australia against Evil Corp."
+  - "Tri-lateral sanctions action: "U.S. Treasury OFAC + UK + Australia against Evil Corp.\""
   - "Evil Corp operated Dridex/Bugat malware causing $100M+ losses in 40+ countries."
 collection_url: https://home.treasury.gov/news/press-releases/jy2623
 created: 2026-04-25
+raw_path: raw/press-releases/2019-12-05_treasury_sanctions-russia-based-evil-corp-tri-lateral-uk-australia.md
+text_status: parsed
+content_hash: sha256:6bfb90777c8983845856643221b7be4aa54de6a13eaa3de12018f936bc5b624f
+word_count: 244
+extraction_date: 2026-04-25
+last_fetcher: urllib
 ---
 ## Source Summary
 

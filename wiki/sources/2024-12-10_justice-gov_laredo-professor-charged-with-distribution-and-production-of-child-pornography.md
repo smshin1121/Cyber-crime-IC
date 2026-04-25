@@ -17,6 +17,11 @@ key_findings:
   - "This domestic-only U.S. follow-on record has been absorbed into the canonical case page [[laredo-professor-charged-with-distribution-and-production-of-child-pornography]]. No visible cross-border mechanism is documented, so it is not treated as a separate international-cooperation operation."
 collection_url: https://www.justice.gov/usao-sdtx/pr/laredo-professor-charged-distribution-and-production-child-pornography
 created: 2026-04-17
+text_status: parsed
+content_hash: sha256:2c0b3dd0a4f505c1a16d0cd17679973668d2c48a745dddedf6455652aed16d7d
+word_count: 160
+extraction_date: 2026-04-25
+last_fetcher: doj_fetch
 ---
 ## Source Summary
 

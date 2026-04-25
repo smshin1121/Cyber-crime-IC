@@ -17,6 +17,11 @@ key_findings:
   - "This domestic-only U.S. follow-on record has been absorbed into the canonical case page [[international-crypto-vendor-sentenced-for-money-laundering-conspiracy]]. No visible cross-border mechanism is documented, so it is not treated as a separate international-cooperation operation."
 collection_url: https://www.justice.gov/usao-edky/pr/international-crypto-vendor-sentenced-money-laundering-conspiracy
 created: 2026-04-17
+text_status: parsed
+content_hash: sha256:8185353dc38d976e63f206c8524fa3ed14d3ee369cfbedf9abd6fa85780c3030
+word_count: 1066
+extraction_date: 2026-04-25
+last_fetcher: doj_fetch
 ---
 ## Source Summary
 

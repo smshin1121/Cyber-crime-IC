@@ -12,11 +12,16 @@ reliability: medium
 credibility: confirmed
 sensitivity: public
 pages_updated:
-  []
+
 key_findings:
   - "Zambia is a **non-party** to the [[budapest-convention|Budapest Convention]]. Its primary cybercrime legislation is the **Cyber Security and Cyber Crimes Act No. 2 of 2021** [1], enacted during a politically contentious period. The Act has been criticized by civil society for provisions deemed to restrict online speech, though it does include standard cybercrime offences."
 collection_url: https://www.parliament.gov.zm/node/8756
 created: 2026-04-17
+text_status: parsed
+content_hash: sha256:50a8e51cbb9a58f281a2b2f0e8fc26aa4ea648938be4466fc7185920fe69e9cf
+word_count: 294
+extraction_date: 2026-04-25
+last_fetcher: urllib
 ---
 ## Source Summary
 

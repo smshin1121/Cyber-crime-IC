@@ -17,6 +17,11 @@ key_findings:
   - "This domestic-only U.S. follow-on record has been absorbed into the canonical case page [[brazilian-extradited-from-switzerland-to-the-united-states-to-face-indictment-charging-involvement-in-290m-cry]]. No visible cross-border mechanism is documented, so it is not treated as a separate international-cooperation operation."
 collection_url: https://www.justice.gov/usao-wdwa/pr/brazilian-extradited-switzerland-united-states-face-indictment-charging-involvement
 created: 2026-04-17
+text_status: parsed
+content_hash: sha256:9615e661250c9647521dd734f5074e293c3f9cff072898d91f21cf3ab0bed57e
+word_count: 1353
+extraction_date: 2026-04-25
+last_fetcher: doj_fetch
 ---
 ## Source Summary
 

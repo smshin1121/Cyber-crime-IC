@@ -17,6 +17,11 @@ key_findings:
   - "This domestic-only U.S. follow-on record has been absorbed into the canonical case page [[leader-of-international-malvertising-and-ransomware-schemes-extradited-from-poland-to-face-cybercrime-charges]]. No visible cross-border mechanism is documented, so it is not treated as a separate international-cooperation operation."
 collection_url: https://www.justice.gov/usao-nj/pr/leader-international-malvertising-and-ransomware-schemes-extradited-poland-face
 created: 2026-04-17
+text_status: parsed
+content_hash: sha256:b2eda273f8e6b6f6a36e145611803d026bbb8d173cc62427d0f238e30f6121bd
+word_count: 1888
+extraction_date: 2026-04-25
+last_fetcher: doj_fetch
 ---
 ## Source Summary
 

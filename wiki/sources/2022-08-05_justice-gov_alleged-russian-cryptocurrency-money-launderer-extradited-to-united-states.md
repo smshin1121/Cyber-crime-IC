@@ -17,6 +17,11 @@ key_findings:
   - "This domestic-only U.S. follow-on record has been absorbed into the canonical case page [[alleged-russian-cryptocurrency-money-launderer-extradited-to-united-states]]. No visible cross-border mechanism is documented, so it is not treated as a separate international-cooperation operation."
 collection_url: https://www.justice.gov/usao-ndca/pr/alleged-russian-cryptocurrency-money-launderer-extradited-united-states
 created: 2026-04-17
+text_status: parsed
+content_hash: sha256:f656ea7371b412c684995431e5323d0241b93e4bf4797fe87296edae42b76088
+word_count: 1122
+extraction_date: 2026-04-25
+last_fetcher: doj_fetch
 ---
 ## Source Summary
 

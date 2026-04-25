@@ -17,6 +17,11 @@ key_findings:
   - "This domestic-only U.S. follow-on record has been absorbed into the canonical case page [[member-of-darknet-drug-trafficking-organization-italianmafiabrussels-sentenced-to-prison]]. No visible cross-border mechanism is documented, so it is not treated as a separate international-cooperation operation."
 collection_url: https://www.justice.gov/usao-co/pr/member-darknet-drug-trafficking-organization-italianmafiabrussels-sentenced-prison
 created: 2026-04-17
+text_status: parsed
+content_hash: sha256:3e884ef90d1f2584d8191029455fb915b5721eb77994b787d5051e997293d055
+word_count: 122
+extraction_date: 2026-04-25
+last_fetcher: doj_fetch
 ---
 ## Source Summary
 

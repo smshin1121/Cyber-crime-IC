@@ -17,6 +17,12 @@ key_findings:
   - "Sandoval-Perez subject to deportation upon completion of sentence."
 collection_url: https://www.dea.gov/press-releases/2025/02/23/guatemalan-national-and-malden-man-arrested-for-distributing-cocaine
 created: 2026-04-25
+raw_path: raw/press-releases/2025-02-23_dea-gov_guatemalan-national-and-malden-man-arrested-for-distributing-cocaine.md
+text_status: parsed
+content_hash: sha256:50684cc60240700676f92ce6da9764c5201a6b205a84633a36942cf1092470e0
+word_count: 5186
+extraction_date: 2026-04-25
+last_fetcher: jina
 ---
 ## Source Summary
 

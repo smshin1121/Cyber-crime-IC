@@ -14,10 +14,15 @@ sensitivity: public
 pages_updated:
 
 key_findings:
-  - "Secure .gov websites use HTTPS A lock ( Lock Locked padlock ) or https:// means you’ve safely connected to the .gov website. Share sensitive information only on official, secure websites."
+  - "Secure .gov websites use HTTPS A lock ( Lock Locked padlock ) or https: "// means you’ve safely connected to the .gov website. Share sensitive information only on official, secure websites.\""
 collection_url: https://www.justice.gov/usao-ndia/pr/crystal-lake-man-federal-prison-meth-conspiracy
 created: 2026-04-18
 updated: 2026-04-18
+text_status: parsed
+content_hash: sha256:74689e8807bf0128e83dec797ba1f6995c42ddde361d5feb50064497b4cd2290
+word_count: 640
+extraction_date: 2026-04-25
+last_fetcher: doj_fetch
 ---
 ## Source Summary
 

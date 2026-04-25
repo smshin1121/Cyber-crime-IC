@@ -17,6 +17,11 @@ key_findings:
   - "This domestic-only U.S. follow-on record has been absorbed into the canonical case page [[new-jersey-man-sentenced-to-prison-after-pleading-guilty-to-posting-restricted-information-to-social-media]]. No visible cross-border mechanism is documented, so it is not treated as a separate international-cooperation operation."
 collection_url: https://www.justice.gov/usao-wdpa/pr/new-jersey-man-sentenced-prison-after-pleading-guilty-posting-restricted-information
 created: 2026-04-17
+text_status: parsed
+content_hash: sha256:d499d9c6b6319435af0f856efdc675c4700890b2c31e2853bb1f0fd94014b7b5
+word_count: 574
+extraction_date: 2026-04-25
+last_fetcher: doj_fetch
 ---
 ## Source Summary
 

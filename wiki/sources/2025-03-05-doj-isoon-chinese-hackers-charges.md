@@ -15,10 +15,15 @@ pages_updated:
   - isoon-apt27-indictment
   - fbi-cyber-division
 key_findings:
-  - "Secure .gov websites use HTTPS A lock ( Lock Locked padlock ) or https:// means you’ve safely connected to the .gov website. Share sensitive information only on official, secure websites."
+  - "Secure .gov websites use HTTPS A lock ( Lock Locked padlock ) or https: "// means you’ve safely connected to the .gov website. Share sensitive information only on official, secure websites.\""
 collection_url: https://www.justice.gov/opa/pr/justice-department-charges-12-chinese-contract-hackers-and-law-enforcement-officers-global
 created: 2026-04-08
 updated: 2026-04-18
+text_status: parsed
+content_hash: sha256:17ac8af9a56c88fdfbe88f4c93cb80c865e7fb8f152c6178ff004b9faad628ff
+word_count: 2516
+extraction_date: 2026-04-25
+last_fetcher: doj_fetch
 ---
 ## Source Summary
 

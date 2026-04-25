@@ -17,6 +17,11 @@ key_findings:
   - "This domestic-only U.S. follow-on record has been absorbed into the canonical case page [[pineville-man-sentenced-to-five-years-in-prison-for-accessing-child-pornography-online]]. No visible cross-border mechanism is documented, so it is not treated as a separate international-cooperation operation."
 collection_url: https://www.justice.gov/usao-wdla/pr/pineville-man-sentenced-five-years-prison-accessing-child-pornography-online
 created: 2026-04-17
+text_status: parsed
+content_hash: sha256:d0904320d50fb913e7a16f704c794e26b270c7c6991c603dfd23ca94eca0c919
+word_count: 648
+extraction_date: 2026-04-25
+last_fetcher: doj_fetch
 ---
 ## Source Summary
 

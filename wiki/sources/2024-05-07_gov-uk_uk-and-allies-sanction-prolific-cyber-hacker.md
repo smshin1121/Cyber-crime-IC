@@ -23,6 +23,12 @@ key_findings:
   - "The press release says the NCA had infiltrated LockBit's network in February 2024 and that the group was running at limited capacity after the disruption."
   - "The source shows the UK's cybercrime response combining law-enforcement disruption, sanctions, and allied coordination."
 created: 2026-04-18
+raw_path: raw/press-releases/2024-05-07_gov-uk_uk-and-allies-sanction-prolific-cyber-hacker.md
+text_status: parsed
+content_hash: sha256:642aaa0e770e417a2e2e6d72831a540b8cb2297c04fdf4545c832b9cd6f22ea5
+word_count: 1253
+extraction_date: 2026-04-25
+last_fetcher: urllib
 ---
 ## Source Summary
 

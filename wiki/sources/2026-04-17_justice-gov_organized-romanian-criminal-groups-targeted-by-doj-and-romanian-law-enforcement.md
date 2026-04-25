@@ -14,10 +14,15 @@ sensitivity: public
 pages_updated:
 
 key_findings:
-  - "Secure .gov websites use HTTPS A lock ( Lock Locked padlock ) or https:// means you’ve safely connected to the .gov website. Share sensitive information only on official, secure websites."
+  - "Secure .gov websites use HTTPS A lock ( Lock Locked padlock ) or https: "// means you’ve safely connected to the .gov website. Share sensitive information only on official, secure websites.\""
 collection_url: https://www.justice.gov/archives/opa/pr/organized-romanian-criminal-groups-targeted-doj-and-romanian-law-enforcement
 created: 2026-04-17
 updated: 2026-04-18
+text_status: parsed
+content_hash: sha256:02a95d0169af38536062adad7a59f1e374612dd15b78579ac2269b9d02747ac0
+word_count: 1719
+extraction_date: 2026-04-25
+last_fetcher: doj_fetch
 ---
 ## Source Summary
 

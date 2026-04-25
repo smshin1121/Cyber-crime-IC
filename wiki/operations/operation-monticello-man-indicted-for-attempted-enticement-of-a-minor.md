@@ -64,11 +64,21 @@ sources:
   - "[[2026-04-18_justice-gov_monticello-man-indicted-attempted-enticement-minor]]"
 summary: "This domestic-only U.S. follow-on record has been absorbed into the canonical case page [[monticello-man-indicted-for-attempted-enticement-of-a-minor]]. No visible cross-border mechanism is documented, so it is not treated as a separate international-cooperation operation."
 created: 2026-04-18
-updated: 2026-04-22
+updated: 2026-04-25
 ---
 ## Summary
 
 This domestic-only U.S. follow-on record has been absorbed into the canonical case page [[monticello-man-indicted-for-attempted-enticement-of-a-minor]]. No visible cross-border mechanism is documented, so it is not treated as a separate international-cooperation operation.
+
+> [!info] Source enrichment — single-source justification (2026-04-25)
+> Searched for additional credible sources covering this defendant/case (Vertis McNeil Robinson, 47, of Monticello, FL — indicted in N.D. Fla. 2025-08-27 for attempted enticement of a minor):
+> - DOJ follow-up press releases (sentencing/conviction): not found
+> - Parallel federal agency press releases (HSI/ICE/DHS): one ICE/DHS release exists but is archived behind 403 bot wall and not directly fetchable; not enough confirmed extras to reach Path A threshold
+> - Court records (CourtListener / PACER / midpage): scheduled trial 2025-10-20 before Judge Hinkle, but no narrative court-records coverage
+> - Local press coverage in Tallahassee/Monticello: only Sunshine Sentinel pickup found
+> - Specialized trade press: not applicable
+>
+> This appears to be a single-press-release domestic action with limited independent secondary coverage. `source_count: 1` is retained per LESSON L19 (do not assert sources that do not exist).
 
 ## Canonical Record
 

@@ -17,6 +17,12 @@ key_findings:
   - "Documents parallel federal agency credit beyond the USAO."
 collection_url: https://www.dea.gov/press-releases/2019/04/05/fentanyl-and-heroin-darknet-vendors-indicted
 created: 2026-04-25
+raw_path: raw/press-releases/2019-04-05_dea-gov_fentanyl-heroin-darknet-vendors-indicted.md
+text_status: parsed
+content_hash: sha256:e383b4f46e19f45831b3b863f7e5b08e7b9168ebbb20e292ab3b1e502bf89886
+word_count: 6375
+extraction_date: 2026-04-25
+last_fetcher: jina
 ---
 ## Source Summary
 

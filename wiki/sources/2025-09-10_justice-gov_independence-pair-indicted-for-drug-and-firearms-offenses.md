@@ -17,6 +17,11 @@ key_findings:
   - "This domestic-only U.S. follow-on record has been absorbed into the canonical case page [[independence-pair-indicted-for-drug-and-firearms-offenses]]. No visible cross-border mechanism is documented, so it is not treated as a separate international-cooperation operation."
 collection_url: https://www.justice.gov/usao-wdmo/pr/independence-pair-indicted-drug-and-firearms-offenses
 created: 2026-04-17
+text_status: parsed
+content_hash: sha256:c4c24af782e6c3c9a36cef959ea0bf08fa25ef714f63984b28d89223b06f303d
+word_count: 696
+extraction_date: 2026-04-25
+last_fetcher: doj_fetch
 ---
 ## Source Summary
 

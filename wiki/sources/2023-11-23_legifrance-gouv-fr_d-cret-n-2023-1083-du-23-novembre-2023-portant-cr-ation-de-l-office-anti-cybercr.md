@@ -12,11 +12,16 @@ reliability: medium
 credibility: confirmed
 sensitivity: public
 pages_updated:
-  []
+
 key_findings:
   - "The **Office anti-cybercriminalité (OFAC)** is the French **Police Nationale**'s national cybercrime office, created by decree on **23 November 2023** and attached to the Direction Nationale de la Police Judiciaire [1][2]. OFAC replaced the former **Sous-Direction de Lutte Contre la Cybercriminalité (SDLC)** and the **Office Central de Lutte Contre la Criminalité liée aux Technologies de l'Information et de la Communication (OCLCTIC)** [2][3]."
 collection_url: https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000048458223
 created: 2026-04-17
+text_status: parsed
+content_hash: sha256:821e853cf6bbc29177db685373eab5b74ff546e21b510989793e2dd9e5ca4b91
+word_count: 3078
+extraction_date: 2026-04-25
+last_fetcher: wayback+urllib
 ---
 ## Source Summary
 

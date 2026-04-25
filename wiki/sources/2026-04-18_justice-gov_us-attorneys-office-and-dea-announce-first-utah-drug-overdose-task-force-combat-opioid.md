@@ -14,10 +14,15 @@ sensitivity: public
 pages_updated:
 
 key_findings:
-  - "Secure .gov websites use HTTPS A lock ( Lock Locked padlock ) or https:// means you’ve safely connected to the .gov website. Share sensitive information only on official, secure websites."
+  - "Secure .gov websites use HTTPS A lock ( Lock Locked padlock ) or https: "// means you’ve safely connected to the .gov website. Share sensitive information only on official, secure websites.\""
 collection_url: https://www.justice.gov/usao-ut/pr/us-attorneys-office-and-dea-announce-first-utah-drug-overdose-task-force-combat-opioid
 created: 2026-04-18
 updated: 2026-04-18
+text_status: parsed
+content_hash: sha256:72ce9aa3f00234b12c44d05a87f449b1b251cb52106c211664cb91d15e4cfd41
+word_count: 168
+extraction_date: 2026-04-25
+last_fetcher: doj_fetch
 ---
 ## Source Summary
 

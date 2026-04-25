@@ -17,6 +17,12 @@ key_findings:
   - "Confirms NCIDE Task Force lead."
 collection_url: https://www.justice.gov/usao-edca/pr/dark-web-traffickers-heroin-methamphetamine-and-cocaine-prosecuted
 created: 2026-04-25
+raw_path: raw/press-releases/2023-06-06_justice-gov_dark-web-traffickers-heroin-methamphetamine-cocaine-prosecuted.md
+text_status: parsed
+content_hash: sha256:026f9d5cf836a48a9fa4fb6550d7422790b1bead219313b163c2d6021f065983
+word_count: 144
+extraction_date: 2026-04-25
+last_fetcher: doj_fetch
 ---
 ## Source Summary
 

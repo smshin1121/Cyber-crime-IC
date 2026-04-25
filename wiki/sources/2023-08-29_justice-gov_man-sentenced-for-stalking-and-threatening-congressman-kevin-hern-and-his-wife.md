@@ -17,6 +17,11 @@ key_findings:
   - "This domestic-only U.S. follow-on record has been absorbed into the canonical case page [[man-sentenced-for-stalking-and-threatening-congressman-kevin-hern-and-his-wife]]. No visible cross-border mechanism is documented, so it is not treated as a separate international-cooperation operation."
 collection_url: https://www.justice.gov/usao-ndok/pr/man-sentenced-stalking-and-threatening-congressman-kevin-hern-and-his-wife
 created: 2026-04-17
+text_status: parsed
+content_hash: sha256:ab9d9ce04eba4c69f1974de07b746e0869784903e37c47a655cace46de1d2201
+word_count: 876
+extraction_date: 2026-04-25
+last_fetcher: doj_fetch
 ---
 ## Source Summary
 

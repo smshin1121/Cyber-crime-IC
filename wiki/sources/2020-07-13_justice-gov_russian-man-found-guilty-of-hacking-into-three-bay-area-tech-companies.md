@@ -17,6 +17,11 @@ key_findings:
   - "This domestic-only U.S. follow-on record has been absorbed into the canonical case page [[russian-man-found-guilty-of-hacking-into-three-bay-area-tech-companies]]. No visible cross-border mechanism is documented, so it is not treated as a separate international-cooperation operation."
 collection_url: https://www.justice.gov/usao-ndca/pr/russian-man-found-guilty-hacking-three-bay-area-tech-companies
 created: 2026-04-17
+text_status: parsed
+content_hash: sha256:d85ab9fa203c469f9c774caade2140b29c1ae8f4f3b61f0c28a431261a5dd8e3
+word_count: 1138
+extraction_date: 2026-04-25
+last_fetcher: doj_fetch
 ---
 ## Source Summary
 

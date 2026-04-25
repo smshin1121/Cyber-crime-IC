@@ -17,6 +17,11 @@ key_findings:
   - "This domestic-only U.S. follow-on record has been absorbed into the canonical case page [[us-v-de-los-santos]]. No visible cross-border mechanism is documented, so it is not treated as a separate international-cooperation operation."
 collection_url: https://www.justice.gov/usao-ri/pr/dominican-national-indicted-illegal-re-entry
 created: 2026-04-17
+text_status: parsed
+content_hash: sha256:4f377a1bc43791bf033f3f304df147ade8d50332c89cca4226ca7b2982daa88a
+word_count: 636
+extraction_date: 2026-04-25
+last_fetcher: doj_fetch
 ---
 ## Source Summary
 

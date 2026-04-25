@@ -17,6 +17,11 @@ key_findings:
   - "This domestic-only U.S. follow-on record has been absorbed into the canonical case page [[three-bay-area-defendants-charged-in-false-tax-refund-schemes]]. No visible cross-border mechanism is documented, so it is not treated as a separate international-cooperation operation."
 collection_url: https://www.justice.gov/usao-ndca/pr/three-bay-area-defendants-charged-false-tax-refund-schemes
 created: 2026-04-17
+text_status: parsed
+content_hash: sha256:6c40504b040c617c1caee3b0ee5ee7657cda1c68469ea704c867a33f72987d1a
+word_count: 993
+extraction_date: 2026-04-25
+last_fetcher: doj_fetch
 ---
 ## Source Summary
 

@@ -17,6 +17,11 @@ key_findings:
   - "This domestic-only U.S. follow-on record has been absorbed into the canonical case page [[woodbridge-man-convicted-again-for-possessing-child-sexual-abuse-material]]. No visible cross-border mechanism is documented, so it is not treated as a separate international-cooperation operation."
 collection_url: https://www.justice.gov/usao-edva/pr/woodbridge-man-convicted-again-possessing-child-sexual-abuse-material
 created: 2026-04-17
+text_status: parsed
+content_hash: sha256:e7d0c011f6622ab41940ef7dcef4c24a1d52462151e542f3e81ca46ff07923f1
+word_count: 154
+extraction_date: 2026-04-25
+last_fetcher: doj_fetch
 ---
 ## Source Summary
 

@@ -1,9 +1,9 @@
 ---
 type: source
 title: "A Primer on DarkNet Marketplaces"
-raw_path: ""
+raw_path: raw/press-releases/2016-11-01_fbi-gov_a-primer-on-darknet-marketplaces.md
 source_type: official-article
-publisher: "FBI"
+publisher: FBI
 author: ""
 publish_date: 2016-11-01
 ingest_date: 2026-04-23
@@ -18,6 +18,11 @@ key_findings:
   - "The article linked the initiative to the Five Eyes Law Enforcement Group's cybercrime efforts."
 collection_url: https://www.fbi.gov/news/stories/a-primer-on-darknet-marketplaces
 created: 2026-04-23
+text_status: parsed
+content_hash: sha256:1450783417e13b0e1e1c9b66a8a27aae03087f0c7a5479c7cfd07ba23a944a56
+word_count: 1096
+extraction_date: 2026-04-25
+last_fetcher: urllib
 ---
 ## Source Summary
 

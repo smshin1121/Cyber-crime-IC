@@ -8,6 +8,15 @@ publish_date: 2025-03-05
 language: en
 status: collected
 updated: 2026-04-18
+final_url: https://www.justice.gov/opa/pr/justice-department-charges-12-chinese-contract-hackers-and-law-enforcement-officers-global
+text_status: parsed
+fetcher: doj_fetch
+http_status: 200
+content_type: text/html
+content_hash: sha256:17ac8af9a56c88fdfbe88f4c93cb80c865e7fb8f152c6178ff004b9faad628ff
+word_count: 2516
+extraction_date: 2026-04-25
+source_page: wiki/sources/2025-03-05-doj-isoon-chinese-hackers-charges.md
 ---
 ## Summary
 
@@ -24,3 +33,306 @@ On 5 March 2025, the US Department of Justice announced coordinated efforts to d
 - **Rewards for Justice offer:** Up to USD 10 million
 - **Crime types:** State-sponsored cyber espionage, contract hacking, computer intrusion campaigns
 - **Enforcement actions:** Indictments, coordinated multi-agency disruption, Rewards for Justice designation, Treasury sanctions
+
+## Extracted Text
+
+Office of Public Affairs | Justice Department Charges 12 Chinese Contract Hackers and Law Enforcement Officers in Global Computer Intrusion Campaigns | United States Department of Justice
+
+Here's how you know
+
+A .gov website belongs to an official government organization in the United States.
+
+A lock (
+
+) or https:// means you’ve safely connected to the .gov website. Share sensitive information only on official, secure websites.
+
+DOJ Menu
+
+U.S. Department
+
+of Justice
+
+About
+
+The Attorney General
+
+Organizational Chart
+
+Budget & Performance
+
+History
+
+Privacy Program
+
+Our Work
+
+News
+
+Press Releases
+
+Speeches
+
+Videos
+
+Photo Galleries
+
+Blogs
+
+Podcasts
+
+Resources
+
+Guidance Documents
+
+Forms
+
+Publications
+
+Information for Victims in Large Cases
+
+Justice Manual
+
+Business and Contracts
+
+Grants
+
+Employment
+
+Why Justice ?
+
+Benefits
+
+DOJ Vacancies
+
+Legal Careers at DOJ
+
+Our Offices
+
+Find Help
+
+Contact Us
+
+Utilities
+
+Search
+
+Menu
+
+Close
+
+Documents
+
+Internships
+
+FOIA
+
+Contact
+
+Information for Journalists
+
+Main Menu
+
+U.S. Department of Justice
+
+title="About"
+
+title="News"
+
+title="Guidance & Resources"
+
+Justice.gov
+
+Office of Public Affairs
+
+Justice Department Charges 12 Chinese Contract Hackers and Law Enforcement Officers In Global Computer Intrusion Campaigns
+
+All News
+
+Archived Press Releases
+
+Archived News
+
+Press Release
+
+Wednesday, March 5, 2025
+
+Share
+
+Facebook
+
+X
+
+LinkedIn
+
+Email
+
+For Immediate Release
+
+Chinese Law Enforcement and Intelligence Services Leveraged China’s Reckless and Indiscriminate Hacker-for-Hire Ecosystem, Including the ‘APT 27’ Group, to Suppress Free Speech and Dissent Globally and to Steal Data from Numerous Organizations Worldwide,
+
+Note : View the indictments in U.S. v. Wu Haibo et al ., U.S. v. Yin Kecheng , U.S. v. Zhou Shuai et al. here.
+
+The Justice Department, FBI, Naval Criminal Investigative Service, and Departments of State and the Treasury announced today their coordinated efforts to disrupt and deter the malicious cyber activities of 12 Chinese nationals, including two officers of the People’s Republic of China’s (PRC) Ministry of Public Security (MPS), employees of an ostensibly private PRC company, Anxun Information Technology Co. Ltd. (安洵信息技术有限公司) also known as “i-Soon,” and members of Advanced Persistent Threat 27 (APT27).
+
+These malicious cyber actors, acting as freelancers or as employees of i-Soon, conducted computer intrusions at the direction of the PRC’s MPS and Ministry of State Security (MSS) and on their own initiative. The MPS and MSS paid handsomely for stolen data. Victims include U.S.-based critics and dissidents of the PRC, a large religious organization in the United States, the foreign ministries of multiple governments in Asia, and U.S. federal and state government agencies, including the U.S. Department of the Treasury (Treasury) in late 2024.
+
+“The Department of Justice will relentlessly pursue those who threaten our cybersecurity by stealing from our government and our people,” said Sue J. Bai, head of the Justice Department’s National Security Division. “Today, we are exposing the Chinese government agents directing and fostering indiscriminate and reckless attacks against computers and networks worldwide, as well as the enabling companies and individual hackers that they have unleashed. We will continue to fight to dismantle this ecosystem of cyber mercenaries and protect our national security.”
+
+“The FBI is committed to protecting Americans from foreign cyber-attacks,” said Assistant Director Bryan Vorndran of the FBI’s Cyber Division. “Today’s announcements reveal that the Chinese Ministry of Public Security has been paying hackers-for-hire to inflict digital harm on Americans who criticize the Chinese Communist Party (CCP). To those victims who bravely came forward with evidence of intrusions, we thank you for standing tall and defending our democracy. And to those who choose to aid the CCP in its unlawful cyber activities, these charges should demonstrate that we will use all available tools to identify you, indict you, and expose your malicious activity for all the world to see.”
+
+According to court documents, the MPS and MSS employed an extensive network of private companies and contractors in China to hack and steal information in a manner that obscured the PRC government’s involvement. In some cases, the MPS and MSS paid private hackers in China to exploit specific victims. In many other cases, the hackers targeted victims speculatively. Operating from their safe haven and motivated by profit, this network of private companies and contractors in China cast a wide net to identify vulnerable computers, exploit those computers, and then identify information that it could sell directly or indirectly to the PRC government. The result of this largely indiscriminate approach was more worldwide computer intrusion victims, more systems worldwide left vulnerable to future exploitation by third parties, and more stolen information, often of no interest to the PRC government and, therefore, sold to other third-parties. Additional information regarding the indictments and the PRC’s hacker-for-hire ecosystem is available in Public Service Announcements published by the FBI today.
+
+U.S. v. Wu Haibo et al., Southern District of New York
+
+Today, a federal court in Manhattan unsealed an indictment charging eight i-Soon employees and two MPS officers for their involvement, from at least in or around 2016 through in or around 2023, in the numerous and widespread hacking of email accounts, cell phones, servers, and websites. The Department also announced today the court-authorized seizure of the primary internet domain used by i-Soon to advertise its business.
+
+“State-sponsored hacking is an acute threat to our community and national security,” said Acting U.S. Attorney Matthew Podolsky for the Southern District of New York. “For years, these 10 defendants — two of whom we allege are PRC officials — used sophisticated hacking techniques to target religious organizations, journalists, and government agencies, all to gather sensitive information for the use of the PRC. These charges will help stop these state-sponsored hackers and protect our national security. The career prosecutors of this office and our law enforcement partners will continue to uncover alleged state-sponsored hacking schemes, disrupt them, and bring those responsible to justice.”
+
+The defendants remain at large and wanted by the FBI. Concurrent with today’s announcement, the U.S. Department of State’s Rewards for Justice (RFJ) program, administered by the Diplomatic Security Service, announced a reward of up to $10 million for information leading to the identification or location of any person who, while acting at the direction or under the control of a foreign government, engages in certain malicious cyber activities against U.S. critical infrastructure in violation of the Computer Fraud and Abuse Act. The reward is offered for the following individuals who are alleged to have worked in various capacities to direct or carry out i-Soon’s malicious cyber activity:
+
+Wu Haibo (吴海波), Chief Executive Officer
+
+Chen Cheng (陈诚), Chief Operating Officer
+
+Wang Zhe (王哲), Sales Director
+
+Liang Guodong (梁国栋), Technical Staff
+
+Ma Li (马丽), Technical Staff
+
+Wang Yan (王堰), Technical Staff
+
+Xu Liang (徐梁), Technical Staff
+
+Zhou Weiwei (周伟伟), Technical Staff
+
+Wang Liyu (王立宇), MPS Officer
+
+Sheng Jing (盛晶), MPS Officer
+
+i-Soon and its employees, to include the defendants, generated tens of millions of dollars in revenue as a key player in the PRC’s hacker-for-hire ecosystem. In some instances, i-Soon conducted computer intrusions at the request of the MSS or MPS, including cyber-enabled transnational repression at the direction of the MPS officer defendants. In other instances, i-Soon conducted computer intrusions on its own initiative and then sold, or attempted to sell, the stolen data to at least 43 different bureaus of the MSS or MPS in at least 31 separate provinces and municipalities in China. i-Soon charged the MSS and MPS between approximately $10,000 and $75,000 for each email inbox it successfully exploited. i-Soon also trained MPS employees how to hack independently of i-Soon and offered a variety of hacking methods for sale to its customers.
+
+The defendants’ U.S.-located targets included a large religious organization that previously sent missionaries to China and was openly critical of the PRC government and an organization focused on promoting human rights and religious freedom in China. In addition, the defendants targeted multiple news organizations in the United States, including those that have opposed the CCP or delivered uncensored news to audiences in Asia, including China and the New York State Assembly, one of whose representatives had communicated with members of a religious organization banned in China.
+
+The defendants’ foreign-located targets included a religious leader and his office, and a Hong Kong newspaper that i-Soon considered as being opposed to the PRC government. The defendants also targeted the foreign ministries of Taiwan, India, South Korea, and Indonesia.
+
+Assistant U.S. Attorneys Ryan B. Finkel, Steven J. Kochevar, and Kevin Mead for the Southern District of New York and Trial Attorney Gregory J. Nicosia Jr. of the National Security Division’s National Security Cyber Section are prosecuting the case.
+
+U.S. v. Yin Kecheng and U.S. v. Zhou Shuai et al., District of Columbia
+
+Today, a federal court unsealed two indictments charging APT27 actors Yin Kecheng (尹可成) and Zhou Shuai (周帅) also known as “Coldface” for their involvement in the multi-year, for-profit computer intrusion campaigns dating back, in the case of Yin, to 2013. The Department also announced today court-authorized seizures of internet domains and computer server accounts used by Yin and Zhou to facilitate their hacking activity.
+
+The defendants remain at large. View the FBI’s Wanted posters for Shuai and Kecheng here.
+
+Concurrent with today’s announcement, the Department of States State’s Bureau of International Narcotics and Law Enforcement Affairs is announcing two reward offers under the Transnational Organized Crime Rewards Program (TOCRP) of up to $2 million each for information leading to the arrests and convictions, in any country, of malicious cyber actors Yin Kecheng and Zhou Shuai, both Chinese nationals residing in China.
+
+“These indictments and actions show this office’s long-standing commitment to vigorously investigate and hold accountable Chinese hackers and data brokers who endanger U.S. national security and other victims across the globe,” said Interim U.S. Attorney Edward R. Martin Jr. for the District of Columbia. “The defendants in these cases have been hacking for the Chinese government for years, and these indictments lay out the strong evidence showing their criminal wrongdoing. We again demand that the Chinese government to put a stop to these brazen cyber criminals who are targeting victims across the globe and then monetizing the data they have stolen by selling it across China.”
+
+The APT27 group to which Yin and Zhou belong is also known to private sector security researchers as “Threat Group 3390,” “Bronze Union,” “Emissary Panda,” “Lucky Mouse,” “Iron Tiger,” “UTA0178,” “UNC 5221,” and “Silk Typhoon.” As alleged in court documents, between August 2013 and December 2024, Yin, Zhou, and their co-conspirators exploited vulnerabilities in victim networks, conducted reconnaissance once inside those networks, and installed malware, such as PlugX malware, that provided persistent access. The defendants and their co-conspirators then identified and stole data from the compromised networks by exfiltrating it to servers under their control. Next, they brokered stolen data for sale and provided it to various customers, only some of whom had connections to the PRC government and military. For example, Zhou sold data stolen by Yin through i-Soon, whose primary customers, as noted above, were PRC government agencies, including the MSS and the MPS.
+
+The defendants’ motivations were financial and, because they were profit-driven, they targeted broadly, rendering victim systems vulnerable well beyond their pilfering of data and other information that they could sell. Between them, Yin and Zhou sought to profit from the hacking of numerous U.S.-based technology companies, think tanks, law firms, defense contractors, local governments, health care systems, and universities, leaving behind them a wake of millions of dollars in damages.
+
+The documents related to the seizure warrants, also unsealed today, further allege that Yin and Zhou continued to engage in hacking activity, including Yin’s involvement in the recently announced hack of Treasury between approximately September and December 2024. Virtual private servers used to conduct the Treasury intrusion belonged to, and were controlled by, an account that Yin and his co-conspirators established. Yin and his co-conspirators used that same account and other linked accounts they controlled to lease servers used for additional malicious cyber activity. The seizure warrant unsealed today allowed the FBI to seize the virtual private servers and other infrastructure used by the defendants to perpetrate these crimes.
+
+On Jan. 17, Treasury’s Office of Foreign Assets Control (OFAC) announced sanctions against Yin for his role in hacking that agency between September and December 2024. Concurrent with today’s indictments, OFAC also announced sanctions on Zhou and Shanghai Heiying Information Technology Company Ltd., a company operated by Zhou for purposes of his hacking activity.
+
+Private sector partners are also taking voluntary actions to raise awareness and strengthen defenses against the PRC’s malicious cyber activity. Today, Microsoft published research that highlights its unique, updated insights into Silk Typhoon tactics, techniques, and procedures specifically its targeting of the IT supply chain.
+
+Assistant U.S. Attorneys Jack F. Korba and Tejpal S. Chawla for the District of Columbia and Trial Attorney Tanner Kroeger of the National Security Division’s National Security Cyber Section are prosecuting the case.
+
+***
+
+The above disruptive actions targeting PRC malicious cyber activities were the result of investigations conducted by FBI New York and Washington Field Offices, FBI Cyber Division, the Naval Criminal Investigative Service. The U.S. Attorney’s Offices for the Southern District of New York and District of Columbia and the National Security Division’s National Security Cyber Section are prosecuting the case.
+
+The Department acknowledges the value of public-private partnerships in combating advanced cyber threats and recognizes Microsoft, Volexity, PwC, and Mandiant for their valuable assistance in these investigations.
+
+The details in the above-described indictments and warrants are merely allegations. All defendants are presumed innocent until proven guilty beyond a reasonable doubt in a court of law.
+
+Updated March 5, 2025
+
+Components
+
+Federal Bureau of Investigation (FBI)
+
+National Security Division (NSD)
+
+USAO - District of Columbia
+
+USAO - New York, Southern
+
+Press Release Number: 25-218
+
+Related Content
+
+Businessman and Two Attorneys Sentenced for Their Roles in Multimillion Dollar Scheme to Bribe Hawaii County Public Official
+
+Three men have been sentenced for their roles in a conspiracy to pay bribes to a public official at the Hawaii County Office of Housing and Community Development (OHCD) in...
+
+April 24, 2026
+
+U.S. Soldier Charged With Using Classified Information To Profit From Prediction Market Bets
+
+The Justice Department announced today the unsealing of an indictment charging Gannon Ken Van Dyke, a U.S. Army soldier, with unlawful use of confidential government information for personal gain, theft...
+
+April 23, 2026
+
+Scam Center Strike Force Takes Major Actions Against Southeast Asian Scam Centers Targeting Americans
+
+The Department of Justice, through U.S. Attorney Jeanine Ferris Pirro and Assistant Attorney General A. Tysen Duva of the Criminal Division, together with its partners, today announced a series of...
+
+950 Pennsylvania Avenue, NW
+
+Washington DC 20530
+
+Office of Public Affairs Direct Line
+
+202-514-2007
+
+Department of Justice Main Switchboard
+
+202-514-2000
+
+Signup for Email Updates
+
+Social Media
+
+twitter
+
+youtube
+
+instagram
+
+Archives
+
+Accessibility
+
+Legal Policies & Disclaimers
+
+Privacy
+
+For Employees
+
+Office of the Inspector General
+
+No FEAR Act Data
+
+EEO Policy Statement
+
+Vulnerability Disclosure
+
+Multilingual
+
+Vote.gov
+
+Have a question about Government Services?
+
+Contact USA.gov
+
+Top
+
+## Extraction Notes
+
+- parser: document
+- fetcher: doj_fetch
+- fetched_at: 2026-04-25T14:20:24+00:00
+- final_url: https://www.justice.gov/opa/pr/justice-department-charges-12-chinese-contract-hackers-and-law-enforcement-officers-global

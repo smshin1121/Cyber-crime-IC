@@ -14,10 +14,15 @@ sensitivity: public
 pages_updated:
 
 key_findings:
-  - "Secure .gov websites use HTTPS A lock ( Lock Locked padlock ) or https:// means you’ve safely connected to the .gov website. Share sensitive information only on official, secure websites."
+  - "Secure .gov websites use HTTPS A lock ( Lock Locked padlock ) or https: "// means you’ve safely connected to the .gov website. Share sensitive information only on official, secure websites.\""
 collection_url: https://www.justice.gov/usao-wdpa/pr/court-authorized-operation-disrupts-worldwide-botnet-used-peoples-republic-china-state
 created: 2026-04-18
 updated: 2026-04-18
+text_status: parsed
+content_hash: sha256:77cbac0fb12b0217f90bdc095ec110642a698a45967fcfb3c083de184164d679
+word_count: 1391
+extraction_date: 2026-04-25
+last_fetcher: doj_fetch
 ---
 ## Source Summary
 

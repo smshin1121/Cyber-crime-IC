@@ -14,10 +14,15 @@ sensitivity: public
 pages_updated:
 
 key_findings:
-  - "Secure .gov websites use HTTPS A lock ( Lock Locked padlock ) or https:// means you’ve safely connected to the .gov website. Share sensitive information only on official, secure websites."
+  - "Secure .gov websites use HTTPS A lock ( Lock Locked padlock ) or https: "// means you’ve safely connected to the .gov website. Share sensitive information only on official, secure websites.\""
 collection_url: https://www.justice.gov/usao-edmo/pr/four-romanian-nationals-indicted-using-identity-another-obtain-skimmer-equipment
 created: 2026-04-18
 updated: 2026-04-18
+text_status: parsed
+content_hash: sha256:37254288d7a47656bcf87c0012881f2ceab3fa2c0603ddc10bb4a57c5f024d24
+word_count: 175
+extraction_date: 2026-04-25
+last_fetcher: doj_fetch
 ---
 ## Source Summary
 

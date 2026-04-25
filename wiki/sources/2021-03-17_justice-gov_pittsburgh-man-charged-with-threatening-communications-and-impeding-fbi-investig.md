@@ -17,6 +17,11 @@ key_findings:
   - "This domestic-only U.S. follow-on record has been absorbed into the canonical case page [[pittsburgh-man-charged-threatening-communications-and-impeding-fbi-investigation-1]]. No visible cross-border mechanism is documented, so it is not treated as a separate international-cooperation operation."
 collection_url: https://www.justice.gov/usao-wdpa/pr/pittsburgh-man-charged-threatening-communications-and-impeding-fbi-investigation-1
 created: 2026-04-17
+text_status: parsed
+content_hash: sha256:b7d5add41870de4d150a7ecdb8283036917ea33046e333b53db72a9a5b773cdf
+word_count: 629
+extraction_date: 2026-04-25
+last_fetcher: doj_fetch
 ---
 ## Source Summary
 

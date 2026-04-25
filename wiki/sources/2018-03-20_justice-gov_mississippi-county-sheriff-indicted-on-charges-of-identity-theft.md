@@ -17,6 +17,11 @@ key_findings:
   - "This domestic-only U.S. follow-on record has been absorbed into the canonical case page [[mississippi-county-sheriff-indicted-on-charges-of-identity-theft]]. No visible cross-border mechanism is documented, so it is not treated as a separate international-cooperation operation."
 collection_url: https://www.justice.gov/usao-edmo/pr/mississippi-county-sheriff-indicted-charges-identity-theft
 created: 2026-04-17
+text_status: parsed
+content_hash: sha256:2336986ac03fb0cfd2884474dbd804c958dd67c3004986a3be0bed15dcca9c13
+word_count: 170
+extraction_date: 2026-04-25
+last_fetcher: doj_fetch
 ---
 ## Source Summary
 

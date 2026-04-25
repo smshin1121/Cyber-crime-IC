@@ -64,11 +64,21 @@ sources:
   - "[[2026-04-18_justice-gov_pineville-man-sentenced-five-years-prison-accessing-child-pornography-online]]"
 summary: "This domestic-only U.S. follow-on record has been absorbed into the canonical case page [[us-v-corey-brossette]]. No visible cross-border mechanism is documented, so it is not treated as a separate international-cooperation operation."
 created: 2026-04-18
-updated: 2026-04-22
+updated: 2026-04-25
 ---
 ## Summary
 
 This domestic-only U.S. follow-on record has been absorbed into the canonical case page [[us-v-corey-brossette]]. No visible cross-border mechanism is documented, so it is not treated as a separate international-cooperation operation.
+
+> [!info] Source enrichment — single-source justification (2026-04-25)
+> Searched for additional credible sources covering this defendant (Corey Brossette, Pineville LA, 24) / 2018 case:
+> - DOJ follow-up press releases: this is the sentencing PR
+> - Parallel federal agency press releases (FBI/HSI): not found
+> - Court records (CourtListener / PACER / midpage / justia): not found in narrative form
+> - Local Louisiana press: only KALB had an accessible piece
+> - Trade press: not applicable
+>
+> Single-press-release domestic CSAM action. `source_count: 1` retained per LESSON L19.
 
 ## Canonical Record
 

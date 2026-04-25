@@ -17,6 +17,11 @@ key_findings:
   - "This domestic-only U.S. follow-on record has been absorbed into the canonical case page [[long-beach-man-pleads-guilty-to-production-and-distribution-of-images-of-minors-engaging-in-sexually-explicit-]]. No visible cross-border mechanism is documented, so it is not treated as a separate international-cooperation operation."
 collection_url: https://www.justice.gov/usao-sdms/pr/long-beach-man-pleads-guilty-production-and-distribution-images-minors-engaging
 created: 2026-04-17
+text_status: parsed
+content_hash: sha256:828eeae3548ac041273095e4edab2879b22b5efd82f52a99a76ee1a2f5859c8b
+word_count: 769
+extraction_date: 2026-04-25
+last_fetcher: doj_fetch
 ---
 ## Source Summary
 

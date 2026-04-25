@@ -64,11 +64,21 @@ sources:
   - "[[2026-04-18_justice-gov_federal-indictment-charges-man-forging-signatures-united-states-district-court-judges]]"
 summary: "This domestic-only U.S. follow-on record has been absorbed into the canonical case page [[us-v-charges-man]]. No visible cross-border mechanism is documented, so it is not treated as a separate international-cooperation operation."
 created: 2026-04-18
-updated: 2026-04-22
+updated: 2026-04-25
 ---
 ## Summary
 
 This domestic-only U.S. follow-on record has been absorbed into the canonical case page [[us-v-charges-man]]. No visible cross-border mechanism is documented, so it is not treated as a separate international-cooperation operation.
+
+> [!info] Source enrichment — single-source justification (2026-04-25)
+> Searched for additional credible sources covering this defendant (Walter Brzowski, Chicago) / 2025 forging-signatures-of-NDIL-judges case:
+> - DOJ follow-up press releases: this is the indictment PR
+> - Parallel federal agency press releases (FBI/USMS): not found
+> - Court records (CourtListener / PACER / midpage / justia): Justia 7th Cir Executive Committee v. Brzowski 2020 docket exists but is older procedural matter; direct fetch was 403
+> - Local Chicago press: WGN-TV piece exists but direct fetch was 403; only Bloomberg Law and Law360 had retrievable narrative content
+> - Trade press: only legal-trade outlets (Bloomberg Law, Law360); 2 verifiable secondary sources cannot reach the 4-extra threshold
+>
+> Two verifiable secondary sources is below the Path A threshold. `source_count: 1` retained per LESSON L19 (do not assert sources without article-level verification).
 
 ## Canonical Record
 

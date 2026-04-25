@@ -17,6 +17,11 @@ key_findings:
   - "This domestic-only U.S. follow-on record has been absorbed into the canonical case page [[tacoma-man-who-persisted-in-drug-trafficking-despite-being-stopped-with-more-than-25-pounds-of-meth-sentenced-]]. No visible cross-border mechanism is documented, so it is not treated as a separate international-cooperation operation."
 collection_url: https://www.justice.gov/usao-wdwa/pr/tacoma-man-who-persisted-drug-trafficking-despite-being-stopped-more-25-pounds-meth
 created: 2026-04-17
+text_status: parsed
+content_hash: sha256:80f215a290eb204507ba497aac2c523619e123633b85cd6a33ebb5e964e6b9f8
+word_count: 1367
+extraction_date: 2026-04-25
+last_fetcher: doj_fetch
 ---
 ## Source Summary
 

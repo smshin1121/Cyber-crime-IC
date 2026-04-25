@@ -17,6 +17,11 @@ key_findings:
   - "This domestic-only U.S. follow-on record has been absorbed into the canonical case page [[us-v-barraza-flores-dark-web]]. No visible cross-border mechanism is documented, so it is not treated as a separate international-cooperation operation."
 collection_url: https://www.justice.gov/usao-sdfl/pr/dark-web-drug-trafficker-sentenced-160-months-federal-prison
 created: 2026-04-17
+text_status: parsed
+content_hash: sha256:5a9c78c259a9a39cea73997c96112abc05e0496256212189509f53b18789ee5a
+word_count: 731
+extraction_date: 2026-04-25
+last_fetcher: doj_fetch
 ---
 ## Source Summary
 

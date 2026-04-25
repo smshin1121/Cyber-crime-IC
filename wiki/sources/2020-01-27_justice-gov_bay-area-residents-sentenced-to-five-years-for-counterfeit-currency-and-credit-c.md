@@ -17,6 +17,11 @@ key_findings:
   - "This domestic-only U.S. follow-on record has been absorbed into the canonical case page [[us-v-defendant-nicole-dunlap-and-marcus-smith]]. No visible cross-border mechanism is documented, so it is not treated as a separate international-cooperation operation."
 collection_url: https://www.justice.gov/usao-ndca/pr/bay-area-residents-sentenced-five-years-counterfeit-currency-and-credit-card-fraud
 created: 2026-04-17
+text_status: parsed
+content_hash: sha256:46358c117c99a9b875eabe0c406dde5154bc8237c02c37a265251144a81a874b
+word_count: 1186
+extraction_date: 2026-04-25
+last_fetcher: doj_fetch
 ---
 ## Source Summary
 

@@ -3,7 +3,7 @@ type: source
 title: "Member of 'The Dark Overlord' Hacking Group Extradited From United Kingdom to Face Charges in St. Louis"
 source_type: press-release
 publisher: "US DOJ Office of Public Affairs"
-author: "Staff"
+author: Staff
 publish_date: 2019-12-18
 ingest_date: 2026-04-25
 language: en
@@ -18,6 +18,12 @@ key_findings:
   - "Wyatt arraigned December 18, 2019, before Magistrate Judge Shirley Padmore Mensah in St. Louis"
 collection_url: https://www.justice.gov/archives/opa/pr/member-dark-overlord-hacking-group-extradited-united-kingdom-face-charges-st-louis
 created: 2026-04-25
+raw_path: raw/press-releases/2019-12-18_doj-opa_member-dark-overlord-hacking-group-extradited-united-kingdom-face-charges-st-louis.md
+text_status: parsed
+content_hash: sha256:e841286d5996857ede23312be013f97def4f02321f12e8a58558db62a63f0471
+word_count: 849
+extraction_date: 2026-04-25
+last_fetcher: doj_fetch
 ---
 ## Source Summary
 

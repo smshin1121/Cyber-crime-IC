@@ -46,25 +46,29 @@ results:
   other:
     - "Defendant-specific follow-on action derived from [[us-v-steven-michael-burke]]"
 edges:
-  []
+
 credibility_index: 4.0
 source_tier: 1
 missing_fields:
-  []
+
 related_cases:
   - "[[us-v-steven-michael-burke]]"
 related_operations:
-  []
+
 challenges_encountered:
-  []
+
 lessons_learned:
-  []
-source_count: 1
+
+source_count: 5
 sources:
   - "[[2026-04-18_justice-gov_duvall-washington-man-awaiting-sentencing-possessing-images-child-sexual-abuse-pleads]]"
+  - "[[2024-04-19_justice-gov_duvall-washington-man-sentenced-ten-years-prison-trying-sexually-exploit-11-year-old]]"
+  - "[[2024-04-19_fox13seattle_washington-man-sentenced-ten-years-attempted-sexual-exploitation-11-year-old]]"
+  - "[[2024-04-19_yahoo_duvall-man-sentenced-ten-years-sexually-exploit-11-year-old]]"
+  - "[[2023-05-12_livingsnoqualmie_duvall-resident-held-on-750000-bail-child-sex-abuse-investigation]]"
 summary: "This domestic-only U.S. follow-on record has been absorbed into the canonical case page [[us-v-steven-michael-burke]]. No visible cross-border mechanism is documented, so it is not treated as a separate international-cooperation operation."
 created: 2026-04-18
-updated: 2026-04-22
+updated: 2026-04-25
 ---
 ## Summary
 
@@ -76,6 +80,10 @@ This domestic-only U.S. follow-on record has been absorbed into the canonical ca
 
 ## References
 
-| # | Source | Publisher | Date | URL |
+| # | Title | Publisher | Date | URL |
 |---|---|---|---|---|
 | [1] | Duvall, Washington, man awaiting sentencing for possessing images of child sexual abuse, pleads guilty to contacting minor online for illegal images | US DOJ USAO | 2023-09-05 | https://www.justice.gov/usao-wdwa/pr/duvall-washington-man-awaiting-sentencing-possessing-images-child-sexual-abuse-pleads |
+| [2] | Duvall, Washington, man sentenced to ten years in prison for trying to sexually exploit 11-year-old child | US DOJ (Western District of Washington) | 2024-04-19 | https://www.justice.gov/usao-wdwa/pr/duvall-washington-man-sentenced-ten-years-prison-trying-sexually-exploit-11-year-old |
+| [3] | Washington man sentenced to ten years for attempted sexual exploitation of 11-year-old child | FOX 13 Seattle | 2024-04-19 | https://www.fox13seattle.com/news/washington-man-sentenced-to-10-years-for-attempted-sexual-exploitation-of-11-year-old-child |
+| [4] | Duvall man sentenced to ten years for trying to sexually exploit 11-year-old | Yahoo News | 2024-04-19 | https://news.yahoo.com/duvall-man-sentenced-ten-years-002238245.html |
+| [5] | Duvall Resident Held on $750,000 Bail in Child Sex Abuse Investigation | Living Snoqualmie | 2023-05-12 | https://livingsnoqualmie.com/duvall-resident-held-on-750000-bail-child-sex-abuse-investigation/ |

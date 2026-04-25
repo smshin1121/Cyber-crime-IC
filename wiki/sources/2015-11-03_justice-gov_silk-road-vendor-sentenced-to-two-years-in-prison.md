@@ -17,6 +17,11 @@ key_findings:
   - "This domestic-only U.S. follow-on record has been absorbed into the canonical case page [[silk-road-vendor-sentenced-to-two-years-in-prison]]. No visible cross-border mechanism is documented, so it is not treated as a separate international-cooperation operation."
 collection_url: https://www.justice.gov/usao-md/pr/silk-road-vendor-sentenced-two-years-prison
 created: 2026-04-17
+text_status: parsed
+content_hash: sha256:a24fb885c480fc8f36f7c2f21abd3168b466ba7590fa4b39dd2d3a393382641c
+word_count: 1000
+extraction_date: 2026-04-25
+last_fetcher: doj_fetch
 ---
 ## Source Summary
 

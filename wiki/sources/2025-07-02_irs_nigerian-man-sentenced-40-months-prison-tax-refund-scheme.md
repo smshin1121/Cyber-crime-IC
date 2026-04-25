@@ -17,6 +17,12 @@ key_findings:
   - "$122,720 restitution to IRS ordered"
 collection_url: https://www.irs.gov/compliance/criminal-investigation/nigerian-man-sentenced-to-40-months-in-prison-for-scheme-to-steal-identities-and-claim-tax-refunds
 created: 2026-04-25
+raw_path: raw/press-releases/2025-07-02_irs_nigerian-man-sentenced-40-months-prison-tax-refund-scheme.md
+text_status: parsed
+content_hash: sha256:dd7e1facd0f23f4bbfc3ecfe4a2dfd401baf3285a17af6baed99f7d388a3e598
+word_count: 403
+extraction_date: 2026-04-25
+last_fetcher: urllib
 ---
 ## Source Summary
 

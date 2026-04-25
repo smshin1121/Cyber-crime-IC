@@ -12,11 +12,16 @@ reliability: medium
 credibility: confirmed
 sensitivity: public
 pages_updated:
-  []
+
 key_findings:
   - "The **Fiscale Inlichtingen- en Opsporingsdienst (FIOD)** is the investigation service of the **Dutch Ministry of Finance**, responsible for combating financial fraud, money laundering, cybercrime and corruption [1]. Unlike the Dutch National Police cyber units, FIOD operates with financial-crime jurisdiction and specializes in the monetary and cryptocurrency dimensions of cybercrime."
 collection_url: https://www.fiod.nl/en/investigation-themes/cybercrime/
 created: 2026-04-17
+text_status: parsed
+content_hash: sha256:4e83dd3bcd0ac2e8b34aaae57fdf848154edb8f01f1693670c7c167abcd3d719
+word_count: 471
+extraction_date: 2026-04-25
+last_fetcher: urllib
 ---
 ## Source Summary
 

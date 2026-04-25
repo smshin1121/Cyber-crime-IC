@@ -17,6 +17,11 @@ key_findings:
   - "This domestic-only U.S. follow-on record has been absorbed into the canonical case page [[us-v-wisconsin-man]]. No visible cross-border mechanism is documented, so it is not treated as a separate international-cooperation operation."
 collection_url: https://www.justice.gov/usao-sdny/pr/wisconsin-man-pleads-guilty-hacking-fantasy-sports-and-betting-website
 created: 2026-04-17
+text_status: parsed
+content_hash: sha256:e3a51bcac7360ffb49db99624dbac2d0f475f0f2defcc345eab6c6174a0ad1ef
+word_count: 1149
+extraction_date: 2026-04-25
+last_fetcher: doj_fetch
 ---
 ## Source Summary
 

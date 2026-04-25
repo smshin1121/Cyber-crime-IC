@@ -17,6 +17,11 @@ key_findings:
   - "This domestic-only U.S. follow-on record has been absorbed into the canonical case page [[us-v-district-man]]. No visible cross-border mechanism is documented, so it is not treated as a separate international-cooperation operation."
 collection_url: https://www.justice.gov/usao-dc/pr/restricted-personal-information-us-senators-website
 created: 2026-04-17
+text_status: parsed
+content_hash: sha256:e9dbe0058dc9c1c3a87ce6b0ee23685aeb2f2e6963f3c3b533ca16b8599487ec
+word_count: 1010
+extraction_date: 2026-04-25
+last_fetcher: doj_fetch
 ---
 ## Source Summary
 

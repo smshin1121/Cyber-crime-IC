@@ -17,6 +17,11 @@ key_findings:
   - "This domestic-only U.S. follow-on record has been absorbed into the canonical case page [[new-jersey-man-sentenced-for-prescription-opioid-conspiracy]]. No visible cross-border mechanism is documented, so it is not treated as a separate international-cooperation operation."
 collection_url: https://www.justice.gov/opa/pr/new-jersey-man-sentenced-prescription-opioid-conspiracy
 created: 2026-04-17
+text_status: parsed
+content_hash: sha256:1f33a3f02d5112b6fa772dd878626478782f18718100a9954ad5c4d427ddc8b0
+word_count: 701
+extraction_date: 2026-04-25
+last_fetcher: doj_fetch
 ---
 ## Source Summary
 

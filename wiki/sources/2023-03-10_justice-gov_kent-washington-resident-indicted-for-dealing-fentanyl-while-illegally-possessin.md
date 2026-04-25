@@ -17,6 +17,11 @@ key_findings:
   - "This domestic-only U.S. follow-on record has been absorbed into the canonical case page [[kent-washington-resident-indicted-for-dealing-fentanyl-while-illegally-possessing-firearm]]. No visible cross-border mechanism is documented, so it is not treated as a separate international-cooperation operation."
 collection_url: https://www.justice.gov/usao-wdwa/pr/kent-washington-resident-indicted-dealing-fentanyl-while-illegally-possessing-firearm
 created: 2026-04-17
+text_status: parsed
+content_hash: sha256:3cde87a27183d57fbc0217a5e4262de41032c1f2d59f525a4ae5f0036a5abed7
+word_count: 787
+extraction_date: 2026-04-25
+last_fetcher: doj_fetch
 ---
 ## Source Summary
 

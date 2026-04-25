@@ -17,6 +17,11 @@ key_findings:
   - "This domestic-only U.S. follow-on record has been absorbed into the canonical case page [[seven-indicted-in-seattle-in-connection-with-coast-to-coast-drug-trafficking-conspiracy]]. No visible cross-border mechanism is documented, so it is not treated as a separate international-cooperation operation."
 collection_url: https://www.justice.gov/usao-wdwa/pr/seven-indicted-seattle-connection-coast-coast-drug-trafficking-conspiracy
 created: 2026-04-17
+text_status: parsed
+content_hash: sha256:462a655eaf44ca15c3c4e37cb4dbf3e5cce9a12334c302f500bbb06a8d254fe3
+word_count: 1336
+extraction_date: 2026-04-25
+last_fetcher: doj_fetch
 ---
 ## Source Summary
 

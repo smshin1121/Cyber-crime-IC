@@ -12,11 +12,16 @@ reliability: medium
 credibility: confirmed
 sensitivity: public
 pages_updated:
-  []
+
 key_findings:
   - "Australia's national criminal intelligence agency; supports cybercrime investigations through intelligence sharing with AFP and state police. For detailed facts, see the official source [1]."
 collection_url: https://www.acic.gov.au/
 created: 2026-04-17
+text_status: parsed
+content_hash: sha256:0ff69f6751b3434be90c3276ddb271d19eee9ac262b8736503285744d9caa214
+word_count: 847
+extraction_date: 2026-04-25
+last_fetcher: jina
 ---
 ## Source Summary
 

@@ -17,6 +17,11 @@ key_findings:
   - "This domestic-only U.S. follow-on record has been absorbed into the canonical case page [[michigan-man-sentenced-to-five-years-in-prison-for-possessing-child-sexual-abuse-material-on-a-military-base]]. No visible cross-border mechanism is documented, so it is not treated as a separate international-cooperation operation."
 collection_url: https://www.justice.gov/opa/pr/michigan-man-sentenced-five-years-prison-possessing-child-sexual-abuse-material-military
 created: 2026-04-17
+text_status: parsed
+content_hash: sha256:bd2248f5d882787a339d224b41ec2cfd94091418658739927bd58ff647c7eacf
+word_count: 744
+extraction_date: 2026-04-25
+last_fetcher: doj_fetch
 ---
 ## Source Summary
 

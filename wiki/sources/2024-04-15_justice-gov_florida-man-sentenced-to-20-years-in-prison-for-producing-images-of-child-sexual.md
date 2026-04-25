@@ -17,6 +17,11 @@ key_findings:
   - "This domestic-only U.S. follow-on record has been absorbed into the canonical case page [[us-v-samuel-aaron-leonard]]. No visible cross-border mechanism is documented, so it is not treated as a separate international-cooperation operation."
 collection_url: https://www.justice.gov/usao-wdwa/pr/florida-man-sentenced-20-years-prison-producing-images-child-sexual-abuse-and
 created: 2026-04-17
+text_status: parsed
+content_hash: sha256:15c582af7d172897dc46d1ee6c4824c12e5afc4b0dc678c23450fe41adcd6430
+word_count: 1192
+extraction_date: 2026-04-25
+last_fetcher: doj_fetch
 ---
 ## Source Summary
 

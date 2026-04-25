@@ -17,6 +17,11 @@ key_findings:
   - "This domestic-only U.S. follow-on record has been absorbed into the canonical case page [[massachusetts-man-pleads-guilty-knowingly-concealing-source-material-support-or]]. No visible cross-border mechanism is documented, so it is not treated as a separate international-cooperation operation."
 collection_url: https://www.justice.gov/usao-ma/pr/massachusetts-man-pleads-guilty-knowingly-concealing-source-material-support-or
 created: 2026-04-17
+text_status: parsed
+content_hash: sha256:052a0d28a47a0ad5b16b9fe85151129d9b69bf7751e5cc280879a3def5b72c6e
+word_count: 196
+extraction_date: 2026-04-25
+last_fetcher: doj_fetch
 ---
 ## Source Summary
 

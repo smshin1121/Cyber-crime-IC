@@ -17,6 +17,11 @@ key_findings:
   - "This domestic-only U.S. follow-on record has been absorbed into the canonical case page [[us-v-mohamed-abdirisak-mohamed]]. No visible cross-border mechanism is documented, so it is not treated as a separate international-cooperation operation."
 collection_url: https://www.justice.gov/usao-wdwa/pr/final-custody-defendant-whatcom-county-drug-trafficking-ring-sentenced-8-years-prison
 created: 2026-04-17
+text_status: parsed
+content_hash: sha256:7db4a3d44ec9258c46835c4e2c8cf022a53204abbe472946e28f1f92044457fe
+word_count: 1071
+extraction_date: 2026-04-25
+last_fetcher: doj_fetch
 ---
 ## Source Summary
 

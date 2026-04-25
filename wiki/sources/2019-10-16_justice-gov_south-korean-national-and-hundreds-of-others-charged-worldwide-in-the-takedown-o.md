@@ -17,6 +17,11 @@ key_findings:
   - "This domestic-only U.S. follow-on record has been absorbed into the canonical case page [[south-korean-national-and-hundreds-of-others-charged-worldwide-in-the-takedown-of-the-largest-darknet-child-po]]. No visible cross-border mechanism is documented, so it is not treated as a separate international-cooperation operation."
 collection_url: https://www.justice.gov/usao-edla/pr/south-korean-national-and-hundreds-others-charged-worldwide-takedown-largest-darknet
 created: 2026-04-17
+text_status: parsed
+content_hash: sha256:0ba8ba56e32af65d2be33f155021a17bb921ae57c7c8a5425bbc3dc291080e07
+word_count: 2720
+extraction_date: 2026-04-25
+last_fetcher: doj_fetch
 ---
 ## Source Summary
 

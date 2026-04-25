@@ -14,13 +14,18 @@ sensitivity: public
 pages_updated:
 
 key_findings:
-  - "Secure .gov websites use HTTPS A lock ( Lock Locked padlock ) or https:// means you’ve safely connected to the .gov website. Share sensitive information only on official, secure websites."
+  - "Secure .gov websites use HTTPS A lock ( Lock Locked padlock ) or https: "// means you’ve safely connected to the .gov website. Share sensitive information only on official, secure websites.\""
 collection_url: https://www.justice.gov/usao-edva/pr/darknet-vendor-fentanyl-laced-pills-pleads-guilty
 created: 2026-04-17
 defendant_names:
   - "Donjuan Murphy"
   - "Montrio Santos Neville"
 updated: 2026-04-18
+text_status: parsed
+content_hash: sha256:c9c185f486de7713a37b933b3a8785ee1ab5296c3585db72f291b2541cb39a54
+word_count: 151
+extraction_date: 2026-04-25
+last_fetcher: doj_fetch
 ---
 ## Source Summary
 

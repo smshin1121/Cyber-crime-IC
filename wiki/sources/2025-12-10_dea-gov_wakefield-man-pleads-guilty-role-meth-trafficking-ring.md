@@ -14,9 +14,15 @@ pages_updated:
   - operation-wakefield-man-pleads-guilty-to-role-in-methamphetamine-trafficking-ring
 key_findings:
   - "DEA confirmed as parallel federal investigative agency."
-  - "Defendant: Daniel Loughman; Unknown Bikers Motorcycle Club affiliation."
+  - "Defendant: "Daniel Loughman; Unknown Bikers Motorcycle Club affiliation.\""
 collection_url: https://www.dea.gov/press-releases/2025/12/10/wakefield-man-pleads-guilty-role-meth-trafficking-ring
 created: 2026-04-25
+raw_path: raw/press-releases/2025-12-10_dea-gov_wakefield-man-pleads-guilty-role-meth-trafficking-ring.md
+text_status: parsed
+content_hash: sha256:0d4049bab093624fa598768a270ff5e5cba783d9de76ed741db475358c3d37f3
+word_count: 5365
+extraction_date: 2026-04-25
+last_fetcher: jina
 ---
 ## Source Summary
 

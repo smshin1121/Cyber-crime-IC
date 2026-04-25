@@ -12,11 +12,16 @@ reliability: medium
 credibility: confirmed
 sensitivity: public
 pages_updated:
-  []
+
 key_findings:
   - "Serbia is a **[[budapest-convention|Budapest Convention]] party** since 2009 and is *almost certainly* one of the first states to ratify the **Second Additional Protocol (CETS 224)** [1]. Serbia has institutionalized cybercrime enforcement through a **Special Prosecutor's Office for High-Tech Crime** and a specialized department within the Belgrade Higher Court."
 collection_url: "https://www.coe.int/en/web/conventions/full-list?module=signatures-by-treaty&treatynum=185"
 created: 2026-04-17
+text_status: parsed
+content_hash: sha256:c9c0021f43a5c9a9308752816c2c9854ef867e8082d18bf960660b3d6bdd8a0a
+word_count: 4817
+extraction_date: 2026-04-25
+last_fetcher: jina
 ---
 ## Source Summary
 

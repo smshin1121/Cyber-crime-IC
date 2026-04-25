@@ -14,10 +14,15 @@ sensitivity: public
 pages_updated:
 
 key_findings:
-  - "Secure .gov websites use HTTPS A lock ( Lock Locked padlock ) or https:// means you’ve safely connected to the .gov website. Share sensitive information only on official, secure websites."
+  - "Secure .gov websites use HTTPS A lock ( Lock Locked padlock ) or https: "// means you’ve safely connected to the .gov website. Share sensitive information only on official, secure websites.\""
 collection_url: https://www.justice.gov/criminal/criminal-ccips/ccips-press-releases-2021
 created: 2026-04-18
 updated: 2026-04-18
+text_status: parsed
+content_hash: sha256:282fc975435f2abd806f6db147ae63bdb87d854d88b41d4dd1e441b5b3d9f8a5
+word_count: 2645
+extraction_date: 2026-04-25
+last_fetcher: doj_fetch
 ---
 ## Source Summary
 

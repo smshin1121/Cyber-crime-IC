@@ -17,6 +17,11 @@ key_findings:
   - "This domestic-only U.S. follow-on record has been absorbed into the canonical case page [[russian-national-charged-in-hacking-scheme-targeting-pittsburgh-national-golf-course]]. No visible cross-border mechanism is documented, so it is not treated as a separate international-cooperation operation."
 collection_url: https://www.justice.gov/usao-wdpa/pr/russian-national-charged-hacking-scheme-targeting-pittsburgh-national-golf-course
 created: 2026-04-17
+text_status: parsed
+content_hash: sha256:0bcb228594223920b449cfe6193f996bdfaec5eb862787ef8fd745747efb9a34
+word_count: 679
+extraction_date: 2026-04-25
+last_fetcher: doj_fetch
 ---
 ## Source Summary
 

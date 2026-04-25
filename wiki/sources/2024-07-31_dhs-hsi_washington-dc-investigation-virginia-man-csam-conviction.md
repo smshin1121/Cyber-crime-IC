@@ -18,6 +18,12 @@ key_findings:
   - "April 23, 2023 search warrant; cellphone with darknet CSAM links."
 collection_url: https://www.dhs.gov/hsi/news/2024/07/31/hsi-washington-dc-investigation-leads-conviction-virginia-man-possessing-csam
 created: 2026-04-25
+raw_path: raw/press-releases/2024-07-31_dhs-hsi_washington-dc-investigation-virginia-man-csam-conviction.md
+text_status: parsed
+content_hash: sha256:f99427b91f5e6754e7bda65d0dc82350e752ff54b362f2f96294dc08bf529cb1
+word_count: 1049
+extraction_date: 2026-04-25
+last_fetcher: urllib
 ---
 ## Source Summary
 

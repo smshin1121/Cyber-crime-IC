@@ -17,6 +17,12 @@ key_findings:
   - "The superseding indictment showed that the Seattle defendants were part of a wider interstate and international fentanyl, methamphetamine, and cocaine conspiracy."
 collection_url: https://www.justice.gov/usao-wdpa/pr/thirty-five-individuals-charged-second-superseding-indictment-participating-violent
 created: 2026-04-25
+raw_path: raw/government-reports/2024-01-08_justice-gov_thirty-five-individuals-charged-second-superseding-indictment-participating-violent.md
+text_status: parsed
+content_hash: sha256:216b87d892e461609bfcf4fecb7f210e68072045e3dfc0ff137d6cb090d1fce6
+word_count: 1960
+extraction_date: 2026-04-25
+last_fetcher: doj_fetch
 ---
 ## Source Summary
 

@@ -17,6 +17,11 @@ key_findings:
   - "This domestic-only U.S. follow-on record has been absorbed into the canonical case page [[north-reading-man-indicted-for-possession-of-child-pornography]]. No visible cross-border mechanism is documented, so it is not treated as a separate international-cooperation operation."
 collection_url: https://www.justice.gov/usao-ma/pr/north-reading-man-indicted-possession-child-pornography
 created: 2026-04-17
+text_status: parsed
+content_hash: sha256:ac25851ee783b2dfc3c0a022c405f853c21cdc24aedbcfcb84605b31a5d405ab
+word_count: 189
+extraction_date: 2026-04-25
+last_fetcher: doj_fetch
 ---
 ## Source Summary
 

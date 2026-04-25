@@ -20,6 +20,11 @@ created: 2026-04-18
 defendant_names:
   - "Scott Quinn Berkett"
 updated: 2026-04-18
+text_status: parsed
+content_hash: sha256:c4bc563d43d0d268f09262be6fbd6dbf3d704821983087ba16d3fbfd11fce416
+word_count: 847
+extraction_date: 2026-04-25
+last_fetcher: doj_fetch
 ---
 ## Source Summary
 

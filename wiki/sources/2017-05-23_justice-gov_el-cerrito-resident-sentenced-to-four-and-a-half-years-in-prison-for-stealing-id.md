@@ -17,6 +17,11 @@ key_findings:
   - "This domestic-only U.S. follow-on record has been absorbed into the canonical case page [[us-v-brandon-robinson]]. No visible cross-border mechanism is documented, so it is not treated as a separate international-cooperation operation."
 collection_url: https://www.justice.gov/usao-ndca/pr/el-cerrito-resident-sentenced-four-and-half-years-prison-stealing-ids-and-us-treasury
 created: 2026-04-17
+text_status: parsed
+content_hash: sha256:0119fae90214c355e9527fe0bbb2b03121793fb2da488c15de5107f8f90116f2
+word_count: 799
+extraction_date: 2026-04-25
+last_fetcher: doj_fetch
 ---
 ## Source Summary
 

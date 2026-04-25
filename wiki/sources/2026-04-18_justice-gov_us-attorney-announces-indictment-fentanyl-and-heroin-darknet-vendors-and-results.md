@@ -14,10 +14,15 @@ sensitivity: public
 pages_updated:
 
 key_findings:
-  - "Secure .gov websites use HTTPS A lock ( Lock Locked padlock ) or https:// means you’ve safely connected to the .gov website. Share sensitive information only on official, secure websites."
+  - "Secure .gov websites use HTTPS A lock ( Lock Locked padlock ) or https: "// means you’ve safely connected to the .gov website. Share sensitive information only on official, secure websites.\""
 collection_url: https://www.justice.gov/usao-edca/pr/us-attorney-announces-indictment-fentanyl-and-heroin-darknet-vendors-and-results
 created: 2026-04-18
 updated: 2026-04-18
+text_status: parsed
+content_hash: sha256:3fdf47dd08ab1880d1a433205853d09cc0a604e016810a1ce9cdac5bc3b54916
+word_count: 158
+extraction_date: 2026-04-25
+last_fetcher: doj_fetch
 ---
 ## Source Summary
 

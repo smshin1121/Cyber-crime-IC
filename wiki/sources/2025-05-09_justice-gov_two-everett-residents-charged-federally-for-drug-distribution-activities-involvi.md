@@ -17,6 +17,11 @@ key_findings:
   - "This domestic-only U.S. follow-on record has been absorbed into the canonical case page [[two-everett-residents-charged-federally-for-drug-distribution-activities-involving-multiple-kilos-of-fentanyl-]]. No visible cross-border mechanism is documented, so it is not treated as a separate international-cooperation operation."
 collection_url: https://www.justice.gov/usao-wdwa/pr/two-everett-residents-charged-federally-drug-distribution-activities-involving
 created: 2026-04-17
+text_status: parsed
+content_hash: sha256:b69a43edab4893a7bd896cadb67bf3be3ef99be768e9a6dafce3390c6f609e1c
+word_count: 773
+extraction_date: 2026-04-25
+last_fetcher: doj_fetch
 ---
 ## Source Summary
 

@@ -17,6 +17,11 @@ key_findings:
   - "This domestic-only U.S. follow-on record has been absorbed into the canonical case page [[new-york-man-indicted-in-st-louis-accused-of-selling-counterfeit-xanax-on-dark-web]]. No visible cross-border mechanism is documented, so it is not treated as a separate international-cooperation operation."
 collection_url: https://www.justice.gov/usao-edmo/pr/new-york-man-indicted-st-louis-accused-selling-counterfeit-xanax-dark-web
 created: 2026-04-17
+text_status: parsed
+content_hash: sha256:22c9568896e8bb1f6b2c500ff3ebf624e91dbb27f879660c9d348e0de1f70be8
+word_count: 176
+extraction_date: 2026-04-25
+last_fetcher: doj_fetch
 ---
 ## Source Summary
 

@@ -17,6 +17,11 @@ key_findings:
   - "This domestic-only U.S. follow-on record has been absorbed into the canonical case page [[ssndob-marketplace-administrator-pleads-guilty-to-charges-related-to-his-operation-of-a-series-of-websites-tha]]. No visible cross-border mechanism is documented, so it is not treated as a separate international-cooperation operation."
 collection_url: https://www.justice.gov/usao-mdfl/pr/ssndob-marketplace-administrator-pleads-guilty-charges-related-his-operation-series
 created: 2026-04-17
+text_status: parsed
+content_hash: sha256:096fe3976521d523768cd86e245d6fdb0048e428596d1c240ec4b7344e77927a
+word_count: 938
+extraction_date: 2026-04-25
+last_fetcher: doj_fetch
 ---
 ## Source Summary
 

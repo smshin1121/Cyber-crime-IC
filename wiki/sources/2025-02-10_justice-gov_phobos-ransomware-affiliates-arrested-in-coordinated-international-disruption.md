@@ -17,6 +17,11 @@ key_findings:
   - "This domestic-only U.S. follow-on record has been absorbed into the canonical case page [[phobos-ransomware-affiliates-arrested-in-coordinated-international-disruption]]. No visible cross-border mechanism is documented, so it is not treated as a separate international-cooperation operation."
 collection_url: https://www.justice.gov/opa/pr/phobos-ransomware-affiliates-arrested-coordinated-international-disruption
 created: 2026-04-17
+text_status: parsed
+content_hash: sha256:0d4ddd84c4927536d2d61d9805bb06c95d16405056c69ad7c370960fb776f661
+word_count: 1268
+extraction_date: 2026-04-25
+last_fetcher: doj_fetch
 ---
 ## Source Summary
 

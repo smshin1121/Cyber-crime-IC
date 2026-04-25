@@ -17,6 +17,11 @@ key_findings:
   - "This domestic-only U.S. follow-on record has been absorbed into the canonical case page [[us-v-alex-scott-roberts]]. No visible cross-border mechanism is documented, so it is not treated as a separate international-cooperation operation."
 collection_url: https://www.justice.gov/usao-cdca/pr/chatsworth-man-sentenced-more-7-years-prison-cyberstalking-campaigns-against-victims
 created: 2026-04-17
+text_status: parsed
+content_hash: sha256:fc241728a3d8b3df0c3db769c8625e37e96531a6eb033391db347f9bddd3c137
+word_count: 982
+extraction_date: 2026-04-25
+last_fetcher: doj_fetch
 ---
 ## Source Summary
 

@@ -17,6 +17,11 @@ key_findings:
   - "This domestic-only U.S. follow-on record has been absorbed into the canonical case page [[us-v-peck-dark-web]]. No visible cross-border mechanism is documented, so it is not treated as a separate international-cooperation operation."
 collection_url: https://www.justice.gov/usao-sdfl/pr/dark-web-drug-dealer-sentenced-16-years-prison
 created: 2026-04-17
+text_status: parsed
+content_hash: sha256:4c2a9e9a6c184912fabb9bbbbc7f446a0daffa612e048f8bd1617af90ccf712c
+word_count: 842
+extraction_date: 2026-04-25
+last_fetcher: doj_fetch
 ---
 ## Source Summary
 

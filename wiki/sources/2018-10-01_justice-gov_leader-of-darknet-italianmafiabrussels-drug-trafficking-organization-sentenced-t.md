@@ -17,6 +17,11 @@ key_findings:
   - "This domestic-only U.S. follow-on record has been absorbed into the canonical case page [[leader-of-darknet-italianmafiabrussels-drug-trafficking-organization-sentenced-to-11-years-imprisonment]]. No visible cross-border mechanism is documented, so it is not treated as a separate international-cooperation operation."
 collection_url: https://www.justice.gov/usao-co/pr/leader-darknet-italianmafiabrussels-drug-trafficking-organization-sentenced-11-years
 created: 2026-04-17
+text_status: parsed
+content_hash: sha256:f7b5c4c92b41fe10eada17c433ed2c2c0f01d8b94d953d93454259517faad8b6
+word_count: 124
+extraction_date: 2026-04-25
+last_fetcher: doj_fetch
 ---
 ## Source Summary
 

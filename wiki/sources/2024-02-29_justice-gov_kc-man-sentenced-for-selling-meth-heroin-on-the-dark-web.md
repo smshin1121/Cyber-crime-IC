@@ -17,6 +17,11 @@ key_findings:
   - "This domestic-only U.S. follow-on record has been absorbed into the canonical case page [[kc-man-sentenced-for-selling-meth-heroin-on-the-dark-web]]. No visible cross-border mechanism is documented, so it is not treated as a separate international-cooperation operation."
 collection_url: https://www.justice.gov/usao-wdmo/pr/kc-man-sentenced-selling-meth-heroin-dark-web
 created: 2026-04-17
+text_status: parsed
+content_hash: sha256:914c5c77c2180088f5dd1ee16a62909360a7f49b60886e2d41d4188d9a53e4ea
+word_count: 714
+extraction_date: 2026-04-25
+last_fetcher: doj_fetch
 ---
 ## Source Summary
 

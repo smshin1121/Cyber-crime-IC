@@ -17,6 +17,11 @@ key_findings:
   - "This domestic-only U.S. follow-on record has been absorbed into the canonical case page [[sturgis-man-sentenced-to-70-months-for-selling-drugs-on-dark-web]]. No visible cross-border mechanism is documented, so it is not treated as a separate international-cooperation operation."
 collection_url: https://www.justice.gov/usao-wdmi/pr/2025_0108_Miller_E_Sentenced
 created: 2026-04-17
+text_status: parsed
+content_hash: sha256:f486d9b14bf1accfb4addcf9ddce8c567e590eb21a99dc2edf5c929f5e293db1
+word_count: 735
+extraction_date: 2026-04-25
+last_fetcher: doj_fetch
 ---
 ## Source Summary
 

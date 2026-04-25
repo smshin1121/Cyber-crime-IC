@@ -14,10 +14,15 @@ sensitivity: public
 pages_updated:
 
 key_findings:
-  - "Secure .gov websites use HTTPS A lock ( Lock Locked padlock ) or https:// means you’ve safely connected to the .gov website. Share sensitive information only on official, secure websites."
+  - "Secure .gov websites use HTTPS A lock ( Lock Locked padlock ) or https: "// means you’ve safely connected to the .gov website. Share sensitive information only on official, secure websites.\""
 collection_url: https://www.justice.gov/criminal/computer-crime-and-intellectual-property-section-ccips-news
 created: 2026-04-18
 updated: 2026-04-18
+text_status: parsed
+content_hash: sha256:ded7f3bcbb534d56eeea33ca5eeb675f3cfc1eaecf001990b29f1b7940cb0134
+word_count: 588
+extraction_date: 2026-04-25
+last_fetcher: doj_fetch
 ---
 ## Source Summary
 

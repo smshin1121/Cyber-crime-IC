@@ -17,6 +17,11 @@ key_findings:
   - "This domestic-only U.S. follow-on record has been absorbed into the canonical case page [[us-v-conway-man]]. No visible cross-border mechanism is documented, so it is not treated as a separate international-cooperation operation."
 collection_url: https://www.justice.gov/usao-sc/pr/conway-man-sentenced-federal-prison-possessing-child-sexual-abuse-materials
 created: 2026-04-17
+text_status: parsed
+content_hash: sha256:b9e010fd8743887316dde87aeef6581a1ff921fdaa50fe2e9344424e7df702e1
+word_count: 716
+extraction_date: 2026-04-25
+last_fetcher: doj_fetch
 ---
 ## Source Summary
 

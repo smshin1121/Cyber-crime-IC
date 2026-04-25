@@ -17,6 +17,11 @@ key_findings:
   - "This domestic-only U.S. follow-on record has been absorbed into the canonical case page [[ocala-man-sentenced-to-federal-prison-for-attempting-to-meet-a-13-year-old-to-engage-in-sexual-activity]]. No visible cross-border mechanism is documented, so it is not treated as a separate international-cooperation operation."
 collection_url: https://www.justice.gov/usao-mdfl/pr/ocala-man-sentenced-federal-prison-attempting-meet-13-year-old-engage-sexual-activity
 created: 2026-04-17
+text_status: parsed
+content_hash: sha256:37a09cc8c2c9995f99f936eb8d0ef85e15e4abfe5cefb2ed91e56a1570acea62
+word_count: 792
+extraction_date: 2026-04-25
+last_fetcher: doj_fetch
 ---
 ## Source Summary
 

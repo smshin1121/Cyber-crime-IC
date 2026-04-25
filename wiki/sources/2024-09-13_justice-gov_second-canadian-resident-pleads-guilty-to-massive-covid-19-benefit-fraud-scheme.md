@@ -17,6 +17,11 @@ key_findings:
   - "This domestic-only U.S. follow-on record has been absorbed into the canonical case page [[second-canadian-resident-pleads-guilty-to-massive-covid-19-benefit-fraud-scheme]]. No visible cross-border mechanism is documented, so it is not treated as a separate international-cooperation operation."
 collection_url: https://www.justice.gov/usao-wdwa/pr/second-canadian-resident-pleads-guilty-massive-covid-19-benefit-fraud-scheme
 created: 2026-04-17
+text_status: parsed
+content_hash: sha256:81aef53e53441a3c486864314f0cf0832f9c13760103ed99168882abbb530590
+word_count: 1182
+extraction_date: 2026-04-25
+last_fetcher: doj_fetch
 ---
 ## Source Summary
 

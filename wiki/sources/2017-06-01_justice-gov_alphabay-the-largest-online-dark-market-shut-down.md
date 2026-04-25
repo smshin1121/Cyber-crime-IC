@@ -17,6 +17,11 @@ key_findings:
   - "This domestic-only U.S. follow-on record has been absorbed into the canonical case page [[us-v-cazes-alphabay]]. No visible cross-border mechanism is documented, so it is not treated as a separate international-cooperation operation."
 collection_url: https://www.justice.gov/usao-edca/pr/alphabay-largest-online-dark-market-shut-down
 created: 2026-04-17
+text_status: parsed
+content_hash: sha256:8acd9b6a15c9aed23bdfc06417bfc88673c664b625ae30a7832eef031f03c1b2
+word_count: 143
+extraction_date: 2026-04-25
+last_fetcher: doj_fetch
 ---
 ## Source Summary
 

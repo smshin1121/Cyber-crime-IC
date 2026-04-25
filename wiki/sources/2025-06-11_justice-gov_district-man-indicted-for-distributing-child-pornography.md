@@ -17,6 +17,11 @@ key_findings:
   - "This domestic-only U.S. follow-on record has been absorbed into the canonical case page [[us-v-zachary-silas-brandner]]. No visible cross-border mechanism is documented, so it is not treated as a separate international-cooperation operation."
 collection_url: https://www.justice.gov/usao-dc/pr/district-man-indicted-distributing-child-pornography
 created: 2026-04-17
+text_status: parsed
+content_hash: sha256:6b07d52672fc9baec6c36fce3b730bce99309f64d4a8c7c4aec0d563d3651ad9
+word_count: 671
+extraction_date: 2026-04-25
+last_fetcher: doj_fetch
 ---
 ## Source Summary
 

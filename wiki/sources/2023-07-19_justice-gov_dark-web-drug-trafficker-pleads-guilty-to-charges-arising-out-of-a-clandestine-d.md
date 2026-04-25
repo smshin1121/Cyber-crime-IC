@@ -17,6 +17,11 @@ key_findings:
   - "This domestic-only U.S. follow-on record has been absorbed into the canonical case page [[us-v-dark-web-drug-trafficker]]. No visible cross-border mechanism is documented, so it is not treated as a separate international-cooperation operation."
 collection_url: https://www.justice.gov/usao-edmi/pr/dark-web-drug-trafficker-pleads-guilty-charges-arising-out-clandestine-drug-lab
 created: 2026-04-17
+text_status: parsed
+content_hash: sha256:450fcd10378b19365d7c07c097fca16e9768fa75071d815d0c6c9352507ab7a0
+word_count: 949
+extraction_date: 2026-04-25
+last_fetcher: doj_fetch
 ---
 ## Source Summary
 

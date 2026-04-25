@@ -17,6 +17,11 @@ key_findings:
   - "This domestic-only U.S. follow-on record has been absorbed into the canonical case page [[us-v-east-hartford-man]]. No visible cross-border mechanism is documented, so it is not treated as a separate international-cooperation operation."
 collection_url: https://www.justice.gov/usao-ct/pr/east-hartford-man-sentenced-10-years-prison-possessing-child-sex-abuse-material-while
 created: 2026-04-17
+text_status: parsed
+content_hash: sha256:8f1cc1bd7b77070a7caf0a0f2339ad39e2020220829bd8dbdde14fb9959cf964
+word_count: 774
+extraction_date: 2026-04-25
+last_fetcher: doj_fetch
 ---
 ## Source Summary
 

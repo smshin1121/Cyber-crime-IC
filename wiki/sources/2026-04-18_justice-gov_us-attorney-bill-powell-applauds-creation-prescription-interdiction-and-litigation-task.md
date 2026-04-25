@@ -14,10 +14,15 @@ sensitivity: public
 pages_updated:
 
 key_findings:
-  - "Secure .gov websites use HTTPS A lock ( Lock Locked padlock ) or https:// means you’ve safely connected to the .gov website. Share sensitive information only on official, secure websites."
+  - "Secure .gov websites use HTTPS A lock ( Lock Locked padlock ) or https: "// means you’ve safely connected to the .gov website. Share sensitive information only on official, secure websites.\""
 collection_url: https://www.justice.gov/usao-ndwv/pr/us-attorney-bill-powell-applauds-creation-prescription-interdiction-and-litigation-task
 created: 2026-04-18
 updated: 2026-04-18
+text_status: parsed
+content_hash: sha256:454ad6330a51929444c4e98ec1692f69eec2e5ca87f21372fb947602fd4517b2
+word_count: 1693
+extraction_date: 2026-04-25
+last_fetcher: doj_fetch
 ---
 ## Source Summary
 

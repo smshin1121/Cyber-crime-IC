@@ -17,6 +17,11 @@ key_findings:
   - "This domestic-only U.S. follow-on record has been absorbed into the canonical case page [[us-v-for-receipt-of]]. No visible cross-border mechanism is documented, so it is not treated as a separate international-cooperation operation."
 collection_url: https://www.justice.gov/usao-mdfl/pr/federal-correctional-officer-indicted-receipt-bribe-public-official
 created: 2026-04-17
+text_status: parsed
+content_hash: sha256:262c167c81084c0ecafe715c89f9e6d037d3e49d0c0afc6c6f4ed44107b7c380
+word_count: 690
+extraction_date: 2026-04-25
+last_fetcher: doj_fetch
 ---
 ## Source Summary
 

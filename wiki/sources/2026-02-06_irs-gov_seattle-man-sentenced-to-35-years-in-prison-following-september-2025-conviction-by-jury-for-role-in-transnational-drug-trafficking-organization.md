@@ -3,7 +3,7 @@ type: source
 title: "Seattle man sentenced to 35 years in prison following September 2025 conviction by jury for role in transnational drug trafficking organization"
 source_type: government
 publisher: "Internal Revenue Service Criminal Investigation"
-author: "IRS-CI"
+author: IRS-CI
 publish_date: 2026-02-06
 ingest_date: 2026-04-25
 language: en
@@ -17,6 +17,12 @@ key_findings:
   - "The release confirmed the Seattle branch's role within a transnational organization prosecuted in Pennsylvania."
 collection_url: https://www.irs.gov/compliance/criminal-investigation/seattle-man-sentenced-to-35-years-in-prison-following-september-2025-conviction-by-jury-for-role-in-transnational-drug-trafficking-organization
 created: 2026-04-25
+raw_path: raw/government-reports/2026-02-06_irs-gov_seattle-man-sentenced-to-35-years-in-prison-following-september-2025-conviction-by-jury-for-role-in-transnational-drug-trafficking-organization.md
+text_status: parsed
+content_hash: sha256:f2dcff3005bfd41adf3109fbb03c370550d8047808413a7170221b917314e4d1
+word_count: 411
+extraction_date: 2026-04-25
+last_fetcher: urllib
 ---
 ## Source Summary
 

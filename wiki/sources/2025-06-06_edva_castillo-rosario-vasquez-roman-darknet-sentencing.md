@@ -14,13 +14,18 @@ sensitivity: public
 pages_updated:
 
 key_findings:
-  - "Secure .gov websites use HTTPS A lock ( Lock Locked padlock ) or https:// means you’ve safely connected to the .gov website. Share sensitive information only on official, secure websites."
+  - "Secure .gov websites use HTTPS A lock ( Lock Locked padlock ) or https: "// means you’ve safely connected to the .gov website. Share sensitive information only on official, secure websites.\""
 collection_url: https://www.justice.gov/usao-edva/pr/four-men-sentenced-conspiracy-traffic-counterfeit-adderall-darknet-marketplace-sites
 created: 2026-04-17
 defendant_names:
   - "Montrio Santos Neville"
   - "Brehon Kanell Davis"
 updated: 2026-04-18
+text_status: parsed
+content_hash: sha256:60eb693accb32493e5eb59cfc9fd5ba23c29681666f36bc0cac28d9aa7e2679a
+word_count: 157
+extraction_date: 2026-04-25
+last_fetcher: doj_fetch
 ---
 ## Source Summary
 

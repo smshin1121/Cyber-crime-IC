@@ -3,7 +3,7 @@ type: source
 title: "Former Marin County Resident Convicted For Using Prisoner Identities And Filing Fraudulent Tax Returns"
 source_type: press-release
 publisher: "U.S. Attorney's Office, Northern District of California"
-author: "USAO-NDCA"
+author: USAO-NDCA
 publish_date: 2017-01-24
 ingest_date: 2026-04-25
 language: en
@@ -16,6 +16,12 @@ key_findings:
   - "Conviction-stage USAO-NDCA PR; tied to same defendant (Webber)"
 collection_url: https://www.justice.gov/usao-ndca/pr/former-marin-county-resident-convicted-using-prisoner-identities-and-filing-fraudulent
 created: 2026-04-25
+raw_path: raw/press-releases/2017-01-24_doj-ndca_former-marin-county-resident-convicted-using-prisoner-identities.md
+text_status: parsed
+content_hash: sha256:479fa4757e12375aa64488ebe317bfcc9f73891cf88da595f158ecbb5606c576
+word_count: 1073
+extraction_date: 2026-04-25
+last_fetcher: doj_fetch
 ---
 ## Source Summary
 

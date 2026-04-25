@@ -17,6 +17,12 @@ key_findings:
   - "Tijuana, Mexico-based ringleader directed Seattle distribution"
 collection_url: https://www.ice.gov/news/releases/members-violent-seattle-area-drug-trafficking-organization-indicted
 created: 2026-04-25
+raw_path: raw/press-releases/2016-08-11_ice_members-violent-seattle-area-drug-trafficking-organization-indicted.md
+text_status: parsed
+content_hash: sha256:fe63a1e2e3bf1477922a7d064e0c335d445d581de781fa79bd90382bd7b0e0b4
+word_count: 1102
+extraction_date: 2026-04-25
+last_fetcher: urllib
 ---
 ## Source Summary
 

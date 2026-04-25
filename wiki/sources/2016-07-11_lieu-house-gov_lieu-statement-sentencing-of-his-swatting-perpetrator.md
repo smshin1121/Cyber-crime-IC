@@ -17,6 +17,12 @@ key_findings:
   - "Rep. Lieu was a swatting victim of Islam"
 collection_url: https://lieu.house.gov/media-center/press-releases/congressman-lieu-statement-sentencing-his-swatting-perpetrator
 created: 2026-04-25
+raw_path: raw/press-releases/2016-07-11_lieu-house-gov_lieu-statement-on-sentencing-of-his-swatting-perpetrator.md
+text_status: parsed
+content_hash: sha256:cee8b40ac3bc9cbf7e7f3cfae76017cf0cec954d79e11cf7aa35119b60e388de
+word_count: 515
+extraction_date: 2026-04-25
+last_fetcher: urllib
 ---
 ## Source Summary
 

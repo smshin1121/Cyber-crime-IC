@@ -64,11 +64,21 @@ sources:
   - "[[2026-04-18_justice-gov_previously-convicted-felon-sentenced-more-26-years-federal-prison-possessing-firearm]]"
 summary: "This domestic-only U.S. follow-on record has been absorbed into the canonical case page [[previously-convicted-felon-sentenced-to-more-than-26-years-in-federal-prison-for-possessing-a-firearm-in-conne]]. No visible cross-border mechanism is documented, so it is not treated as a separate international-cooperation operation."
 created: 2026-04-18
-updated: 2026-04-22
+updated: 2026-04-25
 ---
 ## Summary
 
 This domestic-only U.S. follow-on record has been absorbed into the canonical case page [[previously-convicted-felon-sentenced-to-more-than-26-years-in-federal-prison-for-possessing-a-firearm-in-conne]]. No visible cross-border mechanism is documented, so it is not treated as a separate international-cooperation operation.
+
+> [!info] Source enrichment — single-source justification (2026-04-25)
+> Searched for additional credible sources covering this defendant (Ryan E. Dales, Baltimore) / case:
+> - DOJ follow-up press releases (sentencing/conviction): trial-conviction PR exists but it is the same DOJ District of Maryland office and same case thread, not an independent source
+> - Parallel federal agency press releases (FBI/DEA/IRS-CI/ICE/HSI): not found
+> - Court records (CourtListener / PACER / midpage / justia): not found in public-narrative form
+> - Local press coverage in Baltimore (Sun, Fox Baltimore, WBAL, WJZ): not found beyond republished agency feed
+> - Specialized trade press: not applicable (no cyber/IC element — domestic firearm + fentanyl + UI fraud)
+>
+> This appears to be a single-press-release domestic action with no independent secondary coverage. `source_count: 1` is retained per LESSON L19 (do not assert sources that do not exist).
 
 ## Canonical Record
 

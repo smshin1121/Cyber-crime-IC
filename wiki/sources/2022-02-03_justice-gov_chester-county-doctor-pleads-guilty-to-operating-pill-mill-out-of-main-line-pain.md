@@ -17,6 +17,11 @@ key_findings:
   - "This domestic-only U.S. follow-on record has been absorbed into the canonical case page [[us-v-yutong-zhang]]. No visible cross-border mechanism is documented, so it is not treated as a separate international-cooperation operation."
 collection_url: https://www.justice.gov/usao-edpa/pr/chester-county-doctor-pleads-guilty-operating-pill-mill-out-main-line-pain-clinic
 created: 2026-04-17
+text_status: parsed
+content_hash: sha256:c6f8bce783aa94e3d599d2c37025dbd44c16c34d0761be9107776d07f1cb18ad
+word_count: 801
+extraction_date: 2026-04-25
+last_fetcher: doj_fetch
 ---
 ## Source Summary
 

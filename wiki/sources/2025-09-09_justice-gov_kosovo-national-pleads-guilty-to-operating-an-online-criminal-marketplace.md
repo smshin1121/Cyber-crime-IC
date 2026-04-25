@@ -17,6 +17,11 @@ key_findings:
   - "This domestic-only U.S. follow-on record has been absorbed into the canonical case page [[kosovo-national-pleads-guilty-to-operating-an-online-criminal-marketplace]]. No visible cross-border mechanism is documented, so it is not treated as a separate international-cooperation operation."
 collection_url: https://www.justice.gov/usao-mdfl/pr/kosovo-national-pleads-guilty-operating-online-criminal-marketplace
 created: 2026-04-17
+text_status: parsed
+content_hash: sha256:bb2169e395df9926705e2502722465f67d81137de719420c4f406f90034b3068
+word_count: 712
+extraction_date: 2026-04-25
+last_fetcher: doj_fetch
 ---
 ## Source Summary
 

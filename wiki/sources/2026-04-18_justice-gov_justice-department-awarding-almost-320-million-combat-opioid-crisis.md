@@ -14,10 +14,15 @@ sensitivity: public
 pages_updated:
 
 key_findings:
-  - "Secure .gov websites use HTTPS A lock ( Lock Locked padlock ) or https:// means you’ve safely connected to the .gov website. Share sensitive information only on official, secure websites."
+  - "Secure .gov websites use HTTPS A lock ( Lock Locked padlock ) or https: "// means you’ve safely connected to the .gov website. Share sensitive information only on official, secure websites.\""
 collection_url: https://www.justice.gov/usao-edla/pr/justice-department-awarding-almost-320-million-combat-opioid-crisis
 created: 2026-04-18
 updated: 2026-04-18
+text_status: parsed
+content_hash: sha256:837d1cea42a608b769ff5fa8ac91a8a13a9c78d710140b44b3854c6cf6535e46
+word_count: 1054
+extraction_date: 2026-04-25
+last_fetcher: doj_fetch
 ---
 ## Source Summary
 

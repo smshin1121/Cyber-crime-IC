@@ -14,12 +14,17 @@ sensitivity: public
 pages_updated:
 
 key_findings:
-  - "Secure .gov websites use HTTPS A lock ( Lock Locked padlock ) or https:// means you’ve safely connected to the .gov website. Share sensitive information only on official, secure websites."
+  - "Secure .gov websites use HTTPS A lock ( Lock Locked padlock ) or https: "// means you’ve safely connected to the .gov website. Share sensitive information only on official, secure websites.\""
 collection_url: https://www.justice.gov/usao-wdpa/pr/whitehall-borough-resident-pleads-guilty-11-counts-cyberstalking-interstate-stalking
 created: 2026-04-18
 defendant_names:
   - "Brett Michael Dadig"
 updated: 2026-04-18
+text_status: parsed
+content_hash: sha256:578c6629f90c6300b9e5282d2655fed26ed70e0149e7d9ca5c5ce23ed126afb3
+word_count: 818
+extraction_date: 2026-04-25
+last_fetcher: doj_fetch
 ---
 ## Source Summary
 

@@ -12,11 +12,16 @@ reliability: medium
 credibility: confirmed
 sensitivity: public
 pages_updated:
-  []
+
 key_findings:
   - "Bulgaria deposited its instrument of ratification of the [[budapest-convention|Budapest Convention on Cybercrime]] on **7 April 2005**, entering into force 1 August 2005 [1][2]. As an EU member state (since 2007), Bulgaria implements EU cybercrime-related directives (NIS, NIS2, Attacks on Information Systems Directive) and participates in EU cooperation frameworks including the European Investigation Order, Europol, and Eurojust."
 collection_url: https://www.coe.int/en/web/octopus/-/bulgaria
 created: 2026-04-17
+text_status: parsed
+content_hash: sha256:dd27a0be1a912aca490b56172f71a6fe53574af1090be305c5038710d211651e
+word_count: 1070
+extraction_date: 2026-04-25
+last_fetcher: urllib
 ---
 ## Source Summary
 

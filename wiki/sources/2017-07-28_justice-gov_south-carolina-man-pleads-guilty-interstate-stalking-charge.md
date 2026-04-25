@@ -3,7 +3,7 @@ type: source
 title: "South Carolina Man Pleads Guilty to Interstate Stalking Charge"
 source_type: press-release
 publisher: "US DOJ USAO-WDPA"
-author: "USAO-WDPA"
+author: USAO-WDPA
 publish_date: 2017-07-28
 ingest_date: 2026-04-25
 language: en
@@ -18,6 +18,12 @@ key_findings:
   - "Direct fetch may hit Akamai 403; URL existence verified via search engine indexing."
 collection_url: https://www.justice.gov/usao-wdpa/pr/south-carolina-man-pleads-guilty-interstate-stalking-charge
 created: 2026-04-25
+raw_path: raw/press-releases/2017-07-28_justice-gov_south-carolina-man-pleads-guilty-interstate-stalking-charge.md
+text_status: parsed
+content_hash: sha256:de160c1a38e23b90ae850b5223c44897a0a739f514fb5a3a176c8231efe0268e
+word_count: 555
+extraction_date: 2026-04-25
+last_fetcher: doj_fetch
 ---
 ## Source Summary
 

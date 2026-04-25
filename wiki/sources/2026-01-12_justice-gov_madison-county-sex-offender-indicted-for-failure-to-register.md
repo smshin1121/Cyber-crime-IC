@@ -17,6 +17,11 @@ key_findings:
   - "This domestic-only U.S. follow-on record has been absorbed into the canonical case page [[madison-county-sex-offender-indicted-for-failure-to-register]]. No visible cross-border mechanism is documented, so it is not treated as a separate international-cooperation operation."
 collection_url: https://www.justice.gov/usao-ndfl/pr/madison-county-sex-offender-indicted-failure-register
 created: 2026-04-17
+text_status: parsed
+content_hash: sha256:8a837859c7576bb36e3cedda785e32b20921647cc30d721274f5d47fb474a1c9
+word_count: 752
+extraction_date: 2026-04-25
+last_fetcher: doj_fetch
 ---
 ## Source Summary
 

@@ -17,6 +17,12 @@ key_findings:
   - "The notice again identified the NCIDE task force and the dark web distribution mechanics tied to the conspiracy."
 collection_url: https://www.uspsoig.gov/investigative-work/investigative-news-releases/arizona-man-sentenced-over-11-years-prison
 created: 2026-04-25
+raw_path: raw/press-releases/2022-02-18_uspsoig-gov_arizona-man-sentenced-11-years-conspiracy-narcotics-dark-web.md
+text_status: parsed
+content_hash: sha256:f3ba3b996328fe2e05d9bc75c6349c2804477cd13bd695530f3b8d0a14e4486e
+word_count: 365
+extraction_date: 2026-04-25
+last_fetcher: urllib
 ---
 ## Source Summary
 

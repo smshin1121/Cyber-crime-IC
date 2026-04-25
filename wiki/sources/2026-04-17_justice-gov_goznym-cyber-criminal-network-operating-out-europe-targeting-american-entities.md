@@ -14,10 +14,15 @@ sensitivity: public
 pages_updated:
 
 key_findings:
-  - "Secure .gov websites use HTTPS A lock ( Lock Locked padlock ) or https:// means you’ve safely connected to the .gov website. Share sensitive information only on official, secure websites."
+  - "Secure .gov websites use HTTPS A lock ( Lock Locked padlock ) or https: "// means you’ve safely connected to the .gov website. Share sensitive information only on official, secure websites.\""
 collection_url: https://www.justice.gov/usao-wdpa/pr/goznym-cyber-criminal-network-operating-out-europe-targeting-american-entities
 created: 2026-04-17
 updated: 2026-04-18
+text_status: parsed
+content_hash: sha256:942baafd56ae738bf61ceededd70fb1e3d5805de79f0e6e03730cb17cd434b85
+word_count: 2115
+extraction_date: 2026-04-25
+last_fetcher: doj_fetch
 ---
 ## Source Summary
 

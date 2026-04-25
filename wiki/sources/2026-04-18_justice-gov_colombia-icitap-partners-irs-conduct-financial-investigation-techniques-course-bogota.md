@@ -14,10 +14,15 @@ sensitivity: public
 pages_updated:
 
 key_findings:
-  - "Secure .gov websites use HTTPS A lock ( Lock Locked padlock ) or https:// means you’ve safely connected to the .gov website. Share sensitive information only on official, secure websites."
+  - "Secure .gov websites use HTTPS A lock ( Lock Locked padlock ) or https: "// means you’ve safely connected to the .gov website. Share sensitive information only on official, secure websites.\""
 collection_url: https://www.justice.gov/criminal/criminal-icitap/blog/colombia-icitap-partners-irs-conduct-financial-investigation-techniques-course-bogota
 created: 2026-04-18
 updated: 2026-04-18
+text_status: parsed
+content_hash: sha256:2c79aecef2b90d4c4e9ff618474784df9b2cf93dd0cfb3c5668ece6c66e89964
+word_count: 724
+extraction_date: 2026-04-25
+last_fetcher: doj_fetch
 ---
 ## Source Summary
 

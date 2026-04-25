@@ -17,6 +17,12 @@ key_findings:
   - "Lead defendant sourced precursors and pill press parts from China; sales conducted on the darknet, distribution by U.S. Mail (>1,300 packages between Feb 2023-Feb 2024)."
 collection_url: https://www.dea.gov/press-releases/2024/09/24/seven-charged-after-federal-investigation-disrupts-massive-counterfeit
 created: 2026-04-25
+raw_path: raw/press-releases/2024-09-24_dea_seven-charged-after-federal-investigation-disrupts-massive-counterfeit-pill.md
+text_status: parsed
+content_hash: sha256:c630346b7dc0af91d367d1309636b9769ce98db82974ddcfee0b33d00e7e2f3a
+word_count: 6254
+extraction_date: 2026-04-25
+last_fetcher: jina
 ---
 ## Source Summary
 

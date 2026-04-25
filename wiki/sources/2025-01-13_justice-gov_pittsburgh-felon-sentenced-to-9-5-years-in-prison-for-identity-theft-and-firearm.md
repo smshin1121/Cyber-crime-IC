@@ -17,6 +17,11 @@ key_findings:
   - "This domestic-only U.S. follow-on record has been absorbed into the canonical case page [[pittsburgh-felon-sentenced-to-9-5-years-in-prison-for-identity-theft-and-firearms-crimes]]. No visible cross-border mechanism is documented, so it is not treated as a separate international-cooperation operation."
 collection_url: https://www.justice.gov/usao-wdpa/pr/pittsburgh-felon-sentenced-95-years-prison-identity-theft-and-firearms-crimes
 created: 2026-04-17
+text_status: parsed
+content_hash: sha256:a1faa5702c0cda063171bfc1a613223215c23542ce1bda9c358fc81ddfa5e282
+word_count: 654
+extraction_date: 2026-04-25
+last_fetcher: doj_fetch
 ---
 ## Source Summary
 

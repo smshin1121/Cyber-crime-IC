@@ -17,6 +17,11 @@ key_findings:
   - "This domestic-only U.S. follow-on record has been absorbed into the canonical case page [[monroeville-man-sentenced-to-24-months-for-purchasing-hundreds-of-stolen-log-in-credentials-off-the-darkweb]]. No visible cross-border mechanism is documented, so it is not treated as a separate international-cooperation operation."
 collection_url: https://www.justice.gov/usao-sdal/pr/monroeville-man-sentenced-24-months-purchasing-hundreds-stolen-log-credentials-darkweb
 created: 2026-04-17
+text_status: parsed
+content_hash: sha256:2b47913b5d45ad6bbe5b7aa390fe120f5b31a317b68ec35d1ea51285cbb4a39c
+word_count: 665
+extraction_date: 2026-04-25
+last_fetcher: doj_fetch
 ---
 ## Source Summary
 

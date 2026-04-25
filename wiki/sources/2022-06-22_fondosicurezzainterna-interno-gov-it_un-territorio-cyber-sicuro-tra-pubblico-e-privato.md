@@ -21,6 +21,12 @@ key_findings:
   - "The page says CNAIPIC handled 60 assistance requests through the G7 High Tech Crime 24/7 network in 2021."
   - "The source links CNAIPIC to SINC3 and regional cyber-response capacity, showing that the unit is both operational and coordination-oriented."
 created: 2026-04-18
+raw_path: raw/government-reports/2022-06-22_fondosicurezzainterna-interno-gov-it_un-territorio-cyber-sicuro-tra-pubblico-e-privato.md
+text_status: parsed
+content_hash: sha256:71804d4fe51b33a063ae7a4667942c0f81165a4864b9e523fd3365ca5bb2621f
+word_count: 704
+extraction_date: 2026-04-25
+last_fetcher: urllib
 ---
 ## Source Summary
 

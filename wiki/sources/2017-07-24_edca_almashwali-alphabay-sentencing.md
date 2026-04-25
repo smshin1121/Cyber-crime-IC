@@ -14,7 +14,7 @@ sensitivity: public
 pages_updated:
   - alphabay-takedown
 key_findings:
-  - "Secure .gov websites use HTTPS A lock ( Lock Locked padlock ) or https:// means you’ve safely connected to the .gov website. Share sensitive information only on official, secure websites."
+  - "Secure .gov websites use HTTPS A lock ( Lock Locked padlock ) or https: "// means you’ve safely connected to the .gov website. Share sensitive information only on official, secure websites.\""
 collection_url: https://www.justice.gov/usao-edca/pr/heroin-and-cocaine-vendor-alphabay-sentenced-65-years-prison
 created: 2026-04-17
 defendant_names:
@@ -24,6 +24,11 @@ defendant_names:
   - "Gilberto Arteaga"
   - "Delanious Ward"
 updated: 2026-04-18
+text_status: parsed
+content_hash: sha256:f3ce8449199c9dba03b63a76d3479517c2576b219a995b62f78f5297916498cb
+word_count: 148
+extraction_date: 2026-04-25
+last_fetcher: doj_fetch
 ---
 ## Source Summary
 

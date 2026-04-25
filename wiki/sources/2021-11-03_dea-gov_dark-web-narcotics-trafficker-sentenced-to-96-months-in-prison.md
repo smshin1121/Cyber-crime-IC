@@ -17,6 +17,11 @@ key_findings:
   - "This page captures the defendant-specific enforcement sequence against Joanna De Alba, also known as `RaptureReloaded`, for selling narcotics over the Wall Street Market dark-web marketplace in exchange for cryptocurrency. The public record shows a progression from indictment in January 2020 to guilty plea in April 2021 and sentencing in November 2021."
 collection_url: https://www.dea.gov/press-releases/2021/11/03/dark-web-narcotics-trafficker-sentenced-96-months-prison
 created: 2026-04-17
+text_status: parsed
+content_hash: sha256:d850ec3d8ca472ea448f4697dc53b1228e85727c67299dcff861363025f0f412
+word_count: 5527
+extraction_date: 2026-04-25
+last_fetcher: jina
 ---
 ## Source Summary
 

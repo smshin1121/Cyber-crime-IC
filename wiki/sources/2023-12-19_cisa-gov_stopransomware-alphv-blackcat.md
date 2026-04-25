@@ -21,6 +21,12 @@ key_findings:
   - "The advisory confirms that December 2023 action occurred in the context of a broader ransomware threat with substantial U.S. victimization."
 created: 2026-04-18
 updated: 2026-04-18
+raw_path: raw/press-releases/2023-12-19_cisa-gov_stopransomware-alphv-blackcat.md
+text_status: parsed
+content_hash: sha256:0675c41b0bc5e300054583c54d4bd5dec812680a564cf32e72a44c2b7e6d3d02
+word_count: 167
+extraction_date: 2026-04-25
+last_fetcher: urllib
 ---
 ## Source Summary
 

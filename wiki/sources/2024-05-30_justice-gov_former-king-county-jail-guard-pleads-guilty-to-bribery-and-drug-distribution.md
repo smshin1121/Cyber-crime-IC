@@ -17,6 +17,11 @@ key_findings:
   - "This domestic-only U.S. follow-on record has been absorbed into the canonical case page [[us-v-mosses-ramos-michael-anthony-barquet-neca-silvestre-katrina-cazares-and-kayara-zepeda]]. No visible cross-border mechanism is documented, so it is not treated as a separate international-cooperation operation."
 collection_url: https://www.justice.gov/usao-wdwa/pr/former-king-county-jail-guard-pleads-guilty-bribery-and-drug-distribution
 created: 2026-04-17
+text_status: parsed
+content_hash: sha256:5fb1f940fce7075dd984ca3162176d32f143ea804f1ac76ad72a723558cdf75c
+word_count: 777
+extraction_date: 2026-04-25
+last_fetcher: doj_fetch
 ---
 ## Source Summary
 

@@ -17,6 +17,11 @@ key_findings:
   - "This domestic-only U.S. follow-on record has been absorbed into the canonical case page [[sonoma-county-resident-sentenced-to-30-months-in-prison-for-passport-fraud-and-identity-theft]]. No visible cross-border mechanism is documented, so it is not treated as a separate international-cooperation operation."
 collection_url: https://www.justice.gov/usao-ndca/pr/sonoma-county-resident-sentenced-30-months-prison-passport-fraud-and-identity-theft
 created: 2026-04-17
+text_status: parsed
+content_hash: sha256:171ac0fe63eadec999ecadb45eea8ee88b5b653e3f6d1fc85b76d9b13730d4a2
+word_count: 840
+extraction_date: 2026-04-25
+last_fetcher: doj_fetch
 ---
 ## Source Summary
 

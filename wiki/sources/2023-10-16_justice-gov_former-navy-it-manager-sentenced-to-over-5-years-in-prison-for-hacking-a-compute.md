@@ -17,6 +17,11 @@ key_findings:
   - "This domestic-only U.S. follow-on record has been absorbed into the canonical case page [[us-v-manager-marquis-hooper]]. No visible cross-border mechanism is documented, so it is not treated as a separate international-cooperation operation."
 collection_url: https://www.justice.gov/usao-edca/pr/former-navy-it-manager-sentenced-over-5-years-prison-hacking-computer-database
 created: 2026-04-17
+text_status: parsed
+content_hash: sha256:9f3dbd6357c37a02ba0536a19dfa075dcda128ab0c86e4899e19da7614849a2c
+word_count: 167
+extraction_date: 2026-04-25
+last_fetcher: doj_fetch
 ---
 ## Source Summary
 

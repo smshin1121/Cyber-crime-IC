@@ -17,6 +17,11 @@ key_findings:
   - "The Dekhtyarchuk indictment was a defendant-focused follow-on operation tied to the alleged operator of Marketplace A, a criminal marketplace for stolen credentials and related cybercrime products. DOJ announced the case on 2022-03-16 after Igor Dekhtyarchuk had been extradited from [[latvia|Latvia]] to the [[united-states|United States]]."
 collection_url: https://www.justice.gov/usao-edtx/pr/russian-national-indicted-east-texas-cyber-hacking-enterprise
 created: 2026-04-17
+text_status: parsed
+content_hash: sha256:fb86a7087690c5241c26972212e9aaf3a07d782a072cb3894603cf069a0ab0af
+word_count: 160
+extraction_date: 2026-04-25
+last_fetcher: doj_fetch
 ---
 ## Source Summary
 

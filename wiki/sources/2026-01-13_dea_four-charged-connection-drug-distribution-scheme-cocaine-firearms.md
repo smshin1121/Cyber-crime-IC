@@ -17,6 +17,12 @@ key_findings:
   - "Mexican national lead defendant; ICE/Border Patrol involvement"
 collection_url: https://www.dea.gov/press-releases/2026/01/13/four-charged-connection-drug-distribution-scheme-involving-cocaine-and
 created: 2026-04-25
+raw_path: raw/press-releases/2026-01-13_dea_four-charged-connection-drug-distribution-scheme-cocaine-firearms.md
+text_status: parsed
+content_hash: sha256:63b947eeafa885ca98ed5547406b2b0b172e0aba388171f75112d43f5f9ceffc
+word_count: 732
+extraction_date: 2026-04-25
+last_fetcher: wayback+urllib
 ---
 ## Source Summary
 

@@ -17,6 +17,11 @@ key_findings:
   - "This domestic-only U.S. follow-on record has been absorbed into the canonical case page [[texas-business-executive-sentenced-to-prison-for-illegally-selling-oxycodone-on-silk-road]]. No visible cross-border mechanism is documented, so it is not treated as a separate international-cooperation operation."
 collection_url: https://www.justice.gov/usao-mdfl/pr/texas-business-executive-sentenced-prison-illegally-selling-oxycodone-silk-road
 created: 2026-04-17
+text_status: parsed
+content_hash: sha256:c44883dd67ee1ef6deec2ddca3f80440ca9790b0b732340f09bd84342c85647a
+word_count: 771
+extraction_date: 2026-04-25
+last_fetcher: doj_fetch
 ---
 ## Source Summary
 

@@ -17,6 +17,11 @@ key_findings:
   - "This domestic-only U.S. follow-on record has been absorbed into the canonical case page [[russian-national-charged-with-decade-long-series-of-hacking-and-bank-fraud-offenses-resulting-in-tens-of-milli-2]]. No visible cross-border mechanism is documented, so it is not treated as a separate international-cooperation operation."
 collection_url: https://www.justice.gov/archives/opa/pr/russian-national-charged-decade-long-series-hacking-and-bank-fraud-offenses-resulting-tens
 created: 2026-04-17
+text_status: parsed
+content_hash: sha256:80c3a88f103c72023256a637234b69a45a75bf8d7ffd7a2bd9005ff547f0a617
+word_count: 2321
+extraction_date: 2026-04-25
+last_fetcher: doj_fetch
 ---
 ## Source Summary
 

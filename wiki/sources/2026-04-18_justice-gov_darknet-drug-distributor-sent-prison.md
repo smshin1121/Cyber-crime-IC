@@ -14,10 +14,15 @@ sensitivity: public
 pages_updated:
 
 key_findings:
-  - "Secure .gov websites use HTTPS A lock ( Lock Locked padlock ) or https:// means you’ve safely connected to the .gov website. Share sensitive information only on official, secure websites."
+  - "Secure .gov websites use HTTPS A lock ( Lock Locked padlock ) or https: "// means you’ve safely connected to the .gov website. Share sensitive information only on official, secure websites.\""
 collection_url: https://www.justice.gov/usao-sdtx/pr/darknet-drug-distributor-sent-prison
 created: 2026-04-18
 updated: 2026-04-18
+text_status: parsed
+content_hash: sha256:fb5fc70f5f9908d6e2ac1b25bdea8e3138ae4ec71c78372ee9a0ca45e8b5e067
+word_count: 156
+extraction_date: 2026-04-25
+last_fetcher: doj_fetch
 ---
 ## Source Summary
 

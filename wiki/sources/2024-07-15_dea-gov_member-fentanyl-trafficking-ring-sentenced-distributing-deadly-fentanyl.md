@@ -2,7 +2,7 @@
 type: source
 title: "Member of Fentanyl Trafficking Ring is Sentenced for Distributing Deadly Fentanyl Pills to Members of the Lummi Nation"
 source_type: press-release
-publisher: "DEA"
+publisher: DEA
 author: ""
 publish_date: 2024-07-15
 ingest_date: 2026-04-25
@@ -19,6 +19,12 @@ key_findings:
   - "The release tied the sentencing back to the six-defendant Whatcom County fentanyl conspiracy and identified related defendants and case milestones."
 collection_url: https://www.dea.gov/press-releases/2024/07/15/member-fentanyl-trafficking-ring-sentenced-distributing-deadly-fentanyl
 created: 2026-04-25
+raw_path: raw/press-releases/2024-07-15_dea_member-fentanyl-trafficking-ring-sentenced-distributing-deadly-fentanyl.md
+text_status: parsed
+content_hash: sha256:858485c2c71ab8dff0768d046401369fb4945d65420a5e1918c987c19f45473f
+word_count: 5521
+extraction_date: 2026-04-25
+last_fetcher: jina
 ---
 ## Source Summary
 

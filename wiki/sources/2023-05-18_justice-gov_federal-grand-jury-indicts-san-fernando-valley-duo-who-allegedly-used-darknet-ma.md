@@ -17,6 +17,11 @@ key_findings:
   - "This domestic-only U.S. follow-on record has been absorbed into the canonical case page [[us-v-ciara-clutario]]. No visible cross-border mechanism is documented, so it is not treated as a separate international-cooperation operation."
 collection_url: https://www.justice.gov/usao-cdca/pr/federal-grand-jury-indicts-san-fernando-valley-duo-who-allegedly-used-darknet
 created: 2026-04-17
+text_status: parsed
+content_hash: sha256:8c9bcbf0500c12bf96585f1a21e0948209601216e7f1c8ce247685c2079afe37
+word_count: 1108
+extraction_date: 2026-04-25
+last_fetcher: doj_fetch
 ---
 ## Source Summary
 

@@ -14,12 +14,17 @@ sensitivity: public
 pages_updated:
 
 key_findings:
-  - "Secure .gov websites use HTTPS A lock ( Lock Locked padlock ) or https:// means you’ve safely connected to the .gov website. Share sensitive information only on official, secure websites."
+  - "Secure .gov websites use HTTPS A lock ( Lock Locked padlock ) or https: "// means you’ve safely connected to the .gov website. Share sensitive information only on official, secure websites.\""
 collection_url: https://www.justice.gov/usao-edmo/pr/new-york-man-sentenced-54-months-prison-selling-counterfeit-xanax-dark-web
 created: 2026-04-17
 defendant_names:
   - "New York Man"
 updated: 2026-04-18
+text_status: parsed
+content_hash: sha256:e6f80bc83ceb1494b90738bdc08df95f0fadac2d602a8f14855510ceb2176b85
+word_count: 177
+extraction_date: 2026-04-25
+last_fetcher: doj_fetch
 ---
 ## Source Summary
 

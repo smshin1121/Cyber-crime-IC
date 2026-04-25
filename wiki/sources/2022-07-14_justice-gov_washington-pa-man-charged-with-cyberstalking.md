@@ -17,6 +17,11 @@ key_findings:
   - "This domestic-only U.S. follow-on record has been absorbed into the canonical case page [[washington-pa-man-charged-with-cyberstalking]]. No visible cross-border mechanism is documented, so it is not treated as a separate international-cooperation operation."
 collection_url: https://www.justice.gov/usao-wdpa/pr/washington-pa-man-charged-cyberstalking
 created: 2026-04-17
+text_status: parsed
+content_hash: sha256:43216b5909743ec9e9b18521ff8e4c3df108c540a5036977ecff36988c33d04b
+word_count: 684
+extraction_date: 2026-04-25
+last_fetcher: doj_fetch
 ---
 ## Source Summary
 

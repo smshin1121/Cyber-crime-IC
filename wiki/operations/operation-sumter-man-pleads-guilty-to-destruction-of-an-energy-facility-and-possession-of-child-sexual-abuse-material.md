@@ -46,25 +46,29 @@ results:
   other:
     - "Defendant-specific follow-on action derived from [[sumter-man-pleads-guilty-to-destruction-of-an-energy-facility-and-possession-of-child-sexual-abuse-material]]"
 edges:
-  []
+
 credibility_index: 4.0
 source_tier: 1
 missing_fields:
-  []
+
 related_cases:
   - "[[sumter-man-pleads-guilty-to-destruction-of-an-energy-facility-and-possession-of-child-sexual-abuse-material]]"
 related_operations:
-  []
+
 challenges_encountered:
-  []
+
 lessons_learned:
-  []
-source_count: 1
+
+source_count: 5
 sources:
   - "[[2026-04-18_justice-gov_sumter-man-pleads-guilty-destruction-energy-facility-and-possession-child-sexual-abuse]]"
+  - "[[2024-12-09_legalnewsline_sumter-man-pleads-guilty-damaging-energy-facility-possessing-illegal-material]]"
+  - "[[2024-12-10_theitem_sumter-man-faces-20-years-after-guilty-plea-destruction-energy-facility]]"
+  - "[[2024-12-11_wistv_sumter-man-pleads-guilty-after-duke-energy-electrical-equipment-shot-multiple-times]]"
+  - "[[2025-08-18_wistv_sumter-man-sentenced-federal-prison-shooting-energy-equipment-possessing-child-sex-abuse-material]]"
 summary: "This domestic-only U.S. follow-on record has been absorbed into the canonical case page [[sumter-man-pleads-guilty-to-destruction-of-an-energy-facility-and-possession-of-child-sexual-abuse-material]]. No visible cross-border mechanism is documented, so it is not treated as a separate international-cooperation operation."
 created: 2026-04-18
-updated: 2026-04-22
+updated: 2026-04-25
 ---
 ## Summary
 
@@ -76,6 +80,10 @@ This domestic-only U.S. follow-on record has been absorbed into the canonical ca
 
 ## References
 
-| # | Source | Publisher | Date | URL |
+| # | Title | Publisher | Date | URL |
 |---|---|---|---|---|
 | [1] | Sumter Man Pleads Guilty to Destruction of an Energy Facility and Possession of Child Sexual Abuse Material | US DOJ USAO | 2024-12-09 | https://www.justice.gov/usao-sc/pr/sumter-man-pleads-guilty-destruction-energy-facility-and-possession-child-sexual-abuse |
+| [2] | Sumter man pleads guilty to damaging energy facility and possessing illegal material | Legal Newsline | 2024-12-09 | https://legalnewsline.com/stories/666808613-sumter-man-pleads-guilty-to-damaging-energy-facility-and-possessing-illegal-material |
+| [3] | Sumter man faces 20 years after guilty plea to destruction of energy facility, possession of sexual child abuse material charges | The Sumter Item | 2024-12-10 | https://www.theitem.com/stories/sumter-man-faces-20-years-after-guilty-plea-to-destruction-of-energy-facility-possession-of-sexual,423299 |
+| [4] | Sumter man pleads guilty after Duke Energy electrical equipment shot multiple times | WIS-TV | 2024-12-11 | https://www.wistv.com/2024/12/11/sumter-man-pleads-guilty-after-duke-energy-electrical-equipment-shot-multiple-times/ |
+| [5] | Sumter man sentenced to federal prison for shooting energy equipment, possessing child sex abuse material | WIS-TV | 2025-08-18 | https://www.wistv.com/2025/08/18/sumter-man-sentenced-federal-prison-shooting-energy-equipment-possessing-child-sex-abuse-material/ |

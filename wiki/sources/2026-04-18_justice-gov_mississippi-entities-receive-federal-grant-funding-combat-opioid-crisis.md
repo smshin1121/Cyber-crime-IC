@@ -14,10 +14,15 @@ sensitivity: public
 pages_updated:
 
 key_findings:
-  - "Secure .gov websites use HTTPS A lock ( Lock Locked padlock ) or https:// means you’ve safely connected to the .gov website. Share sensitive information only on official, secure websites."
+  - "Secure .gov websites use HTTPS A lock ( Lock Locked padlock ) or https: "// means you’ve safely connected to the .gov website. Share sensitive information only on official, secure websites.\""
 collection_url: https://www.justice.gov/usao-sdms/pr/mississippi-entities-receive-federal-grant-funding-combat-opioid-crisis
 created: 2026-04-18
 updated: 2026-04-18
+text_status: parsed
+content_hash: sha256:d93b2f025ebd47bfc267fd7ff8d411f30ed44abf756e8ca0bef5efeb7e267e2c
+word_count: 1174
+extraction_date: 2026-04-25
+last_fetcher: doj_fetch
 ---
 ## Source Summary
 

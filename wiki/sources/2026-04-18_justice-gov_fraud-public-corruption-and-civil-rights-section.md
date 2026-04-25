@@ -14,10 +14,15 @@ sensitivity: public
 pages_updated:
 
 key_findings:
-  - "Secure .gov websites use HTTPS A lock ( Lock Locked padlock ) or https:// means you’ve safely connected to the .gov website. Share sensitive information only on official, secure websites."
+  - "Secure .gov websites use HTTPS A lock ( Lock Locked padlock ) or https: "// means you’ve safely connected to the .gov website. Share sensitive information only on official, secure websites.\""
 collection_url: https://www.justice.gov/usao-dc/fraud-public-corruption-and-civil-rights-section
 created: 2026-04-18
 updated: 2026-04-18
+text_status: parsed
+content_hash: sha256:83703f6b7ee7f9a07e9743886e0e94242c3e7d7ce0062759dfc8db976890594e
+word_count: 798
+extraction_date: 2026-04-25
+last_fetcher: doj_fetch
 ---
 ## Source Summary
 

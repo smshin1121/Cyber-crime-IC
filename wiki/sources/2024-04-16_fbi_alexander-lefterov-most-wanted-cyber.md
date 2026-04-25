@@ -17,6 +17,12 @@ key_findings:
   - "Direct fetch hit Akamai 403; URL verified via search-index reproduction."
 collection_url: https://www.fbi.gov/wanted/cyber/alexander-lefterov
 created: 2026-04-25
+raw_path: raw/government-reports/2024-04-16_fbi_alexander-lefterov-most-wanted-cyber.md
+text_status: parsed
+content_hash: sha256:0be56770c8b7f0d5e2ddd2df23d00d10e39e05ff740262d0033f00714a682ee9
+word_count: 521
+extraction_date: 2026-04-25
+last_fetcher: urllib
 ---
 ## Source Summary
 

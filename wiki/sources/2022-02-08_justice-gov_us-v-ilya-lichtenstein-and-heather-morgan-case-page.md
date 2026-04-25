@@ -16,6 +16,12 @@ key_findings:
   - "Official case page consolidating arrest, plea, and sentencing milestones"
 collection_url: https://www.justice.gov/usao-dc/case/united-states-v-ilya-lichtenstein-and-heather-morgan
 created: 2026-04-25
+raw_path: raw/case-documents/2022-02-08_justice-gov_us-v-ilya-lichtenstein-and-heather-morgan-case-page.md
+text_status: parsed
+content_hash: sha256:138434c2284bd57009cb986cab62a136e70fb57cade0417d6fc0d44c3954bfa5
+word_count: 433
+extraction_date: 2026-04-25
+last_fetcher: doj_fetch
 ---
 ## Source Summary
 

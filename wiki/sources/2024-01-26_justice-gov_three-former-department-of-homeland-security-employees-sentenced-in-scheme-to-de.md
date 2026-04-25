@@ -17,6 +17,11 @@ key_findings:
   - "This domestic-only U.S. follow-on record has been absorbed into the canonical case page [[three-former-department-of-homeland-security-employees-sentenced-in-scheme-to-defraud-the-united-states]]. No visible cross-border mechanism is documented, so it is not treated as a separate international-cooperation operation."
 collection_url: https://www.justice.gov/usao-dc/pr/three-former-department-homeland-security-employees-sentenced-scheme-defraud-united
 created: 2026-04-17
+text_status: parsed
+content_hash: sha256:cfae386cfb961c8569cd6de2ecc1b32a6c8ad32804712bdd2eb8ddba900abdcd
+word_count: 983
+extraction_date: 2026-04-25
+last_fetcher: doj_fetch
 ---
 ## Source Summary
 

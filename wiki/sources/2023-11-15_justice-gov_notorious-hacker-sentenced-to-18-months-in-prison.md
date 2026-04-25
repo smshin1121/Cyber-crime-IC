@@ -17,6 +17,11 @@ key_findings:
   - "This domestic-only U.S. follow-on record has been absorbed into the canonical case page [[notorious-hacker-sentenced-to-18-months-in-prison]]. No visible cross-border mechanism is documented, so it is not treated as a separate international-cooperation operation."
 collection_url: https://www.justice.gov/usao-dc/pr/notorious-hacker-sentenced-18-months-prison
 created: 2026-04-17
+text_status: parsed
+content_hash: sha256:8a4ceb3bf3ab23361e72ddfe2cc8e254e553c56a9339ada059da73b919bbe118
+word_count: 1087
+extraction_date: 2026-04-25
+last_fetcher: doj_fetch
 ---
 ## Source Summary
 

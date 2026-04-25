@@ -5801,6 +5801,510 @@ CURATED: dict[str, dict[str, Any]] = {
             "2015-12-04_thenextweb_silk-road-architect-variety-jones-arrested-thailand",
         ],
     },
+    "operation-us-v-evgenii-ptitsyn": {
+        "sources": [
+            "2026-04-18_justice-gov_phobos-ransomware-administrator-extradited-south-korea-face-cybercrime-charges",
+            "2024-11-18_bleepingcomputer_us-charges-phobos-ransomware-admin-after-south-korea-extradition",
+            "2024-11-18_therecord_russian-national-in-custody-extradited",
+            "2026-03-05_securityweek_russian-ransomware-operator-pleads-guilty-in-us",
+            "2024-11-19_infosecurity-magazine_phobos-ransomware-admin-extradited",
+        ],
+    },
+    "operation-us-v-dark-web-marketplace": {
+        "sources": [
+            "2026-04-18_justice-gov_co-creator-dark-web-marketplace-pleads-guilty-chicago-drug-conspiracy-charge",
+            "2026-01-28_bleepingcomputer_empire-cybercrime-market-owner-pleads-guilty-to-drug-conspiracy",
+            "2026-01-29_therecord_feds-second-guilty-plea-empire-market",
+            "2026-01-30_securityaffairs_empire-market-co-founder-faces-10-years-to-life-after-guilty-plea",
+            "2026-02-01_townhall_co-creator-empire-market-admits-role-430m-illegal-marketplace",
+        ],
+    },
+    "operation-prince-georges-county-man-sentenced-to-seven-years-in-federal-prison-for-a-heroin-distribution-conspiracy-cond": {
+        "sources": [
+            "2026-04-18_justice-gov_prince-george-s-county-man-sentenced-seven-years-federal-prison-heroin-distribution",
+            "2021-11-10_wtop_maryland-man-sentenced-for-distributing-heroin-on-dark-web",
+            "2021-11-10_cbsnews-baltimore_maryland-man-sentenced-for-distributing-heroin-on-dark-web",
+            "2021-11-10_thedailyrecord_maryland-man-sentenced-for-distributing-heroin-on-dark-web",
+            "2021-11-10_baltimoresun_maryland-man-sentenced-for-distributing-heroin-on-dark-web",
+        ],
+    },
+    "operation-us-v-christopher-aaron-stanfield": {
+        "sources": [
+            "2026-04-18_justice-gov_natchitoches-man-sentenced-possession-child-pornography",
+            "2025-02-26_kalb_natchitoches-man-sentenced-surfing-dark-web-child-porn",
+            "2025-02-25_wkrg_natchitoches-man-sentenced-for-possession-of-child-pornography",
+            "2025-02-26_wgno_natchitoches-man-sentenced-for-possession-of-child-pornography",
+            "2025-02-25_ktal_natchitoches-man-sentenced-for-possession-of-child-porn",
+        ],
+    },
+    "operation-natchitoches-man-sentenced-for-possession-of-child-pornography": {
+        "sources": [
+            "2026-04-18_justice-gov_natchitoches-man-sentenced-possession-child-pornography",
+            "2025-02-26_kalb_natchitoches-man-sentenced-surfing-dark-web-child-porn",
+            "2025-02-25_wkrg_natchitoches-man-sentenced-for-possession-of-child-pornography",
+            "2025-02-26_wgno_natchitoches-man-sentenced-for-possession-of-child-pornography",
+            "2025-02-25_ktal_natchitoches-man-sentenced-for-possession-of-child-porn",
+        ],
+    },
+    "operation-us-v-melody-sasser": {
+        "sources": [
+            "2026-04-18_justice-gov_grand-jury-indicts-knoxville-woman-previously-arrested-murder-hire-plot-0",
+            "2024-09-19_newschannel9_tennessee-woman-sentenced-murder-for-hire-plot-melody-sasser",
+            "2023-06-05_cbsnews_melody-sasser-charged-hiring-hitman-match-com",
+            "2023-06-07_wvlt_knoxville-woman-indicted-hiring-online-hitman-match-com",
+            "2024-09-19_lawandcrime_woman-hired-hitman-online-killers-market-prison",
+        ],
+    },
+    "operation-grand-jury-indicts-knoxville-woman-previously-arrested-in-murder-for-hire-plot": {
+        "sources": [
+            "2026-04-18_justice-gov_grand-jury-indicts-knoxville-woman-previously-arrested-murder-hire-plot-0",
+            "2024-09-19_newschannel9_tennessee-woman-sentenced-murder-for-hire-plot-melody-sasser",
+            "2023-06-05_cbsnews_melody-sasser-charged-hiring-hitman-match-com",
+            "2023-06-07_wvlt_knoxville-woman-indicted-hiring-online-hitman-match-com",
+            "2024-09-19_lawandcrime_woman-hired-hitman-online-killers-market-prison",
+        ],
+    },
+    "operation-us-v-matthew-estes": {
+        "sources": [
+            "2026-04-18_justice-gov_knox-county-man-sentenced-60-years-imprisonment-two-counts-production-child",
+            "2025-04-16_wvlt_knoxville-man-sentenced-60-years-jail-child-pornography-dark-web",
+            "2025-04-16_wate_knox-county-man-gets-60-year-sentence-in-child-pornography-case",
+            "2025-04-17_3bmedianews_knox-county-man-sentenced-to-60-years-cp-production",
+            "2025-04-16_morelaw_us-v-matthew-estes-case-summary",
+        ],
+    },
+    "operation-knox-county-man-sentenced-to-60-years-imprisonment-for-two-counts-of-production-of-child-pornography": {
+        "sources": [
+            "2026-04-18_justice-gov_knox-county-man-sentenced-60-years-imprisonment-two-counts-production-child",
+            "2025-04-16_wvlt_knoxville-man-sentenced-60-years-jail-child-pornography-dark-web",
+            "2025-04-16_wate_knox-county-man-gets-60-year-sentence-in-child-pornography-case",
+            "2025-04-17_3bmedianews_knox-county-man-sentenced-to-60-years-cp-production",
+            "2025-04-16_morelaw_us-v-matthew-estes-case-summary",
+        ],
+    },
+    "operation-us-v-sturgis-man": {
+        "sources": [
+            "2026-04-18_justice-gov_2025-0108-miller-e-sentenced",
+            "2025-01-07_wwmt_sturgis-man-70-months-prison-sell-drugs-dark-web",
+            "2025-01-07_fox17_sturgis-man-jail-distributing-illegal-drugs-dark-web",
+            "2025-01-10_cbsdetroit_michigan-man-counterfeit-prescription-drugs-dark-web",
+            "2024-05-29_cbsdetroit_michigan-man-charged-fake-xanax-counterfeit-drugs-dark-web",
+        ],
+    },
+    "operation-us-v-with-selling-counterfeit-drugs-and-sturgis-man": {
+        "sources": [
+            "2026-04-18_justice-gov_2024-0529-miller-e-indictment",
+            "2025-01-07_wwmt_sturgis-man-70-months-prison-sell-drugs-dark-web",
+            "2025-01-07_fox17_sturgis-man-jail-distributing-illegal-drugs-dark-web",
+            "2025-01-10_cbsdetroit_michigan-man-counterfeit-prescription-drugs-dark-web",
+            "2024-05-29_cbsdetroit_michigan-man-charged-fake-xanax-counterfeit-drugs-dark-web",
+        ],
+    },
+    "operation-us-v-shawn-ellis-and-when-ellis": {
+        "sources": [
+            "2026-04-18_justice-gov_drug-distributor-caught-massive-amounts-fentanyl-and-meth-well-firearms-body-armor-and",
+            "2025-02-20_dea-gov_drug-distributor-caught-massive-amounts-fentanyl-and-meth-firearms-body-armor",
+            "2025-02-20_komonews_renton-man-sentenced-13-years-trafficking-buckets-meth-fentanyl",
+            "2025-02-20_kiro7_prolific-renton-drug-dealer-sentenced-13-years-aryan-prison-gang-drug-ring",
+            "2025-02-20_fox13seattle_wa-man-linked-aryan-prison-gangs-sentenced-13-years-drug-trafficking",
+        ],
+    },
+    "operation-us-v-steven-michael-burke": {
+        "sources": [
+            "2026-04-18_justice-gov_duvall-washington-man-awaiting-sentencing-possessing-images-child-sexual-abuse-pleads",
+            "2024-04-19_justice-gov_duvall-washington-man-sentenced-ten-years-prison-trying-sexually-exploit-11-year-old",
+            "2024-04-19_fox13seattle_washington-man-sentenced-ten-years-attempted-sexual-exploitation-11-year-old",
+            "2024-04-19_yahoo_duvall-man-sentenced-ten-years-sexually-exploit-11-year-old",
+            "2023-05-12_livingsnoqualmie_duvall-resident-held-on-750000-bail-child-sex-abuse-investigation",
+        ],
+    },
+    "operation-us-v-sumit-garg": {
+        "sources": [
+            "2026-04-18_justice-gov_former-privacy-consultant-convicted-cyberstalking-campaign-against-former-roommate-her",
+            "2024-07-11_secretservice-gov_pernicious-cyberstalker-sentenced-9-years-unrelenting-harassment-former-roommate",
+            "2024-07-11_justice-gov-opa_former-computer-privacy-consultant-convicted-cyberstalking",
+            "2024-03-25_cybernews_privacy-consultant-convicted-of-cyberstalking",
+            "2024-07-11_theregister_cyberstalking-expert-jailed-after-grotesque-online-threats",
+        ],
+    },
+    "operation-us-v-waylan-graves": {
+        "sources": [
+            "2026-04-18_justice-gov_thurston-county-man-caught-twice-drugs-and-firearms-sentenced-7-years-prison",
+            "2024-11-18_dea-gov_thurston-county-man-caught-twice-drugs-and-firearms-sentenced-7-years",
+            "2024-11-18_chronline_rochester-man-caught-twice-drugs-firearms-seven-years-prison",
+            "2023-09-22_chronline_bail-set-1-million-man-found-5000-fentanyl-pills-chehalis-jnet-bust",
+            "2024-11-18_chronline_rochester-man-caught-twice-drugs-firearms-sentenced-seven-years-us-district",
+        ],
+    },
+    "operation-us-v-witters-dark-web": {
+        "sources": [
+            "2019-12-17_wdwa_witters-dark-web-fentanyl-sentencing",
+            "2019-12-18_ice-gov_dark-web-fentanyl-dealer-sentenced-7-years-prison",
+            "2019-12-17_komonews_seattle-man-7-years-dealing-fentanyl-dark-web",
+            "2019-12-17_thenextweb_top-fentanyl-seller-alphabay-dream-market-sentenced-7-years-prison",
+            "2019-12-17_kiro7_seattle-man-sentenced-seven-years-prison-selling-fentanyl-dark-web",
+        ],
+    },
+    "operation-vancouver-washington-man-sentenced-to-10-years-in-prison-for-drug-trafficking-while-possessing-firearms": {
+        "sources": [
+            "2026-04-18_justice-gov_vancouver-washington-man-sentenced-10-years-prison-drug-trafficking-while-possessing",
+            "2024-06-17_columbian_vancouver-man-sentenced-10-years-federal-prison-drug-trafficking-fentanyl-clark-county-overdose",
+            "2024-06-14_kptv_vancouver-man-gets-10-years-selling-drugs-linked-overdose-death",
+            "2022-09-06_columbian_vancouver-man-linked-overdose-case-now-faces-federal-drug-charges",
+            "2022-09-06_koin_feds-usps-help-clarkco-deputies-fentanyl-steroid-bust",
+        ],
+    },
+    "operation-st-lawrence-county-man-pleads-guilty-to-receiving-and-possessing-child-pornography": {
+        "sources": [
+            "2026-04-18_justice-gov_st-lawrence-county-man-pleads-guilty-receiving-and-possessing-child-pornography",
+            "2025-03-24_wwnytv_st-lawrence-county-man-pleads-guilty-child-pornography-charges",
+            "2025-03-25_yahoo_st-lawrence-county-man-enters-guilty-plea-child-pornography-charges",
+            "2025-03-25_waynecountyjournal_st-lawrence-county-man-pleads-guilty-downloading-explicit-images-sleeping-9-year-old-dark-web",
+            "2025-03-25_nny360_louisville-man-pleads-guilty-possession-child-pornography",
+        ],
+    },
+    "operation-us-v-lawrence-county-man": {
+        "sources": [
+            "2026-04-18_justice-gov_st-lawrence-county-man-pleads-guilty-receiving-and-possessing-child-pornography",
+            "2025-03-24_wwnytv_st-lawrence-county-man-pleads-guilty-child-pornography-charges",
+            "2025-03-25_yahoo_st-lawrence-county-man-enters-guilty-plea-child-pornography-charges",
+            "2025-03-25_waynecountyjournal_st-lawrence-county-man-pleads-guilty-downloading-explicit-images-sleeping-9-year-old-dark-web",
+            "2025-03-25_nny360_louisville-man-pleads-guilty-possession-child-pornography",
+        ],
+    },
+    "operation-us-v-utah-man": {
+        "sources": [
+            "2026-04-18_justice-gov_utah-man-charged-murder-hire-scheme",
+            "2021-11-12_abc4_utah-man-charged-paying-16k-bitcoin-murder-two-new-yorkers",
+            "2023-12-06_fox13now_utah-man-pleads-guilty-murder-for-hire-scheme-dark-web",
+            "2024-04-05_cbsnews_utah-man-sentenced-7-years-prison-seeking-hitman-kill-parents-adopted-children",
+            "2023-12-06_news10_utah-man-pleads-guilty-murder-for-hire-scheme-rensselaer-county",
+        ],
+    },
+    "operation-utah-man-pleads-guilty-murder-hire-scheme": {
+        "sources": [
+            "2026-04-18_justice-gov_utah-man-pleads-guilty-murder-hire-scheme",
+            "2023-12-06_fox13now_utah-man-pleads-guilty-murder-for-hire-scheme-dark-web",
+            "2023-12-06_news10_utah-man-pleads-guilty-murder-for-hire-scheme-rensselaer-county",
+            "2021-11-12_abc4_utah-man-charged-paying-16k-bitcoin-murder-two-new-yorkers",
+            "2024-04-05_ksl_southern-utah-man-sentenced-federal-prison-murder-for-hire-scheme",
+        ],
+    },
+    "operation-utah-man-sentenced-seven-years-prison-murder-hire-scheme": {
+        "sources": [
+            "2026-04-18_justice-gov_utah-man-sentenced-seven-years-prison-murder-hire-scheme",
+            "2024-04-05_cbsnews_utah-man-sentenced-7-years-prison-seeking-hitman-kill-parents-adopted-children",
+            "2024-04-05_ksl_southern-utah-man-sentenced-federal-prison-murder-for-hire-scheme",
+            "2023-12-06_fox13now_utah-man-pleads-guilty-murder-for-hire-scheme-dark-web",
+            "2021-11-12_abc4_utah-man-charged-paying-16k-bitcoin-murder-two-new-yorkers",
+        ],
+    },
+    "operation-leader-of-international-steroids-distribution-scheme-sentenced-to-eight-years-in-prison": {
+        "sources": [
+            "2026-04-18_justice-gov_leader-international-steroids-distribution-scheme-sentenced-eight-years-prison",
+            "2023-08-21_ice-gov_hsi-san-diego-multiagency-case-sends-leader-international-steroid-distribution-scheme-to-prison-for-8-years",
+            "2023-08-21_10news_steroid-distributor-sentenced-san-diego-8-years-prison",
+            "2023-08-21_timesofsandiego_dark-web-steroid-distributor-juicepal-sentenced-san-diego-8-years",
+            "2023-08-21_hoodline_dark-web-steroid-kingpin-juicepal-receives-8-year-sentence-san-diego",
+        ],
+    },
+    "operation-us-v-aidan-curry-and-connor-brooke": {
+        "sources": [
+            "2019-10-02_justice-gov_united-states-v-aidan-curry-and-connor-brooke",
+            "2019-10-02_nbcsandiego_san-diego-dark-web-vendors-plead-guilty-cryptocurrency-money-laundering-conspiracy-bitcoin",
+            "2019-09-30_timesofsandiego_2-plead-guilty-dark-web-cryptocurrency-money-laundering-scheme",
+            "2019-10-02_fox5sandiego_dark-web-vendors-plead-guilty-cryptocurrency-money-laundering-scheme",
+            "2019-10-02_isssource_dark-web-users-guilty-money-laundering",
+        ],
+    },
+    "operation-us-v-curry-brooke-dark-web": {
+        "sources": [
+            "2019-10-02_sdca_curry-brooke-dark-web-laundering-plea",
+            "2019-10-02_nbcsandiego_san-diego-dark-web-vendors-plead-guilty-cryptocurrency-money-laundering-conspiracy-bitcoin",
+            "2019-09-30_timesofsandiego_2-plead-guilty-dark-web-cryptocurrency-money-laundering-scheme",
+            "2019-10-02_fox5sandiego_dark-web-vendors-plead-guilty-cryptocurrency-money-laundering-scheme",
+            "2019-10-02_isssource_dark-web-users-guilty-money-laundering",
+        ],
+    },
+    "operation-us-v-hardened-encrypted-devices": {
+        "sources": [
+            "2026-04-17_justice-gov_distributor-anom-hardened-encrypted-devices-sentenced-63-months-prison-racketeer",
+            "2024-11-15_courthousenews_distributer-encrypted-phones-bugged-feds-handed-prison-sentence",
+            "2025-04-15_criminallegalnews_fbi-encrypted-phone-sting",
+            "2024-11-15_thecyberexpress_distributor-anom-encrypted-device-gets-5-years",
+            "2025-04-08_justice-gov_all-extradited-distributors-anom-hardened-encrypted-devices-plead-guilty-racketeering",
+        ],
+    },
+    "operation-sumter-man-pleads-guilty-to-destruction-of-an-energy-facility-and-possession-of-child-sexual-abuse-material": {
+        "sources": [
+            "2026-04-18_justice-gov_sumter-man-pleads-guilty-destruction-energy-facility-and-possession-child-sexual-abuse",
+            "2024-12-09_legalnewsline_sumter-man-pleads-guilty-damaging-energy-facility-possessing-illegal-material",
+            "2024-12-10_theitem_sumter-man-faces-20-years-after-guilty-plea-destruction-energy-facility",
+            "2024-12-11_wistv_sumter-man-pleads-guilty-after-duke-energy-electrical-equipment-shot-multiple-times",
+            "2025-08-18_wistv_sumter-man-sentenced-federal-prison-shooting-energy-equipment-possessing-child-sex-abuse-material",
+        ],
+    },
+    "operation-us-v-adam-sloan": {
+        "sources": [
+            "2026-04-18_justice-gov_aiken-county-man-sentenced-federal-prison-production-child-sexual-abuse-material",
+            "2025-09-05_postandcourier_aiken-county-man-sentenced-17-years-child-sexual-abuse-materials",
+            "2025-09-05_wjbf_aiken-county-man-sentenced-federal-prison-production-child-sexual-abuse-material",
+            "2025-09-05_wach_aiken-county-man-gets-17-years-producing-child-sex-abuse-material",
+            "2025-09-05_wrdw_jackson-man-sentenced-17-years-child-sex-abuse",
+        ],
+    },
+    "operation-us-v-conway-man": {
+        "sources": [
+            "2026-04-18_justice-gov_conway-man-sentenced-federal-prison-possessing-child-sexual-abuse-materials",
+            "2024-12-09_myhorrynews_conway-man-sentenced-nearly-7-years-child-sexual-abuse-materials",
+            "2024-12-09_wbtw_conway-man-sentenced-federal-prison-possessing-child-sexual-abuse-material",
+            "2024-12-09_wmbf_conway-man-admits-using-bitcoin-buy-thousands-child-sexual-abuse-images-videos",
+            "2024-12-09_wpde_darknet-bitcoin-transactions-lead-conway-mans-arrest-csam-materials",
+        ],
+    },
+    "operation-us-v-sumter-man": {
+        "sources": [
+            "2026-04-18_justice-gov_sumter-man-pleads-guilty-destruction-energy-facility-and-possession-child-sexual-abuse",
+            "2024-12-09_legalnewsline_sumter-man-pleads-guilty-damaging-energy-facility-possessing-illegal-material",
+            "2024-12-10_theitem_sumter-man-faces-20-years-after-guilty-plea-destruction-energy-facility",
+            "2024-12-11_wistv_sumter-man-pleads-guilty-after-duke-energy-electrical-equipment-shot-multiple-times",
+            "2025-08-18_wistv_sumter-man-sentenced-federal-prison-shooting-energy-equipment-possessing-child-sex-abuse-material",
+        ],
+    },
+    "operation-former-childcare-provider-sentenced-to-15-years-in-federal-prison-for-the-production-of-child-sexual-abuse-mat": {
+        "sources": [
+            "2026-04-18_justice-gov_former-childcare-provider-sentenced-15-years-federal-prison-production-child-sexual",
+            "2026-02-18_unionleader_keene-woman-gets-prison-time-role-child-sex-abuse-image-case",
+            "2026-02-18_keenesentinel_keene-nh-woman-gets-15-years-role-child-sex-abuse",
+            "2026-02-18_boston25_former-nh-childcare-provider-gets-prison-time-role-child-sex-abuse-case",
+            "2026-02-18_mykeenenow_keene-woman-sentenced-15-years-federal-prison-child-exploitation-case",
+        ],
+    },
+    "operation-twelve-defendants-convicted-in-cross-state-social-media-drug-trafficking-conspiracy": {
+        "sources": [
+            "2026-04-18_justice-gov_twelve-defendants-convicted-cross-state-social-media-drug-trafficking-conspiracy",
+            "2025-11-14_dea-gov_twelve-defendants-convicted-cross-state-social-media-drug-trafficking",
+            "2024-11-20_bostonglobe_federal-investigators-break-up-alleged-drug-ring-based-lowell-lawrence",
+            "2025-11-14_manchesterinklink_12-people-convicted-cross-state-social-media-drug-trafficking-investigation",
+            "2024-11-20_penbaypilot_belfast-man-one-13-arrested-federal-drug-bust",
+        ],
+    },
+    "operation-us-v-krystal-baird": {
+        "sources": [
+            "2026-04-18_justice-gov_former-childcare-provider-sentenced-15-years-federal-prison-production-child-sexual",
+            "2026-02-18_unionleader_keene-woman-gets-prison-time-role-child-sex-abuse-image-case",
+            "2026-02-18_keenesentinel_keene-nh-woman-gets-15-years-role-child-sex-abuse",
+            "2026-02-18_boston25_former-nh-childcare-provider-gets-prison-time-role-child-sex-abuse-case",
+            "2026-02-18_mykeenenow_keene-woman-sentenced-15-years-federal-prison-child-exploitation-case",
+        ],
+    },
+    "operation-kokomo-resident-arrested-on-federal-animal-cruelty-charges": {
+        "sources": [
+            "2026-04-18_justice-gov_kokomo-resident-arrested-federal-animal-cruelty-charges",
+            "2020-07-15_fox59_court-docs-internet-sleuths-assist-feds-alleged-torture-killing-animals-kokomo-woman",
+            "2020-07-21_wdrb_kokomo-woman-accused-killing-cats-dogs-hanging-skinning-other-means",
+            "2021-02-26_kokomotribune_kokomo-woman-indicted-animal-cruelty-charges",
+            "2021-11-10_wthr_plea-deal-kokomo-woman-animal-crushing-case",
+        ],
+    },
+    "operation-us-v-krystal-cherika-scott": {
+        "sources": [
+            "2026-04-18_justice-gov_kokomo-resident-arrested-federal-animal-cruelty-charges",
+            "2020-07-15_fox59_court-docs-internet-sleuths-assist-feds-alleged-torture-killing-animals-kokomo-woman",
+            "2020-07-21_wdrb_kokomo-woman-accused-killing-cats-dogs-hanging-skinning-other-means",
+            "2021-02-26_kokomotribune_kokomo-woman-indicted-animal-cruelty-charges",
+            "2021-11-10_wthr_plea-deal-kokomo-woman-animal-crushing-case",
+        ],
+    },
+    "operation-us-v-yapo-jean-franck-ngbichi": {
+        "sources": [
+            "2026-04-18_justice-gov_georgia-man-sentenced-45-years-federal-prison-using-stolen-credit-card-numbers-obtain",
+            "2024-03-06_fox59_georgia-man-sentenced-after-using-stolen-credit-cards-1300-transactions-lowes",
+            "2024-03-06_wibc_man-uses-stolen-credit-card-info-28-states-including-indiana",
+            "2024-03-06_wsbtv_ga-man-sentenced-credit-card-scheme-exceeding-500000",
+            "2024-03-06_14news_man-stole-gift-cards-across-half-country-evansville-sentenced",
+        ],
+    },
+    "operation-leader-of-transnational-cybercrime-group-noirs-luxury-refunds-charged-with-conspiracy-to-commit-mail-and-wire-": {
+        "sources": [
+            "2026-04-18_justice-gov_leader-transnational-cybercrime-group-noirs-luxury-refunds-charged-conspiracy-commit-0",
+            "2025-04-10_waff_huntsville-grand-jury-charges-cybercrime-leader-with-conspiracy-to-commit-mail-wire-fraud",
+            "2025-04-10_rocketcitynow_huntsville-federal-grand-jury-charges-kareem-ahmad-conspiracy-refund-fraud",
+            "2024-03-23_frankonfraud_how-an-online-group-scammed-retailers-out-of-millions",
+            "2026-02-11_local10_online-fraudster-known-as-reign-arrested-in-south-florida",
+        ],
+    },
+    "operation-us-v-kareem-mustafa-ahmad": {
+        "sources": [
+            "2026-04-18_justice-gov_leader-transnational-cybercrime-group-noirs-luxury-refunds-charged-conspiracy-commit-0",
+            "2025-04-10_waff_huntsville-grand-jury-charges-cybercrime-leader-with-conspiracy-to-commit-mail-wire-fraud",
+            "2025-04-10_rocketcitynow_huntsville-federal-grand-jury-charges-kareem-ahmad-conspiracy-refund-fraud",
+            "2024-03-23_frankonfraud_how-an-online-group-scammed-retailers-out-of-millions",
+            "2026-02-11_local10_online-fraudster-known-as-reign-arrested-in-south-florida",
+        ],
+    },
+    "operation-monroeville-man-sentenced-to-24-months-for-purchasing-hundreds-of-stolen-log-in-credentials-off-the-darkweb": {
+        "sources": [
+            "2026-04-18_justice-gov_monroeville-man-sentenced-24-months-purchasing-hundreds-stolen-log-credentials-darkweb",
+            "2023-11-07_waka_monroeville-man-sentenced-for-buying-hundreds-of-stolen-log-ins",
+            "2023-11-14_darknetlive_a-user-of-genesis-market-sentenced",
+            "2023-11-08_fox10tv_monroeville-man-convicted-stealing-log-ins-dark-web",
+            "2023-04-04_bleepingcomputer_fbi-seizes-stolen-credentials-market-genesis-in-operation-cookie-monster",
+        ],
+    },
+    "operation-us-v-monroeville-man": {
+        "sources": [
+            "2026-04-18_justice-gov_monroeville-man-sentenced-24-months-purchasing-hundreds-stolen-log-credentials-darkweb",
+            "2023-11-07_waka_monroeville-man-sentenced-for-buying-hundreds-of-stolen-log-ins",
+            "2023-11-14_darknetlive_a-user-of-genesis-market-sentenced",
+            "2023-11-08_fox10tv_monroeville-man-convicted-stealing-log-ins-dark-web",
+            "2023-04-04_bleepingcomputer_fbi-seizes-stolen-credentials-market-genesis-in-operation-cookie-monster",
+        ],
+    },
+    "operation-two-men-charged-in-multi-million-dollar-darknet-drug-distribution-conspiracy": {
+        "sources": [
+            "2026-04-18_justice-gov_two-men-charged-multi-million-dollar-darknet-drug-distribution-conspiracy",
+            "2021-02-12_healthcarefraudgroup_two-tennessee-men-indicted-on-drug-distribution-scheme-charges",
+            "2021-02-13_washingtonexaminer_two-arrested-after-allegedly-using-darknet-to-sell-adderall-that-was-actually-methamphetamine",
+            "2021-02-15_infosecurity-magazine_duo-multimilliondollar-dark-web",
+            "2021-02-23_frontpagedetectives_feds-meth-adderall-dark-web-charge-tennessee",
+        ],
+    },
+    "operation-us-v-kevin-ombisi": {
+        "sources": [
+            "2026-04-18_justice-gov_two-men-charged-multi-million-dollar-darknet-drug-distribution-conspiracy",
+            "2021-02-12_healthcarefraudgroup_two-tennessee-men-indicted-on-drug-distribution-scheme-charges",
+            "2021-02-13_washingtonexaminer_two-arrested-after-allegedly-using-darknet-to-sell-adderall-that-was-actually-methamphetamine",
+            "2021-02-15_infosecurity-magazine_duo-multimilliondollar-dark-web",
+            "2021-02-23_frontpagedetectives_feds-meth-adderall-dark-web-charge-tennessee",
+        ],
+    },
+    "operation-us-v-kevin-olando-ombisi": {
+        "sources": [
+            "2026-04-18_justice-gov_counterfeit-prescription-drug-distributor-sentenced-federal-prison",
+            "2021-02-12_healthcarefraudgroup_two-tennessee-men-indicted-on-drug-distribution-scheme-charges",
+            "2021-02-13_washingtonexaminer_two-arrested-after-allegedly-using-darknet-to-sell-adderall-that-was-actually-methamphetamine",
+            "2021-02-15_infosecurity-magazine_duo-multimilliondollar-dark-web",
+            "2021-02-23_frontpagedetectives_feds-meth-adderall-dark-web-charge-tennessee",
+        ],
+    },
+    "operation-texas-residents-sentenced-for-their-involvement-in-a-counterfeit-prescription-drug-distribution-operation": {
+        "sources": [
+            "2026-04-18_justice-gov_texas-residents-sentenced-their-involvement-counterfeit-prescription-drug-distribution",
+            "2021-02-12_healthcarefraudgroup_two-tennessee-men-indicted-on-drug-distribution-scheme-charges",
+            "2021-02-13_washingtonexaminer_two-arrested-after-allegedly-using-darknet-to-sell-adderall-that-was-actually-methamphetamine",
+            "2021-02-15_infosecurity-magazine_duo-multimilliondollar-dark-web",
+            "2021-02-23_frontpagedetectives_feds-meth-adderall-dark-web-charge-tennessee",
+        ],
+    },
+    "operation-jefferson-county-man-sentenced-to-6-12-years-in-prison-for-possession-of-child-pornography": {
+        "sources": [
+            "2026-04-18_justice-gov_jefferson-county-man-sentenced-6-years-prison-possession-child-pornography",
+            "2021-05-20_wbrc_jefferson-co-man-had-58000-images-of-child-pornography",
+            "2021-05-21_patch_jefferson-county-man-sentenced-on-child-porn-charges",
+            "2021-05-20_trussvilletribune_jefferson-county-man-sentenced-in-darknet-child-porn-case",
+            "2021-05-20_abc3340_jefferson-county-man-sentenced-to-6-years-for-possession-of-child-pornography",
+        ],
+    },
+    "operation-us-v-james-curtis-brasher": {
+        "sources": [
+            "2026-04-18_justice-gov_jefferson-county-man-sentenced-6-years-prison-possession-child-pornography",
+            "2021-05-20_wbrc_jefferson-co-man-had-58000-images-of-child-pornography",
+            "2021-05-21_patch_jefferson-county-man-sentenced-on-child-porn-charges",
+            "2021-05-20_trussvilletribune_jefferson-county-man-sentenced-in-darknet-child-porn-case",
+            "2021-05-20_abc3340_jefferson-county-man-sentenced-to-6-years-for-possession-of-child-pornography",
+        ],
+    },
+    "operation-us-v-ryan-thomas-carver": {
+        "sources": [
+            "2026-04-18_justice-gov_huntsville-man-pleads-guilty-possessing-large-collection-child-pornography",
+            "2019-11-14_waff_huntsville-man-nabbed-worldwide-child-porn-takedown-pleads-guilty",
+            "2019-10-16_wsfa_huntsville-man-connected-worldwide-take-down-of-child-pornography-site",
+            "2019-11-15_whnt_huntsville-man-pleads-guilty-to-possessing-child-pornography",
+            "2019-11-16_haxf4rall_alabama-man-admits-using-the-largest-darknet-child-pornography-website",
+        ],
+    },
+    "operation-former-commander-and-adjutant-of-nonprofit-veterans-organization-indicted-for-wire-fraud-and-tax-fraud": {
+        "sources": [
+            "2026-04-18_justice-gov_former-commander-and-adjutant-nonprofit-veterans-organization-indicted-wire-fraud-and",
+            "2025-12-15_kivitv_former-idaho-american-legion-commander-charles-abrahamson-indicted-for-embezzling-over-1-4-million",
+            "2025-12-15_idahopress_former-commander-of-idaho-veterans-organization-indicted-for-1-45m-wire-tax-fraud",
+            "2025-12-15_ktvb_former-commander-idaho-veterans-organization-indicted-wire-tax-fraud",
+            "2025-12-15_eastidahonews_former-idaho-veterans-organization-leader-accused-of-stealing-1-4m",
+        ],
+    },
+    "operation-us-v-charles-thomas-abrahamson": {
+        "sources": [
+            "2026-04-18_justice-gov_former-commander-and-adjutant-nonprofit-veterans-organization-indicted-wire-fraud-and",
+            "2025-12-15_kivitv_former-idaho-american-legion-commander-charles-abrahamson-indicted-for-embezzling-over-1-4-million",
+            "2025-12-15_idahopress_former-commander-of-idaho-veterans-organization-indicted-for-1-45m-wire-tax-fraud",
+            "2025-12-15_ktvb_former-commander-idaho-veterans-organization-indicted-wire-tax-fraud",
+            "2025-12-15_eastidahonews_former-idaho-veterans-organization-leader-accused-of-stealing-1-4m",
+        ],
+    },
+    "operation-post-falls-man-indicted-for-sexual-exploitation-of-a-child-distribution-of-child-sexual-abuse-materials-and-po": {
+        "sources": [
+            "2026-04-18_justice-gov_post-falls-man-indicted-sexual-exploitation-child-distribution-child-sexual-abuse",
+            "2025-10-22_spokesman_post-falls-man-indicted-after-police-seize-child-porn-at-his-home",
+            "2025-10-24_cdapress_post-falls-man-charged-federally-with-child-sexual-abuse",
+            "2025-10-22_kxly_investigators-use-gps-zillow-to-find-post-falls-man-accused-of-sexually-exploiting-a-child",
+            "2025-10-22_dailyfly_north-idaho-man-indicted-on-federal-child-sexual-abuse-charges",
+        ],
+    },
+    "operation-us-v-zachary-dean-perpinan": {
+        "sources": [
+            "2026-04-18_justice-gov_post-falls-man-indicted-sexual-exploitation-child-distribution-child-sexual-abuse",
+            "2025-10-22_spokesman_post-falls-man-indicted-after-police-seize-child-porn-at-his-home",
+            "2025-10-24_cdapress_post-falls-man-charged-federally-with-child-sexual-abuse",
+            "2025-10-22_kxly_investigators-use-gps-zillow-to-find-post-falls-man-accused-of-sexually-exploiting-a-child",
+            "2025-10-22_dailyfly_north-idaho-man-indicted-on-federal-child-sexual-abuse-charges",
+        ],
+    },
+    "operation-theodore-man-sentenced-to-prison-for-fraud-schemes-and-aggravated-identity-theft": {
+        "sources": [
+            "2026-04-18_justice-gov_theodore-man-sentenced-prison-fraud-schemes-and-aggravated-identity-theft",
+            "2024-12-06_fox10tv_mobile-man-sentenced-schemes-involving-stolen-mail-cryptocurrency",
+            "2024-12-10_lagniappemobile_theodore-man-who-purchased-usps-box-key-sentenced-to-32-months",
+            "2024-12-06_yahoonews_theodore-man-to-serve-over-2-years-behind-bars-after-various-fraud-schemes",
+            "2024-12-06_regtechtimes_sean-donnell-white-sentenced-to-32-months-for-fraud-schemes-and-identity-theft",
+        ],
+    },
+    "operation-us-v-sean-donnell-white": {
+        "sources": [
+            "2026-04-18_justice-gov_theodore-man-sentenced-prison-fraud-schemes-and-aggravated-identity-theft",
+            "2024-12-06_fox10tv_mobile-man-sentenced-schemes-involving-stolen-mail-cryptocurrency",
+            "2024-12-10_lagniappemobile_theodore-man-who-purchased-usps-box-key-sentenced-to-32-months",
+            "2024-12-06_yahoonews_theodore-man-to-serve-over-2-years-behind-bars-after-various-fraud-schemes",
+            "2024-12-06_regtechtimes_sean-donnell-white-sentenced-to-32-months-for-fraud-schemes-and-identity-theft",
+        ],
+    },
+    "operation-us-v-michael-posey": {
+        "sources": [
+            "2026-04-18_justice-gov_dark-web-moderator-advertising-child-sexual-abuse-material-sentenced-15-years",
+            "2025-01-24_dhs-hsi_hsi-investigation-leads-15-year-sentence-dark-web-moderator-advertising-csam",
+            "2024-08-29_ice_hsi-dark-web-investigation-leads-guilty-plea-washington-state-man-advertising-csam",
+            "2025-01-23_publicnow_washington-state-man-pleads-guilty-to-advertising-child-sexual-abuse-material",
+            "2025-01-21_x-usao-me_dark-web-moderator-michael-posey-sentenced",
+        ],
+    },
+    "operation-washington-state-man-pleads-guilty-advertising-child-sexual-abuse-material": {
+        "sources": [
+            "2026-04-18_justice-gov_washington-state-man-pleads-guilty-advertising-child-sexual-abuse-material",
+            "2025-01-24_dhs-hsi_hsi-investigation-leads-15-year-sentence-dark-web-moderator-advertising-csam",
+            "2024-08-29_ice_hsi-dark-web-investigation-leads-guilty-plea-washington-state-man-advertising-csam",
+            "2025-01-23_publicnow_washington-state-man-pleads-guilty-to-advertising-child-sexual-abuse-material",
+            "2025-01-21_x-usao-me_dark-web-moderator-michael-posey-sentenced",
+        ],
+    },
+    "operation-washington-state-man-pleads-guilty-to-advertising-child-sexual-abuse-material": {
+        "sources": [
+            "2026-04-18_justice-gov_washington-state-man-pleads-guilty-advertising-child-sexual-abuse-material",
+            "2025-01-24_dhs-hsi_hsi-investigation-leads-15-year-sentence-dark-web-moderator-advertising-csam",
+            "2024-08-29_ice_hsi-dark-web-investigation-leads-guilty-plea-washington-state-man-advertising-csam",
+            "2025-01-23_publicnow_washington-state-man-pleads-guilty-to-advertising-child-sexual-abuse-material",
+            "2025-01-21_x-usao-me_dark-web-moderator-michael-posey-sentenced",
+        ],
+    },
 
 }
 

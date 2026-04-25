@@ -14,10 +14,15 @@ sensitivity: public
 pages_updated:
 
 key_findings:
-  - "Secure .gov websites use HTTPS A lock ( Lock Locked padlock ) or https:// means you’ve safely connected to the .gov website. Share sensitive information only on official, secure websites."
+  - "Secure .gov websites use HTTPS A lock ( Lock Locked padlock ) or https: "// means you’ve safely connected to the .gov website. Share sensitive information only on official, secure websites.\""
 collection_url: https://www.justice.gov/criminal/criminal-icitap/blog/bosnia-herzegovina-icitap-participates-25th-anniversary-celebration-border-police
 created: 2026-04-18
 updated: 2026-04-18
+text_status: parsed
+content_hash: sha256:bdd4b4f15912fdcfd69beb2e1c4d097adc93d18c3bd2190f483f5be363e50f90
+word_count: 663
+extraction_date: 2026-04-25
+last_fetcher: doj_fetch
 ---
 ## Source Summary
 

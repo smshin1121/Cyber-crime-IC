@@ -16,6 +16,12 @@ key_findings:
   - "D.C. OIG official confirmation of the Okafor sentencing"
 collection_url: https://www.oig.dc.gov/newsroom/news/physician-sentenced-18-years-prison-operating-pill-mill-his-northwest-dc-medical
 created: 2026-04-25
+raw_path: raw/press-releases/2025-06-26_oig-dc-gov_physician-sentenced-18-years-pill-mill.md
+text_status: parsed
+content_hash: sha256:b8ef1bd842a7fa883fe928b45d02b3ed05eaa311298c354f57069ce84c3842cd
+word_count: 698
+extraction_date: 2026-04-25
+last_fetcher: urllib
 ---
 ## Source Summary
 

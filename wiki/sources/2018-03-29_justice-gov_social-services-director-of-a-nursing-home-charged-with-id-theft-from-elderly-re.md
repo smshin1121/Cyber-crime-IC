@@ -17,6 +17,11 @@ key_findings:
   - "This domestic-only U.S. follow-on record has been absorbed into the canonical case page [[social-services-director-of-a-nursing-home-charged-with-id-theft-from-elderly-residents]]. No visible cross-border mechanism is documented, so it is not treated as a separate international-cooperation operation."
 collection_url: https://www.justice.gov/usao-edmo/pr/social-services-director-nursing-home-charged-id-theft-elderly-residents
 created: 2026-04-17
+text_status: parsed
+content_hash: sha256:f5ecf8dbff4af17b7f01850da1f758fad3232b1d9834dd073e5ef55db6d000ad
+word_count: 175
+extraction_date: 2026-04-25
+last_fetcher: doj_fetch
 ---
 ## Source Summary
 

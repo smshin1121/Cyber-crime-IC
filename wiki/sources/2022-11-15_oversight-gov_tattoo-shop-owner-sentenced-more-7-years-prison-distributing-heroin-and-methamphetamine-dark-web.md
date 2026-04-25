@@ -2,7 +2,7 @@
 type: source
 title: "Tattoo Shop Owner Sentenced to More Than 7 Years in Prison for Distributing Heroin and Methamphetamine on the Dark Web"
 source_type: government-summary
-publisher: "Oversight.gov"
+publisher: Oversight.gov
 author: ""
 publish_date: 2022-11-15
 ingest_date: 2026-04-25
@@ -17,6 +17,12 @@ key_findings:
   - "The summary highlighted the NCIDE task force participation and the multidefendant structure involving David White and Alicia McCoy."
 collection_url: https://www.oversight.gov/tattoo-shop-owner-sentenced-more-7-years-prison-distributing-heroin-and-methamphetamine-dark-web
 created: 2026-04-25
+raw_path: raw/government-reports/2022-11-15_oversight-gov_tattoo-shop-owner-sentenced-more-7-years-prison-distributing-heroin-and-methamphetamine-dark-web.md
+text_status: parsed
+content_hash: sha256:44671fc74baeac2f3fb7aee3db2e4143ea724f968b9028feb77a6ca4f36f739e
+word_count: 539
+extraction_date: 2026-04-25
+last_fetcher: urllib
 ---
 ## Source Summary
 

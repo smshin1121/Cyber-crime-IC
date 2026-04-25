@@ -14,10 +14,15 @@ sensitivity: public
 pages_updated:
 
 key_findings:
-  - "Secure .gov websites use HTTPS A lock ( Lock Locked padlock ) or https:// means you’ve safely connected to the .gov website. Share sensitive information only on official, secure websites."
+  - "Secure .gov websites use HTTPS A lock ( Lock Locked padlock ) or https: "// means you’ve safely connected to the .gov website. Share sensitive information only on official, secure websites.\""
 collection_url: https://www.justice.gov/usao-cdca/pr/fentanyl-crisis-continues-take-lives-federal-law-enforcement-responds-multi-faceted
 created: 2026-04-18
 updated: 2026-04-18
+text_status: parsed
+content_hash: sha256:b43f3fb3ba74250a955ba8d96b913ada17589ac16239104750ba8c1c0eab96b5
+word_count: 2103
+extraction_date: 2026-04-25
+last_fetcher: doj_fetch
 ---
 ## Source Summary
 

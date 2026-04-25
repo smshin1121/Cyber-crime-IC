@@ -17,6 +17,11 @@ key_findings:
   - "This domestic-only U.S. follow-on record has been absorbed into the canonical case page [[us-v-karen-kowkabi]]. No visible cross-border mechanism is documented, so it is not treated as a separate international-cooperation operation."
 collection_url: https://www.justice.gov/usao-dc/pr/georgetown-restauranteurs-sentenced-prison-tax-offenses-and-theft-covid-19-relief-funds
 created: 2026-04-17
+text_status: parsed
+content_hash: sha256:7b2f8ea1b4a7c0f949d20cbd319effee3ed4bc0028f482d1a8407845dca78593
+word_count: 1665
+extraction_date: 2026-04-25
+last_fetcher: doj_fetch
 ---
 ## Source Summary
 

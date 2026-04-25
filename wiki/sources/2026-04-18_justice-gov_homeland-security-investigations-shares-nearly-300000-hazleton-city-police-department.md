@@ -14,10 +14,15 @@ sensitivity: public
 pages_updated:
 
 key_findings:
-  - "Secure .gov websites use HTTPS A lock ( Lock Locked padlock ) or https:// means you’ve safely connected to the .gov website. Share sensitive information only on official, secure websites."
+  - "Secure .gov websites use HTTPS A lock ( Lock Locked padlock ) or https: "// means you’ve safely connected to the .gov website. Share sensitive information only on official, secure websites.\""
 collection_url: https://www.justice.gov/usao-mdpa/pr/homeland-security-investigations-shares-nearly-300000-hazleton-city-police-department
 created: 2026-04-18
 updated: 2026-04-18
+text_status: parsed
+content_hash: sha256:dbe08342f1caaebad863c470ff52d0e4e78529f628a9bf270a331b36cac11ee9
+word_count: 950
+extraction_date: 2026-04-25
+last_fetcher: doj_fetch
 ---
 ## Source Summary
 

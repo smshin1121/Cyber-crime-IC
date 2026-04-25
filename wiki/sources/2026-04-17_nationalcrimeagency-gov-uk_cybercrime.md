@@ -18,9 +18,14 @@ pages_updated:
 key_findings:
   - "The NCA describes cybercrime as a global threat and states that international collaboration is essential because offenders and infrastructure are often based overseas."
   - "The NCA says it works closely with UK police and international law-enforcement partners including Europol, the FBI, and the US Secret Service."
-  - "The page frames the NCA response around five disruption pillars: infrastructure, financial services, initial access and compromise, marketplaces and forums, and UK victims."
+  - "The page frames the NCA response around five disruption pillars: "infrastructure, financial services, initial access and compromise, marketplaces and forums, and UK victims.\""
 collection_url: https://www.nationalcrimeagency.gov.uk/what-we-do/crime-threats/cybercrime
 created: 2026-04-17
+text_status: parsed
+content_hash: sha256:b2cc91117d36c0736da2b16d006136fa783a4ef8f3cbd60a0097156dedbb71cc
+word_count: 159
+extraction_date: 2026-04-25
+last_fetcher: urllib
 ---
 ## Source Summary
 

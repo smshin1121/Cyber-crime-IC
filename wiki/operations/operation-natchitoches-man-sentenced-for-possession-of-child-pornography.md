@@ -46,25 +46,29 @@ results:
   other:
     - "Defendant-specific follow-on action derived from [[natchitoches-man-sentenced-for-possession-of-child-pornography]]"
 edges:
-  []
+
 credibility_index: 4.0
 source_tier: 1
 missing_fields:
-  []
+
 related_cases:
   - "[[natchitoches-man-sentenced-for-possession-of-child-pornography]]"
 related_operations:
-  []
+
 challenges_encountered:
-  []
+
 lessons_learned:
-  []
-source_count: 1
+
+source_count: 5
 sources:
   - "[[2026-04-18_justice-gov_natchitoches-man-sentenced-possession-child-pornography]]"
+  - "[[2025-02-26_kalb_natchitoches-man-sentenced-surfing-dark-web-child-porn]]"
+  - "[[2025-02-25_wkrg_natchitoches-man-sentenced-for-possession-of-child-pornography]]"
+  - "[[2025-02-26_wgno_natchitoches-man-sentenced-for-possession-of-child-pornography]]"
+  - "[[2025-02-25_ktal_natchitoches-man-sentenced-for-possession-of-child-porn]]"
 summary: "This domestic-only U.S. follow-on record has been absorbed into the canonical case page [[natchitoches-man-sentenced-for-possession-of-child-pornography]]. No visible cross-border mechanism is documented, so it is not treated as a separate international-cooperation operation."
 created: 2026-04-18
-updated: 2026-04-22
+updated: 2026-04-25
 ---
 ## Summary
 
@@ -76,6 +80,10 @@ This domestic-only U.S. follow-on record has been absorbed into the canonical ca
 
 ## References
 
-| # | Source | Publisher | Date | URL |
+| # | Title | Publisher | Date | URL |
 |---|---|---|---|---|
 | [1] | Natchitoches Man Sentenced for Possession of Child Pornography | US DOJ USAO | 2025-02-25 | https://www.justice.gov/usao-wdla/pr/natchitoches-man-sentenced-possession-child-pornography |
+| [2] | Natchitoches man sentenced for surfing 'dark web' for child porn | KALB | 2025-02-26 | https://www.kalb.com/2025/02/26/natchitoches-man-sentenced-surfing-dark-web-child-porn/ |
+| [3] | Natchitoches man sentenced for possession of child pornography | WKRG | 2025-02-25 | https://www.wkrg.com/state-regional/natchitoches-man-sentenced-for-possession-of-child-pornography/amp/ |
+| [4] | Natchitoches man sentenced for possession of child pornography | WGNO | 2025-02-26 | https://wgno.com/news/louisiana/natchitoches-man-sentenced-for-possession-of-child-pornography/amp/ |
+| [5] | Natchitoches man sentenced for possession of child porn | KTAL Shreveport | 2025-02-25 | https://www.yahoo.com/news/natchitoches-man-sentenced-possession-child-225129165.html |

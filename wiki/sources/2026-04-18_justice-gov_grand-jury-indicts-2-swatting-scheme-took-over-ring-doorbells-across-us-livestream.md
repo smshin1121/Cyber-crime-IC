@@ -14,10 +14,15 @@ sensitivity: public
 pages_updated:
 
 key_findings:
-  - "Secure .gov websites use HTTPS A lock ( Lock Locked padlock ) or https:// means you’ve safely connected to the .gov website. Share sensitive information only on official, secure websites."
+  - "Secure .gov websites use HTTPS A lock ( Lock Locked padlock ) or https: "// means you’ve safely connected to the .gov website. Share sensitive information only on official, secure websites.\""
 collection_url: https://www.justice.gov/usao-cdca/pr/grand-jury-indicts-2-swatting-scheme-took-over-ring-doorbells-across-us-livestream
 created: 2026-04-18
 updated: 2026-04-18
+text_status: parsed
+content_hash: sha256:29ad37670f6b7c37444a6d2527ff35d3ac73a11764cffdc9c524c8f3a1bc407d
+word_count: 1170
+extraction_date: 2026-04-25
+last_fetcher: doj_fetch
 ---
 ## Source Summary
 

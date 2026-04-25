@@ -21,6 +21,12 @@ key_findings:
   - "It complements the IC3 advisory by providing remediation-oriented operational detail."
 created: 2026-04-18
 updated: 2026-04-18
+raw_path: raw/government-reports/2024-05-29_fbi-gov_how-to-identify-and-remove-vpn-applications-that-contain-911-s5-backdoors.md
+text_status: parsed
+content_hash: sha256:d4250a3cc17a4323e63dbec3585630cb53248564563a5ca422bbcc2cc78349df
+word_count: 1002
+extraction_date: 2026-04-25
+last_fetcher: urllib
 ---
 ## Source Summary
 

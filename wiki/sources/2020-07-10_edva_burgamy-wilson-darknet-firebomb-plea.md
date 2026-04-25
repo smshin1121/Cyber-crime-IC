@@ -14,13 +14,18 @@ sensitivity: public
 pages_updated:
 
 key_findings:
-  - "Secure .gov websites use HTTPS A lock ( Lock Locked padlock ) or https:// means you’ve safely connected to the .gov website. Share sensitive information only on official, secure websites."
+  - "Secure .gov websites use HTTPS A lock ( Lock Locked padlock ) or https: "// means you’ve safely connected to the .gov website. Share sensitive information only on official, secure websites.\""
 collection_url: https://www.justice.gov/usao-edva/pr/darknet-vendor-and-pharmacist-plead-guilty-firebomb-attack-plot
 created: 2026-04-17
 defendant_names:
   - "Koriyon Demantra Weaver"
   - "Calvin Shawn Johnson"
 updated: 2026-04-18
+text_status: parsed
+content_hash: sha256:b974753837d5617d311263e271ae5779cdf64ada1b6cb68de7c9d36396e32c83
+word_count: 154
+extraction_date: 2026-04-25
+last_fetcher: doj_fetch
 ---
 ## Source Summary
 

@@ -17,6 +17,12 @@ key_findings:
   - "Four-defendant international counterfeit-currency conspiracy"
 collection_url: https://www.justice.gov/archives/opa/pr/four-charged-international-uganda-based-cyber-counterfeiting-scheme
 created: 2026-04-25
+raw_path: raw/press-releases/2015-04-30_justice-gov_four-charged-international-uganda-based-cyber-counterfeiting-scheme.md
+text_status: parsed
+content_hash: sha256:523beebf06cdbdcdaa4a06240cfe983109f1b9fda4aff23a1a244fbd6e622b8e
+word_count: 1129
+extraction_date: 2026-04-25
+last_fetcher: doj_fetch
 ---
 ## Source Summary
 

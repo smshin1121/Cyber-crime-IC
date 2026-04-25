@@ -17,6 +17,11 @@ key_findings:
   - "This domestic-only U.S. follow-on record has been absorbed into the canonical case page [[us-v-with-tampering-with-morphine-and-illinois-nurse]]. No visible cross-border mechanism is documented, so it is not treated as a separate international-cooperation operation."
 collection_url: https://www.justice.gov/usao-ndil/pr/illinois-nurse-charged-tampering-morphine-prescribed-patient
 created: 2026-04-17
+text_status: parsed
+content_hash: sha256:a8cc5cbc5bc67ae9f675177ec700f2409e995c42a0a1526d32bf4ffb5eb9eba2
+word_count: 754
+extraction_date: 2026-04-25
+last_fetcher: doj_fetch
 ---
 ## Source Summary
 

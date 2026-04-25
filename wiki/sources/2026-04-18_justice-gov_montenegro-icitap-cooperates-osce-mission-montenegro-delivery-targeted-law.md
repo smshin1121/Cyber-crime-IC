@@ -14,10 +14,15 @@ sensitivity: public
 pages_updated:
 
 key_findings:
-  - "Secure .gov websites use HTTPS A lock ( Lock Locked padlock ) or https:// means you’ve safely connected to the .gov website. Share sensitive information only on official, secure websites."
+  - "Secure .gov websites use HTTPS A lock ( Lock Locked padlock ) or https: "// means you’ve safely connected to the .gov website. Share sensitive information only on official, secure websites.\""
 collection_url: https://www.justice.gov/criminal/criminal-icitap/blog/montenegro-icitap-cooperates-osce-mission-montenegro-delivery-targeted-law
 created: 2026-04-18
 updated: 2026-04-18
+text_status: parsed
+content_hash: sha256:7040db0a23b8a67517b7e07f176891bc1d4c3ac97fff5503afaf2b6401d7cda5
+word_count: 719
+extraction_date: 2026-04-25
+last_fetcher: doj_fetch
 ---
 ## Source Summary
 

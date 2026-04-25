@@ -17,6 +17,11 @@ key_findings:
   - "This domestic-only U.S. follow-on record has been absorbed into the canonical case page [[third-defendant-pleads-guilty-to-hacking-fantasy-sports-and-betting-website]]. No visible cross-border mechanism is documented, so it is not treated as a separate international-cooperation operation."
 collection_url: https://www.justice.gov/usao-sdny/pr/third-defendant-pleads-guilty-hacking-fantasy-sports-and-betting-website
 created: 2026-04-17
+text_status: parsed
+content_hash: sha256:b537532979e50317dcaba4c2ebab1dfc5e151fa1ccce7ec444e5b24ac3fca688
+word_count: 1153
+extraction_date: 2026-04-25
+last_fetcher: doj_fetch
 ---
 ## Source Summary
 

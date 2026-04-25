@@ -14,10 +14,15 @@ sensitivity: public
 pages_updated:
 
 key_findings:
-  - "Secure .gov websites use HTTPS A lock ( Lock Locked padlock ) or https:// means you’ve safely connected to the .gov website. Share sensitive information only on official, secure websites."
+  - "Secure .gov websites use HTTPS A lock ( Lock Locked padlock ) or https: "// means you’ve safely connected to the .gov website. Share sensitive information only on official, secure websites.\""
 collection_url: https://www.justice.gov/usao-ndoh/pr/largest-international-operation-against-darknet-trafficking-fentanyl-and-opioids
 created: 2026-04-18
 updated: 2026-04-18
+text_status: parsed
+content_hash: sha256:20fbfe4d66dff8111e5bfe6a63861171c6de747762edf326d1713bb88d6e7cf9
+word_count: 2670
+extraction_date: 2026-04-25
+last_fetcher: doj_fetch
 ---
 ## Source Summary
 

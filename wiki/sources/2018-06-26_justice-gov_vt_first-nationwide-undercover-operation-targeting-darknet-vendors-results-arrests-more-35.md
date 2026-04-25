@@ -18,6 +18,12 @@ key_findings:
   - "The page provides another distinct DOJ URL documenting the same 2018 darknet-vendor operation."
 collection_url: https://www.justice.gov/usao-vt/pr/first-nationwide-undercover-operation-targeting-darknet-vendors-results-arrests-more-35
 created: 2026-04-25
+raw_path: raw/press-releases/2026-04-18_justice-gov_first-nationwide-undercover-operation-targeting-darknet-vendors-results-arrests-more-35.md
+text_status: parsed
+content_hash: sha256:e71250b3ff89226e2c2ff37035d3d4886e9aa689d4221bfe48fd340dcf89c7eb
+word_count: 183
+extraction_date: 2026-04-25
+last_fetcher: doj_fetch
 ---
 ## Source Summary
 

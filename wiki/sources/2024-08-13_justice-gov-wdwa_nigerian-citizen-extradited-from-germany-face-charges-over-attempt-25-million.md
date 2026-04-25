@@ -3,7 +3,7 @@ type: source
 title: "Nigerian citizen extradited from Germany to face charges over attempt to steal $25 million in U.S. benefits"
 source_type: press-release
 publisher: "USAO WDWA"
-author: "Staff"
+author: Staff
 publish_date: 2024-08-13
 ingest_date: 2026-04-25
 language: en
@@ -17,6 +17,12 @@ key_findings:
   - "Confirms Nigeria-Canada-Germany-U.S. transit/extradition pathway"
 collection_url: https://www.justice.gov/usao-wdwa/pr/nigerian-citizen-extradited-germany-face-charges-over-attempt-steal-25-million-us
 created: 2026-04-25
+raw_path: raw/press-releases/2024-08-13_justice-gov-wdwa_nigerian-citizen-extradited-from-germany-face-charges-over-attempt-25-million.md
+text_status: parsed
+content_hash: sha256:d00db86259d35370f28f3e50c0218c8606021d00dbb5b6435906d3c870277d70
+word_count: 1189
+extraction_date: 2026-04-25
+last_fetcher: doj_fetch
 ---
 ## Source Summary
 

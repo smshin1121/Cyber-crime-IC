@@ -17,6 +17,11 @@ key_findings:
   - "This domestic-only U.S. follow-on record has been absorbed into the canonical case page [[us-v-hadis-nuhanovic]]. No visible cross-border mechanism is documented, so it is not treated as a separate international-cooperation operation."
 collection_url: https://www.justice.gov/usao-wdwa/pr/amazon-seller-and-consultant-sentenced-20-months-prison-bribery-scheme-and-illegal
 created: 2026-04-17
+text_status: parsed
+content_hash: sha256:66a2d54fc14489346fff6fa8cc3239e12f17391954272f3388eea9871cdd2025
+word_count: 1226
+extraction_date: 2026-04-25
+last_fetcher: doj_fetch
 ---
 ## Source Summary
 

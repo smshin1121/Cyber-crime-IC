@@ -18,6 +18,12 @@ key_findings:
   - "Bridges the August 2023 charging and February 2025 sentencing in the case timeline"
 collection_url: https://www.justice.gov/usao-nj/pr/new-york-man-admits-conspiring-engage-multimillion-dollar-wire-fraud-scheme
 created: 2026-04-25
+raw_path: raw/press-releases/2024-10-01_justice-gov-usao-nj_new-york-man-admits-conspiring-engage-multimillion-dollar-wire-fraud-scheme.md
+text_status: parsed
+content_hash: sha256:2c12838f8d576035af95b5198c218ce0d6d0ed9733c61851d3d391e179acf6a1
+word_count: 756
+extraction_date: 2026-04-25
+last_fetcher: doj_fetch
 ---
 ## Source Summary
 

@@ -17,6 +17,11 @@ key_findings:
   - "This domestic-only U.S. follow-on record has been absorbed into the canonical case page [[san-francisco-resident-charged-in-alleged-identity-theft-bank-fraud-and-aggravated-identity-theft-scheme]]. No visible cross-border mechanism is documented, so it is not treated as a separate international-cooperation operation."
 collection_url: https://www.justice.gov/usao-ndca/pr/san-francisco-resident-charged-alleged-identity-theft-bank-fraud-and-aggravated
 created: 2026-04-17
+text_status: parsed
+content_hash: sha256:7421f4dc9dd7277fe7454ec7650d4de66f4db20c27de5071f3a1a59cb72ff76d
+word_count: 977
+extraction_date: 2026-04-25
+last_fetcher: doj_fetch
 ---
 ## Source Summary
 

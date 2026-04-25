@@ -12,11 +12,16 @@ reliability: medium
 credibility: confirmed
 sensitivity: public
 pages_updated:
-  []
+
 key_findings:
   - "Malaysia's national cybersecurity coordinator, established under the National Security Council; policy and CNI protection. For detailed facts, see the official source [1]."
 collection_url: https://www.nacsa.gov.my/
 created: 2026-04-17
+text_status: parsed
+content_hash: sha256:aa7bd7c20ef8df17a084cc6371478619679ffd4d1c0748aa5f8e3a37171f6f72
+word_count: 842
+extraction_date: 2026-04-25
+last_fetcher: urllib
 ---
 ## Source Summary
 

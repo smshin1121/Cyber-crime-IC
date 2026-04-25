@@ -14,12 +14,17 @@ sensitivity: public
 pages_updated:
 
 key_findings:
-  - "Secure .gov websites use HTTPS A lock ( Lock Locked padlock ) or https:// means you’ve safely connected to the .gov website. Share sensitive information only on official, secure websites."
+  - "Secure .gov websites use HTTPS A lock ( Lock Locked padlock ) or https: "// means you’ve safely connected to the .gov website. Share sensitive information only on official, secure websites.\""
 collection_url: https://www.justice.gov/usao-edca/pr/florida-man-sentenced-10-years-prison-selling-fentanyl-over-dark-web
 created: 2026-04-17
 defendant_names:
   - "Chaloner Saintillus"
 updated: 2026-04-18
+text_status: parsed
+content_hash: sha256:b9a71dd8838326e5f6529100c1ee40a6c0ecded02a6e8b56f36a92e6ac83a127
+word_count: 150
+extraction_date: 2026-04-25
+last_fetcher: doj_fetch
 ---
 ## Source Summary
 

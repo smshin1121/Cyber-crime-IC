@@ -17,6 +17,11 @@ key_findings:
   - "This domestic-only U.S. follow-on record has been absorbed into the canonical case page [[san-francisco-man-sentenced-to-84-months-in-prison-for-possession-of-child-pornography]]. No visible cross-border mechanism is documented, so it is not treated as a separate international-cooperation operation."
 collection_url: https://www.justice.gov/usao-ndca/pr/san-francisco-man-sentenced-84-months-prison-possession-child-pornography
 created: 2026-04-17
+text_status: parsed
+content_hash: sha256:5bb5efd67286d0dc4ade5ea58ceafc366896848da633345f77ad6752d9c2b178
+word_count: 773
+extraction_date: 2026-04-25
+last_fetcher: doj_fetch
 ---
 ## Source Summary
 

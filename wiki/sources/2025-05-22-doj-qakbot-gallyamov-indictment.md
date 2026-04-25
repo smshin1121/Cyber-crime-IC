@@ -17,10 +17,15 @@ pages_updated:
   - europol-ec3
   - ransomware-ic
 key_findings:
-  - "Secure .gov websites use HTTPS A lock ( Lock Locked padlock ) or https:// means you’ve safely connected to the .gov website. Share sensitive information only on official, secure websites."
+  - "Secure .gov websites use HTTPS A lock ( Lock Locked padlock ) or https: "// means you’ve safely connected to the .gov website. Share sensitive information only on official, secure websites.\""
 collection_url: https://www.justice.gov/opa/pr/leader-qakbot-malware-conspiracy-indicted-involvement-global-ransomware-scheme
 created: 2026-04-08
 updated: 2026-04-18
+text_status: parsed
+content_hash: sha256:2ede9e6a02fd3cb2a7bef140814daefc81ba05dea300aad2a81c0f723302009e
+word_count: 1227
+extraction_date: 2026-04-25
+last_fetcher: doj_fetch
 ---
 ## Source Summary
 

@@ -14,10 +14,15 @@ sensitivity: public
 pages_updated:
 
 key_findings:
-  - "Secure .gov websites use HTTPS A lock ( Lock Locked padlock ) or https:// means you’ve safely connected to the .gov website. Share sensitive information only on official, secure websites."
+  - "Secure .gov websites use HTTPS A lock ( Lock Locked padlock ) or https: "// means you’ve safely connected to the .gov website. Share sensitive information only on official, secure websites.\""
 collection_url: https://www.justice.gov/usao-dc/pr/justice-department-announces-coordinated-actions-disrupt-operations-blacksuit-royal
 created: 2026-04-18
 updated: 2026-04-18
+text_status: parsed
+content_hash: sha256:be23cc6e950a4017b1def97c9c9af37b7a325357e982b9b3e16464a1cb40ef22
+word_count: 1394
+extraction_date: 2026-04-25
+last_fetcher: doj_fetch
 ---
 ## Source Summary
 

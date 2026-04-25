@@ -17,6 +17,11 @@ key_findings:
   - "This domestic-only U.S. follow-on record has been absorbed into the canonical case page [[us-v-aidan-curry-and-connor-brooke]]. No visible cross-border mechanism is documented, so it is not treated as a separate international-cooperation operation."
 collection_url: https://www.justice.gov/usao-sdca/pr/dark-web-vendors-plead-guilty-cryptocurrency-money-laundering-conspiracy
 created: 2026-04-17
+text_status: parsed
+content_hash: sha256:ce8f0a396231c26d9d21aac64cf96a8a5d482bb5e121145cd39897eeb88d1151
+word_count: 157
+extraction_date: 2026-04-25
+last_fetcher: doj_fetch
 ---
 ## Source Summary
 

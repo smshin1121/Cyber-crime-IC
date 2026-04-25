@@ -17,6 +17,12 @@ key_findings:
   - "DOJ confirms Airbnb covert-recording extortion scheme and prior 15-letter handwritten threat campaign against second victim."
 collection_url: https://www.justice.gov/usao-edca/pr/ceres-man-sentenced-cyberstalking-two-victims
 created: 2026-04-25
+raw_path: raw/press-releases/2023-11-13_justice-gov_ceres-man-sentenced-cyberstalking-two-victims.md
+text_status: parsed
+content_hash: sha256:3f23b4b70c687f5b03eec89b6cf12be1cbd792a711c576303a74e17c0c44bc13
+word_count: 142
+extraction_date: 2026-04-25
+last_fetcher: doj_fetch
 ---
 ## Source Summary
 

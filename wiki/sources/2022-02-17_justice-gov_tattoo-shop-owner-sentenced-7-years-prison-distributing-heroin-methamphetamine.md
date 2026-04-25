@@ -17,6 +17,12 @@ key_findings:
   - "Confirms 'TheSickness' / 'SicknessVersion2' Dream Market accounts and 3,000+ transactions."
 collection_url: https://www.justice.gov/usao-edca/pr/tattoo-shop-owner-sentenced-more-7-years-prison-distributing-heroin-and-methamphetamine
 created: 2026-04-25
+raw_path: raw/press-releases/2022-02-17_justice-gov_tattoo-shop-owner-sentenced-7-years-prison-distributing-heroin-methamphetamine.md
+text_status: parsed
+content_hash: sha256:3fb5f693c815184d8e79141f46dab0c297364b35dfc7db7acaca094af5122197
+word_count: 155
+extraction_date: 2026-04-25
+last_fetcher: doj_fetch
 ---
 ## Source Summary
 

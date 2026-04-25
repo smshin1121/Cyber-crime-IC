@@ -17,6 +17,11 @@ key_findings:
   - "This domestic-only U.S. follow-on record has been absorbed into the canonical case page [[us-v-donjuan-murphy]]. No visible cross-border mechanism is documented, so it is not treated as a separate international-cooperation operation."
 collection_url: https://www.justice.gov/usao-edva/pr/firebomb-attack-plotters-sentenced-combined-over-23-years-prison
 created: 2026-04-17
+text_status: parsed
+content_hash: sha256:b91071e74ded4e5dab1b1f60f6c84dee41ce986d20cd066f3a35600593cf58e5
+word_count: 155
+extraction_date: 2026-04-25
+last_fetcher: doj_fetch
 ---
 ## Source Summary
 

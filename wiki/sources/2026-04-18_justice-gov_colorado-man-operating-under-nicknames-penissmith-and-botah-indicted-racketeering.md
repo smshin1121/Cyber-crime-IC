@@ -14,12 +14,17 @@ sensitivity: public
 pages_updated:
 
 key_findings:
-  - "Secure .gov websites use HTTPS A lock ( Lock Locked padlock ) or https:// means you’ve safely connected to the .gov website. Share sensitive information only on official, secure websites."
+  - "Secure .gov websites use HTTPS A lock ( Lock Locked padlock ) or https: "// means you’ve safely connected to the .gov website. Share sensitive information only on official, secure websites.\""
 collection_url: https://www.justice.gov/usao-edca/pr/colorado-man-operating-under-nicknames-penissmith-and-botah-indicted-racketeering
 created: 2026-04-18
 defendant_names:
   - "Bryan Connor Herrell"
 updated: 2026-04-18
+text_status: parsed
+content_hash: sha256:3af59af81f4e6ec9742947d778fcf6ad4fe63d7b6200c914d66399659e762741
+word_count: 153
+extraction_date: 2026-04-25
+last_fetcher: doj_fetch
 ---
 ## Source Summary
 

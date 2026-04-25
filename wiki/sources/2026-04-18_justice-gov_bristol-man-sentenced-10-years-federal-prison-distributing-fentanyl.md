@@ -14,10 +14,15 @@ sensitivity: public
 pages_updated:
 
 key_findings:
-  - "Secure .gov websites use HTTPS A lock ( Lock Locked padlock ) or https:// means you’ve safely connected to the .gov website. Share sensitive information only on official, secure websites."
+  - "Secure .gov websites use HTTPS A lock ( Lock Locked padlock ) or https: "// means you’ve safely connected to the .gov website. Share sensitive information only on official, secure websites.\""
 collection_url: https://www.justice.gov/usao-ct/pr/bristol-man-sentenced-10-years-federal-prison-distributing-fentanyl
 created: 2026-04-18
 updated: 2026-04-18
+text_status: parsed
+content_hash: sha256:6c28ed0427f8d2374467fd2a943baced0d68e785fd3b3022cde76eb152da8b2e
+word_count: 874
+extraction_date: 2026-04-25
+last_fetcher: doj_fetch
 ---
 ## Source Summary
 

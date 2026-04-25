@@ -14,10 +14,15 @@ sensitivity: public
 pages_updated:
 
 key_findings:
-  - "Secure .gov websites use HTTPS A lock ( Lock Locked padlock ) or https:// means you’ve safely connected to the .gov website. Share sensitive information only on official, secure websites."
+  - "Secure .gov websites use HTTPS A lock ( Lock Locked padlock ) or https: "// means you’ve safely connected to the .gov website. Share sensitive information only on official, secure websites.\""
 collection_url: https://www.justice.gov/usao-cdca/pr/two-day-takedown-results-arrest-defendants-who-allegedly-packaged-and-shipped-fentanyl
 created: 2026-04-18
 updated: 2026-04-18
+text_status: parsed
+content_hash: sha256:4e6eb9d492c000e14a99990444e3538d00478fa8a351a06dfd74a877b08874ea
+word_count: 916
+extraction_date: 2026-04-25
+last_fetcher: doj_fetch
 ---
 ## Source Summary
 

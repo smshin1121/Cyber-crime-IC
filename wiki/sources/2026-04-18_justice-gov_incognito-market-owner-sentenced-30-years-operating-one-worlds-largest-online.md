@@ -14,10 +14,15 @@ sensitivity: public
 pages_updated:
 
 key_findings:
-  - "Secure .gov websites use HTTPS A lock ( Lock Locked padlock ) or https:// means you’ve safely connected to the .gov website. Share sensitive information only on official, secure websites."
+  - "Secure .gov websites use HTTPS A lock ( Lock Locked padlock ) or https: "// means you’ve safely connected to the .gov website. Share sensitive information only on official, secure websites.\""
 collection_url: https://www.justice.gov/usao-sdny/pr/incognito-market-owner-sentenced-30-years-operating-one-worlds-largest-online
 created: 2026-04-18
 updated: 2026-04-18
+text_status: parsed
+content_hash: sha256:ec568dc7fceaafaff5e8b30d675844e932113c6f9d09faa4f598c90f61ac204c
+word_count: 1631
+extraction_date: 2026-04-25
+last_fetcher: doj_fetch
 ---
 ## Source Summary
 

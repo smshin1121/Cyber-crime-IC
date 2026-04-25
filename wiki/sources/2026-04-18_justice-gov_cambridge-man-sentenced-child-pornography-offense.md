@@ -14,12 +14,17 @@ sensitivity: public
 pages_updated:
 
 key_findings:
-  - "Secure .gov websites use HTTPS A lock ( Lock Locked padlock ) or https:// means you’ve safely connected to the .gov website. Share sensitive information only on official, secure websites."
+  - "Secure .gov websites use HTTPS A lock ( Lock Locked padlock ) or https: "// means you’ve safely connected to the .gov website. Share sensitive information only on official, secure websites.\""
 collection_url: https://www.justice.gov/usao-ma/pr/cambridge-man-sentenced-child-pornography-offense
 created: 2026-04-18
 updated: 2026-04-18
 defendant_names:
   - "Cambridge Man"
+text_status: parsed
+content_hash: sha256:985acc88fd97bfe0c8f9b3da73e2479a20bdef97c9ded432a935ffabe46ce580
+word_count: 187
+extraction_date: 2026-04-25
+last_fetcher: doj_fetch
 ---
 ## Source Summary
 

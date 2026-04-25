@@ -17,6 +17,12 @@ key_findings:
   - "Hong Kong, China, Singapore, Nigeria pathway documented."
 collection_url: https://www.justice.gov/usao-ma/pr/united-states-secures-forfeiture-over-5-million-traceable-business-email-compromise
 created: 2026-04-25
+raw_path: raw/press-releases/2025-03-26_usao-ma_forfeiture-5m-bec-massachusetts-workers-union.md
+text_status: parsed
+content_hash: sha256:c562bbbdc419e561a198480ece171354e8b40641c4c3e95db990c8f933b58665
+word_count: 198
+extraction_date: 2026-04-25
+last_fetcher: doj_fetch
 ---
 ## Source Summary
 

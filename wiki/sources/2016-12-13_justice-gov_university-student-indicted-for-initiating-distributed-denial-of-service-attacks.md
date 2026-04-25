@@ -17,6 +17,11 @@ key_findings:
   - "This domestic-only U.S. follow-on record has been absorbed into the canonical case page [[university-student-indicted-for-initiating-distributed-denial-of-service-attacks-on-bay-area-computers]]. No visible cross-border mechanism is documented, so it is not treated as a separate international-cooperation operation."
 collection_url: https://www.justice.gov/usao-ndca/pr/university-student-indicted-initiating-distributed-denial-service-attacks-bay-area
 created: 2026-04-17
+text_status: parsed
+content_hash: sha256:fee1378724561f3ce10833fef913b9f05a1a53fa635fb9a9a086a20c3a015a6b
+word_count: 763
+extraction_date: 2026-04-25
+last_fetcher: doj_fetch
 ---
 ## Source Summary
 

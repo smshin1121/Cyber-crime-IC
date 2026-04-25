@@ -3,7 +3,7 @@ type: source
 title: "Renton, Washington, resident sentenced to ten years in prison for drug trafficking while armed with a stolen handgun"
 source_type: press-release
 publisher: "USAO WDWA"
-author: "Staff"
+author: Staff
 publish_date: 2023-01-10
 ingest_date: 2026-04-25
 language: en
@@ -16,6 +16,12 @@ key_findings:
   - "Renton/South King County trafficking task force context"
 collection_url: https://www.justice.gov/usao-wdwa/pr/renton-washington-resident-sentenced-ten-years-prison-drug-trafficking-while-armed
 created: 2026-04-25
+raw_path: raw/press-releases/2023-01-10_justice-gov-wdwa_renton-washington-resident-sentenced-ten-years-prison-drug-trafficking-stolen-handgun.md
+text_status: parsed
+content_hash: sha256:13226eaf9c48e0e603a690c0e48b444a1742fdbd25fd91e3ef52af314caea55b
+word_count: 999
+extraction_date: 2026-04-25
+last_fetcher: doj_fetch
 ---
 ## Source Summary
 

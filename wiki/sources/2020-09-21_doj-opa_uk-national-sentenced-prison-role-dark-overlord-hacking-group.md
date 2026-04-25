@@ -3,7 +3,7 @@ type: source
 title: "UK National Sentenced to Prison for Role in 'The Dark Overlord' Hacking Group"
 source_type: press-release
 publisher: "US DOJ Office of Public Affairs"
-author: "Staff"
+author: Staff
 publish_date: 2020-09-21
 ingest_date: 2026-04-25
 language: en
@@ -18,6 +18,12 @@ key_findings:
   - "Sentencing follows December 2019 extradition from the United Kingdom and 2020 guilty plea"
 collection_url: https://www.justice.gov/archives/opa/pr/uk-national-sentenced-prison-role-dark-overlord-hacking-group
 created: 2026-04-25
+raw_path: raw/press-releases/2020-09-21_doj-opa_uk-national-sentenced-prison-role-dark-overlord-hacking-group.md
+text_status: parsed
+content_hash: sha256:c60d6a0e761a58086c682b5979b8e1a8a51d6ae7cae95541d80ea22ebd462730
+word_count: 871
+extraction_date: 2026-04-25
+last_fetcher: doj_fetch
 ---
 ## Source Summary
 

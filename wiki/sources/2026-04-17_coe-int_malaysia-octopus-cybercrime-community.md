@@ -12,11 +12,16 @@ reliability: medium
 credibility: confirmed
 sensitivity: public
 pages_updated:
-  []
+
 key_findings:
   - "Malaysia's cybercrime framework rests on the 1997 **Computer Crimes Act** — one of the oldest cyber laws in Asia — and the Communications and Multimedia Act 1998. The framework is *highly likely* outdated relative to modern threats. Malaysia is not currently a party to the Budapest Convention but has announced intent to accede through the National Cyber Security Agency (NACSA)."
 collection_url: https://www.coe.int/en/web/octopus/-/malaysia
 created: 2026-04-17
+text_status: parsed
+content_hash: sha256:4fd42ed09a59236c945f3b189d28178dcfc8dbd82c0d06f9d13ed26345e45572
+word_count: 1371
+extraction_date: 2026-04-25
+last_fetcher: jina
 ---
 ## Source Summary
 

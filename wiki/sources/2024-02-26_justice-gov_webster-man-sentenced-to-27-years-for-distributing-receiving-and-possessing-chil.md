@@ -17,6 +17,11 @@ key_findings:
   - "This domestic-only U.S. follow-on record has been absorbed into the canonical case page [[us-v-webster-man]]. No visible cross-border mechanism is documented, so it is not treated as a separate international-cooperation operation."
 collection_url: https://www.justice.gov/usao-mdfl/pr/webster-man-sentenced-27-years-distributing-receiving-and-possessing-child-sexual
 created: 2026-04-17
+text_status: parsed
+content_hash: sha256:02dd164c56f56b022f5a4c3930d3b5ac4ac355c77e1d611436efa25a9975c30d
+word_count: 814
+extraction_date: 2026-04-25
+last_fetcher: doj_fetch
 ---
 ## Source Summary
 

@@ -17,6 +17,11 @@ key_findings:
   - "This domestic-only U.S. follow-on record has been absorbed into the canonical case page [[pilots-indicted-for-wire-fraud]]. No visible cross-border mechanism is documented, so it is not treated as a separate international-cooperation operation."
 collection_url: https://www.justice.gov/usao-mdfl/pr/pilots-indicted-wire-fraud
 created: 2026-04-17
+text_status: parsed
+content_hash: sha256:f89cc9dcab607b90cd88ca5af41583831b996b72a14d72909e98d8b361cdfede
+word_count: 730
+extraction_date: 2026-04-25
+last_fetcher: doj_fetch
 ---
 ## Source Summary
 

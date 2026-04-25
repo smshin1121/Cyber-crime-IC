@@ -16,6 +16,12 @@ key_findings:
   - "Official DOJ case page consolidating indictment, plea, and sentencing for Thomas Kennedy McCormick"
 collection_url: https://www.justice.gov/usao-dc/us-v-thomas-mccormick
 created: 2026-04-25
+raw_path: raw/case-documents/2023-11-15_justice-gov_us-v-thomas-mccormick-case-page.md
+text_status: parsed
+content_hash: sha256:8098b34b832a24721986957a9d522461e6480157ccc02f80ded35a75d61a70de
+word_count: 1640
+extraction_date: 2026-04-25
+last_fetcher: doj_fetch
 ---
 ## Source Summary
 

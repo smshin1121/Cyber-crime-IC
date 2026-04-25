@@ -17,6 +17,11 @@ key_findings:
   - "This domestic-only U.S. follow-on record has been absorbed into the canonical case page [[two-tulsans-sentenced-for-running-illegal-dark-web-cryptocurrency-pharmacy]]. No visible cross-border mechanism is documented, so it is not treated as a separate international-cooperation operation."
 collection_url: https://www.justice.gov/usao-ndok/pr/two-tulsans-sentenced-running-illegal-dark-web-cryptocurrency-pharmacy
 created: 2026-04-17
+text_status: parsed
+content_hash: sha256:4e1d19ac009fcc35f5c35717fe2208d4a31c1dc690dbadcb396e83c7c8ef8c20
+word_count: 812
+extraction_date: 2026-04-25
+last_fetcher: doj_fetch
 ---
 ## Source Summary
 

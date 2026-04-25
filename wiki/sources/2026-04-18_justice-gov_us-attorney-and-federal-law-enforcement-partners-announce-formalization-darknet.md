@@ -14,10 +14,15 @@ sensitivity: public
 pages_updated:
 
 key_findings:
-  - "Secure .gov websites use HTTPS A lock ( Lock Locked padlock ) or https:// means you’ve safely connected to the .gov website. Share sensitive information only on official, secure websites."
+  - "Secure .gov websites use HTTPS A lock ( Lock Locked padlock ) or https: "// means you’ve safely connected to the .gov website. Share sensitive information only on official, secure websites.\""
 collection_url: https://www.justice.gov/usao-az/pr/us-attorney-and-federal-law-enforcement-partners-announce-formalization-darknet
 created: 2026-04-18
 updated: 2026-04-18
+text_status: parsed
+content_hash: sha256:4e6dfa06d4d3d479796f2a314bef5ffee1215b4b477a32bcd9ef15cae2805773
+word_count: 176
+extraction_date: 2026-04-25
+last_fetcher: doj_fetch
 ---
 ## Source Summary
 

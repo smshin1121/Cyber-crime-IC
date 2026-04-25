@@ -17,6 +17,11 @@ key_findings:
   - "This domestic-only U.S. follow-on record has been absorbed into the canonical case page [[thirty-six-defendants-indicted-for-alleged-roles-in-transnational-criminal-organization-responsible-for-more-t]]. No visible cross-border mechanism is documented, so it is not treated as a separate international-cooperation operation."
 collection_url: https://www.justice.gov/usao-nv/pr/thirty-six-defendants-indicted-alleged-roles-transnational-criminal-organization
 created: 2026-04-17
+text_status: parsed
+content_hash: sha256:769d6ad356e05e779e2b2c6ad2115a13888311e392b3bc9da9b469c175d91bcc
+word_count: 132
+extraction_date: 2026-04-25
+last_fetcher: doj_fetch
 ---
 ## Source Summary
 

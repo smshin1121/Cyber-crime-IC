@@ -17,6 +17,11 @@ key_findings:
   - "This domestic-only U.S. follow-on record has been absorbed into the canonical case page [[us-v-carl-de-vera-bennington]]. No visible cross-border mechanism is documented, so it is not treated as a separate international-cooperation operation."
 collection_url: https://www.justice.gov/usao-cdca/pr/covina-man-sentenced-18-months-prison-cyberstalking
 created: 2026-04-17
+text_status: parsed
+content_hash: sha256:9a42ae8cc8a3a606e634baed04fa3f667b52ce645b256e3d314a2d0cf57bd2f5
+word_count: 854
+extraction_date: 2026-04-25
+last_fetcher: doj_fetch
 ---
 ## Source Summary
 

@@ -14,13 +14,18 @@ sensitivity: public
 pages_updated:
 
 key_findings:
-  - "Secure .gov websites use HTTPS A lock ( Lock Locked padlock ) or https:// means you’ve safely connected to the .gov website. Share sensitive information only on official, secure websites."
+  - "Secure .gov websites use HTTPS A lock ( Lock Locked padlock ) or https: "// means you’ve safely connected to the .gov website. Share sensitive information only on official, secure websites.\""
 collection_url: https://www.justice.gov/usao-edky/pr/lexington-couple-sentenced-participating-darknet-marketplace-drug-trafficking
 created: 2026-04-18
 defendant_names:
   - "Benjamin Norman Joseph Flanigan"
   - "Haleigh Breanne Flanigan"
 updated: 2026-04-18
+text_status: parsed
+content_hash: sha256:34b575f3e35eec088adb1107bdc7731bb751391b1e61c8dd1a8d09c8641dec74
+word_count: 725
+extraction_date: 2026-04-25
+last_fetcher: doj_fetch
 ---
 ## Source Summary
 

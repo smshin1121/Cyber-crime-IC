@@ -17,6 +17,11 @@ key_findings:
   - "This domestic-only U.S. follow-on record has been absorbed into the canonical case page [[us-v-gutierrez-villasenor-dark-web]]. No visible cross-border mechanism is documented, so it is not treated as a separate international-cooperation operation."
 collection_url: https://www.justice.gov/usao-ndca/pr/darknet-drug-vendor-sentenced-10-years-prison
 created: 2026-04-17
+text_status: parsed
+content_hash: sha256:a0a72097a0efa9fac22bffe079ac9c6c506c24061e8e892db7ba0b0196fb9e35
+word_count: 1112
+extraction_date: 2026-04-25
+last_fetcher: doj_fetch
 ---
 ## Source Summary
 

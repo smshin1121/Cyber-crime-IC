@@ -12,11 +12,16 @@ reliability: high
 credibility: confirmed
 sensitivity: public
 pages_updated:
-  []
+
 key_findings:
   - "**INTERPOL** (International Criminal Police Organization) is the world's largest international police organization, with **196 member countries**. Headquartered in **Lyon, France**, INTERPOL facilitates cross-border police cooperation through its secure global communications network (**I-24/7**), international notice system (**Red Notices**, Blue Notices, Purple Notices), criminal databases, and operational support for multinational law enforcement operations."
 collection_url: https://www.interpol.int/en/News-and-Events/News/2025/INTERPOL-s-Asian-conference-to-address-regional-crime-threats
 created: 2026-04-17
+text_status: parsed
+content_hash: sha256:326815b7125f2e39668185fdcb3a3826eec76b8cb2f8594f2b909df8f0668616
+word_count: 458
+extraction_date: 2026-04-25
+last_fetcher: urllib
 ---
 ## Source Summary
 

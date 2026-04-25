@@ -17,6 +17,11 @@ key_findings:
   - "This domestic-only U.S. follow-on record has been absorbed into the canonical case page [[nevada-woman-sentenced-to-5-years-prison-for-hiring-hitman-on-dark-web-to-kill-her-ex-husband]]. No visible cross-border mechanism is documented, so it is not treated as a separate international-cooperation operation."
 collection_url: https://www.justice.gov/usao-edca/pr/nevada-woman-sentenced-5-years-prison-hiring-hitman-dark-web-kill-her-ex-husband
 created: 2026-04-17
+text_status: parsed
+content_hash: sha256:42cbdbc332f2f125d160b917f70f1afddee4cb60e85d1ab0e56bb41d42e59203
+word_count: 152
+extraction_date: 2026-04-25
+last_fetcher: doj_fetch
 ---
 ## Source Summary
 

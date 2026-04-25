@@ -17,6 +17,12 @@ key_findings:
   - "Confirms Uganda deportation as international cooperation mechanism"
 collection_url: https://www.fbi.gov/contact-us/field-offices/pittsburgh/news/press-releases/u.s.-citizen-deported-from-uganda-to-face-counterfeiting-charges-in-western-pennsylvania
 created: 2026-04-25
+raw_path: raw/press-releases/2015-12-11_fbi-pittsburgh_us-citizen-deported-from-uganda-to-face-counterfeiting-charges-in-western-pa.md
+text_status: parsed
+content_hash: sha256:1fecdf5eaad320e8e7cbf941baf88ac1e3d689bcf9593caab6d76ef372246dfd
+word_count: 834
+extraction_date: 2026-04-25
+last_fetcher: urllib
 ---
 ## Source Summary
 

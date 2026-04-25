@@ -17,6 +17,11 @@ key_findings:
   - "This domestic-only U.S. follow-on record has been absorbed into the canonical case page [[southern-california-resident-sentenced-to-34-months-in-prison-for-role-in-bank-fraud-conspiracy]]. No visible cross-border mechanism is documented, so it is not treated as a separate international-cooperation operation."
 collection_url: https://www.justice.gov/usao-ndca/pr/southern-california-resident-sentenced-34-months-prison-role-bank-fraud-conspiracy
 created: 2026-04-17
+text_status: parsed
+content_hash: sha256:8b5c002d18a5c718450208a8ad844ecca832398c323c31316970c3cbb4f43a23
+word_count: 842
+extraction_date: 2026-04-25
+last_fetcher: doj_fetch
 ---
 ## Source Summary
 

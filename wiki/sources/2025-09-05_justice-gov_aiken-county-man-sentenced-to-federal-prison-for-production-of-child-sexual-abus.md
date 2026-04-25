@@ -17,6 +17,11 @@ key_findings:
   - "This domestic-only U.S. follow-on record has been absorbed into the canonical case page [[us-v-adam-sloan]]. No visible cross-border mechanism is documented, so it is not treated as a separate international-cooperation operation."
 collection_url: https://www.justice.gov/usao-sc/pr/aiken-county-man-sentenced-federal-prison-production-child-sexual-abuse-material
 created: 2026-04-17
+text_status: parsed
+content_hash: sha256:12286e546a6a1dc468bcf64a4cb3894be1e639fb07b26336629bf930a36c171a
+word_count: 852
+extraction_date: 2026-04-25
+last_fetcher: doj_fetch
 ---
 ## Source Summary
 

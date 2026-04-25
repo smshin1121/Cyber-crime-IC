@@ -17,6 +17,11 @@ key_findings:
   - "This domestic-only U.S. follow-on record has been absorbed into the canonical case page [[the-drug-llama-pleads-guilty-to-distributing-fentanyl-on-the-dark-web]]. No visible cross-border mechanism is documented, so it is not treated as a separate international-cooperation operation."
 collection_url: https://www.justice.gov/usao-sdil/pr/drug-llama-pleads-guilty-distributing-fentanyl-dark-web
 created: 2026-04-17
+text_status: parsed
+content_hash: sha256:57e8e25de93df3888e37e25170491c565f88e60e429e42a1ce3d6e9f7aed0708
+word_count: 1204
+extraction_date: 2026-04-25
+last_fetcher: doj_fetch
 ---
 ## Source Summary
 

@@ -14,10 +14,15 @@ sensitivity: public
 pages_updated:
 
 key_findings:
-  - "Secure .gov websites use HTTPS A lock ( Lock Locked padlock ) or https:// means you’ve safely connected to the .gov website. Share sensitive information only on official, secure websites."
+  - "Secure .gov websites use HTTPS A lock ( Lock Locked padlock ) or https: "// means you’ve safely connected to the .gov website. Share sensitive information only on official, secure websites.\""
 collection_url: https://www.justice.gov/criminal/criminal-ccips/criminal-division-strategic-approach-countering-cybercrime
 created: 2026-04-18
 updated: 2026-04-18
+text_status: parsed
+content_hash: sha256:14dc7e1e71590d0bc385342e81fd4cc1c0852ab5b386a4e9fb982619e9a99eb1
+word_count: 1855
+extraction_date: 2026-04-25
+last_fetcher: doj_fetch
 ---
 ## Source Summary
 

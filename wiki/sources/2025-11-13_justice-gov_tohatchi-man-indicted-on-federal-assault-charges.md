@@ -17,6 +17,11 @@ key_findings:
   - "This domestic-only U.S. follow-on record has been absorbed into the canonical case page [[tohatchi-man-indicted-on-federal-assault-charges]]. No visible cross-border mechanism is documented, so it is not treated as a separate international-cooperation operation."
 collection_url: https://www.justice.gov/usao-nm/pr/tohatchi-man-indicted-federal-assault-charges
 created: 2026-04-17
+text_status: parsed
+content_hash: sha256:953e0a0162c16f1c1cba8c88f2ddce269641fd15770477b8d09060280869923e
+word_count: 560
+extraction_date: 2026-04-25
+last_fetcher: doj_fetch
 ---
 ## Source Summary
 

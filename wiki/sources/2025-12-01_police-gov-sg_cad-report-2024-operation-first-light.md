@@ -17,8 +17,13 @@ key_findings:
   - "CAD Report 2024 places Singapore inside Operation First Light 2024 and ties the operation to anti-fraud enforcement against money-laundering cells."
   - "The report describes cooperation between Singapore's CAD and Malaysia's Commercial Crime Investigation Department."
   - "The report references I-GRIP-style stop-payment and account-freezing work around scam proceeds."
-collection_url: "https://www.police.gov.sg/-/media/SPF/Media-Room/Publications/CAD-Report-2024/CAD-Report-2024.pdf"
+collection_url: https://www.police.gov.sg/-/media/SPF/Media-Room/Publications/CAD-Report-2024/CAD-Report-2024.pdf
 created: 2026-04-23
+text_status: parsed
+content_hash: sha256:8ef42d64cecdae9adf7134ecc10fe80ae9c3a133c8b944a525d20f9f0b100228
+word_count: 30812
+extraction_date: 2026-04-25
+last_fetcher: jina
 ---
 ## Source Summary
 

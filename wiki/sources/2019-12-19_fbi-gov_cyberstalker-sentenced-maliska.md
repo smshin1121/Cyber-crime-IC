@@ -17,6 +17,12 @@ key_findings:
   - "Defendant identified as Andrew T. Maliska of Nashville, TN"
 collection_url: https://www.fbi.gov/news/stories/cyberstalker-sentenced-121919
 created: 2026-04-25
+raw_path: raw/press-releases/2019-12-19_fbi-gov_cyberstalker-sentenced.md
+text_status: parsed
+content_hash: sha256:21a1e4f3c9267ca99e61d8882702677e86676f4ae4c6677078cd7884f6b575a9
+word_count: 908
+extraction_date: 2026-04-25
+last_fetcher: urllib
 ---
 ## Source Summary
 

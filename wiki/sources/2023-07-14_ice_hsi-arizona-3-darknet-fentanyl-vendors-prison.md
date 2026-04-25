@@ -17,6 +17,12 @@ key_findings:
   - "HSI Arizona led the investigation; EDVA prosecuted — cross-district cooperation."
 collection_url: https://www.ice.gov/news/releases/hsi-arizona-investigation-sends-3-darknet-fentanyl-vendors-prison-more-20-years
 created: 2026-04-25
+raw_path: raw/press-releases/2023-07-14_ice_hsi-arizona-3-darknet-fentanyl-vendors-prison.md
+text_status: parsed
+content_hash: sha256:3c7550c7b89c7cfd2f589f8a87442c8f56ba6bdca1edd29e19d8b38c20a19b9e
+word_count: 1193
+extraction_date: 2026-04-25
+last_fetcher: urllib
 ---
 ## Source Summary
 

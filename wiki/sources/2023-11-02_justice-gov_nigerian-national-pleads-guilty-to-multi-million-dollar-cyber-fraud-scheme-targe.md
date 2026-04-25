@@ -17,6 +17,11 @@ key_findings:
   - "This domestic-only U.S. follow-on record has been absorbed into the canonical case page [[nigerian-national-pleads-guilty-to-multi-million-dollar-cyber-fraud-scheme-targeting-tulsa-company-and-four-ot]]. No visible cross-border mechanism is documented, so it is not treated as a separate international-cooperation operation."
 collection_url: https://www.justice.gov/usao-ndok/pr/nigerian-national-pleads-guilty-multi-million-dollar-cyber-fraud-scheme-targeting
 created: 2026-04-17
+text_status: parsed
+content_hash: sha256:767a98d79ec05e146b3ec78a190d32fff4b086a4b239b9dd4af96b9645f582c8
+word_count: 784
+extraction_date: 2026-04-25
+last_fetcher: doj_fetch
 ---
 ## Source Summary
 

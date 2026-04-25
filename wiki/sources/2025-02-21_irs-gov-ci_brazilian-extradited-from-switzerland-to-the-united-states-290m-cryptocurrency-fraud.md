@@ -3,7 +3,7 @@ type: source
 title: "Brazilian extradited from Switzerland to the United States to face indictment charging involvement in $290m+ cryptocurrency fraud scheme"
 source_type: press-release
 publisher: "IRS Criminal Investigation"
-author: "Staff"
+author: Staff
 publish_date: 2025-02-21
 ingest_date: 2026-04-25
 language: en
@@ -17,6 +17,12 @@ key_findings:
   - "82,000 bitcoins from 100,000+ investors via Trade Coin Club Ponzi"
 collection_url: https://www.irs.gov/compliance/criminal-investigation/brazilian-extradited-from-switzerland-to-the-united-states-to-face-indictment-charging-involvement-in-290m-plus-cryptocurrency-fraud-scheme
 created: 2026-04-25
+raw_path: raw/press-releases/2025-02-21_irs-gov-ci_brazilian-extradited-from-switzerland-to-the-united-states-290m-cryptocurrency-fraud.md
+text_status: parsed
+content_hash: sha256:95b15f7989aa573f306867b7f1cb1b777da9e598c1bea022334ba628efc059f6
+word_count: 424
+extraction_date: 2026-04-25
+last_fetcher: urllib
 ---
 ## Source Summary
 

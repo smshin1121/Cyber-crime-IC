@@ -3,7 +3,7 @@ type: source
 title: "Nigerian state official sentenced to 5 years in prison for stealing U.S. disaster aid and taxpayer refunds"
 source_type: press-release
 publisher: "IRS Criminal Investigation"
-author: "Staff"
+author: Staff
 publish_date: 2022-09-26
 ingest_date: 2026-04-25
 language: en
@@ -17,6 +17,12 @@ key_findings:
   - "Confirms IRS-CI's lead role and the $2.4 million attempted-fraud figure."
 collection_url: https://www.irs.gov/compliance/criminal-investigation/nigerian-state-official-sentenced-to-5-years-in-prison-for-stealing-us-disaster-aid-and-taxpayer-refunds
 created: 2026-04-25
+raw_path: raw/press-releases/2022-09-26_irs-gov_nigerian-state-official-sentenced-5-years-stealing-us-disaster-aid-taxpayer-refunds.md
+text_status: parsed
+content_hash: sha256:f33a692cc61c394c6a4ba688980c1dee00f7c7539d5cf727dca2c875a6d72a80
+word_count: 424
+extraction_date: 2026-04-25
+last_fetcher: urllib
 ---
 ## Source Summary
 

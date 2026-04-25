@@ -17,6 +17,11 @@ key_findings:
   - "**Africa Cyber Surge II** was a major [[interpol|INTERPOL]]-[[afripol|AFRIPOL]] operation spanning 25 African countries. INTERPOL reported 14 arrests, the identification of 20,674 suspicious cyber networks, and linked losses exceeding USD 40 million across schemes involving phishing, business email compromise, digital extortion, and online fraud."
 collection_url: https://www.coe.int/en/web/cybercrime/-/glacy-supports-interpol-s-africa-cyber-surge-operation-ii
 created: 2026-04-17
+text_status: parsed
+content_hash: sha256:7d551fd9f6a62d0fa01c1861df27fbded26c6e6c482384f67d373285b889db18
+word_count: 2245
+extraction_date: 2026-04-25
+last_fetcher: jina
 ---
 ## Source Summary
 

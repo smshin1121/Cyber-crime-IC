@@ -17,6 +17,11 @@ key_findings:
   - "This domestic-only U.S. follow-on record has been absorbed into the canonical case page [[us-v-for-possessing-child-sexual]]. No visible cross-border mechanism is documented, so it is not treated as a separate international-cooperation operation."
 collection_url: https://www.justice.gov/usao-mdfl/pr/davenport-man-indicted-possessing-child-sexual-abuse-material
 created: 2026-04-17
+text_status: parsed
+content_hash: sha256:0ad117bedf877bd1c9d3693c6cc733c655cc6882ca8c429695a07acf5fa27ccc
+word_count: 710
+extraction_date: 2026-04-25
+last_fetcher: doj_fetch
 ---
 ## Source Summary
 

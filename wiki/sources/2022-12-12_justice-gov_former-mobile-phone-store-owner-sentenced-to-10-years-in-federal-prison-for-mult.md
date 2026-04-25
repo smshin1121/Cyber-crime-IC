@@ -17,6 +17,11 @@ key_findings:
   - "This domestic-only U.S. follow-on record has been absorbed into the canonical case page [[us-v-argishti-khudaverdyan-and-eagle-rock]]. No visible cross-border mechanism is documented, so it is not treated as a separate international-cooperation operation."
 collection_url: https://www.justice.gov/usao-cdca/pr/former-mobile-phone-store-owner-sentenced-10-years-federal-prison-multimillion-dollar
 created: 2026-04-17
+text_status: parsed
+content_hash: sha256:69d7647b465b9f4dc8a7474be39046792a75ec2f52e75f5a36381a2d6d0a9b96
+word_count: 1200
+extraction_date: 2026-04-25
+last_fetcher: doj_fetch
 ---
 ## Source Summary
 

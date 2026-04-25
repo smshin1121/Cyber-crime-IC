@@ -12,11 +12,16 @@ reliability: medium
 credibility: confirmed
 sensitivity: public
 pages_updated:
-  []
+
 key_findings:
   - "Tanzania is a **non-party** to the [[budapest-convention|Budapest Convention]]. Its primary cybercrime legislation is the **Cybercrimes Act, 2015** [1], which has been controversial for including content-related offences that civil society organizations have characterized as restricting free expression."
 collection_url: https://www.parliament.go.tz/
 created: 2026-04-17
+text_status: parsed
+content_hash: sha256:3d858c264e712bdfb9fcf2e1825f35a5e061da5f6a713159a5fde687724c1bbf
+word_count: 1043
+extraction_date: 2026-04-25
+last_fetcher: urllib
 ---
 ## Source Summary
 

@@ -17,6 +17,11 @@ key_findings:
   - "This domestic-only U.S. follow-on record has been absorbed into the canonical case page [[us-v-henry-konah-koffie]]. No visible cross-border mechanism is documented, so it is not treated as a separate international-cooperation operation."
 collection_url: https://www.justice.gov/usao-or/pr/jury-convicts-pennsylvania-man-dealing-fentanyl-analogue-caused-fatal-overdoses-oregon
 created: 2026-04-17
+text_status: parsed
+content_hash: sha256:b0d10413a648dca86a75b77d65535fd3ac9c8fefe128397eb4333caa6d658403
+word_count: 1739
+extraction_date: 2026-04-25
+last_fetcher: doj_fetch
 ---
 ## Source Summary
 

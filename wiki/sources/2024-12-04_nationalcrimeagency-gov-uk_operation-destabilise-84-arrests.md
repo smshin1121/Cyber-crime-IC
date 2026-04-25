@@ -20,6 +20,12 @@ key_findings:
   - "The official announcement reported 84 arrests and identified the disrupted networks as major financial enablers for cybercrime."
   - "The release linked the operation to coordinated U.S. sanctions action and broader international partner support."
 created: 2026-04-18
+raw_path: raw/press-releases/2024-12-04_nationalcrimeagency-gov-uk_operation-destabilise-nca-disrupts-multi-billion-money-laundering-networks.md
+text_status: parsed
+content_hash: sha256:a741857b1346efee041b25edcf0e6ee369ac9be5328d660581421318cc292682
+word_count: 178
+extraction_date: 2026-04-25
+last_fetcher: urllib
 ---
 ## Source Summary
 

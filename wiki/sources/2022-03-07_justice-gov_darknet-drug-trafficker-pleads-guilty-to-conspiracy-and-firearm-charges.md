@@ -17,6 +17,11 @@ key_findings:
   - "This domestic-only U.S. follow-on record has been absorbed into the canonical case page [[us-v-nicholas-partlow-dark-web]]. No visible cross-border mechanism is documented, so it is not treated as a separate international-cooperation operation."
 collection_url: https://www.justice.gov/usao-wdwa/pr/darknet-drug-trafficker-pleads-guilty-conspiracy-and-firearm-charges
 created: 2026-04-17
+text_status: parsed
+content_hash: sha256:ad561cb49639facfd65e86cc6e0afb289de35d975a1ddbb8d371eab5e3942bf4
+word_count: 922
+extraction_date: 2026-04-25
+last_fetcher: doj_fetch
 ---
 ## Source Summary
 

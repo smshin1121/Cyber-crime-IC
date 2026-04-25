@@ -2,7 +2,7 @@
 type: source
 title: "INTERPOL Annual Report 2024 - Operation Orion International"
 source_type: report
-publisher: "INTERPOL"
+publisher: INTERPOL
 author: ""
 publish_date: 2025-02-01
 ingest_date: 2026-04-23
@@ -13,11 +13,17 @@ sensitivity: public
 pages_updated:
   - operation-orion-international
   - operation-operation-orion-international-144-arrested-in-major-child-abuse-operation-across-south-america
-collection_url: https://www.interpol.int/en/content/download/23674/file/Annual_Report%202024_EN.pdf
+collection_url: "https://www.interpol.int/en/content/download/23674/file/Annual_Report%202024_EN.pdf"
 created: 2026-04-23
 key_findings:
   - "INTERPOL's 2024 annual report listed Operation Orion International as a September 2024 operational result."
   - "The report repeated the 144-arrest and 20-child-rescue figures."
+raw_path: raw/government-reports/2025-02-01_interpol-int_annual-report-2024-operation-orion-international.md
+text_status: parsed
+content_hash: sha256:78f2503cc2e50fd19d7af94b4611d63a178a4d44982d191ba98b1c316de7cb3a
+word_count: 4094
+extraction_date: 2026-04-25
+last_fetcher: jina
 ---
 ## Source Summary
 

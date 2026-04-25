@@ -17,6 +17,12 @@ key_findings:
   - "Investigation joint effort by IRS-CI, DEA, and UK National Crime Agency."
 collection_url: https://www.irs.gov/compliance/criminal-investigation/defendant-pleads-guilty-in-dark-web-narcotics-case-involving-largest-cryptocurrency-seizure-of-150-million-in-drug-proceeds
 created: 2026-04-25
+raw_path: raw/press-releases/2024-01-26_irs_defendant-pleads-guilty-dark-web-narcotics-150m-cryptocurrency-seizure.md
+text_status: parsed
+content_hash: sha256:1c02635392128a8676f59552503d89d622c2900cc496da5b13d2c98525aa314e
+word_count: 424
+extraction_date: 2026-04-25
+last_fetcher: urllib
 ---
 ## Source Summary
 

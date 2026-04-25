@@ -17,6 +17,11 @@ key_findings:
   - "This domestic-only U.S. follow-on record has been absorbed into the canonical case page [[owners-of-empire-market-charged-in-chicago-with-operating-430-million-dark-web-marketplace]]. No visible cross-border mechanism is documented, so it is not treated as a separate international-cooperation operation."
 collection_url: https://www.justice.gov/usao-ndil/pr/owners-empire-market-charged-chicago-operating-430-million-dark-web-marketplace
 created: 2026-04-17
+text_status: parsed
+content_hash: sha256:521e40f1e823afdd8d6ca7898d74ae2c247d792d70f6571661a5f701dc3d23af
+word_count: 869
+extraction_date: 2026-04-25
+last_fetcher: doj_fetch
 ---
 ## Source Summary
 

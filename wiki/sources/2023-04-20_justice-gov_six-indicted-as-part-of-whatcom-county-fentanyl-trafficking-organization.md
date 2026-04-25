@@ -17,6 +17,11 @@ key_findings:
   - "This domestic-only U.S. follow-on record has been absorbed into the canonical case page [[six-indicted-as-part-of-whatcom-county-fentanyl-trafficking-organization]]. No visible cross-border mechanism is documented, so it is not treated as a separate international-cooperation operation."
 collection_url: https://www.justice.gov/usao-wdwa/pr/six-indicted-part-whatcom-county-fentanyl-trafficking-organization
 created: 2026-04-17
+text_status: parsed
+content_hash: sha256:ff096e86d51475ce13596454523668a592dc53eac5b0e2bf3c04c32eed50a8e9
+word_count: 1224
+extraction_date: 2026-04-25
+last_fetcher: doj_fetch
 ---
 ## Source Summary
 

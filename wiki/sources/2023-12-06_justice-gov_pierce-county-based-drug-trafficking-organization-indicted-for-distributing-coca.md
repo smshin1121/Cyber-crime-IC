@@ -17,6 +17,11 @@ key_findings:
   - "This domestic-only U.S. follow-on record has been absorbed into the canonical case page [[pierce-county-based-drug-trafficking-organization-indicted-for-distributing-cocaine-fentanyl-and-marijuana]]. No visible cross-border mechanism is documented, so it is not treated as a separate international-cooperation operation."
 collection_url: https://www.justice.gov/usao-wdwa/pr/pierce-county-based-drug-trafficking-organization-indicted-distributing-cocaine
 created: 2026-04-17
+text_status: parsed
+content_hash: sha256:a97e0df6252bd3b3ee4ffa357e20083ea183a8c7697d4c2e8486797e36c41802
+word_count: 1186
+extraction_date: 2026-04-25
+last_fetcher: doj_fetch
 ---
 ## Source Summary
 

@@ -17,6 +17,12 @@ key_findings:
   - "Confirms supervisory role in BEC scheme targeting U.S. businesses across multiple states."
 collection_url: https://www.justice.gov/usao-ct/pr/nigerian-national-sentenced-45-months-federal-prison-role-business-e-mail-compromise
 created: 2026-04-25
+raw_path: raw/press-releases/2018-12-12_justice-gov_nigerian-national-sentenced-45-months-prison-business-email-compromise-scheme.md
+text_status: parsed
+content_hash: sha256:8579469b8cfb2dbda3bf62364d8811d8ce25f5abf7739d4afc2cb896916bb27f
+word_count: 1023
+extraction_date: 2026-04-25
+last_fetcher: doj_fetch
 ---
 ## Source Summary
 

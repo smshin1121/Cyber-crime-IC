@@ -17,6 +17,12 @@ key_findings:
   - "Documents money laundering investigation element."
 collection_url: https://www.irs.gov/compliance/criminal-investigation/sacramento-grand-jury-indicts-riverside-county-man-and-woman-for-fentanyl-distribution-and-money-laundering-conspiracy
 created: 2026-04-25
+raw_path: raw/press-releases/2022-05-13_irs-gov_sacramento-grand-jury-indicts-riverside-county-fentanyl-money-laundering.md
+text_status: parsed
+content_hash: sha256:bb459dc59a7cc89b996d8873483b1fc7941269400016c8e7f33b338af8c7302f
+word_count: 420
+extraction_date: 2026-04-25
+last_fetcher: urllib
 ---
 ## Source Summary
 

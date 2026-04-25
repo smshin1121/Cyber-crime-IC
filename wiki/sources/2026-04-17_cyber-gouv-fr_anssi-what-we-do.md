@@ -12,11 +12,16 @@ reliability: medium
 credibility: confirmed
 sensitivity: public
 pages_updated:
-  []
+
 key_findings:
   - "France is a **foundational partner** in European cybercrime cooperation. It was one of the early ratifying parties to the [[budapest-convention|Budapest Convention on Cybercrime]] (ratified 10 January 2006; entry into force 1 May 2006) and operates a mature 24/7 Point of Contact at the **OCLCTIC** since 2000."
 collection_url: https://cyber.gouv.fr/en
 created: 2026-04-17
+text_status: parsed
+content_hash: sha256:c6a68c22bfed920981a99aac53f5f44446ad0f4e8444e77e81ebfc0d863d7370
+word_count: 372
+extraction_date: 2026-04-25
+last_fetcher: urllib
 ---
 ## Source Summary
 

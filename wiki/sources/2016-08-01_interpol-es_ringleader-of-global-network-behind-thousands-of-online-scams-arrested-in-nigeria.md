@@ -12,11 +12,16 @@ reliability: high
 credibility: confirmed
 sensitivity: public
 pages_updated:
-  []
+
 key_findings:
   - "INTERPOL's Spanish-language arrest announcement confirms the joint action with EFCC and the USD 60 million online-fraud estimate."
 collection_url: https://www.interpol.int/es/Noticias-y-acontecimientos/Noticias/2016/Ringleader-of-global-network-behind-thousands-of-online-scams-arrested-in-Nigeria
 created: 2026-04-23
+text_status: parsed
+content_hash: sha256:8b869acddd4db43a1d4cda8847382089dab4be3a23053b1ef1e524609e284dd2
+word_count: 680
+extraction_date: 2026-04-25
+last_fetcher: urllib
 ---
 ## Source Summary
 

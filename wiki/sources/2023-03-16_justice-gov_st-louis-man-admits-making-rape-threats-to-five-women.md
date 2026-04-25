@@ -17,6 +17,11 @@ key_findings:
   - "This domestic-only U.S. follow-on record has been absorbed into the canonical case page [[st-louis-man-admits-making-rape-threats-to-five-women]]. No visible cross-border mechanism is documented, so it is not treated as a separate international-cooperation operation."
 collection_url: https://www.justice.gov/usao-edmo/pr/st-louis-man-admits-making-rape-threats-five-women
 created: 2026-04-17
+text_status: parsed
+content_hash: sha256:142e8f06db46863cfff2575d03a8e68b10ab24c49d04253ef57d835e9fe6989b
+word_count: 171
+extraction_date: 2026-04-25
+last_fetcher: doj_fetch
 ---
 ## Source Summary
 

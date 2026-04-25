@@ -17,6 +17,11 @@ key_findings:
   - "This domestic-only U.S. follow-on record has been absorbed into the canonical case page [[us-v-khaled-miah]]. No visible cross-border mechanism is documented, so it is not treated as a separate international-cooperation operation."
 collection_url: https://www.justice.gov/usao-wdpa/pr/former-pitt-student-sentenced-6-years-prison-threatening-communications-and-impeding
 created: 2026-04-17
+text_status: parsed
+content_hash: sha256:694b6df2bd7cbf9c5f6dfc5f15dca1d7a8e2cb8a0fccbe46ec9d2b970271825b
+word_count: 713
+extraction_date: 2026-04-25
+last_fetcher: doj_fetch
 ---
 ## Source Summary
 

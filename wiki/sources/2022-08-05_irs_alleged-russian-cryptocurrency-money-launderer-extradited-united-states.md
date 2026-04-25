@@ -3,7 +3,7 @@ type: source
 title: "Alleged Russian cryptocurrency money launderer extradited to United States"
 source_type: press-release
 publisher: "IRS Criminal Investigation"
-author: "Staff"
+author: Staff
 publish_date: 2022-08-05
 ingest_date: 2026-04-25
 language: en
@@ -17,6 +17,12 @@ key_findings:
   - "FinCEN imposed $88.6M civil penalty on BTC-e and $12M on Vinnik prior to extradition"
 collection_url: https://www.irs.gov/compliance/criminal-investigation/alleged-russian-cryptocurrency-money-launderer-extradited-to-united-states
 created: 2026-04-25
+raw_path: raw/press-releases/2022-08-05_irs_alleged-russian-cryptocurrency-money-launderer-extradited-united-states.md
+text_status: parsed
+content_hash: sha256:5c771402255cf7671b32043d3b779a0eea0d8d52da41003caca42ce4d2869329
+word_count: 406
+extraction_date: 2026-04-25
+last_fetcher: urllib
 ---
 ## Source Summary
 

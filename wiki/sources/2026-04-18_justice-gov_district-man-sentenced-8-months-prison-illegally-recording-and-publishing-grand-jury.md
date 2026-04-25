@@ -14,12 +14,17 @@ sensitivity: public
 pages_updated:
 
 key_findings:
-  - "Secure .gov websites use HTTPS A lock ( Lock Locked padlock ) or https:// means you’ve safely connected to the .gov website. Share sensitive information only on official, secure websites."
+  - "Secure .gov websites use HTTPS A lock ( Lock Locked padlock ) or https: "// means you’ve safely connected to the .gov website. Share sensitive information only on official, secure websites.\""
 collection_url: https://www.justice.gov/usao-dc/pr/district-man-sentenced-8-months-prison-illegally-recording-and-publishing-grand-jury
 created: 2026-04-18
 defendant_names:
   - "Alexander Hamilton"
 updated: 2026-04-18
+text_status: parsed
+content_hash: sha256:fcc1a64de23cb0210462cb0e19cd8b39cbaae696773e34ac41a18ccfd161ae2d
+word_count: 1144
+extraction_date: 2026-04-25
+last_fetcher: doj_fetch
 ---
 ## Source Summary
 

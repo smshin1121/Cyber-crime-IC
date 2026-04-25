@@ -64,11 +64,21 @@ sources:
   - "[[2017-03-09_justice-gov_united-states-v-michael-carlton-paiva]]"
 summary: "This domestic-only U.S. follow-on record has been absorbed into the canonical case page [[us-v-michael-carlton-paiva]]. No visible cross-border mechanism is documented, so it is not treated as a separate international-cooperation operation."
 created: 2026-04-17
-updated: 2026-04-22
+updated: 2026-04-25
 ---
 ## Summary
 
 This domestic-only U.S. follow-on record has been absorbed into the canonical case page [[us-v-michael-carlton-paiva]]. No visible cross-border mechanism is documented, so it is not treated as a separate international-cooperation operation.
+
+> [!info] Source enrichment — single-source justification (2026-04-25)
+> Searched for additional credible sources covering this defendant (Michael Carlton Paiva, Norton Shores MI) / 2017 Silk Road 2.0 buyer case:
+> - DOJ follow-up press releases (Silk Road 2.0): not specific to Paiva
+> - Parallel federal agency press releases (DEA/HSI/USPIS/USSS): not found
+> - Court records (CourtListener / PACER / midpage / justia): not found in narrative form
+> - Local Michigan press: only Grand Haven Tribune piece exists; rate-limited (429)
+> - Trade press: not found at article level
+>
+> Single-press-release domestic action. `source_count: 1` retained per LESSON L19.
 
 ## Canonical Record
 

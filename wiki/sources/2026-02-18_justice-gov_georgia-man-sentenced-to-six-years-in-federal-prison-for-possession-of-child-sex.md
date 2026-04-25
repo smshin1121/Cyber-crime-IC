@@ -17,6 +17,11 @@ key_findings:
   - "This domestic-only U.S. follow-on record has been absorbed into the canonical case page [[us-v-georgia-man]]. No visible cross-border mechanism is documented, so it is not treated as a separate international-cooperation operation."
 collection_url: https://www.justice.gov/usao-mdal/pr/georgia-man-sentenced-six-years-federal-prison-possession-child-sexual-abuse-material
 created: 2026-04-17
+text_status: parsed
+content_hash: sha256:d8d212d95bb3de7a497b7f195e721bd0951740214b441ade32004749a0fd26f6
+word_count: 670
+extraction_date: 2026-04-25
+last_fetcher: doj_fetch
 ---
 ## Source Summary
 

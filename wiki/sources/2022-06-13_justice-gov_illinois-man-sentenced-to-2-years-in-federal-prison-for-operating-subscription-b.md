@@ -17,6 +17,11 @@ key_findings:
   - "This domestic-only U.S. follow-on record has been absorbed into the canonical case page [[illinois-man-sentenced-2-years-federal-prison-operating-subscription-based-computer]]. No visible cross-border mechanism is documented, so it is not treated as a separate international-cooperation operation."
 collection_url: https://www.justice.gov/usao-cdca/pr/illinois-man-sentenced-2-years-federal-prison-operating-subscription-based-computer
 created: 2026-04-17
+text_status: parsed
+content_hash: sha256:97dce171971e903e99a224b41262260f2c411b79698acf16e1b9dea23a9ceaf6
+word_count: 1062
+extraction_date: 2026-04-25
+last_fetcher: doj_fetch
 ---
 ## Source Summary
 

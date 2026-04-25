@@ -17,6 +17,11 @@ key_findings:
   - "This domestic-only U.S. follow-on record has been absorbed into the canonical case page [[us-v-three-chinese-hackers-who]]. No visible cross-border mechanism is documented, so it is not treated as a separate international-cooperation operation."
 collection_url: https://www.justice.gov/usao-wdpa/pr/us-charges-three-chinese-hackers-who-work-internet-security-firm-hacking-three
 created: 2026-04-17
+text_status: parsed
+content_hash: sha256:c0c5e2f21ca7a4fbe03b1f539969586afd9b76c58e24b0076c14556d10885611
+word_count: 1568
+extraction_date: 2026-04-25
+last_fetcher: doj_fetch
 ---
 ## Source Summary
 

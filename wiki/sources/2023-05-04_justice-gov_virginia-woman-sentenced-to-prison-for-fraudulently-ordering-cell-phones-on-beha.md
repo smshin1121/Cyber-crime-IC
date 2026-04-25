@@ -17,6 +17,11 @@ key_findings:
   - "This domestic-only U.S. follow-on record has been absorbed into the canonical case page [[us-v-celeste-santifer]]. No visible cross-border mechanism is documented, so it is not treated as a separate international-cooperation operation."
 collection_url: https://www.justice.gov/usao-dc/pr/virginia-woman-sentenced-prison-fraudulently-ordering-cell-phones-behalf-her-non-profit
 created: 2026-04-17
+text_status: parsed
+content_hash: sha256:273e4c9c4aa6af6d8cdf9b9e1d07a75e5d85b5ca22e29a0a238b9b9d6ca7778c
+word_count: 820
+extraction_date: 2026-04-25
+last_fetcher: doj_fetch
 ---
 ## Source Summary
 

@@ -21,6 +21,12 @@ key_findings:
   - "The notice provides a direct federal contact email for ransomware victims, showing an operational cyber-response channel rather than a purely abstract organizational role."
   - "The source helps anchor Belgium's FCCU page with a concrete public-facing operational example."
 created: 2026-04-18
+raw_path: raw/press-releases/2017-06-09_politie-be_oproep-aan-slachtoffers-wannacry.md
+text_status: parsed
+content_hash: sha256:a6ca1b67bf50a7cf20c5ddd23be1ea30d9ef3ff93a273960928bd6a648015197
+word_count: 1423
+extraction_date: 2026-04-25
+last_fetcher: jina
 ---
 ## Source Summary
 

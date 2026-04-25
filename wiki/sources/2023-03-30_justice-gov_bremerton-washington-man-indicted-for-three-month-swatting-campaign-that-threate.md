@@ -17,6 +17,11 @@ key_findings:
   - "This page captures the defendant-specific enforcement sequence against Ashton Connor Garcia for a swatting campaign that threatened victims in the United States and Canada. The public record shows a progression from indictment in March 2023, to a guilty plea in January 2024, to sentencing in June 2024."
 collection_url: https://www.justice.gov/usao-wdwa/pr/bremerton-washington-man-indicted-three-month-swatting-campaign-threatened-victims
 created: 2026-04-17
+text_status: parsed
+content_hash: sha256:b2c0ea54fbcd1dd0d4b14a0afb35f3fde26fb30f67940059f42ece93365c7f0c
+word_count: 1423
+extraction_date: 2026-04-25
+last_fetcher: doj_fetch
 ---
 ## Source Summary
 

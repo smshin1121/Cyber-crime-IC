@@ -12,11 +12,16 @@ reliability: medium
 credibility: confirmed
 sensitivity: public
 pages_updated:
-  []
+
 key_findings:
   - "The **Direct Provider Request** mechanism allows law enforcement to obtain user account information directly from online service providers — most commonly US-headquartered platforms such as Meta, Google, Microsoft, Apple, and X — **without routing the request through a formal MLAT**. It has become the single most-used pathway for cross-border digital evidence in cybercrime investigations, *almost certainly* exceeding MLAT volume by an order of magnitude for subscriber information queries."
 collection_url: https://www.congress.gov/bill/115th-congress/house-bill/4943
 created: 2026-04-17
+text_status: parsed
+content_hash: sha256:7a46a67afa0c284489be90a782b441539b91a59a97683803e2e970a92079f4a1
+word_count: 3677
+extraction_date: 2026-04-25
+last_fetcher: jina
 ---
 ## Source Summary
 
