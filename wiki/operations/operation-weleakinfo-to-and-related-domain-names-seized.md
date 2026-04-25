@@ -25,10 +25,14 @@ lead_agency: "[[us-doj]]"
 coordinating_body: "[[us-doj]]"
 participating_countries:
   - "[[united-states]]"
+  - "[[netherlands]]"
+  - "[[belgium]]"
 jurisdictions:
   - "[[united-states]]"
 participating_agencies:
   - "[[us-doj]]"
+  - "[[netherlands-politie]]"
+  - "[[belgium-federal-police]]"
 organizations:
   - "[[us-doj]]"
 legal_basis:

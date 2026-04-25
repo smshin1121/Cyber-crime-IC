@@ -23,6 +23,7 @@ frameworks_administered: []
 mechanisms_operated: []
 operations_participated:
   - "[[operation-endgame]]"
+  - "[[operation-weleakinfo-to-and-related-domain-names-seized]]"
 notable_cases: []
 contact_point_for:
   - "[[24-7-network]]"

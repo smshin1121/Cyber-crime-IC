@@ -36,6 +36,7 @@ operations_participated:
 - '[[operation-eur-600m-crypto-scam-network-2025]]'
 - '[[operation-europol-french-coder-who-helped-extort-british-company-arrested-in-thailand]]'
 - '[[operation-avalanche]]'
+- '[[operation-weleakinfo-to-and-related-domain-names-seized]]'
 region: western-europe
 source_count: 5
 sources:

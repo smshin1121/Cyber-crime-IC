@@ -59,6 +59,7 @@ operations_participated:
 - '[[operation-eur-600m-crypto-scam-network-2025]]'
 - '[[operation-australian-man-arrested-in-germany-accused-of-running-world-s-largest-darknet-marketplace]]'
 - '[[nemesis-market-takedown]]'
+- '[[operation-weleakinfo-com-domain-name-seized]]'
 region: western-europe
 source_count: 5
 sources:

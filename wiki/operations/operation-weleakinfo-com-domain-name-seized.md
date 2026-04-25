@@ -25,10 +25,16 @@ lead_agency: "[[us-doj]]"
 coordinating_body: "[[us-doj]]"
 participating_countries:
   - "[[united-states]]"
+  - "[[united-kingdom]]"
+  - "[[netherlands]]"
+  - "[[germany]]"
 jurisdictions:
   - "[[united-states]]"
 participating_agencies:
   - "[[us-doj]]"
+  - "[[uk-nca]]"
+  - "[[netherlands-politie]]"
+  - "[[germany-bka]]"
 organizations:
   - "[[us-doj]]"
 legal_basis:

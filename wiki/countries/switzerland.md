@@ -39,6 +39,8 @@ operations_participated:
 - '[[doublevpn-takedown]]'
 - '[[operation-dark-huntor]]'
 - '[[operation-contender-2]]'
+- '[[operation-us-v-vyacheslav-igorevich-penchukov]]'
+- '[[operation-foreign-national-pleads-guilty-to-role-in-cybercrime-schemes-involving-tens-of-millions-of-dollars-in-losses]]'
 region: western-europe
 source_count: 1
 sources:

@@ -25,10 +25,12 @@ lead_agency: "[[us-doj]]"
 coordinating_body: "[[us-doj]]"
 participating_countries:
   - "[[united-states]]"
+  - "[[canada]]"
 jurisdictions:
   - "[[united-states]]"
 participating_agencies:
   - "[[us-doj]]"
+  - "[[canada-rcmp]]"
 organizations:
   - "[[us-doj]]"
 legal_basis:

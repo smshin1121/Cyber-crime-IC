@@ -25,6 +25,7 @@ lead_agency: "[[us-doj]]"
 coordinating_body: "[[us-doj]]"
 participating_countries:
   - "[[united-states]]"
+  - "[[mexico]]"
 jurisdictions:
   - "[[united-states]]"
 participating_agencies:

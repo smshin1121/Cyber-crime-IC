@@ -38,6 +38,7 @@ operations_participated:
 - '[[operation-haechi-vi]]'
 - '[[operation-eur-300m-global-credit-card-fraud-2025]]'
 - '[[doublevpn-takedown]]'
+- '[[operation-us-v-john-michael-sherwood-and-kevin-christopher-gartry]]'
 region: north-america
 source_count: 5
 sources: []

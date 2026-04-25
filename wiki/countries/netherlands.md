@@ -55,6 +55,10 @@ operations_participated:
 - '[[doublevpn-takedown]]'
 - '[[operation-dark-huntor]]'
 - '[[cryptex-pm2btc-sanctions]]'
+- '[[operation-weleakinfo-com-domain-name-seized]]'
+- '[[operation-weleakinfo-to-and-related-domain-names-seized]]'
+- '[[operation-monroeville-man-sentenced-to-24-months-for-purchasing-hundreds-of-stolen-log-in-credentials-off-the-darkweb]]'
+- '[[operation-us-v-monroeville-man]]'
 region: western-europe
 source_count: 5
 sources:

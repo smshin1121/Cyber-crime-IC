@@ -48,6 +48,8 @@ operations_participated:
 - '[[operation-haechi-vi]]'
 - '[[korea-cambodia-scam-repatriation]]'
 - '[[operation-cyber-guardian]]'
+- '[[operation-us-v-ryan-thomas-carver]]'
+- '[[operation-us-v-evgenii-ptitsyn]]'
 region: east-asia
 source_count: 17
 sources:

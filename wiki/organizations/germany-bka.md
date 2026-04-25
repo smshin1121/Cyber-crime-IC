@@ -42,6 +42,7 @@ operations_participated:
   - "[[operation-us-v-parsarad-nemesis]]"
   - "[[operation-talent]]"
   - "[[phobos-8base-crackdown]]"
+  - "[[operation-weleakinfo-com-domain-name-seized]]"
 org_type: national-agency
 parent_org: "[[germany-bmi]]"
 source_count: 5

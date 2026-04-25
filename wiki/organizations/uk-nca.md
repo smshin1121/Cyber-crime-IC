@@ -44,6 +44,10 @@ operations_participated:
   - "[[ramnit-botnet-takedown]]"
   - "[[vpnlab-takedown]]"
   - "[[phobos-8base-crackdown]]"
+  - "[[operation-weleakinfo-com-domain-name-seized]]"
+  - "[[operation-monroeville-man-sentenced-to-24-months-for-purchasing-hundreds-of-stolen-log-in-credentials-off-the-darkweb]]"
+  - "[[operation-us-v-monroeville-man]]"
+  - "[[operation-us-v-banmeet-singh-dark-web]]"
 org_type: national-agency
 parent_org: ""
 source_count: 13

@@ -49,6 +49,7 @@ operations_participated:
 - '[[operation-dark-huntor]]'
 - '[[operation-australian-man-arrested-in-germany-accused-of-running-world-s-largest-darknet-marketplace]]'
 - '[[operation-avalanche]]'
+- '[[operation-us-v-beresford-man]]'
 region: oceania
 source_count: 0
 sources: []

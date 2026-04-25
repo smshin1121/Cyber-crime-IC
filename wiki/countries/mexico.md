@@ -7,7 +7,9 @@ iso_code: "MX"
 member_of:
   - "[[interpol]]"
 created: 2026-04-18
-updated: 2026-04-18
+updated: 2026-04-25
+operations_participated:
+  - "[[operation-us-v-ricky-ramacho]]"
 summary: "Mexico is relevant in the repository as a recurring jurisdictional touchpoint in extradition, border arrest, and cyber-enabled drug-trafficking cases."
 ---
 ## Summary

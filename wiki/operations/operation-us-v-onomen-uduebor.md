@@ -25,6 +25,7 @@ lead_agency: "[[us-doj]]"
 coordinating_body: "[[us-doj]]"
 participating_countries:
   - "[[united-states]]"
+  - "[[united-kingdom]]"
 jurisdictions:
   - "[[united-states]]"
 participating_agencies:
@@ -32,9 +33,9 @@ participating_agencies:
 organizations:
   - "[[us-doj]]"
 legal_basis:
-  - "[[informal-cooperation]]"
+  - "[[extradition-request]]"
 mechanisms_used:
-  - "[[informal-cooperation]]"
+  - "[[extradition-request]]"
 results:
   arrests: 0
   indictments: 1

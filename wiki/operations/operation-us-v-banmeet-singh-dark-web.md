@@ -21,11 +21,13 @@ lead_agency: "[[us-doj]]"
 coordinating_body: "[[us-doj]]"
 participating_countries:
   - "[[united-states]]"
+  - "[[united-kingdom]]"
 participating_agencies:
-
+  - "[[uk-nca]]"
 legal_basis:
   - "[[controlled-substances-act]]"
   - "[[money-laundering-statutes]]"
+  - "[[extradition-request]]"
 mechanisms_used:
   - "[[extradition-request]]"
 results:

@@ -56,6 +56,11 @@ operations_participated:
 - '[[operation-europol-french-coder-who-helped-extort-british-company-arrested-in-thailand]]'
 - '[[operation-french-coder-who-helped-extort-british-company-arrested-in-thailand]]'
 - '[[operation-europol-105-arrested-for-stealing-over-12-million-from-us-based-banks-operation-secreto]]'
+- '[[operation-weleakinfo-com-domain-name-seized]]'
+- '[[operation-monroeville-man-sentenced-to-24-months-for-purchasing-hundreds-of-stolen-log-in-credentials-off-the-darkweb]]'
+- '[[operation-us-v-monroeville-man]]'
+- '[[operation-us-v-onomen-uduebor]]'
+- '[[operation-us-v-banmeet-singh-dark-web]]'
 region: western-europe
 source_count: 5
 sources:
