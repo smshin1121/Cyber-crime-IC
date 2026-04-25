@@ -1,31 +1,38 @@
 ---
 type: source
 title: "PortSwigger Daily Swig: The Avalanche falls — Alleged leader of international cybercrime network arrested"
-collection_url: "https://portswigger.net/daily-swig/the-avalanche-falls-alleged-leader-of-international-cybercrime-network-arrested"
-collection_domain: "portswigger.net"
-source_type: "news"
+collection_url: https://portswigger.net/daily-swig/the-avalanche-falls-alleged-leader-of-international-cybercrime-network-arrested
+collection_domain: portswigger.net
+source_type: news
 publisher: "PortSwigger Daily Swig"
-publish_date: "2019-11-12"
-ingest_date: "2026-04-08"
-enriched_date: "2026-04-10"
-language: "en"
-reliability: "medium-high"
-credibility: "probably-true"
-sensitivity: "public"
+publish_date: 2019-11-12
+ingest_date: 2026-04-08
+enriched_date: 2026-04-10
+language: en
+reliability: medium-high
+credibility: probably-true
+sensitivity: public
 source_tier: 3
 pages_updated:
-  - "operation-avalanche"
+  - operation-avalanche
 key_findings:
   - "On or around 12 November 2019, Ukrainian authorities re-arrested Genadiy Kapkanov (age 33), alleged organiser of the Avalanche cybercrime network, in a Kiev police sting — nearly three years after the 2016 Avalanche takedown and after he had previously escaped custody"
   - "Kapkanov, a Ukrainian national, had been originally detained in 2016 during the initial Avalanche takedown action but had escaped and remained a fugitive for more than a year before the November 2019 recapture"
-  - "Estimated criminal impact: Avalanche was estimated to have cost German banks alone ~US$8.6 million in direct losses, a figure cited for sentencing context — but this is a conservative subset of total global losses which involved malware delivery to victims in 180+ countries"
+  - "Estimated criminal impact: "Avalanche was estimated to have cost German banks alone ~US$8.6 million in direct losses, a figure cited for sentencing context — but this is a conservative subset of total global losses which involved malware delivery to victims in 180+ countries\""
   - "PortSwigger reports that the original 2016 Avalanche takedown involved police from 25 different countries following a four-year investigation, confirming the scale and duration of what remains one of the largest sinkholing operations in history (800,000+ domains seized)"
-  - "Sentencing exposure: Kapkanov faced up to 10 years in prison under Ukrainian law if convicted of his role in Avalanche — illustrating the limited maximum sentence available in Ukraine compared to German/US charges for comparable cybercrime"
+  - "Sentencing exposure: "Kapkanov faced up to 10 years in prison under Ukrainian law if convicted of his role in Avalanche — illustrating the limited maximum sentence available in Ukraine compared to German/US charges for comparable cybercrime\""
   - "The article is significant for documenting the *fugitive recapture* phase of Operation Avalanche, a phase rarely covered in wiki sources which typically focus on the 2016 takedown day itself"
 created: 2026-04-08
 updated: 2026-04-10
+raw_path: raw/news/portswigger-operation-avalanche.md
+text_status: summarized
+content_hash: sha256:56c36d7162ff1900a4bfae17afdfe0bc981cb317d2855bbd4fe53110f5be192b
+word_count: 209
+stored_word_count: 80
+extraction_date: 2026-04-25
+last_fetcher: urllib
+copyright_policy: summary-only
 ---
-
 > [!note] Original URL fetch blocked
 > The PortSwigger Daily Swig fetch returned a homepage redirect during enrichment (2026-04-10). Content reconstructed from WebSearch snippets confirming the article title, author role (Charlie Osborne / Daily Swig regular contributor), publication date (2019-11-12), and the core Kapkanov facts. The direct URL is confirmed valid in search results.
 

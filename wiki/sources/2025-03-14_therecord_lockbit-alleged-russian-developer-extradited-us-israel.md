@@ -17,6 +17,14 @@ key_findings:
   - "Identifies Magistrate Judge André Espinosa as initial appearance judge"
 collection_url: https://therecord.media/lockbit-alleged-russian-developer-extradited-us-israel
 created: 2026-04-25
+raw_path: raw/news/2025-03-14_therecord_lockbit-alleged-russian-developer-extradited-us-israel.md
+text_status: summarized
+content_hash: sha256:33ff5bb6043bf3cb184a8af30b05c8bd4c744a056094648ead48d122dc3fca1e
+word_count: 998
+stored_word_count: 80
+extraction_date: 2026-04-25
+last_fetcher: urllib
+copyright_policy: summary-only
 ---
 ## Source Summary
 

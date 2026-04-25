@@ -3,7 +3,7 @@ type: source
 title: "Sacramento woman pleads guilty to distributing fentanyl"
 source_type: news
 publisher: "Golden State Today"
-author: "Staff"
+author: Staff
 publish_date: 2025-06-23
 ingest_date: 2026-04-25
 language: en
@@ -17,6 +17,14 @@ key_findings:
   - "Documents $100K+ forfeiture detail."
 collection_url: https://goldenstatetoday.com/sacramento-woman-pleads-guilty-to-distributing-fentanyl/
 created: 2026-04-25
+raw_path: raw/news/2025-06-23_goldenstatetoday_sacramento-woman-pleads-guilty-distributing-fentanyl.md
+text_status: summarized
+content_hash: sha256:d693085f57b12efc9cc40079df277eb8b8c86c5293b1801f8993d3e4db838db7
+word_count: 695
+stored_word_count: 80
+extraction_date: 2026-04-25
+last_fetcher: urllib
+copyright_policy: summary-only
 ---
 ## Source Summary
 

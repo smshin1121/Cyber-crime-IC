@@ -17,6 +17,14 @@ created: 2026-04-23
 key_findings:
   - "Open Zambia reported on the raid at Golden Top Support Services in Lusaka."
   - "The story listed seized SIM cards, firearms, computers, and the 77 arrests."
+raw_path: raw/news/2024-04-11_openzambia-com_chinese-crime-syndicate-raided-in-lusaka.md
+text_status: summarized
+content_hash: sha256:c3ac7ff292125bc82303003fdd731a7dd28cacbae38cf2ad46649a7ec9a792d2
+word_count: 297
+stored_word_count: 80
+extraction_date: 2026-04-25
+last_fetcher: urllib
+copyright_policy: summary-only
 ---
 ## Source Summary
 

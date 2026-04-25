@@ -17,6 +17,14 @@ key_findings:
   - "One of largest transnational cybercrime cartels of the 2010s."
 collection_url: https://therecord.media/man-who-helped-infraud-cybercrime-cartel-steal-millions-of-credit-cards-sentenced
 created: 2026-04-25
+raw_path: raw/news/2022-05-22_therecord_man-helped-infraud-cybercrime-cartel-credit-cards-sentenced.md
+text_status: summarized
+content_hash: sha256:467cca06d48f35057f6920357adcd9d1ba5a895f0245ca99273993df87cae4bc
+word_count: 853
+stored_word_count: 80
+extraction_date: 2026-04-25
+last_fetcher: urllib
+copyright_policy: summary-only
 ---
 ## Source Summary
 

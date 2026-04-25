@@ -3,7 +3,7 @@ type: source
 title: "Nigerian bags four-year jail term in US for $1m cyber-fraud"
 source_type: news
 publisher: "Vanguard News"
-author: "Staff"
+author: Staff
 publish_date: 2023-03-28
 ingest_date: 2026-04-25
 language: en
@@ -18,6 +18,14 @@ key_findings:
   - "Multi-year Malaysian extradition contest before U.S. transfer."
 collection_url: https://www.vanguardngr.com/2023/03/nigerian-bags-four-year-jail-term-in-us-for-1m-cyber-fraud/
 created: 2026-04-25
+raw_path: raw/news/2023-03-28_vanguard_nigerian-bags-four-year-jail-1m-cyber-fraud.md
+text_status: summarized
+content_hash: sha256:c4bf3cd7dd4b9ba51be534742f54f0b43a0c35327290b23929d7056c687450c9
+word_count: 680
+stored_word_count: 80
+extraction_date: 2026-04-25
+last_fetcher: urllib
+copyright_policy: summary-only
 ---
 ## Source Summary
 

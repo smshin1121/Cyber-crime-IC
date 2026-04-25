@@ -2,7 +2,7 @@
 type: source
 title: "Darknet marketplace 'Nemesis Market' brought down by authorities"
 source_type: news
-publisher: "Cybernews"
+publisher: Cybernews
 author: "Niamh Ancell"
 publish_date: 2024-03-25
 ingest_date: 2026-04-25
@@ -17,6 +17,14 @@ key_findings:
   - "The article highlighted the German-Lithuanian seizure of infrastructure and cryptocurrency as the operational background to later U.S. action against the administrator."
 collection_url: https://cybernews.com/news/darknet-marketplace-seized-by-authorities/
 created: 2026-04-25
+raw_path: raw/news/2024-03-25_cybernews_darknet-marketplace-nemesis-market-brought-down-by-authorities.md
+text_status: summarized
+content_hash: sha256:a3260e78c7525c8bb46299b0b8dea919e9ae69de2ba3ab571cb59a932b635a95
+word_count: 879
+stored_word_count: 80
+extraction_date: 2026-04-25
+last_fetcher: urllib
+copyright_policy: summary-only
 ---
 ## Source Summary
 

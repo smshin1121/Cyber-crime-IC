@@ -17,6 +17,14 @@ key_findings:
   - "IP address match to Nicholls's residence"
 collection_url: https://abc17news.com/news/crime/2025/05/13/columbia-sex-offender-indicted-by-federal-grand-jury-on-child-porn-charge/
 created: 2026-04-25
+raw_path: raw/news/2025-05-13_abc17news_columbia-sex-offender-indicted-by-federal-grand-jury-on-child-porn-charge.md
+text_status: summarized
+content_hash: sha256:4cfc256f41b8a73ee0120424c35d56a5c872df609e887bf1d62a4bd6e2f8f72f
+word_count: 3729
+stored_word_count: 80
+extraction_date: 2026-04-25
+last_fetcher: urllib
+copyright_policy: summary-only
 ---
 ## Source Summary
 

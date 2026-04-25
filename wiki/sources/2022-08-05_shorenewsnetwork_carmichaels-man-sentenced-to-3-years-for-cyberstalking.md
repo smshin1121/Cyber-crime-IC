@@ -16,6 +16,14 @@ key_findings:
   - "Mirror of DOJ press release, useful where the DOJ original is Akamai-blocked."
 collection_url: https://www.shorenewsnetwork.com/2022/08/05/carmichaels-man-sentenced-to-3-years-for-cyberstalking/
 created: 2026-04-25
+raw_path: raw/news/2022-08-05_shorenewsnetwork_carmichaels-man-sentenced-to-3-years-for-cyberstalking.md
+text_status: summarized
+content_hash: sha256:08f739c43297f3946f370ecab8550681c889864d77bfeb24e5170d5e3d129b51
+word_count: 1034
+stored_word_count: 80
+extraction_date: 2026-04-25
+last_fetcher: jina
+copyright_policy: summary-only
 ---
 ## Source Summary
 

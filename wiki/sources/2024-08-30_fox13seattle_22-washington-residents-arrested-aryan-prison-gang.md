@@ -16,6 +16,14 @@ key_findings:
   - "FOX 13 Seattle local TV confirmation of the 20-defendant Aryan prison gang drug ring"
 collection_url: https://www.fox13seattle.com/news/22-washington-residents-arrested-for-drug-ring-tied-to-aryan-prison-gang
 created: 2026-04-25
+raw_path: raw/news/2024-08-30_fox13seattle_22-washington-residents-arrested-aryan-prison-gang.md
+text_status: summarized
+content_hash: sha256:e996433111dda2a14331efa1052cdf881e75628498c046833ce4ae464c1dbaf4
+word_count: 1202
+stored_word_count: 80
+extraction_date: 2026-04-25
+last_fetcher: urllib
+copyright_policy: summary-only
 ---
 ## Source Summary
 

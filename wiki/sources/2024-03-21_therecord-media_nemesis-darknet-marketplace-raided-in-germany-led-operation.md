@@ -17,6 +17,13 @@ key_findings:
   - "The Nemesis Market takedown was a Germany-led seizure of darknet marketplace infrastructure carried out on 20 March 2024 with U.S. and Lithuanian support. Later DOJ and Treasury actions against Behrouz Parsarad show how the initial infrastructure seizure matured into a named administrator-focused enforcement track."
 collection_url: "https://therecord.media/nemesis-cybercrime-market-takedown-germany?web_view=true"
 created: 2026-04-17
+text_status: summarized
+content_hash: sha256:6ee8a4c1f86b9df400553197b5a75a6c7f41a9a4f4910c4e0c601057a15d220f
+word_count: 783
+stored_word_count: 80
+extraction_date: 2026-04-25
+last_fetcher: urllib
+copyright_policy: summary-only
 ---
 ## Source Summary
 

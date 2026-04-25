@@ -17,6 +17,14 @@ key_findings:
   - "Lexington Herald-Leader regional newspaper coverage via AOL syndication"
 collection_url: https://www.aol.com/grand-jury-kentucky-man-paid-172038816.html
 created: 2026-04-25
+raw_path: raw/news/2023-05-05_aol_grand-jury-kentucky-man-paid-468000-online-relationship.md
+text_status: summarized
+content_hash: sha256:3093823d9bef5ce26d3b80069bbae2199af49963be34149f48c2cf3b04f84e10
+word_count: 782
+stored_word_count: 80
+extraction_date: 2026-04-25
+last_fetcher: urllib
+copyright_policy: summary-only
 ---
 ## Source Summary
 

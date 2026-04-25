@@ -12,11 +12,18 @@ reliability: medium
 credibility: confirmed
 sensitivity: public
 pages_updated:
-  []
+
 key_findings:
   - "In February 2018, the US Department of Justice announced the takedown of the **Infraud Organization**, a massive online cybercrime forum responsible for an estimated **$530 million** in losses. The operation resulted in **36 indictments** and **13 arrests** across multiple countries. The Infraud Organization had operated since 2010 with nearly 11,000 members, facilitating the sale of stolen financial data, malware, and other cybercrime services."
 collection_url: https://www.wired.com/story/infraud-feds-takedown-cybercrime/
 created: 2026-04-17
+text_status: summarized
+content_hash: sha256:160bb63abc5581bf63a4dc3f664e4ab5707d42e43065e53cdd8b0ada4475fdd2
+word_count: 1752
+stored_word_count: 80
+extraction_date: 2026-04-25
+last_fetcher: urllib
+copyright_policy: summary-only
 ---
 ## Source Summary
 

@@ -2,7 +2,7 @@
 type: source
 title: "SSNDOB cybercrime market admin faces 15 years after pleading guilty"
 source_type: news
-publisher: "BleepingComputer"
+publisher: BleepingComputer
 author: "Sergiu Gatlan"
 publish_date: 2023-08-11
 ingest_date: 2026-04-25
@@ -17,6 +17,14 @@ key_findings:
   - "SSNDOB takedown was a joint U.S./Latvia/Cyprus operation."
 collection_url: https://www.bleepingcomputer.com/news/security/ssndob-cybercrime-market-admin-faces-15-years-after-pleading-guilty/
 created: 2026-04-25
+raw_path: raw/news/2023-08-11_bleepingcomputer_ssndob-cybercrime-market-admin-faces-15-years-after-pleading-guilty.md
+text_status: summarized
+content_hash: sha256:e6b037a38b66e12ca80ad4e75d287cd33924799033e106302d9a56386ebcd15f
+word_count: 916
+stored_word_count: 80
+extraction_date: 2026-04-25
+last_fetcher: urllib
+copyright_policy: summary-only
 ---
 ## Source Summary
 

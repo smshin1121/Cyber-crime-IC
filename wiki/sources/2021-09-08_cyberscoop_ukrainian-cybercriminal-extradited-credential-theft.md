@@ -2,8 +2,8 @@
 type: source
 title: "Ukrainian cybercriminal extradited to US over credential-theft scheme"
 source_type: news
-publisher: "CyberScoop"
-author: "Staff"
+publisher: CyberScoop
+author: Staff
 publish_date: 2021-09-08
 ingest_date: 2026-04-25
 language: en
@@ -17,6 +17,14 @@ key_findings:
   - "Reports the botnet sold 2,000 brute-forced credentials weekly via a dark web marketplace, including 100+ servers in the Middle District of Florida."
 collection_url: https://cyberscoop.com/ukrainian-cybercriminal-sentenced-ivanov-toplinstev/
 created: 2026-04-25
+raw_path: raw/news/2021-09-08_cyberscoop_ukrainian-cybercriminal-extradited-credential-theft.md
+text_status: summarized
+content_hash: sha256:30ad5b09703f55f810b43169d569a9333a86c41cc9e8752cf58c6d01a4d750b8
+word_count: 773
+stored_word_count: 80
+extraction_date: 2026-04-25
+last_fetcher: urllib
+copyright_policy: summary-only
 ---
 ## Source Summary
 

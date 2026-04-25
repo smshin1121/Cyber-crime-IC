@@ -16,6 +16,14 @@ key_findings:
   - "Local Patch / Bay City News sentencing coverage"
 collection_url: https://patch.com/california/sanrafael/former-san-quentin-inmate-sentenced-tax-scheme
 created: 2026-04-25
+raw_path: raw/news/2017-05-24_patch_former-san-quentin-inmate-sentenced-in-tax-scheme.md
+text_status: summarized
+content_hash: sha256:d6b21164f64da5dc5e123102606d76cca6139e9d517d1f7e3f45a138ccbfb61e
+word_count: 840
+stored_word_count: 80
+extraction_date: 2026-04-25
+last_fetcher: urllib
+copyright_policy: summary-only
 ---
 ## Source Summary
 

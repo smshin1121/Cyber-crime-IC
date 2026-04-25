@@ -2,7 +2,7 @@
 type: source
 title: "The Week in Ransomware - September 8th 2023 - Conti Indictments"
 source_type: news
-publisher: "BleepingComputer"
+publisher: BleepingComputer
 author: "Lawrence Abrams"
 publish_date: 2023-09-08
 ingest_date: 2026-04-25
@@ -18,6 +18,14 @@ key_findings:
   - "Three indictments unsealed simultaneously in NDOH, MDTN, and SDCA covering 9 defendants."
 collection_url: https://www.bleepingcomputer.com/news/security/the-week-in-ransomware-september-8th-2023-conti-indictments/
 created: 2026-04-25
+raw_path: raw/news/2023-09-08_bleepingcomputer_week-in-ransomware-conti-indictments.md
+text_status: summarized
+content_hash: sha256:39e3aa256f7da19cac0a685e8f8921c8075b1cd8802030714ec1ed6d2be85fe5
+word_count: 1104
+stored_word_count: 80
+extraction_date: 2026-04-25
+last_fetcher: urllib
+copyright_policy: summary-only
 ---
 ## Source Summary
 

@@ -17,6 +17,14 @@ key_findings:
   - "The article provided narrative detail about the packaging, shipping, and investigative timeline behind the NDTX prosecution."
 collection_url: https://www.dallasobserver.com/news/feds-sweep-up-cyberspace-drug-dealers-with-operation-disruptor-12296362
 created: 2026-04-25
+raw_path: raw/news/2021-08-30_dallasobserver_com_operation-disruptor-plano-man-sentenced-as-feds-target-dark-web-drug-dealers.md
+text_status: summarized
+content_hash: sha256:a74679f16ee425a22d0e2257d8a6c0030f3d9839bb39dac61b3fa5a67af437cf
+word_count: 1233
+stored_word_count: 80
+extraction_date: 2026-04-25
+last_fetcher: urllib
+copyright_policy: summary-only
 ---
 ## Source Summary
 

@@ -2,7 +2,7 @@
 type: source
 title: "DeepDotWeb boss pleads guilty to laundering millions"
 source_type: news
-publisher: "CyberScoop"
+publisher: CyberScoop
 author: "Tim Starks"
 publish_date: 2021-03-31
 ingest_date: 2026-04-25
@@ -17,6 +17,14 @@ key_findings:
   - "DOJ characterized the takedown as the most significant darknet law enforcement disruption to that date, with kickbacks of ~8,155 BTC (~$8.4M) traced via cryptocurrency analysis."
 collection_url: https://cyberscoop.com/deepdotweb-tal-prihar-dark-web-darknet/
 created: 2026-04-25
+raw_path: raw/news/2021-03-31_cyberscoop_deepdotweb-boss-pleads-guilty-to-laundering-millions.md
+text_status: summarized
+content_hash: sha256:493976989a12f21e033884bdcaa86b9d27fd14d93623b9a683c0e5d93297d04f
+word_count: 959
+stored_word_count: 80
+extraction_date: 2026-04-25
+last_fetcher: urllib
+copyright_policy: summary-only
 ---
 ## Source Summary
 

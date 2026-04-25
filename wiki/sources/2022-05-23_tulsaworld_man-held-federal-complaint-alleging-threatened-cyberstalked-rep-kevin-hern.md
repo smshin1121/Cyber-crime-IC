@@ -3,7 +3,7 @@ type: source
 title: "Man held on federal complaint alleging he threatened, cyberstalked U.S. Rep. Kevin Hern"
 source_type: news
 publisher: "Tulsa World"
-author: "Staff"
+author: Staff
 publish_date: 2022-05-23
 ingest_date: 2026-04-25
 language: en
@@ -17,6 +17,14 @@ key_findings:
   - "Local press confirmation of the May 2022 initial federal complaint"
 collection_url: https://tulsaworld.com/news/local/man-held-on-federal-complaint-alleging-he-threatened-cyberstalked-rep-kevin-hern/article_06b4a20e-dab2-11ec-b8d7-eb545e511d9d.html
 created: 2026-04-25
+raw_path: raw/news/2022-05-23_tulsaworld_man-held-federal-complaint-alleging-threatened-cyberstalked-rep-kevin-hern.md
+text_status: summarized
+content_hash: sha256:d3dd40d6a4945af6b5f99541051db76695103a86b574dc5270d8e02e89171dce
+word_count: 1864
+stored_word_count: 80
+extraction_date: 2026-04-25
+last_fetcher: urllib
+copyright_policy: summary-only
 ---
 ## Source Summary
 

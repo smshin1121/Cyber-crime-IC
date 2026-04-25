@@ -2,7 +2,7 @@
 type: source
 title: "New York Man Charged with Fraudulently Obtaining More Than $1.2M"
 source_type: news
-publisher: "BKReader"
+publisher: BKReader
 author: "BK Reader Staff"
 publish_date: 2023-08-27
 ingest_date: 2026-04-25
@@ -18,6 +18,14 @@ key_findings:
   - "Identifies Fuller as a Brooklyn resident, complementing later D.N.J. coverage"
 collection_url: https://www.bkreader.com/policy-government/new-york-man-charged-with-fraudulently-obtaining-more-than-12m-7448313
 created: 2026-04-25
+raw_path: raw/news/2023-08-27_bkreader_new-york-man-charged-with-fraudulently-obtaining-more-than-12m.md
+text_status: summarized
+content_hash: sha256:0ac2a9874be208d44b8737cdd22bf338d8f565cf5b78b4e0342d0c07504f008e
+word_count: 432
+stored_word_count: 80
+extraction_date: 2026-04-25
+last_fetcher: urllib
+copyright_policy: summary-only
 ---
 ## Source Summary
 

@@ -17,6 +17,14 @@ key_findings:
   - "Global risk angle (could have distributed malicious kernel updates)"
 collection_url: https://www.ibtimes.co.uk/cops-arrest-florida-man-accused-hacking-linux-servers-2011-1579498
 created: 2026-04-25
+raw_path: raw/news/2016-09-03_ibtimesuk_cops-arrest-florida-man-accused-hacking-linux-servers-2011.md
+text_status: summarized
+content_hash: sha256:b56a7b0493ba6c34c3f372a025a6abf4238027b0cfa73d960edcae161fbcd037
+word_count: 1133
+stored_word_count: 80
+extraction_date: 2026-04-25
+last_fetcher: urllib
+copyright_policy: summary-only
 ---
 ## Source Summary
 

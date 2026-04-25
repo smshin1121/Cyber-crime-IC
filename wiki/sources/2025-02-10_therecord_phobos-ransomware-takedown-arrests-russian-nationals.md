@@ -17,6 +17,14 @@ key_findings:
   - "Evgenii Ptitsyn extradited from South Korea in November 2024 in related Phobos prosecution."
 collection_url: https://therecord.media/phobos-ransomware-takedown-arrests-russian-nationals
 created: 2026-04-25
+raw_path: raw/news/2025-02-10_therecord_phobos-ransomware-takedown-arrests-russian-nationals.md
+text_status: summarized
+content_hash: sha256:a2ed248d66d3f18f30dbc4cb9b50cd9c000c539181a69328f1d21b857027a7fc
+word_count: 903
+stored_word_count: 80
+extraction_date: 2026-04-25
+last_fetcher: urllib
+copyright_policy: summary-only
 ---
 ## Source Summary
 

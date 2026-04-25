@@ -3,7 +3,7 @@ type: source
 title: "2 Pierce County residents worked with Aryan gangs to sell drugs. They're off to prison"
 source_type: news
 publisher: "Yahoo News (News Tribune)"
-author: "Staff"
+author: Staff
 publish_date: 2025-02-03
 ingest_date: 2026-04-25
 language: en
@@ -17,6 +17,14 @@ key_findings:
   - "Identifies Sara Thompson by name and confirms the 7-year prison term."
 collection_url: https://www.yahoo.com/news/2-pierce-county-residents-worked-130000368.html
 created: 2026-04-25
+raw_path: raw/news/2025-02-03_yahoo-news_2-pierce-county-residents-worked-aryan-gangs-sell-drugs-off-prison.md
+text_status: summarized
+content_hash: sha256:4d8ddb514e19b1b7bff36dd6d89ddfaa9cbf2fd2cf4c998a3cf97cf5860c579a
+word_count: 790
+stored_word_count: 80
+extraction_date: 2026-04-25
+last_fetcher: urllib
+copyright_policy: summary-only
 ---
 ## Source Summary
 

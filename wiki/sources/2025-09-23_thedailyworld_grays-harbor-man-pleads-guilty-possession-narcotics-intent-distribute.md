@@ -3,7 +3,7 @@ type: source
 title: "Grays Harbor man pleads guilty to possession of narcotics with intent to distribute"
 source_type: news
 publisher: "The Daily World"
-author: "Staff"
+author: Staff
 publish_date: 2025-09-23
 ingest_date: 2026-04-25
 language: en
@@ -17,6 +17,14 @@ key_findings:
   - "Confirms the Ocean Shores bridge collapse arrest scenario."
 collection_url: https://www.thedailyworld.com/news/grays-harbor-man-pleads-guilty-to-possession-of-narcotics-with-intent-to-distribute/
 created: 2026-04-25
+raw_path: raw/news/2025-09-23_thedailyworld_grays-harbor-man-pleads-guilty-possession-narcotics-intent-distribute.md
+text_status: summarized
+content_hash: sha256:e483244fe2806e3ef6c907025a8f9e23e2155d7340fd3bfccc5cee9ceab6dddd
+word_count: 653
+stored_word_count: 80
+extraction_date: 2026-04-25
+last_fetcher: urllib
+copyright_policy: summary-only
 ---
 ## Source Summary
 

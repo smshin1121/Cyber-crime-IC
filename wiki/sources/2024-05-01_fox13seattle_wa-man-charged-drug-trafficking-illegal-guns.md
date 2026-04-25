@@ -3,7 +3,7 @@ type: source
 title: "WA man charged with drug trafficking, illegal guns"
 source_type: news
 publisher: "FOX 13 Seattle"
-author: "Staff"
+author: Staff
 publish_date: 2024-05-01
 ingest_date: 2026-04-25
 language: en
@@ -17,6 +17,14 @@ key_findings:
   - "Suspected armor-piercing rounds and high-capacity magazines seized"
 collection_url: https://www.fox13seattle.com/news/renton-drug-trafficking-illegal-firearms
 created: 2026-04-25
+raw_path: raw/news/2024-05-01_fox13seattle_wa-man-charged-drug-trafficking-illegal-guns.md
+text_status: summarized
+content_hash: sha256:e343ab8f31afc28f1b5f4b45b5f32af7823fbe7e1e14ca3906d773736bfe9065
+word_count: 835
+stored_word_count: 80
+extraction_date: 2026-04-25
+last_fetcher: urllib
+copyright_policy: summary-only
 ---
 ## Source Summary
 

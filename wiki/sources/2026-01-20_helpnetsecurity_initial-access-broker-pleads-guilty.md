@@ -18,6 +18,14 @@ key_findings:
   - "Traced IP linked to a separate ransomware attack causing $50+ million in damages to a U.S. manufacturing company"
 collection_url: https://www.helpnetsecurity.com/2026/01/20/initial-access-broker-pleads-guilty/
 created: 2026-04-25
+raw_path: raw/news/2026-01-20_helpnetsecurity_initial-access-broker-pleads-guilty.md
+text_status: summarized
+content_hash: sha256:96210460f14a7b3559c0aca49ea33147a6287a056b4384a12e052a3ed429de3d
+word_count: 837
+stored_word_count: 80
+extraction_date: 2026-04-25
+last_fetcher: urllib
+copyright_policy: summary-only
 ---
 ## Source Summary
 

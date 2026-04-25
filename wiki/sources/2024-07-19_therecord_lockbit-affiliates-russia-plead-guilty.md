@@ -17,6 +17,14 @@ key_findings:
   - "Astamirov forfeited $350,000 in seized cryptocurrency as part of plea"
 collection_url: https://therecord.media/lockbit-affiliates-russia-plead-guilty
 created: 2026-04-25
+raw_path: raw/news/2024-07-19_therecord_lockbit-affiliates-russia-plead-guilty.md
+text_status: summarized
+content_hash: sha256:5ea6d284b8f8a6df2c7984e2a8a87c047b16d699ed2a67234dbc543642157a5e
+word_count: 837
+stored_word_count: 80
+extraction_date: 2026-04-25
+last_fetcher: urllib
+copyright_policy: summary-only
 ---
 ## Source Summary
 

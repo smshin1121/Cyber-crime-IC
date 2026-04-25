@@ -18,6 +18,14 @@ key_findings:
   - "Chief U.S. District Judge Algenon L. Marbley presiding"
 collection_url: https://highlandcountypress.com/headlines/registered-sex-offender-pleads-guilty-exchanging-child-pornography-dark-web
 created: 2026-04-25
+raw_path: raw/news/2024-06-27_highlandcountypress_registered-sex-offender-pleads-guilty-exchanging-child-pornography-dark-web.md
+text_status: summarized
+content_hash: sha256:7ea2df04902b04dff1b1323f06f33ed81ebef7e770391b6f7e03f9bc7a439029
+word_count: 582
+stored_word_count: 80
+extraction_date: 2026-04-25
+last_fetcher: urllib
+copyright_policy: summary-only
 ---
 ## Source Summary
 

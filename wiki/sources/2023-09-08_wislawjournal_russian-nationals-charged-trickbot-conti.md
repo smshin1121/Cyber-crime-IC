@@ -18,6 +18,14 @@ key_findings:
   - "Tennessee Conti charges connected to local sheriff's department, police, and EMS encryption attacks."
 collection_url: https://wislawjournal.com/2023/09/08/russian-nationals-charged-with-targeting-american-schools-and-hospitals-with-malware-and-conti-ransomware/
 created: 2026-04-25
+raw_path: raw/news/2023-09-08_wislawjournal_russian-nationals-charged-trickbot-conti.md
+text_status: summarized
+content_hash: sha256:6998d2f082e9f06b4ff192d019b6c10741c05fdd69a859d742e55330543334e2
+word_count: 2169
+stored_word_count: 80
+extraction_date: 2026-04-25
+last_fetcher: urllib
+copyright_policy: summary-only
 ---
 ## Source Summary
 

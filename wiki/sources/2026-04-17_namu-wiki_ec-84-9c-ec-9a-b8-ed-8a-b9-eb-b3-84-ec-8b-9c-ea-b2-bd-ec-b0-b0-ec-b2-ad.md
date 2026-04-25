@@ -12,11 +12,18 @@ reliability: medium
 credibility: confirmed
 sensitivity: public
 pages_updated:
-  []
+
 key_findings:
   - "The Seoul Metropolitan Police Agency (서울특별시경찰청, SMPA) is the metropolitan police agency responsible for law enforcement in the Seoul Special City. It is a subordinate regional command of the [[knpa|Korea National Police Agency (경찰청)]] and operates cybercrime investigation functions through its 수사부 사이버수사과 (Cyber Investigation Division) and precinct-level 사이버수사팀."
 collection_url: "https://namu.wiki/w/%EC%84%9C%EC%9A%B8%ED%8A%B9%EB%B3%84%EC%8B%9C%EA%B2%BD%EC%B0%B0%EC%B2%AD"
 created: 2026-04-17
+text_status: summarized
+content_hash: sha256:36ce25fffeca1db0ef147a6bf9b477901438d304148aa30e79bf485fd27a29ab
+word_count: 8727
+stored_word_count: 80
+extraction_date: 2026-04-25
+last_fetcher: urllib
+copyright_policy: summary-only
 ---
 ## Source Summary
 

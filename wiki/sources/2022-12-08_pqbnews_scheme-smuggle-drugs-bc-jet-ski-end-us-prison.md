@@ -17,6 +17,14 @@ key_findings:
   - "Details jet ski smuggling plan to BC"
 collection_url: https://www.pqbnews.com/news/scheme-to-smuggle-drugs-to-bc-on-jet-ski-will-end-in-us-prison-7468087
 created: 2026-04-25
+raw_path: raw/news/2022-12-08_pqbnews_scheme-smuggle-drugs-bc-jet-ski-end-us-prison.md
+text_status: summarized
+content_hash: sha256:8b33dcc4cdd81e39b79cd0d1ba608b5d3e37a2b61bcd0637eb2628b5eb7777ac
+word_count: 367
+stored_word_count: 80
+extraction_date: 2026-04-25
+last_fetcher: urllib
+copyright_policy: summary-only
 ---
 ## Source Summary
 

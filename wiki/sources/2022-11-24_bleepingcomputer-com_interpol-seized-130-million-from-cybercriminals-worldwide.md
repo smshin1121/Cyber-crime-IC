@@ -12,11 +12,18 @@ reliability: medium
 credibility: confirmed
 sensitivity: public
 pages_updated:
-  []
+
 key_findings:
   - "Operation HAECHI-III was the third in INTERPOL's annual HAECHI series of operations targeting cyber-enabled financial crime. Running from **28 June to 23 November 2022**, it was coordinated by INTERPOL's Financial Crime and Anti-Corruption Centre (IFCACC) and involved **30 countries** acting through their respective INTERPOL National Central Bureaus (NCBs). The operation resulted in **975 arrests**, the resolution of **1,600+ cases**, and the seizure/interception of approximately **USD 130 million** in virtual assets and illicit funds."
 collection_url: https://www.bleepingcomputer.com/news/security/interpol-seized-130-million-from-cybercriminals-worldwide/
 created: 2026-04-17
+text_status: summarized
+content_hash: sha256:df0a7818d414e6006279f2995ce63c522feedd4fd067f0af73921883d3c47b69
+word_count: 901
+stored_word_count: 80
+extraction_date: 2026-04-25
+last_fetcher: urllib
+copyright_policy: summary-only
 ---
 ## Source Summary
 

@@ -17,6 +17,14 @@ key_findings:
   - "Cryptocurrency tracing capabilities critical to identifying vendors."
 collection_url: https://www.trmlabs.com/resources/blog/operation-raptor-the-largest-darknet-takedown-in-history
 created: 2026-04-25
+raw_path: raw/news/2025-05-22_trmlabs_operation-raptor-largest-darknet-takedown-history.md
+text_status: summarized
+content_hash: sha256:b5834bdeab3329b38f53fcf0654aa660fc32684ad2cbce94a2e56f7d74d2346d
+word_count: 276
+stored_word_count: 80
+extraction_date: 2026-04-25
+last_fetcher: urllib
+copyright_policy: summary-only
 ---
 ## Source Summary
 

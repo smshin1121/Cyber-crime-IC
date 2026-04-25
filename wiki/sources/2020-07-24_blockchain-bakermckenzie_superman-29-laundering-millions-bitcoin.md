@@ -16,6 +16,14 @@ key_findings:
   - "Highlights Mohammad's commissions up to 25% and absence of source-of-funds inquiry."
 collection_url: https://blockchain.bakermckenzie.com/2020/07/24/superman-29-to-plead-guilty-to-laundering-millions-of-dollars-worth-of-bitcoin/
 created: 2026-04-25
+raw_path: raw/news/2020-07-24_blockchain-bakermckenzie_superman-29-laundering-millions-bitcoin.md
+text_status: summarized
+content_hash: sha256:6be905c8be0298d786d9faa5b616ac852792c4af785655714a0b2ca9f330ce79
+word_count: 777
+stored_word_count: 80
+extraction_date: 2026-04-25
+last_fetcher: urllib
+copyright_policy: summary-only
 ---
 ## Source Summary
 

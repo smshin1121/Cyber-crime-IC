@@ -2,7 +2,7 @@
 type: source
 title: "Leader of International Malvertising and Ransomware Schemes Extradited from Poland to Face Cybercrime Charges"
 source_type: news
-publisher: "Flashpoint"
+publisher: Flashpoint
 author: "Flashpoint Intel Team"
 publish_date: 2024-08-14
 ingest_date: 2026-04-25
@@ -18,6 +18,14 @@ key_findings:
   - "Confirms Newark NJ initial appearance"
 collection_url: https://flashpoint.io/blog/usa-vs-maksim-silnikau-andrei-tarasov-volodymyr-kadariya/
 created: 2026-04-25
+raw_path: raw/news/2024-08-14_flashpoint_usa-vs-maksim-silnikau-andrei-tarasov-volodymyr-kadariya.md
+text_status: summarized
+content_hash: sha256:4af46d0cf9904252c66c84abe6c48b2561fb6423fa8a14d64b8b06915315d221
+word_count: 1240
+stored_word_count: 80
+extraction_date: 2026-04-25
+last_fetcher: urllib
+copyright_policy: summary-only
 ---
 ## Source Summary
 

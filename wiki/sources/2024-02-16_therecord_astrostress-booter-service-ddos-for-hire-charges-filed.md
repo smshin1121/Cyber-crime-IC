@@ -17,6 +17,14 @@ key_findings:
   - "Operation PowerOFF multinational booter takedown context."
 collection_url: https://therecord.media/astrostress-booter-service-ddos-for-hire-charges-filed
 created: 2026-04-25
+raw_path: raw/news/2024-02-16_therecord_astrostress-booter-service-ddos-for-hire-charges-filed.md
+text_status: summarized
+content_hash: sha256:a11f03a5c177cbe702f674b16c063e25ed9a5c3677882fe41704d9fa2299e69c
+word_count: 613
+stored_word_count: 80
+extraction_date: 2026-04-25
+last_fetcher: urllib
+copyright_policy: summary-only
 ---
 ## Source Summary
 

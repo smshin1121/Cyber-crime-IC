@@ -3,7 +3,7 @@ type: source
 title: "Puyallup man sentenced to 42 months for running dark web fentanyl marketplace"
 source_type: press-release
 publisher: "USAO WDWA"
-author: "Staff"
+author: Staff
 publish_date: 2025-03-21
 ingest_date: 2026-04-25
 language: en
@@ -17,6 +17,14 @@ key_findings:
   - "Sentencing follow-up to plea"
 collection_url: https://komonews.com/news/local/dark-web-fentanyl-distributor-sentenced-to-42-months-in-prison-fbi-puyallup-fentanyl-pills-us-attorneys-office
 created: 2026-04-25
+raw_path: raw/press-releases/2025-03-21_justice-gov-wdwa_puyallup-man-sentenced-42-months-running-dark-web-fentanyl-marketplace.md
+text_status: summarized
+content_hash: sha256:726fc0362297ccc7683f29bbfd08dd46b0c6ff0372b4a3e732e387ad43dcfc2e
+word_count: 555
+stored_word_count: 80
+extraction_date: 2026-04-25
+last_fetcher: urllib
+copyright_policy: summary-only
 ---
 ## Source Summary
 

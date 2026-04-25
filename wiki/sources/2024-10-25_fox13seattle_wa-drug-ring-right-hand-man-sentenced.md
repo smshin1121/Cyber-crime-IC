@@ -17,6 +17,14 @@ key_findings:
   - "Garcia's bilingual English/Spanish role enabled link to other dealers"
 collection_url: https://www.fox13seattle.com/news/wa-drug-ring-right-hand-man-sentenced
 created: 2026-04-25
+raw_path: raw/news/2024-10-25_fox13seattle_wa-drug-ring-right-hand-man-sentenced.md
+text_status: summarized
+content_hash: sha256:09d9805f167c8605a8e1a40a0d4277c8173cb3e7e2f899dd489bb768906c606d
+word_count: 1091
+stored_word_count: 80
+extraction_date: 2026-04-25
+last_fetcher: urllib
+copyright_policy: summary-only
 ---
 ## Source Summary
 

@@ -17,6 +17,14 @@ key_findings:
   - "Establishes Community-X dark-web counterfeit-currency operation context"
 collection_url: https://krebsonsecurity.com/2014/12/alleged-counterfeiter-willy-clock-arrested/
 created: 2026-04-25
+raw_path: raw/news/2014-12-30_krebsonsecurity_alleged-counterfeiter-willy-clock-arrested.md
+text_status: summarized
+content_hash: sha256:466eaf3d59d646882f3800dcd3a3407566b9738f3d82e2487028ef51d93df6f1
+word_count: 3300
+stored_word_count: 80
+extraction_date: 2026-04-25
+last_fetcher: urllib
+copyright_policy: summary-only
 ---
 ## Source Summary
 

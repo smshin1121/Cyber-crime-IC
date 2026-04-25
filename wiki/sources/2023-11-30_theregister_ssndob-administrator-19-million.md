@@ -3,7 +3,7 @@ type: source
 title: "US imprisons Ukrainian SSNDOB administrator for 8 years"
 source_type: news
 publisher: "The Register"
-author: "Staff"
+author: Staff
 publish_date: 2023-11-30
 ingest_date: 2026-04-25
 language: en
@@ -17,6 +17,14 @@ key_findings:
   - "Reports March 2022 Hungary arrest and July 2022 extradition to US."
 collection_url: https://www.theregister.com/2023/11/30/administrator_of_19_million_ssndob/
 created: 2026-04-25
+raw_path: raw/news/2023-08-11_theregister_ssndob-administrator-19-million.md
+text_status: summarized
+content_hash: sha256:929c613bb6336d980dc650d44a62c37b197d36f717b13d801eca10bb5f11a84c
+word_count: 1257
+stored_word_count: 80
+extraction_date: 2026-04-25
+last_fetcher: urllib
+copyright_policy: summary-only
 ---
 ## Source Summary
 

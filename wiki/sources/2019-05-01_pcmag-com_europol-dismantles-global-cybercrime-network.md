@@ -12,11 +12,18 @@ reliability: medium
 credibility: confirmed
 sensitivity: public
 pages_updated:
-  []
+
 key_findings:
   - "Europol and the U.S. Department of Justice, in cooperation with law enforcement from Bulgaria, Germany, Georgia, Moldova, and Ukraine, dismantled the GozNym malware cybercriminal network in May 2019. The network had used GozNym malware to steal online banking credentials from over 40,000 victims, attempting to steal approximately $100 million. Key members were arrested and indicted across multiple countries."
 collection_url: https://www.pcmag.com/news/europol-dismantles-global-cybercrime-network
 created: 2026-04-17
+text_status: summarized
+content_hash: sha256:ce59f56498243292e6f06111eeed6f757c498134a2d9d661f759a0850d09a5ef
+word_count: 2426
+stored_word_count: 80
+extraction_date: 2026-04-25
+last_fetcher: wayback+urllib
+copyright_policy: summary-only
 ---
 ## Source Summary
 

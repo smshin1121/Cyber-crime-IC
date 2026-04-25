@@ -12,11 +12,18 @@ reliability: medium
 credibility: confirmed
 sensitivity: public
 pages_updated:
-  []
+
 key_findings:
   - "The **Grupo de Delitos Telemáticos (GDT)** is the specialized cybercrime unit of Spain's **Guardia Civil**, a paramilitary police force with national jurisdiction. Originally created in 1997 as the **Grupo de Delitos Informáticos (GDI)** with only four officers, it was renamed **GDT** in February 2003 as its scope expanded to cover the full range of telematic/technological crime."
 collection_url: https://www.guardiacivil.es/en/
 created: 2026-04-17
+text_status: summarized
+content_hash: sha256:499b3d295f546b530639bb405b0d57fa55553a7fb2297be0e895c26606bd7f5c
+word_count: 732
+stored_word_count: 80
+extraction_date: 2026-04-25
+last_fetcher: urllib
+copyright_policy: summary-only
 ---
 ## Source Summary
 

@@ -17,6 +17,14 @@ key_findings:
   - "Notes silenced pistol and 5 firearms recovered"
 collection_url: https://www.fox13seattle.com/news/drug-trafficker-admits-to-more-than-400-online-sales-of-fentanyl
 created: 2026-04-25
+raw_path: raw/news/2022-03-07_fox13seattle_drug-trafficker-admits-400-online-sales-fentanyl-darknet.md
+text_status: summarized
+content_hash: sha256:cd1caa1e8cdae51789d0c94034771fd82844545d517c08c445c0d8648157d8d5
+word_count: 886
+stored_word_count: 80
+extraction_date: 2026-04-25
+last_fetcher: urllib
+copyright_policy: summary-only
 ---
 ## Source Summary
 

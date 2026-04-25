@@ -3,7 +3,7 @@ type: source
 title: "Charge: 6 sellers bribed Amazon employees to gain unfair advantage worth $100 million"
 source_type: news
 publisher: "KOMO News"
-author: "Staff"
+author: Staff
 publish_date: 2020-09-18
 ingest_date: 2026-04-25
 language: en
@@ -17,6 +17,14 @@ key_findings:
   - "$100 million estimated scope of broader scheme"
 collection_url: https://komonews.com/news/local/charge-6-sellers-bribed-amazon-employees-to-gain-unfair-advantage-worth-100-million
 created: 2026-04-25
+raw_path: raw/news/2020-09-18_komonews_charge-6-sellers-bribed-amazon-employees-to-gain-unfair-advantage-worth-100-million.md
+text_status: summarized
+content_hash: sha256:6b85c93656a0cee27b2ebcc902ac617745befe0e6c08c1a965722be9add4bbaf
+word_count: 548
+stored_word_count: 80
+extraction_date: 2026-04-25
+last_fetcher: urllib
+copyright_policy: summary-only
 ---
 ## Source Summary
 

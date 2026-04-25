@@ -17,6 +17,14 @@ key_findings:
   - "Co-conspirator Kevin Fusco (34) received 11 years; Vincent Banner (31) awaited sentencing February 2023."
 collection_url: https://cbs12.com/news/local/anton-peck-dark-web-drug-dealer-boca-raton-sentenced-to-16-years-in-prison-kevin-fusco-vincent-banner-november-florida
 created: 2026-04-25
+raw_path: raw/news/2022-12-02_cbs12_anton-peck-dark-web-drug-dealer-boca-raton-16-years.md
+text_status: summarized
+content_hash: sha256:86eb7cb7c70bf3806a5970a4655572a7ad0166a2c9c5a374b3da108c7b00bad3
+word_count: 737
+stored_word_count: 80
+extraction_date: 2026-04-25
+last_fetcher: urllib
+copyright_policy: summary-only
 ---
 ## Source Summary
 

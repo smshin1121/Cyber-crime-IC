@@ -17,6 +17,14 @@ key_findings:
   - "Notes Lopez Rodriguez's Renton residency before absconding"
 collection_url: https://www.federalwaymirror.com/news/renton-man-sentenced-for-drug-trafficking/
 created: 2026-04-25
+raw_path: raw/news/2025-07-30_federalwaymirror_renton-man-sentenced-for-drug-trafficking.md
+text_status: summarized
+content_hash: sha256:edcd109636a983bccc0897a3af43a0cea84a66eeddaecebff79737751b06c36c
+word_count: 981
+stored_word_count: 80
+extraction_date: 2026-04-25
+last_fetcher: urllib
+copyright_policy: summary-only
 ---
 ## Source Summary
 

@@ -12,11 +12,18 @@ reliability: medium
 credibility: reported
 sensitivity: public
 pages_updated:
-  []
+
 key_findings:
   - "Trend Micro described its threat-intelligence contribution to Operation Killer Bee and linked the suspects to Agent Tesla-enabled BEC activity."
 collection_url: https://www.trendmicro.com/en/research/22/e/trend-micro-partners-with-interpol-and-nigeria-efcc-for-operatio.html
 created: 2026-04-23
+text_status: summarized
+content_hash: sha256:80c23c9dd0e9119af2c6535437cfda0a3246d75dc8c66c1c6e59b44530f78acb
+word_count: 5049
+stored_word_count: 80
+extraction_date: 2026-04-25
+last_fetcher: jina
+copyright_policy: summary-only
 ---
 ## Source Summary
 

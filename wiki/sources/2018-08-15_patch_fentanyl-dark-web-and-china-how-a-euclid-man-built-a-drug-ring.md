@@ -17,6 +17,14 @@ key_findings:
   - "Confirms October 2017 seizure of 10g fentanyl from a known Chinese supplier."
 collection_url: https://patch.com/ohio/clevelandheights/fentanyl-dark-web-china-how-euclid-man-built-drug-ring
 created: 2026-04-25
+raw_path: raw/news/2018-08-15_patch_fentanyl-dark-web-and-china-how-a-euclid-man-built-a-drug-ring.md
+text_status: summarized
+content_hash: sha256:c5e5cc4ae8617c27f1de3a01033a3031d144a6a00f83ae272728a00c9ca971c3
+word_count: 940
+stored_word_count: 80
+extraction_date: 2026-04-25
+last_fetcher: urllib
+copyright_policy: summary-only
 ---
 ## Source Summary
 

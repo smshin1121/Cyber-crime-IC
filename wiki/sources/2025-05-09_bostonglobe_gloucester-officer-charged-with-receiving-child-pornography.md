@@ -17,6 +17,14 @@ key_findings:
   - "Aiello was a sworn Gloucester PD patrol officer at time of charging."
 collection_url: https://www.bostonglobe.com/2025/05/09/metro/gloucester-officer-charged-with-receiving-child-pornography/
 created: 2026-04-25
+raw_path: raw/news/2025-05-09_bostonglobe_gloucester-officer-charged-with-receiving-child-pornography.md
+text_status: summarized
+content_hash: sha256:ef615908e00a1de608e4a4aad63c535067d2238d14ea226f40e8619a4022695c
+word_count: 660
+stored_word_count: 80
+extraction_date: 2026-04-25
+last_fetcher: urllib
+copyright_policy: summary-only
 ---
 ## Source Summary
 

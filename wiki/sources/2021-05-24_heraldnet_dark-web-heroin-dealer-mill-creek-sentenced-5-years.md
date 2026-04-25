@@ -17,6 +17,14 @@ key_findings:
   - "Mukilteo hotel arrest and Mill Creek residency"
 collection_url: https://www.heraldnet.com/news/dark-web-heroin-dealer-from-mill-creek-sentenced-to-5-years/
 created: 2026-04-25
+raw_path: raw/news/2021-05-24_heraldnet_dark-web-heroin-dealer-mill-creek-sentenced-5-years.md
+text_status: summarized
+content_hash: sha256:3f6f4149a339428d4a5502c4d8877b632f14cb490f5265a3160bc1c5248bf5a2
+word_count: 940
+stored_word_count: 80
+extraction_date: 2026-04-25
+last_fetcher: urllib
+copyright_policy: summary-only
 ---
 ## Source Summary
 

@@ -12,11 +12,18 @@ reliability: medium
 credibility: confirmed
 sensitivity: public
 pages_updated:
-  []
+
 key_findings:
   - "Kenya enacted its first comprehensive cybercrime legislation, the **Computer Misuse and Cybercrimes Act (Act No. 5 of 2018)**, assented on **16 May 2018** and commenced on **30 May 2018**. The Act was drafted drawing on both the [[budapest-convention|Budapest Convention]] and the **African Union Convention on Cyber Security and Personal Data Protection** (Malabo Convention)."
 collection_url: https://thecommonwealth.org/publications/commonwealth-cybercrime-journal-volume-1/comparative-review-cybercrime-law-kenya-juxtaposing-national-legislation-international-treaty
 created: 2026-04-17
+text_status: summarized
+content_hash: sha256:1f8156df464111b6998db50a35f1b3f56d5816dee9e6e8cf72a605698ba40f9e
+word_count: 439
+stored_word_count: 80
+extraction_date: 2026-04-25
+last_fetcher: urllib
+copyright_policy: summary-only
 ---
 ## Source Summary
 

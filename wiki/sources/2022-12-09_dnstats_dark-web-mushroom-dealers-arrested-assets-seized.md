@@ -2,7 +2,7 @@
 type: source
 title: "Dark Web Mushroom Dealers Arrested; Assets Seized"
 source_type: news
-publisher: "DNStats"
+publisher: DNStats
 author: "DNStats Staff"
 publish_date: 2022-12-09
 ingest_date: 2026-04-25
@@ -18,6 +18,14 @@ key_findings:
   - "Network distributed at least 3,515 kg of mushrooms across the U.S. and Europe; ~$12M assets seized"
 collection_url: https://dnstats.net/news/mushrooms-arrest/
 created: 2026-04-25
+raw_path: raw/news/2022-12-09_dnstats_dark-web-mushroom-dealers-arrested-assets-seized.md
+text_status: summarized
+content_hash: sha256:1abb9ca41b13fbfca38144879eefff9fe1dd9ea39bbebef29541b7e3a622a111
+word_count: 557
+stored_word_count: 80
+extraction_date: 2026-04-25
+last_fetcher: urllib
+copyright_policy: summary-only
 ---
 ## Source Summary
 

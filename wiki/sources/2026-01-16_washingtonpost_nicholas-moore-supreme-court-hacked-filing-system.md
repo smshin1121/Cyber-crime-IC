@@ -3,7 +3,7 @@ type: source
 title: "Tennessee man pleads guilty to repeatedly hacking Supreme Court's filing system"
 source_type: news
 publisher: "The Washington Post"
-author: "Staff"
+author: Staff
 publish_date: 2026-01-16
 ingest_date: 2026-04-25
 language: en
@@ -16,6 +16,14 @@ key_findings:
   - "Major newspaper national coverage of the plea."
 collection_url: https://www.washingtonpost.com/politics/2026/01/16/nicholas-moore-supreme-court-hacked-filing-system/5b6110e4-f322-11f0-a4dc-effc74cb25af_story.html
 created: 2026-04-25
+raw_path: raw/news/2026-01-16_washingtonpost_nicholas-moore-supreme-court-hacked-filing-system.md
+text_status: summarized
+content_hash: sha256:e991feaed25e082b2dcf398200d84b48d6438660efa3f814a1c3e49b8af54296
+word_count: 5555
+stored_word_count: 80
+extraction_date: 2026-04-25
+last_fetcher: jina
+copyright_policy: summary-only
 ---
 ## Source Summary
 

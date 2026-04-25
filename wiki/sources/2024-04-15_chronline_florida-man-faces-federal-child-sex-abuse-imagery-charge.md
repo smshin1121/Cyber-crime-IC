@@ -14,8 +14,16 @@ pages_updated:
   - operation-us-v-samuel-aaron-leonard
 key_findings:
   - "Local Centralia WA paper confirms initial 2020 arrest"
-collection_url: https://www.chronline.com/stories/florida-man-faces-federal-child-sex-abuse-imagery-charge-following-arrest-in-washington,1317
+collection_url: "https://www.chronline.com/stories/florida-man-faces-federal-child-sex-abuse-imagery-charge-following-arrest-in-washington,1317"
 created: 2026-04-25
+raw_path: raw/news/2024-04-15_chronline_florida-man-faces-federal-child-sex-abuse-imagery-charge.md
+text_status: summarized
+content_hash: sha256:496c2d0ddfaf20e81bacd27c621bf298ef37726e0229f14fa4cce4962dcfe61b
+word_count: 378
+stored_word_count: 80
+extraction_date: 2026-04-25
+last_fetcher: urllib
+copyright_policy: summary-only
 ---
 ## Source Summary
 

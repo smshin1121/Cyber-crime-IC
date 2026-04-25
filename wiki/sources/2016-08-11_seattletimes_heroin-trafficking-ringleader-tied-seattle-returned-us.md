@@ -17,6 +17,14 @@ key_findings:
   - "Ramacho's August 9, 2016 arrest near Tijuana and US return"
 collection_url: https://www.seattletimes.com/seattle-news/law-justice/authorities-heroin-trafficking-ringleader-tied-to-seattle-has-been-returned-to-u-s/
 created: 2026-04-25
+raw_path: raw/news/2016-08-11_seattletimes_heroin-trafficking-ringleader-tied-seattle-returned-us.md
+text_status: summarized
+content_hash: sha256:1a062d0217fe6ecb2b2bacb8933e127e777c9047f8ab0a142c92c0a825e5d064
+word_count: 742
+stored_word_count: 80
+extraction_date: 2026-04-25
+last_fetcher: urllib
+copyright_policy: summary-only
 ---
 ## Source Summary
 

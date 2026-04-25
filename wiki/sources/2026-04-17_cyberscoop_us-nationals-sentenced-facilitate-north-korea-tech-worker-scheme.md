@@ -2,8 +2,8 @@
 type: source
 title: "US nationals sentenced for aiding North Korea's tech worker scheme"
 source_type: news
-publisher: "CyberScoop"
-author: "Staff"
+publisher: CyberScoop
+author: Staff
 publish_date: 2026-04-17
 ingest_date: 2026-04-25
 language: en
@@ -18,6 +18,14 @@ key_findings:
   - "Scheme placed DPRK remote IT workers at 100+ U.S. companies, generating $5M+ for DPRK."
 collection_url: https://cyberscoop.com/us-nationals-sentenced-facilitate-north-korea-tech-worker-scheme/
 created: 2026-04-25
+raw_path: raw/news/2026-04-17_cyberscoop_us-nationals-sentenced-facilitate-north-korea-tech-worker-scheme.md
+text_status: summarized
+content_hash: sha256:00d895bdaa232c4a8d11eefe3609097d31e2367d7bac4f4f31abc4d0ea110c17
+word_count: 1352
+stored_word_count: 80
+extraction_date: 2026-04-25
+last_fetcher: urllib
+copyright_policy: summary-only
 ---
 ## Source Summary
 

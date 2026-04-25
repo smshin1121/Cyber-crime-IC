@@ -17,6 +17,13 @@ key_findings:
   - "**Operation Cyber Guardian** was a six-jurisdiction Asian crackdown on online child sexual abuse and exploitation offenses, initiated by the [[singapore-police|Singapore Police Force]] and carried out from 24 February to 28 March 2025. Public sources from [[south-korea|South Korea]] and [[japan|Japan]] confirm participation by South Korea, Japan, Singapore, Malaysia, Thailand, and Hong Kong, with **544 suspects** publicly reported across the operation."
 collection_url: "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156682866"
 created: 2026-04-17
+text_status: summarized
+content_hash: sha256:e42f1240d99d4f29b399519d440691335fbdcd6a4208d4e8ee338ff6275b5ec5
+word_count: 768
+stored_word_count: 80
+extraction_date: 2026-04-25
+last_fetcher: urllib
+copyright_policy: summary-only
 ---
 ## Source Summary
 

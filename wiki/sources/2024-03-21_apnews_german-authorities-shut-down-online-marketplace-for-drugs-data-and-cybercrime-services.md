@@ -17,6 +17,14 @@ key_findings:
   - "The report summarized Nemesis as a large darknet marketplace for drugs, stolen data, and cybercrime services with more than 150,000 user accounts."
 collection_url: https://apnews.com/article/d7f0abb8dc581e126d1aa415a0c8f06b
 created: 2026-04-25
+raw_path: raw/news/2024-03-21_apnews_german-authorities-shut-down-online-marketplace-for-drugs-data-and-cybercrime-services.md
+text_status: summarized
+content_hash: sha256:708bce50a08879c4923817c235dcf611cff55f29421c4f29f576117c82bfb52e
+word_count: 1115
+stored_word_count: 80
+extraction_date: 2026-04-25
+last_fetcher: urllib
+copyright_policy: summary-only
 ---
 ## Source Summary
 

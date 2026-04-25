@@ -1,32 +1,39 @@
 ---
 type: source
 title: "The Record: Nemesis Darknet Marketplace Raided in Germany-Led Operation"
-collection_url: "https://therecord.media/nemesis-cybercrime-market-takedown-germany"
-collection_domain: "therecord.media"
-source_type: "news"
+collection_url: https://therecord.media/nemesis-cybercrime-market-takedown-germany
+collection_domain: therecord.media
+source_type: news
 publisher: "The Record from Recorded Future News"
 author: "Daryna Antoniuk"
-publish_date: "2024-03-21"
-ingest_date: "2026-04-08"
-enriched_date: "2026-04-10"
-language: "en"
-reliability: "medium-high"
-credibility: "probably-true"
-sensitivity: "public"
+publish_date: 2024-03-21
+ingest_date: 2026-04-08
+enriched_date: 2026-04-10
+language: en
+reliability: medium-high
+credibility: probably-true
+sensitivity: public
 source_tier: 3
 pages_updated:
-  - "nemesis-market-takedown"
+  - nemesis-market-takedown
 key_findings:
   - "The Record reported on 2024-03-21 that the German Bundeskriminalamt (BKA) seized the Nemesis darknet marketplace in coordination with US and Lithuanian law enforcement"
   - "Nemesis was founded in 2021 and by 2024 had become one of the top-5 darknet markets by traffic, hosting 150,000+ users and 1,100+ sellers (approximately 20% Germany-based)"
   - "Infrastructure located in Germany and Lithuania; law enforcement seized the criminal servers and EUR 94,000 (~USD 102,000) in cryptocurrency"
   - "Marketplace catalogue included drugs, compromised data, ransomware, phishing tools, and DDoS-as-a-service — a polycriminal platform rather than a drug-only market"
   - "Seizure banner included an animated retro spaceship graphic that 'destroyed' the Nemesis logo before displaying a QR code linking to the BKA — a visible example of law-enforcement brand messaging via seizure pages"
-  - "URL/operation mismatch: this source is filed under [[911-s5-botnet-takedown]] but is about the **Nemesis Market takedown** — a completely different operation from the 911 S5 residential-proxy botnet dismantling (FBI-led, May 2024). A new `nemesis-market-takedown` page should be created"
+  - "URL/operation mismatch: "this source is filed under [[911-s5-botnet-takedown]] but is about the **Nemesis Market takedown** — a completely different operation from the 911 S5 residential-proxy botnet dismantling (FBI-led, May 2024). A new `nemesis-market-takedown` page should be created\""
 created: 2026-04-08
 updated: 2026-04-10
+raw_path: raw/news/the-record-911-s5-botnet-dismantling.md
+text_status: summarized
+content_hash: sha256:6ee8a4c1f86b9df400553197b5a75a6c7f41a9a4f4910c4e0c601057a15d220f
+word_count: 783
+stored_word_count: 80
+extraction_date: 2026-04-25
+last_fetcher: urllib
+copyright_policy: summary-only
 ---
-
 ## Source
 
 - **Publisher**: The Record (Recorded Future News)

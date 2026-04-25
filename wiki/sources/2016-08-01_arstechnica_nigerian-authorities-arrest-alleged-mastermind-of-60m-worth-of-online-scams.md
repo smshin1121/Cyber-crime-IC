@@ -12,11 +12,18 @@ reliability: medium
 credibility: reported
 sensitivity: public
 pages_updated:
-  []
+
 key_findings:
   - "Ars Technica summarized the Port Harcourt arrest and the alleged transnational structure of the online-fraud network."
 collection_url: https://arstechnica.com/tech-policy/2016/08/nigerian-authorities-arrest-alleged-mastermind-of-60m-worth-of-online-scams/
 created: 2026-04-23
+text_status: summarized
+content_hash: sha256:2837fea28eca026a55a5a190eb65f6330f2e5bb5e72f90dec4f08f792187cc44
+word_count: 756
+stored_word_count: 80
+extraction_date: 2026-04-25
+last_fetcher: urllib
+copyright_policy: summary-only
 ---
 ## Source Summary
 

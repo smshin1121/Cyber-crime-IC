@@ -17,6 +17,14 @@ key_findings:
   - "Notes Ecuador/Mexico supply chain ties in surrounding investigations"
 collection_url: https://komonews.com/news/local/18-arrested-major-drug-distribution-busts-law-enforcement-seattle-region-snohomish-county-illegal-activity-ecuador-mexico-renton-fentanyl-pills-kilograms-december-2024-surveillance
 created: 2026-04-25
+raw_path: raw/news/2024-10-25_komonews_18-arrested-major-drug-distribution-busts.md
+text_status: summarized
+content_hash: sha256:ddbe7dd478918bc9a0b4caf8eb3de1007c2a1d485f889b02eb5cb65f6224a8af
+word_count: 533
+stored_word_count: 80
+extraction_date: 2026-04-25
+last_fetcher: urllib
+copyright_policy: summary-only
 ---
 ## Source Summary
 

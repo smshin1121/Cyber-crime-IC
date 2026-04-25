@@ -2,8 +2,8 @@
 type: source
 title: "AlphaBay dark web marketplace moderator gets 11 years in prison"
 source_type: news
-publisher: "BleepingComputer"
-author: "Staff"
+publisher: BleepingComputer
+author: Staff
 publish_date: 2020-09-02
 ingest_date: 2026-04-25
 language: en
@@ -17,6 +17,14 @@ key_findings:
   - "Confirms 20,000+ vendor-buyer disputes resolved by Herrell."
 collection_url: https://www.bleepingcomputer.com/news/security/alphabay-dark-web-marketplace-moderator-gets-11-years-in-prison/
 created: 2026-04-25
+raw_path: raw/news/2020-09-02_bleepingcomputer_alphabay-dark-web-marketplace-moderator-gets-11-years-in-prison.md
+text_status: summarized
+content_hash: sha256:22688678f2f9a5ab219135643049f3de555f1157ea978b8a01f5c3874c03bac7
+word_count: 1118
+stored_word_count: 80
+extraction_date: 2026-04-25
+last_fetcher: urllib
+copyright_policy: summary-only
 ---
 ## Source Summary
 

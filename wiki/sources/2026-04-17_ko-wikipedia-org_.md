@@ -12,11 +12,18 @@ reliability: medium
 credibility: confirmed
 sensitivity: public
 pages_updated:
-  []
+
 key_findings:
-  - "This page documents the **national cybercrime enforcement apparatus of the Korea National Police Agency (KNPA, 경찰청)** across three named incarnations: **사이버안전국 (Cyber Safety Bureau, ~2014–2021)**, **사이버수사국 (Cyber Investigation Bureau, 2021–2023)**, and **수사국 사이버수사심의관 (Investigation Bureau's Cyber Investigation Deliberation Officer, 2023–present)**. Throughout all three iterations the unit has served as **INTERPOL NCB Korea for cyber matters** and led Korea's participation in major multilateral cybercrime operations, most notably the **HAECHI** series [1][2]."
+  - "This page documents the **national cybercrime enforcement apparatus of the Korea National Police Agency (KNPA, 경찰청)** across three named incarnations: "**사이버안전국 (Cyber Safety Bureau, ~2014–2021)**, **사이버수사국 (Cyber Investigation Bureau, 2021–2023)**, and **수사국 사이버수사심의관 (Investigation Bureau's Cyber Investigation Deliberation Officer, 2023–present)**. Throughout all three iterations the unit has served as **INTERPOL NCB Korea for cyber matters** and led Korea's participation in major multilateral cybercrime operations, most notably the **HAECHI** series [1][2].\""
 collection_url: "https://ko.wikipedia.org/wiki/%EA%B5%AD%EA%B0%80%EC%88%98%EC%82%AC%EB%B3%B8%EB%B6%80"
 created: 2026-04-17
+text_status: summarized
+content_hash: sha256:cc6fe67992e41af19bba6dac5f64eca515b999f54bc586a0f7face8b6c5ccec5
+word_count: 1474
+stored_word_count: 80
+extraction_date: 2026-04-25
+last_fetcher: urllib
+copyright_policy: summary-only
 ---
 ## Source Summary
 

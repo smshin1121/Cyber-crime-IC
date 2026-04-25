@@ -2,7 +2,7 @@
 type: source
 title: "U.S. authorities to seize $54m in Ethereum connected to narcotics trafficking"
 source_type: news
-publisher: "Crypto.News"
+publisher: Crypto.News
 author: "Anthonia Isichei"
 publish_date: 2023-11-03
 ingest_date: 2026-04-25
@@ -17,6 +17,14 @@ key_findings:
   - "Comprehensive list of seized tokens beyond ETH"
 collection_url: https://crypto.news/u-s-authorities-to-seize-54m-in-ethereum-connected-to-narcotics-trafficking/
 created: 2026-04-25
+raw_path: raw/news/2023-11-03_cryptodotnews_us-authorities-to-seize-54m-in-ethereum-connected-to-narcotics-trafficking.md
+text_status: summarized
+content_hash: sha256:85fd66ff7ec9c8b20a5a841023c283cc2ab05ae26e91ba2379f0de391f2288ec
+word_count: 968
+stored_word_count: 80
+extraction_date: 2026-04-25
+last_fetcher: urllib
+copyright_policy: summary-only
 ---
 ## Source Summary
 

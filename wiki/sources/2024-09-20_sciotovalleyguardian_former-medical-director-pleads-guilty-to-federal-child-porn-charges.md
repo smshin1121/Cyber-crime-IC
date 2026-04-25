@@ -18,6 +18,14 @@ key_findings:
   - "February 2022 search warrant at OhioHealth Ashland; March 2022 license surrender"
 collection_url: https://sciotovalleyguardian.com/2024/09/20/former-medical-director-pleads-guilty-to-federal-child-porn-charges/
 created: 2026-04-25
+raw_path: raw/news/2024-09-20_sciotovalleyguardian_former-medical-director-pleads-guilty-to-federal-child-porn-charges.md
+text_status: summarized
+content_hash: sha256:6ee3e8757b8ddcea35a141f1dbcb899b8ec5445852c848159b08d40804fc526f
+word_count: 527
+stored_word_count: 80
+extraction_date: 2026-04-25
+last_fetcher: urllib
+copyright_policy: summary-only
 ---
 ## Source Summary
 

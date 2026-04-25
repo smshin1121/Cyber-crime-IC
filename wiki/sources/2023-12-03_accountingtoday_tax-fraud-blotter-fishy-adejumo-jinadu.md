@@ -18,6 +18,14 @@ key_findings:
   - "Trade-press coverage with tax-industry context."
 collection_url: https://www.accountingtoday.com/news/tax-fraud-blotter-fishy
 created: 2026-04-25
+raw_path: raw/news/2023-12-03_accountingtoday_tax-fraud-blotter-fishy-adejumo-jinadu.md
+text_status: summarized
+content_hash: sha256:c5a8f8847d75d329eb48f3091928cf9c2cd9d8b5c482a2efb54dc28d26ce1cdd
+word_count: 1638
+stored_word_count: 80
+extraction_date: 2026-04-25
+last_fetcher: urllib
+copyright_policy: summary-only
 ---
 ## Source Summary
 

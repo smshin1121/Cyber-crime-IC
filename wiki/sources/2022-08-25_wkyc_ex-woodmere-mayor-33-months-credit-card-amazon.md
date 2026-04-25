@@ -17,6 +17,14 @@ key_findings:
   - "Cleveland NBC affiliate coverage confirming the Amazon-deliveries motive for the gasoline purchases."
 collection_url: https://www.wkyc.com/article/news/local/northeast-ohio/ex-woodmere-mayor-sentenced-33-months-jail-stealing-credit-card-info-buy-gas/95-cd197473-10a1-41a1-a035-2f86630fe1b3
 created: 2026-04-25
+raw_path: raw/news/2022-08-25_wkyc_ex-woodmere-mayor-33-months-credit-card-amazon.md
+text_status: summarized
+content_hash: sha256:9f44c3fb1ad80e5e02972d4ca4a9d58494ddcd38caac168431b618f04da16d01
+word_count: 630
+stored_word_count: 80
+extraction_date: 2026-04-25
+last_fetcher: urllib
+copyright_policy: summary-only
 ---
 ## Source Summary
 

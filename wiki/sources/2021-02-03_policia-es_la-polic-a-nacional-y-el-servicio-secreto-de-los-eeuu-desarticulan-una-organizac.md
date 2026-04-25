@@ -17,6 +17,13 @@ key_findings:
   - "This page captures the public enforcement results of **Operation Secreto**, a Europol-coordinated and U.S. Secret Service-supported action against a fraud and money laundering network that targeted U.S.-based banks through shell companies, payment-card abuse, and cross-border laundering channels."
 collection_url: "https://www.policia.es/_es/comunicacion_prensa_detalle.php?ID=8401"
 created: 2026-04-17
+text_status: summarized
+content_hash: sha256:52d9c12efb3f83d27679d16f71f6f4345cad3448366fc2ba15278320b87bcd97
+word_count: 2438
+stored_word_count: 80
+extraction_date: 2026-04-25
+last_fetcher: urllib
+copyright_policy: summary-only
 ---
 ## Source Summary
 

@@ -16,6 +16,14 @@ key_findings:
   - "Local Snohomish County newspaper confirmation of dual 5-year sentences"
 collection_url: https://www.heraldnet.com/news/monroe-father-son-get-5-years-for-marijuana-bitcoin-scheme/
 created: 2026-04-25
+raw_path: raw/news/2022-05-31_heraldnet_monroe-father-son-get-5-years-marijuana-bitcoin-scheme.md
+text_status: summarized
+content_hash: sha256:00ce755bc02224d6c31ee0ecac47d34ab078131f866e01298dd02c551f2993e5
+word_count: 840
+stored_word_count: 80
+extraction_date: 2026-04-25
+last_fetcher: urllib
+copyright_policy: summary-only
 ---
 ## Source Summary
 

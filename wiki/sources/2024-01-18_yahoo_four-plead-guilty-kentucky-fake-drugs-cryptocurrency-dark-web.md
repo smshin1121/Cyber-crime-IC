@@ -18,6 +18,14 @@ key_findings:
   - "Lexington Herald-Leader regional newspaper of record syndication"
 collection_url: https://news.yahoo.com/four-plead-guilty-kentucky-case-170000938.html
 created: 2026-04-25
+raw_path: raw/news/2024-01-18_yahoo_four-plead-guilty-kentucky-fake-drugs-cryptocurrency-dark-web.md
+text_status: summarized
+content_hash: sha256:b84bfa5e1fc6e8168562d0bddb548d6a9d4e4ab7661dadc1b0a03883ee5beb85
+word_count: 470
+stored_word_count: 80
+extraction_date: 2026-04-25
+last_fetcher: urllib
+copyright_policy: summary-only
 ---
 ## Source Summary
 

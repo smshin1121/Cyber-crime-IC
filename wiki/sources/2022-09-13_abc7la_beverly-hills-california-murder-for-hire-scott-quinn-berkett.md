@@ -17,6 +17,14 @@ key_findings:
   - "Documents 'robbery gone wrong' instruction to undercover FBI agent."
 collection_url: https://abc7.com/post/beverly-hills-california-murder-for-hire-scott-quinn-berkett/12226756/
 created: 2026-04-25
+raw_path: raw/news/2022-09-13_abc7la_beverly-hills-california-murder-for-hire-scott-quinn-berkett.md
+text_status: summarized
+content_hash: sha256:8c2e7c93df7c9184551d903c2648bdbffdeb897654c4e4984b94796b24b1eb3e
+word_count: 591
+stored_word_count: 80
+extraction_date: 2026-04-25
+last_fetcher: urllib
+copyright_policy: summary-only
 ---
 ## Source Summary
 

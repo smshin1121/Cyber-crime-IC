@@ -17,6 +17,14 @@ key_findings:
   - "Quotes US Attorney Scott Brady on cross-border enforcement commitment."
 collection_url: https://archive.triblive.com/local/pittsburgh-allegheny/feds-russian-man-hacked-west-deer-golf-course-computer-to-shop-on-ebay/
 created: 2026-04-25
+raw_path: raw/news/2018-11-29_triblive_feds-russian-man-hacked-west-deer-golf-course-computer-to-shop-on-ebay.md
+text_status: summarized
+content_hash: sha256:d13f068685afee1af04c229031868f203a723d4b6cacb15237144a5e2dece3a8
+word_count: 696
+stored_word_count: 80
+extraction_date: 2026-04-25
+last_fetcher: urllib
+copyright_policy: summary-only
 ---
 ## Source Summary
 

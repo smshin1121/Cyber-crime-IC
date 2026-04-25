@@ -2,7 +2,7 @@
 type: source
 title: "Jordanian pleads guilty to selling access to 50 corporate networks"
 source_type: news
-publisher: "BleepingComputer"
+publisher: BleepingComputer
 author: "Sergiu Gatlan"
 publish_date: 2026-01-19
 ingest_date: 2026-04-25
@@ -18,6 +18,14 @@ key_findings:
   - "Sold unauthorized access to at least 50 victim companies on XSS.is forum under alias 'r1z' for cryptocurrency"
 collection_url: https://www.bleepingcomputer.com/news/security/jordanian-pleads-guilty-to-selling-access-to-50-corporate-networks/
 created: 2026-04-25
+raw_path: raw/news/2026-01-19_bleepingcomputer_jordanian-pleads-guilty-selling-access-50-corporate-networks.md
+text_status: summarized
+content_hash: sha256:1616ae2533f1c48ad8ec111b5bdfeebc77558b2b8ef21ef597fb3b83d97226b8
+word_count: 832
+stored_word_count: 80
+extraction_date: 2026-04-25
+last_fetcher: urllib
+copyright_policy: summary-only
 ---
 ## Source Summary
 

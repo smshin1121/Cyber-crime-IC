@@ -17,6 +17,14 @@ key_findings:
   - "Highlights post-sentence repatriation IC concern"
 collection_url: https://www.theregister.com/2020/09/30/linkedin_hacker_prison/
 created: 2026-04-25
+raw_path: raw/news/2020-09-30_theregister_russian-hacker-described-as-brilliant-by-judge-gets-seven-years-linkedin-dropbox.md
+text_status: summarized
+content_hash: sha256:c228e696fd88c74e8ab7f3c9324bc35738a4e2b0993a43c6a06fca62be6c58d3
+word_count: 1293
+stored_word_count: 80
+extraction_date: 2026-04-25
+last_fetcher: urllib
+copyright_policy: summary-only
 ---
 ## Source Summary
 

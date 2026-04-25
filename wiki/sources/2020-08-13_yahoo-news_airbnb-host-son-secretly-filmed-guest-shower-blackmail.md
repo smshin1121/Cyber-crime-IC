@@ -3,7 +3,7 @@ type: source
 title: "An Airbnb host's son secretly filmed a guest in the shower, then tried to blackmail her into sending him a sex video: prosecutors"
 source_type: news
 publisher: "Yahoo News (Insider)"
-author: "Staff"
+author: Staff
 publish_date: 2020-08-13
 ingest_date: 2026-04-25
 language: en
@@ -17,6 +17,14 @@ key_findings:
   - "Confirms Airbnb covert recording, Facebook contact, and sextortion demand."
 collection_url: https://news.yahoo.com/airbnb-hosts-son-secretly-filmed-191535660.html
 created: 2026-04-25
+raw_path: raw/news/2020-08-13_yahoo-news_airbnb-host-son-secretly-filmed-guest-shower-blackmail.md
+text_status: summarized
+content_hash: sha256:55605a283c73a1e787e72eb650e27310b092145aa8629a41a1ab7408c703e272
+word_count: 712
+stored_word_count: 80
+extraction_date: 2026-04-25
+last_fetcher: urllib
+copyright_policy: summary-only
 ---
 ## Source Summary
 

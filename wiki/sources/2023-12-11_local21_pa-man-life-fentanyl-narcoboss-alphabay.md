@@ -3,7 +3,7 @@ type: source
 title: "PA Man sentenced to life after selling fentanyl in all 50 states, causing 27 fatal overdoses"
 source_type: news
 publisher: "Local 21 News (CBS Harrisburg, PA)"
-author: "Staff"
+author: Staff
 publish_date: 2023-12-11
 ingest_date: 2026-04-25
 language: en
@@ -17,6 +17,14 @@ key_findings:
   - "Pennsylvania-side coverage of Koffie's life sentence; identifies China/Hong Kong precursor supply."
 collection_url: https://local21news.com/news/local/pa-man-fentanyl-federal-prison-life-fentanyl-states-27-fatal-overdose-death-narcoboss-alphabay-portland-philadelphia-us-attorney-crime-bitcoin-china-hong-kong-pennsylvania
 created: 2026-04-25
+raw_path: raw/news/2023-12-11_local21_pa-man-life-fentanyl-narcoboss-alphabay.md
+text_status: summarized
+content_hash: sha256:84f768dfaa105df4e3a9309fa870cf4a4799d801e47e538d6fbb8a1061fd428a
+word_count: 789
+stored_word_count: 80
+extraction_date: 2026-04-25
+last_fetcher: urllib
+copyright_policy: summary-only
 ---
 ## Source Summary
 

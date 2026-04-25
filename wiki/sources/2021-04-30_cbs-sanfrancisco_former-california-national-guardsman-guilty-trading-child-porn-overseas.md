@@ -3,7 +3,7 @@ type: source
 title: "Former California National Guardsman Guilty Of Trading Child Porn While On Duty Overseas"
 source_type: news
 publisher: "CBS San Francisco (CBS News)"
-author: "Staff"
+author: Staff
 publish_date: 2021-04-30
 ingest_date: 2026-04-25
 language: en
@@ -17,6 +17,14 @@ key_findings:
   - "Confirms other-than-honorable discharge from National Guard."
 collection_url: https://www.cbsnews.com/sanfrancisco/news/former-california-national-guardsman-guilty-of-trading-child-porn-while-on-duty-overseas/
 created: 2026-04-25
+raw_path: raw/news/2021-04-30_cbs-sanfrancisco_former-california-national-guardsman-guilty-trading-child-porn-overseas.md
+text_status: summarized
+content_hash: sha256:aab2fa8fde7a1b82a26c4b6a4303667893c112ad2e810ab69b185f5a2e92c062
+word_count: 603
+stored_word_count: 80
+extraction_date: 2026-04-25
+last_fetcher: urllib
+copyright_policy: summary-only
 ---
 ## Source Summary
 

@@ -17,6 +17,14 @@ key_findings:
   - "Independent confirmation of 2019-03-14 extradition date"
 collection_url: https://www.freightwaves.com/news/indictment-prison-time-for-illicit-u-s-exports
 created: 2026-04-25
+raw_path: raw/news/2019-03-22_freightwaves_indictment-prison-time-for-illicit-us-exports.md
+text_status: summarized
+content_hash: sha256:a0ba865cb8ccfa08aca304a04fda3b35577e01f16a532f4e5aab6bed10861a38
+word_count: 4773
+stored_word_count: 80
+extraction_date: 2026-04-25
+last_fetcher: jina
+copyright_policy: summary-only
 ---
 ## Source Summary
 

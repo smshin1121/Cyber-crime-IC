@@ -21,6 +21,14 @@ key_findings:
   - "The article corroborated the cross-border U.S.-Canada targeting pattern and the 20-plus swatting-call scope."
 created: 2026-04-18
 updated: 2026-04-18
+raw_path: raw/press-releases/2023-03-30_latimes-com_man-charged-in-20-plus-calls-of-false-threats-in-u-s-canada.md
+text_status: summarized
+content_hash: sha256:f6cbd4d433c87b4b7e4461f1c21b30c9223de541fc5d91b61e7449578fe77b7b
+word_count: 1496
+stored_word_count: 80
+extraction_date: 2026-04-25
+last_fetcher: urllib
+copyright_policy: summary-only
 ---
 ## Source Summary
 

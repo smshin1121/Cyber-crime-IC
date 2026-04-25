@@ -12,11 +12,18 @@ reliability: medium
 credibility: confirmed
 sensitivity: public
 pages_updated:
-  []
+
 key_findings:
   - "The **Supreme Prosecutors' Office (대검찰청, SPO)** is South Korea's highest prosecution body, headquartered in Seocho-gu, Seoul. Established in 1948 alongside the founding of the Republic of Korea, it operated for 78 years as the apex of Korea's prosecutor-led criminal justice system until the **October 2026 abolition** under the Lee Jae-myung administration's 수사권 분리 (separation of investigation and prosecution) reform."
 collection_url: https://www.etoday.co.kr/news/view/2544775
 created: 2026-04-17
+text_status: summarized
+content_hash: sha256:1c5fc4950b0c237ab41b3618d560086d54150614aaa252dc34096488fc5a8972
+word_count: 2374
+stored_word_count: 80
+extraction_date: 2026-04-25
+last_fetcher: urllib
+copyright_policy: summary-only
 ---
 ## Source Summary
 

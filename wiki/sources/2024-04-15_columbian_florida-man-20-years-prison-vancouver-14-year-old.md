@@ -16,6 +16,14 @@ key_findings:
   - "The Columbian (Vancouver WA daily) confirmation of 20-year sentence"
 collection_url: https://www.columbian.com/news/2024/apr/15/florida-man-gets-20-years-in-prison-in-sex-abuse-case-involving-vancouver-14-year-old/
 created: 2026-04-25
+raw_path: raw/news/2024-04-15_columbian_florida-man-20-years-prison-vancouver-14-year-old.md
+text_status: summarized
+content_hash: sha256:17364e6bd5df80880edf8ea9d7f34e011ce386afc7e459c9dda45a9088875134
+word_count: 3599
+stored_word_count: 80
+extraction_date: 2026-04-25
+last_fetcher: jina
+copyright_policy: summary-only
 ---
 ## Source Summary
 

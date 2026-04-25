@@ -17,6 +17,14 @@ key_findings:
   - "Notes prior 2020 mass shooting acquittal"
 collection_url: https://www.fox13seattle.com/news/man-guilty-gun-drug-charges
 created: 2026-04-25
+raw_path: raw/news/2024-09-13_fox13seattle_man-guilty-gun-drug-charges-seattle-mass-shooting.md
+text_status: summarized
+content_hash: sha256:0d30e43ba2536d7ec0504a6eee16dba12e369084673e311ce7d0587b3c362ea7
+word_count: 1068
+stored_word_count: 80
+extraction_date: 2026-04-25
+last_fetcher: urllib
+copyright_policy: summary-only
 ---
 ## Source Summary
 

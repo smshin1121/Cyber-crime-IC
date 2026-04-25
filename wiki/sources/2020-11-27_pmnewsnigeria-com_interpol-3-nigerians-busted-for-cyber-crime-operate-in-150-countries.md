@@ -12,11 +12,18 @@ reliability: medium
 credibility: confirmed
 sensitivity: public
 pages_updated:
-  []
+
 key_findings:
   - "INTERPOL, Group-IB, and the Nigeria Police Force conducted Operation Falcon, a joint investigation that resulted in the arrest of 3 Nigerian nationals in November 2020. The suspects were part of a prolific cybercrime group that used 26 different types of malware including AgentTesla, Loki, Azorult, Spartan, Nanocore, and Remcos to conduct phishing attacks and Business Email Compromise (BEC) schemes targeting government organizations and private companies in over 150 countries."
 collection_url: https://pmnewsnigeria.com/2020/11/27/interpol-3-nigerians-busted-for-cyber-crime-operate-in-150-countries/
 created: 2026-04-17
+text_status: summarized
+content_hash: sha256:14963aeda7cd64a09eef716597f144b8b15b00fd8157e7961fb221aa955d45e9
+word_count: 773
+stored_word_count: 80
+extraction_date: 2026-04-25
+last_fetcher: urllib
+copyright_policy: summary-only
 ---
 ## Source Summary
 

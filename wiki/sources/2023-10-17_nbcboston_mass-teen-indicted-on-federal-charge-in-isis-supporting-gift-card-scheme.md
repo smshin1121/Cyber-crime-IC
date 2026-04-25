@@ -20,6 +20,14 @@ key_findings:
   - "Indictment carries up to 10 years and $250,000 fine."
 collection_url: https://www.nbcboston.com/news/local/mass-teen-indicted-on-federal-charge-in-isis-supporting-gift-card-scheme/3162998/
 created: 2026-04-25
+raw_path: raw/news/2023-10-17_nbcboston_mass-teen-indicted-on-federal-charge-in-isis-supporting-gift-card-scheme.md
+text_status: summarized
+content_hash: sha256:b6208561d26db0e071e41377fbbc2877835d221e56c4c4bb6859019b90343525
+word_count: 937
+stored_word_count: 80
+extraction_date: 2026-04-25
+last_fetcher: urllib
+copyright_policy: summary-only
 ---
 ## Source Summary
 

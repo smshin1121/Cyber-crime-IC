@@ -16,6 +16,14 @@ key_findings:
   - "KIRO 7 Seattle local TV confirmation"
 collection_url: https://www.kiro7.com/news/local/father-son-monroe-sentenced-prison-marijuana-money-laundering-operations/DHBP4UA6C5BBFHWSUSVPGRLKMA/
 created: 2026-04-25
+raw_path: raw/news/2022-05-31_kiro7_father-son-monroe-sentenced-prison-marijuana-money-laundering.md
+text_status: summarized
+content_hash: sha256:1785fd7bf610f30f73390ade938086e7a90e33d1e24f74172d26a9855141ab78
+word_count: 131
+stored_word_count: 80
+extraction_date: 2026-04-25
+last_fetcher: urllib
+copyright_policy: summary-only
 ---
 ## Source Summary
 

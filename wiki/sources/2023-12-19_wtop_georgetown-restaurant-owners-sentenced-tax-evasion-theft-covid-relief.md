@@ -16,6 +16,14 @@ key_findings:
   - "Total restitution ~$2.1M."
 collection_url: https://wtop.com/crime/2023/12/georgetown-restaurant-owners-sentenced-in-tax-evasion-theft-of-covid-relief-funds-case/
 created: 2026-04-25
+raw_path: raw/news/2023-12-19_wtop_georgetown-restaurant-owners-sentenced-tax-evasion-theft-covid-relief.md
+text_status: summarized
+content_hash: sha256:903de921c330709f53471ad0f4de860c1565110d6a7b9640b51332a78941a855
+word_count: 820
+stored_word_count: 80
+extraction_date: 2026-04-25
+last_fetcher: urllib
+copyright_policy: summary-only
 ---
 ## Source Summary
 

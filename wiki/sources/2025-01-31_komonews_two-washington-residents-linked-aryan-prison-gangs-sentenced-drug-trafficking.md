@@ -3,7 +3,7 @@ type: source
 title: "Two Washington residents linked to Aryan prison gangs sentenced for drug trafficking"
 source_type: news
 publisher: "KOMO News"
-author: "Staff"
+author: Staff
 publish_date: 2025-01-31
 ingest_date: 2026-04-25
 language: en
@@ -17,6 +17,14 @@ key_findings:
   - "Thompson as proxy for major narcotics deals"
 collection_url: https://komonews.com/news/local/two-washingtonians-linked-to-aryan-prison-gangs-sentenced-for-drug-trafficking-meth-fentanyl-crime-arrest-dea-fbi-investigation
 created: 2026-04-25
+raw_path: raw/news/2025-01-31_komonews_two-washington-residents-linked-aryan-prison-gangs-sentenced-drug-trafficking.md
+text_status: summarized
+content_hash: sha256:9b064814615ca8a92e9bb525f49e0779b612c101fb76912b6fb23166c363e1dc
+word_count: 541
+stored_word_count: 80
+extraction_date: 2026-04-25
+last_fetcher: urllib
+copyright_policy: summary-only
 ---
 ## Source Summary
 

@@ -17,6 +17,14 @@ key_findings:
   - "$150M forfeiture branded as largest single cryptocurrency/cash seizure in DEA history."
 collection_url: https://www.infosecurity-magazine.com/news/dark-web-drugs-vendor-150m-guilty/
 created: 2026-04-25
+raw_path: raw/news/2024-01-26_infosecurity-magazine_dark-web-drugs-vendor-150m-guilty-plea.md
+text_status: summarized
+content_hash: sha256:26dad170c29c59f91660c9381027dedc6f5083b42fb0eb9a297dcaff9724a719
+word_count: 851
+stored_word_count: 80
+extraction_date: 2026-04-25
+last_fetcher: urllib
+copyright_policy: summary-only
 ---
 ## Source Summary
 

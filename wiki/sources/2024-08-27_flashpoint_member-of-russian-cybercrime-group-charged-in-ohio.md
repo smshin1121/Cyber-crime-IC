@@ -2,7 +2,7 @@
 type: source
 title: "Member of Russian Cybercrime Group Charged in Ohio"
 source_type: news
-publisher: "Flashpoint"
+publisher: Flashpoint
 author: "Flashpoint Intelligence Team"
 publish_date: 2024-08-27
 ingest_date: 2026-04-25
@@ -18,6 +18,14 @@ key_findings:
   - "Karakurt operates leaks-and-auction website listing victim companies"
 collection_url: https://flashpoint.io/blog/usa-vs-deniss-zolotarjovs/
 created: 2026-04-25
+raw_path: raw/news/2024-08-27_flashpoint_member-of-russian-cybercrime-group-charged-in-ohio.md
+text_status: summarized
+content_hash: sha256:d4dac6c73fc26471faa98f6d5e4654ce2847c67e524a1ccef2fefa66a586411d
+word_count: 503
+stored_word_count: 80
+extraction_date: 2026-04-25
+last_fetcher: urllib
+copyright_policy: summary-only
 ---
 ## Source Summary
 

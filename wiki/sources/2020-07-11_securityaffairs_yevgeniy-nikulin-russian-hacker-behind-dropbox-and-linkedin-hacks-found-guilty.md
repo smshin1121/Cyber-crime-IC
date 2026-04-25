@@ -16,6 +16,14 @@ key_findings:
   - "Identifies FBI Prague arrest operation; dark-web sales 2015-2016"
 collection_url: https://securityaffairs.com/105790/cyber-crime/nikulin-hacker-found-guilty.html
 created: 2026-04-25
+raw_path: raw/news/2020-07-11_securityaffairs_yevgeniy-nikulin-russian-hacker-behind-dropbox-and-linkedin-hacks-found-guilty.md
+text_status: summarized
+content_hash: sha256:0e512ec8f7604b273aab633b8c35c9676fc75b8def3db407ab72a7b9ed74e7c5
+word_count: 1013
+stored_word_count: 80
+extraction_date: 2026-04-25
+last_fetcher: urllib
+copyright_policy: summary-only
 ---
 ## Source Summary
 

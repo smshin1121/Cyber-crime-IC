@@ -3,7 +3,7 @@ type: source
 title: "Ex-House employees allegedly circulated nude photos of Congress member, feds say"
 source_type: news
 publisher: "CBS News"
-author: "Staff"
+author: Staff
 publish_date: 2017-07-13
 ingest_date: 2026-04-25
 language: en
@@ -18,6 +18,14 @@ key_findings:
   - "Intimate images were of a sitting U.S. House member, distributed via fake online accounts after McCullum left staff"
 collection_url: https://www.cbsnews.com/news/juan-mccullum-dorene-browne-louis-charged-congress-nude-photos/
 created: 2026-04-25
+raw_path: raw/news/2017-07-13_cbsnews_ex-house-employees-allegedly-circulated-nude-photos-of-congress-member.md
+text_status: summarized
+content_hash: sha256:8d3501c77d27619874c8ddff9a8ffe64fcbf7abe90ac4c0e139558d5accf3618
+word_count: 757
+stored_word_count: 80
+extraction_date: 2026-04-25
+last_fetcher: urllib
+copyright_policy: summary-only
 ---
 ## Source Summary
 

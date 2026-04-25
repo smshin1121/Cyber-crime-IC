@@ -17,6 +17,14 @@ key_findings:
   - "Confirms cryptocurrency mixing services laundered approximately $230,000 in payments"
 collection_url: https://securityaffairs.com/175413/cyber-crime/lockbit-ransomware-developer-rostislav-panev-extradited-to-us.html
 created: 2026-04-25
+raw_path: raw/news/2025-03-14_securityaffairs_lockbit-ransomware-developer-rostislav-panev-extradited-to-us.md
+text_status: summarized
+content_hash: sha256:0d80b0aceb57ee4de137470284d345d5fde947423aaf012f2f1c5d12c41b4f5e
+word_count: 1224
+stored_word_count: 80
+extraction_date: 2026-04-25
+last_fetcher: urllib
+copyright_policy: summary-only
 ---
 ## Source Summary
 

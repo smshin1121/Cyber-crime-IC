@@ -2,7 +2,7 @@
 type: source
 title: "Feds arrest Latvian man accused of extorting Karakurt victims"
 source_type: news
-publisher: "CyberScoop"
+publisher: CyberScoop
 author: "AJ Vicens"
 publish_date: 2024-08-23
 ingest_date: 2026-04-25
@@ -18,6 +18,14 @@ key_findings:
   - "FBI Special Agent Connor Lentz authored affidavit; tracked him via dark-web chats and cryptocurrency wallet activity"
 collection_url: https://cyberscoop.com/karakurt-ransomware-arrest-deniss-zolotarjovs/
 created: 2026-04-25
+raw_path: raw/news/2024-08-23_cyberscoop_feds-arrest-latvian-man-accused-of-extorting-karakurt-victims.md
+text_status: summarized
+content_hash: sha256:0cbdb91430c13eaeec649f3347ad9949608edeb823fae769667c3643d3acb6f2
+word_count: 971
+stored_word_count: 80
+extraction_date: 2026-04-25
+last_fetcher: urllib
+copyright_policy: summary-only
 ---
 ## Source Summary
 

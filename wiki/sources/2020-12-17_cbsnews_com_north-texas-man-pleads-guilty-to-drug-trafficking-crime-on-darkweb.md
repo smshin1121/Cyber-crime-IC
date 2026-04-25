@@ -17,6 +17,14 @@ key_findings:
   - "The article gives the plea stage its own distinct media URL separate from later sentencing coverage."
 collection_url: https://www.cbsnews.com/texas/news/north-texas-man-pleads-guilty-drug-trafficking-crime-darkweb/
 created: 2026-04-25
+raw_path: raw/news/2020-12-17_cbsnews_com_north-texas-man-pleads-guilty-to-drug-trafficking-crime-on-darkweb.md
+text_status: summarized
+content_hash: sha256:867d619180aa3bcacd4c86488897a419a9af88c10e223059ed06ea130ebd5753
+word_count: 773
+stored_word_count: 80
+extraction_date: 2026-04-25
+last_fetcher: urllib
+copyright_policy: summary-only
 ---
 ## Source Summary
 

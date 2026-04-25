@@ -17,6 +17,14 @@ key_findings:
   - "Direct messages with Khoroshev (LockBit primary operator) recovered as evidence"
 collection_url: https://www.infosecurity-magazine.com/news/lockbit-ransomware-developer/
 created: 2026-04-25
+raw_path: raw/news/2025-03-14_infosecuritymagazine_lockbit-ransomware-developer-extradited.md
+text_status: summarized
+content_hash: sha256:2e07ae07137839a409777a9f6ce13341c586e173917931e17c1da7c1b9f676df
+word_count: 955
+stored_word_count: 80
+extraction_date: 2026-04-25
+last_fetcher: urllib
+copyright_policy: summary-only
 ---
 ## Source Summary
 

@@ -18,6 +18,14 @@ key_findings:
   - "Identifies Silnikau as Belarusian-Ukrainian dual national"
 collection_url: https://www.voanews.com/a/alleged-leader-of-cybercriminals-extradited-to-us/7741605.html
 created: 2026-04-25
+raw_path: raw/news/2024-08-13_voanews_alleged-leader-cybercriminals-extradited-us.md
+text_status: summarized
+content_hash: sha256:eaf4a72a38171c05224847372bcfe8a33eddabe24f89e488444b9535b915a3e0
+word_count: 769
+stored_word_count: 80
+extraction_date: 2026-04-25
+last_fetcher: urllib
+copyright_policy: summary-only
 ---
 ## Source Summary
 

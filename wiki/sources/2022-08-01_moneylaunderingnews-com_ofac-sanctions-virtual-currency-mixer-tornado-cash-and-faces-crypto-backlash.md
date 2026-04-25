@@ -12,11 +12,18 @@ reliability: medium
 credibility: confirmed
 sensitivity: public
 pages_updated:
-  []
+
 key_findings:
-  - "The US Department of the Treasury plays a central role in international cybercrime cooperation through two distinct tools:"
+  - "The US Department of the Treasury plays a central role in international cybercrime cooperation through two distinct tools: "\""
 collection_url: https://www.moneylaunderingnews.com/2022/08/ofac-sanctions-virtual-currency-mixer-tornado-cash-and-faces-crypto-backlash/
 created: 2026-04-17
+text_status: summarized
+content_hash: sha256:a83785c6990f227b359d35f6dba74aabae36659afb2f235c2be616d6dc1352dd
+word_count: 3204
+stored_word_count: 80
+extraction_date: 2026-04-25
+last_fetcher: jina
+copyright_policy: summary-only
 ---
 ## Source Summary
 

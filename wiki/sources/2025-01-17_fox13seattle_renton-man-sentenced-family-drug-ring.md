@@ -17,6 +17,14 @@ key_findings:
   - "The article also highlighted the timeline linking Graves and his son through wiretapped calls and social-media evidence."
 collection_url: https://www.fox13seattle.com/news/renton-man-sentenced-family-drug-ring
 created: 2026-04-25
+raw_path: raw/news/2025-02-26_fox13seattle_renton-wa-man-sentenced-5-years-money-laundering-family-drug-ring.md
+text_status: summarized
+content_hash: sha256:bb64f0d93263595db75f4bbb1da8c7645d4904775fc734ebc10d3b1b2a92bb16
+word_count: 1111
+stored_word_count: 80
+extraction_date: 2026-04-25
+last_fetcher: urllib
+copyright_policy: summary-only
 ---
 ## Source Summary
 

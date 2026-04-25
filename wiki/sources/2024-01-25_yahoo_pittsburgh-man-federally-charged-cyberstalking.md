@@ -18,6 +18,14 @@ key_findings:
   - "Confirms FBI + Scott Township PD investigation."
 collection_url: https://www.yahoo.com/news/pittsburgh-man-federally-charged-cyberstalking-182058212.html
 created: 2026-04-25
+raw_path: raw/news/2024-01-25_yahoo_pittsburgh-man-federally-charged-cyberstalking.md
+text_status: summarized
+content_hash: sha256:914b706368ddd5ae8bfadf4c76fc1ce3bd4b7508397219b66da50e05782f1763
+word_count: 419
+stored_word_count: 80
+extraction_date: 2026-04-25
+last_fetcher: urllib
+copyright_policy: summary-only
 ---
 ## Source Summary
 

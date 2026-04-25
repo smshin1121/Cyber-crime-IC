@@ -1,0 +1,36 @@
+---
+title: "Asia 6-country crackdown on online child sexual abuse material"
+collection_source: "Seoul Shinmun"
+collection_url: https://www.seoul.co.kr/news/society/2025/04/07/20250407014003
+collection_domain: seoul.co.kr
+collection_date: 2026-04-17
+publish_date: 2025-04-07
+language: en
+status: collected
+final_url: https://www.seoul.co.kr/news/society/2025/04/07/20250407014003
+text_status: summarized
+fetcher: jina
+http_status: 200
+content_type: "text/plain; charset=utf-8"
+content_hash: sha256:b74c798e038d071f0fab5337918854f7f979af7d2b61329f25c6ce2cc14de1f9
+word_count: 1420
+stored_word_count: 80
+extraction_date: 2026-04-25
+copyright_policy: summary-only
+source_page: wiki/sources/2025-04-07_seoul-co-kr_asia-6-country-crackdown-on-online-child-sexual-abuse-material.md
+---
+## Summary
+
+**Operation Cyber Guardian** was a six-jurisdiction Asian crackdown on online child sexual abuse and exploitation offenses, initiated by the [[singapore-police|Singapore Police Force]] and carried out from 24 February to 28 March 2025. Public sources from [[south-korea|South Korea]] and [[japan|Japan]] confirm participation by South Korea, Japan, Singapore, Malaysia, Thailand, and Hong Kong, with **544 suspects** publicly reported across the operation.
+
+## Extracted Summary
+
+Title: 서울신문 URL Source: https://www.seoul.co.kr/news/society/2025/04/07/20250407014003 Warning: Target URL returned error 404: Not Found Markdown Content: # 서울신문 [](https://m.post.naver.com/my.nhn?memberNo=11808064)[](https://tv.naver.com/thetvseoul)[](https://www.youtube.com/user/ThetvSeoul)[](https://www.facebook.com/TheSeoulShinmun/)[](https://twitter.com/SeoulShinmun)[](https://www.instagram.com/seoulshinmun/) [![Image 1: 서울신문](https://www.seoul.co.kr/img/n24/fixedHeader-logo.png)](https://www.seoul.co.kr/) * 공유하기 * [댓글달기](javascript:scrollMove('#new_iframeLivere');) 기사 검색 [![Image 2: 서울신문](https://www.seoul.co.kr/img/n24/fixedHeader-logo.png)](https://www.seoul.co.kr/) * [정치](https://www.seoul.co.kr/newsList/politics/) * [사회](https://www.seoul.co.kr/newsList/society/) * [경제](https://www.seoul.co.kr/newsList/economy/) * [국제](https://www.seoul.co.kr/newsList/international/) * [정책·자치](https://go.seoul.co.kr/) * [문화](https://www.seoul.co.kr/newsList/life/) * [기획·연재](https://www.seoul.co.kr/newsList/plan/) * [오피니언](https://www.seoul.co.kr/newsList/editOpinion/) * [피플](https://www.seoul.co.kr/newsList/peoples/) * [스포츠](https://www.seoul.co.kr/newsList/sport/) * [연예](https://en.seoul.co.kr/) [정치](https://www.seoul.co.kr/newsList/politics/)[대통령](https://www.seoul.co.kr/newsList/politics/president/)[국회](https://www.seoul.co.kr/newsList/politics/congress/)[북한](https://www.seoul.co.kr/newsList/politics/north/)[국방·외교](https://www.seoul.co.kr/newsList/politics/diplomacy/)[사회](https://www.seoul.co.kr/newsList/society/)[사건·사고](https://www.seoul.co.kr/newsList/society/accident/)[법원·검찰](https://www.seoul.co.kr/newsList/society/law/)[환경](https://www.seoul.co.kr/newsList/society/enviroment/)[교육](https://www.seoul.co.kr/newsList/society/education-news/)[과학](https://www.seoul.co.kr/newsList/society/science-news/)[보건·의료](https://www.seoul.co.kr/newsList/society/health-medical/)[보건·복지](https://www.seoul.co.kr/newsList/society/health-welfare/)[경제](https://www.seoul.co.kr/newsList/economy/)[기업·산업](https://www.seoul.co.kr/newsList/economy/industry/)[부동산](https://www.seoul.co.kr/newsList/economy/estate/)[금융](https://www.seoul.co.kr/newsList/economy/finance/)[자동차](https://www.seoul.co.kr/newsList/economy/car/)[유통](https://www.seoul.co.kr/newsList/economy/distribution/)[증권](https://www.seoul.co.kr/newsList/economy/securities/)[IT·인터넷](https://www.seoul.co.kr/newsList/economy/IT/)[정책](https://www.seoul.co.kr/newsList/economy/policy/)[비즈브리핑](https://www.seoul.co.kr/newsList/economy/business-news/)[국제](https://www.seoul.co.kr/newsList/international/)[국제경제](https://www.seoul.co.kr/newsList/international/economy-global/)[중국](https://www.seoul.co.kr/newsList/international/china/)[일본](https://www.seoul.co.kr/newsList/international/japan/)[중동·아프리카](https://www.seoul.co.kr/newsList/international/middleeast-africa/)[아시아 오세아니아](https://www.seoul.co.kr/newsList/international/asia-oceania/)[미국·중남미](https://www.seoul.co.kr/newsList/international/USA-amrica/)[유럽](https://www.seoul.co.kr/newsList/international/europe/)[지구촌 화제](https://www.seoul.co.kr/newsList/international/topic-global/)[글로벌인사이트](https://www.seoul.co.kr/newsList/international/insight-global/)[정책·자치](https://go.seoul.co.kr/)[정책·행정](https://go.seoul.co.kr/news/newsList.php?section=policy_admin)[지방·자치](https://go.seoul.co.kr/news/newsList.php?section=local_govern)[서울區政](https://go.seoul.co.kr/news/newsList.php?section=seoul_local)[고시·채용](https://go.seoul.co.kr/news/newsList.php?section=state_exam)[문화](https://www.seoul.co.kr/newsList/life/)[음악](https://www.seoul.co.kr/newsList/life/music/)[학술](https://www.seoul.co.kr/newsList/life/scholaship/)[미술·전시](https://www.seoul.co.kr/newsList/life/exhibition/)[출판·문학](https://www.seoul.co.kr/newsList/life/publication-literature/)[대중 문화](https://www.seoul.co.kr/newsList/life/pop-culture/)[종교](https://www.seoul.co.kr/newsList/life/religion-news/)[여행](https://www.seoul.co.kr/newsList/life/travel-news/)[건강](https://www.seoul.co.kr/newsList/life/health-news/)[반려동물](https://www.seoul.co.kr/newsList/life/pet/)[영화](https://www.seoul.co.kr/newsList/life/movie/)[공연](https://www.seoul.co.kr/newsList/life/performance/) [기획·연재](https://www.seoul.co.kr/newsList/plan/)[시리즈 목록](https://www.seoul.co.kr/newsList/plan/)[오피니언](https://www.seoul.co.kr/newsList/editOpinion/)[사설](https://www.seoul.co.kr/newsList/editOpinion/editorial/)[칼럼](https://www.seoul.co.kr/newsList/editOpinion/column/)[전문필진](https://www.seoul.co.kr/newsList/editOpinion/opinion/)[만평](https://www.seoul.co.kr/newsList/editOpinion/satirical-cartoon-jky/)[피플](https://www.seoul.co.kr/newsList/peoples/)[인사](https://www.seoul.co.kr/newsList/peoples/movement/)[동정](https://www.seoul.co.kr/newsList/peoples/face/)[부고](https://www.seoul.co.kr/newsList/peoples/death) [스포츠](https://www.seoul.co.kr/newsList/sport/)[야구](https://www.seoul.co.kr/newsList/sport/baseball/)[축구](https://www.seoul.co.kr/newsList/sport/soccer/)[골프](https://www.seoul.co.kr/newsList/sport/golf/)[농구](https://www.seoul.co.kr/newsList/sport/basketball/)[배구](https://www.seoul.co.kr/newsList/sport/volleyball/)[연예](https://en.seoul.co.kr/)[방송](https://en.seoul.co.kr/news/newsList.php?section=broadcastN)[영화](https://en.seoul.co.kr/news/newsList.php?section=movieN)[해외연예](https://en.seoul.co.kr/news/newsList.php?section=foreigncountryN)[뮤직](https://en.seoul.co.kr/news/newsList.php?section=musicN)[스타요즘](https://en.seoul.co.kr/news/newsList.php?section=starinterN) [검색](javascript:searchClick();) * [회사 소개](https://company.seoul.co.kr/) * [서울신문 역사관](https://www.seoul.co.kr/SpecialEdition/seoulHistory/) * 서울신문 뉴스브랜드 보기 * [서울신문](https://www.seoul.co.kr/) * [나우뉴스](https://nownews.seoul.co.kr/) * [서울Pn](https://go.seoul.co.kr/) * [서울Eye](https://eye.seoul.co.kr/) * [서울En](https://en.seoul.co.kr/)...
+
+## Extraction Notes
+
+- parser: plain
+- fetcher: jina
+- fetched_at: 2026-04-25T14:59:50+00:00
+- final_url: https://www.seoul.co.kr/news/society/2025/04/07/20250407014003
+- storage_mode: summary-only

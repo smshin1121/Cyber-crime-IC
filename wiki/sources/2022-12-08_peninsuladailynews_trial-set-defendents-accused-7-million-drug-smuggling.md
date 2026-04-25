@@ -17,6 +17,14 @@ key_findings:
   - "Documents US-Canada cross-border element via Gartry's BC residence"
 collection_url: https://www.peninsuladailynews.com/crime/trial-set-for-defendents-accused-in-7-million-drug-smuggling-try/
 created: 2026-04-25
+raw_path: raw/news/2022-12-08_peninsuladailynews_trial-set-defendents-accused-7-million-drug-smuggling.md
+text_status: summarized
+content_hash: sha256:3c4105f89ef53b6a91c6cff7759f13ef6e2b06482044cf76b86c536f9f669270
+word_count: 601
+stored_word_count: 80
+extraction_date: 2026-04-25
+last_fetcher: urllib
+copyright_policy: summary-only
 ---
 ## Source Summary
 

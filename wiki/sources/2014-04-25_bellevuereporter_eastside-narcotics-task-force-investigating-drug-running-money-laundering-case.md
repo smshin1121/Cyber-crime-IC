@@ -17,6 +17,14 @@ key_findings:
   - "The article showed the Seattle-area heroin conspiracy was under active local and state investigation well before the 2016 federal indictment."
 collection_url: https://www.bellevuereporter.com/2014/04/25/eastside-narcotics-task-force-investigating-drug-running-money-laundering-case/
 created: 2026-04-25
+raw_path: raw/news/2014-04-25_bellevuereporter_eastside-narcotics-task-force-investigating-drug-running-money-laundering-case.md
+text_status: summarized
+content_hash: sha256:319bf82d7ff39d495f0574cdc07ea0346d9ea4768f3fdbcdf63343c185c3852e
+word_count: 501
+stored_word_count: 80
+extraction_date: 2026-04-25
+last_fetcher: urllib
+copyright_policy: summary-only
 ---
 ## Source Summary
 

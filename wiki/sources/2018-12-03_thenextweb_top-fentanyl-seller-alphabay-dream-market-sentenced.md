@@ -16,6 +16,14 @@ key_findings:
   - "Tech press coverage of Dream Market and AlphaBay vendor enforcement"
 collection_url: https://thenextweb.com/hardfork/2019/12/19/bitcoin-cryptocurrency-fentanyl-alphabay-dream-market-dark-web-prison
 created: 2026-04-25
+raw_path: raw/news/2018-12-03_thenextweb_top-fentanyl-seller-alphabay-dream-market-sentenced.md
+text_status: summarized
+content_hash: sha256:bb4790f641e306122d6dbc30a341d12c3b74dbe9d3563b68e5f708618cc0ebed
+word_count: 722
+stored_word_count: 80
+extraction_date: 2026-04-25
+last_fetcher: urllib
+copyright_policy: summary-only
 ---
 ## Source Summary
 

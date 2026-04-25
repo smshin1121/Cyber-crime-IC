@@ -3,7 +3,7 @@ type: source
 title: "Europol tracks DD4BC cyber-extortion gang to Bosnia"
 raw_path: raw/press-releases/2016-01-12_pcworld_europol-tracks-dd4bc-cyber-extortion-gang-to-bosnia.md
 source_type: news
-publisher: "PCWorld"
+publisher: PCWorld
 author: "Peter Sayer"
 publish_date: 2016-01-12
 ingest_date: 2026-04-23
@@ -12,11 +12,18 @@ reliability: medium
 credibility: reported
 sensitivity: public
 pages_updated:
-  []
+
 key_findings:
   - "PCWorld said Operation Pleiades produced one arrest and one detention in Bosnia and emphasized the UK Metropolitan Police Cyber Crime Unit's role in identifying the DD4BC suspects."
 collection_url: https://www.pcworld.com/article/419135/europol-tracks-dd4bc-cyber-extortion-gang-to-bosnia.html
 created: 2026-04-23
+text_status: summarized
+content_hash: sha256:956170920b104c2f10bc1c4c5679a81a02fb322729283b1b49a2eee4dce57a74
+word_count: 576
+stored_word_count: 80
+extraction_date: 2026-04-25
+last_fetcher: urllib
+copyright_policy: summary-only
 ---
 ## Source Summary
 

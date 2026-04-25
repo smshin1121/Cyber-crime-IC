@@ -20,6 +20,14 @@ key_findings:
   - "Defense statement claims defendant was trying to expose terrorist online recruiting."
 collection_url: https://www.cbsnews.com/boston/news/wakefield-mateo-ventura-indicted-gift-cards-isis/
 created: 2026-04-25
+raw_path: raw/news/2023-10-17_cbsboston_wakefield-mateo-ventura-indicted-gift-cards-isis.md
+text_status: summarized
+content_hash: sha256:4e76f305d37e88f57352130d707319b570b49445a9d6d00d6c25825d62bbbd20
+word_count: 540
+stored_word_count: 80
+extraction_date: 2026-04-25
+last_fetcher: urllib
+copyright_policy: summary-only
 ---
 ## Source Summary
 

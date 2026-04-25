@@ -1,7 +1,7 @@
 ---
 type: source
 title: "Notorious Central Europe crime gang that laundered tens of millions of euro for hackers targeted in raids"
-raw_path: ""
+raw_path: raw/press-releases/2020-10-16_amlintelligence_notorious-central-europe-crime-gang-that-laundered-tens-of-millions-of-euro-for-hackers-targeted-in-raids.md
 source_type: news
 publisher: "AML Intelligence"
 author: "Dan Byrne"
@@ -18,6 +18,13 @@ key_findings:
   - "AML Intelligence reported 20 arrests and extensive house searches linked to QQAAZZ."
   - "The report emphasized laundering support for major cybercrime groups and the European footprint of the case."
 created: 2026-04-23
+text_status: summarized
+content_hash: sha256:33d047de93fa15a2f24c19d156a03f9fa2b4f81efe1e28eba8ad2bd8c9ca8e1a
+word_count: 1595
+stored_word_count: 80
+extraction_date: 2026-04-25
+last_fetcher: urllib
+copyright_policy: summary-only
 ---
 ## Source Summary
 

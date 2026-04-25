@@ -16,6 +16,14 @@ key_findings:
   - "KIRO 7 local TV confirmation in multi-defendant context"
 collection_url: https://www.kiro7.com/news/local/federal-judges-hand-down-prison-terms-3-western-wa-drug-traffickers/M5RFTVYGKVCFVBBFK7PCLCU4RQ/
 created: 2026-04-25
+raw_path: raw/news/2024-09-13_kiro7_federal-judges-prison-terms-3-western-wa-drug-traffickers.md
+text_status: summarized
+content_hash: sha256:1785fd7bf610f30f73390ade938086e7a90e33d1e24f74172d26a9855141ab78
+word_count: 131
+stored_word_count: 80
+extraction_date: 2026-04-25
+last_fetcher: urllib
+copyright_policy: summary-only
 ---
 ## Source Summary
 

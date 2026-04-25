@@ -1,7 +1,7 @@
 ---
 type: source
 title: "Red Card for cybercrime: INTERPOL and Kaspersky crack down on African scammers"
-raw_path: ""
+raw_path: raw/news/2025-03-24_techafricanews-com_red-card-for-cybercrime-interpol-and-kaspersky-crack-down-on-african-scammers.md
 source_type: news
 publisher: "TechAfrica News"
 author: ""
@@ -18,6 +18,13 @@ key_findings:
   - "The report emphasized Kaspersky's support role and the operation's focus on mobile-banking, investment, and messaging-app scams."
 collection_url: https://techafricanews.com/2025/03/24/red-card-for-cybercrime-interpol-and-kaspersky-crack-down-on-african-scammers/
 created: 2026-04-23
+text_status: summarized
+content_hash: sha256:02a7e40aac4c1e0d04fbfd5c6188825d9fb9420bb6d9474db532db86ca2cfcd5
+word_count: 1005
+stored_word_count: 80
+extraction_date: 2026-04-25
+last_fetcher: urllib
+copyright_policy: summary-only
 ---
 ## Source Summary
 

@@ -17,6 +17,14 @@ key_findings:
   - "The article added local detail on the $800,000 proceeds, forfeiture, and related sentencing outcomes for family members."
 collection_url: https://www.rentonreporter.com/2025/01/22/renton-man-sentenced-to-five-years-for-drug-dealing/
 created: 2026-04-25
+raw_path: raw/news/2025-01-22_rentonreporter_renton-man-sentenced-to-five-years-for-drug-dealing.md
+text_status: summarized
+content_hash: sha256:7069baaba42c246f6a1d626d418608d9a02bfb7030d65470af7e7a7b077f0007
+word_count: 714
+stored_word_count: 80
+extraction_date: 2026-04-25
+last_fetcher: urllib
+copyright_policy: summary-only
 ---
 ## Source Summary
 

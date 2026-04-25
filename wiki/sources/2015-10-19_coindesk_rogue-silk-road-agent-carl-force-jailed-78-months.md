@@ -2,7 +2,7 @@
 type: source
 title: "Rogue Silk Road Agent Carl Force Jailed for 78 Months"
 source_type: news
-publisher: "CoinDesk"
+publisher: CoinDesk
 author: "Stan Higgins"
 publish_date: 2015-10-19
 ingest_date: 2026-04-25
@@ -17,6 +17,14 @@ key_findings:
   - "Confirms guilty plea in July 2015 for extortion, money laundering, and obstruction"
 collection_url: https://www.coindesk.com/markets/2015/10/19/rogue-silk-road-agent-carl-force-jailed-for-78-months/
 created: 2026-04-25
+raw_path: raw/news/2015-10-19_coindesk_rogue-silk-road-agent-carl-force-jailed-78-months.md
+text_status: summarized
+content_hash: sha256:a8d30dee3b842e506920b7b846f40fb5aeacf1e0c103d77e9ed8c973093c1803
+word_count: 734
+stored_word_count: 80
+extraction_date: 2026-04-25
+last_fetcher: urllib
+copyright_policy: summary-only
 ---
 ## Source Summary
 

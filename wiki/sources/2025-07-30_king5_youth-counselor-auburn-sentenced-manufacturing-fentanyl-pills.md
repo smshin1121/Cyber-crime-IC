@@ -17,6 +17,14 @@ key_findings:
   - "Reports Judge Robart sentencing remarks"
 collection_url: https://www.king5.com/article/news/local/youth-counselor-auburn-sentenced-manufacturing-fentanyl-pills/281-c99a04b8-5a8c-4c79-ba22-ade55a148464
 created: 2026-04-25
+raw_path: raw/news/2025-07-30_king5_youth-counselor-auburn-sentenced-manufacturing-fentanyl-pills.md
+text_status: summarized
+content_hash: sha256:8e022663440d0a256e276e48a44f658c92c7d292d2b31a0fbcdb1cf5348a4357
+word_count: 543
+stored_word_count: 80
+extraction_date: 2026-04-25
+last_fetcher: urllib
+copyright_policy: summary-only
 ---
 ## Source Summary
 

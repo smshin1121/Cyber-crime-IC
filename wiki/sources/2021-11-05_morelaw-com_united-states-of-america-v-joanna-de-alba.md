@@ -17,6 +17,13 @@ key_findings:
   - "This page captures the defendant-specific enforcement sequence against Joanna De Alba, also known as `RaptureReloaded`, for selling narcotics over the Wall Street Market dark-web marketplace in exchange for cryptocurrency. The public record shows a progression from indictment in January 2020 to guilty plea in April 2021 and sentencing in November 2021."
 collection_url: "https://www.morelaw.com/verdicts/case.asp?d=158038&n=1%3A19-cr-00563-DLI&s=NY"
 created: 2026-04-17
+text_status: summarized
+content_hash: sha256:32d64aaa9e68bf17476c3e2be6a2855ed726fc8f9e27092fa672ba6f66b3d2ff
+word_count: 958
+stored_word_count: 80
+extraction_date: 2026-04-25
+last_fetcher: urllib
+copyright_policy: summary-only
 ---
 ## Source Summary
 

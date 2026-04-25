@@ -2,7 +2,7 @@
 type: source
 title: "Canadian Yahoo hacker gets a five-year prison sentence"
 source_type: news
-publisher: "TechCrunch"
+publisher: TechCrunch
 author: "Taylor Hatmaker"
 publish_date: 2018-05-29
 ingest_date: 2026-04-25
@@ -17,6 +17,14 @@ key_findings:
   - "Tech-press coverage of FSB-directed Yahoo intrusion"
 collection_url: https://techcrunch.com/2018/05/29/yahoo-hacker-sentenced-karim-baratov-fsb/
 created: 2026-04-25
+raw_path: raw/news/2018-05-29_techcrunch_canadian-yahoo-hacker-gets-a-five-year-prison-sentence.md
+text_status: summarized
+content_hash: sha256:de607366d86c772832de7acd96fe05db03d8f6071ac677046dd2abcd6018db3e
+word_count: 705
+stored_word_count: 80
+extraction_date: 2026-04-25
+last_fetcher: urllib
+copyright_policy: summary-only
 ---
 ## Source Summary
 

@@ -17,6 +17,14 @@ key_findings:
   - "Gholinejad faces 30-year statutory maximum after EDNC guilty plea."
 collection_url: https://therecord.media/iranian-years-decades-guilty-ransomware
 created: 2026-04-25
+raw_path: raw/news/2025-05-27_therecord_iranian-pleads-guilty-baltimore-ransomware-attack.md
+text_status: summarized
+content_hash: sha256:17ccfae67421f77f1499cf75c041411f2567e48b9a820f86a9c794bf1dd6cafa
+word_count: 667
+stored_word_count: 80
+extraction_date: 2026-04-25
+last_fetcher: urllib
+copyright_policy: summary-only
 ---
 ## Source Summary
 

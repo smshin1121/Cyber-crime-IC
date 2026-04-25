@@ -17,6 +17,14 @@ key_findings:
   - "Confirms 500+ million accounts compromised"
 collection_url: https://www.helpnetsecurity.com/2017/03/15/russian-hacking-yahoo/
 created: 2026-04-25
+raw_path: raw/news/2017-03-15_helpnetsecurity_us-charges-russian-fsb-officers-for-hacking-yahoo.md
+text_status: summarized
+content_hash: sha256:02906c17caca234750c120c7e5dbbdaff2844c438ff71c2c8b2e5c615076357c
+word_count: 1300
+stored_word_count: 80
+extraction_date: 2026-04-25
+last_fetcher: urllib
+copyright_policy: summary-only
 ---
 ## Source Summary
 

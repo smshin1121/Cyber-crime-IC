@@ -16,8 +16,16 @@ pages_updated:
 key_findings:
   - "Authoritative federal court filing — the FBI affiant's first-person account of evidence."
   - "GWU Program on Extremism mirrors the public PACER document."
-collection_url: https://extremism.gwu.edu/sites/g/files/zaxdzs5746/files/Khaled%20Miah%20Affidavit%20in%20Support%20of%20Criminal%20Complaint.pdf
+collection_url: "https://extremism.gwu.edu/sites/g/files/zaxdzs5746/files/Khaled%20Miah%20Affidavit%20in%20Support%20of%20Criminal%20Complaint.pdf"
 created: 2026-04-25
+raw_path: raw/case-documents/2021-01-07_gwu-extremism_khaled-miah-affidavit-criminal-complaint.md
+text_status: summarized
+content_hash: sha256:0a7a715279433c2192e9e16164524af506613da175617ae9b6b25c3778f2c9e9
+word_count: 7816
+stored_word_count: 80
+extraction_date: 2026-04-25
+last_fetcher: jina
+copyright_policy: summary-only
 ---
 ## Source Summary
 

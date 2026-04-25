@@ -18,6 +18,14 @@ key_findings:
   - "Confirms HSI dark web investigation pathway"
 collection_url: https://highlandcountypress.com/news/former-ohio-emergency-physician-pleads-guilty-possessing-child-pornography
 created: 2026-04-25
+raw_path: raw/news/2024-09-24_highlandcountypress_former-ohio-emergency-physician-pleads-guilty-possessing-child-pornography.md
+text_status: summarized
+content_hash: sha256:b37ef52b71229e6385f663c63da95872e23ef949bb674e83a4e86feb852227fe
+word_count: 734
+stored_word_count: 80
+extraction_date: 2026-04-25
+last_fetcher: urllib
+copyright_policy: summary-only
 ---
 ## Source Summary
 

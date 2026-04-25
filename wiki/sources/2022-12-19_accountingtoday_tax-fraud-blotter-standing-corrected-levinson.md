@@ -17,6 +17,14 @@ key_findings:
   - "Notes the $63M attempted fraud, $5.5M actual loss to IRS."
 collection_url: https://www.accountingtoday.com/news/tax-fraud-blotter-standing-corrected
 created: 2026-04-25
+raw_path: raw/news/2022-12-19_accountingtoday_tax-fraud-blotter-standing-corrected-levinson.md
+text_status: summarized
+content_hash: sha256:7cad8f15bb6df0c8096a56a8008c731ab01e2e4a68f0987f2f9f4704e51b052b
+word_count: 1744
+stored_word_count: 80
+extraction_date: 2026-04-25
+last_fetcher: urllib
+copyright_policy: summary-only
 ---
 ## Source Summary
 

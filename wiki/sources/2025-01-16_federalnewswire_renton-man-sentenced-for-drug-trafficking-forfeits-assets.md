@@ -17,6 +17,14 @@ key_findings:
   - "The report also reiterated the multi-agency FBI, Seattle Police, and IRS-CI investigation and OCDETF framing."
 collection_url: https://thefederalnewswire.com/stories/668105809-renton-man-sentenced-for-drug-trafficking-forfeits-assets
 created: 2026-04-25
+raw_path: raw/news/2025-01-16_federalnewswire_renton-man-sentenced-for-drug-trafficking-forfeits-assets.md
+text_status: summarized
+content_hash: sha256:9ec5dc73a4f3eacfa81199db50e93347c1ba2430ba796437e3265c9819f9ca28
+word_count: 564
+stored_word_count: 80
+extraction_date: 2026-04-25
+last_fetcher: urllib
+copyright_policy: summary-only
 ---
 ## Source Summary
 

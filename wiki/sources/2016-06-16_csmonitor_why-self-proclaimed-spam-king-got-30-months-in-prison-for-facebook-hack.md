@@ -16,6 +16,14 @@ key_findings:
   - "National press coverage; methodology detail across 3 sessions / 4 days"
 collection_url: https://www.csmonitor.com/Technology/2016/0616/Why-self-proclaimed-Spam-King-got-30-months-in-prison-for-Facebook-hack
 created: 2026-04-25
+raw_path: raw/news/2016-06-16_csmonitor_why-self-proclaimed-spam-king-got-30-months-in-prison-for-facebook-hack.md
+text_status: summarized
+content_hash: sha256:ebbafbe5f715f22c57b33282371f47653eb877cb65059a7e7b5d9022cef31c5b
+word_count: 1265
+stored_word_count: 80
+extraction_date: 2026-04-25
+last_fetcher: urllib
+copyright_policy: summary-only
 ---
 ## Source Summary
 

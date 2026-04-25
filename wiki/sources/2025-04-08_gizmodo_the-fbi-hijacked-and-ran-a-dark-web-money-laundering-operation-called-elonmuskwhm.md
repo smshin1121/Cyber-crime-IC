@@ -2,7 +2,7 @@
 type: source
 title: "The FBI Hijacked and Ran a Dark Web Money Laundering Operation Called 'ElonmuskWHM'"
 source_type: news
-publisher: "Gizmodo"
+publisher: Gizmodo
 author: "Lucas Ropek"
 publish_date: 2025-04-08
 ingest_date: 2026-04-25
@@ -17,6 +17,14 @@ key_findings:
   - "The article emphasized the dark web cash-out model that converted cryptocurrency into mailed cash through a U.S.-based network."
 collection_url: https://gizmodo.com/the-fbi-hijacked-and-ran-a-dark-web-money-laundering-operation-called-elonmuskwhm-2000586515
 created: 2026-04-25
+raw_path: raw/news/2025-04-08_gizmodo_the-fbi-hijacked-and-ran-a-dark-web-money-laundering-operation-called-elonmuskwhm.md
+text_status: summarized
+content_hash: sha256:614f2dc18f39e0ba04ef61aad0119900df9b0461a1046419c683b16926de6ab1
+word_count: 1266
+stored_word_count: 80
+extraction_date: 2026-04-25
+last_fetcher: urllib
+copyright_policy: summary-only
 ---
 ## Source Summary
 

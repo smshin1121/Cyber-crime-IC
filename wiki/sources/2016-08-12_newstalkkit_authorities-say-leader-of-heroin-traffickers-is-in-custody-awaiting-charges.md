@@ -17,6 +17,14 @@ key_findings:
   - "The article listed the charged co-defendants and confirmed the federal conspiracy charge tied to Seattle-area heroin distribution."
 collection_url: https://newstalkkit.com/authorities-say-leader-of-heroin-traffickers-is-in-custody-awaiting-charges/
 created: 2026-04-25
+raw_path: raw/news/2016-08-12_newstalkkit_authorities-say-leader-of-heroin-traffickers-is-in-custody-awaiting-charges.md
+text_status: summarized
+content_hash: sha256:334197f68e963c9e4f4dba0b353100242a0f450e3f51ca83dc63b0c71181ba5e
+word_count: 504
+stored_word_count: 80
+extraction_date: 2026-04-25
+last_fetcher: urllib
+copyright_policy: summary-only
 ---
 ## Source Summary
 

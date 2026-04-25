@@ -17,6 +17,14 @@ key_findings:
   - "The report highlighted the aliases, dark net advertising, and hawala-based international transfer mechanism described by U.S. prosecutors."
 collection_url: https://www.cryptotimes.io/2025/01/21/indian-crypto-vendor-sentenced-in-prison-for-money-laundering/
 created: 2026-04-25
+raw_path: raw/news/2025-01-21_cryptotimes-io_indian-crypto-vendor-sentenced-in-prison-for-money-laundering.md
+text_status: summarized
+content_hash: sha256:6ea435c70b75754a8d667272449a716715fac717db0d288dca9418534c591358
+word_count: 819
+stored_word_count: 80
+extraction_date: 2026-04-25
+last_fetcher: urllib
+copyright_policy: summary-only
 ---
 ## Source Summary
 

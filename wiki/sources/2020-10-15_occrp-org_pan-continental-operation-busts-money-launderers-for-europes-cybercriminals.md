@@ -1,9 +1,9 @@
 ---
 type: source
 title: "Pan-Continental Operation Busts Money Launderers for Europe's Cybercriminals"
-raw_path: ""
+raw_path: raw/press-releases/2020-10-16_occrp_pan-continental-operation-busts-money-launderers-for-europes-cybercriminals.md
 source_type: news
-publisher: "OCCRP"
+publisher: OCCRP
 author: ""
 publish_date: 2020-10-15
 ingest_date: 2026-04-23
@@ -18,6 +18,13 @@ key_findings:
   - "OCCRP described the cross-border arrests and searches against the QQAAZZ money-laundering ring."
   - "The report framed QQAAZZ as a service network laundering proceeds for major cybercriminal actors."
 created: 2026-04-23
+text_status: summarized
+content_hash: sha256:30f50bcb171c7942d55415eae00772e1bfcb50f278224e90e2f5a904447a9f88
+word_count: 783
+stored_word_count: 80
+extraction_date: 2026-04-25
+last_fetcher: urllib
+copyright_policy: summary-only
 ---
 ## Source Summary
 

@@ -3,7 +3,7 @@ type: source
 title: "Jackson A. Cosko, Democratic operative, charged with 'doxxing' senators"
 source_type: news
 publisher: "Washington Times"
-author: "Staff"
+author: Staff
 publish_date: 2018-10-03
 ingest_date: 2026-04-25
 language: en
@@ -18,6 +18,14 @@ key_findings:
   - "Burglarized Sen. Maggie Hassan's office to obtain victim Senators' personal data"
 collection_url: https://www.washingtontimes.com/news/2018/oct/3/jackson-cosko-democratic-operative-charged-doxxing/
 created: 2026-04-25
+raw_path: raw/news/2018-10-03_washingtontimes_jackson-cosko-democratic-operative-charged-doxxing-senators.md
+text_status: summarized
+content_hash: sha256:a5808633e6b3a4a1af87a78636220d74866a645c42f8aac0d23a51ed3262f905
+word_count: 953
+stored_word_count: 80
+extraction_date: 2026-04-25
+last_fetcher: urllib
+copyright_policy: summary-only
 ---
 ## Source Summary
 

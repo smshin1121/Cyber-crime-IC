@@ -12,11 +12,18 @@ reliability: medium
 credibility: confirmed
 sensitivity: public
 pages_updated:
-  []
+
 key_findings:
   - "The **Zentralstelle zur Bekämpfung der Internetkriminalität (ZIT)** is a specialized central office of the **Generalstaatsanwaltschaft Frankfurt am Main** (General Public Prosecutor's Office Frankfurt, Hessen state), established on **1 January 2010** [1]. Originally headquartered in Gießen, ZIT relocated to Frankfurt am Main in July 2019 [1]."
 collection_url: https://justizministerium.hessen.de/presse/justizministerinnen-besuchen-zentralstelle-zur-bekaempfung-der-internetkriminalitaet-in-frankfurt
 created: 2026-04-17
+text_status: summarized
+content_hash: sha256:f91733c902ed5ca953c008ddbf52656f57589be2e37398162a5837774c41d0b7
+word_count: 2147
+stored_word_count: 80
+extraction_date: 2026-04-25
+last_fetcher: jina
+copyright_policy: summary-only
 ---
 ## Source Summary
 

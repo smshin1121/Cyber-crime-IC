@@ -17,6 +17,14 @@ key_findings:
   - "Co-defendant Dorene Browne-Louis pled guilty to one federal cyber charge and one D.C. obstruction offense"
 collection_url: https://www.washingtonpost.com/local/public-safety/us-house-member-still-feels-exposed-stripped-by-ex-aides-cyberstalking-crimes/2018/03/08/c2b981c6-22e8-11e8-86f6-54bfff693d2b_story.html
 created: 2026-04-25
+raw_path: raw/news/2018-03-08_washingtonpost_us-house-member-still-feels-exposed-stripped-by-ex-aides-cyberstalking-crimes.md
+text_status: summarized
+content_hash: sha256:b343f5a928afa2718b6769e1b4e3dcd89b67c414cf4d822b40350005a63e1264
+word_count: 2075
+stored_word_count: 80
+extraction_date: 2026-04-25
+last_fetcher: jina
+copyright_policy: summary-only
 ---
 ## Source Summary
 

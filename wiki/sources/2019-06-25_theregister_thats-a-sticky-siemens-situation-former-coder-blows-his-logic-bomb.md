@@ -16,6 +16,14 @@ key_findings:
   - "UK trade-press confirms initial-plea conditional/Excel defense and judge's rejection."
 collection_url: https://www.theregister.com/2019/06/25/siemens_logic_bomb/
 created: 2026-04-25
+raw_path: raw/news/2019-06-25_theregister_thats-a-sticky-siemens-situation-former-coder-blows-his-logic-bomb.md
+text_status: summarized
+content_hash: sha256:4ca2eb1c8e0afaf112a2afcfffce4aacae23c81d6d4dbbc3cad03e53aa5031f0
+word_count: 1397
+stored_word_count: 80
+extraction_date: 2026-04-25
+last_fetcher: urllib
+copyright_policy: summary-only
 ---
 ## Source Summary
 

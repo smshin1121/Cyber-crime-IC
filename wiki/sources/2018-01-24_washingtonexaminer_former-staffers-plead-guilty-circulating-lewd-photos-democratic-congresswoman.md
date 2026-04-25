@@ -17,6 +17,14 @@ key_findings:
   - "iPhone repair pretext details."
 collection_url: https://www.washingtonexaminer.com/news/2242823/former-staffers-plead-guilty-for-circulating-lewd-photos-of-democratic-congresswoman-and-husband/
 created: 2026-04-25
+raw_path: raw/news/2018-01-24_washingtonexaminer_former-staffers-plead-guilty-circulating-lewd-photos-democratic-congresswoman.md
+text_status: summarized
+content_hash: sha256:020162e970ad42640abfda19d43d2cfd66d52f60c08690b26691e374cfb9b660
+word_count: 688
+stored_word_count: 80
+extraction_date: 2026-04-25
+last_fetcher: urllib
+copyright_policy: summary-only
 ---
 ## Source Summary
 

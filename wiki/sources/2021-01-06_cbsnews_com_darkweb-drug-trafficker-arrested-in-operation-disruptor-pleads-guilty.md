@@ -18,6 +18,14 @@ key_findings:
   - "The article highlighted cryptocurrency payments, shipping aliases, and the coordinated international nature of Operation DisrupTor."
 collection_url: https://www.cbsnews.com/texas/news/darkweb-drug-trafficker-arrested-in-operation-disruptor-pleads-guilty/
 created: 2026-04-25
+raw_path: raw/news/2021-01-06_cbsnews_com_darkweb-drug-trafficker-arrested-in-operation-disruptor-pleads-guilty.md
+text_status: summarized
+content_hash: sha256:6a7e27ce9e58f43ae6166f53b9ee61f9a914f4c86b38c96503e3c9515fc7a6df
+word_count: 777
+stored_word_count: 80
+extraction_date: 2026-04-25
+last_fetcher: urllib
+copyright_policy: summary-only
 ---
 ## Source Summary
 

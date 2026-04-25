@@ -17,6 +17,14 @@ key_findings:
   - "Detail on forged documents (fake DL, Navy letters) used in second-account attempt."
 collection_url: https://www.theregister.com/2023/10/19/navy_it_manager_prison/
 created: 2026-04-25
+raw_path: raw/news/2023-10-19_theregister_navy-it-manager-prison.md
+text_status: summarized
+content_hash: sha256:620a593c54495c3823d3909494f92a2ea5e86f0c65ddc2f96245da33e416ff69
+word_count: 1111
+stored_word_count: 80
+extraction_date: 2026-04-25
+last_fetcher: urllib
+copyright_policy: summary-only
 ---
 ## Source Summary
 

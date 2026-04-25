@@ -2,7 +2,7 @@
 type: source
 title: "Darknet Market Search Engine Operator Gets 8-Year Sentence"
 source_type: news
-publisher: "BankInfoSecurity"
+publisher: BankInfoSecurity
 author: "Mathew J. Schwartz"
 publish_date: 2022-01-28
 ingest_date: 2026-04-25
@@ -17,6 +17,14 @@ key_findings:
   - "Frames DeepDotWeb takedown alongside Hansa/AlphaBay/Wall Street Market darknet enforcement chain."
 collection_url: https://www.bankinfosecurity.com/darknet-market-search-engine-operator-gets-8-year-sentence-a-18401
 created: 2026-04-25
+raw_path: raw/news/2022-01-28_bankinfosecurity_darknet-market-search-engine-operator-gets-8-year-sentence.md
+text_status: summarized
+content_hash: sha256:09b0c678fe029ab7daee1e88466ca79fa7c37aed42f2395a1093cfd3f9da398b
+word_count: 3014
+stored_word_count: 80
+extraction_date: 2026-04-25
+last_fetcher: urllib
+copyright_policy: summary-only
 ---
 ## Source Summary
 

@@ -17,6 +17,14 @@ key_findings:
   - "Plea-day national press."
 collection_url: https://www.washingtontimes.com/news/2019/apr/5/ex-democratic-staffer-guilty-doxing-gop-senators/
 created: 2026-04-25
+raw_path: raw/news/2019-04-05_washingtontimes_ex-democratic-staffer-guilty-doxing-gop-senators.md
+text_status: summarized
+content_hash: sha256:e39e4942ba4627f7424925e9ce1828efeacc4c02663bd2a6cf18e2ae74025b6a
+word_count: 881
+stored_word_count: 80
+extraction_date: 2026-04-25
+last_fetcher: urllib
+copyright_policy: summary-only
 ---
 ## Source Summary
 

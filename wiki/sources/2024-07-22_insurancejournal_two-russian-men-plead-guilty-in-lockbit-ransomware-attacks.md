@@ -17,6 +17,14 @@ key_findings:
   - "Confirms Newark federal court venue and January 8, 2025 sentencing date"
 collection_url: https://www.insurancejournal.com/news/national/2024/07/22/784819.htm
 created: 2026-04-25
+raw_path: raw/news/2024-07-22_insurancejournal_two-russian-men-plead-guilty-in-lockbit-ransomware-attacks.md
+text_status: summarized
+content_hash: sha256:a43070511dc1c888ea78f7f6e330e9cfa74af780cc844d9955e2d296c20cc900
+word_count: 1108
+stored_word_count: 80
+extraction_date: 2026-04-25
+last_fetcher: urllib
+copyright_policy: summary-only
 ---
 ## Source Summary
 

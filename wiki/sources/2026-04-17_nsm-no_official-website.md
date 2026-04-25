@@ -12,11 +12,18 @@ reliability: medium
 credibility: confirmed
 sensitivity: public
 pages_updated:
-  []
+
 key_findings:
   - "Norway's national security authority for preventive security and cybersecurity; operates NorCERT. For detailed facts, see the official source [1]."
 collection_url: https://nsm.no/
 created: 2026-04-17
+text_status: summarized
+content_hash: sha256:a19aa4be7fc14a584bda3dbbd59705f2a2c615669995dc15b3139759a1231dd1
+word_count: 418
+stored_word_count: 80
+extraction_date: 2026-04-25
+last_fetcher: urllib
+copyright_policy: summary-only
 ---
 ## Source Summary
 

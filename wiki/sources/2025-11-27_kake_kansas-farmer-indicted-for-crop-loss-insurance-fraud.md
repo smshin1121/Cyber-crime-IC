@@ -2,8 +2,8 @@
 type: source
 title: "Kansas farmer indicted for crop loss insurance fraud"
 source_type: news
-publisher: "KAKE"
-author: "Staff"
+publisher: KAKE
+author: Staff
 publish_date: 2025-11-27
 ingest_date: 2026-04-25
 language: en
@@ -17,6 +17,14 @@ key_findings:
   - "Confirms 2 counts false statements + 17 counts bank fraud/attempted bank fraud"
 collection_url: https://www.kake.com/home/kansas-farmer-indicted-for-crop-loss-insurance-fraud/article_deed9a24-6aa2-4759-bf6d-ee28994d32ca.html
 created: 2026-04-25
+raw_path: raw/news/2025-11-27_kake_kansas-farmer-indicted-for-crop-loss-insurance-fraud.md
+text_status: summarized
+content_hash: sha256:cb0377c1fc4c81bc39900d9d15e3c8a6c372a700c0b53d567c7477b63616e6c7
+word_count: 155
+stored_word_count: 80
+extraction_date: 2026-04-25
+last_fetcher: urllib
+copyright_policy: summary-only
 ---
 ## Source Summary
 

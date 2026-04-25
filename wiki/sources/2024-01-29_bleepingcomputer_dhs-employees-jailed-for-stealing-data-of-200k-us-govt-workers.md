@@ -2,7 +2,7 @@
 type: source
 title: "DHS employees jailed for stealing data of 200K U.S. govt workers"
 source_type: news
-publisher: "BleepingComputer"
+publisher: BleepingComputer
 author: "Bill Toulas"
 publish_date: 2024-01-29
 ingest_date: 2026-04-25
@@ -17,6 +17,14 @@ key_findings:
   - "Stolen materials shared with India-based developers to build commercial product."
 collection_url: https://www.bleepingcomputer.com/news/security/dhs-employees-jailed-for-stealing-data-of-200k-us-govt-workers/
 created: 2026-04-25
+raw_path: raw/news/2024-01-29_bleepingcomputer_dhs-employees-jailed-for-stealing-data-of-200k-us-govt-workers.md
+text_status: summarized
+content_hash: sha256:aab3058d1b5e31f1f4bc05b695124c0c7e75210e6738a533223ef0d31d2d365c
+word_count: 873
+stored_word_count: 80
+extraction_date: 2026-04-25
+last_fetcher: urllib
+copyright_policy: summary-only
 ---
 ## Source Summary
 

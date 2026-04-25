@@ -17,6 +17,14 @@ key_findings:
   - "Confirms 90-month sentence and Bryson Gill cell leadership"
 collection_url: https://cbsaustin.com/news/nation-world/washington-man-sentenced-for-supplying-fentanyl-to-aryan-gangs-in-prison-fentanyl-powder-illegal-possession-drugs-raid-inmates-drug-danger-trafficking-organizations-bryson-gill-money-laundering-conspiracy
 created: 2026-04-25
+raw_path: raw/news/2024-08-30_cbsaustin_washington-man-sentenced-supplying-fentanyl-aryan-gangs-prison.md
+text_status: summarized
+content_hash: sha256:11a2f35067795fa9469366bac238d03751396586c5d8072e5df68cf26b902ea0
+word_count: 717
+stored_word_count: 80
+extraction_date: 2026-04-25
+last_fetcher: urllib
+copyright_policy: summary-only
 ---
 ## Source Summary
 

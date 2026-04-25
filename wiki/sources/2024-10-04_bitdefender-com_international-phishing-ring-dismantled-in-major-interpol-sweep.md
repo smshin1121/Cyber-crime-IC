@@ -2,7 +2,7 @@
 type: source
 title: "International Phishing Ring Dismantled in Major Interpol Sweep"
 source_type: news
-publisher: "Bitdefender"
+publisher: Bitdefender
 author: "Vlad Constantinescu"
 publish_date: 2024-10-04
 ingest_date: 2026-04-23
@@ -17,6 +17,14 @@ created: 2026-04-23
 key_findings:
   - "Bitdefender summarized Operation Contender 2.0 and the arrests tied to phishing and romance fraud."
   - "The report highlighted QR-code phishing, Swiss victims, and West African enforcement."
+raw_path: raw/news/2024-10-04_bitdefender-com_international-phishing-ring-dismantled-in-major-interpol-sweep.md
+text_status: summarized
+content_hash: sha256:127a88c2c49267a5bd283e6574654bec04b3589d6dc644511a986dffbe4f6167
+word_count: 527
+stored_word_count: 80
+extraction_date: 2026-04-25
+last_fetcher: urllib
+copyright_policy: summary-only
 ---
 ## Source Summary
 

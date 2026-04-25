@@ -24,4 +24,12 @@ word_count: 987
 stored_word_count: 80
 extraction_date: 2026-04-25
 last_fetcher: urllib
-copyright_policy: s
+copyright_policy: summary-only
+---
+## Source Summary
+
+PhillyVoice coverage of Myron Rodos's federal sentencing for opioid pill-mill operation.
+
+## Relevance to IC
+
+Independent local press coverage for [[operation-us-v-myron-rodos]] and parent [[operation-north-philadelphia-pill-mill-doctor-sentenced-to-five-years-in-prison-for-illegal-opioid-distribution]].

@@ -17,6 +17,14 @@ key_findings:
   - "Indictment originally filed December 4, 2018; unsealed June 2019"
 collection_url: https://krebsonsecurity.com/wp-content/uploads/2019/10/newdarkodecharges.pdf
 created: 2026-04-25
+raw_path: raw/case-documents/2019-06-06_krebsonsecurity_darkode-racketeering-indictment-pdf.md
+text_status: summarized
+content_hash: sha256:b9162fcbcdc603568e3a5799a3685ab4b94f527daa82cdf7d5a6e8e850798673
+word_count: 9408
+stored_word_count: 80
+extraction_date: 2026-04-25
+last_fetcher: jina
+copyright_policy: summary-only
 ---
 ## Source Summary
 

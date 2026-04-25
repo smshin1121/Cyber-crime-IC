@@ -2,7 +2,7 @@
 type: source
 title: "Kentucky man gets 81 months in prison for cyber fraud to fake his own death"
 source_type: news
-publisher: "CyberScoop"
+publisher: CyberScoop
 author: "Tim Starks / AJ Vicens"
 publish_date: 2024-08-21
 ingest_date: 2026-04-25
@@ -16,10 +16,18 @@ pages_updated:
   - operation-pulaski-county-man-sentenced-for-cyber-intrusion-and-aggravated-identity-theft
   - operation-us-v-jesse-kipf
 key_findings:
-  - "International element: Kipf sold dark web access to buyers in Algeria, Russia, Ukraine"
+  - "International element: "Kipf sold dark web access to buyers in Algeria, Russia, Ukraine\""
   - "Sentenced 81 months EDKY; hacked Hawaii Death Registry"
 collection_url: https://cyberscoop.com/kentucky-man-cyber-fraud-doj-sentenced/
 created: 2026-04-25
+raw_path: raw/news/2024-08-21_cyberscoop_kentucky-man-cyber-fraud-doj-sentenced.md
+text_status: summarized
+content_hash: sha256:852fb807f45fabfcf45a5b3302d3a0b30727bb9a0f1a63ebb8079267c1227a67
+word_count: 1326
+stored_word_count: 80
+extraction_date: 2026-04-25
+last_fetcher: urllib
+copyright_policy: summary-only
 ---
 ## Source Summary
 

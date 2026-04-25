@@ -17,6 +17,14 @@ key_findings:
   - "Google detected CSAM uploads September 5 prior year"
 collection_url: https://abc17news.com/news/crime/2025/04/30/columbia-sex-offender-faces-federal-child-porn-charge/
 created: 2026-04-25
+raw_path: raw/news/2025-04-30_abc17news_columbia-sex-offender-faces-federal-child-porn-charge.md
+text_status: summarized
+content_hash: sha256:f855d7eafa870b1b3e053673f0dcdade19c5dd2f46bcb063976aa11ce1719253
+word_count: 3699
+stored_word_count: 80
+extraction_date: 2026-04-25
+last_fetcher: urllib
+copyright_policy: summary-only
 ---
 ## Source Summary
 

@@ -3,7 +3,7 @@ type: source
 title: "St. Charles residents charged with illegally harboring people after ICE raid"
 source_type: news
 publisher: "STLPR (St. Louis Public Radio)"
-author: "Staff"
+author: Staff
 publish_date: 2025-09-04
 ingest_date: 2026-04-25
 language: en
@@ -17,6 +17,14 @@ key_findings:
   - "St. Louis Public Radio confirmation of indictment after ICE raid"
 collection_url: https://www.stlpr.org/law-order/2025-09-04/st-charles-residents-charged-illegally-harboring-people-ice-raid
 created: 2026-04-25
+raw_path: raw/news/2025-09-04_stlpr_st-charles-residents-charged-illegally-harboring-people-ice-raid.md
+text_status: summarized
+content_hash: sha256:c589250f608f8a407a3303717919aaa9b3d15f305406df06010a5c48c23cbce3
+word_count: 130
+stored_word_count: 80
+extraction_date: 2026-04-25
+last_fetcher: urllib
+copyright_policy: summary-only
 ---
 ## Source Summary
 

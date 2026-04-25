@@ -18,6 +18,14 @@ key_findings:
   - "She hosted Trickbot development malware on her personal site allawitte[.]nl."
 collection_url: https://techstartups.com/2021/06/16/meet-alla-max-witte-a-55-year-old-latvian-national-who-is-part-of-the-cybercrime-gang-responsible-for-infecting-millions-of-computers-around-the-world/
 created: 2026-04-25
+raw_path: raw/news/2021-06-16_techstartups_alla-max-witte-trickbot-cybercrime-gang.md
+text_status: summarized
+content_hash: sha256:d10ba817fc73894d028a898fc56428b6ff6041353edb92d133390cf9be4fd86f
+word_count: 1257
+stored_word_count: 80
+extraction_date: 2026-04-25
+last_fetcher: urllib
+copyright_policy: summary-only
 ---
 ## Source Summary
 

@@ -17,6 +17,14 @@ key_findings:
   - "Plea included conspiracy to commit wire fraud and aggravated identity theft."
 collection_url: https://lynnjournal.com/2022/01/27/man-pleads-guilty-to-role-in-nationwide-rideshare/
 created: 2026-04-25
+raw_path: raw/news/2022-01-27_lynnjournal_man-pleads-guilty-to-role-in-nationwide-rideshare.md
+text_status: summarized
+content_hash: sha256:33f315d4c8d2c3c834ae9cc16c1ef9f687bc92e4bcb1206bb650476c68c1569f
+word_count: 1339
+stored_word_count: 80
+extraction_date: 2026-04-25
+last_fetcher: urllib
+copyright_policy: summary-only
 ---
 ## Source Summary
 

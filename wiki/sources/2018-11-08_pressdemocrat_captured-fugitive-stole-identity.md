@@ -16,6 +16,14 @@ key_findings:
   - "Santa Rosa regional daily confirmation"
 collection_url: https://legacy.pressdemocrat.com/news/2216068-181/captured-fugitive-stole-identity-of
 created: 2026-04-25
+raw_path: raw/news/2018-11-08_pressdemocrat_captured-fugitive-stole-identity.md
+text_status: summarized
+content_hash: sha256:50da13399849ed0de96703cd0311efe83d5c1a40b018745f7dbc0f22c68d6443
+word_count: 1229
+stored_word_count: 80
+extraction_date: 2026-04-25
+last_fetcher: urllib
+copyright_policy: summary-only
 ---
 ## Source Summary
 

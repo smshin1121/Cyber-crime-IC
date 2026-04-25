@@ -2,7 +2,7 @@
 type: source
 title: "Kansas City woman pleads guilty to preparing, filing false income tax returns"
 source_type: news
-publisher: "KCTV5"
+publisher: KCTV5
 author: "KCTV5 Staff"
 publish_date: 2025-12-03
 ingest_date: 2026-04-25
@@ -18,6 +18,14 @@ key_findings:
   - "Up to three years sentence"
 collection_url: https://www.kctv5.com/2025/12/03/kansas-city-woman-pleads-guilty-preparing-filing-false-income-tax-returns/
 created: 2026-04-25
+raw_path: raw/news/2025-12-03_kctv5_kansas-city-woman-pleads-guilty-preparing-filing-false-income-tax-returns.md
+text_status: summarized
+content_hash: sha256:8e91d0006437e530d5da88b0cac28e7b86b65416868c73051f1d57060f966be8
+word_count: 170
+stored_word_count: 80
+extraction_date: 2026-04-25
+last_fetcher: urllib
+copyright_policy: summary-only
 ---
 ## Source Summary
 

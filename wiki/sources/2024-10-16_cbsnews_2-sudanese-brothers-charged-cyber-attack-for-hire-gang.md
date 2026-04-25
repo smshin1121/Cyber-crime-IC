@@ -17,6 +17,14 @@ key_findings:
   - "Mainstream national press confirmation by Homeland Security correspondent."
 collection_url: https://www.cbsnews.com/news/2-sudanese-nationals-charged-cyber-attack-for-hire-gang/
 created: 2026-04-25
+raw_path: raw/news/2024-10-16_cbsnews_2-sudanese-brothers-charged-cyber-attack-for-hire-gang.md
+text_status: summarized
+content_hash: sha256:6e3db794721844ad71d637bb83eab6fdba55e5735ff882729193db24808f208d
+word_count: 875
+stored_word_count: 80
+extraction_date: 2026-04-25
+last_fetcher: urllib
+copyright_policy: summary-only
 ---
 ## Source Summary
 

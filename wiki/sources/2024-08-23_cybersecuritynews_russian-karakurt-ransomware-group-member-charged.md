@@ -18,6 +18,14 @@ key_findings:
   - "Detention by Georgian law enforcement December 2023; first appearance in Cincinnati"
 collection_url: https://cybersecuritynews.com/russian-karakurt-ransomware-group-member-charged/
 created: 2026-04-25
+raw_path: raw/news/2024-08-23_cybersecuritynews_russian-karakurt-ransomware-group-member-charged.md
+text_status: summarized
+content_hash: sha256:4d16c72188da770b3e888adc1e22a71dd7a3e8fc29d9aa35decb43719485481d
+word_count: 581
+stored_word_count: 80
+extraction_date: 2026-04-25
+last_fetcher: urllib
+copyright_policy: summary-only
 ---
 ## Source Summary
 

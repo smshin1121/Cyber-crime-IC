@@ -17,6 +17,13 @@ key_findings:
   - "The September 2024 Cryptex and PM2BTC action combined U.S. sanctions, anti-money-laundering regulation, criminal charging, and Dutch infrastructure seizure. Together, the measures targeted a Russian virtual-currency laundering ecosystem that U.S. authorities linked to ransomware payments, darknet activity, and wider cybercrime finance."
 collection_url: https://www.chainalysis.com/blog/ofac-sanctions-russian-exchange-cryptex-uaps-fraud-shop-2024/
 created: 2026-04-17
+text_status: summarized
+content_hash: sha256:274be9e842f17f8c9474912f202f080577378c54052c6e9fabb82085f60ed595
+word_count: 336
+stored_word_count: 80
+extraction_date: 2026-04-25
+last_fetcher: urllib
+copyright_policy: summary-only
 ---
 ## Source Summary
 

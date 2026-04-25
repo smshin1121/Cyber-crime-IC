@@ -3,7 +3,7 @@ type: source
 title: "Maryland Man Charged with Cyberstalking and More"
 source_type: news
 publisher: "Bemorelegal Maryland Defense Lawyers"
-author: "Staff"
+author: Staff
 publish_date: 2020-02-14
 ingest_date: 2026-04-25
 language: en
@@ -17,6 +17,14 @@ key_findings:
   - "Maryland defense bar summary of charges and venue choice (D.D.C.)"
 collection_url: https://www.bemorelegal.com/blog/maryland-man-charged-with-cyberstalking-and-more
 created: 2026-04-25
+raw_path: raw/news/2020-02-14_bemorelegal_maryland-man-charged-with-cyberstalking-and-more.md
+text_status: summarized
+content_hash: sha256:a12896a38ff67ae5828294aa66134738fb7c9ddb19286b41e6def1acfc325885
+word_count: 1124
+stored_word_count: 80
+extraction_date: 2026-04-25
+last_fetcher: urllib
+copyright_policy: summary-only
 ---
 ## Source Summary
 

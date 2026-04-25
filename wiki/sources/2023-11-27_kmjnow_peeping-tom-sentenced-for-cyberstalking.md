@@ -3,7 +3,7 @@ type: source
 title: "Peeping Tom Sentenced for Cyberstalking"
 source_type: news
 publisher: "KMJ-AF1 News Talk 580/105.9"
-author: "Staff"
+author: Staff
 publish_date: 2023-11-27
 ingest_date: 2026-04-25
 language: en
@@ -17,6 +17,14 @@ key_findings:
   - "Documents Airbnb-guest shower recording and Facebook coercion campaign."
 collection_url: https://www.kmjnow.com/2023/11/27/peeping-tom-sentenced-for-cyberstalking/
 created: 2026-04-25
+raw_path: raw/news/2023-11-27_kmjnow_peeping-tom-sentenced-for-cyberstalking.md
+text_status: summarized
+content_hash: sha256:7ec1101689c5841c4e057d4a335cdf17fa1fc30b6d659401147f2c6d27596d8f
+word_count: 454
+stored_word_count: 80
+extraction_date: 2026-04-25
+last_fetcher: urllib
+copyright_policy: summary-only
 ---
 ## Source Summary
 

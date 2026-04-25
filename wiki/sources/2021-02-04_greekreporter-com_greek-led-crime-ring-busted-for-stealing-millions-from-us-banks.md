@@ -17,6 +17,13 @@ key_findings:
   - "This page captures the public enforcement results of **Operation Secreto**, a Europol-coordinated and U.S. Secret Service-supported action against a fraud and money laundering network that targeted U.S.-based banks through shell companies, payment-card abuse, and cross-border laundering channels."
 collection_url: https://greekreporter.com/2021/02/04/greek-led-crime-ring-busted-for-stealing-millions-from-us-banks/
 created: 2026-04-17
+text_status: summarized
+content_hash: sha256:0953632bf821d5bbbd72965e6d13c838c93607bebe2004fbda8e2a034769e701
+word_count: 669
+stored_word_count: 80
+extraction_date: 2026-04-25
+last_fetcher: urllib
+copyright_policy: summary-only
 ---
 ## Source Summary
 

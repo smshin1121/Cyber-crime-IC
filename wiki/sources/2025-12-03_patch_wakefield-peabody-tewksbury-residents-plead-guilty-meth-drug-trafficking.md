@@ -17,6 +17,14 @@ key_findings:
   - "Unknown Bikers MC affiliation confirmed."
 collection_url: https://patch.com/massachusetts/peabody/wakefield-peabody-tewksbury-residents-plead-guilty-meth-drug-trafficking
 created: 2026-04-25
+raw_path: raw/news/2025-12-03_patch_wakefield-peabody-tewksbury-residents-plead-guilty-meth-drug-trafficking.md
+text_status: summarized
+content_hash: sha256:6c2133e733dc3f4135491adff76f823de703fff3d1d5639fbf8fe3327c8de044
+word_count: 693
+stored_word_count: 80
+extraction_date: 2026-04-25
+last_fetcher: urllib
+copyright_policy: summary-only
 ---
 ## Source Summary
 

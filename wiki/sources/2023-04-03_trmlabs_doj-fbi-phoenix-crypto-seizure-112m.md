@@ -17,6 +17,14 @@ key_findings:
   - "Public-private blockchain tracing detail (TRM Forensics platform used to identify exchange cash-out points)."
 collection_url: https://www.trmlabs.com/resources/case-studies/doj-and-fbi-phoenix-crypto-seizure
 created: 2026-04-25
+raw_path: raw/news/2023-04-03_trmlabs_doj-fbi-phoenix-crypto-seizure-112m.md
+text_status: summarized
+content_hash: sha256:8f24069185bac03f675942c65aa818e8d0c905456804da229f48ed614c3c5442
+word_count: 277
+stored_word_count: 80
+extraction_date: 2026-04-25
+last_fetcher: urllib
+copyright_policy: summary-only
 ---
 ## Source Summary
 

@@ -3,7 +3,7 @@ type: source
 title: "Texas man gets 15 years for advertising child sexual abuse material on dark web"
 source_type: news
 publisher: "FOX 7 Austin"
-author: "Staff"
+author: Staff
 publish_date: 2023-11-06
 ingest_date: 2026-04-25
 language: en
@@ -18,6 +18,14 @@ key_findings:
   - "Confirms Sweden-origin investigation timeline starting May 2020."
 collection_url: https://www.fox7austin.com/news/bertram-texas-neal-grubert-sentence-advertising-child-sexual-abuse-material-dark-web
 created: 2026-04-25
+raw_path: raw/news/2023-11-06_fox7austin_bertram-texas-neal-grubert-sentence-advertising-child-sexual-abuse-material-dark-web.md
+text_status: summarized
+content_hash: sha256:596c343bf7a2ac147e3a07e7826aca55171f06f6ff86bc4f87ac47511eee9727
+word_count: 642
+stored_word_count: 80
+extraction_date: 2026-04-25
+last_fetcher: urllib
+copyright_policy: summary-only
 ---
 ## Source Summary
 

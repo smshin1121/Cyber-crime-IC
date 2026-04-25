@@ -17,6 +17,14 @@ key_findings:
   - "Total forfeitures exceed $400M."
 collection_url: https://therecord.media/ohio-man-helix-crypto-sentenced
 created: 2026-04-25
+raw_path: raw/news/2024-11-15_therecord_ohio-man-helix-crypto-sentenced.md
+text_status: summarized
+content_hash: sha256:2f5eb1a9375dfef375300a0e578131d0267f3210de6a940a457db8665009046e
+word_count: 718
+stored_word_count: 80
+extraction_date: 2026-04-25
+last_fetcher: urllib
+copyright_policy: summary-only
 ---
 ## Source Summary
 

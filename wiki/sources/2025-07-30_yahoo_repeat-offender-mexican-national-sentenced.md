@@ -16,6 +16,14 @@ key_findings:
   - "National syndication of Seattle local TV coverage"
 collection_url: https://www.yahoo.com/news/articles/repeat-offender-mexican-national-sentenced-122955894.html
 created: 2026-04-25
+raw_path: raw/news/2025-07-30_yahoo_repeat-offender-mexican-national-sentenced.md
+text_status: summarized
+content_hash: sha256:68b8af2765378141292c31bc406d00d45e5cb188c85a78cd4b2fab9c88a8b1a8
+word_count: 704
+stored_word_count: 80
+extraction_date: 2026-04-25
+last_fetcher: urllib
+copyright_policy: summary-only
 ---
 ## Source Summary
 

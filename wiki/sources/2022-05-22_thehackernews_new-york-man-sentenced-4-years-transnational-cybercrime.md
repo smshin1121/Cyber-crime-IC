@@ -17,6 +17,14 @@ key_findings:
   - "16-country joint operation arrested 13 members in February 2018."
 collection_url: https://thehackernews.com/2022/05/new-york-man-sentenced-to-4-years-in.html
 created: 2026-04-25
+raw_path: raw/news/2022-05-22_thehackernews_new-york-man-sentenced-4-years-transnational-cybercrime.md
+text_status: summarized
+content_hash: sha256:c411277193db91ae526ba76d5816056f6bdf7ef40e377b39b02e0f2abe3dcfff
+word_count: 893
+stored_word_count: 80
+extraction_date: 2026-04-25
+last_fetcher: urllib
+copyright_policy: summary-only
 ---
 ## Source Summary
 

@@ -12,11 +12,18 @@ reliability: medium
 credibility: confirmed
 sensitivity: public
 pages_updated:
-  []
+
 key_findings:
   - "The Royal Malaysia Police (Polis Diraja Malaysia, **PDRM**) handles cybercrime investigations primarily through its **Commercial Crime Investigation Department (CCID)**, which was formed on **1 December 2004** and is the leading department in commercial and cybercrime investigations. CCID investigates and prosecutes white collar criminals who commit fraud, criminal breach of trust, cybercrime, forgeries, and related offences."
 collection_url: https://sonnyzulhuda.com/2025/07/05/malaysias-cybercrime-law-reform-underway-notes-from-the-cydes-2025/
 created: 2026-04-17
+text_status: summarized
+content_hash: sha256:4eaeaaf6c085711b1e0d54114bdac96e13a349138e7fd19e3cc4f9057691f320
+word_count: 1352
+stored_word_count: 80
+extraction_date: 2026-04-25
+last_fetcher: urllib
+copyright_policy: summary-only
 ---
 ## Source Summary
 

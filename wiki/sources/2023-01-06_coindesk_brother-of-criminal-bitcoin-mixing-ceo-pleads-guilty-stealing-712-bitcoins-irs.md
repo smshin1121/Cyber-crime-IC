@@ -2,7 +2,7 @@
 type: source
 title: "Brother of Criminal Bitcoin Mixing CEO Pleads Guilty to Stealing 712 Bitcoins From IRS"
 source_type: news
-publisher: "CoinDesk"
+publisher: CoinDesk
 author: "Cheyenne Ligon"
 publish_date: 2023-01-06
 ingest_date: 2026-04-25
@@ -18,6 +18,14 @@ key_findings:
   - "Connection to Helix mixer (Larry Harmon) prosecution"
 collection_url: https://www.coindesk.com/policy/2023/01/06/brother-of-criminal-bitcoin-mixing-ceo-pleads-guilty-to-stealing-712-bitcoins-from-irs
 created: 2026-04-25
+raw_path: raw/news/2023-01-06_coindesk_brother-of-criminal-bitcoin-mixing-ceo-pleads-guilty-to-stealing-712-bitcoins-from-irs.md
+text_status: summarized
+content_hash: sha256:bfa4d8e3abd26662bfc6a5599180c377a62f5e31a3911b3cb3f41a667c871e4b
+word_count: 940
+stored_word_count: 80
+extraction_date: 2026-04-25
+last_fetcher: urllib
+copyright_policy: summary-only
 ---
 ## Source Summary
 

@@ -3,7 +3,7 @@ type: source
 title: "Two Estonian citizens arrested in a suspected USD 575 million cryptocurrency fraud"
 source_type: news
 publisher: "Estonian World"
-author: "Staff"
+author: Staff
 publish_date: 2022-11-21
 ingest_date: 2026-04-25
 language: en
@@ -17,6 +17,14 @@ key_findings:
   - "Local political/diplomatic context for high-profile crypto extradition"
 collection_url: https://estonianworld.com/security/two-estonian-citizens-arrested-in-a-suspected-usd575-million-cryptocurrency-fraud/
 created: 2026-04-25
+raw_path: raw/news/2022-11-21_estonianworld_two-estonian-citizens-arrested-suspected-usd-575-million-cryptocurrency-fraud.md
+text_status: summarized
+content_hash: sha256:8c889c8a11876e5aeee80204a2de03135eb48934392cda8763e98e70ecf4f481
+word_count: 967
+stored_word_count: 80
+extraction_date: 2026-04-25
+last_fetcher: urllib
+copyright_policy: summary-only
 ---
 ## Source Summary
 

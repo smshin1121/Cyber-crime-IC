@@ -2,7 +2,7 @@
 type: source
 title: "HSI Arizona Investigation Sends 3 Darknet Fentanyl Vendors to Prison for More Than 20 Years"
 source_type: news
-publisher: "HSToday"
+publisher: HSToday
 author: ""
 publish_date: 2023-07-19
 ingest_date: 2026-04-25
@@ -17,6 +17,14 @@ key_findings:
   - "The report highlighted HSI Arizona's role and summarized the defendants' use of multiple darknet vendor accounts."
 collection_url: https://www.hstoday.us/subject-matter-areas/customs-immigration/hsi-arizona-investigation-sends-3-darknet-fentanyl-vendors-to-prison-for-more-than-20-years/
 created: 2026-04-25
+raw_path: raw/news/2023-07-19_hstoday_us_hsi-arizona-investigation-sends-3-darknet-fentanyl-vendors-to-prison-for-more-than-20-years.md
+text_status: summarized
+content_hash: sha256:ada64d7b2cd02256c3fa03e941cfbe333b3a0063f378ef033bc7eede387e25a6
+word_count: 193
+stored_word_count: 80
+extraction_date: 2026-04-25
+last_fetcher: urllib
+copyright_policy: summary-only
 ---
 ## Source Summary
 

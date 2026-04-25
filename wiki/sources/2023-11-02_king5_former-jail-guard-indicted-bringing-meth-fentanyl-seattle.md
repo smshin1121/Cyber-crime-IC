@@ -16,6 +16,14 @@ key_findings:
   - "KING 5 NBC Seattle local TV confirmation of indictment"
 collection_url: https://www.king5.com/article/news/crime/former-jail-guard-indicted-bringing-meth-fentanyl-seattle/281-a8854e9c-d492-4dfd-8f34-f9a5ebb7dd32
 created: 2026-04-25
+raw_path: raw/news/2023-11-02_king5_former-jail-guard-indicted-bringing-meth-fentanyl-seattle.md
+text_status: summarized
+content_hash: sha256:993a66be369b043bd59fcbfda71080cb1a339b876886ed77576702cc1a45a9ac
+word_count: 729
+stored_word_count: 80
+extraction_date: 2026-04-25
+last_fetcher: urllib
+copyright_policy: summary-only
 ---
 ## Source Summary
 

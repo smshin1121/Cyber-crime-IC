@@ -17,6 +17,14 @@ key_findings:
   - "Helix darknet mixer (operated by Larry Harmon) laundered 350,000+ BTC (~$300M)."
 collection_url: https://smallbiztrends.com/2023/05/ohio-man-sentenced-for-stealing-bitcoins.html
 created: 2026-04-25
+raw_path: raw/news/2023-05-03_smallbiztrends_ohio-man-sentenced-cryptocurrency-theft-darknet-mixer.md
+text_status: summarized
+content_hash: sha256:5f7d2fb85e19f734af410dd8d2669eef507e69733e42227dc3630b41927332cd
+word_count: 653
+stored_word_count: 80
+extraction_date: 2026-04-25
+last_fetcher: urllib
+copyright_policy: summary-only
 ---
 ## Source Summary
 

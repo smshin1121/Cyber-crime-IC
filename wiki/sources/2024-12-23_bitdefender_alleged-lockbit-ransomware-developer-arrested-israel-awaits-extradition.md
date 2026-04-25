@@ -17,6 +17,14 @@ key_findings:
   - "Documents Panev's specific technical contributions (builders, control panels, data exfil tools)"
 collection_url: https://www.bitdefender.com/en-us/blog/hotforsecurity/alleged-lockbit-ransomware-developer-arrested-in-israel-awaits-extradition
 created: 2026-04-25
+raw_path: raw/news/2024-12-23_bitdefender_alleged-lockbit-ransomware-developer-arrested-israel-awaits-extradition.md
+text_status: summarized
+content_hash: sha256:83feb25bac359926372be8227d0e582aec7c4ee14059502ed6d0ef4dd4e3a757
+word_count: 511
+stored_word_count: 80
+extraction_date: 2026-04-25
+last_fetcher: urllib
+copyright_policy: summary-only
 ---
 ## Source Summary
 

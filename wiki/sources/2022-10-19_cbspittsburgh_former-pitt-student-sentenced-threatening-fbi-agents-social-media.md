@@ -3,7 +3,7 @@ type: source
 title: "Former Pitt student sentenced to 6 years for threatening FBI agents"
 source_type: news
 publisher: "CBS Pittsburgh (KDKA)"
-author: "Staff"
+author: Staff
 publish_date: 2022-10-19
 ingest_date: 2026-04-25
 language: en
@@ -17,6 +17,14 @@ key_findings:
   - "Pittsburgh-of-record local broadcast coverage of FBI threat case"
 collection_url: https://www.cbsnews.com/pittsburgh/news/former-pitt-student-sentenced-threatening-fbi-agents-social-media/
 created: 2026-04-25
+raw_path: raw/news/2022-10-19_cbspittsburgh_former-pitt-student-sentenced-threatening-fbi-agents-social-media.md
+text_status: summarized
+content_hash: sha256:2ca35f7a51374c89d5d2cb3825e1ce1166ef06558cc4f3703e1f93263dfdbf3e
+word_count: 574
+stored_word_count: 80
+extraction_date: 2026-04-25
+last_fetcher: urllib
+copyright_policy: summary-only
 ---
 ## Source Summary
 

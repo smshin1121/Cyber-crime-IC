@@ -12,11 +12,18 @@ reliability: medium
 credibility: reported
 sensitivity: public
 pages_updated:
-  []
+
 key_findings:
   - "This contemporaneous Irish news report confirms arrests and local geography for the Irish leg of Operation Jackal and helps corroborate Garda and INTERPOL figures."
 collection_url: https://www.irishexaminer.com/news/courtandcrime/arid-41201884.html
 created: 2026-04-23
+text_status: summarized
+content_hash: sha256:56712fb2318c65bf12f8e688e78ed19a24a46f2d9b81e8cd455bd1281abeae5f
+word_count: 1346
+stored_word_count: 80
+extraction_date: 2026-04-25
+last_fetcher: urllib
+copyright_policy: summary-only
 ---
 ## Source Summary
 

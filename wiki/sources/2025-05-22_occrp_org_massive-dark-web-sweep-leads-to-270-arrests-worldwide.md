@@ -2,7 +2,7 @@
 type: source
 title: "Massive Dark Web Sweep Leads to 270 Arrests Worldwide"
 source_type: news
-publisher: "OCCRP"
+publisher: OCCRP
 author: "Zdravko Ljubas"
 publish_date: 2025-05-22
 ingest_date: 2026-04-25
@@ -17,6 +17,14 @@ key_findings:
   - "The report linked the operation to intelligence gathered from prior marketplace takedowns including Nemesis, Tor2Door, Bohemia, and Kingdom Markets."
 collection_url: https://www.occrp.org/en/news/massive-dark-web-sweep-leads-to-270-arrests-worldwide
 created: 2026-04-25
+raw_path: raw/news/2025-05-22_occrp_org_massive-dark-web-sweep-leads-to-270-arrests-worldwide.md
+text_status: summarized
+content_hash: sha256:501d7966d324ecbf365932f37022a27a9bc229fcd0f31273e56e7656ae55d02f
+word_count: 907
+stored_word_count: 80
+extraction_date: 2026-04-25
+last_fetcher: urllib
+copyright_policy: summary-only
 ---
 ## Source Summary
 

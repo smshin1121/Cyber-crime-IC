@@ -17,6 +17,14 @@ key_findings:
   - "Names Judge Tana Lin and details December 2023 arrest"
 collection_url: https://www.kiro7.com/news/local/repeat-offender-mexican-national-sentenced-after-fleeing-wa-drug-trafficking-sentence/63PRSZJSJZA3LLAU2D4J2BF33M/
 created: 2026-04-25
+raw_path: raw/news/2025-07-30_kiro7_repeat-offender-mexican-national-sentenced-after-fleeing-wa-drug-trafficking-sentence.md
+text_status: summarized
+content_hash: sha256:1785fd7bf610f30f73390ade938086e7a90e33d1e24f74172d26a9855141ab78
+word_count: 131
+stored_word_count: 80
+extraction_date: 2026-04-25
+last_fetcher: urllib
+copyright_policy: summary-only
 ---
 ## Source Summary
 

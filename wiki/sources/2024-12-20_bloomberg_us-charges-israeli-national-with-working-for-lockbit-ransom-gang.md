@@ -2,7 +2,7 @@
 type: source
 title: "US Charges Israeli National for Working With LockBit Hackers"
 source_type: news
-publisher: "Bloomberg"
+publisher: Bloomberg
 author: "Bloomberg Staff"
 publish_date: 2024-12-20
 ingest_date: 2026-04-25
@@ -17,6 +17,14 @@ key_findings:
   - "Frames case within Operation Cronos coordinated international takedown"
 collection_url: https://www.bloomberg.com/news/articles/2024-12-20/us-charges-israeli-national-with-working-for-lockbit-ransom-gang
 created: 2026-04-25
+raw_path: raw/news/2024-12-20_bloomberg_us-charges-israeli-national-with-working-for-lockbit-ransom-gang.md
+text_status: summarized
+content_hash: sha256:30fbc7df6619a091a6c9e76ee1a63e9eafbc4166ae8df1f76c87cb523889ab55
+word_count: 164
+stored_word_count: 80
+extraction_date: 2026-04-25
+last_fetcher: jina
+copyright_policy: summary-only
 ---
 ## Source Summary
 

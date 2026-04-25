@@ -1,32 +1,39 @@
 ---
 type: source
 title: "PortSwigger Daily Swig: Andromeda Botnet Dismantled by International Taskforce"
-collection_url: "https://portswigger.net/daily-swig/andromeda-botnet-dismantled-by-international-taskforce"
-collection_domain: "portswigger.net"
-source_type: "news"
+collection_url: https://portswigger.net/daily-swig/andromeda-botnet-dismantled-by-international-taskforce
+collection_domain: portswigger.net
+source_type: news
 publisher: "PortSwigger (The Daily Swig)"
 author: "The Daily Swig Editorial Team"
-publish_date: "2017-12-05"
-ingest_date: "2026-04-08"
-enriched_date: "2026-04-10"
-language: "en"
-reliability: "medium-high"
-credibility: "probably-true"
-sensitivity: "public"
+publish_date: 2017-12-05
+ingest_date: 2026-04-08
+enriched_date: 2026-04-10
+language: en
+reliability: medium-high
+credibility: probably-true
+sensitivity: public
 source_tier: 3
 pages_updated:
-  - "andromeda-botnet-takedown"
+  - andromeda-botnet-takedown
 key_findings:
   - "Andromeda botnet (a.k.a. Gamarue/Wauchos) dismantled on 29 November 2017 through a coordinated international operation announced on 4 December 2017"
   - "Takedown led by the FBI, Luneburg Central Criminal Investigation Office (ZKI Luneburg, Germany), Europol EC3, J-CAT, and Eurojust, with participation from 17 countries"
   - "One suspect arrested in Belarus as part of the operation — the operator of the Andromeda command-and-control infrastructure"
-  - "Scale: Andromeda had been active since 2011, had more than 80 associated malware families distributed through it, and had been detected on an average of 1 million computers per month for the 6 months preceding the takedown"
+  - "Scale: "Andromeda had been active since 2011, had more than 80 associated malware families distributed through it, and had been detected on an average of 1 million computers per month for the 6 months preceding the takedown\""
   - "Microsoft contributed through its Digital Crimes Unit, providing technical analysis and sinkhole infrastructure; ESET, ShadowServer, and Fortinet also participated as private-sector partners"
   - "Operation was conducted simultaneously with anti-Avalanche follow-up actions (Avalanche had been taken down in November 2016) — demonstrating that takedown operations often overlap and share infrastructure"
 created: 2026-04-08
 updated: 2026-04-10
+raw_path: raw/news/portswigger-911-s5-botnet-dismantling.md
+text_status: summarized
+content_hash: sha256:56c36d7162ff1900a4bfae17afdfe0bc981cb317d2855bbd4fe53110f5be192b
+word_count: 209
+stored_word_count: 80
+extraction_date: 2026-04-25
+last_fetcher: urllib
+copyright_policy: summary-only
 ---
-
 > [!info] Mismatch resolved (2026-04-10)
 > Previously also linked to [[911-s5-botnet-takedown]]. That link removed — this source covers the 2017 Andromeda botnet takedown only.
 

@@ -3,7 +3,7 @@ type: source
 title: "Feds: Ex-NSA Employee Cyberstalked and Harassed His Ex-Girlfriend and Her Family for Nearly Two Years"
 source_type: news
 publisher: "The Daily Beast"
-author: "Staff"
+author: Staff
 publish_date: 2020-02-13
 ingest_date: 2026-04-25
 language: en
@@ -18,6 +18,14 @@ key_findings:
   - "Documents the scope of cyberstalking against the victim and her family/colleagues"
 collection_url: https://www.thedailybeast.com/feds-ex-nsa-employee-cyberstalked-and-harassed-his-ex-girlfriend-and-her-family-for-nearly-two-years/
 created: 2026-04-25
+raw_path: raw/news/2020-02-13_thedailybeast_feds-ex-nsa-employee-cyberstalked-girlfriend-two-years.md
+text_status: summarized
+content_hash: sha256:5786f1b8f20af524c9c62adf02fd56740aa659141070986a7579eb16a41355c3
+word_count: 1280
+stored_word_count: 80
+extraction_date: 2026-04-25
+last_fetcher: urllib
+copyright_policy: summary-only
 ---
 ## Source Summary
 

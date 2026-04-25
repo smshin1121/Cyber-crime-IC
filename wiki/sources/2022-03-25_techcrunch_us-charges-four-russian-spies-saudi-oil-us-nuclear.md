@@ -2,7 +2,7 @@
 type: source
 title: "US charges four Russian spies for hacking Saudi oil facility and US nuclear power plant"
 source_type: news
-publisher: "TechCrunch"
+publisher: TechCrunch
 author: "Carly Page"
 publish_date: 2022-03-25
 ingest_date: 2026-04-25
@@ -16,6 +16,14 @@ key_findings:
   - "Wolf Creek Generating Station (Kansas) and Saudi petrochemical plant identified as targets"
 collection_url: https://techcrunch.com/2022/03/25/doj-russia-triton-united-states-nuclear/
 created: 2026-04-25
+raw_path: raw/news/2022-03-25_techcrunch_us-charges-four-russian-spies-hacking-saudi-oil-us-nuclear-power-plant.md
+text_status: summarized
+content_hash: sha256:33d0c4383bd98f20334667acd187cbba27704ea65ec61ea10c8fd260d14c1dd5
+word_count: 1219
+stored_word_count: 80
+extraction_date: 2026-04-25
+last_fetcher: urllib
+copyright_policy: summary-only
 ---
 ## Source Summary
 

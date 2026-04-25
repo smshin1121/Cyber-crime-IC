@@ -12,11 +12,18 @@ reliability: medium
 credibility: reported
 sensitivity: public
 pages_updated:
-  []
+
 key_findings:
   - "Security Affairs added country-level arrest distribution for Operation Triangle and restated the fraud methodology."
 collection_url: https://securityaffairs.com/37741/cyber-crime/europol-operation-triangle-phishing.html
 created: 2026-04-23
+text_status: summarized
+content_hash: sha256:15ea2fcfa00af1aa2007cf20dde0d7ffa3b3280f2542e1f03e620393a08a35ef
+word_count: 962
+stored_word_count: 80
+extraction_date: 2026-04-25
+last_fetcher: urllib
+copyright_policy: summary-only
 ---
 ## Source Summary
 

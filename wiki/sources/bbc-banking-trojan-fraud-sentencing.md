@@ -1,32 +1,39 @@
 ---
 type: source
 title: "BBC News: Polish Banking Trojan Fraudster (Tomasz Skowron) Sentenced to Five Years"
-collection_url: "https://www.bbc.com/news/uk-43893420"
-collection_domain: "bbc.com"
-source_type: "news"
+collection_url: https://www.bbc.com/news/uk-43893420
+collection_domain: bbc.com
+source_type: news
 publisher: "BBC News"
 author: "BBC News UK Desk"
-publish_date: "2018-04-26"
-ingest_date: "2026-04-08"
-enriched_date: "2026-04-10"
-language: "en"
-reliability: "medium-high"
-credibility: "probably-true"
-sensitivity: "public"
+publish_date: 2018-04-26
+ingest_date: 2026-04-08
+enriched_date: 2026-04-10
+language: en
+reliability: medium-high
+credibility: probably-true
+sensitivity: public
 source_tier: 3
 pages_updated:
-  - "banking-trojan-fraud-sentencing-2017"
+  - banking-trojan-fraud-sentencing-2017
 key_findings:
   - "Tomasz Skowron, a 29-year-old Polish national, was sentenced to 5 years in a UK court for his role in a banking-trojan money-laundering and fraud scheme that stole approximately £840,000 (~USD 1.035 million) from victims worldwide"
   - "Skowron's accomplice Piotr Ptach received a 3-year sentence for recruiting money mules; both were part of a broader Eastern European cybercrime cell that deployed banking trojans to harvest online-banking credentials"
-  - "Operational-security failure: Skowron was identified because he used his *home IP address* to access compromised victim bank accounts and transfer funds — a critical OPSEC error that directly enabled attribution"
+  - "Operational-security failure: "Skowron was identified because he used his *home IP address* to access compromised victim bank accounts and transfer funds — a critical OPSEC error that directly enabled attribution\""
   - "UK police arrested Skowron in December 2014 based on intelligence from the UK banking industry (private-sector–LE cooperation)"
-  - "The case illustrates the `money-mule prosecution` pathway: rather than the original malware operators (who were *likely* in Eastern Europe and un-extradited), the UK authorities prosecuted the local cash-out layer"
-  - "Note: The BBC News URL (uk-43893420) could not be fetched directly (BBC blocks automated access); these findings are reconstructed from corroborating BleepingComputer, The Register, and MetaCompliance reporting that reference the same defendants and facts"
+  - "The case illustrates the `money-mule prosecution` pathway: "rather than the original malware operators (who were *likely* in Eastern Europe and un-extradited), the UK authorities prosecuted the local cash-out layer\""
+  - "Note: "The BBC News URL (uk-43893420) could not be fetched directly (BBC blocks automated access); these findings are reconstructed from corroborating BleepingComputer, The Register, and MetaCompliance reporting that reference the same defendants and facts\""
 created: 2026-04-08
 updated: 2026-04-10
+raw_path: raw/news/bbc-banking-trojan-fraud-sentencing.md
+text_status: summarized
+content_hash: sha256:bc93ba9e310c28e275d838f268fb7ee1f21de54f1f90e18e6fad674af4514e31
+word_count: 978
+stored_word_count: 80
+extraction_date: 2026-04-25
+last_fetcher: urllib
+copyright_policy: summary-only
 ---
-
 > [!note] Original URL could not be fetched
 > The BBC article at `bbc.com/news/uk-43893420` returned access-denied errors when fetched. Facts in this summary are reconstructed from secondary sources (BleepingComputer, The Register, MetaCompliance) that reference the same case and defendants. The BBC article ID `uk-43893420` is consistent with a UK News article from April 2018.
 

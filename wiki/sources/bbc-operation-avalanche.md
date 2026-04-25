@@ -1,21 +1,21 @@
 ---
 type: source
 title: "BBC: Operation Avalanche"
-collection_url: "https://www.bbc.com/news/technology-30849172"
-collection_domain: "bbc.com"
-source_type: "news"
-publisher: "BBC"
+collection_url: https://www.bbc.com/news/technology-30849172
+collection_domain: bbc.com
+source_type: news
+publisher: BBC
 author: ""
-publish_date: "2016-12-01"
-ingest_date: "2026-04-08"
-enriched_date: "2026-04-10"
-language: "en"
-reliability: "medium"
-credibility: "possibly-true"
-sensitivity: "public"
+publish_date: 2016-12-01
+ingest_date: 2026-04-08
+enriched_date: 2026-04-10
+language: en
+reliability: medium
+credibility: possibly-true
+sensitivity: public
 source_tier: 4
 pages_updated:
-  - "operation-avalanche"
+  - operation-avalanche
 key_findings:
   - "Operation Avalanche was announced on 30 November – 1 December 2016 as a 4+ year multinational investigation led by German prosecutors (Staatsanwaltschaft Verden and Lüneburg Police) in close cooperation with the US DOJ, FBI, Europol, Eurojust and INTERPOL"
   - "The coordinated takedown involved law enforcement from 30 countries and dismantled an international criminal infrastructure that had been used since 2009 as a delivery platform for malware, phishing and spam — including malware families such as GozNym, Marcher, Matsnu, URLzone, XswKit, and Pandabanker"
@@ -25,8 +25,15 @@ key_findings:
   - "Operation Avalanche is frequently cited as a landmark exemplar of *sustained* multilateral cybercrime cooperation and is routinely referenced in Europol strategic reports as a model for takedown + sinkhole + victim-notification workflows"
 created: 2026-04-08
 updated: 2026-04-10
+raw_path: raw/news/bbc-operation-avalanche.md
+text_status: summarized
+content_hash: sha256:ebe9c96ef27d3f3e48c4f7adb98d919634ef2b2dfac3ce8dd5f7291d6b220bc6
+word_count: 792
+stored_word_count: 80
+extraction_date: 2026-04-25
+last_fetcher: urllib
+copyright_policy: summary-only
 ---
-
 > [!warning] URL verification
 > The `collection_url` (`bbc.com/news/technology-30849172`) could not be verified via WebFetch or WebSearch (BBC blocks fetch; search returned no article match). The numeric ID is consistent with a December 2016 BBC article, which does match Operation Avalanche's announcement timing. Key findings below are drawn from Europol, INTERPOL, DOJ, and multiple independent outlets that are *highly likely* to be consistent with BBC reporting on the same event.
 

@@ -3,7 +3,7 @@ type: source
 title: "Arizona man indicted for attempting to lure a minor who turned out to be an undercover agent: DOJ"
 source_type: news
 publisher: "FOX 10 Phoenix"
-author: "Staff"
+author: Staff
 publish_date: 2024-09-13
 ingest_date: 2026-04-25
 language: en
@@ -17,6 +17,14 @@ key_findings:
   - "Confirms dark-web undercover-agent operation."
 collection_url: https://www.fox10phoenix.com/news/arizona-man-indicted-attempting-lure-minor-who-turned-out-be-undercover-agent-doj
 created: 2026-04-25
+raw_path: raw/news/2024-09-13_fox10phoenix_arizona-man-indicted-attempting-lure-minor-undercover-agent.md
+text_status: summarized
+content_hash: sha256:df972df5f3f4d242db38a9981cb73c8d88859b75ab98545a3cfe6c56c46b89bf
+word_count: 1106
+stored_word_count: 80
+extraction_date: 2026-04-25
+last_fetcher: urllib
+copyright_policy: summary-only
 ---
 ## Source Summary
 

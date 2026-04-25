@@ -3,7 +3,7 @@ type: source
 title: "2 Stamford Men Accused Of Using Mail To Traffic Fentanyl Into CT: Feds"
 source_type: news
 publisher: "Stamford Patch"
-author: "Staff"
+author: Staff
 publish_date: 2025-04-08
 ingest_date: 2026-04-25
 language: en
@@ -17,6 +17,14 @@ key_findings:
   - "Reinforces interstate USPS-mail trafficking element from California and Arizona."
 collection_url: https://patch.com/connecticut/stamford/2-stamford-men-accused-using-mail-traffic-fentanyl-ct-feds
 created: 2026-04-25
+raw_path: raw/news/2025-04-08_patch_2-stamford-men-accused-using-mail-traffic-fentanyl-ct-feds.md
+text_status: summarized
+content_hash: sha256:cff0963fdc1e57d8b52bba7b618abd9a1daa0ebaf6ef286ec70e02f2f0419c15
+word_count: 787
+stored_word_count: 80
+extraction_date: 2026-04-25
+last_fetcher: urllib
+copyright_policy: summary-only
 ---
 ## Source Summary
 

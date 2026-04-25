@@ -2,8 +2,8 @@
 type: source
 title: "Man fined $10,000, sentenced to two years in Missouri prison for selling fake Xanax"
 source_type: news
-publisher: "KTTN"
-author: "Staff"
+publisher: KTTN
+author: Staff
 publish_date: 2024-05-02
 ingest_date: 2026-04-25
 language: en
@@ -16,6 +16,14 @@ key_findings:
   - "Regional Missouri news outlet confirmation of Adams's sentencing"
 collection_url: https://www.kttn.com/v2-man-fined-10000-sentenced-to-two-years-in-missouri-orison-for-selling-fake-xanax/
 created: 2026-04-25
+raw_path: raw/news/2024-05-02_kttn_man-fined-10000-sentenced-to-two-years-in-missouri-prison-for-selling-fake-xanax.md
+text_status: summarized
+content_hash: sha256:4fe251c5e12d57ab887847d949e4f31438aac64d45b5305782b0ac5f2828ae88
+word_count: 1205
+stored_word_count: 80
+extraction_date: 2026-04-25
+last_fetcher: urllib
+copyright_policy: summary-only
 ---
 ## Source Summary
 

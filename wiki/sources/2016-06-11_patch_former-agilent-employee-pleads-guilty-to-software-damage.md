@@ -16,6 +16,14 @@ key_findings:
   - "Bay Area local press coverage with defendant residence (Felton CA)"
 collection_url: https://patch.com/california/losgatos/former-agilent-employee-pleads-guilty-software-damage-0
 created: 2026-04-25
+raw_path: raw/news/2016-06-11_patch_former-agilent-employee-pleads-guilty-to-software-damage.md
+text_status: summarized
+content_hash: sha256:650a81b064b2876392f83aa9e9d0d89091d81db9e7f4f8a2f09497936b107ce3
+word_count: 610
+stored_word_count: 80
+extraction_date: 2026-04-25
+last_fetcher: urllib
+copyright_policy: summary-only
 ---
 ## Source Summary
 

@@ -20,6 +20,14 @@ key_findings:
   - "The court announced prison sentences ranging from a suspended one-year sentence to five years and nine months."
   - "The court also ordered confiscation of criminal proceeds and acquitted the defendants on additional accessory-liability theories."
 created: 2026-04-18
+raw_path: raw/press-releases/2021-12-13_lgtr-justiz-rlp-de_urteil-im-sog-cyberbunkerverfahren.md
+text_status: summarized
+content_hash: sha256:6d0fca4367fee96ed62de2cea2258e6fec20d0321262c075bb362b468dea8e20
+word_count: 1624
+stored_word_count: 80
+extraction_date: 2026-04-25
+last_fetcher: jina
+copyright_policy: summary-only
 ---
 ## Source Summary
 

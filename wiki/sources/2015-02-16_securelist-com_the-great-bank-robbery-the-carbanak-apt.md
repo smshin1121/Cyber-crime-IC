@@ -17,6 +17,13 @@ key_findings:
   - "Spanish authorities, supported by Europol and other international partners, arrested the alleged mastermind behind the Carbanak/Cobalt bank-fraud campaigns in Spain. The arrest narrative is official; the technical understanding of the campaign still depends heavily on Kaspersky's earlier reporting."
 collection_url: https://securelist.com/the-great-bank-robbery-the-carbanak-apt/68732/
 created: 2026-04-17
+text_status: summarized
+content_hash: sha256:093d65fe90fb7070755867ac2eed3bc49f40a5bde1d29e27a0866a1de8e52ccd
+word_count: 236
+stored_word_count: 80
+extraction_date: 2026-04-25
+last_fetcher: urllib
+copyright_policy: summary-only
 ---
 ## Source Summary
 

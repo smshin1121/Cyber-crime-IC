@@ -2,7 +2,7 @@
 type: source
 title: "Ukrainian extradited for selling 2,000 stolen logins per week"
 source_type: news
-publisher: "BleepingComputer"
+publisher: BleepingComputer
 author: "Sergiu Gatlan"
 publish_date: 2021-09-08
 ingest_date: 2026-04-25
@@ -17,6 +17,14 @@ key_findings:
   - "Cooperation with Polish authorities under the U.S.-Poland extradition treaty enabled the transfer."
 collection_url: https://www.bleepingcomputer.com/news/security/ukrainian-extradited-for-selling-2-000-stolen-logins-per-week/
 created: 2026-04-25
+raw_path: raw/news/2021-09-08_bleepingcomputer_ukrainian-extradited-for-selling-2000-stolen-logins-per-week.md
+text_status: summarized
+content_hash: sha256:beaf041b43b18c31ab76049bdf084ebc2f38319eaa27997ef6d2552241bc2360
+word_count: 903
+stored_word_count: 80
+extraction_date: 2026-04-25
+last_fetcher: urllib
+copyright_policy: summary-only
 ---
 ## Source Summary
 

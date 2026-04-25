@@ -3,7 +3,7 @@ type: source
 title: "Army veteran gets community service after using false identity to serve in military decades ago"
 source_type: news
 publisher: "Fox News"
-author: "Staff"
+author: Staff
 publish_date: 2022-09-08
 ingest_date: 2026-04-25
 language: en
@@ -18,6 +18,14 @@ key_findings:
   - "Confirms 33-year service in Berlin, Germany under stolen identity"
 collection_url: https://www.foxnews.com/us/army-veteran-gets-community-service-using-false-identity-serve-military-decades-ago.amp
 created: 2026-04-25
+raw_path: raw/news/2022-09-08_foxnews_army-veteran-gets-community-service-using-false-identity.md
+text_status: summarized
+content_hash: sha256:73ff63a72a402c60fc5315c5951d72017f0c5c4896d2d90d587b8b55214b276d
+word_count: 223
+stored_word_count: 80
+extraction_date: 2026-04-25
+last_fetcher: urllib
+copyright_policy: summary-only
 ---
 ## Source Summary
 

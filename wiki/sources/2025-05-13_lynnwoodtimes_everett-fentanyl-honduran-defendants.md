@@ -17,6 +17,14 @@ key_findings:
   - "Identifies both defendants as Honduran nationals"
 collection_url: https://lynnwoodtimes.com/2025/05/13/everett-fentanyl/
 created: 2026-04-25
+raw_path: raw/news/2025-05-13_lynnwoodtimes_everett-fentanyl-honduran-defendants.md
+text_status: summarized
+content_hash: sha256:e09a5eaa846ee8e53ee5d3386dac55106371a1268a1d029851040c522e99f3ff
+word_count: 6116
+stored_word_count: 80
+extraction_date: 2026-04-25
+last_fetcher: urllib
+copyright_policy: summary-only
 ---
 ## Source Summary
 

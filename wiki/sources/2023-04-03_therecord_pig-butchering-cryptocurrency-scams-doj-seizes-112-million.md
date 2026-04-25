@@ -17,6 +17,14 @@ key_findings:
   - "Connects to broader Europol-led January 2023 pig butchering takedown in Serbia/Germany/Bulgaria/Cyprus."
 collection_url: https://therecord.media/pig-butchering-cryptocurrency-scams-doj-seizes-112-million
 created: 2026-04-25
+raw_path: raw/news/2023-04-03_therecord_pig-butchering-cryptocurrency-scams-doj-seizes-112-million.md
+text_status: summarized
+content_hash: sha256:4d72fbb2b2e1743bd3ae80a4a32027e610405235b44ad6922221da1774a8659d
+word_count: 915
+stored_word_count: 80
+extraction_date: 2026-04-25
+last_fetcher: urllib
+copyright_policy: summary-only
 ---
 ## Source Summary
 

@@ -12,11 +12,18 @@ reliability: high
 credibility: confirmed
 sensitivity: public
 pages_updated:
-  []
+
 key_findings:
   - "Portugal's Polícia Judiciária said the suspects created four companies and 17 bank accounts in Portugal and that EUR 3 million was seized in the Portuguese leg of the CEO-fraud laundering network."
 collection_url: https://www.policiajudiciaria.pt/operacao-sefricime-2-2/
 created: 2026-04-23
+text_status: summarized
+content_hash: sha256:bc6faf6d655bcfd06368df838aa10a3e4466c3cb5d0f2ebe3960c8cc1d3a210e
+word_count: 982
+stored_word_count: 80
+extraction_date: 2026-04-25
+last_fetcher: urllib
+copyright_policy: summary-only
 ---
 ## Source Summary
 

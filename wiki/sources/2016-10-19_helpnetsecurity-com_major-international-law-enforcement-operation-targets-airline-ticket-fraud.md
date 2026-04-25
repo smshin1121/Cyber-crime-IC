@@ -17,6 +17,14 @@ created: 2026-04-23
 key_findings:
   - "Help Net Security reported 193 detained suspects across 43 countries and 189 airports."
   - "The article described Europol, INTERPOL, Ameripol, Frontex, Eurojust, IATA, and private-sector support."
+raw_path: raw/news/2016-10-19_helpnetsecurity-com_major-international-law-enforcement-operation-targets-airline-ticket-fraud.md
+text_status: summarized
+content_hash: sha256:30a3dfe805f2b3026bad84e0c206cd9c314ce2052620c557fc77197e2c7e88c1
+word_count: 1110
+stored_word_count: 80
+extraction_date: 2026-04-25
+last_fetcher: urllib
+copyright_policy: summary-only
 ---
 ## Source Summary
 

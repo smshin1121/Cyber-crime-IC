@@ -18,6 +18,14 @@ key_findings:
   - "Detention revocation following obstruction attempts."
 collection_url: https://www.fldrugdefensegroup.com/judge-revokes-home-detention-for-defendants-accused-in-darknet-opioid-trafficking-conspiracy/
 created: 2026-04-25
+raw_path: raw/news/2021-09-17_fldrugdefensegroup_judge-revokes-home-detention-darknet-opioid-trafficking.md
+text_status: summarized
+content_hash: sha256:6faaa7a7176353c79867ffd8979331bb66d682d2a6fb4a7ece87e484c2ae25ac
+word_count: 1000
+stored_word_count: 80
+extraction_date: 2026-04-25
+last_fetcher: urllib
+copyright_policy: summary-only
 ---
 ## Source Summary
 

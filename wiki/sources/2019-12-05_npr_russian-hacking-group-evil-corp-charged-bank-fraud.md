@@ -2,8 +2,8 @@
 type: source
 title: "Russian Hacking Group Evil Corp. Charged By Federal Prosecutors In Alleged Bank Fraud"
 source_type: news
-publisher: "NPR"
-author: "Staff"
+publisher: NPR
+author: Staff
 publish_date: 2019-12-05
 ingest_date: 2026-04-25
 language: en
@@ -19,6 +19,14 @@ key_findings:
   - "Extradition prospects complicated by alleged state actor ties."
 collection_url: https://www.npr.org/2019/12/05/785034567/russian-hacking-group-evil-corp-charged-by-federal-prosecutors-in-alleged-bank-f
 created: 2026-04-25
+raw_path: raw/news/2019-12-05_npr_russian-hacking-group-evil-corp-charged-bank-fraud.md
+text_status: summarized
+content_hash: sha256:ac1214d8f02423d92a06dd98f4133507d3da2cd7fec755a60268f5c8390d4f29
+word_count: 140
+stored_word_count: 80
+extraction_date: 2026-04-25
+last_fetcher: urllib
+copyright_policy: summary-only
 ---
 ## Source Summary
 

@@ -1,0 +1,37 @@
+---
+title: "INTERPOL Operation JACKAL / Ireland Operation SKEIN - Update August 2023"
+collection_source: "An Garda Siochana"
+collection_url: https://www.garda.ie/en/about-us/our-departments/office-of-corporate-communications/press-releases/2023/august/interpol-operation-jackal-ireland-operation-skein-update-august-2023.html
+collection_domain: garda.ie
+collection_date: 2026-04-23
+publish_date: 2023-08-10
+language: en
+status: collected
+related_operation: operation-jackal
+final_url: https://www.garda.ie/en/about-us/our-departments/office-of-corporate-communications/press-releases/2023/august/interpol-operation-jackal-ireland-operation-skein-update-august-2023.html
+text_status: summarized
+fetcher: urllib
+http_status: 200
+content_type: text/html
+content_hash: sha256:a3b81f00f946f58fa5446f03524d9566bb6609b7c6bd65068a4e87090f3db6db
+word_count: 221
+stored_word_count: 80
+extraction_date: 2026-04-25
+copyright_policy: summary-only
+source_page: wiki/sources/2023-08-10_garda-ie_interpol-operation-jackal-ireland-operation-skein-update-august-2023.md
+---
+## Summary
+
+Garda's August 2023 update on Operation Jackal reported three premises searched in Dublin, Wicklow and Longford, nine people arrested under organized crime legislation, four additional arrests for money-laundering offences, 33 people arrested and charged for money laundering, and one person arrested and charged with gangland and money-laundering offences. The update also said nine incidents of stolen funds were recovered from foreign bank accounts and that more than EUR 400,000 was recovered for Irish companies. Garda tied these results to Operation Skein, its domestic Black Axe investigation.
+
+## Extracted Summary
+
+INTERPOL Operation JACKAL / Ireland Operation SKEIN – Update August 2023 - Garda Our website uses cookies to enhance your browsing experience and to collect information about how you use this site to improve our service to you. By not accepting cookies some elements of the site, such as video, will not work. Please visit our Cookie Policy page for more information on how we use cookies. Accept All Cookies Necessary Cookies Only Manage Cookies Toggle navigation Accessibility help? Gaeilge...
+
+## Extraction Notes
+
+- parser: document
+- fetcher: urllib
+- fetched_at: 2026-04-25T14:59:16+00:00
+- final_url: https://www.garda.ie/en/about-us/our-departments/office-of-corporate-communications/press-releases/2023/august/interpol-operation-jackal-ireland-operation-skein-update-august-2023.html
+- storage_mode: summary-only

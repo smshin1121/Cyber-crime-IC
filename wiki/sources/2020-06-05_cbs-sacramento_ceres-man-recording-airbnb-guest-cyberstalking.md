@@ -17,6 +17,14 @@ key_findings:
   - "Confirms Airbnb covert-recording fact pattern."
 collection_url: https://www.cbsnews.com/sacramento/news/ceres-man-recording-airbnb-guest-cyberstalking/
 created: 2026-04-25
+raw_path: raw/news/2020-06-05_cbs-sacramento_ceres-man-recording-airbnb-guest-cyberstalking.md
+text_status: summarized
+content_hash: sha256:27d0d8e36d493529e39fb5f9809f48c12ee90a92f2dcbfed4d1c420f8d2b8f9d
+word_count: 1128
+stored_word_count: 80
+extraction_date: 2026-04-25
+last_fetcher: urllib
+copyright_policy: summary-only
 ---
 ## Source Summary
 

@@ -3,7 +3,7 @@ type: source
 title: "Five Brazilian Gun Traffickers Were Living In Yarmouth & Barnstable, Federal Agents Say"
 source_type: news
 publisher: "Hyannis News"
-author: "Staff"
+author: Staff
 publish_date: 2025-03-20
 ingest_date: 2026-04-25
 language: en
@@ -17,6 +17,14 @@ key_findings:
   - "Confirms PCC TCO connection and 110-firearm seizure."
 collection_url: https://hyannisnews.com/five-brazilian-gun-traffickers-were-living-in-yarmouth-barnstable-federal-agents-say/
 created: 2026-04-25
+raw_path: raw/news/2025-03-20_hyannisnews_five-brazilian-gun-traffickers-living-in-yarmouth-barnstable.md
+text_status: summarized
+content_hash: sha256:754f306bb5e410f61eab9d38d5a544ce0c8fb13b9193c993f816c4ba521748ff
+word_count: 3416
+stored_word_count: 80
+extraction_date: 2026-04-25
+last_fetcher: urllib
+copyright_policy: summary-only
 ---
 ## Source Summary
 

@@ -17,6 +17,13 @@ key_findings:
   - "The **Servizio Polizia postale e per la sicurezza cibernetica** is Italy's core national cybercrime police service within the **Polizia di Stato** structure. It is the main institutional anchor for cybercrime investigation, online child-protection enforcement, and cyber-enabled fraud work in Italy's law-enforcement system, and it provides the organizational home for **CNAIPIC**."
 collection_url: https://www.poliziadistato.it/articolo/15594a96fe92d98208614649
 created: 2026-04-17
+text_status: summarized
+content_hash: sha256:576f70b919cd9458d3658b65fefbe437621c92c3bb161da49f91ac221346bea7
+word_count: 1072
+stored_word_count: 80
+extraction_date: 2026-04-25
+last_fetcher: urllib
+copyright_policy: summary-only
 ---
 ## Source Summary
 

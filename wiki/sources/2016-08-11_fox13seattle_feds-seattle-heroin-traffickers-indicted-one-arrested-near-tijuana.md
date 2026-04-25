@@ -17,6 +17,14 @@ key_findings:
   - "The article independently summarized the cross-border arrest and the identities of the charged Seattle and Renton defendants."
 collection_url: https://www.fox13seattle.com/news/feds-seattle-heroin-traffickers-indicted-one-arrested-near-tijuana
 created: 2026-04-25
+raw_path: raw/news/2016-08-11_fox13seattle_seattle-heroin-traffickers-indicted-tijuana-arrest.md
+text_status: summarized
+content_hash: sha256:994ac482b794ecbe4d78d8f51299898760c38ad4d78a92d533e940ed403d4417
+word_count: 701
+stored_word_count: 80
+extraction_date: 2026-04-25
+last_fetcher: urllib
+copyright_policy: summary-only
 ---
 ## Source Summary
 

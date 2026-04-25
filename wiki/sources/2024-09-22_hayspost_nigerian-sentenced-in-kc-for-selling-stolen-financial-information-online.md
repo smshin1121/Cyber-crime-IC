@@ -17,6 +17,14 @@ key_findings:
   - "Skynet darknet market operated April 2016-October 2019; victims across 50 states + D.C., Australia, Canada, UK"
 collection_url: https://hayspost.com/posts/cc895ba7-c623-433f-ac84-cbf2c59d58b6
 created: 2026-04-25
+raw_path: raw/news/2024-09-22_hayspost_nigerian-sentenced-in-kc-for-selling-stolen-financial-information-online.md
+text_status: summarized
+content_hash: sha256:25c8d006461b0c612f9356f3597219cd537a4815dc55f4bd1d9ed731622d3098
+word_count: 536
+stored_word_count: 80
+extraction_date: 2026-04-25
+last_fetcher: urllib
+copyright_policy: summary-only
 ---
 ## Source Summary
 

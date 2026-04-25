@@ -2,7 +2,7 @@
 type: source
 title: "Former DHS employees sentenced for plot to steal government software, databases"
 source_type: news
-publisher: "Nextgov/FCW"
+publisher: Nextgov/FCW
 author: "David DiMolfetta"
 publish_date: 2024-01-29
 ingest_date: 2026-04-25
@@ -17,6 +17,14 @@ key_findings:
   - "Stolen data from DHS and USPS oversight offices, ~200,000 employees."
 collection_url: https://www.nextgov.com/people/2024/01/former-dhs-employees-sentenced-plot-steal-government-software-databases/393689/
 created: 2026-04-25
+raw_path: raw/news/2024-01-29_nextgov_former-dhs-employees-sentenced-plot-steal-government-software-databases.md
+text_status: summarized
+content_hash: sha256:32e27c698db3762e19529e887f528610cd45b73166308890bd1e320ee351ed57
+word_count: 665
+stored_word_count: 80
+extraction_date: 2026-04-25
+last_fetcher: urllib
+copyright_policy: summary-only
 ---
 ## Source Summary
 

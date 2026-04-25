@@ -17,6 +17,14 @@ key_findings:
   - "Discusses AlphaBay marketplace context."
 collection_url: https://www.seattletimes.com/nation-world/man-gets-life-in-prison-for-fatal-synthetic-opioid-overdose/
 created: 2026-04-25
+raw_path: raw/news/2018-04-27_seattletimes_man-gets-life-fatal-synthetic-opioid-overdose-achey.md
+text_status: summarized
+content_hash: sha256:f2316eee660a31e43f417bc956a587be088a1b40a28f20a6d688838cd54395cd
+word_count: 485
+stored_word_count: 80
+extraction_date: 2026-04-25
+last_fetcher: urllib
+copyright_policy: summary-only
 ---
 ## Source Summary
 

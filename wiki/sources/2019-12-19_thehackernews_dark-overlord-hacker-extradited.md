@@ -18,6 +18,14 @@ key_findings:
   - "Independent confirmation of US-UK extradition with bitcoin ransom amounts $75K-$350K"
 collection_url: https://thehackernews.com/2019/12/dark-overlord-hacker-extradited.html
 created: 2026-04-25
+raw_path: raw/news/2019-12-19_thehackernews_dark-overlord-hacker-extradited.md
+text_status: summarized
+content_hash: sha256:4a0f667729189a957bd9d685bed0ecb729fa6d28506aed9e40a4c3d4e705494e
+word_count: 1087
+stored_word_count: 80
+extraction_date: 2026-04-25
+last_fetcher: urllib
+copyright_policy: summary-only
 ---
 ## Source Summary
 

@@ -3,7 +3,7 @@ type: source
 title: "Alleged Russian crypto crime boss Alexander Vinnik extradited to San Francisco"
 source_type: news
 publisher: "CBS San Francisco"
-author: "Staff"
+author: Staff
 publish_date: 2022-08-06
 ingest_date: 2026-04-25
 language: en
@@ -17,6 +17,14 @@ key_findings:
   - "Quotes AAG Kenneth Polite Jr. characterizing it as five-year extradition litigation"
 collection_url: https://www.cbsnews.com/sanfrancisco/news/alleged-russian-crypto-crime-boss-alexander-vinnik-extradited-to-san-francisco/
 created: 2026-04-25
+raw_path: raw/news/2022-08-06_cbsnews_alleged-russian-crypto-crime-boss-alexander-vinnik-extradited-to-san-francisco.md
+text_status: summarized
+content_hash: sha256:5ed3fefa0abb1a4b814d9a64c2e5dadc80d104003c328107802002ce0b8b78c4
+word_count: 765
+stored_word_count: 80
+extraction_date: 2026-04-25
+last_fetcher: urllib
+copyright_policy: summary-only
 ---
 ## Source Summary
 

@@ -18,6 +18,14 @@ key_findings:
   - "$5M revenue flow to DPRK government documented."
 collection_url: https://www.globalsecurity.org/wmd/library/news/dprk/2026/dprk-260415-doj01.htm
 created: 2026-04-25
+raw_path: raw/government-reports/2026-04-15_globalsecurity_two-us-nationals-sentenced-dprk-it-worker-5m-revenue.md
+text_status: summarized
+content_hash: sha256:6ec8566480b42d547f570d797cd270f79400440195312d3fc92699a9e8de147e
+word_count: 2006
+stored_word_count: 80
+extraction_date: 2026-04-25
+last_fetcher: urllib
+copyright_policy: summary-only
 ---
 ## Source Summary
 

@@ -17,6 +17,14 @@ key_findings:
   - "Local Pittsburgh-area press confirmation of the W.D. Pa. cyberstalking case follow-on to the January 2021 indictment."
 collection_url: https://www.cbsnews.com/pittsburgh/news/greene-co-man-pleads-guilty-to-federal-cyberstalking-charges/
 created: 2026-04-25
+raw_path: raw/news/2022-03-23_cbspittsburgh_greene-co-man-pleads-guilty-to-federal-cyberstalking-charges.md
+text_status: summarized
+content_hash: sha256:36b70326adf6ff517fe9aa83ffd0e9f2946663df597e8e055beea466fc496a8c
+word_count: 465
+stored_word_count: 80
+extraction_date: 2026-04-25
+last_fetcher: urllib
+copyright_policy: summary-only
 ---
 ## Source Summary
 

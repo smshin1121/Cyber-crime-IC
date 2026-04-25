@@ -1,7 +1,7 @@
 ---
 type: source
 title: "Dutch police takes over darknet market, posts warning"
-raw_path: ""
+raw_path: raw/news/2016-11-08_helpnetsecurity-com_dutch-police-takes-over-darknet-market.md
 source_type: news
 publisher: "Help Net Security"
 author: ""
@@ -18,6 +18,13 @@ key_findings:
   - "The article emphasized the deterrence strategy used on darknet users and vendors after the action week."
 collection_url: https://www.helpnetsecurity.com/2016/11/08/darknet-market-dutch-police/
 created: 2026-04-23
+text_status: summarized
+content_hash: sha256:355aabe2636a98e6a759d246a3d2787df9547dd145bb177b6116816d3b44a040
+word_count: 633
+stored_word_count: 80
+extraction_date: 2026-04-25
+last_fetcher: urllib
+copyright_policy: summary-only
 ---
 ## Source Summary
 

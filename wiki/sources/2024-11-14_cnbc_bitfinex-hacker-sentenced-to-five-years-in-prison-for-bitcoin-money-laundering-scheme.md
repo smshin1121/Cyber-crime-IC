@@ -2,7 +2,7 @@
 type: source
 title: "Bitcoin money launderer Ilya Lichtenstein gets prison sentence"
 source_type: news
-publisher: "CNBC"
+publisher: CNBC
 author: "Dan Mangan"
 publish_date: 2024-11-14
 ingest_date: 2026-04-25
@@ -17,6 +17,14 @@ key_findings:
   - "Lichtenstein publicly admitted being the original Bitfinex hacker at plea."
 collection_url: https://www.cnbc.com/2024/11/14/bitfinex-hacker-sentenced-to-five-years-in-prison-for-bitcoin-money-laundering-scheme.html
 created: 2026-04-25
+raw_path: raw/news/2024-11-14_cnbc_bitfinex-hacker-sentenced-to-five-years-in-prison-for-bitcoin-money-laundering-scheme.md
+text_status: summarized
+content_hash: sha256:81832c76e673f5e86ddc148a19e7cfcd628b092e520de554b7cb2cc5b635972f
+word_count: 785
+stored_word_count: 80
+extraction_date: 2026-04-25
+last_fetcher: urllib
+copyright_policy: summary-only
 ---
 ## Source Summary
 

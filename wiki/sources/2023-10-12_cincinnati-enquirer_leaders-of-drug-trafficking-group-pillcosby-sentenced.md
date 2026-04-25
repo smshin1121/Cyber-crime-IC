@@ -18,6 +18,14 @@ key_findings:
   - "FBI estimated 33.9 kg of fentanyl sold in five months of 2019"
 collection_url: https://www.yahoo.com/news/leaders-drug-trafficking-group-pillcosby-190240161.html
 created: 2026-04-25
+raw_path: raw/news/2023-10-12_cincinnati-enquirer_leaders-of-drug-trafficking-group-pillcosby-sentenced.md
+text_status: summarized
+content_hash: sha256:1d1e5e89ea64cc0ae97c315d801e6e6534e576d3489142ca0dc069e1fe703fde
+word_count: 451
+stored_word_count: 80
+extraction_date: 2026-04-25
+last_fetcher: urllib
+copyright_policy: summary-only
 ---
 ## Source Summary
 

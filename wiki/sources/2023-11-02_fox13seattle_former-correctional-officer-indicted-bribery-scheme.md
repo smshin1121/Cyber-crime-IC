@@ -16,6 +16,14 @@ key_findings:
   - "FOX 13 Seattle local TV confirmation"
 collection_url: https://www.fox13seattle.com/news/former-correctional-officer-indicted-for-bribery-scheme-bringing-meth-fentanyl-into-seattle-jail
 created: 2026-04-25
+raw_path: raw/news/2023-11-02_fox13seattle_former-correctional-officer-indicted-bribery-scheme.md
+text_status: summarized
+content_hash: sha256:997ba8eef68777b75b712e2d117e353df545ddffca3cc54b3c9148e2b5d95ccb
+word_count: 911
+stored_word_count: 80
+extraction_date: 2026-04-25
+last_fetcher: urllib
+copyright_policy: summary-only
 ---
 ## Source Summary
 

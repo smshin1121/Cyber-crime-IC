@@ -18,6 +18,14 @@ key_findings:
   - "Lists IEEPA, smuggling, and international money laundering counts"
 collection_url: https://www.courthousenews.com/two-men-accused-of-smuggling-u-s-electronics-into-russia/
 created: 2026-04-25
+raw_path: raw/news/2019-03-21_courthousenews_two-men-accused-smuggling-us-electronics-russia.md
+text_status: summarized
+content_hash: sha256:f197ded7197da067bc987320b47c4e67b43c52f52a63c2d3a04b4c68b7aa25f1
+word_count: 862
+stored_word_count: 80
+extraction_date: 2026-04-25
+last_fetcher: urllib
+copyright_policy: summary-only
 ---
 ## Source Summary
 

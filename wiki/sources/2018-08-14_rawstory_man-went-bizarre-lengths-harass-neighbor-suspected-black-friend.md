@@ -18,6 +18,14 @@ key_findings:
   - "700+ phone calls; 2 false hostage-situation reports."
 collection_url: https://www.rawstory.com/2018/08/man-went-bizarre-lengths-harass-neighbor-suspected-black-friend/
 created: 2026-04-25
+raw_path: raw/news/2018-08-14_rawstory_man-went-bizarre-lengths-harass-neighbor-suspected-black-friend.md
+text_status: summarized
+content_hash: sha256:4e4086aa8c3ca7a53da57c91ca666ecafe4c52f03f1cb7d8bbcd59da1d5eb04f
+word_count: 510
+stored_word_count: 80
+extraction_date: 2026-04-25
+last_fetcher: urllib
+copyright_policy: summary-only
 ---
 ## Source Summary
 

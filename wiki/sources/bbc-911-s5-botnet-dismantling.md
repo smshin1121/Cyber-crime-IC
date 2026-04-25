@@ -1,21 +1,21 @@
 ---
 type: source
 title: "BBC: 911 S5 Botnet Dismantling"
-collection_url: "https://www.bbc.com/news/technology-32218381"
-collection_domain: "bbc.com"
-source_type: "news"
-publisher: "BBC"
+collection_url: https://www.bbc.com/news/technology-32218381
+collection_domain: bbc.com
+source_type: news
+publisher: BBC
 author: ""
-publish_date: "2024-05-29"
-ingest_date: "2026-04-08"
-enriched_date: "2026-04-10"
-language: "en"
-reliability: "medium"
-credibility: "possibly-true"
-sensitivity: "public"
+publish_date: 2024-05-29
+ingest_date: 2026-04-08
+enriched_date: 2026-04-10
+language: en
+reliability: medium
+credibility: possibly-true
+sensitivity: public
 source_tier: 4
 pages_updated:
-  - "911-s5-botnet-takedown"
+  - 911-s5-botnet-takedown
 key_findings:
   - "The US Department of Justice on 29 May 2024 announced the dismantling of the 911 S5 residential-proxy botnet, described by officials as 'likely the world's largest botnet ever', comprising approximately 19 million compromised IP addresses across more than 190 countries (per DOJ press materials)"
   - "YunHe Wang, a 35-year-old Chinese national, was arrested in Singapore on 24 May 2024 as the alleged administrator who ran 911 S5 from 2014 until July 2022; Wang was charged in the Eastern District of Texas with conspiracy to commit computer fraud, wire fraud, and money laundering — facing a maximum 65-year sentence if convicted on all counts"
@@ -24,8 +24,15 @@ key_findings:
   - "The takedown illustrated the operational value of Singapore as an arrest venue for Chinese nationals suspected of cybercrime against US victims, given the absence of a US-China extradition treaty"
 created: 2026-04-08
 updated: 2026-04-10
+raw_path: raw/news/bbc-911-s5-botnet-dismantling.md
+text_status: summarized
+content_hash: sha256:426d65151ecd5840fa4981c990b8768b122c9a75d2ae5a3366e247c85cf8613f
+word_count: 1383
+stored_word_count: 80
+extraction_date: 2026-04-25
+last_fetcher: urllib
+copyright_policy: summary-only
 ---
-
 > [!warning] URL verification
 > The `collection_url` (`bbc.com/news/technology-32218381`) could not be verified via WebFetch or WebSearch (BBC blocks fetch; search returned no article match). The numeric ID format suggests a 2015-era BBC article, which would predate the 2024 911 S5 takedown. The original file may have mis-linked the URL during ingest. Key findings below are sourced from corroborating reporting on the same operation (Bleeping Computer, CBS News, The Hacker News, DOJ press release) and should be treated as *highly likely* accurate descriptions of the event itself, not necessarily of the BBC article behind this URL.
 

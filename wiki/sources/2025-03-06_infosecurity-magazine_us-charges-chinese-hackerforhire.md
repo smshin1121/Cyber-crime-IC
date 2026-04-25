@@ -17,6 +17,14 @@ created: 2026-04-23
 key_findings:
   - "Infosecurity Magazine reported on charges against i-Soon employees, PRC officers, and APT27-linked actors."
   - "The article summarized the alleged hacker-for-hire campaigns and rewards."
+raw_path: raw/news/2025-03-06_infosecurity-magazine_us-charges-chinese-hackerforhire.md
+text_status: summarized
+content_hash: sha256:be9db4a507e44212ccb00cd5b705ecac2defd996b6ca4daeb72ccf7ecc82abb9
+word_count: 920
+stored_word_count: 80
+extraction_date: 2026-04-25
+last_fetcher: urllib
+copyright_policy: summary-only
 ---
 ## Source Summary
 

@@ -2,7 +2,7 @@
 type: source
 title: "The BTC-e Indictment: A Major Blow against Online Criminal Activity"
 source_type: news
-publisher: "Lawfare"
+publisher: Lawfare
 author: "Nicholas Weaver"
 publish_date: 2017-07-27
 ingest_date: 2026-04-25
@@ -17,6 +17,14 @@ key_findings:
   - "Notes ~95% of ransomware payments processed through BTC-e"
 collection_url: https://www.lawfaremedia.org/article/btc-e-indictment-major-blow-against-online-criminal-activity
 created: 2026-04-25
+raw_path: raw/news/2017-07-27_lawfare_btc-e-indictment-major-blow-against-online-criminal-activity.md
+text_status: summarized
+content_hash: sha256:d927452104492f81746b9cb0110b32bdcd5d3f5f3121a215a295111dcef32d8a
+word_count: 1312
+stored_word_count: 80
+extraction_date: 2026-04-25
+last_fetcher: urllib
+copyright_policy: summary-only
 ---
 ## Source Summary
 

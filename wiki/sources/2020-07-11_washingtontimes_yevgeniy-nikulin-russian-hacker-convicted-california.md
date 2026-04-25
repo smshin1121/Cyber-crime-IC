@@ -17,6 +17,14 @@ key_findings:
   - "Documents Czech Republic extradition battle"
 collection_url: https://www.washingtontimes.com/news/2020/jul/11/yevgeniy-nikulin-russian-hacker-convicted-in-calif/
 created: 2026-04-25
+raw_path: raw/news/2020-07-11_washingtontimes_yevgeniy-nikulin-russian-hacker-convicted-california.md
+text_status: summarized
+content_hash: sha256:7d97be446c75e973166c76d32475705ec66cb38d047955ea5b47d980cdb893ce
+word_count: 889
+stored_word_count: 80
+extraction_date: 2026-04-25
+last_fetcher: urllib
+copyright_policy: summary-only
 ---
 ## Source Summary
 

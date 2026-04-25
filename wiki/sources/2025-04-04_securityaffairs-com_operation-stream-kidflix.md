@@ -12,11 +12,18 @@ reliability: medium
 credibility: confirmed
 sensitivity: public
 pages_updated:
-  []
+
 key_findings:
   - "Source referenced by ic-statistics-dashboard."
 collection_url: https://securityaffairs.com/176270/cyber-crime/operation-stream-kidflix-takedown.html
 created: 2026-04-17
+text_status: summarized
+content_hash: sha256:33dd5037457ab7abefc107954a502c092343eb4a6791aa698bc8bd8bdae85cff
+word_count: 573
+stored_word_count: 80
+extraction_date: 2026-04-25
+last_fetcher: urllib
+copyright_policy: summary-only
 ---
 ## Source Summary
 

@@ -2,7 +2,7 @@
 type: source
 title: "Iranian man pleads guilty in Robbinhood ransomware scheme"
 source_type: news
-publisher: "CyberScoop"
+publisher: CyberScoop
 author: "Greg Otto"
 publish_date: 2025-05-27
 ingest_date: 2026-04-25
@@ -17,6 +17,14 @@ key_findings:
   - "FBI Charlotte Field Office case with assistance from FBI Baltimore."
 collection_url: https://cyberscoop.com/iranian-man-pleads-guilty-in-robbinhood-ransomware-scheme/
 created: 2026-04-25
+raw_path: raw/news/2025-05-27_cyberscoop_iranian-man-pleads-guilty-robbinhood-ransomware-scheme.md
+text_status: summarized
+content_hash: sha256:d7808f95f6fd5c709eaaeb6d62f9e94ff0a4f518ddfca67dfc8c8d13a9e167fa
+word_count: 904
+stored_word_count: 80
+extraction_date: 2026-04-25
+last_fetcher: urllib
+copyright_policy: summary-only
 ---
 ## Source Summary
 

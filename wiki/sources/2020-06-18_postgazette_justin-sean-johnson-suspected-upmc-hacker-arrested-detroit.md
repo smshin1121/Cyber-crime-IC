@@ -3,7 +3,7 @@ type: source
 title: "Justin Sean Johnson, suspected UPMC hacker accused of stealing 65,000 employees' data, arrested in Detroit"
 source_type: news
 publisher: "Pittsburgh Post-Gazette"
-author: "Staff"
+author: Staff
 publish_date: 2020-06-18
 ingest_date: 2026-04-25
 language: en
@@ -17,6 +17,14 @@ key_findings:
   - "Pittsburgh-of-record local newspaper coverage of arrest"
 collection_url: https://www.post-gazette.com/news/crime-courts/2020/06/18/justin-sean-johnson-suspected-UMPC-hacker-accused-of-stealing-65-000-employee-data-arrested-in-Detroit/stories/202006180124
 created: 2026-04-25
+raw_path: raw/news/2020-06-18_postgazette_justin-sean-johnson-suspected-upmc-hacker-arrested-detroit.md
+text_status: summarized
+content_hash: sha256:5b3faff7a2241c6a7ef272bd293d52ca36ff5b852e8f51095a209f4d4a51826f
+word_count: 288
+stored_word_count: 80
+extraction_date: 2026-04-25
+last_fetcher: urllib
+copyright_policy: summary-only
 ---
 ## Source Summary
 

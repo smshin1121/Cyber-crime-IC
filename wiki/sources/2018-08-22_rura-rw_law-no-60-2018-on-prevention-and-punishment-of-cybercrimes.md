@@ -12,11 +12,18 @@ reliability: medium
 credibility: confirmed
 sensitivity: public
 pages_updated:
-  []
+
 key_findings:
   - "Rwanda is a recent **[[budapest-convention|Budapest Convention]] party**, having deposited its instrument of accession on **10 January 2025** [1]. Rwanda has been an active partner in Council of Europe capacity-building programmes, particularly the **GLACY+** programme run by [[c-proc|C-PROC]]."
 collection_url: https://www.rura.rw/
 created: 2026-04-17
+text_status: summarized
+content_hash: sha256:96eeff176afb461f4507a250021c77cfc1d9fc2b2a4f91b7aec6fc31569189c7
+word_count: 442
+stored_word_count: 80
+extraction_date: 2026-04-25
+last_fetcher: urllib
+copyright_policy: summary-only
 ---
 ## Source Summary
 

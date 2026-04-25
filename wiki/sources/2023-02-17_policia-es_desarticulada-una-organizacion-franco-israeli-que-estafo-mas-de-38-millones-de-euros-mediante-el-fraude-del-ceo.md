@@ -12,11 +12,18 @@ reliability: high
 credibility: confirmed
 sensitivity: public
 pages_updated:
-  []
+
 key_findings:
   - "Spain's Policía Nacional said the Europol-coordinated investigation led to eight arrests and documented the Spanish strand, including a Madrid company used to receive nearly EUR 900,000 in fraud proceeds."
-collection_url: https://www.policia.es/_es/comunicacion_prensa_detalle.php?ID=15327
+collection_url: "https://www.policia.es/_es/comunicacion_prensa_detalle.php?ID=15327"
 created: 2026-04-23
+text_status: summarized
+content_hash: sha256:743a7f2e4329e23d508540dc6d503b1a4b37004b7ba0b7bf514c0a12f79d5aa6
+word_count: 1074
+stored_word_count: 80
+extraction_date: 2026-04-25
+last_fetcher: urllib
+copyright_policy: summary-only
 ---
 ## Source Summary
 

@@ -2,7 +2,7 @@
 type: source
 title: "Wakefield man sentenced for plot to support ISIS terrorism with gift cards"
 source_type: news
-publisher: "Boston.com"
+publisher: Boston.com
 author: "Shannon Murphy"
 publish_date: 2026-01-09
 ingest_date: 2026-04-25
@@ -20,6 +20,14 @@ key_findings:
   - "Total donations exceeded $1,670 across periods including before defendant turned 18."
 collection_url: https://www.boston.com/news/crime/2026/01/09/wakefield-man-sentenced-for-plot-to-support-isis-terrorism-with-gift-cards/
 created: 2026-04-25
+raw_path: raw/news/2026-01-09_boston-com_wakefield-man-sentenced-for-plot-to-support-isis-terrorism-with-gift-cards.md
+text_status: summarized
+content_hash: sha256:e84b4d6d9d5e2b5f410eb60b9aad8a48411bad0dffc1aa9e13dcfbfa05ade230
+word_count: 145
+stored_word_count: 80
+extraction_date: 2026-04-25
+last_fetcher: urllib
+copyright_policy: summary-only
 ---
 ## Source Summary
 

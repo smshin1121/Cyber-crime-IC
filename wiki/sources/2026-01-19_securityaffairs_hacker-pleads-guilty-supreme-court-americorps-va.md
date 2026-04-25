@@ -17,6 +17,14 @@ key_findings:
   - "Class A misdemeanor; up to 1yr / $100K fine."
 collection_url: https://securityaffairs.com/187048/security/hacker-pleads-guilty-to-hacking-supreme-court-americorps-and-va-systems.html
 created: 2026-04-25
+raw_path: raw/news/2026-01-19_securityaffairs_hacker-pleads-guilty-supreme-court-americorps-va.md
+text_status: summarized
+content_hash: sha256:050e7ddc67fa4b1eeb5138172e757f8dc11b868cdb039c5f69b0347fe693adf9
+word_count: 871
+stored_word_count: 80
+extraction_date: 2026-04-25
+last_fetcher: urllib
+copyright_policy: summary-only
 ---
 ## Source Summary
 

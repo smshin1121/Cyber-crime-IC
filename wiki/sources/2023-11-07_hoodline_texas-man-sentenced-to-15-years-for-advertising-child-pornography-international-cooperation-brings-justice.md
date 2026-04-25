@@ -2,7 +2,7 @@
 type: source
 title: "Texas Man Sentenced to 15 Years for Advertising Child Sexual Abuse Material, International Cooperation Brings Justice"
 source_type: news
-publisher: "Hoodline"
+publisher: Hoodline
 author: "Sam Cavanaugh"
 publish_date: 2023-11-07
 ingest_date: 2026-04-25
@@ -18,6 +18,14 @@ key_findings:
   - "Swedish defendant received 7-year sentence in Sweden; Grubert received 15-year U.S. sentence."
 collection_url: https://hoodline.com/2023/11/texas-man-sentenced-to-15-years-for-advertising-child-pornography-international-cooperation-brings-justice/
 created: 2026-04-25
+raw_path: raw/news/2023-11-07_hoodline_texas-man-sentenced-to-15-years-for-advertising-child-pornography-international-cooperation-brings-justice.md
+text_status: summarized
+content_hash: sha256:c0c820691cd7cb7ca85a37b73791dc99bf3ca57587f38063864c25182ab68e50
+word_count: 942
+stored_word_count: 80
+extraction_date: 2026-04-25
+last_fetcher: urllib
+copyright_policy: summary-only
 ---
 ## Source Summary
 

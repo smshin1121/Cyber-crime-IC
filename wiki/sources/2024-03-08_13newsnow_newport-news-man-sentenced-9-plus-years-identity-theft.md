@@ -3,7 +3,7 @@ type: source
 title: "Newport News man sentenced to 9-plus years for identity theft"
 source_type: news
 publisher: "13News Now (WVEC)"
-author: "Staff"
+author: Staff
 publish_date: 2024-03-08
 ingest_date: 2026-04-25
 language: en
@@ -18,6 +18,14 @@ key_findings:
   - "Independent local CBS affiliate coverage; direct WebFetch timed out, content confirmed via WebSearch snippet."
 collection_url: https://www.13newsnow.com/article/news/crime/newport-news-man-sentenced-to-prison-for-credit-card-scheme/291-4c766886-2fdd-431c-abaa-ed0ed8a391f2
 created: 2026-04-25
+raw_path: raw/news/2024-03-08_13newsnow_newport-news-man-sentenced-9-plus-years-identity-theft.md
+text_status: summarized
+content_hash: sha256:850b4d09ec701ae8ee3e132adaa6300a02fdb0eb3f266c63895a99f979f1b6f1
+word_count: 554
+stored_word_count: 80
+extraction_date: 2026-04-25
+last_fetcher: urllib
+copyright_policy: summary-only
 ---
 ## Source Summary
 

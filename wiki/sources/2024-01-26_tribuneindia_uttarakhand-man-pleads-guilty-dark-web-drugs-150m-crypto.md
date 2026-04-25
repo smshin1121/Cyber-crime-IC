@@ -3,7 +3,7 @@ type: source
 title: "Uttarakhand man in US pleads guilty in dark web drug case; $150 million in crypto, cash seized"
 source_type: news
 publisher: "The Tribune India"
-author: "Staff"
+author: Staff
 publish_date: 2024-01-26
 ingest_date: 2026-04-25
 language: en
@@ -17,6 +17,14 @@ key_findings:
   - "UK NCA characterized $150M as largest single DEA seizure in history."
 collection_url: https://www.tribuneindia.com/news/uttarakhand/uttarakhand-man-in-us-pleads-guilty-in-dark-web-drug-case-largest-ever-150m-in-crypto-cash-seized-585421/
 created: 2026-04-25
+raw_path: raw/news/2024-01-26_tribuneindia_uttarakhand-man-pleads-guilty-dark-web-drugs-150m-crypto.md
+text_status: summarized
+content_hash: sha256:90728aa4071442272dfb0f4c28a83333168176df0e99ee20978bb421ccc38957
+word_count: 256
+stored_word_count: 80
+extraction_date: 2026-04-25
+last_fetcher: urllib
+copyright_policy: summary-only
 ---
 ## Source Summary
 

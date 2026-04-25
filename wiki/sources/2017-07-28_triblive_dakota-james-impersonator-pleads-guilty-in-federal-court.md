@@ -18,6 +18,14 @@ key_findings:
   - "Confirms Judge Nora Barry Fischer presided over plea."
 collection_url: https://archive.triblive.com/local/pittsburgh-allegheny/dakota-james-impersonator-pleads-guilty-in-federal-court/
 created: 2026-04-25
+raw_path: raw/news/2017-07-28_triblive_dakota-james-impersonator-pleads-guilty-in-federal-court.md
+text_status: summarized
+content_hash: sha256:62b9917c1d02c20ff07640ebe37ea916fa32d8be20d661ceb1dcb2ac6632f10c
+word_count: 681
+stored_word_count: 80
+extraction_date: 2026-04-25
+last_fetcher: urllib
+copyright_policy: summary-only
 ---
 ## Source Summary
 

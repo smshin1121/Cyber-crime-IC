@@ -17,6 +17,14 @@ key_findings:
   - "The summary preserved a separate URL referencing the Udvardi sentencing in the context of broader fentanyl-pill enforcement."
 collection_url: https://www.safemedicines.org/2023/08/aug-21-2023.html
 created: 2026-04-25
+raw_path: raw/news/2023-08-21_safemedicines_org_aug-21-2023.md
+text_status: summarized
+content_hash: sha256:c61317955a220b5745722cd26c1f78751190121d479d7876fb465931b2a9d9f8
+word_count: 1362
+stored_word_count: 80
+extraction_date: 2026-04-25
+last_fetcher: urllib
+copyright_policy: summary-only
 ---
 ## Source Summary
 

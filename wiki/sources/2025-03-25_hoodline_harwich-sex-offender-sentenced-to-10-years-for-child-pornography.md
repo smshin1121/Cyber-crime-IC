@@ -2,7 +2,7 @@
 type: source
 title: "Harwich Sex Offender Sentenced to 10 Years for Child Pornography, Faces Additional State Prison Term for Attempted Kidnapping"
 source_type: news
-publisher: "Hoodline"
+publisher: Hoodline
 author: "Benjamin Cortez"
 publish_date: 2025-03-25
 ingest_date: 2026-04-25
@@ -18,6 +18,14 @@ key_findings:
   - "Judge Allison D. Burroughs presiding."
 collection_url: https://hoodline.com/2025/03/harwich-sex-offender-sentenced-to-10-years-for-child-pornography-faces-additional-state-prison-term-for-attempted-kidnapping/
 created: 2026-04-25
+raw_path: raw/news/2025-03-25_hoodline_harwich-sex-offender-sentenced-to-10-years-for-child-pornography.md
+text_status: summarized
+content_hash: sha256:d7e12cc24b70c9d5c1425f816646b9685691b0f98bdc20b33c4a15bcd63580a5
+word_count: 1168
+stored_word_count: 80
+extraction_date: 2026-04-25
+last_fetcher: urllib
+copyright_policy: summary-only
 ---
 ## Source Summary
 

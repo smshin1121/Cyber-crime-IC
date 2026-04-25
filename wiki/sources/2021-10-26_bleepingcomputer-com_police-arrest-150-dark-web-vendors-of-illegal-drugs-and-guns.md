@@ -12,11 +12,18 @@ reliability: medium
 credibility: confirmed
 sensitivity: public
 pages_updated:
-  []
+
 key_findings:
   - "Operation Dark HunTOR was a coordinated international law enforcement action announced on 26 October 2021 that resulted in the arrest of 150 suspected dark web drug traffickers across nine countries. The operation seized approximately EUR 26.7 million (~USD 31 million) in cash and cryptocurrency, 234 kg of drugs, and 45 firearms. Coordinated by [[europol-ec3|Europol's European Cybercrime Centre (EC3)]] and [[eurojust|Eurojust]], Dark HunTOR is almost certainly the largest follow-on enforcement action stemming from a single dark web marketplace seizure, building directly on the January 2021 takedown of [[darkmarket-takedown|DarkMarket]]."
 collection_url: https://www.bleepingcomputer.com/news/security/police-arrest-150-dark-web-vendors-of-illegal-drugs-and-guns/
 created: 2026-04-17
+text_status: summarized
+content_hash: sha256:37dfaf3ea254a13591954fc5b60e60e1b3daa927446343359e32e354bff247d0
+word_count: 1137
+stored_word_count: 80
+extraction_date: 2026-04-25
+last_fetcher: urllib
+copyright_policy: summary-only
 ---
 ## Source Summary
 

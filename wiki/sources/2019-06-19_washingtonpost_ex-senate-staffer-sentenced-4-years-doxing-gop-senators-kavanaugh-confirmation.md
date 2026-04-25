@@ -17,6 +17,14 @@ key_findings:
   - "Court documents detailed months of burglaries of Sen. Maggie Hassan's Senate office"
 collection_url: https://www.washingtonpost.com/local/legal-issues/ex-senate-staffer-sentenced-to-4-years-for-doxing-gop-senators-in-kavanaugh-confirmation-fight/2019/06/19/31a977a8-92aa-11e9-b58a-a6a9afaa0e3e_story.html
 created: 2026-04-25
+raw_path: raw/news/2019-06-19_washingtonpost_ex-senate-staffer-sentenced-4-years-doxing-gop-senators-kavanaugh-confirmation.md
+text_status: summarized
+content_hash: sha256:13d0846fc1706ee5cb5c93f79fa56ac716be64c831f9912514a4785fea3edb73
+word_count: 2042
+stored_word_count: 80
+extraction_date: 2026-04-25
+last_fetcher: jina
+copyright_policy: summary-only
 ---
 ## Source Summary
 

@@ -12,11 +12,18 @@ reliability: medium
 credibility: confirmed
 sensitivity: public
 pages_updated:
-  []
+
 key_findings:
   - "In June 2015, Europol announced the takedown of a cybercrime syndicate responsible for distributing the **Zeus** and **SpyEye** banking trojans. These malware families were among the most prolific financial cybercrime tools of the 2010s, responsible for stealing hundreds of millions of dollars from online banking users worldwide."
 collection_url: https://news.sophos.com/en-us/2015/06/30/zeus-and-spyeye-crime-syndicate-taken-down-by-europol/
 created: 2026-04-17
+text_status: summarized
+content_hash: sha256:aae5f918cbeebad6d642a3e35ad58fe98d438ea890a0282fde21afdfabc30233
+word_count: 2498
+stored_word_count: 80
+extraction_date: 2026-04-25
+last_fetcher: jina
+copyright_policy: summary-only
 ---
 ## Source Summary
 

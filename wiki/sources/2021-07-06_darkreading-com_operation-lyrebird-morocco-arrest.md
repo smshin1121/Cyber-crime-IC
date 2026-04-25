@@ -1,7 +1,7 @@
 ---
 type: source
 title: "INTERPOL operation leads to Morocco arrest in phishing and carding case"
-raw_path: ""
+raw_path: raw/news/2021-07-06_darkreading-com_operation-lyrebird-morocco-arrest.md
 source_type: news
 publisher: "Dark Reading"
 author: ""
@@ -18,6 +18,13 @@ key_findings:
   - "The article described the suspect's role in phishing and carding ecosystems and the public-private cooperation model."
 collection_url: https://www.darkreading.com/cyberattacks-data-breaches/interpol-operation-lyrebird-morocco-arrest
 created: 2026-04-23
+text_status: summarized
+content_hash: sha256:f213e05fdddbce34fd2ee01aa453dc8a0d5306ff460189056a11e14891cc3f18
+word_count: 906
+stored_word_count: 80
+extraction_date: 2026-04-25
+last_fetcher: jina
+copyright_policy: summary-only
 ---
 ## Source Summary
 

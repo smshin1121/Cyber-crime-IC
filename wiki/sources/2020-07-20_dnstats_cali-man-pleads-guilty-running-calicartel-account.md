@@ -2,8 +2,8 @@
 type: source
 title: "Cali Man Pleads Guilty after running 'CaliCartel' Account"
 source_type: news
-publisher: "DNStats"
-author: "Staff"
+publisher: DNStats
+author: Staff
 publish_date: 2020-07-20
 ingest_date: 2026-04-25
 language: en
@@ -17,6 +17,14 @@ key_findings:
   - "Trade press parallel confirmation of the conspiracy."
 collection_url: https://dnstats.net/news/california-calicartel/
 created: 2026-04-25
+raw_path: raw/news/2020-07-20_dnstats_cali-man-pleads-guilty-running-calicartel-account.md
+text_status: summarized
+content_hash: sha256:06575a0066e9d86f387a76eaa753571af22e812f39a95fa76e23d5fcfd2827d9
+word_count: 526
+stored_word_count: 80
+extraction_date: 2026-04-25
+last_fetcher: urllib
+copyright_policy: summary-only
 ---
 ## Source Summary
 

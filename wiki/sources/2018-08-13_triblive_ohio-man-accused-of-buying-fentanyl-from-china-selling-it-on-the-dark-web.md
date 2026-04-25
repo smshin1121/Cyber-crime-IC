@@ -17,6 +17,14 @@ key_findings:
   - "Confirms FBI undercover buy in Pittsburgh as the basis for W.D. Pa. jurisdiction."
 collection_url: https://archive.triblive.com/local/pittsburgh-allegheny/ohio-man-accused-of-buying-fentanyl-from-china-selling-it-on-the-dark-web/
 created: 2026-04-25
+raw_path: raw/news/2018-08-13_triblive_ohio-man-accused-of-buying-fentanyl-from-china-selling-it-on-the-dark-web.md
+text_status: summarized
+content_hash: sha256:f1181dc4a632d03e60a7bd6a3631369940e3510bb4e9e66838e60affb40f781e
+word_count: 956
+stored_word_count: 80
+extraction_date: 2026-04-25
+last_fetcher: urllib
+copyright_policy: summary-only
 ---
 ## Source Summary
 

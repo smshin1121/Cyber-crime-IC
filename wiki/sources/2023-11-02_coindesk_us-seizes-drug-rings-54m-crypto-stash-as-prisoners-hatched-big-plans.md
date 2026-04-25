@@ -2,7 +2,7 @@
 type: source
 title: "Prisoners' Dreams to Stash $54M in Crypto in Exotic Locales Dashed as Feds Grab It for Treasury"
 source_type: news
-publisher: "CoinDesk"
+publisher: CoinDesk
 author: "Jesse Hamilton"
 publish_date: 2023-11-02
 ingest_date: 2026-04-25
@@ -17,6 +17,14 @@ key_findings:
   - "FBI Newark Special Agent quoted on tracing illicit cryptocurrency"
 collection_url: https://www.coindesk.com/policy/2023/11/02/us-seizes-drug-rings-54m-crypto-stash-as-prisoners-hatched-big-plans-for-assets
 created: 2026-04-25
+raw_path: raw/news/2023-11-02_coindesk_us-seizes-drug-rings-54m-crypto-stash-as-prisoners-hatched-big-plans.md
+text_status: summarized
+content_hash: sha256:f8434c00336303feee4ca1cf8800581201d2b63d10bf1f051979b17b851ca63f
+word_count: 748
+stored_word_count: 80
+extraction_date: 2026-04-25
+last_fetcher: urllib
+copyright_policy: summary-only
 ---
 ## Source Summary
 

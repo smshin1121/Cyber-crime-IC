@@ -17,6 +17,14 @@ key_findings:
   - "Notes related case of Secret Service agent Shaun Bridges prosecuted separately"
 collection_url: https://www.nbcnews.com/tech/tech-news/corrupt-silk-road-dea-agent-carl-force-gets-over-6-n447466
 created: 2026-04-25
+raw_path: raw/news/2015-10-19_nbcnews_corrupt-silk-road-dea-agent-carl-force-gets-over-6-years-prison.md
+text_status: summarized
+content_hash: sha256:a0b4c28054e71872af7e9133fc690c61ba9100588d5aa788d388749208e45a3d
+word_count: 623
+stored_word_count: 80
+extraction_date: 2026-04-25
+last_fetcher: urllib
+copyright_policy: summary-only
 ---
 ## Source Summary
 

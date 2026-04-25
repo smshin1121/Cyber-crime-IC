@@ -3,7 +3,7 @@ type: source
 title: "Cyber-stalker who posed as missing Duquesne University student gets federal prison"
 source_type: news
 publisher: "Pittsburgh Post-Gazette"
-author: "Staff"
+author: Staff
 publish_date: 2018-08-14
 ingest_date: 2026-04-25
 language: en
@@ -18,6 +18,14 @@ key_findings:
   - "URL existence verified via search engine indexing."
 collection_url: https://www.post-gazette.com/news/crime-courts/2018/08/14/Cyber-stalker-Nathaniel-Earl-Dunlap-Dakota-James-harassment-neighbor-federal-prison/stories/201808140116
 created: 2026-04-25
+raw_path: raw/news/2018-08-14_postgazette_cyber-stalker-nathaniel-earl-dunlap-dakota-james-harassment-neighbor-federal-prison.md
+text_status: summarized
+content_hash: sha256:3152744ae61b699d92c75a7ae8747c84a58250756cb4da34188afa7d11c98283
+word_count: 285
+stored_word_count: 80
+extraction_date: 2026-04-25
+last_fetcher: urllib
+copyright_policy: summary-only
 ---
 ## Source Summary
 

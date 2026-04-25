@@ -2,7 +2,7 @@
 type: source
 title: "DeepDotWeb (Wikipedia)"
 source_type: news
-publisher: "Wikipedia"
+publisher: Wikipedia
 author: "Wikipedia contributors"
 publish_date: 2026-03-21
 ingest_date: 2026-04-25
@@ -17,6 +17,14 @@ key_findings:
   - "Records DOJ-cited figure of ~23.6% AlphaBay traffic referred via DeepDotWeb."
 collection_url: https://en.wikipedia.org/wiki/DeepDotWeb
 created: 2026-04-25
+raw_path: raw/news/2026-03-21_wikipedia_deepdotweb.md
+text_status: summarized
+content_hash: sha256:dc92acf1a9f92406a580a4d2cabbe54bf51de2e6803367718a3735351330b996
+word_count: 1638
+stored_word_count: 80
+extraction_date: 2026-04-25
+last_fetcher: urllib
+copyright_policy: summary-only
 ---
 ## Source Summary
 

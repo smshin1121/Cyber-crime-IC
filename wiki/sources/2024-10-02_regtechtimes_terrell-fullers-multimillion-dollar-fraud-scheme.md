@@ -18,6 +18,14 @@ key_findings:
   - "Names AUSA Andrew Kogan of the USAO-NJ Cybercrime Unit as prosecutor"
 collection_url: https://regtechtimes.com/terrell-fullers-multimillion-dollar-fraud-scheme/
 created: 2026-04-25
+raw_path: raw/news/2024-10-02_regtechtimes_terrell-fullers-multimillion-dollar-fraud-scheme.md
+text_status: summarized
+content_hash: sha256:d43a37db6af1747191493e28613a60d893452bed90f74e8159a33cd311724776
+word_count: 1333
+stored_word_count: 80
+extraction_date: 2026-04-25
+last_fetcher: urllib
+copyright_policy: summary-only
 ---
 ## Source Summary
 

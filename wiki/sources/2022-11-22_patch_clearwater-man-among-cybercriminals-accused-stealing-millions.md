@@ -3,7 +3,7 @@ type: source
 title: "Clearwater Man Among Cybercriminals Accused Of Stealing Millions"
 source_type: news
 publisher: "Patch (Clearwater, FL)"
-author: "Staff"
+author: Staff
 publish_date: 2022-11-22
 ingest_date: 2026-04-25
 language: en
@@ -18,6 +18,14 @@ key_findings:
   - "Names Elan as one of eight indicted cybercriminals."
 collection_url: https://patch.com/florida/clearwater/clearwater-man-among-cybercriminals-accused-stealing-millions
 created: 2026-04-25
+raw_path: raw/news/2022-11-22_patch_clearwater-man-among-cybercriminals-accused-stealing-millions.md
+text_status: summarized
+content_hash: sha256:7c884e5337d79cd6b9ccc2a7fa162c2308fc2fbb35999e46a2723a3432d53f20
+word_count: 923
+stored_word_count: 80
+extraction_date: 2026-04-25
+last_fetcher: urllib
+copyright_policy: summary-only
 ---
 ## Source Summary
 

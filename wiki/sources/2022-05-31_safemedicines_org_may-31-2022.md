@@ -17,6 +17,14 @@ key_findings:
   - "The item placed the case in a broader counterfeit-pill enforcement context and preserved a separate URL referencing the plea."
 collection_url: https://www.safemedicines.org/2022/05/may-31-2022.html
 created: 2026-04-25
+raw_path: raw/news/2022-05-31_safemedicines_psm-online-congressional-briefing-drug-importation.md
+text_status: summarized
+content_hash: sha256:145739e65f0565a9c0c2ec2c99765021743e8073e65c23f101802b68207b60c0
+word_count: 1663
+stored_word_count: 80
+extraction_date: 2026-04-25
+last_fetcher: urllib
+copyright_policy: summary-only
 ---
 ## Source Summary
 

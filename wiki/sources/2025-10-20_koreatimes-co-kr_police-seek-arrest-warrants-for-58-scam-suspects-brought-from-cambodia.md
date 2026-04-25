@@ -1,7 +1,7 @@
 ---
 type: source
 title: "Police seek arrest warrants for 58 scam suspects brought from Cambodia"
-raw_path: ""
+raw_path: raw/news/2025-10-20_koreatimes-co-kr_police-seek-arrest-warrants-for-58-scam-suspects-brought-from-cambodia.md
 source_type: news
 publisher: "The Korea Times"
 author: ""
@@ -18,6 +18,13 @@ key_findings:
   - "The article described the first repatriation batch of 64 and the immediate post-arrival case handling."
 collection_url: https://www.koreatimes.co.kr/southkorea/law-crime/20251020/police-seek-arrest-warrants-for-59-scam-suspects-brought-from-cambodia
 created: 2026-04-23
+text_status: summarized
+content_hash: sha256:cee0952d6c5d0ca1edbf256ced79acbbb79e3dbec988f51caf9f4f4535a6926d
+word_count: 364
+stored_word_count: 80
+extraction_date: 2026-04-25
+last_fetcher: urllib
+copyright_policy: summary-only
 ---
 ## Source Summary
 

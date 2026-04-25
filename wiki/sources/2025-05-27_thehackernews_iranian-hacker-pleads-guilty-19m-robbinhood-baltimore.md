@@ -17,6 +17,14 @@ key_findings:
   - "Robbinhood operational pattern targeted cities, healthcare, and corporate networks."
 collection_url: https://thehackernews.com/2025/05/iranian-hacker-pleads-guilty-in-19.html
 created: 2026-04-25
+raw_path: raw/news/2025-05-27_thehackernews_iranian-hacker-pleads-guilty-19m-robbinhood-baltimore.md
+text_status: summarized
+content_hash: sha256:626b3c45059e783f114643c1c12eeed016753fa3e352b3752e02d5b71f85217b
+word_count: 938
+stored_word_count: 80
+extraction_date: 2026-04-25
+last_fetcher: urllib
+copyright_policy: summary-only
 ---
 ## Source Summary
 

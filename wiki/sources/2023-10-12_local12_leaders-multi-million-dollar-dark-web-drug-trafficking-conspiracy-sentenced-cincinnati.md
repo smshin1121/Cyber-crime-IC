@@ -18,6 +18,14 @@ key_findings:
   - "Investigation coordinated through FBI's Cincinnati Field Office"
 collection_url: https://local12.com/news/local/drug-trafficking-money-laundering-dark-web-leaders-sentenced-khlari-sirotkin-sean-deaver-illegal-substances-opioids-fentanyl-laced-counterfeit-pills-ring-conspiracy-online-marketplace-fbi-investigation-southern-district-ohio-cincinnati
 created: 2026-04-25
+raw_path: raw/news/2023-10-12_local12_leaders-multi-million-dollar-dark-web-drug-trafficking-conspiracy-sentenced-cincinnati.md
+text_status: summarized
+content_hash: sha256:8a1368d6626282e106b7c5acb4c9f8a0409bdda6586e371433ba3fed12f19e41
+word_count: 747
+stored_word_count: 80
+extraction_date: 2026-04-25
+last_fetcher: urllib
+copyright_policy: summary-only
 ---
 ## Source Summary
 

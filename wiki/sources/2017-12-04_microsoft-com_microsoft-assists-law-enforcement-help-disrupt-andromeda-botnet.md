@@ -19,6 +19,14 @@ key_findings:
   - "Microsoft states that its Digital Crimes Unit and security teams supported law enforcement and partners in disrupting Gamarue/Andromeda after a coordinated eradication campaign."
   - "The post helps explain the private-sector sinkhole and technical-assistance role behind the 2017 multinational operation."
 created: 2026-04-18
+raw_path: raw/press-releases/2017-12-04_microsoft-com_microsoft-assists-law-enforcement-to-help-disrupt-the-andromeda-botnet.md
+text_status: summarized
+content_hash: sha256:bc1deadf2b55417170a95e08fb21f489981cd6a52069b59b304b4a2e7467e79b
+word_count: 1033
+stored_word_count: 80
+extraction_date: 2026-04-25
+last_fetcher: urllib
+copyright_policy: summary-only
 ---
 ## Source Summary
 

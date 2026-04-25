@@ -17,6 +17,14 @@ key_findings:
   - "Dark web hitman site was a scam (no actual murder service)."
 collection_url: https://lasvegassun.com/news/2023/jul/21/a-nevada-woman-who-hired-a-hitman-using-bitcoin-to/
 created: 2026-04-25
+raw_path: raw/news/2023-07-21_lasvegassun_nevada-woman-hired-hitman-using-bitcoin-five-years-prison.md
+text_status: summarized
+content_hash: sha256:23e1e4fba80f71a1a578a7fda8744a621d688623f690b1e4447034d3057f04b4
+word_count: 518
+stored_word_count: 80
+extraction_date: 2026-04-25
+last_fetcher: urllib
+copyright_policy: summary-only
 ---
 ## Source Summary
 

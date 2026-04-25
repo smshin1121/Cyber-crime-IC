@@ -20,6 +20,14 @@ key_findings:
   - "Allison served as a moderator on dark web CSAM sites."
 collection_url: https://www.wbko.com/2023/09/05/glasgow-man-pleads-guilty-advertising-child-pornography/
 created: 2026-04-25
+raw_path: raw/news/2023-09-05_wbko_glasgow-man-pleads-guilty-advertising-child-pornography.md
+text_status: summarized
+content_hash: sha256:e5d509b2034820488bbdf7540ac7e0de3c3cfefe49350d31ed5dd6cec0414d80
+word_count: 681
+stored_word_count: 80
+extraction_date: 2026-04-25
+last_fetcher: urllib
+copyright_policy: summary-only
 ---
 ## Source Summary
 

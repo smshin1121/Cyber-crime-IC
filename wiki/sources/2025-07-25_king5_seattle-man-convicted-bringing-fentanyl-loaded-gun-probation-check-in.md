@@ -3,7 +3,7 @@ type: source
 title: "Seattle man convicted after bringing fentanyl, loaded gun to probation check-in"
 source_type: news
 publisher: "KING 5 Seattle"
-author: "Staff"
+author: Staff
 publish_date: 2025-07-25
 ingest_date: 2026-04-25
 language: en
@@ -17,6 +17,14 @@ key_findings:
   - "Arrested Feb 22 2024 outside community corrections office"
 collection_url: https://www.king5.com/article/news/crime/seattle-man-convicted-fentanyl-loaded-gun-probation/281-a1a65742-c35d-4fd8-a8e6-e72fc3a13345
 created: 2026-04-25
+raw_path: raw/news/2025-07-25_king5_seattle-man-convicted-bringing-fentanyl-loaded-gun-probation-check-in.md
+text_status: summarized
+content_hash: sha256:c98123353e0b7dbbf84c6bad67455bbe7800f6d7dc6657e041133d1f507742dc
+word_count: 727
+stored_word_count: 80
+extraction_date: 2026-04-25
+last_fetcher: urllib
+copyright_policy: summary-only
 ---
 ## Source Summary
 

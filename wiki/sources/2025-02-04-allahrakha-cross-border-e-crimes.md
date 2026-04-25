@@ -1,32 +1,38 @@
 ---
 type: source
 title: "Cross-Border E-Crimes: Jurisdiction and Due Process Challenges"
-raw_path: "raw/academic-papers/2026-04-10_openalex-academic_cross-border-e-crimes-jurisdiction-and-due-process-challenge.md"
-source_type: "academic-paper"
+raw_path: raw/academic-papers/2026-04-10_openalex-academic_cross-border-e-crimes-jurisdiction-and-due-process-challenge.md
+source_type: academic-paper
 publisher: "ADLIYA: Jurnal Hukum dan Kemanusiaan"
 author: "Naeem AllahRakha"
 author_affiliation: "Tashkent State University of Law"
-publish_date: "2025-02-04"
-ingest_date: "2026-04-10"
-language: "en"
-reliability: "medium-high"
-credibility: "probably-true"
-sensitivity: "public"
+publish_date: 2025-02-04
+ingest_date: 2026-04-10
+language: en
+reliability: medium-high
+credibility: probably-true
+sensitivity: public
 pages_updated:
-  - "budapest-convention"
-  - "mlat-process"
-  - "data-sovereignty"
+  - budapest-convention
+  - mlat-process
+  - data-sovereignty
 key_findings:
   - "Current legal frameworks for collecting and sharing digital evidence across jurisdictions are fragmented, limiting practical cooperation"
   - "MLA requests in cybercrime cases experience delays from coordination issues and procedural bottlenecks"
   - "Cloud-based platforms create significant lawful access gaps"
   - "Calls for a coordinated and standardised global strategy beyond Budapest Convention"
-collection_url: "https://doi.org/10.15575/adliya.v18i2.38633"
+collection_url: https://doi.org/10.15575/adliya.v18i2.38633
 collection_method: "auto-collect (OpenAlex)"
-doi: "10.15575/adliya.v18i2.38633"
+doi: 10.15575/adliya.v18i2.38633
 created: 2026-04-10
+text_status: summarized
+content_hash: sha256:7a0c6123470004df989cf128d6f75e75527d72d9849bd28f69b5f4c0a9c705f3
+word_count: 919
+stored_word_count: 80
+extraction_date: 2026-04-25
+last_fetcher: urllib
+copyright_policy: summary-only
 ---
-
 ## Summary
 
 Academic paper by Naeem AllahRakha (Tashkent State University of Law) examining how international legal frameworks — particularly the **[[budapest-convention|Budapest Convention on Cybercrime]]** — address cross-border investigations. Published February 4, 2025 in *ADLIYA: Jurnal Hukum dan Kemanusiaan*.

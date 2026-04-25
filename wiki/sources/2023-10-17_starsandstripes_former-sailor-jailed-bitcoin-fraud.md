@@ -17,6 +17,14 @@ key_findings:
   - "Used 7th Fleet cover story for database fraud."
 collection_url: https://www.stripes.com/theaters/us/2023-10-17/former-sailor-jailed-bitcoin-fraud-11733917.html
 created: 2026-04-25
+raw_path: raw/news/2023-10-17_starsandstripes_former-sailor-jailed-bitcoin-fraud.md
+text_status: summarized
+content_hash: sha256:78b3dba067f22b68f8dc666b7649de2ffd220288307b350ecb5d42dd56e9a100
+word_count: 963
+stored_word_count: 80
+extraction_date: 2026-04-25
+last_fetcher: urllib
+copyright_policy: summary-only
 ---
 ## Source Summary
 
