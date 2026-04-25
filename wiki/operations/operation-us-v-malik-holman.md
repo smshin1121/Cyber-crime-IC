@@ -64,11 +64,21 @@ sources:
   - "[[2026-04-18_justice-gov_parolee-indicted-illegal-possession-firearm]]"
 summary: "This domestic-only U.S. follow-on record has been absorbed into the canonical case page [[us-v-malik-holman]]. No visible cross-border mechanism is documented, so it is not treated as a separate international-cooperation operation."
 created: 2026-04-18
-updated: 2026-04-22
+updated: 2026-04-25
 ---
 ## Summary
 
 This domestic-only U.S. follow-on record has been absorbed into the canonical case page [[us-v-malik-holman]]. No visible cross-border mechanism is documented, so it is not treated as a separate international-cooperation operation.
+
+> [!info] Source enrichment — single-source justification (2026-04-25)
+> Searched for additional credible sources covering this defendant/case (Malik Holman):
+> - DOJ follow-up press releases (sentencing/conviction): not found
+> - Parallel federal agency press releases (FBI/DEA/IRS-CI/ICE/HSI): not found
+> - Court records: docket would exist but no narrative coverage found
+> - Local press coverage in Kansas City: not found in dedicated reporting
+> - Specialized trade press: not found
+>
+> This appears to be a single-press-release domestic Operation Take Back America firearm-possession action with no independent secondary coverage. `source_count: 1` is retained per LESSON L19 (do not assert sources that do not exist).
 
 ## Canonical Record
 

@@ -59,12 +59,16 @@ challenges_encountered:
 
 lessons_learned:
 
-source_count: 1
+source_count: 5
 sources:
   - "[[2022-01-11_justice-gov_united-states-v-jose-rodolfo-barraza-flores]]"
+  - "[[2022-01-12_15minutos_13-anos-carcel-florida-drogas-internet-oscura]]"
+  - "[[2022-01-12_lopezdoriga_hombre-13-anos-carcel-internet-oscura]]"
+  - "[[2022-01-12_periodicovictoria_hombre-pasara-13-anos-prision-dark-web]]"
+  - "[[2022-01-13_darknetstats_empire-market-vendor-arizona-160-months-meth]]"
 summary: "This domestic-only U.S. follow-on record has been absorbed into the canonical case page [[us-v-jose-rodolfo-barraza-flores]]. No visible cross-border mechanism is documented, so it is not treated as a separate international-cooperation operation."
 created: 2026-04-17
-updated: 2026-04-22
+updated: 2026-04-25
 ---
 ## Summary
 
@@ -76,6 +80,10 @@ This domestic-only U.S. follow-on record has been absorbed into the canonical ca
 
 ## References
 
-| # | Source | Publisher | Date | URL |
+| # | Title | Publisher | Date | URL |
 |---|---|---|---|---|
 | [1] | Dark Web Drug Trafficker Sentenced to 160 Months in Federal Prison | US DOJ (Southern District of Florida) | 2022-01-11 | https://www.justice.gov/usao-sdfl/pr/dark-web-drug-trafficker-sentenced-160-months-federal-prison |
+| [2] | 13 anos de carcel en Florida por vender drogas en la Internet oscura | 15 minutos | 2022-01-12 | https://www.15minutos.com/florida/13-anos-de-carcel-en-florida-por-vender-drogas-en-la-internet-oscura/ |
+| [3] | Hombre recibe 13 anos de carcel por vender drogas en internet oscura | Lopez-Doriga | 2022-01-12 | https://lopezdoriga.com/internacional/hombre-13-anos-carcel-trafico-drogas-internet-oscura/ |
+| [4] | Hombre pasara 13 anos en prision por vender drogas en la Dark Web | Periodico Victoria | 2022-01-12 | https://periodicovictoria.mx/mexico-y-el-mundo/hombre-pasara-13-anos-en-prision-por-vender-drogas-en-la-dark-web/ |
+| [5] | Empire Market Vendor from Arizona Gets 160 Months Prison Sentence for Selling Meth | DarknetStats | 2022-01-13 | https://www.darknetstats.com/empire-market-vendor-from-arizona-gets-160-months-prison-sentence-for-selling-meth/ |

@@ -56,7 +56,7 @@ source_count: 1
 sources:
   - "[[2018-07-13_sdfl_adam-miles-dark-web-sentencing]]"
 created: 2026-04-17
-updated: 2026-04-22
+updated: 2026-04-25
 operation_role: follow-on
 parent_operation: ""
 summary: "This domestic-only U.S. follow-on record has been absorbed into the canonical case page [[us-v-adam-miles-dark-web]]. No visible cross-border mechanism is documented, so it is not treated as a separate international-cooperation operation."
@@ -70,6 +70,16 @@ crime_types:
 ## Summary
 
 This domestic-only U.S. follow-on record has been absorbed into the canonical case page [[us-v-adam-miles-dark-web]]. No visible cross-border mechanism is documented, so it is not treated as a separate international-cooperation operation.
+
+> [!info] Source enrichment - single-source justification (2026-04-25)
+> Searched for additional credible sources covering Adam Miles ("NoStress") 2018 dark web narcotics conviction:
+> - DOJ follow-up press releases (sentencing/conviction): not found beyond original SDFL release
+> - Parallel federal agency press releases (DEA/FBI/HSI/USPS): not found
+> - Court records (CourtListener / PACER / midpage / justia): not found
+> - Local press coverage in Riverside, CA or Miami: not found
+> - Specialized trade press: not found
+>
+> This appears to be a single-press-release domestic dark web action with no independent secondary coverage. `source_count: 1` is retained per LESSON L19 (do not assert sources that do not exist).
 
 ## Canonical Record
 

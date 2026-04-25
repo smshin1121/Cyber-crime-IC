@@ -64,11 +64,21 @@ sources:
   - "[[2026-04-18_justice-gov_cleveland-man-sentenced-more-six-years-prison-leading-conspiracy-purchased-thousands]]"
 summary: "This domestic-only U.S. follow-on record has been absorbed into the canonical case page [[us-v-hasan-howard]]. No visible cross-border mechanism is documented, so it is not treated as a separate international-cooperation operation."
 created: 2026-04-18
-updated: 2026-04-22
+updated: 2026-04-25
 ---
 ## Summary
 
 This domestic-only U.S. follow-on record has been absorbed into the canonical case page [[us-v-hasan-howard]]. No visible cross-border mechanism is documented, so it is not treated as a separate international-cooperation operation.
+
+> [!info] Source enrichment - single-source justification (2026-04-25)
+> Searched for additional credible sources covering Hasan Howard's 2022 Cleveland jewelry/dark web credit card fraud conviction:
+> - DOJ follow-up press releases (sentencing/conviction): not found beyond original NDOH release
+> - Parallel federal agency press releases (Secret Service/FBI): not found
+> - Court records (CourtListener / PACER / midpage / justia): docket entries on DocketBird but no narrative coverage
+> - Local press coverage in Cleveland (cleveland.com / WKYC / News5 / Fox 8): not found
+> - Specialized trade press: only Haxf4rall and INSTORE Magazine — not enough to clear the 4-additional threshold
+>
+> This appears to be a single-press-release domestic action with no independent secondary coverage at the required volume. `source_count: 1` is retained per LESSON L19 (do not assert sources that do not exist).
 
 ## Canonical Record
 

@@ -64,11 +64,21 @@ sources:
   - "[[2026-04-18_justice-gov_three-people-sentenced-prison-distributing-methamphetamine-fentanyl-and-nitazenes]]"
 summary: "This domestic-only U.S. follow-on record has been absorbed into the canonical case page [[us-v-three-people]]. No visible cross-border mechanism is documented, so it is not treated as a separate international-cooperation operation."
 created: 2026-04-18
-updated: 2026-04-22
+updated: 2026-04-25
 ---
 ## Summary
 
 This domestic-only U.S. follow-on record has been absorbed into the canonical case page [[us-v-three-people]]. No visible cross-border mechanism is documented, so it is not treated as a separate international-cooperation operation.
+
+> [!info] Source enrichment - single-source justification (2026-04-25)
+> Searched for additional credible sources covering the August 2025 Hollywood, FL counterfeit-pill conspiracy convictions (Beltre Olivo, Balaguer, Medina):
+> - DOJ follow-up press releases: not found beyond original SDFL release
+> - Parallel federal agency press releases: only USPS-OIG (1 additional government source)
+> - Court records (CourtListener / PACER): docket exists but no narrative coverage
+> - Local press coverage in Miami / Fort Lauderdale: only Caribbean National Weekly identified (1 outlet)
+> - Specialized trade press: not found (case is conventional drug distribution, no cyber-IC angle)
+>
+> Three secondary sources total does not clear the 4-additional-credible-source threshold. `source_count: 1` is retained per LESSON L19 (do not assert sources that do not exist).
 
 ## Canonical Record
 

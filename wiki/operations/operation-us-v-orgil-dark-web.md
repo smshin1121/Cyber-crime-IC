@@ -55,7 +55,7 @@ source_count: 1
 sources:
   - "[[2024-05-21_sdfl_tenzin-orgil-dark-web-sentencing]]"
 created: 2026-04-17
-updated: 2026-04-22
+updated: 2026-04-25
 operation_role: follow-on
 parent_operation: ""
 summary: "This domestic-only U.S. follow-on record has been absorbed into the canonical case page [[us-v-orgil-dark-web]]. No visible cross-border mechanism is documented, so it is not treated as a separate international-cooperation operation."
@@ -69,6 +69,16 @@ crime_types:
 ## Summary
 
 This domestic-only U.S. follow-on record has been absorbed into the canonical case page [[us-v-orgil-dark-web]]. No visible cross-border mechanism is documented, so it is not treated as a separate international-cooperation operation.
+
+> [!info] Source enrichment - single-source justification (2026-04-25)
+> Searched for additional credible sources covering Tenzin Orgil's dark web narcotics conviction:
+> - DOJ follow-up press releases (sentencing/conviction): not found beyond the SDFL release
+> - Parallel federal agency press releases: DEA and IRS-CI versions exist (3 government parallel sources total) but do not aggregate to the 4-additional-credible-source threshold required for Path A reinforcement
+> - Court records (CourtListener / PACER / midpage / justia): docket entries exist but no narrative-coverage articles
+> - Local press coverage in Orange County, CA or South Florida: not found
+> - Specialized trade press: not found beyond Partnership for Safe Medicines newsletter
+>
+> This is a U.S.-only domestic dark web prosecution with limited independent secondary coverage. `source_count: 1` is retained per LESSON L19 (do not assert sources that do not exist).
 
 ## Canonical Record
 

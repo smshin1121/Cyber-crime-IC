@@ -64,11 +64,21 @@ sources:
   - "[[2018-07-13_justice-gov_united-states-v-adam-lemar-miles]]"
 summary: "This domestic-only U.S. follow-on record has been absorbed into the canonical case page [[us-v-adam-lemar-miles]]. No visible cross-border mechanism is documented, so it is not treated as a separate international-cooperation operation."
 created: 2026-04-17
-updated: 2026-04-22
+updated: 2026-04-25
 ---
 ## Summary
 
 This domestic-only U.S. follow-on record has been absorbed into the canonical case page [[us-v-adam-lemar-miles]]. No visible cross-border mechanism is documented, so it is not treated as a separate international-cooperation operation.
+
+> [!info] Source enrichment - single-source justification (2026-04-25)
+> Searched for additional credible sources covering Adam Lemar Miles ("NoStress") dark web narcotics conviction:
+> - DOJ follow-up press releases (sentencing/conviction): not found beyond original SDFL release
+> - Parallel federal agency press releases (DEA/FBI/HSI/USPS): not found
+> - Court records (CourtListener / PACER / midpage / justia): not found
+> - Local press coverage in Riverside, CA or Miami: not found
+> - Specialized trade press: not found
+>
+> This appears to be a single-press-release domestic dark web action with no independent secondary coverage. `source_count: 1` is retained per LESSON L19 (do not assert sources that do not exist).
 
 ## Canonical Record
 

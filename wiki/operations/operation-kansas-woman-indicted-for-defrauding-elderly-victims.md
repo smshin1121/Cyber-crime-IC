@@ -64,11 +64,21 @@ sources:
   - "[[2026-04-18_justice-gov_kansas-woman-indicted-defrauding-elderly-victims]]"
 summary: "This domestic-only U.S. follow-on record has been absorbed into the canonical case page [[kansas-woman-indicted-for-defrauding-elderly-victims]]. No visible cross-border mechanism is documented, so it is not treated as a separate international-cooperation operation."
 created: 2026-04-18
-updated: 2026-04-22
+updated: 2026-04-25
 ---
 ## Summary
 
 This domestic-only U.S. follow-on record has been absorbed into the canonical case page [[kansas-woman-indicted-for-defrauding-elderly-victims]]. No visible cross-border mechanism is documented, so it is not treated as a separate international-cooperation operation.
+
+> [!info] Source enrichment — single-source justification (2026-04-25)
+> Searched for additional credible sources covering this defendant/case (Amanda Rutherford):
+> - DOJ follow-up press releases: not found (case at indictment stage)
+> - Parallel federal agency press releases: not found
+> - Court records: not separately retrieved
+> - Local press coverage: KTTN, JCPost, and KSNW (via Yahoo) ran short reports but only ~3 secondary sources verified — insufficient to reach source_count >= 5
+> - Specialized trade press: not found (no cyber/IC elements; HSI involvement only via interstate-stolen-goods angle)
+>
+> `source_count: 1` is retained per LESSON L19 (do not assert sources that do not exist).
 
 ## Canonical Record
 

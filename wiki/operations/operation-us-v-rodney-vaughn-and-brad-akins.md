@@ -64,11 +64,21 @@ sources:
   - "[[2026-04-18_justice-gov_fourteen-indicted-fentanyl-and-methamphetamine-conspiracy]]"
 summary: "This domestic-only U.S. follow-on record has been absorbed into the canonical case page [[us-v-rodney-vaughn-and-brad-akins]]. No visible cross-border mechanism is documented, so it is not treated as a separate international-cooperation operation."
 created: 2026-04-18
-updated: 2026-04-22
+updated: 2026-04-25
 ---
 ## Summary
 
 This domestic-only U.S. follow-on record has been absorbed into the canonical case page [[us-v-rodney-vaughn-and-brad-akins]]. No visible cross-border mechanism is documented, so it is not treated as a separate international-cooperation operation.
+
+> [!info] Source enrichment — single-source justification (2026-04-25)
+> Searched for additional credible sources covering this defendant/case (Rodney Vaughn and Brad Akins, defendants in the 14-defendant 80-count Kansas City fentanyl/methamphetamine indictment):
+> - DOJ follow-up press releases (sentencing/conviction): not found (case at indictment stage July 2025)
+> - Parallel federal agency press releases: IRS-Criminal Investigation republished the indictment, but no DEA/ATF dedicated press releases for this 14-defendant case were found
+> - Court records: not separately retrieved
+> - Local press coverage: KCTV5 covered the broader 14-defendant indictment but did not name Vaughn/Akins specifically; no KMBC/FOX4KC dedicated articles for these particular defendants
+> - Specialized trade press: not found (case lacks cyber/IC elements)
+>
+> Only 2 verified additional sources mention the 14-defendant case generally; the named defendants Vaughn and Akins do not have dedicated coverage. `source_count: 1` is retained per LESSON L19.
 
 ## Canonical Record
 

@@ -3,19 +3,19 @@ type: operation
 title: "Former emergency physician pleads guilty to possessing child pornography Enforcement Action"
 aliases:
   - "Former emergency physician pleads guilty to possessing child pornography"
-case_id: "CYB-FUP-967"
+case_id: CYB-FUP-967
 period: 3
-operation_role: "follow-on"
+operation_role: follow-on
 parent_operation: ""
-operation_type: "prosecution"
-status: "absorbed"
+operation_type: prosecution
+status: absorbed
 enforcement_type:
   - arrest
-outcome: "success"
+outcome: success
 timeframe:
-  announced: "2024-09-23"
-  start: "2024"
-  end: "2024-09-23"
+  announced: 2024-09-23
+  start: 2024
+  end: 2024-09-23
   ongoing: false
 crime_type: "[[online-fraud-ic]]"
 crime_types:
@@ -45,23 +45,31 @@ results:
   victims_notified: 0
   other:
     - "Defendant-specific follow-on action derived from [[former-emergency-physician-pleads-guilty-to-possessing-child-pornography]]"
-edges: []
+edges:
+  []
 credibility_index: 4.0
 source_tier: 1
-missing_fields: []
+missing_fields:
+  []
 related_cases:
   - "[[former-emergency-physician-pleads-guilty-to-possessing-child-pornography]]"
-related_operations: []
-challenges_encountered: []
-lessons_learned: []
-source_count: 1
+related_operations:
+  []
+challenges_encountered:
+  []
+lessons_learned:
+  []
+source_count: 5
 sources:
   - "[[2026-04-18_justice-gov_former-emergency-physician-pleads-guilty-possessing-child-pornography]]"
+  - "[[2024-09-20_sciotovalleyguardian_former-medical-director-pleads-guilty-to-federal-child-porn-charges]]"
+  - "[[2024-09-20_abc6_former-ohiohealth-medical-director-pleads-guilty-to-child-pornography-charges]]"
+  - "[[2024-09-21_nbc4i_former-ohiohealth-medical-director-pleads-guilty-to-child-pornography-possession]]"
+  - "[[2024-09-24_highlandcountypress_former-ohio-emergency-physician-pleads-guilty-possessing-child-pornography]]"
 summary: "Former emergency physician pleads guilty to possessing child pornography Enforcement Action is a domestic-only U.S. follow-on record absorbed into the canonical case page [[former-emergency-physician-pleads-guilty-to-possessing-child-pornography]]. No visible cross-border mechanism is documented, so it is not treated as a separate international-cooperation operation."
 created: 2026-04-18
-updated: 2026-04-18
+updated: 2026-04-25
 ---
-
 ## Summary
 
 Former emergency physician pleads guilty to possessing child pornography Enforcement Action is a defendant-specific enforcement action page derived from [[former-emergency-physician-pleads-guilty-to-possessing-child-pornography]]. It captures the prosecutorial or seizure stage reflected in the linked case record and preserves the operation-side catalog entry for this follow-on action.
@@ -83,6 +91,10 @@ The underlying public case record identifies Former emergency physician pleads g
 
 ## References
 
-| # | Source | Publisher | Date | URL |
+| # | Title | Publisher | Date | URL |
 |---|---|---|---|---|
 | [1] | Former emergency physician pleads guilty to possessing child pornography | US DOJ USAO | 2024-09-23 | https://www.justice.gov/usao-sdoh/pr/former-emergency-physician-pleads-guilty-possessing-child-pornography |
+| [2] | Former medical director pleads guilty to federal child porn charges | Scioto Valley Guardian | 2024-09-20 | https://sciotovalleyguardian.com/2024/09/20/former-medical-director-pleads-guilty-to-federal-child-porn-charges/ |
+| [3] | Former OhioHealth medical director pleads guilty to child pornography charges | ABC 6 (WSYX Columbus) | 2024-09-20 | https://abc6onyourside.com/news/local/former-ohiohealth-medical-director-pleads-guilty-to-child-pornography-charges-garrett-norvell-ohio-health-director |
+| [4] | Former OhioHealth medical director pleads guilty to child pornography possession | NBC4 WCMH-TV | 2024-09-21 | https://www.yahoo.com/news/former-ohiohealth-medical-director-pleads-010000348.html |
+| [5] | Former Ohio emergency physician pleads guilty to possessing child pornography | Highland County Press | 2024-09-24 | https://highlandcountypress.com/news/former-ohio-emergency-physician-pleads-guilty-possessing-child-pornography |

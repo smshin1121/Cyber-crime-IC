@@ -4943,6 +4943,447 @@ CURATED: dict[str, dict[str, Any]] = {
             "2025-09-05_audacy-knss_kansas-court-bookkeepers-indicted-for-wire-fraud",
         ],
     },
+    "operation-us-v-deniss-zolotarjovs": {
+        "sources": [
+            "2026-04-18_justice-gov_member-russian-cybercrime-group-charged-ohio",
+            "2024-08-23_cyberscoop_feds-arrest-latvian-man-accused-of-extorting-karakurt-victims",
+            "2024-08-23_bankinfosecurity_karakurt-ransomware-group-suspect-appears-in-us-courtroom",
+            "2024-08-27_flashpoint_member-of-russian-cybercrime-group-charged-in-ohio",
+            "2024-08-23_cybersecuritynews_russian-karakurt-ransomware-group-member-charged",
+        ],
+    },
+    "operation-member-of-russian-cybercrime-group-charged-in-ohio": {
+        "sources": [
+            "2026-04-18_justice-gov_member-russian-cybercrime-group-charged-ohio",
+            "2024-08-23_cyberscoop_feds-arrest-latvian-man-accused-of-extorting-karakurt-victims",
+            "2024-08-23_bankinfosecurity_karakurt-ransomware-group-suspect-appears-in-us-courtroom",
+            "2024-08-27_flashpoint_member-of-russian-cybercrime-group-charged-in-ohio",
+            "2024-08-23_cybersecuritynews_russian-karakurt-ransomware-group-member-charged",
+        ],
+    },
+    "operation-us-v-khlari-sirotkin-and-sean-deaver": {
+        "sources": [
+            "2023-10-12_justice-gov_united-states-v-khlari-sirotkin-and-sean-deaver",
+            "2023-10-12_local12_leaders-multi-million-dollar-dark-web-drug-trafficking-conspiracy-sentenced-cincinnati",
+            "2023-10-12_cincinnati-enquirer_leaders-of-drug-trafficking-group-pillcosby-sentenced",
+            "2020-09-22_abc6_alleged-members-of-online-darknet-drug-operation-indicted-in-cincinnati",
+            "2020-01-15_fox19_5-charged-28m-dark-web-drug-trafficking-money-laundering-conspiracy",
+        ],
+    },
+    "operation-us-v-sirotkin-deaver-dark-web": {
+        "sources": [
+            "2023-10-12_sdoh_sirotkin-deaver-dark-web-sentencing",
+            "2023-10-12_local12_leaders-multi-million-dollar-dark-web-drug-trafficking-conspiracy-sentenced-cincinnati",
+            "2023-10-12_cincinnati-enquirer_leaders-of-drug-trafficking-group-pillcosby-sentenced",
+            "2020-09-22_abc6_alleged-members-of-online-darknet-drug-operation-indicted-in-cincinnati",
+            "2020-01-15_fox19_5-charged-28m-dark-web-drug-trafficking-money-laundering-conspiracy",
+        ],
+    },
+    "operation-us-v-simon-kaura": {
+        "sources": [
+            "2026-04-18_justice-gov_defendants-sentenced-global-darknet-conspiracy",
+            "2024-09-22_hayspost_nigerian-sentenced-in-kc-for-selling-stolen-financial-information-online",
+            "2024-09-20_kttn_darknet-financial-scheme-ends-with-five-year-prison-sentence",
+            "2024-11-08_securityweek_us-prison-sentences-for-nigerian-cybercriminals-surge-in-recent-months",
+            "2023-05-17_bankinfosecurity_skynet-carder-market-founder-pleads-guilty",
+        ],
+    },
+    "operation-six-defendants-charged-with-selling-millions-of-dollars-worth-of-psychedelic-mushrooms-online": {
+        "sources": [
+            "2026-04-18_justice-gov_six-defendants-charged-selling-millions-dollars-worth-psychedelic-mushrooms-online",
+            "2021-05-20_sciotopost_six-people-charged-with-selling-millions-worth-of-psychedelic-mushrooms-online",
+            "2021-05-21_cannabislaw_6-charged-with-selling-millions-in-magic-mushrooms-via-dark-web",
+            "2022-12-09_dnstats_dark-web-mushroom-dealers-arrested-assets-seized",
+            "2022-12-09_nbc4i_dark-web-mushroom-dealers-tracked-by-ohio-drug-task-force-millions-in-crypto-seized",
+        ],
+    },
+    "operation-us-v-james-verl-barlow-matthew-taylor-barlow-and-jennifer-helen-cambpell": {
+        "sources": [
+            "2026-04-18_justice-gov_3-defendants-plead-guilty-dark-web-drug-sales-case",
+            "2021-05-20_sciotopost_six-people-charged-with-selling-millions-worth-of-psychedelic-mushrooms-online",
+            "2021-05-21_cannabislaw_6-charged-with-selling-millions-in-magic-mushrooms-via-dark-web",
+            "2022-12-09_dnstats_dark-web-mushroom-dealers-arrested-assets-seized",
+            "2022-12-09_nbc4i_dark-web-mushroom-dealers-tracked-by-ohio-drug-task-force-millions-in-crypto-seized",
+        ],
+    },
+    "operation-us-v-andrew-charles-nicholls": {
+        "sources": [
+            "2026-04-18_justice-gov_columbia-sex-offender-charged-child-pornography-offense",
+            "2025-04-30_abc17news_columbia-sex-offender-faces-federal-child-porn-charge",
+            "2025-05-13_abc17news_columbia-sex-offender-indicted-by-federal-grand-jury-on-child-porn-charge",
+            "2025-05-13_krcgtv_columbia-man-indicted-in-federal-court-on-child-sex-abuse-material-charges",
+            "2025-05-07_ky3_205-child-sex-offenders-including-6-from-missouri-kansas-arrested-in-55-days",
+        ],
+    },
+    "operation-former-emergency-physician-pleads-guilty-to-possessing-child-pornography": {
+        "sources": [
+            "2026-04-18_justice-gov_former-emergency-physician-pleads-guilty-possessing-child-pornography",
+            "2024-09-20_sciotovalleyguardian_former-medical-director-pleads-guilty-to-federal-child-porn-charges",
+            "2024-09-20_abc6_former-ohiohealth-medical-director-pleads-guilty-to-child-pornography-charges",
+            "2024-09-21_nbc4i_former-ohiohealth-medical-director-pleads-guilty-to-child-pornography-possession",
+            "2024-09-24_highlandcountypress_former-ohio-emergency-physician-pleads-guilty-possessing-child-pornography",
+        ],
+    },
+    "operation-us-v-garrett-norvell": {
+        "sources": [
+            "2026-04-18_justice-gov_former-emergency-physician-pleads-guilty-possessing-child-pornography",
+            "2024-09-20_sciotovalleyguardian_former-medical-director-pleads-guilty-to-federal-child-porn-charges",
+            "2024-09-20_abc6_former-ohiohealth-medical-director-pleads-guilty-to-child-pornography-charges",
+            "2024-09-21_nbc4i_former-ohiohealth-medical-director-pleads-guilty-to-child-pornography-possession",
+            "2024-09-24_highlandcountypress_former-ohio-emergency-physician-pleads-guilty-possessing-child-pornography",
+        ],
+    },
+    "operation-registered-sex-offender-sentenced-to-35-years-in-prison-for-exchanging-videos-images-of-child-torture-for-chil": {
+        "sources": [
+            "2026-04-18_justice-gov_registered-sex-offender-sentenced-35-years-prison-exchanging-videos-images-child",
+            "2024-12-18_nbc4_columbus-man-who-traded-child-abuse-material-gets-35-years-in-prison",
+            "2024-12-18_abc6_sex-offender-sentenced-to-35-years-in-prison-for-trading-photos-and-videos-of-child-abuse",
+            "2024-04-19_columbusdispatch_records-convicted-columbus-sex-offender-admits-to-trading-torture-videos-for-child-porn",
+            "2024-06-27_highlandcountypress_registered-sex-offender-pleads-guilty-exchanging-child-pornography-dark-web",
+        ],
+    },
+    "operation-us-v-jeremiah-morrison": {
+        "sources": [
+            "2026-04-18_justice-gov_registered-sex-offender-sentenced-35-years-prison-exchanging-videos-images-child",
+            "2024-12-18_nbc4_columbus-man-who-traded-child-abuse-material-gets-35-years-in-prison",
+            "2024-12-18_abc6_sex-offender-sentenced-to-35-years-in-prison-for-trading-photos-and-videos-of-child-abuse",
+            "2024-04-19_columbusdispatch_records-convicted-columbus-sex-offender-admits-to-trading-torture-videos-for-child-porn",
+            "2024-06-27_highlandcountypress_registered-sex-offender-pleads-guilty-exchanging-child-pornography-dark-web",
+        ],
+    },
+    "operation-us-v-justin-mesael-novoa": {
+        "sources": [
+            "2026-04-18_justice-gov_columbus-man-charged-threatening-kill-federal-agents",
+            "2026-01-23_foxnews_man-allegedly-threatened-shoot-ice-agents-rifles-body-armor-ammo-cache-feds",
+            "2026-02-19_614now_columbus-man-charged-after-allegedly-threatening-to-shoot-ice-agents-on-x",
+            "2026-01-22_myfox28_alright-you-got-me-columbus-facing-federal-charges-over-alleged-online-ice-threats",
+            "2026-01-23_thenerdstash_unhinged-ohio-man-faces-federal-charges-after-allegedly-threatening-to-shoot-ice-agents",
+        ],
+    },
+    "operation-kansas-city-woman-indicted-for-fraudulent-tax-returns": {
+        "sources": [
+            "2026-04-18_justice-gov_kansas-city-woman-indicted-fraudulent-tax-returns",
+            "2025-05-22_irs-ci_kansas-city-woman-indicted-for-fraudulent-tax-returns",
+            "2025-05-22_kctv5_fraudulent-tax-returns-lead-indictment-kansas-city-woman",
+            "2025-12-04_kttn_kansas-city-woman-admits-preparing-fraudulent-tax-returns",
+            "2025-12-03_kctv5_kansas-city-woman-pleads-guilty-preparing-filing-false-income-tax-returns",
+        ],
+    },
+    "operation-us-v-tanisha-spencer": {
+        "sources": [
+            "2026-04-18_justice-gov_kansas-city-woman-indicted-fraudulent-tax-returns",
+            "2025-05-22_irs-ci_kansas-city-woman-indicted-for-fraudulent-tax-returns",
+            "2025-05-22_kctv5_fraudulent-tax-returns-lead-indictment-kansas-city-woman",
+            "2025-12-04_kttn_kansas-city-woman-admits-preparing-fraudulent-tax-returns",
+            "2025-12-03_kctv5_kansas-city-woman-pleads-guilty-preparing-filing-false-income-tax-returns",
+        ],
+    },
+    "operation-two-indicted-for-drug-trafficking-conspiracy": {
+        "sources": [
+            "2026-04-18_justice-gov_two-indicted-drug-trafficking-conspiracy",
+            "2025-06-30_kttn_grand-jury-indicts-kansas-city-man-and-woman-in-fentanyl-conspiracy-case",
+            "2025-08-20_kctv5_5-charged-connection-with-illegal-fentanyl-narcotics-trafficking-ring-kansas-city",
+            "2025-08-20_wdaf_five-indicted-kansas-city-drug-trafficking-scheme",
+            "2025-08-21_kttn_federal-grand-jury-indicts-five-in-kansas-city-drug-trafficking-case",
+        ],
+    },
+    "operation-us-v-vladimir-dunaev": {
+        "sources": [
+            "2026-04-18_justice-gov_russian-national-sentenced-involvement-development-and-deployment-trickbot-malware",
+            "2024-01-26_securityaffairs_trickbot-malware-developer-sentenced-64-months",
+            "2024-01-25_therecord_russian-developer-trickbot-malware-sentenced-five-years",
+            "2024-01-25_theregister_trickbot-malware-developer-sentenced-five-years",
+            "2024-01-26_gbhackers_russian-trickbot-malware-developer-pleaded-guilty",
+        ],
+    },
+    "operation-russian-national-sentenced-for-involvement-in-development-and-deployment-of-trickbot-malware": {
+        "sources": [
+            "2026-04-18_justice-gov_russian-national-sentenced-involvement-development-and-deployment-trickbot-malware",
+            "2024-01-26_securityaffairs_trickbot-malware-developer-sentenced-64-months",
+            "2024-01-25_therecord_russian-developer-trickbot-malware-sentenced-five-years",
+            "2024-01-25_theregister_trickbot-malware-developer-sentenced-five-years",
+            "2024-01-26_gbhackers_russian-trickbot-malware-developer-pleaded-guilty",
+        ],
+    },
+    "operation-us-v-multiple-foreign-nationals": {
+        "sources": [
+            "2026-04-18_justice-gov_multiple-foreign-nationals-charged-connection-trickbot-malware-and-conti-ransomware",
+            "2023-09-08_bleepingcomputer_week-in-ransomware-conti-indictments",
+            "2023-09-07_flashpoint_court-doc-trickbot-conti-conspiracies",
+            "2023-09-08_wislawjournal_russian-nationals-charged-trickbot-conti",
+            "2023-09-08_hstoday_multiple-foreign-nationals-trickbot-conti",
+        ],
+    },
+    "operation-us-v-latvian-national": {
+        "sources": [
+            "2026-04-18_justice-gov_latvian-national-charged-alleged-role-transnational-cybercrime-organization",
+            "2021-06-04_cyberscoop_latvian-national-charged-writing-malware-trickbot",
+            "2021-06-04_therecord_us-arrests-latvian-woman-trickbot-malware",
+            "2021-06-14_isssource_latvian-charged-trickbot-cybercrime-spree",
+            "2021-06-16_techstartups_alla-max-witte-trickbot-cybercrime-gang",
+        ],
+    },
+    "operation-latvian-national-charged-for-alleged-role-in-transnational-cybercrime-organization": {
+        "sources": [
+            "2026-04-18_justice-gov_latvian-national-charged-alleged-role-transnational-cybercrime-organization",
+            "2021-06-04_cyberscoop_latvian-national-charged-writing-malware-trickbot",
+            "2021-06-04_therecord_us-arrests-latvian-woman-trickbot-malware",
+            "2021-06-14_isssource_latvian-charged-trickbot-cybercrime-spree",
+            "2021-06-16_techstartups_alla-max-witte-trickbot-cybercrime-gang",
+        ],
+    },
+    "operation-us-v-vallerius-dream-market": {
+        "sources": [
+            "2018-08-28_sdfl_vallerius-dream-market-sentencing",
+            "2018-10-09_cbsnews_oxymonster-french-drug-dealer-beard-contest-sentenced",
+            "2018-10-22_crowdfundinsider_oxymonster-sentenced-20-years-700000-crypto",
+            "2018-06-14_bleepingcomputer_dark-web-vendor-guilty-bitcoin-traced",
+            "2018-10-16_brodenmickelsen_frenchman-sentenced-20-years-dark-web-drug-trafficking",
+        ],
+    },
+    "operation-us-v-peck-dark-web": {
+        "sources": [
+            "2022-12-01_sdfl_anton-peck-dark-web-sentencing",
+            "2022-12-02_cbs12_anton-peck-dark-web-drug-dealer-boca-raton-16-years",
+            "2022-12-01_dea_dark-web-drug-dealer-sentenced-16-years-prison",
+            "2022-12-01_foxnews_florida-man-16-years-national-drug-scheme-dark-web",
+            "2022-12-02_browardus_two-south-florida-men-sentenced-dark-web-fentanyl",
+        ],
+    },
+    "operation-us-v-jose-rodolfo-barraza-flores": {
+        "sources": [
+            "2022-01-11_justice-gov_united-states-v-jose-rodolfo-barraza-flores",
+            "2022-01-12_15minutos_13-anos-carcel-florida-drogas-internet-oscura",
+            "2022-01-12_lopezdoriga_hombre-13-anos-carcel-internet-oscura",
+            "2022-01-12_periodicovictoria_hombre-pasara-13-anos-prision-dark-web",
+            "2022-01-13_darknetstats_empire-market-vendor-arizona-160-months-meth",
+        ],
+    },
+    "operation-us-v-barraza-flores-dark-web": {
+        "sources": [
+            "2022-01-11_sdfl_barraza-flores-dark-web-sentencing",
+            "2022-01-12_15minutos_13-anos-carcel-florida-drogas-internet-oscura",
+            "2022-01-12_lopezdoriga_hombre-13-anos-carcel-internet-oscura",
+            "2022-01-12_periodicovictoria_hombre-pasara-13-anos-prision-dark-web",
+            "2022-01-13_darknetstats_empire-market-vendor-arizona-160-months-meth",
+        ],
+    },
+    "operation-man-sentenced-for-stealing-over-712-bitcoin-subject-to-forfeiture": {
+        "sources": [
+            "2026-04-18_justice-gov_man-sentenced-stealing-over-712-bitcoin-subject-forfeiture",
+            "2023-01-06_coindesk_brother-of-criminal-bitcoin-mixing-ceo-pleads-guilty-stealing-712-bitcoins-irs",
+            "2023-04-21_therecord_brother-helix-crypto-mixer-jailed-stealing-bitcoin",
+            "2023-05-03_smallbiztrends_ohio-man-sentenced-cryptocurrency-theft-darknet-mixer",
+            "2023-05-05_whio_ohio-man-sent-prison-bitcoin-theft-20m-cryptocurrency",
+        ],
+    },
+    "operation-us-v-antoin-austin": {
+        "sources": [
+            "2026-04-18_justice-gov_euclid-man-pleaded-guilty-distribution-fentanyl-he-ordered-china-and-sold-domestically",
+            "2018-03-28_13abc_ohio-man-charged-with-selling-fentanyl-ordered-from-china",
+            "2018-08-13_triblive_ohio-man-accused-of-buying-fentanyl-from-china-selling-it-on-the-dark-web",
+            "2018-08-15_patch_fentanyl-dark-web-and-china-how-a-euclid-man-built-a-drug-ring",
+            "2018-03-28_patch-mayfield_alleged-fentanyl-mail-ring-euclid-man-arrested",
+        ],
+    },
+    "operation-us-v-woodmere-man": {
+        "sources": [
+            "2026-04-18_justice-gov_woodmere-man-pleads-guilty-obtaining-stolen-credit-card-information-and-using-it",
+            "2022-08-25_cleveland19_former-woodmere-mayor-sentenced-stolen-credit-card",
+            "2022-08-25_secretservice_woodmere-man-sentenced-stolen-credit-card-gasoline",
+            "2022-08-25_wkyc_ex-woodmere-mayor-33-months-credit-card-amazon",
+            "2022-08-26_clevelandjewishnews_former-woodmere-mayor-sentenced-33-months",
+        ],
+    },
+    "operation-woodmere-man-pleads-guilty-to-obtaining-stolen-credit-card-information-and-using-it-to-purchase-gasoline": {
+        "sources": [
+            "2026-04-18_justice-gov_woodmere-man-pleads-guilty-obtaining-stolen-credit-card-information-and-using-it",
+            "2022-08-25_cleveland19_former-woodmere-mayor-sentenced-stolen-credit-card",
+            "2022-08-25_secretservice_woodmere-man-sentenced-stolen-credit-card-gasoline",
+            "2022-08-25_wkyc_ex-woodmere-mayor-33-months-credit-card-amazon",
+            "2022-08-26_clevelandjewishnews_former-woodmere-mayor-sentenced-33-months",
+        ],
+    },
+    "operation-nebraska-man-pleads-guilty-in-multi-million-dollar-cryptojacking-case": {
+        "sources": [
+            "2026-04-18_justice-gov_nebraska-man-pleads-guilty-multi-million-dollar-cryptojacking-case",
+            "2024-12-05_bleepingcomputer_nebraska-man-pleads-guilty-to-35-million-cryptojacking-scheme",
+            "2024-12-05_datacenterdynamics_nebraska-man-indicted-defrauding-cloud-providers-cryptojacking",
+            "2025-08-22_brooklyneagle_crypto-influencer-sentenced-multi-million-dollar-scheme",
+            "2025-08-15_justice-gov_crypto-influencer-sentenced-prison-multi-million-dollar-cryptojacking-scheme",
+        ],
+    },
+    "operation-ransomware-administrator-charged-with-cybercrimes-for-deploying-lockergoga-nefilim-and-megacortex-ransomware-s": {
+        "sources": [
+            "2026-04-18_justice-gov_ransomware-administrator-charged-cybercrimes-deploying-lockergoga-nefilim-and",
+            "2025-09-09_bleepingcomputer_us-charges-admin-of-lockergoga-megacortex-nefilim-ransomware",
+            "2025-09-09_therecord_lockergoga-megacortex-nefilim-ransomware-ukrainian-indictment-unsealed",
+            "2025-09-09_justice-gov_opa_lockergoga-megacortex-nefilim-ransomware-administrator-charged",
+            "2025-09-10_hipaajournal_feds-10-million-reward-nefilim-megacortex-lockergaga-admin",
+        ],
+    },
+    "operation-two-men-charged-for-breaching-federal-law-enforcement-database-and-posing-as-police-officers-to-defraud-social": {
+        "sources": [
+            "2026-04-18_justice-gov_two-men-charged-breaching-federal-law-enforcement-database-and-posing-police-officers",
+            "2023-03-14_krebsonsecurity_two-us-men-charged-in-2022-hacking-of-dea-portal",
+            "2023-03-15_qns_alleged-cyber-criminal-from-forest-hills-charged",
+            "2023-03-15_bleepingcomputer_two-arrested-for-alleged-hack-of-deas-web-portal",
+            "2024-05-30_justice-gov_two-men-plead-guilty-computer-intrusion-and-aggravated-identity-theft",
+        ],
+    },
+    "operation-united-kingdom-national-pleads-guilty-to-hacking-securities-fraud-and-other-cybercrimes": {
+        "sources": [
+            "2026-04-18_justice-gov_united-kingdom-national-pleads-guilty-hacking-securities-fraud-and-other-cybercrimes",
+            "2023-11-28_cybernews_scammer-pleads-guilty-to-6m-hacking-fraud",
+            "2023-11-28_face2face-africa_british-nigerian-confesses-to-stealing-6-million-from-us-firms",
+            "2023-11-28_marketscreener_british-nigerian-man-pleads-guilty-in-new-york-to-bank-hacking-crimes",
+            "2023-11-28_yahoo_british-nigerian-hacker-pleads-guilty-to-6m-fraud-in-us-court",
+        ],
+    },
+    "operation-us-v-cryptocurrency-exchange": {
+        "sources": [
+            "2026-04-18_justice-gov_founder-and-majority-owner-cryptocurrency-exchange-pleads-guilty-unlicensed-money",
+            "2023-12-06_cointelegraph_bitzlato-ex-ceo-legkodymov-pleads-guilty-one-count-brooklyn-court",
+            "2023-12-10_dailyhodl_crypto-exchange-founder-pleads-guilty-700-million-unlicensed-money-transmitting",
+            "2023-12-06_justice-gov_opa_founder-and-majority-owner-cryptocurrency-exchange-pleads-guilty",
+            "2023-12-06_globalsecurity-org_founder-cryptocurrency-exchange-pleads-guilty",
+        ],
+    },
+    "operation-us-v-ransomware-administrator": {
+        "sources": [
+            "2026-04-18_justice-gov_ransomware-administrator-charged-cybercrimes-deploying-lockergoga-nefilim-and",
+            "2025-09-09_bleepingcomputer_us-charges-admin-of-lockergoga-megacortex-nefilim-ransomware",
+            "2025-09-09_therecord_lockergoga-megacortex-nefilim-ransomware-ukrainian-indictment-unsealed",
+            "2025-09-09_justice-gov_opa_lockergoga-megacortex-nefilim-ransomware-administrator-charged",
+            "2025-09-10_hipaajournal_feds-10-million-reward-nefilim-megacortex-lockergaga-admin",
+        ],
+    },
+    "operation-us-v-ryan-scott-cochran-dark-web": {
+        "sources": [
+            "2024-08-28_edny_ryan-scott-cochran-dark-web-plea",
+            "2024-08-28_shorenewsnetwork_dark-web-drug-dealer-pleads-guilty-distributing-fentanyl-cocaine-methamphetamine",
+            "2024-08-28_darkwebinformer_dark-web-vendor-admits-guilt-fentanyl-distribution-mail",
+            "2024-08-28_x-edny_dark-web-vendor-pleads-guilty-fentanyl",
+            "2024-02-22_pacermonitor_usa-v-cochran-california-northern-district",
+        ],
+    },
+    "operation-us-v-two-men": {
+        "sources": [
+            "2026-04-18_justice-gov_two-men-charged-breaching-federal-law-enforcement-database-and-posing-police-officers",
+            "2023-03-14_krebsonsecurity_two-us-men-charged-in-2022-hacking-of-dea-portal",
+            "2023-03-15_qns_alleged-cyber-criminal-from-forest-hills-charged",
+            "2023-03-15_bleepingcomputer_two-arrested-for-alleged-hack-of-deas-web-portal",
+            "2024-05-30_justice-gov_two-men-plead-guilty-computer-intrusion-and-aggravated-identity-theft",
+        ],
+    },
+    "operation-us-v-united-kingdom-national": {
+        "sources": [
+            "2026-04-18_justice-gov_united-kingdom-national-pleads-guilty-hacking-securities-fraud-and-other-cybercrimes",
+            "2023-11-28_cybernews_scammer-pleads-guilty-to-6m-hacking-fraud",
+            "2023-11-28_face2face-africa_british-nigerian-confesses-to-stealing-6-million-from-us-firms",
+            "2023-11-28_marketscreener_british-nigerian-man-pleads-guilty-in-new-york-to-bank-hacking-crimes",
+            "2023-11-28_yahoo_british-nigerian-hacker-pleads-guilty-to-6m-fraud-in-us-court",
+        ],
+    },
+    "operation-us-v-with-using-and-queens-woman": {
+        "sources": [
+            "2026-04-18_justice-gov_queens-woman-charged-using-hitman-hire-website-dark-web-order-murder-her-lovers-wife",
+            "2024-07-08_qns_queens-woman-hires-bogus-hitman-dark-web-kill-lovers-wife-feds",
+            "2024-07-08_ice-gov_woman-charged-using-hitman-hire-website-dark-web",
+            "2024-07-09_news-bitcoin_queens-woman-indicted-hiring-hitman-cryptocurrency-dark-web",
+            "2024-07-08_pix11_queens-woman-accused-of-hiring-hitman-to-kill-lovers-wife",
+        ],
+    },
+    "operation-philadelphia-man-sentenced-for-cyberstalking-and-wire-fraud": {
+        "sources": [
+            "2026-04-18_justice-gov_philadelphia-man-sentenced-cyberstalking-and-wire-fraud",
+            "2023-12-19_lex18_man-ordered-to-pay-over-338000-to-kentucky-victim-he-stalked-online",
+            "2023-05-05_lexington-times_pa-man-extorted-468k-from-prominent-georgetown-resident",
+            "2023-05-05_news-graphic_philadelphia-man-indicted-for-blackmailing-local-man",
+            "2023-05-05_aol_grand-jury-kentucky-man-paid-468000-online-relationship",
+        ],
+    },
+    "operation-pulaski-county-man-indicted-for-cyber-intrusion-identity-theft-and-bank-fraud": {
+        "sources": [
+            "2026-04-18_justice-gov_pulaski-county-man-indicted-cyber-intrusion-identity-theft-and-bank-fraud",
+            "2024-08-21_cyberscoop_kentucky-man-cyber-fraud-doj-sentenced",
+            "2024-08-20_nbcnews_kentucky-man-faked-death-avoid-paying-child-support-sentenced-6-years",
+            "2024-08-20_wkyt_kentucky-man-who-admitted-faking-death-avoid-child-support-receives-sentence",
+            "2024-08-21_washingtonpost_man-accused-of-faking-death-to-avoid-child-support-sentenced",
+        ],
+    },
+    "operation-pulaski-county-man-sentenced-cyber-intrusion-and-aggravated-identity-theft": {
+        "sources": [
+            "2026-04-18_justice-gov_pulaski-county-man-sentenced-cyber-intrusion-and-aggravated-identity-theft",
+            "2024-08-21_cyberscoop_kentucky-man-cyber-fraud-doj-sentenced",
+            "2024-08-20_nbcnews_kentucky-man-faked-death-avoid-paying-child-support-sentenced-6-years",
+            "2024-08-20_wkyt_kentucky-man-who-admitted-faking-death-avoid-child-support-receives-sentence",
+            "2024-08-21_washingtonpost_man-accused-of-faking-death-to-avoid-child-support-sentenced",
+        ],
+    },
+    "operation-pulaski-county-man-sentenced-for-cyber-intrusion-and-aggravated-identity-theft": {
+        "sources": [
+            "2026-04-18_justice-gov_pulaski-county-man-sentenced-cyber-intrusion-and-aggravated-identity-theft",
+            "2024-08-21_cyberscoop_kentucky-man-cyber-fraud-doj-sentenced",
+            "2024-08-20_nbcnews_kentucky-man-faked-death-avoid-paying-child-support-sentenced-6-years",
+            "2024-08-20_wkyt_kentucky-man-who-admitted-faking-death-avoid-child-support-receives-sentence",
+            "2024-08-21_washingtonpost_man-accused-of-faking-death-to-avoid-child-support-sentenced",
+        ],
+    },
+    "operation-us-v-anurag-pramod-murarka": {
+        "sources": [
+            "2026-04-18_justice-gov_international-crypto-vendor-sentenced-money-laundering-conspiracy",
+            "2025-01-17_decrypt_indian-crypto-vendor-sentenced-money-laundering",
+            "2025-01-17_whas11_international-crypto-vendor-sentenced-decade-prison-money-laundering",
+            "2025-01-22_coincentral_fbi-year-long-crypto-sting-takeover-elon-musk-themed-crypto-laundering",
+            "2025-01-17_trmlabs_us-law-enforcement-dismantles-24m-dark-web-crypto-laundering-network",
+        ],
+    },
+    "operation-us-v-austin-genay": {
+        "sources": [
+            "2026-04-18_justice-gov_philadelphia-man-sentenced-cyberstalking-and-wire-fraud",
+            "2023-12-19_lex18_man-ordered-to-pay-over-338000-to-kentucky-victim-he-stalked-online",
+            "2023-05-05_lexington-times_pa-man-extorted-468k-from-prominent-georgetown-resident",
+            "2023-05-05_news-graphic_philadelphia-man-indicted-for-blackmailing-local-man",
+            "2023-05-05_aol_grand-jury-kentucky-man-paid-468000-online-relationship",
+        ],
+    },
+    "operation-us-v-jesse-kipf": {
+        "sources": [
+            "2026-04-18_justice-gov_pulaski-county-man-indicted-cyber-intrusion-identity-theft-and-bank-fraud",
+            "2024-08-21_cyberscoop_kentucky-man-cyber-fraud-doj-sentenced",
+            "2024-08-20_nbcnews_kentucky-man-faked-death-avoid-paying-child-support-sentenced-6-years",
+            "2024-08-20_wkyt_kentucky-man-who-admitted-faking-death-avoid-child-support-receives-sentence",
+            "2024-08-21_washingtonpost_man-accused-of-faking-death-to-avoid-child-support-sentenced",
+        ],
+    },
+    "operation-us-v-michael-basalyga": {
+        "sources": [
+            "2026-04-18_justice-gov_florida-man-and-woman-sentenced-conspiracy-sell-counterfeit-drugs-dark-web-0",
+            "2024-11-06_federalnewswire_florida-pair-sentenced-conspiracy-counterfeit-xanax-dark-web",
+            "2024-11-06_fox56_florida-duo-sentenced-counterfeit-xanax-kentuckians-dark-web",
+            "2024-01-18_wkyt_four-plead-guilty-kentucky-scheme-sell-fake-xanax-online",
+            "2025-10-09_aol_miami-businessman-former-molly-dealer-trafficking-fake-xanax",
+        ],
+    },
+    "operation-us-v-omar-thomas-wala-and-vienna-cavanaugh": {
+        "sources": [
+            "2026-04-18_justice-gov_florida-man-and-woman-sentenced-conspiracy-sell-counterfeit-drugs-dark-web",
+            "2024-11-06_federalnewswire_florida-pair-sentenced-conspiracy-counterfeit-xanax-dark-web",
+            "2024-11-06_fox56_florida-duo-sentenced-counterfeit-xanax-kentuckians-dark-web",
+            "2024-11-06_tornews_florida-couple-dark-web-drug-trafficking-sentenced",
+            "2024-01-18_yahoo_four-plead-guilty-kentucky-fake-drugs-cryptocurrency-dark-web",
+        ],
+    },
+    "operation-us-v-sabbagh-dark-web": {
+        "sources": [
+            "2025-04-11_edky_sabbagh-darknet-counterfeit-sentencing",
+            "2025-04-14_dea-gov_darknet-vendor-sentenced-conspiracy-sell-counterfeit-drugs",
+            "2025-04-12_thetimestribune_darknet-vendor-sentenced-conspiracy-counterfeit-drugs",
+            "2024-01-18_wkyt_four-plead-guilty-kentucky-scheme-sell-fake-xanax-online",
+            "2024-01-18_yahoo_four-plead-guilty-kentucky-fake-drugs-cryptocurrency-dark-web",
+        ],
+    },
 
 }
 

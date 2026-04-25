@@ -52,11 +52,15 @@ challenges_encountered:
 
 lessons_learned:
 
-source_count: 1
+source_count: 5
 sources:
   - "[[2024-08-28_edny_ryan-scott-cochran-dark-web-plea]]"
+  - "[[2024-08-28_shorenewsnetwork_dark-web-drug-dealer-pleads-guilty-distributing-fentanyl-cocaine-methamphetamine]]"
+  - "[[2024-08-28_darkwebinformer_dark-web-vendor-admits-guilt-fentanyl-distribution-mail]]"
+  - "[[2024-08-28_x-edny_dark-web-vendor-pleads-guilty-fentanyl]]"
+  - "[[2024-02-22_pacermonitor_usa-v-cochran-california-northern-district]]"
 created: 2026-04-17
-updated: 2026-04-22
+updated: 2026-04-25
 operation_role: follow-on
 parent_operation: ""
 summary: "This domestic-only U.S. follow-on record has been absorbed into the canonical case page [[us-v-ryan-scott-cochran-dark-web]]. No visible cross-border mechanism is documented, so it is not treated as a separate international-cooperation operation."
@@ -77,6 +81,10 @@ This domestic-only U.S. follow-on record has been absorbed into the canonical ca
 
 ## References
 
-| # | Source | Publisher | Date | URL |
+| # | Title | Publisher | Date | URL |
 |---|---|---|---|---|
 | [1] | Dark Web Vendor Pleads Guilty to Distributing Fentanyl Through the Mail | US DOJ (Eastern District of New York) | 2024-08-28 | https://www.justice.gov/usao-edny/pr/dark-web-vendor-pleads-guilty-distributing-fentanyl-through-mail |
+| [2] | Dark Web Drug Dealer Pleads Guilty to Distributing Fentanyl, Cocaine, and Methamphetamine | Shore News Network | 2024-08-28 | https://www.shorenewsnetwork.com/dark-web-drug-dealer-pleads-guilty-to-distributing-fentanyl-cocaine-and-methamphetamine/ |
+| [3] | Dark Web Vendor Admits Guilt in Fentanyl Distribution Case Involving Mail | DarkWebInformer | 2024-08-28 | https://darkwebinformer.com/dark-web-vendor-admits-guilt-in-fentanyl-distribution-case-involving-mail/ |
+| [4] | Dark Web Vendor Pleads Guilty to Distributing Fentanyl Through the Mail (USAO EDNY official social media) | X (US Attorney EDNY official) | 2024-08-28 | https://x.com/EDNYnews/status/1828911065020641521 |
+| [5] | USA v. Cochran (5:24-mj-70241), California Northern District Court | PacerMonitor | 2024-02-22 | https://www.pacermonitor.com/public/case/52444682/USA_v_Cochran |

@@ -1,0 +1,27 @@
+---
+type: source
+title: "'Alright, you got me': Columbus man facing federal charges over alleged online ICE threats"
+source_type: news
+publisher: "MyFox28 Columbus (WSYX)"
+author: "WSYX Staff"
+publish_date: 2026-01-22
+ingest_date: 2026-04-25
+language: en
+reliability: medium
+credibility: confirmed
+sensitivity: public
+pages_updated:
+  - operation-us-v-justin-mesael-novoa
+key_findings:
+  - "HSI executed December 20, 2025 search warrant at Novoa's Columbus residence"
+  - "Novoa reportedly admitted to posts at search"
+collection_url: https://myfox28columbus.com/news/local/alright-you-got-me-columbus-facing-federal-charges-over-alleged-online-ice-threats-justin-mesael-novoa
+created: 2026-04-25
+---
+## Source Summary
+
+MyFox28 Columbus reports the Novoa case.
+
+## Relevance to IC
+
+This source provides Columbus local press for [[operation-us-v-justin-mesael-novoa]].

@@ -64,11 +64,21 @@ sources:
   - "[[2026-04-18_justice-gov_independence-pair-indicted-drug-and-firearms-offenses]]"
 summary: "This domestic-only U.S. follow-on record has been absorbed into the canonical case page [[independence-pair-indicted-for-drug-and-firearms-offenses]]. No visible cross-border mechanism is documented, so it is not treated as a separate international-cooperation operation."
 created: 2026-04-18
-updated: 2026-04-22
+updated: 2026-04-25
 ---
 ## Summary
 
 This domestic-only U.S. follow-on record has been absorbed into the canonical case page [[independence-pair-indicted-for-drug-and-firearms-offenses]]. No visible cross-border mechanism is documented, so it is not treated as a separate international-cooperation operation.
+
+> [!info] Source enrichment — single-source justification (2026-04-25)
+> Searched for additional credible sources covering this defendant/case (April Henderson and Donnell Timley):
+> - DOJ follow-up press releases (sentencing/conviction): not found (case at indictment stage September 2025)
+> - Parallel federal agency press releases: IRS-Criminal Investigation republished the indictment but no other federal agency press release found
+> - Court records (CourtListener / PACER / midpage / justia): not separately retrieved; no narrative court coverage found
+> - Local press coverage in Kansas City / Independence, MO: KTTN reported the DEA raid; major outlets (KMBC/KCTV5/FOX4KC) did not produce dedicated articles
+> - Specialized trade press: not found (case lacks cyber/IC elements warranting trade coverage)
+>
+> Only 2-3 verified secondary sources beyond the original DOJ press release; insufficient to reach source_count >= 5. `source_count: 1` is retained per LESSON L19 (do not assert sources that do not exist).
 
 ## Canonical Record
 
