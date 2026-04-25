@@ -24,6 +24,7 @@ official_name: "International Criminal Police Organization — INTERPOL"
 official_name_ko: "국제형사경찰기구 (인터폴)"
 operations_participated:
   - "[[bec-nigeria-2016]]"
+  - "[[operation-nightfury]]"
   - "[[operation-chakra-iii]]"
   - "[[operation-goldfish-alpha-night-fury]]"
   - "[[operation-killer-bee]]"

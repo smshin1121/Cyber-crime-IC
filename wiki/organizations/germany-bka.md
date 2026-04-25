@@ -24,6 +24,7 @@ official_name: Bundeskriminalamt
 official_name_ko: "독일 연방형사경찰청"
 operations_participated:
   - "[[operation-cronos-phase1]]"
+  - "[[operation-nova]]"
   - "[[operation-cronos-phase3]]"
   - "[[operation-dark-huntor]]"
   - "[[operation-endgame]]"

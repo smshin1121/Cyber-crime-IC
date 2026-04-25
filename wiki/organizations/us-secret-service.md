@@ -22,6 +22,7 @@ notable_cases:
 official_name: "United States Secret Service, Cyber Fraud Task Forces"
 operations_participated:
   - "[[operation-endgame]]"
+  - "[[hive-ransomware-takedown]]"
   - "[[operation-endgame-phase2]]"
   - "[[operation-pleiades]]"
   - "[[operation-secreto]]"

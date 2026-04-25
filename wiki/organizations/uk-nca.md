@@ -24,6 +24,7 @@ official_name: "National Crime Agency"
 official_name_ko: "영국 국가범죄수사국"
 operations_participated:
   - "[[2bagoldmule-qqaazz]]"
+  - "[[hive-ransomware-takedown]]"
   - "[[operation-bakovia]]"
   - "[[operation-cronos-phase1]]"
   - "[[operation-cronos-phase3]]"
