@@ -79,11 +79,11 @@ lessons_learned:
   - "Commodity malware with thousands of buyers requires broad international cooperation"
 source_count: 5
 sources:
-  - tier3-thehackernews-imrat-2019
-  - tier3-welivesecurity-imrat-2019
-  - tier3-portswigger-imrat-2019
-  - tier3-aspi-imrat-2019
-  - tier3-wiredgov-imrat-2019
+  - "[[2019-11-29_thehackernews-com_europol-imminent-monitor-rat]]"
+  - "[[2019-12-03_welivesecurity-com_notorious-rat-spy-tool-global-operation]]"
+  - "[[2019-12-01_portswigger-net_imminent-monitor-spyware-operation-undone-by-opsec-mistakes]]"
+  - "[[2019-12-01_aspi-org-au_national-security-wrap-186]]"
+  - "[[2019-12-02_wired-gov-net_cybercrime-site-selling-hacking-tool-taken-down]]"
 created: 2026-04-08
 updated: 2026-04-08
 operation_role: umbrella

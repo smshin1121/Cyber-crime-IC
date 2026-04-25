@@ -131,11 +131,11 @@ lessons_learned:
   - "Impersonation fraud (criminals posing as INTERPOL/Europol officers) is an emerging trend requiring public awareness campaigns"
 source_count: 5
 sources:
-  - "[[the-hacker-news-operation-haechi-ii|The Hacker News: HAECHI-III Crackdown (2022-11-24)]]"
-  - "[2] INTERPOL press release: Cyber-enabled financial crime (2022-11-24)"
-  - "[3] Bleeping Computer: Interpol seized $130 million (2022-11-24)"
-  - "[4] GBHackers: Operation HAECHI III (2022-11)"
-  - "[5] Heimdal Security: $130 Million Seized (2022-11)"
+  - "[[2022-11-24_interpol-int_cyber-enabled-financial-crime-usd-130-million-intercepted-in-global-interpol-pol]]"
+  - "[[2022-11-24_bleepingcomputer-com_interpol-seized-130-million-from-cybercriminals-worldwide]]"
+  - "[[2022-11-24_thehackernews-com_interpol-seized-130-million-from-cybercriminals-in-global-haechi-iii-crackdown]]"
+  - "[[2022-11-01_gbhackers-com_operation-haechi-iii-interpol-arrested-1000-cyber-criminals-seized-130-million]]"
+  - "[[2022-11-01_therecord-media_almost-1-000-suspects-arrested-in-interpol-operation-which-seized-over-129-milli]]"
 created: 2026-04-10
 updated: 2026-04-11
 operation_role: umbrella

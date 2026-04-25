@@ -101,7 +101,13 @@ lessons_learned:
   - "Dark web marketplace takedowns trigger successor markets, requiring sustained enforcement"
 source_count: 7
 sources:
-  - "[[wired-operation-avalanche|Wired: Silk Road 2.0 / Ulbricht Sentencing Coverage]]"
+  - "[[2014-02-04_justice-gov_manhattan-u-s-attorney-announces-the-indictment-of-ross-ulbricht]]"
+  - "[[2015-02-04_fbi-gov_ross-ulbricht-found-guilty-on-all-counts]]"
+  - "[[2015-05-29_ice-gov_ross-ulbricht-sentenced-to-life-in-federal-prison]]"
+  - "[[2015-05-29_fbi-gov_ross-ulbricht-sentenced-to-life-in-prison]]"
+  - "[[2019-07-19_justice-gov_irish-man-who-helped-operate-silk-road-sentenced]]"
+  - "[[2015-12-03_ice-gov_senior-advisor-arrested-in-thailand]]"
+  - "[[2025-01-01_en-wikipedia-org_silk-road-marketplace]]"
 created: 2026-04-10
 updated: 2026-04-17
 operation_role: umbrella

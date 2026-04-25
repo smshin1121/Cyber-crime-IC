@@ -107,13 +107,13 @@ lessons_learned:
   - "Timing takedowns before Christmas disrupts the seasonal peak in DDoS attacks against gaming and e-commerce platforms"
 source_count: 7
 sources:
-  - "[[fbi-international-ddos-for-hire-sweep|FBI DDoS-for-Hire Sweep (2016)]]"
-  - "[[cyberscoop-international-ddos-for-hire-sweep|CyberScoop DDoS Sweep]]"
-  - "[3] Europol: Law enforcement shuts down 27 DDoS booters (2024-12-11)"
-  - "[4] DOJ: Federal Prosecutors Charge 6 Defendants (2022-12-14)"
-  - "[5] Wikipedia: Operation PowerOFF"
-  - "[6] DOJ: Law Enforcement Seizes 9 DDoS-for-Hire Webpages (2024-09)"
-  - "[7] DOJ: 13 More Domains Seized (2023-05-08)"
+  - "[[2024-12-11_europol-europa-eu_law-enforcement-shuts-down-27-ddos-booters-ahead-of-annual-christmas-attacks]]"
+  - "[[2022-12-14_justice-gov_federal-prosecutors-in-los-angeles-and-alaska-charge-6-defendants]]"
+  - "[[2024-09-01_justice-gov_law-enforcement-seizes-9-ddos-for-hire-webpages]]"
+  - "[[2023-05-09_bleepingcomputer-com_fbi-seizes-13-more-domains-linked-to-ddos-for-hire-services]]"
+  - "[[2024-12-12_cyberscoop-com_international-crackdown-disrupts-ddos-for-hire-operations]]"
+  - "[[2026-04-17_en-wikipedia-org_operation-poweroff]]"
+  - "[[2024-12-12_theregister-com_operation-poweroff-extinguishes-18-more-ddos-booters]]"
 created: 2026-04-10
 updated: 2026-04-11
 operation_role: umbrella

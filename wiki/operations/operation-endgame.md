@@ -86,9 +86,14 @@ results:
 source_count: 9
 sources:
   - "[[2024-05-30-europol-operation-endgame-botnet-takedown]]"
+  - "[[2024-05-29_fbi-gov_operation-endgame-coordinated-worldwide-law-enforcement-action-against-network-o]]"
+  - "[[2024-05-30_bmi-bund-de_worldwide-investigation-against-cyber-crime-crowned-by-success]]"
+  - "[[2025-04-09_europol-europa-eu_operation-endgame-follow-up-leads-to-five-detentions-and-interrogations-as-well]]"
   - "[[2025-05-23-europol-operation-endgame-phase2]]"
-  - "[[europol-operation-endgame-phase-2-ransomware-kill-chain-disruption]]"
+  - "[[2026-04-17_europol-europa-eu_operation-endgame-official-page]]"
+  - "[[2024-05-30_krebsonsecurity-com_operation-endgame-hits-malware-delivery-platforms]]"
   - "[[the-hacker-news-operation-endgame-phase-2-ransomware-kill-chain-disrup]]"
+  - "[[2025-05-23_helpnetsecurity_operation-endgame-danabot-botnet-disrupted-qakbot-leader]]"
 related_cases:
   - "[[us-v-gallyamov-qakbot]]"
   - "[[us-v-stepanov-danabot]]"

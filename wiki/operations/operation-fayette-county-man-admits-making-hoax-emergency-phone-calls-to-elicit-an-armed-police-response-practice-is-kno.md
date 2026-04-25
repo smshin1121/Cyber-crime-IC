@@ -2,7 +2,7 @@
 type: operation
 title: "Fayette County Man Admits Making Hoax Emergency Phone Calls to Elicit an Armed Police Response: Practice is Known as “Swatting” Enforcement Action"
 aliases:
-  - 'Fayette County Man Admits Making Hoax Emergency Phone Calls to Elicit an Armed Police Response: "Practice is Known as ??watting??'"
+  - "Fayette County Man Admits Making Hoax Emergency Phone Calls to Elicit an Armed Police Response: Practice is Known as Swatting"
 case_id: CYB-FUP-548
 period: 1
 operation_role: follow-on
