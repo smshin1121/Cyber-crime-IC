@@ -64,11 +64,21 @@ sources:
   - "[[2026-04-18_justice-gov_san-francisco-resident-charged-alleged-identity-theft-bank-fraud-and-aggravated]]"
 summary: "This domestic-only U.S. follow-on record has been absorbed into the canonical case page [[us-v-in-alleged-identity-theft-and-san-francisco-resident]]. No visible cross-border mechanism is documented, so it is not treated as a separate international-cooperation operation."
 created: 2026-04-18
-updated: 2026-04-22
+updated: 2026-04-25
 ---
 ## Summary
 
 This domestic-only U.S. follow-on record has been absorbed into the canonical case page [[us-v-in-alleged-identity-theft-and-san-francisco-resident]]. No visible cross-border mechanism is documented, so it is not treated as a separate international-cooperation operation.
+
+> [!info] Source enrichment — single-source justification (2026-04-25)
+> Searched for additional credible sources covering Charlyne Basada's San Francisco bank fraud and identity theft indictment (NDCA, September 2015):
+> - DOJ follow-up press releases (later guilty plea PRs exist but are referenced as part of the canonical case page)
+> - Parallel federal agency press releases (FBI/USPS Inspectors): not found
+> - Court records (CourtListener / PACER / midpage / justia): docket exists but no narrative coverage
+> - Local press coverage in San Francisco/Bay Area: not found
+> - Specialized trade press: not applicable (routine domestic embezzlement-style fraud)
+>
+> This appears to be a single-press-release domestic action with no independent secondary coverage. `source_count: 1` is retained per LESSON L19 (do not assert sources that do not exist).
 
 ## Canonical Record
 

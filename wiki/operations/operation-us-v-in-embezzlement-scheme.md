@@ -64,11 +64,21 @@ sources:
   - "[[2026-04-18_justice-gov_salinas-man-charged-embezzlement-scheme]]"
 summary: "This domestic-only U.S. follow-on record has been absorbed into the canonical case page [[us-v-in-embezzlement-scheme]]. No visible cross-border mechanism is documented, so it is not treated as a separate international-cooperation operation."
 created: 2026-04-18
-updated: 2026-04-22
+updated: 2026-04-25
 ---
 ## Summary
 
 This domestic-only U.S. follow-on record has been absorbed into the canonical case page [[us-v-in-embezzlement-scheme]]. No visible cross-border mechanism is documented, so it is not treated as a separate international-cooperation operation.
+
+> [!info] Source enrichment — single-source justification (2026-04-25)
+> Searched for additional credible sources covering the Salinas embezzlement charge (Morton, Tehama Golf Club; NDCA, September 2015):
+> - DOJ follow-up press releases (sentencing/conviction): not found beyond the canonical PR
+> - Parallel federal agency press releases (FBI/IRS-CI): not found
+> - Court records (CourtListener / PACER / midpage / justia): docket exists but no narrative coverage
+> - Local press coverage in Salinas/Monterey/Bay Area: not found
+> - Specialized trade press: not applicable (routine domestic embezzlement)
+>
+> This appears to be a single-press-release domestic action with no independent secondary coverage. `source_count: 1` is retained per LESSON L19 (do not assert sources that do not exist).
 
 ## Canonical Record
 

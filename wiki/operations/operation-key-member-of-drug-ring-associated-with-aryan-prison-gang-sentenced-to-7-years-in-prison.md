@@ -46,25 +46,29 @@ results:
   other:
     - "Defendant-specific follow-on action derived from [[key-member-of-drug-ring-associated-with-aryan-prison-gang-sentenced-to-7-years-in-prison]]"
 edges:
-  []
+
 credibility_index: 4.0
 source_tier: 1
 missing_fields:
-  []
+
 related_cases:
   - "[[key-member-of-drug-ring-associated-with-aryan-prison-gang-sentenced-to-7-years-in-prison]]"
 related_operations:
-  []
+
 challenges_encountered:
-  []
+
 lessons_learned:
-  []
-source_count: 1
+
+source_count: 5
 sources:
   - "[[2026-04-18_justice-gov_key-member-drug-ring-associated-aryan-prison-gang-sentenced-7-years-prison]]"
+  - "[[2025-01-31_dea-gov_two-members-multi-state-drug-trafficking-aryan-prison-gangs-sentenced-lengthy-prison-terms]]"
+  - "[[2025-02-04_komonews_two-washington-residents-aryan-prison-gangs-sentenced-drug-trafficking]]"
+  - "[[2025-02-03_yahoo-news_2-pierce-county-residents-worked-aryan-gangs-sell-drugs-off-prison]]"
+  - "[[2025-02-04_chronline_two-washington-residents-aryan-gangs-sell-drugs-off-prison]]"
 summary: "This domestic-only U.S. follow-on record has been absorbed into the canonical case page [[key-member-of-drug-ring-associated-with-aryan-prison-gang-sentenced-to-7-years-in-prison]]. No visible cross-border mechanism is documented, so it is not treated as a separate international-cooperation operation."
 created: 2026-04-18
-updated: 2026-04-22
+updated: 2026-04-25
 ---
 ## Summary
 
@@ -76,6 +80,10 @@ This domestic-only U.S. follow-on record has been absorbed into the canonical ca
 
 ## References
 
-| # | Source | Publisher | Date | URL |
+| # | Title | Publisher | Date | URL |
 |---|---|---|---|---|
 | [1] | Key member of drug ring associated with Aryan prison gang sentenced to 7+ years in prison | US DOJ USAO | 2025-02-07 | https://www.justice.gov/usao-wdwa/pr/key-member-drug-ring-associated-aryan-prison-gang-sentenced-7-years-prison |
+| [2] | Two Members of Multi-State Drug Trafficking Rings Linked to Aryan Prison Gangs Sentenced to Lengthy Prison Terms | DEA | 2025-01-31 | https://www.dea.gov/press-releases/2025/01/31/two-members-multi-state-drug-trafficking-rings-linked-aryan-prison-gangs |
+| [3] | Two Washington residents linked to Aryan prison gangs sentenced for drug trafficking | KOMO News | 2025-02-04 | https://komonews.com/news/local/two-washingtonians-linked-to-aryan-prison-gangs-sentenced-for-drug-trafficking-meth-fentanyl-crime-arrest-dea-fbi-investigation |
+| [4] | 2 Pierce County residents worked with Aryan gangs to sell drugs. They're off to prison | Yahoo News (News Tribune) | 2025-02-03 | https://www.yahoo.com/news/2-pierce-county-residents-worked-130000368.html |
+| [5] | Two Washington residents who worked with Aryan gangs to sell drugs are off to prison | The Daily Chronicle | 2025-02-04 | https://www.chronline.com/stories/two-washington-residents-who-worked-with-aryan-gangs-to-sell-drugs-are-off-to-prison,374785 |

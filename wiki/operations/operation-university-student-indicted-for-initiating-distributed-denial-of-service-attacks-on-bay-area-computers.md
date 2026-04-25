@@ -64,11 +64,21 @@ sources:
   - "[[2026-04-18_justice-gov_university-student-indicted-initiating-distributed-denial-service-attacks-bay-area]]"
 summary: "This domestic-only U.S. follow-on record has been absorbed into the canonical case page [[university-student-indicted-for-initiating-distributed-denial-of-service-attacks-on-bay-area-computers]]. No visible cross-border mechanism is documented, so it is not treated as a separate international-cooperation operation."
 created: 2026-04-18
-updated: 2026-04-22
+updated: 2026-04-25
 ---
 ## Summary
 
 This domestic-only U.S. follow-on record has been absorbed into the canonical case page [[university-student-indicted-for-initiating-distributed-denial-of-service-attacks-on-bay-area-computers]]. No visible cross-border mechanism is documented, so it is not treated as a separate international-cooperation operation.
+
+> [!info] Source enrichment — single-source justification (2026-04-25)
+> Searched for additional credible sources covering Sean Sharma's USC student DDoS indictment (NDCA, December 2016):
+> - DOJ follow-up press releases (additional sentencing/conviction): not found
+> - Parallel federal agency press releases (FBI San Francisco): an FBI SF field office page exists but lacks narrative depth beyond the DOJ PR
+> - Court records (CourtListener / PACER / midpage / justia): docket exists but no narrative coverage
+> - Local press coverage in San Francisco/Bay Area: not found
+> - Specialized trade press (DataBreaches.net brief mention only): coverage too thin to constitute a credible secondary source set of 4
+>
+> While 1-2 secondary mentions exist (FBI field office, DataBreaches.net), the cluster does not reach the 4+ verified-source threshold required by Wave 3 strategy (C). `source_count: 1` is retained per LESSON L19 (do not assert sources that do not exist).
 
 ## Canonical Record
 

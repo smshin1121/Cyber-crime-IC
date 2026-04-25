@@ -46,25 +46,29 @@ results:
   other:
     - "Defendant-specific follow-on action derived from [[man-caught-three-times-with-dealer-quantities-of-fentanyl-indicted-federally]]"
 edges:
-  []
+
 credibility_index: 4.0
 source_tier: 1
 missing_fields:
-  []
+
 related_cases:
   - "[[man-caught-three-times-with-dealer-quantities-of-fentanyl-indicted-federally]]"
 related_operations:
-  []
+
 challenges_encountered:
-  []
+
 lessons_learned:
-  []
-source_count: 1
+
+source_count: 5
 sources:
   - "[[2026-04-18_justice-gov_man-caught-three-times-dealer-quantities-fentanyl-indicted-federally]]"
+  - "[[2025-04-11_dea-gov_man-caught-three-times-dealer-quantities-fentanyl-indicted-federally]]"
+  - "[[2025-04-11_yahoo-news_federal-drug-case-dealer-quantities-fentanyl]]"
+  - "[[2025-04-11_fbi-gov_fbi-seattle-news-rss-man-caught-three-times-fentanyl]]"
+  - "[[2025-04-11_fox13seattle_tacoma-wa-man-sentenced-federal-prison-fentanyl-trafficking-conspiracy]]"
 summary: "This domestic-only U.S. follow-on record has been absorbed into the canonical case page [[man-caught-three-times-with-dealer-quantities-of-fentanyl-indicted-federally]]. No visible cross-border mechanism is documented, so it is not treated as a separate international-cooperation operation."
 created: 2026-04-18
-updated: 2026-04-22
+updated: 2026-04-25
 ---
 ## Summary
 
@@ -76,6 +80,10 @@ This domestic-only U.S. follow-on record has been absorbed into the canonical ca
 
 ## References
 
-| # | Source | Publisher | Date | URL |
+| # | Title | Publisher | Date | URL |
 |---|---|---|---|---|
 | [1] | Man caught three times with dealer quantities of fentanyl indicted federally | US DOJ USAO | 2025-04-10 | https://www.justice.gov/usao-wdwa/pr/man-caught-three-times-dealer-quantities-fentanyl-indicted-federally |
+| [2] | Man Caught Three Times with Dealer Quantities of Fentanyl Indicted Federally | DEA | 2025-04-11 | https://www.dea.gov/press-releases/2025/04/11/man-caught-three-times-dealer-quantities-fentanyl-indicted-federally |
+| [3] | Federal drug case involves 'dealer quantities' of fentanyl | Yahoo News | 2025-04-11 | https://www.yahoo.com/news/federal-drug-case-involves-dealer-193427928.html |
+| [4] | Seattle News (FBI Seattle Field Office) | FBI Seattle (RSS) | 2025-04-11 | https://www.fbi.gov/feeds/email-alerts/seattle-news/RSS |
+| [5] | Tacoma, WA man sentenced to federal prison for fentanyl trafficking conspiracy | FOX 13 Seattle | 2025-04-11 | https://www.fox13seattle.com/news/tacoma-man-prison-fentanyl-trafficking-conspiracy |

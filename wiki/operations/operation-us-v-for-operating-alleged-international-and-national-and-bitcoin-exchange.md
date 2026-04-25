@@ -46,25 +46,29 @@ results:
   other:
     - "Defendant-specific follow-on action derived from [[us-v-for-operating-alleged-international-and-national-and-bitcoin-exchange]]"
 edges:
-  []
+
 credibility_index: 4.0
 source_tier: 1
 missing_fields:
-  []
+
 related_cases:
   - "[[us-v-for-operating-alleged-international-and-national-and-bitcoin-exchange]]"
 related_operations:
-  []
+
 challenges_encountered:
-  []
+
 lessons_learned:
-  []
-source_count: 1
+
+source_count: 5
 sources:
   - "[[2026-04-18_justice-gov_russian-national-and-bitcoin-exchange-charged-21-count-indictment-operating-alleged]]"
+  - "[[2017-07-27_cyberscoop_fincen-fines-btc-e-110-million-for-violating-anti-money-laundering-laws]]"
+  - "[[2017-07-27_lawfare_btc-e-indictment-major-blow-against-online-criminal-activity]]"
+  - "[[2017-07-27_occrp_us-indicts-russian-suspected-of-laundering-us4-billion-for-criminals]]"
+  - "[[2023-06-09_therecord_russian-nationals-accused-of-mt-gox-bitcoin-heist-shifting-stolen-funds-to-btc-e]]"
 summary: "This domestic-only U.S. follow-on record has been absorbed into the canonical case page [[us-v-for-operating-alleged-international-and-national-and-bitcoin-exchange]]. No visible cross-border mechanism is documented, so it is not treated as a separate international-cooperation operation."
 created: 2026-04-18
-updated: 2026-04-22
+updated: 2026-04-25
 ---
 ## Summary
 
@@ -76,6 +80,10 @@ This domestic-only U.S. follow-on record has been absorbed into the canonical ca
 
 ## References
 
-| # | Source | Publisher | Date | URL |
+| # | Title | Publisher | Date | URL |
 |---|---|---|---|---|
 | [1] | Russian National And Bitcoin Exchange Charged In 21-Count Indictment For Operating Alleged International Money Laundering Scheme And Allegedly Laundering Funds From Hack Of Mt. Gox | US DOJ USAO | 2017-07-27 | https://www.justice.gov/usao-ndca/pr/russian-national-and-bitcoin-exchange-charged-21-count-indictment-operating-alleged |
+| [2] | FinCEN fines BTC-e $110 million for violating anti-money laundering laws | CyberScoop | 2017-07-27 | https://cyberscoop.com/canton-business-corporation-money-laundering-fincen-btc/ |
+| [3] | The BTC-e Indictment: A Major Blow against Online Criminal Activity | Lawfare | 2017-07-27 | https://www.lawfaremedia.org/article/btc-e-indictment-major-blow-against-online-criminal-activity |
+| [4] | US Indicts Russian Suspected of Laundering US$4 Billion for Criminals | OCCRP (Organized Crime and Corruption Reporting Project) | 2017-07-27 | https://www.occrp.org/en/news/us-indicts-russian-suspected-of-laundering-us4-billion-for-criminals |
+| [5] | Russian nationals accused of Mt. Gox bitcoin heist, shifting stolen funds to BTC-e | The Record (Recorded Future News) | 2023-06-09 | https://therecord.media/mt-gox-stolen-bitcoin-indictment-russian-nationals |

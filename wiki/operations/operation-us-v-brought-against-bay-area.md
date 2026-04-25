@@ -64,11 +64,21 @@ sources:
   - "[[2026-04-18_justice-gov_child-pornography-charges-brought-against-bay-area-babysitters]]"
 summary: "This domestic-only U.S. follow-on record has been absorbed into the canonical case page [[us-v-brought-against-bay-area]]. No visible cross-border mechanism is documented, so it is not treated as a separate international-cooperation operation."
 created: 2026-04-18
-updated: 2026-04-22
+updated: 2026-04-25
 ---
 ## Summary
 
 This domestic-only U.S. follow-on record has been absorbed into the canonical case page [[us-v-brought-against-bay-area]]. No visible cross-border mechanism is documented, so it is not treated as a separate international-cooperation operation.
+
+> [!info] Source enrichment — single-source justification (2026-04-25)
+> Searched for additional credible sources covering the Petersen/Spencer Bay Area babysitter CSAM charges (NDCA, May 2017):
+> - DOJ follow-up press releases (later guilty plea PR exists but is in the canonical case page already)
+> - Parallel federal agency press releases (FBI San Francisco): not found beyond the USAO PR
+> - Court records (CourtListener / PACER / midpage / justia): docket exists but no narrative coverage
+> - Local press coverage in Bay Area: a brief KRON4 mention exists but lacks substantive added information
+> - Specialized trade press: not applicable (CSAM case, not cyber-IC focus)
+>
+> This appears to be a single-press-release domestic action with no independent secondary coverage of substance. `source_count: 1` is retained per LESSON L19 (do not assert sources that do not exist).
 
 ## Canonical Record
 

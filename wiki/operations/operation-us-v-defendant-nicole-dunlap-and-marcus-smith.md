@@ -64,11 +64,21 @@ sources:
   - "[[2026-04-18_justice-gov_bay-area-residents-sentenced-five-years-counterfeit-currency-and-credit-card-fraud]]"
 summary: "This domestic-only U.S. follow-on record has been absorbed into the canonical case page [[us-v-defendant-nicole-dunlap-and-marcus-smith]]. No visible cross-border mechanism is documented, so it is not treated as a separate international-cooperation operation."
 created: 2026-04-18
-updated: 2026-04-22
+updated: 2026-04-25
 ---
 ## Summary
 
 This domestic-only U.S. follow-on record has been absorbed into the canonical case page [[us-v-defendant-nicole-dunlap-and-marcus-smith]]. No visible cross-border mechanism is documented, so it is not treated as a separate international-cooperation operation.
+
+> [!info] Source enrichment — single-source justification (2026-04-25)
+> Searched for additional credible sources covering the Dunlap/Smith Bay Area counterfeit currency and credit card fraud sentencing (NDCA, January 2020):
+> - DOJ follow-up press releases: not found beyond the canonical PR
+> - Parallel federal agency press releases: USSS PR exists (parallel agency credit), but available secondary trade-press / national-press coverage is otherwise sparse
+> - Court records (CourtListener / PACER / midpage / justia): docket exists but no narrative coverage
+> - Local press coverage in Bay Area: a Mercury News brief exists but is short/duplicative
+> - Specialized trade press: not found (routine domestic counterfeit-currency case)
+>
+> The cluster does not reach the 4+ verified-source threshold required by Wave 3 strategy (C). `source_count: 1` is retained per LESSON L19 (do not assert sources that do not exist).
 
 ## Canonical Record
 

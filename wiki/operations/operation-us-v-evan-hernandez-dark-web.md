@@ -52,11 +52,15 @@ challenges_encountered:
 
 lessons_learned:
 
-source_count: 1
+source_count: 5
 sources:
   - "[[2022-01-19_cdca_evan-hernandez-dark-web-sentencing]]"
+  - "[[2022-01-19_nbcla_ex-pro-skateboarder-meth-bitcoin-laundering]]"
+  - "[[2022-01-19_lbpost_ex-pro-skater-long-beach-8-years-drug-trafficking]]"
+  - "[[2022-01-19_complex_former-pro-skateboarder-8-years-selling-meth]]"
+  - "[[2022-01-19_tmz_pro-skateboarder-8-years-prison-2-lbs-meth]]"
 created: 2026-04-17
-updated: 2026-04-22
+updated: 2026-04-25
 operation_role: follow-on
 parent_operation: ""
 summary: "This domestic-only U.S. follow-on record has been absorbed into the canonical case page [[us-v-evan-hernandez-dark-web]]. No visible cross-border mechanism is documented, so it is not treated as a separate international-cooperation operation."
@@ -77,6 +81,10 @@ This domestic-only U.S. follow-on record has been absorbed into the canonical ca
 
 ## References
 
-| # | Source | Publisher | Date | URL |
+| # | Title | Publisher | Date | URL |
 |---|---|---|---|---|
 | [1] | Ex-Pro Skateboarder Sentenced to Over 8 Years in Prison for Selling Methamphetamine and Laundering Bitcoin Drug Proceeds | US DOJ (Central District of California) | 2022-01-19 | https://www.justice.gov/usao-cdca/pr/ex-pro-skateboarder-sentenced-over-8-years-prison-selling-methamphetamine-and |
+| [2] | Ex-Pro Skateboarder Sentenced for Selling Methamphetamine and Laundering Bitcoin Drug Proceeds | NBC Los Angeles | 2022-01-19 | https://www.nbclosangeles.com/news/local/ex-pro-skateboarder-sentenced-for-selling-methamphetamine-and-laundering-bitcoin-drug-proceeds/2801479/ |
+| [3] | Ex-pro skater from Long Beach sentenced to 8 years for role in drug-trafficking ring | Long Beach Post | 2022-01-19 | https://lbpost.com/news/evan-hernandez-pro-skater-long-beach-sentenced-crime/ |
+| [4] | Former Pro Skateboarder Evan Hernandez Sentenced to 8 Years for Selling Meth | Complex | 2022-01-19 | https://www.complex.com/life/a/jose-martinez/skateboarder-evan-hernandez-sentenced-selling-meth |
+| [5] | Pro Skateboarder Evan Hernandez Sentenced To 8+ Yrs In Prison For Selling 2 Lbs. Meth | TMZ | 2022-01-19 | https://www.tmz.com/2022/01/19/pro-skateboarder-evan-hernandez-sentenced-federal-prison-8-years-selling-meth-bitcoin/ |

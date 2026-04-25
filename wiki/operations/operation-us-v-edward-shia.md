@@ -64,11 +64,21 @@ sources:
   - "[[2026-04-18_justice-gov_san-francisco-man-sentenced-84-months-prison-possession-child-pornography]]"
 summary: "This domestic-only U.S. follow-on record has been absorbed into the canonical case page [[us-v-edward-shia]]. No visible cross-border mechanism is documented, so it is not treated as a separate international-cooperation operation."
 created: 2026-04-18
-updated: 2026-04-22
+updated: 2026-04-25
 ---
 ## Summary
 
 This domestic-only U.S. follow-on record has been absorbed into the canonical case page [[us-v-edward-shia]]. No visible cross-border mechanism is documented, so it is not treated as a separate international-cooperation operation.
+
+> [!info] Source enrichment — single-source justification (2026-04-25)
+> Searched for additional credible sources covering Edward Shia's CSAM possession sentencing (NDCA, May 2017):
+> - DOJ follow-up press releases: not found
+> - Parallel federal agency press releases (FBI San Francisco): not found
+> - Court records (CourtListener / PACER / midpage / justia / Leagle): a Leagle.com docket entry exists but is purely procedural without independent narrative
+> - Local press coverage in Bay Area: a Patch.com article exists but is duplicative of the DOJ release
+> - Specialized trade press: not applicable (CSAM-possession case, not cyber-IC focus)
+>
+> The cluster does not reach the 4+ independent-source threshold required by Wave 3 strategy (C). `source_count: 1` is retained per LESSON L19 (do not assert sources that do not exist).
 
 ## Canonical Record
 

@@ -55,7 +55,7 @@ source_count: 1
 sources:
   - "[[2019-04-12_ndca_gutierrez-villasenor-darknet-sentencing]]"
 created: 2026-04-17
-updated: 2026-04-22
+updated: 2026-04-25
 operation_role: follow-on
 parent_operation: ""
 summary: "This domestic-only U.S. follow-on record has been absorbed into the canonical case page [[us-v-gutierrez-villasenor-dark-web]]. No visible cross-border mechanism is documented, so it is not treated as a separate international-cooperation operation."
@@ -69,6 +69,16 @@ crime_types:
 ## Summary
 
 This domestic-only U.S. follow-on record has been absorbed into the canonical case page [[us-v-gutierrez-villasenor-dark-web]]. No visible cross-border mechanism is documented, so it is not treated as a separate international-cooperation operation.
+
+> [!info] Source enrichment — single-source justification (2026-04-25)
+> Searched for additional credible sources covering Brian Gutierrez-Villasenor (JetSetLife) darknet drug vendor sentencing (NDCA, April 2019):
+> - DOJ follow-up press releases: only the canonical sentencing PR identified
+> - Parallel federal agency press releases (DEA): a DEA press release exists but is duplicative of the DOJ PR
+> - Court records (CourtListener / PACER / midpage / justia): a PACER docket and a Scribd-hosted criminal complaint exist; both procedural rather than narrative
+> - Local press coverage in Bay Area: a brief SF Examiner piece exists but is sparse and largely duplicative
+> - Specialized trade press (DarkWebNews, Steemit, security blogs): exists for the original 2018 arrest but does not match the April 2019 sentencing date
+>
+> The cluster of new credible secondary sources for the sentencing does not reach the 4+ threshold required by Wave 3 strategy (C). `source_count: 1` is retained per LESSON L19 (do not assert sources that do not exist).
 
 ## Canonical Record
 

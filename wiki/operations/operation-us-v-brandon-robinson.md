@@ -64,11 +64,21 @@ sources:
   - "[[2026-04-18_justice-gov_el-cerrito-resident-sentenced-four-and-half-years-prison-stealing-ids-and-us-treasury]]"
 summary: "This domestic-only U.S. follow-on record has been absorbed into the canonical case page [[us-v-brandon-robinson]]. No visible cross-border mechanism is documented, so it is not treated as a separate international-cooperation operation."
 created: 2026-04-18
-updated: 2026-04-22
+updated: 2026-04-25
 ---
 ## Summary
 
 This domestic-only U.S. follow-on record has been absorbed into the canonical case page [[us-v-brandon-robinson]]. No visible cross-border mechanism is documented, so it is not treated as a separate international-cooperation operation.
+
+> [!info] Source enrichment — single-source justification (2026-04-25)
+> Searched for additional credible sources covering Brandon Robinson's El Cerrito Treasury check theft sentencing (NDCA, May 2017):
+> - DOJ follow-up press releases (sentencing/conviction): a DOJ-OPA mirror PR exists but is duplicative of the canonical PR
+> - Parallel federal agency press releases (FBI/IRS-CI/USPS Inspectors): not found
+> - Court records (CourtListener / PACER / midpage / justia): docket exists but no narrative coverage
+> - Local press coverage in Bay Area: not found beyond a tangential ABC10 social media post
+> - Specialized trade press: not found (routine domestic identity-theft case)
+>
+> This appears to be a single-press-release domestic action with no independent secondary coverage of substance. `source_count: 1` is retained per LESSON L19 (do not assert sources that do not exist).
 
 ## Canonical Record
 

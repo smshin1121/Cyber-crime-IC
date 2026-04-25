@@ -1,0 +1,27 @@
+---
+type: source
+title: "Seattle News (FBI Seattle Field Office) — Grays Harbor narcotics plea"
+source_type: press-release
+publisher: "FBI Seattle (RSS)"
+author: "Staff"
+publish_date: 2025-09-23
+ingest_date: 2026-04-25
+language: en
+reliability: high
+credibility: confirmed
+sensitivity: public
+pages_updated:
+  - operation-man-from-grays-harbor-county-washington-pleads-guilty-to-possession-of-narcotics-with-intent-to-distribute
+key_findings:
+  - "FBI Seattle field office RSS distribution of the USAO-WDWA Grays Harbor announcement."
+  - "Confirms FBI Seattle as the lead investigating agency."
+collection_url: https://www.fbi.gov/feeds/email-alerts/seattle-news/RSS
+created: 2026-04-25
+---
+## Source Summary
+
+FBI Seattle Field Office RSS distribution of the Armas guilty plea announcement.
+
+## Relevance to IC
+
+This source provides parallel agency confirmation for [[operation-man-from-grays-harbor-county-washington-pleads-guilty-to-possession-of-narcotics-with-intent-to-distribute]].
