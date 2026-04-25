@@ -70,6 +70,18 @@ updated: 2026-04-25
 
 This domestic-only U.S. follow-on record has been absorbed into the canonical case page [[us-v-donjuan-murphy]]. No visible cross-border mechanism is documented, so it is not treated as a separate international-cooperation operation.
 
+> [!warning] Slug-content alignment review needed (2026-04-25)
+> Wave 6 EDVA agent flagged this slug as a potential L1/L16 filename-vs-content mismatch.
+> The cited DOJ press release "Firebomb Attack Plotters Sentenced to Combined Over 23 Years in Prison"
+> (2020-11-20) names defendants Burgamy and Wilson per Wave 6 review (and DOJ EDVA records),
+> not "Donjuan Murphy". WebSearch (2026-04-25) finds no federal Donjuan Murphy firebomb defendant
+> in EDVA — possible defendant-name extraction error during the original ingest pass.
+> 
+> Resolution: requires per-case investigation. Either (a) rename slug to match Burgamy/Wilson
+> defendants, or (b) replace operation page content if a separate Donjuan Murphy case exists.
+> Path B-style retention pending decision.
+
+
 > [!warning] Source enrichment — filename/content mismatch (2026-04-25, LESSON L1)
 > The DOJ press release this operation cites (https://www.justice.gov/usao-edva/pr/firebomb-attack-plotters-sentenced-combined-over-23-years-prison) is the November 20, 2020 sentencing of William Burgamy IV (14 years) and Hyrum T. Wilson (9 years) for the Auburn, Nebraska pharmacy firebomb plot. **The name "Donjuan Murphy" does not appear in that press release or in any related media coverage of the case.** Multiple WebSearch passes (justice.gov, courtlistener, fbi.gov, news outlets) returned zero results matching this defendant name in the Eastern District of Virginia.
 >

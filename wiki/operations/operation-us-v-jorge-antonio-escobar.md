@@ -70,6 +70,17 @@ updated: 2026-04-25
 
 This domestic-only U.S. follow-on record has been absorbed into the canonical case page [[us-v-jorge-antonio-escobar]]. No visible cross-border mechanism is documented, so it is not treated as a separate international-cooperation operation.
 
+> [!warning] Slug-content alignment review needed (2026-04-25)
+> Wave 6 EDVA agent flagged this slug as a potential L1/L16 filename-vs-content mismatch.
+> WebSearch (2026-04-25) confirms Jorge Antonio Escobar is a real EDVA Leesburg CSAM defendant
+> (HSI BitTorrent investigation, December 2025 guilty plea). The cited DOJ press release
+> "Fairfax Man Sentenced for Receiving, Soliciting and Promoting Child Pornography" (2021-08-04)
+> may be a different defendant (different year) — possible URL/title misalignment with slug.
+> 
+> Resolution: verify the 2021-08-04 DOJ press release defendant; if it's not Escobar, either
+> rename slug or replace cited source. Path B-style retention pending verification.
+
+
 > [!warning] Source enrichment — filename/content mismatch (2026-04-25, LESSON L1)
 > The DOJ press release this operation cites (https://www.justice.gov/usao-edva/pr/fairfax-man-sentenced-receiving-soliciting-and-promoting-child-pornography) is the August 2021 sentencing of **Christopher Robert Sueiro**, 40, of Fairfax, to 20 years for downloading and promoting CSAM via a darknet hidden-service forum. **The name "Jorge Antonio Escobar" does not appear in the press release or in any media coverage tied to it** (WTOP News, Patch, InsideNova, Daily Caller, MoreLaw all confirm Sueiro). Multiple WebSearch passes returned zero independent results for "Jorge Antonio Escobar" in this EDVA prosecution.
 >

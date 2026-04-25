@@ -70,6 +70,16 @@ updated: 2026-04-25
 
 This domestic-only U.S. follow-on record has been absorbed into the canonical case page [[us-v-jamar-edward-gay-and-james-edward-sweat]]. No visible cross-border mechanism is documented, so it is not treated as a separate international-cooperation operation.
 
+> [!warning] Slug-content alignment review needed (2026-04-25)
+> Wave 6 EDVA agent flagged this slug as a potential L1/L16 filename-vs-content mismatch.
+> The cited DOJ press release "Darknet Vendor Arrested on Distribution and Money Laundering Charges"
+> (2020-04-09) does not name "Jamar Edward Gay" or "James Edward Sweat". WebSearch (2026-04-25)
+> confirms Gay and Sweat are real Norfolk EDVA defendants but in a separate drug+gun trafficking case
+> (not darknet vendor). The cited URL likely corresponds to Cullen Roberts or other darknet defendant.
+> 
+> Resolution: requires per-case investigation. Path B-style retention pending decision.
+
+
 > [!warning] Source enrichment — filename/content mismatch (2026-04-25, LESSON L1)
 > The DOJ press release this operation cites (https://www.justice.gov/usao-edva/pr/darknet-vendor-arrested-distribution-and-money-laundering-charges) is the April 9, 2020 EDVA arrest of William Burgamy IV (NeverPressedRx darknet pharmacy vendor, Maryland), which later led to the Burgamy/Wilson firebomb-plot prosecution covered by [[operation-us-v-burgamy-wilson-dark-web]]. **The names "Jamar Edward Gay" and "James Edward Sweat" do not appear in that press release or in any media coverage tied to it.** Multiple WebSearch passes returned zero results matching these defendant names.
 >

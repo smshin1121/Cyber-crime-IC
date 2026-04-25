@@ -74,6 +74,17 @@ updated: 2026-04-25
 
 This domestic-only U.S. follow-on record has been absorbed into the canonical case page [[us-v-oleksandr-didenko]]. No visible cross-border mechanism is documented, so it is not treated as a separate international-cooperation operation.
 
+> [!warning] Slug-content alignment review needed (2026-04-25)
+> Wave 4 dc agent confirmed L1/L16 filename-vs-content mismatch.
+> The cited DOJ press release "Two Romanian Suspects Charged With Hacking of Metropolitan Police
+> Department Surveillance Cameras" (2017-12-28) names Romanian defendants Mihai Alexandru Isvanca
+> and Eveline Cismaru — NOT "Oleksandr Didenko". The slug was misassigned during the original
+> ingest pass.
+> 
+> Resolution: rename slug to match Isvanca/Cismaru defendants OR merge into the canonical
+> two-romanian-suspects-charged-* operation page. Path B-style retention pending merge decision.
+
+
 ## Canonical Record
 
 - [[us-v-oleksandr-didenko]]
