@@ -102,7 +102,7 @@ sources:
   - "[[2021-01-12_sbs-com-au_australian-man-arrested-in-germany-accused-of-running-world-s-largest-darknet-ma]]"
   - "[[2021-10-26_dea-gov_department-of-justice-announces-results-of-operation-dark-huntor]]"
 created: 2026-04-10
-updated: 2026-04-18
+updated: 2026-04-26
 summary: "DarkMarket was, at the time of its shutdown on 11 January 2021, the world's largest illegal darknet marketplace by user count. The takedown was led by the cybercrime unit of the Koblenz Public Prosecutor's Office and Germany's Federal Criminal Police Office (BKA), with coordination through Europol EC3. The intelligence gathered from the seized infrastructure later enabled Operation Dark HunTOR."
 jurisdictions:
   - "[[germany|Germany]]"
@@ -122,6 +122,8 @@ organizations:
   - "[[ukraine-police|Ukrainian Police]]"
 crime_types:
   - "[[online-fraud-ic|Online Fraud]]"
+  - "[[dark-web-ic]]"
+  - "[[malware-ic]]"
 ---
 ## Summary
 
@@ -138,11 +140,28 @@ DarkMarket facilitated the sale of drugs, counterfeit money, stolen and forged c
 - approximately 500,000 users and 2,400 vendors exposed in public reporting
 - intelligence pipeline that directly fed [[operation-dark-huntor]]
 
+## Operational Timeline
+
+| Date | Event |
+|---|---|
+| 2020 | German authorities and partners investigated DarkMarket's infrastructure and operator trail |
+| 2021-01-11 | Alleged Australian operator arrested near the German-Danish border |
+| 2021-01-12 | Europol announced the marketplace takedown and the seizure of more than 20 servers in Moldova and Ukraine |
+| 2021-10-26 | U.S. authorities announced Operation Dark HunTOR, a follow-on action supported by intelligence from seized darknet-market infrastructure |
+
+## Evidence and Infrastructure
+
+The core evidence value came from seized marketplace infrastructure rather than from a public indictment in this source set. Europol's release supports the marketplace scale, the German-led arrest and the Moldova/Ukraine server seizures. RFE/RL corroborates the server geography, while media coverage identifies the arrested suspect only at a high level as an Australian man. Because the backend data exposed vendors, customers and transactions, this page links DarkMarket to later darknet enforcement rather than treating it as a closed one-day takedown.
+
 ## Cooperation And Legal Analysis
 
 DarkMarket is valuable as a model of seizure-then-exploitation. The January 2021 action did not just remove a marketplace. It created a long-lived evidence pool that was later used for arrests in Dark HunTOR. That makes the page more than a marketplace shutdown record; it is an anchor for the repo's wider darknet-enforcement narrative.
 
 The page also preserves a useful legal distinction: the current source set strongly supports the takedown, the arrest and the server seizure, but not a fully documented later prosecution path for the unnamed Australian suspect.
+
+## Source Coverage
+
+The page now treats the Europol release as the primary operational source, secondary reporting as corroboration for server geography and suspect description, and the Dark HunTOR source as a downstream-intelligence link. The source set does not support adding a named defendant, sentence or complete German docket history.
 
 ## References
 

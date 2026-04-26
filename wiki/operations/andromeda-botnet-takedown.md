@@ -1,9 +1,9 @@
 ---
 type: operation
-title: Andromeda Botnet Dismantling
-title_ko: Andromeda 봇넷 해체
+title: "Andromeda Botnet Dismantling"
+title_ko: "Andromeda 봇넷 해체"
 aliases:
-  - Andromeda Botnet Takedown
+  - "Andromeda Botnet Takedown"
 case_id: CYB-2017-001
 period: 1
 operation_type: takedown
@@ -23,7 +23,7 @@ timeframe:
 crime_type: "[[malware-ic]]"
 crime_types:
   - "[[malware-ic]]"
-target_entity: Andromeda Botnet
+target_entity: "Andromeda Botnet"
 lead_agency: "[[fbi]]"
 coordinating_body: "[[europol-ec3]]"
 participating_countries:
@@ -51,12 +51,15 @@ participating_agencies:
   - "[[eurojust]]"
   - "[[german-bka]]"
   - "[[microsoft]]"
-legal_basis: []
+legal_basis:
+  []
 mechanisms_used:
   - "[[sinkholing]]"
   - "[[informal-cooperation]]"
-related_cases: []
-related_operations: []
+related_cases:
+  []
+related_operations:
+  []
 results:
   arrests: 1
   servers_seized: 0
@@ -70,7 +73,7 @@ results:
     - "Andromeda/Gamarue infrastructure disrupted after a long-running eradication campaign"
 edges:
   - source_actor: FBI
-    target_actor: Europol EC3
+    target_actor: "Europol EC3"
     cooperation_type: joint_investigation
     legal_basis: unknown
     direction: undirected
@@ -81,10 +84,9 @@ edges:
     direction: undirected
 credibility_index: 3.75
 source_tier: 2
-source_count: 5
+source_count: 4
 sources:
   - "[[2017-12-04_europol-europa-eu_andromeda-botnet-dismantled-in-international-cyber-operation]]"
-  - "[[europol-andromeda-botnet-dismantling]]"
   - "[[2017-12-04_microsoft-com_microsoft-assists-law-enforcement-help-disrupt-andromeda-botnet]]"
   - "[[2026-04-18_microsoft-com_gamarue-threat-profile]]"
   - "[[bleeping-computer-andromeda-botnet-takedown]]"
@@ -137,8 +139,7 @@ The page also avoids overstating the criminal-procedure side. Public sources cle
 
 | # | Title | Publisher | Date | URL |
 |---|---|---|---|---|
-| 1 | Andromeda botnet dismantled in international cyber operation | Europol | 2017-12-04 | https://www.europol.europa.eu/media-press/newsroom/news/andromeda-botnet-dismantled-in-international-cyber-operation |
-| 2 | Europol: Andromeda Botnet Dismantled in International Cyber Operation | repo source page | 2026-04-10 | [[europol-andromeda-botnet-dismantling]] |
-| 3 | Microsoft assists law enforcement to help disrupt the Andromeda botnet | Microsoft | 2017-12-04 | https://www.microsoft.com/en-us/msrc/blog/2018/01/microsoft-teams-up-with-law-enforcement-and-other-partners-to-disrupt-gamarue-andromeda |
-| 4 | Gamarue threat profile | Microsoft | current | https://www.microsoft.com/en-us/corporate-responsibility/topics/cybersecurity/ |
-| 5 | Andromeda Botnet Gets Crushed | BleepingComputer | 2017-12-04 | https://www.bleepingcomputer.com/news/security/andromeda-botnet-gets-crushed-in-eu-us-law-enforcement-operation/ |
+| [1] | Andromeda Botnet Dismantled in International Cyber Operation | Europol | 2017-12-04 | https://www.europol.europa.eu/media-press/newsroom/news/andromeda-botnet-dismantled-in-international-cyber-operation |
+| [2] | Microsoft assists law enforcement to help disrupt the Andromeda botnet | Microsoft | 2017-12-04 | https://www.microsoft.com/en-us/msrc/blog/2018/01/microsoft-teams-up-with-law-enforcement-and-other-partners-to-disrupt-gamarue-andromeda |
+| [3] | Gamarue threat profile | Microsoft | 2026-04-18 | https://www.microsoft.com/en-us/corporate-responsibility/topics/cybersecurity/ |
+| [4] | bleeping-computer-andromeda-botnet-takedown |  |  | [[bleeping-computer-andromeda-botnet-takedown]] |

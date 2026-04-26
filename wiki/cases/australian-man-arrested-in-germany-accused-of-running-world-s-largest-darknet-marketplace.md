@@ -8,13 +8,14 @@ case_type: prosecution
 status: prosecuted
 crime_charged:
   - "[[online-fraud-ic]]"
+  - "[[dark-web-ic]]"
 defendants:
   - name: "Unidentified 34-year-old Australian alleged DarkMarket operator"
     nationality: Australian
     status: arrested
     sentence: ""
     location_at_arrest: "Near the German-Danish border"
-related_operation: "[[operation-australian-man-arrested-in-germany-accused-of-running-world-s-largest-darknet-marketplace]]"
+related_operation: "[[darkmarket-takedown]]"
 ic_elements:
   mlat_requests: []
   extradition: ""
@@ -34,6 +35,7 @@ legal_frameworks_invoked:
   - "[[budapest-convention]]"
 mechanisms_used:
   - "[[informal-cooperation]]"
+  - "[[electronic-evidence]]"
 key_legal_issues:
   - "[[online-fraud-ic]]"
   - "[[electronic-evidence]]"
@@ -46,7 +48,7 @@ sources:
   - "[[2021-01-12_sbs-com-au_australian-man-arrested-in-germany-accused-of-running-world-s-largest-darknet-ma]]"
   - "[[2021-10-26_dea-gov_department-of-justice-announces-results-of-operation-dark-huntor]]"
 created: 2026-04-18
-updated: 2026-04-18
+updated: 2026-04-26
 summary: "This page tracks the publicly reported arrest of the unidentified Australian alleged operator of DarkMarket. The public record is stronger for the arrest and infrastructure seizure than for later court proceedings, so the page preserves only the parts clearly supported by current sources."
 ---
 ## Summary
@@ -65,9 +67,27 @@ This case is useful because it sits at the intersection of physical arrest and t
 - the seized infrastructure sat in Moldova and Ukraine
 - Europol coordinated the multinational exchange around the takedown
 
+## Proceedings Timeline
+
+| Date | Event |
+|---|---|
+| 2021-01-11 | Alleged operator arrested near the German-Danish border |
+| 2021-01-12 | Europol announced the DarkMarket takedown and server seizures in Moldova and Ukraine |
+| 2021-10-26 | Operation Dark HunTOR announced as a later darknet-market enforcement action using seized-infrastructure intelligence |
+
+## Evidence and Source Limits
+
+The current source set supports the arrest, nationality, approximate age and link to DarkMarket, but it does not provide a reliable public defendant name or sentencing record. The case is therefore modeled as the arrest component of [[darkmarket-takedown]], not as a fully resolved prosecution docket. This distinction matters because assigning an unverified name would contaminate both the case corpus and the operation graph.
+
+For graph purposes, the strongest structured link is between the suspect, Germany as arrest jurisdiction, and the Moldova/Ukraine server-seizure evidence path. Later Dark HunTOR material is relevant only as downstream use of marketplace data.
+
 ## Legal Analysis
 
 The page avoids overstating later procedure. Current public materials in the repo do not provide a strong, named public docket trail for the arrested Australian suspect. The arrest itself is well supported; the post-arrest prosecution path is not.
+
+## Source Coverage
+
+Europol is the primary source for the enforcement action. RFE/RL and SBS provide corroborating public reporting on server geography and the Australian suspect framing. The Dark HunTOR reference is retained only to show the later intelligence use of seized darknet-market data; it is not treated as proof of this suspect's sentence or final procedural outcome.
 
 ## References
 

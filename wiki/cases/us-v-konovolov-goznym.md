@@ -28,7 +28,7 @@ defendants:
 related_operation: "[[goznym-takedown]]"
 ic_elements:
   mlat_requests:
-    []
+
   extradition: "Nikolov (Bulgaria to US)"
   evidence_from_abroad:
     - Bulgaria
@@ -40,7 +40,7 @@ ic_elements:
     - "Bulgaria (Nikolov)"
     - "Sri Lanka (Manokhin)"
   asset_freezing:
-    []
+
 cooperating_agencies:
   - "[[europol-ec3]]"
   - "[[eurojust]]"
@@ -54,9 +54,8 @@ key_legal_issues:
   - "[[data-sovereignty]]"
   - "[[jurisdictional-conflicts]]"
 precedent_value: "High — first multinational prosecution with simultaneous parallel prosecutions in 5 countries for the same cybercrime network"
-source_count: 2
+source_count: 1
 sources:
-  - "[[2019-05-16_wdpa_goznym-indictment]]"
   - "[[2019-05-16_justice-gov_goznym-cyber-criminal-network-operating-out-of-europe-targeting-american-entitie]]"
 created: 2026-04-12
 updated: 2026-04-26
@@ -128,7 +127,6 @@ No Korean involvement identified.
 
 ## References
 
-| # | Source | Publisher | Date | URL |
-|---|--------|-----------|------|-----|
-| 1 | GozNym Cyber-Criminal Network Dismantled | DOJ OPA | 2019-05-16 | https://www.justice.gov/archives/opa/pr/goznym-cyber-criminal-network-operating-out-europe-targeting-american-entities-dismantled |
-| 2 | GozNym Network Dismantled (W.D. Pa.) | DOJ W.D. Pa. | 2019-05-16 | https://www.justice.gov/usao-wdpa/pr/goznym-cyber-criminal-network-operating-out-europe-targeting-american-entities |
+| # | Title | Publisher | Date | URL |
+|---|---|---|---|---|
+| [1] | GozNym Cyber-Criminal Network Operating out of Europe Targeting American Entities Dismantled in International Operation | US DOJ (W.D. Pa.) | 2019-05-16 | https://www.justice.gov/archives/opa/pr/goznym-cyber-criminal-network-operating-out-europe-targeting-american-entities-dismantled |

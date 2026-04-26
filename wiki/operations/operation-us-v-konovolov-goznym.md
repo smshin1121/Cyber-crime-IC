@@ -51,11 +51,10 @@ challenges_encountered:
 
 lessons_learned:
 
-source_count: 6
+source_count: 5
 sources:
-  - "[[2019-05-16_wdpa_goznym-indictment]]"
-  - "[[2019-05-01_europol-europa-eu_goznym-malware-cybercriminal-network-dismantled-in-international-operation]]"
   - "[[2019-05-16_justice-gov_goznym-cyber-criminal-network-operating-out-of-europe-targeting-american-entitie]]"
+  - "[[2019-05-01_europol-europa-eu_goznym-malware-cybercriminal-network-dismantled-in-international-operation]]"
   - "[[2019-12-20_justice-gov_three-members-of-goznym-cybercrime-network-sentenced-in-parallel-multi-national]]"
   - "[[bbc-goznym-malware-network-dismantling]]"
   - "[[2019-05-16_bleepingcomputer-com_goznym-cybercrime-group-behind-100-million-damages-dismantled]]"
@@ -85,7 +84,6 @@ This domestic-only U.S. follow-on record has been absorbed into the canonical ca
 |---|---|---|---|---|
 | [1] | GozNym Cyber-Criminal Network Operating out of Europe Targeting American Entities Dismantled in International Operation | US DOJ (W.D. Pa.) | 2019-05-16 | https://www.justice.gov/archives/opa/pr/goznym-cyber-criminal-network-operating-out-europe-targeting-american-entities-dismantled |
 | [2] | Goznym Malware Cybercriminal Network Dismantled In International Operation | Europol | 2019-05-01 | https://www.europol.europa.eu/media-press/newsroom/news/goznym-malware-cybercriminal-network-dismantled-in-international-operation |
-| [3] | GozNym Cyber-Criminal Network Operating out of Europe Targeting American Entities Dismantled in International Operation | US DOJ (W.D. Pa.) | 2019-05-16 | https://www.justice.gov/archives/opa/pr/goznym-cyber-criminal-network-operating-out-europe-targeting-american-entities-dismantled |
-| [4] | Three Members of GozNym Cybercrime Network Sentenced in Parallel Multi-National Prosecutions in Pittsburgh and Tbilisi, Georgia | US DOJ USAO | 2019-12-20 | https://www.justice.gov/usao-wdpa/pr/three-members-goznym-cybercrime-network-sentenced-parallel-multi-national-prosecutions |
-| [5] | BBC: GozNym cyber-crime gang which stole millions busted | BBC News | 2019-05-16 | https://www.bbc.com/news/technology-48294788 |
-| [6] | GozNym Cybercrime Group Behind $100 Million Damages Dismantled | BleepingComputer | 2019-05-16 | https://www.bleepingcomputer.com/news/security/goznym-cybercrime-group-behind-100-million-damages-dismantled/ |
+| [3] | Three Members of GozNym Cybercrime Network Sentenced in Parallel Multi-National Prosecutions in Pittsburgh and Tbilisi, Georgia | US DOJ USAO | 2019-12-20 | https://www.justice.gov/usao-wdpa/pr/three-members-goznym-cybercrime-network-sentenced-parallel-multi-national-prosecutions |
+| [4] | BBC: GozNym cyber-crime gang which stole millions busted | BBC News | 2019-05-16 | https://www.bbc.com/news/technology-48294788 |
+| [5] | GozNym Cybercrime Group Behind $100 Million Damages Dismantled | BleepingComputer | 2019-05-16 | https://www.bleepingcomputer.com/news/security/goznym-cybercrime-group-behind-100-million-damages-dismantled/ |

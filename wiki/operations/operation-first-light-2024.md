@@ -25,8 +25,6 @@ edges:
     legal_basis: unknown
     direction: undirected
 missing_fields:
-  - legal_basis
-  - mechanisms_used
   - participating_countries_list
 timeframe:
   announced: 2024-06-18
@@ -46,9 +44,12 @@ participating_agencies:
   - "[[afripol]]"
   - "[[europol-ec3]]"
 legal_basis:
-
+  - "[[informal-cooperation]]"
 mechanisms_used:
-
+  - "[[interpol-i-grip]]"
+  - "[[interpol-i24-7]]"
+  - "[[asset-freezing]]"
+  - "[[informal-cooperation]]"
 results:
   arrests: 3950
   indictments: 0
@@ -80,7 +81,7 @@ sources:
   - "[[2026-02-01_interpol-int_annual-report-2024-operation-first-light]]"
   - "[[2026-04-01_interpol-int_support-for-afripol-operation-first-light]]"
 created: 2026-04-08
-updated: 2026-04-09
+updated: 2026-04-26
 operation_role: umbrella
 parent_operation: ""
 summary: "Operation First Light 2024 was an INTERPOL-coordinated global crackdown on online scams conducted from March to May 2024 across **61 countries**. The operation resulted in **3,950 arrests**, identification of **14,643 additional suspects**, freezing of **6,745 bank accounts**, and seizure of assets worth **USD 257 million**. Bolstered by AFRIPOL, ASEANAPOL, GCCPOL, and Europol."
@@ -90,6 +91,7 @@ organizations:
   - "[[europol-ec3]]"
 crime_types:
   - "[[online-fraud-ic]]"
+  - "[[bec-ic]]"
 ---
 ## Summary
 
@@ -104,6 +106,10 @@ Operation First Light is a longstanding INTERPOL operation series originally foc
 - **Coordination:** [[interpol-igci|INTERPOL IGCI]]
 - **Regional partners:** [[afripol|AFRIPOL]], ASEANAPOL, GCCPOL, [[europol-ec3|Europol]]
 - **61 countries** participating globally
+
+## Operational Scope
+
+First Light 2024 should be modeled as an umbrella fraud-suppression operation, not as a single prosecution. The source set describes a March-May 2024 enforcement window in which national police forces used INTERPOL coordination channels to identify scam networks, freeze bank accounts, seize assets and rescue victims from coercive scam compounds. The participating-country field keeps only countries specifically surfaced in the current structured page, while the narrative preserves the broader 61-country scope reported by INTERPOL.
 
 ## Results and Impact
 
@@ -125,6 +131,21 @@ Operation First Light is a longstanding INTERPOL operation series originally foc
 
 - **I-GRIP (Global Rapid Intervention of Payments):** INTERPOL's mechanism for rapid cross-border fund recovery, demonstrated in the Spain BEC interception case
 - Regional policing body coordination (AFRIPOL, ASEANAPOL, GCCPOL, Europol)
+- I-24/7 and regional-policing channels for suspect, account and asset intelligence exchange
+- Asset-freezing and bank-account intervention, rather than only arrests, as the central operational output
+
+## Timeline
+
+| Date | Event |
+|---|---|
+| 2024-03 | Operational phase began across participating jurisdictions |
+| 2024-03 to 2024-05 | Scam-network arrests, account freezes, asset seizures and victim-rescue actions executed |
+| 2024-06-18 | INTERPOL announced the global results: 3,950 arrests, 14,643 suspects identified and USD 257 million in assets seized |
+| 2024-07 | Singapore Police reporting linked local scam and cybercrime enforcement to the First Light operational context |
+
+## Source Coverage
+
+The strongest source is INTERPOL's public operation release, which supports the global totals and the named examples in Spain, Namibia and Australia. Singapore Police materials help connect the operation to national scam-enforcement reporting, while the INTERPOL annual and partnership materials support the broader regional-coordination model. The current source set does not provide a full country-by-country arrest table, so the page should avoid treating the three named countries in frontmatter as the complete participant list.
 
 ## Korean Involvement (한국의 참여)
 

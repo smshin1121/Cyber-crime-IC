@@ -51,14 +51,13 @@ challenges_encountered:
 
 lessons_learned:
 
-source_count: 6
+source_count: 5
 sources:
   - "[[2023-03-27_doj_okpe-obogo-bec-sentencing]]"
   - "[[2026-04-17_justice-gov_nigerian-nationals-victimize-us-persons-through-cyber-enabled-fraud-schemes]]"
   - "[[2023-01-23_justice-gov_us-v-okpe-et-al-victim-notifications]]"
   - "[[2023-03-29_scworld_us-convicts-nigerian-bec-scammer]]"
   - "[[2023-03-28_infosecurity-magazine_four-years-behind-bars-for-prolific-bec-scammer]]"
-  - "[[2023-03-27_justice-gov_united-states-v-solomon-ekunke-okpe-and-johnson-uke-obogo]]"
 created: 2026-04-17
 updated: 2026-04-22
 operation_role: follow-on
@@ -85,7 +84,6 @@ This domestic-only U.S. follow-on record has been absorbed into the canonical ca
 |---|---|---|---|---|
 | [1] | Foreign National Sentenced for Victimizing U.S. Persons Through Cyber-Enabled Fraud Schemes | US DOJ (Office of Public Affairs) | 2023-03-27 | https://www.justice.gov/archives/opa/pr/foreign-national-sentenced-victimizing-us-persons-through-cyber-enabled-fraud-schemes |
 | [2] | Nigerian Nationals Victimize U.S. Persons Through Cyber-Enabled Fraud Schemes | justice.gov | 2026-04-17 | https://www.justice.gov/usao-az/pr/nigerian-nationals-victimize-us-persons-through-cyber-enabled-fraud-schemes |
-| [3] | US v Okpe et al | U.S. Department of Justice (USAO Arizona Victim Notifications) | 2023-01-23 | https://www.justice.gov/usao-az/programs/victim-notifications/US-v-Okpe-et-al |
-| [4] | US convicts Nigerian BEC scammer | SC Media | 2023-03-29 | https://www.scworld.com/brief/us-convicts-nigerian-bec-scammer |
-| [5] | Four Years Behind Bars for Prolific BEC Scammer | Infosecurity Magazine | 2023-03-28 | https://www.infosecurity-magazine.com/news/four-years-prolific-bec-scammer/ |
-| [6] | Foreign National Sentenced for Victimizing U.S. Persons Through Cyber-Enabled Fraud Schemes | US DOJ (Office of Public Affairs) | 2023-03-27 | https://www.justice.gov/archives/opa/pr/foreign-national-sentenced-victimizing-us-persons-through-cyber-enabled-fraud-schemes |
+| [3] | US v Okpe et al | U.S. Department of Justice (USAO Arizona Victim Notifications) | 2023-01-23 | [[2023-01-23_justice-gov_us-v-okpe-et-al-victim-notifications]] |
+| [4] | US convicts Nigerian BEC scammer | SC Media | 2023-03-29 | [[2023-03-29_scworld_us-convicts-nigerian-bec-scammer]] |
+| [5] | Four Years Behind Bars for Prolific BEC Scammer | Infosecurity Magazine | 2023-03-28 | [[2023-03-28_infosecurity-magazine_four-years-behind-bars-for-prolific-bec-scammer]] |
