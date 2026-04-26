@@ -32,7 +32,7 @@ operations_using: []
 cases_using: []
 related_mechanisms:
   - "[[mlat-process]]"
-  - "[[interpol-i247]]"
+  - "[[interpol-i24-7]]"
 source_count: 0
 sources: []
 created: 2026-04-08

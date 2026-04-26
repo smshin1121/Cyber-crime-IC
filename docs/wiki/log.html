@@ -62,6 +62,39 @@
     <div class="article-body">
       
         <h1 id="activity-log">Activity Log</h1>
+<h2 id="2026-04-21-audit-full-web-verification-pipeline-mature-96100-top-queue-ops-verified">[2026-04-21] audit | Full web-verification pipeline mature — 96/100 top-queue ops verified</h2>
+<ul>
+<li>Added Akamai Bot Manager bypass (meta-refresh + session + 5.5s wait) to unblock DOJ / justice.gov / usao-* URLs that curl_cffi TLS impersonation alone could not reach. Logged as LESSONS.md L21.</li>
+<li>Extended queue builder to parse URLs from three source formats: wikilink → wiki/sources/*.md (with <code>collection_url</code>/<code>source_url</code>/<code>url</code> field), inline markdown link <code>[title](url)</code>, or plain URL in a string.</li>
+<li>Top-100 verification run after all upgrades: <strong>96 fully verified, 1 partial, 3 with URL-less sources.</strong></li>
+<li>Cumulative L19 back-link additions across all rounds today: <strong>217</strong> country→op links populated across roughly 60 country pages.</li>
+<li>Remaining unresolved: <code>bidencash-takedown</code> (3/6 — Denmark/Finland/Germany not in cited sources, may be genuinely absent or secondary-only), <code>dridex-operations</code> (plain-text references, URLs live in body reference table — needs manual source-page ingestion), <code>operation-ghost-*</code> and <code>operation-in-re-heartsender-*</code> (USAO subdomain fetches still flaky). All logged for follow-up, none asserted-without-proof.</li>
+</ul>
+<h2 id="2026-04-21-audit-tls-spoofing-pipeline-l19-bidirectional-back-link-apply-30-ops">[2026-04-21] audit | TLS-spoofing pipeline + L19 bidirectional back-link apply (30 ops)</h2>
+<ul>
+<li>Built <code>tools/web_verify_tls.py</code> using <code>curl_cffi</code> with Chrome TLS fingerprint impersonation to bypass Cloudflare on Europol / Eurojust / DOJ / BSI / national CERT primary sources.</li>
+<li>First batch (top-30 unverified ops): 15 fully verified (including Avalanche 29/29 and HAECHI-VI 32/32 after adding Viet Nam + Kazakhstan + UAE aliases and stub pages), 4 partially, 11 with no reachable sources on record.</li>
+<li>Lesson logged: LESSONS.md L20 ("Cloudflare/SPA wall — curl_cffi TLS impersonation + script-preserving parse is the required fallback before declaring a country 'not in source'").</li>
+<li>Correction: <a href="../wiki/countries/colombia.html" class="wikilink">colombia</a> reinstated in <a href="../wiki/operations/operation-avalanche.html" class="wikilink">operation-avalanche</a> — earlier same-day removal was based on accessible-subset only and the Europol press release does explicitly list Colombia.</li>
+<li>Applied L19 "verified" bucket: <code>tools/apply_bidirectional_ops.py</code> — added 81 missing country→op back-links to 39 country pages across the 15 fully-verified operations. Idempotent; re-run safe.</li>
+<li>Stub pages created: <code>wiki/countries/kazakhstan.md</code>, <code>wiki/countries/united-arab-emirates.md</code> (named in INTERPOL HAECHI-VI roster but previously dangling wikilinks).</li>
+</ul>
+<h2 id="2026-04-21-audit-avalanche-participating-countries-tier-1-verification-pass">[2026-04-21] audit | Avalanche participating-countries tier-1 verification pass</h2>
+<ul>
+<li>Follow-up to the Colombia audit earlier today. Audited the full 29-country roster of <a href="../wiki/operations/operation-avalanche.html" class="wikilink">operation-avalanche</a> against accessible tier-1 primary sources.</li>
+<li>Europol full press release (the one source believed to hold the 30-country roster) is web-blocked by Cloudflare (per LESSONS.md L11). Verification is based on the subset accessible: INTERPOL mirror, Eurojust 2017 case report PDF, FBI/DOJ archive text indirectly via secondary reporting, Canadian Cyber Centre advisory.</li>
+<li>Explicitly named in tier-1 sources: <strong>Germany, United States, Netherlands, Canada</strong>.</li>
+<li>Removed earlier today (absence from every accessible source): <strong>Colombia</strong>.</li>
+<li>24 remaining countries retained as provisional (absence from accessible subset ≠ absence in full Europol roster). Flagged in a detailed verification table on the operation page.</li>
+<li>Pages updated: wiki/operations/operation-avalanche.md (expanded Audit Note with verification breakdown), wiki/countries/canada.md (added <a href="../wiki/operations/operation-avalanche.html" class="wikilink">operation-avalanche</a> to operations_participated — Canada's participation is verified by RCMP statement in Canadian Cyber Centre advisory).</li>
+</ul>
+<h2 id="2026-04-21-audit-colombia-participating-operations-source-verification">[2026-04-21] audit | Colombia participating-operations source verification</h2>
+<ul>
+<li>Trigger: Globe picker showed Colombia across 4 operations; user asked for data provenance. Principle applied — only assert participation when a tier-1 primary source explicitly names Colombia.</li>
+<li>Verified (primary source explicit): <a href="../wiki/operations/operation-orion-international.html" class="wikilink">operation-orion-international</a> (INTERPOL 2024-10-15), <a href="../wiki/operations/operation-haechi-ii.html" class="wikilink">operation-haechi-ii</a> (INTERPOL 2021-11-30), <a href="../wiki/operations/imminent-monitor-rat-takedown.html" class="wikilink">imminent-monitor-rat-takedown</a> (Europol 2019-11-29)</li>
+<li>Un-verified, removed: <a href="../wiki/operations/operation-avalanche.html" class="wikilink">operation-avalanche</a> — Europol press release, US DOJ press release, and 2017 Eurojust case report PDF do not name Colombia. Removed <code>&lt;a href="../wiki/countries/colombia.html" class="wikilink"&gt;colombia&lt;/a&gt;</code> from avalanche's <code>participating_countries</code>; flagged in Colombia's Contradictions section pending evidence.</li>
+<li>Pages updated: wiki/countries/colombia.md (added Verified Operational Participation table + source-verification policy), wiki/operations/operation-avalanche.md (Audit Note).</li>
+</ul>
 <h2 id="2026-04-12-ingest-court-documents-for-10-operations">[2026-04-12] ingest | Court documents for 10 operations (판결문 수집 첫 배치)</h2>
 <ul>
 <li>Source: DOJ press releases, indictments, sentencing announcements (justice.gov)</li>
@@ -851,8 +884,8 @@
 
   <div class="footer">
     <span class="i18n"
-      data-ko="사이버범죄 국제공조 위키 &mdash; LLM Wiki Pattern &mdash; 2026-04-20 기준 데이터"
-      data-en="Cybercrime International Cooperation Wiki &mdash; LLM Wiki Pattern &mdash; Data as of 2026-04-20">
+      data-ko="사이버범죄 국제공조 위키 &mdash; LLM Wiki Pattern &mdash; 2026-04-26 기준 데이터"
+      data-en="Cybercrime International Cooperation Wiki &mdash; LLM Wiki Pattern &mdash; Data as of 2026-04-26">
     </span>
   </div>
 

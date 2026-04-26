@@ -7,10 +7,11 @@ updated: 2026-04-14
 total: 61
 ---
 
-# Countries (94)
+# Countries (110)
 
 | 🏳️ | Country | Legal System | Budapest Conv. | IC Capacity | MLAT Response | Sources |
 |----|---------|--------------|----------------|-------------|---------------|---------|
+| 🇦🇪 | [[united-arab-emirates]] | mixed | — | unknown | unknown | 1 |
 | 🇦🇱 | [[albania]] | civil-law | — | medium | unknown | 3 |
 | 🇦🇲 | [[armenia]] | civil-law | — | unknown | unknown | 0 |
 | 🇦🇷 | [[argentina]] | civil-law | — | unknown | unknown | 0 |
@@ -63,6 +64,7 @@ total: 61
 | 🇰🇪 | [[kenya]] | mixed | — | medium | unknown | 0 |
 | 🇰🇭 | [[cambodia]] | civil-law | — | low | unknown | 0 |
 | 🇰🇷 | [[south-korea]] | civil-law | — | high | 60-120 | 17 |
+| 🇰🇿 | [[kazakhstan]] | civil-law | — | unknown | unknown | 1 |
 | 🇱🇦 | [[laos]] | civil-law | — | unknown | unknown | 0 |
 | 🇱🇹 | [[lithuania]] | civil-law | listed | unknown | unknown | 0 |
 | 🇱🇺 | [[luxembourg]] | civil-law | — | unknown | unknown | 0 |
@@ -105,3 +107,17 @@ total: 61
 | 🇽🇰 | [[kosovo]] | civil-law | — | low | unknown | 0 |
 | 🇿🇦 | [[south-africa]] | mixed | — | medium | unknown | 0 |
 | 🇿🇲 | [[zambia]] | common-law | — | low | unknown | 2 |
+|  | [[algeria]] | — | — | unknown | unknown | 0 |
+|  | [[angola]] | — | — | unknown | unknown | 0 |
+|  | [[brunei]] | — | — | unknown | unknown | 0 |
+|  | [[democratic-republic-of-the-congo]] | — | — | unknown | unknown | 0 |
+|  | [[gabon]] | — | — | unknown | unknown | 0 |
+|  | [[macau]] | — | — | unknown | unknown | 0 |
+|  | [[madagascar]] | — | — | unknown | unknown | 0 |
+|  | [[mongolia]] | — | — | unknown | unknown | 0 |
+|  | [[mozambique]] | — | — | unknown | unknown | 0 |
+|  | [[namibia]] | — | — | unknown | unknown | 0 |
+|  | [[new-zealand]] | — | — | unknown | unknown | 0 |
+|  | [[senegal]] | — | — | unknown | unknown | 0 |
+|  | [[tunisia]] | — | — | unknown | unknown | 0 |
+|  | [[zimbabwe]] | — | — | unknown | unknown | 0 |

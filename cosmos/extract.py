@@ -64,7 +64,8 @@ META_MAP = {
 FRONTMATTER_RE = re.compile(r"\A---\r?\n(.*?)\r?\n---\r?\n?", re.DOTALL)
 SUMMARY_RE = re.compile(r"^##\s+Summary\s*$", re.MULTILINE)
 SECTION_RE = re.compile(r"^##\s+", re.MULTILINE)
-BODY_LINK_RE = re.compile(r"\[\[([^\]|]+)(?:\|[^\]]+)?\]\]")
+BODY_LINK_RE = re.compile(r"\[\[([^\]|#]+)(?:#[^\]|]+)?(?:\|[^\]]+)?\]\]")
+SLUG_RE = re.compile(r"^[a-z0-9][a-z0-9._/-]*$")
 EXCLUDED_NAMES = {"index.md", "log.md", "overview.md"}
 
 
@@ -147,16 +148,37 @@ def normalize_aliases(value: Any) -> list[str]:
     return []
 
 
-def extract_link_targets(value: Any) -> list[str]:
+def slugify_text(text: str) -> str:
+    slug = re.sub(r"[^a-z0-9]+", "-", text.lower()).strip("-")
+    return re.sub(r"-+", "-", slug)
+
+
+def normalize_target(raw_target: str) -> str:
+    text = raw_target.strip().replace("\\|", "|")
+    text = text.split("|", 1)[0].split("#", 1)[0]
+    text = text.replace("\\", "/").split("/")[-1]
+    if text.endswith(".md"):
+        text = text[:-3]
+    return text.strip()
+
+
+def extract_link_targets(value: Any) -> list[tuple[str, bool]]:
+    """Extract relationship candidates.
+
+    The boolean indicates an explicit wiki link. Plain frontmatter values are
+    common in this repository for citations, agencies, and legal-basis notes;
+    unresolved plain values should be ignored rather than reported as broken
+    graph links.
+    """
     if value is None:
         return []
     if isinstance(value, list):
-        out: list[str] = []
+        out: list[tuple[str, bool]] = []
         for item in value:
             out.extend(extract_link_targets(item))
         return out
     if isinstance(value, dict):
-        out: list[str] = []
+        out: list[tuple[str, bool]] = []
         for key in ("framework", "page", "target", "operation", "case", "organization", "country"):
             if key in value:
                 out.extend(extract_link_targets(value[key]))
@@ -164,11 +186,18 @@ def extract_link_targets(value: Any) -> list[str]:
     text = str(value).strip()
     if not text:
         return []
+    text = text.replace("\\|", "|")
     match = BODY_LINK_RE.search(text)
     if match:
-        text = match.group(1)
-    text = text.replace("\\", "/").split("/")[-1].replace(".md", "")
-    return [text] if text else []
+        return [(normalize_target(match.group(1)), True)]
+    candidate = normalize_target(text)
+    if SLUG_RE.fullmatch(candidate):
+        return [(candidate, False)]
+    if len(text) <= 80:
+        slugified = slugify_text(text)
+        if slugified:
+            return [(slugified, False)]
+    return []
 
 
 def build_meta(page_type: str, frontmatter: dict[str, Any]) -> dict[str, Any]:
@@ -227,8 +256,19 @@ def collect_pages(wiki_dir: Path) -> tuple[list[dict[str, Any]], dict[str, str]]
 
 
 def resolve_target(raw_target: str, slug_to_id: dict[str, str]) -> str | None:
-    slug = raw_target.strip().replace("\\", "/").split("/")[-1].replace(".md", "")
-    return slug_to_id.get(slug)
+    slug = normalize_target(raw_target)
+    candidates = [slug]
+    lowered = slug.lower()
+    if lowered != slug:
+        candidates.append(lowered)
+    slugified = slugify_text(slug)
+    if slugified and slugified not in candidates:
+        candidates.append(slugified)
+    for candidate in candidates:
+        target = slug_to_id.get(candidate)
+        if target:
+            return target
+    return None
 
 
 def build_graph(
@@ -242,12 +282,13 @@ def build_graph(
     for page in pages:
         source = page["id"]
         for field in LINK_FIELDS:
-            for raw_target in extract_link_targets(page["frontmatter"].get(field)):
+            for raw_target, explicit in extract_link_targets(page["frontmatter"].get(field)):
                 target = resolve_target(raw_target, slug_to_id)
                 if not target:
-                    broken.append({"source": source, "target_slug": raw_target, "kind": field})
-                    if verbose:
-                        print(f"[broken] {source} -> {raw_target} (kind={field})", file=sys.stderr)
+                    if explicit:
+                        broken.append({"source": source, "target_slug": raw_target, "kind": field})
+                        if verbose:
+                            print(f"[broken] {source} -> {raw_target} (kind={field})", file=sys.stderr)
                     continue
                 if target == source:
                     continue
@@ -259,7 +300,8 @@ def build_graph(
                 degree[source] += 1
                 degree[target] += 1
 
-        for match in BODY_LINK_RE.finditer(page["body"]):
+        body = page["body"].replace("\\|", "|")
+        for match in BODY_LINK_RE.finditer(body):
             raw_target = match.group(1)
             target = resolve_target(raw_target, slug_to_id)
             if not target:

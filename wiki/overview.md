@@ -2,7 +2,7 @@
 created: 2026-04-08
 title: "International Cooperation on Cyber Crime - Overview"
 type: overview
-updated: 2026-04-20
+updated: 2026-04-26
 ---
 # State of International Cooperation on Cyber Crime
 
@@ -61,17 +61,17 @@ The **DOJ-led model** leverages US multi-agency coordination (FBI, HSI, USSS, IR
 | Metric | Value | Period |
 |--------|-------|--------|
 | Total operations documented | 1085 | 2014-2025 |
-| Period 1 operations | 203 | 2014-2018 |
-| Period 2 operations | 218 | 2019-2022 |
-| Period 3 operations | 649 | 2023-2025 |
-| Europol-coordinated | 57 | All periods |
-| INTERPOL-coordinated | 37 | All periods |
+| Period 1 operations | 205 | 2014-2018 |
+| Period 2 operations | 222 | 2019-2022 |
+| Period 3 operations | 650 | 2023-2025 |
+| Europol-coordinated | 61 | All periods |
+| INTERPOL-coordinated | 40 | All periods |
 | DOJ/US-led | 945 | All periods |
-| Total arrests (sourced operations) | 20,625+ | Across all operations |
-| Total servers seized | 2,969+ | Primarily Europol operations |
-| Total domains seized | 812,123+ | All operations |
-| Unique participating countries | 137+ | All operations |
-| Sources with dedicated pages | 1778 | US DOJ USAO 660, Europol 78, INTERPOL 66, US DOJ 65, Council of Europe 59 |
+| Total arrests (sourced operations) | 20,734+ | Across all operations |
+| Total servers seized | 2,972+ | Primarily Europol operations |
+| Total domains seized | 812,127+ | All operations |
+| Unique participating countries | 150+ | All operations |
+| Sources with dedicated pages | 4763 | US DOJ USAO 1198, INTERPOL 92, Europol 87, US DOJ 69, Council of Europe 64 |
 | Crime types documented | 23 | All documented types |
 
 ## Recent Activity
@@ -80,7 +80,7 @@ See [[log]] for wiki activity history.
 
 ## References
 
-All statistics in this overview are aggregated from the 1085 operation pages and 1778 source pages in the wiki. Cooperation statistics in the table above are wiki-computed aggregations from individual operation pages. The 20 most-sourced operations with dedicated source pages are listed in [[ic-statistics-dashboard]].
+All statistics in this overview are aggregated from the 1085 operation pages and 4763 source pages in the wiki. Cooperation statistics in the table above are wiki-computed aggregations from individual operation pages. The 20 most-sourced operations with dedicated source pages are listed in [[ic-statistics-dashboard]].
 
 | # | Title | Publisher | Date | URL |
 |---|-------|----------|------|-----|

@@ -41,11 +41,11 @@ participating_agencies:
   - "[[europol-ec3]]"
   - "[[spain-national-police]]"
 legal_basis:
-  - "[[joint-investigation-team-jit]]"
+  - "[[joint-investigation-team]]"
   - "[[european-arrest-warrant]]"
   - "[[european-investigation-order]]"
 mechanisms_used:
-  - "[[joint-investigation-team-jit]]"
+  - "[[joint-investigation-team]]"
   - "[[european-arrest-warrant]]"
   - "[[european-investigation-order]]"
   - "[[asset-freezing]]"

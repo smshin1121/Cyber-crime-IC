@@ -56,7 +56,7 @@ operations_participated:
   - "[[dridex-operations]]"
   - "[[lumma-stealer-takedown]]"
   - "[[nemesis-market-takedown]]"
-  - "[[operation-bugat-botnet-administrator-arrested-and-malware-disabled-2]]"
+  - "[[operation-us-v-bugat-botnet-administrator]]"
   - "[[operation-heart-blocker]]"
   - "[[operation-kraken-ghost-platform]]"
   - "[[operation-onymous]]"

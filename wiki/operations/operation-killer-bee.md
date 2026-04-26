@@ -35,7 +35,7 @@ participating_countries:
 participating_agencies:
   - "[[interpol]]"
   - "[[interpol-asean-desk]]"
-  - "[[nigerian-efcc]]"
+  - "[[nigeria-efcc]]"
   - "[[trend-micro]]"
 legal_basis:
 
@@ -103,7 +103,7 @@ jurisdictions:
 organizations:
   - "[[interpol]]"
   - "[[interpol-asean-desk]]"
-  - "[[nigerian-efcc]]"
+  - "[[nigeria-efcc]]"
   - "[[trend-micro]]"
 crime_types:
   - "[[bec-ic]]"

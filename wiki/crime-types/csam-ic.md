@@ -30,7 +30,7 @@ title: CSAM (Child Sexual Abuse Material) — International Cooperation Perspect
 type: crime-type
 typical_ic_challenges:
 - '[[data-sovereignty]]'
-- '[[jurisdiction-challenges]]'
+- '[[jurisdictional-conflicts]]'
 typical_mechanisms:
 - '[[interpol-icse-database|INTERPOL ICSE Database]]'
 - '[[europol-vidtf|Europol Victim Identification Task Force]]'

@@ -44,7 +44,7 @@ operations_participated:
 - '[[operation-haechi-vi]]'
 - '[[operation-first-light-2024]]'
 - '[[operation-cyber-guardian]]'
-- '[[operation-ironside]]'
+- '[[operation-trojan-shield]]'
 - '[[darkmarket-takedown]]'
 - '[[operation-dark-huntor]]'
 - '[[operation-australian-man-arrested-in-germany-accused-of-running-world-s-largest-darknet-marketplace]]'

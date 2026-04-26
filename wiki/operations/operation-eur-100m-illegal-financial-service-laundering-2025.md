@@ -39,10 +39,10 @@ participating_agencies:
   - "[[europol-ec3]]"
   - "[[spain-guardia-civil]]"
 legal_basis:
-  - "[[joint-investigation-team-jit]]"
+  - "[[joint-investigation-team]]"
   - "[[asset-freezing]]"
 mechanisms_used:
-  - "[[joint-investigation-team-jit]]"
+  - "[[joint-investigation-team]]"
   - "[[asset-freezing]]"
   - "[[informal-cooperation]]"
 results:
