@@ -692,19 +692,40 @@ def _gen_ko_operation(meta: dict, en: str) -> str:
     lines.append("## 개요\n")
 
     # Build summary
-    summary_parts = [f"**{title}**"]
-    if coord:
-        coord_slug = _extract_slug(meta.get("coordinating_body", ""))
-        summary_parts.append(f"[[{coord_slug}|{coord}]]의 조정 하에 수행된")
-    summary_parts.append(f"{op_type} 작전으로,")
-    if period_str:
-        summary_parts.append(f"**{period_str}** 기간 동안")
-    if num_countries:
-        summary_parts.append(f"**{num_countries}개국**이 참여하였다.")
+    related_cases = meta.get("related_cases", [])
+    canonical_case = ""
+    if isinstance(related_cases, list) and related_cases:
+        canonical_case = str(related_cases[0])
+
+    is_absorbed = status.lower() == "absorbed"
+    if is_absorbed:
+        summary_parts = [f"**{title}**는 독립 국제공조 작전이 아니라"]
+        if canonical_case:
+            summary_parts.append(f"{canonical_case}에 흡수된 후속 기록이다.")
+        else:
+            summary_parts.append("정본 사건 또는 정본 작전으로 흡수된 후속 기록이다.")
+        if op_type:
+            summary_parts.append(f"기록 유형은 {op_type}이다.")
+        if period_str:
+            summary_parts.append(f"기간은 **{period_str}**이다.")
     else:
-        summary_parts.append("국제 공조로 진행되었다.")
+        summary_parts = [f"**{title}**"]
+        if coord:
+            coord_slug = _extract_slug(meta.get("coordinating_body", ""))
+            summary_parts.append(f"[[{coord_slug}|{coord}]]의 조정 하에 수행된")
+        summary_parts.append(f"{op_type} 작전으로,")
+        if period_str:
+            summary_parts.append(f"**{period_str}** 기간 동안")
+        if num_countries:
+            summary_parts.append(f"**{num_countries}개국**이 참여하였다.")
+        else:
+            summary_parts.append("국제 공조로 진행되었다.")
 
     lines.append(" ".join(summary_parts))
+
+    if is_absorbed and canonical_case:
+        lines.append("\n## 정본 기록\n")
+        lines.append(f"- {canonical_case}")
 
     if target:
         lines.append(f"\n대상: {target}\n")

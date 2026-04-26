@@ -1,7 +1,8 @@
 ---
 type: operation
-title: "Kevin James Strutz Enforcement Action"
+title: "Kevin James Strutz Sentencing Follow-On"
 aliases:
+  - "Kevin James Strutz Enforcement Action"
   - "United States v. Kevin James Strutz"
 case_id: CYB-FUP-275
 period: 3
@@ -62,13 +63,13 @@ lessons_learned:
 source_count: 1
 sources:
   - "[[2023-11-13_justice-gov_ceres-man-sentenced-cyberstalking-two-victims]]"
-summary: "Absorbed domestic follow-on record for [[us-v-kevin-james-strutz]]. Kevin James Strutz was sentenced for cyberstalking, but no MLAT, extradition, foreign evidence channel, foreign arrest, or other international-cooperation mechanism is documented."
+summary: "Absorbed domestic sentencing follow-on for [[us-v-kevin-james-strutz]]. Kevin James Strutz was sentenced for cyberstalking, but no MLAT, extradition, foreign evidence channel, foreign arrest, or other international-cooperation mechanism is documented."
 created: 2026-04-18
 updated: 2026-04-27
 ---
 ## Summary
 
-This is **not a separate international-cooperation operation**. It is a domestic U.S. sentencing follow-on generated from source ingestion and is now absorbed into the canonical case page:
+This is **not a separate international-cooperation operation**. It is a domestic U.S. sentencing follow-on, previously surfaced as **Kevin James Strutz Enforcement Action**, generated from source ingestion and now absorbed into the canonical case page:
 
 - [[us-v-kevin-james-strutz]]
 
