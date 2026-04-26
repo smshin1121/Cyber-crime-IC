@@ -250,6 +250,7 @@ Korea continues as the **lead country** of the HAECHI series. In HAECHI VI:
 - Recorded crime classification: online fraud and BEC.
 - Recorded enforcement posture: Arrest and Asset Freeze.
 - The record is categorized as arrest-sweep with status completed.
+- Related legal or operational records: Operation Haechi V and Operation Haechi Iv.
 
 ## Evidence and Attribution Notes
 

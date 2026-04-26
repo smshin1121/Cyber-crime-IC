@@ -144,12 +144,18 @@ No Korean involvement identified in the Infraud takedown.
 ## Source Coverage
 
 - abc.net.au, 2018-02-08: 9407622.
-- Krebs on Security, 2018-02: U S Arrests 13 Charges 36 In Infraud Cybercrime Forum Bust.
+- Krebs on Security, 2018-02-01: U S Arrests 13 Charges 36 In Infraud Cybercrime Forum Bust.
 - rferl.org, 2018-02-07: 31160664.
 - Wired, 2018-02-07: Infraud Feds Takedown Cybercrime.
 - cbsnews.com, 2018-02-07: Us Russia Cybercrime Dark Web Market Suspect Sergey Medvedev Thailand.
 - voanews.com, 2018-02-07: 4246130.
-- techtarget.com, 2524: Doj Breaks Up Infraud Organization With Some Help.
+- techtarget.com, 2026-04-17: Doj Breaks Up Infraud Organization With Some Help.
+
+## Evidence and Attribution Notes
+
+- In February 2018, the US Department of Justice announced the takedown of the **Infraud Organization**, a massive online cybercrime forum responsible for an estimated **$530 million** in losses.
+- The operation resulted in **36 indictments** and **13 arrests** across multiple countries.
+- The Infraud Organization had operated since 2010 with nearly 11,000 members, facilitating the sale of stolen financial data, malware, and other cybercrime services.
 
 <!-- SOURCE_ENRICHMENT_END -->
 

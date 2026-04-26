@@ -151,6 +151,7 @@ Korea's voice phishing challenge:
 - Recorded crime classification: Voice Phishing Ic.
 - Recorded enforcement posture: Arrest.
 - The record is categorized as joint-investigation with status completed.
+- Related legal or operational records: Operation Haechi V.
 
 ## Evidence and Attribution Notes
 

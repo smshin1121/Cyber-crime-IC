@@ -310,12 +310,23 @@ There is no confirmed direct Korean involvement in the Dridex/Evil Corp operatio
 
 - US DOJ, 2015-10-13: Bugat Botnet Administrator Arrested and Malware Disabled.
 - FBI Pittsburgh, 2015-10-13: Bugat Botnet Administrator Arrested and Malware Disabled.
-- US DOJ, 2019-12-05: Russian National Charged with Decade-Long Series of Hacking and Bank Fraud.
+- US DOJ (OPA / W.D. Pa.), 2019-12-05: Russian National Charged with Decade-Long Series of Hacking and Bank Fraud Offenses Resulting in Tens of Millions in Losses and Second Russian..
 - US Treasury, 2019-12-05: Treasury Sanctions Evil Corp, the Russia-Based Cybercriminal Group Behind Dridex Malware.
 - NCA, 2019-12-05: International law enforcement operation exposes the world's most harmful cyber crime group.
-- US DOJ WDPA, 2018-12-06: Moldovan Sentenced for Distributing Multifunction Malware Package.
-- Dell SecureWorks (Sophos), 2015-10: Dridex (Bugat v5) Botnet Takeover Operation.
+- U.S. Attorney's Office, Western District of Pennsylvania, 2017-03-14: Moldovan Sentenced for Distributing Multifunction Malware Package.
+- Dell SecureWorks (Sophos), 2015-10-01: Dridex (Bugat v5) Botnet Takeover Operation.
 - The Hacker News, 2019-12-05: FBI Puts $5 Million Bounty On Russian Hackers Behind Dridex Banking Malware.
+
+## Evidence and Attribution Notes
+
+- The Dridex/Evil Corp disruption and prosecution was a **multi-year international law enforcement operation** targeting the Dridex banking trojan (also known as Bugat and Cridex) and its operators within the Russia-based cybercriminal organization **Evil Corp**.
+- The operation unfolded in two major phases: (1) the **October 2015 technical disruption and arrest** of botnet administrator Andrey Ghinkul, conducted jointly by the FBI and UK National Crime Agency (NCA); and (2) the **December 2019 indictment, sanctions, and reward** targeting Evil Corp leader **Maksim Yakubets** and deputy **Igor Turashev**, coordinated.
+- On 5 December 2019, the United States and United Kingdom jointly announced criminal charges against Maksim V.
+- Yakubets (aka "aqua"), 32, of Moscow, Russia, related to two separate international computer hacking and bank fraud schemes spanning from May 2009 to the present.
+- Charges A federal grand jury in Pittsburgh returned a 10-count indictment charging Yakubets and Igor Turashev with conspiracy, computer hacking, wire fraud, and bank fraud in connection with the distribution of "Bugat" (later known as "Cridex" and "Dridex"), a multifunction malware package designed to automate the theft of banking credentials.
+- Ghinkul extradited from Cyprus to U.S. February 2016 following Cypriot extradition proceedings.
+- Sentencing follow-up to original 2015 arrest.
+- DOJ U.S. Attorney's Office WDPA sentencing follow-up for the Bugat botnet administrator case, documenting the Cyprus extradition timeline.
 
 <!-- SOURCE_ENRICHMENT_END -->
 

@@ -203,6 +203,7 @@ No direct Korean involvement. Operation focused exclusively on African countries
 - Recorded crime classification: BEC and ransomware.
 - Recorded enforcement posture: Arrest and Takedown.
 - The record is categorized as arrest-sweep with status completed.
+- Related legal or operational records: Operation Serengeti.
 
 ## Evidence and Attribution Notes
 

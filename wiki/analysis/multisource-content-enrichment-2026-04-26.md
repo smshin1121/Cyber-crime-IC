@@ -15,7 +15,7 @@ This report records the targeted enrichment pass over every page selected in `_w
 - Pages changed in this execution: **0**
 - Pages with source-enrichment blocks after execution: **145**
 - Placeholder bodies replaced: **0**
-- Pages without extracted source facts: **10**
+- Pages without extracted source facts: **0**
 
 ## Processed Pages
 
@@ -33,8 +33,8 @@ This report records the targeted enrichment pass over every page selected in `_w
 | [[operation-avalanche]] | operation | enrich_all_multisource_from_existing_sources | 7 | 12 | no | no |
 | [[xdedic-marketplace-takedown]] | operation | enrich_all_multisource_from_existing_sources | 9 | 12 | no | no |
 | [[us-v-galochkin-trickbot-conti]] | case | enrich_all_multisource_from_existing_sources | 2 | 8 | no | no |
-| [[infraud-organization-takedown]] | operation | enrich_all_multisource_from_existing_sources | 7 | 0 | no | no |
-| [[operation-heart-blocker]] | operation | enrich_all_multisource_from_existing_sources | 5 | 0 | no | no |
+| [[infraud-organization-takedown]] | operation | enrich_all_multisource_from_existing_sources | 7 | 3 | no | no |
+| [[operation-heart-blocker]] | operation | enrich_all_multisource_from_existing_sources | 5 | 3 | no | no |
 | [[operation-serengeti]] | operation | enrich_all_multisource_from_existing_sources | 5 | 12 | no | no |
 | [[darkode-takedown]] | operation | enrich_all_multisource_from_existing_sources | 5 | 10 | no | no |
 | [[operation-lyrebird]] | operation | enrich_all_multisource_from_existing_sources | 5 | 12 | no | no |
@@ -82,7 +82,6 @@ This report records the targeted enrichment pass over every page selected in `_w
 | [[hive-ransomware-takedown]] | operation | enrich_all_multisource_from_existing_sources | 5 | 12 | no | no |
 | [[operation-pleiades]] | operation | enrich_all_multisource_from_existing_sources | 5 | 12 | no | no |
 | [[operation-jackal-iii]] | operation | enrich_all_multisource_from_existing_sources | 5 | 12 | no | no |
-| [[operation-jackal]] | operation | enrich_all_multisource_from_existing_sources | 5 | 12 | no | no |
 | [[operation-first-light-2024]] | operation | enrich_all_multisource_from_existing_sources | 5 | 12 | no | no |
 | [[silk-road-takedown]] | operation | enrich_all_multisource_from_existing_sources | 7 | 3 | no | no |
 | [[alphabay-takedown]] | operation | enrich_all_multisource_from_existing_sources | 5 | 12 | no | no |
@@ -108,6 +107,7 @@ This report records the targeted enrichment pass over every page selected in `_w
 | [[ramnit-botnet-takedown]] | operation | enrich_all_multisource_from_existing_sources | 5 | 12 | no | no |
 | [[operation-haechi-vi]] | operation | enrich_all_multisource_from_existing_sources | 5 | 12 | no | no |
 | [[operation-morpheus]] | operation | enrich_all_multisource_from_existing_sources | 5 | 12 | no | no |
+| [[operation-jackal]] | operation | enrich_all_multisource_from_existing_sources | 5 | 12 | no | no |
 | [[de-ch-crypto-mixer-takedown-2025]] | operation | enrich_all_multisource_from_existing_sources | 5 | 12 | no | no |
 | [[operation-endgame-phase2]] | operation | enrich_all_multisource_from_existing_sources | 7 | 12 | no | no |
 | [[korea-china-voice-phishing-qingdao]] | operation | enrich_all_multisource_from_existing_sources | 5 | 12 | no | no |
@@ -158,24 +158,11 @@ This report records the targeted enrichment pass over every page selected in `_w
 | [[operation-nervone]] | operation | enrich_all_multisource_from_existing_sources | 5 | 12 | no | no |
 | [[operation-de-fr-online-fraud-group-2026]] | operation | enrich_all_multisource_from_existing_sources | 5 | 12 | no | no |
 | [[operation-talent]] | operation | enrich_all_multisource_from_existing_sources | 5 | 12 | no | no |
-| [[bali-villa-cybercrime-raid-2024]] | operation | enrich_all_multisource_from_existing_sources | 5 | 0 | no | no |
-| [[bidencash-takedown]] | operation | enrich_all_multisource_from_existing_sources | 5 | 0 | no | no |
-| [[dridex-operations]] | operation | enrich_all_multisource_from_existing_sources | 8 | 0 | no | no |
-| [[myanmar-kokang-scam-compound-crackdown]] | operation | enrich_all_multisource_from_existing_sources | 5 | 0 | no | no |
-| [[operation-kraken-ghost-platform]] | operation | enrich_all_multisource_from_existing_sources | 6 | 0 | no | no |
-| [[operation-onymous]] | operation | enrich_all_multisource_from_existing_sources | 5 | 0 | no | no |
-| [[operation-shrouded-horizon]] | operation | enrich_all_multisource_from_existing_sources | 5 | 0 | no | no |
-| [[trickbot-operations]] | operation | enrich_all_multisource_from_existing_sources | 5 | 0 | no | no |
-
-## Follow-Up Needed
-
-- [[infraud-organization-takedown]] has no extracted source-page facts; review source linkage manually.
-- [[operation-heart-blocker]] has no extracted source-page facts; review source linkage manually.
-- [[bali-villa-cybercrime-raid-2024]] has no extracted source-page facts; review source linkage manually.
-- [[bidencash-takedown]] has no extracted source-page facts; review source linkage manually.
-- [[dridex-operations]] has no extracted source-page facts; review source linkage manually.
-- [[myanmar-kokang-scam-compound-crackdown]] has no extracted source-page facts; review source linkage manually.
-- [[operation-kraken-ghost-platform]] has no extracted source-page facts; review source linkage manually.
-- [[operation-onymous]] has no extracted source-page facts; review source linkage manually.
-- [[operation-shrouded-horizon]] has no extracted source-page facts; review source linkage manually.
-- [[trickbot-operations]] has no extracted source-page facts; review source linkage manually.
+| [[bali-villa-cybercrime-raid-2024]] | operation | enrich_all_multisource_from_existing_sources | 5 | 4 | no | no |
+| [[bidencash-takedown]] | operation | enrich_all_multisource_from_existing_sources | 5 | 7 | no | no |
+| [[dridex-operations]] | operation | enrich_all_multisource_from_existing_sources | 8 | 8 | no | no |
+| [[myanmar-kokang-scam-compound-crackdown]] | operation | enrich_all_multisource_from_existing_sources | 5 | 2 | no | no |
+| [[operation-kraken-ghost-platform]] | operation | enrich_all_multisource_from_existing_sources | 6 | 3 | no | no |
+| [[operation-onymous]] | operation | enrich_all_multisource_from_existing_sources | 5 | 5 | no | no |
+| [[operation-shrouded-horizon]] | operation | enrich_all_multisource_from_existing_sources | 5 | 2 | no | no |
+| [[trickbot-operations]] | operation | enrich_all_multisource_from_existing_sources | 5 | 4 | no | no |

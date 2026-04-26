@@ -84,6 +84,12 @@ class SourceRecord:
 
 
 @dataclass(frozen=True)
+class IndexedSource:
+    slug: str
+    path: Path
+
+
+@dataclass(frozen=True)
 class EnrichmentResult:
     slug: str
     category: str
@@ -98,6 +104,8 @@ class EnrichmentResult:
 def as_list(value: Any) -> list[Any]:
     if isinstance(value, list):
         return value
+    if isinstance(value, dict) and not value:
+        return []
     if value in (None, ""):
         return []
     return [value]
@@ -108,6 +116,19 @@ def wikilink_slug(value: Any) -> str:
     if text.startswith("[[") and text.endswith("]]"):
         return text[2:-2].split("|", 1)[0].strip()
     return text
+
+
+def normalize_url(value: Any) -> str:
+    url = str(value or "").strip().strip("<>")
+    if not url:
+        return ""
+    return url.rstrip("/")
+
+
+def extract_url(value: Any) -> str:
+    text = str(value or "")
+    match = re.search(r"https?://[^\s)>]+", text)
+    return normalize_url(match.group(0)) if match else ""
 
 
 def wikilink_label(value: Any) -> str:
@@ -304,39 +325,102 @@ def source_facts_from_post(post: frontmatter.Post) -> list[str]:
     return dedupe_texts(facts, limit=8)
 
 
+SOURCE_URL_INDEX: dict[str, list[IndexedSource]] | None = None
+
+
+def source_url_index() -> dict[str, list[IndexedSource]]:
+    global SOURCE_URL_INDEX
+    if SOURCE_URL_INDEX is not None:
+        return SOURCE_URL_INDEX
+    index: dict[str, list[IndexedSource]] = {}
+    for path in SOURCES_DIR.glob("*.md"):
+        try:
+            post = frontmatter.load(path)
+        except Exception:
+            continue
+        for key in ("collection_url", "source_url", "url"):
+            url = normalize_url(post.metadata.get(key))
+            if url:
+                index.setdefault(url, []).append(IndexedSource(path.stem, path))
+    SOURCE_URL_INDEX = index
+    return index
+
+
+def source_record_from_post(slug: str, post: frontmatter.Post, fallback: dict[str, str]) -> SourceRecord:
+    source_meta = post.metadata
+    return SourceRecord(
+        slug=slug,
+        title=str(source_meta.get("title") or fallback.get("title") or slug),
+        publisher=str(source_meta.get("publisher") or source_meta.get("collection_source") or fallback.get("publisher") or ""),
+        date=str(source_meta.get("publish_date") or fallback.get("date") or ""),
+        url=str(source_meta.get("collection_url") or fallback.get("url") or ""),
+        facts=source_facts_from_post(post),
+        word_count=int(source_meta.get("word_count") or 0),
+    )
+
+
+def source_resolution_score(indexed: IndexedSource) -> tuple[int, int, str]:
+    try:
+        post = frontmatter.load(indexed.path)
+    except Exception:
+        return (0, 0, indexed.slug)
+    meta = post.metadata
+    facts = source_facts_from_post(post)
+    raw_path = str(meta.get("raw_path") or "")
+    word_count = int(meta.get("word_count") or 0)
+    score = 0
+    if not meta.get("duplicate_of"):
+        score += 20
+    if raw_path:
+        score += 10
+    if re.match(r"^\d{4}-\d{2}-\d{2}_", indexed.slug):
+        score += 5
+    if facts:
+        score += 100 + len(facts) * 2
+    score += min(word_count // 500, 10)
+    return (score, word_count, indexed.slug)
+
+
+def resolve_source_by_url(url: str) -> tuple[str, frontmatter.Post] | None:
+    matches = source_url_index().get(normalize_url(url), [])
+    if not matches:
+        return None
+    indexed = max(matches, key=source_resolution_score)
+    try:
+        return indexed.slug, frontmatter.load(indexed.path)
+    except Exception:
+        return None
+
+
 def source_records(meta: dict[str, Any], body: str) -> list[SourceRecord]:
     ref_rows = parse_reference_rows(body)
     records: list[SourceRecord] = []
     seen: set[str] = set()
     for idx, item in enumerate(as_list(meta.get("sources"))):
         slug = wikilink_slug(item)
-        if not slug or slug in seen:
-            continue
-        seen.add(slug)
-        path = SOURCES_DIR / f"{slug}.md"
         fallback = ref_rows[idx] if idx < len(ref_rows) else {}
-        if path.exists():
-            try:
-                post = frontmatter.load(path)
-            except Exception:
-                post = frontmatter.Post({}, "")
-            source_meta = post.metadata
-            records.append(
-                SourceRecord(
-                    slug=slug,
-                    title=str(source_meta.get("title") or fallback.get("title") or slug),
-                    publisher=str(source_meta.get("publisher") or source_meta.get("collection_source") or fallback.get("publisher") or ""),
-                    date=str(source_meta.get("publish_date") or fallback.get("date") or ""),
-                    url=str(source_meta.get("collection_url") or fallback.get("url") or ""),
-                    facts=source_facts_from_post(post),
-                    word_count=int(source_meta.get("word_count") or 0),
-                )
-            )
+        url = extract_url(item) or fallback.get("url", "")
+        resolved = None
+        if slug:
+            path = SOURCES_DIR / f"{slug}.md"
+            if path.exists():
+                try:
+                    resolved = (slug, frontmatter.load(path))
+                except Exception:
+                    resolved = None
+        if not resolved and url:
+            resolved = resolve_source_by_url(url)
+        resolved_slug = resolved[0] if resolved else slug
+        if not resolved_slug or resolved_slug in seen:
+            continue
+        seen.add(resolved_slug)
+        if resolved:
+            records.append(source_record_from_post(resolved[0], resolved[1], fallback))
         else:
             records.append(
                 SourceRecord(
-                    slug=slug,
-                    title=str(fallback.get("title") or slug),
+                    slug=resolved_slug,
+                    title=str(fallback.get("title") or resolved_slug),
                     publisher=str(fallback.get("publisher") or ""),
                     date=str(fallback.get("date") or ""),
                     url=str(fallback.get("url") or ""),
@@ -349,17 +433,22 @@ def source_records(meta: dict[str, Any], body: str) -> list[SourceRecord]:
         return records
 
     for row in ref_rows:
-        records.append(
-            SourceRecord(
-                slug="",
-                title=row.get("title", ""),
-                publisher=row.get("publisher", ""),
-                date=row.get("date", ""),
-                url=row.get("url", ""),
-                facts=[],
-                word_count=0,
+        resolved = resolve_source_by_url(row.get("url", ""))
+        if resolved and resolved[0] not in seen:
+            seen.add(resolved[0])
+            records.append(source_record_from_post(resolved[0], resolved[1], row))
+        else:
+            records.append(
+                SourceRecord(
+                    slug="",
+                    title=row.get("title", ""),
+                    publisher=row.get("publisher", ""),
+                    date=row.get("date", ""),
+                    url=row.get("url", ""),
+                    facts=[],
+                    word_count=0,
+                )
             )
-        )
     return records
 
 

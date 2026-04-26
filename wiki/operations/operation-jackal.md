@@ -205,6 +205,7 @@ No direct Korean involvement in this operation. Black Axe operations primarily t
 - Recorded crime classification: BEC.
 - Recorded enforcement posture: Arrest and Asset Freeze.
 - The record is categorized as arrest-sweep with status completed.
+- Related legal or operational records: Operation Jackal Iii.
 
 ## Evidence and Attribution Notes
 

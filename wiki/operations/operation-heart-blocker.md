@@ -233,6 +233,12 @@ No known Korean involvement in Operation Heart Blocker. However:
 - CyberScoop, 2025-01-30: Department of Justice partners with Dutch police to break up HeartSender network.
 - Hackread, 2025-01-30: HeartSender Cybercrime Network Dismantled in Joint US-Dutch Operation.
 
+## Evidence and Attribution Notes
+
+- Operation Heart Blocker was a joint US-Dutch law enforcement action on January 29, 2025, targeting the HeartSender cybercrime marketplace network (also known as Saim Raza).
+- The U.S. Department of Justice and the Dutch National Police coordinated the seizure of 39 domains and their associated servers that had been operating since at least 2020 as marketplaces selling phishing kits, credential-stealing tools, email extractors, and scam page generators.
+- These tools were used by transnational organized crime groups to conduct business email compromise (BEC) schemes, resulting in over $3 million in confirmed US victim losses according to the DOJ (later revised to over $50 million by Pakistan's NCCIA).
+
 <!-- SOURCE_ENRICHMENT_END -->
 
 ## References

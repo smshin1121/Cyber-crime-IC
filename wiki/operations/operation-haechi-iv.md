@@ -197,6 +197,7 @@ South Korea leads the HAECHI series through the [[knpa-cyber-bureau|KNPA]]. In H
 - Recorded crime classification: online fraud and BEC.
 - Recorded enforcement posture: Arrest and Asset Freeze.
 - The record is categorized as arrest-sweep with status completed.
+- Related legal or operational records: Operation Haechi V and Operation Haechi Vi.
 
 ## Evidence and Attribution Notes
 

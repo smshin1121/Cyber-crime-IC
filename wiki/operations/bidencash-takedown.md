@@ -274,9 +274,19 @@ No [[south-korea|South Korean]] participation in the BidenCash seizure has been 
 
 - US Secret Service, 2025-06-05: U.S. Government Seizes Approximately 145 Criminal Marketplace Domains Associated with the BidenCash Marketplace.
 - Fortune, 2025-06-05: DOJ seizes crypto and web domains linked to online criminal marketplace BidenCash.
-- The Record, 2025-06: US and Netherlands take down BidenCash cybercrime marketplace infrastructure.
-- The Hacker News, 2025-06: DOJ seizes 145 domains tied to BidenCash marketplace.
+- The Record, 2025-06-01: US and Netherlands take down BidenCash cybercrime marketplace infrastructure.
+- The Hacker News, 2025-06-01: DOJ seizes 145 domains tied to BidenCash marketplace.
 - Help Net Security, 2025-06-06: BidenCash marketplace domains seized in coordinated international action.
+
+## Evidence and Attribution Notes
+
+- On 5 June 2025, the US Attorney's Office for the Eastern District of Virginia announced the seizure of approximately 145 domains (both darknet and clearnet) and cryptocurrency funds associated with the BidenCash criminal marketplace.
+- The operation was led by the US Secret Service Frankfurt Resident Office and Cyber Investigative Section, together with the FBI Albuquerque Field Office, and coordinated by the US Department of Justice.
+- International partners included the Dutch National High Tech Crime Unit and private-sector firms Searchlight Cyber and The Shadowserver Foundation.
+- The seized domains were redirected to a US law enforcement-controlled server.
+- BidenCash, which had operated since March 2022, had served over 117,000 customers, facilitated the trafficking of more than 15 million payment card numbers, and generated over USD 17 million in revenue.
+- The seizure was part of the broader Operation Endgame framework.
+- No arrests were announced as of the seizure date.
 
 <!-- SOURCE_ENRICHMENT_END -->
 

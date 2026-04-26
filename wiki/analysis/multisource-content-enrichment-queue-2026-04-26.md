@@ -30,8 +30,8 @@ This queue converts the content-depth audit into an execution list. It is ordere
 | 10 | [[operation-avalanche]] | operation | 14 | 7 | 795 | 2942 | enrich_all_multisource_from_existing_sources | possible_crime_type_mismatch:dark-web-ic |
 | 11 | [[xdedic-marketplace-takedown]] | operation | 14 | 9 | 1128 | 2481 | enrich_all_multisource_from_existing_sources | possible_crime_type_mismatch:malware-ic |
 | 12 | [[us-v-galochkin-trickbot-conti]] | case | 14 | 3 | 806 | 502 | enrich_all_multisource_from_existing_sources | possible_crime_type_mismatch:dark-web-ic |
-| 13 | [[infraud-organization-takedown]] | operation | 14 | 7 | 488 | 0 | enrich_all_multisource_from_existing_sources | possible_crime_type_mismatch:dark-web-ic |
-| 14 | [[operation-heart-blocker]] | operation | 14 | 5 | 1428 | 0 | enrich_all_multisource_from_existing_sources | possible_crime_type_mismatch:malware-ic |
+| 13 | [[infraud-organization-takedown]] | operation | 14 | 7 | 555 | 0 | enrich_all_multisource_from_existing_sources | possible_crime_type_mismatch:dark-web-ic |
+| 14 | [[operation-heart-blocker]] | operation | 14 | 5 | 1538 | 0 | enrich_all_multisource_from_existing_sources | possible_crime_type_mismatch:malware-ic |
 | 15 | [[operation-serengeti]] | operation | 12 | 5 | 596 | 17967 | enrich_all_multisource_from_existing_sources | high_source_to_body_gap |
 | 16 | [[darkode-takedown]] | operation | 12 | 5 | 671 | 10629 | enrich_all_multisource_from_existing_sources | high_source_to_body_gap |
 | 17 | [[operation-lyrebird]] | operation | 12 | 5 | 509 | 9605 | enrich_all_multisource_from_existing_sources | high_source_to_body_gap |
@@ -58,7 +58,7 @@ This queue converts the content-depth audit into an execution list. It is ordere
 | 38 | [[operation-12-members-of-an-irish-high-risk-criminal-network-arrested]] | operation | 12 | 6 | 469 | 4839 | enrich_all_multisource_from_existing_sources | high_source_to_body_gap |
 | 39 | [[operation-red-card]] | operation | 12 | 6 | 555 | 4332 | enrich_all_multisource_from_existing_sources | high_source_to_body_gap |
 | 40 | [[fake-shopping-sites-takedown-2024]] | operation | 12 | 6 | 505 | 4265 | enrich_all_multisource_from_existing_sources | high_source_to_body_gap |
-| 41 | [[operation-sentinel-africa]] | operation | 12 | 5 | 601 | 4239 | enrich_all_multisource_from_existing_sources | high_source_to_body_gap |
+| 41 | [[operation-sentinel-africa]] | operation | 12 | 5 | 608 | 4239 | enrich_all_multisource_from_existing_sources | high_source_to_body_gap |
 | 42 | [[operation-wirewire]] | operation | 12 | 5 | 517 | 4173 | enrich_all_multisource_from_existing_sources | high_source_to_body_gap |
 | 43 | [[franco-israeli-ceo-fraud]] | operation | 12 | 5 | 663 | 4169 | enrich_all_multisource_from_existing_sources | high_source_to_body_gap |
 | 44 | [[banking-trojan-fraud-sentencing-2017]] | operation | 12 | 5 | 593 | 4006 | enrich_all_multisource_from_existing_sources | high_source_to_body_gap |
@@ -79,35 +79,35 @@ This queue converts the content-depth audit into an execution list. It is ordere
 | 59 | [[hive-ransomware-takedown]] | operation | 12 | 5 | 501 | 2915 | enrich_all_multisource_from_existing_sources | high_source_to_body_gap |
 | 60 | [[operation-pleiades]] | operation | 12 | 5 | 562 | 2893 | enrich_all_multisource_from_existing_sources | high_source_to_body_gap |
 | 61 | [[operation-jackal-iii]] | operation | 12 | 5 | 676 | 2651 | enrich_all_multisource_from_existing_sources | high_source_to_body_gap |
-| 62 | [[operation-jackal]] | operation | 12 | 5 | 697 | 2591 | enrich_all_multisource_from_existing_sources | high_source_to_body_gap |
-| 63 | [[operation-first-light-2024]] | operation | 0 | 5 | 818 | 44742 | enrich_all_multisource_from_existing_sources |  |
-| 64 | [[silk-road-takedown]] | operation | 0 | 7 | 2373 | 11006 | enrich_all_multisource_from_existing_sources |  |
-| 65 | [[alphabay-takedown]] | operation | 0 | 5 | 2232 | 9599 | enrich_all_multisource_from_existing_sources |  |
-| 66 | [[operation-dark-huntor]] | operation | 0 | 5 | 1781 | 8025 | enrich_all_multisource_from_existing_sources |  |
-| 67 | [[isoon-apt27-indictment]] | operation | 0 | 6 | 704 | 8012 | enrich_all_multisource_from_existing_sources |  |
-| 68 | [[operation-power-off]] | operation | 0 | 7 | 1552 | 7211 | enrich_all_multisource_from_existing_sources |  |
-| 69 | [[operation-rewired]] | operation | 0 | 5 | 1461 | 6829 | enrich_all_multisource_from_existing_sources |  |
-| 70 | [[operation-endgame]] | operation | 0 | 9 | 2786 | 6174 | enrich_all_multisource_from_existing_sources |  |
-| 71 | [[operation-cronos-phase1]] | operation | 0 | 7 | 1005 | 6027 | enrich_all_multisource_from_existing_sources |  |
-| 72 | [[emotet-takedown]] | operation | 0 | 6 | 1904 | 5776 | enrich_all_multisource_from_existing_sources |  |
-| 73 | [[carding-action-2020]] | operation | 0 | 6 | 1170 | 5589 | enrich_all_multisource_from_existing_sources |  |
-| 74 | [[operation-haechi-iv]] | operation | 0 | 5 | 758 | 5457 | enrich_all_multisource_from_existing_sources |  |
-| 75 | [[operation-endgame-phase1]] | operation | 0 | 5 | 833 | 5290 | enrich_all_multisource_from_existing_sources |  |
-| 76 | [[operation-cronos-phase3]] | operation | 0 | 5 | 910 | 5154 | enrich_all_multisource_from_existing_sources |  |
-| 77 | [[goznym-takedown]] | operation | 0 | 5 | 941 | 4981 | enrich_all_multisource_from_existing_sources |  |
-| 78 | [[operation-haechi-v]] | operation | 0 | 5 | 804 | 4635 | enrich_all_multisource_from_existing_sources |  |
-| 79 | [[zambia-golden-top-call-center]] | operation | 0 | 8 | 778 | 3754 | enrich_all_multisource_from_existing_sources |  |
-| 80 | [[operation-haechi-iii]] | operation | 0 | 5 | 1675 | 3690 | enrich_all_multisource_from_existing_sources |  |
-| 81 | [[operation-key-figures-behind-phobos-and-8base-ransomware-arrested-in-international-cybercrime-crackdown]] | operation | 0 | 5 | 756 | 3378 | enrich_all_multisource_from_existing_sources |  |
-| 82 | [[operation-trojan-shield]] | operation | 0 | 6 | 734 | 3019 | enrich_all_multisource_from_existing_sources |  |
-| 83 | [[vpnlab-takedown]] | operation | 0 | 5 | 1490 | 2932 | enrich_all_multisource_from_existing_sources |  |
-| 84 | [[korea-cambodia-scam-repatriation]] | operation | 0 | 5 | 725 | 2874 | enrich_all_multisource_from_existing_sources |  |
-| 85 | [[ramnit-botnet-takedown]] | operation | 0 | 5 | 793 | 2849 | enrich_all_multisource_from_existing_sources |  |
-| 86 | [[operation-haechi-vi]] | operation | 0 | 5 | 909 | 2733 | enrich_all_multisource_from_existing_sources |  |
-| 87 | [[operation-morpheus]] | operation | 0 | 5 | 701 | 2595 | enrich_all_multisource_from_existing_sources |  |
+| 62 | [[operation-first-light-2024]] | operation | 0 | 5 | 818 | 44742 | enrich_all_multisource_from_existing_sources |  |
+| 63 | [[silk-road-takedown]] | operation | 0 | 7 | 2373 | 11006 | enrich_all_multisource_from_existing_sources |  |
+| 64 | [[alphabay-takedown]] | operation | 0 | 5 | 2232 | 9599 | enrich_all_multisource_from_existing_sources |  |
+| 65 | [[operation-dark-huntor]] | operation | 0 | 5 | 1781 | 8025 | enrich_all_multisource_from_existing_sources |  |
+| 66 | [[isoon-apt27-indictment]] | operation | 0 | 6 | 704 | 8012 | enrich_all_multisource_from_existing_sources |  |
+| 67 | [[operation-power-off]] | operation | 0 | 7 | 1552 | 7211 | enrich_all_multisource_from_existing_sources |  |
+| 68 | [[operation-rewired]] | operation | 0 | 5 | 1461 | 6829 | enrich_all_multisource_from_existing_sources |  |
+| 69 | [[operation-endgame]] | operation | 0 | 9 | 2786 | 6174 | enrich_all_multisource_from_existing_sources |  |
+| 70 | [[operation-cronos-phase1]] | operation | 0 | 7 | 1005 | 6027 | enrich_all_multisource_from_existing_sources |  |
+| 71 | [[emotet-takedown]] | operation | 0 | 6 | 1904 | 5776 | enrich_all_multisource_from_existing_sources |  |
+| 72 | [[carding-action-2020]] | operation | 0 | 6 | 1170 | 5589 | enrich_all_multisource_from_existing_sources |  |
+| 73 | [[operation-haechi-iv]] | operation | 0 | 5 | 770 | 5457 | enrich_all_multisource_from_existing_sources |  |
+| 74 | [[operation-endgame-phase1]] | operation | 0 | 5 | 833 | 5290 | enrich_all_multisource_from_existing_sources |  |
+| 75 | [[operation-cronos-phase3]] | operation | 0 | 5 | 910 | 5154 | enrich_all_multisource_from_existing_sources |  |
+| 76 | [[goznym-takedown]] | operation | 0 | 5 | 941 | 4981 | enrich_all_multisource_from_existing_sources |  |
+| 77 | [[operation-haechi-v]] | operation | 0 | 5 | 804 | 4635 | enrich_all_multisource_from_existing_sources |  |
+| 78 | [[zambia-golden-top-call-center]] | operation | 0 | 8 | 778 | 3754 | enrich_all_multisource_from_existing_sources |  |
+| 79 | [[operation-haechi-iii]] | operation | 0 | 5 | 1675 | 3690 | enrich_all_multisource_from_existing_sources |  |
+| 80 | [[operation-key-figures-behind-phobos-and-8base-ransomware-arrested-in-international-cybercrime-crackdown]] | operation | 0 | 5 | 756 | 3378 | enrich_all_multisource_from_existing_sources |  |
+| 81 | [[operation-trojan-shield]] | operation | 0 | 6 | 734 | 3019 | enrich_all_multisource_from_existing_sources |  |
+| 82 | [[vpnlab-takedown]] | operation | 0 | 5 | 1490 | 2932 | enrich_all_multisource_from_existing_sources |  |
+| 83 | [[korea-cambodia-scam-repatriation]] | operation | 0 | 5 | 725 | 2874 | enrich_all_multisource_from_existing_sources |  |
+| 84 | [[ramnit-botnet-takedown]] | operation | 0 | 5 | 793 | 2849 | enrich_all_multisource_from_existing_sources |  |
+| 85 | [[operation-haechi-vi]] | operation | 0 | 5 | 921 | 2733 | enrich_all_multisource_from_existing_sources |  |
+| 86 | [[operation-morpheus]] | operation | 0 | 5 | 701 | 2595 | enrich_all_multisource_from_existing_sources |  |
+| 87 | [[operation-jackal]] | operation | 0 | 5 | 705 | 2591 | enrich_all_multisource_from_existing_sources |  |
 | 88 | [[de-ch-crypto-mixer-takedown-2025]] | operation | 0 | 5 | 978 | 2589 | enrich_all_multisource_from_existing_sources |  |
 | 89 | [[operation-endgame-phase2]] | operation | 0 | 7 | 1008 | 2559 | enrich_all_multisource_from_existing_sources |  |
-| 90 | [[korea-china-voice-phishing-qingdao]] | operation | 0 | 5 | 718 | 2430 | enrich_all_multisource_from_existing_sources |  |
+| 90 | [[korea-china-voice-phishing-qingdao]] | operation | 0 | 5 | 726 | 2430 | enrich_all_multisource_from_existing_sources |  |
 | 91 | [[black-axe-bec-2021]] | operation | 0 | 5 | 555 | 2259 | enrich_all_multisource_from_existing_sources |  |
 | 92 | [[operation-chakra-iii]] | operation | 0 | 5 | 1486 | 2178 | enrich_all_multisource_from_existing_sources |  |
 | 93 | [[bec-nigeria-2016]] | operation | 0 | 5 | 980 | 2041 | enrich_all_multisource_from_existing_sources |  |
@@ -155,14 +155,14 @@ This queue converts the content-depth audit into an execution list. It is ordere
 | 135 | [[operation-nervone]] | operation | 0 | 5 | 474 | 172 | enrich_all_multisource_from_existing_sources |  |
 | 136 | [[operation-de-fr-online-fraud-group-2026]] | operation | 0 | 5 | 372 | 170 | enrich_all_multisource_from_existing_sources |  |
 | 137 | [[operation-talent]] | operation | 0 | 5 | 581 | 139 | enrich_all_multisource_from_existing_sources |  |
-| 138 | [[bali-villa-cybercrime-raid-2024]] | operation | 0 | 5 | 1337 | 0 | enrich_all_multisource_from_existing_sources |  |
-| 139 | [[bidencash-takedown]] | operation | 0 | 5 | 1416 | 0 | enrich_all_multisource_from_existing_sources |  |
-| 140 | [[dridex-operations]] | operation | 0 | 8 | 1943 | 0 | enrich_all_multisource_from_existing_sources |  |
-| 141 | [[myanmar-kokang-scam-compound-crackdown]] | operation | 0 | 5 | 2022 | 0 | enrich_all_multisource_from_existing_sources |  |
-| 142 | [[operation-kraken-ghost-platform]] | operation | 0 | 6 | 1816 | 0 | enrich_all_multisource_from_existing_sources |  |
-| 143 | [[operation-onymous]] | operation | 0 | 5 | 1756 | 0 | enrich_all_multisource_from_existing_sources |  |
-| 144 | [[operation-shrouded-horizon]] | operation | 0 | 5 | 354 | 0 | enrich_all_multisource_from_existing_sources |  |
-| 145 | [[trickbot-operations]] | operation | 0 | 5 | 1757 | 0 | enrich_all_multisource_from_existing_sources |  |
+| 138 | [[bali-villa-cybercrime-raid-2024]] | operation | 0 | 5 | 1449 | 0 | enrich_all_multisource_from_existing_sources |  |
+| 139 | [[bidencash-takedown]] | operation | 0 | 5 | 1566 | 0 | enrich_all_multisource_from_existing_sources |  |
+| 140 | [[dridex-operations]] | operation | 0 | 8 | 2181 | 0 | enrich_all_multisource_from_existing_sources |  |
+| 141 | [[myanmar-kokang-scam-compound-crackdown]] | operation | 0 | 5 | 2115 | 0 | enrich_all_multisource_from_existing_sources |  |
+| 142 | [[operation-kraken-ghost-platform]] | operation | 0 | 6 | 1898 | 0 | enrich_all_multisource_from_existing_sources |  |
+| 143 | [[operation-onymous]] | operation | 0 | 5 | 1905 | 0 | enrich_all_multisource_from_existing_sources |  |
+| 144 | [[operation-shrouded-horizon]] | operation | 0 | 5 | 415 | 0 | enrich_all_multisource_from_existing_sources |  |
+| 145 | [[trickbot-operations]] | operation | 0 | 5 | 1907 | 0 | enrich_all_multisource_from_existing_sources |  |
 
 ## Execution Rules
 

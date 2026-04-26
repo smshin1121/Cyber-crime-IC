@@ -137,9 +137,9 @@ The operation was coordinated through Europol's European Cybercrime Centre (EC3)
 
 ## Source Coverage
 
-- Wired, 2015-07: Dozens Nabbed Takedown Cybercrime Forum Darkode.
+- Wired, 2015-07-01: Dozens Nabbed Takedown Cybercrime Forum Darkode.
 - FBI, 2015-07-15: Cyber Criminal Forum Taken Down.
-- washingtonpost.com, 2015-07-15: Dd4Cf514 2B05 11E5 A5Ea Cf74396E59Ec Story.
+- washingtonpost.com, 2015-07-15: Major Computer Hacking Forum Dismantled.
 - archive.triblive.com, 2015-07-15: Details Emerge On Global Internet Crime Sting Led By Pittsburgh Fbi Agents.
 - threatpost.com, 2015-07-15: 113800.
 
@@ -148,13 +148,18 @@ The operation was coordinated through Europol's European Cybercrime Centre (EC3)
 - 2014-01: activity or investigation start.
 - 2015-07-15: public announcement.
 - 2015-07-15: reported enforcement endpoint.
-- 2015-07: public source coverage from Wired.
+- 2015-07-01: public source coverage from Wired.
 - 2015-07-15: public source coverage from FBI, archive.triblive.com, threatpost.com, washingtonpost.com.
 
 ## Legal and Procedural Posture
 
 - Recorded crime classification: malware.
 - The record is categorized as takedown with status completed.
+
+## Evidence and Attribution Notes
+
+- FBI-led Operation Shrouded Horizon, conducted in cooperation with Europol and law enforcement agencies from 20 countries over an 18-month investigation, dismantled the largest English-language cybercrime forum, Darkode.
+- The operation resulted in the arrest of more than 70 individuals and the indictment of 12, neutralizing a criminal marketplace for malware, botnets, stolen personal information, and credit card data trafficking.
 
 <!-- SOURCE_ENRICHMENT_END -->
 

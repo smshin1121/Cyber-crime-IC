@@ -291,11 +291,19 @@ There is no publicly reported Korean involvement in Operation Onymous. The opera
 
 ## Source Coverage
 
-- Europol, 2015: IOCTA 2015 — Darknets.
-- Wikipedia, (ongoing): Operation Onymous.
+- Europol, 2015-01-01: IOCTA 2015 — Darknets.
+- Wikipedia, 2026-04-17: Operation Onymous.
 - FBI, 2014-11-06: Operator of Silk Road 2.0 Website Charged in Manhattan Federal Court.
 - ICE / HSI, 2014-11-06: International probe leads to the arrest of the alleged operator of "Silk Road 2.0".
-- Swansea University, 2015-01: GDPO Situation Analysis — Operation Onymous.
+- Swansea University, 2015-01-01: GDPO Situation Analysis — Operation Onymous.
+
+## Evidence and Attribution Notes
+
+- Operation Onymous was a joint international law enforcement operation conducted on 5-6 November 2014 by the FBI, Europol, Eurojust, and the U.S. Department of Homeland Security, targeting darknet markets and other hidden services on the Tor network.
+- The operation resulted in the seizure of 267 .onion addresses across 27 distinct websites — including Silk Road 2.0, Cloud 9, and Hydra — the arrest of 17 individuals, and the seizure of approximately USD 1 million in Bitcoin along with cash, drugs, weapons, and computers.
+- Blake Benthall, the alleged operator of Silk Road 2.0 (pseudonym "Defcon"), was arrested in San Francisco.
+- The operation involved 17 European countries plus the United States and represented the largest coordinated action against Tor hidden services at the time.
+- However, it also generated significant controversy regarding the methods used to deanonymize Tor hidden services, including questions about a possible Carnegie Mellon University research exploit.
 
 <!-- SOURCE_ENRICHMENT_END -->
 
