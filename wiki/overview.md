@@ -72,7 +72,7 @@ The **DOJ-led model** leverages US multi-agency coordination (FBI, HSI, USSS, IR
 | Total domains seized | 812,161+ | All operations |
 | Unique participating countries | 150+ | All operations |
 | Sources with dedicated pages | 4765 | US DOJ USAO 1198, INTERPOL 92, Europol 87, US DOJ 69, Council of Europe 64 |
-| Crime types documented | 23 | All documented types |
+| Crime types documented | 24 | All documented types |
 
 ## Recent Activity
 

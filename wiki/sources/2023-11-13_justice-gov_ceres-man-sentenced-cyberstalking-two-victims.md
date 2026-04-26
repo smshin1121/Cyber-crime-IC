@@ -11,9 +11,11 @@ reliability: high
 credibility: confirmed
 sensitivity: public
 pages_updated:
+  - us-v-kevin-james-strutz
+  - operation-us-v-kevin-james-strutz
   - operation-ceres-man-pleads-guilty-cyberstalking-two-victims
 key_findings:
-  - "Strutz sentenced to three years four months in prison plus three years supervised release for two counts of cyberstalking."
+  - "Strutz sentenced to three years four months in prison plus three years supervised release and USD 1,773 restitution for two counts of cyberstalking."
   - "DOJ confirms Airbnb covert-recording extortion scheme and prior 15-letter handwritten threat campaign against second victim."
 collection_url: https://www.justice.gov/usao-edca/pr/ceres-man-sentenced-cyberstalking-two-victims
 created: 2026-04-25

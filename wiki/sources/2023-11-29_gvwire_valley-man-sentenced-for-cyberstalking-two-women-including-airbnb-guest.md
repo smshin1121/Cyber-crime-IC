@@ -11,6 +11,7 @@ reliability: medium
 credibility: probably-true
 sensitivity: public
 pages_updated:
+  - us-v-kevin-james-strutz
   - operation-us-v-kevin-james-strutz
 key_findings:
   - "Names AUSA David Gappa as prosecutor and confirms FBI + Ceres police investigative collaboration."
@@ -32,4 +33,4 @@ GV Wire (Fresno) coverage of the Strutz sentencing on 29 November 2023, providin
 
 ## Relevance to IC
 
-Independent local press coverage for [[operation-us-v-kevin-james-strutz]]. Domestic FBI + state/local cooperation; no IC element.
+Independent local press coverage for [[us-v-kevin-james-strutz]]. Domestic FBI + state/local cooperation; no IC element.

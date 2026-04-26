@@ -3,10 +3,10 @@ type: category-index
 title: "Crime Types"
 category: crime-type
 created: 2026-04-08
-updated: 2026-04-14
+updated: 2026-04-27
 ---
 
-# Crime Types (23)
+# Crime Types (24)
 
 | Crime Type | Category | Broadly Criminalized | Key Mechanisms | Notable Operations | Sources |
 |------------|----------|----------------------|----------------|--------------------|---------|
@@ -20,6 +20,7 @@ updated: 2026-04-14
 | [[csam-ic]] | content-related | Yes | — | — | 0 |
 | [[cybercrime-forum-ic]] | cyber-dependent | Yes | — | darkode-takedown, xdedic-marketplace-takedown, marketplace-a-dekhtyarchuk-indictment | 0 |
 | [[cybercrime-infrastructure-ic]] | cyber-dependent | Yes | — | doublevpn-takedown, operation-nova | 0 |
+| [[cyberstalking-ic]] | cyber-enabled | Yes | electronic-evidence, direct-provider-request | — | 0 |
 | [[dark-web-ic]] | — | — | — | — | 0 |
 | [[ddos-extortion]] | — | — | — | — | 0 |
 | [[ddos-ic]] | cyber-dependent | Yes | — | ddos-for-hire-sweep-2016, operation-pleiades | 0 |

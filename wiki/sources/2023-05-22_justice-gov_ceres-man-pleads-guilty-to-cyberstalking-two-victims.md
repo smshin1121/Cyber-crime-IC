@@ -12,9 +12,12 @@ reliability: high
 credibility: confirmed
 sensitivity: public
 pages_updated:
+  - us-v-kevin-james-strutz
   - operation-ceres-man-pleads-guilty-cyberstalking-two-victims
 key_findings:
-  - "This domestic-only U.S. follow-on record has been absorbed into the canonical case page [[ceres-man-pleads-guilty-cyberstalking-two-victims]]. No visible cross-border mechanism is documented, so it is not treated as a separate international-cooperation operation."
+  - "Kevin James Strutz pleaded guilty in the Eastern District of California to two counts of cyberstalking."
+  - "DOJ described conduct against two adult female victims, including Facebook-based coercive messages and a 2018 letter/message campaign."
+  - "The case was investigated by the FBI with assistance from the Ceres Police Department and prosecuted by AUSA David Gappa."
 collection_url: https://www.justice.gov/usao-edca/pr/ceres-man-pleads-guilty-cyberstalking-two-victims
 created: 2026-04-17
 text_status: parsed
@@ -25,8 +28,8 @@ last_fetcher: doj_fetch
 ---
 ## Source Summary
 
-This domestic-only U.S. follow-on record has been absorbed into the canonical case page [[ceres-man-pleads-guilty-cyberstalking-two-victims]]. No visible cross-border mechanism is documented, so it is not treated as a separate international-cooperation operation.
+Official DOJ/USAO EDCA guilty-plea release for [[us-v-kevin-james-strutz]]. It establishes the plea date, two-count cyberstalking charge, victim fact pattern, FBI/Ceres Police investigation, and scheduled sentencing posture.
 
 ## Relevance to IC
 
-The source supports [[operation-ceres-man-pleads-guilty-cyberstalking-two-victims]] in the `operations` corpus.
+This source shows why the record should be treated as a domestic case rather than a standalone international-cooperation operation. No cross-border mechanism is documented.

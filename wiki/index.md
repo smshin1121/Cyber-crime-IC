@@ -1,6 +1,6 @@
 # Wiki Index
 
-*Last updated: 2026-04-14 | Total pages: 7420 | Total sources: 4765*
+*Last updated: 2026-04-27 | Total pages: 7421 | Total sources: 4765*
 
 ## Legal Frameworks (22)
 - [[budapest-convention]] — First binding international treaty on cybercrime; 70+ parties; core IC provisions (Art. 29, 31, 32, 35)
@@ -62,7 +62,7 @@ Recent highlights:
 - [[emergency-data-preservation]] — Budapest Convention Art. 29; 24/7 Network transmission; 60-day preservation hold; 24-72 hours for initial action
 - [[extradition-request]] — Formal surrender process; bilateral treaties + Budapest Art. 24 + EAW; 6-24 months; Phobos admin Korea-to-US example
 
-## Crime Types (23)
+## Crime Types (24)
 - [[ransomware-ic]] — Ransomware from IC perspective; 8 major operations (2024-2025); 55+ arrests, 533+ servers
 - [[online-fraud-ic]] — Online fraud from IC perspective; HAECHI IV/V/VI, Serengeti, First Light, Jackal series, DE-FR Online Fraud 2026
 - [[hacking-ic]] — Hacking/computer intrusion from IC perspective; i-Soon/APT27, IP Proxy Service Takedown 2026

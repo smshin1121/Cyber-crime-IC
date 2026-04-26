@@ -11,6 +11,7 @@ reliability: medium
 credibility: probably-true
 sensitivity: public
 pages_updated:
+  - us-v-kevin-james-strutz
   - operation-us-v-kevin-james-strutz
 key_findings:
   - "Same-day local Fresno-area radio confirmation of Strutz 3y4m federal sentence."
@@ -32,4 +33,4 @@ KMJ Now news talk radio report on the 27 November 2023 federal sentencing of Kev
 
 ## Relevance to IC
 
-Independent local press coverage for [[operation-us-v-kevin-james-strutz]]. Note: case is purely domestic with no IC element.
+Independent local press coverage for [[us-v-kevin-james-strutz]]. Note: case is purely domestic with no IC element.

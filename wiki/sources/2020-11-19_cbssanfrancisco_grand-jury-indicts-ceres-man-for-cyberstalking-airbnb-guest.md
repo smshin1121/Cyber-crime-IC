@@ -11,6 +11,7 @@ reliability: medium
 credibility: probably-true
 sensitivity: public
 pages_updated:
+  - us-v-kevin-james-strutz
   - operation-us-v-kevin-james-strutz
 key_findings:
   - "November 2020 indictment timeline + Airbnb company statement."
@@ -32,4 +33,4 @@ CBS San Francisco regional broadcast outlet coverage of the November 2020 grand 
 
 ## Relevance to IC
 
-Independent regional press coverage at the indictment stage for [[operation-us-v-kevin-james-strutz]]. Domestic; no IC element.
+Independent regional press coverage at the indictment stage for [[us-v-kevin-james-strutz]]. Domestic; no IC element.

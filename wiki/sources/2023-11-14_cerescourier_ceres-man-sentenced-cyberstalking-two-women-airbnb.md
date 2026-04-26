@@ -11,6 +11,7 @@ reliability: medium
 credibility: reported
 sensitivity: public
 pages_updated:
+  - us-v-kevin-james-strutz
   - operation-ceres-man-pleads-guilty-cyberstalking-two-victims
 key_findings:
   - "Local Ceres Courier confirms sentence of 3 years 4 months in prison plus 3 years supervised release."
@@ -24,4 +25,4 @@ Local newspaper coverage from the Ceres Courier of the Strutz sentencing. The ar
 
 ## Relevance to IC
 
-Local press coverage matched to the USAO-EDCA Stanislaus County district provides geographic-context confirmation of [[operation-ceres-man-pleads-guilty-cyberstalking-two-victims]].
+Local press coverage matched to the USAO-EDCA Stanislaus County district provides geographic-context confirmation of [[us-v-kevin-james-strutz]].

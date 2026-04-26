@@ -14,12 +14,12 @@ enforcement_type:
 outcome: success
 timeframe:
   announced: 2023-11-27
-  start: 2023
+  start: 2023-05-22
   end: 2023-11-27
   ongoing: false
-crime_type: "[[online-fraud-ic]]"
+crime_type: "[[cyberstalking-ic]]"
 crime_types:
-  - "[[online-fraud-ic]]"
+  - "[[cyberstalking-ic]]"
 target_entity: "Kevin James Strutz"
 lead_agency: "[[us-doj]]"
 coordinating_body: "[[us-doj]]"
@@ -29,12 +29,14 @@ jurisdictions:
   - "[[united-states]]"
 participating_agencies:
   - "[[us-doj]]"
+  - "[[fbi]]"
+  - "Ceres Police Department"
 organizations:
   - "[[us-doj]]"
-legal_basis:
-  - "[[informal-cooperation]]"
+  - "[[fbi]]"
+legal_basis: []
 mechanisms_used:
-  - "[[informal-cooperation]]"
+  - "[[electronic-evidence]]"
 results:
   arrests: 0
   indictments: 0
@@ -44,38 +46,46 @@ results:
   decryption_keys_recovered: 0
   victims_notified: 0
   other:
-    - "Defendant-specific follow-on action derived from [[us-v-kevin-james-strutz]]"
-edges:
-
+    - "Absorbed domestic follow-on record; canonical case is [[us-v-kevin-james-strutz]]"
+    - "Sentence: 40 months in federal prison, three years supervised release, USD 1,773 restitution"
+edges: []
 credibility_index: 4.0
 source_tier: 1
 missing_fields:
-
+  - court_case_number
 related_cases:
   - "[[us-v-kevin-james-strutz]]"
-related_operations:
-
-challenges_encountered:
-
+related_operations: []
+challenges_encountered: []
 lessons_learned:
-
+  - "Domestic DOJ cybercrime press releases should not be treated as international-cooperation operations unless a cross-border mechanism is documented."
 source_count: 1
 sources:
-  - "[[2023-11-27_kmjnow_peeping-tom-sentenced-for-cyberstalking]]"
-summary: "This domestic-only U.S. follow-on record has been absorbed into the canonical case page [[us-v-kevin-james-strutz]]. No visible cross-border mechanism is documented, so it is not treated as a separate international-cooperation operation."
+  - "[[2023-11-13_justice-gov_ceres-man-sentenced-cyberstalking-two-victims]]"
+summary: "Absorbed domestic follow-on record for [[us-v-kevin-james-strutz]]. Kevin James Strutz was sentenced for cyberstalking, but no MLAT, extradition, foreign evidence channel, foreign arrest, or other international-cooperation mechanism is documented."
 created: 2026-04-18
-updated: 2026-04-26
+updated: 2026-04-27
 ---
 ## Summary
 
-This domestic-only U.S. follow-on record has been absorbed into the canonical case page [[us-v-kevin-james-strutz]]. No visible cross-border mechanism is documented, so it is not treated as a separate international-cooperation operation.
-
-## Canonical Record
+This is **not a separate international-cooperation operation**. It is a domestic U.S. sentencing follow-on generated from source ingestion and is now absorbed into the canonical case page:
 
 - [[us-v-kevin-james-strutz]]
+
+Kevin James Strutz was sentenced in the Eastern District of California to **40 months in federal prison**, **three years of supervised release**, and **USD 1,773 restitution** for cyberstalking. The FBI investigated with assistance from the Ceres Police Department. No cross-border cooperation mechanism is documented.
+
+## Classification
+
+| Field | Value |
+|---|---|
+| Canonical record | [[us-v-kevin-james-strutz]] |
+| Record role | Absorbed domestic follow-on |
+| Correct crime type | [[cyberstalking-ic]] |
+| IC status | No visible international-cooperation element |
+| Should this inflate operation counts? | No, beyond its absorbed wrapper record status |
 
 ## References
 
 | # | Title | Publisher | Date | URL |
 |---|---|---|---|---|
-| [1] | Peeping Tom Sentenced for Cyberstalking | KMJ-AF1 News Talk 580/105.9 | 2023-11-27 | https://www.kmjnow.com/2023/11/27/peeping-tom-sentenced-for-cyberstalking/ |
+| [1] | Ceres Man Sentenced for Cyberstalking Two Victims | US DOJ USAO EDCA | 2023-11-27 | https://www.justice.gov/usao-edca/pr/ceres-man-sentenced-cyberstalking-two-victims |

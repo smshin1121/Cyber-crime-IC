@@ -11,6 +11,7 @@ reliability: medium
 credibility: reported
 sensitivity: public
 pages_updated:
+  - us-v-kevin-james-strutz
   - operation-ceres-man-pleads-guilty-cyberstalking-two-victims
 key_findings:
   - "Independent press coverage of Kevin Strutz cyberstalking allegations using Insider/Business Insider reporting."
@@ -32,4 +33,4 @@ Insider/Business Insider news coverage (republished on Yahoo News) of the Strutz
 
 ## Relevance to IC
 
-This source provides independent press coverage corroborating the facts later admitted in the guilty plea on [[operation-ceres-man-pleads-guilty-cyberstalking-two-victims]].
+This source provides independent press coverage corroborating facts later admitted in the guilty plea in [[us-v-kevin-james-strutz]].

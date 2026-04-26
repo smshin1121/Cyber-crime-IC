@@ -22,7 +22,7 @@ This audit checks whether operation and case pages contain enough source-backed 
 
 | Issue | Count |
 |---|---:|
-| absorbed_wrapper_too_sparse | 764 |
+| absorbed_wrapper_too_sparse | 762 |
 | high_source_to_body_gap | 52 |
 | raw_available_underused | 25 |
 | possible_crime_type_mismatch | 5 |
@@ -115,23 +115,23 @@ This audit checks whether operation and case pages contain enough source-backed 
 | 81 | [[operation-alleged-russian-cryptocurrency-money-launderer-extradited-to-united-states]] | operation | 8 | 1 | 34 | 406 | absorbed_wrapper_too_sparse:34w |
 | 82 | [[operation-almost-1-000-suspects-arrested-in-interpol-operation-which-seized-over-129-million]] | operation | 8 | 1 | 34 | 751 | absorbed_wrapper_too_sparse:34w |
 | 83 | [[operation-brazilian-extradited-from-switzerland-to-the-united-states-to-face-indictment-charging-involvement-in-290m-cry]] | operation | 8 | 1 | 34 | 22 | absorbed_wrapper_too_sparse:34w |
-| 84 | [[operation-ceres-man-pleads-guilty-cyberstalking-two-victims]] | operation | 8 | 1 | 34 | 142 | absorbed_wrapper_too_sparse:34w |
-| 85 | [[operation-chinese-national-sentenced-prison-role-crypto-scam-targeting-americans]] | operation | 8 | 1 | 34 | 25 | absorbed_wrapper_too_sparse:34w |
-| 86 | [[operation-culpeper-woman-arrested-in-dark-web-murder-for-hire-plot]] | operation | 8 | 1 | 34 | 666 | absorbed_wrapper_too_sparse:34w |
-| 87 | [[operation-darknet-drug-vendor-arrested-for-distributing-illicit-prescription-drugs]] | operation | 8 | 1 | 34 | 26 | absorbed_wrapper_too_sparse:34w |
-| 88 | [[operation-darknet-vendor-arrested-on-distribution-and-money-laundering-charges]] | operation | 8 | 1 | 34 | 36 | absorbed_wrapper_too_sparse:34w |
-| 89 | [[operation-deepdotweb-administrator-pleads-guilty-money-laundering-conspiracy]] | operation | 8 | 1 | 34 | 20 | absorbed_wrapper_too_sparse:34w |
-| 90 | [[operation-dual-russian-and-israeli-national-extradited-to-the-united-states-for-his-role-in-the-lockbit-ransomware-consp]] | operation | 8 | 1 | 34 | 42 | absorbed_wrapper_too_sparse:34w |
-| 91 | [[operation-emotet-disruption-ladybird]] | operation | 8 | 1 | 34 | 1741 | absorbed_wrapper_too_sparse:34w |
-| 92 | [[operation-estonian-national-extradited-from-estonia-to-face-charges-of-illegal-procurement-of-u-s-electronics]] | operation | 8 | 1 | 34 | 25 | absorbed_wrapper_too_sparse:34w |
-| 93 | [[operation-euclid-ohio-man-pleads-guilty-distribution-fentanyl-he-ordered-china-and-sold]] | operation | 8 | 1 | 34 | 25 | absorbed_wrapper_too_sparse:34w |
-| 94 | [[operation-europol-mastermind-behind-eur-1-billion-cyber-bank-robbery-arrested-in-spain-carbanak-cobalt]] | operation | 8 | 1 | 34 | 404 | absorbed_wrapper_too_sparse:34w |
-| 95 | [[operation-fayette-county-man-admits-making-hoax-emergency-phone-calls-to-elicit-an-armed-police-response-practice-is-kno]] | operation | 8 | 1 | 34 | 22 | absorbed_wrapper_too_sparse:34w |
-| 96 | [[operation-florida-computer-programmer-arrested-for-hacking]] | operation | 8 | 1 | 34 | 24 | absorbed_wrapper_too_sparse:34w |
-| 97 | [[operation-former-owner-of-t-mobile-retail-store-in-eagle-rock-found-guilty-of-committing-25-million-scheme-to-illegally-]] | operation | 8 | 1 | 34 | 428 | absorbed_wrapper_too_sparse:34w |
-| 98 | [[operation-former-teaching-assistant-in-st-louis-admits-blackmailing-student]] | operation | 8 | 1 | 34 | 570 | absorbed_wrapper_too_sparse:34w |
-| 99 | [[operation-ghost-cybercrime-platform-dismantled-in-global-operation-51-arrested]] | operation | 8 | 1 | 34 | 81 | absorbed_wrapper_too_sparse:34w |
-| 100 | [[operation-grand-jury-indicts-knoxville-woman-previously-arrested-in-murder-for-hire-plot]] | operation | 8 | 1 | 34 | 23 | absorbed_wrapper_too_sparse:34w |
+| 84 | [[operation-chinese-national-sentenced-prison-role-crypto-scam-targeting-americans]] | operation | 8 | 1 | 34 | 25 | absorbed_wrapper_too_sparse:34w |
+| 85 | [[operation-culpeper-woman-arrested-in-dark-web-murder-for-hire-plot]] | operation | 8 | 1 | 34 | 666 | absorbed_wrapper_too_sparse:34w |
+| 86 | [[operation-darknet-drug-vendor-arrested-for-distributing-illicit-prescription-drugs]] | operation | 8 | 1 | 34 | 26 | absorbed_wrapper_too_sparse:34w |
+| 87 | [[operation-darknet-vendor-arrested-on-distribution-and-money-laundering-charges]] | operation | 8 | 1 | 34 | 36 | absorbed_wrapper_too_sparse:34w |
+| 88 | [[operation-deepdotweb-administrator-pleads-guilty-money-laundering-conspiracy]] | operation | 8 | 1 | 34 | 20 | absorbed_wrapper_too_sparse:34w |
+| 89 | [[operation-dual-russian-and-israeli-national-extradited-to-the-united-states-for-his-role-in-the-lockbit-ransomware-consp]] | operation | 8 | 1 | 34 | 42 | absorbed_wrapper_too_sparse:34w |
+| 90 | [[operation-emotet-disruption-ladybird]] | operation | 8 | 1 | 34 | 1741 | absorbed_wrapper_too_sparse:34w |
+| 91 | [[operation-estonian-national-extradited-from-estonia-to-face-charges-of-illegal-procurement-of-u-s-electronics]] | operation | 8 | 1 | 34 | 25 | absorbed_wrapper_too_sparse:34w |
+| 92 | [[operation-euclid-ohio-man-pleads-guilty-distribution-fentanyl-he-ordered-china-and-sold]] | operation | 8 | 1 | 34 | 25 | absorbed_wrapper_too_sparse:34w |
+| 93 | [[operation-europol-mastermind-behind-eur-1-billion-cyber-bank-robbery-arrested-in-spain-carbanak-cobalt]] | operation | 8 | 1 | 34 | 404 | absorbed_wrapper_too_sparse:34w |
+| 94 | [[operation-fayette-county-man-admits-making-hoax-emergency-phone-calls-to-elicit-an-armed-police-response-practice-is-kno]] | operation | 8 | 1 | 34 | 22 | absorbed_wrapper_too_sparse:34w |
+| 95 | [[operation-florida-computer-programmer-arrested-for-hacking]] | operation | 8 | 1 | 34 | 24 | absorbed_wrapper_too_sparse:34w |
+| 96 | [[operation-former-owner-of-t-mobile-retail-store-in-eagle-rock-found-guilty-of-committing-25-million-scheme-to-illegally-]] | operation | 8 | 1 | 34 | 428 | absorbed_wrapper_too_sparse:34w |
+| 97 | [[operation-former-teaching-assistant-in-st-louis-admits-blackmailing-student]] | operation | 8 | 1 | 34 | 570 | absorbed_wrapper_too_sparse:34w |
+| 98 | [[operation-ghost-cybercrime-platform-dismantled-in-global-operation-51-arrested]] | operation | 8 | 1 | 34 | 81 | absorbed_wrapper_too_sparse:34w |
+| 99 | [[operation-grand-jury-indicts-knoxville-woman-previously-arrested-in-murder-for-hire-plot]] | operation | 8 | 1 | 34 | 23 | absorbed_wrapper_too_sparse:34w |
+| 100 | [[operation-greene-county-man-indicted-cyberstalking-and-interstate-threats]] | operation | 8 | 1 | 34 | 24 | absorbed_wrapper_too_sparse:34w |
 
 ## Source-Rich Thin Pages
 

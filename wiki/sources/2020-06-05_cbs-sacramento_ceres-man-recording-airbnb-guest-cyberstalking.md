@@ -11,6 +11,7 @@ reliability: medium
 credibility: reported
 sensitivity: public
 pages_updated:
+  - us-v-kevin-james-strutz
   - operation-ceres-man-pleads-guilty-cyberstalking-two-victims
 key_findings:
   - "Sacramento broadcast TV (CBS) confirms the cyberstalking charges against the Ceres man at the indictment stage."
@@ -32,4 +33,4 @@ CBS Sacramento's local broadcast news coverage of the Strutz cyberstalking indic
 
 ## Relevance to IC
 
-Independent broadcast press coverage in the USAO district's metro area, providing parallel confirmation of [[operation-ceres-man-pleads-guilty-cyberstalking-two-victims]].
+Independent broadcast press coverage in the USAO district's metro area, providing parallel confirmation of [[us-v-kevin-james-strutz]] at the charging stage.
