@@ -17,9 +17,9 @@ source_tier: 3
 pages_updated:
   - operation-morpheus
 key_findings:
-  - "Europol announced Operation Morpheus on 3 July 2024: "the takedown of 593 unlicensed/cracked Cobalt Strike red-team tool servers used by cybercriminals out of 690 IP addresses initially flagged to online service providers in 27 countries during an intensive week of action from 24-28 June 2024\""
-  - "Lead agency: "UK National Crime Agency (NCA); participating law enforcement: Australia, Canada, Germany, Netherlands, Poland, and the United States — coordinated through Europol headquarters\""
-  - "Private-sector partners played unusually prominent roles: "BAE Systems Digital Intelligence, Trellix, Shadowserver, Spamhaus, and Abuse.ch contributed to identification and reporting of malicious Cobalt Strike instances; the Malware Information Sharing Platform (MISP) was used for real-time threat intelligence sharing\""
+  - "Europol announced Operation Morpheus on 3 July 2024: the takedown of 593 unlicensed/cracked Cobalt Strike red-team tool servers used by cybercriminals out of 690 IP addresses initially flagged to online service providers in 27 countries during an intensive week of action from 24-28 June 2024"
+  - "Lead agency: UK National Crime Agency (NCA); participating law enforcement: Australia, Canada, Germany, Netherlands, Poland, and the United States — coordinated through Europol headquarters"
+  - "Private-sector partners played unusually prominent roles: BAE Systems Digital Intelligence, Trellix, Shadowserver, Spamhaus, and Abuse.ch contributed to identification and reporting of malicious Cobalt Strike instances; the Malware Information Sharing Platform (MISP) was used for real-time threat intelligence sharing"
   - "~1.2 million indicators of compromise were identified during the operation — a large-scale data volume for a single-tool-focused takedown"
   - "Operation Morpheus is significant because it is the first major Europol-coordinated takedown targeting a *specific dual-use security tool* (Cobalt Strike) rather than a specific malware family or criminal group"
   - "The investigation began in 2021 and ran for approximately 3 years before the 2024 week-of-action culmination, consistent with typical Europol multi-jurisdictional investigation timelines"

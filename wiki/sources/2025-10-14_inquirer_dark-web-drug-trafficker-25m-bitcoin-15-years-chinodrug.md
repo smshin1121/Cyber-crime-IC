@@ -14,7 +14,7 @@ pages_updated:
   - operation-us-v-yang-yong
 key_findings:
   - "Inquirer coverage identifies the defendant as Zhengcheng Huang ('Chinodrug') and confirms 15-year sentence + ~$25M Bitcoin forfeiture before Judge Baylson."
-  - "Note: "operation slug uses 'Yang Yong' but the actual defendant per court records is Zhengcheng Huang. Slug-name mismatch should be reviewed.\""
+  - "Note: operation slug uses 'Yang Yong' but the actual defendant per court records is Zhengcheng Huang. Slug-name mismatch should be reviewed."
 collection_url: https://www.inquirer.com/crime/bitcoin-drug-dealing-chinodrug-forfeiture-prison-20251014.html
 created: 2026-04-25
 raw_path: raw/news/2025-10-14_inquirer_dark-web-drug-trafficker-25m-bitcoin-15-years-chinodrug.md

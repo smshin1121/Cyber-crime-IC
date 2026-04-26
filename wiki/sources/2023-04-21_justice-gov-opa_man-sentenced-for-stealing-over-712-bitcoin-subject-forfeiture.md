@@ -14,7 +14,7 @@ pages_updated:
   - operation-ohio-man-pleads-guilty-for-unlawfully-stealing-over-712-seized-bitcoin-subject-to-forfeiture-in-brothers-pendi
   - operation-us-v-gary-james-harmon
 key_findings:
-  - "Sentence: "4 years federal prison, plus forfeiture of $12M+ in crypto\""
+  - "Sentence: 4 years federal prison, plus forfeiture of $12M+ in crypto"
 collection_url: https://www.justice.gov/opa/pr/man-sentenced-stealing-over-712-bitcoin-subject-forfeiture
 created: 2026-04-25
 raw_path: raw/press-releases/2023-04-21_justice-gov-opa_man-sentenced-for-stealing-over-712-bitcoin-subject-to-forfeiture.md

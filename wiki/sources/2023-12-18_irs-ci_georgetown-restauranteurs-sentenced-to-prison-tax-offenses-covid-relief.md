@@ -14,7 +14,7 @@ pages_updated:
   - operation-us-v-karen-kowkabi
 key_findings:
   - "IRS-CI was lead investigative agency."
-  - "Restitution: "$1.35M IRS + $738,657 SBA.\""
+  - "Restitution: $1.35M IRS + $738,657 SBA."
 collection_url: https://www.irs.gov/compliance/criminal-investigation/georgetown-restauranteurs-sentenced-to-prison-for-tax-offenses-and-theft-of-covid-19-relief-funds
 created: 2026-04-25
 raw_path: raw/press-releases/2023-12-18_irs-ci_georgetown-restauranteurs-sentenced-to-prison-tax-offenses-covid-relief.md

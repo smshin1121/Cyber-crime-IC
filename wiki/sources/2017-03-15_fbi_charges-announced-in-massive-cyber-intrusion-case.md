@@ -14,7 +14,7 @@ pages_updated:
   - operation-us-v-dmitry-aleksandrovich-dokuchaev-and-igor-anatolyevich-sushchin
 key_findings:
   - "FBI parallel agency press release confirming Yahoo hack indictment of two FSB officers"
-  - "Identifies all four defendants: "Dokuchaev, Sushchin, Belan, Baratov\""
+  - "Identifies all four defendants: Dokuchaev, Sushchin, Belan, Baratov"
 collection_url: https://www.fbi.gov/news/stories/charges-announced-in-massive-cyber-intrusion-case
 created: 2026-04-25
 raw_path: raw/press-releases/2017-03-15_fbi_charges-announced-in-massive-cyber-intrusion-case.md

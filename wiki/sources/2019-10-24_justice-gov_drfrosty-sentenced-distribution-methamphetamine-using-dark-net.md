@@ -13,7 +13,7 @@ sensitivity: public
 pages_updated:
   - operation-us-v-omar-isho
 key_findings:
-  - "Sentencing follow-up to June 2019 indictment: "5y10m.\""
+  - "Sentencing follow-up to June 2019 indictment: 5y10m."
   - "Judge Morrison C. England Jr. imposed sentence."
 collection_url: https://www.justice.gov/usao-edca/pr/drfrosty-sentenced-distribution-methamphetamine-using-dark-net
 created: 2026-04-25

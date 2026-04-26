@@ -19,7 +19,7 @@ pages_updated:
 key_findings:
   - "3,950 arrests and USD 257 million seized across 61 countries in online scam crackdown"
   - "14,643 additional suspects identified; 6,745 bank accounts frozen"
-  - "Namibia: "88 youths rescued from forced scam operations; Spain: I-GRIP intercepted USD 331K BEC fraud\""
+  - "Namibia: 88 youths rescued from forced scam operations; Spain: I-GRIP intercepted USD 331K BEC fraud"
 collection_url: https://www.interpol.int/News-and-Events/News/2024/USD-257-million-seized-in-global-police-crackdown-against-online-scams
 created: 2026-04-08
 text_status: parsed

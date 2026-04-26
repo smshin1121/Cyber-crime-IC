@@ -14,7 +14,7 @@ pages_updated:
   - operation-tulsa-man-who-fled-from-smuggling-charge-pleads-guilty
   - operation-us-v-jeremy-daniel-singer
 key_findings:
-  - "Confirms cross-border element: "ecstasy purchased from a German vendor on the dark web\""
+  - "Confirms cross-border element: ecstasy purchased from a German vendor on the dark web"
 collection_url: https://www.newson6.com/story/5e35bf79fcd8ef694720e725/tulsa-food-truck-owner-pleads-guilty-to-smuggling-ecstasy
 created: 2026-04-25
 raw_path: raw/news/2019-08-08_newson6_tulsa-food-truck-owner-pleads-guilty-smuggling-ecstasy.md

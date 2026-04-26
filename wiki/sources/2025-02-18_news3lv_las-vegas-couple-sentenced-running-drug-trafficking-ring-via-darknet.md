@@ -13,7 +13,7 @@ sensitivity: public
 pages_updated:
   - operation-us-v-rushan-lavar-reed-and-celeste-nicole-reed
 key_findings:
-  - "Multiple darknet markets used: "Monopoly, Versus, AlphaBay.\""
+  - "Multiple darknet markets used: Monopoly, Versus, AlphaBay."
 collection_url: https://news3lv.com/news/local/las-vegas-couple-sentenced-for-running-drug-trafficking-ring-via-darknet-markets
 created: 2026-04-25
 raw_path: raw/news/2025-02-18_news3lv_las-vegas-couple-sentenced-running-drug-trafficking-ring-via-darknet.md

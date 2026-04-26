@@ -15,7 +15,7 @@ pages_updated:
   - operation-us-v-sirotkin-deaver-dark-web
 key_findings:
   - "Initial January 2020 announcement of charges against five defendants"
-  - "Total laundered amount: "$2.8M\""
+  - "Total laundered amount: $2.8M"
 collection_url: https://www.fox19.com/2020/01/15/charged-m-dark-web-drug-trafficking-money-laundering-conspiracy/
 created: 2026-04-25
 raw_path: raw/news/2020-01-15_fox19_5-charged-28m-dark-web-drug-trafficking-money-laundering-conspiracy.md

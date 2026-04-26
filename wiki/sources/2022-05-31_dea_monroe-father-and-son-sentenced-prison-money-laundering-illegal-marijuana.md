@@ -14,7 +14,7 @@ pages_updated:
   - operation-us-v-kenneth-warren-rhule-and-kenneth-john-rule
 key_findings:
   - "DEA parallel agency confirmation of dual 5-year sentences"
-  - "Bitcoin laundering scheme: "$142,000 undercover transactions\""
+  - "Bitcoin laundering scheme: $142,000 undercover transactions"
 collection_url: https://www.dea.gov/press-releases/2022/05/31/monroe-father-and-son-sentenced-prison-money-laundering-and-illegal
 created: 2026-04-25
 raw_path: raw/press-releases/2022-05-31_dea_monroe-father-and-son-sentenced-prison-money-laundering-illegal-marijuana.md

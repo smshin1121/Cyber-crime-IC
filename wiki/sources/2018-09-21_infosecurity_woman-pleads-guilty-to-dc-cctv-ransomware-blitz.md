@@ -13,7 +13,7 @@ sensitivity: public
 pages_updated:
   - operation-us-v-mihai-alexandru-isvanca
 key_findings:
-  - "UK extradition path: "Romania arrest -> escape to UK -> US extradition.\""
+  - "UK extradition path: Romania arrest -> escape to UK -> US extradition."
 collection_url: https://www.infosecurity-magazine.com/news/woman-pleads-guilty-to-dc-cctv/
 created: 2026-04-25
 raw_path: raw/news/2018-09-21_infosecurity_woman-pleads-guilty-to-dc-cctv-ransomware-blitz.md

@@ -16,7 +16,7 @@ pages_updated:
 key_findings:
   - "Confirms Alexander James Rosell, 34, of Wichita plea Jan 17, 2025"
   - "Confirms international investigation of a dark web website led to identification via IP-based reports"
-  - "Investigators: "FBI, Wichita Police, Kansas ICAC Task Force\""
+  - "Investigators: FBI, Wichita Police, Kansas ICAC Task Force"
 collection_url: https://www.kwch.com/2025/01/17/wichita-man-pleads-guilty-child-pornography-possession/
 created: 2026-04-25
 raw_path: raw/news/2025-01-17_kwch_wichita-man-pleads-guilty-child-pornography-possession.md

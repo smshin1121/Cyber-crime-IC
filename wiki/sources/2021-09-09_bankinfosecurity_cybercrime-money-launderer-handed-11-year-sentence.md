@@ -14,7 +14,7 @@ pages_updated:
   - operation-international-money-launderer-sentenced-to-over-11-years-in-federal-prison-for-laundering-millions-from-cyber-
 key_findings:
   - "U.S. Secret Service Atlanta Field Office led investigation alongside DOJ; Alaumary laundered for Lazarus Group."
-  - "International victims: "banks in Malta, India, Pakistan; U.K. football club; Canadian university ($9.4M).\""
+  - "International victims: banks in Malta, India, Pakistan; U.K. football club; Canadian university ($9.4M)."
 collection_url: https://www.bankinfosecurity.com/cybercrime-money-launderer-handed-11-year-sentence-a-17501
 created: 2026-04-25
 raw_path: raw/news/2021-09-09_bankinfosecurity_cybercrime-money-launderer-handed-11-year-sentence.md

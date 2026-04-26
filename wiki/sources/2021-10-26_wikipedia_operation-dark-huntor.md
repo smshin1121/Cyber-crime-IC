@@ -13,8 +13,8 @@ sensitivity: public
 pages_updated:
   - operation-us-v-jonathan-patrick-turrentine
 key_findings:
-  - "Lists JCODE participants: "FBI, DEA, HSI, USPIS, IRS-CI, ATF, NCIS, CBP plus Europol EC3, Eurojust.\""
-  - "Targeted darknet markets: "Dream, WallStreet, White House, DeepSea (legacy markets exposed by DarkMarket evidence).\""
+  - "Lists JCODE participants: FBI, DEA, HSI, USPIS, IRS-CI, ATF, NCIS, CBP plus Europol EC3, Eurojust."
+  - "Targeted darknet markets: Dream, WallStreet, White House, DeepSea (legacy markets exposed by DarkMarket evidence)."
 collection_url: https://en.wikipedia.org/wiki/Operation_Dark_HunTor
 created: 2026-04-25
 raw_path: raw/government-reports/2021-10-26_wikipedia_operation-dark-huntor.md

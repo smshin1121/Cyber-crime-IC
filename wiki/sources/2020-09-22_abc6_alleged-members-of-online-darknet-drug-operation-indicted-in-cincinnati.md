@@ -14,8 +14,8 @@ pages_updated:
   - operation-us-v-khlari-sirotkin-and-sean-deaver
   - operation-us-v-sirotkin-deaver-dark-web
 key_findings:
-  - "Five defendants indicted: "Sirotkin, Stephens, Deaver, Jones, Sasha Sirotkin\""
-  - "Part of broader international enforcement: "179 arrests, $6.5M seized\""
+  - "Five defendants indicted: Sirotkin, Stephens, Deaver, Jones, Sasha Sirotkin"
+  - "Part of broader international enforcement: 179 arrests, $6.5M seized"
 collection_url: https://abc6onyourside.com/news/local/alleged-members-of-online-darknet-drug-operation-indicted-in-cincinnati
 created: 2026-04-25
 raw_path: raw/news/2020-09-22_abc6_alleged-members-of-online-darknet-drug-operation-indicted-in-cincinnati.md

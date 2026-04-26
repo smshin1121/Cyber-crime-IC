@@ -13,8 +13,8 @@ sensitivity: public
 pages_updated:
   - operation-us-v-victoria-eduardovna-dubranova
 key_findings:
-  - "Cyber trade press confirmation: "extradited Ukrainian charged in CDCA for CARR + NoName057(16).\""
-  - "Critical infrastructure victims: "US water systems, LA meat processing facility (ammonia leak Nov 2024).\""
+  - "Cyber trade press confirmation: extradited Ukrainian charged in CDCA for CARR + NoName057(16)."
+  - "Critical infrastructure victims: US water systems, LA meat processing facility (ammonia leak Nov 2024)."
 collection_url: https://cyberscoop.com/us-charges-russian-backed-hacker-critical-infrastructure-attacks-carr-noname05716/
 created: 2026-04-25
 raw_path: raw/news/2025-12-09_cyberscoop_us-charges-russian-backed-hacker-critical-infrastructure-attacks-carr-noname05716.md

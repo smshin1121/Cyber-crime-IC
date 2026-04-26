@@ -14,7 +14,7 @@ pages_updated:
   - operation-us-v-celeste-santifer
 key_findings:
   - "Defendant identified as former YMCA-DC office manager"
-  - "Restitution: "$618,090; sentence: 41 months\""
+  - "Restitution: $618,090; sentence: 41 months"
 collection_url: https://www.wusa9.com/article/news/local/dc/former-ymca-employee-sentenced-41-months-prison-ordering-cell-phones-selling-them-keeping-the-money/65-fe663160-8dc6-4021-9591-f7a8ff51e3da
 created: 2026-04-25
 raw_path: raw/news/2023-05-04_wusa9_former-ymca-employee-sentenced-41-months-ordering-cell-phones.md

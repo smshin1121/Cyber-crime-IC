@@ -13,7 +13,7 @@ sensitivity: public
 pages_updated:
   - operation-us-v-louis-donald-mendonsa
 key_findings:
-  - "Sentencing follow-up to the April 2024 guilty plea: "24 years 4 months.\""
+  - "Sentencing follow-up to the April 2024 guilty plea: 24 years 4 months."
   - "Confirms Project Safe Childhood + HSI lead investigation."
 collection_url: https://hoodline.com/2025/02/sacramento-man-sentenced-to-over-24-years-for-operating-child-sexual-abuse-sites-on-dark-web/
 created: 2026-04-25

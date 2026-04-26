@@ -14,7 +14,7 @@ pages_updated:
   - operation-us-v-brandon-adams-dark-web
 key_findings:
   - "DEA parallel agency confirmation of Brandon Adams's 24-month federal sentence"
-  - "Multi-agency investigation: "DEA, FBI, USPIS in Eastern District of Missouri\""
+  - "Multi-agency investigation: DEA, FBI, USPIS in Eastern District of Missouri"
 collection_url: https://www.dea.gov/press-releases/2024/05/01/darknet-vendor-who-sold-millions-fake-xanax-pills-sentenced
 created: 2026-04-25
 raw_path: raw/press-releases/2024-05-01_dea_darknet-vendor-who-sold-millions-fake-xanax-pills-sentenced.md

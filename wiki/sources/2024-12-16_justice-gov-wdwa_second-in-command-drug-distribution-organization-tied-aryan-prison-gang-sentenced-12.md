@@ -14,7 +14,7 @@ pages_updated:
   - operation-two-drug-traffickers-sentenced-to-lengthy-prison-terms-in-case-arising-from-investigation-of-aryan-family-pris
 key_findings:
   - "Arizona-to-Washington drug transport route"
-  - "Shelton stash house: "640,000 fentanyl pills seized\""
+  - "Shelton stash house: 640,000 fentanyl pills seized"
 collection_url: https://www.justice.gov/usao-wdwa/pr/second-command-drug-distribution-organization-tied-aryan-prison-gang-sentenced-12
 created: 2026-04-25
 raw_path: raw/press-releases/2024-12-16_justice-gov-wdwa_second-in-command-drug-distribution-organization-tied-aryan-prison-gang-sentenced-12.md

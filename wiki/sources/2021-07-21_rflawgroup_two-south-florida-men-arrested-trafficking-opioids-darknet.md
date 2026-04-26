@@ -14,7 +14,7 @@ pages_updated:
   - operation-us-v-olatunji-dawodu-and-alex-ogando
 key_findings:
   - "~67,000 pills sold over 2017-2021."
-  - "Investigation methods: "undercover, mail drop surveillance, informants.\""
+  - "Investigation methods: undercover, mail drop surveillance, informants."
 collection_url: https://www.rflawgroup.com/two-south-florida-men-arrested-for-trafficking-opioids-on-the-darknet/
 created: 2026-04-25
 raw_path: raw/news/2021-07-21_rflawgroup_two-south-florida-men-arrested-trafficking-opioids-darknet.md

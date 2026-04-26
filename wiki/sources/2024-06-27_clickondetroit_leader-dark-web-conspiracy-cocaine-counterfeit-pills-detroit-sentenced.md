@@ -14,7 +14,7 @@ pages_updated:
   - operation-us-v-hernandez-dark-web
 key_findings:
   - "Identifies dark web vendor 'opiateconnect' as Hernandez's moniker"
-  - "Lists investigative agencies: "DEA, ATF, Michigan State Police, USAO E.D. Mich.\""
+  - "Lists investigative agencies: DEA, ATF, Michigan State Police, USAO E.D. Mich."
 collection_url: https://www.clickondetroit.com/news/local/2024/06/27/leader-of-conspiracy-to-sell-cocaine-counterfeit-pills-over-dark-web-in-detroit-sentenced-to-prison/
 created: 2026-04-25
 raw_path: raw/news/2024-06-27_clickondetroit_leader-dark-web-conspiracy-cocaine-counterfeit-pills-detroit-sentenced.md

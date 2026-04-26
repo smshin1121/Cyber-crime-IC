@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
 """
-Repair two YAML frontmatter quoting bugs found in wiki/operations/*.md.
+Repair common YAML frontmatter quoting bugs found in wiki/*.md files.
 
 Pattern A — stray inner quote after colon:
     - "AlphaBay: "400,000 users, 40,000 vendors\""
@@ -25,12 +25,27 @@ import re
 import sys
 from pathlib import Path
 
-import yaml
+REPO_ROOT = Path(__file__).resolve().parents[1]
+
+try:
+    import yaml
+except ModuleNotFoundError:
+    for candidate in ("vendor37_build", "vendor_build2", ".vendor_build", ".vendor"):
+        vendor_path = REPO_ROOT / candidate
+        if not vendor_path.exists():
+            continue
+        sys.path.insert(0, str(vendor_path))
+        try:
+            import yaml  # type: ignore
+            break
+        except ModuleNotFoundError:
+            continue
+    else:
+        raise
 
 logging.basicConfig(level=logging.INFO, format="%(levelname)s %(message)s")
 log = logging.getLogger("repair")
 
-REPO_ROOT = Path(__file__).resolve().parents[1]
 WIKI_OPS = REPO_ROOT / "wiki" / "operations"
 
 # Pattern B: URL-in-markdown-link. Apply FIRST (more specific).
@@ -53,6 +68,36 @@ PATTERN_A_RE = re.compile(
     re.MULTILINE,
 )
 PATTERN_A_SUB = r'\g<lead>"\g<pre>: \g<post>"'
+PATTERN_C_RE = re.compile(r'^(?P<lead>[ \t]*-[ \t]+)"(?P<body>.*)"(?P<trail>[ \t]*)$')
+
+
+def _single_quote_yaml(value: str) -> str:
+    value = value.replace('\\"', '"')
+    return "'" + value.replace("'", "''") + "'"
+
+
+def repair_unsafe_list_quotes(fm_body: str) -> tuple[str, int]:
+    """Convert quoted list items with inner double-quotes to single-quoted YAML."""
+    lines: list[str] = []
+    count = 0
+    for line in fm_body.splitlines(keepends=True):
+        newline = ""
+        content = line
+        if line.endswith("\r\n"):
+            content, newline = line[:-2], "\r\n"
+        elif line.endswith("\n"):
+            content, newline = line[:-1], "\n"
+        match = PATTERN_C_RE.match(content)
+        if match and '"' in match.group("body"):
+            line = (
+                match.group("lead")
+                + _single_quote_yaml(match.group("body"))
+                + match.group("trail")
+                + newline
+            )
+            count += 1
+        lines.append(line)
+    return "".join(lines), count
 
 
 def split_frontmatter(text: str) -> tuple[str, str, str] | None:
@@ -70,11 +115,15 @@ def split_frontmatter(text: str) -> tuple[str, str, str] | None:
     return leading, fm_body, rest
 
 
-def repair_text(fm_body: str) -> tuple[str, int, int]:
-    """Return (new_body, count_B_repairs, count_A_repairs)."""
+def repair_text(fm_body: str, repair_list_quotes: bool = True) -> tuple[str, int, int, int]:
+    """Return (new_body, count_B_repairs, count_A_repairs, count_C_repairs)."""
     new_body, b_count = PATTERN_B_RE.subn(PATTERN_B_SUB, fm_body)
     new_body, a_count = PATTERN_A_RE.subn(PATTERN_A_SUB, new_body)
-    return new_body, b_count, a_count
+    if repair_list_quotes:
+        new_body, c_count = repair_unsafe_list_quotes(new_body)
+    else:
+        c_count = 0
+    return new_body, b_count, a_count, c_count
 
 
 def verify_parse(fm_body: str) -> str | None:
@@ -95,8 +144,11 @@ def process_file(path: Path, dry_run: bool) -> dict[str, object]:
         return {"path": path.name, "status": "no-frontmatter"}
     leading, fm_body, rest = split
     pre_error = verify_parse(fm_body)
-    new_fm, b_count, a_count = repair_text(fm_body)
-    if b_count == 0 and a_count == 0:
+    new_fm, b_count, a_count, c_count = repair_text(
+        fm_body,
+        repair_list_quotes=pre_error is not None,
+    )
+    if b_count == 0 and a_count == 0 and c_count == 0:
         return {
             "path": path.name,
             "status": "no-change",
@@ -112,6 +164,7 @@ def process_file(path: Path, dry_run: bool) -> dict[str, object]:
         "status": action,
         "pattern_B_repairs": b_count,
         "pattern_A_repairs": a_count,
+        "pattern_C_repairs": c_count,
         "pre_parse_ok": pre_error is None,
         "post_parse_ok": post_error is None,
         "pre_error_head": pre_error,
@@ -166,7 +219,7 @@ def main() -> int:
         tag = "OK" if r.get("post_parse_ok") else "FAIL"
         line = (
             f"  [{tag}] {r['path']} "
-            f"(B={r.get('pattern_B_repairs')} A={r.get('pattern_A_repairs')})"
+            f"(B={r.get('pattern_B_repairs')} A={r.get('pattern_A_repairs')} C={r.get('pattern_C_repairs')})"
         )
         if not r.get("pre_parse_ok"):
             line += f"  was-broken: {r.get('pre_error_head')}"

@@ -15,7 +15,7 @@ pages_updated:
   - operation-us-v-two-men
 key_findings:
   - "Defendants identified as Sagar Steven Singh (RI) and Nicholas Ceraolo (Forest Hills NY); group ViLE"
-  - "International element: "compromised Bangladeshi police email used for fake emergency disclosure requests\""
+  - "International element: compromised Bangladeshi police email used for fake emergency disclosure requests"
 collection_url: https://krebsonsecurity.com/2023/03/two-us-men-charged-in-2022-hacking-of-dea-portal/
 created: 2026-04-25
 raw_path: raw/news/2023-03-14_krebsonsecurity_two-us-men-charged-in-2022-hacking-of-dea-portal.md

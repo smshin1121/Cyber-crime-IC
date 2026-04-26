@@ -13,7 +13,7 @@ sensitivity: public
 pages_updated:
   - operation-us-v-karen-kowkabi
 key_findings:
-  - "Karen Kowkabi plea date: "August 14, 2023; five counts.\""
+  - "Karen Kowkabi plea date: August 14, 2023; five counts."
 collection_url: https://www.justice.gov/usao-dc/pr/georgetown-restauranteurs-plead-guilty-tax-offenses-and-theft-covid-relief-funds
 created: 2026-04-25
 raw_path: raw/press-releases/2023-08-14_justice-gov_georgetown-restauranteurs-plead-guilty-tax-offenses-theft-covid-relief.md

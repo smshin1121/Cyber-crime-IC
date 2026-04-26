@@ -14,7 +14,7 @@ pages_updated:
   - operation-us-v-alan-bill
 key_findings:
   - "DEA parallel agency confirmation of Alan Bill's arrest at Newark airport December 15, 2023"
-  - "Multi-agency investigation: "DEA, IRS-CI, FBI, USPIS, ICE-HSI in Eastern District of Missouri\""
+  - "Multi-agency investigation: DEA, IRS-CI, FBI, USPIS, ICE-HSI in Eastern District of Missouri"
 collection_url: https://www.dea.gov/press-releases/2023/12/21/slovakian-man-accused-running-darknet-market-selling-drugs-and-personal
 created: 2026-04-25
 raw_path: raw/press-releases/2023-12-21_dea_slovakian-man-accused-running-darknet-market-selling-drugs-and-personal-information.md

@@ -13,7 +13,7 @@ sensitivity: public
 pages_updated:
   - operation-us-v-milomir-desnica
 key_findings:
-  - "Operation SpecTor: "288 arrests, EUR 50.8M recovered.\""
+  - "Operation SpecTor: 288 arrests, EUR 50.8M recovered."
 collection_url: https://securityaffairs.com/154033/cyber-crime/monopoly-market-admin-plead-guilty.html
 created: 2026-04-25
 raw_path: raw/news/2023-11-11_securityaffairs_monopoly-market-admin-plead-guilty.md

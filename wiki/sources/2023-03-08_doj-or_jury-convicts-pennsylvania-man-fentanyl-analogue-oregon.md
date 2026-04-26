@@ -15,7 +15,7 @@ pages_updated:
   - operation-us-v-henry-konah-koffie
 key_findings:
   - "Verdict-stage DOJ press release documenting Koffie's conviction by federal jury on eight counts."
-  - "Identifies investigating agencies: "Portland Police Bureau, HSI Portland, and USPIS.\""
+  - "Identifies investigating agencies: Portland Police Bureau, HSI Portland, and USPIS."
 collection_url: https://www.justice.gov/usao-or/pr/jury-convicts-pennsylvania-man-dealing-fentanyl-analogue-caused-fatal-overdoses-oregon
 created: 2026-04-25
 raw_path: raw/press-releases/2023-03-08_doj-or_jury-convicts-pennsylvania-man-fentanyl-analogue-oregon.md

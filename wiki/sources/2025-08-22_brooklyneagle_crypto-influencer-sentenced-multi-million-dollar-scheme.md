@@ -13,7 +13,7 @@ sensitivity: public
 pages_updated:
   - operation-nebraska-man-pleads-guilty-in-multi-million-dollar-cryptojacking-case
 key_findings:
-  - "Sentencing follow-up: "1 year and 1 day in prison, August 15, 2025\""
+  - "Sentencing follow-up: 1 year and 1 day in prison, August 15, 2025"
   - "Local press coverage from EDNY courthouse district newspaper"
 collection_url: https://brooklyneagle.com/articles/2025/08/22/crypto-influencer-sentenced-for-multi-million-dollar-scheme/
 created: 2026-04-25

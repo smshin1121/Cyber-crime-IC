@@ -14,7 +14,7 @@ pages_updated:
   - operation-us-v-howard-webber
 key_findings:
   - "Independent national press coverage of the Webber tax-fraud conviction"
-  - "Quantifies the scheme: "700+ false returns, $600K obtained\""
+  - "Quantifies the scheme: 700+ false returns, $600K obtained"
 collection_url: https://huffingtonpost.com/christopher-zoukis/exconvict-uses-700-inmate_b_14647598.html
 created: 2026-04-25
 raw_path: raw/news/2017-02-08_huffpost_ex-convict-uses-ids-of-700-inmates-tax-refunds.md

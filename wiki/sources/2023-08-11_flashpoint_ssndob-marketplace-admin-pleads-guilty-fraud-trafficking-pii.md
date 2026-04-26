@@ -13,7 +13,7 @@ sensitivity: public
 pages_updated:
   - operation-us-v-related-to-his-operation-and-marketplace-administrator
 key_findings:
-  - "Lists forfeited domains: "BLACKJOB.BIZ, SSNDOB.CLUB, SSNDOB.VIP, SSNDOB.WS.\""
+  - "Lists forfeited domains: BLACKJOB.BIZ, SSNDOB.CLUB, SSNDOB.VIP, SSNDOB.WS."
   - "Confirms $5 million money judgment as part of plea."
 collection_url: https://flashpoint.io/blog/us-seizes-ssndob-marketplace-admin-pleads-guilty/
 created: 2026-04-25

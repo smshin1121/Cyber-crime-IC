@@ -18,7 +18,7 @@ pages_updated:
   - voice-phishing-ic
   - online-fraud-ic
 key_findings:
-  - "HAECHI IV: "~3,500 arrests, USD 300 million seized across 34 countries (260% increase over HAECHI III)\""
+  - "HAECHI IV: ~3,500 arrests, USD 300 million seized across 34 countries (260% increase over HAECHI III)"
   - "82,112 suspicious bank accounts blocked; 7 types of cyber-enabled fraud targeted"
   - "INTERPOL issued Purple Notices warning of AI-generated voice cloning in scams"
 collection_url: https://www.interpol.int/News-and-Events/News/2023/USD-300-million-seized-and-3-500-suspects-arrested-in-international-financial-crime-operation

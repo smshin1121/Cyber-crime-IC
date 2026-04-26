@@ -13,7 +13,7 @@ sensitivity: public
 pages_updated:
   - operation-us-v-of-hacking-jumbotron-and-augustine-serial-child-molester
 key_findings:
-  - "Parallel federal agency confirmation: "ATF investigated the firearm possession count.\""
+  - "Parallel federal agency confirmation: ATF investigated the firearm possession count."
   - "Lists FBI Jacksonville and US Marshals as cooperating agencies."
 collection_url: https://www.atf.gov/news/press-releases/jumbotron-hacker-and-prolific-child-molester-sentenced-220-years-federal-prison
 created: 2026-04-25

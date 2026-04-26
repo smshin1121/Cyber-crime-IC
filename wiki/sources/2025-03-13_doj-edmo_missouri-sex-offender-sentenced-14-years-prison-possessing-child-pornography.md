@@ -14,7 +14,7 @@ pages_updated:
   - operation-registered-sex-offender-admits-possessing-child-pornography
   - operation-registered-sex-offender-admits-possessing-child-pornography-0
 key_findings:
-  - "DOJ sentencing follow-up: "Hamilton's 14-year federal sentence\""
+  - "DOJ sentencing follow-up: Hamilton's 14-year federal sentence"
 collection_url: https://www.justice.gov/usao-edmo/pr/missouri-sex-offender-sentenced-14-years-prison-possessing-child-pornography
 created: 2026-04-25
 raw_path: raw/press-releases/2025-03-13_doj-edmo_missouri-sex-offender-sentenced-14-years-prison-possessing-child-pornography.md

@@ -14,7 +14,7 @@ pages_updated:
   - operation-men-indicted-for-crimes-related-to-securities-fraud
   - operation-us-v-steve-parish-richard-dean-and-joshua-owen
 key_findings:
-  - "Defendants: "Steve Parish (54, Derby KS), Richard Dean (66, Plano TX), Joshua Owen (39, Derby KS)\""
+  - "Defendants: Steve Parish (54, Derby KS), Richard Dean (66, Plano TX), Joshua Owen (39, Derby KS)"
   - "FBI + Kansas Dept of Insurance Securities Division + Oklahoma Dept of Securities investigated"
 collection_url: https://www.kwch.com/2025/12/16/kansas-texas-men-charged-multi-million-dollar-fraud-scheme/
 created: 2026-04-25

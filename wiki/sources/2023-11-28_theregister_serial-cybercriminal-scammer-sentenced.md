@@ -13,7 +13,7 @@ sensitivity: public
 pages_updated:
   - operation-us-v-amir-hossein-golshan
 key_findings:
-  - "Multi-vector fraud catalogued: "SIM swap, fake verified badges, Apple Support impersonation, Zelle wire fraud.\""
+  - "Multi-vector fraud catalogued: SIM swap, fake verified badges, Apple Support impersonation, Zelle wire fraud."
 collection_url: https://www.theregister.com/2023/11/28/serial_cybercriminal_and_scammer_sentenced/
 created: 2026-04-25
 raw_path: raw/news/2023-11-28_theregister_serial-cybercriminal-scammer-sentenced.md

@@ -13,7 +13,7 @@ sensitivity: public
 pages_updated:
   - operation-us-v-ephraim-rosenberg
 key_findings:
-  - "Pre-sentencing role detail: "linchpin' connecting insiders and outside sellers"
+  - 'Pre-sentencing role detail: "linchpin'' connecting insiders and outside sellers'
   - "Documents IP complaints used as competitive weapon"
 collection_url: https://www.ecommercebytes.com/2023/07/08/more-details-about-consultants-role-in-amazon-bribery-scheme/
 created: 2026-04-25

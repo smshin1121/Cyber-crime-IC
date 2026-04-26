@@ -13,7 +13,7 @@ sensitivity: public
 pages_updated:
   - operation-us-v-roman-sterlingov
 key_findings:
-  - "Sterlingov: "dual Russian-Swedish national.\""
+  - "Sterlingov: dual Russian-Swedish national."
   - "1.2M BTC processed; $395M restitution."
 collection_url: https://www.infosecurity-magazine.com/news/man-12-years-running-crypto-mixer/
 created: 2026-04-25

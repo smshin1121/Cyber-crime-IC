@@ -14,7 +14,7 @@ pages_updated:
   - operation-us-v-tan-dark-web
 key_findings:
   - "Parallel DEA confirmation of Tony Tan's 18-month sentence"
-  - "Documents inter-agency cooperation: "DEA + IRS-CI + USPS\""
+  - "Documents inter-agency cooperation: DEA + IRS-CI + USPS"
 collection_url: https://www.dea.gov/press-releases/2024/01/24/dark-web-vendor-sentenced-18-months-prison-distributing-meth-pressed
 created: 2026-04-25
 raw_path: raw/press-releases/2024-01-24_dea-gov_dark-web-vendor-sentenced-18-months-meth-pressed-adderall.md

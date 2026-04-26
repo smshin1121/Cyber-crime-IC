@@ -14,7 +14,7 @@ pages_updated:
   - operation-international-hacker-for-hire-who-conspired-with-and-aided-russian-fsb-officers-sentenced-to-five-years-in-pri
 key_findings:
   - "Engadget independent confirmation of Baratov sentencing details"
-  - "Identifies victim profile: "journalists, government officials, financial sector\""
+  - "Identifies victim profile: journalists, government officials, financial sector"
 collection_url: https://www.engadget.com/2018-05-30-yahoo-hacker-sentence.html
 created: 2026-04-25
 raw_path: raw/news/2018-05-30_engadget_attacker-involved-in-2014-yahoo-hack-gets-five-years-in-prison.md

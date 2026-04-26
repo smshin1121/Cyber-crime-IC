@@ -14,7 +14,7 @@ pages_updated:
   - operation-us-v-anurag-pramod-murarka
 key_findings:
   - "Murarka aliases 'elonmuskwhm' / 'la2nyc'; India hawala; $20M+ laundered"
-  - "International element: "India-based defendant arrested on US visa entry\""
+  - "International element: India-based defendant arrested on US visa entry"
 collection_url: https://decrypt.co/301795/indian-crypto-vendor-sentenced-to-over-10-years-for-money-laundering
 created: 2026-04-25
 raw_path: raw/news/2025-01-17_decrypt_indian-crypto-vendor-sentenced-money-laundering.md

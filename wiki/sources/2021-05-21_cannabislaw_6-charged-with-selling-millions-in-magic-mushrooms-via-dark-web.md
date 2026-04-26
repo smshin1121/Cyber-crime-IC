@@ -15,7 +15,7 @@ pages_updated:
   - operation-us-v-james-verl-barlow-matthew-taylor-barlow-and-jennifer-helen-cambpell
 key_findings:
   - "Cryptocurrency-based dark-web sales nationwide"
-  - "Forfeiture targets: "2016 Tesla Model-X and Colorado land valued $1.5M+\""
+  - "Forfeiture targets: 2016 Tesla Model-X and Colorado land valued $1.5M+"
 collection_url: https://cannabislaw.report/6-charged-with-selling-millions-in-magic-mushrooms-via-dark-web-local-news/
 created: 2026-04-25
 raw_path: raw/news/2021-05-21_cannabislaw_6-charged-with-selling-millions-in-magic-mushrooms-via-dark-web.md

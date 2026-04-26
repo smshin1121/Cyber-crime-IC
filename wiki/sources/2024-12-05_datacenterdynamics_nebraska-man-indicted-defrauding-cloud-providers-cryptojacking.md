@@ -13,7 +13,7 @@ sensitivity: public
 pages_updated:
   - operation-nebraska-man-pleads-guilty-in-multi-million-dollar-cryptojacking-case
 key_findings:
-  - "Cloud-industry trade press framing: "cryptojacking exploited cloud provider trust thresholds\""
+  - "Cloud-industry trade press framing: cryptojacking exploited cloud provider trust thresholds"
   - "Indictment unsealed in EDNY against Charles O. Parks III"
 collection_url: https://www.datacenterdynamics.com/en/news/nebraska-man-indicted-for-defrauding-two-cloud-providers-in-cryptojacking-scheme/
 created: 2026-04-25

@@ -14,7 +14,7 @@ pages_updated:
   - operation-mississippi-county-sheriff-indicted-on-charges-of-identity-theft
   - operation-us-v-cory-hutcheson
 key_findings:
-  - "DOJ follow-up press release: "Hutcheson's guilty plea and resignation agreement\""
+  - "DOJ follow-up press release: Hutcheson's guilty plea and resignation agreement"
 collection_url: https://www.justice.gov/usao-edmo/pr/mississippi-county-sheriff-pleads-guilty-fraud-and-identity-theft-agrees-resign
 created: 2026-04-25
 raw_path: raw/press-releases/2018-11-20_doj-edmo_mississippi-county-sheriff-pleads-guilty-fraud-and-identity-theft-agrees-resign.md

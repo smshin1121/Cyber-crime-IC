@@ -13,7 +13,7 @@ sensitivity: public
 pages_updated:
   - operation-kansas-farmer-indicted-for-insurance-fraud
 key_findings:
-  - "Confirms guilty plea by David L. Mongeau (Mongeau Enterprises) to false statements re: "crop insurance and bank fraud\""
+  - "Confirms guilty plea by David L. Mongeau (Mongeau Enterprises) to false statements re: crop insurance and bank fraud"
   - "Sentencing scheduled July 1, 2026"
 collection_url: "https://www.eurekaherald.com/article/5763,kansas-farmer-pled-guilty-to-crop-insurance-fraud"
 created: 2026-04-25

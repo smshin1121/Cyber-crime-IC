@@ -13,7 +13,7 @@ sensitivity: public
 pages_updated:
   - operation-us-v-larry-dean-harmon
 key_findings:
-  - "Confirmed cooperating agencies: "IRS-CI Cyber Crimes Unit + FBI Washington Field Office.\""
+  - "Confirmed cooperating agencies: IRS-CI Cyber Crimes Unit + FBI Washington Field Office."
 collection_url: https://www.irs.gov/compliance/criminal-investigation/operator-of-helix-darknet-cryptocurrency-mixer-sentenced-in-money-laundering-conspiracy-involving-hundreds-of-millions-of-dollars
 created: 2026-04-25
 raw_path: raw/press-releases/2024-11-15_irs-ci_operator-helix-darknet-cryptocurrency-mixer-sentenced-money-laundering-conspiracy.md

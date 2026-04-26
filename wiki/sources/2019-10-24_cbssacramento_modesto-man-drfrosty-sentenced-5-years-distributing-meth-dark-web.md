@@ -13,7 +13,7 @@ sensitivity: public
 pages_updated:
   - operation-us-v-omar-isho
 key_findings:
-  - "Sentencing follow-up confirmation: "5 years 10 months.\""
+  - "Sentencing follow-up confirmation: 5 years 10 months."
   - "Confirms multiple darknet markets and jigsaw-puzzle concealment method."
 collection_url: https://www.cbsnews.com/sacramento/news/modesto-man-drfrosty-sentenced-to-5-years-for-distributing-meth-on-dark-web/
 created: 2026-04-25

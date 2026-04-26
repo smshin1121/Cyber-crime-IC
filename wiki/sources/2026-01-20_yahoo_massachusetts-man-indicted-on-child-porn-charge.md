@@ -13,7 +13,7 @@ sensitivity: public
 pages_updated:
   - operation-north-reading-man-indicted-for-possession-of-child-pornography
 key_findings:
-  - "Defendant: "Ralph E. Hannan III, 68, North Reading MA.\""
+  - "Defendant: Ralph E. Hannan III, 68, North Reading MA."
   - "Independent press confirmation of January 20, 2026 indictment."
 collection_url: https://www.yahoo.com/news/articles/massachusetts-man-indicted-child-porn-224142561.html
 created: 2026-04-25

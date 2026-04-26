@@ -16,7 +16,7 @@ pages_updated:
   - operation-kentucky-man-pleads-guilty-to-advertising-child-pornography
   - operation-kentucky-man-sentenced-to-15-years-in-prison-for-advertising-child-pornography
 key_findings:
-  - "Sentence: "15 years prison + 5 years supervised release + $100,000 restitution.\""
+  - "Sentence: 15 years prison + 5 years supervised release + $100,000 restitution."
   - "Investigation supported by Homeland Security Investigations."
 collection_url: https://www.wcluradio.com/2024/05/02/glasgow-man-sentenced-to-15-years-on-child-porn-charges/
 created: 2026-04-25

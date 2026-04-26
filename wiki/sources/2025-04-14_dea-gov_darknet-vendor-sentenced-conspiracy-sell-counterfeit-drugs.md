@@ -14,7 +14,7 @@ pages_updated:
   - operation-us-v-sabbagh-dark-web
 key_findings:
   - "DEA parallel agency press release"
-  - "Sabbagh: "Lebanese/Italian national, 78 months, $25M+ Xanax trafficked\""
+  - "Sabbagh: Lebanese/Italian national, 78 months, $25M+ Xanax trafficked"
 collection_url: https://www.dea.gov/press-releases/2025/04/14/darknet-vendor-sentenced-for-conspiracy-sell-counterfeit-drugs
 created: 2026-04-25
 raw_path: raw/press-releases/2025-04-14_dea-gov_darknet-vendor-sentenced-conspiracy-sell-counterfeit-drugs.md

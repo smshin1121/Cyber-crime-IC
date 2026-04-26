@@ -13,7 +13,7 @@ sensitivity: public
 pages_updated:
   - operation-ukrainian-cyber-criminal-extradited-for-decrypting-the-credentials-of-thousands-of-computers-across-the-world-
 key_findings:
-  - "Confirms extradition pathway: "Ukraine national, arrested Poland, transferred to U.S.\""
+  - "Confirms extradition pathway: Ukraine national, arrested Poland, transferred to U.S."
   - "Discusses broader Eastern European cybercrime extradition context."
 collection_url: https://www.rferl.org/a/us-ukraine-hacking-extradition-/31451275.html
 created: 2026-04-25

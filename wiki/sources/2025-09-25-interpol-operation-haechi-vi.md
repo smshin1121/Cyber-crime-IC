@@ -21,7 +21,7 @@ pages_updated:
 key_findings:
   - "HAECHI VI recovered USD 439 million across 40 countries, continuing Korea-led INTERPOL series"
   - "68,000+ bank accounts blocked, ~400 crypto wallets frozen, USD 16 million crypto recovered"
-  - "Korea-UAE sub-operation: "KRW 6.6 billion (USD 3.91M) BEC recovery via I-GRIP mechanism\""
+  - "Korea-UAE sub-operation: KRW 6.6 billion (USD 3.91M) BEC recovery via I-GRIP mechanism"
 collection_url: https://www.interpol.int/en/News-and-Events/News/2025/USD-439-million-recovered-in-global-financial-crime-operation
 created: 2026-04-08
 text_status: parsed

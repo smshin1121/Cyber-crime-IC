@@ -14,7 +14,7 @@ pages_updated:
   - operation-us-v-ilya-lichtenstein-heather-morgan-and-new-york-city
 key_findings:
   - "Laundering routes included Ukraine and Kazakhstan exchanges plus gold conversion."
-  - "Cooperating agencies: "IRS-CI, HSI, FBI; 7-year investigation.\""
+  - "Cooperating agencies: IRS-CI, HSI, FBI; 7-year investigation."
 collection_url: https://www.trmlabs.com/post/bitfinex-money-launderers-plead-guilty-in-the-razzlekhan-case
 created: 2026-04-25
 raw_path: raw/news/2023-08-02_trmlabs_bitfinex-money-launderers-plead-guilty-razzlekhan.md

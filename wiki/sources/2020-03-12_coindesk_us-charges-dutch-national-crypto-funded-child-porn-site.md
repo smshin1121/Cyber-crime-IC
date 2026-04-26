@@ -13,7 +13,7 @@ sensitivity: public
 pages_updated:
   - operation-us-v-dutch-national
 key_findings:
-  - "Cryptocurrency angle: "303 virtual currency accounts, $1.6M in BTC\""
+  - "Cryptocurrency angle: 303 virtual currency accounts, $1.6M in BTC"
 collection_url: https://www.coindesk.com/markets/2020/03/12/us-charges-dutch-national-with-running-crypto-funded-child-porn-site
 created: 2026-04-25
 raw_path: raw/news/2020-03-12_coindesk_us-charges-dutch-national-running-crypto-funded-child-porn-site.md

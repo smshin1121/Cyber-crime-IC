@@ -14,7 +14,7 @@ pages_updated:
   - operation-two-tulsans-sentenced-for-running-illegal-dark-web-cryptocurrency-pharmacy
   - operation-us-v-aaron-michael-thomas
 key_findings:
-  - "Parallel federal-agency confirmation: "FDA-OCI was lead investigative agency\""
+  - "Parallel federal-agency confirmation: FDA-OCI was lead investigative agency"
   - "Establishes FDA-DOJ cooperation in dark-web pharmacy enforcement"
 collection_url: https://www.fda.gov/inspections-compliance-enforcement-and-criminal-investigations/doj-press-releases-involving-fda-oci/two-tulsa-men-indicted-introducing-misbranded-drugs-interstate-commerce
 created: 2026-04-25

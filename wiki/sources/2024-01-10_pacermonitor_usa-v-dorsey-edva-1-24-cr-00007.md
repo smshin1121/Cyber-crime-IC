@@ -14,7 +14,7 @@ pages_updated:
   - operation-newport-news-man-sentenced-for-prolific-card-swiping-operation
   - operation-us-v-nehemie-almonor
 key_findings:
-  - "EDVA case number 1: "24-cr-00007 (USA v. Dorsey), filed 2024-01-10 in Alexandria.\""
+  - "EDVA case number 1: 24-cr-00007 (USA v. Dorsey), filed 2024-01-10 in Alexandria."
   - "Court record confirms federal prosecution of Damier Dorsey."
 collection_url: https://www.pacermonitor.com/public/case/52276054/USA_v_Dorsey
 created: 2026-04-25

@@ -16,7 +16,7 @@ pages_updated:
   - operation-pulaski-county-man-sentenced-for-cyber-intrusion-and-aggravated-identity-theft
   - operation-us-v-jesse-kipf
 key_findings:
-  - "International element: "Kipf sold dark web access to buyers in Algeria, Russia, Ukraine\""
+  - "International element: Kipf sold dark web access to buyers in Algeria, Russia, Ukraine"
   - "Sentenced 81 months EDKY; hacked Hawaii Death Registry"
 collection_url: https://cyberscoop.com/kentucky-man-cyber-fraud-doj-sentenced/
 created: 2026-04-25

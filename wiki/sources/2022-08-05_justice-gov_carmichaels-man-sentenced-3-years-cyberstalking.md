@@ -13,7 +13,7 @@ sensitivity: public
 pages_updated:
   - operation-greene-county-man-indicted-cyberstalking-and-interstate-threats
 key_findings:
-  - "DOJ sentencing follow-on press release: "37-month federal sentence imposed.\""
+  - "DOJ sentencing follow-on press release: 37-month federal sentence imposed."
   - "Direct fetch returned Akamai 403; URL existence confirmed via search index and trade-mirror reproduction."
 collection_url: https://www.justice.gov/usao-wdpa/pr/carmichaels-man-sentenced-3-years-cyberstalking
 created: 2026-04-25

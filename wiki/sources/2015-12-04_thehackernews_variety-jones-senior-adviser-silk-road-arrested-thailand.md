@@ -13,7 +13,7 @@ sensitivity: public
 pages_updated:
   - operation-senior-advisor-arrested-in-thailand
 key_findings:
-  - "Lists multiple aliases associated with Clark: "Variety Jones,' 'VJ,' 'Cimon,' 'Plural of Mongoose'"
+  - 'Lists multiple aliases associated with Clark: "Variety Jones,'' ''VJ,'' ''Cimon,'' ''Plural of Mongoose'''
   - "Trade-press detail on Clark's role advising Ulbricht on Silk Road operational security"
 collection_url: https://thehackernews.com/2015/12/silk-road-variety-jones.html
 created: 2026-04-25

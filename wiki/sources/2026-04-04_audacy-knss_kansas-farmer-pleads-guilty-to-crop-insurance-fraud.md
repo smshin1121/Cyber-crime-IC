@@ -13,7 +13,7 @@ sensitivity: public
 pages_updated:
   - operation-kansas-farmer-indicted-for-insurance-fraud
 key_findings:
-  - "Mongeau pleaded guilty to one count of false statements re: "crop insurance and one count of bank fraud\""
+  - "Mongeau pleaded guilty to one count of false statements re: crop insurance and one count of bank fraud"
   - "FCIP loss $241,645 (33,000+ bushels corn sold but reported as lost); bank fraud loss $300,000+"
   - "Sentencing scheduled July 1, 2026"
 collection_url: https://www.audacy.com/knss/news/local/kansas-farmer-pleads-guilty

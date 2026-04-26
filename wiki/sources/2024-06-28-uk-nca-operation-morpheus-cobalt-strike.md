@@ -16,7 +16,7 @@ pages_updated:
   - "[[operation-morpheus]]"
 key_findings:
   - "690 malicious Cobalt Strike instances targeted across 129 ISPs in 27 countries; 593 removed."
-  - "Multi-agency operation: "Europol, FBI, AFP, RCMP, German BKA, Dutch Politie, Polish CBZC.\""
+  - "Multi-agency operation: Europol, FBI, AFP, RCMP, German BKA, Dutch Politie, Polish CBZC."
   - "Action week beginning 24 June 2024 (published 3 July 2024)."
 created: 2026-04-14
 text_status: parsed

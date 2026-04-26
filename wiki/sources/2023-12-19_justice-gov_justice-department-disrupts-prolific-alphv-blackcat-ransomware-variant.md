@@ -14,7 +14,7 @@ sensitivity: public
 pages_updated:
   - blackcat-lockeroga-kelvin-security-2023
 key_findings:
-  - "In late November and December 2023, authorities in the United States, Europe, and Spain announced three separate enforcement actions that together marked a concentrated period of cybercrime disruption activity: "\""
+  - 'In late November and December 2023, authorities in the United States, Europe, and Spain announced three separate enforcement actions that together marked a concentrated period of cybercrime disruption activity: ""'
 collection_url: https://www.justice.gov/archives/opa/pr/justice-department-disrupts-prolific-alphvblackcat-ransomware-variant
 created: 2026-04-17
 text_status: parsed

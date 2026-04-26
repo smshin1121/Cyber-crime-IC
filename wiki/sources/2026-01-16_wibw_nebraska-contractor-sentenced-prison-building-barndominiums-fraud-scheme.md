@@ -13,7 +13,7 @@ sensitivity: public
 pages_updated:
   - operation-nebraska-businessman-indicted-for-fraud
 key_findings:
-  - "Sentencing follow-up: "87 months federal prison, $700K+ restitution\""
+  - "Sentencing follow-up: 87 months federal prison, $700K+ restitution"
 collection_url: https://www.wibw.com/2026/01/16/nebraska-contractor-sentenced-prison-building-barndominiums-fraud-scheme/
 created: 2026-04-25
 raw_path: raw/news/2026-01-16_wibw_nebraska-contractor-sentenced-prison-building-barndominiums-fraud-scheme.md

@@ -16,7 +16,7 @@ pages_updated:
   - operation-us-v-alex-ogando-olatunji-dawodu-and-luis-spencer
 key_findings:
   - "FDA-OCI confirmed parallel investigative role"
-  - "Sentencing details: "Dawodu 12 yrs, Spencer 12.5 yrs\""
+  - "Sentencing details: Dawodu 12 yrs, Spencer 12.5 yrs"
 collection_url: https://www.fda.gov/inspections-compliance-enforcement-and-criminal-investigations/doj-press-releases-involving-fda-oci/three-individuals-sentenced-darknet-narcotics-trafficking-conspiracy-involving-distribution-pills
 created: 2026-04-25
 raw_path: raw/press-releases/2023-03-22_fda-gov_three-individuals-sentenced-darknet-narcotics-fentanyl.md

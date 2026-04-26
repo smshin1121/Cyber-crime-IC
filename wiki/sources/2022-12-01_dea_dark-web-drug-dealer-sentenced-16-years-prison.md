@@ -13,7 +13,7 @@ sensitivity: public
 pages_updated:
   - operation-us-v-peck-dark-web
 key_findings:
-  - "Multi-agency investigation: "DEA, FBI, USPS-OIG, U.S. Postal Inspection Service, and Palm Beach County Sheriff's Office.\""
+  - "Multi-agency investigation: DEA, FBI, USPS-OIG, U.S. Postal Inspection Service, and Palm Beach County Sheriff's Office."
 collection_url: https://www.dea.gov/press-releases/2022/12/01/dark-web-drug-dealer-sentenced-16-years-prison
 created: 2026-04-25
 raw_path: raw/press-releases/2022-12-01_dea_dark-web-drug-dealer-sentenced-16-years-prison.md

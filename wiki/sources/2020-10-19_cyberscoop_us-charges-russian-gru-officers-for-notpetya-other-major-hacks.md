@@ -13,7 +13,7 @@ sensitivity: public
 pages_updated:
   - operation-six-russian-gru-officers-charged-in-connection-with-worldwide-deployment-of-destructive-malware-and-other-disr
 key_findings:
-  - "Identifies international cooperation partners: "Ukraine, South Korea, New Zealand, Georgia, UK + private sector (Google/Cisco/Facebook/Twitter).\""
+  - "Identifies international cooperation partners: Ukraine, South Korea, New Zealand, Georgia, UK + private sector (Google/Cisco/Facebook/Twitter)."
   - "Confirms $1B US / $10B worldwide damage estimate."
 collection_url: https://cyberscoop.com/russian-hackers-notpetya-charges-gru/
 created: 2026-04-25

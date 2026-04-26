@@ -13,7 +13,7 @@ sensitivity: public
 pages_updated:
   - operation-us-v-unsealed-against-russian-national
 key_findings:
-  - "International cooperation: "nine countries involved.\""
+  - "International cooperation: nine countries involved."
   - "IRS-CI parallel agency confirmation."
 collection_url: https://www.irs.gov/compliance/criminal-investigation/russian-national-charged-with-ransomware-attacks-against-critical-infrastructure
 created: 2026-04-25

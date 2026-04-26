@@ -14,7 +14,7 @@ pages_updated:
   - operation-us-v-vallerius-dream-market
 key_findings:
   - "Vallerius held dual French-Israeli citizenship and progressed from vendor to Dream Market administrator."
-  - "Forfeiture: "99.98947177 BTC + 121.94805811 BCH (~$700,000).\""
+  - "Forfeiture: 99.98947177 BTC + 121.94805811 BCH (~$700,000)."
 collection_url: https://www.crowdfundinsider.com/2018/10/140358-darknet-drug-market-admin-oxymonster-sentenced-to-20-years-forfeits-700-000-in-crypto/
 created: 2026-04-25
 raw_path: raw/news/2018-10-22_crowdfundinsider_oxymonster-sentenced-20-years-700000-crypto.md

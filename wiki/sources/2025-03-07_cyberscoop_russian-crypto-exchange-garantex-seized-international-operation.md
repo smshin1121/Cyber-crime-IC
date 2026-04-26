@@ -16,7 +16,7 @@ pages_updated:
 key_findings:
   - "Garantex processed ~$96B in cryptocurrency since 2019, hundreds of millions tied to crime."
   - "EDVA indictment unsealed 2025-02-27; defendants Aleksej Besciokov (Lithuanian, residing Russia) and Aleksandr Mira Serda (Russian, UAE)."
-  - "Multi-agency international operation: "U.S. Secret Service, DOJ, German and Finnish authorities.\""
+  - "Multi-agency international operation: U.S. Secret Service, DOJ, German and Finnish authorities."
 collection_url: https://cyberscoop.com/garantex-seized-secret-service-doj-russia-crypto-sanctions/
 created: 2026-04-25
 raw_path: raw/news/2025-03-07_cyberscoop_russian-crypto-exchange-garantex-seized-international-operation.md

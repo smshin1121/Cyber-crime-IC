@@ -14,7 +14,7 @@ pages_updated:
   - operation-twelve-people-charged-in-two-indictments-following-investigation-of-drug-trafficking-ring
 key_findings:
   - "HSI Seattle led federal investigation"
-  - "Multi-agency cooperation: "HSI + FBI + DEA + ATF + USPS\""
+  - "Multi-agency cooperation: HSI + FBI + DEA + ATF + USPS"
 collection_url: https://www.dhs.gov/hsi/news/2024/11/06/hsi-seattle-operation-leads-12-indictments-connection-violent-drug-trafficking
 created: 2026-04-25
 raw_path: raw/government-reports/2024-11-06_dhs-hsi_hsi-seattle-operation-12-indictments-violent-drug-trafficking-organization.md

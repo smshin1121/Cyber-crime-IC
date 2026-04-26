@@ -22,7 +22,7 @@ key_findings:
   - "Infrastructure located in Germany and Lithuania; law enforcement seized the criminal servers and EUR 94,000 (~USD 102,000) in cryptocurrency"
   - "Marketplace catalogue included drugs, compromised data, ransomware, phishing tools, and DDoS-as-a-service — a polycriminal platform rather than a drug-only market"
   - "Seizure banner included an animated retro spaceship graphic that 'destroyed' the Nemesis logo before displaying a QR code linking to the BKA — a visible example of law-enforcement brand messaging via seizure pages"
-  - "URL/operation mismatch: "this source is filed under [[911-s5-botnet-takedown]] but is about the **Nemesis Market takedown** — a completely different operation from the 911 S5 residential-proxy botnet dismantling (FBI-led, May 2024). A new `nemesis-market-takedown` page should be created\""
+  - "URL/operation mismatch: this source is filed under [[911-s5-botnet-takedown]] but is about the **Nemesis Market takedown** — a completely different operation from the 911 S5 residential-proxy botnet dismantling (FBI-led, May 2024). A new `nemesis-market-takedown` page should be created"
 created: 2026-04-08
 updated: 2026-04-10
 raw_path: raw/news/the-record-911-s5-botnet-dismantling.md

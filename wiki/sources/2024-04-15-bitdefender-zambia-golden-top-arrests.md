@@ -16,7 +16,7 @@ pages_updated:
   - "[[zambia-golden-top-call-center]]"
 key_findings:
   - "Raid on Golden Top Support Services in Roma district, Lusaka (Chinese-run operation)."
-  - "Seizures: "vehicles, firearms, 97 desktop PCs, 13,000+ SIM cards, 11 SIM boxes, 6 properties.\""
+  - "Seizures: vehicles, firearms, 97 desktop PCs, 13,000+ SIM cards, 11 SIM boxes, 6 properties."
   - "Drug Enforcement Commission (DEC) led raid with police, immigration, anti-terrorism unit."
 created: 2026-04-14
 text_status: summarized

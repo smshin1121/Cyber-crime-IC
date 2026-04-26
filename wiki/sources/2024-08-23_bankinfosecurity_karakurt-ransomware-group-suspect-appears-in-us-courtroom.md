@@ -14,7 +14,7 @@ pages_updated:
   - operation-us-v-deniss-zolotarjovs
   - operation-member-of-russian-cybercrime-group-charged-in-ohio
 key_findings:
-  - "Four-count indictment: "money laundering conspiracy, wire fraud conspiracy, Hobbs Act conspiracy, extortion\""
+  - "Four-count indictment: money laundering conspiracy, wire fraud conspiracy, Hobbs Act conspiracy, extortion"
   - "Court ordered detention pending trial citing flight risk based on overseas assets and ties"
 collection_url: https://www.bankinfosecurity.com/karakurt-ransomware-group-suspect-appears-in-us-courtroom-a-26127
 created: 2026-04-25

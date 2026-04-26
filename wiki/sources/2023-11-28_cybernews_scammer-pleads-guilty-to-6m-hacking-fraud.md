@@ -14,7 +14,7 @@ pages_updated:
   - operation-united-kingdom-national-pleads-guilty-to-hacking-securities-fraud-and-other-cybercrimes
   - operation-us-v-united-kingdom-national
 key_findings:
-  - "Defendant identified: "Idris Dayo Mustapha, Nigerian/UK national\""
+  - "Defendant identified: Idris Dayo Mustapha, Nigerian/UK national"
   - "UK arrest Aug 2021, extradition to US Aug 2023 — confirmed international cooperation element"
   - "$6M+ stolen from US email/brokerage accounts 2011-2018"
 collection_url: https://cybernews.com/news/hacking-fraud-millions-scammer-pleads-guilty/

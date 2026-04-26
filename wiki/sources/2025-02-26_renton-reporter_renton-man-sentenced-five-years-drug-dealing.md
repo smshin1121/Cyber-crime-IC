@@ -14,7 +14,7 @@ pages_updated:
   - operation-us-v-frank-lozano-graves
 key_findings:
   - "Hometown Renton Reporter coverage"
-  - "Forfeiture: "vehicle, jewelry, $15,000+ cash\""
+  - "Forfeiture: vehicle, jewelry, $15,000+ cash"
 collection_url: https://www.rentonreporter.com/news/renton-man-sentenced-to-five-years-for-drug-dealing/
 created: 2026-04-25
 raw_path: raw/news/2025-02-26_renton-reporter_renton-man-sentenced-five-years-drug-dealing.md

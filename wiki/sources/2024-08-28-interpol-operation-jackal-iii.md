@@ -18,7 +18,7 @@ pages_updated:
 key_findings:
   - "Operation Jackal III across 21 countries resulted in ~300 arrests, nearly tripling Jackal (2023)"
   - "720+ bank accounts blocked, USD 3 million seized targeting Black Axe"
-  - "Argentina dismantled Nigerian-led network: "72 arrests, USD 1.2M in counterfeit notes seized\""
+  - "Argentina dismantled Nigerian-led network: 72 arrests, USD 1.2M in counterfeit notes seized"
 collection_url: https://www.interpol.int/en/News-and-Events/News/2024/INTERPOL-operation-strikes-major-blow-against-West-African-financial-crime
 created: 2026-04-08
 text_status: parsed

@@ -14,7 +14,7 @@ pages_updated:
   - operation-us-v-oleksandr-didenko
 key_findings:
   - "Romanian-language local press confirmation."
-  - "Defendants identified: "Mihai Alexandru Isvanca (25) and Eveline Cismaru (28).\""
+  - "Defendants identified: Mihai Alexandru Isvanca (25) and Eveline Cismaru (28)."
 collection_url: https://www.romania-insider.com/us-romanians-surveillance-cameras-hacking
 created: 2026-04-25
 raw_path: raw/news/2017-12-29_romaniainsider_us-romanians-surveillance-cameras-hacking.md

@@ -14,7 +14,7 @@ pages_updated:
   - operation-us-v-hernandez-dark-web
 key_findings:
   - "Detroit local-press confirmation of Hernandez's 130-month sentence"
-  - "Seizure inventory: "$1M+ cryptocurrency, $340K cash, 600g cocaine, three firearms, industrial pill press\""
+  - "Seizure inventory: $1M+ cryptocurrency, $340K cash, 600g cocaine, three firearms, industrial pill press"
 collection_url: https://www.detroitnews.com/story/news/local/detroit-city/2024/06/27/detroit-man-feds-say-sold-drugs-dark-web-sentenced-to-prison/74231738007/
 created: 2026-04-25
 raw_path: raw/news/2024-06-27_detroitnews_detroit-man-feds-say-sold-drugs-dark-web-sentenced-prison.md

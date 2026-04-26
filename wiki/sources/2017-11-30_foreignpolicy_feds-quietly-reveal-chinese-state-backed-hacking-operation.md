@@ -13,7 +13,7 @@ sensitivity: public
 pages_updated:
   - operation-us-v-three-chinese-hackers-who
 key_findings:
-  - "Analytical framing: "treating the indictment as public reveal of state-backed APT3\""
+  - "Analytical framing: treating the indictment as public reveal of state-backed APT3"
   - "Discusses Obama-Xi 2015 commercial-espionage agreement context"
 collection_url: https://foreignpolicy.com/2017/11/30/feds-quietly-reveal-chinese-state-backed-hacking-operation/
 created: 2026-04-25

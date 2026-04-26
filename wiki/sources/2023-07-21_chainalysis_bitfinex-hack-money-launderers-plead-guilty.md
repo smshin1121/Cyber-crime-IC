@@ -14,7 +14,7 @@ pages_updated:
   - operation-us-v-ilya-lichtenstein-heather-morgan-and-new-york-city
 key_findings:
   - "Approximately 108,068 BTC recovered through investigation."
-  - "Laundering paths: "darknet markets, exchanges, mixers.\""
+  - "Laundering paths: darknet markets, exchanges, mixers."
 collection_url: https://www.chainalysis.com/blog/bitfinex-hack-plea-july-2023/
 created: 2026-04-25
 raw_path: raw/news/2023-07-21_chainalysis_bitfinex-hack-money-launderers-plead-guilty.md

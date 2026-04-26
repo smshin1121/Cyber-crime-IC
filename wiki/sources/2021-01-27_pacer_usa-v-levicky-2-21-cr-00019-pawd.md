@@ -13,8 +13,8 @@ sensitivity: public
 pages_updated:
   - operation-greene-county-man-indicted-cyberstalking-and-interstate-threats
 key_findings:
-  - "Court docket confirms case number 2: "21-cr-00019 in W.D. Pa., assigned to Judge J. Nicholas Ranjan.\""
-  - "Defendant: "Kaleb Levicky.\""
+  - "Court docket confirms case number 2: 21-cr-00019 in W.D. Pa., assigned to Judge J. Nicholas Ranjan."
+  - "Defendant: Kaleb Levicky."
 collection_url: https://www.pacermonitor.com/public/case/38106090/USA_v_LEVICKY
 created: 2026-04-25
 raw_path: raw/case-documents/2021-01-27_pacer_usa-v-levicky-2-21-cr-00019-pawd.md

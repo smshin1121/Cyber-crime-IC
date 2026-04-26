@@ -13,7 +13,7 @@ sensitivity: public
 pages_updated:
   - operation-justice-dept-seizes-over-112m-in-funds-linked-to-cryptocurrency-investment-schemes-with-over-half-seized-in-lo
 key_findings:
-  - "Statistical context: "2022 cryptocurrency fraud losses $2.57B, +183% YoY.\""
+  - "Statistical context: 2022 cryptocurrency fraud losses $2.57B, +183% YoY."
 collection_url: https://www.helpnetsecurity.com/2023/04/04/doj-cracks-down-on-cryptocurrency-fraud/
 created: 2026-04-25
 raw_path: raw/news/2023-04-04_helpnetsecurity_doj-cracks-down-on-cryptocurrency-fraud.md

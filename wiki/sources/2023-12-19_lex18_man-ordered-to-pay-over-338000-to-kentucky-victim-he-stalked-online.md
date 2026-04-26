@@ -14,7 +14,7 @@ pages_updated:
   - operation-philadelphia-man-sentenced-for-cyberstalking-and-wire-fraud
   - operation-us-v-austin-genay
 key_findings:
-  - "Sentence: "22 months federal prison + $338,602 restitution\""
+  - "Sentence: 22 months federal prison + $338,602 restitution"
   - "Local Lexington broadcast confirmation in EDKY courthouse city"
 collection_url: https://www.lex18.com/news/crime/man-ordered-to-pay-over-338-000-to-kentucky-victim-he-stalked-online
 created: 2026-04-25

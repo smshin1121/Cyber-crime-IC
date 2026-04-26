@@ -15,7 +15,7 @@ source_url: https://www.justice.gov/archives/opa/pr/emotet-botnet-disrupted-inte
 pages_updated:
   - "[[emotet-takedown]]"
 key_findings:
-  - "US DOJ estimate: "1.6 million computers infected April 2020 – January 2021.\""
+  - "US DOJ estimate: 1.6 million computers infected April 2020 – January 2021."
   - "Confirms US-side legal assistance and infrastructure seizure on US soil."
 created: 2026-04-14
 text_status: parsed

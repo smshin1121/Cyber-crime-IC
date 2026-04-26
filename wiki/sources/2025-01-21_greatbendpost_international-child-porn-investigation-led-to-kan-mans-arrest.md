@@ -14,7 +14,7 @@ pages_updated:
   - operation-kansas-man-pleads-guilty-to-child-pornography-possession
   - operation-us-v-alexander-james-rosell
 key_findings:
-  - "Highlights international cooperation angle: "discovery via international dark web investigation\""
+  - "Highlights international cooperation angle: discovery via international dark web investigation"
 collection_url: https://greatbendpost.com/posts/0e44c8d0-af43-40fa-a4fa-3dcd012db87a
 created: 2026-04-25
 raw_path: raw/news/2025-01-21_greatbendpost_international-child-porn-investigation-led-to-kan-mans-arrest.md

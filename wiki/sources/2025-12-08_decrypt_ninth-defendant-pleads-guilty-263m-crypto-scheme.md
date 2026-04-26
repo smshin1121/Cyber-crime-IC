@@ -14,7 +14,7 @@ pages_updated:
   - operation-us-v-evan-tangeman
 key_findings:
   - "Tangeman identified as ninth defendant to plead guilty"
-  - "Newly named co-defendants: "Dellecave, Ibrahim, Zulfiqar\""
+  - "Newly named co-defendants: Dellecave, Ibrahim, Zulfiqar"
 collection_url: https://decrypt.co/351576/ninth-defendant-pleads-guilty-263m-crypto-scheme
 created: 2026-04-25
 raw_path: raw/news/2025-12-08_decrypt_ninth-defendant-pleads-guilty-263m-crypto-social-engineering-scheme.md

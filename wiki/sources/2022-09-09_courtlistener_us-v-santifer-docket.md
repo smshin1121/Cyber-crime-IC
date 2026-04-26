@@ -13,7 +13,7 @@ sensitivity: public
 pages_updated:
   - operation-us-v-celeste-santifer
 key_findings:
-  - "Confirms case 1: "22-cr-00279 in U.S. District Court for D.D.C.\""
+  - "Confirms case 1: 22-cr-00279 in U.S. District Court for D.D.C."
 collection_url: https://www.courtlistener.com/docket/64900000/united-states-v-santifer/
 created: 2026-04-25
 raw_path: raw/case-documents/2022-09-09_courtlistener_us-v-santifer-1-22-cr-00279.md

@@ -20,7 +20,7 @@ key_findings:
   - "Andromeda botnet (a.k.a. Gamarue/Wauchos) dismantled on 29 November 2017 through a coordinated international operation announced on 4 December 2017"
   - "Takedown led by the FBI, Luneburg Central Criminal Investigation Office (ZKI Luneburg, Germany), Europol EC3, J-CAT, and Eurojust, with participation from 17 countries"
   - "One suspect arrested in Belarus as part of the operation — the operator of the Andromeda command-and-control infrastructure"
-  - "Scale: "Andromeda had been active since 2011, had more than 80 associated malware families distributed through it, and had been detected on an average of 1 million computers per month for the 6 months preceding the takedown\""
+  - "Scale: Andromeda had been active since 2011, had more than 80 associated malware families distributed through it, and had been detected on an average of 1 million computers per month for the 6 months preceding the takedown"
   - "Microsoft contributed through its Digital Crimes Unit, providing technical analysis and sinkhole infrastructure; ESET, ShadowServer, and Fortinet also participated as private-sector partners"
   - "Operation was conducted simultaneously with anti-Avalanche follow-up actions (Avalanche had been taken down in November 2016) — demonstrating that takedown operations often overlap and share infrastructure"
 created: 2026-04-08

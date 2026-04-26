@@ -14,7 +14,7 @@ pages_updated:
   - operation-us-v-ilya-lichtenstein-heather-morgan-and-new-york-city
 key_findings:
   - "$73M forfeiture by the couple."
-  - "Plea date: "August 3, 2023; max sentences 20yr / 5yr.\""
+  - "Plea date: August 3, 2023; max sentences 20yr / 5yr."
 collection_url: https://fortune.com/2023/08/03/bitcoin-heist-tied-to-bitfinex-hack-case-sees-guilty-plea/
 created: 2026-04-25
 raw_path: raw/news/2023-08-03_fortune_bitcoin-heist-tied-to-bitfinex-hack-case-sees-guilty-plea.md

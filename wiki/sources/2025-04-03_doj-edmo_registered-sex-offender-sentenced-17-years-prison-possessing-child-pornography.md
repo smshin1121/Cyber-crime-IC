@@ -13,7 +13,7 @@ sensitivity: public
 pages_updated:
   - operation-registered-sex-offender-charged-with-new-child-pornography-offense
 key_findings:
-  - "DOJ sentencing follow-up: "Mayberry's 17-year federal sentence\""
+  - "DOJ sentencing follow-up: Mayberry's 17-year federal sentence"
 collection_url: https://www.justice.gov/usao-edmo/pr/registered-sex-offender-sentenced-17-years-prison-possessing-child-pornography
 created: 2026-04-25
 raw_path: raw/press-releases/2025-04-03_doj-edmo_registered-sex-offender-sentenced-17-years-prison-possessing-child-pornography.md

@@ -14,7 +14,7 @@ pages_updated:
   - operation-u-k-citizen-sentenced-to-five-years-for-cybercrime-offenses
 key_findings:
   - "Bloomberg national press confirmation of five-year sentence"
-  - "Highlights victim profiles: "Biden, Obama, Musk Twitter accounts compromised\""
+  - "Highlights victim profiles: Biden, Obama, Musk Twitter accounts compromised"
 collection_url: https://www.bloomberg.com/news/articles/2023-06-23/twitter-hacker-in-bitcoin-scheme-gets-five-years-in-prison
 created: 2026-04-25
 raw_path: raw/news/2023-06-23_bloomberg_twitter-hacker-bitcoin-scheme-five-years-prison.md

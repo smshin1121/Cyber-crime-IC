@@ -13,7 +13,7 @@ sensitivity: public
 pages_updated:
   - operation-us-v-yang-yong
 key_findings:
-  - "Court docket aggregator confirms defendant is Huang and case number is 2: "24-cr-00145 in EDPA.\""
+  - "Court docket aggregator confirms defendant is Huang and case number is 2: 24-cr-00145 in EDPA."
 collection_url: https://app.midpage.ai/document/united-states-v-huang-1000455108132
 created: 2026-04-25
 raw_path: raw/case-documents/2024-2025_united-states-v-huang-2-24-cr-00145-edpa.md

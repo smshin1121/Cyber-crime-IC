@@ -13,7 +13,7 @@ sensitivity: public
 pages_updated:
   - operation-two-indicted-for-drug-trafficking-conspiracy
 key_findings:
-  - "Investigators: "ATF, DEA, KCMO Police, Missouri Western Interdiction and Narcotics Task Force\""
+  - "Investigators: ATF, DEA, KCMO Police, Missouri Western Interdiction and Narcotics Task Force"
   - "Five-defendant superseding indictment"
 collection_url: https://www.yahoo.com/news/articles/five-indicted-kansas-city-drug-222728603.html
 created: 2026-04-25

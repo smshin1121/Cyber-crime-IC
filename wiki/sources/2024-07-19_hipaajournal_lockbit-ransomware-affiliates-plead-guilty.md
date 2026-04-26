@@ -14,7 +14,7 @@ pages_updated:
   - operation-us-v-ruslan-astamirov-and-mikhail-vasiliev
 key_findings:
   - "Healthcare-sector industry trade-press confirmation of guilty pleas"
-  - "Note: "direct fetch blocked (403); details verified via WebSearch and parallel articles\""
+  - "Note: direct fetch blocked (403); details verified via WebSearch and parallel articles"
 collection_url: https://www.hipaajournal.com/lockbit-ransomware-affiliates-plead-guity-24-attacks/
 created: 2026-04-25
 raw_path: raw/news/2024-07-19_hipaajournal_lockbit-ransomware-affiliates-plead-guilty.md

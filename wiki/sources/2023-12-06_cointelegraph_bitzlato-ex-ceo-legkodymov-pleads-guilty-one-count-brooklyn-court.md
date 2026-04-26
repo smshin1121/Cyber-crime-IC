@@ -13,7 +13,7 @@ sensitivity: public
 pages_updated:
   - operation-us-v-cryptocurrency-exchange
 key_findings:
-  - "Defendant identified: "Anatoly Legkodymov, Russian national, resided in Shenzhen China\""
+  - "Defendant identified: Anatoly Legkodymov, Russian national, resided in Shenzhen China"
   - "Bitzlato dissolution + $23M asset release; international (US-EU joint takedown earlier)"
 collection_url: https://cointelegraph.com/news/bitzlato-ex-ceo-legkodymov-pleads-guilty-one-count-brooklyn-court
 created: 2026-04-25

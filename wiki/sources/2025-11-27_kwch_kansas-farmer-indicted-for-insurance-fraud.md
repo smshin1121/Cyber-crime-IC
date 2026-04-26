@@ -14,7 +14,7 @@ pages_updated:
   - operation-kansas-farmer-indicted-for-insurance-fraud
 key_findings:
   - "Confirms federal grand jury indictment of David L. Mongeau, 54, of Holcomb, Kansas on Nov 26, 2025"
-  - "Charges: "2 counts false statements + 17 counts bank fraud/attempted bank fraud; USDA investigation; AUSA Jason Hart prosecuting\""
+  - "Charges: 2 counts false statements + 17 counts bank fraud/attempted bank fraud; USDA investigation; AUSA Jason Hart prosecuting"
 collection_url: https://www.kwch.com/2025/11/27/kansas-farmer-indicted-insurance-fraud/
 created: 2026-04-25
 raw_path: raw/news/2025-11-27_kwch_kansas-farmer-indicted-for-insurance-fraud.md

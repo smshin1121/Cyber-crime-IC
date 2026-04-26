@@ -14,7 +14,7 @@ pages_updated:
   - operation-us-v-hadis-nuhanovic
 key_findings:
   - "Local Seattle TV coverage"
-  - "Tax fraud add-on: "$160,453 evaded across 2018-2019\""
+  - "Tax fraud add-on: $160,453 evaded across 2018-2019"
 collection_url: https://www.kiro7.com/news/local/amazon-seller-sentenced-after-bribery-scheme-obtain-inside-info-amazon-employees/67F7I3BVPRBH5LTAAUDJD2OFA4/
 created: 2026-04-25
 raw_path: raw/news/2023-09-29_kiro7_amazon-seller-sentenced-bribery-scheme-obtain-inside-info-amazon-employees.md

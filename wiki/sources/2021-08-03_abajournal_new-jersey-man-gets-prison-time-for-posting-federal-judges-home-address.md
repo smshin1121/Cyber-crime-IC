@@ -14,7 +14,7 @@ pages_updated:
   - operation-new-jersey-man-sentenced-to-prison-after-pleading-guilty-to-posting-restricted-information-to-social-media
 key_findings:
   - "Authoritative legal-trade press confirms charges dropped (threats / interstate / firearm) in plea deal."
-  - "Identifies sentencing judge: "J. Nicholas Ranjan, W.D. Pa.\""
+  - "Identifies sentencing judge: J. Nicholas Ranjan, W.D. Pa."
 collection_url: https://www.abajournal.com/news/article/new-jersey-man-gets-prison-time-for-posting-federal-judges-home-address-on-facebook-and-twitter
 created: 2026-04-25
 raw_path: raw/news/2021-08-03_abajournal_new-jersey-man-gets-prison-time-for-posting-federal-judges-home-address.md

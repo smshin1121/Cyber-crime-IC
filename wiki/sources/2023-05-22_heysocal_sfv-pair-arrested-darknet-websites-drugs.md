@@ -13,7 +13,7 @@ sensitivity: public
 pages_updated:
   - operation-us-v-ciara-clutario
 key_findings:
-  - "Marketplaces named: "White House Market, ToRReZ, AlphaBay\""
+  - "Marketplaces named: White House Market, ToRReZ, AlphaBay"
 collection_url: https://heysocal.com/2023/05/22/sfv-pair-arrested-for-allegedly-using-darknet-websites-to-sell-drugs/
 created: 2026-04-25
 raw_path: raw/news/2023-05-22_heysocal_sfv-pair-arrested-darknet-websites-drugs.md
