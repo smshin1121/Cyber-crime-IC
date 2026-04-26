@@ -20,6 +20,10 @@ key_findings:
   - "The release tied PM2BTC to Russian illicit finance and cybercrime services."
 created: 2026-04-18
 updated: 2026-04-18
+duplicate_of: "[[2024-09-26_fincen-gov_treasury-takes-coordinated-actions-against-illicit-russian-virtual-currency]]"
+duplicate_reason: same_collection_url
+duplicate_key: "https://www.fincen.gov/news/news-releases/treasury-takes-coordinated-actions-against-illicit-russian-virtual-currency"
+duplicate_normalized_at: 2026-04-26
 ---
 ## Source Summary
 

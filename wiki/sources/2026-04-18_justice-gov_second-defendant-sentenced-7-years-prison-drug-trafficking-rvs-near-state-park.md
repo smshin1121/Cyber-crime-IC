@@ -20,6 +20,10 @@ created: 2026-04-18
 defendant_names:
   - "Chandler Bennett"
 updated: 2026-04-18
+duplicate_of: "[[2025-03-06_justice-gov_second-defendant-sentenced-to-7-years-in-prison-for-drug-trafficking-from-rvs-ne]]"
+duplicate_reason: same_collection_url
+duplicate_key: "https://www.justice.gov/usao-wdwa/pr/second-defendant-sentenced-7-years-prison-drug-trafficking-rvs-near-state-park"
+duplicate_normalized_at: 2026-04-26
 ---
 ## Source Summary
 

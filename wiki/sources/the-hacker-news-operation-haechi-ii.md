@@ -25,6 +25,10 @@ key_findings:
   - "The Indian call center case is particularly notable: criminals operated from New Delhi and Noida, calling Austrian victims with claims that 'identities were stolen and crime pertaining to narcotics drugs were committed in their names', forcing money transfers — an example of transnational impersonation fraud"
 created: 2026-04-08
 updated: 2026-04-10
+duplicate_of: "[[2022-11-01_thehackernews-com_interpol-seized-130-million-from]]"
+duplicate_reason: same_collection_url
+duplicate_key: "https://thehackernews.com/2022/11/interpol-seized-130-million-from.html"
+duplicate_normalized_at: 2026-04-26
 ---
 
 > [!info] Mismatch resolved (2026-04-10)

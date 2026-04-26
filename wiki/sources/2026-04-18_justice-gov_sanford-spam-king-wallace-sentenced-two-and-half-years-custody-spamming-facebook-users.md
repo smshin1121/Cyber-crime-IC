@@ -20,6 +20,10 @@ created: 2026-04-18
 defendant_names:
   - "Sanford Wallace"
 updated: 2026-04-18
+duplicate_of: "[[2016-06-15_justice-gov_sanford-spam-king-wallace-sentenced-to-two-and-a-half-years-in-custody-for-spamm]]"
+duplicate_reason: same_collection_url
+duplicate_key: "https://www.justice.gov/usao-ndca/pr/sanford-spam-king-wallace-sentenced-two-and-half-years-custody-spamming-facebook-users"
+duplicate_normalized_at: 2026-04-26
 ---
 ## Source Summary
 

@@ -20,6 +20,10 @@ key_findings:
   - "The Gendarmerie states that COMCyberGEND was created in 2021 to centralize, coordinate and strengthen the institution's cyber capabilities."
   - "The article reports more than 6,700 digital investigators distributed across the national territory and notes a 22 percent increase in cybercrime-related facts recorded in 2020."
 created: 2026-04-18
+duplicate_of: "[[2021-08-08_gendarmerie-interieur-gouv-fr_comcybergend-la-gendarmerie-monte-en-puissance-face-la-menace-cyber]]"
+duplicate_reason: same_collection_url
+duplicate_key: "https://www.gendarmerie.interieur.gouv.fr/gendinfo/actualites/2021/comcybergend-la-gendarmerie-monte-en-puissance-face-a-la-menace-cyber"
+duplicate_normalized_at: 2026-04-26
 ---
 ## Source Summary
 

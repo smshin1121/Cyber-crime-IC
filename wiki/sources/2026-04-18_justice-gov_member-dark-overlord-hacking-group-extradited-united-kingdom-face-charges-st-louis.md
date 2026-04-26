@@ -20,6 +20,10 @@ created: 2026-04-18
 defendant_names:
   - "Nathan Wyatt"
 updated: 2026-04-18
+duplicate_of: "[[2019-12-18_justice-gov_member-of-the-dark-overlord-hacking-group-extradited-from-united-kingdom-to-face]]"
+duplicate_reason: same_collection_url
+duplicate_key: "https://www.justice.gov/usao-edmo/pr/member-dark-overlord-hacking-group-extradited-united-kingdom-face-charges-st-louis"
+duplicate_normalized_at: 2026-04-26
 ---
 ## Source Summary
 

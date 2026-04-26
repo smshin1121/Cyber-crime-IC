@@ -24,6 +24,10 @@ key_findings:
   - "Dark HunTOR marked a major dark-web drug marketplace enforcement action and is distinct from the 2015 Darkode cybercrime forum takedown (Operation Shrouded Horizon), which focused on malware/botnet trading rather than narcotics"
 created: 2026-04-08
 updated: 2026-04-10
+duplicate_of: "[[2021-10-27_nationalcrimeagency-gov-uk_international-operation-targets-dark-web-drugs-marketplace]]"
+duplicate_reason: same_collection_url
+duplicate_key: "https://www.nationalcrimeagency.gov.uk/news/international-operation-targets-dark-web-drugs-marketplace"
+duplicate_normalized_at: 2026-04-26
 ---
 
 > [!info] Mismatch resolved (2026-04-10)

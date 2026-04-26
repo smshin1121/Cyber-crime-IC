@@ -22,6 +22,10 @@ key_findings:
   - "The profile says Spain designated the General Commissariat of the Judicial Police as the Budapest Convention 24/7 contact point."
   - "The page describes Spain's integrated law-enforcement model with specialized cybercrime units in Guardia Civil and Cuerpo Nacional de Policía."
 created: 2026-04-18
+duplicate_of: "[[2026-04-17_coe-int_spain-octopus-cybercrime-community-country-profile]]"
+duplicate_reason: same_collection_url
+duplicate_key: "https://www.coe.int/en/web/octopus/-/spain"
+duplicate_normalized_at: 2026-04-26
 ---
 ## Source Summary
 

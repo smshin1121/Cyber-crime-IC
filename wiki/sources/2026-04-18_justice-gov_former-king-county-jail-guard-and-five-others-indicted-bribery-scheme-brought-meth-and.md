@@ -21,6 +21,10 @@ defendant_names:
   - "Jail Guard Mosses Ramos"
   - "Michael Anthony Barquet"
 updated: 2026-04-18
+duplicate_of: "[[2023-11-02_justice-gov_former-king-county-jail-guard-and-five-others-indicted-for-bribery-scheme-that-b]]"
+duplicate_reason: same_collection_url
+duplicate_key: "https://www.justice.gov/usao-wdwa/pr/former-king-county-jail-guard-and-five-others-indicted-bribery-scheme-brought-meth-and"
+duplicate_normalized_at: 2026-04-26
 ---
 ## Source Summary
 

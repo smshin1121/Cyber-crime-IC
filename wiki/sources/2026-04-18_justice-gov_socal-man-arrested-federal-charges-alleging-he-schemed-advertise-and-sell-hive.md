@@ -20,6 +20,10 @@ created: 2026-04-18
 defendant_names:
   - "Edmond Chakhmakhchyan"
 updated: 2026-04-18
+duplicate_of: "[[2024-04-11_justice-gov_socal-man-arrested-on-federal-charges-alleging-he-schemed-to-advertise-and-sell]]"
+duplicate_reason: same_collection_url
+duplicate_key: "https://www.justice.gov/usao-cdca/pr/socal-man-arrested-federal-charges-alleging-he-schemed-advertise-and-sell-hive"
+duplicate_normalized_at: 2026-04-26
 ---
 ## Source Summary
 

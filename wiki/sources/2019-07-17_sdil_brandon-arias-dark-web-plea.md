@@ -20,6 +20,10 @@ created: 2026-04-17
 defendant_names:
   - "Brandon Arias"
 updated: 2026-04-18
+duplicate_of: "[[2019-07-17_justice-gov_the-drug-llama-pleads-guilty-to-distributing-fentanyl-on-the-dark-web]]"
+duplicate_reason: same_collection_url
+duplicate_key: "https://www.justice.gov/usao-sdil/pr/drug-llama-pleads-guilty-distributing-fentanyl-dark-web"
+duplicate_normalized_at: 2026-04-26
 ---
 ## Source Summary
 

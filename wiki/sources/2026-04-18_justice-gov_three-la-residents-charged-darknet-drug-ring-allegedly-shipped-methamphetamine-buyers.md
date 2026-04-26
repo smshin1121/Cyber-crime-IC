@@ -18,6 +18,10 @@ key_findings:
 collection_url: https://www.justice.gov/usao-cdca/pr/three-la-residents-charged-darknet-drug-ring-allegedly-shipped-methamphetamine-buyers
 created: 2026-04-18
 updated: 2026-04-18
+duplicate_of: "[[2019-04-02_justice-gov_three-l-a-residents-charged-in-darknet-drug-ring-that-allegedly-shipped-methamph]]"
+duplicate_reason: same_collection_url
+duplicate_key: "https://www.justice.gov/usao-cdca/pr/three-la-residents-charged-darknet-drug-ring-allegedly-shipped-methamphetamine-buyers"
+duplicate_normalized_at: 2026-04-26
 ---
 ## Source Summary
 

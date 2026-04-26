@@ -20,6 +20,10 @@ created: 2026-04-17
 defendant_names:
   - "Anton Peck"
 updated: 2026-04-18
+duplicate_of: "[[2022-12-01_justice-gov_dark-web-drug-dealer-sentenced-to-16-years-in-prison]]"
+duplicate_reason: same_collection_url
+duplicate_key: "https://www.justice.gov/usao-sdfl/pr/dark-web-drug-dealer-sentenced-16-years-prison"
+duplicate_normalized_at: 2026-04-26
 ---
 ## Source Summary
 

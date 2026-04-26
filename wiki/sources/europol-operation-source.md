@@ -31,6 +31,10 @@ key_findings:
   - "Operation Source is an early example of the public-private-partnership (PPP) model for botnet takedowns that would later be refined in Operations Avalanche (2016), Andromeda (2017), and Endgame (2024-2025)"
 created: 2026-04-08
 updated: 2026-04-10
+duplicate_of: "[[2015-04-01_europol-europa-eu_international-police-operation-targets-polymorphic-beebone-botnet]]"
+duplicate_reason: same_collection_url
+duplicate_key: "https://www.europol.europa.eu/media-press/newsroom/news/international-police-operation-targets-polymorphic-beebone-botnet"
+duplicate_normalized_at: 2026-04-26
 ---
 
 ## Source

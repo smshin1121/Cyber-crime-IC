@@ -17,6 +17,10 @@ key_findings:
   - "Confirms 220-year federal prison term."
 collection_url: https://www.justice.gov/usao-mdfl/pr/jumbotron-hacker-and-prolific-child-molester-sentenced-220-years-federal-prison
 created: 2026-04-25
+duplicate_of: "[[2024-03-26_justice-gov_jumbotron-hacker-and-prolific-child-molester-sentenced-to-220-years-in-federal-p]]"
+duplicate_reason: same_collection_url
+duplicate_key: "https://www.justice.gov/usao-mdfl/pr/jumbotron-hacker-and-prolific-child-molester-sentenced-220-years-federal-prison"
+duplicate_normalized_at: 2026-04-26
 ---
 ## Source Summary
 

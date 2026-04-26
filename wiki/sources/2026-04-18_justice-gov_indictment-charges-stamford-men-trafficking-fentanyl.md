@@ -20,6 +20,10 @@ created: 2026-04-18
 updated: 2026-04-18
 defendant_names:
   - "Charges Stamford Men"
+duplicate_of: "[[2025-04-08_justice-gov_indictment-charges-stamford-men-with-trafficking-fentanyl]]"
+duplicate_reason: same_collection_url
+duplicate_key: "https://www.justice.gov/usao-ct/pr/indictment-charges-stamford-men-trafficking-fentanyl"
+duplicate_normalized_at: 2026-04-26
 ---
 ## Source Summary
 

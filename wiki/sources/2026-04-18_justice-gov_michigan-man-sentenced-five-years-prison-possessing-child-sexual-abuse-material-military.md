@@ -20,6 +20,10 @@ created: 2026-04-18
 defendant_names:
   - "David Mark Bartels"
 updated: 2026-04-18
+duplicate_of: "[[2025-06-13_justice-gov_michigan-man-sentenced-to-five-years-in-prison-for-possessing-child-sexual-abuse]]"
+duplicate_reason: same_collection_url
+duplicate_key: "https://www.justice.gov/opa/pr/michigan-man-sentenced-five-years-prison-possessing-child-sexual-abuse-material-military"
+duplicate_normalized_at: 2026-04-26
 ---
 ## Source Summary
 

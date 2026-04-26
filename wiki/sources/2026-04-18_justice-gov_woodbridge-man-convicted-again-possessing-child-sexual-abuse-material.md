@@ -20,6 +20,10 @@ created: 2026-04-18
 defendant_names:
   - "Jorge Antonio Escobar"
 updated: 2026-04-18
+duplicate_of: "[[2024-07-22_justice-gov_woodbridge-man-convicted-again-for-possessing-child-sexual-abuse-material]]"
+duplicate_reason: same_collection_url
+duplicate_key: "https://www.justice.gov/usao-edva/pr/woodbridge-man-convicted-again-possessing-child-sexual-abuse-material"
+duplicate_normalized_at: 2026-04-26
 ---
 ## Source Summary
 

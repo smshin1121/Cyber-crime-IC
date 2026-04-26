@@ -21,6 +21,10 @@ defendant_names:
   - "Percy Levy"
   - "Eugene Smith"
 updated: 2026-04-18
+duplicate_of: "[[2025-04-08_justice-gov_three-snohomish-county-men-indicted-for-drug-trafficking-conspiracy-involving-co]]"
+duplicate_reason: same_collection_url
+duplicate_key: "https://www.justice.gov/usao-wdwa/pr/three-snohomish-county-men-indicted-drug-trafficking-conspiracy-involving-cocaine"
+duplicate_normalized_at: 2026-04-26
 ---
 ## Source Summary
 

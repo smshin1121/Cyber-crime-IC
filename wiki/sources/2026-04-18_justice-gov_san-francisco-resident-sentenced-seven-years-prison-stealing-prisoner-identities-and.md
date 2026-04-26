@@ -20,6 +20,10 @@ created: 2026-04-18
 defendant_names:
   - "Howard Webber"
 updated: 2026-04-18
+duplicate_of: "[[2017-05-24_justice-gov_san-francisco-resident-sentenced-to-seven-years-in-prison-for-stealing-prisoner]]"
+duplicate_reason: same_collection_url
+duplicate_key: "https://www.justice.gov/usao-ndca/pr/san-francisco-resident-sentenced-seven-years-prison-stealing-prisoner-identities-and"
+duplicate_normalized_at: 2026-04-26
 ---
 ## Source Summary
 

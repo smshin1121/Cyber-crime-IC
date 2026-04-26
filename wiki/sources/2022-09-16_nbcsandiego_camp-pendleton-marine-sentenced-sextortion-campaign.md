@@ -16,6 +16,10 @@ key_findings:
   - "Sentencing milestone: 5 years and $15,000 fine imposed September 2022 by Judge Frimpong."
 collection_url: https://www.nbcsandiego.com/news/local/camp-pendleton-marine-sentenced-for-sextortion-campaign/3048858/
 created: 2026-04-25
+duplicate_of: "[[2022-02-09_nbcsandiego_camp-pendleton-marine-sentenced-sextortion-campaign]]"
+duplicate_reason: same_collection_url
+duplicate_key: "https://www.nbcsandiego.com/news/local/camp-pendleton-marine-sentenced-for-sextortion-campaign/3048858/"
+duplicate_normalized_at: 2026-04-26
 ---
 ## Source Summary
 

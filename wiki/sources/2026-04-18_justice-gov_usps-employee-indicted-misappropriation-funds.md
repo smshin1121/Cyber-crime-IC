@@ -18,6 +18,10 @@ key_findings:
 collection_url: https://www.justice.gov/usao-ks/pr/usps-employee-indicted-misappropriation-funds
 created: 2026-04-18
 updated: 2026-04-18
+duplicate_of: "[[2026-02-25_justice-gov_usps-employee-indicted-for-misappropriation-of-funds]]"
+duplicate_reason: same_collection_url
+duplicate_key: "https://www.justice.gov/usao-ks/pr/usps-employee-indicted-misappropriation-funds"
+duplicate_normalized_at: 2026-04-26
 ---
 ## Source Summary
 

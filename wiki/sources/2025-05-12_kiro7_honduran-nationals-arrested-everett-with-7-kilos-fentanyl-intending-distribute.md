@@ -17,6 +17,10 @@ key_findings:
   - "The article identified Seattle Police, DEA, and HSI as the agencies executing the search warrant."
 collection_url: https://www.kiro7.com/news/local/honduran-nationals-arrested-everett-with-7-kilos-fentanyl-intending-distribute/R6LQFVEF3BBD3FLOJM6NRPLBDM/
 created: 2026-04-25
+duplicate_of: "[[2025-05-09_kiro7_honduran-nationals-arrested-everett-7-kilos-fentanyl]]"
+duplicate_reason: same_collection_url
+duplicate_key: "https://www.kiro7.com/news/local/honduran-nationals-arrested-everett-with-7-kilos-fentanyl-intending-distribute/R6LQFVEF3BBD3FLOJM6NRPLBDM/"
+duplicate_normalized_at: 2026-04-26
 ---
 ## Source Summary
 

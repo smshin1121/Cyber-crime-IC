@@ -21,6 +21,10 @@ defendant_names:
   - "David Brian Pate"
   - "Jose Luis Fung Hou"
 updated: 2026-04-18
+duplicate_of: "[[2020-08-04_justice-gov_american-darknet-vendor-and-costa-rican-pharmacist-charged-with-narcotics-and-mo]]"
+duplicate_reason: same_collection_url
+duplicate_key: "https://www.justice.gov/usao-dc/pr/american-darknet-vendor-and-costa-rican-pharmacist-charged-narcotics-and-money-laundering"
+duplicate_normalized_at: 2026-04-26
 ---
 ## Source Summary
 

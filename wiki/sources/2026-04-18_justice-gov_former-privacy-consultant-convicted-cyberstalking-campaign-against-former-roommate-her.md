@@ -20,6 +20,10 @@ created: 2026-04-18
 defendant_names:
   - "Sumit Garg"
 updated: 2026-04-18
+duplicate_of: "[[2024-03-22_justice-gov_former-privacy-consultant-convicted-of-cyberstalking-campaign-against-former-roo]]"
+duplicate_reason: same_collection_url
+duplicate_key: "https://www.justice.gov/usao-wdwa/pr/former-privacy-consultant-convicted-cyberstalking-campaign-against-former-roommate-her"
+duplicate_normalized_at: 2026-04-26
 ---
 ## Source Summary
 

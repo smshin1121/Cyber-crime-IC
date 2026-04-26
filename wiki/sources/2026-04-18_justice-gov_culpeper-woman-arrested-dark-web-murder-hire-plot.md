@@ -20,6 +20,10 @@ created: 2026-04-18
 defendant_names:
   - "Annie Nicole Ritenour"
 updated: 2026-04-18
+duplicate_of: "[[2021-10-27_justice-gov_culpeper-woman-arrested-in-dark-web-murder-for-hire-plot]]"
+duplicate_reason: same_collection_url
+duplicate_key: "https://www.justice.gov/usao-wdva/pr/culpeper-woman-arrested-dark-web-murder-hire-plot"
+duplicate_normalized_at: 2026-04-26
 ---
 ## Source Summary
 

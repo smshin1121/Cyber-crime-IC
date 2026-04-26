@@ -20,6 +20,10 @@ created: 2026-04-18
 updated: 2026-04-18
 defendant_names:
   - "New Jersey Man"
+duplicate_of: "[[2021-08-02_justice-gov_new-jersey-man-sentenced-to-prison-after-pleading-guilty-to-posting-restricted-i]]"
+duplicate_reason: same_collection_url
+duplicate_key: "https://www.justice.gov/usao-wdpa/pr/new-jersey-man-sentenced-prison-after-pleading-guilty-posting-restricted-information"
+duplicate_normalized_at: 2026-04-26
 ---
 ## Source Summary
 

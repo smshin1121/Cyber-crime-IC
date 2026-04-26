@@ -20,6 +20,10 @@ created: 2026-04-18
 defendant_names:
   - "Robert Quido Stella"
 updated: 2026-04-18
+duplicate_of: "[[2023-05-23_justice-gov_santa-clarita-man-found-guilty-of-producing-child-pornography]]"
+duplicate_reason: same_collection_url
+duplicate_key: "https://www.justice.gov/usao-cdca/pr/santa-clarita-man-found-guilty-producing-child-pornography"
+duplicate_normalized_at: 2026-04-26
 ---
 ## Source Summary
 

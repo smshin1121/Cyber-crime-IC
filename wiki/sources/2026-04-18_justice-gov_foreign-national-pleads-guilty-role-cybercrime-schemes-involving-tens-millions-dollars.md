@@ -20,6 +20,10 @@ created: 2026-04-18
 defendant_names:
   - "Vyacheslav Igorevich Penchukov"
 updated: 2026-04-18
+duplicate_of: "[[2024-02-20_justice-gov_foreign-national-pleads-guilty-to-role-in-cybercrime-schemes-involving-tens-of-m]]"
+duplicate_reason: same_collection_url
+duplicate_key: "https://www.justice.gov/usao-ne/pr/foreign-national-pleads-guilty-role-cybercrime-schemes-involving-tens-millions-dollars"
+duplicate_normalized_at: 2026-04-26
 ---
 ## Source Summary
 

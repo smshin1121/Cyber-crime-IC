@@ -17,6 +17,10 @@ key_findings:
   - "This domestic-only U.S. follow-on record has been absorbed into the canonical case page [[us-v-devin-shanahan]]. No visible cross-border mechanism is documented, so it is not treated as a separate international-cooperation operation."
 collection_url: https://www.justice.gov/usao-edca/pr/final-calicartel-defendant-pleads-guilty-dark-web-heroin-methamphetamine-and-cocaine
 created: 2026-04-17
+duplicate_of: "[[2024-05-10_justice-gov_final-calicartel-defendant-pleads-guilty-dark-web-heroin-methamphetamine-cocaine]]"
+duplicate_reason: same_collection_url
+duplicate_key: "https://www.justice.gov/usao-edca/pr/final-calicartel-defendant-pleads-guilty-dark-web-heroin-methamphetamine-and-cocaine"
+duplicate_normalized_at: 2026-04-26
 ---
 ## Source Summary
 

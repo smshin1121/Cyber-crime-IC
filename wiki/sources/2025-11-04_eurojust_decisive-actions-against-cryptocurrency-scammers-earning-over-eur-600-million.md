@@ -24,6 +24,10 @@ key_findings:
   - "French, Belgian, Cypriot, German, and Spanish authorities coordinated arrests and searches."
   - "Nine suspects were arrested and assets were seized in cash, bank accounts, and cryptocurrencies."
 created: 2026-04-19
+duplicate_of: "[[2025-11-04_eurojust-europa-eu_decisive-actions-against-cryptocurrency-scammers-earning-over-eur-600-million]]"
+duplicate_reason: same_collection_url
+duplicate_key: "https://www.eurojust.europa.eu/news/decisive-actions-against-cryptocurrency-scammers-earning-over-eur-600-million"
+duplicate_normalized_at: 2026-04-26
 ---
 ## Source Summary
 

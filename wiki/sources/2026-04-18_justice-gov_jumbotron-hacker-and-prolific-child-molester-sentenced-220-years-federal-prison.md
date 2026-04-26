@@ -20,6 +20,10 @@ created: 2026-04-18
 updated: 2026-04-18
 defendant_names:
   - "And Prolific Child Molester"
+duplicate_of: "[[2024-03-26_justice-gov_jumbotron-hacker-and-prolific-child-molester-sentenced-to-220-years-in-federal-p]]"
+duplicate_reason: same_collection_url
+duplicate_key: "https://www.justice.gov/usao-mdfl/pr/jumbotron-hacker-and-prolific-child-molester-sentenced-220-years-federal-prison"
+duplicate_normalized_at: 2026-04-26
 ---
 ## Source Summary
 

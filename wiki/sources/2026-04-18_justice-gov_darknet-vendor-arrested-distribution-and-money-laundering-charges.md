@@ -21,6 +21,10 @@ defendant_names:
   - "Jamar Edward Gay"
   - "James Edward Sweat"
 updated: 2026-04-18
+duplicate_of: "[[2020-04-09_justice-gov_darknet-vendor-arrested-on-distribution-and-money-laundering-charges]]"
+duplicate_reason: same_collection_url
+duplicate_key: "https://www.justice.gov/usao-edva/pr/darknet-vendor-arrested-distribution-and-money-laundering-charges"
+duplicate_normalized_at: 2026-04-26
 ---
 ## Source Summary
 

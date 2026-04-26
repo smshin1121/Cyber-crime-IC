@@ -20,6 +20,10 @@ created: 2026-04-17
 updated: 2026-04-18
 defendant_names:
   - "New York Man"
+duplicate_of: "[[2025-11-18_edmo_john-cruz-dark-web-sentencing]]"
+duplicate_reason: same_collection_url
+duplicate_key: "https://www.justice.gov/usao-edmo/pr/new-york-man-sentenced-54-months-prison-selling-counterfeit-xanax-dark-web"
+duplicate_normalized_at: 2026-04-26
 ---
 ## Source Summary
 

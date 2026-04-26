@@ -21,6 +21,10 @@ updated: 2026-04-18
 defendant_names:
   - "To Prison For Electronic"
   - "Brooksville Man"
+duplicate_of: "[[2025-03-26_justice-gov_brooksville-man-sentenced-to-prison-for-electronic-prescribing-fraud-scheme]]"
+duplicate_reason: same_collection_url
+duplicate_key: "https://www.justice.gov/usao-mdfl/pr/brooksville-man-sentenced-prison-electronic-prescribing-fraud-scheme"
+duplicate_normalized_at: 2026-04-26
 ---
 ## Source Summary
 

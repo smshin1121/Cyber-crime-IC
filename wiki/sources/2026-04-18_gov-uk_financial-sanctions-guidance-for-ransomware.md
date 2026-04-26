@@ -21,6 +21,10 @@ key_findings:
   - "The guidance says the UK uses financial sanctions against ransomware actors causing the highest harm to the UK."
   - "The document explicitly links OFSI and the NCA in the enforcement response to sanctions breaches involving ransomware payments."
 created: 2026-04-18
+duplicate_of: "[[2026-01-28_gov-uk_financial-sanctions-guidance-for-ransomware]]"
+duplicate_reason: same_collection_url
+duplicate_key: "https://www.gov.uk/government/publications/financial-sanctions-guidance-for-ransomware/financial-sanctions-guidance-for-ransomware"
+duplicate_normalized_at: 2026-04-26
 ---
 ## Source Summary
 

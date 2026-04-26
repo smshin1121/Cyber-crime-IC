@@ -17,6 +17,10 @@ key_findings:
   - "$800,000 in drug proceeds laundered over 3 years"
 collection_url: https://www.fox13seattle.com/news/renton-man-sentenced-family-drug-ring
 created: 2026-04-25
+duplicate_of: "[[2025-01-17_fox13seattle_renton-man-sentenced-family-drug-ring]]"
+duplicate_reason: same_collection_url
+duplicate_key: "https://www.fox13seattle.com/news/renton-man-sentenced-family-drug-ring"
+duplicate_normalized_at: 2026-04-26
 ---
 ## Source Summary
 

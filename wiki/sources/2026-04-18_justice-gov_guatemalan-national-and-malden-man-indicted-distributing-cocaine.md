@@ -20,6 +20,10 @@ created: 2026-04-18
 defendant_names:
   - "Christhian Castillo"
 updated: 2026-04-18
+duplicate_of: "[[2025-05-09_justice-gov_guatemalan-national-and-malden-man-indicted-for-distributing-cocaine]]"
+duplicate_reason: same_collection_url
+duplicate_key: "https://www.justice.gov/usao-ma/pr/guatemalan-national-and-malden-man-indicted-distributing-cocaine"
+duplicate_normalized_at: 2026-04-26
 ---
 ## Source Summary
 

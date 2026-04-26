@@ -22,6 +22,10 @@ content_hash: sha256:b0d10413a648dca86a75b77d65535fd3ac9c8fefe128397eb4333caa6d6
 word_count: 1739
 extraction_date: 2026-04-25
 last_fetcher: doj_fetch
+duplicate_of: "[[2023-03-08_doj-or_jury-convicts-pennsylvania-man-fentanyl-analogue-oregon]]"
+duplicate_reason: same_collection_url
+duplicate_key: "https://www.justice.gov/usao-or/pr/jury-convicts-pennsylvania-man-dealing-fentanyl-analogue-caused-fatal-overdoses-oregon"
+duplicate_normalized_at: 2026-04-26
 ---
 ## Source Summary
 

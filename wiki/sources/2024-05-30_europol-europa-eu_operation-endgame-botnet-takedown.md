@@ -17,6 +17,10 @@ key_findings:
   - "Source referenced by ic-statistics-dashboard."
 collection_url: https://www.europol.europa.eu/media-press/newsroom/news/largest-ever-operation-against-botnets-hits-dropper-malware-ecosystem
 created: 2026-04-17
+duplicate_of: "[[2024-05-30-europol-operation-endgame-botnet-takedown]]"
+duplicate_reason: same_collection_url
+duplicate_key: "https://www.europol.europa.eu/media-press/newsroom/news/largest-ever-operation-against-botnets-hits-dropper-malware-ecosystem"
+duplicate_normalized_at: 2026-04-26
 ---
 ## Source Summary
 

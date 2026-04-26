@@ -18,6 +18,10 @@ key_findings:
   - "The post names DOJ, Europol EC3, and Japan's JC3 as partners."
 collection_url: "https://blogs.microsoft.com/on-the-issues/2025/05/21/microsoft-leads-global-action-against-favored-cybercrime-tool/"
 created: 2026-04-19
+duplicate_of: "[[2025-05-21_blogs-microsoft-com_disrupting-lumma-stealer-microsoft-leads-global-action-against-favored-cybercrim]]"
+duplicate_reason: same_collection_url
+duplicate_key: "https://blogs.microsoft.com/on-the-issues/2025/05/21/microsoft-leads-global-action-against-favored-cybercrime-tool/"
+duplicate_normalized_at: 2026-04-26
 ---
 
 ## Summary

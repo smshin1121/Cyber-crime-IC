@@ -20,6 +20,10 @@ created: 2026-04-18
 defendant_names:
   - "Luis Teixeira Da Silva"
 updated: 2026-04-18
+duplicate_of: "[[2026-02-24_justice-gov_massachusetts-man-pleads-guilty-to-firearm-offenses-and-unlawful-entry-into-the]]"
+duplicate_reason: same_collection_url
+duplicate_key: "https://www.justice.gov/usao-ri/pr/massachusetts-man-pleads-guilty-firearm-offenses-and-unlawful-entry-us"
+duplicate_normalized_at: 2026-04-26
 ---
 ## Source Summary
 

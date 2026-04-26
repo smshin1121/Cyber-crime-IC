@@ -20,6 +20,10 @@ created: 2026-04-18
 defendant_names:
   - "Evgenii Ptitsyn"
 updated: 2026-04-18
+duplicate_of: "[[2024-11-18_justice-gov_phobos-ransomware-administrator-extradited-from-south-korea-to-face-cybercrime-c]]"
+duplicate_reason: same_collection_url
+duplicate_key: "https://www.justice.gov/usao-md/pr/phobos-ransomware-administrator-extradited-south-korea-face-cybercrime-charges"
+duplicate_normalized_at: 2026-04-26
 ---
 ## Source Summary
 

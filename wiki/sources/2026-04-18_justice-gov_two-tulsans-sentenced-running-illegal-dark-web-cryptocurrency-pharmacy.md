@@ -20,6 +20,10 @@ created: 2026-04-18
 defendant_names:
   - "Aaron Michael Thomas"
 updated: 2026-04-18
+duplicate_of: "[[2025-03-10_justice-gov_two-tulsans-sentenced-for-running-illegal-dark-web-cryptocurrency-pharmacy]]"
+duplicate_reason: same_collection_url
+duplicate_key: "https://www.justice.gov/usao-ndok/pr/two-tulsans-sentenced-running-illegal-dark-web-cryptocurrency-pharmacy"
+duplicate_normalized_at: 2026-04-26
 ---
 ## Source Summary
 

@@ -20,6 +20,10 @@ created: 2026-04-18
 defendant_names:
   - "Michael Posey"
 updated: 2026-04-18
+duplicate_of: "[[2024-08-29_justice-gov_washington-state-man-pleads-guilty-to-advertising-child-sexual-abuse-material]]"
+duplicate_reason: same_collection_url
+duplicate_key: "https://www.justice.gov/usao-me/pr/washington-state-man-pleads-guilty-advertising-child-sexual-abuse-material"
+duplicate_normalized_at: 2026-04-26
 ---
 ## Source Summary
 

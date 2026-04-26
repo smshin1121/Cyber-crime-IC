@@ -17,6 +17,10 @@ key_findings:
   - "The **Direct Provider Request** mechanism allows law enforcement to obtain user account information directly from online service providers — most commonly US-headquartered platforms such as Meta, Google, Microsoft, Apple, and X — **without routing the request through a formal MLAT**. It has become the single most-used pathway for cross-border digital evidence in cybercrime investigations, *almost certainly* exceeding MLAT volume by an order of magnitude for subscriber information queries."
 collection_url: https://www.coe.int/en/web/cybercrime/second-additional-protocol
 created: 2026-04-17
+duplicate_of: "[[2022-05-12_coe-int_second-additional-protocol-cets-no-224]]"
+duplicate_reason: same_collection_url
+duplicate_key: "https://www.coe.int/en/web/cybercrime/second-additional-protocol"
+duplicate_normalized_at: 2026-04-26
 ---
 ## Source Summary
 

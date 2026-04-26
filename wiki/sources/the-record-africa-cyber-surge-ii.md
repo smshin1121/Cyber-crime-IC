@@ -33,6 +33,10 @@ key_findings:
   - "Operation framework: INTERPOL African Joint Operation against Cybercrime (AFJOC), the same framework that enabled [[operation-lyrebird]] and [[operation-jackal]]"
 created: 2026-04-08
 updated: 2026-04-10
+duplicate_of: "[[2023-08-18_therecord-media_africa-cyber-surge-14-arrests-interpol]]"
+duplicate_reason: same_collection_url
+duplicate_key: "https://therecord.media/africa-cyber-surge-14-arrests-interpol"
+duplicate_normalized_at: 2026-04-26
 ---
 
 ## Source

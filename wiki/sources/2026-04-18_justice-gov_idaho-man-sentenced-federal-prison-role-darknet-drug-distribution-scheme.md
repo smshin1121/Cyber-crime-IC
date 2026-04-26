@@ -21,6 +21,10 @@ defendant_names:
   - "Kevin Marc Crotteau"
   - "Brandon Paul Bart"
 updated: 2026-04-18
+duplicate_of: "[[2021-03-23_justice-gov_idaho-man-sentenced-to-federal-prison-for-role-in-darknet-drug-distribution-sche]]"
+duplicate_reason: same_collection_url
+duplicate_key: "https://www.justice.gov/usao-or/pr/idaho-man-sentenced-federal-prison-role-darknet-drug-distribution-scheme"
+duplicate_normalized_at: 2026-04-26
 ---
 ## Source Summary
 

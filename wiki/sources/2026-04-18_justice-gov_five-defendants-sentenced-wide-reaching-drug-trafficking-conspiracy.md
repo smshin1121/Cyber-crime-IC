@@ -21,6 +21,10 @@ updated: 2026-04-18
 defendant_names:
   - "In Wide"
   - "Five Defendants"
+duplicate_of: "[[2026-01-08_justice-gov_five-defendants-sentenced-in-wide-reaching-drug-trafficking-conspiracy]]"
+duplicate_reason: same_collection_url
+duplicate_key: "https://www.justice.gov/usao-mdpa/pr/five-defendants-sentenced-wide-reaching-drug-trafficking-conspiracy"
+duplicate_normalized_at: 2026-04-26
 ---
 ## Source Summary
 

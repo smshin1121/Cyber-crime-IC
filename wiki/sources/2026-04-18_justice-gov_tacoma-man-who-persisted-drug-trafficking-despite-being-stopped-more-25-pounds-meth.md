@@ -20,6 +20,10 @@ created: 2026-04-18
 defendant_names:
   - "Rogelio Pena"
 updated: 2026-04-18
+duplicate_of: "[[2026-01-27_justice-gov_tacoma-man-who-persisted-in-drug-trafficking-despite-being-stopped-with-more-tha]]"
+duplicate_reason: same_collection_url
+duplicate_key: "https://www.justice.gov/usao-wdwa/pr/tacoma-man-who-persisted-drug-trafficking-despite-being-stopped-more-25-pounds-meth"
+duplicate_normalized_at: 2026-04-26
 ---
 ## Source Summary
 

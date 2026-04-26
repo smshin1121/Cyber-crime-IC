@@ -20,6 +20,10 @@ created: 2026-04-18
 defendant_names:
   - "De Los Santos"
 updated: 2026-04-18
+duplicate_of: "[[2025-06-11_justice-gov_dominican-national-indicted-for-illegal-re-entry]]"
+duplicate_reason: same_collection_url
+duplicate_key: "https://www.justice.gov/usao-ri/pr/dominican-national-indicted-illegal-re-entry"
+duplicate_normalized_at: 2026-04-26
 ---
 ## Source Summary
 

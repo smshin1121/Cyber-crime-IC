@@ -20,6 +20,10 @@ created: 2026-04-18
 updated: 2026-04-18
 defendant_names:
   - "For Wire Fraud"
+duplicate_of: "[[2025-11-14_justice-gov_pilots-indicted-for-wire-fraud]]"
+duplicate_reason: same_collection_url
+duplicate_key: "https://www.justice.gov/usao-mdfl/pr/pilots-indicted-wire-fraud"
+duplicate_normalized_at: 2026-04-26
 ---
 ## Source Summary
 

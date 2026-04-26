@@ -20,6 +20,10 @@ created: 2026-04-18
 defendant_names:
   - "Jingliang Su"
 updated: 2026-04-18
+duplicate_of: "[[2026-01-27_doj-opa_chinese-national-sentenced-crypto-scam-targeting-americans]]"
+duplicate_reason: same_collection_url
+duplicate_key: "https://www.justice.gov/opa/pr/chinese-national-sentenced-prison-role-crypto-scam-targeting-americans"
+duplicate_normalized_at: 2026-04-26
 ---
 ## Source Summary
 

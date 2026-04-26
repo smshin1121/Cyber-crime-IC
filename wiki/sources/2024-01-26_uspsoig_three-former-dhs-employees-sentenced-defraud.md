@@ -16,6 +16,10 @@ key_findings:
   - "USPS-OIG was a co-victim agency whose proprietary software was targeted"
 collection_url: https://www.uspsoig.gov/investigative-work/investigative-news-releases/three-former-department-homeland-security-employees
 created: 2026-04-25
+duplicate_of: "[[2024-01-26_uspsoig_three-former-department-homeland-security-employees]]"
+duplicate_reason: same_collection_url
+duplicate_key: "https://www.uspsoig.gov/investigative-work/investigative-news-releases/three-former-department-homeland-security-employees"
+duplicate_normalized_at: 2026-04-26
 ---
 ## Source Summary
 

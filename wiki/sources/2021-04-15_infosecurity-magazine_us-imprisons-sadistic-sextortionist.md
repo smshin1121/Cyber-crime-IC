@@ -17,6 +17,10 @@ key_findings:
   - "Sentencing follow-up: 18 months federal prison imposed April 14, 2021 by Judge Dolly Gee."
 collection_url: https://www.infosecurity-magazine.com/news/us-imprisons-sadistic/
 created: 2026-04-25
+duplicate_of: "[[2021-04-15_infosecmag_us-imprisons-sadistic-sextortionist]]"
+duplicate_reason: same_collection_url
+duplicate_key: "https://www.infosecurity-magazine.com/news/us-imprisons-sadistic/"
+duplicate_normalized_at: 2026-04-26
 ---
 ## Source Summary
 

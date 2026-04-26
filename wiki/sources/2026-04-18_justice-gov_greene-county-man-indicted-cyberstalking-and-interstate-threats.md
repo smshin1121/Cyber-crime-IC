@@ -20,6 +20,10 @@ created: 2026-04-18
 defendant_names:
   - "Kaleb Levicky"
 updated: 2026-04-18
+duplicate_of: "[[2021-02-01_justice-gov_greene-county-man-indicted-for-cyberstalking-and-interstate-threats]]"
+duplicate_reason: same_collection_url
+duplicate_key: "https://www.justice.gov/usao-wdpa/pr/greene-county-man-indicted-cyberstalking-and-interstate-threats"
+duplicate_normalized_at: 2026-04-26
 ---
 ## Source Summary
 

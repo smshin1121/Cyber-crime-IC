@@ -20,6 +20,10 @@ created: 2026-04-18
 defendant_names:
   - "Clayton Harker"
 updated: 2026-04-18
+duplicate_of: "[[2024-02-23_justice-gov_bellingham-man-sentenced-to-12-years-in-prison-for-attempted-enticement-of-a-min]]"
+duplicate_reason: same_collection_url
+duplicate_key: "https://www.justice.gov/usao-wdwa/pr/bellingham-man-sentenced-12-years-prison-attempted-enticement-minor-and-possession"
+duplicate_normalized_at: 2026-04-26
 ---
 ## Source Summary
 

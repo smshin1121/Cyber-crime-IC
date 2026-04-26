@@ -20,6 +20,10 @@ created: 2026-04-18
 updated: 2026-04-18
 defendant_names:
   - "Dark Web Marketplace"
+duplicate_of: "[[2026-01-27_justice-gov_co-creator-of-dark-web-marketplace-pleads-guilty-in-chicago-to-drug-conspiracy-c]]"
+duplicate_reason: same_collection_url
+duplicate_key: "https://www.justice.gov/usao-ndil/pr/co-creator-dark-web-marketplace-pleads-guilty-chicago-drug-conspiracy-charge"
+duplicate_normalized_at: 2026-04-26
 ---
 ## Source Summary
 

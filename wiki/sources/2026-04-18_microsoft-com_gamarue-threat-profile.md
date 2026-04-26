@@ -19,6 +19,10 @@ key_findings:
   - "Microsoft's threat profile identifies Gamarue, also known as Andromeda, as a crimeware kit used to monetize malware installs and deliver follow-on payloads at scale."
   - "The profile supports the characterization of Andromeda as a long-running malware ecosystem rather than a single one-off botnet event."
 created: 2026-04-18
+duplicate_of: "[[2026-04-17_microsoft-com_gamarue-threat-profile]]"
+duplicate_reason: same_collection_url
+duplicate_key: "https://www.microsoft.com/en-us/corporate-responsibility/topics/cybersecurity/"
+duplicate_normalized_at: 2026-04-26
 ---
 ## Source Summary
 

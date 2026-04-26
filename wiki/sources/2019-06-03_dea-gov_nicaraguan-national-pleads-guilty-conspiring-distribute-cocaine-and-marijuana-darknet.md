@@ -17,6 +17,10 @@ key_findings:
   - "The release highlighted the NCIDE task force and the roughly $97,891 in bitcoin proceeds tied to the darknet sales."
 collection_url: https://www.dea.gov/press-releases/2019/06/03/nicaraguan-national-pleads-guilty-conspiring-distribute-cocaine-and
 created: 2026-04-25
+duplicate_of: "[[2019-06-03_dea-gov_nicaraguan-national-pleads-guilty-cocaine-marijuana-darknet]]"
+duplicate_reason: same_collection_url
+duplicate_key: "https://www.dea.gov/press-releases/2019/06/03/nicaraguan-national-pleads-guilty-conspiring-distribute-cocaine-and"
+duplicate_normalized_at: 2026-04-26
 ---
 ## Source Summary
 

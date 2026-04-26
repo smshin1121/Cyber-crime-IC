@@ -21,6 +21,10 @@ defendant_names:
   - "Rushan Lavar Reed"
   - "Celeste Nicole Reed"
 updated: 2026-04-18
+duplicate_of: "[[2025-02-13_justice-gov_darknet-drug-trafficking-couple-from-las-vegas-sentenced-in-d-c-to-federal-priso]]"
+duplicate_reason: same_collection_url
+duplicate_key: "https://www.justice.gov/usao-dc/pr/darknet-drug-trafficking-couple-las-vegas-sentenced-dc-federal-prison-terms"
+duplicate_normalized_at: 2026-04-26
 ---
 ## Source Summary
 

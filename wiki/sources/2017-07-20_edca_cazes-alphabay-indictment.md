@@ -24,6 +24,10 @@ defendant_names:
   - "Gilberto Arteaga"
   - "Delanious Ward"
 updated: 2026-04-18
+duplicate_of: "[[2017-06-01_justice-gov_alphabay-the-largest-online-dark-market-shut-down]]"
+duplicate_reason: same_collection_url
+duplicate_key: "https://www.justice.gov/usao-edca/pr/alphabay-largest-online-dark-market-shut-down"
+duplicate_normalized_at: 2026-04-26
 ---
 ## Source Summary
 

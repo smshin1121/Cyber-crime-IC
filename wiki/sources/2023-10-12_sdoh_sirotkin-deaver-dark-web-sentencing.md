@@ -21,6 +21,10 @@ defendant_names:
   - "Khlari Sirotkin"
   - "Sean Deaver"
 updated: 2026-04-18
+duplicate_of: "[[2023-10-12_justice-gov_2-leaders-of-2-8-million-dark-web-drug-trafficking-money-laundering-conspiracy-s]]"
+duplicate_reason: same_collection_url
+duplicate_key: "https://www.justice.gov/usao-sdoh/pr/2-leaders-28-million-dark-web-drug-trafficking-money-laundering-conspiracy-sentenced"
+duplicate_normalized_at: 2026-04-26
 ---
 ## Source Summary
 

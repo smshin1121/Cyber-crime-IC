@@ -18,6 +18,10 @@ key_findings:
 collection_url: https://www.justice.gov/usao-wdwa/pr/king-county-couple-indicted-drug-and-illegal-weapons-possession
 created: 2026-04-18
 updated: 2026-04-18
+duplicate_of: "[[2024-05-30_justice-gov_king-county-couple-indicted-drug-illegal-weapons-possession-2024]]"
+duplicate_reason: same_collection_url
+duplicate_key: "https://www.justice.gov/usao-wdwa/pr/king-county-couple-indicted-drug-and-illegal-weapons-possession"
+duplicate_normalized_at: 2026-04-26
 ---
 ## Source Summary
 

@@ -20,6 +20,10 @@ created: 2026-04-18
 defendant_names:
   - "Jonathan Fleischmann"
 updated: 2026-04-18
+duplicate_of: "[[2025-03-24_justice-gov_violent-level-3-sex-offender-from-harwich-sentenced-to-decade-in-prison-for-chil]]"
+duplicate_reason: same_collection_url
+duplicate_key: "https://www.justice.gov/usao-ma/pr/violent-level-3-sex-offender-harwich-sentenced-decade-prison-child-pornography-offense"
+duplicate_normalized_at: 2026-04-26
 ---
 ## Source Summary
 

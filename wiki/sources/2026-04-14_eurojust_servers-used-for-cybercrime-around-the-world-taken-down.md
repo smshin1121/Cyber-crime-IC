@@ -17,6 +17,10 @@ key_findings:
   - "A website allegedly offering IP proxy services for cybercriminals in 102 countries has been targeted by authorities from eight countries. After identifying numerous victims of the malware used to gain access to IP addresses for the proxy service, authorities from France, Austria, the Netherlands and the United States started working together with coordination by Eurojust and Europol to take action against the service. The same people administering the proxy service are also suspected of hosting a payment platform for the proxy service. *자동 수집됨. 파이프라인(`/ic-pipeline` 또는 `/ic-update`)을 실행하여 분류·평가·통합하세요.*"
 collection_url: https://www.eurojust.europa.eu/news/servers-used-cybercrime-around-world-taken-down
 created: 2026-04-17
+duplicate_of: "[[2026-03-12-eurojust-proxy-service-takedown]]"
+duplicate_reason: same_collection_url
+duplicate_key: "https://www.eurojust.europa.eu/news/servers-used-cybercrime-around-world-taken-down"
+duplicate_normalized_at: 2026-04-26
 ---
 ## Source Summary
 

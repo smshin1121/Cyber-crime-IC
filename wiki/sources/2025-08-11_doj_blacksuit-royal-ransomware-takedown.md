@@ -18,6 +18,10 @@ key_findings:
 collection_url: https://www.justice.gov/opa/pr/justice-department-announces-coordinated-disruption-actions-against-blacksuit-royal
 created: 2026-04-17
 updated: 2026-04-18
+duplicate_of: "[[2025-08-11-doj-blacksuit-royal-ransomware-takedown]]"
+duplicate_reason: same_collection_url
+duplicate_key: "https://www.justice.gov/opa/pr/justice-department-announces-coordinated-disruption-actions-against-blacksuit-royal"
+duplicate_normalized_at: 2026-04-26
 ---
 ## Source Summary
 

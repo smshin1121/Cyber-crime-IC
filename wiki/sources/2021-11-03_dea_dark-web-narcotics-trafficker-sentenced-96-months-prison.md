@@ -23,6 +23,10 @@ created: 2026-04-18
 updated: 2026-04-18
 defendant_names:
   - "Joanna De Alba"
+duplicate_of: "[[2021-11-03_dea-gov_dark-web-narcotics-trafficker-sentenced-to-96-months-in-prison]]"
+duplicate_reason: same_collection_url
+duplicate_key: "https://www.dea.gov/press-releases/2021/11/03/dark-web-narcotics-trafficker-sentenced-96-months-prison"
+duplicate_normalized_at: 2026-04-26
 ---
 ## Source Summary
 

@@ -21,6 +21,10 @@ defendant_names:
   - "Montrio Santos Neville"
   - "Brehon Kanell Davis"
 updated: 2026-04-18
+duplicate_of: "[[2025-06-06_edva_castillo-rosario-vasquez-roman-darknet-sentencing]]"
+duplicate_reason: same_collection_url
+duplicate_key: "https://www.justice.gov/usao-edva/pr/four-men-sentenced-conspiracy-traffic-counterfeit-adderall-darknet-marketplace-sites"
+duplicate_normalized_at: 2026-04-26
 ---
 ## Source Summary
 

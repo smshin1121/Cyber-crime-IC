@@ -16,6 +16,10 @@ key_findings:
   - "KTLA LA broadcast confirmation of indictment."
 collection_url: https://ktla.com/news/local-news/socal-men-helped-sell-124k-fentanyl-pills-on-darknet-doj-says/
 created: 2026-04-25
+duplicate_of: "[[2023-11-07_ktla_socal-men-helped-sell-124k-fentanyl-pills-darknet]]"
+duplicate_reason: same_collection_url
+duplicate_key: "https://ktla.com/news/local-news/socal-men-helped-sell-124k-fentanyl-pills-on-darknet-doj-says/"
+duplicate_normalized_at: 2026-04-26
 ---
 ## Source Summary
 

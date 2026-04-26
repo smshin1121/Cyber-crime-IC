@@ -20,6 +20,10 @@ created: 2026-04-18
 defendant_names:
   - "Marcus Dieter Felder"
 updated: 2026-04-18
+duplicate_of: "[[2020-10-08_justice-gov_san-francisco-man-sentenced-to-100-months-imprisonment-in-credit-card-fraud-and]]"
+duplicate_reason: same_collection_url
+duplicate_key: "https://www.justice.gov/usao-ndca/pr/san-francisco-man-sentenced-100-months-imprisonment-credit-card-fraud-and-identity"
+duplicate_normalized_at: 2026-04-26
 ---
 ## Source Summary
 

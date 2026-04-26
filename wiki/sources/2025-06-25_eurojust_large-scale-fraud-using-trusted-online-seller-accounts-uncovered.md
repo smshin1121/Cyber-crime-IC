@@ -21,6 +21,10 @@ key_findings:
   - "The fraud relied on hacked trusted online seller accounts and caused damages of over EUR 400,000."
   - "Action days led to arrests in Romania and Germany, with additional searches in Austria."
 created: 2026-04-19
+duplicate_of: "[[2025-06-25_eurojust-europa-eu_large-scale-fraud-using-trusted-online-seller-accounts-uncovered]]"
+duplicate_reason: same_collection_url
+duplicate_key: "https://www.eurojust.europa.eu/news/large-scale-fraud-using-trusted-online-seller-accounts-uncovered"
+duplicate_normalized_at: 2026-04-26
 ---
 ## Source Summary
 

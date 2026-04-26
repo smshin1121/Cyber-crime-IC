@@ -21,6 +21,10 @@ key_findings:
   - "The public statement identified alleged offenses including criminal organization membership, disclosure of secrets, computer damage, and money laundering."
 created: 2026-04-18
 updated: 2026-04-18
+duplicate_of: "[[2023-12-11_interior-gob-es_la-polic-a-nacional-detiene-al-l-der-del-aparato-financiero-de-uno-de-los-grupos]]"
+duplicate_reason: same_collection_url
+duplicate_key: "https://www.interior.gob.es/opencms/en/detail-pages/article/La-Policia-Nacional-detiene-al-lider-del-aparato-financiero-de-uno-de-los-grupos-hacktivistas-mas-importantes-del-mundo/"
+duplicate_normalized_at: 2026-04-26
 ---
 ## Source Summary
 

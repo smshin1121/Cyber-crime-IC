@@ -18,6 +18,10 @@ key_findings:
 collection_url: https://www.justice.gov/opa/pr/major-computer-hacking-forum-dismantled
 created: 2026-04-17
 updated: 2026-04-18
+duplicate_of: "[[2015-07-15_justice-gov_dd4cf514-2b05-11e5-a5ea-cf74396e59ec-story]]"
+duplicate_reason: same_collection_url
+duplicate_key: "https://www.justice.gov/opa/pr/major-computer-hacking-forum-dismantled"
+duplicate_normalized_at: 2026-04-26
 ---
 ## Source Summary
 

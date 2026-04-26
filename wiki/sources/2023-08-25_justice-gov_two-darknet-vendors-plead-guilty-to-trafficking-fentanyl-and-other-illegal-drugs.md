@@ -17,6 +17,10 @@ key_findings:
   - "This domestic-only U.S. follow-on record has been absorbed into the canonical case page [[us-v-cheerish-noel-taylor-and-robert-james-fischer]]. No visible cross-border mechanism is documented, so it is not treated as a separate international-cooperation operation."
 collection_url: https://www.justice.gov/usao-edva/pr/two-darknet-vendors-plead-guilty-trafficking-fentanyl-and-other-illegal-drugs
 created: 2026-04-17
+duplicate_of: "[[2023-08-25_edva_taylor-fischer-darknet-vendors-plea]]"
+duplicate_reason: same_collection_url
+duplicate_key: "https://www.justice.gov/usao-edva/pr/two-darknet-vendors-plead-guilty-trafficking-fentanyl-and-other-illegal-drugs"
+duplicate_normalized_at: 2026-04-26
 ---
 ## Source Summary
 

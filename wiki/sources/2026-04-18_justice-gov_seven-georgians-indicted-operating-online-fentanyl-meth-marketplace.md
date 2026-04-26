@@ -24,6 +24,10 @@ defendant_names:
   - "Rashad Cortese Kinloch"
   - "Myron Ned Stodghill"
 updated: 2026-04-18
+duplicate_of: "[[2025-06-23_justice-gov_seven-georgians-indicted-for-operating-online-fentanyl-meth-marketplace]]"
+duplicate_reason: same_collection_url
+duplicate_key: "https://www.justice.gov/usao-mdga/pr/seven-georgians-indicted-operating-online-fentanyl-meth-marketplace"
+duplicate_normalized_at: 2026-04-26
 ---
 ## Source Summary
 

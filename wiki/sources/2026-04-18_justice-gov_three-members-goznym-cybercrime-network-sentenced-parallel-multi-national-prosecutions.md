@@ -20,6 +20,10 @@ created: 2026-04-18
 defendant_names:
   - "Krasimir Nikolov"
 updated: 2026-04-18
+duplicate_of: "[[2019-12-20_justice-gov_three-members-of-goznym-cybercrime-network-sentenced-in-parallel-multi-national]]"
+duplicate_reason: same_collection_url
+duplicate_key: "https://www.justice.gov/usao-wdpa/pr/three-members-goznym-cybercrime-network-sentenced-parallel-multi-national-prosecutions"
+duplicate_normalized_at: 2026-04-26
 ---
 ## Source Summary
 

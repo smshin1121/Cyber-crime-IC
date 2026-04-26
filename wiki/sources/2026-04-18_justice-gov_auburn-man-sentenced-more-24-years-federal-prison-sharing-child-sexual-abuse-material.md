@@ -20,6 +20,10 @@ created: 2026-04-18
 updated: 2026-04-18
 defendant_names:
   - "Auburn Man"
+duplicate_of: "[[2026-01-15_justice-gov_auburn-man-sentenced-to-more-than-24-years-in-federal-prison-for-sharing-child-s]]"
+duplicate_reason: same_collection_url
+duplicate_key: "https://www.justice.gov/usao-mdal/pr/auburn-man-sentenced-more-24-years-federal-prison-sharing-child-sexual-abuse-material"
+duplicate_normalized_at: 2026-04-26
 ---
 ## Source Summary
 

@@ -17,6 +17,10 @@ key_findings:
   - "This domestic-only U.S. follow-on record has been absorbed into the canonical case page [[europol-mastermind-behind-eur-1-billion-cyber-bank-robbery-arrested-in-spain-carbanak-cobalt]]. No visible cross-border mechanism is documented, so it is not treated as a separate international-cooperation operation."
 collection_url: https://www.europol.europa.eu/media-press/newsroom/news/mastermind-behind-eur-1-billion-cyber-bank-robbery-arrested-in-spain
 created: 2026-04-17
+duplicate_of: "[[2018-03-01_europol-europa-eu_mastermind-behind-eur-1-billion-cyber-bank-robbery-arrested-in-spain]]"
+duplicate_reason: same_collection_url
+duplicate_key: "https://www.europol.europa.eu/media-press/newsroom/news/mastermind-behind-eur-1-billion-cyber-bank-robbery-arrested-in-spain"
+duplicate_normalized_at: 2026-04-26
 ---
 ## Source Summary
 

@@ -20,6 +20,10 @@ created: 2026-04-17
 defendant_names:
   - "Dominick Jeffrey Aragon"
 updated: 2026-04-18
+duplicate_of: "[[2026-01-16_justice-gov_oregon-man-sentenced-to-federal-prison-for-attempting-to-sell-cocaine-purchased]]"
+duplicate_reason: same_collection_url
+duplicate_key: "https://www.justice.gov/usao-or/pr/oregon-man-sentenced-federal-prison-attempting-sell-cocaine-purchased-dark-web"
+duplicate_normalized_at: 2026-04-26
 ---
 ## Source Summary
 

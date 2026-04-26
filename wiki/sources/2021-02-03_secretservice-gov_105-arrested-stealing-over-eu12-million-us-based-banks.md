@@ -21,6 +21,10 @@ key_findings:
   - "The release lists 105 arrests, 88 house searches, 87 frozen accounts worth EUR 1.3 million, and 19 European arrest warrants."
 created: 2026-04-18
 updated: 2026-04-18
+duplicate_of: "[[2021-02-03_secretservice-gov_105-arrested-for-stealing-over-eur-12-million-from-u-s-based-banks]]"
+duplicate_reason: same_collection_url
+duplicate_key: "https://www.secretservice.gov/newsroom/releases/2021/02/105-arrested-stealing-over-eu12-million-us-based-banks"
+duplicate_normalized_at: 2026-04-26
 ---
 ## Source Summary
 

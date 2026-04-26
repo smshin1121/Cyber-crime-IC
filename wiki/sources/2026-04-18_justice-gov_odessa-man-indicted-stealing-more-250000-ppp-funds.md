@@ -20,6 +20,10 @@ created: 2026-04-18
 updated: 2026-04-18
 defendant_names:
   - "For Stealing More Than"
+duplicate_of: "[[2025-11-14_justice-gov_odessa-man-indicted-for-stealing-more-than-250-000-in-ppp-funds]]"
+duplicate_reason: same_collection_url
+duplicate_key: "https://www.justice.gov/usao-mdfl/pr/odessa-man-indicted-stealing-more-250000-ppp-funds"
+duplicate_normalized_at: 2026-04-26
 ---
 ## Source Summary
 

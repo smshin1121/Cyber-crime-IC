@@ -17,6 +17,10 @@ key_findings:
   - "The **European Judicial Cybercrime Network (EJCN)** is a semi-formal liaison and information-sharing platform of judicial practitioners — prosecutors and investigating judges — specialising in cybercrime, cyber-enabled crime, and electronic evidence. It was established by Council Conclusions in June 2016 and is **administered by [[eurojust|Eurojust]]** at the agency's headquarters in The Hague."
 collection_url: https://www.eurojust.europa.eu/news/european-judicial-cybercrime-network-strengthens-resolve-fight-digital-threats-19th-plenary
 created: 2026-04-17
+duplicate_of: "[[2025-12-05-eurojust-ejcn-19th-plenary]]"
+duplicate_reason: same_collection_url
+duplicate_key: "https://www.eurojust.europa.eu/news/european-judicial-cybercrime-network-strengthens-resolve-fight-digital-threats-19th-plenary"
+duplicate_normalized_at: 2026-04-26
 ---
 ## Source Summary
 

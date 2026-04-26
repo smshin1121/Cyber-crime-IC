@@ -18,6 +18,10 @@ key_findings:
 collection_url: https://www.justice.gov/usao-wdwa/pr/key-player-silk-road-20-sentenced-eight-years-prison
 created: 2026-04-17
 updated: 2026-04-18
+duplicate_of: "[[2016-06-03_justice-gov_key-player-in-silk-road-2-0-sentenced-to-eight-years-in-prison]]"
+duplicate_reason: same_collection_url
+duplicate_key: "https://www.justice.gov/usao-wdwa/pr/key-player-silk-road-20-sentenced-eight-years-prison"
+duplicate_normalized_at: 2026-04-26
 ---
 ## Source Summary
 

@@ -21,6 +21,10 @@ defendant_names:
   - "Dmitry Aleksandrovich Dokuchaev"
   - "Igor Anatolyevich Sushchin"
 updated: 2026-04-18
+duplicate_of: "[[2017-03-15_justice-gov_u-s-charges-russian-fsb-officers-and-their-criminal-conspirators-for-hacking-yah]]"
+duplicate_reason: same_collection_url
+duplicate_key: "https://www.justice.gov/usao-ndca/pr/us-charges-russian-fsb-officers-and-their-criminal-conspirators-hacking-yahoo-and"
+duplicate_normalized_at: 2026-04-26
 ---
 ## Source Summary
 

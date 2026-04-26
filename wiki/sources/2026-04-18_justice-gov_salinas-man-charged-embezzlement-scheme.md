@@ -20,6 +20,10 @@ created: 2026-04-18
 defendant_names:
   - "In Embezzlement Scheme"
 updated: 2026-04-18
+duplicate_of: "[[2015-09-30_justice-gov_salinas-man-charged-in-embezzlement-scheme]]"
+duplicate_reason: same_collection_url
+duplicate_key: "https://www.justice.gov/usao-ndca/pr/salinas-man-charged-embezzlement-scheme"
+duplicate_normalized_at: 2026-04-26
 ---
 ## Source Summary
 

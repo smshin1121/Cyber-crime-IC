@@ -21,6 +21,10 @@ defendant_names:
   - "Rodney Vaughn"
   - "Brad Akins"
 updated: 2026-04-18
+duplicate_of: "[[2025-07-17_justice-gov_fourteen-indicted-in-fentanyl-and-methamphetamine-conspiracy]]"
+duplicate_reason: same_collection_url
+duplicate_key: "https://www.justice.gov/usao-wdmo/pr/fourteen-indicted-fentanyl-and-methamphetamine-conspiracy"
+duplicate_normalized_at: 2026-04-26
 ---
 ## Source Summary
 

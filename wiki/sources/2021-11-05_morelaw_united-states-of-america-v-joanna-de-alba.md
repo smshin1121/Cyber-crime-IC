@@ -23,6 +23,10 @@ created: 2026-04-18
 updated: 2026-04-18
 defendant_names:
   - "Joanna De Alba"
+duplicate_of: "[[2021-11-05_morelaw-com_united-states-of-america-v-joanna-de-alba]]"
+duplicate_reason: same_collection_url
+duplicate_key: "https://www.morelaw.com/verdicts/case.asp?d=158038&n=1%3A19-cr-00563-DLI&s=NY"
+duplicate_normalized_at: 2026-04-26
 ---
 ## Source Summary
 

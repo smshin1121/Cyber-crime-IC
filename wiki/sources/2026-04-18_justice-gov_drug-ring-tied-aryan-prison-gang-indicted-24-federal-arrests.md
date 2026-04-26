@@ -18,6 +18,10 @@ key_findings:
 collection_url: https://www.justice.gov/usao-wdwa/pr/drug-ring-tied-aryan-prison-gang-indicted-24-federal-arrests
 created: 2026-04-18
 updated: 2026-04-18
+duplicate_of: "[[2023-03-27_justice-gov-wdwa_drug-ring-tied-aryan-prison-gang-indicted-24-federal-arrests]]"
+duplicate_reason: same_collection_url
+duplicate_key: "https://www.justice.gov/usao-wdwa/pr/drug-ring-tied-aryan-prison-gang-indicted-24-federal-arrests"
+duplicate_normalized_at: 2026-04-26
 ---
 ## Source Summary
 

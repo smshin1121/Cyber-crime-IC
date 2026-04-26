@@ -18,6 +18,10 @@ key_findings:
 collection_url: https://www.justice.gov/archives/opa/pr/goznym-cyber-criminal-network-operating-out-europe-targeting-american-entities-dismantled
 created: 2026-04-17
 updated: 2026-04-18
+duplicate_of: "[[2019-05-16_justice-gov_goznym-cyber-criminal-network-operating-out-of-europe-targeting-american-entitie]]"
+duplicate_reason: same_collection_url
+duplicate_key: "https://www.justice.gov/archives/opa/pr/goznym-cyber-criminal-network-operating-out-europe-targeting-american-entities-dismantled"
+duplicate_normalized_at: 2026-04-26
 ---
 ## Source Summary
 

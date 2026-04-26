@@ -20,6 +20,10 @@ key_findings:
   - "Europol's infographic summarizes the Carbanak and Cobalt tradecraft, affected countries, spear-phishing entry vector, internal-network compromise and ATM cash-out methods."
   - "The document is useful as an official visual synthesis of the campaign's operational model."
 created: 2026-04-18
+duplicate_of: "[[2026-04-17_europol-europa-eu_carbanak-cobalt-infographic]]"
+duplicate_reason: same_collection_url
+duplicate_key: "https://www.europol.europa.eu/cms/sites/default/files/documents/carbanakcobalt.pdf"
+duplicate_normalized_at: 2026-04-26
 ---
 ## Source Summary
 

@@ -20,6 +20,10 @@ created: 2026-04-18
 defendant_names:
   - "Matthew Gatrel"
 updated: 2026-04-18
+duplicate_of: "[[2022-06-13_justice-gov_illinois-man-sentenced-to-2-years-in-federal-prison-for-operating-subscription-b]]"
+duplicate_reason: same_collection_url
+duplicate_key: "https://www.justice.gov/usao-cdca/pr/illinois-man-sentenced-2-years-federal-prison-operating-subscription-based-computer"
+duplicate_normalized_at: 2026-04-26
 ---
 ## Source Summary
 

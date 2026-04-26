@@ -16,6 +16,10 @@ key_findings:
   - "Sentence breakdown: Edwards 18 months, Venkata 4 months + supervised release, Patel 2 years probation"
 collection_url: https://www.law360.com/ip/articles/1791230/3-ex-dhs-staffers-get-prison-probation-for-software-theft
 created: 2026-04-25
+duplicate_of: "[[2024-01-29_law360_3-ex-dhs-staffers-get-prison-probation-for-software-theft]]"
+duplicate_reason: same_collection_url
+duplicate_key: "https://www.law360.com/ip/articles/1791230/3-ex-dhs-staffers-get-prison-probation-for-software-theft"
+duplicate_normalized_at: 2026-04-26
 ---
 ## Source Summary
 

@@ -21,6 +21,10 @@ key_findings:
   - "The profile states that the Netherlands' 24/7 Budapest Convention contact point function is carried out through one national and six regional mutual-assistance centres."
   - "The page emphasizes the Netherlands' importance for international cooperation and practical MLA execution."
 created: 2026-04-18
+duplicate_of: "[[2026-04-17_coe-int_netherlands-octopus-cybercrime-community-country-profile]]"
+duplicate_reason: same_collection_url
+duplicate_key: "https://www.coe.int/en/web/octopus/-/netherlands"
+duplicate_normalized_at: 2026-04-26
 ---
 ## Source Summary
 

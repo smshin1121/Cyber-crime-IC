@@ -18,6 +18,10 @@ key_findings:
 collection_url: https://www.justice.gov/usao-md/pr/prince-george-s-county-man-sentenced-seven-years-federal-prison-heroin-distribution
 created: 2026-04-18
 updated: 2026-04-18
+duplicate_of: "[[2021-11-09_justice-gov_prince-george-s-county-man-sentenced-to-seven-years-in-federal-prison-for-a-hero]]"
+duplicate_reason: same_collection_url
+duplicate_key: "https://www.justice.gov/usao-md/pr/prince-george-s-county-man-sentenced-seven-years-federal-prison-heroin-distribution"
+duplicate_normalized_at: 2026-04-26
 ---
 ## Source Summary
 

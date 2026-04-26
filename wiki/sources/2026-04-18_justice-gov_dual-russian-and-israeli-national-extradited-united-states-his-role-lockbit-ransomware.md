@@ -20,6 +20,10 @@ created: 2026-04-18
 defendant_names:
   - "Rostislav Panev"
 updated: 2026-04-18
+duplicate_of: "[[2025-03-13_justice-gov_dual-russian-and-israeli-national-extradited-to-the-united-states-for-his-role-i]]"
+duplicate_reason: same_collection_url
+duplicate_key: "https://www.justice.gov/usao-nj/pr/dual-russian-and-israeli-national-extradited-united-states-his-role-lockbit-ransomware"
+duplicate_normalized_at: 2026-04-26
 ---
 ## Source Summary
 

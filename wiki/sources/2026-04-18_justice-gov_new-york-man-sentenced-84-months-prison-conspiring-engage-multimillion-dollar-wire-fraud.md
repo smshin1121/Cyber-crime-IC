@@ -20,6 +20,10 @@ created: 2026-04-18
 defendant_names:
   - "Terrell Fuller"
 updated: 2026-04-18
+duplicate_of: "[[2025-02-05_justice-gov_new-york-man-sentenced-to-84-months-in-prison-for-conspiring-to-engage-in-multim]]"
+duplicate_reason: same_collection_url
+duplicate_key: "https://www.justice.gov/usao-nj/pr/new-york-man-sentenced-84-months-prison-conspiring-engage-multimillion-dollar-wire-fraud"
+duplicate_normalized_at: 2026-04-26
 ---
 ## Source Summary
 

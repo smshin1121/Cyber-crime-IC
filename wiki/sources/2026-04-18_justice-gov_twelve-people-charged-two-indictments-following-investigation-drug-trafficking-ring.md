@@ -18,6 +18,10 @@ key_findings:
 collection_url: https://www.justice.gov/usao-wdwa/pr/twelve-people-charged-two-indictments-following-investigation-drug-trafficking-ring
 created: 2026-04-18
 updated: 2026-04-18
+duplicate_of: "[[2021-06-30_justice-gov_twelve-people-charged-in-two-indictments-following-investigation-of-drug-traffic]]"
+duplicate_reason: same_collection_url
+duplicate_key: "https://www.justice.gov/usao-wdwa/pr/twelve-people-charged-two-indictments-following-investigation-drug-trafficking-ring"
+duplicate_normalized_at: 2026-04-26
 ---
 ## Source Summary
 

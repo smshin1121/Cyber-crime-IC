@@ -17,6 +17,10 @@ key_findings:
   - "The **National Cybercrime Coordination Centre (NC3)** is the [[canada|Canadian]] federal government's cybercrime coordination hub, operated by the Royal Canadian Mounted Police (RCMP) under Federal Policing. NC3 reached initial operating capability on **April 1, 2020** and was funded through Budget 2018 with CAD 137.5 million over five years plus CAD 23 million ongoing, as part of Canada's National Cyber Security Strategy."
 collection_url: https://www.rcmp-grc.gc.ca/en/nc3
 created: 2026-04-17
+duplicate_of: "[[2026-04-17_rcmp-grc-gc-ca_cybercrime-and-the-criminal-code]]"
+duplicate_reason: same_collection_url
+duplicate_key: "https://www.rcmp-grc.gc.ca/en/nc3"
+duplicate_normalized_at: 2026-04-26
 ---
 ## Source Summary
 

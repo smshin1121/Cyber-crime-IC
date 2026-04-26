@@ -24,6 +24,10 @@ defendant_names:
   - "Gilberto Arteaga"
   - "Delanious Ward"
 updated: 2026-04-18
+duplicate_of: "[[2017-07-24_edca_almashwali-alphabay-sentencing]]"
+duplicate_reason: same_collection_url
+duplicate_key: "https://www.justice.gov/usao-edca/pr/heroin-and-cocaine-vendor-alphabay-sentenced-65-years-prison"
+duplicate_normalized_at: 2026-04-26
 ---
 ## Source Summary
 

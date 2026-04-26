@@ -20,6 +20,10 @@ created: 2026-04-18
 updated: 2026-04-18
 defendant_names:
   - "In Wire Fraud Scheme"
+duplicate_of: "[[2025-06-27_justice-gov_foreign-national-indicted-in-wire-fraud-scheme]]"
+duplicate_reason: same_collection_url
+duplicate_key: "https://www.justice.gov/usao-mdfl/pr/foreign-national-indicted-wire-fraud-scheme"
+duplicate_normalized_at: 2026-04-26
 ---
 ## Source Summary
 

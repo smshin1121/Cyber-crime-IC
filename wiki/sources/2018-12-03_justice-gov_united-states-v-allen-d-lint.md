@@ -20,6 +20,10 @@ created: 2026-04-17
 updated: 2026-04-18
 defendant_names:
   - "Drug Dealer"
+duplicate_of: "[[2018-12-03_justia_united-states-v-allen-lint-case-docket-reference]]"
+duplicate_reason: same_collection_url
+duplicate_key: "https://www.justice.gov/usao-wdwa/pr/darknet-drug-dealer-sentenced-five-years-prison"
+duplicate_normalized_at: 2026-04-26
 ---
 ## Source Summary
 

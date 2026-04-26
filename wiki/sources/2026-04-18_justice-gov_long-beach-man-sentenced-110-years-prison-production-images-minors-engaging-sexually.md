@@ -18,6 +18,10 @@ key_findings:
 collection_url: https://www.justice.gov/usao-sdms/pr/long-beach-man-sentenced-110-years-prison-production-images-minors-engaging-sexually
 created: 2026-04-18
 updated: 2026-04-18
+duplicate_of: "[[2025-08-29_justice-gov_long-beach-man-sentenced-to-110-years-in-prison-for-production-of-images-of-mino]]"
+duplicate_reason: same_collection_url
+duplicate_key: "https://www.justice.gov/usao-sdms/pr/long-beach-man-sentenced-110-years-prison-production-images-minors-engaging-sexually"
+duplicate_normalized_at: 2026-04-26
 ---
 ## Source Summary
 

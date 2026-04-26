@@ -20,6 +20,10 @@ created: 2026-04-18
 defendant_names:
   - "Alexander Aiello"
 updated: 2026-04-18
+duplicate_of: "[[2025-05-09_justice-gov_gloucester-police-officer-charged-with-child-pornography-offense]]"
+duplicate_reason: same_collection_url
+duplicate_key: "https://www.justice.gov/usao-ma/pr/gloucester-police-officer-charged-child-pornography-offense"
+duplicate_normalized_at: 2026-04-26
 ---
 ## Source Summary
 

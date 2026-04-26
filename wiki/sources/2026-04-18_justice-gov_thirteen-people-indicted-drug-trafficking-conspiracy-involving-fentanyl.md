@@ -20,6 +20,10 @@ created: 2026-04-18
 defendant_names:
   - "Hector Duran Aldaco"
 updated: 2026-04-18
+duplicate_of: "[[2024-05-14_justice-gov_thirteen-people-indicted-in-drug-trafficking-conspiracy-involving-fentanyl-metha]]"
+duplicate_reason: same_collection_url
+duplicate_key: "https://www.justice.gov/usao-wdwa/pr/thirteen-people-indicted-drug-trafficking-conspiracy-involving-fentanyl"
+duplicate_normalized_at: 2026-04-26
 ---
 ## Source Summary
 

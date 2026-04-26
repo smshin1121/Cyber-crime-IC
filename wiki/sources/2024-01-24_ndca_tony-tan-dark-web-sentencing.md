@@ -20,6 +20,10 @@ created: 2026-04-17
 defendant_names:
   - "Tony Tan"
 updated: 2026-04-18
+duplicate_of: "[[2024-01-24_justice-gov_dark-web-vendor-sentenced-to-eighteen-months-in-prison-for-distributing-methamph]]"
+duplicate_reason: same_collection_url
+duplicate_key: "https://www.justice.gov/usao-ndca/pr/dark-web-vendor-sentenced-eighteen-months-prison-distributing-methamphetamine-pressed"
+duplicate_normalized_at: 2026-04-26
 ---
 ## Source Summary
 

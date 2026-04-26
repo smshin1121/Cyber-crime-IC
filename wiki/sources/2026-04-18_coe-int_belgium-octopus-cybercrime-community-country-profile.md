@@ -21,6 +21,10 @@ key_findings:
   - "The profile indicates that Belgium has declarations regarding Articles 24, 27, and 35 of the Budapest Convention."
   - "The page is a strong legal and institutional baseline for Belgian cybercrime cooperation work."
 created: 2026-04-18
+duplicate_of: "[[2026-04-17_coe-int_belgium-octopus-cybercrime-community-country-profile]]"
+duplicate_reason: same_collection_url
+duplicate_key: "https://www.coe.int/en/web/octopus/country-wiki/-/asset_publisher/wM2oCWukY7tM/content/belgium"
+duplicate_normalized_at: 2026-04-26
 ---
 ## Source Summary
 

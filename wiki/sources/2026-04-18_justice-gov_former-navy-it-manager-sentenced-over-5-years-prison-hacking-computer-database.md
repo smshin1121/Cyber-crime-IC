@@ -20,6 +20,10 @@ created: 2026-04-18
 defendant_names:
   - "Manager Marquis Hooper"
 updated: 2026-04-18
+duplicate_of: "[[2023-10-16_justice-gov_former-navy-it-manager-sentenced-to-over-5-years-in-prison-for-hacking-a-compute]]"
+duplicate_reason: same_collection_url
+duplicate_key: "https://www.justice.gov/usao-edca/pr/former-navy-it-manager-sentenced-over-5-years-prison-hacking-computer-database"
+duplicate_normalized_at: 2026-04-26
 ---
 ## Source Summary
 

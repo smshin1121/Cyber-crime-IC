@@ -20,6 +20,10 @@ created: 2026-04-18
 defendant_names:
   - "Sherman Jackson"
 updated: 2026-04-18
+duplicate_of: "[[2018-04-17_justice-gov_darknet-international-gun-traffickers-sentenced]]"
+duplicate_reason: same_collection_url
+duplicate_key: "https://www.justice.gov/usao-ndga/pr/darknet-international-gun-traffickers-sentenced"
+duplicate_normalized_at: 2026-04-26
 ---
 ## Source Summary
 

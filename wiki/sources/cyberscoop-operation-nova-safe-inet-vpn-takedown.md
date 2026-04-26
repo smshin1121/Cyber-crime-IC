@@ -25,6 +25,10 @@ key_findings:
   - "Europol quote cited: 'This VPN service was sold at a high price to the criminal underworld as one of the best tools available to avoid law enforcement interception' — positioning the takedown as infrastructure disruption of the cybercrime-as-a-service supply chain"
 created: 2026-04-08
 updated: 2026-04-10
+duplicate_of: "[[2020-12-22_cyberscoop-com_safe-inet-takedown-fbi-interpol]]"
+duplicate_reason: same_collection_url
+duplicate_key: "https://cyberscoop.com/safe-inet-takedown-fbi-interpol/"
+duplicate_normalized_at: 2026-04-26
 ---
 
 ## Source

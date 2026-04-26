@@ -20,6 +20,10 @@ created: 2026-04-18
 updated: 2026-04-18
 defendant_names:
   - "Palm Beach County Man"
+duplicate_of: "[[2025-05-08_justice-gov_palm-beach-county-man-sentenced-for-cyberstalking-two-victims]]"
+duplicate_reason: same_collection_url
+duplicate_key: "https://www.justice.gov/usao-sdfl/pr/palm-beach-county-man-sentenced-cyberstalking-two-victims"
+duplicate_normalized_at: 2026-04-26
 ---
 ## Source Summary
 

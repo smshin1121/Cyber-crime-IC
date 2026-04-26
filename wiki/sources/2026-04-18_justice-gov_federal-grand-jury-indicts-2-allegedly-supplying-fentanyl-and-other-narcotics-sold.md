@@ -21,6 +21,10 @@ defendant_names:
   - "Omar Navia"
   - "Adan Ruiz"
 updated: 2026-04-18
+duplicate_of: "[[2023-11-07_justice-gov_federal-grand-jury-indicts-2-for-allegedly-supplying-fentanyl-and-other-narcotic]]"
+duplicate_reason: same_collection_url
+duplicate_key: "https://www.justice.gov/usao-cdca/pr/federal-grand-jury-indicts-2-allegedly-supplying-fentanyl-and-other-narcotics-sold"
+duplicate_normalized_at: 2026-04-26
 ---
 ## Source Summary
 

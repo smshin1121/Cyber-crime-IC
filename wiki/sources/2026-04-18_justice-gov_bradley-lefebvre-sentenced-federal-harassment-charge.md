@@ -20,6 +20,10 @@ created: 2026-04-18
 defendant_names:
   - "Bradley Lefebvre"
 updated: 2026-04-18
+duplicate_of: "[[2022-04-08_justice-gov_bradley-lefebvre-sentenced-on-federal-harassment-charge]]"
+duplicate_reason: same_collection_url
+duplicate_key: "https://www.justice.gov/usao-vt/pr/bradley-lefebvre-sentenced-federal-harassment-charge"
+duplicate_normalized_at: 2026-04-26
 ---
 ## Source Summary
 

@@ -17,6 +17,10 @@ key_findings:
   - "Multi-agency wiretap investigation totals: 81 kg meth, 49 kg fentanyl pills"
 collection_url: https://www.dea.gov/press-releases/2026/01/27/tacoma-man-who-persisted-drug-trafficking-despite-being-stopped-more-25
 created: 2026-04-25
+duplicate_of: "[[2026-01-27_dea-gov_tacoma-man-persisted-drug-trafficking-25-pounds-meth-66-months]]"
+duplicate_reason: same_collection_url
+duplicate_key: "https://www.dea.gov/press-releases/2026/01/27/tacoma-man-who-persisted-drug-trafficking-despite-being-stopped-more-25"
+duplicate_normalized_at: 2026-04-26
 ---
 ## Source Summary
 

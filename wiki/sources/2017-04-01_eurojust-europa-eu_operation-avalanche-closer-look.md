@@ -21,6 +21,10 @@ key_findings:
   - "The publication states that the network infected millions of private and business computer systems and enabled credential theft, bank transfers, and money-mule recruitment."
   - "Eurojust's case study is useful for the judicial-cooperation dimension because it focuses on the legal and coordination problems of a multinational takedown rather than only the press-release headline numbers."
 created: 2026-04-18
+duplicate_of: "[[2017-04-01_eurojust-europa-eu_operation-avalanche-a-closer-look]]"
+duplicate_reason: same_collection_url
+duplicate_key: "https://www.eurojust.europa.eu/publication/operation-avalanche-closer-look"
+duplicate_normalized_at: 2026-04-26
 ---
 ## Source Summary
 

@@ -22,6 +22,10 @@ defendant_names:
   - "Matthew Taylor Barlow"
   - "Jennifer Helen Cambpell"
 updated: 2026-04-18
+duplicate_of: "[[2021-11-23_justice-gov_3-defendants-plead-guilty-in-dark-web-drug-sales-case]]"
+duplicate_reason: same_collection_url
+duplicate_key: "https://www.justice.gov/usao-sdoh/pr/3-defendants-plead-guilty-dark-web-drug-sales-case"
+duplicate_normalized_at: 2026-04-26
 ---
 ## Source Summary
 

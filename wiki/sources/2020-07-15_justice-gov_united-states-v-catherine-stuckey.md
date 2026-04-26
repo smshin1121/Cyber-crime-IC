@@ -20,6 +20,10 @@ created: 2026-04-17
 defendant_names:
   - "Catherine Stuckey"
 updated: 2026-04-18
+duplicate_of: "[[2020-07-15_edca_catherine-stuckey-darknet-plea]]"
+duplicate_reason: same_collection_url
+duplicate_key: "https://www.justice.gov/usao-edca/pr/los-angeles-county-woman-pleads-guilty-conspiring-distribute-heroin-methamphetamine-and"
+duplicate_normalized_at: 2026-04-26
 ---
 ## Source Summary
 

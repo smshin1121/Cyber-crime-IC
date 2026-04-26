@@ -17,6 +17,10 @@ key_findings:
   - "Source referenced by ic-statistics-dashboard."
 collection_url: https://www.europol.europa.eu/media-press/newsroom/news/franco-israeli-gang-behind-eur-38-million-ceo-fraud-busted
 created: 2026-04-17
+duplicate_of: "[[2023-02-08-europol-franco-israeli-ceo-fraud]]"
+duplicate_reason: same_collection_url
+duplicate_key: "https://www.europol.europa.eu/media-press/newsroom/news/franco-israeli-gang-behind-eur-38-million-ceo-fraud-busted"
+duplicate_normalized_at: 2026-04-26
 ---
 ## Source Summary
 

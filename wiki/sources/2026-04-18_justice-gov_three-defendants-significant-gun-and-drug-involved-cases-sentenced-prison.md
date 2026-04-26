@@ -20,6 +20,10 @@ created: 2026-04-18
 defendant_names:
   - "Anthony Raymond Dodd"
 updated: 2026-04-18
+duplicate_of: "[[2025-12-09_justice-gov_three-defendants-gun-drug-cases-sentenced-prison-tolbert-sentencing]]"
+duplicate_reason: same_collection_url
+duplicate_key: "https://www.justice.gov/usao-wdwa/pr/three-defendants-significant-gun-and-drug-involved-cases-sentenced-prison"
+duplicate_normalized_at: 2026-04-26
 ---
 ## Source Summary
 

@@ -20,6 +20,10 @@ created: 2026-04-18
 defendant_names:
   - "Christopher Aaron Stanfield"
 updated: 2026-04-18
+duplicate_of: "[[2025-02-25_justice-gov_natchitoches-man-sentenced-for-possession-of-child-pornography]]"
+duplicate_reason: same_collection_url
+duplicate_key: "https://www.justice.gov/usao-wdla/pr/natchitoches-man-sentenced-possession-child-pornography"
+duplicate_normalized_at: 2026-04-26
 ---
 ## Source Summary
 

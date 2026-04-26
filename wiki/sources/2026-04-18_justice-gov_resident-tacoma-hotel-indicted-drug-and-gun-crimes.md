@@ -18,6 +18,10 @@ key_findings:
 collection_url: https://www.justice.gov/usao-wdwa/pr/resident-tacoma-hotel-indicted-drug-and-gun-crimes
 created: 2026-04-18
 updated: 2026-04-18
+duplicate_of: "[[2023-08-02_justice-gov_resident-of-tacoma-hotel-indicted-for-drug-and-gun-crimes]]"
+duplicate_reason: same_collection_url
+duplicate_key: "https://www.justice.gov/usao-wdwa/pr/resident-tacoma-hotel-indicted-drug-and-gun-crimes"
+duplicate_normalized_at: 2026-04-26
 ---
 ## Source Summary
 

@@ -17,6 +17,10 @@ key_findings:
   - "URL existence verified via search engine indexing."
 collection_url: https://www.observer-reporter.com/news/2022/jul/16/washington-man-facing-federal-cyberstalking-charges/
 created: 2026-04-25
+duplicate_of: "[[2022-07-15_observer-reporter_washington-man-facing-federal-cyberstalking-charges]]"
+duplicate_reason: same_collection_url
+duplicate_key: "https://www.observer-reporter.com/news/2022/jul/16/washington-man-facing-federal-cyberstalking-charges/"
+duplicate_normalized_at: 2026-04-26
 ---
 ## Source Summary
 

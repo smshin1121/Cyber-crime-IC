@@ -21,6 +21,10 @@ defendant_names:
   - "To Over Three Years"
   - "San Francisco Resident"
 updated: 2026-04-18
+duplicate_of: "[[2017-03-30_justice-gov_san-francisco-resident-sentenced-to-over-three-years-in-prison-for-aggravated-id]]"
+duplicate_reason: same_collection_url
+duplicate_key: "https://www.justice.gov/usao-ndca/pr/san-francisco-resident-sentenced-over-three-years-prison-aggravated-identity-theft"
+duplicate_normalized_at: 2026-04-26
 ---
 ## Source Summary
 

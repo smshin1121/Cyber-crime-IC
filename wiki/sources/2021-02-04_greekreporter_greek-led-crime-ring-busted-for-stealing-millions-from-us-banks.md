@@ -21,6 +21,10 @@ key_findings:
   - "The article corroborates arrest geography and the EUR 12 million loss figure while adding public reporting on the Greek leadership angle."
 created: 2026-04-18
 updated: 2026-04-18
+duplicate_of: "[[2021-02-04_greekreporter-com_greek-led-crime-ring-busted-for-stealing-millions-from-us-banks]]"
+duplicate_reason: same_collection_url
+duplicate_key: "https://greekreporter.com/2021/02/04/greek-led-crime-ring-busted-for-stealing-millions-from-us-banks/"
+duplicate_normalized_at: 2026-04-26
 ---
 ## Source Summary
 

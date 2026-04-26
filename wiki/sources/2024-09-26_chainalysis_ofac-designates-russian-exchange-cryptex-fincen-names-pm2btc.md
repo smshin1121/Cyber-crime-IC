@@ -20,6 +20,10 @@ key_findings:
   - "The analysis helps explain why PM2BTC mattered as only the second use of the specific FinCEN authority against a crypto-affiliated entity."
 created: 2026-04-18
 updated: 2026-04-18
+duplicate_of: "[[2024-09-26_chainalysis-com_ofac-designates-russian-exchange-cryptex-and-fincen-names-pm2btc]]"
+duplicate_reason: same_collection_url
+duplicate_key: "https://www.chainalysis.com/blog/ofac-sanctions-russian-exchange-cryptex-uaps-fraud-shop-2024/"
+duplicate_normalized_at: 2026-04-26
 ---
 ## Source Summary
 

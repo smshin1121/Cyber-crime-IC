@@ -21,6 +21,10 @@ defendant_names:
   - "To Five Years In"
   - "Silk Road Drug Marketplace"
 updated: 2026-04-18
+duplicate_of: "[[2015-04-27_justice-gov_delaware-doctor-who-illegally-sold-controlled-substances-on-the-silk-road-drug-m]]"
+duplicate_reason: same_collection_url
+duplicate_key: "https://www.justice.gov/usao-mdfl/pr/delaware-doctor-who-illegally-sold-controlled-substances-silk-road-drug-marketplace"
+duplicate_normalized_at: 2026-04-26
 ---
 ## Source Summary
 

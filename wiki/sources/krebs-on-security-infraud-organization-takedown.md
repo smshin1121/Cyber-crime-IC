@@ -25,6 +25,10 @@ key_findings:
   - "Source reliability uplift: Krebs on Security's track record on cybercrime attribution (particularly Russian-speaking carding) warrants *high* reliability, above the default `medium` for news"
 created: 2026-04-08
 updated: 2026-04-10
+duplicate_of: "[[2018-02-01_krebsonsecurity-com_u-s-arrests-13-charges-36-in-infraud-cybercrime-forum-bust]]"
+duplicate_reason: same_collection_url
+duplicate_key: "https://krebsonsecurity.com/2018/02/u-s-arrests-13-charges-36-in-infraud-cybercrime-forum-bust/"
+duplicate_normalized_at: 2026-04-26
 ---
 
 ## Source

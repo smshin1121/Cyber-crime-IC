@@ -17,6 +17,10 @@ key_findings:
   - "Highlights Tijuana arrest cross-border element"
 collection_url: https://www.fox13seattle.com/news/feds-seattle-heroin-traffickers-indicted-one-arrested-near-tijuana
 created: 2026-04-25
+duplicate_of: "[[2016-08-11_fox13seattle_feds-seattle-heroin-traffickers-indicted-one-arrested-near-tijuana]]"
+duplicate_reason: same_collection_url
+duplicate_key: "https://www.fox13seattle.com/news/feds-seattle-heroin-traffickers-indicted-one-arrested-near-tijuana"
+duplicate_normalized_at: 2026-04-26
 ---
 ## Source Summary
 

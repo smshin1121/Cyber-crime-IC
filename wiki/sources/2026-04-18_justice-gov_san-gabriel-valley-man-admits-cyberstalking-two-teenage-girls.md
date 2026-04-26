@@ -20,6 +20,10 @@ created: 2026-04-18
 defendant_names:
   - "Carl De Vera Bennington"
 updated: 2026-04-18
+duplicate_of: "[[2020-12-18_justice-gov_san-gabriel-valley-man-admits-to-cyberstalking-two-teenage-girls]]"
+duplicate_reason: same_collection_url
+duplicate_key: "https://www.justice.gov/usao-cdca/pr/san-gabriel-valley-man-admits-cyberstalking-two-teenage-girls"
+duplicate_normalized_at: 2026-04-26
 ---
 ## Source Summary
 

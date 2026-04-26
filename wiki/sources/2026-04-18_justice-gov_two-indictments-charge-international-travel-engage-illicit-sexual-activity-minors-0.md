@@ -20,6 +20,10 @@ created: 2026-04-18
 updated: 2026-04-18
 defendant_names:
   - "International Travel"
+duplicate_of: "[[2023-07-12_justice-gov_danish-national-arrested-fresno-airport-illicit-sexual-activity-minors]]"
+duplicate_reason: same_collection_url
+duplicate_key: "https://www.justice.gov/usao-edca/pr/two-indictments-charge-international-travel-engage-illicit-sexual-activity-minors-0"
+duplicate_normalized_at: 2026-04-26
 ---
 ## Source Summary
 

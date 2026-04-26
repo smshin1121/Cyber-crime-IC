@@ -20,6 +20,10 @@ created: 2026-04-18
 defendant_names:
   - "John Cruz"
 updated: 2026-04-18
+duplicate_of: "[[2024-07-01_doj-edmo_new-york-man-admits-continuing-sell-counterfeit-xanax-dark-web]]"
+duplicate_reason: same_collection_url
+duplicate_key: "https://www.justice.gov/usao-edmo/pr/new-york-man-admits-continuing-sell-counterfeit-xanax-dark-web"
+duplicate_normalized_at: 2026-04-26
 ---
 ## Source Summary
 

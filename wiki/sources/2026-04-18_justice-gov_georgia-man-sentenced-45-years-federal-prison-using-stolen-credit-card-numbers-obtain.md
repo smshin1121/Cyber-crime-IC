@@ -20,6 +20,10 @@ created: 2026-04-18
 defendant_names:
   - "Yapo Jean Franck Ngbichi"
 updated: 2026-04-18
+duplicate_of: "[[2024-03-06_justice-gov_georgia-man-sentenced-to-4-5-years-in-federal-prison-for-using-stolen-credit-car]]"
+duplicate_reason: same_collection_url
+duplicate_key: "https://www.justice.gov/usao-sdin/pr/georgia-man-sentenced-45-years-federal-prison-using-stolen-credit-card-numbers-obtain"
+duplicate_normalized_at: 2026-04-26
 ---
 ## Source Summary
 

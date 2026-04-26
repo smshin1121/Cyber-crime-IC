@@ -25,6 +25,10 @@ key_findings:
   - "URL/operation mismatch: this source is filed under [[operation-avalanche]] but is about **Operation Chakra-III** (India CBI, Sep 2024) — an entirely distinct operation. The wiki should create an `operation-chakra-iii` page and re-file this source there"
 created: 2026-04-08
 updated: 2026-04-10
+duplicate_of: "[[2024-09-01_thecyberexpress-com_cbi-takes-down-transnational-cybercrime-network-in-india]]"
+duplicate_reason: same_collection_url
+duplicate_key: "https://thecyberexpress.com/cbi-seizes-transnational-cybercrime-network/"
+duplicate_normalized_at: 2026-04-26
 ---
 
 ## Source

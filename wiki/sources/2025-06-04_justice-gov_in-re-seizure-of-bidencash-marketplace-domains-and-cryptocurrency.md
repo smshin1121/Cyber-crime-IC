@@ -20,6 +20,10 @@ created: 2026-04-17
 defendant_names:
   - "Conor Brian Fitzpatrick"
 updated: 2026-04-18
+duplicate_of: "[[2025-06-04_edva_bidencash-marketplace-seizure]]"
+duplicate_reason: same_collection_url
+duplicate_key: "https://www.justice.gov/usao-edva/pr/us-government-seizes-approximately-145-criminal-marketplace-domains"
+duplicate_normalized_at: 2026-04-26
 ---
 ## Source Summary
 

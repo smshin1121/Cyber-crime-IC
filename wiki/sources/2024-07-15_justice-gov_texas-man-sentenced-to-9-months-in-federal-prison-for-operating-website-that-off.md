@@ -17,6 +17,10 @@ key_findings:
   - "This domestic-only U.S. follow-on record has been absorbed into the canonical case page [[texas-man-sentenced-to-9-months-in-federal-prison-for-operating-website-that-offered-computer-attack-services]]. No visible cross-border mechanism is documented, so it is not treated as a separate international-cooperation operation."
 collection_url: https://www.justice.gov/usao-cdca/pr/texas-man-sentenced-9-months-federal-prison-operating-website-offered-computer-attack
 created: 2026-04-17
+duplicate_of: "[[2024-07-15_cdca_miller-poweroff-sentencing]]"
+duplicate_reason: same_collection_url
+duplicate_key: "https://www.justice.gov/usao-cdca/pr/texas-man-sentenced-9-months-federal-prison-operating-website-offered-computer-attack"
+duplicate_normalized_at: 2026-04-26
 ---
 ## Source Summary
 

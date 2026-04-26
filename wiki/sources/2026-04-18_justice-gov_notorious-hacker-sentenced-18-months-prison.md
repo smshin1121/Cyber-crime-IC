@@ -20,6 +20,10 @@ created: 2026-04-18
 updated: 2026-04-18
 defendant_names:
   - "Notorious Hacker"
+duplicate_of: "[[2023-11-15_justice-gov_notorious-hacker-sentenced-to-18-months-in-prison]]"
+duplicate_reason: same_collection_url
+duplicate_key: "https://www.justice.gov/usao-dc/pr/notorious-hacker-sentenced-18-months-prison"
+duplicate_normalized_at: 2026-04-26
 ---
 ## Source Summary
 

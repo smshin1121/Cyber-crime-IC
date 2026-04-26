@@ -21,6 +21,10 @@ updated: 2026-04-18
 defendant_names:
   - "With Production Of Child"
   - "Mountain View Resident"
+duplicate_of: "[[2017-05-26_justice-gov_mountain-view-resident-charged-with-production-of-child-pornography-and-cybersta]]"
+duplicate_reason: same_collection_url
+duplicate_key: "https://www.justice.gov/usao-ndca/pr/mountain-view-resident-charged-production-child-pornography-and-cyberstalking"
+duplicate_normalized_at: 2026-04-26
 ---
 ## Source Summary
 

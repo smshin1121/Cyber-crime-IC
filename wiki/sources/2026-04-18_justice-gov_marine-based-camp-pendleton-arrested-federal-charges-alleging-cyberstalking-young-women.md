@@ -21,6 +21,10 @@ defendant_names:
   - "Johao Miguel Chavarri"
   - "Camp Pendleton"
 updated: 2026-04-18
+duplicate_of: "[[2022-02-09_justice-gov_marine-based-at-camp-pendleton-arrested-on-federal-charges-alleging-cyberstalkin]]"
+duplicate_reason: same_collection_url
+duplicate_key: "https://www.justice.gov/usao-cdca/pr/marine-based-camp-pendleton-arrested-federal-charges-alleging-cyberstalking-young-women"
+duplicate_normalized_at: 2026-04-26
 ---
 ## Source Summary
 

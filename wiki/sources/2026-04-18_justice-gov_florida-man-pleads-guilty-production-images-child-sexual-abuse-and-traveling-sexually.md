@@ -20,6 +20,10 @@ created: 2026-04-18
 defendant_names:
   - "Samuel Aaron Leonard"
 updated: 2026-04-18
+duplicate_of: "[[2024-01-30_justice-gov_florida-man-pleads-guilty-to-production-of-images-of-child-sexual-abuse-and-trav]]"
+duplicate_reason: same_collection_url
+duplicate_key: "https://www.justice.gov/usao-wdwa/pr/florida-man-pleads-guilty-production-images-child-sexual-abuse-and-traveling-sexually"
+duplicate_normalized_at: 2026-04-26
 ---
 ## Source Summary
 

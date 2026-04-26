@@ -20,6 +20,10 @@ created: 2026-04-18
 defendant_names:
   - "Henry Konah Koffie"
 updated: 2026-04-18
+duplicate_of: "[[2023-12-11_justice-gov_pennsylvania-man-sentenced-to-life-in-federal-prison-for-dealing-fentanyl-analog]]"
+duplicate_reason: same_collection_url
+duplicate_key: "https://www.justice.gov/usao-or/pr/pennsylvania-man-sentenced-life-federal-prison-dealing-fentanyl-analogue-caused-fatal"
+duplicate_normalized_at: 2026-04-26
 ---
 ## Source Summary
 

@@ -20,6 +20,10 @@ created: 2026-04-18
 defendant_names:
   - "Jabbaar Smith"
 updated: 2026-04-18
+duplicate_of: "[[2018-03-29_justice-gov_social-services-director-of-a-nursing-home-charged-with-id-theft-from-elderly-re]]"
+duplicate_reason: same_collection_url
+duplicate_key: "https://www.justice.gov/usao-edmo/pr/social-services-director-nursing-home-charged-id-theft-elderly-residents"
+duplicate_normalized_at: 2026-04-26
 ---
 ## Source Summary
 

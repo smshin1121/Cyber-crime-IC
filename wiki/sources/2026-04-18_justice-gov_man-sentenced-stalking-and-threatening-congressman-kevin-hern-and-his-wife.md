@@ -20,6 +20,10 @@ created: 2026-04-18
 defendant_names:
   - "Keith Charles Eisenberger"
 updated: 2026-04-18
+duplicate_of: "[[2023-08-29_justice-gov_man-sentenced-for-stalking-and-threatening-congressman-kevin-hern-and-his-wife]]"
+duplicate_reason: same_collection_url
+duplicate_key: "https://www.justice.gov/usao-ndok/pr/man-sentenced-stalking-and-threatening-congressman-kevin-hern-and-his-wife"
+duplicate_normalized_at: 2026-04-26
 ---
 ## Source Summary
 

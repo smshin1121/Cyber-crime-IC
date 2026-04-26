@@ -20,6 +20,10 @@ created: 2026-04-18
 defendant_names:
   - "Kevin James Strutz"
 updated: 2026-04-18
+duplicate_of: "[[2023-05-22_justice-gov_ceres-man-pleads-guilty-to-cyberstalking-two-victims]]"
+duplicate_reason: same_collection_url
+duplicate_key: "https://www.justice.gov/usao-edca/pr/ceres-man-pleads-guilty-cyberstalking-two-victims"
+duplicate_normalized_at: 2026-04-26
 ---
 ## Source Summary
 

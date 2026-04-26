@@ -17,6 +17,10 @@ key_findings:
   - "Confirms the federal prison term and the Tacoma origin."
 collection_url: https://www.fox13seattle.com/news/tacoma-man-prison-fentanyl-trafficking-conspiracy
 created: 2026-04-25
+duplicate_of: "[[2025-04-11_fox13seattle_tacoma-wa-man-sentenced-federal-prison-fentanyl-trafficking-conspiracy]]"
+duplicate_reason: same_collection_url
+duplicate_key: "https://www.fox13seattle.com/news/tacoma-man-prison-fentanyl-trafficking-conspiracy"
+duplicate_normalized_at: 2026-04-26
 ---
 ## Source Summary
 

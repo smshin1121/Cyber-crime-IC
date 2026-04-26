@@ -20,6 +20,10 @@ created: 2026-04-18
 defendant_names:
   - "Pedro Marquez Benetiz"
 updated: 2026-04-18
+duplicate_of: "[[2025-06-11_justice-gov_honduran-national-indicted-for-illegal-re-entry]]"
+duplicate_reason: same_collection_url
+duplicate_key: "https://www.justice.gov/usao-ri/pr/honduran-national-indicted-illegal-re-entry"
+duplicate_normalized_at: 2026-04-26
 ---
 ## Source Summary
 

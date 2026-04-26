@@ -17,6 +17,10 @@ key_findings:
   - "Confirms FBI Tampa-led investigation and Latvian/Cypriot infrastructure seizure."
 collection_url: https://flashpoint.io/blog/us-seizes-ssndob-marketplace-admin-pleads-guilty/
 created: 2026-04-25
+duplicate_of: "[[2023-08-11_flashpoint_ssndob-marketplace-admin-pleads-guilty-fraud-trafficking-pii]]"
+duplicate_reason: same_collection_url
+duplicate_key: "https://flashpoint.io/blog/us-seizes-ssndob-marketplace-admin-pleads-guilty/"
+duplicate_normalized_at: 2026-04-26
 ---
 ## Source Summary
 

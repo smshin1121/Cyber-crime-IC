@@ -25,6 +25,10 @@ key_findings:
   - "Source Tier 3 trade-press (PortSwigger publishes Daily Swig) with medium-high reliability: PortSwigger is the commercial creator of Burp Suite and its reporting is generally technically accurate though not always deeply sourced on enforcement details"
 created: 2026-04-08
 updated: 2026-04-10
+duplicate_of: "[[2020-12-22_portswigger-net_safe-inet-vpn-service-for-cybercriminals-taken-down-in-law-enforcement-bust]]"
+duplicate_reason: same_collection_url
+duplicate_key: "https://portswigger.net/daily-swig/safe-inet-vpn-service-for-cybercriminals-taken-down-in-law-enforcement-bust"
+duplicate_normalized_at: 2026-04-26
 ---
 
 > [!info] URL access

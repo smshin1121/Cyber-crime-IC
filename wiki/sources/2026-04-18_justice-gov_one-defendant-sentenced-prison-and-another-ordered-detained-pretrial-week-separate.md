@@ -20,6 +20,10 @@ created: 2026-04-18
 defendant_names:
   - "Eric Scholl"
 updated: 2026-04-18
+duplicate_of: "[[2024-02-02_justice-gov_one-defendant-sentenced-prison-and-another-ordered-detained-pretrial-week-separate]]"
+duplicate_reason: same_collection_url
+duplicate_key: "https://www.justice.gov/usao-wdpa/pr/one-defendant-sentenced-prison-and-another-ordered-detained-pretrial-week-separate"
+duplicate_normalized_at: 2026-04-26
 ---
 ## Source Summary
 

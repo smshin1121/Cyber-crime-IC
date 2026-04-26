@@ -16,6 +16,10 @@ key_findings:
   - "Legal trade press confirmation of sentencing."
 collection_url: https://legalnewsline.com/stories/667586108-southern-california-men-sentenced-for-role-in-nationwide-darknet-fentanyl-distribution
 created: 2026-04-25
+duplicate_of: "[[2024-04-29_legalnewsline_socal-men-sentenced-nationwide-darknet-fentanyl-distribution]]"
+duplicate_reason: same_collection_url
+duplicate_key: "https://legalnewsline.com/stories/667586108-southern-california-men-sentenced-for-role-in-nationwide-darknet-fentanyl-distribution"
+duplicate_normalized_at: 2026-04-26
 ---
 ## Source Summary
 

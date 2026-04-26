@@ -17,6 +17,10 @@ key_findings:
   - "TechTarget independently summarized the Night Fury arrests and framed them as a Magecart/GetBilling case."
 collection_url: https://www.techtarget.com/searchsecurity/news/252477470/3-Magecart-suspects-arrested-in-Interpol-operation
 created: 2026-04-23
+duplicate_of: "[[2020-01-28_techtarget-com_3-magecart-suspects-arrested-in-interpol-operation]]"
+duplicate_reason: same_collection_url
+duplicate_key: "https://www.techtarget.com/searchsecurity/news/252477470/3-Magecart-suspects-arrested-in-Interpol-operation"
+duplicate_normalized_at: 2026-04-26
 ---
 ## Source Summary
 

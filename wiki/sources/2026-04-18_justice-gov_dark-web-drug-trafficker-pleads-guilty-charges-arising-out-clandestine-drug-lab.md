@@ -20,6 +20,10 @@ created: 2026-04-18
 updated: 2026-04-18
 defendant_names:
   - "Dark Web Drug Trafficker"
+duplicate_of: "[[2023-07-19_justice-gov_dark-web-drug-trafficker-pleads-guilty-to-charges-arising-out-of-a-clandestine-d]]"
+duplicate_reason: same_collection_url
+duplicate_key: "https://www.justice.gov/usao-edmi/pr/dark-web-drug-trafficker-pleads-guilty-charges-arising-out-clandestine-drug-lab"
+duplicate_normalized_at: 2026-04-26
 ---
 ## Source Summary
 

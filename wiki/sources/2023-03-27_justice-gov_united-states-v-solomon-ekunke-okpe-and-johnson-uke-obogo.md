@@ -20,6 +20,10 @@ created: 2026-04-17
 defendant_names:
   - "Solomon Ekunke Okpe"
 updated: 2026-04-18
+duplicate_of: "[[2023-03-27_doj_okpe-obogo-bec-sentencing]]"
+duplicate_reason: same_collection_url
+duplicate_key: "https://www.justice.gov/archives/opa/pr/foreign-national-sentenced-victimizing-us-persons-through-cyber-enabled-fraud-schemes"
+duplicate_normalized_at: 2026-04-26
 ---
 ## Source Summary
 

@@ -26,6 +26,10 @@ key_findings:
   - "This operation is cited as one of Europol's early (pre-EC3-maturity) successful uses of the Joint Investigation Team mechanism for cybercrime, establishing procedural precedent for later JITs"
 created: 2026-04-08
 updated: 2026-04-10
+duplicate_of: "[[2015-06-01_europol-europa-eu_major-cybercrime-ring-dismantled-by-joint-investigation-team]]"
+duplicate_reason: same_collection_url
+duplicate_key: "https://www.europol.europa.eu/media-press/newsroom/news/major-cybercrime-ring-dismantled-joint-investigation-team"
+duplicate_normalized_at: 2026-04-26
 ---
 
 ## Source

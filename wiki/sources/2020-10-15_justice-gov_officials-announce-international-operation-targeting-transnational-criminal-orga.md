@@ -18,6 +18,10 @@ key_findings:
   - "United States v. Nazarovi et al. is the principal U.S. criminal case tied to the [[qqaazz-money-laundering-takedown|QQAAZZ money laundering network takedown]]. It focuses not on a single malware family, but on a laundering service that allegedly supported multiple major cybercrime groups."
 collection_url: https://www.justice.gov/usao-wdpa/pr/officials-announce-international-operation-targeting-transnational-criminal
 created: 2026-04-22
+duplicate_of: "[[2020-09-29_justice-gov_officials-announce-international-operation-targeting-transnational-criminal-orga]]"
+duplicate_reason: same_collection_url
+duplicate_key: "https://www.justice.gov/usao-wdpa/pr/officials-announce-international-operation-targeting-transnational-criminal"
+duplicate_normalized_at: 2026-04-26
 ---
 ## Source Summary
 

@@ -21,6 +21,10 @@ defendant_names:
   - "Alexey Bilyuchenko"
   - "Aleksandr Verner"
 updated: 2026-04-18
+duplicate_of: "[[2023-06-09_justice-gov_russian-nationals-charged-with-hacking-one-cryptocurrency-exchange-and-illicitly]]"
+duplicate_reason: same_collection_url
+duplicate_key: "https://www.justice.gov/usao-ndca/pr/russian-nationals-charged-hacking-one-cryptocurrency-exchange-and-illicitly-operating"
+duplicate_normalized_at: 2026-04-26
 ---
 ## Source Summary
 

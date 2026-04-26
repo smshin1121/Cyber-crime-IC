@@ -17,6 +17,10 @@ key_findings:
   - "Provides regional context for the broader Aryan-prison-gang drug-trafficking case."
 collection_url: https://komonews.com/news/local/two-washingtonians-linked-to-aryan-prison-gangs-sentenced-for-drug-trafficking-meth-fentanyl-crime-arrest-dea-fbi-investigation
 created: 2026-04-25
+duplicate_of: "[[2025-01-31_komonews_two-washington-residents-linked-aryan-prison-gangs-sentenced-drug-trafficking]]"
+duplicate_reason: same_collection_url
+duplicate_key: "https://komonews.com/news/local/two-washingtonians-linked-to-aryan-prison-gangs-sentenced-for-drug-trafficking-meth-fentanyl-crime-arrest-dea-fbi-investigation"
+duplicate_normalized_at: 2026-04-26
 ---
 ## Source Summary
 

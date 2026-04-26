@@ -20,6 +20,10 @@ created: 2026-04-18
 defendant_names:
   - "Malik Holman"
 updated: 2026-04-18
+duplicate_of: "[[2025-09-10_justice-gov_parolee-indicted-for-illegal-possession-of-a-firearm]]"
+duplicate_reason: same_collection_url
+duplicate_key: "https://www.justice.gov/usao-wdmo/pr/parolee-indicted-illegal-possession-firearm"
+duplicate_normalized_at: 2026-04-26
 ---
 ## Source Summary
 

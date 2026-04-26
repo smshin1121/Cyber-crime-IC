@@ -21,6 +21,10 @@ defendant_names:
   - "Julia Roberts"
   - "Vicki Robinson"
 updated: 2026-04-18
+duplicate_of: "[[2025-09-05_justice-gov_wyandotte-county-district-court-bookkeepers-indicted-in-900-000-wire-fraud-schem]]"
+duplicate_reason: same_collection_url
+duplicate_key: "https://www.justice.gov/usao-ks/pr/wyandotte-county-district-court-bookkeepers-indicted-900000-wire-fraud-scheme"
+duplicate_normalized_at: 2026-04-26
 ---
 ## Source Summary
 

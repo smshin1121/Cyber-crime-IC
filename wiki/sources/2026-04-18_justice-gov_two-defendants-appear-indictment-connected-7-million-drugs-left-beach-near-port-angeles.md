@@ -21,6 +21,10 @@ defendant_names:
   - "John Michael Sherwood"
   - "Kevin Christopher Gartry"
 updated: 2026-04-18
+duplicate_of: "[[2022-12-08_justice-gov_two-defendants-appear-on-indictment-connected-to-7-million-in-drugs-left-on-beac]]"
+duplicate_reason: same_collection_url
+duplicate_key: "https://www.justice.gov/usao-wdwa/pr/two-defendants-appear-indictment-connected-7-million-drugs-left-beach-near-port-angeles"
+duplicate_normalized_at: 2026-04-26
 ---
 ## Source Summary
 

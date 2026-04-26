@@ -21,6 +21,10 @@ key_findings:
   - "The page states that BCIT addresses child sexual abuse material, internet fraud, communications fraud, cyber attacks, and piracy."
   - "The source places BCIT inside the Policía Nacional's national and transnational cybercrime mission."
 created: 2026-04-18
+duplicate_of: "[[2026-04-17_policia-es_brigada-central-de-investigacion-tecnologica-b-c-i-t]]"
+duplicate_reason: same_collection_url
+duplicate_key: "https://www.policia.es/_es/tupolicia_conocenos_estructura_dao_cgpoliciajudicial_bcit.php/1000"
+duplicate_normalized_at: 2026-04-26
 ---
 ## Source Summary
 

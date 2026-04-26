@@ -17,6 +17,10 @@ key_findings:
   - "AUSA International Narcotics/ML/Racketeering Section prosecuted."
 collection_url: https://hoodline.com/2025/01/two-southern-california-men-sentenced-in-major-fentanyl-distribution-case-linked-to-dark-web/
 created: 2026-04-25
+duplicate_of: "[[2025-01-14_hoodline_two-southern-california-men-sentenced-fentanyl-dark-web]]"
+duplicate_reason: same_collection_url
+duplicate_key: "https://hoodline.com/2025/01/two-southern-california-men-sentenced-in-major-fentanyl-distribution-case-linked-to-dark-web/"
+duplicate_normalized_at: 2026-04-26
 ---
 ## Source Summary
 

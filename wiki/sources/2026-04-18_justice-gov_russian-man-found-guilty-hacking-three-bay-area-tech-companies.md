@@ -20,6 +20,10 @@ created: 2026-04-18
 defendant_names:
   - "Yevgeniy Nikulin"
 updated: 2026-04-18
+duplicate_of: "[[2020-07-13_justice-gov_russian-man-found-guilty-of-hacking-into-three-bay-area-tech-companies]]"
+duplicate_reason: same_collection_url
+duplicate_key: "https://www.justice.gov/usao-ndca/pr/russian-man-found-guilty-hacking-three-bay-area-tech-companies"
+duplicate_normalized_at: 2026-04-26
 ---
 ## Source Summary
 

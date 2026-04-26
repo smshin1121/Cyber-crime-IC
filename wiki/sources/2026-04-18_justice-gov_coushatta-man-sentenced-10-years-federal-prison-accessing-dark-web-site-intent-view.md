@@ -20,6 +20,10 @@ created: 2026-04-18
 defendant_names:
   - "Paul Andrew Talley"
 updated: 2026-04-18
+duplicate_of: "[[2019-09-19_justice-gov_coushatta-man-sentenced-to-10-years-in-federal-prison-for-accessing-a-dark-web-s]]"
+duplicate_reason: same_collection_url
+duplicate_key: "https://www.justice.gov/usao-wdla/pr/coushatta-man-sentenced-10-years-federal-prison-accessing-dark-web-site-intent-view"
+duplicate_normalized_at: 2026-04-26
 ---
 ## Source Summary
 

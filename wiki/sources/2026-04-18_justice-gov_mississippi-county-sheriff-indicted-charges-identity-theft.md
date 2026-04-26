@@ -20,6 +20,10 @@ created: 2026-04-18
 defendant_names:
   - "Cory Hutcheson"
 updated: 2026-04-18
+duplicate_of: "[[2018-03-20_justice-gov_mississippi-county-sheriff-indicted-on-charges-of-identity-theft]]"
+duplicate_reason: same_collection_url
+duplicate_key: "https://www.justice.gov/usao-edmo/pr/mississippi-county-sheriff-indicted-charges-identity-theft"
+duplicate_normalized_at: 2026-04-26
 ---
 ## Source Summary
 

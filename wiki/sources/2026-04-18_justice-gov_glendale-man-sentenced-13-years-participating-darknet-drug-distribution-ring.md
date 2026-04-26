@@ -20,6 +20,10 @@ created: 2026-04-18
 defendant_names:
   - "Jacob Matthew Medina"
 updated: 2026-04-18
+duplicate_of: "[[2022-01-07_justice-gov_glendale-man-sentenced-to-13-years-for-participating-in-darknet-drug-distributio]]"
+duplicate_reason: same_collection_url
+duplicate_key: "https://www.justice.gov/usao-az/pr/glendale-man-sentenced-13-years-participating-darknet-drug-distribution-ring"
+duplicate_normalized_at: 2026-04-26
 ---
 ## Source Summary
 

@@ -25,6 +25,10 @@ key_findings:
   - "URL/operation mismatch: this source is currently filed under [[operation-avalanche]] but its content is about **Operation Heart Blocker / HeartSender**, which is a distinct operation. The wiki should either create an `operation-heart-blocker` page and move this source there, or rename the file"
 created: 2026-04-08
 updated: 2026-04-10
+duplicate_of: "[[2025-01-30_hackread-com_heartsender-cybercrime-network-dismantled-in-joint-us-dutch-operation]]"
+duplicate_reason: same_collection_url
+duplicate_key: "https://hackread.com/heartsender-cybercrime-network-dismantled-us-dutch-op/"
+duplicate_normalized_at: 2026-04-26
 ---
 
 ## Source

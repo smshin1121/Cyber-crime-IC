@@ -20,6 +20,10 @@ created: 2026-04-18
 updated: 2026-04-18
 defendant_names:
   - "Brought Against Bay Area"
+duplicate_of: "[[2017-05-12_justice-gov_child-pornography-charges-brought-against-bay-area-babysitters]]"
+duplicate_reason: same_collection_url
+duplicate_key: "https://www.justice.gov/usao-ndca/pr/child-pornography-charges-brought-against-bay-area-babysitters"
+duplicate_normalized_at: 2026-04-26
 ---
 ## Source Summary
 

@@ -20,6 +20,10 @@ created: 2026-04-17
 updated: 2026-04-18
 defendant_names:
   - "Darknet Drug Vendor"
+duplicate_of: "[[2019-04-12_justice-gov_darknet-drug-vendor-sentenced-to-10-years-in-prison]]"
+duplicate_reason: same_collection_url
+duplicate_key: "https://www.justice.gov/usao-ndca/pr/darknet-drug-vendor-sentenced-10-years-prison"
+duplicate_normalized_at: 2026-04-26
 ---
 ## Source Summary
 

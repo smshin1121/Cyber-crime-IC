@@ -20,6 +20,10 @@ created: 2026-04-18
 updated: 2026-04-18
 defendant_names:
   - "Utah Man"
+duplicate_of: "[[2021-11-12_justice-gov_utah-man-charged-with-murder-for-hire-scheme]]"
+duplicate_reason: same_collection_url
+duplicate_key: "https://www.justice.gov/usao-ndny/pr/utah-man-charged-murder-hire-scheme"
+duplicate_normalized_at: 2026-04-26
 ---
 ## Source Summary
 

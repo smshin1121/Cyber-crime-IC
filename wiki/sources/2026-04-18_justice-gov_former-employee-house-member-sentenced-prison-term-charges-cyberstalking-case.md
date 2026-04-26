@@ -20,6 +20,10 @@ created: 2026-04-18
 updated: 2026-04-18
 defendant_names:
   - "House Member"
+duplicate_of: "[[2018-03-08_justice-gov_former-employee-of-house-member-sentenced-to-prison-term-on-charges-in-cyberstal]]"
+duplicate_reason: same_collection_url
+duplicate_key: "https://www.justice.gov/usao-dc/pr/former-employee-house-member-sentenced-prison-term-charges-cyberstalking-case"
+duplicate_normalized_at: 2026-04-26
 ---
 ## Source Summary
 

@@ -19,6 +19,10 @@ key_findings:
 collection_url: https://www.eurojust.europa.eu/news/eurojust-coordinates-action-halt-cryptocurrency-fraud-over-100-million-euros-across-europe
 created: 2026-04-19
 updated: 2026-04-19
+duplicate_of: "[[2025-09-23_eurojust-europa-eu_eurojust-coordinates-action-to-halt-cryptocurrency-fraud-of-over-100-million-eur]]"
+duplicate_reason: same_collection_url
+duplicate_key: "https://www.eurojust.europa.eu/news/eurojust-coordinates-action-halt-cryptocurrency-fraud-over-100-million-euros-across-europe"
+duplicate_normalized_at: 2026-04-26
 ---
 ## Source Summary
 

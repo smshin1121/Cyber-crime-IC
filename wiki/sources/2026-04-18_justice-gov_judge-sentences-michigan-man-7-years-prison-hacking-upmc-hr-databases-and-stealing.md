@@ -20,6 +20,10 @@ created: 2026-04-18
 defendant_names:
   - "Justin Sean Johnson"
 updated: 2026-04-18
+duplicate_of: "[[2021-10-18_justice-gov_judge-sentences-michigan-man-to-7-years-in-prison-for-hacking-upmc-hr-databases]]"
+duplicate_reason: same_collection_url
+duplicate_key: "https://www.justice.gov/usao-wdpa/pr/judge-sentences-michigan-man-7-years-prison-hacking-upmc-hr-databases-and-stealing"
+duplicate_normalized_at: 2026-04-26
 ---
 ## Source Summary
 

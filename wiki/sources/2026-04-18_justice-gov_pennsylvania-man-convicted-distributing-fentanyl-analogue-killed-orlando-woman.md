@@ -20,6 +20,10 @@ created: 2026-04-18
 defendant_names:
   - "Of Distributing Fentanyl Analogue"
 updated: 2026-04-18
+duplicate_of: "[[2018-01-25_justice-gov_pennsylvania-man-convicted-of-distributing-fentanyl-analogue-that-killed-orlando]]"
+duplicate_reason: same_collection_url
+duplicate_key: "https://www.justice.gov/usao-mdfl/pr/pennsylvania-man-convicted-distributing-fentanyl-analogue-killed-orlando-woman"
+duplicate_normalized_at: 2026-04-26
 ---
 ## Source Summary
 

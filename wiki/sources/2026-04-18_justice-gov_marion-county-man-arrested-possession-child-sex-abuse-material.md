@@ -21,6 +21,10 @@ updated: 2026-04-18
 defendant_names:
   - "For Possession Of Child"
   - "Marion County Man"
+duplicate_of: "[[2023-09-14_justice-gov_marion-county-man-arrested-for-possession-of-child-sex-abuse-material]]"
+duplicate_reason: same_collection_url
+duplicate_key: "https://www.justice.gov/usao-mdfl/pr/marion-county-man-arrested-possession-child-sex-abuse-material"
+duplicate_normalized_at: 2026-04-26
 ---
 ## Source Summary
 

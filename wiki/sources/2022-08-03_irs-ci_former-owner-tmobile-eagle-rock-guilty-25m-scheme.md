@@ -18,6 +18,10 @@ key_findings:
   - "Conviction on 14 felonies including wire fraud and money laundering"
 collection_url: https://www.irs.gov/compliance/criminal-investigation/former-owner-of-t-mobile-retail-store-in-eagle-rock-found-guilty-of-committing-25-million-scheme-to-illegally-unlock-cellphones
 created: 2026-04-25
+duplicate_of: "[[2022-08-01_irs-gov_former-owner-t-mobile-retail-store-eagle-rock-25-million-unlock-scheme]]"
+duplicate_reason: same_collection_url
+duplicate_key: "https://www.irs.gov/compliance/criminal-investigation/former-owner-of-t-mobile-retail-store-in-eagle-rock-found-guilty-of-committing-25-million-scheme-to-illegally-unlock-cellphones"
+duplicate_normalized_at: 2026-04-26
 ---
 ## Source Summary
 

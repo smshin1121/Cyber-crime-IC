@@ -17,6 +17,10 @@ key_findings:
   - "Provides additional regional press confirmation of the Thompson and Warren sentences."
 collection_url: https://www.chronline.com/stories/two-washington-residents-who-worked-with-aryan-gangs-to-sell-drugs-are-off-to-prison,374785
 created: 2026-04-25
+duplicate_of: "[[2025-01-31_chronline_two-washington-residents-worked-aryan-gangs-sell-drugs-off-prison]]"
+duplicate_reason: same_collection_url
+duplicate_key: "https://www.chronline.com/stories/two-washington-residents-who-worked-with-aryan-gangs-to-sell-drugs-are-off-to-prison,374785"
+duplicate_normalized_at: 2026-04-26
 ---
 ## Source Summary
 

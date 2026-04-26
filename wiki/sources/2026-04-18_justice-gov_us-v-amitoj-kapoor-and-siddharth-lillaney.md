@@ -18,6 +18,10 @@ key_findings:
 collection_url: https://www.justice.gov/usao-ct/us-v-amitoj-kapoor-and-siddharth-lillaney
 created: 2026-04-18
 updated: 2026-04-18
+duplicate_of: "[[2026-03-16_justice-gov_u-s-v-amitoj-kapoor-and-siddharth-lillaney]]"
+duplicate_reason: same_collection_url
+duplicate_key: "https://www.justice.gov/usao-ct/us-v-amitoj-kapoor-and-siddharth-lillaney"
+duplicate_normalized_at: 2026-04-26
 ---
 ## Source Summary
 

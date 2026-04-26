@@ -20,6 +20,10 @@ created: 2026-04-18
 updated: 2026-04-18
 defendant_names:
   - "Darkweb Drug Trafficker"
+duplicate_of: "[[2020-12-17_justice-gov_darkweb-drug-trafficker-arrested-in-operation-disruptor-pleads-guilty]]"
+duplicate_reason: same_collection_url
+duplicate_key: "https://www.justice.gov/usao-ndtx/pr/darkweb-drug-trafficker-arrested-operation-disruptor-pleads-guilty"
+duplicate_normalized_at: 2026-04-26
 ---
 ## Source Summary
 

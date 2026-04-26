@@ -16,6 +16,10 @@ pages_updated:
   - "operation-endgame-phase2"
 key_findings: []
 created: 2026-04-08
+duplicate_of: "[[2025-05-22_europol-europa-eu_operation-endgame-follow-up-leads-to-detentions-and-server-takedowns]]"
+duplicate_reason: same_collection_url
+duplicate_key: "https://www.europol.europa.eu/media-press/newsroom/news/operation-endgame-follow-leads-to-five-detentions-and-interrogations-well-server-takedowns"
+duplicate_normalized_at: 2026-04-26
 ---
 
 ## Source

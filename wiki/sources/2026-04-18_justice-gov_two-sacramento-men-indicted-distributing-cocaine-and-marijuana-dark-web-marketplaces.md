@@ -21,6 +21,10 @@ defendant_names:
   - "Eddy Steven Sandoval Lopez"
   - "Deshari Saivohn Frederick"
 updated: 2026-04-18
+duplicate_of: "[[2018-06-21_justice-gov_two-sacramento-men-indicted-distributing-cocaine-marijuana-dark-web-marketplaces]]"
+duplicate_reason: same_collection_url
+duplicate_key: "https://www.justice.gov/usao-edca/pr/two-sacramento-men-indicted-distributing-cocaine-and-marijuana-dark-web-marketplaces"
+duplicate_normalized_at: 2026-04-26
 ---
 ## Source Summary
 

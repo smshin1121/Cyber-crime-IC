@@ -26,6 +26,10 @@ storage_mode: fulltext
 license_basis: treaty_status_public_record
 attribution_required: true
 attribution_url: "https://www.coe.int/en/web/conventions/full-list?module=signatures-by-treaty&treatynum=185"
+duplicate_of: "[[2026-04-17_coe-int_treaty-185-signatures-chart]]"
+duplicate_reason: same_collection_url
+duplicate_key: "https://www.coe.int/en/web/conventions/full-list?module=signatures-by-treaty&treatynum=185"
+duplicate_normalized_at: 2026-04-26
 ---
 ## Source Summary
 

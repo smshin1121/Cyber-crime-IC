@@ -23,6 +23,10 @@ created: 2026-04-18
 updated: 2026-04-18
 defendant_names:
   - "Joanna De Alba"
+duplicate_of: "[[2020-01-02_dea-gov_alleged-dark-web-narcotics-trafficker-indicted-for-distributing-heroin-and-metha]]"
+duplicate_reason: same_collection_url
+duplicate_key: "https://www.dea.gov/press-releases/2020/01/02/alleged-dark-web-narcotics-trafficker-indicted-for-distributing-heroin"
+duplicate_normalized_at: 2026-04-26
 ---
 ## Source Summary
 

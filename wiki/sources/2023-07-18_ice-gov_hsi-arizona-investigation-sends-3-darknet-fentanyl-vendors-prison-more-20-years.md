@@ -17,6 +17,10 @@ key_findings:
   - "The release identified the multiagency investigative team and reiterated the defendants' darknet monikers and sales volume."
 collection_url: https://www.ice.gov/news/releases/hsi-arizona-investigation-sends-3-darknet-fentanyl-vendors-prison-more-20-years
 created: 2026-04-25
+duplicate_of: "[[2023-07-14_ice_hsi-arizona-3-darknet-fentanyl-vendors-prison]]"
+duplicate_reason: same_collection_url
+duplicate_key: "https://www.ice.gov/news/releases/hsi-arizona-investigation-sends-3-darknet-fentanyl-vendors-prison-more-20-years"
+duplicate_normalized_at: 2026-04-26
 ---
 ## Source Summary
 

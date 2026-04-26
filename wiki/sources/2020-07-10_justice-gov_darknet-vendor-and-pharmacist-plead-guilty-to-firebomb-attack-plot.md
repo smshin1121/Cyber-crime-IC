@@ -17,6 +17,10 @@ key_findings:
   - "This domestic-only U.S. follow-on record has been absorbed into the canonical case page [[us-v-burgamy-wilson-dark-web]]. No visible cross-border mechanism is documented, so it is not treated as a separate international-cooperation operation."
 collection_url: https://www.justice.gov/usao-edva/pr/darknet-vendor-and-pharmacist-plead-guilty-firebomb-attack-plot
 created: 2026-04-17
+duplicate_of: "[[2020-07-10_edva_burgamy-wilson-darknet-firebomb-plea]]"
+duplicate_reason: same_collection_url
+duplicate_key: "https://www.justice.gov/usao-edva/pr/darknet-vendor-and-pharmacist-plead-guilty-firebomb-attack-plot"
+duplicate_normalized_at: 2026-04-26
 ---
 ## Source Summary
 

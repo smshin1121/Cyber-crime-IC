@@ -20,6 +20,10 @@ created: 2026-04-18
 defendant_names:
   - "Evan Baltierra"
 updated: 2026-04-18
+duplicate_of: "[[2022-05-24_justice-gov_orange-county-man-arrested-on-federal-stalking-charge-alleging-multiyear-harassm]]"
+duplicate_reason: same_collection_url
+duplicate_key: "https://www.justice.gov/usao-cdca/pr/orange-county-man-arrested-federal-stalking-charge-alleging-multiyear-harassment"
+duplicate_normalized_at: 2026-04-26
 ---
 ## Source Summary
 

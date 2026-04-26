@@ -20,6 +20,10 @@ created: 2026-04-18
 updated: 2026-04-18
 defendant_names:
   - "Georgia Man"
+duplicate_of: "[[2026-02-18_justice-gov_georgia-man-sentenced-to-six-years-in-federal-prison-for-possession-of-child-sex]]"
+duplicate_reason: same_collection_url
+duplicate_key: "https://www.justice.gov/usao-mdal/pr/georgia-man-sentenced-six-years-federal-prison-possession-child-sexual-abuse-material"
+duplicate_normalized_at: 2026-04-26
 ---
 ## Source Summary
 

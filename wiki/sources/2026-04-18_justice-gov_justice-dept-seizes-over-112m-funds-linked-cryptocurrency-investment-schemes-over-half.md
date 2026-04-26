@@ -18,6 +18,10 @@ key_findings:
 collection_url: https://www.justice.gov/usao-cdca/pr/justice-dept-seizes-over-112m-funds-linked-cryptocurrency-investment-schemes-over-half
 created: 2026-04-18
 updated: 2026-04-18
+duplicate_of: "[[2023-04-03_justice-gov_justice-dept-seizes-over-112m-in-funds-linked-to-cryptocurrency-investment-schem]]"
+duplicate_reason: same_collection_url
+duplicate_key: "https://www.justice.gov/usao-cdca/pr/justice-dept-seizes-over-112m-funds-linked-cryptocurrency-investment-schemes-over-half"
+duplicate_normalized_at: 2026-04-26
 ---
 ## Source Summary
 

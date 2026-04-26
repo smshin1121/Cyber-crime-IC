@@ -20,6 +20,10 @@ created: 2026-04-18
 defendant_names:
   - "Tavaris Andre Donaldson"
 updated: 2026-04-18
+duplicate_of: "[[2026-01-12_justice-gov_madison-county-sex-offender-indicted-for-failure-to-register]]"
+duplicate_reason: same_collection_url
+duplicate_key: "https://www.justice.gov/usao-ndfl/pr/madison-county-sex-offender-indicted-failure-register"
+duplicate_normalized_at: 2026-04-26
 ---
 ## Source Summary
 

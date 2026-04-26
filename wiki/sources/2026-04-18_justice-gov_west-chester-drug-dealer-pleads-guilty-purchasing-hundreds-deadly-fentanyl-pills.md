@@ -20,6 +20,10 @@ created: 2026-04-18
 defendant_names:
   - "Ryan Menkins"
 updated: 2026-04-18
+duplicate_of: "[[2022-11-14_justice-gov_west-chester-drug-dealer-pleads-guilty-to-purchasing-hundreds-of-deadly-fentanyl]]"
+duplicate_reason: same_collection_url
+duplicate_key: "https://www.justice.gov/usao-edpa/pr/west-chester-drug-dealer-pleads-guilty-purchasing-hundreds-deadly-fentanyl-pills"
+duplicate_normalized_at: 2026-04-26
 ---
 ## Source Summary
 

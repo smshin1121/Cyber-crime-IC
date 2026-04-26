@@ -20,6 +20,10 @@ created: 2026-04-18
 defendant_names:
   - "Amir Hossein Golshan"
 updated: 2026-04-18
+duplicate_of: "[[2023-02-23_justice-gov_alleged-sim-swapper-charged-with-hacking-into-instagram-influencers-accounts-to]]"
+duplicate_reason: same_collection_url
+duplicate_key: "https://www.justice.gov/usao-cdca/pr/alleged-sim-swapper-charged-hacking-instagram-influencers-accounts-get-money-and"
+duplicate_normalized_at: 2026-04-26
 ---
 ## Source Summary
 

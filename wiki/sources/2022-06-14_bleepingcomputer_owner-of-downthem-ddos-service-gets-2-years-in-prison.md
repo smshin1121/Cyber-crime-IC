@@ -17,6 +17,10 @@ key_findings:
   - "Co-defendant Juan Martinez received five years' probation as DownThem administrator."
 collection_url: https://www.bleepingcomputer.com/news/security/owner-of-downthem-ddos-service-gets-2-years-in-prison/
 created: 2026-04-25
+duplicate_of: "[[2022-06-13_bleepingcomputer_owner-downthem-ddos-service-2-years-prison]]"
+duplicate_reason: same_collection_url
+duplicate_key: "https://www.bleepingcomputer.com/news/security/owner-of-downthem-ddos-service-gets-2-years-in-prison/"
+duplicate_normalized_at: 2026-04-26
 ---
 ## Source Summary
 

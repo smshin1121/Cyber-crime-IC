@@ -17,6 +17,10 @@ key_findings:
   - "DEA confirms parallel federal agency participation in counterfeit Adderall darknet investigation."
 collection_url: https://www.dea.gov/press-releases/2025/04/14/darknet-vendor-sentenced-for-conspiracy-sell-counterfeit-drugs
 created: 2026-04-25
+duplicate_of: "[[2025-04-14_dea-gov_darknet-vendor-sentenced-conspiracy-sell-counterfeit-drugs]]"
+duplicate_reason: same_collection_url
+duplicate_key: "https://www.dea.gov/press-releases/2025/04/14/darknet-vendor-sentenced-for-conspiracy-sell-counterfeit-drugs"
+duplicate_normalized_at: 2026-04-26
 ---
 ## Source Summary
 

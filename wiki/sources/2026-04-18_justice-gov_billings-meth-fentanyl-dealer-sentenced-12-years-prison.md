@@ -20,6 +20,10 @@ created: 2026-04-18
 defendant_names:
   - "Ryan William Newhart"
 updated: 2026-04-18
+duplicate_of: "[[2024-09-20_justice-gov_billings-meth-fentanyl-dealer-sentenced-to-12-years-in-prison]]"
+duplicate_reason: same_collection_url
+duplicate_key: "https://www.justice.gov/usao-mt/pr/billings-meth-fentanyl-dealer-sentenced-12-years-prison"
+duplicate_normalized_at: 2026-04-26
 ---
 ## Source Summary
 

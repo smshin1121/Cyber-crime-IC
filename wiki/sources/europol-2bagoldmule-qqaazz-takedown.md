@@ -26,6 +26,10 @@ key_findings:
   - "The operation was coordinated via Europol's European Cybercrime Centre (EC3) and supported by Eurojust for judicial cooperation; it is one of the most-cited examples of money-laundering-specific international cybercrime enforcement"
 created: 2026-04-08
 updated: 2026-04-10
+duplicate_of: "[[2020-10-01_europol-europa-eu_20-arrests-in-qqaazz-multi-million-money-laundering-case]]"
+duplicate_reason: same_collection_url
+duplicate_key: "https://www.europol.europa.eu/media-press/newsroom/news/20-arrests-in-qqaazz-multi-million-money-laundering-case"
+duplicate_normalized_at: 2026-04-26
 ---
 
 ## Source

@@ -17,6 +17,10 @@ key_findings:
   - "The Andromeda/Gamarue takedown combined Europol and FBI coordination, German and Belarusian enforcement action, and Microsoft-backed sinkhole support to disrupt a long-running malware ecosystem in late 2017."
 collection_url: https://www.microsoft.com/en-us/msrc/blog/2018/01/microsoft-teams-up-with-law-enforcement-and-other-partners-to-disrupt-gamarue-andromeda
 created: 2026-04-17
+duplicate_of: "[[2017-12-04_microsoft-com_microsoft-assists-law-enforcement-help-disrupt-andromeda-botnet]]"
+duplicate_reason: same_collection_url
+duplicate_key: "https://www.microsoft.com/en-us/msrc/blog/2018/01/microsoft-teams-up-with-law-enforcement-and-other-partners-to-disrupt-gamarue-andromeda"
+duplicate_normalized_at: 2026-04-26
 ---
 ## Source Summary
 

@@ -20,6 +20,10 @@ created: 2026-04-18
 defendant_names:
   - "Patrick Mayberry"
 updated: 2026-04-18
+duplicate_of: "[[2023-12-11_justice-gov_registered-sex-offender-charged-with-new-child-pornography-offense]]"
+duplicate_reason: same_collection_url
+duplicate_key: "https://www.justice.gov/usao-edmo/pr/registered-sex-offender-charged-new-child-pornography-offense"
+duplicate_normalized_at: 2026-04-26
 ---
 ## Source Summary
 

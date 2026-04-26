@@ -20,6 +20,10 @@ created: 2026-04-18
 defendant_names:
   - "Thiago De Souza Prado"
 updated: 2026-04-18
+duplicate_of: "[[2023-12-19_justice-gov_revere-massachusetts-man-sentenced-in-nationwide-rideshare-and-delivery-account]]"
+duplicate_reason: same_collection_url
+duplicate_key: "https://www.justice.gov/usao-ri/pr/revere-massachusetts-man-sentenced-nationwide-rideshare-and-delivery-account-fraud"
+duplicate_normalized_at: 2026-04-26
 ---
 ## Source Summary
 

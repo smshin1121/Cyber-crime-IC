@@ -25,6 +25,10 @@ key_findings:
   - "Operation Pleiades is an early (2015-2016) case study of INTERPOL-Europol joint coordination on crypto-extortion and is often cited as precedent for later DDoS-for-ransom enforcement actions"
 created: 2026-04-08
 updated: 2026-04-10
+duplicate_of: "[[2015-12-01_europol-europa-eu_international-action-against-dd4bc-cybercriminal-group]]"
+duplicate_reason: same_collection_url
+duplicate_key: "https://www.europol.europa.eu/media-press/newsroom/news/international-action-against-dd4bc-cybercriminal-group"
+duplicate_normalized_at: 2026-04-26
 ---
 
 ## Source

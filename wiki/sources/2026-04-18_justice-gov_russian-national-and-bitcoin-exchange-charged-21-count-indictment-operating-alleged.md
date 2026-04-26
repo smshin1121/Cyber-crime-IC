@@ -21,6 +21,10 @@ updated: 2026-04-18
 defendant_names:
   - "For Operating Alleged International"
   - "National And Bitcoin Exchange"
+duplicate_of: "[[2017-07-27_justice-gov_russian-national-and-bitcoin-exchange-charged-in-21-count-indictment-for-operati]]"
+duplicate_reason: same_collection_url
+duplicate_key: "https://www.justice.gov/usao-ndca/pr/russian-national-and-bitcoin-exchange-charged-21-count-indictment-operating-alleged"
+duplicate_normalized_at: 2026-04-26
 ---
 ## Source Summary
 

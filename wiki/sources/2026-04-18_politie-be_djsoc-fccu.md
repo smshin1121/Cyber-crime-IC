@@ -21,6 +21,10 @@ key_findings:
   - "The page states that DJSOC supports national and international partners, including Europol."
   - "The FCCU is explicitly named as responsible for computer crime, especially attacks on critical infrastructure."
 created: 2026-04-18
+duplicate_of: "[[2026-04-17_politie-be_centrale-directie-van-de-bestrijding-van-de-zware-en-georganiseerde-criminalitei]]"
+duplicate_reason: same_collection_url
+duplicate_key: "https://www.politie.be/5998/nl/over-ons/federale-politie/federale-gerechtelijke-politie/centrale-directie-van-de-bestrijding-van"
+duplicate_normalized_at: 2026-04-26
 ---
 ## Source Summary
 

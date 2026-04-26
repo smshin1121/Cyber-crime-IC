@@ -20,6 +20,10 @@ created: 2026-04-18
 defendant_names:
   - "Elizabeth Calderon"
 updated: 2026-04-18
+duplicate_of: "[[2017-09-06_justice-gov_salinas-resident-sentenced-to-54-months-in-prison-for-identity-theft-and-prepari]]"
+duplicate_reason: same_collection_url
+duplicate_key: "https://www.justice.gov/usao-ndca/pr/salinas-resident-sentenced-54-months-prison-identity-theft-and-preparing-false-tax"
+duplicate_normalized_at: 2026-04-26
 ---
 ## Source Summary
 

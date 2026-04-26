@@ -20,6 +20,10 @@ created: 2026-04-18
 defendant_names:
   - "Donjuan Murphy"
 updated: 2026-04-18
+duplicate_of: "[[2022-07-12_justice-gov_man-sentenced-for-conspiracy-to-distribute-meth-on-the-darknet]]"
+duplicate_reason: same_collection_url
+duplicate_key: "https://www.justice.gov/usao-edva/pr/man-pleads-guilty-conspiracy-distribute-meth-darknet-0"
+duplicate_normalized_at: 2026-04-26
 ---
 ## Source Summary
 

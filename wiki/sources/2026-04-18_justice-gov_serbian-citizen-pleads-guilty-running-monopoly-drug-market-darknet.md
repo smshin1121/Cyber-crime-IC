@@ -20,6 +20,10 @@ created: 2026-04-18
 defendant_names:
   - "Milomir Desnica"
 updated: 2026-04-18
+duplicate_of: "[[2023-11-08_justice-gov_serbian-citizen-pleads-guilty-to-running-monopoly-drug-market-on-the-darknet]]"
+duplicate_reason: same_collection_url
+duplicate_key: "https://www.justice.gov/usao-dc/pr/serbian-citizen-pleads-guilty-running-monopoly-drug-market-darknet"
+duplicate_normalized_at: 2026-04-26
 ---
 ## Source Summary
 

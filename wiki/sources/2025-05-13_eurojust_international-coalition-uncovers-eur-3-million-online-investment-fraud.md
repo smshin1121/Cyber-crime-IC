@@ -22,6 +22,10 @@ key_findings:
   - "The operation followed two action days and included searches in Belgium and Latvia during the first phase and searches in Albania, Cyprus, and Israel during the second."
   - "The National Crime Agency is listed among the authorities carrying out the second action day."
 created: 2026-04-19
+duplicate_of: "[[2025-05-13_eurojust-europa-eu_international-coalition-uncovers-eur-3-million-online-investment-fraud]]"
+duplicate_reason: same_collection_url
+duplicate_key: "https://www.eurojust.europa.eu/news/international-coalition-uncovers-eur-3-million-online-investment-fraud"
+duplicate_normalized_at: 2026-04-26
 ---
 ## Source Summary
 

@@ -17,6 +17,10 @@ key_findings:
   - "Co-defendant Browne-Louis charged with false statements to investigators."
 collection_url: https://www.cbsnews.com/news/juan-mccullum-dorene-browne-louis-charged-congress-nude-photos/
 created: 2026-04-25
+duplicate_of: "[[2017-07-13_cbsnews_ex-house-employees-allegedly-circulated-nude-photos-of-congress-member]]"
+duplicate_reason: same_collection_url
+duplicate_key: "https://www.cbsnews.com/news/juan-mccullum-dorene-browne-louis-charged-congress-nude-photos/"
+duplicate_normalized_at: 2026-04-26
 ---
 ## Source Summary
 

@@ -17,6 +17,10 @@ key_findings:
   - "Operated while on supervised release"
 collection_url: https://www.fox13seattle.com/news/stanwood-dark-web-heroin-fentanyl
 created: 2026-04-25
+duplicate_of: "[[2024-04-13_fox13seattle_stanwood-man-sentenced-10-years-opioids-dark-web]]"
+duplicate_reason: same_collection_url
+duplicate_key: "https://www.fox13seattle.com/news/stanwood-dark-web-heroin-fentanyl"
+duplicate_normalized_at: 2026-04-26
 ---
 ## Source Summary
 

@@ -20,6 +20,10 @@ created: 2026-04-18
 defendant_names:
   - "Khaled Miah"
 updated: 2026-04-18
+duplicate_of: "[[2021-03-17_justice-gov_pittsburgh-man-charged-with-threatening-communications-and-impeding-fbi-investig]]"
+duplicate_reason: same_collection_url
+duplicate_key: "https://www.justice.gov/usao-wdpa/pr/pittsburgh-man-charged-threatening-communications-and-impeding-fbi-investigation-1"
+duplicate_normalized_at: 2026-04-26
 ---
 ## Source Summary
 

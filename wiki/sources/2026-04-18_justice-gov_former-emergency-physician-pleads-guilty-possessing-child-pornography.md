@@ -20,6 +20,10 @@ created: 2026-04-18
 defendant_names:
   - "Garrett Norvell"
 updated: 2026-04-18
+duplicate_of: "[[2024-09-23_justice-gov_former-emergency-physician-pleads-guilty-to-possessing-child-pornography]]"
+duplicate_reason: same_collection_url
+duplicate_key: "https://www.justice.gov/usao-sdoh/pr/former-emergency-physician-pleads-guilty-possessing-child-pornography"
+duplicate_normalized_at: 2026-04-26
 ---
 ## Source Summary
 

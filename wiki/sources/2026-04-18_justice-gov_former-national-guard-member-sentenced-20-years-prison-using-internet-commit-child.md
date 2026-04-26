@@ -20,6 +20,10 @@ created: 2026-04-18
 defendant_names:
   - "Jaziz Jesahias Cea"
 updated: 2026-04-18
+duplicate_of: "[[2022-03-18_justice-gov_former-national-guard-member-sentenced-to-20-years-in-prison-for-using-the-inter]]"
+duplicate_reason: same_collection_url
+duplicate_key: "https://www.justice.gov/usao-edca/pr/former-national-guard-member-sentenced-20-years-prison-using-internet-commit-child"
+duplicate_normalized_at: 2026-04-26
 ---
 ## Source Summary
 

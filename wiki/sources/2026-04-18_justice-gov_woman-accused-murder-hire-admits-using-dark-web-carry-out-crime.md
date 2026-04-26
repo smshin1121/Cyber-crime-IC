@@ -20,6 +20,10 @@ created: 2026-04-18
 defendant_names:
   - "Krista Renae Stone"
 updated: 2026-04-18
+duplicate_of: "[[2024-06-02_justice-gov_woman-accused-of-murder-for-hire-admits-to-using-the-dark-web-to-carry-out-the-c]]"
+duplicate_reason: same_collection_url
+duplicate_key: "https://www.justice.gov/usao-ut/pr/woman-accused-murder-hire-admits-using-dark-web-carry-out-crime"
+duplicate_normalized_at: 2026-04-26
 ---
 ## Source Summary
 

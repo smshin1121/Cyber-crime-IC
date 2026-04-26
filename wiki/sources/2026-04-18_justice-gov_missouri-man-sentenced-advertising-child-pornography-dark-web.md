@@ -20,6 +20,10 @@ created: 2026-04-18
 defendant_names:
   - "Larry Stendebach"
 updated: 2026-04-18
+duplicate_of: "[[2025-09-08_justice-gov_missouri-man-sentenced-for-advertising-child-pornography-on-the-dark-web]]"
+duplicate_reason: same_collection_url
+duplicate_key: "https://www.justice.gov/usao-me/pr/missouri-man-sentenced-advertising-child-pornography-dark-web"
+duplicate_normalized_at: 2026-04-26
 ---
 ## Source Summary
 

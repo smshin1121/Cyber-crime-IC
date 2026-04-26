@@ -20,6 +20,10 @@ created: 2026-04-18
 defendant_names:
   - "Myron Rodos"
 updated: 2026-04-18
+duplicate_of: "[[2021-03-02_justice-gov_north-philadelphia-pill-mill-doctor-sentenced-to-five-years-in-prison-for-illega]]"
+duplicate_reason: same_collection_url
+duplicate_key: "https://www.justice.gov/usao-edpa/pr/north-philadelphia-pill-mill-doctor-sentenced-five-years-prison-illegal-opioid"
+duplicate_normalized_at: 2026-04-26
 ---
 ## Source Summary
 

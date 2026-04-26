@@ -17,6 +17,10 @@ key_findings:
   - "Confirms the 17-year maximum statutory exposure across the three charged counts."
 collection_url: https://www.tampafp.com/ukrainian-cyber-criminal-extradited-to-tampa-faces-17-years-in-federal-prison/
 created: 2026-04-25
+duplicate_of: "[[2021-09-09_tampafreepress_ukrainian-cyber-criminal-extradited-to-tampa-faces-17-years]]"
+duplicate_reason: same_collection_url
+duplicate_key: "https://www.tampafp.com/ukrainian-cyber-criminal-extradited-to-tampa-faces-17-years-in-federal-prison/"
+duplicate_normalized_at: 2026-04-26
 ---
 ## Source Summary
 

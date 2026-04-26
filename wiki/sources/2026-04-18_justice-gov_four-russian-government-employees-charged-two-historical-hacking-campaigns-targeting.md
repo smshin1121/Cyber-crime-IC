@@ -20,6 +20,10 @@ created: 2026-04-18
 updated: 2026-04-18
 defendant_names:
   - "Four Russian Government Employees"
+duplicate_of: "[[2022-03-24_justice-gov_four-russian-government-employees-charged-in-two-historical-hacking-campaigns-ta]]"
+duplicate_reason: same_collection_url
+duplicate_key: "https://www.justice.gov/usao-dc/pr/four-russian-government-employees-charged-two-historical-hacking-campaigns-targeting"
+duplicate_normalized_at: 2026-04-26
 ---
 ## Source Summary
 

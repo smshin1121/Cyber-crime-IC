@@ -20,6 +20,10 @@ created: 2026-04-18
 updated: 2026-04-18
 defendant_names:
   - "Three Chinese Hackers Who"
+duplicate_of: "[[2017-11-28_justice-gov_u-s-charges-three-chinese-hackers-who-work-at-internet-security-firm-for-hacking]]"
+duplicate_reason: same_collection_url
+duplicate_key: "https://www.justice.gov/usao-wdpa/pr/us-charges-three-chinese-hackers-who-work-internet-security-firm-hacking-three"
+duplicate_normalized_at: 2026-04-26
 ---
 ## Source Summary
 

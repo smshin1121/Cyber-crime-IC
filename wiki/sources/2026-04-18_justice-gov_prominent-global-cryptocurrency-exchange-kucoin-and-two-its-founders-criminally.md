@@ -21,6 +21,10 @@ updated: 2026-04-18
 defendant_names:
   - "With Bank Secrecy Act"
   - "Of Its Founders Criminally"
+duplicate_of: "[[2024-03-26_justice-gov_prominent-global-cryptocurrency-exchange-kucoin-and-two-of-its-founders-criminal]]"
+duplicate_reason: same_collection_url
+duplicate_key: "https://www.justice.gov/usao-sdny/pr/prominent-global-cryptocurrency-exchange-kucoin-and-two-its-founders-criminally"
+duplicate_normalized_at: 2026-04-26
 ---
 ## Source Summary
 

@@ -20,6 +20,10 @@ created: 2026-04-18
 defendant_names:
   - "Celeste Santifer"
 updated: 2026-04-18
+duplicate_of: "[[2023-05-04_justice-gov_virginia-woman-sentenced-to-prison-for-fraudulently-ordering-cell-phones-on-beha]]"
+duplicate_reason: same_collection_url
+duplicate_key: "https://www.justice.gov/usao-dc/pr/virginia-woman-sentenced-prison-fraudulently-ordering-cell-phones-behalf-her-non-profit"
+duplicate_normalized_at: 2026-04-26
 ---
 ## Source Summary
 

@@ -20,6 +20,10 @@ created: 2026-04-18
 updated: 2026-04-18
 defendant_names:
   - "Dutch National"
+duplicate_of: "[[2020-03-12_justice-gov_dutch-national-charged-in-takedown-of-obscene-website-selling-over-2-000-real-ra]]"
+duplicate_reason: same_collection_url
+duplicate_key: "https://www.justice.gov/usao-dc/pr/dutch-national-charged-takedown-obscene-website-selling-over-2000-real-rape-and-child"
+duplicate_normalized_at: 2026-04-26
 ---
 ## Source Summary
 

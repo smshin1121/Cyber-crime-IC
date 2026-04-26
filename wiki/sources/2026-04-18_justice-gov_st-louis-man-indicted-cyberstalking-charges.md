@@ -20,6 +20,10 @@ created: 2026-04-18
 defendant_names:
   - "Robert Merkle"
 updated: 2026-04-18
+duplicate_of: "[[2022-08-10_justice-gov_st-louis-man-indicted-on-cyberstalking-charges]]"
+duplicate_reason: same_collection_url
+duplicate_key: "https://www.justice.gov/usao-edmo/pr/st-louis-man-indicted-cyberstalking-charges"
+duplicate_normalized_at: 2026-04-26
 ---
 ## Source Summary
 

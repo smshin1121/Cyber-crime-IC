@@ -21,6 +21,10 @@ defendant_names:
   - "Joseph Nilsen"
   - "Kristen Leccese"
 updated: 2026-04-18
+duplicate_of: "[[2023-09-08_justice-gov_final-two-u-s-based-defendants-in-amazon-bribery-case-sentenced]]"
+duplicate_reason: same_collection_url
+duplicate_key: "https://www.justice.gov/usao-wdwa/pr/final-two-us-based-defendants-amazon-bribery-case-sentenced"
+duplicate_normalized_at: 2026-04-26
 ---
 ## Source Summary
 

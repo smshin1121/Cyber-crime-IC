@@ -24,6 +24,10 @@ key_findings:
   - "Notable IC feature: Belarus played both as arrest location and participating state — a rare example of Belarusian cybercrime cooperation with Western agencies; Taiwan's inclusion (alongside Singapore) signals East Asian partner involvement"
 created: 2026-04-08
 updated: 2026-04-10
+duplicate_of: "[[2017-12-04_europol-europa-eu_andromeda-botnet-dismantled-in-international-cyber-operation]]"
+duplicate_reason: same_collection_url
+duplicate_key: "https://www.europol.europa.eu/media-press/newsroom/news/andromeda-botnet-dismantled-in-international-cyber-operation"
+duplicate_normalized_at: 2026-04-26
 ---
 
 ## Source

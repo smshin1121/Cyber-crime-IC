@@ -20,6 +20,10 @@ created: 2026-04-17
 defendant_names:
   - "George Sotiris Vlastos"
 updated: 2026-04-18
+duplicate_of: "[[2025-05-12_justice-gov_pittsburgh-resident-and-darknet-drug-trafficker-sentenced-nearly-six-years-prison]]"
+duplicate_reason: same_collection_url
+duplicate_key: "https://www.justice.gov/usao-wdpa/pr/pittsburgh-resident-and-darknet-drug-trafficker-sentenced-nearly-six-years-prison"
+duplicate_normalized_at: 2026-04-26
 ---
 ## Source Summary
 

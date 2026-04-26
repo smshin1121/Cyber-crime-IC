@@ -21,6 +21,10 @@ defendant_names:
   - "Fatiu Ismaila Lawal"
   - "Sakiru Olanrewaju Ambali"
 updated: 2026-04-18
+duplicate_of: "[[2024-09-13_justice-gov_second-canadian-resident-pleads-guilty-to-massive-covid-19-benefit-fraud-scheme]]"
+duplicate_reason: same_collection_url
+duplicate_key: "https://www.justice.gov/usao-wdwa/pr/second-canadian-resident-pleads-guilty-massive-covid-19-benefit-fraud-scheme"
+duplicate_normalized_at: 2026-04-26
 ---
 ## Source Summary
 

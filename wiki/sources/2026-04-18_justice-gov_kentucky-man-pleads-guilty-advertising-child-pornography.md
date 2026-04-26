@@ -20,6 +20,10 @@ created: 2026-04-18
 defendant_names:
   - "Scott Allison"
 updated: 2026-04-18
+duplicate_of: "[[2023-09-05_justice-gov_kentucky-man-pleads-guilty-to-advertising-child-pornography]]"
+duplicate_reason: same_collection_url
+duplicate_key: "https://www.justice.gov/usao-ma/pr/kentucky-man-pleads-guilty-advertising-child-pornography"
+duplicate_normalized_at: 2026-04-26
 ---
 ## Source Summary
 

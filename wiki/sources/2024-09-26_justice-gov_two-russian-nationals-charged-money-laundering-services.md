@@ -21,6 +21,10 @@ created: 2026-04-18
 updated: 2026-04-18
 defendant_names:
   - "Two Russian Nationals"
+duplicate_of: "[[2024-09-26_justice-gov_two-russian-nationals-charged-in-connection-with-operating-billion-dollar-money]]"
+duplicate_reason: same_collection_url
+duplicate_key: "https://www.justice.gov/archives/opa/pr/two-russian-nationals-charged-connection-operating-billion-dollar-money-laundering-1"
+duplicate_normalized_at: 2026-04-26
 ---
 ## Source Summary
 

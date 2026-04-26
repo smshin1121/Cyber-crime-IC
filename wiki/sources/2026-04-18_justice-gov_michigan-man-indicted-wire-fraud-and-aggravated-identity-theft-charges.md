@@ -20,6 +20,10 @@ created: 2026-04-18
 defendant_names:
   - "Andrew Shenkosky"
 updated: 2026-04-18
+duplicate_of: "[[2025-02-20_justice-gov_michigan-man-indicted-on-wire-fraud-and-aggravated-identity-theft-charges]]"
+duplicate_reason: same_collection_url
+duplicate_key: "https://www.justice.gov/usao-mn/pr/michigan-man-indicted-wire-fraud-and-aggravated-identity-theft-charges"
+duplicate_normalized_at: 2026-04-26
 ---
 ## Source Summary
 

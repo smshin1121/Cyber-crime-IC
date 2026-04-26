@@ -20,6 +20,10 @@ created: 2026-04-18
 defendant_names:
   - "Daniel Faix"
 updated: 2026-04-18
+duplicate_of: "[[2024-03-29_justice-gov_bellingham-washington-drug-dealer-sentenced-to-ten-years-in-prison-for-distribut]]"
+duplicate_reason: same_collection_url
+duplicate_key: "https://www.justice.gov/usao-wdwa/pr/bellingham-washington-drug-dealer-sentenced-ten-years-prison-distributing-fentanyl"
+duplicate_normalized_at: 2026-04-26
 ---
 ## Source Summary
 

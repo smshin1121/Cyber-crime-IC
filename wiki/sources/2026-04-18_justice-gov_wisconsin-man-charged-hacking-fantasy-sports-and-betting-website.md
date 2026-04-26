@@ -21,6 +21,10 @@ updated: 2026-04-18
 defendant_names:
   - "With Hacking Fantasy Sports"
   - "Wisconsin Man"
+duplicate_of: "[[2023-05-18_justice-gov_wisconsin-man-charged-with-hacking-fantasy-sports-and-betting-website]]"
+duplicate_reason: same_collection_url
+duplicate_key: "https://www.justice.gov/usao-sdny/pr/wisconsin-man-charged-hacking-fantasy-sports-and-betting-website"
+duplicate_normalized_at: 2026-04-26
 ---
 ## Source Summary
 

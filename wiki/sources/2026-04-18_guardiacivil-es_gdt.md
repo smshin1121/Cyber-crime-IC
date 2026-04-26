@@ -21,6 +21,10 @@ key_findings:
   - "The page describes the GDT as supporting investigation, prevention, and citizen reporting related to cyber-enabled crime."
   - "The source is a direct institutional anchor for the role and public-facing mission of the GDT."
 created: 2026-04-18
+duplicate_of: "[[2026-04-17_web-guardiacivil-es_ciberdelincuencia-y-delitos-en-internet-gdt]]"
+duplicate_reason: same_collection_url
+duplicate_key: "https://web.guardiacivil.es/es/institucional/conocenos/especialidades/gdt/"
+duplicate_normalized_at: 2026-04-26
 ---
 ## Source Summary
 

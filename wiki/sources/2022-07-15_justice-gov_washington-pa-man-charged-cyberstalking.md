@@ -17,6 +17,10 @@ key_findings:
   - "Direct fetch may hit Akamai 403; URL existence verified via search index."
 collection_url: https://www.justice.gov/usao-wdpa/pr/washington-pa-man-charged-cyberstalking
 created: 2026-04-25
+duplicate_of: "[[2022-07-14_justice-gov_washington-pa-man-charged-with-cyberstalking]]"
+duplicate_reason: same_collection_url
+duplicate_key: "https://www.justice.gov/usao-wdpa/pr/washington-pa-man-charged-cyberstalking"
+duplicate_normalized_at: 2026-04-26
 ---
 ## Source Summary
 

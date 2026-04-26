@@ -21,6 +21,10 @@ defendant_names:
   - "Leonardo Cristea"
   - "Filip Lucian Simion"
 updated: 2026-04-18
+duplicate_of: "[[2018-04-12_justice-gov_member-of-darknet-drug-trafficking-organization-italianmafiabrussels-sentenced-t]]"
+duplicate_reason: same_collection_url
+duplicate_key: "https://www.justice.gov/usao-co/pr/member-darknet-drug-trafficking-organization-italianmafiabrussels-sentenced-prison"
+duplicate_normalized_at: 2026-04-26
 ---
 ## Source Summary
 

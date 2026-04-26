@@ -24,6 +24,10 @@ defendant_names:
   - "Katrina Cazares"
   - "Kayara Zepeda Montero"
 updated: 2026-04-18
+duplicate_of: "[[2024-05-30_justice-gov_former-king-county-jail-guard-pleads-guilty-to-bribery-and-drug-distribution]]"
+duplicate_reason: same_collection_url
+duplicate_key: "https://www.justice.gov/usao-wdwa/pr/former-king-county-jail-guard-pleads-guilty-bribery-and-drug-distribution"
+duplicate_normalized_at: 2026-04-26
 ---
 ## Source Summary
 

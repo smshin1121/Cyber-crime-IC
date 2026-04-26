@@ -21,6 +21,10 @@ defendant_names:
   - "To Prison For Illegally"
   - "Texas Business Executive"
 updated: 2026-04-18
+duplicate_of: "[[2014-12-18_justice-gov_texas-business-executive-sentenced-to-prison-for-illegally-selling-oxycodone-on]]"
+duplicate_reason: same_collection_url
+duplicate_key: "https://www.justice.gov/usao-mdfl/pr/texas-business-executive-sentenced-prison-illegally-selling-oxycodone-silk-road"
+duplicate_normalized_at: 2026-04-26
 ---
 ## Source Summary
 

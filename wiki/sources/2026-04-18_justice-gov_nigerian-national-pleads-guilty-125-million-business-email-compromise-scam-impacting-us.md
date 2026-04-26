@@ -20,6 +20,10 @@ created: 2026-04-18
 defendant_names:
   - "Onwuchekwa Nnanna Kalu"
 updated: 2026-04-18
+duplicate_of: "[[2023-08-04_justice-gov_nigerian-national-pleads-guilty-to-1-25-million-business-email-compromise-scam-i]]"
+duplicate_reason: same_collection_url
+duplicate_key: "https://www.justice.gov/usao-dc/pr/nigerian-national-pleads-guilty-125-million-business-email-compromise-scam-impacting-us"
+duplicate_normalized_at: 2026-04-26
 ---
 ## Source Summary
 

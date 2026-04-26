@@ -17,6 +17,10 @@ key_findings:
   - "Documents financial investigation of money launderers transferring proceeds to Mexico/Colombia"
 collection_url: https://www.irs.gov/compliance/criminal-investigation/lone-american-indicted-in-international-drug-trafficking-investigation-sentenced-to-five-years-in-prison
 created: 2026-04-25
+duplicate_of: "[[2025-06-25_irs-gov_lone-american-indicted-international-drug-trafficking-sentenced-five-years]]"
+duplicate_reason: same_collection_url
+duplicate_key: "https://www.irs.gov/compliance/criminal-investigation/lone-american-indicted-in-international-drug-trafficking-investigation-sentenced-to-five-years-in-prison"
+duplicate_normalized_at: 2026-04-26
 ---
 ## Source Summary
 

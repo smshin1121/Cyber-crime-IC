@@ -20,6 +20,10 @@ created: 2026-04-18
 defendant_names:
   - "Anthony Joseph Carlson"
 updated: 2026-04-18
+duplicate_of: "[[2022-11-08_justice-gov_michigan-man-sentenced-to-3-years-in-prison-for-role-in-sim-swapping-that-led-to]]"
+duplicate_reason: same_collection_url
+duplicate_key: "https://www.justice.gov/usao-cdca/pr/michigan-man-sentenced-3-years-prison-role-sim-swapping-led-account-takeovers-and"
+duplicate_normalized_at: 2026-04-26
 ---
 ## Source Summary
 

@@ -20,6 +20,10 @@ created: 2026-04-18
 defendant_names:
   - "Donald Ryan Austin"
 updated: 2026-04-18
+duplicate_of: "[[2016-09-02_justice-gov_florida-computer-programmer-arrested-for-hacking]]"
+duplicate_reason: same_collection_url
+duplicate_key: "https://www.justice.gov/usao-ndca/pr/florida-computer-programmer-arrested-hacking"
+duplicate_normalized_at: 2026-04-26
 ---
 ## Source Summary
 

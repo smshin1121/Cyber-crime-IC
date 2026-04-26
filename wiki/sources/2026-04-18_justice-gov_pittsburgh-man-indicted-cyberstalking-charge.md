@@ -20,6 +20,10 @@ created: 2026-04-18
 defendant_names:
   - "Daniel Marsico"
 updated: 2026-04-18
+duplicate_of: "[[2024-01-25_justice-gov_pittsburgh-man-indicted-on-cyberstalking-charge]]"
+duplicate_reason: same_collection_url
+duplicate_key: "https://www.justice.gov/usao-wdpa/pr/pittsburgh-man-indicted-cyberstalking-charge"
+duplicate_normalized_at: 2026-04-26
 ---
 ## Source Summary
 

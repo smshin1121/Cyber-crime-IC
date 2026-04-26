@@ -25,6 +25,10 @@ key_findings:
   - "CyberScoop's reporter Tonya Riley provides context connecting Delilah to Operation Falcon (2020) and Operation Falcon II (2021) — the broader SilverTerrier suppression campaign"
 created: 2026-04-08
 updated: 2026-04-10
+duplicate_of: "[[2022-01-01_cyberscoop-com_silverterrier-interpol-nigeria-bec]]"
+duplicate_reason: same_collection_url
+duplicate_key: "https://cyberscoop.com/silverterrier-interpol-nigeria-bec/"
+duplicate_normalized_at: 2026-04-26
 ---
 
 ## Source

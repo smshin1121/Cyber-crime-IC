@@ -20,6 +20,10 @@ created: 2026-04-17
 defendant_names:
   - "Evan Jaime Hernandez"
 updated: 2026-04-18
+duplicate_of: "[[2022-01-19_cdca_evan-hernandez-dark-web-sentencing]]"
+duplicate_reason: same_collection_url
+duplicate_key: "https://www.justice.gov/usao-cdca/pr/ex-pro-skateboarder-sentenced-over-8-years-prison-selling-methamphetamine-and"
+duplicate_normalized_at: 2026-04-26
 ---
 ## Source Summary
 

@@ -20,6 +20,10 @@ created: 2026-04-18
 defendant_names:
   - "Neal Staton Grubert"
 updated: 2026-04-18
+duplicate_of: "[[2023-11-06_justice-gov_texas-man-sentenced-to-15-years-in-prison-for-advertising-child-pornography]]"
+duplicate_reason: same_collection_url
+duplicate_key: "https://www.justice.gov/usao-ma/pr/texas-man-sentenced-15-years-prison-advertising-child-pornography"
+duplicate_normalized_at: 2026-04-26
 ---
 ## Source Summary
 

@@ -20,6 +20,10 @@ created: 2026-04-18
 updated: 2026-04-18
 defendant_names:
   - "Webster Man"
+duplicate_of: "[[2024-02-26_justice-gov_webster-man-sentenced-to-27-years-for-distributing-receiving-and-possessing-chil]]"
+duplicate_reason: same_collection_url
+duplicate_key: "https://www.justice.gov/usao-mdfl/pr/webster-man-sentenced-27-years-distributing-receiving-and-possessing-child-sexual"
+duplicate_normalized_at: 2026-04-26
 ---
 ## Source Summary
 

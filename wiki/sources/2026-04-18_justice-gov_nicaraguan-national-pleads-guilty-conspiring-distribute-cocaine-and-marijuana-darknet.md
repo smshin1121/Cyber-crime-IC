@@ -20,6 +20,10 @@ created: 2026-04-18
 defendant_names:
   - "Eddy Steven Sandoval Lopez"
 updated: 2026-04-18
+duplicate_of: "[[2019-06-03_justice-gov_nicaraguan-national-pleads-guilty-to-conspiring-to-distribute-cocaine-and-mariju]]"
+duplicate_reason: same_collection_url
+duplicate_key: "https://www.justice.gov/usao-edca/pr/nicaraguan-national-pleads-guilty-conspiring-distribute-cocaine-and-marijuana-darknet"
+duplicate_normalized_at: 2026-04-26
 ---
 ## Source Summary
 

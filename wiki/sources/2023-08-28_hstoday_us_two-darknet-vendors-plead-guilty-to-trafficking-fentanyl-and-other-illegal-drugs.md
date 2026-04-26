@@ -17,6 +17,10 @@ key_findings:
   - "The article emphasized the defendants' use of USPS shipments concealed among discount-store goods and toy packaging."
 collection_url: https://www.hstoday.us/dea/two-darknet-vendors-plead-guilty-to-trafficking-fentanyl-and-other-illegal-drugs/
 created: 2026-04-25
+duplicate_of: "[[2023-08-25_hstoday_two-darknet-vendors-plead-guilty-fentanyl-illegal-drugs]]"
+duplicate_reason: same_collection_url
+duplicate_key: "https://www.hstoday.us/dea/two-darknet-vendors-plead-guilty-to-trafficking-fentanyl-and-other-illegal-drugs/"
+duplicate_normalized_at: 2026-04-26
 ---
 ## Source Summary
 

@@ -20,6 +20,10 @@ created: 2026-04-18
 defendant_names:
   - "Justin Mesael Novoa"
 updated: 2026-04-18
+duplicate_of: "[[2026-01-22_justice-gov_columbus-man-charged-with-threatening-to-kill-federal-agents]]"
+duplicate_reason: same_collection_url
+duplicate_key: "https://www.justice.gov/usao-sdoh/pr/columbus-man-charged-threatening-kill-federal-agents"
+duplicate_normalized_at: 2026-04-26
 ---
 ## Source Summary
 

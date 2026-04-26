@@ -20,6 +20,10 @@ created: 2026-04-18
 updated: 2026-04-18
 defendant_names:
   - "Russian National"
+duplicate_of: "[[2018-11-29_justice-gov_russian-national-charged-in-hacking-scheme-targeting-pittsburgh-national-golf-co]]"
+duplicate_reason: same_collection_url
+duplicate_key: "https://www.justice.gov/usao-wdpa/pr/russian-national-charged-hacking-scheme-targeting-pittsburgh-national-golf-course"
+duplicate_normalized_at: 2026-04-26
 ---
 ## Source Summary
 

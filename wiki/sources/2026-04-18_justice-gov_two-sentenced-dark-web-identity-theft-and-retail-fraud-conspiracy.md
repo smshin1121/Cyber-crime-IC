@@ -18,6 +18,10 @@ key_findings:
 collection_url: https://www.justice.gov/usao-ednc/pr/two-sentenced-dark-web-identity-theft-and-retail-fraud-conspiracy
 created: 2026-04-18
 updated: 2026-04-18
+duplicate_of: "[[2024-11-04_justice-gov_two-sentenced-in-dark-web-identity-theft-and-retail-fraud-conspiracy]]"
+duplicate_reason: same_collection_url
+duplicate_key: "https://www.justice.gov/usao-ednc/pr/two-sentenced-dark-web-identity-theft-and-retail-fraud-conspiracy"
+duplicate_normalized_at: 2026-04-26
 ---
 ## Source Summary
 

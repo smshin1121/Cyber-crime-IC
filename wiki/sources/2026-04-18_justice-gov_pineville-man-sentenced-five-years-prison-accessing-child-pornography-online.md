@@ -20,6 +20,10 @@ created: 2026-04-18
 defendant_names:
   - "Corey Brossette"
 updated: 2026-04-18
+duplicate_of: "[[2018-09-28_justice-gov_pineville-man-sentenced-to-five-years-in-prison-for-accessing-child-pornography]]"
+duplicate_reason: same_collection_url
+duplicate_key: "https://www.justice.gov/usao-wdla/pr/pineville-man-sentenced-five-years-prison-accessing-child-pornography-online"
+duplicate_normalized_at: 2026-04-26
 ---
 ## Source Summary
 

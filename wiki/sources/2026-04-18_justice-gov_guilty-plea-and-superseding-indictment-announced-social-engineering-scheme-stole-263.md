@@ -20,6 +20,10 @@ created: 2026-04-18
 defendant_names:
   - "Evan Tangeman"
 updated: 2026-04-18
+duplicate_of: "[[2025-12-08_justice-gov_guilty-plea-and-superseding-indictment-announced-in-social-engineering-scheme-th]]"
+duplicate_reason: same_collection_url
+duplicate_key: "https://www.justice.gov/usao-dc/pr/guilty-plea-and-superseding-indictment-announced-social-engineering-scheme-stole-263"
+duplicate_normalized_at: 2026-04-26
 ---
 ## Source Summary
 

@@ -16,6 +16,10 @@ key_findings:
   - "IRS-CI parallel agency confirmation"
 collection_url: https://www.irs.gov/compliance/criminal-investigation/tacoma-man-who-persisted-in-drug-trafficking-despite-being-stopped-with-more-than-25-pounds-of-meth-sentenced-to-66-months-in-prison
 created: 2026-04-25
+duplicate_of: "[[2026-01-27_irs-gov_tacoma-man-persisted-drug-trafficking-25-pounds-meth-66-months-irs]]"
+duplicate_reason: same_collection_url
+duplicate_key: "https://www.irs.gov/compliance/criminal-investigation/tacoma-man-who-persisted-in-drug-trafficking-despite-being-stopped-with-more-than-25-pounds-of-meth-sentenced-to-66-months-in-prison"
+duplicate_normalized_at: 2026-04-26
 ---
 ## Source Summary
 

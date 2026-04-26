@@ -20,6 +20,10 @@ created: 2026-04-18
 updated: 2026-04-18
 defendant_names:
   - "Narcotics Traffickers Among Those"
+duplicate_of: "[[2020-09-22_justice-gov_alleged-southern-california-narcotics-traffickers-among-those-charged-in-interna]]"
+duplicate_reason: same_collection_url
+duplicate_key: "https://www.justice.gov/usao-cdca/pr/alleged-southern-california-narcotics-traffickers-among-those-charged-international"
+duplicate_normalized_at: 2026-04-26
 ---
 ## Source Summary
 

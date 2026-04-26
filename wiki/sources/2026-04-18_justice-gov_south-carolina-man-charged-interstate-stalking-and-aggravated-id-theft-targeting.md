@@ -20,6 +20,10 @@ created: 2026-04-18
 defendant_names:
   - "Nathaniel Earl Dunlap"
 updated: 2026-04-18
+duplicate_of: "[[2017-04-17_justice-gov_south-carolina-man-charged-with-interstate-stalking-and-aggravated-id-theft-targ]]"
+duplicate_reason: same_collection_url
+duplicate_key: "https://www.justice.gov/usao-wdpa/pr/south-carolina-man-charged-interstate-stalking-and-aggravated-id-theft-targeting"
+duplicate_normalized_at: 2026-04-26
 ---
 ## Source Summary
 

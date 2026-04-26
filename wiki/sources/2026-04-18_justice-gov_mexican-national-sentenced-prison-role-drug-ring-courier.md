@@ -18,6 +18,10 @@ key_findings:
 collection_url: https://www.justice.gov/usao-wdwa/pr/mexican-national-sentenced-prison-role-drug-ring-courier
 created: 2026-04-18
 updated: 2026-04-18
+duplicate_of: "[[2025-06-24_justice-gov_mexican-national-sentenced-to-prison-for-role-as-drug-ring-courier]]"
+duplicate_reason: same_collection_url
+duplicate_key: "https://www.justice.gov/usao-wdwa/pr/mexican-national-sentenced-prison-role-drug-ring-courier"
+duplicate_normalized_at: 2026-04-26
 ---
 ## Source Summary
 

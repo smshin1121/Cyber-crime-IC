@@ -20,6 +20,10 @@ created: 2026-04-18
 defendant_names:
   - "Krista Renae Stone"
 updated: 2026-04-18
+duplicate_of: "[[2024-08-19_justice-gov_woman-who-used-the-dark-web-to-commit-a-murder-for-hire-to-kill-an-ex-boyfriend]]"
+duplicate_reason: same_collection_url
+duplicate_key: "https://www.justice.gov/usao-ut/pr/woman-who-used-dark-web-commit-murder-hire-kill-ex-boyfriends-new-girlfriend-sentenced"
+duplicate_normalized_at: 2026-04-26
 ---
 ## Source Summary
 

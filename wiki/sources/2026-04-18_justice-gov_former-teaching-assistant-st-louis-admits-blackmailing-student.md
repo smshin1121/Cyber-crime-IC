@@ -20,6 +20,10 @@ created: 2026-04-18
 defendant_names:
   - "Hussein Kadhim Abood Khalaf"
 updated: 2026-04-18
+duplicate_of: "[[2022-12-01_justice-gov_former-teaching-assistant-in-st-louis-admits-blackmailing-student]]"
+duplicate_reason: same_collection_url
+duplicate_key: "https://www.justice.gov/usao-edmo/pr/former-teaching-assistant-st-louis-admits-blackmailing-student"
+duplicate_normalized_at: 2026-04-26
 ---
 ## Source Summary
 

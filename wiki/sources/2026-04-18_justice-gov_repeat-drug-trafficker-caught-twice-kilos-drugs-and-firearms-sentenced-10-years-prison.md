@@ -20,6 +20,10 @@ created: 2026-04-18
 defendant_names:
   - "Ramon Duarte Garcia"
 updated: 2026-04-18
+duplicate_of: "[[2025-05-28_justice-gov_repeat-drug-trafficker-caught-twice-with-kilos-of-drugs-and-firearms-sentenced-t]]"
+duplicate_reason: same_collection_url
+duplicate_key: "https://www.justice.gov/usao-wdwa/pr/repeat-drug-trafficker-caught-twice-kilos-drugs-and-firearms-sentenced-10-years-prison"
+duplicate_normalized_at: 2026-04-26
 ---
 ## Source Summary
 

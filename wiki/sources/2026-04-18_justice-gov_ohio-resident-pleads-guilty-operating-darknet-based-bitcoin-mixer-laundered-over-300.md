@@ -20,6 +20,10 @@ created: 2026-04-18
 defendant_names:
   - "Larry Dean Harmon"
 updated: 2026-04-18
+duplicate_of: "[[2021-08-18_justice-gov_ohio-resident-pleads-guilty-to-operating-darknet-based-bitcoin-mixer-that-launde]]"
+duplicate_reason: same_collection_url
+duplicate_key: "https://www.justice.gov/usao-dc/pr/ohio-resident-pleads-guilty-operating-darknet-based-bitcoin-mixer-laundered-over-300"
+duplicate_normalized_at: 2026-04-26
 ---
 ## Source Summary
 

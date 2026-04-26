@@ -20,6 +20,10 @@ created: 2026-04-18
 updated: 2026-04-18
 defendant_names:
   - "Guam Meth Trafficker"
+duplicate_of: "[[2025-07-16_justice-gov_guam-meth-trafficker-sentenced-to-135-months-in-federal-prison]]"
+duplicate_reason: same_collection_url
+duplicate_key: "https://www.justice.gov/usao-gu/pr/guam-meth-trafficker-sentenced-135-months-federal-prison"
+duplicate_normalized_at: 2026-04-26
 ---
 ## Source Summary
 

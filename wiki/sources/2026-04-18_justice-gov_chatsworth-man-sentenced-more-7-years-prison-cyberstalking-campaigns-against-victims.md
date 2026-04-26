@@ -20,6 +20,10 @@ created: 2026-04-18
 defendant_names:
   - "Alex Scott Roberts"
 updated: 2026-04-18
+duplicate_of: "[[2023-02-24_justice-gov_chatsworth-man-sentenced-to-more-than-7-years-in-prison-for-cyberstalking-campai]]"
+duplicate_reason: same_collection_url
+duplicate_key: "https://www.justice.gov/usao-cdca/pr/chatsworth-man-sentenced-more-7-years-prison-cyberstalking-campaigns-against-victims"
+duplicate_normalized_at: 2026-04-26
 ---
 ## Source Summary
 

@@ -17,6 +17,10 @@ key_findings:
   - "A criminal group suspected of running an online fraud scheme in Germany has been dismantled following judicial cooperation coordinated by Eurojust. The group is suspected of having defrauded victims of around EUR 1 million. As the alleged leader of the group was based in France, judicial cooperation was essential to stop the criminal group’s activities. *자동 수집됨. 파이프라인(`/ic-pipeline` 또는 `/ic-update`)을 실행하여 분류·평가·통합하세요.*"
 collection_url: https://www.eurojust.europa.eu/news/judicial-cooperation-key-arresting-leaders-online-fraud-group
 created: 2026-04-17
+duplicate_of: "[[2026-03-11-eurojust-de-fr-online-fraud-group]]"
+duplicate_reason: same_collection_url
+duplicate_key: "https://www.eurojust.europa.eu/news/judicial-cooperation-key-arresting-leaders-online-fraud-group"
+duplicate_normalized_at: 2026-04-26
 ---
 ## Source Summary
 

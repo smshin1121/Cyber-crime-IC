@@ -16,6 +16,10 @@ key_findings:
   - "Sentencing-day coverage; 4-year sentence."
 collection_url: https://www.thedailybeast.com/ex-senate-staffer-jackson-cosko-sentenced-to-4-years-for-doxxing-five-senators/
 created: 2026-04-25
+duplicate_of: "[[2019-06-19_thedailybeast_ex-senate-staffer-jackson-cosko-sentenced-4-years-doxxing-five-senators]]"
+duplicate_reason: same_collection_url
+duplicate_key: "https://www.thedailybeast.com/ex-senate-staffer-jackson-cosko-sentenced-to-4-years-for-doxxing-five-senators/"
+duplicate_normalized_at: 2026-04-26
 ---
 ## Source Summary
 

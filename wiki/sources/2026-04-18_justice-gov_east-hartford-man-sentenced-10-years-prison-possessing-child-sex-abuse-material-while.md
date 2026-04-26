@@ -20,6 +20,10 @@ created: 2026-04-18
 updated: 2026-04-18
 defendant_names:
   - "East Hartford Man"
+duplicate_of: "[[2026-01-27_justice-gov_east-hartford-man-sentenced-to-10-years-in-prison-for-possessing-child-sex-abuse]]"
+duplicate_reason: same_collection_url
+duplicate_key: "https://www.justice.gov/usao-ct/pr/east-hartford-man-sentenced-10-years-prison-possessing-child-sex-abuse-material-while"
+duplicate_normalized_at: 2026-04-26
 ---
 ## Source Summary
 

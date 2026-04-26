@@ -17,6 +17,10 @@ key_findings:
   - "10-felony original indictment April 2023"
 collection_url: https://www.justice.gov/usao-wdwa/pr/bremerton-washington-man-indicted-three-month-swatting-campaign-threatened-victims
 created: 2026-04-25
+duplicate_of: "[[2023-03-30_justice-gov_bremerton-washington-man-indicted-for-three-month-swatting-campaign-that-threate]]"
+duplicate_reason: same_collection_url
+duplicate_key: "https://www.justice.gov/usao-wdwa/pr/bremerton-washington-man-indicted-three-month-swatting-campaign-threatened-victims"
+duplicate_normalized_at: 2026-04-26
 ---
 ## Source Summary
 

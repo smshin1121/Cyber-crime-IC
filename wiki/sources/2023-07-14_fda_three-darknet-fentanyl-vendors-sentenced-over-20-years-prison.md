@@ -18,6 +18,10 @@ key_findings:
   - "Dittman 60 months, Schiffner 150 months, Langer 84 months."
 collection_url: https://www.fda.gov/inspections-compliance-enforcement-and-criminal-investigations/doj-press-releases-involving-fda-oci/three-darknet-fentanyl-vendors-sentenced-over-20-years-prison
 created: 2026-04-25
+duplicate_of: "[[2023-07-14_fda-gov_three-darknet-fentanyl-vendors-sentenced-over-20-years-prison]]"
+duplicate_reason: same_collection_url
+duplicate_key: "https://www.fda.gov/inspections-compliance-enforcement-and-criminal-investigations/doj-press-releases-involving-fda-oci/three-darknet-fentanyl-vendors-sentenced-over-20-years-prison"
+duplicate_normalized_at: 2026-04-26
 ---
 ## Source Summary
 

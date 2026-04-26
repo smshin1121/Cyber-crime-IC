@@ -21,6 +21,10 @@ defendant_names:
   - "Argishti Khudaverdyan"
   - "Eagle Rock"
 updated: 2026-04-18
+duplicate_of: "[[2022-12-12_justice-gov_former-mobile-phone-store-owner-sentenced-to-10-years-in-federal-prison-for-mult]]"
+duplicate_reason: same_collection_url
+duplicate_key: "https://www.justice.gov/usao-cdca/pr/former-mobile-phone-store-owner-sentenced-10-years-federal-prison-multimillion-dollar"
+duplicate_normalized_at: 2026-04-26
 ---
 ## Source Summary
 

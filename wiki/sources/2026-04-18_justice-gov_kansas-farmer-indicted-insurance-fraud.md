@@ -18,6 +18,10 @@ key_findings:
 collection_url: https://www.justice.gov/usao-ks/pr/kansas-farmer-indicted-insurance-fraud
 created: 2026-04-18
 updated: 2026-04-18
+duplicate_of: "[[2025-11-26_justice-gov_kansas-farmer-indicted-for-insurance-fraud]]"
+duplicate_reason: same_collection_url
+duplicate_key: "https://www.justice.gov/usao-ks/pr/kansas-farmer-indicted-insurance-fraud"
+duplicate_normalized_at: 2026-04-26
 ---
 ## Source Summary
 

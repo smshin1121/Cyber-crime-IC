@@ -18,6 +18,10 @@ key_findings:
 collection_url: https://www.justice.gov/usao-ct/pr/thompson-man-who-downloaded-child-sex-abuse-images-internet-sentenced
 created: 2026-04-18
 updated: 2026-04-18
+duplicate_of: "[[2022-03-04_justice-gov_thompson-man-who-downloaded-child-sex-abuse-images-from-the-internet-is-sentence]]"
+duplicate_reason: same_collection_url
+duplicate_key: "https://www.justice.gov/usao-ct/pr/thompson-man-who-downloaded-child-sex-abuse-images-internet-sentenced"
+duplicate_normalized_at: 2026-04-26
 ---
 ## Source Summary
 

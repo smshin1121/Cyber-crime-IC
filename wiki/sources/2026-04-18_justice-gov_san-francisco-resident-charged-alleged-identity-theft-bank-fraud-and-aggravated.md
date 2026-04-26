@@ -21,6 +21,10 @@ defendant_names:
   - "In Alleged Identity Theft"
   - "San Francisco Resident"
 updated: 2026-04-18
+duplicate_of: "[[2015-09-12_justice-gov_san-francisco-resident-charged-in-alleged-identity-theft-bank-fraud-and-aggravat]]"
+duplicate_reason: same_collection_url
+duplicate_key: "https://www.justice.gov/usao-ndca/pr/san-francisco-resident-charged-alleged-identity-theft-bank-fraud-and-aggravated"
+duplicate_normalized_at: 2026-04-26
 ---
 ## Source Summary
 

@@ -20,6 +20,10 @@ created: 2026-04-17
 defendant_names:
   - "Igor Turashev"
 updated: 2026-04-18
+duplicate_of: "[[2019-12-05_justice-gov_russian-national-charged-with-decade-long-series-of-hacking-and-bank-fraud-offen]]"
+duplicate_reason: same_collection_url
+duplicate_key: "https://www.justice.gov/archives/opa/pr/russian-national-charged-decade-long-series-hacking-and-bank-fraud-offenses-resulting-tens"
+duplicate_normalized_at: 2026-04-26
 ---
 ## Source Summary
 

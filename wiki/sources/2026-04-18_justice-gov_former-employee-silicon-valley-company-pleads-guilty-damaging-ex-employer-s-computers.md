@@ -20,6 +20,10 @@ created: 2026-04-18
 defendant_names:
   - "Kenneth Kezeor"
 updated: 2026-04-18
+duplicate_of: "[[2016-06-09_justice-gov_former-employee-of-silicon-valley-company-pleads-guilty-to-damaging-ex-employer]]"
+duplicate_reason: same_collection_url
+duplicate_key: "https://www.justice.gov/usao-ndca/pr/former-employee-silicon-valley-company-pleads-guilty-damaging-ex-employer-s-computers"
+duplicate_normalized_at: 2026-04-26
 ---
 ## Source Summary
 

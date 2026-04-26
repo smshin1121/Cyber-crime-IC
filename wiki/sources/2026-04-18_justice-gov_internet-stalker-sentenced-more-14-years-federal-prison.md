@@ -20,6 +20,10 @@ created: 2026-04-18
 defendant_names:
   - "Internet Stalker"
 updated: 2026-04-18
+duplicate_of: "[[2019-01-25_justice-gov_internet-stalker-sentenced-to-more-than-14-years-in-federal-prison]]"
+duplicate_reason: same_collection_url
+duplicate_key: "https://www.justice.gov/usao-co/pr/internet-stalker-sentenced-more-14-years-federal-prison"
+duplicate_normalized_at: 2026-04-26
 ---
 ## Source Summary
 

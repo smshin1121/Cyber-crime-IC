@@ -20,6 +20,10 @@ created: 2026-04-17
 defendant_names:
   - "Holly Adams"
 updated: 2026-04-18
+duplicate_of: "[[2025-06-03_edca_holly-adams-dark-web-fentanyl-sentencing]]"
+duplicate_reason: same_collection_url
+duplicate_key: "https://www.justice.gov/usao-edca/pr/dark-web-fentanyl-dealer-sentenced-federal-prison"
+duplicate_normalized_at: 2026-04-26
 ---
 ## Source Summary
 

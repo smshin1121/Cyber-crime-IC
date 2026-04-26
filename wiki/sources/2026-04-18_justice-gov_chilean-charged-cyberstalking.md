@@ -20,6 +20,10 @@ created: 2026-04-18
 defendant_names:
   - "Oscar Gabriel Rojas Urquieta"
 updated: 2026-04-18
+duplicate_of: "[[2017-03-15_justice-gov_chilean-charged-with-cyberstalking]]"
+duplicate_reason: same_collection_url
+duplicate_key: "https://www.justice.gov/usao-wdpa/pr/chilean-charged-cyberstalking"
+duplicate_normalized_at: 2026-04-26
 ---
 ## Source Summary
 

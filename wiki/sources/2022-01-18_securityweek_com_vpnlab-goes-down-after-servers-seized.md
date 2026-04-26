@@ -20,6 +20,10 @@ key_findings:
   - "The article repeated the Europol figures of 15 seized servers, ten countries involved and at least EUR 60 million in associated losses."
   - "It also noted the expected use of seized customer data for victim notification and follow-on cases."
 created: 2026-04-18
+duplicate_of: "[[2022-01-18_securityweek-com_vpnlab-goes-down-after-servers-seized-in-law-enforcement-operation]]"
+duplicate_reason: same_collection_url
+duplicate_key: "https://www.securityweek.com/vpnlab-goes-down-after-servers-seized-law-enforcement-operation/"
+duplicate_normalized_at: 2026-04-26
 ---
 ## Source Summary
 

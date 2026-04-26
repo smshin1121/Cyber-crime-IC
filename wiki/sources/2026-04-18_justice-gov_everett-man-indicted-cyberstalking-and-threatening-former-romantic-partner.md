@@ -20,6 +20,10 @@ created: 2026-04-18
 defendant_names:
   - "Christopher Scott Crawford"
 updated: 2026-04-18
+duplicate_of: "[[2022-06-16_justice-gov_everett-man-indicted-for-cyberstalking-and-threatening-former-romantic-partner]]"
+duplicate_reason: same_collection_url
+duplicate_key: "https://www.justice.gov/usao-wdwa/pr/everett-man-indicted-cyberstalking-and-threatening-former-romantic-partner"
+duplicate_normalized_at: 2026-04-26
 ---
 ## Source Summary
 

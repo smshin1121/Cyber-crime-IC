@@ -20,6 +20,10 @@ key_findings:
   - "The admitted indictment concerned the operation of the so-called CyberBunker in Traben-Trarbach and scheduled the main hearing to begin on 19 October 2020."
   - "This source is the clearest public judicial anchor for the transition from investigation to formal prosecution."
 created: 2026-04-18
+duplicate_of: "[[2020-07-21_lgtr-justiz-rlp-de_anklage-gegen-acht-angeklagte-im-verfahren-um-den-sogenannten-cyberbunker-in-tra]]"
+duplicate_reason: same_collection_url
+duplicate_key: "https://lgtr.justiz.rlp.de/presse-aktuelles/detail/anklage-gegen-acht-angeklagte-im-verfahren-um-den-sogenannten-cyberbunker-in-traben-trarbach-zugelassen"
+duplicate_normalized_at: 2026-04-26
 ---
 ## Source Summary
 

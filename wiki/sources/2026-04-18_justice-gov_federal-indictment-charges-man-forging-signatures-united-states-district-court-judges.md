@@ -20,6 +20,10 @@ created: 2026-04-18
 updated: 2026-04-18
 defendant_names:
   - "Charges Man"
+duplicate_of: "[[2025-09-25_justice-gov_federal-indictment-charges-man-with-forging-signatures-of-united-states-district]]"
+duplicate_reason: same_collection_url
+duplicate_key: "https://www.justice.gov/usao-ndil/pr/federal-indictment-charges-man-forging-signatures-united-states-district-court-judges"
+duplicate_normalized_at: 2026-04-26
 ---
 ## Source Summary
 

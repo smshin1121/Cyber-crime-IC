@@ -20,6 +20,10 @@ created: 2026-04-18
 updated: 2026-04-18
 defendant_names:
   - "District Man"
+duplicate_of: "[[2018-10-04_justice-gov_district-man-charged-in-investigation-of-illegal-posting-of-restricted-personal]]"
+duplicate_reason: same_collection_url
+duplicate_key: "https://www.justice.gov/usao-dc/pr/restricted-personal-information-us-senators-website"
+duplicate_normalized_at: 2026-04-26
 ---
 ## Source Summary
 

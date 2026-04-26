@@ -20,6 +20,10 @@ created: 2026-04-18
 defendant_names:
   - "Tanisha Spencer"
 updated: 2026-04-18
+duplicate_of: "[[2025-05-22_justice-gov_kansas-city-woman-indicted-for-fraudulent-tax-returns]]"
+duplicate_reason: same_collection_url
+duplicate_key: "https://www.justice.gov/usao-wdmo/pr/kansas-city-woman-indicted-fraudulent-tax-returns"
+duplicate_normalized_at: 2026-04-26
 ---
 ## Source Summary
 

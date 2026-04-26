@@ -17,6 +17,10 @@ key_findings:
   - "This domestic-only U.S. follow-on record has been absorbed into the canonical case page [[new-york-man-sentenced-to-54-months-in-prison-for-selling-counterfeit-xanax-on-dark-web]]. No visible cross-border mechanism is documented, so it is not treated as a separate international-cooperation operation."
 collection_url: https://www.justice.gov/usao-edmo/pr/new-york-man-sentenced-54-months-prison-selling-counterfeit-xanax-dark-web
 created: 2026-04-17
+duplicate_of: "[[2025-11-18_edmo_john-cruz-dark-web-sentencing]]"
+duplicate_reason: same_collection_url
+duplicate_key: "https://www.justice.gov/usao-edmo/pr/new-york-man-sentenced-54-months-prison-selling-counterfeit-xanax-dark-web"
+duplicate_normalized_at: 2026-04-26
 ---
 ## Source Summary
 

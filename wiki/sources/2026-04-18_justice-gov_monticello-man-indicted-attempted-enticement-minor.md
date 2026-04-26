@@ -18,6 +18,10 @@ key_findings:
 collection_url: https://www.justice.gov/usao-ndfl/pr/monticello-man-indicted-attempted-enticement-minor
 created: 2026-04-18
 updated: 2026-04-18
+duplicate_of: "[[2025-08-27_justice-gov_monticello-man-indicted-for-attempted-enticement-of-a-minor]]"
+duplicate_reason: same_collection_url
+duplicate_key: "https://www.justice.gov/usao-ndfl/pr/monticello-man-indicted-attempted-enticement-minor"
+duplicate_normalized_at: 2026-04-26
 ---
 ## Source Summary
 

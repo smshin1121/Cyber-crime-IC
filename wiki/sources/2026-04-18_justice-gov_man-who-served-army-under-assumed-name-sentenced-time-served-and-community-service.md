@@ -20,6 +20,10 @@ created: 2026-04-18
 defendant_names:
   - "Antonio Barner"
 updated: 2026-04-18
+duplicate_of: "[[2022-09-06_justice-gov_man-who-served-in-army-under-an-assumed-name-sentenced-to-time-served-and-commun]]"
+duplicate_reason: same_collection_url
+duplicate_key: "https://www.justice.gov/usao-edmo/pr/man-who-served-army-under-assumed-name-sentenced-time-served-and-community-service"
+duplicate_normalized_at: 2026-04-26
 ---
 ## Source Summary
 

@@ -20,6 +20,10 @@ created: 2026-04-18
 updated: 2026-04-18
 defendant_names:
   - "Charges Hartford Man"
+duplicate_of: "[[2025-09-30_justice-gov_indictment-charges-hartford-man-on-federal-supervised-release-with-illegally-pos]]"
+duplicate_reason: same_collection_url
+duplicate_key: "https://www.justice.gov/usao-ct/pr/indictment-charges-hartford-man-federal-supervised-release-illegally-possessing-loaded"
+duplicate_normalized_at: 2026-04-26
 ---
 ## Source Summary
 

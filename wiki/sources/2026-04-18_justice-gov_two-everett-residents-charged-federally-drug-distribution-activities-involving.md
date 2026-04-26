@@ -21,6 +21,10 @@ defendant_names:
   - "Santana Sandoval"
   - "Defendant Kevin Torres Velasquez"
 updated: 2026-04-18
+duplicate_of: "[[2025-05-09_justice-gov_two-everett-residents-charged-federally-for-drug-distribution-activities-involvi]]"
+duplicate_reason: same_collection_url
+duplicate_key: "https://www.justice.gov/usao-wdwa/pr/two-everett-residents-charged-federally-drug-distribution-activities-involving"
+duplicate_normalized_at: 2026-04-26
 ---
 ## Source Summary
 

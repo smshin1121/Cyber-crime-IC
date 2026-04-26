@@ -21,6 +21,10 @@ key_findings:
   - "The article helps corroborate the DOJ description in an independent news source."
 created: 2026-04-18
 updated: 2026-04-18
+duplicate_of: "[[2024-06-05_apnews-com_washington-man-sentenced-for-20-swatting-calls-of-false-threats-in-us-canada]]"
+duplicate_reason: same_collection_url
+duplicate_key: "https://apnews.com/article/a8466da4c16c863fc1eb82ed6ad77b55"
+duplicate_normalized_at: 2026-04-26
 ---
 ## Source Summary
 

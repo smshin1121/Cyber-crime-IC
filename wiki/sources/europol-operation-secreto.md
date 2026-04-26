@@ -24,6 +24,10 @@ key_findings:
   - "Geographic footprint of arrests: Austria, Spain, Greece, UK, with money laundering networks spanning multiple EU states — illustrating a rare Europol-led operation involving US Secret Service as a core partner in a transatlantic financial-crime case"
 created: 2026-04-08
 updated: 2026-04-10
+duplicate_of: "[[2021-02-01_europol-europa-eu_105-arrested-for-stealing-over-eur-12-million-from-us-based-banks]]"
+duplicate_reason: same_collection_url
+duplicate_key: "https://www.europol.europa.eu/media-press/newsroom/news/105-arrested-for-stealing-over-%E2%82%AC12-million-us-based-banks"
+duplicate_normalized_at: 2026-04-26
 ---
 
 ## Source

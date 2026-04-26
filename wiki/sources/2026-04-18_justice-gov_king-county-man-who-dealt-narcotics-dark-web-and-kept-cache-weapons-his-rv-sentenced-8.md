@@ -18,6 +18,10 @@ key_findings:
 collection_url: https://www.justice.gov/usao-wdwa/pr/king-county-man-who-dealt-narcotics-dark-web-and-kept-cache-weapons-his-rv-sentenced-8
 created: 2026-04-18
 updated: 2026-04-18
+duplicate_of: "[[2025-02-25_justice-gov_king-county-man-who-dealt-narcotics-on-the-dark-web-and-kept-a-cache-of-weapons]]"
+duplicate_reason: same_collection_url
+duplicate_key: "https://www.justice.gov/usao-wdwa/pr/king-county-man-who-dealt-narcotics-dark-web-and-kept-cache-weapons-his-rv-sentenced-8"
+duplicate_normalized_at: 2026-04-26
 ---
 ## Source Summary
 

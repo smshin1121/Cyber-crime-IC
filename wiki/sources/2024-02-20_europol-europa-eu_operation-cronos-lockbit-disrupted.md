@@ -17,6 +17,10 @@ key_findings:
   - "Source referenced by ic-statistics-dashboard."
 collection_url: https://www.europol.europa.eu/media-press/newsroom/news/law-enforcement-disrupt-worlds-biggest-ransomware-operation
 created: 2026-04-17
+duplicate_of: "[[2024-02-20-europol-operation-cronos-lockbit]]"
+duplicate_reason: same_collection_url
+duplicate_key: "https://www.europol.europa.eu/media-press/newsroom/news/law-enforcement-disrupt-worlds-biggest-ransomware-operation"
+duplicate_normalized_at: 2026-04-26
 ---
 ## Source Summary
 

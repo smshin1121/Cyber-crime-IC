@@ -17,6 +17,10 @@ key_findings:
   - "Identifies IRS-CI as a lead investigative agency alongside FBI in the Trade Coin Club (TCC) Ponzi investigation."
 collection_url: https://www.irs.gov/compliance/criminal-investigation/brazilian-extradited-from-switzerland-to-the-united-states-to-face-indictment-charging-involvement-in-290m-plus-cryptocurrency-fraud-scheme
 created: 2026-04-25
+duplicate_of: "[[2025-02-21_irs-gov-ci_brazilian-extradited-from-switzerland-to-the-united-states-290m-cryptocurrency-fraud]]"
+duplicate_reason: same_collection_url
+duplicate_key: "https://www.irs.gov/compliance/criminal-investigation/brazilian-extradited-from-switzerland-to-the-united-states-to-face-indictment-charging-involvement-in-290m-plus-cryptocurrency-fraud-scheme"
+duplicate_normalized_at: 2026-04-26
 ---
 ## Source Summary
 

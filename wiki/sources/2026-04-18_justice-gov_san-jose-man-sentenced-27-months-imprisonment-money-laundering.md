@@ -20,6 +20,10 @@ created: 2026-04-18
 defendant_names:
   - "Maxito Pean"
 updated: 2026-04-18
+duplicate_of: "[[2016-05-27_justice-gov_san-jose-man-sentenced-to-27-months-imprisonment-for-money-laundering]]"
+duplicate_reason: same_collection_url
+duplicate_key: "https://www.justice.gov/usao-ndca/pr/san-jose-man-sentenced-27-months-imprisonment-money-laundering"
+duplicate_normalized_at: 2026-04-26
 ---
 ## Source Summary
 

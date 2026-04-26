@@ -18,6 +18,10 @@ key_findings:
   - "Confirms $13,000 restitution and forfeiture of electronic devices."
 collection_url: https://www.shorenewsnetwork.com/2021/07/01/lakeland-man-sentenced-to-more-than-9-years-in-federal-prison-for-downloading-and-possessing-child-sex-abuse-videos-from-the-darkweb/
 created: 2026-04-25
+duplicate_of: "[[2021-07-01_shorenewsnetwork_lakeland-man-sentenced-9-years-darkweb-csam]]"
+duplicate_reason: same_collection_url
+duplicate_key: "https://www.shorenewsnetwork.com/2021/07/01/lakeland-man-sentenced-to-more-than-9-years-in-federal-prison-for-downloading-and-possessing-child-sex-abuse-videos-from-the-darkweb/"
+duplicate_normalized_at: 2026-04-26
 ---
 ## Source Summary
 

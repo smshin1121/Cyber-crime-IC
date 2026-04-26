@@ -20,6 +20,10 @@ created: 2026-04-18
 defendant_names:
   - "Mihai Alexandru Isvanca"
 updated: 2026-04-18
+duplicate_of: "[[2018-09-20_justice-gov_romanian-woman-pleads-guilty-to-federal-charges-in-hacking-of-metropolitan-polic]]"
+duplicate_reason: same_collection_url
+duplicate_key: "https://www.justice.gov/usao-dc/pr/romanian-woman-pleads-guilty-federal-charges-hacking-metropolitan-police-department"
+duplicate_normalized_at: 2026-04-26
 ---
 ## Source Summary
 

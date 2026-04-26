@@ -20,6 +20,10 @@ created: 2026-04-17
 defendant_names:
   - "Dark Web Vendor"
 updated: 2026-04-18
+duplicate_of: "[[2018-07-13_justice-gov_dark-web-vendor-sentenced-to-108-months-in-prison-for-narcotics-trafficking-and]]"
+duplicate_reason: same_collection_url
+duplicate_key: "https://www.justice.gov/usao-sdfl/pr/dark-web-vendor-sentenced-108-months-prison-narcotics-trafficking-and-money-laundering"
+duplicate_normalized_at: 2026-04-26
 ---
 ## Source Summary
 

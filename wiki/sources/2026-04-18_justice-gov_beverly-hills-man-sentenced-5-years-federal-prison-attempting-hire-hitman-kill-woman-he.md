@@ -20,6 +20,10 @@ created: 2026-04-18
 defendant_names:
   - "Scott Quinn Berkett"
 updated: 2026-04-18
+duplicate_of: "[[2022-09-12_justice-gov_beverly-hills-man-sentenced-to-5-years-in-federal-prison-for-attempting-to-hire]]"
+duplicate_reason: same_collection_url
+duplicate_key: "https://www.justice.gov/usao-cdca/pr/beverly-hills-man-sentenced-5-years-federal-prison-attempting-hire-hitman-kill-woman-he"
+duplicate_normalized_at: 2026-04-26
 ---
 ## Source Summary
 

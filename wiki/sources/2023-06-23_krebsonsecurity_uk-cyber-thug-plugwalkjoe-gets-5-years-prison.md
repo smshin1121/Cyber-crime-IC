@@ -18,6 +18,10 @@ key_findings:
   - "KrebsOnSecurity confirms defendant identity (Joseph James O'Connor / PlugwalkJoe), 5-year sentence, and provides historical background on his role in OGUsers SIM-swap community."
 collection_url: https://krebsonsecurity.com/2023/06/u-k-cyber-thug-plugwalkjoe-gets-5-years-in-prison/
 created: 2026-04-25
+duplicate_of: "[[2023-06-23_krebsonsecurity_uk-cyber-thug-plugwalkjoe-gets-5-years-in-prison]]"
+duplicate_reason: same_collection_url
+duplicate_key: "https://krebsonsecurity.com/2023/06/u-k-cyber-thug-plugwalkjoe-gets-5-years-in-prison/"
+duplicate_normalized_at: 2026-04-26
 ---
 ## Source Summary
 

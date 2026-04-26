@@ -16,6 +16,10 @@ key_findings:
   - "Tier-1 national newspaper coverage; OnlyTheFinest darknet moniker confirmed."
 collection_url: https://www.washingtonpost.com/dc-md-va/2022/05/26/virginia-fentanyl-plea/
 created: 2026-04-25
+duplicate_of: "[[2022-05-26_washingtonpost_com_fentanyl-dealer-pleads-guilty-in-virginia-after-online-drug-bust]]"
+duplicate_reason: same_collection_url
+duplicate_key: "https://www.washingtonpost.com/dc-md-va/2022/05/26/virginia-fentanyl-plea/"
+duplicate_normalized_at: 2026-04-26
 ---
 ## Source Summary
 

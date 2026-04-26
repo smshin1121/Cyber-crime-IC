@@ -21,6 +21,10 @@ key_findings:
   - "The page identifies Division CC - Cybercrime as the unit responsible for cybercrime suppression and notes the BKA role in darknet investigations and international 24/7 cooperation."
   - "The page confirms that the National Point of Contact for Anti-Cybercrime Cooperation sits within Division CC."
 created: 2026-04-18
+duplicate_of: "[[2026-04-18_bka-de_bka-cybercrime]]"
+duplicate_reason: same_collection_url
+duplicate_key: "https://www.bka.de/EN/OurTasks/AreasOfCrime/Cybercrime/cybercrime_node.html"
+duplicate_normalized_at: 2026-04-26
 ---
 ## Source Summary
 

@@ -21,6 +21,10 @@ updated: 2026-04-18
 defendant_names:
   - "Following Seizure And Forfeiture"
   - "Dark Web Fraud Defendant"
+duplicate_of: "[[2023-04-14_justice-gov_silk-road-dark-web-fraud-defendant-sentenced-following-seizure-and-forfeiture-of]]"
+duplicate_reason: same_collection_url
+duplicate_key: "https://www.justice.gov/usao-sdny/pr/silk-road-dark-web-fraud-defendant-sentenced-following-seizure-and-forfeiture-over-34"
+duplicate_normalized_at: 2026-04-26
 ---
 ## Source Summary
 

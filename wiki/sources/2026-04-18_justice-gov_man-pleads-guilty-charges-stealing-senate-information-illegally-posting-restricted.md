@@ -20,6 +20,10 @@ created: 2026-04-18
 updated: 2026-04-18
 defendant_names:
   - "Stealing Senate Information"
+duplicate_of: "[[2019-04-05_justice-gov_man-pleads-guilty-to-charges-of-stealing-senate-information-illegally-posting-re]]"
+duplicate_reason: same_collection_url
+duplicate_key: "https://www.justice.gov/usao-dc/pr/man-pleads-guilty-charges-stealing-senate-information-illegally-posting-restricted"
+duplicate_normalized_at: 2026-04-26
 ---
 ## Source Summary
 

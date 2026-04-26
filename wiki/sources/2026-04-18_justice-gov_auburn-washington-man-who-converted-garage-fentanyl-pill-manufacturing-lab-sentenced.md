@@ -20,6 +20,10 @@ created: 2026-04-18
 defendant_names:
   - "Johnny Elias"
 updated: 2026-04-18
+duplicate_of: "[[2025-07-29_justice-gov_auburn-washington-man-who-converted-garage-to-a-fentanyl-pill-manufacturing-lab]]"
+duplicate_reason: same_collection_url
+duplicate_key: "https://www.justice.gov/usao-wdwa/pr/auburn-washington-man-who-converted-garage-fentanyl-pill-manufacturing-lab-sentenced"
+duplicate_normalized_at: 2026-04-26
 ---
 ## Source Summary
 

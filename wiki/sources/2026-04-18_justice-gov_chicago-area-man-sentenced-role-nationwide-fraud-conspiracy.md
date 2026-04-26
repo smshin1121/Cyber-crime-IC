@@ -20,6 +20,10 @@ created: 2026-04-18
 defendant_names:
   - "Demario Sorrells"
 updated: 2026-04-18
+duplicate_of: "[[2024-08-30_justice-gov_chicago-area-man-sentenced-for-role-in-nationwide-fraud-conspiracy]]"
+duplicate_reason: same_collection_url
+duplicate_key: "https://www.justice.gov/usao-ma/pr/chicago-area-man-sentenced-role-nationwide-fraud-conspiracy"
+duplicate_normalized_at: 2026-04-26
 ---
 ## Source Summary
 

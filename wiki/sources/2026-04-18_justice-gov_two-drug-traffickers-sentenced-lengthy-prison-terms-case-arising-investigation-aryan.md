@@ -18,6 +18,10 @@ key_findings:
 collection_url: https://www.justice.gov/usao-wdwa/pr/two-drug-traffickers-sentenced-lengthy-prison-terms-case-arising-investigation-aryan
 created: 2026-04-18
 updated: 2026-04-18
+duplicate_of: "[[2024-09-13_justice-gov_two-drug-traffickers-sentenced-to-lengthy-prison-terms-in-case-arising-from-inve]]"
+duplicate_reason: same_collection_url
+duplicate_key: "https://www.justice.gov/usao-wdwa/pr/two-drug-traffickers-sentenced-lengthy-prison-terms-case-arising-investigation-aryan"
+duplicate_normalized_at: 2026-04-26
 ---
 ## Source Summary
 

@@ -20,6 +20,10 @@ created: 2026-04-18
 defendant_names:
   - "Jeremy Daniel Singer"
 updated: 2026-04-18
+duplicate_of: "[[2019-08-08_justice-gov_tulsa-man-who-fled-from-smuggling-charge-pleads-guilty]]"
+duplicate_reason: same_collection_url
+duplicate_key: "https://www.justice.gov/usao-ndok/pr/tulsa-man-who-fled-smuggling-charge-pleads-guilty"
+duplicate_normalized_at: 2026-04-26
 ---
 ## Source Summary
 

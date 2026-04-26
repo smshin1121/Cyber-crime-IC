@@ -21,6 +21,10 @@ defendant_names:
   - "Adan Ruiz"
   - "Omar Navia"
 updated: 2026-04-18
+duplicate_of: "[[2025-01-13_cdca_ruiz-navia-darknet-sentencing]]"
+duplicate_reason: same_collection_url
+duplicate_key: "https://www.justice.gov/usao-cdca/pr/two-southern-california-men-who-supplied-fentanyl-sold-darknet-customers-all-50-states"
+duplicate_normalized_at: 2026-04-26
 ---
 ## Source Summary
 

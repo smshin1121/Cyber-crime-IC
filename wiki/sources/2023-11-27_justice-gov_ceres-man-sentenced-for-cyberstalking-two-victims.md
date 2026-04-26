@@ -17,6 +17,10 @@ key_findings:
   - "This domestic-only U.S. follow-on record has been absorbed into the canonical case page [[us-v-kevin-james-strutz]]. No visible cross-border mechanism is documented, so it is not treated as a separate international-cooperation operation."
 collection_url: https://www.justice.gov/usao-edca/pr/ceres-man-sentenced-cyberstalking-two-victims
 created: 2026-04-17
+duplicate_of: "[[2023-11-13_justice-gov_ceres-man-sentenced-cyberstalking-two-victims]]"
+duplicate_reason: same_collection_url
+duplicate_key: "https://www.justice.gov/usao-edca/pr/ceres-man-sentenced-cyberstalking-two-victims"
+duplicate_normalized_at: 2026-04-26
 ---
 ## Source Summary
 

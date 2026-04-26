@@ -21,6 +21,10 @@ defendant_names:
   - "To More Than"
   - "Nigerian National"
 updated: 2026-04-18
+duplicate_of: "[[2024-07-23_justice-gov_nigerian-national-sentenced-to-more-than-12-years-in-federal-prison-for-cyber-sc]]"
+duplicate_reason: same_collection_url
+duplicate_key: "https://www.justice.gov/usao-mdfl/pr/nigerian-national-sentenced-more-12-years-federal-prison-cyber-scams"
+duplicate_normalized_at: 2026-04-26
 ---
 ## Source Summary
 

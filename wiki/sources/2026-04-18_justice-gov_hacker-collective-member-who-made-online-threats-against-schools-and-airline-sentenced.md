@@ -20,6 +20,10 @@ created: 2026-04-18
 defendant_names:
   - "Timothy Dalton Vaughn"
 updated: 2026-04-18
+duplicate_of: "[[2020-11-30_justice-gov_hacker-collective-member-who-made-online-threats-against-schools-and-airline-sen]]"
+duplicate_reason: same_collection_url
+duplicate_key: "https://www.justice.gov/usao-cdca/pr/hacker-collective-member-who-made-online-threats-against-schools-and-airline-sentenced"
+duplicate_normalized_at: 2026-04-26
 ---
 ## Source Summary
 

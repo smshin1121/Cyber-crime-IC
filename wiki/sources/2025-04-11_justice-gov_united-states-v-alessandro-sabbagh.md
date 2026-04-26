@@ -20,6 +20,10 @@ created: 2026-04-17
 defendant_names:
   - "Alessandro Sabbagh"
 updated: 2026-04-18
+duplicate_of: "[[2025-04-11_edky_sabbagh-darknet-counterfeit-sentencing]]"
+duplicate_reason: same_collection_url
+duplicate_key: "https://www.justice.gov/usao-edky/pr/darknet-vendor-sentenced-conspiracy-sell-counterfeit-drugs"
+duplicate_normalized_at: 2026-04-26
 ---
 ## Source Summary
 

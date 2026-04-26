@@ -24,6 +24,10 @@ key_findings:
   - "Historical context: Rex Mundi previously stole ~600,000 records from Domino's Pizza France and Belgium in June 2014 — one of several high-profile European breaches before the takedown"
 created: 2026-04-08
 updated: 2026-04-10
+duplicate_of: "[[2018-05-18_europol-europa-eu_french-coder-who-helped-extort-british-company-arrested-in-thailand]]"
+duplicate_reason: same_collection_url
+duplicate_key: "https://www.europol.europa.eu/media-press/newsroom/news/french-coder-who-helped-extort-british-company-arrested-in-thailand"
+duplicate_normalized_at: 2026-04-26
 ---
 
 ## Source

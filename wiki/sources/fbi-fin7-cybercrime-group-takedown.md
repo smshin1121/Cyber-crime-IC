@@ -24,6 +24,10 @@ key_findings:
   - "International cooperation: Fedorov arrested in Poland (January 2018), Hladyr in Dresden/Germany (January 2018), Kopakov in Spain (June 2018); all three extradited to the US for prosecution in the Western District of Washington (Seattle)"
 created: 2026-04-08
 updated: 2026-04-10
+duplicate_of: "[[2018-01-01_fbi-gov_how-cyber-crime-group-fin7-attacked-and-stole-data-from-hundreds-of-us-companies]]"
+duplicate_reason: same_collection_url
+duplicate_key: "https://www.fbi.gov/contact-us/field-offices/seattle/news/stories/how-cyber-crime-group-fin7-attacked-and-stole-data-from-hundreds-of-us-companies"
+duplicate_normalized_at: 2026-04-26
 ---
 
 ## Source

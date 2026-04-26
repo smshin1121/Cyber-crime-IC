@@ -17,6 +17,10 @@ key_findings:
   - "Confirms Anthony Raymond Dodd's 10-year sentence, Aryan-gang defendant 6-year sentence, and Marquise Tolbert's 39-month sentence."
 collection_url: https://www.dea.gov/press-releases/2025/12/09/three-defendants-significant-gun-and-drug-involved-cases-western
 created: 2026-04-25
+duplicate_of: "[[2025-12-09_dea-gov_three-defendants-gun-drug-cases-sentenced-prison-tolbert-dea]]"
+duplicate_reason: same_collection_url
+duplicate_key: "https://www.dea.gov/press-releases/2025/12/09/three-defendants-significant-gun-and-drug-involved-cases-western"
+duplicate_normalized_at: 2026-04-26
 ---
 ## Source Summary
 

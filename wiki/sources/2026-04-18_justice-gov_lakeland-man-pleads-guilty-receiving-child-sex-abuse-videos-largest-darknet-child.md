@@ -20,6 +20,10 @@ created: 2026-04-18
 updated: 2026-04-18
 defendant_names:
   - "Lakeland Man"
+duplicate_of: "[[2021-03-30_justice-gov_lakeland-man-pleads-guilty-to-receiving-child-sex-abuse-videos-from-the-largest]]"
+duplicate_reason: same_collection_url
+duplicate_key: "https://www.justice.gov/usao-mdfl/pr/lakeland-man-pleads-guilty-receiving-child-sex-abuse-videos-largest-darknet-child"
+duplicate_normalized_at: 2026-04-26
 ---
 ## Source Summary
 

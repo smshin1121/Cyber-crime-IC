@@ -20,6 +20,10 @@ created: 2026-04-17
 defendant_names:
   - "Brandon Arias"
 updated: 2026-04-18
+duplicate_of: "[[2020-02-12_justice-gov_dark-web-fentanyl-trafficker-known-as-the-drug-llama-sentenced-to-13-years-in-fe]]"
+duplicate_reason: same_collection_url
+duplicate_key: "https://www.justice.gov/usao-sdil/pr/dark-web-fentanyl-trafficker-known-drug-llama-sentenced-13-years-federal-prison"
+duplicate_normalized_at: 2026-04-26
 ---
 ## Source Summary
 

@@ -20,6 +20,10 @@ created: 2026-04-18
 defendant_names:
   - "Antoin Austin"
 updated: 2026-04-18
+duplicate_of: "[[2018-08-13_justice-gov_euclid-man-pleaded-guilty-to-distribution-of-fentanyl-that-he-ordered-from-china]]"
+duplicate_reason: same_collection_url
+duplicate_key: "https://www.justice.gov/usao-ndoh/pr/euclid-man-pleaded-guilty-distribution-fentanyl-he-ordered-china-and-sold-domestically"
+duplicate_normalized_at: 2026-04-26
 ---
 ## Source Summary
 

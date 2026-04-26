@@ -24,6 +24,10 @@ key_findings:
   - "This is an important data-integrity correction — the operation page was renamed from botnet-takedown-europol-2023 to [[ramnit-botnet-takedown]] after verifying the source describes the 2015 Ramnit takedown"
 created: 2026-04-08
 updated: 2026-04-10
+duplicate_of: "[[2015-02-24_europol-europa-eu_botnet-taken-down-through-international-law-enforcement-cooperation]]"
+duplicate_reason: same_collection_url
+duplicate_key: "https://www.europol.europa.eu/media-press/newsroom/news/botnet-taken-down-through-international-law-enforcement-cooperation"
+duplicate_normalized_at: 2026-04-26
 ---
 
 > [!info] Mismatch resolved (2026-04-10)

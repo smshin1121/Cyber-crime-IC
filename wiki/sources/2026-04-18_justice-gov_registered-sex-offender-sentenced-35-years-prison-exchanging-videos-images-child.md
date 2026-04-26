@@ -20,6 +20,10 @@ created: 2026-04-18
 defendant_names:
   - "Jeremiah Morrison"
 updated: 2026-04-18
+duplicate_of: "[[2024-12-20_justice-gov_registered-sex-offender-sentenced-to-35-years-in-prison-for-exchanging-videos-im]]"
+duplicate_reason: same_collection_url
+duplicate_key: "https://www.justice.gov/usao-sdoh/pr/registered-sex-offender-sentenced-35-years-prison-exchanging-videos-images-child"
+duplicate_normalized_at: 2026-04-26
 ---
 ## Source Summary
 

@@ -20,6 +20,10 @@ created: 2026-04-18
 updated: 2026-04-18
 defendant_names:
   - "Conway Man"
+duplicate_of: "[[2024-12-09_justice-gov_conway-man-sentenced-to-federal-prison-for-possessing-child-sexual-abuse-materia]]"
+duplicate_reason: same_collection_url
+duplicate_key: "https://www.justice.gov/usao-sc/pr/conway-man-sentenced-federal-prison-possessing-child-sexual-abuse-materials"
+duplicate_normalized_at: 2026-04-26
 ---
 ## Source Summary
 

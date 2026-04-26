@@ -20,6 +20,10 @@ created: 2026-04-17
 defendant_names:
   - "Nigerian Nationals"
 updated: 2026-04-18
+duplicate_of: "[[2016-12-20_dct_odufuye-nwoke-bec-indictment]]"
+duplicate_reason: same_collection_url
+duplicate_key: "https://www.justice.gov/usao-ct/pr/nigerian-nationals-charged-operating-business-compromise-scheme"
+duplicate_normalized_at: 2026-04-26
 ---
 ## Source Summary
 

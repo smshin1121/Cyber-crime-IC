@@ -21,6 +21,10 @@ updated: 2026-04-18
 defendant_names:
   - "To More Than Six"
   - "Nigerian National"
+duplicate_of: "[[2022-12-05_justice-gov_nigerian-national-sentenced-to-more-than-six-years-in-federal-prison-for-interna]]"
+duplicate_reason: same_collection_url
+duplicate_key: "https://www.justice.gov/usao-mdfl/pr/nigerian-national-sentenced-more-six-years-federal-prison-international-tax-fraud"
+duplicate_normalized_at: 2026-04-26
 ---
 ## Source Summary
 

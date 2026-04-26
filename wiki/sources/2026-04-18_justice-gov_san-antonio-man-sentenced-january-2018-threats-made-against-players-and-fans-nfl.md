@@ -20,6 +20,10 @@ created: 2026-04-18
 updated: 2026-04-18
 defendant_names:
   - "San Antonio Man"
+duplicate_of: "[[2018-11-27_justice-gov_san-antonio-man-sentenced-for-january-2018-threats-made-against-players-and-fans]]"
+duplicate_reason: same_collection_url
+duplicate_key: "https://www.justice.gov/usao-wdpa/pr/san-antonio-man-sentenced-january-2018-threats-made-against-players-and-fans-nfl"
+duplicate_normalized_at: 2026-04-26
 ---
 ## Source Summary
 

@@ -18,6 +18,10 @@ key_findings:
   - "The release matches INTERPOL's headline numbers and seven-country scope."
 collection_url: "https://www.kaspersky.com/about/press-releases/kaspersky-supports-interpol-led-operation-red-card-resulting-in-over-300-arrests"
 created: 2026-04-19
+duplicate_of: "[[2025-03-24_kaspersky-com_kaspersky-supports-interpol-led-operation-red-card-resulting-in-over-300-arrests]]"
+duplicate_reason: same_collection_url
+duplicate_key: "https://www.kaspersky.com/about/press-releases/kaspersky-supports-interpol-led-operation-red-card-resulting-in-over-300-arrests"
+duplicate_normalized_at: 2026-04-26
 ---
 
 ## Summary

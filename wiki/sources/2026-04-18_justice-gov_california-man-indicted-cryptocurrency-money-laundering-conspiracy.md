@@ -20,6 +20,10 @@ created: 2026-04-18
 defendant_names:
   - "John Khuu"
 updated: 2026-04-18
+duplicate_of: "[[2022-10-07_justice-gov_california-man-indicted-in-cryptocurrency-money-laundering-conspiracy]]"
+duplicate_reason: same_collection_url
+duplicate_key: "https://www.justice.gov/usao-edtx/pr/california-man-indicted-cryptocurrency-money-laundering-conspiracy"
+duplicate_normalized_at: 2026-04-26
 ---
 ## Source Summary
 

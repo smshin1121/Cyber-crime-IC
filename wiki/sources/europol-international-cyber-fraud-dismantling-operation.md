@@ -24,6 +24,10 @@ key_findings:
   - "Coordination model: National law enforcement teams established a joint coordination centre at Europol HQ in The Hague during the action day, an early application of what became the standard Europol operation-command-post pattern"
 created: 2026-04-08
 updated: 2026-04-10
+duplicate_of: "[[2015-06-01_europol-europa-eu_international-operation-dismantles-criminal-group-of-cyber-fraudsters]]"
+duplicate_reason: same_collection_url
+duplicate_key: "https://www.europol.europa.eu/media-press/newsroom/news/international-operation-dismantles-criminal-group-of-cyber-fraudsters"
+duplicate_normalized_at: 2026-04-26
 ---
 
 ## Source

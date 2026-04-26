@@ -17,6 +17,10 @@ key_findings:
   - "The article detailed the cocaine, fentanyl, firearm, and packaging evidence later reflected in the federal indictment."
 collection_url: https://lynnwoodtimes.com/2025/03/14/percy-levy/
 created: 2026-04-25
+duplicate_of: "[[2025-03-13_lynnwoodtimes_percy-levy-clemency-arrested-firearms-drugs]]"
+duplicate_reason: same_collection_url
+duplicate_key: "https://lynnwoodtimes.com/2025/03/14/percy-levy/"
+duplicate_normalized_at: 2026-04-26
 ---
 ## Source Summary
 

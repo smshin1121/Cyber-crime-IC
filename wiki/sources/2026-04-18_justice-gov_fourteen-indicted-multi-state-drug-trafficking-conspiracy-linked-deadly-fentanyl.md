@@ -18,6 +18,10 @@ key_findings:
 collection_url: https://www.justice.gov/usao-wdwa/pr/fourteen-indicted-multi-state-drug-trafficking-conspiracy-linked-deadly-fentanyl
 created: 2026-04-18
 updated: 2026-04-18
+duplicate_of: "[[2024-10-03_justice-gov-wdwa_fourteen-indicted-multi-state-drug-trafficking-conspiracy-lummi-nation]]"
+duplicate_reason: same_collection_url
+duplicate_key: "https://www.justice.gov/usao-wdwa/pr/fourteen-indicted-multi-state-drug-trafficking-conspiracy-linked-deadly-fentanyl"
+duplicate_normalized_at: 2026-04-26
 ---
 ## Source Summary
 

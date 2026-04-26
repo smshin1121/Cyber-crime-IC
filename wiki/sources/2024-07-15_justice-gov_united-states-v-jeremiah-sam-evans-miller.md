@@ -20,6 +20,10 @@ created: 2026-04-17
 defendant_names:
   - "Scott Raul Esparza"
 updated: 2026-04-18
+duplicate_of: "[[2024-07-15_cdca_miller-poweroff-sentencing]]"
+duplicate_reason: same_collection_url
+duplicate_key: "https://www.justice.gov/usao-cdca/pr/texas-man-sentenced-9-months-federal-prison-operating-website-offered-computer-attack"
+duplicate_normalized_at: 2026-04-26
 ---
 ## Source Summary
 

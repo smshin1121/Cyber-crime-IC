@@ -16,6 +16,10 @@ key_findings:
   - "DEA parallel agency confirmation of 10-year sentence"
 collection_url: https://www.dea.gov/press-releases/2025/05/28/drug-trafficker-western-washington-caught-twice-kilos-drugs-and-firearms
 created: 2026-04-25
+duplicate_of: "[[2025-05-28_dea-gov_drug-trafficker-western-washington-caught-twice-kilos-drugs-firearms-10-years]]"
+duplicate_reason: same_collection_url
+duplicate_key: "https://www.dea.gov/press-releases/2025/05/28/drug-trafficker-western-washington-caught-twice-kilos-drugs-and-firearms"
+duplicate_normalized_at: 2026-04-26
 ---
 ## Source Summary
 

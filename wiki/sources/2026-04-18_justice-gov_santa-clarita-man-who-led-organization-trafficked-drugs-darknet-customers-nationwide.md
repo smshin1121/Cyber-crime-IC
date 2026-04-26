@@ -20,6 +20,10 @@ created: 2026-04-18
 defendant_names:
   - "Jerrell Eugene Anderson"
 updated: 2026-04-18
+duplicate_of: "[[2024-11-21_justice-gov_santa-clarita-man-who-led-organization-that-trafficked-drugs-to-darknet-customer]]"
+duplicate_reason: same_collection_url
+duplicate_key: "https://www.justice.gov/usao-cdca/pr/santa-clarita-man-who-led-organization-trafficked-drugs-darknet-customers-nationwide"
+duplicate_normalized_at: 2026-04-26
 ---
 ## Source Summary
 

@@ -20,6 +20,10 @@ created: 2026-04-18
 updated: 2026-04-18
 defendant_names:
   - "Pittsburgh Felon"
+duplicate_of: "[[2025-01-13_justice-gov_pittsburgh-felon-sentenced-to-9-5-years-in-prison-for-identity-theft-and-firearm]]"
+duplicate_reason: same_collection_url
+duplicate_key: "https://www.justice.gov/usao-wdpa/pr/pittsburgh-felon-sentenced-95-years-prison-identity-theft-and-firearms-crimes"
+duplicate_normalized_at: 2026-04-26
 ---
 ## Source Summary
 

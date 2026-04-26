@@ -20,6 +20,10 @@ created: 2026-04-17
 defendant_names:
   - "Silk Road Vendor"
 updated: 2026-04-18
+duplicate_of: "[[2015-11-03_justice-gov_silk-road-vendor-sentenced-to-two-years-in-prison]]"
+duplicate_reason: same_collection_url
+duplicate_key: "https://www.justice.gov/usao-md/pr/silk-road-vendor-sentenced-two-years-prison"
+duplicate_normalized_at: 2026-04-26
 ---
 ## Source Summary
 

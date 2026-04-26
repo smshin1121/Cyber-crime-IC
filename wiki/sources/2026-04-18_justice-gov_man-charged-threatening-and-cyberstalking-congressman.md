@@ -20,6 +20,10 @@ created: 2026-04-18
 defendant_names:
   - "Keith Charles Eisenberger"
 updated: 2026-04-18
+duplicate_of: "[[2022-05-23_justice-gov_man-charged-with-threatening-and-cyberstalking-congressman]]"
+duplicate_reason: same_collection_url
+duplicate_key: "https://www.justice.gov/usao-ndok/pr/man-charged-threatening-and-cyberstalking-congressman"
+duplicate_normalized_at: 2026-04-26
 ---
 ## Source Summary
 

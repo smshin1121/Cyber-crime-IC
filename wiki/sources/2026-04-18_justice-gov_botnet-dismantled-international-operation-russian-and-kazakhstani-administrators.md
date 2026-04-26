@@ -23,6 +23,10 @@ defendant_names:
   - "Aleksandr Aleksandrovich Shishkin"
   - "Dmitriy Rubtsov"
 updated: 2026-04-18
+duplicate_of: "[[2025-05-09_justice-gov_botnet-dismantled-in-international-operation-russian-and-kazakhstani-administrat]]"
+duplicate_reason: same_collection_url
+duplicate_key: "https://www.justice.gov/usao-ndok/pr/botnet-dismantled-international-operation-russian-and-kazakhstani-administrators"
+duplicate_normalized_at: 2026-04-26
 ---
 ## Source Summary
 

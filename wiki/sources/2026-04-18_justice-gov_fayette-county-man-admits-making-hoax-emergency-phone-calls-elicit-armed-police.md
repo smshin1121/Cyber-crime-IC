@@ -18,6 +18,10 @@ key_findings:
 collection_url: https://www.justice.gov/usao-wdpa/pr/fayette-county-man-admits-making-hoax-emergency-phone-calls-elicit-armed-police
 created: 2026-04-18
 updated: 2026-04-18
+duplicate_of: "[[2019-09-11_justice-gov_fayette-county-man-admits-making-hoax-emergency-phone-calls-to-elicit-an-armed-p]]"
+duplicate_reason: same_collection_url
+duplicate_key: "https://www.justice.gov/usao-wdpa/pr/fayette-county-man-admits-making-hoax-emergency-phone-calls-elicit-armed-police"
+duplicate_normalized_at: 2026-04-26
 ---
 ## Source Summary
 

@@ -20,6 +20,10 @@ key_findings:
   - "The profile describes Italy's procedural framework for searches, inspections, interception, and preservation of digital evidence."
   - "The page also notes Italy's emphasis on cyber security planning and specialized institutional arrangements."
 created: 2026-04-18
+duplicate_of: "[[2026-04-17_coe-int_italy-octopus-cybercrime-community]]"
+duplicate_reason: same_collection_url
+duplicate_key: "https://www.coe.int/en/web/octopus/-/italy"
+duplicate_normalized_at: 2026-04-26
 ---
 ## Source Summary
 

@@ -17,6 +17,10 @@ key_findings:
   - "SecurityWeek confirms Garrison's January 31, 2024 SDNY sentence of 18 months plus $175K forfeiture and $1.3M restitution."
 collection_url: https://www.securityweek.com/draftkings-hacker-sentenced-to-18-months-in-prison/
 created: 2026-04-25
+duplicate_of: "[[2023-11-16_securityweek_draftkings-hacker-sentenced-to-18-months-in-prison]]"
+duplicate_reason: same_collection_url
+duplicate_key: "https://www.securityweek.com/draftkings-hacker-sentenced-to-18-months-in-prison/"
+duplicate_normalized_at: 2026-04-26
 ---
 ## Source Summary
 

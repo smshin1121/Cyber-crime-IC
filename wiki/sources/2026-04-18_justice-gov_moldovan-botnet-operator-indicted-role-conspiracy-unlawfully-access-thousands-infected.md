@@ -19,6 +19,10 @@ created: 2026-04-18
 updated: 2026-04-18
 defendant_names:
   - "Indicted for Role in"
+duplicate_of: "[[2024-04-16_justice-gov_moldovan-botnet-operator-indicted-for-role-in-conspiracy-to-unlawfully-access-th]]"
+duplicate_reason: same_collection_url
+duplicate_key: "https://www.justice.gov/usao-wdpa/pr/moldovan-botnet-operator-indicted-role-conspiracy-unlawfully-access-thousands-infected"
+duplicate_normalized_at: 2026-04-26
 ---
 ## Source Summary
 

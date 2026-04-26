@@ -20,6 +20,10 @@ created: 2026-04-18
 defendant_names:
   - "Michael Inman"
 updated: 2026-04-18
+duplicate_of: "[[2017-06-13_justice-gov_southern-california-resident-sentenced-to-34-months-in-prison-for-role-in-bank-f]]"
+duplicate_reason: same_collection_url
+duplicate_key: "https://www.justice.gov/usao-ndca/pr/southern-california-resident-sentenced-34-months-prison-role-bank-fraud-conspiracy"
+duplicate_normalized_at: 2026-04-26
 ---
 ## Source Summary
 

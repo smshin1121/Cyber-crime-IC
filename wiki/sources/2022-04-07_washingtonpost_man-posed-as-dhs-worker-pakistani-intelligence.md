@@ -17,6 +17,10 @@ key_findings:
   - "Identifies federal-agent impersonation operation as USSP LLC"
 collection_url: https://www.washingtonpost.com/dc-md-va/2022/04/07/federal-agents-impersonators-secret-service/
 created: 2026-04-25
+duplicate_of: "[[2022-04-07_washingtonpost_federal-agents-impersonators-secret-service]]"
+duplicate_reason: same_collection_url
+duplicate_key: "https://www.washingtonpost.com/dc-md-va/2022/04/07/federal-agents-impersonators-secret-service/"
+duplicate_normalized_at: 2026-04-26
 ---
 ## Source Summary
 

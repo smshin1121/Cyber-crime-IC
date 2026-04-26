@@ -20,6 +20,10 @@ created: 2026-04-18
 defendant_names:
   - "Devin Shanahan"
 updated: 2026-04-18
+duplicate_of: "[[2024-05-10_justice-gov_final-calicartel-defendant-pleads-guilty-dark-web-heroin-methamphetamine-cocaine]]"
+duplicate_reason: same_collection_url
+duplicate_key: "https://www.justice.gov/usao-edca/pr/final-calicartel-defendant-pleads-guilty-dark-web-heroin-methamphetamine-and-cocaine"
+duplicate_normalized_at: 2026-04-26
 ---
 ## Source Summary
 

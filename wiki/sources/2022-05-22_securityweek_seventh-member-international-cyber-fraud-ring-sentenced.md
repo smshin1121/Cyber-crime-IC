@@ -17,6 +17,10 @@ key_findings:
   - "16-country joint operation underpinning Infraud prosecutions."
 collection_url: https://www.securityweek.com/seventh-member-international-cyber-fraud-ring-sentenced-prison/
 created: 2026-04-25
+duplicate_of: "[[2022-05-31_securityweek_seventh-member-cyber-fraud-ring-sentenced]]"
+duplicate_reason: same_collection_url
+duplicate_key: "https://www.securityweek.com/seventh-member-international-cyber-fraud-ring-sentenced-prison/"
+duplicate_normalized_at: 2026-04-26
 ---
 ## Source Summary
 

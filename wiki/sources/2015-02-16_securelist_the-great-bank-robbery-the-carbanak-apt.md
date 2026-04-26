@@ -21,6 +21,10 @@ key_findings:
   - "The report estimated losses up to USD 1 billion across roughly 100 financial institutions and described the group's spear-phishing, lateral movement and ATM cash-out methods."
   - "The report is the key technical source for the malware and intrusion tradecraft later cited by Europol and other official bodies."
 created: 2026-04-18
+duplicate_of: "[[2015-02-16_securelist-com_the-great-bank-robbery-the-carbanak-apt]]"
+duplicate_reason: same_collection_url
+duplicate_key: "https://securelist.com/the-great-bank-robbery-the-carbanak-apt/68732/"
+duplicate_normalized_at: 2026-04-26
 ---
 ## Source Summary
 

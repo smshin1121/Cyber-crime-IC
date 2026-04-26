@@ -20,6 +20,10 @@ created: 2026-04-18
 defendant_names:
   - "Amanda Rutherford"
 updated: 2026-04-18
+duplicate_of: "[[2025-04-25_justice-gov_kansas-woman-indicted-for-defrauding-elderly-victims]]"
+duplicate_reason: same_collection_url
+duplicate_key: "https://www.justice.gov/usao-wdmo/pr/kansas-woman-indicted-defrauding-elderly-victims"
+duplicate_normalized_at: 2026-04-26
 ---
 ## Source Summary
 

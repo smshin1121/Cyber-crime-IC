@@ -21,6 +21,10 @@ updated: 2026-04-18
 defendant_names:
   - "With Narcotics And Money"
   - "Road Founder Ross Ulbricht"
+duplicate_of: "[[2023-05-11_justice-gov_silk-road-drug-vendor-who-claimed-to-commit-murders-for-hire-for-silk-road-found]]"
+duplicate_reason: same_collection_url
+duplicate_key: "https://www.justice.gov/usao-sdny/pr/silk-road-drug-vendor-who-claimed-commit-murders-hire-silk-road-founder-ross-ulbricht"
+duplicate_normalized_at: 2026-04-26
 ---
 ## Source Summary
 

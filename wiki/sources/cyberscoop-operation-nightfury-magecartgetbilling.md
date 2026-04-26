@@ -28,6 +28,10 @@ key_findings:
   - "Notable human-element detail: one arrested suspect reportedly told Indonesian media he had earned barely enough from the skimming operation to buy a jacket — suggesting modest financial proceeds despite wide technical reach, and consistent with the low-skill-affiliate layer of the Magecart ecosystem"
 created: 2026-04-08
 updated: 2026-04-10
+duplicate_of: "[[2020-01-24_cyberscoop-com_magecart-arrest-indonesia-interpol-getbilling]]"
+duplicate_reason: same_collection_url
+duplicate_key: "https://cyberscoop.com/magecart-arrest-indonesia-interpol-getbilling/"
+duplicate_normalized_at: 2026-04-26
 ---
 
 ## Source

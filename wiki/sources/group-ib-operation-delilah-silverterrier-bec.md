@@ -24,6 +24,10 @@ key_findings:
   - "Significance for IC studies: Delilah illustrates a rare operationalisation of a *public–private intelligence chain* where three commercial cybersecurity vendors drove an Interpol-coordinated arrest — a pattern used later in Africa Cyber Surge II (2023)"
 created: 2026-04-08
 updated: 2026-04-10
+duplicate_of: "[[2022-01-01_group-ib-com_interpol-gib-delilah]]"
+duplicate_reason: same_collection_url
+duplicate_key: "https://www.group-ib.com/media-center/press-releases/interpol-gib-delilah/"
+duplicate_normalized_at: 2026-04-26
 ---
 
 ## Source

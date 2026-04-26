@@ -21,6 +21,10 @@ key_findings:
   - "Authorities searched 17 locations across Belgium and the Netherlands."
 created: 2026-04-18
 updated: 2026-04-18
+duplicate_of: "[[2024-12-06_eurojust-europa-eu_action-against-phone-phishing-gang-in-belgium-and-the-netherlands-eight-arrests]]"
+duplicate_reason: same_collection_url
+duplicate_key: "https://www.eurojust.europa.eu/news/action-against-phone-phishing-gang-belgium-and-netherlands-eight-arrests"
+duplicate_normalized_at: 2026-04-26
 ---
 ## Source Summary
 

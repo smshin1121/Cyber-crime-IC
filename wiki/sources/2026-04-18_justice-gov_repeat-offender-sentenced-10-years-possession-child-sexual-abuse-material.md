@@ -20,6 +20,10 @@ created: 2026-04-18
 defendant_names:
   - "Thomas Edward Gailus"
 updated: 2026-04-18
+duplicate_of: "[[2025-09-08_justice-gov_repeat-offender-sentenced-to-10-years-for-possession-of-child-sexual-abuse-mater]]"
+duplicate_reason: same_collection_url
+duplicate_key: "https://www.justice.gov/opa/pr/repeat-offender-sentenced-10-years-possession-child-sexual-abuse-material"
+duplicate_normalized_at: 2026-04-26
 ---
 ## Source Summary
 

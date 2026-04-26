@@ -20,6 +20,10 @@ created: 2026-04-18
 defendant_names:
   - "Christopher Lynn Driskill"
 updated: 2026-04-18
+duplicate_of: "[[2025-08-01_justice-gov_coleman-man-identified-by-distinctive-tattoos-sentenced-to-720-months-in-federal]]"
+duplicate_reason: same_collection_url
+duplicate_key: "https://www.justice.gov/usao-ndtx/pr/coleman-man-identified-distinctive-tattoos-sentenced-720-months-federal-prison"
+duplicate_normalized_at: 2026-04-26
 ---
 ## Source Summary
 

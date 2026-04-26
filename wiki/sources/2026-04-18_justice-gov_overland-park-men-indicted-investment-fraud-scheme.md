@@ -21,6 +21,10 @@ defendant_names:
   - "Baha Ibrahim"
   - "Jawad Albadawi"
 updated: 2026-04-18
+duplicate_of: "[[2025-11-24_justice-gov_overland-park-men-indicted-for-investment-fraud-scheme]]"
+duplicate_reason: same_collection_url
+duplicate_key: "https://www.justice.gov/usao-ks/pr/overland-park-men-indicted-investment-fraud-scheme"
+duplicate_normalized_at: 2026-04-26
 ---
 ## Source Summary
 

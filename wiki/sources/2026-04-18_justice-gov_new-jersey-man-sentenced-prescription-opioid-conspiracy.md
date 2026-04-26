@@ -20,6 +20,10 @@ created: 2026-04-18
 defendant_names:
   - "Chris Ruediger"
 updated: 2026-04-18
+duplicate_of: "[[2025-04-08_justice-gov_new-jersey-man-sentenced-for-prescription-opioid-conspiracy]]"
+duplicate_reason: same_collection_url
+duplicate_key: "https://www.justice.gov/opa/pr/new-jersey-man-sentenced-prescription-opioid-conspiracy"
+duplicate_normalized_at: 2026-04-26
 ---
 ## Source Summary
 

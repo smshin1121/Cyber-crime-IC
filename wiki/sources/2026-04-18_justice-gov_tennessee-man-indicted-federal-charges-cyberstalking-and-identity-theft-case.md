@@ -18,6 +18,10 @@ key_findings:
 collection_url: https://www.justice.gov/usao-dc/pr/tennessee-man-indicted-federal-charges-cyberstalking-and-identity-theft-case
 created: 2026-04-18
 updated: 2026-04-18
+duplicate_of: "[[2018-07-12_justice-gov_tennessee-man-indicted-on-federal-charges-in-cyberstalking-and-identity-theft-ca]]"
+duplicate_reason: same_collection_url
+duplicate_key: "https://www.justice.gov/usao-dc/pr/tennessee-man-indicted-federal-charges-cyberstalking-and-identity-theft-case"
+duplicate_normalized_at: 2026-04-26
 ---
 ## Source Summary
 

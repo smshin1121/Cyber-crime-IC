@@ -20,6 +20,10 @@ created: 2026-04-17
 updated: 2026-04-18
 defendant_names:
   - "Foreign Nationals"
+duplicate_of: "[[2026-04-17_justice-gov_foreign-nationals-sentenced-for-roles-in-transnational-cybercrime-enterprise]]"
+duplicate_reason: same_collection_url
+duplicate_key: "https://www.justice.gov/archives/opa/pr/foreign-nationals-sentenced-roles-transnational-cybercrime-enterprise"
+duplicate_normalized_at: 2026-04-26
 ---
 ## Source Summary
 

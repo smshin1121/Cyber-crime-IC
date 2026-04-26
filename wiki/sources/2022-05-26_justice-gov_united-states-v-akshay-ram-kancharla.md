@@ -21,6 +21,10 @@ defendant_names:
   - "Donjuan Murphy"
   - "Montrio Santos Neville"
 updated: 2026-04-18
+duplicate_of: "[[2022-05-26_edva_kancharla-darknet-vendor-plea]]"
+duplicate_reason: same_collection_url
+duplicate_key: "https://www.justice.gov/usao-edva/pr/darknet-vendor-fentanyl-laced-pills-pleads-guilty"
+duplicate_normalized_at: 2026-04-26
 ---
 ## Source Summary
 

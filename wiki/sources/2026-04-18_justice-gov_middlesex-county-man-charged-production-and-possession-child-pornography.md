@@ -20,6 +20,10 @@ created: 2026-04-18
 updated: 2026-04-18
 defendant_names:
   - "Middlesex County Man"
+duplicate_of: "[[2024-08-20_justice-gov_middlesex-county-man-charged-with-production-and-possession-of-child-pornography]]"
+duplicate_reason: same_collection_url
+duplicate_key: "https://www.justice.gov/usao-nj/pr/middlesex-county-man-charged-production-and-possession-child-pornography"
+duplicate_normalized_at: 2026-04-26
 ---
 ## Source Summary
 

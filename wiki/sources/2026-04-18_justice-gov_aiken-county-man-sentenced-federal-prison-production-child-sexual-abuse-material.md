@@ -20,6 +20,10 @@ created: 2026-04-18
 defendant_names:
   - "Adam Sloan"
 updated: 2026-04-18
+duplicate_of: "[[2025-09-05_justice-gov_aiken-county-man-sentenced-to-federal-prison-for-production-of-child-sexual-abus]]"
+duplicate_reason: same_collection_url
+duplicate_key: "https://www.justice.gov/usao-sc/pr/aiken-county-man-sentenced-federal-prison-production-child-sexual-abuse-material"
+duplicate_normalized_at: 2026-04-26
 ---
 ## Source Summary
 

@@ -21,6 +21,10 @@ defendant_names:
   - "Joanna De Alba"
   - "De Alba"
 updated: 2026-04-18
+duplicate_of: "[[2021-11-03_edny_joanna-de-alba-dark-web-sentencing]]"
+duplicate_reason: same_collection_url
+duplicate_key: "https://www.justice.gov/usao-edny/pr/dark-web-narcotics-trafficker-sentenced-96-months-prison-distributing-fentanyl-heroin"
+duplicate_normalized_at: 2026-04-26
 ---
 ## Source Summary
 

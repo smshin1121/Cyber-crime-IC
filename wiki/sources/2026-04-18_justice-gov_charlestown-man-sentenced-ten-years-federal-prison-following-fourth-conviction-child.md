@@ -20,6 +20,10 @@ created: 2026-04-18
 updated: 2026-04-18
 defendant_names:
   - "Charlestown Man"
+duplicate_of: "[[2025-02-14_justice-gov_charlestown-man-sentenced-to-ten-years-in-federal-prison-following-a-fourth-conv]]"
+duplicate_reason: same_collection_url
+duplicate_key: "https://www.justice.gov/usao-ri/pr/charlestown-man-sentenced-ten-years-federal-prison-following-fourth-conviction-child"
+duplicate_normalized_at: 2026-04-26
 ---
 ## Source Summary
 

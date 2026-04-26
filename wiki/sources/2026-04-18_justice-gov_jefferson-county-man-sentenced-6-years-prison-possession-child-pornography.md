@@ -20,6 +20,10 @@ created: 2026-04-18
 defendant_names:
   - "James Curtis Brasher"
 updated: 2026-04-18
+duplicate_of: "[[2021-05-21_justice-gov_jefferson-county-man-sentenced-to-6-years-in-prison-for-possession-of-child-porn]]"
+duplicate_reason: same_collection_url
+duplicate_key: "https://www.justice.gov/usao-ndal/pr/jefferson-county-man-sentenced-6-years-prison-possession-child-pornography"
+duplicate_normalized_at: 2026-04-26
 ---
 ## Source Summary
 

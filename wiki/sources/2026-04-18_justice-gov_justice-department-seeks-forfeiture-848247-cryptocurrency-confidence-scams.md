@@ -18,6 +18,10 @@ key_findings:
 collection_url: https://www.justice.gov/usao-dc/pr/justice-department-seeks-forfeiture-848247-cryptocurrency-confidence-scams
 created: 2026-04-18
 updated: 2026-04-18
+duplicate_of: "[[2025-09-02_justice-gov_justice-department-seeks-forfeiture-of-848-247-in-cryptocurrency-from-confidence]]"
+duplicate_reason: same_collection_url
+duplicate_key: "https://www.justice.gov/usao-dc/pr/justice-department-seeks-forfeiture-848247-cryptocurrency-confidence-scams"
+duplicate_normalized_at: 2026-04-26
 ---
 ## Source Summary
 

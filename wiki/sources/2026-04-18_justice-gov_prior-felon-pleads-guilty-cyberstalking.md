@@ -20,6 +20,10 @@ created: 2026-04-18
 defendant_names:
   - "Daniel Richter"
 updated: 2026-04-18
+duplicate_of: "[[2026-02-28_justice-gov_prior-felon-pleads-guilty-to-cyberstalking]]"
+duplicate_reason: same_collection_url
+duplicate_key: "https://www.justice.gov/usao-wdny/pr/prior-felon-pleads-guilty-cyberstalking"
+duplicate_normalized_at: 2026-04-26
 ---
 ## Source Summary
 

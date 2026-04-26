@@ -16,6 +16,10 @@ key_findings:
   - "Federal IT trade press coverage of the DHS-OIG software-theft sentencings"
 collection_url: https://www.nextgov.com/people/2024/01/former-dhs-employees-sentenced-plot-steal-government-software-databases/393689/
 created: 2026-04-25
+duplicate_of: "[[2024-01-29_nextgov_former-dhs-employees-sentenced-plot-steal-government-software-databases]]"
+duplicate_reason: same_collection_url
+duplicate_key: "https://www.nextgov.com/people/2024/01/former-dhs-employees-sentenced-plot-steal-government-software-databases/393689/"
+duplicate_normalized_at: 2026-04-26
 ---
 ## Source Summary
 

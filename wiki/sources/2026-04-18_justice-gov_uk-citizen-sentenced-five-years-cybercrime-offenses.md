@@ -20,6 +20,10 @@ created: 2026-04-18
 updated: 2026-04-18
 defendant_names:
   - "To Five Years For"
+duplicate_of: "[[2023-06-23_justice-gov-ndca_uk-citizen-sentenced-five-years-cybercrime-offenses]]"
+duplicate_reason: same_collection_url
+duplicate_key: "https://www.justice.gov/usao-ndca/pr/uk-citizen-sentenced-five-years-cybercrime-offenses"
+duplicate_normalized_at: 2026-04-26
 ---
 ## Source Summary
 

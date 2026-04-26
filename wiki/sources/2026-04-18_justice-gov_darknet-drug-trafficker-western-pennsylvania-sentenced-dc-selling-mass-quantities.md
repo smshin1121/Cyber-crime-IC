@@ -20,6 +20,10 @@ created: 2026-04-18
 defendant_names:
   - "Jacob Blair"
 updated: 2026-04-18
+duplicate_of: "[[2025-04-23_justice-gov_darknet-drug-trafficker-western-pennsylvania-sentenced-dc-selling-mass-quantities]]"
+duplicate_reason: same_collection_url
+duplicate_key: "https://www.justice.gov/usao-wdpa/pr/darknet-drug-trafficker-western-pennsylvania-sentenced-dc-selling-mass-quantities"
+duplicate_normalized_at: 2026-04-26
 ---
 ## Source Summary
 

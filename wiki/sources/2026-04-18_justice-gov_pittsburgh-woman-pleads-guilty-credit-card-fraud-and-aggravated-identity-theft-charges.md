@@ -20,6 +20,10 @@ created: 2026-04-18
 defendant_names:
   - "Tai Jauna Jones"
 updated: 2026-04-18
+duplicate_of: "[[2025-04-21_justice-gov_pittsburgh-woman-pleads-guilty-to-credit-card-fraud-and-aggravated-identity-thef]]"
+duplicate_reason: same_collection_url
+duplicate_key: "https://www.justice.gov/usao-wdpa/pr/pittsburgh-woman-pleads-guilty-credit-card-fraud-and-aggravated-identity-theft-charges"
+duplicate_normalized_at: 2026-04-26
 ---
 ## Source Summary
 

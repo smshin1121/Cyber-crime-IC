@@ -20,6 +20,10 @@ created: 2026-04-18
 defendant_names:
   - "Conor Brian Fitzpatrick"
 updated: 2026-04-18
+duplicate_of: "[[2025-03-07_justice-gov_garantex-cryptocurrency-exchange-disrupted-in-international-operation]]"
+duplicate_reason: same_collection_url
+duplicate_key: "https://www.justice.gov/usao-edva/pr/garantex-cryptocurrency-exchange-disrupted-international-operation"
+duplicate_normalized_at: 2026-04-26
 ---
 ## Source Summary
 

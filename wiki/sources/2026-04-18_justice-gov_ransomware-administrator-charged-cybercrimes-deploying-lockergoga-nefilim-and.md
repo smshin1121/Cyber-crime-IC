@@ -20,6 +20,10 @@ created: 2026-04-18
 updated: 2026-04-18
 defendant_names:
   - "Ransomware Administrator"
+duplicate_of: "[[2025-09-09_justice-gov_ransomware-administrator-charged-with-cybercrimes-for-deploying-lockergoga-nefil]]"
+duplicate_reason: same_collection_url
+duplicate_key: "https://www.justice.gov/usao-edny/pr/ransomware-administrator-charged-cybercrimes-deploying-lockergoga-nefilim-and"
+duplicate_normalized_at: 2026-04-26
 ---
 ## Source Summary
 

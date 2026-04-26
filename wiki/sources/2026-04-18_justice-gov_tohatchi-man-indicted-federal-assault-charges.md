@@ -20,6 +20,10 @@ created: 2026-04-18
 defendant_names:
   - "Jeremy Yazzie"
 updated: 2026-04-18
+duplicate_of: "[[2025-11-13_justice-gov_tohatchi-man-indicted-on-federal-assault-charges]]"
+duplicate_reason: same_collection_url
+duplicate_key: "https://www.justice.gov/usao-nm/pr/tohatchi-man-indicted-federal-assault-charges"
+duplicate_normalized_at: 2026-04-26
 ---
 ## Source Summary
 

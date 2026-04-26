@@ -18,6 +18,10 @@ key_findings:
   - "It restates the operation's global totals and emphasizes multilateral regional support."
 collection_url: "https://www.interpol.int/Who-we-are/Our-partners/Our-partnerships-with-regional-policing-bodies/Support-for-AFRIPOL"
 created: 2026-04-23
+duplicate_of: "[[2025-12-23_interpol-int_support-for-afripol-operation-sentinel]]"
+duplicate_reason: same_collection_url
+duplicate_key: "https://www.interpol.int/Who-we-are/Our-partners/Our-partnerships-with-regional-policing-bodies/Support-for-AFRIPOL"
+duplicate_normalized_at: 2026-04-26
 ---
 ## Source Summary
 

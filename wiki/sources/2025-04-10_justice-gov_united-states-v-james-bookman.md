@@ -21,6 +21,10 @@ updated: 2026-04-18
 defendant_names:
   - "To More Than"
   - "Dark Web Fentanyl Distributor"
+duplicate_of: "[[2025-04-10_justice-gov_dark-web-fentanyl-distributor-sentenced-to-more-than-15-years-in-federal-prison]]"
+duplicate_reason: same_collection_url
+duplicate_key: "https://www.justice.gov/usao-mdfl/pr/dark-web-fentanyl-distributor-sentenced-more-15-years-federal-prison"
+duplicate_normalized_at: 2026-04-26
 ---
 ## Source Summary
 

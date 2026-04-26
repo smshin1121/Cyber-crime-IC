@@ -20,6 +20,10 @@ created: 2026-04-18
 updated: 2026-04-18
 defendant_names:
   - "South Carolina Man"
+duplicate_of: "[[2018-08-14_justice-gov_south-carolina-man-sentenced-to-30-months-in-prison-for-interstate-stalking]]"
+duplicate_reason: same_collection_url
+duplicate_key: "https://www.justice.gov/usao-wdpa/pr/south-carolina-man-sentenced-30-months-prison-interstate-stalking"
+duplicate_normalized_at: 2026-04-26
 ---
 ## Source Summary
 

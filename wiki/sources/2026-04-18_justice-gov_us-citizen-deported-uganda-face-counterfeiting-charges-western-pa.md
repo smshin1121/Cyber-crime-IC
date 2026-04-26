@@ -20,6 +20,10 @@ created: 2026-04-18
 defendant_names:
   - "Willy Clock"
 updated: 2026-04-18
+duplicate_of: "[[2015-12-11_justice-gov_u-s-citizen-deported-from-uganda-to-face-counterfeiting-charges-in-western-pa]]"
+duplicate_reason: same_collection_url
+duplicate_key: "https://www.justice.gov/usao-wdpa/pr/us-citizen-deported-uganda-face-counterfeiting-charges-western-pa"
+duplicate_normalized_at: 2026-04-26
 ---
 ## Source Summary
 

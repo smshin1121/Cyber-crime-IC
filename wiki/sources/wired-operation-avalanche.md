@@ -25,6 +25,10 @@ key_findings:
   - "This source record is retained for traceability but should either be reassigned to a new dark-web marketplace operation page ([[silk-road-takedown]] or [[operation-onymous]]) or de-linked entirely"
 created: 2026-04-08
 updated: 2026-04-10
+duplicate_of: "[[2015-05-29_wired-com_wired-silk-road-2-0-ulbricht-sentencing-coverage]]"
+duplicate_reason: same_collection_url
+duplicate_key: "https://www.wired.com/2015/05/silk-road-2/"
+duplicate_normalized_at: 2026-04-26
 ---
 
 > [!info] Mismatch resolved (2026-04-10)

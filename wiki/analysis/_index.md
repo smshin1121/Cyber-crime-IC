@@ -6,7 +6,7 @@ created: 2026-04-08
 updated: 2026-04-20
 ---
 
-# Analysis (21)
+# Analysis (22)
 
 | Analysis | Type | Confidence | Scope | Date |
 |----------|------|------------|-------|------|
@@ -29,5 +29,6 @@ updated: 2026-04-20
 | [[source-canonical-map-2026-04-26]] | — | — | — | 2026-04-26 |
 | [[source-count1-follow-on-review-2026-04-25]] | — | — | — | 2026-04-25 |
 | [[source-duplicate-audit-2026-04-26]] | — | — | — | 2026-04-26 |
+| [[source-duplicate-normalization-2026-04-26]] | — | — | — | 2026-04-26 |
 | [[source-fulltext-omission-audit-2026-04-26]] | — | — | — | 2026-04-26 |
 | [[targeted-content-enrichment-2026-04-26]] | — | — | — | 2026-04-26 |

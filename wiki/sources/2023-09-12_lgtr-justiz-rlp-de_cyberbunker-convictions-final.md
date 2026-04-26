@@ -20,6 +20,10 @@ key_findings:
   - "The Trier court stated that confiscation orders ranging from about EUR 9,000 to EUR 900,000 were also confirmed."
   - "This source closes the public litigation arc by confirming that the principal convictions became final."
 created: 2026-04-18
+duplicate_of: "[[2023-09-12_lgtr-justiz-rlp-de_verurteilungen-der-angeklagten-im-cyberbunker-verfahren-rechtskr-ftig]]"
+duplicate_reason: same_collection_url
+duplicate_key: "https://lgtr.justiz.rlp.de/presse-aktuelles/detail/verurteilungen-der-angeklagten-im-cyberbunker-verfahren-rechtskraeftig"
+duplicate_normalized_at: 2026-04-26
 ---
 ## Source Summary
 

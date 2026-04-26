@@ -20,6 +20,10 @@ created: 2026-04-18
 defendant_names:
   - "Chaloner Saintillus"
 updated: 2026-04-18
+duplicate_of: "[[2023-04-06_justice-gov_florida-man-pleads-guilty-selling-fentanyl-over-dark-web]]"
+duplicate_reason: same_collection_url
+duplicate_key: "https://www.justice.gov/usao-edca/pr/florida-man-pleads-guilty-selling-fentanyl-over-dark-web"
+duplicate_normalized_at: 2026-04-26
 ---
 ## Source Summary
 

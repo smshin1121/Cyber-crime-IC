@@ -20,6 +20,10 @@ created: 2026-04-17
 defendant_names:
   - "Dark Web Drug Trafficker"
 updated: 2026-04-18
+duplicate_of: "[[2022-01-11_justice-gov_dark-web-drug-trafficker-sentenced-to-160-months-in-federal-prison]]"
+duplicate_reason: same_collection_url
+duplicate_key: "https://www.justice.gov/usao-sdfl/pr/dark-web-drug-trafficker-sentenced-160-months-federal-prison"
+duplicate_normalized_at: 2026-04-26
 ---
 ## Source Summary
 

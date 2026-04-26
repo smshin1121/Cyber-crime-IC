@@ -20,6 +20,10 @@ created: 2026-04-18
 defendant_names:
   - "Jonathan Patrick Turrentine"
 updated: 2026-04-18
+duplicate_of: "[[2021-10-26_justice-gov_sacramento-man-indicted-for-drug-distribution-via-the-darknet]]"
+duplicate_reason: same_collection_url
+duplicate_key: "https://www.justice.gov/usao-edca/pr/sacramento-man-indicted-drug-distribution-darknet"
+duplicate_normalized_at: 2026-04-26
 ---
 ## Source Summary
 

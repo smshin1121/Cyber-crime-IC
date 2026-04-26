@@ -21,6 +21,10 @@ key_findings:
   - "The action was explicitly placed in the EMPACT framework."
 created: 2026-04-18
 updated: 2026-04-18
+duplicate_of: "[[2021-06-30_eurojust-europa-eu_coordinated-action-cuts-off-access-to-vpn-service-used-by-ransomware-groups]]"
+duplicate_reason: same_collection_url
+duplicate_key: "https://www.eurojust.europa.eu/news/coordinated-action-cuts-access-vpn-service-used-ransomware-groups"
+duplicate_normalized_at: 2026-04-26
 ---
 ## Source Summary
 

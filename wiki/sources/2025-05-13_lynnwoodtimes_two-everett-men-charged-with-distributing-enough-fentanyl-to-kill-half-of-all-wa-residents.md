@@ -17,6 +17,10 @@ key_findings:
   - "The article added local detail on the defendants' detention status and the amount of fentanyl attributed to the apartment."
 collection_url: https://lynnwoodtimes.com/2025/05/13/everett-fentanyl/
 created: 2026-04-25
+duplicate_of: "[[2025-05-13_lynnwoodtimes_everett-fentanyl-honduran-defendants]]"
+duplicate_reason: same_collection_url
+duplicate_key: "https://lynnwoodtimes.com/2025/05/13/everett-fentanyl/"
+duplicate_normalized_at: 2026-04-26
 ---
 ## Source Summary
 

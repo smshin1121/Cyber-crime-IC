@@ -20,6 +20,10 @@ created: 2026-04-17
 updated: 2026-04-18
 defendant_names:
   - "Four Defendants"
+duplicate_of: "[[2023-11-17_edca_fatukala-yamamoto-mina-hollis-dark-web-sentencing]]"
+duplicate_reason: same_collection_url
+duplicate_key: "https://www.justice.gov/usao-edca/pr/four-defendants-sentenced-dark-web-cocaine-distribution-scheme"
+duplicate_normalized_at: 2026-04-26
 ---
 ## Source Summary
 

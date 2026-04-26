@@ -18,6 +18,10 @@ key_findings:
 collection_url: https://www.justice.gov/usao-wdmo/pr/kc-man-sentenced-selling-meth-heroin-dark-web
 created: 2026-04-18
 updated: 2026-04-18
+duplicate_of: "[[2024-02-29_justice-gov_kc-man-sentenced-for-selling-meth-heroin-on-the-dark-web]]"
+duplicate_reason: same_collection_url
+duplicate_key: "https://www.justice.gov/usao-wdmo/pr/kc-man-sentenced-selling-meth-heroin-dark-web"
+duplicate_normalized_at: 2026-04-26
 ---
 ## Source Summary
 

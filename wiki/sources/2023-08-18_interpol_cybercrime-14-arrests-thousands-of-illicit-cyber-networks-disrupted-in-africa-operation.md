@@ -21,6 +21,10 @@ key_findings:
   - "INTERPOL listed concrete operational highlights in Cameroon, Nigeria, Mauritius, Gambia, and Kenya."
 created: 2026-04-18
 updated: 2026-04-18
+duplicate_of: "[[2023-08-18_interpol-int_cybercrime-14-arrests-thousands-of-illicit-cyber-networks-disrupted-in-africa-op]]"
+duplicate_reason: same_collection_url
+duplicate_key: "https://www.interpol.int/en/News-and-Events/News/2023/Cybercrime-14-arrests-thousands-of-illicit-cyber-networks-disrupted-in-Africa-operation"
+duplicate_normalized_at: 2026-04-26
 ---
 ## Source Summary
 

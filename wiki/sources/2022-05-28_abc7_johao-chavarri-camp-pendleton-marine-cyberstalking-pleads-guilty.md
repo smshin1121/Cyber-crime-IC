@@ -16,6 +16,10 @@ key_findings:
   - "Plea-stage milestone: three-count guilty plea entered May 2022."
 collection_url: https://abc7.com/post/johao-chavarri-camp-pendleton-marine-cyberstalking-southern-california/11902073/
 created: 2026-04-25
+duplicate_of: "[[2022-02-09_abc7la_former-camp-pendleton-marine-chavarri-pleads-guilty-cyberstalking]]"
+duplicate_reason: same_collection_url
+duplicate_key: "https://abc7.com/post/johao-chavarri-camp-pendleton-marine-cyberstalking-southern-california/11902073/"
+duplicate_normalized_at: 2026-04-26
 ---
 ## Source Summary
 

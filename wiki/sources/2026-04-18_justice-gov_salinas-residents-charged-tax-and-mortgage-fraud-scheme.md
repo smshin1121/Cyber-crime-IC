@@ -21,6 +21,10 @@ defendant_names:
   - "In Tax And Mortgage"
   - "Salinas Residents"
 updated: 2026-04-18
+duplicate_of: "[[2015-10-09_justice-gov_salinas-residents-charged-in-tax-and-mortgage-fraud-scheme]]"
+duplicate_reason: same_collection_url
+duplicate_key: "https://www.justice.gov/usao-ndca/pr/salinas-residents-charged-tax-and-mortgage-fraud-scheme"
+duplicate_normalized_at: 2026-04-26
 ---
 ## Source Summary
 

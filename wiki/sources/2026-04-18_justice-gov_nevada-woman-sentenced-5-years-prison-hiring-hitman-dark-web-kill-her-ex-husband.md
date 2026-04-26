@@ -20,6 +20,10 @@ created: 2026-04-18
 defendant_names:
   - "Kristy Lynn Felkins"
 updated: 2026-04-18
+duplicate_of: "[[2023-07-21_justice-gov_nevada-woman-sentenced-to-5-years-prison-for-hiring-hitman-on-dark-web-to-kill-h]]"
+duplicate_reason: same_collection_url
+duplicate_key: "https://www.justice.gov/usao-edca/pr/nevada-woman-sentenced-5-years-prison-hiring-hitman-dark-web-kill-her-ex-husband"
+duplicate_normalized_at: 2026-04-26
 ---
 ## Source Summary
 

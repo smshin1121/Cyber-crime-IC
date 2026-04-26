@@ -17,6 +17,10 @@ key_findings:
   - "Confirms the 9-year prison term and the indictment date of March 2021."
 collection_url: https://www.secretservice.gov/newsroom/releases/2024/07/pernicious-cyberstalker-sentenced-9-years-prison-unrelenting-harassment
 created: 2026-04-25
+duplicate_of: "[[2024-07-11_secretservice-gov_pernicious-cyberstalker-sentenced-9-years-unrelenting-harassment-former-roommate]]"
+duplicate_reason: same_collection_url
+duplicate_key: "https://www.secretservice.gov/newsroom/releases/2024/07/pernicious-cyberstalker-sentenced-9-years-prison-unrelenting-harassment"
+duplicate_normalized_at: 2026-04-26
 ---
 ## Source Summary
 

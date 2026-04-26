@@ -17,6 +17,10 @@ key_findings:
   - "Investigation totals: 16,000 fentanyl pills, 30 lbs meth, 6 lbs heroin seized"
 collection_url: https://www.dea.gov/press-releases/2024/10/25/washington-man-sentenced-10-years-prison-role-right-hand-man-deadly-drug
 created: 2026-04-25
+duplicate_of: "[[2024-10-25_dea-gov_washington-man-sentenced-10-years-right-hand-man-deadly-drug-distribution-ring]]"
+duplicate_reason: same_collection_url
+duplicate_key: "https://www.dea.gov/press-releases/2024/10/25/washington-man-sentenced-10-years-prison-role-right-hand-man-deadly-drug"
+duplicate_normalized_at: 2026-04-26
 ---
 ## Source Summary
 

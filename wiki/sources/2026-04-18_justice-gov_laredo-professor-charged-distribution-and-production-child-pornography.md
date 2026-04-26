@@ -18,6 +18,10 @@ key_findings:
 collection_url: https://www.justice.gov/usao-sdtx/pr/laredo-professor-charged-distribution-and-production-child-pornography
 created: 2026-04-18
 updated: 2026-04-18
+duplicate_of: "[[2024-12-10_justice-gov_laredo-professor-charged-with-distribution-and-production-of-child-pornography]]"
+duplicate_reason: same_collection_url
+duplicate_key: "https://www.justice.gov/usao-sdtx/pr/laredo-professor-charged-distribution-and-production-child-pornography"
+duplicate_normalized_at: 2026-04-26
 ---
 ## Source Summary
 

@@ -20,6 +20,10 @@ key_findings:
   - "The page gives the FCCU telephone number 02 743 72 00 for assistance."
   - "While not the core structural source, it corroborates that the FCCU has a practical public-facing contact function in Belgian cyber incidents."
 created: 2026-04-18
+duplicate_of: "[[2026-04-17_politie-be_internetcriminaliteit]]"
+duplicate_reason: same_collection_url
+duplicate_key: "https://www.politie.be/5415/vragen/criminaliteit-op-internet/internetcriminaliteit"
+duplicate_normalized_at: 2026-04-26
 ---
 ## Source Summary
 

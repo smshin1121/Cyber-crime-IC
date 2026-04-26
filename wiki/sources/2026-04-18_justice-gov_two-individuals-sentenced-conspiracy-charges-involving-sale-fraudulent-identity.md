@@ -20,6 +20,10 @@ created: 2026-04-18
 defendant_names:
   - "Evan Hayes"
 updated: 2026-04-18
+duplicate_of: "[[2022-04-05_justice-gov_two-individuals-sentenced-conspiracy-charges-fraudulent-identity-documents]]"
+duplicate_reason: same_collection_url
+duplicate_key: "https://www.justice.gov/usao-edca/pr/two-individuals-sentenced-conspiracy-charges-involving-sale-fraudulent-identity"
+duplicate_normalized_at: 2026-04-26
 ---
 ## Source Summary
 

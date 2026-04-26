@@ -20,6 +20,10 @@ created: 2026-04-17
 defendant_names:
   - "Three Nigerians"
 updated: 2026-04-18
+duplicate_of: "[[2022-05-30_interpol-int_interpol-online-scamming-fraud-three-nigerians-arrested-in-operation-killer-bee]]"
+duplicate_reason: same_collection_url
+duplicate_key: "https://www.interpol.int/News-and-Events/News/2022/Online-scamming-fraud-three-Nigerians-arrested-in-INTERPOL-Operation-Killer-Bee"
+duplicate_normalized_at: 2026-04-26
 ---
 ## Source Summary
 

@@ -21,6 +21,10 @@ defendant_names:
   - "Defendant Nicole Dunlap"
   - "Marcus Smith"
 updated: 2026-04-18
+duplicate_of: "[[2020-01-27_justice-gov_bay-area-residents-sentenced-to-five-years-for-counterfeit-currency-and-credit-c]]"
+duplicate_reason: same_collection_url
+duplicate_key: "https://www.justice.gov/usao-ndca/pr/bay-area-residents-sentenced-five-years-counterfeit-currency-and-credit-card-fraud"
+duplicate_normalized_at: 2026-04-26
 ---
 ## Source Summary
 

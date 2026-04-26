@@ -20,6 +20,10 @@ created: 2026-04-18
 defendant_names:
   - "Marco Juarez"
 updated: 2026-04-18
+duplicate_of: "[[2024-12-02_justice-gov_final-co-conspirator-ordered-to-prison-for-dark-web-pill-manufacturing-and-distr]]"
+duplicate_reason: same_collection_url
+duplicate_key: "https://www.justice.gov/usao-sdtx/pr/final-co-conspirator-ordered-prison-dark-web-pill-manufacturing-and-distribution-ring"
+duplicate_normalized_at: 2026-04-26
 ---
 ## Source Summary
 

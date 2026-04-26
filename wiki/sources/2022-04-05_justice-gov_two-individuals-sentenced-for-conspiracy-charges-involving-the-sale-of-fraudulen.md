@@ -17,6 +17,10 @@ key_findings:
   - "This domestic-only U.S. follow-on record has been absorbed into the canonical case page [[two-individuals-sentenced-for-conspiracy-charges-involving-the-sale-of-fraudulent-identity-documents-on-the-da]]. No visible cross-border mechanism is documented, so it is not treated as a separate international-cooperation operation."
 collection_url: https://www.justice.gov/usao-edca/pr/two-individuals-sentenced-conspiracy-charges-involving-sale-fraudulent-identity
 created: 2026-04-17
+duplicate_of: "[[2022-04-05_justice-gov_two-individuals-sentenced-conspiracy-charges-fraudulent-identity-documents]]"
+duplicate_reason: same_collection_url
+duplicate_key: "https://www.justice.gov/usao-edca/pr/two-individuals-sentenced-conspiracy-charges-involving-sale-fraudulent-identity"
+duplicate_normalized_at: 2026-04-26
 ---
 ## Source Summary
 

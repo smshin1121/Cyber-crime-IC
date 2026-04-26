@@ -20,6 +20,10 @@ created: 2026-04-18
 updated: 2026-04-18
 defendant_names:
   - "Cryptocurrency Exchange"
+duplicate_of: "[[2023-12-06_justice-gov_founder-and-majority-owner-of-cryptocurrency-exchange-pleads-guilty-to-unlicense]]"
+duplicate_reason: same_collection_url
+duplicate_key: "https://www.justice.gov/usao-edny/pr/founder-and-majority-owner-cryptocurrency-exchange-pleads-guilty-unlicensed-money"
+duplicate_normalized_at: 2026-04-26
 ---
 ## Source Summary
 

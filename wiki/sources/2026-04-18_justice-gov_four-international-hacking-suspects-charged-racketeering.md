@@ -20,6 +20,10 @@ created: 2026-04-18
 updated: 2026-04-18
 defendant_names:
   - "Four International Hacking Suspects"
+duplicate_of: "[[2018-12-04_justice-gov_four-international-hacking-suspects-charged-racketeering]]"
+duplicate_reason: same_collection_url
+duplicate_key: "https://www.justice.gov/usao-dc/pr/four-international-hacking-suspects-charged-racketeering"
+duplicate_normalized_at: 2026-04-26
 ---
 ## Source Summary
 

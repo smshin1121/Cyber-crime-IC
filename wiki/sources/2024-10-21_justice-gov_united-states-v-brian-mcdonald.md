@@ -20,6 +20,10 @@ created: 2026-04-17
 updated: 2026-04-18
 defendant_names:
   - "Van Nuys Man"
+duplicate_of: "[[2024-10-21_cdca_brian-mcdonald-darknet-sentencing]]"
+duplicate_reason: same_collection_url
+duplicate_key: "https://www.justice.gov/usao-cdca/pr/van-nuys-man-sentenced-more-20-years-prison-trafficking-fentanyl-and-cocaine-darknet"
+duplicate_normalized_at: 2026-04-26
 ---
 ## Source Summary
 

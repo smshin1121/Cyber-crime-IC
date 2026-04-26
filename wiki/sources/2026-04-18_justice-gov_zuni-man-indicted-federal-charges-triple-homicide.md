@@ -20,6 +20,10 @@ created: 2026-04-18
 defendant_names:
   - "Willis Kylestewa"
 updated: 2026-04-18
+duplicate_of: "[[2025-11-13_justice-gov_zuni-man-indicted-for-federal-charges-in-triple-homicide]]"
+duplicate_reason: same_collection_url
+duplicate_key: "https://www.justice.gov/usao-nm/pr/zuni-man-indicted-federal-charges-triple-homicide"
+duplicate_normalized_at: 2026-04-26
 ---
 ## Source Summary
 

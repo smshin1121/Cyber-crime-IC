@@ -21,6 +21,10 @@ updated: 2026-04-18
 defendant_names:
   - "To More Than"
   - "Lakeland Man"
+duplicate_of: "[[2021-07-01_justice-gov_lakeland-man-sentenced-to-more-than-9-years-in-federal-prison-for-downloading-an]]"
+duplicate_reason: same_collection_url
+duplicate_key: "https://www.justice.gov/usao-mdfl/pr/lakeland-man-sentenced-more-9-years-federal-prison-downloading-and-possessing-child-sex"
+duplicate_normalized_at: 2026-04-26
 ---
 ## Source Summary
 

@@ -20,6 +20,10 @@ created: 2026-04-18
 defendant_names:
   - "Argishti Khudaverdyan"
 updated: 2026-04-18
+duplicate_of: "[[2022-08-01_justice-gov_former-owner-of-t-mobile-retail-store-in-eagle-rock-found-guilty-of-committing-2]]"
+duplicate_reason: same_collection_url
+duplicate_key: "https://www.justice.gov/usao-cdca/pr/former-owner-t-mobile-retail-store-eagle-rock-found-guilty-committing-25-million-scheme"
+duplicate_normalized_at: 2026-04-26
 ---
 ## Source Summary
 

@@ -18,6 +18,10 @@ key_findings:
   - "Operation involved cooperation with Malaysian and Nigerian authorities."
 collection_url: https://www.justice.gov/usao-az/pr/nigerian-nationals-victimize-us-persons-through-cyber-enabled-fraud-schemes
 created: 2026-04-25
+duplicate_of: "[[2023-02-03_justice-gov_nigerian-nationals-victimize-u-s-persons-through-cyber-enabled-fraud-schemes]]"
+duplicate_reason: same_collection_url
+duplicate_key: "https://www.justice.gov/usao-az/pr/nigerian-nationals-victimize-us-persons-through-cyber-enabled-fraud-schemes"
+duplicate_normalized_at: 2026-04-26
 ---
 ## Source Summary
 

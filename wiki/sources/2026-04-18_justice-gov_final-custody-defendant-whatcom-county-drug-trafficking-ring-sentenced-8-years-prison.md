@@ -20,6 +20,10 @@ created: 2026-04-18
 defendant_names:
   - "Mohamed Abdirisak Mohamed"
 updated: 2026-04-18
+duplicate_of: "[[2025-05-09_justice-gov_final-in-custody-defendant-in-whatcom-county-drug-trafficking-ring-sentenced-to]]"
+duplicate_reason: same_collection_url
+duplicate_key: "https://www.justice.gov/usao-wdwa/pr/final-custody-defendant-whatcom-county-drug-trafficking-ring-sentenced-8-years-prison"
+duplicate_normalized_at: 2026-04-26
 ---
 ## Source Summary
 

@@ -20,6 +20,10 @@ created: 2026-04-17
 defendant_names:
   - "Chaloner Saintillus"
 updated: 2026-04-18
+duplicate_of: "[[2024-02-05_edca_chaloner-saintillus-dark-web-sentencing]]"
+duplicate_reason: same_collection_url
+duplicate_key: "https://www.justice.gov/usao-edca/pr/florida-man-sentenced-10-years-prison-selling-fentanyl-over-dark-web"
+duplicate_normalized_at: 2026-04-26
 ---
 ## Source Summary
 

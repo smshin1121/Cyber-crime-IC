@@ -20,6 +20,10 @@ created: 2026-04-18
 defendant_names:
   - "Alexander James Rosell"
 updated: 2026-04-18
+duplicate_of: "[[2025-01-17_justice-gov_kansas-man-pleads-guilty-to-child-pornography-possession]]"
+duplicate_reason: same_collection_url
+duplicate_key: "https://www.justice.gov/usao-ks/pr/kansas-man-pleads-guilty-child-pornography-possession"
+duplicate_normalized_at: 2026-04-26
 ---
 ## Source Summary
 

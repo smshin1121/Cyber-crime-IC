@@ -20,6 +20,10 @@ created: 2026-04-18
 defendant_names:
   - "Raymond Glover"
 updated: 2026-04-18
+duplicate_of: "[[2023-10-17_justice-gov_district-man-sentenced-to-97-months-in-prison-for-soliciting-and-receiving-child]]"
+duplicate_reason: same_collection_url
+duplicate_key: "https://www.justice.gov/usao-dc/pr/district-man-sentenced-97-months-prison-soliciting-and-receiving-child-pornography"
+duplicate_normalized_at: 2026-04-26
 ---
 ## Source Summary
 

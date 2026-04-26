@@ -20,6 +20,10 @@ created: 2026-04-17
 defendant_names:
   - "John Telusma"
 updated: 2026-04-18
+duplicate_of: "[[2022-05-25_justice-gov_man-sentenced-for-transnational-cybercrime-enterprise]]"
+duplicate_reason: same_collection_url
+duplicate_key: "https://www.justice.gov/archives/opa/pr/man-sentenced-transnational-cybercrime-enterprise"
+duplicate_normalized_at: 2026-04-26
 ---
 ## Source Summary
 

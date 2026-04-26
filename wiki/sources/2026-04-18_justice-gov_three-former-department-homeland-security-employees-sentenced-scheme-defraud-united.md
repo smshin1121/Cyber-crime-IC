@@ -20,6 +20,10 @@ created: 2026-04-18
 updated: 2026-04-18
 defendant_names:
   - "Homeland Security Employees"
+duplicate_of: "[[2024-01-26_justice-gov_three-former-department-of-homeland-security-employees-sentenced-in-scheme-to-de]]"
+duplicate_reason: same_collection_url
+duplicate_key: "https://www.justice.gov/usao-dc/pr/three-former-department-homeland-security-employees-sentenced-scheme-defraud-united"
+duplicate_normalized_at: 2026-04-26
 ---
 ## Source Summary
 

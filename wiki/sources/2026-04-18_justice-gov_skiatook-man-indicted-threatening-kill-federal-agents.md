@@ -20,6 +20,10 @@ created: 2026-04-18
 defendant_names:
   - "Logan Christopher Murfin"
 updated: 2026-04-18
+duplicate_of: "[[2025-12-11_justice-gov_skiatook-man-indicted-for-threatening-to-kill-federal-agents]]"
+duplicate_reason: same_collection_url
+duplicate_key: "https://www.justice.gov/usao-ndok/pr/skiatook-man-indicted-threatening-kill-federal-agents"
+duplicate_normalized_at: 2026-04-26
 ---
 ## Source Summary
 

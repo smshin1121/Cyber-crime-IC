@@ -21,6 +21,10 @@ defendant_names:
   - "Sadie Bramlette"
   - "Dejian Johl"
 updated: 2026-04-18
+duplicate_of: "[[2025-06-23_justice-gov_sacramento-woman-pleads-guilty-to-conspiracy-to-distribute-fentanyl]]"
+duplicate_reason: same_collection_url
+duplicate_key: "https://www.justice.gov/usao-edca/pr/sacramento-woman-pleads-guilty-conspiracy-distribute-fentanyl"
+duplicate_normalized_at: 2026-04-26
 ---
 ## Source Summary
 

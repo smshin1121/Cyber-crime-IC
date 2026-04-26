@@ -20,6 +20,10 @@ key_findings:
   - "The article states that ComCyberGEND handles the judicialization of offences linked to the dark web, child sexual abuse material, encryption, cryptocurrency and attacks on automated data-processing systems."
   - "It explains that the command structure integrates C3N and a regional investigative network for higher-end cybercrime cases."
 created: 2026-04-18
+duplicate_of: "[[2021-09-15_gendarmerie-interieur-gouv-fr_des-enqu-teurs-pour-traquer-les-cyber-criminels]]"
+duplicate_reason: same_collection_url
+duplicate_key: "https://www.gendarmerie.interieur.gouv.fr/gendinfo/actualites/2021/des-enqueteurs-pour-traquer-les-cyber-criminels"
+duplicate_normalized_at: 2026-04-26
 ---
 ## Source Summary
 

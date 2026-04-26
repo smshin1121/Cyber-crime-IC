@@ -22,6 +22,10 @@ key_findings:
   - "Authorities from Germany, the United Kingdom, the Netherlands, Spain, Italy, Luxembourg, the United States, Canada, Singapore, and Cyprus were involved."
   - "Eurojust organized coordination meetings and supported 90 EIOs and MLA requests to 30 countries."
 created: 2026-04-19
+duplicate_of: "[[2025-11-05_eurojust-europa-eu_eurojust-coordinates-major-operation-against-eur-300-million-global-credit-card]]"
+duplicate_reason: same_collection_url
+duplicate_key: "https://www.eurojust.europa.eu/news/eurojust-coordinates-major-operation-against-eur-300-million-global-credit-card-fraud-18"
+duplicate_normalized_at: 2026-04-26
 ---
 ## Source Summary
 

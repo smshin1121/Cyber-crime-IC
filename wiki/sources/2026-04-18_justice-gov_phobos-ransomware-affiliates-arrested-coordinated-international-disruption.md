@@ -20,6 +20,10 @@ created: 2026-04-18
 updated: 2026-04-18
 defendant_names:
   - "Phobos Ransomware Affiliates"
+duplicate_of: "[[2025-02-10_justice-gov_phobos-ransomware-affiliates-arrested-in-coordinated-international-disruption]]"
+duplicate_reason: same_collection_url
+duplicate_key: "https://www.justice.gov/opa/pr/phobos-ransomware-affiliates-arrested-coordinated-international-disruption"
+duplicate_normalized_at: 2026-04-26
 ---
 ## Source Summary
 

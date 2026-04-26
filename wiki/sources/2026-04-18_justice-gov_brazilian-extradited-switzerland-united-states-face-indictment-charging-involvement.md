@@ -20,6 +20,10 @@ created: 2026-04-18
 updated: 2026-04-18
 defendant_names:
   - "Charging Involvement"
+duplicate_of: "[[2025-02-21_justice-gov_brazilian-extradited-from-switzerland-to-the-united-states-to-face-indictment-ch]]"
+duplicate_reason: same_collection_url
+duplicate_key: "https://www.justice.gov/usao-wdwa/pr/brazilian-extradited-switzerland-united-states-face-indictment-charging-involvement"
+duplicate_normalized_at: 2026-04-26
 ---
 ## Source Summary
 

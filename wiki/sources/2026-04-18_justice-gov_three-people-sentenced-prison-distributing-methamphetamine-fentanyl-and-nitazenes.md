@@ -20,6 +20,10 @@ created: 2026-04-18
 updated: 2026-04-18
 defendant_names:
   - "Three People"
+duplicate_of: "[[2025-08-06_justice-gov_three-people-sentenced-to-prison-for-distributing-methamphetamine-fentanyl-and-n]]"
+duplicate_reason: same_collection_url
+duplicate_key: "https://www.justice.gov/usao-sdfl/pr/three-people-sentenced-prison-distributing-methamphetamine-fentanyl-and-nitazenes"
+duplicate_normalized_at: 2026-04-26
 ---
 ## Source Summary
 

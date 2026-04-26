@@ -18,6 +18,10 @@ key_findings:
 collection_url: https://www.justice.gov/usao-edpa/pr/montgomery-county-doctor-charged-illegally-prescribing-opioids
 created: 2026-04-18
 updated: 2026-04-18
+duplicate_of: "[[2019-08-02_justice-gov_montgomery-county-doctor-charged-with-illegally-prescribing-opioids]]"
+duplicate_reason: same_collection_url
+duplicate_key: "https://www.justice.gov/usao-edpa/pr/montgomery-county-doctor-charged-illegally-prescribing-opioids"
+duplicate_normalized_at: 2026-04-26
 ---
 ## Source Summary
 

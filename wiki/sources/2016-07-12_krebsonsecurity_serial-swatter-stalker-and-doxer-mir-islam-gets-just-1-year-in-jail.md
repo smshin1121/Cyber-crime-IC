@@ -17,6 +17,10 @@ key_findings:
   - "Targets included Rep. Ted Lieu, former FBI Director Mueller, NRA President LaPierre, and journalist Brian Krebs"
 collection_url: https://krebsonsecurity.com/2016/07/serial-swatter-stalker-and-doxer-mir-islam-gets-just-1-year-in-jail/
 created: 2026-04-25
+duplicate_of: "[[2016-07-11_krebsonsecurity_serial-swatter-stalker-doxer-mir-islam-gets-just-1-year-jail]]"
+duplicate_reason: same_collection_url
+duplicate_key: "https://krebsonsecurity.com/2016/07/serial-swatter-stalker-and-doxer-mir-islam-gets-just-1-year-in-jail/"
+duplicate_normalized_at: 2026-04-26
 ---
 ## Source Summary
 

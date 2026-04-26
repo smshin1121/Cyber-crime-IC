@@ -18,6 +18,10 @@ key_findings:
 collection_url: https://www.justice.gov/usao-ma/pr/wakefield-man-pleads-guilty-role-methamphetamine-trafficking-ring
 created: 2026-04-18
 updated: 2026-04-18
+duplicate_of: "[[2025-12-02_justice-gov_wakefield-man-pleads-guilty-to-role-in-methamphetamine-trafficking-ring]]"
+duplicate_reason: same_collection_url
+duplicate_key: "https://www.justice.gov/usao-ma/pr/wakefield-man-pleads-guilty-role-methamphetamine-trafficking-ring"
+duplicate_normalized_at: 2026-04-26
 ---
 ## Source Summary
 

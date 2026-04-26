@@ -20,6 +20,10 @@ created: 2026-04-18
 defendant_names:
   - "Ronald Victor Solakian"
 updated: 2026-04-18
+duplicate_of: "[[2018-11-06_justice-gov_sonoma-county-resident-sentenced-to-30-months-in-prison-for-passport-fraud-and-i]]"
+duplicate_reason: same_collection_url
+duplicate_key: "https://www.justice.gov/usao-ndca/pr/sonoma-county-resident-sentenced-30-months-prison-passport-fraud-and-identity-theft"
+duplicate_normalized_at: 2026-04-26
 ---
 ## Source Summary
 

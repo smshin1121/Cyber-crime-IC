@@ -18,6 +18,10 @@ key_findings:
 collection_url: https://www.justice.gov/usao-edmo/pr/kirkwood-resident-pleads-guilty-identity-theft
 created: 2026-04-18
 updated: 2026-04-18
+duplicate_of: "[[2021-11-03_justice-gov_kirkwood-resident-pleads-guilty-for-identity-theft]]"
+duplicate_reason: same_collection_url
+duplicate_key: "https://www.justice.gov/usao-edmo/pr/kirkwood-resident-pleads-guilty-identity-theft"
+duplicate_normalized_at: 2026-04-26
 ---
 ## Source Summary
 

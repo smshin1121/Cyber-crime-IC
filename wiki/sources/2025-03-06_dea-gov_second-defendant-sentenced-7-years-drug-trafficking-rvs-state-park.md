@@ -17,6 +17,10 @@ key_findings:
   - "Confirms the seven-year sentence and the May 12, 2024 shooting origin of the case."
 collection_url: https://www.dea.gov/press-releases/2025/03/06/second-defendant-sentenced-7-years-prison-drug-trafficking-rvs-near
 created: 2026-04-25
+duplicate_of: "[[2025-03-06_dea-gov_second-defendant-sentenced-7-years-drug-trafficking-rvs-state-park-dea]]"
+duplicate_reason: same_collection_url
+duplicate_key: "https://www.dea.gov/press-releases/2025/03/06/second-defendant-sentenced-7-years-prison-drug-trafficking-rvs-near"
+duplicate_normalized_at: 2026-04-26
 ---
 ## Source Summary
 

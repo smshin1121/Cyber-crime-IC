@@ -20,6 +20,10 @@ created: 2026-04-18
 updated: 2026-04-18
 defendant_names:
   - "Insider Trading"
+duplicate_of: "[[2023-08-23_justice-gov_attorney-arrested-on-charges-of-insider-trading]]"
+duplicate_reason: same_collection_url
+duplicate_key: "https://www.justice.gov/usao-dc/pr/attorney-arrested-charges-insider-trading"
+duplicate_normalized_at: 2026-04-26
 ---
 ## Source Summary
 

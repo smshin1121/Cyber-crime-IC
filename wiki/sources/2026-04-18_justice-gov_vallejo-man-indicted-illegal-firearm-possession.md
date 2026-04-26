@@ -20,6 +20,10 @@ created: 2026-04-18
 defendant_names:
   - "Dequan Lamar Mitchell"
 updated: 2026-04-18
+duplicate_of: "[[2026-02-12_justice-gov_vallejo-man-indicted-for-illegal-firearm-possession]]"
+duplicate_reason: same_collection_url
+duplicate_key: "https://www.justice.gov/usao-edca/pr/vallejo-man-indicted-illegal-firearm-possession"
+duplicate_normalized_at: 2026-04-26
 ---
 ## Source Summary
 

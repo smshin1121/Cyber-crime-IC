@@ -20,6 +20,10 @@ created: 2026-04-18
 defendant_names:
   - "Brandon Spann"
 updated: 2026-04-18
+duplicate_of: "[[2020-08-17_justice-gov_maryland-man-sentenced-to-30-months-in-prison-for-cyberstalking-former-girlfrien]]"
+duplicate_reason: same_collection_url
+duplicate_key: "https://www.justice.gov/usao-dc/pr/maryland-man-sentenced-30-months-prison-cyberstalking-former-girlfriend-and-threatening"
+duplicate_normalized_at: 2026-04-26
 ---
 ## Source Summary
 

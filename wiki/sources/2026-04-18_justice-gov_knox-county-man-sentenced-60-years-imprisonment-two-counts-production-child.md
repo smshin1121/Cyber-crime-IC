@@ -20,6 +20,10 @@ created: 2026-04-18
 defendant_names:
   - "Matthew Estes"
 updated: 2026-04-18
+duplicate_of: "[[2025-04-16_justice-gov_knox-county-man-sentenced-to-60-years-imprisonment-for-two-counts-of-production]]"
+duplicate_reason: same_collection_url
+duplicate_key: "https://www.justice.gov/usao-edtn/pr/knox-county-man-sentenced-60-years-imprisonment-two-counts-production-child"
+duplicate_normalized_at: 2026-04-26
 ---
 ## Source Summary
 

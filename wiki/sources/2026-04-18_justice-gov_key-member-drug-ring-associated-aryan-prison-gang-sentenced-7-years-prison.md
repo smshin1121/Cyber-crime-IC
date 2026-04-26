@@ -20,6 +20,10 @@ created: 2026-04-18
 defendant_names:
   - "Michael Warren"
 updated: 2026-04-18
+duplicate_of: "[[2025-02-07_justice-gov_key-member-of-drug-ring-associated-with-aryan-prison-gang-sentenced-to-7-years-i]]"
+duplicate_reason: same_collection_url
+duplicate_key: "https://www.justice.gov/usao-wdwa/pr/key-member-drug-ring-associated-aryan-prison-gang-sentenced-7-years-prison"
+duplicate_normalized_at: 2026-04-26
 ---
 ## Source Summary
 

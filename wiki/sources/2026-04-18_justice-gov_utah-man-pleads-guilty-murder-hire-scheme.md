@@ -20,6 +20,10 @@ created: 2026-04-18
 updated: 2026-04-18
 defendant_names:
   - "Utah Man"
+duplicate_of: "[[2023-12-06_justice-gov_utah-man-pleads-guilty-to-murder-for-hire-scheme]]"
+duplicate_reason: same_collection_url
+duplicate_key: "https://www.justice.gov/usao-ndny/pr/utah-man-pleads-guilty-murder-hire-scheme"
+duplicate_normalized_at: 2026-04-26
 ---
 ## Source Summary
 

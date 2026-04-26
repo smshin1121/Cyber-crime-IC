@@ -16,6 +16,10 @@ key_findings:
   - "Sentencing-day coverage of the U.S. District Court hearing"
 collection_url: https://www.chronline.com/stories/rochester-man-caught-twice-with-drugs-firearms-sentenced-to-seven-years-in-prison-in-us-district,368685
 created: 2026-04-25
+duplicate_of: "[[2025-01-15_chronline_rochester-man-caught-twice-drugs-firearms-sentenced-seven-years-us-district-court]]"
+duplicate_reason: same_collection_url
+duplicate_key: "https://www.chronline.com/stories/rochester-man-caught-twice-with-drugs-firearms-sentenced-to-seven-years-in-prison-in-us-district,368685"
+duplicate_normalized_at: 2026-04-26
 ---
 ## Source Summary
 

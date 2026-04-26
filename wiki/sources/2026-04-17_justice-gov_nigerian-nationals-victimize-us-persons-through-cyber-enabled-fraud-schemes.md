@@ -18,6 +18,10 @@ key_findings:
 collection_url: https://www.justice.gov/usao-az/pr/nigerian-nationals-victimize-us-persons-through-cyber-enabled-fraud-schemes
 created: 2026-04-17
 updated: 2026-04-18
+duplicate_of: "[[2023-02-03_justice-gov_nigerian-nationals-victimize-u-s-persons-through-cyber-enabled-fraud-schemes]]"
+duplicate_reason: same_collection_url
+duplicate_key: "https://www.justice.gov/usao-az/pr/nigerian-nationals-victimize-us-persons-through-cyber-enabled-fraud-schemes"
+duplicate_normalized_at: 2026-04-26
 ---
 ## Source Summary
 

@@ -20,6 +20,10 @@ created: 2026-04-17
 defendant_names:
   - "Connor Brooke"
 updated: 2026-04-18
+duplicate_of: "[[2019-10-02_justice-gov_dark-web-vendors-plead-guilty-to-cryptocurrency-money-laundering-conspiracy]]"
+duplicate_reason: same_collection_url
+duplicate_key: "https://www.justice.gov/usao-sdca/pr/dark-web-vendors-plead-guilty-cryptocurrency-money-laundering-conspiracy"
+duplicate_normalized_at: 2026-04-26
 ---
 ## Source Summary
 

@@ -20,6 +20,10 @@ created: 2026-04-18
 defendant_names:
   - "Jesse Kipf"
 updated: 2026-04-18
+duplicate_of: "[[2023-11-22_justice-gov_pulaski-county-man-indicted-for-cyber-intrusion-identity-theft-and-bank-fraud]]"
+duplicate_reason: same_collection_url
+duplicate_key: "https://www.justice.gov/usao-edky/pr/pulaski-county-man-indicted-cyber-intrusion-identity-theft-and-bank-fraud"
+duplicate_normalized_at: 2026-04-26
 ---
 ## Source Summary
 

@@ -18,6 +18,10 @@ key_findings:
 collection_url: https://www.justice.gov/usao-sdoh/pr/six-defendants-charged-selling-millions-dollars-worth-psychedelic-mushrooms-online
 created: 2026-04-18
 updated: 2026-04-18
+duplicate_of: "[[2021-05-19_justice-gov_six-defendants-charged-with-selling-millions-of-dollars-worth-of-psychedelic-mus]]"
+duplicate_reason: same_collection_url
+duplicate_key: "https://www.justice.gov/usao-sdoh/pr/six-defendants-charged-selling-millions-dollars-worth-psychedelic-mushrooms-online"
+duplicate_normalized_at: 2026-04-26
 ---
 ## Source Summary
 

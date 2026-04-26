@@ -25,6 +25,10 @@ key_findings:
   - "The marketplace served 'thousands of users' and operated as a specialized downstream outlet for phishing-harvested data — filling the supply chain role between phishing infrastructure and stolen-data resellers"
 created: 2026-04-08
 updated: 2026-04-10
+duplicate_of: "[[2024-12-04_europol-europa-eu_fraudulent-shopping-sites-tied-to-cybercrime-marketplace-taken-offline]]"
+duplicate_reason: same_collection_url
+duplicate_key: "https://www.europol.europa.eu/media-press/newsroom/news/fraudulent-shopping-sites-tied-to-cybercrime-marketplace-taken-offline"
+duplicate_normalized_at: 2026-04-26
 ---
 
 ## Source

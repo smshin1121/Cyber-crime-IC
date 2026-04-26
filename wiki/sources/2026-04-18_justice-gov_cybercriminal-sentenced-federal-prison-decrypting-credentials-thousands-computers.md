@@ -20,6 +20,10 @@ created: 2026-04-18
 updated: 2026-04-18
 defendant_names:
   - "To Federal Prison For"
+duplicate_of: "[[2022-05-12_justice-gov_cybercriminal-sentenced-to-federal-prison-for-decrypting-the-credentials-of-thou]]"
+duplicate_reason: same_collection_url
+duplicate_key: "https://www.justice.gov/usao-mdfl/pr/cybercriminal-sentenced-federal-prison-decrypting-credentials-thousands-computers"
+duplicate_normalized_at: 2026-04-26
 ---
 ## Source Summary
 

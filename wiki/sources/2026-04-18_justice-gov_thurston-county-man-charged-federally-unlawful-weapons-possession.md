@@ -18,6 +18,10 @@ key_findings:
 collection_url: https://www.justice.gov/usao-wdwa/pr/thurston-county-man-charged-federally-unlawful-weapons-possession
 created: 2026-04-18
 updated: 2026-04-18
+duplicate_of: "[[2026-02-24_justice-gov_lewis-county-man-charged-federally-with-unlawful-weapons-possession]]"
+duplicate_reason: same_collection_url
+duplicate_key: "https://www.justice.gov/usao-wdwa/pr/thurston-county-man-charged-federally-unlawful-weapons-possession"
+duplicate_normalized_at: 2026-04-26
 ---
 ## Source Summary
 

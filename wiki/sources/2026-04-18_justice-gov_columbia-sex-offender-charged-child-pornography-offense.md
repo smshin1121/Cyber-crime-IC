@@ -20,6 +20,10 @@ created: 2026-04-18
 defendant_names:
   - "Andrew Charles Nicholls"
 updated: 2026-04-18
+duplicate_of: "[[2025-05-13_justice-gov_columbia-sex-offender-charged-with-child-pornography-offense]]"
+duplicate_reason: same_collection_url
+duplicate_key: "https://www.justice.gov/usao-wdmo/pr/columbia-sex-offender-charged-child-pornography-offense"
+duplicate_normalized_at: 2026-04-26
 ---
 ## Source Summary
 

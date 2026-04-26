@@ -18,6 +18,10 @@ key_findings:
 collection_url: https://www.justice.gov/usao-sdga/pr/north-carolina-man-sentenced-federal-prison-distributing-opioids-through-dark-web
 created: 2026-04-18
 updated: 2026-04-18
+duplicate_of: "[[2021-09-28_justice-gov_north-carolina-man-sentenced-to-federal-prison-for-distributing-opioids-through]]"
+duplicate_reason: same_collection_url
+duplicate_key: "https://www.justice.gov/usao-sdga/pr/north-carolina-man-sentenced-federal-prison-distributing-opioids-through-dark-web"
+duplicate_normalized_at: 2026-04-26
 ---
 ## Source Summary
 

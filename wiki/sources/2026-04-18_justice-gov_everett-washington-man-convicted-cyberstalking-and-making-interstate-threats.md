@@ -18,6 +18,10 @@ key_findings:
 collection_url: https://www.justice.gov/usao-wdwa/pr/everett-washington-man-convicted-cyberstalking-and-making-interstate-threats
 created: 2026-04-18
 updated: 2026-04-18
+duplicate_of: "[[2023-09-15_justice-gov-wdwa_everett-washington-man-convicted-cyberstalking-and-making-interstate-threats]]"
+duplicate_reason: same_collection_url
+duplicate_key: "https://www.justice.gov/usao-wdwa/pr/everett-washington-man-convicted-cyberstalking-and-making-interstate-threats"
+duplicate_normalized_at: 2026-04-26
 ---
 ## Source Summary
 

@@ -21,6 +21,10 @@ defendant_names:
   - "Tal Prihar"
   - "Michael Phan"
 updated: 2026-04-18
+duplicate_of: "[[2021-03-31_justice-gov_deepdotweb-administrator-pleads-guilty-to-money-laundering-conspiracy]]"
+duplicate_reason: same_collection_url
+duplicate_key: "https://www.justice.gov/usao-wdpa/pr/deepdotweb-administrator-pleads-guilty-money-laundering-conspiracy"
+duplicate_normalized_at: 2026-04-26
 ---
 ## Source Summary
 

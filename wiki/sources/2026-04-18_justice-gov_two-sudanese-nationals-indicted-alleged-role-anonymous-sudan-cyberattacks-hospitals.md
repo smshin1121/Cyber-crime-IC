@@ -21,6 +21,10 @@ defendant_names:
   - "Ahmed Salah Yousif Omer"
   - "Alaa Salah Yusuuf Omer"
 updated: 2026-04-18
+duplicate_of: "[[2024-10-16_justice-gov_two-sudanese-nationals-indicted-for-alleged-role-in-anonymous-sudan-cyberattacks]]"
+duplicate_reason: same_collection_url
+duplicate_key: "https://www.justice.gov/usao-cdca/pr/two-sudanese-nationals-indicted-alleged-role-anonymous-sudan-cyberattacks-hospitals"
+duplicate_normalized_at: 2026-04-26
 ---
 ## Source Summary
 

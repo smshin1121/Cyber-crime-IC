@@ -21,6 +21,10 @@ defendant_names:
   - "With Selling Fentanyl And"
   - "Father And Son"
 updated: 2026-04-18
+duplicate_of: "[[2017-08-23_justice-gov_father-and-son-charged-with-selling-fentanyl-and-oxycodone-on-the-dark-web]]"
+duplicate_reason: same_collection_url
+duplicate_key: "https://www.justice.gov/usao-sdny/pr/father-and-son-charged-selling-fentanyl-and-oxycodone-dark-web"
+duplicate_normalized_at: 2026-04-26
 ---
 ## Source Summary
 

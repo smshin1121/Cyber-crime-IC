@@ -20,6 +20,10 @@ key_findings:
   - "The page describes the Landelijk Parket as working with national police and other partners on severe cross-border crime."
   - "This is a direct source for prosecution-side Dutch cybercrime coordination."
 created: 2026-04-18
+duplicate_of: "[[2026-04-17_om-nl_landelijk-parket]]"
+duplicate_reason: same_collection_url
+duplicate_key: "https://www.om.nl/organisatie/landelijk-parket"
+duplicate_normalized_at: 2026-04-26
 ---
 ## Source Summary
 

@@ -33,6 +33,10 @@ created: 2026-04-08
 updated: 2026-04-18
 defendant_names:
   - "Billion Cyber Bank Robbery"
+duplicate_of: "[[2018-03-01_europol-europa-eu_mastermind-behind-eur-1-billion-cyber-bank-robbery-arrested-in-spain]]"
+duplicate_reason: same_collection_url
+duplicate_key: "https://www.europol.europa.eu/media-press/newsroom/news/mastermind-behind-eur-1-billion-cyber-bank-robbery-arrested-in-spain"
+duplicate_normalized_at: 2026-04-26
 ---
 ## Source
 

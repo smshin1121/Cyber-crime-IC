@@ -20,6 +20,10 @@ created: 2026-04-18
 defendant_names:
   - "Yang Yong"
 updated: 2026-04-18
+duplicate_of: "[[2025-12-09_justice-gov_chinese-national-sentenced-to-15-years-in-prison-for-conspiring-to-sell-oxycodon]]"
+duplicate_reason: same_collection_url
+duplicate_key: "https://www.justice.gov/usao-edpa/pr/chinese-national-sentenced-15-years-prison-conspiring-sell-oxycodone-darknet"
+duplicate_normalized_at: 2026-04-26
 ---
 ## Source Summary
 

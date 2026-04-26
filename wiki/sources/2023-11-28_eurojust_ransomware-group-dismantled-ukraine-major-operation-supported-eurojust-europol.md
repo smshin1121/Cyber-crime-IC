@@ -21,6 +21,10 @@ key_findings:
   - "The group was tied to losses of at least several hundred million euros."
 created: 2026-04-18
 updated: 2026-04-18
+duplicate_of: "[[2023-11-28_eurojust-europa-eu_ransomware-group-dismantled-in-ukraine-in-a-major-international-operation-suppor]]"
+duplicate_reason: same_collection_url
+duplicate_key: "https://www.eurojust.europa.eu/news/ransomware-group-dismantled-ukraine-major-operation-supported-eurojust-europol"
+duplicate_normalized_at: 2026-04-26
 ---
 ## Source Summary
 

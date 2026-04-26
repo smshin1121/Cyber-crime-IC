@@ -20,6 +20,10 @@ created: 2026-04-18
 defendant_names:
   - "Steven Michael Burke"
 updated: 2026-04-18
+duplicate_of: "[[2023-09-05_justice-gov_duvall-washington-man-awaiting-sentencing-for-possessing-images-of-child-sexual]]"
+duplicate_reason: same_collection_url
+duplicate_key: "https://www.justice.gov/usao-wdwa/pr/duvall-washington-man-awaiting-sentencing-possessing-images-child-sexual-abuse-pleads"
+duplicate_normalized_at: 2026-04-26
 ---
 ## Source Summary
 

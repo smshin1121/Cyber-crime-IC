@@ -21,6 +21,10 @@ defendant_names:
   - "Kenneth Warren Rhule"
   - "Kenneth John Rule"
 updated: 2026-04-18
+duplicate_of: "[[2022-05-31_justice-gov_father-and-son-sentenced-to-prison-for-money-laundering-and-illegal-marijuana-bu]]"
+duplicate_reason: same_collection_url
+duplicate_key: "https://www.justice.gov/usao-wdwa/pr/father-and-son-sentenced-prison-money-laundering-and-illegal-marijuana-business"
+duplicate_normalized_at: 2026-04-26
 ---
 ## Source Summary
 

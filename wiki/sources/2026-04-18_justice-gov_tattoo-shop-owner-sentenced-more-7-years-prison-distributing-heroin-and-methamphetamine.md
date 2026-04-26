@@ -21,6 +21,10 @@ defendant_names:
   - "Jason Keith Arnold"
   - "David White"
 updated: 2026-04-18
+duplicate_of: "[[2022-02-17_justice-gov_tattoo-shop-owner-sentenced-7-years-prison-distributing-heroin-methamphetamine]]"
+duplicate_reason: same_collection_url
+duplicate_key: "https://www.justice.gov/usao-edca/pr/tattoo-shop-owner-sentenced-more-7-years-prison-distributing-heroin-and-methamphetamine"
+duplicate_normalized_at: 2026-04-26
 ---
 ## Source Summary
 

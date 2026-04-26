@@ -21,6 +21,10 @@ updated: 2026-04-18
 defendant_names:
   - "And Extradited To The"
   - "Russian Malware Developer"
+duplicate_of: "[[2023-02-22_justice-gov_russian-malware-developer-arrested-and-extradited-to-the-united-states]]"
+duplicate_reason: same_collection_url
+duplicate_key: "https://www.justice.gov/usao-mdfl/pr/russian-malware-developer-arrested-and-extradited-united-states"
+duplicate_normalized_at: 2026-04-26
 ---
 ## Source Summary
 

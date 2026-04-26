@@ -17,6 +17,10 @@ key_findings:
   - "Confirms multi-agency federal coordination."
 collection_url: https://www.fbi.gov/feeds/email-alerts/seattle-news/RSS
 created: 2026-04-25
+duplicate_of: "[[2025-04-11_fbi-gov_fbi-seattle-news-rss-man-caught-three-times-fentanyl]]"
+duplicate_reason: same_collection_url
+duplicate_key: "https://www.fbi.gov/feeds/email-alerts/seattle-news/RSS"
+duplicate_normalized_at: 2026-04-26
 ---
 ## Source Summary
 

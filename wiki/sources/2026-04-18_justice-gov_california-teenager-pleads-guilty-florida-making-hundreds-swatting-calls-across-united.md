@@ -20,6 +20,10 @@ created: 2026-04-18
 updated: 2026-04-18
 defendant_names:
   - "California Teenager"
+duplicate_of: "[[2024-11-27_justice-gov_california-teenager-pleads-guilty-in-florida-to-making-hundreds-of-swatting-call]]"
+duplicate_reason: same_collection_url
+duplicate_key: "https://www.justice.gov/usao-wdwa/pr/california-teenager-pleads-guilty-florida-making-hundreds-swatting-calls-across-united"
+duplicate_normalized_at: 2026-04-26
 ---
 ## Source Summary
 

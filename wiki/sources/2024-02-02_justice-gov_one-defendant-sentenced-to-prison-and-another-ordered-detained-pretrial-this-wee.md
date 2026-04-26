@@ -17,6 +17,10 @@ key_findings:
   - "This domestic-only U.S. follow-on record has been absorbed into the canonical case page [[one-defendant-sentenced-to-prison-and-another-ordered-detained-pretrial-this-week-in-separate-cyberstalking-ca]]. No visible cross-border mechanism is documented, so it is not treated as a separate international-cooperation operation."
 collection_url: https://www.justice.gov/usao-wdpa/pr/one-defendant-sentenced-prison-and-another-ordered-detained-pretrial-week-separate
 created: 2026-04-17
+duplicate_of: "[[2024-02-02_justice-gov_one-defendant-sentenced-prison-and-another-ordered-detained-pretrial-week-separate]]"
+duplicate_reason: same_collection_url
+duplicate_key: "https://www.justice.gov/usao-wdpa/pr/one-defendant-sentenced-prison-and-another-ordered-detained-pretrial-week-separate"
+duplicate_normalized_at: 2026-04-26
 ---
 ## Source Summary
 

@@ -17,6 +17,10 @@ key_findings:
   - "OCCRP summarized the QQAAZZ takedown as a multinational anti-money-laundering operation serving major cybercrime groups."
 collection_url: https://www.occrp.org/en/news/pan-continental-operation-busts-money-launderers-for-europes-cybercriminals
 created: 2026-04-23
+duplicate_of: "[[2020-10-15_occrp-org_pan-continental-operation-busts-money-launderers-for-europes-cybercriminals]]"
+duplicate_reason: same_collection_url
+duplicate_key: "https://www.occrp.org/en/news/pan-continental-operation-busts-money-launderers-for-europes-cybercriminals"
+duplicate_normalized_at: 2026-04-26
 ---
 ## Source Summary
 

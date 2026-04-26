@@ -18,6 +18,10 @@ key_findings:
 collection_url: https://www.justice.gov/usao-wdwa/pr/seven-indicted-seattle-connection-coast-coast-drug-trafficking-conspiracy
 created: 2026-04-18
 updated: 2026-04-18
+duplicate_of: "[[2023-03-03_justice-gov_seven-indicted-in-seattle-in-connection-with-coast-to-coast-drug-trafficking-con]]"
+duplicate_reason: same_collection_url
+duplicate_key: "https://www.justice.gov/usao-wdwa/pr/seven-indicted-seattle-connection-coast-coast-drug-trafficking-conspiracy"
+duplicate_normalized_at: 2026-04-26
 ---
 ## Source Summary
 

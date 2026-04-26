@@ -20,6 +20,10 @@ created: 2026-04-18
 defendant_names:
   - "Natasha Parkhill"
 updated: 2026-04-18
+duplicate_of: "[[2024-07-15_justice-gov_significant-member-of-a-whatcom-county-fentanyl-trafficking-ring-sentenced-to-4]]"
+duplicate_reason: same_collection_url
+duplicate_key: "https://www.justice.gov/usao-wdwa/pr/significant-member-whatcom-county-fentanyl-trafficking-ring-sentenced-4-years-prison"
+duplicate_normalized_at: 2026-04-26
 ---
 ## Source Summary
 

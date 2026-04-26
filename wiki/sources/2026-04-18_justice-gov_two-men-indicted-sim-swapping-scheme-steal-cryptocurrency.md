@@ -18,6 +18,10 @@ key_findings:
 collection_url: https://www.justice.gov/usao-ndca/pr/two-men-indicted-sim-swapping-scheme-steal-cryptocurrency
 created: 2026-04-18
 updated: 2026-04-18
+duplicate_of: "[[2019-02-05_justice-gov_two-men-indicted-in-sim-swapping-scheme-to-steal-cryptocurrency]]"
+duplicate_reason: same_collection_url
+duplicate_key: "https://www.justice.gov/usao-ndca/pr/two-men-indicted-sim-swapping-scheme-steal-cryptocurrency"
+duplicate_normalized_at: 2026-04-26
 ---
 ## Source Summary
 

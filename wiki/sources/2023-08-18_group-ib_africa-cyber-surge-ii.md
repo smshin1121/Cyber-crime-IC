@@ -20,6 +20,10 @@ key_findings:
   - "The release adds detail on private-sector partnership and the funding/support structure around the operation."
 created: 2026-04-18
 updated: 2026-04-18
+duplicate_of: "[[2023-08-18_group-ib-com_africa-cyber-surge-ii]]"
+duplicate_reason: same_collection_url
+duplicate_key: "https://www.group-ib.com/media-center/press-releases/africa-cyber-surge-ii/"
+duplicate_normalized_at: 2026-04-26
 ---
 ## Source Summary
 

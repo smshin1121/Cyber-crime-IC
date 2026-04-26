@@ -20,6 +20,10 @@ created: 2026-04-18
 updated: 2026-04-18
 defendant_names:
   - "Latvian National"
+duplicate_of: "[[2021-06-04_justice-gov_latvian-national-charged-for-alleged-role-in-transnational-cybercrime-organizati]]"
+duplicate_reason: same_collection_url
+duplicate_key: "https://www.justice.gov/usao-ndoh/pr/latvian-national-charged-alleged-role-transnational-cybercrime-organization"
+duplicate_normalized_at: 2026-04-26
 ---
 ## Source Summary
 

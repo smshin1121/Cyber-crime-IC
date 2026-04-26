@@ -19,6 +19,10 @@ created: 2026-04-25
 raw_path: raw/news/2018-08-15_rawstory_man-bizarre-lengths-harass-neighbor-suspected-black-friend.md
 text_status: summarized
 copyright_policy: summary-only
+duplicate_of: "[[2018-08-14_rawstory_man-went-bizarre-lengths-harass-neighbor-suspected-black-friend]]"
+duplicate_reason: same_collection_url
+duplicate_key: "https://www.rawstory.com/2018/08/man-went-bizarre-lengths-harass-neighbor-suspected-black-friend/"
+duplicate_normalized_at: 2026-04-26
 ---
 ## Source Summary
 

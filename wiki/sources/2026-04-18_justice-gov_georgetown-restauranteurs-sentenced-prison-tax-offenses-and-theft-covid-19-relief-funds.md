@@ -20,6 +20,10 @@ created: 2026-04-18
 defendant_names:
   - "Karen Kowkabi"
 updated: 2026-04-18
+duplicate_of: "[[2023-12-18_justice-gov_georgetown-restauranteurs-sentenced-to-prison-for-tax-offenses-and-theft-of-covi]]"
+duplicate_reason: same_collection_url
+duplicate_key: "https://www.justice.gov/usao-dc/pr/georgetown-restauranteurs-sentenced-prison-tax-offenses-and-theft-covid-19-relief-funds"
+duplicate_normalized_at: 2026-04-26
 ---
 ## Source Summary
 

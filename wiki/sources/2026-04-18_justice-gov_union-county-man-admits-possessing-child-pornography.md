@@ -20,6 +20,10 @@ created: 2026-04-18
 defendant_names:
   - "Andrew Chu"
 updated: 2026-04-18
+duplicate_of: "[[2021-04-06_justice-gov_union-county-man-admits-to-possessing-child-pornography]]"
+duplicate_reason: same_collection_url
+duplicate_key: "https://www.justice.gov/usao-nj/pr/union-county-man-admits-possessing-child-pornography"
+duplicate_normalized_at: 2026-04-26
 ---
 ## Source Summary
 

@@ -20,6 +20,10 @@ created: 2026-04-18
 updated: 2026-04-18
 defendant_names:
   - "For Receipt Of"
+duplicate_of: "[[2025-11-13_justice-gov_federal-correctional-officer-indicted-for-receipt-of-a-bribe-by-a-public-officia]]"
+duplicate_reason: same_collection_url
+duplicate_key: "https://www.justice.gov/usao-mdfl/pr/federal-correctional-officer-indicted-receipt-bribe-public-official"
+duplicate_normalized_at: 2026-04-26
 ---
 ## Source Summary
 

@@ -20,6 +20,10 @@ created: 2026-04-18
 defendant_names:
   - "Waylan Graves"
 updated: 2026-04-18
+duplicate_of: "[[2024-11-27_justice-gov_thurston-county-man-caught-twice-with-drugs-and-firearms-sentenced-to-7-years-in]]"
+duplicate_reason: same_collection_url
+duplicate_key: "https://www.justice.gov/usao-wdwa/pr/thurston-county-man-caught-twice-drugs-and-firearms-sentenced-7-years-prison"
+duplicate_normalized_at: 2026-04-26
 ---
 ## Source Summary
 

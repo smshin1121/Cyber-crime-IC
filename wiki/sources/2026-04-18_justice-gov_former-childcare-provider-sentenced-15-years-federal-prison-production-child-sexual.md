@@ -20,6 +20,10 @@ created: 2026-04-18
 defendant_names:
   - "Krystal Baird"
 updated: 2026-04-18
+duplicate_of: "[[2026-02-18_justice-gov_former-childcare-provider-sentenced-to-15-years-in-federal-prison-for-the-produc]]"
+duplicate_reason: same_collection_url
+duplicate_key: "https://www.justice.gov/usao-nh/pr/former-childcare-provider-sentenced-15-years-federal-prison-production-child-sexual"
+duplicate_normalized_at: 2026-04-26
 ---
 ## Source Summary
 

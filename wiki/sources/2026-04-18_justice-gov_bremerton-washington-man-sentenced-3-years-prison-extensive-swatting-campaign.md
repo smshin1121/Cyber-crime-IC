@@ -22,6 +22,10 @@ created: 2026-04-18
 updated: 2026-04-18
 defendant_names:
   - "Ashton Connor Garcia"
+duplicate_of: "[[2024-04-26_justice-gov-wdwa_bremerton-washington-man-sentenced-3-years-prison-extensive-swatting-campaign]]"
+duplicate_reason: same_collection_url
+duplicate_key: "https://www.justice.gov/usao-wdwa/pr/bremerton-washington-man-sentenced-3-years-prison-extensive-swatting-campaign"
+duplicate_normalized_at: 2026-04-26
 ---
 ## Source Summary
 

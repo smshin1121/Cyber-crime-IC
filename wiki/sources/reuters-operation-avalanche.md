@@ -24,6 +24,10 @@ key_findings:
   - "URL/operation mismatch: this source is filed under [[operation-avalanche]] but is about the 'Ghost' platform takedown — a distinct 2024 operation. The wiki should create an `operation-kraken-ghost-platform` page (Australian AFP used the codename 'Operation Kraken')"
 created: 2026-04-08
 updated: 2026-04-10
+duplicate_of: "[[2024-09-18_reuters-com_ghost-cybercrime-platform-dismantled-in-global-operation-51-arrested]]"
+duplicate_reason: same_collection_url
+duplicate_key: "https://www.reuters.com/technology/cybersecurity/ghost-cybercrime-platform-dismantled-global-operation-51-arrested-2024-09-18/"
+duplicate_normalized_at: 2026-04-26
 ---
 
 ## Source

@@ -17,6 +17,10 @@ key_findings:
   - "Dawodu/Spencer 12/12.5 years; Ogando 12 years."
 collection_url: https://www.fda.gov/inspections-compliance-enforcement-and-criminal-investigations/doj-press-releases-involving-fda-oci/three-individuals-sentenced-darknet-narcotics-trafficking-conspiracy-involving-distribution-pills
 created: 2026-04-25
+duplicate_of: "[[2023-03-22_fda-gov_three-individuals-sentenced-darknet-narcotics-fentanyl]]"
+duplicate_reason: same_collection_url
+duplicate_key: "https://www.fda.gov/inspections-compliance-enforcement-and-criminal-investigations/doj-press-releases-involving-fda-oci/three-individuals-sentenced-darknet-narcotics-trafficking-conspiracy-involving-distribution-pills"
+duplicate_normalized_at: 2026-04-26
 ---
 ## Source Summary
 

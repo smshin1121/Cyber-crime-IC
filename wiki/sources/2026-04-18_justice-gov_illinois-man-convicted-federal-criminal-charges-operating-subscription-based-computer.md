@@ -20,6 +20,10 @@ created: 2026-04-18
 defendant_names:
   - "Matthew Gatrel"
 updated: 2026-04-18
+duplicate_of: "[[2021-09-16_justice-gov_illinois-man-convicted-of-federal-criminal-charges-for-operating-subscription-ba]]"
+duplicate_reason: same_collection_url
+duplicate_key: "https://www.justice.gov/usao-cdca/pr/illinois-man-convicted-federal-criminal-charges-operating-subscription-based-computer"
+duplicate_normalized_at: 2026-04-26
 ---
 ## Source Summary
 

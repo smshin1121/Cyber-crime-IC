@@ -17,6 +17,10 @@ key_findings:
   - "Source referenced by ic-statistics-dashboard."
 collection_url: https://www.europol.europa.eu/media-press/newsroom/news/lockbit-power-cut-four-new-arrests-and-financial-sanctions-against-affiliates
 created: 2026-04-17
+duplicate_of: "[[2024-10-01-europol-operation-cronos-lockbit-phase3]]"
+duplicate_reason: same_collection_url
+duplicate_key: "https://www.europol.europa.eu/media-press/newsroom/news/lockbit-power-cut-four-new-arrests-and-financial-sanctions-against-affiliates"
+duplicate_normalized_at: 2026-04-26
 ---
 ## Source Summary
 

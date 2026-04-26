@@ -20,6 +20,10 @@ key_findings:
   - "The article added context on fake bank pages, call centers, and the luxury-spending profile of the suspects."
 created: 2026-04-18
 updated: 2026-04-18
+duplicate_of: "[[2024-12-09_securityweek-com_eight-suspected-phishers-arrested-in-belgium-netherlands]]"
+duplicate_reason: same_collection_url
+duplicate_key: "https://www.securityweek.com/eight-suspected-phishers-arrested-in-belgium-netherlands/"
+duplicate_normalized_at: 2026-04-26
 ---
 ## Source Summary
 

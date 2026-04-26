@@ -21,6 +21,10 @@ updated: 2026-04-18
 defendant_names:
   - "To Prison For Hacking"
   - "Wisconsin Man"
+duplicate_of: "[[2024-01-31_justice-gov_wisconsin-man-sentenced-to-prison-for-hacking-fantasy-sports-and-betting-website]]"
+duplicate_reason: same_collection_url
+duplicate_key: "https://www.justice.gov/usao-sdny/pr/wisconsin-man-sentenced-prison-hacking-fantasy-sports-and-betting-website"
+duplicate_normalized_at: 2026-04-26
 ---
 ## Source Summary
 

@@ -20,6 +20,10 @@ created: 2026-04-17
 defendant_names:
   - "Bryan Connor Herrell"
 updated: 2026-04-18
+duplicate_of: "[[2020-09-01_edca_herrell-alphabay-sentencing]]"
+duplicate_reason: same_collection_url
+duplicate_key: "https://www.justice.gov/usao-edca/pr/colorado-man-sentenced-11-years-prison-moderating-disputes-darknet-marketplace-alphabay"
+duplicate_normalized_at: 2026-04-26
 ---
 ## Source Summary
 

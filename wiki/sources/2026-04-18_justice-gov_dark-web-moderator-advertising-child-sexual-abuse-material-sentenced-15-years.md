@@ -20,6 +20,10 @@ created: 2026-04-18
 defendant_names:
   - "Michael Posey"
 updated: 2026-04-18
+duplicate_of: "[[2025-01-22_justice-gov_dark-web-moderator-advertising-child-sexual-abuse-material-sentenced-to-15-years]]"
+duplicate_reason: same_collection_url
+duplicate_key: "https://www.justice.gov/usao-me/pr/dark-web-moderator-advertising-child-sexual-abuse-material-sentenced-15-years"
+duplicate_normalized_at: 2026-04-26
 ---
 ## Source Summary
 

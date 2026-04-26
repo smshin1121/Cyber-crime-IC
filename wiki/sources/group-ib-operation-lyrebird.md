@@ -28,6 +28,10 @@ key_findings:
   - "Two-year investigation timeline — Group-IB's investigation began in 2019 before INTERPOL coordination was formalized"
 created: 2026-04-08
 updated: 2026-04-10
+duplicate_of: "[[2021-07-05_group-ib-com_interpol-led-operation-takes-down-prolific-cybercriminal]]"
+duplicate_reason: same_collection_url
+duplicate_key: "https://www.group-ib.com/media-center/press-releases/gib-interpol-lyrebird/"
+duplicate_normalized_at: 2026-04-26
 ---
 
 > [!note] Original URL access issues

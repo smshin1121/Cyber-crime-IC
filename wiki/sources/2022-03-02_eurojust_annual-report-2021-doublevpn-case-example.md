@@ -21,6 +21,10 @@ key_findings:
   - "It confirms that Eurojust used six coordination meetings to solve legal issues linked to cross-border data collection."
 created: 2026-04-18
 updated: 2026-04-18
+duplicate_of: "[[2022-03-02_eurojust-europa-eu_eurojust-annual-report-2021-doublevpn-case-example]]"
+duplicate_reason: same_collection_url
+duplicate_key: "https://www.eurojust.europa.eu/annual-report-2021/cybercrime/case-examples"
+duplicate_normalized_at: 2026-04-26
 ---
 ## Source Summary
 

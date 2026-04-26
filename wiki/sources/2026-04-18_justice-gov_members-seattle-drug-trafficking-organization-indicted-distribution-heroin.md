@@ -20,6 +20,10 @@ created: 2026-04-18
 defendant_names:
   - "Ricky Ramacho"
 updated: 2026-04-18
+duplicate_of: "[[2016-08-11_justice-gov_members-of-seattle-drug-trafficking-organization-indicted-for-distribution-of-he]]"
+duplicate_reason: same_collection_url
+duplicate_key: "https://www.justice.gov/usao-wdwa/pr/members-seattle-drug-trafficking-organization-indicted-distribution-heroin"
+duplicate_normalized_at: 2026-04-26
 ---
 ## Source Summary
 

@@ -20,6 +20,10 @@ created: 2026-04-18
 defendant_names:
   - "Evan Baltierra"
 updated: 2026-04-18
+duplicate_of: "[[2022-07-11_justice-gov_orange-county-man-pleads-guilty-to-stalking-charge-for-harassment-campaign-again]]"
+duplicate_reason: same_collection_url
+duplicate_key: "https://www.justice.gov/usao-cdca/pr/orange-county-man-pleads-guilty-stalking-charge-harassment-campaign-against"
+duplicate_normalized_at: 2026-04-26
 ---
 ## Source Summary
 

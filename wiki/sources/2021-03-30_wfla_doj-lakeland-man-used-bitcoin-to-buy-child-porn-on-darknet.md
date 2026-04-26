@@ -17,6 +17,10 @@ key_findings:
   - "Confirms Welcome to Video international cooperation context (Korean National Police lead)."
 collection_url: https://www.wfla.com/news/polk-county/doj-lakeland-man-used-bitcoin-to-buy-child-porn-on-darknet/
 created: 2026-04-25
+duplicate_of: "[[2021-03-29_wfla_doj-lakeland-man-bitcoin-buy-child-porn-darknet]]"
+duplicate_reason: same_collection_url
+duplicate_key: "https://www.wfla.com/news/polk-county/doj-lakeland-man-used-bitcoin-to-buy-child-porn-on-darknet/"
+duplicate_normalized_at: 2026-04-26
 ---
 ## Source Summary
 

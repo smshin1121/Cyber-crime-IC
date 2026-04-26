@@ -17,6 +17,10 @@ created: 2026-04-23
 key_findings:
   - "Eurojust's fraud topic page listed the EUR 300 million global credit-card-fraud operation."
   - "The listing confirms the 18-arrest operation as a Eurojust fraud case."
+duplicate_of: "[[2026-03-11_eurojust-fraud-term_online-fraud-group-france-germany]]"
+duplicate_reason: same_collection_url
+duplicate_key: "https://www.eurojust.europa.eu/term/fraud?page=6"
+duplicate_normalized_at: 2026-04-26
 ---
 ## Source Summary
 

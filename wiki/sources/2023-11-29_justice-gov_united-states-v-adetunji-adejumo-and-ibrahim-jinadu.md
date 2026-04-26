@@ -21,6 +21,10 @@ updated: 2026-04-18
 defendant_names:
   - "To Prison For International"
   - "Based Conspirators"
+duplicate_of: "[[2023-11-29_justice-gov_u-s-based-conspirators-sentenced-to-prison-for-international-tax-scheme]]"
+duplicate_reason: same_collection_url
+duplicate_key: "https://www.justice.gov/usao-mdfl/pr/us-based-conspirators-sentenced-prison-international-tax-scheme"
+duplicate_normalized_at: 2026-04-26
 ---
 ## Source Summary
 

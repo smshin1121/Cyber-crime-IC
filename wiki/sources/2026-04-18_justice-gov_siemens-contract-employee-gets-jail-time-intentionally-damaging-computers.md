@@ -20,6 +20,10 @@ created: 2026-04-18
 defendant_names:
   - "David Tinley"
 updated: 2026-04-18
+duplicate_of: "[[2019-12-17_justice-gov_siemens-contract-employee-gets-jail-time-for-intentionally-damaging-computers]]"
+duplicate_reason: same_collection_url
+duplicate_key: "https://www.justice.gov/usao-wdpa/pr/siemens-contract-employee-gets-jail-time-intentionally-damaging-computers"
+duplicate_normalized_at: 2026-04-26
 ---
 ## Source Summary
 

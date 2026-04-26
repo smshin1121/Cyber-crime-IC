@@ -21,6 +21,10 @@ defendant_names:
   - "Humberto Lopez Rodriguez"
   - "Lopez Rodriguez"
 updated: 2026-04-18
+duplicate_of: "[[2025-07-30_justice-gov_defendant-who-trafficked-drugs-while-absconding-from-federal-drug-trafficking-se]]"
+duplicate_reason: same_collection_url
+duplicate_key: "https://www.justice.gov/usao-wdwa/pr/defendant-who-trafficked-drugs-while-absconding-federal-drug-trafficking-sentence-gets"
+duplicate_normalized_at: 2026-04-26
 ---
 ## Source Summary
 

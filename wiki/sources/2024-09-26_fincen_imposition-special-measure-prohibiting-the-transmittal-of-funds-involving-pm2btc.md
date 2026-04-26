@@ -20,6 +20,10 @@ key_findings:
   - "The notice provides the legal-regulatory backbone for the PM2BTC designation."
 created: 2026-04-18
 updated: 2026-04-18
+duplicate_of: "[[2024-09-26_fincen-gov_imposition-of-special-measure-prohibiting-the-transmittal-of-funds-involving-pm2]]"
+duplicate_reason: same_collection_url
+duplicate_key: "https://www.fincen.gov/resources/statutes-regulations/federal-register-notices/imposition-special-measure-prohibiting-0"
+duplicate_normalized_at: 2026-04-26
 ---
 ## Source Summary
 

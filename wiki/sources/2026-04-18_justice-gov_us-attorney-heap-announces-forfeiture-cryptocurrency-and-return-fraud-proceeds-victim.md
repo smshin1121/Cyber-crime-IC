@@ -18,6 +18,10 @@ key_findings:
 collection_url: https://www.justice.gov/usao-sdga/pr/us-attorney-heap-announces-forfeiture-cryptocurrency-and-return-fraud-proceeds-victim
 created: 2026-04-18
 updated: 2026-04-18
+duplicate_of: "[[2025-11-24_justice-gov_u-s-attorney-heap-announces-forfeiture-of-cryptocurrency-and-return-of-fraud-pro]]"
+duplicate_reason: same_collection_url
+duplicate_key: "https://www.justice.gov/usao-sdga/pr/us-attorney-heap-announces-forfeiture-cryptocurrency-and-return-fraud-proceeds-victim"
+duplicate_normalized_at: 2026-04-26
 ---
 ## Source Summary
 

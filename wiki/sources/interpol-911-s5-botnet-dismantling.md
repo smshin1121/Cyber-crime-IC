@@ -30,6 +30,10 @@ key_findings:
   - "Business model: Simda operators monetized via pay-per-install — charging criminal 'users' per successful malware installation for distributing other payloads"
 created: 2026-04-08
 updated: 2026-04-10
+duplicate_of: "[[2015-04-09_interpol-int_interpol-coordinates-global-operation-to-take-down-simda-botnet]]"
+duplicate_reason: same_collection_url
+duplicate_key: "https://www.interpol.int/News-and-Events/News/2015/INTERPOL-coordinates-global-operation-to-take-down-Simda-botnet"
+duplicate_normalized_at: 2026-04-26
 ---
 
 > [!info] Mismatch resolved (2026-04-10)

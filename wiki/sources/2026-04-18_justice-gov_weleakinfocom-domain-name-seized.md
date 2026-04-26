@@ -18,6 +18,10 @@ key_findings:
 collection_url: https://www.justice.gov/usao-dc/pr/weleakinfocom-domain-name-seized
 created: 2026-04-18
 updated: 2026-04-18
+duplicate_of: "[[2020-01-16_justice-gov_weleakinfo-com-domain-name-seized]]"
+duplicate_reason: same_collection_url
+duplicate_key: "https://www.justice.gov/usao-dc/pr/weleakinfocom-domain-name-seized"
+duplicate_normalized_at: 2026-04-26
 ---
 ## Source Summary
 

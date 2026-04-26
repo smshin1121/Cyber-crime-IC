@@ -20,6 +20,10 @@ created: 2026-04-18
 defendant_names:
   - "Ryan Thomas Carver"
 updated: 2026-04-18
+duplicate_of: "[[2019-11-14_justice-gov_huntsville-man-pleads-guilty-to-possessing-large-collection-of-child-pornography]]"
+duplicate_reason: same_collection_url
+duplicate_key: "https://www.justice.gov/usao-ndal/pr/huntsville-man-pleads-guilty-possessing-large-collection-child-pornography"
+duplicate_normalized_at: 2026-04-26
 ---
 ## Source Summary
 

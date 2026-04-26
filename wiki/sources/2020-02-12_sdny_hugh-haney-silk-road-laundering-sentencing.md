@@ -20,6 +20,10 @@ created: 2026-04-17
 defendant_names:
   - "Dark Web Narcotics Trafficker"
 updated: 2026-04-18
+duplicate_of: "[[2020-02-12_justice-gov_dark-web-narcotics-trafficker-sentenced-to-3-years-in-prison-in-connection-with]]"
+duplicate_reason: same_collection_url
+duplicate_key: "https://www.justice.gov/usao-sdny/pr/dark-web-narcotics-trafficker-sentenced-3-years-prison-connection-laundering-more-19"
+duplicate_normalized_at: 2026-04-26
 ---
 ## Source Summary
 

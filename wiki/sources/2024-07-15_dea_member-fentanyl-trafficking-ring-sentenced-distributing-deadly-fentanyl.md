@@ -17,6 +17,10 @@ key_findings:
   - "Lummi Nation member impact context"
 collection_url: https://www.dea.gov/press-releases/2024/07/15/member-fentanyl-trafficking-ring-sentenced-distributing-deadly-fentanyl
 created: 2026-04-25
+duplicate_of: "[[2024-07-15_dea-gov_member-fentanyl-trafficking-ring-sentenced-distributing-deadly-fentanyl]]"
+duplicate_reason: same_collection_url
+duplicate_key: "https://www.dea.gov/press-releases/2024/07/15/member-fentanyl-trafficking-ring-sentenced-distributing-deadly-fentanyl"
+duplicate_normalized_at: 2026-04-26
 ---
 ## Source Summary
 

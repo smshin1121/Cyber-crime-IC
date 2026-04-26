@@ -25,6 +25,10 @@ key_findings:
   - "This is the Falcon I (November 2020) operation, distinct from Falcon II (2021) and the subsequent Operation Delilah (2022), all targeting the overlapping SilverTerrier/TMT Nigerian BEC ecosystem"
 created: 2026-04-08
 updated: 2026-04-10
+duplicate_of: "[[2020-11-01_cyberscoop-com_nigeria-email-scam-arrests-bec-group-ib]]"
+duplicate_reason: same_collection_url
+duplicate_key: "https://cyberscoop.com/nigeria-email-scam-arrests-bec-group-ib/"
+duplicate_normalized_at: 2026-04-26
 ---
 
 ## Source

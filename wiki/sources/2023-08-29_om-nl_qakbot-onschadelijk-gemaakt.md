@@ -22,6 +22,10 @@ key_findings:
   - "The Dutch side reported seizure of 22 servers in different datacenters in the Netherlands."
   - "The source shows formal prosecution involvement in a major multinational botnet operation."
 created: 2026-04-18
+duplicate_of: "[[2023-08-29_om-nl_grootste-wereldwijde-botnet-qakbot-onschadelijk-gemaakt]]"
+duplicate_reason: same_collection_url
+duplicate_key: "https://www.om.nl/actueel/nieuws/2023/08/29/grootste-wereldwijde-botnet-qakbot-onschadelijk-gemaakt"
+duplicate_normalized_at: 2026-04-26
 ---
 ## Source Summary
 

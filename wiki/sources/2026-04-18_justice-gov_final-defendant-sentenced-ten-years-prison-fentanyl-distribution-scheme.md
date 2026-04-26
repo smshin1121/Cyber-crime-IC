@@ -21,6 +21,10 @@ defendant_names:
   - "Dustin Carl Wurges"
   - "Jonathan Mayhall"
 updated: 2026-04-18
+duplicate_of: "[[2024-05-28_justice-gov_final-defendant-sentenced-to-ten-years-in-prison-in-fentanyl-distribution-scheme]]"
+duplicate_reason: same_collection_url
+duplicate_key: "https://www.justice.gov/usao-wdwa/pr/final-defendant-sentenced-ten-years-prison-fentanyl-distribution-scheme"
+duplicate_normalized_at: 2026-04-26
 ---
 ## Source Summary
 

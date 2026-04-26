@@ -20,6 +20,10 @@ created: 2026-04-18
 defendant_names:
   - "Samuel Trelawney Hughes"
 updated: 2026-04-18
+duplicate_of: "[[2021-11-15_justice-gov_pasadena-man-who-cyberstalked-and-made-threats-to-injure-rape-and-kill-sentenced]]"
+duplicate_reason: same_collection_url
+duplicate_key: "https://www.justice.gov/usao-cdca/pr/pasadena-man-who-cyberstalked-and-made-threats-injure-rape-and-kill-sentenced-more-3"
+duplicate_normalized_at: 2026-04-26
 ---
 ## Source Summary
 

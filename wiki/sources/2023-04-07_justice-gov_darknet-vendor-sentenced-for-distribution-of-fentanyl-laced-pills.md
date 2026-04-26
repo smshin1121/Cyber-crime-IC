@@ -17,6 +17,10 @@ key_findings:
   - "This domestic-only U.S. follow-on record has been absorbed into the canonical case page [[us-v-john-mckernan-dark-web]]. No visible cross-border mechanism is documented, so it is not treated as a separate international-cooperation operation."
 collection_url: https://www.justice.gov/usao-edva/pr/darknet-vendor-sentenced-distribution-fentanyl-laced-pills
 created: 2026-04-17
+duplicate_of: "[[2023-04-07_edva_john-mckernan-darknet-sentencing]]"
+duplicate_reason: same_collection_url
+duplicate_key: "https://www.justice.gov/usao-edva/pr/darknet-vendor-sentenced-distribution-fentanyl-laced-pills"
+duplicate_normalized_at: 2026-04-26
 ---
 ## Source Summary
 

@@ -20,6 +20,10 @@ created: 2026-04-18
 defendant_names:
   - "Hasan Howard"
 updated: 2026-04-18
+duplicate_of: "[[2022-07-07_justice-gov_cleveland-man-sentenced-to-prison-for-leading-conspiracy-that-purchased-thousand]]"
+duplicate_reason: same_collection_url
+duplicate_key: "https://www.justice.gov/usao-ndoh/pr/cleveland-man-sentenced-more-six-years-prison-leading-conspiracy-purchased-thousands"
+duplicate_normalized_at: 2026-04-26
 ---
 ## Source Summary
 

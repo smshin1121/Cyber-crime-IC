@@ -20,6 +20,10 @@ created: 2026-04-17
 defendant_names:
   - "Dark Web Administrator"
 updated: 2026-04-18
+duplicate_of: "[[2018-08-28_justice-gov_dark-web-administrator-sentenced-to-20-years-in-prison-for-narcotics-trafficking]]"
+duplicate_reason: same_collection_url
+duplicate_key: "https://www.justice.gov/usao-sdfl/pr/dark-web-administrator-sentenced-20-years-prison-narcotics-trafficking-and-money"
+duplicate_normalized_at: 2026-04-26
 ---
 ## Source Summary
 

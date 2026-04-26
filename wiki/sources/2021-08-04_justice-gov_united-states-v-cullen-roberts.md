@@ -21,6 +21,10 @@ defendant_names:
   - "Donjuan Murphy"
   - "Montrio Santos Neville"
 updated: 2026-04-18
+duplicate_of: "[[2021-08-04_edva_roberts-darknet-drug-vendor-plea]]"
+duplicate_reason: same_collection_url
+duplicate_key: "https://www.justice.gov/usao-edva/pr/darknet-drug-vendor-pleads-guilty-distributing-illicit-prescription-drugs"
+duplicate_normalized_at: 2026-04-26
 ---
 ## Source Summary
 

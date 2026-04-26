@@ -20,6 +20,10 @@ created: 2026-04-17
 defendant_names:
   - "Darkweb Drug Trafficker"
 updated: 2026-04-18
+duplicate_of: "[[2021-07-08_justice-gov_darkweb-drug-trafficker-arrested-in-operation-disruptor-sentenced-to-6-5-years-i]]"
+duplicate_reason: same_collection_url
+duplicate_key: "https://www.justice.gov/usao-ndtx/pr/darkweb-drug-trafficker-arrested-operation-disruptor-sentenced-65-years-prison"
+duplicate_normalized_at: 2026-04-26
 ---
 ## Source Summary
 

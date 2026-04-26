@@ -20,6 +20,10 @@ created: 2026-04-18
 defendant_names:
   - "Eric Council"
 updated: 2026-04-18
+duplicate_of: "[[2025-02-10_justice-gov_guilty-plea-in-hacking-of-the-sec-s-x-account-that-caused-bitcoin-value-spike]]"
+duplicate_reason: same_collection_url
+duplicate_key: "https://www.justice.gov/usao-dc/pr/guilty-plea-hacking-secs-x-account-caused-bitcoin-value-spike"
+duplicate_normalized_at: 2026-04-26
 ---
 ## Source Summary
 

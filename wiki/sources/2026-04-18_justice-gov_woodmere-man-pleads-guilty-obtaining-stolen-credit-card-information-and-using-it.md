@@ -20,6 +20,10 @@ created: 2026-04-18
 updated: 2026-04-18
 defendant_names:
   - "Woodmere Man"
+duplicate_of: "[[2022-05-20_justice-gov_woodmere-man-pleads-guilty-to-obtaining-stolen-credit-card-information-and-using]]"
+duplicate_reason: same_collection_url
+duplicate_key: "https://www.justice.gov/usao-ndoh/pr/woodmere-man-pleads-guilty-obtaining-stolen-credit-card-information-and-using-it"
+duplicate_normalized_at: 2026-04-26
 ---
 ## Source Summary
 

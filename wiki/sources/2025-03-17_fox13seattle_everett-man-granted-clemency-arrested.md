@@ -17,6 +17,10 @@ key_findings:
   - "The report provided the pre-indictment arrest narrative for one of the defendants later charged in the federal conspiracy."
 collection_url: https://www.fox13seattle.com/news/everett-man-granted-clemency-arrested
 created: 2026-04-25
+duplicate_of: "[[2025-03-13_fox13seattle_everett-man-granted-clemency-arrested]]"
+duplicate_reason: same_collection_url
+duplicate_key: "https://www.fox13seattle.com/news/everett-man-granted-clemency-arrested"
+duplicate_normalized_at: 2026-04-26
 ---
 ## Source Summary
 

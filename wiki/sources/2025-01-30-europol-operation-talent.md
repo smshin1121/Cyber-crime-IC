@@ -18,6 +18,10 @@ key_findings:
   - "The operation produced two arrests, 17 server seizures, and wide evidence capture."
 collection_url: "https://www.bka.de/DE/Presse/Listenseite_Pressemitteilungen/2025/Presse2025/250130_Operation_Talent.html"
 created: 2026-04-17
+duplicate_of: "[[2025-01-30_bka-de_strafverfolgungsbeh-rden-schalten-die-zwei-weltweit-gr-ten-cybercrime-foren-mit]]"
+duplicate_reason: same_collection_url
+duplicate_key: "https://www.bka.de/DE/Presse/Listenseite_Pressemitteilungen/2025/Presse2025/250130_Operation_Talent.html"
+duplicate_normalized_at: 2026-04-26
 ---
 
 ## Summary

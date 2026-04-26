@@ -20,6 +20,10 @@ created: 2026-04-18
 updated: 2026-04-18
 defendant_names:
   - "Marion County Man"
+duplicate_of: "[[2024-02-28_justice-gov_marion-county-man-pleads-guilty-to-production-of-child-sex-abuse-material]]"
+duplicate_reason: same_collection_url
+duplicate_key: "https://www.justice.gov/usao-mdfl/pr/marion-county-man-pleads-guilty-production-child-sex-abuse-material"
+duplicate_normalized_at: 2026-04-26
 ---
 ## Source Summary
 

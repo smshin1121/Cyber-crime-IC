@@ -16,6 +16,10 @@ key_findings:
   - "Google, Cloudflare, and Akamai provided investigative assistance to DOJ — public-private partnership angle."
 collection_url: https://therecord.media/illinois-man-behind-ddos-attack-service-given-2-year-prison-sentence
 created: 2026-04-25
+duplicate_of: "[[2022-06-13_therecord_illinois-man-ddos-attack-service-2-year-prison]]"
+duplicate_reason: same_collection_url
+duplicate_key: "https://therecord.media/illinois-man-behind-ddos-attack-service-given-2-year-prison-sentence"
+duplicate_normalized_at: 2026-04-26
 ---
 ## Source Summary
 

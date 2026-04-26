@@ -18,6 +18,10 @@ key_findings:
 collection_url: https://www.justice.gov/usao-wdwa/pr/dark-web-fentanyl-dealer-sentenced-7-years-prison
 created: 2026-04-17
 updated: 2026-04-18
+duplicate_of: "[[2019-12-17_justice-gov_dark-web-fentanyl-dealer-sentenced-to-7-years-in-prison]]"
+duplicate_reason: same_collection_url
+duplicate_key: "https://www.justice.gov/usao-wdwa/pr/dark-web-fentanyl-dealer-sentenced-7-years-prison"
+duplicate_normalized_at: 2026-04-26
 ---
 ## Source Summary
 

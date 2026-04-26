@@ -20,6 +20,10 @@ created: 2026-04-18
 defendant_names:
   - "In False Tax Refund"
 updated: 2026-04-18
+duplicate_of: "[[2015-11-06_justice-gov_three-bay-area-defendants-charged-in-false-tax-refund-schemes]]"
+duplicate_reason: same_collection_url
+duplicate_key: "https://www.justice.gov/usao-ndca/pr/three-bay-area-defendants-charged-false-tax-refund-schemes"
+duplicate_normalized_at: 2026-04-26
 ---
 ## Source Summary
 

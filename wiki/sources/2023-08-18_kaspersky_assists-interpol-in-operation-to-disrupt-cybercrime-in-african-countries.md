@@ -20,6 +20,10 @@ key_findings:
   - "The release reinforces the operation's compromised-infrastructure and multi-stakeholder dimensions."
 created: 2026-04-18
 updated: 2026-04-18
+duplicate_of: "[[2023-08-18_usa-kaspersky-com_kaspersky-assists-interpol-in-operation-to-disrupt-cybercrime-in-african-countri]]"
+duplicate_reason: same_collection_url
+duplicate_key: "https://usa.kaspersky.com/about/press-releases/kaspersky-assists-interpol-in-operation-to-disrupt-cybercrime-in-african-countries"
+duplicate_normalized_at: 2026-04-26
 ---
 ## Source Summary
 

@@ -18,6 +18,10 @@ key_findings:
 collection_url: https://www.justice.gov/opa/pr/leader-qakbot-malware-conspiracy-indicted-involvement-global-ransomware-scheme
 created: 2026-04-17
 updated: 2026-04-18
+duplicate_of: "[[2025-05-22-doj-qakbot-gallyamov-indictment]]"
+duplicate_reason: same_collection_url
+duplicate_key: "https://www.justice.gov/opa/pr/leader-qakbot-malware-conspiracy-indicted-involvement-global-ransomware-scheme"
+duplicate_normalized_at: 2026-04-26
 ---
 ## Source Summary
 

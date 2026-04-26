@@ -17,6 +17,10 @@ key_findings:
   - "Lummi Indian reservation distribution context"
 collection_url: https://www.dea.gov/press-releases/2025/05/09/final-custody-defendant-whatcom-county-drug-trafficking-ring-sentenced-8
 created: 2026-04-25
+duplicate_of: "[[2025-05-09_dea-gov_final-custody-defendant-whatcom-county-drug-trafficking-ring-sentenced-8-years-prison]]"
+duplicate_reason: same_collection_url
+duplicate_key: "https://www.dea.gov/press-releases/2025/05/09/final-custody-defendant-whatcom-county-drug-trafficking-ring-sentenced-8"
+duplicate_normalized_at: 2026-04-26
 ---
 ## Source Summary
 

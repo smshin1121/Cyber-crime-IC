@@ -20,6 +20,10 @@ created: 2026-04-18
 defendant_names:
   - "Michelle Murphy"
 updated: 2026-04-18
+duplicate_of: "[[2024-05-09_justice-gov_woman-sentenced-to-9-years-in-dark-web-murder-for-hire-plot]]"
+duplicate_reason: same_collection_url
+duplicate_key: "https://www.justice.gov/usao-ndtx/pr/woman-sentenced-9-years-dark-web-murder-hire-plot"
+duplicate_normalized_at: 2026-04-26
 ---
 ## Source Summary
 

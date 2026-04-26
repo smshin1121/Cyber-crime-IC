@@ -21,6 +21,10 @@ defendant_names:
   - "Ramon Duarte Garcia"
   - "Defendant Humberto Lopez Rodriguez"
 updated: 2026-04-18
+duplicate_of: "[[2025-06-25_justice-gov_lone-american-indicted-in-international-drug-trafficking-investigation-sentenced]]"
+duplicate_reason: same_collection_url
+duplicate_key: "https://www.justice.gov/usao-wdwa/pr/lone-american-indicted-international-drug-trafficking-investigation-sentenced-five"
+duplicate_normalized_at: 2026-04-26
 ---
 ## Source Summary
 

@@ -20,6 +20,10 @@ key_findings:
   - "The case shows Italian operational handling of ransomware-linked conduct through the Polizia Postale."
   - "The release provides a concrete official example of Italian cybercrime enforcement practice."
 created: 2026-04-18
+duplicate_of: "[[2017-06-21_poliziadistato-it_operazione-criptolocker-della-polizia-postale-di-catania]]"
+duplicate_reason: same_collection_url
+duplicate_key: "https://www.poliziadistato.it/articolo/15594a96fe92d98208614649"
+duplicate_normalized_at: 2026-04-26
 ---
 ## Source Summary
 

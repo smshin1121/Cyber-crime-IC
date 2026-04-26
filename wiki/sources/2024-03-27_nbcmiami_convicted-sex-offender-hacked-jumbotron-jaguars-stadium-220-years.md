@@ -17,6 +17,10 @@ key_findings:
   - "Identifies defendant as Samuel Arthur Thompson, 53, of St. Augustine."
 collection_url: https://www.nbcmiami.com/news/sports/nfl/convicted-sex-offender-hacked-jumbotron-jaguars-stadium-220-years/3269573/
 created: 2026-04-25
+duplicate_of: "[[2024-03-26_nbcmiami_jumbotron-hacker-sex-offender-220-years]]"
+duplicate_reason: same_collection_url
+duplicate_key: "https://www.nbcmiami.com/news/sports/nfl/convicted-sex-offender-hacked-jumbotron-jaguars-stadium-220-years/3269573/"
+duplicate_normalized_at: 2026-04-26
 ---
 ## Source Summary
 

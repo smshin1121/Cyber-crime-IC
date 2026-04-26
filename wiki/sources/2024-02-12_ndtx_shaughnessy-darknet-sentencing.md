@@ -20,6 +20,10 @@ created: 2026-04-17
 defendant_names:
   - "Sean Shaughnessy"
 updated: 2026-04-18
+duplicate_of: "[[2024-02-12_justice-gov_darknet-fentanyl-dealer-sentenced-to-24-years]]"
+duplicate_reason: same_collection_url
+duplicate_key: "https://www.justice.gov/usao-ndtx/pr/darknet-fentanyl-dealer-sentenced-24-years"
+duplicate_normalized_at: 2026-04-26
 ---
 ## Source Summary
 

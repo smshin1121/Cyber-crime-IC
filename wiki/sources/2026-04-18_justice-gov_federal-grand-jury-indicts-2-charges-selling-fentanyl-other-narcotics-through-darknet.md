@@ -21,6 +21,10 @@ defendant_names:
   - "Rajiv Srinivasan"
   - "Michael Ta"
 updated: 2026-04-18
+duplicate_of: "[[2022-12-16_justice-gov_federal-grand-jury-indicts-2-on-charges-of-selling-fentanyl-other-narcotics-thro]]"
+duplicate_reason: same_collection_url
+duplicate_key: "https://www.justice.gov/usao-cdca/pr/federal-grand-jury-indicts-2-charges-selling-fentanyl-other-narcotics-through-darknet"
+duplicate_normalized_at: 2026-04-26
 ---
 ## Source Summary
 

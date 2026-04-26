@@ -21,6 +21,10 @@ key_findings:
   - "The report describes the facility as a bulletproof hoster used to shield criminal websites from law-enforcement access."
   - "The source provides German federal-context validation that the operation was strategically significant beyond local reporting."
 created: 2026-04-18
+duplicate_of: "[[2021-01-01_bka-de_cybercrime-bundeslagebild-2021-cyberbunker-section]]"
+duplicate_reason: same_collection_url
+duplicate_key: "https://www.bka.de/SharedDocs/Downloads/DE/Publikationen/JahresberichteUndLagebilder/Cybercrime/cybercrimeBundeslagebild2021.pdf?__blob=publicationFile&v=6"
+duplicate_normalized_at: 2026-04-26
 ---
 ## Source Summary
 

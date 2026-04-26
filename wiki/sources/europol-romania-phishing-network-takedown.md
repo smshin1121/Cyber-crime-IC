@@ -16,6 +16,10 @@ pages_updated:
   - "romania-phishing-takedown-2024"
 key_findings: []
 created: 2026-04-08
+duplicate_of: "[[2024-01-01_europol-europa-eu_hook-line-and-sinker-cybercrime-network-phishing-bank-credentials-arrested-in-ro]]"
+duplicate_reason: same_collection_url
+duplicate_key: "https://www.europol.europa.eu/media-press/newsroom/news/hook-line-and-sinker-cybercrime-network-phishing-bank-credentials-arrested-in-romania"
+duplicate_normalized_at: 2026-04-26
 ---
 
 ## Source

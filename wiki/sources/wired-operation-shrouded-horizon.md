@@ -25,6 +25,10 @@ key_findings:
   - "The FBI called Operation Shrouded Horizon 'the largest-ever coordinated law enforcement effort directed at an online cyber criminal forum' — a claim that held true until subsequent 2018 Infraud and later operations"
 created: 2026-04-08
 updated: 2026-04-10
+duplicate_of: "[[2015-07-01_wired-com_dozens-nabbed-takedown-cybercrime-forum-darkode]]"
+duplicate_reason: same_collection_url
+duplicate_key: "https://www.wired.com/2015/07/dozens-nabbed-takedown-cybercrime-forum-darkode/"
+duplicate_normalized_at: 2026-04-26
 ---
 
 > [!info] URL access

@@ -20,6 +20,10 @@ created: 2026-04-18
 defendant_names:
   - "Melody Sasser"
 updated: 2026-04-18
+duplicate_of: "[[2023-06-07_justice-gov_grand-jury-indicts-knoxville-woman-previously-arrested-in-murder-for-hire-plot]]"
+duplicate_reason: same_collection_url
+duplicate_key: "https://www.justice.gov/usao-edtn/pr/grand-jury-indicts-knoxville-woman-previously-arrested-murder-hire-plot-0"
+duplicate_normalized_at: 2026-04-26
 ---
 ## Source Summary
 

@@ -21,6 +21,10 @@ defendant_names:
   - "Holly Danielle Adams"
   - "Devlin Hosner"
 updated: 2026-04-18
+duplicate_of: "[[2024-06-18_justice-gov_southern-california-woman-pleads-guilty-to-fentanyl-distribution-and-money-laund]]"
+duplicate_reason: same_collection_url
+duplicate_key: "https://www.justice.gov/usao-edca/pr/southern-california-woman-pleads-guilty-fentanyl-distribution-and-money-laundering"
+duplicate_normalized_at: 2026-04-26
 ---
 ## Source Summary
 

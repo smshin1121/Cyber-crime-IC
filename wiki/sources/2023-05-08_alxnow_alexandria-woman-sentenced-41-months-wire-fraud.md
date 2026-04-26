@@ -16,6 +16,10 @@ key_findings:
   - "Local Alexandria coverage of Santifer's federal sentence"
 collection_url: https://www.alxnow.com/2023/05/08/alexandria-woman-sentenced-41-months-in-prison-for-wire-fraud/
 created: 2026-04-25
+duplicate_of: "[[2023-05-08_alxnow_alexandria-woman-sentenced-41-months-prison-wire-fraud]]"
+duplicate_reason: same_collection_url
+duplicate_key: "https://www.alxnow.com/2023/05/08/alexandria-woman-sentenced-41-months-in-prison-for-wire-fraud/"
+duplicate_normalized_at: 2026-04-26
 ---
 ## Source Summary
 

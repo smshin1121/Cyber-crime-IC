@@ -18,6 +18,10 @@ key_findings:
 collection_url: https://www.justice.gov/usao-wdwa/pr/three-allegedly-responsible-distributing-thousands-fentanyl-pills-whatcom-county
 created: 2026-04-18
 updated: 2026-04-18
+duplicate_of: "[[2021-02-23_justice-gov_three-allegedly-responsible-for-distributing-thousands-of-fentanyl-pills-in-what]]"
+duplicate_reason: same_collection_url
+duplicate_key: "https://www.justice.gov/usao-wdwa/pr/three-allegedly-responsible-distributing-thousands-fentanyl-pills-whatcom-county"
+duplicate_normalized_at: 2026-04-26
 ---
 ## Source Summary
 

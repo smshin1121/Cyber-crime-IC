@@ -18,6 +18,10 @@ key_findings:
   - "Confirms the cross-border (US-Thailand) cooperation element of the takedown beyond the bare indictment."
 collection_url: https://www.cbsnews.com/news/us-russia-cybercrime-dark-web-market-suspect-sergey-medvedev-thailand/
 created: 2026-04-25
+duplicate_of: "[[2018-02-07_cbsnews-com_us-russia-cybercrime-dark-web-market-suspect-sergey-medvedev-thailand]]"
+duplicate_reason: same_collection_url
+duplicate_key: "https://www.cbsnews.com/news/us-russia-cybercrime-dark-web-market-suspect-sergey-medvedev-thailand/"
+duplicate_normalized_at: 2026-04-26
 ---
 ## Source Summary
 

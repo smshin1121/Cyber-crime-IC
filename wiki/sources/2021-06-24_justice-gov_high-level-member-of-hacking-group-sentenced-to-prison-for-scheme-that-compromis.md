@@ -17,6 +17,10 @@ key_findings:
   - "The FBI and U.S. Department of Justice investigated and prosecuted the FIN7 cybercrime group, which since 2015 had used malware and phishing attacks to steal over 15 million credit card numbers from more than 100 U.S. companies in the restaurant, gaming, and hotel sectors. Key members of the group were arrested in 2018, and stolen data had been sold on dark web marketplaces. The investigation involved cooperation with law enforcement in the United Kingdom, Australia, and France."
 collection_url: https://www.justice.gov/archives/opa/pr/high-level-member-hacking-group-sentenced-prison-scheme-compromised-tens-millions-debit-and
 created: 2026-04-17
+duplicate_of: "[[2021-06-24_justice-gov_high-level-member-of-hacking-group-sentenced-prison-fin7]]"
+duplicate_reason: same_collection_url
+duplicate_key: "https://www.justice.gov/archives/opa/pr/high-level-member-hacking-group-sentenced-prison-scheme-compromised-tens-millions-debit-and"
+duplicate_normalized_at: 2026-04-26
 ---
 ## Source Summary
 

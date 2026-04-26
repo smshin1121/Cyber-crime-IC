@@ -24,6 +24,10 @@ key_findings:
   - "URL/operation mismatch: this source is filed under [[operation-avalanche]] but reports on the Myanmar/Kokang scam-compound crackdown. A new `myanmar-kokang-scam-compound-crackdown` page should be created"
 created: 2026-04-08
 updated: 2026-04-10
+duplicate_of: "[[2023-11-20_voanews-com_myanmar-rebel-offensive-helps-china-s-cybercrime-crackdown]]"
+duplicate_reason: same_collection_url
+duplicate_key: "https://www.voanews.com/a/myanmar-rebel-offensive-helps-china-s-cybercrime-crackdown/7362836.html"
+duplicate_normalized_at: 2026-04-26
 ---
 
 ## Source

@@ -20,6 +20,10 @@ created: 2026-04-18
 defendant_names:
   - "Nicholas Moore"
 updated: 2026-04-18
+duplicate_of: "[[2026-01-16_justice-gov_tennessee-man-pleads-in-hacking-u-s-supreme-court-americorps-and-va-health-syste]]"
+duplicate_reason: same_collection_url
+duplicate_key: "https://www.justice.gov/usao-dc/pr/tennessee-man-pleads-hacking-us-supreme-court-americorps-and-va-health-system"
+duplicate_normalized_at: 2026-04-26
 ---
 ## Source Summary
 

@@ -20,6 +20,10 @@ created: 2026-04-18
 updated: 2026-04-18
 defendant_names:
   - "Sumter Man"
+duplicate_of: "[[2024-12-09_justice-gov_sumter-man-pleads-guilty-to-destruction-of-an-energy-facility-and-possession-of]]"
+duplicate_reason: same_collection_url
+duplicate_key: "https://www.justice.gov/usao-sc/pr/sumter-man-pleads-guilty-destruction-energy-facility-and-possession-child-sexual-abuse"
+duplicate_normalized_at: 2026-04-26
 ---
 ## Source Summary
 

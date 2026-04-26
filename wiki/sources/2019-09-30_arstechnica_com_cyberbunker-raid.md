@@ -20,6 +20,10 @@ key_findings:
   - "It summarized the 200-server seizure and the role of the facility as a bulletproof hoster."
   - "The article is useful as an early public narrative but should remain secondary to German court and BKA materials."
 created: 2026-04-18
+duplicate_of: "[[2019-09-30_arstechnica-com_german-police-seize-bulletproof-hosting-data-center-in-former-nato-bunker]]"
+duplicate_reason: same_collection_url
+duplicate_key: "https://arstechnica.com/information-technology/2019/09/german-police-seize-bulletproof-hosting-data-center-in-former-nato-bunker/"
+duplicate_normalized_at: 2026-04-26
 ---
 ## Source Summary
 

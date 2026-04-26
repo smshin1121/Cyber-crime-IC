@@ -20,6 +20,10 @@ created: 2026-04-18
 defendant_names:
   - "Jacob Blair"
 updated: 2026-04-18
+duplicate_of: "[[2023-02-28_justice-gov_coraopolis-man-indicted-in-western-pennsylvania-and-in-the-district-of-columbia]]"
+duplicate_reason: same_collection_url
+duplicate_key: "https://www.justice.gov/usao-wdpa/pr/coraopolis-man-indicted-western-pennsylvania-and-district-columbia-drug-charges"
+duplicate_normalized_at: 2026-04-26
 ---
 ## Source Summary
 

@@ -21,6 +21,10 @@ defendant_names:
   - "Olatunji Dawodu"
   - "Alex Ogando"
 updated: 2026-04-18
+duplicate_of: "[[2021-02-25_justice-gov_three-individuals-arrested-for-involvement-in-darknet-narcotics-trafficking-invo]]"
+duplicate_reason: same_collection_url
+duplicate_key: "https://www.justice.gov/usao-dc/pr/three-individuals-arrested-involvement-darknet-narcotics-trafficking-involving-pills"
+duplicate_normalized_at: 2026-04-26
 ---
 ## Source Summary
 

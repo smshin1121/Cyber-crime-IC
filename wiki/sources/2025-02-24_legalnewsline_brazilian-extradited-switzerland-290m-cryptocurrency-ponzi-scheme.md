@@ -17,6 +17,10 @@ key_findings:
   - "Reports the 12 wire fraud counts and the Belize office of TCC."
 collection_url: https://legalnewsline.com/stories/669930496-brazilian-extradited-from-switzerland-over-alleged-290m-cryptocurrency-ponzi-scheme
 created: 2026-04-25
+duplicate_of: "[[2025-02-21_legalnewsline_brazilian-extradited-from-switzerland-over-alleged-290m-cryptocurrency-ponzi-scheme]]"
+duplicate_reason: same_collection_url
+duplicate_key: "https://legalnewsline.com/stories/669930496-brazilian-extradited-from-switzerland-over-alleged-290m-cryptocurrency-ponzi-scheme"
+duplicate_normalized_at: 2026-04-26
 ---
 ## Source Summary
 

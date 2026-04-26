@@ -20,6 +20,10 @@ created: 2026-04-18
 defendant_names:
   - "Jingliang Su"
 updated: 2026-04-18
+duplicate_of: "[[2026-01-27_justice-gov_chinese-national-sentenced-to-nearly-4-years-in-federal-prison-for-role-in-multi]]"
+duplicate_reason: same_collection_url
+duplicate_key: "https://www.justice.gov/usao-cdca/pr/chinese-national-sentenced-46-months-federal-prison-role-multimillion-dollar"
+duplicate_normalized_at: 2026-04-26
 ---
 ## Source Summary
 

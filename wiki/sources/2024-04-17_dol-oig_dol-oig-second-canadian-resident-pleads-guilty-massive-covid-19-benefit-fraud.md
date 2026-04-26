@@ -17,6 +17,10 @@ key_findings:
   - "Multi-agency: DOL-OIG + USPS-OIG + SSA-OIG + IRS-CI"
 collection_url: https://www.oig.dol.gov/public/Press%20Releases/Second%20Canadian%20resident%20pleads%20guilty%20to%20massive%20COVID-19%20benefit%20fraud%20scheme_USAO_WD-WA_09132.pdf
 created: 2026-04-25
+duplicate_of: "[[2024-09-13_oig-dol_second-canadian-resident-pleads-guilty-massive-covid-19-benefit-fraud-scheme-pdf]]"
+duplicate_reason: same_collection_url
+duplicate_key: "https://www.oig.dol.gov/public/Press%20Releases/Second%20Canadian%20resident%20pleads%20guilty%20to%20massive%20COVID-19%20benefit%20fraud%20scheme_USAO_WD-WA_09132.pdf"
+duplicate_normalized_at: 2026-04-26
 ---
 ## Source Summary
 

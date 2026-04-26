@@ -17,6 +17,10 @@ key_findings:
   - "Confirms the 2020 Seattle 3rd & Pine mass-shooting acquittal context."
 collection_url: https://www.fox13seattle.com/news/man-guilty-gun-drug-charges
 created: 2026-04-25
+duplicate_of: "[[2024-09-13_fox13seattle_man-guilty-gun-drug-charges-seattle-mass-shooting]]"
+duplicate_reason: same_collection_url
+duplicate_key: "https://www.fox13seattle.com/news/man-guilty-gun-drug-charges"
+duplicate_normalized_at: 2026-04-26
 ---
 ## Source Summary
 

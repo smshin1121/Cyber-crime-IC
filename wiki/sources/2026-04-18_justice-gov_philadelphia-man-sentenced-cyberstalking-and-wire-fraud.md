@@ -20,6 +20,10 @@ created: 2026-04-18
 defendant_names:
   - "Austin Genay"
 updated: 2026-04-18
+duplicate_of: "[[2023-12-19_justice-gov_philadelphia-man-sentenced-for-cyberstalking-and-wire-fraud]]"
+duplicate_reason: same_collection_url
+duplicate_key: "https://www.justice.gov/usao-edky/pr/philadelphia-man-sentenced-cyberstalking-and-wire-fraud"
+duplicate_normalized_at: 2026-04-26
 ---
 ## Source Summary
 

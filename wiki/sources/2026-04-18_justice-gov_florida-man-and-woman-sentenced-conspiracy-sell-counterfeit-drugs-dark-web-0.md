@@ -20,6 +20,10 @@ created: 2026-04-18
 defendant_names:
   - "Michael Basalyga"
 updated: 2026-04-18
+duplicate_of: "[[2025-11-25_justice-gov_florida-man-and-woman-sentenced-for-conspiracy-to-sell-counterfeit-drugs-on-dark]]"
+duplicate_reason: same_collection_url
+duplicate_key: "https://www.justice.gov/usao-edky/pr/florida-man-and-woman-sentenced-conspiracy-sell-counterfeit-drugs-dark-web-0"
+duplicate_normalized_at: 2026-04-26
 ---
 ## Source Summary
 

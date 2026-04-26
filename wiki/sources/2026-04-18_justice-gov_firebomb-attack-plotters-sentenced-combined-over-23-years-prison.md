@@ -20,6 +20,10 @@ created: 2026-04-18
 defendant_names:
   - "Donjuan Murphy"
 updated: 2026-04-18
+duplicate_of: "[[2020-11-20_justice-gov_firebomb-attack-plotters-sentenced-to-combined-over-23-years-in-prison]]"
+duplicate_reason: same_collection_url
+duplicate_key: "https://www.justice.gov/usao-edva/pr/firebomb-attack-plotters-sentenced-combined-over-23-years-prison"
+duplicate_normalized_at: 2026-04-26
 ---
 ## Source Summary
 

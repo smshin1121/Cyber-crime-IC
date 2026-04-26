@@ -20,6 +20,10 @@ created: 2026-04-18
 defendant_names:
   - "Travis Eskridge"
 updated: 2026-04-18
+duplicate_of: "[[2025-02-06_justice-gov_nurse-charged-with-tampering-with-vials-of-fentanyl]]"
+duplicate_reason: same_collection_url
+duplicate_key: "https://www.justice.gov/usao-edmi/pr/nurse-charged-tampering-vials-fentanyl"
+duplicate_normalized_at: 2026-04-26
 ---
 ## Source Summary
 

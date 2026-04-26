@@ -18,6 +18,10 @@ key_findings:
   - "2019 indictment unsealed for arraignment in March 2025"
 collection_url: https://www.irs.gov/compliance/criminal-investigation/nigerian-citizen-extradited-from-the-uk-arraigned-on-indictment-for-wire-fraud-involving-stolen-tax-information
 created: 2026-04-25
+duplicate_of: "[[2022-02-03_irs-ci_nigerian-citizen-extradited-from-uk-arraigned-wire-fraud-stolen-tax-information]]"
+duplicate_reason: same_collection_url
+duplicate_key: "https://www.irs.gov/compliance/criminal-investigation/nigerian-citizen-extradited-from-the-uk-arraigned-on-indictment-for-wire-fraud-involving-stolen-tax-information"
+duplicate_normalized_at: 2026-04-26
 ---
 ## Source Summary
 

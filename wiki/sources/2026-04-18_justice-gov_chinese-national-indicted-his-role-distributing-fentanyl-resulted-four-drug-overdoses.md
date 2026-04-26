@@ -20,6 +20,10 @@ created: 2026-04-18
 defendant_names:
   - "Jian Zhang"
 updated: 2026-04-18
+duplicate_of: "[[2017-10-17_justice-gov_chinese-national-indicted-for-his-role-in-distributing-fentanyl-that-resulted-in]]"
+duplicate_reason: same_collection_url
+duplicate_key: "https://www.justice.gov/usao-or/pr/chinese-national-indicted-his-role-distributing-fentanyl-resulted-four-drug-overdoses"
+duplicate_normalized_at: 2026-04-26
 ---
 ## Source Summary
 

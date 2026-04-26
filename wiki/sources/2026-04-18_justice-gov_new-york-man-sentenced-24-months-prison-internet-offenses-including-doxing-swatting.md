@@ -20,6 +20,10 @@ created: 2026-04-18
 defendant_names:
   - "Mir Islam"
 updated: 2026-04-18
+duplicate_of: "[[2016-07-11_justice-gov_new-york-man-sentenced-to-24-months-in-prison-for-internet-offenses-including-do]]"
+duplicate_reason: same_collection_url
+duplicate_key: "https://www.justice.gov/usao-dc/pr/new-york-man-sentenced-24-months-prison-internet-offenses-including-doxing-swatting"
+duplicate_normalized_at: 2026-04-26
 ---
 ## Source Summary
 

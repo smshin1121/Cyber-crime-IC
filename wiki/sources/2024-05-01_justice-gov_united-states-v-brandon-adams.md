@@ -20,6 +20,10 @@ created: 2026-04-17
 defendant_names:
   - "Brandon Adams"
 updated: 2026-04-18
+duplicate_of: "[[2024-05-01_edmo_brandon-adams-darknet-sentencing]]"
+duplicate_reason: same_collection_url
+duplicate_key: "https://www.justice.gov/usao-edmo/pr/darknet-vendor-who-sold-millions-counterfeit-xanax-sentenced"
+duplicate_normalized_at: 2026-04-26
 ---
 ## Source Summary
 

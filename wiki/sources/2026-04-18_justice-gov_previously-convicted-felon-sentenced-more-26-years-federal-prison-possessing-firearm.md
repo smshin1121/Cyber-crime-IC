@@ -21,6 +21,10 @@ updated: 2026-04-18
 defendant_names:
   - "Felon Sentenced"
   - "Previously Convicted Felon"
+duplicate_of: "[[2025-04-09_justice-gov_previously-convicted-felon-sentenced-to-more-than-26-years-in-federal-prison-for]]"
+duplicate_reason: same_collection_url
+duplicate_key: "https://www.justice.gov/usao-md/pr/previously-convicted-felon-sentenced-more-26-years-federal-prison-possessing-firearm"
+duplicate_normalized_at: 2026-04-26
 ---
 ## Source Summary
 

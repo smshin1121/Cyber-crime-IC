@@ -17,6 +17,10 @@ key_findings:
   - "Provides regional Pacific NW press coverage."
 collection_url: https://www.dailyfly.com/2026/01/28/tacoma-man-sentenced-to-66-months-after-trafficking-25-pounds-of-meth-and-20000-fentanyl-pills/
 created: 2026-04-25
+duplicate_of: "[[2026-01-27_dailyfly_tacoma-man-sentenced-66-months-25-pounds-meth-fentanyl]]"
+duplicate_reason: same_collection_url
+duplicate_key: "https://www.dailyfly.com/2026/01/28/tacoma-man-sentenced-to-66-months-after-trafficking-25-pounds-of-meth-and-20000-fentanyl-pills/"
+duplicate_normalized_at: 2026-04-26
 ---
 ## Source Summary
 

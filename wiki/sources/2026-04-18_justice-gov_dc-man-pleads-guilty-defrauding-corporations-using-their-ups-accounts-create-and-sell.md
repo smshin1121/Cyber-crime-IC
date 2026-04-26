@@ -20,6 +20,10 @@ created: 2026-04-18
 defendant_names:
   - "Raekwon Malik Harrod"
 updated: 2026-04-18
+duplicate_of: "[[2024-01-05_justice-gov_d-c-man-pleads-guilty-to-defrauding-corporations-by-using-their-ups-accounts-to]]"
+duplicate_reason: same_collection_url
+duplicate_key: "https://www.justice.gov/usao-dc/pr/dc-man-pleads-guilty-defrauding-corporations-using-their-ups-accounts-create-and-sell"
+duplicate_normalized_at: 2026-04-26
 ---
 ## Source Summary
 

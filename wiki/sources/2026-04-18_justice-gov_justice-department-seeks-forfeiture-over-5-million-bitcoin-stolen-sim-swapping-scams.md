@@ -18,6 +18,10 @@ key_findings:
 collection_url: https://www.justice.gov/usao-dc/pr/justice-department-seeks-forfeiture-over-5-million-bitcoin-stolen-sim-swapping-scams
 created: 2026-04-18
 updated: 2026-04-18
+duplicate_of: "[[2025-09-09_justice-gov_justice-department-seeks-forfeiture-of-over-5-million-in-bitcoin-stolen-in-sim-s]]"
+duplicate_reason: same_collection_url
+duplicate_key: "https://www.justice.gov/usao-dc/pr/justice-department-seeks-forfeiture-over-5-million-bitcoin-stolen-sim-swapping-scams"
+duplicate_normalized_at: 2026-04-26
 ---
 ## Source Summary
 

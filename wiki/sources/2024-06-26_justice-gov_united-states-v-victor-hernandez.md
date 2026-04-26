@@ -20,6 +20,10 @@ created: 2026-04-17
 defendant_names:
   - "Victor Hernandez"
 updated: 2026-04-18
+duplicate_of: "[[2024-06-26_edmi_hernandez-dark-web-sentencing]]"
+duplicate_reason: same_collection_url
+duplicate_key: "https://www.justice.gov/usao-edmi/pr/armed-dark-web-drug-trafficker-sentenced-over-decade-federal-prison"
+duplicate_normalized_at: 2026-04-26
 ---
 ## Source Summary
 

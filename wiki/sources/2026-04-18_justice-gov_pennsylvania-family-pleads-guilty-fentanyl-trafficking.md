@@ -20,6 +20,10 @@ created: 2026-04-18
 defendant_names:
   - "Hadja Franklin"
 updated: 2026-04-18
+duplicate_of: "[[2024-03-05_justice-gov_pennsylvania-family-pleads-guilty-to-fentanyl-trafficking]]"
+duplicate_reason: same_collection_url
+duplicate_key: "https://www.justice.gov/usao-edva/pr/pennsylvania-family-pleads-guilty-fentanyl-trafficking"
+duplicate_normalized_at: 2026-04-26
 ---
 ## Source Summary
 

@@ -21,6 +21,10 @@ defendant_names:
   - "Michael Ta"
   - "Rajiv Srinivasan"
 updated: 2026-04-18
+duplicate_of: "[[2024-04-29_justice-gov_o-c-and-houston-men-sentenced-to-decades-in-prison-for-supplying-fentanyl-and-ot]]"
+duplicate_reason: same_collection_url
+duplicate_key: "https://www.justice.gov/usao-cdca/pr/oc-and-houston-men-sentenced-decades-prison-supplying-fentanyl-and-other-drugs-sold"
+duplicate_normalized_at: 2026-04-26
 ---
 ## Source Summary
 

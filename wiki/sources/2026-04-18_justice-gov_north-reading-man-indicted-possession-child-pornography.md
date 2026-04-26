@@ -18,6 +18,10 @@ key_findings:
 collection_url: https://www.justice.gov/usao-ma/pr/north-reading-man-indicted-possession-child-pornography
 created: 2026-04-18
 updated: 2026-04-18
+duplicate_of: "[[2026-01-20_justice-gov_north-reading-man-indicted-for-possession-of-child-pornography]]"
+duplicate_reason: same_collection_url
+duplicate_key: "https://www.justice.gov/usao-ma/pr/north-reading-man-indicted-possession-child-pornography"
+duplicate_normalized_at: 2026-04-26
 ---
 ## Source Summary
 

@@ -18,6 +18,10 @@ key_findings:
 collection_url: https://www.justice.gov/opa/pr/justice-department-secures-forfeiture-over-5m-funds-traceable-business-email-compromise
 created: 2026-04-18
 updated: 2026-04-18
+duplicate_of: "[[2025-03-26_justice-gov_justice-department-secures-forfeiture-of-over-5m-of-funds-traceable-to-business]]"
+duplicate_reason: same_collection_url
+duplicate_key: "https://www.justice.gov/opa/pr/justice-department-secures-forfeiture-over-5m-funds-traceable-business-email-compromise"
+duplicate_normalized_at: 2026-04-26
 ---
 ## Source Summary
 

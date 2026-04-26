@@ -17,6 +17,10 @@ key_findings:
   - "Mayberry admitted earning over $2,000 selling CSAM from a cloud-storage account."
 collection_url: https://www.myleaderpaper.com/news/police_fire/mayberry-gets-17-year-prison-sentence-for-selling-child-porn/article_075aa546-e61b-4390-bb3c-673970f3a060.html
 created: 2026-04-25
+duplicate_of: "[[2025-04-04_myleaderpaper_mayberry-gets-17-year-prison-sentence-for-selling-child-porn]]"
+duplicate_reason: same_collection_url
+duplicate_key: "https://www.myleaderpaper.com/news/police_fire/mayberry-gets-17-year-prison-sentence-for-selling-child-porn/article_075aa546-e61b-4390-bb3c-673970f3a060.html"
+duplicate_normalized_at: 2026-04-26
 ---
 ## Source Summary
 

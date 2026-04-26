@@ -21,6 +21,10 @@ key_findings:
   - "The release adds Spanish operational detail including the Miajadas hotel base, activity in 24 Spanish provinces, and simultaneous searches in four European countries."
 created: 2026-04-18
 updated: 2026-04-18
+duplicate_of: "[[2021-02-03_policia-es_la-polic-a-nacional-y-el-servicio-secreto-de-los-eeuu-desarticulan-una-organizac]]"
+duplicate_reason: same_collection_url
+duplicate_key: "https://www.policia.es/_es/comunicacion_prensa_detalle.php?ID=8401"
+duplicate_normalized_at: 2026-04-26
 ---
 ## Source Summary
 

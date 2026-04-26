@@ -16,6 +16,10 @@ key_findings:
   - "Independent news syndication of Kancharla plea."
 collection_url: https://www.shorenewsnetwork.com/2022/05/26/darknet-vendor-of-fentanyl-laced-pills-pleads-guilty/
 created: 2026-04-25
+duplicate_of: "[[2022-05-26_shorenewsnetwork_com_darknet-vendor-of-fentanyl-laced-pills-pleads-guilty]]"
+duplicate_reason: same_collection_url
+duplicate_key: "https://www.shorenewsnetwork.com/2022/05/26/darknet-vendor-of-fentanyl-laced-pills-pleads-guilty/"
+duplicate_normalized_at: 2026-04-26
 ---
 ## Source Summary
 

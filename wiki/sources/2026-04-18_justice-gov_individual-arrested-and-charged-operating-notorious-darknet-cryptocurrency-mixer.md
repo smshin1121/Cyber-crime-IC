@@ -20,6 +20,10 @@ created: 2026-04-18
 defendant_names:
   - "Roman Sterlingov"
 updated: 2026-04-18
+duplicate_of: "[[2021-04-29_justice-gov_individual-arrested-and-charged-with-operating-notorious-darknet-cryptocurrency]]"
+duplicate_reason: same_collection_url
+duplicate_key: "https://www.justice.gov/usao-dc/pr/individual-arrested-and-charged-operating-notorious-darknet-cryptocurrency-mixer"
+duplicate_normalized_at: 2026-04-26
 ---
 ## Source Summary
 

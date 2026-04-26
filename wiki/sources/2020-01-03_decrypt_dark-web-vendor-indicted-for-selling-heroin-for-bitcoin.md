@@ -23,6 +23,10 @@ created: 2026-04-18
 updated: 2026-04-18
 defendant_names:
   - "Joanna De Alba"
+duplicate_of: "[[2020-01-03_decrypt-co_dark-web-vendor-indicted-for-selling-heroin-for-bitcoin]]"
+duplicate_reason: same_collection_url
+duplicate_key: "https://decrypt.co/15852/dark-web-vendor-indicted-for-selling-heroin-for-bitcoin"
+duplicate_normalized_at: 2026-04-26
 ---
 ## Source Summary
 

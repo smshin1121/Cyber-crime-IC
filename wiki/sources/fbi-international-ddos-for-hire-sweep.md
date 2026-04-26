@@ -29,6 +29,10 @@ key_findings:
   - "FBI's role was participation in both the US arrests and the Europol-hosted coordination cell; this marked one of the earlier examples of US-EU symmetric cybercrime cooperation against low-tier offenders"
 created: 2026-04-08
 updated: 2026-04-10
+duplicate_of: "[[2016-12-09_fbi-gov_international-cyber-sweep-nets-ddos-attackers]]"
+duplicate_reason: same_collection_url
+duplicate_key: "https://www.fbi.gov/news/stories/international-cyber-sweep-nets-ddos-attackers"
+duplicate_normalized_at: 2026-04-26
 ---
 
 > [!note] Original URL access blocked

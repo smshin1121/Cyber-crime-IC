@@ -20,6 +20,10 @@ created: 2026-04-18
 defendant_names:
   - "Christerfer Frick"
 updated: 2026-04-18
+duplicate_of: "[[2024-04-12_justice-gov_stanwood-washington-repeat-offender-sentenced-to-10-years-in-prison-for-selling]]"
+duplicate_reason: same_collection_url
+duplicate_key: "https://www.justice.gov/usao-wdwa/pr/stanwood-washington-repeat-offender-sentenced-10-years-prison-selling-heroin-and"
+duplicate_normalized_at: 2026-04-26
 ---
 ## Source Summary
 

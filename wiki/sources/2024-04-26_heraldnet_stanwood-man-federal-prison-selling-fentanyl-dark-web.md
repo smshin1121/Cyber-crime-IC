@@ -17,6 +17,10 @@ key_findings:
   - "30-year crime spree, dozens of convictions per prosecutor"
 collection_url: https://www.heraldnet.com/news/stanwood-man-gets-federal-prison-for-selling-fentanyl-on-dark-web/
 created: 2026-04-25
+duplicate_of: "[[2024-04-15_heraldnet_stanwood-man-federal-prison-selling-fentanyl-dark-web]]"
+duplicate_reason: same_collection_url
+duplicate_key: "https://www.heraldnet.com/news/stanwood-man-gets-federal-prison-for-selling-fentanyl-on-dark-web/"
+duplicate_normalized_at: 2026-04-26
 ---
 ## Source Summary
 

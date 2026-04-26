@@ -20,6 +20,10 @@ created: 2026-04-18
 defendant_names:
   - "San Jose Resident"
 updated: 2026-04-18
+duplicate_of: "[[2017-06-27_justice-gov_san-jose-resident-pleads-guilty-to-stealing-homeless-individuals-ids-and-using-t]]"
+duplicate_reason: same_collection_url
+duplicate_key: "https://www.justice.gov/usao-ndca/pr/san-jose-resident-pleads-guilty-stealing-homeless-individuals-ids-and-using-them-seek"
+duplicate_normalized_at: 2026-04-26
 ---
 ## Source Summary
 

@@ -20,6 +20,10 @@ created: 2026-04-17
 updated: 2026-04-18
 defendant_names:
   - "Three Individuals"
+duplicate_of: "[[2023-03-22_ddc_ogando-dawodu-spencer-darknet-sentencing]]"
+duplicate_reason: same_collection_url
+duplicate_key: "https://www.justice.gov/usao-dc/pr/three-individuals-sentenced-darknet-narcotics-trafficking-conspiracy-involving"
+duplicate_normalized_at: 2026-04-26
 ---
 ## Source Summary
 

@@ -18,6 +18,10 @@ key_findings:
 collection_url: https://www.justice.gov/usao-wdwa/pr/prolific-fentanyl-distributor-sentenced-six-years-prison
 created: 2026-04-18
 updated: 2026-04-18
+duplicate_of: "[[2026-01-26_justice-gov_prolific-fentanyl-distributor-sentenced-to-six-years-in-prison]]"
+duplicate_reason: same_collection_url
+duplicate_key: "https://www.justice.gov/usao-wdwa/pr/prolific-fentanyl-distributor-sentenced-six-years-prison"
+duplicate_normalized_at: 2026-04-26
 ---
 ## Source Summary
 

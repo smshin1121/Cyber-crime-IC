@@ -20,6 +20,10 @@ created: 2026-04-17
 updated: 2026-04-18
 defendant_names:
   - "Of Carfentanil And Fentanyl"
+duplicate_of: "[[2020-10-08_justice-gov_prolific-dark-web-dealer-of-carfentanil-and-fentanyl-sentenced-to-17-years-in-pr]]"
+duplicate_reason: same_collection_url
+duplicate_key: "https://www.justice.gov/usao-sdny/pr/prolific-dark-web-dealer-carfentanil-and-fentanyl-sentenced-17-years-prison"
+duplicate_normalized_at: 2026-04-26
 ---
 ## Source Summary
 

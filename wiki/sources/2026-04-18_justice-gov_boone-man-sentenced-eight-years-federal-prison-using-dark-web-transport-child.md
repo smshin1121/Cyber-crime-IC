@@ -20,6 +20,10 @@ created: 2026-04-18
 defendant_names:
   - "Jacob Elijah Kilgore"
 updated: 2026-04-18
+duplicate_of: "[[2024-12-05_justice-gov_boone-man-is-sentenced-to-eight-years-in-federal-prison-for-using-the-dark-web-t]]"
+duplicate_reason: same_collection_url
+duplicate_key: "https://www.justice.gov/usao-wdnc/pr/boone-man-sentenced-eight-years-federal-prison-using-dark-web-transport-child"
+duplicate_normalized_at: 2026-04-26
 ---
 ## Source Summary
 

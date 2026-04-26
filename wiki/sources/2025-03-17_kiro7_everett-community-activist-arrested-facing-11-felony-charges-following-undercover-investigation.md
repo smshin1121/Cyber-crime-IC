@@ -17,6 +17,10 @@ key_findings:
   - "The article corroborated the Everett traffic-stop arrest and the cocaine, fentanyl, and handgun evidence recovered from Levy's home."
 collection_url: https://www.kiro7.com/news/local/everett-community-activist-arrested-facing-11-felony-charges-following-undercover-investigation/D4GQUVLC3RH3RF6FJOYOPVV47U/
 created: 2026-04-25
+duplicate_of: "[[2025-03-13_kiro7_everett-community-activist-arrested-felony-charges]]"
+duplicate_reason: same_collection_url
+duplicate_key: "https://www.kiro7.com/news/local/everett-community-activist-arrested-facing-11-felony-charges-following-undercover-investigation/D4GQUVLC3RH3RF6FJOYOPVV47U/"
+duplicate_normalized_at: 2026-04-26
 ---
 ## Source Summary
 

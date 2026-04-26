@@ -20,6 +20,10 @@ created: 2026-04-18
 defendant_names:
   - "Edward Shia"
 updated: 2026-04-18
+duplicate_of: "[[2017-05-25_justice-gov_san-francisco-man-sentenced-to-84-months-in-prison-for-possession-of-child-porno]]"
+duplicate_reason: same_collection_url
+duplicate_key: "https://www.justice.gov/usao-ndca/pr/san-francisco-man-sentenced-84-months-prison-possession-child-pornography"
+duplicate_normalized_at: 2026-04-26
 ---
 ## Source Summary
 

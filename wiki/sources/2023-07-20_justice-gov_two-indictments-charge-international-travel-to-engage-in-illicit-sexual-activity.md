@@ -17,6 +17,10 @@ key_findings:
   - "This domestic-only U.S. follow-on record has been absorbed into the canonical case page [[us-v-international-travel]]. No visible cross-border mechanism is documented, so it is not treated as a separate international-cooperation operation."
 collection_url: https://www.justice.gov/usao-edca/pr/two-indictments-charge-international-travel-engage-illicit-sexual-activity-minors-0
 created: 2026-04-17
+duplicate_of: "[[2023-07-12_justice-gov_danish-national-arrested-fresno-airport-illicit-sexual-activity-minors]]"
+duplicate_reason: same_collection_url
+duplicate_key: "https://www.justice.gov/usao-edca/pr/two-indictments-charge-international-travel-engage-illicit-sexual-activity-minors-0"
+duplicate_normalized_at: 2026-04-26
 ---
 ## Source Summary
 

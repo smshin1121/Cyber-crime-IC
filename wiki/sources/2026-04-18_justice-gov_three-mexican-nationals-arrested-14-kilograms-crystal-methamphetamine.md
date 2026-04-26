@@ -18,6 +18,10 @@ key_findings:
 collection_url: https://www.justice.gov/usao-wdwa/pr/three-mexican-nationals-arrested-14-kilograms-crystal-methamphetamine
 created: 2026-04-18
 updated: 2026-04-18
+duplicate_of: "[[2025-02-04_justice-gov_three-mexican-nationals-arrested-with-14-kilograms-of-crystal-methamphetamine]]"
+duplicate_reason: same_collection_url
+duplicate_key: "https://www.justice.gov/usao-wdwa/pr/three-mexican-nationals-arrested-14-kilograms-crystal-methamphetamine"
+duplicate_normalized_at: 2026-04-26
 ---
 ## Source Summary
 

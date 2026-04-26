@@ -17,6 +17,10 @@ key_findings:
   - "Source referenced by ic-statistics-dashboard."
 collection_url: https://www.interpol.int/News-and-Events/News/2024/INTERPOL-cyber-operation-takes-down-22-000-malicious-IP-addresses
 created: 2026-04-17
+duplicate_of: "[[2024-11-06-interpol-operation-synergia-ii]]"
+duplicate_reason: same_collection_url
+duplicate_key: "https://www.interpol.int/News-and-Events/News/2024/INTERPOL-cyber-operation-takes-down-22-000-malicious-IP-addresses"
+duplicate_normalized_at: 2026-04-26
 ---
 ## Source Summary
 

@@ -20,6 +20,10 @@ created: 2026-04-18
 defendant_names:
   - "Mateo Ventura"
 updated: 2026-04-18
+duplicate_of: "[[2026-01-08_justice-gov_massachusetts-man-sentenced-for-knowingly-concealing-the-source-of-material-supp]]"
+duplicate_reason: same_collection_url
+duplicate_key: "https://www.justice.gov/usao-ma/pr/massachusetts-man-sentenced-knowingly-concealing-source-material-support-or-resources"
+duplicate_normalized_at: 2026-04-26
 ---
 ## Source Summary
 

@@ -18,6 +18,10 @@ key_findings:
   - "The release adds operational detail on the Finland-linked romance-scam and Swiss phishing case clusters."
 collection_url: "https://www.group-ib.com/th/media-center/press-releases/operation-contender/"
 created: 2026-04-19
+duplicate_of: "[[2024-10-08_group-ib-com_group-ib-supports-interpol-in-operation-contender-2-0-leading-to-the-arrest-of-c]]"
+duplicate_reason: same_collection_url
+duplicate_key: "https://www.group-ib.com/th/media-center/press-releases/operation-contender/"
+duplicate_normalized_at: 2026-04-26
 ---
 
 ## Summary

@@ -20,6 +20,10 @@ created: 2026-04-18
 updated: 2026-04-18
 defendant_names:
   - "Of Illegal Procurement Of"
+duplicate_of: "[[2019-03-21_justice-gov_estonian-national-extradited-from-estonia-to-face-charges-of-illegal-procurement]]"
+duplicate_reason: same_collection_url
+duplicate_key: "https://www.justice.gov/usao-ndca/pr/estonian-national-extradited-estonia-face-charges-illegal-procurement-us-electronics"
+duplicate_normalized_at: 2026-04-26
 ---
 ## Source Summary
 

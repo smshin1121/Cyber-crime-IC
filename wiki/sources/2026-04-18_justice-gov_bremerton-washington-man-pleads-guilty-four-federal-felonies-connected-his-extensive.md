@@ -22,6 +22,10 @@ created: 2026-04-18
 updated: 2026-04-18
 defendant_names:
   - "Ashton Connor Garcia"
+duplicate_of: "[[2024-01-25_justice-gov_bremerton-washington-man-pleads-guilty-to-four-federal-felonies-connected-to-his]]"
+duplicate_reason: same_collection_url
+duplicate_key: "https://www.justice.gov/usao-wdwa/pr/bremerton-washington-man-pleads-guilty-four-federal-felonies-connected-his-extensive"
+duplicate_normalized_at: 2026-04-26
 ---
 ## Source Summary
 

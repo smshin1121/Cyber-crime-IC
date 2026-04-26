@@ -20,6 +20,10 @@ created: 2026-04-18
 defendant_names:
   - "Frank Lozano Graves"
 updated: 2026-04-18
+duplicate_of: "[[2025-01-16_justice-gov_renton-washington-man-who-worked-with-his-son-to-deal-drugs-and-launder-proceeds]]"
+duplicate_reason: same_collection_url
+duplicate_key: "https://www.justice.gov/usao-wdwa/pr/renton-washington-man-who-worked-his-son-deal-drugs-and-launder-proceeds-sentenced-5"
+duplicate_normalized_at: 2026-04-26
 ---
 ## Source Summary
 

@@ -20,6 +20,10 @@ created: 2026-04-18
 updated: 2026-04-18
 defendant_names:
   - "Nehemie Almonor"
+duplicate_of: "[[2024-03-08_justice-gov_newport-news-man-sentenced-for-prolific-card-swiping-operation]]"
+duplicate_reason: same_collection_url
+duplicate_key: "https://www.justice.gov/usao-edva/pr/newport-news-man-sentenced-prolific-card-swiping-operation"
+duplicate_normalized_at: 2026-04-26
 ---
 ## Source Summary
 

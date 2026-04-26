@@ -21,6 +21,10 @@ key_findings:
   - "BSI says sinkhole servers were used to identify infected systems and that victim-notification and remediation work continued after the takedown."
   - "The page enumerates malware families seen in the Avalanche infrastructure, including Andromeda/Gamarue, banking trojans, ransomware and downloader families."
 created: 2026-04-18
+duplicate_of: "[[2026-04-17_bsi-bund-de_avalanche-botnet-infrastructure]]"
+duplicate_reason: same_collection_url
+duplicate_key: "https://www.bsi.bund.de/EN/Themen/Verbraucherinnen-und-Verbraucher/Cyber-Sicherheitslage/Methoden-der-Cyber-Kriminalitaet/Botnetze/Botnetz-Avalanche/botnet-avalanche_node.html"
+duplicate_normalized_at: 2026-04-26
 ---
 ## Source Summary
 

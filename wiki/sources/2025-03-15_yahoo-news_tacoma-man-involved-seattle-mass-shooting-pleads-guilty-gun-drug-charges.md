@@ -17,6 +17,10 @@ key_findings:
   - "Confirms the FBI/DEA/Seattle PD multi-agency operation."
 collection_url: https://www.yahoo.com/news/tacoma-man-involved-seattle-mass-232635693.html
 created: 2026-04-25
+duplicate_of: "[[2024-09-13_yahoo_tacoma-man-involved-seattle-mass-shooting-pleads-guilty]]"
+duplicate_reason: same_collection_url
+duplicate_key: "https://www.yahoo.com/news/tacoma-man-involved-seattle-mass-232635693.html"
+duplicate_normalized_at: 2026-04-26
 ---
 ## Source Summary
 

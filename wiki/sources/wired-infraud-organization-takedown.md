@@ -30,6 +30,10 @@ key_findings:
   - "Subsequent prosecutions: Sergey Medvedev pleaded guilty in 2020 and received a 10-year sentence; Valerian Chiochiu (Moldovan, FastPOS malware author) sentenced to 10 years; Marko Leopard (Macedonia) sentenced. Andrey Sergeevich Novak (Russian) was arrested by Russia's FSB in January 2022 — a rare case of Russian cooperation in a US-led cybercrime case"
 created: 2026-04-08
 updated: 2026-04-10
+duplicate_of: "[[2018-02-07_wired-com_infraud-feds-takedown-cybercrime]]"
+duplicate_reason: same_collection_url
+duplicate_key: "https://www.wired.com/story/infraud-feds-takedown-cybercrime/"
+duplicate_normalized_at: 2026-04-26
 ---
 
 ## Source

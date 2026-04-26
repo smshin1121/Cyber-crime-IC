@@ -20,6 +20,10 @@ created: 2026-04-18
 updated: 2026-04-18
 defendant_names:
   - "For Possessing Child Sexual"
+duplicate_of: "[[2025-08-19_justice-gov_davenport-man-indicted-for-possessing-child-sexual-abuse-material]]"
+duplicate_reason: same_collection_url
+duplicate_key: "https://www.justice.gov/usao-mdfl/pr/davenport-man-indicted-possessing-child-sexual-abuse-material"
+duplicate_normalized_at: 2026-04-26
 ---
 ## Source Summary
 

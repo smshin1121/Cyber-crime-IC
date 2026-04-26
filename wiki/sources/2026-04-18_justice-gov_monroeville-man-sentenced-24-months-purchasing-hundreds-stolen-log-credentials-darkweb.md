@@ -20,6 +20,10 @@ created: 2026-04-18
 updated: 2026-04-18
 defendant_names:
   - "Monroeville Man"
+duplicate_of: "[[2023-11-07_justice-gov_monroeville-man-sentenced-to-24-months-for-purchasing-hundreds-of-stolen-log-in]]"
+duplicate_reason: same_collection_url
+duplicate_key: "https://www.justice.gov/usao-sdal/pr/monroeville-man-sentenced-24-months-purchasing-hundreds-stolen-log-credentials-darkweb"
+duplicate_normalized_at: 2026-04-26
 ---
 ## Source Summary
 

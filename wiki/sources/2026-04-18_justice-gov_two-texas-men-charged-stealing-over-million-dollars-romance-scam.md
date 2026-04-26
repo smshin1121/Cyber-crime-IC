@@ -18,6 +18,10 @@ key_findings:
 collection_url: https://www.justice.gov/usao-edmo/pr/two-texas-men-charged-stealing-over-million-dollars-romance-scam
 created: 2026-04-18
 updated: 2026-04-18
+duplicate_of: "[[2021-09-08_justice-gov_two-texas-men-charged-in-stealing-over-a-million-dollars-in-a-romance-scam]]"
+duplicate_reason: same_collection_url
+duplicate_key: "https://www.justice.gov/usao-edmo/pr/two-texas-men-charged-stealing-over-million-dollars-romance-scam"
+duplicate_normalized_at: 2026-04-26
 ---
 ## Source Summary
 

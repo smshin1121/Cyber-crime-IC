@@ -20,6 +20,10 @@ created: 2026-04-18
 defendant_names:
   - "Victoria Eduardovna Dubranova"
 updated: 2026-04-18
+duplicate_of: "[[2025-12-09_justice-gov_justice-department-announces-actions-to-combat-two-russian-state-sponsored-cyber]]"
+duplicate_reason: same_collection_url
+duplicate_key: "https://www.justice.gov/usao-cdca/pr/justice-department-announces-actions-combat-two-russian-state-sponsored-cyber-criminal"
+duplicate_normalized_at: 2026-04-26
 ---
 ## Source Summary
 

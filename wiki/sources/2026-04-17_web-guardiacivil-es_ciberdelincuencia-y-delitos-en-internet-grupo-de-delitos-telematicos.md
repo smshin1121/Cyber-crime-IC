@@ -17,6 +17,10 @@ key_findings:
   - "The **Grupo de Delitos Telematicos (GDT)** is the Guardia Civil's specialized cybercrime unit and one of the two main national cybercrime actors in Spain's dual law-enforcement model."
 collection_url: https://web.guardiacivil.es/es/institucional/conocenos/especialidades/gdt/
 created: 2026-04-17
+duplicate_of: "[[2026-04-17_web-guardiacivil-es_ciberdelincuencia-y-delitos-en-internet-gdt]]"
+duplicate_reason: same_collection_url
+duplicate_key: "https://web.guardiacivil.es/es/institucional/conocenos/especialidades/gdt/"
+duplicate_normalized_at: 2026-04-26
 ---
 ## Source Summary
 

@@ -20,6 +20,10 @@ created: 2026-04-18
 defendant_names:
   - "Victor Da Silva Soares"
 updated: 2026-04-18
+duplicate_of: "[[2025-07-25_justice-gov_everett-man-indicted-for-selling-firearms]]"
+duplicate_reason: same_collection_url
+duplicate_key: "https://www.justice.gov/usao-ma/pr/everett-man-indicted-selling-firearms"
+duplicate_normalized_at: 2026-04-26
 ---
 ## Source Summary
 

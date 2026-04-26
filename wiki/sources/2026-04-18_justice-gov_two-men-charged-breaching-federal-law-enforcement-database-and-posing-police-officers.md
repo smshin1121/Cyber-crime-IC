@@ -20,6 +20,10 @@ created: 2026-04-18
 updated: 2026-04-18
 defendant_names:
   - "Two Men"
+duplicate_of: "[[2023-03-14_justice-gov_two-men-charged-for-breaching-federal-law-enforcement-database-and-posing-as-pol]]"
+duplicate_reason: same_collection_url
+duplicate_key: "https://www.justice.gov/usao-edny/pr/two-men-charged-breaching-federal-law-enforcement-database-and-posing-police-officers"
+duplicate_normalized_at: 2026-04-26
 ---
 ## Source Summary
 

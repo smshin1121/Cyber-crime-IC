@@ -20,6 +20,10 @@ created: 2026-04-18
 defendant_names:
   - "Eric Caleb Carlson"
 updated: 2026-04-18
+duplicate_of: "[[2023-11-03_justice-gov_former-school-employee-pleads-guilty-to-child-porn-charge]]"
+duplicate_reason: same_collection_url
+duplicate_key: "https://www.justice.gov/usao-ks/pr/former-school-employee-pleads-guilty-child-porn-charge"
+duplicate_normalized_at: 2026-04-26
 ---
 ## Source Summary
 

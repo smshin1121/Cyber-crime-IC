@@ -20,6 +20,10 @@ created: 2026-04-18
 updated: 2026-04-18
 defendant_names:
   - "Sturgis Man"
+duplicate_of: "[[2025-01-08_justice-gov_sturgis-man-sentenced-to-70-months-for-selling-drugs-on-dark-web]]"
+duplicate_reason: same_collection_url
+duplicate_key: "https://www.justice.gov/usao-wdmi/pr/2025_0108_Miller_E_Sentenced"
+duplicate_normalized_at: 2026-04-26
 ---
 ## Source Summary
 

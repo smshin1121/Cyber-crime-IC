@@ -21,6 +21,10 @@ key_findings:
   - "The report helps preserve the operation codename and public cyber-fraud framing in secondary coverage."
 created: 2026-04-18
 updated: 2026-04-18
+duplicate_of: "[[2021-02-09_cisomag-com_operation-secreto-europol-busts-international-cybercriminal-group]]"
+duplicate_reason: same_collection_url
+duplicate_key: "https://cisomag.com/operation-secreto-europol-busts-international-cybercriminal-group/"
+duplicate_normalized_at: 2026-04-26
 ---
 ## Source Summary
 

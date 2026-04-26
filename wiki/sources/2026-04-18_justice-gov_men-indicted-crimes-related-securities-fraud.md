@@ -22,6 +22,10 @@ defendant_names:
   - "Richard Dean"
   - "Joshua Owen"
 updated: 2026-04-18
+duplicate_of: "[[2025-12-16_justice-gov_men-indicted-for-crimes-related-to-securities-fraud]]"
+duplicate_reason: same_collection_url
+duplicate_key: "https://www.justice.gov/usao-ks/pr/men-indicted-crimes-related-securities-fraud"
+duplicate_normalized_at: 2026-04-26
 ---
 ## Source Summary
 

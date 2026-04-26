@@ -20,6 +20,10 @@ created: 2026-04-18
 defendant_names:
   - "Louis Donald Mendonsa"
 updated: 2026-04-18
+duplicate_of: "[[2024-04-11_justice-gov_sacramento-sex-offender-pleads-guilty-to-distributing-child-pornography-on-the-d]]"
+duplicate_reason: same_collection_url
+duplicate_key: "https://www.justice.gov/usao-edca/pr/sacramento-sex-offender-pleads-guilty-distributing-child-pornography-dark-web"
+duplicate_normalized_at: 2026-04-26
 ---
 ## Source Summary
 

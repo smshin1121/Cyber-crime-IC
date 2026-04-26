@@ -18,6 +18,10 @@ key_findings:
 collection_url: https://www.justice.gov/usao-wdwa/pr/issaquah-washington-man-sentenced-7-years-prison-dealing-fentanyl-and-other-drugs
 created: 2026-04-18
 updated: 2026-04-18
+duplicate_of: "[[2022-09-23_justice-gov_issaquah-washington-man-sentenced-to-7-years-in-prison-for-dealing-fentanyl-and]]"
+duplicate_reason: same_collection_url
+duplicate_key: "https://www.justice.gov/usao-wdwa/pr/issaquah-washington-man-sentenced-7-years-prison-dealing-fentanyl-and-other-drugs"
+duplicate_normalized_at: 2026-04-26
 ---
 ## Source Summary
 

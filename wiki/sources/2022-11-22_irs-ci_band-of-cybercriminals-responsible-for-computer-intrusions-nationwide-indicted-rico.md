@@ -17,6 +17,10 @@ key_findings:
   - "Indictment background for the December 2023 sentencings."
 collection_url: https://www.irs.gov/compliance/criminal-investigation/band-of-cybercriminals-responsible-for-computer-intrusions-nationwide-indicted-for-rico-conspiracy-that-netted-millions
 created: 2026-04-25
+duplicate_of: "[[2022-11-09_irs_band-cybercriminals-rico-conspiracy-millions]]"
+duplicate_reason: same_collection_url
+duplicate_key: "https://www.irs.gov/compliance/criminal-investigation/band-of-cybercriminals-responsible-for-computer-intrusions-nationwide-indicted-for-rico-conspiracy-that-netted-millions"
+duplicate_normalized_at: 2026-04-26
 ---
 ## Source Summary
 

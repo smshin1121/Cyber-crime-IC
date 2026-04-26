@@ -20,6 +20,10 @@ created: 2026-04-18
 defendant_names:
   - "Charles Thomas Abrahamson"
 updated: 2026-04-18
+duplicate_of: "[[2025-12-15_justice-gov_former-commander-and-adjutant-of-nonprofit-veteran-s-organization-indicted-for-w]]"
+duplicate_reason: same_collection_url
+duplicate_key: "https://www.justice.gov/usao-id/pr/former-commander-and-adjutant-nonprofit-veterans-organization-indicted-wire-fraud-and"
+duplicate_normalized_at: 2026-04-26
 ---
 ## Source Summary
 

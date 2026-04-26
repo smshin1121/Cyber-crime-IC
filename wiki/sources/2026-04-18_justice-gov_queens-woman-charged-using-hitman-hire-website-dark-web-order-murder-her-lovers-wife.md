@@ -21,6 +21,10 @@ updated: 2026-04-18
 defendant_names:
   - "With Using"
   - "Queens Woman"
+duplicate_of: "[[2024-07-08_justice-gov_queens-woman-charged-with-using-a-hitman-for-hire-website-on-the-dark-web-to-ord]]"
+duplicate_reason: same_collection_url
+duplicate_key: "https://www.justice.gov/usao-edny/pr/queens-woman-charged-using-hitman-hire-website-dark-web-order-murder-her-lovers-wife"
+duplicate_normalized_at: 2026-04-26
 ---
 ## Source Summary
 

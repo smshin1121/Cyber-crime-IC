@@ -21,6 +21,10 @@ defendant_names:
   - "Lu Zhang"
   - "Justin Walker"
 updated: 2026-04-18
+duplicate_of: "[[2023-12-14_justice-gov_four-individuals-charged-with-laundering-millions-from-cryptocurrency-investment]]"
+duplicate_reason: same_collection_url
+duplicate_key: "https://www.justice.gov/usao-cdca/pr/four-individuals-charged-laundering-millions-cryptocurrency-investment-scams-known-pig"
+duplicate_normalized_at: 2026-04-26
 ---
 ## Source Summary
 

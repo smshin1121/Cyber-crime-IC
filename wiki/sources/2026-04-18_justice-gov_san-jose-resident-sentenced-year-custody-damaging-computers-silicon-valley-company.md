@@ -20,6 +20,10 @@ created: 2026-04-18
 defendant_names:
   - "Robert Saunders"
 updated: 2026-04-18
+duplicate_of: "[[2016-06-04_justice-gov_san-jose-resident-sentenced-to-a-year-in-custody-for-damaging-computers-of-silic]]"
+duplicate_reason: same_collection_url
+duplicate_key: "https://www.justice.gov/usao-ndca/pr/san-jose-resident-sentenced-year-custody-damaging-computers-silicon-valley-company"
+duplicate_normalized_at: 2026-04-26
 ---
 ## Source Summary
 

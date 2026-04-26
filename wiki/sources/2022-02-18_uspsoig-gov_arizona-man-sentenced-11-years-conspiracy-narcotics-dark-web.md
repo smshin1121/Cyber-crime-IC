@@ -17,6 +17,10 @@ key_findings:
   - "Documents USPS-OIG investigative role alongside DEA, FBI, HSI."
 collection_url: https://www.uspsoig.gov/investigative-work/investigative-news-releases/arizona-man-sentenced-over-11-years-prison
 created: 2026-04-25
+duplicate_of: "[[2022-02-17_uspsoig-gov_arizona-man-sentenced-over-11-years-prison-conspiracy-sell-narcotics-dark-web]]"
+duplicate_reason: same_collection_url
+duplicate_key: "https://www.uspsoig.gov/investigative-work/investigative-news-releases/arizona-man-sentenced-over-11-years-prison"
+duplicate_normalized_at: 2026-04-26
 ---
 ## Source Summary
 

@@ -21,6 +21,10 @@ defendant_names:
   - "Donjuan Murphy"
   - "Montrio Santos Neville"
 updated: 2026-04-18
+duplicate_of: "[[2023-04-07_edva_john-mckernan-darknet-sentencing]]"
+duplicate_reason: same_collection_url
+duplicate_key: "https://www.justice.gov/usao-edva/pr/darknet-vendor-sentenced-distribution-fentanyl-laced-pills"
+duplicate_normalized_at: 2026-04-26
 ---
 ## Source Summary
 

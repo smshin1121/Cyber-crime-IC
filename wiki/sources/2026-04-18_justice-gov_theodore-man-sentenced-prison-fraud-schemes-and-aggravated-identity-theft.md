@@ -20,6 +20,10 @@ created: 2026-04-18
 defendant_names:
   - "Sean Donnell White"
 updated: 2026-04-18
+duplicate_of: "[[2024-12-09_justice-gov_theodore-man-sentenced-to-prison-for-fraud-schemes-and-aggravated-identity-theft]]"
+duplicate_reason: same_collection_url
+duplicate_key: "https://www.justice.gov/usao-sdal/pr/theodore-man-sentenced-prison-fraud-schemes-and-aggravated-identity-theft"
+duplicate_normalized_at: 2026-04-26
 ---
 ## Source Summary
 

@@ -20,6 +20,10 @@ created: 2026-04-18
 defendant_names:
   - "Security Advisor John Bolton"
 updated: 2026-04-18
+duplicate_of: "[[2025-10-16_justice-gov_justice-department-statements-regarding-indictment-of-former-national-security-a]]"
+duplicate_reason: same_collection_url
+duplicate_key: "https://www.justice.gov/opa/pr/justice-department-statements-regarding-indictment-former-national-security-advisor-john"
+duplicate_normalized_at: 2026-04-26
 ---
 ## Source Summary
 

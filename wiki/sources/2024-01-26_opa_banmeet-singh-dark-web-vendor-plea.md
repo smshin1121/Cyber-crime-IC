@@ -20,6 +20,10 @@ created: 2026-04-17
 defendant_names:
   - "Banmeet Singh"
 updated: 2026-04-18
+duplicate_of: "[[2024-01-26_justice-gov_dark-web-vendor-pleads-guilty-to-distributing-narcotics-and-forfeits-150m]]"
+duplicate_reason: same_collection_url
+duplicate_key: "https://www.justice.gov/archives/opa/pr/dark-web-vendor-pleads-guilty-distributing-narcotics-and-forfeits-150m"
+duplicate_normalized_at: 2026-04-26
 ---
 ## Source Summary
 

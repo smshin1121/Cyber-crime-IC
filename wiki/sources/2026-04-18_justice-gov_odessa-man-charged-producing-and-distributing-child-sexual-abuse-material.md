@@ -21,6 +21,10 @@ updated: 2026-04-18
 defendant_names:
   - "With Producing And Distributing"
   - "Oldsmar Man"
+duplicate_of: "[[2023-10-04_justice-gov_oldsmar-man-charged-with-producing-and-distributing-child-sexual-abuse-material]]"
+duplicate_reason: same_collection_url
+duplicate_key: "https://www.justice.gov/usao-mdfl/pr/odessa-man-charged-producing-and-distributing-child-sexual-abuse-material"
+duplicate_normalized_at: 2026-04-26
 ---
 ## Source Summary
 

@@ -20,6 +20,10 @@ created: 2026-04-18
 updated: 2026-04-18
 defendant_names:
   - "Third Defendant"
+duplicate_of: "[[2025-12-12_justice-gov_third-defendant-pleads-guilty-to-hacking-fantasy-sports-and-betting-website]]"
+duplicate_reason: same_collection_url
+duplicate_key: "https://www.justice.gov/usao-sdny/pr/third-defendant-pleads-guilty-hacking-fantasy-sports-and-betting-website"
+duplicate_normalized_at: 2026-04-26
 ---
 ## Source Summary
 

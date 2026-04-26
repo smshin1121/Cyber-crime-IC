@@ -31,6 +31,10 @@ key_findings:
   - "Follow-on arrest: Mikhail Matveev ('Wazawaka'), indicted by DOJ in May 2023 as a Hive affiliate, remains in Russia — illustrating the persistent non-extradition challenge"
 created: 2026-04-08
 updated: 2026-04-10
+duplicate_of: "[[2023-01-26_europol-europa-eu_cybercriminals-stung-as-hive-infrastructure-shut-down]]"
+duplicate_reason: same_collection_url
+duplicate_key: "https://www.europol.europa.eu/media-press/newsroom/news/cybercriminals-stung-hive-infrastructure-shut-down"
+duplicate_normalized_at: 2026-04-26
 ---
 
 ## Source

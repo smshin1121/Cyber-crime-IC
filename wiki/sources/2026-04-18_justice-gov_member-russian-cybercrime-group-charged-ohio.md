@@ -20,6 +20,10 @@ created: 2026-04-18
 defendant_names:
   - "Deniss Zolotarjovs"
 updated: 2026-04-18
+duplicate_of: "[[2024-08-21_justice-gov_member-of-russian-cybercrime-group-charged-in-ohio]]"
+duplicate_reason: same_collection_url
+duplicate_key: "https://www.justice.gov/usao-sdoh/pr/member-russian-cybercrime-group-charged-ohio"
+duplicate_normalized_at: 2026-04-26
 ---
 ## Source Summary
 

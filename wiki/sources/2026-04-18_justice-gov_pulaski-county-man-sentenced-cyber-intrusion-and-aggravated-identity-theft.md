@@ -20,6 +20,10 @@ created: 2026-04-18
 defendant_names:
   - "Jesse Kipf"
 updated: 2026-04-18
+duplicate_of: "[[2024-08-20_justice-gov_pulaski-county-man-sentenced-for-cyber-intrusion-and-aggravated-identity-theft]]"
+duplicate_reason: same_collection_url
+duplicate_key: "https://www.justice.gov/usao-edky/pr/pulaski-county-man-sentenced-cyber-intrusion-and-aggravated-identity-theft"
+duplicate_normalized_at: 2026-04-26
 ---
 ## Source Summary
 

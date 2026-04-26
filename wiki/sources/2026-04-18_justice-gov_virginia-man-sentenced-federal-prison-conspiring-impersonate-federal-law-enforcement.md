@@ -21,6 +21,10 @@ defendant_names:
   - "Haider Ali"
   - "Arian Taherzadeh"
 updated: 2026-04-18
+duplicate_of: "[[2023-08-09_justice-gov_virginia-man-sentenced-to-federal-prison-for-conspiring-to-impersonate-federal-l]]"
+duplicate_reason: same_collection_url
+duplicate_key: "https://www.justice.gov/usao-dc/pr/virginia-man-sentenced-federal-prison-conspiring-impersonate-federal-law-enforcement"
+duplicate_normalized_at: 2026-04-26
 ---
 ## Source Summary
 

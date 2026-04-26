@@ -18,6 +18,10 @@ key_findings:
   - "The post confirms that disruption involved approximately 2,300 malicious domains."
 collection_url: "https://www.microsoft.com/en-us/security/blog/2025/05/21/lumma-stealer-breaking-down-the-delivery-techniques-and-capabilities-of-a-prolific-infostealer/"
 created: 2026-04-19
+duplicate_of: "[[2025-05-21_microsoft-com_lumma-stealer-breaking-down-the-delivery-techniques-and-capabilities-of-a-prolif]]"
+duplicate_reason: same_collection_url
+duplicate_key: "https://www.microsoft.com/en-us/security/blog/2025/05/21/lumma-stealer-breaking-down-the-delivery-techniques-and-capabilities-of-a-prolific-infostealer/"
+duplicate_normalized_at: 2026-04-26
 ---
 
 ## Summary

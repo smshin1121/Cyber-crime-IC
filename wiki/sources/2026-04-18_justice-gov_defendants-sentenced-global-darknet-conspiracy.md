@@ -20,6 +20,10 @@ created: 2026-04-18
 defendant_names:
   - "Simon Kaura"
 updated: 2026-04-18
+duplicate_of: "[[2024-09-20_justice-gov_defendants-sentenced-for-global-darknet-conspiracy]]"
+duplicate_reason: same_collection_url
+duplicate_key: "https://www.justice.gov/usao-wdmo/pr/defendants-sentenced-global-darknet-conspiracy"
+duplicate_normalized_at: 2026-04-26
 ---
 ## Source Summary
 

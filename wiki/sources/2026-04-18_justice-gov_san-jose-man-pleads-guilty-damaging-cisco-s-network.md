@@ -20,6 +20,10 @@ created: 2026-04-18
 defendant_names:
   - "Sudhish Kasaba Ramesh"
 updated: 2026-04-18
+duplicate_of: "[[2020-08-26_justice-gov_san-jose-man-pleads-guilty-to-damaging-cisco-s-network]]"
+duplicate_reason: same_collection_url
+duplicate_key: "https://www.justice.gov/usao-ndca/pr/san-jose-man-pleads-guilty-damaging-cisco-s-network"
+duplicate_normalized_at: 2026-04-26
 ---
 ## Source Summary
 

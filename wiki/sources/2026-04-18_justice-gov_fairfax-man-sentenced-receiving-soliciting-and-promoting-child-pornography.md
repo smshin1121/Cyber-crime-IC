@@ -20,6 +20,10 @@ created: 2026-04-18
 defendant_names:
   - "Jorge Antonio Escobar"
 updated: 2026-04-18
+duplicate_of: "[[2021-08-04_justice-gov_fairfax-man-sentenced-for-receiving-soliciting-and-promoting-child-pornography]]"
+duplicate_reason: same_collection_url
+duplicate_key: "https://www.justice.gov/usao-edva/pr/fairfax-man-sentenced-receiving-soliciting-and-promoting-child-pornography"
+duplicate_normalized_at: 2026-04-26
 ---
 ## Source Summary
 

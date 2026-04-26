@@ -21,6 +21,10 @@ updated: 2026-04-18
 defendant_names:
   - "With Tampering With Morphine"
   - "Illinois Nurse"
+duplicate_of: "[[2023-12-21_justice-gov_illinois-nurse-charged-with-tampering-with-morphine-prescribed-to-patient]]"
+duplicate_reason: same_collection_url
+duplicate_key: "https://www.justice.gov/usao-ndil/pr/illinois-nurse-charged-tampering-morphine-prescribed-patient"
+duplicate_normalized_at: 2026-04-26
 ---
 ## Source Summary
 

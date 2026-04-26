@@ -21,6 +21,10 @@ defendant_names:
   - "Shawn Ellis"
   - "When Ellis"
 updated: 2026-04-18
+duplicate_of: "[[2025-02-20_justice-gov_drug-distributor-caught-with-massive-amounts-of-fentanyl-and-meth-as-well-as-fir]]"
+duplicate_reason: same_collection_url
+duplicate_key: "https://www.justice.gov/usao-wdwa/pr/drug-distributor-caught-massive-amounts-fentanyl-and-meth-well-firearms-body-armor-and"
+duplicate_normalized_at: 2026-04-26
 ---
 ## Source Summary
 

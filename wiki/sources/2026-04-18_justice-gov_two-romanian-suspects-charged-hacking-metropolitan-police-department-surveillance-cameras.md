@@ -20,6 +20,10 @@ created: 2026-04-18
 defendant_names:
   - "Oleksandr Didenko"
 updated: 2026-04-18
+duplicate_of: "[[2017-12-28_justice-gov_two-romanian-suspects-charged-with-hacking-of-metropolitan-police-department-sur]]"
+duplicate_reason: same_collection_url
+duplicate_key: "https://www.justice.gov/usao-dc/pr/two-romanian-suspects-charged-hacking-metropolitan-police-department-surveillance-cameras"
+duplicate_normalized_at: 2026-04-26
 ---
 ## Source Summary
 

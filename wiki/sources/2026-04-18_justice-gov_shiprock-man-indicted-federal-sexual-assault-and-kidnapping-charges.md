@@ -20,6 +20,10 @@ created: 2026-04-18
 defendant_names:
   - "Keanu Lee"
 updated: 2026-04-18
+duplicate_of: "[[2025-09-09_justice-gov_shiprock-man-indicted-on-federal-sexual-assault-and-kidnapping-charges]]"
+duplicate_reason: same_collection_url
+duplicate_key: "https://www.justice.gov/usao-nm/pr/shiprock-man-indicted-federal-sexual-assault-and-kidnapping-charges"
+duplicate_normalized_at: 2026-04-26
 ---
 ## Source Summary
 

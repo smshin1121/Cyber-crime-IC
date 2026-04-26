@@ -20,6 +20,10 @@ created: 2026-04-18
 defendant_names:
   - "Ian Hoffmann"
 updated: 2026-04-18
+duplicate_of: "[[2023-06-06_justice-gov_dark-web-traffickers-heroin-methamphetamine-cocaine-prosecuted]]"
+duplicate_reason: same_collection_url
+duplicate_key: "https://www.justice.gov/usao-edca/pr/dark-web-traffickers-heroin-methamphetamine-and-cocaine-prosecuted"
+duplicate_normalized_at: 2026-04-26
 ---
 ## Source Summary
 

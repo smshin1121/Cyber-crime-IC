@@ -20,6 +20,10 @@ key_findings:
   - "It helps explain the operational sequence around the ALPHV infrastructure outage in early December 2023."
 created: 2026-04-18
 updated: 2026-04-18
+duplicate_of: "[[2023-12-19_bleepingcomputer-com_fbi-disrupts-blackcat-ransomware-operation-creates-decryption-tool]]"
+duplicate_reason: same_collection_url
+duplicate_key: "https://www.bleepingcomputer.com/news/security/fbi-disrupts-blackcat-ransomware-operation-creates-decryption-tool/"
+duplicate_normalized_at: 2026-04-26
 ---
 ## Source Summary
 

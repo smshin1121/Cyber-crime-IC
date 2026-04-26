@@ -20,6 +20,10 @@ created: 2026-04-18
 updated: 2026-04-18
 defendant_names:
   - "Across Four Continents"
+duplicate_of: "[[2025-05-22_justice-gov_law-enforcement-seize-record-amounts-of-illegal-drugs-firearms-and-drug-traffick]]"
+duplicate_reason: same_collection_url
+duplicate_key: "https://www.justice.gov/opa/pr/law-enforcement-seize-record-amounts-illegal-drugs-firearms-and-drug-trafficking-proceeds"
+duplicate_normalized_at: 2026-04-26
 ---
 ## Source Summary
 

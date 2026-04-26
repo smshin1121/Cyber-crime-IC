@@ -20,6 +20,10 @@ created: 2026-04-17
 defendant_names:
   - "For Alleged Roles In"
 updated: 2026-04-18
+duplicate_of: "[[2018-02-07_justice-gov_thirty-six-defendants-indicted-for-alleged-roles-in-transnational-criminal-organ]]"
+duplicate_reason: same_collection_url
+duplicate_key: "https://www.justice.gov/usao-nv/pr/thirty-six-defendants-indicted-alleged-roles-transnational-criminal-organization"
+duplicate_normalized_at: 2026-04-26
 ---
 ## Source Summary
 

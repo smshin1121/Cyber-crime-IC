@@ -21,6 +21,10 @@ updated: 2026-04-18
 defendant_names:
   - "With Selling Counterfeit Drugs"
   - "Sturgis Man"
+duplicate_of: "[[2024-05-29_justice-gov_sturgis-man-charged-with-selling-counterfeit-drugs-on-dark-web]]"
+duplicate_reason: same_collection_url
+duplicate_key: "https://www.justice.gov/usao-wdmi/pr/2024_0529_Miller_E_Indictment"
+duplicate_normalized_at: 2026-04-26
 ---
 ## Source Summary
 

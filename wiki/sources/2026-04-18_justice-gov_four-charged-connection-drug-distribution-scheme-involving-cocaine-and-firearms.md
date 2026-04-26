@@ -23,6 +23,10 @@ defendant_names:
   - "Lorena Esquivel"
   - "Dustin Ray Binion"
 updated: 2026-04-18
+duplicate_of: "[[2026-01-13_justice-gov_four-charged-in-connection-with-drug-distribution-scheme-involving-cocaine-and-f]]"
+duplicate_reason: same_collection_url
+duplicate_key: "https://www.justice.gov/usao-wdwa/pr/four-charged-connection-drug-distribution-scheme-involving-cocaine-and-firearms"
+duplicate_normalized_at: 2026-04-26
 ---
 ## Source Summary
 

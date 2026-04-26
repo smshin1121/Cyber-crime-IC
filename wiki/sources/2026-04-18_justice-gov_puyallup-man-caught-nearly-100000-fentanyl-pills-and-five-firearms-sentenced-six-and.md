@@ -18,6 +18,10 @@ key_findings:
 collection_url: https://www.justice.gov/usao-wdwa/pr/puyallup-man-caught-nearly-100000-fentanyl-pills-and-five-firearms-sentenced-six-and
 created: 2026-04-18
 updated: 2026-04-18
+duplicate_of: "[[2024-07-22_justice-gov_puyallup-man-caught-with-nearly-100-000-fentanyl-pills-and-five-firearms-sentenc]]"
+duplicate_reason: same_collection_url
+duplicate_key: "https://www.justice.gov/usao-wdwa/pr/puyallup-man-caught-nearly-100000-fentanyl-pills-and-five-firearms-sentenced-six-and"
+duplicate_normalized_at: 2026-04-26
 ---
 ## Source Summary
 

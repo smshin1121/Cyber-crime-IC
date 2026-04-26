@@ -25,6 +25,10 @@ key_findings:
   - "Medvedev's eventual 2020 guilty plea and 10-year sentence, plus Valerian Chiochiu's 10-year sentence for FastPOS malware authoring, validate VOA's 2018 reporting as *probably-true* going forward"
 created: 2026-04-08
 updated: 2026-04-10
+duplicate_of: "[[2018-02-07_voanews-com_4246130]]"
+duplicate_reason: same_collection_url
+duplicate_key: "https://www.voanews.com/a/thais-arrest-alleged-russian-cybercrime-market-operator/4246130.html"
+duplicate_normalized_at: 2026-04-26
 ---
 
 > [!info] URL access

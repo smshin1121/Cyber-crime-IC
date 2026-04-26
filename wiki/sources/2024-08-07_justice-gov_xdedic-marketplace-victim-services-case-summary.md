@@ -18,6 +18,10 @@ key_findings:
   - "United States v. McNeely et al. is an xDedic-derived buyer case group in the Middle District of Florida. It demonstrates that the marketplace investigation did not stop with high-profile foreign defendants and also produced prison terms for downstream U.S.-based participants."
 collection_url: https://www.justice.gov/usao-mdfl/victim-witness-services/xDedic
 created: 2026-04-22
+duplicate_of: "[[2024-08-07_justice-gov_united-states-v-t-andre-mcneely-et-al]]"
+duplicate_reason: same_collection_url
+duplicate_key: "https://www.justice.gov/usao-mdfl/victim-witness-services/xDedic"
+duplicate_normalized_at: 2026-04-26
 ---
 ## Source Summary
 

@@ -21,6 +21,10 @@ key_findings:
   - "The sanctions action shows the operation included financial-disruption measures as well as criminal process."
 created: 2026-04-18
 updated: 2026-04-18
+duplicate_of: "[[2024-05-28_home-treasury-gov_treasury-sanctions-a-cybercrime-network-associated-with-the-911-s5-botnet]]"
+duplicate_reason: same_collection_url
+duplicate_key: "https://home.treasury.gov/news/press-releases/jy2375"
+duplicate_normalized_at: 2026-04-26
 ---
 ## Source Summary
 

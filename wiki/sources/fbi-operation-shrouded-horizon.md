@@ -24,6 +24,10 @@ key_findings:
   - "The operation is frequently cited as a benchmark for multi-country cybercrime forum takedowns and provided a template later used in Alphabay, Hansa, RaidForums and BreachForums operations"
 created: 2026-04-08
 updated: 2026-04-10
+duplicate_of: "[[2015-07-15_fbi-gov_cyber-criminal-forum-taken-down]]"
+duplicate_reason: same_collection_url
+duplicate_key: "https://www.fbi.gov/news/stories/cyber-criminal-forum-taken-down"
+duplicate_normalized_at: 2026-04-26
 ---
 
 > [!note] Original URL fetch blocked

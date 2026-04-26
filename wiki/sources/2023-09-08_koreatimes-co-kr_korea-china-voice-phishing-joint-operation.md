@@ -17,6 +17,10 @@ key_findings:
   - "Source referenced by ic-statistics-dashboard."
 collection_url: https://www.koreatimes.co.kr/www/nation/2024/07/113_358692.html
 created: 2026-04-17
+duplicate_of: "[[2023-09-08-korea-china-voice-phishing-qingdao]]"
+duplicate_reason: same_collection_url
+duplicate_key: "https://www.koreatimes.co.kr/www/nation/2024/07/113_358692.html"
+duplicate_normalized_at: 2026-04-26
 ---
 ## Source Summary
 

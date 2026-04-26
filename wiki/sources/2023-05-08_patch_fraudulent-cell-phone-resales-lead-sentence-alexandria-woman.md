@@ -16,6 +16,10 @@ key_findings:
   - "Independent local press confirmation."
 collection_url: https://patch.com/virginia/oldtownalexandria/fraudulent-cell-phone-resales-lead-sentence-alexandria-woman
 created: 2026-04-25
+duplicate_of: "[[2023-05-04_patch_fraudulent-cell-phone-resales-alexandria-woman]]"
+duplicate_reason: same_collection_url
+duplicate_key: "https://patch.com/virginia/oldtownalexandria/fraudulent-cell-phone-resales-lead-sentence-alexandria-woman"
+duplicate_normalized_at: 2026-04-26
 ---
 ## Source Summary
 

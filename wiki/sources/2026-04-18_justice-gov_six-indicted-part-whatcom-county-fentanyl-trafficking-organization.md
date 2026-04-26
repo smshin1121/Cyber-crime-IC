@@ -18,6 +18,10 @@ key_findings:
 collection_url: https://www.justice.gov/usao-wdwa/pr/six-indicted-part-whatcom-county-fentanyl-trafficking-organization
 created: 2026-04-18
 updated: 2026-04-18
+duplicate_of: "[[2023-04-20_justice-gov_six-indicted-as-part-of-whatcom-county-fentanyl-trafficking-organization]]"
+duplicate_reason: same_collection_url
+duplicate_key: "https://www.justice.gov/usao-wdwa/pr/six-indicted-part-whatcom-county-fentanyl-trafficking-organization"
+duplicate_normalized_at: 2026-04-26
 ---
 ## Source Summary
 

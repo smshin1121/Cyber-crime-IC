@@ -17,6 +17,10 @@ key_findings:
   - "Europol: French coder who helped extort British company arrested in Thailand Enforcement Action is a defendant-specific enforcement action page derived from [[europol-french-coder-who-helped-extort-british-company-arrested-in-thailand]]. It captures the prosecutorial or seizure stage reflected in the linked case record and preserves the operation-side catalog entry for this follow-on action."
 collection_url: https://www.europol.europa.eu/media-press/newsroom/news/french-coder-who-helped-extort-british-company-arrested-in-thailand
 created: 2026-04-17
+duplicate_of: "[[2018-05-18_europol-europa-eu_french-coder-who-helped-extort-british-company-arrested-in-thailand]]"
+duplicate_reason: same_collection_url
+duplicate_key: "https://www.europol.europa.eu/media-press/newsroom/news/french-coder-who-helped-extort-british-company-arrested-in-thailand"
+duplicate_normalized_at: 2026-04-26
 ---
 ## Source Summary
 

@@ -20,6 +20,10 @@ created: 2026-04-18
 defendant_names:
   - "Scott Allison"
 updated: 2026-04-18
+duplicate_of: "[[2024-05-01_justice-gov_kentucky-man-sentenced-to-15-years-in-prison-for-advertising-child-pornography]]"
+duplicate_reason: same_collection_url
+duplicate_key: "https://www.justice.gov/usao-ma/pr/kentucky-man-sentenced-15-years-prison-advertising-child-pornography"
+duplicate_normalized_at: 2026-04-26
 ---
 ## Source Summary
 

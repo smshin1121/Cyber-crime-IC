@@ -20,6 +20,10 @@ created: 2026-04-18
 updated: 2026-04-18
 defendant_names:
   - "For Hacking"
+duplicate_of: "[[2016-10-21_justice-gov_yevgeniy-nikulin-indicted-for-hacking-linkedin-dropbox-and-formspring]]"
+duplicate_reason: same_collection_url
+duplicate_key: "https://www.justice.gov/usao-ndca/pr/yevgeniy-nikulin-indicted-hacking-linkedin-dropbox-and-formspring"
+duplicate_normalized_at: 2026-04-26
 ---
 ## Source Summary
 

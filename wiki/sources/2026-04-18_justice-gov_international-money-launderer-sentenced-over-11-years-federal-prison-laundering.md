@@ -20,6 +20,10 @@ created: 2026-04-18
 defendant_names:
   - "Ghaleb Alaumary"
 updated: 2026-04-18
+duplicate_of: "[[2021-09-08_justice-gov_international-money-launderer-sentenced-to-over-11-years-in-federal-prison-for-l]]"
+duplicate_reason: same_collection_url
+duplicate_key: "https://www.justice.gov/usao-cdca/pr/international-money-launderer-sentenced-over-11-years-federal-prison-laundering"
+duplicate_normalized_at: 2026-04-26
 ---
 ## Source Summary
 

@@ -20,6 +20,10 @@ created: 2026-04-18
 defendant_names:
   - "Yevgeniy Alexandrovich Nikulin"
 updated: 2026-04-18
+duplicate_of: "[[2020-09-30_justice-gov_russian-hacker-sentenced-to-over-7-years-in-prison-for-hacking-into-three-bay-ar]]"
+duplicate_reason: same_collection_url
+duplicate_key: "https://www.justice.gov/usao-ndca/pr/russian-hacker-sentenced-over-7-years-prison-hacking-three-bay-area-tech-companies"
+duplicate_normalized_at: 2026-04-26
 ---
 ## Source Summary
 

@@ -17,6 +17,10 @@ key_findings:
   - "Confirms the Puget Sound region heroin/fentanyl/meth distribution."
 collection_url: https://www.fox13seattle.com/news/wa-drug-ring-right-hand-man-sentenced
 created: 2026-04-25
+duplicate_of: "[[2024-10-25_fox13seattle_wa-drug-ring-right-hand-man-sentenced]]"
+duplicate_reason: same_collection_url
+duplicate_key: "https://www.fox13seattle.com/news/wa-drug-ring-right-hand-man-sentenced"
+duplicate_normalized_at: 2026-04-26
 ---
 ## Source Summary
 

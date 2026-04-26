@@ -20,6 +20,10 @@ created: 2026-04-18
 updated: 2026-04-18
 defendant_names:
   - "Lawrence County Man"
+duplicate_of: "[[2025-03-25_justice-gov_st-lawrence-county-man-pleads-guilty-to-receiving-and-possessing-child-pornograp]]"
+duplicate_reason: same_collection_url
+duplicate_key: "https://www.justice.gov/usao-ndny/pr/st-lawrence-county-man-pleads-guilty-receiving-and-possessing-child-pornography"
+duplicate_normalized_at: 2026-04-26
 ---
 ## Source Summary
 

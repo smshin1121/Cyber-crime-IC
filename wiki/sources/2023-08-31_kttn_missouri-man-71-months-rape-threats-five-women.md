@@ -16,6 +16,10 @@ key_findings:
   - "Sentencing follow-up: 71 months federal prison for Merkle - one year over the plea recommendation."
 collection_url: https://www.kttn.com/missouri-man-sentenced-to-71-months-in-prison-for-making-rape-threats-to-five-women/
 created: 2026-04-25
+duplicate_of: "[[2023-08-04_kttn_missouri-man-sentenced-71-months-rape-threats-five-women]]"
+duplicate_reason: same_collection_url
+duplicate_key: "https://www.kttn.com/missouri-man-sentenced-to-71-months-in-prison-for-making-rape-threats-to-five-women/"
+duplicate_normalized_at: 2026-04-26
 ---
 ## Source Summary
 

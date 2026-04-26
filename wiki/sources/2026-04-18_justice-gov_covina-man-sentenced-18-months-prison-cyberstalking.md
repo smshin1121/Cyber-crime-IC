@@ -20,6 +20,10 @@ created: 2026-04-18
 defendant_names:
   - "Carl De Vera Bennington"
 updated: 2026-04-18
+duplicate_of: "[[2021-04-14_justice-gov_covina-man-sentenced-to-18-months-in-prison-for-cyberstalking]]"
+duplicate_reason: same_collection_url
+duplicate_key: "https://www.justice.gov/usao-cdca/pr/covina-man-sentenced-18-months-prison-cyberstalking"
+duplicate_normalized_at: 2026-04-26
 ---
 ## Source Summary
 

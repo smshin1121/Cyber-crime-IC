@@ -21,6 +21,10 @@ defendant_names:
   - "Devlin Hosner"
   - "Holly Adams"
 updated: 2026-04-18
+duplicate_of: "[[2025-12-09_justice-gov_southern-california-man-pleads-guilty-to-fentanyl-and-methamphetamine-distributi]]"
+duplicate_reason: same_collection_url
+duplicate_key: "https://www.justice.gov/usao-edca/pr/southern-california-man-pleads-guilty-fentanyl-and-methamphetamine-distribution"
+duplicate_normalized_at: 2026-04-26
 ---
 ## Source Summary
 

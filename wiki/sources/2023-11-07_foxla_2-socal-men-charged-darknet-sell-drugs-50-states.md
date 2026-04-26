@@ -17,6 +17,10 @@ key_findings:
   - "Names darknet vendor account 'redlightslabs'; 3 deaths attributed to co-conspirator."
 collection_url: https://www.foxla.com/news/2-socal-men-charged-with-using-darknet-to-sell-drugs-in-all-50-states
 created: 2026-04-25
+duplicate_of: "[[2023-11-07_foxla_2-socal-men-charged-darknet-drugs-50-states]]"
+duplicate_reason: same_collection_url
+duplicate_key: "https://www.foxla.com/news/2-socal-men-charged-with-using-darknet-to-sell-drugs-in-all-50-states"
+duplicate_normalized_at: 2026-04-26
 ---
 ## Source Summary
 

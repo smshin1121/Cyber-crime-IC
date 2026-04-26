@@ -20,6 +20,10 @@ created: 2026-04-18
 updated: 2026-04-18
 defendant_names:
   - "Online Extortion"
+duplicate_of: "[[2016-11-02_justice-gov_creator-of-software-to-facilitate-privacy-invasion-and-online-extortion-sentence]]"
+duplicate_reason: same_collection_url
+duplicate_key: "https://www.justice.gov/usao-co/pr/creator-software-facilitate-privacy-invasion-and-online-extortion-sentenced-federal"
+duplicate_normalized_at: 2026-04-26
 ---
 ## Source Summary
 

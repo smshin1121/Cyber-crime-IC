@@ -20,6 +20,10 @@ created: 2026-04-18
 defendant_names:
   - "Andy Peter Vongdala"
 updated: 2026-04-18
+duplicate_of: "[[2024-06-05_justice-gov_auburn-washington-man-charged-federally-for-drug-distribution-and-illegal-firear]]"
+duplicate_reason: same_collection_url
+duplicate_key: "https://www.justice.gov/usao-wdwa/pr/auburn-washington-man-charged-federally-drug-distribution-and-illegal-firearms"
+duplicate_normalized_at: 2026-04-26
 ---
 ## Source Summary
 

@@ -17,6 +17,10 @@ key_findings:
   - "DEA + FBI Seattle joint Aryan Family investigation"
 collection_url: https://www.dea.gov/press-releases/2025/01/31/two-members-multi-state-drug-trafficking-rings-linked-aryan-prison-gangs
 created: 2026-04-25
+duplicate_of: "[[2025-01-31_dea-gov_two-members-multi-state-drug-trafficking-aryan-prison-gangs-sentenced-lengthy-prison-terms]]"
+duplicate_reason: same_collection_url
+duplicate_key: "https://www.dea.gov/press-releases/2025/01/31/two-members-multi-state-drug-trafficking-rings-linked-aryan-prison-gangs"
+duplicate_normalized_at: 2026-04-26
 ---
 ## Source Summary
 

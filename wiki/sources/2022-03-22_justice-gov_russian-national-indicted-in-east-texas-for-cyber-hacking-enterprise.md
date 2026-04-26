@@ -18,6 +18,10 @@ key_findings:
   - "United States v. Igor Dekhtyarchuk is the March 2022 Eastern District of Texas indictment targeting the alleged administrator of \"Marketplace A,\" a cybercriminal marketplace that sold stolen login credentials, personally identifiable information, and authentication tools. The case is *likely* one of the clearer U.S. examples of a cross-border prosecution focused on a single marketplace operator rather than a sprawling conspiracy."
 collection_url: https://www.justice.gov/usao-edtx/pr/russian-national-indicted-east-texas-cyber-hacking-enterprise
 created: 2026-04-22
+duplicate_of: "[[2022-03-16_justice-gov_russian-national-indicted-in-east-texas-for-cyber-hacking-enterprise]]"
+duplicate_reason: same_collection_url
+duplicate_key: "https://www.justice.gov/usao-edtx/pr/russian-national-indicted-east-texas-cyber-hacking-enterprise"
+duplicate_normalized_at: 2026-04-26
 ---
 ## Source Summary
 

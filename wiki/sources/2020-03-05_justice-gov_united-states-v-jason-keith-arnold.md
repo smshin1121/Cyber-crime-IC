@@ -21,6 +21,10 @@ defendant_names:
   - "Jason Keith Arnold"
   - "David White"
 updated: 2026-04-18
+duplicate_of: "[[2020-03-05_edca_jason-arnold-darknet-plea]]"
+duplicate_reason: same_collection_url
+duplicate_key: "https://www.justice.gov/usao-edca/pr/tattoo-shop-owner-pleads-guilty-distributing-heroin-and-methamphetamine-darknet"
+duplicate_normalized_at: 2026-04-26
 ---
 ## Source Summary
 

@@ -20,6 +20,10 @@ created: 2026-04-18
 defendant_names:
   - "Colin Andrew Shapard"
 updated: 2026-04-18
+duplicate_of: "[[2024-04-04_justice-gov_23-year-old-sentenced-to-20-years-in-prison-for-distributing-fentanyl-that-nearl]]"
+duplicate_reason: same_collection_url
+duplicate_key: "https://www.justice.gov/usao-ut/pr/23-year-old-sentenced-20-years-prison-distributing-fentanyl-nearly-killed-park-city"
+duplicate_normalized_at: 2026-04-26
 ---
 ## Source Summary
 

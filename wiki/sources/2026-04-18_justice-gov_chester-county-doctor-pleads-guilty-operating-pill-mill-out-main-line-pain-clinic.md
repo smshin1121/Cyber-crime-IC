@@ -20,6 +20,10 @@ created: 2026-04-18
 defendant_names:
   - "Yutong Zhang"
 updated: 2026-04-18
+duplicate_of: "[[2022-02-03_justice-gov_chester-county-doctor-pleads-guilty-to-operating-pill-mill-out-of-main-line-pain]]"
+duplicate_reason: same_collection_url
+duplicate_key: "https://www.justice.gov/usao-edpa/pr/chester-county-doctor-pleads-guilty-operating-pill-mill-out-main-line-pain-clinic"
+duplicate_normalized_at: 2026-04-26
 ---
 ## Source Summary
 

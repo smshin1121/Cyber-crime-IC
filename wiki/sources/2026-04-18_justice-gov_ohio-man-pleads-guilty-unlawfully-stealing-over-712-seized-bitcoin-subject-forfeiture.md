@@ -20,6 +20,10 @@ created: 2026-04-18
 defendant_names:
   - "Gary James Harmon"
 updated: 2026-04-18
+duplicate_of: "[[2023-01-06_justice-gov_ohio-man-pleads-guilty-for-unlawfully-stealing-over-712-seized-bitcoin-subject-t]]"
+duplicate_reason: same_collection_url
+duplicate_key: "https://www.justice.gov/usao-dc/pr/ohio-man-pleads-guilty-unlawfully-stealing-over-712-seized-bitcoin-subject-forfeiture"
+duplicate_normalized_at: 2026-04-26
 ---
 ## Source Summary
 

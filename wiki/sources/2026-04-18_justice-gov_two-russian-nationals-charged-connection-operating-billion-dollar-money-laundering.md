@@ -20,6 +20,10 @@ created: 2026-04-18
 defendant_names:
   - "Conor Brian Fitzpatrick"
 updated: 2026-04-18
+duplicate_of: "[[2024-09-26_usao-edva_two-russian-nationals-charged-connection-operating-billion-dollar-money-laundering]]"
+duplicate_reason: same_collection_url
+duplicate_key: "https://www.justice.gov/usao-edva/pr/two-russian-nationals-charged-connection-operating-billion-dollar-money-laundering"
+duplicate_normalized_at: 2026-04-26
 ---
 ## Source Summary
 

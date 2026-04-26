@@ -21,6 +21,10 @@ updated: 2026-04-18
 defendant_names:
   - "To Federal Prison For"
   - "Ocala Man"
+duplicate_of: "[[2024-12-11_justice-gov_ocala-man-sentenced-to-federal-prison-for-attempting-to-meet-a-13-year-old-to-en]]"
+duplicate_reason: same_collection_url
+duplicate_key: "https://www.justice.gov/usao-mdfl/pr/ocala-man-sentenced-federal-prison-attempting-meet-13-year-old-engage-sexual-activity"
+duplicate_normalized_at: 2026-04-26
 ---
 ## Source Summary
 

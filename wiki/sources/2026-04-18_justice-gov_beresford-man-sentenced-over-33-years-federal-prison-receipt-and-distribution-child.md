@@ -20,6 +20,10 @@ created: 2026-04-18
 updated: 2026-04-18
 defendant_names:
   - "Beresford Man"
+duplicate_of: "[[2025-03-11_justice-gov_beresford-man-sentenced-to-over-33-years-in-federal-prison-for-receipt-and-distr]]"
+duplicate_reason: same_collection_url
+duplicate_key: "https://www.justice.gov/usao-sd/pr/beresford-man-sentenced-over-33-years-federal-prison-receipt-and-distribution-child"
+duplicate_normalized_at: 2026-04-26
 ---
 ## Source Summary
 

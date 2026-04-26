@@ -21,6 +21,10 @@ defendant_names:
   - "April Henderson"
   - "Donnell Timley"
 updated: 2026-04-18
+duplicate_of: "[[2025-09-10_justice-gov_independence-pair-indicted-for-drug-and-firearms-offenses]]"
+duplicate_reason: same_collection_url
+duplicate_key: "https://www.justice.gov/usao-wdmo/pr/independence-pair-indicted-drug-and-firearms-offenses"
+duplicate_normalized_at: 2026-04-26
 ---
 ## Source Summary
 

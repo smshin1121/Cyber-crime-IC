@@ -17,6 +17,10 @@ key_findings:
   - "Co-defendant Taherzadeh; USSP LLC fake company."
 collection_url: https://www.fox5dc.com/news/virginia-man-who-impersonated-federal-agent-sentenced-to-nearly-six-years-in-prison
 created: 2026-04-25
+duplicate_of: "[[2023-08-09_fox5dc_virginia-man-impersonated-federal-agent-sentenced-six-years]]"
+duplicate_reason: same_collection_url
+duplicate_key: "https://www.fox5dc.com/news/virginia-man-who-impersonated-federal-agent-sentenced-to-nearly-six-years-in-prison"
+duplicate_normalized_at: 2026-04-26
 ---
 ## Source Summary
 

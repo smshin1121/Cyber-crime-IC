@@ -20,6 +20,10 @@ key_findings:
   - "The BKA describes itself as contributing to internal security in Germany and Europe through national and international cooperation, investigations, research and development, administration and personal protection."
   - "The page is a primary institutional source for the BKA's broad remit beyond a single operation."
 created: 2026-04-18
+duplicate_of: "[[2026-04-18_bka-de_bka-our-tasks]]"
+duplicate_reason: same_collection_url
+duplicate_key: "https://www.bka.de/EN/OurTasks/ourtasks_node.html"
+duplicate_normalized_at: 2026-04-26
 ---
 ## Source Summary
 

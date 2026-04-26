@@ -18,6 +18,10 @@ key_findings:
 collection_url: https://www.justice.gov/usao-wdwa/pr/man-caught-three-times-dealer-quantities-fentanyl-indicted-federally
 created: 2026-04-18
 updated: 2026-04-18
+duplicate_of: "[[2025-04-10_justice-gov_man-caught-three-times-with-dealer-quantities-of-fentanyl-indicted-federally]]"
+duplicate_reason: same_collection_url
+duplicate_key: "https://www.justice.gov/usao-wdwa/pr/man-caught-three-times-dealer-quantities-fentanyl-indicted-federally"
+duplicate_normalized_at: 2026-04-26
 ---
 ## Source Summary
 

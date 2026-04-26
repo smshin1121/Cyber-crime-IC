@@ -24,6 +24,10 @@ key_findings:
   - "The press release is notable for bundling a mitigation-metric-focused operation (Goldfish Alpha: 78% router cleanup) with an arrest-focused operation (Night Fury: 3 suspects) under a single regional cybercrime narrative — a distinct INTERPOL reporting pattern that differs from Europol or FBI announcement styles"
 created: 2026-04-08
 updated: 2026-04-10
+duplicate_of: "[[2020-01-01_interpol-int_interpol-report-highlights-key-cyberthreats-in-southeast-asia]]"
+duplicate_reason: same_collection_url
+duplicate_key: "https://www.interpol.int/News-and-Events/News/2020/INTERPOL-report-highlights-key-cyberthreats-in-Southeast-Asia"
+duplicate_normalized_at: 2026-04-26
 ---
 
 ## Source

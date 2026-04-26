@@ -24,6 +24,10 @@ key_findings:
   - "Historical significance: This was one of the first publicly announced arrests of Magecart operators anywhere in the world — the broader Magecart umbrella (estimated 20+ distinct groups) had been tracked by security researchers since 2015 without successful takedowns until this Indonesia action"
 created: 2026-04-08
 updated: 2026-04-10
+duplicate_of: "[[2020-01-27_group-ib_night-fury]]"
+duplicate_reason: same_collection_url
+duplicate_key: "https://www.group-ib.com/media-center/press-releases/night-fury/"
+duplicate_normalized_at: 2026-04-26
 ---
 
 ## Source

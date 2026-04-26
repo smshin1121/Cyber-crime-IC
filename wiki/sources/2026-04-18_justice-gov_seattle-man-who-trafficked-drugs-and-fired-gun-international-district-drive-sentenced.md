@@ -18,6 +18,10 @@ key_findings:
 collection_url: https://www.justice.gov/usao-wdwa/pr/seattle-man-who-trafficked-drugs-and-fired-gun-international-district-drive-sentenced
 created: 2026-04-18
 updated: 2026-04-18
+duplicate_of: "[[2025-03-10_justice-gov_seattle-man-who-trafficked-drugs-and-fired-gun-in-international-district-drive-b]]"
+duplicate_reason: same_collection_url
+duplicate_key: "https://www.justice.gov/usao-wdwa/pr/seattle-man-who-trafficked-drugs-and-fired-gun-international-district-drive-sentenced"
+duplicate_normalized_at: 2026-04-26
 ---
 ## Source Summary
 

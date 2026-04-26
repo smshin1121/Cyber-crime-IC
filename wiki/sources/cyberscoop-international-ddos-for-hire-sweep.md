@@ -25,6 +25,10 @@ key_findings:
   - "CyberScoop's coverage does not assign an operation name (unlike Operation Power OFF later in the lineage), consistent with the FBI/Europol framing of this as an 'international cyber sweep' rather than a named operation"
 created: 2026-04-08
 updated: 2026-04-10
+duplicate_of: "[[2016-12-09_cyberscoop-com_ddos-europol-arrest-december-2016]]"
+duplicate_reason: same_collection_url
+duplicate_key: "https://cyberscoop.com/ddos-europol-arrest-december-2016/"
+duplicate_normalized_at: 2026-04-26
 ---
 
 ## Source

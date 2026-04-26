@@ -21,6 +21,10 @@ key_findings:
   - "Treasury stated that Nemesis had over 30,000 active users and 1,000 vendors and facilitated nearly USD 30 million in drug sales between 2021 and 2024."
   - "Treasury said U.S., German and Lithuanian authorities seized Nemesis servers on 20 March 2024 and that Parsarad had discussed re-establishing a replacement marketplace."
 created: 2026-04-18
+duplicate_of: "[[2025-03-04_home-treasury-gov_treasury-sanctions-head-of-online-darknet-marketplace-tied-to-fentanyl-sales]]"
+duplicate_reason: same_collection_url
+duplicate_key: "https://home.treasury.gov/news/press-releases/sb0040"
+duplicate_normalized_at: 2026-04-26
 ---
 ## Source Summary
 

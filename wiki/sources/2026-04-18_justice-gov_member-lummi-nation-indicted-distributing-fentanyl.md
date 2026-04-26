@@ -18,6 +18,10 @@ key_findings:
 collection_url: https://www.justice.gov/usao-wdwa/pr/member-lummi-nation-indicted-distributing-fentanyl
 created: 2026-04-18
 updated: 2026-04-18
+duplicate_of: "[[2026-02-12_justice-gov_member-of-lummi-nation-indicted-for-distributing-fentanyl]]"
+duplicate_reason: same_collection_url
+duplicate_key: "https://www.justice.gov/usao-wdwa/pr/member-lummi-nation-indicted-distributing-fentanyl"
+duplicate_normalized_at: 2026-04-26
 ---
 ## Source Summary
 

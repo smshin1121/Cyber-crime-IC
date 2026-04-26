@@ -20,6 +20,10 @@ created: 2026-04-18
 defendant_names:
   - "Kaleb Levicky"
 updated: 2026-04-18
+duplicate_of: "[[2022-08-05_justice-gov_carmichaels-man-sentenced-3-years-cyberstalking]]"
+duplicate_reason: same_collection_url
+duplicate_key: "https://www.justice.gov/usao-wdpa/pr/carmichaels-man-sentenced-3-years-cyberstalking"
+duplicate_normalized_at: 2026-04-26
 ---
 ## Source Summary
 

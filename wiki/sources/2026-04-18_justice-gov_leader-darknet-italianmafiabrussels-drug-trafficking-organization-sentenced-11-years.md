@@ -20,6 +20,10 @@ created: 2026-04-18
 defendant_names:
   - "Filip Lucian Simion"
 updated: 2026-04-18
+duplicate_of: "[[2018-10-01_justice-gov_leader-of-darknet-italianmafiabrussels-drug-trafficking-organization-sentenced-t]]"
+duplicate_reason: same_collection_url
+duplicate_key: "https://www.justice.gov/usao-co/pr/leader-darknet-italianmafiabrussels-drug-trafficking-organization-sentenced-11-years"
+duplicate_normalized_at: 2026-04-26
 ---
 ## Source Summary
 

@@ -20,6 +20,10 @@ created: 2026-04-18
 defendant_names:
   - "Samuel Aaron Leonard"
 updated: 2026-04-18
+duplicate_of: "[[2024-04-15_justice-gov_florida-man-sentenced-to-20-years-in-prison-for-producing-images-of-child-sexual]]"
+duplicate_reason: same_collection_url
+duplicate_key: "https://www.justice.gov/usao-wdwa/pr/florida-man-sentenced-20-years-prison-producing-images-child-sexual-abuse-and"
+duplicate_normalized_at: 2026-04-26
 ---
 ## Source Summary
 

@@ -24,6 +24,10 @@ defendant_names:
   - "Fedir Hladyr"
   - "Andrii Kolpakov"
 updated: 2026-04-18
+duplicate_of: "[[2018-08-01_justice-gov_three-members-of-notorious-international-cybercrime-group-fin7-in-custody-for-ro]]"
+duplicate_reason: same_collection_url
+duplicate_key: "https://www.justice.gov/usao-wdwa/pr/three-members-notorious-international-cybercrime-group-fin7-custody-role-attacking-over"
+duplicate_normalized_at: 2026-04-26
 ---
 ## Source Summary
 

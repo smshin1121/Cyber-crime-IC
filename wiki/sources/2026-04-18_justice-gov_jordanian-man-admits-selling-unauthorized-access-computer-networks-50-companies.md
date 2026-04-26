@@ -20,6 +20,10 @@ created: 2026-04-18
 defendant_names:
   - "Firas Bashiti"
 updated: 2026-04-18
+duplicate_of: "[[2026-01-15_justice-gov_jordanian-man-admits-selling-unauthorized-access-to-computer-networks-of-50-comp]]"
+duplicate_reason: same_collection_url
+duplicate_key: "https://www.justice.gov/usao-nj/pr/jordanian-man-admits-selling-unauthorized-access-computer-networks-50-companies"
+duplicate_normalized_at: 2026-04-26
 ---
 ## Source Summary
 

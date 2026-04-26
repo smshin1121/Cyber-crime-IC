@@ -20,6 +20,10 @@ created: 2026-04-18
 defendant_names:
   - "Khaled Miah"
 updated: 2026-04-18
+duplicate_of: "[[2022-10-19_justice-gov_former-pitt-student-sentenced-to-6-years-in-prison-for-threatening-communication]]"
+duplicate_reason: same_collection_url
+duplicate_key: "https://www.justice.gov/usao-wdpa/pr/former-pitt-student-sentenced-6-years-prison-threatening-communications-and-impeding"
+duplicate_normalized_at: 2026-04-26
 ---
 ## Source Summary
 

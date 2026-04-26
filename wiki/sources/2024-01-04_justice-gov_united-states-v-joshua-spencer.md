@@ -21,6 +21,10 @@ updated: 2026-04-18
 defendant_names:
   - "In Transnational Cybercrime Investigation"
   - "Individuals Worldwide"
+duplicate_of: "[[2024-01-04_justice-gov_19-individuals-worldwide-charged-in-transnational-cybercrime-investigation-of-th]]"
+duplicate_reason: same_collection_url
+duplicate_key: "https://www.justice.gov/usao-mdfl/pr/19-individuals-worldwide-charged-transnational-cybercrime-investigation-xdedic"
+duplicate_normalized_at: 2026-04-26
 ---
 ## Source Summary
 

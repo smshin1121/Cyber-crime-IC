@@ -20,6 +20,10 @@ created: 2026-04-18
 defendant_names:
   - "Ramon Olorunwa Abbas"
 updated: 2026-04-18
+duplicate_of: "[[2020-07-03_justice-gov_nigerian-national-brought-to-u-s-to-face-charges-of-conspiring-to-launder-hundre]]"
+duplicate_reason: same_collection_url
+duplicate_key: "https://www.justice.gov/usao-cdca/pr/nigerian-national-brought-us-face-charges-conspiring-launder-hundreds-millions-dollars"
+duplicate_normalized_at: 2026-04-26
 ---
 ## Source Summary
 

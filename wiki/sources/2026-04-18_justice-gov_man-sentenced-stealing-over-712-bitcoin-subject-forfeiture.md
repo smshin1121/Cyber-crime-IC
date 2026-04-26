@@ -21,6 +21,10 @@ defendant_names:
   - "Gary James Harmon"
   - "Larry Harmon"
 updated: 2026-04-18
+duplicate_of: "[[2023-05-05_justice-gov_man-sentenced-for-stealing-over-712-bitcoin-subject-to-forfeiture]]"
+duplicate_reason: same_collection_url
+duplicate_key: "https://www.justice.gov/usao-ndoh/pr/man-sentenced-stealing-over-712-bitcoin-subject-forfeiture"
+duplicate_normalized_at: 2026-04-26
 ---
 ## Source Summary
 

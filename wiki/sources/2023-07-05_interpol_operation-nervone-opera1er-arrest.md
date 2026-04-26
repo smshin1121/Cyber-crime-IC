@@ -21,6 +21,10 @@ key_findings:
   - "INTERPOL, AFRIPOL, Group-IB, Orange, and Ivorian authorities contributed to the action."
 created: 2026-04-18
 updated: 2026-04-18
+duplicate_of: "[[2023-07-05_interpol-int_suspected-key-figure-of-notorious-cybercrime-group-arrested-in-joint-operation]]"
+duplicate_reason: same_collection_url
+duplicate_key: "https://www.interpol.int/en/News-and-Events/News/2023/Suspected-key-figure-of-notorious-cybercrime-group-arrested-in-joint-operation"
+duplicate_normalized_at: 2026-04-26
 ---
 ## Source Summary
 

@@ -18,6 +18,10 @@ key_findings:
 collection_url: https://www.justice.gov/usao-ndoh/pr/iranian-national-indicted-operating-online-marketplace-offering-fentanyl-other-drugs
 created: 2026-04-18
 updated: 2026-04-18
+duplicate_of: "[[2025-04-17_justice-gov_iranian-national-indicted-for-operating-online-marketplace-offering-fentanyl-oth]]"
+duplicate_reason: same_collection_url
+duplicate_key: "https://www.justice.gov/usao-ndoh/pr/iranian-national-indicted-operating-online-marketplace-offering-fentanyl-other-drugs"
+duplicate_normalized_at: 2026-04-26
 ---
 ## Source Summary
 

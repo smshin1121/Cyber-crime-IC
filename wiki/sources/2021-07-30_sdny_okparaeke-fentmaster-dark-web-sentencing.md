@@ -18,6 +18,10 @@ key_findings:
 collection_url: https://www.justice.gov/usao-sdny/pr/dark-web-narcotics-dealer-fentmaster-responsible-overdose-death-sentenced-15-years
 created: 2026-04-17
 updated: 2026-04-18
+duplicate_of: "[[2021-07-30_justice-gov_dark-web-narcotics-dealer-fentmaster-responsible-for-overdose-death-sentenced-to]]"
+duplicate_reason: same_collection_url
+duplicate_key: "https://www.justice.gov/usao-sdny/pr/dark-web-narcotics-dealer-fentmaster-responsible-overdose-death-sentenced-15-years"
+duplicate_normalized_at: 2026-04-26
 ---
 ## Source Summary
 

@@ -20,6 +20,10 @@ created: 2026-04-18
 defendant_names:
   - "Arbi Setaghaian Sangbarani"
 updated: 2026-04-18
+duplicate_of: "[[2024-05-14_justice-gov_glendale-man-sentenced-to-10-years-in-federal-prison-for-participating-in-darkne]]"
+duplicate_reason: same_collection_url
+duplicate_key: "https://www.justice.gov/usao-cdca/pr/glendale-man-sentenced-10-years-federal-prison-participating-darknet-drug-trafficking"
+duplicate_normalized_at: 2026-04-26
 ---
 ## Source Summary
 

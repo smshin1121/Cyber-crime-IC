@@ -20,6 +20,10 @@ created: 2026-04-18
 defendant_names:
   - "Rostislav Panev"
 updated: 2026-04-18
+duplicate_of: "[[2024-12-20_justice-gov_u-s-charges-dual-russian-and-israeli-national-as-developer-of-lockbit-ransomware]]"
+duplicate_reason: same_collection_url
+duplicate_key: "https://www.justice.gov/usao-nj/pr/us-charges-dual-russian-and-israeli-national-developer-lockbit-ransomware-group"
+duplicate_normalized_at: 2026-04-26
 ---
 ## Source Summary
 

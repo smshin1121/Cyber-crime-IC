@@ -21,6 +21,10 @@ defendant_names:
   - "Trevor Stephen Haahr"
   - "Kaeli Arielle Albert"
 updated: 2026-04-18
+duplicate_of: "[[2025-09-26_justice-gov_two-east-pierce-county-residents-who-distributed-fentanyl-pills-via-the-dark-web]]"
+duplicate_reason: same_collection_url
+duplicate_key: "https://www.justice.gov/usao-wdwa/pr/two-east-pierce-county-residents-who-distributed-fentanyl-pills-dark-web-plead-guilty"
+duplicate_normalized_at: 2026-04-26
 ---
 ## Source Summary
 

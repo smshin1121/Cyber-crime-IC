@@ -25,6 +25,10 @@ key_findings:
   - "Operation Wire Wire established the precedent of *coordinated US-Nigeria BEC enforcement* that was later continued by Operation reWired (2019), Operation Falcon (2020), and Operation Falcon II (2021)"
 created: 2026-04-08
 updated: 2026-04-10
+duplicate_of: "[[2018-06-11_fbi-gov_international-bec-takedown]]"
+duplicate_reason: same_collection_url
+duplicate_key: "https://www.fbi.gov/news/stories/international-bec-takedown-061118"
+duplicate_normalized_at: 2026-04-26
 ---
 
 > [!info] URL access

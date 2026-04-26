@@ -21,6 +21,10 @@ defendant_names:
   - "In Transnational Wire Fraud"
   - "Four Men Federally"
 updated: 2026-04-18
+duplicate_of: "[[2021-09-15_justice-gov_four-men-federally-charged-in-transnational-wire-fraud-and-identity-theft-conspi]]"
+duplicate_reason: same_collection_url
+duplicate_key: "https://www.justice.gov/usao-mdfl/pr/four-men-federally-charged-transnational-wire-fraud-and-identity-theft-conspiracy"
+duplicate_normalized_at: 2026-04-26
 ---
 ## Source Summary
 

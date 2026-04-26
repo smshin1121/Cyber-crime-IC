@@ -18,6 +18,10 @@ key_findings:
 collection_url: https://www.justice.gov/usao-mdfl/pr/ukrainian-cyber-criminal-extradited-decrypting-credentials-thousands-computers-across
 created: 2026-04-17
 updated: 2026-04-18
+duplicate_of: "[[2021-09-08_justice-gov_ukrainian-cyber-criminal-extradited-for-decrypting-the-credentials-of-thousands]]"
+duplicate_reason: same_collection_url
+duplicate_key: "https://www.justice.gov/usao-mdfl/pr/ukrainian-cyber-criminal-extradited-decrypting-credentials-thousands-computers-across"
+duplicate_normalized_at: 2026-04-26
 ---
 ## Source Summary
 

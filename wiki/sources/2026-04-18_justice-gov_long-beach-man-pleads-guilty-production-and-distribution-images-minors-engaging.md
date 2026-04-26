@@ -18,6 +18,10 @@ key_findings:
 collection_url: https://www.justice.gov/usao-sdms/pr/long-beach-man-pleads-guilty-production-and-distribution-images-minors-engaging
 created: 2026-04-18
 updated: 2026-04-18
+duplicate_of: "[[2025-04-18_justice-gov_long-beach-man-pleads-guilty-to-production-and-distribution-of-images-of-minors]]"
+duplicate_reason: same_collection_url
+duplicate_key: "https://www.justice.gov/usao-sdms/pr/long-beach-man-pleads-guilty-production-and-distribution-images-minors-engaging"
+duplicate_normalized_at: 2026-04-26
 ---
 ## Source Summary
 

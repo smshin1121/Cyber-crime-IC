@@ -20,6 +20,10 @@ created: 2026-04-18
 updated: 2026-04-18
 defendant_names:
   - "Easton Man"
+duplicate_of: "[[2024-11-15_justice-gov_easton-man-sentenced-to-30-years-in-prison-for-producing-child-pornography]]"
+duplicate_reason: same_collection_url
+duplicate_key: "https://www.justice.gov/usao-edpa/pr/easton-man-sentenced-30-years-prison-producing-child-pornography"
+duplicate_normalized_at: 2026-04-26
 ---
 ## Source Summary
 

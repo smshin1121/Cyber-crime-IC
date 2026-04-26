@@ -20,6 +20,10 @@ created: 2026-04-18
 defendant_names:
   - "Ephraim Rosenberg"
 updated: 2026-04-18
+duplicate_of: "[[2023-07-14_justice-gov_brooklyn-ny-consultant-for-amazon-sellers-sentenced-to-home-detention-and-fine-f]]"
+duplicate_reason: same_collection_url
+duplicate_key: "https://www.justice.gov/usao-wdwa/pr/brooklyn-ny-consultant-amazon-sellers-sentenced-home-detention-and-fine-role-bribery"
+duplicate_normalized_at: 2026-04-26
 ---
 ## Source Summary
 

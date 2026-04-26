@@ -20,6 +20,10 @@ created: 2026-04-18
 defendant_names:
   - "John Jacobs Ahrens"
 updated: 2026-04-18
+duplicate_of: "[[2022-08-16_justice-gov_tulsa-man-sentenced-to-30-months-in-prison-for-sending-emails-threatening-to-kil]]"
+duplicate_reason: same_collection_url
+duplicate_key: "https://www.justice.gov/usao-ndok/pr/tulsa-man-sentenced-30-months-prison-sending-emails-threatening-kill-president-biden"
+duplicate_normalized_at: 2026-04-26
 ---
 ## Source Summary
 

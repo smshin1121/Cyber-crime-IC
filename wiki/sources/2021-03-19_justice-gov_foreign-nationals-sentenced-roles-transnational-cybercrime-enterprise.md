@@ -18,6 +18,10 @@ key_findings:
   - "Restated total loss figure: $568 million; venue District of Nevada; IRS-CI/HSI/FBI lead the multi-agency investigation."
 collection_url: https://www.justice.gov/archives/opa/pr/foreign-nationals-sentenced-roles-transnational-cybercrime-enterprise
 created: 2026-04-25
+duplicate_of: "[[2026-04-17_justice-gov_foreign-nationals-sentenced-for-roles-in-transnational-cybercrime-enterprise]]"
+duplicate_reason: same_collection_url
+duplicate_key: "https://www.justice.gov/archives/opa/pr/foreign-nationals-sentenced-roles-transnational-cybercrime-enterprise"
+duplicate_normalized_at: 2026-04-26
 ---
 ## Source Summary
 

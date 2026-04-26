@@ -20,6 +20,10 @@ created: 2026-04-18
 updated: 2026-04-18
 defendant_names:
   - "United Kingdom National"
+duplicate_of: "[[2023-11-28_justice-gov_united-kingdom-national-pleads-guilty-to-hacking-securities-fraud-and-other-cybe]]"
+duplicate_reason: same_collection_url
+duplicate_key: "https://www.justice.gov/usao-edny/pr/united-kingdom-national-pleads-guilty-hacking-securities-fraud-and-other-cybercrimes"
+duplicate_normalized_at: 2026-04-26
 ---
 ## Source Summary
 

@@ -20,6 +20,10 @@ created: 2026-04-18
 defendant_names:
   - "Krystal Cherika Scott"
 updated: 2026-04-18
+duplicate_of: "[[2020-07-15_justice-gov_kokomo-resident-arrested-on-federal-animal-cruelty-charges]]"
+duplicate_reason: same_collection_url
+duplicate_key: "https://www.justice.gov/usao-sdin/pr/kokomo-resident-arrested-federal-animal-cruelty-charges"
+duplicate_normalized_at: 2026-04-26
 ---
 ## Source Summary
 

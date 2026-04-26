@@ -20,6 +20,10 @@ created: 2026-04-18
 defendant_names:
   - "Two Virginia Men"
 updated: 2026-04-18
+duplicate_of: "[[2025-12-03_justice-gov_two-virginia-men-arrested-for-conspiring-to-destroy-government-databases]]"
+duplicate_reason: same_collection_url
+duplicate_key: "https://www.justice.gov/opa/pr/two-virginia-men-arrested-conspiring-destroy-government-databases"
+duplicate_normalized_at: 2026-04-26
 ---
 ## Source Summary
 

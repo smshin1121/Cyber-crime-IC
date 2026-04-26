@@ -20,6 +20,10 @@ key_findings:
   - "The story corroborates the FBI and DOJ description of FIN7's targeting of hospitality, restaurant, and gaming victims."
 created: 2026-04-18
 updated: 2026-04-18
+duplicate_of: "[[2018-08-01_cbsnews-com_feds-arrest-3-alleged-fin7-hackers-accused-of-stealing-credit-card-data]]"
+duplicate_reason: same_collection_url
+duplicate_key: "https://www.cbsnews.com/news/fin7-international-cybercriminals-arrested-hacking-malware-phishing-indictments-today-2018-08-01/"
+duplicate_normalized_at: 2026-04-26
 ---
 ## Source Summary
 

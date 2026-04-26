@@ -21,6 +21,10 @@ created: 2026-04-17
 updated: 2026-04-18
 defendant_names:
   - "Fedir Hladyr"
+duplicate_of: "[[2021-04-16_justice-gov_high-level-organizer-of-notorious-hacking-group-fin7-sentenced-to-ten-years-in-p]]"
+duplicate_reason: same_collection_url
+duplicate_key: "https://www.justice.gov/usao-wdwa/pr/high-level-organizer-notorious-hacking-group-fin7-sentenced-ten-years-prison-scheme"
+duplicate_normalized_at: 2026-04-26
 ---
 ## Source Summary
 

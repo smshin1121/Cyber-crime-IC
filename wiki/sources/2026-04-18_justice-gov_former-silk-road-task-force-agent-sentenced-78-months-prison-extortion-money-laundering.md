@@ -20,6 +20,10 @@ created: 2026-04-18
 defendant_names:
   - "Road Task Force Agent"
 updated: 2026-04-18
+duplicate_of: "[[2015-10-20_justice-gov_former-silk-road-task-force-agent-sentenced-to-78-months-in-prison-for-extortion]]"
+duplicate_reason: same_collection_url
+duplicate_key: "https://www.justice.gov/usao-ndca/pr/former-silk-road-task-force-agent-sentenced-78-months-prison-extortion-money-laundering"
+duplicate_normalized_at: 2026-04-26
 ---
 ## Source Summary
 

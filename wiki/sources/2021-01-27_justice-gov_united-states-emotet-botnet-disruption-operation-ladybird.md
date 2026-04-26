@@ -18,6 +18,10 @@ key_findings:
 collection_url: https://www.justice.gov/archives/opa/pr/emotet-botnet-disrupted-international-cyber-operation
 created: 2026-04-17
 updated: 2026-04-18
+duplicate_of: "[[2021-01-27_mdnc_emotet-disruption-order]]"
+duplicate_reason: same_collection_url
+duplicate_key: "https://www.justice.gov/archives/opa/pr/emotet-botnet-disrupted-international-cyber-operation"
+duplicate_normalized_at: 2026-04-26
 ---
 ## Source Summary
 

@@ -20,6 +20,10 @@ created: 2026-04-18
 defendant_names:
   - "Marquise Tolbert"
 updated: 2026-04-18
+duplicate_of: "[[2025-03-14_justice-gov_tacoma-man-with-lengthy-criminal-history-pleads-guilty-to-gun-and-drug-charges]]"
+duplicate_reason: same_collection_url
+duplicate_key: "https://www.justice.gov/usao-wdwa/pr/tacoma-man-lengthy-criminal-history-pleads-guilty-gun-and-drug-charges"
+duplicate_normalized_at: 2026-04-26
 ---
 ## Source Summary
 

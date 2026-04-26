@@ -17,6 +17,10 @@ key_findings:
   - "Service used reflective amplification of misconfigured DNS servers and sold lists of vulnerable devices to other criminals."
 collection_url: https://krebsonsecurity.com/2022/06/downthem-ddos-for-hire-boss-gets-2-years-in-prison/
 created: 2026-04-25
+duplicate_of: "[[2022-06-13_krebsonsecurity_downthem-ddos-for-hire-boss-2-years-prison]]"
+duplicate_reason: same_collection_url
+duplicate_key: "https://krebsonsecurity.com/2022/06/downthem-ddos-for-hire-boss-gets-2-years-in-prison/"
+duplicate_normalized_at: 2026-04-26
 ---
 ## Source Summary
 

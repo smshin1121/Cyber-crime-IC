@@ -18,6 +18,10 @@ key_findings:
 collection_url: https://www.justice.gov/usao-wdwa/pr/pernicious-cyberstalker-sentenced-9-years-prison-unrelenting-harassment-former
 created: 2026-04-18
 updated: 2026-04-18
+duplicate_of: "[[2024-07-10_justice-gov_pernicious-cyberstalker-sentenced-to-9-years-in-prison-for-unrelenting-harassmen]]"
+duplicate_reason: same_collection_url
+duplicate_key: "https://www.justice.gov/usao-wdwa/pr/pernicious-cyberstalker-sentenced-9-years-prison-unrelenting-harassment-former"
+duplicate_normalized_at: 2026-04-26
 ---
 ## Source Summary
 
