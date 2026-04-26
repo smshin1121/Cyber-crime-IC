@@ -59,16 +59,12 @@ challenges_encountered:
 
 lessons_learned:
 
-source_count: 5
+source_count: 1
 sources:
-  - "[[2026-04-18_justice-gov_beverly-hills-man-sentenced-5-years-federal-prison-attempting-hire-hitman-kill-woman-he]]"
   - "[[2022-09-13_abc7la_beverly-hills-california-murder-for-hire-scott-quinn-berkett]]"
-  - "[[2022-09-15_beverlypress_beverly-hills-man-receives-five-year-sentence-murder-for-hire]]"
-  - "[[2022-09_courthousenews_spurned-beverly-hills-man-gets-5-years-failed-murder-plot]]"
-  - "[[2022-06-15_iheart_beverly-hills-man-pleads-guilty-paying-darknet-hitman-kill-woman]]"
 summary: "This domestic-only U.S. follow-on record has been absorbed into the canonical case page [[us-v-scott-quinn-berkett]]. No visible cross-border mechanism is documented, so it is not treated as a separate international-cooperation operation."
 created: 2026-04-18
-updated: 2026-04-25
+updated: 2026-04-26
 ---
 ## Summary
 
@@ -82,8 +78,4 @@ This domestic-only U.S. follow-on record has been absorbed into the canonical ca
 
 | # | Title | Publisher | Date | URL |
 |---|---|---|---|---|
-| [1] | Beverly Hills Man Sentenced to 5 Years in Federal Prison for Attempting to Hire Hitman to Kill Woman He Briefly Dated | US DOJ USAO | 2022-09-12 | https://www.justice.gov/usao-cdca/pr/beverly-hills-man-sentenced-5-years-federal-prison-attempting-hire-hitman-kill-woman-he |
-| [2] | Beverly Hills murder for hire: Scott Quinn Berkett sentenced to 5 years in prison for paying hitman $13,000 to kill woman | ABC7 Los Angeles (KABC-TV) | 2022-09-13 | https://abc7.com/post/beverly-hills-california-murder-for-hire-scott-quinn-berkett/12226756/ |
-| [3] | Beverly Hills man receives five-year sentence in murder-for-hire plot | Beverly Press | 2022-09-15 | https://beverlypress.com/2022/09/beverly-hills-man-receives-five-year-sentence-in-murder-for-hire-plot/ |
-| [4] | Spurned Beverly Hills man gets 5 years in failed murder plot | Courthouse News Service | 2022-09-13 | https://www.courthousenews.com/spurned-beverly-hills-man-gets-5-years-failed-murder-plot/ |
-| [5] | Beverly Hills Man Pleads Guilty to Paying Darknet Hitman to Kill Woman | iHeart | 2022-06-15 | https://www.iheart.com/content/2022-06-15-beverly-hills-man-pleads-guilty-to-paying-darknet-hitman-to-kill-woman/ |
+| [1] | Beverly Hills murder for hire: Scott Quinn Berkett sentenced to 5 years in prison for paying hitman $13,000 to kill woman | ABC7 Los Angeles (KABC-TV) | 2022-09-13 | https://abc7.com/post/beverly-hills-california-murder-for-hire-scott-quinn-berkett/12226756/ |

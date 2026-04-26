@@ -51,15 +51,11 @@ challenges_encountered:
 
 lessons_learned:
 
-source_count: 5
+source_count: 1
 sources:
-  - "[[2022-03-07_wdwa_nicholas-partlow-darknet-plea]]"
   - "[[2022-03-07_dea_darknet-drug-trafficker-pleads-guilty-conspiracy-firearm-charges]]"
-  - "[[2022-03-07_uspsoig_issaquah-wa-man-sentenced-7-years-darknet-drug-dealing]]"
-  - "[[2022-03-07_fox13seattle_drug-trafficker-admits-400-online-sales-fentanyl-darknet]]"
-  - "[[2022-03-07_patch_accused-eastside-drug-trafficker-pleads-guilty-federal-charges]]"
 created: 2026-04-17
-updated: 2026-04-25
+updated: 2026-04-26
 operation_role: follow-on
 parent_operation: ""
 summary: "This domestic-only U.S. follow-on record has been absorbed into the canonical case page [[us-v-nicholas-partlow-dark-web]]. No visible cross-border mechanism is documented, so it is not treated as a separate international-cooperation operation."
@@ -82,8 +78,4 @@ This domestic-only U.S. follow-on record has been absorbed into the canonical ca
 
 | # | Title | Publisher | Date | URL |
 |---|---|---|---|---|
-| [1] | Darknet drug trafficker pleads guilty to conspiracy and firearm charges | US DOJ (Western District of Washington) | 2022-03-07 | https://www.justice.gov/usao-wdwa/pr/darknet-drug-trafficker-pleads-guilty-conspiracy-and-firearm-charges |
-| [2] | Darknet Drug Trafficker Pleads Guilty to Conspiracy and Firearm Charges | U.S. Drug Enforcement Administration | 2022-03-07 | https://www.dea.gov/press-releases/2022/03/07/darknet-drug-trafficker-pleads-guilty-conspiracy-and-firearm-charges |
-| [3] | Issaquah, WA, Man Sentenced to 7 Years in Prison for Dealing Drugs on the Darknet | USPS Office of Inspector General | 2022-09-07 | https://www.uspsoig.gov/reports/investigative-news-releases/issaquah-wa-man-sentenced-7-years-prison-dealing-drugs-on |
-| [4] | Drug trafficker admits to more than 400 online sales of fentanyl, meth, other drugs on darknet | FOX 13 Seattle | 2022-03-07 | https://www.fox13seattle.com/news/drug-trafficker-admits-to-more-than-400-online-sales-of-fentanyl |
-| [5] | Accused Eastside Drug Trafficker Pleads Guilty To Federal Charges | Patch (Sammamish, WA) | 2022-03-07 | https://patch.com/washington/sammamish/accused-eastside-drug-trafficker-pleads-guilty-federal-charges |
+| [1] | Darknet Drug Trafficker Pleads Guilty to Conspiracy and Firearm Charges | U.S. Drug Enforcement Administration | 2022-03-07 | https://www.dea.gov/press-releases/2022/03/07/darknet-drug-trafficker-pleads-guilty-conspiracy-and-firearm-charges |

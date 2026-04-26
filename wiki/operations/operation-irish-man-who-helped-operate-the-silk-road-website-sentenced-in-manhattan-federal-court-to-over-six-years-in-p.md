@@ -59,16 +59,12 @@ challenges_encountered:
 
 lessons_learned:
 
-source_count: 5
+source_count: 1
 sources:
   - "[[2019-07-25_justice-gov_united-states-v-gary-davis]]"
-  - "[[2014-02-04_justice-gov_manhattan-u-s-attorney-announces-the-indictment-of-ross-ulbricht]]"
-  - "[[2015-02-04_fbi-gov_ross-ulbricht-found-guilty-on-all-counts]]"
-  - "[[2015-05-29_fbi-gov_ross-ulbricht-sentenced-to-life-in-prison]]"
-  - "[[2015-05-29_ice-gov_ross-ulbricht-sentenced-to-life-in-federal-prison]]"
 summary: "This domestic-only U.S. follow-on record has been absorbed into the canonical case page [[irish-man-who-helped-operate-the-silk-road-website-sentenced-in-manhattan-federal-court-to-over-six-years-in-p]]. No visible cross-border mechanism is documented, so it is not treated as a separate international-cooperation operation."
 created: 2026-04-18
-updated: 2026-04-25
+updated: 2026-04-26
 ---
 ## Summary
 
@@ -83,7 +79,3 @@ This domestic-only U.S. follow-on record has been absorbed into the canonical ca
 | # | Title | Publisher | Date | URL |
 |---|---|---|---|---|
 | [1] | Irish Man Who Helped Operate The “Silk Road” Website Sentenced In Manhattan Federal Court To Over Six Years In Prison | US DOJ (Southern District of New York) | 2019-07-25 | https://www.justice.gov/usao-sdny/pr/irish-man-who-helped-operate-silk-road-website-sentenced-manhattan-federal-court-over |
-| [2] | Manhattan U.S. Attorney Announces The Indictment Of Ross Ulbricht, The Creator And Owner Of The “Silk Road” Website | DOJ SDNY | 2014-02-04 | https://www.justice.gov/usao-sdny/pr/manhattan-us-attorney-announces-indictment-ross-ulbricht-creator-and-owner-silk-road |
-| [3] | Ross Ulbricht Found Guilty on All Counts | FBI New York | 2015-02-04 | https://www.fbi.gov/contact-us/field-offices/newyork/news/press-releases/ross-ulbricht-the-creator-and-owner-of-the-silk-road-website-found-guilty-in-manhattan-federal-court-on-all-counts |
-| [4] | Ross Ulbricht Sentenced to Life in Prison | FBI New York | 2015-05-29 | https://www.fbi.gov/contact-us/field-offices/newyork/news/press-releases/ross-ulbricht-aka-dread-pirate-roberts-sentenced-in-manhattan-federal-court-to-life-in-prison |
-| [5] | Ross Ulbricht Sentenced to Life in Federal Prison | US ICE | 2015-05-29 | https://www.ice.gov/news/releases/ross-ulbricht-aka-dread-pirate-roberts-sentenced-life-federal-prison-creating |

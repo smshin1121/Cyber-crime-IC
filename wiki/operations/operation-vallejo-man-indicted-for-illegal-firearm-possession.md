@@ -59,16 +59,12 @@ challenges_encountered:
 
 lessons_learned:
 
-source_count: 5
+source_count: 1
 sources:
-  - "[[2026-04-18_justice-gov_vallejo-man-indicted-illegal-firearm-possession]]"
-  - "[[2026-02-13_dailyrepublic_vallejo-man-indicted-illegal-firearm-possession]]"
-  - "[[2026-02-13_actionnewsnow_vallejo-man-indicted-federal-grand-jury-illegal-possession-firearm]]"
   - "[[2026-02-13_crimevoice_grand-jury-indicts-vallejo-man-illegal-possession-firearm]]"
-  - "[[2026-02-05_pressdemocrat_vallejo-man-caught-selling-stolen-gun-jail-furlough-murder]]"
 summary: "This domestic-only U.S. follow-on record has been absorbed into the canonical case page [[vallejo-man-indicted-for-illegal-firearm-possession]]. No visible cross-border mechanism is documented, so it is not treated as a separate international-cooperation operation."
 created: 2026-04-18
-updated: 2026-04-25
+updated: 2026-04-26
 ---
 ## Summary
 
@@ -82,8 +78,4 @@ This domestic-only U.S. follow-on record has been absorbed into the canonical ca
 
 | # | Title | Publisher | Date | URL |
 |---|---|---|---|---|
-| [1] | Vallejo Man Indicted for Illegal Firearm Possession | US DOJ USAO | 2026-02-12 | https://www.justice.gov/usao-edca/pr/vallejo-man-indicted-illegal-firearm-possession |
-| [2] | Vallejo man indicted for illegal firearm possession | Daily Republic (Fairfield CA) | 2026-02-13 | https://www.dailyrepublic.com/news/benicia-vallejo/vallejo-man-indicted-for-illegal-firearm-possession/article_def1bfa6-d84d-4cef-8b6c-096a4ceb3350.html |
-| [3] | Vallejo man indicted by federal grand jury for illegal possession of a firearm | Action News Now (KHSL/KNVN) | 2026-02-13 | https://www.actionnewsnow.com/news/vallejo-man-indicted-by-federal-grand-jury-for-illegal-possession-of-a-firearm/article_a7fa687c-4b43-4474-8ecc-ab86438331b7.html |
-| [4] | Grand Jury Reportedly Indicts Vallejo Man for Alleged Illegal Possession of Firearm | CrimeVoice | 2026-02-13 | https://www.crimevoice.com/2026/02/13/grand-jury-reportedly-indicts-vallejo-man-for-alleged-illegal-possession-of-firearm/ |
-| [5] | Vallejo man caught selling stolen gun while on jail furlough for murder, feds say | The Press Democrat (Santa Rosa CA) | 2026-02-05 | https://www.pressdemocrat.com/2026/02/05/vallejo-man-caught-selling-stolen-gun-while-on-jail-furlough-for-murder-feds-say/ |
+| [1] | Grand Jury Reportedly Indicts Vallejo Man for Alleged Illegal Possession of Firearm | CrimeVoice | 2026-02-13 | https://www.crimevoice.com/2026/02/13/grand-jury-reportedly-indicts-vallejo-man-for-alleged-illegal-possession-of-firearm/ |

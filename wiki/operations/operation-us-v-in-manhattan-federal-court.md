@@ -59,16 +59,12 @@ challenges_encountered:
 
 lessons_learned:
 
-source_count: 5
+source_count: 1
 sources:
   - "[[2019-07-19_justice-gov_irish-man-who-helped-operate-silk-road-sentenced]]"
-  - "[[2019-07-26_thejournalie_irish-man-sentenced-six-years-us-prison-silk-road-narcotics-conspiracy]]"
-  - "[[2019-07-25_thehackernews_silk-road-admin-sentenced-78-months-prison-drug-trafficking]]"
-  - "[[2019-07-26_thenextweb_silk-road-site-admin-extradited-78-month-prison-sentence]]"
-  - "[[2019-07-25_irishcentral_gary-davis-sentenced-dark-web-silk-road-involvement]]"
 summary: "This domestic-only U.S. follow-on record has been absorbed into the canonical case page [[us-v-in-manhattan-federal-court]]. No visible cross-border mechanism is documented, so it is not treated as a separate international-cooperation operation."
 created: 2026-04-18
-updated: 2026-04-25
+updated: 2026-04-26
 ---
 ## Summary
 
@@ -83,7 +79,3 @@ This domestic-only U.S. follow-on record has been absorbed into the canonical ca
 | # | Title | Publisher | Date | URL |
 |---|---|---|---|---|
 | [1] | Irish Man Who Helped Operate The “Silk Road” Website Sentenced In Manhattan Federal Court To Over Six Years In Prison | DOJ SDNY | 2019-07-19 | https://www.justice.gov/usao-sdny/pr/irish-man-who-helped-operate-silk-road-website-sentenced-manhattan-federal-court-over |
-| [2] | Irish man sentenced to six years in US prison over Silk Road narcotics conspiracy | TheJournal.ie | 2019-07-26 | https://www.thejournal.ie/irish-man-sentenced-to-six-years-in-prison-over-silk-road-narcotics-conspiracy-4741755-Jul2019/ |
-| [3] | Silk Road Admin Sentenced to 78 Months in Prison On Drug Trafficking Charges | The Hacker News | 2019-07-25 | https://thehackernews.com/2019/07/silk-road-dark-web-admin.html |
-| [4] | Silk Road site admin extradited to US hit with 78-month prison sentence | The Next Web | 2019-07-26 | https://thenextweb.com/hardfork/2019/07/26/silk-road-site-admin-extradited-us-hit-78-prison/ |
-| [5] | Gary Davis sentenced for Dark Web's Silk Road involvement | IrishCentral | 2019-07-25 | https://www.irishcentral.com/news/gary-davis-dark-web |

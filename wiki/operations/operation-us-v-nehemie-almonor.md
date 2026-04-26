@@ -59,16 +59,12 @@ challenges_encountered:
 
 lessons_learned:
 
-source_count: 5
+source_count: 1
 sources:
-  - "[[2026-04-18_justice-gov_newport-news-man-sentenced-prolific-card-swiping-operation]]"
-  - "[[2024-03-08_wavy_newport-news-man-sentenced-prolific-card-swiping-operation]]"
-  - "[[2024-03-08_13newsnow_newport-news-man-sentenced-9-plus-years-identity-theft]]"
-  - "[[2024-03-08_yahoo_newport-news-man-sentenced-prolific-card-swiping]]"
   - "[[2024-01-10_pacermonitor_usa-v-dorsey-edva-1-24-cr-00007]]"
 summary: "This domestic-only U.S. follow-on record has been absorbed into the canonical case page [[us-v-nehemie-almonor]]. No visible cross-border mechanism is documented, so it is not treated as a separate international-cooperation operation."
 created: 2026-04-18
-updated: 2026-04-25
+updated: 2026-04-26
 ---
 ## Summary
 
@@ -82,8 +78,4 @@ This domestic-only U.S. follow-on record has been absorbed into the canonical ca
 
 | # | Title | Publisher | Date | URL |
 |---|---|---|---|---|
-| [1] | Newport News man sentenced for prolific card-swiping operation | US DOJ USAO | 2024-03-08 | https://www.justice.gov/usao-edva/pr/newport-news-man-sentenced-prolific-card-swiping-operation |
-| [2] | Newport News man sentenced for prolific card-swiping operation | WAVY-TV | 2024-03-08 | https://www.wavy.com/news/crime/newport-news-man-sentenced-for-prolific-card-swiping-operation/ |
-| [3] | Newport News man sentenced to 9-plus years for identity theft | 13News Now (WVEC) | 2024-03-08 | https://www.13newsnow.com/article/news/crime/newport-news-man-sentenced-to-prison-for-credit-card-scheme/291-4c766886-2fdd-431c-abaa-ed0ed8a391f2 |
-| [4] | Newport News man sentenced for prolific card-swiping operation | Yahoo News | 2024-03-08 | https://www.yahoo.com/news/newport-news-man-sentenced-prolific-130157715.html |
-| [5] | USA v. Dorsey (1:24-cr-00007), Virginia Eastern District Court | PacerMonitor | 2024-01-10 | https://www.pacermonitor.com/public/case/52276054/USA_v_Dorsey |
+| [1] | USA v. Dorsey (1:24-cr-00007), Virginia Eastern District Court | PacerMonitor | 2024-01-10 | https://www.pacermonitor.com/public/case/52276054/USA_v_Dorsey |

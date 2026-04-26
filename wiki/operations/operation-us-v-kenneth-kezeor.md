@@ -59,16 +59,12 @@ challenges_encountered:
 
 lessons_learned:
 
-source_count: 5
+source_count: 1
 sources:
-  - "[[2026-04-18_justice-gov_former-employee-silicon-valley-company-pleads-guilty-damaging-ex-employer-s-computers]]"
-  - "[[2016-06-08_databreachesnet_former-agilent-technologies-employee-pleads-guilty-to-damaging-ex-employers-computers]]"
   - "[[2016-06-09_theregister_sysadmin-fesses-up-to-wrecking-his-former-employers-it-systems]]"
-  - "[[2016-06-11_patch_former-agilent-employee-pleads-guilty-to-software-damage]]"
-  - "[[2016-06-11_kron4_former-silicon-valley-employee-pleads-guilty-damaging-computers]]"
 summary: "This domestic-only U.S. follow-on record has been absorbed into the canonical case page [[us-v-kenneth-kezeor]]. No visible cross-border mechanism is documented, so it is not treated as a separate international-cooperation operation."
 created: 2026-04-18
-updated: 2026-04-25
+updated: 2026-04-26
 ---
 ## Summary
 
@@ -82,8 +78,4 @@ This domestic-only U.S. follow-on record has been absorbed into the canonical ca
 
 | # | Title | Publisher | Date | URL |
 |---|---|---|---|---|
-| [1] | Former Employee Of Silicon Valley Company Pleads Guilty To Damaging Ex-Employer’s Computers | US DOJ USAO | 2016-06-09 | https://www.justice.gov/usao-ndca/pr/former-employee-silicon-valley-company-pleads-guilty-damaging-ex-employer-s-computers |
-| [2] | Former Agilent Technologies employee pleads guilty to damaging ex-employer's computers | DataBreaches.net | 2016-06-08 | https://databreaches.net/2016/06/08/former-agilent-technologies-employee-pleads-guilty-to-damaging-ex-employers-computers/ |
-| [3] | Sysadmin 'fesses up to wrecking his former employer's IT systems | The Register | 2016-06-09 | https://www.theregister.com/2016/06/09/agilent_sysadmin_guilty_screwing_up_hw/ |
-| [4] | Former Agilent Employee Pleads Guilty To Software Damage | Los Gatos Patch (Bay City News) | 2016-06-11 | https://patch.com/california/losgatos/former-agilent-employee-pleads-guilty-software-damage-0 |
-| [5] | Former Silicon Valley employee pleads guilty to damaging computers | KRON4 | 2016-06-11 | https://www.kron4.com/news/former-silicon-valley-employee-pleads-guilty-to-damaging-computers/ |
+| [1] | Sysadmin 'fesses up to wrecking his former employer's IT systems | The Register | 2016-06-09 | https://www.theregister.com/2016/06/09/agilent_sysadmin_guilty_screwing_up_hw/ |

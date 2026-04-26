@@ -59,16 +59,12 @@ challenges_encountered:
 
 lessons_learned:
 
-source_count: 5
+source_count: 1
 sources:
-  - "[[2026-04-18_justice-gov_pasadena-man-who-cyberstalked-and-made-threats-injure-rape-and-kill-sentenced-more-3]]"
-  - "[[2021-11-15_mynewsla_pasadena-man-sentenced-over-3-years-prison-cyberstalking]]"
-  - "[[2021-11-15_patch_pasadena-man-3-years-prison-online-threats]]"
   - "[[2021-11-16_cbsnews-losangeles_samuel-hughes-pasadena-3-years-online-threats-women]]"
-  - "[[2021-11-16_audacy-knxnews_pasadena-man-sentenced-3-years-cyberstalking]]"
 summary: "This domestic-only U.S. follow-on record has been absorbed into the canonical case page [[us-v-samuel-trelawney-hughes]]. No visible cross-border mechanism is documented, so it is not treated as a separate international-cooperation operation."
 created: 2026-04-18
-updated: 2026-04-25
+updated: 2026-04-26
 ---
 ## Summary
 
@@ -82,8 +78,4 @@ This domestic-only U.S. follow-on record has been absorbed into the canonical ca
 
 | # | Title | Publisher | Date | URL |
 |---|---|---|---|---|
-| [1] | Pasadena Man Who Cyberstalked and Made Threats to Injure, Rape and Kill Sentenced to More Than 3 Years in Federal Prison | US DOJ USAO | 2021-11-15 | https://www.justice.gov/usao-cdca/pr/pasadena-man-who-cyberstalked-and-made-threats-injure-rape-and-kill-sentenced-more-3 |
-| [2] | Pasadena Man Sentenced to Over 3 Years in Prison for Cyberstalking | MyNewsLA | 2021-11-15 | https://mynewsla.com/crime/2021/11/15/pasadena-man-sentenced-to-over-3-years-in-prison-for-cyberstalking/ |
-| [3] | Pasadena Man Gets More Than 3 Years In Prison For Online Threats | Patch.com (Pasadena) | 2021-11-15 | https://patch.com/california/pasadena-ca/pasadena-man-gets-more-3-years-prison-online-threats |
-| [4] | Samuel Hughes Of Pasadena Gets 3 Years In Federal Prison For 'Horrendous' Online Threats Aimed At Women | CBS Los Angeles (KCBS-TV) | 2021-11-16 | https://www.cbsnews.com/losangeles/news/samuel-hughes-pasadena-3-years-federal-prison-horrendous-online-threats-women/ |
-| [5] | Pasadena man sentenced to 3 years for campaign of cyberstalking and threats | Audacy KNX News | 2021-11-16 | https://www.audacy.com/knxnews/news/local/pasadena-man-sentenced-to-3-years-for-cyberstalking |
+| [1] | Samuel Hughes Of Pasadena Gets 3 Years In Federal Prison For 'Horrendous' Online Threats Aimed At Women | CBS Los Angeles (KCBS-TV) | 2021-11-16 | https://www.cbsnews.com/losangeles/news/samuel-hughes-pasadena-3-years-federal-prison-horrendous-online-threats-women/ |

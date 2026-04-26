@@ -53,15 +53,11 @@ challenges_encountered:
 
 lessons_learned:
 
-source_count: 5
+source_count: 1
 sources:
   - "[[2020-10-15_wdpa_nazarovi-qqaazz-indictment]]"
-  - "[[europol-2bagoldmule-qqaazz-takedown]]"
-  - "[[2020-10-15_cyberscoop-com_fbi-accuses-russian-money-laundering-qqaazz]]"
-  - "[[2020-10-15_occrp-org_pan-continental-operation-busts-money-launderers-for-europes-cybercriminals]]"
-  - "[[2020-10-16_amlintelligence-com_international-criminals-charged-in-laundering-investigation]]"
 created: 2026-04-17
-updated: 2026-04-22
+updated: 2026-04-26
 operation_role: follow-on
 parent_operation: "[[qqaazz-money-laundering-takedown]]"
 summary: "This domestic-only U.S. follow-on record has been absorbed into the canonical case page [[us-v-nazarovi-qqaazz]]. No visible cross-border mechanism is documented, so it is not treated as a separate international-cooperation operation."
@@ -85,7 +81,3 @@ This domestic-only U.S. follow-on record has been absorbed into the canonical ca
 | # | Title | Publisher | Date | URL |
 |---|---|---|---|---|
 | [1] | OFFICIALS ANNOUNCE INTERNATIONAL OPERATION TARGETING TRANSNATIONAL CRIMINAL ORGANIZATION QQAAZZ THAT PROVIDED MONEY LAUNDERING SERVICES TO HIGH-LEVEL CYBERCRIMINALS | US DOJ (Western District of Pennsylvania) | 2020-09-29 | https://www.justice.gov/usao-wdpa/pr/officials-announce-international-operation-targeting-transnational-criminal |
-| [2] | Europol: 20 Arrests in QQAAZZ Multi-Million Money Laundering Case | Europol | 2020-10-15 | https://www.europol.europa.eu/media-press/newsroom/news/20-arrests-in-qqaazz-multi-million-money-laundering-case |
-| [3] | FBI accuses Russian money laundering QQAAZZ | CyberScoop | 2020-10-15 | https://cyberscoop.com/fbi-accuses-russian-money-laundering-qqaazz/ |
-| [4] | Pan-Continental Operation Busts Money Launderers for Europe's Cybercriminals | OCCRP | 2020-10-15 | https://www.occrp.org/en/news/pan-continental-operation-busts-money-launderers-for-europes-cybercriminals |
-| [5] | Notorious Central Europe crime gang that laundered tens of millions of euro for hackers targeted in raids | AML Intelligence | 2020-10-16 | https://www.amlintelligence.com/2020/10/14-international-criminals-charged-in-laundering-investigation/ |

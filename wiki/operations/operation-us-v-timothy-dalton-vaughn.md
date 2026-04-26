@@ -59,16 +59,12 @@ challenges_encountered:
 
 lessons_learned:
 
-source_count: 5
+source_count: 1
 sources:
-  - "[[2026-04-18_justice-gov_hacker-collective-member-who-made-online-threats-against-schools-and-airline-sentenced]]"
-  - "[[2020-11-30_krebsonsecurity_bomb-threat-ddos-purveyor-gets-eight-years]]"
-  - "[[2020-11-30_nbcnews_hacker-collective-member-sentenced-nearly-8-years]]"
   - "[[2019-02-14_theregister_apophis-squad-indictment-vaughn-duke-cohan]]"
-  - "[[2020-11-30_databreaches_apophis-squad-member-online-threats-schools-airline-sentenced]]"
 summary: "This domestic-only U.S. follow-on record has been absorbed into the canonical case page [[us-v-timothy-dalton-vaughn]]. No visible cross-border mechanism is documented, so it is not treated as a separate international-cooperation operation."
 created: 2026-04-18
-updated: 2026-04-25
+updated: 2026-04-26
 ---
 ## Summary
 
@@ -82,8 +78,4 @@ This domestic-only U.S. follow-on record has been absorbed into the canonical ca
 
 | # | Title | Publisher | Date | URL |
 |---|---|---|---|---|
-| [1] | Hacker Collective Member Who Made Online Threats Against Schools and Airline Sentenced to Nearly 8 Years in Federal Prison | US DOJ USAO | 2020-11-30 | https://www.justice.gov/usao-cdca/pr/hacker-collective-member-who-made-online-threats-against-schools-and-airline-sentenced |
-| [2] | Bomb Threat, DDoS Purveyor Gets Eight Years | Krebs on Security | 2020-11-30 | https://krebsonsecurity.com/2020/12/bomb-threat-ddos-purveyor-gets-eight-years/ |
-| [3] | 'Hacker collective' member sentenced to nearly 8 years | NBC News | 2020-11-30 | https://www.nbcnews.com/news/crime-courts/hacker-collective-member-sentenced-nearly-8-years-n1249465 |
-| [4] | US man and Brit teen convict indicted over school bomb threat spree | The Register | 2019-02-14 | https://www.theregister.com/2019/02/14/apophis_squad_indictment_timothy_dalton_vaughn_george_duke_cohan/ |
-| [5] | 'Apophis Squad' Member Who Made Online Threats Against Schools and Airline Sentenced to Nearly 8 Years in Federal Prison | DataBreaches.Net | 2020-11-30 | https://databreaches.net/2020/11/30/apophis-squad-member-who-made-online-threats-against-schools-and-airline-sentenced-to-nearly-8-years-in-federal-prison/ |
+| [1] | US man and Brit teen convict indicted over school bomb threat spree | The Register | 2019-02-14 | https://www.theregister.com/2019/02/14/apophis_squad_indictment_timothy_dalton_vaughn_george_duke_cohan/ |

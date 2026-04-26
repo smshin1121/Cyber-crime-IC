@@ -59,16 +59,12 @@ challenges_encountered:
 
 lessons_learned:
 
-source_count: 5
+source_count: 1
 sources:
   - "[[2026-04-18_justice-gov_prince-george-s-county-man-sentenced-seven-years-federal-prison-heroin-distribution]]"
-  - "[[2021-11-10_wtop_maryland-man-sentenced-for-distributing-heroin-on-dark-web]]"
-  - "[[2021-11-10_cbsnews-baltimore_maryland-man-sentenced-for-distributing-heroin-on-dark-web]]"
-  - "[[2021-11-10_thedailyrecord_maryland-man-sentenced-for-distributing-heroin-on-dark-web]]"
-  - "[[2021-11-10_baltimoresun_maryland-man-sentenced-for-distributing-heroin-on-dark-web]]"
 summary: "This domestic-only U.S. follow-on record has been absorbed into the canonical case page [[prince-georges-county-man-sentenced-to-seven-years-in-federal-prison-for-a-heroin-distribution-conspiracy-cond]]. No visible cross-border mechanism is documented, so it is not treated as a separate international-cooperation operation."
 created: 2026-04-18
-updated: 2026-04-25
+updated: 2026-04-26
 ---
 ## Summary
 
@@ -83,7 +79,3 @@ This domestic-only U.S. follow-on record has been absorbed into the canonical ca
 | # | Title | Publisher | Date | URL |
 |---|---|---|---|---|
 | [1] | Prince George’s County Man Sentenced to Seven Years in Federal Prison for a Heroin Distribution Conspiracy Conducted Over the Dark Web | US DOJ USAO | 2021-11-09 | https://www.justice.gov/usao-md/pr/prince-george-s-county-man-sentenced-seven-years-federal-prison-heroin-distribution |
-| [2] | Maryland man sentenced for distributing heroin on dark web | WTOP News | 2021-11-10 | https://wtop.com/prince-georges-county/2021/11/maryland-man-sentenced-for-distributing-heroin-on-dark-web/ |
-| [3] | Maryland Man Sentenced For Distributing Heroin On Dark Web | CBS News Baltimore | 2021-11-10 | https://www.cbsnews.com/baltimore/news/maryland-man-sentenced-for-distributing-heroin-on-dark-web/ |
-| [4] | Maryland man sentenced for distributing heroin on dark web | The Daily Record (Maryland) | 2021-11-10 | https://thedailyrecord.com/2021/11/10/maryland-man-sentenced-for-distributing-heroin-on-dark-web/ |
-| [5] | Maryland man sentenced for distributing heroin on dark web | Baltimore Sun | 2021-11-10 | https://www.baltimoresun.com/2021/11/10/maryland-man-sentenced-for-distributing-heroin-on-dark-web/ |

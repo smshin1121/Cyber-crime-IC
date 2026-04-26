@@ -59,16 +59,12 @@ challenges_encountered:
 
 lessons_learned:
 
-source_count: 5
+source_count: 1
 sources:
-  - "[[2026-04-18_justice-gov_three-former-department-homeland-security-employees-sentenced-scheme-defraud-united]]"
-  - "[[2024-01-29_bleepingcomputer_dhs-employees-jailed-for-stealing-data-of-200k-us-govt-workers]]"
-  - "[[2024-01-29_nextgov_former-dhs-employees-sentenced-plot-steal-government-software-databases]]"
   - "[[2024-01-26_uspsoig_three-former-department-homeland-security-employees]]"
-  - "[[2024-01-29_law360_3-ex-dhs-staffers-get-prison-probation-for-software-theft]]"
 summary: "This domestic-only U.S. follow-on record has been absorbed into the canonical case page [[us-v-homeland-security-employees]]. No visible cross-border mechanism is documented, so it is not treated as a separate international-cooperation operation."
 created: 2026-04-18
-updated: 2026-04-25
+updated: 2026-04-26
 ---
 ## Summary
 
@@ -82,8 +78,4 @@ This domestic-only U.S. follow-on record has been absorbed into the canonical ca
 
 | # | Title | Publisher | Date | URL |
 |---|---|---|---|---|
-| [1] | Three Former Department of Homeland Security Employees Sentenced in Scheme to Defraud the United States | US DOJ USAO | 2024-01-26 | https://www.justice.gov/usao-dc/pr/three-former-department-homeland-security-employees-sentenced-scheme-defraud-united |
-| [2] | DHS employees jailed for stealing data of 200K U.S. govt workers | BleepingComputer | 2024-01-29 | https://www.bleepingcomputer.com/news/security/dhs-employees-jailed-for-stealing-data-of-200k-us-govt-workers/ |
-| [3] | Former DHS employees sentenced for plot to steal government software, databases | Nextgov/FCW | 2024-01-29 | https://www.nextgov.com/people/2024/01/former-dhs-employees-sentenced-plot-steal-government-software-databases/393689/ |
-| [4] | Three Former Department of Homeland Security Employees Sentenced in Scheme to Defraud the United States | USPS Office of Inspector General | 2024-01-26 | https://www.uspsoig.gov/investigative-work/investigative-news-releases/three-former-department-homeland-security-employees |
-| [5] | 3 Ex-DHS Staffers Get Prison, Probation For Software Theft | Law360 | 2024-01-29 | https://www.law360.com/ip/articles/1791230/3-ex-dhs-staffers-get-prison-probation-for-software-theft |
+| [1] | Three Former Department of Homeland Security Employees Sentenced in Scheme to Defraud the United States | USPS Office of Inspector General | 2024-01-26 | https://www.uspsoig.gov/investigative-work/investigative-news-releases/three-former-department-homeland-security-employees |

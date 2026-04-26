@@ -59,16 +59,12 @@ challenges_encountered:
 
 lessons_learned:
 
-source_count: 5
+source_count: 1
 sources:
   - "[[2026-04-18_justice-gov_florida-computer-programmer-arrested-hacking]]"
-  - "[[2016-09-02_helpnetsecurity_programmer-arrested-for-hacking-linux-kernel-organization]]"
-  - "[[2016-09-02_ktvu_florida-man-arrested-for-hacking-into-bay-area-computer-servers]]"
-  - "[[2016-09-03_fossbytes_27-year-old-programmer-arrested-for-hacking-linux-kernel-website]]"
-  - "[[2016-09-03_ibtimesuk_cops-arrest-florida-man-accused-hacking-linux-servers-2011]]"
 summary: "This domestic-only U.S. follow-on record has been absorbed into the canonical case page [[florida-computer-programmer-arrested-for-hacking]]. No visible cross-border mechanism is documented, so it is not treated as a separate international-cooperation operation."
 created: 2026-04-18
-updated: 2026-04-25
+updated: 2026-04-26
 ---
 ## Summary
 
@@ -83,7 +79,3 @@ This domestic-only U.S. follow-on record has been absorbed into the canonical ca
 | # | Title | Publisher | Date | URL |
 |---|---|---|---|---|
 | [1] | Florida Computer Programmer Arrested For Hacking | US DOJ USAO | 2016-09-02 | https://www.justice.gov/usao-ndca/pr/florida-computer-programmer-arrested-hacking |
-| [2] | Programmer arrested for hacking Linux Kernel Organization | Help Net Security | 2016-09-02 | https://www.helpnetsecurity.com/2016/09/02/arrested-hacking-linux-kernel-organization/ |
-| [3] | Florida man arrested for hacking into Bay Area computer servers | KTVU FOX 2 | 2016-09-02 | https://www.ktvu.com/news/florida-man-arrested-for-hacking-into-bay-area-computer-servers |
-| [4] | 27-year-old Programmer Arrested For Hacking Linux Kernel Website | Fossbytes | 2016-09-03 | https://fossbytes.com/police-arrested-the-man-who-hacked-linux-kernel-foundation/ |
-| [5] | Cops arrest Florida man accused of hacking Linux servers in 2011 | International Business Times UK | 2016-09-03 | https://www.ibtimes.co.uk/cops-arrest-florida-man-accused-hacking-linux-servers-2011-1579498 |

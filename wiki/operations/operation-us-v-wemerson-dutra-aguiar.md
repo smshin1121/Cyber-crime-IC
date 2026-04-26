@@ -59,16 +59,12 @@ challenges_encountered:
 
 lessons_learned:
 
-source_count: 5
+source_count: 1
 sources:
-  - "[[2026-04-18_justice-gov_brazilian-national-pleads-guilty-role-nationwide-rideshare-and-delivery-account-fraud-0]]"
-  - "[[2022-01-27_lynnjournal_man-pleads-guilty-to-role-in-nationwide-rideshare]]"
-  - "[[2021-05-07_nbcboston_19-charged-in-ride-hailing-fake-driver-account-scheme]]"
   - "[[2022-03-23_irs-gov_two-plead-guilty-in-nationwide-rideshare-and-delivery-account-fraud-scheme]]"
-  - "[[2021-05-08_frankonfraud_2000-identities-stolen-for-rideshare-fraud-scheme]]"
 summary: "This domestic-only U.S. follow-on record has been absorbed into the canonical case page [[us-v-wemerson-dutra-aguiar]]. No visible cross-border mechanism is documented, so it is not treated as a separate international-cooperation operation."
 created: 2026-04-18
-updated: 2026-04-25
+updated: 2026-04-26
 ---
 ## Summary
 
@@ -82,8 +78,4 @@ This domestic-only U.S. follow-on record has been absorbed into the canonical ca
 
 | # | Title | Publisher | Date | URL |
 |---|---|---|---|---|
-| [1] | Brazilian National Pleads Guilty to Role in Nationwide Rideshare and Delivery Account Fraud Scheme | US DOJ USAO | 2022-01-20 | https://www.justice.gov/usao-ma/pr/brazilian-national-pleads-guilty-role-nationwide-rideshare-and-delivery-account-fraud-0 |
-| [2] | Man Pleads Guilty to Role in Nationwide Rideshare | Lynn Journal | 2022-01-27 | https://lynnjournal.com/2022/01/27/man-pleads-guilty-to-role-in-nationwide-rideshare/ |
-| [3] | Ride-Hailing Fake Driver Account Scheme — 19 Charged | NBC Boston | 2021-05-07 | https://www.nbcboston.com/news/local/19-charged-in-ride-hailing-fake-driver-account-scheme/2375154/ |
-| [4] | Two plead guilty in nationwide rideshare and delivery account fraud scheme | IRS Criminal Investigation | 2022-03-23 | https://www.irs.gov/compliance/criminal-investigation/two-plead-guilty-in-nationwide-rideshare-and-delivery-account-fraud-scheme |
-| [5] | 2,000 Identities Stolen For RideShare Fraud Scheme | Frank on Fraud | 2021-05-08 | https://frankonfraud.com/2000-identities-stolen-for-rideshare-fraud-scheme/ |
+| [1] | Two plead guilty in nationwide rideshare and delivery account fraud scheme | IRS Criminal Investigation | 2022-03-23 | https://www.irs.gov/compliance/criminal-investigation/two-plead-guilty-in-nationwide-rideshare-and-delivery-account-fraud-scheme |

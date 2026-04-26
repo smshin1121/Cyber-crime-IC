@@ -59,16 +59,12 @@ challenges_encountered:
 
 lessons_learned:
 
-source_count: 5
+source_count: 1
 sources:
   - "[[2026-04-18_justice-gov_darknet-international-gun-traffickers-sentenced]]"
-  - "[[2018-04-17_ajc_international-gun-smuggling-metro-atlanta-prison]]"
-  - "[[2018-04-17_upi_georgia-man-sentenced-firearms-ring-dark-web]]"
-  - "[[2018-04-18_patch_dark-web-gun-smuggler-atlanta-sentenced]]"
-  - "[[2017-06-02_justice-gov-ndga_gun-traffickers-arrested-dark-net-export-guns-world]]"
 summary: "This domestic-only U.S. follow-on record has been absorbed into the canonical case page [[us-v-sherman-jackson]]. No visible cross-border mechanism is documented, so it is not treated as a separate international-cooperation operation."
 created: 2026-04-18
-updated: 2026-04-25
+updated: 2026-04-26
 ---
 ## Summary
 
@@ -83,7 +79,3 @@ This domestic-only U.S. follow-on record has been absorbed into the canonical ca
 | # | Title | Publisher | Date | URL |
 |---|---|---|---|---|
 | [1] | Darknet international gun traffickers sentenced | US DOJ USAO | 2018-04-17 | https://www.justice.gov/usao-ndga/pr/darknet-international-gun-traffickers-sentenced |
-| [2] | International gun-smuggling operation puts Metro Atlanta men in prison | Atlanta Journal-Constitution | 2018-04-17 | https://www.ajc.com/news/local/metro-atlantans-sentenced-for-running-international-online-gun-ring/JLvJonuVDbJLTjxbfKLrXO/ |
-| [3] | Georgia man sentenced for running international firearms ring on dark web | UPI | 2018-04-17 | https://www.upi.com/Top_News/US/2018/04/17/Georgia-man-sentenced-for-running-firearms-ring-on-dark-web/6011524016483/ |
-| [4] | 'Dark Web' Gun Smuggler From Atlanta Sentenced | Patch (Atlanta) | 2018-04-18 | https://patch.com/georgia/atlanta/dark-web-gun-smuggler-atlanta-sentenced |
-| [5] | Gun traffickers arrested for allegedly using the Dark Net to export guns across the world | U.S. Department of Justice (USAO N.D. Ga.) | 2017-06-02 | https://www.justice.gov/usao-ndga/pr/gun-traffickers-arrested-allegedly-using-dark-web-export-guns-across-world |

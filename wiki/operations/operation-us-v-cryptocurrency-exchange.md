@@ -59,16 +59,12 @@ challenges_encountered:
 
 lessons_learned:
 
-source_count: 5
+source_count: 1
 sources:
-  - "[[2026-04-18_justice-gov_founder-and-majority-owner-cryptocurrency-exchange-pleads-guilty-unlicensed-money]]"
-  - "[[2023-12-06_cointelegraph_bitzlato-ex-ceo-legkodymov-pleads-guilty-one-count-brooklyn-court]]"
-  - "[[2023-12-10_dailyhodl_crypto-exchange-founder-pleads-guilty-700-million-unlicensed-money-transmitting]]"
   - "[[2023-12-06_justice-gov_opa_founder-and-majority-owner-cryptocurrency-exchange-pleads-guilty]]"
-  - "[[2023-12-06_globalsecurity-org_founder-cryptocurrency-exchange-pleads-guilty]]"
 summary: "This domestic-only U.S. follow-on record has been absorbed into the canonical case page [[us-v-cryptocurrency-exchange]]. No visible cross-border mechanism is documented, so it is not treated as a separate international-cooperation operation."
 created: 2026-04-18
-updated: 2026-04-25
+updated: 2026-04-26
 ---
 ## Summary
 
@@ -82,8 +78,4 @@ This domestic-only U.S. follow-on record has been absorbed into the canonical ca
 
 | # | Title | Publisher | Date | URL |
 |---|---|---|---|---|
-| [1] | Founder and Majority Owner of Cryptocurrency Exchange Pleads Guilty to Unlicensed Money Transmitting | US DOJ USAO | 2023-12-06 | https://www.justice.gov/usao-edny/pr/founder-and-majority-owner-cryptocurrency-exchange-pleads-guilty-unlicensed-money |
-| [2] | Bitzlato ex-CEO Legkodymov pleads guilty to 1 count in Brooklyn court | Cointelegraph | 2023-12-06 | https://cointelegraph.com/news/bitzlato-ex-ceo-legkodymov-pleads-guilty-one-count-brooklyn-court |
-| [3] | Crypto Exchange Founder Pleads Guilty to $700,000,000 Unlicensed Money Transmitting Charges: DOJ | The Daily Hodl | 2023-12-10 | https://dailyhodl.com/2023/12/10/crypto-exchange-founder-pleads-guilty-to-700000000-unlicensed-money-transmitting-charges-doj/ |
-| [4] | Founder and Majority Owner of Cryptocurrency Exchange Pleads Guilty to Unlicensed Money Transmitting | US DOJ Office of Public Affairs | 2023-12-06 | https://www.justice.gov/archives/opa/pr/founder-and-majority-owner-cryptocurrency-exchange-pleads-guilty-unlicensed-money |
-| [5] | Founder and Majority Owner of Cryptocurrency Exchange Pleads Guilty to Unlicensed Money Transmitting | GlobalSecurity.org | 2023-12-06 | https://www.globalsecurity.org/security/library/news/2023/12/sec-231206-doj03.htm |
+| [1] | Founder and Majority Owner of Cryptocurrency Exchange Pleads Guilty to Unlicensed Money Transmitting | US DOJ Office of Public Affairs | 2023-12-06 | https://www.justice.gov/archives/opa/pr/founder-and-majority-owner-cryptocurrency-exchange-pleads-guilty-unlicensed-money |

@@ -60,16 +60,12 @@ challenges_encountered:
 
 lessons_learned:
 
-source_count: 5
+source_count: 1
 sources:
   - "[[2026-04-18_justice-gov_huntsville-man-pleads-guilty-possessing-large-collection-child-pornography]]"
-  - "[[2019-11-14_waff_huntsville-man-nabbed-worldwide-child-porn-takedown-pleads-guilty]]"
-  - "[[2019-10-16_wsfa_huntsville-man-connected-worldwide-take-down-of-child-pornography-site]]"
-  - "[[2019-11-15_whnt_huntsville-man-pleads-guilty-to-possessing-child-pornography]]"
-  - "[[2019-11-16_haxf4rall_alabama-man-admits-using-the-largest-darknet-child-pornography-website]]"
 summary: "This domestic-only U.S. follow-on record has been absorbed into the canonical case page [[us-v-ryan-thomas-carver]]. No visible cross-border mechanism is documented, so it is not treated as a separate international-cooperation operation."
 created: 2026-04-18
-updated: 2026-04-25
+updated: 2026-04-26
 ---
 ## Summary
 
@@ -84,7 +80,3 @@ This domestic-only U.S. follow-on record has been absorbed into the canonical ca
 | # | Title | Publisher | Date | URL |
 |---|---|---|---|---|
 | [1] | Huntsville Man Pleads Guilty to Possessing Large Collection of Child Pornography | US DOJ USAO | 2019-11-14 | https://www.justice.gov/usao-ndal/pr/huntsville-man-pleads-guilty-possessing-large-collection-child-pornography |
-| [2] | Huntsville man nabbed in worldwide child porn takedown pleads guilty | WAFF (Huntsville) | 2019-11-14 | https://www.waff.com/2019/11/14/huntsville-man-nabbed-worldwide-child-porn-takedown-pleads-guilty/ |
-| [3] | Huntsville man connected to worldwide take down of child pornography site | WSFA (Montgomery) | 2019-10-16 | https://www.wsfa.com/2019/10/16/huntsville-man-connected-worldwide-take-down-child-pornography-site/ |
-| [4] | Huntsville man pleads guilty to possessing child pornography | WHNT (Huntsville) | 2019-11-15 | https://whnt.com/news/huntsville/huntsville-man-pleads-guilty-to-possessing-child-pornography/ |
-| [5] | Alabama Man Admits Using 'the Largest Darknet Child Pornography Website' | Haxf4rall | 2019-11-16 | https://haxf4rall.com/2019/11/16/alabama-man-admits-using-the-largest-darknet-child-pornography-website/ |

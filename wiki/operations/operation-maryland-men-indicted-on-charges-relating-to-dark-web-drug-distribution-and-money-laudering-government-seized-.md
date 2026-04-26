@@ -59,16 +59,12 @@ challenges_encountered:
 
 lessons_learned:
 
-source_count: 5
+source_count: 1
 sources:
   - "[[2026-04-18_justice-gov_maryland-men-indicted-charges-relating-dark-web-drug-distribution-and-money-laudering]]"
-  - "[[2018-06-26_justice-gov_opa_first-nationwide-undercover-operation-targeting-darknet-vendors-results-arrests-more-35]]"
-  - "[[2018-06-26_justice-gov_vt_first-nationwide-undercover-operation-targeting-darknet-vendors-results-arrests-more-35]]"
-  - "[[2018-06-26_bitcoininsider_org_17-million-bitcoin-seized-dark-web-undercover-sting-operation]]"
-  - "[[2018-06-26_secretservice-gov_parma-men-among-those-charged-part-crackdown-darknet-vendors]]"
 summary: "This domestic-only U.S. follow-on record has been absorbed into the canonical case page [[maryland-men-indicted-on-charges-relating-to-dark-web-drug-distribution-and-money-laudering-government-seized-]]. No visible cross-border mechanism is documented, so it is not treated as a separate international-cooperation operation."
 created: 2026-04-18
-updated: 2026-04-25
+updated: 2026-04-26
 ---
 ## Summary
 
@@ -83,7 +79,3 @@ This domestic-only U.S. follow-on record has been absorbed into the canonical ca
 | # | Title | Publisher | Date | URL |
 |---|---|---|---|---|
 | [1] | Maryland Men Indicted on Charges Relating to Dark Web Drug Distribution and Money Laudering; Government Seized more than $22 Million in Assets | US DOJ USAO | 2018-06-26 | https://www.justice.gov/usao-md/pr/maryland-men-indicted-charges-relating-dark-web-drug-distribution-and-money-laudering |
-| [2] | First Nationwide Undercover Operation Targeting Darknet Vendors Results in Arrests of More Than 35 Individuals Selling Illicit Goods and the Seizure of Weapons, Drugs and More Than $23.6 Million | US DOJ OPA | 2018-06-26 | https://www.justice.gov/archives/opa/pr/first-nationwide-undercover-operation-targeting-darknet-vendors-results-arrests-more-35 |
-| [3] | First Nationwide Undercover Operation Targeting Darknet Vendors Results in Arrests of More Than 35 Individuals Selling Illicit Goods and the Seizure of Weapons, Drugs and More Than $23.6 Million | US DOJ USAO | 2018-06-26 | https://www.justice.gov/usao-vt/pr/first-nationwide-undercover-operation-targeting-darknet-vendors-results-arrests-more-35 |
-| [4] | $17 Million in Bitcoin Seized in Dark Web Undercover Sting Operation | Bitcoin Insider | 2018-06-26 | https://www.bitcoininsider.org/article/31220/17-million-bitcoin-seized-dark-web-undercover-sting-operation |
-| [5] | Parma Men Among Those Charged as Part of Crackdown on Darknet Vendors | US Secret Service | 2018-06-26 | https://www.secretservice.gov/newsroom/releases/2018/06/parma-men-among-those-charged-part-crackdown-darknet-vendors |

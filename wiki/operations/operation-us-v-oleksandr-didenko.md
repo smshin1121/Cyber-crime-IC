@@ -59,16 +59,12 @@ challenges_encountered:
 
 lessons_learned:
 
-source_count: 5
+source_count: 1
 sources:
-  - "[[2026-04-18_justice-gov_two-romanian-suspects-charged-hacking-metropolitan-police-department-surveillance-cameras]]"
   - "[[2017-12-22_bankinfosecurity_feds-charge-romanians-hacking-washington-cctv-cameras]]"
-  - "[[2017-12-29_romaniainsider_us-romanians-surveillance-cameras-hacking]]"
-  - "[[2017-12-28_secretservice_two-romanian-suspects-charged-hacking-dc-metropolitan-police-department]]"
-  - "[[2017-12-22_thehackernews_police-camera-hacking]]"
 summary: "This domestic-only U.S. follow-on record has been absorbed into the canonical case page [[us-v-oleksandr-didenko]]. No visible cross-border mechanism is documented, so it is not treated as a separate international-cooperation operation."
 created: 2026-04-18
-updated: 2026-04-25
+updated: 2026-04-26
 ---
 ## Summary
 
@@ -93,8 +89,4 @@ This domestic-only U.S. follow-on record has been absorbed into the canonical ca
 
 | # | Title | Publisher | Date | URL |
 |---|---|---|---|---|
-| [1] | Two Romanian Suspects Charged With Hacking of Metropolitan Police Department Surveillance Cameras in Connection with Ransomware Scheme | US DOJ USAO | 2017-12-28 | https://www.justice.gov/usao-dc/pr/two-romanian-suspects-charged-hacking-metropolitan-police-department-surveillance-cameras |
-| [2] | Feds Charge Romanians With Hacking Washington CCTV Cameras | BankInfoSecurity | 2017-12-22 | https://www.bankinfosecurity.com/feds-charge-romanians-hacking-washington-cctv-cameras-a-10548 |
-| [3] | US charges Romanians over Washington DC surveillance cameras hacking | Romania Insider | 2017-12-29 | https://www.romania-insider.com/us-romanians-surveillance-cameras-hacking |
-| [4] | Two Romanian Suspects Charged With Hacking of D.C. Metropolitan Police Department Surveillance Cameras in Connection With Ransomware Scheme | United States Secret Service | 2017-12-28 | https://www.secretservice.gov/newsroom/releases/2017/12/two-romanian-suspects-charged-hacking-dc-metropolitan-police-department |
-| [5] | Two Romanians Charged With Hacking Police CCTV Cameras Before Trump Inauguration | The Hacker News | 2017-12-22 | https://thehackernews.com/2017/12/police-camera-hacking.html |
+| [1] | Feds Charge Romanians With Hacking Washington CCTV Cameras | BankInfoSecurity | 2017-12-22 | https://www.bankinfosecurity.com/feds-charge-romanians-hacking-washington-cctv-cameras-a-10548 |

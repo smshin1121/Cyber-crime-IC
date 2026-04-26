@@ -59,16 +59,12 @@ challenges_encountered:
 
 lessons_learned:
 
-source_count: 5
+source_count: 1
 sources:
-  - "[[2015-02-04_fbi-gov_ross-ulbricht-found-guilty-on-all-counts]]"
   - "[[2015-02-05_dea-gov_ross-ulbricht-creator-and-owner-silk-road-website-found-guilty-manhattan]]"
-  - "[[2015-02-04_cnbc_silk-road-website-founder-ross-ulbricht-found-guilty-on-all-counts]]"
-  - "[[2015-02-04_justice-gov_ross-ulbricht-creator-and-owner-silk-road-website-found-guilty]]"
-  - "[[2015-02-04_ctpublic_silk-road-operator-ross-ulbricht-convicted-on-all-counts]]"
 summary: "This domestic-only U.S. follow-on record has been absorbed into the canonical case page [[ross-ulbricht-found-guilty-on-all-counts]]. No visible cross-border mechanism is documented, so it is not treated as a separate international-cooperation operation."
 created: 2026-04-18
-updated: 2026-04-25
+updated: 2026-04-26
 ---
 ## Summary
 
@@ -82,8 +78,4 @@ This domestic-only U.S. follow-on record has been absorbed into the canonical ca
 
 | # | Title | Publisher | Date | URL |
 |---|---|---|---|---|
-| [1] | Ross Ulbricht Found Guilty on All Counts | FBI New York | 2015-02-04 | https://www.fbi.gov/contact-us/field-offices/newyork/news/press-releases/ross-ulbricht-the-creator-and-owner-of-the-silk-road-website-found-guilty-in-manhattan-federal-court-on-all-counts |
-| [2] | Ross Ulbricht, The Creator And Owner Of The Silk Road Website, Found Guilty In Manhattan Federal Court On All Counts | U.S. Drug Enforcement Administration (DEA) | 2015-02-05 | https://www.dea.gov/press-releases/2015/02/05/ross-ulbricht-creator-and-owner-silk-road-website-found-guilty-manhattan |
-| [3] | Silk Road website founder Ross Ulbricht found guilty on all counts | CNBC | 2015-02-04 | https://www.cnbc.com/2015/02/04/silk-road-website-founder-ross-ulbricht-found-guilty-on-all-counts.html |
-| [4] | Ross Ulbricht, The Creator And Owner Of The Silk Road Website, Found Guilty In Manhattan Federal Court On All Counts (DOJ archive) | U.S. Department of Justice (SDNY U.S. Attorney's Office) | 2015-02-04 | https://www.justice.gov/archive/usao/nys/pressreleases/February15/UlbrichtRossVerdictPR.php |
-| [5] | Silk Road Operator Ross Ulbricht Convicted On All Counts | Connecticut Public (NPR affiliate) | 2015-02-04 | https://www.ctpublic.org/2015-02-04/silk-road-operator-ross-ulbricht-convicted-on-all-counts |
+| [1] | Ross Ulbricht, The Creator And Owner Of The Silk Road Website, Found Guilty In Manhattan Federal Court On All Counts | U.S. Drug Enforcement Administration (DEA) | 2015-02-05 | https://www.dea.gov/press-releases/2015/02/05/ross-ulbricht-creator-and-owner-silk-road-website-found-guilty-manhattan |

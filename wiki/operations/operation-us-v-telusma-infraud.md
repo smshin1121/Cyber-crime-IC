@@ -59,15 +59,12 @@ challenges_encountered:
 
 lessons_learned:
 
-source_count: 4
+source_count: 1
 sources:
   - "[[2022-05-27_doj_telusma-infraud-sentencing]]"
-  - "[[2022-05-22_legalreader_darknet-infraud-member-sentenced-cybercrime-case]]"
-  - "[[2022-05-22_therecord_man-helped-infraud-cybercrime-cartel-credit-cards-sentenced]]"
-  - "[[2022-05-28_thehackernews_new-york-man-sentenced-4-years-transnational-cybercrime-scheme]]"
 summary: "This domestic-only U.S. follow-on record has been absorbed into the canonical case page [[us-v-telusma-infraud]]. No visible cross-border mechanism is documented, so it is not treated as a separate international-cooperation operation."
 created: 2026-04-17
-updated: 2026-04-25
+updated: 2026-04-26
 ---
 ## Summary
 
@@ -82,6 +79,3 @@ This domestic-only U.S. follow-on record has been absorbed into the canonical ca
 | # | Title | Publisher | Date | URL |
 |---|---|---|---|---|
 | [1] | Man Sentenced for Transnational Cybercrime Enterprise | US DOJ (Office of Public Affairs) | 2022-05-25 | https://www.justice.gov/archives/opa/pr/man-sentenced-transnational-cybercrime-enterprise |
-| [2] | Darknet 'Infraud' Member is Sentenced in Cybercrime Case | Legal Reader | 2022-05-22 | https://www.legalreader.com/darknet-infraud-member-is-sentenced-in-cybercrime-case/ |
-| [3] | Man who helped Infraud cybercrime cartel steal millions of credit cards sentenced | The Record (Recorded Future News) | 2022-05-22 | https://therecord.media/man-who-helped-infraud-cybercrime-cartel-steal-millions-of-credit-cards-sentenced |
-| [4] | New York Man Sentenced to 4 Years in Transnational Cybercrime Scheme | The Hacker News | 2022-05-28 | https://thehackernews.com/2022/05/new-york-man-sentenced-to-4-years-in.html |

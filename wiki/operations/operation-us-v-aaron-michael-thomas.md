@@ -59,16 +59,12 @@ challenges_encountered:
 
 lessons_learned:
 
-source_count: 5
+source_count: 1
 sources:
-  - "[[2026-04-18_justice-gov_two-tulsans-sentenced-running-illegal-dark-web-cryptocurrency-pharmacy]]"
-  - "[[2025-03-15_newstalkkzrg_two-tulsans-sentenced-running-illegal-dark-web-cryptocurrency-pharmacy]]"
-  - "[[2025-03-10_newson6_2-tulsa-men-sentenced-buying-selling-illegal-drugs-dark-web]]"
-  - "[[2025-03-10_krmg_tulsa-man-sentenced-selling-illegal-drugs-dark-web]]"
   - "[[2024-09-19_fda_two-tulsa-men-indicted-introducing-misbranded-drugs-interstate-commerce]]"
 summary: "This domestic-only U.S. follow-on record has been absorbed into the canonical case page [[us-v-aaron-michael-thomas]]. No visible cross-border mechanism is documented, so it is not treated as a separate international-cooperation operation."
 created: 2026-04-18
-updated: 2026-04-25
+updated: 2026-04-26
 ---
 ## Summary
 
@@ -82,8 +78,4 @@ This domestic-only U.S. follow-on record has been absorbed into the canonical ca
 
 | # | Title | Publisher | Date | URL |
 |---|---|---|---|---|
-| [1] | Two Tulsans Sentenced for Running Illegal Dark Web Cryptocurrency Pharmacy | US DOJ USAO | 2025-03-10 | https://www.justice.gov/usao-ndok/pr/two-tulsans-sentenced-running-illegal-dark-web-cryptocurrency-pharmacy |
-| [2] | Two Tulsans sentenced for running illegal Dark Web cryptocurrency pharmacy | Newstalk KZRG | 2025-03-15 | https://www.newstalkkzrg.com/2025/03/15/two-tulsans-sentenced-for-running-illegal-dark-web-cryptocurrency-pharmacy/ |
-| [3] | 2 Tulsa men sentenced for buying, selling of illegal drugs on dark web | News On 6 (KOTV) Tulsa | 2025-03-10 | https://www.newson6.com/story/67cf9e6a403e997de0aaa87e/2-tulsa-men-sentenced-for-buying-selling-of-illegal-drugs-on-dark-web |
-| [4] | Tulsa man sentenced for selling illegal drugs on the dark web | KRMG 102.3 Tulsa | 2025-03-10 | https://www.krmg.com/news/local/tulsa-man-sentenced-selling-illegal-drugs-dark-web/BWFEJKHNQZHFZJULDIHJNZM2NA/ |
-| [5] | Two Tulsa Men Indicted for Introducing Misbranded Drugs into Interstate Commerce | U.S. Food and Drug Administration (FDA) | 2024-09-19 | https://www.fda.gov/inspections-compliance-enforcement-and-criminal-investigations/doj-press-releases-involving-fda-oci/two-tulsa-men-indicted-introducing-misbranded-drugs-interstate-commerce |
+| [1] | Two Tulsa Men Indicted for Introducing Misbranded Drugs into Interstate Commerce | U.S. Food and Drug Administration (FDA) | 2024-09-19 | https://www.fda.gov/inspections-compliance-enforcement-and-criminal-investigations/doj-press-releases-involving-fda-oci/two-tulsa-men-indicted-introducing-misbranded-drugs-interstate-commerce |

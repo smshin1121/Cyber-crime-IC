@@ -59,16 +59,12 @@ challenges_encountered:
 
 lessons_learned:
 
-source_count: 5
+source_count: 1
 sources:
-  - "[[2026-04-18_justice-gov_former-south-bay-resident-pleads-guilty-sexual-exploitation-charge-enticing-girls-send]]"
-  - "[[2023-01-19_ktla_redondo-beach-man-admits-grooming-young-girls]]"
-  - "[[2023-01-23_ktla_former-redondo-beach-27-years-vulnerable-girls-masochistic-abuse]]"
-  - "[[2022-08-29_kyma_ex-californian-pleads-guilty-child-mutilation-sex-scheme]]"
   - "[[2022-01-26_fox59_matthew-locher-california-arrested-indiana-27-years-child-exploitation]]"
 summary: "This domestic-only U.S. follow-on record has been absorbed into the canonical case page [[us-v-matthew-christian-locher]]. No visible cross-border mechanism is documented, so it is not treated as a separate international-cooperation operation."
 created: 2026-04-18
-updated: 2026-04-25
+updated: 2026-04-26
 ---
 ## Summary
 
@@ -82,8 +78,4 @@ This domestic-only U.S. follow-on record has been absorbed into the canonical ca
 
 | # | Title | Publisher | Date | URL |
 |---|---|---|---|---|
-| [1] | Former South Bay Resident Pleads Guilty to Sexual Exploitation Charge for Enticing Girls to Send Him Images Depicting Masochism | US DOJ USAO | 2022-08-29 | https://www.justice.gov/usao-cdca/pr/former-south-bay-resident-pleads-guilty-sexual-exploitation-charge-enticing-girls-send |
-| [2] | Redondo Beach man admits to grooming young girls, encouraging to harm themselves and kill parents | KTLA | 2023-01-19 | https://ktla.com/news/local-news/redondo-beach-man-admits-to-grooming-young-girls-encouraging-to-harm-themselves-and-kill-parents/ |
-| [3] | Former Redondo Beach resident sentenced to 27 years in federal prison for enticing vulnerable girls to engage in masochistic abuse online | KTLA | 2023-01-23 | https://ktla.com/news/local-news/former-redondo-beach-resident-sentenced-to-27-years-in-federal-prison-for-enticing-vulnerable-girls-to-engage-in-masochistic-abuse-online/ |
-| [4] | Ex-Californian pleads guilty in child mutilation-sex scheme | KYMA | 2022-08-29 | https://kyma.com/news/ap-california/2022/08/29/ex-californian-pleads-guilty-in-child-mutilation-sex-scheme/ |
-| [5] | Matthew Locher: California man arrested in Indiana sentenced to 27 years in child exploitation case | FOX 59 Indianapolis | 2022-01-26 | https://fox59.com/indiana-news/man-who-tried-to-make-girl-his-sex-slave-sentenced-to-27-years/ |
+| [1] | Matthew Locher: California man arrested in Indiana sentenced to 27 years in child exploitation case | FOX 59 Indianapolis | 2022-01-26 | https://fox59.com/indiana-news/man-who-tried-to-make-girl-his-sex-slave-sentenced-to-27-years/ |

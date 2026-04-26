@@ -59,16 +59,12 @@ challenges_encountered:
 
 lessons_learned:
 
-source_count: 5
+source_count: 1
 sources:
   - "[[2026-04-18_justice-gov_seattle-man-sentenced-buying-630000-counterfeit-pills-dark-web]]"
-  - "[[2024-04-12_dea_seattle-man-sentenced-buying-630000-counterfeit-pills-dark-web]]"
-  - "[[2023-06-15_dea_seattle-man-admits-buying-630000-counterfeit-pills-dark-web]]"
-  - "[[2024-04-13_fox13seattle_seattle-man-sentenced-dark-web-drug-trafficking]]"
-  - "[[2024-04-13_kttn_seattle-man-sentenced-prison-missouri-dark-web]]"
 summary: "This domestic-only U.S. follow-on record has been absorbed into the canonical case page [[us-v-seattle-man]]. No visible cross-border mechanism is documented, so it is not treated as a separate international-cooperation operation."
 created: 2026-04-18
-updated: 2026-04-25
+updated: 2026-04-26
 ---
 ## Summary
 
@@ -83,7 +79,3 @@ This domestic-only U.S. follow-on record has been absorbed into the canonical ca
 | # | Title | Publisher | Date | URL |
 |---|---|---|---|---|
 | [1] | Seattle Man Sentenced for Buying 630,000 Counterfeit Pills on the Dark Web | US DOJ USAO | 2024-04-12 | https://www.justice.gov/usao-edmo/pr/seattle-man-sentenced-buying-630000-counterfeit-pills-dark-web |
-| [2] | Seattle Man Sentenced for Buying 630,000 Counterfeit Pills on the Dark Web | U.S. Drug Enforcement Administration (DEA) | 2024-04-12 | https://www.dea.gov/press-releases/2024/04/12/seattle-man-sentenced-for-buying-630000-counterfeit-pills-dark-web |
-| [3] | Seattle Man Admits Buying 630,000 Counterfeit Pills on the Dark Web | U.S. Drug Enforcement Administration (DEA) | 2023-06-15 | https://www.dea.gov/press-releases/2023/06/15/seattle-man-admits-buying-630000-counterfeit-pills-dark-web |
-| [4] | Seattle man sentenced for dark web drug trafficking | FOX 13 Seattle (Q13) | 2024-04-13 | https://www.fox13seattle.com/news/seattle-man-sentenced-for-dark-web-drug-trafficking |
-| [5] | Seattle man sentenced to prison in Missouri for buying 630,000 counterfeit pills on the Dark Web | KTTN-FM (North Missouri) | 2024-04-13 | https://www.kttn.com/seattle-man-sentenced-to-prison-in-missouri-for-buying-630000-counterfeit-pills-on-the-dark-web/ |

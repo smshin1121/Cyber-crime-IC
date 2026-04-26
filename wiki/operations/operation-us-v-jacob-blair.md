@@ -59,16 +59,12 @@ challenges_encountered:
 
 lessons_learned:
 
-source_count: 5
+source_count: 1
 sources:
-  - "[[2026-04-18_justice-gov_coraopolis-man-indicted-western-pennsylvania-and-district-columbia-drug-charges]]"
   - "[[2023-02-28_dea-gov_indictment-charges-alleged-darknet-marketplace-fentanyl-dealer]]"
-  - "[[2023-02-28_yourerie_pa-man-charged-with-alleged-drug-possession-darknet-marketplace-dealing]]"
-  - "[[2024-12-18_postgazette_aliquippa-man-pleads-guilty-counterfeit-narcotics-darknet-marketplace-tor2door]]"
-  - "[[2024-12-18_cbsnews_pennsylvania-man-pleads-guilty-counterfeit-narcotics-online]]"
 summary: "This domestic-only U.S. follow-on record has been absorbed into the canonical case page [[us-v-jacob-blair]]. No visible cross-border mechanism is documented, so it is not treated as a separate international-cooperation operation."
 created: 2026-04-18
-updated: 2026-04-25
+updated: 2026-04-26
 ---
 ## Summary
 
@@ -82,8 +78,4 @@ This domestic-only U.S. follow-on record has been absorbed into the canonical ca
 
 | # | Title | Publisher | Date | URL |
 |---|---|---|---|---|
-| [1] | Coraopolis Man Indicted in Western Pennsylvania and in the District of Columbia on Drug Charges | US DOJ USAO | 2023-02-28 | https://www.justice.gov/usao-wdpa/pr/coraopolis-man-indicted-western-pennsylvania-and-district-columbia-drug-charges |
-| [2] | Indictment Charges Alleged Darknet Marketplace Fentanyl Dealer | U.S. Drug Enforcement Administration | 2023-02-28 | https://www.dea.gov/press-releases/2023/02/28/indictment-charges-alleged-darknet-marketplace-fentanyl-dealer |
-| [3] | Pa. man charged with alleged drug possession, darknet marketplace dealing | WJET/WFXP YourErie | 2023-02-28 | https://www.yourerie.com/news/crime/pa-man-charged-with-alleged-drug-possession-darknet-marketplace-dealing/ |
-| [4] | Aliquippa man pleads guilty to selling counterfeit narcotics on 'Darknet marketplace' Tor2Door | Pittsburgh Post-Gazette | 2024-12-18 | https://www.post-gazette.com/news/crime-courts/2024/12/18/dark-web-counterfeit-narcotics-guilty-plea-jacob-blair/stories/202412180068 |
-| [5] | Pennsylvania man pleads guilty to selling mass quantities of counterfeit narcotics online | CBS Pittsburgh | 2024-12-18 | https://www.cbsnews.com/pittsburgh/news/pennsylvania-man-pleads-guilty-selling-counterfeit-narcotics-online/ |
+| [1] | Indictment Charges Alleged Darknet Marketplace Fentanyl Dealer | U.S. Drug Enforcement Administration | 2023-02-28 | https://www.dea.gov/press-releases/2023/02/28/indictment-charges-alleged-darknet-marketplace-fentanyl-dealer |

@@ -59,16 +59,12 @@ challenges_encountered:
 
 lessons_learned:
 
-source_count: 5
+source_count: 1
 sources:
-  - "[[2026-04-18_justice-gov_maryland-man-sentenced-30-months-prison-cyberstalking-former-girlfriend-and-threatening]]"
-  - "[[2020-02-13_thedailybeast_feds-ex-nsa-employee-cyberstalked-girlfriend-two-years]]"
-  - "[[2019-07-25_cryptome_us-v-spann-court-filing]]"
   - "[[2020-08-17_congressheightsontherise_maryland-man-sentenced-30-months-cyberstalking]]"
-  - "[[2020-02-14_bemorelegal_maryland-man-charged-cyberstalking]]"
 summary: "This domestic-only U.S. follow-on record has been absorbed into the canonical case page [[maryland-man-sentenced-to-30-months-in-prison-for-cyberstalking-former-girlfriend-and-threatening-workplace-vi]]. No visible cross-border mechanism is documented, so it is not treated as a separate international-cooperation operation."
 created: 2026-04-18
-updated: 2026-04-25
+updated: 2026-04-26
 ---
 ## Summary
 
@@ -82,8 +78,4 @@ This domestic-only U.S. follow-on record has been absorbed into the canonical ca
 
 | # | Title | Publisher | Date | URL |
 |---|---|---|---|---|
-| [1] | Maryland Man Sentenced to 30 Months in Prison for Cyberstalking Former Girlfriend and Threatening Workplace Violence | US DOJ USAO | 2020-08-17 | https://www.justice.gov/usao-dc/pr/maryland-man-sentenced-30-months-prison-cyberstalking-former-girlfriend-and-threatening |
-| [2] | Feds: Ex-NSA Employee Cyberstalked and Harassed His Ex-Girlfriend and Her Family for Nearly Two Years | The Daily Beast | 2020-02-13 | https://www.thedailybeast.com/feds-ex-nsa-employee-cyberstalked-and-harassed-his-ex-girlfriend-and-her-family-for-nearly-two-years/ |
-| [3] | United States v. Spann, Case 1:19-cr-00252-ABJ Document 5 (D.D.C., July 25, 2019) | Cryptome (court filing repository) | 2019-07-25 | https://cryptome.org/2019/07/spann-005-007.pdf |
-| [4] | [PR] Maryland Man Sentenced to 30 Months in Prison for Cyberstalking Former Girlfriend and Threatening Workplace Violence | Congress Heights on the Rise | 2020-08-17 | https://www.congressheightsontherise.com/blog/pr-maryland-man-sentenced-to-30-months-in-prison-for-cyberstalking-former-girlfriend-and-threatening-workplace-violence |
-| [5] | Maryland Man Charged with Cyberstalking and More | Bemorelegal Maryland Defense Lawyers | 2020-02-14 | https://www.bemorelegal.com/blog/maryland-man-charged-with-cyberstalking-and-more |
+| [1] | [PR] Maryland Man Sentenced to 30 Months in Prison for Cyberstalking Former Girlfriend and Threatening Workplace Violence | Congress Heights on the Rise | 2020-08-17 | https://www.congressheightsontherise.com/blog/pr-maryland-man-sentenced-to-30-months-in-prison-for-cyberstalking-former-girlfriend-and-threatening-workplace-violence |

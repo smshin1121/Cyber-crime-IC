@@ -59,16 +59,12 @@ challenges_encountered:
 
 lessons_learned:
 
-source_count: 5
+source_count: 1
 sources:
   - "[[2026-04-18_justice-gov_philadelphia-man-sentenced-cyberstalking-and-wire-fraud]]"
-  - "[[2023-12-19_lex18_man-ordered-to-pay-over-338000-to-kentucky-victim-he-stalked-online]]"
-  - "[[2023-05-05_lexington-times_pa-man-extorted-468k-from-prominent-georgetown-resident]]"
-  - "[[2023-05-05_news-graphic_philadelphia-man-indicted-for-blackmailing-local-man]]"
-  - "[[2023-05-05_aol_grand-jury-kentucky-man-paid-468000-online-relationship]]"
 summary: "This domestic-only U.S. follow-on record has been absorbed into the canonical case page [[philadelphia-man-sentenced-for-cyberstalking-and-wire-fraud]]. No visible cross-border mechanism is documented, so it is not treated as a separate international-cooperation operation."
 created: 2026-04-18
-updated: 2026-04-25
+updated: 2026-04-26
 ---
 ## Summary
 
@@ -83,7 +79,3 @@ This domestic-only U.S. follow-on record has been absorbed into the canonical ca
 | # | Title | Publisher | Date | URL |
 |---|---|---|---|---|
 | [1] | Philadelphia Man Sentenced for Cyberstalking and Wire Fraud | US DOJ USAO | 2023-12-19 | https://www.justice.gov/usao-edky/pr/philadelphia-man-sentenced-cyberstalking-and-wire-fraud |
-| [2] | Man ordered to pay over $338,000 to Kentucky victim he stalked online | LEX18 | 2023-12-19 | https://www.lex18.com/news/crime/man-ordered-to-pay-over-338-000-to-kentucky-victim-he-stalked-online |
-| [3] | Indictment: PA man extorted $468K from prominent Georgetown resident | The Lexington Times | 2023-05-05 | https://lexingtonky.news/2023/05/05/indictment-pa-man-extorted-468k-from-prominent-georgetown-resident/ |
-| [4] | Philadelphia man indicted for blackmailing local man | Georgetown News-Graphic | 2023-05-05 | https://www.news-graphic.com/news/philadelphia-man-indicted-for-blackmailing-local-man/article_7d51d1f8-edde-11ed-89b4-4b0ac8e0a199.html |
-| [5] | Grand jury: Kentucky man paid $468,000 in attempt to avoid exposure of online relationship | AOL News (Lexington Herald-Leader wire) | 2023-05-05 | https://www.aol.com/grand-jury-kentucky-man-paid-172038816.html |

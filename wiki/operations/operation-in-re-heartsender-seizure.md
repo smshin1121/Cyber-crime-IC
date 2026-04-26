@@ -52,15 +52,11 @@ challenges_encountered:
 
 lessons_learned:
 
-source_count: 5
+source_count: 1
 sources:
-  - "[[2025-01-29_sdtx_heartsender-seizure]]"
-  - "[[2025-01-30_krebsonsecurity-com_fbi-dutch-police-disrupt-manipulaters-phishing-gang]]"
   - "[[2025-05-28_krebsonsecurity-com_pakistan-arrests-21-in-heartsender-malware-service]]"
-  - "[[2025-01-30_cyberscoop-com_department-of-justice-partners-with-dutch-police-to-break-up-heartsender-network]]"
-  - "[[2025-01-30_hackread-com_heartsender-cybercrime-network-dismantled-in-joint-us-dutch-operation]]"
 created: 2026-04-17
-updated: 2026-04-22
+updated: 2026-04-26
 operation_role: follow-on
 parent_operation: "[[operation-heart-blocker]]"
 summary: "This domestic-only U.S. follow-on record has been absorbed into the canonical case page [[in-re-heartsender-seizure]]. No visible cross-border mechanism is documented, so it is not treated as a separate international-cooperation operation."
@@ -83,8 +79,4 @@ This domestic-only U.S. follow-on record has been absorbed into the canonical ca
 
 | # | Title | Publisher | Date | URL |
 |---|---|---|---|---|
-| [1] | Page not found | U.S. District Court for the Southern District of Texas | 2026-04-17 | https://www.justice.gov/usao-sdtx/pr/international-operation-takes-down-cybercrime-ring-selling-hacking-tools |
-| [2] | FBI, Dutch Police Disrupt 'Manipulaters' Phishing Gang | KrebsOnSecurity | 2025-01-30 | https://krebsonsecurity.com/2025/01/fbi-dutch-police-disrupt-manipulaters-phishing-gang/ |
-| [3] | Pakistan Arrests 21 in 'Heartsender' Malware Service | KrebsOnSecurity | 2025-05-28 | https://krebsonsecurity.com/2025/05/pakistan-arrests-21-in-heartsender-malware-service/ |
-| [4] | Department of Justice partners with Dutch police to break up HeartSender network | CyberScoop | 2025-01-30 | https://cyberscoop.com/doj-saim-raza-heartsender-takedown/ |
-| [5] | HeartSender Cybercrime Network Dismantled in Joint US-Dutch Operation | Hackread | 2025-01-30 | https://hackread.com/heartsender-cybercrime-network-dismantled-us-dutch-op/ |
+| [1] | Pakistan Arrests 21 in 'Heartsender' Malware Service | KrebsOnSecurity | 2025-05-28 | https://krebsonsecurity.com/2025/05/pakistan-arrests-21-in-heartsender-malware-service/ |

@@ -59,16 +59,12 @@ challenges_encountered:
 
 lessons_learned:
 
-source_count: 5
+source_count: 1
 sources:
-  - "[[2026-04-18_justice-gov_moldovan-botnet-operator-indicted-role-conspiracy-unlawfully-access-thousands-infected]]"
   - "[[2024-04-16_fbi_alexander-lefterov-most-wanted-cyber]]"
-  - "[[2024-04-16_secretservice_moldovan-botnet-operator-indicted-role-conspiracy]]"
-  - "[[2024-04-17_bleepingcomputer_moldovan-charged-for-operating-botnet-used-to-push-ransomware]]"
-  - "[[2024-04-17_cyberinsider_botnet-operator-charged-with-major-cyber-crimes-in-the-us]]"
 summary: "This domestic-only U.S. follow-on record has been absorbed into the canonical case page [[us-v-indicted-for-role-in]]. No visible cross-border mechanism is documented, so it is not treated as a separate international-cooperation operation."
 created: 2026-04-18
-updated: 2026-04-25
+updated: 2026-04-26
 ---
 ## Summary
 
@@ -82,8 +78,4 @@ This domestic-only U.S. follow-on record has been absorbed into the canonical ca
 
 | # | Title | Publisher | Date | URL |
 |---|---|---|---|---|
-| [1] | Moldovan Botnet Operator Indicted for Role in Conspiracy to Unlawfully Access Thousands of Infected Computers Throughout the United States | US DOJ USAO | 2024-04-16 | https://www.justice.gov/usao-wdpa/pr/moldovan-botnet-operator-indicted-role-conspiracy-unlawfully-access-thousands-infected |
-| [2] | ALEXANDER LEFTEROV (FBI Most Wanted - Cyber) | Federal Bureau of Investigation | 2024-04-16 | https://www.fbi.gov/wanted/cyber/alexander-lefterov |
-| [3] | Moldovan Botnet Operator Indicted for Role in Conspiracy to Unlawfully Access Thousands of Infected Computers Throughout the United States | U.S. Secret Service | 2024-04-16 | https://www.secretservice.gov/newsroom/releases/2024/04/moldovan-botnet-operator-indicted-role-conspiracy-unlawfully-access |
-| [4] | Moldovan charged for operating botnet used to push ransomware | BleepingComputer | 2024-04-17 | https://www.bleepingcomputer.com/news/security/moldovan-charged-for-operating-botnet-used-to-push-ransomware/ |
-| [5] | Botnet Operator Charged with Major Cyber Crimes in the U.S. | CyberInsider | 2024-04-17 | https://cyberinsider.com/botnet-operator-charged-with-major-cyber-crimes-in-the-u-s/ |
+| [1] | ALEXANDER LEFTEROV (FBI Most Wanted - Cyber) | Federal Bureau of Investigation | 2024-04-16 | https://www.fbi.gov/wanted/cyber/alexander-lefterov |

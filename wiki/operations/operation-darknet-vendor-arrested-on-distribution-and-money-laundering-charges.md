@@ -59,16 +59,12 @@ challenges_encountered:
 
 lessons_learned:
 
-source_count: 5
+source_count: 1
 sources:
   - "[[2026-04-18_justice-gov_darknet-vendor-arrested-distribution-and-money-laundering-charges]]"
-  - "[[2020-12-02_justice-gov_darknet-drug-vendor-arrested-for-distributing-illicit-prescription-drugs]]"
-  - "[[2021-08-04_justice-gov_darknet-drug-vendor-pleads-guilty-to-distributing-illicit-prescription-drugs]]"
-  - "[[2016-10-31_ice-gov_international-darknet-marketplace-enforcement-operation]]"
-  - "[[2016-11-01_fbi-gov_a-primer-on-darknet-marketplaces]]"
 summary: "This domestic-only U.S. follow-on record has been absorbed into the canonical case page [[darknet-vendor-arrested-on-distribution-and-money-laundering-charges]]. No visible cross-border mechanism is documented, so it is not treated as a separate international-cooperation operation."
 created: 2026-04-18
-updated: 2026-04-25
+updated: 2026-04-26
 ---
 ## Summary
 
@@ -83,7 +79,3 @@ This domestic-only U.S. follow-on record has been absorbed into the canonical ca
 | # | Title | Publisher | Date | URL |
 |---|---|---|---|---|
 | [1] | Darknet Vendor Arrested on Distribution and Money Laundering Charges | US DOJ USAO | 2020-04-09 | https://www.justice.gov/usao-edva/pr/darknet-vendor-arrested-distribution-and-money-laundering-charges |
-| [2] | Darknet Drug Vendor Arrested for Distributing Illicit Prescription Drugs | US DOJ USAO | 2020-12-02 | https://www.justice.gov/usao-edva/pr/darknet-drug-vendor-arrested-distributing-illicit-prescription-drugs |
-| [3] | Darknet Drug Vendor Pleads Guilty to Distributing Illicit Prescription Drugs | US DOJ (Eastern District of Virginia) | 2021-08-04 | https://www.justice.gov/usao-edva/pr/darknet-drug-vendor-pleads-guilty-distributing-illicit-prescription-drugs |
-| [4] | Law enforcement agencies around the world collaborate on international Darknet marketplace enforcement operation | U.S. Immigration and Customs Enforcement | 2016-10-31 | https://www.ice.gov/news/releases/law-enforcement-agencies-around-world-collaborate-international-darknet-marketplace |
-| [5] | A Primer on DarkNet Marketplaces | FBI | 2016-11-01 | https://www.fbi.gov/news/stories/a-primer-on-darknet-marketplaces |

@@ -59,16 +59,12 @@ challenges_encountered:
 
 lessons_learned:
 
-source_count: 5
+source_count: 1
 sources:
   - "[[2020-09-01_justice-gov_united-states-v-bryan-connor-herrell]]"
-  - "[[2020-09-02_bleepingcomputer_alphabay-dark-web-marketplace-moderator-gets-11-years-in-prison]]"
-  - "[[2020-09-02_engadget_alphabay-moderator-sentenced-11-years]]"
-  - "[[2020-09-01_cbs-colorado_bryan-herrell-aurora-sentenced-prison-international-dark-web-business]]"
-  - "[[2020-09-02_decrypt_darknet-moderator-paid-bitcoin-sentenced-11-years]]"
 summary: "This domestic-only U.S. follow-on record has been absorbed into the canonical case page [[us-v-bryan-connor-herrell]]. No visible cross-border mechanism is documented, so it is not treated as a separate international-cooperation operation."
 created: 2026-04-17
-updated: 2026-04-25
+updated: 2026-04-26
 ---
 ## Summary
 
@@ -83,7 +79,3 @@ This domestic-only U.S. follow-on record has been absorbed into the canonical ca
 | # | Title | Publisher | Date | URL |
 |---|---|---|---|---|
 | [1] | Colorado Man Sentenced to 11 Years in Prison for Moderating Disputes on Darknet Marketplace Alphabay | US DOJ (Eastern District of California) | 2020-09-01 | https://www.justice.gov/usao-edca/pr/colorado-man-sentenced-11-years-prison-moderating-disputes-darknet-marketplace-alphabay |
-| [2] | AlphaBay dark web marketplace moderator gets 11 years in prison | BleepingComputer | 2020-09-02 | https://www.bleepingcomputer.com/news/security/alphabay-dark-web-marketplace-moderator-gets-11-years-in-prison/ |
-| [3] | AlphaBay dark web moderator sentenced to 11 years in prison | Engadget | 2020-09-02 | https://www.engadget.com/alphabay-moderator-sentenced-104047483.html |
-| [4] | Bryan Herrell Of Aurora Sentenced To Prison For Role In International Dark Web Business | CBS Colorado (CBS News Denver) | 2020-09-01 | https://www.cbsnews.com/colorado/news/bryan-herrell-dark-web-market-darknet-fbi-alphabay-encryption-cazes/ |
-| [5] | Darknet Moderator Paid in Bitcoin Sentenced to 11 years | Decrypt | 2020-09-02 | https://decrypt.co/40531/darknet-moderator-paid-in-bitcoin-sentenced-to-11-years |

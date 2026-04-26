@@ -59,16 +59,12 @@ challenges_encountered:
 
 lessons_learned:
 
-source_count: 5
+source_count: 1
 sources:
   - "[[2026-04-18_justice-gov_notorious-hacker-sentenced-18-months-prison]]"
-  - "[[2023-11-16_securityweek_draftkings-hacker-sentenced-to-18-months-in-prison]]"
-  - "[[2023-11-15_securityaffairs_draftkings-hacker-sentenced-prison-ordered-pay-1-4-million]]"
-  - "[[2023-11-15_justice-gov_us-v-thomas-mccormick-case-page]]"
-  - "[[2023-11-16_cyberwebspider_draftkings-hacker-prison-sentence]]"
 summary: "This domestic-only U.S. follow-on record has been absorbed into the canonical case page [[notorious-hacker-sentenced-to-18-months-in-prison]]. No visible cross-border mechanism is documented, so it is not treated as a separate international-cooperation operation."
 created: 2026-04-18
-updated: 2026-04-25
+updated: 2026-04-26
 ---
 ## Summary
 
@@ -83,7 +79,3 @@ This domestic-only U.S. follow-on record has been absorbed into the canonical ca
 | # | Title | Publisher | Date | URL |
 |---|---|---|---|---|
 | [1] | Notorious Hacker Sentenced to 18 Months in Prison | US DOJ USAO | 2023-11-15 | https://www.justice.gov/usao-dc/pr/notorious-hacker-sentenced-18-months-prison |
-| [2] | DraftKings Hacker Sentenced to 18 Months in Prison | SecurityWeek | 2023-11-16 | https://www.securityweek.com/draftkings-hacker-sentenced-to-18-months-in-prison/ |
-| [3] | DraftKings hacker sentenced to prison, ordered to pay $1.4 Million | Security Affairs | 2023-11-15 | https://securityaffairs.com/154301/cyber-crime/draftkings-hacker-sentenced-to-prison-ordered-to-pay-1-4-million.html |
-| [4] | US v Thomas McCormick (DOJ case page) | U.S. Department of Justice, USAO D.D.C. | 2023-11-15 | https://www.justice.gov/usao-dc/us-v-thomas-mccormick |
-| [5] | DraftKings Hacker Receives Prison Sentence for Cyber Attack | Cyberwebspider | 2023-11-16 | https://cyberwebspider.com/security-week-news/draftkings-hacker-prison-sentence/ |

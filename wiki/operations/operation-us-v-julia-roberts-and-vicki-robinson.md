@@ -59,16 +59,12 @@ challenges_encountered:
 
 lessons_learned:
 
-source_count: 5
+source_count: 1
 sources:
-  - "[[2026-04-18_justice-gov_wyandotte-county-district-court-bookkeepers-indicted-900000-wire-fraud-scheme]]"
-  - "[[2025-09-05_heartlander_wyandotte-county-court-bookkeepers-federally-indicted-embezzling-nearly-million]]"
-  - "[[2025-09-05_kctv5_pair-bookkeepers-federally-charged-after-900k-stolen-courts-account]]"
-  - "[[2025-09-05_kshb_feds-charge-pair-in-scheme-to-steal-900000-from-wyandotte-county-district-court]]"
   - "[[2025-09-05_audacy-knss_kansas-court-bookkeepers-indicted-for-wire-fraud]]"
 summary: "This domestic-only U.S. follow-on record has been absorbed into the canonical case page [[us-v-julia-roberts-and-vicki-robinson]]. No visible cross-border mechanism is documented, so it is not treated as a separate international-cooperation operation."
 created: 2026-04-18
-updated: 2026-04-25
+updated: 2026-04-26
 ---
 ## Summary
 
@@ -82,8 +78,4 @@ This domestic-only U.S. follow-on record has been absorbed into the canonical ca
 
 | # | Title | Publisher | Date | URL |
 |---|---|---|---|---|
-| [1] | Wyandotte County District Court bookkeepers indicted in $900,000 wire fraud scheme | US DOJ USAO | 2025-09-05 | https://www.justice.gov/usao-ks/pr/wyandotte-county-district-court-bookkeepers-indicted-900000-wire-fraud-scheme |
-| [2] | Wyandotte County court bookkeepers federally indicted for embezzling nearly a million | The Heartlander | 2025-09-05 | https://heartlandernews.com/2025/09/05/wyandotte-county-court-bookkeepers-federally-indicted-for-embezzling-nearly-a-million/ |
-| [3] | Pair of bookkeepers federally charged after $900K stolen from Court's account | KCTV5 | 2025-09-05 | https://www.kctv5.com/2025/09/05/pair-bookkeepers-federally-charged-after-900k-stolen-courts-account/ |
-| [4] | Feds charge pair in scheme to steal $900,000 from Wyandotte County District Court | KSHB | 2025-09-05 | https://www.kshb.com/news/crime/feds-charge-pair-in-scheme-to-steal-900-000-from-wyandotte-county-district-court |
-| [5] | Kansas court bookkeepers indicted for wire fraud | Audacy KNSS | 2025-09-05 | https://www.audacy.com/knss/news/local/kansas-court-bookkeepers-indicted-for-wire-fraud |
+| [1] | Kansas court bookkeepers indicted for wire fraud | Audacy KNSS | 2025-09-05 | https://www.audacy.com/knss/news/local/kansas-court-bookkeepers-indicted-for-wire-fraud |

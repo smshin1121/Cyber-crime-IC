@@ -59,16 +59,12 @@ challenges_encountered:
 
 lessons_learned:
 
-source_count: 5
+source_count: 1
 sources:
-  - "[[2026-04-18_justice-gov_santa-clarita-man-found-guilty-producing-child-pornography]]"
-  - "[[2023-05-22_mynewsla_santa-clarita-man-found-guilty-producing-child-pornography]]"
   - "[[2023-05-23_hometownstation_canyon-country-man-found-guilty-producing-possessing-child-pornography]]"
-  - "[[2023-08-25_ktla_former-socal-navy-seal-sentenced-filming-minors-hidden-cameras]]"
-  - "[[2024-03-21_californiachildsexualabuseattorney_santa-clarita-man-sentenced-20-years]]"
 summary: "This domestic-only U.S. follow-on record has been absorbed into the canonical case page [[santa-clarita-man-found-guilty-of-producing-child-pornography]]. No visible cross-border mechanism is documented, so it is not treated as a separate international-cooperation operation."
 created: 2026-04-18
-updated: 2026-04-25
+updated: 2026-04-26
 ---
 ## Summary
 
@@ -82,8 +78,4 @@ This domestic-only U.S. follow-on record has been absorbed into the canonical ca
 
 | # | Title | Publisher | Date | URL |
 |---|---|---|---|---|
-| [1] | Santa Clarita Man Found Guilty of Producing Child Pornography | US DOJ USAO | 2023-05-23 | https://www.justice.gov/usao-cdca/pr/santa-clarita-man-found-guilty-producing-child-pornography |
-| [2] | Santa Clarita Man Found Guilty of Producing Child Pornography | MyNewsLA | 2023-05-22 | https://mynewsla.com/crime/2023/05/22/santa-clarita-man-found-guilty-of-producing-child-pornography/ |
-| [3] | Canyon Country Man Found Guilty Of Producing, Possessing Child Pornography | Hometown Station (KHTS Santa Clarita) | 2023-05-23 | https://www.hometownstation.com/santa-clarita-news/crime/court/canyon-country-man-found-guilty-of-producing-possessing-child-pornography-459641 |
-| [4] | Former Southern California Navy SEAL sentenced for filming minors with hidden cameras | KTLA 5 | 2023-08-25 | https://ktla.com/news/local-news/former-socal-navy-seal-sentenced-filming-minors-hidden-cameras/amp/ |
-| [5] | Santa Clarita Man Sentenced to 20 Years in Prison for Producing Child Sexual Abuse Material | California Child Sexual Abuse Attorney | 2024-03-21 | https://www.californiachildsexualabuseattorney.com/santa-clarita-man-sentenced-to-20-years-in-prison-for-producing-child-sexual-abuse-material/ |
+| [1] | Canyon Country Man Found Guilty Of Producing, Possessing Child Pornography | Hometown Station (KHTS Santa Clarita) | 2023-05-23 | https://www.hometownstation.com/santa-clarita-news/crime/court/canyon-country-man-found-guilty-of-producing-possessing-child-pornography-459641 |

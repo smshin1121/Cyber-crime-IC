@@ -59,16 +59,12 @@ challenges_encountered:
 
 lessons_learned:
 
-source_count: 5
+source_count: 1
 sources:
-  - "[[2026-04-18_justice-gov_darkweb-drug-trafficker-arrested-operation-disruptor-pleads-guilty]]"
   - "[[2026-04-18_justice-gov_ndtx-charges-alleged-darkweb-drug-trafficker-arrested-doj-operation-disruptor]]"
-  - "[[2021-01-06_cbsnews_com_darkweb-drug-trafficker-arrested-in-operation-disruptor-pleads-guilty]]"
-  - "[[2021-08-30_dallasobserver_com_operation-disruptor-plano-man-sentenced-as-feds-target-dark-web-drug-dealers]]"
-  - "[[2020-12-17_cbsnews_com_north-texas-man-pleads-guilty-to-drug-trafficking-crime-on-darkweb]]"
 summary: "This domestic-only U.S. follow-on record has been absorbed into the canonical case page [[us-v-darkweb-drug-trafficker]]. No visible cross-border mechanism is documented, so it is not treated as a separate international-cooperation operation."
 created: 2026-04-18
-updated: 2026-04-25
+updated: 2026-04-26
 ---
 ## Summary
 
@@ -82,8 +78,4 @@ This domestic-only U.S. follow-on record has been absorbed into the canonical ca
 
 | # | Title | Publisher | Date | URL |
 |---|---|---|---|---|
-| [1] | Darkweb Drug Trafficker Arrested in Operation DisrupTor Pleads Guilty | US DOJ USAO | 2020-12-17 | https://www.justice.gov/usao-ndtx/pr/darkweb-drug-trafficker-arrested-operation-disruptor-pleads-guilty |
-| [2] | NDTX Charges Alleged DarkWeb Drug Trafficker Arrested in DOJ Operation DisrupTor | US DOJ USAO | 2020-09-25 | https://www.justice.gov/usao-ndtx/pr/ndtx-charges-alleged-darkweb-drug-trafficker-arrested-doj-operation-disruptor |
-| [3] | Darkweb Drug Trafficker Arrested In Operation DisrupTor Pleads Guilty | CBS Texas | 2021-01-06 | https://www.cbsnews.com/texas/news/darkweb-drug-trafficker-arrested-in-operation-disruptor-pleads-guilty/ |
-| [4] | Operation DisrupTor: Plano Man Sentenced as Feds Target Dark Web Drug Dealers | Dallas Observer | 2021-08-30 | https://www.dallasobserver.com/news/feds-sweep-up-cyberspace-drug-dealers-with-operation-disruptor-12296362 |
-| [5] | North Texas Man Pleads Guilty To Drug Trafficking Crime On Darkweb | CBS Texas | 2020-12-17 | https://www.cbsnews.com/texas/news/north-texas-man-pleads-guilty-drug-trafficking-crime-darkweb/ |
+| [1] | NDTX Charges Alleged DarkWeb Drug Trafficker Arrested in DOJ Operation DisrupTor | US DOJ USAO | 2020-09-25 | https://www.justice.gov/usao-ndtx/pr/ndtx-charges-alleged-darkweb-drug-trafficker-arrested-doj-operation-disruptor |

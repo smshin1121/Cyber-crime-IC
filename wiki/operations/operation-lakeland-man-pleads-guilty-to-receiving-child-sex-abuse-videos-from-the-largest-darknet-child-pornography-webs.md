@@ -73,30 +73,22 @@ credibility_index: 4.5
 source_tier: 1
 missing_fields:
   - "Federal docket number not captured in current wiki source pages"
-
 related_cases:
   - "[[lakeland-man-pleads-guilty-to-receiving-child-sex-abuse-videos-from-the-largest-darknet-child-pornography-webs]]"
 related_operations:
   - "[[operation-lakeland-man-sentenced-to-more-than-9-years-in-federal-prison-for-downloading-and-possessing-child-sex-abuse-v]]"
-
 challenges_encountered:
   - "Foreign server evidence had to be tied to specific user accounts and local device forensics."
-
 lessons_learned:
   - "Cryptocurrency tracing and foreign server seizures can support downstream domestic prosecutions after a multinational darknet takedown."
-
 key_findings:
   - "This page was under-described because the five references contain substantially more than the prior overview/agency metadata."
   - "The public record identifies the defendant as Jack R. Dove III of Lakeland, Florida, not merely 'Lakeland Man'."
   - "The plea arose from the Welcome To Video international takedown, with server seizure in South Korea and investigative roles for HSI, IRS-CI, the UK NCA, and Korean National Police."
   - "The original operation context included 38-country lead dissemination, 337 arrests, and victim-rescue outcomes reported by ICE-HSI."
-source_count: 5
+source_count: 1
 sources:
   - "[[2021-03-30_justice-gov_lakeland-man-pleads-guilty-to-receiving-child-sex-abuse-videos-from-the-largest]]"
-  - "[[2021-03-30_wfla_doj-lakeland-man-used-bitcoin-to-buy-child-porn-on-darknet]]"
-  - "[[2019-10-16_wtsp_florida-men-among-hundreds-charged-in-worldwide-child-porn-website-takedown]]"
-  - "[[2019-10-17_patch_2-florida-men-accused-in-worldwide-kiddie-porn-bust]]"
-  - "[[2019-10-16_ice_south-korean-national-and-hundreds-others-charged-worldwide-takedown-largest-darknet]]"
 summary: "Jack R. Dove III's March 30, 2021 guilty plea was a U.S. follow-on prosecution arising from the Welcome To Video international takedown. The collected references document a South Korea server seizure, Bitcoin-based account/payment evidence, and cooperation among HSI, IRS-CI, the UK NCA, and Korean National Police; the prior page summary was therefore materially incomplete."
 created: 2026-04-18
 updated: 2026-04-26
@@ -143,7 +135,3 @@ The official DOJ plea release provides the defendant-specific case facts. The WF
 | # | Title | Publisher | Date | URL |
 |---|---|---|---|---|
 | [1] | Lakeland Man Pleads Guilty To Receiving Child Sex Abuse Videos From The Largest Darknet Child Pornography Website, Which Was Funded By Bitcoin | US DOJ USAO | 2021-03-30 | https://www.justice.gov/usao-mdfl/pr/lakeland-man-pleads-guilty-receiving-child-sex-abuse-videos-largest-darknet-child |
-| [2] | DOJ: Lakeland man used Bitcoin to buy child porn on 'darknet' | WFLA News (Tampa) | 2021-03-30 | https://www.wfla.com/news/polk-county/doj-lakeland-man-used-bitcoin-to-buy-child-porn-on-darknet/ |
-| [3] | Florida men among hundreds charged in worldwide child porn website takedown | WTSP 10 Tampa Bay | 2019-10-16 | https://www.wtsp.com/article/news/crime/florida-men-among-hundreds-charged-in-worldwide-child-porn-website-takedown/67-872c3aa7-73c9-4704-8e97-c34c29c506d9 |
-| [4] | 2 Florida Men Accused In Worldwide Kiddie-Porn Bust | Patch (Miami, FL) | 2019-10-17 | https://patch.com/florida/miami/2-florida-men-accused-worldwide-kiddie-porn-bust |
-| [5] | South Korean national and hundreds of others charged worldwide in the takedown of the largest darknet child pornography website funded by bitcoin | U.S. Immigration and Customs Enforcement (ICE) - Homeland Security Investigations | 2019-10-16 | https://www.ice.gov/news/releases/south-korean-national-and-hundreds-others-charged-worldwide-takedown-largest-darknet |

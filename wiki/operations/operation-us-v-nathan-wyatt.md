@@ -59,17 +59,12 @@ challenges_encountered:
 
 lessons_learned:
 
-source_count: 6
+source_count: 1
 sources:
-  - "[[2026-04-18_justice-gov_member-dark-overlord-hacking-group-extradited-united-kingdom-face-charges-st-louis]]"
   - "[[2020-09-21_doj-opa_uk-national-sentenced-prison-role-dark-overlord-hacking-group]]"
-  - "[[2019-12-18_doj-opa_member-dark-overlord-hacking-group-extradited-united-kingdom-face-charges-st-louis]]"
-  - "[[2019-12-18_kfvs12_member-dark-overlord-hacking-group-extradited-st-louis]]"
-  - "[[2019-12-19_thehackernews_dark-overlord-hacker-extradited]]"
-  - "[[2020-09-21_engadget_the-dark-overlord-member-sentenced]]"
 summary: "This domestic-only U.S. follow-on record has been absorbed into the canonical case page [[us-v-nathan-wyatt]]. No visible cross-border mechanism is documented, so it is not treated as a separate international-cooperation operation."
 created: 2026-04-18
-updated: 2026-04-25
+updated: 2026-04-26
 ---
 ## Summary
 
@@ -83,9 +78,4 @@ This domestic-only U.S. follow-on record has been absorbed into the canonical ca
 
 | # | Title | Publisher | Date | URL |
 |---|---|---|---|---|
-| [1] | Member of "The Dark Overlord" Hacking Group Extradited from United Kingdom to Face Charges in St. Louis | US DOJ USAO | 2019-12-18 | https://www.justice.gov/usao-edmo/pr/member-dark-overlord-hacking-group-extradited-united-kingdom-face-charges-st-louis |
-| [2] | UK National Sentenced to Prison for Role in 'The Dark Overlord' Hacking Group | US DOJ Office of Public Affairs | 2020-09-21 | https://www.justice.gov/archives/opa/pr/uk-national-sentenced-prison-role-dark-overlord-hacking-group |
-| [3] | Member of 'The Dark Overlord' Hacking Group Extradited From United Kingdom to Face Charges in St. Louis | US DOJ Office of Public Affairs | 2019-12-18 | https://www.justice.gov/archives/opa/pr/member-dark-overlord-hacking-group-extradited-united-kingdom-face-charges-st-louis |
-| [4] | Member of 'The Dark Overlord' hacking group extradited to St. Louis | KFVS12 (Heartland News) | 2019-12-18 | https://www.kfvs12.com/2019/12/18/member-dark-overlord-hacking-group-extradited-st-louis/ |
-| [5] | British Hacker Accused of Blackmailing Healthcare Firms Extradited to U.S. | The Hacker News | 2019-12-19 | https://thehackernews.com/2019/12/dark-overlord-hacker-extradited.html |
-| [6] | 'The Dark Overlord' Hacking Group Member Sentenced to Five Years in Prison | Engadget | 2020-09-21 | https://www.engadget.com/the-dark-overlord-member-sentenced-063851213.html |
+| [1] | UK National Sentenced to Prison for Role in 'The Dark Overlord' Hacking Group | US DOJ Office of Public Affairs | 2020-09-21 | https://www.justice.gov/archives/opa/pr/uk-national-sentenced-prison-role-dark-overlord-hacking-group |

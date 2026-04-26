@@ -59,16 +59,12 @@ challenges_encountered:
 
 lessons_learned:
 
-source_count: 5
+source_count: 1
 sources:
   - "[[2026-04-18_justice-gov_kokomo-resident-arrested-federal-animal-cruelty-charges]]"
-  - "[[2020-07-15_fox59_court-docs-internet-sleuths-assist-feds-alleged-torture-killing-animals-kokomo-woman]]"
-  - "[[2020-07-21_wdrb_kokomo-woman-accused-killing-cats-dogs-hanging-skinning-other-means]]"
-  - "[[2021-02-26_kokomotribune_kokomo-woman-indicted-animal-cruelty-charges]]"
-  - "[[2021-11-10_wthr_plea-deal-kokomo-woman-animal-crushing-case]]"
 summary: "This domestic-only U.S. follow-on record has been absorbed into the canonical case page [[us-v-krystal-cherika-scott]]. No visible cross-border mechanism is documented, so it is not treated as a separate international-cooperation operation."
 created: 2026-04-18
-updated: 2026-04-25
+updated: 2026-04-26
 ---
 ## Summary
 
@@ -83,7 +79,3 @@ This domestic-only U.S. follow-on record has been absorbed into the canonical ca
 | # | Title | Publisher | Date | URL |
 |---|---|---|---|---|
 | [1] | Kokomo resident arrested on federal animal cruelty charges | US DOJ USAO | 2020-07-15 | https://www.justice.gov/usao-sdin/pr/kokomo-resident-arrested-federal-animal-cruelty-charges |
-| [2] | Court docs: Internet sleuths assist feds in alleged torture, killing of animals by Kokomo woman | Fox 59 Indianapolis | 2020-07-15 | https://fox59.com/news/court-docs-internet-sleuths-assist-feds-in-alleged-torture-killing-animals-by-kokomo-woman/ |
-| [3] | Kokomo, Ind., woman accused of killing cats and dogs by 'hanging, skinning and other means' | WDRB | 2020-07-21 | https://www.wdrb.com/news/kokomo-ind-woman-accused-of-killing-cats-and-dogs-by-hanging-skinning-and-other-means/article_3b2a5d92-c6de-11ea-b643-77a8229cbe5e.html |
-| [4] | Kokomo woman indicted on animal cruelty charges | Kokomo Tribune | 2021-02-26 | https://www.kokomotribune.com/news/police_and_fire/kokomo-woman-indicted-on-animal-cruelty-charges/article_d6588b68-786d-11eb-a052-a364227b9aee.html |
-| [5] | Plea deal for Kokomo woman in animal crushing case | WTHR | 2021-11-10 | https://www.wthr.com/article/news/crime/kokomo-woman-to-take-plea-deal-in-animal-torture-and-crushing-krystal-scott-sentencing-howard-county-indiana/531-395afe2d-283a-46ef-aa96-de7e6217c9b0 |

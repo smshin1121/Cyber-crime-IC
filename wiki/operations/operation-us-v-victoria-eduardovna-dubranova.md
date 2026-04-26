@@ -59,16 +59,12 @@ challenges_encountered:
 
 lessons_learned:
 
-source_count: 5
+source_count: 1
 sources:
-  - "[[2026-04-18_justice-gov_justice-department-announces-actions-combat-two-russian-state-sponsored-cyber-criminal]]"
   - "[[2025-12-09_cyberscoop_us-charges-russian-backed-hacker-critical-infrastructure-attacks-carr-noname05716]]"
-  - "[[2025-12-09_nbclosangeles_ukrainian-national-charged-la-computer-hacking-russia]]"
-  - "[[2025-12-09_foxnews_ukrainian-woman-charged-russian-backed-cyberattacks-10m-reward]]"
-  - "[[2025-12-09_bleepingcomputer_ukrainian-hacker-charged-helping-russian-hacktivist-groups]]"
 summary: "This domestic-only U.S. follow-on record has been absorbed into the canonical case page [[us-v-victoria-eduardovna-dubranova]]. No visible cross-border mechanism is documented, so it is not treated as a separate international-cooperation operation."
 created: 2026-04-18
-updated: 2026-04-25
+updated: 2026-04-26
 ---
 ## Summary
 
@@ -82,8 +78,4 @@ This domestic-only U.S. follow-on record has been absorbed into the canonical ca
 
 | # | Title | Publisher | Date | URL |
 |---|---|---|---|---|
-| [1] | Justice Department Announces Actions to Combat Two Russian State-Sponsored Cyber Criminal Hacking Groups | US DOJ USAO | 2025-12-09 | https://www.justice.gov/usao-cdca/pr/justice-department-announces-actions-combat-two-russian-state-sponsored-cyber-criminal |
-| [2] | US charges hacker tied to Russian groups that targeted water systems and meat plants | CyberScoop | 2025-12-09 | https://cyberscoop.com/us-charges-russian-backed-hacker-critical-infrastructure-attacks-carr-noname05716/ |
-| [3] | Ukrainian national charged in LA with computer hacking in support of Russia | NBC Los Angeles (KNBC-TV) | 2025-12-09 | https://www.nbclosangeles.com/news/local/ukranian-national-charged-in-la-with-computer-hacking-in-support-of-russia/3813960/ |
-| [4] | Ukrainian woman charged over Russian-backed cyberattacks; $10M reward offered for others | Fox News | 2025-12-09 | https://www.foxnews.com/us/ukrainian-woman-charged-over-russian-backed-cyberattacks-10m-reward-offered-others |
-| [5] | Ukrainian hacker charged with helping Russian hacktivist groups | BleepingComputer | 2025-12-09 | https://www.bleepingcomputer.com/news/security/ukrainian-hacker-charged-with-helping-russian-hacktivist-groups/ |
+| [1] | US charges hacker tied to Russian groups that targeted water systems and meat plants | CyberScoop | 2025-12-09 | https://cyberscoop.com/us-charges-russian-backed-hacker-critical-infrastructure-attacks-carr-noname05716/ |

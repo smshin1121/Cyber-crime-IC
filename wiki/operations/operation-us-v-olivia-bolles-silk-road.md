@@ -51,14 +51,11 @@ challenges_encountered:
 
 lessons_learned:
 
-source_count: 4
+source_count: 1
 sources:
   - "[[2015-04-27_mdfl_olivia-bolles-silk-road-sentencing]]"
-  - "[[2014-10-03_wtop_del-doctor-sentenced-silk-road-drug-sales-case]]"
-  - "[[2014-10-03_washingtontimes_del-doctor-sentenced-silk-road-drug-sales-case]]"
-  - "[[2013-11-25_dailydot_olivia-bolles-alexandra-gold-silk-road-arrested-oxycontin]]"
 created: 2026-04-17
-updated: 2026-04-25
+updated: 2026-04-26
 operation_role: follow-on
 parent_operation: "[[silk-road-takedown]]"
 summary: "This domestic-only U.S. follow-on record has been absorbed into the canonical case page [[us-v-olivia-bolles-silk-road]]. No visible cross-border mechanism is documented, so it is not treated as a separate international-cooperation operation."
@@ -82,6 +79,3 @@ This domestic-only U.S. follow-on record has been absorbed into the canonical ca
 | # | Title | Publisher | Date | URL |
 |---|---|---|---|---|
 | [1] | Delaware Doctor Who Illegally Sold Controlled Substances On The Silk Road Drug Marketplace Sentenced To Five Years In Prison | US DOJ (Middle District of Florida) | 2015-04-27 | https://www.justice.gov/usao-mdfl/pr/delaware-doctor-who-illegally-sold-controlled-substances-silk-road-drug-marketplace |
-| [2] | Del. doctor sentenced in Silk Road drug sales case | WTOP News | 2014-10-03 | https://wtop.com/news/2014/10/del-doctor-sentenced-in-silk-road-drug-sales-case/ |
-| [3] | Del. doctor sentenced in Silk Road drug sales case | The Washington Times | 2014-10-03 | https://www.washingtontimes.com/news/2014/oct/3/del-doctor-sentenced-in-silk-road-drug-sales-case/ |
-| [4] | How the DEA tracked this doctor from the Silk Road to her front door | The Daily Dot | 2013-11-25 | https://www.dailydot.com/crime/olivia-bolles-alexandra-gold-silk-road-arrested-oxycontin/ |

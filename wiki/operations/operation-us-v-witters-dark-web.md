@@ -59,16 +59,12 @@ challenges_encountered:
 
 lessons_learned:
 
-source_count: 5
+source_count: 1
 sources:
   - "[[2019-12-17_wdwa_witters-dark-web-fentanyl-sentencing]]"
-  - "[[2019-12-18_ice-gov_dark-web-fentanyl-dealer-sentenced-7-years-prison]]"
-  - "[[2019-12-17_komonews_seattle-man-7-years-dealing-fentanyl-dark-web]]"
-  - "[[2019-12-17_thenextweb_top-fentanyl-seller-alphabay-dream-market-sentenced-7-years-prison]]"
-  - "[[2019-12-17_kiro7_seattle-man-sentenced-seven-years-prison-selling-fentanyl-dark-web]]"
 summary: "This domestic-only U.S. follow-on record has been absorbed into the canonical case page [[us-v-witters-dark-web]]. No visible cross-border mechanism is documented, so it is not treated as a separate international-cooperation operation."
 created: 2026-04-17
-updated: 2026-04-25
+updated: 2026-04-26
 ---
 ## Summary
 
@@ -83,7 +79,3 @@ This domestic-only U.S. follow-on record has been absorbed into the canonical ca
 | # | Title | Publisher | Date | URL |
 |---|---|---|---|---|
 | [1] | Dark web fentanyl dealer sentenced to 7 years in prison | US DOJ (Western District of Washington) | 2019-12-17 | https://www.justice.gov/usao-wdwa/pr/dark-web-fentanyl-dealer-sentenced-7-years-prison |
-| [2] | Dark web fentanyl dealer sentenced to 7 years in prison | ICE / HSI | 2019-12-18 | https://www.ice.gov/news/releases/dark-web-fentanyl-dealer-sentenced-7-years-prison |
-| [3] | Seattle man gets 7 years for dealing fentanyl on dark web | KOMO News | 2019-12-17 | https://komonews.com/news/local/seattle-man-gets-8-years-for-dealing-fentanyl-on-dark-web |
-| [4] | Top fentanyl seller on AlphaBay and Dream Market sentenced to 7 years prison | The Next Web | 2019-12-17 | https://thenextweb.com/news/bitcoin-cryptocurrency-fentanyl-alphabay-dream-market-dark-web-prison |
-| [5] | Seattle man sentenced to seven years in prison for selling fentanyl on dark web | KIRO 7 News Seattle | 2019-12-17 | https://www.kiro7.com/news/local/seattle-man-sentenced-seven-years-prison-selling-fentanyl-dark-web/52OC4TM44BA2RDLPPCE3BZZER4/ |

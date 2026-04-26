@@ -59,16 +59,12 @@ challenges_encountered:
 
 lessons_learned:
 
-source_count: 5
+source_count: 1
 sources:
-  - "[[2026-04-18_justice-gov_two-sudanese-nationals-indicted-alleged-role-anonymous-sudan-cyberattacks-hospitals]]"
-  - "[[2024-10-16_therecord_anonymous-sudan-brothers-charged-ddos-attacks-hospital-critical-infrastructure]]"
-  - "[[2024-10-16_cbsnews_2-sudanese-brothers-charged-cyber-attack-for-hire-gang]]"
   - "[[2024-10-17_krebsonsecurity_sudanese-brothers-arrested-anonsudan-takedown]]"
-  - "[[2024-10-17_theregister_two-alleged-operators-anonymous-sudan-named-charged]]"
 summary: "This domestic-only U.S. follow-on record has been absorbed into the canonical case page [[us-v-ahmed-salah-yousif-omer-and-alaa-salah-yusuuf-omer]]. No visible cross-border mechanism is documented, so it is not treated as a separate international-cooperation operation."
 created: 2026-04-18
-updated: 2026-04-25
+updated: 2026-04-26
 ---
 ## Summary
 
@@ -82,8 +78,4 @@ This domestic-only U.S. follow-on record has been absorbed into the canonical ca
 
 | # | Title | Publisher | Date | URL |
 |---|---|---|---|---|
-| [1] | Two Sudanese Nationals Indicted for Alleged Role in Anonymous Sudan Cyberattacks on Hospitals, Government Facilities, and Other Critical Infrastructure in Los Angeles and Around the World | US DOJ USAO | 2024-10-16 | https://www.justice.gov/usao-cdca/pr/two-sudanese-nationals-indicted-alleged-role-anonymous-sudan-cyberattacks-hospitals |
-| [2] | Sudanese brothers charged for 'Anonymous Sudan' attacks targeting critical infrastructure, government agencies and hospitals | The Record (Recorded Future News) | 2024-10-16 | https://therecord.media/anonymous-sudan-brothers-charged-ddos-attacks-hospital-critical-infrastructure |
-| [3] | 2 Sudanese brothers charged with running cyberattack-for-hire gang | CBS News | 2024-10-16 | https://www.cbsnews.com/news/2-sudanese-nationals-charged-cyber-attack-for-hire-gang/ |
-| [4] | Sudanese Brothers Arrested in 'AnonSudan' Takedown | KrebsOnSecurity | 2024-10-17 | https://krebsonsecurity.com/2024/10/sudanese-brothers-arrested-in-anonsudan-takedown/ |
-| [5] | Two alleged operators of Anonymous Sudan named, charged | The Register | 2024-10-17 | https://www.theregister.com/2024/10/17/anonymous_sudan_arrests_charges/ |
+| [1] | Sudanese Brothers Arrested in 'AnonSudan' Takedown | KrebsOnSecurity | 2024-10-17 | https://krebsonsecurity.com/2024/10/sudanese-brothers-arrested-in-anonsudan-takedown/ |

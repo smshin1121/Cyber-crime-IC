@@ -59,16 +59,12 @@ challenges_encountered:
 
 lessons_learned:
 
-source_count: 5
+source_count: 1
 sources:
   - "[[2026-04-18_justice-gov_former-privacy-consultant-convicted-cyberstalking-campaign-against-former-roommate-her]]"
-  - "[[2024-07-11_secretservice-gov_pernicious-cyberstalker-sentenced-9-years-unrelenting-harassment-former-roommate]]"
-  - "[[2024-07-11_justice-gov-opa_former-computer-privacy-consultant-convicted-cyberstalking]]"
-  - "[[2024-03-25_cybernews_privacy-consultant-convicted-of-cyberstalking]]"
-  - "[[2024-07-11_theregister_cyberstalking-expert-jailed-after-grotesque-online-threats]]"
 summary: "This domestic-only U.S. follow-on record has been absorbed into the canonical case page [[us-v-sumit-garg]]. No visible cross-border mechanism is documented, so it is not treated as a separate international-cooperation operation."
 created: 2026-04-18
-updated: 2026-04-25
+updated: 2026-04-26
 ---
 ## Summary
 
@@ -83,7 +79,3 @@ This domestic-only U.S. follow-on record has been absorbed into the canonical ca
 | # | Title | Publisher | Date | URL |
 |---|---|---|---|---|
 | [1] | Former privacy consultant convicted of cyberstalking campaign against former roommate, her family members, boyfriend, police and prosecutors | US DOJ USAO | 2024-03-22 | https://www.justice.gov/usao-wdwa/pr/former-privacy-consultant-convicted-cyberstalking-campaign-against-former-roommate-her |
-| [2] | Pernicious Cyberstalker Sentenced to 9 Years in Prison for Unrelenting Harassment of Former Roommate and Others | United States Secret Service | 2024-07-11 | https://www.secretservice.gov/newsroom/releases/2024/07/pernicious-cyberstalker-sentenced-9-years-prison-unrelenting-harassment |
-| [3] | Former Computer Privacy Consultant Convicted of Cyberstalking | US DOJ Office of Public Affairs | 2024-03-22 | https://www.justice.gov/opa/pr/former-computer-privacy-consultant-convicted-cyberstalking |
-| [4] | Privacy consultant convicted of cyberstalking | Cybernews | 2024-03-25 | https://cybernews.com/security/privacy-consultant-convicted-of-cyberstalking/ |
-| [5] | Cyberstalking expert jailed after 'grotesque' online threats | The Register | 2024-07-11 | https://www.theregister.com/2024/07/11/cyberstalker_jailed |

@@ -59,16 +59,12 @@ challenges_encountered:
 
 lessons_learned:
 
-source_count: 5
+source_count: 1
 sources:
   - "[[2026-04-18_justice-gov_twelve-people-charged-two-indictments-following-investigation-drug-trafficking-ring]]"
-  - "[[2024-11-06_justice-gov-wdwa_twelve-indicted-connection-violent-drug-trafficking-gang-distributed-fentanyl-seattle]]"
-  - "[[2024-11-06_dhs-hsi_hsi-seattle-operation-12-indictments-violent-drug-trafficking-organization]]"
-  - "[[2024-09-19_justice-gov-wdwa_twelve-arrested-takedown-north-sound-drug-trafficking-organization]]"
-  - "[[2024-10-03_justice-gov-wdwa_fourteen-indicted-multi-state-drug-trafficking-conspiracy-lummi-nation]]"
 summary: "This domestic-only U.S. follow-on record has been absorbed into the canonical case page [[twelve-people-charged-in-two-indictments-following-investigation-of-drug-trafficking-ring]]. No visible cross-border mechanism is documented, so it is not treated as a separate international-cooperation operation."
 created: 2026-04-18
-updated: 2026-04-25
+updated: 2026-04-26
 ---
 ## Summary
 
@@ -83,7 +79,3 @@ This domestic-only U.S. follow-on record has been absorbed into the canonical ca
 | # | Title | Publisher | Date | URL |
 |---|---|---|---|---|
 | [1] | Twelve people charged in two indictments following investigation of drug trafficking ring | US DOJ USAO | 2021-06-30 | https://www.justice.gov/usao-wdwa/pr/twelve-people-charged-two-indictments-following-investigation-drug-trafficking-ring |
-| [2] | Twelve indicted in connection with violent drug trafficking gang distributed fentanyl Seattle | USAO WDWA | 2024-11-06 | https://www.justice.gov/usao-wdwa/pr/twelve-indicted-connection-violent-drug-trafficking-gang-distributed-fentanyl-seattle |
-| [3] | HSI Seattle Operation Leads to 12 Indictments in Connection With Violent Drug Trafficking Organization | DHS Homeland Security Investigations | 2024-11-06 | https://www.dhs.gov/hsi/news/2024/11/06/hsi-seattle-operation-leads-12-indictments-connection-violent-drug-trafficking |
-| [4] | Twelve arrested in takedown of North Sound drug trafficking organization | USAO WDWA | 2024-09-19 | https://www.justice.gov/usao-wdwa/pr/twelve-arrested-takedown-north-sound-drug-trafficking-organization |
-| [5] | Fourteen indicted in multi-state drug trafficking conspiracy linked to deadly fentanyl distributed to members of the Lummi Nation | USAO WDWA | 2024-10-03 | https://www.justice.gov/usao-wdwa/pr/fourteen-indicted-multi-state-drug-trafficking-conspiracy-linked-deadly-fentanyl |

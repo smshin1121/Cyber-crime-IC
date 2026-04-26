@@ -59,16 +59,12 @@ challenges_encountered:
 
 lessons_learned:
 
-source_count: 5
+source_count: 1
 sources:
   - "[[2026-04-18_justice-gov_jefferson-county-man-sentenced-6-years-prison-possession-child-pornography]]"
-  - "[[2021-05-20_wbrc_jefferson-co-man-had-58000-images-of-child-pornography]]"
-  - "[[2021-05-21_patch_jefferson-county-man-sentenced-on-child-porn-charges]]"
-  - "[[2021-05-20_trussvilletribune_jefferson-county-man-sentenced-in-darknet-child-porn-case]]"
-  - "[[2021-05-20_abc3340_jefferson-county-man-sentenced-to-6-years-for-possession-of-child-pornography]]"
 summary: "This domestic-only U.S. follow-on record has been absorbed into the canonical case page [[jefferson-county-man-sentenced-to-6-12-years-in-prison-for-possession-of-child-pornography]]. No visible cross-border mechanism is documented, so it is not treated as a separate international-cooperation operation."
 created: 2026-04-18
-updated: 2026-04-25
+updated: 2026-04-26
 ---
 ## Summary
 
@@ -83,7 +79,3 @@ This domestic-only U.S. follow-on record has been absorbed into the canonical ca
 | # | Title | Publisher | Date | URL |
 |---|---|---|---|---|
 | [1] | Jefferson County Man Sentenced to 6 ½ Years in Prison for Possession of Child Pornography | US DOJ USAO | 2021-05-21 | https://www.justice.gov/usao-ndal/pr/jefferson-county-man-sentenced-6-years-prison-possession-child-pornography |
-| [2] | Prosecutors: Jefferson Co. man had 58,000 images of child pornography | WBRC (Birmingham) | 2021-05-20 | https://www.wbrc.com/2021/05/20/prosecutors-jefferson-co-man-had-images-child-pornography/ |
-| [3] | Jefferson County Man Sentenced On Child Porn Charges | Patch (Birmingham, AL) | 2021-05-21 | https://patch.com/alabama/birmingham-al/jefferson-county-man-sentenced-child-porn-charges |
-| [4] | Jefferson County man sentenced in Darknet child porn case | The Trussville Tribune | 2021-05-20 | https://www.trussvilletribune.com/2021/05/20/jefferson-county-man-sentenced-in-darknet-child-porn-case/ |
-| [5] | Jefferson County man sentenced to over 6 years for possession of child pornography | ABC 33/40 (WBMA Birmingham) | 2021-05-20 | https://abc3340.com/news/local/jefferson-county-man-sentenced-to-6-years-for-possession-of-child-pornography |

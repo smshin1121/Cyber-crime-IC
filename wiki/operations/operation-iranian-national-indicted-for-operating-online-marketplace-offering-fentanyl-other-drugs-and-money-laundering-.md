@@ -59,16 +59,12 @@ challenges_encountered:
 
 lessons_learned:
 
-source_count: 5
+source_count: 1
 sources:
   - "[[2026-04-18_justice-gov_iranian-national-indicted-operating-online-marketplace-offering-fentanyl-other-drugs]]"
-  - "[[2025-04-17_opa_parsarad-nemesis-indictment]]"
-  - "[[2025-03-05_securityweek_us-sanctions-iranian-administrator-nemesis-darknet-marketplace]]"
-  - "[[2024-03-21_therecord-media_nemesis-darknet-marketplace-raided-in-germany-led-operation]]"
-  - "[[2024-03-21_bka-de_illegaler-darknet-marktplatz-nemesis-market-abgeschaltet]]"
 summary: "This domestic-only U.S. follow-on record has been absorbed into the canonical case page [[iranian-national-indicted-for-operating-online-marketplace-offering-fentanyl-other-drugs-and-money-laundering-]]. No visible cross-border mechanism is documented, so it is not treated as a separate international-cooperation operation."
 created: 2026-04-18
-updated: 2026-04-25
+updated: 2026-04-26
 ---
 ## Summary
 
@@ -83,7 +79,3 @@ This domestic-only U.S. follow-on record has been absorbed into the canonical ca
 | # | Title | Publisher | Date | URL |
 |---|---|---|---|---|
 | [1] | Iranian National Indicted for Operating Online Marketplace Offering Fentanyl, Other Drugs, and Money Laundering Services | US DOJ USAO | 2025-04-17 | https://www.justice.gov/usao-ndoh/pr/iranian-national-indicted-operating-online-marketplace-offering-fentanyl-other-drugs |
-| [2] | Page not found | U.S. Department of Justice | 2025-04-17 | https://www.justice.gov/opa/pr/administrator-nemesis-market-charged-role-operating-darknet-marketplace |
-| [3] | US Sanctions Iranian Administrator of Nemesis Darknet Marketplace | SecurityWeek | 2025-03-05 | https://www.securityweek.com/us-sanctions-iranian-administrator-of-nemesis-darknet-marketplace/ |
-| [4] | Nemesis darknet marketplace raided in Germany-led operation | The Record | 2024-03-21 | https://therecord.media/nemesis-cybercrime-market-takedown-germany?web_view=true |
-| [5] | Illegaler Darknet-Marktplatz "Nemesis Market" abgeschaltet | Bundeskriminalamt / ZIT Frankfurt | 2024-03-21 | https://www.bka.de/DE/Presse/Listenseite_Pressemitteilungen/2024/Presse2024/240321_PM_Nemesis_Market.html |

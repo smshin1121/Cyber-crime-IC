@@ -59,16 +59,12 @@ challenges_encountered:
 
 lessons_learned:
 
-source_count: 5
+source_count: 1
 sources:
-  - "[[2019-12-05_justice-gov_russian-national-charged-with-decade-long-series-of-hacking-and-bank-fraud]]"
   - "[[2019-12-05_treasury_sanctions-russia-based-evil-corp-tri-lateral-uk-australia]]"
-  - "[[2019-12-05_aljazeera_russian-evil-corp-hackers-charged-100m-cyber-theft]]"
-  - "[[2019-12-05_bleepingcomputer_evil-corp-hackers-charged-stealing-100-million]]"
-  - "[[2019-12-05_npr_russian-hacking-group-evil-corp-charged-bank-fraud]]"
 summary: "This domestic-only U.S. follow-on record has been absorbed into the canonical case page [[us-v-igor-turashev]]. No visible cross-border mechanism is documented, so it is not treated as a separate international-cooperation operation."
 created: 2026-04-18
-updated: 2026-04-25
+updated: 2026-04-26
 ---
 ## Summary
 
@@ -82,8 +78,4 @@ This domestic-only U.S. follow-on record has been absorbed into the canonical ca
 
 | # | Title | Publisher | Date | URL |
 |---|---|---|---|---|
-| [1] | Russian National Charged with Decade-Long Series of Hacking and Bank Fraud Offenses Resulting in Tens of Millions in Losses and Second Russian National Charged with Involvement in Deployment of “Bugat” Malware | US DOJ | 2019-12-05 | https://www.justice.gov/archives/opa/pr/russian-national-charged-decade-long-series-hacking-and-bank-fraud-offenses-resulting-tens |
-| [2] | Treasury Sanctions Members of the Russia-Based Cybercriminal Group Evil Corp in Tri-Lateral Action with the United Kingdom and Australia | U.S. Department of the Treasury | 2019-12-05 | https://home.treasury.gov/news/press-releases/jy2623 |
-| [3] | Russian 'Evil Corp' hackers charged by US in $100m cyber theft | Al Jazeera | 2019-12-05 | https://www.aljazeera.com/news/2019/12/6/russian-evil-corp-hackers-charged-by-us-in-100m-cyber-theft |
-| [4] | Evil Corp Hackers Charged For Stealing Over $100 Million | BleepingComputer | 2019-12-05 | https://www.bleepingcomputer.com/news/security/evil-corp-hackers-charged-for-stealing-over-100-million/ |
-| [5] | Russian Hacking Group Evil Corp. Charged By Federal Prosecutors In Alleged Bank Fraud | NPR | 2019-12-05 | https://www.npr.org/2019/12/05/785034567/russian-hacking-group-evil-corp-charged-by-federal-prosecutors-in-alleged-bank-f |
+| [1] | Treasury Sanctions Members of the Russia-Based Cybercriminal Group Evil Corp in Tri-Lateral Action with the United Kingdom and Australia | U.S. Department of the Treasury | 2019-12-05 | https://home.treasury.gov/news/press-releases/jy2623 |

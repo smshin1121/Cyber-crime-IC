@@ -59,16 +59,12 @@ challenges_encountered:
 
 lessons_learned:
 
-source_count: 5
+source_count: 1
 sources:
-  - "[[2026-04-18_justice-gov_covina-man-sentenced-18-months-prison-cyberstalking]]"
-  - "[[2021-04-14_ktla_covina-man-18-months-cyberstalking-threatening-kill]]"
-  - "[[2020-12-18_nbcla_incel-pleads-guilty-harassing-teen-girls-online]]"
   - "[[2021-04-15_infosecmag_us-imprisons-sadistic-sextortionist]]"
-  - "[[2020-02-18_nbcnews_california-man-incel-ideology-threatening-teens]]"
 summary: "This domestic-only U.S. follow-on record has been absorbed into the canonical case page [[us-v-carl-de-vera-bennington]]. No visible cross-border mechanism is documented, so it is not treated as a separate international-cooperation operation."
 created: 2026-04-18
-updated: 2026-04-25
+updated: 2026-04-26
 ---
 ## Summary
 
@@ -82,8 +78,4 @@ This domestic-only U.S. follow-on record has been absorbed into the canonical ca
 
 | # | Title | Publisher | Date | URL |
 |---|---|---|---|---|
-| [1] | Covina Man Sentenced to 18 Months in Prison for Cyberstalking | US DOJ USAO | 2021-04-14 | https://www.justice.gov/usao-cdca/pr/covina-man-sentenced-18-months-prison-cyberstalking |
-| [2] | Covina man gets 18 months in prison for cyberstalking, threatening to kill 2 victims unless they did sex acts | KTLA | 2021-04-14 | https://ktla.com/news/local-news/covina-man-gets-18-months-in-prison-for-cyberstalking-threatening-to-kill-2-victims-unless-they-do-sex-acts/ |
-| [3] | Self-Professed Incel Pleads Guilty to Harassing Teen Girls Online | NBC Los Angeles | 2020-12-18 | https://www.nbclosangeles.com/news/carl-de-vera-bennington-incel-harassing-teen-girls/2489166/ |
-| [4] | US Imprisons 'Sadistic' Sextortionist | Infosecurity Magazine | 2021-04-15 | https://www.infosecurity-magazine.com/news/us-imprisons-sadistic/ |
-| [5] | California man promoting 'incel ideology' charged with allegedly threatening teens | NBC News | 2020-02-18 | https://www.nbcnews.com/news/us-news/california-man-promoting-incel-ideology-charged-allegedly-threatening-teens-n1189206 |
+| [1] | US Imprisons 'Sadistic' Sextortionist | Infosecurity Magazine | 2021-04-15 | https://www.infosecurity-magazine.com/news/us-imprisons-sadistic/ |

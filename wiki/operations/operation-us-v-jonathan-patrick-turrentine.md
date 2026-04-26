@@ -59,16 +59,12 @@ challenges_encountered:
 
 lessons_learned:
 
-source_count: 5
+source_count: 1
 sources:
-  - "[[2026-04-18_justice-gov_sacramento-man-indicted-drug-distribution-darknet]]"
-  - "[[2021-10-26_eurojust_150-arrested-dark-web-drug-bust-police-seize-eur-26-million]]"
-  - "[[2021-10-27_welivesecurity_dark-huntor-150-arrested-31-million-seized-major-dark-web-bust]]"
-  - "[[2021-10-26_darkreading_doj-europol-arrest-150-in-disruption-of-darknet-drug-operation]]"
   - "[[2021-10-26_wikipedia_operation-dark-huntor]]"
 summary: "This domestic-only U.S. follow-on record has been absorbed into the canonical case page [[us-v-jonathan-patrick-turrentine]]. No visible cross-border mechanism is documented, so it is not treated as a separate international-cooperation operation."
 created: 2026-04-18
-updated: 2026-04-25
+updated: 2026-04-26
 ---
 ## Summary
 
@@ -82,8 +78,4 @@ This domestic-only U.S. follow-on record has been absorbed into the canonical ca
 
 | # | Title | Publisher | Date | URL |
 |---|---|---|---|---|
-| [1] | Sacramento Man Indicted for Drug Distribution Via the Darknet | US DOJ USAO | 2021-10-26 | https://www.justice.gov/usao-edca/pr/sacramento-man-indicted-drug-distribution-darknet |
-| [2] | 150 arrested in dark web drug bust as police seize EUR 26 million | Eurojust | 2021-10-26 | https://www.eurojust.europa.eu/news/150-arrested-dark-web-drug-bust-police-seize-eur-26-million |
-| [3] | Dark HunTOR: 150 arrested, $31 million seized in major dark web bust | WeLiveSecurity (ESET) | 2021-10-27 | https://www.welivesecurity.com/2021/10/27/dark-huntor-150-arrested-31-million-seized-major-dark-web-bust/ |
-| [4] | DoJ & Europol Arrest 150 in Disruption of DarkNet Drug Operation | Dark Reading | 2021-10-26 | https://www.darkreading.com/threat-intelligence/doj-europol-arrest-150-in-disruption-of-darknet-drug-operation |
-| [5] | Operation Dark HunTor (Wikipedia article) | Wikipedia | 2021-10-26 | https://en.wikipedia.org/wiki/Operation_Dark_HunTor |
+| [1] | Operation Dark HunTor (Wikipedia article) | Wikipedia | 2021-10-26 | https://en.wikipedia.org/wiki/Operation_Dark_HunTor |

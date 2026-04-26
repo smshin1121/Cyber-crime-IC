@@ -59,16 +59,12 @@ challenges_encountered:
 
 lessons_learned:
 
-source_count: 5
+source_count: 1
 sources:
   - "[[2026-04-18_justice-gov_man-pleads-guilty-charges-stealing-senate-information-illegally-posting-restricted]]"
-  - "[[2019-04-05_washingtontimes_ex-democratic-staffer-guilty-doxing-gop-senators]]"
-  - "[[2019-06-19_thedailybeast_ex-senate-staffer-jackson-cosko-sentenced-4-years]]"
-  - "[[2019-06-19_washingtonexaminer_former-democratic-aide-headed-to-prison-doxing-republican-senators]]"
-  - "[[2019-04-05_thehill_former-democratic-aide-pleads-guilty-doxing-gop-senators]]"
 summary: "This domestic-only U.S. follow-on record has been absorbed into the canonical case page [[us-v-stealing-senate-information]]. No visible cross-border mechanism is documented, so it is not treated as a separate international-cooperation operation."
 created: 2026-04-18
-updated: 2026-04-25
+updated: 2026-04-26
 ---
 ## Summary
 
@@ -83,7 +79,3 @@ This domestic-only U.S. follow-on record has been absorbed into the canonical ca
 | # | Title | Publisher | Date | URL |
 |---|---|---|---|---|
 | [1] | Man Pleads Guilty to Charges of Stealing Senate Information, Illegally Posting Restricted Personal Information of U.S. Senators on Website | US DOJ USAO | 2019-04-05 | https://www.justice.gov/usao-dc/pr/man-pleads-guilty-charges-stealing-senate-information-illegally-posting-restricted |
-| [2] | Jackson A. Cosko, former Democratic staffer, pleads guilty to 'doxing' Republican senators | Washington Times | 2019-04-05 | https://www.washingtontimes.com/news/2019/apr/5/ex-democratic-staffer-guilty-doxing-gop-senators/ |
-| [3] | Ex-Senate Staffer Jackson Cosko Sentenced to 4 Years for Doxxing Five Senators | The Daily Beast | 2019-06-19 | https://www.thedailybeast.com/ex-senate-staffer-jackson-cosko-sentenced-to-4-years-for-doxxing-five-senators/ |
-| [4] | Former Democratic aide headed to prison for 'doxing' five Republican senators | Washington Examiner | 2019-06-19 | https://www.washingtonexaminer.com/news/1623575/former-democratic-aide-headed-to-prison-for-doxing-five-republican-senators/ |
-| [5] | Former Democratic aide pleads guilty to doxing GOP senators attending Kavanaugh hearing | The Hill | 2019-04-05 | https://thehill.com/homenews/senate/437690-former-democratic-aide-pleads-guilty-to-doxing-gop-senators-attending/ |

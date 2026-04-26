@@ -59,16 +59,12 @@ challenges_encountered:
 
 lessons_learned:
 
-source_count: 5
+source_count: 1
 sources:
   - "[[2026-04-18_justice-gov_silk-road-dark-web-fraud-defendant-sentenced-following-seizure-and-forfeiture-over-34]]"
-  - "[[2023-04-14_bloomberg_bitcoin-thief-once-worth-3-4-billion-gets-year-prison]]"
-  - "[[2023-04-14_fortune_theft-bitcoin-3-billion-leads-one-year-prison-sentence-james-zhong]]"
-  - "[[2023-04-14_cointelegraph_individual-behind-3-4b-silk-road-bitcoin-theft-sentenced]]"
-  - "[[2023-10-17_cnbc_secret-life-jimmy-zhong-stole-lost-3-billion]]"
 summary: "This domestic-only U.S. follow-on record has been absorbed into the canonical case page [[us-v-following-seizure-and-forfeiture-and-dark-web-fraud-defendant]]. No visible cross-border mechanism is documented, so it is not treated as a separate international-cooperation operation."
 created: 2026-04-18
-updated: 2026-04-25
+updated: 2026-04-26
 ---
 ## Summary
 
@@ -83,7 +79,3 @@ This domestic-only U.S. follow-on record has been absorbed into the canonical ca
 | # | Title | Publisher | Date | URL |
 |---|---|---|---|---|
 | [1] | Silk Road Dark Web Fraud Defendant Sentenced Following Seizure And Forfeiture Of Over $3.4 Billion In Cryptocurrency | US DOJ USAO | 2023-04-14 | https://www.justice.gov/usao-sdny/pr/silk-road-dark-web-fraud-defendant-sentenced-following-seizure-and-forfeiture-over-34 |
-| [2] | Bitcoin Thief Once Worth $3.4 Billion Gets a Year in Prison | Bloomberg | 2023-04-14 | https://www.bloomberg.com/news/articles/2023-04-14/bitcoin-thief-once-worth-3-4-billion-gets-a-year-in-prison |
-| [3] | Theft of Bitcoin that topped $3 billion leads to one-year prison sentence for James Zhong | Fortune | 2023-04-14 | https://fortune.com/2023/04/14/bitcoin-thief-james-zhong-sentenced-to-prison/ |
-| [4] | Individual behind $3.4B Silk Road Bitcoin theft sentenced to one year in prison | Cointelegraph | 2023-04-14 | https://cointelegraph.com/news/individual-behind-3-4b-silk-road-bitcoin-theft-sentenced-to-one-year-in-prison |
-| [5] | The secret life of Jimmy Zhong, who stole – and lost – more than $3 billion | CNBC | 2023-10-17 | https://www.cnbc.com/2023/10/17/crypto911.html |

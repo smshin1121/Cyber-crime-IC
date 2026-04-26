@@ -59,16 +59,12 @@ challenges_encountered:
 
 lessons_learned:
 
-source_count: 5
+source_count: 1
 sources:
   - "[[2026-04-18_justice-gov_st-lawrence-county-man-pleads-guilty-receiving-and-possessing-child-pornography]]"
-  - "[[2025-03-24_wwnytv_st-lawrence-county-man-pleads-guilty-child-pornography-charges]]"
-  - "[[2025-03-25_yahoo_st-lawrence-county-man-enters-guilty-plea-child-pornography-charges]]"
-  - "[[2025-03-25_waynecountyjournal_st-lawrence-county-man-pleads-guilty-downloading-explicit-images-sleeping-9-year-old-dark-web]]"
-  - "[[2025-03-25_nny360_louisville-man-pleads-guilty-possession-child-pornography]]"
 summary: "This domestic-only U.S. follow-on record has been absorbed into the canonical case page [[us-v-lawrence-county-man]]. No visible cross-border mechanism is documented, so it is not treated as a separate international-cooperation operation."
 created: 2026-04-18
-updated: 2026-04-25
+updated: 2026-04-26
 ---
 ## Summary
 
@@ -83,7 +79,3 @@ This domestic-only U.S. follow-on record has been absorbed into the canonical ca
 | # | Title | Publisher | Date | URL |
 |---|---|---|---|---|
 | [1] | St. Lawrence County Man Pleads Guilty to Receiving and Possessing Child Pornography | US DOJ USAO | 2025-03-25 | https://www.justice.gov/usao-ndny/pr/st-lawrence-county-man-pleads-guilty-receiving-and-possessing-child-pornography |
-| [2] | St. Lawrence County man pleads guilty to child pornography charges | WWNY-TV (7 News) | 2025-03-24 | https://www.wwnytv.com/2025/03/24/st-lawrence-county-man-pleads-guilty-child-pornography-charges/ |
-| [3] | St. Lawrence County man enters guilty plea for child pornography charges | Yahoo News | 2025-03-25 | https://www.yahoo.com/news/st-lawrence-county-man-enters-144329667.html |
-| [4] | St. Lawrence County Man Pleads Guilty to Downloading Explicit Images, Videos of Sleeping 9-Year-Old from Dark Web | Wayne County Journal | 2025-03-25 | https://www.waynecountyjournal.com/p/st-lawrence-county-man-pleads-guilty |
-| [5] | Louisville man pleads guilty to possession of child pornography | NNY360 | 2025-03-25 | https://www.nny360.com/news/policeblotters/louisville-man-pleads-guilty-to-possession-of-child-pornography/article_a64f1c71-f1be-5fcf-9d65-b6b2bca1f218.html |

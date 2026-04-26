@@ -59,16 +59,12 @@ challenges_encountered:
 
 lessons_learned:
 
-source_count: 5
+source_count: 1
 sources:
-  - "[[2026-04-18_justice-gov_two-indicted-accused-harboring-aliens]]"
-  - "[[2025-09-04_stlpr_st-charles-residents-charged-illegally-harboring-people-ice-raid]]"
-  - "[[2025-09-04_ksdk_armed-ice-raid-missouri-two-charged-illegally-harboring-immigrants]]"
-  - "[[2025-09-04_fox2now_st-charles-county-duo-accused-harboring-undocumented-migrants]]"
   - "[[2025-09-04_stltoday_feds-charge-two-harboring-undocumented-immigrants-st-peters-homes]]"
 summary: "This domestic-only U.S. follow-on record has been absorbed into the canonical case page [[us-v-guo-liang-ye-and-de-jin-ye]]. No visible cross-border mechanism is documented, so it is not treated as a separate international-cooperation operation."
 created: 2026-04-18
-updated: 2026-04-25
+updated: 2026-04-26
 ---
 ## Summary
 
@@ -82,8 +78,4 @@ This domestic-only U.S. follow-on record has been absorbed into the canonical ca
 
 | # | Title | Publisher | Date | URL |
 |---|---|---|---|---|
-| [1] | Two Indicted, Accused of Harboring Aliens | US DOJ USAO | 2025-09-04 | https://www.justice.gov/usao-edmo/pr/two-indicted-accused-harboring-aliens |
-| [2] | St. Charles residents charged with illegally harboring people after ICE raid | STLPR (St. Louis Public Radio) | 2025-09-04 | https://www.stlpr.org/law-order/2025-09-04/st-charles-residents-charged-illegally-harboring-people-ice-raid |
-| [3] | Armed ICE raid in Missouri results in two people facing federal charges | KSDK (NBC5 St. Louis) | 2025-09-04 | https://www.ksdk.com/article/news/crime/missouri-armed-ice-raid-two-people-charged-illegally-harboring-immigrants-st-charles-county/63-c0f831da-a465-470d-9e4e-cad3d19a647f |
-| [4] | Popular restaurant accused of harboring undocumented migrants | Fox 2 Now (KTVI) | 2025-09-04 | https://fox2now.com/news/fox-files/st-charles-county-duo-accused-of-harboring-undocumented-migrants/amp/ |
-| [5] | Feds charge two for 'harboring' undocumented immigrants inside two St. Peters homes | St. Louis Post-Dispatch | 2025-09-04 | https://www.stltoday.com/news/local/crime-courts/article_16ef4a9a-fb7e-453f-be6e-52a8feaf5b61.html |
+| [1] | Feds charge two for 'harboring' undocumented immigrants inside two St. Peters homes | St. Louis Post-Dispatch | 2025-09-04 | https://www.stltoday.com/news/local/crime-courts/article_16ef4a9a-fb7e-453f-be6e-52a8feaf5b61.html |

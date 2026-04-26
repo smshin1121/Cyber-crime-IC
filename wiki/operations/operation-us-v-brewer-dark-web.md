@@ -51,15 +51,11 @@ challenges_encountered:
 
 lessons_learned:
 
-source_count: 5
+source_count: 1
 sources:
-  - "[[2021-07-08_ndtx_brewer-operation-disruptor-sentencing]]"
   - "[[2020-12-17_justice-gov_darkweb-drug-trafficker-arrested-in-operation-disruptor-pleads-guilty]]"
-  - "[[2021-01-06_cbsnews_com_darkweb-drug-trafficker-arrested-in-operation-disruptor-pleads-guilty]]"
-  - "[[2021-08-30_dallasobserver_com_operation-disruptor-plano-man-sentenced-as-feds-target-dark-web-drug-dealers]]"
-  - "[[2021-07-09_tarnkappe-info_operation-disruptor-darknet-drogenhaendler-zu-65-jahren-gefaengnis-verurteilt]]"
 created: 2026-04-17
-updated: 2026-04-25
+updated: 2026-04-26
 operation_role: follow-on
 parent_operation: ""
 summary: "This domestic-only U.S. follow-on record has been absorbed into the canonical case page [[us-v-brewer-dark-web]]. No visible cross-border mechanism is documented, so it is not treated as a separate international-cooperation operation."
@@ -82,8 +78,4 @@ This domestic-only U.S. follow-on record has been absorbed into the canonical ca
 
 | # | Title | Publisher | Date | URL |
 |---|---|---|---|---|
-| [1] | Darkweb Drug Trafficker Arrested in Operation DisrupTor Sentenced to 6.5 Years in Prison | US DOJ (Northern District of Texas) | 2021-07-08 | https://www.justice.gov/usao-ndtx/pr/darkweb-drug-trafficker-arrested-operation-disruptor-sentenced-65-years-prison |
-| [2] | Darkweb Drug Trafficker Arrested in Operation DisrupTor Pleads Guilty | US DOJ USAO | 2020-12-17 | https://www.justice.gov/usao-ndtx/pr/darkweb-drug-trafficker-arrested-operation-disruptor-pleads-guilty |
-| [3] | Darkweb Drug Trafficker Arrested In Operation DisrupTor Pleads Guilty | CBS Texas | 2021-01-06 | https://www.cbsnews.com/texas/news/darkweb-drug-trafficker-arrested-in-operation-disruptor-pleads-guilty/ |
-| [4] | Operation DisrupTor: Plano Man Sentenced as Feds Target Dark Web Drug Dealers | Dallas Observer | 2021-08-30 | https://www.dallasobserver.com/news/feds-sweep-up-cyberspace-drug-dealers-with-operation-disruptor-12296362 |
-| [5] | Operation DisrupTor: Darknet-Drogenhändler zu Gefängnis verurteilt | Tarnkappe.info | 2021-07-09 | https://tarnkappe.info/artikel/szene/dark-commerce/operation-disruptor-darknet-drogenhaendler-zu-65-jahren-gefaengnis-verurteilt-158100.html |
+| [1] | Darkweb Drug Trafficker Arrested in Operation DisrupTor Pleads Guilty | US DOJ USAO | 2020-12-17 | https://www.justice.gov/usao-ndtx/pr/darkweb-drug-trafficker-arrested-operation-disruptor-pleads-guilty |

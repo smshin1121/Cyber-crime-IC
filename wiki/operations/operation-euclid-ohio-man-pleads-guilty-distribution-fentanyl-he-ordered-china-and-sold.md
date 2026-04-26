@@ -59,16 +59,12 @@ challenges_encountered:
 
 lessons_learned:
 
-source_count: 5
+source_count: 1
 sources:
   - "[[2026-04-18_justice-gov_euclid-ohio-man-pleads-guilty-distribution-fentanyl-he-ordered-china-and-sold]]"
-  - "[[2018-04-03_cbsnews_its-easy-to-buy-opioids-on-the-so-called-darknet-fbi-says]]"
-  - "[[2018-08-13_triblive_ohio-man-accused-of-buying-fentanyl-from-china-selling-it-on-the-dark-web]]"
-  - "[[2018-08-15_patch_fentanyl-dark-web-and-china-how-a-euclid-man-built-a-drug-ring]]"
-  - "[[2018-03-28_13abc_ohio-man-charged-with-selling-fentanyl-ordered-from-china]]"
 summary: "This domestic-only U.S. follow-on record has been absorbed into the canonical case page [[euclid-ohio-man-pleads-guilty-distribution-fentanyl-he-ordered-china-and-sold]]. No visible cross-border mechanism is documented, so it is not treated as a separate international-cooperation operation."
 created: 2026-04-18
-updated: 2026-04-25
+updated: 2026-04-26
 ---
 ## Summary
 
@@ -83,7 +79,3 @@ This domestic-only U.S. follow-on record has been absorbed into the canonical ca
 | # | Title | Publisher | Date | URL |
 |---|---|---|---|---|
 | [1] | Euclid, Ohio, Man Pleads Guilty to Distribution of Fentanyl that He Ordered from China and Sold Domestically, Including in Western PA | US DOJ USAO | 2018-08-13 | https://www.justice.gov/usao-wdpa/pr/euclid-ohio-man-pleads-guilty-distribution-fentanyl-he-ordered-china-and-sold |
-| [2] | It's easy to buy opioids on the so-called darknet, FBI says | CBS News (AP) | 2018-04-03 | https://www.cbsnews.com/news/opioid-fentanyl-darknet-drugs-fbi/ |
-| [3] | Ohio man accused of buying fentanyl from China, selling it on the 'dark web' | TribLIVE / Pittsburgh Tribune-Review | 2018-08-13 | https://archive.triblive.com/local/pittsburgh-allegheny/ohio-man-accused-of-buying-fentanyl-from-china-selling-it-on-the-dark-web/ |
-| [4] | Fentanyl, Dark Web, And China: How A Euclid Man Built A Drug Ring | Patch (Cleveland Heights, OH) | 2018-08-15 | https://patch.com/ohio/clevelandheights/fentanyl-dark-web-china-how-euclid-man-built-drug-ring |
-| [5] | Ohio man charged with selling fentanyl ordered from China | 13abc / WTVG | 2018-03-28 | https://www.13abc.com/content/news/Ohio-man-charged-with-selling-fentanyl-ordered-from-China-478199743.html |

@@ -59,16 +59,12 @@ challenges_encountered:
 
 lessons_learned:
 
-source_count: 5
+source_count: 1
 sources:
-  - "[[2026-04-18_justice-gov_chicago-area-man-sentenced-role-nationwide-fraud-conspiracy]]"
-  - "[[2024-02-08_wifr_rockford-man-pleads-guilty-nationwide-fraud-conspiracy]]"
-  - "[[2024-10-01_secretservice-gov_chicago-area-rap-promotor-sentenced-nearly-three-years-prison-role]]"
-  - "[[2024-08-30_wwlp_man-sentenced-in-springfield-for-using-dark-web-to-fund-chicago-rappers-lavish-lifestyle]]"
   - "[[2024-05-23_newbedfordguide_chicago-rap-promoter-boston-scam-netted-millions-private-jet-luxury-cars-designer-puppies]]"
 summary: "This domestic-only U.S. follow-on record has been absorbed into the canonical case page [[us-v-demario-sorrells]]. No visible cross-border mechanism is documented, so it is not treated as a separate international-cooperation operation."
 created: 2026-04-18
-updated: 2026-04-25
+updated: 2026-04-26
 ---
 ## Summary
 
@@ -82,8 +78,4 @@ This domestic-only U.S. follow-on record has been absorbed into the canonical ca
 
 | # | Title | Publisher | Date | URL |
 |---|---|---|---|---|
-| [1] | Chicago-Area Man Sentenced for Role in Nationwide Fraud Conspiracy | US DOJ USAO | 2024-08-30 | https://www.justice.gov/usao-ma/pr/chicago-area-man-sentenced-role-nationwide-fraud-conspiracy |
-| [2] | Rockford man pleads guilty to nationwide fraud conspiracy | WIFR (Rockford, IL) | 2024-02-08 | https://www.wifr.com/2024/02/08/rockford-man-pleads-guilty-nationwide-fraud-conspiracy/ |
-| [3] | Chicago-Area Rap Promotor Sentenced to Nearly Three Years in Prison for Role in Nationwide Fraud Conspiracy | U.S. Secret Service | 2024-10-01 | https://www.secretservice.gov/newsroom/releases/2024/10/chicago-area-rap-promotor-sentenced-nearly-three-years-prison-role |
-| [4] | Man sentenced in Springfield for using dark web to fund Chicago rapper's lavish lifestyle | WWLP (Springfield, MA) | 2024-08-30 | https://www.wwlp.com/news/crime/man-sentenced-in-springfield-for-using-dark-web-to-fund-chicago-rappers-lavish-lifestyle/ |
-| [5] | Chicago rap promoter pleads guilty in Boston; fraud netted millions for private jet, luxury cars, designer puppies | New Bedford Guide | 2024-05-23 | https://www.newbedfordguide.com/chicago-rap-promoter-boston-scam-netted-millions-private-jet-luxury-cars-designer-puppies/2024/05/23 |
+| [1] | Chicago rap promoter pleads guilty in Boston; fraud netted millions for private jet, luxury cars, designer puppies | New Bedford Guide | 2024-05-23 | https://www.newbedfordguide.com/chicago-rap-promoter-boston-scam-netted-millions-private-jet-luxury-cars-designer-puppies/2024/05/23 |

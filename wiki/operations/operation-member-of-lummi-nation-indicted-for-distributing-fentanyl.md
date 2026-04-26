@@ -59,16 +59,12 @@ challenges_encountered:
 
 lessons_learned:
 
-source_count: 5
+source_count: 1
 sources:
-  - "[[2026-04-18_justice-gov_member-lummi-nation-indicted-distributing-fentanyl]]"
-  - "[[2026-02-12_fbi-gov_member-of-lummi-nation-indicted-for-distributing-fentanyl]]"
-  - "[[2023-04-20_justice-gov_six-indicted-as-part-of-whatcom-county-fentanyl-trafficking-organization]]"
   - "[[2024-07-15_dea-gov_member-fentanyl-trafficking-ring-sentenced-distributing-deadly-fentanyl]]"
-  - "[[2025-05-09_dea-gov_final-custody-defendant-whatcom-county-drug-trafficking-ring-sentenced-8-years-prison]]"
 summary: "This domestic-only U.S. follow-on record has been absorbed into the canonical case page [[member-of-lummi-nation-indicted-for-distributing-fentanyl]]. No visible cross-border mechanism is documented, so it is not treated as a separate international-cooperation operation."
 created: 2026-04-18
-updated: 2026-04-25
+updated: 2026-04-26
 ---
 ## Summary
 
@@ -82,8 +78,4 @@ This domestic-only U.S. follow-on record has been absorbed into the canonical ca
 
 | # | Title | Publisher | Date | URL |
 |---|---|---|---|---|
-| [1] | Member of Lummi Nation indicted for distributing fentanyl | US DOJ USAO | 2026-02-12 | https://www.justice.gov/usao-wdwa/pr/member-lummi-nation-indicted-distributing-fentanyl |
-| [2] | Member of Lummi Nation Indicted for Distributing Fentanyl | FBI | 2026-02-12 | https://www.fbi.gov/investigate/violent-crime/indian-country-crime/indian-country-news |
-| [3] | Six indicted as part of Whatcom County fentanyl trafficking organization | US DOJ USAO | 2023-04-20 | https://www.justice.gov/usao-wdwa/pr/six-indicted-part-whatcom-county-fentanyl-trafficking-organization |
-| [4] | Member of Fentanyl Trafficking Ring is Sentenced for Distributing Deadly Fentanyl Pills to Members of the Lummi Nation | DEA | 2024-07-15 | https://www.dea.gov/press-releases/2024/07/15/member-fentanyl-trafficking-ring-sentenced-distributing-deadly-fentanyl |
-| [5] | Final 'In-Custody' Defendant in Whatcom County Drug Trafficking Ring Sentenced to 8 Years in Prison | DEA | 2025-05-09 | https://www.dea.gov/press-releases/2025/05/09/final-custody-defendant-whatcom-county-drug-trafficking-ring-sentenced-8 |
+| [1] | Member of Fentanyl Trafficking Ring is Sentenced for Distributing Deadly Fentanyl Pills to Members of the Lummi Nation | DEA | 2024-07-15 | https://www.dea.gov/press-releases/2024/07/15/member-fentanyl-trafficking-ring-sentenced-distributing-deadly-fentanyl |

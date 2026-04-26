@@ -51,15 +51,11 @@ challenges_encountered:
 
 lessons_learned:
 
-source_count: 5
+source_count: 1
 sources:
   - "[[2025-01-13_cdca_ruiz-navia-darknet-sentencing]]"
-  - "[[2025-01-14_hoodline_two-southern-california-men-sentenced-major-fentanyl-distribution-dark-web]]"
-  - "[[2023-11-07_foxla_2-socal-men-charged-darknet-sell-drugs-50-states]]"
-  - "[[2023-11-07_ktla_socal-men-helped-sell-124k-fentanyl-pills-darknet-doj]]"
-  - "[[2025-01-13_legalnewsline_southern-california-men-sentenced-nationwide-darknet-fentanyl-distribution]]"
 created: 2026-04-17
-updated: 2026-04-25
+updated: 2026-04-26
 operation_role: follow-on
 parent_operation: ""
 summary: "This domestic-only U.S. follow-on record has been absorbed into the canonical case page [[us-v-ruiz-navia-dark-web]]. No visible cross-border mechanism is documented, so it is not treated as a separate international-cooperation operation."
@@ -83,7 +79,3 @@ This domestic-only U.S. follow-on record has been absorbed into the canonical ca
 | # | Title | Publisher | Date | URL |
 |---|---|---|---|---|
 | [1] | Two Southern California Men Who Supplied Fentanyl Sold to Darknet Customers in All 50 States Sentenced to Federal Prison | US DOJ (Central District of California) | 2025-01-13 | https://www.justice.gov/usao-cdca/pr/two-southern-california-men-who-supplied-fentanyl-sold-darknet-customers-all-50-states |
-| [2] | Two Southern California Men Sentenced in Major Fentanyl Distribution Case Linked to Dark Web | Hoodline | 2025-01-14 | https://hoodline.com/2025/01/two-southern-california-men-sentenced-in-major-fentanyl-distribution-case-linked-to-dark-web/ |
-| [3] | 2 SoCal men charged with using darknet to sell drugs in all 50 states | FOX 11 Los Angeles (KTTV-TV) | 2023-11-07 | https://www.foxla.com/news/2-socal-men-charged-with-using-darknet-to-sell-drugs-in-all-50-states |
-| [4] | SoCal men helped sell 124K fentanyl pills on darknet, DOJ says | KTLA Los Angeles | 2023-11-07 | https://ktla.com/news/local-news/socal-men-helped-sell-124k-fentanyl-pills-on-darknet-doj-says/ |
-| [5] | Southern California men sentenced for role in nationwide darknet fentanyl distribution | Legal Newsline | 2025-01-13 | https://legalnewsline.com/stories/667586108-southern-california-men-sentenced-for-role-in-nationwide-darknet-fentanyl-distribution |

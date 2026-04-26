@@ -59,16 +59,12 @@ challenges_encountered:
 
 lessons_learned:
 
-source_count: 5
+source_count: 1
 sources:
-  - "[[2026-04-18_justice-gov_man-who-served-army-under-assumed-name-sentenced-time-served-and-community-service]]"
-  - "[[2022-09-06_firstalert4_sentence-handed-down-man-who-used-st-louis-residents-identity-enlist-army]]"
   - "[[2022-09-06_kttn_man-who-served-in-army-under-assumed-name-sentenced]]"
-  - "[[2022-09-08_foxnews_army-veteran-gets-community-service-using-false-identity]]"
-  - "[[2022-09-06_krcgtv_former-st-louis-man-sentenced-fake-identity-army-1985]]"
 summary: "This domestic-only U.S. follow-on record has been absorbed into the canonical case page [[us-v-antonio-barner]]. No visible cross-border mechanism is documented, so it is not treated as a separate international-cooperation operation."
 created: 2026-04-18
-updated: 2026-04-25
+updated: 2026-04-26
 ---
 ## Summary
 
@@ -82,8 +78,4 @@ This domestic-only U.S. follow-on record has been absorbed into the canonical ca
 
 | # | Title | Publisher | Date | URL |
 |---|---|---|---|---|
-| [1] | Man who served in Army under an assumed name sentenced to time served and community service for passport fraud | US DOJ USAO | 2022-09-06 | https://www.justice.gov/usao-edmo/pr/man-who-served-army-under-assumed-name-sentenced-time-served-and-community-service |
-| [2] | Sentence handed down for man who used St. Louis resident's identity to enlist in Army, court records state | First Alert 4 (KMOV) | 2022-09-06 | https://www.firstalert4.com/2022/09/06/sentence-handed-down-man-who-used-st-louis-residents-identity-enlist-army-court-records-state/ |
-| [3] | Man who served in Army under an assumed name sentenced to time served and community service for passport fraud | KTTN | 2022-09-06 | https://www.kttn.com/man-who-served-in-army-under-an-assumed-name-sentenced-to-time-served-and-community-service-for-passport-fraud/ |
-| [4] | Army veteran gets community service after using false identity to serve in military decades ago | Fox News | 2022-09-08 | https://www.foxnews.com/us/army-veteran-gets-community-service-using-false-identity-serve-military-decades-ago.amp |
-| [5] | Former St. Louis man sentenced for using a fake identity to join Army in 1985 | KRCG TV | 2022-09-06 | https://krcgtv.com/news/local/former-st-louis-man-sentenced-for-using-a-fake-identity-to-join-army-in-1985-deleo-antonio-barner-js-berlin-germany-military-department-of-veterans-affairs-veterans-administration-office-of-inspector-general-state-department-diplomatic-security |
+| [1] | Man who served in Army under an assumed name sentenced to time served and community service for passport fraud | KTTN | 2022-09-06 | https://www.kttn.com/man-who-served-in-army-under-an-assumed-name-sentenced-to-time-served-and-community-service-for-passport-fraud/ |

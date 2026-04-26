@@ -59,16 +59,12 @@ challenges_encountered:
 
 lessons_learned:
 
-source_count: 5
+source_count: 1
 sources:
-  - "[[2026-04-18_justice-gov_south-carolina-man-charged-interstate-stalking-and-aggravated-id-theft-targeting]]"
-  - "[[2017-07-28_justice-gov_south-carolina-man-pleads-guilty-interstate-stalking-charge]]"
-  - "[[2017-07-28_triblive_dakota-james-impersonator-pleads-guilty-in-federal-court]]"
   - "[[2018-08-14_postgazette_cyber-stalker-nathaniel-earl-dunlap-dakota-james-harassment-neighbor-federal-prison]]"
-  - "[[2017-04-14_cbsnews-pittsburgh_man-pretended-missing-duquesne-grad-student]]"
 summary: "This domestic-only U.S. follow-on record has been absorbed into the canonical case page [[us-v-nathaniel-earl-dunlap]]. No visible cross-border mechanism is documented, so it is not treated as a separate international-cooperation operation."
 created: 2026-04-18
-updated: 2026-04-25
+updated: 2026-04-26
 ---
 ## Summary
 
@@ -82,8 +78,4 @@ This domestic-only U.S. follow-on record has been absorbed into the canonical ca
 
 | # | Title | Publisher | Date | URL |
 |---|---|---|---|---|
-| [1] | South Carolina Man Charged with Interstate Stalking and Aggravated ID Theft Targeting Pennsylvania Resident | US DOJ USAO | 2017-04-17 | https://www.justice.gov/usao-wdpa/pr/south-carolina-man-charged-interstate-stalking-and-aggravated-id-theft-targeting |
-| [2] | South Carolina Man Pleads Guilty to Interstate Stalking Charge | US DOJ USAO-WDPA | 2017-07-28 | https://www.justice.gov/usao-wdpa/pr/south-carolina-man-pleads-guilty-interstate-stalking-charge |
-| [3] | Dakota James impersonator pleads guilty in federal court | TribLIVE / Pittsburgh Tribune-Review | 2017-07-28 | https://archive.triblive.com/local/pittsburgh-allegheny/dakota-james-impersonator-pleads-guilty-in-federal-court/ |
-| [4] | Cyber-stalker who posed as missing Duquesne University student gets federal prison | Pittsburgh Post-Gazette | 2018-08-14 | https://www.post-gazette.com/news/crime-courts/2018/08/14/Cyber-stalker-Nathaniel-Earl-Dunlap-Dakota-James-harassment-neighbor-federal-prison/stories/201808140116 |
-| [5] | Charges: Man Cyberstalked Woman, Pretended To Be Missing Duquesne Grad Student | CBS News Pittsburgh (KDKA) | 2017-04-14 | https://www.cbsnews.com/pittsburgh/news/man-pretended-missing-duquesne-grad-student/ |
+| [1] | Cyber-stalker who posed as missing Duquesne University student gets federal prison | Pittsburgh Post-Gazette | 2018-08-14 | https://www.post-gazette.com/news/crime-courts/2018/08/14/Cyber-stalker-Nathaniel-Earl-Dunlap-Dakota-James-harassment-neighbor-federal-prison/stories/201808140116 |

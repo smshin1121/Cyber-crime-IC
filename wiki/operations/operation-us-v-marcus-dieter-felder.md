@@ -59,16 +59,12 @@ challenges_encountered:
 
 lessons_learned:
 
-source_count: 5
+source_count: 1
 sources:
-  - "[[2026-04-18_justice-gov_san-francisco-man-sentenced-100-months-imprisonment-credit-card-fraud-and-identity]]"
-  - "[[2020-10-08_usss_san-francisco-man-sentenced-to-100-months-imprisonment-credit-card-fraud-and]]"
-  - "[[2020-10-10_cbsnews_san-francisco-man-sentenced-to-prison-for-using-stolen-credit-cards-to-fund-lavish-vacations]]"
-  - "[[2020-10-10_patch_sf-man-who-funded-fancy-trips-stolen-credit-cards-sentenced]]"
   - "[[2020-10-10_thesfnews_marcus-felder-serving-prison-time-for-credit-card-fraud]]"
 summary: "This domestic-only U.S. follow-on record has been absorbed into the canonical case page [[us-v-marcus-dieter-felder]]. No visible cross-border mechanism is documented, so it is not treated as a separate international-cooperation operation."
 created: 2026-04-18
-updated: 2026-04-25
+updated: 2026-04-26
 ---
 ## Summary
 
@@ -82,8 +78,4 @@ This domestic-only U.S. follow-on record has been absorbed into the canonical ca
 
 | # | Title | Publisher | Date | URL |
 |---|---|---|---|---|
-| [1] | San Francisco Man Sentenced to 100 Months Imprisonment in Credit Card Fraud and Identity Theft Case | US DOJ USAO | 2020-10-08 | https://www.justice.gov/usao-ndca/pr/san-francisco-man-sentenced-100-months-imprisonment-credit-card-fraud-and-identity |
-| [2] | San Francisco Man Sentenced to 100 Months Imprisonment in Credit Card Fraud and Identity Theft Case | U.S. Secret Service | 2020-10-08 | https://www.secretservice.gov/newsroom/releases/2020/10/san-francisco-man-sentenced-100-months-imprisonment-credit-card-fraud-and |
-| [3] | San Francisco Man Sentenced To Prison For Using Stolen Credit Cards To Fund Lavish Vacations | CBS San Francisco | 2020-10-10 | https://www.cbsnews.com/sanfrancisco/news/san-francisco-man-sentenced-to-prison-for-using-stolen-credit-cards-to-fund-lavish-vacations/ |
-| [4] | SF Man Who Funded Fancy Trips With Stolen Credit Cards Sentenced | San Francisco Patch (Bay City News) | 2020-10-10 | https://patch.com/california/san-francisco/sf-man-who-funded-fancy-trips-stolen-credit-cards-sentenced |
-| [5] | Marcus Felder Serving Prison Time For Credit Card Fraud | The SF News | 2020-10-10 | https://www.thesfnews.com/sf-man-to-serve-prison-time-for-credit-card-fraud/68455 |
+| [1] | Marcus Felder Serving Prison Time For Credit Card Fraud | The SF News | 2020-10-10 | https://www.thesfnews.com/sf-man-to-serve-prison-time-for-credit-card-fraud/68455 |

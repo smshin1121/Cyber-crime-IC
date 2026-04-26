@@ -59,16 +59,12 @@ challenges_encountered:
 
 lessons_learned:
 
-source_count: 5
+source_count: 1
 sources:
   - "[[2026-04-18_justice-gov_yevgeniy-nikulin-indicted-hacking-linkedin-dropbox-and-formspring]]"
-  - "[[2016-10-21_venturebeat_russian-indicted-us-charges-hacking-linkedin-dropbox-formspring]]"
-  - "[[2016-10-21_databreaches_yevgeniy-nikulin-indicted-hacking-linkedin-dropbox-formspring]]"
-  - "[[2018-03-30_thehill_russian-accused-linkedin-hack-extradited-us]]"
-  - "[[2018-03-30_cyberscoop_extradited-russian-yevgeniy-nikulin-pleads-not-guilty-linkedin-breach]]"
 summary: "This domestic-only U.S. follow-on record has been absorbed into the canonical case page [[yevgeniy-nikulin-indicted-for-hacking-linkedin-dropbox-and-formspring]]. No visible cross-border mechanism is documented, so it is not treated as a separate international-cooperation operation."
 created: 2026-04-18
-updated: 2026-04-25
+updated: 2026-04-26
 ---
 ## Summary
 
@@ -83,7 +79,3 @@ This domestic-only U.S. follow-on record has been absorbed into the canonical ca
 | # | Title | Publisher | Date | URL |
 |---|---|---|---|---|
 | [1] | Yevgeniy Nikulin Indicted For Hacking LinkedIn, Dropbox, And Formspring | US DOJ USAO | 2016-10-21 | https://www.justice.gov/usao-ndca/pr/yevgeniy-nikulin-indicted-hacking-linkedin-dropbox-and-formspring |
-| [2] | Russian indicted in U.S. on charges of hacking LinkedIn, Dropbox, and Formspring | VentureBeat | 2016-10-21 | https://venturebeat.com/2016/10/21/russian-indicted-in-u-s-on-charges-of-hacking-linkedin-dropbox-and-formspring/ |
-| [3] | Yevgeniy Nikulin indicted for hacking LinkedIn, Dropbox, and Formspring | DataBreaches.Net | 2016-10-21 | https://databreaches.net/2016/10/21/yevgeniy-nikulin-indicted-for-hacking-linkedin-dropbox-and-formspring/ |
-| [4] | Russian accused of LinkedIn hack extradited to US | The Hill | 2018-03-30 | https://thehill.com/policy/cybersecurity/380991-russian-accused-of-breaching-linkedin-extradited-to-the-us/ |
-| [5] | Extradited Russian Yevgeniy Nikulin pleads not guilty to massive LinkedIn breach | CyberScoop | 2018-03-30 | https://cyberscoop.com/linkedin-hack-yevgeniy-nikulin-dropbox-formspring/ |

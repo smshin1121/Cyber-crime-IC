@@ -59,16 +59,12 @@ challenges_encountered:
 
 lessons_learned:
 
-source_count: 5
+source_count: 1
 sources:
-  - "[[2026-04-18_justice-gov_tennessee-man-pleads-hacking-us-supreme-court-americorps-and-va-health-system]]"
-  - "[[2026-01-19_securityaffairs_hacker-pleads-guilty-supreme-court-americorps-va]]"
-  - "[[2026-01-17_securityweek_tennessee-man-pleads-guilty-repeatedly-hacking-supreme-court-filing-system]]"
-  - "[[2026-01-19_paubox_nicholas-moore-pleads-guilty-hacking-us-supreme-court]]"
   - "[[2026-01-16_washingtonpost_nicholas-moore-supreme-court-hacked-filing-system]]"
 summary: "This domestic-only U.S. follow-on record has been absorbed into the canonical case page [[us-v-nicholas-moore]]. No visible cross-border mechanism is documented, so it is not treated as a separate international-cooperation operation."
 created: 2026-04-18
-updated: 2026-04-25
+updated: 2026-04-26
 ---
 ## Summary
 
@@ -82,8 +78,4 @@ This domestic-only U.S. follow-on record has been absorbed into the canonical ca
 
 | # | Title | Publisher | Date | URL |
 |---|---|---|---|---|
-| [1] | Tennessee Man Pleads in Hacking U.S. Supreme Court, AmeriCorps, and VA Health System | US DOJ USAO | 2026-01-16 | https://www.justice.gov/usao-dc/pr/tennessee-man-pleads-hacking-us-supreme-court-americorps-and-va-health-system |
-| [2] | Hacker pleads guilty to hacking Supreme Court, AmeriCorps, and VA Systems | Security Affairs | 2026-01-19 | https://securityaffairs.com/187048/security/hacker-pleads-guilty-to-hacking-supreme-court-americorps-and-va-systems.html |
-| [3] | Tennessee Man Pleads Guilty to Repeatedly Hacking Supreme Court's Filing System | SecurityWeek | 2026-01-17 | https://www.securityweek.com/tennessee-man-pleads-guilty-to-repeatedly-hacking-supreme-courts-filing-system/ |
-| [4] | Nicholas Moore pleads guilty to hacking US Supreme Court | Paubox | 2026-01-19 | https://www.paubox.com/blog/nicholas-moore-pleads-guilty-to-hacking-us-supreme-court |
-| [5] | Tennessee man pleads guilty to repeatedly hacking Supreme Court's filing system | The Washington Post | 2026-01-16 | https://www.washingtonpost.com/politics/2026/01/16/nicholas-moore-supreme-court-hacked-filing-system/5b6110e4-f322-11f0-a4dc-effc74cb25af_story.html |
+| [1] | Tennessee man pleads guilty to repeatedly hacking Supreme Court's filing system | The Washington Post | 2026-01-16 | https://www.washingtonpost.com/politics/2026/01/16/nicholas-moore-supreme-court-hacked-filing-system/5b6110e4-f322-11f0-a4dc-effc74cb25af_story.html |

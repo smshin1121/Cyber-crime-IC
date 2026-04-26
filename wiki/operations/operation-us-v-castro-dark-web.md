@@ -52,15 +52,11 @@ challenges_encountered:
 
 lessons_learned:
 
-source_count: 5
+source_count: 1
 sources:
   - "[[2020-10-08_sdny_richard-castro-dark-web-sentencing]]"
-  - "[[2020-10-09_arinsa_dark-web-dealer-laundered-millions-buying-zimbabwe-bank-notes]]"
-  - "[[2020-10-10_deepwebmarketsreview_alphabay-vendor-chemsusa-sentenced-17-years-prison]]"
-  - "[[2019-07-29_thenextweb_fentanyl-dealer-forfeit-4m-bitcoin-quadrillions-bank-notes]]"
-  - "[[2020-10-08_darknetstats_alphabay-dream-market-vendor-chemsusa-sentenced-17-5-years]]"
 created: 2026-04-17
-updated: 2026-04-25
+updated: 2026-04-26
 operation_role: follow-on
 parent_operation: ""
 summary: "This domestic-only U.S. follow-on record has been absorbed into the canonical case page [[us-v-castro-dark-web]]. No visible cross-border mechanism is documented, so it is not treated as a separate international-cooperation operation."
@@ -84,7 +80,3 @@ This domestic-only U.S. follow-on record has been absorbed into the canonical ca
 | # | Title | Publisher | Date | URL |
 |---|---|---|---|---|
 | [1] | Prolific Dark Web Dealer Of Carfentanil And Fentanyl Sentenced To 17½ Years In Prison | US DOJ (Southern District of New York) | 2020-10-08 | https://www.justice.gov/usao-sdny/pr/prolific-dark-web-dealer-carfentanil-and-fentanyl-sentenced-17-years-prison |
-| [2] | Dark web dealer laundered millions by buying 100 quadrillion old Zimbabwe bank notes | ARINSA News | 2020-10-09 | https://arinsa.org/mod/forum/discuss.php?d=695 |
-| [3] | AlphaBay Vendor Chemsusa sentenced to 17 years in prison | deepINFO (Deep Web Markets Review) | 2020-10-10 | https://deepwebmarketsreview.com/2020/10/10/alphabay-vendor-chemsusa-sentenced-to-17-years-in-prison/ |
-| [4] | Fentanyl dealer to forfeit $4M in Bitcoin and quadrillions of bank notes | The Next Web | 2019-07-29 | https://thenextweb.com/hardfork/2019/07/29/fentanyl-dark-web-drug-dealer-bitcoin-4m-quadrillions-bank-notes/ |
-| [5] | Alphabay & Dream Market Vendor 'Chemsusa' Sentenced To 17.5 Years In Prison | DarknetStats | 2020-10-08 | https://www.darknetstats.com/alphabay-dream-market-vendor-chemsusa-sentenced-to-17-5-years-in-prison/ |

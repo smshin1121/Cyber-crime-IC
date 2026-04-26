@@ -59,16 +59,12 @@ challenges_encountered:
 
 lessons_learned:
 
-source_count: 5
+source_count: 1
 sources:
   - "[[2015-10-13_justice-gov_bugat-botnet-administrator-arrested-and-malware-disabled]]"
-  - "[[2015-10-13_fbi_bugat-botnet-administrator-arrested-malware-disabled]]"
-  - "[[2017-03-14_wdpa_moldovan-sentenced-distributing-multifunction-malware-package]]"
-  - "[[2015-10-13_networkworld_fbi-doj-take-out-10-million-bugat-banking-botnet]]"
-  - "[[2015-10-13_scmagazine_moldovian-sentenced-stealing-millions-bugat-banking-malware]]"
 summary: "This domestic-only U.S. follow-on record has been absorbed into the canonical case page [[us-v-bugat-botnet-administrator]]. No visible cross-border mechanism is documented, so it is not treated as a separate international-cooperation operation."
 created: 2026-04-18
-updated: 2026-04-25
+updated: 2026-04-26
 ---
 ## Summary
 
@@ -83,7 +79,3 @@ This domestic-only U.S. follow-on record has been absorbed into the canonical ca
 | # | Title | Publisher | Date | URL |
 |---|---|---|---|---|
 | [1] | Bugat Botnet Administrator Arrested and Malware Disabled | US DOJ | 2015-10-13 | https://www.justice.gov/opa/pr/bugat-botnet-administrator-arrested-and-malware-disabled |
-| [2] | Bugat Botnet Administrator Arrested and Malware Disabled | FBI Pittsburgh Field Office | 2015-10-13 | https://www.fbi.gov/contact-us/field-offices/pittsburgh/news/press-releases/bugat-botnet-administrator-arrested-and-malware-disabled |
-| [3] | Moldovan Sentenced for Distributing Multifunction Malware Package | U.S. Attorney's Office, Western District of Pennsylvania | 2017-03-14 | https://www.justice.gov/usao-wdpa/pr/moldovan-sentenced-distributing-multifunction-malware-package |
-| [4] | FBI, DoJ take out $10 Million 'Bugat' banking botnet | Network World | 2015-10-13 | https://www.networkworld.com/article/944308/fbi-doj-take-out-10-million-bugat-banking-botnet-zeus.html/amp |
-| [5] | Moldovian sentenced for stealing millions using Bugat banking malware | SC Media | 2015-10-13 | https://www.scmagazine.com/news/cybercrime/moldovian-sentenced-for-stealing-millions-using-bugat-banking-malware |

@@ -59,16 +59,12 @@ challenges_encountered:
 
 lessons_learned:
 
-source_count: 5
+source_count: 1
 sources:
-  - "[[2026-04-18_justice-gov_tattoo-shop-owner-sentenced-more-7-years-prison-distributing-heroin-and-methamphetamine]]"
   - "[[2022-11-15_oversight-gov_tattoo-shop-owner-sentenced-more-7-years-prison-distributing-heroin-and-methamphetamine-dark-web]]"
-  - "[[2021-10-07_justice-gov_arizona-man-pleads-guilty-dark-web-narcotics-conspiracy]]"
-  - "[[2022-02-17_justice-gov_arizona-man-sentenced-over-11-years-prison-conspiracy-sell-narcotics-dark-web]]"
-  - "[[2022-02-17_uspsoig-gov_arizona-man-sentenced-over-11-years-prison-conspiracy-sell-narcotics-dark-web]]"
 summary: "This domestic-only U.S. follow-on record has been absorbed into the canonical case page [[tattoo-shop-owner-sentenced-to-more-than-7-years-in-prison-for-distributing-heroin-and-methamphetamine-on-the-]]. No visible cross-border mechanism is documented, so it is not treated as a separate international-cooperation operation."
 created: 2026-04-18
-updated: 2026-04-25
+updated: 2026-04-26
 ---
 ## Summary
 
@@ -82,8 +78,4 @@ This domestic-only U.S. follow-on record has been absorbed into the canonical ca
 
 | # | Title | Publisher | Date | URL |
 |---|---|---|---|---|
-| [1] | Tattoo Shop Owner Sentenced to More Than 7 Years in Prison for Distributing Heroin and Methamphetamine on the Dark Web | US DOJ USAO | 2022-11-15 | https://www.justice.gov/usao-edca/pr/tattoo-shop-owner-sentenced-more-7-years-prison-distributing-heroin-and-methamphetamine |
-| [2] | Tattoo Shop Owner Sentenced to More Than 7 Years in Prison for Distributing Heroin and Methamphetamine on the Dark Web | Oversight.gov | 2022-11-15 | https://www.oversight.gov/tattoo-shop-owner-sentenced-more-7-years-prison-distributing-heroin-and-methamphetamine-dark-web |
-| [3] | Arizona Man Pleads Guilty to Dark Web Narcotics Conspiracy | US DOJ USAO | 2021-10-07 | https://www.justice.gov/usao-edca/pr/arizona-man-pleads-guilty-dark-web-narcotics-conspiracy |
-| [4] | Arizona Man Sentenced to over 11 Years in Prison for Conspiracy to Sell Narcotics on the Dark Web | US DOJ USAO | 2022-02-17 | https://www.justice.gov/usao-edca/pr/arizona-man-sentenced-over-11-years-prison-conspiracy-sell-narcotics-dark-web |
-| [5] | Arizona Man Sentenced to over 11 Years in Prison for Conspiracy to Sell Narcotics on the Dark Web | USPS Office of Inspector General | 2022-02-17 | https://www.uspsoig.gov/investigative-work/investigative-news-releases/arizona-man-sentenced-over-11-years-prison |
+| [1] | Tattoo Shop Owner Sentenced to More Than 7 Years in Prison for Distributing Heroin and Methamphetamine on the Dark Web | Oversight.gov | 2022-11-15 | https://www.oversight.gov/tattoo-shop-owner-sentenced-more-7-years-prison-distributing-heroin-and-methamphetamine-dark-web |

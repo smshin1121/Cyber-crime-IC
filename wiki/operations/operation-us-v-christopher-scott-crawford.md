@@ -59,16 +59,12 @@ challenges_encountered:
 
 lessons_learned:
 
-source_count: 5
+source_count: 1
 sources:
-  - "[[2026-04-18_justice-gov_everett-man-indicted-cyberstalking-and-threatening-former-romantic-partner]]"
   - "[[2023-09-15_justice-gov-wdwa_everett-washington-man-convicted-cyberstalking-and-making-interstate-threats]]"
-  - "[[2022-06-03_fox13seattle_everett-man-indicted-cyberstalking-threatening-former-partner-3-years]]"
-  - "[[2023-09-15_kiro7_prison-sentence-everett-man-cyberstalking-interstate-threats-case]]"
-  - "[[2023-09-15_heraldnet_everett-man-sentenced-6-years-cyberstalking-ex-wife]]"
 summary: "This domestic-only U.S. follow-on record has been absorbed into the canonical case page [[us-v-christopher-scott-crawford]]. No visible cross-border mechanism is documented, so it is not treated as a separate international-cooperation operation."
 created: 2026-04-18
-updated: 2026-04-25
+updated: 2026-04-26
 ---
 ## Summary
 
@@ -82,8 +78,4 @@ This domestic-only U.S. follow-on record has been absorbed into the canonical ca
 
 | # | Title | Publisher | Date | URL |
 |---|---|---|---|---|
-| [1] | Everett man indicted for cyberstalking and threatening former romantic partner | US DOJ USAO | 2022-06-16 | https://www.justice.gov/usao-wdwa/pr/everett-man-indicted-cyberstalking-and-threatening-former-romantic-partner |
-| [2] | Everett, Washington, man convicted of cyberstalking and making interstate threats | USAO WDWA | 2023-09-15 | https://www.justice.gov/usao-wdwa/pr/everett-washington-man-convicted-cyberstalking-and-making-interstate-threats |
-| [3] | Everett man indicted for allegedly cyberstalking, threatening former partner for 3 years | FOX 13 Seattle | 2022-06-03 | https://www.fox13seattle.com/news/everett-man-charged-for-cyberstalking-threatening-former-partner |
-| [4] | Prison sentence for Everett man in cyberstalking and interstate threats case | KIRO 7 Seattle | 2023-09-15 | https://www.kiro7.com/news/local/prison-sentence-everett-man-cyberstalking-interstate-threats-case/VEQFAWYJ5VAALH7BZAU4HSEAYQ/ |
-| [5] | Everett man sentenced to 6 years for cyberstalking ex-wife | HeraldNet | 2023-09-15 | https://www.heraldnet.com/news/everett-man-sentenced-to-6-years-for-cyberstalking-ex-wife/ |
+| [1] | Everett, Washington, man convicted of cyberstalking and making interstate threats | USAO WDWA | 2023-09-15 | https://www.justice.gov/usao-wdwa/pr/everett-washington-man-convicted-cyberstalking-and-making-interstate-threats |

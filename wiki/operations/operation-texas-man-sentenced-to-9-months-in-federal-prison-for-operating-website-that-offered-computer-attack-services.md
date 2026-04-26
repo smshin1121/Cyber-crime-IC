@@ -59,16 +59,12 @@ challenges_encountered:
 
 lessons_learned:
 
-source_count: 5
+source_count: 1
 sources:
   - "[[2024-07-15_justice-gov_united-states-v-jeremiah-sam-evans-miller]]"
-  - "[[2024-02-16_therecord_astrostress-booter-service-ddos-for-hire-charges-filed]]"
-  - "[[2024-07-18_cyberinsider_astrostress-operator-prison-sentence-thousands-ddos-attacks]]"
-  - "[[2024-07-22_cybersecuritynews_authorities-arrested-ddos-attack-service-provider]]"
-  - "[[2024-07-24_hackerdose_texas-man-jailed-ddos-attack-website]]"
 summary: "This domestic-only U.S. follow-on record has been absorbed into the canonical case page [[texas-man-sentenced-to-9-months-in-federal-prison-for-operating-website-that-offered-computer-attack-services]]. No visible cross-border mechanism is documented, so it is not treated as a separate international-cooperation operation."
 created: 2026-04-18
-updated: 2026-04-25
+updated: 2026-04-26
 ---
 ## Summary
 
@@ -83,7 +79,3 @@ This domestic-only U.S. follow-on record has been absorbed into the canonical ca
 | # | Title | Publisher | Date | URL |
 |---|---|---|---|---|
 | [1] | Texas Man Sentenced to 9 Months in Federal Prison for Operating Website that Offered Computer Attack Services | US DOJ (Central District of California) | 2024-07-15 | https://www.justice.gov/usao-cdca/pr/texas-man-sentenced-9-months-federal-prison-operating-website-offered-computer-attack |
-| [2] | Charges filed in DDoS-for-hire attacks, including Baltimore schools incident | The Record (Recorded Future News) | 2024-02-16 | https://therecord.media/astrostress-booter-service-ddos-for-hire-charges-filed |
-| [3] | Astrostress Operator Gets Prison Sentence for Facilitating Thousands of DDoS Attacks | CyberInsider | 2024-07-18 | https://cyberinsider.com/astrostress-operator-gets-prison-sentence-for-facilitating-thousands-of-ddos-attacks/ |
-| [4] | Authorities Arrested DDoS Attack Service Provider | Cybersecurity News | 2024-07-22 | https://cybersecuritynews.com/authorities-arrested-ddos-attack/ |
-| [5] | Texas Man Jailed for Running Powerful DDoS Attack Website | HackerDose | 2024-07-24 | https://hackerdose.com/security/texas-man-jailed-ddos-attack/ |

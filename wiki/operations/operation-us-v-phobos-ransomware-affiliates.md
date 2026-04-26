@@ -59,16 +59,12 @@ challenges_encountered:
 
 lessons_learned:
 
-source_count: 5
+source_count: 1
 sources:
-  - "[[2026-04-18_justice-gov_phobos-ransomware-affiliates-arrested-coordinated-international-disruption]]"
   - "[[2025-02-10_europol_key-figures-phobos-8base-ransomware-arrested-international-crackdown]]"
-  - "[[2025-02-11_bleepingcomputer_poland-arrests-suspect-phobos-ransomware-operation]]"
-  - "[[2025-02-10_therecord_phobos-ransomware-takedown-arrests-russian-nationals]]"
-  - "[[2025-02-10_databreaches_phobos-ransomware-affiliates-arrested-coordinated-international-disruption]]"
 summary: "This domestic-only U.S. follow-on record has been absorbed into the canonical case page [[us-v-phobos-ransomware-affiliates]]. No visible cross-border mechanism is documented, so it is not treated as a separate international-cooperation operation."
 created: 2026-04-18
-updated: 2026-04-25
+updated: 2026-04-26
 ---
 ## Summary
 
@@ -82,8 +78,4 @@ This domestic-only U.S. follow-on record has been absorbed into the canonical ca
 
 | # | Title | Publisher | Date | URL |
 |---|---|---|---|---|
-| [1] | Phobos Ransomware Affiliates Arrested in Coordinated International Disruption | US DOJ (Office of Public Affairs) | 2025-02-10 | https://www.justice.gov/opa/pr/phobos-ransomware-affiliates-arrested-coordinated-international-disruption |
-| [2] | Key figures behind Phobos and 8Base ransomware arrested in international cybercrime crackdown | Europol | 2025-02-10 | https://www.europol.europa.eu/media-press/newsroom/news/key-figures-behind-phobos-and-8base-ransomware-arrested-international-cybercrime-crackdown |
-| [3] | Poland arrests suspect linked to Phobos ransomware operation | BleepingComputer | 2025-02-11 | https://www.bleepingcomputer.com/news/security/poland-arrests-suspect-linked-to-phobos-ransomware-operation/ |
-| [4] | Two Russian nationals arrested in takedown of Phobos ransomware infrastructure | The Record (Recorded Future News) | 2025-02-10 | https://therecord.media/phobos-ransomware-takedown-arrests-russian-nationals |
-| [5] | Phobos Ransomware Affiliates Arrested in Coordinated International Disruption | DataBreaches.net | 2025-02-10 | https://databreaches.net/2025/02/11/phobos-ransomware-affiliates-arrested-coordinated-international-disruption/ |
+| [1] | Key figures behind Phobos and 8Base ransomware arrested in international cybercrime crackdown | Europol | 2025-02-10 | https://www.europol.europa.eu/media-press/newsroom/news/key-figures-behind-phobos-and-8base-ransomware-arrested-international-cybercrime-crackdown |

@@ -59,16 +59,12 @@ challenges_encountered:
 
 lessons_learned:
 
-source_count: 5
+source_count: 1
 sources:
-  - "[[2026-04-18_justice-gov_latvian-national-charged-alleged-role-transnational-cybercrime-organization]]"
   - "[[2021-06-04_cyberscoop_latvian-national-charged-writing-malware-trickbot]]"
-  - "[[2021-06-04_therecord_us-arrests-latvian-woman-trickbot-malware]]"
-  - "[[2021-06-14_isssource_latvian-charged-trickbot-cybercrime-spree]]"
-  - "[[2021-06-16_techstartups_alla-max-witte-trickbot-cybercrime-gang]]"
 summary: "This domestic-only U.S. follow-on record has been absorbed into the canonical case page [[us-v-latvian-national]]. No visible cross-border mechanism is documented, so it is not treated as a separate international-cooperation operation."
 created: 2026-04-18
-updated: 2026-04-25
+updated: 2026-04-26
 ---
 ## Summary
 
@@ -82,8 +78,4 @@ This domestic-only U.S. follow-on record has been absorbed into the canonical ca
 
 | # | Title | Publisher | Date | URL |
 |---|---|---|---|---|
-| [1] | Latvian National Charged for Alleged Role in Transnational Cybercrime Organization | US DOJ USAO | 2021-06-04 | https://www.justice.gov/usao-ndoh/pr/latvian-national-charged-alleged-role-transnational-cybercrime-organization |
-| [2] | Latvian national charged with writing malware used by Trickbot hackers | CyberScoop | 2021-06-04 | https://cyberscoop.com/latvia-trickbot-indictment-malware-witte/ |
-| [3] | US arrests Latvian woman who worked on Trickbot malware source code | The Record (Recorded Future News) | 2021-06-04 | https://therecord.media/us-arrests-latvian-woman-who-worked-on-trickbot-malware-source-code |
-| [4] | Latvian Charged in Trickbot Cybercrime Spree | ISSSource | 2021-06-14 | https://www.isssource.com/latvian-charged-in-trickbot-cybercrime-spree/ |
-| [5] | Meet Alla Max Witte, the 55-year-old Latvian national who was part of Trickbot cybercrime gang | Tech Startups | 2021-06-16 | https://techstartups.com/2021/06/16/meet-alla-max-witte-a-55-year-old-latvian-national-who-is-part-of-the-cybercrime-gang-responsible-for-infecting-millions-of-computers-around-the-world/ |
+| [1] | Latvian national charged with writing malware used by Trickbot hackers | CyberScoop | 2021-06-04 | https://cyberscoop.com/latvia-trickbot-indictment-malware-witte/ |

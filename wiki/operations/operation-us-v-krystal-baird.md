@@ -59,16 +59,12 @@ challenges_encountered:
 
 lessons_learned:
 
-source_count: 5
+source_count: 1
 sources:
   - "[[2026-04-18_justice-gov_former-childcare-provider-sentenced-15-years-federal-prison-production-child-sexual]]"
-  - "[[2026-02-18_unionleader_keene-woman-gets-prison-time-role-child-sex-abuse-image-case]]"
-  - "[[2026-02-18_keenesentinel_keene-nh-woman-gets-15-years-role-child-sex-abuse]]"
-  - "[[2026-02-18_boston25_former-nh-childcare-provider-gets-prison-time-role-child-sex-abuse-case]]"
-  - "[[2026-02-18_mykeenenow_keene-woman-sentenced-15-years-federal-prison-child-exploitation-case]]"
 summary: "This domestic-only U.S. follow-on record has been absorbed into the canonical case page [[us-v-krystal-baird]]. No visible cross-border mechanism is documented, so it is not treated as a separate international-cooperation operation."
 created: 2026-04-18
-updated: 2026-04-25
+updated: 2026-04-26
 ---
 ## Summary
 
@@ -83,7 +79,3 @@ This domestic-only U.S. follow-on record has been absorbed into the canonical ca
 | # | Title | Publisher | Date | URL |
 |---|---|---|---|---|
 | [1] | Former Childcare Provider Sentenced to 15 Years in Federal Prison for the Production of Child Sexual Abuse Material | US DOJ USAO | 2026-02-18 | https://www.justice.gov/usao-nh/pr/former-childcare-provider-sentenced-15-years-federal-prison-production-child-sexual |
-| [2] | Keene woman gets prison time for role in child sex abuse image case | New Hampshire Union Leader | 2026-02-18 | https://www.unionleader.com/news/courts/keene-woman-gets-prison-time-for-role-in-child-sex-abuse-image-case/article_48da9183-e145-4d31-8409-76c62c66d648.html |
-| [3] | Keene woman gets 15 years for role in child sex abuse | Keene Sentinel | 2026-02-18 | https://www.keenesentinel.com/news/local/keene-nh-woman-gets-15-years-for-role-in-child-sex-abuse/article_cd26fd76-4a50-4d31-b5ef-0917e6edfbd7.html |
-| [4] | Former NH childcare provider gets prison time for role in child sex abuse case | Boston 25 News | 2026-02-18 | https://www.boston25news.com/news/local/former-nh-childcare-provider-gets-prison-time-role-child-sex-abuse-case/7M5YKBAVAFCC5KOAN5E2UC6ZLQ/ |
-| [5] | Keene Woman Sentenced to 15 Years in Federal Prison in Child Exploitation Case | My Keene Now | 2026-02-18 | https://mykeenenow.com/news/219912-keene-woman-sentenced-to-15-years-in-federal-prison-in-child-exploitation-case/ |

@@ -59,16 +59,12 @@ challenges_encountered:
 
 lessons_learned:
 
-source_count: 5
+source_count: 1
 sources:
   - "[[2026-04-18_justice-gov_utah-man-sentenced-seven-years-prison-murder-hire-scheme]]"
-  - "[[2021-11-12_justice-gov_utah-man-charged-with-murder-for-hire-scheme]]"
-  - "[[2023-12-06_justice-gov_utah-man-pleads-guilty-to-murder-for-hire-scheme]]"
-  - "[[2021-10-27_justice-gov_culpeper-woman-arrested-in-dark-web-murder-for-hire-plot]]"
-  - "[[2024-06-02_justice-gov_woman-accused-of-murder-for-hire-admits-to-using-the-dark-web-to-carry-out-the-c]]"
 summary: "This domestic-only U.S. follow-on record has been absorbed into the canonical case page [[utah-man-sentenced-to-seven-years-in-prison-for-murder-for-hire-scheme]]. No visible cross-border mechanism is documented, so it is not treated as a separate international-cooperation operation."
 created: 2026-04-18
-updated: 2026-04-25
+updated: 2026-04-26
 ---
 ## Summary
 
@@ -83,7 +79,3 @@ This domestic-only U.S. follow-on record has been absorbed into the canonical ca
 | # | Title | Publisher | Date | URL |
 |---|---|---|---|---|
 | [1] | Utah Man Sentenced to Seven Years in Prison for Murder-for-Hire Scheme | US DOJ USAO | 2024-04-05 | https://www.justice.gov/usao-ndny/pr/utah-man-sentenced-seven-years-prison-murder-hire-scheme |
-| [2] | Utah Man Charged with Murder-for-Hire Scheme | US DOJ USAO | 2021-11-12 | https://www.justice.gov/usao-ndny/pr/utah-man-charged-murder-hire-scheme |
-| [3] | Utah Man Pleads Guilty to Murder-for-Hire Scheme | US DOJ USAO | 2023-12-06 | https://www.justice.gov/usao-ndny/pr/utah-man-pleads-guilty-murder-hire-scheme |
-| [4] | Culpeper Woman Arrested in Dark Web Murder-for-Hire Plot | US DOJ USAO | 2021-10-27 | https://www.justice.gov/usao-wdva/pr/culpeper-woman-arrested-dark-web-murder-hire-plot |
-| [5] | Woman Accused of Murder-for-Hire Admits to Using the Dark Web to Carry Out the Crime | US DOJ USAO | 2024-06-02 | https://www.justice.gov/usao-ut/pr/woman-accused-murder-hire-admits-using-dark-web-carry-out-crime |

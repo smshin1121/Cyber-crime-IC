@@ -59,16 +59,12 @@ challenges_encountered:
 
 lessons_learned:
 
-source_count: 5
+source_count: 1
 sources:
-  - "[[2023-07-14_edva_dittman-schiffner-langer-darknet-sentencing]]"
   - "[[2023-07-14_fda-gov_three-darknet-fentanyl-vendors-sentenced-over-20-years-prison]]"
-  - "[[2023-07-18_ice-gov_hsi-arizona-investigation-sends-3-darknet-fentanyl-vendors-prison-more-20-years]]"
-  - "[[2023-07-19_hstoday_us_hsi-arizona-investigation-sends-3-darknet-fentanyl-vendors-to-prison-for-more-than-20-years]]"
-  - "[[2023-01-20_businessinsider_a-dark-web-drug-trafficker-gave-the-fbi-a-roadmap-to-his-clients]]"
 summary: "This domestic-only U.S. follow-on record has been absorbed into the canonical case page [[three-darknet-fentanyl-vendors-sentenced-to-over-20-years-in-prison]]. No visible cross-border mechanism is documented, so it is not treated as a separate international-cooperation operation."
 created: 2026-04-18
-updated: 2026-04-25
+updated: 2026-04-26
 ---
 ## Summary
 
@@ -82,8 +78,4 @@ This domestic-only U.S. follow-on record has been absorbed into the canonical ca
 
 | # | Title | Publisher | Date | URL |
 |---|---|---|---|---|
-| [1] | Three Darknet Fentanyl Vendors Sentenced to Over 20 Years in Prison | US DOJ (Eastern District of Virginia) | 2023-07-14 | https://www.justice.gov/usao-edva/pr/three-darknet-fentanyl-vendors-sentenced-over-20-years-prison |
-| [2] | Three Darknet Fentanyl Vendors Sentenced to Over 20 Years in Prison | FDA | 2023-07-14 | https://www.fda.gov/inspections-compliance-enforcement-and-criminal-investigations/doj-press-releases-involving-fda-oci/three-darknet-fentanyl-vendors-sentenced-over-20-years-prison |
-| [3] | HSI Arizona investigation sends 3 darknet fentanyl vendors to prison for more than 20 years | ICE | 2023-07-18 | https://www.ice.gov/news/releases/hsi-arizona-investigation-sends-3-darknet-fentanyl-vendors-prison-more-20-years |
-| [4] | HSI Arizona Investigation Sends 3 Darknet Fentanyl Vendors to Prison for More Than 20 Years | HSToday | 2023-07-19 | https://www.hstoday.us/subject-matter-areas/customs-immigration/hsi-arizona-investigation-sends-3-darknet-fentanyl-vendors-to-prison-for-more-than-20-years/ |
-| [5] | A dark web drug trafficker gave the FBI a roadmap to his clients after they found his journal in a trash can | Business Insider | 2023-01-20 | https://www.businessinsider.nl/a-dark-web-drug-trafficker-gave-the-fbi-a-roadmap-to-his-clients-after-they-found-his-journal-in-a-trash-can-it-was-labeled-please-dont-touch/ |
+| [1] | Three Darknet Fentanyl Vendors Sentenced to Over 20 Years in Prison | FDA | 2023-07-14 | https://www.fda.gov/inspections-compliance-enforcement-and-criminal-investigations/doj-press-releases-involving-fda-oci/three-darknet-fentanyl-vendors-sentenced-over-20-years-prison |

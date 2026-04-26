@@ -46,29 +46,25 @@ results:
   other:
     - "Defendant-specific follow-on action derived from [[former-employee-of-house-member-sentenced-to-prison-term-on-charges-in-cyberstalking-case]]"
 edges:
-  []
+
 credibility_index: 4.0
 source_tier: 1
 missing_fields:
-  []
+
 related_cases:
   - "[[former-employee-of-house-member-sentenced-to-prison-term-on-charges-in-cyberstalking-case]]"
 related_operations:
-  []
+
 challenges_encountered:
-  []
+
 lessons_learned:
-  []
-source_count: 5
+
+source_count: 1
 sources:
   - "[[2026-04-18_justice-gov_former-employee-house-member-sentenced-prison-term-charges-cyberstalking-case]]"
-  - "[[2018-03-08_washingtonpost_us-house-member-still-feels-exposed-stripped-by-ex-aides-cyberstalking-crimes]]"
-  - "[[2018-01-23_washingtonpost_two-ex-staffers-plead-guilty-in-release-of-explicit-images-of-us-house-member-husband]]"
-  - "[[2018-01-23_courthousenews_ex-staffers-plead-guilty-to-circulating-explicit-images-of-house-member]]"
-  - "[[2018-03-08_wjla_ex-house-staffer-sentenced-for-stealing-distributing-nude-images-of-congresswoman]]"
 summary: "Former Employee of House Member Sentenced to Prison Term on Charges in Cyberstalking Case Enforcement Action is a domestic-only U.S. follow-on record absorbed into the canonical case page [[former-employee-of-house-member-sentenced-to-prison-term-on-charges-in-cyberstalking-case]]. No visible cross-border mechanism is documented, so it is not treated as a separate international-cooperation operation."
 created: 2026-04-18
-updated: 2026-04-25
+updated: 2026-04-26
 ---
 ## Summary
 
@@ -94,7 +90,3 @@ The underlying public case record identifies Former Employee of House Member Sen
 | # | Title | Publisher | Date | URL |
 |---|---|---|---|---|
 | [1] | Former Employee of House Member Sentenced to Prison Term on Charges in Cyberstalking Case | US DOJ USAO | 2018-03-08 | https://www.justice.gov/usao-dc/pr/former-employee-house-member-sentenced-prison-term-charges-cyberstalking-case |
-| [2] | U.S. House member still feels 'exposed, stripped' by ex-aides' cyberstalking crimes | Washington Post | 2018-03-08 | https://www.washingtonpost.com/local/public-safety/us-house-member-still-feels-exposed-stripped-by-ex-aides-cyberstalking-crimes/2018/03/08/c2b981c6-22e8-11e8-86f6-54bfff693d2b_story.html |
-| [3] | Two ex-staffers plead guilty in release of explicit images of U.S. House member, husband | Washington Post | 2018-01-23 | https://www.washingtonpost.com/local/public-safety/two-former-staffers-set-to-plead-guilty-in-cyberstalking-of-us-house-member-husband-court-files-show/2018/01/23/f8a90f6c-0061-11e8-8acf-ad2991367d9d_story.html |
-| [4] | Ex-Staffers Plead Guilty to Circulating Explicit Images of House Member | Courthouse News Service | 2018-01-23 | https://www.courthousenews.com/ex-staffers-plead-guilty-to-circulating-explicit-images-of-house-member/ |
-| [5] | Ex-House staffer sentenced for stealing, distributing nude images, video of congresswoman | WJLA-TV (ABC7 Washington) | 2018-03-08 | https://wjla.com/news/local/ex-house-staffer-sentenced-for-stealing-distributing-nude-images-video-of-congresswoman |

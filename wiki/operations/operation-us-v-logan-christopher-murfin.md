@@ -59,16 +59,12 @@ challenges_encountered:
 
 lessons_learned:
 
-source_count: 5
+source_count: 1
 sources:
-  - "[[2026-04-18_justice-gov_skiatook-man-indicted-threatening-kill-federal-agents]]"
   - "[[2025-12-11_ktul_skiatook-man-indicted-10-charges-threats-federal-law-enforcement]]"
-  - "[[2025-12-11_krmg_skiatook-man-accused-making-threats-federal-law-enforcement]]"
-  - "[[2025-12-11_kfor_oklahoma-man-accused-threatening-kill-federal-agents-online]]"
-  - "[[2025-12-11_tulsaworld_grand-jury-indictment-links-skiatook-man-ice-death-threats]]"
 summary: "This domestic-only U.S. follow-on record has been absorbed into the canonical case page [[us-v-logan-christopher-murfin]]. No visible cross-border mechanism is documented, so it is not treated as a separate international-cooperation operation."
 created: 2026-04-18
-updated: 2026-04-25
+updated: 2026-04-26
 ---
 ## Summary
 
@@ -82,8 +78,4 @@ This domestic-only U.S. follow-on record has been absorbed into the canonical ca
 
 | # | Title | Publisher | Date | URL |
 |---|---|---|---|---|
-| [1] | Skiatook Man Indicted for Threatening to Kill Federal Agents | US DOJ USAO | 2025-12-11 | https://www.justice.gov/usao-ndok/pr/skiatook-man-indicted-threatening-kill-federal-agents |
-| [2] | Skiatook man indicted on 10 charges related to threats on federal law enforcement | KTUL ABC8 Tulsa | 2025-12-11 | https://ktul.com/news/local/skiatook-man-indicted-on-10-charges-related-to-threats-on-federal-law-enforcement-court-documents-social-media-assault-murder-federal-agents-threats |
-| [3] | Skiatook man accused of making threats against federal law enforcement | KRMG 102.3 Tulsa | 2025-12-11 | https://krmg.com/2025/12/11/skiatook-man-accused-of-making-threats-against-federal-law-enforcement/ |
-| [4] | Oklahoma man accused of threatening to kill federal agents online | KFOR Oklahoma City | 2025-12-11 | https://kfor.com/news/local/oklahoma-man-accused-of-threatening-to-kill-federal-agents-online/ |
-| [5] | Grand jury indictment links Skiatook man to ICE death threats | Tulsa World | 2025-12-11 | https://tulsaworld.com/news/local/crime-courts/article_184734fb-d82e-4aab-bc7c-b52189537a10.html |
+| [1] | Skiatook man indicted on 10 charges related to threats on federal law enforcement | KTUL ABC8 Tulsa | 2025-12-11 | https://ktul.com/news/local/skiatook-man-indicted-on-10-charges-related-to-threats-on-federal-law-enforcement-court-documents-social-media-assault-murder-federal-agents-threats |

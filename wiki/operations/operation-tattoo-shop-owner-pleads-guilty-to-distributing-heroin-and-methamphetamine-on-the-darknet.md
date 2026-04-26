@@ -59,16 +59,12 @@ challenges_encountered:
 
 lessons_learned:
 
-source_count: 5
+source_count: 1
 sources:
-  - "[[2020-03-05_justice-gov_united-states-v-jason-keith-arnold]]"
   - "[[2022-02-17_justice-gov_tattoo-shop-owner-sentenced-7-years-prison-distributing-heroin-methamphetamine]]"
-  - "[[2019-04-05_dea-gov_fentanyl-heroin-darknet-vendors-indicted]]"
-  - "[[2022-02-18_uspsoig-gov_arizona-man-sentenced-11-years-conspiracy-narcotics-dark-web]]"
-  - "[[2022-02-19_appeal-democrat_arizona-man-sentenced-dark-web-drug-sales]]"
 summary: "This domestic-only U.S. follow-on record has been absorbed into the canonical case page [[tattoo-shop-owner-pleads-guilty-to-distributing-heroin-and-methamphetamine-on-the-darknet]]. No visible cross-border mechanism is documented, so it is not treated as a separate international-cooperation operation."
 created: 2026-04-18
-updated: 2026-04-25
+updated: 2026-04-26
 ---
 ## Summary
 
@@ -82,8 +78,4 @@ This domestic-only U.S. follow-on record has been absorbed into the canonical ca
 
 | # | Title | Publisher | Date | URL |
 |---|---|---|---|---|
-| [1] | Tattoo Shop Owner Pleads Guilty to Distributing Heroin and Methamphetamine on the Darknet | US DOJ (Eastern District of California) | 2020-03-05 | https://www.justice.gov/usao-edca/pr/tattoo-shop-owner-pleads-guilty-distributing-heroin-and-methamphetamine-darknet |
-| [2] | Tattoo Shop Owner Sentenced to More Than 7 Years in Prison for Distributing Heroin and Methamphetamine on the Dark Web | US DOJ (Eastern District of California) | 2022-02-17 | https://www.justice.gov/usao-edca/pr/tattoo-shop-owner-sentenced-more-7-years-prison-distributing-heroin-and-methamphetamine |
-| [3] | Fentanyl and heroin darknet vendors indicted | US DEA | 2019-04-05 | https://www.dea.gov/press-releases/2019/04/05/fentanyl-and-heroin-darknet-vendors-indicted |
-| [4] | Arizona Man Sentenced to over 11 Years in Prison for Conspiracy to Sell Narcotics on the Dark Web | USPS Office of Inspector General | 2022-02-18 | https://www.uspsoig.gov/investigative-work/investigative-news-releases/arizona-man-sentenced-over-11-years-prison |
-| [5] | Arizona man sentenced for dark web drug sales | Appeal-Democrat (Yuba City, CA) | 2022-02-19 | https://www.appeal-democrat.com/news/arizona-man-sentenced-for-dark-web-drug-sales/article_221e58d8-938a-11ec-af21-aff38fc48564.html |
+| [1] | Tattoo Shop Owner Sentenced to More Than 7 Years in Prison for Distributing Heroin and Methamphetamine on the Dark Web | US DOJ (Eastern District of California) | 2022-02-17 | https://www.justice.gov/usao-edca/pr/tattoo-shop-owner-sentenced-more-7-years-prison-distributing-heroin-and-methamphetamine |

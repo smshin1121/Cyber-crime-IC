@@ -59,16 +59,12 @@ challenges_encountered:
 
 lessons_learned:
 
-source_count: 5
+source_count: 1
 sources:
-  - "[[2026-04-18_justice-gov_chatsworth-man-sentenced-more-7-years-prison-cyberstalking-campaigns-against-victims]]"
   - "[[2020-11-09_patch_chatsworth-man-accused-cyberstalking-two-sisters]]"
-  - "[[2023-02-24_mynewsla_chatsworth-man-faces-sentencing-stalking-cases]]"
-  - "[[2023-02-27_wrdw_man-7-years-cyberstalking-california-georgia]]"
-  - "[[2023-02-27_wdef_chatsworth-man-sentenced-7-years-prison-cyberstalking]]"
 summary: "This domestic-only U.S. follow-on record has been absorbed into the canonical case page [[us-v-alex-scott-roberts]]. No visible cross-border mechanism is documented, so it is not treated as a separate international-cooperation operation."
 created: 2026-04-18
-updated: 2026-04-25
+updated: 2026-04-26
 ---
 ## Summary
 
@@ -82,8 +78,4 @@ This domestic-only U.S. follow-on record has been absorbed into the canonical ca
 
 | # | Title | Publisher | Date | URL |
 |---|---|---|---|---|
-| [1] | Chatsworth Man Sentenced to More Than 7 Years in Prison for Cyberstalking Campaigns Against Victims in California and Georgia | US DOJ USAO | 2023-02-24 | https://www.justice.gov/usao-cdca/pr/chatsworth-man-sentenced-more-7-years-prison-cyberstalking-campaigns-against-victims |
-| [2] | Chatsworth Man Accused Of Cyberstalking Two Sisters | Patch.com (Northridge) | 2020-11-09 | https://patch.com/california/northridge/chatsworth-man-accused-cyberstalking-two-sisters |
-| [3] | Chatsworth Man Faces Sentencing in Stalking Cases | MyNewsLA | 2023-02-24 | https://mynewsla.com/crime/2023/02/24/chatsworth-man-faces-sentencing-stalking-cases/ |
-| [4] | Man gets 7-plus years for cyberstalking California, Georgia victims | WRDW (Augusta, GA CBS) | 2023-02-27 | https://www.wrdw.com/2023/02/27/man-gets-7-plus-years-cyberstalking-california-georgia-victims/ |
-| [5] | Chatsworth man sentenced to 7 years in prison for cyberstalking | WDEF (Chattanooga, TN CBS) | 2023-02-27 | https://www.wdef.com/chatsworth-man-sentenced-to-7-years-in-prison-for-cyberstalking/ |
+| [1] | Chatsworth Man Accused Of Cyberstalking Two Sisters | Patch.com (Northridge) | 2020-11-09 | https://patch.com/california/northridge/chatsworth-man-accused-cyberstalking-two-sisters |

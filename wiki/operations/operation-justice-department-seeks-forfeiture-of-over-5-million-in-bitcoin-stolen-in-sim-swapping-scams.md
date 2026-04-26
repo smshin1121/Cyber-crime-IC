@@ -59,16 +59,12 @@ challenges_encountered:
 
 lessons_learned:
 
-source_count: 5
+source_count: 1
 sources:
   - "[[2026-04-18_justice-gov_justice-department-seeks-forfeiture-over-5-million-bitcoin-stolen-sim-swapping-scams]]"
-  - "[[2019-02-05_justice-gov_two-men-indicted-in-sim-swapping-scheme-to-steal-cryptocurrency]]"
-  - "[[2022-11-08_justice-gov_michigan-man-sentenced-to-3-years-in-prison-for-role-in-sim-swapping-that-led-to]]"
-  - "[[2025-09-09_law_justice-department-pursues-5-million-bitcoin-tied-sim-swap-thefts]]"
-  - "[[2025-09-09_casino-org_stake-com-cited-doj-seeks-5-million-bitcoin-seizure-sim-swap-case]]"
 summary: "This domestic-only U.S. follow-on record has been absorbed into the canonical case page [[justice-department-seeks-forfeiture-of-over-5-million-in-bitcoin-stolen-in-sim-swapping-scams]]. No visible cross-border mechanism is documented, so it is not treated as a separate international-cooperation operation."
 created: 2026-04-18
-updated: 2026-04-25
+updated: 2026-04-26
 ---
 ## Summary
 
@@ -83,7 +79,3 @@ This domestic-only U.S. follow-on record has been absorbed into the canonical ca
 | # | Title | Publisher | Date | URL |
 |---|---|---|---|---|
 | [1] | Justice Department Seeks Forfeiture of Over $5 Million in Bitcoin Stolen in SIM Swapping Scams | US DOJ USAO | 2025-09-09 | https://www.justice.gov/usao-dc/pr/justice-department-seeks-forfeiture-over-5-million-bitcoin-stolen-sim-swapping-scams |
-| [2] | Two Men Indicted In “SIM Swapping” Scheme To Steal Cryptocurrency | US DOJ USAO | 2019-02-05 | https://www.justice.gov/usao-ndca/pr/two-men-indicted-sim-swapping-scheme-steal-cryptocurrency |
-| [3] | Michigan Man Sentenced to 3½ Years in Prison for Role in ‘SIM Swapping’ that Led to Account Takeovers and $122,000 in Losses | US DOJ USAO | 2022-11-08 | https://www.justice.gov/usao-cdca/pr/michigan-man-sentenced-3-years-prison-role-sim-swapping-led-account-takeovers-and |
-| [4] | Justice Department Pursues $5 Million in Bitcoin Tied to SIM-Swap Thefts | Law.com | 2025-09-09 | https://www.law.com/2025/09/09/justice-department-pursues-5-million-in-bitcoin-tied-to-sim-swap-thefts/ |
-| [5] | Stake.com Cited as DOJ Seeks $5 Million Bitcoin Seizure in SIM Swap Case | Casino.org | 2025-09-09 | https://www.casino.org/news/stake-com-cited-as-doj-seeks-5m-bitcoin-seizure-in-sim-swap-case/ |

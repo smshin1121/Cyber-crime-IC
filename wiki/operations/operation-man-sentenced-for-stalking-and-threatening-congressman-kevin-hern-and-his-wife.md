@@ -59,16 +59,12 @@ challenges_encountered:
 
 lessons_learned:
 
-source_count: 5
+source_count: 1
 sources:
-  - "[[2026-04-18_justice-gov_man-sentenced-stalking-and-threatening-congressman-kevin-hern-and-his-wife]]"
-  - "[[2023-08-29_ktul_bartlesville-man-sentenced-three-years-cyberstalking-congressman-hern]]"
-  - "[[2023-08-29_kjrh_bartlesville-man-sentenced-stalking-threatening-rep-kevin-hern]]"
   - "[[2023-08-29_fox23_bartlesville-man-sentenced-stalking-threatening-rep-kevin-hern-wife]]"
-  - "[[2022-08-10_nbcnews_oklahoma-man-pleads-guilty-stalking-threatening-gop-rep-kevin-hern]]"
 summary: "This domestic-only U.S. follow-on record has been absorbed into the canonical case page [[man-sentenced-for-stalking-and-threatening-congressman-kevin-hern-and-his-wife]]. No visible cross-border mechanism is documented, so it is not treated as a separate international-cooperation operation."
 created: 2026-04-18
-updated: 2026-04-25
+updated: 2026-04-26
 ---
 ## Summary
 
@@ -82,8 +78,4 @@ This domestic-only U.S. follow-on record has been absorbed into the canonical ca
 
 | # | Title | Publisher | Date | URL |
 |---|---|---|---|---|
-| [1] | Man Sentenced for Stalking and Threatening Congressman Kevin Hern and his Wife | US DOJ USAO | 2023-08-29 | https://www.justice.gov/usao-ndok/pr/man-sentenced-stalking-and-threatening-congressman-kevin-hern-and-his-wife |
-| [2] | Bartlesville man sentenced to three years for cyberstalking and threatening Congressman Hern and family | KTUL ABC8 Tulsa | 2023-08-29 | https://ktul.com/news/local/bartlesville-man-sentenced-to-three-years-for-cyberstalking-and-threatening-congressman-hern-and-family |
-| [3] | Bartlesville man sentenced to 3 years for stalking, threatening Rep. Kevin Hern, his wife | KJRH Tulsa | 2023-08-29 | https://www.kjrh.com/news/local-news/bartlesville-man-sentenced-to-3-years-for-stalking-threatening-rep-kevin-hern-his-wife |
-| [4] | Bartlesville man sentenced for stalking and threatening U.S. Rep. Kevin Hern and wife | Fox23 Tulsa | 2023-08-29 | https://www.fox23.com/news/bartlesville-man-sentenced-for-stalking-and-threatening-u-s-rep-kevin-hern-and-wife/article_638041d2-46cc-11ee-a450-7f2af0677085.html |
-| [5] | Oklahoma man pleads guilty to stalking and threatening GOP Rep. Kevin Hern | NBC News | 2022-08-10 | https://www.nbcnews.com/politics/congress/oklahoma-man-pleads-guilty-stalking-threatening-gop-rep-kevin-hern-rcna42557 |
+| [1] | Bartlesville man sentenced for stalking and threatening U.S. Rep. Kevin Hern and wife | Fox23 Tulsa | 2023-08-29 | https://www.fox23.com/news/bartlesville-man-sentenced-for-stalking-and-threatening-u-s-rep-kevin-hern-and-wife/article_638041d2-46cc-11ee-a450-7f2af0677085.html |

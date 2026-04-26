@@ -59,16 +59,12 @@ challenges_encountered:
 
 lessons_learned:
 
-source_count: 5
+source_count: 1
 sources:
-  - "[[2026-04-18_justice-gov_indictment-charges-stamford-men-trafficking-fentanyl]]"
   - "[[2025-04-25_dea_indictment-charges-stamford-men-trafficking-fentanyl]]"
-  - "[[2025-04-09_newportdispatch_2-stamford-men-indicted-on-fentanyl-trafficking-charges]]"
-  - "[[2025-04-08_patch_2-stamford-men-accused-using-mail-traffic-fentanyl-ct-feds]]"
-  - "[[2025-04-08_wtnh_stamford-man-charged-with-fentanyl-cocaine-trafficking]]"
 summary: "This domestic-only U.S. follow-on record has been absorbed into the canonical case page [[us-v-charges-stamford-men]]. No visible cross-border mechanism is documented, so it is not treated as a separate international-cooperation operation."
 created: 2026-04-18
-updated: 2026-04-25
+updated: 2026-04-26
 ---
 ## Summary
 
@@ -82,8 +78,4 @@ This domestic-only U.S. follow-on record has been absorbed into the canonical ca
 
 | # | Title | Publisher | Date | URL |
 |---|---|---|---|---|
-| [1] | Indictment Charges Stamford Men with Trafficking Fentanyl | US DOJ USAO | 2025-04-08 | https://www.justice.gov/usao-ct/pr/indictment-charges-stamford-men-trafficking-fentanyl |
-| [2] | Indictment Charges Stamford Men with Trafficking Fentanyl | U.S. Drug Enforcement Administration | 2025-04-25 | https://www.dea.gov/press-releases/2025/04/25/indictment-charges-stamford-men-trafficking-fentanyl |
-| [3] | 2 Stamford men indicted on fentanyl trafficking charges | Newport Dispatch | 2025-04-09 | https://www.newportdispatch.com/2025/04/09/2-stamford-men-indicted-on-fentanyl-trafficking-charges/ |
-| [4] | 2 Stamford Men Accused Of Using Mail To Traffic Fentanyl Into CT: Feds | Stamford Patch | 2025-04-08 | https://patch.com/connecticut/stamford/2-stamford-men-accused-using-mail-traffic-fentanyl-ct-feds |
-| [5] | Stamford man charged with fentanyl, cocaine trafficking | WTNH News 8 (ABC Connecticut) | 2025-04-08 | https://www.wtnh.com/news/connecticut/fairfield/stamford-man-charged-with-fentanyl-cocaine-trafficking/ |
+| [1] | Indictment Charges Stamford Men with Trafficking Fentanyl | U.S. Drug Enforcement Administration | 2025-04-25 | https://www.dea.gov/press-releases/2025/04/25/indictment-charges-stamford-men-trafficking-fentanyl |

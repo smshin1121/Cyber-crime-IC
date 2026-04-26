@@ -59,16 +59,12 @@ challenges_encountered:
 
 lessons_learned:
 
-source_count: 5
+source_count: 1
 sources:
-  - "[[2026-04-18_justice-gov_former-pitt-student-sentenced-6-years-prison-threatening-communications-and-impeding]]"
   - "[[2021-01-07_postgazette_khaled-miah-pittsburgh-charged-alleged-threats-fbi-agents]]"
-  - "[[2021-01-07_triblive_feds-former-pitt-student-threatened-fbi-agents-celebrated-attacks-on-us]]"
-  - "[[2022-10-19_cbspittsburgh_former-pitt-student-sentenced-threatening-fbi-agents-social-media]]"
-  - "[[2021-01-08_triblive_former-pitt-student-fbi-threats-remain-custody]]"
 summary: "This domestic-only U.S. follow-on record has been absorbed into the canonical case page [[us-v-khaled-miah]]. No visible cross-border mechanism is documented, so it is not treated as a separate international-cooperation operation."
 created: 2026-04-18
-updated: 2026-04-25
+updated: 2026-04-26
 ---
 ## Summary
 
@@ -82,8 +78,4 @@ This domestic-only U.S. follow-on record has been absorbed into the canonical ca
 
 | # | Title | Publisher | Date | URL |
 |---|---|---|---|---|
-| [1] | Former Pitt Student Sentenced to 6 Years in Prison for Threatening Communications and Impeding and Obstructing FBI Investigation | US DOJ USAO | 2022-10-19 | https://www.justice.gov/usao-wdpa/pr/former-pitt-student-sentenced-6-years-prison-threatening-communications-and-impeding |
-| [2] | Man charged for alleged threats against FBI agents | Pittsburgh Post-Gazette | 2021-01-07 | https://www.post-gazette.com/news/crime-courts/2021/01/07/Khaled-Miah-pittsburgh-charged-alleged-threats-FBI-agents-radical-violent-islamic-ideology/stories/202101070143 |
-| [3] | Feds: Former Pitt student threatened FBI agents, celebrated attacks on U.S. | TribLIVE / Pittsburgh Tribune-Review | 2021-01-07 | https://triblive.com/local/feds-former-pitt-student-threatened-fbi-agents-celebrated-attacks-on-u-s/ |
-| [4] | Former Pitt student sentenced to 6 years for threatening FBI agents | CBS Pittsburgh (KDKA) | 2022-10-19 | https://www.cbsnews.com/pittsburgh/news/former-pitt-student-sentenced-threatening-fbi-agents-social-media/ |
-| [5] | Former Pitt student accused of threatening FBI agents will remain in custody, judge rules | TribLIVE / Pittsburgh Tribune-Review | 2021-01-08 | https://archive.triblive.com/local/former-pitt-student-accused-of-threatening-fbi-agents-will-remain-in-custody-judge-rules/ |
+| [1] | Man charged for alleged threats against FBI agents | Pittsburgh Post-Gazette | 2021-01-07 | https://www.post-gazette.com/news/crime-courts/2021/01/07/Khaled-Miah-pittsburgh-charged-alleged-threats-FBI-agents-radical-violent-islamic-ideology/stories/202101070143 |

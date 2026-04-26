@@ -51,15 +51,11 @@ challenges_encountered:
 
 lessons_learned:
 
-source_count: 5
+source_count: 1
 sources:
   - "[[2019-07-17_sdil_brandon-arias-dark-web-plea]]"
-  - "[[2019-07-22_justice-gov_brandon-aria-aka-drug-llama-sentenced-9-years]]"
-  - "[[2020-02-11_dea-gov_dark-web-fentanyl-trafficker-sentenced-13-years-federal-prison]]"
-  - "[[2022-12-21_abc7chicago_drug-llama-melissa-scanlan-drugs-fentanyl]]"
-  - "[[2020-02-12_riverbender_dark-web-fentanyl-trafficker-known-as-the-drug-llama-is-sentenced-to-13-years]]"
 created: 2026-04-17
-updated: 2026-04-25
+updated: 2026-04-26
 operation_role: follow-on
 parent_operation: ""
 summary: "This domestic-only U.S. follow-on record has been absorbed into the canonical case page [[us-v-brandon-arias-dark-web]]. No visible cross-border mechanism is documented, so it is not treated as a separate international-cooperation operation."
@@ -83,7 +79,3 @@ This domestic-only U.S. follow-on record has been absorbed into the canonical ca
 | # | Title | Publisher | Date | URL |
 |---|---|---|---|---|
 | [1] | "The Drug Llama" Pleads Guilty to Distributing Fentanyl on the Dark Web | US DOJ (Southern District of Illinois) | 2019-07-17 | https://www.justice.gov/usao-sdil/pr/drug-llama-pleads-guilty-distributing-fentanyl-dark-web |
-| [2] | Brandon Aria, A/K/A 'The Drug Llama,' Sentenced to 9 Years For Distributing Fentanyl on The Dark Web | US DOJ (Southern District of Illinois) | 2019-07-22 | https://www.justice.gov/usao-sdil/pr/brandon-aria-aka-drug-llama-sentenced-9-years-distributing-fentanyl-dark-web |
-| [3] | Dark web fentanyl trafficker sentenced to 13 years in federal prison | US DEA | 2020-02-11 | https://www.dea.gov/press-releases/2020/02/11/dark-web-fentanyl-trafficker-sentenced-13-years-federal-prison |
-| [4] | 'Drug Llama' Melissa Scanlan, convicted in dark web fentanyl trafficking case, wants out of federal pen | ABC7 Chicago | 2022-12-21 | https://abc7chicago.com/drug-llama-melissa-scanlan-drugs-fentanyl/12530169/ |
-| [5] | Dark Web Fentanyl Trafficker Known as 'The Drug Llama' is Sentenced to 13 Years in Federal Prison | RiverBender | 2020-02-12 | https://www.riverbender.com/articles/details/dark-web-fentanyl-trafficker-known-as-the-drug-llama-is-sentenced-to-13-years-in-federal-prison-39749.cfm |

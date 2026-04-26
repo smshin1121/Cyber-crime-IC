@@ -59,16 +59,12 @@ challenges_encountered:
 
 lessons_learned:
 
-source_count: 5
+source_count: 1
 sources:
   - "[[2026-04-18_justice-gov_two-indicted-drug-trafficking-conspiracy]]"
-  - "[[2025-06-30_kttn_grand-jury-indicts-kansas-city-man-and-woman-in-fentanyl-conspiracy-case]]"
-  - "[[2025-08-20_kctv5_5-charged-connection-with-illegal-fentanyl-narcotics-trafficking-ring-kansas-city]]"
-  - "[[2025-08-20_wdaf_five-indicted-kansas-city-drug-trafficking-scheme]]"
-  - "[[2025-08-21_kttn_federal-grand-jury-indicts-five-in-kansas-city-drug-trafficking-case]]"
 summary: "This domestic-only U.S. follow-on record has been absorbed into the canonical case page [[two-indicted-for-drug-trafficking-conspiracy]]. No visible cross-border mechanism is documented, so it is not treated as a separate international-cooperation operation."
 created: 2026-04-18
-updated: 2026-04-25
+updated: 2026-04-26
 ---
 ## Summary
 
@@ -83,7 +79,3 @@ This domestic-only U.S. follow-on record has been absorbed into the canonical ca
 | # | Title | Publisher | Date | URL |
 |---|---|---|---|---|
 | [1] | Two Indicted for Drug Trafficking Conspiracy | US DOJ USAO | 2025-06-27 | https://www.justice.gov/usao-wdmo/pr/two-indicted-drug-trafficking-conspiracy |
-| [2] | Grand jury indicts Kansas City man and woman in fentanyl conspiracy case | KTTN | 2025-06-30 | https://www.kttn.com/grand-jury-indicts-kansas-city-man-and-woman-in-fentanyl-conspiracy-case/ |
-| [3] | 5 charged in connection with illegal fentanyl, narcotics trafficking ring in Kansas City | KCTV5 | 2025-08-20 | https://www.kctv5.com/2025/08/20/5-charged-connection-with-illegal-fentanyl-narcotics-trafficking-ring-kansas-city/ |
-| [4] | Five indicted in Kansas City drug-trafficking scheme | WDAF Kansas City (FOX4) | 2025-08-20 | https://www.yahoo.com/news/articles/five-indicted-kansas-city-drug-222728603.html |
-| [5] | Federal grand jury indicts five in Kansas City drug-trafficking case | KTTN | 2025-08-21 | https://www.kttn.com/federal-grand-jury-indicts-five-in-kansas-city-drug-trafficking-case/ |

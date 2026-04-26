@@ -59,16 +59,12 @@ challenges_encountered:
 
 lessons_learned:
 
-source_count: 5
+source_count: 1
 sources:
   - "[[2026-04-18_justice-gov_san-francisco-resident-sentenced-seven-years-prison-stealing-prisoner-identities-and]]"
-  - "[[2017-05-24_doj-opa_california-man-sentenced-prison-stealing-prisoner-identities-and-filing-fraudulent-tax]]"
-  - "[[2017-05-24_patch_former-san-quentin-inmate-sentenced-in-tax-scheme]]"
-  - "[[2017-01-24_cbsnews_former-marin-county-man-convicted-of-tax-fraud-using-inmates-identities]]"
-  - "[[2017-01-24_doj-ndca_former-marin-county-resident-convicted-using-prisoner-identities]]"
 summary: "This domestic-only U.S. follow-on record has been absorbed into the canonical case page [[san-francisco-resident-sentenced-to-seven-years-in-prison-for-stealing-prisoner-identities-and-filing-fraudule]]. No visible cross-border mechanism is documented, so it is not treated as a separate international-cooperation operation."
 created: 2026-04-18
-updated: 2026-04-25
+updated: 2026-04-26
 ---
 ## Summary
 
@@ -83,7 +79,3 @@ This domestic-only U.S. follow-on record has been absorbed into the canonical ca
 | # | Title | Publisher | Date | URL |
 |---|---|---|---|---|
 | [1] | San Francisco Resident Sentenced To Seven Years In Prison For Stealing Prisoner Identities And Filing Fraudulent Tax Returns | US DOJ USAO | 2017-05-24 | https://www.justice.gov/usao-ndca/pr/san-francisco-resident-sentenced-seven-years-prison-stealing-prisoner-identities-and |
-| [2] | California Man Sentenced to Prison for Stealing Prisoner Identities and Filing Fraudulent Tax Returns | U.S. Department of Justice — Office of Public Affairs (Tax Division) | 2017-05-24 | https://www.justice.gov/archives/opa/pr/california-man-sentenced-prison-stealing-prisoner-identities-and-filing-fraudulent-tax |
-| [3] | Former San Quentin Inmate Sentenced In Tax Scheme | San Rafael Patch (Bay City News) | 2017-05-24 | https://patch.com/california/sanrafael/former-san-quentin-inmate-sentenced-tax-scheme |
-| [4] | Former Marin County Man Convicted Of Tax Fraud Using Inmates' Identities | CBS San Francisco | 2017-01-24 | https://www.cbsnews.com/sanfrancisco/news/former-marin-county-man-convicted-of-tax-fraud-using-inmates-identities/ |
-| [5] | Former Marin County Resident Convicted For Using Prisoner Identities And Filing Fraudulent Tax Returns | U.S. Attorney's Office, Northern District of California | 2017-01-24 | https://www.justice.gov/usao-ndca/pr/former-marin-county-resident-convicted-using-prisoner-identities-and-filing-fraudulent |

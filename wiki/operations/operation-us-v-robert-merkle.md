@@ -59,16 +59,12 @@ challenges_encountered:
 
 lessons_learned:
 
-source_count: 5
+source_count: 1
 sources:
   - "[[2026-04-18_justice-gov_st-louis-man-indicted-cyberstalking-charges]]"
-  - "[[2022-08-11_riverfronttimes_serial-cyberstalker-merkle-faces-federal-charges]]"
-  - "[[2022-08-11_fox2now_st-louis-man-indicted-cyberstalking-threatening-women]]"
-  - "[[2022-08-12_wilx_53-year-old-indicted-cyberstalking-terrorizing-women]]"
-  - "[[2023-08-31_kttn_missouri-man-71-months-rape-threats-five-women]]"
 summary: "This domestic-only U.S. follow-on record has been absorbed into the canonical case page [[us-v-robert-merkle]]. No visible cross-border mechanism is documented, so it is not treated as a separate international-cooperation operation."
 created: 2026-04-18
-updated: 2026-04-25
+updated: 2026-04-26
 ---
 ## Summary
 
@@ -83,7 +79,3 @@ This domestic-only U.S. follow-on record has been absorbed into the canonical ca
 | # | Title | Publisher | Date | URL |
 |---|---|---|---|---|
 | [1] | St. Louis man indicted on cyberstalking charges | US DOJ USAO | 2022-08-10 | https://www.justice.gov/usao-edmo/pr/st-louis-man-indicted-cyberstalking-charges |
-| [2] | Serial Cyberstalker Robert Merkle Faces Federal Charges for Rape Threats | Riverfront Times (St. Louis) | 2022-08-11 | https://www.riverfronttimes.com/news/serial-cyberstalker-robert-merkle-faces-federal-charges-for-rape-threats-38279941 |
-| [3] | St. Louis man indicted for cyberstalking, threatening women | FOX 2 St. Louis (KPLR) | 2022-08-11 | https://fox2now.com/news/kplr/st-louis-man-indicted-for-cyberstalking-threatening-women/ |
-| [4] | 53-year-old man indicted for cyberstalking after terrorizing women online | WILX-TV (Lansing, MI NBC) | 2022-08-12 | https://www.wilx.com/2022/08/12/53-year-old-man-indicted-cyberstalking-after-terrorizing-women-online-authorities-say/ |
-| [5] | Missouri man sentenced to 71 months in prison for making rape threats to five women | KTTN-FM (North Missouri) | 2023-08-31 | https://www.kttn.com/missouri-man-sentenced-to-71-months-in-prison-for-making-rape-threats-to-five-women/ |

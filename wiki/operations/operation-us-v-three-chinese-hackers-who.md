@@ -59,16 +59,12 @@ challenges_encountered:
 
 lessons_learned:
 
-source_count: 5
+source_count: 1
 sources:
   - "[[2026-04-18_justice-gov_us-charges-three-chinese-hackers-who-work-internet-security-firm-hacking-three]]"
-  - "[[2017-11-28_cyberscoop_doj-reveals-indictment-against-chinese-cyber-spies-that-stole-us-business-secrets]]"
-  - "[[2017-11-28_bleepingcomputer_us-charges-three-members-of-elite-chinese-cyber-espionage-unit]]"
-  - "[[2017-11-28_csoonline_us-charges-3-chinese-security-firm-hackers-with-cyber-espionage]]"
-  - "[[2017-11-30_foreignpolicy_feds-quietly-reveal-chinese-state-backed-hacking-operation]]"
 summary: "This domestic-only U.S. follow-on record has been absorbed into the canonical case page [[us-v-three-chinese-hackers-who]]. No visible cross-border mechanism is documented, so it is not treated as a separate international-cooperation operation."
 created: 2026-04-18
-updated: 2026-04-25
+updated: 2026-04-26
 ---
 ## Summary
 
@@ -83,7 +79,3 @@ This domestic-only U.S. follow-on record has been absorbed into the canonical ca
 | # | Title | Publisher | Date | URL |
 |---|---|---|---|---|
 | [1] | U.S. Charges Three Chinese Hackers Who Work At Internet Security Firm For Hacking Three Corporations For Commercial Advantage | US DOJ USAO | 2017-11-28 | https://www.justice.gov/usao-wdpa/pr/us-charges-three-chinese-hackers-who-work-internet-security-firm-hacking-three |
-| [2] | DOJ reveals indictment against Chinese cyber spies that stole U.S. business secrets | CyberScoop | 2017-11-28 | https://cyberscoop.com/boyusec-china-doj-indictment/ |
-| [3] | US Charges Three Members of Elite Chinese Cyber-Espionage Unit | BleepingComputer | 2017-11-28 | https://www.bleepingcomputer.com/news/security/us-charges-three-members-of-elite-chinese-cyber-espionage-unit/ |
-| [4] | US charges 3 Chinese security firm hackers with cyber espionage | CSO Online | 2017-11-28 | https://www.csoonline.com/article/563715/us-charges-3-chinese-security-firm-hackers-with-corporate-cyber-espionage.html |
-| [5] | Feds Quietly Reveal Chinese State-Backed Hacking Operation | Foreign Policy | 2017-11-30 | https://foreignpolicy.com/2017/11/30/feds-quietly-reveal-chinese-state-backed-hacking-operation/ |

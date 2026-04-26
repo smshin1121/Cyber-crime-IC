@@ -59,16 +59,12 @@ challenges_encountered:
 
 lessons_learned:
 
-source_count: 5
+source_count: 1
 sources:
   - "[[2026-04-18_justice-gov_law-enforcement-seize-record-amounts-illegal-drugs-firearms-and-drug-trafficking-proceeds]]"
-  - "[[2025-05-22_fbi-gov_global-operation-targets-darknet-drug-trafficking]]"
-  - "[[2025-05-22_ice-gov_ice-europol-law-enforcement-partners-dismantle-major-illicit-drug-networks-global-darknet-crackdown]]"
-  - "[[2025-05-22_occrp_org_massive-dark-web-sweep-leads-to-270-arrests-worldwide]]"
-  - "[[2025-05-22_hackread_com_operation-raptor-270-arrested-global-crackdown-on-dark-web-vendors]]"
 summary: "This domestic-only U.S. follow-on record has been absorbed into the canonical case page [[law-enforcement-seize-record-amounts-of-illegal-drugs-firearms-and-drug-trafficking-proceeds-in-international-]]. No visible cross-border mechanism is documented, so it is not treated as a separate international-cooperation operation."
 created: 2026-04-18
-updated: 2026-04-25
+updated: 2026-04-26
 ---
 ## Summary
 
@@ -83,7 +79,3 @@ This domestic-only U.S. follow-on record has been absorbed into the canonical ca
 | # | Title | Publisher | Date | URL |
 |---|---|---|---|---|
 | [1] | Law Enforcement Seize Record Amounts of Illegal Drugs, Firearms, and Drug Trafficking Proceeds in International Operation Against Darknet Trafficking of Fentanyl and Opioids; 270 Arrested Across Four Continents | US DOJ (Office of Public Affairs) | 2025-05-22 | https://www.justice.gov/opa/pr/law-enforcement-seize-record-amounts-illegal-drugs-firearms-and-drug-trafficking-proceeds |
-| [2] | Global Operation Targets Darknet Drug Trafficking | FBI | 2025-05-22 | https://www.fbi.gov/news/stories/global-operation-targets-darknet-drug-trafficking |
-| [3] | ICE, Europol, law enforcement partners, dismantle major illicit drug networks in global Darknet crackdown | ICE | 2025-05-22 | https://www.ice.gov/news/releases/ice-europol-law-enforcement-partners-dismantle-major-illicit-drug-networks-global |
-| [4] | Massive Dark Web Sweep Leads to 270 Arrests Worldwide | OCCRP | 2025-05-22 | https://www.occrp.org/en/news/massive-dark-web-sweep-leads-to-270-arrests-worldwide |
-| [5] | Operation RapTor: 270 Arrested in Global Crackdown on Dark Web Vendors | Hackread | 2025-05-22 | https://hackread.com/operation-raptor-police-arrests-270-dark-web-vendors/ |

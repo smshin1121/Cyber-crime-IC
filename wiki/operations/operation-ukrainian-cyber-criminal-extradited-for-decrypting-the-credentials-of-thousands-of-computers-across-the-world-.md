@@ -59,16 +59,12 @@ challenges_encountered:
 
 lessons_learned:
 
-source_count: 5
+source_count: 1
 sources:
   - "[[2021-09-08_mdfl_ivanov-tolpintsev-xdedic-extradition]]"
-  - "[[2021-09-09_tampafreepress_ukrainian-cyber-criminal-extradited-to-tampa-faces-17-years]]"
-  - "[[2021-09-08_bleepingcomputer_ukrainian-extradited-for-selling-2000-stolen-logins-per-week]]"
-  - "[[2021-09-08_therecord_ukrainian-indicted-for-running-brute-force-botnet-selling-hacked-pc-accounts]]"
-  - "[[2021-09-09_rferl_ukrainian-extradited-to-us-to-face-hacking-charges]]"
 summary: "This domestic-only U.S. follow-on record has been absorbed into the canonical case page [[ukrainian-cyber-criminal-extradited-for-decrypting-the-credentials-of-thousands-of-computers-across-the-world-]]. No visible cross-border mechanism is documented, so it is not treated as a separate international-cooperation operation."
 created: 2026-04-18
-updated: 2026-04-25
+updated: 2026-04-26
 ---
 ## Summary
 
@@ -83,7 +79,3 @@ This domestic-only U.S. follow-on record has been absorbed into the canonical ca
 | # | Title | Publisher | Date | URL |
 |---|---|---|---|---|
 | [1] | Ukrainian Cyber Criminal Extradited For Decrypting The Credentials Of Thousands Of Computers Across The World And Selling Them On A Dark Web Website | US DOJ (Middle District of Florida) | 2021-09-08 | https://www.justice.gov/usao-mdfl/pr/ukrainian-cyber-criminal-extradited-decrypting-credentials-thousands-computers-across |
-| [2] | Ukrainian Cyber Criminal Extradited To Tampa, Faces 17-Years In Federal Prison | Tampa Free Press | 2021-09-09 | https://www.tampafp.com/ukrainian-cyber-criminal-extradited-to-tampa-faces-17-years-in-federal-prison/ |
-| [3] | Ukrainian extradited for selling 2,000 stolen logins per week | BleepingComputer | 2021-09-08 | https://www.bleepingcomputer.com/news/security/ukrainian-extradited-for-selling-2-000-stolen-logins-per-week/ |
-| [4] | Ukrainian indicted for running brute-force botnet, selling hacked PC accounts | The Record (Recorded Future News) | 2021-09-08 | https://therecord.media/ukrainian-indicted-for-running-brute-force-botnet-selling-hacked-pc-accounts |
-| [5] | Ukrainian Extradited To U.S. To Face Hacking Charges | Radio Free Europe / Radio Liberty | 2021-09-09 | https://www.rferl.org/a/us-ukraine-hacking-extradition-/31451275.html |

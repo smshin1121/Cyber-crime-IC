@@ -59,16 +59,12 @@ challenges_encountered:
 
 lessons_learned:
 
-source_count: 5
+source_count: 1
 sources:
   - "[[2023-03-27_justice-gov_united-states-v-solomon-ekunke-okpe-and-johnson-uke-obogo]]"
-  - "[[2023-02-03_usao-az_nigerian-nationals-victimize-us-persons-cyber-enabled-fraud]]"
-  - "[[2023-03-29_saharareporters_nigerian-jailed-four-years-multi-million-dollar-cybercrime]]"
-  - "[[2023-03-28_vanguard_nigerian-bags-four-year-jail-1m-cyber-fraud]]"
-  - "[[2023-02-03_arizonadailyindependent_extradition-arizona-nigerians-plead-guilty-cyber-crimes]]"
 summary: "This domestic-only U.S. follow-on record has been absorbed into the canonical case page [[us-v-solomon-ekunke-okpe-and-johnson-uke-obogo]]. No visible cross-border mechanism is documented, so it is not treated as a separate international-cooperation operation."
 created: 2026-04-17
-updated: 2026-04-25
+updated: 2026-04-26
 ---
 ## Summary
 
@@ -83,7 +79,3 @@ This domestic-only U.S. follow-on record has been absorbed into the canonical ca
 | # | Title | Publisher | Date | URL |
 |---|---|---|---|---|
 | [1] | Foreign National Sentenced for Victimizing U.S. Persons Through Cyber-Enabled Fraud Schemes | US DOJ (Office of Public Affairs) | 2023-03-27 | https://www.justice.gov/archives/opa/pr/foreign-national-sentenced-victimizing-us-persons-through-cyber-enabled-fraud-schemes |
-| [2] | Nigerian Nationals Victimize U.S. Persons Through Cyber-Enabled Fraud Schemes | U.S. Attorney's Office, District of Arizona | 2023-02-03 | https://www.justice.gov/usao-az/pr/nigerian-nationals-victimize-us-persons-through-cyber-enabled-fraud-schemes |
-| [3] | Nigerian Jailed Four Years In U.S. Over Multi-million Dollar Cybercrime | Sahara Reporters | 2023-03-29 | https://saharareporters.com/2023/03/29/nigerian-jailed-four-years-us-over-multi-million-dollar-cybercrime |
-| [4] | Nigerian bags four-year jail term in US for $1m cyber-fraud | Vanguard News | 2023-03-28 | https://www.vanguardngr.com/2023/03/nigerian-bags-four-year-jail-term-in-us-for-1m-cyber-fraud/ |
-| [5] | After Extradition To Arizona, Nigerians Plead Guilty To Cyber Crimes | Arizona Daily Independent | 2023-02-03 | https://arizonadailyindependent.com/2023/02/03/after-extradition-to-arizona-nigerians-plead-guilty-to-cyber-crimes/ |

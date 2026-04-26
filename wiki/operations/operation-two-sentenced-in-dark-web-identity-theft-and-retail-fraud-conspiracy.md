@@ -59,16 +59,12 @@ challenges_encountered:
 
 lessons_learned:
 
-source_count: 5
+source_count: 1
 sources:
   - "[[2026-04-18_justice-gov_two-sentenced-dark-web-identity-theft-and-retail-fraud-conspiracy]]"
-  - "[[2024-11-26_cbs17_two-raleigh-men-sentenced-fraud-identity-theft-laundering]]"
-  - "[[2024-11-27_thecoastlandtimes_two-men-sentenced-dark-web-identity-theft-retail-fraud]]"
-  - "[[2024-11-22_hoodline_new-york-duo-sentenced-raleigh-dark-web-identity-theft]]"
-  - "[[2024-11-22_jocoreport_two-sentenced-dark-web-identity-theft-retail-fraud]]"
 summary: "This domestic-only U.S. follow-on record has been absorbed into the canonical case page [[two-sentenced-in-dark-web-identity-theft-and-retail-fraud-conspiracy]]. No visible cross-border mechanism is documented, so it is not treated as a separate international-cooperation operation."
 created: 2026-04-18
-updated: 2026-04-25
+updated: 2026-04-26
 ---
 ## Summary
 
@@ -83,7 +79,3 @@ This domestic-only U.S. follow-on record has been absorbed into the canonical ca
 | # | Title | Publisher | Date | URL |
 |---|---|---|---|---|
 | [1] | Two Sentenced in Dark Web Identity Theft and Retail Fraud Conspiracy | US DOJ USAO | 2024-11-04 | https://www.justice.gov/usao-ednc/pr/two-sentenced-dark-web-identity-theft-and-retail-fraud-conspiracy |
-| [2] | 2 Raleigh men sentenced for involvement in fraud schemes, identity theft laundering $1+ million, USDOJ says | CBS17 (WNCN Raleigh) | 2024-11-26 | https://www.cbs17.com/news/local-news/wake-county-news/two-raleigh-men-sentenced-for-involvement-in-fraud-schemes-identity-theft-laundering-one-million-dollars-usdoj-says/ |
-| [3] | Two men sentenced to prison, ordered to pay restitution for roles in dark web identity theft and retail fraud conspiracy | The Coastland Times | 2024-11-27 | https://www.thecoastlandtimes.com/2024/11/27/two-men-sentenced-to-prison-ordered-to-pay-restitution-for-roles-in-dark-web-identity-theft-and-retail-fraud-conspiracy/ |
-| [4] | New York Duo Sentenced in Raleigh for Dark Web Identity Theft and Retail Fraud Conspiracy | Hoodline | 2024-11-22 | https://hoodline.com/2024/11/new-york-duo-sentenced-in-raleigh-for-dark-web-identity-theft-and-retail-fraud-conspiracy/ |
-| [5] | Two Sentenced In Dark Web Identity Theft And Retail Fraud Conspiracy | Johnston County Report | 2024-11-22 | https://jocoreport.com/two-sentenced-in-dark-web-identity-theft-and-retail-fraud-conspiracy/ |

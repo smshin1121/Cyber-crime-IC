@@ -59,16 +59,12 @@ challenges_encountered:
 
 lessons_learned:
 
-source_count: 5
+source_count: 1
 sources:
-  - "[[2026-04-18_justice-gov_montgomery-county-doctor-charged-illegally-prescribing-opioids]]"
   - "[[2019-08-02_cbsnews-philadelphia_montgomery-county-doctor-charged]]"
-  - "[[2018-03-15_inquirer_montco-psychiatrist-charged-running-pill-mill]]"
-  - "[[2019-08-02_nbc10philly_four-pennsylvania-doctors-over-prescribing-opioids]]"
-  - "[[2019-08-02_6abc_four-montco-doctors-illegally-prescribing-opioids]]"
 summary: "This domestic-only U.S. follow-on record has been absorbed into the canonical case page [[montgomery-county-doctor-charged-with-illegally-prescribing-opioids]]. No visible cross-border mechanism is documented, so it is not treated as a separate international-cooperation operation."
 created: 2026-04-18
-updated: 2026-04-25
+updated: 2026-04-26
 ---
 ## Summary
 
@@ -82,8 +78,4 @@ This domestic-only U.S. follow-on record has been absorbed into the canonical ca
 
 | # | Title | Publisher | Date | URL |
 |---|---|---|---|---|
-| [1] | Montgomery County Doctor Charged with Illegally Prescribing Opioids | US DOJ USAO | 2019-08-02 | https://www.justice.gov/usao-edpa/pr/montgomery-county-doctor-charged-illegally-prescribing-opioids |
-| [2] | Montgomery County Doctor Charged For Illegally Prescribing Opioids, Prosecutors Say | CBS News Philadelphia (KYW-TV) | 2019-08-02 | https://www.cbsnews.com/philadelphia/news/montgomery-county-doctor-charged-for-illegally-prescribing-opioids-prosecutors-say/ |
-| [3] | Montco psychiatrist charged with running 'pill mill' | The Philadelphia Inquirer | 2018-03-15 | https://www.inquirer.com/philly/health/opioid-crisis-montgomery-county-pill-mill-psychiatrist-20180315.html |
-| [4] | Four Pennsylvania Doctors Charged for Over-Prescribing Opioids, Other Narcotic, Montgomery Officials Say | NBC10 Philadelphia | 2019-08-02 | https://www.nbcphiladelphia.com/news/local/Four-Pennsylvania-Doctor-Charged-for-Over-Prescribing-Opioids-493073701.html |
-| [5] | Four Montgomery County doctors accused of illegally prescribing opioids | 6abc Philadelphia | 2019-08-02 | https://6abc.com/four-montco-doctors-accused-of-illegally-prescribing-opioids/4223129/ |
+| [1] | Montgomery County Doctor Charged For Illegally Prescribing Opioids, Prosecutors Say | CBS News Philadelphia (KYW-TV) | 2019-08-02 | https://www.cbsnews.com/philadelphia/news/montgomery-county-doctor-charged-for-illegally-prescribing-opioids-prosecutors-say/ |

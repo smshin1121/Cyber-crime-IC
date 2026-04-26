@@ -59,16 +59,12 @@ challenges_encountered:
 
 lessons_learned:
 
-source_count: 5
+source_count: 1
 sources:
   - "[[2026-04-18_justice-gov_michigan-man-indicted-wire-fraud-and-aggravated-identity-theft-charges]]"
-  - "[[2025-02-21_infosecurity-magazine_michigan-man-indicted-dark-web-credential-fraud]]"
-  - "[[2026-03-19_alphanews_michigan-man-sentenced-wire-fraud-aggravated-identity-theft-minnesota]]"
-  - "[[2025-02-20_kimt_former-minnesota-man-caught-dark-web-scheme-5-years-jail]]"
-  - "[[2025-02-20_yahoo_indictment-michigan-man-living-minnesota-2500-stolen-logins]]"
 summary: "This domestic-only U.S. follow-on record has been absorbed into the canonical case page [[us-v-andrew-shenkosky]]. No visible cross-border mechanism is documented, so it is not treated as a separate international-cooperation operation."
 created: 2026-04-18
-updated: 2026-04-25
+updated: 2026-04-26
 ---
 ## Summary
 
@@ -83,7 +79,3 @@ This domestic-only U.S. follow-on record has been absorbed into the canonical ca
 | # | Title | Publisher | Date | URL |
 |---|---|---|---|---|
 | [1] | Michigan Man Indicted on Wire Fraud and Aggravated Identity Theft Charges | US DOJ USAO | 2025-02-20 | https://www.justice.gov/usao-mn/pr/michigan-man-indicted-wire-fraud-and-aggravated-identity-theft-charges |
-| [2] | Michigan Man Indicted for Dark Web Credential Fraud | Infosecurity Magazine | 2025-02-21 | https://www.infosecurity-magazine.com/news/infraud-gang-member-pleads-guilty/ |
-| [3] | Michigan man sentenced for wire fraud and aggravated identity theft charges in Minnesota | Alpha News | 2026-03-19 | https://alphanews.org/michigan-man-sentenced-for-wire-fraud-and-aggravated-identity-theft-charges-in-minnesota/ |
-| [4] | Former Minnesota man caught in dark web scheme gets 5 years in jail | KIMT (CBS Rochester MN) | 2025-02-20 | https://www.kimt.com/news/former-minnesota-man-caught-in-dark-web-scheme-gets-5-years-in-jail/article_e5fe8891-cfcf-42c7-b54a-afe2323ac41a.html |
-| [5] | Indictment: Michigan man living in Minnesota used dark web to buy 2,500 stolen logins | Yahoo News (via Star Tribune) | 2025-02-20 | https://www.yahoo.com/news/indictment-michigan-man-living-minnesota-224018996.html |

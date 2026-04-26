@@ -59,16 +59,12 @@ challenges_encountered:
 
 lessons_learned:
 
-source_count: 5
+source_count: 1
 sources:
-  - "[[2026-04-18_justice-gov_registered-sex-offender-admits-possessing-child-pornography-0]]"
   - "[[2024-08-22_doj-edmo_st-charles-sex-offender-admits-possessing-child-pornography]]"
-  - "[[2025-03-13_doj-edmo_missouri-sex-offender-sentenced-14-years-prison-possessing-child-pornography]]"
-  - "[[2025-03-13_kttn_chesterfield-man-sentenced-14-years-prison-child-porn-charges]]"
-  - "[[2025-03-14_hoodline_missouri-sex-offender-sentenced-14-years-child-pornography-possession]]"
 summary: "This domestic-only U.S. follow-on record has been absorbed into the canonical case page [[registered-sex-offender-admits-possessing-child-pornography-0]]. No visible cross-border mechanism is documented, so it is not treated as a separate international-cooperation operation."
 created: 2026-04-18
-updated: 2026-04-25
+updated: 2026-04-26
 ---
 ## Summary
 
@@ -82,8 +78,4 @@ This domestic-only U.S. follow-on record has been absorbed into the canonical ca
 
 | # | Title | Publisher | Date | URL |
 |---|---|---|---|---|
-| [1] | Registered Sex Offender Admits Possessing Child Pornography | US DOJ USAO | 2024-11-19 | https://www.justice.gov/usao-edmo/pr/registered-sex-offender-admits-possessing-child-pornography-0 |
-| [2] | St. Charles Sex Offender Admits Possessing Child Pornography | US DOJ USAO Eastern District of Missouri | 2024-08-22 | https://www.justice.gov/usao-edmo/pr/st-charles-sex-offender-admits-possessing-child-pornography |
-| [3] | Missouri Sex Offender Sentenced to 14 Years in Prison for Possessing Child Pornography | US DOJ USAO Eastern District of Missouri | 2025-03-13 | https://www.justice.gov/usao-edmo/pr/missouri-sex-offender-sentenced-14-years-prison-possessing-child-pornography |
-| [4] | Chesterfield man sentenced to 14-years in prison on child porn charges | KTTN | 2025-03-13 | https://www.kttn.com/chesterfield-man-sentenced-to-14-years-in-prison-on-child-porn-charges/ |
-| [5] | Missouri Sex Offender Sentenced to 14 Years for Child Pornography Possession | Hoodline | 2025-03-14 | https://hoodline.com/2025/03/missouri-sex-offender-sentenced-to-14-years-for-child-pornography-possession/ |
+| [1] | St. Charles Sex Offender Admits Possessing Child Pornography | US DOJ USAO Eastern District of Missouri | 2024-08-22 | https://www.justice.gov/usao-edmo/pr/st-charles-sex-offender-admits-possessing-child-pornography |

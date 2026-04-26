@@ -59,16 +59,12 @@ challenges_encountered:
 
 lessons_learned:
 
-source_count: 5
+source_count: 1
 sources:
   - "[[2022-03-16_justice-gov_united-states-v-igor-dekhtyarchuk]]"
-  - "[[2022-03-23_bleepingcomputer_fbi-adds-russian-cybercrime-market-owner-to-most-wanted-list]]"
-  - "[[2022-03-22_cyberscoop_igor-dekhtyarchuk-marketplace-a-indictment-doj-fbi]]"
-  - "[[2022-03-23_thehackernews_23-year-old-russian-hacker-wanted-by-fbi-for-running-marketplace-of-stolen-logins]]"
-  - "[[2022-03-23_click2houston_russian-man-indicted-in-east-texas-for-cyber-hacking-enterprise]]"
 summary: "This domestic-only U.S. follow-on record has been absorbed into the canonical case page [[russian-national-indicted-in-east-texas-for-cyber-hacking-enterprise]]. No visible cross-border mechanism is documented, so it is not treated as a separate international-cooperation operation."
 created: 2026-04-18
-updated: 2026-04-25
+updated: 2026-04-26
 ---
 ## Summary
 
@@ -83,7 +79,3 @@ This domestic-only U.S. follow-on record has been absorbed into the canonical ca
 | # | Title | Publisher | Date | URL |
 |---|---|---|---|---|
 | [1] | Russian National Indicted in East Texas for Cyber Hacking Enterprise | US DOJ (Eastern District of Texas) | 2022-03-16 | https://www.justice.gov/usao-edtx/pr/russian-national-indicted-east-texas-cyber-hacking-enterprise |
-| [2] | FBI adds Russian cybercrime market owner to most wanted list | BleepingComputer | 2022-03-23 | https://www.bleepingcomputer.com/news/security/fbi-adds-russian-cybercrime-market-owner-to-most-wanted-list/ |
-| [3] | Russian indicted, added to 'Most Wanted' in cybercrime market case | CyberScoop | 2022-03-22 | https://cyberscoop.com/igor-dekhtyarchuk-marketplace-a-indictment-doj-fbi/ |
-| [4] | 23-Year-Old Russian Hacker Wanted by FBI for Running Marketplace of Stolen Logins | The Hacker News | 2022-03-23 | https://thehackernews.com/2022/03/23-year-old-russian-hacker-wanted-by.html |
-| [5] | Russian man indicted in East Texas for cyber hacking enterprise | Click2Houston (KPRC) | 2022-03-23 | https://www.click2houston.com/news/local/2022/03/23/russian-man-indicted-in-east-texas-for-cyber-hacking-enterprise/ |

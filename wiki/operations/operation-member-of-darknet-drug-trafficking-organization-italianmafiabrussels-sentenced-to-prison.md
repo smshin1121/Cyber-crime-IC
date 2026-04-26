@@ -59,16 +59,12 @@ challenges_encountered:
 
 lessons_learned:
 
-source_count: 5
+source_count: 1
 sources:
-  - "[[2026-04-18_justice-gov_member-darknet-drug-trafficking-organization-italianmafiabrussels-sentenced-prison]]"
   - "[[2018-04-11_ice-gov_member-darknet-drug-trafficking-organization-italianmafiabrussels-sentenced-3-years]]"
-  - "[[2018-04-11_occrp_org_us-3-years-prison-for-international-darknet-drug-trafficker]]"
-  - "[[2016-10-17_justice-gov_romania-extradites-alleged-leader-italianmafiabrussels-drug-trafficking-organization]]"
-  - "[[2016-10-17_ice-gov_alleged-leader-italianmafiabrussels-drug-trafficking-organization-extradited-romania]]"
 summary: "This domestic-only U.S. follow-on record has been absorbed into the canonical case page [[member-of-darknet-drug-trafficking-organization-italianmafiabrussels-sentenced-to-prison]]. No visible cross-border mechanism is documented, so it is not treated as a separate international-cooperation operation."
 created: 2026-04-18
-updated: 2026-04-25
+updated: 2026-04-26
 ---
 ## Summary
 
@@ -82,8 +78,4 @@ This domestic-only U.S. follow-on record has been absorbed into the canonical ca
 
 | # | Title | Publisher | Date | URL |
 |---|---|---|---|---|
-| [1] | Member of Darknet Drug Trafficking Organization “ItalianMafiaBrussels” Sentenced to Prison | US DOJ USAO | 2018-04-12 | https://www.justice.gov/usao-co/pr/member-darknet-drug-trafficking-organization-italianmafiabrussels-sentenced-prison |
-| [2] | Member of Darknet drug trafficking organization 'ItalianMafiaBrussels' sentenced to 3 years in federal prison | ICE | 2018-04-11 | https://www.ice.gov/news/releases/member-darknet-drug-trafficking-organization-italianmafiabrussels-sentenced-3-years |
-| [3] | US: 3 Years Prison for International Darknet Drug Trafficker | OCCRP | 2018-04-11 | https://www.occrp.org/en/news/us-3-years-prison-for-international-darknet-drug-trafficker |
-| [4] | Romania Extradites Alleged Leader of "ItalianMafiaBrussels" Drug Trafficking Organization to Colorado for Prosecution | US DOJ USAO | 2016-10-17 | https://www.justice.gov/usao-co/pr/romania-extradites-alleged-leader-italianmafiabrussels-drug-trafficking-organization |
-| [5] | Alleged leader of 'ItalianMafiaBrussels' drug trafficking organization extradited from Romania to Colorado to face trial | ICE | 2016-10-17 | https://www.ice.gov/news/releases/alleged-leader-italianmafiabrussels-drug-trafficking-organization-extradited-romania |
+| [1] | Member of Darknet drug trafficking organization 'ItalianMafiaBrussels' sentenced to 3 years in federal prison | ICE | 2018-04-11 | https://www.ice.gov/news/releases/member-darknet-drug-trafficking-organization-italianmafiabrussels-sentenced-3-years |

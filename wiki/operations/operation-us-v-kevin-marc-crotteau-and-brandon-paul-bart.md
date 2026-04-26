@@ -59,16 +59,12 @@ challenges_encountered:
 
 lessons_learned:
 
-source_count: 5
+source_count: 1
 sources:
-  - "[[2026-04-18_justice-gov_idaho-man-sentenced-federal-prison-role-darknet-drug-distribution-scheme]]"
   - "[[2021-03-23_elkhorn_former-boise-idaho-man-sentenced-darknet-drug-scheme]]"
-  - "[[2021-03-24_darknetdaily_idaho-man-sentenced-prison-mdma-ketamine-trafficking-scheme]]"
-  - "[[2021-03-23_getinfosec_former-boise-man-prison-mdma-ketamine-darknet]]"
-  - "[[2021-04-03_shorenews_leader-darknet-drug-distribution-conspiracy-sentenced-federal-prison]]"
 summary: "This domestic-only U.S. follow-on record has been absorbed into the canonical case page [[us-v-kevin-marc-crotteau-and-brandon-paul-bart]]. No visible cross-border mechanism is documented, so it is not treated as a separate international-cooperation operation."
 created: 2026-04-18
-updated: 2026-04-25
+updated: 2026-04-26
 ---
 ## Summary
 
@@ -82,8 +78,4 @@ This domestic-only U.S. follow-on record has been absorbed into the canonical ca
 
 | # | Title | Publisher | Date | URL |
 |---|---|---|---|---|
-| [1] | Idaho Man Sentenced to Federal Prison for Role in Darknet Drug Distribution Scheme | US DOJ USAO | 2021-03-23 | https://www.justice.gov/usao-or/pr/idaho-man-sentenced-federal-prison-role-darknet-drug-distribution-scheme |
-| [2] | Former Boise, Idaho Man Sentenced to Federal Prison for Role in Darknet Drug Distribution Scheme | Elkhorn Media Group | 2021-03-23 | https://www.facebook.com/ElkhornMediaGroup/posts/former-boise-idaho-man-sentenced-to-federal-prison-for-role-in-darknet-drug-dist/4290724240961884/ |
-| [3] | Idaho Man Sentenced to Prison for MDMA and Ketamine Trafficking Scheme | Darknet Daily | 2021-03-24 | https://darknetdaily.com/2021/03/24/idaho-man-sentenced-to-prison-for-mdma-and-ketamine-trafficking-scheme/ |
-| [4] | Former Boise man sentenced to prison for dealing MDMA, ketamine over the darknet | GetInfoSec News | 2021-03-23 | https://www.getinfosec.news/4928590/former-boise-man-sentenced-to-prison-for-dealing-mdma-ketamine-over-the-darknet |
-| [5] | Leader of Darknet Drug Distribution Conspiracy Sentenced to Federal Prison | Shore News Network | 2021-04-03 | https://www.shorenewsnetwork.com/2021/04/03/leader-of-darknet-drug-distribution-conspiracy-sentenced-to-federal-prison/ |
+| [1] | Former Boise, Idaho Man Sentenced to Federal Prison for Role in Darknet Drug Distribution Scheme | Elkhorn Media Group | 2021-03-23 | https://www.facebook.com/ElkhornMediaGroup/posts/former-boise-idaho-man-sentenced-to-federal-prison-for-role-in-darknet-drug-dist/4290724240961884/ |

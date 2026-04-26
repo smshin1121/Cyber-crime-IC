@@ -60,16 +60,12 @@ challenges_encountered:
 
 lessons_learned:
 
-source_count: 5
+source_count: 1
 sources:
   - "[[2026-04-18_justice-gov_phobos-ransomware-administrator-extradited-south-korea-face-cybercrime-charges]]"
-  - "[[2024-11-18_bleepingcomputer_us-charges-phobos-ransomware-admin-after-south-korea-extradition]]"
-  - "[[2024-11-18_therecord_russian-national-in-custody-extradited]]"
-  - "[[2026-03-05_securityweek_russian-ransomware-operator-pleads-guilty-in-us]]"
-  - "[[2024-11-19_infosecurity-magazine_phobos-ransomware-admin-extradited]]"
 summary: "This domestic-only U.S. follow-on record has been absorbed into the canonical case page [[us-v-evgenii-ptitsyn]]. No visible cross-border mechanism is documented, so it is not treated as a separate international-cooperation operation."
 created: 2026-04-18
-updated: 2026-04-25
+updated: 2026-04-26
 ---
 ## Summary
 
@@ -84,7 +80,3 @@ This domestic-only U.S. follow-on record has been absorbed into the canonical ca
 | # | Title | Publisher | Date | URL |
 |---|---|---|---|---|
 | [1] | Phobos Ransomware Administrator Extradited From South Korea To Face Cybercrime Charges | US DOJ USAO | 2024-11-18 | https://www.justice.gov/usao-md/pr/phobos-ransomware-administrator-extradited-south-korea-face-cybercrime-charges |
-| [2] | US charges Phobos ransomware admin after South Korea extradition | BleepingComputer | 2024-11-18 | https://www.bleepingcomputer.com/news/security/us-charges-phobos-ransomware-admin-after-south-korea-extradition/ |
-| [3] | Russian national in US custody in Phobos ransomware investigation | The Record (Recorded Future News) | 2024-11-18 | https://therecord.media/russian-national-in-custody-extradited |
-| [4] | Russian Ransomware Operator Pleads Guilty in US | SecurityWeek | 2026-03-05 | https://www.securityweek.com/russian-ransomware-operator-pleads-guilty-in-us/ |
-| [5] | Suspected Phobos Ransomware Admin Extradited to US | Infosecurity Magazine | 2024-11-19 | https://www.infosecurity-magazine.com/news/phobos-ransomware-admin-extradited/ |

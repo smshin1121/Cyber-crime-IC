@@ -59,16 +59,12 @@ challenges_encountered:
 
 lessons_learned:
 
-source_count: 5
+source_count: 1
 sources:
-  - "[[2026-04-18_justice-gov_russian-national-sentenced-involvement-development-and-deployment-trickbot-malware]]"
   - "[[2024-01-26_securityaffairs_trickbot-malware-developer-sentenced-64-months]]"
-  - "[[2024-01-25_therecord_russian-developer-trickbot-malware-sentenced-five-years]]"
-  - "[[2024-01-25_theregister_trickbot-malware-developer-sentenced-five-years]]"
-  - "[[2024-01-26_gbhackers_russian-trickbot-malware-developer-pleaded-guilty]]"
 summary: "This domestic-only U.S. follow-on record has been absorbed into the canonical case page [[us-v-vladimir-dunaev]]. No visible cross-border mechanism is documented, so it is not treated as a separate international-cooperation operation."
 created: 2026-04-18
-updated: 2026-04-25
+updated: 2026-04-26
 ---
 ## Summary
 
@@ -82,8 +78,4 @@ This domestic-only U.S. follow-on record has been absorbed into the canonical ca
 
 | # | Title | Publisher | Date | URL |
 |---|---|---|---|---|
-| [1] | Russian National Sentenced for Involvement in Development and Deployment of Trickbot Malware | US DOJ USAO | 2024-01-25 | https://www.justice.gov/usao-ndoh/pr/russian-national-sentenced-involvement-development-and-deployment-trickbot-malware |
-| [2] | A TrickBot malware developer sentenced to 64 months in prison | Security Affairs | 2024-01-26 | https://securityaffairs.com/158194/cyber-crime/trickbot-dev-sentenced-64-months-jail.html |
-| [3] | Russian developer of Trickbot malware sentenced to five years in prison | The Record (Recorded Future News) | 2024-01-25 | https://therecord.media/trickbot-developer-sentenced-to-prison |
-| [4] | Trickbot malware scumbag gets five years for infecting hospitals, businesses | The Register | 2024-01-25 | https://www.theregister.com/2024/01/25/trickbot_malware_dev_sentenced/ |
-| [5] | Russian TrickBot Malware Developer Pleaded Guilty | GBHackers | 2024-01-26 | https://gbhackers.com/malware-developer-pleaded-guilty/ |
+| [1] | A TrickBot malware developer sentenced to 64 months in prison | Security Affairs | 2024-01-26 | https://securityaffairs.com/158194/cyber-crime/trickbot-dev-sentenced-64-months-jail.html |

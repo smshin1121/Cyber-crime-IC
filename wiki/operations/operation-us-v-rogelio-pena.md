@@ -59,16 +59,12 @@ challenges_encountered:
 
 lessons_learned:
 
-source_count: 5
+source_count: 1
 sources:
-  - "[[2026-04-18_justice-gov_tacoma-man-who-persisted-drug-trafficking-despite-being-stopped-more-25-pounds-meth]]"
-  - "[[2026-01-27_dea_tacoma-man-persisted-drug-trafficking-25-pounds-meth-66-months]]"
-  - "[[2026-01-27_irs_tacoma-man-persisted-drug-trafficking-25-pounds-meth]]"
   - "[[2026-01-27_dailyfly_tacoma-man-sentenced-66-months-25-pounds-meth-fentanyl]]"
-  - "[[2026-01-27_kiro7_22-year-old-66-months-distributing-20000-fentanyl-pills]]"
 summary: "This domestic-only U.S. follow-on record has been absorbed into the canonical case page [[us-v-rogelio-pena]]. No visible cross-border mechanism is documented, so it is not treated as a separate international-cooperation operation."
 created: 2026-04-18
-updated: 2026-04-25
+updated: 2026-04-26
 ---
 ## Summary
 
@@ -82,8 +78,4 @@ This domestic-only U.S. follow-on record has been absorbed into the canonical ca
 
 | # | Title | Publisher | Date | URL |
 |---|---|---|---|---|
-| [1] | Tacoma man who persisted in drug trafficking despite being stopped with more than 25 pounds of meth sentenced to 66 months in prison | US DOJ USAO | 2026-01-27 | https://www.justice.gov/usao-wdwa/pr/tacoma-man-who-persisted-drug-trafficking-despite-being-stopped-more-25-pounds-meth |
-| [2] | Tacoma Man Who Persisted in Drug Trafficking Despite Being Stopped With More Than 25 Pounds of Meth Sentenced to 66 Months in Prison | U.S. Drug Enforcement Administration | 2026-01-27 | https://www.dea.gov/press-releases/2026/01/27/tacoma-man-who-persisted-drug-trafficking-despite-being-stopped-more-25 |
-| [3] | Tacoma man who persisted in drug trafficking despite being stopped with more than 25 pounds of meth sentenced to 66 months in prison | Internal Revenue Service (Criminal Investigation) | 2026-01-27 | https://www.irs.gov/compliance/criminal-investigation/tacoma-man-who-persisted-in-drug-trafficking-despite-being-stopped-with-more-than-25-pounds-of-meth-sentenced-to-66-months-in-prison |
-| [4] | Tacoma Man Sentenced to 66 Months After Trafficking 25+ Pounds of Meth and 20,000 Fentanyl Pills | Dailyfly News | 2026-01-28 | https://www.dailyfly.com/2026/01/28/tacoma-man-sentenced-to-66-months-after-trafficking-25-pounds-of-meth-and-20000-fentanyl-pills/ |
-| [5] | 22-year-old gets 66 months for distributing 20,000 fentanyl pills in WA | KIRO 7 News Seattle | 2026-01-27 | https://www.kiro7.com/news/local/22-year-old-gets-66-months-distributing-20000-fentanyl-pills-wa/UXKZG355RJHMZHABBM4OVWOLNA/ |
+| [1] | Tacoma Man Sentenced to 66 Months After Trafficking 25+ Pounds of Meth and 20,000 Fentanyl Pills | Dailyfly News | 2026-01-28 | https://www.dailyfly.com/2026/01/28/tacoma-man-sentenced-to-66-months-after-trafficking-25-pounds-of-meth-and-20000-fentanyl-pills/ |

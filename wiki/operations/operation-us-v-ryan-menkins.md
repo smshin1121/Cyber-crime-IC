@@ -59,16 +59,12 @@ challenges_encountered:
 
 lessons_learned:
 
-source_count: 5
+source_count: 1
 sources:
-  - "[[2026-04-18_justice-gov_west-chester-drug-dealer-pleads-guilty-purchasing-hundreds-deadly-fentanyl-pills]]"
   - "[[2022-04-29_dea_fentanyl-dealer-pleads-guilty-distributing-narcotics]]"
-  - "[[2024-06-01_doj-edpa_west-chester-drug-dealer-sentenced-6-5-years-fentanyl]]"
-  - "[[2020-09-16_yc-news_west-chester-drug-dealer-fentanyl-disguised-as-pain-meds-6-years]]"
-  - "[[2024-06-01_wxpm_dealer-sentenced-deadly-disguised-drugs]]"
 summary: "This domestic-only U.S. follow-on record has been absorbed into the canonical case page [[us-v-ryan-menkins]]. No visible cross-border mechanism is documented, so it is not treated as a separate international-cooperation operation."
 created: 2026-04-18
-updated: 2026-04-25
+updated: 2026-04-26
 ---
 ## Summary
 
@@ -82,8 +78,4 @@ This domestic-only U.S. follow-on record has been absorbed into the canonical ca
 
 | # | Title | Publisher | Date | URL |
 |---|---|---|---|---|
-| [1] | West Chester Drug Dealer Pleads Guilty to Purchasing Hundreds of Deadly Fentanyl Pills Disguised as Oxycodone | US DOJ USAO | 2022-11-14 | https://www.justice.gov/usao-edpa/pr/west-chester-drug-dealer-pleads-guilty-purchasing-hundreds-deadly-fentanyl-pills |
-| [2] | Fentanyl Dealer Pleads Guilty to Distributing Narcotics | U.S. Drug Enforcement Administration | 2022-04-29 | https://www.dea.gov/press-releases/2022/04/29/fentanyl-dealer-pleads-guilty-distributing-narcotics |
-| [3] | West Chester Drug Dealer Sentenced to 6 ½ Years for Selling Hundreds of Deadly Fentanyl Pills Disguised as Oxycodone | U.S. Department of Justice — Eastern District of Pennsylvania | 2024-06-01 | https://www.justice.gov/usao-edpa/pr/west-chester-drug-dealer-sentenced-6-years-selling-hundreds-deadly-fentanyl-pills |
-| [4] | West Chester Drug Dealer Who Sold FENTANYL Disguised as Pain Meds Gets 6 Years in Fed Pen | YC News | 2020-09-16 | https://www.yc.news/2020/09/16/west-chester-drug-dealer-who-sold-fentanyl-disguised-as-pain-meds-gets-6-years-in-fed-pen/ |
-| [5] | Dealer Sentenced For Dispersing Deadly Disguised Drugs | WXPM 98.5-X | 2024-06-01 | https://wxpm.org/dealer-sentenced-dispersing-deadly-disguised-drugs/ |
+| [1] | Fentanyl Dealer Pleads Guilty to Distributing Narcotics | U.S. Drug Enforcement Administration | 2022-04-29 | https://www.dea.gov/press-releases/2022/04/29/fentanyl-dealer-pleads-guilty-distributing-narcotics |

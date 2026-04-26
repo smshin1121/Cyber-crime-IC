@@ -59,16 +59,12 @@ challenges_encountered:
 
 lessons_learned:
 
-source_count: 5
+source_count: 1
 sources:
-  - "[[2026-04-18_justice-gov_glendale-man-sentenced-10-years-federal-prison-participating-darknet-drug-trafficking]]"
-  - "[[2024-05-14_ktla_dark-web-drug-dealer-southern-california-10-years-federal-prison]]"
-  - "[[2024-05-14_mynewsla_glendale-man-gets-10-years-for-role-in-darknet-drug-ring]]"
-  - "[[2024-05-15_glendalenewspress_darknet-drug-ring-suspect-receives-10-year-sentence]]"
   - "[[2024-05-15_sanfernandosun_glendale-man-gets-10-years-for-role-in-darknet-drug-ring]]"
 summary: "This domestic-only U.S. follow-on record has been absorbed into the canonical case page [[us-v-arbi-setaghaian-sangbarani]]. No visible cross-border mechanism is documented, so it is not treated as a separate international-cooperation operation."
 created: 2026-04-18
-updated: 2026-04-25
+updated: 2026-04-26
 ---
 ## Summary
 
@@ -82,8 +78,4 @@ This domestic-only U.S. follow-on record has been absorbed into the canonical ca
 
 | # | Title | Publisher | Date | URL |
 |---|---|---|---|---|
-| [1] | Glendale Man Sentenced to 10 Years in Federal Prison for Participating in Darknet Drug Trafficking Organization | US DOJ USAO | 2024-05-14 | https://www.justice.gov/usao-cdca/pr/glendale-man-sentenced-10-years-federal-prison-participating-darknet-drug-trafficking |
-| [2] | Dark-web drug dealer in Southern California gets 10 years in federal prison | KTLA | 2024-05-14 | https://ktla.com/news/local-news/dark-web-drug-dealer-in-southern-california-gets-10-years-in-federal-prison/ |
-| [3] | Glendale Man Gets 10 Years for Role in Darknet Drug Ring | MyNewsLA | 2024-05-14 | https://mynewsla.com/life/2024/05/14/glendale-man-gets-10-years-for-role-in-darknet-drug-ring/ |
-| [4] | Darknet Drug Ring Suspect Receives 10-Year Sentence | Glendale News-Press | 2024-05-15 | https://outlooknewspapers.com/glendalenewspress/news/darknet-drug-ring-suspect-receives-10-year-sentence/article_58b8e229-994e-595f-aa4e-0dedb6619291.html |
-| [5] | Glendale Man Gets 10 Years for Role in Darknet Drug Ring | San Fernando Valley Sun | 2024-05-15 | https://sanfernandosun.com/2024/05/15/glendale-man-gets-10-years-for-role-in-darknet-drug-ring/ |
+| [1] | Glendale Man Gets 10 Years for Role in Darknet Drug Ring | San Fernando Valley Sun | 2024-05-15 | https://sanfernandosun.com/2024/05/15/glendale-man-gets-10-years-for-role-in-darknet-drug-ring/ |

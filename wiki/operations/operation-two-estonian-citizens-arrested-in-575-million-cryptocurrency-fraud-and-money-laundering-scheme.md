@@ -59,16 +59,12 @@ challenges_encountered:
 
 lessons_learned:
 
-source_count: 5
+source_count: 1
 sources:
   - "[[2026-04-18_justice-gov_two-estonian-citizens-arrested-575-million-cryptocurrency-fraud-and-money-laundering]]"
-  - "[[2022-11-21_estonianworld_two-estonian-citizens-arrested-suspected-usd-575-million-cryptocurrency-fraud]]"
-  - "[[2024-05-30_fox13seattle_2-estonians-indicted-600m-crypto-scheme-face-seattle-court]]"
-  - "[[2024-05-30_fortune_two-39-year-old-estonian-men-alleged-kingpins-half-billion-fraud-us-investors]]"
-  - "[[2025-04-18_coindesk_feds-mistakenly-order-estonian-hashflare-fraudsters-to-self-deport-ahead-of-sentencin]]"
 summary: "This domestic-only U.S. follow-on record has been absorbed into the canonical case page [[two-estonian-citizens-arrested-in-575-million-cryptocurrency-fraud-and-money-laundering-scheme]]. No visible cross-border mechanism is documented, so it is not treated as a separate international-cooperation operation."
 created: 2026-04-18
-updated: 2026-04-25
+updated: 2026-04-26
 ---
 ## Summary
 
@@ -83,7 +79,3 @@ This domestic-only U.S. follow-on record has been absorbed into the canonical ca
 | # | Title | Publisher | Date | URL |
 |---|---|---|---|---|
 | [1] | Two Estonian citizens arrested in $575 million cryptocurrency fraud and money laundering scheme | US DOJ USAO | 2022-11-21 | https://www.justice.gov/usao-wdwa/pr/two-estonian-citizens-arrested-575-million-cryptocurrency-fraud-and-money-laundering |
-| [2] | Two Estonian citizens arrested in a suspected USD 575 million cryptocurrency fraud | Estonian World | 2022-11-21 | https://estonianworld.com/security/two-estonian-citizens-arrested-in-a-suspected-usd575-million-cryptocurrency-fraud/ |
-| [3] | 2 Estonians indicted in $600M crypto scheme face Seattle court | FOX 13 Seattle | 2024-05-30 | https://www.fox13seattle.com/news/estonians-crypto-scam-seattle |
-| [4] | Two 39-year-old Estonian men are the alleged kingpins behind a massive half billion fraud targeting thousands of U.S. investors | Fortune | 2024-05-30 | https://fortune.com/2024/05/30/estonian-men-kingpins-half-billion-crypto-investors-alleged/ |
-| [5] | Feds Mistakenly Order Estonian HashFlare Fraudsters to Self-Deport Ahead of Sentencing | CoinDesk | 2025-04-18 | https://www.coindesk.com/policy/2025/04/18/feds-mistakenly-order-estonian-hashflare-fraudsters-to-self-deport-ahead-of-sentencing |

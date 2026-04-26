@@ -59,16 +59,12 @@ challenges_encountered:
 
 lessons_learned:
 
-source_count: 5
+source_count: 1
 sources:
-  - "[[2026-04-18_justice-gov_dark-web-drug-trafficker-pleads-guilty-charges-arising-out-clandestine-drug-lab]]"
   - "[[2023-07-19_irs-gov_dark-web-drug-trafficker-pleads-guilty-charges-arising-out-clandestine-drug-lab]]"
-  - "[[2023-07-19_cbsdetroit_detroit-woman-29-pleads-guilty-distributing-millions-pills-dark-web-trafficking]]"
-  - "[[2023-07-20_yahoo_fake-xanax-guns-cryptocurrency-dark-web-drug-dealers-detroit-house]]"
-  - "[[2024-03-24_clickondetroit_leader-dark-web-trafficking-ring-pleads-guilty-drug-charges]]"
 summary: "This domestic-only U.S. follow-on record has been absorbed into the canonical case page [[us-v-dark-web-drug-trafficker]]. No visible cross-border mechanism is documented, so it is not treated as a separate international-cooperation operation."
 created: 2026-04-18
-updated: 2026-04-25
+updated: 2026-04-26
 ---
 ## Summary
 
@@ -82,8 +78,4 @@ This domestic-only U.S. follow-on record has been absorbed into the canonical ca
 
 | # | Title | Publisher | Date | URL |
 |---|---|---|---|---|
-| [1] | Dark Web Drug Trafficker Pleads Guilty to Charges Arising out of a Clandestine Drug Lab in a Detroit Residence | US DOJ USAO | 2023-07-19 | https://www.justice.gov/usao-edmi/pr/dark-web-drug-trafficker-pleads-guilty-charges-arising-out-clandestine-drug-lab |
-| [2] | Dark web drug trafficker pleads guilty to charges arising out of a clandestine drug lab | U.S. Internal Revenue Service - Criminal Investigation (IRS-CI) | 2023-07-19 | https://www.irs.gov/compliance/criminal-investigation/dark-web-drug-trafficker-pleads-guilty-to-charges-arising-out-of-a-clandestine-drug-lab |
-| [3] | Detroit woman, 29, pleads guilty to distributing millions of pills in dark web trafficking case | CBS News Detroit | 2023-07-19 | https://www.cbsnews.com/detroit/news/detroit-woman-29-pleads-guilty-to-distributing-millions-of-pills-in-dark-web-trafficking-case/ |
-| [4] | Fake Xanax. Guns. Cryptocurrency. Dark web drug dealers hid them all in Detroit house | Detroit Free Press / Yahoo News | 2023-07-20 | https://news.yahoo.com/fake-xanax-guns-cryptocurrency-dark-100454284.html |
-| [5] | Leader of dark web trafficking ring pleads guilty to drug charges, prosecutors say | WDIV ClickOnDetroit | 2024-03-24 | https://www.clickondetroit.com/news/local/2024/03/24/leader-of-dark-web-trafficking-ring-pleads-guilty-to-drug-charges-prosecutors-say/ |
+| [1] | Dark web drug trafficker pleads guilty to charges arising out of a clandestine drug lab | U.S. Internal Revenue Service - Criminal Investigation (IRS-CI) | 2023-07-19 | https://www.irs.gov/compliance/criminal-investigation/dark-web-drug-trafficker-pleads-guilty-to-charges-arising-out-of-a-clandestine-drug-lab |

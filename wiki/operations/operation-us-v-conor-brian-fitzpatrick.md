@@ -59,16 +59,12 @@ challenges_encountered:
 
 lessons_learned:
 
-source_count: 5
+source_count: 1
 sources:
-  - "[[2026-04-18_justice-gov_garantex-cryptocurrency-exchange-disrupted-international-operation]]"
   - "[[2025-03-07_cyberscoop_russian-crypto-exchange-garantex-seized-international-operation]]"
-  - "[[2025-03-07_coindesk_sanctioned-russian-crypto-exchange-garantex-seized-operators-charged-money-laundering]]"
-  - "[[2025-03-07_techcrunch_us-charges-admins-garantex-money-laundering-terrorists-hackers]]"
-  - "[[2025-03-07_chainalysis_international-action-dismantles-russian-crypto-exchange-garantex]]"
 summary: "This domestic-only U.S. follow-on record has been absorbed into the canonical case page [[us-v-conor-brian-fitzpatrick]]. No visible cross-border mechanism is documented, so it is not treated as a separate international-cooperation operation."
 created: 2026-04-18
-updated: 2026-04-25
+updated: 2026-04-26
 ---
 ## Summary
 
@@ -82,8 +78,4 @@ This domestic-only U.S. follow-on record has been absorbed into the canonical ca
 
 | # | Title | Publisher | Date | URL |
 |---|---|---|---|---|
-| [1] | Garantex cryptocurrency exchange disrupted in international operation | US DOJ USAO | 2025-03-07 | https://www.justice.gov/usao-edva/pr/garantex-cryptocurrency-exchange-disrupted-international-operation |
-| [2] | Russian crypto exchange Garantex seized in international law enforcement operation | CyberScoop | 2025-03-07 | https://cyberscoop.com/garantex-seized-secret-service-doj-russia-crypto-sanctions/ |
-| [3] | Sanctioned Russian Crypto Exchange Garantex Seized, Operators Charged with Money Laundering | CoinDesk | 2025-03-07 | https://www.coindesk.com/policy/2025/03/07/sanctioned-russian-crypto-exchange-garantex-seized-operators-charged-with-money-laundering |
-| [4] | US charges admins of Garantex for allegedly facilitating crypto money laundering for terrorists and hackers | TechCrunch | 2025-03-07 | https://techcrunch.com/2025/03/07/us-charges-admins-of-garantex-for-allegedly-facilitating-crypto-money-laundering-for-terrorists-and-hackers/ |
-| [5] | International Action Dismantles Notorious Russian Crypto Exchange Garantex | Chainalysis | 2025-03-07 | https://www.chainalysis.com/blog/russian-exchange-garantex-dismantled/ |
+| [1] | Russian crypto exchange Garantex seized in international law enforcement operation | CyberScoop | 2025-03-07 | https://cyberscoop.com/garantex-seized-secret-service-doj-russia-crypto-sanctions/ |

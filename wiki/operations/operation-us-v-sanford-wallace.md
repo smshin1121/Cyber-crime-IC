@@ -59,16 +59,12 @@ challenges_encountered:
 
 lessons_learned:
 
-source_count: 5
+source_count: 1
 sources:
-  - "[[2026-04-18_justice-gov_sanford-spam-king-wallace-sentenced-two-and-half-years-custody-spamming-facebook-users]]"
-  - "[[2016-06-15_theregister_spam-king-sent-down-for-30-months]]"
   - "[[2016-06-15_siliconangle_facebook-spammer-sanford-spam-king-wallace-given-30-months-in-jail]]"
-  - "[[2016-06-16_fortune_spam-king-sanford-wallace-gets-30-months-in-prison]]"
-  - "[[2016-06-16_csmonitor_why-self-proclaimed-spam-king-got-30-months-in-prison-for-facebook-hack]]"
 summary: "This domestic-only U.S. follow-on record has been absorbed into the canonical case page [[us-v-sanford-wallace]]. No visible cross-border mechanism is documented, so it is not treated as a separate international-cooperation operation."
 created: 2026-04-18
-updated: 2026-04-25
+updated: 2026-04-26
 ---
 ## Summary
 
@@ -82,8 +78,4 @@ This domestic-only U.S. follow-on record has been absorbed into the canonical ca
 
 | # | Title | Publisher | Date | URL |
 |---|---|---|---|---|
-| [1] | Sanford “Spam King” Wallace Sentenced To Two And A Half Years In Custody For Spamming Facebook Users | US DOJ USAO | 2016-06-15 | https://www.justice.gov/usao-ndca/pr/sanford-spam-king-wallace-sentenced-two-and-half-years-custody-spamming-facebook-users |
-| [2] | Spam King sent down for 30 months | The Register | 2016-06-15 | https://www.theregister.com/2016/06/15/spam_king_sent_down_for_30_months/ |
-| [3] | Facebook spammer Sanford 'Spam King' Wallace given 30 months in jail | SiliconANGLE | 2016-06-15 | https://siliconangle.com/2016/06/15/facebook-spammer-sanford-spam-king-wallace-given-30-months-in-jail/ |
-| [4] | 'Spam King' Sanford Wallace Gets 30 Months in Prison | Fortune | 2016-06-16 | https://fortune.com/2016/06/16/sanford-wallace-spam-king-jail/ |
-| [5] | Why self-proclaimed 'Spam King' got 30 months in prison for Facebook hack | Christian Science Monitor | 2016-06-16 | https://www.csmonitor.com/Technology/2016/0616/Why-self-proclaimed-Spam-King-got-30-months-in-prison-for-Facebook-hack |
+| [1] | Facebook spammer Sanford 'Spam King' Wallace given 30 months in jail | SiliconANGLE | 2016-06-15 | https://siliconangle.com/2016/06/15/facebook-spammer-sanford-spam-king-wallace-given-30-months-in-jail/ |

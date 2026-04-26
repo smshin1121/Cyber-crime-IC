@@ -59,16 +59,12 @@ challenges_encountered:
 
 lessons_learned:
 
-source_count: 5
+source_count: 1
 sources:
-  - "[[2026-04-18_justice-gov_kc-man-sentenced-selling-meth-heroin-dark-web]]"
   - "[[2024-02-29_dea-gov_dark-web-dealer-meth-heroin-heads-prison]]"
-  - "[[2024-02-29_kctv5-com_kc-man-sentenced-decade-prison-selling-meth-heroin-dark-web]]"
-  - "[[2024-03-01_kttn-com_kc-man-sentenced-10-years-prison-selling-meth-heroin-dark-web]]"
-  - "[[2024-02-29_dea-gov_press-releases-dark-web-dealer-meth-heroin-heads-prison-index]]"
 summary: "This domestic-only U.S. follow-on record has been absorbed into the canonical case page [[kc-man-sentenced-for-selling-meth-heroin-on-the-dark-web]]. No visible cross-border mechanism is documented, so it is not treated as a separate international-cooperation operation."
 created: 2026-04-18
-updated: 2026-04-25
+updated: 2026-04-26
 ---
 ## Summary
 
@@ -82,8 +78,4 @@ This domestic-only U.S. follow-on record has been absorbed into the canonical ca
 
 | # | Title | Publisher | Date | URL |
 |---|---|---|---|---|
-| [1] | KC Man Sentenced for Selling Meth, Heroin on the Dark Web | US DOJ USAO | 2024-02-29 | https://www.justice.gov/usao-wdmo/pr/kc-man-sentenced-selling-meth-heroin-dark-web |
-| [2] | Dark Web Dealer of Meth, Heroin Heads to Prison | DEA | 2024-02-29 | https://www.dea.gov/press-releases/2024/02/29/dark-web-dealer-meth-heroin-heads-prison |
-| [3] | KC man sentenced to decade in prison for selling meth, heroin on dark web | KCTV5 | 2024-02-29 | https://www.kctv5.com/2024/02/29/kc-man-sentenced-decade-prison-selling-meth-heroin-dark-web/ |
-| [4] | KC man sentenced to 10 years in prison for selling meth, heroin on the Dark Web | KTTN | 2024-03-01 | https://www.kttn.com/kc-man-sentenced-to-10-years-in-prison-for-selling-meth-heroin-on-the-dark-web/ |
-| [5] | DEA Press Releases Index Entry for 'Dark Web Dealer of Meth, Heroin Heads to Prison' | DEA | 2024-02-29 | https://www.dea.gov/what-we-do/news/press-releases?f%5B0%5D=press_drugs%3A416&f%5B1%5D=press_subject%3A771&keywords= |
+| [1] | Dark Web Dealer of Meth, Heroin Heads to Prison | DEA | 2024-02-29 | https://www.dea.gov/press-releases/2024/02/29/dark-web-dealer-meth-heroin-heads-prison |

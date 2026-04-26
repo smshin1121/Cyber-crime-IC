@@ -59,16 +59,12 @@ challenges_encountered:
 
 lessons_learned:
 
-source_count: 5
+source_count: 1
 sources:
-  - "[[2026-04-18_justice-gov_ohio-man-pleads-guilty-unlawfully-stealing-over-712-seized-bitcoin-subject-forfeiture]]"
-  - "[[2023-01-06_coindesk_brother-of-criminal-bitcoin-mixing-ceo-pleads-guilty-stealing-712-bitcoins-irs]]"
-  - "[[2023-04-21_therecord_brother-helix-crypto-mixer-jailed-stealing-bitcoin]]"
   - "[[2023-01-09_chainalysis_investigation-larry-gary-harmon-helix-mixer]]"
-  - "[[2023-04-21_justice-gov-opa_man-sentenced-for-stealing-over-712-bitcoin-subject-forfeiture]]"
 summary: "This domestic-only U.S. follow-on record has been absorbed into the canonical case page [[us-v-gary-james-harmon]]. No visible cross-border mechanism is documented, so it is not treated as a separate international-cooperation operation."
 created: 2026-04-18
-updated: 2026-04-25
+updated: 2026-04-26
 ---
 ## Summary
 
@@ -82,8 +78,4 @@ This domestic-only U.S. follow-on record has been absorbed into the canonical ca
 
 | # | Title | Publisher | Date | URL |
 |---|---|---|---|---|
-| [1] | Ohio Man Pleads Guilty for Unlawfully Stealing Over 712 Seized Bitcoin Subject to Forfeiture in Brother’s Pending Criminal Case | US DOJ USAO | 2023-01-06 | https://www.justice.gov/usao-dc/pr/ohio-man-pleads-guilty-unlawfully-stealing-over-712-seized-bitcoin-subject-forfeiture |
-| [2] | Brother of Criminal Bitcoin Mixing CEO Pleads Guilty to Stealing 712 Bitcoins From IRS | CoinDesk | 2023-01-06 | https://www.coindesk.com/policy/2023/01/06/brother-of-criminal-bitcoin-mixing-ceo-pleads-guilty-to-stealing-712-bitcoins-from-irs |
-| [3] | Brother of man who ran Helix cryptocurrency mixer jailed for stealing 712 bitcoin | The Record (Recorded Future News) | 2023-04-21 | https://therecord.media/brother-helix-crypto-mixer-jailed-stealing-bitcoin |
-| [4] | The Investigation of Larry and Gary Harmon and the Helix Mixer | Chainalysis | 2023-01-09 | https://www.chainalysis.com/blog/helix-mixer-harmon-brothers-investigation/ |
-| [5] | Man Sentenced for Stealing Over 712 Bitcoin Subject to Forfeiture | U.S. Department of Justice, Office of Public Affairs | 2023-04-21 | https://www.justice.gov/opa/pr/man-sentenced-stealing-over-712-bitcoin-subject-forfeiture |
+| [1] | The Investigation of Larry and Gary Harmon and the Helix Mixer | Chainalysis | 2023-01-09 | https://www.chainalysis.com/blog/helix-mixer-harmon-brothers-investigation/ |

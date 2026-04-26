@@ -59,16 +59,12 @@ challenges_encountered:
 
 lessons_learned:
 
-source_count: 5
+source_count: 1
 sources:
-  - "[[2026-04-18_justice-gov_siemens-contract-employee-gets-jail-time-intentionally-damaging-computers]]"
   - "[[2019-12-17_postgazette_software-contractor-david-tinley-prison-logic-bombs-siemens-sabotage]]"
-  - "[[2019-12-18_bleepingcomputer_siemens-contractor-jailed-for-sabotage-with-logic-bombs]]"
-  - "[[2019-12-18_securityweek_former-siemens-contractor-sentenced-prison-planting-logic-bombs]]"
-  - "[[2019-06-25_theregister_thats-a-sticky-siemens-situation-former-coder-blows-his-logic-bomb]]"
 summary: "This domestic-only U.S. follow-on record has been absorbed into the canonical case page [[us-v-david-tinley]]. No visible cross-border mechanism is documented, so it is not treated as a separate international-cooperation operation."
 created: 2026-04-18
-updated: 2026-04-25
+updated: 2026-04-26
 ---
 ## Summary
 
@@ -82,8 +78,4 @@ This domestic-only U.S. follow-on record has been absorbed into the canonical ca
 
 | # | Title | Publisher | Date | URL |
 |---|---|---|---|---|
-| [1] | Siemens Contract Employee Gets Jail Time for Intentionally Damaging Computers | US DOJ USAO | 2019-12-17 | https://www.justice.gov/usao-wdpa/pr/siemens-contract-employee-gets-jail-time-intentionally-damaging-computers |
-| [2] | Software contractor gets prison for planting coding 'bombs' only he could fix | Pittsburgh Post-Gazette | 2019-12-17 | https://www.post-gazette.com/news/crime-courts/2019/12/17/Software-contractor-David-Tinley-prison-logic-bombs-Siemens-sabotage-coding/stories/201912170153 |
-| [3] | Siemens Contractor Jailed for Sabotage With Logic Bombs | BleepingComputer | 2019-12-18 | https://www.bleepingcomputer.com/news/security/siemens-contractor-jailed-for-sabotage-with-logic-bombs/ |
-| [4] | Former Siemens Contractor Sentenced to Prison for Planting Logic Bombs | SecurityWeek | 2019-12-18 | https://www.securityweek.com/former-siemens-contractor-sentenced-prison-planting-logic-bombs/ |
-| [5] | That's a sticky Siemens situation: Former coder blows his logic bomb guilty plea deal in court | The Register | 2019-06-25 | https://www.theregister.com/2019/06/25/siemens_logic_bomb/ |
+| [1] | Software contractor gets prison for planting coding 'bombs' only he could fix | Pittsburgh Post-Gazette | 2019-12-17 | https://www.post-gazette.com/news/crime-courts/2019/12/17/Software-contractor-David-Tinley-prison-logic-bombs-Siemens-sabotage-coding/stories/201912170153 |

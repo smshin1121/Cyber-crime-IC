@@ -59,16 +59,12 @@ challenges_encountered:
 
 lessons_learned:
 
-source_count: 5
+source_count: 1
 sources:
   - "[[2026-04-18_justice-gov_north-reading-man-indicted-possession-child-pornography]]"
-  - "[[2026-01-20_yahoo_massachusetts-man-indicted-on-child-porn-charge]]"
-  - "[[2025-08-15_homenewshere_north-reading-man-arrested-for-possession-of-child-porn]]"
-  - "[[2025-08-15_yahoo_registered-sex-offender-living-in-mass-town-caught-with-10k-child-porn-videos-images]]"
-  - "[[2025-08-15_newportdispatch_north-reading-man-charged-with-child-pornography-possession]]"
 summary: "This domestic-only U.S. follow-on record has been absorbed into the canonical case page [[north-reading-man-indicted-for-possession-of-child-pornography]]. No visible cross-border mechanism is documented, so it is not treated as a separate international-cooperation operation."
 created: 2026-04-18
-updated: 2026-04-25
+updated: 2026-04-26
 ---
 ## Summary
 
@@ -83,7 +79,3 @@ This domestic-only U.S. follow-on record has been absorbed into the canonical ca
 | # | Title | Publisher | Date | URL |
 |---|---|---|---|---|
 | [1] | North Reading Man Indicted for Possession of Child Pornography | US DOJ USAO | 2026-01-20 | https://www.justice.gov/usao-ma/pr/north-reading-man-indicted-possession-child-pornography |
-| [2] | Massachusetts man indicted on child porn charge | Yahoo News / Boston 25 | 2026-01-20 | https://www.yahoo.com/news/articles/massachusetts-man-indicted-child-porn-224142561.html |
-| [3] | North Reading man arrested for possession of child porn | Daily Times Chronicle | 2025-08-15 | https://homenewshere.com/daily_times_chronicle/news/reading/article_25cc6dd6-d43e-425c-98b8-8970d88a7a08.html |
-| [4] | Registered sex offender living in Mass. town caught with 10K child porn videos, images, police say | Yahoo News / Boston 25 | 2025-08-15 | https://www.yahoo.com/news/articles/registered-sex-offender-living-mass-182307905.html |
-| [5] | North Reading man charged with child pornography possession | Newport Dispatch | 2025-08-15 | https://www.newportdispatch.com/2025/08/15/north-reading-man-charged-with-child-pornography-possession/ |

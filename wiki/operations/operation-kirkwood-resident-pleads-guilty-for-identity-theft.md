@@ -59,16 +59,12 @@ challenges_encountered:
 
 lessons_learned:
 
-source_count: 5
+source_count: 1
 sources:
   - "[[2026-04-18_justice-gov_kirkwood-resident-pleads-guilty-identity-theft]]"
-  - "[[2021-11-03_fox2now_81-year-old-money-mule-pleads-guilty-romance-fraud-scheme]]"
-  - "[[2021-11-03_ksdk_kirkwood-woman-admits-helping-romance-scammer-money-mule]]"
-  - "[[2022-02-24_stlpr_kirkwood-octogenarian-international-money-mule]]"
-  - "[[2022-02-25_timesnewspapers_woman-sentenced-after-helping-scam-artist]]"
 summary: "This domestic-only U.S. follow-on record has been absorbed into the canonical case page [[kirkwood-resident-pleads-guilty-for-identity-theft]]. No visible cross-border mechanism is documented, so it is not treated as a separate international-cooperation operation."
 created: 2026-04-18
-updated: 2026-04-25
+updated: 2026-04-26
 ---
 ## Summary
 
@@ -83,7 +79,3 @@ This domestic-only U.S. follow-on record has been absorbed into the canonical ca
 | # | Title | Publisher | Date | URL |
 |---|---|---|---|---|
 | [1] | Kirkwood resident pleads guilty for identity theft | US DOJ USAO | 2021-11-03 | https://www.justice.gov/usao-edmo/pr/kirkwood-resident-pleads-guilty-identity-theft |
-| [2] | 81-year-old 'money mule' pleads guilty in romance fraud scheme | Fox 2 Now (KTVI) | 2021-11-03 | https://fox2now.com/news/missouri/81-year-old-money-mule-pleads-guilty-in-romance-fraud-scheme/ |
-| [3] | Kirkwood woman admits to helping romance scammer as 'money mule' | KSDK (NBC5 St. Louis) | 2021-11-03 | https://www.ksdk.com/article/news/crime/81-year-old-woman-helping-romance-scammer-money-mule/63-bf945a92-e99f-4893-a1f9-53d66af997cf |
-| [4] | How a Kirkwood octogenarian became an international money mule | STLPR (St. Louis Public Radio) | 2022-02-24 | https://www.stlpr.org/show/st-louis-on-the-air/2022-02-24/how-a-kirkwood-octogenarian-became-an-international-money-mule |
-| [5] | Woman Sentenced After Helping Scam Artist | Webster-Kirkwood Times | 2022-02-25 | https://www.timesnewspapers.com/webster-kirkwoodtimes/woman-sentenced-after-helping-scam-artist/article_1b2ae9e0-9b02-11ec-bb64-5ff45577d3b2.html |

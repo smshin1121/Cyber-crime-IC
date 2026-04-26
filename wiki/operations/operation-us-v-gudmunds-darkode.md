@@ -52,15 +52,11 @@ challenges_encountered:
 
 lessons_learned:
 
-source_count: 5
+source_count: 1
 sources:
-  - "[[2015-07-15_wdpa_darkode-indictment]]"
-  - "[[2015-07-15_fbi-gov_cyber-criminal-forum-taken-down]]"
   - "[[2015-07-15_justice-gov_darkode-forum-dismantled-w-d-pa]]"
-  - "[[2015-07-01_wired-com_dozens-nabbed-takedown-cybercrime-forum-darkode]]"
-  - "[[2015-07-15_krebsonsecurity-com_the-darkode-cybercrime-forum-up-close]]"
 created: 2026-04-17
-updated: 2026-04-22
+updated: 2026-04-26
 operation_role: follow-on
 parent_operation: "[[darkode-takedown]]"
 summary: "This domestic-only U.S. follow-on record has been absorbed into the canonical case page [[us-v-gudmunds-darkode]]. No visible cross-border mechanism is documented, so it is not treated as a separate international-cooperation operation."
@@ -83,8 +79,4 @@ This domestic-only U.S. follow-on record has been absorbed into the canonical ca
 
 | # | Title | Publisher | Date | URL |
 |---|---|---|---|---|
-| [1] | Major Computer Hacking Forum Dismantled | US DOJ (W.D. Pa. / OPA) | 2015-07-15 | https://www.justice.gov/opa/pr/major-computer-hacking-forum-dismantled |
-| [2] | Cyber Criminal Forum Taken Down | FBI | 2015-07-15 | https://www.fbi.gov/news/stories/cyber-criminal-forum-taken-down |
-| [3] | Darkode Forum Dismantled (W.D. Pa.) | DOJ W.D. Pa. | 2015-07-15 | https://www.justice.gov/usao-wdpa/pr/major-computer-hacking-forum-dismantled |
-| [4] | Dozens Nabbed Takedown Cybercrime Forum Darkode | Wired | 2015-07-01 | https://www.wired.com/2015/07/dozens-nabbed-takedown-cybercrime-forum-darkode/ |
-| [5] | The Darkode Cybercrime Forum, Up Close | Krebs on Security | 2015-07-15 | https://krebsonsecurity.com/2015/07/the-darkode-cybercrime-forum-up-close/ |
+| [1] | Darkode Forum Dismantled (W.D. Pa.) | DOJ W.D. Pa. | 2015-07-15 | https://www.justice.gov/usao-wdpa/pr/major-computer-hacking-forum-dismantled |

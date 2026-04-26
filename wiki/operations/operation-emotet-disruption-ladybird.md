@@ -53,16 +53,11 @@ challenges_encountered:
 
 lessons_learned:
 
-source_count: 6
+source_count: 1
 sources:
-  - "[[2021-01-27_mdnc_emotet-disruption-order]]"
-  - "[[2021-01-27-europol-emotet-disruption]]"
   - "[[2021-01-27-doj-emotet-disruption]]"
-  - "[[2021-01-27-eurojust-emotet-operation]]"
-  - "[[2021-01-27-doj-mdnc-emotet]]"
-  - "[[2026-04-17_justice-gov_documents-and-resources-related-disruption-emotet-malware-and-botnet]]"
 created: 2026-04-17
-updated: 2026-04-22
+updated: 2026-04-26
 operation_role: follow-on
 parent_operation: "[[emotet-takedown]]"
 summary: "This domestic-only U.S. follow-on record has been absorbed into the canonical case page [[emotet-disruption-ladybird]]. No visible cross-border mechanism is documented, so it is not treated as a separate international-cooperation operation."
@@ -85,9 +80,4 @@ This domestic-only U.S. follow-on record has been absorbed into the canonical ca
 
 | # | Title | Publisher | Date | URL |
 |---|---|---|---|---|
-| [1] | Emotet Botnet Disrupted in International Cyber Operation | US DOJ (OPA / M.D.N.C.) | 2021-01-27 | https://www.justice.gov/archives/opa/pr/emotet-botnet-disrupted-international-cyber-operation |
-| [2] | World's most dangerous malware EMOTET disrupted through global action | Europol | 2021-01-27 | https://www.europol.europa.eu/media-press/newsroom/news/world%E2%80%99s-most-dangerous-malware-emotet-disrupted-through-global-action |
-| [3] | Emotet Botnet Disrupted in International Cyber Operation | US Department of Justice (Office of Public Affairs) | 2021-01-27 | https://www.justice.gov/archives/opa/pr/emotet-botnet-disrupted-international-cyber-operation |
-| [4] | Major operation to take down dangerous malware systems | Eurojust | 2021-01-27 | https://www.eurojust.europa.eu/news/major-operation-take-down-dangerous-malware-systems |
-| [5] | Emotet Botnet Disrupted in International Cyber Operation | US Attorney's Office, Middle District of North Carolina (DOJ) | 2021-01-27 | https://www.justice.gov/usao-mdnc/pr/emotet-botnet-disrupted-international-cyber-operation |
-| [6] | Page not found | justice.gov | 2026-04-17 | https://www.justice.gov/opa/documents-and-resources-related-disruption-emotet-malware-and-botnet |
+| [1] | Emotet Botnet Disrupted in International Cyber Operation | US Department of Justice (Office of Public Affairs) | 2021-01-27 | [[2021-01-27-doj-emotet-disruption]] |

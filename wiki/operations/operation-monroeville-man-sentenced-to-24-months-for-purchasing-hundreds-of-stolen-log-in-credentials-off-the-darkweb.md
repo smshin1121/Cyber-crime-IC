@@ -63,16 +63,12 @@ challenges_encountered:
 
 lessons_learned:
 
-source_count: 5
+source_count: 1
 sources:
   - "[[2026-04-18_justice-gov_monroeville-man-sentenced-24-months-purchasing-hundreds-stolen-log-credentials-darkweb]]"
-  - "[[2023-11-07_waka_monroeville-man-sentenced-for-buying-hundreds-of-stolen-log-ins]]"
-  - "[[2023-11-14_darknetlive_a-user-of-genesis-market-sentenced]]"
-  - "[[2023-11-08_fox10tv_monroeville-man-convicted-stealing-log-ins-dark-web]]"
-  - "[[2023-04-04_bleepingcomputer_fbi-seizes-stolen-credentials-market-genesis-in-operation-cookie-monster]]"
 summary: "This domestic-only U.S. follow-on record has been absorbed into the canonical case page [[monroeville-man-sentenced-to-24-months-for-purchasing-hundreds-of-stolen-log-in-credentials-off-the-darkweb]]. No visible cross-border mechanism is documented, so it is not treated as a separate international-cooperation operation."
 created: 2026-04-18
-updated: 2026-04-25
+updated: 2026-04-26
 ---
 ## Summary
 
@@ -87,7 +83,3 @@ This domestic-only U.S. follow-on record has been absorbed into the canonical ca
 | # | Title | Publisher | Date | URL |
 |---|---|---|---|---|
 | [1] | Monroeville Man Sentenced To 24 Months For Purchasing Hundreds Of Stolen Log-In Credentials Off The Darkweb | US DOJ USAO | 2023-11-07 | https://www.justice.gov/usao-sdal/pr/monroeville-man-sentenced-24-months-purchasing-hundreds-stolen-log-credentials-darkweb |
-| [2] | Monroeville man sentenced for buying hundreds of stolen log-ins | WAKA 8 (Montgomery, Alabama) | 2023-11-07 | https://www.waka.com/2023/11/07/monroeville-man-sentenced-for-buying-hundreds-of-stolen-log-ins/ |
-| [3] | A User of Genesis Market Sentenced | DarknetLive | 2023-11-14 | https://darknetlive.com/post/a-user-of-genesis-market-sentenced-cbee1913 |
-| [4] | Monroeville man convicted of stealing log-ins from dark web | Fox10 TV (WALA Mobile) | 2023-11-08 | https://www.fox10tv.com/2023/11/08/monroeville-man-convicted-stealing-log-ins-dark-web/ |
-| [5] | FBI seizes stolen credentials market Genesis in Operation Cookie Monster | BleepingComputer | 2023-04-04 | https://www.bleepingcomputer.com/news/security/fbi-seizes-stolen-credentials-market-genesis-in-operation-cookie-monster/ |

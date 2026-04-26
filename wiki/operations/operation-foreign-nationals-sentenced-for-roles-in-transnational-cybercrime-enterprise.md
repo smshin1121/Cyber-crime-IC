@@ -46,29 +46,25 @@ results:
   other:
     - "Defendant-specific follow-on action derived from [[foreign-nationals-sentenced-for-roles-in-transnational-cybercrime-enterprise]]"
 edges:
-  []
+
 credibility_index: 4.0
 source_tier: 1
 missing_fields:
-  []
+
 related_cases:
   - "[[foreign-nationals-sentenced-for-roles-in-transnational-cybercrime-enterprise]]"
 related_operations:
-  []
+
 challenges_encountered:
-  []
+
 lessons_learned:
-  []
-source_count: 5
+
+source_count: 1
 sources:
-  - "[[2026-04-17_justice-gov_foreign-nationals-sentenced-roles-transnational-cybercrime-enterprise]]"
-  - "[[2026-04-17_cyberscoop_us-nationals-sentenced-facilitate-north-korea-tech-worker-scheme]]"
-  - "[[2026-04-17_hstoday_foreign-nationals-sentenced-roles-transnational-cybercrime-enterprise]]"
-  - "[[2026-04-15_globalsecurity_two-us-nationals-sentenced-dprk-it-worker-5m-revenue]]"
   - "[[2026-04-17_ice_foreign-nationals-sentenced-roles-transnational-cybercrime-hsi-las-vegas]]"
 summary: "Foreign Nationals Sentenced for Roles in Transnational Cybercrime Enterprise Enforcement Action is a domestic-only U.S. follow-on record absorbed into the canonical case page [[foreign-nationals-sentenced-for-roles-in-transnational-cybercrime-enterprise]]. No visible cross-border mechanism is documented, so it is not treated as a separate international-cooperation operation."
 created: 2026-04-18
-updated: 2026-04-25
+updated: 2026-04-26
 ---
 ## Summary
 
@@ -93,8 +89,4 @@ The underlying public case record identifies Foreign Nationals Sentenced for Rol
 
 | # | Title | Publisher | Date | URL |
 |---|---|---|---|---|
-| [1] | Foreign Nationals Sentenced for Roles in Transnational Cybercrime Enterprise | justice.gov | 2026-04-17 | https://www.justice.gov/archives/opa/pr/foreign-nationals-sentenced-roles-transnational-cybercrime-enterprise |
-| [2] | US nationals sentenced for aiding North Korea's tech worker scheme | CyberScoop | 2026-04-17 | https://cyberscoop.com/us-nationals-sentenced-facilitate-north-korea-tech-worker-scheme/ |
-| [3] | Foreign Nationals Sentenced for Roles in Transnational Cybercrime Enterprise | HSToday | 2026-04-17 | https://www.hstoday.us/federal-pages/foreign-nationals-sentenced-for-roles-in-transnational-cybercrime-enterprise/ |
-| [4] | Two U.S. Nationals Sentenced for Facilitating Fraudulent Remote Information Technology Worker Scheme that Generated $5M in Revenue for the Democratic People's Republic of Korea | GlobalSecurity.org (DOJ document archive) | 2026-04-15 | https://www.globalsecurity.org/wmd/library/news/dprk/2026/dprk-260415-doj01.htm |
-| [5] | Archived: Foreign nationals sentenced for roles in transnational cybercrime following an HSI Las Vegas investigation | ICE (HSI) | 2026-04-17 | https://www.ice.gov/news/releases/foreign-nationals-sentenced-roles-transnational-cybercrime-following-hsi-las-vegas |
+| [1] | Archived: Foreign nationals sentenced for roles in transnational cybercrime following an HSI Las Vegas investigation | ICE (HSI) | 2026-04-17 | https://www.ice.gov/news/releases/foreign-nationals-sentenced-roles-transnational-cybercrime-following-hsi-las-vegas |

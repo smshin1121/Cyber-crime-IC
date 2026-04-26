@@ -59,16 +59,12 @@ challenges_encountered:
 
 lessons_learned:
 
-source_count: 5
+source_count: 1
 sources:
   - "[[2021-09-08_justice-gov_united-states-v-glib-ivanov-tolpintsev]]"
-  - "[[2021-09-08_cyberscoop_ukrainian-cybercriminal-extradited-credential-theft]]"
-  - "[[2021-09-08_thehill_ukrainian-extradited-us-allegedly-selling-computer-credentials]]"
-  - "[[2021-09-08_france24_ukrainian-extradited-us-trafficking-computer-passwords]]"
-  - "[[2021-09-08_tampafp_ukrainian-cyber-criminal-extradited-tampa]]"
 summary: "This domestic-only U.S. follow-on record has been absorbed into the canonical case page [[us-v-glib-ivanov-tolpintsev]]. No visible cross-border mechanism is documented, so it is not treated as a separate international-cooperation operation."
 created: 2026-04-17
-updated: 2026-04-25
+updated: 2026-04-26
 ---
 ## Summary
 
@@ -83,7 +79,3 @@ This domestic-only U.S. follow-on record has been absorbed into the canonical ca
 | # | Title | Publisher | Date | URL |
 |---|---|---|---|---|
 | [1] | Ukrainian Cyber Criminal Extradited For Decrypting The Credentials Of Thousands Of Computers Across The World And Selling Them On A Dark Web Website | US DOJ (Middle District of Florida) | 2021-09-08 | https://www.justice.gov/usao-mdfl/pr/ukrainian-cyber-criminal-extradited-decrypting-credentials-thousands-computers-across |
-| [2] | Ukrainian cybercriminal extradited to US over credential-theft scheme | CyberScoop | 2021-09-08 | https://cyberscoop.com/ukrainian-cybercriminal-sentenced-ivanov-toplinstev/ |
-| [3] | Ukrainian extradited to US for allegedly selling computer credentials: DOJ | The Hill | 2021-09-08 | https://thehill.com/policy/cybersecurity/571353-ukrainian-extradited-to-us-in-conspiracy-to-decrypt-computer-log-in/ |
-| [4] | Ukrainian extradited to US for 'trafficking' computer passwords | France 24 | 2021-09-08 | https://www.france24.com/en/live-news/20210908-ukrainian-extradited-to-us-for-trafficking-computer-passwords |
-| [5] | Ukrainian Cyber Criminal Extradited To Tampa, Faces 17-Years In Federal Prison | Tampa Free Press | 2021-09-08 | https://www.tampafp.com/ukrainian-cyber-criminal-extradited-to-tampa-faces-17-years-in-federal-prison/ |

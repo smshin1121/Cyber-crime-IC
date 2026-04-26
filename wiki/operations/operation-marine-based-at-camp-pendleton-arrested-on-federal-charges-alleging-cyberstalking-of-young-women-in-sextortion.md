@@ -59,16 +59,12 @@ challenges_encountered:
 
 lessons_learned:
 
-source_count: 5
+source_count: 1
 sources:
   - "[[2026-04-18_justice-gov_marine-based-camp-pendleton-arrested-federal-charges-alleging-cyberstalking-young-women]]"
-  - "[[2022-02-09_timesofsandiego_camp-pendleton-marine-arrested-federal-cyberstalking-charge]]"
-  - "[[2022-02-09_kpbs_marine-camp-pendleton-arrested-federal-cyberstalking-charge]]"
-  - "[[2022-05-28_abc7_johao-chavarri-camp-pendleton-marine-cyberstalking-pleads-guilty]]"
-  - "[[2022-09-16_nbcsandiego_camp-pendleton-marine-sentenced-sextortion-campaign]]"
 summary: "This domestic-only U.S. follow-on record has been absorbed into the canonical case page [[marine-based-at-camp-pendleton-arrested-on-federal-charges-alleging-cyberstalking-of-young-women-in-sextortion]]. No visible cross-border mechanism is documented, so it is not treated as a separate international-cooperation operation."
 created: 2026-04-18
-updated: 2026-04-25
+updated: 2026-04-26
 ---
 ## Summary
 
@@ -83,7 +79,3 @@ This domestic-only U.S. follow-on record has been absorbed into the canonical ca
 | # | Title | Publisher | Date | URL |
 |---|---|---|---|---|
 | [1] | Marine Based at Camp Pendleton Arrested on Federal Charges Alleging Cyberstalking of Young Women in Sextortion Campaign | US DOJ USAO | 2022-02-09 | https://www.justice.gov/usao-cdca/pr/marine-based-camp-pendleton-arrested-federal-charges-alleging-cyberstalking-young-women |
-| [2] | Camp Pendleton Marine Arrested on Federal Cyberstalking Charge | Times of San Diego | 2022-02-09 | https://timesofsandiego.com/military/2022/02/09/camp-pendleton-marine-arrested-on-federal-cyberstalking-charge/ |
-| [3] | Marine at Camp Pendleton arrested on federal cyberstalking charge | KPBS Public Media | 2022-02-09 | https://www.kpbs.org/news/local/2022/02/09/marine-at-camp-pendleton-arrested-on-federal-cyberstalking-charge |
-| [4] | Former Camp Pendleton Marine Johao Chavarri pleads guilty to cyberstalking | ABC7 Los Angeles (KABC-TV) | 2022-05-28 | https://abc7.com/post/johao-chavarri-camp-pendleton-marine-cyberstalking-southern-california/11902073/ |
-| [5] | Camp Pendleton Marine Sentenced for 'Sextortion' Campaign | NBC 7 San Diego (KNSD) | 2022-09-16 | https://www.nbcsandiego.com/news/local/camp-pendleton-marine-sentenced-for-sextortion-campaign/3048858/ |

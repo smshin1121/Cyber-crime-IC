@@ -59,16 +59,12 @@ challenges_encountered:
 
 lessons_learned:
 
-source_count: 5
+source_count: 1
 sources:
-  - "[[2026-04-18_justice-gov_kansas-farmer-indicted-insurance-fraud]]"
-  - "[[2025-11-27_kwch_kansas-farmer-indicted-for-insurance-fraud]]"
-  - "[[2025-11-27_kake_kansas-farmer-indicted-for-crop-loss-insurance-fraud]]"
   - "[[2026-04-04_audacy-knss_kansas-farmer-pleads-guilty-to-crop-insurance-fraud]]"
-  - "[[2026-04-07_eurekaherald_kansas-farmer-pled-guilty-to-crop-insurance-fraud]]"
 summary: "This domestic-only U.S. follow-on record has been absorbed into the canonical case page [[kansas-farmer-indicted-for-insurance-fraud]]. No visible cross-border mechanism is documented, so it is not treated as a separate international-cooperation operation."
 created: 2026-04-18
-updated: 2026-04-25
+updated: 2026-04-26
 ---
 ## Summary
 
@@ -82,8 +78,4 @@ This domestic-only U.S. follow-on record has been absorbed into the canonical ca
 
 | # | Title | Publisher | Date | URL |
 |---|---|---|---|---|
-| [1] | Kansas farmer indicted for insurance fraud | US DOJ USAO | 2025-11-26 | https://www.justice.gov/usao-ks/pr/kansas-farmer-indicted-insurance-fraud |
-| [2] | Kansas farmer indicted for insurance fraud | KWCH | 2025-11-27 | https://www.kwch.com/2025/11/27/kansas-farmer-indicted-insurance-fraud/ |
-| [3] | Kansas farmer indicted for crop loss insurance fraud | KAKE | 2025-11-27 | https://www.kake.com/home/kansas-farmer-indicted-for-crop-loss-insurance-fraud/article_deed9a24-6aa2-4759-bf6d-ee28994d32ca.html |
-| [4] | Kansas farmer pleads guilty to crop insurance fraud | Audacy KNSS | 2026-04-04 | https://www.audacy.com/knss/news/local/kansas-farmer-pleads-guilty |
-| [5] | Kansas Farmer Pled Guilty To Crop Insurance Fraud | Eureka Herald | 2026-04-07 | https://www.eurekaherald.com/article/5763,kansas-farmer-pled-guilty-to-crop-insurance-fraud |
+| [1] | Kansas farmer pleads guilty to crop insurance fraud | Audacy KNSS | 2026-04-04 | https://www.audacy.com/knss/news/local/kansas-farmer-pleads-guilty |

@@ -59,16 +59,12 @@ challenges_encountered:
 
 lessons_learned:
 
-source_count: 5
+source_count: 1
 sources:
-  - "[[2026-04-18_justice-gov_monroe-washington-man-sentenced-10-years-prison-role-right-hand-man-deadly-drug]]"
-  - "[[2024-10-25_dea_washington-man-sentenced-10-years-prison-role-right-hand-man-deadly-drug]]"
-  - "[[2024-10-25_kiro7_monroe-man-sentenced-10-years-being-right-hand-man-deadly-drug-ring]]"
   - "[[2024-10-25_fox13seattle_wa-drug-ring-right-hand-man-sentenced]]"
-  - "[[2024-10-25_komonews_18-arrested-major-drug-distribution-busts]]"
 summary: "This domestic-only U.S. follow-on record has been absorbed into the canonical case page [[us-v-humberto-garcia]]. No visible cross-border mechanism is documented, so it is not treated as a separate international-cooperation operation."
 created: 2026-04-18
-updated: 2026-04-25
+updated: 2026-04-26
 ---
 ## Summary
 
@@ -82,8 +78,4 @@ This domestic-only U.S. follow-on record has been absorbed into the canonical ca
 
 | # | Title | Publisher | Date | URL |
 |---|---|---|---|---|
-| [1] | Monroe, Washington, man sentenced to 10 years in prison for role as “right hand man” in deadly drug distribution ring | US DOJ USAO | 2024-10-25 | https://www.justice.gov/usao-wdwa/pr/monroe-washington-man-sentenced-10-years-prison-role-right-hand-man-deadly-drug |
-| [2] | Washington Man Sentenced to 10 Years in Prison for Role as Right Hand Man in Deadly Drug Distribution Ring | U.S. Drug Enforcement Administration | 2024-10-25 | https://www.dea.gov/press-releases/2024/10/25/washington-man-sentenced-10-years-prison-role-right-hand-man-deadly-drug |
-| [3] | Monroe man sentenced 10 years for being right hand man in deadly drug ring | KIRO 7 News Seattle | 2024-10-25 | https://www.kiro7.com/news/local/monroe-man-sentenced-10-years-being-right-hand-man-deadly-drug-ring/2NI5GLQGHNFR3B4WODS3QVJMOY/ |
-| [4] | WA man sentenced 10 years for role as right-hand man of drug ring | FOX 13 Seattle | 2024-10-25 | https://www.fox13seattle.com/news/wa-drug-ring-right-hand-man-sentenced |
-| [5] | 18 arrested in major drug distribution busts, millions of lethal fentanyl doses seized | KOMO News (Seattle) | 2024-10-25 | https://komonews.com/news/local/18-arrested-major-drug-distribution-busts-law-enforcement-seattle-region-snohomish-county-illegal-activity-ecuador-mexico-renton-fentanyl-pills-kilograms-december-2024-surveillance |
+| [1] | WA man sentenced 10 years for role as right-hand man of drug ring | FOX 13 Seattle | 2024-10-25 | https://www.fox13seattle.com/news/wa-drug-ring-right-hand-man-sentenced |

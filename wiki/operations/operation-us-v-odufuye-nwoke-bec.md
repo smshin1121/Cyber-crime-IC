@@ -53,15 +53,11 @@ challenges_encountered:
 
 lessons_learned:
 
-source_count: 5
+source_count: 1
 sources:
   - "[[2016-12-20_dct_odufuye-nwoke-bec-indictment]]"
-  - "[[fbi-operation-wirewire]]"
-  - "[[2018-06-12_securityaffairs_operation-wirewire-bec]]"
-  - "[[2018-06-12_welivesecurity_com_74-people-arrested-in-us-led-crackdown-on-email-scams]]"
-  - "[[2018-06-12_infosecurity-magazine_bec-scammers-disrupted-in-multi-million-dollar-swoop]]"
 created: 2026-04-17
-updated: 2026-04-22
+updated: 2026-04-26
 operation_role: follow-on
 parent_operation: "[[operation-wirewire]]"
 summary: "This domestic-only U.S. follow-on record has been absorbed into the canonical case page [[us-v-odufuye-nwoke-bec]]. No visible cross-border mechanism is documented, so it is not treated as a separate international-cooperation operation."
@@ -85,7 +81,3 @@ This domestic-only U.S. follow-on record has been absorbed into the canonical ca
 | # | Title | Publisher | Date | URL |
 |---|---|---|---|---|
 | [1] | Nigerian Nationals Charged with Operating Business Compromise Scheme | US DOJ (District of Connecticut) | 2016-12-20 | https://www.justice.gov/usao-ct/pr/nigerian-nationals-charged-operating-business-compromise-scheme |
-| [2] | FBI: International BEC Takedown (Operation Wire Wire) | FBI | 2018-06-11 | https://www.fbi.gov/news/stories/international-bec-takedown-061118 |
-| [3] | Operation WireWire – Law enforcement arrested 74 individuals involved in BEC scams | Security Affairs | 2018-06-12 | https://securityaffairs.com/73446/cyber-crime/operation-wirewire-bec.html |
-| [4] | 74 people arrested in US-led crackdown on email scams | WeLiveSecurity / ESET | 2018-06-12 | https://www.welivesecurity.com/2018/06/12/74-arrested-us-led-crackdown-email-scams/ |
-| [5] | BEC Scammers Disrupted in Multi-Million Dollar Swoop | Infosecurity Magazine | 2018-06-12 | https://www.infosecurity-magazine.com/news/bec-scammers-multi-million-dollar/ |

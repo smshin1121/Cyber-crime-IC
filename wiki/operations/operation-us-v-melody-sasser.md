@@ -59,16 +59,12 @@ challenges_encountered:
 
 lessons_learned:
 
-source_count: 5
+source_count: 1
 sources:
-  - "[[2026-04-18_justice-gov_grand-jury-indicts-knoxville-woman-previously-arrested-murder-hire-plot-0]]"
   - "[[2024-09-19_newschannel9_tennessee-woman-sentenced-murder-for-hire-plot-melody-sasser]]"
-  - "[[2023-06-05_cbsnews_melody-sasser-charged-hiring-hitman-match-com]]"
-  - "[[2023-06-07_wvlt_knoxville-woman-indicted-hiring-online-hitman-match-com]]"
-  - "[[2024-09-19_lawandcrime_woman-hired-hitman-online-killers-market-prison]]"
 summary: "This domestic-only U.S. follow-on record has been absorbed into the canonical case page [[us-v-melody-sasser]]. No visible cross-border mechanism is documented, so it is not treated as a separate international-cooperation operation."
 created: 2026-04-18
-updated: 2026-04-25
+updated: 2026-04-26
 ---
 ## Summary
 
@@ -82,8 +78,4 @@ This domestic-only U.S. follow-on record has been absorbed into the canonical ca
 
 | # | Title | Publisher | Date | URL |
 |---|---|---|---|---|
-| [1] | Grand Jury Indicts Knoxville Woman Previously Arrested In Murder-For-Hire Plot | US DOJ USAO | 2023-06-07 | https://www.justice.gov/usao-edtn/pr/grand-jury-indicts-knoxville-woman-previously-arrested-murder-hire-plot-0 |
-| [2] | Tennessee woman convicted in plot to murder man she met online learns her fate | NewsChannel 9 (Chattanooga) | 2024-09-19 | https://newschannel9.com/news/local/tennessee-woman-sentenced-to-over-8-years-for-murder-for-hire-plot-melody-sasser-knoxville-using-interstate-commerce-facilities-in-the-commission-of-murder-for-hire |
-| [3] | Tennessee woman accused of trying to hire hitman to kill wife of man she met on Match.com | CBS News | 2023-06-05 | https://www.cbsnews.com/news/melody-sasser-charged-hiring-hitman-match-com-dating-site/ |
-| [4] | Knoxville woman sentenced for hiring online hitman to kill wife of man she met, USDOJ says | WVLT | 2023-06-07 | https://www.wvlt.tv/2023/06/07/knoxville-woman-indicted-hiring-online-hitman-kill-wife-man-she-met-usdoj-says/ |
-| [5] | Woman who hired 'hitman' from 'Online Killers Market' to take out new wife of 'hiking friend' she met online headed for prison | Law&Crime | 2024-09-19 | https://lawandcrime.com/crime/woman-who-hired-hitman-from-online-killers-market-to-take-out-new-wife-of-hiking-friend-she-met-online-headed-for-prison/ |
+| [1] | Tennessee woman convicted in plot to murder man she met online learns her fate | NewsChannel 9 (Chattanooga) | 2024-09-19 | https://newschannel9.com/news/local/tennessee-woman-sentenced-to-over-8-years-for-murder-for-hire-plot-melody-sasser-knoxville-using-interstate-commerce-facilities-in-the-commission-of-murder-for-hire |

@@ -59,16 +59,12 @@ challenges_encountered:
 
 lessons_learned:
 
-source_count: 5
+source_count: 1
 sources:
-  - "[[2026-04-18_justice-gov_florida-man-sentenced-20-years-prison-producing-images-child-sexual-abuse-and]]"
   - "[[2024-04-15_columbian_florida-man-20-years-prison-vancouver-14-year-old]]"
-  - "[[2024-01-30_columbian_florida-man-pleads-guilty-child-sex-abuse-charges-vancouver]]"
-  - "[[2024-04-15_koin_florida-man-20-year-sentence-cross-country-vancouver]]"
-  - "[[2024-04-15_chronline_florida-man-faces-federal-child-sex-abuse-imagery-charge]]"
 summary: "This domestic-only U.S. follow-on record has been absorbed into the canonical case page [[us-v-samuel-aaron-leonard]]. No visible cross-border mechanism is documented, so it is not treated as a separate international-cooperation operation."
 created: 2026-04-18
-updated: 2026-04-25
+updated: 2026-04-26
 ---
 ## Summary
 
@@ -82,8 +78,4 @@ This domestic-only U.S. follow-on record has been absorbed into the canonical ca
 
 | # | Title | Publisher | Date | URL |
 |---|---|---|---|---|
-| [1] | Florida man sentenced to 20 years in prison for producing images of child sexual abuse and traveling across the U.S. to sexually abuse a minor | US DOJ USAO | 2024-04-15 | https://www.justice.gov/usao-wdwa/pr/florida-man-sentenced-20-years-prison-producing-images-child-sexual-abuse-and |
-| [2] | Florida man gets 20 years in prison in sex abuse case involving Vancouver 14-year-old | The Columbian (Vancouver, WA) | 2024-04-15 | https://www.columbian.com/news/2024/apr/15/florida-man-gets-20-years-in-prison-in-sex-abuse-case-involving-vancouver-14-year-old/ |
-| [3] | Florida man pleads guilty to child sex abuse charges in connection with messages to 14-year-old Vancouver girl | The Columbian (Vancouver, WA) | 2024-01-30 | https://www.columbian.com/news/2024/jan/30/florida-man-pleads-guilty-to-child-sex-abuse-charges-in-connection-messages-to-14-year-old-vancouver-girl/ |
-| [4] | Florida man gets 20-year sentence for traveling cross-country to sexually abuse 14-year-old Vancouver girl | KOIN (Portland) | 2024-04-15 | https://www.koin.com/local/clark-county/man-gets-20-year-sentence-for-traveling-cross-country-to-sexually-abuse-vancouver-teen/ |
-| [5] | Florida Man Faces Federal Child Sex Abuse Imagery Charge Following Arrest in Washington | The Daily Chronicle (Centralia, WA) | 2020-07-02 | https://www.chronline.com/stories/florida-man-faces-federal-child-sex-abuse-imagery-charge-following-arrest-in-washington,1317 |
+| [1] | Florida man gets 20 years in prison in sex abuse case involving Vancouver 14-year-old | The Columbian (Vancouver, WA) | 2024-04-15 | https://www.columbian.com/news/2024/apr/15/florida-man-gets-20-years-in-prison-in-sex-abuse-case-involving-vancouver-14-year-old/ |

@@ -51,15 +51,11 @@ challenges_encountered:
 
 lessons_learned:
 
-source_count: 5
+source_count: 1
 sources:
   - "[[2023-03-27_doj_okpe-obogo-bec-sentencing]]"
-  - "[[2026-04-17_justice-gov_nigerian-nationals-victimize-us-persons-through-cyber-enabled-fraud-schemes]]"
-  - "[[2023-01-23_justice-gov_us-v-okpe-et-al-victim-notifications]]"
-  - "[[2023-03-29_scworld_us-convicts-nigerian-bec-scammer]]"
-  - "[[2023-03-28_infosecurity-magazine_four-years-behind-bars-for-prolific-bec-scammer]]"
 created: 2026-04-17
-updated: 2026-04-22
+updated: 2026-04-26
 operation_role: follow-on
 parent_operation: "[[nigerian-bec-convictions-2023]]"
 summary: "This domestic-only U.S. follow-on record has been absorbed into the canonical case page [[us-v-okpe-obogo-bec]]. No visible cross-border mechanism is documented, so it is not treated as a separate international-cooperation operation."
@@ -83,7 +79,3 @@ This domestic-only U.S. follow-on record has been absorbed into the canonical ca
 | # | Title | Publisher | Date | URL |
 |---|---|---|---|---|
 | [1] | Foreign National Sentenced for Victimizing U.S. Persons Through Cyber-Enabled Fraud Schemes | US DOJ (Office of Public Affairs) | 2023-03-27 | https://www.justice.gov/archives/opa/pr/foreign-national-sentenced-victimizing-us-persons-through-cyber-enabled-fraud-schemes |
-| [2] | Nigerian Nationals Victimize U.S. Persons Through Cyber-Enabled Fraud Schemes | justice.gov | 2026-04-17 | https://www.justice.gov/usao-az/pr/nigerian-nationals-victimize-us-persons-through-cyber-enabled-fraud-schemes |
-| [3] | US v Okpe et al | U.S. Department of Justice (USAO Arizona Victim Notifications) | 2023-01-23 | [[2023-01-23_justice-gov_us-v-okpe-et-al-victim-notifications]] |
-| [4] | US convicts Nigerian BEC scammer | SC Media | 2023-03-29 | [[2023-03-29_scworld_us-convicts-nigerian-bec-scammer]] |
-| [5] | Four Years Behind Bars for Prolific BEC Scammer | Infosecurity Magazine | 2023-03-28 | [[2023-03-28_infosecurity-magazine_four-years-behind-bars-for-prolific-bec-scammer]] |

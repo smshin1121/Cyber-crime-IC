@@ -59,16 +59,12 @@ challenges_encountered:
 
 lessons_learned:
 
-source_count: 5
+source_count: 1
 sources:
   - "[[2026-04-18_justice-gov_romanian-national-pleads-guilty-selling-access-networks-oregon-state-government-office-and]]"
-  - "[[2026-02-20_securityweek_romanian-hacker-pleads-guilty-selling-access-us-state-network]]"
-  - "[[2026-02-20_statescoop_oregon-access-broker-pleads-guilty-inthematrix1]]"
-  - "[[2026-02-20_securityaffairs_romanian-hacker-pleads-guilty-oregon-state-networks]]"
-  - "[[2026-02-20_koin_romanian-hacker-pleads-guilty-oregon-state-computer-breach]]"
 summary: "This domestic-only U.S. follow-on record has been absorbed into the canonical case page [[us-v-catalin-dragomir]]. No visible cross-border mechanism is documented, so it is not treated as a separate international-cooperation operation."
 created: 2026-04-18
-updated: 2026-04-25
+updated: 2026-04-26
 ---
 ## Summary
 
@@ -83,7 +79,3 @@ This domestic-only U.S. follow-on record has been absorbed into the canonical ca
 | # | Title | Publisher | Date | URL |
 |---|---|---|---|---|
 | [1] | Romanian National Pleads Guilty to Selling Access to Networks of Oregon State Government Office and Other U.S. Victims | US DOJ (Office of Public Affairs) | 2026-02-20 | https://www.justice.gov/opa/pr/romanian-national-pleads-guilty-selling-access-networks-oregon-state-government-office-and |
-| [2] | Romanian Hacker Pleads Guilty to Selling Access to US State Network | SecurityWeek | 2026-02-20 | https://www.securityweek.com/romanian-hacker-pleads-guilty-to-selling-access-to-us-state-network/ |
-| [3] | Prominent access broker pleads guilty to 'obtaining information' from Oregon state government computer | StateScoop | 2026-02-20 | https://statescoop.com/oregon-access-broker-pleads-guilty-inthematrix1/ |
-| [4] | Romanian hacker pleads guilty to selling access to Oregon state networks | Security Affairs | 2026-02-20 | https://securityaffairs.com/188380/cyber-crime/romanian-hacker-pleads-guilty-to-selling-access-to-oregon-state-networks.html |
-| [5] | Romanian hacker pleads guilty to Oregon state computer breach | KOIN | 2026-02-20 | https://www.koin.com/news/crime/romanian-hacker-pleads-guilty-to-oregon-state-computer-breach/ |

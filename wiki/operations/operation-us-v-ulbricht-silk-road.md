@@ -51,14 +51,11 @@ challenges_encountered:
 
 lessons_learned:
 
-source_count: 4
+source_count: 1
 sources:
   - "[[2015-05-29_wired-com_wired-silk-road-2-0-ulbricht-sentencing-coverage]]"
-  - "[[2015-05-29_sdny_us-v-ulbricht-sentencing]]"
-  - "[[2015-05-29_npr_silk-road-founder-sentenced-life-prison]]"
-  - "[[2015-05-29_fbi-gov_ross-ulbricht-sentenced-to-life-in-prison]]"
 created: 2026-04-17
-updated: 2026-04-25
+updated: 2026-04-26
 operation_role: follow-on
 parent_operation: "[[silk-road-takedown]]"
 summary: "This domestic-only U.S. follow-on record has been absorbed into the canonical case page [[us-v-ulbricht-silk-road]]. No visible cross-border mechanism is documented, so it is not treated as a separate international-cooperation operation."
@@ -82,6 +79,3 @@ This domestic-only U.S. follow-on record has been absorbed into the canonical ca
 | # | Title | Publisher | Date | URL |
 |---|---|---|---|---|
 | [1] | Wired: Silk Road 2.0 / Ulbricht Sentencing Coverage | Wired | 2015-05-29 | https://www.wired.com/2015/05/silk-road-2/ |
-| [2] | Ross Ulbricht, A/K/A “Dread Pirate Roberts,” Sentenced In Manhattan Federal Court To Life In Prison | US DOJ (SDNY) | 2015-05-29 | https://www.justice.gov/usao-sdny/pr/ross-ulbricht-aka-dread-pirate-roberts-sentenced-manhattan-federal-court-life-prison |
-| [3] | Silk Road Founder Sentenced To Life In Prison | NPR | 2015-05-29 | https://www.npr.org/2015/05/29/410601330/silk-road-founder-sentenced-to-life-in-prison |
-| [4] | Ross Ulbricht Sentenced to Life in Prison | FBI New York | 2015-05-29 | https://www.fbi.gov/contact-us/field-offices/newyork/news/press-releases/ross-ulbricht-aka-dread-pirate-roberts-sentenced-in-manhattan-federal-court-to-life-in-prison |

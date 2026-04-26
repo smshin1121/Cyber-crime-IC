@@ -96,6 +96,11 @@ def _parse_list(lines: list[str], base_indent: int) -> list[Any]:
             i = next_i
             continue
 
+        if _is_quoted_scalar(item_text):
+            items.append(_parse_scalar(item_text))
+            i = next_i
+            continue
+
         if ":" in item_text and not item_text.startswith(("http://", "https://")):
             key, rest = item_text.split(":", 1)
             rest = rest.strip()
@@ -111,6 +116,12 @@ def _parse_list(lines: list[str], base_indent: int) -> list[Any]:
             items.append(_parse_scalar(item_text))
         i = next_i
     return items
+
+
+def _is_quoted_scalar(value: str) -> bool:
+    if len(value) < 2:
+        return False
+    return (value[0] == value[-1] == '"') or (value[0] == value[-1] == "'")
 
 
 def _collect_block(
