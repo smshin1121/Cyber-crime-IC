@@ -227,7 +227,7 @@ updated: 2026-04-14
 | [[operation-key-player-in-silk-road-2-0-sentenced-to-eight-years-in-prison]] | CYB-FUP-1020 | 1 | absorbed | 4.00 | 1 |
 | [[operation-knox-county-man-sentenced-to-60-years-imprisonment-for-two-counts-of-production-of-child-pornography]] | CYB-FUP-1021 | 3 | absorbed | 4.00 | 1 |
 | [[operation-kokomo-resident-arrested-on-federal-animal-cruelty-charges]] | CYB-FUP-1022 | 2 | absorbed | 4.00 | 1 |
-| [[operation-lakeland-man-pleads-guilty-to-receiving-child-sex-abuse-videos-from-the-largest-darknet-child-pornography-webs]] | CYB-FUP-1023 | 2 | absorbed | 4.00 | 1 |
+| [[operation-lakeland-man-pleads-guilty-to-receiving-child-sex-abuse-videos-from-the-largest-darknet-child-pornography-webs]] | CYB-FUP-1023 | 2 | absorbed | 4.50 | 1 |
 | [[operation-lakeland-man-sentenced-to-more-than-9-years-in-federal-prison-for-downloading-and-possessing-child-sex-abuse-v]] | CYB-FUP-1024 | 2 | absorbed | 4.00 | 1 |
 | [[operation-latvian-national-charged-for-alleged-role-in-transnational-cybercrime-organization]] | CYB-FUP-1025 | 2 | absorbed | 4.00 | 1 |
 | [[operation-law-enforcement-seize-record-amounts-of-illegal-drugs-firearms-and-drug-trafficking-proceeds-in-international-]] | CYB-FUP-1026 | 3 | absorbed | 4.00 | 1 |

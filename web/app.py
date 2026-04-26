@@ -668,6 +668,7 @@ def _gen_ko_operation(meta: dict, en: str) -> str:
     lead = _strip_wikilink(meta.get("lead_agency", ""))
     crime = _strip_wikilink(meta.get("crime_type", ""))
     target = meta.get("target_entity", "")
+    key_findings = meta.get("key_findings", [])
 
     countries = meta.get("participating_countries", [])
     agencies = meta.get("participating_agencies", [])
@@ -707,6 +708,13 @@ def _gen_ko_operation(meta: dict, en: str) -> str:
 
     if target:
         lines.append(f"\n대상: {target}\n")
+
+    if isinstance(key_findings, list) and key_findings:
+        lines.append("\n## 핵심 사실\n")
+        for finding in key_findings:
+            if isinstance(finding, dict):
+                finding = "; ".join(f"{k}: {v}" for k, v in finding.items())
+            lines.append(f"- {finding}")
 
     # Results section
     result_items = []

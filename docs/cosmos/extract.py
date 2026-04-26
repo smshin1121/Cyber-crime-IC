@@ -281,7 +281,7 @@ def build_graph(
 
     for page in pages:
         source = page["id"]
-        for field in LINK_FIELDS:
+        for field in sorted(LINK_FIELDS):
             for raw_target, explicit in extract_link_targets(page["frontmatter"].get(field)):
                 target = resolve_target(raw_target, slug_to_id)
                 if not target:
