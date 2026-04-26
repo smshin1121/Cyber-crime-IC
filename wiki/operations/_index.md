@@ -39,7 +39,7 @@ updated: 2026-04-14
 | [[operation-bakovia]] | CYB-2018-050 | 1 | completed | 2.00 | 3 |
 | [[goznym-takedown]] | CYB-2019-001 | 2 | completed | 4.20 | 2 |
 | [[imminent-monitor-rat-takedown]] | CYB-2019-050 | 2 | completed | 1.88 | 3 |
-| [[xdedic-marketplace-takedown]] | CYB-2019-051 | 2 | completed | 1.88 | 3 |
+| [[xdedic-marketplace-takedown]] | CYB-2019-051 | 2 | completed | 4.20 | 1 |
 | [[operation-falcon]] | CYB-2020-001 | 2 | completed | 3.62 | 2 |
 | [[operation-goldfish-alpha-night-fury]] | CYB-2020-002 | 2 | completed | 2.28 | 2 |
 | [[2bagoldmule-qqaazz]] | CYB-2020-003 | 2 | completed | 2.28 | 2 |

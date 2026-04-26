@@ -64,9 +64,9 @@ The **DOJ-led model** leverages US multi-agency coordination (FBI, HSI, USSS, IR
 | Period 1 operations | 205 | 2014-2018 |
 | Period 2 operations | 222 | 2019-2022 |
 | Period 3 operations | 650 | 2023-2025 |
-| Europol-coordinated | 61 | All periods |
+| Europol-coordinated | 60 | All periods |
 | INTERPOL-coordinated | 40 | All periods |
-| DOJ/US-led | 945 | All periods |
+| DOJ/US-led | 946 | All periods |
 | Total arrests (sourced operations) | 20,735+ | Across all operations |
 | Total servers seized | 2,972+ | Primarily Europol operations |
 | Total domains seized | 812,127+ | All operations |

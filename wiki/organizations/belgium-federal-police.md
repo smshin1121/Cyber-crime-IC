@@ -22,6 +22,7 @@ cooperation_partners:
 frameworks_administered: []
 mechanisms_operated: []
 operations_participated:
+  - "[[xdedic-marketplace-takedown]]"
   - "[[operation-endgame]]"
   - "[[operation-weleakinfo-to-and-related-domain-names-seized]]"
 notable_cases: []

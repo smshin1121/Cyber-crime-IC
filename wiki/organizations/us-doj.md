@@ -23,6 +23,7 @@ notable_cases:
 official_name: "United States Department of Justice"
 official_name_ko: "미국 법무부"
 operations_participated:
+  - "[[xdedic-marketplace-takedown]]"
   - "[[infraud-telusma-sentencing]]"
   - "[[nigerian-bec-convictions-2023]]"
   - "[[operation-dark-huntor]]"

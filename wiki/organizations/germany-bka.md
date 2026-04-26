@@ -23,6 +23,7 @@ notable_cases:
 official_name: Bundeskriminalamt
 official_name_ko: "독일 연방형사경찰청"
 operations_participated:
+  - "[[xdedic-marketplace-takedown]]"
   - "[[operation-cronos-phase1]]"
   - "[[operation-nova]]"
   - "[[operation-cronos-phase3]]"

@@ -15,6 +15,7 @@ notable_cases:
 
 official_name: "Департамент кіберполіції Національної поліції України"
 operations_participated:
+  - "[[xdedic-marketplace-takedown]]"
   - "[[operation-endgame]]"
   - "[[operation-endgame-phase1]]"
   - "[[darkmarket-takedown]]"

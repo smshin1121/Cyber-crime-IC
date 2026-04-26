@@ -1,30 +1,26 @@
 ---
 type: case
-title: "Moldovan National And Technical Mastermind Of xDedic Marketplace Extradited From Spain"
-case_number: "Source-derived from 2022-11-22_justice-gov_united-states-v-alexandru-habasescu"
+title: "Alexandru Habasescu xDedic Extradition Wrapper"
+case_number: "xDedic Habasescu extradition compatibility record"
 jurisdiction: "U.S. District Court, Middle District of Florida"
 jurisdiction_country: "[[united-states]]"
 case_type: prosecution
-status: extradited
+status: absorbed
 crime_charged:
   - "[[online-fraud-ic]]"
 defendants:
-  - name: "Moldovan National And Technical Mastermind Of xDedic Marketplace Extradited From Spain"
-    nationality: Unknown
-    status: extradited
-    sentence: ""
-    location_at_arrest: ""
-related_operation: "[[operation-moldovan-national-and-technical-mastermind-of-xdedic-marketplace-extradited-from-spain]]"
+  []
+related_operation: "[[xdedic-marketplace-takedown]]"
 ic_elements:
   mlat_requests:
-    []
+
   extradition: ""
   evidence_from_abroad:
-    []
+
   foreign_arrests:
-    []
+
   asset_freezing:
-    []
+
 cooperating_agencies:
   - "[[us-doj]]"
 legal_frameworks_invoked:
@@ -38,24 +34,20 @@ source_count: 1
 sources:
   - "[[2022-11-22_justice-gov_united-states-v-alexandru-habasescu]]"
 created: 2026-04-18
-updated: 2026-04-18
-summary: "Moldovan National And Technical Mastermind Of xDedic Marketplace Extradited From Spain is a source-derived case page generated from [[2022-11-22_justice-gov_united-states-v-alexandru-habasescu]]."
+updated: 2026-04-26
+summary: "Absorbed duplicate wrapper for the Habasescu xDedic extradition record. The substantive case is [[us-v-habasescu-xdedic]]."
+aliases:
+  - "Moldovan National And Technical Mastermind Of xDedic Marketplace Extradited From Spain"
 ---
 ## Summary
 
-Moldovan National And Technical Mastermind Of xDedic Marketplace Extradited From Spain is a source-derived case page generated from [[2022-11-22_justice-gov_united-states-v-alexandru-habasescu]].
+This page is an absorbed compatibility wrapper for the Habasescu extradition announcement. The substantive case record is [[us-v-habasescu-xdedic]], and the umbrella operation is [[xdedic-marketplace-takedown]].
 
-## Facts
+## Scope
 
-This case page was generated from [[2022-11-22_justice-gov_united-states-v-alexandru-habasescu]] and reflects an official action title from the source corpus.
-
-## International Cooperation Elements
-
-This source-derived page should be enriched with case-level cooperation detail if primary filings or fuller official narratives are collected.
-
-## Legal Analysis
-
-The present page is a structured placeholder built from source metadata and may require refinement from primary filings.
+- Canonical case: [[us-v-habasescu-xdedic]]
+- Canonical operation: [[xdedic-marketplace-takedown]]
+- Purpose: preserve older generated links without duplicating the Habasescu case narrative
 
 ## References
 

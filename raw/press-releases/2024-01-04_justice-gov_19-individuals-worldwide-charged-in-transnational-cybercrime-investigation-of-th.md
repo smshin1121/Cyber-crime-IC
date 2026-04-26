@@ -19,7 +19,7 @@ source_page: wiki/sources/2024-01-04_justice-gov_19-individuals-worldwide-charge
 ---
 ## Summary
 
-19 Individuals Worldwide Charged In Transnational Cybercrime Investigation Of The xDedic Marketplace Enforcement Action is a defendant-specific follow-on record derived from [[19-individuals-worldwide-charged-in-transnational-cybercrime-investigation-of-the-xdedic-marketplace-2]]. It preserves the catalog entry without asserting an explicit cooperation mechanism that the source does not document.
+This DOJ roundup connects the 2019 xDedic marketplace seizure to a multi-year prosecution pipeline covering administrators, sellers, buyers, and downstream fraud actors. It reports that xDedic offered more than 700,000 compromised servers for sale and identifies the foreign law-enforcement cooperation used for both the infrastructure action and later extradition/prosecution work.
 
 ## Extracted Text
 
