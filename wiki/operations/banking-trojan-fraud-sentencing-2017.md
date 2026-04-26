@@ -60,7 +60,7 @@ timeframe:
 title: "Banking Trojan Fraud Sentencing"
 title_ko: "뱅킹 트로이목마 사기 판결"
 type: operation
-updated: 2026-04-08
+updated: 2026-04-26
 operation_role: umbrella
 parent_operation: ""
 summary: "A cybercriminal who used banking trojans for financial fraud was sentenced to **5 years in prison** after being identified in part because he used his home IP address during the fraud. The case illustrates how basic operational security failures can enable law enforcement to identify and prosecute cybercriminals even in technically sophisticated fraud schemes."
@@ -125,6 +125,29 @@ No Korean involvement identified.
 > for this operation. Possible reasons: non-US jurisdiction with no
 > public court records system, sealed proceedings, or operation did
 > not result in formal prosecution.
+
+<!-- SOURCE_ENRICHMENT_START -->
+
+## Source Coverage
+
+- BBC News, 2018-04-26: BBC News: Polish Banking Trojan Fraudster (Tomasz Skowron) Sentenced to Five Years.
+- Help Net Security, 2015-06-25: The downfall of a major cybercrime ring exploiting banking Trojans.
+- SC Media, 2015-06-25: Europol takes down high profile Ukraine-based cybergang.
+- The Hacker News, 2015-06-27: Europol Arrests Gang Behind Zeus and SpyEye Banking Malware.
+- Tech Monitor, 2015-06-29: Zeus & SpyEye malware gang members arrested in Ukraine.
+
+## Evidence and Attribution Notes
+
+- Tomasz Skowron, a 29-year-old Polish national, was sentenced to 5 years in a UK court for his role in a banking-trojan money-laundering and fraud scheme that stole approximately £840,000 (~USD 1.035 million) from victims worldwide
+- Skowron's accomplice Piotr Ptach received a 3-year sentence for recruiting money mules; both were part of a broader Eastern European cybercrime cell that deployed banking trojans to harvest online-banking credentials
+- Operational-security failure: Skowron was identified because he used his *home IP address* to access compromised victim bank accounts and transfer funds — a critical OPSEC error that directly enabled attribution
+- UK police arrested Skowron in December 2014 based on intelligence from the UK banking industry (private-sector–LE cooperation)
+- The case illustrates the money-mule prosecution pathway: rather than the original malware operators (who were *likely* in Eastern Europe and un-extradited), the UK authorities prosecuted the local cash-out layer
+- Note: The BBC News URL (uk-43893420) could not be fetched directly (BBC blocks automated access); these findings are reconstructed from corroborating BleepingComputer, The Register, and MetaCompliance reporting that reference the same defendants and facts
+- Help Net Security summarized the JIT action in Ukraine against Zeus and SpyEye actors.
+- The report described five arrests, house searches, and seizure of devices.
+
+<!-- SOURCE_ENRICHMENT_END -->
 
 ## References
 

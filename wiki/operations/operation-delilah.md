@@ -63,7 +63,7 @@ timeframe:
 title: "Operation Delilah (SilverTerrier BEC)"
 title_ko: "들릴라 작전 (SilverTerrier BEC)"
 type: operation
-updated: 2026-04-09
+updated: 2026-04-26
 ---
 > [!note] This operation is documented from a Tier 3 (cybersecurity media) source. Additional verification from official sources (Tier 1-2) would strengthen data reliability.
 
@@ -123,6 +123,29 @@ No Korean involvement identified. SilverTerrier has primarily targeted Western c
 > for this operation. Possible reasons: non-US jurisdiction with no
 > public court records system, sealed proceedings, or operation did
 > not result in formal prosecution.
+
+<!-- SOURCE_ENRICHMENT_START -->
+
+## Source Coverage
+
+- Group-IB, 2022-05-25: Group-IB: Operation Delilah — Interpol Nabs Suspected Leader of Transnational Phishing Ring.
+- CyberScoop, 2022-05-25: CyberScoop: Operation Delilah (SilverTerrier BEC).
+- INTERPOL, 2022-05-25: Suspected head of cybercrime gang arrested in Nigeria.
+- BleepingComputer, 2022-05-25: Interpol arrests alleged leader of the SilverTerrier BEC gang.
+- Palo Alto Networks Unit 42, 2022-05-25: Operation Delilah Helps Identify Business Email Compromise Actor.
+
+## Evidence and Attribution Notes
+
+- Group-IB announced on or around 2022-05-25 that Operation Delilah — led by Interpol with intelligence support from Group-IB, Palo Alto Networks Unit 42, and Trend Micro — resulted in the arrest of a 37-year-old Nigerian man at Murtala Muhammed International Airport in Lagos in March 2022
+- The suspect is alleged to be a senior leader of the SilverTerrier cybercrime syndicate, which has operated BEC and mass-phishing campaigns since at least 2015
+- Delilah is the *third* Interpol operation focused on SilverTerrier, following Operation Falcon I (November 2020) and Operation Falcon II (2021); the three operations together have led to the arrest of at least 14 suspected SilverTerrier members
+- Intelligence chain: Group-IB, Unit 42, and Trend Micro provided the initial threat-intelligence referral → Interpol Cyber Fusion Centre analysts enriched it → Nigerian police conducted the physical arrest at the airport (tracking months of suspect movements)
+- Operation Delilah's law-enforcement coordination spanned police agencies across four continents (including Europe, Asia, Africa, Australia)
+- Significance for IC studies: Delilah illustrates a rare operationalisation of a *public–private intelligence chain* where three commercial cybersecurity vendors drove an Interpol-coordinated arrest — a pattern used later in Africa Cyber Surge II (2023)
+- INTERPOL's Operation Delilah resulted in the March 2022 arrest of a 37-year-old Nigerian man identified as a senior figure in the SilverTerrier BEC fraud network, detained upon attempting to re-enter Nigeria after fleeing arrest in 2021
+- Researchers (Palo Alto Networks Unit 42, Group-IB, Trend Micro) traced more than 240 domains registered to the suspect's aliases, with 50+ used for malware command-and-control; the group is assessed to have targeted ~50,000 victims since 2014
+
+<!-- SOURCE_ENRICHMENT_END -->
 
 ## References
 

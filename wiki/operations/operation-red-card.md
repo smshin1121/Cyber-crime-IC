@@ -57,7 +57,7 @@ sources:
   - "[[2025-03-24_techafricanews-com_red-card-for-cybercrime-interpol-and-kaspersky-crack-down-on-african-scammers]]"
   - "[[2025-03-24_africanews-operation-red-card-full]]"
 created: 2026-04-08
-updated: 2026-04-19
+updated: 2026-04-26
 operation_role: umbrella
 parent_operation: ""
 summary: "Operation Red Card was a seven-country African anti-fraud crackdown led by INTERPOL under AFJOC, producing 306 arrests and 1,842 device seizures across mobile banking, investment, and messaging-app scam cases."
@@ -126,6 +126,42 @@ The sources support pre-operational intelligence sharing, enrichment by INTERPOL
 - Public reporting is consistent on the headline metrics, but not every country-level case is described with the same depth.
 - Device seizures are public; downstream prosecution and conviction figures are not.
 - The current source set supports the operational picture strongly, but judicial follow-through remains thin in the public record.
+
+<!-- SOURCE_ENRICHMENT_START -->
+
+## Source Coverage
+
+- INTERPOL, 2025-03-24: More than 300 arrests as African countries clamp down on cyber threats.
+- Africanews, 2025-03-24: Operation Red Card reporting.
+- Kaspersky, 2025-03-24: Kaspersky supports INTERPOL-led operation Red Card, resulting in over 300 arrests.
+- Africanews, 2025-03-24: Cybercrime crackdown: 306 arrested in Africa-wide operation.
+- TechAfrica News, 2025-03-24: Red Card for cybercrime: INTERPOL and Kaspersky crack down on African scammers.
+
+## Operational Timeline
+
+- 2024-11-01: activity or investigation start.
+- 2025-03-24: public announcement.
+- 2025-02-28: reported enforcement endpoint.
+- 2025-03-24: public source coverage from Africanews, INTERPOL, Kaspersky, TechAfrica News.
+
+## Legal and Procedural Posture
+
+- Recorded crime classification: online fraud.
+- Recorded enforcement posture: Arrest and Search.
+- The record is categorized as arrest-sweep with status completed.
+
+## Evidence and Attribution Notes
+
+- Operation Red Card resulted in 306 arrests and 1,842 device seizures across seven African countries.
+- The official release identifies more than 5,000 victims and highlights Nigerian and Rwandan case examples.
+- **Operation Red Card** was an INTERPOL operation under the African Joint Operation against Cybercrime framework targeting cyber-enabled financial fraud across seven African countries.
+- The public record supports **306 arrests**, **1,842 devices seized**, and **more than 5,000 identified victims** across mobile banking, investment-platform, and messaging-app scam cases.
+- Africanews source referenced by Operation Red Card
+- Kaspersky confirms that Operation Red Card relied on partner threat intelligence before the coordinated action phase.
+- The release matches INTERPOL's headline numbers and seven-country scope.
+- TechAfrica News reported that Operation Red Card produced more than 300 arrests across seven African countries.
+
+<!-- SOURCE_ENRICHMENT_END -->
 
 ## References
 

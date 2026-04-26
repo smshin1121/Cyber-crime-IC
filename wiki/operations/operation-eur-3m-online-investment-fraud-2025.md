@@ -74,7 +74,7 @@ sources:
   - "[[2025-05-08_gracechurchfcp-com_international-coalition-uncovers-e3m-online-investment-fraud]]"
   - "[[2025-05-13_ilmetropolitano-it_eurojust-coalizione-internazionale-scopre-frodi-sugli-investimenti-online-da-3-mln-di-e]]"
 created: 2026-04-19
-updated: 2026-04-19
+updated: 2026-04-26
 summary: "Eurojust- and Europol-supported international action against a fake online investment platform, involving Germany and the United Kingdom among other states."
 jurisdictions:
   - "[[germany]]"
@@ -104,6 +104,51 @@ The group used a fake trading platform and aggressive call-centre tactics to pre
 - two suspects arrested during the 2022 phase
 - one suspect arrested in Cyprus during the 2025 phase with surrender or extradition to Germany contemplated
 - Europol mobile offices deployed in Israel, Albania, and the United Kingdom
+
+<!-- SOURCE_ENRICHMENT_START -->
+
+## Source Coverage
+
+- Eurojust, 2025-05-13: International coalition uncovers EUR 3 million online investment fraud.
+- Security Online, 2025-05-13: Europol Cracks EUR 3M Investment Fraud: Global Operation Dismantles Online Scam Network.
+- Global Regulatory Insights, 2025-05-13: International coalition uncovers EUR 3 million online investment fraud.
+- Gracechurch Financial Crime Prevention, 2025-05-08: International Coalition Uncovers EUR 3m Online Investment Fraud.
+- Il Metropolitano, 2025-05-13: Eurojust. Coalizione internazionale scopre frodi sugli investimenti online da 3 mln di EUR.
+
+## Operational Timeline
+
+- 2022-09-06: activity or investigation start.
+- 2025-05-13: public announcement.
+- 2025-05-13: reported enforcement endpoint.
+- 2025-05-08: public source coverage from Gracechurch Financial Crime Prevention.
+- 2025-05-13: public source coverage from Eurojust, Global Regulatory Insights, Il Metropolitano, Security Online.
+
+## International Cooperation Details
+
+- Lead agency is Eurojust.
+- Participating or affected jurisdictions recorded in metadata: Germany, Cyprus, Albania, United Kingdom, Israel, Belgium, Latvia.
+- Named agencies and partners include Eurojust, Europol Ec3, Uk Nca.
+- Recorded cooperation mechanisms include mutual legal assistance and Eurojust Coordination Meeting.
+
+## Legal and Procedural Posture
+
+- Recorded crime classification: online fraud.
+- Recorded enforcement posture: Arrest, Search, Interrogation.
+- Legal or procedural basis recorded in metadata: mutual legal assistance and Extradition.
+- The record is categorized as joint-investigation with status ongoing.
+
+## Evidence and Attribution Notes
+
+- German, Cypriot, Albanian, British, and Israeli investigators worked together with Eurojust and Europol support.
+- The operation followed two action days and included searches in Belgium and Latvia during the first phase and searches in Albania, Cyprus, and Israel during the second.
+- The National Crime Agency is listed among the authorities carrying out the second action day.
+- Eurojust describes a multi-year investigation into a fake online investment platform that defrauded victims of over EUR 3 million and required coordinated action across Europe and beyond.
+- Security Online described the fake trading-platform case that defrauded more than 100 victims of over EUR 3 million.
+- It highlighted the simultaneous searches in Albania, Cyprus, and Israel.
+- Security Online reported on the transnational online-investment-fraud operation announced in May 2025.
+- Global Regulatory Insights summarized the dismantling of the fake online investment platform.
+
+<!-- SOURCE_ENRICHMENT_END -->
 
 ## References
 

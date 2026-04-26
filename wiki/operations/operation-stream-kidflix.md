@@ -53,7 +53,7 @@ sources:
   - "[[2025-04-02_bleepingcomputer-com_police-shuts-down-kidflix-child-sexual-exploitation-platform]]"
   - "[[2025-05-15_eucrim_pedophile-platform-kidflix-shut-down]]"
 created: 2026-04-08
-updated: 2026-04-19
+updated: 2026-04-26
 operation_role: umbrella
 parent_operation: ""
 summary: "Operation Stream dismantled the Kidflix dark-web CSAM platform through a Germany-led, Europol-coordinated investigation with Dutch server action, identifying 1,393 suspects and producing 79 arrests worldwide."
@@ -110,6 +110,46 @@ The public record supports a long-running multinational investigative model cent
 - Public sources agree on the broad outcome but do not provide a complete list of the 35+ participating countries.
 - The exact number of servers seized is not fully broken out publicly; current public reporting clearly supports at least the Netherlands-hosted server action.
 - Court-stage case developments against identified users remain largely undisclosed.
+
+<!-- SOURCE_ENRICHMENT_START -->
+
+## Source Coverage
+
+- Europol / Security Affairs / TRM Labs, 2025-04-04: Europol-led Operation Stream Takes Down Kidflix CSAM Platform.
+- Security Affairs / TRM Labs, 2025-04-04: Operation Stream / Kidflix.
+- Dutch National Police, 2025-04-03: Kinderpornografisch platform KidFlix offline gehaald.
+- Security Affairs / TRM Labs, 2025-04-04: Europol-led Operation Stream Takes Down Kidflix CSAM Platform.
+- BleepingComputer, 2025-04-02: Police shuts down KidFlix child sexual exploitation platform.
+- eucrim, 2025-05-15: Pedophile Platform 'Kidflix' Shut Down.
+
+## Operational Timeline
+
+- 2022-01-01: activity or investigation start.
+- 2025-04-04: public announcement.
+- 2025-03-11: reported enforcement endpoint.
+- 2025-04-02: public source coverage from BleepingComputer.
+- 2025-04-03: public source coverage from Dutch National Police.
+- 2025-04-04: public source coverage from Europol / Security Affairs / TRM Labs, Security Affairs / TRM Labs.
+- 2025-05-15: public source coverage from eucrim.
+
+## Legal and Procedural Posture
+
+- Recorded crime classification: CSAM.
+- Recorded enforcement posture: Takedown, Seizure, Arrest.
+- The record is categorized as takedown with status completed.
+
+## Evidence and Attribution Notes
+
+- # Operation Stream — Kidflix CSAM Platform Takedown An international law enforcement operation named "Operation Stream" dismantled Kidflix, one of the largest known child sexual abuse material (CSAM) streaming platforms on the dark web.
+- The operation was led by the Bavarian State Criminal Police (Bayerisches Landeskriminalamt) and the Bavarian Central Office for the Prosecution of Cybercrime (ZCB), with coordination by Europol across 35 countries.
+- **Platform: "** Kidflix — CSAM streaming platform operational since 2021"
+- An international law enforcement operation named "Operation Stream" dismantled Kidflix, one of the largest known child sexual abuse material (CSAM) streaming platforms on the dark web.
+- Source referenced by ic-statistics-dashboard.
+- Dutch police confirm Netherlands-based server action on March 11, 2025 at Germany's request.
+- The release confirms the platform had roughly 1.8 million users and that more than 1,400 users were identified globally.
+- **Operation Stream** was a Germany-led, Europol-coordinated operation that dismantled **Kidflix**, a major dark-web child sexual abuse material streaming platform.
+
+<!-- SOURCE_ENRICHMENT_END -->
 
 ## References
 

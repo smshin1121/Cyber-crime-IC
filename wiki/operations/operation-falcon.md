@@ -60,7 +60,7 @@ timeframe:
 title: "Operation Falcon"
 title_ko: "Operation Falcon (나이지리아 BEC 조직 단속)"
 type: operation
-updated: 2026-04-09
+updated: 2026-04-26
 operation_role: umbrella
 parent_operation: ""
 summary: "INTERPOL, Group-IB, and the Nigeria Police Force conducted Operation Falcon, a joint investigation that resulted in the arrest of 3 Nigerian nationals in November 2020. The suspects were part of a prolific cybercrime group that used 26 different types of malware including AgentTesla, Loki, Azorult, Spartan, Nanocore, and Remcos to conduct phishing attacks and Business Email Compromise (BEC) schemes targeting government organizations and private companies in over 150 countries."
@@ -99,6 +99,43 @@ Nigeria (arrests made domestically; victims across 150+ countries)
 > for this operation. Possible reasons: non-US jurisdiction with no
 > public court records system, sealed proceedings, or operation did
 > not result in formal prosecution.
+
+<!-- SOURCE_ENRICHMENT_START -->
+
+## Source Coverage
+
+- INTERPOL, Unknown: INTERPOL: Operation Falcon.
+- CyberScoop, 2020-11-25: CyberScoop: Accused Email Scammers Busted in Nigeria (Operation Falcon).
+- Group-IB, 2020-11-25: Operation Falcon: Group-IB helps INTERPOL identify Nigerian BEC ring members.
+- PM News Nigeria, 2020-11-27: Interpol: 3 Nigerians busted for cybercrime, operate in 150 countries.
+- The Guardian Nigeria, 2020-11-27: Nigerian police join INTERPOL, Group-IB to arrest three suspected TMT fraudsters.
+
+## Operational Timeline
+
+- 2019: activity or investigation start.
+- 2020-11: public announcement.
+- 2020-11: reported enforcement endpoint.
+- 2020-11-25: public source coverage from CyberScoop, Group-IB.
+- 2020-11-27: public source coverage from PM News Nigeria, The Guardian Nigeria.
+- Unknown: public source coverage from INTERPOL.
+
+## Legal and Procedural Posture
+
+- Recorded crime classification: BEC.
+- The record is categorized as arrest-sweep with status completed.
+
+## Evidence and Attribution Notes
+
+- CyberScoop reported on 2020-11-25 that Interpol, Group-IB, and the Nigeria Police Force concluded a year-long operation (Operation Falcon) targeting the Nigerian BEC/phishing gang known as TMT
+- Three suspects arrested in Lagos, identified only by initials (O.C., I.O., O.I.); Interpol cited their alleged involvement in defrauding approximately 50,000 victims
+- Group-IB assessment: TMT had compromised 'potentially more than 500,000' victims since 2017, spanning over 150 countries — a much larger victim pool than the three suspects were directly tied to
+- TMT's tooling included commodity info-stealers and RATs: AgentTesla, Loki, AzoRult, and NetWire; they also exploited COVID-19 themes as bait (fraudulent aid offers)
+- Macro-level context cited in the article: FBI IC3 recorded approximately USD 1.7 billion in BEC losses for 2019 alone, framing why Interpol prioritised Nigerian BEC groups
+- This is the Falcon I (November 2020) operation, distinct from Falcon II (2021) and the subsequent Operation Delilah (2022), all targeting the overlapping SilverTerrier/TMT Nigerian BEC ecosystem
+- Group-IB said Operation Falcon led to the arrest of three TMT gang members in Lagos.
+- The release attributed more than 500,000 compromised organizations across 150 countries to the broader TMT cluster.
+
+<!-- SOURCE_ENRICHMENT_END -->
 
 ## References
 

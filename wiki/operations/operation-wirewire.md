@@ -77,7 +77,7 @@ sources:
   - "[[2018-06-12_welivesecurity_com_74-people-arrested-in-us-led-crackdown-on-email-scams]]"
   - "[[2018-06-12_infosecurity-magazine_bec-scammers-disrupted-in-multi-million-dollar-swoop]]"
 created: 2026-04-08
-updated: 2026-04-09
+updated: 2026-04-26
 operation_role: umbrella
 parent_operation: ""
 summary: "Operation WireWire was a coordinated international law enforcement operation led by the U.S. Department of Justice, FBI, Department of Homeland Security, and Treasury Department to disrupt Business Email Compromise (BEC) and Email Account Compromise (EAC) schemes. The operation resulted in 74 arrests across the United States, Nigeria, Canada, Mauritius, and Poland, with approximately $2.4 million seized and $14 million in fraudulent wire transfers intercepted and recovered."
@@ -126,6 +126,45 @@ United States, Nigeria, Canada, Mauritius, Poland
 > for this operation. Possible reasons: non-US jurisdiction with no
 > public court records system, sealed proceedings, or operation did
 > not result in formal prosecution.
+
+<!-- SOURCE_ENRICHMENT_START -->
+
+## Source Coverage
+
+- US DOJ (District of Connecticut), 2016-12-20: Nigerian Nationals Charged with Operating Business Compromise Scheme.
+- FBI, 2018-06-11: FBI: International BEC Takedown (Operation Wire Wire).
+- Security Affairs, 2018-06-12: Operation WireWire – Law enforcement arrested 74 individuals involved in BEC scams.
+- WeLiveSecurity / ESET, 2018-06-12: 74 people arrested in US-led crackdown on email scams.
+- Infosecurity Magazine, 2018-06-12: BEC Scammers Disrupted in Multi-Million Dollar Swoop.
+
+## Operational Timeline
+
+- 2017: activity or investigation start.
+- 2018-06-11: public announcement.
+- 2018-06: reported enforcement endpoint.
+- 2016-12-20: public source coverage from US DOJ (District of Connecticut).
+- 2018-06-11: public source coverage from FBI.
+- 2018-06-12: public source coverage from Infosecurity Magazine, Security Affairs, WeLiveSecurity / ESET.
+
+## Legal and Procedural Posture
+
+- Recorded crime classification: BEC.
+- Recorded enforcement posture: Arrest, Seizure, Asset Freeze.
+- The record is categorized as arrest-sweep with status completed.
+- Related legal or operational records: United States v. Odufuye and Nwoke (BEC) and Us V Odufuye Nwoke Bec.
+
+## Evidence and Attribution Notes
+
+- Secure .gov websites use HTTPS A lock ( Lock Locked padlock ) or https: // means you’ve safely connected to the .gov website.
+- Attorney's Office for the District of Connecticut announced charges against Adeyemi Odufuye and another defendant in a business email compromise scheme targeting U.S.
+- DOJ said a federal grand jury had returned a seven-count indictment on 20 December 2016 charging conspiracy, five wire-fraud counts, and aggravated identity theft.
+- The subsequent DOJ record shows the case became a clear example of multinational custody and evidence work in a BEC prosecution.
+- Odufuye was arrested in the United Kingdom in December 2016 and extradited to the United States.
+- Stanley Nwoke was later arrested in Mauritius in May 2018, extradited to the United States on 25 May 2018, pleaded guilty in May 2019, and was sentenced in August 2019.
+- DOJ also identified assistance from the Office of International Affairs, the UK National Crime Agency, the UK Metropolitan Police, and the Mauritius Police Force.
+- The public case materials describe a scheme that targeted CEOs, CFOs, controllers, nonprofits, and schools across the United States through spoofed executive emails and, in some instances, malware-bearing attachments.
+
+<!-- SOURCE_ENRICHMENT_END -->
 
 ## References
 

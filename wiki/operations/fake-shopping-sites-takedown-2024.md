@@ -65,7 +65,7 @@ timeframe:
 title: "Fraudulent Shopping Sites Takedown"
 title_ko: "명시되지 않음 (가짜 쇼핑 사이트 단속)"
 type: operation
-updated: 2026-04-09
+updated: 2026-04-26
 operation_role: umbrella
 parent_operation: ""
 summary: "Europol and German police from Hannover, with the Verden prosecution office and European partner countries, took down a network of fraudulent online shopping sites tied to a cybercrime marketplace. The investigation began in autumn 2022 and culminated in the seizure of 50+ servers, the arrest of 2 key suspects, and the recovery of over 200 TB of digital evidence. The operation involved cooperation from Austria, Finland, the Netherlands, and Norway."
@@ -106,6 +106,43 @@ Germany, Austria, Finland, Netherlands, Norway
 > for this operation. Possible reasons: non-US jurisdiction with no
 > public court records system, sealed proceedings, or operation did
 > not result in formal prosecution.
+
+<!-- SOURCE_ENRICHMENT_START -->
+
+## Source Coverage
+
+- Europol, 2024-12-05: Europol: Fraudulent Shopping Sites Tied to Cybercrime Marketplace Taken Offline.
+- Al Jazeera, 2024-06-28: Al Jazeera: Indonesia to Deport 103 Taiwanese Suspected of Cybercrimes in Bali.
+- BleepingComputer, 2024-12-05: Police shuts down Manson cybercrime market, arrests key suspects.
+- The Hacker News, 2024-12-05: Europol Shuts Down Manson Market Fraud Marketplace, Seizes 50 Servers.
+- Help Net Security, 2024-12-05: Law enforcement shuts down Manson Market cybercrime marketplace.
+- TechTarget, 2024-12-05: Police bust cybercrime marketplace, phishing network.
+
+## Operational Timeline
+
+- 2022: activity or investigation start.
+- 2024-12-04: public announcement.
+- 2024-12-04: reported enforcement endpoint.
+- 2024-06-28: public source coverage from Al Jazeera.
+- 2024-12-05: public source coverage from BleepingComputer, Europol, Help Net Security, TechTarget.
+
+## Legal and Procedural Posture
+
+- Recorded crime classification: online fraud.
+- The record is categorized as takedown with status completed.
+
+## Evidence and Attribution Notes
+
+- On 5 December 2024 Europol announced a coordinated takedown of a specialized cybercrime marketplace selling regionally-sorted stolen data with account-balance filtering, plus the phishing-driven fake-shopping-site infrastructure that fed it
+- Cooperation involved six EU member states: Austria, Czechia, Finland, Germany, Netherlands, and Poland, coordinated through Europol's European Cybercrime Centre (EC3)
+- Two suspects (aged 27 and 37) were arrested in Germany and Austria under European Arrest Warrants and placed in pretrial detention; infrastructure was dismantled across multiple jurisdictions
+- Digital evidence seized: over 50 servers, more than 200 terabytes of data — one of the largest data-volume seizures in a 2024 cybercrime operation per the Europol release
+- The investigation began in autumn 2022 after reports of scammers impersonating bank employees to extract customer credentials, illustrating ~2-year investigative cycles typical of Europol-led multi-jurisdiction cases
+- The marketplace served 'thousands of users' and operated as a specialized downstream outlet for phishing-harvested data — filling the supply chain role between phishing infrastructure and stolen-data resellers
+- Indonesian immigration officials raided a villa in Tabanan district, Bali on 26 June 2024, detaining 103 individuals (91 men, 12 women) suspected of cybercrime and visa/residency permit misuse
+- Hundreds of mobile phones and electronic devices were seized during the raid; authorities indicated the group was running cybercrime operations from the villa
+
+<!-- SOURCE_ENRICHMENT_END -->
 
 ## References
 

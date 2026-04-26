@@ -68,7 +68,7 @@ timeframe:
 title: "Operation NightFury (Magecart/GetBilling)"
 title_ko: "나이트퓨리 작전 (Magecart/GetBilling)"
 type: operation
-updated: 2026-04-22
+updated: 2026-04-26
 ---
 > [!note] This operation is documented from a Tier 3 (cybersecurity media) source. Additional verification from official sources (Tier 1-2) would strengthen data reliability.
 
@@ -134,6 +134,30 @@ No Korean involvement identified. South Korean e-commerce sites could potentiall
 > for this operation. Possible reasons: non-US jurisdiction with no
 > public court records system, sealed proceedings, or operation did
 > not result in formal prosecution.
+
+<!-- SOURCE_ENRICHMENT_START -->
+
+## Source Coverage
+
+- Group-IB, 2020-01-24: Group-IB: Night Fury — INTERPOL-coordinated arrest of Magecart/GetBilling operators.
+- CyberScoop, 2020-01-27: CyberScoop: Indonesian Police Arrest 3 Men for Alleged Magecart-Style Attacks (Operation NightFury / GetBilling).
+- TechTarget, 2020-01-28: 3 Magecart suspects arrested in Interpol operation.
+- BleepingComputer, 2020-01-27: First MageCart Hackers Caught, Infected Hundreds of Web Stores.
+- The Hacker News, 2020-01-25: Interpol Arrests 3 Indonesian Credit Card Hackers for Magecart Attacks.
+- Infosecurity Magazine, 2020-01-28: Suspected Magecart Hackers Arrested in Indonesia.
+
+## Evidence and Attribution Notes
+
+- On 24 January 2020, INTERPOL's ASEAN Cybercrime Operations Desk announced the results of Operation Night Fury, which resulted in the arrest of 3 Indonesian nationals involved in a Magecart-style JavaScript web skimming operation known as 'GetBilling'
+- Private-sector origin: The operation was driven by intelligence provided by Singapore-based cybersecurity firm Group-IB, which had been tracking GetBilling since 2018 and had identified infrastructure linking the group to hundreds of compromised e-commerce sites worldwide
+- Technical profile: GetBilling deployed obfuscated JavaScript skimmers that were injected into e-commerce payment checkout pages to exfiltrate customer payment card data, shipping details and personal information — the hallmark Magecart pattern
+- Scope of compromise: Group-IB's report describes that GetBilling had compromised 'hundreds' of online stores across multiple countries, though no specific country list was published beyond confirmation that victims spanned Asia-Pacific, Europe and North America
+- Operation Night Fury was also folded into INTERPOL's broader ASEAN 'Operation Goldfish Alpha/Night Fury' reporting, presenting the arrests as part of a regional cyberthreat response rather than a standalone named action
+- Historical significance: This was one of the first publicly announced arrests of Magecart operators anywhere in the world — the broader Magecart umbrella (estimated 20+ distinct groups) had been tracked by security researchers since 2015 without successful takedowns until this Indonesia action
+- 3 Indonesian men arrested on 20 December 2019 in Jakarta and Yogyakarta for Magecart-style web skimming attacks, announced by INTERPOL on 27 January 2020 as 'Operation NightFury'
+- Suspects faced up to 10 years in prison under Indonesian law if convicted
+
+<!-- SOURCE_ENRICHMENT_END -->
 
 ## References
 

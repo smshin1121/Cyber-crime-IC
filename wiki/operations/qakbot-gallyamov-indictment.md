@@ -71,7 +71,7 @@ sources:
   - "[[2025-05-23_helpnetsecurity-com_danabot-botnet-disrupted-qakbot-leader-indicted]]"
   - "[[2023-08-30_eurojust-europa-eu_qakbot-malware-network-dismantled]]"
 created: 2026-04-08
-updated: 2026-04-18
+updated: 2026-04-26
 summary: "The US Department of Justice unsealed an indictment on 22 May 2025 charging Rustam Rafailevich Gallyamov with leading the Qakbot malware conspiracy. The operation also sits on top of a multinational disruption chain in which Dutch prosecutors and police publicly described the 2023 seizure of 22 Qakbot servers in the Netherlands."
 organizations:
   - "[[fbi-cyber-division]]"
@@ -125,6 +125,44 @@ The Dutch prosecution-side record is particularly useful for this operation fami
 - Will Gallyamov ever be apprehended given his location in Russia?
 - How effective was the August 2023 botnet takedown if criminal activity continued?
 - What is the total financial impact of Qakbot-facilitated ransomware attacks?
+
+<!-- SOURCE_ENRICHMENT_START -->
+
+## Source Coverage
+
+- US DOJ, 2025-05-22: Page not found.
+- Openbaar Ministerie, 2023-08-29: Grootste wereldwijde botnet Qakbot onschadelijk gemaakt.
+- US DOJ (OPA), 2025-05-22: Leader of Qakbot Malware Conspiracy Indicted for Involvement in Global Ransomware Scheme.
+- Help Net Security, 2025-05-23: DanaBot botnet disrupted, QakBot leader indicted.
+- Eurojust, 2023-08-30: Malware network that infected more than 700,000 victims and caused hundreds of millions of dollars in damage worldwide dismantled in multinational..
+
+## Operational Timeline
+
+- 2008: activity or investigation start.
+- 2025-05-22: public announcement.
+- 2023-08-29: public source coverage from Openbaar Ministerie.
+- 2023-08-30: public source coverage from Eurojust.
+- 2025-05-22: public source coverage from US DOJ, US DOJ (OPA).
+- 2025-05-23: public source coverage from Help Net Security.
+
+## Legal and Procedural Posture
+
+- Recorded crime classification: ransomware.
+- The record is categorized as joint-investigation with status ongoing.
+- Related legal or operational records: Us V Gallyamov Qakbot.
+
+## Evidence and Attribution Notes
+
+- Secure .gov websites use HTTPS A lock ( Lock Locked padlock ) or https: // means you’ve safely connected to the .gov website.
+- The OM and Dutch police jointly announced the international Qakbot disruption.
+- The Dutch side reported seizure of 22 servers in different datacenters in the Netherlands.
+- The source shows formal prosecution involvement in a major multinational botnet operation.
+- This joint OM-police release documents Dutch prosecutorial participation in the Qakbot disruption.
+- On 22 May 2025, the Department of Justice unsealed an indictment charging Rustam Rafailevich Gallyamov, 48, of Moscow, Russia, with leading the QakBot malware conspiracy since 2008.
+- The indictment was unsealed in conjunction with Operation Endgame, the international law enforcement campaign targeting ransomware-enabling infrastructure.
+- ### Charges Gallyamov was charged with conspiracy, wire fraud, and related offenses.
+
+<!-- SOURCE_ENRICHMENT_END -->
 
 ## References
 

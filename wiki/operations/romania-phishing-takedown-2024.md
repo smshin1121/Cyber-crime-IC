@@ -68,7 +68,7 @@ sources:
   - "[[2020-10-13_incibe-es_en_international-operation-against-group-cybercriminals]]"
   - "[[2020-09-29_ilmetropolitano-it_hook-line-and-sinker-cybercrime-network-phishing-bank-credentials-arrested-in-romania]]"
 created: 2026-04-08
-updated: 2026-04-09
+updated: 2026-04-26
 operation_role: umbrella
 parent_operation: ""
 summary: "Europol and Romanian police and prosecutors conducted a joint operation that resulted in the arrest of 16 members of a cybercrime network in Romania that had been phishing bank credentials and conducting illegal fund transfers. The operation, which ran from 2023 to early 2024, dismantled the criminal network responsible for stealing banking credentials through phishing attacks and transferring victims' funds to accounts controlled by the group."
@@ -110,6 +110,44 @@ Romania
 > for this operation. Possible reasons: non-US jurisdiction with no
 > public court records system, sealed proceedings, or operation did
 > not result in formal prosecution.
+
+<!-- SOURCE_ENRICHMENT_START -->
+
+## Source Coverage
+
+- Europol, Unknown: Europol: Romania Phishing Network Takedown.
+- Eurojust, 2020-09-29: Eurojust supports successful takedown in Romania of an OCG carrying out elaborated cybercrime and bank frauds in Lithuania and Estonia.
+- INCIBE-CERT, 2020-10-13: Operación internacional contra un grupo de ciberdelincuentes.
+- INCIBE-CERT, 2020-10-13: International operation against a group of cybercriminals.
+- Il Metropolitano, 2020-09-29: Hook, line and sinker: cybercrime network phishing bank credentials arrested in Romania.
+
+## Operational Timeline
+
+- 2023: activity or investigation start.
+- 2024-01: public announcement.
+- 2024-01: reported enforcement endpoint.
+- 2020-09-29: public source coverage from Eurojust, Il Metropolitano.
+- 2020-10-13: public source coverage from INCIBE-CERT.
+- Unknown: public source coverage from Europol.
+
+## Legal and Procedural Posture
+
+- Recorded crime classification: online fraud.
+- Recorded enforcement posture: Arrest.
+- The record is categorized as arrest-sweep with status completed.
+
+## Evidence and Attribution Notes
+
+- Eurojust described the takedown of a phishing and bank-fraud OCG operating from Romania against victims in Lithuania and Estonia.
+- The release confirmed a JIT, four coordination meetings, three arrests, and four house searches.
+- INCIBE summarized the Romania-Estonia-Lithuania phishing takedown and linked it to Europol and Eurojust.
+- The bulletin restated the victim and loss figures and the arrest/search counts.
+- INCIBE's English bulletin summarized the Romania phishing takedown against victims in Estonia and Lithuania.
+- It pointed readers to Europol and Eurojust records of the operation.
+- The article summarized the Estonia-Lithuania-Romania operation against the phishing group.
+- It reported victim counts, Romanian arrests, and Europol-Eurojust support.
+
+<!-- SOURCE_ENRICHMENT_END -->
 
 ## References
 

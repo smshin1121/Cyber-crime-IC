@@ -73,7 +73,7 @@ sources:
   - "[[2025-03-26_irishpost-com_investigation-into-high-risk-criminal-network-sees-12-arrested-in-ireland-and-spain]]"
 summary: "12 members of an Irish high-risk criminal network arrested Enforcement Action is a defendant-specific enforcement action page derived from [[12-members-of-an-irish-high-risk-criminal-network-arrested]]."
 created: 2026-04-18
-updated: 2026-04-18
+updated: 2026-04-26
 ---
 ## Summary
 
@@ -93,6 +93,48 @@ The underlying public case record identifies 12 members of an Irish high-risk cr
 - Operation type: `prosecution`
 - Case anchor: [[12-members-of-an-irish-high-risk-criminal-network-arrested]]
 - Source coverage: 1 official or catalogued source page(s)
+
+<!-- SOURCE_ENRICHMENT_START -->
+
+## Source Coverage
+
+- Europol, 2024-11-01: 12 members of an Irish high-risk criminal network arrested.
+- Direzione Investigativa Antimafia, 2025-03-28: Operazione Pereira23 – 12 membri di una rete criminale irlandese ad alto rischio arrestati.
+- Centro de Documentacion Europea - Universidad de Almeria, 2025-03-28: 12 members of an Irish high-risk criminal network arrested.
+- The Irish Times, 2025-03-27: Spanish police say Ireland's Family drugs gang enjoyed high economic status and influence.
+- The Irish Times, 2025-03-27: Spanish police find Irish 'Family' drugs gang in three regions, seize EUR 30m in drugs, four trucks.
+- The Irish Post, 2025-03-26: Investigation into high-risk criminal network sees 12 arrested in Ireland and Spain.
+
+## Operational Timeline
+
+- 2024: activity or investigation start.
+- 2024-11-01: public announcement.
+- 2024-11-01: reported enforcement endpoint.
+- 2024-11-01: public source coverage from Europol.
+- 2025-03-26: public source coverage from The Irish Post.
+- 2025-03-27: public source coverage from The Irish Times.
+- 2025-03-28: public source coverage from Centro de Documentacion Europea - Universidad de Almeria, Direzione Investigativa Antimafia.
+
+## Legal and Procedural Posture
+
+- Recorded crime classification: online fraud.
+- Recorded enforcement posture: Arrest.
+- Legal or procedural basis recorded in metadata: informal cooperation.
+- The record is categorized as prosecution with status completed.
+- Related legal or operational records: 12 Members Of An Irish High Risk Criminal Network Arrested.
+
+## Evidence and Attribution Notes
+
+- Operation Kraken was a multinational law enforcement operation led by the Australian Federal Police (AFP) and coordinated by Europol that dismantled **Ghost**, a dedicated encrypted communications platform built and used exclusively by organized crime networks worldwide.
+- The operation culminated on September 17-18, 2024, with near-simultaneous raids across Australia, Ireland, Italy, Canada, and Sweden.
+- The platform's alleged creator and administrator, **Jay Je Yoon Jung** (32, of New South Wales, Australia), was arrested at his home in Narwee, Sydney.
+- The Italian DIA site summarized the coordinated Ireland-Spain action against a high-risk Irish criminal network following the Ghost platform takedown.
+- The report described 12 arrests and linked the case to drug trafficking, money laundering, and encrypted communications.
+- An Italian government-affiliated anti-mafia portal summarized the Ireland-Spain action against the Irish high-risk network.
+- The European documentation center reposted the operational details of the coordinated Ireland-Spain arrests.
+- It highlighted Europol support and the use of Ghost platform intelligence to identify the network.
+
+<!-- SOURCE_ENRICHMENT_END -->
 
 ## References
 

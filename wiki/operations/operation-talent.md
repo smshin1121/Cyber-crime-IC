@@ -59,7 +59,7 @@ sources:
   - "[[2025-01-31_infosecurity-magazine_operation-talent-cracked-nulled-dismantled]]"
   - "[[2025-01-31_bleepingcomputer-com_operation-talent-cracked-nulled]]"
 created: 2026-04-08
-updated: 2026-04-19
+updated: 2026-04-26
 operation_role: umbrella
 parent_operation: ""
 summary: "Operation Talent was a Germany-led, Europol-supported international operation against the Cracked and Nulled cybercrime forums, producing two arrests, 17 server seizures, and broad evidence capture for follow-on investigations."
@@ -131,6 +131,43 @@ The sources clearly support synchronized multinational police action with Europo
 - Public figures vary slightly across summaries on the exact count of accounts, domains, and seized services, but the core seizure narrative is consistent.
 - Follow-on prosecutions against sellers and users of the forums are expected but not yet fully visible in public reporting.
 - The extent of Europol's public-facing own announcement page remains underdocumented in the current source set; this page therefore leans on BKA and DOJ official anchors.
+
+<!-- SOURCE_ENRICHMENT_START -->
+
+## Source Coverage
+
+- Germany BKA / Europol-supported operation, 2025-01-30: Operation Talent.
+- U.S. Department of Justice, 2025-01-30: Cracked and Nulled Marketplaces Disrupted in International Cyber Operation.
+- Cybernews, 2025-01-30: Cracked and Nulled seized in Operation Talent.
+- Infosecurity Magazine, 2025-01-31: Operation Talent dismantles Cracked and Nulled.
+- BleepingComputer, 2025-01-31: Operation Talent disrupts Cracked and Nulled cybercrime forums.
+
+## Operational Timeline
+
+- 2025-01-28: activity or investigation start.
+- 2025-01-30: public announcement.
+- 2025-01-30: reported enforcement endpoint.
+- 2025-01-30: public source coverage from Cybernews, Germany BKA / Europol-supported operation, U.S. Department of Justice.
+- 2025-01-31: public source coverage from BleepingComputer, Infosecurity Magazine.
+
+## Legal and Procedural Posture
+
+- Recorded crime classification: hacking.
+- Recorded enforcement posture: Arrest, Seizure, Takedown.
+- The record is categorized as takedown with status completed.
+
+## Evidence and Attribution Notes
+
+- German authorities led an internationally coordinated action against Cracked and Nulled.
+- The operation produced two arrests, 17 server seizures, and wide evidence capture.
+- Secure .gov websites use HTTPS A lock ( Lock Locked padlock ) or https:// means you’ve safely connected to the .gov website.
+- Cybernews reported that Cracked and Nulled were seized in the Germany-led Operation Talent.
+- The report noted related action against Sellix and StarkRDP and the scale of the two forums' user bases.
+- Cybernews reported on the seizure of **Cracked** and **Nulled** under **Operation Talent**, including disruption of supporting services.
+- Infosecurity Magazine reported that Operation Talent dismantled the Cracked and Nulled cybercrime forums.
+- The article highlighted server seizures, arrests, and the involvement of Germany, the United States, and multiple European partners.
+
+<!-- SOURCE_ENRICHMENT_END -->
 
 ## References
 

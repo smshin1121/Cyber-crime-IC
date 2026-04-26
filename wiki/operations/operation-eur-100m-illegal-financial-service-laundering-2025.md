@@ -73,7 +73,7 @@ sources:
   - "[[2025-01-27_eurojust-fraud-term_illegal-financial-service-laundering]]"
   - "[[2025-01-27_eurojust-financial-crime-term_illegal-financial-service-laundering]]"
 created: 2026-04-19
-updated: 2026-04-19
+updated: 2026-04-26
 summary: "A Eurojust- and Europol-supported joint investigation by Spanish, Cypriot and German authorities, with French support, dismantled a laundering service that moved approximately EUR 100 million for other criminal organisations."
 organizations:
   - "[[eurojust]]"
@@ -115,6 +115,44 @@ Eurojust reported that the scheme began to surface in 2023 after suspicious trip
 - EUR 8 million in cash seized
 - EUR 2 million in bank accounts seized
 - EUR 27 million in cryptocurrency frozen
+
+<!-- SOURCE_ENRICHMENT_START -->
+
+## Source Coverage
+
+- Eurojust, 2025-01-27: Criminals operating an illegal financial service to launder millions of euros busted.
+- Risk & Compliance Platform Europe, 2025-02-07: Criminals operating an illegal financial service to launder millions of euros busted.
+- The European Times, 2025-01-27: Criminals operating an illegal financial service to launder millions of euros busted.
+- Eurojust, 2025-01-27: Eurojust fraud topic page - illegal financial service laundering.
+- Eurojust, 2025-01-27: Eurojust financial crime topic page - illegal financial service laundering.
+
+## Operational Timeline
+
+- 2023: activity or investigation start.
+- 2025-01-27: public announcement.
+- 2025-01-27: reported enforcement endpoint.
+- 2025-01-27: public source coverage from Eurojust, The European Times.
+- 2025-02-07: public source coverage from Risk & Compliance Platform Europe.
+
+## Legal and Procedural Posture
+
+- Recorded crime classification: money laundering.
+- Recorded enforcement posture: Arrests, Searches, Asset Freezing.
+- Legal or procedural basis recorded in metadata: Joint Investigation Team and Asset Freezing.
+- The record is categorized as joint-investigation with status completed.
+
+## Evidence and Attribution Notes
+
+- Spanish, Cypriot and German authorities, with French support, dismantled a laundering service that handled approximately EUR 100 million.
+- The JIT at Eurojust and Europol support enabled arrests, searches and large cryptocurrency freezes.
+- Eurojust described an international investigation into a laundering service used by other criminal organisations, detailing the JIT structure, cross-border actions and the seizure and freezing results.
+- The outlet summarized the Eurojust-supported dismantling of a EUR 100 million laundering service.
+- It listed the cross-border searches, arrests, and crypto freezing linked to the case.
+- Risk & Compliance Platform Europe republished the operational details of the EUR 100 million laundering-service case.
+- The European Times summarized the takedown of a laundering service that moved roughly EUR 100 million.
+- The report described the seizures, frozen crypto, and multi-country investigative structure.
+
+<!-- SOURCE_ENRICHMENT_END -->
 
 ## References
 

@@ -85,7 +85,7 @@ sources:
   - "[[2019-12-01_aspi-org-au_national-security-wrap-186]]"
   - "[[2019-12-02_wired-gov-net_cybercrime-site-selling-hacking-tool-taken-down]]"
 created: 2026-04-08
-updated: 2026-04-08
+updated: 2026-04-26
 operation_role: umbrella
 parent_operation: ""
 summary: "In November-December 2019, [[europol-ec3|Europol]] coordinated an international operation that dismantled the infrastructure of **Imminent Monitor**, a Remote Access Trojan (RAT) sold commercially as a legitimate tool but widely used for cybercrime. The operation involved law enforcement from 8 countries and resulted in **13 arrests** and the seizure of **430 devices**. Investigators identified **14,500 buyers** of the RAT across **124 countries**."
@@ -182,6 +182,24 @@ No Korean involvement identified. However, given the global user base (124 count
 > for this operation. Possible reasons: non-US jurisdiction with no
 > public court records system, sealed proceedings, or operation did
 > not result in formal prosecution.
+
+<!-- SOURCE_ENRICHMENT_START -->
+
+## Source Coverage
+
+- The Hacker News, 2019-11-29: Europol Imminent Monitor RAT.
+- WeLiveSecurity, 2019-12-03: Notorious RAT spy tool global operation.
+- PortSwigger, 2019-12-01: Imminent Monitor spyware operation undone by opsec mistakes.
+- ASPI, 2019-12-01: National Security Wrap 186.
+- Wired-Gov, 2019-12-02: Cybercrime site selling hacking tool taken down.
+
+## Evidence and Attribution Notes
+
+- In November-December 2019, Europol coordinated an international operation that dismantled the infrastructure of **Imminent Monitor**, a Remote Access Trojan (RAT) sold commercially as a legitimate tool but widely used for cybercrime.
+- The operation involved law enforcement from 8 countries and resulted in **13 arrests** and the seizure of **430 devices**.
+- Investigators identified **14,500 buyers** of the RAT across **124 countries**.
+
+<!-- SOURCE_ENRICHMENT_END -->
 
 ## References
 

@@ -45,7 +45,7 @@ sources:
   - "[[2021-10-27_nationalcrimeagency-gov-uk_international-operation-targets-dark-web-drugs-marketplace]]"
   - "[[2021-01-12_europol-europa-eu_darkmarket-world-s-largest-illegal-dark-web-marketplace-taken-down]]"
 created: 2026-04-18
-updated: 2026-04-18
+updated: 2026-04-26
 summary: "This page tracks the multinational arrest wave publicly announced under Operation Dark HunTOR after exploitation of the seized DarkMarket infrastructure. Public sources support the operation-wide arrests and seizures but do not identify a full named defendant list."
 ---
 ## Summary
@@ -69,6 +69,35 @@ That makes the page appropriate as an umbrella enforcement cluster, but not as a
 ## Legal Analysis
 
 The core integrity constraint is granularity. The public sources are strong on collective results and weak on a complete list of defendant names, case numbers and sentences. To avoid fabricating or over-aggregating legal outcomes, the page treats the defendants as a collective unidentified target set.
+
+<!-- SOURCE_ENRICHMENT_START -->
+
+## Source Coverage
+
+- Europol, 2021-10-26: 150 arrested in dark web drug bust as police seize EUR 26 million.
+- US DOJ/DEA, 2021-10-26: Department of Justice Announces Results of Operation Dark HunTor.
+- US DOJ, 2021-10-26: Deputy Attorney General Lisa O. Monaco Delivers Remarks on Operation Dark HunTor.
+- UK NCA, 2021-10-27: International operation targets dark web drugs marketplace.
+- Europol, 2021-01-12: DarkMarket: world's largest illegal dark web marketplace taken down.
+
+## Operational Timeline
+
+- 2021-01-12: public source coverage from Europol.
+- 2021-10-26: public source coverage from Europol, US DOJ, US DOJ/DEA.
+- 2021-10-27: public source coverage from UK NCA.
+
+## Evidence and Attribution Notes
+
+- Operation Dark HunTOR was a coordinated international law enforcement action announced on 26 October 2021 that resulted in the arrest of 150 suspected dark web drug traffickers across nine countries.
+- The operation seized approximately EUR 26.7 million (~USD 31 million) in cash and cryptocurrency, 234 kg of drugs, and 45 firearms.
+- Coordinated by Europol's European Cybercrime Centre (EC3) and Eurojust, Dark HunTOR is almost certainly the largest follow-on enforcement action stemming from a single dark web marketplace seizure, building directly on the January 2021 takedown of DarkMarket.
+- Secure .gov websites use HTTPS A lock ( Lock Locked padlock ) or https: // means you’ve safely connected to the .gov website.
+- DarkMarket was, at the time of its shutdown on 11 January 2021, the world's largest illegal darknet marketplace by user count.
+- The takedown was led by the cybercrime unit of the Koblenz Public Prosecutor's Office and Germany's Federal Criminal Police Office (BKA), with coordination through Europol's European Cybercrime Centre (EC3).
+- The operation resulted in the arrest of a 34-year-old Australian national near the German-Danish border, the seizure of more than 20 servers in Moldova and Ukraine, and the recovery of intelligence on approximately 500,000 users and 2,400 vendors.
+- The intelligence gathered from DarkMarket's infrastructure directly enabled Operation Dark HunTOR nine months later, which produced 150 arrests across nine countries.
+
+<!-- SOURCE_ENRICHMENT_END -->
 
 ## References
 

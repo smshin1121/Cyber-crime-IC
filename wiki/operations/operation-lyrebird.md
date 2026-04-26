@@ -63,7 +63,7 @@ timeframe:
 title: "Operation Lyrebird"
 title_ko: "라이어버드 작전"
 type: operation
-updated: 2026-04-09
+updated: 2026-04-26
 ---
 > [!note] This operation is documented from a Tier 3 (cybersecurity media) source. Additional verification from official sources (Tier 1-2) would strengthen data reliability.
 
@@ -125,6 +125,29 @@ No Korean involvement identified.
 > for this operation. Possible reasons: non-US jurisdiction with no
 > public court records system, sealed proceedings, or operation did
 > not result in formal prosecution.
+
+<!-- SOURCE_ENRICHMENT_START -->
+
+## Source Coverage
+
+- Group-IB, 2021-07-05: Group-IB: Operation Lyrebird — Identifying 'Dr HeX' in Morocco.
+- INTERPOL, 2021-07-06: Suspected cybercrime actor arrested in Morocco after INTERPOL operation.
+- The Daily Swig / PortSwigger, 2021-07-01: Operation Lyrebird: Cybercops nab Moroccan phish-and-carding kingpin.
+- TechNadu, 2021-09-28: Operation Lyrebird leads to arrest of Dr HeX-linked suspect.
+- Dark Reading, 2021-07-06: INTERPOL operation leads to Morocco arrest in phishing and carding case.
+
+## Evidence and Attribution Notes
+
+- Operation Lyrebird, announced on 5 July 2021 by Group-IB and INTERPOL, resulted in the May 2021 arrest of a Moroccan national identified by Group-IB's Threat Intelligence team as 'Dr HeX' by Moroccan police
+- Dr HeX was alleged to be active from at least 2009 and was linked by Group-IB to attacks on 134 websites over 2009-2018, including phishing kits, defacement, malware development, fraud, and carding
+- Key victims included French telecommunications companies, major French banks, and multinational corporations — the suspect's French-language skills enabled targeting of French-speaking victim bases
+- Attribution methodology: Group-IB analysts extracted a phishing kit, found an email address inside it, pivoted to the suspect's YouTube channel (signed up under the same name 'Dr HeX'), and cross-referenced OSINT indicators to deanonymize
+- Cooperation model: Private-sector threat intelligence (Group-IB) → INTERPOL (coordination) → Moroccan national police (arrest execution).
+- This illustrates INTERPOL's growing 'force multiplier' role for private-sector intelligence in the African region
+- Two-year investigation timeline — Group-IB's investigation began in 2019 before INTERPOL coordination was formalized
+- INTERPOL announced the Moroccan arrest linked to Operation Lyrebird.
+
+<!-- SOURCE_ENRICHMENT_END -->
 
 ## References
 

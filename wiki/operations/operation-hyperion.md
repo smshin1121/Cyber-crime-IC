@@ -71,7 +71,7 @@ sources:
   - "[[2016-10-31_om_nl_darknet-website-in-wereldwijde-actieweek-operation-hyperion]]"
   - "[[2016-11-08_helpnetsecurity-com_dutch-police-takes-over-darknet-market]]"
 created: 2026-04-08
-updated: 2026-04-08
+updated: 2026-04-26
 operation_role: umbrella
 parent_operation: ""
 summary: "**Operation Hyperion** was an FBI-led sting operation targeting criminal activity on the dark web, with a particular focus on the use of **Zcash** cryptocurrency for illicit transactions. The operation represented law enforcement's evolving capability to investigate privacy-focused cryptocurrencies used by dark web criminals."
@@ -136,6 +136,30 @@ No Korean involvement identified.
 > for this operation. Possible reasons: non-US jurisdiction with no
 > public court records system, sealed proceedings, or operation did
 > not result in formal prosecution.
+
+<!-- SOURCE_ENRICHMENT_START -->
+
+## Source Coverage
+
+- CyberScoop, 2017-01-01: Dark Web FBI Sting Zcash — Operation Hyperion.
+- FBI, 2016-11-01: A Primer on DarkNet Marketplaces.
+- U.S. Immigration and Customs Enforcement, 2016-10-31: Law enforcement agencies around the world collaborate on international Darknet marketplace enforcement operation.
+- New Zealand Police, 2016-11-01: Kiwi darknet illegal drug buyers identified during worldwide operation.
+- Openbaar Ministerie, 2016-10-31: OM en politie lanceren darknet website in wereldwijde actieweek.
+- Help Net Security, 2016-11-08: Dutch police takes over darknet market, posts warning.
+
+## Evidence and Attribution Notes
+
+- **Operation Hyperion** was an FBI-led sting operation targeting criminal activity on the dark web, with a particular focus on the use of **Zcash** cryptocurrency for illicit transactions.
+- The operation represented law enforcement's evolving capability to investigate privacy-focused cryptocurrencies used by dark web criminals.
+- The FBI described Operation Hyperion as a successful international action aimed at disrupting illicit DarkNet marketplaces.
+- The article linked the initiative to the Five Eyes Law Enforcement Group's cybercrime efforts.
+- The FBI described **Operation Hyperion** as an international action aimed at disrupting illicit DarkNet marketplaces.
+- ICE identified Operation Hyperion as a globally coordinated action conducted from 22 to 28 October 2016.
+- The release listed Five Eyes, Europol, and multiple European partners participating in the action.
+- New Zealand Police described Operation Hyperion as a coordinated effort targeting buyers and sellers of illegal drugs over the internet.
+
+<!-- SOURCE_ENRICHMENT_END -->
 
 ## References
 

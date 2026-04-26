@@ -56,7 +56,7 @@ sources:
   - "[[2025-04-07_seoul-co-kr_asia-6-country-crackdown-on-online-child-sexual-abuse-material]]"
   - "[[2025-04-08_police-gov-sg_cross-border-operation-targeting-online-child-sexual-exploitation-activities]]"
 created: 2026-04-08
-updated: 2026-04-19
+updated: 2026-04-26
 operation_role: umbrella
 parent_operation: ""
 summary: "Operation Cyber Guardian was a Singapore-initiated six-jurisdiction crackdown on online child sexual exploitation crimes in Asia, producing 544 identified suspects or arrests across South Korea, Japan, Singapore, Malaysia, Thailand, and Hong Kong."
@@ -114,6 +114,44 @@ The available sources support a coordinated police-operation model with a shared
 - Public country totals do not fully reconcile in every secondary summary because Thailand and Hong Kong are not always broken out numerically.
 - The public material is policing-stage heavy; prosecution outcomes by country remain largely unavailable.
 - The exact Singapore-side operational command structure is not fully documented in the currently collected sources.
+
+<!-- SOURCE_ENRICHMENT_START -->
+
+## Source Coverage
+
+- Korea NPA / Seoul Shinmun, 2025-04-07: Operation Cyber Guardian.
+- National Police Agency of Japan, 2025-04-01: Operation Cyber Guardian.
+- Korea Policy Briefing, 2025-04-07: Operation Cyber Guardian: Asia 6-Country Joint Crackdown on Child Sexual Abuse Material.
+- Seoul Shinmun, 2025-04-07: Asia 6-country crackdown on online child sexual abuse material.
+- Singapore Police Force, 2025-04-08: Cross-border Operation Targeting Online Child Sexual Exploitation Activities.
+
+## Operational Timeline
+
+- 2025-02-24: activity or investigation start.
+- 2025-04-07: public announcement.
+- 2025-03-28: reported enforcement endpoint.
+- 2025-04-01: public source coverage from National Police Agency of Japan.
+- 2025-04-07: public source coverage from Korea NPA / Seoul Shinmun, Korea Policy Briefing, Seoul Shinmun.
+- 2025-04-08: public source coverage from Singapore Police Force.
+
+## Legal and Procedural Posture
+
+- Recorded crime classification: CSAM.
+- Recorded enforcement posture: Arrest and Search.
+- The record is categorized as arrest-sweep with status completed.
+
+## Evidence and Attribution Notes
+
+- Source referenced by ic-statistics-dashboard.
+- Japan NPA identifies the operation as a Singapore-initiated international cooperative operation.
+- The document confirms six participating jurisdictions and 544 suspects overall.
+- **Operation Cyber Guardian** was a six-jurisdiction Asian crackdown on online child sexual abuse and exploitation offenses, initiated by the Singapore Police Force and carried out from 24 February to 28 March 2025.
+- Public sources from South Korea and Japan confirm participation by South Korea, Japan, Singapore, Malaysia, Thailand, and Hong Kong, with **544 suspects** publicly reported across the operation.
+- Singapore Police Force described the six-jurisdiction Operation Cyber Guardian crackdown on online child sexual exploitation.
+- The SPF article attributes the operational lead in Singapore to CID's Specialised Crime Branch and lists Hong Kong, Japan, South Korea, Malaysia and Thailand as partner jurisdictions.
+- The article reports 435 arrests and 109 persons under investigation across the participating jurisdictions.
+
+<!-- SOURCE_ENRICHMENT_END -->
 
 ## References
 

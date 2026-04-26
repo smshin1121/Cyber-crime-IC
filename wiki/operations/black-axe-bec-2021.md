@@ -71,7 +71,7 @@ sources:
   - "[[2024-08-28_interpol_operation-jackal-iii-black-axe]]"
   - "[[2022-10-21_vanguardngr-com_interpol-arrests-over-70-suspected-fraudsters-linked-to-black-axe-cult-in-nigeria]]"
 created: 2026-04-08
-updated: 2026-04-09
+updated: 2026-04-26
 operation_role: umbrella
 parent_operation: ""
 summary: "INTERPOL's Operation Jackal was a multinational crackdown on Black Axe and related West African cyber-enabled financial crime groups. Officially announced on 2022-10-14, it produced 75 arrests, 49 searches, and EUR 1.2 million intercepted in bank accounts."
@@ -137,6 +137,28 @@ The public source does not identify a single court case, so this page should be 
 
 - [[joint-investigation-team|Coordinated multinational action]]
 - Mutual legal assistance and financial interception
+
+<!-- SOURCE_ENRICHMENT_START -->
+
+## Source Coverage
+
+- INTERPOL, 2022-10-14: International crackdown on West-African financial crime rings.
+- INTERPOL, 2023-06-06: Closing ranks on West African organized crime: more than EUR 2 million seized in Operation Jackal.
+- INTERPOL, 2024-08-28: INTERPOL operation strikes major blow against West African financial crime - Operation Jackal III.
+- Vanguard, 2022-10-21: INTERPOL arrests over 70 suspected fraudsters linked to Black Axe cult in Nigeria.
+
+## Evidence and Attribution Notes
+
+- Operation Jackal targeted Black Axe and related West African organized crime groups.
+- INTERPOL reported 75 arrests, 49 property searches, and EUR 1.2 million intercepted in bank accounts.
+- The action involved 14 countries and was presented as a global strike against cyber-enabled financial fraud.
+- This page now uses the official INTERPOL record for Operation Jackal instead of an unattributed claim about "33 arrests." That older wording was too weakly sourced for a high-integrity wiki.
+- The official source supports a broader but more reliable description: "a multinational action targeting Black Axe and related West African organized crime groups involved in cyber-enabled financial fraud, including business email compromise and related laundering activity."
+- INTERPOL coordinated Operation Jackal from 15 to 29 May 2023, mobilizing police forces, financial crime units, and cybercrime agencies across 21 countries to deliver a targeted strike against Black Axe and similar West African organized crime groups.
+- The operation resulted in 103 arrests, the identification of 1,110 suspects, the blocking of 208 bank accounts, and the seizure or freezing of EUR 2.15 million.
+- Black Axe is a violent mafia-style gang renowned for cyber-enabled financial fraud, in particular business email compromise (BEC) schemes, romance scams, inheritance scams, credit card fraud, tax fraud, advance payment scams, and money laundering.
+
+<!-- SOURCE_ENRICHMENT_END -->
 
 ## References
 

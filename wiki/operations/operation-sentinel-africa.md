@@ -99,7 +99,7 @@ sources:
   - "[[2025-12-23_interpol-int_support-for-afripol-operation-sentinel]]"
   - "[[2025-12-24_tomshardware_operation-sentinel-africa-cybercrime-crackdown]]"
 created: 2026-04-08
-updated: 2026-04-23
+updated: 2026-04-26
 operation_role: umbrella
 parent_operation: ""
 summary: "Operation Sentinel was an INTERPOL-coordinated cybercrime enforcement action conducted from 27 October to 27 November 2025 across **19 African countries** under the African Joint Operation against Cybercrime (AFJOC) umbrella. The operation resulted in **574 arrests**, **USD 3 million** recovered, over **6,000 malicious links** taken down, and **6 ransomware variants** decrypted. Primary targets were BEC, digital extortion, and ransomware. Investigated cases were linked to estimated financial losses exceeding **USD 21 million**."
@@ -175,6 +175,46 @@ No direct Korean involvement. Operation focused exclusively on African countries
 > for this operation. Possible reasons: non-US jurisdiction with no
 > public court records system, sealed proceedings, or operation did
 > not result in formal prosecution.
+
+<!-- SOURCE_ENRICHMENT_START -->
+
+## Source Coverage
+
+- INTERPOL, 2025-12-22: 574 arrests and USD 3 million recovered in coordinated cybercrime operation across Africa - Operation Sentinel.
+- INTERPOL, 2025-06-23: INTERPOL Africa Cyberthreat Assessment Report 2025.
+- Team Cymru, 2026-01-08: Team Cymru supports INTERPOL and AFRIPOL in Operation Sentinel.
+- INTERPOL, 2025-12-23: Support for AFRIPOL.
+- Tom's Hardware, 2025-12-24: Interpol arrests 574 suspects in African cybercrime crackdown, takes down 6,000 malicious links.
+
+## Operational Timeline
+
+- 2025-10-27: activity or investigation start.
+- 2025-12-22: public announcement.
+- 2025-11-27: reported enforcement endpoint.
+- 2025-06-23: public source coverage from INTERPOL.
+- 2025-12-22: public source coverage from INTERPOL.
+- 2025-12-23: public source coverage from INTERPOL.
+- 2025-12-24: public source coverage from Tom's Hardware.
+- 2026-01-08: public source coverage from Team Cymru.
+
+## Legal and Procedural Posture
+
+- Recorded crime classification: BEC.
+- Recorded enforcement posture: Arrest and Takedown.
+- The record is categorized as arrest-sweep with status completed.
+
+## Evidence and Attribution Notes
+
+- 574 arrests and USD 3 million recovered across 19 African countries
+- BEC, digital extortion, and ransomware targeted; 6 ransomware variants decrypted
+- Senegal BEC case intercepted fraudulent USD 7.9 million wire transfer from petroleum company
+- INTERPOL coordinated Operation Sentinel from 27 October to 27 November 2025, focusing primarily on business email compromise (BEC), digital extortion, and ransomware across Africa.
+- Law enforcement in 19 countries arrested 574 suspects and recovered approximately USD 3 million.
+- Over 6,000 malicious links were taken down and six distinct ransomware variants were decrypted.
+- The 2025 Africa Cyberthreat Assessment Report describes the BEC, ransomware and digital-extortion environment that Operation Sentinel later targeted.
+- This report is the main regional threat-assessment document that provides background for Operation Sentinel.
+
+<!-- SOURCE_ENRICHMENT_END -->
 
 ## References
 

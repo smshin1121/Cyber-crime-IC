@@ -66,7 +66,7 @@ timeframe:
 title: "Operation Morpheus (Cobalt Strike Takedown)"
 title_ko: "모르페우스 작전 (코발트 스트라이크 소탕)"
 type: operation
-updated: 2026-04-09
+updated: 2026-04-26
 operation_role: umbrella
 parent_operation: ""
 summary: "**Operation Morpheus** was an NCA-led, Europol-coordinated international operation targeting unauthorized (pirated/cracked) instances of **Cobalt Strike**, a legitimate penetration testing tool that has been extensively abused by cybercriminals for ransomware attacks, espionage, and other malicious purposes. The operation resulted in the takedown of **593 Cobalt Strike servers** across **27 countries**."
@@ -151,6 +151,29 @@ No Korean involvement identified. However, Cobalt Strike abuse is a global issue
 > for this operation. Possible reasons: non-US jurisdiction with no
 > public court records system, sealed proceedings, or operation did
 > not result in formal prosecution.
+
+<!-- SOURCE_ENRICHMENT_START -->
+
+## Source Coverage
+
+- UK National Crime Agency, 2024-07-03: National Crime Agency leads international operation to degrade illegal versions of Cobalt Strike.
+- The Hacker News, 2024-07-03: The Hacker News: Global Police Operation Shuts Down 600 Cybercrime Servers (Operation Morpheus).
+- UK NCA, Unknown: UK NCA: Operation Morpheus (Cobalt Strike Takedown).
+- BleepingComputer, 2024-07-03: Europol takes down 593 Cobalt Strike servers used by cybercriminals.
+- TechRadar, 2024-07-03: Hundreds of Cobalt Strike-linked servers taken down in major police operation.
+
+## Evidence and Attribution Notes
+
+- 690 malicious Cobalt Strike instances targeted across 129 ISPs in 27 countries; 593 removed.
+- Multi-agency operation: Europol, FBI, AFP, RCMP, German BKA, Dutch Politie, Polish CBZC.
+- Action week beginning 24 June 2024 (published 3 July 2024).
+- **Operation Morpheus** was an NCA-led, Europol-coordinated international operation targeting unauthorized (pirated/cracked) instances of **Cobalt Strike**, a legitimate penetration testing tool that has been extensively abused by cybercriminals for ransomware attacks, espionage, and other malicious purposes.
+- The operation resulted in the takedown of **593 Cobalt Strike servers** across **27 countries**.
+- Europol announced Operation Morpheus on 3 July 2024: the takedown of 593 unlicensed/cracked Cobalt Strike red-team tool servers used by cybercriminals out of 690 IP addresses initially flagged to online service providers in 27 countries during an intensive week of action from 24-28 June 2024
+- Lead agency: UK National Crime Agency (NCA); participating law enforcement: Australia, Canada, Germany, Netherlands, Poland, and the United States — coordinated through Europol headquarters
+- Private-sector partners played unusually prominent roles: BAE Systems Digital Intelligence, Trellix, Shadowserver, Spamhaus, and Abuse.ch contributed to identification and reporting of malicious Cobalt Strike instances; the Malware Information Sharing Platform (MISP) was used for real-time threat intelligence sharing
+
+<!-- SOURCE_ENRICHMENT_END -->
 
 ## References
 

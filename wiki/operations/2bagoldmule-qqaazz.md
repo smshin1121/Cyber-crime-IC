@@ -93,7 +93,7 @@ sources:
   - "[[2020-10-16_amlintelligence_notorious-central-europe-crime-gang-that-laundered-tens-of-millions-of-euro-for-hackers-targeted-in-raids]]"
   - "[[2020-10-15_cyberscoop-com_fbi-accuses-russian-money-laundering-qqaazz]]"
 created: 2026-04-08
-updated: 2026-04-23
+updated: 2026-04-26
 operation_role: umbrella
 parent_operation: ""
 summary: "Operation 2BaGoldMule, led by Europol and involving 16 countries, dismantled the QQAAZZ criminal network that had laundered tens of millions of euros in criminal proceeds from cybercrime. The network operated since 2016, using hundreds of corporate and personal bank accounts to launder funds stolen through hacking and online fraud. The operation resulted in 20 arrests across multiple countries."
@@ -155,6 +155,43 @@ Portugal, United States, Spain, United Kingdom, Latvia, Bulgaria, Georgia, Italy
 > for this operation. Possible reasons: non-US jurisdiction with no
 > public court records system, sealed proceedings, or operation did
 > not result in formal prosecution.
+
+<!-- SOURCE_ENRICHMENT_START -->
+
+## Source Coverage
+
+- Europol, 2020-10-15: Europol: 20 Arrests in QQAAZZ Multi-Million Money Laundering Case.
+- OCCRP, 2020-10-16: Pan-Continental Operation Busts Money Launderers for Europe’s Cybercriminals.
+- Associated Press, 2020-10-15: Europol, FBI arrest 20 cybercrime money-launderers from various nations.
+- AML Intelligence, 2020-10-16: Notorious Central Europe crime gang that laundered tens of millions of euro for hackers targeted in raids.
+- CyberScoop, 2020-10-15: FBI accuses Russian money laundering QQAAZZ.
+
+## Operational Timeline
+
+- 2016: activity or investigation start.
+- 2020-10: public announcement.
+- 2020-10: reported enforcement endpoint.
+- 2020-10-15: public source coverage from Associated Press, CyberScoop, Europol.
+- 2020-10-16: public source coverage from AML Intelligence, OCCRP.
+
+## Legal and Procedural Posture
+
+- Recorded crime classification: money laundering.
+- Recorded enforcement posture: Arrest and Seizure.
+- The record is categorized as arrest-sweep with status completed.
+
+## Evidence and Attribution Notes
+
+- Europol announced on 15 October 2020 the results of Operation 2BaGoldMule — coordinated arrests of 20 suspected QQAAZZ money-laundering network members across Latvia, Bulgaria, the UK, Spain and Italy, with additional searches in ~40 locations across multiple countries
+- QQAAZZ operated since 2016 as a specialized money-laundering-as-a-service offering for cybercrime affiliates including Dridex, Trickbot, and GozNym operators; the network laundered 'tens of millions of euros' according to Europol
+- 16 countries participated in the investigation: Latvia, Bulgaria, United Kingdom, Spain, Italy, United States, Portugal, Georgia, Romania, Belgium, Germany, Switzerland, Poland, Czech Republic, Australia, Sweden, and Austria (the release lists 16 plus Austria)
+- The laundering mechanism involved opening hundreds of bank accounts in shell-company names to receive stolen funds, moving them through cryptocurrency tumbling services, and returning ~50% to source criminals after taking fees
+- US DOJ unsealed indictments on the same day against 14 QQAAZZ members in the Western District of Pennsylvania, demonstrating tight EU-US coordination
+- The operation was coordinated via Europol's European Cybercrime Centre (EC3) and supported by Eurojust for judicial cooperation; it is one of the most-cited examples of money-laundering-specific international cybercrime enforcement
+- OCCRP summarized the QQAAZZ takedown as a multinational anti-money-laundering operation serving major cybercrime groups.
+- This OCCRP article gives an investigative-news overview of the QQAAZZ takedown and the network’s laundering model.
+
+<!-- SOURCE_ENRICHMENT_END -->
 
 ## References
 

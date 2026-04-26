@@ -79,7 +79,7 @@ sources:
   - "[[2020-10-15_occrp-org_pan-continental-operation-busts-money-launderers-for-europes-cybercriminals]]"
   - "[[2020-10-16_amlintelligence-com_international-criminals-charged-in-laundering-investigation]]"
 created: 2026-04-08
-updated: 2026-04-09
+updated: 2026-04-26
 operation_role: umbrella
 parent_operation: ""
 summary: "In October 2020, the FBI and Europol coordinated the takedown of **QQAAZZ**, a multi-national money laundering network that provided laundering services to cybercriminals worldwide. The QQAAZZ network operated as a \"money mule\" organization, opening hundreds of bank accounts across multiple countries to launder proceeds from cybercrimes including banking trojan theft, ransomware, and BEC schemes."
@@ -169,6 +169,29 @@ No Korean involvement identified.
 > for this operation. Possible reasons: non-US jurisdiction with no
 > public court records system, sealed proceedings, or operation did
 > not result in formal prosecution.
+
+<!-- SOURCE_ENRICHMENT_START -->
+
+## Source Coverage
+
+- US DOJ (Western District of Pennsylvania), 2020-09-29: OFFICIALS ANNOUNCE INTERNATIONAL OPERATION TARGETING TRANSNATIONAL CRIMINAL ORGANIZATION QQAAZZ THAT PROVIDED MONEY LAUNDERING SERVICES TO..
+- Europol, 2020-10-15: Europol: 20 Arrests in QQAAZZ Multi-Million Money Laundering Case.
+- CyberScoop, 2020-10-15: FBI accuses Russian money laundering QQAAZZ.
+- OCCRP, 2020-10-15: Pan-Continental Operation Busts Money Launderers for Europe's Cybercriminals.
+- AML Intelligence, 2020-10-16: Notorious Central Europe crime gang that laundered tens of millions of euro for hackers targeted in raids.
+
+## Evidence and Attribution Notes
+
+- Secure .gov websites use HTTPS A lock ( Lock Locked padlock ) or https:// means you’ve safely connected to the .gov website.
+- Attorney's Office for the Western District of Pennsylvania announced the unsealing of an indictment charging 14 members of the transnational QQAAZZ organization.
+- DOJ said a related 2019 indictment had charged five additional QQAAZZ members and that one more conspirator had previously been arrested by criminal complaint in the United States, bringing the total number of charged defendants to 20.
+- DOJ described QQAAZZ as a professional money-laundering network that provided services to high-level cybercriminal groups, including actors connected to malware families such as Dridex, Trickbot, and GozNym.
+- According to the press release and indictment summary, QQAAZZ maintained hundreds of bank accounts and shell companies across multiple countries, laundered tens of millions of dollars in stolen funds, and advertised itself on Russian-speaking cybercrime forums as a global cash-out service.
+- indictment with parallel prosecutions and searches in Europe.
+- DOJ reported more than 40 house searches in Latvia, Bulgaria, the United Kingdom, Spain, and Italy, and said prosecutions were initiated in the United States, Portugal, Spain, and the United Kingdom.
+- The Office of International Affairs coordinated searches, arrests, extraditions, and evidence sharing.
+
+<!-- SOURCE_ENRICHMENT_END -->
 
 ## References
 

@@ -77,7 +77,7 @@ sources:
   - "[[2018-06-15_securityweek-com_french-nationals-arrested-for-rex-mundi-hacks]]"
   - "[[2018-06-18_infosecurity-magazine_europol-disrupts-rex-mundi-cybercrime-group]]"
 created: 2026-04-08
-updated: 2026-04-08
+updated: 2026-04-26
 operation_role: umbrella
 parent_operation: ""
 summary: "UK, French, and Thai law enforcement, coordinated by Europol and the Joint Cybercrime Action Taskforce (J-CAT), dismantled the Rex Mundi hacking group that had engaged in large-scale customer data breaches and cyber extortion targeting British companies. The operation resulted in the arrest of 8 suspects, including a key member arrested in Thailand. The investigation ran from May 2017 to May 2018."
@@ -124,6 +124,45 @@ United Kingdom, France, Thailand
 > for this operation. Possible reasons: non-US jurisdiction with no
 > public court records system, sealed proceedings, or operation did
 > not result in formal prosecution.
+
+<!-- SOURCE_ENRICHMENT_START -->
+
+## Source Coverage
+
+- Europol, 2018-06-14: Europol: French coder who helped extort British company arrested in Thailand.
+- WeLiveSecurity / ESET, 2018-06-19: Europol and partners dismantle prolific cyber-extortion gang.
+- BleepingComputer, 2018-06-15: Europol Dismantles One of the Internet's Oldest Hacker Groups.
+- SecurityWeek, 2018-06-15: French Nationals Arrested for Rex Mundi Hacks.
+- Infosecurity Magazine, 2018-06-18: Europol Disrupts Rex Mundi Cybercrime Group.
+
+## Operational Timeline
+
+- 2017-05: activity or investigation start.
+- 2018-05-18: public announcement.
+- 2018-05-18: reported enforcement endpoint.
+- 2018-06-14: public source coverage from Europol.
+- 2018-06-15: public source coverage from BleepingComputer, SecurityWeek.
+- 2018-06-18: public source coverage from Infosecurity Magazine.
+- 2018-06-19: public source coverage from WeLiveSecurity / ESET.
+
+## Legal and Procedural Posture
+
+- Recorded crime classification: hacking.
+- Recorded enforcement posture: Arrest.
+- The record is categorized as joint-investigation with status completed.
+
+## Evidence and Attribution Notes
+
+- On 18 May 2018, Royal Thai Police arrested a 25-year-old French national in Thailand on a French international arrest warrant — the eighth and final arrest in a year-long investigation into the Rex Mundi hacking/extortion group, coordinated by Europol's Joint Cybercrime Action Taskforce (J-CAT)
+- Rex Mundi's modus operandi: High-volume data breaches of customer databases followed by extortion demands.
+- Ransoms typically demanded in bitcoin and escalating with daily penalties for non-payment
+- Specific victim case: In May 2017 the group compromised an unnamed UK-based company and demanded €580,000 to prevent public disclosure OR €825,000 for breach details, with a €210,000/day penalty for non-payment
+- Investigation timeline: May 2017 initial attack → June 2017 five arrests in France (including a main suspect who confessed to hiring dark-web hackers) → October 2017 two additional hackers arrested in France → May 2018 final accomplice apprehended in Thailand
+- International cooperation: London Metropolitan Police (UK), French National Police High Tech Crime Unit (OCLCTIC-DCPJ), Royal Thai Police, Europol's 24/7 Operational Centre and J-CAT — demonstrating both EU internal cooperation and EU-ASEAN reach
+- Historical context: Rex Mundi previously stole ~600,000 records from Domino's Pizza France and Belgium in June 2014 — one of several high-profile European breaches before the takedown
+- WeLiveSecurity reported that the final Thailand arrest effectively closed the Rex Mundi investigation.
+
+<!-- SOURCE_ENRICHMENT_END -->
 
 ## References
 

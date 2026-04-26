@@ -93,7 +93,7 @@ sources:
   - "[[2016-01-12_coindesk_suspected-members-of-bitcoin-extortion-group-dd4bc-captured]]"
   - "[[2016-01-13_infosecurity-magazine_police-around-the-world-join-forces-to-target-ddos-gang]]"
 created: 2026-04-08
-updated: 2026-04-23
+updated: 2026-04-26
 operation_role: umbrella
 parent_operation: ""
 summary: "Operation Pleiades was the December 2015 international action against DD4BC, the DDoS-for-Bitcoin extortion group. The operation combined Austrian, Bosnian, British, German, U.S., and wider international support, producing one arrest, one detention, and evidence seizures in Bosnia and Herzegovina."
@@ -179,6 +179,35 @@ No Korean participation was identified in the available public record.
 
 > [!warning] No public court documents found
 > Open-source review through 2026-04-23 did not surface accessible court records tied to the arrested DD4BC suspects.
+
+<!-- SOURCE_ENRICHMENT_START -->
+
+## Source Coverage
+
+- Europol, 2016-01-12: Europol: International Action Against DD4BC Cybercriminal Group (Operation Pleiades).
+- PCWorld, 2016-01-12: Europol tracks DD4BC cyber-extortion gang to Bosnia.
+- WeLiveSecurity, 2016-01-13: Global operation against DD4BC results in arrests.
+- CoinDesk, 2016-01-12: Suspected Members of Bitcoin Extortion Group DD4BC Captured.
+- Infosecurity Magazine, 2016-01-13: Police Around the World Join Forces to Target DDoS Gang.
+
+## Legal and Procedural Posture
+
+- Recorded crime classification: Ddos Ic.
+- Recorded enforcement posture: Arrest and Seizure.
+- The record is categorized as arrest-sweep with status completed.
+
+## Evidence and Attribution Notes
+
+- Europol announced Operation Pleiades on 12 January 2016, describing a coordinated 15-16 December 2015 action against the DD4BC (DDoS for Bitcoin) cybercriminal group responsible for Bitcoin extortion campaigns since mid-2014
+- Lead agencies were the Austrian Cybercrime Competence Center (C4) and Bosnia and Herzegovina's Federal Police, supported by the German Bundeskriminalamt and the UK Metropolitan Police, with additional support from Australia, France, Japan, Romania, Switzerland, and the USA (FBI, US Secret Service)
+- Operational outputs: one main target arrested and one additional suspect detained, with extensive property searches and substantial evidence seizures during the December 2015 action day
+- DD4BC's modus operandi targeted online gambling operators initially, then expanded to financial services and the entertainment industry; victims received DDoS threats accompanied by Bitcoin ransom demands, with follow-on reputational threats for non-compliance
+- Europol noted that companies paying ransom 'risk appearing vulnerable and being targeted again for a higher amount' — institutional guidance against ransom payment
+- Operation Pleiades is an early (2015-2016) case study of INTERPOL-Europol joint coordination on crypto-extortion and is often cited as precedent for later DDoS-for-ransom enforcement actions
+- PCWorld said Operation Pleiades produced one arrest and one detention in Bosnia and emphasized the UK Metropolitan Police Cyber Crime Unit's role in identifying the DD4BC suspects.
+- PCWorld provides an accessible media account of the operational action in Bosnia and the supporting international coalition behind Operation Pleiades.
+
+<!-- SOURCE_ENRICHMENT_END -->
 
 ## References
 

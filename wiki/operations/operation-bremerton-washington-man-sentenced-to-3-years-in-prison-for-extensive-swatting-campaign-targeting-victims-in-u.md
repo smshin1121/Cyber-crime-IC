@@ -75,7 +75,7 @@ sources:
   - "[[2023-03-30_ap_man-charged-in-20-plus-calls-of-false-threats-in-us-canada]]"
 summary: "This follow-on operation captures the indictment-to-sentencing enforcement sequence against Ashton Connor Garcia for a swatting campaign that targeted victims in the United States and Canada."
 created: 2026-04-18
-updated: 2026-04-18
+updated: 2026-04-26
 ---
 
 > [!note] Source basis
@@ -120,6 +120,37 @@ The case is not a classic multinational takedown, but it still has an internatio
 
 - Public releases do not fully enumerate all affected victims or which incidents involved Canadian emergency services.
 - The public record does not identify additional co-conspirators or copycat actors linked to the campaign.
+
+<!-- SOURCE_ENRICHMENT_START -->
+
+## Source Coverage
+
+- USAO Western District of Washington, 2023-03-30: Bremerton, Washington man indicted for three-month swatting campaign that threatened victims across the USA and in Canada.
+- USAO Western District of Washington, 2024-01-25: Bremerton, Washington man pleads guilty to four federal felonies connected to his extensive swatting scheme.
+- USAO Western District of Washington, 2024-06-04: Bremerton, Washington man sentenced to 3 years in prison for extensive swatting campaign targeting victims in US and Canada.
+- Associated Press, 2024-06-05: Washington man sentenced for 20 'swatting' calls of false threats in US, Canada.
+- Associated Press / Los Angeles Times syndication, 2023-03-30: Man charged in 20-plus calls of false threats in US, Canada.
+
+## Legal and Procedural Posture
+
+- Recorded crime classification: online fraud.
+- Recorded enforcement posture: Indictment, Guilty Plea, Sentencing.
+- Legal or procedural basis recorded in metadata: informal cooperation.
+- The record is categorized as sentencing with status completed.
+- Related legal or operational records: Bremerton Washington Man Indicted For Three Month Swatting Campaign That Threatened Victims Across The Usa And, Bremerton Washington Man Pleads Guilty To Four Federal Felonies Connected To His Extensive Swatting Scheme, Bremerton Washington Man Sentenced To 3 Years In Prison For Extensive Swatting Campaign Targeting.
+
+## Evidence and Attribution Notes
+
+- The indictment release frames the campaign as a three-month swatting spree affecting victims across the United States and Canada.
+- The release anchors the earliest public charging stage of the Garcia prosecution.
+- This DOJ release is the charging-stage anchor for the Bremerton swatting case.
+- Updated March 30, 2023 Topic Cybercrime Component USAO - Washington, Western...Content Press Release Dark web fentanyl distributor sentenced to 42 months in prison
+- The defendant pleaded guilty to four federal felonies tied to the swatting campaign.
+- The release names Ashton Connor Garcia and bridges the indictment and sentencing stages.
+- This plea-stage DOJ release provides the procedural midpoint for the Bremerton swatting prosecution.
+- According to...recommendation and can impose any sentence allowed by law.
+
+<!-- SOURCE_ENRICHMENT_END -->
 
 ## References
 

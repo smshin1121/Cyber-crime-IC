@@ -80,7 +80,7 @@ sources:
   - "[[2025-11-05_eurojust-fraud-term_eur-300m-global-credit-card-fraud]]"
   - "[[2025-11-05_eurojust-newsroom_eur-300m-global-credit-card-fraud]]"
 created: 2026-04-19
-updated: 2026-04-19
+updated: 2026-04-26
 summary: "Eurojust-coordinated multinational action against a EUR 300 million global credit-card fraud scheme, with German and UK participation and broad EIO/MLA support."
 jurisdictions:
   - "[[germany]]"
@@ -116,6 +116,44 @@ Eurojust coordinated a major operation against a global credit-card fraud scheme
 - more than 60 places searched
 - several million euros in assets seized in Luxembourg
 - broad investigative support from Germany, the UK, the U.S., and other partner states
+
+<!-- SOURCE_ENRICHMENT_START -->
+
+## Source Coverage
+
+- Eurojust, 2025-11-05: Eurojust coordinates major operation against EUR 300 million global credit card fraud: 18 arrests.
+- 112WWFT, 2025-11-05: Eurojust coordinates major operation against EUR 300 million global credit card fraud: 18 arrests.
+- Eurojust, 2025-12-22: Eurojust's cross-border investigations in 2025 continued to fight organised crime.
+- Eurojust, 2025-11-05: Eurojust fraud topic page - EUR 300 million global credit card fraud.
+- Eurojust, 2025-11-05: Eurojust newsroom listing - EUR 300 million global credit card fraud.
+
+## Operational Timeline
+
+- 2023: activity or investigation start.
+- 2025-11-05: public announcement.
+- 2025-11-05: reported enforcement endpoint.
+- 2025-11-05: public source coverage from 112WWFT, Eurojust.
+- 2025-12-22: public source coverage from Eurojust.
+
+## Legal and Procedural Posture
+
+- Recorded crime classification: online fraud.
+- Recorded enforcement posture: Arrest, Search, Asset Freeze, Seizure.
+- Legal or procedural basis recorded in metadata: European Investigation Order and mutual legal assistance.
+- The record is categorized as joint-investigation with status completed.
+
+## Evidence and Attribution Notes
+
+- Eurojust coordinated a global credit-card fraud action with arrests in multiple countries.
+- Authorities from Germany, the United Kingdom, the Netherlands, Spain, Italy, Luxembourg, the United States, Canada, Singapore, and Cyprus were involved.
+- Eurojust organized coordination meetings and supported 90 EIOs and MLA requests to 30 countries.
+- Eurojust describes a major global payment-fraud operation involving German payment infrastructure, UK shell-company links, and broad judicial cooperation across Europe and partner states.
+- 112WWFT summarized the coordinated operation against three global credit-card-fraud networks.
+- The article highlighted 18 arrests and the role of German payment-service insiders.
+- 112WWFT republished the Eurojust account of the EUR 300 million global credit-card-fraud operation.
+- Eurojust's year-end roundup recapped the EUR 300 million global credit card fraud action.
+
+<!-- SOURCE_ENRICHMENT_END -->
 
 ## References
 

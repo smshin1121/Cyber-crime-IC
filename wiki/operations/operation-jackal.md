@@ -99,7 +99,7 @@ sources:
   - "[[2023-08-10_irishexaminer-com_34-arrested-in-ireland-as-part-of-interpol-operation-targeting-west-african-crime-syndicate]]"
   - "[[2023-08-08_brusselstimes-com_internet-scams-interpol-swoops-down-on-west-africa-based-criminal-networks]]"
 created: 2026-04-08
-updated: 2026-04-23
+updated: 2026-04-26
 operation_role: umbrella
 parent_operation: ""
 summary: "Operation Jackal was INTERPOL's first dedicated operation targeting **Black Axe** and similar West African organized crime groups, coordinated from 15 to 29 May 2023 across **21 countries** on five continents. The operation resulted in **103 arrests**, identification of **1,110 suspects**, blocking of **208 bank accounts**, and seizure/freezing of **EUR 2.15 million**. Black Axe is identified as responsible for the majority of the world's cyber-enabled financial fraud, particularly business email compromise (BEC)."
@@ -179,6 +179,45 @@ No direct Korean involvement in this operation. Black Axe operations primarily t
 > for this operation. Possible reasons: non-US jurisdiction with no
 > public court records system, sealed proceedings, or operation did
 > not result in formal prosecution.
+
+<!-- SOURCE_ENRICHMENT_START -->
+
+## Source Coverage
+
+- INTERPOL, 2023-06-06: Closing ranks on West African organized crime: more than EUR 2 million seized in Operation Jackal.
+- An Garda Siochana, 2022-10-14: Interpol Operation JACKAL / Ireland Operation Skein - 14th October 2022.
+- An Garda Siochana, 2023-08-10: INTERPOL Operation JACKAL / Ireland Operation SKEIN - Update August 2023.
+- Irish Examiner, 2023-08-10: 34 arrested in Ireland as part of Interpol operation targeting West African crime syndicate.
+- The Brussels Times, 2023-08-08: Internet scams: Interpol swoops down on West Africa-based criminal networks.
+
+## Operational Timeline
+
+- 2023-05-15: activity or investigation start.
+- 2023-06-06: public announcement.
+- 2023-05-29: reported enforcement endpoint.
+- 2022-10-14: public source coverage from An Garda Siochana.
+- 2023-06-06: public source coverage from INTERPOL.
+- 2023-08-08: public source coverage from The Brussels Times.
+- 2023-08-10: public source coverage from An Garda Siochana, Irish Examiner.
+
+## Legal and Procedural Posture
+
+- Recorded crime classification: BEC.
+- Recorded enforcement posture: Arrest and Asset Freeze.
+- The record is categorized as arrest-sweep with status completed.
+
+## Evidence and Attribution Notes
+
+- INTERPOL coordinated Operation Jackal across 21 countries targeting Black Axe organized crime
+- 103 arrests, 1,110 suspects identified, 208 bank accounts blocked, EUR 2.15 million seized
+- First dedicated INTERPOL operation specifically targeting Black Axe for BEC and financial fraud
+- INTERPOL coordinated Operation Jackal from 15 to 29 May 2023, mobilizing police forces, financial crime units, and cybercrime agencies across 21 countries to deliver a targeted strike against Black Axe and similar West African organized crime groups.
+- The operation resulted in 103 arrests, the identification of 1,110 suspects, the blocking of 208 bank accounts, and the seizure or freezing of EUR 2.15 million.
+- Black Axe is a violent mafia-style gang renowned for cyber-enabled financial fraud, in particular business email compromise (BEC) schemes, romance scams, inheritance scams, credit card fraud, tax fraud, advance payment scams, and money laundering.
+- Ireland branded its contribution to Operation Jackal as Operation Skein and reported early enforcement results in October 2022, including searches, arrests, charging activity and money-laundering counts tied to Black Axe-linked BEC and romance-fraud laundering.
+- This Garda release provides early official context for the Jackal series in Ireland.
+
+<!-- SOURCE_ENRICHMENT_END -->
 
 ## References
 

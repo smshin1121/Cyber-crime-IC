@@ -72,7 +72,7 @@ sources:
   - "[[2023-07-05_group-ib_top-investigations_operation-nervone]]"
   - "[[2023-07-05_group-ib-fr_operation-nervone]]"
 created: 2026-04-08
-updated: 2026-04-09
+updated: 2026-04-26
 operation_role: umbrella
 parent_operation: ""
 summary: "Operation Nervone was an INTERPOL-led action against the OPERA1ER group that culminated in the arrest of a key suspect in Côte d’Ivoire."
@@ -143,6 +143,28 @@ No Korean involvement identified.
 - Which 15 countries were directly affected?
 - Were additional OPERA1ER members arrested after the key suspect detention?
 - What judicial outcome followed in Côte d’Ivoire?
+
+<!-- SOURCE_ENRICHMENT_START -->
+
+## Source Coverage
+
+- INTERPOL, 2023-07-05: Suspected key figure of notorious cybercrime group arrested in joint operation.
+- Group-IB, 2021-07-05: INTERPOL-led operation takes down prolific cybercriminal.
+- Group-IB, 2023-07-05: Operation Nervone: Group-IB assists INTERPOL-led mission to detain key cybercrime suspect in Côte d'Ivoire.
+- Group-IB, 2023-07-05: Operation Nervone: The takedown of OPERA1ER.
+
+## Evidence and Attribution Notes
+
+- INTERPOL said Operation Nervone dealt a significant blow to the OPERA1ER group.
+- The group was linked to more than 30 attacks in 15 countries and estimated theft of USD 11 million, potentially more.
+- INTERPOL, AFRIPOL, Group-IB, Orange, and Ivorian authorities contributed to the action.
+- This is the primary official INTERPOL announcement for Operation Nervone.
+- **Operation Lyrebird** was an INTERPOL-coordinated operation that resulted in the arrest of a suspect in **Morocco** linked to **phishing** and **carding** activities.
+- The operation was conducted with intelligence support from cybersecurity firm **Group-IB**.
+- The arrest demonstrated INTERPOL's growing capability to coordinate cybercrime operations in the African region.
+- Group-IB described its intelligence support role in Operation Nervone against OPERA1ER.
+
+<!-- SOURCE_ENRICHMENT_END -->
 
 ## References
 

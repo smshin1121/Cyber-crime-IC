@@ -86,6 +86,35 @@ The case illustrates how darknet CSAM prosecutions can depend on cross-border di
 
 The DOJ plea release supplies the core defendant-specific facts. WFLA gives local confirmation of the plea. WTSP and Patch place Dove among Florida defendants connected to the 2019 worldwide takedown. ICE-HSI provides the broader international investigation context, including partner agencies, server seizure, lead dissemination, and global outcomes.
 
+<!-- SOURCE_ENRICHMENT_START -->
+
+## Source Coverage
+
+- US DOJ USAO, 2021-03-30: Lakeland Man Pleads Guilty To Receiving Child Sex Abuse Videos From The Largest Darknet Child Pornography Website, Which Was Funded By Bitcoin.
+- WFLA News (Tampa), 2021-03-30: DOJ: Lakeland man used Bitcoin to buy child porn on 'darknet'.
+- WTSP 10 Tampa Bay, 2019-10-16: Florida men among hundreds charged in worldwide child porn website takedown.
+- Patch (Miami, FL), 2019-10-17: 2 Florida Men Accused In Worldwide Kiddie-Porn Bust.
+- U.S. Immigration and Customs Enforcement (ICE) - Homeland Security Investigations, 2019-10-16: South Korean national and hundreds of others charged worldwide in the takedown of the largest darknet child pornography website funded by bitcoin.
+
+## Operational Timeline
+
+- 2019-10-16: public source coverage from U.S. Immigration and Customs Enforcement (ICE) - Homeland Security Investigations, WTSP 10 Tampa Bay.
+- 2019-10-17: public source coverage from Patch (Miami, FL).
+- 2021-03-30: public source coverage from US DOJ USAO, WFLA News (Tampa).
+
+## Evidence and Attribution Notes
+
+- Local Tampa coverage of Dove's March 2021 plea.
+- Confirms Welcome to Video international cooperation context (Korean National Police lead).
+- Identifies Florida defendants in Welcome to Video international takedown.
+- Confirms the 337-arrest, 38-country international cooperation case.
+- WTSP coverage at the time of the original takedown announcement, identifying Dove as a Florida defendant.
+- Local Florida coverage of the Welcome to Video takedown affecting Florida defendants.
+- Confirms ICE-HSI parallel agency role and Korean National Police lead.
+- Patch local Florida coverage of the international takedown affecting U.S.
+
+<!-- SOURCE_ENRICHMENT_END -->
+
 ## References
 
 | # | Source | Publisher | Date | URL |

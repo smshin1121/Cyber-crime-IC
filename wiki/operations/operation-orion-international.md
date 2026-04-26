@@ -61,7 +61,7 @@ sources:
   - "[[2024-09-27_the420-in_interpol-leads-to-144-arrests-and-rescues-20-child-victims-across-south-america]]"
   - "[[2025-02-01_interpol-int_annual-report-2024-operation-orion-international]]"
 created: 2026-04-08
-updated: 2026-04-09
+updated: 2026-04-26
 operation_role: umbrella
 parent_operation: ""
 summary: "Operation Orion International was a 12-country South American child-protection crackdown coordinated by INTERPOL, resulting in 144 arrests, 20 safeguarded children, and seven arrests of Red Notice subjects."
@@ -136,6 +136,45 @@ The sources support intelligence consolidation by INTERPOL, coordinated target a
 - Country-level arrest totals are not fully disaggregated in the anchor release.
 - The public record is strong on enforcement-stage outcomes but weak on subsequent prosecution outcomes.
 - The precise institutional role of the Buenos Aires prosecutor's office beyond intelligence initiation is not fully detailed in currently collected sources.
+
+<!-- SOURCE_ENRICHMENT_START -->
+
+## Source Coverage
+
+- INTERPOL, 2024-10-15: Operation Orion International.
+- INTERPOL, 2024-09-26: 20 rescued, 144 arrested in major child abuse operation across South America.
+- INTERPOL, 2024-10-15: Operation Orion International: South America CSAM Crackdown.
+- The420, 2024-09-27: INTERPOL Leads to 144 Arrests and Rescues 20 Child Victims Across South America.
+- INTERPOL, 2025-02-01: INTERPOL Annual Report 2024 - Operation Orion International.
+
+## Operational Timeline
+
+- 2024-05-01: activity or investigation start.
+- 2024-09-26: public announcement.
+- 2024-09-30: reported enforcement endpoint.
+- 2024-09-26: public source coverage from INTERPOL.
+- 2024-09-27: public source coverage from The420.
+- 2024-10-15: public source coverage from INTERPOL.
+- 2025-02-01: public source coverage from INTERPOL.
+
+## Legal and Procedural Posture
+
+- Recorded crime classification: CSAM.
+- Recorded enforcement posture: Arrest and Search.
+- The record is categorized as arrest-sweep with status completed.
+
+## Evidence and Attribution Notes
+
+- Source referenced by ic-statistics-dashboard.
+- **Operation Orion International** was an INTERPOL-coordinated operation across **12 South American countries** targeting the production, distribution, and possession of online child sexual abuse material.
+- The public record supports **144 arrests**, the safeguarding of **20 child victims**, and the arrest of **seven individuals subject to INTERPOL Red Notices**.
+- INTERPOL coordinated 'Operation Orion International' across 12 South American countries (May-Sep 2024)
+- 144 arrests, 20 children rescued, 7 Red Notice subjects apprehended
+- Triggered by intelligence from Chile's cybercrime unit and Buenos Aires prosecutor's office
+- INTERPOL coordinated "Operation Orion International," a region-wide initiative across 12 South American countries targeting the transnational distribution of child sexual abuse material (CSAM) on instant messaging applications.
+- The operation ran from May to September 2024 and was launched following information from Chile's cybercrime unit and the Buenos Aires prosecutor's office.
+
+<!-- SOURCE_ENRICHMENT_END -->
 
 ## References
 

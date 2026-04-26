@@ -76,7 +76,7 @@ sources:
   - "[[2020-02-17_interpol-es_southeast-asia-cyberthreats-goldfish-alpha-night-fury]]"
   - "[[cyberscoop-operation-nightfury-magecartgetbilling]]"
 created: 2026-04-08
-updated: 2026-04-23
+updated: 2026-04-26
 operation_role: umbrella
 parent_operation: ""
 summary: "INTERPOL's ASEAN Cybercrime Operations Desk coordinated two operations -- Goldfish Alpha (targeting cryptojacking malware) and Night Fury (targeting e-commerce malware) -- across Southeast Asian nations during 2019-2020. These operations addressed key cyber threats facing the ASEAN region including botnets, phishing, BEC, banking malware, ransomware, and cryptojacking. Through information sharing and joint operations among ASEAN member states, criminal networks were dismantled and arrests were made."
@@ -123,6 +123,44 @@ Indonesia, Malaysia, Thailand, Philippines, Singapore, Vietnam, Myanmar, and oth
 > for this operation. Possible reasons: non-US jurisdiction with no
 > public court records system, sealed proceedings, or operation did
 > not result in formal prosecution.
+
+<!-- SOURCE_ENRICHMENT_START -->
+
+## Source Coverage
+
+- INTERPOL, 2020-02-17: INTERPOL: Report highlights key cyberthreats in Southeast Asia (Goldfish Alpha / Night Fury).
+- Group-IB, 2020-01-27: Group-IB helps take down a cybergang behind the infection of hundreds of websites.
+- TechTarget, 2020-01-28: 3 Magecart suspects arrested in Interpol operation.
+- INTERPOL, 2020-02-17: Un informe de INTERPOL destaca las principales ciberamenazas en el Sudeste Asiático.
+- CyberScoop, 2020-01-27: CyberScoop: Indonesian Police Arrest 3 Men for Alleged Magecart-Style Attacks (Operation NightFury / GetBilling).
+
+## Operational Timeline
+
+- 2019: activity or investigation start.
+- 2020: public announcement.
+- 2020: reported enforcement endpoint.
+- 2020-01-27: public source coverage from CyberScoop, Group-IB.
+- 2020-01-28: public source coverage from TechTarget.
+- 2020-02-17: public source coverage from INTERPOL.
+
+## Legal and Procedural Posture
+
+- Recorded crime classification: malware.
+- Recorded enforcement posture: Arrest and Takedown.
+- The record is categorized as arrest-sweep with status completed.
+
+## Evidence and Attribution Notes
+
+- On 17 February 2020, INTERPOL published its ASEAN Cybercrime Operations Desk regional threat assessment, framing the outcomes of Operation Goldfish Alpha and Operation Night Fury as part of a coordinated ASEAN-wide response to six priority cyberthreats: botnets, phishing, business email compromise, banking malware, ransomware, and cryptojacking
+- Operation Goldfish Alpha achieved a 78% reduction in infected cryptojacking routers — a specific metric indicating sinkholing/remediation rather than arrest-focused enforcement.
+- Goldfish Alpha targeted a cryptojacking campaign exploiting vulnerable MikroTik routers across ASEAN countries
+- Operation Night Fury resulted in 3 arrests in Indonesia of operators of a Magecart-style JavaScript skimmer (GetBilling), carried out with private-sector intelligence support from Group-IB
+- Craig Jones, INTERPOL Director of Cybercrime, quoted: 'In today's highly digitalized world, the sooner countries are aware of a threat, the sooner they can take steps to mitigate the risk' — framing the operations as part of INTERPOL's intelligence-led regional cooperation model
+- ASEAN scope: Indonesia, Malaysia, Thailand, Philippines, Singapore, Vietnam, Myanmar (and possibly other ASEAN member states) are within the ASEAN Cybercrime Operations Desk's mandate, though the specific country attribution for each arrest varies
+- The press release is notable for bundling a mitigation-metric-focused operation (Goldfish Alpha: 78% router cleanup) with an arrest-focused operation (Night Fury: 3 suspects) under a single regional cybercrime narrative — a distinct INTERPOL reporting pattern that differs from Europol or FBI announcement styles
+- Group-IB described its direct support to Operation Night Fury and identified the targeted malware family as GetBilling, a Magecart-style JavaScript skimmer.
+
+<!-- SOURCE_ENRICHMENT_END -->
 
 ## References
 

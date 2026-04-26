@@ -42,7 +42,7 @@ sources:
   - "[[2020-01-03_decrypt_dark-web-vendor-indicted-for-selling-heroin-for-bitcoin]]"
   - "[[2021-11-05_morelaw_united-states-of-america-v-joanna-de-alba]]"
 created: 2026-04-18
-updated: 2026-04-18
+updated: 2026-04-26
 summary: "This case tracks the EDNY prosecution of Joanna De Alba for selling narcotics over Wall Street Market in exchange for cryptocurrency, culminating in a 96-month sentence in November 2021."
 ---
 ## Summary
@@ -60,6 +60,37 @@ The prosecution was domestic, but the public charging narrative includes cross-b
 ## Legal Analysis
 
 This is not currently represented in the repository by a published judicial opinion or underlying plea filing, but it is still a strong case record for the repository because it ties dark-web marketplace activity, cryptocurrency payments, and cross-border package interception into one U.S. federal prosecution.
+
+<!-- SOURCE_ENRICHMENT_START -->
+
+## Source Coverage
+
+- USAO Eastern District of New York, 2020-01-02: Alleged Dark Web Narcotics Trafficker Indicted for Distributing Heroin and Methamphetamine in Exchange for Bitcoin.
+- Drug Enforcement Administration, 2020-01-02: Alleged dark web narcotics trafficker indicted for distributing heroin and methamphetamine in exchange for bitcoin.
+- US DOJ (Eastern District of New York), 2021-11-03: Dark Web Narcotics Trafficker Sentenced to 96 Months in Prison for Distributing Fentanyl, Heroin, Methamphetamine, Cocaine, Oxycodone and Methadone.
+- Drug Enforcement Administration, 2021-11-03: Dark Web Narcotics Trafficker Sentenced to 96 Months in Prison.
+- Decrypt, 2020-01-03: Dark Web vendor indicted for selling heroin for bitcoin.
+- MoreLaw, 2021-11-05: United States of America v. Joanna De Alba.
+
+## Operational Timeline
+
+- 2020-01-02: public source coverage from Drug Enforcement Administration, USAO Eastern District of New York.
+- 2020-01-03: public source coverage from Decrypt.
+- 2021-11-03: public source coverage from Drug Enforcement Administration, US DOJ (Eastern District of New York).
+- 2021-11-05: public source coverage from MoreLaw.
+
+## Evidence and Attribution Notes
+
+- The indictment release identifies Joanna De Alba, also known as RaptureReloaded, as a Wall Street Market vendor charged over heroin and methamphetamine sales for Bitcoin.
+- The release says De Alba was detained at the U.S.-Mexico border in October 2019 and links intercepted packages to the Netherlands and Canada.
+- This is the charging-stage anchor release for the Joanna De Alba prosecution.
+- This page captures the defendant-specific enforcement sequence against Joanna De Alba, also known as RaptureReloaded, for selling narcotics over the Wall Street Market dark-web marketplace in exchange for cryptocurrency.
+- The public record shows a progression from indictment in January 2020 to guilty plea in April 2021 and sentencing in November 2021.
+- DEA's release repeats the indictment facts and highlights undercover purchases and package interception details.
+- The agency account adds investigative color on stealth shipping methods and the narcotics samples recovered by law enforcement.
+- This DEA release is the strongest agency-side corroboration of the January 2020 indictment.
+
+<!-- SOURCE_ENRICHMENT_END -->
 
 ## References
 

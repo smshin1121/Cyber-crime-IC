@@ -80,7 +80,7 @@ sources:
   - "[[2015-06-12_infosecuritymagazine_europol-busts-operation-triangle-in-six-nation-raid]]"
   - "[[2015-06-12_securityaffairs_law-enforcement-dismantled-gang-behind-operation-triangle-phishing-campaign]]"
 created: 2026-04-08
-updated: 2026-04-23
+updated: 2026-04-26
 operation_role: umbrella
 parent_operation: ""
 summary: "In June 2015, an international law enforcement operation coordinated by Europol and Eurojust dismantled a criminal group engaged in cyber fraud through email account intrusion and financial fraud. The operation resulted in 49 arrests across Italy, Spain, Poland, the United Kingdom, Belgium, and Georgia, with 58 premises searched and criminal proceeds including cash, credit cards, and forged documents seized."
@@ -132,6 +132,45 @@ Italy, Spain, Poland, United Kingdom, Belgium, Georgia
 > for this operation. Possible reasons: non-US jurisdiction with no
 > public court records system, sealed proceedings, or operation did
 > not result in formal prosecution.
+
+<!-- SOURCE_ENRICHMENT_START -->
+
+## Source Coverage
+
+- Europol, 2015-06-10: Europol: International operation dismantles criminal group of cyber-fraudsters.
+- Europol, 2015-12-31: Europol Review 2015 - Operation Triangle / Financial fraud cybercrime group dismantled.
+- European Affairs Magazine, 2015-06-11: Europol: Operation Triangle, cybercrime net dismantled.
+- Infosecurity Magazine, 2015-06-12: Europol Busts Operation Triangle in Six-Nation Raid.
+- Security Affairs, 2015-06-12: Law enforcement dismantled gang behind Operation Triangle phishing campaign.
+
+## Operational Timeline
+
+- 2015-06: activity or investigation start.
+- 2015-06-10: public announcement.
+- 2015-06-10: reported enforcement endpoint.
+- 2015-06-10: public source coverage from Europol.
+- 2015-06-11: public source coverage from European Affairs Magazine.
+- 2015-06-12: public source coverage from Infosecurity Magazine, Security Affairs.
+- 2015-12-31: public source coverage from Europol.
+
+## Legal and Procedural Posture
+
+- Recorded crime classification: online fraud.
+- Recorded enforcement posture: Arrest and Seizure.
+- The record is categorized as arrest-sweep with status completed.
+
+## Evidence and Attribution Notes
+
+- On 9-10 June 2015, a joint Europol/Eurojust-coordinated operation arrested 49 suspected members of an international cyber-fraud criminal group across Italy, Spain, Poland, United Kingdom, Belgium and Georgia, with 58 properties searched
+- Criminal method: 'Man-in-the-middle' (MitM) computer intrusions against medium and large European companies, followed by business email compromise (BEC) — intercepting payment requests from corporate email accounts and redirecting customer payments to attacker-controlled accounts before rapid cash-out
+- Financial impact: ~€6 million in fraudulent transfers accumulated within a short period — making this one of the earliest documented multi-country BEC takedowns, predating the FBI's large-scale Operation reWired and Operation Wire Wire
+- Suspect demographics: Primarily of Nigerian, Cameroonian and Spanish origin, with international money laundering networks used to move illicit proceeds across jurisdictions
+- Seized materials: Laptops, hard disks, phones, tablets, credit cards, cash, SIM cards, USB sticks, forged documents and bank records — consistent with a full operational takedown (infrastructure + financial records)
+- Coordination model: National law enforcement teams established a joint coordination centre at Europol HQ in The Hague during the action day, an early application of what became the standard Europol operation-command-post pattern
+- Europol's 2015 annual review includes a retrospective summary of Operation Triangle and confirms its key arrests, searches and participating countries.
+- This report entry offers a second primary Europol URL for Operation Triangle and mentions J-CAT support.
+
+<!-- SOURCE_ENRICHMENT_END -->
 
 ## References
 

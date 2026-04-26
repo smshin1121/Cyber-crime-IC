@@ -94,7 +94,7 @@ sources:
   - "[[2024-11-26_apnews_interpol-clamps-down-on-cybercrime-and-arrests-over-1000-suspects-in-africa]]"
   - "[[2024-04-01_interpol_africa-cyberthreat-assessment-report-2024]]"
 created: 2026-04-08
-updated: 2026-04-23
+updated: 2026-04-26
 operation_role: umbrella
 parent_operation: ""
 summary: "Operation Serengeti was a joint INTERPOL-[[afripol|AFRIPOL]] operation targeting cybercriminals across **19 African countries** from September to October 2024. The operation resulted in **1,006 arrests** and the dismantling of **134,089 malicious infrastructures and networks**. More than 35,000 victims were identified, with cases linked to nearly **USD 193 million** in financial losses worldwide. The operation was funded by the UK's Foreign, Commonwealth and Development Office, the German Federal Foreign Office, and the Council of Europe."
@@ -155,6 +155,38 @@ No Korean involvement noted in this operation.
 > for this operation. Possible reasons: non-US jurisdiction with no
 > public court records system, sealed proceedings, or operation did
 > not result in formal prosecution.
+
+<!-- SOURCE_ENRICHMENT_START -->
+
+## Source Coverage
+
+- INTERPOL, 2024-11-26: Major cybercrime operation nets 1,006 suspects — Operation Serengeti.
+- Group-IB, 2024-11-27: Group-IB contributes to INTERPOL and AFRIPOL-led Operation Serengeti.
+- Kaspersky, 2024-11-27: Kaspersky contributes to joint INTERPOL-AFRIPOL operation combating cybercrime across Africa.
+- Associated Press, 2024-11-26: Interpol clamps down on cybercrime and arrests over 1,000 suspects in Africa.
+- INTERPOL, 2024-04-01: INTERPOL Africa Cyberthreat Assessment Report 2024.
+
+## Operational Timeline
+
+- 2024-09-02: activity or investigation start.
+- 2024-11-26: public announcement.
+- 2024-10-31: reported enforcement endpoint.
+- 2024-04-01: public source coverage from INTERPOL.
+- 2024-11-26: public source coverage from Associated Press, INTERPOL.
+- 2024-11-27: public source coverage from Group-IB, Kaspersky.
+
+## Evidence and Attribution Notes
+
+- INTERPOL-AFRIPOL joint operation across 19 African countries resulted in 1,006 arrests
+- 35,000+ victims identified; USD 193 million in financial losses linked
+- Funded by UK FCDO, German Federal Foreign Office, and Council of Europe — demonstrating donor-supported IC capacity building
+- INTERPOL press release announcing the results of Operation Serengeti (September-October 2024), a joint INTERPOL-AFRIPOL operation targeting cybercriminals across 19 African countries.
+- The operation resulted in 1,006 arrests, dismantled 134,089 malicious infrastructures, and identified 35,000+ victims with USD 193 million in linked financial losses.
+- INTERPOL and AFRIPOL jointly coordinated Operation Serengeti from 2 September to 31 October 2024, targeting cybercriminals across 19 African countries.
+- The operation resulted in 1,006 arrests and the dismantling of 134,089 malicious infrastructures and networks.
+- More than 35,000 victims were identified, with cases linked to nearly USD 193 million in financial losses worldwide.
+
+<!-- SOURCE_ENRICHMENT_END -->
 
 ## References
 

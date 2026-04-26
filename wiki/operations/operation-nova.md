@@ -70,7 +70,7 @@ timeframe:
 title: "Operation Nova (Safe-Inet VPN Takedown)"
 title_ko: "노바 작전 (Safe-Inet VPN 소탕)"
 type: operation
-updated: 2026-04-22
+updated: 2026-04-26
 ---
 > [!note] This operation is documented from a Tier 3 (cybersecurity media) source. Additional verification from official sources (Tier 1-2) would strengthen data reliability.
 
@@ -142,6 +142,29 @@ No Korean involvement identified.
 > for this operation. Possible reasons: non-US jurisdiction with no
 > public court records system, sealed proceedings, or operation did
 > not result in formal prosecution.
+
+<!-- SOURCE_ENRICHMENT_START -->
+
+## Source Coverage
+
+- CyberScoop, 2020-12-22: Safe Inet Takedown Fbi Interpol.
+- portswigger.net, 2020-12-22: Safe Inet Vpn Service For Cybercriminals Taken Down In Law Enforcement Bust.
+- BleepingComputer, 2020-12-22: Safe-Inet, Insorg VPN services shut down by law enforcement.
+- Infosecurity Magazine, 2020-12-22: Police Seize VPN Service Beloved by Cyber-criminals.
+- CISO MAG, 2020-12-24: Operation Nova: Global Law Enforcement Agencies Seize Safe-Inet Criminal VPN Service.
+
+## Evidence and Attribution Notes
+
+- **Operation Nova** was an international law enforcement action that took down **Safe-Inet**, a bulletproof VPN service that had operated for over a decade.
+- The operation was led by German BKA and coordinated by Europol, with participation from the FBI and law enforcement agencies in the Netherlands, Switzerland, and France.
+- The service had been used by ransomware operators, Magecart web skimmers, and other cybercriminals to conceal their identities and locations.
+- BleepingComputer reported that Operation Nova shut down Safe-Inet and Insorg infrastructure used by cybercriminals.
+- The report described seizures in Germany, the Netherlands, Switzerland, France, and the United States.
+- It adds a detailed secondary account of the domain and infrastructure seizure phase.
+- Infosecurity Magazine reported that Safe-Inet was deactivated in an international action led by German police.
+- The article identified Europol and the FBI as central partners in the operation.
+
+<!-- SOURCE_ENRICHMENT_END -->
 
 ## References
 

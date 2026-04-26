@@ -79,7 +79,7 @@ sources:
   - "[[2025-03-05_bleepingcomputer-com_us-charges-chinese-hackers-linked-to-critical-infrastructure-breaches]]"
   - "[[2025-03-06_thecyberwire-com_us-justice-department-charges-employees-of-chinese-it-contractor-i-soon]]"
 created: 2026-04-08
-updated: 2026-04-09
+updated: 2026-04-26
 operation_role: umbrella
 parent_operation: ""
 summary: "On 5 March 2025, the US Department of Justice announced charges against **12 Chinese nationals** affiliated with Anxun Information Technology Co. Ltd. (i-Soon) and Advanced Persistent Threat 27 (APT27). The defendants included two officers of China's Ministry of Public Security (MPS), eight i-Soon employees, and APT27 members. These actors conducted computer intrusions at the direction of China's MPS and Ministry of State Security (MSS) as well as on their own initiative."
@@ -128,6 +128,44 @@ South Korea is listed as a **victim country** — the South Korean foreign minis
 - What is the full scope of i-Soon's operations against Asian governments?
 - How does this case affect US-China cybersecurity diplomatic engagement?
 - What specific data was exfiltrated from the South Korean foreign ministry?
+
+<!-- SOURCE_ENRICHMENT_START -->
+
+## Source Coverage
+
+- US Department of Justice, 2025-03-05: Justice Department Charges 12 Chinese Contract Hackers and Law Enforcement Officers in Global Computer Intrusion Campaigns.
+- U.S. District Court for the District of Columbia, 2026-04-17: Page not found.
+- WIRED, 2025-03-05: US Charges 12 Alleged Spies in China's Freewheeling Hacker-for-Hire Ecosystem.
+- Infosecurity Magazine, 2025-03-06: US Charges Members of Chinese Hacker-for-Hire Group i-Soon.
+- BleepingComputer, 2025-03-05: US charges Chinese hackers linked to critical infrastructure breaches.
+- The CyberWire, 2025-03-06: US Justice Department charges employees of Chinese IT contractor i-Soon.
+
+## Operational Timeline
+
+- 2025-03-05: public announcement.
+- 2025-03-05: public source coverage from BleepingComputer, US Department of Justice, WIRED.
+- 2025-03-06: public source coverage from Infosecurity Magazine, The CyberWire.
+- 2026-04-17: public source coverage from U.S. District Court for the District of Columbia.
+
+## Legal and Procedural Posture
+
+- Recorded crime classification: hacking.
+- Recorded enforcement posture: Indictment and Asset Freeze.
+- The record is categorized as joint-investigation with status ongoing.
+- Related legal or operational records: Us V Wu Haibo Isoon.
+
+## Evidence and Attribution Notes
+
+- Secure .gov websites use HTTPS A lock ( Lock Locked padlock ) or https: // means you’ve safely connected to the .gov website.
+- DOJ press release announcing the charging of 12 Chinese nationals affiliated with i-Soon (Anxun Information Technology) and APT27 for global computer intrusion campaigns directed by China's MPS and MSS.
+- The coordinated action involved DOJ, FBI, NCIS, State Department, and Treasury.
+- i-Soon charged USD 10,000-75,000 per successfully exploited email inbox.
+- Victims included foreign ministries in Asia and US-based dissidents.
+- On 5 March 2025, the US Department of Justice announced coordinated efforts to disrupt the malicious cyber activities of 12 Chinese nationals, including two officers of the People's Republic of China's Ministry of Public Security (MPS), eight employees of Anxun Information Technology Co.
+- (i-Soon), and members of Advanced Persistent Threat 27 (APT27).
+- These actors conducted computer intrusions as freelancers or i-Soon employees at the direction of China's MPS and Ministry of State Security (MSS), and also on their own initiative.
+
+<!-- SOURCE_ENRICHMENT_END -->
 
 ## References
 

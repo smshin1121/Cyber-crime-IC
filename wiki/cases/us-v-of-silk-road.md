@@ -9,6 +9,7 @@ status: arrested
 crime_charged:
   - "[[online-fraud-ic]]"
   - "[[hacking-ic]]"
+  - "[[dark-web-ic]]"
 defendants:
   - name: "Blake Benthall"
     nationality: American
@@ -58,7 +59,7 @@ sources:
   - "[[2015-01-01_europol-europa-eu_iocta-2015-darknets]]"
   - "[[2015-01-01_swansea-ac-uk_gdpo-situation-analysis-operation-onymous]]"
 created: 2026-04-18
-updated: 2026-04-25
+updated: 2026-04-26
 summary: "This slug is a parser-error duplicate of [[us-v-benthall-silk-road-2]]. It has been normalized to Blake Benthall and retained only to preserve existing links."
 ---
 ## Summary
@@ -76,6 +77,39 @@ The corrected record reflects the same cross-border structure documented in [[us
 ## Legal Analysis
 
 This duplicate should not be treated as an independent case. Analysts should cite [[us-v-benthall-silk-road-2]] for substantive work and treat this page as a repaired compatibility record.
+
+## Dark-Web Marketplace Context
+
+The supporting source set ties the prosecution to Silk Road 2.0 and the wider Operation Onymous enforcement environment. That matters for classification because the alleged conduct was not merely generic online fraud or hacking: the public record describes a Tor-hidden marketplace used for narcotics trafficking, fraudulent identification documents, hacking tools, money laundering, and related illicit services.
+
+The page is retained as a compatibility anchor, but its metadata now preserves the dark-web dimension that analysts would otherwise have to infer from the title and references. Substantive citation should still point to [[us-v-benthall-silk-road-2]], while this page keeps older inbound links from resolving to an under-classified duplicate.
+
+<!-- SOURCE_ENRICHMENT_START -->
+
+## Source Coverage
+
+- US DOJ (Southern District of New York), 2014-11-06: Operator Of “Silk Road 2.0” Website Charged In Manhattan Federal Court.
+- FBI, 2014-11-06: Operator of Silk Road 2.0 Website Charged in Manhattan Federal Court.
+- ICE / HSI, 2014-11-06: International probe leads to the arrest of the alleged operator of "Silk Road 2.0".
+- Europol, 2015-01-01: IOCTA 2015 — Darknets.
+- Swansea University, 2015-01-01: GDPO Situation Analysis — Operation Onymous.
+
+## Operational Timeline
+
+- 2014-11-06: public source coverage from FBI, ICE / HSI, US DOJ (Southern District of New York).
+- 2015-01-01: public source coverage from Europol, Swansea University.
+
+## Evidence and Attribution Notes
+
+- Attorney's Office for the Southern District of New York announced the arrest of Blake Benthall, also known as "Defcon," for allegedly operating Silk Road 2.0 after the original Silk Road takedown.
+- DOJ stated that the complaint in Manhattan federal court charged conspiracy to commit narcotics trafficking, conspiracy to commit computer hacking, conspiracy to traffic in fraudulent identification documents, and money-laundering conspiracy.
+- The press release described Silk Road 2.0 as a major Tor-hidden criminal marketplace that, by September 2014, allegedly generated at least USD 8 million per month and had about 150,000 active users.
+- DOJ said the site was used to distribute illegal drugs and other illicit goods and services, including fraudulent identification documents and computer-hacking tools.
+- The investigation was described as a joint FBI and HSI effort.
+- DOJ specifically thanked the Department of Justice Office of International Affairs and law-enforcement authorities in France, Germany, Lithuania, the Netherlands, and the United Kingdom, indicating meaningful cross-border assistance in identifying infrastructure, evidence, and operational leads.
+- prosecution tied to the Silk Road 2.0 portion of Operation Onymous.
+
+<!-- SOURCE_ENRICHMENT_END -->
 
 ## References
 

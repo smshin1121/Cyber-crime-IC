@@ -90,7 +90,7 @@ timeframe:
 title: Operation Shrouded Horizon
 title_ko: Operation Shrouded Horizon (Darkode 포럼 해체)
 type: operation
-updated: '2026-04-09'
+updated: 2026-04-26
 ---
 
 ## Summary
@@ -130,6 +130,31 @@ The operation was coordinated through Europol's European Cybercrime Centre (EC3)
 > for this operation. Possible reasons: non-US jurisdiction with no
 > public court records system, sealed proceedings, or operation did
 > not result in formal prosecution.
+
+<!-- SOURCE_ENRICHMENT_START -->
+
+## Source Coverage
+
+- Wired, 2015-07: Dozens Nabbed Takedown Cybercrime Forum Darkode.
+- FBI, 2015-07-15: Cyber Criminal Forum Taken Down.
+- washingtonpost.com, 2015-07-15: Dd4Cf514 2B05 11E5 A5Ea Cf74396E59Ec Story.
+- archive.triblive.com, 2015-07-15: Details Emerge On Global Internet Crime Sting Led By Pittsburgh Fbi Agents.
+- threatpost.com, 2015-07-15: 113800.
+
+## Operational Timeline
+
+- 2014-01: activity or investigation start.
+- 2015-07-15: public announcement.
+- 2015-07-15: reported enforcement endpoint.
+- 2015-07: public source coverage from Wired.
+- 2015-07-15: public source coverage from FBI, archive.triblive.com, threatpost.com, washingtonpost.com.
+
+## Legal and Procedural Posture
+
+- Recorded crime classification: hacking.
+- The record is categorized as takedown with status completed.
+
+<!-- SOURCE_ENRICHMENT_END -->
 
 ## References
 

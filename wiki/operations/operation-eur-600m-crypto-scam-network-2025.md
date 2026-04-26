@@ -71,7 +71,7 @@ sources:
   - "[[2025-11-04_112wwft-nl_decisive-actions-against-cryptocurrency-scammers-earning-over-eur-600-million]]"
   - "[[2025-11-06_ifcreview-com_crypto-actions-against-cryptocurrency-scammers-earning-over-eur-600-million]]"
 created: 2026-04-19
-updated: 2026-04-19
+updated: 2026-04-26
 summary: "Eurojust-coordinated action against a Europe-based cryptocurrency scam and laundering network, with a French-Belgian JIT and synchronized arrests in Cyprus, Spain, and Germany."
 jurisdictions:
   - "[[belgium]]"
@@ -99,6 +99,51 @@ French, Belgian, Cypriot, German, and Spanish authorities worked with Eurojust t
 - nine suspects arrested
 - searches and arrests in Cyprus, Spain, and Germany
 - EUR 800,000 in bank accounts, EUR 415,000 in cryptocurrency, and EUR 300,000 in cash seized
+
+## Asset and Laundering Pattern
+
+The record is not limited to the arrest count. The source set describes a fraud network that used cryptocurrency investment narratives, fake platforms, and cross-border laundering channels to move victim funds across several European jurisdictions. Eurojust's role is therefore material to the classification: the action combined investigative coordination, a French-Belgian joint investigation team, and synchronized action-day measures in additional states.
+
+For database use, this entry should be read as a crypto-investment fraud and laundering operation rather than a single domestic fraud prosecution. The seizure figures also show multiple asset classes: bank balances, cryptocurrency, and cash were all restrained or seized, which makes the case useful for comparing crypto-fraud enforcement with more conventional bank-account freezing actions.
+
+<!-- SOURCE_ENRICHMENT_START -->
+
+## Source Coverage
+
+- Eurojust, 2025-11-04: Decisive actions against cryptocurrency scammers earning over EUR 600 million.
+- TRM Labs, 2025-11-07: Eurojust Coordinates Global Crackdown on EUR 600 Million Crypto Investment Fraud Network.
+- The Paypers, 2025-11-06: Crypto scammers steal over EUR 600 million, now arrested.
+- 112WWFT, 2025-11-04: Decisive actions against cryptocurrency scammers earning over EUR 600 million.
+- IFC Review, 2025-11-06: CRYPTO: Actions against cryptocurrency scammers earning over EUR 600 million.
+
+## Operational Timeline
+
+- 2025-10-27: activity or investigation start.
+- 2025-11-04: public announcement.
+- 2025-10-29: reported enforcement endpoint.
+- 2025-11-04: public source coverage from 112WWFT, Eurojust.
+- 2025-11-06: public source coverage from IFC Review, The Paypers.
+- 2025-11-07: public source coverage from TRM Labs.
+
+## Legal and Procedural Posture
+
+- Recorded crime classification: online fraud.
+- Recorded enforcement posture: Arrest, Search, Asset Freeze, Seizure.
+- Legal or procedural basis recorded in metadata: Joint Investigation Team and Search Seizure.
+- The record is categorized as joint-investigation with status completed.
+
+## Evidence and Attribution Notes
+
+- Eurojust set up a joint investigation team between French and Belgian authorities.
+- French, Belgian, Cypriot, German, and Spanish authorities coordinated arrests and searches.
+- Nine suspects were arrested and assets were seized in cash, bank accounts, and cryptocurrencies.
+- Eurojust describes a coordinated anti-fraud and money-laundering action against a cross-border cryptocurrency scam network that laundered approximately EUR 600 million.
+- TRM Labs described the takedown of a EUR 600 million crypto investment fraud network.
+- The analysis highlighted the laundering structure and the role of fake platforms.
+- TRM Labs analyzed the coordinated crackdown on the EUR 600 million crypto scam network.
+- The Paypers reported on arrests tied to a EUR 600 million crypto scam network.
+
+<!-- SOURCE_ENRICHMENT_END -->
 
 ## References
 

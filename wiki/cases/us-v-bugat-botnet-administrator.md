@@ -1,7 +1,7 @@
 ---
 type: case
 title: "United States v. Bugat Botnet Administrator"
-case_number: "Source-derived from 2015-10-13_justice-gov_bugat-botnet-administrator-arrested-and-malware-disabled"
+case_number: "Not specified in available source metadata"
 jurisdiction: "U.S. federal prosecution (district not specified in source)"
 jurisdiction_country: "[[united-states]]"
 case_type: prosecution
@@ -38,24 +38,38 @@ source_count: 1
 sources:
   - "[[2015-10-13_justice-gov_bugat-botnet-administrator-arrested-and-malware-disabled]]"
 created: 2026-04-18
-updated: 2026-04-18
-summary: "United States v. Bugat Botnet Administrator is a source-derived case page generated from [[2015-10-13_justice-gov_bugat-botnet-administrator-arrested-and-malware-disabled]]."
+updated: 2026-04-26
+summary: "United States v. Bugat Botnet Administrator is recorded as a case based on the linked source set. Secure .gov websites use HTTPS A lock ( Lock Locked padlock ) or https: // means you’ve safely connected to the .gov website. The supporting source set includes US DOJ."
 ---
 ## Summary
 
-United States v. Bugat Botnet Administrator is a source-derived case page generated from [[2015-10-13_justice-gov_bugat-botnet-administrator-arrested-and-malware-disabled]].
+United States v. Bugat Botnet Administrator is recorded as a case based on the linked source set. Secure .gov websites use HTTPS A lock ( Lock Locked padlock ) or https: // means you’ve safely connected to the .gov website. The supporting source set includes US DOJ.
 
-## Facts
+## Source Coverage
 
-This case page was generated from [[2015-10-13_justice-gov_bugat-botnet-administrator-arrested-and-malware-disabled]] and should be expanded with primary-court detail where available.
+- US DOJ, 2015-10-13: Bugat Botnet Administrator Arrested and Malware Disabled.
 
-## International Cooperation Elements
+## Operational Timeline
 
-The currently collected source indicates a transnational cybercrime enforcement context, but the specific cross-border mechanisms still need case-level enrichment.
+- 2015-10-13: public source coverage from US DOJ.
 
-## Legal Analysis
+## International Cooperation Details
 
-The present page is a structured placeholder built from source metadata and should be refined as additional filings or official summaries are collected.
+- Named agencies and partners include Us Doj.
+- Recorded cooperation mechanisms include informal cooperation.
+
+## Legal and Procedural Posture
+
+- Recorded crime classification: malware.
+- Legal or procedural basis recorded in metadata: informal cooperation.
+- The record is categorized as prosecution with status prosecuted.
+- Related legal or operational records: Operation Us V Bugat Botnet Administrator.
+
+## Evidence and Attribution Notes
+
+- Secure .gov websites use HTTPS A lock ( Lock Locked padlock ) or https: // means you’ve safely connected to the .gov website.
+- The Dridex/Evil Corp disruption and prosecution was a **multi-year international law enforcement operation** targeting the Dridex banking trojan (also known as Bugat and Cridex) and its operators within the Russia-based cybercriminal organization **Evil Corp**.
+- The operation unfolded in two major phases: (1) the **October 2015 technical disruption and arrest** of botnet administrator Andrey Ghinkul, conducted jointly by the FBI and UK National Crime Agency (NCA); and (2) the **December 2019 indictment, sanctions, and reward** targeting Evil Corp leader **Maksim Yakubets** and deputy **Igor Turashev**, coordinated.
 
 ## References
 

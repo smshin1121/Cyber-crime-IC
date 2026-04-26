@@ -64,7 +64,7 @@ timeframe:
   start: 2025-01-01
 title: "Operation Secure (INTERPOL Infostealer Crackdown)"
 type: operation
-updated: 2026-04-22
+updated: 2026-04-26
 operation_role: umbrella
 parent_operation: ""
 summary: "Operation Secure was an INTERPOL-led operation conducted from January to April 2025 across 26 Asia-Pacific countries, targeting infostealer malware infrastructure. The operation resulted in 32 arrests, the takedown of over 20,000 malicious IPs and domains, the seizure of 41 servers and 100GB+ of data, and notifications to more than 216,000 victims."
@@ -132,6 +132,42 @@ South Korea (대한민국) was among the 26 participating countries. Specific Ko
 > for this operation. Possible reasons: non-US jurisdiction with no
 > public court records system, sealed proceedings, or operation did
 > not result in formal prosecution.
+
+<!-- SOURCE_ENRICHMENT_START -->
+
+## Source Coverage
+
+- INTERPOL, 2025-04-01: Operation Secure.
+- straitstimes.com, 2025-04-01: More Than 9000 Malware Infected Servers Found By Singapore Based Interpol Ope....
+- freemalaysiatoday.com, 2017-04-24: Interpol Finds 9000 Compromised Websites.
+- Kaspersky, 2025-04-01: Kaspersky supports INTERPOL Operation Secure.
+- Help Net Security, 2025-04-01: Operation Secure disrupts global infostealer malware operations.
+
+## Operational Timeline
+
+- 2025-01-01: activity or investigation start.
+- 2025-04-01: public announcement.
+- 2025-04-30: reported enforcement endpoint.
+- 2017-04-24: public source coverage from freemalaysiatoday.com.
+- 2025-04-01: public source coverage from Help Net Security, INTERPOL, Kaspersky, straitstimes.com.
+
+## Legal and Procedural Posture
+
+- Recorded crime classification: hacking.
+- The record is categorized as infrastructure-seizure with status completed.
+
+## Evidence and Attribution Notes
+
+- INTERPOL source referenced by Operation Secure
+- Operation Secure was an INTERPOL-led operation conducted from January to April 2025 across 26 Asia-Pacific countries, targeting infostealer malware infrastructure.
+- The operation resulted in 32 arrests, the takedown of over 20,000 malicious IPs and domains, the seizure of 41 servers and 100GB+ of data, and notifications to more than 216,000 victims.
+- Kaspersky described Operation Secure as an Asia-Pacific crackdown on infostealer infrastructure across 26 countries.
+- The release attributed 20,000-plus malicious IPs and domains disrupted and more than 216,000 victim notifications to the operation.
+- Kaspersky described **Operation Secure** as a 26-country Asia-Pacific enforcement action against infostealer infrastructure.
+- Help Net Security reported that Operation Secure disrupted more than 20,000 malicious IPs and domains and led to 32 arrests.
+- The story framed the operation as a successor to INTERPOL's larger infrastructure-disruption model.
+
+<!-- SOURCE_ENRICHMENT_END -->
 
 ## References
 

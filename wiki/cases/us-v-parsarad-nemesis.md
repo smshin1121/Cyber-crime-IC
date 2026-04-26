@@ -49,7 +49,7 @@ sources:
   - "[[2024-03-21_bka-de_illegaler-darknet-marktplatz-nemesis-market-abgeschaltet]]"
   - "[[2026-04-18_justice-gov_iranian-national-indicted-operating-online-marketplace-offering-fentanyl-and-money]]"
 created: 2026-04-17
-updated: 2026-04-18
+updated: 2026-04-26
 summary: "United States v. Behrouz Parsarad is the named U.S. prosecution that followed the March 2024 seizure of Nemesis Market infrastructure. DOJ and Treasury materials make clear that the case depends on cross-border cooperation with Germany and Lithuania and on evidence preserved after the takedown."
 ---
 ## Summary
@@ -76,6 +76,29 @@ The case is significant because it shows how infrastructure seizure can mature i
 | 2024-03-20 | Nemesis infrastructure seized in Germany and Lithuania |
 | 2025-03-04 | OFAC sanctions Parsarad |
 | 2025-04-17 | DOJ and USAO announce charges against Parsarad |
+
+<!-- SOURCE_ENRICHMENT_START -->
+
+## Source Coverage
+
+- U.S. Department of Justice, 2025-04-17: Page not found.
+- US DOJ USAO, 2025-04-17: Iranian National Indicted for Operating Online Marketplace Offering Fentanyl, Other Drugs, and Money Laundering Services.
+- U.S. Department of the Treasury, 2025-03-04: Treasury Sanctions Head of Online Darknet Marketplace Tied to Fentanyl Sales.
+- Bundeskriminalamt / ZIT Frankfurt, 2024-03-21: Illegaler Darknet-Marktplatz "Nemesis Market" abgeschaltet.
+- US DOJ (Office of Public Affairs), 2025-04-17: Iranian National Indicted for Operating Online Marketplace Offering Fentanyl and Money Laundering Services.
+
+## Evidence and Attribution Notes
+
+- Secure .gov websites use HTTPS A lock ( Lock Locked padlock ) or https:// means you’ve safely connected to the .gov website.
+- DOJ announced on 17 April 2025 that Behrouz Parsarad was charged for founding and operating Nemesis Market.
+- The release ties the later criminal case to the 20 March 2024 multinational infrastructure seizure and explicitly highlights German and Lithuanian assistance.
+- DOJ announced on April 17, 2025 that Behrouz Parsarad, alleged administrator of Nemesis Market, was charged in the District of Columbia for operating the darknet marketplace seized in March 2024.
+- The release links the later criminal case to the earlier infrastructure takedown.
+- This Northern District of Ohio release gives the district-level prosecutorial framing for the Nemesis indictment, including the charging theories, the role of J-CODE and the importance of German and Lithuanian assistance.
+- contraband made accessible on the darknet for more than three years,” said Matthew...from the harms caused by fentanyl and darknet marketplaces and pursuing accountability
+- OFAC sanctioned Behrouz Parsarad on 4 March 2025 as the alleged sole administrator of Nemesis.
+
+<!-- SOURCE_ENRICHMENT_END -->
 
 ## References
 

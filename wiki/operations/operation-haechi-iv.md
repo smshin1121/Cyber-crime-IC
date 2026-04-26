@@ -86,7 +86,7 @@ sources:
   - "[[2023-12-21_mynavi-techplus_interpol-operation-haechi-iv]]"
   - "[[2023-12-20_pcgamer_interpol-seizes-usd300m-from-global-cybercriminals-and-says-ai-voice-cloning-is-creating-a-whole-new-class-of-victim]]"
 created: 2026-04-08
-updated: 2026-04-23
+updated: 2026-04-26
 operation_role: umbrella
 parent_operation: ""
 summary: "Operation HAECHI IV was the fourth iteration of the Korea-initiated HAECHI series, running from July to December 2023 across **34 countries**. The operation resulted in approximately **3,500 arrests** and seizure of **USD 300 million** (USD 199M fiat, USD 101M virtual assets). Authorities blocked **82,112 suspicious bank accounts**. HAECHI IV represented a **260% increase** in arrests compared to HAECHI III (2022)."
@@ -171,6 +171,44 @@ South Korea leads the HAECHI series through the [[knpa-cyber-bureau|KNPA]]. In H
 > for this operation. Possible reasons: non-US jurisdiction with no
 > public court records system, sealed proceedings, or operation did
 > not result in formal prosecution.
+
+<!-- SOURCE_ENRICHMENT_START -->
+
+## Source Coverage
+
+- INTERPOL, 2023-12-19: USD 300 million seized and 3,500 suspects arrested in international financial crime operation - Operation HAECHI IV.
+- INTERPOL, 2023-12-19: USD 300 millones incautados y 3.500 sospechosos detenidos en una operación internacional contra la delincuencia financiera: Operación HAECHI IV.
+- TechRadar, 2023-12-20: Interpol operation results in arrest of 3,500 criminals and seizure of $300 million.
+- TECH+, 2023-12-21: INTERPOL、詐欺・資金洗浄の国際捜査「Operation HAECHI IV」で3500人超を逮捕.
+- PC Gamer, 2023-12-20: Interpol seizes $300m from global cybercriminals and says AI voice cloning is creating a whole new class of victim.
+
+## Operational Timeline
+
+- 2023-07: activity or investigation start.
+- 2023-12-19: public announcement.
+- 2023-12: reported enforcement endpoint.
+- 2023-12-19: public source coverage from INTERPOL.
+- 2023-12-20: public source coverage from PC Gamer, TechRadar.
+- 2023-12-21: public source coverage from TECH+.
+
+## Legal and Procedural Posture
+
+- Recorded crime classification: online fraud.
+- Recorded enforcement posture: Arrest and Asset Freeze.
+- The record is categorized as arrest-sweep with status completed.
+
+## Evidence and Attribution Notes
+
+- HAECHI IV: ~3,500 arrests, USD 300 million seized across 34 countries (260% increase over HAECHI III)
+- 82,112 suspicious bank accounts blocked; 7 types of cyber-enabled fraud targeted
+- INTERPOL issued Purple Notices warning of AI-generated voice cloning in scams
+- INTERPOL's Operation HAECHI IV, the fourth iteration of the Korea-initiated HAECHI series, ran from July to December 2023 and involved law enforcement agencies from 34 countries.
+- The operation resulted in the arrest of approximately 3,500 suspects and the seizure of USD 300 million in assets, including USD 199 million in hard currency and USD 101 million in virtual assets.
+- The operation targeted seven types of cyber-enabled fraud: voice phishing, romance scams, online sextortion, investment fraud, money laundering associated with illegal online gambling, business email compromise (BEC), and e-commerce fraud.
+- Spanish-language INTERPOL coverage of HAECHI IV restates the official results and South Korea's lead role in the operation.
+- This is the Spanish-language official version of the HAECHI IV announcement.
+
+<!-- SOURCE_ENRICHMENT_END -->
 
 ## References
 

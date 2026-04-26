@@ -67,7 +67,7 @@ sources:
   - "[[2026-03-11_pressreleasepoint-com_judicial-cooperation-key-to-arresting-leaders-of-online-fraud-group]]"
   - "[[2026-03-11_eurojust-germany-term_online-fraud-group-france-germany]]"
 created: 2026-04-17
-updated: 2026-04-19
+updated: 2026-04-26
 summary: "Eurojust-coordinated Franco-German action against an online-fraud group, with searches in France under a European Investigation Order and arrests on a synchronized action day."
 jurisdictions:
   - "[[france]]"
@@ -102,6 +102,44 @@ According to Eurojust, the group used phishing emails to gain access to online-b
 - searches conducted in France and Germany
 - cryptocurrencies and jewellery seized
 - additional evidence collected for continuing investigation
+
+<!-- SOURCE_ENRICHMENT_START -->
+
+## Source Coverage
+
+- Eurojust, 2026-03-11: Judicial cooperation key to arresting leaders of online fraud group.
+- Eurojust, 2026-03-11: Eurojust fraud topic page - France-Germany online fraud group.
+- Eurojust, 2026-03-11: Eurojust cybercrime topic page - France-Germany online fraud group.
+- PressReleasePoint, 2026-03-11: Judicial cooperation key to arresting leaders of online fraud group.
+- Eurojust, 2026-03-11: Eurojust Germany topic page - France-Germany online fraud group.
+
+## Operational Timeline
+
+- 2026-03-10: activity or investigation start.
+- 2026-03-11: public announcement.
+- 2026-03-10: reported enforcement endpoint.
+- 2026-03-11: public source coverage from Eurojust, PressReleasePoint.
+
+## Legal and Procedural Posture
+
+- Recorded crime classification: online fraud.
+- Recorded enforcement posture: Arrest, Search, Seizure.
+- Legal or procedural basis recorded in metadata: European Investigation Order and European Arrest Warrant.
+- The record is categorized as joint-investigation with status completed.
+- Related legal or operational records: De Fr Online Fraud Group 2026.
+
+## Evidence and Attribution Notes
+
+- A criminal group running an online fraud scheme in Germany was dismantled following Eurojust-coordinated judicial cooperation (announced 11 March 2026)
+- The group is suspected of having defrauded victims of approximately EUR 1 million
+- The alleged leader of the group was based in France, making bilateral DE-FR judicial cooperation essential
+- Operation/case is not publicly named in the Eurojust release
+- Eurojust's fraud topic page listed the France-Germany online fraud group operation.
+- The topic page summarized the dismantling of the German-targeting fraud group with a leader in France.
+- Eurojust's fraud topic listing includes the France-Germany online fraud operation.
+- Eurojust's cybercrime topic page listed the 11 March 2026 online-fraud group release.
+
+<!-- SOURCE_ENRICHMENT_END -->
 
 ## References
 

@@ -65,7 +65,7 @@ timeframe:
 title: "Darkode Forum Takedown"
 title_ko: "Darkode 포럼 소탕"
 type: operation
-updated: 2026-04-09
+updated: 2026-04-26
 operation_role: umbrella
 parent_operation: ""
 summary: "In July 2015, the FBI, in coordination with Europol and law enforcement from approximately 20 countries, took down **Darkode**, one of the most prolific English-language cybercrime forums. The operation resulted in charges, arrests, or searches of approximately 70 Darkode members worldwide, with 12 individuals indicted in the United States."
@@ -137,6 +137,29 @@ No Korean involvement was identified in the Darkode takedown.
 - What was the duration of the undercover investigation phase?
 - How many of the ~70 targeted individuals were ultimately convicted?
 - What was the estimated economic impact of Darkode's operations?
+
+<!-- SOURCE_ENRICHMENT_START -->
+
+## Source Coverage
+
+- US DOJ (W.D. Pa. / OPA), 2015-07-15: Major Computer Hacking Forum Dismantled.
+- FBI, 2015-07-15: Cyber Criminal Forum Taken Down.
+- DOJ W.D. Pa., 2015-07-15: Darkode Forum Dismantled (W.D. Pa.).
+- Wired, 2015-07-01: Dozens Nabbed Takedown Cybercrime Forum Darkode.
+- Krebs on Security, 2015-07-15: The Darkode Cybercrime Forum, Up Close.
+
+## Evidence and Attribution Notes
+
+- Secure .gov websites use HTTPS A lock ( Lock Locked padlock ) or https:// means you’ve safely connected to the .gov website.
+- On 15 July 2015, the Department of Justice announced the dismantlement of the computer hacking forum known as Darkode.
+- Criminal charges were filed in the Western District of Pennsylvania and elsewhere against 12 individuals associated with the forum.
+- The action was part of a coordinated effort by a coalition of law enforcement authorities from 20 nations.
+- ### Key Defendants (US Indictments) - **Johan Anders Gudmunds** (aka "Mafi," "Crim," "Synthet!c"), 27, of Sollebrunn, Sweden — charged by indictment with conspiracy to commit computer fraud, conspiracy to commit wire fraud, and conspiracy to commit money laundering
+- FBI-led Operation Shrouded Horizon, conducted in cooperation with Europol and law enforcement agencies from 20 countries over an 18-month investigation, dismantled the largest English-language cybercrime forum, Darkode.
+- The operation resulted in the arrest of more than 70 individuals and the indictment of 12, neutralizing a criminal marketplace for malware, botnets, stolen personal information, and credit card data trafficking.
+- is the prosecution of 12 individuals charged in the Western District of Pennsylvania for their roles in the Darkode cybercrime forum, one of the most prolific English-language hacking forums.
+
+<!-- SOURCE_ENRICHMENT_END -->
 
 ## References
 

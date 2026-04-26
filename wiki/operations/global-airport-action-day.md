@@ -62,7 +62,7 @@ timeframe:
 title: "Global Airport Action Day"
 title_ko: "Global Airport Action Day (항공권 사기 국제 공조 단속)"
 type: operation
-updated: 2026-04-09
+updated: 2026-04-26
 operation_role: umbrella
 parent_operation: ""
 summary: "The Global Airport Action Day, conducted from October 10-15, 2016, was an international operation coordinated by INTERPOL, Europol, Ameripol, and Frontex across 189 airports in 43 countries. The operation targeted airline ticket fraud perpetrated using stolen or hacked payment card information, detaining 193 suspects. The investigation revealed connections between airline ticket fraud and broader criminal activities including illegal immigration, human trafficking, drug trafficking, cybercrime, and terrorism support."
@@ -105,6 +105,45 @@ The Global Airport Action Day, conducted from October 10-15, 2016, was an intern
 > for this operation. Possible reasons: non-US jurisdiction with no
 > public court records system, sealed proceedings, or operation did
 > not result in formal prosecution.
+
+<!-- SOURCE_ENRICHMENT_START -->
+
+## Source Coverage
+
+- INTERPOL, 2016-10-20: Global Airport Action Day: 40 countries nab 193 suspects in cybercrime sting.
+- Hackread, 2020-11-29: Hackread: Authorities Disrupt Dark Web Credit Card Trading Scam (Carding Action 2020).
+- INTERPOL, 2016-10-19: Global Airport Action Day targets airline ticket fraudsters.
+- Help Net Security, 2016-10-19: Major international law enforcement operation targets airline ticket fraud.
+- Europol, 2017-01-01: SOCTA 2017 - Global action against airline fraudsters.
+- Il Metropolitano, 2016-10-19: Global action against airline fraudsters: 193 detained.
+
+## Operational Timeline
+
+- 2016-10-10: activity or investigation start.
+- 2016-10-15: public announcement.
+- 2016-10-15: reported enforcement endpoint.
+- 2016-10-19: public source coverage from Help Net Security, INTERPOL, Il Metropolitano.
+- 2016-10-20: public source coverage from INTERPOL.
+- 2017-01-01: public source coverage from Europol.
+- 2020-11-29: public source coverage from Hackread.
+
+## Legal and Procedural Posture
+
+- Recorded crime classification: online fraud.
+- The record is categorized as arrest-sweep with status completed.
+
+## Evidence and Attribution Notes
+
+- The Global Airport Action Day, conducted from October 10-15, 2016, was an international operation coordinated by INTERPOL, Europol, Ameripol, and Frontex across 189 airports in 43 countries.
+- The operation targeted airline ticket fraud perpetrated using stolen or hacked payment card information, detaining 193 suspects.
+- The investigation revealed connections between airline ticket fraud and broader criminal activities including illegal immigration, human trafficking, drug trafficking, cybercrime, and terrorism support.
+- The Hackread article, published 29 November 2020, reports on **Carding Action 2020**, a 3-month Europol-led operation against dark-web card-trading forums — NOT on the Global Airport Action Day despite the wiki's operation link
+- Carding Action 2020 was led by Europol, supported by cybersecurity firm Group-IB, with operational participation from law enforcement in Hungary, the United Kingdom, and Italy
+- Estimated impact: prevented losses of approximately US$48 million / EUR 40 million; ~90,000 stolen credit-card records assessed during the investigation
+- Operational focus: "card shops' (specialized sites selling stolen card data) and dark-web marketplaces — not airport-based operations or travel fraud enforcement
+- Source includes Europol's public statement that the initiative aimed to 'mitigate and prevent losses for financial institutions and cardholders' — a defensive-rather-than-punitive framing
+
+<!-- SOURCE_ENRICHMENT_END -->
 
 ## References
 

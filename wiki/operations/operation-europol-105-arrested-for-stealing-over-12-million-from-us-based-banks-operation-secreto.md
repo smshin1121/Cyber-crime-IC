@@ -68,7 +68,7 @@ sources:
   - "[[2021-02-09_cisomag_operation-secreto-europol-busts-international-cybercriminal-group]]"
 summary: "Europol: 105 Arrested for Stealing Over €12 Million from US-Based Banks (Operation Secreto) Enforcement Action is a defendant-specific enforcement action page derived from [[europol-105-arrested-for-stealing-over-12-million-from-us-based-banks-operation-secreto]]."
 created: 2026-04-18
-updated: 2026-04-09
+updated: 2026-04-26
 ---
 ## Summary
 
@@ -88,6 +88,46 @@ The underlying public case record identifies Europol: 105 Arrested for Stealing 
 - Operation type: `prosecution`
 - Case anchor: [[europol-105-arrested-for-stealing-over-12-million-from-us-based-banks-operation-secreto]]
 - Source coverage: 1 official or catalogued source page(s)
+
+<!-- SOURCE_ENRICHMENT_START -->
+
+## Source Coverage
+
+- Europol, 2021-02-03: Europol: 105 Arrested for Stealing Over €12 Million from US-Based Banks (Operation Secreto).
+- Unknown, Unknown: the-record-operation-secreto.
+- United States Secret Service, 2021-02-03: 105 Arrested for Stealing Over EUR 12 Million from U.S.-based Banks.
+- Policía Nacional España, 2021-02-03: La Policía Nacional y el Servicio Secreto de los EEUU desarticulan una organización que habría defraudado más de 12.000.000 de euros.
+- CISO MAG, 2021-02-09: Operation SECRETO: Europol Busts International Cybercriminal Group.
+
+## Operational Timeline
+
+- 2021: activity or investigation start.
+- 2021-02-03: public announcement.
+- 2021-02-03: reported enforcement endpoint.
+- 2021-02-03: public source coverage from Europol, Policía Nacional España, United States Secret Service.
+- 2021-02-09: public source coverage from CISO MAG.
+- Unknown: public source coverage from Unknown.
+
+## Legal and Procedural Posture
+
+- Recorded crime classification: Bank Fraud Ic.
+- Recorded enforcement posture: Arrest.
+- Legal or procedural basis recorded in metadata: informal cooperation.
+- The record is categorized as prosecution with status completed.
+- Related legal or operational records: Europol 105 Arrested For Stealing Over 12 Million From Us Based Banks Operation Secreto.
+
+## Evidence and Attribution Notes
+
+- Europol announced on 2021-02-03 that Operation Secreto resulted in 105 arrests for a payment-card fraud scheme that stole over €12 million from US-based banks
+- Action day: 2020-10-06 — 37 arrested that day, with additional arrests in the months following; 88 house searches conducted
+- Asset results: €1.3 million frozen across 87 accounts; €406,000 cash seized; 14 high-end vehicles confiscated; 19 European Arrest Warrants executed
+- Criminal scheme: a predominantly Greek-national organised crime group set up shell companies in the US and opened fraudulent US bank accounts, then made cross-border EU→US transfers to build institutional credibility before obtaining debit and credit cards for illicit use; more than 50 US financial institutions victimised
+- Coordination: Europol-coordinated, with Spanish National Police and the US Secret Service as co-leads; Austria, Denmark, Greece, US DOJ, and FinCEN also participated
+- Geographic footprint of arrests: Austria, Spain, Greece, UK, with money laundering networks spanning multiple EU states — illustrating a rare Europol-led operation involving US Secret Service as a core partner in a transatlantic financial-crime case
+- This page captures the public enforcement results of **Operation Secreto**, a Europol-coordinated and U.S.
+- Secret Service-supported action against a fraud and money laundering network that targeted U.S.-based banks through shell companies, payment-card abuse, and cross-border laundering channels.
+
+<!-- SOURCE_ENRICHMENT_END -->
 
 ## References
 

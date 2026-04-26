@@ -90,7 +90,7 @@ sources:
   - "[[2017-12-20_portswigger-daily-swig_arrests-made-in-connection-with-ctb-locker-cerber-ransomware]]"
   - "[[2017-12-20_thehackernews_romanian-police-arrest-5-people-for-spreading-ctb-locker-and-cerber-ransomware]]"
 created: 2026-04-08
-updated: 2026-04-23
+updated: 2026-04-26
 operation_role: umbrella
 parent_operation: ""
 summary: "**Operation Bakovia** was a joint international law-enforcement action targeting distributors of the CTB-Locker and Cerber ransomware families. The operation culminated in Romania in December 2017 with five arrests, six house searches, and evidence seizures, supported by Europol, Dutch and British investigators, U.S. authorities, and McAfee's malware-analysis team."
@@ -182,6 +182,35 @@ No Korean involvement was identified in the available public sources.
 
 > [!warning] No public court documents found
 > Web search and archive review through 2026-04-23 did not surface open court records tied to this operation.
+
+<!-- SOURCE_ENRICHMENT_START -->
+
+## Source Coverage
+
+- CyberScoop, 2017-12-01: CTB-Locker Cerber ransomware arrests — Europol, McAfee.
+- McAfee, 2017-12-20: McAfee Labs Advanced Threat Research Aids Arrest of Suspected Cybercrime Gang Linked to Top Malware CTB Locker.
+- BleepingComputer, 2017-12-20: Five Romanians Arrested for Spreading CTB-Locker and Cerber Ransomware.
+- The Daily Swig, 2017-12-20: Arrests made in connection with CTB-Locker, Cerber ransomware.
+- The Hacker News, 2017-12-20: Romanian Police Arrest 5 People for Spreading CTB Locker and Cerber Ransomware.
+
+## Legal and Procedural Posture
+
+- Recorded crime classification: ransomware.
+- Recorded enforcement posture: Arrest and Seizure.
+- The record is categorized as arrest-sweep with status completed.
+
+## Evidence and Attribution Notes
+
+- **Operation Bakovia** was a joint international law enforcement action targeting the distributors of **CTB-Locker** and **Cerber** ransomware, two of the most widespread ransomware families in 2016-2017.
+- Coordinated by Europol, the operation resulted in arrests in Romania, with support from the FBI, UK NCA, and Dutch National Police.
+- McAfee provided key private-sector intelligence support.
+- McAfee stated that Operation Bakovia began on 14 December 2017 and that six houses in eastern Romania were searched while investigators pursued CTB-Locker and Cerber distributors.
+- The company described its own malware-analysis support for Dutch investigators, adding evidence of a public-private investigative model.
+- McAfee's account adds technical and operational context for Operation Bakovia, especially the malware-analysis role that helped attribute the actors behind CTB-Locker and Cerber distribution.
+- McAfee described its support to the investigation later identified as Operation Bakovia.
+- The company said Dutch investigators asked its Advanced Threat Research team to analyze malware samples from a server used to distribute CTB-Locker, and the inquiry later expanded to Cerber based on U.S.
+
+<!-- SOURCE_ENRICHMENT_END -->
 
 ## References
 

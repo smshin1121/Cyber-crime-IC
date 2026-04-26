@@ -71,7 +71,7 @@ sources:
   - "[[2021-06-24_justice-gov_high-level-member-of-hacking-group-sentenced-prison-fin7]]"
   - "[[cbs-news-fin7-takedown]]"
 created: 2026-04-08
-updated: 2026-04-08
+updated: 2026-04-26
 operation_role: umbrella
 parent_operation: ""
 summary: "The FBI and U.S. Department of Justice investigated and prosecuted the FIN7 cybercrime group, which since 2015 had used malware and phishing attacks to steal over 15 million credit card numbers from more than 100 U.S. companies in the restaurant, gaming, and hotel sectors. Key members of the group were arrested in 2018, and stolen data had been sold on dark web marketplaces. The investigation involved cooperation with law enforcement in the United Kingdom, Australia, and France."
@@ -106,6 +106,45 @@ United States, United Kingdom, Australia, France
 - **15 million+ credit card numbers** stolen from 100+ companies
 - FIN7 cybercrime operations significantly disrupted
 - Attacks on restaurants, gaming companies, and hotels addressed
+
+<!-- SOURCE_ENRICHMENT_START -->
+
+## Source Coverage
+
+- FBI (Seattle Field Office), 2018-08-01: FBI: How Cyber Crime Group FIN7 Attacked and Stole Data from Hundreds of U.S. Companies.
+- U.S. Attorney's Office, Western District of Washington, 2018-08-01: Three Members of Notorious International Cybercrime Group "Fin7" in Custody for Role in Attacking Over 100 U.S. Companies.
+- U.S. Attorney's Office, Western District of Washington, 2021-04-16: High-level organizer of notorious hacking group FIN7 sentenced to ten years in prison for scheme that compromised tens of millions of debit and..
+- U.S. Department of Justice, 2021-06-24: High-Level Member of Hacking Group Sentenced to Prison for Scheme that Compromised Tens of Millions of Debit and Credit Cards.
+- CBS News, 2018-08-01: Feds arrest 3 alleged FIN7 hackers accused of stealing credit card data.
+
+## Operational Timeline
+
+- 2015: activity or investigation start.
+- 2018: public announcement.
+- 2018: reported enforcement endpoint.
+- 2018-08-01: public source coverage from CBS News, FBI (Seattle Field Office), U.S. Attorney's Office, Western District of Washington.
+- 2021-04-16: public source coverage from U.S. Attorney's Office, Western District of Washington.
+- 2021-06-24: public source coverage from U.S. Department of Justice.
+
+## Legal and Procedural Posture
+
+- Recorded crime classification: hacking.
+- Recorded enforcement posture: Arrest and Indictment.
+- The record is categorized as joint-investigation with status completed.
+- Related legal or operational records: Us V Hladyr Fin7.
+
+## Evidence and Attribution Notes
+
+- FBI Seattle Field Office published the story on or around 2018-08-01 describing the FIN7 takedown in which three Ukrainian nationals — Dmytro Fedorov, Fedir Hladyr, and Andrii Kopakov — were arrested and charged as high-ranking members of the FIN7 cybercrime group
+- FIN7 had targeted more than 100 US companies since at least 2015, predominantly in the restaurant, gaming, and hospitality sectors
+- Scale of data theft: >15 million customer payment card records stolen from >6,500 point-of-sale terminals at >3,600 business locations across 47 US states and DC
+- Named victim chains publicly disclosed at time of FBI reporting: Chipotle Mexican Grill, Chili's, Arby's, Jason's Deli
+- Methodology: spear-phishing emails with malicious Microsoft Word attachments (embedded malware); attackers often posed as customers or legitimate business contacts and made phone calls to legitimize the phishing request — social-engineering layered on top of technical intrusion
+- International cooperation: Fedorov arrested in Poland (January 2018), Hladyr in Dresden/Germany (January 2018), Kopakov in Spain (June 2018); all three extradited to the US for prosecution in the Western District of Washington (Seattle)
+- The Western District of Washington announced that three senior FIN7 members were in custody on charges tied to attacks on more than 100 U.S.
+- The release described arrests in Poland, Germany, and Spain and tied them to extradition efforts to the United States.
+
+<!-- SOURCE_ENRICHMENT_END -->
 
 ## References
 

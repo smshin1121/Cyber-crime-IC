@@ -70,7 +70,7 @@ sources:
   - "[[2015-06-27_thehackernews-com_europol-arrests-gang-behind-zeus-and-spyeye-banking-malware]]"
   - "[[2015-06-29_techmonitor-ai_zeus-spyeye-malware-gang-members-arrested-in-ukraine]]"
 created: 2026-04-08
-updated: 2026-04-09
+updated: 2026-04-26
 operation_role: umbrella
 parent_operation: ""
 summary: "In June 2015, Europol announced the takedown of a cybercrime syndicate responsible for distributing the **Zeus** and **SpyEye** banking trojans. These malware families were among the most prolific financial cybercrime tools of the 2010s, responsible for stealing hundreds of millions of dollars from online banking users worldwide."
@@ -146,6 +146,30 @@ No Korean involvement identified. Zeus and SpyEye primarily targeted Western ban
 > for this operation. Possible reasons: non-US jurisdiction with no
 > public court records system, sealed proceedings, or operation did
 > not result in formal prosecution.
+
+<!-- SOURCE_ENRICHMENT_START -->
+
+## Source Coverage
+
+- Europol, 2015-06-25: Europol: Major Cybercrime Ring Dismantled by Joint Investigation Team.
+- Sophos, 2015-06-30: Zeus and SpyEye crime syndicate taken down by Europol.
+- Help Net Security, 2015-06-25: The downfall of a major cybercrime ring exploiting banking Trojans.
+- SC Media, 2015-06-25: Europol takes down high profile Ukraine-based cybergang.
+- The Hacker News, 2015-06-27: Europol Arrests Gang Behind Zeus and SpyEye Banking Malware.
+- Tech Monitor, 2015-06-29: Zeus & SpyEye malware gang members arrested in Ukraine.
+
+## Evidence and Attribution Notes
+
+- Europol announced on 25 June 2015 the results of a Joint Investigation Team (JIT) action against a Zeus/SpyEye banking-Trojan network, with the coordinated action executed 18-19 June 2015 in Ukraine
+- On the action days: 5 suspects arrested in Ukraine, 8 house searches conducted across 4 Ukrainian cities, and computer equipment and devices seized for forensic analysis
+- The JIT comprised 6 core member states: Austria, Belgium, Finland, Netherlands, Norway, and United Kingdom — an unusually small and tight configuration for a cybercrime JIT — with Europol and Eurojust coordination support
+- Additional cooperation (non-JIT) came from Estonia, Latvia, Germany, Moldova, Poland, Ukraine, and the United States; Ukraine was the primary operational venue despite not being a JIT party
+- Estimated damages: at least EUR 2 million from the investigated cluster; the group engaged in malware development, infection, credential harvesting, and money-mule laundering across the full cybercrime value chain
+- 60 total arrests across the broader operation including 34 from a linked money-mule subsidiary network — connecting banking-Trojan developers to the downstream cash-out layer
+- This operation is cited as one of Europol's early (pre-EC3-maturity) successful uses of the Joint Investigation Team mechanism for cybercrime, establishing procedural precedent for later JITs
+- In June 2015, Europol announced the takedown of a cybercrime syndicate responsible for distributing the **Zeus** and **SpyEye** banking trojans.
+
+<!-- SOURCE_ENRICHMENT_END -->
 
 ## References
 

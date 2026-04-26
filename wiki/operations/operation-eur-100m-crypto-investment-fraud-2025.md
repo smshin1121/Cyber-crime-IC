@@ -76,7 +76,7 @@ sources:
   - "[[2025-09-23_721news-com_eurojust-coordinates-action-to-halt-cryptocurrency-fraud-of-over-100-million-euros-across-europe]]"
   - "[[2025-09-23_112wwft-nl_eurojust-coordinates-action-to-halt-cryptocurrency-fraud-of-over-100-million-euros-across-europe]]"
 created: 2026-04-19
-updated: 2026-04-19
+updated: 2026-04-26
 summary: "Eurojust coordinated a 2025 multinational action against a cryptocurrency investment-fraud network that defrauded victims in at least 23 countries of over EUR 100 million and triggered arrests, searches, and asset freezes across six participating states."
 organizations:
   - "[[eurojust]]"
@@ -119,6 +119,43 @@ According to Eurojust, the fraud had been running since at least 2018 and used p
 - searches in Spain, Portugal, Italy, Romania and Bulgaria
 - bank accounts and other assets frozen
 - a clear example of Eurojust-led judicial coordination for cyber-enabled investment fraud
+
+<!-- SOURCE_ENRICHMENT_START -->
+
+## Source Coverage
+
+- Eurojust, 2025-09-23: Eurojust coordinates action to halt cryptocurrency fraud of over 100 million euros across Europe.
+- Decripto, 2025-09-23: Eurojust dismantles EUR 100 million crypto scam: five arrests and seizures.
+- World Border Security Congress, 2025-09-23: Eurojust coordinates action to halt cryptocurrency fraud of over 100 million euros across Europe.
+- 721news, 2025-09-23: Eurojust coordinates action to halt cryptocurrency fraud of over 100 million euros across Europe.
+- 112WWFT, 2025-09-23: Eurojust coordinates action to halt cryptocurrency fraud of over 100 million euros across Europe.
+
+## Operational Timeline
+
+- 2018: activity or investigation start.
+- 2025-09-23: public announcement.
+- 2025-09-23: reported enforcement endpoint.
+- 2025-09-23: public source coverage from 112WWFT, 721news, Decripto, Eurojust.
+
+## Legal and Procedural Posture
+
+- Recorded crime classification: online fraud.
+- Recorded enforcement posture: Coordinated Searches, Arrests, Asset Freezing.
+- Legal or procedural basis recorded in metadata: Joint Investigation Team, European Arrest Warrant, European Investigation Order.
+- The record is categorized as joint-investigation with status completed.
+
+## Evidence and Attribution Notes
+
+- Eurojust coordinated a major action against a cryptocurrency investment fraud network that defrauded victims in at least 23 countries of over EUR 100 million.
+- A JIT between Spanish and Lithuanian authorities supported information exchange, while Eurojust assisted with an EAW, EIOs and freezing orders.
+- Eurojust described a 2025 action day that produced arrests, searches and asset-freezing measures across Spain, Portugal, Italy, Romania and Bulgaria in a long-running cryptocurrency investment-fraud investigation.
+- Decripto reported on the five arrests and searches tied to a EUR 100 million crypto investment fraud case.
+- It described the fraudulent investment platform and the laundering path through bank accounts.
+- Decripto reported on the September 2025 Eurojust action against a EUR 100 million crypto investment fraud scheme.
+- The article summarized the coordinated action day against a EUR 100 million crypto investment fraud scheme.
+- It highlighted arrests, searches, and the JIT linking Spain and Lithuania.
+
+<!-- SOURCE_ENRICHMENT_END -->
 
 ## References
 

@@ -81,7 +81,7 @@ timeframe:
 title: "Hive Ransomware Infrastructure Takedown"
 title_ko: "명시되지 않음 (Hive 랜섬웨어 인프라 해체)"
 type: operation
-updated: 2026-04-09
+updated: 2026-04-26
 ---
 ## Summary
 
@@ -119,6 +119,43 @@ United States, Germany, Netherlands, United Kingdom, Canada, France, Romania, Li
 > for this operation. Possible reasons: non-US jurisdiction with no
 > public court records system, sealed proceedings, or operation did
 > not result in formal prosecution.
+
+<!-- SOURCE_ENRICHMENT_START -->
+
+## Source Coverage
+
+- Europol, 2023-01-26: Europol: Cybercriminals Stung as Hive Infrastructure Shut Down.
+- CBS News, 2025-02-11: CBS News: DOJ Charges Two Russians with Operating Phobos Ransomware Group.
+- US DOJ USAO, 2024-04-11: SoCal Man Arrested on Federal Charges Alleging He Schemed to Advertise and Sell ‘Hive’ Computer Intrusion Malware.
+- TechCrunch, 2023-01-26: US announces it seized Hive ransomware gang's leak sites and decryption keys.
+- DW, 2023-01-26: US, German authorities block 'Hive' ransomware website.
+
+## Operational Timeline
+
+- 2022-07: activity or investigation start.
+- 2023-01-26: public announcement.
+- 2023-01-26: reported enforcement endpoint.
+- 2023-01-26: public source coverage from DW, Europol, TechCrunch.
+- 2024-04-11: public source coverage from US DOJ USAO.
+- 2025-02-11: public source coverage from CBS News.
+
+## Legal and Procedural Posture
+
+- Recorded crime classification: ransomware.
+- The record is categorized as takedown with status completed.
+
+## Evidence and Attribution Notes
+
+- Hive ransomware infrastructure taken down on 26 January 2023 by a coordinated operation involving 13 countries and Europol, led by the FBI with the US Secret Service, German BKA, and Dutch National Police as principal partners
+- Hive had targeted 1,500+ victim companies in 80+ countries since June 2021, extracting approximately EUR 100 million in ransom payments
+- Hive operated on a ransomware-as-a-service (RaaS) affiliate model: affiliates received 80% of ransoms, developers 20% — standard RaaS economics
+- FBI covertly infiltrated Hive's infrastructure *without detection* for several months prior to the public takedown, enabling law enforcement to identify decryption keys and share them with victims in real time
+- Decryption keys distributed to victims during the covert phase prevented an estimated USD 130 million (~EUR 120 million) in additional ransom payments
+- Participating countries: United States, Canada, France, Germany, Ireland, Lithuania, Netherlands, Norway, Portugal, Romania, Spain, Sweden, United Kingdom (13 total).
+- Initial takedown resulted in no physical arrests — the operation focused on infrastructure disruption and victim decryption
+- Follow-on arrest: Mikhail Matveev ('Wazawaka'), indicted by DOJ in May 2023 as a Hive affiliate, remains in Russia — illustrating the persistent non-extradition challenge
+
+<!-- SOURCE_ENRICHMENT_END -->
 
 ## References
 

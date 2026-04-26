@@ -63,7 +63,7 @@ sources:
   - "[[2022-03-24_infosecurity-magazine_us-indicts-russian-over-carding-shop]]"
   - "[[2022-03-24_securityweek-com_russian-operator-cybercrime-marketplace-indicted-us]]"
 created: 2026-04-08
-updated: 2026-04-09
+updated: 2026-04-26
 operation_role: umbrella
 parent_operation: ""
 summary: "On 2022-03-16, DOJ announced the indictment of Igor Dekhtyarchuk, alleged operator of Marketplace A, after extradition from Latvia. The case framed Marketplace A as a cybercrime market for stolen credentials and access devices affecting U.S. victims."
@@ -129,6 +129,29 @@ The impact of this kind of action is narrower than a full marketplace seizure, b
 ## Follow-Up Actions
 
 The linked case page is [[us-v-dekhtyarchuk-marketplace-a]]. The corresponding defendant-specific follow-on operation is [[operation-us-v-dekhtyarchuk-marketplace-a]].
+
+<!-- SOURCE_ENRICHMENT_START -->
+
+## Source Coverage
+
+- US DOJ (Eastern District of Texas), 2022-03-16: Russian National Indicted in East Texas for Cyber Hacking Enterprise.
+- The Cyber Express, 2025-06-06: The Cyber Express: BidenCash Marketplace Domains Seized in U.S. Crackdown.
+- FBI, 2022-03-18: IGOR DEKHTYARCHUK.
+- Infosecurity Magazine, 2022-03-24: US Indicts Russian Over 'Carding Shop'.
+- SecurityWeek, 2022-03-24: Russian Operator of Cybercrime Marketplace Indicted in US.
+
+## Evidence and Attribution Notes
+
+- Secure .gov websites use HTTPS A lock ( Lock Locked padlock ) or https:// means you’ve safely connected to the .gov website.
+- Igor Dekhtyarchuk (Marketplace A) Enforcement Action is a defendant-specific enforcement action page derived from Us V Dekhtyarchuk Marketplace A.
+- It captures the prosecutorial or seizure stage reflected in the linked case record and preserves the operation-side catalog entry for this follow-on action.
+- The Cyber Express article (6 June 2025) reports on the seizure of ~145 domains connected to the **BidenCash** marketplace — NOT the Marketplace A / Dekhtyarchuk indictment referenced in the wiki's operation page link
+- BidenCash operated from March 2022 as a criminal marketplace selling stolen credit-card data, CVVs, expiration dates, and PII; it served 117,000+ users and trafficked 15 million+ payment-card records, generating US$17 million+ in revenue over ~2 years
+- Between October 2022 and February 2023, BidenCash operators released 3.3 million stolen cards as free 'promotional giveaways' to attract new customers — an unusual viral-marketing TTP for criminal marketplaces
+- US DOJ obtained authorization to seize cryptocurrency wallets used for illicit transactions alongside the domain seizures; the action is framed within **Operation Endgame**, the multinational initiative targeting malware services and cybercriminal infrastructure
+- Participating countries per the article: United States, Netherlands, Finland, Germany, France, and Denmark — the standard Operation Endgame coalition
+
+<!-- SOURCE_ENRICHMENT_END -->
 
 ## References
 

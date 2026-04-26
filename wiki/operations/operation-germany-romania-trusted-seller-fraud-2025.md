@@ -69,7 +69,7 @@ sources:
   - "[[2025-06-27_immuniweb-com_cybercrime-investigations-weekly-trusted-seller-fraud]]"
   - "[[2025-06-25_eurojust-fraud-term_trusted-seller-accounts-germany-romania]]"
 created: 2026-04-19
-updated: 2026-04-19
+updated: 2026-04-26
 summary: "Eurojust-supported Germany-Romania action against a cyber-enabled fraud group that hijacked trusted seller accounts, using a JIT, EAW procedures, and coordinated action days."
 jurisdictions:
   - "[[germany]]"
@@ -94,6 +94,52 @@ The group used phishing to steal credentials from legitimate online sellers, the
 - three additional members detained in Romania on 24 June 2025
 - house searches in Germany, Romania, and Austria
 - more than 405 seller accounts compromised
+
+<!-- SOURCE_ENRICHMENT_START -->
+
+## Source Coverage
+
+- Eurojust, 2025-06-25: Large-scale fraud using trusted online seller accounts uncovered.
+- Eurojust, 2025-06-25: Eurojust helps uncover large-scale fraud based on trusted online seller accounts.
+- INSIGHT EU Monitoring, 2025-06-26: Eurojust helps dismantle fraud scheme using hijacked trusted seller accounts.
+- ImmuniWeb, 2025-06-27: Cybercrime Investigations Weekly - trusted seller account fraud.
+- Eurojust, 2025-06-25: Eurojust fraud topic page - trusted seller account fraud.
+
+## Operational Timeline
+
+- 2024-12: activity or investigation start.
+- 2025-06-25: public announcement.
+- 2025-06-24: reported enforcement endpoint.
+- 2025-06-25: public source coverage from Eurojust.
+- 2025-06-26: public source coverage from INSIGHT EU Monitoring.
+- 2025-06-27: public source coverage from ImmuniWeb.
+
+## International Cooperation Details
+
+- Lead agency is Eurojust.
+- Participating or affected jurisdictions recorded in metadata: Germany, Romania, Austria.
+- Named agencies and partners include Eurojust.
+- Recorded cooperation mechanisms include Joint Investigation Team, European Arrest Warrant, Search Seizure.
+
+## Legal and Procedural Posture
+
+- Recorded crime classification: online fraud.
+- Recorded enforcement posture: Arrest, Search, Seizure.
+- Legal or procedural basis recorded in metadata: Joint Investigation Team and European Arrest Warrant.
+- The record is categorized as joint-investigation with status completed.
+
+## Evidence and Attribution Notes
+
+- Romanian and German authorities worked through a joint investigation team established by Eurojust.
+- The fraud relied on hacked trusted online seller accounts and caused damages of over EUR 400,000.
+- Action days led to arrests in Romania and Germany, with additional searches in Austria.
+- Eurojust describes a Germany-Romania cyber-fraud investigation in which authorities used a joint investigation team, coordinated action days, and European Arrest Warrant procedures.
+- Eurojust reported that German and Romanian authorities dismantled a fraud group using hijacked trusted seller accounts.
+- The operation involved a JIT, European Arrest Warrants, searches, and arrests in Germany and Romania.
+- Eurojust's official release describes the trusted-seller account fraud operation.
+- INSIGHT EU Monitoring summarized the German-Romanian trusted-seller-account fraud case.
+
+<!-- SOURCE_ENRICHMENT_END -->
 
 ## References
 

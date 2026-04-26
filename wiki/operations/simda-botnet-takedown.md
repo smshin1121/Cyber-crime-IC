@@ -89,7 +89,7 @@ sources:
   - "[[2015-04-13_trendmicro-com_trend-micro-joins-interpol-botnet-takedown-presents-at-interpol-world-2015]]"
   - "[[2015-04-15_techspot-com_interpol-led-operation-takes-down-the-botnet-that-infected-over-770k-pcs]]"
 created: 2026-04-08
-updated: 2026-04-09
+updated: 2026-04-26
 operation_role: umbrella
 parent_operation: ""
 summary: "On April 9, 2015, INTERPOL coordinated an international operation to take down the Simda botnet, which had infected over 770,000 computers across 190+ countries. Law enforcement agencies from the Netherlands, United States, Russia, Luxembourg, and Poland, along with private sector partners Microsoft, Kaspersky Lab, Trend Micro, and Japan Cyber Defense Institute, simultaneously seized command-and-control servers to neutralize the botnet used for personal and financial data theft."
@@ -149,6 +149,43 @@ Netherlands, United States, Russia, Luxembourg, Poland, Japan, Singapore
 > for this operation. Possible reasons: non-US jurisdiction with no
 > public court records system, sealed proceedings, or operation did
 > not result in formal prosecution.
+
+<!-- SOURCE_ENRICHMENT_START -->
+
+## Source Coverage
+
+- INTERPOL, 2015-04-13: INTERPOL: INTERPOL Coordinates Global Operation to Take Down Simda Botnet.
+- Kaspersky, 2015-04-13: Kaspersky Lab Joins Forces with INTERPOL, Industry and Law Enforcement Partners to Disrupt Simda Botnet.
+- Kaspersky, 2015-04-13: Simda botnet: a stealthy malware waiter.
+- Trend Micro, 2015-04-13: Trend Micro Joins INTERPOL Botnet Takedown, Presents at INTERPOL World 2015.
+- TechSpot, 2015-04-15: Interpol-led operation takes down the botnet that infected over 770K PCs.
+
+## Operational Timeline
+
+- 2015-04-09: activity or investigation start.
+- 2015-04-09: public announcement.
+- 2015-04-09: reported enforcement endpoint.
+- 2015-04-13: public source coverage from INTERPOL, Kaspersky, Trend Micro.
+- 2015-04-15: public source coverage from TechSpot.
+
+## Legal and Procedural Posture
+
+- Recorded crime classification: malware.
+- Recorded enforcement posture: Seizure and Takedown.
+- The record is categorized as takedown with status completed.
+
+## Evidence and Attribution Notes
+
+- Simda botnet takedown coordinated on 9 April 2015 by INTERPOL's Global Complex for Innovation (IGCI) in Singapore; public announcement on 13 April 2015
+- Simda had infected 770,000+ computers worldwide across 190+ countries; most-affected regions: United States, United Kingdom, Turkey, Canada, and Russia
+- 90,000+ new infections recorded in the United States alone during the first two months of 2015, highlighting the active-campaign status at time of takedown
+- 10 command-and-control servers seized in the Netherlands; additional servers taken down in the United States, Russia, Luxembourg, and Poland
+- Cooperation partners: INTERPOL IGCI (coordination), Microsoft Digital Crimes Unit (forensic intelligence), Kaspersky Lab, Trend Micro, Japan's Cyber Defense Institute, Dutch National High Tech Crime Unit, FBI, Luxembourg police, Russian Ministry of Interior cybercrime division (Department 'K')
+- Notable aspect: this operation is a *rare* example of Russian law enforcement (Dept.
+- K) participating in a multinational cybercrime takedown — one of the last such instances before 2022 geopolitical deterioration
+- Business model: Simda operators monetized via pay-per-install — charging criminal 'users' per successful malware installation for distributing other payloads
+
+<!-- SOURCE_ENRICHMENT_END -->
 
 ## References
 

@@ -55,7 +55,7 @@ sources:
   - "[[2025-05-21_bleepingcomputer-com_lumma-infostealer-malware-operation-disrupted-2300-domains-seized]]"
   - "[[2025-05-21_wired-com_lumma-stealer-takedown-disrupted]]"
 created: 2025-05-21
-updated: 2026-04-19
+updated: 2026-04-26
 operation_role: umbrella
 parent_operation: ""
 summary: "The Lumma Stealer takedown was a U.S.-led, Europol-supported, public-private operation that disrupted roughly 2,300 LummaC2 domains and combined Microsoft civil action with DOJ criminal seizure warrants."
@@ -112,6 +112,43 @@ The operation is notable because the cooperation model is explicit in the source
 - The operation did not produce public arrests, so operator attribution remains incomplete in the public record.
 - Some public summaries cite the coordination date differently because the civil filing, warrant execution, and public announcement happened on different days.
 - The current source set strongly supports disruption mechanics but less strongly supports long-term operator-side outcomes.
+
+<!-- SOURCE_ENRICHMENT_START -->
+
+## Source Coverage
+
+- Microsoft, 2025-05-21: Disrupting Lumma Stealer: Microsoft leads global action against favored cybercrime tool.
+- U.S. Department of Justice, 2025-05-21: Justice Department Seizes Domains Behind Major Information-Stealing Malware Operation.
+- Microsoft Security Blog, 2025-05-21: Lumma Stealer: Breaking down the delivery techniques and capabilities of a prolific infostealer.
+- BleepingComputer, 2025-05-21: Lumma infostealer malware operation disrupted, 2,300 domains seized.
+- WIRED, 2025-05-21: Authorities Carry Out Elaborate Global Takedown of Infostealer Heavily Used by Cybercriminals.
+
+## Operational Timeline
+
+- 2025-05-13: activity or investigation start.
+- 2025-05-21: public announcement.
+- 2025-05-21: reported enforcement endpoint.
+- 2025-05-21: public source coverage from BleepingComputer, Microsoft, Microsoft Security Blog, U.S. Department of Justice.
+
+## Legal and Procedural Posture
+
+- Recorded crime classification: hacking.
+- Recorded enforcement posture: Seizure and Takedown.
+- Legal or procedural basis recorded in metadata: Budapest Convention.
+- The record is categorized as takedown with status completed.
+
+## Evidence and Attribution Notes
+
+- Microsoft says approximately 2,300 Lumma-linked domains were seized, blocked, or redirected.
+- The post names DOJ, Europol EC3, and Japan's JC3 as partners.
+- Secure .gov websites use HTTPS A lock ( Lock Locked padlock ) or https:// means you’ve safely connected to the .gov website.
+- Microsoft details LummaC2's malware-as-a-service structure and delivery ecosystem.
+- The post confirms that disruption involved approximately 2,300 malicious domains.
+- BleepingComputer reported that 2,300 domains tied to Lumma were disrupted in a joint Microsoft-DOJ-Europol-Japan action.
+- The article highlighted the role of Europol and the Japan Cybercrime Control Center in regional infrastructure seizures.
+- WIRED reported that Lumma was disrupted through coordinated action involving Microsoft, DOJ, Europol, and Japan.
+
+<!-- SOURCE_ENRICHMENT_END -->
 
 ## References
 
