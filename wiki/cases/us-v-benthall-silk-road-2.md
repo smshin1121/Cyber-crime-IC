@@ -9,6 +9,7 @@ status: arrested
 crime_charged:
   - "[[online-fraud-ic]]"
   - "[[hacking-ic]]"
+  - "[[dark-web-ic]]"
 defendants:
   - name: "Blake Benthall"
     nationality: American
@@ -49,12 +50,13 @@ mechanisms_used:
 key_legal_issues:
   - "[[data-sovereignty]]"
   - "[[jurisdictional-conflicts]]"
+  - "[[dark-web-ic]]"
 precedent_value: "High - the case is the clearest U.S. judicial anchor for the Silk Road 2.0 component of Operation Onymous and shows how undercover access, foreign assistance, and coordinated site seizure were converted into a named federal prosecution."
 source_count: 1
 sources:
   - "[[2014-11-06_sdny_benthall-silk-road-2-complaint]]"
 created: 2026-04-17
-updated: 2026-04-17
+updated: "2026-04-26"
 summary: "United States v. Blake Benthall is the Southern District of New York criminal case tied to the Silk Road 2.0 segment of [[operation-onymous|Operation Onymous]]. It is the most concrete U.S. prosecutorial record identified so far for that broader takedown and therefore serves as the operation's primary case anchor."
 ---
 ## Summary

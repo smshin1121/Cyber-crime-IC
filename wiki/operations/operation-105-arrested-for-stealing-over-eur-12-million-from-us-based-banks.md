@@ -1,6 +1,6 @@
 ---
 type: operation
-title: "Operation Secreto Follow-on Enforcement Action"
+title: "Operation Secreto Follow-On Action"
 title_ko: "오퍼레이션 세크레토 후속 집행 조치"
 aliases:
   - "105 Arrested for Stealing Over EUR 12 Million from US-Based Banks"
@@ -80,7 +80,7 @@ sources:
   - "[[2021-02-04_greekreporter_greek-led-crime-ring-busted-for-stealing-millions-from-us-banks]]"
 summary: "This follow-on operation page captures the public enforcement results of Operation Secreto, a Europol-coordinated and U.S. Secret Service-supported action against a transatlantic payment-card fraud and laundering network."
 created: 2026-04-18
-updated: 2026-04-18
+updated: "2026-04-26"
 ---
 
 > [!note] Source basis

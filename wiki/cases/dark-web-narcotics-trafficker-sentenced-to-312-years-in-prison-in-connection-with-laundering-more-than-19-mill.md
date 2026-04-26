@@ -1,7 +1,7 @@
 ---
 type: case
 title: "Dark Web Narcotics Trafficker Sentenced To 3½ Years In Prison In Connection With Laundering More Than $19 Million"
-case_number: "Source-derived from 2020-02-12_sdny_hugh-haney-silk-road-laundering-sentencing"
+case_number: "Not specified in available source metadata"
 jurisdiction: "U.S. District Court, Southern District of New York"
 jurisdiction_country: "[[united-states]]"
 case_type: prosecution
@@ -29,25 +29,40 @@ cooperating_agencies:
   - "[[us-doj]]"
 key_legal_issues:
   - "[[drug-trafficking]]"
-precedent_value: "Source-derived official action page; procedural enrichment from primary filings may still be needed."
+precedent_value: "Official source-backed record; further primary filings can refine procedural detail."
 source_count: 1
 sources:
   - "[[2020-02-12_sdny_hugh-haney-silk-road-laundering-sentencing]]"
 created: 2026-04-18
-updated: 2026-04-18
-summary: "Dark Web Narcotics Trafficker Sentenced To 3½ Years In Prison In Connection With Laundering More Than $19 Million is a source-derived case page generated from [[2020-02-12_sdny_hugh-haney-silk-road-laundering-sentencing]]."
+updated: 2026-04-26
+summary: "Dark Web Narcotics Trafficker Sentenced To 3½ Years In Prison In Connection With Laundering More Than $19 Million is documented in the linked source material. On 12 February 2020, DOJ announced that Hugh Brian Haney was sentenced to 42 months in prison for laundering more than USD 19 million in profits from a narcotics trafficking operation he ran on Silk Road. Available source coverage includes US DOJ (Southern District of New York)."
 ---
 ## Summary
 
-Dark Web Narcotics Trafficker Sentenced To 3½ Years In Prison In Connection With Laundering More Than $19 Million is a source-derived case page generated from [[2020-02-12_sdny_hugh-haney-silk-road-laundering-sentencing]].
+Dark Web Narcotics Trafficker Sentenced To 3½ Years In Prison In Connection With Laundering More Than $19 Million is documented in the linked source material. On 12 February 2020, DOJ announced that Hugh Brian Haney was sentenced to 42 months in prison for laundering more than USD 19 million in profits from a narcotics trafficking operation he ran on Silk Road. Available source coverage includes US DOJ (Southern District of New York).
 
-## Facts
+## Source Coverage
 
-This case page was generated from [[2020-02-12_sdny_hugh-haney-silk-road-laundering-sentencing]] and reflects an official action title from the source corpus.
+- US DOJ (Southern District of New York), 2020-02-12: Dark Web Narcotics Trafficker Sentenced To 3½ Years In Prison In Connection With Laundering More Than $19 Million.
 
-## Legal Analysis
+## Operational Timeline
 
-The present page is a structured placeholder built from source metadata and may require refinement from primary filings.
+- 2020-02-12: public source coverage from US DOJ (Southern District of New York).
+
+## International Cooperation Details
+
+- Named agencies and partners include Us Doj.
+
+## Legal and Procedural Posture
+
+- Recorded crime classification: Drug Trafficking and online fraud.
+- The record is categorized as prosecution with status sentenced.
+
+## Evidence and Attribution Notes
+
+- On 12 February 2020, DOJ announced that Hugh Brian Haney was sentenced to 42 months in prison for laundering more than USD 19 million in profits from a narcotics trafficking operation he ran on Silk Road.
+- The case is useful because it emphasizes the laundering side of a Silk Road vendor operation rather than the trafficking counts alone.
+
 
 ## References
 

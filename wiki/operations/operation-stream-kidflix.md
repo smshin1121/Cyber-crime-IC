@@ -120,7 +120,6 @@ The public record supports a long-running multinational investigative model cent
 - Dutch National Police, 2025-04-03: Kinderpornografisch platform KidFlix offline gehaald.
 - Security Affairs / TRM Labs, 2025-04-04: Europol-led Operation Stream Takes Down Kidflix CSAM Platform.
 - BleepingComputer, 2025-04-02: Police shuts down KidFlix child sexual exploitation platform.
-- eucrim, 2025-05-15: Pedophile Platform 'Kidflix' Shut Down.
 
 ## Operational Timeline
 

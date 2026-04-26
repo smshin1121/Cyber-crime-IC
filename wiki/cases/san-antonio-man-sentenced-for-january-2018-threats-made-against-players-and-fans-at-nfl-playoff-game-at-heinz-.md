@@ -1,7 +1,7 @@
 ---
 type: case
 title: "San Antonio Man Sentenced for January 2018 Threats Made Against Players and Fans at NFL Playoff Game at Heinz Field"
-case_number: "Source-derived from 2026-04-18_justice-gov_san-antonio-man-sentenced-january-2018-threats-made-against-players-and-fans-nfl"
+case_number: "Not specified in available source metadata"
 jurisdiction: "U.S. federal prosecution (district not specified in source)"
 jurisdiction_country: "[[united-states]]"
 case_type: prosecution
@@ -33,29 +33,37 @@ mechanisms_used:
   - "[[informal-cooperation]]"
 key_legal_issues:
   - "[[online-fraud-ic]]"
-precedent_value: "Source-derived official action page; procedural enrichment from primary filings may still be needed."
+precedent_value: "Official source-backed record; further primary filings can refine procedural detail."
 source_count: 1
 sources:
   - "[[2026-04-18_justice-gov_san-antonio-man-sentenced-january-2018-threats-made-against-players-and-fans-nfl]]"
 created: 2026-04-18
-updated: 2026-04-18
-summary: "San Antonio Man Sentenced for January 2018 Threats Made Against Players and Fans at NFL Playoff Game at Heinz Field is a source-derived case page generated from [[2026-04-18_justice-gov_san-antonio-man-sentenced-january-2018-threats-made-against-players-and-fans-nfl]]."
+updated: "2026-04-26"
+summary: "San Antonio Man Sentenced for January 2018 Threats Made Against Players and Fans at NFL Playoff Game at Heinz Field is documented in the linked source material. Available source coverage includes US DOJ USAO."
 ---
 ## Summary
 
-San Antonio Man Sentenced for January 2018 Threats Made Against Players and Fans at NFL Playoff Game at Heinz Field is a source-derived case page generated from [[2026-04-18_justice-gov_san-antonio-man-sentenced-january-2018-threats-made-against-players-and-fans-nfl]].
+San Antonio Man Sentenced for January 2018 Threats Made Against Players and Fans at NFL Playoff Game at Heinz Field is documented in the linked source material. Available source coverage includes US DOJ USAO.
 
-## Facts
+## Source Coverage
 
-This case page was generated from [[2026-04-18_justice-gov_san-antonio-man-sentenced-january-2018-threats-made-against-players-and-fans-nfl]] and reflects an official action title from the source corpus.
+- US DOJ USAO, 2018-11-27: San Antonio Man Sentenced for January 2018 Threats Made Against Players and Fans at NFL Playoff Game at Heinz Field.
 
-## International Cooperation Elements
+## Operational Timeline
 
-This source-derived page should be enriched with case-level cooperation detail if primary filings or fuller official narratives are collected.
+- 2018-11-27: public source coverage from US DOJ USAO.
 
-## Legal Analysis
+## International Cooperation Details
 
-The present page is a structured placeholder built from source metadata and may require refinement from primary filings.
+- Named agencies and partners include Us Doj.
+- Recorded cooperation mechanisms include informal cooperation.
+
+## Legal and Procedural Posture
+
+- Recorded crime classification: online fraud.
+- Legal or procedural basis recorded in metadata: informal cooperation.
+- The record is categorized as prosecution with status sentenced.
+- Related legal or operational records: Operation San Antonio Man Sentenced For January 2018 Threats Made Against Players And Fans At Nfl Playoff Game At Heinz.
 
 ## References
 

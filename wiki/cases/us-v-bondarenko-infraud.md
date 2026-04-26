@@ -9,6 +9,7 @@ status: convicted
 crime_charged:
   - "[[online-fraud-ic]]"
   - "[[cybercrime-forum-ic]]"
+  - "[[malware-ic]]"
 defendants:
   - name: "Svyatoslav Bondarenko"
     nationality: Ukrainian
@@ -63,12 +64,13 @@ mechanisms_used:
 key_legal_issues:
   - "[[data-sovereignty]]"
   - "[[jurisdictional-conflicts]]"
+  - "[[malware-ic]]"
 precedent_value: "High — largest cybercrime forum prosecution by defendant count (36 indicted); RICO applied to cybercrime forum"
-source_count: 1
+source_count: 2
 sources:
   - "[[2018-02-07_nv_infraud-organization-indictment]]"
 created: 2026-04-12
-updated: 2026-04-12
+updated: "2026-04-26"
 summary: "United States v. Bondarenko et al. is the prosecution of 36 members of the Infraud Organization, a transnational cybercrime forum that operated from October 2010 to February 2018 under the slogan \"In Fraud We Trust.\" The nine-count superseding indictment, unsealed on 7 February 2018, charged the defendants with racketeering conspiracy (RICO), identity theft, wire fraud, and computer fraud. Actual losses exceeded USD 568 million, with intended losses exceeding USD 2.2 billion."
 ---
 ## Summary

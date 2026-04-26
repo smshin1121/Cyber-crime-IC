@@ -1,7 +1,7 @@
 ---
 type: case
 title: "Gulfport Man Sentenced to 87 Months for Possession of Videos and Images of Minors Engaging in Sexually Explicit Conduct"
-case_number: "Source-derived from 2026-04-18_justice-gov_gulfport-man-sentenced-87-months-possession-videos-and-images-minors-engaging-sexually"
+case_number: "Not specified in available source metadata"
 jurisdiction: "U.S. federal prosecution (district not specified in source)"
 jurisdiction_country: "[[united-states]]"
 case_type: prosecution
@@ -18,25 +18,47 @@ cooperating_agencies:
   - "[[us-doj]]"
 key_legal_issues:
   - "[[online-fraud-ic]]"
-precedent_value: "Source-derived official action page; procedural enrichment from primary filings may still be needed."
+precedent_value: "Official source-backed record; further primary filings can refine procedural detail."
 source_count: 1
 sources:
   - "[[2026-04-18_justice-gov_gulfport-man-sentenced-87-months-possession-videos-and-images-minors-engaging-sexually]]"
 created: 2026-04-18
-updated: 2026-04-18
-summary: "Gulfport Man Sentenced to 87 Months for Possession of Videos and Images of Minors Engaging in Sexually Explicit Conduct is a source-derived case page generated from [[2026-04-18_justice-gov_gulfport-man-sentenced-87-months-possession-videos-and-images-minors-engaging-sexually]]."
+updated: 2026-04-26
+summary: "Gulfport Man Sentenced to 87 Months for Possession of Videos and Images of Minors Engaging in Sexually Explicit Conduct is documented in the linked source material. Available source coverage includes US DOJ USAO."
 ---
 ## Summary
 
-Gulfport Man Sentenced to 87 Months for Possession of Videos and Images of Minors Engaging in Sexually Explicit Conduct is a source-derived case page generated from [[2026-04-18_justice-gov_gulfport-man-sentenced-87-months-possession-videos-and-images-minors-engaging-sexually]].
+Gulfport Man Sentenced to 87 Months for Possession of Videos and Images of Minors Engaging in Sexually Explicit Conduct is documented in the linked source material. Available source coverage includes US DOJ USAO.
 
-## Facts
+## Source Coverage
 
-This case page was generated from [[2026-04-18_justice-gov_gulfport-man-sentenced-87-months-possession-videos-and-images-minors-engaging-sexually]] and reflects an official action title from the source corpus.
+- US DOJ USAO, 2025-07-30: Gulfport Man Sentenced to 87 Months for Possession of Videos and Images of Minors Engaging in Sexually Explicit Conduct.
 
-## Legal Analysis
+## Operational Timeline
 
-The present page is a structured placeholder built from source metadata and may require refinement from primary filings.
+- 2025-07-30: public source coverage from US DOJ USAO.
+
+## International Cooperation Details
+
+- Named agencies and partners include Us Doj.
+
+## Legal and Procedural Posture
+
+- Recorded crime classification: online fraud.
+- The record is categorized as prosecution with status sentenced.
+
+## Evidence and Attribution Notes
+
+- US DOJ USAO has a parsed source text of 610 words available for further review.
+
+<!-- RAW_TEXT_HIGHLIGHTS_START -->
+
+## Raw Source Highlights
+
+- US DOJ USAO, 2025-07-30: Attorney's Office, Southern District of Mississippi Gulfport, MS – A Gulfport, Mississippi man was sentenced yesterday to 87 months in prison, followed by twenty-five years of supervised release, for possessing images and videos of minors engaging in sexually explicit conduct.
+- US DOJ USAO, 2025-07-30: In May 2020, HSI and the Mississippi Attorney General’s Office, Cybercrime Division, seized the defendant’s cellphone.
+
+<!-- RAW_TEXT_HIGHLIGHTS_END -->
 
 ## References
 

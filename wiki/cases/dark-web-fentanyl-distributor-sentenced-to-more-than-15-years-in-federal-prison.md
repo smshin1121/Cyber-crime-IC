@@ -1,13 +1,14 @@
 ---
 type: case
 title: "Dark Web Fentanyl Distributor Sentenced To More Than 15 Years In Federal Prison"
-case_number: "Source-derived from 2025-04-10_justice-gov_united-states-v-james-bookman"
+case_number: "Not specified in available source metadata"
 jurisdiction: "U.S. District Court, Middle District of Florida"
 jurisdiction_country: "[[united-states]]"
 case_type: prosecution
 status: sentenced
 crime_charged:
   - "[[online-fraud-ic]]"
+  - "[[dark-web-ic]]"
 defendants:
   - name: "To More Than"
     nationality: Unknown
@@ -33,25 +34,38 @@ cooperating_agencies:
   - "[[us-doj]]"
 key_legal_issues:
   - "[[online-fraud-ic]]"
-precedent_value: "Source-derived official action page; procedural enrichment from primary filings may still be needed."
+  - "[[dark-web-ic]]"
+precedent_value: "Official source-backed record; further primary filings can refine procedural detail."
 source_count: 1
 sources:
   - "[[2025-04-10_justice-gov_united-states-v-james-bookman]]"
 created: 2026-04-18
-updated: 2026-04-18
-summary: "Dark Web Fentanyl Distributor Sentenced To More Than 15 Years In Federal Prison is a source-derived case page generated from [[2025-04-10_justice-gov_united-states-v-james-bookman]]."
+updated: "2026-04-26"
+summary: "Dark Web Fentanyl Distributor Sentenced To More Than 15 Years In Federal Prison is documented in the linked source material. James Bookman (Dark Web Fentanyl Distributor) Enforcement Action is a follow-on operation catalog record tied to Us V Bookman Dark Web. Available source coverage includes US DOJ (Middle District of Florida)."
 ---
 ## Summary
 
-Dark Web Fentanyl Distributor Sentenced To More Than 15 Years In Federal Prison is a source-derived case page generated from [[2025-04-10_justice-gov_united-states-v-james-bookman]].
+Dark Web Fentanyl Distributor Sentenced To More Than 15 Years In Federal Prison is documented in the linked source material. James Bookman (Dark Web Fentanyl Distributor) Enforcement Action is a follow-on operation catalog record tied to Us V Bookman Dark Web. Available source coverage includes US DOJ (Middle District of Florida).
 
-## Facts
+## Source Coverage
 
-This case page was generated from [[2025-04-10_justice-gov_united-states-v-james-bookman]] and reflects an official action title from the source corpus.
+- US DOJ (Middle District of Florida), 2025-04-10: Dark Web Fentanyl Distributor Sentenced To More Than 15 Years In Federal Prison.
 
-## Legal Analysis
+## Operational Timeline
 
-The present page is a structured placeholder built from source metadata and may require refinement from primary filings.
+- 2025-04-10: public source coverage from US DOJ (Middle District of Florida).
+
+## International Cooperation Details
+
+- Named agencies and partners include Us Doj.
+
+## Legal and Procedural Posture
+
+- Recorded crime classification: online fraud and dark web.
+- The record is categorized as prosecution with status sentenced.
+
+## Evidence and Attribution Notes
+
 
 ## References
 

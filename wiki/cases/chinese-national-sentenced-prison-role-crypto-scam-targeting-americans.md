@@ -1,7 +1,7 @@
 ---
 type: case
 title: "United States v. Jingliang Su"
-case_number: "Source-derived from 2026-04-18_justice-gov_chinese-national-sentenced-prison-role-crypto-scam-targeting-americans"
+case_number: "Not specified in available source metadata"
 jurisdiction: "U.S. federal prosecution (district not specified in source)"
 jurisdiction_country: "[[united-states]]"
 case_type: prosecution
@@ -38,24 +38,36 @@ source_count: 1
 sources:
   - "[[2026-04-18_justice-gov_chinese-national-sentenced-prison-role-crypto-scam-targeting-americans]]"
 created: 2026-04-18
-updated: 2026-04-18
-summary: "United States v. Jingliang Su is a source-derived case page generated from [[2026-04-18_justice-gov_chinese-national-sentenced-prison-role-crypto-scam-targeting-americans]]."
+updated: "2026-04-26"
+summary: "United States v. Jingliang Su is documented in the linked source material. Eight co-conspirators have pleaded guilty so far, including Jose Somarriba Available source coverage includes US DOJ (Office of Public Affairs)."
 ---
 ## Summary
 
-United States v. Jingliang Su is a source-derived case page generated from [[2026-04-18_justice-gov_chinese-national-sentenced-prison-role-crypto-scam-targeting-americans]].
+United States v. Jingliang Su is documented in the linked source material. Eight co-conspirators have pleaded guilty so far, including Jose Somarriba Available source coverage includes US DOJ (Office of Public Affairs).
 
-## Facts
+## Source Coverage
 
-This case page was generated from [[2026-04-18_justice-gov_chinese-national-sentenced-prison-role-crypto-scam-targeting-americans]] and should be expanded with primary-court detail where available.
+- US DOJ (Office of Public Affairs), 2026-01-27: Chinese National Sentenced to Prison for Role in Crypto Scam Targeting Americans.
 
-## International Cooperation Elements
+## Operational Timeline
 
-The currently collected source indicates a transnational cybercrime enforcement context, but the specific cross-border mechanisms still need case-level enrichment.
+- 2026-01-27: public source coverage from US DOJ (Office of Public Affairs).
 
-## Legal Analysis
+## International Cooperation Details
 
-The present page is a structured placeholder built from source metadata and should be refined as additional filings or official summaries are collected.
+- Named agencies and partners include Us Doj.
+- Recorded cooperation mechanisms include informal cooperation.
+
+## Legal and Procedural Posture
+
+- Recorded crime classification: online fraud.
+- Legal or procedural basis recorded in metadata: informal cooperation.
+- The record is categorized as prosecution with status sentenced.
+- Related legal or operational records: Operation Chinese National Sentenced Prison Role Crypto Scam Targeting Americans.
+
+## Evidence and Attribution Notes
+
+- Eight co-conspirators have pleaded guilty so far, including Jose Somarriba
 
 ## References
 

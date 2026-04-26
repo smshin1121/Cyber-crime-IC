@@ -1,7 +1,7 @@
 ---
 type: case
 title: "Delaware Doctor Who Illegally Sold Controlled Substances On The Silk Road Drug Marketplace Sentenced To Five Years In Prison"
-case_number: "Source-derived from 2015-04-27_justice-gov_united-states-v-olivia-bolles"
+case_number: "Not specified in available source metadata"
 jurisdiction: "U.S. District Court, Middle District of Florida"
 jurisdiction_country: "[[united-states]]"
 case_type: prosecution
@@ -37,29 +37,39 @@ mechanisms_used:
   - "[[informal-cooperation]]"
 key_legal_issues:
   - "[[drug-trafficking]]"
-precedent_value: "Source-derived official action page; procedural enrichment from primary filings may still be needed."
+precedent_value: "Official source-backed record; further primary filings can refine procedural detail."
 source_count: 1
 sources:
   - "[[2015-04-27_justice-gov_united-states-v-olivia-bolles]]"
 created: 2026-04-18
-updated: 2026-04-18
-summary: "Delaware Doctor Who Illegally Sold Controlled Substances On The Silk Road Drug Marketplace Sentenced To Five Years In Prison is a source-derived case page generated from [[2015-04-27_justice-gov_united-states-v-olivia-bolles]]."
+updated: "2026-04-26"
+summary: "Delaware Doctor Who Illegally Sold Controlled Substances On The Silk Road Drug Marketplace Sentenced To Five Years In Prison is documented in the linked source material. Olivia Bolles (Silk Road Vendor) Enforcement Action is a follow-on operation catalog record tied to Us V Olivia Bolles Silk Road. Available source coverage includes US DOJ (Middle District of Florida)."
 ---
 ## Summary
 
-Delaware Doctor Who Illegally Sold Controlled Substances On The Silk Road Drug Marketplace Sentenced To Five Years In Prison is a source-derived case page generated from [[2015-04-27_justice-gov_united-states-v-olivia-bolles]].
+Delaware Doctor Who Illegally Sold Controlled Substances On The Silk Road Drug Marketplace Sentenced To Five Years In Prison is documented in the linked source material. Olivia Bolles (Silk Road Vendor) Enforcement Action is a follow-on operation catalog record tied to Us V Olivia Bolles Silk Road. Available source coverage includes US DOJ (Middle District of Florida).
 
-## Facts
+## Source Coverage
 
-This case page was generated from [[2015-04-27_justice-gov_united-states-v-olivia-bolles]] and reflects an official action title from the source corpus.
+- US DOJ (Middle District of Florida), 2015-04-27: Delaware Doctor Who Illegally Sold Controlled Substances On The Silk Road Drug Marketplace Sentenced To Five Years In Prison.
 
-## International Cooperation Elements
+## Operational Timeline
 
-This source-derived page should be enriched with case-level cooperation detail if primary filings or fuller official narratives are collected.
+- 2015-04-27: public source coverage from US DOJ (Middle District of Florida).
 
-## Legal Analysis
+## International Cooperation Details
 
-The present page is a structured placeholder built from source metadata and may require refinement from primary filings.
+- Named agencies and partners include Us Doj.
+- Recorded cooperation mechanisms include informal cooperation.
+
+## Legal and Procedural Posture
+
+- Recorded crime classification: Drug Trafficking.
+- Legal or procedural basis recorded in metadata: informal cooperation.
+- The record is categorized as prosecution with status sentenced.
+
+## Evidence and Attribution Notes
+
 
 ## References
 

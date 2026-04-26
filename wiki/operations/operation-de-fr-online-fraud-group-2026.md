@@ -98,10 +98,6 @@ According to Eurojust, the group used phishing emails to gain access to online-b
 
 ## Results and Impact
 
-- three suspects arrested
-- searches conducted in France and Germany
-- cryptocurrencies and jewellery seized
-- additional evidence collected for continuing investigation
 
 <!-- SOURCE_ENRICHMENT_START -->
 

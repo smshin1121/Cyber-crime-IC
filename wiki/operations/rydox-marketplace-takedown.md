@@ -74,7 +74,7 @@ sources:
   - "[[2024-12-13_securityaffairs-com_us-authorities-seized-marketplace-rydox]]"
   - "[[2024-12-16_bitdefender-com_rydox-cybercrime-marketplace-seized-by-law-enforcement-suspected-admins-arrested]]"
 created: 2026-04-08
-updated: 2026-04-09
+updated: 2026-04-26
 operation_role: umbrella
 parent_operation: ""
 summary: "On 2024-12-12, U.S. and partner authorities disrupted the Rydox cybercrime marketplace, arrested administrators in Kosovo and Albania, seized infrastructure in Malaysia, and restrained the Rydox domain and roughly $225,000 in cryptocurrency."
@@ -117,8 +117,6 @@ That combination made Rydox more than a single fraud storefront. It functioned a
 
 The public DOJ record clearly supports three mechanisms:
 
-- domain seizure of the Rydox marketplace
-- extradition-related action tied to the Kosovo arrests and U.S. request
 - [[mutual-legal-assistance|cross-border cooperation]] to synchronize arrests and infrastructure action
 
 The announcement also states that one defendant was expected to face domestic prosecution in Albania, illustrating that not every participant in the same coordinated action is necessarily routed into the same U.S. case.
@@ -162,6 +160,28 @@ The reported product volume and user count indicate that Rydox was not a margina
 ## Follow-Up Actions
 
 The defendant-specific case record is [[us-v-kutleshi-rydox]], with a linked follow-on enforcement page at [[operation-us-v-kutleshi-rydox]]. Additional public proceedings may emerge if extradition or local prosecutions become more visible.
+
+<!-- SOURCE_ENRICHMENT_START -->
+
+## Source Coverage
+
+- US DOJ (Western District of Pennsylvania), 2024-12-12: Rydox Cybercrime Marketplace Shut Down and Three Administrators Arrested.
+- CyberScoop, 2024-12-12: Cybercriminal marketplace Rydox seized in international law enforcement operation.
+- TechNadu, 2024-12-13: Kosovo Police Shuts Down Rydox Cybercrime Marketplace and Arrests Admins.
+- Security Affairs, 2024-12-13: U.S. authorities seized cybercrime marketplace Rydox.
+- Bitdefender, 2024-12-16: Rydox cybercrime marketplace seized by law enforcement, suspected admins arrested.
+
+## Evidence and Attribution Notes
+
+- On 12 December 2024, DOJ announced the seizure of the Rydox cybercrime marketplace and the arrest of two alleged administrators, Ardit Kutleshi and Jetmir Kutleshi, in Kosovo pursuant to a U.S.
+- DOJ said the indictment had been unsealed that day in the Western District of Pennsylvania.
+- Those products included stolen personal information, access devices, login credentials, scam pages, and spamming tools affecting thousands of U.S.
+- The same announcement described a coordinated international action involving Kosovo, Albania, and Malaysia.
+- A third alleged administrator, Shpend Sokoli, was arrested in Albania for expected domestic prosecution, while Malaysian authorities and the FBI seized the servers in Kuala Lumpur.
+- DOJ also said the United States obtained authorization to seize the Rydox.cc domain and about USD 225,000 in cryptocurrency.
+- CyberScoop reported the coordinated seizure of the Rydox marketplace and the arrests of three alleged administrators in Kosovo and Albania.
+
+<!-- SOURCE_ENRICHMENT_END -->
 
 ## References
 

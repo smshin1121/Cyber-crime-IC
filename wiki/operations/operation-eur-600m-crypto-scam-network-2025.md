@@ -96,8 +96,6 @@ French, Belgian, Cypriot, German, and Spanish authorities worked with Eurojust t
 
 ## Results and Impact
 
-- nine suspects arrested
-- searches and arrests in Cyprus, Spain, and Germany
 - EUR 800,000 in bank accounts, EUR 415,000 in cryptocurrency, and EUR 300,000 in cash seized
 
 ## Asset and Laundering Pattern

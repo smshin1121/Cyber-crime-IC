@@ -87,7 +87,7 @@ sources:
   - "[[2024-07-26_indianexpress-com_cbi-busts-cyber-crime-network-operating-from-gurugram-43-arrested]]"
   - "[[2024-07-26_tribuneindia-com_cbi-busts-gurugram-call-centre-that-duped-foreigners-nabs-43-cyber-criminals]]"
 created: 2026-04-10
-updated: 2026-04-10
+updated: "2026-04-26"
 operation_role: umbrella
 parent_operation: ""
 summary: "Operation Chakra-III was the third phase of India's Central Bureau of Investigation (CBI) ongoing multi-phase campaign against transnational cyber-enabled financial crime. Launched in July 2024 with case registration RC2312024S0007, the operation targeted tech-support scam call centers operating from multiple Indian cities — principally Gurugram, Mumbai, Pune, Hyderabad, and Visakhapatnam — that defrauded victims in the United States and other countries. The CBI collaborated with the FBI, Homeland Security Investigations (HSI), and [[interpol|INTERPOL]], resulting in 43 arrests and the seizure of substantial evidence including gold bullion, cash, luxury vehicles, and over 950 electronic devices."
@@ -101,6 +101,7 @@ organizations:
   - "[[us-dhs]]"
 crime_types:
   - "[[online-fraud-ic]]"
+  - "[[malware-ic]]"
 ---
 ## Summary
 

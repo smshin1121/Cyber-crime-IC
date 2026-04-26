@@ -79,6 +79,7 @@ organizations:
   - "[[us-doj]]"
 crime_types:
   - "[[hacking-ic]]"
+  - "[[malware-ic]]"
 ---
 > [!note] Source basis
 > This page has been rebuilt from a malformed dual-frontmatter draft. It now rests on a BKA / Europol-side source page plus DOJ's official January 30, 2025 announcement.
@@ -160,7 +161,6 @@ The sources clearly support synchronized multinational police action with Europo
 
 - German authorities led an internationally coordinated action against Cracked and Nulled.
 - The operation produced two arrests, 17 server seizures, and wide evidence capture.
-- Secure .gov websites use HTTPS A lock ( Lock Locked padlock ) or https:// means you’ve safely connected to the .gov website.
 - Cybernews reported that Cracked and Nulled were seized in the Germany-led Operation Talent.
 - The report noted related action against Sellix and StarkRDP and the scale of the two forums' user bases.
 - Cybernews reported on the seizure of **Cracked** and **Nulled** under **Operation Talent**, including disruption of supporting services.

@@ -71,6 +71,7 @@ organizations:
   - "[[fbi-cyber-division|FBI]]"
 crime_types:
   - "[[online-fraud-ic|Online Fraud / Cybercrime Services]]"
+  - "[[dark-web-ic]]"
 ---
 ## Summary
 
@@ -82,10 +83,6 @@ Nemesis Market was a Tor-accessible darknet marketplace used for drugs, stolen d
 
 ## Results
 
-- infrastructure seized in Germany and Lithuania
-- cryptocurrency seized: EUR 94,000 according to the BKA press release
-- more than 150,000 user accounts and more than 1,100 vendor accounts exposed
-- no operator arrest announced at takedown stage
 
 ## Cooperation And Legal Analysis
 
@@ -114,10 +111,8 @@ Nemesis is a useful contrast with older darknet-market cases because the public 
 
 - BKA and ZIT announced on 21 March 2024 that the Nemesis Market server infrastructure in Germany and Lithuania had been seized in a coordinated action conducted on 20 March 2024.
 - The official BKA release reported over 150,000 user accounts, over 1,100 seller accounts, and cryptocurrency seizures valued at EUR 94,000.
-- and Lithuanian authorities had been conducting coordinated investigations since October 2022.
 - This BKA/ZIT press-release metadata was captured from the official BKA press-result page.
 - It confirms the date of the coordinated Nemesis takedown, the German-Lithuanian server seizure, the EUR 94,000 cryptocurrency seizure figure, and the U.S.-German-Lithuanian cooperation pattern.
-- Secure .gov websites use HTTPS A lock ( Lock Locked padlock ) or https:// means you’ve safely connected to the .gov website.
 - DOJ announced on 17 April 2025 that Behrouz Parsarad was charged for founding and operating Nemesis Market.
 - The release ties the later criminal case to the 20 March 2024 multinational infrastructure seizure and explicitly highlights German and Lithuanian assistance.
 

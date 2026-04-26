@@ -68,7 +68,7 @@ updated: 2026-04-26
 ---
 ## Summary
 
-Foreign Nationals Sentenced for Roles in Transnational Cybercrime Enterprise Enforcement Action is a defendant-specific enforcement action page derived from [[foreign-nationals-sentenced-for-roles-in-transnational-cybercrime-enterprise]]. It captures the prosecutorial or seizure stage reflected in the linked case record and preserves the operation-side catalog entry for this follow-on action.
+Foreign Nationals Sentenced for Roles in Transnational Cybercrime Enterprise Enforcement Action is a follow-on operation catalog record tied to [[foreign-nationals-sentenced-for-roles-in-transnational-cybercrime-enterprise]]. It preserves the operation-side pointer for the related case record.
 
 ## Background
 
@@ -84,6 +84,17 @@ The underlying public case record identifies Foreign Nationals Sentenced for Rol
 - Operation type: `sentencing`
 - Case anchor: [[foreign-nationals-sentenced-for-roles-in-transnational-cybercrime-enterprise]]
 - Source coverage: 1 official or catalogued source page(s)
+
+<!-- RAW_TEXT_HIGHLIGHTS_START -->
+
+## Raw Source Highlights
+
+- ICE (HSI), 2026-04-17: ET: Results of Nationwide Law Enforcement Effort Press Conference ICE Check-in for Aliens Get information about how to check in with your local ICE Office here .
+- ICE (HSI), 2026-04-17: Immigration and Customs Enforcement Learn More About ICE " class="we-megamenu-nolink" title="Click here to open the Enforcement and Removal Operations menu"> Enforcement and Removal Operations Identify and Arrest Criminal Alien Program Fugitive Operations Law Enforcement Partnerships 287g Program Immigration Fraud Prosecutions Detain.
+- ICE (HSI), 2026-04-17: News about HSI Protecting National Security Preventing Crimes of Exploitation Operation Identify Ensuring Public Safety Upholding the Law in Global Trade Investigating Cybercrime Combating Financial Crime Student and Exchange Visitor Program (SEVP) " class="we-megamenu-nolink" title="Click here to open the Newsroom menu"> Newsroom News.
+- ICE (HSI), 2026-04-17: From November 2010 until Infraud was taken down by law enforcement in February 2018, Medvedev was an active participant in the Infraud online forum, operating an “escrow” service to facilitate illegal transactions among Infraud members.
+
+<!-- RAW_TEXT_HIGHLIGHTS_END -->
 
 ## References
 

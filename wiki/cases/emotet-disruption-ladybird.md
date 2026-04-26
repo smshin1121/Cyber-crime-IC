@@ -51,11 +51,11 @@ key_legal_issues:
   - "[[data-sovereignty]]"
   - "[[jurisdictional-conflicts]]"
 precedent_value: "High — first large-scale law enforcement-controlled malware remediation (uninstall module deployed to infected machines worldwide via botnet's own update mechanism)"
-source_count: 1
+source_count: 3
 sources:
   - "[[2021-01-27_mdnc_emotet-disruption-order]]"
 created: 2026-04-12
-updated: 2026-04-12
+updated: "2026-04-26"
 summary: "The Emotet disruption (Operation LadyBird) was an internationally coordinated law enforcement action on 27 January 2021 to take down the Emotet botnet, described by Europol as \"the world's most dangerous malware.\" Eight countries participated: Netherlands, Germany, United States, United Kingdom, France, Lithuania, Canada, and Ukraine. The operation seized approximately 700 C2 servers and 2,000+ domains, arrested two suspects in Kharkiv, Ukraine, and — in a technically innovative move — deployed a law enforcement-controlled uninstall module to infected machines worldwide, activating on 25 April 2021."
 ---
 ## Summary

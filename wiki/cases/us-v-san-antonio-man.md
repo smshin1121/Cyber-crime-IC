@@ -1,7 +1,7 @@
 ---
 type: case
 title: "United States v. San Antonio Man"
-case_number: "Source-derived from 2026-04-18_justice-gov_san-antonio-man-sentenced-january-2018-threats-made-against-players-and-fans-nfl"
+case_number: "Not specified in available source metadata"
 jurisdiction: "U.S. federal prosecution (district not specified in source)"
 jurisdiction_country: "[[united-states]]"
 case_type: prosecution
@@ -38,24 +38,32 @@ source_count: 1
 sources:
   - "[[2026-04-18_justice-gov_san-antonio-man-sentenced-january-2018-threats-made-against-players-and-fans-nfl]]"
 created: 2026-04-18
-updated: 2026-04-18
-summary: "United States v. San Antonio Man is a source-derived case page generated from [[2026-04-18_justice-gov_san-antonio-man-sentenced-january-2018-threats-made-against-players-and-fans-nfl]]."
+updated: "2026-04-26"
+summary: "United States v. San Antonio Man is documented in the linked source material. Available source coverage includes US DOJ USAO."
 ---
 ## Summary
 
-United States v. San Antonio Man is a source-derived case page generated from [[2026-04-18_justice-gov_san-antonio-man-sentenced-january-2018-threats-made-against-players-and-fans-nfl]].
+United States v. San Antonio Man is documented in the linked source material. Available source coverage includes US DOJ USAO.
 
-## Facts
+## Source Coverage
 
-This case page was generated from [[2026-04-18_justice-gov_san-antonio-man-sentenced-january-2018-threats-made-against-players-and-fans-nfl]] and should be expanded with primary-court detail where available.
+- US DOJ USAO, 2018-11-27: San Antonio Man Sentenced for January 2018 Threats Made Against Players and Fans at NFL Playoff Game at Heinz Field.
 
-## International Cooperation Elements
+## Operational Timeline
 
-The currently collected source indicates a transnational cybercrime enforcement context, but the specific cross-border mechanisms still need case-level enrichment.
+- 2018-11-27: public source coverage from US DOJ USAO.
 
-## Legal Analysis
+## International Cooperation Details
 
-The present page is a structured placeholder built from source metadata and should be refined as additional filings or official summaries are collected.
+- Named agencies and partners include Us Doj.
+- Recorded cooperation mechanisms include informal cooperation.
+
+## Legal and Procedural Posture
+
+- Recorded crime classification: online fraud.
+- Legal or procedural basis recorded in metadata: informal cooperation.
+- The record is categorized as prosecution with status sentenced.
+- Related legal or operational records: Operation Us V San Antonio Man.
 
 ## References
 

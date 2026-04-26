@@ -9,6 +9,7 @@ status: convicted
 crime_charged:
   - "[[bec-ic]]"
   - "[[online-fraud-ic]]"
+  - "[[malware-ic]]"
 defendants:
   - name: "Adeyemi Odufuye"
     nationality: Nigerian
@@ -54,12 +55,13 @@ mechanisms_used:
 key_legal_issues:
   - "[[jurisdictional-conflicts]]"
   - "[[extraterritorial-jurisdiction]]"
+  - "[[malware-ic]]"
 precedent_value: "High - the case is a strong BEC precedent because it couples a U.S. spoofing-and-wire-fraud prosecution with successful extraditions from two foreign jurisdictions, including a rare Mauritius transfer."
 source_count: 1
 sources:
   - "[[2016-12-20_dct_odufuye-nwoke-bec-indictment]]"
 created: 2026-04-17
-updated: 2026-04-17
+updated: "2026-04-26"
 summary: "United States v. Odufuye and Nwoke is a District of Connecticut BEC case that provides a concrete judicial counterpart to [[operation-wirewire|Operation WireWire]]. The case matters because it moved beyond arrest headlines into extradition, guilty pleas, sentencing, and restitution."
 ---
 ## Summary

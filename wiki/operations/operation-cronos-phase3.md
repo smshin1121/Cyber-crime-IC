@@ -106,7 +106,7 @@ sources:
   - "[[2026-01-28_gov-uk_financial-sanctions-guidance-for-ransomware]]"
   - "[[2024-10-02_therecord-media_operation-cronos-phase-3-lockbit]]"
 created: 2026-04-08
-updated: 2026-04-09
+updated: 2026-04-26
 operation_role: umbrella
 parent_operation: ""
 summary: "**Operation Cronos Phase 3** was the third phase of the international enforcement campaign against the **LockBit** ransomware group, announced on 1 October 2024. This phase resulted in 4 new arrests across France, the UK, and Spain, the seizure of 9 servers in Spain, and coordinated **financial sanctions** by Australia, the UK, and the US against a prolific LockBit affiliate linked to **Evil Corp**."
@@ -230,6 +230,40 @@ No direct Korean involvement in Operation Cronos Phase 3 was identified. Japan w
 - What specific Evil Corp activities were the basis for the sanctions?
 - How effective were the financial sanctions in disrupting the targeted individuals' operations?
 - Are additional Cronos phases planned beyond Phase 3?
+
+<!-- SOURCE_ENRICHMENT_START -->
+
+## Source Coverage
+
+- Europol, 2024-10-01: LockBit power cut: four new arrests and financial sanctions against affiliates - Operation Cronos Phase 3.
+- Foreign, Commonwealth & Development Office, 2024-05-07: UK and Allies Sanction Prolific Cyber Hacker.
+- Europol, 2024-02-20: Law enforcement disrupt world's biggest ransomware operation - Operation Cronos (LockBit).
+- Office of Financial Sanctions Implementation, 2026-01-28: Financial sanctions guidance for ransomware.
+- The Record, 2024-10-02: Operation Cronos phase 3 targets LockBit affiliates.
+
+## Operational Timeline
+
+- 2024-10-01: activity or investigation start.
+- 2024-10-01: public announcement.
+- 2024-10-01: reported enforcement endpoint.
+- 2024-02-20: public source coverage from Europol.
+- 2024-05-07: public source coverage from Foreign, Commonwealth & Development Office.
+- 2024-10-01: public source coverage from Europol.
+- 2024-10-02: public source coverage from The Record.
+- 2026-01-28: public source coverage from Office of Financial Sanctions Implementation.
+
+## Evidence and Attribution Notes
+
+- Operation Cronos Phase 3 resulted in 4 new arrests: suspected LockBit developer (France), 2 affiliate supporters (UK), 1 bulletproof hosting admin (Spain)
+- Australia, UK, US imposed financial sanctions on a prolific LockBit affiliate linked to Evil Corp
+- UK sanctioned 15 Russian citizens, US sanctioned 6, Australia sanctioned 2 for Evil Corp involvement
+- Cumulative Operation Cronos arrests: 6 (Phase 1: 2, Phase 3: 4)
+- On 1 October 2024, Europol announced the third phase of **Operation Cronos** targeting the LockBit ransomware group, resulting in 4 new arrests: a suspected LockBit developer (France), 2 individuals supporting affiliate activity (UK), and a bulletproof hosting administrator (Spain).
+- Australia, the UK, and the US imposed financial sanctions against a prolific LockBit affiliate linked to Evil Corp.
+- The UK sanctioned 15 Russian citizens for Evil Corp involvement, the US sanctioned 6 citizens, and Australia sanctioned 2 citizens.
+- The UK, the United States, and Australia jointly sanctioned Dmitry Khoroshev, identified as a senior LockBit leader.
+
+<!-- SOURCE_ENRICHMENT_END -->
 
 ## References
 

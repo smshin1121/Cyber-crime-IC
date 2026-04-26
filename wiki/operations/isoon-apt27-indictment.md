@@ -156,10 +156,7 @@ South Korea is listed as a **victim country** — the South Korean foreign minis
 
 ## Evidence and Attribution Notes
 
-- Secure .gov websites use HTTPS A lock ( Lock Locked padlock ) or https: // means you’ve safely connected to the .gov website.
-- DOJ press release announcing the charging of 12 Chinese nationals affiliated with i-Soon (Anxun Information Technology) and APT27 for global computer intrusion campaigns directed by China's MPS and MSS.
 - The coordinated action involved DOJ, FBI, NCIS, State Department, and Treasury.
-- i-Soon charged USD 10,000-75,000 per successfully exploited email inbox.
 - Victims included foreign ministries in Asia and US-based dissidents.
 - On 5 March 2025, the US Department of Justice announced coordinated efforts to disrupt the malicious cyber activities of 12 Chinese nationals, including two officers of the People's Republic of China's Ministry of Public Security (MPS), eight employees of Anxun Information Technology Co.
 - (i-Soon), and members of Advanced Persistent Threat 27 (APT27).

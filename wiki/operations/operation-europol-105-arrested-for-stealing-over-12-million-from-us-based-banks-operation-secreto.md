@@ -1,6 +1,6 @@
 ---
 type: operation
-title: "Europol: 105 Arrested for Stealing Over €12 Million from US-Based Banks (Operation Secreto) Enforcement Action"
+title: "Europol: 105 Arrested for Stealing Over €12 Million from US-Based Banks (Operation Secreto) Follow-On Action"
 aliases:
   - 'Europol: 105 Arrested for Stealing Over ??2 Million from US-Based Banks (Operation Secreto)'
 case_id: CYB-FUP-543
@@ -66,13 +66,13 @@ sources:
   - "[[2021-02-03_secretservice-gov_105-arrested-for-stealing-over-eur-12-million-from-u-s-based-banks]]"
   - "[[2021-02-03_policia-es_la-policia-nacional-y-el-servicio-secreto-de-los-eeuu-desarticulan-una-organizacion]]"
   - "[[2021-02-09_cisomag_operation-secreto-europol-busts-international-cybercriminal-group]]"
-summary: "Europol: 105 Arrested for Stealing Over €12 Million from US-Based Banks (Operation Secreto) Enforcement Action is a defendant-specific enforcement action page derived from [[europol-105-arrested-for-stealing-over-12-million-from-us-based-banks-operation-secreto]]."
+summary: "Europol: 105 Arrested for Stealing Over €12 Million from US-Based Banks (Operation Secreto) Follow-On Action is a follow-on operation catalog record tied to [[europol-105-arrested-for-stealing-over-12-million-from-us-based-banks-operation-secreto]]."
 created: 2026-04-18
 updated: 2026-04-26
 ---
 ## Summary
 
-Europol: 105 Arrested for Stealing Over €12 Million from US-Based Banks (Operation Secreto) Enforcement Action is a defendant-specific enforcement action page derived from [[europol-105-arrested-for-stealing-over-12-million-from-us-based-banks-operation-secreto]]. It captures the prosecutorial or seizure stage reflected in the linked case record and preserves the operation-side catalog entry for this follow-on action.
+Europol: 105 Arrested for Stealing Over €12 Million from US-Based Banks (Operation Secreto) Follow-On Action is a follow-on operation catalog record tied to [[europol-105-arrested-for-stealing-over-12-million-from-us-based-banks-operation-secreto]]. It preserves the operation-side pointer for the related case record.
 
 ## Background
 
@@ -87,7 +87,7 @@ The underlying public case record identifies Europol: 105 Arrested for Stealing 
 
 - Operation type: `prosecution`
 - Case anchor: [[europol-105-arrested-for-stealing-over-12-million-from-us-based-banks-operation-secreto]]
-- Source coverage: 1 official or catalogued source page(s)
+- Source coverage: 5 official or catalogued source page(s)
 
 <!-- SOURCE_ENRICHMENT_START -->
 
@@ -128,6 +128,7 @@ The underlying public case record identifies Europol: 105 Arrested for Stealing 
 - Secret Service-supported action against a fraud and money laundering network that targeted U.S.-based banks through shell companies, payment-card abuse, and cross-border laundering channels.
 
 <!-- SOURCE_ENRICHMENT_END -->
+
 
 ## References
 

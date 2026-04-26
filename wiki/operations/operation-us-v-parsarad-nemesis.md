@@ -1,6 +1,6 @@
 ---
 type: operation
-title: "Behrouz Parsarad Enforcement Action"
+title: "Behrouz Parsarad Follow-On Action"
 aliases:
   - "United States v. Behrouz Parsarad"
 case_id: CYB-FUP-076
@@ -20,6 +20,7 @@ timeframe:
 crime_type: "[[online-fraud-ic]]"
 crime_types:
   - "[[online-fraud-ic]]"
+  - "[[dark-web-ic]]"
 target_entity: "Behrouz Parsarad"
 lead_agency: "[[us-doj]]"
 coordinating_body: "[[us-doj]]"
@@ -82,8 +83,6 @@ The operation-side value of this page is that it preserves the shift from techni
 ## Results and Impact
 
 - 1 indictment announced
-- no public arrest announced
-- sanctions overlay added through OFAC
 
 <!-- SOURCE_ENRICHMENT_START -->
 
@@ -120,13 +119,11 @@ The operation-side value of this page is that it preserves the shift from techni
 
 ## Evidence and Attribution Notes
 
-- Secure .gov websites use HTTPS A lock ( Lock Locked padlock ) or https:// means you’ve safely connected to the .gov website.
 - DOJ announced on 17 April 2025 that Behrouz Parsarad was charged for founding and operating Nemesis Market.
 - The release ties the later criminal case to the 20 March 2024 multinational infrastructure seizure and explicitly highlights German and Lithuanian assistance.
 - DOJ announced on April 17, 2025 that Behrouz Parsarad, alleged administrator of Nemesis Market, was charged in the District of Columbia for operating the darknet marketplace seized in March 2024.
 - The release links the later criminal case to the earlier infrastructure takedown.
 - This Northern District of Ohio release gives the district-level prosecutorial framing for the Nemesis indictment, including the charging theories, the role of J-CODE and the importance of German and Lithuanian assistance.
-- contraband made accessible on the darknet for more than three years,” said Matthew...from the harms caused by fentanyl and darknet marketplaces and pursuing accountability
 - OFAC sanctioned Behrouz Parsarad on 4 March 2025 as the alleged sole administrator of Nemesis.
 
 <!-- SOURCE_ENRICHMENT_END -->

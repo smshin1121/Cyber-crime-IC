@@ -1,7 +1,7 @@
 ---
 type: case
 title: "Dark Web Drug Dealer Sentenced to 16 Years in Prison"
-case_number: "Source-derived from 2022-12-01_justice-gov_united-states-v-anton-peck"
+case_number: "Not specified in available source metadata"
 jurisdiction: "U.S. District Court, Southern District of Florida"
 jurisdiction_country: "[[united-states]]"
 case_type: prosecution
@@ -33,29 +33,39 @@ mechanisms_used:
   - "[[informal-cooperation]]"
 key_legal_issues:
   - "[[drug-trafficking]]"
-precedent_value: "Source-derived official action page; procedural enrichment from primary filings may still be needed."
+precedent_value: "Official source-backed record; further primary filings can refine procedural detail."
 source_count: 1
 sources:
   - "[[2022-12-01_justice-gov_united-states-v-anton-peck]]"
 created: 2026-04-18
-updated: 2026-04-18
-summary: "Dark Web Drug Dealer Sentenced to 16 Years in Prison is a source-derived case page generated from [[2022-12-01_justice-gov_united-states-v-anton-peck]]."
+updated: "2026-04-26"
+summary: "Dark Web Drug Dealer Sentenced to 16 Years in Prison is documented in the linked source material. Anton Peck (Dark Web Dealer) Enforcement Action is a follow-on operation catalog record tied to Us V Peck Dark Web. Available source coverage includes US DOJ (Southern District of Florida)."
 ---
 ## Summary
 
-Dark Web Drug Dealer Sentenced to 16 Years in Prison is a source-derived case page generated from [[2022-12-01_justice-gov_united-states-v-anton-peck]].
+Dark Web Drug Dealer Sentenced to 16 Years in Prison is documented in the linked source material. Anton Peck (Dark Web Dealer) Enforcement Action is a follow-on operation catalog record tied to Us V Peck Dark Web. Available source coverage includes US DOJ (Southern District of Florida).
 
-## Facts
+## Source Coverage
 
-This case page was generated from [[2022-12-01_justice-gov_united-states-v-anton-peck]] and reflects an official action title from the source corpus.
+- US DOJ (Southern District of Florida), 2022-12-01: Dark Web Drug Dealer Sentenced to 16 Years in Prison.
 
-## International Cooperation Elements
+## Operational Timeline
 
-This source-derived page should be enriched with case-level cooperation detail if primary filings or fuller official narratives are collected.
+- 2022-12-01: public source coverage from US DOJ (Southern District of Florida).
 
-## Legal Analysis
+## International Cooperation Details
 
-The present page is a structured placeholder built from source metadata and may require refinement from primary filings.
+- Named agencies and partners include Us Doj.
+- Recorded cooperation mechanisms include informal cooperation.
+
+## Legal and Procedural Posture
+
+- Recorded crime classification: Drug Trafficking and online fraud.
+- Legal or procedural basis recorded in metadata: informal cooperation.
+- The record is categorized as prosecution with status sentenced.
+
+## Evidence and Attribution Notes
+
 
 ## References
 

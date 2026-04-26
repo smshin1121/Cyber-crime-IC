@@ -76,7 +76,7 @@ sources:
   - "[[2020-11-27_welivesecurity-com_europol-partners-thwart-credit-card-fraud-scheme]]"
   - "[[2020-11-26_europol-europa-eu_officers-foil-fraudsters-stealing-eur-40-million-in-payment-card-scam]]"
 created: 2026-04-10
-updated: 2026-04-11
+updated: "2026-04-26"
 operation_role: umbrella
 parent_operation: ""
 summary: "Carding Action 2020 was a three-month intelligence-led operation coordinated by [[europol-ec3|Europol's European Cybercrime Centre (EC3)]] between September and November 2020. The operation targeted traders of compromised payment card data on dark web card shops and marketplaces. Law enforcement agencies from [[italy|Italy]], [[hungary|Hungary]], and the [[united-kingdom|United Kingdom]] collaborated with [[group-ib|Group-IB]], the sole private-sector cybersecurity partner, and major card payment schemes to analyse approximately 90,000 pieces of stolen card data. The operation is assessed to have prevented an estimated EUR 40 million (approximately USD 48 million) in potential fraud losses. No arrests were publicly announced; the operation was primarily intelligence-driven and preventive in nature."
@@ -89,6 +89,7 @@ organizations:
   - "[[group-ib|Group-IB]]"
 crime_types:
   - "[[carding-fraud-ic]]"
+  - "[[dark-web-ic]]"
 ---
 ## Summary
 

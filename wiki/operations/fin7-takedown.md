@@ -1,7 +1,7 @@
 ---
 type: operation
 title: "FIN7 Cybercrime Group Takedown"
-title_ko: "공식 작전명 없음 (FIN7 사이버범죄 조직 단속)"
+title_ko: "FIN7 Cybercrime Group Takedown (공식 작전명 미확인; alias: FIN7 Arrest)"
 aliases:
   - "FIN7 Arrest"
 case_id: CYB-2018-004
@@ -85,6 +85,8 @@ organizations:
   - "[[usdoj]]"
 crime_types:
   - "[[hacking-ic]]"
+  - "[[malware-ic]]"
+  - "[[dark-web-ic]]"
 ---
 ## Summary
 

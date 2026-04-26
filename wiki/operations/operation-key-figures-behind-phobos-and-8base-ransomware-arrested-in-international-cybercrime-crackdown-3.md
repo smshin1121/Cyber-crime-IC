@@ -1,6 +1,6 @@
 ---
 type: operation
-title: "Key figures behind Phobos and 8Base ransomware arrested in international cybercrime crackdown Enforcement Action"
+title: "Key figures behind Phobos and 8Base ransomware arrested in international cybercrime crackdown Follow-On Action"
 aliases:
   - "Key figures behind Phobos and 8Base ransomware arrested in international cybercrime crackdown"
 case_id: CYB-FUP-581
@@ -68,13 +68,13 @@ sources:
   - "[[2024-11-18_justice-gov_phobos-ransomware-administrator-extradited-from-south-korea-to-face-cybercrime-c]]"
   - "[[2026-04-18_justice-gov_phobos-ransomware-administrator-extradited-from-south-korea-to-face-cybercrime-c]]"
   - "[[2025-02-11_bleepingcomputer-com_us-charges-phobos-8base-ransomware-operators]]"
-summary: "Key figures behind Phobos and 8Base ransomware arrested in international cybercrime crackdown Enforcement Action is a defendant-specific enforcement action page derived from [[key-figures-behind-phobos-and-8base-ransomware-arrested-in-international-cybercrime-crackdown-3]]."
+summary: "Key figures behind Phobos and 8Base ransomware arrested in international cybercrime crackdown Follow-On Action is a follow-on operation catalog record derived from [[key-figures-behind-phobos-and-8base-ransomware-arrested-in-international-cybercrime-crackdown-3]]."
 created: 2026-04-18
 updated: 2026-04-26
 ---
 ## Summary
 
-Key figures behind Phobos and 8Base ransomware arrested in international cybercrime crackdown Enforcement Action is a defendant-specific enforcement action page derived from [[key-figures-behind-phobos-and-8base-ransomware-arrested-in-international-cybercrime-crackdown-3]]. It captures the prosecutorial or seizure stage reflected in the linked case record and preserves the operation-side catalog entry for this follow-on action.
+Key figures behind Phobos and 8Base ransomware arrested in international cybercrime crackdown Follow-On Action is a follow-on operation catalog record derived from [[key-figures-behind-phobos-and-8base-ransomware-arrested-in-international-cybercrime-crackdown-3]]. It preserves the operation-side pointer for the related case record.
 
 ## Background
 
@@ -89,7 +89,7 @@ The underlying public case record identifies Key figures behind Phobos and 8Base
 
 - Operation type: `prosecution`
 - Case anchor: [[key-figures-behind-phobos-and-8base-ransomware-arrested-in-international-cybercrime-crackdown-3]]
-- Source coverage: 1 official or catalogued source page(s)
+- Source coverage: 5 official or catalogued source page(s)
 
 <!-- SOURCE_ENRICHMENT_START -->
 
@@ -125,7 +125,6 @@ The underlying public case record identifies Key figures behind Phobos and 8Base
 - Law enforcement warned over 400 companies worldwide of ongoing or imminent ransomware attacks.
 - Europol had supported the investigation since February 2019, organizing 37 operational meetings and exchanging nearly 600 operational messages via SIENA.
 - **Operation date:** Early February 2025 - **Publication date:** 11 February 2025
-- Secure .gov websites use HTTPS A lock ( Lock Locked padlock ) or https:// means you’ve safely connected to the .gov website.
 - **Phobos/8Base Ransomware Crackdown** was a sustained multinational investigation against the **Phobos** ransomware ecosystem and **8Base** operators.
 - Public official material supports a six-year investigative arc, **four arrests** announced in February 2025, **27 servers taken down**, and a meaningful Asia-Europe-U.S.
 

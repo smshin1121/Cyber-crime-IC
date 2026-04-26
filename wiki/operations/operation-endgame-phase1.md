@@ -107,7 +107,7 @@ sources:
   - "[[2024-05-30_krebsonsecurity-com_operation-endgame-hits-malware-delivery-platforms]]"
   - "[[2026-04-17_europol-europa-eu_operation-endgame-official-page]]"
 created: 2026-04-08
-updated: 2026-04-08
+updated: "2026-04-26"
 operation_role: umbrella
 parent_operation: ""
 summary: "**Operation Endgame Phase 1** was the **largest-ever international operation against botnets**, conducted between 27 and 29 May 2024. The operation targeted dropper malware families — IcedID, SystemBC, Pikabot, Smokeloader, Bumblebee, and Trickbot — that serve as initial-access vectors for ransomware groups. Coordinated from [[europol-ec3|Europol]]'s headquarters with a command post of 20+ officers, the action resulted in 4 arrests, 100+ servers taken down across 10 countries, and 2,000+ domains seized."
@@ -143,6 +143,7 @@ organizations:
   - "[[ukraine-police]]"
 crime_types:
   - "[[ransomware-ic]]"
+  - "[[malware-ic]]"
 ---
 ## Summary
 

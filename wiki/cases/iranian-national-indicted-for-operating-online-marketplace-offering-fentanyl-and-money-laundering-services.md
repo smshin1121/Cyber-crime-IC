@@ -1,7 +1,7 @@
 ---
 type: case
 title: "Iranian National Indicted for Operating Online Marketplace Offering Fentanyl and Money Laundering Services"
-case_number: "Source-derived from 2026-04-18_justice-gov_iranian-national-indicted-operating-online-marketplace-offering-fentanyl-and-money"
+case_number: "Not specified in available source metadata"
 jurisdiction: "U.S. federal prosecution (district not specified in source)"
 jurisdiction_country: "[[united-states]]"
 case_type: prosecution
@@ -33,29 +33,42 @@ mechanisms_used:
   - "[[informal-cooperation]]"
 key_legal_issues:
   - "[[money-laundering-ic]]"
-precedent_value: "Source-derived official action page; procedural enrichment from primary filings may still be needed."
+precedent_value: "Official source-backed record; further primary filings can refine procedural detail."
 source_count: 1
 sources:
   - "[[2026-04-18_justice-gov_iranian-national-indicted-operating-online-marketplace-offering-fentanyl-and-money]]"
 created: 2026-04-18
-updated: 2026-04-18
-summary: "Iranian National Indicted for Operating Online Marketplace Offering Fentanyl and Money Laundering Services is a source-derived case page generated from [[2026-04-18_justice-gov_iranian-national-indicted-operating-online-marketplace-offering-fentanyl-and-money]]."
+updated: 2026-04-26
+summary: "Iranian National Indicted for Operating Online Marketplace Offering Fentanyl and Money Laundering Services is documented in the linked source material. This DOJ Office of Public Affairs release is one of the core official Nemesis sources in the repo. Available source coverage includes US DOJ (Office of Public Affairs)."
 ---
 ## Summary
 
-Iranian National Indicted for Operating Online Marketplace Offering Fentanyl and Money Laundering Services is a source-derived case page generated from [[2026-04-18_justice-gov_iranian-national-indicted-operating-online-marketplace-offering-fentanyl-and-money]].
+Iranian National Indicted for Operating Online Marketplace Offering Fentanyl and Money Laundering Services is documented in the linked source material. This DOJ Office of Public Affairs release is one of the core official Nemesis sources in the repo. Available source coverage includes US DOJ (Office of Public Affairs).
 
-## Facts
+## Source Coverage
 
-This case page was generated from [[2026-04-18_justice-gov_iranian-national-indicted-operating-online-marketplace-offering-fentanyl-and-money]] and reflects an official action title from the source corpus.
+- US DOJ (Office of Public Affairs), 2025-04-17: Iranian National Indicted for Operating Online Marketplace Offering Fentanyl and Money Laundering Services.
 
-## International Cooperation Elements
+## Operational Timeline
 
-This source-derived page should be enriched with case-level cooperation detail if primary filings or fuller official narratives are collected.
+- 2025-04-17: public source coverage from US DOJ (Office of Public Affairs).
 
-## Legal Analysis
+## International Cooperation Details
 
-The present page is a structured placeholder built from source metadata and may require refinement from primary filings.
+- Named agencies and partners include Us Doj.
+- Recorded cooperation mechanisms include informal cooperation.
+
+## Legal and Procedural Posture
+
+- Recorded crime classification: money laundering.
+- Legal or procedural basis recorded in metadata: informal cooperation.
+- The record is categorized as prosecution with status indicted.
+- Related legal or operational records: Operation Iranian National Indicted For Operating Online Marketplace Offering Fentanyl And Money Laundering Services.
+
+## Evidence and Attribution Notes
+
+- This DOJ Office of Public Affairs release is one of the core official Nemesis sources in the repo.
+- It describes the scale of Nemesis, the charges against Parsarad, the March 2024 seizure and the international assistance provided by German and Lithuanian authorities.
 
 ## References
 

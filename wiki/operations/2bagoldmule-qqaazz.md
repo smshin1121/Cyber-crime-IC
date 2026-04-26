@@ -123,6 +123,7 @@ organizations:
   - "[[uk-nca]]"
 crime_types:
   - "[[money-laundering-ic]]"
+  - "[[malware-ic]]"
 ---
 ## Summary
 

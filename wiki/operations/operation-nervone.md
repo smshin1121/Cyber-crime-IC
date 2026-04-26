@@ -83,6 +83,8 @@ organizations:
   - "[[afripol]]"
 crime_types:
   - "[[online-fraud-ic]]"
+  - "[[bec-ic]]"
+  - "[[malware-ic]]"
 ---
 > [!note] Official source confirmed
 > This page now uses INTERPOL's own announcement for Operation Nervone.

@@ -1,13 +1,14 @@
 ---
 type: case
 title: "United States v. Jeremiah Morrison"
-case_number: "Source-derived from 2026-04-18_justice-gov_registered-sex-offender-sentenced-35-years-prison-exchanging-videos-images-child"
+case_number: "Not specified in available source metadata"
 jurisdiction: "U.S. federal prosecution (district not specified in source)"
 jurisdiction_country: "[[united-states]]"
 case_type: prosecution
 status: sentenced
 crime_charged:
   - "[[online-fraud-ic]]"
+  - "[[csam-ic]]"
 defendants:
   - name: "Jeremiah Morrison"
     nationality: Unknown
@@ -33,29 +34,38 @@ mechanisms_used:
   - "[[informal-cooperation]]"
 key_legal_issues:
   - "[[online-fraud-ic]]"
+  - "[[csam-ic]]"
 precedent_value: "Source-derived candidate case page; analytical significance requires further enrichment from primary filings."
 source_count: 1
 sources:
   - "[[2026-04-18_justice-gov_registered-sex-offender-sentenced-35-years-prison-exchanging-videos-images-child]]"
 created: 2026-04-18
-updated: 2026-04-18
-summary: "United States v. Jeremiah Morrison is a source-derived case page generated from [[2026-04-18_justice-gov_registered-sex-offender-sentenced-35-years-prison-exchanging-videos-images-child]]."
+updated: "2026-04-26"
+summary: "United States v. Jeremiah Morrison is documented in the linked source material. Available source coverage includes US DOJ USAO."
 ---
 ## Summary
 
-United States v. Jeremiah Morrison is a source-derived case page generated from [[2026-04-18_justice-gov_registered-sex-offender-sentenced-35-years-prison-exchanging-videos-images-child]].
+United States v. Jeremiah Morrison is documented in the linked source material. Available source coverage includes US DOJ USAO.
 
-## Facts
+## Source Coverage
 
-This case page was generated from [[2026-04-18_justice-gov_registered-sex-offender-sentenced-35-years-prison-exchanging-videos-images-child]] and should be expanded with primary-court detail where available.
+- US DOJ USAO, 2024-12-20: Registered sex offender sentenced to 35 years in prison for exchanging videos & images of child torture for child sexual abuse material.
 
-## International Cooperation Elements
+## Operational Timeline
 
-The currently collected source indicates a transnational cybercrime enforcement context, but the specific cross-border mechanisms still need case-level enrichment.
+- 2024-12-20: public source coverage from US DOJ USAO.
 
-## Legal Analysis
+## International Cooperation Details
 
-The present page is a structured placeholder built from source metadata and should be refined as additional filings or official summaries are collected.
+- Named agencies and partners include Us Doj.
+- Recorded cooperation mechanisms include informal cooperation.
+
+## Legal and Procedural Posture
+
+- Recorded crime classification: online fraud.
+- Legal or procedural basis recorded in metadata: informal cooperation.
+- The record is categorized as prosecution with status sentenced.
+- Related legal or operational records: Operation Us V Jeremiah Morrison.
 
 ## References
 

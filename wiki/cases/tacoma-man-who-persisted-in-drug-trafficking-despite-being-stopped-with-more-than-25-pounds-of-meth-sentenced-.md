@@ -1,7 +1,7 @@
 ---
 type: case
 title: "Tacoma man who persisted in drug trafficking despite being stopped with more than 25 pounds of meth sentenced to 66 months in prison"
-case_number: "Source-derived from 2026-04-18_justice-gov_tacoma-man-who-persisted-drug-trafficking-despite-being-stopped-more-25-pounds-meth"
+case_number: "Not specified in available source metadata"
 jurisdiction: "U.S. federal prosecution (district not specified in source)"
 jurisdiction_country: "[[united-states]]"
 case_type: prosecution
@@ -33,29 +33,37 @@ mechanisms_used:
   - "[[informal-cooperation]]"
 key_legal_issues:
   - "[[drug-trafficking]]"
-precedent_value: "Source-derived official action page; procedural enrichment from primary filings may still be needed."
+precedent_value: "Official source-backed record; further primary filings can refine procedural detail."
 source_count: 1
 sources:
   - "[[2026-04-18_justice-gov_tacoma-man-who-persisted-drug-trafficking-despite-being-stopped-more-25-pounds-meth]]"
 created: 2026-04-18
-updated: 2026-04-18
-summary: "Tacoma man who persisted in drug trafficking despite being stopped with more than 25 pounds of meth sentenced to 66 months in prison is a source-derived case page generated from [[2026-04-18_justice-gov_tacoma-man-who-persisted-drug-trafficking-despite-being-stopped-more-25-pounds-meth]]."
+updated: 2026-04-26
+summary: "Tacoma man who persisted in drug trafficking despite being stopped with more than 25 pounds of meth sentenced to 66 months in prison is documented in the linked source material. Available source coverage includes US DOJ USAO."
 ---
 ## Summary
 
-Tacoma man who persisted in drug trafficking despite being stopped with more than 25 pounds of meth sentenced to 66 months in prison is a source-derived case page generated from [[2026-04-18_justice-gov_tacoma-man-who-persisted-drug-trafficking-despite-being-stopped-more-25-pounds-meth]].
+Tacoma man who persisted in drug trafficking despite being stopped with more than 25 pounds of meth sentenced to 66 months in prison is documented in the linked source material. Available source coverage includes US DOJ USAO.
 
-## Facts
+## Source Coverage
 
-This case page was generated from [[2026-04-18_justice-gov_tacoma-man-who-persisted-drug-trafficking-despite-being-stopped-more-25-pounds-meth]] and reflects an official action title from the source corpus.
+- US DOJ USAO, 2026-01-27: Tacoma man who persisted in drug trafficking despite being stopped with more than 25 pounds of meth sentenced to 66 months in prison.
 
-## International Cooperation Elements
+## Operational Timeline
 
-This source-derived page should be enriched with case-level cooperation detail if primary filings or fuller official narratives are collected.
+- 2026-01-27: public source coverage from US DOJ USAO.
 
-## Legal Analysis
+## International Cooperation Details
 
-The present page is a structured placeholder built from source metadata and may require refinement from primary filings.
+- Named agencies and partners include Us Doj.
+- Recorded cooperation mechanisms include informal cooperation.
+
+## Legal and Procedural Posture
+
+- Recorded crime classification: Drug Trafficking.
+- Legal or procedural basis recorded in metadata: informal cooperation.
+- The record is categorized as prosecution with status sentenced.
+- Related legal or operational records: Operation Tacoma Man Who Persisted In Drug Trafficking Despite Being Stopped With More Than 25 Pounds Of Meth Sentenced.
 
 ## References
 

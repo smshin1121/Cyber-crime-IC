@@ -109,6 +109,7 @@ organizations:
   - "McAfee Advanced Threat Research"
 crime_types:
   - "[[ransomware-ic]]"
+  - "[[malware-ic]]"
 ---
 > [!note] This operation remains media-heavy, but it now has multiple corroborating sources, including McAfee's first-hand description of its investigative support.
 

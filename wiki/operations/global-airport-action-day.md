@@ -70,6 +70,7 @@ organizations:
   - "[[interpol]]"
 crime_types:
   - "[[online-fraud-ic]]"
+  - "[[dark-web-ic]]"
 ---
 ## Summary
 

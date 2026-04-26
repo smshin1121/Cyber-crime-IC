@@ -125,7 +125,6 @@ The public record points to intelligence-led coordination through INTERPOL's AFJ
 - Group-IB, 2024-10-08: Group-IB supports INTERPOL in Operation Contender 2.0.
 - The Hacker News, 2024-10-03: INTERPOL Arrests 8 in Major Phishing and Romance Fraud Crackdown in West Africa.
 - INTERPOL, 2024-10-01: Des cybermalfaiteurs arrêtés lors d’une opération internationale en Afrique de l’Ouest.
-- aptantech, 2024-10-02: Operation Contender 2.0 leads to arrests of 8 cybercrime suspects in Cote d'Ivoire and Nigeria.
 - Bitdefender, 2024-10-04: International Phishing Ring Dismantled in Major Interpol Sweep.
 
 ## Operational Timeline

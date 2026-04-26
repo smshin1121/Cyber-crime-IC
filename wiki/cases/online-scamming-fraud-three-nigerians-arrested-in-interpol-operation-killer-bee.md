@@ -1,7 +1,7 @@
 ---
 type: case
 title: "Online Scamming Fraud: Three Nigerians Arrested in INTERPOL Operation Killer Bee"
-case_number: "Source-derived from 2022-11-01_interpol-int_online-scamming-fraud-three-nigerians-arrested-in-interpol-operation-killer-bee"
+case_number: "Not specified in available source metadata"
 jurisdiction: "International law enforcement action (multi-jurisdictional)"
 jurisdiction_country: "[[international]]"
 case_type: prosecution
@@ -35,29 +35,43 @@ mechanisms_used:
   - "[[informal-cooperation]]"
 key_legal_issues:
   - "[[malware-ic]]"
-precedent_value: "Source-derived official action page; procedural enrichment from primary filings may still be needed."
+precedent_value: "Official source-backed record; further primary filings can refine procedural detail."
 source_count: 1
 sources:
   - "[[2022-11-01_interpol-int_online-scamming-fraud-three-nigerians-arrested-in-interpol-operation-killer-bee]]"
 created: 2026-04-18
-updated: 2026-04-18
-summary: "INTERPOL's Operation Killer Bee, conducted in coordination with the Nigerian Economic and Financial Crimes Commission (EFCC) and ASEAN member state law enforcement agencies, targeted cybercriminals using Agent Tesla malware for financial fraud and Business Email Compromise (BEC). The operation resulted in the arrest of 3 Nigerian nationals who had been using the malware to reroute financial transactions and steal confidential business data. Trend Micro and other cybersecurity firms provided technical support."
+updated: "2026-04-26"
+summary: "Online Scamming Fraud: Three Nigerians Arrested in INTERPOL Operation Killer Bee is documented in the linked source material. INTERPOL's Operation Killer Bee, conducted in coordination with the Nigerian Economic and Financial Crimes Commission (EFCC) and ASEAN member state law enforcement agencies, targeted cybercriminals using Agent Tesla malware for financial fraud and Business Email Compromise (BEC). Available source coverage includes INTERPOL."
 ---
 ## Summary
 
-INTERPOL's Operation Killer Bee, conducted in coordination with the Nigerian Economic and Financial Crimes Commission (EFCC) and ASEAN member state law enforcement agencies, targeted cybercriminals using Agent Tesla malware for financial fraud and Business Email Compromise (BEC). The operation resulted in the arrest of 3 Nigerian nationals who had been using the malware to reroute financial transactions and steal confidential business data. Trend Micro and other cybersecurity firms provided technical support.
+Online Scamming Fraud: Three Nigerians Arrested in INTERPOL Operation Killer Bee is documented in the linked source material. INTERPOL's Operation Killer Bee, conducted in coordination with the Nigerian Economic and Financial Crimes Commission (EFCC) and ASEAN member state law enforcement agencies, targeted cybercriminals using Agent Tesla malware for financial fraud and Business Email Compromise (BEC). Available source coverage includes INTERPOL.
 
-## Facts
+## Source Coverage
 
-This case page was generated from [[2022-11-01_interpol-int_online-scamming-fraud-three-nigerians-arrested-in-interpol-operation-killer-bee]] and reflects an official action title from the source corpus.
+- INTERPOL, 2022-11-01: Online Scamming Fraud: Three Nigerians Arrested in INTERPOL Operation Killer Bee.
 
-## International Cooperation Elements
+## Operational Timeline
 
-This source-derived page should be enriched with case-level cooperation detail if primary filings or fuller official narratives are collected.
+- 2022-11-01: public source coverage from INTERPOL.
 
-## Legal Analysis
+## International Cooperation Details
 
-The present page is a structured placeholder built from source metadata and may require refinement from primary filings.
+- Named agencies and partners include Interpol.
+- Recorded cooperation mechanisms include informal cooperation.
+
+## Legal and Procedural Posture
+
+- Recorded crime classification: malware, BEC, online fraud.
+- Legal or procedural basis recorded in metadata: informal cooperation.
+- The record is categorized as prosecution with status prosecuted.
+- Related legal or operational records: Operation Online Scamming Fraud Three Nigerians Arrested In Interpol Operation Killer Bee.
+
+## Evidence and Attribution Notes
+
+- INTERPOL's Operation Killer Bee, conducted in coordination with the Nigerian Economic and Financial Crimes Commission (EFCC) and ASEAN member state law enforcement agencies, targeted cybercriminals using Agent Tesla malware for financial fraud and Business Email Compromise (BEC).
+- The operation resulted in the arrest of 3 Nigerian nationals who had been using the malware to reroute financial transactions and steal confidential business data.
+- Trend Micro and other cybersecurity firms provided technical support.
 
 ## References
 

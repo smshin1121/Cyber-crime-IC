@@ -88,7 +88,6 @@ The repository does not yet contain the downstream national court dockets for th
 - The criminal network had caused over EUR 12 million in damages through fraudulent use of stolen credit card data.
 - The Secret Service described the action as a cross-border operation led with the Spanish National Police and coordinated by Europol.
 - The release lists 105 arrests, 88 house searches, 87 frozen accounts worth EUR 1.3 million, and 19 European arrest warrants.
-- government counterpart to Europol's Operation Secreto announcement.
 - The Spanish National Police described the case as the largest card-fraud investigation carried out to date against a network that defrauded more than EUR 12 million.
 
 <!-- SOURCE_ENRICHMENT_END -->

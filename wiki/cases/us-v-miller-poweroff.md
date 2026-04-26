@@ -39,11 +39,11 @@ key_legal_issues:
   - "[[jurisdictional-conflicts]]"
   - "[[data-sovereignty]]"
 precedent_value: "Moderate - the case likely shows how a domestic booter prosecution can serve as one component of a multinational infrastructure-seizure campaign."
-source_count: 1
+source_count: 2
 sources:
   - "[[2024-07-15_cdca_miller-poweroff-sentencing]]"
 created: 2026-04-17
-updated: 2026-04-17
+updated: "2026-04-26"
 summary: "United States v. Jeremiah Sam Evans Miller is the Central District of California prosecution of a RoyalStresser.com operator whose case formed part of Operation PowerOFF. The case is *likely* one of the most concrete publicly traceable U.S. prosecutorial outcomes tied to that broader multinational booter-service campaign."
 ---
 ## Summary

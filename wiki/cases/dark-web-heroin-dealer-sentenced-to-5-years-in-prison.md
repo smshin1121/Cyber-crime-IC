@@ -1,13 +1,14 @@
 ---
 type: case
 title: "‘Dark web’ heroin dealer sentenced to 5 years in prison"
-case_number: "Source-derived from 2021-05-24_justice-gov_united-states-v-zachary-madding"
+case_number: "Not specified in available source metadata"
 jurisdiction: "U.S. District Court, Western District of Washington"
 jurisdiction_country: "[[united-states]]"
 case_type: prosecution
 status: sentenced
 crime_charged:
   - "[[online-fraud-ic]]"
+  - "[[dark-web-ic]]"
 defendants:
   - name: "‘Dark web’ heroin dealer sentenced to 5 years in prison"
     nationality: Unknown
@@ -28,25 +29,38 @@ cooperating_agencies:
   - "[[us-doj]]"
 key_legal_issues:
   - "[[online-fraud-ic]]"
-precedent_value: "Source-derived official action page; procedural enrichment from primary filings may still be needed."
+  - "[[dark-web-ic]]"
+precedent_value: "Official source-backed record; further primary filings can refine procedural detail."
 source_count: 1
 sources:
   - "[[2021-05-24_justice-gov_united-states-v-zachary-madding]]"
 created: 2026-04-18
-updated: 2026-04-18
-summary: "‘Dark web’ heroin dealer sentenced to 5 years in prison is a source-derived case page generated from [[2021-05-24_justice-gov_united-states-v-zachary-madding]]."
+updated: "2026-04-26"
+summary: "‘Dark web’ heroin dealer sentenced to 5 years in prison is documented in the linked source material. Zachary Madding (Dark Web Heroin Dealer) Enforcement Action is a follow-on operation catalog record tied to Us V Madding Dark Web. Available source coverage includes US DOJ (Western District of Washington)."
 ---
 ## Summary
 
-‘Dark web’ heroin dealer sentenced to 5 years in prison is a source-derived case page generated from [[2021-05-24_justice-gov_united-states-v-zachary-madding]].
+‘Dark web’ heroin dealer sentenced to 5 years in prison is documented in the linked source material. Zachary Madding (Dark Web Heroin Dealer) Enforcement Action is a follow-on operation catalog record tied to Us V Madding Dark Web. Available source coverage includes US DOJ (Western District of Washington).
 
-## Facts
+## Source Coverage
 
-This case page was generated from [[2021-05-24_justice-gov_united-states-v-zachary-madding]] and reflects an official action title from the source corpus.
+- US DOJ (Western District of Washington), 2021-05-24: ‘Dark web’ heroin dealer sentenced to 5 years in prison.
 
-## Legal Analysis
+## Operational Timeline
 
-The present page is a structured placeholder built from source metadata and may require refinement from primary filings.
+- 2021-05-24: public source coverage from US DOJ (Western District of Washington).
+
+## International Cooperation Details
+
+- Named agencies and partners include Us Doj.
+
+## Legal and Procedural Posture
+
+- Recorded crime classification: online fraud and dark web.
+- The record is categorized as prosecution with status sentenced.
+
+## Evidence and Attribution Notes
+
 
 ## References
 

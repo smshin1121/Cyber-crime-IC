@@ -8,6 +8,7 @@ case_type: prosecution
 status: convicted
 crime_charged:
   - "[[cybercrime-forum-ic]]"
+  - "[[malware-ic]]"
 defendants:
   - name: "Johan Anders Gudmunds"
     nationality: Swedish
@@ -56,12 +57,13 @@ mechanisms_used:
 key_legal_issues:
   - "[[data-sovereignty]]"
   - "[[jurisdictional-conflicts]]"
+  - "[[malware-ic]]"
 precedent_value: "Medium — demonstrated feasibility of coordinated action against cybercrime forums across 20 countries"
-source_count: 1
+source_count: 2
 sources:
   - "[[2015-07-15_wdpa_darkode-indictment]]"
 created: 2026-04-12
-updated: 2026-04-12
+updated: "2026-04-26"
 summary: "United States v. Gudmunds et al. is the prosecution of 12 individuals charged in the Western District of Pennsylvania for their roles in the Darkode cybercrime forum, one of the most prolific English-language hacking forums. The charges were part of a coordinated effort by a coalition of 20 nations to charge, arrest, or search approximately 70 Darkode members worldwide on 15 July 2015."
 ---
 ## Summary

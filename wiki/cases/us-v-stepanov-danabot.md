@@ -49,11 +49,11 @@ key_legal_issues:
   - "[[data-sovereignty]]"
   - "[[jurisdictional-conflicts]]"
 precedent_value: "Medium — largest indictment count (16 defendants) in a single botnet prosecution as part of the largest-ever anti-botnet operation"
-source_count: 1
+source_count: 2
 sources:
   - "[[2025-05-23_doj_danabot-indictment]]"
 created: 2026-04-12
-updated: 2026-04-12
+updated: "2026-04-26"
 summary: "United States v. Stepanov et al. is the 16-count indictment of 16 Russian nationals for operating the DanaBot malware network, announced on 23 May 2025 as part of [[operation-endgame-phase2|Operation Endgame Phase 2]]. DanaBot infected 300,000+ computers worldwide and caused an estimated USD 50 million+ in financial damages. The malware served dual purposes: cybercrime (credential theft, fraud) and espionage (targeting government and military entities)."
 ---
 ## Summary

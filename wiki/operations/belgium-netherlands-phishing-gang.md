@@ -75,7 +75,7 @@ sources:
   - "[[2024-12-09_securityweek_eight-suspected-phishers-arrested-in-belgium-netherlands]]"
   - "[[2024-12-06_nu-nl_politie-ontmantelt-cybercrimenetwerk-dat-miljoenen-buitmaakte-met-phishing]]"
 created: 2026-04-08
-updated: 2026-04-18
+updated: 2026-04-26
 operation_role: umbrella
 parent_operation: ""
 summary: "Belgian and Dutch authorities, supported by Eurojust and Europol, dismantled a phone-phishing and bank-helpdesk fraud network in December 2024 through coordinated arrests and searches across both countries."
@@ -144,6 +144,29 @@ The case shows three distinct cooperation layers: national police action, Euroju
 - Eurojust's release states eight arrests, while Dutch police described four arrests in the Netherlands and five in Belgium, creating a public counting discrepancy that may reflect warrant attribution or subsequent processing.
 - Public reporting does not yet identify the complete charging outcome for all suspects.
 - The complete loss total and total victim count have not been disclosed in the cited official releases.
+
+<!-- SOURCE_ENRICHMENT_START -->
+
+## Source Coverage
+
+- Eurojust, 2024-12-06: Action against ‘phone phishing’ gang in Belgium and the Netherlands: eight arrests.
+- Dutch National Police, 2024-12-06: Internationaal cybercrimenetwerk opgerold.
+- Dutch National Police, 2024-12-19: 27-jarige man aangehouden voor phishing.
+- SecurityWeek, 2024-12-09: Eight Suspected Phishers Arrested in Belgium, Netherlands.
+- NU.nl, 2024-12-06: Politie ontmantelt cybercrimenetwerk dat miljoenen buitmaakte met phishing.
+
+## Evidence and Attribution Notes
+
+- Belgian and Dutch authorities arrested eight suspects in a coordinated action against a phone-phishing gang.
+- Eurojust and Europol coordinated and supported the operation.
+- Authorities searched 17 locations across Belgium and the Netherlands.
+- This is the official Eurojust release for the Belgian-Dutch phone-phishing arrests.
+- Rotterdam cybercrime police and Belgian authorities dismantled an international fraud network on 3 December 2024.
+- Dutch police reported four arrests in the Netherlands and five in Belgium, one under an international arrest warrant requested by Dutch authorities.
+- The group allegedly targeted victims in at least ten European countries through phishing and bank-helpdesk fraud and stole millions of euros.
+- This Dutch police release adds operational detail missing from Eurojust's shorter summary, including the Dutch arrest count, seized luxury goods, and the Rotterdam-led investigative angle.
+
+<!-- SOURCE_ENRICHMENT_END -->
 
 ## References
 

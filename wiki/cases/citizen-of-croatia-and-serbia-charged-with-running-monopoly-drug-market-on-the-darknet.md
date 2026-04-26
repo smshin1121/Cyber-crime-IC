@@ -35,11 +35,11 @@ sources:
   - "[[2026-04-18_justice-gov_citizen-croatia-and-serbia-charged-running-monopoly-drug-market-darknet]]"
 created: 2026-04-18
 updated: 2026-04-26
-summary: "Citizen of Croatia and Serbia Charged with Running Monopoly Drug Market on the Darknet is recorded as a case based on the linked source set. Secure .gov websites use HTTPS A lock ( Lock Locked padlock ) or https: // means you’ve safely connected to the .gov website. The supporting source set includes US DOJ USAO."
+summary: "Citizen of Croatia and Serbia Charged with Running Monopoly Drug Market on the Darknet is documented in the linked source material. Available source coverage includes US DOJ USAO."
 ---
 ## Summary
 
-Citizen of Croatia and Serbia Charged with Running Monopoly Drug Market on the Darknet is recorded as a case based on the linked source set. Secure .gov websites use HTTPS A lock ( Lock Locked padlock ) or https: // means you’ve safely connected to the .gov website. The supporting source set includes US DOJ USAO.
+Citizen of Croatia and Serbia Charged with Running Monopoly Drug Market on the Darknet is documented in the linked source material. Available source coverage includes US DOJ USAO.
 
 ## Source Coverage
 
@@ -60,8 +60,28 @@ Citizen of Croatia and Serbia Charged with Running Monopoly Drug Market on the D
 
 ## Evidence and Attribution Notes
 
-- Secure .gov websites use HTTPS A lock ( Lock Locked padlock ) or https: // means you’ve safely connected to the .gov website.
-- Running Monopoly Drug Market on the Darknet Friday, June 23, 2023 Share Facebook...face charges of running a criminal darknet narcotics marketplace.
+- US DOJ USAO has a parsed source text of 1253 words available for further review.
+
+
+
+<!-- SOURCE_ENRICHMENT_START -->
+
+## Source Coverage
+
+- US DOJ USAO, 2023-06-23: Citizen of Croatia and Serbia Charged with Running Monopoly Drug Market on the Darknet.
+
+<!-- SOURCE_ENRICHMENT_END -->
+
+<!-- RAW_TEXT_HIGHLIGHTS_START -->
+
+## Raw Source Highlights
+
+- US DOJ USAO, 2023-06-23: Attorney's Office, District of Columbia Defendant Facilitated $18 Million in Illegal Drug Transactions Using Cryptocurrency WASHINGTON –Milomir Desnica has been extradited from Austria to face charges of running a criminal darknet narcotics marketplace.
+- US DOJ USAO, 2023-06-23: The charges, unsealed on May 25, 2023, were announced today by United States Attorney Matthew M.
+- US DOJ USAO, 2023-06-23: Desnica, 33, of Smederevska Palanka, Serbia, was indicted on July 26, 2022, by a grand jury in the U.S.
+- US DOJ USAO, 2023-06-23: According to the indictment, in late 2019, Desnica launched and operated a darknet marketplace, known as Monopoly Market (“Monopoly”), for the purpose of selling illicit narcotics including opioids, stimulants, psychedelics, and prescription medications, among other drugs.
+
+<!-- RAW_TEXT_HIGHLIGHTS_END -->
 
 ## References
 

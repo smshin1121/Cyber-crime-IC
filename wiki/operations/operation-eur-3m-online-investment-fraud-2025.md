@@ -101,8 +101,6 @@ The group used a fake trading platform and aggressive call-centre tactics to pre
 
 ## Results and Impact
 
-- two suspects arrested during the 2022 phase
-- one suspect arrested in Cyprus during the 2025 phase with surrender or extradition to Germany contemplated
 - Europol mobile offices deployed in Israel, Albania, and the United Kingdom
 
 <!-- SOURCE_ENRICHMENT_START -->

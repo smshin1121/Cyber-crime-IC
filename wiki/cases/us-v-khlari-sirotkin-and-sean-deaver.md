@@ -1,13 +1,14 @@
 ---
 type: case
 title: "United States v. Khlari Sirotkin And Sean Deaver"
-case_number: "Source-derived from 2023-10-12_justice-gov_united-states-v-khlari-sirotkin-and-sean-deaver"
+case_number: "Not specified in available source metadata"
 jurisdiction: "U.S. District Court, Southern District of Ohio"
 jurisdiction_country: "[[united-states]]"
 case_type: prosecution
 status: prosecuted
 crime_charged:
   - "[[online-fraud-ic]]"
+  - "[[dark-web-ic]]"
 defendants:
   - name: "Khlari Sirotkin And Sean Deaver"
     nationality: Unknown
@@ -33,29 +34,41 @@ mechanisms_used:
   - "[[informal-cooperation]]"
 key_legal_issues:
   - "[[online-fraud-ic]]"
+  - "[[dark-web-ic]]"
 precedent_value: "Source-derived candidate case page; analytical significance requires further enrichment from primary filings."
 source_count: 1
 sources:
   - "[[2023-10-12_justice-gov_united-states-v-khlari-sirotkin-and-sean-deaver]]"
 created: 2026-04-18
-updated: 2026-04-18
-summary: "United States v. Khlari Sirotkin And Sean Deaver is a source-derived case page generated from [[2023-10-12_justice-gov_united-states-v-khlari-sirotkin-and-sean-deaver]]."
+updated: "2026-04-26"
+summary: "United States v. Khlari Sirotkin And Sean Deaver is documented in the linked source material. Sirotkin and Deaver (Pill Cosby) Enforcement Action is a follow-on operation catalog record tied to Us V Sirotkin Deaver Dark Web. Available source coverage includes US DOJ (Southern District of Ohio)."
 ---
 ## Summary
 
-United States v. Khlari Sirotkin And Sean Deaver is a source-derived case page generated from [[2023-10-12_justice-gov_united-states-v-khlari-sirotkin-and-sean-deaver]].
+United States v. Khlari Sirotkin And Sean Deaver is documented in the linked source material. Sirotkin and Deaver (Pill Cosby) Enforcement Action is a follow-on operation catalog record tied to Us V Sirotkin Deaver Dark Web. Available source coverage includes US DOJ (Southern District of Ohio).
 
-## Facts
+## Source Coverage
 
-This case page was generated from [[2023-10-12_justice-gov_united-states-v-khlari-sirotkin-and-sean-deaver]] and should be expanded with primary-court detail where available.
+- US DOJ (Southern District of Ohio), 2023-10-12: 2 leaders of $2.8 million dark web drug trafficking, money laundering conspiracy sentenced to 16 & 18 years in prison.
 
-## International Cooperation Elements
+## Operational Timeline
 
-The currently collected source indicates a transnational cybercrime enforcement context, but the specific cross-border mechanisms still need case-level enrichment.
+- 2023-10-12: public source coverage from US DOJ (Southern District of Ohio).
 
-## Legal Analysis
+## International Cooperation Details
 
-The present page is a structured placeholder built from source metadata and should be refined as additional filings or official summaries are collected.
+- Named agencies and partners include Us Doj.
+- Recorded cooperation mechanisms include informal cooperation.
+
+## Legal and Procedural Posture
+
+- Recorded crime classification: online fraud.
+- Legal or procedural basis recorded in metadata: informal cooperation.
+- The record is categorized as prosecution with status prosecuted.
+- Related legal or operational records: Operation Us V Khlari Sirotkin And Sean Deaver.
+
+## Evidence and Attribution Notes
+
 
 ## References
 

@@ -46,11 +46,11 @@ mechanisms_used:
 key_legal_issues:
   - "[[data-sovereignty]]"
 precedent_value: "High - the case likely gives Operation Cronos its clearest public courtroom follow-through by linking the LockBit disruption to guilty pleas, extradition, and admitted ransomware proceeds."
-source_count: 1
+source_count: 2
 sources:
   - "[[2024-07-18_nj_lockbit-astamirov-vasiliev-pleas]]"
 created: 2026-04-17
-updated: 2026-04-17
+updated: "2026-04-26"
 summary: "United States v. Astamirov and Vasiliev is the New Jersey prosecution in which two LockBit participants pleaded guilty after the broader LockBit disruption campaign. The case is *highly likely* one of the strongest judicial outputs tied to Operation Cronos Phase 1 because it moves beyond seizure announcements into personal culpability, extradition, and admitted victim losses."
 ---
 ## Summary

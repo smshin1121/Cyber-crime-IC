@@ -91,7 +91,7 @@ sources:
   - "[[2025-12-02_techradar-com_huge-cryptomixer-takedown-sees-feds-seize-over-usd30milion]]"
   - "[[2025-12-01_heise-de_illegaler-cryptomixer-von-strafverfolgern-zerschlagen]]"
 created: 2026-04-14
-updated: 2026-04-14
+updated: "2026-04-26"
 operation_role: umbrella
 parent_operation: ""
 summary: "On **1 December 2025**, [[eurojust|Eurojust]] announced that authorities from [[germany|Germany]] and [[switzerland|Switzerland]], together with Eurojust and [[europol-ec3|Europol]], had taken down a cryptocurrency mixing service suspected of being used by criminals to launder the proceeds of drug trafficking, weapons trafficking, online fraud, and other cybercrimes. During an action week, **more than EUR 25 million in cryptocurrency was seized and three servers were taken down**."
@@ -103,6 +103,9 @@ organizations:
   - "[[europol-ec3]]"
 crime_types:
   - "[[money-laundering-ic]]"
+  - "[[bec-ic]]"
+  - "[[ransomware-ic]]"
+  - "[[dark-web-ic]]"
 ---
 ## Summary
 
@@ -143,7 +146,6 @@ Switzerland's role as a global financial hub and the location of the so-called "
 ## Legal Framework
 
 - **[[budapest-convention|Budapest Convention]]**: Both Germany (party 2009) and Switzerland (party 2011) are parties, providing the multilateral framework for cross-border preservation, search and seizure, and MLA.
-- **Eurojust-Switzerland cooperation agreement**: Switzerland has a formal cooperation agreement with [[eurojust|Eurojust]] enabling judicial coordination on cross-border cases. This is *likely* the operative framework here, though the press release does not cite it explicitly.
 - **National money laundering statutes**: German Strafgesetzbuch (StGB) §§ 261; Swiss Criminal Code (StGB/CP) art. 305bis.
 
 ## Operational Timeline

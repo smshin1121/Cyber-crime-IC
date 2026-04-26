@@ -71,6 +71,7 @@ organizations:
   - "[[us-doj]]"
 crime_types:
   - "[[cybercrime-forum-ic]]"
+  - "[[malware-ic]]"
 jurisdictions:
   - "[[united-states]]"
   - "[[latvia]]"
@@ -98,7 +99,6 @@ According to the official DOJ announcement, Marketplace A operated as an online 
 
 The official release supports two clear international-cooperation dimensions:
 
-- extradition from Latvia to the United States
 - [[mutual-legal-assistance|cross-border evidence and procedural support]] associated with prosecution
 
 The overt enforcement event itself is best characterized as an indictment-stage operation rather than a marketplace-wide coordinated takedown.
@@ -142,9 +142,6 @@ The linked case page is [[us-v-dekhtyarchuk-marketplace-a]]. The corresponding d
 
 ## Evidence and Attribution Notes
 
-- Secure .gov websites use HTTPS A lock ( Lock Locked padlock ) or https:// means you’ve safely connected to the .gov website.
-- Igor Dekhtyarchuk (Marketplace A) Enforcement Action is a defendant-specific enforcement action page derived from Us V Dekhtyarchuk Marketplace A.
-- It captures the prosecutorial or seizure stage reflected in the linked case record and preserves the operation-side catalog entry for this follow-on action.
 - The Cyber Express article (6 June 2025) reports on the seizure of ~145 domains connected to the **BidenCash** marketplace — NOT the Marketplace A / Dekhtyarchuk indictment referenced in the wiki's operation page link
 - BidenCash operated from March 2022 as a criminal marketplace selling stolen credit-card data, CVVs, expiration dates, and PII; it served 117,000+ users and trafficked 15 million+ payment-card records, generating US$17 million+ in revenue over ~2 years
 - Between October 2022 and February 2023, BidenCash operators released 3.3 million stolen cards as free 'promotional giveaways' to attract new customers — an unusual viral-marketing TTP for criminal marketplaces
@@ -152,6 +149,15 @@ The linked case page is [[us-v-dekhtyarchuk-marketplace-a]]. The corresponding d
 - Participating countries per the article: United States, Netherlands, Finland, Germany, France, and Denmark — the standard Operation Endgame coalition
 
 <!-- SOURCE_ENRICHMENT_END -->
+
+<!-- RAW_TEXT_HIGHLIGHTS_START -->
+
+## Raw Source Highlights
+
+- FBI, 2022-03-18: Caution: Igor Dekhtyarchuk is wanted for allegedly operating a cyber-criminal marketplace that sold thousands of login credentials, personally identifiable information, and authentication tools that allowed transnational organized crime and other cyber criminals to unlawfully access the online accounts of victims located around the world.
+- FBI, 2022-03-18: On March 16, 2022, Dekhtyarchuk was indicted in the United States District Court for the Eastern District of Texas, Tyler, Texas, on charges of Wire Fraud, Access Device Fraud, and Aggravated Identity Theft.
+
+<!-- RAW_TEXT_HIGHLIGHTS_END -->
 
 ## References
 

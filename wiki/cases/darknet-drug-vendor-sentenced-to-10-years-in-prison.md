@@ -1,7 +1,7 @@
 ---
 type: case
 title: "Darknet Drug Vendor Sentenced To 10 Years In Prison"
-case_number: "Source-derived from 2019-04-12_justice-gov_united-states-v-brian-gutierrez-villasenor"
+case_number: "Not specified in available source metadata"
 jurisdiction: "U.S. District Court, Northern District of California"
 jurisdiction_country: "[[united-states]]"
 case_type: prosecution
@@ -19,25 +19,37 @@ cooperating_agencies:
   - "[[us-doj]]"
 key_legal_issues:
   - "[[drug-trafficking]]"
-precedent_value: "Source-derived official action page; procedural enrichment from primary filings may still be needed."
+precedent_value: "Official source-backed record; further primary filings can refine procedural detail."
 source_count: 1
 sources:
   - "[[2019-04-12_justice-gov_united-states-v-brian-gutierrez-villasenor]]"
 created: 2026-04-18
-updated: 2026-04-18
-summary: "Darknet Drug Vendor Sentenced To 10 Years In Prison is a source-derived case page generated from [[2019-04-12_justice-gov_united-states-v-brian-gutierrez-villasenor]]."
+updated: "2026-04-26"
+summary: "Darknet Drug Vendor Sentenced To 10 Years In Prison is documented in the linked source material. Brian Gutierrez-Villasenor (JetSetLife) Enforcement Action is a follow-on operation catalog record tied to Us V Gutierrez Villasenor Dark Web. Available source coverage includes US DOJ (Northern District of California)."
 ---
 ## Summary
 
-Darknet Drug Vendor Sentenced To 10 Years In Prison is a source-derived case page generated from [[2019-04-12_justice-gov_united-states-v-brian-gutierrez-villasenor]].
+Darknet Drug Vendor Sentenced To 10 Years In Prison is documented in the linked source material. Brian Gutierrez-Villasenor (JetSetLife) Enforcement Action is a follow-on operation catalog record tied to Us V Gutierrez Villasenor Dark Web. Available source coverage includes US DOJ (Northern District of California).
 
-## Facts
+## Source Coverage
 
-This case page was generated from [[2019-04-12_justice-gov_united-states-v-brian-gutierrez-villasenor]] and reflects an official action title from the source corpus.
+- US DOJ (Northern District of California), 2019-04-12: Darknet Drug Vendor Sentenced To 10 Years In Prison.
 
-## Legal Analysis
+## Operational Timeline
 
-The present page is a structured placeholder built from source metadata and may require refinement from primary filings.
+- 2019-04-12: public source coverage from US DOJ (Northern District of California).
+
+## International Cooperation Details
+
+- Named agencies and partners include Us Doj.
+
+## Legal and Procedural Posture
+
+- Recorded crime classification: Drug Trafficking and online fraud.
+- The record is categorized as prosecution with status sentenced.
+
+## Evidence and Attribution Notes
+
 
 ## References
 

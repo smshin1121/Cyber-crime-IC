@@ -68,7 +68,7 @@ updated: 2026-04-26
 ---
 ## Summary
 
-Former company Chief Financial Officer indicted for using $35 million in company cash to invest in cryptocurrency venture Enforcement Action is a defendant-specific enforcement action page derived from [[former-company-chief-financial-officer-indicted-for-using-35-million-in-company-cash-to-invest-in-cryptocurren]]. It captures the prosecutorial or seizure stage reflected in the linked case record and preserves the operation-side catalog entry for this follow-on action.
+Former company Chief Financial Officer indicted for using $35 million in company cash to invest in cryptocurrency venture Enforcement Action is a follow-on operation catalog record tied to [[former-company-chief-financial-officer-indicted-for-using-35-million-in-company-cash-to-invest-in-cryptocurren]]. It preserves the operation-side pointer for the related case record.
 
 ## Background
 

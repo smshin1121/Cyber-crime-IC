@@ -61,7 +61,7 @@ timeframe:
   start: 2024-07
 title: "Operation HAECHI V"
 type: operation
-updated: 2026-04-09
+updated: 2026-04-26
 operation_role: umbrella
 parent_operation: ""
 summary: "Operation HAECHI V was the fifth and largest iteration of INTERPOL's HAECHI series of operations targeting cyber-enabled financial crime. Running from July to November 2024, the operation involved law enforcement from **40 countries** and resulted in **5,500+ arrests** and the seizure of **USD 400 million+** in virtual assets and government-backed currencies. The operation targeted seven types of cyber-enabled fraud: voice phishing, romance scams, online sextortion, investment fraud, illegal online gambling, business email compromise (BEC), and e-commerce fraud."
@@ -69,6 +69,7 @@ organizations:
   - "[[interpol-igci]]"
 crime_types:
   - "[[online-fraud-ic]]"
+  - "[[bec-ic]]"
 ---
 ## Summary
 
@@ -145,6 +146,33 @@ Korea's leadership of the HAECHI series is *almost certainly* the most significa
 > for this operation. Possible reasons: non-US jurisdiction with no
 > public court records system, sealed proceedings, or operation did
 > not result in formal prosecution.
+
+<!-- SOURCE_ENRICHMENT_START -->
+
+## Source Coverage
+
+- DigWatch, 2024-12-02: INTERPOL-Korea operation reporting.
+- INTERPOL, 2024-12-02: INTERPOL financial crime operation makes record 5,500 arrests — Operation HAECHI V.
+- Digital Watch Observatory, 2024-12-03: Interpol and South Korea lead operation, arresting over 5,500 cybercrime suspects.
+- INTERPOL, 2024-11-27: Une opération INTERPOL de lutte contre la criminalité financière aboutit à l'arrestation record de 5 500 personnes.
+- INTERPOL, 2024-11-27: Una operación de INTERPOL contra la delincuencia financiera obtiene unos resultados récord: 5 500 detenciones.
+
+## Legal and Procedural Posture
+
+- Recorded crime classification: online fraud and BEC.
+- The record is categorized as arrest-sweep with status completed.
+
+## Evidence and Attribution Notes
+
+- Media source referenced by Operation HAECHI V
+- Operation HAECHI V resulted in 5,500+ arrests across 40 countries — the largest HAECHI operation to date
+- Over USD 400 million in virtual assets and government-backed currencies seized
+- Korean-Chinese joint sub-operation dismantled voice phishing syndicate responsible for USD 1.1 billion in losses (1,900+ victims)
+- Seven crime types targeted: voice phishing, romance scams, online sextortion, investment fraud, illegal online gambling, BEC, e-commerce fraud
+- The operation set records for the HAECHI series with 5,500+ arrests and USD 400M+ in seizures across 40 countries.
+- A notable sub-operation involved Korean and Chinese authorities jointly dismantling a voice phishing syndicate responsible for USD 1.1 billion in financial losses.
+
+<!-- SOURCE_ENRICHMENT_END -->
 
 ## References
 

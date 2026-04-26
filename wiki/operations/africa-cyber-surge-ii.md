@@ -73,7 +73,7 @@ sources:
   - "[[2023-08-18_kaspersky_assists-interpol-in-operation-to-disrupt-cybercrime-in-african-countries]]"
   - "[[2023-08-18_therecord-media_africa-cyber-surge-14-arrests-interpol]]"
 created: 2026-04-08
-updated: 2026-04-18
+updated: "2026-04-26"
 operation_role: umbrella
 parent_operation: ""
 summary: "Africa Cyber Surge II was an INTERPOL-AFRIPOL operation across 25 African countries that produced 14 arrests, mapped more than 20,000 suspicious networks, and linked over USD 40 million in losses to cyber-enabled crime."
@@ -90,6 +90,7 @@ organizations:
   - "[[afripol]]"
 crime_types:
   - "[[online-fraud-ic]]"
+  - "[[bec-ic]]"
 ---
 > [!note] Source basis
 > This page is now anchored to INTERPOL's official release and supplemented by Council of Europe, Group-IB, Kaspersky, and The Record coverage. The file was also rebuilt from a broken frontmatter state to restore structural integrity.

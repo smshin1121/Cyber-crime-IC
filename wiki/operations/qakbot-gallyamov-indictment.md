@@ -80,6 +80,7 @@ organizations:
   - "[[netherlands-politie]]"
 crime_types:
   - "[[ransomware-ic]]"
+  - "[[malware-ic]]"
 jurisdictions:
   - "[[canada]]"
   - "[[denmark]]"
@@ -117,8 +118,6 @@ The Dutch prosecution-side record is particularly useful for this operation fami
 
 - **Indictment** of Gallyamov for conspiracy, wire fraud, and related charges
 - **USD 24 million+** in cryptocurrency targeted through civil forfeiture
-- eight ransomware variants publicly linked to the conspiracy
-- a clearer prosecutor-operation link on the Dutch side than many other multinational malware cases expose in open sources
 
 ## Contradictions & Open Questions
 
@@ -153,7 +152,6 @@ The Dutch prosecution-side record is particularly useful for this operation fami
 
 ## Evidence and Attribution Notes
 
-- Secure .gov websites use HTTPS A lock ( Lock Locked padlock ) or https: // means you’ve safely connected to the .gov website.
 - The OM and Dutch police jointly announced the international Qakbot disruption.
 - The Dutch side reported seizure of 22 servers in different datacenters in the Netherlands.
 - The source shows formal prosecution involvement in a major multinational botnet operation.

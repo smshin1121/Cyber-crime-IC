@@ -1,6 +1,6 @@
 ---
 type: operation
-title: "Europol: French coder who helped extort British company arrested in Thailand Enforcement Action"
+title: "Europol: French coder who helped extort British company arrested in Thailand Follow-On Action"
 aliases:
   - 'Europol: French coder who helped extort British company arrested in Thailand'
 case_id: CYB-FUP-544
@@ -64,13 +64,13 @@ sources:
   - "[[2018-06-15_bleepingcomputer-com_europol-dismantles-one-of-the-internets-oldest-hacker-groups]]"
   - "[[2018-06-15_securityweek-com_french-nationals-arrested-for-rex-mundi-hacks]]"
   - "[[2018-06-18_infosecurity-magazine_europol-disrupts-rex-mundi-cybercrime-group]]"
-summary: "Europol: French coder who helped extort British company arrested in Thailand Enforcement Action is a defendant-specific enforcement action page derived from [[europol-french-coder-who-helped-extort-british-company-arrested-in-thailand]]."
+summary: "Europol: French coder who helped extort British company arrested in Thailand Follow-On Action is a follow-on operation catalog record derived from [[europol-french-coder-who-helped-extort-british-company-arrested-in-thailand]]."
 created: 2026-04-18
 updated: 2026-04-26
 ---
 ## Summary
 
-Europol: French coder who helped extort British company arrested in Thailand Enforcement Action is a defendant-specific enforcement action page derived from [[europol-french-coder-who-helped-extort-british-company-arrested-in-thailand]]. It captures the prosecutorial or seizure stage reflected in the linked case record and preserves the operation-side catalog entry for this follow-on action.
+Europol: French coder who helped extort British company arrested in Thailand Follow-On Action is a follow-on operation catalog record derived from [[europol-french-coder-who-helped-extort-british-company-arrested-in-thailand]]. It preserves the operation-side pointer for the related case record.
 
 ## Background
 
@@ -85,7 +85,7 @@ The underlying public case record identifies Europol: French coder who helped ex
 
 - Operation type: `prosecution`
 - Case anchor: [[europol-french-coder-who-helped-extort-british-company-arrested-in-thailand]]
-- Source coverage: 1 official or catalogued source page(s)
+- Source coverage: 5 official or catalogued source page(s)
 
 <!-- SOURCE_ENRICHMENT_START -->
 

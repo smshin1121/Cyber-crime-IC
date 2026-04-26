@@ -93,7 +93,7 @@ sources:
   - "[[2021-10-27_nationalcrimeagency-gov-uk_international-operation-targets-dark-web-drugs-marketplace]]"
   - "[[2021-01-12_europol-europa-eu_darkmarket-world-s-largest-illegal-dark-web-marketplace-taken-down]]"
 created: 2026-04-10
-updated: 2026-04-18
+updated: "2026-04-26"
 operation_role: umbrella
 parent_operation: ""
 summary: "Operation Dark HunTOR was a coordinated international law enforcement action announced on 26 October 2021 that resulted in the arrest of 150 suspected dark web drug traffickers across nine countries. The operation seized approximately EUR 26.7 million (~USD 31 million) in cash and cryptocurrency, 234 kg of drugs, and 45 firearms. Coordinated by [[europol-ec3|Europol's European Cybercrime Centre (EC3)]] and [[eurojust|Eurojust]], Dark HunTOR is almost certainly the largest follow-on enforcement action stemming from a single dark web marketplace seizure, building directly on the January 2021 takedown of [[darkmarket-takedown|DarkMarket]]."
@@ -117,6 +117,7 @@ organizations:
   - "[[netherlands-politie]]"
 crime_types:
   - "[[online-fraud-ic]]"
+  - "[[csam-ic]]"
 ---
 ## Summary
 

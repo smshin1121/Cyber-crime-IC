@@ -1,7 +1,7 @@
 ---
 type: operation
 title: "Simda Botnet Takedown"
-title_ko: "공식 작전명 없음 (Simda 봇넷 무력화 국제 공조 작전)"
+title_ko: "Simda Botnet Takedown (공식 작전명 미확인)"
 aliases:
 
 case_id: CYB-2015-004

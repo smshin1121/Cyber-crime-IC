@@ -108,7 +108,7 @@ sources:
   - "[[2022-01-18_securityweek_com_vpnlab-goes-down-after-servers-seized]]"
   - "[[2022-01-18_bleepingcomputer-com_europol-shuts-down-vpn-service-used-by-ransomware-groups]]"
 created: 2026-04-10
-updated: 2026-04-18
+updated: "2026-04-26"
 operation_role: umbrella
 parent_operation: ""
 summary: "On 17 January 2022, law enforcement authorities from ten countries, coordinated by [[europol-ec3|Europol]] and supported by [[eurojust|Eurojust]], seized or disrupted the 15 servers hosting VPNLab.net, a [[bulletproof-hosting|bulletproof VPN service]] long used by ransomware and malware actors. The operation was led from [[germany|Germany]] by Hannover police under the EMPACT priority on attacks against information systems. Public reporting tied the service to at least 150 ransomware attacks and more than EUR 60 million in losses. No arrests were announced on action day, but investigators seized customer data for follow-on exploitation."
@@ -138,6 +138,8 @@ organizations:
   - "[[fbi-cyber-division|FBI]]"
 crime_types:
   - "[[ransomware-ic|Ransomware]]"
+  - "[[malware-ic]]"
+  - "[[dark-web-ic]]"
 ---
 ## Summary
 

@@ -68,7 +68,7 @@ updated: 2026-04-26
 ---
 ## Summary
 
-Foreign National Sentenced for Victimizing U.S. Persons Through Cyber-Enabled Fraud Schemes Enforcement Action is a defendant-specific enforcement action page derived from [[foreign-national-sentenced-for-victimizing-u-s-persons-through-cyber-enabled-fraud-schemes]]. It captures the prosecutorial or seizure stage reflected in the linked case record and preserves the operation-side catalog entry for this follow-on action.
+Foreign National Sentenced for Victimizing U.S. Persons Through Cyber-Enabled Fraud Schemes Enforcement Action is a follow-on operation catalog record tied to [[foreign-national-sentenced-for-victimizing-u-s-persons-through-cyber-enabled-fraud-schemes]]. It preserves the operation-side pointer for the related case record.
 
 ## Background
 
@@ -84,6 +84,17 @@ The underlying public case record identifies Foreign National Sentenced for Vict
 - Operation type: `sentencing`
 - Case anchor: [[foreign-national-sentenced-for-victimizing-u-s-persons-through-cyber-enabled-fraud-schemes]]
 - Source coverage: 1 official or catalogued source page(s)
+
+<!-- RAW_TEXT_HIGHLIGHTS_START -->
+
+## Raw Source Highlights
+
+- US DOJ (Office of Public Affairs), 2023-03-27: Department of Justice title="About" title="News" title="Guidance & Resources" Justice.gov Office of Public Affairs Foreign National Sentenced For Victimizing U.S.
+- US DOJ (Office of Public Affairs), 2023-03-27: Persons Through Cyber-Enabled Fraud Schemes This is archived content from the U.S.
+- US DOJ (Office of Public Affairs), 2023-03-27: Among the victims of the scheme were First American Holding Company and MidFirst Bank.
+- US DOJ (Office of Public Affairs), 2023-03-27: In reality, these work-from-home “employees” were often unwittingly directed to perform tasks that would facilitate the co-conspirators’ fraud schemes.
+
+<!-- RAW_TEXT_HIGHLIGHTS_END -->
 
 ## References
 

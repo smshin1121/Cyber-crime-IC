@@ -1,13 +1,14 @@
 ---
 type: case
 title: "United States v. Igor Turashev"
-case_number: "Source-derived from 2019-12-05_justice-gov_russian-national-charged-with-decade-long-series-of-hacking-and-bank-fraud"
+case_number: "Not specified in available source metadata"
 jurisdiction: "U.S. federal prosecution (district not specified in source)"
 jurisdiction_country: "[[united-states]]"
 case_type: prosecution
 status: charged
 crime_charged:
   - "[[bank-fraud-ic]]"
+  - "[[malware-ic]]"
 defendants:
   - name: "Igor Turashev"
     nationality: Unknown
@@ -33,29 +34,44 @@ mechanisms_used:
   - "[[informal-cooperation]]"
 key_legal_issues:
   - "[[bank-fraud-ic]]"
+  - "[[malware-ic]]"
 precedent_value: "Source-derived candidate case page; analytical significance requires further enrichment from primary filings."
 source_count: 1
 sources:
   - "[[2019-12-05_justice-gov_russian-national-charged-with-decade-long-series-of-hacking-and-bank-fraud]]"
 created: 2026-04-18
-updated: 2026-04-18
-summary: "United States v. Igor Turashev is a source-derived case page generated from [[2019-12-05_justice-gov_russian-national-charged-with-decade-long-series-of-hacking-and-bank-fraud]]."
+updated: 2026-04-26
+summary: "United States v. Igor Turashev is documented in the linked source material. The Dridex/Evil Corp disruption and prosecution was a **multi-year international law enforcement operation** targeting the Dridex banking trojan (also known as Bugat and Cridex) and its operators within the Russia-based cybercriminal organization **Evil Corp**. Available source coverage includes US DOJ."
 ---
 ## Summary
 
-United States v. Igor Turashev is a source-derived case page generated from [[2019-12-05_justice-gov_russian-national-charged-with-decade-long-series-of-hacking-and-bank-fraud]].
+United States v. Igor Turashev is documented in the linked source material. The Dridex/Evil Corp disruption and prosecution was a **multi-year international law enforcement operation** targeting the Dridex banking trojan (also known as Bugat and Cridex) and its operators within the Russia-based cybercriminal organization **Evil Corp**. Available source coverage includes US DOJ.
 
-## Facts
+## Source Coverage
 
-This case page was generated from [[2019-12-05_justice-gov_russian-national-charged-with-decade-long-series-of-hacking-and-bank-fraud]] and should be expanded with primary-court detail where available.
+- US DOJ, 2019-12-05: Russian National Charged with Decade-Long Series of Hacking and Bank Fraud Offenses Resulting in Tens of Millions in Losses and Second Russian..
 
-## International Cooperation Elements
+## Operational Timeline
 
-The currently collected source indicates a transnational cybercrime enforcement context, but the specific cross-border mechanisms still need case-level enrichment.
+- 2019-12-05: public source coverage from US DOJ.
 
-## Legal Analysis
+## International Cooperation Details
 
-The present page is a structured placeholder built from source metadata and should be refined as additional filings or official summaries are collected.
+- Named agencies and partners include Us Doj.
+- Recorded cooperation mechanisms include informal cooperation.
+
+## Legal and Procedural Posture
+
+- Recorded crime classification: Bank Fraud Ic.
+- Legal or procedural basis recorded in metadata: informal cooperation.
+- The record is categorized as prosecution with status charged.
+- Related legal or operational records: Operation Us V Igor Turashev.
+
+## Evidence and Attribution Notes
+
+- The Dridex/Evil Corp disruption and prosecution was a **multi-year international law enforcement operation** targeting the Dridex banking trojan (also known as Bugat and Cridex) and its operators within the Russia-based cybercriminal organization **Evil Corp**.
+- The operation unfolded in two major phases: (1) the **October 2015 technical disruption and arrest** of botnet administrator Andrey Ghinkul, conducted jointly by the FBI and UK National Crime Agency (NCA); and (2) the **December 2019 indictment, sanctions, and reward** targeting Evil Corp leader **Maksim Yakubets** and deputy **Igor Turashev**, coordinated.
+
 
 ## References
 

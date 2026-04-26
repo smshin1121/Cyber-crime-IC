@@ -35,11 +35,11 @@ sources:
   - "[[2026-04-18_justice-gov_4-arrested-latest-la-county-based-jcode-operation-allegedly-operating-drug]]"
 created: 2026-04-18
 updated: 2026-04-26
-summary: "4 Arrested in Latest L.A. County-Based “JCODE” Operation for Allegedly Operating a Drug Distribution Network on the Darknet is recorded as a case based on the linked source set. Secure .gov websites use HTTPS A lock ( Lock Locked padlock ) or https: // means you’ve safely connected to the .gov website. The supporting source set includes US DOJ USAO."
+summary: "4 Arrested in Latest L.A. County-Based “JCODE” Operation for Allegedly Operating a Drug Distribution Network on the Darknet is documented in the linked source material. Available source coverage includes US DOJ USAO."
 ---
 ## Summary
 
-4 Arrested in Latest L.A. County-Based “JCODE” Operation for Allegedly Operating a Drug Distribution Network on the Darknet is recorded as a case based on the linked source set. Secure .gov websites use HTTPS A lock ( Lock Locked padlock ) or https: // means you’ve safely connected to the .gov website. The supporting source set includes US DOJ USAO.
+4 Arrested in Latest L.A. County-Based “JCODE” Operation for Allegedly Operating a Drug Distribution Network on the Darknet is documented in the linked source material. Available source coverage includes US DOJ USAO.
 
 ## Source Coverage
 
@@ -60,8 +60,28 @@ summary: "4 Arrested in Latest L.A. County-Based “JCODE” Operation for Alleg
 
 ## Evidence and Attribution Notes
 
-- Secure .gov websites use HTTPS A lock ( Lock Locked padlock ) or https: // means you’ve safely connected to the .gov website.
-- phetamine (MDMA), and ketamine on darknet marketplaces, the Justice Department...a Drug Distribution Network on the Darknet Thursday, April 10, 2025 Share Facebook...phetamine (MDMA), and ketamine on darknet marketplaces, the Justice Department
+- US DOJ USAO has a parsed source text of 1248 words available for further review.
+
+
+
+<!-- SOURCE_ENRICHMENT_START -->
+
+## Source Coverage
+
+- US DOJ USAO, 2025-04-10: 4 Arrested in Latest L.A. County-Based “JCODE” Operation for Allegedly Operating a Drug Distribution Network on the Darknet.
+
+<!-- SOURCE_ENRICHMENT_END -->
+
+<!-- RAW_TEXT_HIGHLIGHTS_START -->
+
+## Raw Source Highlights
+
+- US DOJ USAO, 2025-04-10: Attorney's Office, Central District of California LOS ANGELES – Three Glendale men and one San Fernando Valley man have been arrested on federal charges of conspiring to distribute various drugs including cocaine, methamphetamine, methylenedioxymethamphetamine (MDMA), and ketamine on darknet marketplaces, the Justice Department.
+- US DOJ USAO, 2025-04-10: The Wednesday arrests are the latest in the Justice Department’s ongoing JCODE efforts (Joint Criminal Opioid Darknet Enforcement) to address the growing number of illicit vendors operating on the darknet providing large quantities of harmful substances to thousands of people across the United States.
+- US DOJ USAO, 2025-04-10: On April 1, a federal grand jury returned a 12-count indictment which outlines 116 overt acts that were done in furtherance of the alleged conspiracy, and which charges the following defendants for their alleged roles in operating the drug distribution network which operated approximately 10 darknet vendors on 17 different markets.
+- US DOJ USAO, 2025-04-10: All four defendants are charged with one count of conspiracy to distribute and possess with intent to distribute cocaine, methamphetamine, ketamine, and MDMA (Ecstasy).
+
+<!-- RAW_TEXT_HIGHLIGHTS_END -->
 
 ## References
 

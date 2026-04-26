@@ -118,7 +118,7 @@ sources:
   - "[[2025-09-26_comsuregroup_operation-haechi-vi-439m-recovered]]"
   - "[[2025-09-27_dailysecurityreview_operation-haechi-vi-record-recovery]]"
 created: 2026-04-08
-updated: 2026-04-23
+updated: 2026-04-26
 operation_role: umbrella
 parent_operation: ""
 summary: "Operation HAECHI VI was the sixth iteration of the Korea-initiated HAECHI series, running from April to August 2025 across **40 countries and territories**. The operation recovered **USD 439 million** total (USD 342M fiat, USD 97M physical/virtual assets), blocked **68,000+ bank accounts**, froze **~400 cryptocurrency wallets**, and recovered approximately **USD 16 million** from crypto wallets. HAECHI VI set a new series record for financial recovery."
@@ -160,6 +160,7 @@ organizations:
   - "[[knpa-cyber-bureau]]"
 crime_types:
   - "[[online-fraud-ic]]"
+  - "[[bec-ic]]"
 ---
 ## Summary
 
@@ -216,7 +217,6 @@ Korea continues as the **lead country** of the HAECHI series. In HAECHI VI:
 - **Why was no total arrest count provided for HAECHI VI?** Previous HAECHI iterations prominently featured arrest counts (III: 975, IV: 3,500, V: 5,500+). HAECHI VI's omission is a deliberate choice. Possible explanations: (a) INTERPOL shifting emphasis from arrests to financial recovery as the primary KPI; (b) participating countries did not report arrest data uniformly; (c) the operation focused more on asset recovery and account blocking than prosecutorial arrests. This warrants further investigation.
 - What is the breakdown of recoveries by crime type?
 - How does the I-GRIP mechanism interact with traditional MLAT processes for asset recovery?
-- The INTERPOL press release lists 40 countries/territories but only names ~33. What are the remaining ~7?
 
 ## Follow-Up Actions
 
@@ -225,6 +225,44 @@ Korea continues as the **lead country** of the HAECHI series. In HAECHI VI:
 > for this operation. Possible reasons: non-US jurisdiction with no
 > public court records system, sealed proceedings, or operation did
 > not result in formal prosecution.
+
+<!-- SOURCE_ENRICHMENT_START -->
+
+## Source Coverage
+
+- INTERPOL, 2025-09-25: USD 439 million recovered in global financial crime operation - Operation HAECHI VI.
+- INTERPOL, 2025-09-25: Recuperados USD 439 millones en una operación mundial contra la delincuencia financiera: Operación HAECHI VI.
+- Maldives Police Service, 2025-09-25: Maldives Police notes INTERPOL Operation HAECHI VI outcomes.
+- Comsure Group, 2025-09-26: Operation HAECHI VI sees $439m recovered from global financial crime.
+- Daily Security Review, 2025-09-27: Operation HAECHI VI records $439 million recovery in global financial crime crackdown.
+
+## Operational Timeline
+
+- 2025-04: activity or investigation start.
+- 2025-09-25: public announcement.
+- 2025-08: reported enforcement endpoint.
+- 2025-09-25: public source coverage from INTERPOL, Maldives Police Service.
+- 2025-09-26: public source coverage from Comsure Group.
+- 2025-09-27: public source coverage from Daily Security Review.
+
+## Legal and Procedural Posture
+
+- Recorded crime classification: online fraud and BEC.
+- Recorded enforcement posture: Arrest and Asset Freeze.
+- The record is categorized as arrest-sweep with status completed.
+
+## Evidence and Attribution Notes
+
+- HAECHI VI recovered USD 439 million across 40 countries, continuing Korea-led INTERPOL series
+- 68,000+ bank accounts blocked, ~400 crypto wallets frozen, USD 16 million crypto recovered
+- Korea-UAE sub-operation: KRW 6.6 billion (USD 3.91M) BEC recovery via I-GRIP mechanism
+- INTERPOL's Operation HAECHI VI, the sixth iteration of the Korea-initiated HAECHI series, ran from April to August 2025 and involved law enforcement authorities from 40 countries and territories.
+- The operation recovered USD 439 million in total: USD 342 million in government-backed currencies and USD 97 million in physical and virtual assets.
+- Investigators blocked over 68,000 bank accounts, froze close to 400 cryptocurrency wallets, and recovered approximately USD 16 million in suspected illicit profits from crypto wallets.
+- Spanish-language INTERPOL coverage of HAECHI VI confirms the core recovery, account-blocking and crypto-freeze figures.
+- This alternate official INTERPOL URL confirms the HAECHI VI figures and country examples in Spanish.
+
+<!-- SOURCE_ENRICHMENT_END -->
 
 ## References
 

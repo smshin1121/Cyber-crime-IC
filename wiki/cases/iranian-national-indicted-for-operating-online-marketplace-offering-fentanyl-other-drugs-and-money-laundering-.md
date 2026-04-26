@@ -1,7 +1,7 @@
 ---
 type: case
 title: "Iranian National Indicted for Operating Online Marketplace Offering Fentanyl, Other Drugs, and Money Laundering Services"
-case_number: "Source-derived from 2026-04-18_justice-gov_iranian-national-indicted-operating-online-marketplace-offering-fentanyl-other-drugs"
+case_number: "Not specified in available source metadata"
 jurisdiction: "U.S. federal prosecution (district not specified in source)"
 jurisdiction_country: "[[united-states]]"
 case_type: prosecution
@@ -34,29 +34,41 @@ mechanisms_used:
   - "[[informal-cooperation]]"
 key_legal_issues:
   - "[[drug-trafficking]]"
-precedent_value: "Source-derived official action page; procedural enrichment from primary filings may still be needed."
+precedent_value: "Official source-backed record; further primary filings can refine procedural detail."
 source_count: 1
 sources:
   - "[[2026-04-18_justice-gov_iranian-national-indicted-operating-online-marketplace-offering-fentanyl-other-drugs]]"
 created: 2026-04-18
-updated: 2026-04-18
-summary: "Iranian National Indicted for Operating Online Marketplace Offering Fentanyl, Other Drugs, and Money Laundering Services is a source-derived case page generated from [[2026-04-18_justice-gov_iranian-national-indicted-operating-online-marketplace-offering-fentanyl-other-drugs]]."
+updated: 2026-04-26
+summary: "Iranian National Indicted for Operating Online Marketplace Offering Fentanyl, Other Drugs, and Money Laundering Services is documented in the linked source material. This Northern District of Ohio release gives the district-level prosecutorial framing for the Nemesis indictment, including the charging theories, the role of J-CODE and the importance of German and Lithuanian assistance. Available source coverage includes US DOJ USAO."
 ---
 ## Summary
 
-Iranian National Indicted for Operating Online Marketplace Offering Fentanyl, Other Drugs, and Money Laundering Services is a source-derived case page generated from [[2026-04-18_justice-gov_iranian-national-indicted-operating-online-marketplace-offering-fentanyl-other-drugs]].
+Iranian National Indicted for Operating Online Marketplace Offering Fentanyl, Other Drugs, and Money Laundering Services is documented in the linked source material. This Northern District of Ohio release gives the district-level prosecutorial framing for the Nemesis indictment, including the charging theories, the role of J-CODE and the importance of German and Lithuanian assistance. Available source coverage includes US DOJ USAO.
 
-## Facts
+## Source Coverage
 
-This case page was generated from [[2026-04-18_justice-gov_iranian-national-indicted-operating-online-marketplace-offering-fentanyl-other-drugs]] and reflects an official action title from the source corpus.
+- US DOJ USAO, 2025-04-17: Iranian National Indicted for Operating Online Marketplace Offering Fentanyl, Other Drugs, and Money Laundering Services.
 
-## International Cooperation Elements
+## Operational Timeline
 
-This source-derived page should be enriched with case-level cooperation detail if primary filings or fuller official narratives are collected.
+- 2025-04-17: public source coverage from US DOJ USAO.
 
-## Legal Analysis
+## International Cooperation Details
 
-The present page is a structured placeholder built from source metadata and may require refinement from primary filings.
+- Named agencies and partners include Us Doj.
+- Recorded cooperation mechanisms include informal cooperation.
+
+## Legal and Procedural Posture
+
+- Recorded crime classification: Drug Trafficking and money laundering.
+- Legal or procedural basis recorded in metadata: informal cooperation.
+- The record is categorized as prosecution with status indicted.
+- Related legal or operational records: Operation Iranian National Indicted For Operating Online Marketplace Offering Fentanyl Other Drugs And Money Laundering.
+
+## Evidence and Attribution Notes
+
+- This Northern District of Ohio release gives the district-level prosecutorial framing for the Nemesis indictment, including the charging theories, the role of J-CODE and the importance of German and Lithuanian assistance.
 
 ## References
 

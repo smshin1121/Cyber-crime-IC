@@ -9,6 +9,7 @@ status: indicted
 crime_charged:
   - "[[online-fraud-ic]]"
   - "[[malware-ic]]"
+  - "[[ransomware-ic]]"
 defendants:
   - name: "Maksim V. Yakubets"
     nationality: Russian
@@ -53,13 +54,14 @@ mechanisms_used:
   - "[[mlat-process]]"
 key_legal_issues:
   - "[[data-sovereignty]]"
+  - "[[ransomware-ic]]"
 precedent_value: "Landmark — combined indictment + sanctions + reward approach; USD 5 million reward (largest cyber reward at the time); sanctions imposed on cybercriminal organization"
-source_count: 2
+source_count: 3
 sources:
   - "[[2019-12-05_wdpa_yakubets-turashev-dridex-indictment]]"
   - "[[2015-10-13_wdpa_ghinkul-bugat-dridex-indictment]]"
 created: 2026-04-12
-updated: 2026-04-12
+updated: "2026-04-26"
 summary: "United States v. Yakubets and Turashev is the December 2019 indictment of Maksim V. Yakubets (aka \"aqua\"), leader of the Evil Corp cybercriminal organization, and Igor Turashev for conspiracy, computer hacking, wire fraud, and bank fraud related to the Dridex (Bugat/Cridex) banking trojan. The Dridex malware infected computers in 40+ countries and caused over USD 100 million in theft."
 ---
 ## Summary

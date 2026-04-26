@@ -63,8 +63,6 @@ Europol and corroborating media sources reported that the alleged operator was a
 
 This case is useful because it sits at the intersection of physical arrest and transnational electronic-evidence seizure:
 
-- the arrest occurred in Germany
-- the seized infrastructure sat in Moldova and Ukraine
 - Europol coordinated the multinational exchange around the takedown
 
 ## Proceedings Timeline
@@ -88,6 +86,19 @@ The page avoids overstating later procedure. Current public materials in the rep
 ## Source Coverage
 
 Europol is the primary source for the enforcement action. RFE/RL and SBS provide corroborating public reporting on server geography and the Australian suspect framing. The Dark HunTOR reference is retained only to show the later intelligence use of seized darknet-market data; it is not treated as proof of this suspect's sentence or final procedural outcome.
+
+<!-- SOURCE_ENRICHMENT_START -->
+
+## Source Coverage
+
+- Europol, 2021-01-12: DarkMarket: world's largest illegal dark web marketplace taken down.
+- The Hacker News, 2021-01-12: Authorities Take Down World's Largest Illegal Dark Web Marketplace.
+- RFE/RL, 2021-01-12: Servers Seized In Ukraine, Moldova As Germany Takes Down 'World's Largest' Illegal Darknet Marketplace.
+- SBS News, 2021-01-12: Australian man arrested in Germany accused of running 'world's largest' Darknet marketplace.
+- US DOJ/DEA, 2021-10-26: Department of Justice Announces Results of Operation Dark HunTor.
+
+<!-- SOURCE_ENRICHMENT_END -->
+
 
 ## References
 

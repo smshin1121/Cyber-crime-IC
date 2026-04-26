@@ -45,6 +45,8 @@ results:
 
   servers_seized: 0
   victims_notified: 0
+crime_types:
+  - "[[malware-ic]]"
 source_count: 5
 source_tier: 3
 sources:

@@ -1,7 +1,7 @@
 ---
 type: case
 title: "Former Kent resident sentenced to prison for selling narcotics near drug treatment center"
-case_number: "Source-derived from 2026-04-18_justice-gov_former-kent-resident-sentenced-prison-selling-narcotics-near-drug-treatment-center"
+case_number: "Not specified in available source metadata"
 jurisdiction: "U.S. federal prosecution (district not specified in source)"
 jurisdiction_country: "[[united-states]]"
 case_type: prosecution
@@ -28,25 +28,38 @@ cooperating_agencies:
   - "[[us-doj]]"
 key_legal_issues:
   - "[[drug-trafficking]]"
-precedent_value: "Source-derived official action page; procedural enrichment from primary filings may still be needed."
+precedent_value: "Official source-backed record; further primary filings can refine procedural detail."
 source_count: 1
 sources:
   - "[[2026-04-18_justice-gov_former-kent-resident-sentenced-prison-selling-narcotics-near-drug-treatment-center]]"
 created: 2026-04-18
-updated: 2026-04-18
-summary: "Former Kent resident sentenced to prison for selling narcotics near drug treatment center is a source-derived case page generated from [[2026-04-18_justice-gov_former-kent-resident-sentenced-prison-selling-narcotics-near-drug-treatment-center]]."
+updated: 2026-04-26
+summary: "Former Kent resident sentenced to prison for selling narcotics near drug treatment center is documented in the linked source material. Available source coverage includes US DOJ USAO."
 ---
 ## Summary
 
-Former Kent resident sentenced to prison for selling narcotics near drug treatment center is a source-derived case page generated from [[2026-04-18_justice-gov_former-kent-resident-sentenced-prison-selling-narcotics-near-drug-treatment-center]].
+Former Kent resident sentenced to prison for selling narcotics near drug treatment center is documented in the linked source material. Available source coverage includes US DOJ USAO.
 
-## Facts
+## Source Coverage
 
-This case page was generated from [[2026-04-18_justice-gov_former-kent-resident-sentenced-prison-selling-narcotics-near-drug-treatment-center]] and reflects an official action title from the source corpus.
+- US DOJ USAO, 2024-08-19: Former Kent resident sentenced to prison for selling narcotics near drug treatment center.
 
-## Legal Analysis
+## Operational Timeline
 
-The present page is a structured placeholder built from source metadata and may require refinement from primary filings.
+- 2024-08-19: public source coverage from US DOJ USAO.
+
+## International Cooperation Details
+
+- Named agencies and partners include Us Doj.
+
+## Legal and Procedural Posture
+
+- Recorded crime classification: Drug Trafficking.
+- The record is categorized as prosecution with status sentenced.
+
+## Evidence and Attribution Notes
+
+- US DOJ USAO has a parsed source text of 781 words available for further review.
 
 ## References
 

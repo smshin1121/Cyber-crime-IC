@@ -1,7 +1,7 @@
 ---
 type: case
 title: "USD 300 million seized and 3,500 suspects arrested — Operation HAECHI IV"
-case_number: "Source-derived from 2023-12-19_interpol-int_usd-300-million-seized-and-3-500-suspects-arrested-operation-haechi-iv"
+case_number: "Not specified in available source metadata"
 jurisdiction: "International law enforcement action (multi-jurisdictional)"
 jurisdiction_country: "[[international]]"
 case_type: seizure
@@ -33,29 +33,42 @@ mechanisms_used:
   - "[[informal-cooperation]]"
 key_legal_issues:
   - "[[online-fraud-ic]]"
-precedent_value: "Source-derived official action page; procedural enrichment from primary filings may still be needed."
+precedent_value: "Official source-backed record; further primary filings can refine procedural detail."
 source_count: 1
 sources:
   - "[[2023-12-19_interpol-int_usd-300-million-seized-and-3-500-suspects-arrested-operation-haechi-iv]]"
 created: 2026-04-18
-updated: 2026-04-18
-summary: "USD 300 million seized and 3,500 suspects arrested — Operation HAECHI IV is a source-derived case page generated from [[2023-12-19_interpol-int_usd-300-million-seized-and-3-500-suspects-arrested-operation-haechi-iv]]."
+updated: "2026-04-26"
+summary: "USD 300 million seized and 3,500 suspects arrested — Operation HAECHI IV is documented in the linked source material. South Korea is a **highly capable** partner for international cooperation on cybercrime, with advanced technological infrastructure, specialized cybercrime enforcement units at both national and metropolitan levels, and comprehensive cybercrime legislation. Available source coverage includes INTERPOL."
 ---
 ## Summary
 
-USD 300 million seized and 3,500 suspects arrested — Operation HAECHI IV is a source-derived case page generated from [[2023-12-19_interpol-int_usd-300-million-seized-and-3-500-suspects-arrested-operation-haechi-iv]].
+USD 300 million seized and 3,500 suspects arrested — Operation HAECHI IV is documented in the linked source material. South Korea is a **highly capable** partner for international cooperation on cybercrime, with advanced technological infrastructure, specialized cybercrime enforcement units at both national and metropolitan levels, and comprehensive cybercrime legislation. Available source coverage includes INTERPOL.
 
-## Facts
+## Source Coverage
 
-This case page was generated from [[2023-12-19_interpol-int_usd-300-million-seized-and-3-500-suspects-arrested-operation-haechi-iv]] and reflects an official action title from the source corpus.
+- INTERPOL, 2023-12-19: USD 300 million seized and 3,500 suspects arrested — Operation HAECHI IV.
 
-## International Cooperation Elements
+## Operational Timeline
 
-This source-derived page should be enriched with case-level cooperation detail if primary filings or fuller official narratives are collected.
+- 2023-12-19: public source coverage from INTERPOL.
 
-## Legal Analysis
+## International Cooperation Details
 
-The present page is a structured placeholder built from source metadata and may require refinement from primary filings.
+- Named agencies and partners include Interpol.
+- Recorded cooperation mechanisms include informal cooperation.
+
+## Legal and Procedural Posture
+
+- Recorded crime classification: online fraud.
+- Legal or procedural basis recorded in metadata: informal cooperation.
+- The record is categorized as seizure with status seizure ordered.
+- Related legal or operational records: Operation Usd 300 Million Seized And 3 500 Suspects Arrested Operation Haechi Iv.
+
+## Evidence and Attribution Notes
+
+- South Korea is a **highly capable** partner for international cooperation on cybercrime, with advanced technological infrastructure, specialized cybercrime enforcement units at both national and metropolitan levels, and comprehensive cybercrime legislation.
+- Korea was **invited to accede** to the Budapest Convention in **February 2023** and has been finalizing its accession since: the domestic implementing legislation (a 형사소송법 amendment introducing mandatory electronic-evidence preservation requests) passed the National Assembly on 2025-12-12 and takes effect 2026-07-01, with formal ratification expected to.
 
 ## References
 

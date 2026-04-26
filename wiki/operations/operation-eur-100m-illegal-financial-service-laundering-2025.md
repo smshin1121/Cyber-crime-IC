@@ -105,8 +105,6 @@ Eurojust reported that the scheme began to surface in 2023 after suspicious trip
 ## Cooperation Mechanisms
 
 - Joint Investigation Team hosted at Eurojust
-- information exchange involving tax and judicial authorities
-- coordinated searches and freezing actions across multiple jurisdictions
 
 ## Results and Impact
 

@@ -8,6 +8,7 @@ case_type: prosecution
 status: arrested
 crime_charged:
   - "[[online-fraud-ic]]"
+  - "[[bec-ic]]"
 defendants:
   - name: "Unnamed group leader"
     nationality: unknown
@@ -35,12 +36,13 @@ mechanisms_used:
 key_legal_issues:
   - "[[jurisdictional-conflicts]]"
   - "[[extradition-request]]"
+  - "[[bec-ic]]"
 precedent_value: "low (routine bilateral DE-FR judicial cooperation; illustrative of Eurojust's everyday casework rather than a novel legal precedent)"
 source_count: 1
 sources:
   - "[[2026-03-11-eurojust-de-fr-online-fraud-group]]"
 created: 2026-04-14
-updated: 2026-04-14
+updated: "2026-04-26"
 summary: "In March 2026, [[eurojust|Eurojust]] announced that a criminal group running an online fraud scheme in [[germany|Germany]] had been dismantled following bilateral judicial cooperation with [[france|France]], coordinated by Eurojust. The alleged leader of the group was based in France, making cross-border judicial cooperation essential to halt the group's activities. Victim losses are estimated at approximately **EUR 1 million**."
 ---
 > [!note] Sparse source

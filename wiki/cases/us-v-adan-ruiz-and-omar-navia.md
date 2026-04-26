@@ -1,13 +1,14 @@
 ---
 type: case
 title: "United States v. Adan Ruiz And Omar Navia"
-case_number: "Source-derived from 2025-01-13_justice-gov_united-states-v-adan-ruiz-and-omar-navia"
+case_number: "Not specified in available source metadata"
 jurisdiction: "U.S. District Court, Central District of California"
 jurisdiction_country: "[[united-states]]"
 case_type: prosecution
 status: prosecuted
 crime_charged:
   - "[[online-fraud-ic]]"
+  - "[[dark-web-ic]]"
 defendants:
   - name: "Adan Ruiz And Omar Navia"
     nationality: Unknown
@@ -33,29 +34,41 @@ mechanisms_used:
   - "[[informal-cooperation]]"
 key_legal_issues:
   - "[[online-fraud-ic]]"
+  - "[[dark-web-ic]]"
 precedent_value: "Source-derived candidate case page; analytical significance requires further enrichment from primary filings."
 source_count: 1
 sources:
   - "[[2025-01-13_justice-gov_united-states-v-adan-ruiz-and-omar-navia]]"
 created: 2026-04-18
-updated: 2026-04-18
-summary: "United States v. Adan Ruiz And Omar Navia is a source-derived case page generated from [[2025-01-13_justice-gov_united-states-v-adan-ruiz-and-omar-navia]]."
+updated: "2026-04-26"
+summary: "United States v. Adan Ruiz And Omar Navia is documented in the linked source material. Ruiz and Navia (Darknet Fentanyl Suppliers) Enforcement Action is a follow-on operation catalog record tied to Us V Ruiz Navia Dark Web. Available source coverage includes US DOJ (Central District of California)."
 ---
 ## Summary
 
-United States v. Adan Ruiz And Omar Navia is a source-derived case page generated from [[2025-01-13_justice-gov_united-states-v-adan-ruiz-and-omar-navia]].
+United States v. Adan Ruiz And Omar Navia is documented in the linked source material. Ruiz and Navia (Darknet Fentanyl Suppliers) Enforcement Action is a follow-on operation catalog record tied to Us V Ruiz Navia Dark Web. Available source coverage includes US DOJ (Central District of California).
 
-## Facts
+## Source Coverage
 
-This case page was generated from [[2025-01-13_justice-gov_united-states-v-adan-ruiz-and-omar-navia]] and should be expanded with primary-court detail where available.
+- US DOJ (Central District of California), 2025-01-13: Two Southern California Men Who Supplied Fentanyl Sold to Darknet Customers in All 50 States Sentenced to Federal Prison.
 
-## International Cooperation Elements
+## Operational Timeline
 
-The currently collected source indicates a transnational cybercrime enforcement context, but the specific cross-border mechanisms still need case-level enrichment.
+- 2025-01-13: public source coverage from US DOJ (Central District of California).
 
-## Legal Analysis
+## International Cooperation Details
 
-The present page is a structured placeholder built from source metadata and should be refined as additional filings or official summaries are collected.
+- Named agencies and partners include Us Doj.
+- Recorded cooperation mechanisms include informal cooperation.
+
+## Legal and Procedural Posture
+
+- Recorded crime classification: online fraud.
+- Legal or procedural basis recorded in metadata: informal cooperation.
+- The record is categorized as prosecution with status prosecuted.
+- Related legal or operational records: Operation Us V Adan Ruiz And Omar Navia.
+
+## Evidence and Attribution Notes
+
 
 ## References
 

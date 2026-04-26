@@ -6,7 +6,8 @@ jurisdiction: "Court of Appeals for the Second Circuit"
 jurisdiction_country: ""
 case_type: "prosecution"
 status: "indicted"
-crime_charged: []
+crime_charged:
+  - "[[dark-web-ic]]"
 defendants: []
 related_operation: "[[silk-road-takedown]]"
 ic_elements:
@@ -18,24 +19,39 @@ ic_elements:
 cooperating_agencies: []
 legal_frameworks_invoked: []
 mechanisms_used: []
-key_legal_issues: []
+key_legal_issues:
+  - "[[dark-web-ic]]"
 precedent_value: ""
 source_count: 1
 sources:
   - "[[2017-05-31_court-of-appeals-for-the-second-circuit_united-states-v-ulbricht]]"
 created: 2026-04-18
-updated: 2026-04-18
-summary: "United States v. Ulbricht is a CourtListener-derived appellate case stub tied to [[silk-road-takedown]]."
+updated: "2026-04-26"
+summary: "United States v. Ulbricht is documented in the linked source material. Materialized from 2017-05-31_court-of-appeals-for-the-second-circuit_united-states-v-ulbricht.md Available source coverage includes Court of Appeals for the Second Circuit."
 ---
-
-> [!info] Stub
-> This page was auto-created from CourtListener search results.
-> It will be expanded when the court document is fully reviewed.
 
 ## Summary
 
-United States v. Ulbricht is a CourtListener-derived appellate case stub tied to [[silk-road-takedown]]. It should be expanded from the underlying Second Circuit opinion and district-court record.
+United States v. Ulbricht is documented in the linked source material. Materialized from 2017-05-31_court-of-appeals-for-the-second-circuit_united-states-v-ulbricht.md Available source coverage includes Court of Appeals for the Second Circuit.
 
-## Source
+## Source Coverage
 
-- [United States v. Ulbricht](https://www.courtlistener.com/opinion/4395694/united-states-v-ulbricht/)
+- Court of Appeals for the Second Circuit, 2017-05-31: United States v. Ulbricht.
+
+## Operational Timeline
+
+- 2017-05-31: public source coverage from Court of Appeals for the Second Circuit.
+
+## International Cooperation Details
+
+- The case is recorded in Court of Appeals for the Second Circuit; no separate foreign-assistance detail is captured in the current metadata.
+
+## Legal and Procedural Posture
+
+- The record is categorized as prosecution with status indicted.
+- Related legal or operational records: Silk Road Takedown.
+
+## Evidence and Attribution Notes
+
+- Materialized from 2017-05-31_court-of-appeals-for-the-second-circuit_united-states-v-ulbricht.md
+- Structured source page materialized from raw/case-documents/2017-05-31_court-of-appeals-for-the-second-circuit_united-states-v-ulbricht.md.

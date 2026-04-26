@@ -107,6 +107,7 @@ organizations:
   - "[[trend-micro]]"
 crime_types:
   - "[[bec-ic]]"
+  - "[[malware-ic]]"
 ---
 ## Summary
 

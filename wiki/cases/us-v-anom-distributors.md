@@ -55,11 +55,11 @@ mechanisms_used:
 key_legal_issues:
   - "[[data-sovereignty]]"
 precedent_value: "High - the case almost certainly represents one of the most ambitious examples of law enforcement secretly operating a criminal communications platform and then converting global intelligence collection into extraditions, pleas, and sentencing."
-source_count: 1
+source_count: 2
 sources:
   - "[[2021-06-08_sdca_anom-enterprise-indictment]]"
 created: 2026-04-17
-updated: 2026-04-17
+updated: "2026-04-26"
 summary: "United States v. ANOM Distributors is the San Diego prosecution of the 17-defendant enterprise charged in connection with Operation Trojan Shield. The case is *highly likely* one of the most operationally unusual criminal cases in the repository because the FBI itself controlled the messaging platform that generated the evidence."
 ---
 ## Summary

@@ -1,7 +1,7 @@
 ---
 type: case
 title: "Auburn, Washington man charged federally for drug distribution and illegal firearms possession"
-case_number: "Source-derived from 2026-04-18_justice-gov_auburn-washington-man-charged-federally-drug-distribution-and-illegal-firearms"
+case_number: "Not specified in available source metadata"
 jurisdiction: "U.S. federal prosecution (district not specified in source)"
 jurisdiction_country: "[[united-states]]"
 case_type: prosecution
@@ -33,29 +33,36 @@ mechanisms_used:
   - "[[informal-cooperation]]"
 key_legal_issues:
   - "[[drug-trafficking]]"
-precedent_value: "Source-derived official action page; procedural enrichment from primary filings may still be needed."
+precedent_value: "Official source-backed record; further primary filings can refine procedural detail."
 source_count: 1
 sources:
   - "[[2026-04-18_justice-gov_auburn-washington-man-charged-federally-drug-distribution-and-illegal-firearms]]"
 created: 2026-04-18
-updated: 2026-04-18
-summary: "Auburn, Washington man charged federally for drug distribution and illegal firearms possession is a source-derived case page generated from [[2026-04-18_justice-gov_auburn-washington-man-charged-federally-drug-distribution-and-illegal-firearms]]."
+updated: "2026-04-26"
+summary: "Auburn, Washington man charged federally for drug distribution and illegal firearms possession is documented in the linked source material. Available source coverage includes US DOJ USAO."
 ---
 ## Summary
 
-Auburn, Washington man charged federally for drug distribution and illegal firearms possession is a source-derived case page generated from [[2026-04-18_justice-gov_auburn-washington-man-charged-federally-drug-distribution-and-illegal-firearms]].
+Auburn, Washington man charged federally for drug distribution and illegal firearms possession is documented in the linked source material. Available source coverage includes US DOJ USAO.
 
-## Facts
+## Source Coverage
 
-This case page was generated from [[2026-04-18_justice-gov_auburn-washington-man-charged-federally-drug-distribution-and-illegal-firearms]] and reflects an official action title from the source corpus.
+- US DOJ USAO, 2024-06-05: Auburn, Washington man charged federally for drug distribution and illegal firearms possession.
 
-## International Cooperation Elements
+## Operational Timeline
 
-This source-derived page should be enriched with case-level cooperation detail if primary filings or fuller official narratives are collected.
+- 2024-06-05: public source coverage from US DOJ USAO.
 
-## Legal Analysis
+## International Cooperation Details
 
-The present page is a structured placeholder built from source metadata and may require refinement from primary filings.
+- Named agencies and partners include Us Doj.
+- Recorded cooperation mechanisms include informal cooperation.
+
+## Legal and Procedural Posture
+
+- Recorded crime classification: Drug Trafficking.
+- Legal or procedural basis recorded in metadata: informal cooperation.
+- The record is categorized as prosecution with status charged.
 
 ## References
 

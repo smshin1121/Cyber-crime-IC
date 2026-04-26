@@ -68,7 +68,7 @@ updated: 2026-04-26
 ---
 ## Summary
 
-Former Employee Of Silicon Valley Company Pleads Guilty To Damaging Ex-Employer’s Computers Enforcement Action is a defendant-specific enforcement action page derived from [[former-employee-of-silicon-valley-company-pleads-guilty-to-damaging-ex-employers-computers]]. It captures the prosecutorial or seizure stage reflected in the linked case record and preserves the operation-side catalog entry for this follow-on action.
+Former Employee Of Silicon Valley Company Pleads Guilty To Damaging Ex-Employer’s Computers Enforcement Action is a follow-on operation catalog record tied to [[former-employee-of-silicon-valley-company-pleads-guilty-to-damaging-ex-employers-computers]]. It preserves the operation-side pointer for the related case record.
 
 ## Background
 
@@ -84,6 +84,7 @@ The underlying public case record identifies Former Employee Of Silicon Valley C
 - Operation type: `prosecution`
 - Case anchor: [[former-employee-of-silicon-valley-company-pleads-guilty-to-damaging-ex-employers-computers]]
 - Source coverage: 1 official or catalogued source page(s)
+
 
 ## References
 

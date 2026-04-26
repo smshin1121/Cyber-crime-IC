@@ -1,7 +1,7 @@
 ---
 type: case
 title: "United States v. Foreign Nationals"
-case_number: "Source-derived from 2026-04-17_justice-gov_foreign-nationals-sentenced-roles-transnational-cybercrime-enterprise"
+case_number: "Not specified in available source metadata"
 jurisdiction: "U.S. federal prosecution (district not specified in source)"
 jurisdiction_country: "[[united-states]]"
 case_type: prosecution
@@ -38,24 +38,36 @@ source_count: 1
 sources:
   - "[[2026-04-17_justice-gov_foreign-nationals-sentenced-roles-transnational-cybercrime-enterprise]]"
 created: 2026-04-18
-updated: 2026-04-18
-summary: "United States v. Foreign Nationals is a source-derived case page generated from [[2026-04-17_justice-gov_foreign-nationals-sentenced-roles-transnational-cybercrime-enterprise]]."
+updated: 2026-04-26
+summary: "United States v. Foreign Nationals is documented in the linked source material. Actual losses exceeded USD 568 million, with intended losses exceeding USD 2.2 billion. Available source coverage includes justice.gov."
 ---
 ## Summary
 
-United States v. Foreign Nationals is a source-derived case page generated from [[2026-04-17_justice-gov_foreign-nationals-sentenced-roles-transnational-cybercrime-enterprise]].
+United States v. Foreign Nationals is documented in the linked source material. Actual losses exceeded USD 568 million, with intended losses exceeding USD 2.2 billion. Available source coverage includes justice.gov.
 
-## Facts
+## Source Coverage
 
-This case page was generated from [[2026-04-17_justice-gov_foreign-nationals-sentenced-roles-transnational-cybercrime-enterprise]] and should be expanded with primary-court detail where available.
 
-## International Cooperation Elements
+## Operational Timeline
 
-The currently collected source indicates a transnational cybercrime enforcement context, but the specific cross-border mechanisms still need case-level enrichment.
+- 2026-04-17: public source coverage from justice.gov.
 
-## Legal Analysis
+## International Cooperation Details
 
-The present page is a structured placeholder built from source metadata and should be refined as additional filings or official summaries are collected.
+- Named agencies and partners include Us Doj.
+- Recorded cooperation mechanisms include mutual legal assistance.
+
+## Legal and Procedural Posture
+
+- Recorded crime classification: online fraud.
+- Legal or procedural basis recorded in metadata: mutual legal assistance.
+- The record is categorized as prosecution with status sentenced.
+- Related legal or operational records: Operation Us V Foreign Nationals.
+
+## Evidence and Attribution Notes
+
+- Actual losses exceeded USD 568 million, with intended losses exceeding USD 2.2 billion.
+
 
 ## References
 

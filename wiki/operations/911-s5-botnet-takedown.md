@@ -59,7 +59,7 @@ timeframe:
   ongoing: false
   start: 2024-05
 title: "911 S5 Botnet Dismantling"
-title_ko: "공식 작전명 없음 (911 S5 봇넷 해체)"
+title_ko: "911 S5 Botnet Dismantling (공식 작전명 미확인)"
 type: operation
 updated: 2026-04-26
 operation_role: umbrella
@@ -70,6 +70,7 @@ organizations:
   - "[[fbi]]"
 crime_types:
   - "[[malware-ic]]"
+  - "[[csam-ic]]"
 ---
 ## Summary
 
@@ -114,13 +115,12 @@ United States, Germany, Singapore, Thailand
 
 ## Legal and Procedural Posture
 
-- Recorded crime classification: malware.
+- Recorded crime classification: malware and CSAM.
 - The record is categorized as takedown with status completed.
 - Related legal or operational records: Us V Yunhe Wang 911 S5.
 
 ## Evidence and Attribution Notes
 
-- Secure .gov websites use HTTPS A lock ( Lock Locked padlock ) or https:// means you’ve safely connected to the .gov website.
 - This DOJ Office of Public Affairs release is the principal public description of the May 2024 911 S5 disruption.
 - It provides the operation date, arrest timing, global infection scale, and the seizure figures most useful for the corresponding operation and case pages.
 - Department of Justice and FBI, in cooperation with Germany, Singapore, and Thailand, dismantled the 911 S5 botnet -- the world's largest botnet, which had infected over 19 million IP addresses across nearly 200 countries.
@@ -128,6 +128,7 @@ United States, Germany, Singapore, Thailand
 - IC3 described 911 S5 as one of the largest residential proxy services and botnets, with more than 19 million compromised IP addresses in over 190 countries.
 - The advisory identified the VPN applications tied to the proxy backdoor, including MaskVPN, DewVPN, PaladinVPN, ProxyGate, ShieldVPN, and ShineVPN.
 - The advisory framed the botnet as a vehicle for fraud, identity theft, child exploitation, and initial access brokering.
+- This public-service announcement gives the clearest victim-facing explanation of how 911 S5 spread through bundled VPN applications and pirated software.
 
 <!-- SOURCE_ENRICHMENT_END -->
 

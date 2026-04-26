@@ -1,7 +1,7 @@
 ---
 type: case
 title: "United States v. John Khuu"
-case_number: "Source-derived from 2026-04-18_justice-gov_california-man-sentenced-cryptocurrency-money-laundering-conspiracy"
+case_number: "Not specified in available source metadata"
 jurisdiction: "U.S. federal prosecution (district not specified in source)"
 jurisdiction_country: "[[united-states]]"
 case_type: prosecution
@@ -23,20 +23,41 @@ source_count: 1
 sources:
   - "[[2026-04-18_justice-gov_california-man-sentenced-cryptocurrency-money-laundering-conspiracy]]"
 created: 2026-04-18
-updated: 2026-04-18
-summary: "United States v. John Khuu is a source-derived case page generated from [[2026-04-18_justice-gov_california-man-sentenced-cryptocurrency-money-laundering-conspiracy]]."
+updated: 2026-04-26
+summary: "United States v. John Khuu is documented in the linked source material. Available source coverage includes US DOJ USAO."
 ---
 ## Summary
 
-United States v. John Khuu is a source-derived case page generated from [[2026-04-18_justice-gov_california-man-sentenced-cryptocurrency-money-laundering-conspiracy]].
+United States v. John Khuu is documented in the linked source material. Available source coverage includes US DOJ USAO.
 
-## Facts
+## Source Coverage
 
-This case page was generated from [[2026-04-18_justice-gov_california-man-sentenced-cryptocurrency-money-laundering-conspiracy]] and should be expanded with primary-court detail where available.
+- US DOJ USAO, 2025-03-13: California man sentenced in cryptocurrency money laundering conspiracy.
 
-## Legal Analysis
+## Operational Timeline
 
-The present page is a structured placeholder built from source metadata and should be refined as additional filings or official summaries are collected.
+- 2025-03-13: public source coverage from US DOJ USAO.
+
+## International Cooperation Details
+
+- Named agencies and partners include Us Doj.
+
+## Legal and Procedural Posture
+
+- Recorded crime classification: online fraud.
+- The record is categorized as prosecution with status sentenced.
+
+## Evidence and Attribution Notes
+
+- US DOJ USAO has a parsed source text of 158 words available for further review.
+
+<!-- RAW_TEXT_HIGHLIGHTS_START -->
+
+## Raw Source Highlights
+
+- US DOJ USAO, 2025-03-13: Attorney Divisions Civil Division Criminal Division Programs Project Safe Childhood Project Safe Neighborhoods Victim Witness Assistance LECC DOJ Grants Elder Justice ## Extraction Notes - parser: document - fetcher: doj_fetch - fetched_at: 2026-04-25T14:21:19+00:00 - final_url:
+
+<!-- RAW_TEXT_HIGHLIGHTS_END -->
 
 ## References
 

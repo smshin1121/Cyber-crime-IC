@@ -72,7 +72,7 @@ sources:
   - "[[2015-02-25_arstechnica_europol-cracks-down-on-botnet-infecting-3-2-million-computers]]"
   - "[[2015-02-25_pcworld_europol-and-security-vendors-disrupt-massive-ramnit-botnet]]"
 created: 2026-04-08
-updated: 2026-04-23
+updated: 2026-04-26
 operation_role: umbrella
 parent_operation: ""
 summary: "On 24 February 2015, the **UK National Crime Agency (NCA)** led a multinational operation to take down the **Ramnit botnet**, which had infected approximately **3.2 million computers worldwide**. The operation was coordinated through [[europol-ec3|Europol's European Cybercrime Centre (EC3)]] and the [[j-cat|Joint Cybercrime Action Taskforce (J-CAT)]], with law enforcement participation from [[germany]], [[italy]], and the [[netherlands]]."
@@ -164,6 +164,34 @@ No known Korean involvement in this operation. However, Ramnit infections were r
 > for this operation. Possible reasons: non-US jurisdiction with no
 > public court records system, sealed proceedings, or operation did
 > not result in formal prosecution.
+
+<!-- SOURCE_ENRICHMENT_START -->
+
+## Source Coverage
+
+- Europol, 2015-02-24: Europol: Botnet taken down through international law enforcement cooperation (Ramnit, 2015).
+- Microsoft, 2015-10-22: Breaking Up a Botnet - How Ramnit was Foiled.
+- AnubisNetworks, 2015-02-25: AnubisNetworks Aids Europol’s European Cybercrime Centre in Takedown of Malicious Botnet.
+- Ars Technica, 2015-02-25: Europol cracks down on botnet infecting 3.2 million computers.
+- PCWorld, 2015-02-25: Europol and security vendors disrupt massive Ramnit botnet.
+
+## Legal and Procedural Posture
+
+- Recorded crime classification: malware.
+- Recorded enforcement posture: Takedown and Seizure.
+- The record is categorized as takedown with status completed.
+
+## Evidence and Attribution Notes
+
+- The operation page title is misleading and should be corrected or the source reassigned
+- The actual article describes the 24 February 2015 takedown of the Ramnit botnet, which had infected ~3.2 million computers worldwide, led by the UK National Crime Agency with partner action in Germany, Italy and the Netherlands
+- Private-sector partners: Microsoft, Symantec and AnubisNetworks contributed technical analysis and sinkholing.
+- Operations coordinated through Europol's Joint Cybercrime Action Taskforce (J-CAT) and EC3, with CERT-EU support
+- Technical action: Shutdown of command-and-control servers and redirection (sinkholing) of ~300 internet domain addresses used by the Ramnit botnet to issue instructions to infected machines
+- Malware capability: Ramnit enabled criminals to 'steal personal and banking information, namely passwords, and disable antivirus protection' on Windows systems — a classic banking-trojan profile
+- This is an important data-integrity correction — the operation page was renamed from botnet-takedown-europol-2023 to Ramnit Botnet Takedown after verifying the source describes the 2015 Ramnit takedown
+
+<!-- SOURCE_ENRICHMENT_END -->
 
 ## References
 

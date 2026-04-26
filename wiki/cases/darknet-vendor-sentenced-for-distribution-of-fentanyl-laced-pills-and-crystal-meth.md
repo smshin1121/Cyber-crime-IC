@@ -1,13 +1,14 @@
 ---
 type: case
 title: "Darknet Vendor Sentenced for Distribution of Fentanyl-Laced Pills and Crystal Meth"
-case_number: "Source-derived from 2023-08-17_justice-gov_united-states-v-justin-udvardi"
+case_number: "Not specified in available source metadata"
 jurisdiction: "U.S. District Court, Eastern District of Virginia"
 jurisdiction_country: "[[united-states]]"
 case_type: prosecution
 status: sentenced
 crime_charged:
   - "[[online-fraud-ic]]"
+  - "[[dark-web-ic]]"
 defendants:
   - name: "Donjuan Murphy"
     nationality: Unknown
@@ -37,29 +38,40 @@ mechanisms_used:
   - "[[informal-cooperation]]"
 key_legal_issues:
   - "[[online-fraud-ic]]"
-precedent_value: "Source-derived official action page; procedural enrichment from primary filings may still be needed."
+  - "[[dark-web-ic]]"
+precedent_value: "Official source-backed record; further primary filings can refine procedural detail."
 source_count: 1
 sources:
   - "[[2023-08-17_justice-gov_united-states-v-justin-udvardi]]"
 created: 2026-04-18
-updated: 2026-04-18
-summary: "Darknet Vendor Sentenced for Distribution of Fentanyl-Laced Pills and Crystal Meth is a source-derived case page generated from [[2023-08-17_justice-gov_united-states-v-justin-udvardi]]."
+updated: "2026-04-26"
+summary: "Darknet Vendor Sentenced for Distribution of Fentanyl-Laced Pills and Crystal Meth is documented in the linked source material. Justin Udvardi (TrapGod) Enforcement Action is a follow-on operation catalog record tied to Us V Udvardi Dark Web. Available source coverage includes US DOJ (Eastern District of Virginia)."
 ---
 ## Summary
 
-Darknet Vendor Sentenced for Distribution of Fentanyl-Laced Pills and Crystal Meth is a source-derived case page generated from [[2023-08-17_justice-gov_united-states-v-justin-udvardi]].
+Darknet Vendor Sentenced for Distribution of Fentanyl-Laced Pills and Crystal Meth is documented in the linked source material. Justin Udvardi (TrapGod) Enforcement Action is a follow-on operation catalog record tied to Us V Udvardi Dark Web. Available source coverage includes US DOJ (Eastern District of Virginia).
 
-## Facts
+## Source Coverage
 
-This case page was generated from [[2023-08-17_justice-gov_united-states-v-justin-udvardi]] and reflects an official action title from the source corpus.
+- US DOJ (Eastern District of Virginia), 2023-08-17: Darknet Vendor Sentenced for Distribution of Fentanyl-Laced Pills and Crystal Meth.
 
-## International Cooperation Elements
+## Operational Timeline
 
-This source-derived page should be enriched with case-level cooperation detail if primary filings or fuller official narratives are collected.
+- 2023-08-17: public source coverage from US DOJ (Eastern District of Virginia).
 
-## Legal Analysis
+## International Cooperation Details
 
-The present page is a structured placeholder built from source metadata and may require refinement from primary filings.
+- Named agencies and partners include Us Doj.
+- Recorded cooperation mechanisms include informal cooperation.
+
+## Legal and Procedural Posture
+
+- Recorded crime classification: online fraud and dark web.
+- Legal or procedural basis recorded in metadata: informal cooperation.
+- The record is categorized as prosecution with status sentenced.
+
+## Evidence and Attribution Notes
+
 
 ## References
 

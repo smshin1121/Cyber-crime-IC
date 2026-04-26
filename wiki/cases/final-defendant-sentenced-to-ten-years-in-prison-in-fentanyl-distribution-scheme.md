@@ -1,7 +1,7 @@
 ---
 type: case
 title: "Final defendant sentenced to ten years in prison in fentanyl distribution scheme"
-case_number: "Source-derived from 2026-04-18_justice-gov_final-defendant-sentenced-ten-years-prison-fentanyl-distribution-scheme"
+case_number: "Not specified in available source metadata"
 jurisdiction: "U.S. federal prosecution (district not specified in source)"
 jurisdiction_country: "[[united-states]]"
 case_type: prosecution
@@ -17,25 +17,33 @@ defendants:
     status: sentenced
     sentence: ""
     location_at_arrest: ""
-precedent_value: "Source-derived official action page; procedural enrichment from primary filings may still be needed."
+precedent_value: "Official source-backed record; further primary filings can refine procedural detail."
 source_count: 1
 sources:
   - "[[2026-04-18_justice-gov_final-defendant-sentenced-ten-years-prison-fentanyl-distribution-scheme]]"
 created: 2026-04-18
-updated: 2026-04-19
-summary: "Final defendant sentenced to ten years in prison in fentanyl distribution scheme is a source-derived domestic case page generated from [[2026-04-18_justice-gov_final-defendant-sentenced-ten-years-prison-fentanyl-distribution-scheme]]."
+updated: "2026-04-26"
+summary: "Final defendant sentenced to ten years in prison in fentanyl distribution scheme is documented in the linked source material. Available source coverage includes US DOJ USAO."
 ---
 ## Summary
 
-Final defendant sentenced to ten years in prison in fentanyl distribution scheme is a source-derived domestic case page generated from [[2026-04-18_justice-gov_final-defendant-sentenced-ten-years-prison-fentanyl-distribution-scheme]].
+Final defendant sentenced to ten years in prison in fentanyl distribution scheme is documented in the linked source material. Available source coverage includes US DOJ USAO.
 
-## Domestic Context
+## Source Coverage
 
-No cross-border mechanism is documented in the currently collected source.
+- US DOJ USAO, 2024-05-28: Final defendant sentenced to ten years in prison in fentanyl distribution scheme.
 
-## Legal Analysis
+## Operational Timeline
 
-The present page is a structured record of a domestic federal prosecution and may be refined if primary filings are collected.
+- 2024-05-28: public source coverage from US DOJ USAO.
+
+## International Cooperation Details
+
+- The case is recorded in U.S. federal prosecution (district not specified in source); no separate foreign-assistance detail is captured in the current metadata.
+
+## Legal and Procedural Posture
+
+- The record is categorized as prosecution with status sentenced.
 
 ## References
 

@@ -1,7 +1,7 @@
 ---
 type: case
 title: "Two men indicted for international conspiracy to ship Fentanyl, other drugs into United States through Dark Web connections"
-case_number: "Source-derived from 2026-04-18_justice-gov_two-men-indicted-international-conspiracy-ship-fentanyl-other-drugs-united-states"
+case_number: "Not specified in available source metadata"
 jurisdiction: "U.S. federal prosecution (district not specified in source)"
 jurisdiction_country: "[[united-states]]"
 case_type: prosecution
@@ -34,29 +34,37 @@ mechanisms_used:
   - "[[informal-cooperation]]"
 key_legal_issues:
   - "[[drug-trafficking]]"
-precedent_value: "Source-derived official action page; procedural enrichment from primary filings may still be needed."
+precedent_value: "Official source-backed record; further primary filings can refine procedural detail."
 source_count: 1
 sources:
   - "[[2026-04-18_justice-gov_two-men-indicted-international-conspiracy-ship-fentanyl-other-drugs-united-states]]"
 created: 2026-04-18
-updated: 2026-04-18
-summary: "Two men indicted for international conspiracy to ship Fentanyl, other drugs into United States through Dark Web connections is a source-derived case page generated from [[2026-04-18_justice-gov_two-men-indicted-international-conspiracy-ship-fentanyl-other-drugs-united-states]]."
+updated: 2026-04-26
+summary: "Two men indicted for international conspiracy to ship Fentanyl, other drugs into United States through Dark Web connections is documented in the linked source material. Available source coverage includes US DOJ USAO."
 ---
 ## Summary
 
-Two men indicted for international conspiracy to ship Fentanyl, other drugs into United States through Dark Web connections is a source-derived case page generated from [[2026-04-18_justice-gov_two-men-indicted-international-conspiracy-ship-fentanyl-other-drugs-united-states]].
+Two men indicted for international conspiracy to ship Fentanyl, other drugs into United States through Dark Web connections is documented in the linked source material. Available source coverage includes US DOJ USAO.
 
-## Facts
+## Source Coverage
 
-This case page was generated from [[2026-04-18_justice-gov_two-men-indicted-international-conspiracy-ship-fentanyl-other-drugs-united-states]] and reflects an official action title from the source corpus.
+- US DOJ USAO, 2022-06-01: Two men indicted for international conspiracy to ship Fentanyl, other drugs into United States through Dark Web connections.
 
-## International Cooperation Elements
+## Operational Timeline
 
-This source-derived page should be enriched with case-level cooperation detail if primary filings or fuller official narratives are collected.
+- 2022-06-01: public source coverage from US DOJ USAO.
 
-## Legal Analysis
+## International Cooperation Details
 
-The present page is a structured placeholder built from source metadata and may require refinement from primary filings.
+- Named agencies and partners include Us Doj.
+- Recorded cooperation mechanisms include informal cooperation.
+
+## Legal and Procedural Posture
+
+- Recorded crime classification: Drug Trafficking and online fraud.
+- Legal or procedural basis recorded in metadata: informal cooperation.
+- The record is categorized as prosecution with status indicted.
+- Related legal or operational records: Operation Two Men Indicted For International Conspiracy To Ship Fentanyl Other Drugs Into United States Through Dark Web.
 
 ## References
 

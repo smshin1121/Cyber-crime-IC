@@ -1,7 +1,7 @@
 ---
 type: operation
 title: "International Cyber Fraud Dismantling Operation"
-title_ko: "공식 작전명 없음 (국제 사이버 사기 조직 단속)"
+title_ko: "International Cyber Fraud Dismantling Operation (공식 작전명 미확인)"
 aliases:
 
 case_id: CYB-2015-002
@@ -98,6 +98,7 @@ organizations:
   - "[[spanish-national-police]]"
 crime_types:
   - "[[online-fraud-ic]]"
+  - "[[bec-ic]]"
 ---
 ## Summary
 

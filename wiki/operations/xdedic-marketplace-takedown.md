@@ -261,7 +261,6 @@ The prosecution evidence also came from the downstream fraud streams. Levinson's
 
 ## Results and Impact
 
-- xDedic domain names and infrastructure were seized in January 2019.
 - More than 700,000 compromised servers were offered for sale through the marketplace.
 - DOJ reported 17 defendants charged and/or extradited to the United States by January 2024, plus two additional charged U.K. defendants pending extradition.
 - The enforcement set covers administrators, technical sellers, buyers, tax-fraud participants, and downstream cyber-scam actors.

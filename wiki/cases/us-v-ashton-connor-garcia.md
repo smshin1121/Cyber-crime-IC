@@ -1,7 +1,7 @@
 ---
 type: case
 title: "United States v. Ashton Connor Garcia"
-case_number: "Source-derived from 2026-04-18_justice-gov_bremerton-washington-man-pleads-guilty-four-federal-felonies-connected-his-extensive"
+case_number: "Not specified in available source metadata"
 jurisdiction: "U.S. federal prosecution (district not specified in source)"
 jurisdiction_country: "[[united-states]]"
 case_type: prosecution
@@ -38,24 +38,38 @@ source_count: 1
 sources:
   - "[[2026-04-18_justice-gov_bremerton-washington-man-pleads-guilty-four-federal-felonies-connected-his-extensive]]"
 created: 2026-04-18
-updated: 2026-04-18
-summary: "United States v. Ashton Connor Garcia is a source-derived case page generated from [[2026-04-18_justice-gov_bremerton-washington-man-pleads-guilty-four-federal-felonies-connected-his-extensive]]."
+updated: "2026-04-26"
+summary: "United States v. Ashton Connor Garcia is documented in the linked source material. The defendant pleaded guilty to four federal felonies tied to the swatting campaign. Available source coverage includes USAO Western District of Washington."
 ---
 ## Summary
 
-United States v. Ashton Connor Garcia is a source-derived case page generated from [[2026-04-18_justice-gov_bremerton-washington-man-pleads-guilty-four-federal-felonies-connected-his-extensive]].
+United States v. Ashton Connor Garcia is documented in the linked source material. The defendant pleaded guilty to four federal felonies tied to the swatting campaign. Available source coverage includes USAO Western District of Washington.
 
-## Facts
+## Source Coverage
 
-This case page was generated from [[2026-04-18_justice-gov_bremerton-washington-man-pleads-guilty-four-federal-felonies-connected-his-extensive]] and should be expanded with primary-court detail where available.
+- USAO Western District of Washington, 2024-01-25: Bremerton, Washington man pleads guilty to four federal felonies connected to his extensive swatting scheme.
 
-## International Cooperation Elements
+## Operational Timeline
 
-The currently collected source indicates a transnational cybercrime enforcement context, but the specific cross-border mechanisms still need case-level enrichment.
+- 2024-01-25: public source coverage from USAO Western District of Washington.
 
-## Legal Analysis
+## International Cooperation Details
 
-The present page is a structured placeholder built from source metadata and should be refined as additional filings or official summaries are collected.
+- Named agencies and partners include Us Doj.
+- Recorded cooperation mechanisms include informal cooperation.
+
+## Legal and Procedural Posture
+
+- Recorded crime classification: online fraud.
+- Legal or procedural basis recorded in metadata: informal cooperation.
+- The record is categorized as prosecution with status pleaded guilty.
+- Related legal or operational records: Operation Us V Ashton Connor Garcia.
+
+## Evidence and Attribution Notes
+
+- The defendant pleaded guilty to four federal felonies tied to the swatting campaign.
+- The release names Ashton Connor Garcia and bridges the indictment and sentencing stages.
+- This plea-stage DOJ release provides the procedural midpoint for the Bremerton swatting prosecution.
 
 ## References
 

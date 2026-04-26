@@ -1,13 +1,14 @@
 ---
 type: case
 title: "Nigerian National Pleads Guilty to $1.25 Million Business Email Compromise Scam Impacting U.S. Company"
-case_number: "Source-derived from 2026-04-18_justice-gov_nigerian-national-pleads-guilty-125-million-business-email-compromise-scam-impacting-us"
+case_number: "Not specified in available source metadata"
 jurisdiction: "U.S. federal prosecution (district not specified in source)"
 jurisdiction_country: "[[united-states]]"
 case_type: prosecution
 status: "pleaded guilty"
 crime_charged:
   - "[[online-fraud-ic]]"
+  - "[[bec-ic]]"
 defendants:
   - name: "Onwuchekwa Nnanna Kalu"
     nationality: Unknown
@@ -33,29 +34,42 @@ mechanisms_used:
   - "[[informal-cooperation]]"
 key_legal_issues:
   - "[[online-fraud-ic]]"
-precedent_value: "Source-derived official action page; procedural enrichment from primary filings may still be needed."
+  - "[[bec-ic]]"
+precedent_value: "Official source-backed record; further primary filings can refine procedural detail."
 source_count: 1
 sources:
   - "[[2026-04-18_justice-gov_nigerian-national-pleads-guilty-125-million-business-email-compromise-scam-impacting-us]]"
 created: 2026-04-18
-updated: 2026-04-18
-summary: "Official websites use .gov A .gov website belongs to an official government organization in the United States."
+updated: "2026-04-26"
+summary: "Nigerian National Pleads Guilty to $1.25 Million Business Email Compromise Scam Impacting U.S. Company is documented in the linked source material. Moss scheduled a sentencing hearing for November 29, 2023. Available source coverage includes US DOJ USAO."
 ---
 ## Summary
 
-Official websites use .gov A .gov website belongs to an official government organization in the United States.
+Nigerian National Pleads Guilty to $1.25 Million Business Email Compromise Scam Impacting U.S. Company is documented in the linked source material. Moss scheduled a sentencing hearing for November 29, 2023. Available source coverage includes US DOJ USAO.
 
-## Facts
+## Source Coverage
 
-This case page was generated from [[2026-04-18_justice-gov_nigerian-national-pleads-guilty-125-million-business-email-compromise-scam-impacting-us]] and reflects an official action title from the source corpus.
+- US DOJ USAO, 2023-08-04: Nigerian National Pleads Guilty to $1.25 Million Business Email Compromise Scam Impacting U.S. Company.
 
-## International Cooperation Elements
+## Operational Timeline
 
-This source-derived page should be enriched with case-level cooperation detail if primary filings or fuller official narratives are collected.
+- 2023-08-04: public source coverage from US DOJ USAO.
 
-## Legal Analysis
+## International Cooperation Details
 
-The present page is a structured placeholder built from source metadata and may require refinement from primary filings.
+- Named agencies and partners include Us Doj.
+- Recorded cooperation mechanisms include informal cooperation.
+
+## Legal and Procedural Posture
+
+- Recorded crime classification: online fraud and BEC.
+- Legal or procedural basis recorded in metadata: informal cooperation.
+- The record is categorized as prosecution with status pleaded guilty.
+- Related legal or operational records: Operation Nigerian National Pleads Guilty To 1 25 Million Business Email Compromise Scam Impacting U S Company.
+
+## Evidence and Attribution Notes
+
+- Moss scheduled a sentencing hearing for November 29, 2023.
 
 ## References
 

@@ -1,7 +1,7 @@
 ---
 type: case
 title: "2 leaders of $2.8 million dark web drug trafficking, money laundering conspiracy sentenced to 16 & 18 years in prison"
-case_number: "Source-derived from 2023-10-12_sdoh_sirotkin-deaver-dark-web-sentencing"
+case_number: "Not specified in available source metadata"
 jurisdiction: "U.S. District Court, Southern District of Ohio"
 jurisdiction_country: "[[united-states]]"
 case_type: prosecution
@@ -39,29 +39,42 @@ mechanisms_used:
   - "[[informal-cooperation]]"
 key_legal_issues:
   - "[[drug-trafficking]]"
-precedent_value: "Source-derived official action page; procedural enrichment from primary filings may still be needed."
+precedent_value: "Official source-backed record; further primary filings can refine procedural detail."
 source_count: 1
 sources:
   - "[[2023-10-12_sdoh_sirotkin-deaver-dark-web-sentencing]]"
 created: 2026-04-18
-updated: 2026-04-18
-summary: "2 leaders of $2.8 million dark web drug trafficking, money laundering conspiracy sentenced to 16 & 18 years in prison is a source-derived case page generated from [[2023-10-12_sdoh_sirotkin-deaver-dark-web-sentencing]]."
+updated: 2026-04-26
+summary: "2 leaders of $2.8 million dark web drug trafficking, money laundering conspiracy sentenced to 16 & 18 years in prison is documented in the linked source material. On 12 October 2023, DOJ announced that Khlari Sirotkin and Sean Deaver were sentenced to 16 and 18 years in prison for leading a USD 2.8 million dark web drug-trafficking and money-laundering conspiracy. Available source coverage includes US DOJ (Southern District of Ohio)."
 ---
 ## Summary
 
-2 leaders of $2.8 million dark web drug trafficking, money laundering conspiracy sentenced to 16 & 18 years in prison is a source-derived case page generated from [[2023-10-12_sdoh_sirotkin-deaver-dark-web-sentencing]].
+2 leaders of $2.8 million dark web drug trafficking, money laundering conspiracy sentenced to 16 & 18 years in prison is documented in the linked source material. On 12 October 2023, DOJ announced that Khlari Sirotkin and Sean Deaver were sentenced to 16 and 18 years in prison for leading a USD 2.8 million dark web drug-trafficking and money-laundering conspiracy. Available source coverage includes US DOJ (Southern District of Ohio).
 
-## Facts
+## Source Coverage
 
-This case page was generated from [[2023-10-12_sdoh_sirotkin-deaver-dark-web-sentencing]] and reflects an official action title from the source corpus.
+- US DOJ (Southern District of Ohio), 2023-10-12: 2 leaders of $2.8 million dark web drug trafficking, money laundering conspiracy sentenced to 16 & 18 years in prison.
 
-## International Cooperation Elements
+## Operational Timeline
 
-This source-derived page should be enriched with case-level cooperation detail if primary filings or fuller official narratives are collected.
+- 2023-10-12: public source coverage from US DOJ (Southern District of Ohio).
 
-## Legal Analysis
+## International Cooperation Details
 
-The present page is a structured placeholder built from source metadata and may require refinement from primary filings.
+- Named agencies and partners include Us Doj.
+- Recorded cooperation mechanisms include informal cooperation.
+
+## Legal and Procedural Posture
+
+- Recorded crime classification: Drug Trafficking, online fraud, money laundering.
+- Legal or procedural basis recorded in metadata: informal cooperation.
+- The record is categorized as prosecution with status sentenced.
+
+## Evidence and Attribution Notes
+
+- On 12 October 2023, DOJ announced that Khlari Sirotkin and Sean Deaver were sentenced to 16 and 18 years in prison for leading a USD 2.8 million dark web drug-trafficking and money-laundering conspiracy.
+- DOJ said the defendants sold more than one million fentanyl-laced counterfeit pills and other drugs through several dark web marketplace accounts, including one named Pill Cosby.
+
 
 ## References
 

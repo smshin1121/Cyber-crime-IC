@@ -128,6 +128,7 @@ organizations:
   - "[[afripol]]"
 crime_types:
   - "[[bec-ic]]"
+  - "[[ransomware-ic]]"
 ---
 ## Summary
 

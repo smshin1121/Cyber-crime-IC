@@ -8,6 +8,7 @@ case_type: prosecution
 status: sentenced
 crime_charged:
   - "[[online-fraud-ic]]"
+  - "[[dark-web-ic]]"
 defendants:
   - name: "Ross William Ulbricht"
     nationality: American
@@ -45,13 +46,14 @@ mechanisms_used:
   - "[[mlat-process]]"
 key_legal_issues:
   - "[[data-sovereignty]]"
+  - "[[dark-web-ic]]"
 precedent_value: "Landmark — first life sentence for a cybercrime; established precedent for dark web marketplace prosecution, cryptocurrency seizure at scale, and cross-border digital evidence collection"
 source_count: 2
 sources:
   - "[[2015-05-29_sdny_us-v-ulbricht-sentencing]]"
   - "[[wired-operation-avalanche]]"
 created: 2026-04-12
-updated: 2026-04-12
+updated: "2026-04-26"
 summary: "United States v. Ulbricht is the landmark criminal prosecution of Ross William Ulbricht, creator and operator of the Silk Road dark web marketplace, in the Southern District of New York. Ulbricht was convicted on all seven counts on 4 February 2015 and sentenced to two concurrent life terms plus 40 years on 29 May 2015, with a forfeiture order of USD 183,961,921. At the time, this was *almost certainly* the most severe sentence ever imposed for a cybercrime."
 ---
 ## Summary

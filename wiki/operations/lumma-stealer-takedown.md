@@ -69,6 +69,7 @@ organizations:
   - "[[japan-npa]]"
 crime_types:
   - "[[hacking-ic]]"
+  - "[[malware-ic]]"
 ---
 > [!note] Source basis
 > This page is rebuilt from official Microsoft and DOJ material. The prior version had a malformed `sources` field and no usable references table, which made a legitimate international operation look under-sourced.
@@ -141,7 +142,6 @@ The operation is notable because the cooperation model is explicit in the source
 
 - Microsoft says approximately 2,300 Lumma-linked domains were seized, blocked, or redirected.
 - The post names DOJ, Europol EC3, and Japan's JC3 as partners.
-- Secure .gov websites use HTTPS A lock ( Lock Locked padlock ) or https:// means you’ve safely connected to the .gov website.
 - Microsoft details LummaC2's malware-as-a-service structure and delivery ecosystem.
 - The post confirms that disruption involved approximately 2,300 malicious domains.
 - BleepingComputer reported that 2,300 domains tied to Lumma were disrupted in a joint Microsoft-DOJ-Europol-Japan action.

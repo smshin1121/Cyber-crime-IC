@@ -8,6 +8,7 @@ case_type: civil-seizure
 status: trial-pending
 crime_charged:
   - "[[carding-fraud-ic]]"
+  - "[[dark-web-ic]]"
 defendants:
   - name: "Unknown BidenCash administrators"
     nationality: Unknown
@@ -38,12 +39,13 @@ mechanisms_used:
   - "[[public-private-cooperation]]"
 key_legal_issues:
   - "[[data-sovereignty]]"
+  - "[[dark-web-ic]]"
 precedent_value: "Moderate - the matter likely illustrates a modern carding-market disruption model built on domain seizure warrants, crypto seizure authority, Dutch cooperation, and private-sector infrastructure intelligence rather than immediate operator arrests."
 source_count: 1
 sources:
   - "[[2025-06-04_edva_bidencash-marketplace-seizure]]"
 created: 2026-04-17
-updated: 2026-04-17
+updated: "2026-04-26"
 summary: "In re Seizure of BidenCash Marketplace Domains is the Eastern District of Virginia seizure matter used to dismantle BidenCash infrastructure in June 2025. The case is *likely* one of the better recent examples in the repository of a court-authorized cybercrime market disruption that prioritized domains and cryptocurrency over named defendants."
 ---
 ## Summary

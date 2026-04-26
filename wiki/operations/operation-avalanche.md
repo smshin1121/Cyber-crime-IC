@@ -110,7 +110,7 @@ sources:
   - "[[kaspersky-operation-avalanche]]"
 summary: "Operation Avalanche was a German-origin investigation and multinational takedown that disrupted one of the world's largest malware, phishing and spam infrastructures on 30 November 2016. Europol, Eurojust, INTERPOL, the FBI, BSI and many national partners combined judicial coordination, technical sinkholing, domain blocking and server seizures to break the network."
 created: 2026-04-08
-updated: 2026-04-21
+updated: 2026-04-26
 ---
 ## Summary
 
@@ -155,7 +155,6 @@ Avalanche is a reference case for infrastructure takedowns because it was not ju
 - 5 arrests publicly attributed to the operation
 - 221 servers targeted for seizure or disruption
 - 800,000+ malicious domains blocked
-- victim footprint spanning more than 180 countries
 
 ## Cooperation And Legal Analysis
 
@@ -167,6 +166,41 @@ The operation also illustrates a recurring cybercrime pattern: infrastructure di
 
 > [!warning] No public court documents found
 > Public reporting confirms the multinational takedown and related arrests, but the repo does not currently contain a clean, public docket set tying Avalanche to a single court-driven prosecution narrative.
+
+<!-- SOURCE_ENRICHMENT_START -->
+
+## Source Coverage
+
+- Europol, 2016-11-30: 'Avalanche' network dismantled in international cyber operation.
+- US DOJ USAO, 2016-12-05: Avalanche Network Dismantled in International Cyber Operation.
+- Eurojust, 2017-04-01: Operation Avalanche: a closer look.
+- Federal Office for Information Security (BSI), 2026-04-18: "Avalanche" botnet infrastructure.
+- BBC, 2016-12-01: BBC: Operation Avalanche.
+- Reuters, 2024-09-18: Reuters: 'Ghost' Cybercrime Platform Dismantled in Global Operation, 51 Arrested.
+- Kaspersky, 2016-2017: Kaspersky: Operation Avalanche.
+
+## Operational Timeline
+
+- 2012: activity or investigation start.
+- 2016-11-30: public announcement.
+- 2016-11-30: reported enforcement endpoint.
+- 2016-11-30: public source coverage from Europol.
+- 2016-12-01: public source coverage from BBC.
+- 2016-12-05: public source coverage from US DOJ USAO.
+- 2016-2017: public source coverage from Kaspersky.
+- 2017-04-01: public source coverage from Eurojust.
+
+## Evidence and Attribution Notes
+
+- Operation Avalanche, launched from a German investigation in 2012 and culminating on November 30, 2016, dismantled the world's largest phishing, spam, and malware distribution network known as "Avalanche.
+- The network had victimized users in over 180 countries through online banking hacking, phishing, spam, and malware distribution.
+- Eurojust describes Avalanche as a German investigation that began in 2012 and exposed a resilient criminal infrastructure used for malware, phishing and spam at global scale.
+- The publication states that the network infected millions of private and business computer systems and enabled credential theft, bank transfers, and money-mule recruitment.
+- Eurojust's case study is useful for the judicial-cooperation dimension because it focuses on the legal and coordination problems of a multinational takedown rather than only the press-release headline numbers.
+- Eurojust's case study provides the judicial-cooperation view of Operation Avalanche.
+- It confirms that the matter originated from a German investigation in 2012, involved a highly resilient fast-flux infrastructure, and required coordinated action across many jurisdictions to disrupt the network and preserve evidence.
+
+<!-- SOURCE_ENRICHMENT_END -->
 
 ## References
 

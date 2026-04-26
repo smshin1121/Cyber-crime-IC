@@ -1,7 +1,7 @@
 ---
 type: case
 title: "Moldovan Botnet Operator Indicted for Role in Conspiracy to Unlawfully Access Thousands of Infected Computers Throughout the United States"
-case_number: "Source-derived from 2026-04-18_justice-gov_moldovan-botnet-operator-indicted-role-conspiracy-unlawfully-access-thousands-infected"
+case_number: "Not specified in available source metadata"
 jurisdiction: "U.S. federal prosecution (district not specified in source)"
 jurisdiction_country: "[[united-states]]"
 case_type: prosecution
@@ -33,29 +33,41 @@ mechanisms_used:
   - "[[informal-cooperation]]"
 key_legal_issues:
   - "[[malware-ic]]"
-precedent_value: "Source-derived official action page; procedural enrichment from primary filings may still be needed."
+precedent_value: "Official source-backed record; further primary filings can refine procedural detail."
 source_count: 1
 sources:
   - "[[2026-04-18_justice-gov_moldovan-botnet-operator-indicted-role-conspiracy-unlawfully-access-thousands-infected]]"
 created: 2026-04-18
-updated: 2026-04-18
-summary: "Moldovan Botnet Operator Indicted for Role in Conspiracy to Unlawfully Access Thousands of Infected Computers Throughout the United States is a source-derived case page generated from [[2026-04-18_justice-gov_moldovan-botnet-operator-indicted-role-conspiracy-unlawfully-access-thousands-infected]]."
+updated: "2026-04-26"
+summary: "Moldovan Botnet Operator Indicted for Role in Conspiracy to Unlawfully Access Thousands of Infected Computers Throughout the United States is documented in the linked source material. The captured page included standard DOJ site-security boilerplate about HTTPS and official .gov pages. Available source coverage includes US DOJ USAO."
 ---
 ## Summary
 
-Moldovan Botnet Operator Indicted for Role in Conspiracy to Unlawfully Access Thousands of Infected Computers Throughout the United States is a source-derived case page generated from [[2026-04-18_justice-gov_moldovan-botnet-operator-indicted-role-conspiracy-unlawfully-access-thousands-infected]].
+Moldovan Botnet Operator Indicted for Role in Conspiracy to Unlawfully Access Thousands of Infected Computers Throughout the United States is documented in the linked source material. The captured page included standard DOJ site-security boilerplate about HTTPS and official .gov pages. Available source coverage includes US DOJ USAO.
 
-## Facts
+## Source Coverage
 
-This case page was generated from [[2026-04-18_justice-gov_moldovan-botnet-operator-indicted-role-conspiracy-unlawfully-access-thousands-infected]] and reflects an official action title from the source corpus.
+- US DOJ USAO, 2024-04-16: Moldovan Botnet Operator Indicted for Role in Conspiracy to Unlawfully Access Thousands of Infected Computers Throughout the United States.
 
-## International Cooperation Elements
+## Operational Timeline
 
-This source-derived page should be enriched with case-level cooperation detail if primary filings or fuller official narratives are collected.
+- 2024-04-16: public source coverage from US DOJ USAO.
 
-## Legal Analysis
+## International Cooperation Details
 
-The present page is a structured placeholder built from source metadata and may require refinement from primary filings.
+- Named agencies and partners include Us Doj.
+- Recorded cooperation mechanisms include informal cooperation.
+
+## Legal and Procedural Posture
+
+- Recorded crime classification: malware.
+- Legal or procedural basis recorded in metadata: informal cooperation.
+- The record is categorized as prosecution with status indicted.
+- Related legal or operational records: Operation Moldovan Botnet Operator Indicted For Role In Conspiracy To Unlawfully Access Thousands Of Infected Computers.
+
+## Evidence and Attribution Notes
+
+- The captured page included standard DOJ site-security boilerplate about HTTPS and official .gov pages.
 
 ## References
 

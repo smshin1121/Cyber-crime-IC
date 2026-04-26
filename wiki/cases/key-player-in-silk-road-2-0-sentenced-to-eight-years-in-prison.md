@@ -1,13 +1,14 @@
 ---
 type: case
 title: "Key Player in ‘Silk Road 2.0’ Sentenced to Eight Years in Prison"
-case_number: "Source-derived from 2016-06-03_wdwa_farrell-silk-road-2-sentencing"
+case_number: "Not specified in available source metadata"
 jurisdiction: "U.S. District Court, Western District of Washington"
 jurisdiction_country: "[[united-states]]"
 case_type: prosecution
 status: sentenced
 crime_charged:
   - "[[online-fraud-ic]]"
+  - "[[dark-web-ic]]"
 defendants:
   - name: "Key Player in ‘Silk Road 2.0’ Sentenced to Eight Years in Prison"
     nationality: Unknown
@@ -33,29 +34,46 @@ mechanisms_used:
   - "[[informal-cooperation]]"
 key_legal_issues:
   - "[[online-fraud-ic]]"
-precedent_value: "Source-derived official action page; procedural enrichment from primary filings may still be needed."
+  - "[[dark-web-ic]]"
+precedent_value: "Official source-backed record; further primary filings can refine procedural detail."
 source_count: 1
 sources:
   - "[[2016-06-03_wdwa_farrell-silk-road-2-sentencing]]"
 created: 2026-04-18
-updated: 2026-04-18
-summary: "Key Player in ‘Silk Road 2.0’ Sentenced to Eight Years in Prison is a source-derived case page generated from [[2016-06-03_wdwa_farrell-silk-road-2-sentencing]]."
+updated: 2026-04-26
+summary: "Key Player in ‘Silk Road 2.0’ Sentenced to Eight Years in Prison is documented in the linked source material. Attorney's Office for the Western District of Washington announced that Brian Richard Farrell, a key administrator for Silk Road 2.0, was sentenced to eight years in prison for conspiracy to distribute controlled substances. Available source coverage includes US DOJ (Western District of Washington)."
 ---
 ## Summary
 
-Key Player in ‘Silk Road 2.0’ Sentenced to Eight Years in Prison is a source-derived case page generated from [[2016-06-03_wdwa_farrell-silk-road-2-sentencing]].
+Key Player in ‘Silk Road 2.0’ Sentenced to Eight Years in Prison is documented in the linked source material. Attorney's Office for the Western District of Washington announced that Brian Richard Farrell, a key administrator for Silk Road 2.0, was sentenced to eight years in prison for conspiracy to distribute controlled substances. Available source coverage includes US DOJ (Western District of Washington).
 
-## Facts
+## Source Coverage
 
-This case page was generated from [[2016-06-03_wdwa_farrell-silk-road-2-sentencing]] and reflects an official action title from the source corpus.
+- US DOJ (Western District of Washington), 2016-06-03: Key Player in ‘Silk Road 2.0’ Sentenced to Eight Years in Prison.
 
-## International Cooperation Elements
+## Operational Timeline
 
-This source-derived page should be enriched with case-level cooperation detail if primary filings or fuller official narratives are collected.
+- 2016-06-03: public source coverage from US DOJ (Western District of Washington).
 
-## Legal Analysis
+## International Cooperation Details
 
-The present page is a structured placeholder built from source metadata and may require refinement from primary filings.
+- Named agencies and partners include Us Doj.
+- Recorded cooperation mechanisms include informal cooperation.
+
+## Legal and Procedural Posture
+
+- Recorded crime classification: online fraud and dark web.
+- Legal or procedural basis recorded in metadata: informal cooperation.
+- The record is categorized as prosecution with status sentenced.
+- Related legal or operational records: Operation Key Player In Silk Road 2 0 Sentenced To Eight Years In Prison.
+
+## Evidence and Attribution Notes
+
+- Attorney's Office for the Western District of Washington announced that Brian Richard Farrell, a key administrator for Silk Road 2.0, was sentenced to eight years in prison for conspiracy to distribute controlled substances.
+- DOJ said Farrell assisted Blake Benthall with the day-to-day operation of the market and was known on the site as "DoctorClu." According to DOJ, Farrell approved vendors and staff, organized a denial-of-service attack on a competitor, and helped run a market that processed millions of dollars in contraband sales.
+- The case is clearly linked to the Silk Road 2.0 takedown that formed part of Operation Onymous.
+- This prosecution is useful because it broadens the Operation Onymous case cluster beyond the principal operator and shows that support staff were also prosecuted and sentenced.
+
 
 ## References
 

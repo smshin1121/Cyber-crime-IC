@@ -117,6 +117,7 @@ organizations:
   - "[[interpol]]"
 crime_types:
   - "[[ddos-ic]]"
+  - "[[ransomware-ic]]"
 ---
 ## Summary
 
@@ -169,7 +170,6 @@ Public reporting credits:
 - Austrian initiation of the operation
 - UK Metropolitan Police Cyber Crime Unit identification of key suspects in Bosnia and Herzegovina
 - Europol coordination through EC3 and J-CAT
-- wider intelligence and support from France, Japan, Romania, Switzerland, Australia, the FBI, the U.S. Secret Service, and INTERPOL
 
 ## Korean Involvement
 

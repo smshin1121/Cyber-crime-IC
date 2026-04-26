@@ -61,7 +61,6 @@ Official sources state that authorities arrested 150 suspected dark-web traffick
 This is a high-value cooperation case cluster because the public record clearly exposes the operational architecture even when individual dockets remain fragmented:
 
 - [[europol-ec3|Europol EC3]] and [[eurojust]] coordinated the European side
-- the U.S. side was framed through DOJ/JCODE reporting
 - [[uk-nca|UK NCA]] published a country-specific breakdown for the UK arrests and seizures
 
 That makes the page appropriate as an umbrella enforcement cluster, but not as a replacement for the eventual individual case pages.
@@ -91,7 +90,6 @@ The core integrity constraint is granularity. The public sources are strong on c
 - Operation Dark HunTOR was a coordinated international law enforcement action announced on 26 October 2021 that resulted in the arrest of 150 suspected dark web drug traffickers across nine countries.
 - The operation seized approximately EUR 26.7 million (~USD 31 million) in cash and cryptocurrency, 234 kg of drugs, and 45 firearms.
 - Coordinated by Europol's European Cybercrime Centre (EC3) and Eurojust, Dark HunTOR is almost certainly the largest follow-on enforcement action stemming from a single dark web marketplace seizure, building directly on the January 2021 takedown of DarkMarket.
-- Secure .gov websites use HTTPS A lock ( Lock Locked padlock ) or https: // means you’ve safely connected to the .gov website.
 - DarkMarket was, at the time of its shutdown on 11 January 2021, the world's largest illegal darknet marketplace by user count.
 - The takedown was led by the cybercrime unit of the Koblenz Public Prosecutor's Office and Germany's Federal Criminal Police Office (BKA), with coordination through Europol's European Cybercrime Centre (EC3).
 - The operation resulted in the arrest of a 34-year-old Australian national near the German-Danish border, the seizure of more than 20 servers in Moldova and Ukraine, and the recovery of intelligence on approximately 500,000 users and 2,400 vendors.

@@ -1,7 +1,7 @@
 ---
 type: case
 title: "Defendant pleads guilty in dark web narcotics case involving largest cryptocurrency seizure of $150 million in drug proceeds"
-case_number: "Source-derived from 2026-04-18_justice-gov_defendant-pleads-guilty-dark-web-narcotics-case-involving-largest-cryptocurrency"
+case_number: "Not specified in available source metadata"
 jurisdiction: "U.S. federal prosecution (district not specified in source)"
 jurisdiction_country: "[[united-states]]"
 case_type: prosecution
@@ -33,29 +33,51 @@ mechanisms_used:
   - "[[informal-cooperation]]"
 key_legal_issues:
   - "[[drug-trafficking]]"
-precedent_value: "Source-derived official action page; procedural enrichment from primary filings may still be needed."
+precedent_value: "Official source-backed record; further primary filings can refine procedural detail."
 source_count: 1
 sources:
   - "[[2026-04-18_justice-gov_defendant-pleads-guilty-dark-web-narcotics-case-involving-largest-cryptocurrency]]"
 created: 2026-04-18
-updated: 2026-04-18
-summary: "Defendant pleads guilty in dark web narcotics case involving largest cryptocurrency seizure of $150 million in drug proceeds is a source-derived case page generated from [[2026-04-18_justice-gov_defendant-pleads-guilty-dark-web-narcotics-case-involving-largest-cryptocurrency]]."
+updated: 2026-04-26
+summary: "Defendant pleads guilty in dark web narcotics case involving largest cryptocurrency seizure of $150 million in drug proceeds is documented in the linked source material. Available source coverage includes US DOJ USAO."
 ---
 ## Summary
 
-Defendant pleads guilty in dark web narcotics case involving largest cryptocurrency seizure of $150 million in drug proceeds is a source-derived case page generated from [[2026-04-18_justice-gov_defendant-pleads-guilty-dark-web-narcotics-case-involving-largest-cryptocurrency]].
+Defendant pleads guilty in dark web narcotics case involving largest cryptocurrency seizure of $150 million in drug proceeds is documented in the linked source material. Available source coverage includes US DOJ USAO.
 
-## Facts
+## Source Coverage
 
-This case page was generated from [[2026-04-18_justice-gov_defendant-pleads-guilty-dark-web-narcotics-case-involving-largest-cryptocurrency]] and reflects an official action title from the source corpus.
+- US DOJ USAO, 2024-01-26: Defendant pleads guilty in dark web narcotics case involving largest cryptocurrency seizure of $150 million in drug proceeds.
 
-## International Cooperation Elements
+## Operational Timeline
 
-This source-derived page should be enriched with case-level cooperation detail if primary filings or fuller official narratives are collected.
+- 2024-01-26: public source coverage from US DOJ USAO.
 
-## Legal Analysis
+## International Cooperation Details
 
-The present page is a structured placeholder built from source metadata and may require refinement from primary filings.
+- Named agencies and partners include Us Doj.
+- Recorded cooperation mechanisms include informal cooperation.
+
+## Legal and Procedural Posture
+
+- Recorded crime classification: Drug Trafficking and online fraud.
+- Legal or procedural basis recorded in metadata: informal cooperation.
+- The record is categorized as prosecution with status pleaded guilty.
+
+## Evidence and Attribution Notes
+
+- US DOJ USAO has a parsed source text of 1173 words available for further review.
+
+<!-- RAW_TEXT_HIGHLIGHTS_START -->
+
+## Raw Source Highlights
+
+- US DOJ USAO, 2024-01-26: District Court here today to running a dark web narcotics conspiracy that moved hundreds of kilograms and tens of thousands of pills of controlled substances throughout the United States and established a multi-million-dollar drug enterprise.
+- US DOJ USAO, 2024-01-26: According to the DEA, this case involves the largest single cryptocurrency and cash seizure in DEA history; the defendant has forfeited cryptocurrency accounts that ultimately became worth $150 million.
+- US DOJ USAO, 2024-01-26: According to court documents, Singh created vendor marketing sites on dark web marketplaces such as Silk Road 1, Silk Road 2, Alpha Bay, Hansa and others, to sell controlled substances, including fentanyl, LSD, ecstasy, Xanax, Ketamine and Tramadol.
+- US DOJ USAO, 2024-01-26: Singh was arrested in London in April 2019 and the government secured his extradition to the United States in 2023.
+
+<!-- RAW_TEXT_HIGHLIGHTS_END -->
 
 ## References
 

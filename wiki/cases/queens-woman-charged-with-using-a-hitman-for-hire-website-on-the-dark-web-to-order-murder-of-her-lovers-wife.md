@@ -1,13 +1,14 @@
 ---
 type: case
 title: "Queens Woman Charged With Using a Hitman-For-Hire Website on the Dark Web to Order Murder of Her Lover’s Wife"
-case_number: "Source-derived from 2026-04-18_justice-gov_queens-woman-charged-using-hitman-hire-website-dark-web-order-murder-her-lovers-wife"
+case_number: "Not specified in available source metadata"
 jurisdiction: "U.S. federal prosecution (district not specified in source)"
 jurisdiction_country: "[[united-states]]"
 case_type: prosecution
 status: charged
 crime_charged:
   - "[[online-fraud-ic]]"
+  - "[[dark-web-ic]]"
 defendants:
   - name: "With Using"
     nationality: Unknown
@@ -38,29 +39,38 @@ mechanisms_used:
   - "[[informal-cooperation]]"
 key_legal_issues:
   - "[[online-fraud-ic]]"
-precedent_value: "Source-derived official action page; procedural enrichment from primary filings may still be needed."
+  - "[[dark-web-ic]]"
+precedent_value: "Official source-backed record; further primary filings can refine procedural detail."
 source_count: 1
 sources:
   - "[[2026-04-18_justice-gov_queens-woman-charged-using-hitman-hire-website-dark-web-order-murder-her-lovers-wife]]"
 created: 2026-04-18
-updated: 2026-04-18
-summary: "Queens Woman Charged With Using a Hitman-For-Hire Website on the Dark Web to Order Murder of Her Lover’s Wife is a source-derived case page generated from [[2026-04-18_justice-gov_queens-woman-charged-using-hitman-hire-website-dark-web-order-murder-her-lovers-wife]]."
+updated: 2026-04-26
+summary: "Queens Woman Charged With Using a Hitman-For-Hire Website on the Dark Web to Order Murder of Her Lover’s Wife is documented in the linked source material. Available source coverage includes US DOJ USAO."
 ---
 ## Summary
 
-Queens Woman Charged With Using a Hitman-For-Hire Website on the Dark Web to Order Murder of Her Lover’s Wife is a source-derived case page generated from [[2026-04-18_justice-gov_queens-woman-charged-using-hitman-hire-website-dark-web-order-murder-her-lovers-wife]].
+Queens Woman Charged With Using a Hitman-For-Hire Website on the Dark Web to Order Murder of Her Lover’s Wife is documented in the linked source material. Available source coverage includes US DOJ USAO.
 
-## Facts
+## Source Coverage
 
-This case page was generated from [[2026-04-18_justice-gov_queens-woman-charged-using-hitman-hire-website-dark-web-order-murder-her-lovers-wife]] and reflects an official action title from the source corpus.
+- US DOJ USAO, 2024-07-08: Queens Woman Charged With Using a Hitman-For-Hire Website on the Dark Web to Order Murder of Her Lover’s Wife.
 
-## International Cooperation Elements
+## Operational Timeline
 
-This source-derived page should be enriched with case-level cooperation detail if primary filings or fuller official narratives are collected.
+- 2024-07-08: public source coverage from US DOJ USAO.
 
-## Legal Analysis
+## International Cooperation Details
 
-The present page is a structured placeholder built from source metadata and may require refinement from primary filings.
+- Named agencies and partners include Us Doj.
+- Recorded cooperation mechanisms include informal cooperation.
+
+## Legal and Procedural Posture
+
+- Recorded crime classification: online fraud and dark web.
+- Legal or procedural basis recorded in metadata: informal cooperation.
+- The record is categorized as prosecution with status charged.
+- Related legal or operational records: Operation Queens Woman Charged With Using A Hitman For Hire Website On The Dark Web To Order Murder Of Her Lovers Wife.
 
 ## References
 

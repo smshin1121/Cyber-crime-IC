@@ -113,9 +113,6 @@ Eurojust coordinated a major operation against a global credit-card fraud scheme
 ## Results and Impact
 
 - 18 suspects arrested
-- more than 60 places searched
-- several million euros in assets seized in Luxembourg
-- broad investigative support from Germany, the UK, the U.S., and other partner states
 
 <!-- SOURCE_ENRICHMENT_START -->
 

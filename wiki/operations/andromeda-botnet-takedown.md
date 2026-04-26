@@ -92,7 +92,7 @@ sources:
   - "[[bleeping-computer-andromeda-botnet-takedown]]"
 summary: "The Andromeda/Gamarue takedown combined Europol and FBI coordination, German and Belarusian enforcement action, and Microsoft-backed sinkhole support to disrupt a long-running malware ecosystem in late 2017."
 created: 2026-04-08
-updated: 2026-04-18
+updated: "2026-04-26"
 ---
 ## Summary
 
@@ -102,8 +102,6 @@ The Andromeda/Gamarue takedown combined Europol and FBI coordination, German and
 
 Andromeda is better understood as ecosystem disruption than as a single arrest case. Public sources emphasize the technical scale:
 
-- about 1,500 malicious domains were sinkholed
-- around 2 million victim IP addresses were observed during a short sinkhole window
 - Andromeda had remained active for years as a crimeware service used to monetize installs and deliver follow-on payloads
 
 ## Participating Parties
@@ -122,7 +120,6 @@ United States, Germany, Austria, Belgium, Finland, France, Italy, Netherlands, P
 
 - 1 publicly announced arrest in Belarus
 - 1,500 malicious domains sinkholed
-- wide victim footprint across 223 countries according to Europol-linked reporting
 
 ## Cooperation And Legal Analysis
 

@@ -1,13 +1,14 @@
 ---
 type: case
 title: "Coushatta man sentenced to 10 years in federal prison for accessing a “Dark Web” site with intent to view child pornography"
-case_number: "Source-derived from 2026-04-18_justice-gov_coushatta-man-sentenced-10-years-federal-prison-accessing-dark-web-site-intent-view"
+case_number: "Not specified in available source metadata"
 jurisdiction: "U.S. federal prosecution (district not specified in source)"
 jurisdiction_country: "[[united-states]]"
 case_type: prosecution
 status: sentenced
 crime_charged:
   - "[[online-fraud-ic]]"
+  - "[[csam-ic]]"
 defendants:
   - name: "Paul Andrew Talley"
     nationality: Unknown
@@ -32,29 +33,37 @@ mechanisms_used:
   - "[[informal-cooperation]]"
 key_legal_issues:
   - "[[online-fraud-ic]]"
-precedent_value: "Source-derived official action page; procedural enrichment from primary filings may still be needed."
+  - "[[csam-ic]]"
+precedent_value: "Official source-backed record; further primary filings can refine procedural detail."
 source_count: 1
 sources:
   - "[[2026-04-18_justice-gov_coushatta-man-sentenced-10-years-federal-prison-accessing-dark-web-site-intent-view]]"
 created: 2026-04-18
-updated: 2026-04-18
-summary: "Coushatta man sentenced to 10 years in federal prison for accessing a “Dark Web” site with intent to view child pornography is a source-derived case page generated from [[2026-04-18_justice-gov_coushatta-man-sentenced-10-years-federal-prison-accessing-dark-web-site-intent-view]]."
+updated: "2026-04-26"
+summary: "Coushatta man sentenced to 10 years in federal prison for accessing a “Dark Web” site with intent to view child pornography is documented in the linked source material. Available source coverage includes US DOJ USAO."
 ---
 ## Summary
 
-Coushatta man sentenced to 10 years in federal prison for accessing a “Dark Web” site with intent to view child pornography is a source-derived case page generated from [[2026-04-18_justice-gov_coushatta-man-sentenced-10-years-federal-prison-accessing-dark-web-site-intent-view]].
+Coushatta man sentenced to 10 years in federal prison for accessing a “Dark Web” site with intent to view child pornography is documented in the linked source material. Available source coverage includes US DOJ USAO.
 
-## Facts
+## Source Coverage
 
-This case page was generated from [[2026-04-18_justice-gov_coushatta-man-sentenced-10-years-federal-prison-accessing-dark-web-site-intent-view]] and reflects an official action title from the source corpus.
+- US DOJ USAO, 2019-09-19: Coushatta man sentenced to 10 years in federal prison for accessing a “Dark Web” site with intent to view child pornography.
 
-## International Cooperation Elements
+## Operational Timeline
 
-This source-derived page should be enriched with case-level cooperation detail if primary filings or fuller official narratives are collected.
+- 2019-09-19: public source coverage from US DOJ USAO.
 
-## Legal Analysis
+## International Cooperation Details
 
-The present page is a structured placeholder built from source metadata and may require refinement from primary filings.
+- Named agencies and partners include Us Doj.
+- Recorded cooperation mechanisms include informal cooperation.
+
+## Legal and Procedural Posture
+
+- Recorded crime classification: online fraud and CSAM.
+- Legal or procedural basis recorded in metadata: informal cooperation.
+- The record is categorized as prosecution with status sentenced.
 
 ## References
 

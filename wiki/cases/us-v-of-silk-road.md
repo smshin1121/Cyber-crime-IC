@@ -103,11 +103,9 @@ The page is retained as a compatibility anchor, but its metadata now preserves t
 
 - Attorney's Office for the Southern District of New York announced the arrest of Blake Benthall, also known as "Defcon," for allegedly operating Silk Road 2.0 after the original Silk Road takedown.
 - DOJ stated that the complaint in Manhattan federal court charged conspiracy to commit narcotics trafficking, conspiracy to commit computer hacking, conspiracy to traffic in fraudulent identification documents, and money-laundering conspiracy.
-- The press release described Silk Road 2.0 as a major Tor-hidden criminal marketplace that, by September 2014, allegedly generated at least USD 8 million per month and had about 150,000 active users.
 - DOJ said the site was used to distribute illegal drugs and other illicit goods and services, including fraudulent identification documents and computer-hacking tools.
 - The investigation was described as a joint FBI and HSI effort.
 - DOJ specifically thanked the Department of Justice Office of International Affairs and law-enforcement authorities in France, Germany, Lithuania, the Netherlands, and the United Kingdom, indicating meaningful cross-border assistance in identifying infrastructure, evidence, and operational leads.
-- prosecution tied to the Silk Road 2.0 portion of Operation Onymous.
 
 <!-- SOURCE_ENRICHMENT_END -->
 

@@ -1,13 +1,14 @@
 ---
 type: case
 title: "Nigerian Nationals Charged with Operating Business Compromise Scheme"
-case_number: "Source-derived from 2016-12-20_justice-gov_united-states-v-odufuye-and-nwoke"
+case_number: "Not specified in available source metadata"
 jurisdiction: "U.S. District Court, District of Connecticut"
 jurisdiction_country: "[[united-states]]"
 case_type: prosecution
 status: charged
 crime_charged:
   - "[[online-fraud-ic]]"
+  - "[[bec-ic]]"
 defendants:
   - name: "Nigerian Nationals"
     nationality: Unknown
@@ -33,29 +34,41 @@ mechanisms_used:
   - "[[informal-cooperation]]"
 key_legal_issues:
   - "[[online-fraud-ic]]"
-precedent_value: "Source-derived official action page; procedural enrichment from primary filings may still be needed."
+  - "[[bec-ic]]"
+precedent_value: "Official source-backed record; further primary filings can refine procedural detail."
 source_count: 1
 sources:
   - "[[2016-12-20_justice-gov_united-states-v-odufuye-and-nwoke]]"
 created: 2026-04-18
-updated: 2026-04-18
-summary: "Nigerian Nationals Charged with Operating Business Compromise Scheme is a source-derived case page generated from [[2016-12-20_justice-gov_united-states-v-odufuye-and-nwoke]]."
+updated: "2026-04-26"
+summary: "Nigerian Nationals Charged with Operating Business Compromise Scheme is documented in the linked source material. Odufuye and Nwoke (BEC) Enforcement Action is a follow-on operation catalog record tied to Us V Odufuye Nwoke Bec. Available source coverage includes US DOJ (District of Connecticut)."
 ---
 ## Summary
 
-Nigerian Nationals Charged with Operating Business Compromise Scheme is a source-derived case page generated from [[2016-12-20_justice-gov_united-states-v-odufuye-and-nwoke]].
+Nigerian Nationals Charged with Operating Business Compromise Scheme is documented in the linked source material. Odufuye and Nwoke (BEC) Enforcement Action is a follow-on operation catalog record tied to Us V Odufuye Nwoke Bec. Available source coverage includes US DOJ (District of Connecticut).
 
-## Facts
+## Source Coverage
 
-This case page was generated from [[2016-12-20_justice-gov_united-states-v-odufuye-and-nwoke]] and reflects an official action title from the source corpus.
+- US DOJ (District of Connecticut), 2016-12-20: Nigerian Nationals Charged with Operating Business Compromise Scheme.
 
-## International Cooperation Elements
+## Operational Timeline
 
-This source-derived page should be enriched with case-level cooperation detail if primary filings or fuller official narratives are collected.
+- 2016-12-20: public source coverage from US DOJ (District of Connecticut).
 
-## Legal Analysis
+## International Cooperation Details
 
-The present page is a structured placeholder built from source metadata and may require refinement from primary filings.
+- Named agencies and partners include Us Doj.
+- Recorded cooperation mechanisms include informal cooperation.
+
+## Legal and Procedural Posture
+
+- Recorded crime classification: online fraud.
+- Legal or procedural basis recorded in metadata: informal cooperation.
+- The record is categorized as prosecution with status charged.
+- Related legal or operational records: Operation Nigerian Nationals Charged With Operating Business Compromise Scheme.
+
+## Evidence and Attribution Notes
+
 
 ## References
 

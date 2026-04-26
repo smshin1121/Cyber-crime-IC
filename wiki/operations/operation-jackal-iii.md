@@ -93,7 +93,6 @@ Jackal III represents a significant escalation in the international response to 
 ## Participating Parties
 
 - **Lead/Coordination:** [[interpol-igci|INTERPOL IGCI]]
-- **21 countries** across five continents (specific country list not fully disclosed in press release)
 
 ## Results and Impact
 

@@ -172,9 +172,6 @@ Portugal's official release is especially useful because it records four compani
 Public reporting describes the route broadly as:
 
 - France-based victim transfers
-- bank accounts in Portugal, Hungary, Croatia, and Spain
-- onward movement to China
-- eventual cash-out or control in Israel
 
 ## Korean Involvement
 

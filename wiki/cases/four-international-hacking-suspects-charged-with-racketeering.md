@@ -1,7 +1,7 @@
 ---
 type: case
 title: "Four International Hacking Suspects Charged with Racketeering"
-case_number: "Source-derived from 2026-04-18_justice-gov_four-international-hacking-suspects-charged-racketeering"
+case_number: "Not specified in available source metadata"
 jurisdiction: "U.S. federal prosecution (district not specified in source)"
 jurisdiction_country: "[[united-states]]"
 case_type: prosecution
@@ -18,25 +18,34 @@ cooperating_agencies:
   - "[[us-doj]]"
 key_legal_issues:
   - "[[malware-ic]]"
-precedent_value: "Source-derived official action page; procedural enrichment from primary filings may still be needed."
+precedent_value: "Official source-backed record; further primary filings can refine procedural detail."
 source_count: 1
 sources:
   - "[[2026-04-18_justice-gov_four-international-hacking-suspects-charged-racketeering]]"
 created: 2026-04-18
-updated: 2026-04-18
-summary: "Four International Hacking Suspects Charged with Racketeering is a source-derived case page generated from [[2026-04-18_justice-gov_four-international-hacking-suspects-charged-racketeering]]."
+updated: "2026-04-26"
+summary: "Four International Hacking Suspects Charged with Racketeering is documented in the linked source material. Available source coverage includes US DOJ USAO."
 ---
 ## Summary
 
-Four International Hacking Suspects Charged with Racketeering is a source-derived case page generated from [[2026-04-18_justice-gov_four-international-hacking-suspects-charged-racketeering]].
+Four International Hacking Suspects Charged with Racketeering is documented in the linked source material. Available source coverage includes US DOJ USAO.
 
-## Facts
+## Source Coverage
 
-This case page was generated from [[2026-04-18_justice-gov_four-international-hacking-suspects-charged-racketeering]] and reflects an official action title from the source corpus.
+- US DOJ USAO, 2019-06-06: Four International Hacking Suspects Charged with Racketeering.
 
-## Legal Analysis
+## Operational Timeline
 
-The present page is a structured placeholder built from source metadata and may require refinement from primary filings.
+- 2019-06-06: public source coverage from US DOJ USAO.
+
+## International Cooperation Details
+
+- Named agencies and partners include Us Doj.
+
+## Legal and Procedural Posture
+
+- Recorded crime classification: malware.
+- The record is categorized as prosecution with status charged.
 
 ## References
 

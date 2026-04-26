@@ -8,6 +8,7 @@ case_type: prosecution
 status: sentenced
 crime_charged:
   - "[[online-fraud-ic]]"
+  - "[[dark-web-ic]]"
 defendants:
   - name: "Ashton Connor Garcia"
     nationality: "United States"
@@ -29,6 +30,7 @@ mechanisms_used:
   - "[[informal-cooperation]]"
 key_legal_issues:
   - "[[online-fraud-ic]]"
+  - "[[dark-web-ic]]"
 precedent_value: "Useful as a cross-border victimization case showing how swatting incidents can create international-harm narratives within a domestic U.S. prosecution."
 source_count: 5
 sources:
@@ -57,6 +59,8 @@ The prosecution itself was domestic, but the underlying victim pattern crossed i
 
 This is not a precedent-heavy published judicial opinion case, but it is still useful as a documented example of cyber-enabled harm that affected victims across borders while being prosecuted in a single U.S. district.
 
+
+
 <!-- SOURCE_ENRICHMENT_START -->
 
 ## Source Coverage
@@ -79,13 +83,12 @@ This is not a precedent-heavy published judicial opinion case, but it is still u
 - The indictment release frames the campaign as a three-month swatting spree affecting victims across the United States and Canada.
 - The release anchors the earliest public charging stage of the Garcia prosecution.
 - This DOJ release is the charging-stage anchor for the Bremerton swatting case.
-- Updated March 30, 2023 Topic Cybercrime Component USAO - Washington, Western...Content Press Release Dark web fentanyl distributor sentenced to 42 months in prison
 - The defendant pleaded guilty to four federal felonies tied to the swatting campaign.
 - The release names Ashton Connor Garcia and bridges the indictment and sentencing stages.
 - This plea-stage DOJ release provides the procedural midpoint for the Bremerton swatting prosecution.
-- According to...recommendation and can impose any sentence allowed by law.
 
 <!-- SOURCE_ENRICHMENT_END -->
+
 
 ## References
 

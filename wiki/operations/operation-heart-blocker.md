@@ -60,7 +60,7 @@ sources:
   - "[4] CyberScoop (2025-01-30)"
   - "[5] Hackread (2025-01-30)"
 created: 2026-04-10
-updated: 2026-04-10
+updated: "2026-04-26"
 related_operations:
   - "[[operation-in-re-heartsender-seizure]]"
 operation_role: umbrella
@@ -77,6 +77,7 @@ organizations:
   - "[[pakistan-fia|Pakistan Federal Investigation Agency (FIA / NCCIA)]]"
 crime_types:
   - "[[bec-ic|Business Email Compromise (BEC)]]"
+  - "[[dark-web-ic]]"
 ---
 ## Summary
 

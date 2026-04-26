@@ -1,13 +1,14 @@
 ---
 type: case
 title: "Webster Man Sentenced To 27 Years For Distributing, Receiving, And Possessing Child Sexual Abuse Material"
-case_number: "Source-derived from 2026-04-18_justice-gov_webster-man-sentenced-27-years-distributing-receiving-and-possessing-child-sexual"
+case_number: "Not specified in available source metadata"
 jurisdiction: "U.S. federal prosecution (district not specified in source)"
 jurisdiction_country: "[[united-states]]"
 case_type: prosecution
 status: sentenced
 crime_charged:
   - "[[online-fraud-ic]]"
+  - "[[csam-ic]]"
 defendants:
   - name: "Webster Man"
     nationality: Unknown
@@ -33,29 +34,42 @@ mechanisms_used:
   - "[[informal-cooperation]]"
 key_legal_issues:
   - "[[online-fraud-ic]]"
-precedent_value: "Source-derived official action page; procedural enrichment from primary filings may still be needed."
+  - "[[csam-ic]]"
+precedent_value: "Official source-backed record; further primary filings can refine procedural detail."
 source_count: 1
 sources:
   - "[[2026-04-18_justice-gov_webster-man-sentenced-27-years-distributing-receiving-and-possessing-child-sexual]]"
 created: 2026-04-18
-updated: 2026-04-18
-summary: "Webster Man Sentenced To 27 Years For Distributing, Receiving, And Possessing Child Sexual Abuse Material is a source-derived case page generated from [[2026-04-18_justice-gov_webster-man-sentenced-27-years-distributing-receiving-and-possessing-child-sexual]]."
+updated: "2026-04-26"
+summary: "Webster Man Sentenced To 27 Years For Distributing, Receiving, And Possessing Child Sexual Abuse Material is documented in the linked source material. Merryday has sentenced Jesse James Bertetto (30, Webster) Available source coverage includes US DOJ USAO."
 ---
 ## Summary
 
-Webster Man Sentenced To 27 Years For Distributing, Receiving, And Possessing Child Sexual Abuse Material is a source-derived case page generated from [[2026-04-18_justice-gov_webster-man-sentenced-27-years-distributing-receiving-and-possessing-child-sexual]].
+Webster Man Sentenced To 27 Years For Distributing, Receiving, And Possessing Child Sexual Abuse Material is documented in the linked source material. Merryday has sentenced Jesse James Bertetto (30, Webster) Available source coverage includes US DOJ USAO.
 
-## Facts
+## Source Coverage
 
-This case page was generated from [[2026-04-18_justice-gov_webster-man-sentenced-27-years-distributing-receiving-and-possessing-child-sexual]] and reflects an official action title from the source corpus.
+- US DOJ USAO, 2024-02-26: Webster Man Sentenced To 27 Years For Distributing, Receiving, And Possessing Child Sexual Abuse Material.
 
-## International Cooperation Elements
+## Operational Timeline
 
-This source-derived page should be enriched with case-level cooperation detail if primary filings or fuller official narratives are collected.
+- 2024-02-26: public source coverage from US DOJ USAO.
 
-## Legal Analysis
+## International Cooperation Details
 
-The present page is a structured placeholder built from source metadata and may require refinement from primary filings.
+- Named agencies and partners include Us Doj.
+- Recorded cooperation mechanisms include informal cooperation.
+
+## Legal and Procedural Posture
+
+- Recorded crime classification: online fraud and CSAM.
+- Legal or procedural basis recorded in metadata: informal cooperation.
+- The record is categorized as prosecution with status sentenced.
+- Related legal or operational records: Operation Webster Man Sentenced To 27 Years For Distributing Receiving And Possessing Child Sexual Abuse Material.
+
+## Evidence and Attribution Notes
+
+- Merryday has sentenced Jesse James Bertetto (30, Webster)
 
 ## References
 

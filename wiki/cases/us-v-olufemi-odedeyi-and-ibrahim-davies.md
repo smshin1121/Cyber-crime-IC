@@ -1,7 +1,7 @@
 ---
 type: case
 title: "United States v. Olufemi Odedeyi And Ibrahim Davies"
-case_number: "Source-derived from 2021-09-15_justice-gov_united-states-v-olufemi-odedeyi-and-ibrahim-davies"
+case_number: "Not specified in available source metadata"
 jurisdiction: "U.S. District Court, Middle District of Florida"
 jurisdiction_country: "[[united-states]]"
 case_type: prosecution
@@ -38,24 +38,36 @@ source_count: 1
 sources:
   - "[[2021-09-15_justice-gov_united-states-v-olufemi-odedeyi-and-ibrahim-davies]]"
 created: 2026-04-18
-updated: 2026-04-18
-summary: "United States v. Olufemi Odedeyi And Ibrahim Davies is a source-derived case page generated from [[2021-09-15_justice-gov_united-states-v-olufemi-odedeyi-and-ibrahim-davies]]."
+updated: 2026-04-26
+summary: "United States v. Olufemi Odedeyi And Ibrahim Davies is documented in the linked source material. Extradition Case) Enforcement Action is a follow-on operation catalog record tied to Us V Odedeyi Davies Xdedic. Available source coverage includes US DOJ (Middle District of Florida)."
 ---
 ## Summary
 
-United States v. Olufemi Odedeyi And Ibrahim Davies is a source-derived case page generated from [[2021-09-15_justice-gov_united-states-v-olufemi-odedeyi-and-ibrahim-davies]].
+United States v. Olufemi Odedeyi And Ibrahim Davies is documented in the linked source material. Extradition Case) Enforcement Action is a follow-on operation catalog record tied to Us V Odedeyi Davies Xdedic. Available source coverage includes US DOJ (Middle District of Florida).
 
-## Facts
+## Source Coverage
 
-This case page was generated from [[2021-09-15_justice-gov_united-states-v-olufemi-odedeyi-and-ibrahim-davies]] and should be expanded with primary-court detail where available.
+- US DOJ (Middle District of Florida), 2021-09-15: Four Men Federally Charged In Transnational Wire Fraud And Identity Theft Conspiracy.
 
-## International Cooperation Elements
+## Operational Timeline
 
-The currently collected source indicates a transnational cybercrime enforcement context, but the specific cross-border mechanisms still need case-level enrichment.
+- 2021-09-15: public source coverage from US DOJ (Middle District of Florida).
 
-## Legal Analysis
+## International Cooperation Details
 
-The present page is a structured placeholder built from source metadata and should be refined as additional filings or official summaries are collected.
+- Named agencies and partners include Us Doj.
+- Recorded cooperation mechanisms include informal cooperation.
+
+## Legal and Procedural Posture
+
+- Recorded crime classification: online fraud.
+- Legal or procedural basis recorded in metadata: informal cooperation.
+- The record is categorized as prosecution with status prosecuted.
+- Related legal or operational records: Operation Us V Olufemi Odedeyi And Ibrahim Davies.
+
+## Evidence and Attribution Notes
+
+
 
 ## References
 

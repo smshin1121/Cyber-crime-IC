@@ -99,6 +99,7 @@ organizations:
   - "[[shadowserver]]"
 crime_types:
   - "[[malware-ic]]"
+  - "[[ransomware-ic]]"
 ---
 ## Summary
 

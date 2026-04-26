@@ -1,7 +1,7 @@
 ---
 type: case
 title: "Two Arrested for Alleged Conspiracy to Launder $4.5 Billion in Stolen Cryptocurrency"
-case_number: "Source-derived from 2026-04-18_justice-gov_two-arrested-alleged-conspiracy-launder-45-billion-stolen-cryptocurrency"
+case_number: "Not specified in available source metadata"
 jurisdiction: "U.S. federal prosecution (district not specified in source)"
 jurisdiction_country: "[[united-states]]"
 case_type: prosecution
@@ -33,29 +33,37 @@ mechanisms_used:
   - "[[informal-cooperation]]"
 key_legal_issues:
   - "[[online-fraud-ic]]"
-precedent_value: "Source-derived official action page; procedural enrichment from primary filings may still be needed."
+precedent_value: "Official source-backed record; further primary filings can refine procedural detail."
 source_count: 1
 sources:
   - "[[2026-04-18_justice-gov_two-arrested-alleged-conspiracy-launder-45-billion-stolen-cryptocurrency]]"
 created: 2026-04-18
-updated: 2026-04-18
-summary: "Two Arrested for Alleged Conspiracy to Launder $4.5 Billion in Stolen Cryptocurrency is a source-derived case page generated from [[2026-04-18_justice-gov_two-arrested-alleged-conspiracy-launder-45-billion-stolen-cryptocurrency]]."
+updated: 2026-04-26
+summary: "Two Arrested for Alleged Conspiracy to Launder $4.5 Billion in Stolen Cryptocurrency is documented in the linked source material. Available source coverage includes US DOJ USAO."
 ---
 ## Summary
 
-Two Arrested for Alleged Conspiracy to Launder $4.5 Billion in Stolen Cryptocurrency is a source-derived case page generated from [[2026-04-18_justice-gov_two-arrested-alleged-conspiracy-launder-45-billion-stolen-cryptocurrency]].
+Two Arrested for Alleged Conspiracy to Launder $4.5 Billion in Stolen Cryptocurrency is documented in the linked source material. Available source coverage includes US DOJ USAO.
 
-## Facts
+## Source Coverage
 
-This case page was generated from [[2026-04-18_justice-gov_two-arrested-alleged-conspiracy-launder-45-billion-stolen-cryptocurrency]] and reflects an official action title from the source corpus.
+- US DOJ USAO, 2022-02-08: Two Arrested for Alleged Conspiracy to Launder $4.5 Billion in Stolen Cryptocurrency.
 
-## International Cooperation Elements
+## Operational Timeline
 
-This source-derived page should be enriched with case-level cooperation detail if primary filings or fuller official narratives are collected.
+- 2022-02-08: public source coverage from US DOJ USAO.
 
-## Legal Analysis
+## International Cooperation Details
 
-The present page is a structured placeholder built from source metadata and may require refinement from primary filings.
+- Named agencies and partners include Us Doj.
+- Recorded cooperation mechanisms include informal cooperation.
+
+## Legal and Procedural Posture
+
+- Recorded crime classification: online fraud.
+- Legal or procedural basis recorded in metadata: informal cooperation.
+- The record is categorized as prosecution with status prosecuted.
+- Related legal or operational records: Operation Two Arrested For Alleged Conspiracy To Launder 4 5 Billion In Stolen Cryptocurrency.
 
 ## References
 

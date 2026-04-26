@@ -1,13 +1,14 @@
 ---
 type: case
 title: "Michigan Man Sentenced to Five Years in Prison for Possessing Child Sexual Abuse Material on a Military Base"
-case_number: "Source-derived from 2026-04-18_justice-gov_michigan-man-sentenced-five-years-prison-possessing-child-sexual-abuse-material-military"
+case_number: "Not specified in available source metadata"
 jurisdiction: "U.S. federal prosecution (district not specified in source)"
 jurisdiction_country: "[[united-states]]"
 case_type: prosecution
 status: sentenced
 crime_charged:
   - "[[online-fraud-ic]]"
+  - "[[csam-ic]]"
 defendants:
   - name: "David Mark Bartels"
     nationality: Unknown
@@ -33,29 +34,38 @@ mechanisms_used:
   - "[[informal-cooperation]]"
 key_legal_issues:
   - "[[online-fraud-ic]]"
-precedent_value: "Source-derived official action page; procedural enrichment from primary filings may still be needed."
+  - "[[csam-ic]]"
+precedent_value: "Official source-backed record; further primary filings can refine procedural detail."
 source_count: 1
 sources:
   - "[[2026-04-18_justice-gov_michigan-man-sentenced-five-years-prison-possessing-child-sexual-abuse-material-military]]"
 created: 2026-04-18
-updated: 2026-04-18
-summary: "Michigan Man Sentenced to Five Years in Prison for Possessing Child Sexual Abuse Material on a Military Base is a source-derived case page generated from [[2026-04-18_justice-gov_michigan-man-sentenced-five-years-prison-possessing-child-sexual-abuse-material-military]]."
+updated: "2026-04-26"
+summary: "Michigan Man Sentenced to Five Years in Prison for Possessing Child Sexual Abuse Material on a Military Base is documented in the linked source material. Available source coverage includes US DOJ (Office of Public Affairs)."
 ---
 ## Summary
 
-Michigan Man Sentenced to Five Years in Prison for Possessing Child Sexual Abuse Material on a Military Base is a source-derived case page generated from [[2026-04-18_justice-gov_michigan-man-sentenced-five-years-prison-possessing-child-sexual-abuse-material-military]].
+Michigan Man Sentenced to Five Years in Prison for Possessing Child Sexual Abuse Material on a Military Base is documented in the linked source material. Available source coverage includes US DOJ (Office of Public Affairs).
 
-## Facts
+## Source Coverage
 
-This case page was generated from [[2026-04-18_justice-gov_michigan-man-sentenced-five-years-prison-possessing-child-sexual-abuse-material-military]] and reflects an official action title from the source corpus.
+- US DOJ (Office of Public Affairs), 2025-06-13: Michigan Man Sentenced to Five Years in Prison for Possessing Child Sexual Abuse Material on a Military Base.
 
-## International Cooperation Elements
+## Operational Timeline
 
-This source-derived page should be enriched with case-level cooperation detail if primary filings or fuller official narratives are collected.
+- 2025-06-13: public source coverage from US DOJ (Office of Public Affairs).
 
-## Legal Analysis
+## International Cooperation Details
 
-The present page is a structured placeholder built from source metadata and may require refinement from primary filings.
+- Named agencies and partners include Us Doj.
+- Recorded cooperation mechanisms include informal cooperation.
+
+## Legal and Procedural Posture
+
+- Recorded crime classification: online fraud and CSAM.
+- Legal or procedural basis recorded in metadata: informal cooperation.
+- The record is categorized as prosecution with status sentenced.
+- Related legal or operational records: Operation Michigan Man Sentenced To Five Years In Prison For Possessing Child Sexual Abuse Material On A Military Base.
 
 ## References
 

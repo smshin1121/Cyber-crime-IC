@@ -116,9 +116,6 @@ According to Eurojust, the fraud had been running since at least 2018 and used p
 ## Results and Impact
 
 - 5 arrests
-- searches in Spain, Portugal, Italy, Romania and Bulgaria
-- bank accounts and other assets frozen
-- a clear example of Eurojust-led judicial coordination for cyber-enabled investment fraud
 
 <!-- SOURCE_ENRICHMENT_START -->
 

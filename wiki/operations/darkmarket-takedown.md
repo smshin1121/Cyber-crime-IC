@@ -136,9 +136,6 @@ DarkMarket facilitated the sale of drugs, counterfeit money, stolen and forged c
 ## Results and Impact
 
 - 1 publicly reported operator arrest
-- more than 20 servers seized in Moldova and Ukraine
-- approximately 500,000 users and 2,400 vendors exposed in public reporting
-- intelligence pipeline that directly fed [[operation-dark-huntor]]
 
 ## Operational Timeline
 
@@ -162,6 +159,18 @@ The page also preserves a useful legal distinction: the current source set stron
 ## Source Coverage
 
 The page now treats the Europol release as the primary operational source, secondary reporting as corroboration for server geography and suspect description, and the Dark HunTOR source as a downstream-intelligence link. The source set does not support adding a named defendant, sentence or complete German docket history.
+
+<!-- SOURCE_ENRICHMENT_START -->
+
+## Source Coverage
+
+- Europol, 2021-01-12: DarkMarket: world's largest illegal dark web marketplace taken down.
+- The Hacker News, 2021-01-12: Authorities Take Down World's Largest Illegal Dark Web Marketplace.
+- RFE/RL, 2021-01-12: Servers Seized In Ukraine, Moldova As Germany Takes Down 'World's Largest' Illegal Darknet Marketplace.
+- SBS News, 2021-01-12: Australian man arrested in Germany accused of running 'world's largest' Darknet marketplace.
+- US DOJ/DEA, 2021-10-26: Department of Justice Announces Results of Operation Dark HunTor.
+
+<!-- SOURCE_ENRICHMENT_END -->
 
 ## References
 

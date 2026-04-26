@@ -45,7 +45,7 @@ source_count: 1
 sources:
   - "[[2025-01-29_sdtx_heartsender-seizure]]"
 created: 2026-04-17
-updated: 2026-04-17
+updated: "2026-04-26"
 summary: "In re HeartSender / Saim Raza Seizure captures the court-backed U.S. seizure action announced by DOJ on 29 January 2025 against the HeartSender / Saim Raza cybercrime service. The public record focuses on domain and server seizures rather than a named public indictment."
 ---
 ## Summary
@@ -80,7 +80,6 @@ U.S. jurisdiction was *likely* based on the use of the HeartSender ecosystem aga
 
 ### Key Legal Issues
 
-- **Non-public docketing:** The public press release does not disclose the specific seizure-warrant numbers, limiting outside review of the judicial filings.
 - **Split-phase enforcement:** The case demonstrates how infrastructure seizure can precede or run separately from arrests in another jurisdiction.
 
 ### Precedent Value

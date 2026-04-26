@@ -126,16 +126,12 @@ The linked case page is [[us-v-okpe-obogo-bec]], and the corresponding defendant
 ## Source Coverage
 
 - US DOJ (Office of Public Affairs), 2023-03-27: Foreign National Sentenced for Victimizing U.S. Persons Through Cyber-Enabled Fraud Schemes.
-- justice.gov, 2026-04-17: Nigerian Nationals Victimize U.S. Persons Through Cyber-Enabled Fraud Schemes.
 - U.S. Department of Justice (USAO Arizona Victim Notifications), 2023-01-23: US v Okpe et al.
 - SC Media, 2023-03-29: US convicts Nigerian BEC scammer.
 - Infosecurity Magazine, 2023-03-28: Four Years Behind Bars for Prolific BEC Scammer.
 
 ## Evidence and Attribution Notes
 
-- Secure .gov websites use HTTPS A lock ( Lock Locked padlock ) or https:// means you’ve safely connected to the .gov website.
-- Okpe and Obogo Enforcement Action is a defendant-specific enforcement action page derived from Us V Okpe Obogo Bec.
-- It captures the prosecutorial or seizure stage reflected in the linked case record and preserves the operation-side catalog entry for this follow-on action.
 - Okpe and Obogo is a District of Arizona fraud prosecution arising from a multi-year cyber-enabled scheme that included business email compromise, work-from-home fraud, romance fraud, and credit-card abuse.
 - The case is *highly likely* one of the cleaner examples in the repository where DOJ explicitly described both overseas arrests and extraditions in a BEC-related matter.
 - Victim notifications page confirms docket activity in the Arizona case.
@@ -143,6 +139,14 @@ The linked case page is [[us-v-okpe-obogo-bec]], and the corresponding defendant
 - This page records a sentencing-stage cyber-enabled fraud enforcement action involving Nigerian defendants Solomon Ekunke Okpe and Johnson Uke Obogo.
 
 <!-- SOURCE_ENRICHMENT_END -->
+
+<!-- RAW_TEXT_HIGHLIGHTS_START -->
+
+## Raw Source Highlights
+
+- U.S. Department of Justice (USAO Arizona Victim Notifications), 2023-01-23: Attorney About Us Our Mission Divisions Criminal Division Civil Division Appellate Division Administrative Division Programs AHCCCS Treatment Fraud Civil Rights Community Outreach Law Enforcement Coordination MMIP Office of The Victim Rights Ombudsman Project Safe Childhood Project Safe Neighborhoods Victim Notifications Victim Witness.
+
+<!-- RAW_TEXT_HIGHLIGHTS_END -->
 
 ## References
 

@@ -1,13 +1,14 @@
 ---
 type: case
 title: "Bulletproof Vpn Seized"
-case_number: "Source-derived from 2020-12-22_web-archive-org_bulletproof-vpn-seized"
+case_number: "Not specified in available source metadata"
 jurisdiction: "U.S. federal prosecution (district not specified in source)"
 jurisdiction_country: "[[united-states]]"
 case_type: seizure
 status: "seizure ordered"
 crime_charged:
   - "[[online-fraud-ic]]"
+  - "[[ransomware-ic]]"
 defendants:
   - name: "Bulletproof Vpn Seized"
     nationality: Unknown
@@ -33,29 +34,41 @@ mechanisms_used:
   - "[[informal-cooperation]]"
 key_legal_issues:
   - "[[online-fraud-ic]]"
-precedent_value: "Source-derived official action page; procedural enrichment from primary filings may still be needed."
+  - "[[ransomware-ic]]"
+precedent_value: "Official source-backed record; further primary filings can refine procedural detail."
 source_count: 1
 sources:
   - "[[2020-12-22_web-archive-org_bulletproof-vpn-seized]]"
 created: 2026-04-18
-updated: 2026-04-18
-summary: "Bulletproof Vpn Seized is a source-derived case page generated from [[2020-12-22_web-archive-org_bulletproof-vpn-seized]]."
+updated: "2026-04-26"
+summary: "Bulletproof Vpn Seized is documented in the linked source material. **Operation Nova** was an international law enforcement action that took down **Safe-Inet**, a bulletproof VPN service that had operated for over a decade. Available source coverage includes cybersecuritynews.com."
 ---
 ## Summary
 
-Bulletproof Vpn Seized is a source-derived case page generated from [[2020-12-22_web-archive-org_bulletproof-vpn-seized]].
+Bulletproof Vpn Seized is documented in the linked source material. **Operation Nova** was an international law enforcement action that took down **Safe-Inet**, a bulletproof VPN service that had operated for over a decade. Available source coverage includes cybersecuritynews.com.
 
-## Facts
+## Source Coverage
 
-This case page was generated from [[2020-12-22_web-archive-org_bulletproof-vpn-seized]] and reflects an official action title from the source corpus.
 
-## International Cooperation Elements
+## Operational Timeline
 
-This source-derived page should be enriched with case-level cooperation detail if primary filings or fuller official narratives are collected.
+- 2020-12-22: public source coverage from cybersecuritynews.com.
 
-## Legal Analysis
+## International Cooperation Details
 
-The present page is a structured placeholder built from source metadata and may require refinement from primary filings.
+- Recorded cooperation mechanisms include informal cooperation.
+
+## Legal and Procedural Posture
+
+- Recorded crime classification: online fraud.
+- Legal or procedural basis recorded in metadata: informal cooperation.
+- The record is categorized as seizure with status seizure ordered.
+
+## Evidence and Attribution Notes
+
+- **Operation Nova** was an international law enforcement action that took down **Safe-Inet**, a bulletproof VPN service that had operated for over a decade.
+- The operation was led by German BKA and coordinated by Europol, with participation from the FBI and law enforcement agencies in the Netherlands, Switzerland, and France.
+- The service had been used by ransomware operators, Magecart web skimmers, and other cybercriminals to conceal their identities and locations.
 
 ## References
 

@@ -1,7 +1,7 @@
 ---
 type: case
 title: "Two members of multi-state drug trafficking rings linked to Aryan prison gangs sentenced to lengthy prison terms"
-case_number: "Source-derived from 2026-04-18_justice-gov_two-members-multi-state-drug-trafficking-rings-linked-aryan-prison-gangs-sentenced"
+case_number: "Not specified in available source metadata"
 jurisdiction: "U.S. federal prosecution (district not specified in source)"
 jurisdiction_country: "[[united-states]]"
 case_type: prosecution
@@ -38,29 +38,37 @@ mechanisms_used:
   - "[[informal-cooperation]]"
 key_legal_issues:
   - "[[drug-trafficking]]"
-precedent_value: "Source-derived official action page; procedural enrichment from primary filings may still be needed."
+precedent_value: "Official source-backed record; further primary filings can refine procedural detail."
 source_count: 1
 sources:
   - "[[2026-04-18_justice-gov_two-members-multi-state-drug-trafficking-rings-linked-aryan-prison-gangs-sentenced]]"
 created: 2026-04-18
-updated: 2026-04-18
-summary: "Two members of multi-state drug trafficking rings linked to Aryan prison gangs sentenced to lengthy prison terms is a source-derived case page generated from [[2026-04-18_justice-gov_two-members-multi-state-drug-trafficking-rings-linked-aryan-prison-gangs-sentenced]]."
+updated: 2026-04-26
+summary: "Two members of multi-state drug trafficking rings linked to Aryan prison gangs sentenced to lengthy prison terms is documented in the linked source material. Available source coverage includes US DOJ USAO."
 ---
 ## Summary
 
-Two members of multi-state drug trafficking rings linked to Aryan prison gangs sentenced to lengthy prison terms is a source-derived case page generated from [[2026-04-18_justice-gov_two-members-multi-state-drug-trafficking-rings-linked-aryan-prison-gangs-sentenced]].
+Two members of multi-state drug trafficking rings linked to Aryan prison gangs sentenced to lengthy prison terms is documented in the linked source material. Available source coverage includes US DOJ USAO.
 
-## Facts
+## Source Coverage
 
-This case page was generated from [[2026-04-18_justice-gov_two-members-multi-state-drug-trafficking-rings-linked-aryan-prison-gangs-sentenced]] and reflects an official action title from the source corpus.
+- US DOJ USAO, 2025-01-31: Two members of multi-state drug trafficking rings linked to Aryan prison gangs sentenced to lengthy prison terms.
 
-## International Cooperation Elements
+## Operational Timeline
 
-This source-derived page should be enriched with case-level cooperation detail if primary filings or fuller official narratives are collected.
+- 2025-01-31: public source coverage from US DOJ USAO.
 
-## Legal Analysis
+## International Cooperation Details
 
-The present page is a structured placeholder built from source metadata and may require refinement from primary filings.
+- Named agencies and partners include Us Doj.
+- Recorded cooperation mechanisms include informal cooperation.
+
+## Legal and Procedural Posture
+
+- Recorded crime classification: Drug Trafficking.
+- Legal or procedural basis recorded in metadata: informal cooperation.
+- The record is categorized as prosecution with status sentenced.
+- Related legal or operational records: Operation Two Members Of Multi State Drug Trafficking Rings Linked To Aryan Prison Gangs Sentenced To Lengthy Prison Ter.
 
 ## References
 

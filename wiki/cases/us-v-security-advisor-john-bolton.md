@@ -1,7 +1,7 @@
 ---
 type: case
 title: "United States v. Security Advisor John Bolton"
-case_number: "Source-derived from 2026-04-18_justice-gov_justice-department-statements-regarding-indictment-former-national-security-advisor-john"
+case_number: "Not specified in available source metadata"
 jurisdiction: "U.S. federal prosecution (district not specified in source)"
 jurisdiction_country: "[[united-states]]"
 case_type: prosecution
@@ -38,24 +38,32 @@ source_count: 1
 sources:
   - "[[2026-04-18_justice-gov_justice-department-statements-regarding-indictment-former-national-security-advisor-john]]"
 created: 2026-04-18
-updated: 2026-04-18
-summary: "United States v. Security Advisor John Bolton is a source-derived case page generated from [[2026-04-18_justice-gov_justice-department-statements-regarding-indictment-former-national-security-advisor-john]]."
+updated: "2026-04-26"
+summary: "United States v. Security Advisor John Bolton is documented in the linked source material. Available source coverage includes US DOJ (Office of Public Affairs)."
 ---
 ## Summary
 
-United States v. Security Advisor John Bolton is a source-derived case page generated from [[2026-04-18_justice-gov_justice-department-statements-regarding-indictment-former-national-security-advisor-john]].
+United States v. Security Advisor John Bolton is documented in the linked source material. Available source coverage includes US DOJ (Office of Public Affairs).
 
-## Facts
+## Source Coverage
 
-This case page was generated from [[2026-04-18_justice-gov_justice-department-statements-regarding-indictment-former-national-security-advisor-john]] and should be expanded with primary-court detail where available.
+- US DOJ (Office of Public Affairs), 2025-10-16: Justice Department Statements Regarding Indictment of Former National Security Advisor John Bolton.
 
-## International Cooperation Elements
+## Operational Timeline
 
-The currently collected source indicates a transnational cybercrime enforcement context, but the specific cross-border mechanisms still need case-level enrichment.
+- 2025-10-16: public source coverage from US DOJ (Office of Public Affairs).
 
-## Legal Analysis
+## International Cooperation Details
 
-The present page is a structured placeholder built from source metadata and should be refined as additional filings or official summaries are collected.
+- Named agencies and partners include Us Doj.
+- Recorded cooperation mechanisms include informal cooperation.
+
+## Legal and Procedural Posture
+
+- Recorded crime classification: online fraud.
+- Legal or procedural basis recorded in metadata: informal cooperation.
+- The record is categorized as prosecution with status indicted.
+- Related legal or operational records: Operation Us V Security Advisor John Bolton.
 
 ## References
 

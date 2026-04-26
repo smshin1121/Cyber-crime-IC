@@ -1,7 +1,7 @@
 ---
 type: case
 title: "Key figures behind Phobos and 8Base ransomware arrested in international cybercrime crackdown"
-case_number: "Source-derived from 2025-02-11-europol-phobos-8base-ransomware-arrests"
+case_number: "Not specified in available source metadata"
 jurisdiction: "International law enforcement action (multi-jurisdictional)"
 jurisdiction_country: "[[international]]"
 case_type: prosecution
@@ -34,29 +34,49 @@ mechanisms_used:
   - "[[informal-cooperation]]"
 key_legal_issues:
   - "[[ransomware-ic]]"
-precedent_value: "Source-derived official action page; procedural enrichment from primary filings may still be needed."
+precedent_value: "Official source-backed record; further primary filings can refine procedural detail."
 source_count: 1
 sources:
   - "[[2025-02-11-europol-phobos-8base-ransomware-arrests]]"
 created: 2026-04-18
-updated: 2026-04-18
-summary: "4 Russian nationals arrested as key figures behind 8Base ransomware group"
+updated: 2026-04-26
+summary: "Key figures behind Phobos and 8Base ransomware arrested in international cybercrime crackdown is documented in the linked source material. 4 Russian nationals arrested as key figures behind 8Base ransomware group Available source coverage includes Europol."
 ---
 ## Summary
 
-4 Russian nationals arrested as key figures behind 8Base ransomware group
+Key figures behind Phobos and 8Base ransomware arrested in international cybercrime crackdown is documented in the linked source material. 4 Russian nationals arrested as key figures behind 8Base ransomware group Available source coverage includes Europol.
 
-## Facts
+## Source Coverage
 
-This case page was generated from [[2025-02-11-europol-phobos-8base-ransomware-arrests]] and reflects an official action title from the source corpus.
+- Europol, 2025-02-11: Key figures behind Phobos and 8Base ransomware arrested in international cybercrime crackdown.
 
-## International Cooperation Elements
+## Operational Timeline
 
-This source-derived page should be enriched with case-level cooperation detail if primary filings or fuller official narratives are collected.
+- 2025-02-11: public source coverage from Europol.
 
-## Legal Analysis
+## International Cooperation Details
 
-The present page is a structured placeholder built from source metadata and may require refinement from primary filings.
+- Named agencies and partners include Europol Ec3.
+- Recorded cooperation mechanisms include informal cooperation.
+
+## Legal and Procedural Posture
+
+- Recorded crime classification: ransomware and online fraud.
+- Legal or procedural basis recorded in metadata: informal cooperation.
+- The record is categorized as prosecution with status prosecuted.
+- Related legal or operational records: Operation Key Figures Behind Phobos And 8base Ransomware Arrested In International Cybercrime Crackdown.
+
+## Evidence and Attribution Notes
+
+- 4 Russian nationals arrested as key figures behind 8Base ransomware group
+- 27 servers taken down; 400+ companies warned of ongoing/imminent attacks worldwide
+- 14 countries and 16 agencies participated; Europol coordinated since February 2019
+- Korean connection: Phobos administrator arrested in South Korea (June 2024), extradited to US (November 2024)
+- Prior related arrest in Italy (2023) on French warrant; demonstrates sustained multi-year investigation
+- In early February 2025, a coordinated international law enforcement action resulted in the arrest of **4 Russian nationals** who were key figures behind the **8Base ransomware** group, and the takedown of **27 servers** connected to their criminal network.
+- The operation involved 14 countries and built on prior actions including the arrest of a Phobos administrator in South Korea in June 2024 (extradited to the US in November 2024) and a key Phobos affiliate arrest in Italy in 2023.
+- Law enforcement warned over 400 companies worldwide of ongoing or imminent ransomware attacks.
+
 
 ## References
 

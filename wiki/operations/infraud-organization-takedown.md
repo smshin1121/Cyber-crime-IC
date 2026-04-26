@@ -56,7 +56,7 @@ timeframe:
 title: "Infraud Organization Takedown"
 title_ko: "인프라우드 조직 소탕"
 type: operation
-updated: 2026-04-12
+updated: "2026-04-26"
 operation_role: umbrella
 parent_operation: ""
 summary: "In February 2018, the US Department of Justice announced the takedown of the **Infraud Organization**, a massive online cybercrime forum responsible for an estimated **$530 million** in losses. The operation resulted in **36 indictments** and **13 arrests** across multiple countries. The Infraud Organization had operated since 2010 with nearly 11,000 members, facilitating the sale of stolen financial data, malware, and other cybercrime services."
@@ -64,6 +64,7 @@ organizations:
   - "[[us-doj]]"
 crime_types:
   - "[[cybercrime-forum-ic]]"
+  - "[[malware-ic]]"
 ---
 > [!note] This operation is documented from a Tier 3 (cybersecurity media) source. Additional verification from official sources (Tier 1-2) would strengthen data reliability.
 

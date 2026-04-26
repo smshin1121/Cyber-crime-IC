@@ -24,11 +24,11 @@ sources:
   - "[[2026-04-18_justice-gov_four-members-notorious-cybercrime-group-fin9-charged-roles-attacking-us-companies]]"
 created: 2026-04-18
 updated: 2026-04-26
-summary: "Four Members of Notorious Cybercrime Group ‘FIN9’ Charged for Roles in Attacking U.S. Companies is recorded as a case based on the linked source set. Secure .gov websites use HTTPS A lock ( Lock Locked padlock ) or https: // means you’ve safely connected to the .gov website. The supporting source set includes US DOJ USAO."
+summary: "Four Members of Notorious Cybercrime Group ‘FIN9’ Charged for Roles in Attacking U.S. Companies is documented in the linked source material. Available source coverage includes US DOJ USAO."
 ---
 ## Summary
 
-Four Members of Notorious Cybercrime Group ‘FIN9’ Charged for Roles in Attacking U.S. Companies is recorded as a case based on the linked source set. Secure .gov websites use HTTPS A lock ( Lock Locked padlock ) or https: // means you’ve safely connected to the .gov website. The supporting source set includes US DOJ USAO.
+Four Members of Notorious Cybercrime Group ‘FIN9’ Charged for Roles in Attacking U.S. Companies is documented in the linked source material. Available source coverage includes US DOJ USAO.
 
 ## Source Coverage
 
@@ -49,8 +49,28 @@ Four Members of Notorious Cybercrime Group ‘FIN9’ Charged for Roles in Attac
 
 ## Evidence and Attribution Notes
 
-- Secure .gov websites use HTTPS A lock ( Lock Locked padlock ) or https: // means you’ve safely connected to the .gov website.
-- An indictment was unsealed today charging four Vietnamese nationals for their...Four Members of Notorious Cybercrime Group ‘FIN9’ Charged for Roles in Attacking...An indictment was unsealed today charging four Vietnamese nationals for their
+- US DOJ USAO has a parsed source text of 1258 words available for further review.
+
+
+
+<!-- SOURCE_ENRICHMENT_START -->
+
+## Source Coverage
+
+- US DOJ USAO, 2024-06-20: Four Members of Notorious Cybercrime Group ‘FIN9’ Charged for Roles in Attacking U.S. Companies.
+
+<!-- SOURCE_ENRICHMENT_END -->
+
+<!-- RAW_TEXT_HIGHLIGHTS_START -->
+
+## Raw Source Highlights
+
+- US DOJ USAO, 2024-06-20: District of New Jersey | Four Members of Notorious Cybercrime Group ‘FIN9’ Charged for Roles in Attacking U.S.
+- US DOJ USAO, 2024-06-20: Attorneys District of New Jersey Four Members of Notorious Cybercrime Group ‘FIN9’ Charged For Roles In Attacking U.S.
+- US DOJ USAO, 2024-06-20: According to the indictment, Ta Van Tai, aka “Quynh Hoa,” aka “Bich Thuy;” Nguyen Viet Quoc, aka “Tien Nguyen;” Nguyen Trang Xuyen; and Nguyen Van Truong, aka “Chung Nguyen,” were members of a sophisticated international cybercrime group known as “FIN9.
+- US DOJ USAO, 2024-06-20: The defendants caused their victims to suffer more than $71 million in losses.
+
+<!-- RAW_TEXT_HIGHLIGHTS_END -->
 
 ## References
 

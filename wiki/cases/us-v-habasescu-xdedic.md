@@ -9,6 +9,7 @@ status: sentenced
 crime_charged:
   - "[[cybercrime-forum-ic]]"
   - "[[identity-theft]]"
+  - "[[ransomware-ic]]"
 defendants:
   - name: "Alexandru Habasescu"
     nationality: Moldovan
@@ -46,12 +47,13 @@ mechanisms_used:
 key_legal_issues:
   - "[[data-sovereignty]]"
   - "[[jurisdictional-conflicts]]"
+  - "[[ransomware-ic]]"
 precedent_value: "High - the case is a strong prosecution anchor for the xDedic takedown because it connects marketplace seizure, multi-country evidence collection, extradition from Spain, and sentencing of a lead administrator."
 source_count: 1
 sources:
   - "[[2022-11-22_mdfl_habasescu-xdedic-extradition]]"
 created: 2026-04-17
-updated: 2026-04-17
+updated: "2026-04-26"
 summary: "United States v. Habasescu is the clearest identified U.S. administrator case arising from the [[xdedic-marketplace-takedown|xDedic Marketplace takedown]]. It turns an operation page that was previously seizure-centric into a concrete prosecution record."
 ---
 ## Summary

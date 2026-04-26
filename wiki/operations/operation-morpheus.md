@@ -75,6 +75,8 @@ organizations:
   - "[[europol-ec3]]"
 crime_types:
   - "[[hacking-ic]]"
+  - "[[ransomware-ic]]"
+  - "[[malware-ic]]"
 ---
 > [!note] This operation is documented from a Tier 3 (cybersecurity media) source. Additional verification from official sources (Tier 1-2) would strengthen data reliability.
 

@@ -1,13 +1,14 @@
 ---
 type: case
 title: "United States v. Scott Quinn Berkett"
-case_number: "Source-derived from 2026-04-18_justice-gov_beverly-hills-man-pleads-guilty-charge-attempting-hire-hitman-murder-woman-he-briefly"
+case_number: "Not specified in available source metadata"
 jurisdiction: "U.S. federal prosecution (district not specified in source)"
 jurisdiction_country: "[[united-states]]"
 case_type: prosecution
 status: prosecuted
 crime_charged:
   - "[[online-fraud-ic]]"
+  - "[[dark-web-ic]]"
 defendants:
   - name: "Scott Quinn Berkett"
     nationality: Unknown
@@ -33,29 +34,50 @@ mechanisms_used:
   - "[[informal-cooperation]]"
 key_legal_issues:
   - "[[online-fraud-ic]]"
+  - "[[dark-web-ic]]"
 precedent_value: "Source-derived candidate case page; analytical significance requires further enrichment from primary filings."
 source_count: 1
 sources:
   - "[[2026-04-18_justice-gov_beverly-hills-man-pleads-guilty-charge-attempting-hire-hitman-murder-woman-he-briefly]]"
 created: 2026-04-18
-updated: 2026-04-18
-summary: "Official websites use .gov A .gov website belongs to an official government organization in the United States."
+updated: 2026-04-26
+summary: "United States v. Scott Quinn Berkett is documented in the linked source material. Available source coverage includes US DOJ USAO."
 ---
 ## Summary
 
-Official websites use .gov A .gov website belongs to an official government organization in the United States.
+United States v. Scott Quinn Berkett is documented in the linked source material. Available source coverage includes US DOJ USAO.
 
-## Facts
+## Source Coverage
 
-This case page was generated from [[2026-04-18_justice-gov_beverly-hills-man-pleads-guilty-charge-attempting-hire-hitman-murder-woman-he-briefly]] and should be expanded with primary-court detail where available.
+- US DOJ USAO, 2022-06-13: Beverly Hills Man Pleads Guilty to Charge for Attempting to Hire Hitman to Murder a Woman He Briefly Dated but Later Rebuffed Him.
 
-## International Cooperation Elements
+## Operational Timeline
 
-The currently collected source indicates a transnational cybercrime enforcement context, but the specific cross-border mechanisms still need case-level enrichment.
+- 2022-06-13: public source coverage from US DOJ USAO.
 
-## Legal Analysis
+## International Cooperation Details
 
-The present page is a structured placeholder built from source metadata and should be refined as additional filings or official summaries are collected.
+- Named agencies and partners include Us Doj.
+- Recorded cooperation mechanisms include informal cooperation.
+
+## Legal and Procedural Posture
+
+- Recorded crime classification: online fraud.
+- Legal or procedural basis recorded in metadata: informal cooperation.
+- The record is categorized as prosecution with status prosecuted.
+
+## Evidence and Attribution Notes
+
+- US DOJ USAO has a parsed source text of 847 words available for further review.
+
+<!-- RAW_TEXT_HIGHLIGHTS_START -->
+
+## Raw Source Highlights
+
+- US DOJ USAO, 2022-06-13: Berkett provided the darknet group with specific directions and details about his target.
+- US DOJ USAO, 2022-06-13: As payment for the victim’s murder, Berkett send the darknet group bitcoin payments totaling approximately $13,000.
+
+<!-- RAW_TEXT_HIGHLIGHTS_END -->
 
 ## References
 

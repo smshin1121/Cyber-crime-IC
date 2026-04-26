@@ -59,12 +59,12 @@ sources:
   - "[[2026-04-18_justice-gov_foreign-national-indicted-wire-fraud-scheme]]"
 summary: "Foreign National Indicted In Wire Fraud Scheme Enforcement Action is a domestic-only U.S. follow-on record absorbed into the canonical case page [[foreign-national-indicted-in-wire-fraud-scheme]]. No visible cross-border mechanism is documented, so it is not treated as a separate international-cooperation operation."
 created: 2026-04-18
-updated: 2026-04-25
+updated: "2026-04-26"
 ---
 
 ## Summary
 
-Foreign National Indicted In Wire Fraud Scheme Enforcement Action is a defendant-specific enforcement action page derived from [[foreign-national-indicted-in-wire-fraud-scheme]]. It captures the prosecutorial or seizure stage reflected in the linked case record and preserves the operation-side catalog entry for this follow-on action.
+Foreign National Indicted In Wire Fraud Scheme Enforcement Action is a follow-on operation catalog record tied to [[foreign-national-indicted-in-wire-fraud-scheme]]. It preserves the operation-side pointer for the related case record.
 
 > [!info] Source enrichment - single-source justification (2026-04-25)
 > Searched for additional credible sources covering this defendant/case (Ken-ichi Larroza Hatakama, Philippines):

@@ -1,7 +1,7 @@
 ---
 type: case
 title: "United States v. Ghaleb Alaumary"
-case_number: "Source-derived from 2026-04-18_justice-gov_international-money-launderer-sentenced-over-11-years-federal-prison-laundering"
+case_number: "Not specified in available source metadata"
 jurisdiction: "U.S. federal prosecution (district not specified in source)"
 jurisdiction_country: "[[united-states]]"
 case_type: prosecution
@@ -38,24 +38,32 @@ source_count: 1
 sources:
   - "[[2026-04-18_justice-gov_international-money-launderer-sentenced-over-11-years-federal-prison-laundering]]"
 created: 2026-04-18
-updated: 2026-04-18
-summary: "United States v. Ghaleb Alaumary is a source-derived case page generated from [[2026-04-18_justice-gov_international-money-launderer-sentenced-over-11-years-federal-prison-laundering]]."
+updated: 2026-04-26
+summary: "United States v. Ghaleb Alaumary is documented in the linked source material. Available source coverage includes US DOJ USAO."
 ---
 ## Summary
 
-United States v. Ghaleb Alaumary is a source-derived case page generated from [[2026-04-18_justice-gov_international-money-launderer-sentenced-over-11-years-federal-prison-laundering]].
+United States v. Ghaleb Alaumary is documented in the linked source material. Available source coverage includes US DOJ USAO.
 
-## Facts
+## Source Coverage
 
-This case page was generated from [[2026-04-18_justice-gov_international-money-launderer-sentenced-over-11-years-federal-prison-laundering]] and should be expanded with primary-court detail where available.
+- US DOJ USAO, 2021-09-08: International Money Launderer Sentenced to over 11 Years in Federal Prison for Laundering Millions from Cyber Crime Schemes.
 
-## International Cooperation Elements
+## Operational Timeline
 
-The currently collected source indicates a transnational cybercrime enforcement context, but the specific cross-border mechanisms still need case-level enrichment.
+- 2021-09-08: public source coverage from US DOJ USAO.
 
-## Legal Analysis
+## International Cooperation Details
 
-The present page is a structured placeholder built from source metadata and should be refined as additional filings or official summaries are collected.
+- Named agencies and partners include Us Doj.
+- Recorded cooperation mechanisms include mutual legal assistance.
+
+## Legal and Procedural Posture
+
+- Recorded crime classification: online fraud.
+- Legal or procedural basis recorded in metadata: mutual legal assistance.
+- The record is categorized as prosecution with status sentenced.
+- Related legal or operational records: Operation Us V Ghaleb Alaumary.
 
 ## References
 

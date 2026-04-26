@@ -85,7 +85,7 @@ sources:
   - "[[2021-01-01_bka-de_cybercrime-bundeslagebild-2021-cyberbunker]]"
   - "[[2019-09-30_arstechnica_com_cyberbunker-raid]]"
 created: 2026-04-10
-updated: 2026-04-18
+updated: "2026-04-26"
 operation_role: umbrella
 parent_operation: ""
 summary: "The CyberBunker Takedown was a major German law enforcement operation targeting a bulletproof hosting provider operating from a former NATO bunker in Traben-Trarbach, Rhineland-Palatinate, [[germany|Germany]]. On 26-27 September 2019, more than 600 police officers raided the underground facility, arrested seven suspects and seized roughly 200 servers. The resulting prosecution against eight defendants culminated in December 2021 convictions for participation in a criminal organization, and those convictions were largely confirmed as final in September 2023. The operation became a landmark European bulletproof-hosting case and directly fed the later [[darkmarket-takedown|DarkMarket takedown]]."
@@ -98,6 +98,7 @@ organizations:
   - "[[germany-bka|Bundeskriminalamt (BKA)]]"
 crime_types:
   - "[[online-fraud-ic]]"
+  - "[[csam-ic]]"
 ---
 ## Summary
 

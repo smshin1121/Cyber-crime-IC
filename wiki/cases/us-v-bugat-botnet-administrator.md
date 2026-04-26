@@ -39,11 +39,11 @@ sources:
   - "[[2015-10-13_justice-gov_bugat-botnet-administrator-arrested-and-malware-disabled]]"
 created: 2026-04-18
 updated: 2026-04-26
-summary: "United States v. Bugat Botnet Administrator is recorded as a case based on the linked source set. Secure .gov websites use HTTPS A lock ( Lock Locked padlock ) or https: // means you’ve safely connected to the .gov website. The supporting source set includes US DOJ."
+summary: "United States v. Bugat Botnet Administrator is documented in the linked source material. The Dridex/Evil Corp disruption and prosecution was a **multi-year international law enforcement operation** targeting the Dridex banking trojan (also known as Bugat and Cridex) and its operators within the Russia-based cybercriminal organization **Evil Corp**. Available source coverage includes US DOJ."
 ---
 ## Summary
 
-United States v. Bugat Botnet Administrator is recorded as a case based on the linked source set. Secure .gov websites use HTTPS A lock ( Lock Locked padlock ) or https: // means you’ve safely connected to the .gov website. The supporting source set includes US DOJ.
+United States v. Bugat Botnet Administrator is documented in the linked source material. The Dridex/Evil Corp disruption and prosecution was a **multi-year international law enforcement operation** targeting the Dridex banking trojan (also known as Bugat and Cridex) and its operators within the Russia-based cybercriminal organization **Evil Corp**. Available source coverage includes US DOJ.
 
 ## Source Coverage
 
@@ -67,9 +67,29 @@ United States v. Bugat Botnet Administrator is recorded as a case based on the l
 
 ## Evidence and Attribution Notes
 
-- Secure .gov websites use HTTPS A lock ( Lock Locked padlock ) or https: // means you’ve safely connected to the .gov website.
 - The Dridex/Evil Corp disruption and prosecution was a **multi-year international law enforcement operation** targeting the Dridex banking trojan (also known as Bugat and Cridex) and its operators within the Russia-based cybercriminal organization **Evil Corp**.
 - The operation unfolded in two major phases: (1) the **October 2015 technical disruption and arrest** of botnet administrator Andrey Ghinkul, conducted jointly by the FBI and UK National Crime Agency (NCA); and (2) the **December 2019 indictment, sanctions, and reward** targeting Evil Corp leader **Maksim Yakubets** and deputy **Igor Turashev**, coordinated.
+
+
+
+<!-- SOURCE_ENRICHMENT_START -->
+
+## Source Coverage
+
+- US DOJ, 2015-10-13: Bugat Botnet Administrator Arrested and Malware Disabled.
+
+<!-- SOURCE_ENRICHMENT_END -->
+
+<!-- RAW_TEXT_HIGHLIGHTS_START -->
+
+## Raw Source Highlights
+
+- US DOJ, 2015-10-13: Department of Justice title="About" title="News" title="Guidance & Resources" Justice.gov Office of Public Affairs Bugat Botnet Administrator Arrested and Malware Disabled This is archived content from the U.S.
+- US DOJ, 2015-10-13: Andrey Ghinkul, aka Andrei Ghincul and Smilex, 30, of Moldova, was charged in a nine-count indictment unsealed today in the Western District of Pennsylvania with criminal conspiracy, unauthorized computer access with intent to defraud, damaging a computer, wire fraud and bank fraud.
+- US DOJ, 2015-10-13: “The steps announced today are another example of our global and innovative approach to combatting cybercrime,” said Assistant Attorney General Caldwell.
+- US DOJ, 2015-10-13: With our partners here and overseas, we will shut down these cross-border criminal schemes.” “Through a technical disruption and criminal indictment we have struck a blow to one of the most pernicious malware threats in the world,” said U.S.
+
+<!-- RAW_TEXT_HIGHLIGHTS_END -->
 
 ## References
 

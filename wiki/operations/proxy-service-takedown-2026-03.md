@@ -98,7 +98,7 @@ sources:
   - "[[2026-03-13_cybernews-com_major-residential-proxy-service-socksescort-down]]"
   - "[[2026-03-13_techradar-com_major-socksescort-proxy-network-powered-by-linux-malware-taken-down-by-fbi-and-other-police-forces]]"
 created: 2026-04-14
-updated: 2026-04-14
+updated: "2026-04-26"
 operation_role: umbrella
 parent_operation: ""
 summary: "On **12 March 2026**, [[eurojust|Eurojust]] announced the takedown of an unnamed website allegedly offering **IP proxy services for cybercriminals in 102 countries** of victims. The operation was conducted by authorities from **eight countries** — only four of which are publicly named: [[france|France]], [[austria|Austria]], the [[netherlands|Netherlands]], and the [[united-states|United States]] — coordinated by [[eurojust|Eurojust]] and [[europol-ec3|Europol]]. The operators of the proxy service are also suspected of running an associated **payment platform** for the service."
@@ -112,6 +112,7 @@ organizations:
   - "[[europol-ec3]]"
 crime_types:
   - "[[hacking-ic]]"
+  - "[[malware-ic]]"
 ---
 ## Summary
 

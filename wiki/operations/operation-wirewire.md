@@ -95,6 +95,7 @@ organizations:
   - "[[us-postal-inspection]]"
 crime_types:
   - "[[bec-ic]]"
+  - "[[malware-ic]]"
 ---
 ## Summary
 
@@ -155,7 +156,6 @@ United States, Nigeria, Canada, Mauritius, Poland
 
 ## Evidence and Attribution Notes
 
-- Secure .gov websites use HTTPS A lock ( Lock Locked padlock ) or https: // means you’ve safely connected to the .gov website.
 - Attorney's Office for the District of Connecticut announced charges against Adeyemi Odufuye and another defendant in a business email compromise scheme targeting U.S.
 - DOJ said a federal grand jury had returned a seven-count indictment on 20 December 2016 charging conspiracy, five wire-fraud counts, and aggravated identity theft.
 - The subsequent DOJ record shows the case became a clear example of multinational custody and evidence work in a BEC prosecution.

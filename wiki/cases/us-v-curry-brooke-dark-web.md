@@ -8,6 +8,7 @@ case_type: prosecution
 status: convicted
 crime_charged:
   - "[[money-laundering-ic]]"
+  - "[[dark-web-ic]]"
 defendants:
   - name: "Aidan Curry"
     nationality: American
@@ -38,12 +39,13 @@ mechanisms_used:
   - "[[informal-cooperation]]"
 key_legal_issues:
   - "[[cryptocurrency-seizure]]"
+  - "[[dark-web-ic]]"
 precedent_value: "Medium - useful because it targets the cash-out and bitcoin-conversion layer for dark web proceeds."
 source_count: 1
 sources:
   - "[[2019-10-02_sdca_curry-brooke-dark-web-laundering-plea]]"
 created: 2026-04-17
-updated: 2026-04-17
+updated: "2026-04-26"
 summary: "United States v. Curry and Brooke is a dark-web-proceeds laundering case involving an unlicensed business that converted cash to bitcoin for darknet participants."
 ---
 ## Summary

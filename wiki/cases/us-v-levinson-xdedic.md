@@ -9,6 +9,7 @@ status: sentenced
 crime_charged:
   - "[[identity-theft]]"
   - "[[online-fraud-ic]]"
+  - "[[dark-web-ic]]"
 defendants:
   - name: "Allen Levinson"
     nationality: Nigerian
@@ -39,12 +40,13 @@ mechanisms_used:
 key_legal_issues:
   - "[[extraterritorial-jurisdiction]]"
   - "[[jurisdictional-conflicts]]"
+  - "[[dark-web-ic]]"
 precedent_value: "Medium to High - the case shows how a downstream xDedic buyer used purchased access to launch a large U.S. tax-fraud scheme, linking access-market operations to concrete domestic fiscal harm."
 source_count: 1
 sources:
   - "[[2022-12-05_mdfl_levinson-xdedic-sentencing]]"
 created: 2026-04-17
-updated: 2026-04-17
+updated: "2026-04-26"
 summary: "United States v. Allen Levinson is an xDedic-derived buyer case in which access purchased from the marketplace allegedly enabled a large-scale U.S. tax-refund fraud. It is one of the clearest examples of downstream harm flowing from a criminal access marketplace."
 ---
 ## Summary

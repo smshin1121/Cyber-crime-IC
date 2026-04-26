@@ -1,13 +1,14 @@
 ---
 type: case
 title: "United States v. East Hartford Man"
-case_number: "Source-derived from 2026-04-18_justice-gov_east-hartford-man-sentenced-10-years-prison-possessing-child-sex-abuse-material-while"
+case_number: "Not specified in available source metadata"
 jurisdiction: "U.S. federal prosecution (district not specified in source)"
 jurisdiction_country: "[[united-states]]"
 case_type: prosecution
 status: sentenced
 crime_charged:
   - "[[online-fraud-ic]]"
+  - "[[csam-ic]]"
 defendants:
   - name: "East Hartford Man"
     nationality: Unknown
@@ -33,29 +34,42 @@ mechanisms_used:
   - "[[informal-cooperation]]"
 key_legal_issues:
   - "[[online-fraud-ic]]"
+  - "[[csam-ic]]"
 precedent_value: "Source-derived candidate case page; analytical significance requires further enrichment from primary filings."
 source_count: 1
 sources:
   - "[[2026-04-18_justice-gov_east-hartford-man-sentenced-10-years-prison-possessing-child-sex-abuse-material-while]]"
 created: 2026-04-18
-updated: 2026-04-18
-summary: "United States v. East Hartford Man is a source-derived case page generated from [[2026-04-18_justice-gov_east-hartford-man-sentenced-10-years-prison-possessing-child-sex-abuse-material-while]]."
+updated: "2026-04-26"
+summary: "United States v. East Hartford Man is documented in the linked source material. PERRY, 39, of East Hartford, was sentenced today by U.S. Available source coverage includes US DOJ USAO."
 ---
 ## Summary
 
-United States v. East Hartford Man is a source-derived case page generated from [[2026-04-18_justice-gov_east-hartford-man-sentenced-10-years-prison-possessing-child-sex-abuse-material-while]].
+United States v. East Hartford Man is documented in the linked source material. PERRY, 39, of East Hartford, was sentenced today by U.S. Available source coverage includes US DOJ USAO.
 
-## Facts
+## Source Coverage
 
-This case page was generated from [[2026-04-18_justice-gov_east-hartford-man-sentenced-10-years-prison-possessing-child-sex-abuse-material-while]] and should be expanded with primary-court detail where available.
+- US DOJ USAO, 2026-01-27: East Hartford Man Sentenced to 10 Years in Prison for Possessing Child Sex Abuse Material While on State Probation for Similar Offense.
 
-## International Cooperation Elements
+## Operational Timeline
 
-The currently collected source indicates a transnational cybercrime enforcement context, but the specific cross-border mechanisms still need case-level enrichment.
+- 2026-01-27: public source coverage from US DOJ USAO.
 
-## Legal Analysis
+## International Cooperation Details
 
-The present page is a structured placeholder built from source metadata and should be refined as additional filings or official summaries are collected.
+- Named agencies and partners include Us Doj.
+- Recorded cooperation mechanisms include informal cooperation.
+
+## Legal and Procedural Posture
+
+- Recorded crime classification: online fraud.
+- Legal or procedural basis recorded in metadata: informal cooperation.
+- The record is categorized as prosecution with status sentenced.
+- Related legal or operational records: Operation Us V East Hartford Man.
+
+## Evidence and Attribution Notes
+
+- PERRY, 39, of East Hartford, was sentenced today by U.S.
 
 ## References
 

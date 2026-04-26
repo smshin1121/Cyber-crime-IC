@@ -68,6 +68,7 @@ organizations:
   - "[[interpol]]"
 crime_types:
   - "[[bec-ic]]"
+  - "[[malware-ic]]"
 ---
 ## Summary
 

@@ -1,7 +1,7 @@
 ---
 type: operation
 title: "Romania Phishing Network Takedown"
-title_ko: "공식 작전명 없음 (루마니아 피싱 범죄조직 단속)"
+title_ko: "Romania Phishing Network Takedown (공식 작전명 미확인; alias: Hook Line and Sinker)"
 aliases:
   - "Hook Line and Sinker"
 case_id: CYB-2024-012

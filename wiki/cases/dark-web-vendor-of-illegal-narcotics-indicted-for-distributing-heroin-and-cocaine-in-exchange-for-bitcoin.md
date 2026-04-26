@@ -35,11 +35,11 @@ sources:
   - "[[2026-04-18_justice-gov_dark-web-vendor-illegal-narcotics-indicted-distributing-heroin-and-cocaine-exchange]]"
 created: 2026-04-18
 updated: 2026-04-26
-summary: "Dark Web Vendor of Illegal Narcotics Indicted for Distributing Heroin and Cocaine in Exchange for Bitcoin is recorded as a case based on the linked source set. Secure .gov websites use HTTPS A lock ( Lock Locked padlock ) or https: // means you’ve safely connected to the .gov website. The supporting source set includes US DOJ USAO."
+summary: "Dark Web Vendor of Illegal Narcotics Indicted for Distributing Heroin and Cocaine in Exchange for Bitcoin is documented in the linked source material. Available source coverage includes US DOJ USAO."
 ---
 ## Summary
 
-Dark Web Vendor of Illegal Narcotics Indicted for Distributing Heroin and Cocaine in Exchange for Bitcoin is recorded as a case based on the linked source set. Secure .gov websites use HTTPS A lock ( Lock Locked padlock ) or https: // means you’ve safely connected to the .gov website. The supporting source set includes US DOJ USAO.
+Dark Web Vendor of Illegal Narcotics Indicted for Distributing Heroin and Cocaine in Exchange for Bitcoin is documented in the linked source material. Available source coverage includes US DOJ USAO.
 
 ## Source Coverage
 
@@ -60,8 +60,28 @@ Dark Web Vendor of Illegal Narcotics Indicted for Distributing Heroin and Cocain
 
 ## Evidence and Attribution Notes
 
-- Secure .gov websites use HTTPS A lock ( Lock Locked padlock ) or https: // means you’ve safely connected to the .gov website.
-- the Eastern District of New York, charging Edison Hernandez, also known as “dragoncove...Press Release Dark Web Vendor of Illegal Narcotics Indicted for Distributing...York 3 Additional Defendants Also Charged with Operating a Door-to-Door Drug
+- US DOJ USAO has a parsed source text of 1525 words available for further review.
+
+
+
+<!-- SOURCE_ENRICHMENT_START -->
+
+## Source Coverage
+
+- US DOJ USAO, 2022-07-13: Dark Web Vendor of Illegal Narcotics Indicted for Distributing Heroin and Cocaine in Exchange for Bitcoin.
+
+<!-- SOURCE_ENRICHMENT_END -->
+
+<!-- RAW_TEXT_HIGHLIGHTS_START -->
+
+## Raw Source Highlights
+
+- US DOJ USAO, 2022-07-13: Attorney's Office, Eastern District of New York 3 Additional Defendants Also Charged with Operating a Door-to-Door Drug Delivery Service A three-count indictment was unsealed today in the United States District Court for the Eastern District of New York, charging Edison Hernandez, also known as “dragoncove,” “originaldragoncove,”.
+- US DOJ USAO, 2022-07-13: These first two counts relate to Hernandez’s alleged activities on the dark web starting in January 2013.
+- US DOJ USAO, 2022-07-13: Brubaker, Inspector-in-Charge, New York Division, United States Postal Inspection Service (USPIS), announced the charges.
+- US DOJ USAO, 2022-07-13: Today, the defendants learned the hard way that once their crimes left the dark web and entered the real world, Postal Inspectors and our law enforcement partners were there waiting to take them down.
+
+<!-- RAW_TEXT_HIGHLIGHTS_END -->
 
 ## References
 

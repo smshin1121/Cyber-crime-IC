@@ -68,7 +68,7 @@ updated: 2026-04-26
 ---
 ## Summary
 
-Former Employee of House Member Sentenced to Prison Term on Charges in Cyberstalking Case Enforcement Action is a defendant-specific enforcement action page derived from [[former-employee-of-house-member-sentenced-to-prison-term-on-charges-in-cyberstalking-case]]. It captures the prosecutorial or seizure stage reflected in the linked case record and preserves the operation-side catalog entry for this follow-on action.
+Former Employee of House Member Sentenced to Prison Term on Charges in Cyberstalking Case Enforcement Action is a follow-on operation catalog record tied to [[former-employee-of-house-member-sentenced-to-prison-term-on-charges-in-cyberstalking-case]]. It preserves the operation-side pointer for the related case record.
 
 ## Background
 
@@ -84,6 +84,7 @@ The underlying public case record identifies Former Employee of House Member Sen
 - Operation type: `sentencing`
 - Case anchor: [[former-employee-of-house-member-sentenced-to-prison-term-on-charges-in-cyberstalking-case]]
 - Source coverage: 1 official or catalogued source page(s)
+
 
 ## References
 

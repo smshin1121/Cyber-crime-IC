@@ -1,7 +1,7 @@
 ---
 type: case
 title: "Foreign Nationals Sentenced for Roles in Transnational Cybercrime Enterprise"
-case_number: "Source-derived from 2026-04-17_justice-gov_foreign-nationals-sentenced-roles-transnational-cybercrime-enterprise"
+case_number: "Not specified in available source metadata"
 jurisdiction: "U.S. federal prosecution (district not specified in source)"
 jurisdiction_country: "[[united-states]]"
 case_type: prosecution
@@ -33,29 +33,41 @@ mechanisms_used:
   - "[[informal-cooperation]]"
 key_legal_issues:
   - "[[online-fraud-ic]]"
-precedent_value: "Source-derived official action page; procedural enrichment from primary filings may still be needed."
+precedent_value: "Official source-backed record; further primary filings can refine procedural detail."
 source_count: 1
 sources:
   - "[[2026-04-17_justice-gov_foreign-nationals-sentenced-roles-transnational-cybercrime-enterprise]]"
 created: 2026-04-18
-updated: 2026-04-18
-summary: "Foreign Nationals Sentenced for Roles in Transnational Cybercrime Enterprise is a source-derived case page generated from [[2026-04-17_justice-gov_foreign-nationals-sentenced-roles-transnational-cybercrime-enterprise]]."
+updated: 2026-04-26
+summary: "Foreign Nationals Sentenced for Roles in Transnational Cybercrime Enterprise is documented in the linked source material. Actual losses exceeded USD 568 million, with intended losses exceeding USD 2.2 billion. Available source coverage includes justice.gov."
 ---
 ## Summary
 
-Foreign Nationals Sentenced for Roles in Transnational Cybercrime Enterprise is a source-derived case page generated from [[2026-04-17_justice-gov_foreign-nationals-sentenced-roles-transnational-cybercrime-enterprise]].
+Foreign Nationals Sentenced for Roles in Transnational Cybercrime Enterprise is documented in the linked source material. Actual losses exceeded USD 568 million, with intended losses exceeding USD 2.2 billion. Available source coverage includes justice.gov.
 
-## Facts
+## Source Coverage
 
-This case page was generated from [[2026-04-17_justice-gov_foreign-nationals-sentenced-roles-transnational-cybercrime-enterprise]] and reflects an official action title from the source corpus.
 
-## International Cooperation Elements
+## Operational Timeline
 
-This source-derived page should be enriched with case-level cooperation detail if primary filings or fuller official narratives are collected.
+- 2026-04-17: public source coverage from justice.gov.
 
-## Legal Analysis
+## International Cooperation Details
 
-The present page is a structured placeholder built from source metadata and may require refinement from primary filings.
+- Named agencies and partners include Us Doj.
+- Recorded cooperation mechanisms include informal cooperation.
+
+## Legal and Procedural Posture
+
+- Recorded crime classification: online fraud.
+- Legal or procedural basis recorded in metadata: informal cooperation.
+- The record is categorized as prosecution with status sentenced.
+- Related legal or operational records: Operation Foreign Nationals Sentenced For Roles In Transnational Cybercrime Enterprise.
+
+## Evidence and Attribution Notes
+
+- Actual losses exceeded USD 568 million, with intended losses exceeding USD 2.2 billion.
+
 
 ## References
 

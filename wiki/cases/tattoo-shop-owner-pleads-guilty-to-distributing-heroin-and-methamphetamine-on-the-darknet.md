@@ -1,13 +1,14 @@
 ---
 type: case
 title: "Tattoo Shop Owner Pleads Guilty to Distributing Heroin and Methamphetamine on the Darknet"
-case_number: "Source-derived from 2020-03-05_justice-gov_united-states-v-jason-keith-arnold"
+case_number: "Not specified in available source metadata"
 jurisdiction: "U.S. District Court, Eastern District of California"
 jurisdiction_country: "[[united-states]]"
 case_type: prosecution
 status: "pleaded guilty"
 crime_charged:
   - "[[online-fraud-ic]]"
+  - "[[dark-web-ic]]"
 defendants:
   - name: "Jason Keith Arnold"
     nationality: Unknown
@@ -38,29 +39,41 @@ mechanisms_used:
   - "[[informal-cooperation]]"
 key_legal_issues:
   - "[[online-fraud-ic]]"
-precedent_value: "Source-derived official action page; procedural enrichment from primary filings may still be needed."
+  - "[[dark-web-ic]]"
+precedent_value: "Official source-backed record; further primary filings can refine procedural detail."
 source_count: 1
 sources:
   - "[[2020-03-05_justice-gov_united-states-v-jason-keith-arnold]]"
 created: 2026-04-18
-updated: 2026-04-18
-summary: "Tattoo Shop Owner Pleads Guilty to Distributing Heroin and Methamphetamine on the Darknet is a source-derived case page generated from [[2020-03-05_justice-gov_united-states-v-jason-keith-arnold]]."
+updated: "2026-04-26"
+summary: "Tattoo Shop Owner Pleads Guilty to Distributing Heroin and Methamphetamine on the Darknet is documented in the linked source material. Jason Keith Arnold (Dream Marketplace Vendor) Enforcement Action is a follow-on operation catalog record tied to Us V Jason Arnold Dark Web. Available source coverage includes US DOJ (Eastern District of California)."
 ---
 ## Summary
 
-Tattoo Shop Owner Pleads Guilty to Distributing Heroin and Methamphetamine on the Darknet is a source-derived case page generated from [[2020-03-05_justice-gov_united-states-v-jason-keith-arnold]].
+Tattoo Shop Owner Pleads Guilty to Distributing Heroin and Methamphetamine on the Darknet is documented in the linked source material. Jason Keith Arnold (Dream Marketplace Vendor) Enforcement Action is a follow-on operation catalog record tied to Us V Jason Arnold Dark Web. Available source coverage includes US DOJ (Eastern District of California).
 
-## Facts
+## Source Coverage
 
-This case page was generated from [[2020-03-05_justice-gov_united-states-v-jason-keith-arnold]] and reflects an official action title from the source corpus.
+- US DOJ (Eastern District of California), 2020-03-05: Tattoo Shop Owner Pleads Guilty to Distributing Heroin and Methamphetamine on the Darknet.
 
-## International Cooperation Elements
+## Operational Timeline
 
-This source-derived page should be enriched with case-level cooperation detail if primary filings or fuller official narratives are collected.
+- 2020-03-05: public source coverage from US DOJ (Eastern District of California).
 
-## Legal Analysis
+## International Cooperation Details
 
-The present page is a structured placeholder built from source metadata and may require refinement from primary filings.
+- Named agencies and partners include Us Doj.
+- Recorded cooperation mechanisms include informal cooperation.
+
+## Legal and Procedural Posture
+
+- Recorded crime classification: online fraud and dark web.
+- Legal or procedural basis recorded in metadata: informal cooperation.
+- The record is categorized as prosecution with status pleaded guilty.
+- Related legal or operational records: Operation Tattoo Shop Owner Pleads Guilty To Distributing Heroin And Methamphetamine On The Darknet.
+
+## Evidence and Attribution Notes
+
 
 ## References
 

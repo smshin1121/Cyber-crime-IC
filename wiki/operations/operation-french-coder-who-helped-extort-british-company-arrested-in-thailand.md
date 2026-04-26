@@ -1,6 +1,6 @@
 ---
 type: operation
-title: "French Coder Who Helped Extort British Company Arrested in Thailand Enforcement Action"
+title: "French Coder Who Helped Extort British Company Arrested in Thailand Follow-On Action"
 aliases:
   - "French Coder Who Helped Extort British Company Arrested in Thailand"
 case_id: CYB-FUP-564
@@ -67,13 +67,13 @@ sources:
   - "[[2018-06-15_bleepingcomputer-com_europol-dismantles-one-of-the-internets-oldest-hacker-groups]]"
   - "[[2018-06-15_securityweek-com_french-nationals-arrested-for-rex-mundi-hacks]]"
   - "[[2018-06-18_infosecurity-magazine_europol-disrupts-rex-mundi-cybercrime-group]]"
-summary: "French Coder Who Helped Extort British Company Arrested in Thailand Enforcement Action is a defendant-specific enforcement action page derived from [[french-coder-who-helped-extort-british-company-arrested-in-thailand]]."
+summary: "French Coder Who Helped Extort British Company Arrested in Thailand Follow-On Action is a follow-on operation catalog record derived from [[french-coder-who-helped-extort-british-company-arrested-in-thailand]]."
 created: 2026-04-18
 updated: 2026-04-26
 ---
 ## Summary
 
-French Coder Who Helped Extort British Company Arrested in Thailand Enforcement Action is a defendant-specific enforcement action page derived from [[french-coder-who-helped-extort-british-company-arrested-in-thailand]]. It captures the prosecutorial or seizure stage reflected in the linked case record and preserves the operation-side catalog entry for this follow-on action.
+French Coder Who Helped Extort British Company Arrested in Thailand Follow-On Action is a follow-on operation catalog record derived from [[french-coder-who-helped-extort-british-company-arrested-in-thailand]]. It preserves the operation-side pointer for the related case record.
 
 ## Background
 
@@ -88,7 +88,7 @@ The underlying public case record identifies French Coder Who Helped Extort Brit
 
 - Operation type: `prosecution`
 - Case anchor: [[french-coder-who-helped-extort-british-company-arrested-in-thailand]]
-- Source coverage: 1 official or catalogued source page(s)
+- Source coverage: 5 official or catalogued source page(s)
 
 <!-- SOURCE_ENRICHMENT_START -->
 
@@ -130,6 +130,7 @@ The underlying public case record identifies French Coder Who Helped Extort Brit
 - The article summarized the group's extortion model based on hacking victims and demanding Bitcoin payments.
 
 <!-- SOURCE_ENRICHMENT_END -->
+
 
 ## References
 

@@ -63,12 +63,12 @@ mechanisms_used:
 key_legal_issues:
   - "[[jurisdictional-conflicts]]"
 precedent_value: "High — three simultaneous indictments across three federal districts for the same criminal network; South Korea extradition demonstrates global enforcement reach"
-source_count: 2
+source_count: 3
 sources:
   - "[[2023-09-07_ndoh-mdtn-sdca_trickbot-conti-indictments]]"
   - "[[2015-05-29_sdny_us-v-ulbricht-sentencing]]"
 created: 2026-04-12
-updated: 2026-04-12
+updated: "2026-04-26"
 summary: "United States v. Galochkin et al. encompasses three indictments unsealed on 7 September 2023 across three federal districts, charging nine Russian nationals with conspiracies related to the TrickBot malware and Conti ransomware operations. Two additional defendants (Dunaev and Witte) were charged separately and have been convicted and sentenced. The case demonstrates the sustained prosecution approach required when initial technical disruption (October 2020) fails to permanently disable a botnet."
 ---
 ## Summary

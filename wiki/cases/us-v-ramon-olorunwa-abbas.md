@@ -1,7 +1,7 @@
 ---
 type: case
 title: "United States v. Ramon Olorunwa Abbas"
-case_number: "Source-derived from 2026-04-18_justice-gov_nigerian-national-brought-us-face-charges-conspiring-launder-hundreds-millions-dollars"
+case_number: "Not specified in available source metadata"
 jurisdiction: "U.S. federal prosecution (district not specified in source)"
 jurisdiction_country: "[[united-states]]"
 case_type: prosecution
@@ -38,24 +38,32 @@ source_count: 1
 sources:
   - "[[2026-04-18_justice-gov_nigerian-national-brought-us-face-charges-conspiring-launder-hundreds-millions-dollars]]"
 created: 2026-04-18
-updated: 2026-04-18
-summary: "United States v. Ramon Olorunwa Abbas is a source-derived case page generated from [[2026-04-18_justice-gov_nigerian-national-brought-us-face-charges-conspiring-launder-hundreds-millions-dollars]]."
+updated: "2026-04-26"
+summary: "United States v. Ramon Olorunwa Abbas is documented in the linked source material. Available source coverage includes US DOJ USAO."
 ---
 ## Summary
 
-United States v. Ramon Olorunwa Abbas is a source-derived case page generated from [[2026-04-18_justice-gov_nigerian-national-brought-us-face-charges-conspiring-launder-hundreds-millions-dollars]].
+United States v. Ramon Olorunwa Abbas is documented in the linked source material. Available source coverage includes US DOJ USAO.
 
-## Facts
+## Source Coverage
 
-This case page was generated from [[2026-04-18_justice-gov_nigerian-national-brought-us-face-charges-conspiring-launder-hundreds-millions-dollars]] and should be expanded with primary-court detail where available.
+- US DOJ USAO, 2020-07-03: Nigerian National Brought to U.S. to Face Charges of Conspiring to Launder Hundreds of Millions of Dollars from Cybercrime Schemes.
 
-## International Cooperation Elements
+## Operational Timeline
 
-The currently collected source indicates a transnational cybercrime enforcement context, but the specific cross-border mechanisms still need case-level enrichment.
+- 2020-07-03: public source coverage from US DOJ USAO.
 
-## Legal Analysis
+## International Cooperation Details
 
-The present page is a structured placeholder built from source metadata and should be refined as additional filings or official summaries are collected.
+- Named agencies and partners include Us Doj.
+- Recorded cooperation mechanisms include informal cooperation.
+
+## Legal and Procedural Posture
+
+- Recorded crime classification: online fraud.
+- Legal or procedural basis recorded in metadata: informal cooperation.
+- The record is categorized as prosecution with status charged.
+- Related legal or operational records: Operation Us V Ramon Olorunwa Abbas.
 
 ## References
 

@@ -1,7 +1,7 @@
 ---
 type: case
 title: "Monroe, Washington, man sentenced to 10 years in prison for role as “right hand man” in deadly drug distribution ring"
-case_number: "Source-derived from 2026-04-18_justice-gov_monroe-washington-man-sentenced-10-years-prison-role-right-hand-man-deadly-drug"
+case_number: "Not specified in available source metadata"
 jurisdiction: "U.S. federal prosecution (district not specified in source)"
 jurisdiction_country: "[[united-states]]"
 case_type: prosecution
@@ -33,29 +33,42 @@ mechanisms_used:
   - "[[informal-cooperation]]"
 key_legal_issues:
   - "[[drug-trafficking]]"
-precedent_value: "Source-derived official action page; procedural enrichment from primary filings may still be needed."
+precedent_value: "Official source-backed record; further primary filings can refine procedural detail."
 source_count: 1
 sources:
   - "[[2026-04-18_justice-gov_monroe-washington-man-sentenced-10-years-prison-role-right-hand-man-deadly-drug]]"
 created: 2026-04-18
-updated: 2026-04-18
-summary: "Monroe, Washington, man sentenced to 10 years in prison for role as “right hand man” in deadly drug distribution ring is a source-derived case page generated from [[2026-04-18_justice-gov_monroe-washington-man-sentenced-10-years-prison-role-right-hand-man-deadly-drug]]."
+updated: 2026-04-26
+summary: "Monroe, Washington, man sentenced to 10 years in prison for role as “right hand man” in deadly drug distribution ring is documented in the linked source material. 42-year-old Monroe, Washington resident was sentenced today in U.S. Available source coverage includes US DOJ USAO."
 ---
 ## Summary
 
-Monroe, Washington, man sentenced to 10 years in prison for role as “right hand man” in deadly drug distribution ring is a source-derived case page generated from [[2026-04-18_justice-gov_monroe-washington-man-sentenced-10-years-prison-role-right-hand-man-deadly-drug]].
+Monroe, Washington, man sentenced to 10 years in prison for role as “right hand man” in deadly drug distribution ring is documented in the linked source material. 42-year-old Monroe, Washington resident was sentenced today in U.S. Available source coverage includes US DOJ USAO.
 
-## Facts
+## Source Coverage
 
-This case page was generated from [[2026-04-18_justice-gov_monroe-washington-man-sentenced-10-years-prison-role-right-hand-man-deadly-drug]] and reflects an official action title from the source corpus.
+- US DOJ USAO, 2024-10-25: Monroe, Washington, man sentenced to 10 years in prison for role as “right hand man” in deadly drug distribution ring.
 
-## International Cooperation Elements
+## Operational Timeline
 
-This source-derived page should be enriched with case-level cooperation detail if primary filings or fuller official narratives are collected.
+- 2024-10-25: public source coverage from US DOJ USAO.
 
-## Legal Analysis
+## International Cooperation Details
 
-The present page is a structured placeholder built from source metadata and may require refinement from primary filings.
+- Named agencies and partners include Us Doj.
+- Recorded cooperation mechanisms include informal cooperation.
+
+## Legal and Procedural Posture
+
+- Recorded crime classification: Drug Trafficking.
+- Legal or procedural basis recorded in metadata: informal cooperation.
+- The record is categorized as prosecution with status sentenced.
+- Related legal or operational records: Operation Monroe Washington Man Sentenced To 10 Years In Prison For Role As Right Hand Man In Deadly Drug Distribution R.
+
+## Evidence and Attribution Notes
+
+- 42-year-old Monroe, Washington resident was sentenced today in U.S.
+
 
 ## References
 

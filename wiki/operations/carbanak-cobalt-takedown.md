@@ -74,7 +74,7 @@ sources:
   - "[[2018-08-01_fbi-gov_how-cyber-crime-group-fin7-attacked-and-stole-data-from-hundreds-of-us-companies]]"
 summary: "Spanish authorities, supported by Europol and other international partners, arrested the alleged mastermind behind the Carbanak/Cobalt bank-fraud campaigns in Spain. The arrest narrative is official; the technical understanding of the campaign still depends heavily on Kaspersky's earlier reporting."
 created: 2026-04-08
-updated: 2026-04-18
+updated: "2026-04-26"
 ---
 ## Summary
 
@@ -104,8 +104,6 @@ Carbanak/Cobalt matters because it sits at the intersection of financial intrusi
 ## Results
 
 - 1 alleged mastermind arrested in Spain
-- campaign publicly associated with EUR 1 billion+ in losses
-- more than 100 financial institutions in 40+ countries affected according to the source set
 
 ## Cooperation And Legal Analysis
 

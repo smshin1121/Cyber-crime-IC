@@ -9,6 +9,8 @@ status: indicted
 crime_charged:
   - "[[money-laundering-ic]]"
   - "[[malware-ic]]"
+  - "[[bec-ic]]"
+  - "[[ransomware-ic]]"
 defendants:
   - name: "Nika Nazarovi"
     nationality: Georgian
@@ -62,12 +64,14 @@ mechanisms_used:
 key_legal_issues:
   - "[[jurisdictional-conflicts]]"
   - "[[data-sovereignty]]"
+  - "[[bec-ic]]"
+  - "[[ransomware-ic]]"
 precedent_value: "High - the case is a strong judicial anchor for a transnational anti-laundering operation aimed at cybercrime enablers rather than only malware operators, and it illustrates how parallel prosecutions can target the financial backbone of multiple malware ecosystems."
 source_count: 1
 sources:
   - "[[2020-10-15_wdpa_nazarovi-qqaazz-indictment]]"
 created: 2026-04-17
-updated: 2026-04-17
+updated: "2026-04-26"
 summary: "United States v. Nazarovi et al. is the principal U.S. criminal case tied to the [[qqaazz-money-laundering-takedown|QQAAZZ money laundering network takedown]]. It focuses not on a single malware family, but on a laundering service that allegedly supported multiple major cybercrime groups."
 ---
 ## Summary

@@ -8,6 +8,7 @@ case_type: prosecution
 status: convicted
 crime_charged:
   - "[[online-fraud-ic]]"
+  - "[[dark-web-ic]]"
 defendants:
   - name: "Ross Ulbricht"
     nationality: Unknown
@@ -33,17 +34,18 @@ mechanisms_used:
   - "[[informal-cooperation]]"
 key_legal_issues:
   - "[[online-fraud-ic]]"
+  - "[[dark-web-ic]]"
 precedent_value: "Official source-backed record; further primary filings can refine procedural detail."
 source_count: 1
 sources:
   - "[[2015-02-04_fbi-gov_ross-ulbricht-found-guilty-on-all-counts]]"
 created: 2026-04-18
 updated: 2026-04-26
-summary: "Ross Ulbricht Found Guilty on All Counts is recorded as a case based on the linked source set. The Silk Road takedown was the seizure and shutdown of the pioneering dark web drug marketplace on 2 October 2013, accompanied by the arrest of its creator and operator, Ross William Ulbricht (alias \"Dread Pirate Roberts\" or \"DPR\"), by the FBI in San Francisco. The supporting source set includes FBI New York."
+summary: "Ross Ulbricht Found Guilty on All Counts is documented in the linked source material. The Silk Road takedown was the seizure and shutdown of the pioneering dark web drug marketplace on 2 October 2013, accompanied by the arrest of its creator and operator, Ross William Ulbricht (alias \"Dread Pirate Roberts\" or \"DPR\"), by the FBI in San Francisco. Available source coverage includes FBI New York."
 ---
 ## Summary
 
-Ross Ulbricht Found Guilty on All Counts is recorded as a case based on the linked source set. The Silk Road takedown was the seizure and shutdown of the pioneering dark web drug marketplace on 2 October 2013, accompanied by the arrest of its creator and operator, Ross William Ulbricht (alias "Dread Pirate Roberts" or "DPR"), by the FBI in San Francisco. The supporting source set includes FBI New York.
+Ross Ulbricht Found Guilty on All Counts is documented in the linked source material. The Silk Road takedown was the seizure and shutdown of the pioneering dark web drug marketplace on 2 October 2013, accompanied by the arrest of its creator and operator, Ross William Ulbricht (alias "Dread Pirate Roberts" or "DPR"), by the FBI in San Francisco. Available source coverage includes FBI New York.
 
 ## Source Coverage
 
@@ -70,6 +72,27 @@ Ross Ulbricht Found Guilty on All Counts is recorded as a case based on the link
 - The Silk Road takedown was the seizure and shutdown of the pioneering dark web drug marketplace on 2 October 2013, accompanied by the arrest of its creator and operator, Ross William Ulbricht (alias "Dread Pirate Roberts" or "DPR"), by the FBI in San Francisco.
 - Silk Road, which operated on the Tor anonymity network from approximately February 2011, had facilitated an estimated USD 1.2 billion in illegal transactions -- primarily narcotics -- serving over 100,000 buyers through thousands of vendors worldwide.
 - The FBI seized approximately 173,991 bitcoins (then worth ~$33.6 million) and the Silk Road server infrastructure hosted in Iceland.
+
+
+
+<!-- SOURCE_ENRICHMENT_START -->
+
+## Source Coverage
+
+- FBI New York, 2015-02-04: Ross Ulbricht Found Guilty on All Counts.
+
+<!-- SOURCE_ENRICHMENT_END -->
+
+<!-- RAW_TEXT_HIGHLIGHTS_START -->
+
+## Raw Source Highlights
+
+- FBI New York, 2015-02-04: Ulbricht built this black market bazaar to exploit the dark web and the digital currency Bitcoin to allow users to conduct illegal business beyond the reach of law enforcement.
+- FBI New York, 2015-02-04: The supposed anonymity of the dark web is not a protective shield from arrest and prosecution.” According to the Complaint, the Superseding Indictment, and the evidence presented at trial: ULBRICHT created Silk Road in approximately January 2011, and owned and operated the underground website until it was shut down by law enforcement.
+- FBI New York, 2015-02-04: Using the online moniker “Dread Pirate Roberts,” or “DPR,” ULBRICHT controlled and oversaw every aspect of Silk Road, and managed a staff of paid, online administrators and computer programmers who assisted with the day-to-day operation of the site.
+- FBI New York, 2015-02-04: Through his ownership and operation of Silk Road, ULBRICHT reaped commissions worth over $13 million generated from the illicit sales conducted through the site.
+
+<!-- RAW_TEXT_HIGHLIGHTS_END -->
 
 ## References
 

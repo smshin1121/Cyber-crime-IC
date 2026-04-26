@@ -40,11 +40,11 @@ sources:
   - "[[2026-04-18_justice-gov_former-hedge-fund-manager-convicted-wire-fraud-money-laundering-and-contempt-court]]"
 created: 2026-04-18
 updated: 2026-04-26
-summary: "Former Hedge Fund Manager Convicted Of Wire Fraud, Money Laundering, And Contempt Of Court is recorded as a case based on the linked source set. Secure .gov websites use HTTPS A lock ( Lock Locked padlock ) or https: // means you’ve safely connected to the .gov website. The supporting source set includes US DOJ USAO."
+summary: "Former Hedge Fund Manager Convicted Of Wire Fraud, Money Laundering, And Contempt Of Court is documented in the linked source material. Available source coverage includes US DOJ USAO."
 ---
 ## Summary
 
-Former Hedge Fund Manager Convicted Of Wire Fraud, Money Laundering, And Contempt Of Court is recorded as a case based on the linked source set. Secure .gov websites use HTTPS A lock ( Lock Locked padlock ) or https: // means you’ve safely connected to the .gov website. The supporting source set includes US DOJ USAO.
+Former Hedge Fund Manager Convicted Of Wire Fraud, Money Laundering, And Contempt Of Court is documented in the linked source material. Available source coverage includes US DOJ USAO.
 
 ## Source Coverage
 
@@ -65,8 +65,27 @@ Former Hedge Fund Manager Convicted Of Wire Fraud, Money Laundering, And Contemp
 
 ## Evidence and Attribution Notes
 
-- Secure .gov websites use HTTPS A lock ( Lock Locked padlock ) or https: // means you’ve safely connected to the .gov website.
-- Secret Service...Service Special Agent in Charge David Thomas.
+- US DOJ USAO has a parsed source text of 1276 words available for further review.
+
+
+
+<!-- SOURCE_ENRICHMENT_START -->
+
+## Source Coverage
+
+- US DOJ USAO, 2015-10-14: Former Hedge Fund Manager Convicted Of Wire Fraud, Money Laundering, And Contempt Of Court.
+
+<!-- SOURCE_ENRICHMENT_END -->
+
+<!-- RAW_TEXT_HIGHLIGHTS_START -->
+
+## Raw Source Highlights
+
+- US DOJ USAO, 2015-10-14: Attorney's Office, Northern District of California SAN FRANCISCO – A jury convicted James Murray today of 22 felonies—including wire fraud, money laundering, and aggravated identity theft—and contempt of court, announced Acting U.S.
+- US DOJ USAO, 2015-10-14: After being charged in a criminal complaint with wire fraud in February of 2012, Murray was charged on March 17, 2015, in a fourth superseding indictment with 22 felonies including 16 counts of wire fraud, in violation of 18 U.S.C.
+- US DOJ USAO, 2015-10-14: Attorneys Robin Harris and Lloyd Farnham are prosecuting the case with the assistance of Lillian Arauz-Haase, Maryam Beros and Jessica Meegan.
+
+<!-- RAW_TEXT_HIGHLIGHTS_END -->
 
 ## References
 

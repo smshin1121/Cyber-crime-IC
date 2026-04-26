@@ -1,7 +1,7 @@
 ---
 type: case
 title: "United States v. Ardit Kutleshi And Jetmir Kutleshi"
-case_number: "Source-derived from 2024-12-12_justice-gov_united-states-v-ardit-kutleshi-and-jetmir-kutleshi"
+case_number: "Not specified in available source metadata"
 jurisdiction: "U.S. District Court, Western District of Pennsylvania"
 jurisdiction_country: "[[united-states]]"
 case_type: prosecution
@@ -38,24 +38,35 @@ source_count: 1
 sources:
   - "[[2024-12-12_justice-gov_united-states-v-ardit-kutleshi-and-jetmir-kutleshi]]"
 created: 2026-04-18
-updated: 2026-04-18
-summary: "United States v. Ardit Kutleshi And Jetmir Kutleshi is a source-derived case page generated from [[2024-12-12_justice-gov_united-states-v-ardit-kutleshi-and-jetmir-kutleshi]]."
+updated: "2026-04-26"
+summary: "United States v. Ardit Kutleshi And Jetmir Kutleshi is documented in the linked source material. Kutleshi (Rydox Marketplace) Enforcement Action is a follow-on operation catalog record tied to Us V Kutleshi Rydox. Available source coverage includes US DOJ (Western District of Pennsylvania)."
 ---
 ## Summary
 
-United States v. Ardit Kutleshi And Jetmir Kutleshi is a source-derived case page generated from [[2024-12-12_justice-gov_united-states-v-ardit-kutleshi-and-jetmir-kutleshi]].
+United States v. Ardit Kutleshi And Jetmir Kutleshi is documented in the linked source material. Kutleshi (Rydox Marketplace) Enforcement Action is a follow-on operation catalog record tied to Us V Kutleshi Rydox. Available source coverage includes US DOJ (Western District of Pennsylvania).
 
-## Facts
+## Source Coverage
 
-This case page was generated from [[2024-12-12_justice-gov_united-states-v-ardit-kutleshi-and-jetmir-kutleshi]] and should be expanded with primary-court detail where available.
+- US DOJ (Western District of Pennsylvania), 2024-12-12: Rydox Cybercrime Marketplace Shut Down and Three Administrators Arrested.
 
-## International Cooperation Elements
+## Operational Timeline
 
-The currently collected source indicates a transnational cybercrime enforcement context, but the specific cross-border mechanisms still need case-level enrichment.
+- 2024-12-12: public source coverage from US DOJ (Western District of Pennsylvania).
 
-## Legal Analysis
+## International Cooperation Details
 
-The present page is a structured placeholder built from source metadata and should be refined as additional filings or official summaries are collected.
+- Named agencies and partners include Us Doj.
+- Recorded cooperation mechanisms include informal cooperation.
+
+## Legal and Procedural Posture
+
+- Recorded crime classification: online fraud.
+- Legal or procedural basis recorded in metadata: informal cooperation.
+- The record is categorized as prosecution with status prosecuted.
+- Related legal or operational records: Operation Us V Ardit Kutleshi And Jetmir Kutleshi.
+
+## Evidence and Attribution Notes
+
 
 ## References
 

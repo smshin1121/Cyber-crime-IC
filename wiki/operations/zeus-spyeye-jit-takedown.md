@@ -1,7 +1,7 @@
 ---
 type: operation
 title: "Zeus/SpyEye Joint Investigation Team Takedown"
-title_ko: "공식 작전명 없음 (Zeus/SpyEye 합동수사팀 작전)"
+title_ko: "Zeus/SpyEye Joint Investigation Team Takedown (공식 작전명 미확인; alias: Zeus SpyEye JIT)"
 aliases:
   - "Zeus SpyEye JIT"
 case_id: CYB-2015-005

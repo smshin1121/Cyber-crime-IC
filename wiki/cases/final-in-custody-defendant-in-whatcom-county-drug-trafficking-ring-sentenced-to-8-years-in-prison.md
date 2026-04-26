@@ -1,7 +1,7 @@
 ---
 type: case
 title: "Final in-custody defendant in Whatcom County drug trafficking ring sentenced to 8 years in prison"
-case_number: "Source-derived from 2026-04-18_justice-gov_final-custody-defendant-whatcom-county-drug-trafficking-ring-sentenced-8-years-prison"
+case_number: "Not specified in available source metadata"
 jurisdiction: "U.S. federal prosecution (district not specified in source)"
 jurisdiction_country: "[[united-states]]"
 case_type: prosecution
@@ -12,25 +12,37 @@ defendants:
     status: sentenced
     sentence: ""
     location_at_arrest: ""
-precedent_value: "Source-derived official action page; procedural enrichment from primary filings may still be needed."
+precedent_value: "Official source-backed record; further primary filings can refine procedural detail."
 source_count: 1
 sources:
   - "[[2026-04-18_justice-gov_final-custody-defendant-whatcom-county-drug-trafficking-ring-sentenced-8-years-prison]]"
 created: 2026-04-18
-updated: 2026-04-19
-summary: "Final in-custody defendant in Whatcom County drug trafficking ring sentenced to 8 years in prison is a source-derived domestic case page generated from [[2026-04-18_justice-gov_final-custody-defendant-whatcom-county-drug-trafficking-ring-sentenced-8-years-prison]]."
+updated: 2026-04-26
+summary: "Final in-custody defendant in Whatcom County drug trafficking ring sentenced to 8 years in prison is documented in the linked source material. Seattle – A 35-year-old Seattle man was sentenced today in U.S. Available source coverage includes US DOJ USAO."
 ---
 ## Summary
 
-Final in-custody defendant in Whatcom County drug trafficking ring sentenced to 8 years in prison is a source-derived domestic case page generated from [[2026-04-18_justice-gov_final-custody-defendant-whatcom-county-drug-trafficking-ring-sentenced-8-years-prison]].
+Final in-custody defendant in Whatcom County drug trafficking ring sentenced to 8 years in prison is documented in the linked source material. Seattle – A 35-year-old Seattle man was sentenced today in U.S. Available source coverage includes US DOJ USAO.
 
-## Domestic Context
+## Source Coverage
 
-No cross-border mechanism is documented in the currently collected source.
+- US DOJ USAO, 2025-05-09: Final ‘in-custody’ defendant in Whatcom County drug trafficking ring sentenced to 8 years in prison.
 
-## Legal Analysis
+## Operational Timeline
 
-The present page is a structured record of a domestic federal prosecution and may be refined if primary filings are collected.
+- 2025-05-09: public source coverage from US DOJ USAO.
+
+## International Cooperation Details
+
+- The case is recorded in U.S. federal prosecution (district not specified in source); no separate foreign-assistance detail is captured in the current metadata.
+
+## Legal and Procedural Posture
+
+- The record is categorized as prosecution with status sentenced.
+
+## Evidence and Attribution Notes
+
+- Seattle – A 35-year-old Seattle man was sentenced today in U.S.
 
 ## References
 

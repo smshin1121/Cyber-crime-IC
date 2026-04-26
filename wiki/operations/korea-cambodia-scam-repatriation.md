@@ -60,7 +60,7 @@ timeframe:
   start: 2025-10
 title: "Korea-Cambodia Scam Centre Repatriation"
 type: operation
-updated: 2026-04-09
+updated: 2026-04-26
 operation_role: umbrella
 parent_operation: ""
 summary: "In October 2025 and January 2026, South Korea repatriated **107+ nationals** from Cambodia suspected of operating in online scam centres conducting voice phishing, romance scams, and \"pig butchering\" cryptocurrency fraud. An additional **20+ suspects** were repatriated from Laos, Vietnam, Thailand, and the Philippines. The Korean government estimated approximately **1,000 Korean citizens** were working in Cambodian scam centres. The January 2026 batch allegedly scammed fellow Koreans out of **KRW 48.6 billion (USD 33 million)**."
@@ -124,6 +124,34 @@ The scale of the problem underscores the need for multilateral cooperation frame
 > for this operation. Possible reasons: non-US jurisdiction with no
 > public court records system, sealed proceedings, or operation did
 > not result in formal prosecution.
+
+<!-- SOURCE_ENRICHMENT_START -->
+
+## Source Coverage
+
+- Al Jazeera / France24 / Korea Herald, 2025-10-18: South Korea repatriates 64 scam centre suspects from Cambodia.
+- Yonhap News Agency, 2025-10-21: Arrest warrants issued for 48 suspects brought from Cambodia.
+- Yonhap News Agency, 2026-01-28: 136 scam suspects nabbed by joint S. Korea-Cambodia police team since Nov..
+- The Korea Times, 2025-12-09: Trial begins for 46 suspects accused of involvement in online scams in Cambodia.
+- The Korea Times, 2025-10-20: Police seek arrest warrants for 58 scam suspects brought from Cambodia.
+
+## Legal and Procedural Posture
+
+- Recorded crime classification: Voice Phishing Ic.
+- The record is categorized as arrest-sweep with status ongoing.
+
+## Evidence and Attribution Notes
+
+- 107+ Korean nationals repatriated from Cambodia for scam centre operations (October 2025 + January 2026)
+- Estimated 1,000 Korean citizens working in Cambodian scam centres
+- Scam operations included voice phishing, romance scams, and pig butchering crypto fraud totaling KRW 48.6B (USD 33M)
+- In October 2025, South Korea repatriated 64 South Korean nationals from Cambodia who were held for suspected links to online scam operations including voice phishing, romance scams, and "pig butchering" cryptocurrency fraud.
+- Seoul's National Police Agency sought warrants for 58 of the 64, with one already arrested and five released.
+- The suspects had been operating from scam compounds in Cambodia where workers are lured through fake job offers and trafficked into conducting fraud against victims worldwide.
+- Yonhap reported that arrest warrants were issued for 48 of the 64 suspects repatriated from Cambodia.
+- The report tied the repatriation directly to Korean police action against online scam rings.
+
+<!-- SOURCE_ENRICHMENT_END -->
 
 ## References
 

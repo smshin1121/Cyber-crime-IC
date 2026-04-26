@@ -20,6 +20,7 @@ timeframe:
 crime_type: "[[online-fraud-ic]]"
 crime_types:
   - "[[online-fraud-ic]]"
+  - "[[dark-web-ic]]"
 target_entity: "Unidentified Australian alleged DarkMarket operator"
 lead_agency: "[[germany-bka]]"
 coordinating_body: "[[europol-ec3]]"
@@ -86,8 +87,6 @@ Unlike the umbrella DarkMarket page, this follow-on entry isolates the operator-
 ## Results and Impact
 
 - 1 publicly reported arrest
-- direct link to the larger [[darkmarket-takedown]] event
-- intelligence value later reflected in [[operation-dark-huntor]]
 
 <!-- SOURCE_ENRICHMENT_START -->
 

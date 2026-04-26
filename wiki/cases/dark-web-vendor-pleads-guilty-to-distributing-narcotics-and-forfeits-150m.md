@@ -1,7 +1,7 @@
 ---
 type: case
 title: "Dark Web Vendor Pleads Guilty to Distributing Narcotics and Forfeits $150M"
-case_number: "Source-derived from 2024-01-26_justice-gov_united-states-v-banmeet-singh"
+case_number: "Not specified in available source metadata"
 jurisdiction: "U.S. federal prosecution (district not specified in source)"
 jurisdiction_country: "[[united-states]]"
 case_type: prosecution
@@ -29,25 +29,37 @@ cooperating_agencies:
   - "[[us-doj]]"
 key_legal_issues:
   - "[[drug-trafficking]]"
-precedent_value: "Source-derived official action page; procedural enrichment from primary filings may still be needed."
+precedent_value: "Official source-backed record; further primary filings can refine procedural detail."
 source_count: 1
 sources:
   - "[[2024-01-26_justice-gov_united-states-v-banmeet-singh]]"
 created: 2026-04-18
-updated: 2026-04-18
-summary: "Dark Web Vendor Pleads Guilty to Distributing Narcotics and Forfeits $150M is a source-derived case page generated from [[2024-01-26_justice-gov_united-states-v-banmeet-singh]]."
+updated: "2026-04-26"
+summary: "Dark Web Vendor Pleads Guilty to Distributing Narcotics and Forfeits $150M is documented in the linked source material. Banmeet Singh (Dark Web Vendor) Enforcement Action is a follow-on operation catalog record tied to Us V Banmeet Singh Dark Web. Available source coverage includes US DOJ Office of Public Affairs."
 ---
 ## Summary
 
-Dark Web Vendor Pleads Guilty to Distributing Narcotics and Forfeits $150M is a source-derived case page generated from [[2024-01-26_justice-gov_united-states-v-banmeet-singh]].
+Dark Web Vendor Pleads Guilty to Distributing Narcotics and Forfeits $150M is documented in the linked source material. Banmeet Singh (Dark Web Vendor) Enforcement Action is a follow-on operation catalog record tied to Us V Banmeet Singh Dark Web. Available source coverage includes US DOJ Office of Public Affairs.
 
-## Facts
+## Source Coverage
 
-This case page was generated from [[2024-01-26_justice-gov_united-states-v-banmeet-singh]] and reflects an official action title from the source corpus.
+- US DOJ Office of Public Affairs, 2024-01-26: Dark Web Vendor Pleads Guilty to Distributing Narcotics and Forfeits $150M.
 
-## Legal Analysis
+## Operational Timeline
 
-The present page is a structured placeholder built from source metadata and may require refinement from primary filings.
+- 2024-01-26: public source coverage from US DOJ Office of Public Affairs.
+
+## International Cooperation Details
+
+- Named agencies and partners include Us Doj.
+
+## Legal and Procedural Posture
+
+- Recorded crime classification: Drug Trafficking and online fraud.
+- The record is categorized as prosecution with status pleaded guilty.
+
+## Evidence and Attribution Notes
+
 
 ## References
 

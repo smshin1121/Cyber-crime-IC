@@ -75,7 +75,7 @@ timeframe:
   ongoing: false
   start: 2016-12-05
 title: "International DDoS-for-Hire Sweep"
-title_ko: "공식 작전명 없음 (DDoS-for-hire 국제 공조 단속)"
+title_ko: "International DDoS-for-Hire Sweep (공식 작전명 미확인; alias: International Cyber Sweep DDoS)"
 type: operation
 updated: 2026-04-26
 ---

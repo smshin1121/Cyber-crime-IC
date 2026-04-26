@@ -9,6 +9,8 @@ status: dismissed
 crime_charged:
   - "[[online-fraud-ic]]"
   - "[[carding-fraud-ic]]"
+  - "[[malware-ic]]"
+  - "[[dark-web-ic]]"
 defendants:
   - name: "Alexandre Cazes"
     nationality: Canadian
@@ -48,12 +50,14 @@ mechanisms_used:
 key_legal_issues:
   - "[[data-sovereignty]]"
   - "[[extradition-practice]]"
+  - "[[malware-ic]]"
+  - "[[dark-web-ic]]"
 precedent_value: "High - the case likely became the anchor judicial component of Operation Bayonet by combining U.S. indictment, Thai arrest, and multi-country asset freezing against the administrator of the largest darknet market of its time."
 source_count: 1
 sources:
   - "[[2017-07-20_edca_cazes-alphabay-indictment]]"
 created: 2026-04-17
-updated: 2026-04-17
+updated: "2026-04-26"
 summary: "United States v. Alexandre Cazes is the core U.S. criminal case behind the AlphaBay component of Operation Bayonet. The case is *highly likely* one of the most consequential darknet-marketplace prosecutions ever initiated, even though it never reached adjudication because Cazes died in Thai custody before extradition."
 ---
 ## Summary

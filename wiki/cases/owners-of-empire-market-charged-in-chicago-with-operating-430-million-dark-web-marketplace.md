@@ -1,13 +1,14 @@
 ---
 type: case
 title: "Owners of “Empire Market” Charged in Chicago With Operating $430 Million Dark Web Marketplace"
-case_number: "Source-derived from 2026-04-18_justice-gov_owners-empire-market-charged-chicago-operating-430-million-dark-web-marketplace"
+case_number: "Not specified in available source metadata"
 jurisdiction: "U.S. federal prosecution (district not specified in source)"
 jurisdiction_country: "[[united-states]]"
 case_type: prosecution
 status: charged
 crime_charged:
   - "[[online-fraud-ic]]"
+  - "[[dark-web-ic]]"
 defendants:
   - name: "Owners of “Empire Market” Charged in Chicago With Operating $430 Million Dark Web Marketplace"
     nationality: Unknown
@@ -33,29 +34,38 @@ mechanisms_used:
   - "[[informal-cooperation]]"
 key_legal_issues:
   - "[[online-fraud-ic]]"
-precedent_value: "Source-derived official action page; procedural enrichment from primary filings may still be needed."
+  - "[[dark-web-ic]]"
+precedent_value: "Official source-backed record; further primary filings can refine procedural detail."
 source_count: 1
 sources:
   - "[[2026-04-18_justice-gov_owners-empire-market-charged-chicago-operating-430-million-dark-web-marketplace]]"
 created: 2026-04-18
-updated: 2026-04-18
-summary: "Owners of “Empire Market” Charged in Chicago With Operating $430 Million Dark Web Marketplace is a source-derived case page generated from [[2026-04-18_justice-gov_owners-empire-market-charged-chicago-operating-430-million-dark-web-marketplace]]."
+updated: 2026-04-26
+summary: "Owners of “Empire Market” Charged in Chicago With Operating $430 Million Dark Web Marketplace is documented in the linked source material. Available source coverage includes US DOJ USAO."
 ---
 ## Summary
 
-Owners of “Empire Market” Charged in Chicago With Operating $430 Million Dark Web Marketplace is a source-derived case page generated from [[2026-04-18_justice-gov_owners-empire-market-charged-chicago-operating-430-million-dark-web-marketplace]].
+Owners of “Empire Market” Charged in Chicago With Operating $430 Million Dark Web Marketplace is documented in the linked source material. Available source coverage includes US DOJ USAO.
 
-## Facts
+## Source Coverage
 
-This case page was generated from [[2026-04-18_justice-gov_owners-empire-market-charged-chicago-operating-430-million-dark-web-marketplace]] and reflects an official action title from the source corpus.
+- US DOJ USAO, 2024-06-14: Owners of “Empire Market” Charged in Chicago With Operating $430 Million Dark Web Marketplace.
 
-## International Cooperation Elements
+## Operational Timeline
 
-This source-derived page should be enriched with case-level cooperation detail if primary filings or fuller official narratives are collected.
+- 2024-06-14: public source coverage from US DOJ USAO.
 
-## Legal Analysis
+## International Cooperation Details
 
-The present page is a structured placeholder built from source metadata and may require refinement from primary filings.
+- Named agencies and partners include Us Doj.
+- Recorded cooperation mechanisms include informal cooperation.
+
+## Legal and Procedural Posture
+
+- Recorded crime classification: online fraud and dark web.
+- Legal or procedural basis recorded in metadata: informal cooperation.
+- The record is categorized as prosecution with status charged.
+- Related legal or operational records: Operation Owners Of Empire Market Charged In Chicago With Operating 430 Million Dark Web Marketplace.
 
 ## References
 

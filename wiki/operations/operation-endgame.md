@@ -109,7 +109,7 @@ lessons_learned:
   - "On-site command posts at Europol HQ enable real-time coordination across jurisdictions and time zones"
   - "EU Most Wanted listings and international arrest warrants create persistent legal pressure even without immediate physical arrests"
 created: 2026-04-10
-updated: 2026-04-10
+updated: "2026-04-26"
 operation_role: umbrella
 parent_operation: ""
 summary: "**Operation Endgame** is the **largest-ever international law enforcement operation against botnets and the ransomware-enabling malware ecosystem**. Launched in May 2024 and still ongoing as of 2026, the operation has been conducted in multiple phases coordinated by [[europol-ec3|Europol]] and [[eurojust|Eurojust]], with participation from law enforcement agencies across at least 15 countries."
@@ -157,6 +157,7 @@ organizations:
   - "[[us-secret-service]]"
 crime_types:
   - "[[ransomware-ic]]"
+  - "[[malware-ic]]"
 ---
 ## Summary
 

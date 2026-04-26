@@ -1,7 +1,7 @@
 ---
 type: case
 title: "Dark Web Fentanyl Trafficker Known as \"The Drug Llama\" Sentenced To 13 Years In Federal Prison"
-case_number: "Source-derived from 2020-02-12_justice-gov_united-states-v-melissa-scanlan"
+case_number: "Not specified in available source metadata"
 jurisdiction: "U.S. District Court, Southern District of Illinois"
 jurisdiction_country: "[[united-states]]"
 case_type: prosecution
@@ -29,25 +29,37 @@ cooperating_agencies:
   - "[[us-doj]]"
 key_legal_issues:
   - "[[drug-trafficking]]"
-precedent_value: "Source-derived official action page; procedural enrichment from primary filings may still be needed."
+precedent_value: "Official source-backed record; further primary filings can refine procedural detail."
 source_count: 1
 sources:
   - "[[2020-02-12_justice-gov_united-states-v-melissa-scanlan]]"
 created: 2026-04-18
-updated: 2026-04-18
-summary: "Dark Web Fentanyl Trafficker Known as \"The Drug Llama\" Sentenced To 13 Years In Federal Prison is a source-derived case page generated from [[2020-02-12_justice-gov_united-states-v-melissa-scanlan]]."
+updated: "2026-04-26"
+summary: "Dark Web Fentanyl Trafficker Known as \"The Drug Llama\" Sentenced To 13 Years In Federal Prison is documented in the linked source material. Melissa Scanlan (The Drug Llama) Enforcement Action is a follow-on operation catalog record tied to Us V Scanlan Dark Web. Available source coverage includes US DOJ (Southern District of Illinois)."
 ---
 ## Summary
 
-Dark Web Fentanyl Trafficker Known as "The Drug Llama" Sentenced To 13 Years In Federal Prison is a source-derived case page generated from [[2020-02-12_justice-gov_united-states-v-melissa-scanlan]].
+Dark Web Fentanyl Trafficker Known as "The Drug Llama" Sentenced To 13 Years In Federal Prison is documented in the linked source material. Melissa Scanlan (The Drug Llama) Enforcement Action is a follow-on operation catalog record tied to Us V Scanlan Dark Web. Available source coverage includes US DOJ (Southern District of Illinois).
 
-## Facts
+## Source Coverage
 
-This case page was generated from [[2020-02-12_justice-gov_united-states-v-melissa-scanlan]] and reflects an official action title from the source corpus.
+- US DOJ (Southern District of Illinois), 2020-02-12: Dark Web Fentanyl Trafficker Known as "The Drug Llama" Sentenced To 13 Years In Federal Prison.
 
-## Legal Analysis
+## Operational Timeline
 
-The present page is a structured placeholder built from source metadata and may require refinement from primary filings.
+- 2020-02-12: public source coverage from US DOJ (Southern District of Illinois).
+
+## International Cooperation Details
+
+- Named agencies and partners include Us Doj.
+
+## Legal and Procedural Posture
+
+- Recorded crime classification: Drug Trafficking and online fraud.
+- The record is categorized as prosecution with status sentenced.
+
+## Evidence and Attribution Notes
+
 
 ## References
 

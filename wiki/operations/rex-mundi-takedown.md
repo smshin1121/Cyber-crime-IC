@@ -1,7 +1,7 @@
 ---
 type: operation
 title: "Rex Mundi Hacking Group Takedown"
-title_ko: "공식 작전명 없음 (Rex Mundi 해킹 조직 단속)"
+title_ko: "Rex Mundi Hacking Group Takedown (공식 작전명 미확인; alias: Rex Mundi Arrest)"
 aliases:
   - "Rex Mundi Arrest"
 case_id: CYB-2018-005

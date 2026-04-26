@@ -90,11 +90,6 @@ The group used phishing to steal credentials from legitimate online sellers, the
 
 ## Results and Impact
 
-- four suspects arrested in Romania and three in Germany during the December 2024 phase
-- three additional members detained in Romania on 24 June 2025
-- house searches in Germany, Romania, and Austria
-- more than 405 seller accounts compromised
-
 <!-- SOURCE_ENRICHMENT_START -->
 
 ## Source Coverage

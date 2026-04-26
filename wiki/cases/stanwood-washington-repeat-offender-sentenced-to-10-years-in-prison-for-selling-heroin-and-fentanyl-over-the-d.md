@@ -1,13 +1,14 @@
 ---
 type: case
 title: "Stanwood, Washington repeat offender sentenced to 10+ years in prison for selling heroin and fentanyl over the dark web"
-case_number: "Source-derived from 2026-04-18_justice-gov_stanwood-washington-repeat-offender-sentenced-10-years-prison-selling-heroin-and"
+case_number: "Not specified in available source metadata"
 jurisdiction: "U.S. federal prosecution (district not specified in source)"
 jurisdiction_country: "[[united-states]]"
 case_type: prosecution
 status: sentenced
 crime_charged:
   - "[[online-fraud-ic]]"
+  - "[[dark-web-ic]]"
 defendants:
   - name: "Christerfer Frick"
     nationality: Unknown
@@ -33,29 +34,42 @@ mechanisms_used:
   - "[[informal-cooperation]]"
 key_legal_issues:
   - "[[online-fraud-ic]]"
-precedent_value: "Source-derived official action page; procedural enrichment from primary filings may still be needed."
+  - "[[dark-web-ic]]"
+precedent_value: "Official source-backed record; further primary filings can refine procedural detail."
 source_count: 1
 sources:
   - "[[2026-04-18_justice-gov_stanwood-washington-repeat-offender-sentenced-10-years-prison-selling-heroin-and]]"
 created: 2026-04-18
-updated: 2026-04-18
-summary: "Stanwood, Washington repeat offender sentenced to 10+ years in prison for selling heroin and fentanyl over the dark web is a source-derived case page generated from [[2026-04-18_justice-gov_stanwood-washington-repeat-offender-sentenced-10-years-prison-selling-heroin-and]]."
+updated: "2026-04-26"
+summary: "Stanwood, Washington repeat offender sentenced to 10+ years in prison for selling heroin and fentanyl over the dark web is documented in the linked source material. 49-year-old Stanwood, Washington, man was sentenced today in U.S. Available source coverage includes US DOJ USAO."
 ---
 ## Summary
 
-Stanwood, Washington repeat offender sentenced to 10+ years in prison for selling heroin and fentanyl over the dark web is a source-derived case page generated from [[2026-04-18_justice-gov_stanwood-washington-repeat-offender-sentenced-10-years-prison-selling-heroin-and]].
+Stanwood, Washington repeat offender sentenced to 10+ years in prison for selling heroin and fentanyl over the dark web is documented in the linked source material. 49-year-old Stanwood, Washington, man was sentenced today in U.S. Available source coverage includes US DOJ USAO.
 
-## Facts
+## Source Coverage
 
-This case page was generated from [[2026-04-18_justice-gov_stanwood-washington-repeat-offender-sentenced-10-years-prison-selling-heroin-and]] and reflects an official action title from the source corpus.
+- US DOJ USAO, 2024-04-12: Stanwood, Washington repeat offender sentenced to 10+ years in prison for selling heroin and fentanyl over the dark web.
 
-## International Cooperation Elements
+## Operational Timeline
 
-This source-derived page should be enriched with case-level cooperation detail if primary filings or fuller official narratives are collected.
+- 2024-04-12: public source coverage from US DOJ USAO.
 
-## Legal Analysis
+## International Cooperation Details
 
-The present page is a structured placeholder built from source metadata and may require refinement from primary filings.
+- Named agencies and partners include Us Doj.
+- Recorded cooperation mechanisms include informal cooperation.
+
+## Legal and Procedural Posture
+
+- Recorded crime classification: online fraud and dark web.
+- Legal or procedural basis recorded in metadata: informal cooperation.
+- The record is categorized as prosecution with status sentenced.
+- Related legal or operational records: Operation Stanwood Washington Repeat Offender Sentenced To 10 Years In Prison For Selling Heroin And Fentanyl Over The D.
+
+## Evidence and Attribution Notes
+
+- 49-year-old Stanwood, Washington, man was sentenced today in U.S.
 
 ## References
 

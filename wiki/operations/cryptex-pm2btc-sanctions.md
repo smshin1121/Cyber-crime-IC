@@ -76,7 +76,7 @@ sources:
   - "[[2024-09-26_usao-edva_two-russian-nationals-charged-connection-operating-billion-dollar-money-laundering]]"
   - "[[2024-09-26_chainalysis_ofac-designates-russian-exchange-cryptex-fincen-names-pm2btc]]"
 created: 2026-04-08
-updated: 2026-04-18
+updated: "2026-04-26"
 operation_role: umbrella
 parent_operation: ""
 summary: "The September 2024 Cryptex and PM2BTC action combined U.S. sanctions, FinCEN special measures, criminal charging, and Dutch server seizures against a cybercrime-linked Russian virtual-currency laundering ecosystem."
@@ -86,6 +86,8 @@ organizations:
   - "[[netherlands-politie]]"
 crime_types:
   - "[[money-laundering-ic]]"
+  - "[[ransomware-ic]]"
+  - "[[dark-web-ic]]"
 ---
 > [!note] Source basis
 > This page now separates the Treasury press release, the FinCEN anti-money-laundering action, the DOJ criminal announcement, the EDVA case announcement, and independent technical analysis instead of collapsing them into one generic "sanctions" entry.

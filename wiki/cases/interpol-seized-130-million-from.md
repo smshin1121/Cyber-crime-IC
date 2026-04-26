@@ -1,7 +1,7 @@
 ---
 type: case
 title: "Interpol Seized 130 Million From"
-case_number: "Source-derived from 2022-11-01_thehackernews-com_interpol-seized-130-million-from"
+case_number: "Not specified in available source metadata"
 jurisdiction: "International law enforcement action (multi-jurisdictional)"
 jurisdiction_country: "[[international]]"
 case_type: seizure
@@ -34,29 +34,43 @@ mechanisms_used:
   - "[[informal-cooperation]]"
 key_legal_issues:
   - "[[bank-fraud-ic]]"
-precedent_value: "Source-derived official action page; procedural enrichment from primary filings may still be needed."
+precedent_value: "Official source-backed record; further primary filings can refine procedural detail."
 source_count: 1
 sources:
   - "[[2022-11-01_thehackernews-com_interpol-seized-130-million-from]]"
 created: 2026-04-18
-updated: 2026-04-18
-summary: "Operation HAECHI-II, led by INTERPOL with participation from 20+ countries and Hong Kong/Macau, was a four-month operation targeting online fraud, illegal online gambling, and money laundering. The operation resulted in over 1,000 arrests and the interception of more than $27 million in illicit funds. Over 2,350 bank accounts linked to criminal proceeds were frozen."
+updated: "2026-04-26"
+summary: "Interpol Seized 130 Million From is documented in the linked source material. Operation HAECHI-II, led by INTERPOL with participation from 20+ countries and Hong Kong/Macau, was a four-month operation targeting online fraud, illegal online gambling, and money laundering. Available source coverage includes The Hacker News."
 ---
 ## Summary
 
-Operation HAECHI-II, led by INTERPOL with participation from 20+ countries and Hong Kong/Macau, was a four-month operation targeting online fraud, illegal online gambling, and money laundering. The operation resulted in over 1,000 arrests and the interception of more than $27 million in illicit funds. Over 2,350 bank accounts linked to criminal proceeds were frozen.
+Interpol Seized 130 Million From is documented in the linked source material. Operation HAECHI-II, led by INTERPOL with participation from 20+ countries and Hong Kong/Macau, was a four-month operation targeting online fraud, illegal online gambling, and money laundering. Available source coverage includes The Hacker News.
 
-## Facts
+## Source Coverage
 
-This case page was generated from [[2022-11-01_thehackernews-com_interpol-seized-130-million-from]] and reflects an official action title from the source corpus.
+- The Hacker News, 2022-11-01: Interpol Seized 130 Million From.
 
-## International Cooperation Elements
+## Operational Timeline
 
-This source-derived page should be enriched with case-level cooperation detail if primary filings or fuller official narratives are collected.
+- 2022-11-01: public source coverage from The Hacker News.
 
-## Legal Analysis
+## International Cooperation Details
 
-The present page is a structured placeholder built from source metadata and may require refinement from primary filings.
+- Named agencies and partners include Interpol.
+- Recorded cooperation mechanisms include informal cooperation.
+
+## Legal and Procedural Posture
+
+- Recorded crime classification: Bank Fraud Ic and money laundering.
+- Legal or procedural basis recorded in metadata: informal cooperation.
+- The record is categorized as seizure with status seizure ordered.
+- Related legal or operational records: Operation Interpol Seized 130 Million From.
+
+## Evidence and Attribution Notes
+
+- Operation HAECHI-II, led by INTERPOL with participation from 20+ countries and Hong Kong/Macau, was a four-month operation targeting online fraud, illegal online gambling, and money laundering.
+- The operation resulted in over 1,000 arrests and the interception of more than $27 million in illicit funds.
+- Over 2,350 bank accounts linked to criminal proceeds were frozen.
 
 ## References
 

@@ -1,13 +1,14 @@
 ---
 type: case
 title: "United States v. Kristy Lynn Felkins"
-case_number: "Source-derived from 2026-04-18_justice-gov_nevada-woman-sentenced-5-years-prison-hiring-hitman-dark-web-kill-her-ex-husband"
+case_number: "Not specified in available source metadata"
 jurisdiction: "U.S. federal prosecution (district not specified in source)"
 jurisdiction_country: "[[united-states]]"
 case_type: prosecution
 status: sentenced
 crime_charged:
   - "[[online-fraud-ic]]"
+  - "[[dark-web-ic]]"
 defendants:
   - name: "Kristy Lynn Felkins"
     nationality: Unknown
@@ -33,29 +34,38 @@ mechanisms_used:
   - "[[informal-cooperation]]"
 key_legal_issues:
   - "[[online-fraud-ic]]"
+  - "[[dark-web-ic]]"
 precedent_value: "Source-derived candidate case page; analytical significance requires further enrichment from primary filings."
 source_count: 1
 sources:
   - "[[2026-04-18_justice-gov_nevada-woman-sentenced-5-years-prison-hiring-hitman-dark-web-kill-her-ex-husband]]"
 created: 2026-04-18
-updated: 2026-04-18
-summary: "United States v. Kristy Lynn Felkins is a source-derived case page generated from [[2026-04-18_justice-gov_nevada-woman-sentenced-5-years-prison-hiring-hitman-dark-web-kill-her-ex-husband]]."
+updated: 2026-04-26
+summary: "United States v. Kristy Lynn Felkins is documented in the linked source material. Available source coverage includes US DOJ USAO."
 ---
 ## Summary
 
-United States v. Kristy Lynn Felkins is a source-derived case page generated from [[2026-04-18_justice-gov_nevada-woman-sentenced-5-years-prison-hiring-hitman-dark-web-kill-her-ex-husband]].
+United States v. Kristy Lynn Felkins is documented in the linked source material. Available source coverage includes US DOJ USAO.
 
-## Facts
+## Source Coverage
 
-This case page was generated from [[2026-04-18_justice-gov_nevada-woman-sentenced-5-years-prison-hiring-hitman-dark-web-kill-her-ex-husband]] and should be expanded with primary-court detail where available.
+- US DOJ USAO, 2023-07-21: Nevada Woman Sentenced to 5 Years Prison for Hiring Hitman on Dark Web to Kill Her Ex-Husband.
 
-## International Cooperation Elements
+## Operational Timeline
 
-The currently collected source indicates a transnational cybercrime enforcement context, but the specific cross-border mechanisms still need case-level enrichment.
+- 2023-07-21: public source coverage from US DOJ USAO.
 
-## Legal Analysis
+## International Cooperation Details
 
-The present page is a structured placeholder built from source metadata and should be refined as additional filings or official summaries are collected.
+- Named agencies and partners include Us Doj.
+- Recorded cooperation mechanisms include informal cooperation.
+
+## Legal and Procedural Posture
+
+- Recorded crime classification: online fraud and dark web.
+- Legal or procedural basis recorded in metadata: informal cooperation.
+- The record is categorized as prosecution with status sentenced.
+- Related legal or operational records: Operation Us V Kristy Lynn Felkins.
 
 ## References
 

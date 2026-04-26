@@ -1,7 +1,7 @@
 ---
 type: case
 title: "Dark Web drug vendor and clandestine lab manufacturer sentenced to prison for trafficking in methamphetamine and fentanyl"
-case_number: "Source-derived from 2024-05-21_justice-gov_united-states-v-tenzin-orgil"
+case_number: "Not specified in available source metadata"
 jurisdiction: "U.S. District Court, Southern District of Florida"
 jurisdiction_country: "[[united-states]]"
 case_type: prosecution
@@ -33,29 +33,39 @@ mechanisms_used:
   - "[[informal-cooperation]]"
 key_legal_issues:
   - "[[drug-trafficking]]"
-precedent_value: "Source-derived official action page; procedural enrichment from primary filings may still be needed."
+precedent_value: "Official source-backed record; further primary filings can refine procedural detail."
 source_count: 1
 sources:
   - "[[2024-05-21_justice-gov_united-states-v-tenzin-orgil]]"
 created: 2026-04-18
-updated: 2026-04-18
-summary: "Dark Web drug vendor and clandestine lab manufacturer sentenced to prison for trafficking in methamphetamine and fentanyl is a source-derived case page generated from [[2024-05-21_justice-gov_united-states-v-tenzin-orgil]]."
+updated: "2026-04-26"
+summary: "Dark Web drug vendor and clandestine lab manufacturer sentenced to prison for trafficking in methamphetamine and fentanyl is documented in the linked source material. Tenzin Orgil (Dark Web Vendor) Enforcement Action is a follow-on operation catalog record tied to Us V Orgil Dark Web. Available source coverage includes US DOJ (Southern District of Florida)."
 ---
 ## Summary
 
-Dark Web drug vendor and clandestine lab manufacturer sentenced to prison for trafficking in methamphetamine and fentanyl is a source-derived case page generated from [[2024-05-21_justice-gov_united-states-v-tenzin-orgil]].
+Dark Web drug vendor and clandestine lab manufacturer sentenced to prison for trafficking in methamphetamine and fentanyl is documented in the linked source material. Tenzin Orgil (Dark Web Vendor) Enforcement Action is a follow-on operation catalog record tied to Us V Orgil Dark Web. Available source coverage includes US DOJ (Southern District of Florida).
 
-## Facts
+## Source Coverage
 
-This case page was generated from [[2024-05-21_justice-gov_united-states-v-tenzin-orgil]] and reflects an official action title from the source corpus.
+- US DOJ (Southern District of Florida), 2024-05-21: Dark Web drug vendor and clandestine lab manufacturer sentenced to prison for trafficking in methamphetamine and fentanyl.
 
-## International Cooperation Elements
+## Operational Timeline
 
-This source-derived page should be enriched with case-level cooperation detail if primary filings or fuller official narratives are collected.
+- 2024-05-21: public source coverage from US DOJ (Southern District of Florida).
 
-## Legal Analysis
+## International Cooperation Details
 
-The present page is a structured placeholder built from source metadata and may require refinement from primary filings.
+- Named agencies and partners include Us Doj.
+- Recorded cooperation mechanisms include informal cooperation.
+
+## Legal and Procedural Posture
+
+- Recorded crime classification: Drug Trafficking and online fraud.
+- Legal or procedural basis recorded in metadata: informal cooperation.
+- The record is categorized as prosecution with status sentenced.
+
+## Evidence and Attribution Notes
+
 
 ## References
 
