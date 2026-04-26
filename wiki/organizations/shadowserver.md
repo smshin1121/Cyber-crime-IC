@@ -16,6 +16,7 @@ notable_cases: []
 official_name: "Shadowserver Foundation"
 official_name_ko: ""
 operations_participated:
+  - "[[goznym-takedown]]"
   - "[[operation-avalanche]]"
   - "[[operation-source]]"
 org_type: private-sector

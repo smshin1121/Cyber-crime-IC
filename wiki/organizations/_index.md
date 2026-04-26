@@ -13,7 +13,7 @@ updated: 2026-04-08
 | [[c-proc]] | international-org | Bucharest, Romania | — | — | 5 |
 | [[icann]] | international-org | — | — | 1 | 0 |
 | [[interpol]] | international-org | Lyon, France | — | 30 | 4 |
-| [[interpol-igci]] | international-org | Singapore | — | 14 | 11 |
+| [[interpol-igci]] | international-org | Singapore | — | 15 | 11 |
 | [[unodc]] | international-org | Vienna, Austria | — | 1 | 8 |
 | [[australia-afp]] | national-agency | Canberra, Australia | — | 8 | 6 |
 | [[australian-criminal-intelligence-commission]] | national-agency | [[australia]] | — | — | 1 |
@@ -24,7 +24,7 @@ updated: 2026-04-08
 | [[dod-inspector-general]] | national-agency | [[united-states]] | — | — | 1 |
 | [[dutch-police]] | national-agency | Netherlands | — | 1 | 0 |
 | [[fbi]] | national-agency | Washington, D.C., United States | — | 14 | 0 |
-| [[fbi-cyber-division]] | national-agency | Washington, D.C., United States | — | 78 | 12 |
+| [[fbi-cyber-division]] | national-agency | Washington, D.C., United States | — | 79 | 12 |
 | [[german-bka]] | national-agency | Wiesbaden, Germany | — | 2 | 0 |
 | [[german-police]] | national-agency | — | — | 1 | 0 |
 | [[germany-bka]] | national-agency | Wiesbaden, Germany | — | 20 | 5 |
@@ -92,11 +92,11 @@ updated: 2026-04-08
 | [[ukraine-police]] | national-unit | Kyiv, Ukraine | — | 4 | 3 |
 | [[us-dcis]] | national-unit | Alexandria, Virginia, United States | — | 2 | 4 |
 | [[us-ncis]] | national-unit | [[united-states]] | — | 1 | 1 |
-| [[us-secret-service]] | national-unit | Washington, D.C., United States | — | 12 | 4 |
+| [[us-secret-service]] | national-unit | Washington, D.C., United States | — | 13 | 4 |
 | [[intel-security]] | private-sector | — | — | 1 | 0 |
 | [[kaspersky-lab]] | private-sector | — | — | 3 | 0 |
 | [[microsoft]] | private-sector | Redmond, Washington, United States | — | 2 | 0 |
-| [[shadowserver]] | private-sector | — | — | 2 | 0 |
+| [[shadowserver]] | private-sector | — | — | 3 | 0 |
 | [[group-ib]] | private-sector-partner | — | — | 1 | 0 |
 | [[france-junalco]] | prosecution-office | Paris, France | — | 2 | 2 |
 | [[germany-frankfurt-prosecutor]] | prosecution-office | Frankfurt am Main, Germany | — | 3 | 3 |
@@ -105,9 +105,9 @@ updated: 2026-04-08
 | [[spo-international-cooperation]] | prosecution-office | Seoul, South Korea | — | — | 9 |
 | [[supreme-prosecutors-office-korea]] | prosecution-office | Seocho-gu, Seoul, South Korea | — | — | 7 |
 | [[german-prosecution]] | prosecutorial-authority | Germany | — | 1 | 0 |
-| [[ncfta]] | public-private-partnership | United States | — | 1 | 0 |
+| [[ncfta]] | public-private-partnership | United States | — | 2 | 0 |
 | [[afripol]] | regional-org | Algiers, Algeria | — | 7 | 0 |
-| [[eurojust]] | regional-org | The Hague, Netherlands | — | 32 | 9 |
+| [[eurojust]] | regional-org | The Hague, Netherlands | — | 33 | 9 |
 | [[europol-ec3]] | regional-org | The Hague, Netherlands | — | 74 | 9 |
 | [[african-union]] | — | — | — | — | 0 |
 | [[apcert]] | — | — | — | — | 0 |
@@ -134,8 +134,8 @@ updated: 2026-04-08
 | [[ministry-of-justice-korea]] | — | — | — | — | 0 |
 | [[ncmec]] | — | — | — | — | 0 |
 | [[netherlands-politie-parent]] | — | — | — | — | 0 |
-| [[nigeria-efcc]] | — | — | — | 1 | 0 |
-| [[office-of-international-affairs]] | — | — | — | — | 0 |
+| [[nigeria-efcc]] | — | — | — | 2 | 0 |
+| [[office-of-international-affairs]] | — | — | — | 1 | 0 |
 | [[polizia-di-stato]] | — | — | — | 1 | 0 |
 | [[portugal-policia-judiciaria]] | — | — | — | — | 0 |
 | [[romania-public-ministry]] | — | — | — | — | 0 |
@@ -144,7 +144,7 @@ updated: 2026-04-08
 | [[russian-ministry-of-interior]] | — | — | — | 1 | 0 |
 | [[singapore-mddi]] | — | — | — | — | 0 |
 | [[thai-royal-police]] | — | — | — | 1 | 0 |
-| [[trend-micro]] | — | — | — | 2 | 0 |
+| [[trend-micro]] | — | — | — | 3 | 0 |
 | [[uk-met-police-cyber]] | — | — | — | — | 0 |
 | [[uk-metropolitan-police]] | — | — | — | — | 0 |
 | [[unga]] | — | — | — | — | 0 |

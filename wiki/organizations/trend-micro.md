@@ -5,6 +5,7 @@ status: stub
 created: 2026-04-26
 updated: 2026-04-26
 operations_participated:
+  - "[[bec-nigeria-2016]]"
   - "[[operation-killer-bee]]"
   - "[[simda-botnet-takedown]]"
 source_count: 0

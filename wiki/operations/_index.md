@@ -25,7 +25,7 @@ updated: 2026-04-14
 | [[operation-avalanche]] | CYB-2016-001 | 1 | completed | 4.00 | 2 |
 | [[ddos-for-hire-sweep-2016]] | CYB-2016-002 | 1 | completed | 2.95 | 2 |
 | [[global-airport-action-day]] | CYB-2016-003 | 1 | completed | 1.85 | 2 |
-| [[bec-nigeria-2016]] | CYB-2016-050 | 1 | completed | 1.88 | 3 |
+| [[bec-nigeria-2016]] | CYB-2016-050 | 1 | completed | 4.00 | 1 |
 | [[andromeda-botnet-takedown]] | CYB-2017-001 | 1 | completed | 3.75 | 2 |
 | [[alphabay-takedown]] | CYB-2017-002 | 1 | completed | 4.00 | 1 |
 | [[operation-hyperion]] | CYB-2017-050 | 1 | completed | 1.88 | 3 |
@@ -37,7 +37,7 @@ updated: 2026-04-14
 | [[rex-mundi-takedown]] | CYB-2018-005 | 1 | completed | 2.28 | 2 |
 | [[operation-power-off]] | CYB-2018-006 | 1 | ongoing | 3.80 | 1 |
 | [[operation-bakovia]] | CYB-2018-050 | 1 | completed | 2.00 | 3 |
-| [[goznym-takedown]] | CYB-2019-001 | 2 | completed | 3.62 | 2 |
+| [[goznym-takedown]] | CYB-2019-001 | 2 | completed | 4.20 | 2 |
 | [[imminent-monitor-rat-takedown]] | CYB-2019-050 | 2 | completed | 1.88 | 3 |
 | [[xdedic-marketplace-takedown]] | CYB-2019-051 | 2 | completed | 1.88 | 3 |
 | [[operation-falcon]] | CYB-2020-001 | 2 | completed | 3.62 | 2 |

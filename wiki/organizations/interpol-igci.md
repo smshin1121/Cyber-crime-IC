@@ -23,6 +23,7 @@ notable_cases:
 official_name: "INTERPOL Global Complex for Innovation"
 official_name_ko: "인터폴 글로벌혁신단지"
 operations_participated:
+  - "[[bec-nigeria-2016]]"
   - "[[operation-first-light-2024]]"
   - "[[operation-haechi-iv]]"
   - "[[operation-haechi-vi]]"

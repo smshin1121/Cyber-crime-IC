@@ -16,6 +16,7 @@ notable_cases: []
 official_name: "National Cyber-Forensics and Training Alliance"
 official_name_ko: ""
 operations_participated:
+  - "[[goznym-takedown]]"
   - "[[operation-shrouded-horizon]]"
 org_type: public-private-partnership
 parent_org: ""

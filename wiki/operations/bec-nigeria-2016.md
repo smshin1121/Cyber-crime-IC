@@ -13,9 +13,9 @@ enforcement_type:
   - arrest
 outcome: success
 timeframe:
-  announced: 2016-08-02
-  start: 2016-08-02
-  end: 2016-08-02
+  announced: 2016-08-01
+  start: 2015
+  end: 2016-08-01
   ongoing: false
 crime_type: "[[bec-ic]]"
 target_entity: "Nigerian BEC scammer ($60M fraud)"
@@ -23,15 +23,22 @@ lead_agency: "[[interpol]]"
 coordinating_body: "[[interpol]]"
 participating_countries:
   - "[[nigeria]]"
-  - "[[united-states]]"
 participating_agencies:
   - "[[interpol]]"
+  - "[[nigeria-efcc]]"
+  - "[[interpol-igci]]"
+  - "[[trend-micro]]"
+  - "Fortinet FortiGuard Labs"
 legal_basis:
-
+  - "[[informal-cooperation]]"
+  - "[[public-private-cooperation]]"
 mechanisms_used:
+  - "[[informal-cooperation]]"
+  - "[[public-private-cooperation]]"
+  - "[[search-seizure]]"
 
 results:
-  arrests: 1
+  arrests: 2
   indictments: 0
   servers_seized: 0
   domains_seized: 0
@@ -40,19 +47,21 @@ results:
   victims_notified: 0
   other:
     - "$60 million in BEC fraud attributed to arrested individual"
+    - "INTERPOL and EFCC arrested a 40-year-old Nigerian national known as Mike"
+    - "A second 38-year-old suspect was also arrested by Nigerian authorities"
+    - "Device forensics linked the suspects to BEC, payment diversion, CEO fraud, and romance scams"
 edges:
   - source_actor: INTERPOL
     target_actor: "Nigeria EFCC"
     cooperation_type: joint_investigation
-    legal_basis: unknown
+    legal_basis: public_private_cooperation
     direction: undirected
-credibility_index: 1.88
-source_tier: 3
+credibility_index: 4.0
+source_tier: 1
 missing_fields:
-  - legal_basis
-  - mechanisms_used
-  - complete_participating_agencies
-  - suspect_name
+  - suspect_legal_name
+  - final_case_outcome
+  - sentencing_or_conviction_record
 related_cases:
 
 related_operations:
@@ -69,81 +78,96 @@ sources:
   - "[[2016-08-01_dw_nigerian-arrested-for-international-60-million-dollar-online-fraud]]"
   - "[[2016-12-22_justice-gov_nigerian-nationals-charged-with-operating-business-compromise-scheme]]"
 created: 2026-04-08
-updated: 2026-04-23
+updated: 2026-04-26
 operation_role: umbrella
 parent_operation: ""
-summary: "In August 2016, a Nigerian national was arrested for an email fraud scheme that caused approximately **$60 million** in losses through Business Email Compromise (BEC) scams. The arrest involved international cooperation, *likely* including INTERPOL coordination with Nigerian law enforcement."
+summary: "INTERPOL and Nigeria's EFCC arrested the alleged leader of a transnational online-fraud network in Port Harcourt, Nigeria. The official INTERPOL record attributes more than USD 60 million in BEC, payment-diversion, CEO-fraud, and romance-scam activity to the network, which used actors and laundering contacts across multiple countries."
 jurisdictions:
   - "[[nigeria]]"
   - "[[united-states]]"
 organizations:
   - "[[interpol]]"
+  - "[[nigeria-efcc]]"
+  - "[[interpol-igci]]"
+  - "[[trend-micro]]"
 crime_types:
   - "[[bec-ic]]"
 ---
-> [!note] This operation is documented from a Tier 3 (cybersecurity media) source. Additional verification from official sources (Tier 1-2) would strengthen data reliability.
-
 ## Summary
 
-In August 2016, a Nigerian national was arrested for an email fraud scheme that caused approximately **$60 million** in losses through Business Email Compromise (BEC) scams. The arrest involved international cooperation, *likely* including INTERPOL coordination with Nigerian law enforcement.
+This operation was not just a generic Nigeria-based BEC arrest. The primary INTERPOL record identifies it as a joint INTERPOL-EFCC action against the alleged leader of a global online-fraud network. The suspect, a 40-year-old Nigerian national known publicly as "Mike," was arrested in Port Harcourt, Rivers State, Nigeria, after intelligence supplied through INTERPOL's public-private partnership pipeline helped locate him.
 
-BEC scams were rapidly growing during this period, with Nigeria being a significant origin point for these schemes targeting businesses worldwide.
+The source base attributes more than **USD 60 million** in fraud exposure to the network. One reported victim was allegedly induced to pay **USD 15.4 million**. The activity was not limited to one fraud pattern: seized-device forensics linked the suspect to business email compromise, payment-diversion fraud, CEO fraud, and romance scams.
 
 ## Background
 
-Business Email Compromise (BEC) fraud involves impersonating executives or trusted parties via email to trick companies into making fraudulent wire transfers. By 2016, BEC had become one of the fastest-growing forms of cybercrime, with the FBI's Internet Crime Complaint Center reporting billions in losses globally. Nigeria-based BEC operations were among the most prolific, often targeting US and European companies.
+The INTERPOL account describes a network of at least 40 people across Nigeria, Malaysia, and South Africa. Its operators compromised small and medium-sized business email accounts in Australia, Canada, India, Malaysia, Romania, South Africa, Thailand, and the United States. The compromised accounts were then used to misdirect payments from companies doing business with those account holders.
+
+The network also relied on laundering infrastructure outside Nigeria. INTERPOL identified contacts in China, Europe, and the United States who supplied bank-account details for moving illicit proceeds. These countries should therefore be read as victim, infrastructure, or laundering geographies unless a source separately confirms law-enforcement participation.
 
 ## Participating Parties
 
-### Coordinating Body
+### Lead and Coordinating Bodies
 - [[interpol|INTERPOL]]
+- [[nigeria-efcc|Nigerian Economic and Financial Crimes Commission]]
+- [[interpol-igci|INTERPOL Global Complex for Innovation]]
 
-### Participating Countries
-- [[nigeria|Nigeria]]
-- [[united-states|United States]]
+### Private and Technical Partners
+- [[trend-micro|Trend Micro]]
+- Fortinet FortiGuard Labs
+- INTERPOL Digital Crime Centre
+- Cyber Defense Institute at IGCI
 
-> [!warning] Legal status check needed
-> The full list of participating agencies and the specific role of each country needs verification.
+### Geography
 
-## Legal Framework
+The verified arrest jurisdiction is [[nigeria|Nigeria]]. The United States appears in the record as a victim and laundering-contact geography, and in a separate DOJ BEC source in this page's reference set. The page therefore treats U.S. involvement cautiously unless a source confirms direct operational participation in this specific Nigerian arrest.
 
-Specific legal instruments enabling the international cooperation have not been identified from available Tier 3 sources.
+## Cooperation Mechanics
+
+The cooperation chain is unusually explicit for a BEC arrest. Trend Micro first provided a report to INTERPOL through its strategic-partner relationship at IGCI in Singapore. Fortinet FortiGuard Labs then supplied actionable intelligence in 2015. INTERPOL Digital Crime Centre specialists, including experts from the Cyber Defense Institute at IGCI, worked with EFCC to locate the suspect in Nigeria.
+
+After the arrest, EFCC conducted forensic examination of seized devices. Those device reviews connected the suspect to multiple fraud types and helped distinguish the observed conduct from a simple single-victim wire-fraud case.
+
+## Legal and Procedural Status
+
+The two arrested suspects reportedly faced Nigerian charges including hacking, conspiracy, and obtaining money under false pretences. At the time of the INTERPOL release, both were on administrative bail while the investigation continued. No final conviction or sentencing record has been confirmed in the current corpus.
 
 ## Operational Timeline
 
 | Date | Event |
 |------|-------|
-| 2016-08-02 | Arrest of Nigerian BEC scammer announced |
+| 2015 | Fortinet FortiGuard Labs supplied actionable intelligence that supported the lead-development process |
+| 2016-06 | INTERPOL and EFCC located and arrested the alleged ringleader in Port Harcourt |
+| 2016-08-01 | INTERPOL publicly announced the joint action |
+| 2016-12-22 | DOJ published a separate Connecticut BEC prosecution source included in this page's reference set |
 
 ## Results and Impact
 
 | Metric | Detail |
 |--------|--------|
-| Arrests | 1 |
-| Estimated fraud losses | $60 million |
+| Arrests | 2 reported by Nigerian authorities |
+| Primary suspect | 40-year-old Nigerian national publicly identified only as "Mike" |
+| Network size | At least 40 individuals across Nigeria, Malaysia, and South Africa |
+| Estimated fraud exposure | More than USD 60 million |
+| Largest single known victim payment | USD 15.4 million |
+| Fraud types | BEC, payment diversion, CEO fraud, romance scams |
+| Confirmed procedural step | EFCC forensic examination of seized devices |
 
-## Cooperation Mechanisms Used
+## Korean Involvement
 
-Details not available from Tier 3 source. The involvement of INTERPOL suggests use of its standard international cooperation channels.
-
-## Korean Involvement (한국의 참여)
-
-No Korean involvement identified. However, BEC schemes increasingly targeted companies in the Asia-Pacific region during this period.
+No Korean law-enforcement participation or Korean victim link is identified in the current sources.
 
 ## Contradictions & Open Questions
 
-- What was the specific name and affiliation of the arrested individual?
-- Which specific Nigerian law enforcement agencies were involved?
-- How many victims were affected across how many countries?
-- Was the suspect ultimately convicted and sentenced?
+- The public record identifies the lead suspect only as "Mike"; the legal name is not confirmed in the current corpus.
+- The INTERPOL release confirms hundreds of victims and multiple affected countries, but it does not provide a complete victim list.
+- The final Nigerian case outcome, if any, is not present in the collected sources.
+- The DOJ Connecticut BEC source in this reference set is related by fraud pattern and nationality but should not be treated as proof of U.S. participation in the Port Harcourt arrest unless a direct link is separately established.
 
 ## Follow-Up Actions
 
 > [!warning] No public court documents found
-> Web search (2026-04-17) yielded no publicly accessible court filings
-> for this operation. Possible reasons: non-US jurisdiction with no
-> public court records system, sealed proceedings, or operation did
-> not result in formal prosecution.
+> Web search and repository review have not produced a public Nigerian court docket or final judgment for this operation. The priority follow-up is therefore to locate EFCC court filings, Nigerian press releases, or later INTERPOL updates that identify the final procedural result.
 
 ## References
 

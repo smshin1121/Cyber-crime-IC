@@ -23,6 +23,7 @@ notable_cases:
 official_name: "European Union Agency for Criminal Justice Cooperation (Eurojust)"
 official_name_ko: "유럽연합 형사사법협력기구 (유로저스트)"
 operations_participated:
+  - "[[goznym-takedown]]"
   - "[[alphabay-takedown]]"
   - "[[cyber-fraud-international-2015]]"
   - "[[de-ch-crypto-mixer-takedown-2025]]"

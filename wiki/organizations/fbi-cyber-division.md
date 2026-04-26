@@ -23,6 +23,7 @@ notable_cases:
 official_name: "Cyber Division, Federal Bureau of Investigation"
 official_name_ko: "미국 연방수사국 사이버과"
 operations_participated:
+  - "[[goznym-takedown]]"
   - "[[alphabay-takedown]]"
   - "[[operation-nova]]"
   - "[[black-axe-bec-2021]]"

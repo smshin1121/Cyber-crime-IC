@@ -4,6 +4,8 @@ title: "Office of International Affairs"
 status: stub
 created: 2026-04-26
 updated: 2026-04-26
+operations_participated:
+  - "[[goznym-takedown]]"
 source_count: 0
 sources: []
 ---

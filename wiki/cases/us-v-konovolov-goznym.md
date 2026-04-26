@@ -54,11 +54,12 @@ key_legal_issues:
   - "[[data-sovereignty]]"
   - "[[jurisdictional-conflicts]]"
 precedent_value: "High — first multinational prosecution with simultaneous parallel prosecutions in 5 countries for the same cybercrime network"
-source_count: 1
+source_count: 2
 sources:
   - "[[2019-05-16_wdpa_goznym-indictment]]"
+  - "[[2019-05-16_justice-gov_goznym-cyber-criminal-network-operating-out-of-europe-targeting-american-entitie]]"
 created: 2026-04-12
-updated: 2026-04-12
+updated: 2026-04-26
 summary: "United States v. Konovolov et al. is the prosecution of 10 members of the GozNym cybercriminal network, which used GozNym malware to steal online banking credentials from over 41,000 victim computers and attempt approximately USD 100 million in theft. The case is *almost certainly* unprecedented in its use of simultaneous parallel prosecutions: while the US indicted 10 defendants in the Western District of Pennsylvania, Bulgaria, Georgia, Moldova, and Ukraine conducted parallel domestic prosecutions of their own nationals."
 ---
 ## Summary
@@ -106,9 +107,10 @@ The Western District of Pennsylvania asserted jurisdiction because the network t
 | Date | Event |
 |------|-------|
 | 2016 | Investigation begins |
+| 2016-12 | Nikolov extradited from Bulgaria to the United States |
+| 2019-04-10 | Nikolov pleaded guilty in Pittsburgh |
 | 2019-05-16 | 10-count indictment unsealed in W.D. Pa. |
-| 2019-05 | Parallel prosecutions announced in Bulgaria, Georgia, Moldova, Ukraine |
-| 2019-05 | Nikolov extradited from Bulgaria |
+| 2019-05 | Parallel prosecutions announced in Bulgaria, Georgia, Moldova, and Ukraine |
 
 ## Cooperation Effectiveness
 
