@@ -111,10 +111,12 @@ Nemesis is a useful contrast with older darknet-market cases because the public 
 
 - BKA and ZIT announced on 21 March 2024 that the Nemesis Market server infrastructure in Germany and Lithuania had been seized in a coordinated action conducted on 20 March 2024.
 - The official BKA release reported over 150,000 user accounts, over 1,100 seller accounts, and cryptocurrency seizures valued at EUR 94,000.
+- The release stated that German, U.S. and Lithuanian authorities had been conducting coordinated investigations since October 2022.
 - This BKA/ZIT press-release metadata was captured from the official BKA press-result page.
 - It confirms the date of the coordinated Nemesis takedown, the German-Lithuanian server seizure, the EUR 94,000 cryptocurrency seizure figure, and the U.S.-German-Lithuanian cooperation pattern.
 - DOJ announced on 17 April 2025 that Behrouz Parsarad was charged for founding and operating Nemesis Market.
 - The release ties the later criminal case to the 20 March 2024 multinational infrastructure seizure and explicitly highlights German and Lithuanian assistance.
+- DOJ announced on April 17, 2025 that Behrouz Parsarad, alleged administrator of Nemesis Market, was charged in the District of Columbia for operating the darknet marketplace seized in March 2024.
 
 <!-- SOURCE_ENRICHMENT_END -->
 

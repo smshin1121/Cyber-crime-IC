@@ -76,7 +76,7 @@ sources:
   - "[[2020-11-27_welivesecurity-com_europol-partners-thwart-credit-card-fraud-scheme]]"
   - "[[2020-11-26_europol-europa-eu_officers-foil-fraudsters-stealing-eur-40-million-in-payment-card-scam]]"
 created: 2026-04-10
-updated: "2026-04-26"
+updated: 2026-04-26
 operation_role: umbrella
 parent_operation: ""
 summary: "Carding Action 2020 was a three-month intelligence-led operation coordinated by [[europol-ec3|Europol's European Cybercrime Centre (EC3)]] between September and November 2020. The operation targeted traders of compromised payment card data on dark web card shops and marketplaces. Law enforcement agencies from [[italy|Italy]], [[hungary|Hungary]], and the [[united-kingdom|United Kingdom]] collaborated with [[group-ib|Group-IB]], the sole private-sector cybersecurity partner, and major card payment schemes to analyse approximately 90,000 pieces of stolen card data. The operation is assessed to have prevented an estimated EUR 40 million (approximately USD 48 million) in potential fraud losses. No arrests were publicly announced; the operation was primarily intelligence-driven and preventive in nature."
@@ -198,6 +198,30 @@ No Korean participation in Carding Action 2020 has been publicly documented. How
 > for this operation. Possible reasons: non-US jurisdiction with no
 > public court records system, sealed proceedings, or operation did
 > not result in formal prosecution.
+
+<!-- SOURCE_ENRICHMENT_START -->
+
+## Source Coverage
+
+- UK Finance, 2020-11-26: DCPCU works with Europol on operation Carding Action 2020.
+- CISO MAG, 2020-12-01: Operation Carding Action 2020 Cracks Down Credit Card Scammers.
+- EAST, 2020-11-30: Carding Action by Police prevents EUR 40 million in losses.
+- Group-IB, 2020-11-26: Carding Action 2020: Group-IB supports Europol-backed operation saving EUR 40 million.
+- WeLiveSecurity, 2020-11-27: Europol and partners thwart credit card fraud scheme.
+- Europol, 2020-11-26: Officers foil fraudsters stealing EUR 40 million in payment card scam.
+
+## Evidence and Attribution Notes
+
+- UK Finance described DCPCU support to Europol's Carding Action 2020.
+- The release said the action helped prevent GBP 40 million in losses.
+- UK Finance described the Dedicated Card and Payment Crime Unit's role in Carding Action 2020.
+- CISO MAG summarized Carding Action 2020 and its EUR 40 million loss-prevention figure.
+- It highlighted Italy, Hungary, the United Kingdom, Europol, and Group-IB cooperation.
+- EAST summarized the three-month Carding Action 2020 and the 90,000-card data analysis.
+- The report described Europol coordination and private-sector cooperation.
+- EAST covered Carding Action 2020 from the secure-transactions sector perspective.
+
+<!-- SOURCE_ENRICHMENT_END -->
 
 ## References
 

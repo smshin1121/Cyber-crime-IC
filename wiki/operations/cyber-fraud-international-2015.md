@@ -156,7 +156,7 @@ Italy, Spain, Poland, United Kingdom, Belgium, Georgia
 
 ## Legal and Procedural Posture
 
-- Recorded crime classification: online fraud.
+- Recorded crime classification: online fraud and BEC.
 - Recorded enforcement posture: Arrest and Seizure.
 - The record is categorized as arrest-sweep with status completed.
 

@@ -103,7 +103,7 @@ sources:
   - "[[2024-05-30_krebsonsecurity-com_operation-endgame-hits-malware-delivery-platforms]]"
   - "[[2025-05-22_europol-europa-eu_operation-endgame-follow-up-leads-to-detentions-and-server-takedowns]]"
 created: 2026-04-08
-updated: "2026-04-26"
+updated: 2026-04-26
 operation_role: umbrella
 parent_operation: ""
 summary: "**Operation Endgame Phase 2** was the second major phase of the international campaign against ransomware-enabling infrastructure, conducted between 19 and 22 May 2025. The operation achieved an unprecedented scale of infrastructure disruption: **300 servers taken down**, **650 domains neutralized**, and **EUR 3.5 million in cryptocurrency seized** (bringing total Operation Endgame seizures to over EUR 21.2 million)."
@@ -246,6 +246,31 @@ A follow-up enforcement action (row 21, Europol URL) resulted in:
 - How quickly did the targeted malware families reconstitute operations after the takedown?
 - What is the relationship between the EUR 21.2M+ total and the Phase 1 EUR 69M suspect holdings figure?
 - The 16 DanaBot indictments and 300K infection figure come from The Hacker News (Tier 3) — official DOJ source needed for confirmation.
+
+<!-- SOURCE_ENRICHMENT_START -->
+
+## Source Coverage
+
+- Europol, 2025-05-23: Operation Endgame strikes again: the ransomware kill chain broken at its source.
+- The Hacker News, 2025-05-28: DanaBot malware reporting.
+- Europol, 2025-05-22: Operation Endgame Follow-up.
+- FBI, 2024-05-29: Operation Endgame: Coordinated Worldwide Law Enforcement Action Against Network of Cybercriminals.
+- Europol, 2024-05-30: Largest ever operation against botnets — Operation Endgame.
+- KrebsOnSecurity, 2024-05-30: 'Operation Endgame' Hits Malware Delivery Platforms.
+- Europol, 2025-05-22: Operation Endgame: Follow-up leads to detentions and server takedowns.
+
+## Evidence and Attribution Notes
+
+- Operation Endgame Phase 2 took down 300 servers, neutralized 650 domains, and seized EUR 3.5M in cryptocurrency (19-22 May 2025)
+- 20 international arrest warrants issued; 18 suspects added to EU Most Wanted list
+- Total Operation Endgame cryptocurrency seizures: EUR 21.2 million+
+- Targeted initial-access malware: Bumblebee, Lactrodectus, Qakbot, Hijackloader, DanaBot, Trickbot, Warmcookie
+- 7 countries participated with 15 agencies; struck at the start of the ransomware attack chain
+- During 19-22 May 2025, the second major phase of **Operation Endgame** disrupted ransomware-enabling infrastructure at an unprecedented scale: 300 servers taken down globally, 650 domains neutralized, and EUR 3.5 million in cryptocurrency seized (bringing the total Operation Endgame seizures to over EUR 21.2 million).
+- International arrest warrants were issued for 20 key actors, with 18 suspects added to the EU Most Wanted list.
+- The operation targeted initial-access malware families including Bumblebee, Lactrodectus, Qakbot, Hijackloader, DanaBot, Trickbot, and Warmcookie.
+
+<!-- SOURCE_ENRICHMENT_END -->
 
 ## References
 

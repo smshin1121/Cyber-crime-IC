@@ -156,11 +156,14 @@ South Korea is listed as a **victim country** — the South Korean foreign minis
 
 ## Evidence and Attribution Notes
 
+- DOJ press release announcing the charging of 12 Chinese nationals affiliated with i-Soon (Anxun Information Technology) and APT27 for global computer intrusion campaigns directed by China's MPS and MSS.
 - The coordinated action involved DOJ, FBI, NCIS, State Department, and Treasury.
+- i-Soon charged USD 10,000-75,000 per successfully exploited email inbox.
 - Victims included foreign ministries in Asia and US-based dissidents.
-- On 5 March 2025, the US Department of Justice announced coordinated efforts to disrupt the malicious cyber activities of 12 Chinese nationals, including two officers of the People's Republic of China's Ministry of Public Security (MPS), eight employees of Anxun Information Technology Co.
-- (i-Soon), and members of Advanced Persistent Threat 27 (APT27).
+- On 5 March 2025, the US Department of Justice announced coordinated efforts to disrupt the malicious cyber activities of 12 Chinese nationals, including two officers of the People's Republic of China's Ministry of Public Security (MPS), eight employees of Anxun Information Technology Co. Ltd. (i-Soon), and members of Advanced Persistent Threat 27 (APT27).
 - These actors conducted computer intrusions as freelancers or i-Soon employees at the direction of China's MPS and Ministry of State Security (MSS), and also on their own initiative.
+- i-Soon generated tens of millions of dollars in revenue, charging USD 10,000 to USD 75,000 per successfully exploited email inbox, making it a key player in China's hacker-for-hire ecosystem.
+- On March 5, 2025, DOJ announced charges against Wu Haibo and other i-Soon employees, Chinese law-enforcement officers, and APT27-linked operators for global computer intrusion campaigns.
 
 <!-- SOURCE_ENRICHMENT_END -->
 

@@ -97,7 +97,7 @@ sources:
   - "[[2021-01-27_mdnc_emotet-disruption-order]]"
   - "[[2026-04-17_justice-gov_documents-and-resources-related-disruption-emotet-malware-and-botnet]]"
 created: 2026-04-10
-updated: "2026-04-26"
+updated: 2026-04-26
 operation_role: umbrella
 parent_operation: ""
 summary: "Operation LadyBird was a multinational law enforcement operation that disrupted the **Emotet botnet** -- described by [[europol-ec3|Europol]] as \"the world's most dangerous malware\" -- on **27 January 2021**. The operation was coordinated by [[europol-ec3|Europol EC3]] and [[eurojust|Eurojust]], with the [[netherlands-politie|Dutch National Police (NHTCU)]] and Germany's Bundeskriminalamt (BKA) serving as the primary operational leads."
@@ -287,6 +287,30 @@ South Korea was **not among the eight participating countries** in Operation Lad
 
 > [!warning] Outcome qualification
 > Despite being widely reported as a success, Operation LadyBird achieved only **temporary disruption**. Emotet's resurgence in November 2021 demonstrates the limitations of infrastructure-focused takedowns without corresponding arrests of core operators.
+
+<!-- SOURCE_ENRICHMENT_START -->
+
+## Source Coverage
+
+- Europol, 2021-01-27: World's most dangerous malware EMOTET disrupted through global action.
+- US Department of Justice (Office of Public Affairs), 2021-01-27: Emotet Botnet Disrupted in International Cyber Operation.
+- Eurojust, 2021-01-27: Major operation to take down dangerous malware systems.
+- US Attorney's Office, Middle District of North Carolina (DOJ), 2021-01-27: Emotet Botnet Disrupted in International Cyber Operation.
+- US DOJ (OPA / M.D.N.C.), 2021-01-27: Emotet Botnet Disrupted in International Cyber Operation.
+- justice.gov, 2026-04-17: Page not found.
+
+## Evidence and Attribution Notes
+
+- Eight-country operation (NL, DE, US, UK, FR, LT, CA, UA) coordinated by Europol/Eurojust.
+- Emotet operated as a 'loader' MaaS delivering ransomware and banking trojans.
+- Hundreds of C2 servers seized; described as a novel 'from the inside' infrastructure takedown.
+- US DOJ estimate: 1.6 million computers infected April 2020 – January 2021.
+- Confirms US-side legal assistance and infrastructure seizure on US soil.
+- Eurojust's announcement confirming its JIT (Joint Investigation Team) facilitation role.
+- Judicial coordination between Netherlands, Germany, and other EU participants.
+- Confirms MDNC as US venue for the civil action related to Emotet infrastructure.
+
+<!-- SOURCE_ENRICHMENT_END -->
 
 ## References
 

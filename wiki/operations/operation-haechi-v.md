@@ -169,6 +169,7 @@ Korea's leadership of the HAECHI series is *almost certainly* the most significa
 - Over USD 400 million in virtual assets and government-backed currencies seized
 - Korean-Chinese joint sub-operation dismantled voice phishing syndicate responsible for USD 1.1 billion in losses (1,900+ victims)
 - Seven crime types targeted: voice phishing, romance scams, online sextortion, investment fraud, illegal online gambling, BEC, e-commerce fraud
+- INTERPOL press release announcing the results of Operation HAECHI V (July-November 2024), the fifth iteration of the HAECHI series targeting cyber-enabled financial crime.
 - The operation set records for the HAECHI series with 5,500+ arrests and USD 400M+ in seizures across 40 countries.
 - A notable sub-operation involved Korean and Chinese authorities jointly dismantling a voice phishing syndicate responsible for USD 1.1 billion in financial losses.
 

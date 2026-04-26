@@ -68,7 +68,7 @@ sources:
   - "[[2023-09-07_ndoh-mdtn-sdca_trickbot-conti-indictments]]"
   - "[[2015-05-29_sdny_us-v-ulbricht-sentencing]]"
 created: 2026-04-12
-updated: "2026-04-26"
+updated: 2026-04-26
 summary: "United States v. Galochkin et al. encompasses three indictments unsealed on 7 September 2023 across three federal districts, charging nine Russian nationals with conspiracies related to the TrickBot malware and Conti ransomware operations. Two additional defendants (Dunaev and Witte) were charged separately and have been convicted and sentenced. The case demonstrates the sustained prosecution approach required when initial technical disruption (October 2020) fails to permanently disable a botnet."
 ---
 ## Summary
@@ -132,6 +132,26 @@ South Korea played a direct role: arresting Dunaev in September 2021 and extradi
 1. The nine indicted Russian nationals remain at large in Russia; extradition is *highly unlikely* given current geopolitics.
 2. The legal basis for US Cyber Command's offensive operations against TrickBot has not been publicly disclosed.
 3. Maximum penalties of 62 years are *almost certainly* aspirational given the fugitive status of most defendants.
+
+<!-- SOURCE_ENRICHMENT_START -->
+
+## Source Coverage
+
+- US DOJ (OPA), 2023-09-07: Multiple Foreign Nationals Charged in Connection with Trickbot Malware and Conti Ransomware Conspiracies.
+- US DOJ (SDNY), 2015-05-29: Ross Ulbricht, A/K/A “Dread Pirate Roberts,” Sentenced In Manhattan Federal Court To Life In Prison.
+
+## Evidence and Attribution Notes
+
+- On 7 September 2023, the Department of Justice unsealed three indictments in three federal districts charging nine Russian nationals with conspiracy related to the TrickBot malware and Conti ransomware operations.
+- Northern District of Ohio — TrickBot Indictment All nine defendants were charged with conspiring to use TrickBot malware to steal money and personal information beginning in November 2015.
+- On 29 May 2015, Ross William Ulbricht, 31, of San Francisco, California, was sentenced by Judge Katherine B.
+- Forrest to two concurrent terms of life imprisonment plus 40 years without the possibility of parole.
+- The court also imposed a forfeiture order of USD 183,961,921.
+- Ulbricht had been convicted on 4 February 2015 after a four-week jury trial on all seven counts: distributing narcotics, distributing narcotics by means of the Internet, conspiring to distribute narcotics, engaging in a continuing criminal enterprise, conspiring to commit computer hacking, conspiring to traffic in false identity documents, and conspiring.
+- The Silk Road marketplace, which Ulbricht created and operated under the alias "Dread Pirate Roberts," facilitated approximately USD 1.2 billion in illegal transactions and served approximately 957,079 registered users.
+- The FBI seized approximately 173,991 bitcoins (valued at ~USD 33.6 million at the time of seizure) from Silk Road servers hosted in Iceland and from Ulbricht's personal hardware.
+
+<!-- SOURCE_ENRICHMENT_END -->
 
 ## References
 

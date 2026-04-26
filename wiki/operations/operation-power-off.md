@@ -115,7 +115,7 @@ sources:
   - "[[2026-04-17_en-wikipedia-org_operation-poweroff]]"
   - "[[2024-12-12_theregister-com_operation-poweroff-extinguishes-18-more-ddos-booters]]"
 created: 2026-04-10
-updated: 2026-04-11
+updated: 2026-04-26
 operation_role: umbrella
 parent_operation: ""
 summary: "Operation PowerOFF is an **ongoing, multi-phase international law enforcement operation** targeting DDoS-for-hire (booter/stresser) services. Launched in December 2018 and still active as of December 2024, it is coordinated by [[europol-ec3|Europol's European Cybercrime Centre (EC3)]] and led operationally by the [[fbi-cyber-division|FBI]], with the [[uk-nca|UK National Crime Agency (NCA)]] as a core partner. The operation has conducted at least six major enforcement waves, seizing over 142 domains, arresting 16 individuals, and identifying hundreds of users across 15 countries."
@@ -290,6 +290,26 @@ There is no confirmed direct Korean participation in any phase of Operation Powe
 
 > [!warning] Legal status check needed
 > As an ongoing operation, new phases may occur after the date of this page's last update. Verify current status against Europol and DOJ announcements.
+
+<!-- SOURCE_ENRICHMENT_START -->
+
+## Source Coverage
+
+- Europol, 2024-12-11: Law enforcement shuts down 27 DDoS booters ahead of annual Christmas attacks.
+- US DOJ, 2022-12-14: Federal Prosecutors in Los Angeles and Alaska Charge 6 Defendants with Operating Websites that Offered Computer Attack Services.
+- US DOJ CDCA, 2024-09-01: Law Enforcement Seizes 9 DDoS-for-Hire Webpages as Part of Global Crackdown on ‘Booter’ and ‘Stresser’ DDoS Services.
+- Bleeping Computer, 2023-05-09: FBI seizes 13 more domains linked to DDoS-for-hire services.
+- CyberScoop, 2024-12-12: International crackdown disrupts DDoS-for-hire operations.
+- Wikipedia, 2026-04-17: Operation PowerOFF.
+- The Register, 2024-12-12: Operation PowerOFF extinguishes 18 more DDoS booters.
+
+## Evidence and Attribution Notes
+
+- Operation PowerOFF is an **ongoing, multi-phase international law enforcement operation** targeting DDoS-for-hire (booter/stresser) services.
+- Launched in December 2018 and still active as of December 2024, it is coordinated by Europol's European Cybercrime Centre (EC3) and led operationally by the FBI, with the UK National Crime Agency (NCA) as a core partner.
+- The operation has conducted at least six major enforcement waves, seizing over 142 domains, arresting 16 individuals, and identifying hundreds of users across 15 countries.
+
+<!-- SOURCE_ENRICHMENT_END -->
 
 ## References
 

@@ -131,7 +131,7 @@ sources:
   - "[7] The Hacker News: FBI Puts $5 Million Bounty (2019-12-05)"
   - "[8] Dell SecureWorks: Dridex (Bugat v5) Botnet Takeover Operation (2015-10)"
 created: 2026-04-10
-updated: "2026-04-26"
+updated: 2026-04-26
 operation_role: umbrella
 parent_operation: ""
 summary: "The Dridex/Evil Corp disruption and prosecution was a **multi-year international law enforcement operation** targeting the Dridex banking trojan (also known as Bugat and Cridex) and its operators within the Russia-based cybercriminal organization **Evil Corp**. The operation unfolded in two major phases: (1) the **October 2015 technical disruption and arrest** of botnet administrator Andrey Ghinkul, conducted jointly by the [[fbi-cyber-division|FBI]] and [[uk-nca|UK National Crime Agency (NCA)]]; and (2) the **December 2019 indictment, sanctions, and reward** targeting Evil Corp leader **Maksim Yakubets** and deputy **Igor Turashev**, coordinated between the [[us-doj|US DOJ]], [[us-treasury|US Treasury (OFAC)]], and NCA."
@@ -303,6 +303,21 @@ There is no confirmed direct Korean involvement in the Dridex/Evil Corp operatio
 
 > [!warning] Legal status check needed
 > Yakubets and Turashev remain at large as of the last verified date. Their status and the $5 million reward should be verified against current FBI Most Wanted listings.
+
+<!-- SOURCE_ENRICHMENT_START -->
+
+## Source Coverage
+
+- US DOJ, 2015-10-13: Bugat Botnet Administrator Arrested and Malware Disabled.
+- FBI Pittsburgh, 2015-10-13: Bugat Botnet Administrator Arrested and Malware Disabled.
+- US DOJ, 2019-12-05: Russian National Charged with Decade-Long Series of Hacking and Bank Fraud.
+- US Treasury, 2019-12-05: Treasury Sanctions Evil Corp, the Russia-Based Cybercriminal Group Behind Dridex Malware.
+- NCA, 2019-12-05: International law enforcement operation exposes the world's most harmful cyber crime group.
+- US DOJ WDPA, 2018-12-06: Moldovan Sentenced for Distributing Multifunction Malware Package.
+- Dell SecureWorks (Sophos), 2015-10: Dridex (Bugat v5) Botnet Takeover Operation.
+- The Hacker News, 2019-12-05: FBI Puts $5 Million Bounty On Russian Hackers Behind Dridex Banking Malware.
+
+<!-- SOURCE_ENRICHMENT_END -->
 
 ## References
 

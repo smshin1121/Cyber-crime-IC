@@ -137,7 +137,7 @@ United States, United Kingdom, France, Belgium, Hungary, Lithuania, Netherlands,
 
 - Multi-country law enforcement operation codenamed 'Operation Tarpit' conducted 5-9 December 2016, coordinated from The Hague by Europol EC3 with participation from 13 countries
 - Operation resulted in 34 arrests and 101 interviews/cautions ('knock-and-talk') of individuals who had purchased DDoS-for-hire (booter/stresser) services to attack websites and servers
-- Most suspects were under the age of 20, reflecting the youth demographic of booter-service customers and raising questions about youth-diversion vs.
+- Most suspects were under the age of 20, reflecting the youth demographic of booter-service customers and raising questions about youth-diversion vs. prosecution approaches
 - Participating countries (13): United States, United Kingdom, France, Belgium, Hungary, Lithuania, Netherlands, Norway, Portugal, Romania, Spain, Sweden, Australia
 - Operation targeted booter/stresser service *customers*, not the service operators themselves — a deterrence-focused enforcement strategy against the demand side of DDoS-for-hire
 - The coordination model used Europol's EC3 as the central hub in The Hague with simultaneous multi-country action — a template subsequently refined in Operations Avalanche (2016) and Power Off (2018, 2022)

@@ -173,9 +173,10 @@ The defendant-specific case record is [[us-v-kutleshi-rydox]], with a linked fol
 
 ## Evidence and Attribution Notes
 
-- On 12 December 2024, DOJ announced the seizure of the Rydox cybercrime marketplace and the arrest of two alleged administrators, Ardit Kutleshi and Jetmir Kutleshi, in Kosovo pursuant to a U.S.
+- On 12 December 2024, DOJ announced the seizure of the Rydox cybercrime marketplace and the arrest of two alleged administrators, Ardit Kutleshi and Jetmir Kutleshi, in Kosovo pursuant to a U.S. extradition request.
 - DOJ said the indictment had been unsealed that day in the Western District of Pennsylvania.
-- Those products included stolen personal information, access devices, login credentials, scam pages, and spamming tools affecting thousands of U.S.
+- According to the press release, Rydox had generated at least USD 230,000 in revenue since 2016, completed over 7,600 sales, and offered more than 321,000 cybercrime products to over 18,000 users.
+- Those products included stolen personal information, access devices, login credentials, scam pages, and spamming tools affecting thousands of U.S. victims.
 - The same announcement described a coordinated international action involving Kosovo, Albania, and Malaysia.
 - A third alleged administrator, Shpend Sokoli, was arrested in Albania for expected domestic prosecution, while Malaysian authorities and the FBI seized the servers in Kuala Lumpur.
 - DOJ also said the United States obtained authorization to seize the Rydox.cc domain and about USD 225,000 in cryptocurrency.

@@ -109,7 +109,7 @@ lessons_learned:
   - "On-site command posts at Europol HQ enable real-time coordination across jurisdictions and time zones"
   - "EU Most Wanted listings and international arrest warrants create persistent legal pressure even without immediate physical arrests"
 created: 2026-04-10
-updated: "2026-04-26"
+updated: 2026-04-26
 operation_role: umbrella
 parent_operation: ""
 summary: "**Operation Endgame** is the **largest-ever international law enforcement operation against botnets and the ransomware-enabling malware ecosystem**. Launched in May 2024 and still ongoing as of 2026, the operation has been conducted in multiple phases coordinated by [[europol-ec3|Europol]] and [[eurojust|Eurojust]], with participation from law enforcement agencies across at least 15 countries."
@@ -421,6 +421,32 @@ However, Operation Endgame is relevant to Korean cybersecurity interests in seve
 5. **Measurable ransomware impact:** What was the quantifiable effect on global ransomware deployment rates following each phase? No systematic assessment has been publicly released.
 
 6. **Phase 1 server locations:** Servers were seized in Bulgaria, Canada, Germany, Lithuania, the Netherlands, Romania, Switzerland, the United Kingdom, United States, and Ukraine — but the distribution across countries has not been specified in detail.
+
+<!-- SOURCE_ENRICHMENT_START -->
+
+## Source Coverage
+
+- Europol, 2024-05-30: Largest ever operation against botnets hits dropper malware ecosystem - Operation Endgame.
+- FBI, 2024-05-29: Operation Endgame: Coordinated Worldwide Law Enforcement Action Against Network of Cybercriminals.
+- German BMI, 2024-05-30: Worldwide investigation against cyber crime crowned by success.
+- Europol, 2025-04-09: Operation Endgame follow-up leads to five detentions and interrogations as well as server takedowns.
+- Europol, 2025-05-23: Operation Endgame strikes again: the ransomware kill chain broken at its source.
+- Europol, 2026-04-17: Operation Endgame — official page.
+- KrebsOnSecurity, 2024-05-30: 'Operation Endgame' Hits Malware Delivery Platforms.
+- The Hacker News, 2025-05-23: The Hacker News: US Dismantles DanaBot Malware Network (Operation Endgame Phase 2).
+
+## Evidence and Attribution Notes
+
+- Operation Endgame Phase 1 was the largest-ever international action against botnets, conducted 27-29 May 2024
+- Targeted dropper malware families: IcedID, SystemBC, Pikabot, Smokeloader, Bumblebee, Trickbot
+- 4 arrests (1 Armenia, 3 Ukraine), 100+ servers taken down across 10 countries, 2,000+ domains seized
+- Key suspect accumulated at least EUR 69 million in cryptocurrency from renting criminal infrastructure
+- Malware droppers linked to at least 15 ransomware groups including BlackBasta, REvil, Conti
+- Between 27 and 29 May 2024, **Operation Endgame** — the largest-ever international action against botnets — targeted dropper malware families including IcedID, SystemBC, Pikabot, Smokeloader, Bumblebee, and Trickbot.
+- Coordinated from Europol's headquarters with a command post of 20+ officers from Denmark, France, Germany, and the US, the operation resulted in 4 arrests, over 100 servers taken down across 10 countries, and over 2,000 domains seized.
+- These malware droppers serve as initial-access vectors linked to at least 15 ransomware groups, including BlackBasta, REvil, and Conti.
+
+<!-- SOURCE_ENRICHMENT_END -->
 
 ## References
 

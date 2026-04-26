@@ -165,6 +165,36 @@ Korea's specific participation in First Light 2024 is not detailed in the source
 > public court records system, sealed proceedings, or operation did
 > not result in formal prosecution.
 
+<!-- SOURCE_ENRICHMENT_START -->
+
+## Source Coverage
+
+- INTERPOL, 2024-06-18: USD 257 million seized in global police crackdown against online scams - Operation First Light 2024.
+- Singapore Police Force Commercial Affairs Department, 2025-12-01: CAD Report 2024.
+- Singapore Police Force, 2024-07-01: Mid-Year Scams and Cybercrime Brief 2024.
+- INTERPOL, 2026-02-01: INTERPOL Annual Report 2024.
+- INTERPOL, 2026-04-01: Support for AFRIPOL.
+
+## Legal and Procedural Posture
+
+- Recorded crime classification: online fraud and BEC.
+- Recorded enforcement posture: Arrest and Asset Freeze.
+- Legal or procedural basis recorded in metadata: informal cooperation.
+- The record is categorized as arrest-sweep with status completed.
+
+## Evidence and Attribution Notes
+
+- 3,950 arrests and USD 257 million seized across 61 countries in online scam crackdown
+- 14,643 additional suspects identified; 6,745 bank accounts frozen
+- Namibia: 88 youths rescued from forced scam operations; Spain: I-GRIP intercepted USD 331K BEC fraud
+- INTERPOL's Operation First Light 2024 was a coordinated global crackdown on online scams conducted from March to May 2024 across 61 countries.
+- The operation resulted in 3,950 arrests and the identification of 14,643 additional possible suspects.
+- Authorities froze 6,745 bank accounts and seized assets worth USD 257 million, comprising USD 135 million in fiat currency, USD 2 million in cryptocurrency, and approximately USD 120 million in physical assets including real estate, luxury cars, and jewelry.
+- CAD Report 2024 places Singapore inside Operation First Light 2024 and ties the operation to anti-fraud enforcement against money-laundering cells.
+- The report describes cooperation between Singapore's CAD and Malaysia's Commercial Crime Investigation Department.
+
+<!-- SOURCE_ENRICHMENT_END -->
+
 ## References
 
 | # | Title | Publisher | Date | URL |

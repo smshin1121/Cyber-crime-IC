@@ -121,24 +121,6 @@ The public value of this action lies in accountability and traceability. Unlike 
 
 The linked case page is [[us-v-okpe-obogo-bec]], and the corresponding defendant-specific follow-on operation is [[operation-us-v-okpe-obogo-bec]].
 
-<!-- SOURCE_ENRICHMENT_START -->
-
-## Source Coverage
-
-- US DOJ (Office of Public Affairs), 2023-03-27: Foreign National Sentenced for Victimizing U.S. Persons Through Cyber-Enabled Fraud Schemes.
-- U.S. Department of Justice (USAO Arizona Victim Notifications), 2023-01-23: US v Okpe et al.
-- SC Media, 2023-03-29: US convicts Nigerian BEC scammer.
-- Infosecurity Magazine, 2023-03-28: Four Years Behind Bars for Prolific BEC Scammer.
-
-## Evidence and Attribution Notes
-
-- Okpe and Obogo is a District of Arizona fraud prosecution arising from a multi-year cyber-enabled scheme that included business email compromise, work-from-home fraud, romance fraud, and credit-card abuse.
-- The case is *highly likely* one of the cleaner examples in the repository where DOJ explicitly described both overseas arrests and extraditions in a BEC-related matter.
-- Victim notifications page confirms docket activity in the Arizona case.
-- The page reflects sentencing scheduling and case progression for Okpe and Obogo.
-- This page records a sentencing-stage cyber-enabled fraud enforcement action involving Nigerian defendants Solomon Ekunke Okpe and Johnson Uke Obogo.
-
-<!-- SOURCE_ENRICHMENT_END -->
 
 <!-- RAW_TEXT_HIGHLIGHTS_START -->
 
@@ -147,6 +129,29 @@ The linked case page is [[us-v-okpe-obogo-bec]], and the corresponding defendant
 - U.S. Department of Justice (USAO Arizona Victim Notifications), 2023-01-23: Attorney About Us Our Mission Divisions Criminal Division Civil Division Appellate Division Administrative Division Programs AHCCCS Treatment Fraud Civil Rights Community Outreach Law Enforcement Coordination MMIP Office of The Victim Rights Ombudsman Project Safe Childhood Project Safe Neighborhoods Victim Notifications Victim Witness.
 
 <!-- RAW_TEXT_HIGHLIGHTS_END -->
+
+<!-- SOURCE_ENRICHMENT_START -->
+
+## Source Coverage
+
+- US DOJ (Office of Public Affairs), 2023-03-27: Foreign National Sentenced for Victimizing U.S. Persons Through Cyber-Enabled Fraud Schemes.
+- justice.gov, 2026-04-17: Nigerian Nationals Victimize U.S. Persons Through Cyber-Enabled Fraud Schemes.
+- U.S. Department of Justice (USAO Arizona Victim Notifications), 2023-01-23: US v Okpe et al.
+- SC Media, 2023-03-29: US convicts Nigerian BEC scammer.
+- Infosecurity Magazine, 2023-03-28: Four Years Behind Bars for Prolific BEC Scammer.
+
+## Evidence and Attribution Notes
+
+- Okpe and Obogo Enforcement Action is a defendant-specific enforcement action page derived from Us V Okpe Obogo Bec.
+- It captures the prosecutorial or seizure stage reflected in the linked case record and preserves the operation-side catalog entry for this follow-on action.
+- United States v. Okpe and Obogo is a District of Arizona fraud prosecution arising from a multi-year cyber-enabled scheme that included business email compromise, work-from-home fraud, romance fraud, and credit-card abuse.
+- The case is *highly likely* one of the cleaner examples in the repository where DOJ explicitly described both overseas arrests and extraditions in a BEC-related matter.
+- Victim notifications page confirms docket activity in the Arizona case.
+- The page reflects sentencing scheduling and case progression for Okpe and Obogo.
+- This page records a sentencing-stage cyber-enabled fraud enforcement action involving Nigerian defendants Solomon Ekunke Okpe and Johnson Uke Obogo.
+- DOJ announced on 2023-03-27 that the defendants had been sentenced for schemes that victimized persons in the United States through cyber-enabled fraud.
+
+<!-- SOURCE_ENRICHMENT_END -->
 
 ## References
 

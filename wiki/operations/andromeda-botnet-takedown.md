@@ -92,7 +92,7 @@ sources:
   - "[[bleeping-computer-andromeda-botnet-takedown]]"
 summary: "The Andromeda/Gamarue takedown combined Europol and FBI coordination, German and Belarusian enforcement action, and Microsoft-backed sinkhole support to disrupt a long-running malware ecosystem in late 2017."
 created: 2026-04-08
-updated: "2026-04-26"
+updated: 2026-04-26
 ---
 ## Summary
 
@@ -131,6 +131,36 @@ The page also avoids overstating the criminal-procedure side. Public sources cle
 
 > [!warning] No public court documents found
 > Public material strongly supports the takedown narrative, but the repo does not currently contain a robust set of public filings matching the operation.
+
+<!-- SOURCE_ENRICHMENT_START -->
+
+## Source Coverage
+
+- Europol, 2017-12-04: Andromeda Botnet Dismantled in International Cyber Operation.
+- Microsoft, 2017-12-04: Microsoft assists law enforcement to help disrupt the Andromeda botnet.
+- Microsoft, 2026-04-18: Gamarue threat profile.
+- source: bleeping-computer-andromeda-botnet-takedown.
+
+## Operational Timeline
+
+- 2017-11-29: activity or investigation start.
+- 2017-12-04: public announcement.
+- 2017-12-04: reported enforcement endpoint.
+- 2017-12-04: public source coverage from Europol, Microsoft.
+- 2026-04-18: public source coverage from Microsoft.
+
+## Evidence and Attribution Notes
+
+- In late November to early December 2017, an international law enforcement operation dismantled the Andromeda botnet infrastructure.
+- The FBI, German Central Criminal Investigation Office in Luneburg, Europol's European Cybercrime Centre (EC3), the Joint Cybercrime Action Task Force (J-CAT), and Eurojust coordinated with 17 countries and private sector partners including Microsoft to neutralize the botnet.
+- The operation disrupted servers and domains used for malware distribution through the Andromeda malware family.
+- Microsoft states that its Digital Crimes Unit and security teams supported law enforcement and partners in disrupting Gamarue/Andromeda after a coordinated eradication campaign.
+- The post helps explain the private-sector sinkhole and technical-assistance role behind the 2017 multinational operation.
+- Microsoft's post adds the private-sector disruption perspective to the Andromeda takedown.
+- It is useful for attributing the sinkhole and coordinated malware-eradication support that complemented the public-sector enforcement action.
+- The Andromeda/Gamarue takedown combined Europol and FBI coordination, German and Belarusian enforcement action, and Microsoft-backed sinkhole support to disrupt a long-running malware ecosystem in late 2017.
+
+<!-- SOURCE_ENRICHMENT_END -->
 
 ## References
 

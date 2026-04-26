@@ -131,7 +131,6 @@ The underlying public case record identifies French Coder Who Helped Extort Brit
 
 <!-- SOURCE_ENRICHMENT_END -->
 
-
 ## References
 
 | # | Title | Publisher | Date | URL |

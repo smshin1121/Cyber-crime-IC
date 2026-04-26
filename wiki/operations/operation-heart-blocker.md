@@ -60,7 +60,7 @@ sources:
   - "[4] CyberScoop (2025-01-30)"
   - "[5] Hackread (2025-01-30)"
 created: 2026-04-10
-updated: "2026-04-26"
+updated: 2026-04-26
 related_operations:
   - "[[operation-in-re-heartsender-seizure]]"
 operation_role: umbrella
@@ -222,6 +222,18 @@ No known Korean involvement in Operation Heart Blocker. However:
 3. How many downstream BEC schemes globally relied on HeartSender tools?
 4. Were domain registrars and YouTube notified about the criminal use of their platforms prior to the takedown? If so, why was no action taken?
 5. What was the revenue earned by the HeartSender marketplace operators over its ~5 years of operation?
+
+<!-- SOURCE_ENRICHMENT_START -->
+
+## Source Coverage
+
+- US DOJ, 2025-01-29: Justice Department Announces Seizure of Cybercrime Websites Selling Hacking Tools to Transnational Organized Crime Groups.
+- KrebsOnSecurity, 2025-01-30: FBI, Dutch Police Disrupt 'Manipulaters' Phishing Gang.
+- KrebsOnSecurity, 2025-05-28: Pakistan Arrests 21 in 'Heartsender' Malware Service.
+- CyberScoop, 2025-01-30: Department of Justice partners with Dutch police to break up HeartSender network.
+- Hackread, 2025-01-30: HeartSender Cybercrime Network Dismantled in Joint US-Dutch Operation.
+
+<!-- SOURCE_ENRICHMENT_END -->
 
 ## References
 

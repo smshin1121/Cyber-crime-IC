@@ -166,18 +166,20 @@ No Korean involvement noted in this operation.
 
 ## Legal and Procedural Posture
 
-- Recorded crime classification: ransomware.
+- Recorded crime classification: ransomware and dark web.
 - Recorded enforcement posture: Seizure, Takedown, Asset Freeze.
 - The record is categorized as takedown with status completed.
 
 ## Evidence and Attribution Notes
 
+- DOJ press release announcing coordinated international disruption actions against the BlackSuit (Royal) ransomware group under Operation Checkmate.
 - The operation involved 5 US agencies and international partners from 7 countries, seizing 4 servers and 9 domains used for data leaking and ransom negotiations.
 - The US Department of Justice announced coordinated international disruption actions against the BlackSuit (Royal) ransomware group on 11 August 2025.
 - The operation, codenamed Operation Checkmate, included the takedown of four servers and nine domains on 24 July 2025.
 - The seized domains were used by BlackSuit to leak stolen data and communicate with victims to negotiate ransom payments.
 - BleepingComputer reported that BlackSuit's extortion and leak sites were seized under Operation Checkmate.
 - The article said DOJ confirmed a court-authorized seizure of the domains.
+- It preserves the first public reporting around the July 24 infrastructure action.
 
 <!-- SOURCE_ENRICHMENT_END -->
 

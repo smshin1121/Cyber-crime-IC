@@ -150,6 +150,7 @@ No Korean involvement identified.
 ## Source Coverage
 
 - CyberScoop, 2020-12-22: Safe Inet Takedown Fbi Interpol.
+- portswigger.net, 2020-12-22: Safe Inet Vpn Service For Cybercriminals Taken Down In Law Enforcement Bust.
 - BleepingComputer, 2020-12-22: Safe-Inet, Insorg VPN services shut down by law enforcement.
 - Infosecurity Magazine, 2020-12-22: Police Seize VPN Service Beloved by Cyber-criminals.
 - CISO MAG, 2020-12-24: Operation Nova: Global Law Enforcement Agencies Seize Safe-Inet Criminal VPN Service.

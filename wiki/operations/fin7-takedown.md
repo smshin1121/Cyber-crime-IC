@@ -130,7 +130,7 @@ United States, United Kingdom, Australia, France
 
 ## Legal and Procedural Posture
 
-- Recorded crime classification: hacking.
+- Recorded crime classification: hacking, malware, dark web.
 - Recorded enforcement posture: Arrest and Indictment.
 - The record is categorized as joint-investigation with status completed.
 - Related legal or operational records: Us V Hladyr Fin7.
@@ -143,7 +143,7 @@ United States, United Kingdom, Australia, France
 - Named victim chains publicly disclosed at time of FBI reporting: Chipotle Mexican Grill, Chili's, Arby's, Jason's Deli
 - Methodology: spear-phishing emails with malicious Microsoft Word attachments (embedded malware); attackers often posed as customers or legitimate business contacts and made phone calls to legitimize the phishing request — social-engineering layered on top of technical intrusion
 - International cooperation: Fedorov arrested in Poland (January 2018), Hladyr in Dresden/Germany (January 2018), Kopakov in Spain (June 2018); all three extradited to the US for prosecution in the Western District of Washington (Seattle)
-- The Western District of Washington announced that three senior FIN7 members were in custody on charges tied to attacks on more than 100 U.S.
+- The Western District of Washington announced that three senior FIN7 members were in custody on charges tied to attacks on more than 100 U.S. companies.
 - The release described arrests in Poland, Germany, and Spain and tied them to extradition efforts to the United States.
 
 <!-- SOURCE_ENRICHMENT_END -->

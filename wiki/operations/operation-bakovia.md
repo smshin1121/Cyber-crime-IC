@@ -196,7 +196,7 @@ No Korean involvement was identified in the available public sources.
 
 ## Legal and Procedural Posture
 
-- Recorded crime classification: ransomware.
+- Recorded crime classification: ransomware and malware.
 - Recorded enforcement posture: Arrest and Seizure.
 - The record is categorized as arrest-sweep with status completed.
 
@@ -209,7 +209,7 @@ No Korean involvement was identified in the available public sources.
 - The company described its own malware-analysis support for Dutch investigators, adding evidence of a public-private investigative model.
 - McAfee's account adds technical and operational context for Operation Bakovia, especially the malware-analysis role that helped attribute the actors behind CTB-Locker and Cerber distribution.
 - McAfee described its support to the investigation later identified as Operation Bakovia.
-- The company said Dutch investigators asked its Advanced Threat Research team to analyze malware samples from a server used to distribute CTB-Locker, and the inquiry later expanded to Cerber based on U.S.
+- The company said Dutch investigators asked its Advanced Threat Research team to analyze malware samples from a server used to distribute CTB-Locker, and the inquiry later expanded to Cerber based on U.S. Secret Service information.
 
 <!-- SOURCE_ENRICHMENT_END -->
 

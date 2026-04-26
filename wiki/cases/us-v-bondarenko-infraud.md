@@ -70,7 +70,7 @@ source_count: 2
 sources:
   - "[[2018-02-07_nv_infraud-organization-indictment]]"
 created: 2026-04-12
-updated: "2026-04-26"
+updated: 2026-04-26
 summary: "United States v. Bondarenko et al. is the prosecution of 36 members of the Infraud Organization, a transnational cybercrime forum that operated from October 2010 to February 2018 under the slogan \"In Fraud We Trust.\" The nine-count superseding indictment, unsealed on 7 February 2018, charged the defendants with racketeering conspiracy (RICO), identity theft, wire fraud, and computer fraud. Actual losses exceeded USD 568 million, with intended losses exceeding USD 2.2 billion."
 ---
 ## Summary
@@ -132,6 +132,22 @@ No Korean involvement identified.
 1. What specific extradition or MLAT arrangements enabled the arrest of Medvedev in Thailand?
 2. How many of the 36 indicted individuals were ultimately convicted?
 3. Co-founder Bondarenko (Ukraine) remains at large.
+
+<!-- SOURCE_ENRICHMENT_START -->
+
+## Source Coverage
+
+- US DOJ (District of Nevada), 2018-02-07: Thirty-Six Defendants Indicted For Alleged Roles In Transnational Criminal Organization Responsible For More Than $530 Million In Losses From..
+
+## Evidence and Attribution Notes
+
+- On 7 February 2018, a nine-count superseding indictment was unsealed by a Las Vegas, Nevada, grand jury charging 36 defendants for their alleged roles in the Infraud Organization, a transnational cybercrime enterprise that caused more than USD 530 million in actual losses and intended losses exceeding USD 2.2 billion.
+- The Infraud Organization was created in October 2010 by Svyatoslav Bondarenko (aka "Obnon," "Rector," "Helkern"), 34, of Ukraine, as the premier destination for "carding" — purchasing retail items with counterfeit or stolen credit card information.
+- Operating under the slogan "In Fraud We Trust," the organization had 10,901 registered members at its peak.
+- Key defendants included: Sergey Medvedev (aka "Stells," "segmed"), co-founder and administrator, of Russia; and 34 additional defendants from multiple countries.
+- Charges included racketeering conspiracy (RICO), identity theft, wire fraud, and computer fraud.
+
+<!-- SOURCE_ENRICHMENT_END -->
 
 ## References
 

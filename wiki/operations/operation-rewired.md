@@ -104,7 +104,7 @@ sources:
   - "[[2019-09-11_scworld-com_operation-rewired-campaign]]"
   - "[[2019-09-10_wired-com_email-scammer-global-takedown]]"
 created: 2026-04-10
-updated: 2026-04-11
+updated: 2026-04-26
 operation_role: umbrella
 parent_operation: ""
 summary: "Operation reWired was a coordinated international law enforcement operation targeting Business Email Compromise (BEC) schemes, announced on 10 September 2019. Led by the [[fbi-cyber-division|FBI]] and coordinated by the [[us-doj|US Department of Justice]] through the International Organized Crime Intelligence and Operations Center (IOC-2), the four-month operation resulted in 281 arrests across 10 countries, the seizure of approximately USD 3.7 million, and the disruption or recovery of approximately USD 118 million in fraudulent wire transfers. The operation was the successor to [[operation-wirewire|Operation WireWire]] (2018) and represented the largest coordinated BEC enforcement action at the time."
@@ -268,6 +268,29 @@ No [[south-korea|South Korean]] participation in Operation reWired has been publ
 > for this operation. Possible reasons: non-US jurisdiction with no
 > public court records system, sealed proceedings, or operation did
 > not result in formal prosecution.
+
+<!-- SOURCE_ENRICHMENT_START -->
+
+## Source Coverage
+
+- FBI, 2019-09-10: Operation reWired.
+- U.S. Department of Justice, 2019-09-10: 281 Arrested Worldwide in Coordinated International Enforcement Operation Targeting Hundreds of Individuals in Cyber-Enabled Financial Fraud.
+- U.S. Secret Service, 2019-09-10: 281 Arrested Worldwide in Coordinated International Enforcement Operation Targeting Hundreds of Individuals in Cyber-enabled Financial Fraud.
+- SC Media, 2019-09-11: Authorities arrest 281 alleged BEC scammers in Operation reWired campaign.
+- Wired, 2019-09-10: 281 Alleged Email Scammers Arrested in Massive Global Sweep.
+
+## Evidence and Attribution Notes
+
+- The FBI said Operation reWired resulted in 281 arrests across 10 countries, including 74 in the United States.
+- The operation disrupted and recovered approximately USD 118 million in fraudulent wire transfers.
+- It was described as a direct successor to Operation WireWire.
+- DOJ announced 281 arrests and nearly USD 3.7 million seized in Operation reWired.
+- The release identified Nigeria, Turkey, Ghana, France, Italy, Japan, Kenya, Malaysia, and the UK as foreign partner jurisdictions.
+- It described the operation as targeting business email compromise and broader cyber-enabled financial fraud.
+- The Secret Service release repeated the 281-arrest figure and the USD 3.7 million seizure total.
+- It specifically tied the operation to cyber-enabled financial fraud and business email compromise investigations.
+
+<!-- SOURCE_ENRICHMENT_END -->
 
 ## References
 

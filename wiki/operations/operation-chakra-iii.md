@@ -87,7 +87,7 @@ sources:
   - "[[2024-07-26_indianexpress-com_cbi-busts-cyber-crime-network-operating-from-gurugram-43-arrested]]"
   - "[[2024-07-26_tribuneindia-com_cbi-busts-gurugram-call-centre-that-duped-foreigners-nabs-43-cyber-criminals]]"
 created: 2026-04-10
-updated: "2026-04-26"
+updated: 2026-04-26
 operation_role: umbrella
 parent_operation: ""
 summary: "Operation Chakra-III was the third phase of India's Central Bureau of Investigation (CBI) ongoing multi-phase campaign against transnational cyber-enabled financial crime. Launched in July 2024 with case registration RC2312024S0007, the operation targeted tech-support scam call centers operating from multiple Indian cities — principally Gurugram, Mumbai, Pune, Hyderabad, and Visakhapatnam — that defrauded victims in the United States and other countries. The CBI collaborated with the FBI, Homeland Security Investigations (HSI), and [[interpol|INTERPOL]], resulting in 43 arrests and the seizure of substantial evidence including gold bullion, cash, luxury vehicles, and over 950 electronic devices."
@@ -250,6 +250,29 @@ No known Korean involvement in Operation Chakra-III. However, tech-support scams
 - What is the total estimated financial loss to victims?
 - Have any of the 43 arrested individuals been convicted?
 - What specific INTERPOL tools or databases were used for coordination?
+
+<!-- SOURCE_ENRICHMENT_START -->
+
+## Source Coverage
+
+- News on Air (Gov India), 2024-09-01: CBI Operation Chakra-III Dismantles Virtual Asset Network.
+- The420.in, 2024-10-01: Operation CHAKRA-III: Inside CBI's Explosive Takedown.
+- The New Indian Express, 2024-07-26: Operation CHAKRA-III: CBI arrests 43 operatives of transnational cyber financial crime network.
+- The Indian Express, 2024-07-26: CBI busts cyber crime network operating from Gurugram; 43 arrested.
+- The Tribune, 2024-07-26: CBI busts cyber crime network operating from Haryana's Gurugram; 43 arrested.
+
+## Evidence and Attribution Notes
+
+- Operation Chakra-III was the third phase of India's Central Bureau of Investigation (CBI) ongoing multi-phase campaign against transnational cyber-enabled financial crime.
+- Launched in July 2024 with case registration RC2312024S0007, the operation targeted tech-support scam call centers operating from multiple Indian cities — principally Gurugram, Mumbai, Pune, Hyderabad, and Visakhapatnam — that defrauded victims in the United States and other countries.
+- The CBI collaborated with the FBI, Homeland Security Investigations (HSI), and INTERPOL, resulting in 43 arrests and the seizure of substantial evidence including gold bullion, cash, luxury vehicles, and over 950 electronic devices.
+- The report said CBI arrested 43 operatives as part of Operation CHAKRA-III.
+- It connected the action to international coordination with the FBI and INTERPOL.
+- The New Indian Express reported on the arrests and international coordination in Operation CHAKRA-III.
+- Indian Express reported 43 arrests in the Gurugram call-centre crackdown under Operation CHAKRA-III.
+- The article described the technical-support-scam model and the live interception of operators.
+
+<!-- SOURCE_ENRICHMENT_END -->
 
 ## References
 

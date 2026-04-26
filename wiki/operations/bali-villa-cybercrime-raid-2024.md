@@ -47,7 +47,7 @@ sources:
   - "[4] AP / VOA (2024-06-27)"
   - "[5] The Record (2024-06-28)"
 created: 2026-04-10
-updated: 2026-04-10
+updated: 2026-04-26
 operation_role: umbrella
 parent_operation: ""
 summary: "On June 26, 2024, Indonesian immigration officials raided a villa in the Marga subdistrict of Tabanan regency, Bali, detaining 103 foreign nationals — 91 men and 12 women — suspected of conducting cybercrimes targeting victims in other countries, including Malaysia. The operation was led by the Bali Immigration Directorate and resulted in the seizure of approximately 450 mobile phones and dozens of laptops, printers, routers, and identity cards. Because the alleged victims were located outside Indonesia, authorities determined they could not pursue criminal charges under Indonesian jurisdiction and instead opted for deportation on immigration violations (visa misuse). The raid was described as the largest immigration arrest in Indonesia in 2024."
@@ -190,6 +190,18 @@ No known Korean involvement in this operation. However, the case is relevant to 
 > for this operation. Possible reasons: non-US jurisdiction with no
 > public court records system, sealed proceedings, or operation did
 > not result in formal prosecution.
+
+<!-- SOURCE_ENRICHMENT_START -->
+
+## Source Coverage
+
+- Al Jazeera, 2024-06-28: Indonesia says will deport 103 Taiwanese suspected of cybercrimes in Bali.
+- BenarNews / RFA, 2024-06-28: Indonesia plans to expel 103 Taiwanese caught in cybersecurity crackdown.
+- Taipei Times, 2024-06-29: 103 Taiwanese detained in Bali cybercrime raid.
+- AP / VOA, 2024-06-27: Indonesia detains 103 foreigners in a raid in Bali involving suspected cybercrime.
+- The Record, 2024-06-28: Indonesia arrests over 100 foreigners in Bali suspected of participating in cybercrime.
+
+<!-- SOURCE_ENRICHMENT_END -->
 
 ## References
 | # | Title | Publisher | Date | URL |

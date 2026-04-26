@@ -169,6 +169,29 @@ No Korean law-enforcement participation or Korean victim link is identified in t
 > [!warning] No public court documents found
 > Web search and repository review have not produced a public Nigerian court docket or final judgment for this operation. The priority follow-up is therefore to locate EFCC court filings, Nigerian press releases, or later INTERPOL updates that identify the final procedural result.
 
+<!-- SOURCE_ENRICHMENT_START -->
+
+## Source Coverage
+
+- INTERPOL, 2016-08-01: Ringleader of global network behind thousands of online scams arrested in Nigeria.
+- Ars Technica, 2016-08-01: Nigerian authorities arrest alleged mastermind of $60M worth of online scams.
+- CNN, 2016-08-01: Nigerian man arrested in global, $60 million scam.
+- Deutsche Welle, 2016-08-01: Nigerian arrested for international 60 million dollar online fraud.
+- DOJ D. Conn., 2016-12-22: Nigerian Nationals Charged with Operating Business Compromise Scheme.
+
+## Evidence and Attribution Notes
+
+- INTERPOL's Spanish-language arrest announcement confirms the joint action with EFCC and the USD 60 million online-fraud estimate.
+- The record identifies Trend Micro and Fortinet FortiGuard intelligence as lead-development inputs through INTERPOL IGCI.
+- The source distinguishes victim/infrastructure geographies from confirmed law-enforcement participants.
+- This is the principal primary source for the 2016 Nigerian BEC arrest.
+- It confirms the INTERPOL-EFCC joint operation, the arrest in Port Harcourt, the USD 60 million estimate, the 40-person network across Nigeria/Malaysia/South Africa, and the public-private intelligence chain through Trend Micro, Fortinet FortiGuard Labs, and INTERPOL IGCI.
+- The Spanish-language INTERPOL version of the 2016 Nigeria arrest announcement says the operation was conducted jointly with the EFCC and targeted the alleged ringleader of a network behind thousands of online scams worth more than USD 60 million.
+- It states that the network compromised SME email accounts worldwide and included actors in Nigeria, Malaysia and South Africa, with laundering contacts in China, Europe and the United States.
+- Ars Technica summarized the Port Harcourt arrest and the alleged transnational structure of the online-fraud network.
+
+<!-- SOURCE_ENRICHMENT_END -->
+
 ## References
 
 | # | Title | Publisher | Date | URL |

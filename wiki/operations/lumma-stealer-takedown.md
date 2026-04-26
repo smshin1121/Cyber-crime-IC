@@ -133,7 +133,7 @@ The operation is notable because the cooperation model is explicit in the source
 
 ## Legal and Procedural Posture
 
-- Recorded crime classification: hacking.
+- Recorded crime classification: hacking and malware.
 - Recorded enforcement posture: Seizure and Takedown.
 - Legal or procedural basis recorded in metadata: Budapest Convention.
 - The record is categorized as takedown with status completed.
@@ -142,6 +142,7 @@ The operation is notable because the cooperation model is explicit in the source
 
 - Microsoft says approximately 2,300 Lumma-linked domains were seized, blocked, or redirected.
 - The post names DOJ, Europol EC3, and Japan's JC3 as partners.
+- It is the principal source for the criminal-seizure side of the operation.
 - Microsoft details LummaC2's malware-as-a-service structure and delivery ecosystem.
 - The post confirms that disruption involved approximately 2,300 malicious domains.
 - BleepingComputer reported that 2,300 domains tied to Lumma were disrupted in a joint Microsoft-DOJ-Europol-Japan action.

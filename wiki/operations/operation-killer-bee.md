@@ -160,7 +160,7 @@ Brunei, Cambodia, Indonesia, Laos, Malaysia, Myanmar, Nigeria, Philippines, Sing
 
 ## Legal and Procedural Posture
 
-- Recorded crime classification: BEC.
+- Recorded crime classification: BEC and malware.
 - Recorded enforcement posture: Arrest.
 - The record is categorized as arrest-sweep with status completed.
 

@@ -111,7 +111,7 @@ The DOJ plea release supplies the core defendant-specific facts. WFLA gives loca
 - WTSP coverage at the time of the original takedown announcement, identifying Dove as a Florida defendant.
 - Local Florida coverage of the Welcome to Video takedown affecting Florida defendants.
 - Confirms ICE-HSI parallel agency role and Korean National Police lead.
-- Patch local Florida coverage of the international takedown affecting U.S.
+- Patch local Florida coverage of the international takedown affecting U.S. defendants.
 
 <!-- SOURCE_ENRICHMENT_END -->
 

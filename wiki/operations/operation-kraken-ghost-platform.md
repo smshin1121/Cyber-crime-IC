@@ -77,7 +77,7 @@ sources:
   - "[5] The Record (2024-09-18)"
   - "[6] Information Age / ACS (2024-10-03)"
 created: 2026-04-10
-updated: 2026-04-10
+updated: 2026-04-26
 operation_role: umbrella
 parent_operation: ""
 summary: "Operation Kraken was a multinational law enforcement operation led by the [[australia-afp|Australian Federal Police (AFP)]] and coordinated by [[europol-ec3|Europol]] that dismantled **Ghost**, a dedicated encrypted communications platform built and used exclusively by organized crime networks worldwide. The operation culminated on September 17-18, 2024, with near-simultaneous raids across Australia, Ireland, Italy, Canada, and Sweden. The platform's alleged creator and administrator, **Jay Je Yoon Jung** (32, of New South Wales, Australia), was arrested at his home in Narwee, Sydney."
@@ -317,6 +317,19 @@ No known direct Korean involvement in Operation Kraken or the Ghost platform inv
 6. Have servers seized in France and Iceland yielded evidence leading to arrests beyond the initial 51?
 7. The Europol press release mentions the investigation began in March 2022, but earlier AFP reporting suggested initial detection may have occurred before that. The exact timeline of the AFP's discovery of Ghost is unclear.
 
+<!-- SOURCE_ENRICHMENT_START -->
+
+## Source Coverage
+
+- Australian Federal Police, 2024-09-18: AFP Operation Kraken charges alleged head of global organised crime app.
+- Europol, 2024-11: 12 members of an Irish high-risk criminal network arrested.
+- Reuters, 2024-09-18: Ghost cybercrime platform dismantled in global operation, 51 arrested.
+- The Register, 2024-09-18: 51 arrests made in global takedown of Ghost crime platform.
+- The Record, 2024-09-18: Police announce takedown and arrest mastermind behind criminal comms platform 'Ghost'.
+- Information Age / ACS, 2024-10-03: $9m in crypto seized from accused Ghost app creator.
+
+<!-- SOURCE_ENRICHMENT_END -->
+
 ## References
 
 | # | Title | Publisher | Date | URL |
@@ -327,4 +340,3 @@ No known direct Korean involvement in Operation Kraken or the Ghost platform inv
 | [4] | 51 arrests made in global takedown of Ghost crime platform | The Register | 2024-09-18 | [원본](https://www.theregister.com/2024/09/18/51_arrests_ghost_platform/) |
 | [5] | Police announce takedown and arrest mastermind behind criminal comms platform 'Ghost' | The Record | 2024-09-18 | [원본](https://therecord.media/ghost-encrypted-criminal-communications-takedown-arrests) |
 | [6] | $9m in crypto seized from accused Ghost app creator | Information Age / ACS | 2024-10-03 | [원본](https://ia.acs.org.au/article/2024/9m-in-crypto-seized-from-accused-ghost-app-creator.html) |
-

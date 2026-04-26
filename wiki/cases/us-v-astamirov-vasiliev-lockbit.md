@@ -50,7 +50,7 @@ source_count: 2
 sources:
   - "[[2024-07-18_nj_lockbit-astamirov-vasiliev-pleas]]"
 created: 2026-04-17
-updated: "2026-04-26"
+updated: 2026-04-26
 summary: "United States v. Astamirov and Vasiliev is the New Jersey prosecution in which two LockBit participants pleaded guilty after the broader LockBit disruption campaign. The case is *highly likely* one of the strongest judicial outputs tied to Operation Cronos Phase 1 because it moves beyond seizure announcements into personal culpability, extradition, and admitted victim losses."
 ---
 ## Summary
@@ -115,6 +115,24 @@ South Korea was not identified as a direct participant in this case. The prosecu
 1. The collected source does not provide final sentences for either defendant.
 2. The precise split between evidence gathered before and after the February 2024 disruption is not public.
 3. The role of additional LockBit defendants charged in parallel remains broader than this two-defendant case page captures.
+
+<!-- SOURCE_ENRICHMENT_START -->
+
+## Source Coverage
+
+- US DOJ (District of New Jersey), 2024-07-18: Two Foreign Nationals Plead Guilty to Participation in LockBit Ransomware Group.
+
+## Evidence and Attribution Notes
+
+- On 18 July 2024, the U.S. Attorney's Office for the District of New Jersey announced that Ruslan Magomedovich Astamirov and Mikhail Vasiliev had pleaded guilty in Newark federal court to participation in the LockBit ransomware group.
+- DOJ stated that Astamirov pleaded guilty to conspiracy to commit computer fraud and abuse and conspiracy to commit wire fraud, while Vasiliev pleaded guilty to conspiracy to commit computer fraud and abuse, intentional damage to a protected computer, transmission of a threat, and conspiracy to commit wire fraud.
+- DOJ linked the guilty pleas directly to the February 2024 international disruption of LockBit under Operation Cronos.
+- The release stated that LockBit had attacked more than 2,500 victims in at least 120 countries and that Astamirov alone derived at least USD 1.9 million in ransom payments.
+- Vasiliev was alleged to have deployed LockBit against victims in the United States, the United Kingdom, and Switzerland and was arrested in Canada before extradition to the United States.
+- The case is a strong operation-to-case bridge for Operation Cronos because it turns the multinational infrastructure disruption into individualized guilty pleas, extradition history, and forfeiture admissions.
+- It also makes the international dimension unusually explicit by naming foreign victim jurisdictions and foreign arrest cooperation.
+
+<!-- SOURCE_ENRICHMENT_END -->
 
 ## References
 

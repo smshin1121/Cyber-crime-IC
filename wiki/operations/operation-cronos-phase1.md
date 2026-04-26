@@ -110,7 +110,7 @@ sources:
   - "[[2024-12-04_nationalcrimeagency-gov-uk_operation-destabilise-nca-disrupts-multi-billion-money-laundering-networks]]"
   - "[[2026-01-28_gov-uk_financial-sanctions-guidance-for-ransomware]]"
 created: 2026-04-08
-updated: "2026-04-26"
+updated: 2026-04-26
 operation_role: umbrella
 parent_operation: ""
 summary: "**Operation Cronos Phase 1** was a landmark international law enforcement action that disrupted **LockBit**, the world's most deployed ransomware variant since 2022. On 20 February 2024, agencies from 10 countries executed a coordinated takedown of LockBit's infrastructure, led by the [[uk-nca|UK National Crime Agency]] and coordinated by [[europol-ec3|Europol]] and [[eurojust|Eurojust]]."
@@ -243,6 +243,31 @@ No direct Korean involvement in Operation Cronos Phase 1 was identified. However
 - What specific legal bases (treaty provisions) were invoked for the cross-border arrests in Poland and Ukraine?
 - What was the exact scope and timing of the investigation phase preceding the action day?
 - How many victims were directly assisted by the released decryption tools?
+
+<!-- SOURCE_ENRICHMENT_START -->
+
+## Source Coverage
+
+- Europol, 2024-02-20: Law enforcement disrupt world's biggest ransomware operation - Operation Cronos (LockBit).
+- Foreign, Commonwealth & Development Office, 2024-05-07: UK and Allies Sanction Prolific Cyber Hacker.
+- US DOJ (District of New Jersey), 2024-07-18: Two Foreign Nationals Plead Guilty to Participation in LockBit Ransomware Group.
+- DOJ NJ, 2024-07-22: LockBit case summary page.
+- Europol, 2024-10-01: Operation Cronos Phase 3.
+- National Crime Agency, 2024-12-04: Operation Destabilise: NCA disrupts multi-billion money laundering networks.
+- Office of Financial Sanctions Implementation, 2026-01-28: Financial sanctions guidance for ransomware.
+
+## Evidence and Attribution Notes
+
+- Operation Cronos Phase 1 disrupted LockBit, the world's most deployed ransomware since 2022, on 20 February 2024
+- 10 countries participated with 12 agencies, led by UK NCA, coordinated by Europol and Eurojust
+- 34 servers seized across 8 countries, 2 arrests (Poland, Ukraine), 5 indictments, 200+ cryptocurrency accounts frozen
+- Free decryption tools released on No More Ransom portal covering 150+ ransomware types
+- Europol organized 27 operational meetings and 4 technical sprints; 1,000+ SIENA messages exchanged
+- On 20 February 2024, law enforcement agencies from 10 countries disrupted the LockBit ransomware operation in a joint action known as **Operation Cronos**, led by the UK's National Crime Agency and coordinated by Europol and Eurojust.
+- LockBit had been the most deployed ransomware variant worldwide since 2022, having emerged in late 2019.
+- The operation resulted in the seizure of 34 servers across 8 countries, 2 arrests, 5 indictments, the freezing of over 200 cryptocurrency accounts, and the identification of 14,000 rogue accounts for removal.
+
+<!-- SOURCE_ENRICHMENT_END -->
 
 ## References
 

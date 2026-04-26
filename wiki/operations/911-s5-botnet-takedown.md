@@ -123,7 +123,7 @@ United States, Germany, Singapore, Thailand
 
 - This DOJ Office of Public Affairs release is the principal public description of the May 2024 911 S5 disruption.
 - It provides the operation date, arrest timing, global infection scale, and the seizure figures most useful for the corresponding operation and case pages.
-- Department of Justice and FBI, in cooperation with Germany, Singapore, and Thailand, dismantled the 911 S5 botnet -- the world's largest botnet, which had infected over 19 million IP addresses across nearly 200 countries.
+- The U.S. Department of Justice and FBI, in cooperation with Germany, Singapore, and Thailand, dismantled the 911 S5 botnet -- the world's largest botnet, which had infected over 19 million IP addresses across nearly 200 countries.
 - The botnet had been used to facilitate large-scale fraud, identity theft, child sexual exploitation, bomb threats, and illegal financial transactions.
 - IC3 described 911 S5 as one of the largest residential proxy services and botnets, with more than 19 million compromised IP addresses in over 190 countries.
 - The advisory identified the VPN applications tied to the proxy backdoor, including MaskVPN, DewVPN, PaladinVPN, ProxyGate, ShieldVPN, and ShineVPN.

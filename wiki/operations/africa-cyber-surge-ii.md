@@ -73,7 +73,7 @@ sources:
   - "[[2023-08-18_kaspersky_assists-interpol-in-operation-to-disrupt-cybercrime-in-african-countries]]"
   - "[[2023-08-18_therecord-media_africa-cyber-surge-14-arrests-interpol]]"
 created: 2026-04-08
-updated: "2026-04-26"
+updated: 2026-04-26
 operation_role: umbrella
 parent_operation: ""
 summary: "Africa Cyber Surge II was an INTERPOL-AFRIPOL operation across 25 African countries that produced 14 arrests, mapped more than 20,000 suspicious networks, and linked over USD 40 million in losses to cyber-enabled crime."
@@ -152,6 +152,29 @@ Africa Cyber Surge II combined supranational coordination with operational assis
 - Public reporting is consistent on the headline metrics, but it does not disclose a full list of all 25 participating states.
 - Arrest counts are clear; prosecution and conviction outcomes remain opaque at the country level.
 - It remains unclear how many of the 20,674 suspicious networks were directly remediated versus only mapped or referred onward.
+
+<!-- SOURCE_ENRICHMENT_START -->
+
+## Source Coverage
+
+- INTERPOL, 2023-08-18: Cybercrime: 14 arrests, thousands of illicit cyber networks disrupted in Africa operation.
+- Council of Europe, 2023-06-30: GLACY+ supports INTERPOL’s Africa Cyber Surge Operation II.
+- Group-IB, 2023-08-18: Group-IB makes key contribution to INTERPOL-led Africa Cyber Surge II operation, leading to arrests of 14 suspects.
+- Kaspersky, 2023-08-18: Kaspersky assists INTERPOL in operation to disrupt cybercrime in African countries.
+- The Record, 2023-08-18: Africa Cyber Surge 14 Arrests Interpol.
+
+## Evidence and Attribution Notes
+
+- INTERPOL and AFRIPOL coordinated Africa Cyber Surge II across 25 African countries.
+- The operation led to 14 arrests, the identification of 20,674 suspicious cyber networks, and the reporting of more than USD 40 million in linked losses.
+- INTERPOL listed concrete operational highlights in Cameroon, Nigeria, Mauritius, Gambia, and Kenya.
+- This is the anchor official source for Africa Cyber Surge II.
+- The Council of Europe documented its GLACY+ support for the Africa Cyber Surge II tabletop exercise and operational preparation in Tanzania.
+- The page confirms the training and capacity-building layer that preceded the action phase.
+- This Council of Europe page is valuable because it shows the preparatory capacity-building and training work behind Africa Cyber Surge II.
+- Group-IB described its intelligence contribution to Africa Cyber Surge II.
+
+<!-- SOURCE_ENRICHMENT_END -->
 
 ## References
 

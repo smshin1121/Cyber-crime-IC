@@ -78,7 +78,7 @@ sources:
   - "[[2024-04-11_openzambia-com_chinese-crime-syndicate-raided-in-lusaka]]"
   - "[[2024-06-11_lusakatimes-com_22-chinese-nationals-sentenced-to-long-prison-terms-in-zambia-for-multinational-cybercrimes]]"
 created: 2026-04-08
-updated: 2026-04-14
+updated: 2026-04-26
 operation_role: umbrella
 parent_operation: ""
 summary: "In **April 2024**, Zambian authorities raided the **Golden Top Support Services** call center in Roma, a suburb of Lusaka, resulting in **77 arrests** — including 22 Chinese nationals (who subsequently pleaded guilty in June 2024), 1 Cameroonian, and 54 Zambian youths aged 20-25 (Source: [[2024-06-05-therecord-zambia-golden-top-guilty-pleas]], [[2024-04-15-bitdefender-zambia-golden-top-arrests]]). The raid was led by Zambia's **Drug Enforcement Commission (DEC)** in coordination with Zambia Police, immigration, and anti-terrorism unit. Seizures included vehicles, two firearms, 97 desktop PCs, 13,000+ SIM cards, 11 SIM boxes, and 6 properties."
@@ -158,6 +158,32 @@ No Korean involvement identified. However, Korean nationals have been targets an
 > for this operation. Possible reasons: non-US jurisdiction with no
 > public court records system, sealed proceedings, or operation did
 > not result in formal prosecution.
+
+<!-- SOURCE_ENRICHMENT_START -->
+
+## Source Coverage
+
+- The Record from Recorded Future News, 2024-06-05: Chinese nationals plead guilty to running Zambia scam operation.
+- Bitdefender (Hot for Security blog), 2024-04-15: Zambia arrests 77 people in swoop on 'scam' call centre.
+- Associated Press, 2024-06-07: 22 Chinese nationals sentenced to long prison terms in Zambia for multinational cybercrimes.
+- Bitdefender (Hot for Security), 2024-04-15: Zambia arrests 77 people in swoop on 'scam' call centre.
+- The Record (Recorded Future News), 2024-06-05: Chinese nationals plead guilty to running Zambia scam operation.
+- Zambia Monitor, 2024-06-08: 22 Chinese nationals, one Cameroonian jailed 7 years with hard labour for cybercrime.
+- Open Zambia, 2024-04-11: Chinese Crime Syndicate Raided in Lusaka.
+- Lusaka Times, 2024-06-11: 22 Chinese nationals sentenced to long prison terms in Zambia for multinational cybercrimes.
+
+## Evidence and Attribution Notes
+
+- 77 individuals arrested in April 2024 raid on Golden Top Support Services in Lusaka.
+- 22 Chinese nationals pled guilty to computer-related misrepresentation, identity crimes, illegal network operation.
+- Victims targeted in Singapore, Peru, UAE, and other African nations.
+- In **April 2024**, Zambian authorities raided the **Golden Top Support Services** call center in Roma, a suburb of Lusaka, resulting in **77 arrests** — including 22 Chinese nationals (who subsequently pleaded guilty in June 2024), 1 Cameroonian, and 54 Zambian youths aged 20-25 (Source: 2024 06 05 Therecord Zambia Golden Top Guilty Pleas, 2024 04 15.
+- The raid was led by Zambia's **Drug Enforcement Commission (DEC)** in coordination with Zambia Police, immigration, and anti-terrorism unit.
+- Seizures included vehicles, two firearms, 97 desktop PCs, 13,000+ SIM cards, 11 SIM boxes, and 6 properties.
+- Raid on Golden Top Support Services in Roma district, Lusaka (Chinese-run operation).
+- Seizures: vehicles, firearms, 97 desktop PCs, 13,000+ SIM cards, 11 SIM boxes, 6 properties.
+
+<!-- SOURCE_ENRICHMENT_END -->
 
 ## References
 

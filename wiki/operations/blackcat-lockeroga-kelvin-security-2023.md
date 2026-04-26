@@ -77,7 +77,7 @@ sources:
   - "[[2023-12-19_cisa-gov_stopransomware-alphv-blackcat]]"
   - "[[2023-12-19_bleepingcomputer_fbi-disrupts-blackcat-ransomware-operation-creates-decryption-tool]]"
 created: 2026-04-08
-updated: 2026-04-18
+updated: 2026-04-26
 operation_role: umbrella
 parent_operation: ""
 summary: "This page groups three separate official enforcement actions announced in late November and December 2023 that respectively targeted ALPHV/BlackCat, a LockerGoga-linked ransomware affiliate group, and Kelvin Security."
@@ -173,6 +173,29 @@ No Korean involvement identified.
 > for this operation. Possible reasons: non-US jurisdiction with no
 > public court records system, sealed proceedings, or operation did
 > not result in formal prosecution.
+
+<!-- SOURCE_ENRICHMENT_START -->
+
+## Source Coverage
+
+- US Department of Justice, 2023-12-19: Justice Department Disrupts Prolific ALPHV/Blackcat Ransomware Variant.
+- Eurojust, 2023-11-28: Ransomware group dismantled in Ukraine in a major international operation supported by Eurojust and Europol.
+- Ministry of the Interior of Spain, 2023-12-11: La Policía Nacional detiene al líder del aparato financiero de uno de los grupos hacktivistas más importantes del mundo.
+- CISA / FBI / HHS, 2023-12-19: StopRansomware: ALPHV Blackcat.
+- BleepingComputer, 2023-12-19: FBI disrupts BlackCat ransomware operation, creates decryption tool.
+
+## Evidence and Attribution Notes
+
+- This is the principal official U.S. source for the December 2023 ALPHV/BlackCat disruption action.
+- Eurojust reported that authorities from seven countries acted against a ransomware group linked to attacks on more than 1,800 victims in 71 countries.
+- The action in Ukraine led to the arrest of a ringleader, the detention of four suspects, and more than 30 searches.
+- The group was tied to losses of at least several hundred million euros.
+- This is an official European judicial source for the late-November 2023 Ukraine action tied to LockerGoga-linked ransomware activity.
+- Spain's National Police announced the arrest in Alicante of a person allegedly linked to Kelvin Security.
+- The release described Kelvin Security as responsible for attacks on more than 300 organizations in more than 90 countries over three years.
+- The public statement identified alleged offenses including criminal organization membership, disclosure of secrets, computer damage, and money laundering.
+
+<!-- SOURCE_ENRICHMENT_END -->
 
 ## References
 

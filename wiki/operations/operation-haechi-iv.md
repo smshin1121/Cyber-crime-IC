@@ -194,7 +194,7 @@ South Korea leads the HAECHI series through the [[knpa-cyber-bureau|KNPA]]. In H
 
 ## Legal and Procedural Posture
 
-- Recorded crime classification: online fraud.
+- Recorded crime classification: online fraud and BEC.
 - Recorded enforcement posture: Arrest and Asset Freeze.
 - The record is categorized as arrest-sweep with status completed.
 

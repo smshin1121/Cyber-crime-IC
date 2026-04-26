@@ -43,7 +43,7 @@ source_count: 2
 sources:
   - "[[2024-07-15_cdca_miller-poweroff-sentencing]]"
 created: 2026-04-17
-updated: "2026-04-26"
+updated: 2026-04-26
 summary: "United States v. Jeremiah Sam Evans Miller is the Central District of California prosecution of a RoyalStresser.com operator whose case formed part of Operation PowerOFF. The case is *likely* one of the most concrete publicly traceable U.S. prosecutorial outcomes tied to that broader multinational booter-service campaign."
 ---
 ## Summary
@@ -106,6 +106,23 @@ South Korea was not directly involved in Miller's case. The case is still *poten
 1. The public case materials do not specify the precise foreign-partner evidence tied to Miller personally.
 2. The public record remains clearer on Miller than on some other PowerOFF defendants, creating an uneven case-level picture of the broader operation.
 3. The exact deterrent impact of individual sentencings within PowerOFF remains unmeasured.
+
+<!-- SOURCE_ENRICHMENT_START -->
+
+## Source Coverage
+
+- US DOJ (Central District of California), 2024-07-15: Texas Man Sentenced to 9 Months in Federal Prison for Operating Website that Offered Computer Attack Services.
+
+## Evidence and Attribution Notes
+
+- On 15 July 2024, the U.S. Attorney's Office for the Central District of California announced that Jeremiah Sam Evans Miller had been sentenced to nine months in federal prison for operating the DDoS-for-hire service RoyalStresser.com, previously known as Supremesecurityteam.com.
+- Miller had pleaded guilty on 6 April 2023 to conspiracy and substantive Computer Fraud and Abuse Act charges.
+- The case formed part of Operation PowerOFF, the multinational campaign against booter and stresser services.
+- DOJ stated that RoyalStresser was one of the services targeted in the December 2022 enforcement wave in which prosecutors in Los Angeles and Alaska charged six defendants and authorities seized 48 related domains.
+- Although the prosecution itself was domestic, the case is highly relevant to international-cooperation analysis because DOJ expressly placed it within Operation PowerOFF, an operation involving the FBI, UK National Crime Agency, Dutch Police, and other foreign partners.
+- The public record therefore supports the inference that Miller's case was one prosecutorial output of a broader coordinated cross-border infrastructure-disruption effort.
+
+<!-- SOURCE_ENRICHMENT_END -->
 
 ## References
 

@@ -80,7 +80,7 @@ sources:
   - "[[2021-02-04_greekreporter_greek-led-crime-ring-busted-for-stealing-millions-from-us-banks]]"
 summary: "This follow-on operation page captures the public enforcement results of Operation Secreto, a Europol-coordinated and U.S. Secret Service-supported action against a transatlantic payment-card fraud and laundering network."
 created: 2026-04-18
-updated: "2026-04-26"
+updated: 2026-04-26
 ---
 
 > [!note] Source basis
@@ -128,6 +128,37 @@ The public record shows a hybrid financial-crime cooperation model. Europol hand
 
 - Public reporting consistently gives the operational totals, but it does not identify downstream court outcomes for the 105 arrested suspects.
 - Secondary reporting emphasizes Greek leadership of the network, while official sources are more careful and do not fully enumerate every leadership role by name.
+
+<!-- SOURCE_ENRICHMENT_START -->
+
+## Source Coverage
+
+- Europol, 2021-02-01: 105 Arrested for Stealing Over EUR 12 Million from US-Based Banks.
+- United States Secret Service, 2021-02-03: 105 Arrested for Stealing Over EUR 12 Million from U.S.-based Banks.
+- Policía Nacional España, 2021-02-03: La Policía Nacional y el Servicio Secreto de los EEUU desarticulan una organización que habría defraudado más de 12.000.000 de euros.
+- CISO MAG, 2021-02-09: Operation SECRETO: Europol Busts International Cybercriminal Group.
+- Greek Reporter, 2021-02-04: Greek-Led Crime Ring Busted for Stealing Millions From US Banks.
+
+## Legal and Procedural Posture
+
+- Recorded crime classification: Bank Fraud Ic, Carding Fraud Ic, money laundering.
+- Recorded enforcement posture: Arrest, Search, Asset Freeze.
+- Legal or procedural basis recorded in metadata: informal cooperation.
+- The record is categorized as prosecution with status completed.
+- Related legal or operational records: 105 Arrested For Stealing Over Eur 12 Million From Us Based Banks.
+
+## Evidence and Attribution Notes
+
+- Operation Secreto, led by the Spanish National Police and U.S. Secret Service with coordination by Europol, dismantled a credit card fraud and money laundering organization that targeted U.S.-based banks.
+- The operation resulted in the arrest of 105 individuals across Spain, the United States, Austria, Denmark, and Greece.
+- The criminal network had caused over EUR 12 million in damages through fraudulent use of stolen credit card data.
+- The Secret Service described the action as a cross-border operation led with the Spanish National Police and coordinated by Europol.
+- The release lists 105 arrests, 88 house searches, 87 frozen accounts worth EUR 1.3 million, and 19 European arrest warrants.
+- This is the clearest U.S. government counterpart to Europol's Operation Secreto announcement.
+- The Spanish National Police described the case as the largest card-fraud investigation carried out to date against a network that defrauded more than EUR 12 million.
+- The release adds Spanish operational detail including the Miajadas hotel base, activity in 24 Spanish provinces, and simultaneous searches in four European countries.
+
+<!-- SOURCE_ENRICHMENT_END -->
 
 ## References
 

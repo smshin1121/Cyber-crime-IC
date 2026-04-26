@@ -6,7 +6,7 @@ created: 2026-04-08
 updated: 2026-04-20
 ---
 
-# Analysis (22)
+# Analysis (24)
 
 | Analysis | Type | Confidence | Scope | Date |
 |----------|------|------------|-------|------|
@@ -18,6 +18,8 @@ updated: 2026-04-20
 | [[international-cooperation-operation-audit-2026-04]] | — | — | — | 2026-04-19 |
 | [[low-priority-integrity-repair-2026-04-26]] | — | — | — | 2026-04-26 |
 | [[multicountry-low-source-survey-2026-04-22]] | — | — | — | 2026-04-22 |
+| [[multisource-content-enrichment-2026-04-26]] | — | — | — | 2026-04-26 |
+| [[multisource-content-enrichment-queue-2026-04-26]] | — | — | — | 2026-04-26 |
 | [[operation-audit-queue-2026-04]] | — | — | — | 2026-04-19 |
 | [[operation-low-source-triage-2026-04-22]] | — | — | — | 2026-04-22 |
 | [[operation-source-density-audit-2026-04-22]] | — | — | — | 2026-04-22 |

@@ -177,7 +177,7 @@ Portugal, United States, Spain, United Kingdom, Latvia, Bulgaria, Georgia, Italy
 
 ## Legal and Procedural Posture
 
-- Recorded crime classification: money laundering.
+- Recorded crime classification: money laundering and malware.
 - Recorded enforcement posture: Arrest and Seizure.
 - The record is categorized as arrest-sweep with status completed.
 

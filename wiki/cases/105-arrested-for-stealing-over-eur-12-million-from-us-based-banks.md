@@ -82,13 +82,14 @@ The repository does not yet contain the downstream national court dockets for th
 
 ## Evidence and Attribution Notes
 
-- Operation Secreto, led by the Spanish National Police and U.S.
-- Secret Service with coordination by Europol, dismantled a credit card fraud and money laundering organization that targeted U.S.-based banks.
+- Operation Secreto, led by the Spanish National Police and U.S. Secret Service with coordination by Europol, dismantled a credit card fraud and money laundering organization that targeted U.S.-based banks.
 - The operation resulted in the arrest of 105 individuals across Spain, the United States, Austria, Denmark, and Greece.
 - The criminal network had caused over EUR 12 million in damages through fraudulent use of stolen credit card data.
 - The Secret Service described the action as a cross-border operation led with the Spanish National Police and coordinated by Europol.
 - The release lists 105 arrests, 88 house searches, 87 frozen accounts worth EUR 1.3 million, and 19 European arrest warrants.
+- This is the clearest U.S. government counterpart to Europol's Operation Secreto announcement.
 - The Spanish National Police described the case as the largest card-fraud investigation carried out to date against a network that defrauded more than EUR 12 million.
+- The release adds Spanish operational detail including the Miajadas hotel base, activity in 24 Spanish provinces, and simultaneous searches in four European countries.
 
 <!-- SOURCE_ENRICHMENT_END -->
 

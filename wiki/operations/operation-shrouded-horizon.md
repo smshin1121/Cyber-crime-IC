@@ -139,6 +139,9 @@ The operation was coordinated through Europol's European Cybercrime Centre (EC3)
 
 - Wired, 2015-07: Dozens Nabbed Takedown Cybercrime Forum Darkode.
 - FBI, 2015-07-15: Cyber Criminal Forum Taken Down.
+- washingtonpost.com, 2015-07-15: Dd4Cf514 2B05 11E5 A5Ea Cf74396E59Ec Story.
+- archive.triblive.com, 2015-07-15: Details Emerge On Global Internet Crime Sting Led By Pittsburgh Fbi Agents.
+- threatpost.com, 2015-07-15: 113800.
 
 ## Operational Timeline
 
@@ -150,9 +153,8 @@ The operation was coordinated through Europol's European Cybercrime Centre (EC3)
 
 ## Legal and Procedural Posture
 
-- Recorded crime classification: hacking.
+- Recorded crime classification: malware.
 - The record is categorized as takedown with status completed.
-- The operation is catalogued as a coordinated disruption rather than only a domestic prosecution because the public record links FBI and DOJ action with Europol, NCFTA, and country-level partner activity across the 20-country enforcement footprint.
 
 <!-- SOURCE_ENRICHMENT_END -->
 

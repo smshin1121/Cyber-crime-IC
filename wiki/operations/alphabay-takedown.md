@@ -119,7 +119,7 @@ sources:
   - "[[2017-07-20-fbi-alphabay-takedown]]"
   - "[[unodc-alphabay-true-crime-story]]"
 created: 2026-04-10
-updated: "2026-04-26"
+updated: 2026-04-26
 operation_role: umbrella
 parent_operation: ""
 summary: "Operation Bayonet was a multinational law enforcement operation that dismantled **AlphaBay** and **Hansa** -- the world's two largest darknet marketplaces -- in **July 2017**. The operation was led by the [[fbi-cyber-division|FBI]] and the US Drug Enforcement Administration (DEA) for the AlphaBay component, while the [[netherlands-politie|Dutch National Police (NHTCU)]] led the Hansa component, with [[europol-ec3|Europol]] coordinating the overall strategy."
@@ -354,6 +354,29 @@ South Korea was **not among the participating countries** in Operation Bayonet. 
 4. **Legal authority for covert marketplace operation:** The legal basis under which Dutch police operated Hansa -- effectively facilitating 27,000 illegal transactions -- has not been publicly challenged in court but raises unresolved questions about the boundaries of undercover operations in the digital domain.
 
 5. **AlphaBay relaunch (2021):** A new AlphaBay launched in August 2021 by "DeSnake" (self-described original co-founder and security administrator). The relationship between DeSnake and the original operation remains an open question for law enforcement.
+
+<!-- SOURCE_ENRICHMENT_START -->
+
+## Source Coverage
+
+- Europol, 2017-07-20: Massive blow to criminal Dark Web activities after globally coordinated operation.
+- US Department of Justice (Office of Public Affairs), 2017-07-20: AlphaBay, the Largest Online 'Dark Market,' Shut Down.
+- US Drug Enforcement Administration, 2017-07-20: AlphaBay, Largest Online 'Dark Market,' Shut Down.
+- US Federal Bureau of Investigation, 2017-07-20: AlphaBay Takedown.
+- UN Office on Drugs and Crime (UNODC), --: True Crime Story: AlphaBay.
+
+## Evidence and Attribution Notes
+
+- AlphaBay had 200,000+ users and 40,000 vendors; over USD 1 billion transacted since 2014.
+- Main suspect arrested in Thailand; two Hansa administrators arrested in Germany.
+- Servers seized in Canada, Netherlands, Germany, and Lithuania; millions in cryptocurrencies frozen.
+- DOJ official announcement of AlphaBay takedown, July 20, 2017.
+- Alexandre Cazes identified as administrator; arrested in Thailand on 5 July 2017.
+- Civil forfeiture action filed in US District Court, Eastern District of California.
+- Operation Bayonet was a multinational law enforcement operation that dismantled **AlphaBay** and **Hansa** -- the world's two largest darknet marketplaces -- in **July 2017**.
+- The operation was led by the FBI and the US Drug Enforcement Administration (DEA) for the AlphaBay component, while the Dutch National Police (NHTCU) led the Hansa component, with Europol coordinating the overall strategy.
+
+<!-- SOURCE_ENRICHMENT_END -->
 
 ## References
 

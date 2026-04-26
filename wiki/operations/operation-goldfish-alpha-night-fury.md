@@ -147,7 +147,7 @@ Indonesia, Malaysia, Thailand, Philippines, Singapore, Vietnam, Myanmar, and oth
 
 ## Legal and Procedural Posture
 
-- Recorded crime classification: malware.
+- Recorded crime classification: malware, BEC, ransomware.
 - Recorded enforcement posture: Arrest and Takedown.
 - The record is categorized as arrest-sweep with status completed.
 
@@ -159,6 +159,7 @@ Indonesia, Malaysia, Thailand, Philippines, Singapore, Vietnam, Myanmar, and oth
 - Operation Night Fury resulted in 3 arrests in Indonesia of operators of a Magecart-style JavaScript skimmer (GetBilling), carried out with private-sector intelligence support from Group-IB
 - Craig Jones, INTERPOL Director of Cybercrime, quoted: 'In today's highly digitalized world, the sooner countries are aware of a threat, the sooner they can take steps to mitigate the risk' — framing the operations as part of INTERPOL's intelligence-led regional cooperation model
 - ASEAN scope: Indonesia, Malaysia, Thailand, Philippines, Singapore, Vietnam, Myanmar (and possibly other ASEAN member states) are within the ASEAN Cybercrime Operations Desk's mandate, though the specific country attribution for each arrest varies
+- The press release is notable for bundling a mitigation-metric-focused operation (Goldfish Alpha: 78% router cleanup) with an arrest-focused operation (Night Fury: 3 suspects) under a single regional cybercrime narrative — a distinct INTERPOL reporting pattern that differs from Europol or FBI announcement styles
 - Group-IB described its direct support to Operation Night Fury and identified the targeted malware family as GetBilling, a Magecart-style JavaScript skimmer.
 
 <!-- SOURCE_ENRICHMENT_END -->

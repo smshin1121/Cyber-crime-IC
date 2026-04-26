@@ -137,7 +137,7 @@ sources:
   - "[[2022-11-01_gbhackers-com_operation-haechi-iii-interpol-arrested-1000-cyber-criminals-seized-130-million]]"
   - "[[2022-11-01_therecord-media_almost-1-000-suspects-arrested-in-interpol-operation-which-seized-over-129-milli]]"
 created: 2026-04-10
-updated: "2026-04-26"
+updated: 2026-04-26
 operation_role: umbrella
 parent_operation: ""
 summary: "Operation HAECHI-III was the third in INTERPOL's annual HAECHI series of operations targeting cyber-enabled financial crime. Running from **28 June to 23 November 2022**, it was coordinated by INTERPOL's Financial Crime and Anti-Corruption Centre (IFCACC) and involved **30 countries** acting through their respective INTERPOL National Central Bureaus (NCBs). The operation resulted in **975 arrests**, the resolution of **1,600+ cases**, and the seizure/interception of approximately **USD 130 million** in virtual assets and illicit funds."
@@ -313,6 +313,24 @@ Korea's leadership role in the HAECHI series is consistent with its broader comm
 > for this operation. Possible reasons: non-US jurisdiction with no
 > public court records system, sealed proceedings, or operation did
 > not result in formal prosecution.
+
+<!-- SOURCE_ENRICHMENT_START -->
+
+## Source Coverage
+
+- INTERPOL, 2022-11-24: Cyber-enabled financial crime: USD 130 million intercepted in global INTERPOL police operation.
+- Bleeping Computer, 2022-11-24: Interpol seized $130 million from cybercriminals worldwide.
+- The Hacker News, 2022-11-24: Interpol Seized $130 Million from Cybercriminals in Global "HAECHI-III" Crackdown.
+- GBHackers, 2022-11-01: Operation HAECHI III - INTERPOL Arrested 1000 Cyber Criminals & Seized $130 Million.
+- The Record (Recorded Future News), 2022-11-01: Almost 1,000 suspects arrested in Interpol operation which seized over $129 million.
+
+## Evidence and Attribution Notes
+
+- Operation HAECHI-III was the third in INTERPOL's annual HAECHI series of operations targeting cyber-enabled financial crime.
+- Running from **28 June to 23 November 2022**, it was coordinated by INTERPOL's Financial Crime and Anti-Corruption Centre (IFCACC) and involved **30 countries** acting through their respective INTERPOL National Central Bureaus (NCBs).
+- The operation resulted in **975 arrests**, the resolution of **1,600+ cases**, and the seizure/interception of approximately **USD 130 million** in virtual assets and illicit funds.
+
+<!-- SOURCE_ENRICHMENT_END -->
 
 ## References
 

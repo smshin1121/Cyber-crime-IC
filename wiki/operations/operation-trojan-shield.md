@@ -89,7 +89,7 @@ sources:
   - "[[2021-06-08_sdca_anom-enterprise-indictment]]"
   - "[[2026-04-17_justice-gov_distributor-anom-hardened-encrypted-devices-sentenced-63-months-prison-racketeer]]"
 created: 2026-04-12
-updated: 2026-04-18
+updated: 2026-04-26
 operation_role: umbrella
 parent_operation: ""
 organizations:
@@ -175,6 +175,29 @@ The scale matters because the operation turned encrypted communications themselv
 ## Follow-Up Actions
 
 Trojan Shield produced downstream prosecutions and defendant-specific enforcement pages, including [[us-v-anom-distributors]] and its linked follow-on operation [[operation-us-v-anom-distributors]]. It also became a benchmark example for later discussions about the limits and possibilities of lawful access to criminal communications services.
+
+<!-- SOURCE_ENRICHMENT_START -->
+
+## Source Coverage
+
+- US Federal Bureau of Investigation, 2021-06-08: FBI and Global Partners Announce Results of Operation Trojan Shield.
+- Europol, 2021-06-08: 800 criminals arrested in biggest ever law enforcement operation against encrypted communication.
+- FBI, 2021-06-08: FBI and Global Partners Announce Results of Operation Trojan Shield.
+- US DOJ (Southern District of California), 2021-06-08: FBI’s Encrypted Phone Platform Infiltrated Hundreds of Criminal Syndicates; Result is Massive Worldwide Takedown.
+- justice.gov, 2026-04-17: Distributor of ANOM Hardened Encrypted Devices Sentenced to 63 Months in Prison for Racketeering Conspiracy.
+
+## Evidence and Attribution Notes
+
+- FBI official announcement of Operation Trojan Shield results (8 June 2021).
+- Over 800 arrests across 16+ countries; 27 million encrypted messages reviewed.
+- FBI-AFP joint-developed AN0M encrypted device platform; 12,000+ devices distributed.
+- Operation Trojan Shield was a multi-year undercover operation in which the FBI and the Australian Federal Police helped place AN0M encrypted devices into transnational criminal networks, then used court-authorized access to those communications to support coordinated arrests and seizures.
+- Official FBI and Europol statements describe it as the largest law-enforcement operation ever mounted against encrypted criminal communications.
+- FBI, Dutch National Police, and Swedish Police Authority supported by Europol and 16 partner countries.
+- 700+ house searches, 800+ arrests, 8 tons cocaine, 22 tons cannabis, 250 firearms, $48M+ seized.
+- AN0M platform: 12,000+ devices, 300+ criminal syndicates across 100+ countries, 27 million messages reviewed over 18 months.
+
+<!-- SOURCE_ENRICHMENT_END -->
 
 ## References
 

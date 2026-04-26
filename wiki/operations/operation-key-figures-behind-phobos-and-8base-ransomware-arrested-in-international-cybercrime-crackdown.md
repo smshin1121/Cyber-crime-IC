@@ -91,6 +91,22 @@ The underlying public case record identifies Key figures behind Phobos and 8Base
 - Case anchor: [[key-figures-behind-phobos-and-8base-ransomware-arrested-in-international-cybercrime-crackdown]]
 - Source coverage: 5 official or catalogued source page(s)
 
+
+<!-- RAW_TEXT_HIGHLIGHTS_START -->
+
+## Raw Source Highlights
+
+- US DOJ USAO, 2024-11-18: Attorney's Office, District of Maryland Russian National Alleged to have Coordinated Sale, Distribution, and Operation of Phobos Ransomware as Part of International Hacking Conspiracy Baltimore, Maryland – The Justice Department unsealed criminal charges today against Evgenii Ptitsyn, 42, a Russian national, for allegedly administering.
+- US DOJ USAO, 2024-11-18: “According to the indictment, Ptitsyn facilitated the worldwide use of a dangerous ransomware strain to target corporations and various organizations, including government agencies, healthcare facilities, educational institutions, and critical infrastructure.
+- US DOJ USAO, 2024-11-18: “Evgenii Ptitsyn allegedly extorted millions of dollars of ransom payments from thousands of victims and now faces justice in the United States thanks to the hard work and ingenuity of law enforcement agencies around the world — from the Republic of Korea to Japan to Europe and finally to Baltimore, Maryland.
+- US DOJ USAO, 2024-11-18: Ptitsyn’s indictment, arrest, and extradition reflect the Criminal Division’s commitment to leading the fight against the international scourge of ransomware.
+- U.S. Department of Justice, 2026-04-18: Department of Justice title="About" title="News" title="Guidance & Resources" Justice.gov Office of Public Affairs Phobos Ransomware Administrator Extradited From South Korea To Face Cybercrime Charges This is archived content from the U.S.
+- U.S. Department of Justice, 2026-04-18: “The Justice Department is committed to leveraging the full range of our international partnerships to combat the threats posed by ransomware like Phobos,” said Deputy Attorney General Lisa Monaco.
+- U.S. Department of Justice, 2026-04-18: “Evgenii Ptitsyn allegedly extorted millions of dollars of ransom payments from thousands of victims and now faces justice in the United States thanks to the hard work and ingenuity of law enforcement agencies around the world — from the Republic of Korea to Japan to Europe and finally to Baltimore, Maryland.
+- U.S. Department of Justice, 2026-04-18: Ptitsyn’s indictment, arrest, and extradition reflect the Criminal Division’s commitment to leading the fight against the international scourge of ransomware.
+
+<!-- RAW_TEXT_HIGHLIGHTS_END -->
+
 <!-- SOURCE_ENRICHMENT_START -->
 
 ## Source Coverage
@@ -130,21 +146,6 @@ The underlying public case record identifies Key figures behind Phobos and 8Base
 - Law enforcement warned over 400 companies worldwide of ongoing or imminent ransomware attacks.
 
 <!-- SOURCE_ENRICHMENT_END -->
-
-<!-- RAW_TEXT_HIGHLIGHTS_START -->
-
-## Raw Source Highlights
-
-- US DOJ USAO, 2024-11-18: Attorney's Office, District of Maryland Russian National Alleged to have Coordinated Sale, Distribution, and Operation of Phobos Ransomware as Part of International Hacking Conspiracy Baltimore, Maryland – The Justice Department unsealed criminal charges today against Evgenii Ptitsyn, 42, a Russian national, for allegedly administering.
-- US DOJ USAO, 2024-11-18: “According to the indictment, Ptitsyn facilitated the worldwide use of a dangerous ransomware strain to target corporations and various organizations, including government agencies, healthcare facilities, educational institutions, and critical infrastructure.
-- US DOJ USAO, 2024-11-18: “Evgenii Ptitsyn allegedly extorted millions of dollars of ransom payments from thousands of victims and now faces justice in the United States thanks to the hard work and ingenuity of law enforcement agencies around the world — from the Republic of Korea to Japan to Europe and finally to Baltimore, Maryland.
-- US DOJ USAO, 2024-11-18: Ptitsyn’s indictment, arrest, and extradition reflect the Criminal Division’s commitment to leading the fight against the international scourge of ransomware.
-- U.S. Department of Justice, 2026-04-18: Department of Justice title="About" title="News" title="Guidance & Resources" Justice.gov Office of Public Affairs Phobos Ransomware Administrator Extradited From South Korea To Face Cybercrime Charges This is archived content from the U.S.
-- U.S. Department of Justice, 2026-04-18: “The Justice Department is committed to leveraging the full range of our international partnerships to combat the threats posed by ransomware like Phobos,” said Deputy Attorney General Lisa Monaco.
-- U.S. Department of Justice, 2026-04-18: “Evgenii Ptitsyn allegedly extorted millions of dollars of ransom payments from thousands of victims and now faces justice in the United States thanks to the hard work and ingenuity of law enforcement agencies around the world — from the Republic of Korea to Japan to Europe and finally to Baltimore, Maryland.
-- U.S. Department of Justice, 2026-04-18: Ptitsyn’s indictment, arrest, and extradition reflect the Criminal Division’s commitment to leading the fight against the international scourge of ransomware.
-
-<!-- RAW_TEXT_HIGHLIGHTS_END -->
 
 ## References
 

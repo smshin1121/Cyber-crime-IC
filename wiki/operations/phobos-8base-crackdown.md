@@ -71,7 +71,7 @@ sources:
   - "[[2025-02-11_bleepingcomputer-com_us-charges-phobos-8base-ransomware-operators]]"
   - "[[2025-02-11_techcrunch-com_authorities-arrest-four-suspected-8base-ransomware-operators-in-global-takedown]]"
 created: 2026-04-08
-updated: 2026-04-19
+updated: 2026-04-26
 operation_role: umbrella
 parent_operation: ""
 summary: "The Phobos/8Base crackdown was a multi-year Europol- and Eurojust-supported ransomware investigation that culminated in February 2025 with four arrests, 27 server takedowns, and a documented South Korea to United States extradition link."
@@ -159,6 +159,44 @@ This operation has confirmed Korean relevance. Official material states that a P
 - Public sources do not identify every agency involved in the South Korea arrest and extradition process.
 - The public record supports the existence of a Korea-U.S. extradition step but not the full legal filing chain.
 - Later prosecution outcomes for all four February 2025 arrestees remain thin in the currently collected source set.
+
+<!-- SOURCE_ENRICHMENT_START -->
+
+## Source Coverage
+
+- Europol, 2025-02-11: Key figures behind Phobos and 8Base ransomware arrested in international cybercrime crackdown.
+- US DOJ (Office of Public Affairs), 2025-02-10: Phobos Ransomware Affiliates Arrested in Coordinated International Disruption.
+- US DOJ USAO, 2024-11-18: Phobos Ransomware Administrator Extradited From South Korea To Face Cybercrime Charges.
+- BleepingComputer, 2025-02-11: U.S. charges Phobos and 8Base ransomware operators after international crackdown.
+- TechCrunch, 2025-02-11: Authorities arrest four suspected 8base ransomware operators in global takedown.
+
+## Operational Timeline
+
+- 2019-02-01: activity or investigation start.
+- 2025-02-11: public announcement.
+- 2025-02-11: reported enforcement endpoint.
+- 2024-11-18: public source coverage from US DOJ USAO.
+- 2025-02-10: public source coverage from US DOJ (Office of Public Affairs).
+- 2025-02-11: public source coverage from BleepingComputer, Europol, TechCrunch.
+
+## Legal and Procedural Posture
+
+- Recorded crime classification: ransomware.
+- Recorded enforcement posture: Arrest, Seizure, Takedown, Extradition.
+- The record is categorized as arrest-sweep with status completed.
+
+## Evidence and Attribution Notes
+
+- 4 Russian nationals arrested as key figures behind 8Base ransomware group
+- 27 servers taken down; 400+ companies warned of ongoing/imminent attacks worldwide
+- 14 countries and 16 agencies participated; Europol coordinated since February 2019
+- Korean connection: Phobos administrator arrested in South Korea (June 2024), extradited to US (November 2024)
+- Prior related arrest in Italy (2023) on French warrant; demonstrates sustained multi-year investigation
+- In early February 2025, a coordinated international law enforcement action resulted in the arrest of **4 Russian nationals** who were key figures behind the **8Base ransomware** group, and the takedown of **27 servers** connected to their criminal network.
+- The operation involved 14 countries and built on prior actions including the arrest of a Phobos administrator in South Korea in June 2024 (extradited to the US in November 2024) and a key Phobos affiliate arrest in Italy in 2023.
+- Law enforcement warned over 400 companies worldwide of ongoing or imminent ransomware attacks.
+
+<!-- SOURCE_ENRICHMENT_END -->
 
 ## References
 

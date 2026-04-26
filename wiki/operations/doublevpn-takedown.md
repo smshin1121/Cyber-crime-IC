@@ -104,7 +104,7 @@ sources:
   - "[[2021-06-30_nationalcrimeagency-gov-uk_doublevpn-takedown-nca-takes-uk-server-of-criminal-network-offline]]"
   - "[[2021-06-30_therecord-media_dutch-police-takes-down-doublevpn-a-service-used-by-cybercrime-groups]]"
 created: 2026-04-08
-updated: "2026-04-26"
+updated: 2026-04-26
 operation_role: umbrella
 parent_operation: ""
 summary: "On **29 June 2021**, law enforcement from **9 countries** simultaneously seized the infrastructure of **DoubleVPN**, a virtual private network service heavily marketed on Russian- and English-language cybercrime forums as a tool for concealing criminal activity, particularly ransomware operations. The operation was led by the [[netherlands-politie|Dutch National Police]] under the jurisdiction of the Dutch National Public Prosecutor's Office, with international coordination by [[europol-ec3|Europol EC3]] and [[eurojust|Eurojust]]."
@@ -250,6 +250,29 @@ No known Korean involvement in this operation. However, DoubleVPN's customer bas
 - **What was the customer base size?** The number of DoubleVPN subscribers and the proportion engaged in criminal activity was not disclosed.
 - **Relationship to subsequent ransomware arrests**: Did the seized DoubleVPN logs directly contribute to ransomware operator arrests in 2021-2022?
 
+<!-- SOURCE_ENRICHMENT_START -->
+
+## Source Coverage
+
+- Europol, 2021-06-30: Europol: Coordinated action cuts off access to VPN service used by ransomware groups.
+- Eurojust, 2021-06-30: Coordinated action cuts off access to VPN service used by ransomware groups.
+- Eurojust, 2022-03-02: Eurojust Annual Report 2021: DoubleVPN case example.
+- UK NCA, 2021-06-30: DoubleVPN takedown: NCA takes UK server of criminal network offline.
+- The Record, 2021-06-30: Dutch police takes down DoubleVPN, a service used by cybercrime groups.
+
+## Evidence and Attribution Notes
+
+- DoubleVPN web domains and server infrastructure seized across 9 countries on 29 June 2021
+- Dutch National Police led the operation under the Dutch National Public Prosecutor's Office; Europol EC3 organized 30+ coordination meetings and 4 workshops
+- Eurojust organized 6 dedicated coordination meetings since October 2020 and established a coordination centre on the action day
+- DoubleVPN offered single/double/triple/quadruple VPN connections from €22, marketed on Russian and English cybercrime forums
+- Customer personal information, logs, and statistics were seized — enabling follow-on investigations
+- No arrests announced; first law enforcement takedown of a criminal-enabling VPN service
+- Participating agencies: Dutch Police, FBI, US Secret Service, DOJ, RCMP, BKA, NCA, Swedish Police, Italian State Police, Bulgarian GDOC, Cantonal Police Ticino
+- Operating under EMPACT framework; Dutch 'hackbevoegdheid' (digital intrusion power) used
+
+<!-- SOURCE_ENRICHMENT_END -->
+
 ## References
 
 | # | Source | Publisher | Date | URL |
@@ -259,4 +282,3 @@ No known Korean involvement in this operation. However, DoubleVPN's customer bas
 | [3] | DoubleVPN takedown: NCA takes UK server of criminal network offline | UK NCA | 2021-06-30 | https://www.nationalcrimeagency.gov.uk/news/doublevpn-takedown-nca-takes-uk-server-of-criminal-network-offline |
 | [4] | Dutch police takes down DoubleVPN, a service used by cybercrime groups | The Record | 2021-06-30 | https://therecord.media/dutch-police-takes-down-doublevpn-a-service-used-by-cybercrime-groups |
 | [5] | Eurojust Annual Report 2021: DoubleVPN case example | Eurojust | 2022-03-02 | https://www.eurojust.europa.eu/annual-report-2021/cybercrime/case-examples |
-

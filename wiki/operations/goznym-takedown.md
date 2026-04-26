@@ -183,6 +183,27 @@ The collected sources identify three concrete procedural mechanisms: extradition
 
 Reference [2], the DOJ release, is the primary mechanism source. Reference [1] confirms Europol's public framing of the dismantling. Reference [3] supplies later prosecution outcome data for three members. References [4] and [5] are media corroboration and should not override the official DOJ/Europol records where details conflict.
 
+<!-- SOURCE_ENRICHMENT_START -->
+
+## Source Coverage
+
+- Europol, 2019-05-01: Goznym Malware Cybercriminal Network Dismantled In International Operation.
+- US DOJ (W.D. Pa.), 2019-05-16: GozNym Cyber-Criminal Network Operating out of Europe Targeting American Entities Dismantled in International Operation.
+- US DOJ USAO, 2019-12-20: Three Members of GozNym Cybercrime Network Sentenced in Parallel Multi-National Prosecutions in Pittsburgh and Tbilisi, Georgia.
+- BBC News, 2019-05-16: BBC: GozNym cyber-crime gang which stole millions busted.
+- BleepingComputer, 2019-05-16: GozNym Cybercrime Group Behind $100 Million Damages Dismantled.
+
+## Operational Timeline
+
+- 2016: activity or investigation start.
+- 2019-05: public announcement.
+- 2019-05: reported enforcement endpoint.
+- 2019-05-01: public source coverage from Europol.
+- 2019-05-16: public source coverage from BBC News, BleepingComputer, US DOJ (W.D. Pa.).
+- 2019-12-20: public source coverage from US DOJ USAO.
+
+<!-- SOURCE_ENRICHMENT_END -->
+
 ## References
 
 | # | Title | Publisher | Date | URL |

@@ -141,6 +141,7 @@ Korea's voice phishing challenge:
 ## Source Coverage
 
 - The Korea Times, 2023-09-08: Seoul Metropolitan Police and Chinese police jointly arrest 16 voice phishing suspects in Qingdao.
+- web.archive.org, 2026-04-17: articleView.html.
 - The Korea Times, 2023-09-07: Police nab 16 voice phishing scam suspects based in China.
 - Yonhap News Agency, 2023-09-07: Police nab 16 voice phishing scam suspects based in China.
 - Asia Economy, 2023-09-07: 16 Members of Voice Phishing Organization Based in Qingdao, China Arrested.

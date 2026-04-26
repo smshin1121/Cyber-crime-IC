@@ -115,7 +115,7 @@ Unlike the umbrella DarkMarket page, this follow-on entry isolates the operator-
 
 ## Legal and Procedural Posture
 
-- Recorded crime classification: online fraud.
+- Recorded crime classification: online fraud and dark web.
 - Recorded enforcement posture: Arrest.
 - Legal or procedural basis recorded in metadata: informal cooperation.
 - The record is categorized as prosecution with status completed.

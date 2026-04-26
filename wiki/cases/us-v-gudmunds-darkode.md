@@ -63,7 +63,7 @@ source_count: 2
 sources:
   - "[[2015-07-15_wdpa_darkode-indictment]]"
 created: 2026-04-12
-updated: "2026-04-26"
+updated: 2026-04-26
 summary: "United States v. Gudmunds et al. is the prosecution of 12 individuals charged in the Western District of Pennsylvania for their roles in the Darkode cybercrime forum, one of the most prolific English-language hacking forums. The charges were part of a coordinated effort by a coalition of 20 nations to charge, arrest, or search approximately 70 Darkode members worldwide on 15 July 2015."
 ---
 ## Summary
@@ -122,6 +122,21 @@ No Korean involvement identified.
 1. How many of the ~70 targeted individuals were ultimately convicted?
 2. What specific cooperation instruments enabled the 20-country coordination?
 3. What was the undercover investigation's duration?
+
+<!-- SOURCE_ENRICHMENT_START -->
+
+## Source Coverage
+
+- US DOJ (W.D. Pa. / OPA), 2015-07-15: Major Computer Hacking Forum Dismantled.
+
+## Evidence and Attribution Notes
+
+- On 15 July 2015, the Department of Justice announced the dismantlement of the computer hacking forum known as Darkode.
+- Criminal charges were filed in the Western District of Pennsylvania and elsewhere against 12 individuals associated with the forum.
+- The action was part of a coordinated effort by a coalition of law enforcement authorities from 20 nations.
+- Key Defendants (US Indictments) - **Johan Anders Gudmunds** (aka "Mafi," "Crim," "Synthet!c"), 27, of Sollebrunn, Sweden — charged by indictment with conspiracy to commit computer fraud, conspiracy to commit wire fraud, and conspiracy to commit money laundering
+
+<!-- SOURCE_ENRICHMENT_END -->
 
 ## References
 

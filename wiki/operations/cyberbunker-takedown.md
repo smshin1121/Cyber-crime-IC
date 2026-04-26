@@ -85,7 +85,7 @@ sources:
   - "[[2021-01-01_bka-de_cybercrime-bundeslagebild-2021-cyberbunker]]"
   - "[[2019-09-30_arstechnica_com_cyberbunker-raid]]"
 created: 2026-04-10
-updated: "2026-04-26"
+updated: 2026-04-26
 operation_role: umbrella
 parent_operation: ""
 summary: "The CyberBunker Takedown was a major German law enforcement operation targeting a bulletproof hosting provider operating from a former NATO bunker in Traben-Trarbach, Rhineland-Palatinate, [[germany|Germany]]. On 26-27 September 2019, more than 600 police officers raided the underground facility, arrested seven suspects and seized roughly 200 servers. The resulting prosecution against eight defendants culminated in December 2021 convictions for participation in a criminal organization, and those convictions were largely confirmed as final in September 2023. The operation became a landmark European bulletproof-hosting case and directly fed the later [[darkmarket-takedown|DarkMarket takedown]]."
@@ -248,6 +248,29 @@ No [[south-korea|South Korean]] involvement in the CyberBunker takedown has been
 > confirmation that the principal convictions became final. Full
 > underlying German court filings are not mirrored in the repo.
 
+<!-- SOURCE_ENRICHMENT_START -->
+
+## Source Coverage
+
+- Landgericht Trier, 2020-07-21: Anklage gegen acht Angeklagte im Verfahren um den sogenannten Cyberbunker in Traben-Trarbach zugelassen.
+- Landgericht Trier, 2021-12-13: Urteil im sog. Cyberbunkerverfahren.
+- Landgericht Trier, 2023-09-12: Verurteilungen der Angeklagten im Cyberbunker-Verfahren rechtskräftig.
+- Bundeskriminalamt, 2021-01-01: Cybercrime Bundeslagebild 2021 - CyberBunker section.
+- Ars Technica, 2019-09-30: German police seize bulletproof hosting data center in former NATO bunker.
+
+## Evidence and Attribution Notes
+
+- The Trier Regional Court opened the main CyberBunker trial against eight defendants on 21 July 2020.
+- The admitted indictment concerned the operation of the so-called CyberBunker in Traben-Trarbach and scheduled the main hearing to begin on 19 October 2020.
+- This source is the clearest public judicial anchor for the transition from investigation to formal prosecution.
+- This official Trier Regional Court notice confirms that German prosecutors secured admission of the indictment against all eight CyberBunker defendants and that the court formally opened the main proceedings.
+- The Trier Regional Court convicted all eight defendants for participation in a criminal organization on 13 December 2021.
+- The court announced prison sentences ranging from a suspended one-year sentence to five years and nine months.
+- The court also ordered confiscation of criminal proceeds and acquitted the defendants on additional accessory-liability theories.
+- This official judgment notice provides the most authoritative public account of the CyberBunker verdict, including sentence ranges, confiscation orders and the narrower criminal-organization theory accepted by the court.
+
+<!-- SOURCE_ENRICHMENT_END -->
+
 ## References
 
 | # | Source | Publisher | Date | URL |
@@ -257,4 +280,3 @@ No [[south-korea|South Korean]] involvement in the CyberBunker takedown has been
 | 3 | Verurteilungen der Angeklagten im Cyberbunker-Verfahren rechtskräftig | Landgericht Trier | 2023-09-12 | https://lgtr.justiz.rlp.de/presse-aktuelles/detail/verurteilungen-der-angeklagten-im-cyberbunker-verfahren-rechtskraeftig |
 | 4 | Cybercrime Bundeslagebild 2021 - CyberBunker section | Bundeskriminalamt | 2021 | https://www.bka.de/SharedDocs/Downloads/DE/Publikationen/JahresberichteUndLagebilder/Cybercrime/cybercrimeBundeslagebild2021.pdf?__blob=publicationFile&v=6 |
 | 5 | German police seize bulletproof hosting data center in former NATO bunker | Ars Technica | 2019-09-30 | https://arstechnica.com/information-technology/2019/09/german-police-seize-bulletproof-hosting-data-center-in-former-nato-bunker/ |
-

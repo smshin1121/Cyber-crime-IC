@@ -107,7 +107,7 @@ sources:
   - "[[2024-05-30_krebsonsecurity-com_operation-endgame-hits-malware-delivery-platforms]]"
   - "[[2026-04-17_europol-europa-eu_operation-endgame-official-page]]"
 created: 2026-04-08
-updated: "2026-04-26"
+updated: 2026-04-26
 operation_role: umbrella
 parent_operation: ""
 summary: "**Operation Endgame Phase 1** was the **largest-ever international operation against botnets**, conducted between 27 and 29 May 2024. The operation targeted dropper malware families — IcedID, SystemBC, Pikabot, Smokeloader, Bumblebee, and Trickbot — that serve as initial-access vectors for ransomware groups. Coordinated from [[europol-ec3|Europol]]'s headquarters with a command post of 20+ officers, the action resulted in 4 arrests, 100+ servers taken down across 10 countries, and 2,000+ domains seized."
@@ -231,6 +231,29 @@ No direct Korean involvement in Operation Endgame Phase 1 was identified.
 - What specific ransomware groups lost access as a direct result of the dropper takedown?
 - What was the measurable impact on ransomware deployment rates following the operation?
 - How quickly did the targeted malware families reconstitute after the takedown?
+
+<!-- SOURCE_ENRICHMENT_START -->
+
+## Source Coverage
+
+- Europol, 2024-05-30: Largest ever operation against botnets hits dropper malware ecosystem - Operation Endgame.
+- FBI, 2024-05-29: Operation Endgame: Coordinated Worldwide Law Enforcement Action Against Network of Cybercriminals.
+- German BMI, 2024-05-30: Worldwide investigation against cyber crime crowned by success.
+- KrebsOnSecurity, 2024-05-30: 'Operation Endgame' Hits Malware Delivery Platforms.
+- Europol, 2026-04-17: Operation Endgame — official page.
+
+## Evidence and Attribution Notes
+
+- Operation Endgame Phase 1 was the largest-ever international action against botnets, conducted 27-29 May 2024
+- Targeted dropper malware families: IcedID, SystemBC, Pikabot, Smokeloader, Bumblebee, Trickbot
+- 4 arrests (1 Armenia, 3 Ukraine), 100+ servers taken down across 10 countries, 2,000+ domains seized
+- Key suspect accumulated at least EUR 69 million in cryptocurrency from renting criminal infrastructure
+- Malware droppers linked to at least 15 ransomware groups including BlackBasta, REvil, Conti
+- Between 27 and 29 May 2024, **Operation Endgame** — the largest-ever international action against botnets — targeted dropper malware families including IcedID, SystemBC, Pikabot, Smokeloader, Bumblebee, and Trickbot.
+- Coordinated from Europol's headquarters with a command post of 20+ officers from Denmark, France, Germany, and the US, the operation resulted in 4 arrests, over 100 servers taken down across 10 countries, and over 2,000 domains seized.
+- These malware droppers serve as initial-access vectors linked to at least 15 ransomware groups, including BlackBasta, REvil, and Conti.
+
+<!-- SOURCE_ENRICHMENT_END -->
 
 ## References
 

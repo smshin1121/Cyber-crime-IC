@@ -98,7 +98,6 @@ According to Eurojust, the group used phishing emails to gain access to online-b
 
 ## Results and Impact
 
-
 <!-- SOURCE_ENRICHMENT_START -->
 
 ## Source Coverage

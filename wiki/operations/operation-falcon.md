@@ -122,7 +122,7 @@ Nigeria (arrests made domestically; victims across 150+ countries)
 
 ## Legal and Procedural Posture
 
-- Recorded crime classification: BEC.
+- Recorded crime classification: BEC and malware.
 - The record is categorized as arrest-sweep with status completed.
 
 ## Evidence and Attribution Notes

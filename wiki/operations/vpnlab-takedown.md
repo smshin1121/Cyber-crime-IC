@@ -108,7 +108,7 @@ sources:
   - "[[2022-01-18_securityweek_com_vpnlab-goes-down-after-servers-seized]]"
   - "[[2022-01-18_bleepingcomputer-com_europol-shuts-down-vpn-service-used-by-ransomware-groups]]"
 created: 2026-04-10
-updated: "2026-04-26"
+updated: 2026-04-26
 operation_role: umbrella
 parent_operation: ""
 summary: "On 17 January 2022, law enforcement authorities from ten countries, coordinated by [[europol-ec3|Europol]] and supported by [[eurojust|Eurojust]], seized or disrupted the 15 servers hosting VPNLab.net, a [[bulletproof-hosting|bulletproof VPN service]] long used by ransomware and malware actors. The operation was led from [[germany|Germany]] by Hannover police under the EMPACT priority on attacks against information systems. Public reporting tied the service to at least 150 ransomware attacks and more than EUR 60 million in losses. No arrests were announced on action day, but investigators seized customer data for follow-on exploitation."
@@ -268,6 +268,29 @@ There is no publicly reported Korean involvement in the VPNLab.net takedown. How
 > public court records system, sealed proceedings, or operation did
 > not result in formal prosecution.
 
+<!-- SOURCE_ENRICHMENT_START -->
+
+## Source Coverage
+
+- Europol, 2022-01-18: Unhappy New Year for cybercriminals as VPNLab.net goes offline.
+- CyberScoop, 2022-01-18: International effort takes down VPN service, VPNLab, used for criminal activity.
+- The Hacker News, 2022-01-18: Europol Shuts Down VPNLab, Cybercriminals' Favourite VPN Service.
+- SecurityWeek, 2022-01-18: VPNLab Goes Down After Servers Seized in Law Enforcement Operation.
+- BleepingComputer, 2022-01-18: Europol shuts down VPN service used by ransomware groups.
+
+## Evidence and Attribution Notes
+
+- On 17 January 2022, law enforcement authorities from 10 countries, coordinated by Europol and supported by Eurojust, seized or disrupted the 15 servers hosting VPNLab.net, a bulletproof VPN service that had been used by cybercriminals to facilitate ransomware deployment, malware distribution, and other illicit activities since 2008.
+- The operation was led by Hannover Police Department (Polizeidirektion Hannover) under the EMPACT security framework priority on "Cybercrime — Attacks Against Information Systems." The service had been linked to at least 150 ransomware attacks causing financial damages of at least EUR 60 million.
+- No arrests were made during the action day, but seized customer data was expected to support follow-on investigations.
+- SecurityWeek reported that the VPNLab investigation was tied to earlier German ransomware investigations and highlighted Ryuk-linked usage.
+- The article repeated the Europol figures of 15 seized servers, ten countries involved and at least EUR 60 million in associated losses.
+- It also noted the expected use of seized customer data for victim notification and follow-on cases.
+- SecurityWeek adds explanatory reporting around the VPNLab takedown and usefully surfaces the German investigative trigger and the ransomware context behind the infrastructure action.
+- The report summarized Europol's account of the 15-server VPNLab seizure across ten countries.
+
+<!-- SOURCE_ENRICHMENT_END -->
+
 ## References
 
 | # | Source | Publisher | Date | URL |
@@ -277,4 +300,3 @@ There is no publicly reported Korean involvement in the VPNLab.net takedown. How
 | 3 | Europol Shuts Down VPNLab, Cybercriminals' Favourite VPN Service | The Hacker News | 2022-01-18 | [Link](https://thehackernews.com/2022/01/europol-shuts-down-vpnlab.html) |
 | 4 | International effort takes down VPN service, VPNLab, used for criminal activity | CyberScoop | 2022-01-18 | [Link](https://cyberscoop.com/vpnlab-europol-germany-police-takedown/) |
 | 5 | VPNLab Goes Down After Servers Seized in Law Enforcement Operation | SecurityWeek | 2022-01-18 | [Link](https://www.securityweek.com/vpnlab-goes-down-after-servers-seized-law-enforcement-operation/) |
-

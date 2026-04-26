@@ -168,7 +168,35 @@ def sentence_split(text: str) -> list[str]:
     text = re.sub(r"\s+", " ", text).strip()
     if not text:
         return []
-    return [part.strip() for part in re.split(r"(?<=[.!?])\s+", text) if part.strip()]
+    placeholder = "<DOT>"
+
+    def protect_initialism(match: re.Match[str]) -> str:
+        return match.group(0).replace(".", placeholder)
+
+    protected = re.sub(r"\b(?:[A-Za-z]\.){2,}", protect_initialism, text)
+    for abbreviation in (
+        "Mr.",
+        "Mrs.",
+        "Ms.",
+        "Dr.",
+        "Prof.",
+        "Sr.",
+        "Jr.",
+        "St.",
+        "No.",
+        "Inc.",
+        "Ltd.",
+        "Co.",
+        "Corp.",
+        "e.g.",
+        "i.e.",
+        "etc.",
+        "vs.",
+        "v.",
+    ):
+        protected = protected.replace(abbreviation, abbreviation.replace(".", placeholder))
+    parts = [part.replace(placeholder, ".").strip() for part in re.split(r"(?<=[.!?])\s+", protected)]
+    return [part for part in parts if part]
 
 
 def word_count(text: str) -> int:
@@ -645,13 +673,17 @@ def enrich_row(row: dict[str, str], dry_run: bool = False) -> EnrichmentResult:
     )
 
 
-def render_report(results: list[EnrichmentResult], dry_run: bool) -> str:
+def render_report(results: list[EnrichmentResult], dry_run: bool, queue_path: Path, title: str) -> str:
     changed = [result for result in results if result.changed]
     placeholder = [result for result in results if result.placeholder_replaced]
     no_facts = [result for result in results if result.facts_used == 0]
+    try:
+        queue_display = queue_path.relative_to(ROOT).as_posix()
+    except ValueError:
+        queue_display = str(queue_path)
     lines = [
         "---",
-        "title: Targeted Content Enrichment (2026-04-26)",
+        f"title: {title}",
         "type: analysis",
         "created: 2026-04-26",
         "updated: 2026-04-26",
@@ -660,17 +692,18 @@ def render_report(results: list[EnrichmentResult], dry_run: bool) -> str:
         "---",
         "## Summary",
         "",
-        "This report records the targeted enrichment pass over every page selected in `_workspace/content_enrichment_queue_2026-04-26.csv`.",
+        f"This report records the targeted enrichment pass over every page selected in `{queue_display}`.",
         "",
         f"- Mode: **{'dry-run' if dry_run else 'write'}**",
         f"- Queue entries processed: **{len(results)}**",
-        f"- Pages changed: **{len(changed)}**",
+        f"- Pages changed in this execution: **{len(changed)}**",
+        f"- Pages with source-enrichment blocks after execution: **{len(results)}**",
         f"- Placeholder bodies replaced: **{len(placeholder)}**",
         f"- Pages without extracted source facts: **{len(no_facts)}**",
         "",
         "## Processed Pages",
         "",
-        "| Page | Type | Recommendation | Sources read | Facts used | Placeholder replaced | Changed |",
+        "| Page | Type | Recommendation | Sources read | Facts used | Placeholder replaced | Changed this run |",
         "|---|---|---|---:|---:|---:|---:|",
     ]
     for result in results:
@@ -688,6 +721,7 @@ def main() -> None:
     parser = argparse.ArgumentParser(description="Enrich all pages in the targeted content enrichment queue from existing source pages.")
     parser.add_argument("--queue", default=str(DEFAULT_QUEUE.relative_to(ROOT)))
     parser.add_argument("--report", default=str(REPORT_PATH.relative_to(ROOT)))
+    parser.add_argument("--title", default="Targeted Content Enrichment (2026-04-26)")
     parser.add_argument("--dry-run", action="store_true")
     args = parser.parse_args()
 
@@ -695,7 +729,7 @@ def main() -> None:
     rows = load_queue(queue_path)
     results = [enrich_row(row, dry_run=args.dry_run) for row in rows]
 
-    report = render_report(results, args.dry_run)
+    report = render_report(results, args.dry_run, queue_path, args.title)
     report_path = ROOT / args.report
     if not args.dry_run:
         report_path.parent.mkdir(parents=True, exist_ok=True)

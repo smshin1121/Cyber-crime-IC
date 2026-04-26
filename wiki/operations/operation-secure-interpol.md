@@ -140,6 +140,8 @@ South Korea (대한민국) was among the 26 participating countries. Specific Ko
 ## Source Coverage
 
 - INTERPOL, 2025-04-01: Operation Secure.
+- straitstimes.com, 2025-04-01: More Than 9000 Malware Infected Servers Found By Singapore Based Interpol Ope....
+- freemalaysiatoday.com, 2017-04-24: Interpol Finds 9000 Compromised Websites.
 - Kaspersky, 2025-04-01: Kaspersky supports INTERPOL Operation Secure.
 - Help Net Security, 2025-04-01: Operation Secure disrupts global infostealer malware operations.
 
@@ -153,7 +155,7 @@ South Korea (대한민국) was among the 26 participating countries. Specific Ko
 
 ## Legal and Procedural Posture
 
-- Recorded crime classification: hacking.
+- Recorded crime classification: hacking, ransomware, malware.
 - The record is categorized as infrastructure-seizure with status completed.
 
 ## Evidence and Attribution Notes

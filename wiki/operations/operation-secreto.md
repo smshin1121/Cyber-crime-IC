@@ -167,8 +167,8 @@ Spain, United States, Austria, Denmark, Greece
 - Criminal scheme: a predominantly Greek-national organised crime group set up shell companies in the US and opened fraudulent US bank accounts, then made cross-border EU→US transfers to build institutional credibility before obtaining debit and credit cards for illicit use; more than 50 US financial institutions victimised
 - Coordination: Europol-coordinated, with Spanish National Police and the US Secret Service as co-leads; Austria, Denmark, Greece, US DOJ, and FinCEN also participated
 - Geographic footprint of arrests: Austria, Spain, Greece, UK, with money laundering networks spanning multiple EU states — illustrating a rare Europol-led operation involving US Secret Service as a core partner in a transatlantic financial-crime case
-- This page captures the public enforcement results of **Operation Secreto**, a Europol-coordinated and U.S.
-- Secret Service-supported action against a fraud and money laundering network that targeted U.S.-based banks through shell companies, payment-card abuse, and cross-border laundering channels.
+- This page captures the public enforcement results of **Operation Secreto**, a Europol-coordinated and U.S. Secret Service-supported action against a fraud and money laundering network that targeted U.S.-based banks through shell companies, payment-card abuse, and cross-border laundering channels.
+- The Spanish National Police described the case as the largest card-fraud investigation carried out to date against a network that defrauded more than EUR 12 million.
 
 <!-- SOURCE_ENRICHMENT_END -->
 

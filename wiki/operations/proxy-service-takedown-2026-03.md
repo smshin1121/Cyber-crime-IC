@@ -98,7 +98,7 @@ sources:
   - "[[2026-03-13_cybernews-com_major-residential-proxy-service-socksescort-down]]"
   - "[[2026-03-13_techradar-com_major-socksescort-proxy-network-powered-by-linux-malware-taken-down-by-fbi-and-other-police-forces]]"
 created: 2026-04-14
-updated: "2026-04-26"
+updated: 2026-04-26
 operation_role: umbrella
 parent_operation: ""
 summary: "On **12 March 2026**, [[eurojust|Eurojust]] announced the takedown of an unnamed website allegedly offering **IP proxy services for cybercriminals in 102 countries** of victims. The operation was conducted by authorities from **eight countries** — only four of which are publicly named: [[france|France]], [[austria|Austria]], the [[netherlands|Netherlands]], and the [[united-states|United States]] — coordinated by [[eurojust|Eurojust]] and [[europol-ec3|Europol]]. The operators of the proxy service are also suspected of running an associated **payment platform** for the service."
@@ -219,6 +219,29 @@ No [[south-korea|South Korean]] participation is documented in this operation. K
 > for this operation. Possible reasons: non-US jurisdiction with no
 > public court records system, sealed proceedings, or operation did
 > not result in formal prosecution.
+
+<!-- SOURCE_ENRICHMENT_START -->
+
+## Source Coverage
+
+- Eurojust, 2026-03-12: Servers used for cybercrime around the world taken down.
+- Politie, 2025-05-09: Internationale cybercrime aangepakt: Politie Amsterdam en FBI ontmantelen proxydienst Anyproxy.
+- CyberScoop, 2026-03-13: Authorities takedown global proxy network SocksEscort.
+- Cybernews, 2026-03-13: Authorities shut down cybercrime service that sold access to 369,000 home internet connections.
+- TechRadar, 2026-03-13: Major SocksEscort proxy network powered by Linux malware taken down by FBI and other police forces.
+
+## Evidence and Attribution Notes
+
+- A website allegedly offering IP proxy services for cybercriminals in 102 countries (of victims) was targeted by authorities from 8 countries (announced 12 March 2026)
+- Named participants: France, Austria, Netherlands, United States; coordinated by Eurojust and Europol
+- Four of the eight participating countries are not named in the release
+- Same operators are also suspected of hosting a payment platform for the proxy service
+- Operation is not publicly named in the Eurojust release
+- Politie Amsterdam and the FBI jointly dismantled the criminal proxy service Anyproxy.
+- The service was described as having been used since 2004 by cybercriminals for phishing, ransomware attacks, and data theft.
+- The case provides a concrete recent example of Dutch-US cybercrime cooperation.
+
+<!-- SOURCE_ENRICHMENT_END -->
 
 ## References
 

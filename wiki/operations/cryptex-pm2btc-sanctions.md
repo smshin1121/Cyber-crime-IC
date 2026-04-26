@@ -76,7 +76,7 @@ sources:
   - "[[2024-09-26_usao-edva_two-russian-nationals-charged-connection-operating-billion-dollar-money-laundering]]"
   - "[[2024-09-26_chainalysis_ofac-designates-russian-exchange-cryptex-fincen-names-pm2btc]]"
 created: 2026-04-08
-updated: "2026-04-26"
+updated: 2026-04-26
 operation_role: umbrella
 parent_operation: ""
 summary: "The September 2024 Cryptex and PM2BTC action combined U.S. sanctions, FinCEN special measures, criminal charging, and Dutch server seizures against a cybercrime-linked Russian virtual-currency laundering ecosystem."
@@ -145,6 +145,30 @@ This action is a strong example of layered financial disruption. Treasury and Fi
 - Treasury and DOJ releases describe the same overall action from different institutional angles, so exact operator attribution should be read across documents rather than from one release alone.
 - Public releases did not fully disclose how long Dutch-seized infrastructure had supported Cryptex and PM2BTC operations.
 - The long-term displacement effect on Russian cybercrime cash-out routes remains unclear.
+
+<!-- SOURCE_ENRICHMENT_START -->
+
+## Source Coverage
+
+- U.S. Department of the Treasury, 2024-09-26: Treasury Takes Coordinated Actions Against Illicit Russian Virtual Currency Exchanges and Cybercrime Facilitator.
+- US Department of Justice, 2024-09-26: Two Russian Nationals Charged in Connection with Operating Billion Dollar Money Laundering Services.
+- Financial Crimes Enforcement Network, 2024-09-26: Treasury Takes Coordinated Actions Against Illicit Russian Virtual Currency Exchanges and Cybercrime Facilitator.
+- Financial Crimes Enforcement Network, 2024-09-26: Imposition of Special Measure Prohibiting the Transmittal of Funds Involving PM2BTC.
+- U.S. Attorney's Office, Eastern District of Virginia, 2024-09-26: Two Russian nationals charged in connection with operating billion-dollar money laundering services; Justice Department seizes web domains for..
+- Chainalysis, 2024-09-26: OFAC Designates Russian Exchange Cryptex, FinCEN names PM2BTC.
+
+## Evidence and Attribution Notes
+
+- Treasury identified PM2BTC as a primary money laundering concern and sanctioned Cryptex.
+- The action was described as part of a coordinated international effort against Russian cybercrime services.
+- Treasury linked Cryptex to ransomware-related and broader cybercriminal financial flows.
+- This is the lead Treasury announcement for the September 2024 Cryptex and PM2BTC action.
+- This DOJ release complements the Treasury sanctions announcement by documenting the related enforcement action.
+- FinCEN identified PM2BTC as a primary money laundering concern and framed the move as part of a coordinated international action.
+- The release tied PM2BTC to Russian illicit finance and cybercrime services.
+- This FinCEN release is the cleanest U.S. financial-regulatory source for the PM2BTC portion of the September 2024 action.
+
+<!-- SOURCE_ENRICHMENT_END -->
 
 ## References
 

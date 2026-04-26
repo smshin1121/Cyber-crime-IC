@@ -146,7 +146,7 @@ The Dutch prosecution-side record is particularly useful for this operation fami
 
 ## Legal and Procedural Posture
 
-- Recorded crime classification: ransomware.
+- Recorded crime classification: ransomware and malware.
 - The record is categorized as joint-investigation with status ongoing.
 - Related legal or operational records: Us V Gallyamov Qakbot.
 
@@ -158,7 +158,8 @@ The Dutch prosecution-side record is particularly useful for this operation fami
 - This joint OM-police release documents Dutch prosecutorial participation in the Qakbot disruption.
 - On 22 May 2025, the Department of Justice unsealed an indictment charging Rustam Rafailevich Gallyamov, 48, of Moscow, Russia, with leading the QakBot malware conspiracy since 2008.
 - The indictment was unsealed in conjunction with Operation Endgame, the international law enforcement campaign targeting ransomware-enabling infrastructure.
-- ### Charges Gallyamov was charged with conspiracy, wire fraud, and related offenses.
+- Charges Gallyamov was charged with conspiracy, wire fraud, and related offenses.
+- He allegedly developed and deployed QakBot to build a botnet that provided access to co-conspirators who deployed ransomware variants including ProLock, DopplePaymer, Egregor, REvil, Conti, Name Locker, Black Basta, and Cactus.
 
 <!-- SOURCE_ENRICHMENT_END -->
 

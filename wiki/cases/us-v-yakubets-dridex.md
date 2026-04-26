@@ -61,7 +61,7 @@ sources:
   - "[[2019-12-05_wdpa_yakubets-turashev-dridex-indictment]]"
   - "[[2015-10-13_wdpa_ghinkul-bugat-dridex-indictment]]"
 created: 2026-04-12
-updated: "2026-04-26"
+updated: 2026-04-26
 summary: "United States v. Yakubets and Turashev is the December 2019 indictment of Maksim V. Yakubets (aka \"aqua\"), leader of the Evil Corp cybercriminal organization, and Igor Turashev for conspiracy, computer hacking, wire fraud, and bank fraud related to the Dridex (Bugat/Cridex) banking trojan. The Dridex malware infected computers in 40+ countries and caused over USD 100 million in theft."
 ---
 ## Summary
@@ -123,6 +123,23 @@ No Korean involvement identified. However, the sanctions-based enforcement model
 1. Yakubets's alleged ties to Russian government cyber operations raise questions about state protection.
 2. Evil Corp's pivot to ransomware (WastedLocker, Hades) after sanctions undermines the effectiveness narrative.
 3. The USD 5 million reward has not resulted in Yakubets's arrest as of April 2026.
+
+<!-- SOURCE_ENRICHMENT_START -->
+
+## Source Coverage
+
+- US DOJ (OPA / W.D. Pa.), 2019-12-05: Russian National Charged with Decade-Long Series of Hacking and Bank Fraud Offenses Resulting in Tens of Millions in Losses and Second Russian..
+- US DOJ (W.D. Pa.), 2015-10-13: Major Computer Hacking Forum Dismantled.
+
+## Evidence and Attribution Notes
+
+- On 5 December 2019, the United States and United Kingdom jointly announced criminal charges against Maksim V.
+- Yakubets (aka "aqua"), 32, of Moscow, Russia, related to two separate international computer hacking and bank fraud schemes spanning from May 2009 to the present.
+- Charges A federal grand jury in Pittsburgh returned a 10-count indictment charging Yakubets and Igor Turashev with conspiracy, computer hacking, wire fraud, and bank fraud in connection with the distribution of "Bugat" (later known as "Cridex" and "Dridex"), a multifunction malware package designed to automate the theft of banking credentials.
+- On 13 October 2015, the DOJ announced a nine-count indictment against Andrey Ghinkul (aka "Smilex"), a Moldovan national, for criminal conspiracy, unauthorized computer access with intent to defraud, damaging a computer, wire fraud, and bank fraud in connection with the Bugat/Dridex botnet.
+- Key Facts - Ghinkul was arrested in Cyprus in August 2015
+
+<!-- SOURCE_ENRICHMENT_END -->
 
 ## References
 

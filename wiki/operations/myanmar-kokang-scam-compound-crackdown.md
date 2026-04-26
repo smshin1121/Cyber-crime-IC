@@ -89,7 +89,7 @@ sources:
   - "[4] Wikipedia — Operation 1027 (multiple dates)"
   - "[5] CNN — 2025 Was a Terrible Year for the Four Families (2026-01-04)"
 created: 2026-04-10
-updated: 2026-04-10
+updated: 2026-04-26
 operation_role: umbrella
 parent_operation: ""
 summary: "The Myanmar-Kokang Cyber Scam Compound Crackdown was a Chinese-led cross-border law enforcement campaign, beginning in September 2023, aimed at dismantling massive cyber fraud operations based in the Kokang Self-Administered Zone (SAZ) of northern Myanmar's Shan State. The crackdown was catalyzed by China's Ministry of Public Security (MPS) issuing arrest warrants for scam kingpins and was dramatically accelerated by **Operation 1027** — a military offensive launched on October 27, 2023 by the Three Brotherhood Alliance (a coalition of ethnic armed organizations including the MNDAA) that physically overran the scam compound territories."
@@ -294,6 +294,18 @@ No known direct Korean involvement in the Myanmar-Kokang crackdown. However, the
 - How many scam compound operators (as opposed to workers) were among the repatriated?
 - What role, if any, did INTERPOL or UNODC play in coordinating or monitoring the repatriations?
 
+<!-- SOURCE_ENRICHMENT_START -->
+
+## Source Coverage
+
+- VOA News, 2023-11-20: Myanmar Rebel Offensive Helps China's Cybercrime Crackdown.
+- CGTN, 2023-11-21: 31,000 Telecom Scam Suspects Handed Over to China by Myanmar.
+- China Daily, 2024-01-05: Ministry Releases Details of Successful Crackdown.
+- Wikipedia, n.d.: Operation 1027.
+- CNN, 2026-01-04: 2025 Was a Terrible Year for the Four Families.
+
+<!-- SOURCE_ENRICHMENT_END -->
+
 ## References
 
 | # | Title | Publisher | Date | URL |
@@ -303,4 +315,3 @@ No known direct Korean involvement in the Myanmar-Kokang crackdown. However, the
 | [3] | Ministry Releases Details of Successful Crackdown | China Daily | 2024-01-05 | [원본](https://global.chinadaily.com.cn/a/202401/05/WS6598095ea3105f21a507ad64.html) |
 | [4] | Operation 1027 | Wikipedia | n.d. | [원본](https://en.wikipedia.org/wiki/Operation_1027) |
 | [5] | 2025 Was a Terrible Year for the Four Families | CNN | 2026-01-04 | [원본](https://www.cnn.com/2026/01/04/asia/china-myanmar-scam-crime-families-intl-hnk-dst) |
-

@@ -109,7 +109,7 @@ sources:
   - "[[2015-12-03_ice-gov_senior-advisor-arrested-in-thailand]]"
   - "[[2025-01-01_en-wikipedia-org_silk-road-marketplace]]"
 created: 2026-04-10
-updated: "2026-04-26"
+updated: 2026-04-26
 operation_role: umbrella
 parent_operation: ""
 summary: "The Silk Road takedown was the seizure and shutdown of the pioneering dark web drug marketplace on 2 October 2013, accompanied by the arrest of its creator and operator, Ross William Ulbricht (alias \"Dread Pirate Roberts\" or \"DPR\"), by the [[fbi-cyber-division|FBI]] in San Francisco. Silk Road, which operated on the Tor anonymity network from approximately February 2011, had facilitated an estimated USD 1.2 billion in illegal transactions -- primarily narcotics -- serving over 100,000 buyers through thousands of vendors worldwide. The FBI seized approximately 173,991 bitcoins (then worth ~$33.6 million) and the Silk Road server infrastructure hosted in Iceland."
@@ -320,6 +320,26 @@ South Korea was not directly involved in the Silk Road investigation or prosecut
 
 > [!note] Source diversity
 > This page draws on DOJ/FBI press releases (Tier 1), ICE press releases (Tier 2), Wikipedia (Tier 3), and secondary reporting. Court filings from United States v. Ulbricht (S1 14 Cr. 68, SDNY) would provide additional primary source material. The Wired source page (2015-05) provides secondary coverage of the sentencing.
+
+<!-- SOURCE_ENRICHMENT_START -->
+
+## Source Coverage
+
+- DOJ SDNY, 2014-02-04: Manhattan U.S. Attorney Announces The Indictment Of Ross Ulbricht, The Creator And Owner Of The “Silk Road” Website.
+- FBI New York, 2015-02-04: Ross Ulbricht Found Guilty on All Counts.
+- US ICE, 2015-05-29: Ross Ulbricht Sentenced to Life in Federal Prison.
+- FBI New York, 2015-05-29: Ross Ulbricht Sentenced to Life in Prison.
+- DOJ SDNY, 2019-07-19: Irish Man Who Helped Operate The “Silk Road” Website Sentenced In Manhattan Federal Court To Over Six Years In Prison.
+- US ICE, 2015-12-03: Senior Advisor Arrested in Thailand.
+- Wikipedia, 2025-01-01: Silk Road (marketplace).
+
+## Evidence and Attribution Notes
+
+- The Silk Road takedown was the seizure and shutdown of the pioneering dark web drug marketplace on 2 October 2013, accompanied by the arrest of its creator and operator, Ross William Ulbricht (alias "Dread Pirate Roberts" or "DPR"), by the FBI in San Francisco.
+- Silk Road, which operated on the Tor anonymity network from approximately February 2011, had facilitated an estimated USD 1.2 billion in illegal transactions -- primarily narcotics -- serving over 100,000 buyers through thousands of vendors worldwide.
+- The FBI seized approximately 173,991 bitcoins (then worth ~$33.6 million) and the Silk Road server infrastructure hosted in Iceland.
+
+<!-- SOURCE_ENRICHMENT_END -->
 
 ## References
 

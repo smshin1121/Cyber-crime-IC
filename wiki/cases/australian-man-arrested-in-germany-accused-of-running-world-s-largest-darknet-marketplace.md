@@ -99,7 +99,6 @@ Europol is the primary source for the enforcement action. RFE/RL and SBS provide
 
 <!-- SOURCE_ENRICHMENT_END -->
 
-
 ## References
 
 | # | Source | Publisher | Date | URL |

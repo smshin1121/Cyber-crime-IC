@@ -175,11 +175,12 @@ No Korean involvement identified.
 
 - The NCA described Operation Destabilise as an international investigation into Russian-speaking money laundering networks linked to ransomware, cybercrime, drugs and espionage.
 - The official announcement reported 84 arrests and identified the disrupted networks as major financial enablers for cybercrime.
-- The release linked the operation to coordinated U.S.
+- The release linked the operation to coordinated U.S. sanctions action and broader international partner support.
 - This is the main official source for the December 4, 2024 public announcement of Operation Destabilise.
 - The United Kingdom is one of the **most active** countries in international cybercrime cooperation.
 - The **National Crime Agency (NCA)**, through its National Cyber Crime Unit (NCCU), led Operation Cronos against the LockBit ransomware group — *almost certainly* the most high-profile ransomware takedown to date.
 - The UK is a **Five Eyes** member, a party to the Budapest Convention, and holds the world's first **CLOUD Act executive agreement** with the United States (2019).
+- Treasury's OFAC release documented sanctions against individuals and entities tied to the TGR network exposed alongside Operation Destabilise.
 
 <!-- SOURCE_ENRICHMENT_END -->
 

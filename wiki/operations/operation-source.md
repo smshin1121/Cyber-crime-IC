@@ -155,7 +155,7 @@ Netherlands, United States, EU member states (Germany, France, Italy, etc.)
 
 ## Legal and Procedural Posture
 
-- Recorded crime classification: malware.
+- Recorded crime classification: malware and ransomware.
 - Recorded enforcement posture: Takedown and Seizure.
 - The record is categorized as takedown with status completed.
 

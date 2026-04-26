@@ -16,7 +16,9 @@ def has_issue(row: dict[str, Any], prefix: str) -> bool:
     return any(str(issue).startswith(prefix) for issue in row.get("issues", []))
 
 
-def recommendation(row: dict[str, Any]) -> str:
+def recommendation(row: dict[str, Any], all_multisource: bool = False) -> str:
+    if all_multisource:
+        return "enrich_all_multisource_from_existing_sources"
     if has_issue(row, "duplicate_source_url_refs"):
         return "dedupe_same_url_references_then_enrich"
     if has_issue(row, "source_rich_thin_body") and row.get("source_words", 0) >= 1200:
@@ -45,18 +47,29 @@ def sort_key(row: dict[str, Any]) -> tuple[int, int, int, str]:
     )
 
 
-def select_rows(rows: list[dict[str, Any]], limit: int) -> list[dict[str, Any]]:
-    candidates = [
-        row
-        for row in rows
-        if int(row.get("score") or 0) >= 45
-        or has_issue(row, "source_rich_thin_body")
-        or has_issue(row, "duplicate_source_url_refs")
-    ]
-    return sorted(candidates, key=sort_key)[:limit]
+def source_count(row: dict[str, Any]) -> int:
+    try:
+        return int(row.get("source_count") or 0)
+    except Exception:
+        return 0
 
 
-def write_csv(rows: list[dict[str, Any]], path: Path) -> None:
+def select_rows(rows: list[dict[str, Any]], limit: int, all_multisource: bool, min_sources: int) -> list[dict[str, Any]]:
+    if all_multisource:
+        candidates = [row for row in rows if source_count(row) >= min_sources]
+    else:
+        candidates = [
+            row
+            for row in rows
+            if int(row.get("score") or 0) >= 45
+            or has_issue(row, "source_rich_thin_body")
+            or has_issue(row, "duplicate_source_url_refs")
+        ]
+    selected = sorted(candidates, key=sort_key)
+    return selected if limit <= 0 else selected[:limit]
+
+
+def write_csv(rows: list[dict[str, Any]], path: Path, all_multisource: bool) -> None:
     path.parent.mkdir(parents=True, exist_ok=True)
     with path.open("w", encoding="utf-8", newline="") as handle:
         writer = csv.writer(handle)
@@ -87,26 +100,29 @@ def write_csv(rows: list[dict[str, Any]], path: Path) -> None:
                     row.get("references_count", 0),
                     row.get("body_words", 0),
                     row.get("source_words", 0),
-                    recommendation(row),
+                    recommendation(row, all_multisource=all_multisource),
                     "; ".join(row.get("issues", [])),
                 ]
             )
 
 
-def render_report(rows: list[dict[str, Any]], total_rows: int) -> str:
+def render_report(rows: list[dict[str, Any]], total_rows: int, all_multisource: bool, min_sources: int) -> str:
+    mode = f"all operation/case pages with at least {min_sources} sources" if all_multisource else "priority audit findings"
+    title = "Multi-Source Content Enrichment Queue (2026-04-26)" if all_multisource else "Content Enrichment Queue (2026-04-26)"
     lines = [
         "---",
-        "title: Content Enrichment Queue (2026-04-26)",
+        f"title: {title}",
         "type: analysis",
         "created: 2026-04-26",
         "updated: 2026-04-26",
-        'summary: "Prioritized queue for enriching source-rich, thin, placeholder, or duplicate-reference operation and case pages."',
+        'summary: "Queue for enriching operation and case pages from existing source records."',
         "source_count: 0",
         "---",
         "## Summary",
         "",
         "This queue converts the content-depth audit into an execution list. It is ordered to fix pages where existing sources already contain enough material before searching for new sources.",
         "",
+        f"- Selection mode: **{mode}**",
         f"- Audited operation/case pages: **{total_rows}**",
         f"- Queue size: **{len(rows)}**",
         "",
@@ -118,7 +134,7 @@ def render_report(rows: list[dict[str, Any]], total_rows: int) -> str:
     for idx, row in enumerate(rows, 1):
         issues = ", ".join(row.get("issues", [])[:5])
         lines.append(
-            f"| {idx} | [[{row.get('slug', '')}]] | {str(row.get('category', ''))[:-1]} | {row.get('score', 0)} | {row.get('source_count', 0)} | {row.get('body_words', 0)} | {row.get('source_words', 0)} | {recommendation(row)} | {issues} |"
+            f"| {idx} | [[{row.get('slug', '')}]] | {str(row.get('category', ''))[:-1]} | {row.get('score', 0)} | {row.get('source_count', 0)} | {row.get('body_words', 0)} | {row.get('source_words', 0)} | {recommendation(row, all_multisource=all_multisource)} | {issues} |"
         )
 
     lines.extend(
@@ -139,18 +155,20 @@ def main() -> None:
     parser = argparse.ArgumentParser(description="Build a prioritized content enrichment queue from content-depth audit JSON.")
     parser.add_argument("--input", default="_workspace/content_depth_audit_2026-04-26.json")
     parser.add_argument("--limit", type=int, default=100)
+    parser.add_argument("--all-multisource", action="store_true", help="Select every operation/case page with at least --min-sources references.")
+    parser.add_argument("--min-sources", type=int, default=2)
     parser.add_argument("--csv", default="_workspace/content_enrichment_queue_2026-04-26.csv")
     parser.add_argument("--report", default=str(REPORT_PATH.relative_to(ROOT)))
     args = parser.parse_args()
 
     input_path = ROOT / args.input
     rows = load_rows(input_path)
-    queue = select_rows(rows, args.limit)
+    queue = select_rows(rows, args.limit, args.all_multisource, args.min_sources)
     csv_path = ROOT / args.csv
     report_path = ROOT / args.report
-    write_csv(queue, csv_path)
+    write_csv(queue, csv_path, all_multisource=args.all_multisource)
     report_path.parent.mkdir(parents=True, exist_ok=True)
-    report_path.write_text(render_report(queue, len(rows)), encoding="utf-8")
+    report_path.write_text(render_report(queue, len(rows), args.all_multisource, args.min_sources), encoding="utf-8")
     print(f"CSV: {csv_path}")
     print(f"Report: {report_path}")
     print(f"Audited pages: {len(rows)}")

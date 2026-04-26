@@ -259,8 +259,8 @@ No direct Korean involvement in Operation Cronos Phase 3 was identified. Japan w
 - UK sanctioned 15 Russian citizens, US sanctioned 6, Australia sanctioned 2 for Evil Corp involvement
 - Cumulative Operation Cronos arrests: 6 (Phase 1: 2, Phase 3: 4)
 - On 1 October 2024, Europol announced the third phase of **Operation Cronos** targeting the LockBit ransomware group, resulting in 4 new arrests: a suspected LockBit developer (France), 2 individuals supporting affiliate activity (UK), and a bulletproof hosting administrator (Spain).
-- Australia, the UK, and the US imposed financial sanctions against a prolific LockBit affiliate linked to Evil Corp.
-- The UK sanctioned 15 Russian citizens for Evil Corp involvement, the US sanctioned 6 citizens, and Australia sanctioned 2 citizens.
+- Australia, the UK, and the US imposed financial sanctions against a prolific LockBit affiliate linked to Evil Corp. The UK sanctioned 15 Russian citizens for Evil Corp involvement, the US sanctioned 6 citizens, and Australia sanctioned 2 citizens.
+- This action builds on the February 2024 initial takedown and involved 12+ countries coordinated by Europol and Eurojust.
 - The UK, the United States, and Australia jointly sanctioned Dmitry Khoroshev, identified as a senior LockBit leader.
 
 <!-- SOURCE_ENRICHMENT_END -->

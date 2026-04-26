@@ -126,7 +126,8 @@ The underlying public case record identifies Key figures behind Phobos and 8Base
 - Europol had supported the investigation since February 2019, organizing 37 operational meetings and exchanging nearly 600 operational messages via SIENA.
 - **Operation date:** Early February 2025 - **Publication date:** 11 February 2025
 - **Phobos/8Base Ransomware Crackdown** was a sustained multinational investigation against the **Phobos** ransomware ecosystem and **8Base** operators.
-- Public official material supports a six-year investigative arc, **four arrests** announced in February 2025, **27 servers taken down**, and a meaningful Asia-Europe-U.S.
+- Public official material supports a six-year investigative arc, **four arrests** announced in February 2025, **27 servers taken down**, and a meaningful Asia-Europe-U.S. linkage through the **arrest in South Korea and extradition to the United States of a Phobos administrator**.
+- BleepingComputer reported that U.S. and European authorities coordinated action against Phobos and 8Base actors.
 
 <!-- SOURCE_ENRICHMENT_END -->
 

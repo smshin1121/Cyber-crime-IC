@@ -194,6 +194,7 @@ The operation also illustrates a recurring cybercrime pattern: infrastructure di
 
 - Operation Avalanche, launched from a German investigation in 2012 and culminating on November 30, 2016, dismantled the world's largest phishing, spam, and malware distribution network known as "Avalanche.
 - The network had victimized users in over 180 countries through online banking hacking, phishing, spam, and malware distribution.
+- Updated December 5, 2016 Topic Cybercrime Component USAO - Pennsylvania, Western...Release Darknet Drug Trafficker from Western Pennsylvania Sentenced in D.C.
 - Eurojust describes Avalanche as a German investigation that began in 2012 and exposed a resilient criminal infrastructure used for malware, phishing and spam at global scale.
 - The publication states that the network infected millions of private and business computer systems and enabled credential theft, bank transfers, and money-mule recruitment.
 - Eurojust's case study is useful for the judicial-cooperation dimension because it focuses on the legal and coordination problems of a multinational takedown rather than only the press-release headline numbers.

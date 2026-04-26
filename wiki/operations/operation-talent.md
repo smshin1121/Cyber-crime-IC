@@ -153,7 +153,7 @@ The sources clearly support synchronized multinational police action with Europo
 
 ## Legal and Procedural Posture
 
-- Recorded crime classification: hacking.
+- Recorded crime classification: hacking and malware.
 - Recorded enforcement posture: Arrest, Seizure, Takedown.
 - The record is categorized as takedown with status completed.
 
@@ -161,6 +161,7 @@ The sources clearly support synchronized multinational police action with Europo
 
 - German authorities led an internationally coordinated action against Cracked and Nulled.
 - The operation produced two arrests, 17 server seizures, and wide evidence capture.
+- It confirms the U.S. role, the international coalition, and the disruption of Cracked and Nulled.
 - Cybernews reported that Cracked and Nulled were seized in the Germany-led Operation Talent.
 - The report noted related action against Sellix and StarkRDP and the scale of the two forums' user bases.
 - Cybernews reported on the seizure of **Cracked** and **Nulled** under **Operation Talent**, including disruption of supporting services.

@@ -183,6 +183,7 @@ No known Korean involvement in this operation. However, Ramnit infections were r
 
 ## Evidence and Attribution Notes
 
+- URL-TOPIC MISMATCH: The Europol URL currently linked to the 'Europol Botnet Takedown 2023' wiki operation is actually the 2015-02-24 press release on the Ramnit botnet takedown, NOT a 2023 action.
 - The operation page title is misleading and should be corrected or the source reassigned
 - The actual article describes the 24 February 2015 takedown of the Ramnit botnet, which had infected ~3.2 million computers worldwide, led by the UK National Crime Agency with partner action in Germany, Italy and the Netherlands
 - Private-sector partners: Microsoft, Symantec and AnubisNetworks contributed technical analysis and sinkholing.

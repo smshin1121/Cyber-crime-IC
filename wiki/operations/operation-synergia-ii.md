@@ -63,7 +63,7 @@ timeframe:
   start: 2024-04-01
 title: "Operation Synergia II"
 type: operation
-updated: 2026-04-09
+updated: 2026-04-26
 operation_role: umbrella
 parent_operation: ""
 summary: "Operation Synergia II was a massive INTERPOL-coordinated operation targeting malicious cyber infrastructure across **95 INTERPOL member countries** from April to August 2024. The operation focused on phishing, ransomware, and information stealer infrastructure. It identified approximately 30,000 suspicious IP addresses, took down 76% of them (~22,800), seized 59 servers and 43 electronic devices, and resulted in 41 arrests with 65 others still under investigation."
@@ -137,6 +137,44 @@ No specific Korean involvement was noted in the published results of Operation S
 > for this operation. Possible reasons: non-US jurisdiction with no
 > public court records system, sealed proceedings, or operation did
 > not result in formal prosecution.
+
+<!-- SOURCE_ENRICHMENT_START -->
+
+## Source Coverage
+
+- INTERPOL, 2024-11-06: INTERPOL cyber operation takes down 22,000 malicious IP addresses — Operation Synergia II.
+- Kaspersky, Unknown: Kaspersky: Operation Avalanche.
+- Kaspersky, 2024-11-05: Kaspersky supports INTERPOL's Operation Synergia II.
+- Group-IB, 2024-11-06: Group-IB supports INTERPOL Operation Synergia II.
+- Ars Technica, 2024-11-07: INTERPOL operation takes down 22,000 malicious IP addresses.
+
+## Operational Timeline
+
+- 2024-04-01: activity or investigation start.
+- 2024-11-06: public announcement.
+- 2024-08-31: reported enforcement endpoint.
+- 2024-11-05: public source coverage from Kaspersky.
+- 2024-11-06: public source coverage from Group-IB, INTERPOL.
+- 2024-11-07: public source coverage from Ars Technica.
+- Unknown: public source coverage from Kaspersky.
+
+## Legal and Procedural Posture
+
+- Recorded crime classification: ransomware.
+- The record is categorized as infrastructure-seizure with status completed.
+
+## Evidence and Attribution Notes
+
+- Operation Synergia II involved 95 INTERPOL member countries — one of the broadest INTERPOL cyber operations to date
+- 22,800 malicious IP addresses taken down (76% of ~30,000 identified)
+- 59 servers and 43 electronic devices seized; 41 arrests
+- Strong private sector partnership (Group-IB, Trend Micro, Kaspersky, Team Cymru)
+- INTERPOL press release announcing the results of Operation Synergia II (April-August 2024), a massive infrastructure-focused operation targeting phishing, ransomware, and information stealer infrastructure across 95 INTERPOL member countries.
+- The operation took down 22,800 malicious IP addresses, seized 59 servers and 43 devices, and resulted in 41 arrests.
+- INTERPOL's Operation Synergia II ran from 1 April to 31 August 2024 and specifically targeted phishing, ransomware, and information stealer infrastructure.
+- The operation was a joint effort involving law enforcement agencies from 95 INTERPOL member countries alongside private sector partners Group-IB, Trend Micro, Kaspersky, and Team Cymru.
+
+<!-- SOURCE_ENRICHMENT_END -->
 
 ## References
 

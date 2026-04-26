@@ -59,7 +59,7 @@ source_count: 2
 sources:
   - "[[2021-06-08_sdca_anom-enterprise-indictment]]"
 created: 2026-04-17
-updated: "2026-04-26"
+updated: 2026-04-26
 summary: "United States v. ANOM Distributors is the San Diego prosecution of the 17-defendant enterprise charged in connection with Operation Trojan Shield. The case is *highly likely* one of the most operationally unusual criminal cases in the repository because the FBI itself controlled the messaging platform that generated the evidence."
 ---
 ## Summary
@@ -126,6 +126,23 @@ South Korea was not identified as a direct participant in the collected DOJ rele
 1. The publicly identified “third country” for message collection is not specified in the collected source.
 2. The full sentencing outcomes for all extradited defendants are still uneven in the public record.
 3. The boundary between undercover facilitation and evidentiary collection remains legally significant even if the motions filed so far were unsuccessful.
+
+<!-- SOURCE_ENRICHMENT_START -->
+
+## Source Coverage
+
+- US DOJ (Southern District of California), 2021-06-08: FBI’s Encrypted Phone Platform Infiltrated Hundreds of Criminal Syndicates; Result is Massive Worldwide Takedown.
+
+## Evidence and Attribution Notes
+
+- On 8 June 2021, the U.S. Attorney's Office for the Southern District of California announced the unsealing of a federal indictment charging 17 foreign nationals with distributing ANOM encrypted devices and services to criminal syndicates worldwide.
+- DOJ described the indictment as the charging core of Operation Trojan Shield, the FBI-led operation in which the Bureau secretly operated the ANOM platform while collecting more than 27 million messages.
+- According to DOJ, the defendants were charged with racketeering conspiracy for marketing and distributing thousands of encrypted communication devices to transnational criminal organizations.
+- The same announcement linked the indictment to more than 500 arrests during the initial takedown wave and to coordinated enforcement activity across Australia, Europe, and other regions.
+- Subsequent DOJ releases show that the criminal case matured into guilty pleas and sentencings after extraditions from multiple countries.
+- The case is therefore especially important for international-cooperation analysis because the underlying ANOM collection depended on an international cooperation agreement with a third country for message collection and on later extradition pipelines from countries including Colombia, Finland, and the Netherlands.
+
+<!-- SOURCE_ENRICHMENT_END -->
 
 ## References
 

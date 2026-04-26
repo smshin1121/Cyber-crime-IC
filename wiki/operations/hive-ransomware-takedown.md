@@ -143,7 +143,7 @@ United States, Germany, Netherlands, United Kingdom, Canada, France, Romania, Li
 
 ## Legal and Procedural Posture
 
-- Recorded crime classification: ransomware.
+- Recorded crime classification: malware.
 - The record is categorized as takedown with status completed.
 
 ## Evidence and Attribution Notes

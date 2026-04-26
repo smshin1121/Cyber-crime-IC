@@ -275,6 +275,21 @@ Earlier versions of this page repeated the same DOJ January 2024 URL through mul
 - Several foreign assistance channels are named in the DOJ roundup, but the specific legal instrument used in each country is not always identified.
 - Some later sentencing or extradition outcomes after the January 2024 roundup may require follow-up verification.
 
+<!-- SOURCE_ENRICHMENT_START -->
+
+## Source Coverage
+
+- US DOJ (Middle District of Florida), 2024-01-04: 19 Individuals Worldwide Charged In Transnational Cybercrime Investigation Of The xDedic Marketplace.
+- US DOJ (Middle District of Florida), 2021-09-08: Ukrainian Cyber Criminal Extradited For Decrypting The Credentials Of Thousands Of Computers Across The World And Selling Them On A Dark Web Website.
+- US DOJ (Middle District of Florida), 2021-09-15: Four Men Federally Charged In Transnational Wire Fraud And Identity Theft Conspiracy.
+- US DOJ (Middle District of Florida), 2022-11-22: Moldovan National And Technical Mastermind Of xDedic Marketplace Extradited From Spain.
+- US DOJ (Middle District of Florida), 2022-12-05: Nigerian National Sentenced To More Than Six Years In Federal Prison For International Tax Fraud Scheme.
+- US DOJ (Middle District of Florida), 2023-02-22: Russian Malware Developer Arrested And Extradited To The United States.
+- US DOJ (Middle District of Florida), 2023-11-29: U.S.-Based Conspirators Sentenced To Prison For International Tax Scheme.
+- US DOJ (Middle District of Florida), 2024-07-23: Nigerian National Sentenced To More Than 12 Years In Federal Prison For Cyber Scams.
+
+<!-- SOURCE_ENRICHMENT_END -->
+
 ## References
 
 | # | Title | Publisher | Date | URL |

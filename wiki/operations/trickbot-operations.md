@@ -93,7 +93,7 @@ sources:
   - "[DOJ — Multiple Foreign Nationals Charged (2023-09-07)](https://www.secretservice.gov/newsroom/releases/2023/09/multiple-foreign-nationals-charged-connection-trickbot-malware-and-conti)"
   - "[BleepingComputer — Dunaev sentenced (2024-01)](https://www.bleepingcomputer.com/news/security/russian-trickbot-malware-dev-sentenced-to-64-months-in-prison/)"
 created: 2026-04-10
-updated: "2026-04-26"
+updated: 2026-04-26
 operation_role: umbrella
 parent_operation: ""
 summary: "The TrickBot disruption was a multi-pronged effort in October 2020 involving both U.S. military cyber operations and a private-sector-led legal action to disable one of the world's largest and most persistent botnets. U.S. Cyber Command conducted offensive operations to interfere with TrickBot's command-and-control (C2) infrastructure, while Microsoft, acting under a court order from the U.S. District Court for the Eastern District of Virginia, took down 120 of 128 identified TrickBot servers in the first week. The urgency was driven by concerns that TrickBot-deployed ransomware could disrupt U.S. election infrastructure ahead of the November 2020 presidential election. While the initial disruption was temporary — TrickBot operators eventually rebuilt portions of their infrastructure — the operation was followed by a sustained law enforcement campaign that produced arrests and indictments through 2024, including the arrest of developer Vladimir Dunaev in [[south-korea|South Korea]] and the indictment of nine Russian nationals."
@@ -253,6 +253,18 @@ This arrest and extradition demonstrate South Korea's capacity and willingness t
 - **Coordination between Cyber Command and Microsoft**: While officials described the operations as "distinct," the degree of coordination and deconfliction between the two efforts is not publicly documented.
 - **Short-term vs. long-term effectiveness**: Intel 471 and other researchers assessed the initial disruption as having only "short-term impact." The long-term effectiveness argument rests on the subsequent prosecution campaign, which took years to materialize.
 - **Remaining fugitives**: Of the 9 indicted Russian nationals, most remain at large in Russia, where they are unlikely to be extradited. The practical enforcement impact is limited to travel restrictions and asset seizures.
+
+<!-- SOURCE_ENRICHMENT_START -->
+
+## Source Coverage
+
+- Microsoft, 2020-10-12: New action to combat ransomware ahead of U.S. elections.
+- Microsoft, 2020-10-20: An update on disruption of Trickbot.
+- CyberScoop, 2020-10-12: Cyber Command, Microsoft take action against Trickbot.
+- U.S. Secret Service / DOJ, 2023-09-07: Multiple Foreign Nationals Charged in Connection with Trickbot and Conti.
+- BleepingComputer, 2024-01: Russian TrickBot malware dev sentenced to 64 months in prison.
+
+<!-- SOURCE_ENRICHMENT_END -->
 
 ## References
 

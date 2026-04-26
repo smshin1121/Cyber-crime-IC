@@ -91,7 +91,7 @@ sources:
   - "[[2025-12-02_techradar-com_huge-cryptomixer-takedown-sees-feds-seize-over-usd30milion]]"
   - "[[2025-12-01_heise-de_illegaler-cryptomixer-von-strafverfolgern-zerschlagen]]"
 created: 2026-04-14
-updated: "2026-04-26"
+updated: 2026-04-26
 operation_role: umbrella
 parent_operation: ""
 summary: "On **1 December 2025**, [[eurojust|Eurojust]] announced that authorities from [[germany|Germany]] and [[switzerland|Switzerland]], together with Eurojust and [[europol-ec3|Europol]], had taken down a cryptocurrency mixing service suspected of being used by criminals to launder the proceeds of drug trafficking, weapons trafficking, online fraud, and other cybercrimes. During an action week, **more than EUR 25 million in cryptocurrency was seized and three servers were taken down**."
@@ -204,6 +204,29 @@ No [[south-korea|South Korean]] participation is documented in this operation. K
 > for this operation. Possible reasons: non-US jurisdiction with no
 > public court records system, sealed proceedings, or operation did
 > not result in formal prosecution.
+
+<!-- SOURCE_ENRICHMENT_START -->
+
+## Source Coverage
+
+- Eurojust, 2025-12-01: Cryptocurrency mixing service used to launder money taken down.
+- CoinDesk, 2025-12-01: European authorities seize Bitcoin-mixing service Cryptomixer.
+- AML Intelligence, 2025-12-01: EU takes down Cryptomixer, used to mix EUR 1.3bn in Bitcoin.
+- TechRadar, 2025-12-02: Huge cryptomixer takedown sees feds seize over USD 30 million.
+- heise online, 2025-12-01: Illegaler 'Cryptomixer' von Strafverfolgern zerschlagen.
+
+## Evidence and Attribution Notes
+
+- Germany and Switzerland, with Eurojust and Europol, took down a cryptocurrency mixing service used to launder proceeds from drug trafficking, weapons trafficking, online fraud and other cybercrimes (action published 1 December 2025)
+- More than EUR 25 million in cryptocurrency seized during the action week
+- Operation not publicly named in the Eurojust release; descriptive slug used in wiki
+- CoinDesk reported that European authorities seized Cryptomixer infrastructure, including three servers and the domain.
+- The article attributed the action to German and Swiss authorities with Europol and Eurojust support.
+- CoinDesk reported that European authorities seized **Cryptomixer** infrastructure with German and Swiss participation.
+- AML Intelligence identified the service as Cryptomixer and reported server, domain, and crypto seizures.
+- The report linked the action to German and Swiss authorities with Eurojust and Europol.
+
+<!-- SOURCE_ENRICHMENT_END -->
 
 ## References
 

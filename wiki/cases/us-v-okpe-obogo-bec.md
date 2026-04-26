@@ -52,7 +52,7 @@ sources:
   - "[[2023-03-29_scworld_us-convicts-nigerian-bec-scammer]]"
   - "[[2023-03-28_infosecurity-magazine_four-years-behind-bars-for-prolific-bec-scammer]]"
 created: 2026-04-17
-updated: 2026-04-17
+updated: 2026-04-26
 summary: "United States v. Okpe and Obogo is a District of Arizona fraud prosecution arising from a multi-year cyber-enabled scheme that included business email compromise, work-from-home fraud, romance fraud, and credit-card abuse. The case is *highly likely* one of the cleaner examples in the repository where DOJ explicitly described both overseas arrests and extraditions in a BEC-related matter."
 ---
 ## Summary
@@ -118,6 +118,29 @@ South Korea was not directly involved. The case is still *likely* relevant to Ko
 1. The collected sources do not identify the exact treaty channels used with Malaysia and the United Kingdom.
 2. The public record does not quantify actual losses with the same precision as intended losses.
 3. It remains unclear whether additional co-conspirators were charged or remained abroad.
+
+<!-- SOURCE_ENRICHMENT_START -->
+
+## Source Coverage
+
+- US DOJ (Office of Public Affairs), 2023-03-27: Foreign National Sentenced for Victimizing U.S. Persons Through Cyber-Enabled Fraud Schemes.
+- justice.gov, 2026-04-17: Nigerian Nationals Victimize U.S. Persons Through Cyber-Enabled Fraud Schemes.
+- U.S. Department of Justice (USAO Arizona Victim Notifications), 2023-01-23: US v Okpe et al.
+- SC Media, 2023-03-29: US convicts Nigerian BEC scammer.
+- Infosecurity Magazine, 2023-03-28: Four Years Behind Bars for Prolific BEC Scammer.
+
+## Evidence and Attribution Notes
+
+- On 27 March 2023, the Department of Justice announced that Solomon Ekunke Okpe, a Nigerian national, had been sentenced to four years and one month in prison for his role in a long-running cyber-enabled fraud conspiracy.
+- DOJ also noted that co-conspirator Johnson Uke Obogo had been sentenced one week earlier, on 20 March 2023, to one year and one day in prison in the same District of Arizona case.
+- According to court documents summarized by DOJ, the conspiracy ran from December 2011 to January 2017 and used a mix of business email compromise, work-from-home fraud, check-cashing fraud, romance scams, and credit-card fraud to target victims in Arizona and elsewhere in the United States.
+- DOJ stated that the scheme was intended to cause more than USD 1 million in losses.
+- The case is particularly useful for international-cooperation analysis because Okpe and Obogo were arrested abroad at U.S. request, in Malaysia and the United Kingdom respectively, and extradited to Arizona in 2022.
+- DOJ further stated that the Office of International Affairs provided significant assistance throughout the investigation and extradition process, making the international dimension explicit rather than merely inferred.
+- United States v. Okpe and Obogo is a District of Arizona fraud prosecution arising from a multi-year cyber-enabled scheme that included business email compromise, work-from-home fraud, romance fraud, and credit-card abuse.
+- The case is *highly likely* one of the cleaner examples in the repository where DOJ explicitly described both overseas arrests and extraditions in a BEC-related matter.
+
+<!-- SOURCE_ENRICHMENT_END -->
 
 ## References
 

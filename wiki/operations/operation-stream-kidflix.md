@@ -120,6 +120,7 @@ The public record supports a long-running multinational investigative model cent
 - Dutch National Police, 2025-04-03: Kinderpornografisch platform KidFlix offline gehaald.
 - Security Affairs / TRM Labs, 2025-04-04: Europol-led Operation Stream Takes Down Kidflix CSAM Platform.
 - BleepingComputer, 2025-04-02: Police shuts down KidFlix child sexual exploitation platform.
+- eucrim, 2025-05-15: Pedophile Platform 'Kidflix' Shut Down.
 
 ## Operational Timeline
 
@@ -139,7 +140,7 @@ The public record supports a long-running multinational investigative model cent
 
 ## Evidence and Attribution Notes
 
-- # Operation Stream — Kidflix CSAM Platform Takedown An international law enforcement operation named "Operation Stream" dismantled Kidflix, one of the largest known child sexual abuse material (CSAM) streaming platforms on the dark web.
+- Operation Stream — Kidflix CSAM Platform Takedown An international law enforcement operation named "Operation Stream" dismantled Kidflix, one of the largest known child sexual abuse material (CSAM) streaming platforms on the dark web.
 - The operation was led by the Bavarian State Criminal Police (Bayerisches Landeskriminalamt) and the Bavarian Central Office for the Prosecution of Cybercrime (ZCB), with coordination by Europol across 35 countries.
 - **Platform: "** Kidflix — CSAM streaming platform operational since 2021"
 - An international law enforcement operation named "Operation Stream" dismantled Kidflix, one of the largest known child sexual abuse material (CSAM) streaming platforms on the dark web.

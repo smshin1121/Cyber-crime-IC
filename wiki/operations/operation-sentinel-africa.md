@@ -200,7 +200,7 @@ No direct Korean involvement. Operation focused exclusively on African countries
 
 ## Legal and Procedural Posture
 
-- Recorded crime classification: BEC.
+- Recorded crime classification: BEC and ransomware.
 - Recorded enforcement posture: Arrest and Takedown.
 - The record is categorized as arrest-sweep with status completed.
 

@@ -53,7 +53,7 @@ source_count: 2
 sources:
   - "[[2025-05-23_doj_danabot-indictment]]"
 created: 2026-04-12
-updated: "2026-04-26"
+updated: 2026-04-26
 summary: "United States v. Stepanov et al. is the 16-count indictment of 16 Russian nationals for operating the DanaBot malware network, announced on 23 May 2025 as part of [[operation-endgame-phase2|Operation Endgame Phase 2]]. DanaBot infected 300,000+ computers worldwide and caused an estimated USD 50 million+ in financial damages. The malware served dual purposes: cybercrime (credential theft, fraud) and espionage (targeting government and military entities)."
 ---
 ## Summary
@@ -112,6 +112,19 @@ No Korean involvement identified.
 1. Official DOJ source for DanaBot indictment details needs confirmation.
 2. Are any of the 16 defendants likely to be apprehended given their location in Russia?
 3. What was the scope of DanaBot's espionage activity (government/military targeting)?
+
+<!-- SOURCE_ENRICHMENT_START -->
+
+## Source Coverage
+
+- US DOJ, 2025-05-23: Leader of Qakbot Malware Conspiracy Indicted for Involvement in Global Ransomware Scheme.
+
+## Evidence and Attribution Notes
+
+- As part of Operation Endgame Phase 2 (announced 23 May 2025), the US Department of Justice unsealed a 16-count indictment charging 16 Russian nationals for operating the DanaBot malware network.
+- Key Named Defendants - **Aleksandr Stepanov** (aka "JimmBee"), 39, of Novosibirsk, Russia
+
+<!-- SOURCE_ENRICHMENT_END -->
 
 ## References
 

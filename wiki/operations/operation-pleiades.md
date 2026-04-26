@@ -192,7 +192,7 @@ No Korean participation was identified in the available public record.
 
 ## Legal and Procedural Posture
 
-- Recorded crime classification: Ddos Ic.
+- Recorded crime classification: Ddos Ic and ransomware.
 - Recorded enforcement posture: Arrest and Seizure.
 - The record is categorized as arrest-sweep with status completed.
 
