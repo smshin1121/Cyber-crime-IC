@@ -110,7 +110,7 @@ updated: 2026-04-14
 | [[operation-eur-600m-crypto-scam-network-2025]] | CYB-2025-1104 | 3 | completed | 4.60 | 2 |
 | [[operation-eur-300m-global-credit-card-fraud-2025]] | CYB-2025-1105 | 3 | completed | 4.70 | 2 |
 | [[operation-germany-romania-trusted-seller-fraud-2025]] | CYB-2025-625 | 3 | completed | 4.50 | 2 |
-| [[proxy-service-takedown-2026-03]] | CYB-2026-001 | 3 | completed | 3.50 | 1 |
+| [[proxy-service-takedown-2026-03]] | CYB-2026-001 | 3 | completed | 4.50 | 1 |
 | [[operation-de-fr-online-fraud-group-2026]] | CYB-2026-031 | 3 | completed | 4.40 | 2 |
 | [[operation-eur-100m-crypto-investment-fraud-2025]] | CYB-EU-2025-019 | 4 | completed | 4.30 | 1 |
 | [[operation-eur-100m-illegal-financial-service-laundering-2025]] | CYB-EU-2025-020 | 4 | completed | 4.32 | 1 |

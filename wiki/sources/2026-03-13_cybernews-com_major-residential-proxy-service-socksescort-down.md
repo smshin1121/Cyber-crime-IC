@@ -17,6 +17,7 @@ collection_url: https://cybernews.com/security/major-residential-proxy-service-s
 key_findings:
   - "Cybernews reported the disruption of SocksEscort and the scale of compromised household devices."
   - "The story described the service as a residential proxy network used to hide malicious traffic."
+  - "It emphasized that the service sold access to approximately 369,000 home internet connections / compromised devices."
 created: 2026-04-23
 text_status: summarized
 content_hash: sha256:94f3fb5c1113013fd7b148dedf282924df1727816d893ea00d9240720fa7d2c3
@@ -28,8 +29,8 @@ copyright_policy: summary-only
 ---
 ## Source Summary
 
-Cybernews described the scale and criminal utility of the SocksEscort proxy network.
+Cybernews described the scale and criminal utility of the SocksEscort residential proxy network, with emphasis on compromised home-internet connections and the service's role in hiding malicious traffic.
 
 ## Relevance to IC
 
-This source further supports [[proxy-service-takedown-2026-03]].
+This source further supports [[proxy-service-takedown-2026-03]] by independently framing the case as a residential-proxy disruption rather than a generic website seizure.

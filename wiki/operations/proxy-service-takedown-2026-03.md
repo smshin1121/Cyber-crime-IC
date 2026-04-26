@@ -1,10 +1,12 @@
 ---
 type: operation
-title: "IP Proxy Service for Cybercriminals Takedown (March 2026)"
+title: "SocksEscort / AVrecon Residential Proxy Takedown (March 2026)"
 title_ko: "사이버범죄용 IP 프록시 서비스 단속 (2026년 3월)"
 aliases:
+  - "SocksEscort Takedown"
+  - "SocksEscort Proxy Network Takedown"
+  - "AVrecon SocksEscort Takedown"
   - "Eurojust IP Proxy Takedown 2026"
-  - "FR-AT-NL-US Proxy Service Takedown"
 case_id: CYB-2026-001
 period: 3
 operation_type: infrastructure-seizure
@@ -12,234 +14,262 @@ status: completed
 enforcement_type:
   - seizure
   - takedown
-outcome: partial
+  - disruption
+  - cryptocurrency-freezing
+outcome: disrupted
 timeframe:
   announced: 2026-03-12
-  start: ""
-  end: 2026-03-12
+  start: "2020-06"
+  end: 2026-03-11
   ongoing: false
-crime_type: "[[hacking-ic]]"
-target_entity: "Unnamed website offering IP proxy services to cybercriminals; same operators allegedly hosted a payment platform for the proxy service"
-lead_agency: "[[eurojust]]"
+crime_type: "[[cybercrime-infrastructure-ic]]"
+target_entity: "SocksEscort residential proxy service, AVrecon-infected routers and IoT devices, related command-and-control/payment infrastructure"
+lead_agency: "[[us-doj]]"
 coordinating_body: "[[eurojust]]"
 participating_countries:
+  - "[[united-states]]"
   - "[[france]]"
   - "[[austria]]"
   - "[[netherlands]]"
-  - "[[united-states]]"
+  - "[[bulgaria]]"
+  - "[[germany]]"
+  - "[[hungary]]"
+  - "[[romania]]"
 participating_agencies:
+  - "[[us-doj]]"
+  - "[[fbi]]"
+  - "[[us-dcis]]"
+  - "IRS Criminal Investigation Oakland Field Office"
   - "[[eurojust]]"
   - "[[europol-ec3]]"
+  - "[[france-national-police|French National Police OFAC]]"
+  - "[[france-junalco|JIRS/JUNALCO]]"
+  - "[[netherlands-om|Public Prosecutor's Office Limburg]]"
+  - "[[netherlands-politie|Police Limburg]]"
+  - "[[bulgaria-police|Bulgaria GDBOP Cybercrime Directorate]]"
+  - "[[germany-lka|Dusseldorf Police / ZAC NRW]]"
+  - "[[romania-diicot|Romania DIICOT]]"
 legal_basis:
   - "[[budapest-convention]]"
   - "[[mutual-legal-assistance]]"
+  - "[[european-investigation-order]]"
 mechanisms_used:
-  - "[[europol-jit|Joint Investigation Team]]"
-  - "[[mutual-legal-assistance|MLAT Process]]"
+  - "[[domain-seizure]]"
+  - "[[search-seizure]]"
+  - "[[cryptocurrency-seizure]]"
+  - "[[european-investigation-order]]"
+  - "[[eurojust-coordination-meeting]]"
+  - "[[public-private-cooperation]]"
 results:
   arrests: 0
   indictments: 0
-  servers_seized: 0
-  domains_seized: 0
-  cryptocurrency_seized: ""
+  servers_seized: 24
+  domains_seized: 34
+  cryptocurrency_seized: "Approximately EUR 3.5 million frozen by US authorities"
   decryption_keys_recovered: 0
   victims_notified: 0
   other:
-    - "IP proxy service dismantled"
-    - "102 victim countries identified per Eurojust release"
-    - "Associated payment platform also targeted"
+    - "SocksEscort residential proxy service disrupted on 2026-03-11"
+    - "Approximately 369,000 routers and IoT devices compromised or sold as proxy access since 2020"
+    - "Approximately 8,000 infected routers listed in the SocksEscort application in February 2026, including about 2,500 in the United States"
+    - "Affected device footprint reported across approximately 163 countries; Eurojust framed the enforcement target as serving cybercriminal proxy activity in 102 victim countries"
+    - "Approximately 124,000 customer users and more than EUR 5 million in customer payments reported by Eurojust"
 edges:
-  - source_actor: France
+  - source_actor: "United States"
+    target_actor: France
+    cooperation_type: joint_enforcement
+    legal_basis: MLAT
+    direction: undirected
+  - source_actor: "United States"
     target_actor: Austria
-    cooperation_type: joint_investigation
-    legal_basis: Budapest_Convention
+    cooperation_type: joint_enforcement
+    legal_basis: MLAT
     direction: undirected
-  - source_actor: France
+  - source_actor: "United States"
     target_actor: Netherlands
-    cooperation_type: joint_investigation
-    legal_basis: Budapest_Convention
-    direction: undirected
-  - source_actor: France
-    target_actor: "United States"
-    cooperation_type: joint_investigation
+    cooperation_type: joint_enforcement
     legal_basis: MLAT
     direction: undirected
   - source_actor: Eurojust
-    target_actor: France
-    cooperation_type: joint_investigation
-    legal_basis: Budapest_Convention
+    target_actor: "European participants"
+    cooperation_type: judicial_coordination
+    legal_basis: European_Investigation_Order
     direction: directed
   - source_actor: Europol
-    target_actor: France
+    target_actor: "Joint operation"
     cooperation_type: technical_assistance
-    legal_basis: informal
+    legal_basis: operational_support
     direction: directed
-credibility_index: 3.5
+credibility_index: 4.5
 source_tier: 1
 missing_fields:
-  - operation_name
-  - service_name
-  - arrests
-  - indictments
-  - servers_seized_count
-  - 4_unnamed_participating_countries
+  - public_operator_identity
+  - arrests_or_charges_if_any
+  - court_docket_numbers
+  - exact_seized_domain_and_server_inventory
 related_operations:
+  - "[[911-s5-botnet-takedown]]"
   - "[[doublevpn-takedown]]"
 challenges_encountered:
   - "[[data-sovereignty]]"
   - "[[jurisdictional-conflicts]]"
 lessons_learned:
-  - "Cross-Atlantic FR-AT-NL-US judicial cooperation under Eurojust coordination can dismantle cybercrime anonymisation infrastructure even where the underlying victim base spans 102 countries"
-source_count: 5
+  - "Residential proxy botnets require simultaneous malware, domain, server, payment, and victim-remediation measures rather than a domain seizure alone."
+  - "Eurojust/Europol coordination can align US seizure authority with European Investigation Orders where infected-device infrastructure and operators span several European states."
+source_count: 6
 sources:
   - "[[2026-03-12-eurojust-proxy-service-takedown]]"
-  - "[[2025-05-09_politie-nl_anyproxy-amsterdam-fbi]]"
+  - "[[2026-03-12_justice-gov_authorities-dismantle-global-malicious-proxy-service-deployed-malware-and-defrauded]]"
+  - "[[2026-03-12_fbi-gov_avrecon-malware-infected-routers-exploited-as-residential-proxies-by-socksescort]]"
   - "[[2026-03-13_cyberscoop-com_socksescort-proxy-network-botnet-takedown]]"
   - "[[2026-03-13_cybernews-com_major-residential-proxy-service-socksescort-down]]"
   - "[[2026-03-13_techradar-com_major-socksescort-proxy-network-powered-by-linux-malware-taken-down-by-fbi-and-other-police-forces]]"
 created: 2026-04-14
-updated: 2026-04-26
+updated: 2026-04-27
 operation_role: umbrella
 parent_operation: ""
-summary: "On **12 March 2026**, [[eurojust|Eurojust]] announced the takedown of an unnamed website allegedly offering **IP proxy services for cybercriminals in 102 countries** of victims. The operation was conducted by authorities from **eight countries** — only four of which are publicly named: [[france|France]], [[austria|Austria]], the [[netherlands|Netherlands]], and the [[united-states|United States]] — coordinated by [[eurojust|Eurojust]] and [[europol-ec3|Europol]]. The operators of the proxy service are also suspected of running an associated **payment platform** for the service."
+summary: "On 11 March 2026, authorities in the United States and Europe disrupted SocksEscort, a malware-enabled residential proxy service that sold access to AVrecon-compromised routers and IoT devices. Eurojust reported the takedown of 24 servers in seven countries, seizure of 34 domains, disconnection of infected modems, and approximately EUR 3.5 million in cryptocurrency frozen by US authorities. DOJ and FBI materials identify the service as SocksEscort and the malware family as AVrecon."
 jurisdictions:
+  - "[[united-states]]"
   - "[[france]]"
   - "[[austria]]"
   - "[[netherlands]]"
-  - "[[united-states]]"
+  - "[[bulgaria]]"
+  - "[[germany]]"
+  - "[[hungary]]"
+  - "[[romania]]"
 organizations:
+  - "[[us-doj]]"
+  - "[[fbi]]"
+  - "[[us-dcis]]"
   - "[[eurojust]]"
   - "[[europol-ec3]]"
+  - "[[shadowserver]]"
 crime_types:
-  - "[[hacking-ic]]"
+  - "[[cybercrime-infrastructure-ic]]"
   - "[[malware-ic]]"
+  - "[[online-fraud-ic]]"
+  - "[[bank-fraud-ic]]"
 ---
 ## Summary
 
-On **12 March 2026**, [[eurojust|Eurojust]] announced the takedown of an unnamed website allegedly offering **IP proxy services for cybercriminals in 102 countries** of victims. The operation was conducted by authorities from **eight countries** — only four of which are publicly named: [[france|France]], [[austria|Austria]], the [[netherlands|Netherlands]], and the [[united-states|United States]] — coordinated by [[eurojust|Eurojust]] and [[europol-ec3|Europol]]. The operators of the proxy service are also suspected of running an associated **payment platform** for the service.
+On **11 March 2026**, a US-European law-enforcement action disrupted **SocksEscort**, a residential proxy service that monetized routers and IoT devices infected with **AVrecon** malware. [[eurojust|Eurojust]] announced the public takedown on **12 March 2026**; the [[us-doj|US Department of Justice]] and [[fbi|FBI]] materials identify the service and malware family that the earlier Eurojust framing did not name.
 
-The Eurojust release does not name the proxy service, the operation, the four unnamed participating countries, the arrests count, or the number of servers seized. It is *almost certainly* one of a continuing series of EU/US cybercrime anonymisation-infrastructure takedowns and *likely* relates to a malware-distributed proxy botnet (residential proxy / SOCKS proxy networks built from compromised devices), based on the framing "after identifying numerous victims of the malware used to gain access to IP addresses for the proxy service."
+The action was materially larger than the original page reflected. Eurojust reported **24 servers taken down in seven countries**, **34 domains seized**, infected modems disconnected from the proxy service, approximately **EUR 3.5 million in cryptocurrency frozen by US authorities**, about **369,000 compromised routers and other devices across 163 countries**, and roughly **124,000 customer users**. DOJ added that SocksEscort had offered access to about **369,000 IP addresses since summer 2020** and that, as of February 2026, the service listed about **8,000 active infected routers**, including about **2,500 in the United States**.
 
-> [!note] Unnamed operation
-> The proxy service and the operation itself are unnamed in the Eurojust press release. The wiki slug `proxy-service-takedown-2026-03` is descriptive only. If a name surfaces in follow-up reporting, this page should be renamed.
+> [!note] Reconciliation note
+> This page originally treated the service as unnamed because it was based on a short Eurojust ingest. Subsequent official DOJ and FBI publications identify the service as **SocksEscort** and the malware as **AVrecon**. The "4 unnamed countries" and "servers not stated" gaps are therefore resolved.
 
-> [!note] 8 countries total, 4 named
-> The Eurojust release states that authorities from **eight countries** participated. Only **four are named** (France, Austria, Netherlands, US). The identities of the remaining four are not disclosed in the source.
+## What Was Targeted
 
-## Background
+SocksEscort sold paid access to residential IP addresses so customers could route traffic through ordinary home and small-business networks. That made malicious activity appear to originate from legitimate consumer connections rather than from known criminal infrastructure.
 
-IP proxy services for cybercriminals — also called "residential proxy services," "SOCKS proxy networks," or "anonymisation services" — provide criminals with the ability to route their malicious traffic through legitimate-looking IP addresses, defeating geographic and reputation-based defences. The IP addresses are typically obtained by:
+The technical substrate was **AVrecon**, malware used to compromise routers and IoT devices. The FBI FLASH says the malware targeted routers and IoT devices across approximately 163 countries, primarily SOHO devices and consumer networking equipment. The proxy service then sold access to those devices as residential proxies.
 
-1. **Infecting victim devices** with malware that turns them into proxy nodes (residential proxy botnets such as 911 S5, RSOCKS)
-2. **Compromising routers, IoT devices, or VPSs** without owner consent
-3. **In rare cases, recruiting voluntary node operators**
+## Criminal Use
 
-The Eurojust release explicitly references "the malware used to gain access to IP addresses for the proxy service," which *strongly implies* a residential proxy botnet model — comparable to prior takedowns such as [[911-s5-botnet-takedown|911 S5]] (2024) and RSOCKS (2022).
+The sources document several abuse patterns:
+
+- Concealing the origin of fraud traffic through residential IP addresses
+- Takeovers of bank and cryptocurrency accounts
+- Fraudulent unemployment-insurance claims
+- Ad fraud, password spraying, marketplace fraud, banking fraud, and romance-fraud activity observed by the FBI and partners
+- Use of the proxy network to evade IP reputation, geolocation, and block-list controls
+
+DOJ listed concrete US victim examples, including a New York cryptocurrency-exchange customer defrauded of about USD 1 million in cryptocurrency, a Pennsylvania manufacturing business defrauded of about USD 700,000, and current or former US service members whose MILITARY STAR cards were defrauded of about USD 100,000.
 
 ## Participating Parties
 
-| Country | Role |
-|---------|------|
-| [[france]] | Co-lead enforcement (likely investigative anchor given Eurojust framing) |
-| [[austria]] | Co-lead enforcement |
-| [[netherlands]] | Co-lead enforcement |
-| [[united-states]] | Co-lead enforcement (transatlantic anchor) |
-| (4 unnamed countries) | Participating; identities not disclosed in the Eurojust release |
+| Country / Body | Publicly identified participants | Role |
+|---|---|---|
+| [[united-states]] | [[us-doj]], US Attorney's Office for the Eastern District of California, [[fbi|FBI Sacramento]], [[us-dcis|DCIS]], IRS Criminal Investigation Oakland, DOJ OIA, DOJ National Security Cyber Section, DOJ CCIPS, ICHIP The Hague, FinCEN, California Highway Patrol | US-led court-authorized disruption, domain seizures, investigation, crypto/financial support |
+| [[france]] | Paris J3 Anti-Cybercrime unit, JIRS/JUNALCO financial and cybercrime section, [[france-national-police\|OFAC]] | Server/infrastructure action and judicial coordination |
+| [[austria]] | Criminal Intelligence Service Austria, Cybercrime-Competence-Center C4, Public Prosecutor's Office Vienna | Server/infrastructure action and judicial coordination |
+| [[netherlands]] | Public Prosecutor's Office Limburg, Police Limburg / Dutch National Police | Server/infrastructure action and judicial coordination |
+| [[bulgaria]] | District Public Prosecution Office Plovdiv, GDBOP Cybercrime Directorate | Action-day support through Eurojust-transmitted judicial request |
+| [[germany]] | Dusseldorf Police Headquarters, ZAC NRW | Server/infrastructure and judicial support |
+| [[hungary]] | Prosecution Service of Hungary, National Bureau of Investigation Cybercrime Department | Server/infrastructure and judicial support |
+| [[romania]] | Prosecutor's Office of the High Court of Cassation and Justice, DIICOT Central Office, Central Cybercrime Unit, Romanian Police | Server/infrastructure and judicial support |
+| [[eurojust]] | Coordination meetings and action-day judicial coordination | Prepared and synchronized cross-border judicial measures |
+| [[europol-ec3\|Europol]] | Operational/analytical support, crypto tracing, malware and network analysis, Virtual Command Post | Technical and operational support |
+| Private/technical partners | Lumen Black Lotus Labs, [[shadowserver\|Shadowserver Foundation]] | Technical assistance and network-disruption support |
 
-| Coordinating Body | Role |
-|-------------------|------|
-| [[eurojust]] | Judicial coordination across the 4 named EU and the US |
-| [[europol-ec3]] | Operational and analytical support |
+## Legal and Cooperation Model
 
-> [!note] Source gap on agency identities
-> The Eurojust release does not specify which national agencies led each country's component (e.g., for the US, this could be the [[fbi-cyber-division|FBI]], [[us-doj|DOJ]], or another body — none is confirmed).
+The operation combined several layers of authority rather than relying on a single seizure:
 
-## Legal Framework
-
-- **[[budapest-convention|Budapest Convention]]**: All four named participants (France, Austria, Netherlands, US) are parties, providing the multilateral framework for cross-border preservation, search and seizure, and MLA.
-- **EU Joint Investigation Team framework**: For the EU members (FR, AT, NL), a [[europol-jit|JIT]] is *highly likely* though not stated.
-- **US-EU Mutual Legal Assistance Agreement**: Provides the formal channel between the US and the three named EU members.
-- **Eurojust coordination**: Cross-jurisdictional judicial coordination, including with the US under the Eurojust-US cooperation agreement.
+- **US court-authorized seizure warrants** against US-registered domains connected to the proxy service.
+- **European Investigation Orders** prepared through Eurojust for infrastructure in France, Germany, Hungary, the Netherlands, Romania, and the United States.
+- **Eurojust coordination** for prosecutors and investigating judges, including repeated meetings in The Hague.
+- **Europol operational support**, including crypto tracing, malware analysis, network analysis, database cross-checks, and an action-day Virtual Command Post.
+- **Private-sector technical support** from Lumen Black Lotus Labs and Shadowserver.
 
 ## Operational Timeline
 
 | Date | Event |
-|------|-------|
-| (Pre-2026) | Investigation initiated after identification of malware victims used to build the proxy service |
-| (Pre-2026) | Coordinated FR-AT-NL-US (+ 4 unnamed) action against the service |
-| 2026-03-12 | Eurojust announces the takedown via press release |
+|---|---|
+| Summer 2020 | DOJ says SocksEscort had begun offering access to compromised IP addresses by this period. |
+| February 2026 | DOJ says the SocksEscort application listed approximately 8,000 infected routers available to customers, including about 2,500 in the United States. |
+| 2026-03-11 | Coordinated operation targeted the proxy-service infrastructure; Eurojust reports 24 servers taken down in seven countries and 34 domains seized. |
+| 2026-03-12 | Eurojust, DOJ/USAO EDCA, IRS-CI, and the FBI FLASH publicly documented the takedown from different perspectives. |
+| 2026-03-13 | CyberScoop, Cybernews, and TechRadar added trade-press coverage naming SocksEscort and describing the AVrecon/proxy-botnet context. |
+| 2026-04-18 | DOJ Cyber & IP Europe later confirmed ICHIP The Hague's Eurojust coordination-center role and listed the eight participating countries. |
 
 ## Results and Impact
 
-| Metric | Value |
-|--------|-------|
-| Servers seized | not stated (count unknown) |
-| Arrests | not stated |
-| Indictments | not stated |
-| Victim countries | **102** |
-| Associated payment platform | also targeted |
+| Metric | Value | Source basis |
+|---|---:|---|
+| Servers taken down | 24 | Eurojust |
+| Countries hosting taken-down servers | 7 | Eurojust |
+| Domains seized | 34 | Eurojust |
+| Cryptocurrency frozen | approx. EUR 3.5 million | Eurojust |
+| Customer payments to platform | more than EUR 5 million | Eurojust |
+| Customer users | approx. 124,000 | Eurojust |
+| Compromised routers / devices | approx. 369,000 | Eurojust, DOJ, FBI |
+| Countries with compromised devices | approx. 163 | Eurojust, FBI |
+| Active infected routers listed in app | approx. 8,000 as of February 2026 | DOJ / IRS-CI |
+| Active infected routers in US | approx. 2,500 as of February 2026 | DOJ / IRS-CI |
 
-The disclosed metric — **102 countries of victims** — is consistent with a global residential proxy botnet built from compromised consumer devices.
+## Assessment
 
-## Cooperation Mechanisms Used
+This operation should be treated as a **malware-enabled residential proxy botnet disruption**, not as a generic proxy-site seizure. The core enforcement value came from synchronizing four disruption surfaces:
 
-1. **Multi-jurisdictional FR-AT-NL-US judicial cooperation** through Eurojust coordination
-2. **Europol operational/analytical support** — *likely* including malware analysis and victim identification
-3. **MLAT and (likely) JIT instruments** for cross-border server access and parallel arrests
+1. **Infrastructure:** server takedown and domain seizure
+2. **Malware ecosystem:** AVrecon C2 and relay disruption
+3. **Financial layer:** payment platform targeting and cryptocurrency freezing
+4. **Victim network cleanup:** disconnection of infected modems from the proxy service and FBI defensive guidance
 
-## Challenges and Friction Points
+The page is also a useful comparator for [[911-s5-botnet-takedown|911 S5]] and other residential-proxy botnet takedowns because the cases involve commercialized access to compromised residential IP space. SocksEscort differs in that the public record emphasizes AVrecon malware, European server coordination, and action-day judicial synchronization through Eurojust.
 
-- **Cross-Atlantic coordination**: 4 EU members + US requires bridging both EU MLA instruments and the US-EU MLA Agreement.
-- **Hidden participants**: Four of the eight participating countries are not named — *likely* due to ongoing investigations or sensitivity of those jurisdictions' roles.
-- **Information opacity**: The release omits the service name, server count, arrests, and the underlying malware family.
+## Korean Involvement (한국 관련성)
 
-## Lessons Learned
+No [[south-korea|South Korean]] law-enforcement participation is publicly documented. Because the FBI and Eurojust describe compromised devices across approximately **163 countries**, Korean devices could be part of the global victim footprint, but none of the current official sources identify Korea-specific victims, servers, agencies, or remediation steps. This page should therefore not assert Korean involvement without a later Korea-specific source.
 
-- Cross-Atlantic FR-AT-NL-US cooperation under Eurojust can dismantle global cybercrime anonymisation infrastructure with victim bases spanning 102 countries.
-- The pairing of an anonymisation service with a payment platform run by the same operators is *almost certainly* a recurring structural pattern in cybercrime-as-a-service ecosystems.
+## Open Questions
 
-## Korean Involvement (한국의 참여)
-
-No [[south-korea|South Korean]] participation is documented in this operation. Korean victims are *likely* among the 102 identified victim countries, given the global reach of residential proxy botnets and Korea's high broadband penetration. The [[knpa-cyber-bureau|Korean National Police Agency]] cybercrime units would *likely* be informed via Europol or INTERPOL channels for any Korea-resident infected devices.
-
-## Contradictions & Open Questions
-
-- **What is the name of the proxy service?** Not stated in the Eurojust release.
-- **Which malware was used to build the proxy network?** Not stated — *likely* a residential proxy botnet but unconfirmed.
-- **Which four countries are unnamed in the release?** Not disclosed.
-- **How many servers were seized and how many arrests were made?** Not stated.
-- **What is the relationship to prior residential proxy botnet takedowns** ([[911-s5-botnet-takedown|911 S5]], RSOCKS)? Not addressed in the source.
-- **Is the operation linked to a named campaign** (e.g., Operation Endgame, Operation Power Off)? No linkage is stated.
-
-
-## Follow-Up Actions
-
-> [!warning] No public court documents found
-> Web search (2026-04-17) yielded no publicly accessible court filings
-> for this operation. Possible reasons: non-US jurisdiction with no
-> public court records system, sealed proceedings, or operation did
-> not result in formal prosecution.
+- No public source reviewed here identifies the service operators by name.
+- No arrests, indictments, or docket numbers are public in the collected sources; the numeric arrest and indictment fields remain **0 / not publicly reported**, not a confirmed absence of suspects.
+- The exact domain list and server inventory are not fully reproduced on this page; the FBI FLASH supplies defensive indicators, but not a complete seized-asset ledger.
+- Eurojust reports approximately 124,000 customer users and more than EUR 5 million in customer payments; DOJ focuses on US victim fraud examples. The sources do not yet provide a full global victim-loss total.
+- The final legal status of the payment platform and frozen cryptocurrency remains unclear.
 
 <!-- SOURCE_ENRICHMENT_START -->
 
 ## Source Coverage
 
-- Eurojust, 2026-03-12: Servers used for cybercrime around the world taken down.
-- Politie, 2025-05-09: Internationale cybercrime aangepakt: Politie Amsterdam en FBI ontmantelen proxydienst Anyproxy.
-- CyberScoop, 2026-03-13: Authorities takedown global proxy network SocksEscort.
-- Cybernews, 2026-03-13: Authorities shut down cybercrime service that sold access to 369,000 home internet connections.
-- TechRadar, 2026-03-13: Major SocksEscort proxy network powered by Linux malware taken down by FBI and other police forces.
+- Eurojust, 2026-03-12: Official judicial-coordination release with the 24-server, 34-domain, EUR 3.5 million, 369,000-device, 163-country, and eight-country participation metrics.
+- DOJ / USAO EDCA, 2026-03-12: Official US press release naming SocksEscort, describing the malware-enabled residential proxy model, and listing US investigators and supporting international authorities.
+- FBI, 2026-03-12: AVrecon FLASH linking the malware family to SocksEscort, describing router/IoT compromise methods, and providing defensive indicators and remediation guidance.
+- CyberScoop, 2026-03-13: Trade-press coverage naming SocksEscort and summarizing the proxy-botnet scale and customer-payment figure.
+- Cybernews, 2026-03-13: Trade-press coverage focused on the residential-proxy business model and compromised home-internet footprint.
+- TechRadar, 2026-03-13: Short technical trade-press summary emphasizing AVrecon/Linux-router malware and the multinational enforcement result.
 
 ## Evidence and Attribution Notes
 
-- A website allegedly offering IP proxy services for cybercriminals in 102 countries (of victims) was targeted by authorities from 8 countries (announced 12 March 2026)
-- Named participants: France, Austria, Netherlands, United States; coordinated by Eurojust and Europol
-- Four of the eight participating countries are not named in the release
-- Same operators are also suspected of hosting a payment platform for the proxy service
-- Operation is not publicly named in the Eurojust release
-- Politie Amsterdam and the FBI jointly dismantled the criminal proxy service Anyproxy.
-- The service was described as having been used since 2004 by cybercriminals for phishing, ransomware attacks, and data theft.
-- The case provides a concrete recent example of Dutch-US cybercrime cooperation.
+- The service name is no longer unknown: DOJ, FBI, and multiple follow-up reports identify it as **SocksEscort**.
+- The malware family is no longer unknown: the FBI FLASH identifies **AVrecon**.
+- The eight participating countries are no longer unknown: Eurojust/DOJ identify the United States, France, Austria, the Netherlands, Bulgaria, Germany, Hungary, and Romania.
+- Anyproxy is a related residential-proxy precedent, but it is not a direct source for this March 2026 action and is therefore removed from this page's reference count.
 
 <!-- SOURCE_ENRICHMENT_END -->
 
@@ -248,7 +278,8 @@ No [[south-korea|South Korean]] participation is documented in this operation. K
 | # | Title | Publisher | Date | URL |
 |---|---|---|---|---|
 | [1] | Servers used for cybercrime around the world taken down | Eurojust | 2026-03-12 | https://www.eurojust.europa.eu/news/servers-used-cybercrime-around-world-taken-down |
-| [2] | Internationale cybercrime aangepakt: Politie Amsterdam en FBI ontmantelen proxydienst Anyproxy | Politie | 2025-05-09 | https://www.politie.nl/nieuws/2025/mei/9/internationale-cybercrime-aangepakt-politie-amsterdam-en-fbi-ontmantelen-proxydienst-anyproxy.html |
-| [3] | Authorities takedown global proxy network SocksEscort | CyberScoop | 2026-03-13 | https://cyberscoop.com/socksescort-proxy-network-botnet-takedown/ |
-| [4] | Authorities shut down cybercrime service that sold access to 369,000 home internet connections | Cybernews | 2026-03-13 | https://cybernews.com/security/major-residential-proxy-service-socksescort-down/ |
-| [5] | Major SocksEscort proxy network powered by Linux malware taken down by FBI and other police forces | TechRadar | 2026-03-13 | https://www.techradar.com/pro/security/major-socksescort-proxy-network-powered-by-linux-malware-taken-down-by-fbi-and-other-police-forces |
+| [2] | Authorities Dismantle Global Malicious Proxy Service that Deployed Malware and Defrauded Thousands of U.S. Persons, Businesses, and Financial Institutions of Millions of Dollars in Losses | US DOJ USAO EDCA | 2026-03-12 | https://www.justice.gov/usao-edca/pr/authorities-dismantle-global-malicious-proxy-service-deployed-malware-and-defrauded |
+| [3] | AVrecon Malware-Infected Routers Exploited as Residential Proxies by SocksEscort | FBI | 2026-03-12 | https://www.fbi.gov/file-repository/cyber-alerts/avrecon-malware-infected-routers-exploited-as-residential-proxies-by-socksescort.pdf |
+| [4] | Authorities takedown global proxy network SocksEscort | CyberScoop | 2026-03-13 | https://cyberscoop.com/socksescort-proxy-network-botnet-takedown/ |
+| [5] | Authorities shut down cybercrime service that sold access to 369,000 home internet connections | Cybernews | 2026-03-13 | https://cybernews.com/security/major-residential-proxy-service-socksescort-down/ |
+| [6] | Major SocksEscort proxy network powered by Linux malware taken down by FBI and other police forces | TechRadar | 2026-03-13 | https://www.techradar.com/pro/security/major-socksescort-proxy-network-powered-by-linux-malware-taken-down-by-fbi-and-other-police-forces |

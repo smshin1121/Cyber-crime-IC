@@ -6,7 +6,7 @@ created: 2026-04-08
 updated: 2026-04-14
 ---
 
-# Sources (4763)
+# Sources (4765)
 
 | Source | Type | Publisher | Tier | Reliability | Domain |
 |--------|------|-----------|------|-------------|--------|
@@ -303,8 +303,10 @@ updated: 2026-04-14
 | [[2026-03-13_techradar-com_major-socksescort-proxy-network-powered-by-linux-malware-taken-down-by-fbi-and-other-police-forces]] | news | TechRadar | ? | medium | ? |
 | [[2026-03-13_cyberscoop-com_socksescort-proxy-network-botnet-takedown]] | news | CyberScoop | ? | medium | ? |
 | [[2026-03-13_cybernews-com_major-residential-proxy-service-socksescort-down]] | news | Cybernews | ? | medium | ? |
+| [[2026-03-12_justice-gov_authorities-dismantle-global-malicious-proxy-service-deployed-malware-and-defrauded]] | press-release | US DOJ USAO EDCA | 1 | high | ? |
+| [[2026-03-12_fbi-gov_avrecon-malware-infected-routers-exploited-as-residential-proxies-by-socksescort]] | threat-advisory | Federal Bureau of Investigation | 1 | high | ? |
 | [[2026-03-12_eurojust-europa-eu_servers-used-for-cybercrime-around-the-world-taken-down]] | press-release | Eurojust | ? | high | ? |
-| [[2026-03-12-eurojust-proxy-service-takedown]] | press-release | Eurojust | ? | high | ? |
+| [[2026-03-12-eurojust-proxy-service-takedown]] | press-release | Eurojust | 1 | high | ? |
 | [[2026-04-18_justice-gov_michigan-man-sentenced-wire-fraud-and-aggravated-identity-theft-charges]] | press-release | US DOJ USAO | ? | high | ? |
 | [[2026-03-11_pressreleasepoint-com_judicial-cooperation-key-to-arresting-leaders-of-online-fraud-group]] | press-release | PressReleasePoint | ? | medium | ? |
 | [[2026-03-11_eurojust-germany-term_online-fraud-group-france-germany]] | government | Eurojust | ? | high | ? |

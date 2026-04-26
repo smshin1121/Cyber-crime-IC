@@ -10,7 +10,7 @@ source_count: 0
 
 This audit checks whether multiple `wiki/sources` pages point to the same original URL or fetched content. Pages marked with `duplicate_of` are preserved aliases and are separated from active unresolved duplicates.
 
-- Source pages audited: **4763**
+- Source pages audited: **4765**
 - Alias-marked source pages: **1166**
 - Total duplicate URL groups including aliases: **940**
 - Active duplicate URL groups: **0**
