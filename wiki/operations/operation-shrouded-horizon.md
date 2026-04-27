@@ -6,7 +6,7 @@ aliases:
 - Darkode Takedown
 case_id: CYB-2015-001
 challenges_encountered: []
-coordinating_body: '[[europol-ec3]]'
+coordinating_body: '[[fbi|FBI]]'
 created: 2026-04-08
 credibility_index: 3.62
 crime_type: '[[hacking-ic]]'
@@ -26,7 +26,7 @@ enforcement_type:
 - seizure
 - takedown
 - indictment
-lead_agency: '[[fbi]]'
+lead_agency: '[[fbi|FBI]]'
 legal_basis:
 - U.S. criminal indictments, complaints, informations, and search warrants
 - cross-border law-enforcement information sharing
@@ -41,11 +41,10 @@ missing_fields:
 operation_type: takedown
 outcome: success
 participating_agencies:
-- '[[fbi]]'
-- '[[usdoj]]'
-- '[[europol-ec3]]'
-- '[[europol-ec3]]'
-- '[[ncfta]]'
+- '[[fbi|FBI]]'
+- '[[us-doj|US DOJ]]'
+- '[[europol-ec3|Europol EC3]]'
+- '[[ncfta|NCFTA]]'
 participating_countries:
 - '[[united-states]]'
 - '[[united-kingdom]]'
@@ -77,9 +76,9 @@ results:
   domains_seized: 1
   indictments: 12
   other:
-  - 70 Darkode members and associates were charged, arrested, searched, or otherwise targeted by law enforcement actions across 20 countries
-  - Darkode forum domain and servers were seized
-  - Darkode forum shut down
+  - 20개국에서 약 70명의 Darkode 회원 및 관련자에 대해 기소, 체포, 수색, 압수 등 법집행 조치가 수행됨
+  - Darkode 포럼 도메인과 서버가 압수됨
+  - Darkode 포럼이 폐쇄됨
   servers_seized: 1
   victims_notified: 0
 crime_types:
@@ -179,7 +178,7 @@ The public sources do not identify a specific treaty instrument for every foreig
 - Wired, 2015-07: Dozens Nabbed Takedown Cybercrime Forum Darkode.
 - FBI, 2015-07-15: Cyber Criminal Forum Taken Down.
 - US DOJ, 2015-07-15: Major Computer Hacking Forum Dismantled.
-- archive.triblive.com, 2015-07-15: Details Emerge On Global Internet Crime Sting Led By Pittsburgh Fbi Agents.
+- TribLIVE archive, 2015-07-15: Details Emerge on Global Internet Crime Sting Led by Pittsburgh FBI Agents.
 - Threatpost, 2015-07-15: Feds Detail Shutdown of Darkode Cybercrime Forum.
 
 ## Source Findings
@@ -223,13 +222,13 @@ The public sources do not identify a specific treaty instrument for every foreig
 
 ## Canonical Operation Assessment
 
-This page is retained as a canonical operation because it describes a takedown against Darkode Forum, rather than a defendant-specific follow-on action. The record attributes lead responsibility to Fbi and coordination to Europol Ec3, with participating or affected jurisdictions recorded as United States, United Kingdom, Sweden, Bosnia And Herzegovina, Romania, Serbia, Latvia, Cyprus, Australia, Nigeria, Denmark, Canada, Colombia, Costa Rica, Croatia, Finland, Germany, Israel.
+This page is retained as a canonical operation because it describes a takedown against Darkode Forum, rather than a defendant-specific follow-on action. The record attributes lead responsibility to the FBI, with operational support and coordination from DOJ, Europol EC3, NCFTA and law-enforcement partners across 20 countries.
 
-The cooperation model is documented through named agencies and partners: Fbi, Usdoj, Europol Ec3, Ncfta; enforcement posture: Arrest, Seizure, Takedown, Indictment.
+The cooperation model is documented through named agencies and partners: FBI, US DOJ, Europol EC3, NCFTA; enforcement posture: arrest, seizure, takedown and indictment.
 
 Operational results captured for the canonical record: 12 U.S. defendants charged; about 70 Darkode members and associates subject to charges, arrests, searches or seizures; 1 domain and related servers seized; Darkode forum shut down.
 
-The canonical source set contains 5 reference(s): 2015 07 01 Wired Com Dozens Nabbed Takedown Cybercrime Forum Darkode, 2015 07 15 Fbi Gov Cyber Criminal Forum Taken Down, 2015 07 15 US DOJ Major Computer Hacking Forum Dismantled, 2015 07 15 Archive Triblive Com Details Emerge On Global Internet Crime Sting Led By Pittsburgh Fbi Agents, 2015 07 15 Threatpost Feds Detail Shutdown Of Darkode Cybercrime Forum.
+The canonical source set contains 5 reference(s): Wired's Darkode takedown report, FBI's Cyber Criminal Forum Taken Down release, DOJ's Major Computer Hacking Forum Dismantled release, TribLIVE's Pittsburgh FBI context report, and Threatpost's Darkode shutdown report.
 The source floor is met for a canonical operation, but source breadth does not by itself prove that every downstream arrest or sentencing is part of this operation; follow-on records should remain linked separately.
 Known metadata gap still carried by this page: the public sources do not specify the formal legal-assistance instrument for each non-U.S. action.
 For dataset use, this page should be treated as the operation-level aggregation point: country, agency, mechanism and outcome fields describe the coordinated enforcement action as a whole. Later indictments, pleas, sentencings, extraditions or forfeiture actions should be attached as related case or absorbed follow-on records unless the source explicitly presents them as a new multinational operation.
@@ -245,5 +244,5 @@ This keeps the canonical record analytically bounded and reproducible.
 | [1] | Dozens Nabbed Takedown Cybercrime Forum Darkode | Wired | 2015-07 | [원본](https://www.wired.com/2015/07/dozens-nabbed-takedown-cybercrime-forum-darkode/) |
 | [2] | Cyber Criminal Forum Taken Down | FBI | 2015-07-15 | [원본](https://www.fbi.gov/news/stories/cyber-criminal-forum-taken-down) |
 | [3] | Major Computer Hacking Forum Dismantled | US DOJ | 2015-07-15 | [원본](https://www.justice.gov/opa/pr/major-computer-hacking-forum-dismantled) |
-| [4] | Details Emerge On Global Internet Crime Sting Led By Pittsburgh Fbi Agents | TribLIVE archive | 2015-07-15 | [원본](https://archive.triblive.com/local/pittsburgh-allegheny/details-emerge-on-global-internet-crime-sting-led-by-pittsburgh-fbi-agents/) |
+| [4] | Details Emerge on Global Internet Crime Sting Led by Pittsburgh FBI Agents | TribLIVE archive | 2015-07-15 | [원본](https://archive.triblive.com/local/pittsburgh-allegheny/details-emerge-on-global-internet-crime-sting-led-by-pittsburgh-fbi-agents/) |
 | [5] | Feds Detail Shutdown of Darkode Cybercrime Forum | Threatpost | 2015-07-15 | [원본](https://threatpost.com/feds-detail-shutdown-of-darkode-cybercrime-forum/113800/) |

@@ -1,6 +1,6 @@
 ---
 type: source
-title: "Details Emerge On Global Internet Crime Sting Led By Pittsburgh Fbi Agents"
+title: "Details Emerge on Global Internet Crime Sting Led by Pittsburgh FBI Agents"
 raw_path: raw/press-releases/2015-07-15_archive-triblive-com_details-emerge-on-global-internet-crime-sting-led-by-pittsburgh-fbi-agents.md
 source_type: press-release
 publisher: "TribLIVE archive"
