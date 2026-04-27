@@ -30,7 +30,15 @@
         </div>
         <div class="stat-card">
           <div class="number">{{ total_ops }}</div>
-          <div class="label"><span class="i18n" data-ko="국제공조 작전" data-en="IC Operations"></span></div>
+          <div class="label"><span class="i18n" data-ko="정본 국제공조 작전" data-en="Canonical IC Operations"></span></div>
+        </div>
+        <div class="stat-card">
+          <div class="number">{{ absorbed_ops }}</div>
+          <div class="label"><span class="i18n" data-ko="흡수 Follow-On 기록" data-en="Absorbed Follow-On Records"></span></div>
+        </div>
+        <div class="stat-card">
+          <div class="number">{{ total_operation_records }}</div>
+          <div class="label"><span class="i18n" data-ko="전체 Operation 레코드" data-en="Operation Records"></span></div>
         </div>
         <div class="stat-card">
           <div class="number">{{ cat_counts.get('organizations', 0) }}</div>
@@ -67,6 +75,7 @@
       </div>
 
       <h2><span class="heading-ko">조정기관별 작전 수</span><span class="heading-en">Operations by Coordinator</span></h2>
+      {% set op_denominator = total_ops if total_ops else 1 %}
       <table>
         <tr>
           <th><span class="i18n" data-ko="조정기관" data-en="Coordinator"></span></th>
@@ -78,8 +87,8 @@
           <td>{{ coord }}</td>
           <td>{{ count }}</td>
           <td>
-            <div style="background:#2563eb;height:16px;width:{{ (count / total_ops * 100)|int }}%;border-radius:2px;display:inline-block;vertical-align:middle;"></div>
-            {{ "%.0f"|format(count / total_ops * 100) }}%
+            <div style="background:#2563eb;height:16px;width:{{ (count / op_denominator * 100)|int }}%;border-radius:2px;display:inline-block;vertical-align:middle;"></div>
+            {{ "%.0f"|format(count / op_denominator * 100) }}%
           </td>
         </tr>
         {% endfor %}

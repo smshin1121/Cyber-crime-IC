@@ -6,1092 +6,1103 @@ created: 2026-04-08
 updated: 2026-04-14
 ---
 
-# Operations (1085)
+# Operations (125 canonical / 960 absorbed / 1085 records)
 
-| Operation | Case ID | Period | Status | CI | Tier |
-|-----------|---------|--------|--------|----|------|
-| [[silk-road-takedown]] | CYB-2013-001 | 1 | completed | 4.50 | 1 |
-| [[operation-onymous]] | CYB-2014-001 | 1 | completed | 4.00 | 1 |
-| [[operation-shrouded-horizon]] | CYB-2015-001 | 1 | completed | 3.62 | 2 |
-| [[cyber-fraud-international-2015]] | CYB-2015-002 | 1 | completed | 2.28 | 2 |
-| [[ramnit-botnet-takedown]] | CYB-2015-002 | 1 | completed | 4.00 | 2 |
-| [[operation-source]] | CYB-2015-003 | 1 | completed | 2.28 | 2 |
-| [[simda-botnet-takedown]] | CYB-2015-004 | 1 | completed | 2.28 | 2 |
-| [[zeus-spyeye-jit-takedown]] | CYB-2015-005 | 1 | completed | 2.28 | 2 |
-| [[operation-pleiades]] | CYB-2015-006 | 1 | completed | 2.28 | 2 |
-| [[dridex-operations]] | CYB-2015-007 | 1 | completed | 4.00 | 1 |
-| [[zeus-spyeye-takedown]] | CYB-2015-050 | 1 | completed | 1.88 | 3 |
-| [[darkode-takedown]] | CYB-2015-051 | 1 | completed | 2.18 | 3 |
-| [[operation-avalanche]] | CYB-2016-001 | 1 | completed | 4.00 | 2 |
-| [[ddos-for-hire-sweep-2016]] | CYB-2016-002 | 1 | completed | 2.95 | 2 |
-| [[global-airport-action-day]] | CYB-2016-003 | 1 | completed | 1.85 | 2 |
-| [[bec-nigeria-2016]] | CYB-2016-050 | 1 | completed | 4.00 | 1 |
-| [[andromeda-botnet-takedown]] | CYB-2017-001 | 1 | completed | 3.75 | 2 |
-| [[alphabay-takedown]] | CYB-2017-002 | 1 | completed | 4.00 | 1 |
-| [[operation-hyperion]] | CYB-2017-050 | 1 | completed | 1.88 | 3 |
-| [[banking-trojan-fraud-sentencing-2017]] | CYB-2017-051 | 1 | completed | 2.55 | 3 |
-| [[carbanak-cobalt-takedown]] | CYB-2018-001 | 1 | completed | 3.50 | 2 |
-| [[operation-wirewire]] | CYB-2018-002 | 1 | completed | 2.28 | 2 |
-| [[infraud-organization-takedown]] | CYB-2018-003 | 1 | completed | 3.30 | 2 |
-| [[fin7-takedown]] | CYB-2018-004 | 1 | completed | 2.28 | 2 |
-| [[rex-mundi-takedown]] | CYB-2018-005 | 1 | completed | 2.28 | 2 |
-| [[operation-power-off]] | CYB-2018-006 | 1 | ongoing | 3.80 | 1 |
-| [[operation-bakovia]] | CYB-2018-050 | 1 | completed | 2.00 | 3 |
-| [[goznym-takedown]] | CYB-2019-001 | 2 | completed | 4.20 | 2 |
-| [[imminent-monitor-rat-takedown]] | CYB-2019-050 | 2 | completed | 1.88 | 3 |
-| [[xdedic-marketplace-takedown]] | CYB-2019-051 | 2 | completed | 4.20 | 1 |
-| [[operation-falcon]] | CYB-2020-001 | 2 | completed | 3.62 | 2 |
-| [[operation-goldfish-alpha-night-fury]] | CYB-2020-002 | 2 | completed | 2.28 | 2 |
-| [[2bagoldmule-qqaazz]] | CYB-2020-003 | 2 | completed | 2.28 | 2 |
-| [[trickbot-operations]] | CYB-2020-003 | 2 | completed | 4.50 | 1 |
-| [[operation-nova]] | CYB-2020-050 | 2 | completed | 2.55 | 3 |
-| [[operation-nightfury]] | CYB-2020-051 | 2 | completed | 2.55 | 3 |
-| [[qqaazz-money-laundering-takedown]] | CYB-2020-052 | 2 | completed | 1.88 | 3 |
-| [[darkmarket-takedown]] | CYB-2021-001 | 2 | completed | 4.50 | 1 |
-| [[operation-secreto]] | CYB-2021-001 | 2 | completed | 2.28 | 2 |
-| [[operation-haechi-ii]] | CYB-2021-002 | 2 | completed | 2.95 | 2 |
-| [[emotet-takedown]] | CYB-2021-003 | 2 | completed | 3.50 | 1 |
-| [[operation-dark-huntor]] | CYB-2021-010 | 2 | completed | 3.50 | 2 |
-| [[operation-lyrebird]] | CYB-2021-050 | 2 | completed | 2.55 | 3 |
-| [[doublevpn-takedown]] | CYB-2021-051 | 2 | completed | 4.00 | 1 |
-| [[operation-killer-bee]] | CYB-2022-001 | 2 | completed | 2.28 | 2 |
-| [[operation-haechi-iii]] | CYB-2022-002 | 2 | completed | 3.50 | 2 |
-| [[vpnlab-takedown]] | CYB-2022-002 | 3 | completed | 4.50 | 1 |
-| [[operation-delilah]] | CYB-2022-050 | 2 | completed | 2.25 | 3 |
-| [[black-axe-bec-2021]] | CYB-2022-052 | 3 | completed | 4.40 | 1 |
-| [[infraud-telusma-sentencing]] | CYB-2022-053 | 3 | absorbed | 4.30 | 1 |
-| [[marketplace-a-dekhtyarchuk-indictment]] | CYB-2022-054 | 3 | completed | 4.20 | 1 |
-| [[franco-israeli-ceo-fraud]] | CYB-2023-001 | 3 | completed | 2.28 | 2 |
-| [[operation-jackal]] | CYB-2023-002 | 3 | completed | 2.28 | 2 |
-| [[korea-china-voice-phishing-qingdao]] | CYB-2023-003 | 3 | completed | 1.88 | 3 |
-| [[operation-haechi-iv]] | CYB-2023-004 | 3 | completed | 2.28 | 2 |
-| [[hive-ransomware-takedown]] | CYB-2023-006 | 3 | completed | 3.25 | 2 |
-| [[myanmar-kokang-scam-compound-crackdown]] | CYB-2023-022 | 3 | completed | 3.80 | 2 |
-| [[africa-cyber-surge-ii]] | CYB-2023-050 | 3 | completed | 4.12 | 1 |
-| [[blackcat-lockeroga-kelvin-security-2023]] | CYB-2023-051 | 3 | completed | 4.12 | 1 |
-| [[operation-nervone]] | CYB-2023-052 | 3 | completed | 4.18 | 1 |
-| [[nigerian-bec-convictions-2023]] | CYB-2023-053 | 3 | completed | 4.20 | 1 |
-| [[operation-orion-international]] | CYB-2024-001 | 3 | completed | — | — |
-| [[operation-cronos-phase1]] | CYB-2024-002 | 3 | completed | 2.28 | 2 |
-| [[operation-endgame-phase1]] | CYB-2024-003 | 3 | completed | 2.28 | 2 |
-| [[operation-first-light-2024]] | CYB-2024-004 | 3 | completed | 2.28 | 2 |
-| [[operation-jackal-iii]] | CYB-2024-005 | 3 | completed | 2.28 | 2 |
-| [[operation-cronos-phase3]] | CYB-2024-006 | 3 | completed | 2.28 | 2 |
-| [[operation-synergia-ii]] | CYB-2024-007 | 3 | completed | 3.25 | 2 |
-| [[operation-serengeti]] | CYB-2024-008 | 3 | completed | 2.28 | 2 |
-| [[operation-haechi-v]] | CYB-2024-009 | 3 | completed | 2.28 | 2 |
-| [[operation-contender-2]] | CYB-2024-010 | 3 | completed | — | — |
-| [[operation-red-card]] | CYB-2024-011 | 3 | completed | — | — |
-| [[romania-phishing-takedown-2024]] | CYB-2024-012 | 3 | completed | 2.28 | 2 |
-| [[fake-shopping-sites-takedown-2024]] | CYB-2024-013 | 3 | completed | 3.25 | 2 |
-| [[911-s5-botnet-takedown]] | CYB-2024-014 | 3 | completed | 4.00 | 2 |
-| [[operation-chakra-iii]] | CYB-2024-021 | 3 | completed | 3.50 | 2 |
-| [[operation-morpheus]] | CYB-2024-050 | 3 | completed | 2.55 | 2 |
-| [[zambia-golden-top-call-center]] | CYB-2024-050 | 3 | completed | 1.88 | 3 |
-| [[operation-destabilise]] | CYB-2024-051 | 3 | completed | 1.88 | 3 |
-| [[cryptex-pm2btc-sanctions]] | CYB-2024-052 | 3 | completed | 4.33 | 1 |
-| [[rydox-marketplace-takedown]] | CYB-2024-053 | 3 | completed | 4.40 | 1 |
-| [[operation-stream-kidflix]] | CYB-2025-001 | 3 | completed | — | — |
-| [[operation-cyber-guardian]] | CYB-2025-002 | 3 | completed | — | — |
-| [[phobos-8base-crackdown]] | CYB-2025-003 | 3 | completed | — | — |
-| [[isoon-apt27-indictment]] | CYB-2025-004 | 3 | ongoing | 2.28 | 2 |
-| [[qakbot-gallyamov-indictment]] | CYB-2025-005 | 3 | ongoing | 3.25 | 2 |
-| [[operation-endgame-phase2]] | CYB-2025-006 | 3 | completed | 2.28 | 2 |
-| [[operation-checkmate-blacksuit]] | CYB-2025-007 | 3 | completed | 2.28 | 2 |
-| [[operation-haechi-vi]] | CYB-2025-008 | 3 | completed | 2.28 | 2 |
-| [[korea-cambodia-scam-repatriation]] | CYB-2025-009 | 3 | ongoing | 2.55 | 3 |
-| [[operation-sentinel-africa]] | CYB-2025-010 | 3 | completed | 2.28 | 2 |
-| [[operation-talent]] | CYB-2025-011 | 3 | completed | — | — |
-| [[lumma-stealer-takedown]] | CYB-2025-012 | 3 | completed | — | — |
-| [[operation-secure-interpol]] | CYB-2025-012 | 3 | completed | 1.85 | 2 |
-| [[de-ch-crypto-mixer-takedown-2025]] | CYB-2025-013 | 3 | completed | 3.50 | 1 |
-| [[belgium-netherlands-phishing-gang]] | CYB-2025-051 | 3 | completed | 4.22 | 1 |
-| [[operation-eur-3m-online-investment-fraud-2025]] | CYB-2025-0513 | 3 | ongoing | 4.50 | 2 |
-| [[operation-eur-600m-crypto-scam-network-2025]] | CYB-2025-1104 | 3 | completed | 4.60 | 2 |
-| [[operation-eur-300m-global-credit-card-fraud-2025]] | CYB-2025-1105 | 3 | completed | 4.70 | 2 |
-| [[operation-germany-romania-trusted-seller-fraud-2025]] | CYB-2025-625 | 3 | completed | 4.50 | 2 |
-| [[proxy-service-takedown-2026-03]] | CYB-2026-001 | 3 | completed | 4.50 | 1 |
-| [[operation-de-fr-online-fraud-group-2026]] | CYB-2026-031 | 3 | completed | 4.40 | 2 |
-| [[operation-eur-100m-crypto-investment-fraud-2025]] | CYB-EU-2025-019 | 4 | completed | 4.30 | 1 |
-| [[operation-eur-100m-illegal-financial-service-laundering-2025]] | CYB-EU-2025-020 | 4 | completed | 4.32 | 1 |
-| [[operation-emotet-disruption-ladybird]] | CYB-FUP-002 | 2 | absorbed | 4.00 | 1 |
-| [[operation-in-re-bidencash-marketplace-seizure]] | CYB-FUP-003 | 3 | absorbed | 4.00 | 1 |
-| [[operation-in-re-heartsender-seizure]] | CYB-FUP-004 | 3 | absorbed | 4.00 | 1 |
-| [[operation-us-v-adafin-xdedic]] | CYB-FUP-005 | 3 | absorbed | 4.00 | 1 |
-| [[operation-us-v-adam-miles-dark-web]] | CYB-FUP-006 | 1 | absorbed | 4.00 | 1 |
-| [[operation-us-v-adejumo-jinadu-xdedic]] | CYB-FUP-007 | 3 | absorbed | 4.00 | 1 |
-| [[operation-us-v-almashwali-alphabay]] | CYB-FUP-008 | 1 | absorbed | 4.00 | 1 |
-| [[operation-us-v-anom-distributors]] | CYB-FUP-009 | 2 | absorbed | 4.00 | 1 |
-| [[operation-us-v-aragon-dark-web]] | CYB-FUP-010 | 3 | absorbed | 4.00 | 1 |
-| [[operation-us-v-astamirov-vasiliev-lockbit]] | CYB-FUP-011 | 3 | absorbed | 4.00 | 1 |
-| [[operation-us-v-banmeet-singh-dark-web]] | CYB-FUP-012 | 3 | absorbed | 4.00 | 1 |
-| [[operation-us-v-barraza-flores-dark-web]] | CYB-FUP-013 | 2 | absorbed | 4.00 | 1 |
-| [[operation-us-v-benthall-silk-road-2]] | CYB-FUP-014 | 1 | absorbed | 4.00 | 1 |
-| [[operation-us-v-bondarenko-infraud]] | CYB-FUP-015 | 1 | absorbed | 4.00 | 1 |
-| [[operation-us-v-bookman-dark-web]] | CYB-FUP-016 | 3 | absorbed | 4.00 | 1 |
-| [[operation-us-v-brandon-adams-dark-web]] | CYB-FUP-017 | 3 | absorbed | 4.00 | 1 |
-| [[operation-us-v-brandon-arias-dark-web]] | CYB-FUP-018 | 1 | absorbed | 4.00 | 1 |
-| [[operation-us-v-brewer-dark-web]] | CYB-FUP-019 | 2 | absorbed | 4.00 | 1 |
-| [[operation-us-v-brian-mcdonald-dark-web]] | CYB-FUP-020 | 3 | absorbed | 4.00 | 1 |
-| [[operation-us-v-burgamy-wilson-dark-web]] | CYB-FUP-021 | 2 | absorbed | 4.00 | 1 |
-| [[operation-us-v-castillo-rosario-vasquez-roman-dark-web]] | CYB-FUP-022 | 3 | absorbed | 4.00 | 1 |
-| [[operation-us-v-castro-dark-web]] | CYB-FUP-023 | 2 | absorbed | 4.00 | 1 |
-| [[operation-us-v-catherine-stuckey-dark-web]] | CYB-FUP-024 | 2 | absorbed | 4.00 | 1 |
-| [[operation-us-v-cazes-alphabay]] | CYB-FUP-025 | 1 | absorbed | 4.00 | 1 |
-| [[operation-us-v-chaloner-saintillus-dark-web]] | CYB-FUP-026 | 3 | absorbed | 4.00 | 1 |
-| [[operation-us-v-curry-brooke-dark-web]] | CYB-FUP-027 | 1 | absorbed | 4.00 | 1 |
-| [[operation-us-v-dekhtyarchuk-marketplace-a]] | CYB-FUP-028 | 2 | absorbed | 4.00 | 1 |
-| [[operation-us-v-dittman-schiffner-langer-dark-web]] | CYB-FUP-029 | 3 | absorbed | 4.00 | 1 |
-| [[operation-us-v-evan-hernandez-dark-web]] | CYB-FUP-030 | 2 | absorbed | 4.00 | 1 |
-| [[operation-us-v-farrell-silk-road-2]] | CYB-FUP-031 | 1 | absorbed | 4.00 | 1 |
-| [[operation-us-v-fatukala-cocaine-dark-web]] | CYB-FUP-032 | 3 | absorbed | 4.00 | 1 |
-| [[operation-us-v-galochkin-trickbot-conti]] | CYB-FUP-034 | 3 | absorbed | 4.00 | 1 |
-| [[operation-us-v-gary-davis-silk-road]] | CYB-FUP-035 | 1 | absorbed | 4.00 | 1 |
-| [[operation-us-v-ghinkul-dridex]] | CYB-FUP-036 | 1 | absorbed | 4.00 | 1 |
-| [[operation-us-v-gudmunds-darkode]] | CYB-FUP-037 | 1 | absorbed | 4.00 | 1 |
-| [[operation-us-v-gutierrez-villasenor-dark-web]] | CYB-FUP-038 | 1 | absorbed | 4.00 | 1 |
-| [[operation-us-v-haahr-albert-dark-web]] | CYB-FUP-039 | 3 | absorbed | 4.00 | 1 |
-| [[operation-us-v-habasescu-xdedic]] | CYB-FUP-040 | 2 | absorbed | 4.00 | 1 |
-| [[operation-us-v-haney-silk-road]] | CYB-FUP-041 | 2 | absorbed | 4.00 | 1 |
-| [[operation-us-v-hernandez-dark-web]] | CYB-FUP-042 | 3 | absorbed | 4.00 | 1 |
-| [[operation-us-v-herrell-alphabay]] | CYB-FUP-043 | 2 | absorbed | 4.00 | 1 |
-| [[operation-us-v-hladyr-fin7]] | CYB-FUP-044 | 3 | absorbed | 4.00 | 1 |
-| [[operation-us-v-holly-adams-dark-web]] | CYB-FUP-045 | 3 | absorbed | 4.00 | 1 |
-| [[operation-us-v-ivanov-tolpintsev-xdedic]] | CYB-FUP-046 | 2 | absorbed | 4.00 | 1 |
-| [[operation-us-v-jason-arnold-dark-web]] | CYB-FUP-047 | 2 | absorbed | 4.00 | 1 |
-| [[operation-us-v-john-cruz-dark-web]] | CYB-FUP-049 | 3 | absorbed | 4.00 | 1 |
-| [[operation-us-v-john-mckernan-dark-web]] | CYB-FUP-050 | 3 | absorbed | 4.00 | 1 |
-| [[operation-us-v-kancharla-dark-web]] | CYB-FUP-051 | 2 | absorbed | 4.00 | 1 |
-| [[operation-us-v-kharmanskyi-xdedic]] | CYB-FUP-052 | 3 | absorbed | 4.00 | 1 |
-| [[operation-us-v-konovolov-goznym]] | CYB-FUP-053 | 1 | absorbed | 4.00 | 1 |
-| [[operation-us-v-kutleshi-rydox]] | CYB-FUP-054 | 3 | absorbed | 4.00 | 1 |
-| [[operation-us-v-levinson-xdedic]] | CYB-FUP-055 | 2 | absorbed | 4.00 | 1 |
-| [[operation-us-v-lint-dream-market]] | CYB-FUP-056 | 1 | absorbed | 4.00 | 1 |
-| [[operation-us-v-madding-dark-web]] | CYB-FUP-057 | 2 | absorbed | 4.00 | 1 |
-| [[operation-us-v-matthew-jones-silk-road]] | CYB-FUP-058 | 1 | absorbed | 4.00 | 1 |
-| [[operation-us-v-mckinzie-xdedic]] | CYB-FUP-059 | 3 | absorbed | 4.00 | 1 |
-| [[operation-us-v-mcneely-xdedic]] | CYB-FUP-060 | 3 | absorbed | 4.00 | 1 |
-| [[operation-us-v-miller-poweroff]] | CYB-FUP-061 | 3 | absorbed | 4.00 | 1 |
-| [[operation-us-v-nazarovi-qqaazz]] | CYB-FUP-062 | 2 | absorbed | 4.00 | 1 |
-| [[operation-us-v-nicholas-partlow-dark-web]] | CYB-FUP-063 | 2 | absorbed | 4.00 | 1 |
-| [[operation-us-v-odedeyi-davies-xdedic]] | CYB-FUP-064 | 2 | absorbed | 4.00 | 1 |
-| [[operation-us-v-odufuye-nwoke-bec]] | CYB-FUP-065 | 1 | absorbed | 4.00 | 1 |
-| [[operation-us-v-ogando-dawodu-spencer-dark-web]] | CYB-FUP-066 | 3 | absorbed | 4.00 | 1 |
-| [[operation-us-v-ogunlana-xdedic]] | CYB-FUP-067 | 3 | absorbed | 4.00 | 1 |
-| [[operation-us-v-okparaeke-dark-web]] | CYB-FUP-068 | 2 | absorbed | 4.00 | 1 |
-| [[operation-us-v-okpe-obogo-bec]] | CYB-FUP-069 | 3 | absorbed | 4.00 | 1 |
-| [[operation-us-v-olivia-bolles-silk-road]] | CYB-FUP-070 | 1 | absorbed | 4.00 | 1 |
-| [[operation-us-v-omotosho-xdedic]] | CYB-FUP-071 | 3 | absorbed | 4.00 | 1 |
-| [[operation-us-v-orgil-dark-web]] | CYB-FUP-072 | 3 | absorbed | 4.00 | 1 |
-| [[operation-us-v-oyebanjo-xdedic]] | CYB-FUP-073 | 3 | absorbed | 4.00 | 1 |
-| [[operation-us-v-paiva-silk-road-2]] | CYB-FUP-074 | 1 | absorbed | 4.00 | 1 |
-| [[operation-us-v-pankov-xdedic]] | CYB-FUP-075 | 3 | absorbed | 4.00 | 1 |
-| [[operation-us-v-parsarad-nemesis]] | CYB-FUP-076 | 3 | ongoing | 4.25 | 1 |
-| [[operation-us-v-peck-dark-web]] | CYB-FUP-077 | 2 | absorbed | 4.00 | 1 |
-| [[operation-us-v-roberts-dark-web]] | CYB-FUP-078 | 2 | absorbed | 4.00 | 1 |
-| [[operation-us-v-roger-thomas-clark-silk-road]] | CYB-FUP-079 | 3 | absorbed | 4.00 | 1 |
-| [[operation-us-v-ruiz-navia-dark-web]] | CYB-FUP-080 | 3 | absorbed | 4.00 | 1 |
-| [[operation-us-v-ryan-scott-cochran-dark-web]] | CYB-FUP-081 | 3 | absorbed | 4.00 | 1 |
-| [[operation-us-v-sabbagh-dark-web]] | CYB-FUP-082 | 3 | absorbed | 4.00 | 1 |
-| [[operation-us-v-scanlan-dark-web]] | CYB-FUP-083 | 2 | absorbed | 4.00 | 1 |
-| [[operation-us-v-shaughnessy-dark-web]] | CYB-FUP-084 | 3 | absorbed | 4.00 | 1 |
-| [[operation-us-v-sheldon-kennedy-silk-road]] | CYB-FUP-085 | 1 | absorbed | 4.00 | 1 |
-| [[operation-us-v-sirotkin-deaver-dark-web]] | CYB-FUP-086 | 3 | absorbed | 4.00 | 1 |
-| [[operation-us-v-spencer-xdedic]] | CYB-FUP-087 | 3 | absorbed | 4.00 | 1 |
-| [[operation-us-v-stepanov-danabot]] | CYB-FUP-088 | 3 | absorbed | 4.00 | 1 |
-| [[operation-us-v-tan-dark-web]] | CYB-FUP-089 | 3 | absorbed | 4.00 | 1 |
-| [[operation-us-v-taylor-fischer-dark-web]] | CYB-FUP-090 | 3 | absorbed | 4.00 | 1 |
-| [[operation-us-v-taylor-xdedic]] | CYB-FUP-091 | 3 | absorbed | 4.00 | 1 |
-| [[operation-us-v-ulbricht-silk-road]] | CYB-FUP-094 | 1 | absorbed | 4.00 | 1 |
-| [[operation-us-v-udvardi-dark-web]] | CYB-FUP-095 | 3 | absorbed | 4.00 | 1 |
-| [[operation-us-v-vallerius-dream-market]] | CYB-FUP-096 | 1 | absorbed | 4.00 | 1 |
-| [[operation-us-v-vlastos-dark-web]] | CYB-FUP-097 | 3 | absorbed | 4.00 | 1 |
-| [[operation-us-v-witters-dark-web]] | CYB-FUP-098 | 1 | absorbed | 4.00 | 1 |
-| [[operation-us-v-telusma-infraud]] | CYB-FUP-099 | 2 | absorbed | 4.00 | 1 |
-| [[operation-us-v-wu-haibo-isoon]] | CYB-FUP-100 | 3 | absorbed | 4.00 | 1 |
-| [[operation-independence-pair-indicted-for-drug-and-firearms-offenses]] | CYB-FUP-1007 | 3 | absorbed | 4.00 | 1 |
-| [[operation-individual-arrested-and-charged-with-operating-notorious-darknet-cryptocurrency-mixer]] | CYB-FUP-1008 | 2 | absorbed | 4.00 | 1 |
-| [[operation-international-crypto-vendor-sentenced-for-money-laundering-conspiracy]] | CYB-FUP-1009 | 3 | absorbed | 4.00 | 1 |
-| [[operation-us-v-yakubets-dridex]] | CYB-FUP-101 | 1 | absorbed | 4.00 | 1 |
-| [[operation-international-hacker-for-hire-who-conspired-with-and-aided-russian-fsb-officers-sentenced-to-five-years-in-pri]] | CYB-FUP-1010 | 1 | absorbed | 4.00 | 1 |
-| [[operation-international-money-launderer-sentenced-to-over-11-years-in-federal-prison-for-laundering-millions-from-cyber-]] | CYB-FUP-1011 | 2 | absorbed | 4.00 | 1 |
-| [[operation-jefferson-county-man-sentenced-to-6-12-years-in-prison-for-possession-of-child-pornography]] | CYB-FUP-1012 | 2 | absorbed | 4.00 | 1 |
-| [[operation-jumbotron-hacker-and-prolific-child-molester-sentenced-to-220-years-in-federal-prison]] | CYB-FUP-1013 | 3 | absorbed | 4.00 | 1 |
-| [[operation-kansas-city-woman-indicted-for-fraudulent-tax-returns]] | CYB-FUP-1014 | 3 | absorbed | 4.00 | 1 |
-| [[operation-kansas-man-pleads-guilty-to-child-pornography-possession]] | CYB-FUP-1015 | 3 | absorbed | 4.00 | 1 |
-| [[operation-kansas-woman-indicted-for-defrauding-elderly-victims]] | CYB-FUP-1016 | 3 | absorbed | 4.00 | 1 |
-| [[operation-kentucky-man-pleads-guilty-to-advertising-child-pornography]] | CYB-FUP-1017 | 3 | absorbed | 4.00 | 1 |
-| [[operation-kentucky-man-sentenced-to-15-years-in-prison-for-advertising-child-pornography]] | CYB-FUP-1018 | 3 | absorbed | 4.00 | 1 |
-| [[operation-key-member-of-drug-ring-associated-with-aryan-prison-gang-sentenced-to-7-years-in-prison]] | CYB-FUP-1019 | 3 | absorbed | 4.00 | 1 |
-| [[operation-us-v-yunhe-wang-911-s5]] | CYB-FUP-102 | 3 | absorbed | 4.00 | 1 |
-| [[operation-key-player-in-silk-road-2-0-sentenced-to-eight-years-in-prison]] | CYB-FUP-1020 | 1 | absorbed | 4.00 | 1 |
-| [[operation-knox-county-man-sentenced-to-60-years-imprisonment-for-two-counts-of-production-of-child-pornography]] | CYB-FUP-1021 | 3 | absorbed | 4.00 | 1 |
-| [[operation-kokomo-resident-arrested-on-federal-animal-cruelty-charges]] | CYB-FUP-1022 | 2 | absorbed | 4.00 | 1 |
-| [[operation-lakeland-man-pleads-guilty-to-receiving-child-sex-abuse-videos-from-the-largest-darknet-child-pornography-webs]] | CYB-FUP-1023 | 2 | absorbed | 4.50 | 1 |
-| [[operation-lakeland-man-sentenced-to-more-than-9-years-in-federal-prison-for-downloading-and-possessing-child-sex-abuse-v]] | CYB-FUP-1024 | 2 | absorbed | 4.00 | 1 |
-| [[operation-latvian-national-charged-for-alleged-role-in-transnational-cybercrime-organization]] | CYB-FUP-1025 | 2 | absorbed | 4.00 | 1 |
-| [[operation-law-enforcement-seize-record-amounts-of-illegal-drugs-firearms-and-drug-trafficking-proceeds-in-international-]] | CYB-FUP-1026 | 3 | absorbed | 4.00 | 1 |
-| [[operation-leader-of-darknet-drug-distribution-conspiracy-sentenced-to-federal-prison]] | CYB-FUP-1027 | 2 | absorbed | 4.00 | 1 |
-| [[operation-leader-of-darknet-italianmafiabrussels-drug-trafficking-organization-sentenced-to-11-years-imprisonment]] | CYB-FUP-1028 | 1 | absorbed | 4.00 | 1 |
-| [[operation-leader-of-international-malvertising-and-ransomware-schemes-extradited-from-poland-to-face-cybercrime-charges]] | CYB-FUP-1029 | 3 | absorbed | 4.00 | 1 |
-| [[operation-us-v-adam-lemar-miles]] | CYB-FUP-103 | 1 | absorbed | 4.00 | 1 |
-| [[operation-leader-of-transnational-cybercrime-group-noirs-luxury-refunds-charged-with-conspiracy-to-commit-mail-and-wire-]] | CYB-FUP-1030 | 3 | absorbed | 4.00 | 1 |
-| [[operation-ledyard-man-charged-with-child-exploitation-offense]] | CYB-FUP-1031 | 3 | absorbed | 4.00 | 1 |
-| [[operation-ledyard-man-pleads-guilty-to-child-exploitation-offense]] | CYB-FUP-1032 | 3 | absorbed | 4.00 | 1 |
-| [[operation-lone-american-indicted-in-international-drug-trafficking-investigation-sentenced-to-five-years-in-prison]] | CYB-FUP-1033 | 3 | absorbed | 4.00 | 1 |
-| [[operation-madison-county-sex-offender-indicted-for-failure-to-register]] | CYB-FUP-1034 | 3 | absorbed | 4.00 | 1 |
-| [[operation-man-charged-with-threatening-and-cyberstalking-congressman]] | CYB-FUP-1035 | 2 | absorbed | 4.00 | 1 |
-| [[operation-man-pleads-guilty-to-charges-of-stealing-senate-information-illegally-posting-restricted-personal-information-]] | CYB-FUP-1036 | 1 | absorbed | 4.00 | 1 |
-| [[operation-man-sentenced-for-stalking-and-threatening-congressman-kevin-hern-and-his-wife]] | CYB-FUP-1037 | 3 | absorbed | 4.00 | 1 |
-| [[operation-man-who-served-in-army-under-an-assumed-name-sentenced-to-time-served-and-community-service-for-passport-fraud]] | CYB-FUP-1038 | 2 | absorbed | 4.00 | 1 |
-| [[operation-marine-based-at-camp-pendleton-arrested-on-federal-charges-alleging-cyberstalking-of-young-women-in-sextortion]] | CYB-FUP-1039 | 2 | absorbed | 4.00 | 1 |
-| [[operation-us-v-adan-ruiz-and-omar-navia]] | CYB-FUP-104 | 3 | absorbed | 4.00 | 1 |
-| [[operation-marion-county-man-arrested-for-possession-of-child-sex-abuse-material]] | CYB-FUP-1040 | 3 | absorbed | 4.00 | 1 |
-| [[operation-marion-county-man-pleads-guilty-to-production-of-child-sex-abuse-material]] | CYB-FUP-1041 | 3 | absorbed | 4.00 | 1 |
-| [[operation-maryland-man-sentenced-to-30-months-in-prison-for-cyberstalking-former-girlfriend-and-threatening-workplace-vi]] | CYB-FUP-1042 | 2 | absorbed | 4.00 | 1 |
-| [[operation-massachusetts-man-pleads-guilty-to-knowingly-concealing-the-source-of-material-support-or-resources-to-isis]] | CYB-FUP-1043 | 3 | absorbed | 4.00 | 1 |
-| [[operation-massachusetts-man-sentenced-for-knowingly-concealing-the-source-of-material-support-or-resources-to-isis]] | CYB-FUP-1044 | 3 | absorbed | 4.00 | 1 |
-| [[operation-member-of-darknet-drug-trafficking-organization-italianmafiabrussels-sentenced-to-prison]] | CYB-FUP-1045 | 1 | absorbed | 4.00 | 1 |
-| [[operation-member-of-russian-cybercrime-group-charged-in-ohio]] | CYB-FUP-1046 | 3 | absorbed | 4.00 | 1 |
-| [[operation-member-of-the-dark-overlord-hacking-group-extradited-from-united-kingdom-to-face-charges-in-st-louis]] | CYB-FUP-1047 | 1 | absorbed | 4.00 | 1 |
-| [[operation-members-of-seattle-drug-trafficking-organization-indicted-for-distribution-of-heroin]] | CYB-FUP-1048 | 1 | absorbed | 4.00 | 1 |
-| [[operation-men-indicted-for-crimes-related-to-securities-fraud]] | CYB-FUP-1049 | 3 | absorbed | 4.00 | 1 |
-| [[operation-us-v-adetunji-adejumo-and-ibrahim-jinadu]] | CYB-FUP-105 | 3 | absorbed | 4.00 | 1 |
-| [[operation-michigan-man-indicted-on-wire-fraud-and-aggravated-identity-theft-charges]] | CYB-FUP-1050 | 3 | absorbed | 4.00 | 1 |
-| [[operation-michigan-man-sentenced-to-312-years-in-prison-for-role-in-sim-swapping-that-led-to-account-takeovers-and-122-0]] | CYB-FUP-1051 | 2 | absorbed | 4.00 | 1 |
-| [[operation-michigan-man-sentenced-to-five-years-in-prison-for-possessing-child-sexual-abuse-material-on-a-military-base]] | CYB-FUP-1052 | 3 | absorbed | 4.00 | 1 |
-| [[operation-middlesex-county-man-charged-with-production-and-possession-of-child-pornography]] | CYB-FUP-1053 | 3 | absorbed | 4.00 | 1 |
-| [[operation-minnesota-man-pleads-guilty-to-stalking-and-interstate-communications]] | CYB-FUP-1054 | 1 | absorbed | 4.00 | 1 |
-| [[operation-missouri-man-sentenced-for-advertising-child-pornography-on-the-dark-web]] | CYB-FUP-1055 | 3 | absorbed | 4.00 | 1 |
-| [[operation-moldovan-botnet-operator-indicted-for-role-in-conspiracy-to-unlawfully-access-thousands-of-infected-computers-]] | CYB-FUP-1056 | 3 | absorbed | 4.00 | 1 |
-| [[operation-monroe-washington-man-sentenced-to-10-years-in-prison-for-role-as-right-hand-man-in-deadly-drug-distribution-r]] | CYB-FUP-1057 | 3 | absorbed | 4.00 | 1 |
-| [[operation-monroeville-man-sentenced-to-24-months-for-purchasing-hundreds-of-stolen-log-in-credentials-off-the-darkweb]] | CYB-FUP-1058 | 3 | absorbed | 4.00 | 1 |
-| [[operation-mountain-view-resident-charged-with-production-of-child-pornography-and-cyberstalking]] | CYB-FUP-1059 | 1 | absorbed | 4.00 | 1 |
-| [[operation-us-v-aidan-curry-and-connor-brooke]] | CYB-FUP-106 | 1 | absorbed | 4.00 | 1 |
-| [[operation-multiple-foreign-nationals-charged-in-connection-with-trickbot-malware-and-conti-ransomware-conspiracies-2]] | CYB-FUP-1060 | 3 | absorbed | 4.00 | 1 |
-| [[operation-multiple-foreign-nationals-charged-in-connection-with-trickbot-malware-and-conti-ransomware-conspiracies]] | CYB-FUP-1061 | 3 | absorbed | 4.00 | 1 |
-| [[operation-natchitoches-man-sentenced-for-possession-of-child-pornography]] | CYB-FUP-1062 | 3 | absorbed | 4.00 | 1 |
-| [[operation-nevada-woman-sentenced-to-5-years-prison-for-hiring-hitman-on-dark-web-to-kill-her-ex-husband]] | CYB-FUP-1063 | 3 | absorbed | 4.00 | 1 |
-| [[operation-new-jersey-man-sentenced-for-prescription-opioid-conspiracy]] | CYB-FUP-1064 | 3 | absorbed | 4.00 | 1 |
-| [[operation-new-jersey-man-sentenced-to-prison-after-pleading-guilty-to-posting-restricted-information-to-social-media]] | CYB-FUP-1065 | 2 | absorbed | 4.00 | 1 |
-| [[operation-newport-news-man-sentenced-for-prolific-card-swiping-operation]] | CYB-FUP-1066 | 3 | absorbed | 4.00 | 1 |
-| [[operation-nicaraguan-national-pleads-guilty-to-conspiring-to-distribute-cocaine-and-marijuana-on-the-darknet]] | CYB-FUP-1067 | 1 | absorbed | 4.00 | 1 |
-| [[operation-nigerian-citizen-extradited-from-the-u-k-arraigned-on-indictment-for-wire-fraud-involving-stolen-tax-informati]] | CYB-FUP-1068 | 3 | absorbed | 4.00 | 1 |
-| [[operation-nigerian-national-pleads-guilty-to-1-25-million-business-email-compromise-scam-impacting-u-s-company]] | CYB-FUP-1069 | 3 | absorbed | 4.00 | 1 |
-| [[operation-us-v-akshay-ram-kancharla]] | CYB-FUP-107 | 2 | absorbed | 4.00 | 1 |
-| [[operation-nigerian-national-pleads-guilty-to-multi-million-dollar-cyber-fraud-scheme-targeting-tulsa-company-and-four-ot]] | CYB-FUP-1070 | 3 | absorbed | 4.00 | 1 |
-| [[operation-norton-shores-dark-web-drug-dealer-sentenced-to-30-months-in-prison]] | CYB-FUP-1071 | 1 | absorbed | 4.00 | 1 |
-| [[operation-notorious-hacker-sentenced-to-18-months-in-prison]] | CYB-FUP-1072 | 3 | absorbed | 4.00 | 1 |
-| [[operation-nurse-admits-tampering-with-vials-of-fentanyl]] | CYB-FUP-1073 | 3 | absorbed | 4.00 | 1 |
-| [[operation-nurse-charged-with-tampering-with-vials-of-fentanyl]] | CYB-FUP-1074 | 3 | absorbed | 4.00 | 1 |
-| [[operation-o-c-and-houston-men-sentenced-to-decades-in-prison-for-supplying-fentanyl-and-other-drugs-sold-on-darknet-and-]] | CYB-FUP-1075 | 3 | absorbed | 4.00 | 1 |
-| [[operation-ocala-man-sentenced-to-federal-prison-for-attempting-to-meet-a-13-year-old-to-engage-in-sexual-activity]] | CYB-FUP-1076 | 3 | absorbed | 4.00 | 1 |
-| [[operation-odessa-man-indicted-for-stealing-more-than-250-000-in-ppp-funds]] | CYB-FUP-1077 | 3 | absorbed | 4.00 | 1 |
-| [[operation-ohio-man-pleads-guilty-for-unlawfully-stealing-over-712-seized-bitcoin-subject-to-forfeiture-in-brothers-pendi]] | CYB-FUP-1078 | 3 | absorbed | 4.00 | 1 |
-| [[operation-ohio-resident-pleads-guilty-to-operating-darknet-based-bitcoin-mixer-that-laundered-over-300-million]] | CYB-FUP-1079 | 2 | absorbed | 4.00 | 1 |
-| [[operation-us-v-alex-ogando-olatunji-dawodu-and-luis-spencer]] | CYB-FUP-108 | 3 | absorbed | 4.00 | 1 |
-| [[operation-oklahoma-man-sentenced-to-30-years-in-prison-for-sexually-exploiting-children]] | CYB-FUP-1080 | 3 | absorbed | 4.00 | 1 |
-| [[operation-oldsmar-man-charged-with-producing-and-distributing-child-sexual-abuse-material]] | CYB-FUP-1081 | 3 | absorbed | 4.00 | 1 |
-| [[operation-one-defendant-sentenced-to-prison-and-another-ordered-detained-pretrial-this-week-in-separate-cyberstalking-ca]] | CYB-FUP-1082 | 3 | absorbed | 4.00 | 1 |
-| [[operation-orange-county-man-arrested-on-federal-stalking-charge-alleging-multiyear-harassment-campaign-against-prominent]] | CYB-FUP-1083 | 2 | absorbed | 4.00 | 1 |
-| [[operation-orange-county-man-pleads-guilty-to-stalking-charge-for-harassment-campaign-against-professional-online-gamer]] | CYB-FUP-1084 | 2 | absorbed | 4.00 | 1 |
-| [[operation-orange-county-man-sentenced-to-75-months-for-distributing-methamphetamine-and-selling-illegal-pills-on-the-dar]] | CYB-FUP-1085 | 3 | absorbed | 4.00 | 1 |
-| [[operation-oregon-man-sentenced-to-federal-prison-for-attempting-to-sell-cocaine-purchased-from-the-dark-web]] | CYB-FUP-1086 | 3 | absorbed | 4.00 | 1 |
-| [[operation-overland-park-men-indicted-for-investment-fraud-scheme]] | CYB-FUP-1087 | 3 | absorbed | 4.00 | 1 |
-| [[operation-palm-beach-county-man-sentenced-for-cyberstalking-two-victims]] | CYB-FUP-1088 | 3 | absorbed | 4.00 | 1 |
-| [[operation-parolee-indicted-for-illegal-possession-of-a-firearm]] | CYB-FUP-1089 | 3 | absorbed | 4.00 | 1 |
-| [[operation-us-v-allen-d-lint]] | CYB-FUP-109 | 1 | absorbed | 4.00 | 1 |
-| [[operation-pasadena-man-who-cyberstalked-and-made-threats-to-injure-rape-and-kill-sentenced-to-more-than-3-years-in-feder]] | CYB-FUP-1090 | 2 | absorbed | 4.00 | 1 |
-| [[operation-pennsylvania-family-pleads-guilty-to-fentanyl-trafficking]] | CYB-FUP-1091 | 3 | absorbed | 4.00 | 1 |
-| [[operation-philadelphia-man-sentenced-for-cyberstalking-and-wire-fraud]] | CYB-FUP-1092 | 3 | absorbed | 4.00 | 1 |
-| [[operation-phobos-ransomware-administrator-extradited-from-south-korea-to-face-cybercrime-charges]] | CYB-FUP-1093 | 3 | absorbed | 4.00 | 1 |
-| [[operation-phobos-ransomware-affiliates-arrested-in-coordinated-international-disruption]] | CYB-FUP-1094 | 3 | absorbed | 4.00 | 1 |
-| [[operation-pilots-indicted-for-wire-fraud]] | CYB-FUP-1095 | 3 | absorbed | 4.00 | 1 |
-| [[operation-pittsburgh-felon-sentenced-to-9-5-years-in-prison-for-identity-theft-and-firearms-crimes]] | CYB-FUP-1096 | 3 | absorbed | 4.00 | 1 |
-| [[operation-pittsburgh-man-charged-with-threatening-communications-and-impeding-fbi-investigation]] | CYB-FUP-1097 | 2 | absorbed | 4.00 | 1 |
-| [[operation-pittsburgh-man-indicted-on-cyberstalking-charge]] | CYB-FUP-1098 | 3 | absorbed | 4.00 | 1 |
-| [[operation-pittsburgh-resident-and-darknet-drug-trafficker-sentenced-to-nearly-six-years-in-prison-on-federal-drug-traffi]] | CYB-FUP-1099 | 3 | absorbed | 4.00 | 1 |
-| [[operation-us-v-ardit-kutleshi-and-jetmir-kutleshi]] | CYB-FUP-110 | 3 | absorbed | 4.00 | 1 |
-| [[operation-pittsburgh-woman-pleads-guilty-to-credit-card-fraud-and-aggravated-identity-theft-charges-in-car-rental-scam]] | CYB-FUP-1100 | 3 | absorbed | 4.00 | 1 |
-| [[operation-post-falls-man-indicted-for-sexual-exploitation-of-a-child-distribution-of-child-sexual-abuse-materials-and-po]] | CYB-FUP-1101 | 3 | absorbed | 4.00 | 1 |
-| [[operation-previously-convicted-felon-sentenced-to-more-than-26-years-in-federal-prison-for-possessing-a-firearm-in-conne]] | CYB-FUP-1102 | 3 | absorbed | 4.00 | 1 |
-| [[operation-prominent-global-cryptocurrency-exchange-kucoin-and-two-of-its-founders-criminally-charged-with-bank-secrecy-a]] | CYB-FUP-1103 | 3 | absorbed | 4.00 | 1 |
-| [[operation-pulaski-county-man-indicted-for-cyber-intrusion-identity-theft-and-bank-fraud]] | CYB-FUP-1104 | 3 | absorbed | 4.00 | 1 |
-| [[operation-pulaski-county-man-sentenced-for-cyber-intrusion-and-aggravated-identity-theft]] | CYB-FUP-1105 | 3 | absorbed | 4.00 | 1 |
-| [[operation-queens-woman-charged-with-using-a-hitman-for-hire-website-on-the-dark-web-to-order-murder-of-her-lovers-wife]] | CYB-FUP-1106 | 3 | absorbed | 4.00 | 1 |
-| [[operation-ransomware-administrator-charged-with-cybercrimes-for-deploying-lockergoga-nefilim-and-megacortex-ransomware-s]] | CYB-FUP-1107 | 3 | absorbed | 4.00 | 1 |
-| [[operation-registered-sex-offender-admits-possessing-child-pornography]] | CYB-FUP-1108 | 3 | absorbed | 4.00 | 1 |
-| [[operation-registered-sex-offender-charged-with-new-child-pornography-offense]] | CYB-FUP-1109 | 3 | absorbed | 4.00 | 1 |
-| [[operation-us-v-brian-richard-farrell]] | CYB-FUP-111 | 1 | absorbed | 4.00 | 1 |
-| [[operation-registered-sex-offender-sentenced-to-35-years-in-prison-for-exchanging-videos-images-of-child-torture-for-chil]] | CYB-FUP-1110 | 3 | absorbed | 4.00 | 1 |
-| [[operation-renton-washington-man-who-worked-with-his-son-to-deal-drugs-and-launder-proceeds-sentenced-to-5-years-in-priso]] | CYB-FUP-1111 | 3 | absorbed | 4.00 | 1 |
-| [[operation-repeat-drug-trafficker-caught-twice-with-kilos-of-drugs-and-firearms-sentenced-to-10-years-in-prison]] | CYB-FUP-1112 | 3 | absorbed | 4.00 | 1 |
-| [[operation-repeat-offender-sentenced-to-10-years-for-possession-of-child-sexual-abuse-material]] | CYB-FUP-1113 | 3 | absorbed | 4.00 | 1 |
-| [[operation-repeat-sex-offender-pleads-guilty-to-sexual-exploitation-of-a-child]] | CYB-FUP-1114 | 3 | absorbed | 4.00 | 1 |
-| [[operation-revere-massachusetts-man-sentenced-in-nationwide-rideshare-and-delivery-account-fraud-scheme]] | CYB-FUP-1115 | 3 | absorbed | 4.00 | 1 |
-| [[operation-rico-conspirator-convicted-at-trial]] | CYB-FUP-1116 | 3 | absorbed | 4.00 | 1 |
-| [[operation-rico-conspirators-responsible-for-nationwide-computer-intrusions-and-tax-fraud-sentenced-to-federal-prison]] | CYB-FUP-1117 | 3 | absorbed | 4.00 | 1 |
-| [[operation-robinson-twp-man-pleads-guilty-in-international-investigation-into-darknet-sale-of-child-exploitation-videos-a]] | CYB-FUP-1118 | 2 | absorbed | 4.00 | 1 |
-| [[operation-romanian-woman-pleads-guilty-to-federal-charges-in-hacking-of-metropolitan-police-department-surveillance-came]] | CYB-FUP-1119 | 1 | absorbed | 4.00 | 1 |
-| [[operation-us-v-bryan-connor-herrell]] | CYB-FUP-112 | 2 | absorbed | 4.00 | 1 |
-| [[operation-russian-hacker-sentenced-to-over-7-years-in-prison-for-hacking-into-three-bay-area-tech-companies]] | CYB-FUP-1120 | 2 | absorbed | 4.00 | 1 |
-| [[operation-russian-malware-developer-pleads-guilty-to-conspiracy-to-commit-wire-and-computer-fraud]] | CYB-FUP-1121 | 3 | absorbed | 4.00 | 1 |
-| [[operation-russian-man-found-guilty-of-hacking-into-three-bay-area-tech-companies]] | CYB-FUP-1122 | 2 | absorbed | 4.00 | 1 |
-| [[operation-russian-national-and-bitcoin-exchange-charged-in-21-count-indictment-for-operating-alleged-international-money]] | CYB-FUP-1123 | 1 | absorbed | 4.00 | 1 |
-| [[operation-russian-national-charged-in-hacking-scheme-targeting-pittsburgh-national-golf-course]] | CYB-FUP-1125 | 1 | absorbed | 4.00 | 1 |
-| [[operation-russian-national-charged-with-decade-long-series-of-hacking-and-bank-fraud-offenses-resulting-in-tens-of-milli-2]] | CYB-FUP-1126 | 1 | absorbed | 4.00 | 1 |
-| [[operation-russian-national-charged-with-decade-long-series-of-hacking-and-bank-fraud-offenses-resulting-in-tens-of-milli]] | CYB-FUP-1127 | 1 | absorbed | 4.00 | 1 |
-| [[operation-russian-national-sentenced-for-involvement-in-development-and-deployment-of-trickbot-malware]] | CYB-FUP-1128 | 3 | absorbed | 4.00 | 1 |
-| [[operation-russian-nationals-charged-with-hacking-one-cryptocurrency-exchange-and-illicitly-operating-another]] | CYB-FUP-1129 | 3 | absorbed | 4.00 | 1 |
-| [[operation-us-v-cheerish-noel-taylor-and-robert-james-fischer]] | CYB-FUP-113 | 3 | absorbed | 4.00 | 1 |
-| [[operation-rydox-cybercrime-marketplace-shut-down-and-three-administrators-arrested]] | CYB-FUP-1130 | 3 | absorbed | 4.00 | 1 |
-| [[operation-sacramento-man-indicted-for-drug-distribution-via-the-darknet]] | CYB-FUP-1131 | 2 | absorbed | 4.00 | 1 |
-| [[operation-sacramento-sex-offender-pleads-guilty-to-distributing-child-pornography-on-the-dark-web]] | CYB-FUP-1132 | 3 | absorbed | 4.00 | 1 |
-| [[operation-sacramento-woman-pleads-guilty-to-conspiracy-to-distribute-fentanyl]] | CYB-FUP-1133 | 3 | absorbed | 4.00 | 1 |
-| [[operation-san-antonio-man-sentenced-for-january-2018-threats-made-against-players-and-fans-at-nfl-playoff-game-at-heinz-]] | CYB-FUP-1134 | 1 | absorbed | 4.00 | 1 |
-| [[operation-san-francisco-man-sentenced-to-100-months-imprisonment-in-credit-card-fraud-and-identity-theft-case]] | CYB-FUP-1135 | 2 | absorbed | 4.00 | 1 |
-| [[operation-san-francisco-man-sentenced-to-84-months-in-prison-for-possession-of-child-pornography]] | CYB-FUP-1136 | 1 | absorbed | 4.00 | 1 |
-| [[operation-san-jose-man-sentenced-to-27-months-imprisonment-for-money-laundering]] | CYB-FUP-1137 | 1 | absorbed | 4.00 | 1 |
-| [[operation-san-jose-resident-sentenced-to-a-year-in-custody-for-damaging-computers-of-silicon-valley-company]] | CYB-FUP-1138 | 1 | absorbed | 4.00 | 1 |
-| [[operation-sanford-spam-king-wallace-sentenced-to-two-and-a-half-years-in-custody-for-spamming-facebook-users]] | CYB-FUP-1139 | 1 | absorbed | 4.00 | 1 |
-| [[operation-us-v-dominick-jeffrey-aragon]] | CYB-FUP-114 | 3 | absorbed | 4.00 | 1 |
-| [[operation-santa-clarita-man-found-guilty-of-producing-child-pornography]] | CYB-FUP-1140 | 3 | absorbed | 4.00 | 1 |
-| [[operation-santa-clarita-man-who-led-organization-that-trafficked-drugs-to-darknet-customers-nationwide-sentenced-to-8-ye]] | CYB-FUP-1141 | 3 | absorbed | 4.00 | 1 |
-| [[operation-seattle-man-sentenced-for-buying-630-000-counterfeit-pills-on-the-dark-web]] | CYB-FUP-1142 | 3 | absorbed | 4.00 | 1 |
-| [[operation-second-canadian-resident-pleads-guilty-to-massive-covid-19-benefit-fraud-scheme]] | CYB-FUP-1143 | 3 | absorbed | 4.00 | 1 |
-| [[operation-second-defendant-sentenced-to-7-years-in-prison-for-drug-trafficking-from-rvs-near-a-state-park]] | CYB-FUP-1144 | 3 | absorbed | 4.00 | 1 |
-| [[operation-serbian-citizen-pleads-guilty-to-running-monopoly-drug-market-on-the-darknet]] | CYB-FUP-1145 | 3 | absorbed | 4.00 | 1 |
-| [[operation-seven-georgians-indicted-for-operating-online-fentanyl-meth-marketplace]] | CYB-FUP-1146 | 3 | absorbed | 4.00 | 1 |
-| [[operation-sex-offender-pleads-guilty-to-child-exploitation-offense-admits-violating-supervised-release]] | CYB-FUP-1147 | 3 | absorbed | 4.00 | 1 |
-| [[operation-shiprock-man-indicted-on-federal-sexual-assault-and-kidnapping-charges]] | CYB-FUP-1148 | 3 | absorbed | 4.00 | 1 |
-| [[operation-significant-member-of-a-whatcom-county-fentanyl-trafficking-ring-sentenced-to-4-years-in-prison]] | CYB-FUP-1149 | 3 | absorbed | 4.00 | 1 |
-| [[operation-us-v-evan-jaime-hernandez]] | CYB-FUP-115 | 2 | absorbed | 4.00 | 1 |
-| [[operation-silk-road-dark-web-fraud-defendant-sentenced-following-seizure-and-forfeiture-of-over-3-4-billion-in-cryptocur]] | CYB-FUP-1150 | 3 | absorbed | 4.00 | 1 |
-| [[operation-skiatook-man-indicted-for-threatening-to-kill-federal-agents]] | CYB-FUP-1151 | 3 | absorbed | 4.00 | 1 |
-| [[operation-slovakian-man-admits-aiding-darknet-market-that-sold-drugs-and-stolen-personal-information]] | CYB-FUP-1152 | 3 | absorbed | 4.00 | 1 |
-| [[operation-socal-man-arrested-on-federal-charges-alleging-he-schemed-to-advertise-and-sell-hive-computer-intrusion-malwar]] | CYB-FUP-1153 | 3 | absorbed | 4.00 | 1 |
-| [[operation-south-carolina-man-charged-with-interstate-stalking-and-aggravated-id-theft-targeting-pennsylvania-resident]] | CYB-FUP-1154 | 1 | absorbed | 4.00 | 1 |
-| [[operation-south-carolina-man-sentenced-to-30-months-in-prison-for-interstate-stalking]] | CYB-FUP-1155 | 1 | absorbed | 4.00 | 1 |
-| [[operation-southern-california-man-pleads-guilty-to-fentanyl-and-methamphetamine-distribution-conspiracy]] | CYB-FUP-1156 | 3 | absorbed | 4.00 | 1 |
-| [[operation-southern-california-woman-pleads-guilty-to-fentanyl-distribution-and-money-laundering-conspiracy]] | CYB-FUP-1157 | 3 | absorbed | 4.00 | 1 |
-| [[operation-ssndob-marketplace-administrator-pleads-guilty-to-charges-related-to-his-operation-of-a-series-of-websites-tha]] | CYB-FUP-1158 | 3 | absorbed | 4.00 | 1 |
-| [[operation-st-augustine-serial-child-molester-convicted-of-hacking-jumbotron-child-exploitation-offenses-sex-offender-reg]] | CYB-FUP-1159 | 3 | absorbed | 4.00 | 1 |
-| [[operation-us-v-fatukala-yamamoto-mina-and-hollis]] | CYB-FUP-116 | 3 | absorbed | 4.00 | 1 |
-| [[operation-st-lawrence-county-man-pleads-guilty-to-receiving-and-possessing-child-pornography]] | CYB-FUP-1160 | 3 | absorbed | 4.00 | 1 |
-| [[operation-st-louis-man-indicted-on-cyberstalking-charges]] | CYB-FUP-1161 | 2 | absorbed | 4.00 | 1 |
-| [[operation-st-louis-man-sentenced-to-71-months-for-making-rape-threats-to-five-women]] | CYB-FUP-1162 | 3 | absorbed | 4.00 | 1 |
-| [[operation-stanwood-washington-repeat-offender-sentenced-to-10-years-in-prison-for-selling-heroin-and-fentanyl-over-the-d]] | CYB-FUP-1163 | 3 | absorbed | 4.00 | 1 |
-| [[operation-sturgis-man-charged-with-selling-counterfeit-drugs-on-dark-web]] | CYB-FUP-1164 | 3 | absorbed | 4.00 | 1 |
-| [[operation-sturgis-man-sentenced-to-70-months-for-selling-drugs-on-dark-web]] | CYB-FUP-1165 | 3 | absorbed | 4.00 | 1 |
-| [[operation-sumter-man-pleads-guilty-to-destruction-of-an-energy-facility-and-possession-of-child-sexual-abuse-material]] | CYB-FUP-1166 | 3 | absorbed | 4.00 | 1 |
-| [[operation-tacoma-man-who-persisted-in-drug-trafficking-despite-being-stopped-with-more-than-25-pounds-of-meth-sentenced-]] | CYB-FUP-1167 | 3 | absorbed | 4.00 | 1 |
-| [[operation-tacoma-man-with-lengthy-criminal-history-pleads-guilty-to-gun-and-drug-charges]] | CYB-FUP-1168 | 3 | absorbed | 4.00 | 1 |
-| [[operation-tattoo-shop-owner-sentenced-to-more-than-7-years-in-prison-for-distributing-heroin-and-methamphetamine-on-the-]] | CYB-FUP-1169 | 2 | absorbed | 4.00 | 1 |
-| [[operation-us-v-george-sotiris-vlastos]] | CYB-FUP-117 | 3 | absorbed | 4.00 | 1 |
-| [[operation-texas-business-executive-sentenced-to-prison-for-illegally-selling-oxycodone-on-silk-road]] | CYB-FUP-1170 | 1 | absorbed | 4.00 | 1 |
-| [[operation-texas-man-sentenced-to-15-years-in-prison-for-advertising-child-pornography]] | CYB-FUP-1171 | 3 | absorbed | 4.00 | 1 |
-| [[operation-theodore-man-sentenced-to-prison-for-fraud-schemes-and-aggravated-identity-theft]] | CYB-FUP-1172 | 3 | absorbed | 4.00 | 1 |
-| [[operation-third-defendant-pleads-guilty-to-hacking-fantasy-sports-and-betting-website]] | CYB-FUP-1173 | 3 | absorbed | 4.00 | 1 |
-| [[operation-thirteen-people-indicted-in-drug-trafficking-conspiracy-involving-fentanyl-methamphetamine-and-cocaine]] | CYB-FUP-1174 | 3 | absorbed | 4.00 | 1 |
-| [[operation-thirty-six-defendants-indicted-for-alleged-roles-in-transnational-criminal-organization-responsible-for-more-t]] | CYB-FUP-1175 | 1 | absorbed | 4.00 | 1 |
-| [[operation-three-darknet-fentanyl-vendors-sentenced-to-over-20-years-in-prison]] | CYB-FUP-1176 | 3 | absorbed | 4.00 | 1 |
-| [[operation-three-defendants-in-significant-gun-and-drug-involved-cases-sentenced-to-prison]] | CYB-FUP-1177 | 3 | absorbed | 4.00 | 1 |
-| [[operation-three-former-department-of-homeland-security-employees-sentenced-in-scheme-to-defraud-the-united-states]] | CYB-FUP-1178 | 3 | absorbed | 4.00 | 1 |
-| [[operation-three-individuals-arrested-for-involvement-in-darknet-narcotics-trafficking-involving-pills-pressed-with-fenta]] | CYB-FUP-1179 | 2 | absorbed | 4.00 | 1 |
-| [[operation-us-v-glib-ivanov-tolpintsev]] | CYB-FUP-118 | 2 | absorbed | 4.00 | 1 |
-| [[operation-three-individuals-sentenced-in-darknet-narcotics-trafficking-conspiracy-involving-distribution-of-pills-presse]] | CYB-FUP-1180 | 3 | absorbed | 4.00 | 1 |
-| [[operation-three-members-of-goznym-cybercrime-network-sentenced-in-parallel-multi-national-prosecutions-in-pittsburgh-and]] | CYB-FUP-1181 | 1 | absorbed | 4.00 | 1 |
-| [[operation-three-people-sentenced-to-prison-for-distributing-methamphetamine-fentanyl-and-nitazenes]] | CYB-FUP-1182 | 3 | absorbed | 4.00 | 1 |
-| [[operation-three-snohomish-county-men-indicted-for-drug-trafficking-conspiracy-involving-cocaine-fentanyl-and-firearms]] | CYB-FUP-1183 | 3 | absorbed | 4.00 | 1 |
-| [[operation-thurston-county-man-caught-twice-with-drugs-and-firearms-sentenced-to-7-years-in-prison]] | CYB-FUP-1184 | 3 | absorbed | 4.00 | 1 |
-| [[operation-tohatchi-man-indicted-on-federal-assault-charges]] | CYB-FUP-1185 | 3 | absorbed | 4.00 | 1 |
-| [[operation-tulsa-man-sentenced-to-30-months-in-prison-for-sending-emails-threatening-to-kill-president-biden]] | CYB-FUP-1186 | 2 | absorbed | 4.00 | 1 |
-| [[operation-tulsa-man-who-fled-from-smuggling-charge-pleads-guilty]] | CYB-FUP-1187 | 1 | absorbed | 4.00 | 1 |
-| [[operation-two-everett-residents-charged-federally-for-drug-distribution-activities-involving-multiple-kilos-of-fentanyl-]] | CYB-FUP-1188 | 3 | absorbed | 4.00 | 1 |
-| [[operation-two-indicted-accused-of-harboring-aliens]] | CYB-FUP-1189 | 3 | absorbed | 4.00 | 1 |
-| [[operation-us-v-gregory-castillo-rosario-joseph-james-vasquez-joshua-william-vas]] | CYB-FUP-119 | 3 | absorbed | 4.00 | 1 |
-| [[operation-two-individuals-sentenced-for-conspiracy-charges-involving-the-sale-of-fraudulent-identity-documents-on-the-da]] | CYB-FUP-1190 | 2 | absorbed | 4.00 | 1 |
-| [[operation-two-members-of-multi-state-drug-trafficking-rings-linked-to-aryan-prison-gangs-sentenced-to-lengthy-prison-ter]] | CYB-FUP-1191 | 3 | absorbed | 4.00 | 1 |
-| [[operation-two-men-charged-for-breaching-federal-law-enforcement-database-and-posing-as-police-officers-to-defraud-social]] | CYB-FUP-1192 | 3 | absorbed | 4.00 | 1 |
-| [[operation-two-romanian-suspects-charged-with-hacking-of-metropolitan-police-department-surveillance-cameras-in-connectio]] | CYB-FUP-1193 | 1 | absorbed | 4.00 | 1 |
-| [[operation-two-southern-california-men-who-supplied-fentanyl-sold-to-darknet-customers-in-all-50-states-sentenced-to-fede]] | CYB-FUP-1194 | 3 | absorbed | 4.00 | 1 |
-| [[operation-two-sudanese-nationals-indicted-for-alleged-role-in-anonymous-sudan-cyberattacks-on-hospitals-government-facil]] | CYB-FUP-1195 | 3 | absorbed | 4.00 | 1 |
-| [[operation-two-tulsans-sentenced-for-running-illegal-dark-web-cryptocurrency-pharmacy]] | CYB-FUP-1196 | 3 | absorbed | 4.00 | 1 |
-| [[operation-u-k-citizen-sentenced-to-five-years-for-cybercrime-offenses]] | CYB-FUP-1197 | 3 | absorbed | 4.00 | 1 |
-| [[operation-u-k-citizen-sentenced-to-five-years-in-prison-for-cybercrime-offenses]] | CYB-FUP-1198 | 3 | absorbed | 4.00 | 1 |
-| [[operation-u-s-based-conspirators-sentenced-to-prison-for-international-tax-scheme]] | CYB-FUP-1199 | 3 | absorbed | 4.00 | 1 |
-| [[operation-us-v-hugh-brian-haney]] | CYB-FUP-120 | 2 | absorbed | 4.00 | 1 |
-| [[operation-ukrainian-cyber-criminal-extradited-for-decrypting-the-credentials-of-thousands-of-computers-across-the-world-]] | CYB-FUP-1200 | 2 | absorbed | 4.00 | 1 |
-| [[operation-union-county-man-admits-to-possessing-child-pornography]] | CYB-FUP-1201 | 2 | absorbed | 4.00 | 1 |
-| [[operation-united-kingdom-national-pleads-guilty-to-hacking-securities-fraud-and-other-cybercrimes]] | CYB-FUP-1202 | 3 | absorbed | 4.00 | 1 |
-| [[operation-university-student-indicted-for-initiating-distributed-denial-of-service-attacks-on-bay-area-computers]] | CYB-FUP-1203 | 1 | absorbed | 4.00 | 1 |
-| [[operation-utah-man-charged-with-murder-for-hire-scheme]] | CYB-FUP-1204 | 2 | absorbed | 4.00 | 1 |
-| [[operation-utah-man-pleads-guilty-to-murder-for-hire-scheme]] | CYB-FUP-1205 | 3 | absorbed | 4.00 | 1 |
-| [[operation-utah-man-sentenced-to-seven-years-in-prison-for-murder-for-hire-scheme]] | CYB-FUP-1206 | 3 | absorbed | 4.00 | 1 |
-| [[operation-vallejo-man-indicted-for-illegal-firearm-possession]] | CYB-FUP-1207 | 3 | absorbed | 4.00 | 1 |
-| [[operation-violent-level-3-sex-offender-from-harwich-sentenced-to-decade-in-prison-for-child-pornography-offense]] | CYB-FUP-1208 | 3 | absorbed | 4.00 | 1 |
-| [[operation-virginia-man-sentenced-to-federal-prison-for-conspiring-to-impersonate-federal-law-enforcement-officer]] | CYB-FUP-1209 | 3 | absorbed | 4.00 | 1 |
-| [[operation-us-v-jose-rodolfo-barraza-flores]] | CYB-FUP-121 | 2 | absorbed | 4.00 | 1 |
-| [[operation-virginia-woman-sentenced-to-prison-for-fraudulently-ordering-cell-phones-on-behalf-of-her-non-profit-employer-]] | CYB-FUP-1210 | 3 | absorbed | 4.00 | 1 |
-| [[operation-washington-state-man-pleads-guilty-to-advertising-child-sexual-abuse-material]] | CYB-FUP-1211 | 3 | absorbed | 4.00 | 1 |
-| [[operation-webster-man-sentenced-to-27-years-for-distributing-receiving-and-possessing-child-sexual-abuse-material]] | CYB-FUP-1212 | 3 | absorbed | 4.00 | 1 |
-| [[operation-west-chester-drug-dealer-pleads-guilty-to-purchasing-hundreds-of-deadly-fentanyl-pills-disguised-as-oxycodone]] | CYB-FUP-1213 | 2 | absorbed | 4.00 | 1 |
-| [[operation-wisconsin-man-charged-with-hacking-fantasy-sports-and-betting-website]] | CYB-FUP-1214 | 3 | absorbed | 4.00 | 1 |
-| [[operation-wisconsin-man-pleads-guilty-to-hacking-fantasy-sports-and-betting-website]] | CYB-FUP-1215 | 3 | absorbed | 4.00 | 1 |
-| [[operation-wisconsin-man-sentenced-to-prison-for-hacking-fantasy-sports-and-betting-website]] | CYB-FUP-1216 | 3 | absorbed | 4.00 | 1 |
-| [[operation-woman-accused-of-murder-for-hire-admits-to-using-the-dark-web-to-carry-out-the-crime]] | CYB-FUP-1217 | 3 | absorbed | 4.00 | 1 |
-| [[operation-woman-sentenced-to-9-years-in-dark-web-murder-for-hire-plot]] | CYB-FUP-1218 | 3 | absorbed | 4.00 | 1 |
-| [[operation-woman-who-used-the-dark-web-to-commit-a-murder-for-hire-to-kill-an-ex-boyfriends-new-girlfriend-is-sentenced-t]] | CYB-FUP-1219 | 3 | absorbed | 4.00 | 1 |
-| [[operation-us-v-khlari-sirotkin-and-sean-deaver]] | CYB-FUP-122 | 3 | absorbed | 4.00 | 1 |
-| [[operation-woodbridge-man-convicted-again-for-possessing-child-sexual-abuse-material]] | CYB-FUP-1220 | 3 | absorbed | 4.00 | 1 |
-| [[operation-woodmere-man-pleads-guilty-to-obtaining-stolen-credit-card-information-and-using-it-to-purchase-gasoline]] | CYB-FUP-1221 | 2 | absorbed | 4.00 | 1 |
-| [[operation-wyandotte-county-district-court-bookkeepers-indicted-in-900-000-wire-fraud-scheme]] | CYB-FUP-1222 | 3 | absorbed | 4.00 | 1 |
-| [[operation-yevgeniy-nikulin-indicted-for-hacking-linkedin-dropbox-and-formspring]] | CYB-FUP-1223 | 1 | absorbed | 4.00 | 1 |
-| [[operation-zuni-man-indicted-for-federal-charges-in-triple-homicide]] | CYB-FUP-1224 | 3 | absorbed | 4.00 | 1 |
-| [[operation-us-v-michael-carlton-paiva]] | CYB-FUP-123 | 1 | absorbed | 4.00 | 1 |
-| [[operation-us-v-olufemi-odedeyi-and-ibrahim-davies]] | CYB-FUP-124 | 2 | absorbed | 4.00 | 1 |
-| [[operation-us-v-ruslan-astamirov-and-mikhail-vasiliev]] | CYB-FUP-125 | 3 | absorbed | 4.00 | 1 |
-| [[operation-us-v-solomon-ekunke-okpe-and-johnson-uke-obogo]] | CYB-FUP-126 | 3 | absorbed | 4.00 | 1 |
-| [[operation-us-v-t-andre-mcneely]] | CYB-FUP-127 | 3 | absorbed | 4.00 | 1 |
-| [[operation-us-v-veronica-dittman-rick-schiffner-and-devin-langer]] | CYB-FUP-128 | 3 | absorbed | 4.00 | 1 |
-| [[operation-us-v-ulbricht]] | CYB-FUP-129 | 1 | absorbed | 4.00 | 1 |
-| [[operation-greene-county-man-indicted-cyberstalking-and-interstate-threats]] | CYB-FUP-131 | 2 | absorbed | 4.00 | 1 |
-| [[operation-illinois-man-sentenced-2-years-federal-prison-operating-subscription-based-computer]] | CYB-FUP-132 | 2 | absorbed | 4.00 | 1 |
-| [[operation-orange-county-man-pleads-guilty-stalking-charge-harassment-campaign-against]] | CYB-FUP-133 | 2 | absorbed | 4.00 | 1 |
-| [[operation-pittsburgh-man-charged-threatening-communications-and-impeding-fbi-investigation-1]] | CYB-FUP-134 | 2 | absorbed | 4.00 | 1 |
-| [[operation-us-v-alex-scott-roberts]] | CYB-FUP-135 | 3 | absorbed | 4.00 | 1 |
-| [[operation-us-v-amir-hossein-golshan]] | CYB-FUP-136 | 3 | absorbed | 4.00 | 1 |
-| [[operation-us-v-amitoj-kapoor-and-siddharth-lillaney]] | CYB-FUP-137 | 3 | absorbed | 4.00 | 1 |
-| [[operation-us-v-anthony-bellisario]] | CYB-FUP-138 | 2 | absorbed | 4.00 | 1 |
-| [[operation-us-v-anthony-joseph-carlson]] | CYB-FUP-139 | 2 | absorbed | 4.00 | 1 |
-| [[operation-us-v-antonio-barner]] | CYB-FUP-140 | 2 | absorbed | 4.00 | 1 |
-| [[operation-us-v-argishti-khudaverdyan-and-eagle-rock]] | CYB-FUP-141 | 2 | absorbed | 4.00 | 1 |
-| [[operation-us-v-argishti-khudaverdyan]] | CYB-FUP-142 | 2 | absorbed | 4.00 | 1 |
-| [[operation-us-v-celeste-santifer]] | CYB-FUP-143 | 3 | absorbed | 4.00 | 1 |
-| [[operation-us-v-conor-brian-fitzpatrick]] | CYB-FUP-144 | 3 | absorbed | 4.00 | 1 |
-| [[operation-us-v-daniel-marsico]] | CYB-FUP-145 | 3 | absorbed | 4.00 | 1 |
-| [[operation-us-v-david-brian-pate-and-jose-luis-fung-hou]] | CYB-FUP-146 | 2 | absorbed | 4.00 | 1 |
-| [[operation-us-v-donjuan-murphy]] | CYB-FUP-147 | 2 | absorbed | 4.00 | 1 |
-| [[operation-us-v-eric-caleb-carlson]] | CYB-FUP-148 | 3 | absorbed | 4.00 | 1 |
-| [[operation-us-v-eric-council]] | CYB-FUP-149 | 3 | absorbed | 4.00 | 1 |
-| [[operation-us-v-eric-scholl]] | CYB-FUP-150 | 3 | absorbed | 4.00 | 1 |
-| [[operation-us-v-evan-baltierra]] | CYB-FUP-151 | 2 | absorbed | 4.00 | 1 |
-| [[operation-us-v-evan-hayes]] | CYB-FUP-152 | 2 | absorbed | 4.00 | 1 |
-| [[operation-us-v-evan-tangeman]] | CYB-FUP-153 | 3 | absorbed | 4.00 | 1 |
-| [[operation-us-v-evgenii-ptitsyn]] | CYB-FUP-154 | 3 | absorbed | 4.00 | 1 |
-| [[operation-us-v-gary-james-harmon]] | CYB-FUP-155 | 3 | absorbed | 4.00 | 1 |
-| [[operation-us-v-hadja-franklin]] | CYB-FUP-156 | 3 | absorbed | 4.00 | 1 |
-| [[operation-us-v-haider-ali-and-arian-taherzadeh]] | CYB-FUP-157 | 3 | absorbed | 4.00 | 1 |
-| [[operation-us-v-henry-konah-koffie]] | CYB-FUP-158 | 3 | absorbed | 4.00 | 1 |
-| [[operation-us-v-hussein-kadhim-abood-khalaf]] | CYB-FUP-159 | 2 | absorbed | 4.00 | 1 |
-| [[operation-us-v-ilya-lichtenstein-heather-morgan-and-new-york-city]] | CYB-FUP-160 | 3 | absorbed | 4.00 | 1 |
-| [[operation-us-v-jacob-blair]] | CYB-FUP-161 | 3 | absorbed | 4.00 | 1 |
-| [[operation-us-v-james-campbell-cardwell]] | CYB-FUP-162 | 2 | absorbed | 4.00 | 1 |
-| [[operation-us-v-johao-miguel-chavarri-and-camp-pendleton]] | CYB-FUP-163 | 2 | absorbed | 4.00 | 1 |
-| [[operation-us-v-johao-miguel-chavarri]] | CYB-FUP-164 | 2 | absorbed | 4.00 | 1 |
-| [[operation-us-v-jonathan-patrick-turrentine]] | CYB-FUP-165 | 2 | absorbed | 4.00 | 1 |
-| [[operation-us-v-jorge-antonio-escobar]] | CYB-FUP-166 | 2 | absorbed | 4.00 | 1 |
-| [[operation-us-v-kaleb-levicky]] | CYB-FUP-167 | 2 | absorbed | 4.00 | 1 |
-| [[operation-us-v-karen-kowkabi]] | CYB-FUP-168 | 3 | absorbed | 4.00 | 1 |
-| [[operation-us-v-kevin-olando-ombisi]] | CYB-FUP-169 | 3 | absorbed | 4.00 | 1 |
-| [[operation-us-v-khaled-miah]] | CYB-FUP-170 | 2 | absorbed | 4.00 | 1 |
-| [[operation-us-v-larry-dean-harmon]] | CYB-FUP-171 | 2 | absorbed | 4.00 | 1 |
-| [[operation-us-v-lu-zhang-and-justin-walker]] | CYB-FUP-172 | 3 | absorbed | 4.00 | 1 |
-| [[operation-us-v-matthew-christian-locher]] | CYB-FUP-173 | 2 | absorbed | 4.00 | 1 |
-| [[operation-us-v-matthew-gatrel]] | CYB-FUP-174 | 2 | absorbed | 4.00 | 1 |
-| [[operation-us-v-olatunji-dawodu-and-alex-ogando]] | CYB-FUP-175 | 2 | absorbed | 4.00 | 1 |
-| [[operation-us-v-onwuchekwa-nnanna-kalu]] | CYB-FUP-176 | 3 | absorbed | 4.00 | 1 |
-| [[operation-us-v-rajiv-srinivasan-and-michael-ta]] | CYB-FUP-177 | 2 | absorbed | 4.00 | 1 |
-| [[operation-us-v-raymond-glover]] | CYB-FUP-178 | 3 | absorbed | 4.00 | 1 |
-| [[operation-us-v-robert-merkle]] | CYB-FUP-179 | 2 | absorbed | 4.00 | 1 |
-| [[operation-us-v-roman-sterlingov]] | CYB-FUP-180 | 2 | absorbed | 4.00 | 1 |
-| [[operation-us-v-ryan-menkins]] | CYB-FUP-181 | 2 | absorbed | 4.00 | 1 |
-| [[operation-us-v-samuel-trelawney-hughes]] | CYB-FUP-182 | 2 | absorbed | 4.00 | 1 |
-| [[operation-us-v-scott-quinn-berkett]] | CYB-FUP-183 | 2 | absorbed | 4.00 | 1 |
-| [[operation-us-v-steven-ehizojie-oboite-eric-xavier-bechet-jabari-ayinde-cooper-rashad-cortese-kinloch]] | CYB-FUP-184 | 3 | absorbed | 4.00 | 1 |
-| [[operation-us-v-thiago-de-souza-prado]] | CYB-FUP-185 | 3 | absorbed | 4.00 | 1 |
-| [[operation-us-v-yapo-jean-franck-ngbichi]] | CYB-FUP-186 | 3 | absorbed | 4.00 | 1 |
-| [[operation-woodbridge-man-convicted-again-possessing-child-sexual-abuse-material]] | CYB-FUP-187 | 3 | absorbed | 4.00 | 1 |
-| [[operation-ceres-man-pleads-guilty-cyberstalking-two-victims]] | CYB-FUP-190 | 3 | absorbed | 4.00 | 1 |
-| [[operation-deepdotweb-administrator-pleads-guilty-money-laundering-conspiracy]] | CYB-FUP-191 | 2 | absorbed | 4.00 | 1 |
-| [[operation-florida-man-pleads-guilty-production-images-child-sexual-abuse-and-traveling-sexually]] | CYB-FUP-192 | 3 | absorbed | 4.00 | 1 |
-| [[operation-kentucky-man-pleads-guilty-advertising-child-pornography]] | CYB-FUP-193 | 3 | absorbed | 4.00 | 1 |
-| [[operation-man-sentenced-stalking-and-threatening-congressman-kevin-hern-and-his-wife]] | CYB-FUP-194 | 3 | absorbed | 4.00 | 1 |
-| [[operation-massachusetts-man-pleads-guilty-knowingly-concealing-source-material-support-or]] | CYB-FUP-195 | 3 | absorbed | 4.00 | 1 |
-| [[operation-nurse-admits-tampering-vials-fentanyl]] | CYB-FUP-196 | 3 | absorbed | 4.00 | 1 |
-| [[operation-pulaski-county-man-sentenced-cyber-intrusion-and-aggravated-identity-theft]] | CYB-FUP-197 | 3 | absorbed | 4.00 | 1 |
-| [[operation-registered-sex-offender-admits-possessing-child-pornography-0]] | CYB-FUP-198 | 3 | absorbed | 4.00 | 1 |
-| [[operation-siemens-contract-employee-intentionally-damaged-computers-planting-logic-bombs-programs]] | CYB-FUP-199 | 1 | absorbed | 4.00 | 1 |
-| [[operation-slovakian-man-admits-aiding-darknet-market-sold-drugs-and-stolen-personal-information]] | CYB-FUP-200 | 3 | absorbed | 4.00 | 1 |
-| [[operation-us-charges-dual-russian-and-israeli-national-developer-lockbit-ransomware-group]] | CYB-FUP-201 | 3 | absorbed | 4.00 | 1 |
-| [[operation-us-v-aaron-michael-thomas]] | CYB-FUP-202 | 3 | absorbed | 4.00 | 1 |
-| [[operation-us-v-adam-sloan]] | CYB-FUP-203 | 3 | absorbed | 4.00 | 1 |
-| [[operation-us-v-ahmed-salah-yousif-omer-and-alaa-salah-yusuuf-omer]] | CYB-FUP-204 | 3 | absorbed | 4.00 | 1 |
-| [[operation-us-v-alan-bill]] | CYB-FUP-205 | 3 | absorbed | 4.00 | 1 |
-| [[operation-us-v-aleksandr-stepanov-and-artem-aleksandrovich-kalinkin]] | CYB-FUP-206 | 3 | absorbed | 4.00 | 1 |
-| [[operation-us-v-alexander-aiello]] | CYB-FUP-207 | 3 | absorbed | 4.00 | 1 |
-| [[operation-us-v-alexander-james-rosell]] | CYB-FUP-208 | 3 | absorbed | 4.00 | 1 |
-| [[operation-us-v-alexander-vinnik]] | CYB-FUP-209 | 2 | absorbed | 4.00 | 1 |
-| [[operation-us-v-alexey-bilyuchenko-and-aleksandr-verner]] | CYB-FUP-210 | 3 | absorbed | 4.00 | 1 |
-| [[operation-us-v-alexey-viktorovich-chertkov-kirill-vladimirovich-morozov-aleksandr-aleksandrovich-shi]] | CYB-FUP-211 | 3 | absorbed | 4.00 | 1 |
-| [[operation-us-v-andrew-charles-nicholls]] | CYB-FUP-212 | 3 | absorbed | 4.00 | 1 |
-| [[operation-us-v-andrew-shenkosky]] | CYB-FUP-213 | 3 | absorbed | 4.00 | 1 |
-| [[operation-us-v-andy-peter-vongdala]] | CYB-FUP-214 | 3 | absorbed | 4.00 | 1 |
-| [[operation-us-v-annie-nicole-ritenour]] | CYB-FUP-215 | 2 | absorbed | 4.00 | 1 |
-| [[operation-us-v-anthony-dalton-wolff]] | CYB-FUP-216 | 3 | absorbed | 4.00 | 1 |
-| [[operation-us-v-anthony-raymond-dodd]] | CYB-FUP-217 | 3 | absorbed | 4.00 | 1 |
-| [[operation-us-v-anurag-pramod-murarka]] | CYB-FUP-218 | 3 | absorbed | 4.00 | 1 |
-| [[operation-us-v-arbi-setaghaian-sangbarani]] | CYB-FUP-219 | 3 | absorbed | 4.00 | 1 |
-| [[operation-us-v-ashton-connor-garcia]] | CYB-FUP-220 | 3 | absorbed | 4.00 | 1 |
-| [[operation-us-v-austin-genay]] | CYB-FUP-221 | 3 | absorbed | 4.00 | 1 |
-| [[operation-us-v-bradley-lefebvre]] | CYB-FUP-222 | 2 | absorbed | 4.00 | 1 |
-| [[operation-us-v-brandon-spann]] | CYB-FUP-223 | 2 | absorbed | 4.00 | 1 |
-| [[operation-us-v-chandler-bennett]] | CYB-FUP-224 | 3 | absorbed | 4.00 | 1 |
-| [[operation-us-v-chris-ruediger]] | CYB-FUP-225 | 3 | absorbed | 4.00 | 1 |
-| [[operation-us-v-christerfer-frick]] | CYB-FUP-226 | 3 | absorbed | 4.00 | 1 |
-| [[operation-us-v-christopher-aaron-stanfield]] | CYB-FUP-227 | 3 | absorbed | 4.00 | 1 |
-| [[operation-us-v-christopher-lynn-driskill]] | CYB-FUP-228 | 3 | absorbed | 4.00 | 1 |
-| [[operation-us-v-christopher-scott-crawford]] | CYB-FUP-229 | 2 | absorbed | 4.00 | 1 |
-| [[operation-us-v-ciara-clutario]] | CYB-FUP-230 | 3 | absorbed | 4.00 | 1 |
-| [[operation-us-v-clayton-harker]] | CYB-FUP-231 | 3 | absorbed | 4.00 | 1 |
-| [[operation-us-v-colin-andrew-shapard]] | CYB-FUP-232 | 3 | absorbed | 4.00 | 1 |
-| [[operation-us-v-daniel-faix]] | CYB-FUP-233 | 3 | absorbed | 4.00 | 1 |
-| [[operation-us-v-david-mark-bartels]] | CYB-FUP-234 | 3 | absorbed | 4.00 | 1 |
-| [[operation-us-v-david-tinley]] | CYB-FUP-235 | 1 | absorbed | 4.00 | 1 |
-| [[operation-us-v-davit-avalyan]] | CYB-FUP-236 | 3 | absorbed | 4.00 | 1 |
-| [[operation-us-v-defendant-nicole-dunlap-and-marcus-smith]] | CYB-FUP-237 | 2 | absorbed | 4.00 | 1 |
-| [[operation-us-v-demario-sorrells]] | CYB-FUP-238 | 3 | absorbed | 4.00 | 1 |
-| [[operation-us-v-devin-shanahan]] | CYB-FUP-239 | 3 | absorbed | 4.00 | 1 |
-| [[operation-us-v-devlin-hosner-and-holly-adams]] | CYB-FUP-240 | 3 | absorbed | 4.00 | 1 |
-| [[operation-us-v-dustin-carl-wurges-and-jonathan-mayhall]] | CYB-FUP-241 | 3 | absorbed | 4.00 | 1 |
-| [[operation-us-v-eddy-steven-sandoval-lopez]] | CYB-FUP-242 | 1 | absorbed | 4.00 | 1 |
-| [[operation-us-v-edmond-chakhmakhchyan]] | CYB-FUP-243 | 3 | absorbed | 4.00 | 1 |
-| [[operation-us-v-ephraim-rosenberg]] | CYB-FUP-244 | 3 | absorbed | 4.00 | 1 |
-| [[operation-us-v-eric-smith-and-sara-thompson]] | CYB-FUP-245 | 3 | absorbed | 4.00 | 1 |
-| [[operation-us-v-fatiu-ismaila-lawal-and-sakiru-olanrewaju-ambali]] | CYB-FUP-246 | 3 | absorbed | 4.00 | 1 |
-| [[operation-us-v-frank-lozano-graves]] | CYB-FUP-247 | 3 | absorbed | 4.00 | 1 |
-| [[operation-us-v-garrett-norvell]] | CYB-FUP-248 | 3 | absorbed | 4.00 | 1 |
-| [[operation-us-v-ghaleb-alaumary]] | CYB-FUP-249 | 2 | absorbed | 4.00 | 1 |
-| [[operation-us-v-hadis-nuhanovic]] | CYB-FUP-250 | 3 | absorbed | 4.00 | 1 |
-| [[operation-us-v-hasan-howard]] | CYB-FUP-251 | 2 | absorbed | 4.00 | 1 |
-| [[operation-us-v-hector-duran-aldaco]] | CYB-FUP-252 | 3 | absorbed | 4.00 | 1 |
-| [[operation-us-v-holly-danielle-adams-and-devlin-hosner]] | CYB-FUP-253 | 3 | absorbed | 4.00 | 1 |
-| [[operation-us-v-humberto-garcia]] | CYB-FUP-254 | 3 | absorbed | 4.00 | 1 |
-| [[operation-us-v-humberto-lopez-rodriguez-and-lopez-rodriguez]] | CYB-FUP-255 | 3 | absorbed | 4.00 | 1 |
-| [[operation-us-v-ian-hoffmann]] | CYB-FUP-256 | 3 | absorbed | 4.00 | 1 |
-| [[operation-us-v-ilya-lichtenstein-and-heather-morgan]] | CYB-FUP-257 | 3 | absorbed | 4.00 | 1 |
-| [[operation-us-v-jacob-elijah-kilgore]] | CYB-FUP-258 | 3 | absorbed | 4.00 | 1 |
-| [[operation-us-v-jail-guard-mosses-ramos-and-michael-anthony-barquet]] | CYB-FUP-259 | 3 | absorbed | 4.00 | 1 |
-| [[operation-us-v-jamar-edward-gay-and-james-edward-sweat]] | CYB-FUP-260 | 2 | absorbed | 4.00 | 1 |
-| [[operation-us-v-jason-keith-arnold-and-david-white]] | CYB-FUP-261 | 2 | absorbed | 4.00 | 1 |
-| [[operation-us-v-jeremiah-morrison]] | CYB-FUP-262 | 3 | absorbed | 4.00 | 1 |
-| [[operation-us-v-jeremy-daniel-singer]] | CYB-FUP-263 | 1 | absorbed | 4.00 | 1 |
-| [[operation-us-v-jerrell-eugene-anderson]] | CYB-FUP-264 | 3 | absorbed | 4.00 | 1 |
-| [[operation-us-v-jesse-kipf]] | CYB-FUP-265 | 3 | absorbed | 4.00 | 1 |
-| [[operation-us-v-john-jacobs-ahrens]] | CYB-FUP-266 | 2 | absorbed | 4.00 | 1 |
-| [[operation-us-v-john-khuu]] | CYB-FUP-267 | 2 | absorbed | 4.00 | 1 |
-| [[operation-us-v-john-michael-sherwood-and-kevin-christopher-gartry]] | CYB-FUP-268 | 2 | absorbed | 4.00 | 1 |
-| [[operation-us-v-johnny-elias]] | CYB-FUP-269 | 3 | absorbed | 4.00 | 1 |
-| [[operation-us-v-jonathan-fleischmann]] | CYB-FUP-270 | 3 | absorbed | 4.00 | 1 |
-| [[operation-us-v-joseph-nilsen-and-kristen-leccese]] | CYB-FUP-271 | 3 | absorbed | 4.00 | 1 |
-| [[operation-us-v-justin-sean-johnson]] | CYB-FUP-272 | 2 | absorbed | 4.00 | 1 |
-| [[operation-us-v-keith-charles-eisenberger]] | CYB-FUP-273 | 2 | absorbed | 4.00 | 1 |
-| [[operation-us-v-kenneth-warren-rhule-and-kenneth-john-rule]] | CYB-FUP-274 | 2 | absorbed | 4.00 | 1 |
-| [[operation-us-v-kevin-james-strutz]] | CYB-FUP-275 | 3 | absorbed | 4.00 | 1 |
-| [[operation-us-v-krista-renae-stone]] | CYB-FUP-276 | 3 | absorbed | 4.00 | 1 |
-| [[operation-us-v-kristy-lynn-felkins]] | CYB-FUP-277 | 3 | absorbed | 4.00 | 1 |
-| [[operation-us-v-krystal-baird]] | CYB-FUP-278 | 3 | absorbed | 4.00 | 1 |
-| [[operation-us-v-krystal-cherika-scott]] | CYB-FUP-279 | 2 | absorbed | 4.00 | 1 |
-| [[operation-us-v-kyle-weiland]] | CYB-FUP-280 | 3 | absorbed | 4.00 | 1 |
-| [[operation-us-v-landon-joe-black]] | CYB-FUP-281 | 3 | absorbed | 4.00 | 1 |
-| [[operation-us-v-larry-stendebach]] | CYB-FUP-282 | 3 | absorbed | 4.00 | 1 |
-| [[operation-us-v-louis-donald-mendonsa]] | CYB-FUP-283 | 3 | absorbed | 4.00 | 1 |
-| [[operation-us-v-luis-donaldo-galeana-garcia-juan-carlos-garnica-pacheco-lorena-esquivel-and-dustin-ra]] | CYB-FUP-284 | 3 | absorbed | 4.00 | 1 |
-| [[operation-us-v-manager-marquis-hooper]] | CYB-FUP-285 | 3 | absorbed | 4.00 | 1 |
-| [[operation-us-v-marco-juarez]] | CYB-FUP-286 | 3 | absorbed | 4.00 | 1 |
-| [[operation-us-v-marcus-dieter-felder]] | CYB-FUP-287 | 2 | absorbed | 4.00 | 1 |
-| [[operation-us-v-marquise-tolbert]] | CYB-FUP-288 | 3 | absorbed | 4.00 | 1 |
-| [[operation-us-v-mateo-ventura]] | CYB-FUP-289 | 3 | absorbed | 4.00 | 1 |
-| [[operation-us-v-matthew-estes]] | CYB-FUP-290 | 3 | absorbed | 4.00 | 1 |
-| [[operation-us-v-melody-sasser]] | CYB-FUP-291 | 3 | absorbed | 4.00 | 1 |
-| [[operation-us-v-michael-basalyga]] | CYB-FUP-292 | 3 | absorbed | 4.00 | 1 |
-| [[operation-us-v-michael-posey]] | CYB-FUP-293 | 3 | absorbed | 4.00 | 1 |
-| [[operation-us-v-michael-ta-and-rajiv-srinivasan]] | CYB-FUP-294 | 3 | absorbed | 4.00 | 1 |
-| [[operation-us-v-michael-warren]] | CYB-FUP-295 | 3 | absorbed | 4.00 | 1 |
-| [[operation-us-v-michelle-murphy]] | CYB-FUP-296 | 3 | absorbed | 4.00 | 1 |
-| [[operation-us-v-milomir-desnica]] | CYB-FUP-297 | 3 | absorbed | 4.00 | 1 |
-| [[operation-us-v-mohamed-abdirisak-mohamed]] | CYB-FUP-298 | 3 | absorbed | 4.00 | 1 |
-| [[operation-us-v-mosses-ramos-michael-anthony-barquet-neca-silvestre-katrina-cazares-and-kayara-zepeda]] | CYB-FUP-299 | 3 | absorbed | 4.00 | 1 |
-| [[operation-us-v-natasha-parkhill]] | CYB-FUP-300 | 3 | absorbed | 4.00 | 1 |
-| [[operation-us-v-neal-staton-grubert]] | CYB-FUP-301 | 3 | absorbed | 4.00 | 1 |
-| [[operation-us-v-nehemie-almonor]] | CYB-FUP-302 | 3 | absorbed | 4.00 | 1 |
-| [[operation-us-v-nevin-shetty]] | CYB-FUP-303 | 3 | absorbed | 4.00 | 1 |
-| [[operation-us-v-nicholas-moore]] | CYB-FUP-304 | 3 | absorbed | 4.00 | 1 |
-| [[operation-us-v-oleksandr-didenko]] | CYB-FUP-305 | 1 | absorbed | 4.00 | 1 |
-| [[operation-us-v-omar-navia-and-adan-ruiz]] | CYB-FUP-306 | 3 | absorbed | 4.00 | 1 |
-| [[operation-us-v-onomen-uduebor]] | CYB-FUP-307 | 3 | absorbed | 4.00 | 1 |
-| [[operation-us-v-patrick-mayberry]] | CYB-FUP-308 | 3 | absorbed | 4.00 | 1 |
-| [[operation-us-v-percy-levy-and-eugene-smith]] | CYB-FUP-309 | 3 | absorbed | 4.00 | 1 |
-| [[operation-us-v-ramon-duarte-garcia-and-defendant-humberto-lopez-rodriguez]] | CYB-FUP-310 | 3 | absorbed | 4.00 | 1 |
-| [[operation-us-v-ramon-duarte-garcia]] | CYB-FUP-311 | 3 | absorbed | 4.00 | 1 |
-| [[operation-us-v-ramon-olorunwa-abbas]] | CYB-FUP-312 | 2 | absorbed | 4.00 | 1 |
-| [[operation-us-v-ricky-ramacho]] | CYB-FUP-313 | 1 | absorbed | 4.00 | 1 |
-| [[operation-us-v-robert-quido-stella]] | CYB-FUP-314 | 3 | absorbed | 4.00 | 1 |
-| [[operation-us-v-rogelio-pena]] | CYB-FUP-315 | 3 | absorbed | 4.00 | 1 |
-| [[operation-us-v-rostislav-panev]] | CYB-FUP-316 | 3 | absorbed | 4.00 | 1 |
-| [[operation-us-v-rushan-lavar-reed-and-celeste-nicole-reed]] | CYB-FUP-317 | 3 | absorbed | 4.00 | 1 |
-| [[operation-us-v-ryan-thomas-carver]] | CYB-FUP-319 | 1 | absorbed | 4.00 | 1 |
-| [[operation-us-v-ryan-william-newhart]] | CYB-FUP-320 | 3 | absorbed | 4.00 | 1 |
-| [[operation-us-v-sadie-bramlette-and-dejian-johl]] | CYB-FUP-321 | 3 | absorbed | 4.00 | 1 |
-| [[operation-us-v-samuel-aaron-leonard]] | CYB-FUP-322 | 3 | absorbed | 4.00 | 1 |
-| [[operation-us-v-santana-sandoval-and-defendant-kevin-torres-velasquez]] | CYB-FUP-323 | 3 | absorbed | 4.00 | 1 |
-| [[operation-us-v-scott-allison]] | CYB-FUP-324 | 3 | absorbed | 4.00 | 1 |
-| [[operation-us-v-sean-donnell-white]] | CYB-FUP-325 | 3 | absorbed | 4.00 | 1 |
-| [[operation-us-v-shawn-ellis-and-when-ellis]] | CYB-FUP-326 | 3 | absorbed | 4.00 | 1 |
-| [[operation-us-v-simon-kaura]] | CYB-FUP-327 | 3 | absorbed | 4.00 | 1 |
-| [[operation-us-v-steven-michael-burke]] | CYB-FUP-328 | 3 | absorbed | 4.00 | 1 |
-| [[operation-us-v-sumit-garg]] | CYB-FUP-329 | 3 | absorbed | 4.00 | 1 |
-| [[operation-us-v-sunday-daniel-ganyo]] | CYB-FUP-330 | 3 | absorbed | 4.00 | 1 |
-| [[operation-us-v-tai-jauna-jones]] | CYB-FUP-331 | 3 | absorbed | 4.00 | 1 |
-| [[operation-us-v-tal-prihar-and-michael-phan]] | CYB-FUP-332 | 1 | absorbed | 4.00 | 1 |
-| [[operation-us-v-thomas-edward-gailus]] | CYB-FUP-333 | 3 | absorbed | 4.00 | 1 |
-| [[operation-us-v-travis-eskridge]] | CYB-FUP-334 | 3 | absorbed | 4.00 | 1 |
-| [[operation-us-v-victoria-eduardovna-dubranova]] | CYB-FUP-335 | 3 | absorbed | 4.00 | 1 |
-| [[operation-us-v-waylan-graves]] | CYB-FUP-336 | 3 | absorbed | 4.00 | 1 |
-| [[operation-us-v-yang-yong]] | CYB-FUP-337 | 3 | absorbed | 4.00 | 1 |
-| [[operation-us-v-yevgeniy-alexandrovich-nikulin]] | CYB-FUP-338 | 2 | absorbed | 4.00 | 1 |
-| [[operation-us-v-zachary-dean-perpinan]] | CYB-FUP-339 | 3 | absorbed | 4.00 | 1 |
-| [[operation-washington-state-man-pleads-guilty-advertising-child-sexual-abuse-material]] | CYB-FUP-340 | 3 | absorbed | 4.00 | 1 |
-| [[operation-woman-accused-murder-hire-admits-using-dark-web-carry-out-crime]] | CYB-FUP-341 | 3 | absorbed | 4.00 | 1 |
-| [[operation-us-v-amanda-rutherford]] | CYB-FUP-342 | 3 | absorbed | 4.00 | 1 |
-| [[operation-us-v-andrew-chu]] | CYB-FUP-343 | 2 | absorbed | 4.00 | 1 |
-| [[operation-us-v-april-henderson-and-donnell-timley]] | CYB-FUP-344 | 3 | absorbed | 4.00 | 1 |
-| [[operation-us-v-baha-ibrahim-and-jawad-albadawi]] | CYB-FUP-345 | 3 | absorbed | 4.00 | 1 |
-| [[operation-us-v-charles-thomas-abrahamson]] | CYB-FUP-346 | 3 | absorbed | 4.00 | 1 |
-| [[operation-us-v-christhian-castillo]] | CYB-FUP-347 | 3 | absorbed | 4.00 | 1 |
-| [[operation-us-v-de-los-santos]] | CYB-FUP-348 | 3 | absorbed | 4.00 | 1 |
-| [[operation-us-v-deniss-zolotarjovs]] | CYB-FUP-349 | 3 | absorbed | 4.00 | 1 |
-| [[operation-us-v-dequan-lamar-mitchell]] | CYB-FUP-350 | 3 | absorbed | 4.00 | 1 |
-| [[operation-us-v-dmitry-aleksandrovich-dokuchaev-and-igor-anatolyevich-sushchin]] | CYB-FUP-351 | 1 | absorbed | 4.00 | 1 |
-| [[operation-us-v-donald-ryan-austin]] | CYB-FUP-352 | 1 | absorbed | 4.00 | 1 |
-| [[operation-us-v-edward-shia]] | CYB-FUP-353 | 1 | absorbed | 4.00 | 1 |
-| [[operation-us-v-emerson-hayes]] | CYB-FUP-354 | 3 | absorbed | 4.00 | 1 |
-| [[operation-us-v-filip-lucian-simion]] | CYB-FUP-355 | 1 | absorbed | 4.00 | 1 |
-| [[operation-us-v-guo-liang-ye-and-de-jin-ye]] | CYB-FUP-356 | 3 | absorbed | 4.00 | 1 |
-| [[operation-us-v-jacob-matthew-medina]] | CYB-FUP-357 | 2 | absorbed | 4.00 | 1 |
-| [[operation-us-v-james-curtis-brasher]] | CYB-FUP-358 | 2 | absorbed | 4.00 | 1 |
-| [[operation-us-v-jeremy-yazzie]] | CYB-FUP-359 | 3 | absorbed | 4.00 | 1 |
-| [[operation-us-v-julia-roberts-and-vicki-robinson]] | CYB-FUP-360 | 3 | absorbed | 4.00 | 1 |
-| [[operation-us-v-kareem-mustafa-ahmad]] | CYB-FUP-361 | 3 | absorbed | 4.00 | 1 |
-| [[operation-us-v-karim-akehmet-tokbergenov]] | CYB-FUP-362 | 1 | absorbed | 4.00 | 1 |
-| [[operation-us-v-keanu-lee]] | CYB-FUP-363 | 3 | absorbed | 4.00 | 1 |
-| [[operation-us-v-kenneth-kezeor]] | CYB-FUP-364 | 1 | absorbed | 4.00 | 1 |
-| [[operation-us-v-krasimir-nikolov]] | CYB-FUP-365 | 1 | absorbed | 4.00 | 1 |
-| [[operation-us-v-leonardo-cristea-and-filip-lucian-simion]] | CYB-FUP-366 | 1 | absorbed | 4.00 | 1 |
-| [[operation-us-v-logan-christopher-murfin]] | CYB-FUP-367 | 3 | absorbed | 4.00 | 1 |
-| [[operation-us-v-maksym-silnikov]] | CYB-FUP-368 | 3 | absorbed | 4.00 | 1 |
-| [[operation-us-v-malik-holman]] | CYB-FUP-369 | 3 | absorbed | 4.00 | 1 |
-| [[operation-us-v-maxito-pean]] | CYB-FUP-370 | 1 | absorbed | 4.00 | 1 |
-| [[operation-us-v-mihai-alexandru-isvanca]] | CYB-FUP-371 | 1 | absorbed | 4.00 | 1 |
-| [[operation-us-v-nathan-wyatt]] | CYB-FUP-372 | 1 | absorbed | 4.00 | 1 |
-| [[operation-us-v-nathaniel-earl-dunlap]] | CYB-FUP-373 | 1 | absorbed | 4.00 | 1 |
-| [[operation-us-v-omar-isho]] | CYB-FUP-374 | 1 | absorbed | 4.00 | 1 |
-| [[operation-us-v-oscar-gabriel-rojas-urquieta]] | CYB-FUP-375 | 1 | absorbed | 4.00 | 1 |
-| [[operation-us-v-pedro-marquez-benetiz]] | CYB-FUP-376 | 3 | absorbed | 4.00 | 1 |
-| [[operation-us-v-raekwon-malik-harrod]] | CYB-FUP-377 | 3 | absorbed | 4.00 | 1 |
-| [[operation-us-v-robert-saunders]] | CYB-FUP-378 | 1 | absorbed | 4.00 | 1 |
-| [[operation-us-v-rodney-vaughn-and-brad-akins]] | CYB-FUP-379 | 3 | absorbed | 4.00 | 1 |
-| [[operation-us-v-sanford-wallace]] | CYB-FUP-380 | 1 | absorbed | 4.00 | 1 |
-| [[operation-us-v-security-advisor-john-bolton]] | CYB-FUP-381 | 3 | absorbed | 4.00 | 1 |
-| [[operation-us-v-sherman-jackson]] | CYB-FUP-382 | 1 | absorbed | 4.00 | 1 |
-| [[operation-us-v-steve-parish-richard-dean-and-joshua-owen]] | CYB-FUP-383 | 3 | absorbed | 4.00 | 1 |
-| [[operation-us-v-tanisha-spencer]] | CYB-FUP-384 | 3 | absorbed | 4.00 | 1 |
-| [[operation-us-v-tavaris-andre-donaldson]] | CYB-FUP-385 | 3 | absorbed | 4.00 | 1 |
-| [[operation-us-v-victor-da-silva-soares]] | CYB-FUP-386 | 3 | absorbed | 4.00 | 1 |
-| [[operation-us-v-willis-kylestewa]] | CYB-FUP-387 | 3 | absorbed | 4.00 | 1 |
-| [[operation-us-v-willy-clock]] | CYB-FUP-388 | 1 | absorbed | 4.00 | 1 |
-| [[operation-us-v-yevgeniy-nikulin]] | CYB-FUP-389 | 2 | absorbed | 4.00 | 1 |
-| [[operation-us-v-zachary-silas-brandner]] | CYB-FUP-390 | 3 | absorbed | 4.00 | 1 |
-| [[operation-us-v-igor-turashev]] | CYB-FUP-391 | 1 | absorbed | 4.00 | 1 |
-| [[operation-ledyard-man-pleads-guilty-child-exploitation-offense]] | CYB-FUP-393 | 3 | absorbed | 4.00 | 1 |
-| [[operation-us-v-across-four-continents]] | CYB-FUP-394 | 3 | absorbed | 4.00 | 1 |
-| [[operation-us-v-and-prolific-child-molester]] | CYB-FUP-395 | 3 | absorbed | 4.00 | 1 |
-| [[operation-us-v-at-trial]] | CYB-FUP-396 | 3 | absorbed | 4.00 | 1 |
-| [[operation-us-v-auburn-man]] | CYB-FUP-397 | 3 | absorbed | 4.00 | 1 |
-| [[operation-us-v-beresford-man]] | CYB-FUP-398 | 3 | absorbed | 4.00 | 1 |
-| [[operation-us-v-brought-against-bay-area]] | CYB-FUP-399 | 1 | absorbed | 4.00 | 1 |
-| [[operation-us-v-bugat-botnet-administrator]] | CYB-FUP-400 | 1 | absorbed | 4.00 | 1 |
-| [[operation-us-v-california-teenager]] | CYB-FUP-401 | 3 | absorbed | 4.00 | 1 |
-| [[operation-us-v-charges-hartford-man]] | CYB-FUP-403 | 3 | absorbed | 4.00 | 1 |
-| [[operation-us-v-charges-man]] | CYB-FUP-404 | 3 | absorbed | 4.00 | 1 |
-| [[operation-us-v-charges-stamford-men]] | CYB-FUP-405 | 3 | absorbed | 4.00 | 1 |
-| [[operation-us-v-charges-waterbury-man]] | CYB-FUP-406 | 3 | absorbed | 4.00 | 1 |
-| [[operation-us-v-charging-involvement]] | CYB-FUP-407 | 3 | absorbed | 4.00 | 1 |
-| [[operation-us-v-charlestown-man]] | CYB-FUP-408 | 3 | absorbed | 4.00 | 1 |
-| [[operation-us-v-conway-man]] | CYB-FUP-409 | 3 | absorbed | 4.00 | 1 |
-| [[operation-us-v-cryptocurrency-exchange]] | CYB-FUP-410 | 3 | absorbed | 4.00 | 1 |
-| [[operation-us-v-dark-web-drug-trafficker]] | CYB-FUP-411 | 3 | absorbed | 4.00 | 1 |
-| [[operation-us-v-dark-web-marketplace]] | CYB-FUP-412 | 3 | absorbed | 4.00 | 1 |
-| [[operation-us-v-darkweb-drug-trafficker]] | CYB-FUP-413 | 2 | absorbed | 4.00 | 1 |
-| [[operation-us-v-district-man]] | CYB-FUP-414 | 1 | absorbed | 4.00 | 1 |
-| [[operation-us-v-dutch-national]] | CYB-FUP-415 | 2 | absorbed | 4.00 | 1 |
-| [[operation-us-v-east-hartford-man]] | CYB-FUP-416 | 3 | absorbed | 4.00 | 1 |
-| [[operation-us-v-easton-man]] | CYB-FUP-417 | 3 | absorbed | 4.00 | 1 |
-| [[operation-us-v-felon-sentenced-and-previously-convicted-felon]] | CYB-FUP-418 | 3 | absorbed | 4.00 | 1 |
-| [[operation-us-v-following-seizure-and-forfeiture-and-dark-web-fraud-defendant]] | CYB-FUP-419 | 3 | absorbed | 4.00 | 1 |
-| [[operation-us-v-for-hacking]] | CYB-FUP-420 | 1 | absorbed | 4.00 | 1 |
-| [[operation-us-v-for-initiating-distributed-denial]] | CYB-FUP-421 | 1 | absorbed | 4.00 | 1 |
-| [[operation-us-v-for-operating-alleged-international-and-national-and-bitcoin-exchange]] | CYB-FUP-422 | 1 | absorbed | 4.00 | 1 |
-| [[operation-us-v-for-possessing-child-sexual]] | CYB-FUP-423 | 3 | absorbed | 4.00 | 1 |
-| [[operation-us-v-for-possession-of-child-and-marion-county-man]] | CYB-FUP-424 | 3 | absorbed | 4.00 | 1 |
-| [[operation-us-v-for-receipt-of]] | CYB-FUP-425 | 3 | absorbed | 4.00 | 1 |
-| [[operation-us-v-for-stealing-more-than]] | CYB-FUP-426 | 3 | absorbed | 4.00 | 1 |
-| [[operation-us-v-for-wire-fraud]] | CYB-FUP-427 | 3 | absorbed | 4.00 | 1 |
-| [[operation-us-v-foreign-nationals]] | CYB-FUP-428 | 3 | absorbed | 4.00 | 1 |
-| [[operation-us-v-four-international-hacking-suspects]] | CYB-FUP-430 | 1 | absorbed | 4.00 | 1 |
-| [[operation-us-v-four-russian-government-employees]] | CYB-FUP-431 | 2 | absorbed | 4.00 | 1 |
-| [[operation-us-v-georgia-man]] | CYB-FUP-432 | 3 | absorbed | 4.00 | 1 |
-| [[operation-us-v-guam-meth-trafficker]] | CYB-FUP-433 | 3 | absorbed | 4.00 | 1 |
-| [[operation-us-v-hardened-encrypted-devices]] | CYB-FUP-434 | 3 | absorbed | 4.00 | 1 |
-| [[operation-us-v-homeland-security-employees]] | CYB-FUP-435 | 3 | absorbed | 4.00 | 1 |
-| [[operation-us-v-house-member]] | CYB-FUP-436 | 1 | absorbed | 4.00 | 1 |
-| [[operation-us-v-in-manhattan-federal-court]] | CYB-FUP-437 | 1 | absorbed | 4.00 | 1 |
-| [[operation-us-v-in-wide-and-five-defendants]] | CYB-FUP-438 | 3 | absorbed | 4.00 | 1 |
-| [[operation-us-v-in-wire-fraud-scheme]] | CYB-FUP-439 | 3 | absorbed | 4.00 | 1 |
-| [[operation-us-v-insider-trading]] | CYB-FUP-440 | 3 | absorbed | 4.00 | 1 |
-| [[operation-us-v-international-travel]] | CYB-FUP-441 | 3 | absorbed | 4.00 | 1 |
-| [[operation-us-v-lakeland-man]] | CYB-FUP-442 | 2 | absorbed | 4.00 | 1 |
-| [[operation-us-v-latvian-national]] | CYB-FUP-443 | 2 | absorbed | 4.00 | 1 |
-| [[operation-us-v-lawrence-county-man]] | CYB-FUP-444 | 3 | absorbed | 4.00 | 1 |
-| [[operation-us-v-ledyard-man]] | CYB-FUP-445 | 3 | absorbed | 4.00 | 1 |
-| [[operation-us-v-louis-man]] | CYB-FUP-446 | 3 | absorbed | 4.00 | 1 |
-| [[operation-us-v-marion-county-man]] | CYB-FUP-447 | 3 | absorbed | 4.00 | 1 |
-| [[operation-us-v-middlesex-county-man]] | CYB-FUP-448 | 3 | absorbed | 4.00 | 1 |
-| [[operation-us-v-minnesota-man]] | CYB-FUP-449 | 1 | absorbed | 4.00 | 1 |
-| [[operation-us-v-monroeville-man]] | CYB-FUP-450 | 3 | absorbed | 4.00 | 1 |
-| [[operation-us-v-multiple-foreign-nationals]] | CYB-FUP-451 | 3 | absorbed | 4.00 | 1 |
-| [[operation-us-v-narcotics-traffickers-among-those]] | CYB-FUP-452 | 2 | absorbed | 4.00 | 1 |
-| [[operation-us-v-new-jersey-man]] | CYB-FUP-453 | 2 | absorbed | 4.00 | 1 |
-| [[operation-us-v-notorious-hacker]] | CYB-FUP-454 | 3 | absorbed | 4.00 | 1 |
-| [[operation-us-v-of-hacking-jumbotron-and-augustine-serial-child-molester]] | CYB-FUP-455 | 3 | absorbed | 4.00 | 1 |
-| [[operation-us-v-of-illegal-procurement-of]] | CYB-FUP-456 | 1 | absorbed | 4.00 | 1 |
-| [[operation-us-v-online-extortion]] | CYB-FUP-457 | 1 | absorbed | 4.00 | 1 |
-| [[operation-us-v-palm-beach-county-man]] | CYB-FUP-458 | 3 | absorbed | 4.00 | 1 |
-| [[operation-us-v-phobos-ransomware-affiliates]] | CYB-FUP-459 | 3 | absorbed | 4.00 | 1 |
-| [[operation-us-v-pittsburgh-felon]] | CYB-FUP-460 | 3 | absorbed | 4.00 | 1 |
-| [[operation-us-v-ransomware-administrator]] | CYB-FUP-461 | 3 | absorbed | 4.00 | 1 |
-| [[operation-us-v-related-to-his-operation-and-marketplace-administrator]] | CYB-FUP-462 | 3 | absorbed | 4.00 | 1 |
-| [[operation-us-v-repeat-sex-offender]] | CYB-FUP-463 | 3 | absorbed | 4.00 | 1 |
-| [[operation-us-v-russian-malware-developer]] | CYB-FUP-464 | 3 | absorbed | 4.00 | 1 |
-| [[operation-us-v-russian-national]] | CYB-FUP-465 | 1 | absorbed | 4.00 | 1 |
-| [[operation-us-v-san-antonio-man]] | CYB-FUP-466 | 1 | absorbed | 4.00 | 1 |
-| [[operation-us-v-seattle-man]] | CYB-FUP-467 | 3 | absorbed | 4.00 | 1 |
-| [[operation-us-v-sex-offender]] | CYB-FUP-468 | 3 | absorbed | 4.00 | 1 |
-| [[operation-us-v-south-carolina-man]] | CYB-FUP-469 | 1 | absorbed | 4.00 | 1 |
-| [[operation-us-v-stealing-senate-information]] | CYB-FUP-470 | 1 | absorbed | 4.00 | 1 |
-| [[operation-us-v-sturgis-man]] | CYB-FUP-471 | 3 | absorbed | 4.00 | 1 |
-| [[operation-us-v-sumter-man]] | CYB-FUP-472 | 3 | absorbed | 4.00 | 1 |
-| [[operation-us-v-third-defendant]] | CYB-FUP-473 | 3 | absorbed | 4.00 | 1 |
-| [[operation-us-v-three-chinese-hackers-who]] | CYB-FUP-474 | 1 | absorbed | 4.00 | 1 |
-| [[operation-us-v-three-people]] | CYB-FUP-475 | 3 | absorbed | 4.00 | 1 |
-| [[operation-us-v-to-federal-prison-and-intrusions-and-tax-fraud]] | CYB-FUP-476 | 3 | absorbed | 4.00 | 1 |
-| [[operation-us-v-to-federal-prison-for-and-ocala-man]] | CYB-FUP-477 | 3 | absorbed | 4.00 | 1 |
-| [[operation-us-v-to-federal-prison-for]] | CYB-FUP-478 | 2 | absorbed | 4.00 | 1 |
-| [[operation-us-v-to-five-years-for]] | CYB-FUP-479 | 3 | absorbed | 4.00 | 1 |
-| [[operation-us-v-to-five-years-in]] | CYB-FUP-480 | 3 | absorbed | 4.00 | 1 |
-| [[operation-us-v-to-more-than-and-lakeland-man]] | CYB-FUP-481 | 2 | absorbed | 4.00 | 1 |
-| [[operation-us-v-to-prison-for-electronic-and-brooksville-man]] | CYB-FUP-482 | 3 | absorbed | 4.00 | 1 |
-| [[operation-us-v-to-prison-for-hacking-and-wisconsin-man]] | CYB-FUP-483 | 3 | absorbed | 4.00 | 1 |
-| [[operation-us-v-two-men]] | CYB-FUP-484 | 3 | absorbed | 4.00 | 1 |
-| [[operation-us-v-united-kingdom-national]] | CYB-FUP-485 | 3 | absorbed | 4.00 | 1 |
-| [[operation-us-v-unsealed-against-russian-national]] | CYB-FUP-486 | 3 | absorbed | 4.00 | 1 |
-| [[operation-us-v-utah-man]] | CYB-FUP-487 | 2 | absorbed | 4.00 | 1 |
-| [[operation-us-v-webster-man]] | CYB-FUP-488 | 3 | absorbed | 4.00 | 1 |
-| [[operation-us-v-wisconsin-man]] | CYB-FUP-489 | 3 | absorbed | 4.00 | 1 |
-| [[operation-us-v-with-bank-secrecy-act-and-of-its-founders-criminally]] | CYB-FUP-490 | 3 | absorbed | 4.00 | 1 |
-| [[operation-us-v-with-hacking-fantasy-sports-and-wisconsin-man]] | CYB-FUP-491 | 3 | absorbed | 4.00 | 1 |
-| [[operation-us-v-with-producing-and-distributing-and-oldsmar-man]] | CYB-FUP-492 | 3 | absorbed | 4.00 | 1 |
-| [[operation-us-v-with-production-of-child-and-mountain-view-resident]] | CYB-FUP-493 | 1 | absorbed | 4.00 | 1 |
-| [[operation-us-v-with-selling-counterfeit-drugs-and-sturgis-man]] | CYB-FUP-494 | 3 | absorbed | 4.00 | 1 |
-| [[operation-us-v-with-tampering-with-morphine-and-illinois-nurse]] | CYB-FUP-495 | 3 | absorbed | 4.00 | 1 |
-| [[operation-us-v-with-using-and-queens-woman]] | CYB-FUP-496 | 3 | absorbed | 4.00 | 1 |
-| [[operation-us-v-woodmere-man]] | CYB-FUP-497 | 2 | absorbed | 4.00 | 1 |
-| [[operation-utah-man-pleads-guilty-murder-hire-scheme]] | CYB-FUP-498 | 3 | absorbed | 4.00 | 1 |
-| [[operation-utah-man-sentenced-seven-years-prison-murder-hire-scheme]] | CYB-FUP-499 | 3 | absorbed | 4.00 | 1 |
-| [[operation-105-arrested-for-stealing-over-eur-12-million-from-us-based-banks]] | CYB-FUP-500 | 2 | completed | 4.18 | 1 |
-| [[operation-12-members-of-an-irish-high-risk-criminal-network-arrested]] | CYB-FUP-501 | 3 | completed | 4.00 | 1 |
-| [[operation-150-arrested-in-dark-web-drug-bust-as-police-seize-eur-26-million]] | CYB-FUP-502 | 2 | absorbed | 4.00 | 1 |
-| [[operation-19-individuals-worldwide-charged-in-transnational-cybercrime-investigation-of-the-xdedic-marketplace-2]] | CYB-FUP-503 | 3 | absorbed | 4.00 | 1 |
-| [[operation-19-individuals-worldwide-charged-in-transnational-cybercrime-investigation-of-the-xdedic-marketplace-3]] | CYB-FUP-504 | 3 | absorbed | 4.00 | 1 |
-| [[operation-19-individuals-worldwide-charged-in-transnational-cybercrime-investigation-of-the-xdedic-marketplace-4]] | CYB-FUP-505 | 3 | absorbed | 4.00 | 1 |
-| [[operation-19-individuals-worldwide-charged-in-transnational-cybercrime-investigation-of-the-xdedic-marketplace-5]] | CYB-FUP-506 | 3 | absorbed | 4.00 | 1 |
-| [[operation-19-individuals-worldwide-charged-in-transnational-cybercrime-investigation-of-the-xdedic-marketplace-6]] | CYB-FUP-507 | 3 | absorbed | 4.00 | 1 |
-| [[operation-19-individuals-worldwide-charged-in-transnational-cybercrime-investigation-of-the-xdedic-marketplace-7]] | CYB-FUP-508 | 3 | absorbed | 4.00 | 1 |
-| [[operation-19-individuals-worldwide-charged-in-transnational-cybercrime-investigation-of-the-xdedic-marketplace]] | CYB-FUP-509 | 3 | absorbed | 4.00 | 1 |
-| [[operation-bremerton-washington-man-sentenced-to-3-years-in-prison-for-extensive-swatting-campaign-targeting-victims-in-u]] | CYB-FUP-520 | 3 | completed | 4.18 | 1 |
-| [[operation-europol-105-arrested-for-stealing-over-12-million-from-us-based-banks-operation-secreto]] | CYB-FUP-543 | 2 | completed | 4.00 | 1 |
-| [[operation-europol-french-coder-who-helped-extort-british-company-arrested-in-thailand]] | CYB-FUP-544 | 1 | completed | 4.00 | 1 |
-| [[operation-europol-mastermind-behind-eur-1-billion-cyber-bank-robbery-arrested-in-spain-carbanak-cobalt]] | CYB-FUP-545 | 1 | absorbed | 4.00 | 1 |
-| [[operation-fayette-county-man-admits-making-hoax-emergency-phone-calls-to-elicit-an-armed-police-response-practice-is-kno]] | CYB-FUP-548 | 1 | absorbed | 4.00 | 1 |
-| [[operation-french-coder-who-helped-extort-british-company-arrested-in-thailand]] | CYB-FUP-564 | 1 | completed | 4.00 | 1 |
-| [[operation-hook-line-and-sinker-cybercrime-network-phishing-bank-credentials-arrested-in-romania]] | CYB-FUP-568 | 3 | absorbed | 4.00 | 1 |
-| [[operation-interpol-online-scamming-fraud-three-nigerians-arrested-in-operation-killer-bee]] | CYB-FUP-571 | 2 | absorbed | 4.00 | 1 |
-| [[operation-iranian-national-indicted-for-operating-online-marketplace-offering-fentanyl-and-money-laundering-services]] | CYB-FUP-572 | 3 | absorbed | 4.00 | 1 |
-| [[operation-iranian-national-indicted-for-operating-online-marketplace-offering-fentanyl-other-drugs-and-money-laundering-]] | CYB-FUP-573 | 3 | absorbed | 4.00 | 1 |
-| [[operation-issaquah-washington-man-sentenced-to-7-years-in-prison-for-dealing-fentanyl-and-other-drugs-on-the-darknet]] | CYB-FUP-574 | 2 | absorbed | 4.00 | 1 |
-| [[operation-justice-department-seeks-forfeiture-of-over-5-million-in-bitcoin-stolen-in-sim-swapping-scams]] | CYB-FUP-575 | 3 | absorbed | 4.00 | 1 |
-| [[operation-justice-dept-seizes-over-112m-in-funds-linked-to-cryptocurrency-investment-schemes-with-over-half-seized-in-lo]] | CYB-FUP-576 | 3 | absorbed | 4.00 | 1 |
-| [[operation-kansas-farmer-indicted-for-insurance-fraud]] | CYB-FUP-577 | 3 | absorbed | 4.00 | 1 |
-| [[operation-kc-man-sentenced-for-selling-meth-heroin-on-the-dark-web]] | CYB-FUP-578 | 3 | absorbed | 4.00 | 1 |
-| [[operation-kent-washington-resident-indicted-for-dealing-fentanyl-while-illegally-possessing-firearm]] | CYB-FUP-579 | 3 | absorbed | 4.00 | 1 |
-| [[operation-key-figures-behind-phobos-and-8base-ransomware-arrested-in-international-cybercrime-crackdown-2]] | CYB-FUP-580 | 3 | absorbed | 4.00 | 1 |
-| [[operation-key-figures-behind-phobos-and-8base-ransomware-arrested-in-international-cybercrime-crackdown-3]] | CYB-FUP-581 | 3 | completed | 4.00 | 1 |
-| [[operation-key-figures-behind-phobos-and-8base-ransomware-arrested-in-international-cybercrime-crackdown]] | CYB-FUP-582 | 3 | completed | 4.00 | 1 |
-| [[operation-key-figures-behind-phobos-and-8base-ransomware-arrested]] | CYB-FUP-583 | 3 | absorbed | 4.00 | 1 |
-| [[operation-king-county-couple-indicted-for-drug-and-illegal-weapons-possession]] | CYB-FUP-584 | 3 | absorbed | 4.00 | 1 |
-| [[operation-king-county-man-who-dealt-narcotics-on-the-dark-web-and-kept-a-cache-of-weapons-at-his-rv-sentenced-to-8-years]] | CYB-FUP-585 | 3 | absorbed | 4.00 | 1 |
-| [[operation-kirkwood-resident-pleads-guilty-for-identity-theft]] | CYB-FUP-586 | 2 | absorbed | 4.00 | 1 |
-| [[operation-laredo-professor-charged-with-distribution-and-production-of-child-pornography]] | CYB-FUP-587 | 3 | absorbed | 4.00 | 1 |
-| [[operation-leader-of-international-steroids-distribution-scheme-sentenced-to-eight-years-in-prison]] | CYB-FUP-588 | 3 | absorbed | 4.00 | 1 |
-| [[operation-lewis-county-man-charged-federally-with-unlawful-weapons-possession]] | CYB-FUP-594 | 3 | absorbed | 4.00 | 1 |
-| [[operation-man-caught-three-times-with-dealer-quantities-of-fentanyl-indicted-federally]] | CYB-FUP-595 | 3 | absorbed | 4.00 | 1 |
-| [[operation-man-from-grays-harbor-county-washington-pleads-guilty-to-possession-of-narcotics-with-intent-to-distribute]] | CYB-FUP-596 | 3 | absorbed | 4.00 | 1 |
-| [[operation-maryland-men-indicted-on-charges-relating-to-dark-web-drug-distribution-and-money-laudering-government-seized-]] | CYB-FUP-597 | 1 | absorbed | 4.00 | 1 |
-| [[operation-mastermind-behind-eur-1-billion-cyber-bank-robbery-arrested-in-spain]] | CYB-FUP-598 | 1 | absorbed | 4.00 | 1 |
-| [[operation-member-of-lummi-nation-indicted-for-distributing-fentanyl]] | CYB-FUP-599 | 3 | absorbed | 4.00 | 1 |
-| [[operation-mexican-national-sentenced-to-prison-for-role-as-drug-ring-courier]] | CYB-FUP-600 | 3 | absorbed | 4.00 | 1 |
-| [[operation-moldovan-national-and-technical-mastermind-of-xdedic-marketplace-extradited-from-spain]] | CYB-FUP-601 | 2 | absorbed | 4.00 | 1 |
-| [[operation-moldovan-sentenced-for-distributing-multifunction-malware-package]] | CYB-FUP-602 | 1 | absorbed | 4.00 | 1 |
-| [[operation-monticello-man-indicted-for-attempted-enticement-of-a-minor]] | CYB-FUP-603 | 3 | absorbed | 4.00 | 1 |
-| [[operation-nebraska-businessman-indicted-for-fraud]] | CYB-FUP-604 | 3 | absorbed | 4.00 | 1 |
-| [[operation-new-york-man-sentenced-to-54-months-in-prison-for-selling-counterfeit-xanax-on-dark-web]] | CYB-FUP-605 | 3 | absorbed | 4.00 | 1 |
-| [[operation-nigerian-national-sentenced-to-more-than-six-years-in-federal-prison-for-international-tax-fraud-scheme]] | CYB-FUP-606 | 2 | absorbed | 4.00 | 1 |
-| [[operation-nigerian-nationals-charged-with-operating-business-compromise-scheme]] | CYB-FUP-607 | 1 | absorbed | 4.00 | 1 |
-| [[operation-nigerian-state-official-sentenced-to-5-years-in-prison-for-stealing-u-s-disaster-aid-and-taxpayer-refunds]] | CYB-FUP-608 | 2 | absorbed | 4.00 | 1 |
-| [[operation-north-carolina-man-sentenced-to-federal-prison-for-distributing-opioids-through-the-dark-web]] | CYB-FUP-609 | 2 | absorbed | 4.00 | 1 |
-| [[operation-north-reading-man-indicted-for-possession-of-child-pornography]] | CYB-FUP-610 | 3 | absorbed | 4.00 | 1 |
-| [[operation-online-scamming-fraud-three-nigerians-arrested-in-interpol-operation-killer-bee]] | CYB-FUP-611 | 2 | absorbed | 4.00 | 1 |
-| [[operation-operation-orion-international-144-arrested-in-major-child-abuse-operation-across-south-america]] | CYB-FUP-612 | 3 | completed | 4.00 | 1 |
-| [[operation-owners-of-empire-market-charged-in-chicago-with-operating-430-million-dark-web-marketplace]] | CYB-FUP-613 | 3 | absorbed | 4.00 | 1 |
-| [[operation-parma-men-among-those-charged-as-part-of-crackdown-on-darknet-vendors]] | CYB-FUP-614 | 1 | absorbed | 4.00 | 1 |
-| [[operation-pernicious-cyberstalker-sentenced-to-9-years-in-prison-for-unrelenting-harassment-of-former-roommate-and-other]] | CYB-FUP-615 | 3 | absorbed | 4.00 | 1 |
-| [[operation-physician-sentenced-to-18-years-in-prison-for-operating-a-pill-mill-from-his-northwest-d-c-medical-practice]] | CYB-FUP-616 | 3 | absorbed | 4.00 | 1 |
-| [[operation-pierce-county-based-drug-trafficking-organization-indicted-for-distributing-cocaine-fentanyl-and-marijuana]] | CYB-FUP-617 | 3 | absorbed | 4.00 | 1 |
-| [[operation-prolific-dark-web-dealer-of-carfentanil-and-fentanyl-sentenced-to-1712-years-in-prison]] | CYB-FUP-618 | 2 | absorbed | 4.00 | 1 |
-| [[operation-prolific-fentanyl-distributor-sentenced-to-six-years-in-prison]] | CYB-FUP-619 | 3 | absorbed | 4.00 | 1 |
-| [[operation-puyallup-man-caught-with-nearly-100-000-fentanyl-pills-and-five-firearms-sentenced-to-six-and-a-half-years-in-]] | CYB-FUP-620 | 3 | absorbed | 4.00 | 1 |
-| [[operation-resident-of-tacoma-hotel-indicted-for-drug-and-gun-crimes]] | CYB-FUP-621 | 3 | absorbed | 4.00 | 1 |
-| [[operation-ross-ulbricht-found-guilty-on-all-counts]] | CYB-FUP-622 | 1 | absorbed | 4.00 | 1 |
-| [[operation-ross-ulbricht-sentenced-to-life-in-prison]] | CYB-FUP-623 | 1 | absorbed | 4.00 | 1 |
-| [[operation-russian-national-indicted-in-east-texas-for-cyber-hacking-enterprise]] | CYB-FUP-624 | 2 | absorbed | 4.00 | 1 |
-| [[operation-seattle-man-who-trafficked-drugs-and-fired-gun-in-international-district-drive-by-sentenced-to-prison]] | CYB-FUP-625 | 3 | absorbed | 4.00 | 1 |
-| [[operation-senior-adviser-to-the-operator-of-the-silk-road-online-black-market-sentenced-to-20-years-in-prison]] | CYB-FUP-626 | 3 | absorbed | 4.00 | 1 |
-| [[operation-seven-charged-after-federal-investigation-disrupts-massive-counterfeit-pill-manufacturing-operation]] | CYB-FUP-627 | 3 | absorbed | 4.00 | 1 |
-| [[operation-seven-indicted-in-seattle-in-connection-with-coast-to-coast-drug-trafficking-conspiracy]] | CYB-FUP-628 | 3 | absorbed | 4.00 | 1 |
-| [[operation-silk-road-drug-vendor-who-claimed-to-commit-murders-for-hire-for-silk-road-founder-ross-ulbricht-charged-with-]] | CYB-FUP-629 | 3 | absorbed | 4.00 | 1 |
-| [[operation-silk-road-vendor-sentenced-to-two-years-in-prison]] | CYB-FUP-630 | 1 | absorbed | 4.00 | 1 |
-| [[operation-six-defendants-charged-with-selling-millions-of-dollars-worth-of-psychedelic-mushrooms-online]] | CYB-FUP-631 | 2 | absorbed | 4.00 | 1 |
-| [[operation-six-indicted-as-part-of-whatcom-county-fentanyl-trafficking-organization]] | CYB-FUP-632 | 3 | absorbed | 4.00 | 1 |
-| [[operation-six-russian-gru-officers-charged-in-connection-with-worldwide-deployment-of-destructive-malware-and-other-disr]] | CYB-FUP-633 | 2 | absorbed | 4.00 | 1 |
-| [[operation-south-korean-national-and-hundreds-of-others-charged-worldwide-in-the-takedown-of-the-largest-darknet-child-po]] | CYB-FUP-634 | 1 | absorbed | 4.00 | 1 |
-| [[operation-st-louis-man-admits-making-rape-threats-to-five-women]] | CYB-FUP-635 | 3 | absorbed | 4.00 | 1 |
-| [[operation-ten-members-of-international-cyber-fraud-ring-indicted-for-refund-fraud-scheme-targeting-online-retailers]] | CYB-FUP-636 | 3 | absorbed | 4.00 | 1 |
-| [[operation-tennessee-man-indicted-on-federal-charges-in-cyberstalking-and-identity-theft-case]] | CYB-FUP-637 | 1 | absorbed | 4.00 | 1 |
-| [[operation-texas-man-sentenced-to-9-months-in-federal-prison-for-operating-website-that-offered-computer-attack-services]] | CYB-FUP-638 | 3 | absorbed | 4.00 | 1 |
-| [[operation-thompson-man-who-downloaded-child-sex-abuse-images-from-the-internet-is-sentenced]] | CYB-FUP-639 | 2 | absorbed | 4.00 | 1 |
-| [[operation-three-allegedly-responsible-for-distributing-thousands-of-fentanyl-pills-in-whatcom-county-indicted-for-drug-d]] | CYB-FUP-640 | 2 | absorbed | 4.00 | 1 |
-| [[operation-three-arrested-as-interpol-group-ib-and-the-nigeria-police-force-disrupt-prol]] | CYB-FUP-641 | 2 | absorbed | 4.00 | 1 |
-| [[operation-three-defendants-indicted-on-federal-firearms-charges]] | CYB-FUP-642 | 3 | absorbed | 4.00 | 1 |
-| [[operation-three-l-a-residents-charged-in-darknet-drug-ring-that-allegedly-shipped-methamphetamine-to-buyers-around-the-w]] | CYB-FUP-643 | 1 | absorbed | 4.00 | 1 |
-| [[operation-three-mexican-nationals-arrested-with-14-kilograms-of-crystal-methamphetamine]] | CYB-FUP-644 | 3 | absorbed | 4.00 | 1 |
-| [[operation-twelve-people-charged-in-two-indictments-following-investigation-of-drug-trafficking-ring]] | CYB-FUP-645 | 2 | absorbed | 4.00 | 1 |
-| [[operation-two-arrested-for-alleged-conspiracy-to-launder-4-5-billion-in-stolen-cryptocurrency]] | CYB-FUP-646 | 2 | absorbed | 4.00 | 1 |
-| [[operation-two-drug-traffickers-sentenced-to-lengthy-prison-terms-in-case-arising-from-investigation-of-aryan-family-pris]] | CYB-FUP-647 | 3 | absorbed | 4.00 | 1 |
-| [[operation-two-estonian-citizens-arrested-in-575-million-cryptocurrency-fraud-and-money-laundering-scheme]] | CYB-FUP-648 | 2 | absorbed | 4.00 | 1 |
-| [[operation-two-indicted-for-drug-trafficking-conspiracy]] | CYB-FUP-649 | 3 | absorbed | 4.00 | 1 |
-| [[operation-two-men-indicted-for-international-conspiracy-to-ship-fentanyl-other-drugs-into-united-states-through-dark-web]] | CYB-FUP-650 | 2 | absorbed | 4.00 | 1 |
-| [[operation-two-men-indicted-in-sim-swapping-scheme-to-steal-cryptocurrency]] | CYB-FUP-651 | 1 | absorbed | 4.00 | 1 |
-| [[operation-two-sentenced-in-dark-web-identity-theft-and-retail-fraud-conspiracy]] | CYB-FUP-652 | 3 | absorbed | 4.00 | 1 |
-| [[operation-two-texas-men-charged-in-stealing-over-a-million-dollars-in-a-romance-scam]] | CYB-FUP-653 | 2 | absorbed | 4.00 | 1 |
-| [[operation-united-states-seized-and-files-forfeiture-action-to-recover-over-54-million-of-cryptocurrency-traceable-to-nar]] | CYB-FUP-654 | 3 | absorbed | 4.00 | 1 |
-| [[operation-us-v-indicted-for-role-in]] | CYB-FUP-655 | 3 | absorbed | 4.00 | 1 |
-| [[operation-us-v-of-silk-road]] | CYB-FUP-656 | 1 | absorbed | 4.00 | 1 |
-| [[operation-usd-257-million-seized-in-global-police-crackdown-against-online-scams-operation-first-light-2024-2]] | CYB-FUP-657 | 3 | absorbed | 4.00 | 1 |
-| [[operation-usd-257-million-seized-in-global-police-crackdown-against-online-scams-operation-first-light-2024-3]] | CYB-FUP-658 | 3 | absorbed | 4.00 | 1 |
-| [[operation-usd-257-million-seized-in-global-police-crackdown-against-online-scams-operation-first-light-2024]] | CYB-FUP-659 | 3 | absorbed | 4.00 | 1 |
-| [[operation-usd-300-million-seized-and-3-500-suspects-arrested-in-international-financial-crime-operation-operation-haechi-2]] | CYB-FUP-660 | 3 | absorbed | 4.00 | 1 |
-| [[operation-usd-300-million-seized-and-3-500-suspects-arrested-in-international-financial-crime-operation-operation-haechi-3]] | CYB-FUP-661 | 3 | absorbed | 4.00 | 1 |
-| [[operation-usd-300-million-seized-and-3-500-suspects-arrested-in-international-financial-crime-operation-operation-haechi]] | CYB-FUP-662 | 3 | absorbed | 4.00 | 1 |
-| [[operation-usd-300-million-seized-and-3-500-suspects-arrested-operation-haechi-iv]] | CYB-FUP-663 | 3 | absorbed | 4.00 | 1 |
-| [[operation-usps-employee-indicted-for-misappropriation-of-funds]] | CYB-FUP-664 | 3 | absorbed | 4.00 | 1 |
-| [[operation-van-nuys-man-sentenced-to-more-than-20-years-in-prison-for-trafficking-fentanyl-and-cocaine-via-darknet-market]] | CYB-FUP-665 | 3 | absorbed | 4.00 | 1 |
-| [[operation-vancouver-washington-man-sentenced-to-10-years-in-prison-for-drug-trafficking-while-possessing-firearms]] | CYB-FUP-666 | 3 | absorbed | 4.00 | 1 |
-| [[operation-weleakinfo-to-and-related-domain-names-seized]] | CYB-FUP-667 | 2 | absorbed | 4.00 | 1 |
-| [[operation-wichita-man-indicted-for-firearms-charges]] | CYB-FUP-668 | 3 | absorbed | 4.00 | 1 |
-| [[operation-administrator-of-online-criminal-marketplace-extradited-from-kosovo-to-the-united-states]] | CYB-FUP-670 | 3 | absorbed | 4.00 | 1 |
-| [[operation-chinese-national-sentenced-prison-role-crypto-scam-targeting-americans]] | CYB-FUP-677 | 3 | absorbed | 4.00 | 1 |
-| [[operation-euclid-ohio-man-pleads-guilty-distribution-fentanyl-he-ordered-china-and-sold]] | CYB-FUP-687 | 1 | absorbed | 4.00 | 1 |
-| [[operation-foreign-national-pleads-guilty-to-role-in-cybercrime-schemes-involving-tens-of-millions-of-dollars-in-losses]] | CYB-FUP-693 | 3 | absorbed | 4.00 | 1 |
-| [[operation-internet-stalker-sentenced-to-more-than-14-years-in-federal-prison]] | CYB-FUP-699 | 1 | absorbed | 4.00 | 1 |
-| [[operation-iranian-man-pleaded-guilty-to-role-in-robbinhood-ransomware]] | CYB-FUP-700 | 3 | absorbed | 4.00 | 1 |
-| [[operation-jordanian-man-admits-selling-unauthorized-access-to-computer-networks-of-50-companies]] | CYB-FUP-701 | 3 | absorbed | 4.00 | 1 |
-| [[operation-justice-department-secures-forfeiture-of-over-5m-of-funds-traceable-to-business-email-compromise-scheme-target]] | CYB-FUP-702 | 3 | absorbed | 4.00 | 1 |
-| [[operation-justice-department-seeks-forfeiture-of-848-247-in-cryptocurrency-from-confidence-scams]] | CYB-FUP-703 | 3 | absorbed | 4.00 | 1 |
-| [[operation-kosovo-national-pleads-guilty-to-operating-an-online-criminal-marketplace]] | CYB-FUP-704 | 3 | absorbed | 4.00 | 1 |
-| [[operation-long-beach-man-pleads-guilty-to-production-and-distribution-of-images-of-minors-engaging-in-sexually-explicit-]] | CYB-FUP-705 | 3 | absorbed | 4.00 | 1 |
-| [[operation-long-beach-man-sentenced-to-110-years-in-prison-for-production-of-images-of-minors-engaging-in-sexually-explic]] | CYB-FUP-706 | 3 | absorbed | 4.00 | 1 |
-| [[operation-massachusetts-man-pleads-guilty-to-firearm-offenses-and-unlawful-entry-into-the-u-s]] | CYB-FUP-707 | 3 | absorbed | 4.00 | 1 |
-| [[operation-mississippi-county-sheriff-indicted-on-charges-of-identity-theft]] | CYB-FUP-708 | 1 | absorbed | 4.00 | 1 |
-| [[operation-montgomery-county-doctor-charged-with-illegally-prescribing-opioids]] | CYB-FUP-709 | 1 | absorbed | 4.00 | 1 |
-| [[operation-nebraska-man-pleads-guilty-in-multi-million-dollar-cryptojacking-case]] | CYB-FUP-710 | 3 | absorbed | 4.00 | 1 |
-| [[operation-new-britain-man-sentenced-to-10-years-in-prison-for-distributing-fentanyl]] | CYB-FUP-711 | 1 | absorbed | 4.00 | 1 |
-| [[operation-new-britain-man-sentenced-to-66-months-in-prison-for-distributing-fentanyl]] | CYB-FUP-712 | 1 | absorbed | 4.00 | 1 |
-| [[operation-new-york-man-sentenced-to-24-months-in-prison-for-internet-offenses-including-doxing-swatting-making-a-false-b]] | CYB-FUP-713 | 1 | absorbed | 4.00 | 1 |
-| [[operation-new-york-man-sentenced-to-84-months-in-prison-for-conspiring-to-engage-in-multimillion-dollar-wire-fraud-schem]] | CYB-FUP-714 | 3 | absorbed | 4.00 | 1 |
-| [[operation-north-philadelphia-pill-mill-doctor-sentenced-to-five-years-in-prison-for-illegal-opioid-distribution]] | CYB-FUP-715 | 2 | absorbed | 4.00 | 1 |
-| [[operation-o-c-man-admits-operating-unlicensed-atm-network-that-laundered-millions-of-dollars-of-bitcoin-and-cash-for-cri]] | CYB-FUP-716 | 2 | absorbed | 4.00 | 1 |
-| [[operation-pennsylvania-man-convicted-of-distributing-fentanyl-analogue-that-killed-orlando-woman]] | CYB-FUP-717 | 1 | absorbed | 4.00 | 1 |
-| [[operation-pineville-man-sentenced-to-five-years-in-prison-for-accessing-child-pornography-online]] | CYB-FUP-718 | 1 | absorbed | 4.00 | 1 |
-| [[operation-pittsburg-resident-pleads-guilty-to-stolen-identity-tax-fraud]] | CYB-FUP-719 | 1 | absorbed | 4.00 | 1 |
-| [[operation-prince-georges-county-man-sentenced-to-seven-years-in-federal-prison-for-a-heroin-distribution-conspiracy-cond]] | CYB-FUP-720 | 2 | absorbed | 4.00 | 1 |
-| [[operation-prior-felon-pleads-guilty-to-cyberstalking]] | CYB-FUP-721 | 3 | absorbed | 4.00 | 1 |
-| [[operation-romanian-national-pleads-guilty-selling-access-networks-oregon-state-government-office]] | CYB-FUP-722 | 3 | absorbed | 4.00 | 1 |
-| [[operation-romanian-national-pleads-guilty-to-selling-access-to-networks-of-oregon-state-government-office-and-other-u-s--2]] | CYB-FUP-723 | 3 | absorbed | 4.00 | 1 |
-| [[operation-romanian-national-pleads-guilty-to-selling-access-to-networks-of-oregon-state-government-office-and-other-u-s-]] | CYB-FUP-724 | 3 | absorbed | 4.00 | 1 |
-| [[operation-salinas-man-charged-in-embezzlement-scheme]] | CYB-FUP-725 | 1 | absorbed | 4.00 | 1 |
-| [[operation-salinas-resident-sentenced-to-54-months-in-prison-for-identity-theft-and-preparing-false-tax-returns]] | CYB-FUP-726 | 1 | absorbed | 4.00 | 1 |
-| [[operation-salinas-residents-charged-in-tax-and-mortgage-fraud-scheme]] | CYB-FUP-727 | 1 | absorbed | 4.00 | 1 |
-| [[operation-san-francisco-resident-charged-in-alleged-identity-theft-bank-fraud-and-aggravated-identity-theft-scheme]] | CYB-FUP-728 | 1 | absorbed | 4.00 | 1 |
-| [[operation-san-francisco-resident-sentenced-to-over-three-years-in-prison-for-aggravated-identity-theft]] | CYB-FUP-729 | 1 | absorbed | 4.00 | 1 |
-| [[operation-san-francisco-resident-sentenced-to-seven-years-in-prison-for-stealing-prisoner-identities-and-filing-fraudule]] | CYB-FUP-730 | 1 | absorbed | 4.00 | 1 |
-| [[operation-san-gabriel-valley-man-admits-cyberstalking-two-teenage-girls]] | CYB-FUP-731 | 2 | absorbed | 4.00 | 1 |
-| [[operation-san-gabriel-valley-man-admits-to-cyberstalking-two-teenage-girls]] | CYB-FUP-732 | 2 | absorbed | 4.00 | 1 |
-| [[operation-san-gabriel-valley-man-sentenced-to-more-than-4-years-in-federal-prison-for-role-in-36-9-million-global-digita]] | CYB-FUP-733 | 3 | absorbed | 4.00 | 1 |
-| [[operation-san-jose-man-pleads-guilty-to-damaging-ciscos-network]] | CYB-FUP-734 | 2 | absorbed | 4.00 | 1 |
-| [[operation-san-jose-resident-pleads-guilty-to-stealing-homeless-individuals-ids-and-using-them-to-seek-fraudulent-tax-ref]] | CYB-FUP-735 | 1 | absorbed | 4.00 | 1 |
-| [[operation-social-services-director-of-a-nursing-home-charged-with-id-theft-from-elderly-residents]] | CYB-FUP-736 | 1 | absorbed | 4.00 | 1 |
-| [[operation-sonoma-county-resident-sentenced-to-30-months-in-prison-for-passport-fraud-and-identity-theft]] | CYB-FUP-737 | 1 | absorbed | 4.00 | 1 |
-| [[operation-southern-california-resident-sentenced-to-34-months-in-prison-for-role-in-bank-fraud-conspiracy]] | CYB-FUP-738 | 1 | absorbed | 4.00 | 1 |
-| [[operation-st-louis-man-sentenced-on-aggravated-id-theft-other-charges]] | CYB-FUP-739 | 2 | absorbed | 4.00 | 1 |
-| [[operation-three-bay-area-defendants-charged-in-false-tax-refund-schemes]] | CYB-FUP-740 | 1 | absorbed | 4.00 | 1 |
-| [[operation-twelve-defendants-convicted-in-cross-state-social-media-drug-trafficking-conspiracy]] | CYB-FUP-741 | 3 | absorbed | 4.00 | 1 |
-| [[operation-two-men-charged-in-multi-million-dollar-darknet-drug-distribution-conspiracy]] | CYB-FUP-742 | 2 | absorbed | 4.00 | 1 |
-| [[operation-two-stockton-residents-charged-with-sexual-exploitation-of-a-minor]] | CYB-FUP-743 | 2 | absorbed | 4.00 | 1 |
-| [[operation-two-virginia-men-arrested-for-conspiring-to-destroy-government-databases]] | CYB-FUP-744 | 3 | absorbed | 4.00 | 1 |
-| [[operation-u-k-citizen-extradited-and-pleads-guilty-to-cybercrime-offenses]] | CYB-FUP-745 | 3 | absorbed | 4.00 | 1 |
-| [[operation-u-s-attorney-heap-announces-forfeiture-of-cryptocurrency-and-return-of-fraud-proceeds-to-victim]] | CYB-FUP-746 | 3 | absorbed | 4.00 | 1 |
-| [[operation-us-v-antoin-austin]] | CYB-FUP-747 | 1 | absorbed | 4.00 | 1 |
-| [[operation-us-v-brandon-robinson]] | CYB-FUP-748 | 1 | absorbed | 4.00 | 1 |
-| [[operation-us-v-bryson-whiteside]] | CYB-FUP-749 | 2 | absorbed | 4.00 | 1 |
-| [[operation-us-v-carl-de-vera-bennington]] | CYB-FUP-750 | 2 | absorbed | 4.00 | 1 |
-| [[operation-us-v-catalin-dragomir]] | CYB-FUP-751 | 3 | absorbed | 4.00 | 1 |
-| [[operation-us-v-corey-brossette]] | CYB-FUP-752 | 1 | absorbed | 4.00 | 1 |
-| [[operation-us-v-cory-hutcheson]] | CYB-FUP-753 | 1 | absorbed | 4.00 | 1 |
-| [[operation-us-v-daniel-richter]] | CYB-FUP-754 | 3 | absorbed | 4.00 | 1 |
-| [[operation-us-v-elizabeth-calderon]] | CYB-FUP-755 | 1 | absorbed | 4.00 | 1 |
-| [[operation-us-v-firas-bashiti]] | CYB-FUP-756 | 3 | absorbed | 4.00 | 1 |
-| [[operation-us-v-howard-webber]] | CYB-FUP-757 | 1 | absorbed | 4.00 | 1 |
-| [[operation-us-v-in-alleged-identity-theft-and-san-francisco-resident]] | CYB-FUP-758 | 1 | absorbed | 4.00 | 1 |
-| [[operation-us-v-in-embezzlement-scheme]] | CYB-FUP-759 | 1 | absorbed | 4.00 | 1 |
-| [[operation-us-v-in-false-tax-refund]] | CYB-FUP-760 | 1 | absorbed | 4.00 | 1 |
-| [[operation-us-v-in-tax-and-mortgage-and-salinas-residents]] | CYB-FUP-761 | 1 | absorbed | 4.00 | 1 |
-| [[operation-us-v-internet-stalker]] | CYB-FUP-762 | 1 | absorbed | 4.00 | 1 |
-| [[operation-us-v-jabbaar-smith]] | CYB-FUP-763 | 1 | absorbed | 4.00 | 1 |
-| [[operation-us-v-james-verl-barlow-matthew-taylor-barlow-and-jennifer-helen-cambpell]] | CYB-FUP-764 | 2 | absorbed | 4.00 | 1 |
-| [[operation-us-v-jaziz-jesahias-cea]] | CYB-FUP-765 | 2 | absorbed | 4.00 | 1 |
-| [[operation-us-v-jian-zhang]] | CYB-FUP-766 | 1 | absorbed | 4.00 | 1 |
-| [[operation-us-v-jingliang-su]] | CYB-FUP-767 | 3 | absorbed | 4.00 | 1 |
-| [[operation-us-v-jonathan-michael-thornton-and-katherine-leann-herrera]] | CYB-FUP-768 | 2 | absorbed | 4.00 | 1 |
-| [[operation-us-v-justin-mesael-novoa]] | CYB-FUP-769 | 3 | absorbed | 4.00 | 1 |
-| [[operation-us-v-kais-mohammad]] | CYB-FUP-770 | 2 | absorbed | 4.00 | 1 |
-| [[operation-us-v-kevin-marc-crotteau-and-brandon-paul-bart]] | CYB-FUP-771 | 2 | absorbed | 4.00 | 1 |
-| [[operation-us-v-kevin-ombisi]] | CYB-FUP-772 | 2 | absorbed | 4.00 | 1 |
-| [[operation-us-v-luis-teixeira-da-silva]] | CYB-FUP-773 | 3 | absorbed | 4.00 | 1 |
-| [[operation-us-v-michael-inman]] | CYB-FUP-774 | 1 | absorbed | 4.00 | 1 |
-| [[operation-us-v-michael-johnson]] | CYB-FUP-775 | 1 | absorbed | 4.00 | 1 |
-| [[operation-us-v-mir-islam]] | CYB-FUP-776 | 1 | absorbed | 4.00 | 1 |
-| [[operation-us-v-myron-rodos]] | CYB-FUP-777 | 2 | absorbed | 4.00 | 1 |
-| [[operation-us-v-of-distributing-fentanyl-analogue]] | CYB-FUP-778 | 1 | absorbed | 4.00 | 1 |
-| [[operation-us-v-omar-thomas-wala-and-vienna-cavanaugh]] | CYB-FUP-780 | 3 | absorbed | 4.00 | 1 |
-| [[operation-us-v-paul-andrew-talley]] | CYB-FUP-781 | 1 | absorbed | 4.00 | 1 |
-| [[operation-us-v-road-task-force-agent]] | CYB-FUP-782 | 1 | absorbed | 4.00 | 1 |
-| [[operation-us-v-ronald-victor-solakian]] | CYB-FUP-783 | 1 | absorbed | 4.00 | 1 |
-| [[operation-us-v-shengsheng-he]] | CYB-FUP-784 | 3 | absorbed | 4.00 | 1 |
-| [[operation-us-v-terrell-fuller]] | CYB-FUP-785 | 3 | absorbed | 4.00 | 1 |
-| [[operation-us-v-timothy-dalton-vaughn]] | CYB-FUP-786 | 2 | absorbed | 4.00 | 1 |
-| [[operation-us-v-to-over-three-years-and-san-francisco-resident]] | CYB-FUP-787 | 1 | absorbed | 4.00 | 1 |
-| [[operation-us-v-vladimir-dunaev]] | CYB-FUP-788 | 3 | absorbed | 4.00 | 1 |
-| [[operation-us-v-vyacheslav-igorevich-penchukov]] | CYB-FUP-789 | 3 | absorbed | 4.00 | 1 |
-| [[operation-us-v-wemerson-dutra-aguiar]] | CYB-FUP-790 | 2 | absorbed | 4.00 | 1 |
-| [[operation-us-v-with-selling-fentanyl-and-and-father-and-son]] | CYB-FUP-791 | 1 | absorbed | 4.00 | 1 |
-| [[operation-us-v-yutong-zhang]] | CYB-FUP-792 | 2 | absorbed | 4.00 | 1 |
-| [[operation-wakefield-man-pleads-guilty-to-role-in-methamphetamine-trafficking-ring]] | CYB-FUP-793 | 3 | absorbed | 4.00 | 1 |
-| [[operation-weleakinfo-com-domain-name-seized]] | CYB-FUP-794 | 2 | absorbed | 4.00 | 1 |
-| [[operation-winnebago-county-woman-pleads-guilty-to-wire-fraud-for-stealing-funds-from-a-booster-club]] | CYB-FUP-795 | 3 | absorbed | 4.00 | 1 |
-| [[operation-almost-1-000-suspects-arrested-in-interpol-operation-which-seized-over-129-million]] | CYB-FUP-796 | 2 | absorbed | 4.00 | 1 |
-| [[operation-australian-man-arrested-in-germany-accused-of-running-world-s-largest-darknet-marketplace]] | CYB-FUP-798 | 2 | completed | 4.00 | 2 |
-| [[operation-dark-web-narcotics-trafficker-sentenced-to-96-months-in-prison-for-distributing-fentanyl-heroin-methamphetamin]] | CYB-FUP-810 | 2 | completed | 4.21 | 1 |
-| [[operation-darknet-drug-vendor-arrested-for-distributing-illicit-prescription-drugs]] | CYB-FUP-815 | 2 | absorbed | 4.00 | 1 |
-| [[operation-ghost-cybercrime-platform-dismantled-in-global-operation-51-arrested]] | CYB-FUP-832 | 3 | absorbed | 4.00 | 1 |
-| [[operation-interpol-seized-130-million-from-cybercriminals-in-global-haechi-iii-crackdown]] | CYB-FUP-833 | 2 | absorbed | 4.00 | 1 |
-| [[operation-interpol-seized-130-million-from-cybercriminals-worldwide]] | CYB-FUP-834 | 2 | absorbed | 4.00 | 1 |
-| [[operation-interpol-seized-130-million-from]] | CYB-FUP-835 | 2 | absorbed | 4.00 | 1 |
-| [[operation-irish-man-who-helped-operate-the-silk-road-website-sentenced-in-manhattan-federal-court-to-over-six-years-in-p]] | CYB-FUP-836 | 1 | absorbed | 4.00 | 1 |
-| [[operation-los-angeles-county-woman-pleads-guilty-to-conspiring-to-distribute-heroin-methamphetamine-and-cocaine-on-the-d]] | CYB-FUP-837 | 2 | absorbed | 4.00 | 1 |
-| [[operation-man-pleads-guilty-to-conspiracy-to-distribute-meth-on-the-darknet]] | CYB-FUP-838 | 2 | absorbed | 4.00 | 1 |
-| [[operation-man-sentenced-for-conspiracy-to-distribute-meth-on-the-darknet]] | CYB-FUP-839 | 2 | absorbed | 4.00 | 1 |
-| [[operation-man-sentenced-for-stealing-over-712-bitcoin-subject-to-forfeiture]] | CYB-FUP-840 | 3 | absorbed | 4.00 | 1 |
-| [[operation-man-sentenced-for-transnational-cybercrime-enterprise]] | CYB-FUP-841 | 2 | absorbed | 4.00 | 1 |
-| [[operation-multiple-foreign-nationals-charged-in-connection-with-trickbot-and-conti]] | CYB-FUP-842 | 3 | absorbed | 4.00 | 1 |
-| [[operation-new-york-man-admits-continuing-to-sell-counterfeit-xanax-on-dark-web]] | CYB-FUP-843 | 3 | absorbed | 4.00 | 1 |
-| [[operation-new-york-man-indicted-in-st-louis-accused-of-selling-counterfeit-xanax-on-dark-web]] | CYB-FUP-844 | 3 | absorbed | 4.00 | 1 |
-| [[operation-nigerian-national-sentenced-to-more-than-12-years-in-federal-prison-for-cyber-scams]] | CYB-FUP-845 | 3 | absorbed | 4.00 | 1 |
-| [[operation-nigerian-scammer-arrested-for-60-million-email-fraud]] | CYB-FUP-846 | 1 | absorbed | 4.00 | 1 |
-| [[operation-operation-haechi-iii-interpol-arrested-1000-cyber-criminals-seized-130-million]] | CYB-FUP-847 | 2 | absorbed | 4.00 | 1 |
-| [[operation-operator-of-helix-darknet-cryptocurrency-mixer-sentenced-in-money-laundering-conspiracy-involving-hundreds-of-]] | CYB-FUP-848 | 3 | absorbed | 4.00 | 1 |
-| [[operation-operator-of-silk-road-2-0-website-charged-in-manhattan-federal-court]] | CYB-FUP-849 | 1 | absorbed | 4.00 | 1 |
-| [[operation-pennsylvania-man-sentenced-to-life-in-federal-prison-for-dealing-fentanyl-analogue-that-caused-fatal-overdoses]] | CYB-FUP-850 | 3 | absorbed | 4.00 | 1 |
-| [[operation-ross-ulbricht-a-k-a-dread-pirate-roberts-sentenced-in-manhattan-federal-court-to-life-in-prison]] | CYB-FUP-851 | 1 | absorbed | 4.00 | 1 |
-| [[operation-ross-ulbricht-sentenced-to-life-in-federal-prison]] | CYB-FUP-852 | 1 | absorbed | 4.00 | 1 |
-| [[operation-russian-malware-developer-arrested-and-extradited-to-the-united-states]] | CYB-FUP-853 | 3 | absorbed | 4.00 | 1 |
-| [[operation-russian-trickbot-malware-dev-sentenced-to-64-months-in-prison]] | CYB-FUP-854 | 3 | absorbed | 4.00 | 1 |
-| [[operation-senior-advisor-arrested-in-thailand]] | CYB-FUP-855 | 1 | absorbed | 4.00 | 1 |
-| [[operation-servers-seized-in-ukraine-moldova-as-germany-takes-down-world-s-largest-illegal-darknet-marketplace]] | CYB-FUP-856 | 2 | absorbed | 4.00 | 1 |
-| [[operation-tattoo-shop-owner-pleads-guilty-to-distributing-heroin-and-methamphetamine-on-the-darknet]] | CYB-FUP-857 | 2 | absorbed | 4.00 | 1 |
-| [[operation-texas-residents-sentenced-for-their-involvement-in-a-counterfeit-prescription-drug-distribution-operation]] | CYB-FUP-858 | 3 | absorbed | 4.00 | 1 |
-| [[operation-the-drug-llama-pleads-guilty-to-distributing-fentanyl-on-the-dark-web]] | CYB-FUP-859 | 1 | absorbed | 4.00 | 1 |
-| [[operation-two-former-employees-of-house-member-indicted-on-federal-charges-in-cyberstalking-case]] | CYB-FUP-860 | 1 | absorbed | 4.00 | 1 |
-| [[operation-two-russian-nationals-charged-in-connection-with-operating-billion-dollar-money-laundering-services-justice-de]] | CYB-FUP-861 | 3 | absorbed | 4.00 | 1 |
-| [[operation-two-sacramento-men-indicted-for-distributing-cocaine-and-marijuana-on-dark-web-marketplaces]] | CYB-FUP-862 | 1 | absorbed | 4.00 | 1 |
-| [[operation-union-county-new-jersey-man-charged-with-receiving-child-pornography]] | CYB-FUP-863 | 1 | absorbed | 4.00 | 1 |
-| [[operation-washington-pa-man-charged-with-cyberstalking]] | CYB-FUP-864 | 2 | absorbed | 4.00 | 1 |
-| [[operation-16-defendants-federally-charged-in-connection-with-danabot-malware-scheme-that-infected-computers-worldwide]] | CYB-FUP-865 | 3 | absorbed | 4.00 | 1 |
-| [[operation-alleged-russian-cryptocurrency-money-launderer-extradited-to-united-states]] | CYB-FUP-870 | 2 | absorbed | 4.00 | 1 |
-| [[operation-brazilian-extradited-from-switzerland-to-the-united-states-to-face-indictment-charging-involvement-in-290m-cry]] | CYB-FUP-891 | 3 | absorbed | 4.00 | 1 |
-| [[operation-culpeper-woman-arrested-in-dark-web-murder-for-hire-plot]] | CYB-FUP-916 | 2 | absorbed | 4.00 | 1 |
-| [[operation-darknet-vendor-arrested-on-distribution-and-money-laundering-charges]] | CYB-FUP-927 | 2 | absorbed | 4.00 | 1 |
-| [[operation-dual-russian-and-israeli-national-extradited-to-the-united-states-for-his-role-in-the-lockbit-ransomware-consp]] | CYB-FUP-940 | 3 | absorbed | 4.00 | 1 |
-| [[operation-estonian-national-extradited-from-estonia-to-face-charges-of-illegal-procurement-of-u-s-electronics]] | CYB-FUP-945 | 1 | absorbed | 4.00 | 1 |
-| [[operation-florida-computer-programmer-arrested-for-hacking]] | CYB-FUP-958 | 1 | absorbed | 4.00 | 1 |
-| [[operation-foreign-national-indicted-in-wire-fraud-scheme]] | CYB-FUP-961 | 3 | absorbed | 4.00 | 1 |
-| [[operation-foreign-national-sentenced-for-victimizing-u-s-persons-through-cyber-enabled-fraud-schemes]] | CYB-FUP-962 | 3 | absorbed | 4.00 | 1 |
-| [[operation-foreign-nationals-sentenced-for-roles-in-transnational-cybercrime-enterprise]] | CYB-FUP-963 | 3 | absorbed | 4.00 | 1 |
-| [[operation-former-childcare-provider-sentenced-to-15-years-in-federal-prison-for-the-production-of-child-sexual-abuse-mat]] | CYB-FUP-964 | 3 | absorbed | 4.00 | 1 |
-| [[operation-former-commander-and-adjutant-of-nonprofit-veterans-organization-indicted-for-wire-fraud-and-tax-fraud]] | CYB-FUP-965 | 3 | absorbed | 4.00 | 1 |
-| [[operation-former-company-chief-financial-officer-indicted-for-using-35-million-in-company-cash-to-invest-in-cryptocurren]] | CYB-FUP-966 | 3 | absorbed | 4.00 | 1 |
-| [[operation-former-emergency-physician-pleads-guilty-to-possessing-child-pornography]] | CYB-FUP-967 | 3 | absorbed | 4.00 | 1 |
-| [[operation-former-employee-of-house-member-sentenced-to-prison-term-on-charges-in-cyberstalking-case]] | CYB-FUP-968 | 1 | absorbed | 4.00 | 1 |
-| [[operation-former-employee-of-silicon-valley-company-pleads-guilty-to-damaging-ex-employers-computers]] | CYB-FUP-969 | 1 | absorbed | 4.00 | 1 |
-| [[operation-former-owner-of-t-mobile-retail-store-in-eagle-rock-found-guilty-of-committing-25-million-scheme-to-illegally-]] | CYB-FUP-976 | 2 | absorbed | 4.00 | 1 |
-| [[operation-former-teaching-assistant-in-st-louis-admits-blackmailing-student]] | CYB-FUP-981 | 2 | absorbed | 4.00 | 1 |
-| [[operation-grand-jury-indicts-knoxville-woman-previously-arrested-in-murder-for-hire-plot]] | CYB-FUP-998 | 3 | absorbed | 4.00 | 1 |
-| [[bali-villa-cybercrime-raid-2024]] | — | — | completed | — | — |
-| [[bidencash-takedown]] | — | 3 | completed | 4.50 | 1 |
-| [[carding-action-2020]] | — | 2 | completed | 3.50 | 2 |
-| [[cyberbunker-takedown]] | — | 2 | completed | 4.00 | 1 |
-| [[nemesis-market-takedown]] | — | — | completed | — | — |
-| [[operation-endgame]] | — | — | ongoing | — | — |
-| [[operation-heart-blocker]] | — | — | completed | — | — |
-| [[operation-kraken-ghost-platform]] | — | — | completed | — | — |
-| [[operation-rewired]] | — | 2 | completed | 4.50 | 1 |
-| [[operation-trojan-shield]] | — | 4 | completed | 4.80 | 1 |
+<!-- BEGIN GENERATED OPERATIONS INDEX -->
+## Canonical Operations (125)
+
+| Operation | Case ID | Period | Status | Role | Sources | CI | Tier |
+|-----------|---------|--------|--------|------|---------|----|------|
+| [[silk-road-takedown]] | CYB-2013-001 | 1 | completed | umbrella | 7 | 4.50 | 1 |
+| [[operation-onymous]] | CYB-2014-001 | 1 | completed | umbrella | 5 | 4.00 | 1 |
+| [[operation-shrouded-horizon]] | CYB-2015-001 | 1 | completed | umbrella | 5 | 3.62 | 2 |
+| [[cyber-fraud-international-2015]] | CYB-2015-002 | 1 | completed | umbrella | 5 | 2.28 | 2 |
+| [[ramnit-botnet-takedown]] | CYB-2015-002 | 1 | completed | umbrella | 5 | 4.00 | 2 |
+| [[operation-source]] | CYB-2015-003 | 1 | completed | umbrella | 5 | 2.28 | 2 |
+| [[simda-botnet-takedown]] | CYB-2015-004 | 1 | completed | umbrella | 5 | 2.28 | 2 |
+| [[zeus-spyeye-jit-takedown]] | CYB-2015-005 | 1 | completed | umbrella | 6 | 2.28 | 2 |
+| [[operation-pleiades]] | CYB-2015-006 | 1 | completed | umbrella | 5 | 2.28 | 2 |
+| [[dridex-operations]] | CYB-2015-007 | 1 | completed | umbrella | 8 | 4.00 | 1 |
+| [[zeus-spyeye-takedown]] | CYB-2015-050 | 1 | completed | umbrella | 6 | 1.88 | 3 |
+| [[darkode-takedown]] | CYB-2015-051 | 1 | completed | umbrella | 5 | 2.18 | 3 |
+| [[operation-avalanche]] | CYB-2016-001 | 1 | completed | umbrella | 7 | 4.00 | 2 |
+| [[ddos-for-hire-sweep-2016]] | CYB-2016-002 | 1 | completed | umbrella | 6 | 2.95 | 2 |
+| [[global-airport-action-day]] | CYB-2016-003 | 1 | completed | umbrella | 6 | 1.85 | 2 |
+| [[bec-nigeria-2016]] | CYB-2016-050 | 1 | completed | umbrella | 5 | 4.00 | 1 |
+| [[andromeda-botnet-takedown]] | CYB-2017-001 | 1 | completed | umbrella | 4 | 3.75 | 2 |
+| [[alphabay-takedown]] | CYB-2017-002 | 1 | completed | umbrella | 5 | 4.00 | 1 |
+| [[operation-hyperion]] | CYB-2017-050 | 1 | completed | umbrella | 6 | 1.88 | 3 |
+| [[banking-trojan-fraud-sentencing-2017]] | CYB-2017-051 | 1 | completed | umbrella | 5 | 2.55 | 3 |
+| [[carbanak-cobalt-takedown]] | CYB-2018-001 | 1 | completed | umbrella | 4 | 3.50 | 2 |
+| [[operation-wirewire]] | CYB-2018-002 | 1 | completed | umbrella | 5 | 2.28 | 2 |
+| [[infraud-organization-takedown]] | CYB-2018-003 | 1 | completed | umbrella | 7 | 3.30 | 2 |
+| [[fin7-takedown]] | CYB-2018-004 | 1 | completed | umbrella | 5 | 2.28 | 2 |
+| [[rex-mundi-takedown]] | CYB-2018-005 | 1 | completed | umbrella | 5 | 2.28 | 2 |
+| [[operation-power-off]] | CYB-2018-006 | 1 | ongoing | umbrella | 7 | 3.80 | 1 |
+| [[operation-bakovia]] | CYB-2018-050 | 1 | completed | umbrella | 5 | 2.00 | 3 |
+| [[goznym-takedown]] | CYB-2019-001 | 2 | completed | umbrella | 5 | 4.20 | 2 |
+| [[imminent-monitor-rat-takedown]] | CYB-2019-050 | 2 | completed | umbrella | 5 | 1.88 | 3 |
+| [[xdedic-marketplace-takedown]] | CYB-2019-051 | 2 | completed | umbrella | 9 | 4.20 | 1 |
+| [[operation-falcon]] | CYB-2020-001 | 2 | completed | umbrella | 5 | 3.62 | 2 |
+| [[operation-goldfish-alpha-night-fury]] | CYB-2020-002 | 2 | completed | umbrella | 5 | 2.28 | 2 |
+| [[2bagoldmule-qqaazz]] | CYB-2020-003 | 2 | completed | umbrella | 5 | 2.28 | 2 |
+| [[trickbot-operations]] | CYB-2020-003 | 2 | completed | umbrella | 5 | 4.50 | 1 |
+| [[operation-nova]] | CYB-2020-050 | 2 | completed | umbrella | 5 | 2.55 | 3 |
+| [[operation-nightfury]] | CYB-2020-051 | 2 | completed | umbrella | 6 | 2.55 | 3 |
+| [[qqaazz-money-laundering-takedown]] | CYB-2020-052 | 2 | completed | umbrella | 5 | 1.88 | 3 |
+| [[darkmarket-takedown]] | CYB-2021-001 | 2 | completed | umbrella | 5 | 4.50 | 1 |
+| [[operation-secreto]] | CYB-2021-001 | 2 | completed | umbrella | 5 | 2.28 | 2 |
+| [[operation-haechi-ii]] | CYB-2021-002 | 2 | completed | umbrella | 5 | 2.95 | 2 |
+| [[emotet-takedown]] | CYB-2021-003 | 2 | completed | umbrella | 6 | 3.50 | 1 |
+| [[operation-dark-huntor]] | CYB-2021-010 | 2 | completed | umbrella | 5 | 3.50 | 2 |
+| [[operation-lyrebird]] | CYB-2021-050 | 2 | completed | umbrella | 5 | 2.55 | 3 |
+| [[doublevpn-takedown]] | CYB-2021-051 | 2 | completed | umbrella | 5 | 4.00 | 1 |
+| [[operation-killer-bee]] | CYB-2022-001 | 2 | completed | umbrella | 5 | 2.28 | 2 |
+| [[operation-haechi-iii]] | CYB-2022-002 | 2 | completed | umbrella | 5 | 3.50 | 2 |
+| [[vpnlab-takedown]] | CYB-2022-002 | 3 | completed | umbrella | 5 | 4.50 | 1 |
+| [[operation-delilah]] | CYB-2022-050 | 2 | completed | umbrella | 5 | 2.25 | 3 |
+| [[black-axe-bec-2021]] | CYB-2022-052 | 3 | completed | umbrella | 5 | 4.40 | 1 |
+| [[marketplace-a-dekhtyarchuk-indictment]] | CYB-2022-054 | 3 | completed | umbrella | 5 | 4.20 | 1 |
+| [[franco-israeli-ceo-fraud]] | CYB-2023-001 | 3 | completed | umbrella | 5 | 2.28 | 2 |
+| [[operation-jackal]] | CYB-2023-002 | 3 | completed | umbrella | 5 | 2.28 | 2 |
+| [[korea-china-voice-phishing-qingdao]] | CYB-2023-003 | 3 | completed | umbrella | 5 | 1.88 | 3 |
+| [[operation-haechi-iv]] | CYB-2023-004 | 3 | completed | umbrella | 5 | 2.28 | 2 |
+| [[hive-ransomware-takedown]] | CYB-2023-006 | 3 | completed | umbrella | 5 | 3.25 | 2 |
+| [[myanmar-kokang-scam-compound-crackdown]] | CYB-2023-022 | 3 | completed | umbrella | 5 | 3.80 | 2 |
+| [[africa-cyber-surge-ii]] | CYB-2023-050 | 3 | completed | umbrella | 5 | 4.12 | 1 |
+| [[blackcat-lockeroga-kelvin-security-2023]] | CYB-2023-051 | 3 | completed | umbrella | 5 | 4.12 | 1 |
+| [[operation-nervone]] | CYB-2023-052 | 3 | completed | umbrella | 5 | 4.18 | 1 |
+| [[nigerian-bec-convictions-2023]] | CYB-2023-053 | 3 | completed | umbrella | 5 | 4.20 | 1 |
+| [[operation-orion-international]] | CYB-2024-001 | 3 | completed | umbrella | 5 | — | — |
+| [[operation-cronos-phase1]] | CYB-2024-002 | 3 | completed | umbrella | 7 | 2.28 | 2 |
+| [[operation-endgame-phase1]] | CYB-2024-003 | 3 | completed | umbrella | 5 | 2.28 | 2 |
+| [[operation-first-light-2024]] | CYB-2024-004 | 3 | completed | umbrella | 5 | 2.28 | 2 |
+| [[operation-jackal-iii]] | CYB-2024-005 | 3 | completed | umbrella | 5 | 2.28 | 2 |
+| [[operation-cronos-phase3]] | CYB-2024-006 | 3 | completed | umbrella | 5 | 2.28 | 2 |
+| [[operation-synergia-ii]] | CYB-2024-007 | 3 | completed | umbrella | 5 | 3.25 | 2 |
+| [[operation-serengeti]] | CYB-2024-008 | 3 | completed | umbrella | 5 | 2.28 | 2 |
+| [[operation-haechi-v]] | CYB-2024-009 | 3 | completed | umbrella | 5 | 2.28 | 2 |
+| [[operation-contender-2]] | CYB-2024-010 | 3 | completed | umbrella | 6 | — | — |
+| [[operation-red-card]] | CYB-2024-011 | 3 | completed | umbrella | 6 | — | — |
+| [[romania-phishing-takedown-2024]] | CYB-2024-012 | 3 | completed | umbrella | 5 | 2.28 | 2 |
+| [[fake-shopping-sites-takedown-2024]] | CYB-2024-013 | 3 | completed | umbrella | 6 | 3.25 | 2 |
+| [[911-s5-botnet-takedown]] | CYB-2024-014 | 3 | completed | umbrella | 5 | 4.00 | 2 |
+| [[operation-chakra-iii]] | CYB-2024-021 | 3 | completed | umbrella | 5 | 3.50 | 2 |
+| [[operation-morpheus]] | CYB-2024-050 | 3 | completed | umbrella | 5 | 2.55 | 2 |
+| [[zambia-golden-top-call-center]] | CYB-2024-050 | 3 | completed | umbrella | 8 | 1.88 | 3 |
+| [[operation-destabilise]] | CYB-2024-051 | 3 | completed | umbrella | 5 | 1.88 | 3 |
+| [[cryptex-pm2btc-sanctions]] | CYB-2024-052 | 3 | completed | umbrella | 6 | 4.33 | 1 |
+| [[rydox-marketplace-takedown]] | CYB-2024-053 | 3 | completed | umbrella | 5 | 4.40 | 1 |
+| [[operation-stream-kidflix]] | CYB-2025-001 | 3 | completed | umbrella | 6 | — | — |
+| [[operation-cyber-guardian]] | CYB-2025-002 | 3 | completed | umbrella | 5 | — | — |
+| [[phobos-8base-crackdown]] | CYB-2025-003 | 3 | completed | umbrella | 5 | — | — |
+| [[isoon-apt27-indictment]] | CYB-2025-004 | 3 | ongoing | umbrella | 6 | 2.28 | 2 |
+| [[qakbot-gallyamov-indictment]] | CYB-2025-005 | 3 | ongoing | umbrella | 5 | 3.25 | 2 |
+| [[operation-endgame-phase2]] | CYB-2025-006 | 3 | completed | umbrella | 7 | 2.28 | 2 |
+| [[operation-checkmate-blacksuit]] | CYB-2025-007 | 3 | completed | umbrella | 5 | 2.28 | 2 |
+| [[operation-haechi-vi]] | CYB-2025-008 | 3 | completed | umbrella | 5 | 2.28 | 2 |
+| [[korea-cambodia-scam-repatriation]] | CYB-2025-009 | 3 | ongoing | umbrella | 5 | 2.55 | 3 |
+| [[operation-sentinel-africa]] | CYB-2025-010 | 3 | completed | umbrella | 5 | 2.28 | 2 |
+| [[operation-talent]] | CYB-2025-011 | 3 | completed | umbrella | 5 | — | — |
+| [[lumma-stealer-takedown]] | CYB-2025-012 | 3 | completed | umbrella | 5 | — | — |
+| [[operation-secure-interpol]] | CYB-2025-012 | 3 | completed | umbrella | 5 | 1.85 | 2 |
+| [[de-ch-crypto-mixer-takedown-2025]] | CYB-2025-013 | 3 | completed | umbrella | 5 | 3.50 | 1 |
+| [[belgium-netherlands-phishing-gang]] | CYB-2025-051 | 3 | completed | umbrella | 5 | 4.22 | 1 |
+| [[operation-eur-3m-online-investment-fraud-2025]] | CYB-2025-0513 | 3 | ongoing | umbrella | 5 | 4.50 | 2 |
+| [[operation-eur-600m-crypto-scam-network-2025]] | CYB-2025-1104 | 3 | completed | umbrella | 5 | 4.60 | 2 |
+| [[operation-eur-300m-global-credit-card-fraud-2025]] | CYB-2025-1105 | 3 | completed | umbrella | 5 | 4.70 | 2 |
+| [[operation-germany-romania-trusted-seller-fraud-2025]] | CYB-2025-625 | 3 | completed | umbrella | 5 | 4.50 | 2 |
+| [[proxy-service-takedown-2026-03]] | CYB-2026-001 | 3 | completed | umbrella | 6 | 4.50 | 1 |
+| [[operation-de-fr-online-fraud-group-2026]] | CYB-2026-031 | 3 | completed | umbrella | 5 | 4.40 | 2 |
+| [[operation-eur-100m-crypto-investment-fraud-2025]] | CYB-EU-2025-019 | 4 | completed | umbrella | 5 | 4.30 | 1 |
+| [[operation-eur-100m-illegal-financial-service-laundering-2025]] | CYB-EU-2025-020 | 4 | completed | umbrella | 5 | 4.32 | 1 |
+| [[operation-us-v-parsarad-nemesis]] | CYB-FUP-076 | 3 | ongoing | follow-on | 5 | 4.25 | 1 |
+| [[operation-105-arrested-for-stealing-over-eur-12-million-from-us-based-banks]] | CYB-FUP-500 | 2 | completed | follow-on | 5 | 4.18 | 1 |
+| [[operation-12-members-of-an-irish-high-risk-criminal-network-arrested]] | CYB-FUP-501 | 3 | completed | follow-on | 6 | 4.00 | 1 |
+| [[operation-bremerton-washington-man-sentenced-to-3-years-in-prison-for-extensive-swatting-campaign-targeting-victims-in-u]] | CYB-FUP-520 | 3 | completed | follow-on | 5 | 4.18 | 1 |
+| [[operation-europol-105-arrested-for-stealing-over-12-million-from-us-based-banks-operation-secreto]] | CYB-FUP-543 | 2 | completed | follow-on | 5 | 4.00 | 1 |
+| [[operation-europol-french-coder-who-helped-extort-british-company-arrested-in-thailand]] | CYB-FUP-544 | 1 | completed | follow-on | 5 | 4.00 | 1 |
+| [[operation-french-coder-who-helped-extort-british-company-arrested-in-thailand]] | CYB-FUP-564 | 1 | completed | follow-on | 5 | 4.00 | 1 |
+| [[operation-key-figures-behind-phobos-and-8base-ransomware-arrested-in-international-cybercrime-crackdown-3]] | CYB-FUP-581 | 3 | completed | follow-on | 5 | 4.00 | 1 |
+| [[operation-key-figures-behind-phobos-and-8base-ransomware-arrested-in-international-cybercrime-crackdown]] | CYB-FUP-582 | 3 | completed | follow-on | 5 | 4.00 | 1 |
+| [[operation-operation-orion-international-144-arrested-in-major-child-abuse-operation-across-south-america]] | CYB-FUP-612 | 3 | completed | follow-on | 5 | 4.00 | 1 |
+| [[operation-australian-man-arrested-in-germany-accused-of-running-world-s-largest-darknet-marketplace]] | CYB-FUP-798 | 2 | completed | follow-on | 5 | 4.00 | 2 |
+| [[operation-dark-web-narcotics-trafficker-sentenced-to-96-months-in-prison-for-distributing-fentanyl-heroin-methamphetamin]] | CYB-FUP-810 | 2 | completed | follow-on | 6 | 4.21 | 1 |
+| [[bali-villa-cybercrime-raid-2024]] | — | — | completed | umbrella | 5 | — | — |
+| [[bidencash-takedown]] | — | 3 | completed | umbrella | 5 | 4.50 | 1 |
+| [[carding-action-2020]] | — | 2 | completed | umbrella | 6 | 3.50 | 2 |
+| [[cyberbunker-takedown]] | — | 2 | completed | umbrella | 5 | 4.00 | 1 |
+| [[nemesis-market-takedown]] | — | — | completed | umbrella | 5 | — | — |
+| [[operation-endgame]] | — | — | ongoing | umbrella | 9 | — | — |
+| [[operation-heart-blocker]] | — | — | completed | umbrella | 5 | — | — |
+| [[operation-kraken-ghost-platform]] | — | — | completed | umbrella | 6 | — | — |
+| [[operation-rewired]] | — | 2 | completed | umbrella | 5 | 4.50 | 1 |
+| [[operation-trojan-shield]] | — | 4 | completed | umbrella | 6 | 4.80 | 1 |
+
+## Absorbed Follow-On Records (960)
+
+These records are retained as traceable prosecution, sentencing, plea, forfeiture, or action-day wrappers. They should not be counted as separate international-cooperation operations unless promoted to canonical records after review.
+
+| Operation | Case ID | Period | Status | Role | Sources | CI | Tier |
+|-----------|---------|--------|--------|------|---------|----|------|
+| [[infraud-telusma-sentencing]] | CYB-2022-053 | 3 | absorbed | umbrella | 1 | 4.30 | 1 |
+| [[operation-emotet-disruption-ladybird]] | CYB-FUP-002 | 2 | absorbed | follow-on | 1 | 4.00 | 1 |
+| [[operation-in-re-bidencash-marketplace-seizure]] | CYB-FUP-003 | 3 | absorbed | follow-on | 1 | 4.00 | 1 |
+| [[operation-in-re-heartsender-seizure]] | CYB-FUP-004 | 3 | absorbed | follow-on | 1 | 4.00 | 1 |
+| [[operation-us-v-adafin-xdedic]] | CYB-FUP-005 | 3 | absorbed | follow-on | 1 | 4.00 | 1 |
+| [[operation-us-v-adam-miles-dark-web]] | CYB-FUP-006 | 1 | absorbed | follow-on | 1 | 4.00 | 1 |
+| [[operation-us-v-adejumo-jinadu-xdedic]] | CYB-FUP-007 | 3 | absorbed | follow-on | 1 | 4.00 | 1 |
+| [[operation-us-v-almashwali-alphabay]] | CYB-FUP-008 | 1 | absorbed | follow-on | 1 | 4.00 | 1 |
+| [[operation-us-v-anom-distributors]] | CYB-FUP-009 | 2 | absorbed | follow-on | 1 | 4.00 | 1 |
+| [[operation-us-v-aragon-dark-web]] | CYB-FUP-010 | 3 | absorbed | follow-on | 1 | 4.00 | 1 |
+| [[operation-us-v-astamirov-vasiliev-lockbit]] | CYB-FUP-011 | 3 | absorbed | follow-on | 1 | 4.00 | 1 |
+| [[operation-us-v-banmeet-singh-dark-web]] | CYB-FUP-012 | 3 | absorbed | follow-on | 1 | 4.00 | 1 |
+| [[operation-us-v-barraza-flores-dark-web]] | CYB-FUP-013 | 2 | absorbed | follow-on | 1 | 4.00 | 1 |
+| [[operation-us-v-benthall-silk-road-2]] | CYB-FUP-014 | 1 | absorbed | follow-on | 1 | 4.00 | 1 |
+| [[operation-us-v-bondarenko-infraud]] | CYB-FUP-015 | 1 | absorbed | follow-on | 1 | 4.00 | 1 |
+| [[operation-us-v-bookman-dark-web]] | CYB-FUP-016 | 3 | absorbed | follow-on | 1 | 4.00 | 1 |
+| [[operation-us-v-brandon-adams-dark-web]] | CYB-FUP-017 | 3 | absorbed | follow-on | 1 | 4.00 | 1 |
+| [[operation-us-v-brandon-arias-dark-web]] | CYB-FUP-018 | 1 | absorbed | follow-on | 1 | 4.00 | 1 |
+| [[operation-us-v-brewer-dark-web]] | CYB-FUP-019 | 2 | absorbed | follow-on | 1 | 4.00 | 1 |
+| [[operation-us-v-brian-mcdonald-dark-web]] | CYB-FUP-020 | 3 | absorbed | follow-on | 1 | 4.00 | 1 |
+| [[operation-us-v-burgamy-wilson-dark-web]] | CYB-FUP-021 | 2 | absorbed | follow-on | 1 | 4.00 | 1 |
+| [[operation-us-v-castillo-rosario-vasquez-roman-dark-web]] | CYB-FUP-022 | 3 | absorbed | follow-on | 1 | 4.00 | 1 |
+| [[operation-us-v-castro-dark-web]] | CYB-FUP-023 | 2 | absorbed | follow-on | 1 | 4.00 | 1 |
+| [[operation-us-v-catherine-stuckey-dark-web]] | CYB-FUP-024 | 2 | absorbed | follow-on | 1 | 4.00 | 1 |
+| [[operation-us-v-cazes-alphabay]] | CYB-FUP-025 | 1 | absorbed | follow-on | 1 | 4.00 | 1 |
+| [[operation-us-v-chaloner-saintillus-dark-web]] | CYB-FUP-026 | 3 | absorbed | follow-on | 1 | 4.00 | 1 |
+| [[operation-us-v-curry-brooke-dark-web]] | CYB-FUP-027 | 1 | absorbed | follow-on | 1 | 4.00 | 1 |
+| [[operation-us-v-dekhtyarchuk-marketplace-a]] | CYB-FUP-028 | 2 | absorbed | follow-on | 1 | 4.00 | 1 |
+| [[operation-us-v-dittman-schiffner-langer-dark-web]] | CYB-FUP-029 | 3 | absorbed | follow-on | 1 | 4.00 | 1 |
+| [[operation-us-v-evan-hernandez-dark-web]] | CYB-FUP-030 | 2 | absorbed | follow-on | 1 | 4.00 | 1 |
+| [[operation-us-v-farrell-silk-road-2]] | CYB-FUP-031 | 1 | absorbed | follow-on | 1 | 4.00 | 1 |
+| [[operation-us-v-fatukala-cocaine-dark-web]] | CYB-FUP-032 | 3 | absorbed | follow-on | 1 | 4.00 | 1 |
+| [[operation-us-v-galochkin-trickbot-conti]] | CYB-FUP-034 | 3 | absorbed | follow-on | 1 | 4.00 | 1 |
+| [[operation-us-v-gary-davis-silk-road]] | CYB-FUP-035 | 1 | absorbed | follow-on | 1 | 4.00 | 1 |
+| [[operation-us-v-ghinkul-dridex]] | CYB-FUP-036 | 1 | absorbed | follow-on | 1 | 4.00 | 1 |
+| [[operation-us-v-gudmunds-darkode]] | CYB-FUP-037 | 1 | absorbed | follow-on | 1 | 4.00 | 1 |
+| [[operation-us-v-gutierrez-villasenor-dark-web]] | CYB-FUP-038 | 1 | absorbed | follow-on | 1 | 4.00 | 1 |
+| [[operation-us-v-haahr-albert-dark-web]] | CYB-FUP-039 | 3 | absorbed | follow-on | 1 | 4.00 | 1 |
+| [[operation-us-v-habasescu-xdedic]] | CYB-FUP-040 | 2 | absorbed | follow-on | 1 | 4.00 | 1 |
+| [[operation-us-v-haney-silk-road]] | CYB-FUP-041 | 2 | absorbed | follow-on | 1 | 4.00 | 1 |
+| [[operation-us-v-hernandez-dark-web]] | CYB-FUP-042 | 3 | absorbed | follow-on | 1 | 4.00 | 1 |
+| [[operation-us-v-herrell-alphabay]] | CYB-FUP-043 | 2 | absorbed | follow-on | 1 | 4.00 | 1 |
+| [[operation-us-v-hladyr-fin7]] | CYB-FUP-044 | 3 | absorbed | follow-on | 1 | 4.00 | 1 |
+| [[operation-us-v-holly-adams-dark-web]] | CYB-FUP-045 | 3 | absorbed | follow-on | 1 | 4.00 | 1 |
+| [[operation-us-v-ivanov-tolpintsev-xdedic]] | CYB-FUP-046 | 2 | absorbed | follow-on | 1 | 4.00 | 1 |
+| [[operation-us-v-jason-arnold-dark-web]] | CYB-FUP-047 | 2 | absorbed | follow-on | 1 | 4.00 | 1 |
+| [[operation-us-v-john-cruz-dark-web]] | CYB-FUP-049 | 3 | absorbed | follow-on | 1 | 4.00 | 1 |
+| [[operation-us-v-john-mckernan-dark-web]] | CYB-FUP-050 | 3 | absorbed | follow-on | 1 | 4.00 | 1 |
+| [[operation-us-v-kancharla-dark-web]] | CYB-FUP-051 | 2 | absorbed | follow-on | 1 | 4.00 | 1 |
+| [[operation-us-v-kharmanskyi-xdedic]] | CYB-FUP-052 | 3 | absorbed | follow-on | 1 | 4.00 | 1 |
+| [[operation-us-v-konovolov-goznym]] | CYB-FUP-053 | 1 | absorbed | follow-on | 1 | 4.00 | 1 |
+| [[operation-us-v-kutleshi-rydox]] | CYB-FUP-054 | 3 | absorbed | follow-on | 1 | 4.00 | 1 |
+| [[operation-us-v-levinson-xdedic]] | CYB-FUP-055 | 2 | absorbed | follow-on | 1 | 4.00 | 1 |
+| [[operation-us-v-lint-dream-market]] | CYB-FUP-056 | 1 | absorbed | follow-on | 1 | 4.00 | 1 |
+| [[operation-us-v-madding-dark-web]] | CYB-FUP-057 | 2 | absorbed | follow-on | 1 | 4.00 | 1 |
+| [[operation-us-v-matthew-jones-silk-road]] | CYB-FUP-058 | 1 | absorbed | follow-on | 1 | 4.00 | 1 |
+| [[operation-us-v-mckinzie-xdedic]] | CYB-FUP-059 | 3 | absorbed | follow-on | 1 | 4.00 | 1 |
+| [[operation-us-v-mcneely-xdedic]] | CYB-FUP-060 | 3 | absorbed | follow-on | 1 | 4.00 | 1 |
+| [[operation-us-v-miller-poweroff]] | CYB-FUP-061 | 3 | absorbed | follow-on | 1 | 4.00 | 1 |
+| [[operation-us-v-nazarovi-qqaazz]] | CYB-FUP-062 | 2 | absorbed | follow-on | 1 | 4.00 | 1 |
+| [[operation-us-v-nicholas-partlow-dark-web]] | CYB-FUP-063 | 2 | absorbed | follow-on | 1 | 4.00 | 1 |
+| [[operation-us-v-odedeyi-davies-xdedic]] | CYB-FUP-064 | 2 | absorbed | follow-on | 1 | 4.00 | 1 |
+| [[operation-us-v-odufuye-nwoke-bec]] | CYB-FUP-065 | 1 | absorbed | follow-on | 1 | 4.00 | 1 |
+| [[operation-us-v-ogando-dawodu-spencer-dark-web]] | CYB-FUP-066 | 3 | absorbed | follow-on | 1 | 4.00 | 1 |
+| [[operation-us-v-ogunlana-xdedic]] | CYB-FUP-067 | 3 | absorbed | follow-on | 1 | 4.00 | 1 |
+| [[operation-us-v-okparaeke-dark-web]] | CYB-FUP-068 | 2 | absorbed | follow-on | 1 | 4.00 | 1 |
+| [[operation-us-v-okpe-obogo-bec]] | CYB-FUP-069 | 3 | absorbed | follow-on | 1 | 4.00 | 1 |
+| [[operation-us-v-olivia-bolles-silk-road]] | CYB-FUP-070 | 1 | absorbed | follow-on | 1 | 4.00 | 1 |
+| [[operation-us-v-omotosho-xdedic]] | CYB-FUP-071 | 3 | absorbed | follow-on | 1 | 4.00 | 1 |
+| [[operation-us-v-orgil-dark-web]] | CYB-FUP-072 | 3 | absorbed | follow-on | 1 | 4.00 | 1 |
+| [[operation-us-v-oyebanjo-xdedic]] | CYB-FUP-073 | 3 | absorbed | follow-on | 1 | 4.00 | 1 |
+| [[operation-us-v-paiva-silk-road-2]] | CYB-FUP-074 | 1 | absorbed | follow-on | 1 | 4.00 | 1 |
+| [[operation-us-v-pankov-xdedic]] | CYB-FUP-075 | 3 | absorbed | follow-on | 1 | 4.00 | 1 |
+| [[operation-us-v-peck-dark-web]] | CYB-FUP-077 | 2 | absorbed | follow-on | 1 | 4.00 | 1 |
+| [[operation-us-v-roberts-dark-web]] | CYB-FUP-078 | 2 | absorbed | follow-on | 1 | 4.00 | 1 |
+| [[operation-us-v-roger-thomas-clark-silk-road]] | CYB-FUP-079 | 3 | absorbed | follow-on | 1 | 4.00 | 1 |
+| [[operation-us-v-ruiz-navia-dark-web]] | CYB-FUP-080 | 3 | absorbed | follow-on | 1 | 4.00 | 1 |
+| [[operation-us-v-ryan-scott-cochran-dark-web]] | CYB-FUP-081 | 3 | absorbed | follow-on | 1 | 4.00 | 1 |
+| [[operation-us-v-sabbagh-dark-web]] | CYB-FUP-082 | 3 | absorbed | follow-on | 1 | 4.00 | 1 |
+| [[operation-us-v-scanlan-dark-web]] | CYB-FUP-083 | 2 | absorbed | follow-on | 1 | 4.00 | 1 |
+| [[operation-us-v-shaughnessy-dark-web]] | CYB-FUP-084 | 3 | absorbed | follow-on | 1 | 4.00 | 1 |
+| [[operation-us-v-sheldon-kennedy-silk-road]] | CYB-FUP-085 | 1 | absorbed | follow-on | 1 | 4.00 | 1 |
+| [[operation-us-v-sirotkin-deaver-dark-web]] | CYB-FUP-086 | 3 | absorbed | follow-on | 1 | 4.00 | 1 |
+| [[operation-us-v-spencer-xdedic]] | CYB-FUP-087 | 3 | absorbed | follow-on | 1 | 4.00 | 1 |
+| [[operation-us-v-stepanov-danabot]] | CYB-FUP-088 | 3 | absorbed | follow-on | 1 | 4.00 | 1 |
+| [[operation-us-v-tan-dark-web]] | CYB-FUP-089 | 3 | absorbed | follow-on | 1 | 4.00 | 1 |
+| [[operation-us-v-taylor-fischer-dark-web]] | CYB-FUP-090 | 3 | absorbed | follow-on | 1 | 4.00 | 1 |
+| [[operation-us-v-taylor-xdedic]] | CYB-FUP-091 | 3 | absorbed | follow-on | 1 | 4.00 | 1 |
+| [[operation-us-v-ulbricht-silk-road]] | CYB-FUP-094 | 1 | absorbed | follow-on | 1 | 4.00 | 1 |
+| [[operation-us-v-udvardi-dark-web]] | CYB-FUP-095 | 3 | absorbed | follow-on | 1 | 4.00 | 1 |
+| [[operation-us-v-vallerius-dream-market]] | CYB-FUP-096 | 1 | absorbed | follow-on | 1 | 4.00 | 1 |
+| [[operation-us-v-vlastos-dark-web]] | CYB-FUP-097 | 3 | absorbed | follow-on | 1 | 4.00 | 1 |
+| [[operation-us-v-witters-dark-web]] | CYB-FUP-098 | 1 | absorbed | follow-on | 1 | 4.00 | 1 |
+| [[operation-us-v-telusma-infraud]] | CYB-FUP-099 | 2 | absorbed | follow-on | 1 | 4.00 | 1 |
+| [[operation-us-v-wu-haibo-isoon]] | CYB-FUP-100 | 3 | absorbed | follow-on | 1 | 4.00 | 1 |
+| [[operation-independence-pair-indicted-for-drug-and-firearms-offenses]] | CYB-FUP-1007 | 3 | absorbed | follow-on | 1 | 4.00 | 1 |
+| [[operation-individual-arrested-and-charged-with-operating-notorious-darknet-cryptocurrency-mixer]] | CYB-FUP-1008 | 2 | absorbed | follow-on | 1 | 4.00 | 1 |
+| [[operation-international-crypto-vendor-sentenced-for-money-laundering-conspiracy]] | CYB-FUP-1009 | 3 | absorbed | follow-on | 1 | 4.00 | 1 |
+| [[operation-us-v-yakubets-dridex]] | CYB-FUP-101 | 1 | absorbed | follow-on | 1 | 4.00 | 1 |
+| [[operation-international-hacker-for-hire-who-conspired-with-and-aided-russian-fsb-officers-sentenced-to-five-years-in-pri]] | CYB-FUP-1010 | 1 | absorbed | follow-on | 1 | 4.00 | 1 |
+| [[operation-international-money-launderer-sentenced-to-over-11-years-in-federal-prison-for-laundering-millions-from-cyber-]] | CYB-FUP-1011 | 2 | absorbed | follow-on | 1 | 4.00 | 1 |
+| [[operation-jefferson-county-man-sentenced-to-6-12-years-in-prison-for-possession-of-child-pornography]] | CYB-FUP-1012 | 2 | absorbed | follow-on | 1 | 4.00 | 1 |
+| [[operation-jumbotron-hacker-and-prolific-child-molester-sentenced-to-220-years-in-federal-prison]] | CYB-FUP-1013 | 3 | absorbed | follow-on | 1 | 4.00 | 1 |
+| [[operation-kansas-city-woman-indicted-for-fraudulent-tax-returns]] | CYB-FUP-1014 | 3 | absorbed | follow-on | 1 | 4.00 | 1 |
+| [[operation-kansas-man-pleads-guilty-to-child-pornography-possession]] | CYB-FUP-1015 | 3 | absorbed | follow-on | 1 | 4.00 | 1 |
+| [[operation-kansas-woman-indicted-for-defrauding-elderly-victims]] | CYB-FUP-1016 | 3 | absorbed | follow-on | 1 | 4.00 | 1 |
+| [[operation-kentucky-man-pleads-guilty-to-advertising-child-pornography]] | CYB-FUP-1017 | 3 | absorbed | follow-on | 1 | 4.00 | 1 |
+| [[operation-kentucky-man-sentenced-to-15-years-in-prison-for-advertising-child-pornography]] | CYB-FUP-1018 | 3 | absorbed | follow-on | 1 | 4.00 | 1 |
+| [[operation-key-member-of-drug-ring-associated-with-aryan-prison-gang-sentenced-to-7-years-in-prison]] | CYB-FUP-1019 | 3 | absorbed | follow-on | 1 | 4.00 | 1 |
+| [[operation-us-v-yunhe-wang-911-s5]] | CYB-FUP-102 | 3 | absorbed | follow-on | 1 | 4.00 | 1 |
+| [[operation-key-player-in-silk-road-2-0-sentenced-to-eight-years-in-prison]] | CYB-FUP-1020 | 1 | absorbed | follow-on | 1 | 4.00 | 1 |
+| [[operation-knox-county-man-sentenced-to-60-years-imprisonment-for-two-counts-of-production-of-child-pornography]] | CYB-FUP-1021 | 3 | absorbed | follow-on | 1 | 4.00 | 1 |
+| [[operation-kokomo-resident-arrested-on-federal-animal-cruelty-charges]] | CYB-FUP-1022 | 2 | absorbed | follow-on | 1 | 4.00 | 1 |
+| [[operation-lakeland-man-pleads-guilty-to-receiving-child-sex-abuse-videos-from-the-largest-darknet-child-pornography-webs]] | CYB-FUP-1023 | 2 | absorbed | follow-on | 1 | 4.50 | 1 |
+| [[operation-lakeland-man-sentenced-to-more-than-9-years-in-federal-prison-for-downloading-and-possessing-child-sex-abuse-v]] | CYB-FUP-1024 | 2 | absorbed | follow-on | 1 | 4.00 | 1 |
+| [[operation-latvian-national-charged-for-alleged-role-in-transnational-cybercrime-organization]] | CYB-FUP-1025 | 2 | absorbed | follow-on | 1 | 4.00 | 1 |
+| [[operation-law-enforcement-seize-record-amounts-of-illegal-drugs-firearms-and-drug-trafficking-proceeds-in-international-]] | CYB-FUP-1026 | 3 | absorbed | follow-on | 1 | 4.00 | 1 |
+| [[operation-leader-of-darknet-drug-distribution-conspiracy-sentenced-to-federal-prison]] | CYB-FUP-1027 | 2 | absorbed | follow-on | 1 | 4.00 | 1 |
+| [[operation-leader-of-darknet-italianmafiabrussels-drug-trafficking-organization-sentenced-to-11-years-imprisonment]] | CYB-FUP-1028 | 1 | absorbed | follow-on | 1 | 4.00 | 1 |
+| [[operation-leader-of-international-malvertising-and-ransomware-schemes-extradited-from-poland-to-face-cybercrime-charges]] | CYB-FUP-1029 | 3 | absorbed | follow-on | 1 | 4.00 | 1 |
+| [[operation-us-v-adam-lemar-miles]] | CYB-FUP-103 | 1 | absorbed | follow-on | 1 | 4.00 | 1 |
+| [[operation-leader-of-transnational-cybercrime-group-noirs-luxury-refunds-charged-with-conspiracy-to-commit-mail-and-wire-]] | CYB-FUP-1030 | 3 | absorbed | follow-on | 1 | 4.00 | 1 |
+| [[operation-ledyard-man-charged-with-child-exploitation-offense]] | CYB-FUP-1031 | 3 | absorbed | follow-on | 1 | 4.00 | 1 |
+| [[operation-ledyard-man-pleads-guilty-to-child-exploitation-offense]] | CYB-FUP-1032 | 3 | absorbed | follow-on | 1 | 4.00 | 1 |
+| [[operation-lone-american-indicted-in-international-drug-trafficking-investigation-sentenced-to-five-years-in-prison]] | CYB-FUP-1033 | 3 | absorbed | follow-on | 1 | 4.00 | 1 |
+| [[operation-madison-county-sex-offender-indicted-for-failure-to-register]] | CYB-FUP-1034 | 3 | absorbed | follow-on | 1 | 4.00 | 1 |
+| [[operation-man-charged-with-threatening-and-cyberstalking-congressman]] | CYB-FUP-1035 | 2 | absorbed | follow-on | 1 | 4.00 | 1 |
+| [[operation-man-pleads-guilty-to-charges-of-stealing-senate-information-illegally-posting-restricted-personal-information-]] | CYB-FUP-1036 | 1 | absorbed | follow-on | 1 | 4.00 | 1 |
+| [[operation-man-sentenced-for-stalking-and-threatening-congressman-kevin-hern-and-his-wife]] | CYB-FUP-1037 | 3 | absorbed | follow-on | 1 | 4.00 | 1 |
+| [[operation-man-who-served-in-army-under-an-assumed-name-sentenced-to-time-served-and-community-service-for-passport-fraud]] | CYB-FUP-1038 | 2 | absorbed | follow-on | 1 | 4.00 | 1 |
+| [[operation-marine-based-at-camp-pendleton-arrested-on-federal-charges-alleging-cyberstalking-of-young-women-in-sextortion]] | CYB-FUP-1039 | 2 | absorbed | follow-on | 1 | 4.00 | 1 |
+| [[operation-us-v-adan-ruiz-and-omar-navia]] | CYB-FUP-104 | 3 | absorbed | follow-on | 1 | 4.00 | 1 |
+| [[operation-marion-county-man-arrested-for-possession-of-child-sex-abuse-material]] | CYB-FUP-1040 | 3 | absorbed | follow-on | 1 | 4.00 | 1 |
+| [[operation-marion-county-man-pleads-guilty-to-production-of-child-sex-abuse-material]] | CYB-FUP-1041 | 3 | absorbed | follow-on | 1 | 4.00 | 1 |
+| [[operation-maryland-man-sentenced-to-30-months-in-prison-for-cyberstalking-former-girlfriend-and-threatening-workplace-vi]] | CYB-FUP-1042 | 2 | absorbed | follow-on | 1 | 4.00 | 1 |
+| [[operation-massachusetts-man-pleads-guilty-to-knowingly-concealing-the-source-of-material-support-or-resources-to-isis]] | CYB-FUP-1043 | 3 | absorbed | follow-on | 1 | 4.00 | 1 |
+| [[operation-massachusetts-man-sentenced-for-knowingly-concealing-the-source-of-material-support-or-resources-to-isis]] | CYB-FUP-1044 | 3 | absorbed | follow-on | 1 | 4.00 | 1 |
+| [[operation-member-of-darknet-drug-trafficking-organization-italianmafiabrussels-sentenced-to-prison]] | CYB-FUP-1045 | 1 | absorbed | follow-on | 1 | 4.00 | 1 |
+| [[operation-member-of-russian-cybercrime-group-charged-in-ohio]] | CYB-FUP-1046 | 3 | absorbed | follow-on | 1 | 4.00 | 1 |
+| [[operation-member-of-the-dark-overlord-hacking-group-extradited-from-united-kingdom-to-face-charges-in-st-louis]] | CYB-FUP-1047 | 1 | absorbed | follow-on | 1 | 4.00 | 1 |
+| [[operation-members-of-seattle-drug-trafficking-organization-indicted-for-distribution-of-heroin]] | CYB-FUP-1048 | 1 | absorbed | follow-on | 1 | 4.00 | 1 |
+| [[operation-men-indicted-for-crimes-related-to-securities-fraud]] | CYB-FUP-1049 | 3 | absorbed | follow-on | 1 | 4.00 | 1 |
+| [[operation-us-v-adetunji-adejumo-and-ibrahim-jinadu]] | CYB-FUP-105 | 3 | absorbed | follow-on | 1 | 4.00 | 1 |
+| [[operation-michigan-man-indicted-on-wire-fraud-and-aggravated-identity-theft-charges]] | CYB-FUP-1050 | 3 | absorbed | follow-on | 1 | 4.00 | 1 |
+| [[operation-michigan-man-sentenced-to-312-years-in-prison-for-role-in-sim-swapping-that-led-to-account-takeovers-and-122-0]] | CYB-FUP-1051 | 2 | absorbed | follow-on | 1 | 4.00 | 1 |
+| [[operation-michigan-man-sentenced-to-five-years-in-prison-for-possessing-child-sexual-abuse-material-on-a-military-base]] | CYB-FUP-1052 | 3 | absorbed | follow-on | 1 | 4.00 | 1 |
+| [[operation-middlesex-county-man-charged-with-production-and-possession-of-child-pornography]] | CYB-FUP-1053 | 3 | absorbed | follow-on | 1 | 4.00 | 1 |
+| [[operation-minnesota-man-pleads-guilty-to-stalking-and-interstate-communications]] | CYB-FUP-1054 | 1 | absorbed | follow-on | 1 | 4.00 | 1 |
+| [[operation-missouri-man-sentenced-for-advertising-child-pornography-on-the-dark-web]] | CYB-FUP-1055 | 3 | absorbed | follow-on | 1 | 4.00 | 1 |
+| [[operation-moldovan-botnet-operator-indicted-for-role-in-conspiracy-to-unlawfully-access-thousands-of-infected-computers-]] | CYB-FUP-1056 | 3 | absorbed | follow-on | 1 | 4.00 | 1 |
+| [[operation-monroe-washington-man-sentenced-to-10-years-in-prison-for-role-as-right-hand-man-in-deadly-drug-distribution-r]] | CYB-FUP-1057 | 3 | absorbed | follow-on | 1 | 4.00 | 1 |
+| [[operation-monroeville-man-sentenced-to-24-months-for-purchasing-hundreds-of-stolen-log-in-credentials-off-the-darkweb]] | CYB-FUP-1058 | 3 | absorbed | follow-on | 1 | 4.00 | 1 |
+| [[operation-mountain-view-resident-charged-with-production-of-child-pornography-and-cyberstalking]] | CYB-FUP-1059 | 1 | absorbed | follow-on | 1 | 4.00 | 1 |
+| [[operation-us-v-aidan-curry-and-connor-brooke]] | CYB-FUP-106 | 1 | absorbed | follow-on | 1 | 4.00 | 1 |
+| [[operation-multiple-foreign-nationals-charged-in-connection-with-trickbot-malware-and-conti-ransomware-conspiracies-2]] | CYB-FUP-1060 | 3 | absorbed | follow-on | 1 | 4.00 | 1 |
+| [[operation-multiple-foreign-nationals-charged-in-connection-with-trickbot-malware-and-conti-ransomware-conspiracies]] | CYB-FUP-1061 | 3 | absorbed | follow-on | 1 | 4.00 | 1 |
+| [[operation-natchitoches-man-sentenced-for-possession-of-child-pornography]] | CYB-FUP-1062 | 3 | absorbed | follow-on | 1 | 4.00 | 1 |
+| [[operation-nevada-woman-sentenced-to-5-years-prison-for-hiring-hitman-on-dark-web-to-kill-her-ex-husband]] | CYB-FUP-1063 | 3 | absorbed | follow-on | 1 | 4.00 | 1 |
+| [[operation-new-jersey-man-sentenced-for-prescription-opioid-conspiracy]] | CYB-FUP-1064 | 3 | absorbed | follow-on | 1 | 4.00 | 1 |
+| [[operation-new-jersey-man-sentenced-to-prison-after-pleading-guilty-to-posting-restricted-information-to-social-media]] | CYB-FUP-1065 | 2 | absorbed | follow-on | 1 | 4.00 | 1 |
+| [[operation-newport-news-man-sentenced-for-prolific-card-swiping-operation]] | CYB-FUP-1066 | 3 | absorbed | follow-on | 1 | 4.00 | 1 |
+| [[operation-nicaraguan-national-pleads-guilty-to-conspiring-to-distribute-cocaine-and-marijuana-on-the-darknet]] | CYB-FUP-1067 | 1 | absorbed | follow-on | 1 | 4.00 | 1 |
+| [[operation-nigerian-citizen-extradited-from-the-u-k-arraigned-on-indictment-for-wire-fraud-involving-stolen-tax-informati]] | CYB-FUP-1068 | 3 | absorbed | follow-on | 1 | 4.00 | 1 |
+| [[operation-nigerian-national-pleads-guilty-to-1-25-million-business-email-compromise-scam-impacting-u-s-company]] | CYB-FUP-1069 | 3 | absorbed | follow-on | 1 | 4.00 | 1 |
+| [[operation-us-v-akshay-ram-kancharla]] | CYB-FUP-107 | 2 | absorbed | follow-on | 1 | 4.00 | 1 |
+| [[operation-nigerian-national-pleads-guilty-to-multi-million-dollar-cyber-fraud-scheme-targeting-tulsa-company-and-four-ot]] | CYB-FUP-1070 | 3 | absorbed | follow-on | 1 | 4.00 | 1 |
+| [[operation-norton-shores-dark-web-drug-dealer-sentenced-to-30-months-in-prison]] | CYB-FUP-1071 | 1 | absorbed | follow-on | 1 | 4.00 | 1 |
+| [[operation-notorious-hacker-sentenced-to-18-months-in-prison]] | CYB-FUP-1072 | 3 | absorbed | follow-on | 1 | 4.00 | 1 |
+| [[operation-nurse-admits-tampering-with-vials-of-fentanyl]] | CYB-FUP-1073 | 3 | absorbed | follow-on | 1 | 4.00 | 1 |
+| [[operation-nurse-charged-with-tampering-with-vials-of-fentanyl]] | CYB-FUP-1074 | 3 | absorbed | follow-on | 1 | 4.00 | 1 |
+| [[operation-o-c-and-houston-men-sentenced-to-decades-in-prison-for-supplying-fentanyl-and-other-drugs-sold-on-darknet-and-]] | CYB-FUP-1075 | 3 | absorbed | follow-on | 1 | 4.00 | 1 |
+| [[operation-ocala-man-sentenced-to-federal-prison-for-attempting-to-meet-a-13-year-old-to-engage-in-sexual-activity]] | CYB-FUP-1076 | 3 | absorbed | follow-on | 1 | 4.00 | 1 |
+| [[operation-odessa-man-indicted-for-stealing-more-than-250-000-in-ppp-funds]] | CYB-FUP-1077 | 3 | absorbed | follow-on | 1 | 4.00 | 1 |
+| [[operation-ohio-man-pleads-guilty-for-unlawfully-stealing-over-712-seized-bitcoin-subject-to-forfeiture-in-brothers-pendi]] | CYB-FUP-1078 | 3 | absorbed | follow-on | 1 | 4.00 | 1 |
+| [[operation-ohio-resident-pleads-guilty-to-operating-darknet-based-bitcoin-mixer-that-laundered-over-300-million]] | CYB-FUP-1079 | 2 | absorbed | follow-on | 1 | 4.00 | 1 |
+| [[operation-us-v-alex-ogando-olatunji-dawodu-and-luis-spencer]] | CYB-FUP-108 | 3 | absorbed | follow-on | 1 | 4.00 | 1 |
+| [[operation-oklahoma-man-sentenced-to-30-years-in-prison-for-sexually-exploiting-children]] | CYB-FUP-1080 | 3 | absorbed | follow-on | 1 | 4.00 | 1 |
+| [[operation-oldsmar-man-charged-with-producing-and-distributing-child-sexual-abuse-material]] | CYB-FUP-1081 | 3 | absorbed | follow-on | 1 | 4.00 | 1 |
+| [[operation-one-defendant-sentenced-to-prison-and-another-ordered-detained-pretrial-this-week-in-separate-cyberstalking-ca]] | CYB-FUP-1082 | 3 | absorbed | follow-on | 1 | 4.00 | 1 |
+| [[operation-orange-county-man-arrested-on-federal-stalking-charge-alleging-multiyear-harassment-campaign-against-prominent]] | CYB-FUP-1083 | 2 | absorbed | follow-on | 1 | 4.00 | 1 |
+| [[operation-orange-county-man-pleads-guilty-to-stalking-charge-for-harassment-campaign-against-professional-online-gamer]] | CYB-FUP-1084 | 2 | absorbed | follow-on | 1 | 4.00 | 1 |
+| [[operation-orange-county-man-sentenced-to-75-months-for-distributing-methamphetamine-and-selling-illegal-pills-on-the-dar]] | CYB-FUP-1085 | 3 | absorbed | follow-on | 1 | 4.00 | 1 |
+| [[operation-oregon-man-sentenced-to-federal-prison-for-attempting-to-sell-cocaine-purchased-from-the-dark-web]] | CYB-FUP-1086 | 3 | absorbed | follow-on | 1 | 4.00 | 1 |
+| [[operation-overland-park-men-indicted-for-investment-fraud-scheme]] | CYB-FUP-1087 | 3 | absorbed | follow-on | 1 | 4.00 | 1 |
+| [[operation-palm-beach-county-man-sentenced-for-cyberstalking-two-victims]] | CYB-FUP-1088 | 3 | absorbed | follow-on | 1 | 4.00 | 1 |
+| [[operation-parolee-indicted-for-illegal-possession-of-a-firearm]] | CYB-FUP-1089 | 3 | absorbed | follow-on | 1 | 4.00 | 1 |
+| [[operation-us-v-allen-d-lint]] | CYB-FUP-109 | 1 | absorbed | follow-on | 1 | 4.00 | 1 |
+| [[operation-pasadena-man-who-cyberstalked-and-made-threats-to-injure-rape-and-kill-sentenced-to-more-than-3-years-in-feder]] | CYB-FUP-1090 | 2 | absorbed | follow-on | 1 | 4.00 | 1 |
+| [[operation-pennsylvania-family-pleads-guilty-to-fentanyl-trafficking]] | CYB-FUP-1091 | 3 | absorbed | follow-on | 1 | 4.00 | 1 |
+| [[operation-philadelphia-man-sentenced-for-cyberstalking-and-wire-fraud]] | CYB-FUP-1092 | 3 | absorbed | follow-on | 1 | 4.00 | 1 |
+| [[operation-phobos-ransomware-administrator-extradited-from-south-korea-to-face-cybercrime-charges]] | CYB-FUP-1093 | 3 | absorbed | follow-on | 1 | 4.00 | 1 |
+| [[operation-phobos-ransomware-affiliates-arrested-in-coordinated-international-disruption]] | CYB-FUP-1094 | 3 | absorbed | follow-on | 1 | 4.00 | 1 |
+| [[operation-pilots-indicted-for-wire-fraud]] | CYB-FUP-1095 | 3 | absorbed | follow-on | 1 | 4.00 | 1 |
+| [[operation-pittsburgh-felon-sentenced-to-9-5-years-in-prison-for-identity-theft-and-firearms-crimes]] | CYB-FUP-1096 | 3 | absorbed | follow-on | 1 | 4.00 | 1 |
+| [[operation-pittsburgh-man-charged-with-threatening-communications-and-impeding-fbi-investigation]] | CYB-FUP-1097 | 2 | absorbed | follow-on | 1 | 4.00 | 1 |
+| [[operation-pittsburgh-man-indicted-on-cyberstalking-charge]] | CYB-FUP-1098 | 3 | absorbed | follow-on | 1 | 4.00 | 1 |
+| [[operation-pittsburgh-resident-and-darknet-drug-trafficker-sentenced-to-nearly-six-years-in-prison-on-federal-drug-traffi]] | CYB-FUP-1099 | 3 | absorbed | follow-on | 1 | 4.00 | 1 |
+| [[operation-us-v-ardit-kutleshi-and-jetmir-kutleshi]] | CYB-FUP-110 | 3 | absorbed | follow-on | 1 | 4.00 | 1 |
+| [[operation-pittsburgh-woman-pleads-guilty-to-credit-card-fraud-and-aggravated-identity-theft-charges-in-car-rental-scam]] | CYB-FUP-1100 | 3 | absorbed | follow-on | 1 | 4.00 | 1 |
+| [[operation-post-falls-man-indicted-for-sexual-exploitation-of-a-child-distribution-of-child-sexual-abuse-materials-and-po]] | CYB-FUP-1101 | 3 | absorbed | follow-on | 1 | 4.00 | 1 |
+| [[operation-previously-convicted-felon-sentenced-to-more-than-26-years-in-federal-prison-for-possessing-a-firearm-in-conne]] | CYB-FUP-1102 | 3 | absorbed | follow-on | 1 | 4.00 | 1 |
+| [[operation-prominent-global-cryptocurrency-exchange-kucoin-and-two-of-its-founders-criminally-charged-with-bank-secrecy-a]] | CYB-FUP-1103 | 3 | absorbed | follow-on | 1 | 4.00 | 1 |
+| [[operation-pulaski-county-man-indicted-for-cyber-intrusion-identity-theft-and-bank-fraud]] | CYB-FUP-1104 | 3 | absorbed | follow-on | 1 | 4.00 | 1 |
+| [[operation-pulaski-county-man-sentenced-for-cyber-intrusion-and-aggravated-identity-theft]] | CYB-FUP-1105 | 3 | absorbed | follow-on | 1 | 4.00 | 1 |
+| [[operation-queens-woman-charged-with-using-a-hitman-for-hire-website-on-the-dark-web-to-order-murder-of-her-lovers-wife]] | CYB-FUP-1106 | 3 | absorbed | follow-on | 1 | 4.00 | 1 |
+| [[operation-ransomware-administrator-charged-with-cybercrimes-for-deploying-lockergoga-nefilim-and-megacortex-ransomware-s]] | CYB-FUP-1107 | 3 | absorbed | follow-on | 1 | 4.00 | 1 |
+| [[operation-registered-sex-offender-admits-possessing-child-pornography]] | CYB-FUP-1108 | 3 | absorbed | follow-on | 1 | 4.00 | 1 |
+| [[operation-registered-sex-offender-charged-with-new-child-pornography-offense]] | CYB-FUP-1109 | 3 | absorbed | follow-on | 1 | 4.00 | 1 |
+| [[operation-us-v-brian-richard-farrell]] | CYB-FUP-111 | 1 | absorbed | follow-on | 1 | 4.00 | 1 |
+| [[operation-registered-sex-offender-sentenced-to-35-years-in-prison-for-exchanging-videos-images-of-child-torture-for-chil]] | CYB-FUP-1110 | 3 | absorbed | follow-on | 1 | 4.00 | 1 |
+| [[operation-renton-washington-man-who-worked-with-his-son-to-deal-drugs-and-launder-proceeds-sentenced-to-5-years-in-priso]] | CYB-FUP-1111 | 3 | absorbed | follow-on | 1 | 4.00 | 1 |
+| [[operation-repeat-drug-trafficker-caught-twice-with-kilos-of-drugs-and-firearms-sentenced-to-10-years-in-prison]] | CYB-FUP-1112 | 3 | absorbed | follow-on | 1 | 4.00 | 1 |
+| [[operation-repeat-offender-sentenced-to-10-years-for-possession-of-child-sexual-abuse-material]] | CYB-FUP-1113 | 3 | absorbed | follow-on | 1 | 4.00 | 1 |
+| [[operation-repeat-sex-offender-pleads-guilty-to-sexual-exploitation-of-a-child]] | CYB-FUP-1114 | 3 | absorbed | follow-on | 1 | 4.00 | 1 |
+| [[operation-revere-massachusetts-man-sentenced-in-nationwide-rideshare-and-delivery-account-fraud-scheme]] | CYB-FUP-1115 | 3 | absorbed | follow-on | 1 | 4.00 | 1 |
+| [[operation-rico-conspirator-convicted-at-trial]] | CYB-FUP-1116 | 3 | absorbed | follow-on | 1 | 4.00 | 1 |
+| [[operation-rico-conspirators-responsible-for-nationwide-computer-intrusions-and-tax-fraud-sentenced-to-federal-prison]] | CYB-FUP-1117 | 3 | absorbed | follow-on | 1 | 4.00 | 1 |
+| [[operation-robinson-twp-man-pleads-guilty-in-international-investigation-into-darknet-sale-of-child-exploitation-videos-a]] | CYB-FUP-1118 | 2 | absorbed | follow-on | 1 | 4.00 | 1 |
+| [[operation-romanian-woman-pleads-guilty-to-federal-charges-in-hacking-of-metropolitan-police-department-surveillance-came]] | CYB-FUP-1119 | 1 | absorbed | follow-on | 1 | 4.00 | 1 |
+| [[operation-us-v-bryan-connor-herrell]] | CYB-FUP-112 | 2 | absorbed | follow-on | 1 | 4.00 | 1 |
+| [[operation-russian-hacker-sentenced-to-over-7-years-in-prison-for-hacking-into-three-bay-area-tech-companies]] | CYB-FUP-1120 | 2 | absorbed | follow-on | 1 | 4.00 | 1 |
+| [[operation-russian-malware-developer-pleads-guilty-to-conspiracy-to-commit-wire-and-computer-fraud]] | CYB-FUP-1121 | 3 | absorbed | follow-on | 1 | 4.00 | 1 |
+| [[operation-russian-man-found-guilty-of-hacking-into-three-bay-area-tech-companies]] | CYB-FUP-1122 | 2 | absorbed | follow-on | 1 | 4.00 | 1 |
+| [[operation-russian-national-and-bitcoin-exchange-charged-in-21-count-indictment-for-operating-alleged-international-money]] | CYB-FUP-1123 | 1 | absorbed | follow-on | 1 | 4.00 | 1 |
+| [[operation-russian-national-charged-in-hacking-scheme-targeting-pittsburgh-national-golf-course]] | CYB-FUP-1125 | 1 | absorbed | follow-on | 1 | 4.00 | 1 |
+| [[operation-russian-national-charged-with-decade-long-series-of-hacking-and-bank-fraud-offenses-resulting-in-tens-of-milli-2]] | CYB-FUP-1126 | 1 | absorbed | follow-on | 1 | 4.00 | 1 |
+| [[operation-russian-national-charged-with-decade-long-series-of-hacking-and-bank-fraud-offenses-resulting-in-tens-of-milli]] | CYB-FUP-1127 | 1 | absorbed | follow-on | 1 | 4.00 | 1 |
+| [[operation-russian-national-sentenced-for-involvement-in-development-and-deployment-of-trickbot-malware]] | CYB-FUP-1128 | 3 | absorbed | follow-on | 1 | 4.00 | 1 |
+| [[operation-russian-nationals-charged-with-hacking-one-cryptocurrency-exchange-and-illicitly-operating-another]] | CYB-FUP-1129 | 3 | absorbed | follow-on | 1 | 4.00 | 1 |
+| [[operation-us-v-cheerish-noel-taylor-and-robert-james-fischer]] | CYB-FUP-113 | 3 | absorbed | follow-on | 1 | 4.00 | 1 |
+| [[operation-rydox-cybercrime-marketplace-shut-down-and-three-administrators-arrested]] | CYB-FUP-1130 | 3 | absorbed | follow-on | 1 | 4.00 | 1 |
+| [[operation-sacramento-man-indicted-for-drug-distribution-via-the-darknet]] | CYB-FUP-1131 | 2 | absorbed | follow-on | 1 | 4.00 | 1 |
+| [[operation-sacramento-sex-offender-pleads-guilty-to-distributing-child-pornography-on-the-dark-web]] | CYB-FUP-1132 | 3 | absorbed | follow-on | 1 | 4.00 | 1 |
+| [[operation-sacramento-woman-pleads-guilty-to-conspiracy-to-distribute-fentanyl]] | CYB-FUP-1133 | 3 | absorbed | follow-on | 1 | 4.00 | 1 |
+| [[operation-san-antonio-man-sentenced-for-january-2018-threats-made-against-players-and-fans-at-nfl-playoff-game-at-heinz-]] | CYB-FUP-1134 | 1 | absorbed | follow-on | 1 | 4.00 | 1 |
+| [[operation-san-francisco-man-sentenced-to-100-months-imprisonment-in-credit-card-fraud-and-identity-theft-case]] | CYB-FUP-1135 | 2 | absorbed | follow-on | 1 | 4.00 | 1 |
+| [[operation-san-francisco-man-sentenced-to-84-months-in-prison-for-possession-of-child-pornography]] | CYB-FUP-1136 | 1 | absorbed | follow-on | 1 | 4.00 | 1 |
+| [[operation-san-jose-man-sentenced-to-27-months-imprisonment-for-money-laundering]] | CYB-FUP-1137 | 1 | absorbed | follow-on | 1 | 4.00 | 1 |
+| [[operation-san-jose-resident-sentenced-to-a-year-in-custody-for-damaging-computers-of-silicon-valley-company]] | CYB-FUP-1138 | 1 | absorbed | follow-on | 1 | 4.00 | 1 |
+| [[operation-sanford-spam-king-wallace-sentenced-to-two-and-a-half-years-in-custody-for-spamming-facebook-users]] | CYB-FUP-1139 | 1 | absorbed | follow-on | 1 | 4.00 | 1 |
+| [[operation-us-v-dominick-jeffrey-aragon]] | CYB-FUP-114 | 3 | absorbed | follow-on | 1 | 4.00 | 1 |
+| [[operation-santa-clarita-man-found-guilty-of-producing-child-pornography]] | CYB-FUP-1140 | 3 | absorbed | follow-on | 1 | 4.00 | 1 |
+| [[operation-santa-clarita-man-who-led-organization-that-trafficked-drugs-to-darknet-customers-nationwide-sentenced-to-8-ye]] | CYB-FUP-1141 | 3 | absorbed | follow-on | 1 | 4.00 | 1 |
+| [[operation-seattle-man-sentenced-for-buying-630-000-counterfeit-pills-on-the-dark-web]] | CYB-FUP-1142 | 3 | absorbed | follow-on | 1 | 4.00 | 1 |
+| [[operation-second-canadian-resident-pleads-guilty-to-massive-covid-19-benefit-fraud-scheme]] | CYB-FUP-1143 | 3 | absorbed | follow-on | 1 | 4.00 | 1 |
+| [[operation-second-defendant-sentenced-to-7-years-in-prison-for-drug-trafficking-from-rvs-near-a-state-park]] | CYB-FUP-1144 | 3 | absorbed | follow-on | 1 | 4.00 | 1 |
+| [[operation-serbian-citizen-pleads-guilty-to-running-monopoly-drug-market-on-the-darknet]] | CYB-FUP-1145 | 3 | absorbed | follow-on | 1 | 4.00 | 1 |
+| [[operation-seven-georgians-indicted-for-operating-online-fentanyl-meth-marketplace]] | CYB-FUP-1146 | 3 | absorbed | follow-on | 1 | 4.00 | 1 |
+| [[operation-sex-offender-pleads-guilty-to-child-exploitation-offense-admits-violating-supervised-release]] | CYB-FUP-1147 | 3 | absorbed | follow-on | 1 | 4.00 | 1 |
+| [[operation-shiprock-man-indicted-on-federal-sexual-assault-and-kidnapping-charges]] | CYB-FUP-1148 | 3 | absorbed | follow-on | 1 | 4.00 | 1 |
+| [[operation-significant-member-of-a-whatcom-county-fentanyl-trafficking-ring-sentenced-to-4-years-in-prison]] | CYB-FUP-1149 | 3 | absorbed | follow-on | 1 | 4.00 | 1 |
+| [[operation-us-v-evan-jaime-hernandez]] | CYB-FUP-115 | 2 | absorbed | follow-on | 1 | 4.00 | 1 |
+| [[operation-silk-road-dark-web-fraud-defendant-sentenced-following-seizure-and-forfeiture-of-over-3-4-billion-in-cryptocur]] | CYB-FUP-1150 | 3 | absorbed | follow-on | 1 | 4.00 | 1 |
+| [[operation-skiatook-man-indicted-for-threatening-to-kill-federal-agents]] | CYB-FUP-1151 | 3 | absorbed | follow-on | 1 | 4.00 | 1 |
+| [[operation-slovakian-man-admits-aiding-darknet-market-that-sold-drugs-and-stolen-personal-information]] | CYB-FUP-1152 | 3 | absorbed | follow-on | 1 | 4.00 | 1 |
+| [[operation-socal-man-arrested-on-federal-charges-alleging-he-schemed-to-advertise-and-sell-hive-computer-intrusion-malwar]] | CYB-FUP-1153 | 3 | absorbed | follow-on | 1 | 4.00 | 1 |
+| [[operation-south-carolina-man-charged-with-interstate-stalking-and-aggravated-id-theft-targeting-pennsylvania-resident]] | CYB-FUP-1154 | 1 | absorbed | follow-on | 1 | 4.00 | 1 |
+| [[operation-south-carolina-man-sentenced-to-30-months-in-prison-for-interstate-stalking]] | CYB-FUP-1155 | 1 | absorbed | follow-on | 1 | 4.00 | 1 |
+| [[operation-southern-california-man-pleads-guilty-to-fentanyl-and-methamphetamine-distribution-conspiracy]] | CYB-FUP-1156 | 3 | absorbed | follow-on | 1 | 4.00 | 1 |
+| [[operation-southern-california-woman-pleads-guilty-to-fentanyl-distribution-and-money-laundering-conspiracy]] | CYB-FUP-1157 | 3 | absorbed | follow-on | 1 | 4.00 | 1 |
+| [[operation-ssndob-marketplace-administrator-pleads-guilty-to-charges-related-to-his-operation-of-a-series-of-websites-tha]] | CYB-FUP-1158 | 3 | absorbed | follow-on | 1 | 4.00 | 1 |
+| [[operation-st-augustine-serial-child-molester-convicted-of-hacking-jumbotron-child-exploitation-offenses-sex-offender-reg]] | CYB-FUP-1159 | 3 | absorbed | follow-on | 1 | 4.00 | 1 |
+| [[operation-us-v-fatukala-yamamoto-mina-and-hollis]] | CYB-FUP-116 | 3 | absorbed | follow-on | 1 | 4.00 | 1 |
+| [[operation-st-lawrence-county-man-pleads-guilty-to-receiving-and-possessing-child-pornography]] | CYB-FUP-1160 | 3 | absorbed | follow-on | 1 | 4.00 | 1 |
+| [[operation-st-louis-man-indicted-on-cyberstalking-charges]] | CYB-FUP-1161 | 2 | absorbed | follow-on | 1 | 4.00 | 1 |
+| [[operation-st-louis-man-sentenced-to-71-months-for-making-rape-threats-to-five-women]] | CYB-FUP-1162 | 3 | absorbed | follow-on | 1 | 4.00 | 1 |
+| [[operation-stanwood-washington-repeat-offender-sentenced-to-10-years-in-prison-for-selling-heroin-and-fentanyl-over-the-d]] | CYB-FUP-1163 | 3 | absorbed | follow-on | 1 | 4.00 | 1 |
+| [[operation-sturgis-man-charged-with-selling-counterfeit-drugs-on-dark-web]] | CYB-FUP-1164 | 3 | absorbed | follow-on | 1 | 4.00 | 1 |
+| [[operation-sturgis-man-sentenced-to-70-months-for-selling-drugs-on-dark-web]] | CYB-FUP-1165 | 3 | absorbed | follow-on | 1 | 4.00 | 1 |
+| [[operation-sumter-man-pleads-guilty-to-destruction-of-an-energy-facility-and-possession-of-child-sexual-abuse-material]] | CYB-FUP-1166 | 3 | absorbed | follow-on | 1 | 4.00 | 1 |
+| [[operation-tacoma-man-who-persisted-in-drug-trafficking-despite-being-stopped-with-more-than-25-pounds-of-meth-sentenced-]] | CYB-FUP-1167 | 3 | absorbed | follow-on | 1 | 4.00 | 1 |
+| [[operation-tacoma-man-with-lengthy-criminal-history-pleads-guilty-to-gun-and-drug-charges]] | CYB-FUP-1168 | 3 | absorbed | follow-on | 1 | 4.00 | 1 |
+| [[operation-tattoo-shop-owner-sentenced-to-more-than-7-years-in-prison-for-distributing-heroin-and-methamphetamine-on-the-]] | CYB-FUP-1169 | 2 | absorbed | follow-on | 1 | 4.00 | 1 |
+| [[operation-us-v-george-sotiris-vlastos]] | CYB-FUP-117 | 3 | absorbed | follow-on | 1 | 4.00 | 1 |
+| [[operation-texas-business-executive-sentenced-to-prison-for-illegally-selling-oxycodone-on-silk-road]] | CYB-FUP-1170 | 1 | absorbed | follow-on | 1 | 4.00 | 1 |
+| [[operation-texas-man-sentenced-to-15-years-in-prison-for-advertising-child-pornography]] | CYB-FUP-1171 | 3 | absorbed | follow-on | 1 | 4.00 | 1 |
+| [[operation-theodore-man-sentenced-to-prison-for-fraud-schemes-and-aggravated-identity-theft]] | CYB-FUP-1172 | 3 | absorbed | follow-on | 1 | 4.00 | 1 |
+| [[operation-third-defendant-pleads-guilty-to-hacking-fantasy-sports-and-betting-website]] | CYB-FUP-1173 | 3 | absorbed | follow-on | 1 | 4.00 | 1 |
+| [[operation-thirteen-people-indicted-in-drug-trafficking-conspiracy-involving-fentanyl-methamphetamine-and-cocaine]] | CYB-FUP-1174 | 3 | absorbed | follow-on | 1 | 4.00 | 1 |
+| [[operation-thirty-six-defendants-indicted-for-alleged-roles-in-transnational-criminal-organization-responsible-for-more-t]] | CYB-FUP-1175 | 1 | absorbed | follow-on | 1 | 4.00 | 1 |
+| [[operation-three-darknet-fentanyl-vendors-sentenced-to-over-20-years-in-prison]] | CYB-FUP-1176 | 3 | absorbed | follow-on | 1 | 4.00 | 1 |
+| [[operation-three-defendants-in-significant-gun-and-drug-involved-cases-sentenced-to-prison]] | CYB-FUP-1177 | 3 | absorbed | follow-on | 1 | 4.00 | 1 |
+| [[operation-three-former-department-of-homeland-security-employees-sentenced-in-scheme-to-defraud-the-united-states]] | CYB-FUP-1178 | 3 | absorbed | follow-on | 1 | 4.00 | 1 |
+| [[operation-three-individuals-arrested-for-involvement-in-darknet-narcotics-trafficking-involving-pills-pressed-with-fenta]] | CYB-FUP-1179 | 2 | absorbed | follow-on | 1 | 4.00 | 1 |
+| [[operation-us-v-glib-ivanov-tolpintsev]] | CYB-FUP-118 | 2 | absorbed | follow-on | 1 | 4.00 | 1 |
+| [[operation-three-individuals-sentenced-in-darknet-narcotics-trafficking-conspiracy-involving-distribution-of-pills-presse]] | CYB-FUP-1180 | 3 | absorbed | follow-on | 1 | 4.00 | 1 |
+| [[operation-three-members-of-goznym-cybercrime-network-sentenced-in-parallel-multi-national-prosecutions-in-pittsburgh-and]] | CYB-FUP-1181 | 1 | absorbed | follow-on | 1 | 4.00 | 1 |
+| [[operation-three-people-sentenced-to-prison-for-distributing-methamphetamine-fentanyl-and-nitazenes]] | CYB-FUP-1182 | 3 | absorbed | follow-on | 1 | 4.00 | 1 |
+| [[operation-three-snohomish-county-men-indicted-for-drug-trafficking-conspiracy-involving-cocaine-fentanyl-and-firearms]] | CYB-FUP-1183 | 3 | absorbed | follow-on | 1 | 4.00 | 1 |
+| [[operation-thurston-county-man-caught-twice-with-drugs-and-firearms-sentenced-to-7-years-in-prison]] | CYB-FUP-1184 | 3 | absorbed | follow-on | 1 | 4.00 | 1 |
+| [[operation-tohatchi-man-indicted-on-federal-assault-charges]] | CYB-FUP-1185 | 3 | absorbed | follow-on | 1 | 4.00 | 1 |
+| [[operation-tulsa-man-sentenced-to-30-months-in-prison-for-sending-emails-threatening-to-kill-president-biden]] | CYB-FUP-1186 | 2 | absorbed | follow-on | 1 | 4.00 | 1 |
+| [[operation-tulsa-man-who-fled-from-smuggling-charge-pleads-guilty]] | CYB-FUP-1187 | 1 | absorbed | follow-on | 1 | 4.00 | 1 |
+| [[operation-two-everett-residents-charged-federally-for-drug-distribution-activities-involving-multiple-kilos-of-fentanyl-]] | CYB-FUP-1188 | 3 | absorbed | follow-on | 1 | 4.00 | 1 |
+| [[operation-two-indicted-accused-of-harboring-aliens]] | CYB-FUP-1189 | 3 | absorbed | follow-on | 1 | 4.00 | 1 |
+| [[operation-us-v-gregory-castillo-rosario-joseph-james-vasquez-joshua-william-vas]] | CYB-FUP-119 | 3 | absorbed | follow-on | 1 | 4.00 | 1 |
+| [[operation-two-individuals-sentenced-for-conspiracy-charges-involving-the-sale-of-fraudulent-identity-documents-on-the-da]] | CYB-FUP-1190 | 2 | absorbed | follow-on | 1 | 4.00 | 1 |
+| [[operation-two-members-of-multi-state-drug-trafficking-rings-linked-to-aryan-prison-gangs-sentenced-to-lengthy-prison-ter]] | CYB-FUP-1191 | 3 | absorbed | follow-on | 1 | 4.00 | 1 |
+| [[operation-two-men-charged-for-breaching-federal-law-enforcement-database-and-posing-as-police-officers-to-defraud-social]] | CYB-FUP-1192 | 3 | absorbed | follow-on | 1 | 4.00 | 1 |
+| [[operation-two-romanian-suspects-charged-with-hacking-of-metropolitan-police-department-surveillance-cameras-in-connectio]] | CYB-FUP-1193 | 1 | absorbed | follow-on | 1 | 4.00 | 1 |
+| [[operation-two-southern-california-men-who-supplied-fentanyl-sold-to-darknet-customers-in-all-50-states-sentenced-to-fede]] | CYB-FUP-1194 | 3 | absorbed | follow-on | 1 | 4.00 | 1 |
+| [[operation-two-sudanese-nationals-indicted-for-alleged-role-in-anonymous-sudan-cyberattacks-on-hospitals-government-facil]] | CYB-FUP-1195 | 3 | absorbed | follow-on | 1 | 4.00 | 1 |
+| [[operation-two-tulsans-sentenced-for-running-illegal-dark-web-cryptocurrency-pharmacy]] | CYB-FUP-1196 | 3 | absorbed | follow-on | 1 | 4.00 | 1 |
+| [[operation-u-k-citizen-sentenced-to-five-years-for-cybercrime-offenses]] | CYB-FUP-1197 | 3 | absorbed | follow-on | 1 | 4.00 | 1 |
+| [[operation-u-k-citizen-sentenced-to-five-years-in-prison-for-cybercrime-offenses]] | CYB-FUP-1198 | 3 | absorbed | follow-on | 1 | 4.00 | 1 |
+| [[operation-u-s-based-conspirators-sentenced-to-prison-for-international-tax-scheme]] | CYB-FUP-1199 | 3 | absorbed | follow-on | 1 | 4.00 | 1 |
+| [[operation-us-v-hugh-brian-haney]] | CYB-FUP-120 | 2 | absorbed | follow-on | 1 | 4.00 | 1 |
+| [[operation-ukrainian-cyber-criminal-extradited-for-decrypting-the-credentials-of-thousands-of-computers-across-the-world-]] | CYB-FUP-1200 | 2 | absorbed | follow-on | 1 | 4.00 | 1 |
+| [[operation-union-county-man-admits-to-possessing-child-pornography]] | CYB-FUP-1201 | 2 | absorbed | follow-on | 1 | 4.00 | 1 |
+| [[operation-united-kingdom-national-pleads-guilty-to-hacking-securities-fraud-and-other-cybercrimes]] | CYB-FUP-1202 | 3 | absorbed | follow-on | 1 | 4.00 | 1 |
+| [[operation-university-student-indicted-for-initiating-distributed-denial-of-service-attacks-on-bay-area-computers]] | CYB-FUP-1203 | 1 | absorbed | follow-on | 1 | 4.00 | 1 |
+| [[operation-utah-man-charged-with-murder-for-hire-scheme]] | CYB-FUP-1204 | 2 | absorbed | follow-on | 1 | 4.00 | 1 |
+| [[operation-utah-man-pleads-guilty-to-murder-for-hire-scheme]] | CYB-FUP-1205 | 3 | absorbed | follow-on | 1 | 4.00 | 1 |
+| [[operation-utah-man-sentenced-to-seven-years-in-prison-for-murder-for-hire-scheme]] | CYB-FUP-1206 | 3 | absorbed | follow-on | 1 | 4.00 | 1 |
+| [[operation-vallejo-man-indicted-for-illegal-firearm-possession]] | CYB-FUP-1207 | 3 | absorbed | follow-on | 1 | 4.00 | 1 |
+| [[operation-violent-level-3-sex-offender-from-harwich-sentenced-to-decade-in-prison-for-child-pornography-offense]] | CYB-FUP-1208 | 3 | absorbed | follow-on | 1 | 4.00 | 1 |
+| [[operation-virginia-man-sentenced-to-federal-prison-for-conspiring-to-impersonate-federal-law-enforcement-officer]] | CYB-FUP-1209 | 3 | absorbed | follow-on | 1 | 4.00 | 1 |
+| [[operation-us-v-jose-rodolfo-barraza-flores]] | CYB-FUP-121 | 2 | absorbed | follow-on | 1 | 4.00 | 1 |
+| [[operation-virginia-woman-sentenced-to-prison-for-fraudulently-ordering-cell-phones-on-behalf-of-her-non-profit-employer-]] | CYB-FUP-1210 | 3 | absorbed | follow-on | 1 | 4.00 | 1 |
+| [[operation-washington-state-man-pleads-guilty-to-advertising-child-sexual-abuse-material]] | CYB-FUP-1211 | 3 | absorbed | follow-on | 1 | 4.00 | 1 |
+| [[operation-webster-man-sentenced-to-27-years-for-distributing-receiving-and-possessing-child-sexual-abuse-material]] | CYB-FUP-1212 | 3 | absorbed | follow-on | 1 | 4.00 | 1 |
+| [[operation-west-chester-drug-dealer-pleads-guilty-to-purchasing-hundreds-of-deadly-fentanyl-pills-disguised-as-oxycodone]] | CYB-FUP-1213 | 2 | absorbed | follow-on | 1 | 4.00 | 1 |
+| [[operation-wisconsin-man-charged-with-hacking-fantasy-sports-and-betting-website]] | CYB-FUP-1214 | 3 | absorbed | follow-on | 1 | 4.00 | 1 |
+| [[operation-wisconsin-man-pleads-guilty-to-hacking-fantasy-sports-and-betting-website]] | CYB-FUP-1215 | 3 | absorbed | follow-on | 1 | 4.00 | 1 |
+| [[operation-wisconsin-man-sentenced-to-prison-for-hacking-fantasy-sports-and-betting-website]] | CYB-FUP-1216 | 3 | absorbed | follow-on | 1 | 4.00 | 1 |
+| [[operation-woman-accused-of-murder-for-hire-admits-to-using-the-dark-web-to-carry-out-the-crime]] | CYB-FUP-1217 | 3 | absorbed | follow-on | 1 | 4.00 | 1 |
+| [[operation-woman-sentenced-to-9-years-in-dark-web-murder-for-hire-plot]] | CYB-FUP-1218 | 3 | absorbed | follow-on | 1 | 4.00 | 1 |
+| [[operation-woman-who-used-the-dark-web-to-commit-a-murder-for-hire-to-kill-an-ex-boyfriends-new-girlfriend-is-sentenced-t]] | CYB-FUP-1219 | 3 | absorbed | follow-on | 1 | 4.00 | 1 |
+| [[operation-us-v-khlari-sirotkin-and-sean-deaver]] | CYB-FUP-122 | 3 | absorbed | follow-on | 1 | 4.00 | 1 |
+| [[operation-woodbridge-man-convicted-again-for-possessing-child-sexual-abuse-material]] | CYB-FUP-1220 | 3 | absorbed | follow-on | 1 | 4.00 | 1 |
+| [[operation-woodmere-man-pleads-guilty-to-obtaining-stolen-credit-card-information-and-using-it-to-purchase-gasoline]] | CYB-FUP-1221 | 2 | absorbed | follow-on | 1 | 4.00 | 1 |
+| [[operation-wyandotte-county-district-court-bookkeepers-indicted-in-900-000-wire-fraud-scheme]] | CYB-FUP-1222 | 3 | absorbed | follow-on | 1 | 4.00 | 1 |
+| [[operation-yevgeniy-nikulin-indicted-for-hacking-linkedin-dropbox-and-formspring]] | CYB-FUP-1223 | 1 | absorbed | follow-on | 1 | 4.00 | 1 |
+| [[operation-zuni-man-indicted-for-federal-charges-in-triple-homicide]] | CYB-FUP-1224 | 3 | absorbed | follow-on | 1 | 4.00 | 1 |
+| [[operation-us-v-michael-carlton-paiva]] | CYB-FUP-123 | 1 | absorbed | follow-on | 1 | 4.00 | 1 |
+| [[operation-us-v-olufemi-odedeyi-and-ibrahim-davies]] | CYB-FUP-124 | 2 | absorbed | follow-on | 1 | 4.00 | 1 |
+| [[operation-us-v-ruslan-astamirov-and-mikhail-vasiliev]] | CYB-FUP-125 | 3 | absorbed | follow-on | 1 | 4.00 | 1 |
+| [[operation-us-v-solomon-ekunke-okpe-and-johnson-uke-obogo]] | CYB-FUP-126 | 3 | absorbed | follow-on | 1 | 4.00 | 1 |
+| [[operation-us-v-t-andre-mcneely]] | CYB-FUP-127 | 3 | absorbed | follow-on | 1 | 4.00 | 1 |
+| [[operation-us-v-veronica-dittman-rick-schiffner-and-devin-langer]] | CYB-FUP-128 | 3 | absorbed | follow-on | 1 | 4.00 | 1 |
+| [[operation-us-v-ulbricht]] | CYB-FUP-129 | 1 | absorbed | follow-on | 1 | 4.00 | 1 |
+| [[operation-greene-county-man-indicted-cyberstalking-and-interstate-threats]] | CYB-FUP-131 | 2 | absorbed | follow-on | 1 | 4.00 | 1 |
+| [[operation-illinois-man-sentenced-2-years-federal-prison-operating-subscription-based-computer]] | CYB-FUP-132 | 2 | absorbed | follow-on | 1 | 4.00 | 1 |
+| [[operation-orange-county-man-pleads-guilty-stalking-charge-harassment-campaign-against]] | CYB-FUP-133 | 2 | absorbed | follow-on | 1 | 4.00 | 1 |
+| [[operation-pittsburgh-man-charged-threatening-communications-and-impeding-fbi-investigation-1]] | CYB-FUP-134 | 2 | absorbed | follow-on | 1 | 4.00 | 1 |
+| [[operation-us-v-alex-scott-roberts]] | CYB-FUP-135 | 3 | absorbed | follow-on | 1 | 4.00 | 1 |
+| [[operation-us-v-amir-hossein-golshan]] | CYB-FUP-136 | 3 | absorbed | follow-on | 1 | 4.00 | 1 |
+| [[operation-us-v-amitoj-kapoor-and-siddharth-lillaney]] | CYB-FUP-137 | 3 | absorbed | follow-on | 1 | 4.00 | 1 |
+| [[operation-us-v-anthony-bellisario]] | CYB-FUP-138 | 2 | absorbed | follow-on | 1 | 4.00 | 1 |
+| [[operation-us-v-anthony-joseph-carlson]] | CYB-FUP-139 | 2 | absorbed | follow-on | 1 | 4.00 | 1 |
+| [[operation-us-v-antonio-barner]] | CYB-FUP-140 | 2 | absorbed | follow-on | 1 | 4.00 | 1 |
+| [[operation-us-v-argishti-khudaverdyan-and-eagle-rock]] | CYB-FUP-141 | 2 | absorbed | follow-on | 1 | 4.00 | 1 |
+| [[operation-us-v-argishti-khudaverdyan]] | CYB-FUP-142 | 2 | absorbed | follow-on | 1 | 4.00 | 1 |
+| [[operation-us-v-celeste-santifer]] | CYB-FUP-143 | 3 | absorbed | follow-on | 1 | 4.00 | 1 |
+| [[operation-us-v-conor-brian-fitzpatrick]] | CYB-FUP-144 | 3 | absorbed | follow-on | 1 | 4.00 | 1 |
+| [[operation-us-v-daniel-marsico]] | CYB-FUP-145 | 3 | absorbed | follow-on | 1 | 4.00 | 1 |
+| [[operation-us-v-david-brian-pate-and-jose-luis-fung-hou]] | CYB-FUP-146 | 2 | absorbed | follow-on | 1 | 4.00 | 1 |
+| [[operation-us-v-donjuan-murphy]] | CYB-FUP-147 | 2 | absorbed | follow-on | 1 | 4.00 | 1 |
+| [[operation-us-v-eric-caleb-carlson]] | CYB-FUP-148 | 3 | absorbed | follow-on | 1 | 4.00 | 1 |
+| [[operation-us-v-eric-council]] | CYB-FUP-149 | 3 | absorbed | follow-on | 1 | 4.00 | 1 |
+| [[operation-us-v-eric-scholl]] | CYB-FUP-150 | 3 | absorbed | follow-on | 1 | 4.00 | 1 |
+| [[operation-us-v-evan-baltierra]] | CYB-FUP-151 | 2 | absorbed | follow-on | 1 | 4.00 | 1 |
+| [[operation-us-v-evan-hayes]] | CYB-FUP-152 | 2 | absorbed | follow-on | 1 | 4.00 | 1 |
+| [[operation-us-v-evan-tangeman]] | CYB-FUP-153 | 3 | absorbed | follow-on | 1 | 4.00 | 1 |
+| [[operation-us-v-evgenii-ptitsyn]] | CYB-FUP-154 | 3 | absorbed | follow-on | 1 | 4.00 | 1 |
+| [[operation-us-v-gary-james-harmon]] | CYB-FUP-155 | 3 | absorbed | follow-on | 1 | 4.00 | 1 |
+| [[operation-us-v-hadja-franklin]] | CYB-FUP-156 | 3 | absorbed | follow-on | 1 | 4.00 | 1 |
+| [[operation-us-v-haider-ali-and-arian-taherzadeh]] | CYB-FUP-157 | 3 | absorbed | follow-on | 1 | 4.00 | 1 |
+| [[operation-us-v-henry-konah-koffie]] | CYB-FUP-158 | 3 | absorbed | follow-on | 1 | 4.00 | 1 |
+| [[operation-us-v-hussein-kadhim-abood-khalaf]] | CYB-FUP-159 | 2 | absorbed | follow-on | 1 | 4.00 | 1 |
+| [[operation-us-v-ilya-lichtenstein-heather-morgan-and-new-york-city]] | CYB-FUP-160 | 3 | absorbed | follow-on | 1 | 4.00 | 1 |
+| [[operation-us-v-jacob-blair]] | CYB-FUP-161 | 3 | absorbed | follow-on | 1 | 4.00 | 1 |
+| [[operation-us-v-james-campbell-cardwell]] | CYB-FUP-162 | 2 | absorbed | follow-on | 1 | 4.00 | 1 |
+| [[operation-us-v-johao-miguel-chavarri-and-camp-pendleton]] | CYB-FUP-163 | 2 | absorbed | follow-on | 1 | 4.00 | 1 |
+| [[operation-us-v-johao-miguel-chavarri]] | CYB-FUP-164 | 2 | absorbed | follow-on | 1 | 4.00 | 1 |
+| [[operation-us-v-jonathan-patrick-turrentine]] | CYB-FUP-165 | 2 | absorbed | follow-on | 1 | 4.00 | 1 |
+| [[operation-us-v-jorge-antonio-escobar]] | CYB-FUP-166 | 2 | absorbed | follow-on | 1 | 4.00 | 1 |
+| [[operation-us-v-kaleb-levicky]] | CYB-FUP-167 | 2 | absorbed | follow-on | 1 | 4.00 | 1 |
+| [[operation-us-v-karen-kowkabi]] | CYB-FUP-168 | 3 | absorbed | follow-on | 1 | 4.00 | 1 |
+| [[operation-us-v-kevin-olando-ombisi]] | CYB-FUP-169 | 3 | absorbed | follow-on | 1 | 4.00 | 1 |
+| [[operation-us-v-khaled-miah]] | CYB-FUP-170 | 2 | absorbed | follow-on | 1 | 4.00 | 1 |
+| [[operation-us-v-larry-dean-harmon]] | CYB-FUP-171 | 2 | absorbed | follow-on | 1 | 4.00 | 1 |
+| [[operation-us-v-lu-zhang-and-justin-walker]] | CYB-FUP-172 | 3 | absorbed | follow-on | 1 | 4.00 | 1 |
+| [[operation-us-v-matthew-christian-locher]] | CYB-FUP-173 | 2 | absorbed | follow-on | 1 | 4.00 | 1 |
+| [[operation-us-v-matthew-gatrel]] | CYB-FUP-174 | 2 | absorbed | follow-on | 1 | 4.00 | 1 |
+| [[operation-us-v-olatunji-dawodu-and-alex-ogando]] | CYB-FUP-175 | 2 | absorbed | follow-on | 1 | 4.00 | 1 |
+| [[operation-us-v-onwuchekwa-nnanna-kalu]] | CYB-FUP-176 | 3 | absorbed | follow-on | 1 | 4.00 | 1 |
+| [[operation-us-v-rajiv-srinivasan-and-michael-ta]] | CYB-FUP-177 | 2 | absorbed | follow-on | 1 | 4.00 | 1 |
+| [[operation-us-v-raymond-glover]] | CYB-FUP-178 | 3 | absorbed | follow-on | 1 | 4.00 | 1 |
+| [[operation-us-v-robert-merkle]] | CYB-FUP-179 | 2 | absorbed | follow-on | 1 | 4.00 | 1 |
+| [[operation-us-v-roman-sterlingov]] | CYB-FUP-180 | 2 | absorbed | follow-on | 1 | 4.00 | 1 |
+| [[operation-us-v-ryan-menkins]] | CYB-FUP-181 | 2 | absorbed | follow-on | 1 | 4.00 | 1 |
+| [[operation-us-v-samuel-trelawney-hughes]] | CYB-FUP-182 | 2 | absorbed | follow-on | 1 | 4.00 | 1 |
+| [[operation-us-v-scott-quinn-berkett]] | CYB-FUP-183 | 2 | absorbed | follow-on | 1 | 4.00 | 1 |
+| [[operation-us-v-steven-ehizojie-oboite-eric-xavier-bechet-jabari-ayinde-cooper-rashad-cortese-kinloch]] | CYB-FUP-184 | 3 | absorbed | follow-on | 1 | 4.00 | 1 |
+| [[operation-us-v-thiago-de-souza-prado]] | CYB-FUP-185 | 3 | absorbed | follow-on | 1 | 4.00 | 1 |
+| [[operation-us-v-yapo-jean-franck-ngbichi]] | CYB-FUP-186 | 3 | absorbed | follow-on | 1 | 4.00 | 1 |
+| [[operation-woodbridge-man-convicted-again-possessing-child-sexual-abuse-material]] | CYB-FUP-187 | 3 | absorbed | follow-on | 1 | 4.00 | 1 |
+| [[operation-ceres-man-pleads-guilty-cyberstalking-two-victims]] | CYB-FUP-190 | 3 | absorbed | follow-on | 1 | 4.00 | 1 |
+| [[operation-deepdotweb-administrator-pleads-guilty-money-laundering-conspiracy]] | CYB-FUP-191 | 2 | absorbed | follow-on | 1 | 4.00 | 1 |
+| [[operation-florida-man-pleads-guilty-production-images-child-sexual-abuse-and-traveling-sexually]] | CYB-FUP-192 | 3 | absorbed | follow-on | 1 | 4.00 | 1 |
+| [[operation-kentucky-man-pleads-guilty-advertising-child-pornography]] | CYB-FUP-193 | 3 | absorbed | follow-on | 1 | 4.00 | 1 |
+| [[operation-man-sentenced-stalking-and-threatening-congressman-kevin-hern-and-his-wife]] | CYB-FUP-194 | 3 | absorbed | follow-on | 1 | 4.00 | 1 |
+| [[operation-massachusetts-man-pleads-guilty-knowingly-concealing-source-material-support-or]] | CYB-FUP-195 | 3 | absorbed | follow-on | 1 | 4.00 | 1 |
+| [[operation-nurse-admits-tampering-vials-fentanyl]] | CYB-FUP-196 | 3 | absorbed | follow-on | 1 | 4.00 | 1 |
+| [[operation-pulaski-county-man-sentenced-cyber-intrusion-and-aggravated-identity-theft]] | CYB-FUP-197 | 3 | absorbed | follow-on | 1 | 4.00 | 1 |
+| [[operation-registered-sex-offender-admits-possessing-child-pornography-0]] | CYB-FUP-198 | 3 | absorbed | follow-on | 1 | 4.00 | 1 |
+| [[operation-siemens-contract-employee-intentionally-damaged-computers-planting-logic-bombs-programs]] | CYB-FUP-199 | 1 | absorbed | follow-on | 1 | 4.00 | 1 |
+| [[operation-slovakian-man-admits-aiding-darknet-market-sold-drugs-and-stolen-personal-information]] | CYB-FUP-200 | 3 | absorbed | follow-on | 1 | 4.00 | 1 |
+| [[operation-us-charges-dual-russian-and-israeli-national-developer-lockbit-ransomware-group]] | CYB-FUP-201 | 3 | absorbed | follow-on | 1 | 4.00 | 1 |
+| [[operation-us-v-aaron-michael-thomas]] | CYB-FUP-202 | 3 | absorbed | follow-on | 1 | 4.00 | 1 |
+| [[operation-us-v-adam-sloan]] | CYB-FUP-203 | 3 | absorbed | follow-on | 1 | 4.00 | 1 |
+| [[operation-us-v-ahmed-salah-yousif-omer-and-alaa-salah-yusuuf-omer]] | CYB-FUP-204 | 3 | absorbed | follow-on | 1 | 4.00 | 1 |
+| [[operation-us-v-alan-bill]] | CYB-FUP-205 | 3 | absorbed | follow-on | 1 | 4.00 | 1 |
+| [[operation-us-v-aleksandr-stepanov-and-artem-aleksandrovich-kalinkin]] | CYB-FUP-206 | 3 | absorbed | follow-on | 1 | 4.00 | 1 |
+| [[operation-us-v-alexander-aiello]] | CYB-FUP-207 | 3 | absorbed | follow-on | 1 | 4.00 | 1 |
+| [[operation-us-v-alexander-james-rosell]] | CYB-FUP-208 | 3 | absorbed | follow-on | 1 | 4.00 | 1 |
+| [[operation-us-v-alexander-vinnik]] | CYB-FUP-209 | 2 | absorbed | follow-on | 1 | 4.00 | 1 |
+| [[operation-us-v-alexey-bilyuchenko-and-aleksandr-verner]] | CYB-FUP-210 | 3 | absorbed | follow-on | 1 | 4.00 | 1 |
+| [[operation-us-v-alexey-viktorovich-chertkov-kirill-vladimirovich-morozov-aleksandr-aleksandrovich-shi]] | CYB-FUP-211 | 3 | absorbed | follow-on | 1 | 4.00 | 1 |
+| [[operation-us-v-andrew-charles-nicholls]] | CYB-FUP-212 | 3 | absorbed | follow-on | 1 | 4.00 | 1 |
+| [[operation-us-v-andrew-shenkosky]] | CYB-FUP-213 | 3 | absorbed | follow-on | 1 | 4.00 | 1 |
+| [[operation-us-v-andy-peter-vongdala]] | CYB-FUP-214 | 3 | absorbed | follow-on | 1 | 4.00 | 1 |
+| [[operation-us-v-annie-nicole-ritenour]] | CYB-FUP-215 | 2 | absorbed | follow-on | 1 | 4.00 | 1 |
+| [[operation-us-v-anthony-dalton-wolff]] | CYB-FUP-216 | 3 | absorbed | follow-on | 1 | 4.00 | 1 |
+| [[operation-us-v-anthony-raymond-dodd]] | CYB-FUP-217 | 3 | absorbed | follow-on | 1 | 4.00 | 1 |
+| [[operation-us-v-anurag-pramod-murarka]] | CYB-FUP-218 | 3 | absorbed | follow-on | 1 | 4.00 | 1 |
+| [[operation-us-v-arbi-setaghaian-sangbarani]] | CYB-FUP-219 | 3 | absorbed | follow-on | 1 | 4.00 | 1 |
+| [[operation-us-v-ashton-connor-garcia]] | CYB-FUP-220 | 3 | absorbed | follow-on | 1 | 4.00 | 1 |
+| [[operation-us-v-austin-genay]] | CYB-FUP-221 | 3 | absorbed | follow-on | 1 | 4.00 | 1 |
+| [[operation-us-v-bradley-lefebvre]] | CYB-FUP-222 | 2 | absorbed | follow-on | 1 | 4.00 | 1 |
+| [[operation-us-v-brandon-spann]] | CYB-FUP-223 | 2 | absorbed | follow-on | 1 | 4.00 | 1 |
+| [[operation-us-v-chandler-bennett]] | CYB-FUP-224 | 3 | absorbed | follow-on | 1 | 4.00 | 1 |
+| [[operation-us-v-chris-ruediger]] | CYB-FUP-225 | 3 | absorbed | follow-on | 1 | 4.00 | 1 |
+| [[operation-us-v-christerfer-frick]] | CYB-FUP-226 | 3 | absorbed | follow-on | 1 | 4.00 | 1 |
+| [[operation-us-v-christopher-aaron-stanfield]] | CYB-FUP-227 | 3 | absorbed | follow-on | 1 | 4.00 | 1 |
+| [[operation-us-v-christopher-lynn-driskill]] | CYB-FUP-228 | 3 | absorbed | follow-on | 1 | 4.00 | 1 |
+| [[operation-us-v-christopher-scott-crawford]] | CYB-FUP-229 | 2 | absorbed | follow-on | 1 | 4.00 | 1 |
+| [[operation-us-v-ciara-clutario]] | CYB-FUP-230 | 3 | absorbed | follow-on | 1 | 4.00 | 1 |
+| [[operation-us-v-clayton-harker]] | CYB-FUP-231 | 3 | absorbed | follow-on | 1 | 4.00 | 1 |
+| [[operation-us-v-colin-andrew-shapard]] | CYB-FUP-232 | 3 | absorbed | follow-on | 1 | 4.00 | 1 |
+| [[operation-us-v-daniel-faix]] | CYB-FUP-233 | 3 | absorbed | follow-on | 1 | 4.00 | 1 |
+| [[operation-us-v-david-mark-bartels]] | CYB-FUP-234 | 3 | absorbed | follow-on | 1 | 4.00 | 1 |
+| [[operation-us-v-david-tinley]] | CYB-FUP-235 | 1 | absorbed | follow-on | 1 | 4.00 | 1 |
+| [[operation-us-v-davit-avalyan]] | CYB-FUP-236 | 3 | absorbed | follow-on | 1 | 4.00 | 1 |
+| [[operation-us-v-defendant-nicole-dunlap-and-marcus-smith]] | CYB-FUP-237 | 2 | absorbed | follow-on | 1 | 4.00 | 1 |
+| [[operation-us-v-demario-sorrells]] | CYB-FUP-238 | 3 | absorbed | follow-on | 1 | 4.00 | 1 |
+| [[operation-us-v-devin-shanahan]] | CYB-FUP-239 | 3 | absorbed | follow-on | 1 | 4.00 | 1 |
+| [[operation-us-v-devlin-hosner-and-holly-adams]] | CYB-FUP-240 | 3 | absorbed | follow-on | 1 | 4.00 | 1 |
+| [[operation-us-v-dustin-carl-wurges-and-jonathan-mayhall]] | CYB-FUP-241 | 3 | absorbed | follow-on | 1 | 4.00 | 1 |
+| [[operation-us-v-eddy-steven-sandoval-lopez]] | CYB-FUP-242 | 1 | absorbed | follow-on | 1 | 4.00 | 1 |
+| [[operation-us-v-edmond-chakhmakhchyan]] | CYB-FUP-243 | 3 | absorbed | follow-on | 1 | 4.00 | 1 |
+| [[operation-us-v-ephraim-rosenberg]] | CYB-FUP-244 | 3 | absorbed | follow-on | 1 | 4.00 | 1 |
+| [[operation-us-v-eric-smith-and-sara-thompson]] | CYB-FUP-245 | 3 | absorbed | follow-on | 1 | 4.00 | 1 |
+| [[operation-us-v-fatiu-ismaila-lawal-and-sakiru-olanrewaju-ambali]] | CYB-FUP-246 | 3 | absorbed | follow-on | 1 | 4.00 | 1 |
+| [[operation-us-v-frank-lozano-graves]] | CYB-FUP-247 | 3 | absorbed | follow-on | 1 | 4.00 | 1 |
+| [[operation-us-v-garrett-norvell]] | CYB-FUP-248 | 3 | absorbed | follow-on | 1 | 4.00 | 1 |
+| [[operation-us-v-ghaleb-alaumary]] | CYB-FUP-249 | 2 | absorbed | follow-on | 1 | 4.00 | 1 |
+| [[operation-us-v-hadis-nuhanovic]] | CYB-FUP-250 | 3 | absorbed | follow-on | 1 | 4.00 | 1 |
+| [[operation-us-v-hasan-howard]] | CYB-FUP-251 | 2 | absorbed | follow-on | 1 | 4.00 | 1 |
+| [[operation-us-v-hector-duran-aldaco]] | CYB-FUP-252 | 3 | absorbed | follow-on | 1 | 4.00 | 1 |
+| [[operation-us-v-holly-danielle-adams-and-devlin-hosner]] | CYB-FUP-253 | 3 | absorbed | follow-on | 1 | 4.00 | 1 |
+| [[operation-us-v-humberto-garcia]] | CYB-FUP-254 | 3 | absorbed | follow-on | 1 | 4.00 | 1 |
+| [[operation-us-v-humberto-lopez-rodriguez-and-lopez-rodriguez]] | CYB-FUP-255 | 3 | absorbed | follow-on | 1 | 4.00 | 1 |
+| [[operation-us-v-ian-hoffmann]] | CYB-FUP-256 | 3 | absorbed | follow-on | 1 | 4.00 | 1 |
+| [[operation-us-v-ilya-lichtenstein-and-heather-morgan]] | CYB-FUP-257 | 3 | absorbed | follow-on | 1 | 4.00 | 1 |
+| [[operation-us-v-jacob-elijah-kilgore]] | CYB-FUP-258 | 3 | absorbed | follow-on | 1 | 4.00 | 1 |
+| [[operation-us-v-jail-guard-mosses-ramos-and-michael-anthony-barquet]] | CYB-FUP-259 | 3 | absorbed | follow-on | 1 | 4.00 | 1 |
+| [[operation-us-v-jamar-edward-gay-and-james-edward-sweat]] | CYB-FUP-260 | 2 | absorbed | follow-on | 1 | 4.00 | 1 |
+| [[operation-us-v-jason-keith-arnold-and-david-white]] | CYB-FUP-261 | 2 | absorbed | follow-on | 1 | 4.00 | 1 |
+| [[operation-us-v-jeremiah-morrison]] | CYB-FUP-262 | 3 | absorbed | follow-on | 1 | 4.00 | 1 |
+| [[operation-us-v-jeremy-daniel-singer]] | CYB-FUP-263 | 1 | absorbed | follow-on | 1 | 4.00 | 1 |
+| [[operation-us-v-jerrell-eugene-anderson]] | CYB-FUP-264 | 3 | absorbed | follow-on | 1 | 4.00 | 1 |
+| [[operation-us-v-jesse-kipf]] | CYB-FUP-265 | 3 | absorbed | follow-on | 1 | 4.00 | 1 |
+| [[operation-us-v-john-jacobs-ahrens]] | CYB-FUP-266 | 2 | absorbed | follow-on | 1 | 4.00 | 1 |
+| [[operation-us-v-john-khuu]] | CYB-FUP-267 | 2 | absorbed | follow-on | 1 | 4.00 | 1 |
+| [[operation-us-v-john-michael-sherwood-and-kevin-christopher-gartry]] | CYB-FUP-268 | 2 | absorbed | follow-on | 1 | 4.00 | 1 |
+| [[operation-us-v-johnny-elias]] | CYB-FUP-269 | 3 | absorbed | follow-on | 1 | 4.00 | 1 |
+| [[operation-us-v-jonathan-fleischmann]] | CYB-FUP-270 | 3 | absorbed | follow-on | 1 | 4.00 | 1 |
+| [[operation-us-v-joseph-nilsen-and-kristen-leccese]] | CYB-FUP-271 | 3 | absorbed | follow-on | 1 | 4.00 | 1 |
+| [[operation-us-v-justin-sean-johnson]] | CYB-FUP-272 | 2 | absorbed | follow-on | 1 | 4.00 | 1 |
+| [[operation-us-v-keith-charles-eisenberger]] | CYB-FUP-273 | 2 | absorbed | follow-on | 1 | 4.00 | 1 |
+| [[operation-us-v-kenneth-warren-rhule-and-kenneth-john-rule]] | CYB-FUP-274 | 2 | absorbed | follow-on | 1 | 4.00 | 1 |
+| [[operation-us-v-kevin-james-strutz]] | CYB-FUP-275 | 3 | absorbed | follow-on | 1 | 4.00 | 1 |
+| [[operation-us-v-krista-renae-stone]] | CYB-FUP-276 | 3 | absorbed | follow-on | 1 | 4.00 | 1 |
+| [[operation-us-v-kristy-lynn-felkins]] | CYB-FUP-277 | 3 | absorbed | follow-on | 1 | 4.00 | 1 |
+| [[operation-us-v-krystal-baird]] | CYB-FUP-278 | 3 | absorbed | follow-on | 1 | 4.00 | 1 |
+| [[operation-us-v-krystal-cherika-scott]] | CYB-FUP-279 | 2 | absorbed | follow-on | 1 | 4.00 | 1 |
+| [[operation-us-v-kyle-weiland]] | CYB-FUP-280 | 3 | absorbed | follow-on | 1 | 4.00 | 1 |
+| [[operation-us-v-landon-joe-black]] | CYB-FUP-281 | 3 | absorbed | follow-on | 1 | 4.00 | 1 |
+| [[operation-us-v-larry-stendebach]] | CYB-FUP-282 | 3 | absorbed | follow-on | 1 | 4.00 | 1 |
+| [[operation-us-v-louis-donald-mendonsa]] | CYB-FUP-283 | 3 | absorbed | follow-on | 1 | 4.00 | 1 |
+| [[operation-us-v-luis-donaldo-galeana-garcia-juan-carlos-garnica-pacheco-lorena-esquivel-and-dustin-ra]] | CYB-FUP-284 | 3 | absorbed | follow-on | 1 | 4.00 | 1 |
+| [[operation-us-v-manager-marquis-hooper]] | CYB-FUP-285 | 3 | absorbed | follow-on | 1 | 4.00 | 1 |
+| [[operation-us-v-marco-juarez]] | CYB-FUP-286 | 3 | absorbed | follow-on | 1 | 4.00 | 1 |
+| [[operation-us-v-marcus-dieter-felder]] | CYB-FUP-287 | 2 | absorbed | follow-on | 1 | 4.00 | 1 |
+| [[operation-us-v-marquise-tolbert]] | CYB-FUP-288 | 3 | absorbed | follow-on | 1 | 4.00 | 1 |
+| [[operation-us-v-mateo-ventura]] | CYB-FUP-289 | 3 | absorbed | follow-on | 1 | 4.00 | 1 |
+| [[operation-us-v-matthew-estes]] | CYB-FUP-290 | 3 | absorbed | follow-on | 1 | 4.00 | 1 |
+| [[operation-us-v-melody-sasser]] | CYB-FUP-291 | 3 | absorbed | follow-on | 1 | 4.00 | 1 |
+| [[operation-us-v-michael-basalyga]] | CYB-FUP-292 | 3 | absorbed | follow-on | 1 | 4.00 | 1 |
+| [[operation-us-v-michael-posey]] | CYB-FUP-293 | 3 | absorbed | follow-on | 1 | 4.00 | 1 |
+| [[operation-us-v-michael-ta-and-rajiv-srinivasan]] | CYB-FUP-294 | 3 | absorbed | follow-on | 1 | 4.00 | 1 |
+| [[operation-us-v-michael-warren]] | CYB-FUP-295 | 3 | absorbed | follow-on | 1 | 4.00 | 1 |
+| [[operation-us-v-michelle-murphy]] | CYB-FUP-296 | 3 | absorbed | follow-on | 1 | 4.00 | 1 |
+| [[operation-us-v-milomir-desnica]] | CYB-FUP-297 | 3 | absorbed | follow-on | 1 | 4.00 | 1 |
+| [[operation-us-v-mohamed-abdirisak-mohamed]] | CYB-FUP-298 | 3 | absorbed | follow-on | 1 | 4.00 | 1 |
+| [[operation-us-v-mosses-ramos-michael-anthony-barquet-neca-silvestre-katrina-cazares-and-kayara-zepeda]] | CYB-FUP-299 | 3 | absorbed | follow-on | 1 | 4.00 | 1 |
+| [[operation-us-v-natasha-parkhill]] | CYB-FUP-300 | 3 | absorbed | follow-on | 1 | 4.00 | 1 |
+| [[operation-us-v-neal-staton-grubert]] | CYB-FUP-301 | 3 | absorbed | follow-on | 1 | 4.00 | 1 |
+| [[operation-us-v-nehemie-almonor]] | CYB-FUP-302 | 3 | absorbed | follow-on | 1 | 4.00 | 1 |
+| [[operation-us-v-nevin-shetty]] | CYB-FUP-303 | 3 | absorbed | follow-on | 1 | 4.00 | 1 |
+| [[operation-us-v-nicholas-moore]] | CYB-FUP-304 | 3 | absorbed | follow-on | 1 | 4.00 | 1 |
+| [[operation-us-v-oleksandr-didenko]] | CYB-FUP-305 | 1 | absorbed | follow-on | 1 | 4.00 | 1 |
+| [[operation-us-v-omar-navia-and-adan-ruiz]] | CYB-FUP-306 | 3 | absorbed | follow-on | 1 | 4.00 | 1 |
+| [[operation-us-v-onomen-uduebor]] | CYB-FUP-307 | 3 | absorbed | follow-on | 1 | 4.00 | 1 |
+| [[operation-us-v-patrick-mayberry]] | CYB-FUP-308 | 3 | absorbed | follow-on | 1 | 4.00 | 1 |
+| [[operation-us-v-percy-levy-and-eugene-smith]] | CYB-FUP-309 | 3 | absorbed | follow-on | 1 | 4.00 | 1 |
+| [[operation-us-v-ramon-duarte-garcia-and-defendant-humberto-lopez-rodriguez]] | CYB-FUP-310 | 3 | absorbed | follow-on | 1 | 4.00 | 1 |
+| [[operation-us-v-ramon-duarte-garcia]] | CYB-FUP-311 | 3 | absorbed | follow-on | 1 | 4.00 | 1 |
+| [[operation-us-v-ramon-olorunwa-abbas]] | CYB-FUP-312 | 2 | absorbed | follow-on | 1 | 4.00 | 1 |
+| [[operation-us-v-ricky-ramacho]] | CYB-FUP-313 | 1 | absorbed | follow-on | 1 | 4.00 | 1 |
+| [[operation-us-v-robert-quido-stella]] | CYB-FUP-314 | 3 | absorbed | follow-on | 1 | 4.00 | 1 |
+| [[operation-us-v-rogelio-pena]] | CYB-FUP-315 | 3 | absorbed | follow-on | 1 | 4.00 | 1 |
+| [[operation-us-v-rostislav-panev]] | CYB-FUP-316 | 3 | absorbed | follow-on | 1 | 4.00 | 1 |
+| [[operation-us-v-rushan-lavar-reed-and-celeste-nicole-reed]] | CYB-FUP-317 | 3 | absorbed | follow-on | 1 | 4.00 | 1 |
+| [[operation-us-v-ryan-thomas-carver]] | CYB-FUP-319 | 1 | absorbed | follow-on | 1 | 4.00 | 1 |
+| [[operation-us-v-ryan-william-newhart]] | CYB-FUP-320 | 3 | absorbed | follow-on | 1 | 4.00 | 1 |
+| [[operation-us-v-sadie-bramlette-and-dejian-johl]] | CYB-FUP-321 | 3 | absorbed | follow-on | 1 | 4.00 | 1 |
+| [[operation-us-v-samuel-aaron-leonard]] | CYB-FUP-322 | 3 | absorbed | follow-on | 1 | 4.00 | 1 |
+| [[operation-us-v-santana-sandoval-and-defendant-kevin-torres-velasquez]] | CYB-FUP-323 | 3 | absorbed | follow-on | 1 | 4.00 | 1 |
+| [[operation-us-v-scott-allison]] | CYB-FUP-324 | 3 | absorbed | follow-on | 1 | 4.00 | 1 |
+| [[operation-us-v-sean-donnell-white]] | CYB-FUP-325 | 3 | absorbed | follow-on | 1 | 4.00 | 1 |
+| [[operation-us-v-shawn-ellis-and-when-ellis]] | CYB-FUP-326 | 3 | absorbed | follow-on | 1 | 4.00 | 1 |
+| [[operation-us-v-simon-kaura]] | CYB-FUP-327 | 3 | absorbed | follow-on | 1 | 4.00 | 1 |
+| [[operation-us-v-steven-michael-burke]] | CYB-FUP-328 | 3 | absorbed | follow-on | 1 | 4.00 | 1 |
+| [[operation-us-v-sumit-garg]] | CYB-FUP-329 | 3 | absorbed | follow-on | 1 | 4.00 | 1 |
+| [[operation-us-v-sunday-daniel-ganyo]] | CYB-FUP-330 | 3 | absorbed | follow-on | 1 | 4.00 | 1 |
+| [[operation-us-v-tai-jauna-jones]] | CYB-FUP-331 | 3 | absorbed | follow-on | 1 | 4.00 | 1 |
+| [[operation-us-v-tal-prihar-and-michael-phan]] | CYB-FUP-332 | 1 | absorbed | follow-on | 1 | 4.00 | 1 |
+| [[operation-us-v-thomas-edward-gailus]] | CYB-FUP-333 | 3 | absorbed | follow-on | 1 | 4.00 | 1 |
+| [[operation-us-v-travis-eskridge]] | CYB-FUP-334 | 3 | absorbed | follow-on | 1 | 4.00 | 1 |
+| [[operation-us-v-victoria-eduardovna-dubranova]] | CYB-FUP-335 | 3 | absorbed | follow-on | 1 | 4.00 | 1 |
+| [[operation-us-v-waylan-graves]] | CYB-FUP-336 | 3 | absorbed | follow-on | 1 | 4.00 | 1 |
+| [[operation-us-v-yang-yong]] | CYB-FUP-337 | 3 | absorbed | follow-on | 1 | 4.00 | 1 |
+| [[operation-us-v-yevgeniy-alexandrovich-nikulin]] | CYB-FUP-338 | 2 | absorbed | follow-on | 1 | 4.00 | 1 |
+| [[operation-us-v-zachary-dean-perpinan]] | CYB-FUP-339 | 3 | absorbed | follow-on | 1 | 4.00 | 1 |
+| [[operation-washington-state-man-pleads-guilty-advertising-child-sexual-abuse-material]] | CYB-FUP-340 | 3 | absorbed | follow-on | 1 | 4.00 | 1 |
+| [[operation-woman-accused-murder-hire-admits-using-dark-web-carry-out-crime]] | CYB-FUP-341 | 3 | absorbed | follow-on | 1 | 4.00 | 1 |
+| [[operation-us-v-amanda-rutherford]] | CYB-FUP-342 | 3 | absorbed | follow-on | 1 | 4.00 | 1 |
+| [[operation-us-v-andrew-chu]] | CYB-FUP-343 | 2 | absorbed | follow-on | 1 | 4.00 | 1 |
+| [[operation-us-v-april-henderson-and-donnell-timley]] | CYB-FUP-344 | 3 | absorbed | follow-on | 1 | 4.00 | 1 |
+| [[operation-us-v-baha-ibrahim-and-jawad-albadawi]] | CYB-FUP-345 | 3 | absorbed | follow-on | 1 | 4.00 | 1 |
+| [[operation-us-v-charles-thomas-abrahamson]] | CYB-FUP-346 | 3 | absorbed | follow-on | 1 | 4.00 | 1 |
+| [[operation-us-v-christhian-castillo]] | CYB-FUP-347 | 3 | absorbed | follow-on | 1 | 4.00 | 1 |
+| [[operation-us-v-de-los-santos]] | CYB-FUP-348 | 3 | absorbed | follow-on | 1 | 4.00 | 1 |
+| [[operation-us-v-deniss-zolotarjovs]] | CYB-FUP-349 | 3 | absorbed | follow-on | 1 | 4.00 | 1 |
+| [[operation-us-v-dequan-lamar-mitchell]] | CYB-FUP-350 | 3 | absorbed | follow-on | 1 | 4.00 | 1 |
+| [[operation-us-v-dmitry-aleksandrovich-dokuchaev-and-igor-anatolyevich-sushchin]] | CYB-FUP-351 | 1 | absorbed | follow-on | 1 | 4.00 | 1 |
+| [[operation-us-v-donald-ryan-austin]] | CYB-FUP-352 | 1 | absorbed | follow-on | 1 | 4.00 | 1 |
+| [[operation-us-v-edward-shia]] | CYB-FUP-353 | 1 | absorbed | follow-on | 1 | 4.00 | 1 |
+| [[operation-us-v-emerson-hayes]] | CYB-FUP-354 | 3 | absorbed | follow-on | 1 | 4.00 | 1 |
+| [[operation-us-v-filip-lucian-simion]] | CYB-FUP-355 | 1 | absorbed | follow-on | 1 | 4.00 | 1 |
+| [[operation-us-v-guo-liang-ye-and-de-jin-ye]] | CYB-FUP-356 | 3 | absorbed | follow-on | 1 | 4.00 | 1 |
+| [[operation-us-v-jacob-matthew-medina]] | CYB-FUP-357 | 2 | absorbed | follow-on | 1 | 4.00 | 1 |
+| [[operation-us-v-james-curtis-brasher]] | CYB-FUP-358 | 2 | absorbed | follow-on | 1 | 4.00 | 1 |
+| [[operation-us-v-jeremy-yazzie]] | CYB-FUP-359 | 3 | absorbed | follow-on | 1 | 4.00 | 1 |
+| [[operation-us-v-julia-roberts-and-vicki-robinson]] | CYB-FUP-360 | 3 | absorbed | follow-on | 1 | 4.00 | 1 |
+| [[operation-us-v-kareem-mustafa-ahmad]] | CYB-FUP-361 | 3 | absorbed | follow-on | 1 | 4.00 | 1 |
+| [[operation-us-v-karim-akehmet-tokbergenov]] | CYB-FUP-362 | 1 | absorbed | follow-on | 1 | 4.00 | 1 |
+| [[operation-us-v-keanu-lee]] | CYB-FUP-363 | 3 | absorbed | follow-on | 1 | 4.00 | 1 |
+| [[operation-us-v-kenneth-kezeor]] | CYB-FUP-364 | 1 | absorbed | follow-on | 1 | 4.00 | 1 |
+| [[operation-us-v-krasimir-nikolov]] | CYB-FUP-365 | 1 | absorbed | follow-on | 1 | 4.00 | 1 |
+| [[operation-us-v-leonardo-cristea-and-filip-lucian-simion]] | CYB-FUP-366 | 1 | absorbed | follow-on | 1 | 4.00 | 1 |
+| [[operation-us-v-logan-christopher-murfin]] | CYB-FUP-367 | 3 | absorbed | follow-on | 1 | 4.00 | 1 |
+| [[operation-us-v-maksym-silnikov]] | CYB-FUP-368 | 3 | absorbed | follow-on | 1 | 4.00 | 1 |
+| [[operation-us-v-malik-holman]] | CYB-FUP-369 | 3 | absorbed | follow-on | 1 | 4.00 | 1 |
+| [[operation-us-v-maxito-pean]] | CYB-FUP-370 | 1 | absorbed | follow-on | 1 | 4.00 | 1 |
+| [[operation-us-v-mihai-alexandru-isvanca]] | CYB-FUP-371 | 1 | absorbed | follow-on | 1 | 4.00 | 1 |
+| [[operation-us-v-nathan-wyatt]] | CYB-FUP-372 | 1 | absorbed | follow-on | 1 | 4.00 | 1 |
+| [[operation-us-v-nathaniel-earl-dunlap]] | CYB-FUP-373 | 1 | absorbed | follow-on | 1 | 4.00 | 1 |
+| [[operation-us-v-omar-isho]] | CYB-FUP-374 | 1 | absorbed | follow-on | 1 | 4.00 | 1 |
+| [[operation-us-v-oscar-gabriel-rojas-urquieta]] | CYB-FUP-375 | 1 | absorbed | follow-on | 1 | 4.00 | 1 |
+| [[operation-us-v-pedro-marquez-benetiz]] | CYB-FUP-376 | 3 | absorbed | follow-on | 1 | 4.00 | 1 |
+| [[operation-us-v-raekwon-malik-harrod]] | CYB-FUP-377 | 3 | absorbed | follow-on | 1 | 4.00 | 1 |
+| [[operation-us-v-robert-saunders]] | CYB-FUP-378 | 1 | absorbed | follow-on | 1 | 4.00 | 1 |
+| [[operation-us-v-rodney-vaughn-and-brad-akins]] | CYB-FUP-379 | 3 | absorbed | follow-on | 1 | 4.00 | 1 |
+| [[operation-us-v-sanford-wallace]] | CYB-FUP-380 | 1 | absorbed | follow-on | 1 | 4.00 | 1 |
+| [[operation-us-v-security-advisor-john-bolton]] | CYB-FUP-381 | 3 | absorbed | follow-on | 1 | 4.00 | 1 |
+| [[operation-us-v-sherman-jackson]] | CYB-FUP-382 | 1 | absorbed | follow-on | 1 | 4.00 | 1 |
+| [[operation-us-v-steve-parish-richard-dean-and-joshua-owen]] | CYB-FUP-383 | 3 | absorbed | follow-on | 1 | 4.00 | 1 |
+| [[operation-us-v-tanisha-spencer]] | CYB-FUP-384 | 3 | absorbed | follow-on | 1 | 4.00 | 1 |
+| [[operation-us-v-tavaris-andre-donaldson]] | CYB-FUP-385 | 3 | absorbed | follow-on | 1 | 4.00 | 1 |
+| [[operation-us-v-victor-da-silva-soares]] | CYB-FUP-386 | 3 | absorbed | follow-on | 1 | 4.00 | 1 |
+| [[operation-us-v-willis-kylestewa]] | CYB-FUP-387 | 3 | absorbed | follow-on | 1 | 4.00 | 1 |
+| [[operation-us-v-willy-clock]] | CYB-FUP-388 | 1 | absorbed | follow-on | 1 | 4.00 | 1 |
+| [[operation-us-v-yevgeniy-nikulin]] | CYB-FUP-389 | 2 | absorbed | follow-on | 1 | 4.00 | 1 |
+| [[operation-us-v-zachary-silas-brandner]] | CYB-FUP-390 | 3 | absorbed | follow-on | 1 | 4.00 | 1 |
+| [[operation-us-v-igor-turashev]] | CYB-FUP-391 | 1 | absorbed | follow-on | 1 | 4.00 | 1 |
+| [[operation-ledyard-man-pleads-guilty-child-exploitation-offense]] | CYB-FUP-393 | 3 | absorbed | follow-on | 1 | 4.00 | 1 |
+| [[operation-us-v-across-four-continents]] | CYB-FUP-394 | 3 | absorbed | follow-on | 1 | 4.00 | 1 |
+| [[operation-us-v-and-prolific-child-molester]] | CYB-FUP-395 | 3 | absorbed | follow-on | 1 | 4.00 | 1 |
+| [[operation-us-v-at-trial]] | CYB-FUP-396 | 3 | absorbed | follow-on | 1 | 4.00 | 1 |
+| [[operation-us-v-auburn-man]] | CYB-FUP-397 | 3 | absorbed | follow-on | 1 | 4.00 | 1 |
+| [[operation-us-v-beresford-man]] | CYB-FUP-398 | 3 | absorbed | follow-on | 1 | 4.00 | 1 |
+| [[operation-us-v-brought-against-bay-area]] | CYB-FUP-399 | 1 | absorbed | follow-on | 1 | 4.00 | 1 |
+| [[operation-us-v-bugat-botnet-administrator]] | CYB-FUP-400 | 1 | absorbed | follow-on | 1 | 4.00 | 1 |
+| [[operation-us-v-california-teenager]] | CYB-FUP-401 | 3 | absorbed | follow-on | 1 | 4.00 | 1 |
+| [[operation-us-v-charges-hartford-man]] | CYB-FUP-403 | 3 | absorbed | follow-on | 1 | 4.00 | 1 |
+| [[operation-us-v-charges-man]] | CYB-FUP-404 | 3 | absorbed | follow-on | 1 | 4.00 | 1 |
+| [[operation-us-v-charges-stamford-men]] | CYB-FUP-405 | 3 | absorbed | follow-on | 1 | 4.00 | 1 |
+| [[operation-us-v-charges-waterbury-man]] | CYB-FUP-406 | 3 | absorbed | follow-on | 1 | 4.00 | 1 |
+| [[operation-us-v-charging-involvement]] | CYB-FUP-407 | 3 | absorbed | follow-on | 1 | 4.00 | 1 |
+| [[operation-us-v-charlestown-man]] | CYB-FUP-408 | 3 | absorbed | follow-on | 1 | 4.00 | 1 |
+| [[operation-us-v-conway-man]] | CYB-FUP-409 | 3 | absorbed | follow-on | 1 | 4.00 | 1 |
+| [[operation-us-v-cryptocurrency-exchange]] | CYB-FUP-410 | 3 | absorbed | follow-on | 1 | 4.00 | 1 |
+| [[operation-us-v-dark-web-drug-trafficker]] | CYB-FUP-411 | 3 | absorbed | follow-on | 1 | 4.00 | 1 |
+| [[operation-us-v-dark-web-marketplace]] | CYB-FUP-412 | 3 | absorbed | follow-on | 1 | 4.00 | 1 |
+| [[operation-us-v-darkweb-drug-trafficker]] | CYB-FUP-413 | 2 | absorbed | follow-on | 1 | 4.00 | 1 |
+| [[operation-us-v-district-man]] | CYB-FUP-414 | 1 | absorbed | follow-on | 1 | 4.00 | 1 |
+| [[operation-us-v-dutch-national]] | CYB-FUP-415 | 2 | absorbed | follow-on | 1 | 4.00 | 1 |
+| [[operation-us-v-east-hartford-man]] | CYB-FUP-416 | 3 | absorbed | follow-on | 1 | 4.00 | 1 |
+| [[operation-us-v-easton-man]] | CYB-FUP-417 | 3 | absorbed | follow-on | 1 | 4.00 | 1 |
+| [[operation-us-v-felon-sentenced-and-previously-convicted-felon]] | CYB-FUP-418 | 3 | absorbed | follow-on | 1 | 4.00 | 1 |
+| [[operation-us-v-following-seizure-and-forfeiture-and-dark-web-fraud-defendant]] | CYB-FUP-419 | 3 | absorbed | follow-on | 1 | 4.00 | 1 |
+| [[operation-us-v-for-hacking]] | CYB-FUP-420 | 1 | absorbed | follow-on | 1 | 4.00 | 1 |
+| [[operation-us-v-for-initiating-distributed-denial]] | CYB-FUP-421 | 1 | absorbed | follow-on | 1 | 4.00 | 1 |
+| [[operation-us-v-for-operating-alleged-international-and-national-and-bitcoin-exchange]] | CYB-FUP-422 | 1 | absorbed | follow-on | 1 | 4.00 | 1 |
+| [[operation-us-v-for-possessing-child-sexual]] | CYB-FUP-423 | 3 | absorbed | follow-on | 1 | 4.00 | 1 |
+| [[operation-us-v-for-possession-of-child-and-marion-county-man]] | CYB-FUP-424 | 3 | absorbed | follow-on | 1 | 4.00 | 1 |
+| [[operation-us-v-for-receipt-of]] | CYB-FUP-425 | 3 | absorbed | follow-on | 1 | 4.00 | 1 |
+| [[operation-us-v-for-stealing-more-than]] | CYB-FUP-426 | 3 | absorbed | follow-on | 1 | 4.00 | 1 |
+| [[operation-us-v-for-wire-fraud]] | CYB-FUP-427 | 3 | absorbed | follow-on | 1 | 4.00 | 1 |
+| [[operation-us-v-foreign-nationals]] | CYB-FUP-428 | 3 | absorbed | follow-on | 1 | 4.00 | 1 |
+| [[operation-us-v-four-international-hacking-suspects]] | CYB-FUP-430 | 1 | absorbed | follow-on | 1 | 4.00 | 1 |
+| [[operation-us-v-four-russian-government-employees]] | CYB-FUP-431 | 2 | absorbed | follow-on | 1 | 4.00 | 1 |
+| [[operation-us-v-georgia-man]] | CYB-FUP-432 | 3 | absorbed | follow-on | 1 | 4.00 | 1 |
+| [[operation-us-v-guam-meth-trafficker]] | CYB-FUP-433 | 3 | absorbed | follow-on | 1 | 4.00 | 1 |
+| [[operation-us-v-hardened-encrypted-devices]] | CYB-FUP-434 | 3 | absorbed | follow-on | 1 | 4.00 | 1 |
+| [[operation-us-v-homeland-security-employees]] | CYB-FUP-435 | 3 | absorbed | follow-on | 1 | 4.00 | 1 |
+| [[operation-us-v-house-member]] | CYB-FUP-436 | 1 | absorbed | follow-on | 1 | 4.00 | 1 |
+| [[operation-us-v-in-manhattan-federal-court]] | CYB-FUP-437 | 1 | absorbed | follow-on | 1 | 4.00 | 1 |
+| [[operation-us-v-in-wide-and-five-defendants]] | CYB-FUP-438 | 3 | absorbed | follow-on | 1 | 4.00 | 1 |
+| [[operation-us-v-in-wire-fraud-scheme]] | CYB-FUP-439 | 3 | absorbed | follow-on | 1 | 4.00 | 1 |
+| [[operation-us-v-insider-trading]] | CYB-FUP-440 | 3 | absorbed | follow-on | 1 | 4.00 | 1 |
+| [[operation-us-v-international-travel]] | CYB-FUP-441 | 3 | absorbed | follow-on | 1 | 4.00 | 1 |
+| [[operation-us-v-lakeland-man]] | CYB-FUP-442 | 2 | absorbed | follow-on | 1 | 4.00 | 1 |
+| [[operation-us-v-latvian-national]] | CYB-FUP-443 | 2 | absorbed | follow-on | 1 | 4.00 | 1 |
+| [[operation-us-v-lawrence-county-man]] | CYB-FUP-444 | 3 | absorbed | follow-on | 1 | 4.00 | 1 |
+| [[operation-us-v-ledyard-man]] | CYB-FUP-445 | 3 | absorbed | follow-on | 1 | 4.00 | 1 |
+| [[operation-us-v-louis-man]] | CYB-FUP-446 | 3 | absorbed | follow-on | 1 | 4.00 | 1 |
+| [[operation-us-v-marion-county-man]] | CYB-FUP-447 | 3 | absorbed | follow-on | 1 | 4.00 | 1 |
+| [[operation-us-v-middlesex-county-man]] | CYB-FUP-448 | 3 | absorbed | follow-on | 1 | 4.00 | 1 |
+| [[operation-us-v-minnesota-man]] | CYB-FUP-449 | 1 | absorbed | follow-on | 1 | 4.00 | 1 |
+| [[operation-us-v-monroeville-man]] | CYB-FUP-450 | 3 | absorbed | follow-on | 1 | 4.00 | 1 |
+| [[operation-us-v-multiple-foreign-nationals]] | CYB-FUP-451 | 3 | absorbed | follow-on | 1 | 4.00 | 1 |
+| [[operation-us-v-narcotics-traffickers-among-those]] | CYB-FUP-452 | 2 | absorbed | follow-on | 1 | 4.00 | 1 |
+| [[operation-us-v-new-jersey-man]] | CYB-FUP-453 | 2 | absorbed | follow-on | 1 | 4.00 | 1 |
+| [[operation-us-v-notorious-hacker]] | CYB-FUP-454 | 3 | absorbed | follow-on | 1 | 4.00 | 1 |
+| [[operation-us-v-of-hacking-jumbotron-and-augustine-serial-child-molester]] | CYB-FUP-455 | 3 | absorbed | follow-on | 1 | 4.00 | 1 |
+| [[operation-us-v-of-illegal-procurement-of]] | CYB-FUP-456 | 1 | absorbed | follow-on | 1 | 4.00 | 1 |
+| [[operation-us-v-online-extortion]] | CYB-FUP-457 | 1 | absorbed | follow-on | 1 | 4.00 | 1 |
+| [[operation-us-v-palm-beach-county-man]] | CYB-FUP-458 | 3 | absorbed | follow-on | 1 | 4.00 | 1 |
+| [[operation-us-v-phobos-ransomware-affiliates]] | CYB-FUP-459 | 3 | absorbed | follow-on | 1 | 4.00 | 1 |
+| [[operation-us-v-pittsburgh-felon]] | CYB-FUP-460 | 3 | absorbed | follow-on | 1 | 4.00 | 1 |
+| [[operation-us-v-ransomware-administrator]] | CYB-FUP-461 | 3 | absorbed | follow-on | 1 | 4.00 | 1 |
+| [[operation-us-v-related-to-his-operation-and-marketplace-administrator]] | CYB-FUP-462 | 3 | absorbed | follow-on | 1 | 4.00 | 1 |
+| [[operation-us-v-repeat-sex-offender]] | CYB-FUP-463 | 3 | absorbed | follow-on | 1 | 4.00 | 1 |
+| [[operation-us-v-russian-malware-developer]] | CYB-FUP-464 | 3 | absorbed | follow-on | 1 | 4.00 | 1 |
+| [[operation-us-v-russian-national]] | CYB-FUP-465 | 1 | absorbed | follow-on | 1 | 4.00 | 1 |
+| [[operation-us-v-san-antonio-man]] | CYB-FUP-466 | 1 | absorbed | follow-on | 1 | 4.00 | 1 |
+| [[operation-us-v-seattle-man]] | CYB-FUP-467 | 3 | absorbed | follow-on | 1 | 4.00 | 1 |
+| [[operation-us-v-sex-offender]] | CYB-FUP-468 | 3 | absorbed | follow-on | 1 | 4.00 | 1 |
+| [[operation-us-v-south-carolina-man]] | CYB-FUP-469 | 1 | absorbed | follow-on | 1 | 4.00 | 1 |
+| [[operation-us-v-stealing-senate-information]] | CYB-FUP-470 | 1 | absorbed | follow-on | 1 | 4.00 | 1 |
+| [[operation-us-v-sturgis-man]] | CYB-FUP-471 | 3 | absorbed | follow-on | 1 | 4.00 | 1 |
+| [[operation-us-v-sumter-man]] | CYB-FUP-472 | 3 | absorbed | follow-on | 1 | 4.00 | 1 |
+| [[operation-us-v-third-defendant]] | CYB-FUP-473 | 3 | absorbed | follow-on | 1 | 4.00 | 1 |
+| [[operation-us-v-three-chinese-hackers-who]] | CYB-FUP-474 | 1 | absorbed | follow-on | 1 | 4.00 | 1 |
+| [[operation-us-v-three-people]] | CYB-FUP-475 | 3 | absorbed | follow-on | 1 | 4.00 | 1 |
+| [[operation-us-v-to-federal-prison-and-intrusions-and-tax-fraud]] | CYB-FUP-476 | 3 | absorbed | follow-on | 1 | 4.00 | 1 |
+| [[operation-us-v-to-federal-prison-for-and-ocala-man]] | CYB-FUP-477 | 3 | absorbed | follow-on | 1 | 4.00 | 1 |
+| [[operation-us-v-to-federal-prison-for]] | CYB-FUP-478 | 2 | absorbed | follow-on | 1 | 4.00 | 1 |
+| [[operation-us-v-to-five-years-for]] | CYB-FUP-479 | 3 | absorbed | follow-on | 1 | 4.00 | 1 |
+| [[operation-us-v-to-five-years-in]] | CYB-FUP-480 | 3 | absorbed | follow-on | 1 | 4.00 | 1 |
+| [[operation-us-v-to-more-than-and-lakeland-man]] | CYB-FUP-481 | 2 | absorbed | follow-on | 1 | 4.00 | 1 |
+| [[operation-us-v-to-prison-for-electronic-and-brooksville-man]] | CYB-FUP-482 | 3 | absorbed | follow-on | 1 | 4.00 | 1 |
+| [[operation-us-v-to-prison-for-hacking-and-wisconsin-man]] | CYB-FUP-483 | 3 | absorbed | follow-on | 1 | 4.00 | 1 |
+| [[operation-us-v-two-men]] | CYB-FUP-484 | 3 | absorbed | follow-on | 1 | 4.00 | 1 |
+| [[operation-us-v-united-kingdom-national]] | CYB-FUP-485 | 3 | absorbed | follow-on | 1 | 4.00 | 1 |
+| [[operation-us-v-unsealed-against-russian-national]] | CYB-FUP-486 | 3 | absorbed | follow-on | 1 | 4.00 | 1 |
+| [[operation-us-v-utah-man]] | CYB-FUP-487 | 2 | absorbed | follow-on | 1 | 4.00 | 1 |
+| [[operation-us-v-webster-man]] | CYB-FUP-488 | 3 | absorbed | follow-on | 1 | 4.00 | 1 |
+| [[operation-us-v-wisconsin-man]] | CYB-FUP-489 | 3 | absorbed | follow-on | 1 | 4.00 | 1 |
+| [[operation-us-v-with-bank-secrecy-act-and-of-its-founders-criminally]] | CYB-FUP-490 | 3 | absorbed | follow-on | 1 | 4.00 | 1 |
+| [[operation-us-v-with-hacking-fantasy-sports-and-wisconsin-man]] | CYB-FUP-491 | 3 | absorbed | follow-on | 1 | 4.00 | 1 |
+| [[operation-us-v-with-producing-and-distributing-and-oldsmar-man]] | CYB-FUP-492 | 3 | absorbed | follow-on | 1 | 4.00 | 1 |
+| [[operation-us-v-with-production-of-child-and-mountain-view-resident]] | CYB-FUP-493 | 1 | absorbed | follow-on | 1 | 4.00 | 1 |
+| [[operation-us-v-with-selling-counterfeit-drugs-and-sturgis-man]] | CYB-FUP-494 | 3 | absorbed | follow-on | 1 | 4.00 | 1 |
+| [[operation-us-v-with-tampering-with-morphine-and-illinois-nurse]] | CYB-FUP-495 | 3 | absorbed | follow-on | 1 | 4.00 | 1 |
+| [[operation-us-v-with-using-and-queens-woman]] | CYB-FUP-496 | 3 | absorbed | follow-on | 1 | 4.00 | 1 |
+| [[operation-us-v-woodmere-man]] | CYB-FUP-497 | 2 | absorbed | follow-on | 1 | 4.00 | 1 |
+| [[operation-utah-man-pleads-guilty-murder-hire-scheme]] | CYB-FUP-498 | 3 | absorbed | follow-on | 1 | 4.00 | 1 |
+| [[operation-utah-man-sentenced-seven-years-prison-murder-hire-scheme]] | CYB-FUP-499 | 3 | absorbed | follow-on | 1 | 4.00 | 1 |
+| [[operation-150-arrested-in-dark-web-drug-bust-as-police-seize-eur-26-million]] | CYB-FUP-502 | 2 | absorbed | follow-on | 1 | 4.00 | 1 |
+| [[operation-19-individuals-worldwide-charged-in-transnational-cybercrime-investigation-of-the-xdedic-marketplace-2]] | CYB-FUP-503 | 3 | absorbed | follow-on | 1 | 4.00 | 1 |
+| [[operation-19-individuals-worldwide-charged-in-transnational-cybercrime-investigation-of-the-xdedic-marketplace-3]] | CYB-FUP-504 | 3 | absorbed | follow-on | 1 | 4.00 | 1 |
+| [[operation-19-individuals-worldwide-charged-in-transnational-cybercrime-investigation-of-the-xdedic-marketplace-4]] | CYB-FUP-505 | 3 | absorbed | follow-on | 1 | 4.00 | 1 |
+| [[operation-19-individuals-worldwide-charged-in-transnational-cybercrime-investigation-of-the-xdedic-marketplace-5]] | CYB-FUP-506 | 3 | absorbed | follow-on | 1 | 4.00 | 1 |
+| [[operation-19-individuals-worldwide-charged-in-transnational-cybercrime-investigation-of-the-xdedic-marketplace-6]] | CYB-FUP-507 | 3 | absorbed | follow-on | 1 | 4.00 | 1 |
+| [[operation-19-individuals-worldwide-charged-in-transnational-cybercrime-investigation-of-the-xdedic-marketplace-7]] | CYB-FUP-508 | 3 | absorbed | follow-on | 1 | 4.00 | 1 |
+| [[operation-19-individuals-worldwide-charged-in-transnational-cybercrime-investigation-of-the-xdedic-marketplace]] | CYB-FUP-509 | 3 | absorbed | follow-on | 1 | 4.00 | 1 |
+| [[operation-europol-mastermind-behind-eur-1-billion-cyber-bank-robbery-arrested-in-spain-carbanak-cobalt]] | CYB-FUP-545 | 1 | absorbed | follow-on | 1 | 4.00 | 1 |
+| [[operation-fayette-county-man-admits-making-hoax-emergency-phone-calls-to-elicit-an-armed-police-response-practice-is-kno]] | CYB-FUP-548 | 1 | absorbed | follow-on | 1 | 4.00 | 1 |
+| [[operation-hook-line-and-sinker-cybercrime-network-phishing-bank-credentials-arrested-in-romania]] | CYB-FUP-568 | 3 | absorbed | follow-on | 1 | 4.00 | 1 |
+| [[operation-interpol-online-scamming-fraud-three-nigerians-arrested-in-operation-killer-bee]] | CYB-FUP-571 | 2 | absorbed | follow-on | 1 | 4.00 | 1 |
+| [[operation-iranian-national-indicted-for-operating-online-marketplace-offering-fentanyl-and-money-laundering-services]] | CYB-FUP-572 | 3 | absorbed | follow-on | 1 | 4.00 | 1 |
+| [[operation-iranian-national-indicted-for-operating-online-marketplace-offering-fentanyl-other-drugs-and-money-laundering-]] | CYB-FUP-573 | 3 | absorbed | follow-on | 1 | 4.00 | 1 |
+| [[operation-issaquah-washington-man-sentenced-to-7-years-in-prison-for-dealing-fentanyl-and-other-drugs-on-the-darknet]] | CYB-FUP-574 | 2 | absorbed | follow-on | 1 | 4.00 | 1 |
+| [[operation-justice-department-seeks-forfeiture-of-over-5-million-in-bitcoin-stolen-in-sim-swapping-scams]] | CYB-FUP-575 | 3 | absorbed | follow-on | 1 | 4.00 | 1 |
+| [[operation-justice-dept-seizes-over-112m-in-funds-linked-to-cryptocurrency-investment-schemes-with-over-half-seized-in-lo]] | CYB-FUP-576 | 3 | absorbed | follow-on | 1 | 4.00 | 1 |
+| [[operation-kansas-farmer-indicted-for-insurance-fraud]] | CYB-FUP-577 | 3 | absorbed | follow-on | 1 | 4.00 | 1 |
+| [[operation-kc-man-sentenced-for-selling-meth-heroin-on-the-dark-web]] | CYB-FUP-578 | 3 | absorbed | follow-on | 1 | 4.00 | 1 |
+| [[operation-kent-washington-resident-indicted-for-dealing-fentanyl-while-illegally-possessing-firearm]] | CYB-FUP-579 | 3 | absorbed | follow-on | 1 | 4.00 | 1 |
+| [[operation-key-figures-behind-phobos-and-8base-ransomware-arrested-in-international-cybercrime-crackdown-2]] | CYB-FUP-580 | 3 | absorbed | follow-on | 1 | 4.00 | 1 |
+| [[operation-key-figures-behind-phobos-and-8base-ransomware-arrested]] | CYB-FUP-583 | 3 | absorbed | follow-on | 1 | 4.00 | 1 |
+| [[operation-king-county-couple-indicted-for-drug-and-illegal-weapons-possession]] | CYB-FUP-584 | 3 | absorbed | follow-on | 1 | 4.00 | 1 |
+| [[operation-king-county-man-who-dealt-narcotics-on-the-dark-web-and-kept-a-cache-of-weapons-at-his-rv-sentenced-to-8-years]] | CYB-FUP-585 | 3 | absorbed | follow-on | 1 | 4.00 | 1 |
+| [[operation-kirkwood-resident-pleads-guilty-for-identity-theft]] | CYB-FUP-586 | 2 | absorbed | follow-on | 1 | 4.00 | 1 |
+| [[operation-laredo-professor-charged-with-distribution-and-production-of-child-pornography]] | CYB-FUP-587 | 3 | absorbed | follow-on | 1 | 4.00 | 1 |
+| [[operation-leader-of-international-steroids-distribution-scheme-sentenced-to-eight-years-in-prison]] | CYB-FUP-588 | 3 | absorbed | follow-on | 1 | 4.00 | 1 |
+| [[operation-lewis-county-man-charged-federally-with-unlawful-weapons-possession]] | CYB-FUP-594 | 3 | absorbed | follow-on | 1 | 4.00 | 1 |
+| [[operation-man-caught-three-times-with-dealer-quantities-of-fentanyl-indicted-federally]] | CYB-FUP-595 | 3 | absorbed | follow-on | 1 | 4.00 | 1 |
+| [[operation-man-from-grays-harbor-county-washington-pleads-guilty-to-possession-of-narcotics-with-intent-to-distribute]] | CYB-FUP-596 | 3 | absorbed | follow-on | 1 | 4.00 | 1 |
+| [[operation-maryland-men-indicted-on-charges-relating-to-dark-web-drug-distribution-and-money-laudering-government-seized-]] | CYB-FUP-597 | 1 | absorbed | follow-on | 1 | 4.00 | 1 |
+| [[operation-mastermind-behind-eur-1-billion-cyber-bank-robbery-arrested-in-spain]] | CYB-FUP-598 | 1 | absorbed | follow-on | 1 | 4.00 | 1 |
+| [[operation-member-of-lummi-nation-indicted-for-distributing-fentanyl]] | CYB-FUP-599 | 3 | absorbed | follow-on | 1 | 4.00 | 1 |
+| [[operation-mexican-national-sentenced-to-prison-for-role-as-drug-ring-courier]] | CYB-FUP-600 | 3 | absorbed | follow-on | 1 | 4.00 | 1 |
+| [[operation-moldovan-national-and-technical-mastermind-of-xdedic-marketplace-extradited-from-spain]] | CYB-FUP-601 | 2 | absorbed | follow-on | 1 | 4.00 | 1 |
+| [[operation-moldovan-sentenced-for-distributing-multifunction-malware-package]] | CYB-FUP-602 | 1 | absorbed | follow-on | 1 | 4.00 | 1 |
+| [[operation-monticello-man-indicted-for-attempted-enticement-of-a-minor]] | CYB-FUP-603 | 3 | absorbed | follow-on | 1 | 4.00 | 1 |
+| [[operation-nebraska-businessman-indicted-for-fraud]] | CYB-FUP-604 | 3 | absorbed | follow-on | 1 | 4.00 | 1 |
+| [[operation-new-york-man-sentenced-to-54-months-in-prison-for-selling-counterfeit-xanax-on-dark-web]] | CYB-FUP-605 | 3 | absorbed | follow-on | 1 | 4.00 | 1 |
+| [[operation-nigerian-national-sentenced-to-more-than-six-years-in-federal-prison-for-international-tax-fraud-scheme]] | CYB-FUP-606 | 2 | absorbed | follow-on | 1 | 4.00 | 1 |
+| [[operation-nigerian-nationals-charged-with-operating-business-compromise-scheme]] | CYB-FUP-607 | 1 | absorbed | follow-on | 1 | 4.00 | 1 |
+| [[operation-nigerian-state-official-sentenced-to-5-years-in-prison-for-stealing-u-s-disaster-aid-and-taxpayer-refunds]] | CYB-FUP-608 | 2 | absorbed | follow-on | 1 | 4.00 | 1 |
+| [[operation-north-carolina-man-sentenced-to-federal-prison-for-distributing-opioids-through-the-dark-web]] | CYB-FUP-609 | 2 | absorbed | follow-on | 1 | 4.00 | 1 |
+| [[operation-north-reading-man-indicted-for-possession-of-child-pornography]] | CYB-FUP-610 | 3 | absorbed | follow-on | 1 | 4.00 | 1 |
+| [[operation-online-scamming-fraud-three-nigerians-arrested-in-interpol-operation-killer-bee]] | CYB-FUP-611 | 2 | absorbed | follow-on | 1 | 4.00 | 1 |
+| [[operation-owners-of-empire-market-charged-in-chicago-with-operating-430-million-dark-web-marketplace]] | CYB-FUP-613 | 3 | absorbed | follow-on | 1 | 4.00 | 1 |
+| [[operation-parma-men-among-those-charged-as-part-of-crackdown-on-darknet-vendors]] | CYB-FUP-614 | 1 | absorbed | follow-on | 1 | 4.00 | 1 |
+| [[operation-pernicious-cyberstalker-sentenced-to-9-years-in-prison-for-unrelenting-harassment-of-former-roommate-and-other]] | CYB-FUP-615 | 3 | absorbed | follow-on | 1 | 4.00 | 1 |
+| [[operation-physician-sentenced-to-18-years-in-prison-for-operating-a-pill-mill-from-his-northwest-d-c-medical-practice]] | CYB-FUP-616 | 3 | absorbed | follow-on | 1 | 4.00 | 1 |
+| [[operation-pierce-county-based-drug-trafficking-organization-indicted-for-distributing-cocaine-fentanyl-and-marijuana]] | CYB-FUP-617 | 3 | absorbed | follow-on | 1 | 4.00 | 1 |
+| [[operation-prolific-dark-web-dealer-of-carfentanil-and-fentanyl-sentenced-to-1712-years-in-prison]] | CYB-FUP-618 | 2 | absorbed | follow-on | 1 | 4.00 | 1 |
+| [[operation-prolific-fentanyl-distributor-sentenced-to-six-years-in-prison]] | CYB-FUP-619 | 3 | absorbed | follow-on | 1 | 4.00 | 1 |
+| [[operation-puyallup-man-caught-with-nearly-100-000-fentanyl-pills-and-five-firearms-sentenced-to-six-and-a-half-years-in-]] | CYB-FUP-620 | 3 | absorbed | follow-on | 1 | 4.00 | 1 |
+| [[operation-resident-of-tacoma-hotel-indicted-for-drug-and-gun-crimes]] | CYB-FUP-621 | 3 | absorbed | follow-on | 1 | 4.00 | 1 |
+| [[operation-ross-ulbricht-found-guilty-on-all-counts]] | CYB-FUP-622 | 1 | absorbed | follow-on | 1 | 4.00 | 1 |
+| [[operation-ross-ulbricht-sentenced-to-life-in-prison]] | CYB-FUP-623 | 1 | absorbed | follow-on | 1 | 4.00 | 1 |
+| [[operation-russian-national-indicted-in-east-texas-for-cyber-hacking-enterprise]] | CYB-FUP-624 | 2 | absorbed | follow-on | 1 | 4.00 | 1 |
+| [[operation-seattle-man-who-trafficked-drugs-and-fired-gun-in-international-district-drive-by-sentenced-to-prison]] | CYB-FUP-625 | 3 | absorbed | follow-on | 1 | 4.00 | 1 |
+| [[operation-senior-adviser-to-the-operator-of-the-silk-road-online-black-market-sentenced-to-20-years-in-prison]] | CYB-FUP-626 | 3 | absorbed | follow-on | 1 | 4.00 | 1 |
+| [[operation-seven-charged-after-federal-investigation-disrupts-massive-counterfeit-pill-manufacturing-operation]] | CYB-FUP-627 | 3 | absorbed | follow-on | 1 | 4.00 | 1 |
+| [[operation-seven-indicted-in-seattle-in-connection-with-coast-to-coast-drug-trafficking-conspiracy]] | CYB-FUP-628 | 3 | absorbed | follow-on | 1 | 4.00 | 1 |
+| [[operation-silk-road-drug-vendor-who-claimed-to-commit-murders-for-hire-for-silk-road-founder-ross-ulbricht-charged-with-]] | CYB-FUP-629 | 3 | absorbed | follow-on | 1 | 4.00 | 1 |
+| [[operation-silk-road-vendor-sentenced-to-two-years-in-prison]] | CYB-FUP-630 | 1 | absorbed | follow-on | 1 | 4.00 | 1 |
+| [[operation-six-defendants-charged-with-selling-millions-of-dollars-worth-of-psychedelic-mushrooms-online]] | CYB-FUP-631 | 2 | absorbed | follow-on | 1 | 4.00 | 1 |
+| [[operation-six-indicted-as-part-of-whatcom-county-fentanyl-trafficking-organization]] | CYB-FUP-632 | 3 | absorbed | follow-on | 1 | 4.00 | 1 |
+| [[operation-six-russian-gru-officers-charged-in-connection-with-worldwide-deployment-of-destructive-malware-and-other-disr]] | CYB-FUP-633 | 2 | absorbed | follow-on | 1 | 4.00 | 1 |
+| [[operation-south-korean-national-and-hundreds-of-others-charged-worldwide-in-the-takedown-of-the-largest-darknet-child-po]] | CYB-FUP-634 | 1 | absorbed | follow-on | 1 | 4.00 | 1 |
+| [[operation-st-louis-man-admits-making-rape-threats-to-five-women]] | CYB-FUP-635 | 3 | absorbed | follow-on | 1 | 4.00 | 1 |
+| [[operation-ten-members-of-international-cyber-fraud-ring-indicted-for-refund-fraud-scheme-targeting-online-retailers]] | CYB-FUP-636 | 3 | absorbed | follow-on | 1 | 4.00 | 1 |
+| [[operation-tennessee-man-indicted-on-federal-charges-in-cyberstalking-and-identity-theft-case]] | CYB-FUP-637 | 1 | absorbed | follow-on | 1 | 4.00 | 1 |
+| [[operation-texas-man-sentenced-to-9-months-in-federal-prison-for-operating-website-that-offered-computer-attack-services]] | CYB-FUP-638 | 3 | absorbed | follow-on | 1 | 4.00 | 1 |
+| [[operation-thompson-man-who-downloaded-child-sex-abuse-images-from-the-internet-is-sentenced]] | CYB-FUP-639 | 2 | absorbed | follow-on | 1 | 4.00 | 1 |
+| [[operation-three-allegedly-responsible-for-distributing-thousands-of-fentanyl-pills-in-whatcom-county-indicted-for-drug-d]] | CYB-FUP-640 | 2 | absorbed | follow-on | 1 | 4.00 | 1 |
+| [[operation-three-arrested-as-interpol-group-ib-and-the-nigeria-police-force-disrupt-prol]] | CYB-FUP-641 | 2 | absorbed | follow-on | 1 | 4.00 | 1 |
+| [[operation-three-defendants-indicted-on-federal-firearms-charges]] | CYB-FUP-642 | 3 | absorbed | follow-on | 1 | 4.00 | 1 |
+| [[operation-three-l-a-residents-charged-in-darknet-drug-ring-that-allegedly-shipped-methamphetamine-to-buyers-around-the-w]] | CYB-FUP-643 | 1 | absorbed | follow-on | 1 | 4.00 | 1 |
+| [[operation-three-mexican-nationals-arrested-with-14-kilograms-of-crystal-methamphetamine]] | CYB-FUP-644 | 3 | absorbed | follow-on | 1 | 4.00 | 1 |
+| [[operation-twelve-people-charged-in-two-indictments-following-investigation-of-drug-trafficking-ring]] | CYB-FUP-645 | 2 | absorbed | follow-on | 1 | 4.00 | 1 |
+| [[operation-two-arrested-for-alleged-conspiracy-to-launder-4-5-billion-in-stolen-cryptocurrency]] | CYB-FUP-646 | 2 | absorbed | follow-on | 1 | 4.00 | 1 |
+| [[operation-two-drug-traffickers-sentenced-to-lengthy-prison-terms-in-case-arising-from-investigation-of-aryan-family-pris]] | CYB-FUP-647 | 3 | absorbed | follow-on | 1 | 4.00 | 1 |
+| [[operation-two-estonian-citizens-arrested-in-575-million-cryptocurrency-fraud-and-money-laundering-scheme]] | CYB-FUP-648 | 2 | absorbed | follow-on | 1 | 4.00 | 1 |
+| [[operation-two-indicted-for-drug-trafficking-conspiracy]] | CYB-FUP-649 | 3 | absorbed | follow-on | 1 | 4.00 | 1 |
+| [[operation-two-men-indicted-for-international-conspiracy-to-ship-fentanyl-other-drugs-into-united-states-through-dark-web]] | CYB-FUP-650 | 2 | absorbed | follow-on | 1 | 4.00 | 1 |
+| [[operation-two-men-indicted-in-sim-swapping-scheme-to-steal-cryptocurrency]] | CYB-FUP-651 | 1 | absorbed | follow-on | 1 | 4.00 | 1 |
+| [[operation-two-sentenced-in-dark-web-identity-theft-and-retail-fraud-conspiracy]] | CYB-FUP-652 | 3 | absorbed | follow-on | 1 | 4.00 | 1 |
+| [[operation-two-texas-men-charged-in-stealing-over-a-million-dollars-in-a-romance-scam]] | CYB-FUP-653 | 2 | absorbed | follow-on | 1 | 4.00 | 1 |
+| [[operation-united-states-seized-and-files-forfeiture-action-to-recover-over-54-million-of-cryptocurrency-traceable-to-nar]] | CYB-FUP-654 | 3 | absorbed | follow-on | 1 | 4.00 | 1 |
+| [[operation-us-v-indicted-for-role-in]] | CYB-FUP-655 | 3 | absorbed | follow-on | 1 | 4.00 | 1 |
+| [[operation-us-v-of-silk-road]] | CYB-FUP-656 | 1 | absorbed | follow-on | 1 | 4.00 | 1 |
+| [[operation-usd-257-million-seized-in-global-police-crackdown-against-online-scams-operation-first-light-2024-2]] | CYB-FUP-657 | 3 | absorbed | follow-on | 1 | 4.00 | 1 |
+| [[operation-usd-257-million-seized-in-global-police-crackdown-against-online-scams-operation-first-light-2024-3]] | CYB-FUP-658 | 3 | absorbed | follow-on | 1 | 4.00 | 1 |
+| [[operation-usd-257-million-seized-in-global-police-crackdown-against-online-scams-operation-first-light-2024]] | CYB-FUP-659 | 3 | absorbed | follow-on | 1 | 4.00 | 1 |
+| [[operation-usd-300-million-seized-and-3-500-suspects-arrested-in-international-financial-crime-operation-operation-haechi-2]] | CYB-FUP-660 | 3 | absorbed | follow-on | 1 | 4.00 | 1 |
+| [[operation-usd-300-million-seized-and-3-500-suspects-arrested-in-international-financial-crime-operation-operation-haechi-3]] | CYB-FUP-661 | 3 | absorbed | follow-on | 1 | 4.00 | 1 |
+| [[operation-usd-300-million-seized-and-3-500-suspects-arrested-in-international-financial-crime-operation-operation-haechi]] | CYB-FUP-662 | 3 | absorbed | follow-on | 1 | 4.00 | 1 |
+| [[operation-usd-300-million-seized-and-3-500-suspects-arrested-operation-haechi-iv]] | CYB-FUP-663 | 3 | absorbed | follow-on | 1 | 4.00 | 1 |
+| [[operation-usps-employee-indicted-for-misappropriation-of-funds]] | CYB-FUP-664 | 3 | absorbed | follow-on | 1 | 4.00 | 1 |
+| [[operation-van-nuys-man-sentenced-to-more-than-20-years-in-prison-for-trafficking-fentanyl-and-cocaine-via-darknet-market]] | CYB-FUP-665 | 3 | absorbed | follow-on | 1 | 4.00 | 1 |
+| [[operation-vancouver-washington-man-sentenced-to-10-years-in-prison-for-drug-trafficking-while-possessing-firearms]] | CYB-FUP-666 | 3 | absorbed | follow-on | 1 | 4.00 | 1 |
+| [[operation-weleakinfo-to-and-related-domain-names-seized]] | CYB-FUP-667 | 2 | absorbed | follow-on | 1 | 4.00 | 1 |
+| [[operation-wichita-man-indicted-for-firearms-charges]] | CYB-FUP-668 | 3 | absorbed | follow-on | 1 | 4.00 | 1 |
+| [[operation-administrator-of-online-criminal-marketplace-extradited-from-kosovo-to-the-united-states]] | CYB-FUP-670 | 3 | absorbed | follow-on | 1 | 4.00 | 1 |
+| [[operation-chinese-national-sentenced-prison-role-crypto-scam-targeting-americans]] | CYB-FUP-677 | 3 | absorbed | follow-on | 1 | 4.00 | 1 |
+| [[operation-euclid-ohio-man-pleads-guilty-distribution-fentanyl-he-ordered-china-and-sold]] | CYB-FUP-687 | 1 | absorbed | follow-on | 1 | 4.00 | 1 |
+| [[operation-foreign-national-pleads-guilty-to-role-in-cybercrime-schemes-involving-tens-of-millions-of-dollars-in-losses]] | CYB-FUP-693 | 3 | absorbed | follow-on | 1 | 4.00 | 1 |
+| [[operation-internet-stalker-sentenced-to-more-than-14-years-in-federal-prison]] | CYB-FUP-699 | 1 | absorbed | follow-on | 1 | 4.00 | 1 |
+| [[operation-iranian-man-pleaded-guilty-to-role-in-robbinhood-ransomware]] | CYB-FUP-700 | 3 | absorbed | follow-on | 1 | 4.00 | 1 |
+| [[operation-jordanian-man-admits-selling-unauthorized-access-to-computer-networks-of-50-companies]] | CYB-FUP-701 | 3 | absorbed | follow-on | 1 | 4.00 | 1 |
+| [[operation-justice-department-secures-forfeiture-of-over-5m-of-funds-traceable-to-business-email-compromise-scheme-target]] | CYB-FUP-702 | 3 | absorbed | follow-on | 1 | 4.00 | 1 |
+| [[operation-justice-department-seeks-forfeiture-of-848-247-in-cryptocurrency-from-confidence-scams]] | CYB-FUP-703 | 3 | absorbed | follow-on | 1 | 4.00 | 1 |
+| [[operation-kosovo-national-pleads-guilty-to-operating-an-online-criminal-marketplace]] | CYB-FUP-704 | 3 | absorbed | follow-on | 1 | 4.00 | 1 |
+| [[operation-long-beach-man-pleads-guilty-to-production-and-distribution-of-images-of-minors-engaging-in-sexually-explicit-]] | CYB-FUP-705 | 3 | absorbed | follow-on | 1 | 4.00 | 1 |
+| [[operation-long-beach-man-sentenced-to-110-years-in-prison-for-production-of-images-of-minors-engaging-in-sexually-explic]] | CYB-FUP-706 | 3 | absorbed | follow-on | 1 | 4.00 | 1 |
+| [[operation-massachusetts-man-pleads-guilty-to-firearm-offenses-and-unlawful-entry-into-the-u-s]] | CYB-FUP-707 | 3 | absorbed | follow-on | 1 | 4.00 | 1 |
+| [[operation-mississippi-county-sheriff-indicted-on-charges-of-identity-theft]] | CYB-FUP-708 | 1 | absorbed | follow-on | 1 | 4.00 | 1 |
+| [[operation-montgomery-county-doctor-charged-with-illegally-prescribing-opioids]] | CYB-FUP-709 | 1 | absorbed | follow-on | 1 | 4.00 | 1 |
+| [[operation-nebraska-man-pleads-guilty-in-multi-million-dollar-cryptojacking-case]] | CYB-FUP-710 | 3 | absorbed | follow-on | 1 | 4.00 | 1 |
+| [[operation-new-britain-man-sentenced-to-10-years-in-prison-for-distributing-fentanyl]] | CYB-FUP-711 | 1 | absorbed | follow-on | 1 | 4.00 | 1 |
+| [[operation-new-britain-man-sentenced-to-66-months-in-prison-for-distributing-fentanyl]] | CYB-FUP-712 | 1 | absorbed | follow-on | 1 | 4.00 | 1 |
+| [[operation-new-york-man-sentenced-to-24-months-in-prison-for-internet-offenses-including-doxing-swatting-making-a-false-b]] | CYB-FUP-713 | 1 | absorbed | follow-on | 1 | 4.00 | 1 |
+| [[operation-new-york-man-sentenced-to-84-months-in-prison-for-conspiring-to-engage-in-multimillion-dollar-wire-fraud-schem]] | CYB-FUP-714 | 3 | absorbed | follow-on | 1 | 4.00 | 1 |
+| [[operation-north-philadelphia-pill-mill-doctor-sentenced-to-five-years-in-prison-for-illegal-opioid-distribution]] | CYB-FUP-715 | 2 | absorbed | follow-on | 1 | 4.00 | 1 |
+| [[operation-o-c-man-admits-operating-unlicensed-atm-network-that-laundered-millions-of-dollars-of-bitcoin-and-cash-for-cri]] | CYB-FUP-716 | 2 | absorbed | follow-on | 1 | 4.00 | 1 |
+| [[operation-pennsylvania-man-convicted-of-distributing-fentanyl-analogue-that-killed-orlando-woman]] | CYB-FUP-717 | 1 | absorbed | follow-on | 1 | 4.00 | 1 |
+| [[operation-pineville-man-sentenced-to-five-years-in-prison-for-accessing-child-pornography-online]] | CYB-FUP-718 | 1 | absorbed | follow-on | 1 | 4.00 | 1 |
+| [[operation-pittsburg-resident-pleads-guilty-to-stolen-identity-tax-fraud]] | CYB-FUP-719 | 1 | absorbed | follow-on | 1 | 4.00 | 1 |
+| [[operation-prince-georges-county-man-sentenced-to-seven-years-in-federal-prison-for-a-heroin-distribution-conspiracy-cond]] | CYB-FUP-720 | 2 | absorbed | follow-on | 1 | 4.00 | 1 |
+| [[operation-prior-felon-pleads-guilty-to-cyberstalking]] | CYB-FUP-721 | 3 | absorbed | follow-on | 1 | 4.00 | 1 |
+| [[operation-romanian-national-pleads-guilty-selling-access-networks-oregon-state-government-office]] | CYB-FUP-722 | 3 | absorbed | follow-on | 1 | 4.00 | 1 |
+| [[operation-romanian-national-pleads-guilty-to-selling-access-to-networks-of-oregon-state-government-office-and-other-u-s--2]] | CYB-FUP-723 | 3 | absorbed | follow-on | 1 | 4.00 | 1 |
+| [[operation-romanian-national-pleads-guilty-to-selling-access-to-networks-of-oregon-state-government-office-and-other-u-s-]] | CYB-FUP-724 | 3 | absorbed | follow-on | 1 | 4.00 | 1 |
+| [[operation-salinas-man-charged-in-embezzlement-scheme]] | CYB-FUP-725 | 1 | absorbed | follow-on | 1 | 4.00 | 1 |
+| [[operation-salinas-resident-sentenced-to-54-months-in-prison-for-identity-theft-and-preparing-false-tax-returns]] | CYB-FUP-726 | 1 | absorbed | follow-on | 1 | 4.00 | 1 |
+| [[operation-salinas-residents-charged-in-tax-and-mortgage-fraud-scheme]] | CYB-FUP-727 | 1 | absorbed | follow-on | 1 | 4.00 | 1 |
+| [[operation-san-francisco-resident-charged-in-alleged-identity-theft-bank-fraud-and-aggravated-identity-theft-scheme]] | CYB-FUP-728 | 1 | absorbed | follow-on | 1 | 4.00 | 1 |
+| [[operation-san-francisco-resident-sentenced-to-over-three-years-in-prison-for-aggravated-identity-theft]] | CYB-FUP-729 | 1 | absorbed | follow-on | 1 | 4.00 | 1 |
+| [[operation-san-francisco-resident-sentenced-to-seven-years-in-prison-for-stealing-prisoner-identities-and-filing-fraudule]] | CYB-FUP-730 | 1 | absorbed | follow-on | 1 | 4.00 | 1 |
+| [[operation-san-gabriel-valley-man-admits-cyberstalking-two-teenage-girls]] | CYB-FUP-731 | 2 | absorbed | follow-on | 1 | 4.00 | 1 |
+| [[operation-san-gabriel-valley-man-admits-to-cyberstalking-two-teenage-girls]] | CYB-FUP-732 | 2 | absorbed | follow-on | 1 | 4.00 | 1 |
+| [[operation-san-gabriel-valley-man-sentenced-to-more-than-4-years-in-federal-prison-for-role-in-36-9-million-global-digita]] | CYB-FUP-733 | 3 | absorbed | follow-on | 1 | 4.00 | 1 |
+| [[operation-san-jose-man-pleads-guilty-to-damaging-ciscos-network]] | CYB-FUP-734 | 2 | absorbed | follow-on | 1 | 4.00 | 1 |
+| [[operation-san-jose-resident-pleads-guilty-to-stealing-homeless-individuals-ids-and-using-them-to-seek-fraudulent-tax-ref]] | CYB-FUP-735 | 1 | absorbed | follow-on | 1 | 4.00 | 1 |
+| [[operation-social-services-director-of-a-nursing-home-charged-with-id-theft-from-elderly-residents]] | CYB-FUP-736 | 1 | absorbed | follow-on | 1 | 4.00 | 1 |
+| [[operation-sonoma-county-resident-sentenced-to-30-months-in-prison-for-passport-fraud-and-identity-theft]] | CYB-FUP-737 | 1 | absorbed | follow-on | 1 | 4.00 | 1 |
+| [[operation-southern-california-resident-sentenced-to-34-months-in-prison-for-role-in-bank-fraud-conspiracy]] | CYB-FUP-738 | 1 | absorbed | follow-on | 1 | 4.00 | 1 |
+| [[operation-st-louis-man-sentenced-on-aggravated-id-theft-other-charges]] | CYB-FUP-739 | 2 | absorbed | follow-on | 1 | 4.00 | 1 |
+| [[operation-three-bay-area-defendants-charged-in-false-tax-refund-schemes]] | CYB-FUP-740 | 1 | absorbed | follow-on | 1 | 4.00 | 1 |
+| [[operation-twelve-defendants-convicted-in-cross-state-social-media-drug-trafficking-conspiracy]] | CYB-FUP-741 | 3 | absorbed | follow-on | 1 | 4.00 | 1 |
+| [[operation-two-men-charged-in-multi-million-dollar-darknet-drug-distribution-conspiracy]] | CYB-FUP-742 | 2 | absorbed | follow-on | 1 | 4.00 | 1 |
+| [[operation-two-stockton-residents-charged-with-sexual-exploitation-of-a-minor]] | CYB-FUP-743 | 2 | absorbed | follow-on | 1 | 4.00 | 1 |
+| [[operation-two-virginia-men-arrested-for-conspiring-to-destroy-government-databases]] | CYB-FUP-744 | 3 | absorbed | follow-on | 1 | 4.00 | 1 |
+| [[operation-u-k-citizen-extradited-and-pleads-guilty-to-cybercrime-offenses]] | CYB-FUP-745 | 3 | absorbed | follow-on | 1 | 4.00 | 1 |
+| [[operation-u-s-attorney-heap-announces-forfeiture-of-cryptocurrency-and-return-of-fraud-proceeds-to-victim]] | CYB-FUP-746 | 3 | absorbed | follow-on | 1 | 4.00 | 1 |
+| [[operation-us-v-antoin-austin]] | CYB-FUP-747 | 1 | absorbed | follow-on | 1 | 4.00 | 1 |
+| [[operation-us-v-brandon-robinson]] | CYB-FUP-748 | 1 | absorbed | follow-on | 1 | 4.00 | 1 |
+| [[operation-us-v-bryson-whiteside]] | CYB-FUP-749 | 2 | absorbed | follow-on | 1 | 4.00 | 1 |
+| [[operation-us-v-carl-de-vera-bennington]] | CYB-FUP-750 | 2 | absorbed | follow-on | 1 | 4.00 | 1 |
+| [[operation-us-v-catalin-dragomir]] | CYB-FUP-751 | 3 | absorbed | follow-on | 1 | 4.00 | 1 |
+| [[operation-us-v-corey-brossette]] | CYB-FUP-752 | 1 | absorbed | follow-on | 1 | 4.00 | 1 |
+| [[operation-us-v-cory-hutcheson]] | CYB-FUP-753 | 1 | absorbed | follow-on | 1 | 4.00 | 1 |
+| [[operation-us-v-daniel-richter]] | CYB-FUP-754 | 3 | absorbed | follow-on | 1 | 4.00 | 1 |
+| [[operation-us-v-elizabeth-calderon]] | CYB-FUP-755 | 1 | absorbed | follow-on | 1 | 4.00 | 1 |
+| [[operation-us-v-firas-bashiti]] | CYB-FUP-756 | 3 | absorbed | follow-on | 1 | 4.00 | 1 |
+| [[operation-us-v-howard-webber]] | CYB-FUP-757 | 1 | absorbed | follow-on | 1 | 4.00 | 1 |
+| [[operation-us-v-in-alleged-identity-theft-and-san-francisco-resident]] | CYB-FUP-758 | 1 | absorbed | follow-on | 1 | 4.00 | 1 |
+| [[operation-us-v-in-embezzlement-scheme]] | CYB-FUP-759 | 1 | absorbed | follow-on | 1 | 4.00 | 1 |
+| [[operation-us-v-in-false-tax-refund]] | CYB-FUP-760 | 1 | absorbed | follow-on | 1 | 4.00 | 1 |
+| [[operation-us-v-in-tax-and-mortgage-and-salinas-residents]] | CYB-FUP-761 | 1 | absorbed | follow-on | 1 | 4.00 | 1 |
+| [[operation-us-v-internet-stalker]] | CYB-FUP-762 | 1 | absorbed | follow-on | 1 | 4.00 | 1 |
+| [[operation-us-v-jabbaar-smith]] | CYB-FUP-763 | 1 | absorbed | follow-on | 1 | 4.00 | 1 |
+| [[operation-us-v-james-verl-barlow-matthew-taylor-barlow-and-jennifer-helen-cambpell]] | CYB-FUP-764 | 2 | absorbed | follow-on | 1 | 4.00 | 1 |
+| [[operation-us-v-jaziz-jesahias-cea]] | CYB-FUP-765 | 2 | absorbed | follow-on | 1 | 4.00 | 1 |
+| [[operation-us-v-jian-zhang]] | CYB-FUP-766 | 1 | absorbed | follow-on | 1 | 4.00 | 1 |
+| [[operation-us-v-jingliang-su]] | CYB-FUP-767 | 3 | absorbed | follow-on | 1 | 4.00 | 1 |
+| [[operation-us-v-jonathan-michael-thornton-and-katherine-leann-herrera]] | CYB-FUP-768 | 2 | absorbed | follow-on | 1 | 4.00 | 1 |
+| [[operation-us-v-justin-mesael-novoa]] | CYB-FUP-769 | 3 | absorbed | follow-on | 1 | 4.00 | 1 |
+| [[operation-us-v-kais-mohammad]] | CYB-FUP-770 | 2 | absorbed | follow-on | 1 | 4.00 | 1 |
+| [[operation-us-v-kevin-marc-crotteau-and-brandon-paul-bart]] | CYB-FUP-771 | 2 | absorbed | follow-on | 1 | 4.00 | 1 |
+| [[operation-us-v-kevin-ombisi]] | CYB-FUP-772 | 2 | absorbed | follow-on | 1 | 4.00 | 1 |
+| [[operation-us-v-luis-teixeira-da-silva]] | CYB-FUP-773 | 3 | absorbed | follow-on | 1 | 4.00 | 1 |
+| [[operation-us-v-michael-inman]] | CYB-FUP-774 | 1 | absorbed | follow-on | 1 | 4.00 | 1 |
+| [[operation-us-v-michael-johnson]] | CYB-FUP-775 | 1 | absorbed | follow-on | 1 | 4.00 | 1 |
+| [[operation-us-v-mir-islam]] | CYB-FUP-776 | 1 | absorbed | follow-on | 1 | 4.00 | 1 |
+| [[operation-us-v-myron-rodos]] | CYB-FUP-777 | 2 | absorbed | follow-on | 1 | 4.00 | 1 |
+| [[operation-us-v-of-distributing-fentanyl-analogue]] | CYB-FUP-778 | 1 | absorbed | follow-on | 1 | 4.00 | 1 |
+| [[operation-us-v-omar-thomas-wala-and-vienna-cavanaugh]] | CYB-FUP-780 | 3 | absorbed | follow-on | 1 | 4.00 | 1 |
+| [[operation-us-v-paul-andrew-talley]] | CYB-FUP-781 | 1 | absorbed | follow-on | 1 | 4.00 | 1 |
+| [[operation-us-v-road-task-force-agent]] | CYB-FUP-782 | 1 | absorbed | follow-on | 1 | 4.00 | 1 |
+| [[operation-us-v-ronald-victor-solakian]] | CYB-FUP-783 | 1 | absorbed | follow-on | 1 | 4.00 | 1 |
+| [[operation-us-v-shengsheng-he]] | CYB-FUP-784 | 3 | absorbed | follow-on | 1 | 4.00 | 1 |
+| [[operation-us-v-terrell-fuller]] | CYB-FUP-785 | 3 | absorbed | follow-on | 1 | 4.00 | 1 |
+| [[operation-us-v-timothy-dalton-vaughn]] | CYB-FUP-786 | 2 | absorbed | follow-on | 1 | 4.00 | 1 |
+| [[operation-us-v-to-over-three-years-and-san-francisco-resident]] | CYB-FUP-787 | 1 | absorbed | follow-on | 1 | 4.00 | 1 |
+| [[operation-us-v-vladimir-dunaev]] | CYB-FUP-788 | 3 | absorbed | follow-on | 1 | 4.00 | 1 |
+| [[operation-us-v-vyacheslav-igorevich-penchukov]] | CYB-FUP-789 | 3 | absorbed | follow-on | 1 | 4.00 | 1 |
+| [[operation-us-v-wemerson-dutra-aguiar]] | CYB-FUP-790 | 2 | absorbed | follow-on | 1 | 4.00 | 1 |
+| [[operation-us-v-with-selling-fentanyl-and-and-father-and-son]] | CYB-FUP-791 | 1 | absorbed | follow-on | 1 | 4.00 | 1 |
+| [[operation-us-v-yutong-zhang]] | CYB-FUP-792 | 2 | absorbed | follow-on | 1 | 4.00 | 1 |
+| [[operation-wakefield-man-pleads-guilty-to-role-in-methamphetamine-trafficking-ring]] | CYB-FUP-793 | 3 | absorbed | follow-on | 1 | 4.00 | 1 |
+| [[operation-weleakinfo-com-domain-name-seized]] | CYB-FUP-794 | 2 | absorbed | follow-on | 1 | 4.00 | 1 |
+| [[operation-winnebago-county-woman-pleads-guilty-to-wire-fraud-for-stealing-funds-from-a-booster-club]] | CYB-FUP-795 | 3 | absorbed | follow-on | 1 | 4.00 | 1 |
+| [[operation-almost-1-000-suspects-arrested-in-interpol-operation-which-seized-over-129-million]] | CYB-FUP-796 | 2 | absorbed | follow-on | 1 | 4.00 | 1 |
+| [[operation-darknet-drug-vendor-arrested-for-distributing-illicit-prescription-drugs]] | CYB-FUP-815 | 2 | absorbed | follow-on | 1 | 4.00 | 1 |
+| [[operation-ghost-cybercrime-platform-dismantled-in-global-operation-51-arrested]] | CYB-FUP-832 | 3 | absorbed | follow-on | 1 | 4.00 | 1 |
+| [[operation-interpol-seized-130-million-from-cybercriminals-in-global-haechi-iii-crackdown]] | CYB-FUP-833 | 2 | absorbed | follow-on | 1 | 4.00 | 1 |
+| [[operation-interpol-seized-130-million-from-cybercriminals-worldwide]] | CYB-FUP-834 | 2 | absorbed | follow-on | 1 | 4.00 | 1 |
+| [[operation-interpol-seized-130-million-from]] | CYB-FUP-835 | 2 | absorbed | follow-on | 1 | 4.00 | 1 |
+| [[operation-irish-man-who-helped-operate-the-silk-road-website-sentenced-in-manhattan-federal-court-to-over-six-years-in-p]] | CYB-FUP-836 | 1 | absorbed | follow-on | 1 | 4.00 | 1 |
+| [[operation-los-angeles-county-woman-pleads-guilty-to-conspiring-to-distribute-heroin-methamphetamine-and-cocaine-on-the-d]] | CYB-FUP-837 | 2 | absorbed | follow-on | 1 | 4.00 | 1 |
+| [[operation-man-pleads-guilty-to-conspiracy-to-distribute-meth-on-the-darknet]] | CYB-FUP-838 | 2 | absorbed | follow-on | 1 | 4.00 | 1 |
+| [[operation-man-sentenced-for-conspiracy-to-distribute-meth-on-the-darknet]] | CYB-FUP-839 | 2 | absorbed | follow-on | 1 | 4.00 | 1 |
+| [[operation-man-sentenced-for-stealing-over-712-bitcoin-subject-to-forfeiture]] | CYB-FUP-840 | 3 | absorbed | follow-on | 1 | 4.00 | 1 |
+| [[operation-man-sentenced-for-transnational-cybercrime-enterprise]] | CYB-FUP-841 | 2 | absorbed | follow-on | 1 | 4.00 | 1 |
+| [[operation-multiple-foreign-nationals-charged-in-connection-with-trickbot-and-conti]] | CYB-FUP-842 | 3 | absorbed | follow-on | 1 | 4.00 | 1 |
+| [[operation-new-york-man-admits-continuing-to-sell-counterfeit-xanax-on-dark-web]] | CYB-FUP-843 | 3 | absorbed | follow-on | 1 | 4.00 | 1 |
+| [[operation-new-york-man-indicted-in-st-louis-accused-of-selling-counterfeit-xanax-on-dark-web]] | CYB-FUP-844 | 3 | absorbed | follow-on | 1 | 4.00 | 1 |
+| [[operation-nigerian-national-sentenced-to-more-than-12-years-in-federal-prison-for-cyber-scams]] | CYB-FUP-845 | 3 | absorbed | follow-on | 1 | 4.00 | 1 |
+| [[operation-nigerian-scammer-arrested-for-60-million-email-fraud]] | CYB-FUP-846 | 1 | absorbed | follow-on | 1 | 4.00 | 1 |
+| [[operation-operation-haechi-iii-interpol-arrested-1000-cyber-criminals-seized-130-million]] | CYB-FUP-847 | 2 | absorbed | follow-on | 1 | 4.00 | 1 |
+| [[operation-operator-of-helix-darknet-cryptocurrency-mixer-sentenced-in-money-laundering-conspiracy-involving-hundreds-of-]] | CYB-FUP-848 | 3 | absorbed | follow-on | 1 | 4.00 | 1 |
+| [[operation-operator-of-silk-road-2-0-website-charged-in-manhattan-federal-court]] | CYB-FUP-849 | 1 | absorbed | follow-on | 1 | 4.00 | 1 |
+| [[operation-pennsylvania-man-sentenced-to-life-in-federal-prison-for-dealing-fentanyl-analogue-that-caused-fatal-overdoses]] | CYB-FUP-850 | 3 | absorbed | follow-on | 1 | 4.00 | 1 |
+| [[operation-ross-ulbricht-a-k-a-dread-pirate-roberts-sentenced-in-manhattan-federal-court-to-life-in-prison]] | CYB-FUP-851 | 1 | absorbed | follow-on | 1 | 4.00 | 1 |
+| [[operation-ross-ulbricht-sentenced-to-life-in-federal-prison]] | CYB-FUP-852 | 1 | absorbed | follow-on | 1 | 4.00 | 1 |
+| [[operation-russian-malware-developer-arrested-and-extradited-to-the-united-states]] | CYB-FUP-853 | 3 | absorbed | follow-on | 1 | 4.00 | 1 |
+| [[operation-russian-trickbot-malware-dev-sentenced-to-64-months-in-prison]] | CYB-FUP-854 | 3 | absorbed | follow-on | 1 | 4.00 | 1 |
+| [[operation-senior-advisor-arrested-in-thailand]] | CYB-FUP-855 | 1 | absorbed | follow-on | 1 | 4.00 | 1 |
+| [[operation-servers-seized-in-ukraine-moldova-as-germany-takes-down-world-s-largest-illegal-darknet-marketplace]] | CYB-FUP-856 | 2 | absorbed | follow-on | 1 | 4.00 | 1 |
+| [[operation-tattoo-shop-owner-pleads-guilty-to-distributing-heroin-and-methamphetamine-on-the-darknet]] | CYB-FUP-857 | 2 | absorbed | follow-on | 1 | 4.00 | 1 |
+| [[operation-texas-residents-sentenced-for-their-involvement-in-a-counterfeit-prescription-drug-distribution-operation]] | CYB-FUP-858 | 3 | absorbed | follow-on | 1 | 4.00 | 1 |
+| [[operation-the-drug-llama-pleads-guilty-to-distributing-fentanyl-on-the-dark-web]] | CYB-FUP-859 | 1 | absorbed | follow-on | 1 | 4.00 | 1 |
+| [[operation-two-former-employees-of-house-member-indicted-on-federal-charges-in-cyberstalking-case]] | CYB-FUP-860 | 1 | absorbed | follow-on | 1 | 4.00 | 1 |
+| [[operation-two-russian-nationals-charged-in-connection-with-operating-billion-dollar-money-laundering-services-justice-de]] | CYB-FUP-861 | 3 | absorbed | follow-on | 1 | 4.00 | 1 |
+| [[operation-two-sacramento-men-indicted-for-distributing-cocaine-and-marijuana-on-dark-web-marketplaces]] | CYB-FUP-862 | 1 | absorbed | follow-on | 1 | 4.00 | 1 |
+| [[operation-union-county-new-jersey-man-charged-with-receiving-child-pornography]] | CYB-FUP-863 | 1 | absorbed | follow-on | 1 | 4.00 | 1 |
+| [[operation-washington-pa-man-charged-with-cyberstalking]] | CYB-FUP-864 | 2 | absorbed | follow-on | 1 | 4.00 | 1 |
+| [[operation-16-defendants-federally-charged-in-connection-with-danabot-malware-scheme-that-infected-computers-worldwide]] | CYB-FUP-865 | 3 | absorbed | follow-on | 1 | 4.00 | 1 |
+| [[operation-alleged-russian-cryptocurrency-money-launderer-extradited-to-united-states]] | CYB-FUP-870 | 2 | absorbed | follow-on | 1 | 4.00 | 1 |
+| [[operation-brazilian-extradited-from-switzerland-to-the-united-states-to-face-indictment-charging-involvement-in-290m-cry]] | CYB-FUP-891 | 3 | absorbed | follow-on | 1 | 4.00 | 1 |
+| [[operation-culpeper-woman-arrested-in-dark-web-murder-for-hire-plot]] | CYB-FUP-916 | 2 | absorbed | follow-on | 1 | 4.00 | 1 |
+| [[operation-darknet-vendor-arrested-on-distribution-and-money-laundering-charges]] | CYB-FUP-927 | 2 | absorbed | follow-on | 1 | 4.00 | 1 |
+| [[operation-dual-russian-and-israeli-national-extradited-to-the-united-states-for-his-role-in-the-lockbit-ransomware-consp]] | CYB-FUP-940 | 3 | absorbed | follow-on | 1 | 4.00 | 1 |
+| [[operation-estonian-national-extradited-from-estonia-to-face-charges-of-illegal-procurement-of-u-s-electronics]] | CYB-FUP-945 | 1 | absorbed | follow-on | 1 | 4.00 | 1 |
+| [[operation-florida-computer-programmer-arrested-for-hacking]] | CYB-FUP-958 | 1 | absorbed | follow-on | 1 | 4.00 | 1 |
+| [[operation-foreign-national-indicted-in-wire-fraud-scheme]] | CYB-FUP-961 | 3 | absorbed | follow-on | 1 | 4.00 | 1 |
+| [[operation-foreign-national-sentenced-for-victimizing-u-s-persons-through-cyber-enabled-fraud-schemes]] | CYB-FUP-962 | 3 | absorbed | follow-on | 1 | 4.00 | 1 |
+| [[operation-foreign-nationals-sentenced-for-roles-in-transnational-cybercrime-enterprise]] | CYB-FUP-963 | 3 | absorbed | follow-on | 1 | 4.00 | 1 |
+| [[operation-former-childcare-provider-sentenced-to-15-years-in-federal-prison-for-the-production-of-child-sexual-abuse-mat]] | CYB-FUP-964 | 3 | absorbed | follow-on | 1 | 4.00 | 1 |
+| [[operation-former-commander-and-adjutant-of-nonprofit-veterans-organization-indicted-for-wire-fraud-and-tax-fraud]] | CYB-FUP-965 | 3 | absorbed | follow-on | 1 | 4.00 | 1 |
+| [[operation-former-company-chief-financial-officer-indicted-for-using-35-million-in-company-cash-to-invest-in-cryptocurren]] | CYB-FUP-966 | 3 | absorbed | follow-on | 1 | 4.00 | 1 |
+| [[operation-former-emergency-physician-pleads-guilty-to-possessing-child-pornography]] | CYB-FUP-967 | 3 | absorbed | follow-on | 1 | 4.00 | 1 |
+| [[operation-former-employee-of-house-member-sentenced-to-prison-term-on-charges-in-cyberstalking-case]] | CYB-FUP-968 | 1 | absorbed | follow-on | 1 | 4.00 | 1 |
+| [[operation-former-employee-of-silicon-valley-company-pleads-guilty-to-damaging-ex-employers-computers]] | CYB-FUP-969 | 1 | absorbed | follow-on | 1 | 4.00 | 1 |
+| [[operation-former-owner-of-t-mobile-retail-store-in-eagle-rock-found-guilty-of-committing-25-million-scheme-to-illegally-]] | CYB-FUP-976 | 2 | absorbed | follow-on | 1 | 4.00 | 1 |
+| [[operation-former-teaching-assistant-in-st-louis-admits-blackmailing-student]] | CYB-FUP-981 | 2 | absorbed | follow-on | 1 | 4.00 | 1 |
+| [[operation-grand-jury-indicts-knoxville-woman-previously-arrested-in-murder-for-hire-plot]] | CYB-FUP-998 | 3 | absorbed | follow-on | 1 | 4.00 | 1 |
+<!-- END GENERATED OPERATIONS INDEX -->

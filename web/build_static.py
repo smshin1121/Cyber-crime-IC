@@ -19,6 +19,7 @@ from app import (
     parse_page,
     get_category_for_file,
 )
+from operation_scope import operation_scope
 
 OUTPUT_DIR = Path(__file__).resolve().parent.parent / "docs"
 COSMOS_DIR = Path(__file__).resolve().parent.parent / "cosmos"
@@ -120,12 +121,15 @@ def build() -> None:
         except Exception:
             continue
         cat = get_category_for_file(md_file) or ""
+        op_scope = operation_scope(meta) if cat == "operations" or meta.get("type") == "operation" else ""
         search_index.append({
             "slug": md_file.stem,
             "category": cat,
             "title": str(meta.get("title") or md_file.stem),
             "title_ko": str(meta.get("title_ko") or meta.get("official_name_ko") or ""),
             "type": str(meta.get("type") or ""),
+            "status": str(meta.get("status") or ""),
+            "operation_scope": op_scope,
             "text": str(content or "")[:4000],
         })
     (OUTPUT_DIR / "search-index.json").write_text(

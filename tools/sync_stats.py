@@ -11,6 +11,10 @@ from pathlib import Path
 from typing import Any, Dict
 
 import frontmatter
+try:
+    from operation_scope import is_absorbed_operation
+except ModuleNotFoundError:  # pragma: no cover - package import fallback
+    from tools.operation_scope import is_absorbed_operation
 
 WIKI_DIR = Path(__file__).resolve().parent.parent / "wiki"
 TODAY = date.today().isoformat()
@@ -27,6 +31,9 @@ def collect_stats() -> Dict[str, Any]:
 
     stats: Dict[str, Any] = {
         "total_ops": 0,
+        "total_operation_records": 0,
+        "absorbed_ops": 0,
+        "period_missing": 0,
         "period_counts": defaultdict(int),      # period -> count
         "coordinator_counts": defaultdict(int),  # coordinator -> count
         "crime_type_counts": defaultdict(int),
@@ -47,16 +54,24 @@ def collect_stats() -> Dict[str, Any]:
             if md.name.startswith("_"):
                 continue
             try:
-                meta, _ = frontmatter.load(md).metadata, None
                 meta = frontmatter.load(md).metadata
             except Exception:
+                continue
+            stats["total_operation_records"] += 1
+            if is_absorbed_operation(meta):
+                stats["absorbed_ops"] += 1
                 continue
             stats["total_ops"] += 1
 
             # Period
             period = meta.get("period")
             if period:
-                stats["period_counts"][int(period)] += 1
+                try:
+                    stats["period_counts"][int(period)] += 1
+                except (TypeError, ValueError):
+                    stats["period_missing"] += 1
+            else:
+                stats["period_missing"] += 1
 
             # Coordinator
             coord = meta.get("coordinating_body", meta.get("lead_agency", ""))
@@ -176,7 +191,11 @@ def update_overview(stats: Dict[str, Any]) -> int:
     p1 = stats["period_counts"].get(1, 0)
     p2 = stats["period_counts"].get(2, 0)
     p3 = stats["period_counts"].get(3, 0)
+    p4 = stats["period_counts"].get(4, 0)
+    p_missing = stats.get("period_missing", 0)
     total_ops = stats["total_ops"]
+    total_records = stats.get("total_operation_records", total_ops)
+    absorbed_ops = stats.get("absorbed_ops", 0)
 
     coord = stats["coordinator_counts"]
     europol = coord.get("Europol / Europol EC3", 0)
@@ -185,17 +204,21 @@ def update_overview(stats: Dict[str, Any]) -> int:
 
     new_table = f"""| Metric | Value | Period |
 |--------|-------|--------|
-| Total operations documented | {total_ops} | 2014-2025 |
+| Canonical operations documented | {total_ops} | 2014-2026 |
+| Absorbed follow-on records | {absorbed_ops} | Retained for traceability |
+| Total operation records | {total_records} | Canonical + absorbed |
 | Period 1 operations | {p1} | 2014-2018 |
 | Period 2 operations | {p2} | 2019-2022 |
 | Period 3 operations | {p3} | 2023-2025 |
+| Period 4 operations | {p4} | Repository-coded |
+| Operations without period code | {p_missing} | Metadata cleanup queue |
 | Europol-coordinated | {europol} | All periods |
 | INTERPOL-coordinated | {interpol} | All periods |
 | DOJ/US-led | {doj} | All periods |
-| Total arrests (sourced operations) | {stats['total_arrests']:,}+ | Across all operations |
+| Total arrests (canonical operations) | {stats['total_arrests']:,}+ | Across canonical operations |
 | Total servers seized | {stats['total_servers']:,}+ | Primarily Europol operations |
-| Total domains seized | {stats['total_domains']:,}+ | All operations |
-| Unique participating countries | {stats['unique_countries']}+ | All operations |
+| Total domains seized | {stats['total_domains']:,}+ | Canonical operations |
+| Unique participating countries | {stats['unique_countries']}+ | Canonical operations |
 | Sources with dedicated pages | {stats['total_sources']} | {_source_summary(stats)} |
 | Crime types documented | {stats['cat_counts'].get('crime-types', 0)} | All documented types |"""
 
@@ -214,16 +237,28 @@ def update_overview(stats: Dict[str, Any]) -> int:
 
     # Update operation count in executive summary
     content = re.sub(
-        r'\*\*(\d+) operations\*\*',
-        f'**{total_ops} operations**',
+        r'\*\*\d+(?: canonical)? operations\*\*',
+        f'**{total_ops} canonical operations**',
         content,
     )
 
     content = re.sub(
         r"All statistics in this overview are aggregated from the \d+ operation pages and \d+ source pages in the wiki\.",
         (
-            "All statistics in this overview are aggregated from the "
-            f"{total_ops} operation pages and {stats['total_sources']} source pages in the wiki."
+            "Operational statistics in this overview aggregate the "
+            f"{total_ops} canonical operation pages. The wiki also retains "
+            f"{absorbed_ops} absorbed follow-on records for traceability, for "
+            f"{total_records} total operation records, plus {stats['total_sources']} source pages."
+        ),
+        content,
+    )
+    content = re.sub(
+        r"Operational statistics in this overview aggregate the \d+ canonical operation pages\. The wiki also retains \d+ absorbed follow-on records for traceability, for \d+ total operation records, plus \d+ source pages\.",
+        (
+            "Operational statistics in this overview aggregate the "
+            f"{total_ops} canonical operation pages. The wiki also retains "
+            f"{absorbed_ops} absorbed follow-on records for traceability, for "
+            f"{total_records} total operation records, plus {stats['total_sources']} source pages."
         ),
         content,
     )
@@ -260,17 +295,25 @@ def update_dashboard(stats: Dict[str, Any]) -> int:
     changes = 0
 
     total_ops = stats["total_ops"]
+    total_records = stats.get("total_operation_records", total_ops)
+    absorbed_ops = stats.get("absorbed_ops", 0)
     p1 = stats["period_counts"].get(1, 0)
     p2 = stats["period_counts"].get(2, 0)
     p3 = stats["period_counts"].get(3, 0)
+    p4 = stats["period_counts"].get(4, 0)
+    p_missing = stats.get("period_missing", 0)
 
     # Update section 1: 전체 현황 table
     overview_table = f"""| 지표 | 값 |
 |------|-----|
-| 총 작전 수 | {total_ops} |
+| 정본 작전 수 | {total_ops} |
+| 흡수 follow-on 기록 | {absorbed_ops} |
+| 전체 operation 레코드 | {total_records} |
 | Period 1 (2014-2018) | {p1} |
 | Period 2 (2019-2022) | {p2} |
 | Period 3 (2023-2025) | {p3} |
+| Period 4 (repository-coded) | {p4} |
+| Period 미분류 | {p_missing} |
 | 총 출처 수 | {stats['total_sources']} (dedicated pages) + Excel 소스 |"""
 
     old_overview = re.compile(
@@ -316,7 +359,7 @@ def update_dashboard(stats: Dict[str, Any]) -> int:
 | 법적 프레임워크 | {cat.get('legal-frameworks', 0)} | 부다페스트 협약 등 |
 | 기관 | {cat.get('organizations', 0)} | 주요 기관 |
 | 국가 | {cat.get('countries', 0)} | 국가 프로필 |
-| 작전 | {total_ops} | 2014-2025 주요 작전 (P1: {p1}, P2: {p2}, P3: {p3}) |
+| 작전 | {total_records} | 정본 {total_ops}, 흡수 follow-on {absorbed_ops}; P1: {p1}, P2: {p2}, P3: {p3}, P4: {p4}, 미분류: {p_missing} |
 | 메커니즘 | {cat.get('mechanisms', 0)} | 공조 메커니즘 |
 | 범죄유형 | {cat.get('crime-types', 0)} | 문서화된 범죄유형 |
 | 개념 | {cat.get('concepts', 0)} | 법적 개념 |
@@ -336,7 +379,12 @@ def update_dashboard(stats: Dict[str, Any]) -> int:
     # Update info callout at top
     content = re.sub(
         r'위키에 수집된 \d+개 작전과 \d+개 출처',
-        f'위키에 수집된 {total_ops}개 작전과 {stats["total_sources"]}개 출처',
+        f'위키에 수집된 {total_ops}개 정본 작전, {absorbed_ops}개 follow-on 기록, {stats["total_sources"]}개 출처',
+        content,
+    )
+    content = re.sub(
+        r'위키에 수집된 \d+개 정본 작전, \d+개 follow-on 기록, \d+개 출처',
+        f'위키에 수집된 {total_ops}개 정본 작전, {absorbed_ops}개 follow-on 기록, {stats["total_sources"]}개 출처',
         content,
     )
 
@@ -358,7 +406,9 @@ def main() -> None:
 
     stats = collect_stats()
 
-    print(f"\n  Operations: {stats['total_ops']}")
+    print(f"\n  Canonical operations: {stats['total_ops']}")
+    print(f"  Absorbed follow-on records: {stats['absorbed_ops']}")
+    print(f"  Total operation records: {stats['total_operation_records']}")
     print(f"  Sources: {stats['total_sources']}")
     print(f"  Arrests: {stats['total_arrests']:,}")
     print(f"  Servers: {stats['total_servers']:,}")

@@ -1,0 +1,1686 @@
+<!DOCTYPE html>
+<html lang="ko" class="lang-ko">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Source Duplicate Normalization (2026-04-26) — 사이버범죄 국제공조 위키</title>
+  <link rel="stylesheet" href="../../static/style.css">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link href="https://fonts.googleapis.com/css2?family=Noto+Sans+KR:wght@400;600;700&family=Noto+Serif+KR:wght@400;700&display=swap" rel="stylesheet">
+</head>
+<body>
+  <nav class="top-nav">
+    <div class="top-nav-inner">
+      <a href="../../index.html" class="nav-logo">
+        <span class="i18n" data-ko="🌐 사이버범죄 국제공조 위키" data-en="🌐 Cybercrime IC Wiki"></span>
+      </a>
+      <div class="nav-links">
+        <a href="../../category/operations.html"><span class="i18n" data-ko="작전" data-en="Operations"></span></a>
+        <a href="../../category/organizations.html"><span class="i18n" data-ko="기관" data-en="Organizations"></span></a>
+        <a href="../../category/countries.html"><span class="i18n" data-ko="국가" data-en="Countries"></span></a>
+        <a href="../../category/cases.html"><span class="i18n" data-ko="판례" data-en="Cases"></span></a>
+        <div class="nav-more">
+          <button class="nav-more-btn"><span class="i18n" data-ko="더보기 ▾" data-en="More ▾"></span></button>
+          <div class="nav-dropdown">
+            <a href="../../category/legal-frameworks.html"><span class="i18n" data-ko="법적 프레임워크" data-en="Legal Frameworks"></span></a>
+            <a href="../../category/mechanisms.html"><span class="i18n" data-ko="메커니즘" data-en="Mechanisms"></span></a>
+            <a href="../../category/crime-types.html"><span class="i18n" data-ko="범죄유형" data-en="Crime Types"></span></a>
+            <a href="../../category/concepts.html"><span class="i18n" data-ko="개념" data-en="Concepts"></span></a>
+            <a href="../../category/sources.html"><span class="i18n" data-ko="출처" data-en="Sources"></span></a>
+            <a href="../../stats.html"><span class="i18n" data-ko="통계" data-en="Statistics"></span></a>
+          </div>
+        </div>
+        <a href="../../cosmos/index.html" class="nav-cosmos"><span class="i18n" data-ko="&#127760; Cosmos" data-en="&#127760; Cosmos"></span></a>
+      </div>
+      <form class="nav-search" action="../../search.html" method="get">
+        <input type="text" name="q" class="i18n-placeholder" data-ko="위키 검색..." data-en="Search wiki..." value="">
+        <button type="submit"><span class="i18n" data-ko="검색" data-en="Search"></span></button>
+      </form>
+      <button class="lang-toggle" id="langToggle" title="한국어/English">
+        <span class="lang-flag lang-flag-ko">🇰🇷 한</span>
+        <span class="lang-flag lang-flag-en">🇺🇸 EN</span>
+      </button>
+    </div>
+  </nav>
+
+
+<div class="page-wrapper">
+  <main class="article">
+    <div class="article-header">
+      <h1>
+
+          Source Duplicate Normalization (2026-04-26)
+
+      </h1>
+      <div class="article-meta">
+
+          <span class="badge">
+            <span class="i18n" data-ko="analysis" data-en="analysis"></span>
+          </span>
+
+
+          <span><a href="../../category/analysis.html">
+            <span class="i18n"
+              data-ko="분석"
+              data-en="Analysis"></span>
+          </a></span>
+
+
+          <span>
+            <span class="i18n" data-ko="최종 수정" data-en="Updated"></span>: 2026-04-26
+          </span>
+
+
+      </div>
+    </div>
+    <div class="article-body">
+
+        <h2 id="summary"><span class="heading-ko">개요</span><span class="heading-en">Summary</span></h2>
+<p>Duplicate source records were normalized without deleting pages. Canonical source pages remain the primary records, while alternates stay addressable and carry <code>duplicate_of</code> metadata so audits can distinguish active duplicate records from preserved aliases.</p>
+<ul>
+<li>Mode: <strong>apply</strong></li>
+<li>Source pages scanned: <strong>4763</strong></li>
+<li>Duplicate URL groups considered: <strong>940</strong></li>
+<li>Duplicate content-hash groups considered: <strong>16</strong></li>
+<li>Content-hash normalization: <strong>disabled</strong></li>
+<li>New/updated URL aliases: <strong>1166</strong></li>
+<li>New/updated content-hash aliases: <strong>0</strong></li>
+<li>Total alias-marked source pages after normalization: <strong>1166</strong></li>
+</ul>
+<h2 id="alias-changes">Alias Changes</h2>
+<table>
+<thead>
+<tr>
+<th style="text-align: right;">Rank</th>
+<th>Alias</th>
+<th>Canonical</th>
+<th>Reason</th>
+<th>Key</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td style="text-align: right;">1</td>
+<td><a href="../../wiki/sources/2024-01-04_justice-gov_united-states-v-akinola-taylor.html" class="wikilink">2024-01-04_justice-gov_united-states-v-akinola-taylor</a></td>
+<td><a href="../../wiki/sources/2024-01-04_justice-gov_19-individuals-worldwide-charged-in-transnational-cybercrime-investigation-of-th.html" class="wikilink">2024-01-04_justice-gov_19-individuals-worldwide-charged-in-transnational-cybercrime-investigation-of-th</a></td>
+<td>same_collection_url</td>
+<td><a href="https://www.justice.gov/usao-mdfl/pr/19-individuals-worldwide-charged-transnational-cybercrime-investigation-xdedic" target="_blank" rel="noopener noreferrer" title="https://www.justice.gov/usao-mdfl/pr/19-individuals-worldwide-charged-transnational-cybercrime-investigation-xdedic" data-full-url="https://www.justice.gov/usao-mdfl/pr/19-individuals-worldwide-charged-transnational-cybercrime-investigation-xdedic" class="external-link">Link</a></td>
+</tr>
+<tr>
+<td style="text-align: right;">2</td>
+<td><a href="../../wiki/sources/2024-01-04_justice-gov_united-states-v-harold-mckinzie.html" class="wikilink">2024-01-04_justice-gov_united-states-v-harold-mckinzie</a></td>
+<td><a href="../../wiki/sources/2024-01-04_justice-gov_19-individuals-worldwide-charged-in-transnational-cybercrime-investigation-of-th.html" class="wikilink">2024-01-04_justice-gov_19-individuals-worldwide-charged-in-transnational-cybercrime-investigation-of-th</a></td>
+<td>same_collection_url</td>
+<td><a href="https://www.justice.gov/usao-mdfl/pr/19-individuals-worldwide-charged-transnational-cybercrime-investigation-xdedic" target="_blank" rel="noopener noreferrer" title="https://www.justice.gov/usao-mdfl/pr/19-individuals-worldwide-charged-transnational-cybercrime-investigation-xdedic" data-full-url="https://www.justice.gov/usao-mdfl/pr/19-individuals-worldwide-charged-transnational-cybercrime-investigation-xdedic" class="external-link">Link</a></td>
+</tr>
+<tr>
+<td style="text-align: right;">3</td>
+<td><a href="../../wiki/sources/2024-01-04_justice-gov_united-states-v-joshua-spencer.html" class="wikilink">2024-01-04_justice-gov_united-states-v-joshua-spencer</a></td>
+<td><a href="../../wiki/sources/2024-01-04_justice-gov_19-individuals-worldwide-charged-in-transnational-cybercrime-investigation-of-th.html" class="wikilink">2024-01-04_justice-gov_19-individuals-worldwide-charged-in-transnational-cybercrime-investigation-of-th</a></td>
+<td>same_collection_url</td>
+<td><a href="https://www.justice.gov/usao-mdfl/pr/19-individuals-worldwide-charged-transnational-cybercrime-investigation-xdedic" target="_blank" rel="noopener noreferrer" title="https://www.justice.gov/usao-mdfl/pr/19-individuals-worldwide-charged-transnational-cybercrime-investigation-xdedic" data-full-url="https://www.justice.gov/usao-mdfl/pr/19-individuals-worldwide-charged-transnational-cybercrime-investigation-xdedic" class="external-link">Link</a></td>
+</tr>
+<tr>
+<td style="text-align: right;">4</td>
+<td><a href="../../wiki/sources/2024-01-04_justice-gov_united-states-v-olakunle-oyebanjo.html" class="wikilink">2024-01-04_justice-gov_united-states-v-olakunle-oyebanjo</a></td>
+<td><a href="../../wiki/sources/2024-01-04_justice-gov_19-individuals-worldwide-charged-in-transnational-cybercrime-investigation-of-th.html" class="wikilink">2024-01-04_justice-gov_19-individuals-worldwide-charged-in-transnational-cybercrime-investigation-of-th</a></td>
+<td>same_collection_url</td>
+<td><a href="https://www.justice.gov/usao-mdfl/pr/19-individuals-worldwide-charged-transnational-cybercrime-investigation-xdedic" target="_blank" rel="noopener noreferrer" title="https://www.justice.gov/usao-mdfl/pr/19-individuals-worldwide-charged-transnational-cybercrime-investigation-xdedic" data-full-url="https://www.justice.gov/usao-mdfl/pr/19-individuals-worldwide-charged-transnational-cybercrime-investigation-xdedic" class="external-link">Link</a></td>
+</tr>
+<tr>
+<td style="text-align: right;">5</td>
+<td><a href="../../wiki/sources/2024-01-04_justice-gov_united-states-v-olayemi-adafin.html" class="wikilink">2024-01-04_justice-gov_united-states-v-olayemi-adafin</a></td>
+<td><a href="../../wiki/sources/2024-01-04_justice-gov_19-individuals-worldwide-charged-in-transnational-cybercrime-investigation-of-th.html" class="wikilink">2024-01-04_justice-gov_19-individuals-worldwide-charged-in-transnational-cybercrime-investigation-of-th</a></td>
+<td>same_collection_url</td>
+<td><a href="https://www.justice.gov/usao-mdfl/pr/19-individuals-worldwide-charged-transnational-cybercrime-investigation-xdedic" target="_blank" rel="noopener noreferrer" title="https://www.justice.gov/usao-mdfl/pr/19-individuals-worldwide-charged-transnational-cybercrime-investigation-xdedic" data-full-url="https://www.justice.gov/usao-mdfl/pr/19-individuals-worldwide-charged-transnational-cybercrime-investigation-xdedic" class="external-link">Link</a></td>
+</tr>
+<tr>
+<td style="text-align: right;">6</td>
+<td><a href="../../wiki/sources/2024-01-04_justice-gov_united-states-v-oluwarotimi-ogunlana.html" class="wikilink">2024-01-04_justice-gov_united-states-v-oluwarotimi-ogunlana</a></td>
+<td><a href="../../wiki/sources/2024-01-04_justice-gov_19-individuals-worldwide-charged-in-transnational-cybercrime-investigation-of-th.html" class="wikilink">2024-01-04_justice-gov_19-individuals-worldwide-charged-in-transnational-cybercrime-investigation-of-th</a></td>
+<td>same_collection_url</td>
+<td><a href="https://www.justice.gov/usao-mdfl/pr/19-individuals-worldwide-charged-transnational-cybercrime-investigation-xdedic" target="_blank" rel="noopener noreferrer" title="https://www.justice.gov/usao-mdfl/pr/19-individuals-worldwide-charged-transnational-cybercrime-investigation-xdedic" data-full-url="https://www.justice.gov/usao-mdfl/pr/19-individuals-worldwide-charged-transnational-cybercrime-investigation-xdedic" class="external-link">Link</a></td>
+</tr>
+<tr>
+<td style="text-align: right;">7</td>
+<td><a href="../../wiki/sources/2024-01-04_justice-gov_united-states-v-pavlo-kharmanskyi.html" class="wikilink">2024-01-04_justice-gov_united-states-v-pavlo-kharmanskyi</a></td>
+<td><a href="../../wiki/sources/2024-01-04_justice-gov_19-individuals-worldwide-charged-in-transnational-cybercrime-investigation-of-th.html" class="wikilink">2024-01-04_justice-gov_19-individuals-worldwide-charged-in-transnational-cybercrime-investigation-of-th</a></td>
+<td>same_collection_url</td>
+<td><a href="https://www.justice.gov/usao-mdfl/pr/19-individuals-worldwide-charged-transnational-cybercrime-investigation-xdedic" target="_blank" rel="noopener noreferrer" title="https://www.justice.gov/usao-mdfl/pr/19-individuals-worldwide-charged-transnational-cybercrime-investigation-xdedic" data-full-url="https://www.justice.gov/usao-mdfl/pr/19-individuals-worldwide-charged-transnational-cybercrime-investigation-xdedic" class="external-link">Link</a></td>
+</tr>
+<tr>
+<td style="text-align: right;">8</td>
+<td><a href="../../wiki/sources/2024-01-04_mdfl_adafin-xdedic-summary.html" class="wikilink">2024-01-04_mdfl_adafin-xdedic-summary</a></td>
+<td><a href="../../wiki/sources/2024-01-04_justice-gov_19-individuals-worldwide-charged-in-transnational-cybercrime-investigation-of-th.html" class="wikilink">2024-01-04_justice-gov_19-individuals-worldwide-charged-in-transnational-cybercrime-investigation-of-th</a></td>
+<td>same_collection_url</td>
+<td><a href="https://www.justice.gov/usao-mdfl/pr/19-individuals-worldwide-charged-transnational-cybercrime-investigation-xdedic" target="_blank" rel="noopener noreferrer" title="https://www.justice.gov/usao-mdfl/pr/19-individuals-worldwide-charged-transnational-cybercrime-investigation-xdedic" data-full-url="https://www.justice.gov/usao-mdfl/pr/19-individuals-worldwide-charged-transnational-cybercrime-investigation-xdedic" class="external-link">Link</a></td>
+</tr>
+<tr>
+<td style="text-align: right;">9</td>
+<td><a href="../../wiki/sources/2024-01-04_mdfl_kharmanskyi-xdedic-summary.html" class="wikilink">2024-01-04_mdfl_kharmanskyi-xdedic-summary</a></td>
+<td><a href="../../wiki/sources/2024-01-04_justice-gov_19-individuals-worldwide-charged-in-transnational-cybercrime-investigation-of-th.html" class="wikilink">2024-01-04_justice-gov_19-individuals-worldwide-charged-in-transnational-cybercrime-investigation-of-th</a></td>
+<td>same_collection_url</td>
+<td><a href="https://www.justice.gov/usao-mdfl/pr/19-individuals-worldwide-charged-transnational-cybercrime-investigation-xdedic" target="_blank" rel="noopener noreferrer" title="https://www.justice.gov/usao-mdfl/pr/19-individuals-worldwide-charged-transnational-cybercrime-investigation-xdedic" data-full-url="https://www.justice.gov/usao-mdfl/pr/19-individuals-worldwide-charged-transnational-cybercrime-investigation-xdedic" class="external-link">Link</a></td>
+</tr>
+<tr>
+<td style="text-align: right;">10</td>
+<td><a href="../../wiki/sources/2024-01-04_mdfl_mckinzie-xdedic-summary.html" class="wikilink">2024-01-04_mdfl_mckinzie-xdedic-summary</a></td>
+<td><a href="../../wiki/sources/2024-01-04_justice-gov_19-individuals-worldwide-charged-in-transnational-cybercrime-investigation-of-th.html" class="wikilink">2024-01-04_justice-gov_19-individuals-worldwide-charged-in-transnational-cybercrime-investigation-of-th</a></td>
+<td>same_collection_url</td>
+<td><a href="https://www.justice.gov/usao-mdfl/pr/19-individuals-worldwide-charged-transnational-cybercrime-investigation-xdedic" target="_blank" rel="noopener noreferrer" title="https://www.justice.gov/usao-mdfl/pr/19-individuals-worldwide-charged-transnational-cybercrime-investigation-xdedic" data-full-url="https://www.justice.gov/usao-mdfl/pr/19-individuals-worldwide-charged-transnational-cybercrime-investigation-xdedic" class="external-link">Link</a></td>
+</tr>
+<tr>
+<td style="text-align: right;">11</td>
+<td><a href="../../wiki/sources/2024-01-04_mdfl_ogunlana-xdedic-summary.html" class="wikilink">2024-01-04_mdfl_ogunlana-xdedic-summary</a></td>
+<td><a href="../../wiki/sources/2024-01-04_justice-gov_19-individuals-worldwide-charged-in-transnational-cybercrime-investigation-of-th.html" class="wikilink">2024-01-04_justice-gov_19-individuals-worldwide-charged-in-transnational-cybercrime-investigation-of-th</a></td>
+<td>same_collection_url</td>
+<td><a href="https://www.justice.gov/usao-mdfl/pr/19-individuals-worldwide-charged-transnational-cybercrime-investigation-xdedic" target="_blank" rel="noopener noreferrer" title="https://www.justice.gov/usao-mdfl/pr/19-individuals-worldwide-charged-transnational-cybercrime-investigation-xdedic" data-full-url="https://www.justice.gov/usao-mdfl/pr/19-individuals-worldwide-charged-transnational-cybercrime-investigation-xdedic" class="external-link">Link</a></td>
+</tr>
+<tr>
+<td style="text-align: right;">12</td>
+<td><a href="../../wiki/sources/2024-01-04_mdfl_oyebanjo-xdedic-summary.html" class="wikilink">2024-01-04_mdfl_oyebanjo-xdedic-summary</a></td>
+<td><a href="../../wiki/sources/2024-01-04_justice-gov_19-individuals-worldwide-charged-in-transnational-cybercrime-investigation-of-th.html" class="wikilink">2024-01-04_justice-gov_19-individuals-worldwide-charged-in-transnational-cybercrime-investigation-of-th</a></td>
+<td>same_collection_url</td>
+<td><a href="https://www.justice.gov/usao-mdfl/pr/19-individuals-worldwide-charged-transnational-cybercrime-investigation-xdedic" target="_blank" rel="noopener noreferrer" title="https://www.justice.gov/usao-mdfl/pr/19-individuals-worldwide-charged-transnational-cybercrime-investigation-xdedic" data-full-url="https://www.justice.gov/usao-mdfl/pr/19-individuals-worldwide-charged-transnational-cybercrime-investigation-xdedic" class="external-link">Link</a></td>
+</tr>
+<tr>
+<td style="text-align: right;">13</td>
+<td><a href="../../wiki/sources/2024-01-04_mdfl_spencer-xdedic-summary.html" class="wikilink">2024-01-04_mdfl_spencer-xdedic-summary</a></td>
+<td><a href="../../wiki/sources/2024-01-04_justice-gov_19-individuals-worldwide-charged-in-transnational-cybercrime-investigation-of-th.html" class="wikilink">2024-01-04_justice-gov_19-individuals-worldwide-charged-in-transnational-cybercrime-investigation-of-th</a></td>
+<td>same_collection_url</td>
+<td><a href="https://www.justice.gov/usao-mdfl/pr/19-individuals-worldwide-charged-transnational-cybercrime-investigation-xdedic" target="_blank" rel="noopener noreferrer" title="https://www.justice.gov/usao-mdfl/pr/19-individuals-worldwide-charged-transnational-cybercrime-investigation-xdedic" data-full-url="https://www.justice.gov/usao-mdfl/pr/19-individuals-worldwide-charged-transnational-cybercrime-investigation-xdedic" class="external-link">Link</a></td>
+</tr>
+<tr>
+<td style="text-align: right;">14</td>
+<td><a href="../../wiki/sources/2024-01-04_mdfl_taylor-xdedic-summary.html" class="wikilink">2024-01-04_mdfl_taylor-xdedic-summary</a></td>
+<td><a href="../../wiki/sources/2024-01-04_justice-gov_19-individuals-worldwide-charged-in-transnational-cybercrime-investigation-of-th.html" class="wikilink">2024-01-04_justice-gov_19-individuals-worldwide-charged-in-transnational-cybercrime-investigation-of-th</a></td>
+<td>same_collection_url</td>
+<td><a href="https://www.justice.gov/usao-mdfl/pr/19-individuals-worldwide-charged-transnational-cybercrime-investigation-xdedic" target="_blank" rel="noopener noreferrer" title="https://www.justice.gov/usao-mdfl/pr/19-individuals-worldwide-charged-transnational-cybercrime-investigation-xdedic" data-full-url="https://www.justice.gov/usao-mdfl/pr/19-individuals-worldwide-charged-transnational-cybercrime-investigation-xdedic" class="external-link">Link</a></td>
+</tr>
+<tr>
+<td style="text-align: right;">15</td>
+<td><a href="../../wiki/sources/2024-01-24_justice-gov_19-individuals-worldwide-charged-xdedic.html" class="wikilink">2024-01-24_justice-gov_19-individuals-worldwide-charged-xdedic</a></td>
+<td><a href="../../wiki/sources/2024-01-04_justice-gov_19-individuals-worldwide-charged-in-transnational-cybercrime-investigation-of-th.html" class="wikilink">2024-01-04_justice-gov_19-individuals-worldwide-charged-in-transnational-cybercrime-investigation-of-th</a></td>
+<td>same_collection_url</td>
+<td><a href="https://www.justice.gov/usao-mdfl/pr/19-individuals-worldwide-charged-transnational-cybercrime-investigation-xdedic" target="_blank" rel="noopener noreferrer" title="https://www.justice.gov/usao-mdfl/pr/19-individuals-worldwide-charged-transnational-cybercrime-investigation-xdedic" data-full-url="https://www.justice.gov/usao-mdfl/pr/19-individuals-worldwide-charged-transnational-cybercrime-investigation-xdedic" class="external-link">Link</a></td>
+</tr>
+<tr>
+<td style="text-align: right;">16</td>
+<td><a href="../../wiki/sources/2025-05-22_cdca_qakbot-gallyamov-indictment.html" class="wikilink">2025-05-22_cdca_qakbot-gallyamov-indictment</a></td>
+<td><a href="../../wiki/sources/2025-05-22-doj-qakbot-gallyamov-indictment.html" class="wikilink">2025-05-22-doj-qakbot-gallyamov-indictment</a></td>
+<td>same_collection_url</td>
+<td><a href="https://www.justice.gov/opa/pr/leader-qakbot-malware-conspiracy-indicted-involvement-global-ransomware-scheme" target="_blank" rel="noopener noreferrer" title="https://www.justice.gov/opa/pr/leader-qakbot-malware-conspiracy-indicted-involvement-global-ransomware-scheme" data-full-url="https://www.justice.gov/opa/pr/leader-qakbot-malware-conspiracy-indicted-involvement-global-ransomware-scheme" class="external-link">Link</a></td>
+</tr>
+<tr>
+<td style="text-align: right;">17</td>
+<td><a href="../../wiki/sources/2025-05-22_doj_qakbot-gallyamov-indictment.html" class="wikilink">2025-05-22_doj_qakbot-gallyamov-indictment</a></td>
+<td><a href="../../wiki/sources/2025-05-22-doj-qakbot-gallyamov-indictment.html" class="wikilink">2025-05-22-doj-qakbot-gallyamov-indictment</a></td>
+<td>same_collection_url</td>
+<td><a href="https://www.justice.gov/opa/pr/leader-qakbot-malware-conspiracy-indicted-involvement-global-ransomware-scheme" target="_blank" rel="noopener noreferrer" title="https://www.justice.gov/opa/pr/leader-qakbot-malware-conspiracy-indicted-involvement-global-ransomware-scheme" data-full-url="https://www.justice.gov/opa/pr/leader-qakbot-malware-conspiracy-indicted-involvement-global-ransomware-scheme" class="external-link">Link</a></td>
+</tr>
+<tr>
+<td style="text-align: right;">18</td>
+<td><a href="../../wiki/sources/2025-05-22_justice-gov_leader-of-qakbot-malware-conspiracy-indicted-gallyamov-indictment.html" class="wikilink">2025-05-22_justice-gov_leader-of-qakbot-malware-conspiracy-indicted-gallyamov-indictment</a></td>
+<td><a href="../../wiki/sources/2025-05-22-doj-qakbot-gallyamov-indictment.html" class="wikilink">2025-05-22-doj-qakbot-gallyamov-indictment</a></td>
+<td>same_collection_url</td>
+<td><a href="https://www.justice.gov/opa/pr/leader-qakbot-malware-conspiracy-indicted-involvement-global-ransomware-scheme" target="_blank" rel="noopener noreferrer" title="https://www.justice.gov/opa/pr/leader-qakbot-malware-conspiracy-indicted-involvement-global-ransomware-scheme" data-full-url="https://www.justice.gov/opa/pr/leader-qakbot-malware-conspiracy-indicted-involvement-global-ransomware-scheme" class="external-link">Link</a></td>
+</tr>
+<tr>
+<td style="text-align: right;">19</td>
+<td><a href="../../wiki/sources/2025-05-22_justice-gov_leader-of-qakbot-malware-conspiracy-indicted-gallyamov.html" class="wikilink">2025-05-22_justice-gov_leader-of-qakbot-malware-conspiracy-indicted-gallyamov</a></td>
+<td><a href="../../wiki/sources/2025-05-22-doj-qakbot-gallyamov-indictment.html" class="wikilink">2025-05-22-doj-qakbot-gallyamov-indictment</a></td>
+<td>same_collection_url</td>
+<td><a href="https://www.justice.gov/opa/pr/leader-qakbot-malware-conspiracy-indicted-involvement-global-ransomware-scheme" target="_blank" rel="noopener noreferrer" title="https://www.justice.gov/opa/pr/leader-qakbot-malware-conspiracy-indicted-involvement-global-ransomware-scheme" data-full-url="https://www.justice.gov/opa/pr/leader-qakbot-malware-conspiracy-indicted-involvement-global-ransomware-scheme" class="external-link">Link</a></td>
+</tr>
+<tr>
+<td style="text-align: right;">20</td>
+<td><a href="../../wiki/sources/2025-05-22_justice-gov_leader-of-qakbot-malware-conspiracy-indicted.html" class="wikilink">2025-05-22_justice-gov_leader-of-qakbot-malware-conspiracy-indicted</a></td>
+<td><a href="../../wiki/sources/2025-05-22-doj-qakbot-gallyamov-indictment.html" class="wikilink">2025-05-22-doj-qakbot-gallyamov-indictment</a></td>
+<td>same_collection_url</td>
+<td><a href="https://www.justice.gov/opa/pr/leader-qakbot-malware-conspiracy-indicted-involvement-global-ransomware-scheme" target="_blank" rel="noopener noreferrer" title="https://www.justice.gov/opa/pr/leader-qakbot-malware-conspiracy-indicted-involvement-global-ransomware-scheme" data-full-url="https://www.justice.gov/opa/pr/leader-qakbot-malware-conspiracy-indicted-involvement-global-ransomware-scheme" class="external-link">Link</a></td>
+</tr>
+<tr>
+<td style="text-align: right;">21</td>
+<td><a href="../../wiki/sources/2025-05-22_justice-gov_united-states-v-gallyamov-qakbot.html" class="wikilink">2025-05-22_justice-gov_united-states-v-gallyamov-qakbot</a></td>
+<td><a href="../../wiki/sources/2025-05-22-doj-qakbot-gallyamov-indictment.html" class="wikilink">2025-05-22-doj-qakbot-gallyamov-indictment</a></td>
+<td>same_collection_url</td>
+<td><a href="https://www.justice.gov/opa/pr/leader-qakbot-malware-conspiracy-indicted-involvement-global-ransomware-scheme" target="_blank" rel="noopener noreferrer" title="https://www.justice.gov/opa/pr/leader-qakbot-malware-conspiracy-indicted-involvement-global-ransomware-scheme" data-full-url="https://www.justice.gov/opa/pr/leader-qakbot-malware-conspiracy-indicted-involvement-global-ransomware-scheme" class="external-link">Link</a></td>
+</tr>
+<tr>
+<td style="text-align: right;">22</td>
+<td><a href="../../wiki/sources/2025-05-23_doj_danabot-indictment.html" class="wikilink">2025-05-23_doj_danabot-indictment</a></td>
+<td><a href="../../wiki/sources/2025-05-22-doj-qakbot-gallyamov-indictment.html" class="wikilink">2025-05-22-doj-qakbot-gallyamov-indictment</a></td>
+<td>same_collection_url</td>
+<td><a href="https://www.justice.gov/opa/pr/leader-qakbot-malware-conspiracy-indicted-involvement-global-ransomware-scheme" target="_blank" rel="noopener noreferrer" title="https://www.justice.gov/opa/pr/leader-qakbot-malware-conspiracy-indicted-involvement-global-ransomware-scheme" data-full-url="https://www.justice.gov/opa/pr/leader-qakbot-malware-conspiracy-indicted-involvement-global-ransomware-scheme" class="external-link">Link</a></td>
+</tr>
+<tr>
+<td style="text-align: right;">23</td>
+<td><a href="../../wiki/sources/2025-05-23_justice-gov_leader-of-qakbot-malware-conspiracy-indicted-for-involvement-in-global-ransomwar.html" class="wikilink">2025-05-23_justice-gov_leader-of-qakbot-malware-conspiracy-indicted-for-involvement-in-global-ransomwar</a></td>
+<td><a href="../../wiki/sources/2025-05-22-doj-qakbot-gallyamov-indictment.html" class="wikilink">2025-05-22-doj-qakbot-gallyamov-indictment</a></td>
+<td>same_collection_url</td>
+<td><a href="https://www.justice.gov/opa/pr/leader-qakbot-malware-conspiracy-indicted-involvement-global-ransomware-scheme" target="_blank" rel="noopener noreferrer" title="https://www.justice.gov/opa/pr/leader-qakbot-malware-conspiracy-indicted-involvement-global-ransomware-scheme" data-full-url="https://www.justice.gov/opa/pr/leader-qakbot-malware-conspiracy-indicted-involvement-global-ransomware-scheme" class="external-link">Link</a></td>
+</tr>
+<tr>
+<td style="text-align: right;">24</td>
+<td><a href="../../wiki/sources/2025-05-23_justice-gov_united-states-v-stepanov-et-al-danabot-operation-endgame-phase-2.html" class="wikilink">2025-05-23_justice-gov_united-states-v-stepanov-et-al-danabot-operation-endgame-phase-2</a></td>
+<td><a href="../../wiki/sources/2025-05-22-doj-qakbot-gallyamov-indictment.html" class="wikilink">2025-05-22-doj-qakbot-gallyamov-indictment</a></td>
+<td>same_collection_url</td>
+<td><a href="https://www.justice.gov/opa/pr/leader-qakbot-malware-conspiracy-indicted-involvement-global-ransomware-scheme" target="_blank" rel="noopener noreferrer" title="https://www.justice.gov/opa/pr/leader-qakbot-malware-conspiracy-indicted-involvement-global-ransomware-scheme" data-full-url="https://www.justice.gov/opa/pr/leader-qakbot-malware-conspiracy-indicted-involvement-global-ransomware-scheme" class="external-link">Link</a></td>
+</tr>
+<tr>
+<td style="text-align: right;">25</td>
+<td><a href="../../wiki/sources/2024-05-30_europol-europa-eu_largest-ever-operation-against-botnets-hits-dropper-malware-ecosystem-operation.html" class="wikilink">2024-05-30_europol-europa-eu_largest-ever-operation-against-botnets-hits-dropper-malware-ecosystem-operation</a></td>
+<td><a href="../../wiki/sources/2024-05-30-europol-operation-endgame-botnet-takedown.html" class="wikilink">2024-05-30-europol-operation-endgame-botnet-takedown</a></td>
+<td>same_collection_url</td>
+<td><a href="https://www.europol.europa.eu/media-press/newsroom/news/largest-ever-operation-against-botnets-hits-dropper-malware-ecosystem" target="_blank" rel="noopener noreferrer" title="https://www.europol.europa.eu/media-press/newsroom/news/largest-ever-operation-against-botnets-hits-dropper-malware-ecosystem" data-full-url="https://www.europol.europa.eu/media-press/newsroom/news/largest-ever-operation-against-botnets-hits-dropper-malware-ecosystem" class="external-link">Link</a></td>
+</tr>
+<tr>
+<td style="text-align: right;">26</td>
+<td><a href="../../wiki/sources/2024-05-30_europol-europa-eu_largest-ever-operation-against-botnets-hits-dropper-malware-ecosystem.html" class="wikilink">2024-05-30_europol-europa-eu_largest-ever-operation-against-botnets-hits-dropper-malware-ecosystem</a></td>
+<td><a href="../../wiki/sources/2024-05-30-europol-operation-endgame-botnet-takedown.html" class="wikilink">2024-05-30-europol-operation-endgame-botnet-takedown</a></td>
+<td>same_collection_url</td>
+<td><a href="https://www.europol.europa.eu/media-press/newsroom/news/largest-ever-operation-against-botnets-hits-dropper-malware-ecosystem" target="_blank" rel="noopener noreferrer" title="https://www.europol.europa.eu/media-press/newsroom/news/largest-ever-operation-against-botnets-hits-dropper-malware-ecosystem" data-full-url="https://www.europol.europa.eu/media-press/newsroom/news/largest-ever-operation-against-botnets-hits-dropper-malware-ecosystem" class="external-link">Link</a></td>
+</tr>
+<tr>
+<td style="text-align: right;">27</td>
+<td><a href="../../wiki/sources/2024-05-30_europol-europa-eu_largest-ever-operation-against-botnets-operation-endgame.html" class="wikilink">2024-05-30_europol-europa-eu_largest-ever-operation-against-botnets-operation-endgame</a></td>
+<td><a href="../../wiki/sources/2024-05-30-europol-operation-endgame-botnet-takedown.html" class="wikilink">2024-05-30-europol-operation-endgame-botnet-takedown</a></td>
+<td>same_collection_url</td>
+<td><a href="https://www.europol.europa.eu/media-press/newsroom/news/largest-ever-operation-against-botnets-hits-dropper-malware-ecosystem" target="_blank" rel="noopener noreferrer" title="https://www.europol.europa.eu/media-press/newsroom/news/largest-ever-operation-against-botnets-hits-dropper-malware-ecosystem" data-full-url="https://www.europol.europa.eu/media-press/newsroom/news/largest-ever-operation-against-botnets-hits-dropper-malware-ecosystem" class="external-link">Link</a></td>
+</tr>
+<tr>
+<td style="text-align: right;">28</td>
+<td><a href="../../wiki/sources/2024-05-30_europol-europa-eu_operation-endgame-botnet-takedown.html" class="wikilink">2024-05-30_europol-europa-eu_operation-endgame-botnet-takedown</a></td>
+<td><a href="../../wiki/sources/2024-05-30-europol-operation-endgame-botnet-takedown.html" class="wikilink">2024-05-30-europol-operation-endgame-botnet-takedown</a></td>
+<td>same_collection_url</td>
+<td><a href="https://www.europol.europa.eu/media-press/newsroom/news/largest-ever-operation-against-botnets-hits-dropper-malware-ecosystem" target="_blank" rel="noopener noreferrer" title="https://www.europol.europa.eu/media-press/newsroom/news/largest-ever-operation-against-botnets-hits-dropper-malware-ecosystem" data-full-url="https://www.europol.europa.eu/media-press/newsroom/news/largest-ever-operation-against-botnets-hits-dropper-malware-ecosystem" class="external-link">Link</a></td>
+</tr>
+<tr>
+<td style="text-align: right;">29</td>
+<td><a href="../../wiki/sources/2024-05-30_europol_operation-endgame-botnet-takedown.html" class="wikilink">2024-05-30_europol_operation-endgame-botnet-takedown</a></td>
+<td><a href="../../wiki/sources/2024-05-30-europol-operation-endgame-botnet-takedown.html" class="wikilink">2024-05-30-europol-operation-endgame-botnet-takedown</a></td>
+<td>same_collection_url</td>
+<td><a href="https://www.europol.europa.eu/media-press/newsroom/news/largest-ever-operation-against-botnets-hits-dropper-malware-ecosystem" target="_blank" rel="noopener noreferrer" title="https://www.europol.europa.eu/media-press/newsroom/news/largest-ever-operation-against-botnets-hits-dropper-malware-ecosystem" data-full-url="https://www.europol.europa.eu/media-press/newsroom/news/largest-ever-operation-against-botnets-hits-dropper-malware-ecosystem" class="external-link">Link</a></td>
+</tr>
+<tr>
+<td style="text-align: right;">30</td>
+<td><a href="../../wiki/sources/2025-01-01_coe-int_chart-of-signatures-and-ratifications-of-treaty-185-224.html" class="wikilink">2025-01-01_coe-int_chart-of-signatures-and-ratifications-of-treaty-185-224</a></td>
+<td><a href="../../wiki/sources/2026-04-17_coe-int_treaty-185-signatures-chart.html" class="wikilink">2026-04-17_coe-int_treaty-185-signatures-chart</a></td>
+<td>same_collection_url</td>
+<td><a href="https://www.coe.int/en/web/conventions/full-list?module=signatures-by-treaty&amp;treatynum=185" target="_blank" rel="noopener noreferrer" title="https://www.coe.int/en/web/conventions/full-list?module=signatures-by-treaty&amp;amp;treatynum=185" data-full-url="https://www.coe.int/en/web/conventions/full-list?module=signatures-by-treaty&amp;amp;treatynum=185" class="external-link">Link</a></td>
+</tr>
+<tr>
+<td style="text-align: right;">31</td>
+<td><a href="../../wiki/sources/2025-01-01_coe-int_chart-of-signatures-and-ratifications-of-treaty-185.html" class="wikilink">2025-01-01_coe-int_chart-of-signatures-and-ratifications-of-treaty-185</a></td>
+<td><a href="../../wiki/sources/2026-04-17_coe-int_treaty-185-signatures-chart.html" class="wikilink">2026-04-17_coe-int_treaty-185-signatures-chart</a></td>
+<td>same_collection_url</td>
+<td><a href="https://www.coe.int/en/web/conventions/full-list?module=signatures-by-treaty&amp;treatynum=185" target="_blank" rel="noopener noreferrer" title="https://www.coe.int/en/web/conventions/full-list?module=signatures-by-treaty&amp;amp;treatynum=185" data-full-url="https://www.coe.int/en/web/conventions/full-list?module=signatures-by-treaty&amp;amp;treatynum=185" class="external-link">Link</a></td>
+</tr>
+<tr>
+<td style="text-align: right;">32</td>
+<td><a href="../../wiki/sources/2026-04-17_coe-int_budapest-convention-chart-of-signatures-and-ratifications-cets-185.html" class="wikilink">2026-04-17_coe-int_budapest-convention-chart-of-signatures-and-ratifications-cets-185</a></td>
+<td><a href="../../wiki/sources/2026-04-17_coe-int_treaty-185-signatures-chart.html" class="wikilink">2026-04-17_coe-int_treaty-185-signatures-chart</a></td>
+<td>same_collection_url</td>
+<td><a href="https://www.coe.int/en/web/conventions/full-list?module=signatures-by-treaty&amp;treatynum=185" target="_blank" rel="noopener noreferrer" title="https://www.coe.int/en/web/conventions/full-list?module=signatures-by-treaty&amp;amp;treatynum=185" data-full-url="https://www.coe.int/en/web/conventions/full-list?module=signatures-by-treaty&amp;amp;treatynum=185" class="external-link">Link</a></td>
+</tr>
+<tr>
+<td style="text-align: right;">33</td>
+<td><a href="../../wiki/sources/2026-04-17_coe-int_chart-of-signatures-and-ratifications-of-treaty-185.html" class="wikilink">2026-04-17_coe-int_chart-of-signatures-and-ratifications-of-treaty-185</a></td>
+<td><a href="../../wiki/sources/2026-04-17_coe-int_treaty-185-signatures-chart.html" class="wikilink">2026-04-17_coe-int_treaty-185-signatures-chart</a></td>
+<td>same_collection_url</td>
+<td><a href="https://www.coe.int/en/web/conventions/full-list?module=signatures-by-treaty&amp;treatynum=185" target="_blank" rel="noopener noreferrer" title="https://www.coe.int/en/web/conventions/full-list?module=signatures-by-treaty&amp;amp;treatynum=185" data-full-url="https://www.coe.int/en/web/conventions/full-list?module=signatures-by-treaty&amp;amp;treatynum=185" class="external-link">Link</a></td>
+</tr>
+<tr>
+<td style="text-align: right;">34</td>
+<td><a href="../../wiki/sources/2025-02-11_europol-europa-eu_key-figures-behind-phobos-and-8base-ransomware-arrested-in-international-cybercr.html" class="wikilink">2025-02-11_europol-europa-eu_key-figures-behind-phobos-and-8base-ransomware-arrested-in-international-cybercr</a></td>
+<td><a href="../../wiki/sources/2025-02-11-europol-phobos-8base-ransomware-arrests.html" class="wikilink">2025-02-11-europol-phobos-8base-ransomware-arrests</a></td>
+<td>same_collection_url</td>
+<td><a href="https://www.europol.europa.eu/media-press/newsroom/news/key-figures-behind-phobos-and-8base-ransomware-arrested-in-international-cybercri" target="_blank" rel="noopener noreferrer" title="https://www.europol.europa.eu/media-press/newsroom/news/key-figures-behind-phobos-and-8base-ransomware-arrested-in-international-cybercri" data-full-url="https://www.europol.europa.eu/media-press/newsroom/news/key-figures-behind-phobos-and-8base-ransomware-arrested-in-international-cybercri" class="external-link">Link</a>...</td>
+</tr>
+<tr>
+<td style="text-align: right;">35</td>
+<td><a href="../../wiki/sources/2025-02-11_europol-europa-eu_key-figures-behind-phobos-and-8base-ransomware-arrested.html" class="wikilink">2025-02-11_europol-europa-eu_key-figures-behind-phobos-and-8base-ransomware-arrested</a></td>
+<td><a href="../../wiki/sources/2025-02-11-europol-phobos-8base-ransomware-arrests.html" class="wikilink">2025-02-11-europol-phobos-8base-ransomware-arrests</a></td>
+<td>same_collection_url</td>
+<td><a href="https://www.europol.europa.eu/media-press/newsroom/news/key-figures-behind-phobos-and-8base-ransomware-arrested-in-international-cybercri" target="_blank" rel="noopener noreferrer" title="https://www.europol.europa.eu/media-press/newsroom/news/key-figures-behind-phobos-and-8base-ransomware-arrested-in-international-cybercri" data-full-url="https://www.europol.europa.eu/media-press/newsroom/news/key-figures-behind-phobos-and-8base-ransomware-arrested-in-international-cybercri" class="external-link">Link</a>...</td>
+</tr>
+<tr>
+<td style="text-align: right;">36</td>
+<td><a href="../../wiki/sources/2025-02-11_europol-europa-eu_phobos-8base-ransomware-arrests.html" class="wikilink">2025-02-11_europol-europa-eu_phobos-8base-ransomware-arrests</a></td>
+<td><a href="../../wiki/sources/2025-02-11-europol-phobos-8base-ransomware-arrests.html" class="wikilink">2025-02-11-europol-phobos-8base-ransomware-arrests</a></td>
+<td>same_collection_url</td>
+<td><a href="https://www.europol.europa.eu/media-press/newsroom/news/key-figures-behind-phobos-and-8base-ransomware-arrested-in-international-cybercri" target="_blank" rel="noopener noreferrer" title="https://www.europol.europa.eu/media-press/newsroom/news/key-figures-behind-phobos-and-8base-ransomware-arrested-in-international-cybercri" data-full-url="https://www.europol.europa.eu/media-press/newsroom/news/key-figures-behind-phobos-and-8base-ransomware-arrested-in-international-cybercri" class="external-link">Link</a>...</td>
+</tr>
+<tr>
+<td style="text-align: right;">37</td>
+<td><a href="../../wiki/sources/2025-02-11_europol_phobos-8base-ransomware-arrests.html" class="wikilink">2025-02-11_europol_phobos-8base-ransomware-arrests</a></td>
+<td><a href="../../wiki/sources/2025-02-11-europol-phobos-8base-ransomware-arrests.html" class="wikilink">2025-02-11-europol-phobos-8base-ransomware-arrests</a></td>
+<td>same_collection_url</td>
+<td><a href="https://www.europol.europa.eu/media-press/newsroom/news/key-figures-behind-phobos-and-8base-ransomware-arrested-in-international-cybercri" target="_blank" rel="noopener noreferrer" title="https://www.europol.europa.eu/media-press/newsroom/news/key-figures-behind-phobos-and-8base-ransomware-arrested-in-international-cybercri" data-full-url="https://www.europol.europa.eu/media-press/newsroom/news/key-figures-behind-phobos-and-8base-ransomware-arrested-in-international-cybercri" class="external-link">Link</a>...</td>
+</tr>
+<tr>
+<td style="text-align: right;">38</td>
+<td><a href="../../wiki/sources/2024-10-01_europol-europa-eu_lockbit-power-cut-four-new-arrests-and-financial-sanctions-against-affiliates-op.html" class="wikilink">2024-10-01_europol-europa-eu_lockbit-power-cut-four-new-arrests-and-financial-sanctions-against-affiliates-op</a></td>
+<td><a href="../../wiki/sources/2024-10-01-europol-operation-cronos-lockbit-phase3.html" class="wikilink">2024-10-01-europol-operation-cronos-lockbit-phase3</a></td>
+<td>same_collection_url</td>
+<td><a href="https://www.europol.europa.eu/media-press/newsroom/news/lockbit-power-cut-four-new-arrests-and-financial-sanctions-against-affiliates" target="_blank" rel="noopener noreferrer" title="https://www.europol.europa.eu/media-press/newsroom/news/lockbit-power-cut-four-new-arrests-and-financial-sanctions-against-affiliates" data-full-url="https://www.europol.europa.eu/media-press/newsroom/news/lockbit-power-cut-four-new-arrests-and-financial-sanctions-against-affiliates" class="external-link">Link</a></td>
+</tr>
+<tr>
+<td style="text-align: right;">39</td>
+<td><a href="../../wiki/sources/2024-10-01_europol-europa-eu_lockbit-power-cut-four-new-arrests-operation-cronos-phase-3.html" class="wikilink">2024-10-01_europol-europa-eu_lockbit-power-cut-four-new-arrests-operation-cronos-phase-3</a></td>
+<td><a href="../../wiki/sources/2024-10-01-europol-operation-cronos-lockbit-phase3.html" class="wikilink">2024-10-01-europol-operation-cronos-lockbit-phase3</a></td>
+<td>same_collection_url</td>
+<td><a href="https://www.europol.europa.eu/media-press/newsroom/news/lockbit-power-cut-four-new-arrests-and-financial-sanctions-against-affiliates" target="_blank" rel="noopener noreferrer" title="https://www.europol.europa.eu/media-press/newsroom/news/lockbit-power-cut-four-new-arrests-and-financial-sanctions-against-affiliates" data-full-url="https://www.europol.europa.eu/media-press/newsroom/news/lockbit-power-cut-four-new-arrests-and-financial-sanctions-against-affiliates" class="external-link">Link</a></td>
+</tr>
+<tr>
+<td style="text-align: right;">40</td>
+<td><a href="../../wiki/sources/2024-10-01_europol-europa-eu_operation-cronos-phase-3.html" class="wikilink">2024-10-01_europol-europa-eu_operation-cronos-phase-3</a></td>
+<td><a href="../../wiki/sources/2024-10-01-europol-operation-cronos-lockbit-phase3.html" class="wikilink">2024-10-01-europol-operation-cronos-lockbit-phase3</a></td>
+<td>same_collection_url</td>
+<td><a href="https://www.europol.europa.eu/media-press/newsroom/news/lockbit-power-cut-four-new-arrests-and-financial-sanctions-against-affiliates" target="_blank" rel="noopener noreferrer" title="https://www.europol.europa.eu/media-press/newsroom/news/lockbit-power-cut-four-new-arrests-and-financial-sanctions-against-affiliates" data-full-url="https://www.europol.europa.eu/media-press/newsroom/news/lockbit-power-cut-four-new-arrests-and-financial-sanctions-against-affiliates" class="external-link">Link</a></td>
+</tr>
+<tr>
+<td style="text-align: right;">41</td>
+<td><a href="../../wiki/sources/2024-10-01_europol_operation-cronos-lockbit-phase3.html" class="wikilink">2024-10-01_europol_operation-cronos-lockbit-phase3</a></td>
+<td><a href="../../wiki/sources/2024-10-01-europol-operation-cronos-lockbit-phase3.html" class="wikilink">2024-10-01-europol-operation-cronos-lockbit-phase3</a></td>
+<td>same_collection_url</td>
+<td><a href="https://www.europol.europa.eu/media-press/newsroom/news/lockbit-power-cut-four-new-arrests-and-financial-sanctions-against-affiliates" target="_blank" rel="noopener noreferrer" title="https://www.europol.europa.eu/media-press/newsroom/news/lockbit-power-cut-four-new-arrests-and-financial-sanctions-against-affiliates" data-full-url="https://www.europol.europa.eu/media-press/newsroom/news/lockbit-power-cut-four-new-arrests-and-financial-sanctions-against-affiliates" class="external-link">Link</a></td>
+</tr>
+<tr>
+<td style="text-align: right;">42</td>
+<td><a href="../../wiki/sources/2023-06-06_interpol-int_closing-ranks-on-west-african-organized-crime-more-than-eur-2-million-seized-in.html" class="wikilink">2023-06-06_interpol-int_closing-ranks-on-west-african-organized-crime-more-than-eur-2-million-seized-in</a></td>
+<td><a href="../../wiki/sources/2023-06-06-interpol-operation-jackal.html" class="wikilink">2023-06-06-interpol-operation-jackal</a></td>
+<td>same_collection_url</td>
+<td><a href="https://www.interpol.int/News-and-Events/News/2023/Closing-ranks-on-West-African-organized-crime-more-than-EUR-2-million-seized-in-Operat" target="_blank" rel="noopener noreferrer" title="https://www.interpol.int/News-and-Events/News/2023/Closing-ranks-on-West-African-organized-crime-more-than-EUR-2-million-seized-in-Operat" data-full-url="https://www.interpol.int/News-and-Events/News/2023/Closing-ranks-on-West-African-organized-crime-more-than-EUR-2-million-seized-in-Operat" class="external-link">Link</a>...</td>
+</tr>
+<tr>
+<td style="text-align: right;">43</td>
+<td><a href="../../wiki/sources/2023-06-06_interpol-int_closing-ranks-on-west-african-organized-crime-operation-jackal.html" class="wikilink">2023-06-06_interpol-int_closing-ranks-on-west-african-organized-crime-operation-jackal</a></td>
+<td><a href="../../wiki/sources/2023-06-06-interpol-operation-jackal.html" class="wikilink">2023-06-06-interpol-operation-jackal</a></td>
+<td>same_collection_url</td>
+<td><a href="https://www.interpol.int/News-and-Events/News/2023/Closing-ranks-on-West-African-organized-crime-more-than-EUR-2-million-seized-in-Operat" target="_blank" rel="noopener noreferrer" title="https://www.interpol.int/News-and-Events/News/2023/Closing-ranks-on-West-African-organized-crime-more-than-EUR-2-million-seized-in-Operat" data-full-url="https://www.interpol.int/News-and-Events/News/2023/Closing-ranks-on-West-African-organized-crime-more-than-EUR-2-million-seized-in-Operat" class="external-link">Link</a>...</td>
+</tr>
+<tr>
+<td style="text-align: right;">44</td>
+<td><a href="../../wiki/sources/2023-06-06_interpol-int_operation-jackal-black-axe-bec.html" class="wikilink">2023-06-06_interpol-int_operation-jackal-black-axe-bec</a></td>
+<td><a href="../../wiki/sources/2023-06-06-interpol-operation-jackal.html" class="wikilink">2023-06-06-interpol-operation-jackal</a></td>
+<td>same_collection_url</td>
+<td><a href="https://www.interpol.int/News-and-Events/News/2023/Closing-ranks-on-West-African-organized-crime-more-than-EUR-2-million-seized-in-Operat" target="_blank" rel="noopener noreferrer" title="https://www.interpol.int/News-and-Events/News/2023/Closing-ranks-on-West-African-organized-crime-more-than-EUR-2-million-seized-in-Operat" data-full-url="https://www.interpol.int/News-and-Events/News/2023/Closing-ranks-on-West-African-organized-crime-more-than-EUR-2-million-seized-in-Operat" class="external-link">Link</a>...</td>
+</tr>
+<tr>
+<td style="text-align: right;">45</td>
+<td><a href="../../wiki/sources/2023-06-06_interpol_operation-jackal-black-axe-bec.html" class="wikilink">2023-06-06_interpol_operation-jackal-black-axe-bec</a></td>
+<td><a href="../../wiki/sources/2023-06-06-interpol-operation-jackal.html" class="wikilink">2023-06-06-interpol-operation-jackal</a></td>
+<td>same_collection_url</td>
+<td><a href="https://www.interpol.int/News-and-Events/News/2023/Closing-ranks-on-West-African-organized-crime-more-than-EUR-2-million-seized-in-Operat" target="_blank" rel="noopener noreferrer" title="https://www.interpol.int/News-and-Events/News/2023/Closing-ranks-on-West-African-organized-crime-more-than-EUR-2-million-seized-in-Operat" data-full-url="https://www.interpol.int/News-and-Events/News/2023/Closing-ranks-on-West-African-organized-crime-more-than-EUR-2-million-seized-in-Operat" class="external-link">Link</a>...</td>
+</tr>
+<tr>
+<td style="text-align: right;">46</td>
+<td><a href="../../wiki/sources/2023-12-19_interpol-int_operation-haechi-iv.html" class="wikilink">2023-12-19_interpol-int_operation-haechi-iv</a></td>
+<td><a href="../../wiki/sources/2023-12-19-interpol-operation-haechi-iv.html" class="wikilink">2023-12-19-interpol-operation-haechi-iv</a></td>
+<td>same_collection_url</td>
+<td><a href="https://www.interpol.int/News-and-Events/News/2023/USD-300-million-seized-and-3-500-suspects-arrested-in-international-financial-crime-op" target="_blank" rel="noopener noreferrer" title="https://www.interpol.int/News-and-Events/News/2023/USD-300-million-seized-and-3-500-suspects-arrested-in-international-financial-crime-op" data-full-url="https://www.interpol.int/News-and-Events/News/2023/USD-300-million-seized-and-3-500-suspects-arrested-in-international-financial-crime-op" class="external-link">Link</a>...</td>
+</tr>
+<tr>
+<td style="text-align: right;">47</td>
+<td><a href="../../wiki/sources/2023-12-19_interpol-int_usd-300-million-seized-and-3-500-suspects-arrested-in-international-financial-cr.html" class="wikilink">2023-12-19_interpol-int_usd-300-million-seized-and-3-500-suspects-arrested-in-international-financial-cr</a></td>
+<td><a href="../../wiki/sources/2023-12-19-interpol-operation-haechi-iv.html" class="wikilink">2023-12-19-interpol-operation-haechi-iv</a></td>
+<td>same_collection_url</td>
+<td><a href="https://www.interpol.int/News-and-Events/News/2023/USD-300-million-seized-and-3-500-suspects-arrested-in-international-financial-crime-op" target="_blank" rel="noopener noreferrer" title="https://www.interpol.int/News-and-Events/News/2023/USD-300-million-seized-and-3-500-suspects-arrested-in-international-financial-crime-op" data-full-url="https://www.interpol.int/News-and-Events/News/2023/USD-300-million-seized-and-3-500-suspects-arrested-in-international-financial-crime-op" class="external-link">Link</a>...</td>
+</tr>
+<tr>
+<td style="text-align: right;">48</td>
+<td><a href="../../wiki/sources/2023-12-19_interpol-int_usd-300-million-seized-and-3-500-suspects-arrested-operation-haechi-iv.html" class="wikilink">2023-12-19_interpol-int_usd-300-million-seized-and-3-500-suspects-arrested-operation-haechi-iv</a></td>
+<td><a href="../../wiki/sources/2023-12-19-interpol-operation-haechi-iv.html" class="wikilink">2023-12-19-interpol-operation-haechi-iv</a></td>
+<td>same_collection_url</td>
+<td><a href="https://www.interpol.int/News-and-Events/News/2023/USD-300-million-seized-and-3-500-suspects-arrested-in-international-financial-crime-op" target="_blank" rel="noopener noreferrer" title="https://www.interpol.int/News-and-Events/News/2023/USD-300-million-seized-and-3-500-suspects-arrested-in-international-financial-crime-op" data-full-url="https://www.interpol.int/News-and-Events/News/2023/USD-300-million-seized-and-3-500-suspects-arrested-in-international-financial-crime-op" class="external-link">Link</a>...</td>
+</tr>
+<tr>
+<td style="text-align: right;">49</td>
+<td><a href="../../wiki/sources/2023-12-19_interpol_operation-haechi-iv.html" class="wikilink">2023-12-19_interpol_operation-haechi-iv</a></td>
+<td><a href="../../wiki/sources/2023-12-19-interpol-operation-haechi-iv.html" class="wikilink">2023-12-19-interpol-operation-haechi-iv</a></td>
+<td>same_collection_url</td>
+<td><a href="https://www.interpol.int/News-and-Events/News/2023/USD-300-million-seized-and-3-500-suspects-arrested-in-international-financial-crime-op" target="_blank" rel="noopener noreferrer" title="https://www.interpol.int/News-and-Events/News/2023/USD-300-million-seized-and-3-500-suspects-arrested-in-international-financial-crime-op" data-full-url="https://www.interpol.int/News-and-Events/News/2023/USD-300-million-seized-and-3-500-suspects-arrested-in-international-financial-crime-op" class="external-link">Link</a>...</td>
+</tr>
+<tr>
+<td style="text-align: right;">50</td>
+<td><a href="../../wiki/sources/2025-12-22_interpol-int_574-arrests-and-usd-3-million-recovered-in-coordinated-cybercrime-operation-acro.html" class="wikilink">2025-12-22_interpol-int_574-arrests-and-usd-3-million-recovered-in-coordinated-cybercrime-operation-acro</a></td>
+<td><a href="../../wiki/sources/2025-12-22-interpol-operation-sentinel-africa.html" class="wikilink">2025-12-22-interpol-operation-sentinel-africa</a></td>
+<td>same_collection_url</td>
+<td><a href="https://www.interpol.int/en/News-and-Events/News/2025/574-arrests-and-USD-3-million-recovered-in-coordinated-cybercrime-operation-across-" target="_blank" rel="noopener noreferrer" title="https://www.interpol.int/en/News-and-Events/News/2025/574-arrests-and-USD-3-million-recovered-in-coordinated-cybercrime-operation-across-" data-full-url="https://www.interpol.int/en/News-and-Events/News/2025/574-arrests-and-USD-3-million-recovered-in-coordinated-cybercrime-operation-across-" class="external-link">Link</a>...</td>
+</tr>
+<tr>
+<td style="text-align: right;">51</td>
+<td><a href="../../wiki/sources/2025-12-22_interpol-int_574-arrests-and-usd-3-million-recovered-operation-sentinel.html" class="wikilink">2025-12-22_interpol-int_574-arrests-and-usd-3-million-recovered-operation-sentinel</a></td>
+<td><a href="../../wiki/sources/2025-12-22-interpol-operation-sentinel-africa.html" class="wikilink">2025-12-22-interpol-operation-sentinel-africa</a></td>
+<td>same_collection_url</td>
+<td><a href="https://www.interpol.int/en/News-and-Events/News/2025/574-arrests-and-USD-3-million-recovered-in-coordinated-cybercrime-operation-across-" target="_blank" rel="noopener noreferrer" title="https://www.interpol.int/en/News-and-Events/News/2025/574-arrests-and-USD-3-million-recovered-in-coordinated-cybercrime-operation-across-" data-full-url="https://www.interpol.int/en/News-and-Events/News/2025/574-arrests-and-USD-3-million-recovered-in-coordinated-cybercrime-operation-across-" class="external-link">Link</a>...</td>
+</tr>
+<tr>
+<td style="text-align: right;">52</td>
+<td><a href="../../wiki/sources/2025-12-22_interpol-int_operation-sentinel-africa.html" class="wikilink">2025-12-22_interpol-int_operation-sentinel-africa</a></td>
+<td><a href="../../wiki/sources/2025-12-22-interpol-operation-sentinel-africa.html" class="wikilink">2025-12-22-interpol-operation-sentinel-africa</a></td>
+<td>same_collection_url</td>
+<td><a href="https://www.interpol.int/en/News-and-Events/News/2025/574-arrests-and-USD-3-million-recovered-in-coordinated-cybercrime-operation-across-" target="_blank" rel="noopener noreferrer" title="https://www.interpol.int/en/News-and-Events/News/2025/574-arrests-and-USD-3-million-recovered-in-coordinated-cybercrime-operation-across-" data-full-url="https://www.interpol.int/en/News-and-Events/News/2025/574-arrests-and-USD-3-million-recovered-in-coordinated-cybercrime-operation-across-" class="external-link">Link</a>...</td>
+</tr>
+<tr>
+<td style="text-align: right;">53</td>
+<td><a href="../../wiki/sources/2025-12-22_interpol_operation-sentinel-africa-bec.html" class="wikilink">2025-12-22_interpol_operation-sentinel-africa-bec</a></td>
+<td><a href="../../wiki/sources/2025-12-22-interpol-operation-sentinel-africa.html" class="wikilink">2025-12-22-interpol-operation-sentinel-africa</a></td>
+<td>same_collection_url</td>
+<td><a href="https://www.interpol.int/en/News-and-Events/News/2025/574-arrests-and-USD-3-million-recovered-in-coordinated-cybercrime-operation-across-" target="_blank" rel="noopener noreferrer" title="https://www.interpol.int/en/News-and-Events/News/2025/574-arrests-and-USD-3-million-recovered-in-coordinated-cybercrime-operation-across-" data-full-url="https://www.interpol.int/en/News-and-Events/News/2025/574-arrests-and-USD-3-million-recovered-in-coordinated-cybercrime-operation-across-" class="external-link">Link</a>...</td>
+</tr>
+<tr>
+<td style="text-align: right;">54</td>
+<td><a href="../../wiki/sources/2025-03-05_doj_isoon-chinese-hackers-charges.html" class="wikilink">2025-03-05_doj_isoon-chinese-hackers-charges</a></td>
+<td><a href="../../wiki/sources/2025-03-05-doj-isoon-chinese-hackers-charges.html" class="wikilink">2025-03-05-doj-isoon-chinese-hackers-charges</a></td>
+<td>same_collection_url</td>
+<td><a href="https://www.justice.gov/opa/pr/justice-department-charges-12-chinese-contract-hackers-and-law-enforcement-officers-global" target="_blank" rel="noopener noreferrer" title="https://www.justice.gov/opa/pr/justice-department-charges-12-chinese-contract-hackers-and-law-enforcement-officers-global" data-full-url="https://www.justice.gov/opa/pr/justice-department-charges-12-chinese-contract-hackers-and-law-enforcement-officers-global" class="external-link">Link</a></td>
+</tr>
+<tr>
+<td style="text-align: right;">55</td>
+<td><a href="../../wiki/sources/2025-03-05_justice-gov_i-soon-apt27-indictment.html" class="wikilink">2025-03-05_justice-gov_i-soon-apt27-indictment</a></td>
+<td><a href="../../wiki/sources/2025-03-05-doj-isoon-chinese-hackers-charges.html" class="wikilink">2025-03-05-doj-isoon-chinese-hackers-charges</a></td>
+<td>same_collection_url</td>
+<td><a href="https://www.justice.gov/opa/pr/justice-department-charges-12-chinese-contract-hackers-and-law-enforcement-officers-global" target="_blank" rel="noopener noreferrer" title="https://www.justice.gov/opa/pr/justice-department-charges-12-chinese-contract-hackers-and-law-enforcement-officers-global" data-full-url="https://www.justice.gov/opa/pr/justice-department-charges-12-chinese-contract-hackers-and-law-enforcement-officers-global" class="external-link">Link</a></td>
+</tr>
+<tr>
+<td style="text-align: right;">56</td>
+<td><a href="../../wiki/sources/2025-03-05_justice-gov_justice-department-charges-12-chinese-contract-hackers-i-soon-apt27-indictment.html" class="wikilink">2025-03-05_justice-gov_justice-department-charges-12-chinese-contract-hackers-i-soon-apt27-indictment</a></td>
+<td><a href="../../wiki/sources/2025-03-05-doj-isoon-chinese-hackers-charges.html" class="wikilink">2025-03-05-doj-isoon-chinese-hackers-charges</a></td>
+<td>same_collection_url</td>
+<td><a href="https://www.justice.gov/opa/pr/justice-department-charges-12-chinese-contract-hackers-and-law-enforcement-officers-global" target="_blank" rel="noopener noreferrer" title="https://www.justice.gov/opa/pr/justice-department-charges-12-chinese-contract-hackers-and-law-enforcement-officers-global" data-full-url="https://www.justice.gov/opa/pr/justice-department-charges-12-chinese-contract-hackers-and-law-enforcement-officers-global" class="external-link">Link</a></td>
+</tr>
+<tr>
+<td style="text-align: right;">57</td>
+<td><a href="../../wiki/sources/2025-03-05_justice-gov_justice-department-charges-12-chinese-contract-hackers-i-soon-apt27.html" class="wikilink">2025-03-05_justice-gov_justice-department-charges-12-chinese-contract-hackers-i-soon-apt27</a></td>
+<td><a href="../../wiki/sources/2025-03-05-doj-isoon-chinese-hackers-charges.html" class="wikilink">2025-03-05-doj-isoon-chinese-hackers-charges</a></td>
+<td>same_collection_url</td>
+<td><a href="https://www.justice.gov/opa/pr/justice-department-charges-12-chinese-contract-hackers-and-law-enforcement-officers-global" target="_blank" rel="noopener noreferrer" title="https://www.justice.gov/opa/pr/justice-department-charges-12-chinese-contract-hackers-and-law-enforcement-officers-global" data-full-url="https://www.justice.gov/opa/pr/justice-department-charges-12-chinese-contract-hackers-and-law-enforcement-officers-global" class="external-link">Link</a></td>
+</tr>
+<tr>
+<td style="text-align: right;">58</td>
+<td><a href="../../wiki/sources/2019-07-19_justice-gov_irish-man-who-helped-operate-the-silk-road-website-sentenced-in-manhattan-federa.html" class="wikilink">2019-07-19_justice-gov_irish-man-who-helped-operate-the-silk-road-website-sentenced-in-manhattan-federa</a></td>
+<td><a href="../../wiki/sources/2019-07-19_justice-gov_irish-man-who-helped-operate-silk-road-sentenced.html" class="wikilink">2019-07-19_justice-gov_irish-man-who-helped-operate-silk-road-sentenced</a></td>
+<td>same_collection_url</td>
+<td><a href="https://www.justice.gov/usao-sdny/pr/irish-man-who-helped-operate-silk-road-website-sentenced-manhattan-federal-court-over" target="_blank" rel="noopener noreferrer" title="https://www.justice.gov/usao-sdny/pr/irish-man-who-helped-operate-silk-road-website-sentenced-manhattan-federal-court-over" data-full-url="https://www.justice.gov/usao-sdny/pr/irish-man-who-helped-operate-silk-road-website-sentenced-manhattan-federal-court-over" class="external-link">Link</a></td>
+</tr>
+<tr>
+<td style="text-align: right;">59</td>
+<td><a href="../../wiki/sources/2019-07-25_justice-gov_irish-man-who-helped-operate-the-silk-road-website-sentenced-in-manhattan-federa.html" class="wikilink">2019-07-25_justice-gov_irish-man-who-helped-operate-the-silk-road-website-sentenced-in-manhattan-federa</a></td>
+<td><a href="../../wiki/sources/2019-07-19_justice-gov_irish-man-who-helped-operate-silk-road-sentenced.html" class="wikilink">2019-07-19_justice-gov_irish-man-who-helped-operate-silk-road-sentenced</a></td>
+<td>same_collection_url</td>
+<td><a href="https://www.justice.gov/usao-sdny/pr/irish-man-who-helped-operate-silk-road-website-sentenced-manhattan-federal-court-over" target="_blank" rel="noopener noreferrer" title="https://www.justice.gov/usao-sdny/pr/irish-man-who-helped-operate-silk-road-website-sentenced-manhattan-federal-court-over" data-full-url="https://www.justice.gov/usao-sdny/pr/irish-man-who-helped-operate-silk-road-website-sentenced-manhattan-federal-court-over" class="external-link">Link</a></td>
+</tr>
+<tr>
+<td style="text-align: right;">60</td>
+<td><a href="../../wiki/sources/2019-07-25_justice-gov_united-states-v-gary-davis.html" class="wikilink">2019-07-25_justice-gov_united-states-v-gary-davis</a></td>
+<td><a href="../../wiki/sources/2019-07-19_justice-gov_irish-man-who-helped-operate-silk-road-sentenced.html" class="wikilink">2019-07-19_justice-gov_irish-man-who-helped-operate-silk-road-sentenced</a></td>
+<td>same_collection_url</td>
+<td><a href="https://www.justice.gov/usao-sdny/pr/irish-man-who-helped-operate-silk-road-website-sentenced-manhattan-federal-court-over" target="_blank" rel="noopener noreferrer" title="https://www.justice.gov/usao-sdny/pr/irish-man-who-helped-operate-silk-road-website-sentenced-manhattan-federal-court-over" data-full-url="https://www.justice.gov/usao-sdny/pr/irish-man-who-helped-operate-silk-road-website-sentenced-manhattan-federal-court-over" class="external-link">Link</a></td>
+</tr>
+<tr>
+<td style="text-align: right;">61</td>
+<td><a href="../../wiki/sources/2019-07-25_sdny_gary-davis-silk-road-sentencing.html" class="wikilink">2019-07-25_sdny_gary-davis-silk-road-sentencing</a></td>
+<td><a href="../../wiki/sources/2019-07-19_justice-gov_irish-man-who-helped-operate-silk-road-sentenced.html" class="wikilink">2019-07-19_justice-gov_irish-man-who-helped-operate-silk-road-sentenced</a></td>
+<td>same_collection_url</td>
+<td><a href="https://www.justice.gov/usao-sdny/pr/irish-man-who-helped-operate-silk-road-website-sentenced-manhattan-federal-court-over" target="_blank" rel="noopener noreferrer" title="https://www.justice.gov/usao-sdny/pr/irish-man-who-helped-operate-silk-road-website-sentenced-manhattan-federal-court-over" data-full-url="https://www.justice.gov/usao-sdny/pr/irish-man-who-helped-operate-silk-road-website-sentenced-manhattan-federal-court-over" class="external-link">Link</a></td>
+</tr>
+<tr>
+<td style="text-align: right;">62</td>
+<td><a href="../../wiki/sources/2026-04-17_rcmp-grc-gc-ca_national-cybercrime-coordination-centre-nc3.html" class="wikilink">2026-04-17_rcmp-grc-gc-ca_national-cybercrime-coordination-centre-nc3</a></td>
+<td><a href="../../wiki/sources/2026-04-17_rcmp-grc-gc-ca_cybercrime-and-the-criminal-code.html" class="wikilink">2026-04-17_rcmp-grc-gc-ca_cybercrime-and-the-criminal-code</a></td>
+<td>same_collection_url</td>
+<td><a href="https://www.rcmp-grc.gc.ca/en/nc3" target="_blank" rel="noopener noreferrer" title="https://www.rcmp-grc.gc.ca/en/nc3" data-full-url="https://www.rcmp-grc.gc.ca/en/nc3" class="external-link">Link</a></td>
+</tr>
+<tr>
+<td style="text-align: right;">63</td>
+<td><a href="../../wiki/sources/2026-04-17_rcmp-grc-gc-ca_national-cybercrime-coordination-centre.html" class="wikilink">2026-04-17_rcmp-grc-gc-ca_national-cybercrime-coordination-centre</a></td>
+<td><a href="../../wiki/sources/2026-04-17_rcmp-grc-gc-ca_cybercrime-and-the-criminal-code.html" class="wikilink">2026-04-17_rcmp-grc-gc-ca_cybercrime-and-the-criminal-code</a></td>
+<td>same_collection_url</td>
+<td><a href="https://www.rcmp-grc.gc.ca/en/nc3" target="_blank" rel="noopener noreferrer" title="https://www.rcmp-grc.gc.ca/en/nc3" data-full-url="https://www.rcmp-grc.gc.ca/en/nc3" class="external-link">Link</a></td>
+</tr>
+<tr>
+<td style="text-align: right;">64</td>
+<td><a href="../../wiki/sources/2026-04-17_rcmp-grc-gc-ca_nc3-and-cafc-privacy-impact-assessment.html" class="wikilink">2026-04-17_rcmp-grc-gc-ca_nc3-and-cafc-privacy-impact-assessment</a></td>
+<td><a href="../../wiki/sources/2026-04-17_rcmp-grc-gc-ca_cybercrime-and-the-criminal-code.html" class="wikilink">2026-04-17_rcmp-grc-gc-ca_cybercrime-and-the-criminal-code</a></td>
+<td>same_collection_url</td>
+<td><a href="https://www.rcmp-grc.gc.ca/en/nc3" target="_blank" rel="noopener noreferrer" title="https://www.rcmp-grc.gc.ca/en/nc3" data-full-url="https://www.rcmp-grc.gc.ca/en/nc3" class="external-link">Link</a></td>
+</tr>
+<tr>
+<td style="text-align: right;">65</td>
+<td><a href="../../wiki/sources/2026-04-17_rcmp-grc-gc-ca_the-national-cybercrime-coordination-centre.html" class="wikilink">2026-04-17_rcmp-grc-gc-ca_the-national-cybercrime-coordination-centre</a></td>
+<td><a href="../../wiki/sources/2026-04-17_rcmp-grc-gc-ca_cybercrime-and-the-criminal-code.html" class="wikilink">2026-04-17_rcmp-grc-gc-ca_cybercrime-and-the-criminal-code</a></td>
+<td>same_collection_url</td>
+<td><a href="https://www.rcmp-grc.gc.ca/en/nc3" target="_blank" rel="noopener noreferrer" title="https://www.rcmp-grc.gc.ca/en/nc3" data-full-url="https://www.rcmp-grc.gc.ca/en/nc3" class="external-link">Link</a></td>
+</tr>
+<tr>
+<td style="text-align: right;">66</td>
+<td><a href="../../wiki/sources/2023-02-08_europol-europa-eu_franco-israeli-ceo-fraud-gang-dismantled.html" class="wikilink">2023-02-08_europol-europa-eu_franco-israeli-ceo-fraud-gang-dismantled</a></td>
+<td><a href="../../wiki/sources/2023-02-08-europol-franco-israeli-ceo-fraud.html" class="wikilink">2023-02-08-europol-franco-israeli-ceo-fraud</a></td>
+<td>same_collection_url</td>
+<td><a href="https://www.europol.europa.eu/media-press/newsroom/news/franco-israeli-gang-behind-eur-38-million-ceo-fraud-busted" target="_blank" rel="noopener noreferrer" title="https://www.europol.europa.eu/media-press/newsroom/news/franco-israeli-gang-behind-eur-38-million-ceo-fraud-busted" data-full-url="https://www.europol.europa.eu/media-press/newsroom/news/franco-israeli-gang-behind-eur-38-million-ceo-fraud-busted" class="external-link">Link</a></td>
+</tr>
+<tr>
+<td style="text-align: right;">67</td>
+<td><a href="../../wiki/sources/2023-02-08_europol-europa-eu_franco-israeli-gang-behind-eur-38-million-ceo-fraud-busted.html" class="wikilink">2023-02-08_europol-europa-eu_franco-israeli-gang-behind-eur-38-million-ceo-fraud-busted</a></td>
+<td><a href="../../wiki/sources/2023-02-08-europol-franco-israeli-ceo-fraud.html" class="wikilink">2023-02-08-europol-franco-israeli-ceo-fraud</a></td>
+<td>same_collection_url</td>
+<td><a href="https://www.europol.europa.eu/media-press/newsroom/news/franco-israeli-gang-behind-eur-38-million-ceo-fraud-busted" target="_blank" rel="noopener noreferrer" title="https://www.europol.europa.eu/media-press/newsroom/news/franco-israeli-gang-behind-eur-38-million-ceo-fraud-busted" data-full-url="https://www.europol.europa.eu/media-press/newsroom/news/franco-israeli-gang-behind-eur-38-million-ceo-fraud-busted" class="external-link">Link</a></td>
+</tr>
+<tr>
+<td style="text-align: right;">68</td>
+<td><a href="../../wiki/sources/2023-02-08_europol_franco-israeli-ceo-fraud-bust.html" class="wikilink">2023-02-08_europol_franco-israeli-ceo-fraud-bust</a></td>
+<td><a href="../../wiki/sources/2023-02-08-europol-franco-israeli-ceo-fraud.html" class="wikilink">2023-02-08-europol-franco-israeli-ceo-fraud</a></td>
+<td>same_collection_url</td>
+<td><a href="https://www.europol.europa.eu/media-press/newsroom/news/franco-israeli-gang-behind-eur-38-million-ceo-fraud-busted" target="_blank" rel="noopener noreferrer" title="https://www.europol.europa.eu/media-press/newsroom/news/franco-israeli-gang-behind-eur-38-million-ceo-fraud-busted" data-full-url="https://www.europol.europa.eu/media-press/newsroom/news/franco-israeli-gang-behind-eur-38-million-ceo-fraud-busted" class="external-link">Link</a></td>
+</tr>
+<tr>
+<td style="text-align: right;">69</td>
+<td><a href="../../wiki/sources/2024-02-20_europol-europa-eu_law-enforcement-disrupt-world-s-biggest-ransomware-operation-operation-cronos-lo.html" class="wikilink">2024-02-20_europol-europa-eu_law-enforcement-disrupt-world-s-biggest-ransomware-operation-operation-cronos-lo</a></td>
+<td><a href="../../wiki/sources/2024-02-20-europol-operation-cronos-lockbit.html" class="wikilink">2024-02-20-europol-operation-cronos-lockbit</a></td>
+<td>same_collection_url</td>
+<td><a href="https://www.europol.europa.eu/media-press/newsroom/news/law-enforcement-disrupt-worlds-biggest-ransomware-operation" target="_blank" rel="noopener noreferrer" title="https://www.europol.europa.eu/media-press/newsroom/news/law-enforcement-disrupt-worlds-biggest-ransomware-operation" data-full-url="https://www.europol.europa.eu/media-press/newsroom/news/law-enforcement-disrupt-worlds-biggest-ransomware-operation" class="external-link">Link</a></td>
+</tr>
+<tr>
+<td style="text-align: right;">70</td>
+<td><a href="../../wiki/sources/2024-02-20_europol-europa-eu_operation-cronos-lockbit-disrupted.html" class="wikilink">2024-02-20_europol-europa-eu_operation-cronos-lockbit-disrupted</a></td>
+<td><a href="../../wiki/sources/2024-02-20-europol-operation-cronos-lockbit.html" class="wikilink">2024-02-20-europol-operation-cronos-lockbit</a></td>
+<td>same_collection_url</td>
+<td><a href="https://www.europol.europa.eu/media-press/newsroom/news/law-enforcement-disrupt-worlds-biggest-ransomware-operation" target="_blank" rel="noopener noreferrer" title="https://www.europol.europa.eu/media-press/newsroom/news/law-enforcement-disrupt-worlds-biggest-ransomware-operation" data-full-url="https://www.europol.europa.eu/media-press/newsroom/news/law-enforcement-disrupt-worlds-biggest-ransomware-operation" class="external-link">Link</a></td>
+</tr>
+<tr>
+<td style="text-align: right;">71</td>
+<td><a href="../../wiki/sources/2024-02-20_europol_operation-cronos-lockbit.html" class="wikilink">2024-02-20_europol_operation-cronos-lockbit</a></td>
+<td><a href="../../wiki/sources/2024-02-20-europol-operation-cronos-lockbit.html" class="wikilink">2024-02-20-europol-operation-cronos-lockbit</a></td>
+<td>same_collection_url</td>
+<td><a href="https://www.europol.europa.eu/media-press/newsroom/news/law-enforcement-disrupt-worlds-biggest-ransomware-operation" target="_blank" rel="noopener noreferrer" title="https://www.europol.europa.eu/media-press/newsroom/news/law-enforcement-disrupt-worlds-biggest-ransomware-operation" data-full-url="https://www.europol.europa.eu/media-press/newsroom/news/law-enforcement-disrupt-worlds-biggest-ransomware-operation" class="external-link">Link</a></td>
+</tr>
+<tr>
+<td style="text-align: right;">72</td>
+<td><a href="../../wiki/sources/2025-05-23_europol-europa-eu_operation-endgame-phase-2.html" class="wikilink">2025-05-23_europol-europa-eu_operation-endgame-phase-2</a></td>
+<td><a href="../../wiki/sources/2025-05-23-europol-operation-endgame-phase2.html" class="wikilink">2025-05-23-europol-operation-endgame-phase2</a></td>
+<td>same_collection_url</td>
+<td><a href="https://www.europol.europa.eu/media-press/newsroom/news/operation-endgame-strikes-again-ransomware-kill-chain-broken-its-source" target="_blank" rel="noopener noreferrer" title="https://www.europol.europa.eu/media-press/newsroom/news/operation-endgame-strikes-again-ransomware-kill-chain-broken-its-source" data-full-url="https://www.europol.europa.eu/media-press/newsroom/news/operation-endgame-strikes-again-ransomware-kill-chain-broken-its-source" class="external-link">Link</a></td>
+</tr>
+<tr>
+<td style="text-align: right;">73</td>
+<td><a href="../../wiki/sources/2025-05-23_europol-europa-eu_operation-endgame-strikes-again-the-ransomware-kill-chain-broken-at-its-source.html" class="wikilink">2025-05-23_europol-europa-eu_operation-endgame-strikes-again-the-ransomware-kill-chain-broken-at-its-source</a></td>
+<td><a href="../../wiki/sources/2025-05-23-europol-operation-endgame-phase2.html" class="wikilink">2025-05-23-europol-operation-endgame-phase2</a></td>
+<td>same_collection_url</td>
+<td><a href="https://www.europol.europa.eu/media-press/newsroom/news/operation-endgame-strikes-again-ransomware-kill-chain-broken-its-source" target="_blank" rel="noopener noreferrer" title="https://www.europol.europa.eu/media-press/newsroom/news/operation-endgame-strikes-again-ransomware-kill-chain-broken-its-source" data-full-url="https://www.europol.europa.eu/media-press/newsroom/news/operation-endgame-strikes-again-ransomware-kill-chain-broken-its-source" class="external-link">Link</a></td>
+</tr>
+<tr>
+<td style="text-align: right;">74</td>
+<td><a href="../../wiki/sources/2025-05-23_europol_operation-endgame-phase2.html" class="wikilink">2025-05-23_europol_operation-endgame-phase2</a></td>
+<td><a href="../../wiki/sources/2025-05-23-europol-operation-endgame-phase2.html" class="wikilink">2025-05-23-europol-operation-endgame-phase2</a></td>
+<td>same_collection_url</td>
+<td><a href="https://www.europol.europa.eu/media-press/newsroom/news/operation-endgame-strikes-again-ransomware-kill-chain-broken-its-source" target="_blank" rel="noopener noreferrer" title="https://www.europol.europa.eu/media-press/newsroom/news/operation-endgame-strikes-again-ransomware-kill-chain-broken-its-source" data-full-url="https://www.europol.europa.eu/media-press/newsroom/news/operation-endgame-strikes-again-ransomware-kill-chain-broken-its-source" class="external-link">Link</a></td>
+</tr>
+<tr>
+<td style="text-align: right;">75</td>
+<td><a href="../../wiki/sources/2018-08-01_fbi-gov_how-cyber-crime-group-fin7-attacked-and-stole-data-from-hundreds-of-u-s-companie.html" class="wikilink">2018-08-01_fbi-gov_how-cyber-crime-group-fin7-attacked-and-stole-data-from-hundreds-of-u-s-companie</a></td>
+<td><a href="../../wiki/sources/2018-01-01_fbi-gov_how-cyber-crime-group-fin7-attacked-and-stole-data-from-hundreds-of-us-companies.html" class="wikilink">2018-01-01_fbi-gov_how-cyber-crime-group-fin7-attacked-and-stole-data-from-hundreds-of-us-companies</a></td>
+<td>same_collection_url</td>
+<td><a href="https://www.fbi.gov/contact-us/field-offices/seattle/news/stories/how-cyber-crime-group-fin7-attacked-and-stole-data-from-hundreds-of-us-" target="_blank" rel="noopener noreferrer" title="https://www.fbi.gov/contact-us/field-offices/seattle/news/stories/how-cyber-crime-group-fin7-attacked-and-stole-data-from-hundreds-of-us-" data-full-url="https://www.fbi.gov/contact-us/field-offices/seattle/news/stories/how-cyber-crime-group-fin7-attacked-and-stole-data-from-hundreds-of-us-" class="external-link">Link</a>...</td>
+</tr>
+<tr>
+<td style="text-align: right;">76</td>
+<td><a href="../../wiki/sources/2018-08-01_fbi-gov_how-cyber-crime-group-fin7-attacked-and-stole-data-from-hundreds-of-us-companies.html" class="wikilink">2018-08-01_fbi-gov_how-cyber-crime-group-fin7-attacked-and-stole-data-from-hundreds-of-us-companies</a></td>
+<td><a href="../../wiki/sources/2018-01-01_fbi-gov_how-cyber-crime-group-fin7-attacked-and-stole-data-from-hundreds-of-us-companies.html" class="wikilink">2018-01-01_fbi-gov_how-cyber-crime-group-fin7-attacked-and-stole-data-from-hundreds-of-us-companies</a></td>
+<td>same_collection_url</td>
+<td><a href="https://www.fbi.gov/contact-us/field-offices/seattle/news/stories/how-cyber-crime-group-fin7-attacked-and-stole-data-from-hundreds-of-us-" target="_blank" rel="noopener noreferrer" title="https://www.fbi.gov/contact-us/field-offices/seattle/news/stories/how-cyber-crime-group-fin7-attacked-and-stole-data-from-hundreds-of-us-" data-full-url="https://www.fbi.gov/contact-us/field-offices/seattle/news/stories/how-cyber-crime-group-fin7-attacked-and-stole-data-from-hundreds-of-us-" class="external-link">Link</a>...</td>
+</tr>
+<tr>
+<td style="text-align: right;">77</td>
+<td><a href="../../wiki/sources/fbi-fin7-cybercrime-group-takedown.html" class="wikilink">fbi-fin7-cybercrime-group-takedown</a></td>
+<td><a href="../../wiki/sources/2018-01-01_fbi-gov_how-cyber-crime-group-fin7-attacked-and-stole-data-from-hundreds-of-us-companies.html" class="wikilink">2018-01-01_fbi-gov_how-cyber-crime-group-fin7-attacked-and-stole-data-from-hundreds-of-us-companies</a></td>
+<td>same_collection_url</td>
+<td><a href="https://www.fbi.gov/contact-us/field-offices/seattle/news/stories/how-cyber-crime-group-fin7-attacked-and-stole-data-from-hundreds-of-us-" target="_blank" rel="noopener noreferrer" title="https://www.fbi.gov/contact-us/field-offices/seattle/news/stories/how-cyber-crime-group-fin7-attacked-and-stole-data-from-hundreds-of-us-" data-full-url="https://www.fbi.gov/contact-us/field-offices/seattle/news/stories/how-cyber-crime-group-fin7-attacked-and-stole-data-from-hundreds-of-us-" class="external-link">Link</a>...</td>
+</tr>
+<tr>
+<td style="text-align: right;">78</td>
+<td><a href="../../wiki/sources/2024-11-06_interpol-int_interpol-cyber-operation-takes-down-22-000-malicious-ip-addresses-operation-syne.html" class="wikilink">2024-11-06_interpol-int_interpol-cyber-operation-takes-down-22-000-malicious-ip-addresses-operation-syne</a></td>
+<td><a href="../../wiki/sources/2024-11-06-interpol-operation-synergia-ii.html" class="wikilink">2024-11-06-interpol-operation-synergia-ii</a></td>
+<td>same_collection_url</td>
+<td><a href="https://www.interpol.int/News-and-Events/News/2024/INTERPOL-cyber-operation-takes-down-22-000-malicious-IP-addresses" target="_blank" rel="noopener noreferrer" title="https://www.interpol.int/News-and-Events/News/2024/INTERPOL-cyber-operation-takes-down-22-000-malicious-IP-addresses" data-full-url="https://www.interpol.int/News-and-Events/News/2024/INTERPOL-cyber-operation-takes-down-22-000-malicious-IP-addresses" class="external-link">Link</a></td>
+</tr>
+<tr>
+<td style="text-align: right;">79</td>
+<td><a href="../../wiki/sources/2024-11-06_interpol-int_operation-synergia-ii.html" class="wikilink">2024-11-06_interpol-int_operation-synergia-ii</a></td>
+<td><a href="../../wiki/sources/2024-11-06-interpol-operation-synergia-ii.html" class="wikilink">2024-11-06-interpol-operation-synergia-ii</a></td>
+<td>same_collection_url</td>
+<td><a href="https://www.interpol.int/News-and-Events/News/2024/INTERPOL-cyber-operation-takes-down-22-000-malicious-IP-addresses" target="_blank" rel="noopener noreferrer" title="https://www.interpol.int/News-and-Events/News/2024/INTERPOL-cyber-operation-takes-down-22-000-malicious-IP-addresses" data-full-url="https://www.interpol.int/News-and-Events/News/2024/INTERPOL-cyber-operation-takes-down-22-000-malicious-IP-addresses" class="external-link">Link</a></td>
+</tr>
+<tr>
+<td style="text-align: right;">80</td>
+<td><a href="../../wiki/sources/2024-11-06_interpol_operation-synergia-ii.html" class="wikilink">2024-11-06_interpol_operation-synergia-ii</a></td>
+<td><a href="../../wiki/sources/2024-11-06-interpol-operation-synergia-ii.html" class="wikilink">2024-11-06-interpol-operation-synergia-ii</a></td>
+<td>same_collection_url</td>
+<td><a href="https://www.interpol.int/News-and-Events/News/2024/INTERPOL-cyber-operation-takes-down-22-000-malicious-IP-addresses" target="_blank" rel="noopener noreferrer" title="https://www.interpol.int/News-and-Events/News/2024/INTERPOL-cyber-operation-takes-down-22-000-malicious-IP-addresses" data-full-url="https://www.interpol.int/News-and-Events/News/2024/INTERPOL-cyber-operation-takes-down-22-000-malicious-IP-addresses" class="external-link">Link</a></td>
+</tr>
+<tr>
+<td style="text-align: right;">81</td>
+<td><a href="../../wiki/sources/2024-12-02_interpol-int_interpol-financial-crime-operation-makes-record-5-500-arrests-operation-haechi-v.html" class="wikilink">2024-12-02_interpol-int_interpol-financial-crime-operation-makes-record-5-500-arrests-operation-haechi-v</a></td>
+<td><a href="../../wiki/sources/2024-12-02-interpol-operation-haechi-v.html" class="wikilink">2024-12-02-interpol-operation-haechi-v</a></td>
+<td>same_collection_url</td>
+<td><a href="https://www.interpol.int/News-and-Events/News/2024/INTERPOL-financial-crime-operation-makes-record-5-500-arrests-seizures-worth-over-USD-" target="_blank" rel="noopener noreferrer" title="https://www.interpol.int/News-and-Events/News/2024/INTERPOL-financial-crime-operation-makes-record-5-500-arrests-seizures-worth-over-USD-" data-full-url="https://www.interpol.int/News-and-Events/News/2024/INTERPOL-financial-crime-operation-makes-record-5-500-arrests-seizures-worth-over-USD-" class="external-link">Link</a>...</td>
+</tr>
+<tr>
+<td style="text-align: right;">82</td>
+<td><a href="../../wiki/sources/2024-12-02_interpol-int_operation-haechi-v.html" class="wikilink">2024-12-02_interpol-int_operation-haechi-v</a></td>
+<td><a href="../../wiki/sources/2024-12-02-interpol-operation-haechi-v.html" class="wikilink">2024-12-02-interpol-operation-haechi-v</a></td>
+<td>same_collection_url</td>
+<td><a href="https://www.interpol.int/News-and-Events/News/2024/INTERPOL-financial-crime-operation-makes-record-5-500-arrests-seizures-worth-over-USD-" target="_blank" rel="noopener noreferrer" title="https://www.interpol.int/News-and-Events/News/2024/INTERPOL-financial-crime-operation-makes-record-5-500-arrests-seizures-worth-over-USD-" data-full-url="https://www.interpol.int/News-and-Events/News/2024/INTERPOL-financial-crime-operation-makes-record-5-500-arrests-seizures-worth-over-USD-" class="external-link">Link</a>...</td>
+</tr>
+<tr>
+<td style="text-align: right;">83</td>
+<td><a href="../../wiki/sources/2024-12-02_interpol_operation-haechi-v.html" class="wikilink">2024-12-02_interpol_operation-haechi-v</a></td>
+<td><a href="../../wiki/sources/2024-12-02-interpol-operation-haechi-v.html" class="wikilink">2024-12-02-interpol-operation-haechi-v</a></td>
+<td>same_collection_url</td>
+<td><a href="https://www.interpol.int/News-and-Events/News/2024/INTERPOL-financial-crime-operation-makes-record-5-500-arrests-seizures-worth-over-USD-" target="_blank" rel="noopener noreferrer" title="https://www.interpol.int/News-and-Events/News/2024/INTERPOL-financial-crime-operation-makes-record-5-500-arrests-seizures-worth-over-USD-" data-full-url="https://www.interpol.int/News-and-Events/News/2024/INTERPOL-financial-crime-operation-makes-record-5-500-arrests-seizures-worth-over-USD-" class="external-link">Link</a>...</td>
+</tr>
+<tr>
+<td style="text-align: right;">84</td>
+<td><a href="../../wiki/sources/2024-06-18_interpol-int_operation-first-light-2024.html" class="wikilink">2024-06-18_interpol-int_operation-first-light-2024</a></td>
+<td><a href="../../wiki/sources/2024-06-18-interpol-operation-first-light-2024.html" class="wikilink">2024-06-18-interpol-operation-first-light-2024</a></td>
+<td>same_collection_url</td>
+<td><a href="https://www.interpol.int/News-and-Events/News/2024/USD-257-million-seized-in-global-police-crackdown-against-online-scams" target="_blank" rel="noopener noreferrer" title="https://www.interpol.int/News-and-Events/News/2024/USD-257-million-seized-in-global-police-crackdown-against-online-scams" data-full-url="https://www.interpol.int/News-and-Events/News/2024/USD-257-million-seized-in-global-police-crackdown-against-online-scams" class="external-link">Link</a></td>
+</tr>
+<tr>
+<td style="text-align: right;">85</td>
+<td><a href="../../wiki/sources/2024-06-18_interpol-int_usd-257-million-seized-in-global-police-crackdown-against-online-scams-operation.html" class="wikilink">2024-06-18_interpol-int_usd-257-million-seized-in-global-police-crackdown-against-online-scams-operation</a></td>
+<td><a href="../../wiki/sources/2024-06-18-interpol-operation-first-light-2024.html" class="wikilink">2024-06-18-interpol-operation-first-light-2024</a></td>
+<td>same_collection_url</td>
+<td><a href="https://www.interpol.int/News-and-Events/News/2024/USD-257-million-seized-in-global-police-crackdown-against-online-scams" target="_blank" rel="noopener noreferrer" title="https://www.interpol.int/News-and-Events/News/2024/USD-257-million-seized-in-global-police-crackdown-against-online-scams" data-full-url="https://www.interpol.int/News-and-Events/News/2024/USD-257-million-seized-in-global-police-crackdown-against-online-scams" class="external-link">Link</a></td>
+</tr>
+<tr>
+<td style="text-align: right;">86</td>
+<td><a href="../../wiki/sources/2024-06-18_interpol_operation-first-light-2024.html" class="wikilink">2024-06-18_interpol_operation-first-light-2024</a></td>
+<td><a href="../../wiki/sources/2024-06-18-interpol-operation-first-light-2024.html" class="wikilink">2024-06-18-interpol-operation-first-light-2024</a></td>
+<td>same_collection_url</td>
+<td><a href="https://www.interpol.int/News-and-Events/News/2024/USD-257-million-seized-in-global-police-crackdown-against-online-scams" target="_blank" rel="noopener noreferrer" title="https://www.interpol.int/News-and-Events/News/2024/USD-257-million-seized-in-global-police-crackdown-against-online-scams" data-full-url="https://www.interpol.int/News-and-Events/News/2024/USD-257-million-seized-in-global-police-crackdown-against-online-scams" class="external-link">Link</a></td>
+</tr>
+<tr>
+<td style="text-align: right;">87</td>
+<td><a href="../../wiki/sources/2024-08-28_interpol-int_interpol-operation-strikes-major-blow-against-west-african-financial-crime-opera.html" class="wikilink">2024-08-28_interpol-int_interpol-operation-strikes-major-blow-against-west-african-financial-crime-opera</a></td>
+<td><a href="../../wiki/sources/2024-08-28-interpol-operation-jackal-iii.html" class="wikilink">2024-08-28-interpol-operation-jackal-iii</a></td>
+<td>same_collection_url</td>
+<td><a href="https://www.interpol.int/en/News-and-Events/News/2024/INTERPOL-operation-strikes-major-blow-against-West-African-financial-crime" target="_blank" rel="noopener noreferrer" title="https://www.interpol.int/en/News-and-Events/News/2024/INTERPOL-operation-strikes-major-blow-against-West-African-financial-crime" data-full-url="https://www.interpol.int/en/News-and-Events/News/2024/INTERPOL-operation-strikes-major-blow-against-West-African-financial-crime" class="external-link">Link</a></td>
+</tr>
+<tr>
+<td style="text-align: right;">88</td>
+<td><a href="../../wiki/sources/2024-08-28_interpol-int_operation-jackal-iii-black-axe-bec.html" class="wikilink">2024-08-28_interpol-int_operation-jackal-iii-black-axe-bec</a></td>
+<td><a href="../../wiki/sources/2024-08-28-interpol-operation-jackal-iii.html" class="wikilink">2024-08-28-interpol-operation-jackal-iii</a></td>
+<td>same_collection_url</td>
+<td><a href="https://www.interpol.int/en/News-and-Events/News/2024/INTERPOL-operation-strikes-major-blow-against-West-African-financial-crime" target="_blank" rel="noopener noreferrer" title="https://www.interpol.int/en/News-and-Events/News/2024/INTERPOL-operation-strikes-major-blow-against-West-African-financial-crime" data-full-url="https://www.interpol.int/en/News-and-Events/News/2024/INTERPOL-operation-strikes-major-blow-against-West-African-financial-crime" class="external-link">Link</a></td>
+</tr>
+<tr>
+<td style="text-align: right;">89</td>
+<td><a href="../../wiki/sources/2024-08-28_interpol_operation-jackal-iii-black-axe.html" class="wikilink">2024-08-28_interpol_operation-jackal-iii-black-axe</a></td>
+<td><a href="../../wiki/sources/2024-08-28-interpol-operation-jackal-iii.html" class="wikilink">2024-08-28-interpol-operation-jackal-iii</a></td>
+<td>same_collection_url</td>
+<td><a href="https://www.interpol.int/en/News-and-Events/News/2024/INTERPOL-operation-strikes-major-blow-against-West-African-financial-crime" target="_blank" rel="noopener noreferrer" title="https://www.interpol.int/en/News-and-Events/News/2024/INTERPOL-operation-strikes-major-blow-against-West-African-financial-crime" data-full-url="https://www.interpol.int/en/News-and-Events/News/2024/INTERPOL-operation-strikes-major-blow-against-West-African-financial-crime" class="external-link">Link</a></td>
+</tr>
+<tr>
+<td style="text-align: right;">90</td>
+<td><a href="../../wiki/sources/2024-11-26_interpol-int_major-cybercrime-operation-nets-1-006-suspects-operation-serengeti.html" class="wikilink">2024-11-26_interpol-int_major-cybercrime-operation-nets-1-006-suspects-operation-serengeti</a></td>
+<td><a href="../../wiki/sources/2024-11-26-interpol-operation-serengeti.html" class="wikilink">2024-11-26-interpol-operation-serengeti</a></td>
+<td>same_collection_url</td>
+<td><a href="https://www.interpol.int/en/News-and-Events/News/2024/Major-cybercrime-operation-nets-1-006-suspects" target="_blank" rel="noopener noreferrer" title="https://www.interpol.int/en/News-and-Events/News/2024/Major-cybercrime-operation-nets-1-006-suspects" data-full-url="https://www.interpol.int/en/News-and-Events/News/2024/Major-cybercrime-operation-nets-1-006-suspects" class="external-link">Link</a></td>
+</tr>
+<tr>
+<td style="text-align: right;">91</td>
+<td><a href="../../wiki/sources/2024-11-26_interpol-int_operation-serengeti.html" class="wikilink">2024-11-26_interpol-int_operation-serengeti</a></td>
+<td><a href="../../wiki/sources/2024-11-26-interpol-operation-serengeti.html" class="wikilink">2024-11-26-interpol-operation-serengeti</a></td>
+<td>same_collection_url</td>
+<td><a href="https://www.interpol.int/en/News-and-Events/News/2024/Major-cybercrime-operation-nets-1-006-suspects" target="_blank" rel="noopener noreferrer" title="https://www.interpol.int/en/News-and-Events/News/2024/Major-cybercrime-operation-nets-1-006-suspects" data-full-url="https://www.interpol.int/en/News-and-Events/News/2024/Major-cybercrime-operation-nets-1-006-suspects" class="external-link">Link</a></td>
+</tr>
+<tr>
+<td style="text-align: right;">92</td>
+<td><a href="../../wiki/sources/2024-11-26_interpol_operation-serengeti.html" class="wikilink">2024-11-26_interpol_operation-serengeti</a></td>
+<td><a href="../../wiki/sources/2024-11-26-interpol-operation-serengeti.html" class="wikilink">2024-11-26-interpol-operation-serengeti</a></td>
+<td>same_collection_url</td>
+<td><a href="https://www.interpol.int/en/News-and-Events/News/2024/Major-cybercrime-operation-nets-1-006-suspects" target="_blank" rel="noopener noreferrer" title="https://www.interpol.int/en/News-and-Events/News/2024/Major-cybercrime-operation-nets-1-006-suspects" data-full-url="https://www.interpol.int/en/News-and-Events/News/2024/Major-cybercrime-operation-nets-1-006-suspects" class="external-link">Link</a></td>
+</tr>
+<tr>
+<td style="text-align: right;">93</td>
+<td><a href="../../wiki/sources/2025-09-25_interpol-int_operation-haechi-vi.html" class="wikilink">2025-09-25_interpol-int_operation-haechi-vi</a></td>
+<td><a href="../../wiki/sources/2025-09-25-interpol-operation-haechi-vi.html" class="wikilink">2025-09-25-interpol-operation-haechi-vi</a></td>
+<td>same_collection_url</td>
+<td><a href="https://www.interpol.int/en/News-and-Events/News/2025/USD-439-million-recovered-in-global-financial-crime-operation" target="_blank" rel="noopener noreferrer" title="https://www.interpol.int/en/News-and-Events/News/2025/USD-439-million-recovered-in-global-financial-crime-operation" data-full-url="https://www.interpol.int/en/News-and-Events/News/2025/USD-439-million-recovered-in-global-financial-crime-operation" class="external-link">Link</a></td>
+</tr>
+<tr>
+<td style="text-align: right;">94</td>
+<td><a href="../../wiki/sources/2025-09-25_interpol-int_usd-439-million-recovered-in-global-financial-crime-operation-operation-haechi-v.html" class="wikilink">2025-09-25_interpol-int_usd-439-million-recovered-in-global-financial-crime-operation-operation-haechi-v</a></td>
+<td><a href="../../wiki/sources/2025-09-25-interpol-operation-haechi-vi.html" class="wikilink">2025-09-25-interpol-operation-haechi-vi</a></td>
+<td>same_collection_url</td>
+<td><a href="https://www.interpol.int/en/News-and-Events/News/2025/USD-439-million-recovered-in-global-financial-crime-operation" target="_blank" rel="noopener noreferrer" title="https://www.interpol.int/en/News-and-Events/News/2025/USD-439-million-recovered-in-global-financial-crime-operation" data-full-url="https://www.interpol.int/en/News-and-Events/News/2025/USD-439-million-recovered-in-global-financial-crime-operation" class="external-link">Link</a></td>
+</tr>
+<tr>
+<td style="text-align: right;">95</td>
+<td><a href="../../wiki/sources/2025-09-25_interpol_operation-haechi-vi.html" class="wikilink">2025-09-25_interpol_operation-haechi-vi</a></td>
+<td><a href="../../wiki/sources/2025-09-25-interpol-operation-haechi-vi.html" class="wikilink">2025-09-25-interpol-operation-haechi-vi</a></td>
+<td>same_collection_url</td>
+<td><a href="https://www.interpol.int/en/News-and-Events/News/2025/USD-439-million-recovered-in-global-financial-crime-operation" target="_blank" rel="noopener noreferrer" title="https://www.interpol.int/en/News-and-Events/News/2025/USD-439-million-recovered-in-global-financial-crime-operation" data-full-url="https://www.interpol.int/en/News-and-Events/News/2025/USD-439-million-recovered-in-global-financial-crime-operation" class="external-link">Link</a></td>
+</tr>
+<tr>
+<td style="text-align: right;">96</td>
+<td><a href="../../wiki/sources/2024-05-22_justice-gov_united-states-v-yunhe-wang-911-s5-botnet.html" class="wikilink">2024-05-22_justice-gov_united-states-v-yunhe-wang-911-s5-botnet</a></td>
+<td><a href="../../wiki/sources/2024-05-22_justice-gov_page-not-found.html" class="wikilink">2024-05-22_justice-gov_page-not-found</a></td>
+<td>same_collection_url</td>
+<td><a href="https://www.justice.gov/archives/opa/pr/justice-department-leads-effort-among-multinational-partners-dismantle-worlds-largest-botnet" target="_blank" rel="noopener noreferrer" title="https://www.justice.gov/archives/opa/pr/justice-department-leads-effort-among-multinational-partners-dismantle-worlds-largest-botnet" data-full-url="https://www.justice.gov/archives/opa/pr/justice-department-leads-effort-among-multinational-partners-dismantle-worlds-largest-botnet" class="external-link">Link</a></td>
+</tr>
+<tr>
+<td style="text-align: right;">97</td>
+<td><a href="../../wiki/sources/2024-05-29_opa_yunhe-wang-911-s5-indictment.html" class="wikilink">2024-05-29_opa_yunhe-wang-911-s5-indictment</a></td>
+<td><a href="../../wiki/sources/2024-05-22_justice-gov_page-not-found.html" class="wikilink">2024-05-22_justice-gov_page-not-found</a></td>
+<td>same_collection_url</td>
+<td><a href="https://www.justice.gov/archives/opa/pr/justice-department-leads-effort-among-multinational-partners-dismantle-worlds-largest-botnet" target="_blank" rel="noopener noreferrer" title="https://www.justice.gov/archives/opa/pr/justice-department-leads-effort-among-multinational-partners-dismantle-worlds-largest-botnet" data-full-url="https://www.justice.gov/archives/opa/pr/justice-department-leads-effort-among-multinational-partners-dismantle-worlds-largest-botnet" class="external-link">Link</a></td>
+</tr>
+<tr>
+<td style="text-align: right;">98</td>
+<td><a href="../../wiki/sources/bbc-911-s5-botnet-dismantling-1.html" class="wikilink">bbc-911-s5-botnet-dismantling-1</a></td>
+<td><a href="../../wiki/sources/2024-05-22_justice-gov_page-not-found.html" class="wikilink">2024-05-22_justice-gov_page-not-found</a></td>
+<td>same_collection_url</td>
+<td><a href="https://www.justice.gov/archives/opa/pr/justice-department-leads-effort-among-multinational-partners-dismantle-worlds-largest-botnet" target="_blank" rel="noopener noreferrer" title="https://www.justice.gov/archives/opa/pr/justice-department-leads-effort-among-multinational-partners-dismantle-worlds-largest-botnet" data-full-url="https://www.justice.gov/archives/opa/pr/justice-department-leads-effort-among-multinational-partners-dismantle-worlds-largest-botnet" class="external-link">Link</a></td>
+</tr>
+<tr>
+<td style="text-align: right;">99</td>
+<td><a href="../../wiki/sources/2022-05-25_justice-gov_united-states-v-john-telusma.html" class="wikilink">2022-05-25_justice-gov_united-states-v-john-telusma</a></td>
+<td><a href="../../wiki/sources/2022-05-25_justice-gov_man-sentenced-for-transnational-cybercrime-enterprise.html" class="wikilink">2022-05-25_justice-gov_man-sentenced-for-transnational-cybercrime-enterprise</a></td>
+<td>same_collection_url</td>
+<td><a href="https://www.justice.gov/archives/opa/pr/man-sentenced-transnational-cybercrime-enterprise" target="_blank" rel="noopener noreferrer" title="https://www.justice.gov/archives/opa/pr/man-sentenced-transnational-cybercrime-enterprise" data-full-url="https://www.justice.gov/archives/opa/pr/man-sentenced-transnational-cybercrime-enterprise" class="external-link">Link</a></td>
+</tr>
+<tr>
+<td style="text-align: right;">100</td>
+<td><a href="../../wiki/sources/2022-05-27_doj_telusma-infraud-sentencing.html" class="wikilink">2022-05-27_doj_telusma-infraud-sentencing</a></td>
+<td><a href="../../wiki/sources/2022-05-25_justice-gov_man-sentenced-for-transnational-cybercrime-enterprise.html" class="wikilink">2022-05-25_justice-gov_man-sentenced-for-transnational-cybercrime-enterprise</a></td>
+<td>same_collection_url</td>
+<td><a href="https://www.justice.gov/archives/opa/pr/man-sentenced-transnational-cybercrime-enterprise" target="_blank" rel="noopener noreferrer" title="https://www.justice.gov/archives/opa/pr/man-sentenced-transnational-cybercrime-enterprise" data-full-url="https://www.justice.gov/archives/opa/pr/man-sentenced-transnational-cybercrime-enterprise" class="external-link">Link</a></td>
+</tr>
+<tr>
+<td style="text-align: right;">101</td>
+<td><a href="../../wiki/sources/2022-05-27_justice-gov_man-sentenced-for-transnational-cybercrime-enterprise.html" class="wikilink">2022-05-27_justice-gov_man-sentenced-for-transnational-cybercrime-enterprise</a></td>
+<td><a href="../../wiki/sources/2022-05-25_justice-gov_man-sentenced-for-transnational-cybercrime-enterprise.html" class="wikilink">2022-05-25_justice-gov_man-sentenced-for-transnational-cybercrime-enterprise</a></td>
+<td>same_collection_url</td>
+<td><a href="https://www.justice.gov/archives/opa/pr/man-sentenced-transnational-cybercrime-enterprise" target="_blank" rel="noopener noreferrer" title="https://www.justice.gov/archives/opa/pr/man-sentenced-transnational-cybercrime-enterprise" data-full-url="https://www.justice.gov/archives/opa/pr/man-sentenced-transnational-cybercrime-enterprise" class="external-link">Link</a></td>
+</tr>
+<tr>
+<td style="text-align: right;">102</td>
+<td><a href="../../wiki/sources/2019-12-05_justice-gov_russian-national-charged-with-decade-long-series-of-hacking-and-bank-fraud.html" class="wikilink">2019-12-05_justice-gov_russian-national-charged-with-decade-long-series-of-hacking-and-bank-fraud</a></td>
+<td><a href="../../wiki/sources/2019-12-05_justice-gov_russian-national-charged-with-decade-long-series-of-hacking-and-bank-fraud-offen.html" class="wikilink">2019-12-05_justice-gov_russian-national-charged-with-decade-long-series-of-hacking-and-bank-fraud-offen</a></td>
+<td>same_collection_url</td>
+<td><a href="https://www.justice.gov/archives/opa/pr/russian-national-charged-decade-long-series-hacking-and-bank-fraud-offenses-resulting-tens" target="_blank" rel="noopener noreferrer" title="https://www.justice.gov/archives/opa/pr/russian-national-charged-decade-long-series-hacking-and-bank-fraud-offenses-resulting-tens" data-full-url="https://www.justice.gov/archives/opa/pr/russian-national-charged-decade-long-series-hacking-and-bank-fraud-offenses-resulting-tens" class="external-link">Link</a></td>
+</tr>
+<tr>
+<td style="text-align: right;">103</td>
+<td><a href="../../wiki/sources/2019-12-05_justice-gov_united-states-v-yakubets-and-turashev-dridex-evil-corp.html" class="wikilink">2019-12-05_justice-gov_united-states-v-yakubets-and-turashev-dridex-evil-corp</a></td>
+<td><a href="../../wiki/sources/2019-12-05_justice-gov_russian-national-charged-with-decade-long-series-of-hacking-and-bank-fraud-offen.html" class="wikilink">2019-12-05_justice-gov_russian-national-charged-with-decade-long-series-of-hacking-and-bank-fraud-offen</a></td>
+<td>same_collection_url</td>
+<td><a href="https://www.justice.gov/archives/opa/pr/russian-national-charged-decade-long-series-hacking-and-bank-fraud-offenses-resulting-tens" target="_blank" rel="noopener noreferrer" title="https://www.justice.gov/archives/opa/pr/russian-national-charged-decade-long-series-hacking-and-bank-fraud-offenses-resulting-tens" data-full-url="https://www.justice.gov/archives/opa/pr/russian-national-charged-decade-long-series-hacking-and-bank-fraud-offenses-resulting-tens" class="external-link">Link</a></td>
+</tr>
+<tr>
+<td style="text-align: right;">104</td>
+<td><a href="../../wiki/sources/2019-12-05_wdpa_yakubets-turashev-dridex-indictment.html" class="wikilink">2019-12-05_wdpa_yakubets-turashev-dridex-indictment</a></td>
+<td><a href="../../wiki/sources/2019-12-05_justice-gov_russian-national-charged-with-decade-long-series-of-hacking-and-bank-fraud-offen.html" class="wikilink">2019-12-05_justice-gov_russian-national-charged-with-decade-long-series-of-hacking-and-bank-fraud-offen</a></td>
+<td>same_collection_url</td>
+<td><a href="https://www.justice.gov/archives/opa/pr/russian-national-charged-decade-long-series-hacking-and-bank-fraud-offenses-resulting-tens" target="_blank" rel="noopener noreferrer" title="https://www.justice.gov/archives/opa/pr/russian-national-charged-decade-long-series-hacking-and-bank-fraud-offenses-resulting-tens" data-full-url="https://www.justice.gov/archives/opa/pr/russian-national-charged-decade-long-series-hacking-and-bank-fraud-offenses-resulting-tens" class="external-link">Link</a></td>
+</tr>
+<tr>
+<td style="text-align: right;">105</td>
+<td><a href="../../wiki/sources/2025-08-11_doj_blacksuit-royal-ransomware-takedown.html" class="wikilink">2025-08-11_doj_blacksuit-royal-ransomware-takedown</a></td>
+<td><a href="../../wiki/sources/2025-08-11-doj-blacksuit-royal-ransomware-takedown.html" class="wikilink">2025-08-11-doj-blacksuit-royal-ransomware-takedown</a></td>
+<td>same_collection_url</td>
+<td><a href="https://www.justice.gov/opa/pr/justice-department-announces-coordinated-disruption-actions-against-blacksuit-royal" target="_blank" rel="noopener noreferrer" title="https://www.justice.gov/opa/pr/justice-department-announces-coordinated-disruption-actions-against-blacksuit-royal" data-full-url="https://www.justice.gov/opa/pr/justice-department-announces-coordinated-disruption-actions-against-blacksuit-royal" class="external-link">Link</a></td>
+</tr>
+<tr>
+<td style="text-align: right;">106</td>
+<td><a href="../../wiki/sources/2025-08-11_justice-gov_coordinated-disruption-actions-against-blacksuit-royal-ransomware-operation-chec.html" class="wikilink">2025-08-11_justice-gov_coordinated-disruption-actions-against-blacksuit-royal-ransomware-operation-chec</a></td>
+<td><a href="../../wiki/sources/2025-08-11-doj-blacksuit-royal-ransomware-takedown.html" class="wikilink">2025-08-11-doj-blacksuit-royal-ransomware-takedown</a></td>
+<td>same_collection_url</td>
+<td><a href="https://www.justice.gov/opa/pr/justice-department-announces-coordinated-disruption-actions-against-blacksuit-royal" target="_blank" rel="noopener noreferrer" title="https://www.justice.gov/opa/pr/justice-department-announces-coordinated-disruption-actions-against-blacksuit-royal" data-full-url="https://www.justice.gov/opa/pr/justice-department-announces-coordinated-disruption-actions-against-blacksuit-royal" class="external-link">Link</a></td>
+</tr>
+<tr>
+<td style="text-align: right;">107</td>
+<td><a href="../../wiki/sources/2025-08-11_justice-gov_operation-checkmate-blacksuit.html" class="wikilink">2025-08-11_justice-gov_operation-checkmate-blacksuit</a></td>
+<td><a href="../../wiki/sources/2025-08-11-doj-blacksuit-royal-ransomware-takedown.html" class="wikilink">2025-08-11-doj-blacksuit-royal-ransomware-takedown</a></td>
+<td>same_collection_url</td>
+<td><a href="https://www.justice.gov/opa/pr/justice-department-announces-coordinated-disruption-actions-against-blacksuit-royal" target="_blank" rel="noopener noreferrer" title="https://www.justice.gov/opa/pr/justice-department-announces-coordinated-disruption-actions-against-blacksuit-royal" data-full-url="https://www.justice.gov/opa/pr/justice-department-announces-coordinated-disruption-actions-against-blacksuit-royal" class="external-link">Link</a></td>
+</tr>
+<tr>
+<td style="text-align: right;">108</td>
+<td><a href="../../wiki/sources/2015-07-15_justice-gov_major-computer-hacking-forum-dismantled.html" class="wikilink">2015-07-15_justice-gov_major-computer-hacking-forum-dismantled</a></td>
+<td><a href="../../wiki/sources/2015-07-15_justice-gov_dd4cf514-2b05-11e5-a5ea-cf74396e59ec-story.html" class="wikilink">2015-07-15_justice-gov_dd4cf514-2b05-11e5-a5ea-cf74396e59ec-story</a></td>
+<td>same_collection_url</td>
+<td><a href="https://www.justice.gov/opa/pr/major-computer-hacking-forum-dismantled" target="_blank" rel="noopener noreferrer" title="https://www.justice.gov/opa/pr/major-computer-hacking-forum-dismantled" data-full-url="https://www.justice.gov/opa/pr/major-computer-hacking-forum-dismantled" class="external-link">Link</a></td>
+</tr>
+<tr>
+<td style="text-align: right;">109</td>
+<td><a href="../../wiki/sources/2015-07-15_justice-gov_united-states-v-gudmunds-et-al-darkode-forum.html" class="wikilink">2015-07-15_justice-gov_united-states-v-gudmunds-et-al-darkode-forum</a></td>
+<td><a href="../../wiki/sources/2015-07-15_justice-gov_dd4cf514-2b05-11e5-a5ea-cf74396e59ec-story.html" class="wikilink">2015-07-15_justice-gov_dd4cf514-2b05-11e5-a5ea-cf74396e59ec-story</a></td>
+<td>same_collection_url</td>
+<td><a href="https://www.justice.gov/opa/pr/major-computer-hacking-forum-dismantled" target="_blank" rel="noopener noreferrer" title="https://www.justice.gov/opa/pr/major-computer-hacking-forum-dismantled" data-full-url="https://www.justice.gov/opa/pr/major-computer-hacking-forum-dismantled" class="external-link">Link</a></td>
+</tr>
+<tr>
+<td style="text-align: right;">110</td>
+<td><a href="../../wiki/sources/2015-07-15_wdpa_darkode-indictment.html" class="wikilink">2015-07-15_wdpa_darkode-indictment</a></td>
+<td><a href="../../wiki/sources/2015-07-15_justice-gov_dd4cf514-2b05-11e5-a5ea-cf74396e59ec-story.html" class="wikilink">2015-07-15_justice-gov_dd4cf514-2b05-11e5-a5ea-cf74396e59ec-story</a></td>
+<td>same_collection_url</td>
+<td><a href="https://www.justice.gov/opa/pr/major-computer-hacking-forum-dismantled" target="_blank" rel="noopener noreferrer" title="https://www.justice.gov/opa/pr/major-computer-hacking-forum-dismantled" data-full-url="https://www.justice.gov/opa/pr/major-computer-hacking-forum-dismantled" class="external-link">Link</a></td>
+</tr>
+<tr>
+<td style="text-align: right;">111</td>
+<td><a href="../../wiki/sources/2016-12-20_justice-gov_nigerian-nationals-charged-with-operating-business-compromise-scheme.html" class="wikilink">2016-12-20_justice-gov_nigerian-nationals-charged-with-operating-business-compromise-scheme</a></td>
+<td><a href="../../wiki/sources/2016-12-20_dct_odufuye-nwoke-bec-indictment.html" class="wikilink">2016-12-20_dct_odufuye-nwoke-bec-indictment</a></td>
+<td>same_collection_url</td>
+<td><a href="https://www.justice.gov/usao-ct/pr/nigerian-nationals-charged-operating-business-compromise-scheme" target="_blank" rel="noopener noreferrer" title="https://www.justice.gov/usao-ct/pr/nigerian-nationals-charged-operating-business-compromise-scheme" data-full-url="https://www.justice.gov/usao-ct/pr/nigerian-nationals-charged-operating-business-compromise-scheme" class="external-link">Link</a></td>
+</tr>
+<tr>
+<td style="text-align: right;">112</td>
+<td><a href="../../wiki/sources/2016-12-20_justice-gov_united-states-v-odufuye-and-nwoke.html" class="wikilink">2016-12-20_justice-gov_united-states-v-odufuye-and-nwoke</a></td>
+<td><a href="../../wiki/sources/2016-12-20_dct_odufuye-nwoke-bec-indictment.html" class="wikilink">2016-12-20_dct_odufuye-nwoke-bec-indictment</a></td>
+<td>same_collection_url</td>
+<td><a href="https://www.justice.gov/usao-ct/pr/nigerian-nationals-charged-operating-business-compromise-scheme" target="_blank" rel="noopener noreferrer" title="https://www.justice.gov/usao-ct/pr/nigerian-nationals-charged-operating-business-compromise-scheme" data-full-url="https://www.justice.gov/usao-ct/pr/nigerian-nationals-charged-operating-business-compromise-scheme" class="external-link">Link</a></td>
+</tr>
+<tr>
+<td style="text-align: right;">113</td>
+<td><a href="../../wiki/sources/2016-12-22_justice-gov_nigerian-nationals-charged-with-operating-business-compromise-scheme.html" class="wikilink">2016-12-22_justice-gov_nigerian-nationals-charged-with-operating-business-compromise-scheme</a></td>
+<td><a href="../../wiki/sources/2016-12-20_dct_odufuye-nwoke-bec-indictment.html" class="wikilink">2016-12-20_dct_odufuye-nwoke-bec-indictment</a></td>
+<td>same_collection_url</td>
+<td><a href="https://www.justice.gov/usao-ct/pr/nigerian-nationals-charged-operating-business-compromise-scheme" target="_blank" rel="noopener noreferrer" title="https://www.justice.gov/usao-ct/pr/nigerian-nationals-charged-operating-business-compromise-scheme" data-full-url="https://www.justice.gov/usao-ct/pr/nigerian-nationals-charged-operating-business-compromise-scheme" class="external-link">Link</a></td>
+</tr>
+<tr>
+<td style="text-align: right;">114</td>
+<td><a href="../../wiki/sources/2022-03-16_justice-gov_united-states-v-igor-dekhtyarchuk.html" class="wikilink">2022-03-16_justice-gov_united-states-v-igor-dekhtyarchuk</a></td>
+<td><a href="../../wiki/sources/2022-03-16_justice-gov_russian-national-indicted-in-east-texas-for-cyber-hacking-enterprise.html" class="wikilink">2022-03-16_justice-gov_russian-national-indicted-in-east-texas-for-cyber-hacking-enterprise</a></td>
+<td>same_collection_url</td>
+<td><a href="https://www.justice.gov/usao-edtx/pr/russian-national-indicted-east-texas-cyber-hacking-enterprise" target="_blank" rel="noopener noreferrer" title="https://www.justice.gov/usao-edtx/pr/russian-national-indicted-east-texas-cyber-hacking-enterprise" data-full-url="https://www.justice.gov/usao-edtx/pr/russian-national-indicted-east-texas-cyber-hacking-enterprise" class="external-link">Link</a></td>
+</tr>
+<tr>
+<td style="text-align: right;">115</td>
+<td><a href="../../wiki/sources/2022-03-22_edtx_marketplace-a-dekhtyarchuk-indictment.html" class="wikilink">2022-03-22_edtx_marketplace-a-dekhtyarchuk-indictment</a></td>
+<td><a href="../../wiki/sources/2022-03-16_justice-gov_russian-national-indicted-in-east-texas-for-cyber-hacking-enterprise.html" class="wikilink">2022-03-16_justice-gov_russian-national-indicted-in-east-texas-for-cyber-hacking-enterprise</a></td>
+<td>same_collection_url</td>
+<td><a href="https://www.justice.gov/usao-edtx/pr/russian-national-indicted-east-texas-cyber-hacking-enterprise" target="_blank" rel="noopener noreferrer" title="https://www.justice.gov/usao-edtx/pr/russian-national-indicted-east-texas-cyber-hacking-enterprise" data-full-url="https://www.justice.gov/usao-edtx/pr/russian-national-indicted-east-texas-cyber-hacking-enterprise" class="external-link">Link</a></td>
+</tr>
+<tr>
+<td style="text-align: right;">116</td>
+<td><a href="../../wiki/sources/2022-03-22_justice-gov_russian-national-indicted-in-east-texas-for-cyber-hacking-enterprise.html" class="wikilink">2022-03-22_justice-gov_russian-national-indicted-in-east-texas-for-cyber-hacking-enterprise</a></td>
+<td><a href="../../wiki/sources/2022-03-16_justice-gov_russian-national-indicted-in-east-texas-for-cyber-hacking-enterprise.html" class="wikilink">2022-03-16_justice-gov_russian-national-indicted-in-east-texas-for-cyber-hacking-enterprise</a></td>
+<td>same_collection_url</td>
+<td><a href="https://www.justice.gov/usao-edtx/pr/russian-national-indicted-east-texas-cyber-hacking-enterprise" target="_blank" rel="noopener noreferrer" title="https://www.justice.gov/usao-edtx/pr/russian-national-indicted-east-texas-cyber-hacking-enterprise" data-full-url="https://www.justice.gov/usao-edtx/pr/russian-national-indicted-east-texas-cyber-hacking-enterprise" class="external-link">Link</a></td>
+</tr>
+<tr>
+<td style="text-align: right;">117</td>
+<td><a href="../../wiki/sources/2024-08-07_justice-gov_xdedic-marketplace-victim-services-case-summary.html" class="wikilink">2024-08-07_justice-gov_xdedic-marketplace-victim-services-case-summary</a></td>
+<td><a href="../../wiki/sources/2024-08-07_justice-gov_united-states-v-t-andre-mcneely-et-al.html" class="wikilink">2024-08-07_justice-gov_united-states-v-t-andre-mcneely-et-al</a></td>
+<td>same_collection_url</td>
+<td><a href="https://www.justice.gov/usao-mdfl/victim-witness-services/xDedic" target="_blank" rel="noopener noreferrer" title="https://www.justice.gov/usao-mdfl/victim-witness-services/xDedic" data-full-url="https://www.justice.gov/usao-mdfl/victim-witness-services/xDedic" class="external-link">Link</a></td>
+</tr>
+<tr>
+<td style="text-align: right;">118</td>
+<td><a href="../../wiki/sources/2024-08-07_justice-gov_xdedic-marketplace.html" class="wikilink">2024-08-07_justice-gov_xdedic-marketplace</a></td>
+<td><a href="../../wiki/sources/2024-08-07_justice-gov_united-states-v-t-andre-mcneely-et-al.html" class="wikilink">2024-08-07_justice-gov_united-states-v-t-andre-mcneely-et-al</a></td>
+<td>same_collection_url</td>
+<td><a href="https://www.justice.gov/usao-mdfl/victim-witness-services/xDedic" target="_blank" rel="noopener noreferrer" title="https://www.justice.gov/usao-mdfl/victim-witness-services/xDedic" data-full-url="https://www.justice.gov/usao-mdfl/victim-witness-services/xDedic" class="external-link">Link</a></td>
+</tr>
+<tr>
+<td style="text-align: right;">119</td>
+<td><a href="../../wiki/sources/2024-08-07_mdfl_mcneely-xdedic-summary.html" class="wikilink">2024-08-07_mdfl_mcneely-xdedic-summary</a></td>
+<td><a href="../../wiki/sources/2024-08-07_justice-gov_united-states-v-t-andre-mcneely-et-al.html" class="wikilink">2024-08-07_justice-gov_united-states-v-t-andre-mcneely-et-al</a></td>
+<td>same_collection_url</td>
+<td><a href="https://www.justice.gov/usao-mdfl/victim-witness-services/xDedic" target="_blank" rel="noopener noreferrer" title="https://www.justice.gov/usao-mdfl/victim-witness-services/xDedic" data-full-url="https://www.justice.gov/usao-mdfl/victim-witness-services/xDedic" class="external-link">Link</a></td>
+</tr>
+<tr>
+<td style="text-align: right;">120</td>
+<td><a href="../../wiki/sources/2015-10-13_justice-gov_major-computer-hacking-forum-dismantled.html" class="wikilink">2015-10-13_justice-gov_major-computer-hacking-forum-dismantled</a></td>
+<td><a href="../../wiki/sources/2015-07-15_justice-gov_darkode-forum-dismantled-w-d-pa.html" class="wikilink">2015-07-15_justice-gov_darkode-forum-dismantled-w-d-pa</a></td>
+<td>same_collection_url</td>
+<td><a href="https://www.justice.gov/usao-wdpa/pr/major-computer-hacking-forum-dismantled" target="_blank" rel="noopener noreferrer" title="https://www.justice.gov/usao-wdpa/pr/major-computer-hacking-forum-dismantled" data-full-url="https://www.justice.gov/usao-wdpa/pr/major-computer-hacking-forum-dismantled" class="external-link">Link</a></td>
+</tr>
+<tr>
+<td style="text-align: right;">121</td>
+<td><a href="../../wiki/sources/2015-10-13_justice-gov_united-states-v-ghinkul-bugat-dridex-botnet.html" class="wikilink">2015-10-13_justice-gov_united-states-v-ghinkul-bugat-dridex-botnet</a></td>
+<td><a href="../../wiki/sources/2015-07-15_justice-gov_darkode-forum-dismantled-w-d-pa.html" class="wikilink">2015-07-15_justice-gov_darkode-forum-dismantled-w-d-pa</a></td>
+<td>same_collection_url</td>
+<td><a href="https://www.justice.gov/usao-wdpa/pr/major-computer-hacking-forum-dismantled" target="_blank" rel="noopener noreferrer" title="https://www.justice.gov/usao-wdpa/pr/major-computer-hacking-forum-dismantled" data-full-url="https://www.justice.gov/usao-wdpa/pr/major-computer-hacking-forum-dismantled" class="external-link">Link</a></td>
+</tr>
+<tr>
+<td style="text-align: right;">122</td>
+<td><a href="../../wiki/sources/2015-10-13_wdpa_ghinkul-bugat-dridex-indictment.html" class="wikilink">2015-10-13_wdpa_ghinkul-bugat-dridex-indictment</a></td>
+<td><a href="../../wiki/sources/2015-07-15_justice-gov_darkode-forum-dismantled-w-d-pa.html" class="wikilink">2015-07-15_justice-gov_darkode-forum-dismantled-w-d-pa</a></td>
+<td>same_collection_url</td>
+<td><a href="https://www.justice.gov/usao-wdpa/pr/major-computer-hacking-forum-dismantled" target="_blank" rel="noopener noreferrer" title="https://www.justice.gov/usao-wdpa/pr/major-computer-hacking-forum-dismantled" data-full-url="https://www.justice.gov/usao-wdpa/pr/major-computer-hacking-forum-dismantled" class="external-link">Link</a></td>
+</tr>
+<tr>
+<td style="text-align: right;">123</td>
+<td><a href="../../wiki/sources/2020-09-29_justice-gov_united-states-v-nazarovi-et-al.html" class="wikilink">2020-09-29_justice-gov_united-states-v-nazarovi-et-al</a></td>
+<td><a href="../../wiki/sources/2020-09-29_justice-gov_officials-announce-international-operation-targeting-transnational-criminal-orga.html" class="wikilink">2020-09-29_justice-gov_officials-announce-international-operation-targeting-transnational-criminal-orga</a></td>
+<td>same_collection_url</td>
+<td><a href="https://www.justice.gov/usao-wdpa/pr/officials-announce-international-operation-targeting-transnational-criminal" target="_blank" rel="noopener noreferrer" title="https://www.justice.gov/usao-wdpa/pr/officials-announce-international-operation-targeting-transnational-criminal" data-full-url="https://www.justice.gov/usao-wdpa/pr/officials-announce-international-operation-targeting-transnational-criminal" class="external-link">Link</a></td>
+</tr>
+<tr>
+<td style="text-align: right;">124</td>
+<td><a href="../../wiki/sources/2020-10-15_justice-gov_officials-announce-international-operation-targeting-transnational-criminal-orga.html" class="wikilink">2020-10-15_justice-gov_officials-announce-international-operation-targeting-transnational-criminal-orga</a></td>
+<td><a href="../../wiki/sources/2020-09-29_justice-gov_officials-announce-international-operation-targeting-transnational-criminal-orga.html" class="wikilink">2020-09-29_justice-gov_officials-announce-international-operation-targeting-transnational-criminal-orga</a></td>
+<td>same_collection_url</td>
+<td><a href="https://www.justice.gov/usao-wdpa/pr/officials-announce-international-operation-targeting-transnational-criminal" target="_blank" rel="noopener noreferrer" title="https://www.justice.gov/usao-wdpa/pr/officials-announce-international-operation-targeting-transnational-criminal" data-full-url="https://www.justice.gov/usao-wdpa/pr/officials-announce-international-operation-targeting-transnational-criminal" class="external-link">Link</a></td>
+</tr>
+<tr>
+<td style="text-align: right;">125</td>
+<td><a href="../../wiki/sources/2020-10-15_wdpa_nazarovi-qqaazz-indictment.html" class="wikilink">2020-10-15_wdpa_nazarovi-qqaazz-indictment</a></td>
+<td><a href="../../wiki/sources/2020-09-29_justice-gov_officials-announce-international-operation-targeting-transnational-criminal-orga.html" class="wikilink">2020-09-29_justice-gov_officials-announce-international-operation-targeting-transnational-criminal-orga</a></td>
+<td>same_collection_url</td>
+<td><a href="https://www.justice.gov/usao-wdpa/pr/officials-announce-international-operation-targeting-transnational-criminal" target="_blank" rel="noopener noreferrer" title="https://www.justice.gov/usao-wdpa/pr/officials-announce-international-operation-targeting-transnational-criminal" data-full-url="https://www.justice.gov/usao-wdpa/pr/officials-announce-international-operation-targeting-transnational-criminal" class="external-link">Link</a></td>
+</tr>
+<tr>
+<td style="text-align: right;">126</td>
+<td><a href="../../wiki/sources/2025-05-12_justice-gov_pittsburgh-resident-and-darknet-drug-trafficker-sentenced-to-nearly-six-years-in.html" class="wikilink">2025-05-12_justice-gov_pittsburgh-resident-and-darknet-drug-trafficker-sentenced-to-nearly-six-years-in</a></td>
+<td><a href="../../wiki/sources/2025-05-12_justice-gov_pittsburgh-resident-and-darknet-drug-trafficker-sentenced-nearly-six-years-prison.html" class="wikilink">2025-05-12_justice-gov_pittsburgh-resident-and-darknet-drug-trafficker-sentenced-nearly-six-years-prison</a></td>
+<td>same_collection_url</td>
+<td><a href="https://www.justice.gov/usao-wdpa/pr/pittsburgh-resident-and-darknet-drug-trafficker-sentenced-nearly-six-years-prison" target="_blank" rel="noopener noreferrer" title="https://www.justice.gov/usao-wdpa/pr/pittsburgh-resident-and-darknet-drug-trafficker-sentenced-nearly-six-years-prison" data-full-url="https://www.justice.gov/usao-wdpa/pr/pittsburgh-resident-and-darknet-drug-trafficker-sentenced-nearly-six-years-prison" class="external-link">Link</a></td>
+</tr>
+<tr>
+<td style="text-align: right;">127</td>
+<td><a href="../../wiki/sources/2025-05-12_justice-gov_united-states-v-george-sotiris-vlastos.html" class="wikilink">2025-05-12_justice-gov_united-states-v-george-sotiris-vlastos</a></td>
+<td><a href="../../wiki/sources/2025-05-12_justice-gov_pittsburgh-resident-and-darknet-drug-trafficker-sentenced-nearly-six-years-prison.html" class="wikilink">2025-05-12_justice-gov_pittsburgh-resident-and-darknet-drug-trafficker-sentenced-nearly-six-years-prison</a></td>
+<td>same_collection_url</td>
+<td><a href="https://www.justice.gov/usao-wdpa/pr/pittsburgh-resident-and-darknet-drug-trafficker-sentenced-nearly-six-years-prison" target="_blank" rel="noopener noreferrer" title="https://www.justice.gov/usao-wdpa/pr/pittsburgh-resident-and-darknet-drug-trafficker-sentenced-nearly-six-years-prison" data-full-url="https://www.justice.gov/usao-wdpa/pr/pittsburgh-resident-and-darknet-drug-trafficker-sentenced-nearly-six-years-prison" class="external-link">Link</a></td>
+</tr>
+<tr>
+<td style="text-align: right;">128</td>
+<td><a href="../../wiki/sources/2025-05-12_wdpa_vlastos-darknet-sentencing.html" class="wikilink">2025-05-12_wdpa_vlastos-darknet-sentencing</a></td>
+<td><a href="../../wiki/sources/2025-05-12_justice-gov_pittsburgh-resident-and-darknet-drug-trafficker-sentenced-nearly-six-years-prison.html" class="wikilink">2025-05-12_justice-gov_pittsburgh-resident-and-darknet-drug-trafficker-sentenced-nearly-six-years-prison</a></td>
+<td>same_collection_url</td>
+<td><a href="https://www.justice.gov/usao-wdpa/pr/pittsburgh-resident-and-darknet-drug-trafficker-sentenced-nearly-six-years-prison" target="_blank" rel="noopener noreferrer" title="https://www.justice.gov/usao-wdpa/pr/pittsburgh-resident-and-darknet-drug-trafficker-sentenced-nearly-six-years-prison" data-full-url="https://www.justice.gov/usao-wdpa/pr/pittsburgh-resident-and-darknet-drug-trafficker-sentenced-nearly-six-years-prison" class="external-link">Link</a></td>
+</tr>
+<tr>
+<td style="text-align: right;">129</td>
+<td><a href="../../wiki/sources/2021-05-24_justice-gov_dark-web-heroin-dealer-sentenced-to-5-years-in-prison.html" class="wikilink">2021-05-24_justice-gov_dark-web-heroin-dealer-sentenced-to-5-years-in-prison</a></td>
+<td><a href="../../wiki/sources/2018-12-04_justice-gov-wdwa_dark-web-heroin-dealer-sentenced-5-years-prison.html" class="wikilink">2018-12-04_justice-gov-wdwa_dark-web-heroin-dealer-sentenced-5-years-prison</a></td>
+<td>same_collection_url</td>
+<td><a href="https://www.justice.gov/usao-wdwa/pr/dark-web-heroin-dealer-sentenced-5-years-prison" target="_blank" rel="noopener noreferrer" title="https://www.justice.gov/usao-wdwa/pr/dark-web-heroin-dealer-sentenced-5-years-prison" data-full-url="https://www.justice.gov/usao-wdwa/pr/dark-web-heroin-dealer-sentenced-5-years-prison" class="external-link">Link</a></td>
+</tr>
+<tr>
+<td style="text-align: right;">130</td>
+<td><a href="../../wiki/sources/2021-05-24_justice-gov_united-states-v-zachary-madding.html" class="wikilink">2021-05-24_justice-gov_united-states-v-zachary-madding</a></td>
+<td><a href="../../wiki/sources/2018-12-04_justice-gov-wdwa_dark-web-heroin-dealer-sentenced-5-years-prison.html" class="wikilink">2018-12-04_justice-gov-wdwa_dark-web-heroin-dealer-sentenced-5-years-prison</a></td>
+<td>same_collection_url</td>
+<td><a href="https://www.justice.gov/usao-wdwa/pr/dark-web-heroin-dealer-sentenced-5-years-prison" target="_blank" rel="noopener noreferrer" title="https://www.justice.gov/usao-wdwa/pr/dark-web-heroin-dealer-sentenced-5-years-prison" data-full-url="https://www.justice.gov/usao-wdwa/pr/dark-web-heroin-dealer-sentenced-5-years-prison" class="external-link">Link</a></td>
+</tr>
+<tr>
+<td style="text-align: right;">131</td>
+<td><a href="../../wiki/sources/2021-05-24_wdwa_madding-dark-web-heroin-sentencing.html" class="wikilink">2021-05-24_wdwa_madding-dark-web-heroin-sentencing</a></td>
+<td><a href="../../wiki/sources/2018-12-04_justice-gov-wdwa_dark-web-heroin-dealer-sentenced-5-years-prison.html" class="wikilink">2018-12-04_justice-gov-wdwa_dark-web-heroin-dealer-sentenced-5-years-prison</a></td>
+<td>same_collection_url</td>
+<td><a href="https://www.justice.gov/usao-wdwa/pr/dark-web-heroin-dealer-sentenced-5-years-prison" target="_blank" rel="noopener noreferrer" title="https://www.justice.gov/usao-wdwa/pr/dark-web-heroin-dealer-sentenced-5-years-prison" data-full-url="https://www.justice.gov/usao-wdwa/pr/dark-web-heroin-dealer-sentenced-5-years-prison" class="external-link">Link</a></td>
+</tr>
+<tr>
+<td style="text-align: right;">132</td>
+<td><a href="../../wiki/sources/2018-12-03_justice-gov_darknet-drug-dealer-sentenced-to-five-years-in-prison.html" class="wikilink">2018-12-03_justice-gov_darknet-drug-dealer-sentenced-to-five-years-in-prison</a></td>
+<td><a href="../../wiki/sources/2018-12-03_justia_united-states-v-allen-lint-case-docket-reference.html" class="wikilink">2018-12-03_justia_united-states-v-allen-lint-case-docket-reference</a></td>
+<td>same_collection_url</td>
+<td><a href="https://www.justice.gov/usao-wdwa/pr/darknet-drug-dealer-sentenced-five-years-prison" target="_blank" rel="noopener noreferrer" title="https://www.justice.gov/usao-wdwa/pr/darknet-drug-dealer-sentenced-five-years-prison" data-full-url="https://www.justice.gov/usao-wdwa/pr/darknet-drug-dealer-sentenced-five-years-prison" class="external-link">Link</a></td>
+</tr>
+<tr>
+<td style="text-align: right;">133</td>
+<td><a href="../../wiki/sources/2018-12-03_justice-gov_united-states-v-allen-d-lint.html" class="wikilink">2018-12-03_justice-gov_united-states-v-allen-d-lint</a></td>
+<td><a href="../../wiki/sources/2018-12-03_justia_united-states-v-allen-lint-case-docket-reference.html" class="wikilink">2018-12-03_justia_united-states-v-allen-lint-case-docket-reference</a></td>
+<td>same_collection_url</td>
+<td><a href="https://www.justice.gov/usao-wdwa/pr/darknet-drug-dealer-sentenced-five-years-prison" target="_blank" rel="noopener noreferrer" title="https://www.justice.gov/usao-wdwa/pr/darknet-drug-dealer-sentenced-five-years-prison" data-full-url="https://www.justice.gov/usao-wdwa/pr/darknet-drug-dealer-sentenced-five-years-prison" class="external-link">Link</a></td>
+</tr>
+<tr>
+<td style="text-align: right;">134</td>
+<td><a href="../../wiki/sources/2018-12-03_wdwa_lint-dream-market-sentencing.html" class="wikilink">2018-12-03_wdwa_lint-dream-market-sentencing</a></td>
+<td><a href="../../wiki/sources/2018-12-03_justia_united-states-v-allen-lint-case-docket-reference.html" class="wikilink">2018-12-03_justia_united-states-v-allen-lint-case-docket-reference</a></td>
+<td>same_collection_url</td>
+<td><a href="https://www.justice.gov/usao-wdwa/pr/darknet-drug-dealer-sentenced-five-years-prison" target="_blank" rel="noopener noreferrer" title="https://www.justice.gov/usao-wdwa/pr/darknet-drug-dealer-sentenced-five-years-prison" data-full-url="https://www.justice.gov/usao-wdwa/pr/darknet-drug-dealer-sentenced-five-years-prison" class="external-link">Link</a></td>
+</tr>
+<tr>
+<td style="text-align: right;">135</td>
+<td><a href="../../wiki/sources/2022-11-24_thehackernews-com_interpol-seized-130-million-from-cybercriminals-in-global-haechi-iii-crackdown.html" class="wikilink">2022-11-24_thehackernews-com_interpol-seized-130-million-from-cybercriminals-in-global-haechi-iii-crackdown</a></td>
+<td><a href="../../wiki/sources/2022-11-01_thehackernews-com_interpol-seized-130-million-from.html" class="wikilink">2022-11-01_thehackernews-com_interpol-seized-130-million-from</a></td>
+<td>same_collection_url</td>
+<td><a href="https://thehackernews.com/2022/11/interpol-seized-130-million-from.html" target="_blank" rel="noopener noreferrer" title="https://thehackernews.com/2022/11/interpol-seized-130-million-from.html" data-full-url="https://thehackernews.com/2022/11/interpol-seized-130-million-from.html" class="external-link">Link</a></td>
+</tr>
+<tr>
+<td style="text-align: right;">136</td>
+<td><a href="../../wiki/sources/the-hacker-news-operation-haechi-ii.html" class="wikilink">the-hacker-news-operation-haechi-ii</a></td>
+<td><a href="../../wiki/sources/2022-11-01_thehackernews-com_interpol-seized-130-million-from.html" class="wikilink">2022-11-01_thehackernews-com_interpol-seized-130-million-from</a></td>
+<td>same_collection_url</td>
+<td><a href="https://thehackernews.com/2022/11/interpol-seized-130-million-from.html" target="_blank" rel="noopener noreferrer" title="https://thehackernews.com/2022/11/interpol-seized-130-million-from.html" data-full-url="https://thehackernews.com/2022/11/interpol-seized-130-million-from.html" class="external-link">Link</a></td>
+</tr>
+<tr>
+<td style="text-align: right;">137</td>
+<td><a href="../../wiki/sources/2025-05-28_thehackernews-com_us-dismantles-danabot-malware-network.html" class="wikilink">2025-05-28_thehackernews-com_us-dismantles-danabot-malware-network</a></td>
+<td><a href="../../wiki/sources/2025-05-23_thehackernews-com_u-s-dismantles-danabot-malware-network-charges-16.html" class="wikilink">2025-05-23_thehackernews-com_u-s-dismantles-danabot-malware-network-charges-16</a></td>
+<td>same_collection_url</td>
+<td><a href="https://thehackernews.com/2025/05/us-dismantles-danabot-malware-network.html" target="_blank" rel="noopener noreferrer" title="https://thehackernews.com/2025/05/us-dismantles-danabot-malware-network.html" data-full-url="https://thehackernews.com/2025/05/us-dismantles-danabot-malware-network.html" class="external-link">Link</a></td>
+</tr>
+<tr>
+<td style="text-align: right;">138</td>
+<td><a href="../../wiki/sources/the-hacker-news-operation-endgame-phase-2-ransomware-kill-chain-disrup.html" class="wikilink">the-hacker-news-operation-endgame-phase-2-ransomware-kill-chain-disrup</a></td>
+<td><a href="../../wiki/sources/2025-05-23_thehackernews-com_u-s-dismantles-danabot-malware-network-charges-16.html" class="wikilink">2025-05-23_thehackernews-com_u-s-dismantles-danabot-malware-network-charges-16</a></td>
+<td>same_collection_url</td>
+<td><a href="https://thehackernews.com/2025/05/us-dismantles-danabot-malware-network.html" target="_blank" rel="noopener noreferrer" title="https://thehackernews.com/2025/05/us-dismantles-danabot-malware-network.html" data-full-url="https://thehackernews.com/2025/05/us-dismantles-danabot-malware-network.html" class="external-link">Link</a></td>
+</tr>
+<tr>
+<td style="text-align: right;">139</td>
+<td><a href="../../wiki/sources/2023-08-18_therecord-media_interpol-led-africa-cyber-surge-ii-operation-leads-to-14-arrests.html" class="wikilink">2023-08-18_therecord-media_interpol-led-africa-cyber-surge-ii-operation-leads-to-14-arrests</a></td>
+<td><a href="../../wiki/sources/2023-08-18_therecord-media_africa-cyber-surge-14-arrests-interpol.html" class="wikilink">2023-08-18_therecord-media_africa-cyber-surge-14-arrests-interpol</a></td>
+<td>same_collection_url</td>
+<td><a href="https://therecord.media/africa-cyber-surge-14-arrests-interpol" target="_blank" rel="noopener noreferrer" title="https://therecord.media/africa-cyber-surge-14-arrests-interpol" data-full-url="https://therecord.media/africa-cyber-surge-14-arrests-interpol" class="external-link">Link</a></td>
+</tr>
+<tr>
+<td style="text-align: right;">140</td>
+<td><a href="../../wiki/sources/the-record-africa-cyber-surge-ii.html" class="wikilink">the-record-africa-cyber-surge-ii</a></td>
+<td><a href="../../wiki/sources/2023-08-18_therecord-media_africa-cyber-surge-14-arrests-interpol.html" class="wikilink">2023-08-18_therecord-media_africa-cyber-surge-14-arrests-interpol</a></td>
+<td>same_collection_url</td>
+<td><a href="https://therecord.media/africa-cyber-surge-14-arrests-interpol" target="_blank" rel="noopener noreferrer" title="https://therecord.media/africa-cyber-surge-14-arrests-interpol" data-full-url="https://therecord.media/africa-cyber-surge-14-arrests-interpol" class="external-link">Link</a></td>
+</tr>
+<tr>
+<td style="text-align: right;">141</td>
+<td><a href="../../wiki/sources/2026-04-17_web-guardiacivil-es_ciberdelincuencia-y-delitos-en-internet-grupo-de-delitos-telematicos.html" class="wikilink">2026-04-17_web-guardiacivil-es_ciberdelincuencia-y-delitos-en-internet-grupo-de-delitos-telematicos</a></td>
+<td><a href="../../wiki/sources/2026-04-17_web-guardiacivil-es_ciberdelincuencia-y-delitos-en-internet-gdt.html" class="wikilink">2026-04-17_web-guardiacivil-es_ciberdelincuencia-y-delitos-en-internet-gdt</a></td>
+<td>same_collection_url</td>
+<td><a href="https://web.guardiacivil.es/es/institucional/conocenos/especialidades/gdt/" target="_blank" rel="noopener noreferrer" title="https://web.guardiacivil.es/es/institucional/conocenos/especialidades/gdt/" data-full-url="https://web.guardiacivil.es/es/institucional/conocenos/especialidades/gdt/" class="external-link">Link</a></td>
+</tr>
+<tr>
+<td style="text-align: right;">142</td>
+<td><a href="../../wiki/sources/2026-04-18_guardiacivil-es_gdt.html" class="wikilink">2026-04-18_guardiacivil-es_gdt</a></td>
+<td><a href="../../wiki/sources/2026-04-17_web-guardiacivil-es_ciberdelincuencia-y-delitos-en-internet-gdt.html" class="wikilink">2026-04-17_web-guardiacivil-es_ciberdelincuencia-y-delitos-en-internet-gdt</a></td>
+<td>same_collection_url</td>
+<td><a href="https://web.guardiacivil.es/es/institucional/conocenos/especialidades/gdt/" target="_blank" rel="noopener noreferrer" title="https://web.guardiacivil.es/es/institucional/conocenos/especialidades/gdt/" data-full-url="https://web.guardiacivil.es/es/institucional/conocenos/especialidades/gdt/" class="external-link">Link</a></td>
+</tr>
+<tr>
+<td style="text-align: right;">143</td>
+<td><a href="../../wiki/sources/2025-10-18_aljazeera-com_korea-cambodia-scam-centre-repatriation.html" class="wikilink">2025-10-18_aljazeera-com_korea-cambodia-scam-centre-repatriation</a></td>
+<td><a href="../../wiki/sources/2025-10-18-korea-cambodia-scam-repatriation.html" class="wikilink">2025-10-18-korea-cambodia-scam-repatriation</a></td>
+<td>same_collection_url</td>
+<td><a href="https://www.aljazeera.com/news/2025/10/20/south-korea-police-seek-warrants-for-repatriated-scam-centre-suspects" target="_blank" rel="noopener noreferrer" title="https://www.aljazeera.com/news/2025/10/20/south-korea-police-seek-warrants-for-repatriated-scam-centre-suspects" data-full-url="https://www.aljazeera.com/news/2025/10/20/south-korea-police-seek-warrants-for-repatriated-scam-centre-suspects" class="external-link">Link</a></td>
+</tr>
+<tr>
+<td style="text-align: right;">144</td>
+<td><a href="../../wiki/sources/2025-10-18_aljazeera-com_south-korea-repatriates-64-scam-centre-suspects-from-cambodia.html" class="wikilink">2025-10-18_aljazeera-com_south-korea-repatriates-64-scam-centre-suspects-from-cambodia</a></td>
+<td><a href="../../wiki/sources/2025-10-18-korea-cambodia-scam-repatriation.html" class="wikilink">2025-10-18-korea-cambodia-scam-repatriation</a></td>
+<td>same_collection_url</td>
+<td><a href="https://www.aljazeera.com/news/2025/10/20/south-korea-police-seek-warrants-for-repatriated-scam-centre-suspects" target="_blank" rel="noopener noreferrer" title="https://www.aljazeera.com/news/2025/10/20/south-korea-police-seek-warrants-for-repatriated-scam-centre-suspects" data-full-url="https://www.aljazeera.com/news/2025/10/20/south-korea-police-seek-warrants-for-repatriated-scam-centre-suspects" class="external-link">Link</a></td>
+</tr>
+<tr>
+<td style="text-align: right;">145</td>
+<td><a href="../../wiki/sources/2018-02-08_cbsnews_us-russia-cybercrime-dark-web-market-suspect-sergey-medvedev-thailand.html" class="wikilink">2018-02-08_cbsnews_us-russia-cybercrime-dark-web-market-suspect-sergey-medvedev-thailand</a></td>
+<td><a href="../../wiki/sources/2018-02-07_cbsnews-com_us-russia-cybercrime-dark-web-market-suspect-sergey-medvedev-thailand.html" class="wikilink">2018-02-07_cbsnews-com_us-russia-cybercrime-dark-web-market-suspect-sergey-medvedev-thailand</a></td>
+<td>same_collection_url</td>
+<td><a href="https://www.cbsnews.com/news/us-russia-cybercrime-dark-web-market-suspect-sergey-medvedev-thailand/" target="_blank" rel="noopener noreferrer" title="https://www.cbsnews.com/news/us-russia-cybercrime-dark-web-market-suspect-sergey-medvedev-thailand/" data-full-url="https://www.cbsnews.com/news/us-russia-cybercrime-dark-web-market-suspect-sergey-medvedev-thailand/" class="external-link">Link</a></td>
+</tr>
+<tr>
+<td style="text-align: right;">146</td>
+<td><a href="../../wiki/sources/cbs-news-infraud-organization-takedown.html" class="wikilink">cbs-news-infraud-organization-takedown</a></td>
+<td><a href="../../wiki/sources/2018-02-07_cbsnews-com_us-russia-cybercrime-dark-web-market-suspect-sergey-medvedev-thailand.html" class="wikilink">2018-02-07_cbsnews-com_us-russia-cybercrime-dark-web-market-suspect-sergey-medvedev-thailand</a></td>
+<td>same_collection_url</td>
+<td><a href="https://www.cbsnews.com/news/us-russia-cybercrime-dark-web-market-suspect-sergey-medvedev-thailand/" target="_blank" rel="noopener noreferrer" title="https://www.cbsnews.com/news/us-russia-cybercrime-dark-web-market-suspect-sergey-medvedev-thailand/" data-full-url="https://www.cbsnews.com/news/us-russia-cybercrime-dark-web-market-suspect-sergey-medvedev-thailand/" class="external-link">Link</a></td>
+</tr>
+<tr>
+<td style="text-align: right;">147</td>
+<td><a href="../../wiki/sources/2026-04-17_coe-int_parties-observers-to-the-budapest-convention-and-observer-organisations-to-the-t.html" class="wikilink">2026-04-17_coe-int_parties-observers-to-the-budapest-convention-and-observer-organisations-to-the-t</a></td>
+<td><a href="../../wiki/sources/2025-01-01_coe-int_parties-observers-to-the-budapest-convention.html" class="wikilink">2025-01-01_coe-int_parties-observers-to-the-budapest-convention</a></td>
+<td>same_collection_url</td>
+<td><a href="https://www.coe.int/en/web/cybercrime/parties-observers" target="_blank" rel="noopener noreferrer" title="https://www.coe.int/en/web/cybercrime/parties-observers" data-full-url="https://www.coe.int/en/web/cybercrime/parties-observers" class="external-link">Link</a></td>
+</tr>
+<tr>
+<td style="text-align: right;">148</td>
+<td><a href="../../wiki/sources/2026-04-17_coe-int_parties-observers-to-the-budapest-convention.html" class="wikilink">2026-04-17_coe-int_parties-observers-to-the-budapest-convention</a></td>
+<td><a href="../../wiki/sources/2025-01-01_coe-int_parties-observers-to-the-budapest-convention.html" class="wikilink">2025-01-01_coe-int_parties-observers-to-the-budapest-convention</a></td>
+<td>same_collection_url</td>
+<td><a href="https://www.coe.int/en/web/cybercrime/parties-observers" target="_blank" rel="noopener noreferrer" title="https://www.coe.int/en/web/cybercrime/parties-observers" data-full-url="https://www.coe.int/en/web/cybercrime/parties-observers" class="external-link">Link</a></td>
+</tr>
+<tr>
+<td style="text-align: right;">149</td>
+<td><a href="../../wiki/sources/2022-05-12_coe-int_second-additional-protocol-signing-ceremony.html" class="wikilink">2022-05-12_coe-int_second-additional-protocol-signing-ceremony</a></td>
+<td><a href="../../wiki/sources/2022-05-12_coe-int_second-additional-protocol-cets-no-224.html" class="wikilink">2022-05-12_coe-int_second-additional-protocol-cets-no-224</a></td>
+<td>same_collection_url</td>
+<td><a href="https://www.coe.int/en/web/cybercrime/second-additional-protocol" target="_blank" rel="noopener noreferrer" title="https://www.coe.int/en/web/cybercrime/second-additional-protocol" data-full-url="https://www.coe.int/en/web/cybercrime/second-additional-protocol" class="external-link">Link</a></td>
+</tr>
+<tr>
+<td style="text-align: right;">150</td>
+<td><a href="../../wiki/sources/2022-05-12_coe-int_second-additional-protocol-to-the-convention-on-cybercrime-cets-no-224.html" class="wikilink">2022-05-12_coe-int_second-additional-protocol-to-the-convention-on-cybercrime-cets-no-224</a></td>
+<td><a href="../../wiki/sources/2022-05-12_coe-int_second-additional-protocol-cets-no-224.html" class="wikilink">2022-05-12_coe-int_second-additional-protocol-cets-no-224</a></td>
+<td>same_collection_url</td>
+<td><a href="https://www.coe.int/en/web/cybercrime/second-additional-protocol" target="_blank" rel="noopener noreferrer" title="https://www.coe.int/en/web/cybercrime/second-additional-protocol" data-full-url="https://www.coe.int/en/web/cybercrime/second-additional-protocol" class="external-link">Link</a></td>
+</tr>
+<tr>
+<td style="text-align: right;">151</td>
+<td><a href="../../wiki/sources/2026-04-17_coe-int_spain-octopus-cybercrime-community.html" class="wikilink">2026-04-17_coe-int_spain-octopus-cybercrime-community</a></td>
+<td><a href="../../wiki/sources/2026-04-17_coe-int_spain-octopus-cybercrime-community-country-profile.html" class="wikilink">2026-04-17_coe-int_spain-octopus-cybercrime-community-country-profile</a></td>
+<td>same_collection_url</td>
+<td><a href="https://www.coe.int/en/web/octopus/-/spain" target="_blank" rel="noopener noreferrer" title="https://www.coe.int/en/web/octopus/-/spain" data-full-url="https://www.coe.int/en/web/octopus/-/spain" class="external-link">Link</a></td>
+</tr>
+<tr>
+<td style="text-align: right;">152</td>
+<td><a href="../../wiki/sources/2026-04-18_coe-int_spain-octopus-cybercrime-community-country-profile.html" class="wikilink">2026-04-18_coe-int_spain-octopus-cybercrime-community-country-profile</a></td>
+<td><a href="../../wiki/sources/2026-04-17_coe-int_spain-octopus-cybercrime-community-country-profile.html" class="wikilink">2026-04-17_coe-int_spain-octopus-cybercrime-community-country-profile</a></td>
+<td>same_collection_url</td>
+<td><a href="https://www.coe.int/en/web/octopus/-/spain" target="_blank" rel="noopener noreferrer" title="https://www.coe.int/en/web/octopus/-/spain" data-full-url="https://www.coe.int/en/web/octopus/-/spain" class="external-link">Link</a></td>
+</tr>
+<tr>
+<td style="text-align: right;">153</td>
+<td><a href="../../wiki/sources/2017-05-31_court-of-appeals-for-the-second-circuit_united-states-v-ulbricht-2.html" class="wikilink">2017-05-31_court-of-appeals-for-the-second-circuit_united-states-v-ulbricht-2</a></td>
+<td><a href="../../wiki/sources/2017-05-31_courtlistener-com_united-states-v-ulbricht.html" class="wikilink">2017-05-31_courtlistener-com_united-states-v-ulbricht</a></td>
+<td>same_collection_url</td>
+<td><a href="https://www.courtlistener.com/opinion/4395694/united-states-v-ulbricht/" target="_blank" rel="noopener noreferrer" title="https://www.courtlistener.com/opinion/4395694/united-states-v-ulbricht/" data-full-url="https://www.courtlistener.com/opinion/4395694/united-states-v-ulbricht/" class="external-link">Link</a></td>
+</tr>
+<tr>
+<td style="text-align: right;">154</td>
+<td><a href="../../wiki/sources/2017-05-31_court-of-appeals-for-the-second-circuit_united-states-v-ulbricht.html" class="wikilink">2017-05-31_court-of-appeals-for-the-second-circuit_united-states-v-ulbricht</a></td>
+<td><a href="../../wiki/sources/2017-05-31_courtlistener-com_united-states-v-ulbricht.html" class="wikilink">2017-05-31_courtlistener-com_united-states-v-ulbricht</a></td>
+<td>same_collection_url</td>
+<td><a href="https://www.courtlistener.com/opinion/4395694/united-states-v-ulbricht/" target="_blank" rel="noopener noreferrer" title="https://www.courtlistener.com/opinion/4395694/united-states-v-ulbricht/" data-full-url="https://www.courtlistener.com/opinion/4395694/united-states-v-ulbricht/" class="external-link">Link</a></td>
+</tr>
+<tr>
+<td style="text-align: right;">155</td>
+<td><a href="../../wiki/sources/2025-12-05_eurojust-europa-eu_european-judicial-cybercrime-network-strengthens-resolve-to-fight-digital-threat.html" class="wikilink">2025-12-05_eurojust-europa-eu_european-judicial-cybercrime-network-strengthens-resolve-to-fight-digital-threat</a></td>
+<td><a href="../../wiki/sources/2025-12-05-eurojust-ejcn-19th-plenary.html" class="wikilink">2025-12-05-eurojust-ejcn-19th-plenary</a></td>
+<td>same_collection_url</td>
+<td><a href="https://www.eurojust.europa.eu/news/european-judicial-cybercrime-network-strengthens-resolve-fight-digital-threats-19th-plenary" target="_blank" rel="noopener noreferrer" title="https://www.eurojust.europa.eu/news/european-judicial-cybercrime-network-strengthens-resolve-fight-digital-threats-19th-plenary" data-full-url="https://www.eurojust.europa.eu/news/european-judicial-cybercrime-network-strengthens-resolve-fight-digital-threats-19th-plenary" class="external-link">Link</a></td>
+</tr>
+<tr>
+<td style="text-align: right;">156</td>
+<td><a href="../../wiki/sources/2026-04-14_eurojust_european-judicial-cybercrime-network-strengthens-resolve-to.html" class="wikilink">2026-04-14_eurojust_european-judicial-cybercrime-network-strengthens-resolve-to</a></td>
+<td><a href="../../wiki/sources/2025-12-05-eurojust-ejcn-19th-plenary.html" class="wikilink">2025-12-05-eurojust-ejcn-19th-plenary</a></td>
+<td>same_collection_url</td>
+<td><a href="https://www.eurojust.europa.eu/news/european-judicial-cybercrime-network-strengthens-resolve-fight-digital-threats-19th-plenary" target="_blank" rel="noopener noreferrer" title="https://www.eurojust.europa.eu/news/european-judicial-cybercrime-network-strengthens-resolve-fight-digital-threats-19th-plenary" data-full-url="https://www.eurojust.europa.eu/news/european-judicial-cybercrime-network-strengthens-resolve-fight-digital-threats-19th-plenary" class="external-link">Link</a></td>
+</tr>
+<tr>
+<td style="text-align: right;">157</td>
+<td><a href="../../wiki/sources/2026-03-11_eurojust-europa-eu_judicial-cooperation-key-to-arresting-leaders-of-online-fraud-group.html" class="wikilink">2026-03-11_eurojust-europa-eu_judicial-cooperation-key-to-arresting-leaders-of-online-fraud-group</a></td>
+<td><a href="../../wiki/sources/2026-03-11-eurojust-de-fr-online-fraud-group.html" class="wikilink">2026-03-11-eurojust-de-fr-online-fraud-group</a></td>
+<td>same_collection_url</td>
+<td><a href="https://www.eurojust.europa.eu/news/judicial-cooperation-key-arresting-leaders-online-fraud-group" target="_blank" rel="noopener noreferrer" title="https://www.eurojust.europa.eu/news/judicial-cooperation-key-arresting-leaders-online-fraud-group" data-full-url="https://www.eurojust.europa.eu/news/judicial-cooperation-key-arresting-leaders-online-fraud-group" class="external-link">Link</a></td>
+</tr>
+<tr>
+<td style="text-align: right;">158</td>
+<td><a href="../../wiki/sources/2026-04-14_eurojust_judicial-cooperation-key-to-arresting-leaders-of-online-frau.html" class="wikilink">2026-04-14_eurojust_judicial-cooperation-key-to-arresting-leaders-of-online-frau</a></td>
+<td><a href="../../wiki/sources/2026-03-11-eurojust-de-fr-online-fraud-group.html" class="wikilink">2026-03-11-eurojust-de-fr-online-fraud-group</a></td>
+<td>same_collection_url</td>
+<td><a href="https://www.eurojust.europa.eu/news/judicial-cooperation-key-arresting-leaders-online-fraud-group" target="_blank" rel="noopener noreferrer" title="https://www.eurojust.europa.eu/news/judicial-cooperation-key-arresting-leaders-online-fraud-group" data-full-url="https://www.eurojust.europa.eu/news/judicial-cooperation-key-arresting-leaders-online-fraud-group" class="external-link">Link</a></td>
+</tr>
+<tr>
+<td style="text-align: right;">159</td>
+<td><a href="../../wiki/sources/2026-03-12_eurojust-europa-eu_servers-used-for-cybercrime-around-the-world-taken-down.html" class="wikilink">2026-03-12_eurojust-europa-eu_servers-used-for-cybercrime-around-the-world-taken-down</a></td>
+<td><a href="../../wiki/sources/2026-03-12-eurojust-proxy-service-takedown.html" class="wikilink">2026-03-12-eurojust-proxy-service-takedown</a></td>
+<td>same_collection_url</td>
+<td><a href="https://www.eurojust.europa.eu/news/servers-used-cybercrime-around-world-taken-down" target="_blank" rel="noopener noreferrer" title="https://www.eurojust.europa.eu/news/servers-used-cybercrime-around-world-taken-down" data-full-url="https://www.eurojust.europa.eu/news/servers-used-cybercrime-around-world-taken-down" class="external-link">Link</a></td>
+</tr>
+<tr>
+<td style="text-align: right;">160</td>
+<td><a href="../../wiki/sources/2026-04-14_eurojust_servers-used-for-cybercrime-around-the-world-taken-down.html" class="wikilink">2026-04-14_eurojust_servers-used-for-cybercrime-around-the-world-taken-down</a></td>
+<td><a href="../../wiki/sources/2026-03-12-eurojust-proxy-service-takedown.html" class="wikilink">2026-03-12-eurojust-proxy-service-takedown</a></td>
+<td>same_collection_url</td>
+<td><a href="https://www.eurojust.europa.eu/news/servers-used-cybercrime-around-world-taken-down" target="_blank" rel="noopener noreferrer" title="https://www.eurojust.europa.eu/news/servers-used-cybercrime-around-world-taken-down" data-full-url="https://www.eurojust.europa.eu/news/servers-used-cybercrime-around-world-taken-down" class="external-link">Link</a></td>
+</tr>
+<tr>
+<td style="text-align: right;">161</td>
+<td><a href="../../wiki/sources/2021-02-03_europol-europa-eu_europol-105-arrested-for-stealing-over-12-million-from-us-based-banks-operation.html" class="wikilink">2021-02-03_europol-europa-eu_europol-105-arrested-for-stealing-over-12-million-from-us-based-banks-operation</a></td>
+<td><a href="../../wiki/sources/2021-02-01_europol-europa-eu_105-arrested-for-stealing-over-eur-12-million-from-us-based-banks.html" class="wikilink">2021-02-01_europol-europa-eu_105-arrested-for-stealing-over-eur-12-million-from-us-based-banks</a></td>
+<td>same_collection_url</td>
+<td><a href="https://www.europol.europa.eu/media-press/newsroom/news/105-arrested-for-stealing-over-%E2%82%AC12-million-us-based-banks" target="_blank" rel="noopener noreferrer" title="https://www.europol.europa.eu/media-press/newsroom/news/105-arrested-for-stealing-over-%E2%82%AC12-million-us-based-banks" data-full-url="https://www.europol.europa.eu/media-press/newsroom/news/105-arrested-for-stealing-over-%E2%82%AC12-million-us-based-banks" class="external-link">Link</a></td>
+</tr>
+<tr>
+<td style="text-align: right;">162</td>
+<td><a href="../../wiki/sources/europol-operation-secreto.html" class="wikilink">europol-operation-secreto</a></td>
+<td><a href="../../wiki/sources/2021-02-01_europol-europa-eu_105-arrested-for-stealing-over-eur-12-million-from-us-based-banks.html" class="wikilink">2021-02-01_europol-europa-eu_105-arrested-for-stealing-over-eur-12-million-from-us-based-banks</a></td>
+<td>same_collection_url</td>
+<td><a href="https://www.europol.europa.eu/media-press/newsroom/news/105-arrested-for-stealing-over-%E2%82%AC12-million-us-based-banks" target="_blank" rel="noopener noreferrer" title="https://www.europol.europa.eu/media-press/newsroom/news/105-arrested-for-stealing-over-%E2%82%AC12-million-us-based-banks" data-full-url="https://www.europol.europa.eu/media-press/newsroom/news/105-arrested-for-stealing-over-%E2%82%AC12-million-us-based-banks" class="external-link">Link</a></td>
+</tr>
+<tr>
+<td style="text-align: right;">163</td>
+<td><a href="../../wiki/sources/2018-06-14_europol-europa-eu_europol-french-coder-who-helped-extort-british-company-arrested-in-thailand.html" class="wikilink">2018-06-14_europol-europa-eu_europol-french-coder-who-helped-extort-british-company-arrested-in-thailand</a></td>
+<td><a href="../../wiki/sources/2018-05-18_europol-europa-eu_french-coder-who-helped-extort-british-company-arrested-in-thailand.html" class="wikilink">2018-05-18_europol-europa-eu_french-coder-who-helped-extort-british-company-arrested-in-thailand</a></td>
+<td>same_collection_url</td>
+<td><a href="https://www.europol.europa.eu/media-press/newsroom/news/french-coder-who-helped-extort-british-company-arrested-in-thailand" target="_blank" rel="noopener noreferrer" title="https://www.europol.europa.eu/media-press/newsroom/news/french-coder-who-helped-extort-british-company-arrested-in-thailand" data-full-url="https://www.europol.europa.eu/media-press/newsroom/news/french-coder-who-helped-extort-british-company-arrested-in-thailand" class="external-link">Link</a></td>
+</tr>
+<tr>
+<td style="text-align: right;">164</td>
+<td><a href="../../wiki/sources/europol-rex-mundi-hacking-group-takedown.html" class="wikilink">europol-rex-mundi-hacking-group-takedown</a></td>
+<td><a href="../../wiki/sources/2018-05-18_europol-europa-eu_french-coder-who-helped-extort-british-company-arrested-in-thailand.html" class="wikilink">2018-05-18_europol-europa-eu_french-coder-who-helped-extort-british-company-arrested-in-thailand</a></td>
+<td>same_collection_url</td>
+<td><a href="https://www.europol.europa.eu/media-press/newsroom/news/french-coder-who-helped-extort-british-company-arrested-in-thailand" target="_blank" rel="noopener noreferrer" title="https://www.europol.europa.eu/media-press/newsroom/news/french-coder-who-helped-extort-british-company-arrested-in-thailand" data-full-url="https://www.europol.europa.eu/media-press/newsroom/news/french-coder-who-helped-extort-british-company-arrested-in-thailand" class="external-link">Link</a></td>
+</tr>
+<tr>
+<td style="text-align: right;">165</td>
+<td><a href="../../wiki/sources/2018-03-26_europol-europa-eu_europol-mastermind-behind-eur-1-billion-cyber-bank-robbery-arrested-in-spain-car.html" class="wikilink">2018-03-26_europol-europa-eu_europol-mastermind-behind-eur-1-billion-cyber-bank-robbery-arrested-in-spain-car</a></td>
+<td><a href="../../wiki/sources/2018-03-01_europol-europa-eu_mastermind-behind-eur-1-billion-cyber-bank-robbery-arrested-in-spain.html" class="wikilink">2018-03-01_europol-europa-eu_mastermind-behind-eur-1-billion-cyber-bank-robbery-arrested-in-spain</a></td>
+<td>same_collection_url</td>
+<td><a href="https://www.europol.europa.eu/media-press/newsroom/news/mastermind-behind-eur-1-billion-cyber-bank-robbery-arrested-in-spain" target="_blank" rel="noopener noreferrer" title="https://www.europol.europa.eu/media-press/newsroom/news/mastermind-behind-eur-1-billion-cyber-bank-robbery-arrested-in-spain" data-full-url="https://www.europol.europa.eu/media-press/newsroom/news/mastermind-behind-eur-1-billion-cyber-bank-robbery-arrested-in-spain" class="external-link">Link</a></td>
+</tr>
+<tr>
+<td style="text-align: right;">166</td>
+<td><a href="../../wiki/sources/europol-carbanakcobalt-mastermind-arrest.html" class="wikilink">europol-carbanakcobalt-mastermind-arrest</a></td>
+<td><a href="../../wiki/sources/2018-03-01_europol-europa-eu_mastermind-behind-eur-1-billion-cyber-bank-robbery-arrested-in-spain.html" class="wikilink">2018-03-01_europol-europa-eu_mastermind-behind-eur-1-billion-cyber-bank-robbery-arrested-in-spain</a></td>
+<td>same_collection_url</td>
+<td><a href="https://www.europol.europa.eu/media-press/newsroom/news/mastermind-behind-eur-1-billion-cyber-bank-robbery-arrested-in-spain" target="_blank" rel="noopener noreferrer" title="https://www.europol.europa.eu/media-press/newsroom/news/mastermind-behind-eur-1-billion-cyber-bank-robbery-arrested-in-spain" data-full-url="https://www.europol.europa.eu/media-press/newsroom/news/mastermind-behind-eur-1-billion-cyber-bank-robbery-arrested-in-spain" class="external-link">Link</a></td>
+</tr>
+<tr>
+<td style="text-align: right;">167</td>
+<td><a href="../../wiki/sources/2025-04-09_europol-europa-eu_operation-endgame-follow-up-leads-to-five-detentions-and-interrogations-as-well.html" class="wikilink">2025-04-09_europol-europa-eu_operation-endgame-follow-up-leads-to-five-detentions-and-interrogations-as-well</a></td>
+<td><a href="../../wiki/sources/2025-05-22_europol-europa-eu_operation-endgame-follow-up-leads-to-detentions-and-server-takedowns.html" class="wikilink">2025-05-22_europol-europa-eu_operation-endgame-follow-up-leads-to-detentions-and-server-takedowns</a></td>
+<td>same_collection_url</td>
+<td><a href="https://www.europol.europa.eu/media-press/newsroom/news/operation-endgame-follow-leads-to-five-detentions-and-interrogations-well-server-" target="_blank" rel="noopener noreferrer" title="https://www.europol.europa.eu/media-press/newsroom/news/operation-endgame-follow-leads-to-five-detentions-and-interrogations-well-server-" data-full-url="https://www.europol.europa.eu/media-press/newsroom/news/operation-endgame-follow-leads-to-five-detentions-and-interrogations-well-server-" class="external-link">Link</a>...</td>
+</tr>
+<tr>
+<td style="text-align: right;">168</td>
+<td><a href="../../wiki/sources/europol-operation-endgame-phase-2-ransomware-kill-chain-disruption.html" class="wikilink">europol-operation-endgame-phase-2-ransomware-kill-chain-disruption</a></td>
+<td><a href="../../wiki/sources/2025-05-22_europol-europa-eu_operation-endgame-follow-up-leads-to-detentions-and-server-takedowns.html" class="wikilink">2025-05-22_europol-europa-eu_operation-endgame-follow-up-leads-to-detentions-and-server-takedowns</a></td>
+<td>same_collection_url</td>
+<td><a href="https://www.europol.europa.eu/media-press/newsroom/news/operation-endgame-follow-leads-to-five-detentions-and-interrogations-well-server-" target="_blank" rel="noopener noreferrer" title="https://www.europol.europa.eu/media-press/newsroom/news/operation-endgame-follow-leads-to-five-detentions-and-interrogations-well-server-" data-full-url="https://www.europol.europa.eu/media-press/newsroom/news/operation-endgame-follow-leads-to-five-detentions-and-interrogations-well-server-" class="external-link">Link</a>...</td>
+</tr>
+<tr>
+<td style="text-align: right;">169</td>
+<td><a href="../../wiki/sources/2015-10-13_fbi-pittsburgh_bugat-botnet-administrator-arrested-and-malware-disabled.html" class="wikilink">2015-10-13_fbi-pittsburgh_bugat-botnet-administrator-arrested-and-malware-disabled</a></td>
+<td><a href="../../wiki/sources/2015-10-13_fbi-gov_bugat-botnet-administrator-arrested-and-malware-disabled.html" class="wikilink">2015-10-13_fbi-gov_bugat-botnet-administrator-arrested-and-malware-disabled</a></td>
+<td>same_collection_url</td>
+<td><a href="https://www.fbi.gov/contact-us/field-offices/pittsburgh/news/press-releases/bugat-botnet-administrator-arrested-and-malware-disabled" target="_blank" rel="noopener noreferrer" title="https://www.fbi.gov/contact-us/field-offices/pittsburgh/news/press-releases/bugat-botnet-administrator-arrested-and-malware-disabled" data-full-url="https://www.fbi.gov/contact-us/field-offices/pittsburgh/news/press-releases/bugat-botnet-administrator-arrested-and-malware-disabled" class="external-link">Link</a></td>
+</tr>
+<tr>
+<td style="text-align: right;">170</td>
+<td><a href="../../wiki/sources/2015-10-13_fbi_bugat-botnet-administrator-arrested-malware-disabled.html" class="wikilink">2015-10-13_fbi_bugat-botnet-administrator-arrested-malware-disabled</a></td>
+<td><a href="../../wiki/sources/2015-10-13_fbi-gov_bugat-botnet-administrator-arrested-and-malware-disabled.html" class="wikilink">2015-10-13_fbi-gov_bugat-botnet-administrator-arrested-and-malware-disabled</a></td>
+<td>same_collection_url</td>
+<td><a href="https://www.fbi.gov/contact-us/field-offices/pittsburgh/news/press-releases/bugat-botnet-administrator-arrested-and-malware-disabled" target="_blank" rel="noopener noreferrer" title="https://www.fbi.gov/contact-us/field-offices/pittsburgh/news/press-releases/bugat-botnet-administrator-arrested-and-malware-disabled" data-full-url="https://www.fbi.gov/contact-us/field-offices/pittsburgh/news/press-releases/bugat-botnet-administrator-arrested-and-malware-disabled" class="external-link">Link</a></td>
+</tr>
+<tr>
+<td style="text-align: right;">171</td>
+<td><a href="../../wiki/sources/2025-06-24_fbi-gov_fbi-seattle-news-rss-mexican-drug-courier-sentencing.html" class="wikilink">2025-06-24_fbi-gov_fbi-seattle-news-rss-mexican-drug-courier-sentencing</a></td>
+<td><a href="../../wiki/sources/2025-04-11_fbi-gov_fbi-seattle-news-rss-man-caught-three-times-fentanyl.html" class="wikilink">2025-04-11_fbi-gov_fbi-seattle-news-rss-man-caught-three-times-fentanyl</a></td>
+<td>same_collection_url</td>
+<td><a href="https://www.fbi.gov/feeds/email-alerts/seattle-news/RSS" target="_blank" rel="noopener noreferrer" title="https://www.fbi.gov/feeds/email-alerts/seattle-news/RSS" data-full-url="https://www.fbi.gov/feeds/email-alerts/seattle-news/RSS" class="external-link">Link</a></td>
+</tr>
+<tr>
+<td style="text-align: right;">172</td>
+<td><a href="../../wiki/sources/2025-09-23_fbi-gov_fbi-seattle-news-rss-grays-harbor-narcotics-plea.html" class="wikilink">2025-09-23_fbi-gov_fbi-seattle-news-rss-grays-harbor-narcotics-plea</a></td>
+<td><a href="../../wiki/sources/2025-04-11_fbi-gov_fbi-seattle-news-rss-man-caught-three-times-fentanyl.html" class="wikilink">2025-04-11_fbi-gov_fbi-seattle-news-rss-man-caught-three-times-fentanyl</a></td>
+<td>same_collection_url</td>
+<td><a href="https://www.fbi.gov/feeds/email-alerts/seattle-news/RSS" target="_blank" rel="noopener noreferrer" title="https://www.fbi.gov/feeds/email-alerts/seattle-news/RSS" data-full-url="https://www.fbi.gov/feeds/email-alerts/seattle-news/RSS" class="external-link">Link</a></td>
+</tr>
+<tr>
+<td style="text-align: right;">173</td>
+<td><a href="../../wiki/sources/2023-11-07_foxla_2-socal-men-charged-darknet-sell-drugs-50-states.html" class="wikilink">2023-11-07_foxla_2-socal-men-charged-darknet-sell-drugs-50-states</a></td>
+<td><a href="../../wiki/sources/2023-11-07_foxla_2-socal-men-charged-darknet-drugs-50-states.html" class="wikilink">2023-11-07_foxla_2-socal-men-charged-darknet-drugs-50-states</a></td>
+<td>same_collection_url</td>
+<td><a href="https://www.foxla.com/news/2-socal-men-charged-with-using-darknet-to-sell-drugs-in-all-50-states" target="_blank" rel="noopener noreferrer" title="https://www.foxla.com/news/2-socal-men-charged-with-using-darknet-to-sell-drugs-in-all-50-states" data-full-url="https://www.foxla.com/news/2-socal-men-charged-with-using-darknet-to-sell-drugs-in-all-50-states" class="external-link">Link</a></td>
+</tr>
+<tr>
+<td style="text-align: right;">174</td>
+<td><a href="../../wiki/sources/2023-11-07_foxla_2-socal-men-darknet-sell-drugs-all-50-states.html" class="wikilink">2023-11-07_foxla_2-socal-men-darknet-sell-drugs-all-50-states</a></td>
+<td><a href="../../wiki/sources/2023-11-07_foxla_2-socal-men-charged-darknet-drugs-50-states.html" class="wikilink">2023-11-07_foxla_2-socal-men-charged-darknet-drugs-50-states</a></td>
+<td>same_collection_url</td>
+<td><a href="https://www.foxla.com/news/2-socal-men-charged-with-using-darknet-to-sell-drugs-in-all-50-states" target="_blank" rel="noopener noreferrer" title="https://www.foxla.com/news/2-socal-men-charged-with-using-darknet-to-sell-drugs-in-all-50-states" data-full-url="https://www.foxla.com/news/2-socal-men-charged-with-using-darknet-to-sell-drugs-in-all-50-states" class="external-link">Link</a></td>
+</tr>
+<tr>
+<td style="text-align: right;">175</td>
+<td><a href="../../wiki/sources/2020-01-24_group-ib-com_night-fury.html" class="wikilink">2020-01-24_group-ib-com_night-fury</a></td>
+<td><a href="../../wiki/sources/2020-01-27_group-ib_night-fury.html" class="wikilink">2020-01-27_group-ib_night-fury</a></td>
+<td>same_collection_url</td>
+<td><a href="https://www.group-ib.com/media-center/press-releases/night-fury/" target="_blank" rel="noopener noreferrer" title="https://www.group-ib.com/media-center/press-releases/night-fury/" data-full-url="https://www.group-ib.com/media-center/press-releases/night-fury/" class="external-link">Link</a></td>
+</tr>
+<tr>
+<td style="text-align: right;">176</td>
+<td><a href="../../wiki/sources/group-ib-operation-nightfury-magecartgetbilling.html" class="wikilink">group-ib-operation-nightfury-magecartgetbilling</a></td>
+<td><a href="../../wiki/sources/2020-01-27_group-ib_night-fury.html" class="wikilink">2020-01-27_group-ib_night-fury</a></td>
+<td>same_collection_url</td>
+<td><a href="https://www.group-ib.com/media-center/press-releases/night-fury/" target="_blank" rel="noopener noreferrer" title="https://www.group-ib.com/media-center/press-releases/night-fury/" data-full-url="https://www.group-ib.com/media-center/press-releases/night-fury/" class="external-link">Link</a></td>
+</tr>
+<tr>
+<td style="text-align: right;">177</td>
+<td><a href="../../wiki/sources/2022-11-01_interpol-int_online-scamming-fraud-three-nigerians-arrested-in-interpol-operation-killer-bee.html" class="wikilink">2022-11-01_interpol-int_online-scamming-fraud-three-nigerians-arrested-in-interpol-operation-killer-bee</a></td>
+<td><a href="../../wiki/sources/2022-05-30_interpol-int_interpol-online-scamming-fraud-three-nigerians-arrested-in-operation-killer-bee.html" class="wikilink">2022-05-30_interpol-int_interpol-online-scamming-fraud-three-nigerians-arrested-in-operation-killer-bee</a></td>
+<td>same_collection_url</td>
+<td><a href="https://www.interpol.int/News-and-Events/News/2022/Online-scamming-fraud-three-Nigerians-arrested-in-INTERPOL-Operation-Killer-Bee" target="_blank" rel="noopener noreferrer" title="https://www.interpol.int/News-and-Events/News/2022/Online-scamming-fraud-three-Nigerians-arrested-in-INTERPOL-Operation-Killer-Bee" data-full-url="https://www.interpol.int/News-and-Events/News/2022/Online-scamming-fraud-three-Nigerians-arrested-in-INTERPOL-Operation-Killer-Bee" class="external-link">Link</a></td>
+</tr>
+<tr>
+<td style="text-align: right;">178</td>
+<td><a href="../../wiki/sources/interpol-operation-killer-bee.html" class="wikilink">interpol-operation-killer-bee</a></td>
+<td><a href="../../wiki/sources/2022-05-30_interpol-int_interpol-online-scamming-fraud-three-nigerians-arrested-in-operation-killer-bee.html" class="wikilink">2022-05-30_interpol-int_interpol-online-scamming-fraud-three-nigerians-arrested-in-operation-killer-bee</a></td>
+<td>same_collection_url</td>
+<td><a href="https://www.interpol.int/News-and-Events/News/2022/Online-scamming-fraud-three-Nigerians-arrested-in-INTERPOL-Operation-Killer-Bee" target="_blank" rel="noopener noreferrer" title="https://www.interpol.int/News-and-Events/News/2022/Online-scamming-fraud-three-Nigerians-arrested-in-INTERPOL-Operation-Killer-Bee" data-full-url="https://www.interpol.int/News-and-Events/News/2022/Online-scamming-fraud-three-Nigerians-arrested-in-INTERPOL-Operation-Killer-Bee" class="external-link">Link</a></td>
+</tr>
+<tr>
+<td style="text-align: right;">179</td>
+<td><a href="../../wiki/sources/2023-08-18_interpol_cybercrime-14-arrests-thousands-of-illicit-cyber-networks-disrupted-in-africa-operation.html" class="wikilink">2023-08-18_interpol_cybercrime-14-arrests-thousands-of-illicit-cyber-networks-disrupted-in-africa-operation</a></td>
+<td><a href="../../wiki/sources/2023-08-18_interpol-int_cybercrime-14-arrests-thousands-of-illicit-cyber-networks-disrupted-in-africa-op.html" class="wikilink">2023-08-18_interpol-int_cybercrime-14-arrests-thousands-of-illicit-cyber-networks-disrupted-in-africa-op</a></td>
+<td>same_collection_url</td>
+<td><a href="https://www.interpol.int/en/News-and-Events/News/2023/Cybercrime-14-arrests-thousands-of-illicit-cyber-networks-disrupted-in-Africa-opera" target="_blank" rel="noopener noreferrer" title="https://www.interpol.int/en/News-and-Events/News/2023/Cybercrime-14-arrests-thousands-of-illicit-cyber-networks-disrupted-in-Africa-opera" data-full-url="https://www.interpol.int/en/News-and-Events/News/2023/Cybercrime-14-arrests-thousands-of-illicit-cyber-networks-disrupted-in-Africa-opera" class="external-link">Link</a>...</td>
+</tr>
+<tr>
+<td style="text-align: right;">180</td>
+<td><a href="../../wiki/sources/bbc-africa-cyber-surge-ii.html" class="wikilink">bbc-africa-cyber-surge-ii</a></td>
+<td><a href="../../wiki/sources/2023-08-18_interpol-int_cybercrime-14-arrests-thousands-of-illicit-cyber-networks-disrupted-in-africa-op.html" class="wikilink">2023-08-18_interpol-int_cybercrime-14-arrests-thousands-of-illicit-cyber-networks-disrupted-in-africa-op</a></td>
+<td>same_collection_url</td>
+<td><a href="https://www.interpol.int/en/News-and-Events/News/2023/Cybercrime-14-arrests-thousands-of-illicit-cyber-networks-disrupted-in-Africa-opera" target="_blank" rel="noopener noreferrer" title="https://www.interpol.int/en/News-and-Events/News/2023/Cybercrime-14-arrests-thousands-of-illicit-cyber-networks-disrupted-in-Africa-opera" data-full-url="https://www.interpol.int/en/News-and-Events/News/2023/Cybercrime-14-arrests-thousands-of-illicit-cyber-networks-disrupted-in-Africa-opera" class="external-link">Link</a>...</td>
+</tr>
+<tr>
+<td style="text-align: right;">181</td>
+<td><a href="../../wiki/sources/2024-10-15_interpol-int_operation-orion-international.html" class="wikilink">2024-10-15_interpol-int_operation-orion-international</a></td>
+<td><a href="../../wiki/sources/2024-10-15_interpol-int_operation-orion-international-144-arrested-in-major-child-abuse-operation-across.html" class="wikilink">2024-10-15_interpol-int_operation-orion-international-144-arrested-in-major-child-abuse-operation-across</a></td>
+<td>same_collection_url</td>
+<td><a href="https://www.interpol.int/en/News-and-Events/News/2024/20-rescued-144-arrested-in-major-child-abuse-operation-across-South-America" target="_blank" rel="noopener noreferrer" title="https://www.interpol.int/en/News-and-Events/News/2024/20-rescued-144-arrested-in-major-child-abuse-operation-across-South-America" data-full-url="https://www.interpol.int/en/News-and-Events/News/2024/20-rescued-144-arrested-in-major-child-abuse-operation-across-South-America" class="external-link">Link</a></td>
+</tr>
+<tr>
+<td style="text-align: right;">182</td>
+<td><a href="../../wiki/sources/2024-10-15_interpol_operation-orion-international-south-america-csam.html" class="wikilink">2024-10-15_interpol_operation-orion-international-south-america-csam</a></td>
+<td><a href="../../wiki/sources/2024-10-15_interpol-int_operation-orion-international-144-arrested-in-major-child-abuse-operation-across.html" class="wikilink">2024-10-15_interpol-int_operation-orion-international-144-arrested-in-major-child-abuse-operation-across</a></td>
+<td>same_collection_url</td>
+<td><a href="https://www.interpol.int/en/News-and-Events/News/2024/20-rescued-144-arrested-in-major-child-abuse-operation-across-South-America" target="_blank" rel="noopener noreferrer" title="https://www.interpol.int/en/News-and-Events/News/2024/20-rescued-144-arrested-in-major-child-abuse-operation-across-South-America" data-full-url="https://www.interpol.int/en/News-and-Events/News/2024/20-rescued-144-arrested-in-major-child-abuse-operation-across-South-America" class="external-link">Link</a></td>
+</tr>
+<tr>
+<td style="text-align: right;">183</td>
+<td><a href="../../wiki/sources/2024-01-26_justice-gov_united-states-v-banmeet-singh.html" class="wikilink">2024-01-26_justice-gov_united-states-v-banmeet-singh</a></td>
+<td><a href="../../wiki/sources/2024-01-26_justice-gov_dark-web-vendor-pleads-guilty-to-distributing-narcotics-and-forfeits-150m.html" class="wikilink">2024-01-26_justice-gov_dark-web-vendor-pleads-guilty-to-distributing-narcotics-and-forfeits-150m</a></td>
+<td>same_collection_url</td>
+<td><a href="https://www.justice.gov/archives/opa/pr/dark-web-vendor-pleads-guilty-distributing-narcotics-and-forfeits-150m" target="_blank" rel="noopener noreferrer" title="https://www.justice.gov/archives/opa/pr/dark-web-vendor-pleads-guilty-distributing-narcotics-and-forfeits-150m" data-full-url="https://www.justice.gov/archives/opa/pr/dark-web-vendor-pleads-guilty-distributing-narcotics-and-forfeits-150m" class="external-link">Link</a></td>
+</tr>
+<tr>
+<td style="text-align: right;">184</td>
+<td><a href="../../wiki/sources/2024-01-26_opa_banmeet-singh-dark-web-vendor-plea.html" class="wikilink">2024-01-26_opa_banmeet-singh-dark-web-vendor-plea</a></td>
+<td><a href="../../wiki/sources/2024-01-26_justice-gov_dark-web-vendor-pleads-guilty-to-distributing-narcotics-and-forfeits-150m.html" class="wikilink">2024-01-26_justice-gov_dark-web-vendor-pleads-guilty-to-distributing-narcotics-and-forfeits-150m</a></td>
+<td>same_collection_url</td>
+<td><a href="https://www.justice.gov/archives/opa/pr/dark-web-vendor-pleads-guilty-distributing-narcotics-and-forfeits-150m" target="_blank" rel="noopener noreferrer" title="https://www.justice.gov/archives/opa/pr/dark-web-vendor-pleads-guilty-distributing-narcotics-and-forfeits-150m" data-full-url="https://www.justice.gov/archives/opa/pr/dark-web-vendor-pleads-guilty-distributing-narcotics-and-forfeits-150m" class="external-link">Link</a></td>
+</tr>
+<tr>
+<td style="text-align: right;">185</td>
+<td><a href="../../wiki/sources/2021-01-27_justice-gov_emotet-botnet-disrupted-in-international-cyber-operation.html" class="wikilink">2021-01-27_justice-gov_emotet-botnet-disrupted-in-international-cyber-operation</a></td>
+<td><a href="../../wiki/sources/2021-01-27_mdnc_emotet-disruption-order.html" class="wikilink">2021-01-27_mdnc_emotet-disruption-order</a></td>
+<td>same_collection_url</td>
+<td><a href="https://www.justice.gov/archives/opa/pr/emotet-botnet-disrupted-international-cyber-operation" target="_blank" rel="noopener noreferrer" title="https://www.justice.gov/archives/opa/pr/emotet-botnet-disrupted-international-cyber-operation" data-full-url="https://www.justice.gov/archives/opa/pr/emotet-botnet-disrupted-international-cyber-operation" class="external-link">Link</a></td>
+</tr>
+<tr>
+<td style="text-align: right;">186</td>
+<td><a href="../../wiki/sources/2021-01-27_justice-gov_united-states-emotet-botnet-disruption-operation-ladybird.html" class="wikilink">2021-01-27_justice-gov_united-states-emotet-botnet-disruption-operation-ladybird</a></td>
+<td><a href="../../wiki/sources/2021-01-27_mdnc_emotet-disruption-order.html" class="wikilink">2021-01-27_mdnc_emotet-disruption-order</a></td>
+<td>same_collection_url</td>
+<td><a href="https://www.justice.gov/archives/opa/pr/emotet-botnet-disrupted-international-cyber-operation" target="_blank" rel="noopener noreferrer" title="https://www.justice.gov/archives/opa/pr/emotet-botnet-disrupted-international-cyber-operation" data-full-url="https://www.justice.gov/archives/opa/pr/emotet-botnet-disrupted-international-cyber-operation" class="external-link">Link</a></td>
+</tr>
+<tr>
+<td style="text-align: right;">187</td>
+<td><a href="../../wiki/sources/2023-03-27_justice-gov_foreign-national-sentenced-for-victimizing-u-s-persons-through-cyber-enabled-fra.html" class="wikilink">2023-03-27_justice-gov_foreign-national-sentenced-for-victimizing-u-s-persons-through-cyber-enabled-fra</a></td>
+<td><a href="../../wiki/sources/2023-03-27_doj_okpe-obogo-bec-sentencing.html" class="wikilink">2023-03-27_doj_okpe-obogo-bec-sentencing</a></td>
+<td>same_collection_url</td>
+<td><a href="https://www.justice.gov/archives/opa/pr/foreign-national-sentenced-victimizing-us-persons-through-cyber-enabled-fraud-schemes" target="_blank" rel="noopener noreferrer" title="https://www.justice.gov/archives/opa/pr/foreign-national-sentenced-victimizing-us-persons-through-cyber-enabled-fraud-schemes" data-full-url="https://www.justice.gov/archives/opa/pr/foreign-national-sentenced-victimizing-us-persons-through-cyber-enabled-fraud-schemes" class="external-link">Link</a></td>
+</tr>
+<tr>
+<td style="text-align: right;">188</td>
+<td><a href="../../wiki/sources/2023-03-27_justice-gov_united-states-v-solomon-ekunke-okpe-and-johnson-uke-obogo.html" class="wikilink">2023-03-27_justice-gov_united-states-v-solomon-ekunke-okpe-and-johnson-uke-obogo</a></td>
+<td><a href="../../wiki/sources/2023-03-27_doj_okpe-obogo-bec-sentencing.html" class="wikilink">2023-03-27_doj_okpe-obogo-bec-sentencing</a></td>
+<td>same_collection_url</td>
+<td><a href="https://www.justice.gov/archives/opa/pr/foreign-national-sentenced-victimizing-us-persons-through-cyber-enabled-fraud-schemes" target="_blank" rel="noopener noreferrer" title="https://www.justice.gov/archives/opa/pr/foreign-national-sentenced-victimizing-us-persons-through-cyber-enabled-fraud-schemes" data-full-url="https://www.justice.gov/archives/opa/pr/foreign-national-sentenced-victimizing-us-persons-through-cyber-enabled-fraud-schemes" class="external-link">Link</a></td>
+</tr>
+<tr>
+<td style="text-align: right;">189</td>
+<td><a href="../../wiki/sources/2021-03-19_justice-gov_foreign-nationals-sentenced-roles-transnational-cybercrime-enterprise.html" class="wikilink">2021-03-19_justice-gov_foreign-nationals-sentenced-roles-transnational-cybercrime-enterprise</a></td>
+<td><a href="../../wiki/sources/2026-04-17_justice-gov_foreign-nationals-sentenced-for-roles-in-transnational-cybercrime-enterprise.html" class="wikilink">2026-04-17_justice-gov_foreign-nationals-sentenced-for-roles-in-transnational-cybercrime-enterprise</a></td>
+<td>same_collection_url</td>
+<td><a href="https://www.justice.gov/archives/opa/pr/foreign-nationals-sentenced-roles-transnational-cybercrime-enterprise" target="_blank" rel="noopener noreferrer" title="https://www.justice.gov/archives/opa/pr/foreign-nationals-sentenced-roles-transnational-cybercrime-enterprise" data-full-url="https://www.justice.gov/archives/opa/pr/foreign-nationals-sentenced-roles-transnational-cybercrime-enterprise" class="external-link">Link</a></td>
+</tr>
+<tr>
+<td style="text-align: right;">190</td>
+<td><a href="../../wiki/sources/2026-04-17_justice-gov_foreign-nationals-sentenced-roles-transnational-cybercrime-enterprise.html" class="wikilink">2026-04-17_justice-gov_foreign-nationals-sentenced-roles-transnational-cybercrime-enterprise</a></td>
+<td><a href="../../wiki/sources/2026-04-17_justice-gov_foreign-nationals-sentenced-for-roles-in-transnational-cybercrime-enterprise.html" class="wikilink">2026-04-17_justice-gov_foreign-nationals-sentenced-for-roles-in-transnational-cybercrime-enterprise</a></td>
+<td>same_collection_url</td>
+<td><a href="https://www.justice.gov/archives/opa/pr/foreign-nationals-sentenced-roles-transnational-cybercrime-enterprise" target="_blank" rel="noopener noreferrer" title="https://www.justice.gov/archives/opa/pr/foreign-nationals-sentenced-roles-transnational-cybercrime-enterprise" data-full-url="https://www.justice.gov/archives/opa/pr/foreign-nationals-sentenced-roles-transnational-cybercrime-enterprise" class="external-link">Link</a></td>
+</tr>
+<tr>
+<td style="text-align: right;">191</td>
+<td><a href="../../wiki/sources/2019-05-16_justice-gov_united-states-v-konovolov-et-al-goznym-network.html" class="wikilink">2019-05-16_justice-gov_united-states-v-konovolov-et-al-goznym-network</a></td>
+<td><a href="../../wiki/sources/2019-05-16_justice-gov_goznym-cyber-criminal-network-operating-out-of-europe-targeting-american-entitie.html" class="wikilink">2019-05-16_justice-gov_goznym-cyber-criminal-network-operating-out-of-europe-targeting-american-entitie</a></td>
+<td>same_collection_url</td>
+<td><a href="https://www.justice.gov/archives/opa/pr/goznym-cyber-criminal-network-operating-out-europe-targeting-american-entities-dismantled" target="_blank" rel="noopener noreferrer" title="https://www.justice.gov/archives/opa/pr/goznym-cyber-criminal-network-operating-out-europe-targeting-american-entities-dismantled" data-full-url="https://www.justice.gov/archives/opa/pr/goznym-cyber-criminal-network-operating-out-europe-targeting-american-entities-dismantled" class="external-link">Link</a></td>
+</tr>
+<tr>
+<td style="text-align: right;">192</td>
+<td><a href="../../wiki/sources/2019-05-16_wdpa_goznym-indictment.html" class="wikilink">2019-05-16_wdpa_goznym-indictment</a></td>
+<td><a href="../../wiki/sources/2019-05-16_justice-gov_goznym-cyber-criminal-network-operating-out-of-europe-targeting-american-entitie.html" class="wikilink">2019-05-16_justice-gov_goznym-cyber-criminal-network-operating-out-of-europe-targeting-american-entitie</a></td>
+<td>same_collection_url</td>
+<td><a href="https://www.justice.gov/archives/opa/pr/goznym-cyber-criminal-network-operating-out-europe-targeting-american-entities-dismantled" target="_blank" rel="noopener noreferrer" title="https://www.justice.gov/archives/opa/pr/goznym-cyber-criminal-network-operating-out-europe-targeting-american-entities-dismantled" data-full-url="https://www.justice.gov/archives/opa/pr/goznym-cyber-criminal-network-operating-out-europe-targeting-american-entities-dismantled" class="external-link">Link</a></td>
+</tr>
+<tr>
+<td style="text-align: right;">193</td>
+<td><a href="../../wiki/sources/2025-04-17_opa_parsarad-nemesis-indictment.html" class="wikilink">2025-04-17_opa_parsarad-nemesis-indictment</a></td>
+<td><a href="../../wiki/sources/2025-04-17_justice-gov_administrator-of-nemesis-market-charged-for-role-operating-darknet-marketplace.html" class="wikilink">2025-04-17_justice-gov_administrator-of-nemesis-market-charged-for-role-operating-darknet-marketplace</a></td>
+<td>same_collection_url</td>
+<td><a href="https://www.justice.gov/opa/pr/administrator-nemesis-market-charged-role-operating-darknet-marketplace" target="_blank" rel="noopener noreferrer" title="https://www.justice.gov/opa/pr/administrator-nemesis-market-charged-role-operating-darknet-marketplace" data-full-url="https://www.justice.gov/opa/pr/administrator-nemesis-market-charged-role-operating-darknet-marketplace" class="external-link">Link</a></td>
+</tr>
+<tr>
+<td style="text-align: right;">194</td>
+<td><a href="../../wiki/sources/2026-04-17_justice-gov_administrator-of-nemesis-market-charged-for-role-operating-darknet-marketplace.html" class="wikilink">2026-04-17_justice-gov_administrator-of-nemesis-market-charged-for-role-operating-darknet-marketplace</a></td>
+<td><a href="../../wiki/sources/2025-04-17_justice-gov_administrator-of-nemesis-market-charged-for-role-operating-darknet-marketplace.html" class="wikilink">2025-04-17_justice-gov_administrator-of-nemesis-market-charged-for-role-operating-darknet-marketplace</a></td>
+<td>same_collection_url</td>
+<td><a href="https://www.justice.gov/opa/pr/administrator-nemesis-market-charged-role-operating-darknet-marketplace" target="_blank" rel="noopener noreferrer" title="https://www.justice.gov/opa/pr/administrator-nemesis-market-charged-role-operating-darknet-marketplace" data-full-url="https://www.justice.gov/opa/pr/administrator-nemesis-market-charged-role-operating-darknet-marketplace" class="external-link">Link</a></td>
+</tr>
+<tr>
+<td style="text-align: right;">195</td>
+<td><a href="../../wiki/sources/2026-01-27_justice-gov_chinese-national-sentenced-to-prison-for-role-in-crypto-scam-targeting-americans.html" class="wikilink">2026-01-27_justice-gov_chinese-national-sentenced-to-prison-for-role-in-crypto-scam-targeting-americans</a></td>
+<td><a href="../../wiki/sources/2026-01-27_doj-opa_chinese-national-sentenced-crypto-scam-targeting-americans.html" class="wikilink">2026-01-27_doj-opa_chinese-national-sentenced-crypto-scam-targeting-americans</a></td>
+<td>same_collection_url</td>
+<td><a href="https://www.justice.gov/opa/pr/chinese-national-sentenced-prison-role-crypto-scam-targeting-americans" target="_blank" rel="noopener noreferrer" title="https://www.justice.gov/opa/pr/chinese-national-sentenced-prison-role-crypto-scam-targeting-americans" data-full-url="https://www.justice.gov/opa/pr/chinese-national-sentenced-prison-role-crypto-scam-targeting-americans" class="external-link">Link</a></td>
+</tr>
+<tr>
+<td style="text-align: right;">196</td>
+<td><a href="../../wiki/sources/2026-04-18_justice-gov_chinese-national-sentenced-prison-role-crypto-scam-targeting-americans.html" class="wikilink">2026-04-18_justice-gov_chinese-national-sentenced-prison-role-crypto-scam-targeting-americans</a></td>
+<td><a href="../../wiki/sources/2026-01-27_doj-opa_chinese-national-sentenced-crypto-scam-targeting-americans.html" class="wikilink">2026-01-27_doj-opa_chinese-national-sentenced-crypto-scam-targeting-americans</a></td>
+<td>same_collection_url</td>
+<td><a href="https://www.justice.gov/opa/pr/chinese-national-sentenced-prison-role-crypto-scam-targeting-americans" target="_blank" rel="noopener noreferrer" title="https://www.justice.gov/opa/pr/chinese-national-sentenced-prison-role-crypto-scam-targeting-americans" data-full-url="https://www.justice.gov/opa/pr/chinese-national-sentenced-prison-role-crypto-scam-targeting-americans" class="external-link">Link</a></td>
+</tr>
+<tr>
+<td style="text-align: right;">197</td>
+<td><a href="../../wiki/sources/2025-03-05_opa_wu-haibo-isoon-indictment.html" class="wikilink">2025-03-05_opa_wu-haibo-isoon-indictment</a></td>
+<td><a href="../../wiki/sources/2025-03-05_justice-gov_justice-department-charges-12-chinese-hackers-and-law-enforcement-officers-in-gl.html" class="wikilink">2025-03-05_justice-gov_justice-department-charges-12-chinese-hackers-and-law-enforcement-officers-in-gl</a></td>
+<td>same_collection_url</td>
+<td><a href="https://www.justice.gov/opa/pr/justice-department-charges-12-chinese-hackers-and-law-enforcement-officers-global" target="_blank" rel="noopener noreferrer" title="https://www.justice.gov/opa/pr/justice-department-charges-12-chinese-hackers-and-law-enforcement-officers-global" data-full-url="https://www.justice.gov/opa/pr/justice-department-charges-12-chinese-hackers-and-law-enforcement-officers-global" class="external-link">Link</a></td>
+</tr>
+<tr>
+<td style="text-align: right;">198</td>
+<td><a href="../../wiki/sources/2026-04-17_justice-gov_justice-department-charges-12-chinese-hackers-and-law-enforcement-officers-in-gl.html" class="wikilink">2026-04-17_justice-gov_justice-department-charges-12-chinese-hackers-and-law-enforcement-officers-in-gl</a></td>
+<td><a href="../../wiki/sources/2025-03-05_justice-gov_justice-department-charges-12-chinese-hackers-and-law-enforcement-officers-in-gl.html" class="wikilink">2025-03-05_justice-gov_justice-department-charges-12-chinese-hackers-and-law-enforcement-officers-in-gl</a></td>
+<td>same_collection_url</td>
+<td><a href="https://www.justice.gov/opa/pr/justice-department-charges-12-chinese-hackers-and-law-enforcement-officers-global" target="_blank" rel="noopener noreferrer" title="https://www.justice.gov/opa/pr/justice-department-charges-12-chinese-hackers-and-law-enforcement-officers-global" data-full-url="https://www.justice.gov/opa/pr/justice-department-charges-12-chinese-hackers-and-law-enforcement-officers-global" class="external-link">Link</a></td>
+</tr>
+<tr>
+<td style="text-align: right;">199</td>
+<td><a href="../../wiki/sources/2025-05-21_justice-gov_lumma-stealer-domain-seizures.html" class="wikilink">2025-05-21_justice-gov_lumma-stealer-domain-seizures</a></td>
+<td><a href="../../wiki/sources/2025-05-21_justice-gov_justice-department-seizes-domains-behind-major-information-stealing-malware-oper.html" class="wikilink">2025-05-21_justice-gov_justice-department-seizes-domains-behind-major-information-stealing-malware-oper</a></td>
+<td>same_collection_url</td>
+<td><a href="https://www.justice.gov/opa/pr/justice-department-seizes-domains-behind-major-information-stealing-malware-operation" target="_blank" rel="noopener noreferrer" title="https://www.justice.gov/opa/pr/justice-department-seizes-domains-behind-major-information-stealing-malware-operation" data-full-url="https://www.justice.gov/opa/pr/justice-department-seizes-domains-behind-major-information-stealing-malware-operation" class="external-link">Link</a></td>
+</tr>
+<tr>
+<td style="text-align: right;">200</td>
+<td><a href="../../wiki/sources/2026-04-18_justice-gov_justice-department-seizes-domains-behind-major-information-stealing-malware-operation.html" class="wikilink">2026-04-18_justice-gov_justice-department-seizes-domains-behind-major-information-stealing-malware-operation</a></td>
+<td><a href="../../wiki/sources/2025-05-21_justice-gov_justice-department-seizes-domains-behind-major-information-stealing-malware-oper.html" class="wikilink">2025-05-21_justice-gov_justice-department-seizes-domains-behind-major-information-stealing-malware-oper</a></td>
+<td>same_collection_url</td>
+<td><a href="https://www.justice.gov/opa/pr/justice-department-seizes-domains-behind-major-information-stealing-malware-operation" target="_blank" rel="noopener noreferrer" title="https://www.justice.gov/opa/pr/justice-department-seizes-domains-behind-major-information-stealing-malware-operation" data-full-url="https://www.justice.gov/opa/pr/justice-department-seizes-domains-behind-major-information-stealing-malware-operation" class="external-link">Link</a></td>
+</tr>
+<tr>
+<td style="text-align: right;">...</td>
+<td>...</td>
+<td>...</td>
+<td>...</td>
+<td>+966 more aliases in <code>_workspace/source_duplicate_normalization_2026-04-26.csv</code></td>
+</tr>
+</tbody>
+</table>
+
+    </div>
+  </main>
+
+  <aside class="sidebar">
+
+
+    <div class="cat-nav">
+      <h3><span class="i18n" data-ko="카테고리" data-en="Categories"></span></h3>
+      <ul>
+
+        <li>
+          📜
+          <a href="../../category/legal-frameworks.html"
+             >
+            <span class="i18n" data-ko="법적 프레임워크" data-en="Legal Frameworks"></span>
+          </a>
+        </li>
+
+        <li>
+          🏛️
+          <a href="../../category/organizations.html"
+             >
+            <span class="i18n" data-ko="기관" data-en="Organizations"></span>
+          </a>
+        </li>
+
+        <li>
+          🌍
+          <a href="../../category/countries.html"
+             >
+            <span class="i18n" data-ko="국가" data-en="Countries"></span>
+          </a>
+        </li>
+
+        <li>
+          🎯
+          <a href="../../category/operations.html"
+             >
+            <span class="i18n" data-ko="작전" data-en="Operations"></span>
+          </a>
+        </li>
+
+        <li>
+          ⚖️
+          <a href="../../category/cases.html"
+             >
+            <span class="i18n" data-ko="사건" data-en="Cases"></span>
+          </a>
+        </li>
+
+        <li>
+          🔗
+          <a href="../../category/mechanisms.html"
+             >
+            <span class="i18n" data-ko="공조 메커니즘" data-en="Mechanisms"></span>
+          </a>
+        </li>
+
+        <li>
+          📋
+          <a href="../../category/procedures.html"
+             >
+            <span class="i18n" data-ko="절차" data-en="Procedures"></span>
+          </a>
+        </li>
+
+        <li>
+          🔒
+          <a href="../../category/crime-types.html"
+             >
+            <span class="i18n" data-ko="범죄유형" data-en="Crime Types"></span>
+          </a>
+        </li>
+
+        <li>
+          ⚠️
+          <a href="../../category/challenges.html"
+             >
+            <span class="i18n" data-ko="과제" data-en="Challenges"></span>
+          </a>
+        </li>
+
+        <li>
+          📖
+          <a href="../../category/concepts.html"
+             >
+            <span class="i18n" data-ko="법적 개념" data-en="Concepts"></span>
+          </a>
+        </li>
+
+        <li>
+          📰
+          <a href="../../category/sources.html"
+             >
+            <span class="i18n" data-ko="출처" data-en="Sources"></span>
+          </a>
+        </li>
+
+        <li>
+          📊
+          <a href="../../category/analysis.html"
+             style="font-weight:700">
+            <span class="i18n" data-ko="분석" data-en="Analysis"></span>
+          </a>
+        </li>
+
+        <li>
+          📅
+          <a href="../../category/timelines.html"
+             >
+            <span class="i18n" data-ko="타임라인" data-en="Timelines"></span>
+          </a>
+        </li>
+
+      </ul>
+    </div>
+  </aside>
+</div>
+
+
+  <div class="footer">
+    <span class="i18n"
+      data-ko="사이버범죄 국제공조 위키 &mdash; LLM Wiki Pattern &mdash; 2026-04-27 기준 데이터"
+      data-en="Cybercrime International Cooperation Wiki &mdash; LLM Wiki Pattern &mdash; Data as of 2026-04-27">
+    </span>
+  </div>
+
+  <script>
+  (function() {
+    // Language toggle system — Korean default
+    var STORAGE_KEY = 'wiki-lang';
+
+    function getLang() {
+      return localStorage.getItem(STORAGE_KEY) || 'ko';
+    }
+
+    function setLang(lang) {
+      localStorage.setItem(STORAGE_KEY, lang);
+      applyLang(lang);
+    }
+
+    function applyLang(lang) {
+      var html = document.documentElement;
+      html.classList.remove('lang-ko', 'lang-en');
+      html.classList.add('lang-' + lang);
+      html.setAttribute('lang', lang === 'ko' ? 'ko' : 'en');
+
+      // Update i18n text content
+      document.querySelectorAll('.i18n').forEach(function(el) {
+        var text = el.getAttribute('data-' + lang);
+        if (text) el.innerHTML = text;
+      });
+
+      // Update i18n placeholders
+      document.querySelectorAll('.i18n-placeholder').forEach(function(el) {
+        var text = el.getAttribute('data-' + lang);
+        if (text) el.setAttribute('placeholder', text);
+      });
+    }
+
+    // Toggle button
+    var btn = document.getElementById('langToggle');
+    if (btn) {
+      btn.addEventListener('click', function() {
+        var current = getLang();
+        setLang(current === 'ko' ? 'en' : 'ko');
+      });
+    }
+
+    // Apply saved language on load
+    applyLang(getLang());
+  })();
+  </script>
+</body>
+</html>

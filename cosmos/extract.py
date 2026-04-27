@@ -11,6 +11,12 @@ from datetime import datetime, timezone
 from pathlib import Path
 from typing import Any
 
+TOOLS_DIR = Path(__file__).resolve().parent.parent / "tools"
+if TOOLS_DIR.is_dir() and str(TOOLS_DIR) not in sys.path:
+    sys.path.insert(0, str(TOOLS_DIR))
+
+from operation_scope import operation_scope
+
 try:
     import yaml
 except ModuleNotFoundError:
@@ -52,7 +58,7 @@ META_MAP = {
     "legal-framework": [("status", "status"), ("entry_into_force", "entry_into_force"), ("parties_states_parties", "parties.states_parties")],
     "country": [("legal_system", "legal_system"), ("region", "region"), ("ic_capacity_rating", "ic_capacity.rating")],
     "organization": [("org_type", "org_type"), ("status", "status"), ("established", "established"), ("headquarters", "headquarters")],
-    "operation": [("status", "status"), ("operation_type", "operation_type"), ("outcome", "outcome"), ("results_arrests", "results.arrests")],
+    "operation": [("status", "status"), ("operation_role", "operation_role"), ("parent_operation", "parent_operation"), ("source_tier", "source_tier"), ("operation_type", "operation_type"), ("outcome", "outcome"), ("results_arrests", "results.arrests")],
     "case": [("status", "status"), ("case_type", "case_type"), ("jurisdiction", "jurisdiction")],
     "mechanism": [("mechanism_type", "mechanism_type"), ("formality", "formality"), ("speed", "speed")],
     "procedure": [("procedure_type", "procedure_type"), ("average_duration", "average_duration")],
@@ -206,6 +212,8 @@ def build_meta(page_type: str, frontmatter: dict[str, Any]) -> dict[str, Any]:
         value = nested_get(frontmatter, source_key)
         if value not in (None, "", [], {}):
             meta[out_key] = jsonable(value)
+    if page_type == "operation":
+        meta["operation_scope"] = operation_scope(frontmatter)
     return meta
 
 
@@ -363,6 +371,11 @@ def main() -> None:
             "broken_links": len(broken),
             "orphans": orphan_count,
             "by_type": dict(sorted(Counter(page["type"] for page in pages).items())),
+            "operation_scope": dict(sorted(Counter(
+                page["meta"].get("operation_scope", "")
+                for page in pages
+                if page["type"] == "operation"
+            ).items())),
         },
         "nodes": nodes,
         "edges": edges,

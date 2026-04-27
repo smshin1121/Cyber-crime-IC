@@ -15,6 +15,11 @@ import sys
 from pathlib import Path
 from typing import Any, Callable
 
+try:
+    from operation_scope import is_absorbed_operation
+except ModuleNotFoundError:  # pragma: no cover - package import fallback
+    from tools.operation_scope import is_absorbed_operation
+
 WIKI_DIR = Path(__file__).resolve().parent.parent / "wiki"
 
 # ---------------------------------------------------------------------------
@@ -278,6 +283,8 @@ def _row_operations(slug: str, meta: dict) -> tuple[list[str], tuple[str, str]]:
     case_id = _get(meta, "case_id", "—")
     period = _get(meta, "period", "—")
     status = _get(meta, "status", "—")
+    role = _get(meta, "operation_role", "—")
+    src_count = _count(meta, "source_count") or _count(meta, "sources")
     ci = meta.get("credibility_index", "")
     ci_str = f"{float(ci):.2f}" if isinstance(ci, (int, float)) or (isinstance(ci, str) and ci.replace(".", "", 1).isdigit()) else "—"
     if ci_str == "0.00":
@@ -288,7 +295,7 @@ def _row_operations(slug: str, meta: dict) -> tuple[list[str], tuple[str, str]]:
     # sort: empty case_id go last
     sort_key = (case_id if case_id != "—" else "ZZZ", slug)
     return (
-        [f"[[{slug}]]", case_id, period, status, ci_str, tier],
+        [f"[[{slug}]]", case_id, period, status, role, str(src_count), ci_str, tier],
         sort_key,
     )
 
@@ -451,7 +458,7 @@ CATEGORIES: dict[str, dict[str, Any]] = {
         "reverse_sort": False,
     },
     "operations": {
-        "headers": ["Operation", "Case ID", "Period", "Status", "CI", "Tier"],
+        "headers": ["Operation", "Case ID", "Period", "Status", "Role", "Sources", "CI", "Tier"],
         "row": _row_operations,
         "reverse_sort": False,
     },
@@ -543,6 +550,29 @@ def build_index_table(category: str, pages: list[tuple[str, dict]]) -> str:
     return "\n".join(lines)
 
 
+def _build_rows_table(category: str, pages: list[tuple[str, dict]]) -> str:
+    """Build a table for an already-filtered page set."""
+    return build_index_table(category, pages)
+
+
+def build_operations_index_table(pages: list[tuple[str, dict]]) -> str:
+    canonical = [(slug, meta) for slug, meta in pages if not is_absorbed_operation(meta)]
+    absorbed = [(slug, meta) for slug, meta in pages if is_absorbed_operation(meta)]
+
+    return "\n\n".join([
+        f"## Canonical Operations ({len(canonical)})",
+        _build_rows_table("operations", canonical),
+        f"## Absorbed Follow-On Records ({len(absorbed)})",
+        (
+            "These records are retained as traceable prosecution, sentencing, plea, "
+            "forfeiture, or action-day wrappers. They should not be counted as "
+            "separate international-cooperation operations unless promoted to "
+            "canonical records after review."
+        ),
+        _build_rows_table("operations", absorbed),
+    ])
+
+
 # ---------------------------------------------------------------------------
 # _index.md rewrite
 # ---------------------------------------------------------------------------
@@ -584,6 +614,9 @@ def _split_index(text: str) -> tuple[str, str, str]:
 
 
 _TITLE_COUNT_RE = re.compile(r"^(# [^\n(]+?)(?:\s*\(\d+\))?\s*$", re.MULTILINE)
+_OP_GENERATED_BEGIN = "<!-- BEGIN GENERATED OPERATIONS INDEX -->"
+_OP_GENERATED_END = "<!-- END GENERATED OPERATIONS INDEX -->"
+_INDEX_ROW_LINK_RE = re.compile(r"^\|.*?\[\[", re.MULTILINE)
 
 
 def _update_title_count(prefix: str, count: int) -> str:
@@ -598,6 +631,32 @@ def _update_title_count(prefix: str, count: int) -> str:
     return new_prefix
 
 
+def _update_operations_heading(prefix: str, canonical: int, absorbed: int, total: int) -> str:
+    heading = f"# Operations ({canonical} canonical / {absorbed} absorbed / {total} records)"
+    new_prefix, n = re.subn(r"^# Operations.*$", heading, prefix, count=1, flags=re.MULTILINE)
+    if n:
+        return new_prefix
+    if prefix.endswith("\n"):
+        return prefix + "\n" + heading + "\n"
+    return prefix + "\n\n" + heading + "\n"
+
+
+def _split_operations_index(text: str) -> tuple[str, str]:
+    """Return (prefix, suffix) around the generated operations index block."""
+    if _OP_GENERATED_BEGIN in text and _OP_GENERATED_END in text:
+        before, rest = text.split(_OP_GENERATED_BEGIN, 1)
+        _block, after = rest.split(_OP_GENERATED_END, 1)
+        return before.rstrip("\n"), after.lstrip("\n")
+    prefix, _old_table, suffix = _split_index(text)
+    # Legacy operations index had only one generated table. Drop that table
+    # and any generated suffix so the new two-section index is idempotent.
+    return prefix.rstrip("\n"), ""
+
+
+def _operation_index_row_count(text: str) -> int:
+    return len(_INDEX_ROW_LINK_RE.findall(text))
+
+
 def update_category_index(category: str, dry_run: bool = False) -> tuple[bool, int, int]:
     """Regenerate _index.md for a category.
 
@@ -607,22 +666,58 @@ def update_category_index(category: str, dry_run: bool = False) -> tuple[bool, i
     index_path = cat_dir / "_index.md"
     pages = load_category_pages(category)
     new_row_count = len(pages)
+    if category == "operations":
+        canonical_count = sum(1 for _slug, meta in pages if not is_absorbed_operation(meta))
+        absorbed_count = new_row_count - canonical_count
 
     if not index_path.exists():
         # Create a minimal stub
         cfg = CATEGORIES[category]
         header_title = category.replace("-", " ").title()
-        new_table = build_index_table(category, pages)
-        new_text = (
-            f"---\ntype: category-index\ntitle: \"{header_title}\"\n"
-            f"category: {category}\n---\n\n# {header_title} ({new_row_count})\n\n{new_table}\n"
-        )
+        if category == "operations":
+            new_table = build_operations_index_table(pages)
+            heading = f"# Operations ({canonical_count} canonical / {absorbed_count} absorbed / {new_row_count} records)"
+            new_text = (
+                f"---\ntype: category-index\ntitle: \"{header_title}\"\n"
+                f"category: {category}\n---\n\n{heading}\n\n"
+                f"{_OP_GENERATED_BEGIN}\n{new_table}\n{_OP_GENERATED_END}\n"
+            )
+        else:
+            new_table = build_index_table(category, pages)
+            new_text = (
+                f"---\ntype: category-index\ntitle: \"{header_title}\"\n"
+                f"category: {category}\n---\n\n# {header_title} ({new_row_count})\n\n{new_table}\n"
+            )
         old_row_count = 0
         if not dry_run:
             index_path.write_text(new_text, encoding="utf-8")
         return True, old_row_count, new_row_count
 
     original = index_path.read_text(encoding="utf-8")
+    if category == "operations":
+        old_row_count = _operation_index_row_count(original)
+        prefix, suffix = _split_operations_index(original)
+        prefix = _update_operations_heading(prefix, canonical_count, absorbed_count, new_row_count)
+        new_table = build_operations_index_table(pages)
+        new_content = (
+            prefix.rstrip("\n")
+            + "\n\n"
+            + _OP_GENERATED_BEGIN
+            + "\n"
+            + new_table
+            + "\n"
+            + _OP_GENERATED_END
+            + "\n"
+        )
+        if suffix.strip():
+            new_content += "\n" + suffix.lstrip("\n")
+            if not new_content.endswith("\n"):
+                new_content += "\n"
+        changed = new_content != original
+        if changed and not dry_run:
+            index_path.write_text(new_content, encoding="utf-8")
+        return changed, old_row_count, new_row_count
+
     prefix, old_table, suffix = _split_index(original)
 
     # Count old rows: lines that start with '|' minus 2 (header + separator)
@@ -678,16 +773,30 @@ def update_master_index(counts: dict[str, int], dry_run: bool = False) -> bool:
         return False
     text = master.read_text(encoding="utf-8")
     original = text
+    operation_pages = load_category_pages("operations")
+    canonical_ops = sum(1 for _slug, meta in operation_pages if not is_absorbed_operation(meta))
+    absorbed_ops = len(operation_pages) - canonical_ops
 
     # Update "## Heading (N)" lines
     for cat, heading in MASTER_CATEGORY_HEADINGS.items():
         n = counts.get(cat, 0)
-        pattern = re.compile(rf"^(## {re.escape(heading)})\s*\(\d+\)\s*$", re.MULTILINE)
-        text, _ = pattern.subn(rf"\1 ({n})", text)
+        if cat == "operations":
+            pattern = re.compile(rf"^(## {re.escape(heading)}).*?$", re.MULTILINE)
+            text, _ = pattern.subn(
+                rf"\1 ({canonical_ops} canonical / {absorbed_ops} absorbed / {n} records)",
+                text,
+            )
+        else:
+            pattern = re.compile(rf"^(## {re.escape(heading)})\s*\(\d+\)\s*$", re.MULTILINE)
+            text, _ = pattern.subn(rf"\1 ({n})", text)
 
     # Update "full list of N operations" style references
     ops = counts.get("operations", 0)
-    text = re.sub(r"full list of \d+ operations", f"full list of {ops} operations", text)
+    text = re.sub(
+        r"full list of \d+(?: canonical)? operations(?: \(\d+ absorbed follow-on records; \d+ total records\))?",
+        f"full list of {canonical_ops} canonical operations ({absorbed_ops} absorbed follow-on records; {ops} total records)",
+        text,
+    )
     srcs = counts.get("sources", 0)
     text = re.sub(
         r"full list of \d+ dedicated source pages",

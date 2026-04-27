@@ -83,6 +83,8 @@
         title: title,
         title_ko: titleKo,
         type: p.type || '',
+        status: p.status || '',
+        operation_scope: p.operation_scope || '',
         snippet: '...' + snippet + '...',
         titleHit: title.toLowerCase().indexOf(qLower) >= 0 || titleKo.toLowerCase().indexOf(qLower) >= 0
       });
@@ -140,6 +142,12 @@
         tLabel.setAttribute('data-en', 'Type');
         metaDiv.appendChild(tLabel);
         metaDiv.appendChild(document.createTextNode(': ' + r.type));
+      }
+      if (r.operation_scope) {
+        metaDiv.appendChild(document.createTextNode(' · Scope: ' + (r.operation_scope === 'absorbed_follow_on' ? 'absorbed follow-on' : 'canonical')));
+      }
+      if (r.status) {
+        metaDiv.appendChild(document.createTextNode(' · Status: ' + r.status));
       }
       wrap.appendChild(metaDiv);
       frag.appendChild(wrap);

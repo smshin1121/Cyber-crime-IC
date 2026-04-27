@@ -1,6 +1,39 @@
 {% extends "base.html" %}
 {% block title %}{{ cat_info.label }} — 사이버범죄 국제공조 위키{% endblock %}
 
+{% macro category_card(p, category) %}
+<div class="cat-card">
+  <h3><a href="/wiki/{{ category }}/{{ p.slug }}">
+    {% if p.meta.get('title_ko') %}
+      <span class="heading-ko">{{ p.meta['title_ko'] }}</span>
+      <span class="heading-en">{{ p.title }}</span>
+    {% else %}
+      {{ p.title }}
+    {% endif %}
+  </a></h3>
+  <span class="type-badge">{{ p.type }}</span>
+  {% if category == 'operations' and p.operation_scope %}
+    {% if p.operation_scope == 'absorbed_follow_on' %}
+      <span class="type-badge">absorbed follow-on</span>
+    {% else %}
+      <span class="type-badge">canonical</span>
+    {% endif %}
+  {% endif %}
+  {% if category == 'operations' and p.meta.get('operation_role') %}
+    <span class="type-badge">{{ p.meta['operation_role'] }}</span>
+  {% endif %}
+  {% if p.meta.get('status') %}
+    <span class="type-badge">{{ p.meta['status'] }}</span>
+  {% endif %}
+  {% if category == 'operations' and p.meta.get('parent_operation') %}
+    <span class="type-badge">{{ p.meta['parent_operation'] }}</span>
+  {% endif %}
+  {% if p.meta.get('source_count') %}
+    <span class="type-badge"><span class="i18n" data-ko="출처" data-en="Sources"></span> {{ p.meta['source_count'] }}<span class="i18n" data-ko="건" data-en=""></span></span>
+  {% endif %}
+</div>
+{% endmacro %}
+
 {% block body %}
 <div class="page-wrapper full-width">
   <main class="article">
@@ -9,36 +42,45 @@
         <span class="i18n" data-ko="{{ cat_info.label }}" data-en="{{ cat_info.get('label_en', cat_info.label) }}"></span>
       </h1>
       <div class="article-meta">
-        <span>{{ pages|length }}<span class="i18n" data-ko="개 문서" data-en=" pages"></span></span>
-      </div>
-    </div>
-    <div class="cat-grid">
-      {% for p in pages %}
-      <div class="cat-card">
-        <h3><a href="/wiki/{{ category }}/{{ p.slug }}">
-          {% if p.meta.get('title_ko') %}
-            <span class="heading-ko">{{ p.meta['title_ko'] }}</span>
-            <span class="heading-en">{{ p.title }}</span>
-          {% else %}
-            {{ p.title }}
-          {% endif %}
-        </a></h3>
-        <span class="type-badge">{{ p.type }}</span>
-        {% if category == 'operations' and p.meta.get('operation_role') %}
-          <span class="type-badge">{{ p.meta['operation_role'] }}</span>
-        {% endif %}
-        {% if p.meta.get('status') %}
-          <span class="type-badge">{{ p.meta['status'] }}</span>
-        {% endif %}
-        {% if category == 'operations' and p.meta.get('parent_operation') %}
-          <span class="type-badge">{{ p.meta['parent_operation'] }}</span>
-        {% endif %}
-        {% if p.meta.get('source_count') %}
-          <span class="type-badge"><span class="i18n" data-ko="출처" data-en="Sources"></span> {{ p.meta['source_count'] }}<span class="i18n" data-ko="건" data-en=""></span></span>
+        {% if category == 'operations' and operation_counts %}
+          <span>{{ operation_counts.canonical }} canonical</span>
+          <span>{{ operation_counts.absorbed }} absorbed</span>
+          <span>{{ operation_counts.total }} total records</span>
+        {% else %}
+          <span>{{ pages|length }}<span class="i18n" data-ko="개 문서" data-en=" pages"></span></span>
         {% endif %}
       </div>
-      {% endfor %}
     </div>
+
+    {% if category == 'operations' and operation_counts %}
+      <div class="article-body">
+        <p>
+          <span class="i18n"
+            data-ko="기본 통계와 지도/그래프는 정본 작전만 집계합니다. 흡수 follow-on 기록은 사건·기소·선고·몰수 등 추적용 레코드로 보존됩니다."
+            data-en="Default statistics and map/graph views count canonical operations only. Absorbed follow-on records are retained as traceable case, prosecution, sentencing, forfeiture, or action records."></span>
+        </p>
+      </div>
+
+      <h2><span class="heading-ko">정본 작전</span><span class="heading-en">Canonical Operations</span> ({{ operation_counts.canonical }})</h2>
+      <div class="cat-grid">
+        {% for p in canonical_pages %}
+          {{ category_card(p, category) }}
+        {% endfor %}
+      </div>
+
+      <h2><span class="heading-ko">흡수 Follow-On 기록</span><span class="heading-en">Absorbed Follow-On Records</span> ({{ operation_counts.absorbed }})</h2>
+      <div class="cat-grid">
+        {% for p in absorbed_pages %}
+          {{ category_card(p, category) }}
+        {% endfor %}
+      </div>
+    {% else %}
+      <div class="cat-grid">
+        {% for p in pages %}
+          {{ category_card(p, category) }}
+        {% endfor %}
+      </div>
+    {% endif %}
   </main>
 </div>
 {% endblock %}

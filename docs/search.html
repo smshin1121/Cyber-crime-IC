@@ -43,7 +43,7 @@
     </div>
   </nav>
 
-  
+
 <div class="page-wrapper full-width">
   <main class="article">
     <div class="article-header">
@@ -125,6 +125,8 @@
         title: title,
         title_ko: titleKo,
         type: p.type || '',
+        status: p.status || '',
+        operation_scope: p.operation_scope || '',
         snippet: '...' + snippet + '...',
         titleHit: title.toLowerCase().indexOf(qLower) >= 0 || titleKo.toLowerCase().indexOf(qLower) >= 0
       });
@@ -183,6 +185,12 @@
         metaDiv.appendChild(tLabel);
         metaDiv.appendChild(document.createTextNode(': ' + r.type));
       }
+      if (r.operation_scope) {
+        metaDiv.appendChild(document.createTextNode(' · Scope: ' + (r.operation_scope === 'absorbed_follow_on' ? 'absorbed follow-on' : 'canonical')));
+      }
+      if (r.status) {
+        metaDiv.appendChild(document.createTextNode(' · Status: ' + r.status));
+      }
       wrap.appendChild(metaDiv);
       frag.appendChild(wrap);
     }
@@ -197,8 +205,8 @@
 
   <div class="footer">
     <span class="i18n"
-      data-ko="사이버범죄 국제공조 위키 &mdash; LLM Wiki Pattern &mdash; 2026-04-26 기준 데이터"
-      data-en="Cybercrime International Cooperation Wiki &mdash; LLM Wiki Pattern &mdash; Data as of 2026-04-26">
+      data-ko="사이버범죄 국제공조 위키 &mdash; LLM Wiki Pattern &mdash; 2026-04-27 기준 데이터"
+      data-en="Cybercrime International Cooperation Wiki &mdash; LLM Wiki Pattern &mdash; Data as of 2026-04-27">
     </span>
   </div>
 

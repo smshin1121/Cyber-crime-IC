@@ -26,6 +26,11 @@ from markupsafe import Markup
 app = Flask(__name__)
 
 WIKI_DIR = Path(__file__).resolve().parent.parent / "wiki"
+TOOLS_DIR = Path(__file__).resolve().parent.parent / "tools"
+if TOOLS_DIR.is_dir() and str(TOOLS_DIR) not in sys.path:
+    sys.path.insert(0, str(TOOLS_DIR))
+
+from operation_scope import ABSORBED_SCOPE, CANONICAL_SCOPE, operation_scope
 
 # Category metadata (Korean labels)
 CATEGORIES = {
@@ -424,12 +429,14 @@ def get_all_pages():
             meta = {}
         slug = md_file.stem
         cat = get_category_for_file(md_file)
+        op_scope = operation_scope(meta) if cat == "operations" or meta.get("type") == "operation" else ""
         pages.append({
             "slug": slug,
             "category": cat,
             "title": meta.get("title", slug.replace("-", " ").title()),
             "type": meta.get("type", ""),
             "meta": meta,
+            "operation_scope": op_scope,
         })
     return pages
 
@@ -1276,16 +1283,40 @@ def category_list(category):
             meta, _ = parse_page(md_file)
         except Exception:
             meta = {}
+        op_scope = operation_scope(meta) if category == "operations" or meta.get("type") == "operation" else ""
         pages.append({
             "slug": md_file.stem,
             "title": meta.get("title", md_file.stem.replace("-", " ").title()),
             "type": meta.get("type", ""),
             "meta": meta,
+            "operation_scope": op_scope,
         })
+    operation_counts = None
+    canonical_pages = []
+    absorbed_pages = []
+    if category == "operations":
+        canonical_pages = [p for p in pages if p["operation_scope"] == CANONICAL_SCOPE]
+        absorbed_pages = [p for p in pages if p["operation_scope"] == ABSORBED_SCOPE]
+
+        def op_sort_key(page):
+            meta = page.get("meta") or {}
+            return (str(meta.get("case_id") or "ZZZ"), page["slug"])
+
+        canonical_pages.sort(key=op_sort_key)
+        absorbed_pages.sort(key=op_sort_key)
+        pages = canonical_pages + absorbed_pages
+        operation_counts = {
+            "canonical": len(canonical_pages),
+            "absorbed": len(absorbed_pages),
+            "total": len(pages),
+        }
     cat_info = CATEGORIES.get(category, {"label": category, "icon": "📄"})
     return render_template(
         "category.html", category=category,
         cat_info=cat_info, pages=pages,
+        operation_counts=operation_counts,
+        canonical_pages=canonical_pages,
+        absorbed_pages=absorbed_pages,
     )
 
 
@@ -1313,12 +1344,15 @@ def search():
             end = min(len(searchable), idx + len(query_lower) + 80)
             snippet = searchable[start:end].strip()
             cat = get_category_for_file(md_file)
+            op_scope = operation_scope(meta) if cat == "operations" or meta.get("type") == "operation" else ""
             results.append({
                 "slug": md_file.stem,
                 "category": cat,
                 "title": title,
                 "title_ko": title_ko,
                 "type": meta.get("type", ""),
+                "status": meta.get("status", ""),
+                "operation_scope": op_scope,
                 "snippet": f"...{snippet}...",
             })
     results.sort(key=lambda r: query_lower in (r["title"] or "").lower(), reverse=True)
@@ -1333,7 +1367,9 @@ def stats():
         cat = p["category"] or "_root"
         cat_counts[cat] = cat_counts.get(cat, 0) + 1
     total_sources = cat_counts.get("sources", 0)
-    total_ops = cat_counts.get("operations", 0)
+    total_operation_records = cat_counts.get("operations", 0)
+    total_ops = 0
+    absorbed_ops = 0
 
     # Aggregate operation metrics
     op_stats = {
@@ -1350,6 +1386,10 @@ def stats():
                 meta, _ = parse_page(md_file)
             except Exception:
                 continue
+            if operation_scope(meta) == ABSORBED_SCOPE:
+                absorbed_ops += 1
+                continue
+            total_ops += 1
             # Metrics
             metrics = meta.get("metrics") or meta.get("results") or {}
             if isinstance(metrics, dict):
@@ -1410,6 +1450,8 @@ def stats():
         "stats.html", total=len(all_pages),
         cat_counts=cat_counts, categories=CATEGORIES,
         total_sources=total_sources, total_ops=total_ops,
+        total_operation_records=total_operation_records,
+        absorbed_ops=absorbed_ops,
         op_stats=op_stats, source_domains=source_domains,
     )
 

@@ -34,8 +34,8 @@
 - [[united-kingdom]] — Common law; Budapest party (2011); NCA (NCCU); led Operation Cronos; Five Eyes; post-Brexit Europol cooperation
 - [[united-states]] — Common law; Budapest party (2006); FBI/DOJ/Secret Service; CLOUD Act; 30+ MLATs; highest IC network centrality
 
-## Operations (1085)
-See the operations index (`wiki/operations/_index.md`) for the full list of 1085 operations (2014-2026).
+## Operations (125 canonical / 960 absorbed / 1085 records)
+See the operations index (`wiki/operations/_index.md`) for the full list of 125 canonical operations (960 absorbed follow-on records; 1085 total records) (2014-2026).
 
 Recent highlights:
 - [[proxy-service-takedown-2026-03]] — Eurojust + Europol (2026); FR/AT/NL/US (+4 unnamed); 102 victim countries
