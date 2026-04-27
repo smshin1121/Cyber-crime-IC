@@ -42,14 +42,10 @@ results:
 
   servers_seized: 0
   victims_notified: 0
-source_count: 5
+source_count: 1
 source_tier: 3
 sources:
   - "[[bbc-banking-trojan-fraud-sentencing]]"
-  - "[[2025-06-25_helpnetsecurity-com_the-downfall-of-a-major-cybercrime-ring-exploiting-banking-trojans]]"
-  - "[[2015-06-25_scworld-com_europol-takes-down-high-profile-ukraine-based-cybergang]]"
-  - "[[2015-06-27_thehackernews-com_europol-arrests-gang-behind-zeus-and-spyeye-banking-malware]]"
-  - "[[2015-06-29_techmonitor-ai_zeus-spyeye-malware-gang-members-arrested-in-ukraine]]"
 status: absorbed
 target_entity: "Banking fraud perpetrator (used home IP)"
 timeframe:
@@ -60,7 +56,7 @@ timeframe:
 title: "Banking Trojan Fraud Sentencing"
 title_ko: "뱅킹 트로이목마 사기 판결"
 type: operation
-updated: 2026-04-26
+updated: 2026-04-27
 operation_role: follow-on
 parent_operation: "[[zeus-spyeye-jit-takedown]]"
 summary: "A cybercriminal who used banking trojans for financial fraud was sentenced to **5 years in prison** after being identified in part because he used his home IP address during the fraud. The case illustrates how basic operational security failures can enable law enforcement to identify and prosecute cybercriminals even in technically sophisticated fraud schemes."
@@ -155,7 +151,3 @@ No Korean involvement identified.
 | # | Title | Publisher | Date | URL |
 |---|---|---|---|---|
 | [1] | BBC News: Polish Banking Trojan Fraudster (Tomasz Skowron) Sentenced to Five Years | BBC News | 2018-04-26 | https://www.bbc.com/news/uk-43893420 |
-| [2] | The downfall of a major cybercrime ring exploiting banking Trojans | Help Net Security | 2015-06-25 | https://www.helpnetsecurity.com/2015/06/25/the-downfall-of-a-major-cybercrime-ring-exploiting-banking-trojans/ |
-| [3] | Europol takes down high profile Ukraine-based cybergang | SC Media | 2015-06-25 | https://www.scworld.com/news/europol-takes-down-high-profile-ukraine-based-cybergang |
-| [4] | Europol Arrests Gang Behind Zeus and SpyEye Banking Malware | The Hacker News | 2015-06-27 | https://thehackernews.com/2015/06/zeus-spyeye-banking-malware.html?m=1 |
-| [5] | Zeus & SpyEye malware gang members arrested in Ukraine | Tech Monitor | 2015-06-29 | https://www.techmonitor.ai/hardware/zeus-spyeye-malware-gang-members-arrested-in-ukraine-4611234 |

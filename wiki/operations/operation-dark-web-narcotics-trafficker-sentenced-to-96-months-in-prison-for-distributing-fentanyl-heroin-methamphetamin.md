@@ -54,30 +54,28 @@ results:
     - "Defendant pleaded guilty in April 2021 and was sentenced to 96 months in November 2021."
     - "Public filings linked package interception activity to shipments routed from the Netherlands and Canada."
     - "The offense conduct involved more than 600 Wall Street Market transactions."
-edges: []
+edges:
+  []
 credibility_index: 4.21
 source_tier: 1
-missing_fields: []
+missing_fields:
+  []
 related_cases:
   - "[[dark-web-narcotics-trafficker-sentenced-to-96-months-in-prison-for-distributing-fentanyl-heroin-methamphetamin]]"
-related_operations: []
-challenges_encountered: []
+related_operations:
+  []
+challenges_encountered:
+  []
 lessons_learned:
   - "Dark-web narcotics cases often require stitching together marketplace evidence, cryptocurrency payments, and cross-border package interception."
   - "Follow-on operation pages should preserve indictment and plea context rather than only the sentencing headline."
-source_count: 6
+source_count: 1
 sources:
-  - "[[2020-01-02_justice-gov_alleged-dark-web-narcotics-trafficker-indicted-distributing-heroin-and-methamphetamine]]"
-  - "[[2020-01-02_dea_alleged-dark-web-narcotics-trafficker-indicted-for-distributing-heroin]]"
   - "[[2021-11-03_justice-gov_united-states-v-joanna-de-alba]]"
-  - "[[2021-11-03_dea_dark-web-narcotics-trafficker-sentenced-96-months-prison]]"
-  - "[[2020-01-03_decrypt_dark-web-vendor-indicted-for-selling-heroin-for-bitcoin]]"
-  - "[[2021-11-05_morelaw_united-states-of-america-v-joanna-de-alba]]"
 summary: "This follow-on operation captures the indictment-to-sentencing enforcement sequence against Joanna De Alba for selling narcotics over Wall Street Market in exchange for cryptocurrency."
 created: 2026-04-18
-updated: 2026-04-26
+updated: 2026-04-27
 ---
-
 > [!note] Source basis
 > This follow-on action now uses both indictment and sentencing releases from DOJ and DEA, plus independent legal and media corroboration, so the page no longer rests on a single sentencing headline.
 
@@ -156,11 +154,6 @@ This was a domestic U.S. prosecution, but the cited charging record has a cross-
 
 ## References
 
-| # | Source | Publisher | Date | URL |
+| # | Title | Publisher | Date | URL |
 |---|---|---|---|---|
-| [1] | Alleged Dark Web Narcotics Trafficker Indicted for Distributing Heroin and Methamphetamine in Exchange for Bitcoin | USAO Eastern District of New York | 2020-01-02 | https://www.justice.gov/usao-edny/pr/alleged-dark-web-narcotics-trafficker-indicted-distributing-heroin-and-methamphetamine |
-| [2] | Alleged dark web narcotics trafficker indicted for distributing heroin and methamphetamine in exchange for bitcoin | Drug Enforcement Administration | 2020-01-02 | https://www.dea.gov/press-releases/2020/01/02/alleged-dark-web-narcotics-trafficker-indicted-for-distributing-heroin |
-| [3] | Dark Web Narcotics Trafficker Sentenced to 96 Months in Prison for Distributing Fentanyl, Heroin, Methamphetamine, Cocaine, Oxycodone and Methadone | USAO Eastern District of New York | 2021-11-03 | https://www.justice.gov/usao-edny/pr/dark-web-narcotics-trafficker-sentenced-96-months-prison-distributing-fentanyl-heroin |
-| [4] | Dark Web Narcotics Trafficker Sentenced to 96 Months in Prison | Drug Enforcement Administration | 2021-11-03 | https://www.dea.gov/press-releases/2021/11/03/dark-web-narcotics-trafficker-sentenced-96-months-prison |
-| [5] | Dark Web vendor indicted for selling heroin for bitcoin | Decrypt | 2020-01-03 | https://decrypt.co/15852/dark-web-vendor-indicted-for-selling-heroin-for-bitcoin |
-| [6] | United States of America v. Joanna De Alba | MoreLaw | 2021-11-05 | https://www.morelaw.com/verdicts/case.asp?d=158038&n=1%3A19-cr-00563-DLI&s=NY |
+| [1] | Dark Web Narcotics Trafficker Sentenced to 96 Months in Prison for Distributing Fentanyl, Heroin, Methamphetamine, Cocaine, Oxycodone and Methadone | US DOJ (Eastern District of New York) | 2021-11-03 | https://www.justice.gov/usao-edny/pr/dark-web-narcotics-trafficker-sentenced-96-months-prison-distributing-fentanyl-heroin |

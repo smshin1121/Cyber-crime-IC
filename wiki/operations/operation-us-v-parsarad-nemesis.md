@@ -51,26 +51,26 @@ results:
   other:
     - "Follow-on charging action derived from the Nemesis infrastructure seizure"
     - "Parallel OFAC sanctions action taken in March 2025"
-edges: []
+edges:
+  []
 credibility_index: 4.25
 source_tier: 1
-missing_fields: []
+missing_fields:
+  []
 related_cases:
   - "[[us-v-parsarad-nemesis]]"
 related_operations:
   - "[[nemesis-market-takedown]]"
-challenges_encountered: []
-lessons_learned: []
-source_count: 5
+challenges_encountered:
+  []
+lessons_learned:
+  []
+source_count: 1
 sources:
   - "[[2025-04-17_opa_parsarad-nemesis-indictment]]"
-  - "[[2026-04-18_justice-gov_iranian-national-indicted-operating-online-marketplace-offering-fentanyl-other-drugs]]"
-  - "[[2025-03-04_treasury-gov_treasury-sanctions-head-of-online-darknet-marketplace-tied-to-fentanyl-sales]]"
-  - "[[2024-03-21_bka-de_illegaler-darknet-marktplatz-nemesis-market-abgeschaltet]]"
-  - "[[2026-04-18_justice-gov_iranian-national-indicted-operating-online-marketplace-offering-fentanyl-and-money]]"
 summary: "This follow-on enforcement action captures the post-seizure charging and sanctions phase directed at Behrouz Parsarad after the Nemesis infrastructure seizure."
 created: 2026-04-17
-updated: 2026-04-26
+updated: 2026-04-27
 ---
 ## Summary
 
@@ -132,10 +132,6 @@ The operation-side value of this page is that it preserves the shift from techni
 
 ## References
 
-| # | Source | Publisher | Date | URL |
+| # | Title | Publisher | Date | URL |
 |---|---|---|---|---|
-| 1 | Administrator of Nemesis Market Charged for Role Operating Darknet Marketplace | DOJ OPA | 2025-04-17 | https://www.justice.gov/opa/pr/administrator-nemesis-market-charged-role-operating-darknet-marketplace |
-| 2 | Iranian National Indicted for Operating Online Marketplace Offering Fentanyl, Other Drugs, and Money Laundering Services | USAO ND Ohio | 2025-04-17 | https://www.justice.gov/usao-ndoh/pr/iranian-national-indicted-operating-online-marketplace-offering-fentanyl-other-drugs |
-| 3 | Treasury Sanctions Head of Online Darknet Marketplace Tied to Fentanyl Sales | U.S. Treasury | 2025-03-04 | https://home.treasury.gov/news/press-releases/sb0040 |
-| 4 | Illegaler Darknet-Marktplatz "Nemesis Market" abgeschaltet | BKA / ZIT | 2024-03-21 | https://www.bka.de/DE/Presse/Listenseite_Pressemitteilungen/2024/Presse2024/240321_PM_Nemesis_Market.html |
-| 5 | Iranian National Indicted for Operating Online Marketplace Offering Fentanyl and Money Laundering Services | DOJ OPA | 2025-04-17 | https://www.justice.gov/opa/pr/iranian-national-indicted-operating-online-marketplace-offering-fentanyl-and-money |
+| [1] | Page not found | U.S. Department of Justice | 2025-04-17 | https://www.justice.gov/opa/pr/administrator-nemesis-market-charged-role-operating-darknet-marketplace |

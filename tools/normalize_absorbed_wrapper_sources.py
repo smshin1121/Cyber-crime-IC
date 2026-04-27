@@ -4,6 +4,7 @@ import argparse
 import csv
 import re
 from dataclasses import dataclass
+from datetime import date
 from pathlib import Path
 from typing import Any
 
@@ -17,7 +18,8 @@ ROOT = Path(__file__).resolve().parent.parent
 WIKI_DIR = ROOT / "wiki"
 SOURCES_DIR = WIKI_DIR / "sources"
 WORKSPACE = ROOT / "_workspace"
-REPORT_PATH = WIKI_DIR / "analysis" / "absorbed-wrapper-source-normalization-2026-04-26.md"
+TODAY = date.today().isoformat()
+REPORT_PATH = WIKI_DIR / "analysis" / f"absorbed-wrapper-source-normalization-{TODAY}.md"
 
 
 @dataclass(frozen=True)
@@ -210,7 +212,7 @@ def process_page(path: Path, apply: bool) -> WrapperChange | None:
         sanitize_aliases(meta)
         meta["source_count"] = 1
         meta["sources"] = [wikilink(kept.slug)]
-        meta["updated"] = "2026-04-26"
+        meta["updated"] = TODAY
         post.metadata = meta
         post.content = replace_references(body, [kept.slug])
         path.write_text(frontmatter.dumps(post), encoding="utf-8")
@@ -226,7 +228,7 @@ def process_page(path: Path, apply: bool) -> WrapperChange | None:
 
 
 def write_csv(changes: list[WrapperChange]) -> Path:
-    path = WORKSPACE / "absorbed_wrapper_source_normalization_2026-04-26.csv"
+    path = WORKSPACE / f"absorbed_wrapper_source_normalization_{TODAY}.csv"
     path.parent.mkdir(parents=True, exist_ok=True)
     with path.open("w", encoding="utf-8", newline="") as handle:
         writer = csv.writer(handle)
@@ -270,10 +272,10 @@ def render_report(changes: list[WrapperChange], applied: bool) -> str:
     removed_count = sum(len(change.removed) for change in changes)
     lines = [
         "---",
-        "title: Absorbed Wrapper Source Normalization (2026-04-26)",
+        f"title: Absorbed Wrapper Source Normalization ({TODAY})",
         "type: analysis",
-        "created: 2026-04-26",
-        "updated: 2026-04-26",
+        f"created: {TODAY}",
+        f"updated: {TODAY}",
         'summary: "Normalization log for absorbed wrapper pages that previously carried multiple references."',
         "source_count: 0",
         "---",

@@ -23,10 +23,9 @@ This audit checks whether operation and case pages contain enough source-backed 
 | Issue | Count |
 |---|---:|
 | absorbed_wrapper_too_sparse | 762 |
-| high_source_to_body_gap | 52 |
+| high_source_to_body_gap | 46 |
 | raw_available_underused | 25 |
 | possible_crime_type_mismatch | 5 |
-| absorbed_wrapper_role_check | 1 |
 
 ## Top 100 Priority Queue
 
@@ -34,8 +33,8 @@ This audit checks whether operation and case pages contain enough source-backed 
 |---:|---|---|---:|---:|---:|---:|---|
 | 1 | [[australian-man-arrested-in-germany-accused-of-running-world-s-largest-darknet-marketplace]] | case | 34 | 5 | 447 | 8894 | raw_available_underused:8894w_sources, high_source_to_body_gap |
 | 2 | [[operation-eur-100m-illegal-financial-service-laundering-2025]] | operation | 34 | 5 | 426 | 3881 | raw_available_underused:3881w_sources, high_source_to_body_gap |
-| 3 | [[operation-french-coder-who-helped-extort-british-company-arrested-in-thailand]] | operation | 34 | 5 | 391 | 2598 | raw_available_underused:2598w_sources, high_source_to_body_gap |
-| 4 | [[operation-germany-romania-trusted-seller-fraud-2025]] | operation | 34 | 5 | 368 | 5255 | raw_available_underused:5255w_sources, high_source_to_body_gap |
+| 3 | [[operation-germany-romania-trusted-seller-fraud-2025]] | operation | 34 | 5 | 368 | 5255 | raw_available_underused:5255w_sources, high_source_to_body_gap |
+| 4 | [[operation-shrouded-horizon]] | operation | 34 | 5 | 415 | 7311 | raw_available_underused:7311w_sources, high_source_to_body_gap |
 | 5 | [[romania-phishing-takedown-2024]] | operation | 34 | 5 | 375 | 4242 | raw_available_underused:4242w_sources, high_source_to_body_gap |
 | 6 | [[bremerton-washington-man-sentenced-to-3-years-in-prison-for-extensive-swatting-campaign-targeting-victims-in-u]] | case | 22 | 5 | 427 | 1620 | raw_available_underused:1620w_sources |
 | 7 | [[operation-eur-100m-crypto-investment-fraud-2025]] | operation | 22 | 5 | 448 | 1247 | raw_available_underused:1247w_sources |
@@ -65,73 +64,73 @@ This audit checks whether operation and case pages contain enough source-backed 
 | 31 | [[ddos-for-hire-sweep-2016]] | operation | 12 | 6 | 501 | 5484 | high_source_to_body_gap |
 | 32 | [[fake-shopping-sites-takedown-2024]] | operation | 12 | 6 | 505 | 4265 | high_source_to_body_gap |
 | 33 | [[global-airport-action-day]] | operation | 12 | 6 | 520 | 9151 | high_source_to_body_gap |
-| 34 | [[operation-12-members-of-an-irish-high-risk-criminal-network-arrested]] | operation | 12 | 6 | 469 | 4839 | high_source_to_body_gap |
-| 35 | [[operation-contender-2]] | operation | 12 | 6 | 651 | 3147 | high_source_to_body_gap |
-| 36 | [[operation-hyperion]] | operation | 12 | 6 | 491 | 5214 | high_source_to_body_gap |
-| 37 | [[operation-nightfury]] | operation | 12 | 6 | 644 | 4936 | high_source_to_body_gap |
-| 38 | [[operation-red-card]] | operation | 12 | 6 | 555 | 4332 | high_source_to_body_gap |
-| 39 | [[operation-stream-kidflix]] | operation | 12 | 6 | 612 | 3822 | high_source_to_body_gap |
-| 40 | [[zeus-spyeye-jit-takedown]] | operation | 12 | 6 | 510 | 5796 | high_source_to_body_gap |
-| 41 | [[zeus-spyeye-takedown]] | operation | 12 | 6 | 694 | 5796 | high_source_to_body_gap |
-| 42 | [[150-arrested-in-dark-web-drug-bust-as-police-seize-eur-26-million]] | case | 12 | 5 | 505 | 8025 | high_source_to_body_gap |
-| 43 | [[lakeland-man-pleads-guilty-to-receiving-child-sex-abuse-videos-from-the-largest-darknet-child-pornography-webs]] | case | 12 | 5 | 567 | 5593 | high_source_to_body_gap |
-| 44 | [[us-v-of-silk-road]] | case | 12 | 5 | 556 | 7160 | high_source_to_body_gap |
-| 45 | [[2bagoldmule-qqaazz]] | operation | 12 | 5 | 513 | 3651 | high_source_to_body_gap |
-| 46 | [[banking-trojan-fraud-sentencing-2017]] | operation | 12 | 5 | 593 | 4006 | high_source_to_body_gap |
-| 47 | [[cyber-fraud-international-2015]] | operation | 12 | 5 | 508 | 5663 | high_source_to_body_gap |
-| 48 | [[darkmarket-takedown]] | operation | 12 | 5 | 491 | 8894 | high_source_to_body_gap |
-| 49 | [[darkode-takedown]] | operation | 12 | 5 | 671 | 10629 | high_source_to_body_gap |
-| 50 | [[franco-israeli-ceo-fraud]] | operation | 12 | 5 | 663 | 4169 | high_source_to_body_gap |
-| 51 | [[hive-ransomware-takedown]] | operation | 12 | 5 | 501 | 2915 | high_source_to_body_gap |
-| 52 | [[imminent-monitor-rat-takedown]] | operation | 12 | 5 | 525 | 3780 | high_source_to_body_gap |
-| 53 | [[lumma-stealer-takedown]] | operation | 12 | 5 | 576 | 3284 | high_source_to_body_gap |
-| 54 | [[operation-australian-man-arrested-in-germany-accused-of-running-world-s-largest-darknet-marketplace]] | operation | 12 | 5 | 515 | 8894 | high_source_to_body_gap |
-| 55 | [[operation-bakovia]] | operation | 12 | 5 | 631 | 8335 | high_source_to_body_gap |
-| 56 | [[operation-checkmate-blacksuit]] | operation | 12 | 5 | 578 | 4934 | high_source_to_body_gap |
-| 57 | [[operation-cyber-guardian]] | operation | 12 | 5 | 627 | 9162 | high_source_to_body_gap |
-| 58 | [[operation-delilah]] | operation | 12 | 5 | 642 | 3708 | high_source_to_body_gap |
-| 59 | [[operation-destabilise]] | operation | 12 | 5 | 628 | 7642 | high_source_to_body_gap |
-| 60 | [[operation-eur-600m-crypto-scam-network-2025]] | operation | 12 | 5 | 457 | 3242 | high_source_to_body_gap |
-| 61 | [[operation-europol-french-coder-who-helped-extort-british-company-arrested-in-thailand]] | operation | 12 | 5 | 474 | 2924 | high_source_to_body_gap |
-| 62 | [[operation-haechi-ii]] | operation | 12 | 5 | 567 | 3733 | high_source_to_body_gap |
-| 63 | [[operation-jackal-iii]] | operation | 12 | 5 | 676 | 2651 | high_source_to_body_gap |
-| 64 | [[operation-key-figures-behind-phobos-and-8base-ransomware-arrested-in-international-cybercrime-crackdown-3]] | operation | 12 | 5 | 468 | 3378 | high_source_to_body_gap |
-| 65 | [[operation-killer-bee]] | operation | 12 | 5 | 544 | 6852 | high_source_to_body_gap |
-| 66 | [[operation-lyrebird]] | operation | 12 | 5 | 509 | 9605 | high_source_to_body_gap |
-| 67 | [[operation-nova]] | operation | 12 | 5 | 575 | 5789 | high_source_to_body_gap |
-| 68 | [[operation-operation-orion-international-144-arrested-in-major-child-abuse-operation-across-south-america]] | operation | 12 | 5 | 527 | 5977 | high_source_to_body_gap |
-| 69 | [[operation-orion-international]] | operation | 12 | 5 | 585 | 5782 | high_source_to_body_gap |
-| 70 | [[operation-pleiades]] | operation | 12 | 5 | 562 | 2893 | high_source_to_body_gap |
-| 71 | [[operation-sentinel-africa]] | operation | 12 | 5 | 608 | 4239 | high_source_to_body_gap |
-| 72 | [[operation-serengeti]] | operation | 12 | 5 | 596 | 17967 | high_source_to_body_gap |
-| 73 | [[operation-source]] | operation | 12 | 5 | 482 | 3084 | high_source_to_body_gap |
-| 74 | [[operation-wirewire]] | operation | 12 | 5 | 517 | 4173 | high_source_to_body_gap |
-| 75 | [[qqaazz-money-laundering-takedown]] | operation | 12 | 5 | 674 | 3943 | high_source_to_body_gap |
-| 76 | [[rex-mundi-takedown]] | operation | 12 | 5 | 491 | 2924 | high_source_to_body_gap |
-| 77 | [[rydox-marketplace-takedown]] | operation | 12 | 5 | 663 | 3759 | high_source_to_body_gap |
-| 78 | [[operation-150-arrested-in-dark-web-drug-bust-as-police-seize-eur-26-million]] | operation | 8 | 1 | 34 | 92 | absorbed_wrapper_too_sparse:34w |
-| 79 | [[operation-16-defendants-federally-charged-in-connection-with-danabot-malware-scheme-that-infected-computers-worldwide]] | operation | 8 | 1 | 34 | 28 | absorbed_wrapper_too_sparse:34w |
-| 80 | [[operation-administrator-of-online-criminal-marketplace-extradited-from-kosovo-to-the-united-states]] | operation | 8 | 1 | 34 | 21 | absorbed_wrapper_too_sparse:34w |
-| 81 | [[operation-alleged-russian-cryptocurrency-money-launderer-extradited-to-united-states]] | operation | 8 | 1 | 34 | 406 | absorbed_wrapper_too_sparse:34w |
-| 82 | [[operation-almost-1-000-suspects-arrested-in-interpol-operation-which-seized-over-129-million]] | operation | 8 | 1 | 34 | 751 | absorbed_wrapper_too_sparse:34w |
-| 83 | [[operation-brazilian-extradited-from-switzerland-to-the-united-states-to-face-indictment-charging-involvement-in-290m-cry]] | operation | 8 | 1 | 34 | 22 | absorbed_wrapper_too_sparse:34w |
-| 84 | [[operation-chinese-national-sentenced-prison-role-crypto-scam-targeting-americans]] | operation | 8 | 1 | 34 | 25 | absorbed_wrapper_too_sparse:34w |
-| 85 | [[operation-culpeper-woman-arrested-in-dark-web-murder-for-hire-plot]] | operation | 8 | 1 | 34 | 666 | absorbed_wrapper_too_sparse:34w |
-| 86 | [[operation-darknet-drug-vendor-arrested-for-distributing-illicit-prescription-drugs]] | operation | 8 | 1 | 34 | 26 | absorbed_wrapper_too_sparse:34w |
-| 87 | [[operation-darknet-vendor-arrested-on-distribution-and-money-laundering-charges]] | operation | 8 | 1 | 34 | 36 | absorbed_wrapper_too_sparse:34w |
-| 88 | [[operation-deepdotweb-administrator-pleads-guilty-money-laundering-conspiracy]] | operation | 8 | 1 | 34 | 20 | absorbed_wrapper_too_sparse:34w |
-| 89 | [[operation-dual-russian-and-israeli-national-extradited-to-the-united-states-for-his-role-in-the-lockbit-ransomware-consp]] | operation | 8 | 1 | 34 | 42 | absorbed_wrapper_too_sparse:34w |
-| 90 | [[operation-emotet-disruption-ladybird]] | operation | 8 | 1 | 34 | 1741 | absorbed_wrapper_too_sparse:34w |
-| 91 | [[operation-estonian-national-extradited-from-estonia-to-face-charges-of-illegal-procurement-of-u-s-electronics]] | operation | 8 | 1 | 34 | 25 | absorbed_wrapper_too_sparse:34w |
-| 92 | [[operation-euclid-ohio-man-pleads-guilty-distribution-fentanyl-he-ordered-china-and-sold]] | operation | 8 | 1 | 34 | 25 | absorbed_wrapper_too_sparse:34w |
-| 93 | [[operation-europol-mastermind-behind-eur-1-billion-cyber-bank-robbery-arrested-in-spain-carbanak-cobalt]] | operation | 8 | 1 | 34 | 404 | absorbed_wrapper_too_sparse:34w |
-| 94 | [[operation-fayette-county-man-admits-making-hoax-emergency-phone-calls-to-elicit-an-armed-police-response-practice-is-kno]] | operation | 8 | 1 | 34 | 22 | absorbed_wrapper_too_sparse:34w |
-| 95 | [[operation-florida-computer-programmer-arrested-for-hacking]] | operation | 8 | 1 | 34 | 24 | absorbed_wrapper_too_sparse:34w |
-| 96 | [[operation-former-owner-of-t-mobile-retail-store-in-eagle-rock-found-guilty-of-committing-25-million-scheme-to-illegally-]] | operation | 8 | 1 | 34 | 428 | absorbed_wrapper_too_sparse:34w |
-| 97 | [[operation-former-teaching-assistant-in-st-louis-admits-blackmailing-student]] | operation | 8 | 1 | 34 | 570 | absorbed_wrapper_too_sparse:34w |
-| 98 | [[operation-ghost-cybercrime-platform-dismantled-in-global-operation-51-arrested]] | operation | 8 | 1 | 34 | 81 | absorbed_wrapper_too_sparse:34w |
-| 99 | [[operation-grand-jury-indicts-knoxville-woman-previously-arrested-in-murder-for-hire-plot]] | operation | 8 | 1 | 34 | 23 | absorbed_wrapper_too_sparse:34w |
-| 100 | [[operation-greene-county-man-indicted-cyberstalking-and-interstate-threats]] | operation | 8 | 1 | 34 | 24 | absorbed_wrapper_too_sparse:34w |
+| 34 | [[operation-contender-2]] | operation | 12 | 6 | 651 | 3147 | high_source_to_body_gap |
+| 35 | [[operation-hyperion]] | operation | 12 | 6 | 491 | 5214 | high_source_to_body_gap |
+| 36 | [[operation-nightfury]] | operation | 12 | 6 | 644 | 4936 | high_source_to_body_gap |
+| 37 | [[operation-red-card]] | operation | 12 | 6 | 555 | 4332 | high_source_to_body_gap |
+| 38 | [[operation-stream-kidflix]] | operation | 12 | 6 | 612 | 3822 | high_source_to_body_gap |
+| 39 | [[zeus-spyeye-jit-takedown]] | operation | 12 | 6 | 510 | 5796 | high_source_to_body_gap |
+| 40 | [[zeus-spyeye-takedown]] | operation | 12 | 6 | 694 | 5796 | high_source_to_body_gap |
+| 41 | [[150-arrested-in-dark-web-drug-bust-as-police-seize-eur-26-million]] | case | 12 | 5 | 505 | 8025 | high_source_to_body_gap |
+| 42 | [[lakeland-man-pleads-guilty-to-receiving-child-sex-abuse-videos-from-the-largest-darknet-child-pornography-webs]] | case | 12 | 5 | 567 | 5593 | high_source_to_body_gap |
+| 43 | [[us-v-of-silk-road]] | case | 12 | 5 | 556 | 7160 | high_source_to_body_gap |
+| 44 | [[2bagoldmule-qqaazz]] | operation | 12 | 5 | 513 | 3651 | high_source_to_body_gap |
+| 45 | [[cyber-fraud-international-2015]] | operation | 12 | 5 | 508 | 5663 | high_source_to_body_gap |
+| 46 | [[darkmarket-takedown]] | operation | 12 | 5 | 491 | 8894 | high_source_to_body_gap |
+| 47 | [[darkode-takedown]] | operation | 12 | 5 | 671 | 10629 | high_source_to_body_gap |
+| 48 | [[franco-israeli-ceo-fraud]] | operation | 12 | 5 | 663 | 4169 | high_source_to_body_gap |
+| 49 | [[hive-ransomware-takedown]] | operation | 12 | 5 | 501 | 2915 | high_source_to_body_gap |
+| 50 | [[imminent-monitor-rat-takedown]] | operation | 12 | 5 | 525 | 3780 | high_source_to_body_gap |
+| 51 | [[lumma-stealer-takedown]] | operation | 12 | 5 | 576 | 3284 | high_source_to_body_gap |
+| 52 | [[operation-bakovia]] | operation | 12 | 5 | 631 | 8335 | high_source_to_body_gap |
+| 53 | [[operation-checkmate-blacksuit]] | operation | 12 | 5 | 578 | 4934 | high_source_to_body_gap |
+| 54 | [[operation-cyber-guardian]] | operation | 12 | 5 | 627 | 9162 | high_source_to_body_gap |
+| 55 | [[operation-delilah]] | operation | 12 | 5 | 642 | 3708 | high_source_to_body_gap |
+| 56 | [[operation-destabilise]] | operation | 12 | 5 | 628 | 7642 | high_source_to_body_gap |
+| 57 | [[operation-eur-600m-crypto-scam-network-2025]] | operation | 12 | 5 | 457 | 3242 | high_source_to_body_gap |
+| 58 | [[operation-haechi-ii]] | operation | 12 | 5 | 567 | 3733 | high_source_to_body_gap |
+| 59 | [[operation-jackal-iii]] | operation | 12 | 5 | 676 | 2651 | high_source_to_body_gap |
+| 60 | [[operation-killer-bee]] | operation | 12 | 5 | 544 | 6852 | high_source_to_body_gap |
+| 61 | [[operation-lyrebird]] | operation | 12 | 5 | 509 | 9605 | high_source_to_body_gap |
+| 62 | [[operation-nova]] | operation | 12 | 5 | 575 | 5789 | high_source_to_body_gap |
+| 63 | [[operation-orion-international]] | operation | 12 | 5 | 585 | 5782 | high_source_to_body_gap |
+| 64 | [[operation-pleiades]] | operation | 12 | 5 | 562 | 2893 | high_source_to_body_gap |
+| 65 | [[operation-sentinel-africa]] | operation | 12 | 5 | 608 | 4239 | high_source_to_body_gap |
+| 66 | [[operation-serengeti]] | operation | 12 | 5 | 596 | 17967 | high_source_to_body_gap |
+| 67 | [[operation-source]] | operation | 12 | 5 | 482 | 3084 | high_source_to_body_gap |
+| 68 | [[operation-wirewire]] | operation | 12 | 5 | 517 | 4173 | high_source_to_body_gap |
+| 69 | [[qqaazz-money-laundering-takedown]] | operation | 12 | 5 | 674 | 3943 | high_source_to_body_gap |
+| 70 | [[rex-mundi-takedown]] | operation | 12 | 5 | 491 | 2924 | high_source_to_body_gap |
+| 71 | [[rydox-marketplace-takedown]] | operation | 12 | 5 | 663 | 3759 | high_source_to_body_gap |
+| 72 | [[operation-150-arrested-in-dark-web-drug-bust-as-police-seize-eur-26-million]] | operation | 8 | 1 | 34 | 92 | absorbed_wrapper_too_sparse:34w |
+| 73 | [[operation-16-defendants-federally-charged-in-connection-with-danabot-malware-scheme-that-infected-computers-worldwide]] | operation | 8 | 1 | 34 | 28 | absorbed_wrapper_too_sparse:34w |
+| 74 | [[operation-administrator-of-online-criminal-marketplace-extradited-from-kosovo-to-the-united-states]] | operation | 8 | 1 | 34 | 21 | absorbed_wrapper_too_sparse:34w |
+| 75 | [[operation-alleged-russian-cryptocurrency-money-launderer-extradited-to-united-states]] | operation | 8 | 1 | 34 | 406 | absorbed_wrapper_too_sparse:34w |
+| 76 | [[operation-almost-1-000-suspects-arrested-in-interpol-operation-which-seized-over-129-million]] | operation | 8 | 1 | 34 | 751 | absorbed_wrapper_too_sparse:34w |
+| 77 | [[operation-brazilian-extradited-from-switzerland-to-the-united-states-to-face-indictment-charging-involvement-in-290m-cry]] | operation | 8 | 1 | 34 | 22 | absorbed_wrapper_too_sparse:34w |
+| 78 | [[operation-chinese-national-sentenced-prison-role-crypto-scam-targeting-americans]] | operation | 8 | 1 | 34 | 25 | absorbed_wrapper_too_sparse:34w |
+| 79 | [[operation-culpeper-woman-arrested-in-dark-web-murder-for-hire-plot]] | operation | 8 | 1 | 34 | 666 | absorbed_wrapper_too_sparse:34w |
+| 80 | [[operation-darknet-drug-vendor-arrested-for-distributing-illicit-prescription-drugs]] | operation | 8 | 1 | 34 | 26 | absorbed_wrapper_too_sparse:34w |
+| 81 | [[operation-darknet-vendor-arrested-on-distribution-and-money-laundering-charges]] | operation | 8 | 1 | 34 | 36 | absorbed_wrapper_too_sparse:34w |
+| 82 | [[operation-deepdotweb-administrator-pleads-guilty-money-laundering-conspiracy]] | operation | 8 | 1 | 34 | 20 | absorbed_wrapper_too_sparse:34w |
+| 83 | [[operation-dual-russian-and-israeli-national-extradited-to-the-united-states-for-his-role-in-the-lockbit-ransomware-consp]] | operation | 8 | 1 | 34 | 42 | absorbed_wrapper_too_sparse:34w |
+| 84 | [[operation-emotet-disruption-ladybird]] | operation | 8 | 1 | 34 | 1741 | absorbed_wrapper_too_sparse:34w |
+| 85 | [[operation-estonian-national-extradited-from-estonia-to-face-charges-of-illegal-procurement-of-u-s-electronics]] | operation | 8 | 1 | 34 | 25 | absorbed_wrapper_too_sparse:34w |
+| 86 | [[operation-euclid-ohio-man-pleads-guilty-distribution-fentanyl-he-ordered-china-and-sold]] | operation | 8 | 1 | 34 | 25 | absorbed_wrapper_too_sparse:34w |
+| 87 | [[operation-europol-mastermind-behind-eur-1-billion-cyber-bank-robbery-arrested-in-spain-carbanak-cobalt]] | operation | 8 | 1 | 34 | 404 | absorbed_wrapper_too_sparse:34w |
+| 88 | [[operation-fayette-county-man-admits-making-hoax-emergency-phone-calls-to-elicit-an-armed-police-response-practice-is-kno]] | operation | 8 | 1 | 34 | 22 | absorbed_wrapper_too_sparse:34w |
+| 89 | [[operation-florida-computer-programmer-arrested-for-hacking]] | operation | 8 | 1 | 34 | 24 | absorbed_wrapper_too_sparse:34w |
+| 90 | [[operation-former-owner-of-t-mobile-retail-store-in-eagle-rock-found-guilty-of-committing-25-million-scheme-to-illegally-]] | operation | 8 | 1 | 34 | 428 | absorbed_wrapper_too_sparse:34w |
+| 91 | [[operation-former-teaching-assistant-in-st-louis-admits-blackmailing-student]] | operation | 8 | 1 | 34 | 570 | absorbed_wrapper_too_sparse:34w |
+| 92 | [[operation-ghost-cybercrime-platform-dismantled-in-global-operation-51-arrested]] | operation | 8 | 1 | 34 | 81 | absorbed_wrapper_too_sparse:34w |
+| 93 | [[operation-grand-jury-indicts-knoxville-woman-previously-arrested-in-murder-for-hire-plot]] | operation | 8 | 1 | 34 | 23 | absorbed_wrapper_too_sparse:34w |
+| 94 | [[operation-greene-county-man-indicted-cyberstalking-and-interstate-threats]] | operation | 8 | 1 | 34 | 24 | absorbed_wrapper_too_sparse:34w |
+| 95 | [[operation-hook-line-and-sinker-cybercrime-network-phishing-bank-credentials-arrested-in-romania]] | operation | 8 | 1 | 34 | 3009 | absorbed_wrapper_too_sparse:34w |
+| 96 | [[operation-illinois-man-sentenced-2-years-federal-prison-operating-subscription-based-computer]] | operation | 8 | 1 | 34 | 40 | absorbed_wrapper_too_sparse:34w |
+| 97 | [[operation-in-re-bidencash-marketplace-seizure]] | operation | 8 | 1 | 34 | 153 | absorbed_wrapper_too_sparse:34w |
+| 98 | [[operation-in-re-heartsender-seizure]] | operation | 8 | 1 | 34 | 1498 | absorbed_wrapper_too_sparse:34w |
+| 99 | [[operation-individual-arrested-and-charged-with-operating-notorious-darknet-cryptocurrency-mixer]] | operation | 8 | 1 | 34 | 1962 | absorbed_wrapper_too_sparse:34w |
+| 100 | [[operation-international-crypto-vendor-sentenced-for-money-laundering-conspiracy]] | operation | 8 | 1 | 34 | 21 | absorbed_wrapper_too_sparse:34w |
 
 ## Source-Rich Thin Pages
 

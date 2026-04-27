@@ -68,6 +68,10 @@ def audit_page(path: Path) -> tuple[dict[str, Any], list[str]]:
 
     declared_sources = source_count(meta)
     listed_sources = list_count(meta.get("sources"))
+    if is_absorbed and ((declared_sources or 0) > 1 or (listed_sources or 0) > 1):
+        issues.append(
+            f"absorbed_overreferenced:{declared_sources if declared_sources is not None else 'unknown'}"
+        )
     if declared_sources is not None and listed_sources is not None and declared_sources != listed_sources:
         issues.append(f"source_count_mismatch:{declared_sources}!={listed_sources}")
 

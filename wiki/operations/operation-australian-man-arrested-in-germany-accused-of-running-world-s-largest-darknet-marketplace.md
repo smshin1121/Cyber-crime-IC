@@ -51,26 +51,26 @@ results:
   victims_notified: 0
   other:
     - "Follow-on arrest derived from the DarkMarket marketplace seizure"
-edges: []
+edges:
+  []
 credibility_index: 4.0
 source_tier: 2
-missing_fields: []
+missing_fields:
+  []
 related_cases:
   - "[[australian-man-arrested-in-germany-accused-of-running-world-s-largest-darknet-marketplace]]"
 related_operations:
   - "[[darkmarket-takedown]]"
-challenges_encountered: []
-lessons_learned: []
-source_count: 5
+challenges_encountered:
+  []
+lessons_learned:
+  []
+source_count: 1
 sources:
-  - "[[2021-01-12_europol-europa-eu_darkmarket-world-s-largest-illegal-dark-web-marketplace-taken-down]]"
-  - "[[2021-01-12_thehackernews-com_authorities-take-down-world-s-largest-illegal-dark-web-marketplace]]"
-  - "[[2021-01-12_rferl-org_servers-seized-in-ukraine-moldova-as-germany-takes-down-world-s-largest-illegal]]"
   - "[[2021-01-12_sbs-com-au_australian-man-arrested-in-germany-accused-of-running-world-s-largest-darknet-ma]]"
-  - "[[2021-10-26_dea-gov_department-of-justice-announces-results-of-operation-dark-huntor]]"
 summary: "This follow-on action captures the arrest component of the DarkMarket takedown for the unidentified Australian alleged operator."
 created: 2026-04-18
-updated: 2026-04-26
+updated: 2026-04-27
 ---
 ## Summary
 
@@ -135,10 +135,6 @@ Unlike the umbrella DarkMarket page, this follow-on entry isolates the operator-
 
 ## References
 
-| # | Source | Publisher | Date | URL |
+| # | Title | Publisher | Date | URL |
 |---|---|---|---|---|
-| 1 | DarkMarket: world's largest illegal dark web marketplace taken down | Europol | 2021-01-12 | https://www.europol.europa.eu/media-press/newsroom/news/darkmarket-world-s-largest-illegal-dark-web-marketplace-taken-down |
-| 2 | Authorities Take Down World's Largest Illegal Dark Web Marketplace | The Hacker News | 2021-01-12 | https://thehackernews.com/2021/01/authorities-take-down-worlds-largest.html |
-| 3 | Servers Seized In Ukraine, Moldova As Germany Takes Down 'World's Largest' Illegal Darknet Marketplace | RFE/RL | 2021-01-12 | https://www.rferl.org/a/ukraine-moldova-servers-seized-germany-busts-darknet-operation/31044327.html |
-| 4 | Australian man arrested in Germany accused of running 'world's largest' Darknet marketplace | SBS News | 2021-01-12 | https://www.sbs.com.au/news/article/australian-man-arrested-in-germany-accused-of-running-worlds-largest-darknet-marketplace/pee58pzoh |
-| 5 | Department of Justice announces results of Operation Dark HunTOR | DEA / DOJ | 2021-10-26 | https://www.dea.gov/ |
+| [1] | Australian man arrested in Germany accused of running 'world's largest' Darknet marketplace | SBS News | 2021-01-12 | https://www.sbs.com.au/news/article/australian-man-arrested-in-germany-accused-of-running-worlds-largest-darknet-marketplace/pee58pzoh |

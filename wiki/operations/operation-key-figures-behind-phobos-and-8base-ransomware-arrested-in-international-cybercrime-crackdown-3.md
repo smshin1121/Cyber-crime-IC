@@ -61,16 +61,12 @@ challenges_encountered:
 
 lessons_learned:
 
-source_count: 5
+source_count: 1
 sources:
   - "[[2025-02-11_europol_phobos-8base-ransomware-arrests]]"
-  - "[[2026-04-18_justice-gov_phobos-ransomware-affiliates-arrested-in-coordinated-international-disruption]]"
-  - "[[2024-11-18_justice-gov_phobos-ransomware-administrator-extradited-from-south-korea-to-face-cybercrime-c]]"
-  - "[[2026-04-18_justice-gov_phobos-ransomware-administrator-extradited-from-south-korea-to-face-cybercrime-c]]"
-  - "[[2025-02-11_bleepingcomputer-com_us-charges-phobos-8base-ransomware-operators]]"
 summary: "Key figures behind Phobos and 8Base ransomware arrested in international cybercrime crackdown Follow-On Action is a follow-on operation catalog record derived from [[key-figures-behind-phobos-and-8base-ransomware-arrested-in-international-cybercrime-crackdown-3]]."
 created: 2026-04-18
-updated: 2026-04-26
+updated: 2026-04-27
 ---
 ## Summary
 
@@ -136,7 +132,3 @@ The underlying public case record identifies Key figures behind Phobos and 8Base
 | # | Title | Publisher | Date | URL |
 |---|---|---|---|---|
 | [1] | Key figures behind Phobos and 8Base ransomware arrested in international cybercrime crackdown | Europol | 2025-02-11 | https://www.europol.europa.eu/media-press/newsroom/news/key-figures-behind-phobos-and-8base-ransomware-arrested-in-international-cybercrime-crackdown |
-| [2] | Phobos Ransomware Affiliates Arrested in Coordinated International Disruption | U.S. Department of Justice | 2026-04-18 | https://www.justice.gov/opa/pr/phobos-ransomware-affiliates-arrested-coordinated-international-disruption |
-| [3] | Phobos Ransomware Administrator Extradited From South Korea To Face Cybercrime Charges | US DOJ USAO | 2024-11-18 | https://www.justice.gov/usao-md/pr/phobos-ransomware-administrator-extradited-south-korea-face-cybercrime-charges |
-| [4] | Phobos Ransomware Administrator Extradited from South Korea to Face Cybercrime Charges | U.S. Department of Justice | 2026-04-18 | https://www.justice.gov/opa/pr/phobos-ransomware-administrator-extradited-south-korea-face-cybercrime-charges |
-| [5] | U.S. charges Phobos and 8Base ransomware operators after international crackdown | BleepingComputer | 2025-02-11 | https://www.bleepingcomputer.com/news/security/us-charges-phobos-8base-ransomware-operators-after-international-crackdown/ |

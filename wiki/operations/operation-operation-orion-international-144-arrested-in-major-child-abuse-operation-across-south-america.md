@@ -2,7 +2,7 @@
 type: operation
 title: "Operation Orion International Follow-On Action"
 aliases:
-  - 'Operation Orion International: 144 Arrested in Major Child Abuse Operation Across South America'
+  - "Operation Orion International: 144 Arrested in Major Child Abuse Operation Across South America"
 case_id: CYB-FUP-612
 period: 3
 operation_role: follow-on
@@ -46,25 +46,26 @@ results:
   victims_notified: 0
   other:
     - "Defendant-specific follow-on action derived from [[operation-orion-international-144-arrested-in-major-child-abuse-operation-across-south-america]]"
-edges: []
+edges:
+  []
 credibility_index: 4.0
 source_tier: 1
-missing_fields: []
+missing_fields:
+  []
 related_cases:
   - "[[operation-orion-international-144-arrested-in-major-child-abuse-operation-across-south-america]]"
-related_operations: []
-challenges_encountered: []
-lessons_learned: []
-source_count: 5
+related_operations:
+  []
+challenges_encountered:
+  []
+lessons_learned:
+  []
+source_count: 1
 sources:
   - "[[2024-10-15_interpol_operation-orion-international-south-america-csam]]"
-  - "[[2024-10-15-interpol-operation-orion-international]]"
-  - "[[2024-09-27_the420-in_interpol-leads-to-144-arrests-and-rescues-20-child-victims-across-south-america]]"
-  - "[[2025-02-01_interpol-int_annual-report-2024-operation-orion-international]]"
-  - "[[2024-09-26_interpol-int_20-rescued-144-arrested-in-major-child-abuse-operation-across-south-america]]"
 summary: "Follow-on operation catalog entry for Operation Orion International, an INTERPOL-coordinated South American CSAM enforcement action tied to arrests, victim rescue activity, and regional intelligence sharing."
 created: 2026-04-18
-updated: 2026-04-26
+updated: 2026-04-27
 ---
 ## Summary
 
@@ -137,7 +138,3 @@ The source set records a May to September 2024 operational window, a regional pr
 | # | Title | Publisher | Date | URL |
 |---|---|---|---|---|
 | [1] | Operation Orion International: 144 Arrested in Major Child Abuse Operation Across South America | INTERPOL | 2024-10-15 | https://www.interpol.int/en/News-and-Events/News/2024/20-rescued-144-arrested-in-major-child-abuse-operation-across-South-America |
-| [2] | Operation Orion International: South America CSAM Crackdown | INTERPOL | 2024-10-15 |  |
-| [3] | INTERPOL Leads to 144 Arrests and Rescues 20 Child Victims Across South America | The420 | 2024-09-27 | https://the420.in/interpol-leads-to-144-arrests-and-rescues-20-child-victims-across-south-america/ |
-| [4] | INTERPOL Annual Report 2024 - Operation Orion International | INTERPOL | 2025-02-01 | https://www.interpol.int/en/content/download/23674/file/Annual_Report%202024_EN.pdf |
-| [5] | 20 rescued, 144 arrested in major child abuse operation across South America | INTERPOL | 2024-09-26 | https://www.interpol.int/News-and-Events/News/2024/20-rescued-144-arrested-in-major-child-abuse-operation-across-South-America |
