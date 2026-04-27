@@ -29,10 +29,10 @@ updated: 2026-04-14
 | [[ddos-for-hire-sweep-2016]] | CYB-2016-002 | 1 | completed | umbrella | 6 | 2.95 | 2 |
 | [[global-airport-action-day]] | CYB-2016-003 | 1 | completed | umbrella | 6 | 1.85 | 2 |
 | [[bec-nigeria-2016]] | CYB-2016-050 | 1 | completed | umbrella | 5 | 4.00 | 1 |
-| [[andromeda-botnet-takedown]] | CYB-2017-001 | 1 | completed | umbrella | 4 | 3.75 | 2 |
+| [[andromeda-botnet-takedown]] | CYB-2017-001 | 1 | completed | umbrella | 5 | 3.75 | 2 |
 | [[alphabay-takedown]] | CYB-2017-002 | 1 | completed | umbrella | 5 | 4.00 | 1 |
 | [[operation-hyperion]] | CYB-2017-050 | 1 | completed | umbrella | 6 | 1.88 | 3 |
-| [[carbanak-cobalt-takedown]] | CYB-2018-001 | 1 | completed | umbrella | 4 | 3.50 | 2 |
+| [[carbanak-cobalt-takedown]] | CYB-2018-001 | 1 | completed | umbrella | 5 | 3.50 | 2 |
 | [[operation-wirewire]] | CYB-2018-002 | 1 | completed | umbrella | 5 | 2.28 | 2 |
 | [[infraud-organization-takedown]] | CYB-2018-003 | 1 | completed | umbrella | 7 | 3.30 | 2 |
 | [[fin7-takedown]] | CYB-2018-004 | 1 | completed | umbrella | 5 | 2.28 | 2 |

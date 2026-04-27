@@ -137,7 +137,7 @@ sources:
   - "[[2022-11-01_gbhackers-com_operation-haechi-iii-interpol-arrested-1000-cyber-criminals-seized-130-million]]"
   - "[[2022-11-01_therecord-media_almost-1-000-suspects-arrested-in-interpol-operation-which-seized-over-129-milli]]"
 created: 2026-04-10
-updated: 2026-04-26
+updated: 2026-04-27
 operation_role: umbrella
 parent_operation: ""
 summary: "Operation HAECHI-III was the third in INTERPOL's annual HAECHI series of operations targeting cyber-enabled financial crime. Running from **28 June to 23 November 2022**, it was coordinated by INTERPOL's Financial Crime and Anti-Corruption Centre (IFCACC) and involved **30 countries** acting through their respective INTERPOL National Central Bureaus (NCBs). The operation resulted in **975 arrests**, the resolution of **1,600+ cases**, and the seizure/interception of approximately **USD 130 million** in virtual assets and illicit funds."
@@ -331,6 +331,34 @@ Korea's leadership role in the HAECHI series is consistent with its broader comm
 - The operation resulted in **975 arrests**, the resolution of **1,600+ cases**, and the seizure/interception of approximately **USD 130 million** in virtual assets and illicit funds.
 
 <!-- SOURCE_ENRICHMENT_END -->
+
+<!-- RAW_TEXT_HIGHLIGHTS_START -->
+
+## Raw Source Highlights
+
+- INTERPOL, 2022-11-24: Fraud investigators around the world worked together over five months (28 June – 23 November) to intercept money and virtual assets linked to a wide range of cyber-enabled financial crimes and money laundering, assisting countries to recover and return illicitly obtained funds to victims.
+- INTERPOL, 2022-11-24: Specifically targeting voice phishing, romance scams, sextortion, investment fraud and money laundering associated with illegal online gambling, Operation HAECHI III was coordinated by INTERPOL’s Financial Crime and Anti-Corruption Centre (IFCACC) which supported 30 countries via their respective INTERPOL National Central Bureaus (NCBs).
+
+<!-- RAW_TEXT_HIGHLIGHTS_END -->
+
+<!-- CANONICAL_ASSESSMENT_START -->
+
+## Canonical Operation Assessment
+
+This page is retained as a canonical operation because it describes a arrest-sweep against Cyber-enabled financial crime networks (voice phishing, romance scams, sextortion, investment fraud, illegal online gambling money laundering), rather than a defendant-specific follow-on action. The record attributes lead responsibility to INTERPOL and coordination to INTERPOL IFCACC, with participating or affected jurisdictions recorded as Australia, Austria, Brunei, Cambodia, Cote D'ivoire, France, Ghana, Hong Kong (china), India, Indonesia, Ireland, Japan, South Korea, Kyrgyzstan, Laos, Malaysia, Maldives, Nigeria.
+
+The cooperation model is documented through named agencies and partners: INTERPOL IFCACC, INTERPOL IGCI, Korea National Police Agency (KNPA); mechanisms: Interpol I 24/7 Network, Interpol Notice System (red Notices), Interpol Anti Money Laundering Rapid Response Protocol (arrp); enforcement posture: Arrest, Asset Freeze, Seizure.
+
+Operational results captured for the canonical record: 975 arrests; cryptocurrency/asset result recorded as USD 129,975,440 (virtual assets seized/intercepted); 1,600+ cases resolved; ~2,800 bank and virtual-asset accounts blocked; 95 INTERPOL Notices published; 16 new crime trends detected.
+
+The canonical source set contains 5 reference(s): 2022 11 24 Interpol Int Cyber Enabled Financial Crime Usd 130 Million Intercepted In Global Interpol Pol, 2022 11 24 Bleepingcomputer Com Interpol Seized 130 Million From Cybercriminals Worldwide, 2022 11 24 Thehackernews Com Interpol Seized 130 Million From Cybercriminals In Global Haechi Iii Crackdown, 2022 11 01 Gbhackers Com Operation Haechi Iii Interpol Arrested 1000 Cyber Criminals Seized 130 Million, 2022 11 01 Therecord Media Almost 1 000 Suspects Arrested In Interpol Operation Which Seized Over 129 Milli.
+The source floor is met for a canonical operation, but source breadth does not by itself prove that every downstream arrest or sentencing is part of this operation; follow-on records should remain linked separately.
+Known metadata gaps still carried by this page: Legal Basis.
+For dataset use, this page should be treated as the operation-level aggregation point: country, agency, mechanism and outcome fields describe the coordinated enforcement action as a whole. Later indictments, pleas, sentencings, extraditions or forfeiture actions should be attached as related case or absorbed follow-on records unless the source explicitly presents them as a new multinational operation.
+When source records contain broader background, repeated wire-service republications, or topic-page material, this assessment gives priority to facts that are directly tied to the named operation, its participating authorities, its target infrastructure or criminal service, and its measurable enforcement outcome. Peripheral source titles are not treated as independent taxonomy or result evidence.
+This keeps the canonical record analytically bounded and reproducible.
+
+<!-- CANONICAL_ASSESSMENT_END -->
 
 ## References
 

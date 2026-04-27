@@ -93,7 +93,7 @@ sources:
   - "[[2020-10-16_amlintelligence_notorious-central-europe-crime-gang-that-laundered-tens-of-millions-of-euro-for-hackers-targeted-in-raids]]"
   - "[[2020-10-15_cyberscoop-com_fbi-accuses-russian-money-laundering-qqaazz]]"
 created: 2026-04-08
-updated: 2026-04-26
+updated: 2026-04-27
 operation_role: umbrella
 parent_operation: ""
 summary: "Operation 2BaGoldMule, led by Europol and involving 16 countries, dismantled the QQAAZZ criminal network that had laundered tens of millions of euros in criminal proceeds from cybercrime. The network operated since 2016, using hundreds of corporate and personal bank accounts to launder funds stolen through hacking and online fraud. The operation resulted in 20 arrests across multiple countries."
@@ -193,6 +193,25 @@ Portugal, United States, Spain, United Kingdom, Latvia, Bulgaria, Georgia, Italy
 - This OCCRP article gives an investigative-news overview of the QQAAZZ takedown and the network’s laundering model.
 
 <!-- SOURCE_ENRICHMENT_END -->
+
+<!-- CANONICAL_ASSESSMENT_START -->
+
+## Canonical Operation Assessment
+
+This page is retained as a canonical operation because it describes a arrest-sweep against QQAAZZ money laundering network, rather than a defendant-specific follow-on action. The record attributes lead responsibility to Europol Ec3 and coordination to Europol Ec3, with participating or affected jurisdictions recorded as Portugal, United States, Spain, United Kingdom, Latvia, Bulgaria, Georgia, Italy, Germany, Switzerland, Poland, Czech Republic, Australia, Sweden, Austria, Belgium.
+
+The cooperation model is documented through named agencies and partners: Europol Ec3, Portuguese Judicial Police, Usdoj, Fbi, Spanish National Police, Uk Nca; enforcement posture: Arrest and Seizure.
+
+Operational results captured for the canonical record: 20 arrests; QQAAZZ multi-million euro money laundering network dismantled; Hundreds of corporate and personal bank accounts used for laundering; Network processed funds from cybercrime including hacking and fraud.
+
+The canonical source set contains 5 reference(s): Europol 2bagoldmule Qqaazz Takedown, 2020 10 16 Occrp Pan Continental Operation Busts Money Launderers For Europes Cybercriminals, 2020 10 15 Ap Europol Fbi Arrest 20 Cybercrime Money Launderers From Various Nations, 2020 10 16 Amlintelligence Notorious Central Europe Crime Gang That Laundered Tens Of Millions Of Euro For Hackers Targeted In Raids, 2020 10 15 Cyberscoop Com Fbi Accuses Russian Money Laundering Qqaazz.
+The source floor is met for a canonical operation, but source breadth does not by itself prove that every downstream arrest or sentencing is part of this operation; follow-on records should remain linked separately.
+Known metadata gaps still carried by this page: Legal Basis and Mechanisms Used.
+For dataset use, this page should be treated as the operation-level aggregation point: country, agency, mechanism and outcome fields describe the coordinated enforcement action as a whole. Later indictments, pleas, sentencings, extraditions or forfeiture actions should be attached as related case or absorbed follow-on records unless the source explicitly presents them as a new multinational operation.
+When source records contain broader background, repeated wire-service republications, or topic-page material, this assessment gives priority to facts that are directly tied to the named operation, its participating authorities, its target infrastructure or criminal service, and its measurable enforcement outcome. Peripheral source titles are not treated as independent taxonomy or result evidence.
+This keeps the canonical record analytically bounded and reproducible.
+
+<!-- CANONICAL_ASSESSMENT_END -->
 
 ## References
 

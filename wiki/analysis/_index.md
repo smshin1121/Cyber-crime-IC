@@ -6,13 +6,18 @@ created: 2026-04-08
 updated: 2026-04-20
 ---
 
-# Analysis (25)
+# Analysis (30)
 
 | Analysis | Type | Confidence | Scope | Date |
 |----------|------|------------|-------|------|
 | [[absorbed-wrapper-source-normalization-2026-04-26]] | — | — | — | 2026-04-26 |
 | [[absorbed-wrapper-source-normalization-2026-04-27]] | — | — | — | 2026-04-27 |
+| [[canonical-operation-assessment-enrichment-2026-04-27]] | — | — | — | 2026-04-27 |
+| [[canonical-operation-enrichment-queue-2026-04-27]] | — | — | — | 2026-04-27 |
+| [[canonical-operation-raw-highlights-2026-04-27]] | — | — | — | 2026-04-27 |
+| [[canonical-operation-source-enrichment-2026-04-27]] | — | — | — | 2026-04-27 |
 | [[content-depth-audit-2026-04-26]] | — | — | — | 2026-04-26 |
+| [[content-depth-audit-2026-04-27]] | — | — | — | 2026-04-27 |
 | [[content-enrichment-queue-2026-04-26]] | — | — | — | 2026-04-26 |
 | [[european-trusted-source-map]] | — | — | — | 2026-04-18 |
 | [[ic-statistics-dashboard]] | trend-report | high | 2014-2025 사이버범죄 국제공조 작전 통계 (위키 수집 데이터 기반) | 2026-04-08 |

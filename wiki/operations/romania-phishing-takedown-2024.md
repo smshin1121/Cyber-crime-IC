@@ -68,7 +68,7 @@ sources:
   - "[[2020-10-13_incibe-es_en_international-operation-against-group-cybercriminals]]"
   - "[[2020-09-29_ilmetropolitano-it_hook-line-and-sinker-cybercrime-network-phishing-bank-credentials-arrested-in-romania]]"
 created: 2026-04-08
-updated: 2026-04-26
+updated: 2026-04-27
 operation_role: umbrella
 parent_operation: ""
 summary: "Europol and Romanian police and prosecutors conducted a joint operation that resulted in the arrest of 16 members of a cybercrime network in Romania that had been phishing bank credentials and conducting illegal fund transfers. The operation, which ran from 2023 to early 2024, dismantled the criminal network responsible for stealing banking credentials through phishing attacks and transferring victims' funds to accounts controlled by the group."
@@ -148,6 +148,25 @@ Romania
 - It reported victim counts, Romanian arrests, and Europol-Eurojust support.
 
 <!-- SOURCE_ENRICHMENT_END -->
+
+<!-- CANONICAL_ASSESSMENT_START -->
+
+## Canonical Operation Assessment
+
+This page is retained as a canonical operation because it describes a arrest-sweep against Phishing network in Romania, rather than a defendant-specific follow-on action. The record attributes lead responsibility to Romanian Police and coordination to Europol Ec3, with participating or affected jurisdictions recorded as Romania.
+
+The cooperation model is documented through named agencies and partners: Europol Ec3, Romanian Police, Romanian Prosecution; enforcement posture: Arrest.
+
+Operational results captured for the canonical record: 16 arrests; Phishing and bank credential theft network dismantled; Illegal fund transfers disrupted.
+
+The canonical source set contains 5 reference(s): Europol Romania Phishing Network Takedown, 2020 09 29 Eurojust Europa Eu Successful Takedown In Romania Of An Ocg Carrying Out Elaborated Cybercrime And Bank Frauds, 2020 10 13 Incibe Es Operacion Internacional Contra Un Grupo De Ciberdelincuentes, 2020 10 13 Incibe Es En International Operation Against Group Cybercriminals, 2020 09 29 Ilmetropolitano It Hook Line And Sinker Cybercrime Network Phishing Bank Credentials Arrested In Romania.
+The source floor is met for a canonical operation, but source breadth does not by itself prove that every downstream arrest or sentencing is part of this operation; follow-on records should remain linked separately.
+Known metadata gaps still carried by this page: Legal Basis and Mechanisms Used.
+For dataset use, this page should be treated as the operation-level aggregation point: country, agency, mechanism and outcome fields describe the coordinated enforcement action as a whole. Later indictments, pleas, sentencings, extraditions or forfeiture actions should be attached as related case or absorbed follow-on records unless the source explicitly presents them as a new multinational operation.
+When source records contain broader background, repeated wire-service republications, or topic-page material, this assessment gives priority to facts that are directly tied to the named operation, its participating authorities, its target infrastructure or criminal service, and its measurable enforcement outcome. Peripheral source titles are not treated as independent taxonomy or result evidence.
+This keeps the canonical record analytically bounded and reproducible.
+
+<!-- CANONICAL_ASSESSMENT_END -->
 
 ## References
 

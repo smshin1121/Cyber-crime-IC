@@ -68,7 +68,7 @@ timeframe:
 title: "Operation NightFury (Magecart/GetBilling)"
 title_ko: "나이트퓨리 작전 (Magecart/GetBilling)"
 type: operation
-updated: 2026-04-26
+updated: 2026-04-27
 ---
 > [!note] This operation is documented from a Tier 3 (cybersecurity media) source. Additional verification from official sources (Tier 1-2) would strengthen data reliability.
 
@@ -158,6 +158,25 @@ No Korean involvement identified. South Korean e-commerce sites could potentiall
 - Suspects faced up to 10 years in prison under Indonesian law if convicted
 
 <!-- SOURCE_ENRICHMENT_END -->
+
+<!-- CANONICAL_ASSESSMENT_START -->
+
+## Canonical Operation Assessment
+
+This page is retained as a canonical operation because it describes a arrest-sweep against Magecart/GetBilling web skimming group, rather than a defendant-specific follow-on action. The record attributes lead responsibility to Interpol and coordination to Interpol, with participating or affected jurisdictions recorded as Indonesia and Singapore.
+
+The cooperation model is documented through named agencies and partners: Interpol and Indonesia Police.
+
+Operational results captured for the canonical record: 3 arrests.
+
+The canonical source set contains 6 reference(s): Group Ib Operation Nightfury Magecartgetbilling, Cyberscoop Operation Nightfury Magecartgetbilling, 2020 01 28 Techtarget Com 3 Magecart Suspects Arrested In Interpol Operation, 2020 01 27 Bleepingcomputer Com First Magecart Hackers Caught Infected Hundreds Of Web Stores, 2020 01 25 Thehackernews Com Interpol Arrests 3 Indonesian Credit Card Hackers For Magecart Attacks, 2020 01 28 Infosecurity Magazine Suspected Magecart Hackers Arrested In Indonesia.
+The source floor is met for a canonical operation, but source breadth does not by itself prove that every downstream arrest or sentencing is part of this operation; follow-on records should remain linked separately.
+No frontmatter missing-field flags are currently carried on this page.
+For dataset use, this page should be treated as the operation-level aggregation point: country, agency, mechanism and outcome fields describe the coordinated enforcement action as a whole. Later indictments, pleas, sentencings, extraditions or forfeiture actions should be attached as related case or absorbed follow-on records unless the source explicitly presents them as a new multinational operation.
+When source records contain broader background, repeated wire-service republications, or topic-page material, this assessment gives priority to facts that are directly tied to the named operation, its participating authorities, its target infrastructure or criminal service, and its measurable enforcement outcome. Peripheral source titles are not treated as independent taxonomy or result evidence.
+This keeps the canonical record analytically bounded and reproducible.
+
+<!-- CANONICAL_ASSESSMENT_END -->
 
 ## References
 

@@ -58,7 +58,7 @@ sources:
   - "[[2025-03-04_treasury-gov_treasury-sanctions-head-of-online-darknet-marketplace-tied-to-fentanyl-sales]]"
   - "[[bleeping-computer-nemesis-market-takedown]]"
 created: 2024-03-20
-updated: 2026-04-26
+updated: 2026-04-27
 related_operations:
   - "[[operation-us-v-parsarad-nemesis]]"
 summary: "The Nemesis Market takedown was a Germany-led seizure of darknet marketplace infrastructure carried out on 20 March 2024 with U.S. and Lithuanian support. Later DOJ and Treasury actions against Behrouz Parsarad show how the initial infrastructure seizure matured into a named administrator-focused enforcement track."
@@ -120,6 +120,34 @@ Nemesis is a useful contrast with older darknet-market cases because the public 
 - DOJ announced on April 17, 2025 that Behrouz Parsarad, alleged administrator of Nemesis Market, was charged in the District of Columbia for operating the darknet marketplace seized in March 2024.
 
 <!-- SOURCE_ENRICHMENT_END -->
+
+<!-- RAW_TEXT_HIGHLIGHTS_START -->
+
+## Raw Source Highlights
+
+- U.S. Treasury, 2025-03-04: Treasury Sanctions Head of Online Darknet Marketplace Tied to Fentanyl Sales | U.S.
+- U.S. Treasury, 2025-03-04: Department of the Treasury About Treasury Enter Search Term(s): Advanced Search General Information Role of the Treasury Officials Organizational Chart Orders and Directives Offices Domestic Finance Economic Policy General Counsel International Affairs Management Public Affairs Tax Policy Terrorism and Financial Intelligence Tribal and.
+
+<!-- RAW_TEXT_HIGHLIGHTS_END -->
+
+<!-- CANONICAL_ASSESSMENT_START -->
+
+## Canonical Operation Assessment
+
+This page is retained as a canonical operation because it describes a infrastructure-seizure against Nemesis Market, rather than a defendant-specific follow-on action. The record attributes lead responsibility to BKA (Bundeskriminalamt) and coordination to ZIT Frankfurt, with participating or affected jurisdictions recorded as Germany, United States, Lithuania.
+
+The cooperation model is documented through named agencies and partners: BKA (Bundeskriminalamt), ZIT (Zentralstelle zur Bekämpfung der Internetkriminalität), FBI, Dea, Irs Ci; mechanisms: Informal Law Enforcement Cooperation and Mutual Legal Assistance; enforcement posture: Seizure, Takedown, Asset Freeze.
+
+Operational results captured for the canonical record: cryptocurrency/asset result recorded as EUR 94,000 in cryptocurrency; Server infrastructure seized in Germany and Lithuania; 150,000+ user accounts identified; 1,100+ seller accounts identified; Platform taken offline permanently.
+
+The canonical source set contains 5 reference(s): 2024 03 21 Bka De Illegaler Darknet Marktplatz Nemesis Market Abgeschaltet, 2025 04 17 Opa Parsarad Nemesis Indictment, 2026 04 18 Justice Gov Iranian National Indicted Operating Online Marketplace Offering Fentanyl Other Drugs, 2025 03 04 Treasury Gov Treasury Sanctions Head Of Online Darknet Marketplace Tied To Fentanyl Sales, Bleeping Computer Nemesis Market Takedown.
+The source floor is met for a canonical operation, but source breadth does not by itself prove that every downstream arrest or sentencing is part of this operation; follow-on records should remain linked separately.
+No frontmatter missing-field flags are currently carried on this page.
+For dataset use, this page should be treated as the operation-level aggregation point: country, agency, mechanism and outcome fields describe the coordinated enforcement action as a whole. Later indictments, pleas, sentencings, extraditions or forfeiture actions should be attached as related case or absorbed follow-on records unless the source explicitly presents them as a new multinational operation.
+When source records contain broader background, repeated wire-service republications, or topic-page material, this assessment gives priority to facts that are directly tied to the named operation, its participating authorities, its target infrastructure or criminal service, and its measurable enforcement outcome. Peripheral source titles are not treated as independent taxonomy or result evidence.
+This keeps the canonical record analytically bounded and reproducible.
+
+<!-- CANONICAL_ASSESSMENT_END -->
 
 ## References
 

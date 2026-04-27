@@ -104,7 +104,7 @@ sources:
   - "[[2019-09-11_scworld-com_operation-rewired-campaign]]"
   - "[[2019-09-10_wired-com_email-scammer-global-takedown]]"
 created: 2026-04-10
-updated: 2026-04-26
+updated: 2026-04-27
 operation_role: umbrella
 parent_operation: ""
 summary: "Operation reWired was a coordinated international law enforcement operation targeting Business Email Compromise (BEC) schemes, announced on 10 September 2019. Led by the [[fbi-cyber-division|FBI]] and coordinated by the [[us-doj|US Department of Justice]] through the International Organized Crime Intelligence and Operations Center (IOC-2), the four-month operation resulted in 281 arrests across 10 countries, the seizure of approximately USD 3.7 million, and the disruption or recovery of approximately USD 118 million in fraudulent wire transfers. The operation was the successor to [[operation-wirewire|Operation WireWire]] (2018) and represented the largest coordinated BEC enforcement action at the time."
@@ -291,6 +291,36 @@ No [[south-korea|South Korean]] participation in Operation reWired has been publ
 - It specifically tied the operation to cyber-enabled financial fraud and business email compromise investigations.
 
 <!-- SOURCE_ENRICHMENT_END -->
+
+<!-- RAW_TEXT_HIGHLIGHTS_START -->
+
+## Raw Source Highlights
+
+- FBI, 2019-09-10: The operation follows last year’s Operation WireWire, a similar effort that led to total 74 arrests and the seizure of $2.4 million.
+- FBI, 2019-09-10: “Through Operation reWired, we’re sending a clear message to the criminals who orchestrate these BEC schemes: We’ll keep coming after you, no matter where you are.” Criminal organizations that perpetrate BEC schemes don't just target companies.
+- U.S. Department of Justice, 2019-09-10: “In this latest four-month operation, we have arrested 74 people in the United States and 207 others have been arrested overseas for alleged financial fraud.
+- U.S. Department of Justice, 2019-09-10: The coordinated efforts with our domestic and international law enforcement partners around the world has made these most recent actions more successful.
+
+<!-- RAW_TEXT_HIGHLIGHTS_END -->
+
+<!-- CANONICAL_ASSESSMENT_START -->
+
+## Canonical Operation Assessment
+
+This page is retained as a canonical operation because it describes a arrest-sweep against International Business Email Compromise (BEC) networks, rather than a defendant-specific follow-on action. The record attributes lead responsibility to FBI and coordination to US Department of Justice, with participating or affected jurisdictions recorded as United States, Nigeria, Turkey, Ghana, France, Italy, Japan, Kenya, Malaysia, United Kingdom.
+
+The cooperation model is documented through named agencies and partners: US Department of Justice, FBI, US Secret Service, US Department of Homeland Security, Internet Crime Complaint Center (IC3); mechanisms: MLAT Process and Informal Police Cooperation; legal basis: Mutual Legal Assistance; enforcement posture: Arrest, Seizure, Asset Freeze.
+
+Operational results captured for the canonical record: 281 arrests; USD 3.7 million seized; USD 118 million in fraudulent wire transfers disrupted/recovered; 214 domestic enforcement actions (arrests, warning letters, asset seizures).
+
+The canonical source set contains 5 reference(s): 2019 09 10 Fbi Gov Operation Rewired Bec Takedown, 2019 09 10 Justice Gov 281 Arrested Worldwide Coordinated International Enforcement Operation Targeting Hundreds, 2019 09 10 Secretservice Gov 281 Arrested Worldwide Coordinated International Enforcement Operation, 2019 09 11 Scworld Com Operation Rewired Campaign, 2019 09 10 Wired Com Email Scammer Global Takedown.
+The source floor is met for a canonical operation, but source breadth does not by itself prove that every downstream arrest or sentencing is part of this operation; follow-on records should remain linked separately.
+Known metadata gaps still carried by this page: Case Id.
+For dataset use, this page should be treated as the operation-level aggregation point: country, agency, mechanism and outcome fields describe the coordinated enforcement action as a whole. Later indictments, pleas, sentencings, extraditions or forfeiture actions should be attached as related case or absorbed follow-on records unless the source explicitly presents them as a new multinational operation.
+When source records contain broader background, repeated wire-service republications, or topic-page material, this assessment gives priority to facts that are directly tied to the named operation, its participating authorities, its target infrastructure or criminal service, and its measurable enforcement outcome. Peripheral source titles are not treated as independent taxonomy or result evidence.
+This keeps the canonical record analytically bounded and reproducible.
+
+<!-- CANONICAL_ASSESSMENT_END -->
 
 ## References
 

@@ -115,7 +115,7 @@ sources:
   - "[[2026-04-17_en-wikipedia-org_operation-poweroff]]"
   - "[[2024-12-12_theregister-com_operation-poweroff-extinguishes-18-more-ddos-booters]]"
 created: 2026-04-10
-updated: 2026-04-26
+updated: 2026-04-27
 operation_role: umbrella
 parent_operation: ""
 summary: "Operation PowerOFF is an **ongoing, multi-phase international law enforcement operation** targeting DDoS-for-hire (booter/stresser) services. Launched in December 2018 and still active as of December 2024, it is coordinated by [[europol-ec3|Europol's European Cybercrime Centre (EC3)]] and led operationally by the [[fbi-cyber-division|FBI]], with the [[uk-nca|UK National Crime Agency (NCA)]] as a core partner. The operation has conducted at least six major enforcement waves, seizing over 142 domains, arresting 16 individuals, and identifying hundreds of users across 15 countries."
@@ -310,6 +310,36 @@ There is no confirmed direct Korean participation in any phase of Operation Powe
 - The operation has conducted at least six major enforcement waves, seizing over 142 domains, arresting 16 individuals, and identifying hundreds of users across 15 countries.
 
 <!-- SOURCE_ENRICHMENT_END -->
+
+<!-- RAW_TEXT_HIGHLIGHTS_START -->
+
+## Raw Source Highlights
+
+- US DOJ, 2022-12-14: Attorney's Office, Central District of California As Part of International Efforts Targeting So-Called ‘Booter’ Services, FBI Seizes 48 Internet Domains that Offered DDoS-for-Hire Services LOS ANGELES – The Justice Department today announced the court-authorized seizure of 48 internet domains associated with some of the world’s leading.
+- US DOJ, 2022-12-14: Booter services such as those named in this action allegedly attacked a wide array of victims in the United States and abroad, including educational institutions, government agencies, gaming platforms and millions of individuals.
+- US DOJ CDCA, 2024-09-01: Attorney's Office, Central District of California LOS ANGELES – The Justice Department today announced the court-authorized seizure of nine internet domains associated with some of the world’s leading DDoS-for-hire services.
+- US DOJ CDCA, 2024-09-01: Poland’s Central Cybercrime Bureau simultaneously announced the arrests of four administrators of such services, investigations which were assisted by U.S.
+
+<!-- RAW_TEXT_HIGHLIGHTS_END -->
+
+<!-- CANONICAL_ASSESSMENT_START -->
+
+## Canonical Operation Assessment
+
+This page is retained as a canonical operation because it describes a infrastructure-seizure against DDoS-for-hire (booter/stresser) service operators and users, rather than a defendant-specific follow-on action. The record attributes lead responsibility to FBI Cyber Division and coordination to Europol EC3, with participating or affected jurisdictions recorded as United States, United Kingdom, Netherlands, Germany, France, Poland, Australia, Brazil, Canada, Finland, Japan, Latvia, Portugal, Romania, Sweden.
+
+The cooperation model is documented through named agencies and partners: FBI, Europol EC3, UK NCA, Dutch National Police, BKA, AFP, RCMP, Japan NPA, US DOJ; mechanisms: MLAT; legal basis: Budapest Convention on Cybercrime and Us Computer Fraud And Abuse Act (18 U.s.c. Ss 1030); enforcement posture: Seizure, Arrest, Indictment.
+
+Operational results captured for the canonical record: 16 arrests; 8 indictments; 142 domains seized; 142+ booter/stresser domains seized across all phases (2018-2024); 300+ users identified for follow-up in December 2024 phase; 2,000+ warning emails sent to identified users; 250+ formal warning letters issued.
+
+The canonical source set contains 7 reference(s): 2024 12 11 Europol Europa Eu Law Enforcement Shuts Down 27 Ddos Booters Ahead Of Annual Christmas Attacks, 2022 12 14 Justice Gov Federal Prosecutors In Los Angeles And Alaska Charge 6 Defendants, 2024 09 01 Justice Gov Law Enforcement Seizes 9 Ddos For Hire Webpages, 2023 05 09 Bleepingcomputer Com Fbi Seizes 13 More Domains Linked To Ddos For Hire Services, 2024 12 12 Cyberscoop Com International Crackdown Disrupts Ddos For Hire Operations, 2026 04 17 En Wikipedia Org Operation Poweroff, plus 1 more.
+The source floor is met for a canonical operation, but source breadth does not by itself prove that every downstream arrest or sentencing is part of this operation; follow-on records should remain linked separately.
+No frontmatter missing-field flags are currently carried on this page.
+For dataset use, this page should be treated as the operation-level aggregation point: country, agency, mechanism and outcome fields describe the coordinated enforcement action as a whole. Later indictments, pleas, sentencings, extraditions or forfeiture actions should be attached as related case or absorbed follow-on records unless the source explicitly presents them as a new multinational operation.
+When source records contain broader background, repeated wire-service republications, or topic-page material, this assessment gives priority to facts that are directly tied to the named operation, its participating authorities, its target infrastructure or criminal service, and its measurable enforcement outcome. Peripheral source titles are not treated as independent taxonomy or result evidence.
+This keeps the canonical record analytically bounded and reproducible.
+
+<!-- CANONICAL_ASSESSMENT_END -->
 
 ## References
 

@@ -79,7 +79,7 @@ sources:
   - "[[2025-03-05_bleepingcomputer-com_us-charges-chinese-hackers-linked-to-critical-infrastructure-breaches]]"
   - "[[2025-03-06_thecyberwire-com_us-justice-department-charges-employees-of-chinese-it-contractor-i-soon]]"
 created: 2026-04-08
-updated: 2026-04-26
+updated: 2026-04-27
 operation_role: umbrella
 parent_operation: ""
 summary: "On 5 March 2025, the US Department of Justice announced charges against **12 Chinese nationals** affiliated with Anxun Information Technology Co. Ltd. (i-Soon) and Advanced Persistent Threat 27 (APT27). The defendants included two officers of China's Ministry of Public Security (MPS), eight i-Soon employees, and APT27 members. These actors conducted computer intrusions at the direction of China's MPS and Ministry of State Security (MSS) as well as on their own initiative."
@@ -166,6 +166,34 @@ South Korea is listed as a **victim country** — the South Korean foreign minis
 - On March 5, 2025, DOJ announced charges against Wu Haibo and other i-Soon employees, Chinese law-enforcement officers, and APT27-linked operators for global computer intrusion campaigns.
 
 <!-- SOURCE_ENRICHMENT_END -->
+
+<!-- RAW_TEXT_HIGHLIGHTS_START -->
+
+## Raw Source Highlights
+
+- US Department of Justice, 2025-03-05: The Justice Department, FBI, Naval Criminal Investigative Service, and Departments of State and the Treasury announced today their coordinated efforts to disrupt and deter the malicious cyber activities of 12 Chinese nationals, including two officers of the People’s Republic of China’s (PRC) Ministry of Public Security (MPS), employees.
+- US Department of Justice, 2025-03-05: Victims include U.S.-based critics and dissidents of the PRC, a large religious organization in the United States, the foreign ministries of multiple governments in Asia, and U.S.
+
+<!-- RAW_TEXT_HIGHLIGHTS_END -->
+
+<!-- CANONICAL_ASSESSMENT_START -->
+
+## Canonical Operation Assessment
+
+This page is retained as a canonical operation because it describes a joint-investigation against i-Soon (Anxun Information Technology Co. Ltd.) and APT27 members, rather than a defendant-specific follow-on action. The record attributes lead responsibility to Fbi Cyber Division and coordination to Fbi Cyber Division, with participating or affected jurisdictions recorded as United States and China.
+
+The cooperation model is documented through named agencies and partners: Fbi Cyber Division; enforcement posture: Indictment and Asset Freeze.
+
+Operational results captured for the canonical record: 12 indictments; Rewards for Justice offer of up to USD 10 million; Treasury sanctions imposed; 12 Chinese nationals charged (2 MPS officers, 8 i-Soon employees, APT27 members).
+
+The canonical source set contains 6 reference(s): 2025 03 05 Doj Isoon Chinese Hackers Charges, 2025 03 05 Opa Wu Haibo Isoon Indictment, 2025 03 05 Wired Com Us Charges 12 Alleged Spies In Chinas Freewheeling Hacker For Hire Ecosystem, 2025 03 06 Infosecurity Magazine Us Charges Chinese Hackerforhire, 2025 03 05 Bleepingcomputer Com Us Charges Chinese Hackers Linked To Critical Infrastructure Breaches, 2025 03 06 Thecyberwire Com Us Justice Department Charges Employees Of Chinese It Contractor I Soon.
+The source floor is met for a canonical operation, but source breadth does not by itself prove that every downstream arrest or sentencing is part of this operation; follow-on records should remain linked separately.
+Known metadata gaps still carried by this page: Legal Basis, Mechanisms Used, International Cooperation Partners.
+For dataset use, this page should be treated as the operation-level aggregation point: country, agency, mechanism and outcome fields describe the coordinated enforcement action as a whole. Later indictments, pleas, sentencings, extraditions or forfeiture actions should be attached as related case or absorbed follow-on records unless the source explicitly presents them as a new multinational operation.
+When source records contain broader background, repeated wire-service republications, or topic-page material, this assessment gives priority to facts that are directly tied to the named operation, its participating authorities, its target infrastructure or criminal service, and its measurable enforcement outcome. Peripheral source titles are not treated as independent taxonomy or result evidence.
+This keeps the canonical record analytically bounded and reproducible.
+
+<!-- CANONICAL_ASSESSMENT_END -->
 
 ## References
 

@@ -92,7 +92,7 @@ sources:
   - "[[2023-02-17_helpnetsecurity_authorities-break-up-gang-responsible-for-eur-38-million-ceo-fraud]]"
   - "[[2023-02-18_occrp_police-dismantle-franco-israeli-crime-network-behind-theft-of-eur38-million]]"
 created: 2026-04-08
-updated: 2026-04-26
+updated: 2026-04-27
 operation_role: umbrella
 parent_operation: ""
 summary: "The Franco-Israeli CEO Fraud Investigation was a Europol-supported multi-country operation that dismantled a criminal network using business email compromise (BEC) and CEO fraud to divert corporate payments. Five action days between January 2022 and January 2023 led to 8 arrests in France and Israel, while parallel asset tracing in Portugal, Hungary, Croatia, and Spain produced about EUR 5.5 million in seizures."
@@ -216,6 +216,25 @@ No direct Korean participation was identified in the available public record.
 - Spain's Policía Nacional said the Europol-coordinated investigation led to eight arrests and documented the Spanish strand, including a Madrid company used to receive nearly EUR 900,000 in fraud proceeds.
 
 <!-- SOURCE_ENRICHMENT_END -->
+
+<!-- CANONICAL_ASSESSMENT_START -->
+
+## Canonical Operation Assessment
+
+This page is retained as a canonical operation because it describes a joint-investigation against Franco-Israeli criminal network conducting CEO fraud / BEC attacks, rather than a defendant-specific follow-on action. The record attributes lead responsibility to France (police Nationale, Gendarmerie Nationale) and coordination to Europol Ec3, with participating or affected jurisdictions recorded as France, Israel, Croatia, Hungary, Portugal, Spain.
+
+The cooperation model is documented through named agencies and partners: Europol Ec3, France Police Nationale, France Gendarmerie, Israel Police, Croatia Hrvatska Policija, Hungary Budapesti Rendor Fokapitanysag, Portugal Policia Judiciaria, Spain Policia Nacional; enforcement posture: Arrest and Asset Freeze.
+
+Operational results captured for the canonical record: 8 arrests; cryptocurrency/asset result recorded as EUR 350,000; EUR 5.5 million total seized/frozen across multiple countries; EUR 38 million stolen from a single company in one BEC attack; 8 house searches conducted in France and Israel; Portuguese investigators documented four companies and 17 bank accounts used in the laundering strand.
+
+The canonical source set contains 5 reference(s): 2023 02 08 Europol Franco Israeli Ceo Fraud Bust, 2023 02 17 Policia Es Desarticulada Una Organizacion Franco Israeli Que Estafo Mas De 38 Millones De Euros Mediante El Fraude Del Ceo, 2023 02 17 Policiajudiciaria Pt Operacao Sefricime 2 2, 2023 02 17 Helpnetsecurity Authorities Break Up Gang Responsible For Eur 38 Million Ceo Fraud, 2023 02 18 Occrp Police Dismantle Franco Israeli Crime Network Behind Theft Of Eur38 Million.
+The source floor is met for a canonical operation, but source breadth does not by itself prove that every downstream arrest or sentencing is part of this operation; follow-on records should remain linked separately.
+Known metadata gaps still carried by this page: Legal Basis and Mechanisms Used.
+For dataset use, this page should be treated as the operation-level aggregation point: country, agency, mechanism and outcome fields describe the coordinated enforcement action as a whole. Later indictments, pleas, sentencings, extraditions or forfeiture actions should be attached as related case or absorbed follow-on records unless the source explicitly presents them as a new multinational operation.
+When source records contain broader background, repeated wire-service republications, or topic-page material, this assessment gives priority to facts that are directly tied to the named operation, its participating authorities, its target infrastructure or criminal service, and its measurable enforcement outcome. Peripheral source titles are not treated as independent taxonomy or result evidence.
+This keeps the canonical record analytically bounded and reproducible.
+
+<!-- CANONICAL_ASSESSMENT_END -->
 
 ## References
 

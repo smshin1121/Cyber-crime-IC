@@ -85,7 +85,7 @@ sources:
   - "[[2019-12-01_aspi-org-au_national-security-wrap-186]]"
   - "[[2019-12-02_wired-gov-net_cybercrime-site-selling-hacking-tool-taken-down]]"
 created: 2026-04-08
-updated: 2026-04-26
+updated: 2026-04-27
 operation_role: umbrella
 parent_operation: ""
 summary: "In November-December 2019, [[europol-ec3|Europol]] coordinated an international operation that dismantled the infrastructure of **Imminent Monitor**, a Remote Access Trojan (RAT) sold commercially as a legitimate tool but widely used for cybercrime. The operation involved law enforcement from 8 countries and resulted in **13 arrests** and the seizure of **430 devices**. Investigators identified **14,500 buyers** of the RAT across **124 countries**."
@@ -201,6 +201,25 @@ No Korean involvement identified. However, given the global user base (124 count
 - Investigators identified **14,500 buyers** of the RAT across **124 countries**.
 
 <!-- SOURCE_ENRICHMENT_END -->
+
+<!-- CANONICAL_ASSESSMENT_START -->
+
+## Canonical Operation Assessment
+
+This page is retained as a canonical operation because it describes a takedown against Imminent Monitor RAT (Remote Access Trojan), rather than a defendant-specific follow-on action. The record attributes lead responsibility to Europol Ec3 and coordination to Europol Ec3, with participating or affected jurisdictions recorded as Australia, Colombia, Czech Republic, Netherlands, Poland, Spain, Sweden, United Kingdom.
+
+The cooperation model is documented through named agencies and partners: Europol Ec3, Eurojust, Australia Afp; enforcement posture: Arrest, Seizure, Takedown.
+
+Operational results captured for the canonical record: 13 arrests; 430 devices seized; Imminent Monitor RAT infrastructure dismantled; 14,500 buyers identified across 124 countries.
+
+The canonical source set contains 5 reference(s): 2019 11 29 Thehackernews Com Europol Imminent Monitor Rat, 2019 12 03 Welivesecurity Com Notorious Rat Spy Tool Global Operation, 2019 12 01 Portswigger Net Imminent Monitor Spyware Operation Undone By Opsec Mistakes, 2019 12 01 Aspi Org Au National Security Wrap 186, 2019 12 02 Wired Gov Net Cybercrime Site Selling Hacking Tool Taken Down.
+The source floor is met for a canonical operation, but source breadth does not by itself prove that every downstream arrest or sentencing is part of this operation; follow-on records should remain linked separately.
+Known metadata gaps still carried by this page: Legal Basis and Mechanisms Used.
+For dataset use, this page should be treated as the operation-level aggregation point: country, agency, mechanism and outcome fields describe the coordinated enforcement action as a whole. Later indictments, pleas, sentencings, extraditions or forfeiture actions should be attached as related case or absorbed follow-on records unless the source explicitly presents them as a new multinational operation.
+When source records contain broader background, repeated wire-service republications, or topic-page material, this assessment gives priority to facts that are directly tied to the named operation, its participating authorities, its target infrastructure or criminal service, and its measurable enforcement outcome. Peripheral source titles are not treated as independent taxonomy or result evidence.
+This keeps the canonical record analytically bounded and reproducible.
+
+<!-- CANONICAL_ASSESSMENT_END -->
 
 ## References
 

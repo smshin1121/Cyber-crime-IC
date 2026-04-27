@@ -75,7 +75,7 @@ sources:
   - "[[2024-12-09_securityweek_eight-suspected-phishers-arrested-in-belgium-netherlands]]"
   - "[[2024-12-06_nu-nl_politie-ontmantelt-cybercrimenetwerk-dat-miljoenen-buitmaakte-met-phishing]]"
 created: 2026-04-08
-updated: 2026-04-26
+updated: 2026-04-27
 operation_role: umbrella
 parent_operation: ""
 summary: "Belgian and Dutch authorities, supported by Eurojust and Europol, dismantled a phone-phishing and bank-helpdesk fraud network in December 2024 through coordinated arrests and searches across both countries."
@@ -167,6 +167,25 @@ The case shows three distinct cooperation layers: national police action, Euroju
 - This Dutch police release adds operational detail missing from Eurojust's shorter summary, including the Dutch arrest count, seized luxury goods, and the Rotterdam-led investigative angle.
 
 <!-- SOURCE_ENRICHMENT_END -->
+
+<!-- CANONICAL_ASSESSMENT_START -->
+
+## Canonical Operation Assessment
+
+This page is retained as a canonical operation because it describes a arrest-sweep against Cross-border phone-phishing and bank-helpdesk fraud gang operating between Belgium and the Netherlands, rather than a defendant-specific follow-on action. The record attributes lead responsibility to not specified and coordination to Eurojust, with participating or affected jurisdictions recorded as Belgium and Netherlands.
+
+The cooperation model is documented through named agencies and partners: Eurojust, Europol Ec3, Netherlands Politie; enforcement posture: Arrest and Search.
+
+Operational results captured for the canonical record: 8 arrests; Authorities searched 17 locations in Belgium and the Netherlands.; Dutch police said the suspects targeted victims in at least ten European countries.; Dutch police reported luxury goods seizures in addition to arrests..
+
+The canonical source set contains 5 reference(s): 2024 12 06 Eurojust Action Against Phone Phishing Gang Belgium And Netherlands Eight Arrests, 2024 12 06 Politie Nl Internationaal Cybercrimenetwerk Opgerold, 2024 12 19 Politie Nl 27 Jarige Man Aangehouden Voor Phishing, 2024 12 09 Securityweek Eight Suspected Phishers Arrested In Belgium Netherlands, 2024 12 06 Nu Nl Politie Ontmantelt Cybercrimenetwerk Dat Miljoenen Buitmaakte Met Phishing.
+The source floor is met for a canonical operation, but source breadth does not by itself prove that every downstream arrest or sentencing is part of this operation; follow-on records should remain linked separately.
+Known metadata gaps still carried by this page: Legal Basis, Mechanisms Used, Lead Agency.
+For dataset use, this page should be treated as the operation-level aggregation point: country, agency, mechanism and outcome fields describe the coordinated enforcement action as a whole. Later indictments, pleas, sentencings, extraditions or forfeiture actions should be attached as related case or absorbed follow-on records unless the source explicitly presents them as a new multinational operation.
+When source records contain broader background, repeated wire-service republications, or topic-page material, this assessment gives priority to facts that are directly tied to the named operation, its participating authorities, its target infrastructure or criminal service, and its measurable enforcement outcome. Peripheral source titles are not treated as independent taxonomy or result evidence.
+This keeps the canonical record analytically bounded and reproducible.
+
+<!-- CANONICAL_ASSESSMENT_END -->
 
 ## References
 

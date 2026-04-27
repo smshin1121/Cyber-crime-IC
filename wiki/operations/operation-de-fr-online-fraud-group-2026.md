@@ -67,7 +67,7 @@ sources:
   - "[[2026-03-11_pressreleasepoint-com_judicial-cooperation-key-to-arresting-leaders-of-online-fraud-group]]"
   - "[[2026-03-11_eurojust-germany-term_online-fraud-group-france-germany]]"
 created: 2026-04-17
-updated: 2026-04-26
+updated: 2026-04-27
 summary: "Eurojust-coordinated Franco-German action against an online-fraud group, with searches in France under a European Investigation Order and arrests on a synchronized action day."
 jurisdictions:
   - "[[france]]"
@@ -135,6 +135,25 @@ According to Eurojust, the group used phishing emails to gain access to online-b
 - Eurojust's cybercrime topic page listed the 11 March 2026 online-fraud group release.
 
 <!-- SOURCE_ENRICHMENT_END -->
+
+<!-- CANONICAL_ASSESSMENT_START -->
+
+## Canonical Operation Assessment
+
+This page is retained as a canonical operation because it describes a joint-investigation against A cross-border online-fraud group operating against victims in Germany with a leader based in France, rather than a defendant-specific follow-on action. The record attributes lead responsibility to Eurojust and coordination to Eurojust, with participating or affected jurisdictions recorded as France and Germany.
+
+The cooperation model is documented through named agencies and partners: Eurojust; mechanisms: European Investigation Order and Eurojust Coordination Meeting; legal basis: European Investigation Order and European Arrest Warrant; enforcement posture: Arrest, Search, Seizure.
+
+Operational results captured for the canonical record: 3 arrests; Cryptocurrencies and jewellery seized.
+
+The canonical source set contains 5 reference(s): 2026 03 11 Eurojust De Fr Online Fraud Group, 2026 03 11 Eurojust Fraud Term Online Fraud Group France Germany, 2026 03 11 Eurojust Cybercrime Term Online Fraud Group France Germany, 2026 03 11 Pressreleasepoint Com Judicial Cooperation Key To Arresting Leaders Of Online Fraud Group, 2026 03 11 Eurojust Germany Term Online Fraud Group France Germany.
+The source floor is met for a canonical operation, but source breadth does not by itself prove that every downstream arrest or sentencing is part of this operation; follow-on records should remain linked separately.
+No frontmatter missing-field flags are currently carried on this page.
+For dataset use, this page should be treated as the operation-level aggregation point: country, agency, mechanism and outcome fields describe the coordinated enforcement action as a whole. Later indictments, pleas, sentencings, extraditions or forfeiture actions should be attached as related case or absorbed follow-on records unless the source explicitly presents them as a new multinational operation.
+When source records contain broader background, repeated wire-service republications, or topic-page material, this assessment gives priority to facts that are directly tied to the named operation, its participating authorities, its target infrastructure or criminal service, and its measurable enforcement outcome. Peripheral source titles are not treated as independent taxonomy or result evidence.
+This keeps the canonical record analytically bounded and reproducible.
+
+<!-- CANONICAL_ASSESSMENT_END -->
 
 ## References
 

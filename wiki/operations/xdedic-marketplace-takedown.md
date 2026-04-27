@@ -25,6 +25,8 @@ timeframe:
 crime_type: "[[cybercrime-forum-ic]]"
 crime_types:
   - "[[cybercrime-forum-ic]]"
+  - "[[dark-web-ic]]"
+  - "[[malware-ic]]"
   - "[[online-fraud-ic]]"
   - "[[identity-theft]]"
   - "[[ransomware-ic]]"
@@ -163,7 +165,7 @@ sources:
   - "[[2024-07-23_mdfl_omotosho-xdedic-sentencing]]"
   - "[[2024-08-07_justice-gov_xdedic-marketplace-victim-services-case-summary]]"
 created: 2026-04-08
-updated: 2026-04-26
+updated: 2026-04-27
 operation_role: umbrella
 parent_operation: ""
 summary: "The xDedic operation began with a 2019 infrastructure seizure and matured into a multi-year prosecution program. DOJ's 2024 roundup reports that xDedic offered more than 700,000 compromised servers for sale and that U.S. prosecutors pursued administrators, sellers, buyers, and fraud actors through extraditions, convictions, and sentencing proceedings across a broad set of partner countries."
@@ -195,6 +197,8 @@ organizations:
   - "[[ukraine-police]]"
 crime_types:
   - "[[cybercrime-forum-ic]]"
+  - "[[dark-web-ic]]"
+  - "[[malware-ic]]"
   - "[[online-fraud-ic]]"
   - "[[identity-theft]]"
   - "[[ransomware-ic]]"
@@ -289,6 +293,34 @@ Earlier versions of this page repeated the same DOJ January 2024 URL through mul
 - US DOJ (Middle District of Florida), 2024-07-23: Nigerian National Sentenced To More Than 12 Years In Federal Prison For Cyber Scams.
 
 <!-- SOURCE_ENRICHMENT_END -->
+
+<!-- RAW_TEXT_HIGHLIGHTS_START -->
+
+## Raw Source Highlights
+
+- US DOJ (Middle District of Florida), 2024-01-04: Attorney Programs United Against Hate Human Trafficking Community Outreach LECC/Training Victim Witness Assistance Project Safe Childhood Project Safe Neighborhoods Civil Rights Opioid Epidemic Outreach Programs Elder Justice Initiative Servicemembers and Veterans Working Group Report a Crime Report a Civil Rights Violation Services.
+- US DOJ (Middle District of Florida), 2024-01-04: Handberg announces the culmination of a transnational cybercrime investigation involving the xDedic Marketplace.
+
+<!-- RAW_TEXT_HIGHLIGHTS_END -->
+
+<!-- CANONICAL_ASSESSMENT_START -->
+
+## Canonical Operation Assessment
+
+This page is retained as a canonical operation because it describes a takedown-and-prosecution against xDedic Marketplace, rather than a defendant-specific follow-on action. The record attributes lead responsibility to Us Doj and coordination to Fbi Cyber Division, with participating or affected jurisdictions recorded as United States, Belgium, Ukraine, Netherlands, Germany, Georgia, Poland, Spain, United Kingdom, Romania, Switzerland, Estonia, Latvia, Bulgaria, Lithuania, Moldova.
+
+The cooperation model is documented through named agencies and partners: Us Doj, Fbi Cyber Division, Office Of International Affairs, Europol Ec3, Dutch Nhtcu, Germany Bka, Belgium Federal Police, Ukraine Police, Irs Criminal Investigation, Irs Ci Cyber Crimes Unit; mechanisms: Domain Seizure, Search Seizure, mutual legal assistance, Extradition, Electronic Evidence; legal basis: Domain Seizure, Search Seizure, mutual legal assistance, Extradition, Electronic Evidence; enforcement posture: Seizure, Takedown, Indictment, Extradition, Sentencing.
+
+Operational results captured for the canonical record: 19 indictments; 1 domains seized; xDedic domain names and infrastructure seized in January 2019; More than 700,000 compromised servers offered for sale, including at least 150,000 in the United States and 8,000 in Florida; 17 defendants had been charged and/or extradited to the United States by the January 2024 DOJ roundup; Two additional United Kingdom defendants were charged and pending extradition as of January 2024.
+
+The canonical source set contains 9 reference(s): 2024 01 04 Justice Gov 19 Individuals Worldwide Charged In Transnational Cybercrime Investigation Of Th, 2021 09 08 Mdfl Ivanov Tolpintsev Xdedic Extradition, 2021 09 15 Mdfl Odedeyi Davies Xdedic Indictment, 2022 11 22 Mdfl Habasescu Xdedic Extradition, 2022 12 05 Mdfl Levinson Xdedic Sentencing, 2023 02 22 Mdfl Pankov Xdedic Extradition, plus 3 more.
+The source floor is met for a canonical operation, but source breadth does not by itself prove that every downstream arrest or sentencing is part of this operation; follow-on records should remain linked separately.
+Known metadata gaps still carried by this page: Complete Asset Seizure Inventory and Full Foreign Court Outcomes.
+For dataset use, this page should be treated as the operation-level aggregation point: country, agency, mechanism and outcome fields describe the coordinated enforcement action as a whole. Later indictments, pleas, sentencings, extraditions or forfeiture actions should be attached as related case or absorbed follow-on records unless the source explicitly presents them as a new multinational operation.
+When source records contain broader background, repeated wire-service republications, or topic-page material, this assessment gives priority to facts that are directly tied to the named operation, its participating authorities, its target infrastructure or criminal service, and its measurable enforcement outcome. Peripheral source titles are not treated as independent taxonomy or result evidence.
+This keeps the canonical record analytically bounded and reproducible.
+
+<!-- CANONICAL_ASSESSMENT_END -->
 
 ## References
 

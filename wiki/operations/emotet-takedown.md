@@ -97,7 +97,7 @@ sources:
   - "[[2021-01-27_mdnc_emotet-disruption-order]]"
   - "[[2026-04-17_justice-gov_documents-and-resources-related-disruption-emotet-malware-and-botnet]]"
 created: 2026-04-10
-updated: 2026-04-26
+updated: 2026-04-27
 operation_role: umbrella
 parent_operation: ""
 summary: "Operation LadyBird was a multinational law enforcement operation that disrupted the **Emotet botnet** -- described by [[europol-ec3|Europol]] as \"the world's most dangerous malware\" -- on **27 January 2021**. The operation was coordinated by [[europol-ec3|Europol EC3]] and [[eurojust|Eurojust]], with the [[netherlands-politie|Dutch National Police (NHTCU)]] and Germany's Bundeskriminalamt (BKA) serving as the primary operational leads."
@@ -311,6 +311,38 @@ South Korea was **not among the eight participating countries** in Operation Lad
 - Confirms MDNC as US venue for the civil action related to Emotet infrastructure.
 
 <!-- SOURCE_ENRICHMENT_END -->
+
+<!-- RAW_TEXT_HIGHLIGHTS_START -->
+
+## Raw Source Highlights
+
+- US Department of Justice (Office of Public Affairs), 2021-01-27: Department of Justice title="About" title="News" title="Guidance & Resources" Justice.gov Office of Public Affairs Emotet Botnet Disrupted In International Cyber Operation This is archived content from the U.S.
+- US Department of Justice (Office of Public Affairs), 2021-01-27: ﻿“The Emotet malware and botnet infected hundreds of thousands of computers throughout the United States, including our critical infrastructure, and caused millions of dollars in damage to victims worldwide,” said Acting Deputy Attorney General John Carlin.
+- US Attorney's Office, Middle District of North Carolina (DOJ), 2021-01-27: Attorney's Office, Middle District of North Carolina Emotet Malware Infected More than 1.6 Million Victim Computers and Caused Hundreds of Millions of Dollars in Damage Worldwide WASHINGTON – The Justice Department today announced its participation in a multinational operation involving actions in the United States, Canada, France.
+- US Attorney's Office, Middle District of North Carolina (DOJ), 2021-01-27: “The Emotet malware and botnet infected hundreds of thousands of computers throughout the United States, including our critical infrastructure, and caused millions of dollars in damage to victims worldwide,” said Acting Deputy Attorney General John Carlin.
+- US DOJ (OPA / M.D.N.C.), 2021-01-27: Department of Justice title="About" title="News" title="Guidance & Resources" Justice.gov Office of Public Affairs Emotet Botnet Disrupted In International Cyber Operation This is archived content from the U.S.
+- US DOJ (OPA / M.D.N.C.), 2021-01-27: ﻿“The Emotet malware and botnet infected hundreds of thousands of computers throughout the United States, including our critical infrastructure, and caused millions of dollars in damage to victims worldwide,” said Acting Deputy Attorney General John Carlin.
+
+<!-- RAW_TEXT_HIGHLIGHTS_END -->
+
+<!-- CANONICAL_ASSESSMENT_START -->
+
+## Canonical Operation Assessment
+
+This page is retained as a canonical operation because it describes a takedown against Emotet botnet infrastructure and operators, rather than a defendant-specific follow-on action. The record attributes lead responsibility to Netherlands Politie and coordination to Europol Ec3, with participating or affected jurisdictions recorded as Netherlands, Germany, United States, United Kingdom, France, Ukraine, Canada, Lithuania.
+
+The cooperation model is documented through named agencies and partners: Netherlands Politie, Europol Ec3, Eurojust, Fbi Cyber Division; mechanisms: Joint Investigation Team, Europol Jit, 24 7 Network; legal basis: Budapest Convention and mutual legal assistance; enforcement posture: Takedown, Arrest, Seizure.
+
+Operational results captured for the canonical record: 2 arrests; 700 servers seized; 2000 domains seized; 1000000 victims notified; 4.3 million compromised email addresses recovered by Dutch police; Law enforcement deployed uninstall module to infected machines (activated 2021-04-25); Emotet botnet resurfaced in November 2021 via TrickBot infrastructure.
+
+The canonical source set contains 6 reference(s): 2021 01 27 Europol Emotet Disruption, 2021 01 27 Doj Emotet Disruption, 2021 01 27 Eurojust Emotet Operation, 2021 01 27 Doj Mdnc Emotet, 2021 01 27 Mdnc Emotet Disruption Order, 2026 04 17 Justice Gov Documents And Resources Related Disruption Emotet Malware And Botnet.
+The source floor is met for a canonical operation, but source breadth does not by itself prove that every downstream arrest or sentencing is part of this operation; follow-on records should remain linked separately.
+Known metadata gaps still carried by this page: Cryptocurrency Seized and Full List Of National Agencies Beyond Lead Participants.
+For dataset use, this page should be treated as the operation-level aggregation point: country, agency, mechanism and outcome fields describe the coordinated enforcement action as a whole. Later indictments, pleas, sentencings, extraditions or forfeiture actions should be attached as related case or absorbed follow-on records unless the source explicitly presents them as a new multinational operation.
+When source records contain broader background, repeated wire-service republications, or topic-page material, this assessment gives priority to facts that are directly tied to the named operation, its participating authorities, its target infrastructure or criminal service, and its measurable enforcement outcome. Peripheral source titles are not treated as independent taxonomy or result evidence.
+This keeps the canonical record analytically bounded and reproducible.
+
+<!-- CANONICAL_ASSESSMENT_END -->
 
 ## References
 

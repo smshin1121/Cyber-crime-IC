@@ -74,7 +74,7 @@ sources:
   - "[[2024-12-13_securityaffairs-com_us-authorities-seized-marketplace-rydox]]"
   - "[[2024-12-16_bitdefender-com_rydox-cybercrime-marketplace-seized-by-law-enforcement-suspected-admins-arrested]]"
 created: 2026-04-08
-updated: 2026-04-26
+updated: 2026-04-27
 operation_role: umbrella
 parent_operation: ""
 summary: "On 2024-12-12, U.S. and partner authorities disrupted the Rydox cybercrime marketplace, arrested administrators in Kosovo and Albania, seized infrastructure in Malaysia, and restrained the Rydox domain and roughly $225,000 in cryptocurrency."
@@ -183,6 +183,25 @@ The defendant-specific case record is [[us-v-kutleshi-rydox]], with a linked fol
 - CyberScoop reported the coordinated seizure of the Rydox marketplace and the arrests of three alleged administrators in Kosovo and Albania.
 
 <!-- SOURCE_ENRICHMENT_END -->
+
+<!-- CANONICAL_ASSESSMENT_START -->
+
+## Canonical Operation Assessment
+
+This page is retained as a canonical operation because it describes a takedown against Rydox cybercrime marketplace and its administrators, rather than a defendant-specific follow-on action. The record attributes lead responsibility to Fbi Cyber Division and coordination to Us Doj, with participating or affected jurisdictions recorded as United States, Kosovo, Albania, Malaysia.
+
+The cooperation model is documented through named agencies and partners: Fbi Cyber Division and Us Doj; mechanisms: mutual legal assistance; legal basis: mutual legal assistance; enforcement posture: Arrest, Seizure, Takedown, Extradition Request.
+
+Operational results captured for the canonical record: 3 arrests; 1 indictments; 1 servers seized; 1 domains seized; cryptocurrency/asset result recorded as Approximately $225,000; At least 7,600 sales reported; More than 321,000 marketplace products listed; More than 18,000 users reported.
+
+The canonical source set contains 5 reference(s): 2024 12 12 Wdpa Kutleshi Rydox Indictment, 2024 12 12 Cyberscoop Com Rydox Cybercriminal Marketplace Seized Doj Albania Kosovo, 2024 12 13 Technadu Kosovo Police Shuts Down Rydox Cybercrime Marketplace, 2024 12 13 Securityaffairs Com Us Authorities Seized Marketplace Rydox, 2024 12 16 Bitdefender Com Rydox Cybercrime Marketplace Seized By Law Enforcement Suspected Admins Arrested.
+The source floor is met for a canonical operation, but source breadth does not by itself prove that every downstream arrest or sentencing is part of this operation; follow-on records should remain linked separately.
+No frontmatter missing-field flags are currently carried on this page.
+For dataset use, this page should be treated as the operation-level aggregation point: country, agency, mechanism and outcome fields describe the coordinated enforcement action as a whole. Later indictments, pleas, sentencings, extraditions or forfeiture actions should be attached as related case or absorbed follow-on records unless the source explicitly presents them as a new multinational operation.
+When source records contain broader background, repeated wire-service republications, or topic-page material, this assessment gives priority to facts that are directly tied to the named operation, its participating authorities, its target infrastructure or criminal service, and its measurable enforcement outcome. Peripheral source titles are not treated as independent taxonomy or result evidence.
+This keeps the canonical record analytically bounded and reproducible.
+
+<!-- CANONICAL_ASSESSMENT_END -->
 
 ## References
 

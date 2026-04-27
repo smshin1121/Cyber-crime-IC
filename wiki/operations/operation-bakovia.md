@@ -90,7 +90,7 @@ sources:
   - "[[2017-12-20_portswigger-daily-swig_arrests-made-in-connection-with-ctb-locker-cerber-ransomware]]"
   - "[[2017-12-20_thehackernews_romanian-police-arrest-5-people-for-spreading-ctb-locker-and-cerber-ransomware]]"
 created: 2026-04-08
-updated: 2026-04-26
+updated: 2026-04-27
 operation_role: umbrella
 parent_operation: ""
 summary: "**Operation Bakovia** was a joint international law-enforcement action targeting distributors of the CTB-Locker and Cerber ransomware families. The operation culminated in Romania in December 2017 with five arrests, six house searches, and evidence seizures, supported by Europol, Dutch and British investigators, U.S. authorities, and McAfee's malware-analysis team."
@@ -212,6 +212,25 @@ No Korean involvement was identified in the available public sources.
 - The company said Dutch investigators asked its Advanced Threat Research team to analyze malware samples from a server used to distribute CTB-Locker, and the inquiry later expanded to Cerber based on U.S. Secret Service information.
 
 <!-- SOURCE_ENRICHMENT_END -->
+
+<!-- CANONICAL_ASSESSMENT_START -->
+
+## Canonical Operation Assessment
+
+This page is retained as a canonical operation because it describes a arrest-sweep against CTB-Locker and Cerber ransomware distributors, rather than a defendant-specific follow-on action. The record attributes lead responsibility to Europol Ec3 and coordination to Europol Ec3, with participating or affected jurisdictions recorded as Romania, Netherlands, United States, United Kingdom.
+
+The cooperation model is documented through named agencies and partners: Europol Ec3, Eurojust, Romania Diicot, Fbi Cyber Division, Uk Nca, Netherlands Politie, Mcafee Advanced Threat Research; enforcement posture: Arrest and Seizure.
+
+Operational results captured for the canonical record: 5 arrests; Six houses searched in eastern Romania; CTB-Locker and Cerber distributors tied to ransomware-as-a-service affiliate activity; Hard drives, laptops, external storage, cryptocurrency mining devices, documents, and SIM cards seized.
+
+The canonical source set contains 5 reference(s): 2017 12 01 Cyberscoop Com Ctb Locker Cerber Ransomware Arrests Europol Mcafee, 2017 12 20 Mcafee Mcafee Labs Advanced Threat Research Aids Arrest Of Suspected Cybercrime Gang Linked To Top Malware Ctb Locker, 2017 12 20 Bleepingcomputer Five Romanians Arrested For Spreading Ctb Locker And Cerber Ransomware, 2017 12 20 Portswigger Daily Swig Arrests Made In Connection With Ctb Locker Cerber Ransomware, 2017 12 20 Thehackernews Romanian Police Arrest 5 People For Spreading Ctb Locker And Cerber Ransomware.
+The source floor is met for a canonical operation, but source breadth does not by itself prove that every downstream arrest or sentencing is part of this operation; follow-on records should remain linked separately.
+Known metadata gaps still carried by this page: Legal Basis, Mechanisms Used, Exact Arrest Details.
+For dataset use, this page should be treated as the operation-level aggregation point: country, agency, mechanism and outcome fields describe the coordinated enforcement action as a whole. Later indictments, pleas, sentencings, extraditions or forfeiture actions should be attached as related case or absorbed follow-on records unless the source explicitly presents them as a new multinational operation.
+When source records contain broader background, repeated wire-service republications, or topic-page material, this assessment gives priority to facts that are directly tied to the named operation, its participating authorities, its target infrastructure or criminal service, and its measurable enforcement outcome. Peripheral source titles are not treated as independent taxonomy or result evidence.
+This keeps the canonical record analytically bounded and reproducible.
+
+<!-- CANONICAL_ASSESSMENT_END -->
 
 ## References
 

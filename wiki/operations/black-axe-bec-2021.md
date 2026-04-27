@@ -71,7 +71,7 @@ sources:
   - "[[2024-08-28_interpol_operation-jackal-iii-black-axe]]"
   - "[[2022-10-21_vanguardngr-com_interpol-arrests-over-70-suspected-fraudsters-linked-to-black-axe-cult-in-nigeria]]"
 created: 2026-04-08
-updated: 2026-04-26
+updated: 2026-04-27
 operation_role: umbrella
 parent_operation: ""
 summary: "INTERPOL's Operation Jackal was a multinational crackdown on Black Axe and related West African cyber-enabled financial crime groups. Officially announced on 2022-10-14, it produced 75 arrests, 49 searches, and EUR 1.2 million intercepted in bank accounts."
@@ -159,6 +159,34 @@ The public source does not identify a single court case, so this page should be 
 - Black Axe is a violent mafia-style gang renowned for cyber-enabled financial fraud, in particular business email compromise (BEC) schemes, romance scams, inheritance scams, credit card fraud, tax fraud, advance payment scams, and money laundering.
 
 <!-- SOURCE_ENRICHMENT_END -->
+
+<!-- RAW_TEXT_HIGHLIGHTS_START -->
+
+## Raw Source Highlights
+
+- INTERPOL, 2022-10-14: International crackdown on West-African financial crime rings The INTERPOL-coordinated operation, yielding more than 70 arrests, confirms the global footprint of Black Axe and similar organized crime groups.
+- INTERPOL, 2022-10-14: Lyon, France: Behind the headlines that emerged earlier this month on the arrest of two suspected online scammers in South Africa lies a global police operation coordinated by INTERPOL.
+
+<!-- RAW_TEXT_HIGHLIGHTS_END -->
+
+<!-- CANONICAL_ASSESSMENT_START -->
+
+## Canonical Operation Assessment
+
+This page is retained as a canonical operation because it describes a arrest-sweep against Black Axe and related West African cyber-enabled financial crime networks, rather than a defendant-specific follow-on action. The record attributes lead responsibility to Interpol and coordination to Interpol, with participating or affected jurisdictions recorded as United States, Nigeria, South Africa, Ireland, United Kingdom, International.
+
+The cooperation model is documented through named agencies and partners: Interpol; mechanisms: mutual legal assistance and Joint Investigation Team; legal basis: mutual legal assistance; enforcement posture: Arrest, Seizure, Search.
+
+Operational results captured for the canonical record: 75 arrests; 49 property searches; EUR 1.2 million intercepted in bank accounts; 7 Purple Notices and 6 Red Notices issued.
+
+The canonical source set contains 5 reference(s): 2022 10 14 Interpol Operation Jackal Black Axe, 2022 10 14 Interpol Int International Crackdown On West African Financial Crime Rings, 2023 06 06 Interpol Operation Jackal Black Axe Bec, 2024 08 28 Interpol Operation Jackal Iii Black Axe, 2022 10 21 Vanguardngr Com Interpol Arrests Over 70 Suspected Fraudsters Linked To Black Axe Cult In Nigeria.
+The source floor is met for a canonical operation, but source breadth does not by itself prove that every downstream arrest or sentencing is part of this operation; follow-on records should remain linked separately.
+No frontmatter missing-field flags are currently carried on this page.
+For dataset use, this page should be treated as the operation-level aggregation point: country, agency, mechanism and outcome fields describe the coordinated enforcement action as a whole. Later indictments, pleas, sentencings, extraditions or forfeiture actions should be attached as related case or absorbed follow-on records unless the source explicitly presents them as a new multinational operation.
+When source records contain broader background, repeated wire-service republications, or topic-page material, this assessment gives priority to facts that are directly tied to the named operation, its participating authorities, its target infrastructure or criminal service, and its measurable enforcement outcome. Peripheral source titles are not treated as independent taxonomy or result evidence.
+This keeps the canonical record analytically bounded and reproducible.
+
+<!-- CANONICAL_ASSESSMENT_END -->
 
 ## References
 

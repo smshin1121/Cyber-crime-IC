@@ -77,7 +77,7 @@ sources:
   - "[[2018-06-12_welivesecurity_com_74-people-arrested-in-us-led-crackdown-on-email-scams]]"
   - "[[2018-06-12_infosecurity-magazine_bec-scammers-disrupted-in-multi-million-dollar-swoop]]"
 created: 2026-04-08
-updated: 2026-04-26
+updated: 2026-04-27
 operation_role: umbrella
 parent_operation: ""
 summary: "Operation WireWire was a coordinated international law enforcement operation led by the U.S. Department of Justice, FBI, Department of Homeland Security, and Treasury Department to disrupt Business Email Compromise (BEC) and Email Account Compromise (EAC) schemes. The operation resulted in 74 arrests across the United States, Nigeria, Canada, Mauritius, and Poland, with approximately $2.4 million seized and $14 million in fraudulent wire transfers intercepted and recovered."
@@ -166,6 +166,36 @@ United States, Nigeria, Canada, Mauritius, Poland
 - The case is a useful court anchor for Operation WireWire because it shows how a broad BEC arrest wave translated into extradition-backed district-court outcomes.
 
 <!-- SOURCE_ENRICHMENT_END -->
+
+<!-- RAW_TEXT_HIGHLIGHTS_START -->
+
+## Raw Source Highlights
+
+- US DOJ (District of Connecticut), 2016-12-20: Ferrick, Special Agent in Charge of the New Haven Division of the Federal Bureau of Investigation, today announced that two Nigerian nationals have been charged with various federal offenses stemming from a business e-mail compromise scheme.
+- US DOJ (District of Connecticut), 2016-12-20: OLUMUYIWA YAHTRIP ADEJUMO , also known as “Ade,” “Slimwaco,” “Waco,” “Waco Jamon,” “Hade” and “Hadey,” 32, was arrested on a federal criminal complaint on November 16, 2017, in Toledo, Ohio, where he was living as a lawful permanent resident of the U.S.
+- FBI, 2018-06-11: Operation WireWire—which also included the Department of Homeland Security, the Department of the Treasury, and the U.S.
+- FBI, 2018-06-11: Postal Inspection Service—involved a six-month sweep that culminated in over two weeks of intensified law enforcement activity resulting in 74 arrests in the U.S.
+
+<!-- RAW_TEXT_HIGHLIGHTS_END -->
+
+<!-- CANONICAL_ASSESSMENT_START -->
+
+## Canonical Operation Assessment
+
+This page is retained as a canonical operation because it describes a arrest-sweep against Business Email Compromise (BEC) networks, rather than a defendant-specific follow-on action. The record attributes lead responsibility to Fbi and coordination to Usdoj, with participating or affected jurisdictions recorded as United States, Nigeria, Canada, Mauritius, Poland.
+
+The cooperation model is documented through named agencies and partners: Usdoj, Fbi, Us Dhs, Us Treasury, Us Postal Inspection; enforcement posture: Arrest, Seizure, Asset Freeze.
+
+Operational results captured for the canonical record: 74 arrests; $2.4 million seized; $14 million in fraudulent wire transfers intercepted and recovered.
+
+The canonical source set contains 5 reference(s): 2016 12 20 Dct Odufuye Nwoke Bec Indictment, Fbi Operation Wirewire, 2018 06 12 Securityaffairs Operation Wirewire Bec, 2018 06 12 Welivesecurity Com 74 People Arrested In Us Led Crackdown On Email Scams, 2018 06 12 Infosecurity Magazine Bec Scammers Disrupted In Multi Million Dollar Swoop.
+The source floor is met for a canonical operation, but source breadth does not by itself prove that every downstream arrest or sentencing is part of this operation; follow-on records should remain linked separately.
+Known metadata gaps still carried by this page: Legal Basis and Mechanisms Used.
+For dataset use, this page should be treated as the operation-level aggregation point: country, agency, mechanism and outcome fields describe the coordinated enforcement action as a whole. Later indictments, pleas, sentencings, extraditions or forfeiture actions should be attached as related case or absorbed follow-on records unless the source explicitly presents them as a new multinational operation.
+When source records contain broader background, repeated wire-service republications, or topic-page material, this assessment gives priority to facts that are directly tied to the named operation, its participating authorities, its target infrastructure or criminal service, and its measurable enforcement outcome. Peripheral source titles are not treated as independent taxonomy or result evidence.
+This keeps the canonical record analytically bounded and reproducible.
+
+<!-- CANONICAL_ASSESSMENT_END -->
 
 ## References
 

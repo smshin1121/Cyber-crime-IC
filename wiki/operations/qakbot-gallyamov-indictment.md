@@ -71,7 +71,7 @@ sources:
   - "[[2025-05-23_helpnetsecurity-com_danabot-botnet-disrupted-qakbot-leader-indicted]]"
   - "[[2023-08-30_eurojust-europa-eu_qakbot-malware-network-dismantled]]"
 created: 2026-04-08
-updated: 2026-04-26
+updated: 2026-04-27
 summary: "The US Department of Justice unsealed an indictment on 22 May 2025 charging Rustam Rafailevich Gallyamov with leading the Qakbot malware conspiracy. The operation also sits on top of a multinational disruption chain in which Dutch prosecutors and police publicly described the 2023 seizure of 22 Qakbot servers in the Netherlands."
 organizations:
   - "[[fbi-cyber-division]]"
@@ -162,6 +162,33 @@ The Dutch prosecution-side record is particularly useful for this operation fami
 - He allegedly developed and deployed QakBot to build a botnet that provided access to co-conspirators who deployed ransomware variants including ProLock, DopplePaymer, Egregor, REvil, Conti, Name Locker, Black Basta, and Cactus.
 
 <!-- SOURCE_ENRICHMENT_END -->
+
+<!-- RAW_TEXT_HIGHLIGHTS_START -->
+
+## Raw Source Highlights
+
+- Eurojust, 2023-08-30: Malware network that infected more than 700.000 victims and caused hundreds of millions of dollars in damage worldwide dismantled in multinational law enforcement operation | Eurojust | European Union Agency for Criminal Justice Cooperation Eurojust European Union Agency for Criminal Justice Cooperation Search Main navigation Home About.
+
+<!-- RAW_TEXT_HIGHLIGHTS_END -->
+
+<!-- CANONICAL_ASSESSMENT_START -->
+
+## Canonical Operation Assessment
+
+This page is retained as a canonical operation because it describes a joint-investigation against Rustam Rafailevich Gallyamov and Qakbot malware network, rather than a defendant-specific follow-on action. The record attributes lead responsibility to Fbi Cyber Division and coordination to Europol Ec3, with participating or affected jurisdictions recorded as Canada, Denmark, France, Germany, Netherlands, United Kingdom, United States.
+
+The cooperation model is documented through named agencies and partners: Fbi Cyber Division, Europol Ec3, Netherlands Om, Netherlands Politie.
+
+Operational results captured for the canonical record: 1 indictments; cryptocurrency/asset result recorded as USD 24,000,000+.
+
+The canonical source set contains 5 reference(s): 2025 05 22 Justice Gov Qakbot Gallyamov Indictment, 2023 08 29 Om Nl Qakbot Onschadelijk Gemaakt, 2025 05 22 Cdca Qakbot Gallyamov Indictment, 2025 05 23 Helpnetsecurity Com Danabot Botnet Disrupted Qakbot Leader Indicted, 2023 08 30 Eurojust Europa Eu Qakbot Malware Network Dismantled.
+The source floor is met for a canonical operation, but source breadth does not by itself prove that every downstream arrest or sentencing is part of this operation; follow-on records should remain linked separately.
+Known metadata gaps still carried by this page: Legal Basis and Mechanisms Used.
+For dataset use, this page should be treated as the operation-level aggregation point: country, agency, mechanism and outcome fields describe the coordinated enforcement action as a whole. Later indictments, pleas, sentencings, extraditions or forfeiture actions should be attached as related case or absorbed follow-on records unless the source explicitly presents them as a new multinational operation.
+When source records contain broader background, repeated wire-service republications, or topic-page material, this assessment gives priority to facts that are directly tied to the named operation, its participating authorities, its target infrastructure or criminal service, and its measurable enforcement outcome. Peripheral source titles are not treated as independent taxonomy or result evidence.
+This keeps the canonical record analytically bounded and reproducible.
+
+<!-- CANONICAL_ASSESSMENT_END -->
 
 ## References
 

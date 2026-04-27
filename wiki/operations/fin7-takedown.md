@@ -71,7 +71,7 @@ sources:
   - "[[2021-06-24_justice-gov_high-level-member-of-hacking-group-sentenced-prison-fin7]]"
   - "[[cbs-news-fin7-takedown]]"
 created: 2026-04-08
-updated: 2026-04-26
+updated: 2026-04-27
 operation_role: umbrella
 parent_operation: ""
 summary: "The FBI and U.S. Department of Justice investigated and prosecuted the FIN7 cybercrime group, which since 2015 had used malware and phishing attacks to steal over 15 million credit card numbers from more than 100 U.S. companies in the restaurant, gaming, and hotel sectors. Key members of the group were arrested in 2018, and stolen data had been sold on dark web marketplaces. The investigation involved cooperation with law enforcement in the United Kingdom, Australia, and France."
@@ -147,6 +147,36 @@ United States, United Kingdom, Australia, France
 - The release described arrests in Poland, Germany, and Spain and tied them to extradition efforts to the United States.
 
 <!-- SOURCE_ENRICHMENT_END -->
+
+<!-- RAW_TEXT_HIGHLIGHTS_START -->
+
+## Raw Source Highlights
+
+- FBI, 2018-01-01: Since at least 2015, FIN7 members engaged in a highly sophisticated malware campaign targeting more than 100 U.S.
+- FBI, 2018-01-01: View larger and download Network Intrusion: Control and Data Exfiltration Once infected, the compromised victim computer connected to one of FIN7’s command and control servers located throughout the world.
+- U.S. Department of Justice, 2021-06-24: Department of Justice title="About" title="News" title="Guidance & Resources" Justice.gov Office of Public Affairs High-Level Member of Hacking Group Sentenced To Prison For Scheme That Compromised Tens of Millions of Debit and Credit Cards This is archived content from the U.S.
+- U.S. Department of Justice, 2021-06-24: In June 2020, he pleaded guilty to one count of conspiracy to commit wire fraud and one count of conspiracy to commit computer hacking.
+
+<!-- RAW_TEXT_HIGHLIGHTS_END -->
+
+<!-- CANONICAL_ASSESSMENT_START -->
+
+## Canonical Operation Assessment
+
+This page is retained as a canonical operation because it describes a joint-investigation against FIN7 (Carbanak Group), rather than a defendant-specific follow-on action. The record attributes lead responsibility to Fbi and coordination to Usdoj, with participating or affected jurisdictions recorded as United States, United Kingdom, Australia, France.
+
+The cooperation model is documented through named agencies and partners: Fbi and Usdoj; enforcement posture: Arrest and Indictment.
+
+Operational results captured for the canonical record: 3 arrests; 3 indictments; 15 million+ credit card numbers stolen from 100+ US companies; Targeting restaurants, gaming, and hospitality sectors.
+
+The canonical source set contains 5 reference(s): Fbi Fin7 Cybercrime Group Takedown, 2026 04 18 Justice Gov Three Members Notorious International Cybercrime Group Fin7 Custody Role Attacking Over, 2021 04 16 Wdwa Hladyr Fin7 Sentencing, 2021 06 24 Justice Gov High Level Member Of Hacking Group Sentenced Prison Fin7, Cbs News Fin7 Takedown.
+The source floor is met for a canonical operation, but source breadth does not by itself prove that every downstream arrest or sentencing is part of this operation; follow-on records should remain linked separately.
+Known metadata gaps still carried by this page: Legal Basis and Mechanisms Used.
+For dataset use, this page should be treated as the operation-level aggregation point: country, agency, mechanism and outcome fields describe the coordinated enforcement action as a whole. Later indictments, pleas, sentencings, extraditions or forfeiture actions should be attached as related case or absorbed follow-on records unless the source explicitly presents them as a new multinational operation.
+When source records contain broader background, repeated wire-service republications, or topic-page material, this assessment gives priority to facts that are directly tied to the named operation, its participating authorities, its target infrastructure or criminal service, and its measurable enforcement outcome. Peripheral source titles are not treated as independent taxonomy or result evidence.
+This keeps the canonical record analytically bounded and reproducible.
+
+<!-- CANONICAL_ASSESSMENT_END -->
 
 ## References
 

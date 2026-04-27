@@ -93,7 +93,7 @@ sources:
   - "[DOJ — Multiple Foreign Nationals Charged (2023-09-07)](https://www.secretservice.gov/newsroom/releases/2023/09/multiple-foreign-nationals-charged-connection-trickbot-malware-and-conti)"
   - "[BleepingComputer — Dunaev sentenced (2024-01)](https://www.bleepingcomputer.com/news/security/russian-trickbot-malware-dev-sentenced-to-64-months-in-prison/)"
 created: 2026-04-10
-updated: 2026-04-26
+updated: 2026-04-27
 operation_role: umbrella
 parent_operation: ""
 summary: "The TrickBot disruption was a multi-pronged effort in October 2020 involving both U.S. military cyber operations and a private-sector-led legal action to disable one of the world's largest and most persistent botnets. U.S. Cyber Command conducted offensive operations to interfere with TrickBot's command-and-control (C2) infrastructure, while Microsoft, acting under a court order from the U.S. District Court for the Eastern District of Virginia, took down 120 of 128 identified TrickBot servers in the first week. The urgency was driven by concerns that TrickBot-deployed ransomware could disrupt U.S. election infrastructure ahead of the November 2020 presidential election. While the initial disruption was temporary — TrickBot operators eventually rebuilt portions of their infrastructure — the operation was followed by a sustained law enforcement campaign that produced arrests and indictments through 2024, including the arrest of developer Vladimir Dunaev in [[south-korea|South Korea]] and the indictment of nine Russian nationals."
@@ -272,6 +272,25 @@ This arrest and extradition demonstrate South Korea's capacity and willingness t
 - While the initial disruption was temporary — TrickBot operators eventually rebuilt portions of their infrastructure — the operation was followed by a sustained law enforcement campaign that produced arrests and indictments through 2024, including the arrest of developer Vladimir Dunaev in South Korea and the indictment of nine Russian nationals.
 
 <!-- SOURCE_ENRICHMENT_END -->
+
+<!-- CANONICAL_ASSESSMENT_START -->
+
+## Canonical Operation Assessment
+
+This page is retained as a canonical operation because it describes a takedown against TrickBot botnet infrastructure, rather than a defendant-specific follow-on action. The record attributes lead responsibility to U.S. Department of Justice and coordination to U.S. Department of Justice, with participating or affected jurisdictions recorded as United States and South Korea.
+
+The cooperation model is documented through named agencies and partners: U.S. Department of Justice, FBI Cyber Division, U.S. Secret Service; mechanisms: Public-Private Cooperation and Mutual Legal Assistance; legal basis: Computer Fraud And Abuse Act (18 U.s.c. § 1030), Wire Fraud (18 U.s.c. § 1343), Identity Theft (18 U.s.c. § 1028a), Lanham Act (trademark Infringement — Microsoft's Civil Action); enforcement posture: Takedown, Seizure, Indictment, Arrest.
+
+Operational results captured for the canonical record: 2 arrests; 9 indictments; 120 servers seized; 120 of 128 identified C2 servers disabled within first week; TrickBot operators forced to rebuild infrastructure; Vladimir Dunaev arrested in South Korea (Sep 2021), extradited to US; Alla Witte arrested in Miami (Feb 2021).
+
+The canonical source set contains 5 reference(s): [microsoft Blog — New Action To Combat Ransomware (2020 10 12)](https://blogs.microsoft.com/on The Issues/2020/10/12/trickbot Ransomware Cyberthreat Us Elections/), [microsoft Blog — Update On Disruption (2020 10 20)](https://blogs.microsoft.com/on The Issues/2020/10/20/trickbot Ransomware Disruption Update/), [cyberscoop — Cyber Command, Microsoft Take Action (2020 10 12)](https://cyberscoop.com/trickbot Takedown Cyber Command Microsoft/), [doj — Multiple Foreign Nationals Charged (2023 09 07)](https://www.secretservice.gov/newsroom/releases/2023/09/multiple Foreign Nationals Charged Connection Trickbot Malware And Conti), [bleepingcomputer — Dunaev Sentenced (2024 01)](https://www.bleepingcomputer.com/news/security/russian Trickbot Malware Dev Sentenced To 64 Months In Prison/).
+The source floor is met for a canonical operation, but source breadth does not by itself prove that every downstream arrest or sentencing is part of this operation; follow-on records should remain linked separately.
+No frontmatter missing-field flags are currently carried on this page.
+For dataset use, this page should be treated as the operation-level aggregation point: country, agency, mechanism and outcome fields describe the coordinated enforcement action as a whole. Later indictments, pleas, sentencings, extraditions or forfeiture actions should be attached as related case or absorbed follow-on records unless the source explicitly presents them as a new multinational operation.
+When source records contain broader background, repeated wire-service republications, or topic-page material, this assessment gives priority to facts that are directly tied to the named operation, its participating authorities, its target infrastructure or criminal service, and its measurable enforcement outcome. Peripheral source titles are not treated as independent taxonomy or result evidence.
+This keeps the canonical record analytically bounded and reproducible.
+
+<!-- CANONICAL_ASSESSMENT_END -->
 
 ## References
 

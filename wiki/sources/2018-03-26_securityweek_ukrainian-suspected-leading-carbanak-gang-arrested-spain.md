@@ -12,6 +12,7 @@ reliability: medium-high
 credibility: probably-true
 sensitivity: public
 pages_updated:
+  - carbanak-cobalt-takedown
   - "[[operation-europol-mastermind-behind-eur-1-billion-cyber-bank-robbery-arrested-in-spain-carbanak-cobalt]]"
 key_findings:
   - "Carbanak gang leader 'Denis K' arrested in Alicante March 26, 2018."

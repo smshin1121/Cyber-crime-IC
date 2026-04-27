@@ -80,7 +80,7 @@ sources:
   - "[[2015-06-12_infosecuritymagazine_europol-busts-operation-triangle-in-six-nation-raid]]"
   - "[[2015-06-12_securityaffairs_law-enforcement-dismantled-gang-behind-operation-triangle-phishing-campaign]]"
 created: 2026-04-08
-updated: 2026-04-26
+updated: 2026-04-27
 operation_role: umbrella
 parent_operation: ""
 summary: "In June 2015, an international law enforcement operation coordinated by Europol and Eurojust dismantled a criminal group engaged in cyber fraud through email account intrusion and financial fraud. The operation resulted in 49 arrests across Italy, Spain, Poland, the United Kingdom, Belgium, and Georgia, with 58 premises searched and criminal proceeds including cash, credit cards, and forged documents seized."
@@ -172,6 +172,34 @@ Italy, Spain, Poland, United Kingdom, Belgium, Georgia
 - This report entry offers a second primary Europol URL for Operation Triangle and mentions J-CAT support.
 
 <!-- SOURCE_ENRICHMENT_END -->
+
+<!-- RAW_TEXT_HIGHLIGHTS_START -->
+
+## Raw Source Highlights
+
+- Europol, 2015-12-31: The 2015 IOCTA provides primarily a law enforcement perspective, combined with input from private industry, the financial sector and academia, which makes it unique compared to many private sector assessments.
+- Europol, 2015-12-31: Aggressively confronting victims is the trademark of traditional organised crime groups who have turned to cybercrime for its high profits 6 .
+
+<!-- RAW_TEXT_HIGHLIGHTS_END -->
+
+<!-- CANONICAL_ASSESSMENT_START -->
+
+## Canonical Operation Assessment
+
+This page is retained as a canonical operation because it describes a arrest-sweep against International cyber fraud ring, rather than a defendant-specific follow-on action. The record attributes lead responsibility to Europol Ec3 and coordination to Eurojust, with participating or affected jurisdictions recorded as Italy, Spain, Poland, United Kingdom, Belgium, Georgia.
+
+The cooperation model is documented through named agencies and partners: Europol Ec3, Eurojust, Polizia Di Stato, Spanish National Police; enforcement posture: Arrest and Seizure.
+
+Operational results captured for the canonical record: 49 arrests; 58 premises searched; Cash, credit cards, and forged documents seized.
+
+The canonical source set contains 5 reference(s): Europol International Cyber Fraud Dismantling Operation, 2015 12 31 Europol Review 2015 Operation Triangle Financial Fraud Cybercrime Group Dismantled, 2015 06 11 Europeanaffairs Europol Operation Triangle Cybercrime Net Dismantled, 2015 06 12 Infosecuritymagazine Europol Busts Operation Triangle In Six Nation Raid, 2015 06 12 Securityaffairs Law Enforcement Dismantled Gang Behind Operation Triangle Phishing Campaign.
+The source floor is met for a canonical operation, but source breadth does not by itself prove that every downstream arrest or sentencing is part of this operation; follow-on records should remain linked separately.
+Known metadata gaps still carried by this page: Legal Basis and Mechanisms Used.
+For dataset use, this page should be treated as the operation-level aggregation point: country, agency, mechanism and outcome fields describe the coordinated enforcement action as a whole. Later indictments, pleas, sentencings, extraditions or forfeiture actions should be attached as related case or absorbed follow-on records unless the source explicitly presents them as a new multinational operation.
+When source records contain broader background, repeated wire-service republications, or topic-page material, this assessment gives priority to facts that are directly tied to the named operation, its participating authorities, its target infrastructure or criminal service, and its measurable enforcement outcome. Peripheral source titles are not treated as independent taxonomy or result evidence.
+This keeps the canonical record analytically bounded and reproducible.
+
+<!-- CANONICAL_ASSESSMENT_END -->
 
 ## References
 

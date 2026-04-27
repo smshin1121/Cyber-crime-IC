@@ -109,7 +109,7 @@ sources:
   - "[[2015-12-03_ice-gov_senior-advisor-arrested-in-thailand]]"
   - "[[2025-01-01_en-wikipedia-org_silk-road-marketplace]]"
 created: 2026-04-10
-updated: 2026-04-26
+updated: 2026-04-27
 operation_role: umbrella
 parent_operation: ""
 summary: "The Silk Road takedown was the seizure and shutdown of the pioneering dark web drug marketplace on 2 October 2013, accompanied by the arrest of its creator and operator, Ross William Ulbricht (alias \"Dread Pirate Roberts\" or \"DPR\"), by the [[fbi-cyber-division|FBI]] in San Francisco. Silk Road, which operated on the Tor anonymity network from approximately February 2011, had facilitated an estimated USD 1.2 billion in illegal transactions -- primarily narcotics -- serving over 100,000 buyers through thousands of vendors worldwide. The FBI seized approximately 173,991 bitcoins (then worth ~$33.6 million) and the Silk Road server infrastructure hosted in Iceland."
@@ -340,6 +340,40 @@ South Korea was not directly involved in the Silk Road investigation or prosecut
 - The FBI seized approximately 173,991 bitcoins (then worth ~$33.6 million) and the Silk Road server infrastructure hosted in Iceland.
 
 <!-- SOURCE_ENRICHMENT_END -->
+
+<!-- RAW_TEXT_HIGHLIGHTS_START -->
+
+## Raw Source Highlights
+
+- DOJ SDNY, 2014-02-04: Attorney's Office, Southern District of New York Silk Road Was Used By More Than 100,000 Users To Buy And Sell Hundreds Of Kilograms Of Illegal Drugs And Other Unlawful Goods And Services Preet Bharara, the United States Attorney for the Southern District of New York, announced today the indictment in Manhattan federal court of ROSS.
+- DOJ SDNY, 2014-02-04: ULBRICHT was arrested in San Francisco, California, on October 1, 2013, pursuant to a criminal Complaint filed in Manhattan federal court.
+- FBI New York, 2015-02-04: Ulbricht built this black market bazaar to exploit the dark web and the digital currency Bitcoin to allow users to conduct illegal business beyond the reach of law enforcement.
+- FBI New York, 2015-02-04: The supposed anonymity of the dark web is not a protective shield from arrest and prosecution.” According to the Complaint, the Superseding Indictment, and the evidence presented at trial: ULBRICHT created Silk Road in approximately January 2011, and owned and operated the underground website until it was shut down by law enforcement.
+- US ICE, 2015-05-29: ET: Results of Nationwide Law Enforcement Effort Press Conference ICE Check-in for Aliens Get information about how to check in with your local ICE Office here .
+- US ICE, 2015-05-29: Immigration and Customs Enforcement Learn More About ICE " class="we-megamenu-nolink" title="Click here to open the Enforcement and Removal Operations menu"> Enforcement and Removal Operations Identify and Arrest Criminal Alien Program Fugitive Operations Law Enforcement Partnerships 287g Program Immigration Fraud Prosecutions Detain.
+- FBI New York, 2015-05-29: Additional victims included Bryan B., a 25-year old from Boston, Massachusetts, and Scott W., a 36-year old from Australia, who both died as a result of heroin purchased from Silk Road, and Jacob B., a 22-year old from Australia, who died from health complications that were aggravated by the use of drugs purchased from Silk Road.
+- FBI New York, 2015-05-29: Using the online moniker “Dread Pirate Roberts,” or “DPR,” ULBRICHT controlled and oversaw every aspect of Silk Road, and managed a staff of paid, online administrators and computer programmers who assisted with the day-to-day operation of the site.
+
+<!-- RAW_TEXT_HIGHLIGHTS_END -->
+
+<!-- CANONICAL_ASSESSMENT_START -->
+
+## Canonical Operation Assessment
+
+This page is retained as a canonical operation because it describes a infrastructure-seizure against Silk Road dark web marketplace and Ross William Ulbricht (Dread Pirate Roberts), rather than a defendant-specific follow-on action. The record attributes lead responsibility to Fbi Cyber Division and coordination to Us Doj, with participating or affected jurisdictions recorded as United States, Iceland, Ireland, Australia, Thailand.
+
+The cooperation model is documented through named agencies and partners: Fbi Cyber Division and Us Doj; mechanisms: Mlat Process; legal basis: Mlat Process; enforcement posture: Arrest, Seizure, Indictment, Asset Freeze.
+
+Operational results captured for the canonical record: 1 arrests; 1 servers seized; 1 domains seized; cryptocurrency/asset result recorded as Approximately 173,991 BTC total (29,655 BTC from Silk Road servers + 144,336 BTC from Ulbricht's hardware); valued at.; USD $183 million forfeiture order against Ulbricht; Silk Road processed an estimated $1.2 billion in transactions over its lifetime; Over 100,000 buyers served by thousands of vendors; Follow-on arrests of accomplices in Ireland, Thailand, and US.
+
+The canonical source set contains 7 reference(s): 2014 02 04 Justice Gov Manhattan U S Attorney Announces The Indictment Of Ross Ulbricht, 2015 02 04 Fbi Gov Ross Ulbricht Found Guilty On All Counts, 2015 05 29 Ice Gov Ross Ulbricht Sentenced To Life In Federal Prison, 2015 05 29 Fbi Gov Ross Ulbricht Sentenced To Life In Prison, 2019 07 19 Justice Gov Irish Man Who Helped Operate Silk Road Sentenced, 2015 12 03 Ice Gov Senior Advisor Arrested In Thailand, plus 1 more.
+The source floor is met for a canonical operation, but source breadth does not by itself prove that every downstream arrest or sentencing is part of this operation; follow-on records should remain linked separately.
+No frontmatter missing-field flags are currently carried on this page.
+For dataset use, this page should be treated as the operation-level aggregation point: country, agency, mechanism and outcome fields describe the coordinated enforcement action as a whole. Later indictments, pleas, sentencings, extraditions or forfeiture actions should be attached as related case or absorbed follow-on records unless the source explicitly presents them as a new multinational operation.
+When source records contain broader background, repeated wire-service republications, or topic-page material, this assessment gives priority to facts that are directly tied to the named operation, its participating authorities, its target infrastructure or criminal service, and its measurable enforcement outcome. Peripheral source titles are not treated as independent taxonomy or result evidence.
+This keeps the canonical record analytically bounded and reproducible.
+
+<!-- CANONICAL_ASSESSMENT_END -->
 
 ## References
 

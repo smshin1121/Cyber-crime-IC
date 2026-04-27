@@ -89,7 +89,7 @@ sources:
   - "[4] Wikipedia — Operation 1027 (multiple dates)"
   - "[5] CNN — 2025 Was a Terrible Year for the Four Families (2026-01-04)"
 created: 2026-04-10
-updated: 2026-04-26
+updated: 2026-04-27
 operation_role: umbrella
 parent_operation: ""
 summary: "The Myanmar-Kokang Cyber Scam Compound Crackdown was a Chinese-led cross-border law enforcement campaign, beginning in September 2023, aimed at dismantling massive cyber fraud operations based in the Kokang Self-Administered Zone (SAZ) of northern Myanmar's Shan State. The crackdown was catalyzed by China's Ministry of Public Security (MPS) issuing arrest warrants for scam kingpins and was dramatically accelerated by **Operation 1027** — a military offensive launched on October 27, 2023 by the Three Brotherhood Alliance (a coalition of ethnic armed organizations including the MNDAA) that physically overran the scam compound territories."
@@ -310,6 +310,25 @@ No known direct Korean involvement in the Myanmar-Kokang crackdown. However, the
 - The crackdown was catalyzed by China's Ministry of Public Security (MPS) issuing arrest warrants for scam kingpins and was dramatically accelerated by **Operation 1027** — a military offensive launched on October 27, 2023 by the Three Brotherhood Alliance (a coalition of ethnic armed organizations including the MNDAA) that physically overran the scam.
 
 <!-- SOURCE_ENRICHMENT_END -->
+
+<!-- CANONICAL_ASSESSMENT_START -->
+
+## Canonical Operation Assessment
+
+This page is retained as a canonical operation because it describes a arrest-sweep against Cyber scam compounds in Kokang Self-Administered Zone, northern Myanmar, rather than a defendant-specific follow-on action. The record attributes lead responsibility to China Mps and coordination to China Mps, with participating or affected jurisdictions recorded as China and Myanmar.
+
+The cooperation model is documented through named agencies and partners: China Mps, Myanmar Border Authorities, Mndaa (myanmar National Democratic Alliance Army); mechanisms: informal cooperation; enforcement posture: Arrest, Extradition, Seizure.
+
+Operational results captured for the canonical record: 41,000+ telecom fraud suspects repatriated from Myanmar to China (2023); 57,000+ Chinese nationals suspected of fraud arrested/repatriated since 2023 (cumulative); 31,000 suspects transferred by November 2023, including 63 masterminds and 1,531 fugitives; 391,000 telecom/online fraud cases solved domestically in China (2023).
+
+The canonical source set contains 5 reference(s): [1] Voa — Myanmar Rebel Offensive Helps China's Cybercrime Crackdown (2023 11 20), [2] Cgtn — 31,000 Telecom Scam Suspects Handed Over To China By Myanmar (2023 11 21), [3] China Daily — Ministry Releases Details Of Crackdown (2024 01 05), [4] Wikipedia — Operation 1027 (multiple Dates), [5] Cnn — 2025 Was A Terrible Year For The Four Families (2026 01 04).
+The source floor is met for a canonical operation, but source breadth does not by itself prove that every downstream arrest or sentencing is part of this operation; follow-on records should remain linked separately.
+Known metadata gaps still carried by this page: Legal Basis, Exact Arrest Counts (chinese Domestic Vs. Repatriated), Cryptocurrency Seized.
+For dataset use, this page should be treated as the operation-level aggregation point: country, agency, mechanism and outcome fields describe the coordinated enforcement action as a whole. Later indictments, pleas, sentencings, extraditions or forfeiture actions should be attached as related case or absorbed follow-on records unless the source explicitly presents them as a new multinational operation.
+When source records contain broader background, repeated wire-service republications, or topic-page material, this assessment gives priority to facts that are directly tied to the named operation, its participating authorities, its target infrastructure or criminal service, and its measurable enforcement outcome. Peripheral source titles are not treated as independent taxonomy or result evidence.
+This keeps the canonical record analytically bounded and reproducible.
+
+<!-- CANONICAL_ASSESSMENT_END -->
 
 ## References
 

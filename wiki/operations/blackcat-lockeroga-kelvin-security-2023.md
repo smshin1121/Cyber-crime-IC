@@ -77,7 +77,7 @@ sources:
   - "[[2023-12-19_cisa-gov_stopransomware-alphv-blackcat]]"
   - "[[2023-12-19_bleepingcomputer_fbi-disrupts-blackcat-ransomware-operation-creates-decryption-tool]]"
 created: 2026-04-08
-updated: 2026-04-26
+updated: 2026-04-27
 operation_role: umbrella
 parent_operation: ""
 summary: "This page groups three separate official enforcement actions announced in late November and December 2023 that respectively targeted ALPHV/BlackCat, a LockerGoga-linked ransomware affiliate group, and Kelvin Security."
@@ -196,6 +196,34 @@ No Korean involvement identified.
 - The public statement identified alleged offenses including criminal organization membership, disclosure of secrets, computer damage, and money laundering.
 
 <!-- SOURCE_ENRICHMENT_END -->
+
+<!-- RAW_TEXT_HIGHLIGHTS_START -->
+
+## Raw Source Highlights
+
+- U.S. Department of Justice, 2023-12-19: Department of Justice title="About" title="News" title="Guidance & Resources" Justice.gov Office of Public Affairs Justice Department Disrupts Prolific ALPHV/Blackcat Ransomware Variant This is archived content from the U.S.
+- U.S. Department of Justice, 2023-12-19: Over the past 18 months, ALPHV/Blackcat has emerged as the second most prolific ransomware-as-a-service variant in the world based on the hundreds of millions of dollars in ransoms paid by victims around the world.
+
+<!-- RAW_TEXT_HIGHLIGHTS_END -->
+
+<!-- CANONICAL_ASSESSMENT_START -->
+
+## Canonical Operation Assessment
+
+This page is retained as a canonical operation because it describes a arrest-sweep against BlackCat/ALPHV, LockerGoga-linked affiliate network, Kelvin Security, rather than a defendant-specific follow-on action. The record attributes lead responsibility to Fbi Cyber Division and coordination to Europol Ec3, with participating or affected jurisdictions recorded as United States, Norway, Ukraine, Spain.
+
+The cooperation model is documented through named agencies and partners: Fbi Cyber Division, Europol Ec3, Eurojust; enforcement posture: Arrest, Takedown, Seizure.
+
+Operational results captured for the canonical record: 1 arrests; 500 victims notified; 1 decryption keys recovered; BlackCat/ALPHV infrastructure disrupted; LockerGoga-linked affiliate network hit by searches and detentions in Ukraine; Kelvin Security-linked suspect arrested in Spain.
+
+The canonical source set contains 5 reference(s): 2023 12 19 Justice Gov Justice Department Disrupts Prolific Alphvblackcat Ransomware Variant, 2023 11 28 Eurojust Ransomware Group Dismantled Ukraine Major Operation Supported Eurojust Europol, 2023 12 11 Interior Gob Es Policia Nacional Detiene Lider Kelvin Security, 2023 12 19 Cisa Gov Stopransomware Alphv Blackcat, 2023 12 19 Bleepingcomputer Fbi Disrupts Blackcat Ransomware Operation Creates Decryption Tool.
+The source floor is met for a canonical operation, but source breadth does not by itself prove that every downstream arrest or sentencing is part of this operation; follow-on records should remain linked separately.
+Known metadata gaps still carried by this page: Legal Basis, Mechanisms Used, Exact Seizure Counts.
+For dataset use, this page should be treated as the operation-level aggregation point: country, agency, mechanism and outcome fields describe the coordinated enforcement action as a whole. Later indictments, pleas, sentencings, extraditions or forfeiture actions should be attached as related case or absorbed follow-on records unless the source explicitly presents them as a new multinational operation.
+When source records contain broader background, repeated wire-service republications, or topic-page material, this assessment gives priority to facts that are directly tied to the named operation, its participating authorities, its target infrastructure or criminal service, and its measurable enforcement outcome. Peripheral source titles are not treated as independent taxonomy or result evidence.
+This keeps the canonical record analytically bounded and reproducible.
+
+<!-- CANONICAL_ASSESSMENT_END -->
 
 ## References
 

@@ -76,7 +76,7 @@ sources:
   - "[[2020-02-17_interpol-es_southeast-asia-cyberthreats-goldfish-alpha-night-fury]]"
   - "[[cyberscoop-operation-nightfury-magecartgetbilling]]"
 created: 2026-04-08
-updated: 2026-04-26
+updated: 2026-04-27
 operation_role: umbrella
 parent_operation: ""
 summary: "INTERPOL's ASEAN Cybercrime Operations Desk coordinated two operations -- Goldfish Alpha (targeting cryptojacking malware) and Night Fury (targeting e-commerce malware) -- across Southeast Asian nations during 2019-2020. These operations addressed key cyber threats facing the ASEAN region including botnets, phishing, BEC, banking malware, ransomware, and cryptojacking. Through information sharing and joint operations among ASEAN member states, criminal networks were dismantled and arrests were made."
@@ -163,6 +163,36 @@ Indonesia, Malaysia, Thailand, Philippines, Singapore, Vietnam, Myanmar, and oth
 - Group-IB described its direct support to Operation Night Fury and identified the targeted malware family as GetBilling, a Magecart-style JavaScript skimmer.
 
 <!-- SOURCE_ENRICHMENT_END -->
+
+<!-- RAW_TEXT_HIGHLIGHTS_START -->
+
+## Raw Source Highlights
+
+- INTERPOL, 2020-01-01: INTERPOL report highlights key cyberthreats in Southeast Asia Botnets, ransomware and cryptojacking among top trends identified SINGAPORE – A report by INTERPOL on cybercrime in Southeast Asia has highlighted the key emerging cybercrime trends and threats which continues to be faced by the region today.
+- INTERPOL, 2020-01-01: The INTERPOL ASEAN Cybercrime Operations Desk analysed data provided by INTERPOL’s private sector cybersecurity partners to identify the region’s top cyberthreats: Botnets – In the first half of 2019, there was an increase in botnet detections and hosting of Command and Control (C2) servers in the ASEAN region.
+- INTERPOL, 2020-02-17: Un informe de INTERPOL destaca las principales ciberamenazas en el Sudeste Asiático Entre las principales tendencias identificadas se cuentan los botnets, el ransomware y el criptojacking SINGAPUR - Un informe de INTERPOL sobre ciberdelincuencia en el Sudeste Asiático ha puesto de manifiesto las tendencias emergentes clave a este.
+- INTERPOL, 2020-02-17: Malware en el sector bancario - En el primer semestre de 2019 hubo un aumento de los ataques respecto a 2018.
+
+<!-- RAW_TEXT_HIGHLIGHTS_END -->
+
+<!-- CANONICAL_ASSESSMENT_START -->
+
+## Canonical Operation Assessment
+
+This page is retained as a canonical operation because it describes a arrest-sweep against Cryptojacking and e-commerce malware networks in Southeast Asia, rather than a defendant-specific follow-on action. The record attributes lead responsibility to Interpol and coordination to Interpol, with participating or affected jurisdictions recorded as Indonesia, Malaysia, Thailand, Philippines, Singapore, Vietnam, Myanmar.
+
+The cooperation model is documented through named agencies and partners: Interpol and Interpol Asean Desk; enforcement posture: Arrest and Takedown.
+
+Operational results captured for the canonical record: 3 arrests; Cryptojacking infrastructure dismantled (Goldfish Alpha); E-commerce targeting malware operations disrupted (Night Fury); ASEAN regional cyber threat assessment produced.
+
+The canonical source set contains 5 reference(s): Interpol Operation Goldfish Alpha Night Fury, 2020 01 27 Group Ib Night Fury, 2020 01 28 Techtarget 3 Magecart Suspects Arrested In Interpol Operation, 2020 02 17 Interpol Es Southeast Asia Cyberthreats Goldfish Alpha Night Fury, Cyberscoop Operation Nightfury Magecartgetbilling.
+The source floor is met for a canonical operation, but source breadth does not by itself prove that every downstream arrest or sentencing is part of this operation; follow-on records should remain linked separately.
+Known metadata gaps still carried by this page: Legal Basis and Mechanisms Used.
+For dataset use, this page should be treated as the operation-level aggregation point: country, agency, mechanism and outcome fields describe the coordinated enforcement action as a whole. Later indictments, pleas, sentencings, extraditions or forfeiture actions should be attached as related case or absorbed follow-on records unless the source explicitly presents them as a new multinational operation.
+When source records contain broader background, repeated wire-service republications, or topic-page material, this assessment gives priority to facts that are directly tied to the named operation, its participating authorities, its target infrastructure or criminal service, and its measurable enforcement outcome. Peripheral source titles are not treated as independent taxonomy or result evidence.
+This keeps the canonical record analytically bounded and reproducible.
+
+<!-- CANONICAL_ASSESSMENT_END -->
 
 ## References
 

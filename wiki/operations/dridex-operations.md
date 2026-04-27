@@ -131,7 +131,7 @@ sources:
   - "[7] The Hacker News: FBI Puts $5 Million Bounty (2019-12-05)"
   - "[8] Dell SecureWorks: Dridex (Bugat v5) Botnet Takeover Operation (2015-10)"
 created: 2026-04-10
-updated: 2026-04-26
+updated: 2026-04-27
 operation_role: umbrella
 parent_operation: ""
 summary: "The Dridex/Evil Corp disruption and prosecution was a **multi-year international law enforcement operation** targeting the Dridex banking trojan (also known as Bugat and Cridex) and its operators within the Russia-based cybercriminal organization **Evil Corp**. The operation unfolded in two major phases: (1) the **October 2015 technical disruption and arrest** of botnet administrator Andrey Ghinkul, conducted jointly by the [[fbi-cyber-division|FBI]] and [[uk-nca|UK National Crime Agency (NCA)]]; and (2) the **December 2019 indictment, sanctions, and reward** targeting Evil Corp leader **Maksim Yakubets** and deputy **Igor Turashev**, coordinated between the [[us-doj|US DOJ]], [[us-treasury|US Treasury (OFAC)]], and NCA."
@@ -329,6 +329,25 @@ There is no confirmed direct Korean involvement in the Dridex/Evil Corp operatio
 - DOJ U.S. Attorney's Office WDPA sentencing follow-up for the Bugat botnet administrator case, documenting the Cyprus extradition timeline.
 
 <!-- SOURCE_ENRICHMENT_END -->
+
+<!-- CANONICAL_ASSESSMENT_START -->
+
+## Canonical Operation Assessment
+
+This page is retained as a canonical operation because it describes a joint-investigation against Evil Corp cybercriminal organization; Dridex/Bugat/Cridex banking trojan operators, rather than a defendant-specific follow-on action. The record attributes lead responsibility to FBI Cyber Division (Pittsburgh Field Office) and coordination to Europol EC3, with participating or affected jurisdictions recorded as United States, United Kingdom, Germany, Moldova, Cyprus.
+
+The cooperation model is documented through named agencies and partners: FBI Cyber Division, UK National Crime Agency (NCA), US Department of Justice, US Treasury Department (OFAC), Europol EC3, Germany BKA; mechanisms: MLAT, Fbi Nca Bilateral Cooperation, Botnet Sinkholing (technical Disruption), Ofac Sanctions (asset Freeze); legal basis: US-UK MLAT, US-Moldova MLAT, Us Computer Fraud And Abuse Act (18 U.s.c. Ss 1030), Us Wire Fraud Statute (18 U.s.c. Ss 1343), Us Bank Fraud Statute (18 U.s.c. Ss 1344), International Emergency Economic Powers Act (ieepa) Ofac Sanctions; enforcement posture: Arrest, Indictment, Takedown, Extradition, Asset Freeze.
+
+Operational results captured for the canonical record: 1 arrests; 3 indictments; Dridex botnet sinkholed via P2P network poisoning (October 2015); Andrey Ghinkul arrested in Cyprus (August 2015), extradited to US (February 2016), sentenced to time served (December 2018); Maksim Yakubets and Igor Turashev indicted (December 2019); $5 million reward offered for Yakubets -- largest cyber reward at time of announcement.
+
+The canonical source set contains 8 reference(s): [1] Doj: Bugat Botnet Administrator Arrested And Malware Disabled (2015 10 13), [2] Fbi: Bugat Botnet Administrator Arrested (2015 10 13), [3] Doj: Russian National Charged With Decade Long Series Of Hacking (2019 12 05), [4] Us Treasury: Sanctions Evil Corp (2019 12 05), [5] Nca: International Law Enforcement Operation Exposes The World's Most Harmful Cyber Crime Group (2019 12 05), [6] Doj: Moldovan Sentenced For Distributing Multifunction Malware Package (2018 12 06), plus 2 more.
+The source floor is met for a canonical operation, but source breadth does not by itself prove that every downstream arrest or sentencing is part of this operation; follow-on records should remain linked separately.
+No frontmatter missing-field flags are currently carried on this page.
+For dataset use, this page should be treated as the operation-level aggregation point: country, agency, mechanism and outcome fields describe the coordinated enforcement action as a whole. Later indictments, pleas, sentencings, extraditions or forfeiture actions should be attached as related case or absorbed follow-on records unless the source explicitly presents them as a new multinational operation.
+When source records contain broader background, repeated wire-service republications, or topic-page material, this assessment gives priority to facts that are directly tied to the named operation, its participating authorities, its target infrastructure or criminal service, and its measurable enforcement outcome. Peripheral source titles are not treated as independent taxonomy or result evidence.
+This keeps the canonical record analytically bounded and reproducible.
+
+<!-- CANONICAL_ASSESSMENT_END -->
 
 ## References
 

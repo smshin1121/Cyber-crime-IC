@@ -56,7 +56,7 @@ sources:
   - "[[2025-04-07_seoul-co-kr_asia-6-country-crackdown-on-online-child-sexual-abuse-material]]"
   - "[[2025-04-08_police-gov-sg_cross-border-operation-targeting-online-child-sexual-exploitation-activities]]"
 created: 2026-04-08
-updated: 2026-04-26
+updated: 2026-04-27
 operation_role: umbrella
 parent_operation: ""
 summary: "Operation Cyber Guardian was a Singapore-initiated six-jurisdiction crackdown on online child sexual exploitation crimes in Asia, producing 544 identified suspects or arrests across South Korea, Japan, Singapore, Malaysia, Thailand, and Hong Kong."
@@ -152,6 +152,25 @@ The available sources support a coordinated police-operation model with a shared
 - The article reports 435 arrests and 109 persons under investigation across the participating jurisdictions.
 
 <!-- SOURCE_ENRICHMENT_END -->
+
+<!-- CANONICAL_ASSESSMENT_START -->
+
+## Canonical Operation Assessment
+
+This page is retained as a canonical operation because it describes a arrest-sweep against Online child sexual abuse and exploitation offenders across six Asian jurisdictions, rather than a defendant-specific follow-on action. The record attributes lead responsibility to Singapore Police and coordination to Singapore Police, with participating or affected jurisdictions recorded as South Korea, Japan, Singapore, Malaysia, Thailand, Hong Kong.
+
+The cooperation model is documented through named agencies and partners: Singapore Police, Knpa Cyber Bureau, Japan Npa; mechanisms: informal cooperation; enforcement posture: Arrest and Search.
+
+Operational results captured for the canonical record: 544 arrests; South Korea recorded 435 suspects, including 374 arrests attributed to the National Investigation Headquarters.; Japan publicly reported 111 suspects.; Singapore publicly reported 21 suspects and Malaysia 4..
+
+The canonical source set contains 5 reference(s): 2025 04 07 Seoul Co Kr Operation Cyber Guardian, 2025 04 01 Japan Npa Operation Cyber Guardian, 2025 04 07 Korea Kr Operation Cyber Guardian Asia 6 Country Joint Crackdown On Child Sexual Abuse Ma, 2025 04 07 Seoul Co Kr Asia 6 Country Crackdown On Online Child Sexual Abuse Material, 2025 04 08 Police Gov Sg Cross Border Operation Targeting Online Child Sexual Exploitation Activities.
+The source floor is met for a canonical operation, but source breadth does not by itself prove that every downstream arrest or sentencing is part of this operation; follow-on records should remain linked separately.
+No frontmatter missing-field flags are currently carried on this page.
+For dataset use, this page should be treated as the operation-level aggregation point: country, agency, mechanism and outcome fields describe the coordinated enforcement action as a whole. Later indictments, pleas, sentencings, extraditions or forfeiture actions should be attached as related case or absorbed follow-on records unless the source explicitly presents them as a new multinational operation.
+When source records contain broader background, repeated wire-service republications, or topic-page material, this assessment gives priority to facts that are directly tied to the named operation, its participating authorities, its target infrastructure or criminal service, and its measurable enforcement outcome. Peripheral source titles are not treated as independent taxonomy or result evidence.
+This keeps the canonical record analytically bounded and reproducible.
+
+<!-- CANONICAL_ASSESSMENT_END -->
 
 ## References
 

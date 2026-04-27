@@ -48,7 +48,7 @@ sources:
   - "[4] AP / VOA (2024-06-27)"
   - "[5] The Record (2024-06-28)"
 created: 2026-04-10
-updated: 2026-04-26
+updated: 2026-04-27
 operation_role: umbrella
 parent_operation: ""
 summary: "On June 26, 2024, Indonesian immigration officials raided a villa in the Marga subdistrict of Tabanan regency, Bali, detaining 103 foreign nationals — 91 men and 12 women — suspected of conducting cybercrimes targeting victims in other countries, including Malaysia. The operation was led by the Bali Immigration Directorate and resulted in the seizure of approximately 450 mobile phones and dozens of laptops, printers, routers, and identity cards. Because the alleged victims were located outside Indonesia, authorities determined they could not pursue criminal charges under Indonesian jurisdiction and instead opted for deportation on immigration violations (visa misuse). The raid was described as the largest immigration arrest in Indonesia in 2024."
@@ -210,6 +210,25 @@ No known Korean involvement in this operation. However, the case is relevant to 
 - The raid was described as the largest immigration arrest in Indonesia in 2024.
 
 <!-- SOURCE_ENRICHMENT_END -->
+
+<!-- CANONICAL_ASSESSMENT_START -->
+
+## Canonical Operation Assessment
+
+This page is retained as a canonical operation because it describes a arrest-sweep against Taiwanese cybercrime syndicate operating from Bali villa, rather than a defendant-specific follow-on action. The record attributes lead responsibility to Indonesia Immigration Directorate and coordination to Indonesia Immigration Directorate, with participating or affected jurisdictions recorded as Indonesia.
+
+The cooperation model is documented through named agencies and partners: Indonesia Immigration Supervision and Enforcement Directorate; enforcement posture: Arrest and Deportation.
+
+Operational results captured for the canonical record: 103 arrests; 450 mobile phones seized; Dozens of laptops, printers, routers seized; Identity cards confiscated; All 103 suspects ordered deported (not criminally charged).
+
+The canonical source set contains 5 reference(s): [1] Al Jazeera (2024 06 28), [2] Benarnews / Rfa (2024 06 28), [3] Taipei Times (2024 06 29), [4] Ap / Voa (2024 06 27), [5] The Record (2024 06 28).
+The source floor is met for a canonical operation, but source breadth does not by itself prove that every downstream arrest or sentencing is part of this operation; follow-on records should remain linked separately.
+No frontmatter missing-field flags are currently carried on this page.
+For dataset use, this page should be treated as the operation-level aggregation point: country, agency, mechanism and outcome fields describe the coordinated enforcement action as a whole. Later indictments, pleas, sentencings, extraditions or forfeiture actions should be attached as related case or absorbed follow-on records unless the source explicitly presents them as a new multinational operation.
+When source records contain broader background, repeated wire-service republications, or topic-page material, this assessment gives priority to facts that are directly tied to the named operation, its participating authorities, its target infrastructure or criminal service, and its measurable enforcement outcome. Peripheral source titles are not treated as independent taxonomy or result evidence.
+This keeps the canonical record analytically bounded and reproducible.
+
+<!-- CANONICAL_ASSESSMENT_END -->
 
 ## References
 | # | Title | Publisher | Date | URL |

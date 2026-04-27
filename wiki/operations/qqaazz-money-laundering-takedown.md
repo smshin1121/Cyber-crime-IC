@@ -79,7 +79,7 @@ sources:
   - "[[2020-10-15_occrp-org_pan-continental-operation-busts-money-launderers-for-europes-cybercriminals]]"
   - "[[2020-10-16_amlintelligence-com_international-criminals-charged-in-laundering-investigation]]"
 created: 2026-04-08
-updated: 2026-04-26
+updated: 2026-04-27
 operation_role: umbrella
 parent_operation: ""
 summary: "In October 2020, the FBI and Europol coordinated the takedown of **QQAAZZ**, a multi-national money laundering network that provided laundering services to cybercriminals worldwide. The QQAAZZ network operated as a \"money mule\" organization, opening hundreds of bank accounts across multiple countries to launder proceeds from cybercrimes including banking trojan theft, ransomware, and BEC schemes."
@@ -195,6 +195,25 @@ No Korean involvement identified.
 - Europol announced on 15 October 2020 the results of Operation 2BaGoldMule — coordinated arrests of 20 suspected QQAAZZ money-laundering network members across Latvia, Bulgaria, the UK, Spain and Italy, with additional searches in ~40 locations across multiple countries
 
 <!-- SOURCE_ENRICHMENT_END -->
+
+<!-- CANONICAL_ASSESSMENT_START -->
+
+## Canonical Operation Assessment
+
+This page is retained as a canonical operation because it describes a arrest-sweep against QQAAZZ money laundering network, rather than a defendant-specific follow-on action. The record attributes lead responsibility to Fbi Cyber Division and coordination to Europol Ec3, with participating or affected jurisdictions recorded as United States, Portugal, Spain, United Kingdom, Latvia, Georgia, Bulgaria.
+
+The cooperation model is documented through named agencies and partners: Fbi Cyber Division and Europol Ec3; enforcement posture: Arrest, Indictment, Seizure.
+
+Operational results captured for the canonical record: QQAAZZ money laundering network dismantled; Network provided laundering services for multiple cybercrime groups; Russian nationals among those charged.
+
+The canonical source set contains 5 reference(s): 2020 10 15 Wdpa Nazarovi Qqaazz Indictment, Europol 2bagoldmule Qqaazz Takedown, 2020 10 15 Cyberscoop Com Fbi Accuses Russian Money Laundering Qqaazz, 2020 10 15 Occrp Org Pan Continental Operation Busts Money Launderers For Europes Cybercriminals, 2020 10 16 Amlintelligence Com International Criminals Charged In Laundering Investigation.
+The source floor is met for a canonical operation, but source breadth does not by itself prove that every downstream arrest or sentencing is part of this operation; follow-on records should remain linked separately.
+Known metadata gaps still carried by this page: Legal Basis, Mechanisms Used, Results Arrests, Results Indictments.
+For dataset use, this page should be treated as the operation-level aggregation point: country, agency, mechanism and outcome fields describe the coordinated enforcement action as a whole. Later indictments, pleas, sentencings, extraditions or forfeiture actions should be attached as related case or absorbed follow-on records unless the source explicitly presents them as a new multinational operation.
+When source records contain broader background, repeated wire-service republications, or topic-page material, this assessment gives priority to facts that are directly tied to the named operation, its participating authorities, its target infrastructure or criminal service, and its measurable enforcement outcome. Peripheral source titles are not treated as independent taxonomy or result evidence.
+This keeps the canonical record analytically bounded and reproducible.
+
+<!-- CANONICAL_ASSESSMENT_END -->
 
 ## References
 

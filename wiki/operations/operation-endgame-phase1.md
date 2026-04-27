@@ -107,7 +107,7 @@ sources:
   - "[[2024-05-30_krebsonsecurity-com_operation-endgame-hits-malware-delivery-platforms]]"
   - "[[2026-04-17_europol-europa-eu_operation-endgame-official-page]]"
 created: 2026-04-08
-updated: 2026-04-26
+updated: 2026-04-27
 operation_role: umbrella
 parent_operation: ""
 summary: "**Operation Endgame Phase 1** was the **largest-ever international operation against botnets**, conducted between 27 and 29 May 2024. The operation targeted dropper malware families — IcedID, SystemBC, Pikabot, Smokeloader, Bumblebee, and Trickbot — that serve as initial-access vectors for ransomware groups. Coordinated from [[europol-ec3|Europol]]'s headquarters with a command post of 20+ officers, the action resulted in 4 arrests, 100+ servers taken down across 10 countries, and 2,000+ domains seized."
@@ -254,6 +254,34 @@ No direct Korean involvement in Operation Endgame Phase 1 was identified.
 - These malware droppers serve as initial-access vectors linked to at least 15 ransomware groups, including BlackBasta, REvil, and Conti.
 
 <!-- SOURCE_ENRICHMENT_END -->
+
+<!-- RAW_TEXT_HIGHLIGHTS_START -->
+
+## Raw Source Highlights
+
+- FBI, 2024-05-29: Law enforcement in Ukraine, Portugal, Romania, Lithuania, Bulgaria, and Switzerland supported police actions to arrest or interview suspects, conduct searches, and seize or take down servers.
+- FBI, 2024-05-29: Beginning on May 28, 2024, the first coordinated international operation of its kind involved a dozen countries that conducted searches, questioned or arrested subjects, and took down or disrupted more than 100 servers to defeat multiple malware variants.
+
+<!-- RAW_TEXT_HIGHLIGHTS_END -->
+
+<!-- CANONICAL_ASSESSMENT_START -->
+
+## Canonical Operation Assessment
+
+This page is retained as a canonical operation because it describes a takedown against Dropper malware ecosystem (IcedID, SystemBC, Pikabot, Smokeloader, Bumblebee, Trickbot), rather than a defendant-specific follow-on action. The record attributes lead responsibility to Europol Ec3 and coordination to Europol Ec3, with participating or affected jurisdictions recorded as Denmark, France, Germany, Netherlands, United Kingdom, United States, Armenia, Bulgaria, Lithuania, Portugal, Romania, Switzerland, Ukraine.
+
+The cooperation model is documented through named agencies and partners: Europol Ec3, Eurojust, Denmark Police, France National Police, Germany Bka, Netherlands Politie, Uk Nca, Fbi Cyber Division, Armenia Police, Bulgaria Police; enforcement posture: Arrest, Seizure, Takedown, Asset Freeze.
+
+Operational results captured for the canonical record: 4 arrests; 100 servers seized; 2000 domains seized; cryptocurrency/asset result recorded as EUR 69 million (accumulated by key suspect); 16 location searches conducted; Command post with 20+ officers at Europol HQ.
+
+The canonical source set contains 5 reference(s): 2024 05 30 Europol Operation Endgame Botnet Takedown, 2024 05 29 Fbi Gov Operation Endgame Coordinated Worldwide Law Enforcement Action Against Network O, 2024 05 30 Bmi Bund De Worldwide Investigation Against Cyber Crime Crowned By Success, 2024 05 30 Krebsonsecurity Com Operation Endgame Hits Malware Delivery Platforms, 2026 04 17 Europol Europa Eu Operation Endgame Official Page.
+The source floor is met for a canonical operation, but source breadth does not by itself prove that every downstream arrest or sentencing is part of this operation; follow-on records should remain linked separately.
+Known metadata gaps still carried by this page: Legal Basis and Mechanisms Used.
+For dataset use, this page should be treated as the operation-level aggregation point: country, agency, mechanism and outcome fields describe the coordinated enforcement action as a whole. Later indictments, pleas, sentencings, extraditions or forfeiture actions should be attached as related case or absorbed follow-on records unless the source explicitly presents them as a new multinational operation.
+When source records contain broader background, repeated wire-service republications, or topic-page material, this assessment gives priority to facts that are directly tied to the named operation, its participating authorities, its target infrastructure or criminal service, and its measurable enforcement outcome. Peripheral source titles are not treated as independent taxonomy or result evidence.
+This keeps the canonical record analytically bounded and reproducible.
+
+<!-- CANONICAL_ASSESSMENT_END -->
 
 ## References
 

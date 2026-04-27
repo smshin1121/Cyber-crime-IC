@@ -119,7 +119,7 @@ sources:
   - "[[2017-07-20-fbi-alphabay-takedown]]"
   - "[[unodc-alphabay-true-crime-story]]"
 created: 2026-04-10
-updated: 2026-04-26
+updated: 2026-04-27
 operation_role: umbrella
 parent_operation: ""
 summary: "Operation Bayonet was a multinational law enforcement operation that dismantled **AlphaBay** and **Hansa** -- the world's two largest darknet marketplaces -- in **July 2017**. The operation was led by the [[fbi-cyber-division|FBI]] and the US Drug Enforcement Administration (DEA) for the AlphaBay component, while the [[netherlands-politie|Dutch National Police (NHTCU)]] led the Hansa component, with [[europol-ec3|Europol]] coordinating the overall strategy."
@@ -377,6 +377,36 @@ South Korea was **not among the participating countries** in Operation Bayonet. 
 - The operation was led by the FBI and the US Drug Enforcement Administration (DEA) for the AlphaBay component, while the Dutch National Police (NHTCU) led the Hansa component, with Europol coordinating the overall strategy.
 
 <!-- SOURCE_ENRICHMENT_END -->
+
+<!-- RAW_TEXT_HIGHLIGHTS_START -->
+
+## Raw Source Highlights
+
+- US Department of Justice (Office of Public Affairs), 2017-07-20: The international operation to seize AlphaBay’s infrastructure was led by the United States and involved cooperation and efforts by law enforcement authorities in Thailand, the Netherlands, Lithuania, Canada, the United Kingdom, and France, as well as the European law enforcement agency Europol.
+- US Department of Justice (Office of Public Affairs), 2017-07-20: On July 5, Alexandre Cazes aka Alpha02 and Admin, 25, a Canadian citizen residing in Thailand, was arrested by Thai authorities on behalf of the United States for his role as the creator and administrator of AlphaBay.
+- US Federal Bureau of Investigation, 2017-07-20: The largest marketplace on the Darknet—where hundreds of thousands of criminals anonymously bought and sold drugs, weapons, hacking tools, stolen identities, and a host of other illegal goods and services—has been shut down as a result of one of the most sophisticated and coordinated efforts to date on the part of law enforcement across.
+- US Federal Bureau of Investigation, 2017-07-20: In early July, multiple computer servers used by the AlphaBay website were seized worldwide, and the site’s creator and administrator—a 25-year-old Canadian citizen living in Thailand—was arrested.
+
+<!-- RAW_TEXT_HIGHLIGHTS_END -->
+
+<!-- CANONICAL_ASSESSMENT_START -->
+
+## Canonical Operation Assessment
+
+This page is retained as a canonical operation because it describes a takedown against AlphaBay and Hansa darknet marketplaces, rather than a defendant-specific follow-on action. The record attributes lead responsibility to Fbi Cyber Division and coordination to Europol Ec3, with participating or affected jurisdictions recorded as United States, Thailand, Netherlands, Lithuania, Canada, United Kingdom, France, Germany.
+
+The cooperation model is documented through named agencies and partners: Fbi Cyber Division, Europol Ec3, Eurojust, Netherlands Politie; mechanisms: mutual legal assistance, informal cooperation, Europol Jit; legal basis: mutual legal assistance and Budapest Convention; enforcement posture: Takedown, Arrest, Seizure, Asset Freeze.
+
+Operational results captured for the canonical record: 3 arrests; 1 indictments; 2 domains seized; cryptocurrency/asset result recorded as $8.8 million (FBI) + 726 million Thai baht (~$21.7 million) frozen by Thai police; AlphaBay: 400,000 users, 40,000 vendors, 350,000+ listings disrupted; Hansa: Covertly operated by Dutch police for ~1 month; 10,000 delivery addresses collected; Alexandre Cazes (AlphaBay admin) died in Thai custody 2017-07-12; 2 Hansa administrators arrested (German nationals).
+
+The canonical source set contains 5 reference(s): 2017 07 20 Europol Alphabay Hansa Takedown, 2017 07 20 Doj Alphabay Shutdown, 2017 07 20 Dea Alphabay Shutdown, 2017 07 20 Fbi Alphabay Takedown, Unodc Alphabay True Crime Story.
+The source floor is met for a canonical operation, but source breadth does not by itself prove that every downstream arrest or sentencing is part of this operation; follow-on records should remain linked separately.
+Known metadata gaps still carried by this page: Exact Server Count and Full List Of National Agencies In Supporting Roles.
+For dataset use, this page should be treated as the operation-level aggregation point: country, agency, mechanism and outcome fields describe the coordinated enforcement action as a whole. Later indictments, pleas, sentencings, extraditions or forfeiture actions should be attached as related case or absorbed follow-on records unless the source explicitly presents them as a new multinational operation.
+When source records contain broader background, repeated wire-service republications, or topic-page material, this assessment gives priority to facts that are directly tied to the named operation, its participating authorities, its target infrastructure or criminal service, and its measurable enforcement outcome. Peripheral source titles are not treated as independent taxonomy or result evidence.
+This keeps the canonical record analytically bounded and reproducible.
+
+<!-- CANONICAL_ASSESSMENT_END -->
 
 ## References
 

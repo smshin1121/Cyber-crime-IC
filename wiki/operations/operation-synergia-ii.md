@@ -63,7 +63,7 @@ timeframe:
   start: 2024-04-01
 title: "Operation Synergia II"
 type: operation
-updated: 2026-04-26
+updated: 2026-04-27
 operation_role: umbrella
 parent_operation: ""
 summary: "Operation Synergia II was a massive INTERPOL-coordinated operation targeting malicious cyber infrastructure across **95 INTERPOL member countries** from April to August 2024. The operation focused on phishing, ransomware, and information stealer infrastructure. It identified approximately 30,000 suspicious IP addresses, took down 76% of them (~22,800), seized 59 servers and 43 electronic devices, and resulted in 41 arrests with 65 others still under investigation."
@@ -175,6 +175,34 @@ No specific Korean involvement was noted in the published results of Operation S
 - The operation was a joint effort involving law enforcement agencies from 95 INTERPOL member countries alongside private sector partners Group-IB, Trend Micro, Kaspersky, and Team Cymru.
 
 <!-- SOURCE_ENRICHMENT_END -->
+
+<!-- RAW_TEXT_HIGHLIGHTS_START -->
+
+## Raw Source Highlights
+
+- INTERPOL, 2024-11-06: INTERPOL cyber operation takes down 22,000 malicious IP addresses The operation targeted phishing, information stealers and ransomware GLASGOW, United Kingdom – A global INTERPOL operation has taken down more than 22,000 malicious IP addresses or servers linked to cyber threats.
+- INTERPOL, 2024-11-06: Operation Synergia II (1 April - 31 August 2024) specifically targeted phishing, ransomware and information stealers and was a joint effort from INTERPOL, private sector partners and law enforcement agencies from 95 INTERPOL member countries.
+
+<!-- RAW_TEXT_HIGHLIGHTS_END -->
+
+<!-- CANONICAL_ASSESSMENT_START -->
+
+## Canonical Operation Assessment
+
+This page is retained as a canonical operation because it describes a infrastructure-seizure against Phishing, ransomware, and information stealer infrastructure, rather than a defendant-specific follow-on action. The record attributes lead responsibility to Interpol Igci and coordination to Interpol Igci, with participating or affected jurisdictions recorded as Hong Kong, Macau, Mongolia, Madagascar, Estonia.
+
+The cooperation model is visible primarily through the lead/coordinating agencies and country list; detailed legal mechanism fields remain sparse.
+
+Operational results captured for the canonical record: 41 arrests; 59 servers seized.
+
+The canonical source set contains 5 reference(s): 2024 11 06 Interpol Operation Synergia Ii, Kaspersky Operation Avalanche, 2024 11 05 Kaspersky Com Interpol Operation Synergia Ii, 2024 11 06 Group Ib Com Group Ib Supports Interpol Operation Synergia Ii, 2024 11 07 Arstechnica Com Interpol Operation Synergia Ii 22000 Malicious Ips.
+The source floor is met for a canonical operation, but source breadth does not by itself prove that every downstream arrest or sentencing is part of this operation; follow-on records should remain linked separately.
+No frontmatter missing-field flags are currently carried on this page.
+For dataset use, this page should be treated as the operation-level aggregation point: country, agency, mechanism and outcome fields describe the coordinated enforcement action as a whole. Later indictments, pleas, sentencings, extraditions or forfeiture actions should be attached as related case or absorbed follow-on records unless the source explicitly presents them as a new multinational operation.
+When source records contain broader background, repeated wire-service republications, or topic-page material, this assessment gives priority to facts that are directly tied to the named operation, its participating authorities, its target infrastructure or criminal service, and its measurable enforcement outcome. Peripheral source titles are not treated as independent taxonomy or result evidence.
+This keeps the canonical record analytically bounded and reproducible.
+
+<!-- CANONICAL_ASSESSMENT_END -->
 
 ## References
 

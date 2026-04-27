@@ -93,7 +93,7 @@ sources:
   - "[[2016-01-12_coindesk_suspected-members-of-bitcoin-extortion-group-dd4bc-captured]]"
   - "[[2016-01-13_infosecurity-magazine_police-around-the-world-join-forces-to-target-ddos-gang]]"
 created: 2026-04-08
-updated: 2026-04-26
+updated: 2026-04-27
 operation_role: umbrella
 parent_operation: ""
 summary: "Operation Pleiades was the December 2015 international action against DD4BC, the DDoS-for-Bitcoin extortion group. The operation combined Austrian, Bosnian, British, German, U.S., and wider international support, producing one arrest, one detention, and evidence seizures in Bosnia and Herzegovina."
@@ -208,6 +208,25 @@ No Korean participation was identified in the available public record.
 - PCWorld provides an accessible media account of the operational action in Bosnia and the supporting international coalition behind Operation Pleiades.
 
 <!-- SOURCE_ENRICHMENT_END -->
+
+<!-- CANONICAL_ASSESSMENT_START -->
+
+## Canonical Operation Assessment
+
+This page is retained as a canonical operation because it describes a arrest-sweep against DD4BC (DDoS for Bitcoin) group, rather than a defendant-specific follow-on action. The record attributes lead responsibility to Europol Ec3 and coordination to Europol Ec3, with participating or affected jurisdictions recorded as United Kingdom, Austria, Germany, Bosnia And Herzegovina, United States, Australia, France, Japan, Romania, Switzerland.
+
+The cooperation model is documented through named agencies and partners: Europol Ec3, J Cat, London Metropolitan Police, Fbi, Us Secret Service, Interpol; enforcement posture: Arrest and Seizure.
+
+Operational results captured for the canonical record: 1 arrests; One additional suspect detained; Property searches conducted in Bosnia and Herzegovina; DD4BC extortion network disrupted.
+
+The canonical source set contains 5 reference(s): Europol Operation Pleiades, 2016 01 12 Pcworld Europol Tracks Dd4bc Cyber Extortion Gang To Bosnia, 2016 01 13 Welivesecurity Global Operation Against Dd4bc Results In Arrests, 2016 01 12 Coindesk Suspected Members Of Bitcoin Extortion Group Dd4bc Captured, 2016 01 13 Infosecurity Magazine Police Around The World Join Forces To Target Ddos Gang.
+The source floor is met for a canonical operation, but source breadth does not by itself prove that every downstream arrest or sentencing is part of this operation; follow-on records should remain linked separately.
+Known metadata gaps still carried by this page: Legal Basis and Mechanisms Used.
+For dataset use, this page should be treated as the operation-level aggregation point: country, agency, mechanism and outcome fields describe the coordinated enforcement action as a whole. Later indictments, pleas, sentencings, extraditions or forfeiture actions should be attached as related case or absorbed follow-on records unless the source explicitly presents them as a new multinational operation.
+When source records contain broader background, repeated wire-service republications, or topic-page material, this assessment gives priority to facts that are directly tied to the named operation, its participating authorities, its target infrastructure or criminal service, and its measurable enforcement outcome. Peripheral source titles are not treated as independent taxonomy or result evidence.
+This keeps the canonical record analytically bounded and reproducible.
+
+<!-- CANONICAL_ASSESSMENT_END -->
 
 ## References
 

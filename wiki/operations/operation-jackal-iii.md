@@ -73,7 +73,7 @@ sources:
   - "[[2024-07-17_apnews_interpol-arrests-300-people-in-a-global-crackdown-on-west-african-crime-groups-across-5-continents]]"
   - "[[2022-10-14_garda-ie_interpol-operation-jackal-ireland-operation-skein-14th-october-2022]]"
 created: 2026-04-08
-updated: 2026-04-26
+updated: 2026-04-27
 operation_role: umbrella
 parent_operation: ""
 summary: "Operation Jackal III was the third iteration of INTERPOL's dedicated campaign against Black Axe and similar West African organized crime syndicates. Conducted from 10 April to 3 July 2024 across **21 countries** on five continents, the operation resulted in approximately **300 arrests** (nearly tripling the 103 arrests in 2023's [[operation-jackal|Operation Jackal]]), identification of **400+ additional suspects**, blocking of **720+ bank accounts**, and seizure of **USD 3 million**."
@@ -175,6 +175,34 @@ No direct Korean involvement. Black Axe primarily targets victims in Europe, Nor
 - This release is the strongest country-level official source for the Irish leg of Jackal III.
 
 <!-- SOURCE_ENRICHMENT_END -->
+
+<!-- RAW_TEXT_HIGHLIGHTS_START -->
+
+## Raw Source Highlights
+
+- INTERPOL, 2024-08-28: INTERPOL operation strikes major blow against West African financial crime Police seize millions in illegal assets, including cryptocurrencies and luxury items LYON, France - A global law enforcement operation targeting West African organized crime groups, including Black Axe, has led to hundreds of arrests, the seizure of assets worth.
+- INTERPOL, 2024-08-28: Operation Jackal III, which ran from 10 April to 3 July across 21 countries on five continents, targeted online financial fraud and the West African syndicates behind it.
+
+<!-- RAW_TEXT_HIGHLIGHTS_END -->
+
+<!-- CANONICAL_ASSESSMENT_START -->
+
+## Canonical Operation Assessment
+
+This page is retained as a canonical operation because it describes a arrest-sweep against Black Axe and similar West African organized crime groups, rather than a defendant-specific follow-on action. The record attributes lead responsibility to Interpol Igci and coordination to Interpol Igci, with participating or affected jurisdictions recorded as Argentina, Ireland, Switzerland.
+
+The cooperation model is documented through named agencies and partners: Interpol Igci; enforcement posture: Arrest and Asset Freeze.
+
+Operational results captured for the canonical record: 300 arrests; 400+ additional suspects identified; 720+ bank accounts blocked; USD 3 million in assets seized; Argentina: 72 arrests, USD 1.2 million counterfeit notes, ~100 bank accounts frozen.
+
+The canonical source set contains 5 reference(s): 2024 08 28 Interpol Operation Jackal Iii, 2024 07 16 Garda Ie Interpol Operation Jackal Ireland Operation Skein July 2024, 2024 07 23 Policiajudiciaria Pt Pj Participa Na Fase Iii Da Operacao Jackal, 2024 07 17 Apnews Interpol Arrests 300 People In A Global Crackdown On West African Crime Groups Across 5 Continents, 2022 10 14 Garda Ie Interpol Operation Jackal Ireland Operation Skein 14th October 2022.
+The source floor is met for a canonical operation, but source breadth does not by itself prove that every downstream arrest or sentencing is part of this operation; follow-on records should remain linked separately.
+Known metadata gaps still carried by this page: Legal Basis, Mechanisms Used, Full Participating Countries List.
+For dataset use, this page should be treated as the operation-level aggregation point: country, agency, mechanism and outcome fields describe the coordinated enforcement action as a whole. Later indictments, pleas, sentencings, extraditions or forfeiture actions should be attached as related case or absorbed follow-on records unless the source explicitly presents them as a new multinational operation.
+When source records contain broader background, repeated wire-service republications, or topic-page material, this assessment gives priority to facts that are directly tied to the named operation, its participating authorities, its target infrastructure or criminal service, and its measurable enforcement outcome. Peripheral source titles are not treated as independent taxonomy or result evidence.
+This keeps the canonical record analytically bounded and reproducible.
+
+<!-- CANONICAL_ASSESSMENT_END -->
 
 ## References
 

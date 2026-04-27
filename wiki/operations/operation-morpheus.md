@@ -66,7 +66,7 @@ timeframe:
 title: "Operation Morpheus (Cobalt Strike Takedown)"
 title_ko: "모르페우스 작전 (코발트 스트라이크 소탕)"
 type: operation
-updated: 2026-04-26
+updated: 2026-04-27
 operation_role: umbrella
 parent_operation: ""
 summary: "**Operation Morpheus** was an NCA-led, Europol-coordinated international operation targeting unauthorized (pirated/cracked) instances of **Cobalt Strike**, a legitimate penetration testing tool that has been extensively abused by cybercriminals for ransomware attacks, espionage, and other malicious purposes. The operation resulted in the takedown of **593 Cobalt Strike servers** across **27 countries**."
@@ -176,6 +176,34 @@ No Korean involvement identified. However, Cobalt Strike abuse is a global issue
 - Private-sector partners played unusually prominent roles: BAE Systems Digital Intelligence, Trellix, Shadowserver, Spamhaus, and Abuse.ch contributed to identification and reporting of malicious Cobalt Strike instances; the Malware Information Sharing Platform (MISP) was used for real-time threat intelligence sharing
 
 <!-- SOURCE_ENRICHMENT_END -->
+
+<!-- RAW_TEXT_HIGHLIGHTS_START -->
+
+## Raw Source Highlights
+
+- UK National Crime Agency, 2024-07-03: National Crime Agency leads international operation to degrade illegal versions of Cobalt Strike - National Crime Agency --> Skip to content Quick exit Cymraeg Reporting SARs CSEA Reporting for Industry Protecting the public from serious and organised crime Who we are show submenu for Who we are Our mission Our people Our leadership.
+- UK NCA, 2024-07-03: National Crime Agency leads international operation to degrade illegal versions of Cobalt Strike - National Crime Agency --> Skip to content Quick exit Cymraeg Reporting SARs CSEA Reporting for Industry Protecting the public from serious and organised crime Who we are show submenu for Who we are Our mission Our people Our leadership.
+
+<!-- RAW_TEXT_HIGHLIGHTS_END -->
+
+<!-- CANONICAL_ASSESSMENT_START -->
+
+## Canonical Operation Assessment
+
+This page is retained as a canonical operation because it describes a infrastructure-seizure against Unauthorized Cobalt Strike servers, rather than a defendant-specific follow-on action. The record attributes lead responsibility to Uk Nca and coordination to Europol Ec3, with participating or affected jurisdictions recorded as United Kingdom, Australia, Canada, Germany, Netherlands, Poland, United States.
+
+The cooperation model is visible primarily through the lead/coordinating agencies and country list; detailed legal mechanism fields remain sparse.
+
+Operational results captured for the canonical record: 593 servers seized.
+
+The canonical source set contains 5 reference(s): 2024 06 28 Uk Nca Operation Morpheus Cobalt Strike, The Hacker News Operation Morpheus Cobalt Strike Takedown, Uk Nca Operation Morpheus Cobalt Strike Takedown, 2024 07 03 Bleepingcomputer Com Europol Takes Down 593 Cobalt Strike Servers Used By Cybercriminals, 2024 07 03 Techradar Com Hundreds Of Cobalt Strike Linked Servers Taken Down In Major Police Operation.
+The source floor is met for a canonical operation, but source breadth does not by itself prove that every downstream arrest or sentencing is part of this operation; follow-on records should remain linked separately.
+No frontmatter missing-field flags are currently carried on this page.
+For dataset use, this page should be treated as the operation-level aggregation point: country, agency, mechanism and outcome fields describe the coordinated enforcement action as a whole. Later indictments, pleas, sentencings, extraditions or forfeiture actions should be attached as related case or absorbed follow-on records unless the source explicitly presents them as a new multinational operation.
+When source records contain broader background, repeated wire-service republications, or topic-page material, this assessment gives priority to facts that are directly tied to the named operation, its participating authorities, its target infrastructure or criminal service, and its measurable enforcement outcome. Peripheral source titles are not treated as independent taxonomy or result evidence.
+This keeps the canonical record analytically bounded and reproducible.
+
+<!-- CANONICAL_ASSESSMENT_END -->
 
 ## References
 

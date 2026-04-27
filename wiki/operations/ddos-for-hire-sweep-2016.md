@@ -77,7 +77,7 @@ timeframe:
 title: "International DDoS-for-Hire Sweep"
 title_ko: "International DDoS-for-Hire Sweep (공식 작전명 미확인; alias: International Cyber Sweep DDoS)"
 type: operation
-updated: 2026-04-26
+updated: 2026-04-27
 ---
 ## Summary
 
@@ -145,6 +145,34 @@ United States, United Kingdom, France, Belgium, Hungary, Lithuania, Netherlands,
 - Between 5-9 December 2016, FBI, Europol and law enforcement from 12 European nations plus Australia conducted a coordinated sweep targeting paying users of DDoS-for-hire (stresser/booter) services, resulting in 34 arrests and ~101 additional suspects interviewed or cautioned
 
 <!-- SOURCE_ENRICHMENT_END -->
+
+<!-- RAW_TEXT_HIGHLIGHTS_START -->
+
+## Raw Source Highlights
+
+- FBI, 2016-12-09: Sean Sharma, a graduate student at the University of Southern California, was arrested December 9, 2016 and charged with cyber crimes for his role in a distributed denial of service (DDoS) attack that knocked a San Francisco chat service company’s website offline.
+- FBI, 2016-12-09: DDoS attacks flood websites and their servers with massive amounts of data, leaving them inaccessible to users.
+
+<!-- RAW_TEXT_HIGHLIGHTS_END -->
+
+<!-- CANONICAL_ASSESSMENT_START -->
+
+## Canonical Operation Assessment
+
+This page is retained as a canonical operation because it describes a arrest-sweep against DDoS-for-hire service users, rather than a defendant-specific follow-on action. The record attributes lead responsibility to Europol Ec3 and coordination to Europol Ec3, with participating or affected jurisdictions recorded as United States, United Kingdom, France, Belgium, Hungary, Lithuania, Netherlands, Norway, Portugal, Romania, Spain, Sweden, Australia.
+
+The cooperation model is documented through named agencies and partners: Europol Ec3 and Fbi.
+
+Operational results captured for the canonical record: 34 arrests.
+
+The canonical source set contains 6 reference(s): Fbi International Ddos For Hire Sweep, Cyberscoop International Ddos For Hire Sweep, 2016 12 12 Pcworld Com Dozens Arrested In International Ddos For Hire Crackdown, 2016 12 13 Securityaffairs Com Dozens Of Teenagers Arrested By Europol Over Ddos Attacks, 2016 12 13 Hackread Com Europol Us Authorities Bust Ddos Attackers, 2016 12 16 Meritalk Com Fbi Tries To Curb Young Ddos Hackers.
+The source floor is met for a canonical operation, but source breadth does not by itself prove that every downstream arrest or sentencing is part of this operation; follow-on records should remain linked separately.
+No frontmatter missing-field flags are currently carried on this page.
+For dataset use, this page should be treated as the operation-level aggregation point: country, agency, mechanism and outcome fields describe the coordinated enforcement action as a whole. Later indictments, pleas, sentencings, extraditions or forfeiture actions should be attached as related case or absorbed follow-on records unless the source explicitly presents them as a new multinational operation.
+When source records contain broader background, repeated wire-service republications, or topic-page material, this assessment gives priority to facts that are directly tied to the named operation, its participating authorities, its target infrastructure or criminal service, and its measurable enforcement outcome. Peripheral source titles are not treated as independent taxonomy or result evidence.
+This keeps the canonical record analytically bounded and reproducible.
+
+<!-- CANONICAL_ASSESSMENT_END -->
 
 ## References
 

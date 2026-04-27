@@ -78,7 +78,7 @@ sources:
   - "[[2024-04-11_openzambia-com_chinese-crime-syndicate-raided-in-lusaka]]"
   - "[[2024-06-11_lusakatimes-com_22-chinese-nationals-sentenced-to-long-prison-terms-in-zambia-for-multinational-cybercrimes]]"
 created: 2026-04-08
-updated: 2026-04-26
+updated: 2026-04-27
 operation_role: umbrella
 parent_operation: ""
 summary: "In **April 2024**, Zambian authorities raided the **Golden Top Support Services** call center in Roma, a suburb of Lusaka, resulting in **77 arrests** — including 22 Chinese nationals (who subsequently pleaded guilty in June 2024), 1 Cameroonian, and 54 Zambian youths aged 20-25 (Source: [[2024-06-05-therecord-zambia-golden-top-guilty-pleas]], [[2024-04-15-bitdefender-zambia-golden-top-arrests]]). The raid was led by Zambia's **Drug Enforcement Commission (DEC)** in coordination with Zambia Police, immigration, and anti-terrorism unit. Seizures included vehicles, two firearms, 97 desktop PCs, 13,000+ SIM cards, 11 SIM boxes, and 6 properties."
@@ -184,6 +184,25 @@ No Korean involvement identified. However, Korean nationals have been targets an
 - Seizures: vehicles, firearms, 97 desktop PCs, 13,000+ SIM cards, 11 SIM boxes, 6 properties.
 
 <!-- SOURCE_ENRICHMENT_END -->
+
+<!-- CANONICAL_ASSESSMENT_START -->
+
+## Canonical Operation Assessment
+
+This page is retained as a canonical operation because it describes a arrest-sweep against Golden Top call center (Zambia), rather than a defendant-specific follow-on action. The record attributes lead responsibility to Zambia Drug Enforcement Commission (dec) and coordination to Zambia Drug Enforcement Commission (dec), with participating or affected jurisdictions recorded as Zambia and China.
+
+The cooperation model is documented through enforcement posture: Arrest and Seizure.
+
+Operational results captured for the canonical record: 77 arrests; 77 arrests at Golden Top call center; Multi-national suspects involved; Fraudulent call center operations disrupted.
+
+The canonical source set contains 8 reference(s): 2024 06 05 Therecord Zambia Golden Top Guilty Pleas, 2024 04 15 Bitdefender Zambia Golden Top Arrests, 2024 06 07 Apnews Com 22 Chinese Nationals Sentenced To Long Prison Terms In Zambia For Multinational Cybercrimes, 2024 04 15 Bitdefender Com Zambia Arrests 77 People In Swoop On Scam Call Centre, 2024 06 05 Therecord Media Chinese Nationals Plead Guilty To Running Zambia Scam Operation, 2024 06 08 Zambiamonitor Com 22 Chinese Nationals One Cameroonian Jailed 7 Years With Hard Labour For Cybercrime, plus 2 more.
+The source floor is met for a canonical operation, but source breadth does not by itself prove that every downstream arrest or sentencing is part of this operation; follow-on records should remain linked separately.
+Known metadata gaps still carried by this page: Legal Basis, Mechanisms Used, Lead Agency, Coordinating Body, Complete Participating Agencies, Financial Losses, Url.
+For dataset use, this page should be treated as the operation-level aggregation point: country, agency, mechanism and outcome fields describe the coordinated enforcement action as a whole. Later indictments, pleas, sentencings, extraditions or forfeiture actions should be attached as related case or absorbed follow-on records unless the source explicitly presents them as a new multinational operation.
+When source records contain broader background, repeated wire-service republications, or topic-page material, this assessment gives priority to facts that are directly tied to the named operation, its participating authorities, its target infrastructure or criminal service, and its measurable enforcement outcome. Peripheral source titles are not treated as independent taxonomy or result evidence.
+This keeps the canonical record analytically bounded and reproducible.
+
+<!-- CANONICAL_ASSESSMENT_END -->
 
 ## References
 

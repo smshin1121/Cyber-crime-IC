@@ -57,7 +57,7 @@ sources:
   - "[[2025-03-24_techafricanews-com_red-card-for-cybercrime-interpol-and-kaspersky-crack-down-on-african-scammers]]"
   - "[[2025-03-24_africanews-operation-red-card-full]]"
 created: 2026-04-08
-updated: 2026-04-26
+updated: 2026-04-27
 operation_role: umbrella
 parent_operation: ""
 summary: "Operation Red Card was a seven-country African anti-fraud crackdown led by INTERPOL under AFJOC, producing 306 arrests and 1,842 device seizures across mobile banking, investment, and messaging-app scam cases."
@@ -162,6 +162,34 @@ The sources support pre-operational intelligence sharing, enrichment by INTERPOL
 - TechAfrica News reported that Operation Red Card produced more than 300 arrests across seven African countries.
 
 <!-- SOURCE_ENRICHMENT_END -->
+
+<!-- RAW_TEXT_HIGHLIGHTS_START -->
+
+## Raw Source Highlights
+
+- INTERPOL, 2025-03-24: More than 300 arrests as African countries clamp down on cyber threats The INTERPOL-led operation targeted banking, investment and messaging app scams LYON, France — Authorities in seven African countries have arrested 306 suspects and seized 1,842 devices in an international operation targeting cyber attacks and cyber-enabled scams.
+- INTERPOL, 2025-03-24: The arrests were made as part of Operation Red Card (November 2024 – February 2025) which aims to disrupt and dismantle cross-border criminal networks which cause significant harm to individuals and businesses.
+
+<!-- RAW_TEXT_HIGHLIGHTS_END -->
+
+<!-- CANONICAL_ASSESSMENT_START -->
+
+## Canonical Operation Assessment
+
+This page is retained as a canonical operation because it describes a arrest-sweep against Cross-border mobile-banking, investment, and messaging-app scam networks across Africa, rather than a defendant-specific follow-on action. The record attributes lead responsibility to Interpol Igci and coordination to Afripol, with participating or affected jurisdictions recorded as Benin, Cote Divoire, Nigeria, Rwanda, South Africa, Togo, Zambia.
+
+The cooperation model is documented through named agencies and partners: Interpol Igci and Afripol; mechanisms: informal cooperation; enforcement posture: Arrest and Search.
+
+Operational results captured for the canonical record: 306 arrests; 5000 victims notified; Authorities seized 1,842 devices.; Nigerian authorities arrested 130 suspects, including 113 foreign nationals.; Rwandan authorities recovered more than USD 103,000 according to the official release..
+
+The canonical source set contains 6 reference(s): 2025 03 24 Interpol Operation Red Card, 2025 03 24 Africanews Operation Red Card, 2025 03 24 Kaspersky Operation Red Card, 2025 03 24 Africanews Com Cybercrime Crackdown 306 Arrested In Africa Wide Operation, 2025 03 24 Techafricanews Com Red Card For Cybercrime Interpol And Kaspersky Crack Down On African Scammers, 2025 03 24 Africanews Operation Red Card Full.
+The source floor is met for a canonical operation, but source breadth does not by itself prove that every downstream arrest or sentencing is part of this operation; follow-on records should remain linked separately.
+No frontmatter missing-field flags are currently carried on this page.
+For dataset use, this page should be treated as the operation-level aggregation point: country, agency, mechanism and outcome fields describe the coordinated enforcement action as a whole. Later indictments, pleas, sentencings, extraditions or forfeiture actions should be attached as related case or absorbed follow-on records unless the source explicitly presents them as a new multinational operation.
+When source records contain broader background, repeated wire-service republications, or topic-page material, this assessment gives priority to facts that are directly tied to the named operation, its participating authorities, its target infrastructure or criminal service, and its measurable enforcement outcome. Peripheral source titles are not treated as independent taxonomy or result evidence.
+This keeps the canonical record analytically bounded and reproducible.
+
+<!-- CANONICAL_ASSESSMENT_END -->
 
 ## References
 

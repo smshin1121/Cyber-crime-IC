@@ -74,7 +74,7 @@ sources:
   - "[[2025-05-08_gracechurchfcp-com_international-coalition-uncovers-e3m-online-investment-fraud]]"
   - "[[2025-05-13_ilmetropolitano-it_eurojust-coalizione-internazionale-scopre-frodi-sugli-investimenti-online-da-3-mln-di-e]]"
 created: 2026-04-19
-updated: 2026-04-26
+updated: 2026-04-27
 summary: "Eurojust- and Europol-supported international action against a fake online investment platform, involving Germany and the United Kingdom among other states."
 jurisdictions:
   - "[[germany]]"
@@ -147,6 +147,25 @@ The group used a fake trading platform and aggressive call-centre tactics to pre
 - Global Regulatory Insights summarized the dismantling of the fake online investment platform.
 
 <!-- SOURCE_ENRICHMENT_END -->
+
+<!-- CANONICAL_ASSESSMENT_START -->
+
+## Canonical Operation Assessment
+
+This page is retained as a canonical operation because it describes a joint-investigation against Fake online investment platform and related call-centre structure, rather than a defendant-specific follow-on action. The record attributes lead responsibility to Eurojust and coordination to Eurojust, with participating or affected jurisdictions recorded as Germany, Cyprus, Albania, United Kingdom, Israel, Belgium, Latvia.
+
+The cooperation model is documented through named agencies and partners: Eurojust, Europol Ec3, Uk Nca; mechanisms: mutual legal assistance and Eurojust Coordination Meeting; legal basis: mutual legal assistance and Extradition; enforcement posture: Arrest, Search, Interrogation.
+
+Operational results captured for the canonical record: 3 arrests; At least 100 victims identified; Searches across Albania, Cyprus, Israel, Belgium, and Latvia in different phases.
+
+The canonical source set contains 5 reference(s): 2025 05 13 Eurojust International Coalition Uncovers Eur 3 Million Online Investment Fraud, 2025 05 13 Securityonline Info Europol Cracks E3m Investment Fraud Global Operation Dismantles Online Scam Network, 2025 05 13 Globalregulatoryinsights Com International Coalition Uncovers Eur 3 Million Online Investment Fraud, 2025 05 08 Gracechurchfcp Com International Coalition Uncovers E3m Online Investment Fraud, 2025 05 13 Ilmetropolitano It Eurojust Coalizione Internazionale Scopre Frodi Sugli Investimenti Online Da 3 Mln Di E.
+The source floor is met for a canonical operation, but source breadth does not by itself prove that every downstream arrest or sentencing is part of this operation; follow-on records should remain linked separately.
+No frontmatter missing-field flags are currently carried on this page.
+For dataset use, this page should be treated as the operation-level aggregation point: country, agency, mechanism and outcome fields describe the coordinated enforcement action as a whole. Later indictments, pleas, sentencings, extraditions or forfeiture actions should be attached as related case or absorbed follow-on records unless the source explicitly presents them as a new multinational operation.
+When source records contain broader background, repeated wire-service republications, or topic-page material, this assessment gives priority to facts that are directly tied to the named operation, its participating authorities, its target infrastructure or criminal service, and its measurable enforcement outcome. Peripheral source titles are not treated as independent taxonomy or result evidence.
+This keeps the canonical record analytically bounded and reproducible.
+
+<!-- CANONICAL_ASSESSMENT_END -->
 
 ## References
 

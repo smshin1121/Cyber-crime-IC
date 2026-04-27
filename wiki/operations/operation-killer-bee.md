@@ -84,7 +84,7 @@ sources:
   - "[[2022-05-30_interpol-es_operation-killer-bee]]"
   - "[[2022-05-30_cybersecurity-review_online-scamming-fraud-three-nigerians-arrested-in-interpol-operation-killer-bee]]"
 created: 2026-04-08
-updated: 2026-04-26
+updated: 2026-04-27
 operation_role: umbrella
 parent_operation: ""
 summary: "INTERPOL's Operation Killer Bee, conducted in coordination with the Nigerian Economic and Financial Crimes Commission (EFCC) and ASEAN member state law enforcement agencies, targeted cybercriminals using Agent Tesla malware for financial fraud and Business Email Compromise (BEC). The operation resulted in the arrest of 3 Nigerian nationals who had been using the malware to reroute financial transactions and steal confidential business data. Trend Micro and other cybersecurity firms provided technical support."
@@ -176,6 +176,36 @@ Brunei, Cambodia, Indonesia, Laos, Malaysia, Myanmar, Nigeria, Philippines, Sing
 - Trend Micro described its threat-intelligence contribution to Operation Killer Bee and linked the suspects to Agent Tesla-enabled BEC activity.
 
 <!-- SOURCE_ENRICHMENT_END -->
+
+<!-- RAW_TEXT_HIGHLIGHTS_START -->
+
+## Raw Source Highlights
+
+- INTERPOL, 2022-05-30: Online scamming fraud: three Nigerians arrested in INTERPOL Operation Killer Bee INTERPOL protects cyber space and brings criminals to justice An INTERPOL-led operation targeting malware cyber fraud across Southeast Asia has led to the Nigeria arrest of three suspected global scammers.
+- INTERPOL, 2022-05-30: The Economic and Financial Crimes Commission (EFCC) arrested the suspects in a sting operation conducted simultaneously in the Lagos suburb of Ajegunle and in Benin City, 300 km to the East of the commercial capital.
+- INTERPOL, 2022-05-30: INTERPOL ayudó a examinar los ordenadores portátiles y teléfonos móviles incautados durante las detenciones por la Comisión contra los Delitos Económicos y Financieros, lo que contribuyó a confirmar el uso sistemático del malware denominado Agent Tesla para acceder a los ordenadores de las empresas y desviar las transacciones monetarias.
+- INTERPOL, 2022-05-30: La Dirección de Ciberdelincuencia de INTERPOL puso en marcha la operación basándose en los datos de inteligencia aportados por su socio del sector privado Trend Micro, en el marco del proyecto Gateway, sobre la aparición y el uso del malware Agent Tesla.
+
+<!-- RAW_TEXT_HIGHLIGHTS_END -->
+
+<!-- CANONICAL_ASSESSMENT_START -->
+
+## Canonical Operation Assessment
+
+This page is retained as a canonical operation because it describes a arrest-sweep against Agent Tesla malware operators, rather than a defendant-specific follow-on action. The record attributes lead responsibility to Interpol and coordination to Interpol, with participating or affected jurisdictions recorded as Brunei, Cambodia, Indonesia, Laos, Malaysia, Myanmar, Nigeria, Philippines, Singapore, Thailand, Vietnam.
+
+The cooperation model is documented through named agencies and partners: Interpol, Interpol Asean Desk, Nigeria Efcc, Trend Micro; enforcement posture: Arrest.
+
+Operational results captured for the canonical record: 3 arrests; Agent Tesla malware operations disrupted; Financial fraud and BEC schemes neutralized.
+
+The canonical source set contains 5 reference(s): Interpol Operation Killer Bee, 2022 05 30 Trendmicro Operation Killer Bee Agent Tesla Bec Actors, 2022 10 18 Mha Gov Sg Interpol Global Cybercrime Conference Killer Bee, 2022 05 30 Interpol Es Operation Killer Bee, 2022 05 30 Cybersecurity Review Online Scamming Fraud Three Nigerians Arrested In Interpol Operation Killer Bee.
+The source floor is met for a canonical operation, but source breadth does not by itself prove that every downstream arrest or sentencing is part of this operation; follow-on records should remain linked separately.
+Known metadata gaps still carried by this page: Legal Basis and Mechanisms Used.
+For dataset use, this page should be treated as the operation-level aggregation point: country, agency, mechanism and outcome fields describe the coordinated enforcement action as a whole. Later indictments, pleas, sentencings, extraditions or forfeiture actions should be attached as related case or absorbed follow-on records unless the source explicitly presents them as a new multinational operation.
+When source records contain broader background, repeated wire-service republications, or topic-page material, this assessment gives priority to facts that are directly tied to the named operation, its participating authorities, its target infrastructure or criminal service, and its measurable enforcement outcome. Peripheral source titles are not treated as independent taxonomy or result evidence.
+This keeps the canonical record analytically bounded and reproducible.
+
+<!-- CANONICAL_ASSESSMENT_END -->
 
 ## References
 

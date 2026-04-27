@@ -72,7 +72,7 @@ sources:
   - "[[2015-02-25_arstechnica_europol-cracks-down-on-botnet-infecting-3-2-million-computers]]"
   - "[[2015-02-25_pcworld_europol-and-security-vendors-disrupt-massive-ramnit-botnet]]"
 created: 2026-04-08
-updated: 2026-04-26
+updated: 2026-04-27
 operation_role: umbrella
 parent_operation: ""
 summary: "On 24 February 2015, the **UK National Crime Agency (NCA)** led a multinational operation to take down the **Ramnit botnet**, which had infected approximately **3.2 million computers worldwide**. The operation was coordinated through [[europol-ec3|Europol's European Cybercrime Centre (EC3)]] and the [[j-cat|Joint Cybercrime Action Taskforce (J-CAT)]], with law enforcement participation from [[germany]], [[italy]], and the [[netherlands]]."
@@ -193,6 +193,25 @@ No known Korean involvement in this operation. However, Ramnit infections were r
 - This is an important data-integrity correction — the operation page was renamed from botnet-takedown-europol-2023 to Ramnit Botnet Takedown after verifying the source describes the 2015 Ramnit takedown
 
 <!-- SOURCE_ENRICHMENT_END -->
+
+<!-- CANONICAL_ASSESSMENT_START -->
+
+## Canonical Operation Assessment
+
+This page is retained as a canonical operation because it describes a takedown against Ramnit botnet (banking trojan), rather than a defendant-specific follow-on action. The record attributes lead responsibility to UK National Crime Agency and coordination to Europol Ec3, with participating or affected jurisdictions recorded as United Kingdom, Germany, Italy, Netherlands.
+
+The cooperation model is documented through named agencies and partners: UK NCA, Europol EC3, Eurojust; mechanisms: Joint Cybercrime Action Taskforce (J-CAT); enforcement posture: Takedown and Seizure.
+
+Operational results captured for the canonical record: 300 domains seized; Command-and-control servers shut down; ~300 domains sinkholed; 3.2 million infected computers disrupted.
+
+The canonical source set contains 5 reference(s): Europol Europol Botnet Takedown 2023, 2015 10 22 Microsoft Breaking Up A Botnet How Ramnit Was Foiled, 2015 02 25 Anubisnetworks Aids Europols European Cybercrime Centre In Takedown Of Malicious Botnet, 2015 02 25 Arstechnica Europol Cracks Down On Botnet Infecting 3 2 Million Computers, 2015 02 25 Pcworld Europol And Security Vendors Disrupt Massive Ramnit Botnet.
+The source floor is met for a canonical operation, but source breadth does not by itself prove that every downstream arrest or sentencing is part of this operation; follow-on records should remain linked separately.
+Known metadata gaps still carried by this page: Legal Basis and Arrests.
+For dataset use, this page should be treated as the operation-level aggregation point: country, agency, mechanism and outcome fields describe the coordinated enforcement action as a whole. Later indictments, pleas, sentencings, extraditions or forfeiture actions should be attached as related case or absorbed follow-on records unless the source explicitly presents them as a new multinational operation.
+When source records contain broader background, repeated wire-service republications, or topic-page material, this assessment gives priority to facts that are directly tied to the named operation, its participating authorities, its target infrastructure or criminal service, and its measurable enforcement outcome. Peripheral source titles are not treated as independent taxonomy or result evidence.
+This keeps the canonical record analytically bounded and reproducible.
+
+<!-- CANONICAL_ASSESSMENT_END -->
 
 ## References
 

@@ -55,7 +55,7 @@ sources:
   - "[[2025-05-21_bleepingcomputer-com_lumma-infostealer-malware-operation-disrupted-2300-domains-seized]]"
   - "[[2025-05-21_wired-com_lumma-stealer-takedown-disrupted]]"
 created: 2025-05-21
-updated: 2026-04-26
+updated: 2026-04-27
 operation_role: umbrella
 parent_operation: ""
 summary: "The Lumma Stealer takedown was a U.S.-led, Europol-supported, public-private operation that disrupted roughly 2,300 LummaC2 domains and combined Microsoft civil action with DOJ criminal seizure warrants."
@@ -150,6 +150,34 @@ The operation is notable because the cooperation model is explicit in the source
 - WIRED reported that Lumma was disrupted through coordinated action involving Microsoft, DOJ, Europol, and Japan.
 
 <!-- SOURCE_ENRICHMENT_END -->
+
+<!-- RAW_TEXT_HIGHLIGHTS_START -->
+
+## Raw Source Highlights
+
+- U.S. Department of Justice, 2025-05-21: We are grateful for their work and dedication.” “Malware like LummaC2 is deployed to steal sensitive information such as user login credentials from millions of victims in order to facilitate a host of crimes, including fraudulent bank transfers and cryptocurrency theft,” said Matthew R.
+- U.S. Department of Justice, 2025-05-21: Together, we are making it harder, and more painful, for cyber criminals to operate.” As alleged in the affidavits filed in support of the government’s seizure warrants, the administrators of LummaC2 used the seized websites to distribute LummaC2, an information-stealing malware, to their affiliates and other cyber criminals.
+
+<!-- RAW_TEXT_HIGHLIGHTS_END -->
+
+<!-- CANONICAL_ASSESSMENT_START -->
+
+## Canonical Operation Assessment
+
+This page is retained as a canonical operation because it describes a takedown against LummaC2 / Lumma Stealer malware-as-a-service infrastructure, rather than a defendant-specific follow-on action. The record attributes lead responsibility to Us Doj and coordination to Europol Ec3, with participating or affected jurisdictions recorded as United States and Japan.
+
+The cooperation model is documented through named agencies and partners: Us Doj, Fbi Cyber Division, Europol Ec3, Japan Npa; mechanisms: Public Private Cooperation and informal cooperation; legal basis: Budapest Convention; enforcement posture: Seizure and Takedown.
+
+Operational results captured for the canonical record: 2300 domains seized; More than 1,300 domains were redirected to Microsoft sinkholes.; The DOJ seized five core domains used as Lumma administration panels.; Microsoft identified more than 394,000 infected Windows computers between March 16 and May 16, 2025.; The FBI identified at least 1.7 million credential-theft instances tied to LummaC2..
+
+The canonical source set contains 5 reference(s): 2025 05 21 Microsoft Lumma Stealer Global Action, 2025 05 21 Justice Gov Lumma Stealer Domain Seizures, 2025 05 21 Microsoft Security Blog Lumma Stealer Analysis, 2025 05 21 Bleepingcomputer Com Lumma Infostealer Malware Operation Disrupted 2300 Domains Seized, 2025 05 21 Wired Com Lumma Stealer Takedown Disrupted.
+The source floor is met for a canonical operation, but source breadth does not by itself prove that every downstream arrest or sentencing is part of this operation; follow-on records should remain linked separately.
+No frontmatter missing-field flags are currently carried on this page.
+For dataset use, this page should be treated as the operation-level aggregation point: country, agency, mechanism and outcome fields describe the coordinated enforcement action as a whole. Later indictments, pleas, sentencings, extraditions or forfeiture actions should be attached as related case or absorbed follow-on records unless the source explicitly presents them as a new multinational operation.
+When source records contain broader background, repeated wire-service republications, or topic-page material, this assessment gives priority to facts that are directly tied to the named operation, its participating authorities, its target infrastructure or criminal service, and its measurable enforcement outcome. Peripheral source titles are not treated as independent taxonomy or result evidence.
+This keeps the canonical record analytically bounded and reproducible.
+
+<!-- CANONICAL_ASSESSMENT_END -->
 
 ## References
 

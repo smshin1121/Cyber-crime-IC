@@ -71,7 +71,7 @@ sources:
   - "[[2025-02-11_bleepingcomputer-com_us-charges-phobos-8base-ransomware-operators]]"
   - "[[2025-02-11_techcrunch-com_authorities-arrest-four-suspected-8base-ransomware-operators-in-global-takedown]]"
 created: 2026-04-08
-updated: 2026-04-26
+updated: 2026-04-27
 operation_role: umbrella
 parent_operation: ""
 summary: "The Phobos/8Base crackdown was a multi-year Europol- and Eurojust-supported ransomware investigation that culminated in February 2025 with four arrests, 27 server takedowns, and a documented South Korea to United States extradition link."
@@ -197,6 +197,25 @@ This operation has confirmed Korean relevance. Official material states that a P
 - Law enforcement warned over 400 companies worldwide of ongoing or imminent ransomware attacks.
 
 <!-- SOURCE_ENRICHMENT_END -->
+
+<!-- CANONICAL_ASSESSMENT_START -->
+
+## Canonical Operation Assessment
+
+This page is retained as a canonical operation because it describes a arrest-sweep against Phobos ransomware infrastructure and 8Base operators, rather than a defendant-specific follow-on action. The record attributes lead responsibility to Europol Ec3 and coordination to Eurojust, with participating or affected jurisdictions recorded as Belgium, Czechia, France, Germany, Japan, Poland, Romania, Singapore, South Korea, Spain, Sweden, Switzerland, Thailand, United Kingdom, United States.
+
+The cooperation model is documented through named agencies and partners: Europol Ec3, Eurojust, Germany Bka, Fbi Cyber Division, Uk Nca, Spain Guardia Civil, Japan Npa; mechanisms: Extradition and informal cooperation; enforcement posture: Arrest, Seizure, Takedown, Extradition.
+
+Operational results captured for the canonical record: 4 arrests; 27 servers seized; 400 victims notified; Europol reported 37 operational meetings and nearly 600 SIENA messages.; A Phobos administrator was arrested in South Korea in June 2024 and extradited to the United States in November 2024..
+
+The canonical source set contains 5 reference(s): 2025 02 11 Europol Phobos 8base Ransomware Arrests, 2026 04 18 Justice Gov Phobos Ransomware Affiliates Arrested Coordinated International Disruption, 2026 04 18 Justice Gov Phobos Ransomware Administrator Extradited South Korea Face Cybercrime Charges, 2025 02 11 Bleepingcomputer Com Us Charges Phobos 8base Ransomware Operators, 2025 02 11 Techcrunch Com Authorities Arrest Four Suspected 8base Ransomware Operators In Global Takedown.
+The source floor is met for a canonical operation, but source breadth does not by itself prove that every downstream arrest or sentencing is part of this operation; follow-on records should remain linked separately.
+No frontmatter missing-field flags are currently carried on this page.
+For dataset use, this page should be treated as the operation-level aggregation point: country, agency, mechanism and outcome fields describe the coordinated enforcement action as a whole. Later indictments, pleas, sentencings, extraditions or forfeiture actions should be attached as related case or absorbed follow-on records unless the source explicitly presents them as a new multinational operation.
+When source records contain broader background, repeated wire-service republications, or topic-page material, this assessment gives priority to facts that are directly tied to the named operation, its participating authorities, its target infrastructure or criminal service, and its measurable enforcement outcome. Peripheral source titles are not treated as independent taxonomy or result evidence.
+This keeps the canonical record analytically bounded and reproducible.
+
+<!-- CANONICAL_ASSESSMENT_END -->
 
 ## References
 

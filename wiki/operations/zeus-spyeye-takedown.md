@@ -70,7 +70,7 @@ sources:
   - "[[2015-06-27_thehackernews-com_europol-arrests-gang-behind-zeus-and-spyeye-banking-malware]]"
   - "[[2015-06-29_techmonitor-ai_zeus-spyeye-malware-gang-members-arrested-in-ukraine]]"
 created: 2026-04-08
-updated: 2026-04-26
+updated: 2026-04-27
 operation_role: umbrella
 parent_operation: ""
 summary: "In June 2015, Europol announced the takedown of a cybercrime syndicate responsible for distributing the **Zeus** and **SpyEye** banking trojans. These malware families were among the most prolific financial cybercrime tools of the 2010s, responsible for stealing hundreds of millions of dollars from online banking users worldwide."
@@ -171,6 +171,25 @@ No Korean involvement identified. Zeus and SpyEye primarily targeted Western ban
 - In June 2015, Europol announced the takedown of a cybercrime syndicate responsible for distributing the **Zeus** and **SpyEye** banking trojans.
 
 <!-- SOURCE_ENRICHMENT_END -->
+
+<!-- CANONICAL_ASSESSMENT_START -->
+
+## Canonical Operation Assessment
+
+This page is retained as a canonical operation because it describes a arrest-sweep against Zeus/SpyEye banking trojan syndicate, rather than a defendant-specific follow-on action. The record attributes lead responsibility to Europol Ec3 and coordination to Europol Ec3, with participating or affected jurisdictions recorded as no participating-country list.
+
+The cooperation model is documented through named agencies and partners: Europol Ec3 and Fbi Cyber Division; enforcement posture: Arrest and Indictment.
+
+Operational results captured for the canonical record: 5 arrests; Zeus and SpyEye banking trojan infrastructure disrupted.
+
+The canonical source set contains 6 reference(s): Europol Zeusspyeye Joint Investigation Team Takedown, 2015 06 30 News Sophos Com Zeus And Spyeye Crime Syndicate Taken Down By Europol, 2025 06 25 Helpnetsecurity Com The Downfall Of A Major Cybercrime Ring Exploiting Banking Trojans, 2015 06 25 Scworld Com Europol Takes Down High Profile Ukraine Based Cybergang, 2015 06 27 Thehackernews Com Europol Arrests Gang Behind Zeus And Spyeye Banking Malware, 2015 06 29 Techmonitor Ai Zeus Spyeye Malware Gang Members Arrested In Ukraine.
+The source floor is met for a canonical operation, but source breadth does not by itself prove that every downstream arrest or sentencing is part of this operation; follow-on records should remain linked separately.
+Known metadata gaps still carried by this page: Legal Basis, Mechanisms Used, Exact Participating Countries, Exact Arrest Count.
+For dataset use, this page should be treated as the operation-level aggregation point: country, agency, mechanism and outcome fields describe the coordinated enforcement action as a whole. Later indictments, pleas, sentencings, extraditions or forfeiture actions should be attached as related case or absorbed follow-on records unless the source explicitly presents them as a new multinational operation.
+When source records contain broader background, repeated wire-service republications, or topic-page material, this assessment gives priority to facts that are directly tied to the named operation, its participating authorities, its target infrastructure or criminal service, and its measurable enforcement outcome. Peripheral source titles are not treated as independent taxonomy or result evidence.
+This keeps the canonical record analytically bounded and reproducible.
+
+<!-- CANONICAL_ASSESSMENT_END -->
 
 ## References
 

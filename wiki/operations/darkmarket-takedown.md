@@ -102,7 +102,7 @@ sources:
   - "[[2021-01-12_sbs-com-au_australian-man-arrested-in-germany-accused-of-running-world-s-largest-darknet-ma]]"
   - "[[2021-10-26_dea-gov_department-of-justice-announces-results-of-operation-dark-huntor]]"
 created: 2026-04-10
-updated: 2026-04-26
+updated: 2026-04-27
 summary: "DarkMarket was, at the time of its shutdown on 11 January 2021, the world's largest illegal darknet marketplace by user count. The takedown was led by the cybercrime unit of the Koblenz Public Prosecutor's Office and Germany's Federal Criminal Police Office (BKA), with coordination through Europol EC3. The intelligence gathered from the seized infrastructure later enabled Operation Dark HunTOR."
 jurisdictions:
   - "[[germany|Germany]]"
@@ -171,6 +171,25 @@ The page now treats the Europol release as the primary operational source, secon
 - US DOJ/DEA, 2021-10-26: Department of Justice Announces Results of Operation Dark HunTor.
 
 <!-- SOURCE_ENRICHMENT_END -->
+
+<!-- CANONICAL_ASSESSMENT_START -->
+
+## Canonical Operation Assessment
+
+This page is retained as a canonical operation because it describes a infrastructure-seizure against DarkMarket darknet marketplace, rather than a defendant-specific follow-on action. The record attributes lead responsibility to German BKA and coordination to Europol EC3, with participating or affected jurisdictions recorded as Germany, Australia, United Kingdom, United States, Ukraine, Moldova, Denmark.
+
+The cooperation model is documented through named agencies and partners: German BKA, Europol EC3, Australian Federal Police, FBI, UK National Crime Agency, Danish Police, Ukrainian Police; mechanisms: Mutual Legal Assistance, Informal Police-to-Police Cooperation, Joint Investigation Team; legal basis: Budapest Convention and German Criminal Code (stgb); enforcement posture: Arrest, Seizure, Takedown.
+
+Operational results captured for the canonical record: 1 arrests; 1 indictments; 20 servers seized; 1 domains seized; cryptocurrency/asset result recorded as 4,650 BTC + 12,800 XMR (~EUR 140 million); 500,000 users identified; 2,400+ vendors catalogued; 320,000+ transactions recorded.
+
+The canonical source set contains 5 reference(s): 2021 01 12 Europol Europa Eu Darkmarket World S Largest Illegal Dark Web Marketplace Taken Down, 2021 01 12 Thehackernews Com Authorities Take Down World S Largest Illegal Dark Web Marketplace, 2021 01 12 Rferl Org Servers Seized In Ukraine Moldova As Germany Takes Down World S Largest Illegal, 2021 01 12 Sbs Com Au Australian Man Arrested In Germany Accused Of Running World S Largest Darknet Ma, 2021 10 26 Dea Gov Department Of Justice Announces Results Of Operation Dark Huntor.
+The source floor is met for a canonical operation, but source breadth does not by itself prove that every downstream arrest or sentencing is part of this operation; follow-on records should remain linked separately.
+No frontmatter missing-field flags are currently carried on this page.
+For dataset use, this page should be treated as the operation-level aggregation point: country, agency, mechanism and outcome fields describe the coordinated enforcement action as a whole. Later indictments, pleas, sentencings, extraditions or forfeiture actions should be attached as related case or absorbed follow-on records unless the source explicitly presents them as a new multinational operation.
+When source records contain broader background, repeated wire-service republications, or topic-page material, this assessment gives priority to facts that are directly tied to the named operation, its participating authorities, its target infrastructure or criminal service, and its measurable enforcement outcome. Peripheral source titles are not treated as independent taxonomy or result evidence.
+This keeps the canonical record analytically bounded and reproducible.
+
+<!-- CANONICAL_ASSESSMENT_END -->
 
 ## References
 

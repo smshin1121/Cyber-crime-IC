@@ -83,7 +83,7 @@ timeframe:
 title: "Hive Ransomware Infrastructure Takedown"
 title_ko: "명시되지 않음 (Hive 랜섬웨어 인프라 해체)"
 type: operation
-updated: 2026-04-26
+updated: 2026-04-27
 ---
 ## Summary
 
@@ -158,6 +158,25 @@ United States, Germany, Netherlands, United Kingdom, Canada, France, Romania, Li
 - Follow-on arrest: Mikhail Matveev ('Wazawaka'), indicted by DOJ in May 2023 as a Hive affiliate, remains in Russia — illustrating the persistent non-extradition challenge
 
 <!-- SOURCE_ENRICHMENT_END -->
+
+<!-- CANONICAL_ASSESSMENT_START -->
+
+## Canonical Operation Assessment
+
+This page is retained as a canonical operation because it describes a takedown against Hive Ransomware Group, rather than a defendant-specific follow-on action. The record attributes lead responsibility to Fbi and coordination to Europol Ec3, with participating or affected jurisdictions recorded as United States, Germany, Netherlands, United Kingdom, Canada, France, Romania, Lithuania, Sweden, Norway, Portugal, Spain, Ireland.
+
+The cooperation model is documented through named agencies and partners: Fbi, Usdoj, Europol Ec3, German Bka, Dutch Police, Uk Nca, Us Secret Service.
+
+Operational results captured for the canonical record: 1500 victims notified; 1300 decryption keys recovered.
+
+The canonical source set contains 5 reference(s): Europol Hive Ransomware Infrastructure Takedown, Cbs News Hive Ransomware Infrastructure Takedown, 2026 04 18 Justice Gov Socal Man Arrested Federal Charges Alleging He Schemed Advertise And Sell Hive, 2023 01 26 Techcrunch Com United States Hive Ransomware Seized, 2023 01 26 Dw Com Us German Authorities Block Hive Ransomware Website.
+The source floor is met for a canonical operation, but source breadth does not by itself prove that every downstream arrest or sentencing is part of this operation; follow-on records should remain linked separately.
+No frontmatter missing-field flags are currently carried on this page.
+For dataset use, this page should be treated as the operation-level aggregation point: country, agency, mechanism and outcome fields describe the coordinated enforcement action as a whole. Later indictments, pleas, sentencings, extraditions or forfeiture actions should be attached as related case or absorbed follow-on records unless the source explicitly presents them as a new multinational operation.
+When source records contain broader background, repeated wire-service republications, or topic-page material, this assessment gives priority to facts that are directly tied to the named operation, its participating authorities, its target infrastructure or criminal service, and its measurable enforcement outcome. Peripheral source titles are not treated as independent taxonomy or result evidence.
+This keeps the canonical record analytically bounded and reproducible.
+
+<!-- CANONICAL_ASSESSMENT_END -->
 
 ## References
 

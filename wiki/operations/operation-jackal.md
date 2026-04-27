@@ -99,7 +99,7 @@ sources:
   - "[[2023-08-10_irishexaminer-com_34-arrested-in-ireland-as-part-of-interpol-operation-targeting-west-african-crime-syndicate]]"
   - "[[2023-08-08_brusselstimes-com_internet-scams-interpol-swoops-down-on-west-africa-based-criminal-networks]]"
 created: 2026-04-08
-updated: 2026-04-26
+updated: 2026-04-27
 operation_role: umbrella
 parent_operation: ""
 summary: "Operation Jackal was INTERPOL's first dedicated operation targeting **Black Axe** and similar West African organized crime groups, coordinated from 15 to 29 May 2023 across **21 countries** on five continents. The operation resulted in **103 arrests**, identification of **1,110 suspects**, blocking of **208 bank accounts**, and seizure/freezing of **EUR 2.15 million**. Black Axe is identified as responsible for the majority of the world's cyber-enabled financial fraud, particularly business email compromise (BEC)."
@@ -219,6 +219,34 @@ No direct Korean involvement in this operation. Black Axe operations primarily t
 - This Garda release provides early official context for the Jackal series in Ireland.
 
 <!-- SOURCE_ENRICHMENT_END -->
+
+<!-- RAW_TEXT_HIGHLIGHTS_START -->
+
+## Raw Source Highlights
+
+- INTERPOL, 2023-06-06: Closing ranks on West African organized crime: more than EUR 2 million seized in Operation Jackal Tackling the global footprint of Black Axe and similar West Africa-based organized crime groups LYON, France – An INTERPOL crackdown on West African organized crime has seen bank accounts frozen, suspects arrested, and financial.
+- INTERPOL, 2023-06-06: Between 15 and 29 May, Operation Jackal mobilised police forces, financial crime units and cybercrime agencies across 21 countries around the world to deliver a targeted strike against Black Axe and similar West African organized crime groups.
+
+<!-- RAW_TEXT_HIGHLIGHTS_END -->
+
+<!-- CANONICAL_ASSESSMENT_START -->
+
+## Canonical Operation Assessment
+
+This page is retained as a canonical operation because it describes a arrest-sweep against Black Axe and similar West African organized crime groups, rather than a defendant-specific follow-on action. The record attributes lead responsibility to Interpol Igci and coordination to Interpol Igci, with participating or affected jurisdictions recorded as Argentina, Australia, Belgium, Brazil, Canada, Cote D'ivoire, France, Germany, Indonesia, Ireland, Italy, Malaysia, Netherlands, Nigeria, Portugal, South Africa, Spain, Switzerland.
+
+The cooperation model is documented through named agencies and partners: Interpol Igci; enforcement posture: Arrest and Asset Freeze.
+
+Operational results captured for the canonical record: 103 arrests; 1,110 suspects identified; 208 bank accounts blocked; EUR 2.15 million seized/frozen.
+
+The canonical source set contains 5 reference(s): 2023 06 06 Interpol Operation Jackal, 2022 10 14 Garda Ie Interpol Operation Jackal Ireland Operation Skein 14th October 2022, 2023 08 10 Garda Ie Interpol Operation Jackal Ireland Operation Skein Update August 2023, 2023 08 10 Irishexaminer Com 34 Arrested In Ireland As Part Of Interpol Operation Targeting West African Crime Syndicate, 2023 08 08 Brusselstimes Com Internet Scams Interpol Swoops Down On West Africa Based Criminal Networks.
+The source floor is met for a canonical operation, but source breadth does not by itself prove that every downstream arrest or sentencing is part of this operation; follow-on records should remain linked separately.
+Known metadata gaps still carried by this page: Legal Basis and Mechanisms Used.
+For dataset use, this page should be treated as the operation-level aggregation point: country, agency, mechanism and outcome fields describe the coordinated enforcement action as a whole. Later indictments, pleas, sentencings, extraditions or forfeiture actions should be attached as related case or absorbed follow-on records unless the source explicitly presents them as a new multinational operation.
+When source records contain broader background, repeated wire-service republications, or topic-page material, this assessment gives priority to facts that are directly tied to the named operation, its participating authorities, its target infrastructure or criminal service, and its measurable enforcement outcome. Peripheral source titles are not treated as independent taxonomy or result evidence.
+This keeps the canonical record analytically bounded and reproducible.
+
+<!-- CANONICAL_ASSESSMENT_END -->
 
 ## References
 

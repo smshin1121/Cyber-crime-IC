@@ -71,7 +71,7 @@ sources:
   - "[[2025-11-04_112wwft-nl_decisive-actions-against-cryptocurrency-scammers-earning-over-eur-600-million]]"
   - "[[2025-11-06_ifcreview-com_crypto-actions-against-cryptocurrency-scammers-earning-over-eur-600-million]]"
 created: 2026-04-19
-updated: 2026-04-26
+updated: 2026-04-27
 summary: "Eurojust-coordinated action against a Europe-based cryptocurrency scam and laundering network, with a French-Belgian JIT and synchronized arrests in Cyprus, Spain, and Germany."
 jurisdictions:
   - "[[belgium]]"
@@ -142,6 +142,25 @@ For database use, this entry should be read as a crypto-investment fraud and lau
 - The Paypers reported on arrests tied to a EUR 600 million crypto scam network.
 
 <!-- SOURCE_ENRICHMENT_END -->
+
+<!-- CANONICAL_ASSESSMENT_START -->
+
+## Canonical Operation Assessment
+
+This page is retained as a canonical operation because it describes a joint-investigation against Cryptocurrency investment scam and laundering network, rather than a defendant-specific follow-on action. The record attributes lead responsibility to Eurojust and coordination to Eurojust, with participating or affected jurisdictions recorded as Belgium, Cyprus, France, Germany, Spain.
+
+The cooperation model is documented through named agencies and partners: Eurojust; mechanisms: Joint Investigation Team and Eurojust Coordination Meeting; legal basis: Joint Investigation Team and Search Seizure; enforcement posture: Arrest, Search, Asset Freeze, Seizure.
+
+Operational results captured for the canonical record: 9 arrests; cryptocurrency/asset result recorded as EUR 415,000; EUR 800,000 seized in bank accounts; EUR 300,000 seized in cash.
+
+The canonical source set contains 5 reference(s): 2025 11 04 Eurojust Decisive Actions Against Cryptocurrency Scammers Earning Over Eur 600 Million, 2025 11 07 Trmlabs Com Eurojust Coordinates Global Crackdown On Eu600 Million Crypto Investment Fraud Network, 2025 11 06 Thepaypers Com Crypto Scammers Steal Over Eur 600 Million Now Arrested, 2025 11 04 112wwft Nl Decisive Actions Against Cryptocurrency Scammers Earning Over Eur 600 Million, 2025 11 06 Ifcreview Com Crypto Actions Against Cryptocurrency Scammers Earning Over Eur 600 Million.
+The source floor is met for a canonical operation, but source breadth does not by itself prove that every downstream arrest or sentencing is part of this operation; follow-on records should remain linked separately.
+No frontmatter missing-field flags are currently carried on this page.
+For dataset use, this page should be treated as the operation-level aggregation point: country, agency, mechanism and outcome fields describe the coordinated enforcement action as a whole. Later indictments, pleas, sentencings, extraditions or forfeiture actions should be attached as related case or absorbed follow-on records unless the source explicitly presents them as a new multinational operation.
+When source records contain broader background, repeated wire-service republications, or topic-page material, this assessment gives priority to facts that are directly tied to the named operation, its participating authorities, its target infrastructure or criminal service, and its measurable enforcement outcome. Peripheral source titles are not treated as independent taxonomy or result evidence.
+This keeps the canonical record analytically bounded and reproducible.
+
+<!-- CANONICAL_ASSESSMENT_END -->
 
 ## References
 

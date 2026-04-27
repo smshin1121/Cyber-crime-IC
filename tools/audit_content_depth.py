@@ -19,7 +19,8 @@ CASES_DIR = WIKI_DIR / "cases"
 SOURCES_DIR = WIKI_DIR / "sources"
 RAW_DIR = ROOT / "raw"
 WORKSPACE = ROOT / "_workspace"
-REPORT_PATH = WIKI_DIR / "analysis" / "content-depth-audit-2026-04-26.md"
+DEFAULT_RUN_DATE = "2026-04-27"
+REPORT_PATH = WIKI_DIR / "analysis" / "content-depth-audit-2026-04-27.md"
 
 PLACEHOLDER_PATTERNS = (
     "source-derived",
@@ -276,7 +277,7 @@ def audit_all() -> list[DepthRow]:
     return rows
 
 
-def render_report(rows: list[DepthRow]) -> str:
+def render_report(rows: list[DepthRow], run_date: str) -> str:
     issue_counts = Counter(issue.split(":", 1)[0] for row in rows for issue in row.issues)
     category_counts = Counter(row.category for row in rows)
     high = [row for row in rows if row.score >= 45]
@@ -288,10 +289,10 @@ def render_report(rows: list[DepthRow]) -> str:
 
     lines = [
         "---",
-        "title: Content Depth Audit (2026-04-26)",
+        f"title: Content Depth Audit ({run_date})",
         "type: analysis",
-        "created: 2026-04-26",
-        "updated: 2026-04-26",
+        f"created: {run_date}",
+        f"updated: {run_date}",
         'summary: "Repository-wide content-depth audit for operation and case pages, focused on source-rich thin pages, placeholder prose, underused raw sources, and probable crime-type mismatches."',
         "source_count: 0",
         "---",
@@ -399,7 +400,7 @@ def render_report(rows: list[DepthRow]) -> str:
     return "\n".join(lines) + "\n"
 
 
-def write_outputs(rows: list[DepthRow], out_prefix: str) -> None:
+def write_outputs(rows: list[DepthRow], out_prefix: str, report_path: Path, run_date: str) -> None:
     WORKSPACE.mkdir(parents=True, exist_ok=True)
     json_path = WORKSPACE / f"{out_prefix}.json"
     csv_path = WORKSPACE / f"{out_prefix}.csv"
@@ -414,18 +415,23 @@ def write_outputs(rows: list[DepthRow], out_prefix: str) -> None:
             data = asdict(row)
             data["issues"] = "; ".join(row.issues)
             writer.writerow(data)
-    REPORT_PATH.write_text(render_report(rows), encoding="utf-8")
+    report_path.parent.mkdir(parents=True, exist_ok=True)
+    report_path.write_text(render_report(rows, run_date), encoding="utf-8")
     print(f"JSON: {json_path}")
     print(f"CSV: {csv_path}")
-    print(f"Report: {REPORT_PATH}")
+    print(f"Report: {report_path}")
 
 
 def main() -> None:
     parser = argparse.ArgumentParser(description="Audit wiki operation/case content depth.")
-    parser.add_argument("--prefix", default="content_depth_audit_2026-04-26")
+    parser.add_argument("--date", default=DEFAULT_RUN_DATE)
+    parser.add_argument("--prefix", default="")
+    parser.add_argument("--report", default="")
     args = parser.parse_args()
+    prefix = args.prefix or f"content_depth_audit_{args.date}"
+    report = ROOT / (args.report or f"wiki/analysis/content-depth-audit-{args.date}.md")
     rows = audit_all()
-    write_outputs(rows, args.prefix)
+    write_outputs(rows, prefix, report, args.date)
     high = sum(1 for row in rows if row.score >= 45)
     source_rich_thin = sum(1 for row in rows if any(i.startswith("source_rich_thin_body") for i in row.issues))
     placeholders = sum(1 for row in rows if any(i.startswith("placeholder_language") for i in row.issues))

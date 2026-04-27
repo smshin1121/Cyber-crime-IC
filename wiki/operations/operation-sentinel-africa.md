@@ -99,7 +99,7 @@ sources:
   - "[[2025-12-23_interpol-int_support-for-afripol-operation-sentinel]]"
   - "[[2025-12-24_tomshardware_operation-sentinel-africa-cybercrime-crackdown]]"
 created: 2026-04-08
-updated: 2026-04-26
+updated: 2026-04-27
 operation_role: umbrella
 parent_operation: ""
 summary: "Operation Sentinel was an INTERPOL-coordinated cybercrime enforcement action conducted from 27 October to 27 November 2025 across **19 African countries** under the African Joint Operation against Cybercrime (AFJOC) umbrella. The operation resulted in **574 arrests**, **USD 3 million** recovered, over **6,000 malicious links** taken down, and **6 ransomware variants** decrypted. Primary targets were BEC, digital extortion, and ransomware. Investigated cases were linked to estimated financial losses exceeding **USD 21 million**."
@@ -217,6 +217,36 @@ No direct Korean involvement. Operation focused exclusively on African countries
 - This report is the main regional threat-assessment document that provides background for Operation Sentinel.
 
 <!-- SOURCE_ENRICHMENT_END -->
+
+<!-- RAW_TEXT_HIGHLIGHTS_START -->
+
+## Raw Source Highlights
+
+- INTERPOL, 2025-12-22: During the INTERPOL-coordinated initiative, over 6,000 malicious links were taken down and six distinct ransomware variants were decrypted.
+- INTERPOL, 2025-12-22: The cases investigated during the month-long operation were linked to estimated financial losses exceeding USD 21 million.
+- INTERPOL, 2025-12-23: Home Our partnerships with regional policing bodies SELECT A PAGE Government partners International organization partners -- INTERPOL and the African Union -- INTERPOL and the European Union -- INTERPOL and the United Nations -- Dialogue on an effective multilateral policing architecture against global threats -- Support for AFRIPOL.
+- INTERPOL, 2025-12-23: By fostering collaboration among law enforcement agencies and partners, both at a regional and international level, these operations have enabled a unified response to emerging threats and maximized the impact of resources.
+
+<!-- RAW_TEXT_HIGHLIGHTS_END -->
+
+<!-- CANONICAL_ASSESSMENT_START -->
+
+## Canonical Operation Assessment
+
+This page is retained as a canonical operation because it describes a arrest-sweep against BEC, digital extortion, and ransomware networks operating in Africa, rather than a defendant-specific follow-on action. The record attributes lead responsibility to Interpol Igci and coordination to Interpol Igci, with participating or affected jurisdictions recorded as Benin, Botswana, Burkina Faso, Cameroon, Chad, Congo, Democratic Republic Of The Congo, Djibouti, Gabon, Ghana, Kenya, Malawi, Nigeria, Senegal, South Africa, South Sudan, Uganda, Zambia.
+
+The cooperation model is documented through named agencies and partners: Interpol Igci and Afripol; enforcement posture: Arrest and Takedown.
+
+Operational results captured for the canonical record: 574 arrests; USD 3 million recovered; 6,000+ malicious links taken down; 6 ransomware variants decrypted; Estimated USD 21 million+ in financial losses linked to investigated cases.
+
+The canonical source set contains 5 reference(s): 2025 12 22 Interpol Operation Sentinel Africa, 2025 06 23 Interpol Africa Cyberthreat Assessment Report 2025, 2026 01 08 Team Cymru Interpol Afripol Operation Sentinel Africa, 2025 12 23 Interpol Int Support For Afripol Operation Sentinel, 2025 12 24 Tomshardware Operation Sentinel Africa Cybercrime Crackdown.
+The source floor is met for a canonical operation, but source breadth does not by itself prove that every downstream arrest or sentencing is part of this operation; follow-on records should remain linked separately.
+Known metadata gaps still carried by this page: Legal Basis and Mechanisms Used.
+For dataset use, this page should be treated as the operation-level aggregation point: country, agency, mechanism and outcome fields describe the coordinated enforcement action as a whole. Later indictments, pleas, sentencings, extraditions or forfeiture actions should be attached as related case or absorbed follow-on records unless the source explicitly presents them as a new multinational operation.
+When source records contain broader background, repeated wire-service republications, or topic-page material, this assessment gives priority to facts that are directly tied to the named operation, its participating authorities, its target infrastructure or criminal service, and its measurable enforcement outcome. Peripheral source titles are not treated as independent taxonomy or result evidence.
+This keeps the canonical record analytically bounded and reproducible.
+
+<!-- CANONICAL_ASSESSMENT_END -->
 
 ## References
 

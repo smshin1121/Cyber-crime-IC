@@ -69,7 +69,7 @@ sources:
   - "[[2025-06-27_immuniweb-com_cybercrime-investigations-weekly-trusted-seller-fraud]]"
   - "[[2025-06-25_eurojust-fraud-term_trusted-seller-accounts-germany-romania]]"
 created: 2026-04-19
-updated: 2026-04-26
+updated: 2026-04-27
 summary: "Eurojust-supported Germany-Romania action against a cyber-enabled fraud group that hijacked trusted seller accounts, using a JIT, EAW procedures, and coordinated action days."
 jurisdictions:
   - "[[germany]]"
@@ -135,6 +135,25 @@ The group used phishing to steal credentials from legitimate online sellers, the
 - INSIGHT EU Monitoring summarized the German-Romanian trusted-seller-account fraud case.
 
 <!-- SOURCE_ENRICHMENT_END -->
+
+<!-- CANONICAL_ASSESSMENT_START -->
+
+## Canonical Operation Assessment
+
+This page is retained as a canonical operation because it describes a joint-investigation against Criminal group hacking trusted online seller accounts to run marketplace fraud, rather than a defendant-specific follow-on action. The record attributes lead responsibility to Eurojust and coordination to Eurojust, with participating or affected jurisdictions recorded as Germany, Romania, Austria.
+
+The cooperation model is documented through named agencies and partners: Eurojust; mechanisms: Joint Investigation Team, European Arrest Warrant, Search Seizure; legal basis: Joint Investigation Team and European Arrest Warrant; enforcement posture: Arrest, Search, Seizure.
+
+Operational results captured for the canonical record: 10 arrests; 405 seller accounts compromised; Damages exceeded EUR 400,000.
+
+The canonical source set contains 5 reference(s): 2025 06 25 Eurojust Large Scale Fraud Using Trusted Online Seller Accounts Uncovered, 2025 06 25 Eurojust Europa Eu Trusted Seller Accounts Fraud Germany Romania, 2025 06 26 Ieu Monitoring Com Eurojust Helps Uncover Large Scale Fraud Based On Trusted Online Seller Accounts, 2025 06 27 Immuniweb Com Cybercrime Investigations Weekly Trusted Seller Fraud, 2025 06 25 Eurojust Fraud Term Trusted Seller Accounts Germany Romania.
+The source floor is met for a canonical operation, but source breadth does not by itself prove that every downstream arrest or sentencing is part of this operation; follow-on records should remain linked separately.
+No frontmatter missing-field flags are currently carried on this page.
+For dataset use, this page should be treated as the operation-level aggregation point: country, agency, mechanism and outcome fields describe the coordinated enforcement action as a whole. Later indictments, pleas, sentencings, extraditions or forfeiture actions should be attached as related case or absorbed follow-on records unless the source explicitly presents them as a new multinational operation.
+When source records contain broader background, repeated wire-service republications, or topic-page material, this assessment gives priority to facts that are directly tied to the named operation, its participating authorities, its target infrastructure or criminal service, and its measurable enforcement outcome. Peripheral source titles are not treated as independent taxonomy or result evidence.
+This keeps the canonical record analytically bounded and reproducible.
+
+<!-- CANONICAL_ASSESSMENT_END -->
 
 ## References
 

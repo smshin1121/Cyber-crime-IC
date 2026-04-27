@@ -24,8 +24,12 @@ from enrich_targeted_content_from_sources import (
 
 AUDIT_PATH = ROOT / "_workspace" / "content_depth_audit_2026-04-26.csv"
 REPORT_PATH = ROOT / "wiki" / "analysis" / "residual-raw-text-enrichment-2026-04-26.md"
+DEFAULT_RUN_DATE = "2026-04-27"
 START = "<!-- RAW_TEXT_HIGHLIGHTS_START -->"
 END = "<!-- RAW_TEXT_HIGHLIGHTS_END -->"
+ASSESSMENT_START = "<!-- CANONICAL_ASSESSMENT_START -->"
+ASSESSMENT_END = "<!-- CANONICAL_ASSESSMENT_END -->"
+ASSESSMENT_RE = re.compile(rf"\n?{re.escape(ASSESSMENT_START)}.*?{re.escape(ASSESSMENT_END)}\n?", re.S)
 GENERIC_PATTERNS = (
     "recorded as a case based on the linked source set",
     "recorded as a operation based on the linked source set",
@@ -45,6 +49,15 @@ OFFICIAL_DOMAINS = (
     "eurojust.europa.eu",
     "bka.de",
     "incibe.es",
+    "interpol.int",
+    "nationalcrimeagency.gov.uk",
+    "bsi.bund.de",
+    "policia.es",
+    "police.uk",
+    "gov.uk",
+    "cert.pl",
+    "politie.nl",
+    "polizei.de",
 )
 
 KEYWORDS = (
@@ -99,6 +112,11 @@ BOILERPLATE = (
     "main office",
     "federal courthouse",
     "related content",
+    "attorneys business opportunities",
+    "meet the united states attorney",
+    "combating anti-semitism",
+    "topic cybercrime component",
+    "release darknet drug trafficker",
     "public information officer",
     "updated ",
     "topic ",
@@ -142,11 +160,25 @@ def is_official_url(url: str) -> bool:
 
 
 def source_meta(slug: str) -> tuple[dict[str, Any], str]:
-    path = SOURCES_DIR / f"{slug}.md"
-    if not path.exists():
-        return {}, ""
-    post = frontmatter.load(path)
-    return post.metadata, post.content or ""
+    seen: set[str] = set()
+    current = slug
+    fallback: tuple[dict[str, Any], str] = ({}, "")
+    while current and current not in seen:
+        seen.add(current)
+        path = SOURCES_DIR / f"{current}.md"
+        if not path.exists():
+            return fallback
+        post = frontmatter.load(path)
+        meta = post.metadata
+        content = post.content or ""
+        fallback = (meta, content)
+        if meta.get("raw_path"):
+            return meta, content
+        duplicate = wikilink_slug(meta.get("duplicate_of"))
+        if not duplicate:
+            return meta, content
+        current = duplicate
+    return fallback
 
 
 def extracted_text(raw_path: str) -> str:
@@ -240,12 +272,21 @@ def remove_existing(body: str) -> str:
     return re.sub(rf"\n?{re.escape(START)}.*?{re.escape(END)}\n?", "\n", body, flags=re.S).strip() + "\n"
 
 
-def update_frontmatter_date(fm_text: str) -> str:
+def split_assessment(body: str) -> tuple[str, str]:
+    match = ASSESSMENT_RE.search(body)
+    if not match:
+        return body, ""
+    block = match.group(0).strip()
+    cleaned = body[: match.start()] + "\n" + body[match.end() :]
+    return cleaned.strip(), block
+
+
+def update_frontmatter_date(fm_text: str, updated_date: str = DEFAULT_RUN_DATE) -> str:
     if not fm_text:
         return fm_text
     if re.search(r"(?m)^updated:\s*", fm_text):
-        return re.sub(r"(?m)^updated:\s*.*$", "updated: 2026-04-26", fm_text, count=1)
-    return fm_text.replace("\n---\n", "\nupdated: 2026-04-26\n---\n", 1)
+        return re.sub(r"(?m)^updated:\s*.*$", f"updated: {updated_date}", fm_text, count=1)
+    return fm_text.replace("\n---\n", f"\nupdated: {updated_date}\n---\n", 1)
 
 
 def target_rows(path: Path, min_score: int) -> list[dict[str, str]]:
@@ -268,7 +309,15 @@ def generic_rows() -> list[dict[str, str]]:
     return rows
 
 
-def enrich_row(row: dict[str, str], dry_run: bool, per_source_limit: int, total_limit: int) -> Result:
+def load_queue_rows(path: Path) -> list[dict[str, str]]:
+    return [
+        {"category": row.get("category", ""), "slug": row.get("slug", "")}
+        for row in csv.DictReader(path.open("r", encoding="utf-8", newline=""))
+        if row.get("category") and row.get("slug")
+    ]
+
+
+def enrich_row(row: dict[str, str], dry_run: bool, per_source_limit: int, total_limit: int, updated_date: str) -> Result:
     category = row["category"]
     slug = row["slug"]
     path = page_path(category, slug)
@@ -279,22 +328,30 @@ def enrich_row(row: dict[str, str], dry_run: bool, per_source_limit: int, total_
     post = frontmatter.load(path)
     block, highlights, official_sources = build_block(post.metadata, per_source_limit, total_limit)
     had_existing = START in body and END in body
-    body = remove_existing(body) if had_existing or highlights else body
+    body_without_refs, refs = strip_references(body)
+    body_without_refs = remove_existing(body_without_refs) if had_existing or highlights else body_without_refs
+    body_without_refs, assessment = split_assessment(body_without_refs)
     if not highlights:
         if not had_existing:
             return Result(category, slug, False, 0, official_sources)
-        new_text = update_frontmatter_date(fm_text) + body
+        new_body = body_without_refs.rstrip()
+        if assessment:
+            new_body += "\n\n" + assessment.rstrip()
+        if refs:
+            new_body += "\n\n" + refs.rstrip()
+        new_text = update_frontmatter_date(fm_text, updated_date=updated_date) + new_body + "\n"
         if not new_text.endswith("\n"):
             new_text += "\n"
         changed = new_text != original
         if changed and not dry_run:
             path.write_text(new_text, encoding="utf-8", newline="\n")
         return Result(category, slug, changed, 0, official_sources)
-    pre_refs, refs = strip_references(body)
-    new_body = pre_refs.rstrip() + "\n\n" + block
+    new_body = body_without_refs.rstrip() + "\n\n" + block.rstrip()
+    if assessment:
+        new_body += "\n\n" + assessment.rstrip()
     if refs:
-        new_body += "\n" + refs.rstrip() + "\n"
-    new_text = update_frontmatter_date(fm_text) + new_body
+        new_body += "\n\n" + refs.rstrip()
+    new_text = update_frontmatter_date(fm_text, updated_date=updated_date) + new_body
     if not new_text.endswith("\n"):
         new_text += "\n"
     changed = new_text != original
@@ -303,14 +360,15 @@ def enrich_row(row: dict[str, str], dry_run: bool, per_source_limit: int, total_
     return Result(category, slug, changed, highlights, official_sources)
 
 
-def render_report(results: list[Result], dry_run: bool) -> str:
+def render_report(results: list[Result], dry_run: bool, run_date: str, title: str) -> str:
     changed = [result for result in results if result.changed]
+    with_highlights = [result for result in results if result.highlights]
     lines = [
         "---",
-        "title: Residual Raw Text Enrichment (2026-04-26)",
+        f"title: {title}",
         "type: analysis",
-        "created: 2026-04-26",
-        "updated: 2026-04-26",
+        f"created: {run_date}",
+        f"updated: {run_date}",
         'summary: "Execution report for adding official-source raw text highlights to residual content-depth pages."',
         "source_count: 0",
         "---",
@@ -319,16 +377,19 @@ def render_report(results: list[Result], dry_run: bool) -> str:
         f"- Mode: **{'dry-run' if dry_run else 'write'}**",
         f"- Target rows processed: **{len(results)}**",
         f"- Pages changed: **{len(changed)}**",
-        f"- Highlights added: **{sum(result.highlights for result in changed)}**",
-        f"- Pages with official raw sources used: **{sum(1 for result in changed if result.official_sources)}**",
+        f"- Pages with raw-source highlights after execution: **{len(with_highlights)}**",
+        f"- Raw-source highlight bullets after execution: **{sum(result.highlights for result in with_highlights)}**",
+        f"- Pages with official raw sources used: **{sum(1 for result in with_highlights if result.official_sources)}**",
         "",
-        "## Changed Pages",
+        "## Pages With Raw Highlights",
         "",
-        "| Page | Type | Highlights | Official Sources |",
-        "|---|---|---:|---:|",
+        "| Page | Type | Highlights | Official Sources | Changed this run |",
+        "|---|---|---:|---:|---:|",
     ]
-    for result in changed:
-        lines.append(f"| [[{result.slug}]] | {result.category[:-1]} | {result.highlights} | {result.official_sources} |")
+    for result in with_highlights:
+        lines.append(
+            f"| [[{result.slug}]] | {result.category[:-1]} | {result.highlights} | {result.official_sources} | {'yes' if result.changed else 'no'} |"
+        )
     return "\n".join(lines) + "\n"
 
 
@@ -336,6 +397,9 @@ def main() -> None:
     parser = argparse.ArgumentParser(description="Add official-source raw text highlights to residual content-depth pages.")
     parser.add_argument("--audit", default=str(AUDIT_PATH.relative_to(ROOT)))
     parser.add_argument("--report", default=str(REPORT_PATH.relative_to(ROOT)))
+    parser.add_argument("--queue", default="")
+    parser.add_argument("--title", default="Residual Raw Text Enrichment (2026-04-26)")
+    parser.add_argument("--date", default=DEFAULT_RUN_DATE)
     parser.add_argument("--min-score", type=int, default=22)
     parser.add_argument("--per-source-limit", type=int, default=3)
     parser.add_argument("--total-limit", type=int, default=9)
@@ -343,9 +407,12 @@ def main() -> None:
     parser.add_argument("--dry-run", action="store_true")
     args = parser.parse_args()
 
-    rows = generic_rows() if args.all_generic else target_rows(ROOT / args.audit, args.min_score)
-    results = [enrich_row(row, args.dry_run, args.per_source_limit, args.total_limit) for row in rows]
-    report = render_report(results, args.dry_run)
+    if args.queue:
+        rows = load_queue_rows(ROOT / args.queue)
+    else:
+        rows = generic_rows() if args.all_generic else target_rows(ROOT / args.audit, args.min_score)
+    results = [enrich_row(row, args.dry_run, args.per_source_limit, args.total_limit, args.date) for row in rows]
+    report = render_report(results, args.dry_run, args.date, args.title)
     report_path = ROOT / args.report
     if not args.dry_run:
         report_path.parent.mkdir(parents=True, exist_ok=True)
@@ -353,7 +420,8 @@ def main() -> None:
 
     print(f"Target rows processed: {len(results)}")
     print(f"Pages changed: {sum(1 for result in results if result.changed)}")
-    print(f"Highlights added: {sum(result.highlights for result in results if result.changed)}")
+    print(f"Pages with raw-source highlights: {sum(1 for result in results if result.highlights)}")
+    print(f"Raw-source highlight bullets: {sum(result.highlights for result in results if result.highlights)}")
     print(f"Report: {report_path}")
 
 

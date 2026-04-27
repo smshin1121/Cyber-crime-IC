@@ -18,6 +18,7 @@ CASES_DIR = WIKI_DIR / "cases"
 SOURCES_DIR = WIKI_DIR / "sources"
 RAW_DIR = ROOT / "raw"
 WORKSPACE = ROOT / "_workspace"
+DEFAULT_RUN_DATE = "2026-04-27"
 DEFAULT_QUEUE = WORKSPACE / "content_enrichment_queue_2026-04-26.csv"
 REPORT_PATH = WIKI_DIR / "analysis" / "targeted-content-enrichment-2026-04-26.md"
 
@@ -28,6 +29,18 @@ FM_RE = re.compile(r"^---\s*\n(.*?)\n---\s*\n?", re.DOTALL)
 REFS_RE = re.compile(r"^## (References|참고문헌)\b", re.I | re.M)
 ENRICHMENT_RE = re.compile(
     rf"\n?{re.escape(START_MARKER)}.*?{re.escape(END_MARKER)}\n?",
+    re.DOTALL,
+)
+RAW_START_MARKER = "<!-- RAW_TEXT_HIGHLIGHTS_START -->"
+RAW_END_MARKER = "<!-- RAW_TEXT_HIGHLIGHTS_END -->"
+RAW_HIGHLIGHTS_RE = re.compile(
+    rf"\n?{re.escape(RAW_START_MARKER)}.*?{re.escape(RAW_END_MARKER)}\n?",
+    re.DOTALL,
+)
+ASSESSMENT_START_MARKER = "<!-- CANONICAL_ASSESSMENT_START -->"
+ASSESSMENT_END_MARKER = "<!-- CANONICAL_ASSESSMENT_END -->"
+ASSESSMENT_RE = re.compile(
+    rf"\n?{re.escape(ASSESSMENT_START_MARKER)}.*?{re.escape(ASSESSMENT_END_MARKER)}\n?",
     re.DOTALL,
 )
 
@@ -65,6 +78,8 @@ BOILERPLATE_PATTERNS = (
     "has been absorbed",
     "no visible cross-border mechanism",
     "not treated as a separate",
+    "topic cybercrime component",
+    "release darknet drug trafficker",
     "structured placeholder",
     "should be enriched",
     "should be refined",
@@ -236,6 +251,18 @@ def strip_references(body: str) -> tuple[str, str]:
     if not match:
         return body.rstrip(), ""
     return body[: match.start()].rstrip(), body[match.start():].lstrip()
+
+
+def split_managed_blocks(body: str) -> tuple[str, list[str]]:
+    blocks: list[tuple[int, str]] = []
+    cleaned = body
+    for order, pattern in enumerate((RAW_HIGHLIGHTS_RE, ASSESSMENT_RE)):
+        match = pattern.search(cleaned)
+        if not match:
+            continue
+        blocks.append((order, match.group(0).strip()))
+        cleaned = cleaned[: match.start()] + "\n" + cleaned[match.end() :]
+    return cleaned.strip(), [block for _order, block in sorted(blocks)]
 
 
 def existing_quality_sections(body: str) -> set[str]:
@@ -686,13 +713,13 @@ def build_replacement_body(meta: dict[str, Any], category: str, records: list[So
     return "\n".join(line for line in lines if line is not None).rstrip() + "\n", facts_used
 
 
-def update_frontmatter_text(fm_text: str, summary: str | None) -> str:
+def update_frontmatter_text(fm_text: str, summary: str | None, updated_date: str = DEFAULT_RUN_DATE) -> str:
     if not fm_text:
         return fm_text
     if re.search(r"(?m)^updated:\s*", fm_text):
-        fm_text = re.sub(r"(?m)^updated:\s*.*$", "updated: 2026-04-26", fm_text)
+        fm_text = re.sub(r"(?m)^updated:\s*.*$", f"updated: {updated_date}", fm_text)
     else:
-        fm_text = fm_text.replace("\n---\n", "\nupdated: 2026-04-26\n---\n", 1)
+        fm_text = fm_text.replace("\n---\n", f"\nupdated: {updated_date}\n---\n", 1)
     if summary:
         escaped = json.dumps(summary, ensure_ascii=False)
         if re.search(r"(?m)^summary:\s*", fm_text):
@@ -722,7 +749,7 @@ def load_queue(path: Path) -> list[dict[str, str]]:
         return list(csv.DictReader(handle))
 
 
-def enrich_row(row: dict[str, str], dry_run: bool = False) -> EnrichmentResult:
+def enrich_row(row: dict[str, str], dry_run: bool = False, updated_date: str = DEFAULT_RUN_DATE) -> EnrichmentResult:
     category = row["category"]
     slug = row["slug"]
     path = page_path(category, slug)
@@ -731,6 +758,7 @@ def enrich_row(row: dict[str, str], dry_run: bool = False) -> EnrichmentResult:
     post = frontmatter.load(path)
     meta = post.metadata
     body_without_refs, refs = strip_references(body)
+    body_without_refs, managed_blocks = split_managed_blocks(body_without_refs)
     body_without_refs = ENRICHMENT_RE.sub("\n", body_without_refs).rstrip()
     records = source_records(meta, body)
     placeholder_replaced = has_placeholder_language(body_without_refs)
@@ -742,7 +770,9 @@ def enrich_row(row: dict[str, str], dry_run: bool = False) -> EnrichmentResult:
         new_pre_refs = (body_without_refs.rstrip() + "\n\n" + enrichment).strip() + "\n"
 
     summary = summary_text(meta, category, records, fact_pool(records)) if placeholder_replaced else None
-    new_text = update_frontmatter_text(fm_text, summary) + new_pre_refs
+    new_text = update_frontmatter_text(fm_text, summary, updated_date=updated_date) + new_pre_refs
+    for block in managed_blocks:
+        new_text = new_text.rstrip() + "\n\n" + block.rstrip() + "\n"
     if refs:
         new_text += "\n" + refs.rstrip() + "\n"
 
@@ -762,7 +792,7 @@ def enrich_row(row: dict[str, str], dry_run: bool = False) -> EnrichmentResult:
     )
 
 
-def render_report(results: list[EnrichmentResult], dry_run: bool, queue_path: Path, title: str) -> str:
+def render_report(results: list[EnrichmentResult], dry_run: bool, queue_path: Path, title: str, run_date: str) -> str:
     changed = [result for result in results if result.changed]
     placeholder = [result for result in results if result.placeholder_replaced]
     no_facts = [result for result in results if result.facts_used == 0]
@@ -774,8 +804,8 @@ def render_report(results: list[EnrichmentResult], dry_run: bool, queue_path: Pa
         "---",
         f"title: {title}",
         "type: analysis",
-        "created: 2026-04-26",
-        "updated: 2026-04-26",
+        f"created: {run_date}",
+        f"updated: {run_date}",
         'summary: "Execution report for enriching all pages selected by the content enrichment queue."',
         "source_count: 0",
         "---",
@@ -811,14 +841,15 @@ def main() -> None:
     parser.add_argument("--queue", default=str(DEFAULT_QUEUE.relative_to(ROOT)))
     parser.add_argument("--report", default=str(REPORT_PATH.relative_to(ROOT)))
     parser.add_argument("--title", default="Targeted Content Enrichment (2026-04-26)")
+    parser.add_argument("--date", default=DEFAULT_RUN_DATE)
     parser.add_argument("--dry-run", action="store_true")
     args = parser.parse_args()
 
     queue_path = ROOT / args.queue
     rows = load_queue(queue_path)
-    results = [enrich_row(row, dry_run=args.dry_run) for row in rows]
+    results = [enrich_row(row, dry_run=args.dry_run, updated_date=args.date) for row in rows]
 
-    report = render_report(results, args.dry_run, queue_path, args.title)
+    report = render_report(results, args.dry_run, queue_path, args.title, args.date)
     report_path = ROOT / args.report
     if not args.dry_run:
         report_path.parent.mkdir(parents=True, exist_ok=True)

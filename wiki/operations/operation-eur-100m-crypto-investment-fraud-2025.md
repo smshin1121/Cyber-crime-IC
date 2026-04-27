@@ -76,7 +76,7 @@ sources:
   - "[[2025-09-23_721news-com_eurojust-coordinates-action-to-halt-cryptocurrency-fraud-of-over-100-million-euros-across-europe]]"
   - "[[2025-09-23_112wwft-nl_eurojust-coordinates-action-to-halt-cryptocurrency-fraud-of-over-100-million-euros-across-europe]]"
 created: 2026-04-19
-updated: 2026-04-26
+updated: 2026-04-27
 summary: "Eurojust coordinated a 2025 multinational action against a cryptocurrency investment-fraud network that defrauded victims in at least 23 countries of over EUR 100 million and triggered arrests, searches, and asset freezes across six participating states."
 organizations:
   - "[[eurojust]]"
@@ -153,6 +153,25 @@ According to Eurojust, the fraud had been running since at least 2018 and used p
 - It highlighted arrests, searches, and the JIT linking Spain and Lithuania.
 
 <!-- SOURCE_ENRICHMENT_END -->
+
+<!-- CANONICAL_ASSESSMENT_START -->
+
+## Canonical Operation Assessment
+
+This page is retained as a canonical operation because it describes a joint-investigation against A transnational cryptocurrency investment fraud network targeting victims across Europe, rather than a defendant-specific follow-on action. The record attributes lead responsibility to Eurojust and coordination to Eurojust, with participating or affected jurisdictions recorded as Bulgaria, Italy, Lithuania, Portugal, Romania, Spain.
+
+The cooperation model is documented through named agencies and partners: Eurojust, Europol Ec3, Spain National Police; mechanisms: Joint Investigation Team, European Arrest Warrant, European Investigation Order, Asset Freezing; legal basis: Joint Investigation Team, European Arrest Warrant, European Investigation Order; enforcement posture: Coordinated Searches, Arrests, Asset Freezing.
+
+Operational results captured for the canonical record: 5 arrests; cryptocurrency/asset result recorded as Crypto assets seized during action day; Searches were carried out in Spain, Portugal, Italy, Romania and Bulgaria.; Bank accounts and other financial assets were frozen..
+
+The canonical source set contains 5 reference(s): 2025 09 23 Eurojust Crypto Fraud Over 100 Million Euros Across Europe, 2025 09 23 Decripto Org Eurojust Dismantles Eur 100 Million Crypto Scam Five Arrests And Seizures, 2025 09 23 World Border Congress Eurojust Coordinates Action To Halt Cryptocurrency Fraud Of Over 100 Million Euros Across Europe, 2025 09 23 721news Com Eurojust Coordinates Action To Halt Cryptocurrency Fraud Of Over 100 Million Euros Across Europe, 2025 09 23 112wwft Nl Eurojust Coordinates Action To Halt Cryptocurrency Fraud Of Over 100 Million Euros Across Europe.
+The source floor is met for a canonical operation, but source breadth does not by itself prove that every downstream arrest or sentencing is part of this operation; follow-on records should remain linked separately.
+No frontmatter missing-field flags are currently carried on this page.
+For dataset use, this page should be treated as the operation-level aggregation point: country, agency, mechanism and outcome fields describe the coordinated enforcement action as a whole. Later indictments, pleas, sentencings, extraditions or forfeiture actions should be attached as related case or absorbed follow-on records unless the source explicitly presents them as a new multinational operation.
+When source records contain broader background, repeated wire-service republications, or topic-page material, this assessment gives priority to facts that are directly tied to the named operation, its participating authorities, its target infrastructure or criminal service, and its measurable enforcement outcome. Peripheral source titles are not treated as independent taxonomy or result evidence.
+This keeps the canonical record analytically bounded and reproducible.
+
+<!-- CANONICAL_ASSESSMENT_END -->
 
 ## References
 

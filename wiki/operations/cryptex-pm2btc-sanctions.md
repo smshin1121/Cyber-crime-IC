@@ -76,7 +76,7 @@ sources:
   - "[[2024-09-26_usao-edva_two-russian-nationals-charged-connection-operating-billion-dollar-money-laundering]]"
   - "[[2024-09-26_chainalysis_ofac-designates-russian-exchange-cryptex-fincen-names-pm2btc]]"
 created: 2026-04-08
-updated: 2026-04-26
+updated: 2026-04-27
 operation_role: umbrella
 parent_operation: ""
 summary: "The September 2024 Cryptex and PM2BTC action combined U.S. sanctions, FinCEN special measures, criminal charging, and Dutch server seizures against a cybercrime-linked Russian virtual-currency laundering ecosystem."
@@ -169,6 +169,36 @@ This action is a strong example of layered financial disruption. Treasury and Fi
 - This FinCEN release is the cleanest U.S. financial-regulatory source for the PM2BTC portion of the September 2024 action.
 
 <!-- SOURCE_ENRICHMENT_END -->
+
+<!-- RAW_TEXT_HIGHLIGHTS_START -->
+
+## Raw Source Highlights
+
+- U.S. Department of the Treasury, 2024-09-26: Department of the Treasury About Treasury Enter Search Term(s): Advanced Search General Information Role of the Treasury Officials Organizational Chart Orders and Directives Offices Domestic Finance Economic Policy General Counsel International Affairs Management Public Affairs Tax Policy Terrorism and Financial Intelligence Tribal and.
+- U.S. Department of Justice, 2024-09-26: Department of Justice title="About" title="News" title="Guidance & Resources" Justice.gov Office of Public Affairs Two Russian Nationals Charged In Connection With Operating Billion Dollar Money Laundering Services This is archived content from the U.S.
+- U.S. Department of Justice, 2024-09-26: The actions involved the unsealing of an indictment charging a Russian national with his involvement in operating multiple money laundering services that catered to cybercriminals, as well as the seizure of websites associated with three illicit cryptocurrency exchanges.
+- U.S. Attorney's Office, Eastern District of Virginia, 2024-09-26: Attorney Criminal Civil Services & Programs Victim Witness Assistance Project Safe Neighborhoods Reentry Program Report a Crime Find a Court Document Locate An Inmate Whistleblower Non-Prosecution Pilot Program ## Extraction Notes - parser: document - fetcher: doj_fetch - fetched_at: 2026-04-25T14:18:37+00:00 - final_url:
+
+<!-- RAW_TEXT_HIGHLIGHTS_END -->
+
+<!-- CANONICAL_ASSESSMENT_START -->
+
+## Canonical Operation Assessment
+
+This page is retained as a canonical operation because it describes a infrastructure-seizure against Cryptex exchange, PM2BTC, and the operators behind a cybercrime-linked virtual-currency laundering network, rather than a defendant-specific follow-on action. The record attributes lead responsibility to Us Treasury and coordination to Us Treasury, with participating or affected jurisdictions recorded as United States and Netherlands.
+
+The cooperation model is documented through named agencies and partners: Us Treasury, Us Doj, Netherlands Politie; enforcement posture: Sanction, Seizure, Indictment.
+
+Operational results captured for the canonical record: 2 indictments; cryptocurrency/asset result recorded as More than USD 7 million; FinCEN designated PM2BTC as a primary money laundering concern.; OFAC sanctioned Cryptex and related infrastructure.; Dutch authorities seized servers associated with Cryptex and PM2BTC..
+
+The canonical source set contains 6 reference(s): 2024 09 26 Treasury Cryptex Pm2btc Coordinated Actions, 2024 09 26 Justice Gov Two Russian Nationals Charged Money Laundering Services, 2024 09 26 Fincen Treasury Takes Coordinated Actions Against Illicit Russian Virtual Currency, 2024 09 26 Fincen Imposition Special Measure Prohibiting The Transmittal Of Funds Involving Pm2btc, 2024 09 26 Usao Edva Two Russian Nationals Charged Connection Operating Billion Dollar Money Laundering, 2024 09 26 Chainalysis Ofac Designates Russian Exchange Cryptex Fincen Names Pm2btc.
+The source floor is met for a canonical operation, but source breadth does not by itself prove that every downstream arrest or sentencing is part of this operation; follow-on records should remain linked separately.
+Known metadata gaps still carried by this page: Legal Basis and Mechanisms Used.
+For dataset use, this page should be treated as the operation-level aggregation point: country, agency, mechanism and outcome fields describe the coordinated enforcement action as a whole. Later indictments, pleas, sentencings, extraditions or forfeiture actions should be attached as related case or absorbed follow-on records unless the source explicitly presents them as a new multinational operation.
+When source records contain broader background, repeated wire-service republications, or topic-page material, this assessment gives priority to facts that are directly tied to the named operation, its participating authorities, its target infrastructure or criminal service, and its measurable enforcement outcome. Peripheral source titles are not treated as independent taxonomy or result evidence.
+This keeps the canonical record analytically bounded and reproducible.
+
+<!-- CANONICAL_ASSESSMENT_END -->
 
 ## References
 

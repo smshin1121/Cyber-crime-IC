@@ -61,7 +61,7 @@ sources:
   - "[[2024-09-27_the420-in_interpol-leads-to-144-arrests-and-rescues-20-child-victims-across-south-america]]"
   - "[[2025-02-01_interpol-int_annual-report-2024-operation-orion-international]]"
 created: 2026-04-08
-updated: 2026-04-26
+updated: 2026-04-27
 operation_role: umbrella
 parent_operation: ""
 summary: "Operation Orion International was a 12-country South American child-protection crackdown coordinated by INTERPOL, resulting in 144 arrests, 20 safeguarded children, and seven arrests of Red Notice subjects."
@@ -175,6 +175,36 @@ The sources support intelligence consolidation by INTERPOL, coordinated target a
 - The operation ran from May to September 2024 and was launched following information from Chile's cybercrime unit and the Buenos Aires prosecutor's office.
 
 <!-- SOURCE_ENRICHMENT_END -->
+
+<!-- RAW_TEXT_HIGHLIGHTS_START -->
+
+## Raw Source Highlights
+
+- INTERPOL, 2024-09-26: 20 rescued, 144 arrested in major child abuse operation across South America INTERPOL coordinates 12-country crackdown on child sexual abuse and exploitation LYON, France – An international operation targeting child sex offenders has led to 144 arrests and enabled the safeguarding of 20 victims across South America.
+- INTERPOL, 2024-09-26: During Operation Orion International, 12 South American countries joined forces to combat the production, distribution and possession of online child sexual abuse and exploitation material, focusing particularly on victim identification and rescue.
+- INTERPOL, 2025-02-01: Together, they achieved major arrests, recovered illicit assets, and disrupted organized crime groups that profit from human suffering and global instability.
+- INTERPOL, 2025-02-01: Through our partnerships - with governments, international organizations and the private sector - and through public awareness efforts, we helped build a shared sense of responsibility for safety and security at every level: local, national, regional and global.
+
+<!-- RAW_TEXT_HIGHLIGHTS_END -->
+
+<!-- CANONICAL_ASSESSMENT_START -->
+
+## Canonical Operation Assessment
+
+This page is retained as a canonical operation because it describes a arrest-sweep against Child sexual abuse and exploitation offenders operating across South America, rather than a defendant-specific follow-on action. The record attributes lead responsibility to Interpol Igci and coordination to Interpol Igci, with participating or affected jurisdictions recorded as Argentina, Bolivia, Brazil, Chile, Colombia, Ecuador, Guyana, Paraguay, Peru, Suriname, Uruguay, Venezuela.
+
+The cooperation model is documented through named agencies and partners: Interpol Igci and Unodc; mechanisms: informal cooperation; enforcement posture: Arrest and Search.
+
+Operational results captured for the canonical record: 144 arrests; 20 victims notified; 18 direct abusers were arrested.; 111 suspects were charged with possession or distribution of abuse material.; Seven Red Notice subjects were arrested..
+
+The canonical source set contains 5 reference(s): 2024 10 15 Interpol Int Operation Orion International, 2024 09 26 Interpol Int 20 Rescued 144 Arrested In Major Child Abuse Operation Across South America, 2024 10 15 Interpol Operation Orion International, 2024 09 27 The420 In Interpol Leads To 144 Arrests And Rescues 20 Child Victims Across South America, 2025 02 01 Interpol Int Annual Report 2024 Operation Orion International.
+The source floor is met for a canonical operation, but source breadth does not by itself prove that every downstream arrest or sentencing is part of this operation; follow-on records should remain linked separately.
+No frontmatter missing-field flags are currently carried on this page.
+For dataset use, this page should be treated as the operation-level aggregation point: country, agency, mechanism and outcome fields describe the coordinated enforcement action as a whole. Later indictments, pleas, sentencings, extraditions or forfeiture actions should be attached as related case or absorbed follow-on records unless the source explicitly presents them as a new multinational operation.
+When source records contain broader background, repeated wire-service republications, or topic-page material, this assessment gives priority to facts that are directly tied to the named operation, its participating authorities, its target infrastructure or criminal service, and its measurable enforcement outcome. Peripheral source titles are not treated as independent taxonomy or result evidence.
+This keeps the canonical record analytically bounded and reproducible.
+
+<!-- CANONICAL_ASSESSMENT_END -->
 
 ## References
 

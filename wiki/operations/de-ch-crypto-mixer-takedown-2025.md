@@ -91,7 +91,7 @@ sources:
   - "[[2025-12-02_techradar-com_huge-cryptomixer-takedown-sees-feds-seize-over-usd30milion]]"
   - "[[2025-12-01_heise-de_illegaler-cryptomixer-von-strafverfolgern-zerschlagen]]"
 created: 2026-04-14
-updated: 2026-04-26
+updated: 2026-04-27
 operation_role: umbrella
 parent_operation: ""
 summary: "On **1 December 2025**, [[eurojust|Eurojust]] announced that authorities from [[germany|Germany]] and [[switzerland|Switzerland]], together with Eurojust and [[europol-ec3|Europol]], had taken down a cryptocurrency mixing service suspected of being used by criminals to launder the proceeds of drug trafficking, weapons trafficking, online fraud, and other cybercrimes. During an action week, **more than EUR 25 million in cryptocurrency was seized and three servers were taken down**."
@@ -227,6 +227,25 @@ No [[south-korea|South Korean]] participation is documented in this operation. K
 - The report linked the action to German and Swiss authorities with Eurojust and Europol.
 
 <!-- SOURCE_ENRICHMENT_END -->
+
+<!-- CANONICAL_ASSESSMENT_START -->
+
+## Canonical Operation Assessment
+
+This page is retained as a canonical operation because it describes a infrastructure-seizure against Unnamed cryptocurrency mixing service used to launder proceeds from drug trafficking, weapons trafficking, online fraud, and other cybercrimes, rather than a defendant-specific follow-on action. The record attributes lead responsibility to Eurojust and coordination to Eurojust, with participating or affected jurisdictions recorded as Germany and Switzerland.
+
+The cooperation model is documented through named agencies and partners: Eurojust and Europol Ec3; mechanisms: MLAT Process and Joint Investigation Team; legal basis: Budapest Convention and mutual legal assistance; enforcement posture: Seizure, Takedown, Asset Freeze.
+
+Operational results captured for the canonical record: 3 servers seized; cryptocurrency/asset result recorded as EUR 25 million; 3 servers seized; Cryptocurrency mixing service infrastructure dismantled.
+
+The canonical source set contains 5 reference(s): 2025 12 01 Eurojust De Ch Crypto Mixer Takedown, 2025 12 01 Coindesk Com Cryptomixer Takedown, 2025 12 01 Amlintelligence Com Cryptomixer Used To Mix 13bn In Bitcoin, 2025 12 02 Techradar Com Huge Cryptomixer Takedown Sees Feds Seize Over Usd30milion, 2025 12 01 Heise De Illegaler Cryptomixer Von Strafverfolgern Zerschlagen.
+The source floor is met for a canonical operation, but source breadth does not by itself prove that every downstream arrest or sentencing is part of this operation; follow-on records should remain linked separately.
+Known metadata gaps still carried by this page: Operation Name, Service Name, Arrests, Indictments, Start Date, Specific Legal Basis For Switzerland.
+For dataset use, this page should be treated as the operation-level aggregation point: country, agency, mechanism and outcome fields describe the coordinated enforcement action as a whole. Later indictments, pleas, sentencings, extraditions or forfeiture actions should be attached as related case or absorbed follow-on records unless the source explicitly presents them as a new multinational operation.
+When source records contain broader background, repeated wire-service republications, or topic-page material, this assessment gives priority to facts that are directly tied to the named operation, its participating authorities, its target infrastructure or criminal service, and its measurable enforcement outcome. Peripheral source titles are not treated as independent taxonomy or result evidence.
+This keeps the canonical record analytically bounded and reproducible.
+
+<!-- CANONICAL_ASSESSMENT_END -->
 
 ## References
 

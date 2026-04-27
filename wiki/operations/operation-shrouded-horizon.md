@@ -95,7 +95,7 @@ timeframe:
 title: Operation Shrouded Horizon
 title_ko: Operation Shrouded Horizon (Darkode 포럼 해체)
 type: operation
-updated: 2026-04-26
+updated: 2026-04-27
 ---
 
 ## Summary
@@ -157,6 +157,7 @@ The operation was coordinated through Europol's European Cybercrime Centre (EC3)
 ## Legal and Procedural Posture
 
 - Recorded crime classification: malware.
+- Recorded enforcement posture: Arrest, Seizure, Takedown, Indictment.
 - The record is categorized as takedown with status completed.
 
 ## Evidence and Attribution Notes
@@ -165,6 +166,36 @@ The operation was coordinated through Europol's European Cybercrime Centre (EC3)
 - The operation resulted in the arrest of more than 70 individuals and the indictment of 12, neutralizing a criminal marketplace for malware, botnets, stolen personal information, and credit card data trafficking.
 
 <!-- SOURCE_ENRICHMENT_END -->
+
+<!-- RAW_TEXT_HIGHLIGHTS_START -->
+
+## Raw Source Highlights
+
+- FBI, 2015-07-15: And today, the Department of Justice and the FBI—with the assistance of our partners in 19 countries around the world—announced the results of Operation Shrouded Horizon, a multi-agency investigation into the Darkode forum.
+- FBI, 2015-07-15: The above message was displayed on the Darkode homepage after the FBI seized its web domain and servers.
+- washingtonpost.com, 2015-07-15: Department of Justice title="About" title="News" title="Guidance & Resources" Justice.gov Office of Public Affairs Major Computer Hacking Forum Dismantled This is archived content from the U.S.
+- washingtonpost.com, 2015-07-15: “Hackers and those who profit from stolen information use underground Internet forums to evade law enforcement and target innocent people around the world,” said Assistant Attorney General Caldwell.
+
+<!-- RAW_TEXT_HIGHLIGHTS_END -->
+
+<!-- CANONICAL_ASSESSMENT_START -->
+
+## Canonical Operation Assessment
+
+This page is retained as a canonical operation because it describes a takedown against Darkode Forum, rather than a defendant-specific follow-on action. The record attributes lead responsibility to Fbi and coordination to Europol Ec3, with participating or affected jurisdictions recorded as United States, United Kingdom, Sweden, Bosnia And Herzegovina, Romania, Serbia, Latvia, Cyprus, Australia, Nigeria, Denmark, Canada, Colombia, Costa Rica, Croatia, Finland, Germany, Israel.
+
+The cooperation model is documented through named agencies and partners: Fbi, Usdoj, Europol Ec3, Ncfta; enforcement posture: Arrest, Seizure, Takedown, Indictment.
+
+Operational results captured for the canonical record: 70 arrests; 12 indictments; 1 domains seized; Darkode forum shut down.
+
+The canonical source set contains 5 reference(s): 2015 07 01 Wired Com Dozens Nabbed Takedown Cybercrime Forum Darkode, 2015 07 15 Fbi Gov Cyber Criminal Forum Taken Down, 2015 07 15 Justice Gov Dd4cf514 2b05 11e5 A5ea Cf74396e59ec Story, 2015 07 15 Archive Triblive Com Details Emerge On Global Internet Crime Sting Led By Pittsburgh Fbi Agents, 2015 07 15 Threatpost Com 113800.
+The source floor is met for a canonical operation, but source breadth does not by itself prove that every downstream arrest or sentencing is part of this operation; follow-on records should remain linked separately.
+Known metadata gaps still carried by this page: Legal Basis and Mechanisms Used.
+For dataset use, this page should be treated as the operation-level aggregation point: country, agency, mechanism and outcome fields describe the coordinated enforcement action as a whole. Later indictments, pleas, sentencings, extraditions or forfeiture actions should be attached as related case or absorbed follow-on records unless the source explicitly presents them as a new multinational operation.
+When source records contain broader background, repeated wire-service republications, or topic-page material, this assessment gives priority to facts that are directly tied to the named operation, its participating authorities, its target infrastructure or criminal service, and its measurable enforcement outcome. Peripheral source titles are not treated as independent taxonomy or result evidence.
+This keeps the canonical record analytically bounded and reproducible.
+
+<!-- CANONICAL_ASSESSMENT_END -->
 
 ## References
 

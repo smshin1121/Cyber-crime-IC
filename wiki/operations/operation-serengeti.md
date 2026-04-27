@@ -94,7 +94,7 @@ sources:
   - "[[2024-11-26_apnews_interpol-clamps-down-on-cybercrime-and-arrests-over-1000-suspects-in-africa]]"
   - "[[2024-04-01_interpol_africa-cyberthreat-assessment-report-2024]]"
 created: 2026-04-08
-updated: 2026-04-26
+updated: 2026-04-27
 operation_role: umbrella
 parent_operation: ""
 summary: "Operation Serengeti was a joint INTERPOL-[[afripol|AFRIPOL]] operation targeting cybercriminals across **19 African countries** from September to October 2024. The operation resulted in **1,006 arrests** and the dismantling of **134,089 malicious infrastructures and networks**. More than 35,000 victims were identified, with cases linked to nearly **USD 193 million** in financial losses worldwide. The operation was funded by the UK's Foreign, Commonwealth and Development Office, the German Federal Foreign Office, and the Council of Europe."
@@ -103,6 +103,8 @@ organizations:
   - "[[afripol]]"
 crime_types:
   - "[[online-fraud-ic]]"
+  - "[[bec-ic]]"
+  - "[[ransomware-ic]]"
 ---
 ## Summary
 
@@ -187,6 +189,36 @@ No Korean involvement noted in this operation.
 - More than 35,000 victims were identified, with cases linked to nearly USD 193 million in financial losses worldwide.
 
 <!-- SOURCE_ENRICHMENT_END -->
+
+<!-- RAW_TEXT_HIGHLIGHTS_START -->
+
+## Raw Source Highlights
+
+- INTERPOL, 2024-11-26: Major cybercrime operation nets 1,006 suspects Empowering law enforcement and partners to disrupt cybercrime networks LYON, France – Authorities across 19 African countries have arrested 1,006 suspects and dismantled 134,089 malicious infrastructures and networks thanks to a joint operation by INTERPOL and AFRIPOL against cybercrime.
+- INTERPOL, 2024-11-26: More than 35,000 victims were identified during the operation, with cases linked to nearly USD 193 million in financial losses worldwide.
+- INTERPOL, 2024-04-01: Cyber resilience and law enforcement capabilities across the African continent 26 ## 7.
+- INTERPOL, 2024-04-01: Victims are often left financially, psychologically, and emotionally destitute.
+
+<!-- RAW_TEXT_HIGHLIGHTS_END -->
+
+<!-- CANONICAL_ASSESSMENT_START -->
+
+## Canonical Operation Assessment
+
+This page is retained as a canonical operation because it describes a arrest-sweep against Cybercriminals in Africa targeting ransomware, BEC, digital extortion, and online scams, rather than a defendant-specific follow-on action. The record attributes lead responsibility to Interpol Igci and coordination to Afripol, with participating or affected jurisdictions recorded as Algeria, Angola, Benin, Cameroon, Cote Divoire, Democratic Republic Of The Congo, Gabon, Ghana, Kenya, Mauritius, Mozambique, Nigeria, Rwanda, Senegal, South Africa, Tanzania, Tunisia, Zambia.
+
+The cooperation model is documented through named agencies and partners: Interpol Igci and Afripol; enforcement posture: Arrest and Takedown.
+
+Operational results captured for the canonical record: 1006 arrests; 134,089 malicious infrastructures and networks dismantled; 35,000+ victims identified; USD 193 million in financial losses linked worldwide.
+
+The canonical source set contains 5 reference(s): 2024 11 26 Interpol Operation Serengeti, 2024 11 27 Group Ib Operation Serengeti, 2024 11 27 Kaspersky Operation Serengeti, 2024 11 26 Apnews Interpol Clamps Down On Cybercrime And Arrests Over 1000 Suspects In Africa, 2024 04 01 Interpol Africa Cyberthreat Assessment Report 2024.
+The source floor is met for a canonical operation, but source breadth does not by itself prove that every downstream arrest or sentencing is part of this operation; follow-on records should remain linked separately.
+Known metadata gaps still carried by this page: Legal Basis, Mechanisms Used, Full Participating Countries List.
+For dataset use, this page should be treated as the operation-level aggregation point: country, agency, mechanism and outcome fields describe the coordinated enforcement action as a whole. Later indictments, pleas, sentencings, extraditions or forfeiture actions should be attached as related case or absorbed follow-on records unless the source explicitly presents them as a new multinational operation.
+When source records contain broader background, repeated wire-service republications, or topic-page material, this assessment gives priority to facts that are directly tied to the named operation, its participating authorities, its target infrastructure or criminal service, and its measurable enforcement outcome. Peripheral source titles are not treated as independent taxonomy or result evidence.
+This keeps the canonical record analytically bounded and reproducible.
+
+<!-- CANONICAL_ASSESSMENT_END -->
 
 ## References
 

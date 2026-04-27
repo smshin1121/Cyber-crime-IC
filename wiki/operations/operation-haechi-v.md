@@ -61,7 +61,7 @@ timeframe:
   start: 2024-07
 title: "Operation HAECHI V"
 type: operation
-updated: 2026-04-26
+updated: 2026-04-27
 operation_role: umbrella
 parent_operation: ""
 summary: "Operation HAECHI V was the fifth and largest iteration of INTERPOL's HAECHI series of operations targeting cyber-enabled financial crime. Running from July to November 2024, the operation involved law enforcement from **40 countries** and resulted in **5,500+ arrests** and the seizure of **USD 400 million+** in virtual assets and government-backed currencies. The operation targeted seven types of cyber-enabled fraud: voice phishing, romance scams, online sextortion, investment fraud, illegal online gambling, business email compromise (BEC), and e-commerce fraud."
@@ -174,6 +174,36 @@ Korea's leadership of the HAECHI series is *almost certainly* the most significa
 - A notable sub-operation involved Korean and Chinese authorities jointly dismantling a voice phishing syndicate responsible for USD 1.1 billion in financial losses.
 
 <!-- SOURCE_ENRICHMENT_END -->
+
+<!-- RAW_TEXT_HIGHLIGHTS_START -->
+
+## Raw Source Highlights
+
+- INTERPOL, 2024-12-02: INTERPOL financial crime operation makes record 5,500 arrests, seizures worth over USD 400 million Joint operation investigated thousands of cyber-enabled scams on five continents LYON, France – A global operation involving law enforcement from 40 countries, territories and regions has ended with the arrest of over 5,500 financial crime.
+- INTERPOL, 2024-12-02: As part of the operation, Korean authorities, in tandem with authorities in Beijing successfully dismantled a sprawling voice phishing syndicate responsible for financial losses totaling 1,511 billion KRW (USD 1.1 billion) and affecting over 1,900 victims.
+- INTERPOL, 2024-11-27: INTERPOL financial crime operation makes record 5,500 arrests, seizures worth over USD 400 million Qui nous sommes Qu’est-ce qu’INTERPOL ?
+- INTERPOL, 2024-11-27: INTERPOL financial crime operation makes record 5,500 arrests, seizures worth over USD 400 million Quiénes somos ¿Qué es INTERPOL?
+
+<!-- RAW_TEXT_HIGHLIGHTS_END -->
+
+<!-- CANONICAL_ASSESSMENT_START -->
+
+## Canonical Operation Assessment
+
+This page is retained as a canonical operation because it describes a arrest-sweep against Cyber-enabled financial crime networks (voice phishing, romance scams,, rather than a defendant-specific follow-on action. The record attributes lead responsibility to Interpol Igci and coordination to Interpol Igci, with participating or affected jurisdictions recorded as South Korea and China.
+
+The cooperation model is documented through named agencies and partners: Knpa Cyber Bureau and Chinese Public Security Bureau.
+
+Operational results captured for the canonical record: 5500 arrests.
+
+The canonical source set contains 5 reference(s): 2024 12 02 Digwatch Interpol Korea 5500 Arrests, 2024 12 02 Interpol Operation Haechi V, 2024 12 03 Dig Watch Interpol And South Korea Lead Operation Arresting Over 5500 Cybercrime Suspects, 2024 11 27 Interpol Int Fr Operation Haechi V 5500 Arrests, 2024 11 27 Interpol Int Es Operation Haechi V 5500 Arrests.
+The source floor is met for a canonical operation, but source breadth does not by itself prove that every downstream arrest or sentencing is part of this operation; follow-on records should remain linked separately.
+No frontmatter missing-field flags are currently carried on this page.
+For dataset use, this page should be treated as the operation-level aggregation point: country, agency, mechanism and outcome fields describe the coordinated enforcement action as a whole. Later indictments, pleas, sentencings, extraditions or forfeiture actions should be attached as related case or absorbed follow-on records unless the source explicitly presents them as a new multinational operation.
+When source records contain broader background, repeated wire-service republications, or topic-page material, this assessment gives priority to facts that are directly tied to the named operation, its participating authorities, its target infrastructure or criminal service, and its measurable enforcement outcome. Peripheral source titles are not treated as independent taxonomy or result evidence.
+This keeps the canonical record analytically bounded and reproducible.
+
+<!-- CANONICAL_ASSESSMENT_END -->
 
 ## References
 

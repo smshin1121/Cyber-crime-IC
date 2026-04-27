@@ -59,7 +59,7 @@ sources:
   - "[[2025-01-31_infosecurity-magazine_operation-talent-cracked-nulled-dismantled]]"
   - "[[2025-01-31_bleepingcomputer-com_operation-talent-cracked-nulled]]"
 created: 2026-04-08
-updated: 2026-04-26
+updated: 2026-04-27
 operation_role: umbrella
 parent_operation: ""
 summary: "Operation Talent was a Germany-led, Europol-supported international operation against the Cracked and Nulled cybercrime forums, producing two arrests, 17 server seizures, and broad evidence capture for follow-on investigations."
@@ -169,6 +169,34 @@ The sources clearly support synchronized multinational police action with Europo
 - The article highlighted server seizures, arrests, and the involvement of Germany, the United States, and multiple European partners.
 
 <!-- SOURCE_ENRICHMENT_END -->
+
+<!-- RAW_TEXT_HIGHLIGHTS_START -->
+
+## Raw Source Highlights
+
+- U.S. Department of Justice, 2025-01-30: Victims Affected The Justice Department today announced its participation in a multinational operation involving actions in the United States, Romania, Australia, France, Germany, Spain, Italy, and Greece to disrupt and take down the infrastructure of the online cybercrime marketplaces known as Cracked and Nulled.
+- U.S. Department of Justice, 2025-01-30: The operation was announced in conjunction with Operation Talent, a multinational law enforcement operation supported by Europol to investigate Cracked and Nulled.
+
+<!-- RAW_TEXT_HIGHLIGHTS_END -->
+
+<!-- CANONICAL_ASSESSMENT_START -->
+
+## Canonical Operation Assessment
+
+This page is retained as a canonical operation because it describes a takedown against Cracked and Nulled cybercrime forums and their supporting criminal services, rather than a defendant-specific follow-on action. The record attributes lead responsibility to Germany Bka and coordination to Europol Ec3, with participating or affected jurisdictions recorded as Germany, United States, Australia, Spain, Greece, Romania, Italy, France.
+
+The cooperation model is documented through named agencies and partners: Germany Bka, Europol Ec3, Fbi Cyber Division, Us Doj; mechanisms: informal cooperation; enforcement posture: Arrest, Seizure, Takedown.
+
+Operational results captured for the canonical record: 2 arrests; 17 servers seized; 12 domains seized; cryptocurrency/asset result recorded as approximately EUR 300,000 in cash and crypto; Cracked and Nulled had roughly 10 million registered user accounts combined.; Associated services Sellix and StarkRDP were also disrupted.; Searches were carried out at seven properties..
+
+The canonical source set contains 5 reference(s): 2025 01 30 Europol Operation Talent, 2025 01 30 Justice Gov Cracked And Nulled Marketplaces Disrupted International Cyber Operation, 2025 01 30 Cybernews Com Cracked And Nulled Seized In Operation Talent, 2025 01 31 Infosecurity Magazine Operation Talent Cracked Nulled Dismantled, 2025 01 31 Bleepingcomputer Com Operation Talent Cracked Nulled.
+The source floor is met for a canonical operation, but source breadth does not by itself prove that every downstream arrest or sentencing is part of this operation; follow-on records should remain linked separately.
+No frontmatter missing-field flags are currently carried on this page.
+For dataset use, this page should be treated as the operation-level aggregation point: country, agency, mechanism and outcome fields describe the coordinated enforcement action as a whole. Later indictments, pleas, sentencings, extraditions or forfeiture actions should be attached as related case or absorbed follow-on records unless the source explicitly presents them as a new multinational operation.
+When source records contain broader background, repeated wire-service republications, or topic-page material, this assessment gives priority to facts that are directly tied to the named operation, its participating authorities, its target infrastructure or criminal service, and its measurable enforcement outcome. Peripheral source titles are not treated as independent taxonomy or result evidence.
+This keeps the canonical record analytically bounded and reproducible.
+
+<!-- CANONICAL_ASSESSMENT_END -->
 
 ## References
 

@@ -81,7 +81,7 @@ sources:
   - "[[2026-02-01_interpol-int_annual-report-2024-operation-first-light]]"
   - "[[2026-04-01_interpol-int_support-for-afripol-operation-first-light]]"
 created: 2026-04-08
-updated: 2026-04-26
+updated: 2026-04-27
 operation_role: umbrella
 parent_operation: ""
 summary: "Operation First Light 2024 was an INTERPOL-coordinated global crackdown on online scams conducted from March to May 2024 across **61 countries**. The operation resulted in **3,950 arrests**, identification of **14,643 additional suspects**, freezing of **6,745 bank accounts**, and seizure of assets worth **USD 257 million**. Bolstered by AFRIPOL, ASEANAPOL, GCCPOL, and Europol."
@@ -194,6 +194,36 @@ Korea's specific participation in First Light 2024 is not detailed in the source
 - The report describes cooperation between Singapore's CAD and Malaysia's Commercial Crime Investigation Department.
 
 <!-- SOURCE_ENRICHMENT_END -->
+
+<!-- RAW_TEXT_HIGHLIGHTS_START -->
+
+## Raw Source Highlights
+
+- INTERPOL, 2024-06-18: USD 257 million seized in global police crackdown against online scams Operation First Light highlights the extensive reach of scam syndicates LYON, France – A global police operation spanning 61 countries has delivered a financial blow to online scam networks by freezing 6,745 bank accounts, seizing assets totaling USD 257 million, and.
+- INTERPOL, 2024-06-18: Targeting phishing, investment fraud, fake online shopping sites, romance and impersonation scams, Operation First Light 2024 led to the arrest of 3,950 suspects and identified 14,643 other possible suspects in all continents.
+- INTERPOL, 2026-02-01: Together, they achieved major arrests, recovered illicit assets, and disrupted organized crime groups that profit from human suffering and global instability.
+- INTERPOL, 2026-02-01: Through our partnerships - with governments, international organizations and the private sector - and through public awareness efforts, we helped build a shared sense of responsibility for safety and security at every level: local, national, regional and global.
+
+<!-- RAW_TEXT_HIGHLIGHTS_END -->
+
+<!-- CANONICAL_ASSESSMENT_START -->
+
+## Canonical Operation Assessment
+
+This page is retained as a canonical operation because it describes a arrest-sweep against Online scam networks (phishing, investment fraud, romance scams, impersonation scams, fake shopping), rather than a defendant-specific follow-on action. The record attributes lead responsibility to Interpol Igci and coordination to Interpol Igci, with participating or affected jurisdictions recorded as Spain, Namibia, Australia.
+
+The cooperation model is documented through named agencies and partners: Interpol Igci, Afripol, Europol Ec3; mechanisms: Interpol I Grip, Interpol I24 7, Asset Freezing, informal cooperation; legal basis: informal cooperation; enforcement posture: Arrest and Asset Freeze.
+
+Operational results captured for the canonical record: 3950 arrests; cryptocurrency/asset result recorded as USD 2 million; USD 257 million total seized (USD 135M fiat, USD 2M crypto, ~USD 120M physical assets); 14,643 additional suspects identified; 6,745 bank accounts frozen; 88 youths rescued from forced scam operations in Namibia.
+
+The canonical source set contains 5 reference(s): 2024 06 18 Interpol Operation First Light 2024, 2025 12 01 Police Gov Sg Cad Report 2024 Operation First Light, 2024 07 01 Police Gov Sg Mid Year Scams And Cybercrime Brief 2024 Operation First Light, 2026 02 01 Interpol Int Annual Report 2024 Operation First Light, 2026 04 01 Interpol Int Support For Afripol Operation First Light.
+The source floor is met for a canonical operation, but source breadth does not by itself prove that every downstream arrest or sentencing is part of this operation; follow-on records should remain linked separately.
+Known metadata gaps still carried by this page: Participating Countries List.
+For dataset use, this page should be treated as the operation-level aggregation point: country, agency, mechanism and outcome fields describe the coordinated enforcement action as a whole. Later indictments, pleas, sentencings, extraditions or forfeiture actions should be attached as related case or absorbed follow-on records unless the source explicitly presents them as a new multinational operation.
+When source records contain broader background, repeated wire-service republications, or topic-page material, this assessment gives priority to facts that are directly tied to the named operation, its participating authorities, its target infrastructure or criminal service, and its measurable enforcement outcome. Peripheral source titles are not treated as independent taxonomy or result evidence.
+This keeps the canonical record analytically bounded and reproducible.
+
+<!-- CANONICAL_ASSESSMENT_END -->
 
 ## References
 

@@ -71,7 +71,7 @@ sources:
   - "[[2023-09-07_yna-co-kr_police-nab-16-voice-phishing-scam-suspects-based-in-china]]"
   - "[[2023-09-07_asiae-co-kr_16-members-of-voice-phishing-organization-based-in-qingdao-china-arrested]]"
 created: 2026-04-08
-updated: 2026-04-26
+updated: 2026-04-27
 operation_role: umbrella
 parent_operation: ""
 summary: "The Seoul Metropolitan Police Agency (SMPA), in cooperation with Chinese police in Qingdao, arrested **16 suspects** (3 Chinese nationals, 13 Koreans) for voice phishing scams that extorted **KRW 2.7 billion (USD 2 million)** from **68 victims** between December 2022 and August 2023. This was reported as the **first significant joint Korea-China voice phishing roundup** under a bilateral cooperation agreement between Seoul and Beijing law enforcement."
@@ -165,6 +165,25 @@ Korea's voice phishing challenge:
 - KISA was created in **July 2009** by merging three predecessor agencies: the Korea Information Security Agency (KISA, 한국정보보호진흥원), the National Internet Development Agency (NIDA, 한국인터넷진흥원 — same Korean name, different English), and the Korean IT International Cooperation Agency (KIICA).
 
 <!-- SOURCE_ENRICHMENT_END -->
+
+<!-- CANONICAL_ASSESSMENT_START -->
+
+## Canonical Operation Assessment
+
+This page is retained as a canonical operation because it describes a joint-investigation against China-based voice phishing call centre targeting Korean victims, rather than a defendant-specific follow-on action. The record attributes lead responsibility to Seoul Metropolitan Police and coordination to Seoul Metropolitan Police, with participating or affected jurisdictions recorded as South Korea and China.
+
+The cooperation model is documented through named agencies and partners: Seoul Metropolitan Police and Chinese Police (qingdao); enforcement posture: Arrest.
+
+Operational results captured for the canonical record: 16 arrests; 68 victims notified; KRW 2.7 billion (USD 2 million) in financial losses from 68 victims; China-based call centre in Qingdao dismantled; Ringleader (38-year-old Chinese national) arrested.
+
+The canonical source set contains 5 reference(s): 2023 09 08 Korea China Voice Phishing Qingdao, 2026 04 17 Web Archive Org Articleview Html, 2023 09 07 Koreatimes Co Kr Police Nab 16 Voice Phishing Scam Suspects Based In China, 2023 09 07 Yna Co Kr Police Nab 16 Voice Phishing Scam Suspects Based In China, 2023 09 07 Asiae Co Kr 16 Members Of Voice Phishing Organization Based In Qingdao China Arrested.
+The source floor is met for a canonical operation, but source breadth does not by itself prove that every downstream arrest or sentencing is part of this operation; follow-on records should remain linked separately.
+Known metadata gaps still carried by this page: Legal Basis, Mechanisms Used, Specific Bilateral Agreement.
+For dataset use, this page should be treated as the operation-level aggregation point: country, agency, mechanism and outcome fields describe the coordinated enforcement action as a whole. Later indictments, pleas, sentencings, extraditions or forfeiture actions should be attached as related case or absorbed follow-on records unless the source explicitly presents them as a new multinational operation.
+When source records contain broader background, repeated wire-service republications, or topic-page material, this assessment gives priority to facts that are directly tied to the named operation, its participating authorities, its target infrastructure or criminal service, and its measurable enforcement outcome. Peripheral source titles are not treated as independent taxonomy or result evidence.
+This keeps the canonical record analytically bounded and reproducible.
+
+<!-- CANONICAL_ASSESSMENT_END -->
 
 ## References
 

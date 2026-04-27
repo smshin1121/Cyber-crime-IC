@@ -73,7 +73,7 @@ sources:
   - "[[2025-01-27_eurojust-fraud-term_illegal-financial-service-laundering]]"
   - "[[2025-01-27_eurojust-financial-crime-term_illegal-financial-service-laundering]]"
 created: 2026-04-19
-updated: 2026-04-26
+updated: 2026-04-27
 summary: "A Eurojust- and Europol-supported joint investigation by Spanish, Cypriot and German authorities, with French support, dismantled a laundering service that moved approximately EUR 100 million for other criminal organisations."
 organizations:
   - "[[eurojust]]"
@@ -151,6 +151,25 @@ Eurojust reported that the scheme began to surface in 2023 after suspicious trip
 - The report described the seizures, frozen crypto, and multi-country investigative structure.
 
 <!-- SOURCE_ENRICHMENT_END -->
+
+<!-- CANONICAL_ASSESSMENT_START -->
+
+## Canonical Operation Assessment
+
+This page is retained as a canonical operation because it describes a joint-investigation against A criminal network providing large-scale laundering services for other criminal organisations, rather than a defendant-specific follow-on action. The record attributes lead responsibility to Eurojust and coordination to Eurojust, with participating or affected jurisdictions recorded as Cyprus, France, Germany, Spain.
+
+The cooperation model is documented through named agencies and partners: Eurojust, Europol Ec3, Spain Guardia Civil; mechanisms: Joint Investigation Team, Asset Freezing, informal cooperation; legal basis: Joint Investigation Team and Asset Freezing; enforcement posture: Arrests, Searches, Asset Freezing.
+
+Operational results captured for the canonical record: 23 arrests; cryptocurrency/asset result recorded as EUR 27 million frozen; EUR 8 million in cash seized.; EUR 2 million in bank accounts seized.; 91 searches were carried out across Spain, France and Cyprus..
+
+The canonical source set contains 5 reference(s): 2025 01 27 Eurojust Illegal Financial Service Launder Millions Busted, 2025 02 07 Riskcompliance Biz Criminals Operating An Illegal Financial Service To Launder Millions Of Euros Busted, 2025 01 27 Europeantimes News Criminals Operating An Illegal Financial Service To Launder Millions Of Euros Busted, 2025 01 27 Eurojust Fraud Term Illegal Financial Service Laundering, 2025 01 27 Eurojust Financial Crime Term Illegal Financial Service Laundering.
+The source floor is met for a canonical operation, but source breadth does not by itself prove that every downstream arrest or sentencing is part of this operation; follow-on records should remain linked separately.
+No frontmatter missing-field flags are currently carried on this page.
+For dataset use, this page should be treated as the operation-level aggregation point: country, agency, mechanism and outcome fields describe the coordinated enforcement action as a whole. Later indictments, pleas, sentencings, extraditions or forfeiture actions should be attached as related case or absorbed follow-on records unless the source explicitly presents them as a new multinational operation.
+When source records contain broader background, repeated wire-service republications, or topic-page material, this assessment gives priority to facts that are directly tied to the named operation, its participating authorities, its target infrastructure or criminal service, and its measurable enforcement outcome. Peripheral source titles are not treated as independent taxonomy or result evidence.
+This keeps the canonical record analytically bounded and reproducible.
+
+<!-- CANONICAL_ASSESSMENT_END -->
 
 ## References
 

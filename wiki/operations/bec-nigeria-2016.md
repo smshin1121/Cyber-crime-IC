@@ -78,7 +78,7 @@ sources:
   - "[[2016-08-01_dw_nigerian-arrested-for-international-60-million-dollar-online-fraud]]"
   - "[[2016-12-22_justice-gov_nigerian-nationals-charged-with-operating-business-compromise-scheme]]"
 created: 2026-04-08
-updated: 2026-04-26
+updated: 2026-04-27
 operation_role: umbrella
 parent_operation: ""
 summary: "INTERPOL and Nigeria's EFCC arrested the alleged leader of a transnational online-fraud network in Port Harcourt, Nigeria. The official INTERPOL record attributes more than USD 60 million in BEC, payment-diversion, CEO-fraud, and romance-scam activity to the network, which used actors and laundering contacts across multiple countries."
@@ -191,6 +191,34 @@ No Korean law-enforcement participation or Korean victim link is identified in t
 - Ars Technica summarized the Port Harcourt arrest and the alleged transnational structure of the online-fraud network.
 
 <!-- SOURCE_ENRICHMENT_END -->
+
+<!-- RAW_TEXT_HIGHLIGHTS_START -->
+
+## Raw Source Highlights
+
+- INTERPOL, 2016-08-01: Ringleader of global network behind thousands of online scams arrested in Nigeria RIVER STATE, Nigeria – The head of an international criminal network behind thousands of online frauds has been arrested in a joint operation by INTERPOL and the Nigerian Economic and Financial Crime Commission (EFCC).
+- INTERPOL, 2016-08-01: The 40-year-old Nigerian national, known as ‘Mike’, is believed to be behind scams totalling more than USD 60 million involving hundreds of victims worldwide.
+
+<!-- RAW_TEXT_HIGHLIGHTS_END -->
+
+<!-- CANONICAL_ASSESSMENT_START -->
+
+## Canonical Operation Assessment
+
+This page is retained as a canonical operation because it describes a arrest-sweep against Nigerian BEC scammer ($60M fraud), rather than a defendant-specific follow-on action. The record attributes lead responsibility to Interpol and coordination to Interpol, with participating or affected jurisdictions recorded as Nigeria.
+
+The cooperation model is documented through named agencies and partners: Interpol, Nigeria Efcc, Interpol Igci, Trend Micro, Fortinet Fortiguard Labs; mechanisms: informal cooperation, Public Private Cooperation, Search Seizure; legal basis: informal cooperation and Public Private Cooperation; enforcement posture: Arrest.
+
+Operational results captured for the canonical record: 2 arrests; $60 million in BEC fraud attributed to arrested individual; INTERPOL and EFCC arrested a 40-year-old Nigerian national known as Mike; A second 38-year-old suspect was also arrested by Nigerian authorities; Device forensics linked the suspects to BEC, payment diversion, CEO fraud, and romance scams.
+
+The canonical source set contains 5 reference(s): 2016 08 01 Interpol Es Ringleader Of Global Network Behind Thousands Of Online Scams Arrested In Nigeria, 2016 08 01 Arstechnica Nigerian Authorities Arrest Alleged Mastermind Of 60m Worth Of Online Scams, 2016 08 01 Cnn Nigerian Man Arrested In Global 60 Million Scam, 2016 08 01 Dw Nigerian Arrested For International 60 Million Dollar Online Fraud, 2016 12 22 Justice Gov Nigerian Nationals Charged With Operating Business Compromise Scheme.
+The source floor is met for a canonical operation, but source breadth does not by itself prove that every downstream arrest or sentencing is part of this operation; follow-on records should remain linked separately.
+Known metadata gaps still carried by this page: Suspect Legal Name, Final Case Outcome, Sentencing Or Conviction Record.
+For dataset use, this page should be treated as the operation-level aggregation point: country, agency, mechanism and outcome fields describe the coordinated enforcement action as a whole. Later indictments, pleas, sentencings, extraditions or forfeiture actions should be attached as related case or absorbed follow-on records unless the source explicitly presents them as a new multinational operation.
+When source records contain broader background, repeated wire-service republications, or topic-page material, this assessment gives priority to facts that are directly tied to the named operation, its participating authorities, its target infrastructure or criminal service, and its measurable enforcement outcome. Peripheral source titles are not treated as independent taxonomy or result evidence.
+This keeps the canonical record analytically bounded and reproducible.
+
+<!-- CANONICAL_ASSESSMENT_END -->
 
 ## References
 

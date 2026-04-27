@@ -87,7 +87,7 @@ sources:
   - "[[2024-07-26_indianexpress-com_cbi-busts-cyber-crime-network-operating-from-gurugram-43-arrested]]"
   - "[[2024-07-26_tribuneindia-com_cbi-busts-gurugram-call-centre-that-duped-foreigners-nabs-43-cyber-criminals]]"
 created: 2026-04-10
-updated: 2026-04-26
+updated: 2026-04-27
 operation_role: umbrella
 parent_operation: ""
 summary: "Operation Chakra-III was the third phase of India's Central Bureau of Investigation (CBI) ongoing multi-phase campaign against transnational cyber-enabled financial crime. Launched in July 2024 with case registration RC2312024S0007, the operation targeted tech-support scam call centers operating from multiple Indian cities — principally Gurugram, Mumbai, Pune, Hyderabad, and Visakhapatnam — that defrauded victims in the United States and other countries. The CBI collaborated with the FBI, Homeland Security Investigations (HSI), and [[interpol|INTERPOL]], resulting in 43 arrests and the seizure of substantial evidence including gold bullion, cash, luxury vehicles, and over 950 electronic devices."
@@ -273,6 +273,25 @@ No known Korean involvement in Operation Chakra-III. However, tech-support scams
 - The article described the technical-support-scam model and the live interception of operators.
 
 <!-- SOURCE_ENRICHMENT_END -->
+
+<!-- CANONICAL_ASSESSMENT_START -->
+
+## Canonical Operation Assessment
+
+This page is retained as a canonical operation because it describes a arrest-sweep against Transnational tech-support scam call center network, rather than a defendant-specific follow-on action. The record attributes lead responsibility to Cbi India and coordination to Interpol, with participating or affected jurisdictions recorded as India and United States.
+
+The cooperation model is documented through named agencies and partners: Cbi India, Fbi Cyber Division, Us Dhs, Interpol; mechanisms: informal cooperation and Public Private Cooperation; enforcement posture: Arrest and Seizure.
+
+Operational results captured for the canonical record: 43 arrests; 951 electronic devices seized; 130 computer hard disks seized; 65 mobile phones seized; 57 gold bars (100g each) seized.
+
+The canonical source set contains 5 reference(s): 2024 09 01 Newsonair Gov In Cbi Operation Chakra Iii Dismantles Virtual Asset Network, 2024 10 01 The420 In Operation Chakra Iii Inside Cbi S Explosive Takedown, 2024 07 26 Newindianexpress Com Operation Chakra Iii Cbi Arrests 43 Operatives, 2024 07 26 Indianexpress Com Cbi Busts Cyber Crime Network Operating From Gurugram 43 Arrested, 2024 07 26 Tribuneindia Com Cbi Busts Gurugram Call Centre That Duped Foreigners Nabs 43 Cyber Criminals.
+The source floor is met for a canonical operation, but source breadth does not by itself prove that every downstream arrest or sentencing is part of this operation; follow-on records should remain linked separately.
+Known metadata gaps still carried by this page: Legal Basis and Cryptocurrency Seized.
+For dataset use, this page should be treated as the operation-level aggregation point: country, agency, mechanism and outcome fields describe the coordinated enforcement action as a whole. Later indictments, pleas, sentencings, extraditions or forfeiture actions should be attached as related case or absorbed follow-on records unless the source explicitly presents them as a new multinational operation.
+When source records contain broader background, repeated wire-service republications, or topic-page material, this assessment gives priority to facts that are directly tied to the named operation, its participating authorities, its target infrastructure or criminal service, and its measurable enforcement outcome. Peripheral source titles are not treated as independent taxonomy or result evidence.
+This keeps the canonical record analytically bounded and reproducible.
+
+<!-- CANONICAL_ASSESSMENT_END -->
 
 ## References
 

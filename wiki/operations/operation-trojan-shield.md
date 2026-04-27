@@ -89,7 +89,7 @@ sources:
   - "[[2021-06-08_sdca_anom-enterprise-indictment]]"
   - "[[2026-04-17_justice-gov_distributor-anom-hardened-encrypted-devices-sentenced-63-months-prison-racketeer]]"
 created: 2026-04-12
-updated: 2026-04-26
+updated: 2026-04-27
 operation_role: umbrella
 parent_operation: ""
 organizations:
@@ -198,6 +198,37 @@ Trojan Shield produced downstream prosecutions and defendant-specific enforcemen
 - AN0M platform: 12,000+ devices, 300+ criminal syndicates across 100+ countries, 27 million messages reviewed over 18 months.
 
 <!-- SOURCE_ENRICHMENT_END -->
+
+<!-- RAW_TEXT_HIGHLIGHTS_START -->
+
+## Raw Source Highlights
+
+- US Federal Bureau of Investigation, 2021-06-08: The FBI, along with the Drug Enforcement Administration, Australian Federal Police, Europol, and law enforcement partners in more than a dozen countries, are announcing the results of that covert effort, known as Operation Trojan Shield.
+- US Federal Bureau of Investigation, 2021-06-08: Law enforcement has also been able to mitigate direct threat-to-life situations.
+- FBI, 2021-06-08: The FBI, along with the Drug Enforcement Administration, Australian Federal Police, Europol, and law enforcement partners in more than a dozen countries, are announcing the results of that covert effort, known as Operation Trojan Shield.
+- FBI, 2021-06-08: Law enforcement has also been able to mitigate direct threat-to-life situations.
+- justice.gov, 2026-04-17: Attorneys Front Office Office Criminal Division Civil Division Other Agencies District History Programs Victim Witness Assistance Project Safe Neighborhoods Project Guardian Project Safe Childhood Environmental Justice ## Extraction Notes - parser: document - fetcher: doj_fetch - fetched_at: 2026-04-25T14:21:03+00:00 - final_url:
+
+<!-- RAW_TEXT_HIGHLIGHTS_END -->
+
+<!-- CANONICAL_ASSESSMENT_START -->
+
+## Canonical Operation Assessment
+
+This page is retained as a canonical operation because it describes a undercover against Transnational organized crime networks relying on encrypted AN0M devices, rather than a defendant-specific follow-on action. The record attributes lead responsibility to Fbi Cyber Division and coordination to Europol Ec3, with participating or affected jurisdictions recorded as United States, Australia, Netherlands, Sweden, Germany, International.
+
+The cooperation model is documented through named agencies and partners: Fbi Cyber Division, Australia Afp, Europol Ec3, Netherlands Politie, Sweden Police; mechanisms: Joint Investigation Team; legal basis: mutual legal assistance; enforcement posture: Infiltration, Arrest, Seizure, Indictment.
+
+Operational results captured for the canonical record: 800 arrests; cryptocurrency/asset result recorded as $48 million+ in cash and virtual assets reported seized; 27 million messages reviewed; 12,000+ AN0M devices distributed; 700+ searches conducted; 8 tons of cocaine and 22 tons of cannabis seized.
+
+The canonical source set contains 6 reference(s): 2021 06 08 Fbi Operation Trojan Shield, 2021 06 08 Europol Trojan Shield An0m, 2021 06 08 Fbi Gov Fbi And Global Partners Announce Results Of Operation Trojan Shield, 2021 06 08 Europol Europa Eu 800 Criminals Arrested In Biggest Ever Law Enforcement Operation Against Encrypt, 2021 06 08 Sdca Anom Enterprise Indictment, 2026 04 17 Justice Gov Distributor Anom Hardened Encrypted Devices Sentenced 63 Months Prison Racketeer.
+The source floor is met for a canonical operation, but source breadth does not by itself prove that every downstream arrest or sentencing is part of this operation; follow-on records should remain linked separately.
+No frontmatter missing-field flags are currently carried on this page.
+For dataset use, this page should be treated as the operation-level aggregation point: country, agency, mechanism and outcome fields describe the coordinated enforcement action as a whole. Later indictments, pleas, sentencings, extraditions or forfeiture actions should be attached as related case or absorbed follow-on records unless the source explicitly presents them as a new multinational operation.
+When source records contain broader background, repeated wire-service republications, or topic-page material, this assessment gives priority to facts that are directly tied to the named operation, its participating authorities, its target infrastructure or criminal service, and its measurable enforcement outcome. Peripheral source titles are not treated as independent taxonomy or result evidence.
+This keeps the canonical record analytically bounded and reproducible.
+
+<!-- CANONICAL_ASSESSMENT_END -->
 
 ## References
 

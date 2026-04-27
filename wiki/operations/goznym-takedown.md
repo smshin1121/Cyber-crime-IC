@@ -94,7 +94,7 @@ timeframe:
 title: "GozNym Malware Network Dismantling"
 title_ko: "GozNym 악성코드 네트워크 해체"
 type: operation
-updated: 2026-04-26
+updated: 2026-04-27
 operation_role: umbrella
 parent_operation: ""
 summary: "The GozNym action dismantled a transnational malware-and-online-banking-fraud network through coordinated prosecutions and evidence sharing among the United States, Georgia, Ukraine, Moldova, Germany, Bulgaria, Europol, and Eurojust. DOJ described the operation as an unprecedented multi-country prosecution model: the United States indicted ten defendants while partner states pursued parallel domestic prosecutions and supplied evidence through searches, extradition, and MLAT channels."
@@ -203,6 +203,36 @@ Reference [2], the DOJ release, is the primary mechanism source. Reference [1] c
 - 2019-12-20: public source coverage from US DOJ USAO.
 
 <!-- SOURCE_ENRICHMENT_END -->
+
+<!-- RAW_TEXT_HIGHLIGHTS_START -->
+
+## Raw Source Highlights
+
+- US DOJ (W.D. Pa.), 2019-05-16: Department of Justice title="About" title="News" title="Guidance & Resources" Justice.gov Office of Public Affairs GozNym Cyber-Criminal Network Operating Out of Europe Targeting American Entities Dismantled In International Operation This is archived content from the U.S.
+- US DOJ (W.D. Pa.), 2019-05-16: The operation was highlighted by the unprecedented initiation of criminal prosecutions against members of the network in four different countries as a result of cooperation between the United States, Georgia, Ukraine, Moldova, Germany, Bulgaria, Europol and Eurojust.
+- US DOJ USAO, 2019-12-20: Attorney's Office, Western District of Pennsylvania PITTSBURGH - A resident of Varna, Bulgaria, was sentenced on December 16, 2019, in federal court in Pittsburgh to a period of time served after having served more than 39 months in prison following his conviction on charges of criminal conspiracy, computer fraud, and bank fraud for his.
+- US DOJ USAO, 2019-12-20: At the request of the United States, Nikolov was arrested in September 2016 by Bulgarian authorities and extradited to Pittsburgh in December 2016 to face prosecution in the Western District of Pennsylvania.
+
+<!-- RAW_TEXT_HIGHLIGHTS_END -->
+
+<!-- CANONICAL_ASSESSMENT_START -->
+
+## Canonical Operation Assessment
+
+This page is retained as a canonical operation because it describes a joint-investigation against GozNym malware network, rather than a defendant-specific follow-on action. The record attributes lead responsibility to Europol Ec3 and coordination to Europol Ec3, with participating or affected jurisdictions recorded as United States, Bulgaria, Germany, Georgia, Moldova, Ukraine.
+
+The cooperation model is documented through named agencies and partners: Europol Ec3, Eurojust, Fbi Cyber Division, Office Of International Affairs, Us Secret Service, Ncfta, Shadowserver, U.s. Attorney's Office For The Western District Of Pennsylvania, Office Of The Prosecutor General Of Georgia, Prosecutor General's Office Of Ukraine; mechanisms: mutual legal assistance, Extradition, Search Seizure, Electronic Evidence, Public Private Cooperation; legal basis: mutual legal assistance, Extradition, Search Seizure, Electronic Evidence.
+
+Operational results captured for the canonical record: 10 arrests; 10 indictments; Estimated USD 100 million in attempted theft; More than 41,000 victim computers were controlled by the network leader; Parallel prosecutions were initiated in the United States, Georgia, Ukraine, Moldova, and Bulgaria; Evidence was acquired through coordinated searches in Georgia, Ukraine, Moldova, and Bulgaria.
+
+The canonical source set contains 5 reference(s): 2019 05 01 Europol Europa Eu Goznym Malware Cybercriminal Network Dismantled In International Operation, 2019 05 16 Justice Gov Goznym Cyber Criminal Network Operating Out Of Europe Targeting American Entitie, 2019 12 20 Justice Gov Three Members Of Goznym Cybercrime Network Sentenced In Parallel Multi National, Bbc Goznym Malware Network Dismantling, 2019 05 16 Bleepingcomputer Com Goznym Cybercrime Group Behind 100 Million Damages Dismantled.
+The source floor is met for a canonical operation, but source breadth does not by itself prove that every downstream arrest or sentencing is part of this operation; follow-on records should remain linked separately.
+Known metadata gaps still carried by this page: Final Status For All Fugitives and Complete Foreign Sentencing Outcomes.
+For dataset use, this page should be treated as the operation-level aggregation point: country, agency, mechanism and outcome fields describe the coordinated enforcement action as a whole. Later indictments, pleas, sentencings, extraditions or forfeiture actions should be attached as related case or absorbed follow-on records unless the source explicitly presents them as a new multinational operation.
+When source records contain broader background, repeated wire-service republications, or topic-page material, this assessment gives priority to facts that are directly tied to the named operation, its participating authorities, its target infrastructure or criminal service, and its measurable enforcement outcome. Peripheral source titles are not treated as independent taxonomy or result evidence.
+This keeps the canonical record analytically bounded and reproducible.
+
+<!-- CANONICAL_ASSESSMENT_END -->
 
 ## References
 

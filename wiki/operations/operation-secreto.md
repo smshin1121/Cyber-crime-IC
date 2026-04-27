@@ -80,7 +80,7 @@ sources:
   - "[[2021-02-03_policia-es_la-policia-nacional-y-el-servicio-secreto-de-los-eeuu-desarticulan-una-organizacion]]"
   - "[[2021-02-09_cisomag_operation-secreto-europol-busts-international-cybercriminal-group]]"
 created: 2026-04-08
-updated: 2026-04-26
+updated: 2026-04-27
 operation_role: umbrella
 parent_operation: ""
 summary: "Operation Secreto, led by the Spanish National Police and U.S. Secret Service with coordination by Europol, dismantled a credit card fraud and money laundering organization that targeted U.S.-based banks. The operation resulted in the arrest of 105 individuals across Spain, the United States, Austria, Denmark, and Greece. The criminal network had caused over EUR 12 million in damages through fraudulent use of stolen credit card data."
@@ -171,6 +171,25 @@ Spain, United States, Austria, Denmark, Greece
 - The Spanish National Police described the case as the largest card-fraud investigation carried out to date against a network that defrauded more than EUR 12 million.
 
 <!-- SOURCE_ENRICHMENT_END -->
+
+<!-- CANONICAL_ASSESSMENT_START -->
+
+## Canonical Operation Assessment
+
+This page is retained as a canonical operation because it describes a arrest-sweep against Credit card fraud network targeting US-based banks, rather than a defendant-specific follow-on action. The record attributes lead responsibility to Spanish National Police and coordination to Europol Ec3, with participating or affected jurisdictions recorded as Spain, United States, Austria, Denmark, Greece.
+
+The cooperation model is documented through named agencies and partners: Spanish National Police, Us Secret Service, Europol Ec3, Eurojust, Usdoj; enforcement posture: Arrest and Seizure.
+
+Operational results captured for the canonical record: 105 arrests; EUR 12 million+ in damages; Credit card fraud and money laundering ring dismantled.
+
+The canonical source set contains 5 reference(s): Europol Operation Secreto, The Record Operation Secreto, 2021 02 03 Secretservice Gov 105 Arrested For Stealing Over Eur 12 Million From U S Based Banks, 2021 02 03 Policia Es La Policia Nacional Y El Servicio Secreto De Los Eeuu Desarticulan Una Organizacion, 2021 02 09 Cisomag Operation Secreto Europol Busts International Cybercriminal Group.
+The source floor is met for a canonical operation, but source breadth does not by itself prove that every downstream arrest or sentencing is part of this operation; follow-on records should remain linked separately.
+Known metadata gaps still carried by this page: Legal Basis and Mechanisms Used.
+For dataset use, this page should be treated as the operation-level aggregation point: country, agency, mechanism and outcome fields describe the coordinated enforcement action as a whole. Later indictments, pleas, sentencings, extraditions or forfeiture actions should be attached as related case or absorbed follow-on records unless the source explicitly presents them as a new multinational operation.
+When source records contain broader background, repeated wire-service republications, or topic-page material, this assessment gives priority to facts that are directly tied to the named operation, its participating authorities, its target infrastructure or criminal service, and its measurable enforcement outcome. Peripheral source titles are not treated as independent taxonomy or result evidence.
+This keeps the canonical record analytically bounded and reproducible.
+
+<!-- CANONICAL_ASSESSMENT_END -->
 
 ## References
 

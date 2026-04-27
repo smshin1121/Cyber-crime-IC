@@ -104,7 +104,7 @@ sources:
   - "[[2021-06-30_nationalcrimeagency-gov-uk_doublevpn-takedown-nca-takes-uk-server-of-criminal-network-offline]]"
   - "[[2021-06-30_therecord-media_dutch-police-takes-down-doublevpn-a-service-used-by-cybercrime-groups]]"
 created: 2026-04-08
-updated: 2026-04-26
+updated: 2026-04-27
 operation_role: umbrella
 parent_operation: ""
 summary: "On **29 June 2021**, law enforcement from **9 countries** simultaneously seized the infrastructure of **DoubleVPN**, a virtual private network service heavily marketed on Russian- and English-language cybercrime forums as a tool for concealing criminal activity, particularly ransomware operations. The operation was led by the [[netherlands-politie|Dutch National Police]] under the jurisdiction of the Dutch National Public Prosecutor's Office, with international coordination by [[europol-ec3|Europol EC3]] and [[eurojust|Eurojust]]."
@@ -272,6 +272,25 @@ No known Korean involvement in this operation. However, DoubleVPN's customer bas
 - Operating under EMPACT framework; Dutch 'hackbevoegdheid' (digital intrusion power) used
 
 <!-- SOURCE_ENRICHMENT_END -->
+
+<!-- CANONICAL_ASSESSMENT_START -->
+
+## Canonical Operation Assessment
+
+This page is retained as a canonical operation because it describes a infrastructure-seizure against DoubleVPN (multi-layered VPN service marketed to cybercriminals), rather than a defendant-specific follow-on action. The record attributes lead responsibility to Dutch National Police and coordination to Europol Ec3, with participating or affected jurisdictions recorded as Netherlands, United States, Canada, Germany, United Kingdom, Sweden, Italy, Bulgaria, Switzerland.
+
+The cooperation model is documented through named agencies and partners: Dutch National Police, Europol EC3, Eurojust, FBI, US Secret Service, US DOJ, RCMP, BKA, UK NCA; legal basis: EMPACT (European Multidisciplinary Platform Against Criminal Threats); enforcement posture: Seizure and Takedown.
+
+Operational results captured for the canonical record: 1 domains seized; DoubleVPN web domains and server infrastructure seized across 9 countries; Customer personal information, logs, and statistics seized from servers; UK businesses notified of unauthorized network access via DoubleVPN; Law enforcement splash page displayed on seized domains.
+
+The canonical source set contains 5 reference(s): Europol Press Release 2021-06-30, 2021 06 30 Eurojust Coordinated Action Cuts Access Vpn Service Used Ransomware Groups, 2022 03 02 Eurojust Annual Report 2021 Doublevpn Case Example, 2021 06 30 Nationalcrimeagency Gov Uk Doublevpn Takedown Nca Takes Uk Server Of Criminal Network Offline, 2021 06 30 Therecord Media Dutch Police Takes Down Doublevpn A Service Used By Cybercrime Groups.
+The source floor is met for a canonical operation, but source breadth does not by itself prove that every downstream arrest or sentencing is part of this operation; follow-on records should remain linked separately.
+Known metadata gaps still carried by this page: Servers Seized Count and Customer Count.
+For dataset use, this page should be treated as the operation-level aggregation point: country, agency, mechanism and outcome fields describe the coordinated enforcement action as a whole. Later indictments, pleas, sentencings, extraditions or forfeiture actions should be attached as related case or absorbed follow-on records unless the source explicitly presents them as a new multinational operation.
+When source records contain broader background, repeated wire-service republications, or topic-page material, this assessment gives priority to facts that are directly tied to the named operation, its participating authorities, its target infrastructure or criminal service, and its measurable enforcement outcome. Peripheral source titles are not treated as independent taxonomy or result evidence.
+This keeps the canonical record analytically bounded and reproducible.
+
+<!-- CANONICAL_ASSESSMENT_END -->
 
 ## References
 

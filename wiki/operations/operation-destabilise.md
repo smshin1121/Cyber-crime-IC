@@ -76,7 +76,7 @@ sources:
   - "[[2024-12-04_wired_operation-destabilise-money-laundering]]"
   - "[[2024-12-04_computerweekly-com_nca-takes-out-network-that-laundered-ransomware-payments]]"
 created: 2026-04-08
-updated: 2026-04-26
+updated: 2026-04-27
 operation_role: umbrella
 parent_operation: ""
 summary: "**Operation Destabilise** was a major NCA-FBI joint operation targeting **money laundering networks** that facilitated ransomware and cybercrime proceeds. The operation resulted in over **84 arrests** and the disruption of Russian-speaking money laundering networks that served as the financial backbone for cybercriminal groups."
@@ -183,6 +183,35 @@ No Korean involvement identified.
 - Treasury's OFAC release documented sanctions against individuals and entities tied to the TGR network exposed alongside Operation Destabilise.
 
 <!-- SOURCE_ENRICHMENT_END -->
+
+<!-- RAW_TEXT_HIGHLIGHTS_START -->
+
+## Raw Source Highlights
+
+- UK National Crime Agency, 2024-12-04: Operation Destabilise: NCA disrupts $multi-billion Russian money laundering networks with links to, drugs, ransomware and espionage, resulting in 84 arrests - National Crime Agency --> Skip to content Quick exit Cymraeg Reporting SARs CSEA Reporting for Industry Protecting the public from serious and organised crime Who we are show.
+- U.S. Department of the Treasury, 2024-12-04: Treasury Exposes Money Laundering Network Using Digital Assets to Evade Sanctions | U.S.
+- U.S. Department of the Treasury, 2024-12-04: Department of the Treasury About Treasury Enter Search Term(s): Advanced Search General Information Role of the Treasury Officials Organizational Chart Orders and Directives Offices Domestic Finance Economic Policy General Counsel International Affairs Management Public Affairs Tax Policy Terrorism and Financial Intelligence Tribal and.
+
+<!-- RAW_TEXT_HIGHLIGHTS_END -->
+
+<!-- CANONICAL_ASSESSMENT_START -->
+
+## Canonical Operation Assessment
+
+This page is retained as a canonical operation because it describes a arrest-sweep against Russian-speaking money laundering networks for cybercrime/ransomware, rather than a defendant-specific follow-on action. The record attributes lead responsibility to Uk Nca and coordination to Uk Nca, with participating or affected jurisdictions recorded as United Kingdom and United States.
+
+The cooperation model is documented through named agencies and partners: Uk Nca and Fbi Cyber Division; enforcement posture: Arrest, Seizure, Asset Freeze.
+
+Operational results captured for the canonical record: 84 arrests; 84+ arrests; Money laundering networks serving ransomware and cybercrime groups disrupted; NCA-FBI joint operation.
+
+The canonical source set contains 5 reference(s): 2024 12 04 Nationalcrimeagency Gov Uk Operation Destabilise 84 Arrests, 2024 12 04 Treasury Gov Treasury Exposes Money Laundering Network Using Digital Assets To Evade Sanctions, 2024 12 04 Theguardian Global Investigation Exposes Alleged Billion Dollar Russian Money Laundering Network, 2024 12 04 Wired Operation Destabilise Money Laundering, 2024 12 04 Computerweekly Com Nca Takes Out Network That Laundered Ransomware Payments.
+The source floor is met for a canonical operation, but source breadth does not by itself prove that every downstream arrest or sentencing is part of this operation; follow-on records should remain linked separately.
+Known metadata gaps still carried by this page: Legal Basis, Mechanisms Used, Complete Participating Countries, Financial Amounts, Url.
+For dataset use, this page should be treated as the operation-level aggregation point: country, agency, mechanism and outcome fields describe the coordinated enforcement action as a whole. Later indictments, pleas, sentencings, extraditions or forfeiture actions should be attached as related case or absorbed follow-on records unless the source explicitly presents them as a new multinational operation.
+When source records contain broader background, repeated wire-service republications, or topic-page material, this assessment gives priority to facts that are directly tied to the named operation, its participating authorities, its target infrastructure or criminal service, and its measurable enforcement outcome. Peripheral source titles are not treated as independent taxonomy or result evidence.
+This keeps the canonical record analytically bounded and reproducible.
+
+<!-- CANONICAL_ASSESSMENT_END -->
 
 ## References
 

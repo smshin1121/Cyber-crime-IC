@@ -93,7 +93,7 @@ sources:
   - "[[2021-10-27_nationalcrimeagency-gov-uk_international-operation-targets-dark-web-drugs-marketplace]]"
   - "[[2021-01-12_europol-europa-eu_darkmarket-world-s-largest-illegal-dark-web-marketplace-taken-down]]"
 created: 2026-04-10
-updated: 2026-04-26
+updated: 2026-04-27
 operation_role: umbrella
 parent_operation: ""
 summary: "Operation Dark HunTOR was a coordinated international law enforcement action announced on 26 October 2021 that resulted in the arrest of 150 suspected dark web drug traffickers across nine countries. The operation seized approximately EUR 26.7 million (~USD 31 million) in cash and cryptocurrency, 234 kg of drugs, and 45 firearms. Coordinated by [[europol-ec3|Europol's European Cybercrime Centre (EC3)]] and [[eurojust|Eurojust]], Dark HunTOR is almost certainly the largest follow-on enforcement action stemming from a single dark web marketplace seizure, building directly on the January 2021 takedown of [[darkmarket-takedown|DarkMarket]]."
@@ -296,6 +296,35 @@ However, the operation's follow-on investigation model is relevant to Korean law
 - The intelligence gathered from DarkMarket's infrastructure directly enabled Operation Dark HunTOR nine months later, which produced 150 arrests across nine countries.
 
 <!-- SOURCE_ENRICHMENT_END -->
+
+<!-- RAW_TEXT_HIGHLIGHTS_START -->
+
+## Raw Source Highlights
+
+- US DOJ, 2021-10-26: Monaco Delivers Remarks On Operation Dark HunTor This is archived content from the U.S.
+- US DOJ, 2021-10-26: I am pleased to be joined this morning by the Deputy Executive Director of EUROPOL, Jean-Philippe Lecouff, as well as the Assistant Attorney General of the Criminal Division Kenneth Polite Jr., FBI Deputy Director Paul Abbate, DEA Administrator Anne Milgram, and leaders of several law enforcement partners.
+- UK NCA, 2021-10-27: International operation targets dark web drugs marketplace - National Crime Agency --> Skip to content Quick exit Cymraeg Reporting SARs CSEA Reporting for Industry Protecting the public from serious and organised crime Who we are show submenu for Who we are Our mission Our people Our leadership Governance and transparency Inclusion.
+
+<!-- RAW_TEXT_HIGHLIGHTS_END -->
+
+<!-- CANONICAL_ASSESSMENT_START -->
+
+## Canonical Operation Assessment
+
+This page is retained as a canonical operation because it describes a arrest-sweep against DarkMarket vendors and dark web drug traffickers, rather than a defendant-specific follow-on action. The record attributes lead responsibility to Europol Ec3 and coordination to Eurojust, with participating or affected jurisdictions recorded as Australia, Bulgaria, France, Germany, Italy, Netherlands, Switzerland, United Kingdom, United States.
+
+The cooperation model is documented through named agencies and partners: Europol Ec3, Eurojust, Fbi Cyber Division, Us Doj, Uk Nca, Germany Bka, Netherlands Politie; mechanisms: Europol Jit; legal basis: Budapest Convention; enforcement posture: Arrest, Seizure, Asset Freeze.
+
+Operational results captured for the canonical record: 150 arrests; cryptocurrency/asset result recorded as EUR 26.7 million (~USD 31 million) in cash and virtual currencies; 234 kg of drugs seized (152 kg amphetamine, 27 kg opioids, 25,000+ ecstasy pills); 45 firearms seized; Italian authorities simultaneously shut down DeepSea and Berlusconi marketplaces.
+
+The canonical source set contains 5 reference(s): 2021 10 26 Europol Europa Eu 150 Arrested In Dark Web Drug Bust As Police Seize Eur 26 Million, 2021 10 26 Dea Gov Department Of Justice Announces Results Of Operation Dark Huntor, 2021 10 26 Justice Gov Deputy Ag Lisa Monaco Delivers Remarks On Operation Dark Huntor, 2021 10 27 Nationalcrimeagency Gov Uk International Operation Targets Dark Web Drugs Marketplace, 2021 01 12 Europol Europa Eu Darkmarket World S Largest Illegal Dark Web Marketplace Taken Down.
+The source floor is met for a canonical operation, but source breadth does not by itself prove that every downstream arrest or sentencing is part of this operation; follow-on records should remain linked separately.
+No frontmatter missing-field flags are currently carried on this page.
+For dataset use, this page should be treated as the operation-level aggregation point: country, agency, mechanism and outcome fields describe the coordinated enforcement action as a whole. Later indictments, pleas, sentencings, extraditions or forfeiture actions should be attached as related case or absorbed follow-on records unless the source explicitly presents them as a new multinational operation.
+When source records contain broader background, repeated wire-service republications, or topic-page material, this assessment gives priority to facts that are directly tied to the named operation, its participating authorities, its target infrastructure or criminal service, and its measurable enforcement outcome. Peripheral source titles are not treated as independent taxonomy or result evidence.
+This keeps the canonical record analytically bounded and reproducible.
+
+<!-- CANONICAL_ASSESSMENT_END -->
 
 ## References
 | # | Source | Publisher | Date | URL |

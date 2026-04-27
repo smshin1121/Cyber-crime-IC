@@ -71,7 +71,7 @@ sources:
   - "[[2016-10-31_om_nl_darknet-website-in-wereldwijde-actieweek-operation-hyperion]]"
   - "[[2016-11-08_helpnetsecurity-com_dutch-police-takes-over-darknet-market]]"
 created: 2026-04-08
-updated: 2026-04-26
+updated: 2026-04-27
 operation_role: umbrella
 parent_operation: ""
 summary: "**Operation Hyperion** was an FBI-led sting operation targeting criminal activity on the dark web, with a particular focus on the use of **Zcash** cryptocurrency for illicit transactions. The operation represented law enforcement's evolving capability to investigate privacy-focused cryptocurrencies used by dark web criminals."
@@ -160,6 +160,36 @@ No Korean involvement identified.
 - New Zealand Police described Operation Hyperion as a coordinated effort targeting buyers and sellers of illegal drugs over the internet.
 
 <!-- SOURCE_ENRICHMENT_END -->
+
+<!-- RAW_TEXT_HIGHLIGHTS_START -->
+
+## Raw Source Highlights
+
+- FBI, 2016-11-01: law enforcement agencies in Operation Hyperion, a successful international action aimed at disrupting the operations and infrastructure of illicit DarkNet marketplaces.
+- FBI, 2016-11-01: The initiative was the brainchild of the Five Eyes Law Enforcement Group (FELEG), an international coalition of law enforcement agencies from Australia, Canada, New Zealand, the United Kingdom, and the United States who share criminal intelligence and collaborate on operations to combat transnational crime.
+- U.S. Immigration and Customs Enforcement, 2016-10-31: ET: Results of Nationwide Law Enforcement Effort Press Conference ICE Check-in for Aliens Get information about how to check in with your local ICE Office here .
+- U.S. Immigration and Customs Enforcement, 2016-10-31: Immigration and Customs Enforcement Learn More About ICE " class="we-megamenu-nolink" title="Click here to open the Enforcement and Removal Operations menu"> Enforcement and Removal Operations Identify and Arrest Criminal Alien Program Fugitive Operations Law Enforcement Partnerships 287g Program Immigration Fraud Prosecutions Detain.
+
+<!-- RAW_TEXT_HIGHLIGHTS_END -->
+
+<!-- CANONICAL_ASSESSMENT_START -->
+
+## Canonical Operation Assessment
+
+This page is retained as a canonical operation because it describes a undercover against Dark web criminal marketplaces, rather than a defendant-specific follow-on action. The record attributes lead responsibility to Fbi Cyber Division and coordination to Fbi Cyber Division, with participating or affected jurisdictions recorded as United States.
+
+The cooperation model is documented through named agencies and partners: Fbi Cyber Division; enforcement posture: Arrest and Takedown.
+
+Operational results captured for the canonical record: FBI dark web sting operation targeting Zcash cryptocurrency users.
+
+The canonical source set contains 6 reference(s): 2017 01 01 Cyberscoop Com Dark Web Fbi Sting Zcash Operation Hyperion, 2016 11 01 Fbi Gov A Primer On Darknet Marketplaces, 2016 10 31 Ice Gov International Darknet Marketplace Enforcement Operation, 2016 11 01 Police Govt Nz Kiwi Darknet Illegal Drug Buyers Identified During Worldwide Operation, 2016 10 31 Om Nl Darknet Website In Wereldwijde Actieweek Operation Hyperion, 2016 11 08 Helpnetsecurity Com Dutch Police Takes Over Darknet Market.
+The source floor is met for a canonical operation, but source breadth does not by itself prove that every downstream arrest or sentencing is part of this operation; follow-on records should remain linked separately.
+Known metadata gaps still carried by this page: Legal Basis, Mechanisms Used, Exact Timeframe, Results Arrests, Participating Countries.
+For dataset use, this page should be treated as the operation-level aggregation point: country, agency, mechanism and outcome fields describe the coordinated enforcement action as a whole. Later indictments, pleas, sentencings, extraditions or forfeiture actions should be attached as related case or absorbed follow-on records unless the source explicitly presents them as a new multinational operation.
+When source records contain broader background, repeated wire-service republications, or topic-page material, this assessment gives priority to facts that are directly tied to the named operation, its participating authorities, its target infrastructure or criminal service, and its measurable enforcement outcome. Peripheral source titles are not treated as independent taxonomy or result evidence.
+This keeps the canonical record analytically bounded and reproducible.
+
+<!-- CANONICAL_ASSESSMENT_END -->
 
 ## References
 

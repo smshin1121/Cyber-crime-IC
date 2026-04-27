@@ -118,7 +118,7 @@ sources:
   - "[[2025-09-26_comsuregroup_operation-haechi-vi-439m-recovered]]"
   - "[[2025-09-27_dailysecurityreview_operation-haechi-vi-record-recovery]]"
 created: 2026-04-08
-updated: 2026-04-26
+updated: 2026-04-27
 operation_role: umbrella
 parent_operation: ""
 summary: "Operation HAECHI VI was the sixth iteration of the Korea-initiated HAECHI series, running from April to August 2025 across **40 countries and territories**. The operation recovered **USD 439 million** total (USD 342M fiat, USD 97M physical/virtual assets), blocked **68,000+ bank accounts**, froze **~400 cryptocurrency wallets**, and recovered approximately **USD 16 million** from crypto wallets. HAECHI VI set a new series record for financial recovery."
@@ -264,6 +264,35 @@ Korea continues as the **lead country** of the HAECHI series. In HAECHI VI:
 - This alternate official INTERPOL URL confirms the HAECHI VI figures and country examples in Spanish.
 
 <!-- SOURCE_ENRICHMENT_END -->
+
+<!-- RAW_TEXT_HIGHLIGHTS_START -->
+
+## Raw Source Highlights
+
+- INTERPOL, 2025-09-25: USD 439 million recovered in global financial crime operation INTERPOL-coordinated operation targets seven types of cyber-enabled financial crimes SINGAPORE – An INTERPOL-coordinated operation across 40 countries and territories has resulted in the recovery of USD 342 million in government-backed currencies, along with USD 97 million in.
+- INTERPOL, 2025-09-25: Investigators worked together to detect and disrupt online fraud as well as money laundering activities, blocking over 68,000 associated bank accounts and freezing close to 400 cryptocurrency wallets.
+- INTERPOL, 2025-09-25: USD 439 million recovered in global financial crime operation Quiénes somos ¿Qué es INTERPOL?
+
+<!-- RAW_TEXT_HIGHLIGHTS_END -->
+
+<!-- CANONICAL_ASSESSMENT_START -->
+
+## Canonical Operation Assessment
+
+This page is retained as a canonical operation because it describes a arrest-sweep against Cyber-enabled financial crime networks (voice phishing, romance scams, BEC, investment fraud, online sextortion, e-commerce fraud), rather than a defendant-specific follow-on action. The record attributes lead responsibility to Interpol Igci and coordination to Interpol Igci, with participating or affected jurisdictions recorded as South Korea, Portugal, Thailand, United Arab Emirates, Japan, Albania, Argentina, Armenia, Australia, Brazil, Bulgaria, Cambodia, Canada, China, Germany, Ghana, India, Indonesia.
+
+The cooperation model is documented through named agencies and partners: Interpol Igci and Knpa Cyber Bureau; enforcement posture: Arrest and Asset Freeze.
+
+Operational results captured for the canonical record: cryptocurrency/asset result recorded as USD 16 million (from crypto wallets); USD 439 million total recovered (USD 342 million fiat + USD 97 million physical/virtual assets); 68,000+ bank accounts blocked; ~400 cryptocurrency wallets frozen; Korea-UAE sub-operation: KRW 6.6 billion (USD 3.91 million) BEC recovery via I-GRIP.
+
+The canonical source set contains 5 reference(s): 2025 09 25 Interpol Operation Haechi Vi, 2025 09 25 Interpol Es Usd 439 Million Recovered In Global Financial Crime Operation Haechi Vi, 2025 09 25 Maldivespolice Gov Mv Interpol Operation Haechi Vi Recovery And Arrest Update, 2025 09 26 Comsuregroup Operation Haechi Vi 439m Recovered, 2025 09 27 Dailysecurityreview Operation Haechi Vi Record Recovery.
+The source floor is met for a canonical operation, but source breadth does not by itself prove that every downstream arrest or sentencing is part of this operation; follow-on records should remain linked separately.
+Known metadata gaps still carried by this page: Legal Basis, Mechanisms Used, Total Arrest Count, Full Participating Countries List.
+For dataset use, this page should be treated as the operation-level aggregation point: country, agency, mechanism and outcome fields describe the coordinated enforcement action as a whole. Later indictments, pleas, sentencings, extraditions or forfeiture actions should be attached as related case or absorbed follow-on records unless the source explicitly presents them as a new multinational operation.
+When source records contain broader background, repeated wire-service republications, or topic-page material, this assessment gives priority to facts that are directly tied to the named operation, its participating authorities, its target infrastructure or criminal service, and its measurable enforcement outcome. Peripheral source titles are not treated as independent taxonomy or result evidence.
+This keeps the canonical record analytically bounded and reproducible.
+
+<!-- CANONICAL_ASSESSMENT_END -->
 
 ## References
 

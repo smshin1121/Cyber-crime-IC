@@ -77,7 +77,7 @@ sources:
   - "[[2018-06-15_securityweek-com_french-nationals-arrested-for-rex-mundi-hacks]]"
   - "[[2018-06-18_infosecurity-magazine_europol-disrupts-rex-mundi-cybercrime-group]]"
 created: 2026-04-08
-updated: 2026-04-26
+updated: 2026-04-27
 operation_role: umbrella
 parent_operation: ""
 summary: "UK, French, and Thai law enforcement, coordinated by Europol and the Joint Cybercrime Action Taskforce (J-CAT), dismantled the Rex Mundi hacking group that had engaged in large-scale customer data breaches and cyber extortion targeting British companies. The operation resulted in the arrest of 8 suspects, including a key member arrested in Thailand. The investigation ran from May 2017 to May 2018."
@@ -163,6 +163,25 @@ United Kingdom, France, Thailand
 - WeLiveSecurity reported that the final Thailand arrest effectively closed the Rex Mundi investigation.
 
 <!-- SOURCE_ENRICHMENT_END -->
+
+<!-- CANONICAL_ASSESSMENT_START -->
+
+## Canonical Operation Assessment
+
+This page is retained as a canonical operation because it describes a joint-investigation against Rex Mundi hacking group, rather than a defendant-specific follow-on action. The record attributes lead responsibility to London Metropolitan Police and coordination to Europol Ec3, with participating or affected jurisdictions recorded as United Kingdom, France, Thailand.
+
+The cooperation model is documented through named agencies and partners: London Metropolitan Police, French High Tech Crime Unit, Thai Royal Police, Europol Ec3, J Cat; enforcement posture: Arrest.
+
+Operational results captured for the canonical record: 8 arrests; Rex Mundi hacking group dismantled; Data breach extortion network neutralized.
+
+The canonical source set contains 5 reference(s): Europol Rex Mundi Hacking Group Takedown, 2018 06 19 Welivesecurity Com Europol And Partners Dismantle Prolific Cyber Extortion Gang, 2018 06 15 Bleepingcomputer Com Europol Dismantles One Of The Internets Oldest Hacker Groups, 2018 06 15 Securityweek Com French Nationals Arrested For Rex Mundi Hacks, 2018 06 18 Infosecurity Magazine Europol Disrupts Rex Mundi Cybercrime Group.
+The source floor is met for a canonical operation, but source breadth does not by itself prove that every downstream arrest or sentencing is part of this operation; follow-on records should remain linked separately.
+Known metadata gaps still carried by this page: Legal Basis and Mechanisms Used.
+For dataset use, this page should be treated as the operation-level aggregation point: country, agency, mechanism and outcome fields describe the coordinated enforcement action as a whole. Later indictments, pleas, sentencings, extraditions or forfeiture actions should be attached as related case or absorbed follow-on records unless the source explicitly presents them as a new multinational operation.
+When source records contain broader background, repeated wire-service republications, or topic-page material, this assessment gives priority to facts that are directly tied to the named operation, its participating authorities, its target infrastructure or criminal service, and its measurable enforcement outcome. Peripheral source titles are not treated as independent taxonomy or result evidence.
+This keeps the canonical record analytically bounded and reproducible.
+
+<!-- CANONICAL_ASSESSMENT_END -->
 
 ## References
 

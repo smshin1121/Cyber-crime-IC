@@ -86,7 +86,7 @@ sources:
   - "[[2023-12-21_mynavi-techplus_interpol-operation-haechi-iv]]"
   - "[[2023-12-20_pcgamer_interpol-seizes-usd300m-from-global-cybercriminals-and-says-ai-voice-cloning-is-creating-a-whole-new-class-of-victim]]"
 created: 2026-04-08
-updated: 2026-04-26
+updated: 2026-04-27
 operation_role: umbrella
 parent_operation: ""
 summary: "Operation HAECHI IV was the fourth iteration of the Korea-initiated HAECHI series, running from July to December 2023 across **34 countries**. The operation resulted in approximately **3,500 arrests** and seizure of **USD 300 million** (USD 199M fiat, USD 101M virtual assets). Authorities blocked **82,112 suspicious bank accounts**. HAECHI IV represented a **260% increase** in arrests compared to HAECHI III (2022)."
@@ -211,6 +211,34 @@ South Korea leads the HAECHI series through the [[knpa-cyber-bureau|KNPA]]. In H
 - This is the Spanish-language official version of the HAECHI IV announcement.
 
 <!-- SOURCE_ENRICHMENT_END -->
+
+<!-- RAW_TEXT_HIGHLIGHTS_START -->
+
+## Raw Source Highlights
+
+- INTERPOL, 2023-12-19: USD 300 million seized and 3,500 suspects arrested in international financial crime operation Operation HAECHI IV emphasizes the key role of INTERPOL in enabling police worldwide to address the growing complexity of cyber-enabled scams LYON, FRANCE – A transcontinental police operation against online financial crime has concluded with.
+- INTERPOL, 2023-12-19: Investigators worked together to detect online fraud and freeze associated bank and virtual asset service provider (VASP) accounts using INTERPOL’s Global Rapid Intervention of Payments (I-GRIP), a stop-payment mechanism which helps countries work together to block criminal proceeds.
+
+<!-- RAW_TEXT_HIGHLIGHTS_END -->
+
+<!-- CANONICAL_ASSESSMENT_START -->
+
+## Canonical Operation Assessment
+
+This page is retained as a canonical operation because it describes a arrest-sweep against Cyber-enabled financial crime networks (voice phishing, romance scams, BEC, investment fraud, online sextortion, e-commerce fraud), rather than a defendant-specific follow-on action. The record attributes lead responsibility to Interpol Igci and coordination to Interpol Igci, with participating or affected jurisdictions recorded as South Korea, United States, United Kingdom, Japan, India, China, Hong Kong, Philippines.
+
+The cooperation model is documented through named agencies and partners: Interpol Igci and Knpa Cyber Bureau; enforcement posture: Arrest and Asset Freeze.
+
+Operational results captured for the canonical record: 3500 arrests; cryptocurrency/asset result recorded as USD 101 million (virtual assets); USD 300 million total seized (USD 199 million fiat + USD 101 million virtual assets); 82,112 suspicious bank accounts blocked; 260% increase in arrests compared to HAECHI III; Filipino-Korean cooperation led to arrest of high-profile online gambling criminal in Manila.
+
+The canonical source set contains 5 reference(s): 2023 12 19 Interpol Operation Haechi Iv, 2023 12 19 Interpol Es Usd 300 Million Seized And 3 500 Suspects Arrested Operation Haechi Iv, 2023 12 20 Techradar Interpol Operation Results In Arrest Of 3500 Criminals And Seizure Of 300 Million, 2023 12 21 Mynavi Techplus Interpol Operation Haechi Iv, 2023 12 20 Pcgamer Interpol Seizes Usd300m From Global Cybercriminals And Says Ai Voice Cloning Is Creating A Whole New Class Of Victim.
+The source floor is met for a canonical operation, but source breadth does not by itself prove that every downstream arrest or sentencing is part of this operation; follow-on records should remain linked separately.
+Known metadata gaps still carried by this page: Legal Basis, Mechanisms Used, Full Participating Countries List.
+For dataset use, this page should be treated as the operation-level aggregation point: country, agency, mechanism and outcome fields describe the coordinated enforcement action as a whole. Later indictments, pleas, sentencings, extraditions or forfeiture actions should be attached as related case or absorbed follow-on records unless the source explicitly presents them as a new multinational operation.
+When source records contain broader background, repeated wire-service republications, or topic-page material, this assessment gives priority to facts that are directly tied to the named operation, its participating authorities, its target infrastructure or criminal service, and its measurable enforcement outcome. Peripheral source titles are not treated as independent taxonomy or result evidence.
+This keeps the canonical record analytically bounded and reproducible.
+
+<!-- CANONICAL_ASSESSMENT_END -->
 
 ## References
 

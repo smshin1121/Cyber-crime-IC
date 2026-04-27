@@ -80,7 +80,7 @@ sources:
   - "[[2025-11-05_eurojust-fraud-term_eur-300m-global-credit-card-fraud]]"
   - "[[2025-11-05_eurojust-newsroom_eur-300m-global-credit-card-fraud]]"
 created: 2026-04-19
-updated: 2026-04-26
+updated: 2026-04-27
 summary: "Eurojust-coordinated multinational action against a EUR 300 million global credit-card fraud scheme, with German and UK participation and broad EIO/MLA support."
 jurisdictions:
   - "[[germany]]"
@@ -151,6 +151,25 @@ Eurojust coordinated a major operation against a global credit-card fraud scheme
 - Eurojust's year-end roundup recapped the EUR 300 million global credit card fraud action.
 
 <!-- SOURCE_ENRICHMENT_END -->
+
+<!-- CANONICAL_ASSESSMENT_START -->
+
+## Canonical Operation Assessment
+
+This page is retained as a canonical operation because it describes a joint-investigation against Global credit-card fraud and payment-laundering networks, rather than a defendant-specific follow-on action. The record attributes lead responsibility to Eurojust and coordination to Eurojust, with participating or affected jurisdictions recorded as Germany, Cyprus, Italy, Luxembourg, Netherlands, Spain, United Kingdom, United States, Canada, Singapore.
+
+The cooperation model is documented through named agencies and partners: Eurojust, Europol Ec3, Uk Nca; mechanisms: European Investigation Order, mutual legal assistance, Eurojust Coordination Meeting; legal basis: European Investigation Order and mutual legal assistance; enforcement posture: Arrest, Search, Asset Freeze, Seizure.
+
+Operational results captured for the canonical record: 18 arrests; Over 60 places searched; 90 EIOs and MLA requests supported by Eurojust.
+
+The canonical source set contains 5 reference(s): 2025 11 05 Eurojust Eurojust Coordinates Major Operation Against Eur 300 Million Global Credit Card Fraud 18, 2025 11 05 112wwft Nl Eurojust Coordinates Major Operation Against Eur 300 Million Global Credit Card Fraud 18 Arrests, 2025 12 22 Eurojusts Cross Border Investigations 2025 Credit Card Fraud Roundup, 2025 11 05 Eurojust Fraud Term Eur 300m Global Credit Card Fraud, 2025 11 05 Eurojust Newsroom Eur 300m Global Credit Card Fraud.
+The source floor is met for a canonical operation, but source breadth does not by itself prove that every downstream arrest or sentencing is part of this operation; follow-on records should remain linked separately.
+No frontmatter missing-field flags are currently carried on this page.
+For dataset use, this page should be treated as the operation-level aggregation point: country, agency, mechanism and outcome fields describe the coordinated enforcement action as a whole. Later indictments, pleas, sentencings, extraditions or forfeiture actions should be attached as related case or absorbed follow-on records unless the source explicitly presents them as a new multinational operation.
+When source records contain broader background, repeated wire-service republications, or topic-page material, this assessment gives priority to facts that are directly tied to the named operation, its participating authorities, its target infrastructure or criminal service, and its measurable enforcement outcome. Peripheral source titles are not treated as independent taxonomy or result evidence.
+This keeps the canonical record analytically bounded and reproducible.
+
+<!-- CANONICAL_ASSESSMENT_END -->
 
 ## References
 

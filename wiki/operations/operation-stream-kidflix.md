@@ -53,7 +53,7 @@ sources:
   - "[[2025-04-02_bleepingcomputer-com_police-shuts-down-kidflix-child-sexual-exploitation-platform]]"
   - "[[2025-05-15_eucrim_pedophile-platform-kidflix-shut-down]]"
 created: 2026-04-08
-updated: 2026-04-26
+updated: 2026-04-27
 operation_role: umbrella
 parent_operation: ""
 summary: "Operation Stream dismantled the Kidflix dark-web CSAM platform through a Germany-led, Europol-coordinated investigation with Dutch server action, identifying 1,393 suspects and producing 79 arrests worldwide."
@@ -150,6 +150,25 @@ The public record supports a long-running multinational investigative model cent
 - **Operation Stream** was a Germany-led, Europol-coordinated operation that dismantled **Kidflix**, a major dark-web child sexual abuse material streaming platform.
 
 <!-- SOURCE_ENRICHMENT_END -->
+
+<!-- CANONICAL_ASSESSMENT_START -->
+
+## Canonical Operation Assessment
+
+This page is retained as a canonical operation because it describes a takedown against Kidflix, a large dark-web child sexual abuse material streaming platform, rather than a defendant-specific follow-on action. The record attributes lead responsibility to Bavarian State Criminal Police and coordination to Europol Ec3, with participating or affected jurisdictions recorded as Germany and Netherlands.
+
+The cooperation model is documented through named agencies and partners: Germany Bka, Europol Ec3, Netherlands Politie; mechanisms: informal cooperation; enforcement posture: Takedown, Seizure, Arrest.
+
+Operational results captured for the canonical record: 79 arrests; 1 servers seized; 39 victims notified; cryptocurrency/asset result recorded as undisclosed; 1,393 suspects were identified worldwide.; More than 3,000 electronic devices were seized.; The platform had 1.8 million registered users..
+
+The canonical source set contains 6 reference(s): 2025 04 04 Europol Operation Stream Kidflix Takedown, 2025 04 04 Securityaffairs Com Operation Stream Kidflix, 2025 04 03 Politie Nl Kidflix Offline Gehaald, 2025 04 04 Europol Operation Stream Kidflix, 2025 04 02 Bleepingcomputer Com Police Shuts Down Kidflix Child Sexual Exploitation Platform, 2025 05 15 Eucrim Pedophile Platform Kidflix Shut Down.
+The source floor is met for a canonical operation, but source breadth does not by itself prove that every downstream arrest or sentencing is part of this operation; follow-on records should remain linked separately.
+No frontmatter missing-field flags are currently carried on this page.
+For dataset use, this page should be treated as the operation-level aggregation point: country, agency, mechanism and outcome fields describe the coordinated enforcement action as a whole. Later indictments, pleas, sentencings, extraditions or forfeiture actions should be attached as related case or absorbed follow-on records unless the source explicitly presents them as a new multinational operation.
+When source records contain broader background, repeated wire-service republications, or topic-page material, this assessment gives priority to facts that are directly tied to the named operation, its participating authorities, its target infrastructure or criminal service, and its measurable enforcement outcome. Peripheral source titles are not treated as independent taxonomy or result evidence.
+This keeps the canonical record analytically bounded and reproducible.
+
+<!-- CANONICAL_ASSESSMENT_END -->
 
 ## References
 

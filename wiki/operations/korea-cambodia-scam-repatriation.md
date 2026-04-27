@@ -60,7 +60,7 @@ timeframe:
   start: 2025-10
 title: "Korea-Cambodia Scam Centre Repatriation"
 type: operation
-updated: 2026-04-26
+updated: 2026-04-27
 operation_role: umbrella
 parent_operation: ""
 summary: "In October 2025 and January 2026, South Korea repatriated **107+ nationals** from Cambodia suspected of operating in online scam centres conducting voice phishing, romance scams, and \"pig butchering\" cryptocurrency fraud. An additional **20+ suspects** were repatriated from Laos, Vietnam, Thailand, and the Philippines. The Korean government estimated approximately **1,000 Korean citizens** were working in Cambodian scam centres. The January 2026 batch allegedly scammed fellow Koreans out of **KRW 48.6 billion (USD 33 million)**."
@@ -152,6 +152,25 @@ The scale of the problem underscores the need for multilateral cooperation frame
 - The report tied the repatriation directly to Korean police action against online scam rings.
 
 <!-- SOURCE_ENRICHMENT_END -->
+
+<!-- CANONICAL_ASSESSMENT_START -->
+
+## Canonical Operation Assessment
+
+This page is retained as a canonical operation because it describes a arrest-sweep against Korean nationals operating in Cambodian scam centres (voice phishing,, rather than a defendant-specific follow-on action. The record attributes lead responsibility to Knpa Cyber Bureau and coordination to Knpa Cyber Bureau, with participating or affected jurisdictions recorded as South Korea and Cambodia.
+
+The cooperation model is visible primarily through the lead/coordinating agencies and country list; detailed legal mechanism fields remain sparse.
+
+Operational results captured for the canonical record: Public result metrics are limited in the current metadata, so the page should avoid implying a larger operational impact than the sources state.
+
+The canonical source set contains 5 reference(s): 2025 10 18 Korea Cambodia Scam Repatriation, 2025 10 21 Yna Co Kr Arrest Warrants Issued For 48 Suspects Brought From Cambodia, 2026 01 28 Yna Co Kr 136 Scam Suspects Nabbed By Joint S Korea Cambodia Police Team, 2025 12 09 Koreatimes Co Kr Trial Begins For 46 Suspects Accused Of Involvement In Online Scams In Cambodia, 2025 10 20 Koreatimes Co Kr Police Seek Arrest Warrants For 58 Scam Suspects Brought From Cambodia.
+The source floor is met for a canonical operation, but source breadth does not by itself prove that every downstream arrest or sentencing is part of this operation; follow-on records should remain linked separately.
+No frontmatter missing-field flags are currently carried on this page.
+For dataset use, this page should be treated as the operation-level aggregation point: country, agency, mechanism and outcome fields describe the coordinated enforcement action as a whole. Later indictments, pleas, sentencings, extraditions or forfeiture actions should be attached as related case or absorbed follow-on records unless the source explicitly presents them as a new multinational operation.
+When source records contain broader background, repeated wire-service republications, or topic-page material, this assessment gives priority to facts that are directly tied to the named operation, its participating authorities, its target infrastructure or criminal service, and its measurable enforcement outcome. Peripheral source titles are not treated as independent taxonomy or result evidence.
+This keeps the canonical record analytically bounded and reproducible.
+
+<!-- CANONICAL_ASSESSMENT_END -->
 
 ## References
 

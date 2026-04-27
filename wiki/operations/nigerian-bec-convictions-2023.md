@@ -61,7 +61,7 @@ sources:
   - "[[2023-03-29_scworld_us-convicts-nigerian-bec-scammer]]"
   - "[[2023-03-28_infosecurity-magazine_four-years-behind-bars-for-prolific-bec-scammer]]"
 created: 2026-04-08
-updated: 2026-04-26
+updated: 2026-04-27
 operation_role: umbrella
 parent_operation: ""
 summary: "On 2023-03-27, DOJ announced prison sentences for Solomon Ekunke Okpe and Johnson Uke Obogo for cyber-enabled fraud schemes targeting U.S. persons. The case is a documented BEC-style enforcement outcome with named defendants, sentence lengths, and a formal DOJ source."
@@ -121,15 +121,6 @@ The public value of this action lies in accountability and traceability. Unlike 
 
 The linked case page is [[us-v-okpe-obogo-bec]], and the corresponding defendant-specific follow-on operation is [[operation-us-v-okpe-obogo-bec]].
 
-
-<!-- RAW_TEXT_HIGHLIGHTS_START -->
-
-## Raw Source Highlights
-
-- U.S. Department of Justice (USAO Arizona Victim Notifications), 2023-01-23: Attorney About Us Our Mission Divisions Criminal Division Civil Division Appellate Division Administrative Division Programs AHCCCS Treatment Fraud Civil Rights Community Outreach Law Enforcement Coordination MMIP Office of The Victim Rights Ombudsman Project Safe Childhood Project Safe Neighborhoods Victim Notifications Victim Witness.
-
-<!-- RAW_TEXT_HIGHLIGHTS_END -->
-
 <!-- SOURCE_ENRICHMENT_START -->
 
 ## Source Coverage
@@ -152,6 +143,33 @@ The linked case page is [[us-v-okpe-obogo-bec]], and the corresponding defendant
 - DOJ announced on 2023-03-27 that the defendants had been sentenced for schemes that victimized persons in the United States through cyber-enabled fraud.
 
 <!-- SOURCE_ENRICHMENT_END -->
+
+<!-- RAW_TEXT_HIGHLIGHTS_START -->
+
+## Raw Source Highlights
+
+- U.S. Department of Justice (USAO Arizona Victim Notifications), 2023-01-23: Attorney About Us Our Mission Divisions Criminal Division Civil Division Appellate Division Administrative Division Programs AHCCCS Treatment Fraud Civil Rights Community Outreach Law Enforcement Coordination MMIP Office of The Victim Rights Ombudsman Project Safe Childhood Project Safe Neighborhoods Victim Notifications Victim Witness.
+
+<!-- RAW_TEXT_HIGHLIGHTS_END -->
+
+<!-- CANONICAL_ASSESSMENT_START -->
+
+## Canonical Operation Assessment
+
+This page is retained as a canonical operation because it describes a sentencing against Solomon Ekunke Okpe and Johnson Uke Obogo, rather than a defendant-specific follow-on action. The record attributes lead responsibility to Us Doj and coordination to Us Doj, with participating or affected jurisdictions recorded as United States and Nigeria.
+
+The cooperation model is documented through named agencies and partners: Us Doj; mechanisms: mutual legal assistance; legal basis: mutual legal assistance; enforcement posture: Sentencing.
+
+Operational results captured for the canonical record: Okpe sentenced to 97 months; Obogo sentenced to 96 months; Case involved cyber-enabled fraud affecting U.S. victims.
+
+The canonical source set contains 5 reference(s): 2023 03 27 Justice Gov United States V Solomon Ekunke Okpe And Johnson Uke Obogo, 2026 04 17 Justice Gov Nigerian Nationals Victimize Us Persons Through Cyber Enabled Fraud Schemes, 2023 01 23 Justice Gov Us V Okpe Et Al Victim Notifications, 2023 03 29 Scworld Us Convicts Nigerian Bec Scammer, 2023 03 28 Infosecurity Magazine Four Years Behind Bars For Prolific Bec Scammer.
+The source floor is met for a canonical operation, but source breadth does not by itself prove that every downstream arrest or sentencing is part of this operation; follow-on records should remain linked separately.
+No frontmatter missing-field flags are currently carried on this page.
+For dataset use, this page should be treated as the operation-level aggregation point: country, agency, mechanism and outcome fields describe the coordinated enforcement action as a whole. Later indictments, pleas, sentencings, extraditions or forfeiture actions should be attached as related case or absorbed follow-on records unless the source explicitly presents them as a new multinational operation.
+When source records contain broader background, repeated wire-service republications, or topic-page material, this assessment gives priority to facts that are directly tied to the named operation, its participating authorities, its target infrastructure or criminal service, and its measurable enforcement outcome. Peripheral source titles are not treated as independent taxonomy or result evidence.
+This keeps the canonical record analytically bounded and reproducible.
+
+<!-- CANONICAL_ASSESSMENT_END -->
 
 ## References
 

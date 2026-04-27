@@ -65,7 +65,7 @@ timeframe:
 title: "Fraudulent Shopping Sites Takedown"
 title_ko: "명시되지 않음 (가짜 쇼핑 사이트 단속)"
 type: operation
-updated: 2026-04-26
+updated: 2026-04-27
 operation_role: umbrella
 parent_operation: ""
 summary: "Europol and German police from Hannover, with the Verden prosecution office and European partner countries, took down a network of fraudulent online shopping sites tied to a cybercrime marketplace. The investigation began in autumn 2022 and culminated in the seizure of 50+ servers, the arrest of 2 key suspects, and the recovery of over 200 TB of digital evidence. The operation involved cooperation from Austria, Finland, the Netherlands, and Norway."
@@ -143,6 +143,25 @@ Germany, Austria, Finland, Netherlands, Norway
 - Hundreds of mobile phones and electronic devices were seized during the raid; authorities indicated the group was running cybercrime operations from the villa
 
 <!-- SOURCE_ENRICHMENT_END -->
+
+<!-- CANONICAL_ASSESSMENT_START -->
+
+## Canonical Operation Assessment
+
+This page is retained as a canonical operation because it describes a takedown against Cybercrime marketplace-linked fraudulent shopping sites, rather than a defendant-specific follow-on action. The record attributes lead responsibility to German Police and coordination to Europol Ec3, with participating or affected jurisdictions recorded as Germany, Austria, Finland, Netherlands, Norway.
+
+The cooperation model is visible primarily through the lead/coordinating agencies and country list; detailed legal mechanism fields remain sparse.
+
+Operational results captured for the canonical record: 2 arrests; 50 servers seized.
+
+The canonical source set contains 6 reference(s): Europol Fraudulent Shopping Sites Takedown, Al Jazeera Fraudulent Shopping Sites Takedown, 2024 12 05 Bleepingcomputer Com Police Shuts Down Manson Cybercrime Market Fake Shops Arrests Key Suspects, 2024 12 05 Thehackernews Com Europol Shuts Down Manson Market Fraud Marketplace Seizes 50 Servers, 2024 12 05 Helpnetsecurity Com Manson Market Shuttered By Law Enforcement, 2024 12 05 Techtarget Com Police Bust Cybercrime Marketplace Phishing Network.
+The source floor is met for a canonical operation, but source breadth does not by itself prove that every downstream arrest or sentencing is part of this operation; follow-on records should remain linked separately.
+No frontmatter missing-field flags are currently carried on this page.
+For dataset use, this page should be treated as the operation-level aggregation point: country, agency, mechanism and outcome fields describe the coordinated enforcement action as a whole. Later indictments, pleas, sentencings, extraditions or forfeiture actions should be attached as related case or absorbed follow-on records unless the source explicitly presents them as a new multinational operation.
+When source records contain broader background, repeated wire-service republications, or topic-page material, this assessment gives priority to facts that are directly tied to the named operation, its participating authorities, its target infrastructure or criminal service, and its measurable enforcement outcome. Peripheral source titles are not treated as independent taxonomy or result evidence.
+This keeps the canonical record analytically bounded and reproducible.
+
+<!-- CANONICAL_ASSESSMENT_END -->
 
 ## References
 

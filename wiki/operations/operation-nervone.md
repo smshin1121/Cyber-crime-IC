@@ -72,7 +72,7 @@ sources:
   - "[[2023-07-05_group-ib_top-investigations_operation-nervone]]"
   - "[[2023-07-05_group-ib-fr_operation-nervone]]"
 created: 2026-04-08
-updated: 2026-04-26
+updated: 2026-04-27
 operation_role: umbrella
 parent_operation: ""
 summary: "Operation Nervone was an INTERPOL-led action against the OPERA1ER group that culminated in the arrest of a key suspect in Côte d’Ivoire."
@@ -167,6 +167,34 @@ No Korean involvement identified.
 - Group-IB described its intelligence support role in Operation Nervone against OPERA1ER.
 
 <!-- SOURCE_ENRICHMENT_END -->
+
+<!-- RAW_TEXT_HIGHLIGHTS_START -->
+
+## Raw Source Highlights
+
+- INTERPOL, 2023-07-05: Suspected key figure of notorious cybercrime group arrested in joint operation Operation Nervone has dealt a significant blow to the OPERA1ER group.
+- INTERPOL, 2023-07-05: How it happened The group’s illicit e-mail campaigns were first detected by Group-IB in 2018, when they recognized spear phishing operations responsible for spreading malware such as remote access tools.
+
+<!-- RAW_TEXT_HIGHLIGHTS_END -->
+
+<!-- CANONICAL_ASSESSMENT_START -->
+
+## Canonical Operation Assessment
+
+This page is retained as a canonical operation because it describes a arrest-sweep against OPERA1ER cybercrime group, rather than a defendant-specific follow-on action. The record attributes lead responsibility to Interpol and coordination to Interpol, with participating or affected jurisdictions recorded as Cote Divoire and United States.
+
+The cooperation model is documented through named agencies and partners: Interpol and Afripol; enforcement posture: Arrest.
+
+Operational results captured for the canonical record: 1 arrests; OPERA1ER linked to more than 30 attacks in 15 countries; Estimated losses of at least USD 11 million, with higher estimates publicly noted; Private-sector and public-sector intelligence sharing enabled suspect identification.
+
+The canonical source set contains 5 reference(s): 2023 07 05 Interpol Operation Nervone Opera1er Arrest, 2021 07 05 Group Ib Com Interpol Led Operation Takes Down Prolific Cybercriminal, 2023 07 05 Group Ib Operation Nervone Opera1er, 2023 07 05 Group Ib Top Investigations Operation Nervone, 2023 07 05 Group Ib Fr Operation Nervone.
+The source floor is met for a canonical operation, but source breadth does not by itself prove that every downstream arrest or sentencing is part of this operation; follow-on records should remain linked separately.
+Known metadata gaps still carried by this page: Legal Basis, Mechanisms Used, Complete Participating Countries.
+For dataset use, this page should be treated as the operation-level aggregation point: country, agency, mechanism and outcome fields describe the coordinated enforcement action as a whole. Later indictments, pleas, sentencings, extraditions or forfeiture actions should be attached as related case or absorbed follow-on records unless the source explicitly presents them as a new multinational operation.
+When source records contain broader background, repeated wire-service republications, or topic-page material, this assessment gives priority to facts that are directly tied to the named operation, its participating authorities, its target infrastructure or criminal service, and its measurable enforcement outcome. Peripheral source titles are not treated as independent taxonomy or result evidence.
+This keeps the canonical record analytically bounded and reproducible.
+
+<!-- CANONICAL_ASSESSMENT_END -->
 
 ## References
 

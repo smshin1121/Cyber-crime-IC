@@ -56,7 +56,7 @@ timeframe:
 title: "Infraud Organization Takedown"
 title_ko: "인프라우드 조직 소탕"
 type: operation
-updated: 2026-04-26
+updated: 2026-04-27
 operation_role: umbrella
 parent_operation: ""
 summary: "In February 2018, the US Department of Justice announced the takedown of the **Infraud Organization**, a massive online cybercrime forum responsible for an estimated **$530 million** in losses. The operation resulted in **36 indictments** and **13 arrests** across multiple countries. The Infraud Organization had operated since 2010 with nearly 11,000 members, facilitating the sale of stolen financial data, malware, and other cybercrime services."
@@ -64,6 +64,7 @@ organizations:
   - "[[us-doj]]"
 crime_types:
   - "[[cybercrime-forum-ic]]"
+  - "[[dark-web-ic]]"
   - "[[malware-ic]]"
 ---
 > [!note] This operation is documented from a Tier 3 (cybersecurity media) source. Additional verification from official sources (Tier 1-2) would strengthen data reliability.
@@ -158,6 +159,25 @@ No Korean involvement identified in the Infraud takedown.
 - The Infraud Organization had operated since 2010 with nearly 11,000 members, facilitating the sale of stolen financial data, malware, and other cybercrime services.
 
 <!-- SOURCE_ENRICHMENT_END -->
+
+<!-- CANONICAL_ASSESSMENT_START -->
+
+## Canonical Operation Assessment
+
+This page is retained as a canonical operation because it describes a arrest-sweep against Infraud Organization cybercrime forum, rather than a defendant-specific follow-on action. The record attributes lead responsibility to Us Doj and coordination to Us Doj, with participating or affected jurisdictions recorded as no participating-country list.
+
+The cooperation model is visible primarily through the lead/coordinating agencies and country list; detailed legal mechanism fields remain sparse.
+
+Operational results captured for the canonical record: 13 arrests; 36 indictments.
+
+No source list is available in frontmatter; this should be repaired before using the page for quantitative analysis.
+The source floor is met for a canonical operation, but source breadth does not by itself prove that every downstream arrest or sentencing is part of this operation; follow-on records should remain linked separately.
+No frontmatter missing-field flags are currently carried on this page.
+For dataset use, this page should be treated as the operation-level aggregation point: country, agency, mechanism and outcome fields describe the coordinated enforcement action as a whole. Later indictments, pleas, sentencings, extraditions or forfeiture actions should be attached as related case or absorbed follow-on records unless the source explicitly presents them as a new multinational operation.
+When source records contain broader background, repeated wire-service republications, or topic-page material, this assessment gives priority to facts that are directly tied to the named operation, its participating authorities, its target infrastructure or criminal service, and its measurable enforcement outcome. Peripheral source titles are not treated as independent taxonomy or result evidence.
+This keeps the canonical record analytically bounded and reproducible.
+
+<!-- CANONICAL_ASSESSMENT_END -->
 
 ## References
 

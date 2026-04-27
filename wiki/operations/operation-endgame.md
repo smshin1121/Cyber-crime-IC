@@ -110,7 +110,7 @@ lessons_learned:
   - "On-site command posts at Europol HQ enable real-time coordination across jurisdictions and time zones"
   - "EU Most Wanted listings and international arrest warrants create persistent legal pressure even without immediate physical arrests"
 created: 2026-04-10
-updated: 2026-04-26
+updated: 2026-04-27
 operation_role: umbrella
 parent_operation: ""
 summary: "**Operation Endgame** is the **largest-ever international law enforcement operation against botnets and the ransomware-enabling malware ecosystem**. Launched in May 2024 and still ongoing as of 2026, the operation has been conducted in multiple phases coordinated by [[europol-ec3|Europol]] and [[eurojust|Eurojust]], with participation from law enforcement agencies across at least 15 countries."
@@ -448,6 +448,34 @@ However, Operation Endgame is relevant to Korean cybersecurity interests in seve
 - These malware droppers serve as initial-access vectors linked to at least 15 ransomware groups, including BlackBasta, REvil, and Conti.
 
 <!-- SOURCE_ENRICHMENT_END -->
+
+<!-- RAW_TEXT_HIGHLIGHTS_START -->
+
+## Raw Source Highlights
+
+- FBI, 2024-05-29: Law enforcement in Ukraine, Portugal, Romania, Lithuania, Bulgaria, and Switzerland supported police actions to arrest or interview suspects, conduct searches, and seize or take down servers.
+- FBI, 2024-05-29: Beginning on May 28, 2024, the first coordinated international operation of its kind involved a dozen countries that conducted searches, questioned or arrested subjects, and took down or disrupted more than 100 servers to defeat multiple malware variants.
+
+<!-- RAW_TEXT_HIGHLIGHTS_END -->
+
+<!-- CANONICAL_ASSESSMENT_START -->
+
+## Canonical Operation Assessment
+
+This page is retained as a canonical operation because it describes a takedown against Dropper/loader malware ecosystem enabling ransomware (IcedID, SystemBC, Pikabot, Smokeloader, Bumblebee, Trickbot, DanaBot, Qakbot, Bumblebee, Lactrodectus, Hijackloader, Warmcookie, Rhadamanthys), rather than a defendant-specific follow-on action. The record attributes lead responsibility to Europol Ec3 and coordination to Europol Ec3, with participating or affected jurisdictions recorded as Australia, Armenia, Bulgaria, Canada, Denmark, France, Germany, Lithuania, Netherlands, Portugal, Romania, Switzerland, Ukraine, United Kingdom, United States.
+
+The cooperation model is documented through named agencies and partners: Europol Ec3, Eurojust, Australia Afp, Armenia Police, Belgium Federal Police, Bulgaria Police, Canada Rcmp, Denmark Police, Fbi Cyber Division, France Gendarmerie; mechanisms: Europol Jit and Joint Investigation Team; legal basis: Budapest Convention; enforcement posture: Arrest, Seizure, Takedown, Asset Freeze, Indictment.
+
+Operational results captured for the canonical record: 9 arrests; 16 indictments; 400 servers seized; 2650 domains seized; cryptocurrency/asset result recorded as EUR 21.2 million+ (cumulative across all phases); 20 international arrest warrants issued; 18 suspects added to EU Most Wanted list; 10 international arrest warrants (Phase 1).
+
+The canonical source set contains 9 reference(s): 2024 05 30 Europol Operation Endgame Botnet Takedown, 2024 05 29 Fbi Gov Operation Endgame Coordinated Worldwide Law Enforcement Action Against Network O, 2024 05 30 Bmi Bund De Worldwide Investigation Against Cyber Crime Crowned By Success, 2025 04 09 Europol Europa Eu Operation Endgame Follow Up Leads To Five Detentions And Interrogations As Well, 2025 05 23 Europol Operation Endgame Phase2, 2026 04 17 Europol Europa Eu Operation Endgame Official Page, plus 3 more.
+The source floor is met for a canonical operation, but source breadth does not by itself prove that every downstream arrest or sentencing is part of this operation; follow-on records should remain linked separately.
+No frontmatter missing-field flags are currently carried on this page.
+For dataset use, this page should be treated as the operation-level aggregation point: country, agency, mechanism and outcome fields describe the coordinated enforcement action as a whole. Later indictments, pleas, sentencings, extraditions or forfeiture actions should be attached as related case or absorbed follow-on records unless the source explicitly presents them as a new multinational operation.
+When source records contain broader background, repeated wire-service republications, or topic-page material, this assessment gives priority to facts that are directly tied to the named operation, its participating authorities, its target infrastructure or criminal service, and its measurable enforcement outcome. Peripheral source titles are not treated as independent taxonomy or result evidence.
+This keeps the canonical record analytically bounded and reproducible.
+
+<!-- CANONICAL_ASSESSMENT_END -->
 
 ## References
 

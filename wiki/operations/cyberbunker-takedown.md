@@ -85,7 +85,7 @@ sources:
   - "[[2021-01-01_bka-de_cybercrime-bundeslagebild-2021-cyberbunker]]"
   - "[[2019-09-30_arstechnica_com_cyberbunker-raid]]"
 created: 2026-04-10
-updated: 2026-04-26
+updated: 2026-04-27
 operation_role: umbrella
 parent_operation: ""
 summary: "The CyberBunker Takedown was a major German law enforcement operation targeting a bulletproof hosting provider operating from a former NATO bunker in Traben-Trarbach, Rhineland-Palatinate, [[germany|Germany]]. On 26-27 September 2019, more than 600 police officers raided the underground facility, arrested seven suspects and seized roughly 200 servers. The resulting prosecution against eight defendants culminated in December 2021 convictions for participation in a criminal organization, and those convictions were largely confirmed as final in September 2023. The operation became a landmark European bulletproof-hosting case and directly fed the later [[darkmarket-takedown|DarkMarket takedown]]."
@@ -270,6 +270,25 @@ No [[south-korea|South Korean]] involvement in the CyberBunker takedown has been
 - This official judgment notice provides the most authoritative public account of the CyberBunker verdict, including sentence ranges, confiscation orders and the narrower criminal-organization theory accepted by the court.
 
 <!-- SOURCE_ENRICHMENT_END -->
+
+<!-- CANONICAL_ASSESSMENT_START -->
+
+## Canonical Operation Assessment
+
+This page is retained as a canonical operation because it describes a infrastructure-seizure against CyberBunker 2.0 (CB3ROB) bulletproof hosting operation in former NATO bunker, rather than a defendant-specific follow-on action. The record attributes lead responsibility to Rhineland-Palatinate LKA and coordination to Europol EC3, with participating or affected jurisdictions recorded as Germany and Netherlands.
+
+The cooperation model is documented through named agencies and partners: Rhineland-Palatinate LKA, Bundeskriminalamt (BKA), Europol EC3; mechanisms: Joint Investigation Team and Informal Police Cooperation; legal basis: Budapest Convention; enforcement posture: Arrest and Seizure.
+
+Operational results captured for the canonical record: 7 arrests; 8 indictments; 200 servers seized; 5,000 sq metre former NATO bunker facility raided by 600+ police officers; 8 defendants convicted (December 2021); Main defendant sentenced to 5 years 9 months; Mobile phones, documents, and large sums of cash seized.
+
+The canonical source set contains 5 reference(s): 2020 07 21 Lgtr Justiz Rlp De Cyberbunker Indictment Admitted, 2021 12 13 Lgtr Justiz Rlp De Cyberbunker Judgment, 2023 09 12 Lgtr Justiz Rlp De Cyberbunker Convictions Final, 2021 01 01 Bka De Cybercrime Bundeslagebild 2021 Cyberbunker, 2019 09 30 Arstechnica Com Cyberbunker Raid.
+The source floor is met for a canonical operation, but source breadth does not by itself prove that every downstream arrest or sentencing is part of this operation; follow-on records should remain linked separately.
+Known metadata gaps still carried by this page: Case Id and Cryptocurrency Seized.
+For dataset use, this page should be treated as the operation-level aggregation point: country, agency, mechanism and outcome fields describe the coordinated enforcement action as a whole. Later indictments, pleas, sentencings, extraditions or forfeiture actions should be attached as related case or absorbed follow-on records unless the source explicitly presents them as a new multinational operation.
+When source records contain broader background, repeated wire-service republications, or topic-page material, this assessment gives priority to facts that are directly tied to the named operation, its participating authorities, its target infrastructure or criminal service, and its measurable enforcement outcome. Peripheral source titles are not treated as independent taxonomy or result evidence.
+This keeps the canonical record analytically bounded and reproducible.
+
+<!-- CANONICAL_ASSESSMENT_END -->
 
 ## References
 

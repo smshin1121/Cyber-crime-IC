@@ -64,7 +64,7 @@ timeframe:
   start: 2025-01-01
 title: "Operation Secure (INTERPOL Infostealer Crackdown)"
 type: operation
-updated: 2026-04-26
+updated: 2026-04-27
 operation_role: umbrella
 parent_operation: ""
 summary: "Operation Secure was an INTERPOL-led operation conducted from January to April 2025 across 26 Asia-Pacific countries, targeting infostealer malware infrastructure. The operation resulted in 32 arrests, the takedown of over 20,000 malicious IPs and domains, the seizure of 41 servers and 100GB+ of data, and notifications to more than 216,000 victims."
@@ -170,6 +170,25 @@ South Korea (대한민국) was among the 26 participating countries. Specific Ko
 - The story framed the operation as a successor to INTERPOL's larger infrastructure-disruption model.
 
 <!-- SOURCE_ENRICHMENT_END -->
+
+<!-- CANONICAL_ASSESSMENT_START -->
+
+## Canonical Operation Assessment
+
+This page is retained as a canonical operation because it describes a infrastructure-seizure against Infostealer malware infrastructure and operators across Asia-Pacific, rather than a defendant-specific follow-on action. The record attributes lead responsibility to Interpol Igci and coordination to Interpol Igci, with participating or affected jurisdictions recorded as India, Indonesia, Japan, South Korea, Singapore, Thailand.
+
+The cooperation model is visible primarily through the lead/coordinating agencies and country list; detailed legal mechanism fields remain sparse.
+
+Operational results captured for the canonical record: 32 arrests; 41 servers seized; 216000 victims notified.
+
+The canonical source set contains 5 reference(s): 2025 04 01 Interpol Operation Secure Infostealer, 2025 04 01 Straitstimes Com More Than 9000 Malware Infected Servers Found By Singapore Based Interpol Ope, 2017 04 24 Freemalaysiatoday Com Interpol Finds 9000 Compromised Websites, 2025 04 01 Kaspersky Com Kaspersky Supports Interpol Operation Secure, 2025 04 01 Helpnetsecurity Com Operation Secure Disrupts Global Infostealer Malware Operations.
+The source floor is met for a canonical operation, but source breadth does not by itself prove that every downstream arrest or sentencing is part of this operation; follow-on records should remain linked separately.
+No frontmatter missing-field flags are currently carried on this page.
+For dataset use, this page should be treated as the operation-level aggregation point: country, agency, mechanism and outcome fields describe the coordinated enforcement action as a whole. Later indictments, pleas, sentencings, extraditions or forfeiture actions should be attached as related case or absorbed follow-on records unless the source explicitly presents them as a new multinational operation.
+When source records contain broader background, repeated wire-service republications, or topic-page material, this assessment gives priority to facts that are directly tied to the named operation, its participating authorities, its target infrastructure or criminal service, and its measurable enforcement outcome. Peripheral source titles are not treated as independent taxonomy or result evidence.
+This keeps the canonical record analytically bounded and reproducible.
+
+<!-- CANONICAL_ASSESSMENT_END -->
 
 ## References
 

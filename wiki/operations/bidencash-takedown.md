@@ -102,7 +102,7 @@ sources:
   - "[The Hacker News (2025-06)](https://thehackernews.com/2025/06/doj-seizes-145-domains-tied-to.html)"
   - "[Help Net Security (2025-06-06)](https://www.helpnetsecurity.com/2025/06/06/bidencash-marketplace-domains-seized/)"
 created: 2026-04-10
-updated: 2026-04-26
+updated: 2026-04-27
 operation_role: umbrella
 parent_operation: ""
 summary: "On 5 June 2025, the US Attorney's Office for the Eastern District of Virginia announced the seizure of approximately 145 domains (both darknet and clearnet) and cryptocurrency funds associated with the BidenCash criminal marketplace. The operation was led by the [[us-secret-service|US Secret Service]] Frankfurt Resident Office and Cyber Investigative Section, together with the [[fbi-cyber-division|FBI]] Albuquerque Field Office, and coordinated by the [[us-doj|US Department of Justice]]. International partners included the [[netherlands-politie|Dutch National High Tech Crime Unit]] and private-sector firms Searchlight Cyber and The Shadowserver Foundation. The seized domains were redirected to a US law enforcement-controlled server. BidenCash, which had operated since March 2022, had served over 117,000 customers, facilitated the trafficking of more than 15 million payment card numbers, and generated over USD 17 million in revenue. The seizure was part of the broader [[operation-endgame|Operation Endgame]] framework. No arrests were announced as of the seizure date."
@@ -289,6 +289,25 @@ No [[south-korea|South Korean]] participation in the BidenCash seizure has been 
 - No arrests were announced as of the seizure date.
 
 <!-- SOURCE_ENRICHMENT_END -->
+
+<!-- CANONICAL_ASSESSMENT_START -->
+
+## Canonical Operation Assessment
+
+This page is retained as a canonical operation because it describes a infrastructure-seizure against BidenCash carding marketplace (dark web and clearnet domains), rather than a defendant-specific follow-on action. The record attributes lead responsibility to US Secret Service and coordination to US Department of Justice, with participating or affected jurisdictions recorded as United States, Netherlands, Finland, Germany, France, Denmark.
+
+The cooperation model is documented through named agencies and partners: US Department of Justice, US Secret Service, FBI, Dutch National High Tech Crime Unit, Europol EC3; mechanisms: MLAT Process and Public-Private Cooperation; legal basis: Budapest Convention and Mutual Legal Assistance; enforcement posture: Seizure, Takedown, Asset Freeze.
+
+Operational results captured for the canonical record: 145 domains seized; cryptocurrency/asset result recorded as undisclosed amount; 145 darknet and clearnet domains seized; Cryptocurrency funds seized; Marketplace supported 117,000+ customers; 15 million+ payment card numbers trafficked.
+
+The canonical source set contains 5 reference(s): [us Secret Service Press Release (2025 06 05)](https://www.secretservice.gov/newsroom/releases/2025/06/us Government Seizes Approximately 145 Criminal Marketplace Domains), [doj Press Release Via Fortune (2025 06 05)](https://fortune.com/crypto/2025/06/05/doj Seizes Crypto Web Domains Online Marketplace Bidencash/), [the Record (2025 06)](https://therecord.media/bidencash Cybercrime Darknet Market Takedown Us Netherlands), [the Hacker News (2025 06)](https://thehackernews.com/2025/06/doj Seizes 145 Domains Tied To.html), [help Net Security (2025 06 06)](https://www.helpnetsecurity.com/2025/06/06/bidencash Marketplace Domains Seized/).
+The source floor is met for a canonical operation, but source breadth does not by itself prove that every downstream arrest or sentencing is part of this operation; follow-on records should remain linked separately.
+Known metadata gaps still carried by this page: Case Id, Arrests, Cryptocurrency Seized (exact Amount).
+For dataset use, this page should be treated as the operation-level aggregation point: country, agency, mechanism and outcome fields describe the coordinated enforcement action as a whole. Later indictments, pleas, sentencings, extraditions or forfeiture actions should be attached as related case or absorbed follow-on records unless the source explicitly presents them as a new multinational operation.
+When source records contain broader background, repeated wire-service republications, or topic-page material, this assessment gives priority to facts that are directly tied to the named operation, its participating authorities, its target infrastructure or criminal service, and its measurable enforcement outcome. Peripheral source titles are not treated as independent taxonomy or result evidence.
+This keeps the canonical record analytically bounded and reproducible.
+
+<!-- CANONICAL_ASSESSMENT_END -->
 
 ## References
 

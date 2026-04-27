@@ -81,7 +81,7 @@ sources:
   - "[[2015-04-09_arstechnica_us-european-police-take-down-highly-elusive-botnet-known-as-beebone]]"
   - "[[2015-04-10_wired-com_beebone-botnet-bites-the-dust]]"
 created: 2026-04-08
-updated: 2026-04-26
+updated: 2026-04-27
 operation_role: umbrella
 parent_operation: ""
 summary: "In April 2015, Europol and the Netherlands High Tech Crime Unit, in cooperation with the FBI, EU member state agencies, and major cybersecurity firms, conducted Operation Source to neutralize the polymorphic Beebone botnet. The operation blocked over 100 command-and-control server domains, disrupting the distribution of financial information-stealing malware, ransomware, rootkits, and fake antivirus software."
@@ -171,6 +171,25 @@ Netherlands, United States, EU member states (Germany, France, Italy, etc.)
 - SC Media reported that Operation Source targeted the Beebone botnet through sinkholing and domain seizures.
 
 <!-- SOURCE_ENRICHMENT_END -->
+
+<!-- CANONICAL_ASSESSMENT_START -->
+
+## Canonical Operation Assessment
+
+This page is retained as a canonical operation because it describes a takedown against Beebone Botnet (polymorphic), rather than a defendant-specific follow-on action. The record attributes lead responsibility to Europol Ec3 and coordination to Europol Ec3, with participating or affected jurisdictions recorded as Netherlands, United States, Eu Member States.
+
+The cooperation model is documented through named agencies and partners: Europol Ec3, J Cat, Dutch Nhtcu, Fbi, Intel Security, Kaspersky Lab, Shadowserver; enforcement posture: Takedown and Seizure.
+
+Operational results captured for the canonical record: 100 domains seized; 100+ command-and-control domains blocked; Polymorphic Beebone botnet neutralized.
+
+The canonical source set contains 5 reference(s): Europol Operation Source, 2015 04 09 Scworld Com International Effort Takes Down Beebone Botnet, 2015 04 09 Securityweek Com Authorities Takedown Beebone Botnet International Operation, 2015 04 09 Arstechnica Us European Police Take Down Highly Elusive Botnet Known As Beebone, 2015 04 10 Wired Com Beebone Botnet Bites The Dust.
+The source floor is met for a canonical operation, but source breadth does not by itself prove that every downstream arrest or sentencing is part of this operation; follow-on records should remain linked separately.
+Known metadata gaps still carried by this page: Legal Basis and Mechanisms Used.
+For dataset use, this page should be treated as the operation-level aggregation point: country, agency, mechanism and outcome fields describe the coordinated enforcement action as a whole. Later indictments, pleas, sentencings, extraditions or forfeiture actions should be attached as related case or absorbed follow-on records unless the source explicitly presents them as a new multinational operation.
+When source records contain broader background, repeated wire-service republications, or topic-page material, this assessment gives priority to facts that are directly tied to the named operation, its participating authorities, its target infrastructure or criminal service, and its measurable enforcement outcome. Peripheral source titles are not treated as independent taxonomy or result evidence.
+This keeps the canonical record analytically bounded and reproducible.
+
+<!-- CANONICAL_ASSESSMENT_END -->
 
 ## References
 

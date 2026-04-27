@@ -60,7 +60,7 @@ timeframe:
 title: "Operation Falcon"
 title_ko: "Operation Falcon (나이지리아 BEC 조직 단속)"
 type: operation
-updated: 2026-04-26
+updated: 2026-04-27
 operation_role: umbrella
 parent_operation: ""
 summary: "INTERPOL, Group-IB, and the Nigeria Police Force conducted Operation Falcon, a joint investigation that resulted in the arrest of 3 Nigerian nationals in November 2020. The suspects were part of a prolific cybercrime group that used 26 different types of malware including AgentTesla, Loki, Azorult, Spartan, Nanocore, and Remcos to conduct phishing attacks and Business Email Compromise (BEC) schemes targeting government organizations and private companies in over 150 countries."
@@ -137,6 +137,34 @@ Nigeria (arrests made domestically; victims across 150+ countries)
 - The release attributed more than 500,000 compromised organizations across 150 countries to the broader TMT cluster.
 
 <!-- SOURCE_ENRICHMENT_END -->
+
+<!-- RAW_TEXT_HIGHLIGHTS_START -->
+
+## Raw Source Highlights
+
+- INTERPOL, 2020-11-01: Three arrested as INTERPOL, Group-IB and the Nigeria Police Force disrupt prolific cybercrime group The year-long investigation was code-named ‘Operation Falcon’ Three suspects have been arrested in Lagos following a joint INTERPOL, Group-IB and Nigeria Police Force cybercrime investigation.
+- INTERPOL, 2020-11-01: They then used these campaigns to disseminate 26 malware programmes, spyware and remote access tools, including AgentTesla, Loki, Azorult, Spartan and the nanocore and Remcos Remote Access Trojans.
+
+<!-- RAW_TEXT_HIGHLIGHTS_END -->
+
+<!-- CANONICAL_ASSESSMENT_START -->
+
+## Canonical Operation Assessment
+
+This page is retained as a canonical operation because it describes a arrest-sweep against Nigerian BEC group (TMT), rather than a defendant-specific follow-on action. The record attributes lead responsibility to Interpol and coordination to Interpol, with participating or affected jurisdictions recorded as no participating-country list.
+
+The cooperation model is visible primarily through the lead/coordinating agencies and country list; detailed legal mechanism fields remain sparse.
+
+Operational results captured for the canonical record: 3 arrests.
+
+The canonical source set contains 5 reference(s): Interpol Operation Falcon, Cyberscoop Operation Falcon, 2020 11 25 Group Ib Operation Falcon Group Ib Helps Interpol Identify Nigerian Bec Ring Members, 2020 11 27 Pmnewsnigeria Operation Falcon Three Nigerians Busted For Cybercrime, 2020 11 27 Guardian Ng Operation Falcon Nigerian Police Join Interpol Group Ib To Arrest Three Suspected Tmt Fraudsters.
+The source floor is met for a canonical operation, but source breadth does not by itself prove that every downstream arrest or sentencing is part of this operation; follow-on records should remain linked separately.
+No frontmatter missing-field flags are currently carried on this page.
+For dataset use, this page should be treated as the operation-level aggregation point: country, agency, mechanism and outcome fields describe the coordinated enforcement action as a whole. Later indictments, pleas, sentencings, extraditions or forfeiture actions should be attached as related case or absorbed follow-on records unless the source explicitly presents them as a new multinational operation.
+When source records contain broader background, repeated wire-service republications, or topic-page material, this assessment gives priority to facts that are directly tied to the named operation, its participating authorities, its target infrastructure or criminal service, and its measurable enforcement outcome. Peripheral source titles are not treated as independent taxonomy or result evidence.
+This keeps the canonical record analytically bounded and reproducible.
+
+<!-- CANONICAL_ASSESSMENT_END -->
 
 ## References
 

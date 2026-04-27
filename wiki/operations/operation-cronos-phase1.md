@@ -110,7 +110,7 @@ sources:
   - "[[2024-12-04_nationalcrimeagency-gov-uk_operation-destabilise-nca-disrupts-multi-billion-money-laundering-networks]]"
   - "[[2026-01-28_gov-uk_financial-sanctions-guidance-for-ransomware]]"
 created: 2026-04-08
-updated: 2026-04-26
+updated: 2026-04-27
 operation_role: umbrella
 parent_operation: ""
 summary: "**Operation Cronos Phase 1** was a landmark international law enforcement action that disrupted **LockBit**, the world's most deployed ransomware variant since 2022. On 20 February 2024, agencies from 10 countries executed a coordinated takedown of LockBit's infrastructure, led by the [[uk-nca|UK National Crime Agency]] and coordinated by [[europol-ec3|Europol]] and [[eurojust|Eurojust]]."
@@ -268,6 +268,39 @@ No direct Korean involvement in Operation Cronos Phase 1 was identified. However
 - The operation resulted in the seizure of 34 servers across 8 countries, 2 arrests, 5 indictments, the freezing of over 200 cryptocurrency accounts, and the identification of 14,000 rogue accounts for removal.
 
 <!-- SOURCE_ENRICHMENT_END -->
+
+<!-- RAW_TEXT_HIGHLIGHTS_START -->
+
+## Raw Source Highlights
+
+- Foreign, Commonwealth & Development Office, 2024-05-07: Today’s sanctions target Russian national Dmitry Khoroshev who has been identified, as part of an ongoing international law enforcement investigation, as one of the leaders of LockBit, the ransomware group responsible for extorting over $1 billion from thousands of victims globally.
+- Foreign, Commonwealth & Development Office, 2024-05-07: In February the NCA announced that it had infiltrated the group’s network and taken control of its services , compromising the entire criminal enterprise.
+- DOJ NJ, 2024-07-22: 24-299 Case Summary : Defendants Matveev, Vasiliev, Astamirov, Sungatov, Kondratyev, and Khoroshev have been charged for their role in a conspiracy to deploy a ransomware variant known as “LockBit,” a prolific form of malware and, at relevant times, the most deployed ransomware variant across the world.
+- DOJ NJ, 2024-07-22: law, LockBit victims anywhere in the world are entitled to certain rights as a crime victim with respect to the ongoing LockBit prosecutions, including the right to claim restitution and/or to submit a victim impact statement to the Court for consideration at the sentencing of any LockBit defendant.
+- National Crime Agency, 2024-12-04: Operation Destabilise: NCA disrupts $multi-billion Russian money laundering networks with links to, drugs, ransomware and espionage, resulting in 84 arrests - National Crime Agency --> Skip to content Quick exit Cymraeg Reporting SARs CSEA Reporting for Industry Protecting the public from serious and organised crime Who we are show.
+- Office of Financial Sanctions Implementation, 2026-01-28: Financial sanctions guidance for ransomware - GOV.UK Cookies on GOV.UK We use some essential cookies to make this website work.
+- Office of Financial Sanctions Implementation, 2026-01-28: Cyber resilience and mitigating ransomware attacks Print this page © Crown copyright 2026 This publication is licensed under the terms of the Open Government Licence v3.0 except where otherwise stated.
+
+<!-- RAW_TEXT_HIGHLIGHTS_END -->
+
+<!-- CANONICAL_ASSESSMENT_START -->
+
+## Canonical Operation Assessment
+
+This page is retained as a canonical operation because it describes a takedown against LockBit ransomware group, rather than a defendant-specific follow-on action. The record attributes lead responsibility to Uk Nca and coordination to Europol Ec3, with participating or affected jurisdictions recorded as France, Germany, Netherlands, Sweden, Australia, Canada, Japan, United Kingdom, United States, Switzerland, Finland, Poland, New Zealand, Ukraine.
+
+The cooperation model is documented through named agencies and partners: Uk Nca, Europol Ec3, Eurojust, France Gendarmerie, Germany Bka, Netherlands Politie, Sweden Police, Australia Afp, Canada Rcmp, Japan Npa; enforcement posture: Arrest, Seizure, Takedown, Indictment, Asset Freeze.
+
+Operational results captured for the canonical record: 2 arrests; 5 indictments; 34 servers seized; cryptocurrency/asset result recorded as 200+ accounts frozen; 14,000+ rogue accounts identified for removal; Free decryption tools released on No More Ransom portal; 3 international arrest warrants issued.
+
+The canonical source set contains 7 reference(s): 2024 02 20 Europol Operation Cronos Lockbit, 2024 05 07 Gov Uk Uk And Allies Sanction Prolific Cyber Hacker, 2024 07 18 Nj Lockbit Astamirov Vasiliev Pleas, 2024 07 22 Justice Gov Lockbit Case Summary Page, 2024 10 01 Europol Europa Eu Operation Cronos Phase 3, 2024 12 04 Nationalcrimeagency Gov Uk Operation Destabilise Nca Disrupts Multi Billion Money Laundering Networks, plus 1 more.
+The source floor is met for a canonical operation, but source breadth does not by itself prove that every downstream arrest or sentencing is part of this operation; follow-on records should remain linked separately.
+Known metadata gaps still carried by this page: Legal Basis and Mechanisms Used.
+For dataset use, this page should be treated as the operation-level aggregation point: country, agency, mechanism and outcome fields describe the coordinated enforcement action as a whole. Later indictments, pleas, sentencings, extraditions or forfeiture actions should be attached as related case or absorbed follow-on records unless the source explicitly presents them as a new multinational operation.
+When source records contain broader background, repeated wire-service republications, or topic-page material, this assessment gives priority to facts that are directly tied to the named operation, its participating authorities, its target infrastructure or criminal service, and its measurable enforcement outcome. Peripheral source titles are not treated as independent taxonomy or result evidence.
+This keeps the canonical record analytically bounded and reproducible.
+
+<!-- CANONICAL_ASSESSMENT_END -->
 
 ## References
 

@@ -63,7 +63,7 @@ sources:
   - "[[2022-03-24_infosecurity-magazine_us-indicts-russian-over-carding-shop]]"
   - "[[2022-03-24_securityweek-com_russian-operator-cybercrime-marketplace-indicted-us]]"
 created: 2026-04-08
-updated: 2026-04-26
+updated: 2026-04-27
 operation_role: umbrella
 parent_operation: ""
 summary: "On 2022-03-16, DOJ announced the indictment of Igor Dekhtyarchuk, alleged operator of Marketplace A, after extradition from Latvia. The case framed Marketplace A as a cybercrime market for stolen credentials and access devices affecting U.S. victims."
@@ -130,16 +130,6 @@ The impact of this kind of action is narrower than a full marketplace seizure, b
 
 The linked case page is [[us-v-dekhtyarchuk-marketplace-a]]. The corresponding defendant-specific follow-on operation is [[operation-us-v-dekhtyarchuk-marketplace-a]].
 
-
-<!-- RAW_TEXT_HIGHLIGHTS_START -->
-
-## Raw Source Highlights
-
-- FBI, 2022-03-18: Caution: Igor Dekhtyarchuk is wanted for allegedly operating a cyber-criminal marketplace that sold thousands of login credentials, personally identifiable information, and authentication tools that allowed transnational organized crime and other cyber criminals to unlawfully access the online accounts of victims located around the world.
-- FBI, 2022-03-18: On March 16, 2022, Dekhtyarchuk was indicted in the United States District Court for the Eastern District of Texas, Tyler, Texas, on charges of Wire Fraud, Access Device Fraud, and Aggravated Identity Theft.
-
-<!-- RAW_TEXT_HIGHLIGHTS_END -->
-
 <!-- SOURCE_ENRICHMENT_START -->
 
 ## Source Coverage
@@ -162,6 +152,34 @@ The linked case page is [[us-v-dekhtyarchuk-marketplace-a]]. The corresponding d
 - The Dekhtyarchuk indictment (Igor Dekhtyarchuk, Marketplace A) is a *separate* cybercrime marketplace case from 2022 (Eastern District of Texas, FBI Cyber Most Wanted) — not BidenCash — so this source is effectively **mis-mapped** to the wrong operation page
 
 <!-- SOURCE_ENRICHMENT_END -->
+
+<!-- RAW_TEXT_HIGHLIGHTS_START -->
+
+## Raw Source Highlights
+
+- FBI, 2022-03-18: Caution: Igor Dekhtyarchuk is wanted for allegedly operating a cyber-criminal marketplace that sold thousands of login credentials, personally identifiable information, and authentication tools that allowed transnational organized crime and other cyber criminals to unlawfully access the online accounts of victims located around the world.
+- FBI, 2022-03-18: On March 16, 2022, Dekhtyarchuk was indicted in the United States District Court for the Eastern District of Texas, Tyler, Texas, on charges of Wire Fraud, Access Device Fraud, and Aggravated Identity Theft.
+
+<!-- RAW_TEXT_HIGHLIGHTS_END -->
+
+<!-- CANONICAL_ASSESSMENT_START -->
+
+## Canonical Operation Assessment
+
+This page is retained as a canonical operation because it describes a indictment against Marketplace A operator Igor Dekhtyarchuk, rather than a defendant-specific follow-on action. The record attributes lead responsibility to Us Doj and coordination to Us Doj, with participating or affected jurisdictions recorded as United States and Latvia.
+
+The cooperation model is documented through named agencies and partners: Us Doj; mechanisms: mutual legal assistance; legal basis: mutual legal assistance; enforcement posture: Indictment and Extradition.
+
+Operational results captured for the canonical record: 1 arrests; 1 indictments; Defendant extradited from Latvia; Marketplace A alleged to have sold credentials and access devices.
+
+The canonical source set contains 5 reference(s): 2022 03 16 Justice Gov United States V Igor Dekhtyarchuk, The Cyber Express Marketplace A Dekhtyarchuk Indictment, 2022 03 18 Fbi Gov Igor Dekhtyarchuk, 2022 03 24 Infosecurity Magazine Us Indicts Russian Over Carding Shop, 2022 03 24 Securityweek Com Russian Operator Cybercrime Marketplace Indicted Us.
+The source floor is met for a canonical operation, but source breadth does not by itself prove that every downstream arrest or sentencing is part of this operation; follow-on records should remain linked separately.
+No frontmatter missing-field flags are currently carried on this page.
+For dataset use, this page should be treated as the operation-level aggregation point: country, agency, mechanism and outcome fields describe the coordinated enforcement action as a whole. Later indictments, pleas, sentencings, extraditions or forfeiture actions should be attached as related case or absorbed follow-on records unless the source explicitly presents them as a new multinational operation.
+When source records contain broader background, repeated wire-service republications, or topic-page material, this assessment gives priority to facts that are directly tied to the named operation, its participating authorities, its target infrastructure or criminal service, and its measurable enforcement outcome. Peripheral source titles are not treated as independent taxonomy or result evidence.
+This keeps the canonical record analytically bounded and reproducible.
+
+<!-- CANONICAL_ASSESSMENT_END -->
 
 ## References
 

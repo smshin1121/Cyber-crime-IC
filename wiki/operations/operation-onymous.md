@@ -115,7 +115,7 @@ sources:
   - "[ICE press release — International probe leads to arrest](https://www.ice.gov/news/releases/international-probe-leads-arrest-alleged-operator-silk-road-20)"
   - "[GDPO Situation Analysis (Jan 2015)](https://www.swansea.ac.uk/media/Operation-Onymous.pdf)"
 created: 2026-04-10
-updated: 2026-04-26
+updated: 2026-04-27
 operation_role: umbrella
 parent_operation: ""
 summary: "Operation Onymous was a joint international law enforcement operation conducted on 5-6 November 2014 by the [[fbi-cyber-division|FBI]], [[europol-ec3|Europol]], [[eurojust|Eurojust]], and the [[us-dhs|U.S. Department of Homeland Security]], targeting darknet markets and other hidden services on the Tor network. The operation resulted in the seizure of 267 .onion addresses across 27 distinct websites — including Silk Road 2.0, Cloud 9, and Hydra — the arrest of 17 individuals, and the seizure of approximately USD 1 million in Bitcoin along with cash, drugs, weapons, and computers. Blake Benthall, the alleged operator of Silk Road 2.0 (pseudonym \"Defcon\"), was arrested in San Francisco. The operation involved 17 European countries plus the United States and represented the largest coordinated action against Tor hidden services at the time. However, it also generated significant controversy regarding the methods used to deanonymize Tor hidden services, including questions about a possible Carnegie Mellon University research exploit."
@@ -306,6 +306,25 @@ There is no publicly reported Korean involvement in Operation Onymous. The opera
 - However, it also generated significant controversy regarding the methods used to deanonymize Tor hidden services, including questions about a possible Carnegie Mellon University research exploit.
 
 <!-- SOURCE_ENRICHMENT_END -->
+
+<!-- CANONICAL_ASSESSMENT_START -->
+
+## Canonical Operation Assessment
+
+This page is retained as a canonical operation because it describes a takedown against Silk Road 2.0, Cloud 9, Hydra, and other Tor hidden services, rather than a defendant-specific follow-on action. The record attributes lead responsibility to FBI and coordination to Europol EC3, with participating or affected jurisdictions recorded as United States, United Kingdom, Bulgaria, Czech Republic, Finland, France, Germany, Hungary, Ireland, Latvia, Lithuania, Luxembourg, Netherlands, Romania, Spain, Sweden, Switzerland.
+
+The cooperation model is documented through named agencies and partners: FBI, Europol EC3, Eurojust, U.S. Department of Homeland Security; mechanisms: Joint Investigation Team, Mutual Legal Assistance, Informal Police-to-Police Cooperation; legal basis: Budapest Convention, U.s. Computer Fraud And Abuse Act, Eu Framework Decision 2005/222/jha On Attacks Against Information Systems; enforcement posture: Arrest, Seizure, Takedown.
+
+Operational results captured for the canonical record: 17 arrests; 267 domains seized; cryptocurrency/asset result recorded as USD 1 million in Bitcoin; 267 .onion addresses seized across 27 separate sites; Silk Road 2.0 shut down; Cloud 9 and Hydra marketplaces shut down; Blake Benthall (Silk Road 2.0 operator) arrested in San Francisco.
+
+The canonical source set contains 5 reference(s): [europol Iocta 2015 — Darknets](https://www.europol.europa.eu/iocta/2015/darknets.html), [wikipedia — Operation Onymous](https://en.wikipedia.org/wiki/operation Onymous), [fbi Press Release — Silk Road 2.0 Charged](https://www.fbi.gov/contact Us/field Offices/newyork/news/press Releases/operator Of Silk Road 2.0 Website Charged In Manhattan Federal Court), [ice Press Release — International Probe Leads To Arrest](https://www.ice.gov/news/releases/international Probe Leads Arrest Alleged Operator Silk Road 20), [gdpo Situation Analysis (jan 2015)](https://www.swansea.ac.uk/media/operation Onymous.pdf).
+The source floor is met for a canonical operation, but source breadth does not by itself prove that every downstream arrest or sentencing is part of this operation; follow-on records should remain linked separately.
+No frontmatter missing-field flags are currently carried on this page.
+For dataset use, this page should be treated as the operation-level aggregation point: country, agency, mechanism and outcome fields describe the coordinated enforcement action as a whole. Later indictments, pleas, sentencings, extraditions or forfeiture actions should be attached as related case or absorbed follow-on records unless the source explicitly presents them as a new multinational operation.
+When source records contain broader background, repeated wire-service republications, or topic-page material, this assessment gives priority to facts that are directly tied to the named operation, its participating authorities, its target infrastructure or criminal service, and its measurable enforcement outcome. Peripheral source titles are not treated as independent taxonomy or result evidence.
+This keeps the canonical record analytically bounded and reproducible.
+
+<!-- CANONICAL_ASSESSMENT_END -->
 
 ## References
 

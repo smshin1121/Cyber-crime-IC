@@ -61,7 +61,7 @@ timeframe:
 title: "911 S5 Botnet Dismantling"
 title_ko: "911 S5 Botnet Dismantling (공식 작전명 미확인)"
 type: operation
-updated: 2026-04-26
+updated: 2026-04-27
 operation_role: umbrella
 parent_operation: ""
 summary: "The U.S. Department of Justice and FBI, in cooperation with Germany, Singapore, and Thailand, dismantled the 911 S5 botnet -- the world's largest botnet, which had infected over 19 million IP addresses across nearly 200 countries. The administrator, YunHe Wang, was arrested. The botnet had been used to facilitate large-scale fraud, identity theft, child sexual exploitation, bomb threats, and illegal financial transactions."
@@ -131,6 +131,35 @@ United States, Germany, Singapore, Thailand
 - This public-service announcement gives the clearest victim-facing explanation of how 911 S5 spread through bundled VPN applications and pirated software.
 
 <!-- SOURCE_ENRICHMENT_END -->
+
+<!-- RAW_TEXT_HIGHLIGHTS_START -->
+
+## Raw Source Highlights
+
+- FBI, 2024-06-07: Title: Inside the FBI Podcast: The 911 S5 Cyber Threat | Federal Bureau of Investigation URL Source: Markdown Content: _[An energetic track featuring pulsating synthesizers begins.]_ **Narrator:** Downloading pirated content of any kind comes with inherent risks.
+- FBI, 2024-06-07: The FBI and our partners recently caught bad cyber actors doing just that: using infected video games and software to hijack victims’ machines and commit cybercrimes—and then make it appear as though victims were the ones responsible for that illegal activity.
+- U.S. Treasury, 2024-05-28: Department of the Treasury About Treasury Enter Search Term(s): Advanced Search General Information Role of the Treasury Officials Organizational Chart Orders and Directives Offices Domestic Finance Economic Policy General Counsel International Affairs Management Public Affairs Tax Policy Terrorism and Financial Intelligence Tribal and.
+
+<!-- RAW_TEXT_HIGHLIGHTS_END -->
+
+<!-- CANONICAL_ASSESSMENT_START -->
+
+## Canonical Operation Assessment
+
+This page is retained as a canonical operation because it describes a takedown against 911 S5 Botnet, rather than a defendant-specific follow-on action. The record attributes lead responsibility to Usdoj and coordination to Fbi, with participating or affected jurisdictions recorded as no participating-country list.
+
+The cooperation model is visible primarily through the lead/coordinating agencies and country list; detailed legal mechanism fields remain sparse.
+
+Operational results captured for the canonical record: 1 arrests; 1 indictments.
+
+The canonical source set contains 5 reference(s): 2024 05 29 Justice Gov Justice Department Leads Effort To Dismantle 911 S5 Botnet, 2024 05 29 Ic3 Gov Guidance On The 911 S5 Residential Proxy Service, 2024 06 07 Fbi Gov The 911 S5 Cyber Threat, 2024 05 28 Treasury Gov Treasury Sanctions A Cybercrime Network Associated With The 911 S5 Botnet, 2024 05 29 Fbi Gov How To Identify And Remove Vpn Applications That Contain 911 S5 Backdoors.
+The source floor is met for a canonical operation, but source breadth does not by itself prove that every downstream arrest or sentencing is part of this operation; follow-on records should remain linked separately.
+No frontmatter missing-field flags are currently carried on this page.
+For dataset use, this page should be treated as the operation-level aggregation point: country, agency, mechanism and outcome fields describe the coordinated enforcement action as a whole. Later indictments, pleas, sentencings, extraditions or forfeiture actions should be attached as related case or absorbed follow-on records unless the source explicitly presents them as a new multinational operation.
+When source records contain broader background, repeated wire-service republications, or topic-page material, this assessment gives priority to facts that are directly tied to the named operation, its participating authorities, its target infrastructure or criminal service, and its measurable enforcement outcome. Peripheral source titles are not treated as independent taxonomy or result evidence.
+This keeps the canonical record analytically bounded and reproducible.
+
+<!-- CANONICAL_ASSESSMENT_END -->
 
 ## References
 

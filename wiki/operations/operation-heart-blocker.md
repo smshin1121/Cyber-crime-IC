@@ -61,7 +61,7 @@ sources:
   - "[4] CyberScoop (2025-01-30)"
   - "[5] Hackread (2025-01-30)"
 created: 2026-04-10
-updated: 2026-04-26
+updated: 2026-04-27
 related_operations:
   - "[[operation-in-re-heartsender-seizure]]"
 operation_role: umbrella
@@ -79,6 +79,7 @@ organizations:
 crime_types:
   - "[[bec-ic|Business Email Compromise (BEC)]]"
   - "[[dark-web-ic]]"
+  - "[[malware-ic]]"
 ---
 ## Summary
 
@@ -241,6 +242,25 @@ No known Korean involvement in Operation Heart Blocker. However:
 - These tools were used by transnational organized crime groups to conduct business email compromise (BEC) schemes, resulting in over $3 million in confirmed US victim losses according to the DOJ (later revised to over $50 million by Pakistan's NCCIA).
 
 <!-- SOURCE_ENRICHMENT_END -->
+
+<!-- CANONICAL_ASSESSMENT_START -->
+
+## Canonical Operation Assessment
+
+This page is retained as a canonical operation because it describes a infrastructure-seizure against HeartSender / Saim Raza cybercrime marketplace network, rather than a defendant-specific follow-on action. The record attributes lead responsibility to U.S. Department of Justice and coordination to U.S. Department of Justice, with participating or affected jurisdictions recorded as United States, Netherlands, Pakistan.
+
+The cooperation model is documented through named agencies and partners: U.S. Department of Justice, FBI Cyber Division, Dutch National Police (Politie), Pakistan Federal Investigation Agency (FIA / NCCIA); mechanisms: Mutual Legal Assistance and Informal Police-to-Police Cooperation; legal basis: US-Netherlands MLAT; enforcement posture: Seizure, Arrest, Indictment.
+
+Operational results captured for the canonical record: 21 arrests; 39 servers seized; 39 domains seized; Millions of victim records recovered from seized servers; At least 100,000 records pertaining to Dutch citizens; $3 million in confirmed US victim losses (DOJ estimate); $50 million+ in US losses (Pakistan NCCIA estimate).
+
+The canonical source set contains 5 reference(s): [1] Us Doj Press Release (2025 01 29), [2] Krebsonsecurity (2025 01 30), [3] Krebsonsecurity — Pakistan Arrests (2025 05 28), [4] Cyberscoop (2025 01 30), [5] Hackread (2025 01 30).
+The source floor is met for a canonical operation, but source breadth does not by itself prove that every downstream arrest or sentencing is part of this operation; follow-on records should remain linked separately.
+No frontmatter missing-field flags are currently carried on this page.
+For dataset use, this page should be treated as the operation-level aggregation point: country, agency, mechanism and outcome fields describe the coordinated enforcement action as a whole. Later indictments, pleas, sentencings, extraditions or forfeiture actions should be attached as related case or absorbed follow-on records unless the source explicitly presents them as a new multinational operation.
+When source records contain broader background, repeated wire-service republications, or topic-page material, this assessment gives priority to facts that are directly tied to the named operation, its participating authorities, its target infrastructure or criminal service, and its measurable enforcement outcome. Peripheral source titles are not treated as independent taxonomy or result evidence.
+This keeps the canonical record analytically bounded and reproducible.
+
+<!-- CANONICAL_ASSESSMENT_END -->
 
 ## References
 

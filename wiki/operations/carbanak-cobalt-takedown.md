@@ -66,15 +66,16 @@ edges:
     direction: undirected
 credibility_index: 3.5
 source_tier: 2
-source_count: 4
+source_count: 5
 sources:
   - "[[2018-03-01_europol-europa-eu_mastermind-behind-eur-1-billion-cyber-bank-robbery-arrested-in-spain]]"
   - "[[2015-02-16_securelist_the-great-bank-robbery-the-carbanak-apt]]"
   - "[[2026-04-18_europol-europa-eu_carbanak-cobalt-infographic]]"
   - "[[2018-08-01_fbi-gov_how-cyber-crime-group-fin7-attacked-and-stole-data-from-hundreds-of-us-companies]]"
+  - "[[2018-03-26_securityweek_ukrainian-suspected-leading-carbanak-gang-arrested-spain]]"
 summary: "Spanish authorities, supported by Europol and other international partners, arrested the alleged mastermind behind the Carbanak/Cobalt bank-fraud campaigns in Spain. The arrest narrative is official; the technical understanding of the campaign still depends heavily on Kaspersky's earlier reporting."
 created: 2026-04-08
-updated: 2026-04-26
+updated: 2026-04-27
 ---
 ## Summary
 
@@ -124,6 +125,7 @@ Another integrity issue is identity. The current source set used by this repo do
 - Kaspersky Securelist, 2015-02-16: The Great Bank Robbery: the Carbanak APT.
 - Europol, 2026-04-18: Carbanak / Cobalt infographic.
 - FBI, 2018-08-01: How Cyber Crime Group FIN7 Attacked and Stole Data from Hundreds of U.S. Companies.
+- SecurityWeek, 2018-03-26: Ukrainian Suspected of Leading Carbanak Gang Arrested in Spain.
 
 ## Operational Timeline
 
@@ -132,6 +134,7 @@ Another integrity issue is identity. The current source set used by this repo do
 - 2018-03: reported enforcement endpoint.
 - 2015-02-16: public source coverage from Kaspersky Securelist.
 - 2018-03-01: public source coverage from Europol.
+- 2018-03-26: public source coverage from SecurityWeek.
 - 2018-08-01: public source coverage from FBI.
 - 2026-04-18: public source coverage from Europol.
 
@@ -148,6 +151,34 @@ Another integrity issue is identity. The current source set used by this repo do
 
 <!-- SOURCE_ENRICHMENT_END -->
 
+<!-- RAW_TEXT_HIGHLIGHTS_START -->
+
+## Raw Source Highlights
+
+- FBI, 2018-01-01: Since at least 2015, FIN7 members engaged in a highly sophisticated malware campaign targeting more than 100 U.S.
+- FBI, 2018-01-01: View larger and download Network Intrusion: Control and Data Exfiltration Once infected, the compromised victim computer connected to one of FIN7’s command and control servers located throughout the world.
+
+<!-- RAW_TEXT_HIGHLIGHTS_END -->
+
+<!-- CANONICAL_ASSESSMENT_START -->
+
+## Canonical Operation Assessment
+
+This page is retained as a canonical operation because it describes a joint-investigation against Carbanak/Cobalt cybercrime group, rather than a defendant-specific follow-on action. The record attributes lead responsibility to Spanish National Police and coordination to Europol Ec3, with participating or affected jurisdictions recorded as Spain, United States, Romania.
+
+The cooperation model is documented through named agencies and partners: Spanish National Police, Europol Ec3, Fbi, Romanian Police, Kaspersky Lab; mechanisms: informal cooperation; enforcement posture: Arrest.
+
+Operational results captured for the canonical record: 1 arrests; 100+ financial institutions in 40+ countries targeted; EUR 1 billion+ in losses publicly attributed to the campaign.
+
+The canonical source set contains 5 reference(s): 2018 03 01 Europol Europa Eu Mastermind Behind Eur 1 Billion Cyber Bank Robbery Arrested In Spain, 2015 02 16 Securelist The Great Bank Robbery The Carbanak Apt, 2026 04 18 Europol Europa Eu Carbanak Cobalt Infographic, 2018 08 01 Fbi Gov How Cyber Crime Group Fin7 Attacked And Stole Data From Hundreds Of Us Companies, 2018 03 26 Securityweek Ukrainian Suspected Leading Carbanak Gang Arrested Spain.
+The source floor is met for a canonical operation, but source breadth does not by itself prove that every downstream arrest or sentencing is part of this operation; follow-on records should remain linked separately.
+No frontmatter missing-field flags are currently carried on this page.
+For dataset use, this page should be treated as the operation-level aggregation point: country, agency, mechanism and outcome fields describe the coordinated enforcement action as a whole. Later indictments, pleas, sentencings, extraditions or forfeiture actions should be attached as related case or absorbed follow-on records unless the source explicitly presents them as a new multinational operation.
+When source records contain broader background, repeated wire-service republications, or topic-page material, this assessment gives priority to facts that are directly tied to the named operation, its participating authorities, its target infrastructure or criminal service, and its measurable enforcement outcome. Peripheral source titles are not treated as independent taxonomy or result evidence.
+This keeps the canonical record analytically bounded and reproducible.
+
+<!-- CANONICAL_ASSESSMENT_END -->
+
 ## References
 
 | # | Title | Publisher | Date | URL |
@@ -156,3 +187,4 @@ Another integrity issue is identity. The current source set used by this repo do
 | [2] | The Great Bank Robbery: the Carbanak APT | Kaspersky Securelist | 2015-02-16 | https://securelist.com/the-great-bank-robbery-the-carbanak-apt/68732/ |
 | [3] | Carbanak / Cobalt infographic | Europol | 2026-04-18 | https://www.europol.europa.eu/cms/sites/default/files/documents/carbanakcobalt.pdf |
 | [4] | How Cyber Crime Group FIN7 Attacked and Stole Data from Hundreds of U.S. Companies | FBI | 2018-08-01 | https://www.fbi.gov/contact-us/field-offices/seattle/news/stories/how-cyber-crime-group-fin7-attacked-and-stole-data-from-hundreds-of-us-companies |
+| [5] | Ukrainian Suspected of Leading Carbanak Gang Arrested in Spain | SecurityWeek | 2018-03-26 | https://www.securityweek.com/ukrainian-suspected-leading-carbanak-gang-arrested-spain/ |

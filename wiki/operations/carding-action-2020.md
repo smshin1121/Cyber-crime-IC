@@ -76,7 +76,7 @@ sources:
   - "[[2020-11-27_welivesecurity-com_europol-partners-thwart-credit-card-fraud-scheme]]"
   - "[[2020-11-26_europol-europa-eu_officers-foil-fraudsters-stealing-eur-40-million-in-payment-card-scam]]"
 created: 2026-04-10
-updated: 2026-04-26
+updated: 2026-04-27
 operation_role: umbrella
 parent_operation: ""
 summary: "Carding Action 2020 was a three-month intelligence-led operation coordinated by [[europol-ec3|Europol's European Cybercrime Centre (EC3)]] between September and November 2020. The operation targeted traders of compromised payment card data on dark web card shops and marketplaces. Law enforcement agencies from [[italy|Italy]], [[hungary|Hungary]], and the [[united-kingdom|United Kingdom]] collaborated with [[group-ib|Group-IB]], the sole private-sector cybersecurity partner, and major card payment schemes to analyse approximately 90,000 pieces of stolen card data. The operation is assessed to have prevented an estimated EUR 40 million (approximately USD 48 million) in potential fraud losses. No arrests were publicly announced; the operation was primarily intelligence-driven and preventive in nature."
@@ -222,6 +222,25 @@ No Korean participation in Carding Action 2020 has been publicly documented. How
 - EAST covered Carding Action 2020 from the secure-transactions sector perspective.
 
 <!-- SOURCE_ENRICHMENT_END -->
+
+<!-- CANONICAL_ASSESSMENT_START -->
+
+## Canonical Operation Assessment
+
+This page is retained as a canonical operation because it describes a joint-investigation against Dark web card shops and compromised payment card data traders, rather than a defendant-specific follow-on action. The record attributes lead responsibility to Europol EC3 and coordination to Europol EC3, with participating or affected jurisdictions recorded as Italy, Hungary, United Kingdom.
+
+The cooperation model is documented through named agencies and partners: Europol EC3 and Group-IB; mechanisms: Public-Private Cooperation and Informal Police Cooperation; legal basis: Budapest Convention; enforcement posture: Seizure.
+
+Operational results captured for the canonical record: 90,000 pieces of compromised card data analysed; EUR 40 million in potential losses prevented.
+
+The canonical source set contains 6 reference(s): 2020 11 26 Ukfinance Org Uk Dcpcu Works With Europol On Operation Carding Action 2020, 2020 12 01 Cisomag Com Operation Carding Action 2020 Cracks Down Credit Card Scammers, 2020 11 30 Association Secure Transactions Eu Carding Action By Police Prevents E40 Million In Losses, 2020 11 26 Group Ib Com Carding Action 2020, 2020 11 27 Welivesecurity Com Europol Partners Thwart Credit Card Fraud Scheme, 2020 11 26 Europol Europa Eu Officers Foil Fraudsters Stealing Eur 40 Million In Payment Card Scam.
+The source floor is met for a canonical operation, but source breadth does not by itself prove that every downstream arrest or sentencing is part of this operation; follow-on records should remain linked separately.
+Known metadata gaps still carried by this page: Arrests (none Publicly Confirmed) and Case Id.
+For dataset use, this page should be treated as the operation-level aggregation point: country, agency, mechanism and outcome fields describe the coordinated enforcement action as a whole. Later indictments, pleas, sentencings, extraditions or forfeiture actions should be attached as related case or absorbed follow-on records unless the source explicitly presents them as a new multinational operation.
+When source records contain broader background, repeated wire-service republications, or topic-page material, this assessment gives priority to facts that are directly tied to the named operation, its participating authorities, its target infrastructure or criminal service, and its measurable enforcement outcome. Peripheral source titles are not treated as independent taxonomy or result evidence.
+This keeps the canonical record analytically bounded and reproducible.
+
+<!-- CANONICAL_ASSESSMENT_END -->
 
 ## References
 

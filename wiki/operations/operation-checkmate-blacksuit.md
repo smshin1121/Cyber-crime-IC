@@ -84,7 +84,7 @@ sources:
   - "[[2025-07-25_bitdefender-com_after-500-million-in-ransom-demands-law-enforcement-seizes-blacksuit-site]]"
   - "[[2025-07-28_techradar-com_top-ransomware-group-blacksuit-has-dark-web-extortion-sites-seized-and-shut-down]]"
 created: 2026-04-08
-updated: 2026-04-26
+updated: 2026-04-27
 operation_role: umbrella
 parent_operation: ""
 summary: "Operation Checkmate was a coordinated international operation to disrupt the **BlackSuit (formerly Royal) ransomware group**, announced by the US Department of Justice on 11 August 2025. The operation culminated in the takedown of **4 servers and 9 domains** on 24 July 2025. The seized domains were used by BlackSuit to leak stolen data and communicate with victims for ransom negotiations. **USD 1,091,453** in virtual currency was seized."
@@ -182,6 +182,34 @@ No Korean involvement noted in this operation.
 - It preserves the first public reporting around the July 24 infrastructure action.
 
 <!-- SOURCE_ENRICHMENT_END -->
+
+<!-- RAW_TEXT_HIGHLIGHTS_START -->
+
+## Raw Source Highlights
+
+- US Department of Justice, 2025-08-11: The takedown was conducted by the Department of Homeland Security’s Homeland Security Investigations (HSI), the U.S.
+- US Department of Justice, 2025-08-11: Secret Service, IRS Criminal Investigation (IRS-CI), the FBI, and international law enforcement from the United Kingdom, Germany, Ireland, France, Canada, Ukraine, and Lithuania.
+
+<!-- RAW_TEXT_HIGHLIGHTS_END -->
+
+<!-- CANONICAL_ASSESSMENT_START -->
+
+## Canonical Operation Assessment
+
+This page is retained as a canonical operation because it describes a takedown against BlackSuit (formerly Royal) ransomware group, rather than a defendant-specific follow-on action. The record attributes lead responsibility to Fbi Cyber Division and coordination to Fbi Cyber Division, with participating or affected jurisdictions recorded as United States, United Kingdom, Germany, France.
+
+The cooperation model is documented through named agencies and partners: Fbi Cyber Division; enforcement posture: Seizure, Takedown, Asset Freeze.
+
+Operational results captured for the canonical record: 4 servers seized; 9 domains seized; cryptocurrency/asset result recorded as USD 1,091,453; 450+ US victims identified since 2022; Bitcoin ransom payment of 49.3120227 BTC (USD 1,445,454.86 at transaction time) seized from one case.
+
+The canonical source set contains 5 reference(s): 2025 08 11 Doj Blacksuit Royal Ransomware Takedown, 2025 07 24 Bleepingcomputer Com Law Enforcement Seizes Blacksuit Ransomware Leak Sites, 2025 07 25 Scworld Com Operation Checkmate Shuts Down Blacksuits Extortion Sites, 2025 07 25 Bitdefender Com After 500 Million In Ransom Demands Law Enforcement Seizes Blacksuit Site, 2025 07 28 Techradar Com Top Ransomware Group Blacksuit Has Dark Web Extortion Sites Seized And Shut Down.
+The source floor is met for a canonical operation, but source breadth does not by itself prove that every downstream arrest or sentencing is part of this operation; follow-on records should remain linked separately.
+Known metadata gaps still carried by this page: Legal Basis, Mechanisms Used, Specific International Agencies.
+For dataset use, this page should be treated as the operation-level aggregation point: country, agency, mechanism and outcome fields describe the coordinated enforcement action as a whole. Later indictments, pleas, sentencings, extraditions or forfeiture actions should be attached as related case or absorbed follow-on records unless the source explicitly presents them as a new multinational operation.
+When source records contain broader background, repeated wire-service republications, or topic-page material, this assessment gives priority to facts that are directly tied to the named operation, its participating authorities, its target infrastructure or criminal service, and its measurable enforcement outcome. Peripheral source titles are not treated as independent taxonomy or result evidence.
+This keeps the canonical record analytically bounded and reproducible.
+
+<!-- CANONICAL_ASSESSMENT_END -->
 
 ## References
 
