@@ -201,6 +201,9 @@ def update_overview(stats: Dict[str, Any]) -> int:
     europol = coord.get("Europol / Europol EC3", 0)
     interpol = coord.get("INTERPOL / INTERPOL IGCI", 0)
     doj = coord.get("DOJ / FBI (미국 주도)", 0)
+    eurojust = coord.get("Eurojust", 0)
+    afripol = coord.get("INTERPOL-AFRIPOL", 0)
+    other = max(total_ops - (europol + interpol + doj + eurojust + afripol), 0)
 
     new_table = f"""| Metric | Value | Period |
 |--------|-------|--------|
@@ -239,6 +242,31 @@ def update_overview(stats: Dict[str, Any]) -> int:
     content = re.sub(
         r'\*\*\d+(?: canonical)? operations\*\*',
         f'**{total_ops} canonical operations**',
+        content,
+    )
+    content = re.sub(
+        r"It also retains \d+ absorbed follow-on records",
+        f"It also retains {absorbed_ops} absorbed follow-on records",
+        content,
+    )
+    content = re.sub(
+        r"\*\*Europol-coordinated\*\* \(\d+ operations\)",
+        f"**Europol-coordinated** ({europol} operations)",
+        content,
+    )
+    content = re.sub(
+        r"\*\*INTERPOL-coordinated\*\* \(\d+ operations\)",
+        f"**INTERPOL-coordinated** ({interpol} operations)",
+        content,
+    )
+    content = re.sub(
+        r"\*\*DOJ/US-led\*\* \(\d+ canonical operations\)",
+        f"**DOJ/US-led** ({doj} canonical operations)",
+        content,
+    )
+    content = re.sub(
+        r"\*\*Other bilateral, national, or unclassified coordination\*\* \(\d+ operations\)",
+        f"**Other bilateral, national, or unclassified coordination** ({other} operations)",
         content,
     )
 

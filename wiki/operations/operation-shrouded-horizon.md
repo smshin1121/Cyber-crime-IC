@@ -80,8 +80,11 @@ crime_types:
 source_count: 5
 source_tier: 2
 sources:
-- '[1] FBI News (2015-07-15)'
-- '[2] Europol News (2015-07)'
+  - "[[2015-07-01_wired-com_dozens-nabbed-takedown-cybercrime-forum-darkode]]"
+  - "[[2015-07-15_fbi-gov_cyber-criminal-forum-taken-down]]"
+  - "[[2015-07-15_justice-gov_dd4cf514-2b05-11e5-a5ea-cf74396e59ec-story]]"
+  - "[[2015-07-15_archive-triblive-com_details-emerge-on-global-internet-crime-sting-led-by-pittsburgh-fbi-agents]]"
+  - "[[2015-07-15_threatpost-com_113800]]"
 status: completed
 target_entity: Darkode Forum
 timeframe:

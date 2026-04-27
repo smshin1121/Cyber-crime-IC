@@ -6,7 +6,7 @@ aliases:
   - AN0M
   - ANOM
 case_id: ""
-period: 4
+period: 2
 operation_type: undercover
 status: completed
 enforcement_type:

@@ -6,6 +6,7 @@ aliases:
   - "Europol Endgame"
 operation_type: takedown
 status: ongoing
+period: 3
 enforcement_type:
   - arrest
   - seizure

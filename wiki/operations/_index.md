@@ -6,10 +6,10 @@ created: 2026-04-08
 updated: 2026-04-14
 ---
 
-# Operations (125 canonical / 960 absorbed / 1085 records)
+# Operations (112 canonical / 973 absorbed / 1085 records)
 
 <!-- BEGIN GENERATED OPERATIONS INDEX -->
-## Canonical Operations (125)
+## Canonical Operations (112)
 
 | Operation | Case ID | Period | Status | Role | Sources | CI | Tier |
 |-----------|---------|--------|--------|------|---------|----|------|
@@ -32,7 +32,6 @@ updated: 2026-04-14
 | [[andromeda-botnet-takedown]] | CYB-2017-001 | 1 | completed | umbrella | 4 | 3.75 | 2 |
 | [[alphabay-takedown]] | CYB-2017-002 | 1 | completed | umbrella | 5 | 4.00 | 1 |
 | [[operation-hyperion]] | CYB-2017-050 | 1 | completed | umbrella | 6 | 1.88 | 3 |
-| [[banking-trojan-fraud-sentencing-2017]] | CYB-2017-051 | 1 | completed | umbrella | 5 | 2.55 | 3 |
 | [[carbanak-cobalt-takedown]] | CYB-2018-001 | 1 | completed | umbrella | 4 | 3.50 | 2 |
 | [[operation-wirewire]] | CYB-2018-002 | 1 | completed | umbrella | 5 | 2.28 | 2 |
 | [[infraud-organization-takedown]] | CYB-2018-003 | 1 | completed | umbrella | 7 | 3.30 | 2 |
@@ -114,38 +113,27 @@ updated: 2026-04-14
 | [[operation-germany-romania-trusted-seller-fraud-2025]] | CYB-2025-625 | 3 | completed | umbrella | 5 | 4.50 | 2 |
 | [[proxy-service-takedown-2026-03]] | CYB-2026-001 | 3 | completed | umbrella | 6 | 4.50 | 1 |
 | [[operation-de-fr-online-fraud-group-2026]] | CYB-2026-031 | 3 | completed | umbrella | 5 | 4.40 | 2 |
-| [[operation-eur-100m-crypto-investment-fraud-2025]] | CYB-EU-2025-019 | 4 | completed | umbrella | 5 | 4.30 | 1 |
-| [[operation-eur-100m-illegal-financial-service-laundering-2025]] | CYB-EU-2025-020 | 4 | completed | umbrella | 5 | 4.32 | 1 |
-| [[operation-us-v-parsarad-nemesis]] | CYB-FUP-076 | 3 | ongoing | follow-on | 5 | 4.25 | 1 |
-| [[operation-105-arrested-for-stealing-over-eur-12-million-from-us-based-banks]] | CYB-FUP-500 | 2 | completed | follow-on | 5 | 4.18 | 1 |
-| [[operation-12-members-of-an-irish-high-risk-criminal-network-arrested]] | CYB-FUP-501 | 3 | completed | follow-on | 6 | 4.00 | 1 |
-| [[operation-bremerton-washington-man-sentenced-to-3-years-in-prison-for-extensive-swatting-campaign-targeting-victims-in-u]] | CYB-FUP-520 | 3 | completed | follow-on | 5 | 4.18 | 1 |
-| [[operation-europol-105-arrested-for-stealing-over-12-million-from-us-based-banks-operation-secreto]] | CYB-FUP-543 | 2 | completed | follow-on | 5 | 4.00 | 1 |
-| [[operation-europol-french-coder-who-helped-extort-british-company-arrested-in-thailand]] | CYB-FUP-544 | 1 | completed | follow-on | 5 | 4.00 | 1 |
-| [[operation-french-coder-who-helped-extort-british-company-arrested-in-thailand]] | CYB-FUP-564 | 1 | completed | follow-on | 5 | 4.00 | 1 |
-| [[operation-key-figures-behind-phobos-and-8base-ransomware-arrested-in-international-cybercrime-crackdown-3]] | CYB-FUP-581 | 3 | completed | follow-on | 5 | 4.00 | 1 |
-| [[operation-key-figures-behind-phobos-and-8base-ransomware-arrested-in-international-cybercrime-crackdown]] | CYB-FUP-582 | 3 | completed | follow-on | 5 | 4.00 | 1 |
-| [[operation-operation-orion-international-144-arrested-in-major-child-abuse-operation-across-south-america]] | CYB-FUP-612 | 3 | completed | follow-on | 5 | 4.00 | 1 |
-| [[operation-australian-man-arrested-in-germany-accused-of-running-world-s-largest-darknet-marketplace]] | CYB-FUP-798 | 2 | completed | follow-on | 5 | 4.00 | 2 |
-| [[operation-dark-web-narcotics-trafficker-sentenced-to-96-months-in-prison-for-distributing-fentanyl-heroin-methamphetamin]] | CYB-FUP-810 | 2 | completed | follow-on | 6 | 4.21 | 1 |
-| [[bali-villa-cybercrime-raid-2024]] | — | — | completed | umbrella | 5 | — | — |
+| [[operation-eur-100m-crypto-investment-fraud-2025]] | CYB-EU-2025-019 | 3 | completed | umbrella | 5 | 4.30 | 1 |
+| [[operation-eur-100m-illegal-financial-service-laundering-2025]] | CYB-EU-2025-020 | 3 | completed | umbrella | 5 | 4.32 | 1 |
+| [[bali-villa-cybercrime-raid-2024]] | — | 3 | completed | umbrella | 5 | — | — |
 | [[bidencash-takedown]] | — | 3 | completed | umbrella | 5 | 4.50 | 1 |
 | [[carding-action-2020]] | — | 2 | completed | umbrella | 6 | 3.50 | 2 |
 | [[cyberbunker-takedown]] | — | 2 | completed | umbrella | 5 | 4.00 | 1 |
-| [[nemesis-market-takedown]] | — | — | completed | umbrella | 5 | — | — |
-| [[operation-endgame]] | — | — | ongoing | umbrella | 9 | — | — |
-| [[operation-heart-blocker]] | — | — | completed | umbrella | 5 | — | — |
-| [[operation-kraken-ghost-platform]] | — | — | completed | umbrella | 6 | — | — |
+| [[nemesis-market-takedown]] | — | 3 | completed | umbrella | 5 | — | — |
+| [[operation-endgame]] | — | 3 | ongoing | umbrella | 9 | — | — |
+| [[operation-heart-blocker]] | — | 3 | completed | umbrella | 5 | — | — |
+| [[operation-kraken-ghost-platform]] | — | 3 | completed | umbrella | 6 | — | — |
 | [[operation-rewired]] | — | 2 | completed | umbrella | 5 | 4.50 | 1 |
-| [[operation-trojan-shield]] | — | 4 | completed | umbrella | 6 | 4.80 | 1 |
+| [[operation-trojan-shield]] | — | 2 | completed | umbrella | 6 | 4.80 | 1 |
 
-## Absorbed Follow-On Records (960)
+## Absorbed Follow-On Records (973)
 
 These records are retained as traceable prosecution, sentencing, plea, forfeiture, or action-day wrappers. They should not be counted as separate international-cooperation operations unless promoted to canonical records after review.
 
 | Operation | Case ID | Period | Status | Role | Sources | CI | Tier |
 |-----------|---------|--------|--------|------|---------|----|------|
-| [[infraud-telusma-sentencing]] | CYB-2022-053 | 3 | absorbed | umbrella | 1 | 4.30 | 1 |
+| [[banking-trojan-fraud-sentencing-2017]] | CYB-2017-051 | 1 | absorbed | follow-on | 5 | 2.55 | 3 |
+| [[infraud-telusma-sentencing]] | CYB-2022-053 | 3 | absorbed | follow-on | 1 | 4.30 | 1 |
 | [[operation-emotet-disruption-ladybird]] | CYB-FUP-002 | 2 | absorbed | follow-on | 1 | 4.00 | 1 |
 | [[operation-in-re-bidencash-marketplace-seizure]] | CYB-FUP-003 | 3 | absorbed | follow-on | 1 | 4.00 | 1 |
 | [[operation-in-re-heartsender-seizure]] | CYB-FUP-004 | 3 | absorbed | follow-on | 1 | 4.00 | 1 |
@@ -218,6 +206,7 @@ These records are retained as traceable prosecution, sentencing, plea, forfeitur
 | [[operation-us-v-oyebanjo-xdedic]] | CYB-FUP-073 | 3 | absorbed | follow-on | 1 | 4.00 | 1 |
 | [[operation-us-v-paiva-silk-road-2]] | CYB-FUP-074 | 1 | absorbed | follow-on | 1 | 4.00 | 1 |
 | [[operation-us-v-pankov-xdedic]] | CYB-FUP-075 | 3 | absorbed | follow-on | 1 | 4.00 | 1 |
+| [[operation-us-v-parsarad-nemesis]] | CYB-FUP-076 | 3 | absorbed | follow-on | 5 | 4.25 | 1 |
 | [[operation-us-v-peck-dark-web]] | CYB-FUP-077 | 2 | absorbed | follow-on | 1 | 4.00 | 1 |
 | [[operation-us-v-roberts-dark-web]] | CYB-FUP-078 | 2 | absorbed | follow-on | 1 | 4.00 | 1 |
 | [[operation-us-v-roger-thomas-clark-silk-road]] | CYB-FUP-079 | 3 | absorbed | follow-on | 1 | 4.00 | 1 |
@@ -849,6 +838,8 @@ These records are retained as traceable prosecution, sentencing, plea, forfeitur
 | [[operation-us-v-woodmere-man]] | CYB-FUP-497 | 2 | absorbed | follow-on | 1 | 4.00 | 1 |
 | [[operation-utah-man-pleads-guilty-murder-hire-scheme]] | CYB-FUP-498 | 3 | absorbed | follow-on | 1 | 4.00 | 1 |
 | [[operation-utah-man-sentenced-seven-years-prison-murder-hire-scheme]] | CYB-FUP-499 | 3 | absorbed | follow-on | 1 | 4.00 | 1 |
+| [[operation-105-arrested-for-stealing-over-eur-12-million-from-us-based-banks]] | CYB-FUP-500 | 2 | absorbed | follow-on | 5 | 4.18 | 1 |
+| [[operation-12-members-of-an-irish-high-risk-criminal-network-arrested]] | CYB-FUP-501 | 3 | absorbed | follow-on | 6 | 4.00 | 1 |
 | [[operation-150-arrested-in-dark-web-drug-bust-as-police-seize-eur-26-million]] | CYB-FUP-502 | 2 | absorbed | follow-on | 1 | 4.00 | 1 |
 | [[operation-19-individuals-worldwide-charged-in-transnational-cybercrime-investigation-of-the-xdedic-marketplace-2]] | CYB-FUP-503 | 3 | absorbed | follow-on | 1 | 4.00 | 1 |
 | [[operation-19-individuals-worldwide-charged-in-transnational-cybercrime-investigation-of-the-xdedic-marketplace-3]] | CYB-FUP-504 | 3 | absorbed | follow-on | 1 | 4.00 | 1 |
@@ -857,8 +848,12 @@ These records are retained as traceable prosecution, sentencing, plea, forfeitur
 | [[operation-19-individuals-worldwide-charged-in-transnational-cybercrime-investigation-of-the-xdedic-marketplace-6]] | CYB-FUP-507 | 3 | absorbed | follow-on | 1 | 4.00 | 1 |
 | [[operation-19-individuals-worldwide-charged-in-transnational-cybercrime-investigation-of-the-xdedic-marketplace-7]] | CYB-FUP-508 | 3 | absorbed | follow-on | 1 | 4.00 | 1 |
 | [[operation-19-individuals-worldwide-charged-in-transnational-cybercrime-investigation-of-the-xdedic-marketplace]] | CYB-FUP-509 | 3 | absorbed | follow-on | 1 | 4.00 | 1 |
+| [[operation-bremerton-washington-man-sentenced-to-3-years-in-prison-for-extensive-swatting-campaign-targeting-victims-in-u]] | CYB-FUP-520 | 3 | absorbed | follow-on | 5 | 4.18 | 1 |
+| [[operation-europol-105-arrested-for-stealing-over-12-million-from-us-based-banks-operation-secreto]] | CYB-FUP-543 | 2 | absorbed | follow-on | 5 | 4.00 | 1 |
+| [[operation-europol-french-coder-who-helped-extort-british-company-arrested-in-thailand]] | CYB-FUP-544 | 1 | absorbed | follow-on | 5 | 4.00 | 1 |
 | [[operation-europol-mastermind-behind-eur-1-billion-cyber-bank-robbery-arrested-in-spain-carbanak-cobalt]] | CYB-FUP-545 | 1 | absorbed | follow-on | 1 | 4.00 | 1 |
 | [[operation-fayette-county-man-admits-making-hoax-emergency-phone-calls-to-elicit-an-armed-police-response-practice-is-kno]] | CYB-FUP-548 | 1 | absorbed | follow-on | 1 | 4.00 | 1 |
+| [[operation-french-coder-who-helped-extort-british-company-arrested-in-thailand]] | CYB-FUP-564 | 1 | absorbed | follow-on | 5 | 4.00 | 1 |
 | [[operation-hook-line-and-sinker-cybercrime-network-phishing-bank-credentials-arrested-in-romania]] | CYB-FUP-568 | 3 | absorbed | follow-on | 1 | 4.00 | 1 |
 | [[operation-interpol-online-scamming-fraud-three-nigerians-arrested-in-operation-killer-bee]] | CYB-FUP-571 | 2 | absorbed | follow-on | 1 | 4.00 | 1 |
 | [[operation-iranian-national-indicted-for-operating-online-marketplace-offering-fentanyl-and-money-laundering-services]] | CYB-FUP-572 | 3 | absorbed | follow-on | 1 | 4.00 | 1 |
@@ -870,6 +865,8 @@ These records are retained as traceable prosecution, sentencing, plea, forfeitur
 | [[operation-kc-man-sentenced-for-selling-meth-heroin-on-the-dark-web]] | CYB-FUP-578 | 3 | absorbed | follow-on | 1 | 4.00 | 1 |
 | [[operation-kent-washington-resident-indicted-for-dealing-fentanyl-while-illegally-possessing-firearm]] | CYB-FUP-579 | 3 | absorbed | follow-on | 1 | 4.00 | 1 |
 | [[operation-key-figures-behind-phobos-and-8base-ransomware-arrested-in-international-cybercrime-crackdown-2]] | CYB-FUP-580 | 3 | absorbed | follow-on | 1 | 4.00 | 1 |
+| [[operation-key-figures-behind-phobos-and-8base-ransomware-arrested-in-international-cybercrime-crackdown-3]] | CYB-FUP-581 | 3 | absorbed | follow-on | 5 | 4.00 | 1 |
+| [[operation-key-figures-behind-phobos-and-8base-ransomware-arrested-in-international-cybercrime-crackdown]] | CYB-FUP-582 | 3 | absorbed | follow-on | 5 | 4.00 | 1 |
 | [[operation-key-figures-behind-phobos-and-8base-ransomware-arrested]] | CYB-FUP-583 | 3 | absorbed | follow-on | 1 | 4.00 | 1 |
 | [[operation-king-county-couple-indicted-for-drug-and-illegal-weapons-possession]] | CYB-FUP-584 | 3 | absorbed | follow-on | 1 | 4.00 | 1 |
 | [[operation-king-county-man-who-dealt-narcotics-on-the-dark-web-and-kept-a-cache-of-weapons-at-his-rv-sentenced-to-8-years]] | CYB-FUP-585 | 3 | absorbed | follow-on | 1 | 4.00 | 1 |
@@ -894,6 +891,7 @@ These records are retained as traceable prosecution, sentencing, plea, forfeitur
 | [[operation-north-carolina-man-sentenced-to-federal-prison-for-distributing-opioids-through-the-dark-web]] | CYB-FUP-609 | 2 | absorbed | follow-on | 1 | 4.00 | 1 |
 | [[operation-north-reading-man-indicted-for-possession-of-child-pornography]] | CYB-FUP-610 | 3 | absorbed | follow-on | 1 | 4.00 | 1 |
 | [[operation-online-scamming-fraud-three-nigerians-arrested-in-interpol-operation-killer-bee]] | CYB-FUP-611 | 2 | absorbed | follow-on | 1 | 4.00 | 1 |
+| [[operation-operation-orion-international-144-arrested-in-major-child-abuse-operation-across-south-america]] | CYB-FUP-612 | 3 | absorbed | follow-on | 5 | 4.00 | 1 |
 | [[operation-owners-of-empire-market-charged-in-chicago-with-operating-430-million-dark-web-marketplace]] | CYB-FUP-613 | 3 | absorbed | follow-on | 1 | 4.00 | 1 |
 | [[operation-parma-men-among-those-charged-as-part-of-crackdown-on-darknet-vendors]] | CYB-FUP-614 | 1 | absorbed | follow-on | 1 | 4.00 | 1 |
 | [[operation-pernicious-cyberstalker-sentenced-to-9-years-in-prison-for-unrelenting-harassment-of-former-roommate-and-other]] | CYB-FUP-615 | 3 | absorbed | follow-on | 1 | 4.00 | 1 |
@@ -1051,6 +1049,8 @@ These records are retained as traceable prosecution, sentencing, plea, forfeitur
 | [[operation-weleakinfo-com-domain-name-seized]] | CYB-FUP-794 | 2 | absorbed | follow-on | 1 | 4.00 | 1 |
 | [[operation-winnebago-county-woman-pleads-guilty-to-wire-fraud-for-stealing-funds-from-a-booster-club]] | CYB-FUP-795 | 3 | absorbed | follow-on | 1 | 4.00 | 1 |
 | [[operation-almost-1-000-suspects-arrested-in-interpol-operation-which-seized-over-129-million]] | CYB-FUP-796 | 2 | absorbed | follow-on | 1 | 4.00 | 1 |
+| [[operation-australian-man-arrested-in-germany-accused-of-running-world-s-largest-darknet-marketplace]] | CYB-FUP-798 | 2 | absorbed | follow-on | 5 | 4.00 | 2 |
+| [[operation-dark-web-narcotics-trafficker-sentenced-to-96-months-in-prison-for-distributing-fentanyl-heroin-methamphetamin]] | CYB-FUP-810 | 2 | absorbed | follow-on | 6 | 4.21 | 1 |
 | [[operation-darknet-drug-vendor-arrested-for-distributing-illicit-prescription-drugs]] | CYB-FUP-815 | 2 | absorbed | follow-on | 1 | 4.00 | 1 |
 | [[operation-ghost-cybercrime-platform-dismantled-in-global-operation-51-arrested]] | CYB-FUP-832 | 3 | absorbed | follow-on | 1 | 4.00 | 1 |
 | [[operation-interpol-seized-130-million-from-cybercriminals-in-global-haechi-iii-crackdown]] | CYB-FUP-833 | 2 | absorbed | follow-on | 1 | 4.00 | 1 |

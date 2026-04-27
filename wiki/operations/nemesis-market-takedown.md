@@ -8,6 +8,7 @@ operation_type: infrastructure-seizure
 operation_role: umbrella
 parent_operation: ""
 status: completed
+period: 3
 enforcement_type:
   - seizure
   - takedown

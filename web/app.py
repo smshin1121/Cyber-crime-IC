@@ -10,9 +10,28 @@ from pathlib import Path
 from datetime import datetime
 from typing import Dict
 
-vendor_site = Path(__file__).resolve().parent.parent / ".vendor"
-if vendor_site.is_dir():
-    sys.path.insert(0, str(vendor_site))
+ROOT_DIR = Path(__file__).resolve().parent.parent
+
+
+def _has_importable_package(base: Path, package: str) -> bool:
+    try:
+        return (base / package / "__init__.py").is_file()
+    except OSError:
+        return False
+
+
+for vendor_site in (
+    ROOT_DIR / ".vendor_py314",
+    ROOT_DIR / ".vendor_build",
+    ROOT_DIR / ".vendor",
+    ROOT_DIR / "vendor_build2",
+    ROOT_DIR / "vendor37_build",
+):
+    if vendor_site.name == "vendor37_build" and sys.version_info >= (3, 14):
+        continue
+    if _has_importable_package(vendor_site, "flask"):
+        sys.path.insert(0, str(vendor_site))
+        break
 
 user_site = site.getusersitepackages()
 if user_site and user_site not in sys.path:
@@ -25,8 +44,8 @@ from markupsafe import Markup
 
 app = Flask(__name__)
 
-WIKI_DIR = Path(__file__).resolve().parent.parent / "wiki"
-TOOLS_DIR = Path(__file__).resolve().parent.parent / "tools"
+WIKI_DIR = ROOT_DIR / "wiki"
+TOOLS_DIR = ROOT_DIR / "tools"
 if TOOLS_DIR.is_dir() and str(TOOLS_DIR) not in sys.path:
     sys.path.insert(0, str(TOOLS_DIR))
 

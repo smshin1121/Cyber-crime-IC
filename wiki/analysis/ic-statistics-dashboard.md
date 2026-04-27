@@ -3,27 +3,28 @@ analysis_type: trend-report
 confidence: high
 created: 2026-04-08
 entities_referenced:
-  - "[[europol-ec3]]"
-  - "[[interpol-igci]]"
-  - "[[fbi-cyber-division]]"
-  - "[[south-korea]]"
+- '[[europol-ec3]]'
+- '[[interpol-igci]]'
+- '[[fbi-cyber-division]]'
+- '[[south-korea]]'
 generated_from: manual
 key_judgments:
-  - confidence: high
-    judgment: "Europol과 INTERPOL이 양대 조정 허브로 기능"
-  - confidence: high
-    judgment: "INTERPOL 주도 작전이 체포 규모에서 압도적"
-  - confidence: high
-    judgment: "한국이 HAECHI 시리즈를 통해 아시아-태평양 국제공조의 핵심 행위자"
-scope: "2014-2025 사이버범죄 국제공조 작전 통계 (위키 수집 데이터 기반)"
+- confidence: high
+  judgment: Europol과 INTERPOL이 양대 조정 허브로 기능
+- confidence: high
+  judgment: INTERPOL 주도 작전이 체포 규모에서 압도적
+- confidence: high
+  judgment: 한국이 HAECHI 시리즈를 통해 아시아-태평양 국제공조의 핵심 행위자
+scope: 2014-2025 사이버범죄 국제공조 작전 통계 (위키 수집 데이터 기반)
 sources_consulted: 4765
-title: "사이버범죄 국제공조 통계 대시보드"
+title: 사이버범죄 국제공조 통계 대시보드
 type: analysis
-updated: 2026-04-27
+updated: '2026-04-27'
 ---
+
 # 사이버범죄 국제공조 통계 대시보드
 
-> [!info] 이 페이지의 모든 데이터는 위키에 수집된 125개 정본 작전, 960개 follow-on 기록, 4765개 출처 페이지에서 도출되었습니다. 작전 전체 목록은 `wiki/operations/_index.md`를 참조하십시오.
+> [!info] 이 페이지의 모든 데이터는 위키에 수집된 112개 정본 작전, 973개 follow-on 기록, 4765개 출처 페이지에서 도출되었습니다. 작전 전체 목록은 `wiki/operations/_index.md`를 참조하십시오.
 
 ---
 
@@ -33,26 +34,26 @@ updated: 2026-04-27
 
 | 지표 | 값 |
 |------|-----|
-| 정본 작전 수 | 125 |
-| 흡수 follow-on 기록 | 960 |
+| 정본 작전 수 | 112 |
+| 흡수 follow-on 기록 | 973 |
 | 전체 operation 레코드 | 1085 |
-| Period 1 (2014-2018) | 29 |
-| Period 2 (2019-2022) | 27 |
-| Period 3 (2023-2025) | 61 |
-| Period 4 (repository-coded) | 3 |
-| Period 미분류 | 5 |
+| Period 1 (2014-2018) | 26 |
+| Period 2 (2019-2022) | 24 |
+| Period 3 (2023-2025) | 62 |
+| Period 4 (repository-coded) | 0 |
+| Period 미분류 | 0 |
 | 총 출처 수 | 4765 (dedicated pages) + Excel 소스 |
 
 ### 조정기관별 분포
 
 | 조정기관 | 작전 수 | 비고 |
 |---------|---------|------|
-| Europol / Europol EC3 | 53 | 가장 많은 작전 조정; 랜섬웨어, 봇넷, 사기 포럼 등 |
-| INTERPOL / INTERPOL IGCI | 26 | 체포 규모에서 압도적; HAECHI, Jackal, Serengeti 등 |
-| DOJ / FBI (미국 주도) | 12 | 기소·압수 중심 |
+| Europol / Europol EC3 | 45 | 가장 많은 작전 조정; 랜섬웨어, 봇넷, 사기 포럼 등 |
+| INTERPOL / INTERPOL IGCI | 25 | 체포 규모에서 압도적; HAECHI, Jackal, Serengeti 등 |
+| DOJ / FBI (미국 주도) | 10 | 기소·압수 중심 |
 | AFRIPOL | 3 | 아프리카 공동 조정 |
 | Eurojust | 14 | 사법 공조 조정 |
-| 양자/기타 (조정기관 없음) | 17 | 한국 양자작전 포함; 단독 기소 다수 |
+| 양자/기타 (조정기관 없음) | 15 | 한국 양자작전 포함; 단독 기소 다수 |
 
 ### 상위 10개 작전 (CI 기준)
 
@@ -138,7 +139,7 @@ updated: 2026-04-27
 | 법적 프레임워크 | 22 | 부다페스트 협약 등 |
 | 기관 | 143 | 주요 기관 |
 | 국가 | 110 | 국가 프로필 |
-| 작전 | 1085 | 정본 125, 흡수 follow-on 960; P1: 29, P2: 27, P3: 61, P4: 3, 미분류: 5 |
+| 작전 | 1085 | 정본 112, 흡수 follow-on 973; P1: 26, P2: 24, P3: 62, P4: 0, 미분류: 0 |
 | 메커니즘 | 27 | 공조 메커니즘 |
 | 범죄유형 | 24 | 문서화된 범죄유형 |
 | 개념 | 15 | 법적 개념 |

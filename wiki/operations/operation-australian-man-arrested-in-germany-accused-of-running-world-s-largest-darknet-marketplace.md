@@ -8,7 +8,7 @@ period: 2
 operation_role: follow-on
 parent_operation: "[[darkmarket-takedown]]"
 operation_type: prosecution
-status: completed
+status: absorbed
 enforcement_type:
   - arrest
 outcome: success

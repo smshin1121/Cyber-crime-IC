@@ -63,7 +63,7 @@ def _parse_mapping(lines: list[str], base_indent: int = 0) -> dict[str, Any]:
         if not block:
             data[key] = ""
         elif block[0].strip().startswith("- "):
-            data[key] = _parse_list(block, base_indent + 2)
+            data[key] = _parse_list(block, _indent(block[0]))
         else:
             data[key] = _parse_mapping(block, base_indent + 2)
         i = next_i

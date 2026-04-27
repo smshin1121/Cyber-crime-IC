@@ -8,6 +8,7 @@ aliases:
   - "Saim Raza Takedown"
 operation_type: infrastructure-seizure
 status: completed
+period: 3
 enforcement_type:
   - seizure
   - arrest
@@ -21,7 +22,7 @@ timeframe:
 crime_type: "[[bec-ic|Business Email Compromise (BEC)]]"
 target_entity: "HeartSender / Saim Raza cybercrime marketplace network"
 lead_agency: "[[us-doj|U.S. Department of Justice]]"
-coordinating_body: ""
+coordinating_body: "[[us-doj|U.S. Department of Justice]]"
 participating_countries:
   - "[[united-states]]"
   - "[[netherlands]]"

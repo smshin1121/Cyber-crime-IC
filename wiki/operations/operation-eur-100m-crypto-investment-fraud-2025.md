@@ -8,7 +8,7 @@ operation_type: joint-investigation
 operation_role: umbrella
 parent_operation: ""
 status: completed
-period: 4
+period: 3
 enforcement_type:
   - coordinated-searches
   - arrests

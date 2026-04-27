@@ -12,6 +12,7 @@ desktop.ini
 __pycache__/
 *.pyc
 .venv/
+.vendor_py314/
 *.egg-info/
 
 # Workspace (pipeline intermediate files)

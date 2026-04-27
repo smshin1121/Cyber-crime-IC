@@ -50,7 +50,7 @@ sources:
   - "[[2015-06-25_scworld-com_europol-takes-down-high-profile-ukraine-based-cybergang]]"
   - "[[2015-06-27_thehackernews-com_europol-arrests-gang-behind-zeus-and-spyeye-banking-malware]]"
   - "[[2015-06-29_techmonitor-ai_zeus-spyeye-malware-gang-members-arrested-in-ukraine]]"
-status: completed
+status: absorbed
 target_entity: "Banking fraud perpetrator (used home IP)"
 timeframe:
   announced: 2017-01-01
@@ -61,8 +61,8 @@ title: "Banking Trojan Fraud Sentencing"
 title_ko: "뱅킹 트로이목마 사기 판결"
 type: operation
 updated: 2026-04-26
-operation_role: umbrella
-parent_operation: ""
+operation_role: follow-on
+parent_operation: "[[zeus-spyeye-jit-takedown]]"
 summary: "A cybercriminal who used banking trojans for financial fraud was sentenced to **5 years in prison** after being identified in part because he used his home IP address during the fraud. The case illustrates how basic operational security failures can enable law enforcement to identify and prosecute cybercriminals even in technically sophisticated fraud schemes."
 crime_types:
   - "[[banking-trojan-ic]]"

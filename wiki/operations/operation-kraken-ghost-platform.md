@@ -9,6 +9,7 @@ aliases:
   - "OTF NEXT"
 operation_type: infrastructure-seizure
 status: completed
+period: 3
 enforcement_type:
   - arrest
   - seizure

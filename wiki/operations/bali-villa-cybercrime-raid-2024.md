@@ -7,6 +7,7 @@ aliases:
   - "Tabanan Villa Raid"
 operation_type: arrest-sweep
 status: completed
+period: 3
 enforcement_type:
   - arrest
   - deportation
@@ -19,7 +20,7 @@ timeframe:
 crime_type: "[[online-fraud-ic|Online Fraud]]"
 target_entity: "Taiwanese cybercrime syndicate operating from Bali villa"
 lead_agency: "[[indonesia-immigration|Indonesia Immigration Directorate]]"
-coordinating_body: ""
+coordinating_body: "[[indonesia-immigration|Indonesia Immigration Directorate]]"
 participating_countries:
   - "[[indonesia]]"
 participating_agencies:

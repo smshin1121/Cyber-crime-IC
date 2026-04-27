@@ -8,7 +8,7 @@ period: 3
 operation_role: follow-on
 parent_operation: ""
 operation_type: prosecution
-status: completed
+status: absorbed
 enforcement_type:
   - arrest
 outcome: success

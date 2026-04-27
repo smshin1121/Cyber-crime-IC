@@ -60,7 +60,7 @@ sources:
   - "[[2022-05-25_justice-gov_united-states-v-john-telusma]]"
 created: 2026-04-08
 updated: 2026-04-26
-operation_role: umbrella
+operation_role: follow-on
 parent_operation: ""
 summary: "This domestic-only U.S. follow-on record has been absorbed into the canonical case page [[us-v-telusma-infraud]]. No visible cross-border mechanism is documented at the operation-page level, so it is not treated as a separate international-cooperation operation."
 jurisdictions:

@@ -8,7 +8,7 @@ period: 3
 operation_type: indictment
 operation_role: follow-on
 parent_operation: "[[nemesis-market-takedown]]"
-status: ongoing
+status: absorbed
 enforcement_type:
   - indictment
 outcome: success
