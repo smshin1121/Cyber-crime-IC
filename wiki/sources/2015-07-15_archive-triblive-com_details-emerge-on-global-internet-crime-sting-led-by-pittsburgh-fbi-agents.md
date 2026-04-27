@@ -3,7 +3,7 @@ type: source
 title: "Details Emerge On Global Internet Crime Sting Led By Pittsburgh Fbi Agents"
 raw_path: raw/press-releases/2015-07-15_archive-triblive-com_details-emerge-on-global-internet-crime-sting-led-by-pittsburgh-fbi-agents.md
 source_type: press-release
-publisher: archive.triblive.com
+publisher: "TribLIVE archive"
 author: ""
 publish_date: 2015-07-15
 ingest_date: 2026-04-17
@@ -14,9 +14,12 @@ sensitivity: public
 pages_updated:
 
 key_findings:
-  - "FBI-led Operation Shrouded Horizon, conducted in cooperation with Europol and law enforcement agencies from 20 countries over an 18-month investigation, dismantled the largest English-language cybercrime forum, Darkode. The operation resulted in the arrest of more than 70 individuals and the indictment of 12, neutralizing a criminal marketplace for malware, botnets, stolen personal information, and credit card data trafficking."
+  - "TribLIVE reported local Pittsburgh context for the FBI-led Darkode investigation and the role of Pittsburgh-based investigators."
+  - "The source is secondary corroboration for Operation Shrouded Horizon and should not override the FBI/DOJ wording of enforcement counts."
+  - "Because this is nonofficial media content, the repository stores a summary-only record."
 collection_url: https://archive.triblive.com/local/pittsburgh-allegheny/details-emerge-on-global-internet-crime-sting-led-by-pittsburgh-fbi-agents/
 created: 2026-04-17
+updated: 2026-04-28
 text_status: summarized
 content_hash: sha256:eca523dc7c13b763728b3336a86ef6ae07b1b7b58dc7be3201c845383e453c81
 word_count: 2468
@@ -27,8 +30,8 @@ copyright_policy: summary-only
 ---
 ## Source Summary
 
-FBI-led Operation Shrouded Horizon, conducted in cooperation with Europol and law enforcement agencies from 20 countries over an 18-month investigation, dismantled the largest English-language cybercrime forum, Darkode. The operation resulted in the arrest of more than 70 individuals and the indictment of 12, neutralizing a criminal marketplace for malware, botnets, stolen personal information, and credit card data trafficking.
+TribLIVE's archive story provides local Pittsburgh reporting on the Darkode investigation and the FBI-led global Internet-crime action. It is retained as secondary corroboration and local context for [[operation-shrouded-horizon]].
 
 ## Relevance to IC
 
-This source was generated from `raw/press-releases/2015-07-15_archive-triblive-com_details-emerge-on-global-internet-crime-sting-led-by-pittsburgh-fbi-agents.md` to make the raw corpus addressable from the source index.
+This source supports [[operation-shrouded-horizon]] as secondary reporting. It is retained in summary-only form because it is nonofficial media content.

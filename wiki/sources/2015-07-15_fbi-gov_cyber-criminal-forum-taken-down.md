@@ -14,9 +14,13 @@ sensitivity: public
 pages_updated:
 
 key_findings:
-  - "FBI-led Operation Shrouded Horizon, conducted in cooperation with Europol and law enforcement agencies from 20 countries over an 18-month investigation, dismantled the largest English-language cybercrime forum, Darkode. The operation resulted in the arrest of more than 70 individuals and the indictment of 12, neutralizing a criminal marketplace for malware, botnets, stolen personal information, and credit card data trafficking."
+  - "FBI described Operation Shrouded Horizon as an 18-month investigation into the Darkode cybercrime forum that involved partners in 19 other countries."
+  - "The FBI source says the public action involved charges, arrests and searches concerning about 70 Darkode members and associates worldwide."
+  - "The FBI source records U.S. indictments against 12 people associated with Darkode and seizure of the forum domain and servers."
+  - "Darkode is described as an invitation-only forum for trading malware, botnets, stolen personal information, credit-card information, hacked-server credentials and related cybercrime tools."
 collection_url: https://www.fbi.gov/news/stories/cyber-criminal-forum-taken-down
 created: 2026-04-17
+updated: 2026-04-28
 text_status: parsed
 content_hash: sha256:05b5ab13e2505eaea5feb21628e230881021f3c231451dbc76b02b6295579566
 word_count: 871
@@ -25,8 +29,8 @@ last_fetcher: urllib
 ---
 ## Source Summary
 
-FBI-led Operation Shrouded Horizon, conducted in cooperation with Europol and law enforcement agencies from 20 countries over an 18-month investigation, dismantled the largest English-language cybercrime forum, Darkode. The operation resulted in the arrest of more than 70 individuals and the indictment of 12, neutralizing a criminal marketplace for malware, botnets, stolen personal information, and credit card data trafficking.
+FBI documents Operation Shrouded Horizon as the takedown of Darkode after an 18-month investigation and forum infiltration. The source records a 20-country law-enforcement action, charges/arrests/searches involving about 70 members and associates, 12 U.S. indictments, and seizure of Darkode's domain and servers.
 
 ## Relevance to IC
 
-This source was generated from `raw/press-releases/2015-07-15_fbi-gov_cyber-criminal-forum-taken-down.md` to make the raw corpus addressable from the source index.
+This is the main FBI source for [[operation-shrouded-horizon]], especially for the forum-infiltration method, the 20-country coordination claim, and the domain/server seizure.
