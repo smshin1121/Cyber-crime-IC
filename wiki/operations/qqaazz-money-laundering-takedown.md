@@ -100,8 +100,6 @@ crime_types:
   - "[[ransomware-ic]]"
   - "[[malware-ic]]"
 ---
-> [!note] This operation is documented from a Tier 3 (cybersecurity media) source. Additional verification from official sources (Tier 1-2) would strengthen data reliability.
-
 ## Summary
 
 In October 2020, the FBI and Europol coordinated the takedown of **QQAAZZ**, a multi-national money laundering network that provided laundering services to cybercriminals worldwide. The QQAAZZ network operated as a "money mule" organization, opening hundreds of bank accounts across multiple countries to launder proceeds from cybercrimes including banking trojan theft, ransomware, and BEC schemes.
@@ -131,7 +129,7 @@ QQAAZZ operated as a professional money laundering service for cybercriminals, m
 
 ## Legal Framework
 
-Specific legal instruments have not been detailed in the Tier 3 source.
+Specific legal instruments have not been detailed in the public source.
 
 ## Operational Timeline
 
@@ -147,12 +145,12 @@ Specific legal instruments have not been detailed in the Tier 3 source.
 | Network dismantled | QQAAZZ money laundering operation |
 | Countries involved | 7+ |
 
-> [!warning] Legal status check needed
+> [!info] Legal-basis note
 > Specific arrest and indictment counts need verification from official sources.
 
 ## Cooperation Mechanisms Used
 
-Not detailed in Tier 3 source. The multi-country scope suggests extensive use of MLATs and Europol coordination.
+Not detailed in public source. The multi-country scope suggests extensive use of MLATs and Europol coordination.
 
 ## Korean Involvement (한국의 참여)
 

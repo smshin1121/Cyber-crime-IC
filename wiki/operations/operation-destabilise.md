@@ -115,7 +115,7 @@ Money laundering is a critical enabler of ransomware and other cybercrime. Crimi
 - [[united-kingdom|United Kingdom]]
 - [[united-states|United States]]
 
-> [!warning] Legal status check needed
+> [!info] Legal-basis note
 > Additional participating countries may have been involved; verification needed.
 
 ## Legal Framework

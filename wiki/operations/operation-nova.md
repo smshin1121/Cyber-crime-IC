@@ -74,8 +74,6 @@ title_ko: "노바 작전 (Safe-Inet VPN 소탕)"
 type: operation
 updated: 2026-04-27
 ---
-> [!note] This operation is documented from a Tier 3 (cybersecurity media) source. Additional verification from official sources (Tier 1-2) would strengthen data reliability.
-
 ## Summary
 
 **Operation Nova** was an international law enforcement action that took down **Safe-Inet**, a bulletproof VPN service that had operated for over a decade. The operation was led by [[germany-bka|German BKA]] and coordinated by [[europol-ec3|Europol]], with participation from the FBI and law enforcement agencies in the Netherlands, Switzerland, and France. The service had been used by ransomware operators, Magecart web skimmers, and other cybercriminals to conceal their identities and locations.
@@ -103,7 +101,7 @@ Safe-Inet was a VPN service that catered specifically to cybercriminals, providi
 
 ## Legal Framework
 
-Specific legal instruments have not been detailed in available Tier 3 sources.
+Specific legal instruments have not been detailed in available public sources.
 
 ## Operational Timeline
 
@@ -124,7 +122,7 @@ Specific legal instruments have not been detailed in available Tier 3 sources.
 
 ## Cooperation Mechanisms Used
 
-Not detailed in Tier 3 sources. The German-led, Europol-coordinated pattern with FBI involvement is consistent with established EU-US cooperation frameworks.
+Not detailed in public sources. The German-led, Europol-coordinated pattern with FBI involvement is consistent with established EU-US cooperation frameworks.
 
 ## Korean Involvement (한국의 참여)
 

@@ -129,7 +129,7 @@ The Infraud Organization takedown was a U.S. Department of Justice-led enforceme
 
 The action is retained as a canonical operation because the public record describes an operation-level disruption of the Infraud Organization, not merely a single defendant prosecution. The canonical result is 36 defendants charged and 13 arrests. Public reporting also identifies additional foreign arrest and extradition activity, including Sergey Medvedev's arrest in Bangkok on 2018-02-02 at U.S. request.
 
-The core evidentiary record is stronger than the previous page suggested. It is not a Tier 3-only record: the source set includes an official DOJ charging announcement and multiple independent cybercrime or mainstream news accounts that corroborate the forum scale, loss figures, arrest count and undercover-investigation timeline.
+The core evidentiary record is stronger than the previous page suggested. It is not a media-only record: the source set includes an official DOJ charging announcement and multiple independent cybercrime or mainstream news accounts that corroborate the forum scale, loss figures, arrest count and undercover-investigation timeline.
 
 ## Target and Threat Model
 
@@ -217,7 +217,7 @@ Public sources do not identify the exact formal legal-assistance instrument used
 
 The earlier version of this page incorrectly had `source_count: 7` with an empty `sources` list. That made the rendered page and the graph layer disagree with the reference table. This version repairs the source list and replaces numeric parser titles such as `9407622`, `31160664` and `4246130` with source records that have meaningful titles.
 
-The previous page also described the record as Tier 3-only even though official DOJ material exists. The page now records `source_tier: 1` because the canonical fact pattern is anchored in a DOJ charging announcement, then supplemented by specialist and mainstream reporting.
+The previous page also described the record as media-only even though official DOJ material exists. The page now records `source_tier: 1` because the canonical fact pattern is anchored in a DOJ charging announcement, then supplemented by specialist and mainstream reporting.
 
 ## Canonical Operation Assessment
 

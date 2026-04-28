@@ -178,7 +178,7 @@ The crackdown operated through multiple legal channels:
 - **Bilateral border cooperation agreements**: China-Myanmar border law enforcement cooperation framework (specific instrument not publicly identified)
 - **De facto military enforcement**: Operation 1027 operated outside any formal legal framework — the MNDAA is a non-state armed group, not a law enforcement body
 
-> [!warning] Legal status check needed
+> [!info] Legal-basis note
 > The legal basis for China accepting 41,000+ repatriated individuals from a non-state armed group (MNDAA) and the Myanmar military simultaneously is legally ambiguous. No formal extradition treaty between China and Myanmar is publicly known to govern these transfers. The transfers were *likely* conducted under informal bilateral border cooperation arrangements rather than formal legal instruments.
 
 ## Operational Timeline

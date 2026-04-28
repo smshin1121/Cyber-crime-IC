@@ -203,7 +203,7 @@ Ulbricht was charged in the Southern District of New York under multiple federal
 | US-Ireland Extradition Treaty | Basis for Gary Davis extradition (fought from 2014 to 2018) |
 | US-Thailand Extradition Treaty | Basis for Roger Thomas Clark extradition |
 
-> [!warning] Legal status check needed
+> [!info] Legal-basis note
 > The legal basis for the FBI's access to the Silk Road server in Iceland has been disputed. The government initially stated it had an MLAT with Iceland, but an assistant US attorney later acknowledged "this is not technically correct." The actual legal mechanism used to obtain the server image from Icelandic police remains unclear from public records (as noted in court filings during the Ulbricht trial).
 
 ## Operational Timeline
@@ -319,7 +319,7 @@ South Korea was not directly involved in the Silk Road investigation or prosecut
 5. **Bitcoin seizure completeness**: The 2020 civil forfeiture of an additional 69,370 BTC (worth ~$1 billion at 2020 rates) from an unknown individual ("Individual X") who had stolen from Silk Road suggests that not all Silk Road-associated cryptocurrency was accounted for in the original investigation.
 
 > [!note] Source diversity
-> This page draws on DOJ/FBI press releases (Tier 1), ICE press releases (Tier 2), Wikipedia (Tier 3), and secondary reporting. Court filings from United States v. Ulbricht (S1 14 Cr. 68, SDNY) would provide additional primary source material. The Wired source page (2015-05) provides secondary coverage of the sentencing.
+> This page draws on DOJ/FBI press releases (Tier 1), ICE press releases (Tier 2), Wikipedia (non-official source), and secondary reporting. Court filings from United States v. Ulbricht (S1 14 Cr. 68, SDNY) would provide additional primary source material. The Wired source page (2015-05) provides secondary coverage of the sentencing.
 
 <!-- SOURCE_ENRICHMENT_START -->
 

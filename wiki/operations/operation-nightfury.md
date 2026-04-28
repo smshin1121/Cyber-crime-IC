@@ -70,8 +70,6 @@ title_ko: "나이트퓨리 작전 (Magecart/GetBilling)"
 type: operation
 updated: 2026-04-27
 ---
-> [!note] This operation is documented from a Tier 3 (cybersecurity media) source. Additional verification from official sources (Tier 1-2) would strengthen data reliability.
-
 ## Summary
 
 **Operation NightFury** was an INTERPOL-coordinated operation that resulted in the arrest of **3 Indonesian nationals** involved in **Magecart**-style web skimming attacks using the **GetBilling** JavaScript skimmer. The operation involved cooperation between INTERPOL, Indonesian law enforcement, and private sector cybersecurity firm **Group-IB**, which provided critical intelligence.
@@ -96,7 +94,7 @@ Magecart is an umbrella term for cybercriminal groups and techniques that involv
 
 ## Legal Framework
 
-Specific legal instruments not detailed in Tier 3 sources.
+Specific legal instruments not detailed in public sources.
 
 ## Operational Timeline
 

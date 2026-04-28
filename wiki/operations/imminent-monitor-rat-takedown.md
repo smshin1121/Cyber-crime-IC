@@ -106,8 +106,6 @@ crime_types:
   - "[[hacking-ic]]"
   - "[[malware-ic]]"
 ---
-> [!note] This operation is documented from a Tier 3 (cybersecurity media) source. Additional verification from official sources (Tier 1-2) would strengthen data reliability.
-
 ## Summary
 
 In November-December 2019, [[europol-ec3|Europol]] coordinated an international operation that dismantled the infrastructure of **Imminent Monitor**, a Remote Access Trojan (RAT) sold commercially as a legitimate tool but widely used for cybercrime. The operation involved law enforcement from 8 countries and resulted in **13 arrests** and the seizure of **430 devices**. Investigators identified **14,500 buyers** of the RAT across **124 countries**.
@@ -141,7 +139,7 @@ Imminent Monitor was a Remote Access Trojan marketed as a legitimate remote admi
 
 ## Legal Framework
 
-Specific legal instruments have not been detailed in available Tier 3 sources. The coordination through Europol and Eurojust suggests use of EU cooperation mechanisms.
+Specific legal instruments have not been detailed in available public sources. The coordination through Europol and Eurojust suggests use of EU cooperation mechanisms.
 
 ## Operational Timeline
 
@@ -163,7 +161,7 @@ Specific legal instruments have not been detailed in available Tier 3 sources. T
 
 ## Cooperation Mechanisms Used
 
-Details not fully documented in Tier 3 sources. Europol and Eurojust coordination suggests formal EU cooperation channels.
+Details not fully documented in public sources. Europol and Eurojust coordination suggests formal EU cooperation channels.
 
 ## Korean Involvement (한국의 참여)
 

@@ -301,7 +301,7 @@ There is no confirmed direct Korean involvement in the Dridex/Evil Corp operatio
 3. **Yakubets' Russian government ties**: The NCA and Treasury stated that Yakubets "provides direct assistance to the Russian government's malicious cyber efforts," but the specific nature of this assistance has not been publicly detailed. It is unclear whether Yakubets operates under FSB direction or provides services on a transactional basis.
 4. **Evil Corp evolution**: After Dridex, Evil Corp deployed multiple ransomware variants (WastedLocker, Hades, Phoenix, Macaw Locker, potentially LockBit affiliates). Whether subsequent enforcement actions against these ransomware families should be considered extensions of the Dridex operation or separate operations is an open categorization question.
 
-> [!warning] Legal status check needed
+> [!info] Legal-basis note
 > Yakubets and Turashev remain at large as of the last verified date. Their status and the $5 million reward should be verified against current FBI Most Wanted listings.
 
 <!-- SOURCE_ENRICHMENT_START -->

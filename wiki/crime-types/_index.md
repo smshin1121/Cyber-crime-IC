@@ -12,7 +12,7 @@ updated: 2026-04-27
 |------------|----------|----------------------|----------------|--------------------|---------|
 | [[access-device-fraud]] | — | — | — | — | 0 |
 | [[bank-fraud-ic]] | — | — | — | — | 0 |
-| [[banking-trojan-ic]] | cyber-dependent | Yes | — | zeus-spyeye-takedown, banking-trojan-fraud-sentencing-2017 | 0 |
+| [[banking-trojan-ic]] | cyber-dependent | Yes | — | zeus-spyeye-jit-takedown, banking-trojan-fraud-sentencing-2017 | 0 |
 | [[bec-crime-ic]] | — | — | — | — | 0 |
 | [[bec-ic]] | cyber-enabled | Yes | — | franco-israeli-ceo-fraud, operation-jackal, operation-jackal-iii | 6 |
 | [[carding-fraud-ic]] | — | — | — | — | 0 |

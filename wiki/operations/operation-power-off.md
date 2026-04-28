@@ -288,7 +288,7 @@ There is no confirmed direct Korean participation in any phase of Operation Powe
 2. **September 2024 details are sparse**: The 9-domain seizure in September 2024 is referenced in DOJ press releases but with limited detail on participating countries beyond the US. Further primary source confirmation is needed.
 3. **Effectiveness measurement**: No public data exists on whether the overall volume of DDoS-for-hire activity has decreased in response to PowerOFF, versus simply shifting to more resilient platforms (e.g., Tor-based services).
 
-> [!warning] Legal status check needed
+> [!info] Legal-basis note
 > As an ongoing operation, new phases may occur after the date of this page's last update. Verify current status against Europol and DOJ announcements.
 
 <!-- SOURCE_ENRICHMENT_START -->

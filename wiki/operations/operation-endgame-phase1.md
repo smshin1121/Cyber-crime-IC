@@ -176,7 +176,7 @@ By disrupting the dropper ecosystem, law enforcement aimed to break the ransomwa
 
 The operation involved law enforcement and judicial authorities from 13 countries. Arrests were conducted in Armenia (1) and Ukraine (3).
 
-> [!warning] Legal status check needed
+> [!info] Legal-basis note
 > Specific legal bases and treaty provisions for the cross-border enforcement actions need to be identified from additional sources.
 
 ## Operational Timeline

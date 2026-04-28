@@ -246,7 +246,7 @@ The operation involved law enforcement and judicial authorities from at least 15
 - **National criminal law** — arrests in Armenia and Ukraine were executed under domestic legal authority with international coordination
 - **US federal law** — the 16-count indictment against DanaBot operators was filed under US computer fraud and related statutes
 
-> [!warning] Legal status check needed
+> [!info] Legal-basis note
 > The specific treaty provisions invoked for cross-border server seizures (e.g., whether [[second-additional-protocol|Second Additional Protocol]] provisions on direct cooperation with service providers were used) require confirmation from official judicial sources.
 
 ## Operational Timeline
@@ -415,7 +415,7 @@ However, Operation Endgame is relevant to Korean cybersecurity interests in seve
 
 2. **Financial figures:** The relationship between the EUR 69 million in suspect cryptocurrency holdings (Phase 1), the EUR 70 million in blocked crypto wallets, and the EUR 21.2 million cumulative enforcement seizure total is not fully clear. The EUR 69M/70M figures may represent identified assets subject to freeze orders, while EUR 21.2M represents actually seized/forfeited funds.
 
-3. **DanaBot source verification:** The 16 DanaBot indictments and 300,000 infection figure originate primarily from news reporting (Tier 3 sources). Official DOJ indictment text would provide definitive confirmation.
+3. **DanaBot source verification:** The 16 DanaBot indictments and 300,000 infection figure originate primarily from news reporting (public sources). Official DOJ indictment text would provide definitive confirmation.
 
 4. **Reconstitution rates:** How quickly and effectively have the targeted malware families reconstituted after each phase? DanaBot has reportedly resurfaced, but systematic assessment of reconstitution across all 13 targeted families is lacking.
 

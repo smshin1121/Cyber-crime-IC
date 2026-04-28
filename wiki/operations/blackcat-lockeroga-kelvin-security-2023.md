@@ -125,7 +125,7 @@ The page originally combined these events using a placeholder media roundup. The
 - [[ukraine|Ukraine]]
 - [[spain|Spain]]
 
-> [!warning] Legal status check needed
+> [!info] Legal-basis note
 > The complete list of countries involved across all three enforcement actions needs verification.
 
 ## Legal Framework

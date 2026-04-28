@@ -185,7 +185,7 @@ The operation involved judicial actions in multiple jurisdictions:
 - **US authorities** issued indictments (5 total between French and US)
 - **Arrests** executed in Poland and Ukraine at the request of French judicial authorities
 
-> [!warning] Legal status check needed
+> [!info] Legal-basis note
 > Specific legal bases (treaty provisions, domestic authorities) for the cross-border enforcement actions need to be identified from additional sources.
 
 ## Operational Timeline

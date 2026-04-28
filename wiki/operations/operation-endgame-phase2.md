@@ -174,7 +174,7 @@ Canada, Denmark, France, Germany, Netherlands, United Kingdom, United States
 - **18 suspects** added to EU Most Wanted list
 - **EUR 3.5 million** in cryptocurrency seized through court-authorized seizure orders
 
-> [!warning] Legal status check needed
+> [!info] Legal-basis note
 > Specific legal bases for the international arrest warrants and cryptocurrency seizures need to be identified from additional sources.
 
 ## Operational Timeline
@@ -245,7 +245,7 @@ A follow-up enforcement action (row 21, Europol URL) resulted in:
 - How many of the 20 arrest warrant subjects have been subsequently apprehended? (At least 5 per follow-up reporting)
 - How quickly did the targeted malware families reconstitute operations after the takedown?
 - What is the relationship between the EUR 21.2M+ total and the Phase 1 EUR 69M suspect holdings figure?
-- The 16 DanaBot indictments and 300K infection figure come from The Hacker News (Tier 3) — official DOJ source needed for confirmation.
+- The 16 DanaBot indictments and 300K infection figure come from The Hacker News (non-official source) — official DOJ source needed for confirmation.
 
 <!-- SOURCE_ENRICHMENT_START -->
 

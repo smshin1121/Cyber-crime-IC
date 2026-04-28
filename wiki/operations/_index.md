@@ -6,10 +6,10 @@ created: 2026-04-08
 updated: 2026-04-14
 ---
 
-# Operations (112 canonical / 973 absorbed / 1085 records)
+# Operations (111 canonical / 974 absorbed / 1085 records)
 
 <!-- BEGIN GENERATED OPERATIONS INDEX -->
-## Canonical Operations (112)
+## Canonical Operations (111)
 
 | Operation | Case ID | Period | Status | Role | Sources | CI | Tier |
 |-----------|---------|--------|--------|------|---------|----|------|
@@ -23,7 +23,6 @@ updated: 2026-04-14
 | [[zeus-spyeye-jit-takedown]] | CYB-2015-005 | 1 | completed | umbrella | 6 | 3.85 | 2 |
 | [[operation-pleiades]] | CYB-2015-006 | 1 | completed | umbrella | 5 | 2.28 | 2 |
 | [[dridex-operations]] | CYB-2015-007 | 1 | completed | umbrella | 8 | 4.00 | 1 |
-| [[zeus-spyeye-takedown]] | CYB-2015-050 | 1 | completed | umbrella | 6 | 3.85 | 2 |
 | [[darkode-takedown]] | CYB-2015-051 | 1 | completed | umbrella | 5 | 3.75 | 2 |
 | [[operation-avalanche]] | CYB-2016-001 | 1 | completed | umbrella | 7 | 4.00 | 2 |
 | [[ddos-for-hire-sweep-2016]] | CYB-2016-002 | 1 | completed | umbrella | 6 | 2.95 | 2 |
@@ -126,12 +125,13 @@ updated: 2026-04-14
 | [[operation-rewired]] | — | 2 | completed | umbrella | 5 | 4.50 | 1 |
 | [[operation-trojan-shield]] | — | 2 | completed | umbrella | 6 | 4.80 | 1 |
 
-## Absorbed Follow-On Records (973)
+## Absorbed Follow-On Records (974)
 
 These records are retained as traceable prosecution, sentencing, plea, forfeiture, or action-day wrappers. They should not be counted as separate international-cooperation operations unless promoted to canonical records after review.
 
 | Operation | Case ID | Period | Status | Role | Sources | CI | Tier |
 |-----------|---------|--------|--------|------|---------|----|------|
+| [[zeus-spyeye-takedown]] | CYB-2015-050 | 1 | absorbed | absorbed | 1 | 3.85 | 2 |
 | [[banking-trojan-fraud-sentencing-2017]] | CYB-2017-051 | 1 | absorbed | follow-on | 1 | 2.55 | 3 |
 | [[infraud-telusma-sentencing]] | CYB-2022-053 | 3 | absorbed | follow-on | 1 | 4.30 | 1 |
 | [[operation-emotet-disruption-ladybird]] | CYB-FUP-002 | 2 | absorbed | follow-on | 1 | 4.00 | 1 |

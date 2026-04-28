@@ -9,7 +9,7 @@ relevant_legal_frameworks:
 typical_mechanisms: []
 key_organizations: []
 notable_operations:
-  - "[[zeus-spyeye-takedown]]"
+  - "[[zeus-spyeye-jit-takedown]]"
   - "[[banking-trojan-fraud-sentencing-2017]]"
 notable_cases: []
 criminalization_status:
@@ -20,7 +20,7 @@ estimated_annual_loss: ""
 source_count: 0
 sources: []
 created: 2026-04-17
-updated: 2026-04-17
+updated: 2026-04-28
 ---
 
 ## Summary
