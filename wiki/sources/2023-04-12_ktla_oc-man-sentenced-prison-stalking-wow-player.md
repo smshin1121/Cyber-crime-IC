@@ -2,8 +2,8 @@
 type: source
 title: "Orange County man sentenced to prison for stalking prominent 'World of Warcraft' player"
 source_type: news
-publisher: "KTLA"
-author: "Staff"
+publisher: KTLA
+author: Staff
 publish_date: 2023-04-12
 ingest_date: 2026-04-25
 language: en
@@ -17,6 +17,8 @@ key_findings:
   - "$2,544 in restitution ordered"
 collection_url: https://ktla.com/news/local-news/orange-county-man-sentenced-to-prison-for-stalking-prominent-world-of-warcraft-player/
 created: 2026-04-25
+raw_path: raw/news/2023-04-12_ktla_oc-man-sentenced-prison-stalking-wow-player.md
+copyright_policy: summary-only
 ---
 ## Source Summary
 

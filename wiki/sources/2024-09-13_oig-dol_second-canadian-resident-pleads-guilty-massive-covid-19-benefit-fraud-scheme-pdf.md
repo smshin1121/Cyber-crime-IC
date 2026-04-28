@@ -3,7 +3,7 @@ type: source
 title: "Second Canadian resident pleads guilty to massive COVID-19 benefit fraud scheme (PDF)"
 source_type: press-release
 publisher: "DOL Office of Inspector General"
-author: "Staff"
+author: Staff
 publish_date: 2024-09-13
 ingest_date: 2026-04-25
 language: en
@@ -15,8 +15,14 @@ pages_updated:
 key_findings:
   - "DOL OIG parallel press release / republication confirming Fatiu Ismaila Lawal's guilty plea."
   - "Confirms DOL OIG as a co-investigating agency for the unemployment-benefit fraud."
-collection_url: https://www.oig.dol.gov/public/Press%20Releases/Second%20Canadian%20resident%20pleads%20guilty%20to%20massive%20COVID-19%20benefit%20fraud%20scheme_USAO_WD-WA_09132.pdf
+collection_url: "https://www.oig.dol.gov/public/Press%20Releases/Second%20Canadian%20resident%20pleads%20guilty%20to%20massive%20COVID-19%20benefit%20fraud%20scheme_USAO_WD-WA_09132.pdf"
 created: 2026-04-25
+raw_path: raw/government-reports/2024-09-13_oig-dol_second-canadian-resident-pleads-guilty-massive-covid-19-benefit-fraud-scheme-pdf.md
+text_status: source-digest
+storage_mode: source-digest
+content_hash: sha256:c40ab701aa12ed23c3c5465957b7e29979b359ec01a044734cc1e97bdb0c372a
+word_count: 150
+extraction_date: 2026-04-28
 ---
 ## Source Summary
 

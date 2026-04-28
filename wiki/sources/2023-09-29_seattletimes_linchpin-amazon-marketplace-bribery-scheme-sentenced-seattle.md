@@ -3,7 +3,7 @@ type: source
 title: "Linchpin in Amazon marketplace bribery scheme sentenced in Seattle"
 source_type: news
 publisher: "Seattle Times"
-author: "Staff"
+author: Staff
 publish_date: 2023-09-29
 ingest_date: 2026-04-25
 language: en
@@ -19,8 +19,10 @@ collection_url: https://www.seattletimes.com/business/amazon/linchpin-in-amazon-
 created: 2026-04-25
 duplicate_of: "[[2023-09-08_seattletimes_linchpin-amazon-marketplace-bribery-scheme-sentenced-seattle]]"
 duplicate_reason: same_collection_url
-duplicate_key: "https://www.seattletimes.com/business/amazon/linchpin-in-amazon-marketplace-bribery-scheme-sentenced-in-seattle/"
+duplicate_key: https://www.seattletimes.com/business/amazon/linchpin-in-amazon-marketplace-bribery-scheme-sentenced-in-seattle/
 duplicate_normalized_at: 2026-04-26
+raw_path: raw/news/2023-09-29_seattletimes_linchpin-amazon-marketplace-bribery-scheme-sentenced-seattle.md
+copyright_policy: summary-only
 ---
 ## Source Summary
 

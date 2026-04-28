@@ -14,7 +14,7 @@ sensitivity: public
 pages_updated:
   - operation-ten-members-of-international-cyber-fraud-ring-indicted-for-refund-fraud-scheme-targeting-online-retailers
 key_findings:
-  - "This domestic-only U.S. follow-on record has been absorbed into the canonical case page [[ten-members-of-international-cyber-fraud-ring-indicted-for-refund-fraud-scheme-targeting-online-retailers]]. No visible cross-border mechanism is documented, so it is not treated as a separate international-cooperation operation."
+  - "This domestic-only U.S. follow-on record has been absorbed into the canonical case page ten-members-of-international-cyber-fraud-ring-indicted-for-refund-fraud-scheme-targeting-online-retailers. No visible cross-border mechanism is documented, so it is not treated as a separate international-cooperation operation."
 collection_url: https://www.justice.gov/usao-ndok/pr/ten-members-international-cyber-fraud-ring-indicted-refund-fraud-scheme-targeting
 created: 2026-04-17
 text_status: parsed

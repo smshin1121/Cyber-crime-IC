@@ -3,7 +3,7 @@ type: source
 title: "Washington Man Charged With Cyberstalking"
 raw_path: raw/news/2022-07-16_wjpa_washington-man-charged-with-cyberstalking.md
 source_type: news
-publisher: WJPA 95.3 FM/1450AM
+publisher: "WJPA 95.3 FM/1450AM"
 author: ""
 publish_date: 2022-07-16
 ingest_date: 2026-04-25
@@ -19,6 +19,7 @@ key_findings:
   - "Crimes committed while residing in Pittsburgh halfway house."
 collection_url: https://wjpa.com/news-archive/washington-man-charged-with-cyberstalking/
 created: 2026-04-25
+copyright_policy: summary-only
 ---
 ## Source Summary
 

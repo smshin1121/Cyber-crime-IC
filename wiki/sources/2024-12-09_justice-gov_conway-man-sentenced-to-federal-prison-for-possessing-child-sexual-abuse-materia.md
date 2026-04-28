@@ -14,7 +14,7 @@ sensitivity: public
 pages_updated:
   - operation-us-v-conway-man
 key_findings:
-  - "This domestic-only U.S. follow-on record has been absorbed into the canonical case page [[us-v-conway-man]]. No visible cross-border mechanism is documented, so it is not treated as a separate international-cooperation operation."
+  - "This domestic-only U.S. follow-on record has been absorbed into the canonical case page us-v-conway-man. No visible cross-border mechanism is documented, so it is not treated as a separate international-cooperation operation."
 collection_url: https://www.justice.gov/usao-sc/pr/conway-man-sentenced-federal-prison-possessing-child-sexual-abuse-materials
 created: 2026-04-17
 text_status: parsed

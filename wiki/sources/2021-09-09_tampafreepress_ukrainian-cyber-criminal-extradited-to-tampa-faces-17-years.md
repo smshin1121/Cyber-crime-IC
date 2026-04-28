@@ -3,7 +3,7 @@ type: source
 title: "Ukrainian Cyber Criminal Extradited To Tampa, Faces 17-Years In Federal Prison"
 source_type: news
 publisher: "Tampa Free Press"
-author: "Staff"
+author: Staff
 publish_date: 2021-09-09
 ingest_date: 2026-04-25
 language: en
@@ -17,6 +17,8 @@ key_findings:
   - "Operated a brute-force botnet capable of decrypting at least 2,000 logins per week, sold on a dark web marketplace under the alias 'Mars'."
 collection_url: https://www.tampafp.com/ukrainian-cyber-criminal-extradited-to-tampa-faces-17-years-in-federal-prison/
 created: 2026-04-25
+raw_path: raw/news/2021-09-09_tampafreepress_ukrainian-cyber-criminal-extradited-to-tampa-faces-17-years.md
+copyright_policy: summary-only
 ---
 ## Source Summary
 

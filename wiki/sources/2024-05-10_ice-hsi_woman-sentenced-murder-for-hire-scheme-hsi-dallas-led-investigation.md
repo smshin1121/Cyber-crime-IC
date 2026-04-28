@@ -17,6 +17,13 @@ key_findings:
   - "Bitcoin-funded murder-for-hire arranged via the dark web; 9-year federal sentence imposed May 2024."
 collection_url: https://www.ice.gov/news/releases/woman-sentenced-murder-hire-scheme-following-hsi-dallas-led-investigation
 created: 2026-04-25
+raw_path: raw/press-releases/2024-05-10_ice-hsi_woman-sentenced-murder-for-hire-scheme-hsi-dallas-led-investigation.md
+text_status: parsed
+content_hash: sha256:815d604c6051d6ec118360c2c5b8d68570187c59853fcfc662344f4bbd00d437
+word_count: 839
+extraction_date: 2026-04-28
+last_fetcher: curl_cffi
+storage_mode: fulltext
 ---
 ## Source Summary
 

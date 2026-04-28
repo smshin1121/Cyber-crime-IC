@@ -13,8 +13,6 @@ credibility: confirmed
 sensitivity: public
 pages_updated:
 
-key_findings:
-  - "Secure .gov websites use HTTPS A lock ( Lock Locked padlock ) or https:// means you’ve safely connected to the .gov website. Share sensitive information only on official, secure websites."
 collection_url: https://www.justice.gov/usao-wdwa/pr/everett-man-indicted-cyberstalking-and-threatening-former-romantic-partner
 created: 2026-04-18
 defendant_names:
@@ -22,8 +20,13 @@ defendant_names:
 updated: 2026-04-18
 duplicate_of: "[[2022-06-16_justice-gov_everett-man-indicted-for-cyberstalking-and-threatening-former-romantic-partner]]"
 duplicate_reason: same_collection_url
-duplicate_key: "https://www.justice.gov/usao-wdwa/pr/everett-man-indicted-cyberstalking-and-threatening-former-romantic-partner"
+duplicate_key: https://www.justice.gov/usao-wdwa/pr/everett-man-indicted-cyberstalking-and-threatening-former-romantic-partner
 duplicate_normalized_at: 2026-04-26
+text_status: source-digest
+storage_mode: source-digest
+content_hash: sha256:913abb4c3759326011d284299aead7a5b40677e5de103842cac97e423d533c81
+word_count: 104
+extraction_date: 2026-04-28
 ---
 ## Source Summary
 

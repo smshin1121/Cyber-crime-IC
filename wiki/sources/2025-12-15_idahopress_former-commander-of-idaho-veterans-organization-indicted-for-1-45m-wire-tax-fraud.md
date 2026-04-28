@@ -3,7 +3,7 @@ type: source
 title: "Former commander of Idaho veterans organization indicted for $1.45M wire, tax fraud"
 source_type: news
 publisher: "Idaho Press"
-author: "Staff"
+author: Staff
 publish_date: 2025-12-15
 ingest_date: 2026-04-25
 language: en
@@ -18,6 +18,8 @@ key_findings:
   - "Notes $100,000 missing donor endowment fund"
 collection_url: https://www.idahopress.com/news/crime_courts/former-commander-of-idaho-veterans-organization-indicted-for-1-45m-wire-tax-fraud/article_0116709e-bf8d-49c6-8c7f-d4d637cbc0ee.html
 created: 2026-04-25
+raw_path: raw/news/2025-12-15_idahopress_former-commander-of-idaho-veterans-organization-indicted-for-1-45m-wire-tax-fraud.md
+copyright_policy: summary-only
 ---
 ## Source Summary
 

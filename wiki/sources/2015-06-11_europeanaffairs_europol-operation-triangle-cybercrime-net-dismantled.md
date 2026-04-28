@@ -12,11 +12,12 @@ reliability: medium
 credibility: reported
 sensitivity: public
 pages_updated:
-  []
+
 key_findings:
   - "European Affairs Magazine used the name Operation Triangle and added detail on man-in-the-middle tactics, victim companies and suspect nationalities."
 collection_url: https://www.europeanaffairs.it/blog/2015/06/11/europol-operation-triangle-cybercrime-net-dismantled/
 created: 2026-04-23
+copyright_policy: summary-only
 ---
 ## Source Summary
 

@@ -3,7 +3,7 @@ type: source
 title: "Dominican national facing deportation for third time"
 source_type: news
 publisher: "ABC6 Providence"
-author: "Staff"
+author: Staff
 publish_date: 2025-06-12
 ingest_date: 2026-04-25
 language: en
@@ -16,6 +16,8 @@ key_findings:
   - "Local Providence ABC6 indictment-stage coverage of Herrera-De Los Santos."
 collection_url: https://www.abc6.com/dominican-national-facing-deportation-for-third-time/
 created: 2026-04-25
+raw_path: raw/news/2025-06-12_abc6_dominican-national-facing-deportation-for-third-time.md
+copyright_policy: summary-only
 ---
 ## Source Summary
 

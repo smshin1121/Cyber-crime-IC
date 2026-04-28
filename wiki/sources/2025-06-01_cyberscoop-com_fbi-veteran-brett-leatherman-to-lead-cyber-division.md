@@ -14,7 +14,7 @@ sensitivity: public
 pages_updated:
 
 key_findings:
-  - "The FBI Cyber Division (사이버과) is the primary investigative arm of the [[united-states|United States]] federal government for cyber threats. Established in 2002 in the wake of the September 11 attacks and growing awareness of cyber vulnerabilities, the division coordinates and conducts domestic and international investigations targeting state-sponsored intrusions, ransomware groups, major cybercriminal networks, and online fraud schemes."
+  - "The FBI Cyber Division (사이버과) is the primary investigative arm of the United States federal government for cyber threats. Established in 2002 in the wake of the September 11 attacks and growing awareness of cyber vulnerabilities, the division coordinates and conducts domestic and international investigations targeting state-sponsored intrusions, ransomware groups, major cybercriminal networks, and online fraud schemes."
 collection_url: https://cyberscoop.com/fbi-cyber-division-brett-leatherman-assistant-director/
 created: 2026-04-17
 text_status: summarized

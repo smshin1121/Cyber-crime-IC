@@ -22,8 +22,13 @@ defendant_names:
 updated: 2026-04-18
 duplicate_of: "[[2023-05-04_justice-gov_virginia-woman-sentenced-to-prison-for-fraudulently-ordering-cell-phones-on-beha]]"
 duplicate_reason: same_collection_url
-duplicate_key: "https://www.justice.gov/usao-dc/pr/virginia-woman-sentenced-prison-fraudulently-ordering-cell-phones-behalf-her-non-profit"
+duplicate_key: https://www.justice.gov/usao-dc/pr/virginia-woman-sentenced-prison-fraudulently-ordering-cell-phones-behalf-her-non-profit
 duplicate_normalized_at: 2026-04-26
+text_status: source-digest
+storage_mode: source-digest
+content_hash: sha256:af3ed4e71f6584def4948525d5093ae5509a08a81f7147fad5854d301dd8b889
+word_count: 134
+extraction_date: 2026-04-28
 ---
 ## Source Summary
 

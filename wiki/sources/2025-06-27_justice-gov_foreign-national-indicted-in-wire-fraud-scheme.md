@@ -14,7 +14,7 @@ sensitivity: public
 pages_updated:
   - operation-foreign-national-indicted-in-wire-fraud-scheme
 key_findings:
-  - "Foreign National Indicted In Wire Fraud Scheme Enforcement Action is a defendant-specific enforcement action page derived from [[foreign-national-indicted-in-wire-fraud-scheme]]. It captures the prosecutorial or seizure stage reflected in the linked case record and preserves the operation-side catalog entry for this follow-on action."
+  - "Foreign National Indicted In Wire Fraud Scheme Enforcement Action is a defendant-specific enforcement action page derived from foreign-national-indicted-in-wire-fraud-scheme. It captures the prosecutorial or seizure stage reflected in the linked case record and preserves the operation-side catalog entry for this follow-on action."
 collection_url: https://www.justice.gov/usao-mdfl/pr/foreign-national-indicted-wire-fraud-scheme
 created: 2026-04-17
 text_status: parsed

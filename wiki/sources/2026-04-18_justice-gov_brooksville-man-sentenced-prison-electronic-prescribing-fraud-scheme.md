@@ -13,8 +13,6 @@ credibility: confirmed
 sensitivity: public
 pages_updated:
 
-key_findings:
-  - "Secure .gov websites use HTTPS A lock ( Lock Locked padlock ) or https:// means you’ve safely connected to the .gov website. Share sensitive information only on official, secure websites."
 collection_url: https://www.justice.gov/usao-mdfl/pr/brooksville-man-sentenced-prison-electronic-prescribing-fraud-scheme
 created: 2026-04-18
 updated: 2026-04-18
@@ -23,8 +21,13 @@ defendant_names:
   - "Brooksville Man"
 duplicate_of: "[[2025-03-26_justice-gov_brooksville-man-sentenced-to-prison-for-electronic-prescribing-fraud-scheme]]"
 duplicate_reason: same_collection_url
-duplicate_key: "https://www.justice.gov/usao-mdfl/pr/brooksville-man-sentenced-prison-electronic-prescribing-fraud-scheme"
+duplicate_key: https://www.justice.gov/usao-mdfl/pr/brooksville-man-sentenced-prison-electronic-prescribing-fraud-scheme
 duplicate_normalized_at: 2026-04-26
+text_status: source-digest
+storage_mode: source-digest
+content_hash: sha256:53b9f28a3c628721a426904790ad7361000145ab2cbedab772a455b8ec943293
+word_count: 114
+extraction_date: 2026-04-28
 ---
 ## Source Summary
 

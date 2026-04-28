@@ -3,7 +3,7 @@ type: source
 title: "Court docs: Internet sleuths assist feds in alleged torture, killing of animals by Kokomo woman"
 source_type: news
 publisher: "Fox 59 Indianapolis"
-author: "Staff"
+author: Staff
 publish_date: 2020-07-15
 ingest_date: 2026-04-25
 language: en
@@ -18,6 +18,8 @@ key_findings:
   - "Notes online sleuths assisted FBI investigation"
 collection_url: https://fox59.com/news/court-docs-internet-sleuths-assist-feds-in-alleged-torture-killing-animals-by-kokomo-woman/
 created: 2026-04-25
+raw_path: raw/news/2020-07-15_fox59_court-docs-internet-sleuths-assist-feds-alleged-torture-killing-animals-kokomo-woman.md
+copyright_policy: summary-only
 ---
 ## Source Summary
 

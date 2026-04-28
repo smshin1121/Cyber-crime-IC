@@ -13,8 +13,6 @@ credibility: confirmed
 sensitivity: public
 pages_updated:
 
-key_findings:
-  - "Secure .gov websites use HTTPS A lock ( Lock Locked padlock ) or https:// means you’ve safely connected to the .gov website. Share sensitive information only on official, secure websites."
 collection_url: https://www.justice.gov/usao-wdwa/pr/two-everett-residents-charged-federally-drug-distribution-activities-involving
 created: 2026-04-18
 defendant_names:
@@ -23,8 +21,13 @@ defendant_names:
 updated: 2026-04-18
 duplicate_of: "[[2025-05-09_justice-gov_two-everett-residents-charged-federally-for-drug-distribution-activities-involvi]]"
 duplicate_reason: same_collection_url
-duplicate_key: "https://www.justice.gov/usao-wdwa/pr/two-everett-residents-charged-federally-drug-distribution-activities-involving"
+duplicate_key: https://www.justice.gov/usao-wdwa/pr/two-everett-residents-charged-federally-drug-distribution-activities-involving
 duplicate_normalized_at: 2026-04-26
+text_status: source-digest
+storage_mode: source-digest
+content_hash: sha256:27539cfdf241ff3c98cc5ae95e083094b1a2eb5378bec31d3fd4e3f9ac10db46
+word_count: 108
+extraction_date: 2026-04-28
 ---
 ## Source Summary
 

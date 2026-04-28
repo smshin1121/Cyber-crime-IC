@@ -14,7 +14,7 @@ sensitivity: public
 pages_updated:
 
 key_findings:
-  - "Indonesia is **not a party** to the [[budapest-convention|Budapest Convention]], though its primary cybercrime statute — **Law No. 11 of 2008 on Electronic Information and Transactions (ITE Law)** — was drafted with reference to Budapest Convention categories and is broadly aligned with its substantive offences."
+  - "Indonesia is **not a party** to the Budapest Convention, though its primary cybercrime statute — **Law No. 11 of 2008 on Electronic Information and Transactions (ITE Law)** — was drafted with reference to Budapest Convention categories and is broadly aligned with its substantive offences."
 collection_url: https://iclg.com/practice-areas/cybersecurity-laws-and-regulations/indonesia
 created: 2026-04-17
 text_status: summarized

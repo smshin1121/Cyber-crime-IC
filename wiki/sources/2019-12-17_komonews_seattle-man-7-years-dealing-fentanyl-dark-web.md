@@ -3,7 +3,7 @@ type: source
 title: "Seattle man gets 7 years for dealing fentanyl on dark web"
 source_type: news
 publisher: "KOMO News"
-author: "Staff"
+author: Staff
 publish_date: 2019-12-17
 ingest_date: 2026-04-25
 language: en
@@ -17,6 +17,8 @@ key_findings:
   - "Confirms 2,300+ AlphaBay and Dream Market sales"
 collection_url: https://komonews.com/news/local/seattle-man-gets-8-years-for-dealing-fentanyl-on-dark-web
 created: 2026-04-25
+raw_path: raw/news/2019-12-17_komonews_seattle-man-7-years-dealing-fentanyl-dark-web.md
+copyright_policy: summary-only
 ---
 ## Source Summary
 

@@ -12,11 +12,16 @@ reliability: high
 credibility: confirmed
 sensitivity: public
 pages_updated:
-  []
+
 key_findings:
   - "The European Cybercrime Centre (EC3) is Europol's dedicated unit for combating cybercrime across the EU. Established in January 2013, it serves as the **central coordination hub** for major EU cybercrime operations, providing analytical, forensic, and operational support to member states' investigations."
 collection_url: https://www.europol.europa.eu/about-europol/european-cybercrime-centre-ec3
 created: 2026-04-17
+text_status: source-digest
+storage_mode: source-digest
+content_hash: sha256:ca2d150004cea29ce20e1f1862f5c76368f1eb67ff8dbcae1e08bcfe2483bcef
+word_count: 179
+extraction_date: 2026-04-28
 ---
 ## Source Summary
 

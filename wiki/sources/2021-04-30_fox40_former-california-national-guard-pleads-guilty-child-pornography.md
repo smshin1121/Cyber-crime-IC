@@ -3,7 +3,7 @@ type: source
 title: "Former California National Guard member pleads guilty to child pornography charges"
 source_type: news
 publisher: "FOX40 (KTXL Sacramento)"
-author: "Staff"
+author: Staff
 publish_date: 2021-04-30
 ingest_date: 2026-04-25
 language: en
@@ -17,6 +17,8 @@ key_findings:
   - "Confirms Qatar-deployment fact pattern."
 collection_url: https://fox40.com/news/local-news/former-california-national-guard-member-pleads-guilty-to-child-pornography-charges/
 created: 2026-04-25
+raw_path: raw/news/2021-04-30_fox40_former-california-national-guard-pleads-guilty-child-pornography.md
+copyright_policy: summary-only
 ---
 ## Source Summary
 

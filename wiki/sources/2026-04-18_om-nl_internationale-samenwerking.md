@@ -23,8 +23,15 @@ key_findings:
 created: 2026-04-18
 duplicate_of: "[[2026-04-17_om-nl_internationale-samenwerking]]"
 duplicate_reason: same_collection_url
-duplicate_key: "https://www.om.nl/onderwerpen/internationale-samenwerking"
+duplicate_key: https://www.om.nl/onderwerpen/internationale-samenwerking
 duplicate_normalized_at: 2026-04-26
+raw_path: raw/government-reports/2026-04-18_om-nl_internationale-samenwerking.md
+text_status: summarized
+storage_mode: summary-only
+content_hash: sha256:c09efac7b1ce3305aaf7d1f4d857a8c1aff6f633e455ecc07e595603e14e0521
+word_count: 172
+extraction_date: 2026-04-27
+copyright_policy: summary-only
 ---
 ## Source Summary
 

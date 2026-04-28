@@ -13,8 +13,6 @@ credibility: confirmed
 sensitivity: public
 pages_updated:
 
-key_findings:
-  - "Secure .gov websites use HTTPS A lock ( Lock Locked padlock ) or https:// means you’ve safely connected to the .gov website. Share sensitive information only on official, secure websites."
 collection_url: https://www.justice.gov/usao-sdny/pr/uk-citizen-sentenced-five-years-prison-cybercrime-offenses
 created: 2026-04-18
 updated: 2026-04-18
@@ -22,8 +20,13 @@ defendant_names:
   - "To Five Years In"
 duplicate_of: "[[2023-06-23_justice-gov_u-k-citizen-sentenced-to-five-years-in-prison-for-cybercrime-offenses]]"
 duplicate_reason: same_collection_url
-duplicate_key: "https://www.justice.gov/usao-sdny/pr/uk-citizen-sentenced-five-years-prison-cybercrime-offenses"
+duplicate_key: https://www.justice.gov/usao-sdny/pr/uk-citizen-sentenced-five-years-prison-cybercrime-offenses
 duplicate_normalized_at: 2026-04-26
+text_status: source-digest
+storage_mode: source-digest
+content_hash: sha256:d28a8a63f6f3dc78696e5c89eed543ef279f635f20e6507af849d4aa227a89dd
+word_count: 120
+extraction_date: 2026-04-28
 ---
 ## Source Summary
 

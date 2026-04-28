@@ -13,15 +13,18 @@ credibility: confirmed
 sensitivity: public
 pages_updated:
 
-key_findings:
-  - "Secure .gov websites use HTTPS A lock ( Lock Locked padlock ) or https:// means you’ve safely connected to the .gov website. Share sensitive information only on official, secure websites."
 collection_url: https://www.justice.gov/opa/pr/major-computer-hacking-forum-dismantled
 created: 2026-04-17
 updated: 2026-04-18
 duplicate_of: "[[2015-07-15_justice-gov_dd4cf514-2b05-11e5-a5ea-cf74396e59ec-story]]"
 duplicate_reason: same_collection_url
-duplicate_key: "https://www.justice.gov/opa/pr/major-computer-hacking-forum-dismantled"
+duplicate_key: https://www.justice.gov/opa/pr/major-computer-hacking-forum-dismantled
 duplicate_normalized_at: 2026-04-26
+text_status: source-digest
+storage_mode: source-digest
+content_hash: sha256:79627993178ad8d75210fdded74cd6cccadf4e3b403348dc458273fa50a5ed6b
+word_count: 136
+extraction_date: 2026-04-28
 ---
 ## Source Summary
 

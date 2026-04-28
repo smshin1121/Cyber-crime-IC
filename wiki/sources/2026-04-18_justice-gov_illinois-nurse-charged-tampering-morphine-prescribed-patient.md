@@ -13,8 +13,6 @@ credibility: confirmed
 sensitivity: public
 pages_updated:
 
-key_findings:
-  - "Secure .gov websites use HTTPS A lock ( Lock Locked padlock ) or https:// means you’ve safely connected to the .gov website. Share sensitive information only on official, secure websites."
 collection_url: https://www.justice.gov/usao-ndil/pr/illinois-nurse-charged-tampering-morphine-prescribed-patient
 created: 2026-04-18
 updated: 2026-04-18
@@ -23,8 +21,13 @@ defendant_names:
   - "Illinois Nurse"
 duplicate_of: "[[2023-12-21_justice-gov_illinois-nurse-charged-with-tampering-with-morphine-prescribed-to-patient]]"
 duplicate_reason: same_collection_url
-duplicate_key: "https://www.justice.gov/usao-ndil/pr/illinois-nurse-charged-tampering-morphine-prescribed-patient"
+duplicate_key: https://www.justice.gov/usao-ndil/pr/illinois-nurse-charged-tampering-morphine-prescribed-patient
 duplicate_normalized_at: 2026-04-26
+text_status: source-digest
+storage_mode: source-digest
+content_hash: sha256:77597ae1517c58e2277e1769bb00d946c8de3171719333d5940dcdc9fa7746a1
+word_count: 119
+extraction_date: 2026-04-28
 ---
 ## Source Summary
 

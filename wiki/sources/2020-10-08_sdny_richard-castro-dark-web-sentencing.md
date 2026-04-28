@@ -13,8 +13,6 @@ credibility: confirmed
 sensitivity: public
 pages_updated:
 
-key_findings:
-  - "Secure .gov websites use HTTPS A lock ( Lock Locked padlock ) or https:// means you’ve safely connected to the .gov website. Share sensitive information only on official, secure websites."
 collection_url: https://www.justice.gov/usao-sdny/pr/prolific-dark-web-dealer-carfentanil-and-fentanyl-sentenced-17-years-prison
 created: 2026-04-17
 defendant_names:
@@ -22,8 +20,13 @@ defendant_names:
 updated: 2026-04-18
 duplicate_of: "[[2020-10-08_justice-gov_prolific-dark-web-dealer-of-carfentanil-and-fentanyl-sentenced-to-17-years-in-pr]]"
 duplicate_reason: same_collection_url
-duplicate_key: "https://www.justice.gov/usao-sdny/pr/prolific-dark-web-dealer-carfentanil-and-fentanyl-sentenced-17-years-prison"
+duplicate_key: https://www.justice.gov/usao-sdny/pr/prolific-dark-web-dealer-carfentanil-and-fentanyl-sentenced-17-years-prison
 duplicate_normalized_at: 2026-04-26
+text_status: source-digest
+storage_mode: source-digest
+content_hash: sha256:c12d71c5cf8cea4916f944b5e9f64900e077b6b14851de8f2fdc8eb484107801
+word_count: 155
+extraction_date: 2026-04-28
 ---
 ## Source Summary
 

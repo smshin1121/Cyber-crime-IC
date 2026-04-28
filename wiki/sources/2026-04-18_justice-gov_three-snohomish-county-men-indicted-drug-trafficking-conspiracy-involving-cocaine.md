@@ -13,8 +13,6 @@ credibility: confirmed
 sensitivity: public
 pages_updated:
 
-key_findings:
-  - "Secure .gov websites use HTTPS A lock ( Lock Locked padlock ) or https:// means you’ve safely connected to the .gov website. Share sensitive information only on official, secure websites."
 collection_url: https://www.justice.gov/usao-wdwa/pr/three-snohomish-county-men-indicted-drug-trafficking-conspiracy-involving-cocaine
 created: 2026-04-18
 defendant_names:
@@ -23,8 +21,13 @@ defendant_names:
 updated: 2026-04-18
 duplicate_of: "[[2025-04-08_justice-gov_three-snohomish-county-men-indicted-for-drug-trafficking-conspiracy-involving-co]]"
 duplicate_reason: same_collection_url
-duplicate_key: "https://www.justice.gov/usao-wdwa/pr/three-snohomish-county-men-indicted-drug-trafficking-conspiracy-involving-cocaine"
+duplicate_key: https://www.justice.gov/usao-wdwa/pr/three-snohomish-county-men-indicted-drug-trafficking-conspiracy-involving-cocaine
 duplicate_normalized_at: 2026-04-26
+text_status: source-digest
+storage_mode: source-digest
+content_hash: sha256:1225bbeeb3eed03b79783a4fe644bc3485bc8539f80c2e7d4741709f7d775a5e
+word_count: 118
+extraction_date: 2026-04-28
 ---
 ## Source Summary
 

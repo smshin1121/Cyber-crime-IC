@@ -3,7 +3,7 @@ type: source
 title: "Central Texas man sentenced in child pornography case"
 source_type: news
 publisher: "KXAN (Austin)"
-author: "Staff"
+author: Staff
 publish_date: 2023-11-06
 ingest_date: 2026-04-25
 language: en
@@ -17,6 +17,8 @@ key_findings:
   - "KXAN sentencing confirmation; Bertram, TX defendant; Boston federal court."
 collection_url: https://www.kxan.com/news/crime/bertram-man-sentenced-in-child-pornography-case/
 created: 2026-04-25
+raw_path: raw/news/2023-11-06_kxan_bertram-man-sentenced-in-child-pornography-case.md
+copyright_policy: summary-only
 ---
 ## Source Summary
 

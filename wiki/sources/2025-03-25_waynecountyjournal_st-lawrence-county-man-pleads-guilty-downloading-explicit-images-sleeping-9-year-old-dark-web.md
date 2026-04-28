@@ -3,7 +3,7 @@ type: source
 title: "St. Lawrence County Man Pleads Guilty to Downloading Explicit Images, Videos of Sleeping 9-Year-Old from Dark Web"
 source_type: news
 publisher: "Wayne County Journal"
-author: "Staff"
+author: Staff
 publish_date: 2025-03-25
 ingest_date: 2026-04-25
 language: en
@@ -17,6 +17,8 @@ key_findings:
   - "Emphasizes dark web acquisition element"
 collection_url: https://www.waynecountyjournal.com/p/st-lawrence-county-man-pleads-guilty
 created: 2026-04-25
+raw_path: raw/news/2025-03-25_waynecountyjournal_st-lawrence-county-man-pleads-guilty-downloading-explicit-images-sleeping-9-year-old-dark-web.md
+copyright_policy: summary-only
 ---
 ## Source Summary
 

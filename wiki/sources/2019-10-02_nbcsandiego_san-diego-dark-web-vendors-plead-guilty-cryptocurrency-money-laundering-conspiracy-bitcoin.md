@@ -3,7 +3,7 @@ type: source
 title: "San Diego Dark Web Vendors Plead Guilty to Cryptocurrency Money Laundering Conspiracy"
 source_type: news
 publisher: "NBC 7 San Diego"
-author: "Staff"
+author: Staff
 publish_date: 2019-10-02
 ingest_date: 2026-04-25
 language: en
@@ -18,6 +18,8 @@ key_findings:
   - "Confirms HSI lead investigative role"
 collection_url: https://www.nbcsandiego.com/news/local/san-diego-dark-web-vendors-plead-guilty-to-cryptocurrency-money-laundering-conspiracy-bitcoin/177043/
 created: 2026-04-25
+raw_path: raw/news/2019-10-02_nbcsandiego_san-diego-dark-web-vendors-plead-guilty-cryptocurrency-money-laundering-conspiracy-bitcoin.md
+copyright_policy: summary-only
 ---
 ## Source Summary
 

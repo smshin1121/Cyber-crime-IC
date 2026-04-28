@@ -14,13 +14,14 @@ sensitivity: public
 pages_updated:
   - operation-stream-kidflix
 key_findings:
-  - "**Operation Stream** was a Germany-led, [[europol-ec3|Europol]]-coordinated operation that dismantled **Kidflix**, a major dark-web child sexual abuse material streaming platform. The public record supports a long-running investigation from 2022 to March 2025, a server takedown in the [[netherlands|Netherlands]], and worldwide suspect identification and arrests tied to the platform's financial and hosting infrastructure."
+  - "**Operation Stream** was a Germany-led, Europol-coordinated operation that dismantled **Kidflix**, a major dark-web child sexual abuse material streaming platform. The public record supports a long-running investigation from 2022 to March 2025, a server takedown in the Netherlands, and worldwide suspect identification and arrests tied to the platform's financial and hosting infrastructure."
 collection_url: https://securityaffairs.com/176154/cyber-crime/europol-led-op-shuts-down-csam-platform-kidflix.html
 created: 2026-04-17
 duplicate_of: "[[2025-04-04_europol_operation-stream-kidflix-takedown]]"
 duplicate_reason: same_collection_url
-duplicate_key: "https://securityaffairs.com/176154/cyber-crime/europol-led-op-shuts-down-csam-platform-kidflix.html"
+duplicate_key: https://securityaffairs.com/176154/cyber-crime/europol-led-op-shuts-down-csam-platform-kidflix.html
 duplicate_normalized_at: 2026-04-26
+copyright_policy: summary-only
 ---
 ## Source Summary
 

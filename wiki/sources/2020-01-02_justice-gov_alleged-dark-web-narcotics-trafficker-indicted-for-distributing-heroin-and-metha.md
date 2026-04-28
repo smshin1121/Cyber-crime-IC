@@ -14,13 +14,17 @@ sensitivity: public
 pages_updated:
   - operation-dark-web-narcotics-trafficker-sentenced-to-96-months-in-prison-for-distributing-fentanyl-heroin-methamphetamin
 key_findings:
-  - "This page captures the defendant-specific enforcement sequence against Joanna De Alba, also known as `RaptureReloaded`, for selling narcotics over the Wall Street Market dark-web marketplace in exchange for cryptocurrency. The public record shows a progression from indictment in January 2020 to guilty plea in April 2021 and sentencing in November 2021."
+  - "This page captures the defendant-specific enforcement sequence against Joanna De Alba, also known as RaptureReloaded, for selling narcotics over the Wall Street Market dark-web marketplace in exchange for cryptocurrency. The public record shows a progression from indictment in January 2020 to guilty plea in April 2021 and sentencing in November 2021."
 collection_url: https://www.justice.gov/usao-edny/pr/alleged-dark-web-narcotics-trafficker-indicted-distributing-heroin-and-methamphetamine
 created: 2026-04-17
 duplicate_of: "[[2020-01-02_justice-gov_alleged-dark-web-narcotics-trafficker-indicted-distributing-heroin-and-methamphetamine]]"
 duplicate_reason: same_collection_url
-duplicate_key: "https://www.justice.gov/usao-edny/pr/alleged-dark-web-narcotics-trafficker-indicted-distributing-heroin-and-methamphetamine"
+duplicate_key: https://www.justice.gov/usao-edny/pr/alleged-dark-web-narcotics-trafficker-indicted-distributing-heroin-and-methamphetamine
 duplicate_normalized_at: 2026-04-26
+text_status: parsed
+content_hash: sha256:6a00e993c054fe6266cc110f3af589ecdc359f064bf184670909d1e28aeca67c
+word_count: 1117
+extraction_date: 2026-04-25
 ---
 ## Source Summary
 

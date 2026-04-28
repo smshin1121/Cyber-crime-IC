@@ -22,8 +22,15 @@ key_findings:
 created: 2026-04-18
 duplicate_of: "[[2019-09-30_arstechnica-com_german-police-seize-bulletproof-hosting-data-center-in-former-nato-bunker]]"
 duplicate_reason: same_collection_url
-duplicate_key: "https://arstechnica.com/information-technology/2019/09/german-police-seize-bulletproof-hosting-data-center-in-former-nato-bunker/"
+duplicate_key: https://arstechnica.com/information-technology/2019/09/german-police-seize-bulletproof-hosting-data-center-in-former-nato-bunker/
 duplicate_normalized_at: 2026-04-26
+raw_path: raw/news/2019-09-30_arstechnica_com_cyberbunker-raid.md
+text_status: summarized
+storage_mode: summary-only
+content_hash: sha256:f362b35182bfacbfe488acfe0502d310f5ce6fe25c375c7334659122a3c7d0ee
+word_count: 185
+extraction_date: 2026-04-27
+copyright_policy: summary-only
 ---
 ## Source Summary
 

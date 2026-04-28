@@ -22,8 +22,13 @@ defendant_names:
 updated: 2026-04-18
 duplicate_of: "[[2022-09-06_justice-gov_man-who-served-in-army-under-an-assumed-name-sentenced-to-time-served-and-commun]]"
 duplicate_reason: same_collection_url
-duplicate_key: "https://www.justice.gov/usao-edmo/pr/man-who-served-army-under-assumed-name-sentenced-time-served-and-community-service"
+duplicate_key: https://www.justice.gov/usao-edmo/pr/man-who-served-army-under-assumed-name-sentenced-time-served-and-community-service
 duplicate_normalized_at: 2026-04-26
+text_status: source-digest
+storage_mode: source-digest
+content_hash: sha256:6d501b3f5817603f763bed91f1d831db7e9bbab7eddaafda8340670acea2fcfe
+word_count: 137
+extraction_date: 2026-04-28
 ---
 ## Source Summary
 

@@ -1,20 +1,20 @@
 ---
 type: source
 title: "INTERPOL: Report highlights key cyberthreats in Southeast Asia (Goldfish Alpha / Night Fury)"
-collection_url: "https://www.interpol.int/News-and-Events/News/2020/INTERPOL-report-highlights-key-cyberthreats-in-Southeast-Asia"
-collection_domain: "interpol.int"
-source_type: "press-release"
-publisher: "INTERPOL"
-publish_date: "2020-02-17"
-ingest_date: "2026-04-08"
-enriched_date: "2026-04-10"
-language: "en"
-reliability: "high"
-credibility: "confirmed"
-sensitivity: "public"
+collection_url: https://www.interpol.int/News-and-Events/News/2020/INTERPOL-report-highlights-key-cyberthreats-in-Southeast-Asia
+collection_domain: interpol.int
+source_type: press-release
+publisher: INTERPOL
+publish_date: 2020-02-17
+ingest_date: 2026-04-08
+enriched_date: 2026-04-10
+language: en
+reliability: high
+credibility: confirmed
+sensitivity: public
 source_tier: 2
 pages_updated:
-  - "operation-goldfish-alpha-night-fury"
+  - operation-goldfish-alpha-night-fury
 key_findings:
   - "On 17 February 2020, INTERPOL published its ASEAN Cybercrime Operations Desk regional threat assessment, framing the outcomes of Operation Goldfish Alpha and Operation Night Fury as part of a coordinated ASEAN-wide response to six priority cyberthreats: botnets, phishing, business email compromise, banking malware, ransomware, and cryptojacking"
   - "Operation Goldfish Alpha achieved a 78% reduction in infected cryptojacking routers — a specific metric indicating sinkholing/remediation rather than arrest-focused enforcement. Goldfish Alpha targeted a cryptojacking campaign exploiting vulnerable MikroTik routers across ASEAN countries"
@@ -26,10 +26,15 @@ created: 2026-04-08
 updated: 2026-04-10
 duplicate_of: "[[2020-01-01_interpol-int_interpol-report-highlights-key-cyberthreats-in-southeast-asia]]"
 duplicate_reason: same_collection_url
-duplicate_key: "https://www.interpol.int/News-and-Events/News/2020/INTERPOL-report-highlights-key-cyberthreats-in-Southeast-Asia"
+duplicate_key: https://www.interpol.int/News-and-Events/News/2020/INTERPOL-report-highlights-key-cyberthreats-in-Southeast-Asia
 duplicate_normalized_at: 2026-04-26
+raw_path: raw/press-releases/interpol-operation-goldfish-alpha-night-fury.md
+text_status: source-digest
+storage_mode: source-digest
+content_hash: sha256:f0f9b9fe10d07188c312156191cdab16af51cfcfe3c66620b128bc654ce5b632
+word_count: 397
+extraction_date: 2026-04-28
 ---
-
 ## Source
 
 - **Publisher**: INTERPOL

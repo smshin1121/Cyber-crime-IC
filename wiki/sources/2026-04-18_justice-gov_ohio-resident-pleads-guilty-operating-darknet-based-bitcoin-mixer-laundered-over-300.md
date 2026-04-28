@@ -22,8 +22,13 @@ defendant_names:
 updated: 2026-04-18
 duplicate_of: "[[2021-08-18_justice-gov_ohio-resident-pleads-guilty-to-operating-darknet-based-bitcoin-mixer-that-launde]]"
 duplicate_reason: same_collection_url
-duplicate_key: "https://www.justice.gov/usao-dc/pr/ohio-resident-pleads-guilty-operating-darknet-based-bitcoin-mixer-laundered-over-300"
+duplicate_key: https://www.justice.gov/usao-dc/pr/ohio-resident-pleads-guilty-operating-darknet-based-bitcoin-mixer-laundered-over-300
 duplicate_normalized_at: 2026-04-26
+text_status: source-digest
+storage_mode: source-digest
+content_hash: sha256:63bfae6a8ceffd70c40a8644ad1df26e3c913081d49214ca81c9b1dd2522368d
+word_count: 135
+extraction_date: 2026-04-28
 ---
 ## Source Summary
 

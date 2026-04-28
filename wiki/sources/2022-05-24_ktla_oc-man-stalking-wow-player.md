@@ -2,8 +2,8 @@
 type: source
 title: "Orange County man accused of stalking prominent 'World of Warcraft' player"
 source_type: news
-publisher: "KTLA"
-author: "Staff"
+publisher: KTLA
+author: Staff
 publish_date: 2022-05-24
 ingest_date: 2026-04-25
 language: en
@@ -17,6 +17,8 @@ key_findings:
   - "Harassment included photoshopped nude images posted online"
 collection_url: https://ktla.com/news/local-news/orange-county-man-accused-of-stalking-prominent-world-of-warcraft-player/
 created: 2026-04-25
+raw_path: raw/news/2022-05-24_ktla_oc-man-stalking-wow-player.md
+copyright_policy: summary-only
 ---
 ## Source Summary
 

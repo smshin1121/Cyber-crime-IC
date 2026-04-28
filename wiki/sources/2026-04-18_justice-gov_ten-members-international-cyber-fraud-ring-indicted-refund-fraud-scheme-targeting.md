@@ -13,15 +13,18 @@ credibility: confirmed
 sensitivity: public
 pages_updated:
 
-key_findings:
-  - "Secure .gov websites use HTTPS A lock ( Lock Locked padlock ) or https:// means you’ve safely connected to the .gov website. Share sensitive information only on official, secure websites."
 collection_url: https://www.justice.gov/usao-ndok/pr/ten-members-international-cyber-fraud-ring-indicted-refund-fraud-scheme-targeting
 created: 2026-04-18
 updated: 2026-04-18
 duplicate_of: "[[2023-11-09_justice-gov_ten-members-of-international-cyber-fraud-ring-indicted-for-refund-fraud-scheme-t]]"
 duplicate_reason: same_collection_url
-duplicate_key: "https://www.justice.gov/usao-ndok/pr/ten-members-international-cyber-fraud-ring-indicted-refund-fraud-scheme-targeting"
+duplicate_key: https://www.justice.gov/usao-ndok/pr/ten-members-international-cyber-fraud-ring-indicted-refund-fraud-scheme-targeting
 duplicate_normalized_at: 2026-04-26
+text_status: source-digest
+storage_mode: source-digest
+content_hash: sha256:b16a2d24797ee6519dc65daa1a1013b3fcb93fe9f3bedc79cdead286176a0b3c
+word_count: 110
+extraction_date: 2026-04-28
 ---
 ## Source Summary
 

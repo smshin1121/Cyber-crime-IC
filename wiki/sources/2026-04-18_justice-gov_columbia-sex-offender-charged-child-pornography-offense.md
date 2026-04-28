@@ -13,8 +13,6 @@ credibility: confirmed
 sensitivity: public
 pages_updated:
 
-key_findings:
-  - "Secure .gov websites use HTTPS A lock ( Lock Locked padlock ) or https:// means you’ve safely connected to the .gov website. Share sensitive information only on official, secure websites."
 collection_url: https://www.justice.gov/usao-wdmo/pr/columbia-sex-offender-charged-child-pornography-offense
 created: 2026-04-18
 defendant_names:
@@ -22,8 +20,13 @@ defendant_names:
 updated: 2026-04-18
 duplicate_of: "[[2025-05-13_justice-gov_columbia-sex-offender-charged-with-child-pornography-offense]]"
 duplicate_reason: same_collection_url
-duplicate_key: "https://www.justice.gov/usao-wdmo/pr/columbia-sex-offender-charged-child-pornography-offense"
+duplicate_key: https://www.justice.gov/usao-wdmo/pr/columbia-sex-offender-charged-child-pornography-offense
 duplicate_normalized_at: 2026-04-26
+text_status: source-digest
+storage_mode: source-digest
+content_hash: sha256:2965fb566303498df1123d18ca3b0e26bad120d2d61948d63165917de35f4707
+word_count: 117
+extraction_date: 2026-04-28
 ---
 ## Source Summary
 

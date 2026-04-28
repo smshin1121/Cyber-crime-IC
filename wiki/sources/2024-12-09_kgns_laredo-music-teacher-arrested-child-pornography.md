@@ -3,7 +3,7 @@ type: source
 title: "Laredo music teacher arrested for child pornography"
 source_type: news
 publisher: "KGNS-TV (Laredo NBC)"
-author: "Staff"
+author: Staff
 publish_date: 2024-12-09
 ingest_date: 2026-04-25
 language: en
@@ -17,6 +17,8 @@ key_findings:
   - "FBI November 25 tip about videos on dark web site 'The Exchange' triggered the investigation."
 collection_url: https://www.kgns.tv/2024/12/09/laredo-music-teacher-arrested-child-pornography/
 created: 2026-04-25
+raw_path: raw/news/2024-12-09_kgns_laredo-music-teacher-arrested-child-pornography.md
+copyright_policy: summary-only
 ---
 ## Source Summary
 

@@ -2,8 +2,8 @@
 type: source
 title: "Van Nuys Man Pleads Guilty in Darknet Drugs Case"
 source_type: news
-publisher: "MyNewsLA"
-author: "Staff"
+publisher: MyNewsLA
+author: Staff
 publish_date: 2024-07-17
 ingest_date: 2026-04-25
 language: en
@@ -16,6 +16,8 @@ key_findings:
   - "Guilty plea entered to fentanyl/cocaine conspiracy and firearm possession"
 collection_url: https://mynewsla.com/business/2024/07/17/van-nuys-man-pleads-guilty-in-darknet-drugs-case/
 created: 2026-04-25
+raw_path: raw/news/2024-07-17_mynewsla_van-nuys-man-pleads-guilty-darknet-drugs.md
+copyright_policy: summary-only
 ---
 ## Source Summary
 

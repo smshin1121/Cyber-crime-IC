@@ -2,7 +2,7 @@
 type: source
 title: "US Charges Three Eastern Europeans Over Ransomware and Malvertising, Leader Extradited"
 source_type: news
-publisher: "SecurityWeek"
+publisher: SecurityWeek
 author: "Ionut Arghire"
 publish_date: 2024-08-13
 ingest_date: 2026-04-25
@@ -18,6 +18,8 @@ key_findings:
   - "Two parallel indictments — D.N.J. (malvertising) and E.D. Virginia (Ransom Cartel)"
 collection_url: https://www.securityweek.com/us-unseals-charges-against-3-eastern-europeans-over-ransomware-malvertising/
 created: 2026-04-25
+raw_path: raw/news/2024-08-13_securityweek_us-charges-three-eastern-europeans-ransomware-malvertising.md
+copyright_policy: summary-only
 ---
 ## Source Summary
 

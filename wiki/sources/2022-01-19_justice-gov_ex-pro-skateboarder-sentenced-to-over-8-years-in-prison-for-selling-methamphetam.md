@@ -14,13 +14,18 @@ sensitivity: public
 pages_updated:
   - operation-us-v-evan-hernandez-dark-web
 key_findings:
-  - "This domestic-only U.S. follow-on record has been absorbed into the canonical case page [[us-v-evan-hernandez-dark-web]]. No visible cross-border mechanism is documented, so it is not treated as a separate international-cooperation operation."
+  - "This domestic-only U.S. follow-on record has been absorbed into the canonical case page us-v-evan-hernandez-dark-web. No visible cross-border mechanism is documented, so it is not treated as a separate international-cooperation operation."
 collection_url: https://www.justice.gov/usao-cdca/pr/ex-pro-skateboarder-sentenced-over-8-years-prison-selling-methamphetamine-and
 created: 2026-04-17
 duplicate_of: "[[2022-01-19_cdca_evan-hernandez-dark-web-sentencing]]"
 duplicate_reason: same_collection_url
-duplicate_key: "https://www.justice.gov/usao-cdca/pr/ex-pro-skateboarder-sentenced-over-8-years-prison-selling-methamphetamine-and"
+duplicate_key: https://www.justice.gov/usao-cdca/pr/ex-pro-skateboarder-sentenced-over-8-years-prison-selling-methamphetamine-and
 duplicate_normalized_at: 2026-04-26
+text_status: source-digest
+storage_mode: source-digest
+content_hash: sha256:0c0ea78a44836e5f3cb694fa9f91fb8d70ba139ec248b6e22e973da564e43479
+word_count: 165
+extraction_date: 2026-04-28
 ---
 ## Source Summary
 

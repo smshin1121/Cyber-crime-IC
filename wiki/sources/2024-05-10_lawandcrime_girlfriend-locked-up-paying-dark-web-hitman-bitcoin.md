@@ -3,7 +3,7 @@ type: source
 title: "Girlfriend locked up for paying dark web 'hitman' in Bitcoin to take out boyfriend's lover"
 source_type: news
 publisher: "Law & Crime"
-author: "Staff"
+author: Staff
 publish_date: 2024-05-10
 ingest_date: 2026-04-25
 language: en
@@ -17,6 +17,8 @@ key_findings:
   - "Confirms 9-year sentence and the HSI Dallas-led investigation."
 collection_url: https://lawandcrime.com/crime/girlfriend-locked-up-for-paying-dark-web-hitman-in-bitcoin-to-take-out-boyfriends-lover/
 created: 2026-04-25
+raw_path: raw/news/2024-05-10_lawandcrime_girlfriend-locked-up-paying-dark-web-hitman-bitcoin.md
+copyright_policy: summary-only
 ---
 ## Source Summary
 

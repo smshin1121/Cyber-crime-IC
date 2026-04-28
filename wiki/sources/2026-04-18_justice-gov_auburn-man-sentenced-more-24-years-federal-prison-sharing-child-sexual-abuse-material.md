@@ -13,8 +13,6 @@ credibility: confirmed
 sensitivity: public
 pages_updated:
 
-key_findings:
-  - "Secure .gov websites use HTTPS A lock ( Lock Locked padlock ) or https:// means you’ve safely connected to the .gov website. Share sensitive information only on official, secure websites."
 collection_url: https://www.justice.gov/usao-mdal/pr/auburn-man-sentenced-more-24-years-federal-prison-sharing-child-sexual-abuse-material
 created: 2026-04-18
 updated: 2026-04-18
@@ -22,8 +20,13 @@ defendant_names:
   - "Auburn Man"
 duplicate_of: "[[2026-01-15_justice-gov_auburn-man-sentenced-to-more-than-24-years-in-federal-prison-for-sharing-child-s]]"
 duplicate_reason: same_collection_url
-duplicate_key: "https://www.justice.gov/usao-mdal/pr/auburn-man-sentenced-more-24-years-federal-prison-sharing-child-sexual-abuse-material"
+duplicate_key: https://www.justice.gov/usao-mdal/pr/auburn-man-sentenced-more-24-years-federal-prison-sharing-child-sexual-abuse-material
 duplicate_normalized_at: 2026-04-26
+text_status: source-digest
+storage_mode: source-digest
+content_hash: sha256:a32ae3d8272f178f8e1d192634596c09aa923c3bc4db396c88220d9876d052b1
+word_count: 119
+extraction_date: 2026-04-28
 ---
 ## Source Summary
 

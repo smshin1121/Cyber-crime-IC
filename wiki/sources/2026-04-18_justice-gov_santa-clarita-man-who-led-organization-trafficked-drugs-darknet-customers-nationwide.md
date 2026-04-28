@@ -13,8 +13,6 @@ credibility: confirmed
 sensitivity: public
 pages_updated:
 
-key_findings:
-  - "Secure .gov websites use HTTPS A lock ( Lock Locked padlock ) or https:// means you’ve safely connected to the .gov website. Share sensitive information only on official, secure websites."
 collection_url: https://www.justice.gov/usao-cdca/pr/santa-clarita-man-who-led-organization-trafficked-drugs-darknet-customers-nationwide
 created: 2026-04-18
 defendant_names:
@@ -22,8 +20,13 @@ defendant_names:
 updated: 2026-04-18
 duplicate_of: "[[2024-11-21_justice-gov_santa-clarita-man-who-led-organization-that-trafficked-drugs-to-darknet-customer]]"
 duplicate_reason: same_collection_url
-duplicate_key: "https://www.justice.gov/usao-cdca/pr/santa-clarita-man-who-led-organization-trafficked-drugs-darknet-customers-nationwide"
+duplicate_key: https://www.justice.gov/usao-cdca/pr/santa-clarita-man-who-led-organization-trafficked-drugs-darknet-customers-nationwide
 duplicate_normalized_at: 2026-04-26
+text_status: source-digest
+storage_mode: source-digest
+content_hash: sha256:80ad7d6133afc7d537eedddbebec625fad5dd8783998bb533a2b8e24171a676d
+word_count: 127
+extraction_date: 2026-04-28
 ---
 ## Source Summary
 

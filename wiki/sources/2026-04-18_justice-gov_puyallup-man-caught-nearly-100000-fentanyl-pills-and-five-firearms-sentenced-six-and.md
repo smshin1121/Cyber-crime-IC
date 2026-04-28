@@ -13,15 +13,18 @@ credibility: confirmed
 sensitivity: public
 pages_updated:
 
-key_findings:
-  - "Secure .gov websites use HTTPS A lock ( Lock Locked padlock ) or https:// means you’ve safely connected to the .gov website. Share sensitive information only on official, secure websites."
 collection_url: https://www.justice.gov/usao-wdwa/pr/puyallup-man-caught-nearly-100000-fentanyl-pills-and-five-firearms-sentenced-six-and
 created: 2026-04-18
 updated: 2026-04-18
 duplicate_of: "[[2024-07-22_justice-gov_puyallup-man-caught-with-nearly-100-000-fentanyl-pills-and-five-firearms-sentenc]]"
 duplicate_reason: same_collection_url
-duplicate_key: "https://www.justice.gov/usao-wdwa/pr/puyallup-man-caught-nearly-100000-fentanyl-pills-and-five-firearms-sentenced-six-and"
+duplicate_key: https://www.justice.gov/usao-wdwa/pr/puyallup-man-caught-nearly-100000-fentanyl-pills-and-five-firearms-sentenced-six-and
 duplicate_normalized_at: 2026-04-26
+text_status: source-digest
+storage_mode: source-digest
+content_hash: sha256:4f5120b126e0b1f111f8f948629e3ff03b55569cd367de5021a6e1e078a39fa2
+word_count: 129
+extraction_date: 2026-04-28
 ---
 ## Source Summary
 

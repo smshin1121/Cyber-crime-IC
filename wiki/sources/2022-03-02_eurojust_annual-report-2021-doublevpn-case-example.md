@@ -4,7 +4,7 @@ title: "Eurojust Annual Report 2021: DoubleVPN case example"
 collection_url: https://www.eurojust.europa.eu/annual-report-2021/cybercrime/case-examples
 collection_domain: eurojust.europa.eu
 source_type: report
-publisher: "Eurojust"
+publisher: Eurojust
 author: ""
 publish_date: 2022-03-02
 ingest_date: 2026-04-18
@@ -23,8 +23,14 @@ created: 2026-04-18
 updated: 2026-04-18
 duplicate_of: "[[2022-03-02_eurojust-europa-eu_eurojust-annual-report-2021-doublevpn-case-example]]"
 duplicate_reason: same_collection_url
-duplicate_key: "https://www.eurojust.europa.eu/annual-report-2021/cybercrime/case-examples"
+duplicate_key: https://www.eurojust.europa.eu/annual-report-2021/cybercrime/case-examples
 duplicate_normalized_at: 2026-04-26
+raw_path: raw/government-reports/2022-03-02_eurojust_annual-report-2021-doublevpn-case-example.md
+text_status: source-digest
+storage_mode: source-digest
+content_hash: sha256:55de6eab3f5192dc0e48332927e200cfc8b448f63e53f762d29434944f9bd26e
+word_count: 168
+extraction_date: 2026-04-28
 ---
 ## Source Summary
 

@@ -3,7 +3,7 @@ type: source
 title: "Stilwell man sentenced to 30 years for producing child sexual abuse material on dark web"
 source_type: news
 publisher: "KTUL (ABC Tulsa)"
-author: "Staff"
+author: Staff
 publish_date: 2025-05-13
 ingest_date: 2026-04-25
 language: en
@@ -17,6 +17,8 @@ key_findings:
   - "Tulsa-area local TV (KTUL ABC) confirmation of Black's 30-year EDOK sentence."
 collection_url: https://ktul.com/news/local/stilwell-man-sentenced-to-30-years-for-producing-child-sexual-abuse-material-on-dark-web-child-sexual-abuse-material-csam-court-documents-young-girl-internet-relationship-children-images-baits-computer-how-to-guide-offenders
 created: 2026-04-25
+raw_path: raw/news/2025-05-13_ktul_stilwell-man-sentenced-30-years-csam-dark-web.md
+copyright_policy: summary-only
 ---
 ## Source Summary
 

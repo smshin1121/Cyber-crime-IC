@@ -13,8 +13,6 @@ credibility: confirmed
 sensitivity: public
 pages_updated:
 
-key_findings:
-  - "Secure .gov websites use HTTPS A lock ( Lock Locked padlock ) or https:// means you’ve safely connected to the .gov website. Share sensitive information only on official, secure websites."
 collection_url: https://www.justice.gov/usao-mdfl/pr/nigerian-national-sentenced-more-12-years-federal-prison-cyber-scams
 created: 2026-04-17
 updated: 2026-04-18
@@ -23,8 +21,13 @@ defendant_names:
   - "Nigerian National"
 duplicate_of: "[[2024-07-23_justice-gov_nigerian-national-sentenced-to-more-than-12-years-in-federal-prison-for-cyber-sc]]"
 duplicate_reason: same_collection_url
-duplicate_key: "https://www.justice.gov/usao-mdfl/pr/nigerian-national-sentenced-more-12-years-federal-prison-cyber-scams"
+duplicate_key: https://www.justice.gov/usao-mdfl/pr/nigerian-national-sentenced-more-12-years-federal-prison-cyber-scams
 duplicate_normalized_at: 2026-04-26
+text_status: source-digest
+storage_mode: source-digest
+content_hash: sha256:147715432bdf2f6129688a5555b35327323bef7c2eda4716de6b17062f72f65f
+word_count: 145
+extraction_date: 2026-04-28
 ---
 ## Source Summary
 

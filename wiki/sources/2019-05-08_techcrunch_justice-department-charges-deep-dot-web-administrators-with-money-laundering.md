@@ -19,6 +19,7 @@ key_findings:
   - "Multi-country police cooperation (US-France-Israel) enabled the takedown."
 collection_url: https://techcrunch.com/2019/05/08/doj-deep-dot-web-indictment/
 created: 2026-04-25
+copyright_policy: summary-only
 ---
 ## Source Summary
 

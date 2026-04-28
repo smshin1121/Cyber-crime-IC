@@ -14,7 +14,7 @@ sensitivity: public
 pages_updated:
 
 key_findings:
-  - "The **Landeskriminalamt (LKA)** — plural **Landeskriminalämter** — are the state-level criminal police offices of Germany. There is **one LKA in each of Germany's 16 federal states (Länder)**, directly subordinate to the state's interior ministry [1][2]. Each LKA is independent from the federal [[germany-bka|Bundeskriminalamt (BKA)]] but cooperates closely with it."
+  - "The **Landeskriminalamt (LKA)** — plural **Landeskriminalämter** — are the state-level criminal police offices of Germany. There is **one LKA in each of Germany's 16 federal states (Länder)**, directly subordinate to the state's interior ministry [1][2]. Each LKA is independent from the federal Bundeskriminalamt (BKA) but cooperates closely with it."
 collection_url: https://www.polizei.bayern.de/mam/lka-bayern/sonstige/information_in_english.pdf
 created: 2026-04-17
 text_status: summarized

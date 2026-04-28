@@ -3,7 +3,7 @@ type: source
 title: "O.C. man gets only two years in prison for stalking and harassing a female online gamer"
 source_type: news
 publisher: "New Santa Ana"
-author: "Staff"
+author: Staff
 publish_date: 2023-07-13
 ingest_date: 2026-04-25
 language: en
@@ -19,6 +19,8 @@ key_findings:
   - "Identifies AUSA Jake D. Nare as prosecutor and FBI as lead investigator."
 collection_url: https://newsantaana.com/o-c-man-gets-only-two-years-in-prison-for-stalking-and-harassing-a-female-online-gamer/
 created: 2026-04-25
+raw_path: raw/news/2023-07-13_newsantaana_oc-man-only-two-years-prison-stalking-female-online-gamer.md
+copyright_policy: summary-only
 ---
 ## Source Summary
 

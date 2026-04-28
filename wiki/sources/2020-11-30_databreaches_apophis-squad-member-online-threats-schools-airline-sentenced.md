@@ -2,8 +2,8 @@
 type: source
 title: "'Apophis Squad' Member Who Made Online Threats Against Schools and Airline Sentenced to Nearly 8 Years in Federal Prison"
 source_type: news
-publisher: "DataBreaches.Net"
-author: "Staff"
+publisher: DataBreaches.Net
+author: Staff
 publish_date: 2020-11-30
 ingest_date: 2026-04-25
 language: en
@@ -16,6 +16,8 @@ key_findings:
   - "Specialty cyber outlet confirmation."
 collection_url: https://databreaches.net/2020/11/30/apophis-squad-member-who-made-online-threats-against-schools-and-airline-sentenced-to-nearly-8-years-in-federal-prison/
 created: 2026-04-25
+raw_path: raw/news/2020-11-30_databreaches_apophis-squad-member-online-threats-schools-airline-sentenced.md
+copyright_policy: summary-only
 ---
 ## Source Summary
 

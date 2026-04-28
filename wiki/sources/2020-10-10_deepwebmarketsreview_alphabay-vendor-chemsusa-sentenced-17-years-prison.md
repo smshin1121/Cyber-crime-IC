@@ -3,7 +3,7 @@ type: source
 title: "AlphaBay Vendor Chemsusa sentenced to 17 years in prison"
 source_type: news
 publisher: "deepINFO (Deep Web Markets Review)"
-author: "Staff"
+author: Staff
 publish_date: 2020-10-10
 ingest_date: 2026-04-25
 language: en
@@ -16,6 +16,8 @@ key_findings:
   - "Dark-web specialist outlet confirms Castro's 17.5-year sentence and AlphaBay/Dream Market vending under Chemsusa alias."
 collection_url: https://deepwebmarketsreview.com/2020/10/10/alphabay-vendor-chemsusa-sentenced-to-17-years-in-prison/
 created: 2026-04-25
+raw_path: raw/news/2020-10-10_deepwebmarketsreview_alphabay-vendor-chemsusa-sentenced-17-years-prison.md
+copyright_policy: summary-only
 ---
 ## Source Summary
 

@@ -13,8 +13,6 @@ credibility: confirmed
 sensitivity: public
 pages_updated:
 
-key_findings:
-  - "Secure .gov websites use HTTPS A lock ( Lock Locked padlock ) or https:// means you’ve safely connected to the .gov website. Share sensitive information only on official, secure websites."
 collection_url: https://www.justice.gov/usao-mdfl/pr/foreign-national-indicted-wire-fraud-scheme
 created: 2026-04-18
 updated: 2026-04-18
@@ -22,8 +20,13 @@ defendant_names:
   - "In Wire Fraud Scheme"
 duplicate_of: "[[2025-06-27_justice-gov_foreign-national-indicted-in-wire-fraud-scheme]]"
 duplicate_reason: same_collection_url
-duplicate_key: "https://www.justice.gov/usao-mdfl/pr/foreign-national-indicted-wire-fraud-scheme"
+duplicate_key: https://www.justice.gov/usao-mdfl/pr/foreign-national-indicted-wire-fraud-scheme
 duplicate_normalized_at: 2026-04-26
+text_status: source-digest
+storage_mode: source-digest
+content_hash: sha256:311d0b4f717c0ed4bde9c32877d2eb1ad66b0c620c1536b1aecc1f27ca998817
+word_count: 120
+extraction_date: 2026-04-28
 ---
 ## Source Summary
 

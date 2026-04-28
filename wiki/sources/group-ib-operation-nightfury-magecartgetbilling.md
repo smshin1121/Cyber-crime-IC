@@ -1,20 +1,20 @@
 ---
 type: source
 title: "Group-IB: Night Fury — INTERPOL-coordinated arrest of Magecart/GetBilling operators"
-collection_url: "https://www.group-ib.com/media-center/press-releases/night-fury/"
-collection_domain: "group-ib.com"
-source_type: "news"
-publisher: "Group-IB"
-publish_date: "2020-01-24"
-ingest_date: "2026-04-08"
-enriched_date: "2026-04-10"
-language: "en"
-reliability: "medium"
-credibility: "possibly-true"
-sensitivity: "public"
+collection_url: https://www.group-ib.com/media-center/press-releases/night-fury/
+collection_domain: group-ib.com
+source_type: news
+publisher: Group-IB
+publish_date: 2020-01-24
+ingest_date: 2026-04-08
+enriched_date: 2026-04-10
+language: en
+reliability: medium
+credibility: possibly-true
+sensitivity: public
 source_tier: 3
 pages_updated:
-  - "operation-nightfury"
+  - operation-nightfury
 key_findings:
   - "On 24 January 2020, INTERPOL's ASEAN Cybercrime Operations Desk announced the results of Operation Night Fury, which resulted in the arrest of 3 Indonesian nationals involved in a Magecart-style JavaScript web skimming operation known as 'GetBilling'"
   - "Private-sector origin: The operation was driven by intelligence provided by Singapore-based cybersecurity firm Group-IB, which had been tracking GetBilling since 2018 and had identified infrastructure linking the group to hundreds of compromised e-commerce sites worldwide"
@@ -26,10 +26,16 @@ created: 2026-04-08
 updated: 2026-04-10
 duplicate_of: "[[2020-01-27_group-ib_night-fury]]"
 duplicate_reason: same_collection_url
-duplicate_key: "https://www.group-ib.com/media-center/press-releases/night-fury/"
+duplicate_key: https://www.group-ib.com/media-center/press-releases/night-fury/
 duplicate_normalized_at: 2026-04-26
+raw_path: raw/news/group-ib-operation-nightfury-magecartgetbilling.md
+text_status: summarized
+storage_mode: summary-only
+content_hash: sha256:8c3e92ee6c561d32143b289666b377ad47ebc7e440eae1418da0dff5a366e5f0
+word_count: 394
+extraction_date: 2026-04-27
+copyright_policy: summary-only
 ---
-
 ## Source
 
 - **Publisher**: Group-IB (Singapore-based cybersecurity firm, Russian-origin, private sector)

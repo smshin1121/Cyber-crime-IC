@@ -2,8 +2,8 @@
 type: source
 title: "Los Angeles man sentenced for trafficking hundreds of thousands of fentanyl pills, caused fatal overdose"
 source_type: news
-publisher: "KTLA"
-author: "Staff"
+publisher: KTLA
+author: Staff
 publish_date: 2024-10-21
 ingest_date: 2026-04-25
 language: en
@@ -17,6 +17,8 @@ key_findings:
   - "Used vendor profiles on White House Market, ToRReZ, and AlphaBay"
 collection_url: https://ktla.com/news/local-news/los-angeles-man-sentenced-for-trafficking-hundreds-of-thousands-of-fentanyl-pills-caused-fatal-overdose/
 created: 2026-04-25
+raw_path: raw/news/2024-10-21_ktla_la-man-sentenced-fentanyl-darknet-fatal-overdose.md
+copyright_policy: summary-only
 ---
 ## Source Summary
 

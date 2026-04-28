@@ -2,8 +2,8 @@
 type: source
 title: "Dark Web Steroid Kingpin 'JuicePal' Receives 8-Year Sentence in San Diego-based Crackdown Case"
 source_type: news
-publisher: "Hoodline"
-author: "Staff"
+publisher: Hoodline
+author: Staff
 publish_date: 2023-08-21
 ingest_date: 2026-04-25
 language: en
@@ -16,6 +16,8 @@ key_findings:
   - "Hyperlocal aggregator coverage of the JuicePal sentencing"
 collection_url: https://hoodline.com/2023/08/dark-web-steroid-kingpin-juicepal-receives-8-year-sentence-in-san-diego-based-crackdown-case/
 created: 2026-04-25
+raw_path: raw/news/2023-08-21_hoodline_dark-web-steroid-kingpin-juicepal-receives-8-year-sentence-san-diego.md
+copyright_policy: summary-only
 ---
 ## Source Summary
 

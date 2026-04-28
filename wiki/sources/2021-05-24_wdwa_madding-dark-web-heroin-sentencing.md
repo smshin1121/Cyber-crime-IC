@@ -13,15 +13,17 @@ credibility: confirmed
 sensitivity: public
 pages_updated:
 
-key_findings:
-  - "Secure .gov websites use HTTPS A lock ( Lock Locked padlock ) or https:// means you’ve safely connected to the .gov website. Share sensitive information only on official, secure websites."
 collection_url: https://www.justice.gov/usao-wdwa/pr/dark-web-heroin-dealer-sentenced-5-years-prison
 created: 2026-04-17
 updated: 2026-04-18
 duplicate_of: "[[2018-12-04_justice-gov-wdwa_dark-web-heroin-dealer-sentenced-5-years-prison]]"
 duplicate_reason: same_collection_url
-duplicate_key: "https://www.justice.gov/usao-wdwa/pr/dark-web-heroin-dealer-sentenced-5-years-prison"
+duplicate_key: https://www.justice.gov/usao-wdwa/pr/dark-web-heroin-dealer-sentenced-5-years-prison
 duplicate_normalized_at: 2026-04-26
+text_status: parsed
+content_hash: sha256:672041541f63ea7c3e38b51723ae9723325b77b87b007c41ae5d839c425ecca3
+word_count: 1102
+extraction_date: 2026-04-25
 ---
 ## Source Summary
 

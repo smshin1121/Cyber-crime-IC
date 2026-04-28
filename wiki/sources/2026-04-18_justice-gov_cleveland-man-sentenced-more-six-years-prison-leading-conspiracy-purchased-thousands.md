@@ -13,8 +13,6 @@ credibility: confirmed
 sensitivity: public
 pages_updated:
 
-key_findings:
-  - "Secure .gov websites use HTTPS A lock ( Lock Locked padlock ) or https:// means you’ve safely connected to the .gov website. Share sensitive information only on official, secure websites."
 collection_url: https://www.justice.gov/usao-ndoh/pr/cleveland-man-sentenced-more-six-years-prison-leading-conspiracy-purchased-thousands
 created: 2026-04-18
 defendant_names:
@@ -22,8 +20,13 @@ defendant_names:
 updated: 2026-04-18
 duplicate_of: "[[2022-07-07_justice-gov_cleveland-man-sentenced-to-prison-for-leading-conspiracy-that-purchased-thousand]]"
 duplicate_reason: same_collection_url
-duplicate_key: "https://www.justice.gov/usao-ndoh/pr/cleveland-man-sentenced-more-six-years-prison-leading-conspiracy-purchased-thousands"
+duplicate_key: https://www.justice.gov/usao-ndoh/pr/cleveland-man-sentenced-more-six-years-prison-leading-conspiracy-purchased-thousands
 duplicate_normalized_at: 2026-04-26
+text_status: source-digest
+storage_mode: source-digest
+content_hash: sha256:b3cacd2a09b4d8e0bcf776047f3c2587d7c3425ec38bc73c87a57679bc92075f
+word_count: 130
+extraction_date: 2026-04-28
 ---
 ## Source Summary
 

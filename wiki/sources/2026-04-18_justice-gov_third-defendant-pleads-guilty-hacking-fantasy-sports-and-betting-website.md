@@ -13,8 +13,6 @@ credibility: confirmed
 sensitivity: public
 pages_updated:
 
-key_findings:
-  - "Secure .gov websites use HTTPS A lock ( Lock Locked padlock ) or https:// means you’ve safely connected to the .gov website. Share sensitive information only on official, secure websites."
 collection_url: https://www.justice.gov/usao-sdny/pr/third-defendant-pleads-guilty-hacking-fantasy-sports-and-betting-website
 created: 2026-04-18
 updated: 2026-04-18
@@ -22,8 +20,13 @@ defendant_names:
   - "Third Defendant"
 duplicate_of: "[[2025-12-12_justice-gov_third-defendant-pleads-guilty-to-hacking-fantasy-sports-and-betting-website]]"
 duplicate_reason: same_collection_url
-duplicate_key: "https://www.justice.gov/usao-sdny/pr/third-defendant-pleads-guilty-hacking-fantasy-sports-and-betting-website"
+duplicate_key: https://www.justice.gov/usao-sdny/pr/third-defendant-pleads-guilty-hacking-fantasy-sports-and-betting-website
 duplicate_normalized_at: 2026-04-26
+text_status: source-digest
+storage_mode: source-digest
+content_hash: sha256:a2af83a5803b8ba58b8d52d5036df80140474d74d242cc7694a55c2dcee039ed
+word_count: 108
+extraction_date: 2026-04-28
 ---
 ## Source Summary
 

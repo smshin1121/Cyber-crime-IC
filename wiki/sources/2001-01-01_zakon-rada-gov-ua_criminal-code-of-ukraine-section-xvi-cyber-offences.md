@@ -14,7 +14,7 @@ sensitivity: public
 pages_updated:
 
 key_findings:
-  - "Ukraine is a **[[budapest-convention|Budapest Convention]] party** since 2005 and has been one of the most operationally active eastern European cybercrime cooperation partners. The **Cyberpolice of Ukraine** ([[ukraine-police]]) — Department of Cyber Police within the National Police of Ukraine — leads cybercrime investigations."
+  - "Ukraine is a **Budapest Convention party** since 2005 and has been one of the most operationally active eastern European cybercrime cooperation partners. The **Cyberpolice of Ukraine** (ukraine-police) — Department of Cyber Police within the National Police of Ukraine — leads cybercrime investigations."
 collection_url: https://zakon.rada.gov.ua/laws/show/2341-14
 created: 2026-04-17
 text_status: parsed

@@ -13,8 +13,6 @@ credibility: confirmed
 sensitivity: public
 pages_updated:
 
-key_findings:
-  - "Secure .gov websites use HTTPS A lock ( Lock Locked padlock ) or https:// means you’ve safely connected to the .gov website. Share sensitive information only on official, secure websites."
 collection_url: https://www.justice.gov/usao-ndca/pr/san-francisco-man-sentenced-84-months-prison-possession-child-pornography
 created: 2026-04-18
 defendant_names:
@@ -22,8 +20,13 @@ defendant_names:
 updated: 2026-04-18
 duplicate_of: "[[2017-05-25_justice-gov_san-francisco-man-sentenced-to-84-months-in-prison-for-possession-of-child-porno]]"
 duplicate_reason: same_collection_url
-duplicate_key: "https://www.justice.gov/usao-ndca/pr/san-francisco-man-sentenced-84-months-prison-possession-child-pornography"
+duplicate_key: https://www.justice.gov/usao-ndca/pr/san-francisco-man-sentenced-84-months-prison-possession-child-pornography
 duplicate_normalized_at: 2026-04-26
+text_status: source-digest
+storage_mode: source-digest
+content_hash: sha256:e13aa43c82a971dbd17ee2782e2faf88c8d072d95387adb203158f74e4a891bc
+word_count: 109
+extraction_date: 2026-04-28
 ---
 ## Source Summary
 

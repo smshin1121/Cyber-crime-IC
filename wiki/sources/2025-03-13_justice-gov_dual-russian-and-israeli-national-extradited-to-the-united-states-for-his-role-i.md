@@ -14,7 +14,7 @@ sensitivity: public
 pages_updated:
   - operation-dual-russian-and-israeli-national-extradited-to-the-united-states-for-his-role-in-the-lockbit-ransomware-consp
 key_findings:
-  - "This domestic-only U.S. follow-on record has been absorbed into the canonical case page [[dual-russian-and-israeli-national-extradited-to-the-united-states-for-his-role-in-the-lockbit-ransomware-consp]]. No visible cross-border mechanism is documented, so it is not treated as a separate international-cooperation operation."
+  - "This domestic-only U.S. follow-on record has been absorbed into the canonical case page dual-russian-and-israeli-national-extradited-to-the-united-states-for-his-role-in-the-lockbit-ransomware-consp. No visible cross-border mechanism is documented, so it is not treated as a separate international-cooperation operation."
 collection_url: https://www.justice.gov/usao-nj/pr/dual-russian-and-israeli-national-extradited-united-states-his-role-lockbit-ransomware
 created: 2026-04-17
 text_status: parsed

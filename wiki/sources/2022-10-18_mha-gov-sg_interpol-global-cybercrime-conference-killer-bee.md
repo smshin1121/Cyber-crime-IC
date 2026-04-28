@@ -12,11 +12,16 @@ reliability: high
 credibility: confirmed
 sensitivity: public
 pages_updated:
-  []
+
 key_findings:
   - "Singapore's Home Affairs Ministry publicly cited Operation Killer Bee as an 11-country crackdown that led to three arrests."
 collection_url: https://www.mha.gov.sg/media-room/newsroom/interpol-global-cybercrime-conference/
 created: 2026-04-23
+text_status: source-digest
+storage_mode: source-digest
+content_hash: sha256:00c8eb8ce312b1de7e828b4d1e297b37be7c52cb893cdb32184ceb4e66dc0127
+word_count: 138
+extraction_date: 2026-04-28
 ---
 ## Source Summary
 

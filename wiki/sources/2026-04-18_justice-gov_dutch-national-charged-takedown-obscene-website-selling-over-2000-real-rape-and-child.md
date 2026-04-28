@@ -13,8 +13,6 @@ credibility: confirmed
 sensitivity: public
 pages_updated:
 
-key_findings:
-  - "Secure .gov websites use HTTPS A lock ( Lock Locked padlock ) or https:// means you’ve safely connected to the .gov website. Share sensitive information only on official, secure websites."
 collection_url: https://www.justice.gov/usao-dc/pr/dutch-national-charged-takedown-obscene-website-selling-over-2000-real-rape-and-child
 created: 2026-04-18
 updated: 2026-04-18
@@ -22,8 +20,13 @@ defendant_names:
   - "Dutch National"
 duplicate_of: "[[2020-03-12_justice-gov_dutch-national-charged-in-takedown-of-obscene-website-selling-over-2-000-real-ra]]"
 duplicate_reason: same_collection_url
-duplicate_key: "https://www.justice.gov/usao-dc/pr/dutch-national-charged-takedown-obscene-website-selling-over-2000-real-rape-and-child"
+duplicate_key: https://www.justice.gov/usao-dc/pr/dutch-national-charged-takedown-obscene-website-selling-over-2000-real-rape-and-child
 duplicate_normalized_at: 2026-04-26
+text_status: source-digest
+storage_mode: source-digest
+content_hash: sha256:ef960014e7abc7573f68adb5d389a86a826c9264ecb13bee3923906ecbdcdb30
+word_count: 123
+extraction_date: 2026-04-28
 ---
 ## Source Summary
 

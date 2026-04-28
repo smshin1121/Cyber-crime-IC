@@ -14,7 +14,7 @@ sensitivity: public
 pages_updated:
   - operation-man-sentenced-for-transnational-cybercrime-enterprise
 key_findings:
-  - "This domestic-only U.S. follow-on record has been absorbed into the canonical case page [[man-sentenced-for-transnational-cybercrime-enterprise]]. No visible cross-border mechanism is documented, so it is not treated as a separate international-cooperation operation."
+  - "This domestic-only U.S. follow-on record has been absorbed into the canonical case page man-sentenced-for-transnational-cybercrime-enterprise. No visible cross-border mechanism is documented, so it is not treated as a separate international-cooperation operation."
 collection_url: https://www.justice.gov/archives/opa/pr/man-sentenced-transnational-cybercrime-enterprise
 created: 2026-04-17
 text_status: parsed

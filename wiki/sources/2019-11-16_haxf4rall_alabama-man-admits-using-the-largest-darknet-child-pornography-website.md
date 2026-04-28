@@ -2,8 +2,8 @@
 type: source
 title: "Alabama Man Admits Using 'the Largest Darknet Child Pornography Website'"
 source_type: news
-publisher: "Haxf4rall"
-author: "Staff"
+publisher: Haxf4rall
+author: Staff
 publish_date: 2019-11-16
 ingest_date: 2026-04-25
 language: en
@@ -16,6 +16,8 @@ key_findings:
   - "Cybersecurity-blog framing identifies Welcome To Video as 'the largest Darknet CSAM website'"
 collection_url: https://haxf4rall.com/2019/11/16/alabama-man-admits-using-the-largest-darknet-child-pornography-website/
 created: 2026-04-25
+raw_path: raw/news/2019-11-16_haxf4rall_alabama-man-admits-using-the-largest-darknet-child-pornography-website.md
+copyright_policy: summary-only
 ---
 ## Source Summary
 

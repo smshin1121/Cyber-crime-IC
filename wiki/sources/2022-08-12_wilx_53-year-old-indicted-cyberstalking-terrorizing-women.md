@@ -3,7 +3,7 @@ type: source
 title: "53-year-old man indicted for cyberstalking after terrorizing women online"
 source_type: news
 publisher: "WILX-TV (Lansing, MI NBC)"
-author: "Staff"
+author: Staff
 publish_date: 2022-08-12
 ingest_date: 2026-04-25
 language: en
@@ -16,6 +16,8 @@ key_findings:
   - "Out-of-state TV coverage indicating the multi-state victim pool of the cyberstalking case."
 collection_url: https://www.wilx.com/2022/08/12/53-year-old-man-indicted-cyberstalking-after-terrorizing-women-online-authorities-say/
 created: 2026-04-25
+raw_path: raw/news/2022-08-12_wilx_53-year-old-indicted-cyberstalking-terrorizing-women.md
+copyright_policy: summary-only
 ---
 ## Source Summary
 

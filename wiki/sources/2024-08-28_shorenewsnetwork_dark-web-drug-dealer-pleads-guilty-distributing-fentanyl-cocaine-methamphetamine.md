@@ -3,7 +3,7 @@ type: source
 title: "Dark Web Drug Dealer Pleads Guilty to Distributing Fentanyl, Cocaine, and Methamphetamine"
 source_type: news
 publisher: "Shore News Network"
-author: "Staff"
+author: Staff
 publish_date: 2024-08-28
 ingest_date: 2026-04-25
 language: en
@@ -17,6 +17,8 @@ key_findings:
   - "$200K+ initial forfeiture, $900K future; international shipments via USPS"
 collection_url: https://www.shorenewsnetwork.com/dark-web-drug-dealer-pleads-guilty-to-distributing-fentanyl-cocaine-and-methamphetamine/
 created: 2026-04-25
+raw_path: raw/news/2024-08-28_shorenewsnetwork_dark-web-drug-dealer-pleads-guilty-distributing-fentanyl-cocaine-methamphetamine.md
+copyright_policy: summary-only
 ---
 ## Source Summary
 

@@ -22,8 +22,13 @@ defendant_names:
 updated: 2026-04-18
 duplicate_of: "[[2025-03-07_justice-gov_garantex-cryptocurrency-exchange-disrupted-in-international-operation]]"
 duplicate_reason: same_collection_url
-duplicate_key: "https://www.justice.gov/usao-edva/pr/garantex-cryptocurrency-exchange-disrupted-international-operation"
+duplicate_key: https://www.justice.gov/usao-edva/pr/garantex-cryptocurrency-exchange-disrupted-international-operation
 duplicate_normalized_at: 2026-04-26
+text_status: source-digest
+storage_mode: source-digest
+content_hash: sha256:3c4d004b14bbdf58acf87a3486d692cfc771d6ee7aa5e6a6fa621f4d7467c8cc
+word_count: 121
+extraction_date: 2026-04-28
 ---
 ## Source Summary
 

@@ -14,7 +14,7 @@ sensitivity: public
 pages_updated:
   - operation-administrator-of-online-criminal-marketplace-extradited-from-kosovo-to-the-united-states
 key_findings:
-  - "This domestic-only U.S. follow-on record has been absorbed into the canonical case page [[administrator-of-online-criminal-marketplace-extradited-from-kosovo-to-the-united-states]]. No visible cross-border mechanism is documented, so it is not treated as a separate international-cooperation operation."
+  - "This domestic-only U.S. follow-on record has been absorbed into the canonical case page administrator-of-online-criminal-marketplace-extradited-from-kosovo-to-the-united-states. No visible cross-border mechanism is documented, so it is not treated as a separate international-cooperation operation."
 collection_url: https://www.justice.gov/usao-mdfl/pr/administrator-online-criminal-marketplace-extradited-kosovo-united-states
 created: 2026-04-17
 text_status: parsed

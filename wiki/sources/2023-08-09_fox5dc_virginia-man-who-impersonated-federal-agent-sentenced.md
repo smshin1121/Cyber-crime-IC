@@ -19,8 +19,10 @@ collection_url: https://www.fox5dc.com/news/virginia-man-who-impersonated-federa
 created: 2026-04-25
 duplicate_of: "[[2023-08-09_fox5dc_virginia-man-impersonated-federal-agent-sentenced-six-years]]"
 duplicate_reason: same_collection_url
-duplicate_key: "https://www.fox5dc.com/news/virginia-man-who-impersonated-federal-agent-sentenced-to-nearly-six-years-in-prison"
+duplicate_key: https://www.fox5dc.com/news/virginia-man-who-impersonated-federal-agent-sentenced-to-nearly-six-years-in-prison
 duplicate_normalized_at: 2026-04-26
+raw_path: raw/news/2023-08-09_fox5dc_virginia-man-who-impersonated-federal-agent-sentenced.md
+copyright_policy: summary-only
 ---
 ## Source Summary
 

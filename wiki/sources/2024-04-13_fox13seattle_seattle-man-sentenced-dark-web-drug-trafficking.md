@@ -3,7 +3,7 @@ type: source
 title: "Seattle man sentenced for dark web drug trafficking"
 source_type: news
 publisher: "FOX 13 Seattle (Q13)"
-author: "Staff"
+author: Staff
 publish_date: 2024-04-13
 ingest_date: 2026-04-25
 language: en
@@ -16,6 +16,8 @@ key_findings:
   - "Local Seattle coverage of the Verbowsky sentence in EDMO."
 collection_url: https://www.fox13seattle.com/news/seattle-man-sentenced-for-dark-web-drug-trafficking
 created: 2026-04-25
+raw_path: raw/news/2024-04-13_fox13seattle_seattle-man-sentenced-dark-web-drug-trafficking.md
+copyright_policy: summary-only
 ---
 ## Source Summary
 

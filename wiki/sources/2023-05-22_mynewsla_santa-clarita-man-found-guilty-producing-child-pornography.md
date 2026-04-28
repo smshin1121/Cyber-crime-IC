@@ -2,8 +2,8 @@
 type: source
 title: "Santa Clarita Man Found Guilty of Producing Child Pornography"
 source_type: news
-publisher: "MyNewsLA"
-author: "Staff"
+publisher: MyNewsLA
+author: Staff
 publish_date: 2023-05-22
 ingest_date: 2026-04-25
 language: en
@@ -16,6 +16,8 @@ key_findings:
   - "Defendant Robert Stella, 50, former Navy SEAL — HSI dark web tip initiated investigation."
 collection_url: https://mynewsla.com/crime/2023/05/22/santa-clarita-man-found-guilty-of-producing-child-pornography/
 created: 2026-04-25
+raw_path: raw/news/2023-05-22_mynewsla_santa-clarita-man-found-guilty-producing-child-pornography.md
+copyright_policy: summary-only
 ---
 ## Source Summary
 

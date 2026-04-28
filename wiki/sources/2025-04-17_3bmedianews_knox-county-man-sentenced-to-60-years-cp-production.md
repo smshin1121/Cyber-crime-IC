@@ -3,7 +3,7 @@ type: source
 title: "Knox County Man Sentenced To 60 Years For C.P. Production"
 source_type: news
 publisher: "3B Media News"
-author: "Staff"
+author: Staff
 publish_date: 2025-04-17
 ingest_date: 2026-04-25
 language: en
@@ -17,6 +17,8 @@ key_findings:
   - "Homeland Security Investigations involvement alongside KPD-ICAC"
 collection_url: https://3bmedianews.com/knox-county-man-sentenced-to-60-years-for-c-p-production-1/
 created: 2026-04-25
+raw_path: raw/news/2025-04-17_3bmedianews_knox-county-man-sentenced-to-60-years-cp-production.md
+copyright_policy: summary-only
 ---
 ## Source Summary
 

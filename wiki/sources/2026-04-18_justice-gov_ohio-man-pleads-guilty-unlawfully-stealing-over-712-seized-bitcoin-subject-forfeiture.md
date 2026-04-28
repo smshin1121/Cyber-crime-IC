@@ -22,8 +22,13 @@ defendant_names:
 updated: 2026-04-18
 duplicate_of: "[[2023-01-06_justice-gov_ohio-man-pleads-guilty-for-unlawfully-stealing-over-712-seized-bitcoin-subject-t]]"
 duplicate_reason: same_collection_url
-duplicate_key: "https://www.justice.gov/usao-dc/pr/ohio-man-pleads-guilty-unlawfully-stealing-over-712-seized-bitcoin-subject-forfeiture"
+duplicate_key: https://www.justice.gov/usao-dc/pr/ohio-man-pleads-guilty-unlawfully-stealing-over-712-seized-bitcoin-subject-forfeiture
 duplicate_normalized_at: 2026-04-26
+text_status: source-digest
+storage_mode: source-digest
+content_hash: sha256:9c133a57781972849f6374ca225641fdf209bea8aaa7ed457469c87c1718aa29
+word_count: 138
+extraction_date: 2026-04-28
 ---
 ## Source Summary
 

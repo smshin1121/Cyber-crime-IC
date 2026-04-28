@@ -3,7 +3,7 @@ type: source
 title: "A Park City teen wasn't jailed after supplying drugs that killed 2 boys. As an adult, he sold fentanyl that caused another OD."
 source_type: news
 publisher: "The Salt Lake Tribune"
-author: "Staff"
+author: Staff
 publish_date: 2024-04-05
 ingest_date: 2026-04-25
 language: en
@@ -17,6 +17,8 @@ key_findings:
   - "Foreign-sourced counterfeit oxycodone and Las-Vegas-to-Park-City mail shipment confirmed."
 collection_url: https://www.sltrib.com/news/2024/04/05/park-city-teen-wasnt-jailed-after/
 created: 2026-04-25
+raw_path: raw/news/2024-04-05_sltrib_park-city-teen-no-jail-fentanyl-od.md
+copyright_policy: summary-only
 ---
 ## Source Summary
 

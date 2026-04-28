@@ -14,7 +14,7 @@ sensitivity: public
 pages_updated:
   - operation-o-c-and-houston-men-sentenced-to-decades-in-prison-for-supplying-fentanyl-and-other-drugs-sold-on-darknet-and-
 key_findings:
-  - "This domestic-only U.S. follow-on record has been absorbed into the canonical case page [[o-c-and-houston-men-sentenced-to-decades-in-prison-for-supplying-fentanyl-and-other-drugs-sold-on-darknet-and-]]. No visible cross-border mechanism is documented, so it is not treated as a separate international-cooperation operation."
+  - "This domestic-only U.S. follow-on record has been absorbed into the canonical case page o-c-and-houston-men-sentenced-to-decades-in-prison-for-supplying-fentanyl-and-other-drugs-sold-on-darknet-and-. No visible cross-border mechanism is documented, so it is not treated as a separate international-cooperation operation."
 collection_url: https://www.justice.gov/usao-cdca/pr/oc-and-houston-men-sentenced-decades-prison-supplying-fentanyl-and-other-drugs-sold
 created: 2026-04-17
 text_status: parsed

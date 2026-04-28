@@ -14,13 +14,18 @@ sensitivity: public
 pages_updated:
   - operation-king-county-couple-indicted-for-drug-and-illegal-weapons-possession
 key_findings:
-  - "This domestic-only U.S. follow-on record has been absorbed into the canonical case page [[king-county-couple-indicted-for-drug-and-illegal-weapons-possession]]. No visible cross-border mechanism is documented, so it is not treated as a separate international-cooperation operation."
+  - "This domestic-only U.S. follow-on record has been absorbed into the canonical case page king-county-couple-indicted-for-drug-and-illegal-weapons-possession. No visible cross-border mechanism is documented, so it is not treated as a separate international-cooperation operation."
 collection_url: https://www.justice.gov/usao-wdwa/pr/king-county-couple-indicted-drug-and-illegal-weapons-possession
 created: 2026-04-17
 duplicate_of: "[[2024-05-30_justice-gov_king-county-couple-indicted-drug-illegal-weapons-possession-2024]]"
 duplicate_reason: same_collection_url
-duplicate_key: "https://www.justice.gov/usao-wdwa/pr/king-county-couple-indicted-drug-and-illegal-weapons-possession"
+duplicate_key: https://www.justice.gov/usao-wdwa/pr/king-county-couple-indicted-drug-and-illegal-weapons-possession
 duplicate_normalized_at: 2026-04-26
+text_status: source-digest
+storage_mode: source-digest
+content_hash: sha256:6b10dcd6f4b9cf0f7668da04a0aec06ec7123acc4137cdbee72b88f060af464b
+word_count: 155
+extraction_date: 2026-04-28
 ---
 ## Source Summary
 

@@ -13,8 +13,6 @@ credibility: confirmed
 sensitivity: public
 pages_updated:
 
-key_findings:
-  - "Secure .gov websites use HTTPS A lock ( Lock Locked padlock ) or https:// means you’ve safely connected to the .gov website. Share sensitive information only on official, secure websites."
 collection_url: https://www.justice.gov/usao-edky/pr/florida-man-and-woman-sentenced-conspiracy-sell-counterfeit-drugs-dark-web-0
 created: 2026-04-18
 defendant_names:
@@ -22,8 +20,13 @@ defendant_names:
 updated: 2026-04-18
 duplicate_of: "[[2025-11-25_justice-gov_florida-man-and-woman-sentenced-for-conspiracy-to-sell-counterfeit-drugs-on-dark]]"
 duplicate_reason: same_collection_url
-duplicate_key: "https://www.justice.gov/usao-edky/pr/florida-man-and-woman-sentenced-conspiracy-sell-counterfeit-drugs-dark-web-0"
+duplicate_key: https://www.justice.gov/usao-edky/pr/florida-man-and-woman-sentenced-conspiracy-sell-counterfeit-drugs-dark-web-0
 duplicate_normalized_at: 2026-04-26
+text_status: source-digest
+storage_mode: source-digest
+content_hash: sha256:436f0db4bcb9c293a9c7e67a41d0d96da1c3faeda9aab9d0a628d722fd0d197a
+word_count: 111
+extraction_date: 2026-04-28
 ---
 ## Source Summary
 

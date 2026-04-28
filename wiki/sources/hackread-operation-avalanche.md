@@ -1,36 +1,42 @@
 ---
 type: source
 title: "Hackread: HeartSender Cybercrime Network Dismantled in Joint US-Dutch Operation"
-collection_url: "https://hackread.com/heartsender-cybercrime-network-dismantled-us-dutch-op/"
-collection_domain: "hackread.com"
-source_type: "news"
-publisher: "Hackread"
-author: "Waqas"
-publish_date: "2025-01-31"
-ingest_date: "2026-04-08"
-enriched_date: "2026-04-10"
-language: "en"
-reliability: "medium"
-credibility: "possibly-true"
-sensitivity: "public"
+collection_url: https://hackread.com/heartsender-cybercrime-network-dismantled-us-dutch-op/
+collection_domain: hackread.com
+source_type: news
+publisher: Hackread
+author: Waqas
+publish_date: 2025-01-31
+ingest_date: 2026-04-08
+enriched_date: 2026-04-10
+language: en
+reliability: medium
+credibility: possibly-true
+sensitivity: public
 source_tier: 4
 pages_updated:
-  - "operation-heart-blocker"
+  - operation-heart-blocker
 key_findings:
   - "Hackread reported on 2025-01-31 that US and Dutch authorities jointly dismantled the HeartSender cybercrime network (Operation Heart Blocker), seizing domains including Heartsender.com and Botsdetector.com"
   - "HeartSender allegedly operated by Pakistani cybercriminal Saim Raza, previously documented by Brian Krebs under the aliases 'Fudtools', 'Fudpage', and 'The Manipulators' over roughly a decade"
   - "HeartSender 'specialized in developing and distributing cybercrime tools, including phishing kits for deceptive emails, credential-stealing software, and resources for large-scale spam campaigns' according to the US DOJ"
   - "Impact figures cited: >USD 3 million in documented victim losses; millions of stolen records recovered from seized servers; ~100,000 stolen login credentials belonging to Dutch citizens identified"
   - "Operation Heart Blocker followed Operation Talent (targeting Cracked and Nulled cybercrime marketplaces) — part of a late-January 2025 cluster of coordinated US/EU cybercrime takedowns"
-  - "URL/operation mismatch: this source is currently filed under [[operation-avalanche]] but its content is about **Operation Heart Blocker / HeartSender**, which is a distinct operation. The wiki should either create an `operation-heart-blocker` page and move this source there, or rename the file"
+  - "URL/operation mismatch: this source is currently filed under operation-avalanche but its content is about **Operation Heart Blocker / HeartSender**, which is a distinct operation. The wiki should either create an operation-heart-blocker page and move this source there, or rename the file"
 created: 2026-04-08
 updated: 2026-04-10
 duplicate_of: "[[2025-01-30_hackread-com_heartsender-cybercrime-network-dismantled-in-joint-us-dutch-operation]]"
 duplicate_reason: same_collection_url
-duplicate_key: "https://hackread.com/heartsender-cybercrime-network-dismantled-us-dutch-op/"
+duplicate_key: https://hackread.com/heartsender-cybercrime-network-dismantled-us-dutch-op/
 duplicate_normalized_at: 2026-04-26
+raw_path: raw/news/hackread-operation-avalanche.md
+text_status: summarized
+storage_mode: summary-only
+content_hash: sha256:5e7b0d96f9d898597ebe79f9978db3182464c092583e1270ae4aefd77b00f18a
+word_count: 351
+extraction_date: 2026-04-27
+copyright_policy: summary-only
 ---
-
 ## Source
 
 - **Publisher**: Hackread

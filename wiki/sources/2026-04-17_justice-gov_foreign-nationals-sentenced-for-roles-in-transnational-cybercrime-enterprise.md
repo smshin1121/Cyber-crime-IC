@@ -14,7 +14,7 @@ sensitivity: public
 pages_updated:
   - operation-foreign-nationals-sentenced-for-roles-in-transnational-cybercrime-enterprise
 key_findings:
-  - "Foreign Nationals Sentenced for Roles in Transnational Cybercrime Enterprise Enforcement Action is a defendant-specific enforcement action page derived from [[foreign-nationals-sentenced-for-roles-in-transnational-cybercrime-enterprise]]. It captures the prosecutorial or seizure stage reflected in the linked case record and preserves the operation-side catalog entry for this follow-on action."
+  - "Foreign Nationals Sentenced for Roles in Transnational Cybercrime Enterprise Enforcement Action is a defendant-specific enforcement action page derived from foreign-nationals-sentenced-for-roles-in-transnational-cybercrime-enterprise. It captures the prosecutorial or seizure stage reflected in the linked case record and preserves the operation-side catalog entry for this follow-on action."
 collection_url: https://www.justice.gov/archives/opa/pr/foreign-nationals-sentenced-roles-transnational-cybercrime-enterprise
 created: 2026-04-17
 text_status: parsed

@@ -3,7 +3,7 @@ type: source
 title: "Tennessee woman convicted in plot to murder man she met online learns her fate"
 source_type: news
 publisher: "NewsChannel 9 (Chattanooga)"
-author: "Staff"
+author: Staff
 publish_date: 2024-09-19
 ingest_date: 2026-04-25
 language: en
@@ -18,6 +18,8 @@ key_findings:
   - "Used dark web Online Killers Market and ~$10K BTC for hitman attempt"
 collection_url: https://newschannel9.com/news/local/tennessee-woman-sentenced-to-over-8-years-for-murder-for-hire-plot-melody-sasser-knoxville-using-interstate-commerce-facilities-in-the-commission-of-murder-for-hire
 created: 2026-04-25
+raw_path: raw/news/2024-09-19_newschannel9_tennessee-woman-sentenced-murder-for-hire-plot-melody-sasser.md
+copyright_policy: summary-only
 ---
 ## Source Summary
 

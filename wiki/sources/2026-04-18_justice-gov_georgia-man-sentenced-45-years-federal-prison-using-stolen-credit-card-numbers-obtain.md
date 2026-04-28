@@ -22,8 +22,13 @@ defendant_names:
 updated: 2026-04-18
 duplicate_of: "[[2024-03-06_justice-gov_georgia-man-sentenced-to-4-5-years-in-federal-prison-for-using-stolen-credit-car]]"
 duplicate_reason: same_collection_url
-duplicate_key: "https://www.justice.gov/usao-sdin/pr/georgia-man-sentenced-45-years-federal-prison-using-stolen-credit-card-numbers-obtain"
+duplicate_key: https://www.justice.gov/usao-sdin/pr/georgia-man-sentenced-45-years-federal-prison-using-stolen-credit-card-numbers-obtain
 duplicate_normalized_at: 2026-04-26
+text_status: source-digest
+storage_mode: source-digest
+content_hash: sha256:5a0ce8b4809bff70fcbc2df4dd42b3f5aa8f76b39426b70e5011b809c7449b24
+word_count: 143
+extraction_date: 2026-04-28
 ---
 ## Source Summary
 

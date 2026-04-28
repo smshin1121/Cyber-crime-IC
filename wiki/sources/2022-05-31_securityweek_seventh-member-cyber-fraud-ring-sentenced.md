@@ -2,7 +2,7 @@
 type: source
 title: "Seventh Member of International Cyber Fraud Ring Sentenced to Prison"
 source_type: news
-publisher: "SecurityWeek"
+publisher: SecurityWeek
 publish_date: 2022-05-31
 ingest_date: 2026-04-25
 language: en

@@ -3,7 +3,7 @@ type: source
 title: "Southern California men sentenced for role in nationwide darknet fentanyl distribution"
 source_type: news
 publisher: "Legal Newsline"
-author: "Staff"
+author: Staff
 publish_date: 2024-04-29
 ingest_date: 2026-04-25
 language: en
@@ -18,6 +18,8 @@ key_findings:
   - "Wickr encrypted messaging used for orders"
 collection_url: https://legalnewsline.com/stories/667586108-southern-california-men-sentenced-for-role-in-nationwide-darknet-fentanyl-distribution
 created: 2026-04-25
+raw_path: raw/news/2024-04-29_legalnewsline_socal-men-sentenced-nationwide-darknet-fentanyl-distribution.md
+copyright_policy: summary-only
 ---
 ## Source Summary
 

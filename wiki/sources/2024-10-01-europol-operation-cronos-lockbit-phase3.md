@@ -1,33 +1,32 @@
 ---
 type: source
 title: "LockBit power cut: four new arrests and financial sanctions against affiliates - Operation Cronos Phase 3"
-raw_path: "raw/press-releases/2024-10-01_europol_operation-cronos-lockbit-phase3.md"
-source_type: "press-release"
-publisher: "Europol"
+raw_path: raw/press-releases/2024-10-01_europol_operation-cronos-lockbit-phase3.md
+source_type: press-release
+publisher: Europol
 author: "Europol Media and Press"
-publish_date: "2024-10-01"
-ingest_date: "2026-04-08"
-language: "en"
-reliability: "high"
-credibility: "confirmed"
-sensitivity: "public"
+publish_date: 2024-10-01
+ingest_date: 2026-04-08
+language: en
+reliability: high
+credibility: confirmed
+sensitivity: public
 pages_updated:
-  - "operation-cronos-phase3"
-  - "europol-ec3"
-  - "ransomware-ic"
-  - "uk-nca"
-  - "fbi-cyber-division"
-  - "eurojust"
+  - operation-cronos-phase3
+  - europol-ec3
+  - ransomware-ic
+  - uk-nca
+  - fbi-cyber-division
+  - eurojust
 key_findings:
   - "Operation Cronos Phase 3 resulted in 4 new arrests: suspected LockBit developer (France), 2 affiliate supporters (UK), 1 bulletproof hosting admin (Spain)"
   - "9 servers seized in Spain"
   - "Australia, UK, US imposed financial sanctions on a prolific LockBit affiliate linked to Evil Corp"
   - "UK sanctioned 15 Russian citizens, US sanctioned 6, Australia sanctioned 2 for Evil Corp involvement"
   - "Cumulative Operation Cronos arrests: 6 (Phase 1: 2, Phase 3: 4)"
-collection_url: "https://www.europol.europa.eu/media-press/newsroom/news/lockbit-power-cut-four-new-arrests-and-financial-sanctions-against-affiliates"
+collection_url: https://www.europol.europa.eu/media-press/newsroom/news/lockbit-power-cut-four-new-arrests-and-financial-sanctions-against-affiliates
 created: 2026-04-08
 ---
-
 ## Summary
 
 Official Europol press release announcing the third phase of **Operation Cronos**, continuing enforcement actions against the LockBit ransomware group. This phase featured new arrests, server seizures, and a significant expansion into financial sanctions against Evil Corp affiliates.

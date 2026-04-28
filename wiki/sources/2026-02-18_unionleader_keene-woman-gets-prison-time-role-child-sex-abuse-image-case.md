@@ -3,7 +3,7 @@ type: source
 title: "Keene woman gets prison time for role in child sex abuse image case"
 source_type: news
 publisher: "New Hampshire Union Leader"
-author: "Staff"
+author: Staff
 publish_date: 2026-02-18
 ingest_date: 2026-04-25
 language: en
@@ -18,6 +18,8 @@ key_findings:
   - "Confirms husband Paul Baird previously sentenced to 25 years"
 collection_url: https://www.unionleader.com/news/courts/keene-woman-gets-prison-time-for-role-in-child-sex-abuse-image-case/article_48da9183-e145-4d31-8409-76c62c66d648.html
 created: 2026-04-25
+raw_path: raw/news/2026-02-18_unionleader_keene-woman-gets-prison-time-role-child-sex-abuse-image-case.md
+copyright_policy: summary-only
 ---
 ## Source Summary
 

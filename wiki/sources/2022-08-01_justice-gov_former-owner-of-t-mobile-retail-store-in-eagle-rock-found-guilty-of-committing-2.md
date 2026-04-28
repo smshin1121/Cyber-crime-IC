@@ -14,7 +14,7 @@ sensitivity: public
 pages_updated:
   - operation-former-owner-of-t-mobile-retail-store-in-eagle-rock-found-guilty-of-committing-25-million-scheme-to-illegally-
 key_findings:
-  - "This domestic-only U.S. follow-on record has been absorbed into the canonical case page [[former-owner-of-t-mobile-retail-store-in-eagle-rock-found-guilty-of-committing-25-million-scheme-to-illegally-]]. No visible cross-border mechanism is documented, so it is not treated as a separate international-cooperation operation."
+  - "This domestic-only U.S. follow-on record has been absorbed into the canonical case page former-owner-of-t-mobile-retail-store-in-eagle-rock-found-guilty-of-committing-25-million-scheme-to-illegally-. No visible cross-border mechanism is documented, so it is not treated as a separate international-cooperation operation."
 collection_url: https://www.justice.gov/usao-cdca/pr/former-owner-t-mobile-retail-store-eagle-rock-found-guilty-committing-25-million-scheme
 created: 2026-04-17
 text_status: parsed

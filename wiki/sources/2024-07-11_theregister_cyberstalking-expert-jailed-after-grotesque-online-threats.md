@@ -3,7 +3,7 @@ type: source
 title: "Cyberstalking expert jailed after 'grotesque' online threats"
 source_type: news
 publisher: "The Register"
-author: "Staff"
+author: Staff
 publish_date: 2024-07-11
 ingest_date: 2026-04-25
 language: en
@@ -16,6 +16,8 @@ key_findings:
   - "UK trade press confirmation of 9-year sentence"
 collection_url: https://www.theregister.com/2024/07/11/cyberstalker_jailed
 created: 2026-04-25
+raw_path: raw/news/2024-07-11_theregister_cyberstalking-expert-jailed-after-grotesque-online-threats.md
+copyright_policy: summary-only
 ---
 ## Source Summary
 

@@ -3,7 +3,7 @@ type: source
 title: "Orange County man arrested on federal stalking charge alleging multiyear harassment campaign against prominent online gamer"
 source_type: news
 publisher: "Orange County Breeze"
-author: "Staff"
+author: Staff
 publish_date: 2022-05-31
 ingest_date: 2026-04-25
 language: en
@@ -17,6 +17,8 @@ key_findings:
   - "Hundreds of social media accounts created to send threatening messages"
 collection_url: https://www.oc-breeze.com/2022/05/31/213815_orange-county-man-arrested-on-federal-stalking-charge-alleging-multiyear-harassment-campaign-against-prominent-online-gamer/
 created: 2026-04-25
+raw_path: raw/news/2022-05-31_ocbreeze_oc-man-federal-stalking-multiyear-harassment-online-gamer.md
+copyright_policy: summary-only
 ---
 ## Source Summary
 

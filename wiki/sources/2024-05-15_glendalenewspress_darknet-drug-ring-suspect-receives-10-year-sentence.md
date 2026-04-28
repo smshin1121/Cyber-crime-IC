@@ -3,7 +3,7 @@ type: source
 title: "Darknet Drug Ring Suspect Receives 10-Year Sentence"
 source_type: news
 publisher: "Glendale News-Press"
-author: "Staff"
+author: Staff
 publish_date: 2024-05-15
 ingest_date: 2026-04-25
 language: en
@@ -16,6 +16,8 @@ key_findings:
   - "Local Glendale paper confirms Sangbarani's residence and connection to NoLove ring"
 collection_url: https://outlooknewspapers.com/glendalenewspress/news/darknet-drug-ring-suspect-receives-10-year-sentence/article_58b8e229-994e-595f-aa4e-0dedb6619291.html
 created: 2026-04-25
+raw_path: raw/news/2024-05-15_glendalenewspress_darknet-drug-ring-suspect-receives-10-year-sentence.md
+copyright_policy: summary-only
 ---
 ## Source Summary
 

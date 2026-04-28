@@ -14,7 +14,7 @@ sensitivity: public
 pages_updated:
   - operation-leader-of-transnational-cybercrime-group-noirs-luxury-refunds-charged-with-conspiracy-to-commit-mail-and-wire-
 key_findings:
-  - "This domestic-only U.S. follow-on record has been absorbed into the canonical case page [[leader-of-transnational-cybercrime-group-noirs-luxury-refunds-charged-with-conspiracy-to-commit-mail-and-wire-]]. No visible cross-border mechanism is documented, so it is not treated as a separate international-cooperation operation."
+  - "This domestic-only U.S. follow-on record has been absorbed into the canonical case page leader-of-transnational-cybercrime-group-noirs-luxury-refunds-charged-with-conspiracy-to-commit-mail-and-wire-. No visible cross-border mechanism is documented, so it is not treated as a separate international-cooperation operation."
 collection_url: https://www.justice.gov/usao-ndal/pr/leader-transnational-cybercrime-group-noirs-luxury-refunds-charged-conspiracy-commit-0
 created: 2026-04-17
 text_status: parsed

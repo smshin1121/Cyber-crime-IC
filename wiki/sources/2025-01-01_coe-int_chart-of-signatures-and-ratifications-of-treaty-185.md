@@ -14,7 +14,7 @@ sensitivity: public
 pages_updated:
 
 key_findings:
-  - "Poland is a European Union member and **[[budapest-convention|Budapest Convention]] party**. Its cybercrime law enforcement underwent a major institutional reform in 2022 with the creation of the **Central Bureau for Combating Cybercrime** (*Centralne Biuro Zwalczania Cyberprzestępczości*, **CBZC**), a dedicated national cybercrime investigation service within the Polish Police."
+  - "Poland is a European Union member and **Budapest Convention party**. Its cybercrime law enforcement underwent a major institutional reform in 2022 with the creation of the **Central Bureau for Combating Cybercrime** (*Centralne Biuro Zwalczania Cyberprzestępczości*, **CBZC**), a dedicated national cybercrime investigation service within the Polish Police."
 collection_url: "https://www.coe.int/en/web/conventions/full-list?module=signatures-by-treaty&treatynum=185"
 created: 2026-04-17
 text_status: parsed

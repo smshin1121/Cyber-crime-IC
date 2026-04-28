@@ -13,15 +13,18 @@ credibility: confirmed
 sensitivity: public
 pages_updated:
 
-key_findings:
-  - "Secure .gov websites use HTTPS A lock ( Lock Locked padlock ) or https:// means you’ve safely connected to the .gov website. Share sensitive information only on official, secure websites."
 collection_url: https://www.justice.gov/usao-wdwa/pr/prolific-fentanyl-distributor-sentenced-six-years-prison
 created: 2026-04-18
 updated: 2026-04-18
 duplicate_of: "[[2026-01-26_justice-gov_prolific-fentanyl-distributor-sentenced-to-six-years-in-prison]]"
 duplicate_reason: same_collection_url
-duplicate_key: "https://www.justice.gov/usao-wdwa/pr/prolific-fentanyl-distributor-sentenced-six-years-prison"
+duplicate_key: https://www.justice.gov/usao-wdwa/pr/prolific-fentanyl-distributor-sentenced-six-years-prison
 duplicate_normalized_at: 2026-04-26
+text_status: source-digest
+storage_mode: source-digest
+content_hash: sha256:23fe81254e3d02fe043b1034bb7157e48b4554426d66a7c9d37d67c28abce947
+word_count: 119
+extraction_date: 2026-04-28
 ---
 ## Source Summary
 

@@ -13,8 +13,6 @@ credibility: confirmed
 sensitivity: public
 pages_updated:
 
-key_findings:
-  - "Secure .gov websites use HTTPS A lock ( Lock Locked padlock ) or https:// means you’ve safely connected to the .gov website. Share sensitive information only on official, secure websites."
 collection_url: https://www.justice.gov/usao-sdtx/pr/final-co-conspirator-ordered-prison-dark-web-pill-manufacturing-and-distribution-ring
 created: 2026-04-18
 defendant_names:
@@ -22,8 +20,13 @@ defendant_names:
 updated: 2026-04-18
 duplicate_of: "[[2024-12-02_justice-gov_final-co-conspirator-ordered-to-prison-for-dark-web-pill-manufacturing-and-distr]]"
 duplicate_reason: same_collection_url
-duplicate_key: "https://www.justice.gov/usao-sdtx/pr/final-co-conspirator-ordered-prison-dark-web-pill-manufacturing-and-distribution-ring"
+duplicate_key: https://www.justice.gov/usao-sdtx/pr/final-co-conspirator-ordered-prison-dark-web-pill-manufacturing-and-distribution-ring
 duplicate_normalized_at: 2026-04-26
+text_status: source-digest
+storage_mode: source-digest
+content_hash: sha256:f4d4d9c828a1bde12f489ce9d5f3c920543a521143b620cc47a8f799840438a2
+word_count: 120
+extraction_date: 2026-04-28
 ---
 ## Source Summary
 

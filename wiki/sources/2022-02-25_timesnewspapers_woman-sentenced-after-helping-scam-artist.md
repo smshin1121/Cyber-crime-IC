@@ -3,7 +3,7 @@ type: source
 title: "Woman Sentenced After Helping Scam Artist"
 source_type: news
 publisher: "Webster-Kirkwood Times"
-author: "Staff"
+author: Staff
 publish_date: 2022-02-25
 ingest_date: 2026-04-25
 language: en
@@ -16,6 +16,8 @@ key_findings:
   - "Local Kirkwood newspaper confirmation of Seim's federal sentencing"
 collection_url: https://www.timesnewspapers.com/webster-kirkwoodtimes/woman-sentenced-after-helping-scam-artist/article_1b2ae9e0-9b02-11ec-bb64-5ff45577d3b2.html
 created: 2026-04-25
+raw_path: raw/news/2022-02-25_timesnewspapers_woman-sentenced-after-helping-scam-artist.md
+copyright_policy: summary-only
 ---
 ## Source Summary
 

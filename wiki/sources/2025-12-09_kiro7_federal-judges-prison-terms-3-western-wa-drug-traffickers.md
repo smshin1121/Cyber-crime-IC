@@ -3,7 +3,7 @@ type: source
 title: "Federal judges hand down prison terms to 3 western WA drug traffickers"
 source_type: news
 publisher: "KIRO 7 News Seattle"
-author: "Staff"
+author: Staff
 publish_date: 2025-12-09
 ingest_date: 2026-04-25
 language: en
@@ -19,8 +19,10 @@ collection_url: https://www.kiro7.com/news/local/federal-judges-hand-down-prison
 created: 2026-04-25
 duplicate_of: "[[2024-09-13_kiro7_federal-judges-prison-terms-3-western-wa-drug-traffickers]]"
 duplicate_reason: same_collection_url
-duplicate_key: "https://www.kiro7.com/news/local/federal-judges-hand-down-prison-terms-3-western-wa-drug-traffickers/M5RFTVYGKVCFVBBFK7PCLCU4RQ/"
+duplicate_key: https://www.kiro7.com/news/local/federal-judges-hand-down-prison-terms-3-western-wa-drug-traffickers/M5RFTVYGKVCFVBBFK7PCLCU4RQ/
 duplicate_normalized_at: 2026-04-26
+raw_path: raw/news/2025-12-09_kiro7_federal-judges-prison-terms-3-western-wa-drug-traffickers.md
+copyright_policy: summary-only
 ---
 ## Source Summary
 

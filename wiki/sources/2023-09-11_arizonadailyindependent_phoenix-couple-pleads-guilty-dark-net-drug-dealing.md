@@ -3,7 +3,7 @@ type: source
 title: "Phoenix Couple Pleads Guilty To Dark Net Drug Dealing"
 source_type: news
 publisher: "Arizona Daily Independent"
-author: "Staff"
+author: Staff
 publish_date: 2023-09-11
 ingest_date: 2026-04-25
 language: en
@@ -16,6 +16,8 @@ key_findings:
   - "Local Phoenix coverage of Taylor/Fischer plea."
 collection_url: https://arizonadailyindependent.com/2023/09/11/phoenix-couple-plead-guilty-to-dark-net-drug-dealing/
 created: 2026-04-25
+raw_path: raw/news/2023-09-11_arizonadailyindependent_phoenix-couple-pleads-guilty-dark-net-drug-dealing.md
+copyright_policy: summary-only
 ---
 ## Source Summary
 

@@ -13,8 +13,6 @@ credibility: confirmed
 sensitivity: public
 pages_updated:
 
-key_findings:
-  - "Secure .gov websites use HTTPS A lock ( Lock Locked padlock ) or https:// means you’ve safely connected to the .gov website. Share sensitive information only on official, secure websites."
 collection_url: https://www.justice.gov/usao-ndtx/pr/darkweb-drug-trafficker-arrested-operation-disruptor-pleads-guilty
 created: 2026-04-18
 updated: 2026-04-18
@@ -22,8 +20,13 @@ defendant_names:
   - "Darkweb Drug Trafficker"
 duplicate_of: "[[2020-12-17_justice-gov_darkweb-drug-trafficker-arrested-in-operation-disruptor-pleads-guilty]]"
 duplicate_reason: same_collection_url
-duplicate_key: "https://www.justice.gov/usao-ndtx/pr/darkweb-drug-trafficker-arrested-operation-disruptor-pleads-guilty"
+duplicate_key: https://www.justice.gov/usao-ndtx/pr/darkweb-drug-trafficker-arrested-operation-disruptor-pleads-guilty
 duplicate_normalized_at: 2026-04-26
+text_status: source-digest
+storage_mode: source-digest
+content_hash: sha256:7e5bfae099653f0f3f93c2a78ac6c77ef87ee454f146c8fd1aa098d9bbc17de1
+word_count: 101
+extraction_date: 2026-04-28
 ---
 ## Source Summary
 

@@ -2,7 +2,7 @@
 type: source
 title: "Romanians accused of 2017 ransomware attack on D.C. police cameras had much bigger plans"
 source_type: news
-publisher: "StateScoop"
+publisher: StateScoop
 publish_date: 2018-07-30
 ingest_date: 2026-04-25
 language: en

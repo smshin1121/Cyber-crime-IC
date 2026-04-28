@@ -17,6 +17,8 @@ key_findings:
   - "Confirms 337 arrests across 38 countries and 223 in South Korea."
 collection_url: https://www.scmp.com/news/asia/east-asia/article/3033273/south-korean-man-who-ran-darknet-child-porn-site-his-bedroom
 created: 2026-04-25
+raw_path: raw/news/2019-10-19_scmp_south-korean-darknet-child-porn-bitcoin-bedroom.md
+copyright_policy: summary-only
 ---
 ## Source Summary
 

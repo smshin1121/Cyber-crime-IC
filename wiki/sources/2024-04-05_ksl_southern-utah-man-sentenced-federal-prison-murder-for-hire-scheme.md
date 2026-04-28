@@ -2,8 +2,8 @@
 type: source
 title: "Southern Utah man sentenced to federal prison for murder-for-hire scheme"
 source_type: news
-publisher: "KSL.com"
-author: "Staff"
+publisher: KSL.com
+author: Staff
 publish_date: 2024-04-05
 ingest_date: 2026-04-25
 language: en
@@ -18,6 +18,8 @@ key_findings:
   - "KSL Salt Lake City coverage of Pence's seven-year sentence"
 collection_url: https://www.ksl.com/article/50973420/southern-utah-man-sentenced-to-federal-prison-for-murder-for-hire-scheme
 created: 2026-04-25
+raw_path: raw/news/2024-04-05_ksl_southern-utah-man-sentenced-federal-prison-murder-for-hire-scheme.md
+copyright_policy: summary-only
 ---
 ## Source Summary
 

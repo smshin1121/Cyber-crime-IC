@@ -22,8 +22,14 @@ key_findings:
 created: 2026-04-18
 duplicate_of: "[[2026-04-17_coe-int_italy-octopus-cybercrime-community]]"
 duplicate_reason: same_collection_url
-duplicate_key: "https://www.coe.int/en/web/octopus/-/italy"
+duplicate_key: https://www.coe.int/en/web/octopus/-/italy
 duplicate_normalized_at: 2026-04-26
+raw_path: raw/government-reports/2026-04-18_coe-int_italy-octopus-cybercrime-community-country-profile.md
+text_status: source-digest
+storage_mode: source-digest
+content_hash: sha256:00e38dacbe1641715c23e05fb591370147af84032ff24a681675948ba0496f00
+word_count: 163
+extraction_date: 2026-04-28
 ---
 ## Source Summary
 

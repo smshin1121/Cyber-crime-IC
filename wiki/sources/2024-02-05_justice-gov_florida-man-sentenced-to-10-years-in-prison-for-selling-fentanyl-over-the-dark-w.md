@@ -14,13 +14,18 @@ sensitivity: public
 pages_updated:
   - operation-us-v-chaloner-saintillus-dark-web
 key_findings:
-  - "This domestic-only U.S. follow-on record has been absorbed into the canonical case page [[us-v-chaloner-saintillus-dark-web]]. No visible cross-border mechanism is documented, so it is not treated as a separate international-cooperation operation."
+  - "This domestic-only U.S. follow-on record has been absorbed into the canonical case page us-v-chaloner-saintillus-dark-web. No visible cross-border mechanism is documented, so it is not treated as a separate international-cooperation operation."
 collection_url: https://www.justice.gov/usao-edca/pr/florida-man-sentenced-10-years-prison-selling-fentanyl-over-dark-web
 created: 2026-04-17
 duplicate_of: "[[2024-02-05_edca_chaloner-saintillus-dark-web-sentencing]]"
 duplicate_reason: same_collection_url
-duplicate_key: "https://www.justice.gov/usao-edca/pr/florida-man-sentenced-10-years-prison-selling-fentanyl-over-dark-web"
+duplicate_key: https://www.justice.gov/usao-edca/pr/florida-man-sentenced-10-years-prison-selling-fentanyl-over-dark-web
 duplicate_normalized_at: 2026-04-26
+text_status: source-digest
+storage_mode: source-digest
+content_hash: sha256:2e750e6affcdae7731216c6509ca6ae810c0f6ccaf4b7cbc19d34cb4b4ddb3b9
+word_count: 163
+extraction_date: 2026-04-28
 ---
 ## Source Summary
 

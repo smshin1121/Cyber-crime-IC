@@ -2,8 +2,8 @@
 type: source
 title: "Former Owners of T-Mobile Retail Store in Eagle Rock Face Federal Charges in $25 Million Scheme to Illegally Unlock Phones"
 source_type: news
-publisher: "KTLA"
-author: "Staff"
+publisher: KTLA
+author: Staff
 publish_date: 2022-08-02
 ingest_date: 2026-04-25
 language: en
@@ -18,6 +18,8 @@ key_findings:
   - "Top Tier Solutions store at Eagle Rock Plaza named"
 collection_url: https://ktla.com/news/local-news/former-owners-of-t-mobile-store-in-eagle-rock-face-federal-charges-in-25-million-scheme-to-illegally-unlock-cellphones/
 created: 2026-04-25
+raw_path: raw/news/2022-08-02_ktla_former-owners-tmobile-eagle-rock-federal-charges-25m.md
+copyright_policy: summary-only
 ---
 ## Source Summary
 

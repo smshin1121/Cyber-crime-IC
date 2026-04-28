@@ -3,7 +3,7 @@ type: source
 title: "North Reading man arrested for possession of child porn"
 source_type: news
 publisher: "Daily Times Chronicle"
-author: "Staff"
+author: Staff
 publish_date: 2025-08-15
 ingest_date: 2026-04-25
 language: en
@@ -17,6 +17,8 @@ key_findings:
   - "Hannan is a Level II registered sex offender."
 collection_url: https://homenewshere.com/daily_times_chronicle/news/reading/article_25cc6dd6-d43e-425c-98b8-8970d88a7a08.html
 created: 2026-04-25
+raw_path: raw/news/2025-08-15_homenewshere_north-reading-man-arrested-for-possession-of-child-porn.md
+copyright_policy: summary-only
 ---
 ## Source Summary
 

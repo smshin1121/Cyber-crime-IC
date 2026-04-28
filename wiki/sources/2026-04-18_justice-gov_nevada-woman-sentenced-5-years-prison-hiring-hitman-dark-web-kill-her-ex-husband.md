@@ -13,8 +13,6 @@ credibility: confirmed
 sensitivity: public
 pages_updated:
 
-key_findings:
-  - "Secure .gov websites use HTTPS A lock ( Lock Locked padlock ) or https:// means you’ve safely connected to the .gov website. Share sensitive information only on official, secure websites."
 collection_url: https://www.justice.gov/usao-edca/pr/nevada-woman-sentenced-5-years-prison-hiring-hitman-dark-web-kill-her-ex-husband
 created: 2026-04-18
 defendant_names:
@@ -22,8 +20,13 @@ defendant_names:
 updated: 2026-04-18
 duplicate_of: "[[2023-07-21_justice-gov_nevada-woman-sentenced-to-5-years-prison-for-hiring-hitman-on-dark-web-to-kill-h]]"
 duplicate_reason: same_collection_url
-duplicate_key: "https://www.justice.gov/usao-edca/pr/nevada-woman-sentenced-5-years-prison-hiring-hitman-dark-web-kill-her-ex-husband"
+duplicate_key: https://www.justice.gov/usao-edca/pr/nevada-woman-sentenced-5-years-prison-hiring-hitman-dark-web-kill-her-ex-husband
 duplicate_normalized_at: 2026-04-26
+text_status: source-digest
+storage_mode: source-digest
+content_hash: sha256:32eb41c2cd5cf8ed0f6b35fae4550842b5e03633cbb30e44c525de2de719c12c
+word_count: 129
+extraction_date: 2026-04-28
 ---
 ## Source Summary
 

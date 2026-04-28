@@ -22,8 +22,13 @@ defendant_names:
 updated: 2026-04-18
 duplicate_of: "[[2023-08-04_justice-gov_nigerian-national-pleads-guilty-to-1-25-million-business-email-compromise-scam-i]]"
 duplicate_reason: same_collection_url
-duplicate_key: "https://www.justice.gov/usao-dc/pr/nigerian-national-pleads-guilty-125-million-business-email-compromise-scam-impacting-us"
+duplicate_key: https://www.justice.gov/usao-dc/pr/nigerian-national-pleads-guilty-125-million-business-email-compromise-scam-impacting-us
 duplicate_normalized_at: 2026-04-26
+text_status: source-digest
+storage_mode: source-digest
+content_hash: sha256:ecf0d317c5d69440dad4ad0250874cfdc15729cfdba286a0101a6e294f974332
+word_count: 130
+extraction_date: 2026-04-28
 ---
 ## Source Summary
 

@@ -14,13 +14,18 @@ sensitivity: public
 pages_updated:
   - operation-two-southern-california-men-who-supplied-fentanyl-sold-to-darknet-customers-in-all-50-states-sentenced-to-fede
 key_findings:
-  - "This domestic-only U.S. follow-on record has been absorbed into the canonical case page [[two-southern-california-men-who-supplied-fentanyl-sold-to-darknet-customers-in-all-50-states-sentenced-to-fede]]. No visible cross-border mechanism is documented, so it is not treated as a separate international-cooperation operation."
+  - "This domestic-only U.S. follow-on record has been absorbed into the canonical case page two-southern-california-men-who-supplied-fentanyl-sold-to-darknet-customers-in-all-50-states-sentenced-to-fede. No visible cross-border mechanism is documented, so it is not treated as a separate international-cooperation operation."
 collection_url: https://www.justice.gov/usao-cdca/pr/two-southern-california-men-who-supplied-fentanyl-sold-darknet-customers-all-50-states
 created: 2026-04-17
 duplicate_of: "[[2025-01-13_cdca_ruiz-navia-darknet-sentencing]]"
 duplicate_reason: same_collection_url
-duplicate_key: "https://www.justice.gov/usao-cdca/pr/two-southern-california-men-who-supplied-fentanyl-sold-darknet-customers-all-50-states"
+duplicate_key: https://www.justice.gov/usao-cdca/pr/two-southern-california-men-who-supplied-fentanyl-sold-darknet-customers-all-50-states
 duplicate_normalized_at: 2026-04-26
+text_status: source-digest
+storage_mode: source-digest
+content_hash: sha256:4b4a4600ccd2c0003280ea004d0f16794ee299b5a69811e7fd7174ef202acea0
+word_count: 167
+extraction_date: 2026-04-28
 ---
 ## Source Summary
 

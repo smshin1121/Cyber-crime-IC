@@ -3,7 +3,7 @@ type: source
 title: "Former Camp Pendleton Marine Johao Chavarri pleads guilty to cyberstalking"
 source_type: news
 publisher: "ABC7 Los Angeles (KABC-TV)"
-author: "Staff"
+author: Staff
 publish_date: 2022-05-28
 ingest_date: 2026-04-25
 language: en
@@ -18,8 +18,10 @@ collection_url: https://abc7.com/post/johao-chavarri-camp-pendleton-marine-cyber
 created: 2026-04-25
 duplicate_of: "[[2022-02-09_abc7la_former-camp-pendleton-marine-chavarri-pleads-guilty-cyberstalking]]"
 duplicate_reason: same_collection_url
-duplicate_key: "https://abc7.com/post/johao-chavarri-camp-pendleton-marine-cyberstalking-southern-california/11902073/"
+duplicate_key: https://abc7.com/post/johao-chavarri-camp-pendleton-marine-cyberstalking-southern-california/11902073/
 duplicate_normalized_at: 2026-04-26
+raw_path: raw/news/2022-05-28_abc7_johao-chavarri-camp-pendleton-marine-cyberstalking-pleads-guilty.md
+copyright_policy: summary-only
 ---
 ## Source Summary
 

@@ -14,13 +14,18 @@ sensitivity: public
 pages_updated:
   - operation-us-v-ian-hoffmann
 key_findings:
-  - "This domestic-only U.S. follow-on record has been absorbed into the canonical case page [[us-v-ian-hoffmann]]. No visible cross-border mechanism is documented, so it is not treated as a separate international-cooperation operation."
+  - "This domestic-only U.S. follow-on record has been absorbed into the canonical case page us-v-ian-hoffmann. No visible cross-border mechanism is documented, so it is not treated as a separate international-cooperation operation."
 collection_url: https://www.justice.gov/usao-edca/pr/dark-web-traffickers-heroin-methamphetamine-and-cocaine-prosecuted
 created: 2026-04-17
 duplicate_of: "[[2023-06-06_justice-gov_dark-web-traffickers-heroin-methamphetamine-cocaine-prosecuted]]"
 duplicate_reason: same_collection_url
-duplicate_key: "https://www.justice.gov/usao-edca/pr/dark-web-traffickers-heroin-methamphetamine-and-cocaine-prosecuted"
+duplicate_key: https://www.justice.gov/usao-edca/pr/dark-web-traffickers-heroin-methamphetamine-and-cocaine-prosecuted
 duplicate_normalized_at: 2026-04-26
+text_status: source-digest
+storage_mode: source-digest
+content_hash: sha256:dbad208ffd544d225696485ca67cbccd44ff7646de6cc5b9ebb2bf754a82335a
+word_count: 154
+extraction_date: 2026-04-28
 ---
 ## Source Summary
 

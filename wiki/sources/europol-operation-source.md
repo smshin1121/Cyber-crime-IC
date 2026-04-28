@@ -1,26 +1,26 @@
 ---
 type: source
 title: "Europol: International Police Operation Targets Polymorphic Beebone Botnet (Operation Source)"
-collection_url: "https://www.europol.europa.eu/media-press/newsroom/news/international-police-operation-targets-polymorphic-beebone-botnet"
-collection_domain: "europol.europa.eu"
-source_type: "press-release"
-publisher: "Europol"
+collection_url: https://www.europol.europa.eu/media-press/newsroom/news/international-police-operation-targets-polymorphic-beebone-botnet
+collection_domain: europol.europa.eu
+source_type: press-release
+publisher: Europol
 author: "Europol Press Office"
-publish_date: "2015-04-09"
-ingest_date: "2026-04-08"
-enriched_date: "2026-04-10"
-language: "en"
-reliability: "high"
-credibility: "confirmed"
-sensitivity: "public"
+publish_date: 2015-04-09
+ingest_date: 2026-04-08
+enriched_date: 2026-04-10
+language: en
+reliability: high
+credibility: confirmed
+sensitivity: public
 source_tier: 2
 pages_updated:
-  - "operation-source"
-  - "europol-ec3"
-  - "j-cat"
-  - "dutch-nhtcu"
-  - "fbi"
-  - "netherlands"
+  - operation-source
+  - europol-ec3
+  - j-cat
+  - dutch-nhtcu
+  - fbi
+  - netherlands
 key_findings:
   - "Europol EC3, the Joint Cybercrime Action Taskforce (J-CAT), and the Dutch National High Tech Crime Unit (NHTCU) sinkholed the Beebone (W32/Worm-AAEH) polymorphic botnet on 8 April 2015 in a coordinated international action"
   - "The botnet was neutralized by registering, suspending, or seizing command-and-control (C&C) domains used for malware communication — sinkhole methodology rather than server seizure"
@@ -33,10 +33,15 @@ created: 2026-04-08
 updated: 2026-04-10
 duplicate_of: "[[2015-04-01_europol-europa-eu_international-police-operation-targets-polymorphic-beebone-botnet]]"
 duplicate_reason: same_collection_url
-duplicate_key: "https://www.europol.europa.eu/media-press/newsroom/news/international-police-operation-targets-polymorphic-beebone-botnet"
+duplicate_key: https://www.europol.europa.eu/media-press/newsroom/news/international-police-operation-targets-polymorphic-beebone-botnet
 duplicate_normalized_at: 2026-04-26
+raw_path: raw/press-releases/europol-operation-source.md
+text_status: source-digest
+storage_mode: source-digest
+content_hash: sha256:c204b265205057aeeb5b64cfd9c2c12223c48e0c9714437b972299c4b1a96a77
+word_count: 391
+extraction_date: 2026-04-28
 ---
-
 ## Source
 
 - **Publisher**: Europol

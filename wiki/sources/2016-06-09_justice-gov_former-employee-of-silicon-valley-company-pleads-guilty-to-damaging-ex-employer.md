@@ -14,7 +14,7 @@ sensitivity: public
 pages_updated:
   - operation-former-employee-of-silicon-valley-company-pleads-guilty-to-damaging-ex-employers-computers
 key_findings:
-  - "Former Employee Of Silicon Valley Company Pleads Guilty To Damaging Ex-Employer’s Computers Enforcement Action is a defendant-specific enforcement action page derived from [[former-employee-of-silicon-valley-company-pleads-guilty-to-damaging-ex-employers-computers]]. It captures the prosecutorial or seizure stage reflected in the linked case record and preserves the operation-side catalog entry for this follow-on action."
+  - "Former Employee Of Silicon Valley Company Pleads Guilty To Damaging Ex-Employer’s Computers Enforcement Action is a defendant-specific enforcement action page derived from former-employee-of-silicon-valley-company-pleads-guilty-to-damaging-ex-employers-computers. It captures the prosecutorial or seizure stage reflected in the linked case record and preserves the operation-side catalog entry for this follow-on action."
 collection_url: https://www.justice.gov/usao-ndca/pr/former-employee-silicon-valley-company-pleads-guilty-damaging-ex-employer-s-computers
 created: 2026-04-17
 text_status: parsed

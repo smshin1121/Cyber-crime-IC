@@ -19,8 +19,14 @@ collection_url: https://www.dea.gov/press-releases/2024/10/25/washington-man-sen
 created: 2026-04-25
 duplicate_of: "[[2024-10-25_dea-gov_washington-man-sentenced-10-years-right-hand-man-deadly-drug-distribution-ring]]"
 duplicate_reason: same_collection_url
-duplicate_key: "https://www.dea.gov/press-releases/2024/10/25/washington-man-sentenced-10-years-prison-role-right-hand-man-deadly-drug"
+duplicate_key: https://www.dea.gov/press-releases/2024/10/25/washington-man-sentenced-10-years-prison-role-right-hand-man-deadly-drug
 duplicate_normalized_at: 2026-04-26
+raw_path: raw/press-releases/2024-10-25_dea_washington-man-sentenced-10-years-prison-role-right-hand-man-deadly-drug.md
+text_status: source-digest
+storage_mode: source-digest
+content_hash: sha256:7ca1449fd9be1bd7e6970e557758057f5068e391f8296cf42c9b84daec8b44d9
+word_count: 188
+extraction_date: 2026-04-28
 ---
 ## Source Summary
 

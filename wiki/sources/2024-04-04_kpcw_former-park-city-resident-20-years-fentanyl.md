@@ -3,7 +3,7 @@ type: source
 title: "Former Park City resident sentenced to 20 years in prison for fentanyl distribution"
 source_type: news
 publisher: "KPCW (Park City Public Radio)"
-author: "Staff"
+author: Staff
 publish_date: 2024-04-04
 ingest_date: 2026-04-25
 language: en
@@ -17,6 +17,8 @@ key_findings:
   - "Confirms Netherlands-sourced counterfeit oxycodone and use of encrypted apps."
 collection_url: https://www.kpcw.org/park-city/2024-04-04/former-park-city-resident-sentenced-to-20-years-in-prison-for-fentanyl-distribution
 created: 2026-04-25
+raw_path: raw/news/2024-04-04_kpcw_former-park-city-resident-20-years-fentanyl.md
+copyright_policy: summary-only
 ---
 ## Source Summary
 

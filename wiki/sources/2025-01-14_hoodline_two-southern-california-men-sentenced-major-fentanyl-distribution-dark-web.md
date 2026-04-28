@@ -2,7 +2,7 @@
 type: source
 title: "Two Southern California Men Sentenced in Major Fentanyl Distribution Case Linked to Dark Web"
 source_type: news
-publisher: "Hoodline"
+publisher: Hoodline
 author: "Ben Levine"
 publish_date: 2025-01-14
 ingest_date: 2026-04-25
@@ -19,8 +19,10 @@ collection_url: https://hoodline.com/2025/01/two-southern-california-men-sentenc
 created: 2026-04-25
 duplicate_of: "[[2025-01-14_hoodline_two-southern-california-men-sentenced-fentanyl-dark-web]]"
 duplicate_reason: same_collection_url
-duplicate_key: "https://hoodline.com/2025/01/two-southern-california-men-sentenced-in-major-fentanyl-distribution-case-linked-to-dark-web/"
+duplicate_key: https://hoodline.com/2025/01/two-southern-california-men-sentenced-in-major-fentanyl-distribution-case-linked-to-dark-web/
 duplicate_normalized_at: 2026-04-26
+raw_path: raw/news/2025-01-14_hoodline_two-southern-california-men-sentenced-major-fentanyl-distribution-dark-web.md
+copyright_policy: summary-only
 ---
 ## Source Summary
 

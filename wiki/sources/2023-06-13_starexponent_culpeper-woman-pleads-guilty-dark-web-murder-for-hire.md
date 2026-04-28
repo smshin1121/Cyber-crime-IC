@@ -3,7 +3,7 @@ type: source
 title: "Culpeper woman pleads guilty in dark web murder-for-hire plot"
 source_type: news
 publisher: "Culpeper Star Exponent"
-author: "Staff"
+author: Staff
 publish_date: 2023-06-13
 ingest_date: 2026-04-25
 language: en
@@ -17,6 +17,8 @@ key_findings:
   - "Tracks the case from arrest through plea, providing case progression context."
 collection_url: https://starexponent.com/news/culpeper-woman-pleads-guilty-in-dark-web-murder-for-hire-plot/article_4b5e033a-0493-11ee-af0e-372704e2d242.html
 created: 2026-04-25
+raw_path: raw/news/2023-06-13_starexponent_culpeper-woman-pleads-guilty-dark-web-murder-for-hire.md
+copyright_policy: summary-only
 ---
 ## Source Summary
 

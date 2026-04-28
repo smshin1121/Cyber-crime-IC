@@ -2,19 +2,19 @@
 type: source
 title: "Europol: 105 Arrested for Stealing Over €12 Million from US-Based Banks (Operation Secreto)"
 collection_url: "https://www.europol.europa.eu/media-press/newsroom/news/105-arrested-for-stealing-over-%E2%82%AC12-million-us-based-banks"
-collection_domain: "europol.europa.eu"
-source_type: "press-release"
-publisher: "Europol"
-publish_date: "2021-02-03"
-ingest_date: "2026-04-08"
-enriched_date: "2026-04-10"
-language: "en"
-reliability: "high"
-credibility: "probably-true"
-sensitivity: "public"
+collection_domain: europol.europa.eu
+source_type: press-release
+publisher: Europol
+publish_date: 2021-02-03
+ingest_date: 2026-04-08
+enriched_date: 2026-04-10
+language: en
+reliability: high
+credibility: probably-true
+sensitivity: public
 source_tier: 2
 pages_updated:
-  - "operation-secreto"
+  - operation-secreto
 key_findings:
   - "Europol announced on 2021-02-03 that Operation Secreto resulted in 105 arrests for a payment-card fraud scheme that stole over €12 million from US-based banks"
   - "Action day: 2020-10-06 — 37 arrested that day, with additional arrests in the months following; 88 house searches conducted"
@@ -28,8 +28,13 @@ duplicate_of: "[[2021-02-01_europol-europa-eu_105-arrested-for-stealing-over-eur
 duplicate_reason: same_collection_url
 duplicate_key: "https://www.europol.europa.eu/media-press/newsroom/news/105-arrested-for-stealing-over-%E2%82%AC12-million-us-based-banks"
 duplicate_normalized_at: 2026-04-26
+raw_path: raw/press-releases/europol-operation-secreto.md
+text_status: source-digest
+storage_mode: source-digest
+content_hash: sha256:5650c0bb15aa190e24005bbe39c58ee909b804635677e3a9f29fe7032a73b236
+word_count: 365
+extraction_date: 2026-04-28
 ---
-
 ## Source
 
 - **Publisher**: Europol

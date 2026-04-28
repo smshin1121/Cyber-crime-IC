@@ -3,7 +3,7 @@ type: source
 title: "Natchitoches man sentenced for possession of child porn"
 source_type: news
 publisher: "KTAL Shreveport"
-author: "Staff"
+author: Staff
 publish_date: 2025-02-25
 ingest_date: 2026-04-25
 language: en
@@ -18,6 +18,8 @@ key_findings:
   - "Project Safe Childhood case designation"
 collection_url: https://www.yahoo.com/news/natchitoches-man-sentenced-possession-child-225129165.html
 created: 2026-04-25
+raw_path: raw/news/2025-02-25_ktal_natchitoches-man-sentenced-for-possession-of-child-porn.md
+copyright_policy: summary-only
 ---
 ## Source Summary
 

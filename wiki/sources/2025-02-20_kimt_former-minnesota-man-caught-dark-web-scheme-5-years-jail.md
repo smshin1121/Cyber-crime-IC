@@ -3,7 +3,7 @@ type: source
 title: "Former Minnesota man caught in dark web scheme gets 5 years in jail"
 source_type: news
 publisher: "KIMT (CBS Rochester MN)"
-author: "Staff"
+author: Staff
 publish_date: 2025-02-20
 ingest_date: 2026-04-25
 language: en
@@ -17,6 +17,8 @@ key_findings:
   - "Local Minnesota TV news coverage of Shenkosky's federal sentencing for Genesis Market dark-web fraud."
 collection_url: https://www.kimt.com/news/former-minnesota-man-caught-in-dark-web-scheme-gets-5-years-in-jail/article_e5fe8891-cfcf-42c7-b54a-afe2323ac41a.html
 created: 2026-04-25
+raw_path: raw/news/2025-02-20_kimt_former-minnesota-man-caught-dark-web-scheme-5-years-jail.md
+copyright_policy: summary-only
 ---
 ## Source Summary
 

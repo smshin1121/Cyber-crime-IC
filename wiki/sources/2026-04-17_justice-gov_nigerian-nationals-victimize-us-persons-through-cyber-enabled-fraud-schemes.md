@@ -13,15 +13,18 @@ credibility: confirmed
 sensitivity: public
 pages_updated:
 
-key_findings:
-  - "Secure .gov websites use HTTPS A lock ( Lock Locked padlock ) or https:// means you’ve safely connected to the .gov website. Share sensitive information only on official, secure websites."
 collection_url: https://www.justice.gov/usao-az/pr/nigerian-nationals-victimize-us-persons-through-cyber-enabled-fraud-schemes
 created: 2026-04-17
 updated: 2026-04-18
 duplicate_of: "[[2023-02-03_justice-gov_nigerian-nationals-victimize-u-s-persons-through-cyber-enabled-fraud-schemes]]"
 duplicate_reason: same_collection_url
-duplicate_key: "https://www.justice.gov/usao-az/pr/nigerian-nationals-victimize-us-persons-through-cyber-enabled-fraud-schemes"
+duplicate_key: https://www.justice.gov/usao-az/pr/nigerian-nationals-victimize-us-persons-through-cyber-enabled-fraud-schemes
 duplicate_normalized_at: 2026-04-26
+text_status: source-digest
+storage_mode: source-digest
+content_hash: sha256:f35656992e04a96a8286eb92b1a39caba52c4537cac30fcc9f01d89f2e3362ac
+word_count: 155
+extraction_date: 2026-04-28
 ---
 ## Source Summary
 

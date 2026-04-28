@@ -14,7 +14,7 @@ sensitivity: public
 pages_updated:
   - operation-tulsa-man-who-fled-from-smuggling-charge-pleads-guilty
 key_findings:
-  - "This domestic-only U.S. follow-on record has been absorbed into the canonical case page [[tulsa-man-who-fled-from-smuggling-charge-pleads-guilty]]. No visible cross-border mechanism is documented, so it is not treated as a separate international-cooperation operation."
+  - "This domestic-only U.S. follow-on record has been absorbed into the canonical case page tulsa-man-who-fled-from-smuggling-charge-pleads-guilty. No visible cross-border mechanism is documented, so it is not treated as a separate international-cooperation operation."
 collection_url: https://www.justice.gov/usao-ndok/pr/tulsa-man-who-fled-smuggling-charge-pleads-guilty
 created: 2026-04-17
 text_status: parsed

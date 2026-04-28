@@ -13,8 +13,6 @@ credibility: confirmed
 sensitivity: public
 pages_updated:
 
-key_findings:
-  - "Secure .gov websites use HTTPS A lock ( Lock Locked padlock ) or https:// means you’ve safely connected to the .gov website. Share sensitive information only on official, secure websites."
 collection_url: https://www.justice.gov/usao-cdca/pr/chinese-national-sentenced-46-months-federal-prison-role-multimillion-dollar
 created: 2026-04-18
 defendant_names:
@@ -22,8 +20,13 @@ defendant_names:
 updated: 2026-04-18
 duplicate_of: "[[2026-01-27_justice-gov_chinese-national-sentenced-to-nearly-4-years-in-federal-prison-for-role-in-multi]]"
 duplicate_reason: same_collection_url
-duplicate_key: "https://www.justice.gov/usao-cdca/pr/chinese-national-sentenced-46-months-federal-prison-role-multimillion-dollar"
+duplicate_key: https://www.justice.gov/usao-cdca/pr/chinese-national-sentenced-46-months-federal-prison-role-multimillion-dollar
 duplicate_normalized_at: 2026-04-26
+text_status: source-digest
+storage_mode: source-digest
+content_hash: sha256:a2be765add5b61714015fb4d169aaf5729a59bcf08cec0437a729aec7b12f17a
+word_count: 117
+extraction_date: 2026-04-28
 ---
 ## Source Summary
 

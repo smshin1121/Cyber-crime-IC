@@ -1,21 +1,21 @@
 ---
 type: source
 title: "Europol: International Action Against DD4BC Cybercriminal Group (Operation Pleiades)"
-collection_url: "https://www.europol.europa.eu/media-press/newsroom/news/international-action-against-dd4bc-cybercriminal-group"
-collection_domain: "europol.europa.eu"
-source_type: "press-release"
-publisher: "Europol"
+collection_url: https://www.europol.europa.eu/media-press/newsroom/news/international-action-against-dd4bc-cybercriminal-group
+collection_domain: europol.europa.eu
+source_type: press-release
+publisher: Europol
 author: ""
-publish_date: "2016-01-12"
-ingest_date: "2026-04-08"
-enriched_date: "2026-04-10"
-language: "en"
-reliability: "high"
-credibility: "confirmed"
-sensitivity: "public"
+publish_date: 2016-01-12
+ingest_date: 2026-04-08
+enriched_date: 2026-04-10
+language: en
+reliability: high
+credibility: confirmed
+sensitivity: public
 source_tier: 2
 pages_updated:
-  - "operation-pleiades"
+  - operation-pleiades
 key_findings:
   - "Europol announced Operation Pleiades on 12 January 2016, describing a coordinated 15-16 December 2015 action against the DD4BC (DDoS for Bitcoin) cybercriminal group responsible for Bitcoin extortion campaigns since mid-2014"
   - "Lead agencies were the Austrian Cybercrime Competence Center (C4) and Bosnia and Herzegovina's Federal Police, supported by the German Bundeskriminalamt and the UK Metropolitan Police, with additional support from Australia, France, Japan, Romania, Switzerland, and the USA (FBI, US Secret Service)"
@@ -27,10 +27,15 @@ created: 2026-04-08
 updated: 2026-04-10
 duplicate_of: "[[2015-12-01_europol-europa-eu_international-action-against-dd4bc-cybercriminal-group]]"
 duplicate_reason: same_collection_url
-duplicate_key: "https://www.europol.europa.eu/media-press/newsroom/news/international-action-against-dd4bc-cybercriminal-group"
+duplicate_key: https://www.europol.europa.eu/media-press/newsroom/news/international-action-against-dd4bc-cybercriminal-group
 duplicate_normalized_at: 2026-04-26
+raw_path: raw/press-releases/europol-operation-pleiades.md
+text_status: source-digest
+storage_mode: source-digest
+content_hash: sha256:291c6bc3ab24e8faa985e1129a57d2d64173126109001b6be23803632f3a60c1
+word_count: 358
+extraction_date: 2026-04-28
 ---
-
 ## Source
 
 - **Publisher**: Europol

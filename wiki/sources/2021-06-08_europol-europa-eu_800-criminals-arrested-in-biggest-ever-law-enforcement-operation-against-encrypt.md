@@ -14,9 +14,14 @@ sensitivity: public
 pages_updated:
   - operation-trojan-shield
 key_findings:
-  - "Operation Trojan Shield was a multi-year undercover operation in which the [[fbi-cyber-division|FBI]] and the [[australia-afp|Australian Federal Police]] helped place AN0M encrypted devices into transnational criminal networks, then used court-authorized access to those communications to support coordinated arrests and seizures. Official FBI and Europol statements describe it as the largest law-enforcement operation ever mounted against encrypted criminal communications."
+  - "Operation Trojan Shield was a multi-year undercover operation in which the FBI and the Australian Federal Police helped place AN0M encrypted devices into transnational criminal networks, then used court-authorized access to those communications to support coordinated arrests and seizures. Official FBI and Europol statements describe it as the largest law-enforcement operation ever mounted against encrypted criminal communications."
 collection_url: https://www.europol.europa.eu/media-press/newsroom/news/800-criminals-arrested-in-biggest-ever-law-enforcement-operation-against-encrypted-communication
 created: 2026-04-17
+text_status: source-digest
+storage_mode: source-digest
+content_hash: sha256:357d66007cf306a056295ef95d6fdecb8815a01c73b7a23af7b044614538e575
+word_count: 209
+extraction_date: 2026-04-28
 ---
 ## Source Summary
 

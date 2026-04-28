@@ -12,11 +12,17 @@ reliability: medium
 credibility: confirmed
 sensitivity: public
 pages_updated:
-  []
+
 key_findings:
   - "Morocco is one of a small number of African countries that have acceded to the **Budapest Convention** (effective 1 October 2018). Unlike most African peers, Morocco has **not** ratified the African Union's Malabo Convention, reflecting its orientation toward European and Council of Europe frameworks. Law 07-03 (2003) implements substantive cybercrime offences within the Penal Code."
 collection_url: https://www.coe.int/en/web/deputy-secretary-general/-/international-conference-in-morocco-on-strengthening-co-operation-on-cybercrime-and-e-evidence-in-africa
 created: 2026-04-17
+text_status: parsed
+content_hash: sha256:c9d0971c2c333eab8a794512a2a01b6fa6b4882dd994ed2be4720b2da4b44991
+word_count: 620
+extraction_date: 2026-04-28
+last_fetcher: curl_cffi
+storage_mode: fulltext
 ---
 ## Source Summary
 

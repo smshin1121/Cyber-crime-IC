@@ -14,7 +14,7 @@ sensitivity: public
 pages_updated:
   - operation-foreign-national-pleads-guilty-to-role-in-cybercrime-schemes-involving-tens-of-millions-of-dollars-in-losses
 key_findings:
-  - "Foreign National Pleads Guilty to Role in Cybercrime Schemes Involving Tens of Millions of Dollars in Losses Enforcement Action is a defendant-specific enforcement action page derived from [[foreign-national-pleads-guilty-to-role-in-cybercrime-schemes-involving-tens-of-millions-of-dollars-in-losses]]. It captures the prosecutorial or seizure stage reflected in the linked case record and preserves the operation-side catalog entry for this follow-on action."
+  - "Foreign National Pleads Guilty to Role in Cybercrime Schemes Involving Tens of Millions of Dollars in Losses Enforcement Action is a defendant-specific enforcement action page derived from foreign-national-pleads-guilty-to-role-in-cybercrime-schemes-involving-tens-of-millions-of-dollars-in-losses. It captures the prosecutorial or seizure stage reflected in the linked case record and preserves the operation-side catalog entry for this follow-on action."
 collection_url: https://www.justice.gov/usao-ne/pr/foreign-national-pleads-guilty-role-cybercrime-schemes-involving-tens-millions-dollars
 created: 2026-04-17
 text_status: parsed

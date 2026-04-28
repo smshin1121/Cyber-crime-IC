@@ -19,8 +19,13 @@ collection_url: https://www.nationalcrimeagency.gov.uk/news/operation-destabilis
 created: 2026-04-17
 duplicate_of: "[[2024-12-04_nationalcrimeagency-gov-uk_operation-destabilise-84-arrests]]"
 duplicate_reason: same_collection_url
-duplicate_key: "https://www.nationalcrimeagency.gov.uk/news/operation-destabilise-nca-disrupts-multi-billion-russian-money-laundering-networks-with-links-to-drugs-ransomware-and-espionage-resulting-in-84-arrests"
+duplicate_key: https://www.nationalcrimeagency.gov.uk/news/operation-destabilise-nca-disrupts-multi-billion-russian-money-laundering-networks-with-links-to-drugs-ransomware-and-espionage-resulting-in-84-arrests
 duplicate_normalized_at: 2026-04-26
+text_status: source-digest
+storage_mode: source-digest
+content_hash: sha256:63c4dcef5b8f8b09af143ee0d6425039e9b99c9d774ee46be7d0abb367342dbd
+word_count: 188
+extraction_date: 2026-04-28
 ---
 ## Source Summary
 

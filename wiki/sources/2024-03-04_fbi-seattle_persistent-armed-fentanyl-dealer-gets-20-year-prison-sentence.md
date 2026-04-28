@@ -3,7 +3,7 @@ type: source
 title: "Persistent armed fentanyl dealer gets 20-year prison sentence"
 source_type: press-release
 publisher: "FBI Seattle"
-author: "Staff"
+author: Staff
 publish_date: 2024-03-04
 ingest_date: 2026-04-25
 language: en
@@ -17,6 +17,12 @@ key_findings:
   - "Broader Aryan prison gang ring investigation"
 collection_url: https://www.fbi.gov/contact-us/field-offices/seattle/news/persistent-armed-fentanyl-dealer-gets-20-year-prison-sentence
 created: 2026-04-25
+raw_path: raw/press-releases/2024-03-04_fbi-seattle_persistent-armed-fentanyl-dealer-gets-20-year-prison-sentence.md
+text_status: source-digest
+storage_mode: source-digest
+content_hash: sha256:f373b2fdbed43b76565010f226a10c4dc17b71b0c431ebbcc8df47e19dc6f203
+word_count: 131
+extraction_date: 2026-04-28
 ---
 ## Source Summary
 

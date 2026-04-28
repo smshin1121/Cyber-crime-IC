@@ -3,7 +3,7 @@ type: source
 title: "North Idaho Man Indicted on Federal Child Sexual Abuse Charges"
 source_type: news
 publisher: "Dailyfly News"
-author: "Staff"
+author: Staff
 publish_date: 2025-10-22
 ingest_date: 2026-04-25
 language: en
@@ -17,6 +17,8 @@ key_findings:
   - "Regional Inland Northwest press coverage of Perpinan indictment"
 collection_url: https://www.dailyfly.com/2025/10/22/north-idaho-man-indicted-on-federal-child-sexual-abuse-charges/
 created: 2026-04-25
+raw_path: raw/news/2025-10-22_dailyfly_north-idaho-man-indicted-on-federal-child-sexual-abuse-charges.md
+copyright_policy: summary-only
 ---
 ## Source Summary
 

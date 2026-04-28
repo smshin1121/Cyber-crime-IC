@@ -2,8 +2,8 @@
 type: source
 title: "Judge Denies Pretrial Release for Covina Man Charged in Cyberstalking Case"
 source_type: news
-publisher: "MyNewsLA"
-author: "Staff"
+publisher: MyNewsLA
+author: Staff
 publish_date: 2020-04-28
 ingest_date: 2026-04-25
 language: en
@@ -17,6 +17,8 @@ key_findings:
   - "Pretrial detention ordered based on community danger and flight risk."
 collection_url: https://mynewsla.com/crime/2020/04/28/judge-denies-pretrial-release-for-covina-man-charged-in-cyberstalking-case/
 created: 2026-04-25
+raw_path: raw/news/2020-04-28_mynewsla_judge-denies-pretrial-release-covina-cyberstalking.md
+copyright_policy: summary-only
 ---
 ## Source Summary
 

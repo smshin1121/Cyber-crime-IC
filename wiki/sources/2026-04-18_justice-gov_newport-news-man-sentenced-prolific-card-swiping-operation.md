@@ -13,8 +13,6 @@ credibility: confirmed
 sensitivity: public
 pages_updated:
 
-key_findings:
-  - "Secure .gov websites use HTTPS A lock ( Lock Locked padlock ) or https:// means you’ve safely connected to the .gov website. Share sensitive information only on official, secure websites."
 collection_url: https://www.justice.gov/usao-edva/pr/newport-news-man-sentenced-prolific-card-swiping-operation
 created: 2026-04-18
 updated: 2026-04-18
@@ -22,8 +20,13 @@ defendant_names:
   - "Nehemie Almonor"
 duplicate_of: "[[2024-03-08_justice-gov_newport-news-man-sentenced-for-prolific-card-swiping-operation]]"
 duplicate_reason: same_collection_url
-duplicate_key: "https://www.justice.gov/usao-edva/pr/newport-news-man-sentenced-prolific-card-swiping-operation"
+duplicate_key: https://www.justice.gov/usao-edva/pr/newport-news-man-sentenced-prolific-card-swiping-operation
 duplicate_normalized_at: 2026-04-26
+text_status: source-digest
+storage_mode: source-digest
+content_hash: sha256:76e28e17f8960149d50dad8d787e1ed705b929fcb67324146fbd815d1b1862a4
+word_count: 117
+extraction_date: 2026-04-28
 ---
 ## Source Summary
 

@@ -3,7 +3,7 @@ type: source
 title: "King County couple indicted for drug lab and illegal weapons possession"
 source_type: news
 publisher: "KIRO 7 News Seattle"
-author: "Staff"
+author: Staff
 publish_date: 2024-05-30
 ingest_date: 2026-04-25
 language: en
@@ -19,8 +19,10 @@ collection_url: https://www.kiro7.com/news/local/king-county-couple-indicted-dru
 created: 2026-04-25
 duplicate_of: "[[2024-05-30_kiro7_king-county-couple-indicted-drug-lab-illegal-weapons-possession-second-defendant]]"
 duplicate_reason: same_collection_url
-duplicate_key: "https://www.kiro7.com/news/local/king-county-couple-indicted-drug-lab-illegal-weapons-possession/25TXP2AAZVFOVJYB3ZWCDVA6Z4/"
+duplicate_key: https://www.kiro7.com/news/local/king-county-couple-indicted-drug-lab-illegal-weapons-possession/25TXP2AAZVFOVJYB3ZWCDVA6Z4/
 duplicate_normalized_at: 2026-04-26
+raw_path: raw/news/2024-05-30_kiro7_king-county-couple-indicted-drug-lab-illegal-weapons-possession.md
+copyright_policy: summary-only
 ---
 ## Source Summary
 

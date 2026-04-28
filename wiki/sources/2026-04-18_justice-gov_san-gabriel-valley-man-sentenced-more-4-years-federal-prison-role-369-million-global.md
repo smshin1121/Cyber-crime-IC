@@ -13,8 +13,6 @@ credibility: confirmed
 sensitivity: public
 pages_updated:
 
-key_findings:
-  - "Secure .gov websites use HTTPS A lock ( Lock Locked padlock ) or https:// means you’ve safely connected to the .gov website. Share sensitive information only on official, secure websites."
 collection_url: https://www.justice.gov/usao-cdca/pr/san-gabriel-valley-man-sentenced-more-4-years-federal-prison-role-369-million-global
 created: 2026-04-18
 defendant_names:
@@ -22,8 +20,13 @@ defendant_names:
 updated: 2026-04-18
 duplicate_of: "[[2025-09-08_justice-gov_san-gabriel-valley-man-sentenced-to-more-than-4-years-in-federal-prison-for-role]]"
 duplicate_reason: same_collection_url
-duplicate_key: "https://www.justice.gov/usao-cdca/pr/san-gabriel-valley-man-sentenced-more-4-years-federal-prison-role-369-million-global"
+duplicate_key: https://www.justice.gov/usao-cdca/pr/san-gabriel-valley-man-sentenced-more-4-years-federal-prison-role-369-million-global
 duplicate_normalized_at: 2026-04-26
+text_status: source-digest
+storage_mode: source-digest
+content_hash: sha256:441feaf3d6191fdec76966b2f1339b762d9a497bde2f8b145f8e421af58281fa
+word_count: 123
+extraction_date: 2026-04-28
 ---
 ## Source Summary
 

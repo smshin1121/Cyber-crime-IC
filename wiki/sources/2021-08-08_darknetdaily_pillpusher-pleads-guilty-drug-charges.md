@@ -3,7 +3,7 @@ type: source
 title: "Prescription Vendor 'Pillpusher' Pleads Guilty to Drug Charges"
 source_type: news
 publisher: "Dark Net Daily"
-author: "Staff"
+author: Staff
 publish_date: 2021-08-08
 ingest_date: 2026-04-25
 language: en
@@ -16,6 +16,8 @@ key_findings:
   - "Darknet-research industry outlet covers Pillpusher case."
 collection_url: https://darknetdaily.com/2021/08/08/prescription-vendor-pillpusher-pleads-guilty-to-drug-charges/
 created: 2026-04-25
+raw_path: raw/news/2021-08-08_darknetdaily_pillpusher-pleads-guilty-drug-charges.md
+copyright_policy: summary-only
 ---
 ## Source Summary
 

@@ -13,15 +13,17 @@ credibility: confirmed
 sensitivity: public
 pages_updated:
 
-key_findings:
-  - "Secure .gov websites use HTTPS A lock ( Lock Locked padlock ) or https:// means you’ve safely connected to the .gov website. Share sensitive information only on official, secure websites."
 collection_url: https://www.justice.gov/usao-vt/pr/first-nationwide-undercover-operation-targeting-darknet-vendors-results-arrests-more-35
 created: 2026-04-18
 updated: 2026-04-18
 duplicate_of: "[[2018-06-26_justice-gov_vt_first-nationwide-undercover-operation-targeting-darknet-vendors-results-arrests-more-35]]"
 duplicate_reason: same_collection_url
-duplicate_key: "https://www.justice.gov/usao-vt/pr/first-nationwide-undercover-operation-targeting-darknet-vendors-results-arrests-more-35"
+duplicate_key: https://www.justice.gov/usao-vt/pr/first-nationwide-undercover-operation-targeting-darknet-vendors-results-arrests-more-35
 duplicate_normalized_at: 2026-04-26
+text_status: parsed
+content_hash: sha256:e71250b3ff89226e2c2ff37035d3d4886e9aa689d4221bfe48fd340dcf89c7eb
+word_count: 183
+extraction_date: 2026-04-25
 ---
 ## Source Summary
 

@@ -22,8 +22,13 @@ defendant_names:
 updated: 2026-04-18
 duplicate_of: "[[2022-12-01_justice-gov_former-teaching-assistant-in-st-louis-admits-blackmailing-student]]"
 duplicate_reason: same_collection_url
-duplicate_key: "https://www.justice.gov/usao-edmo/pr/former-teaching-assistant-st-louis-admits-blackmailing-student"
+duplicate_key: https://www.justice.gov/usao-edmo/pr/former-teaching-assistant-st-louis-admits-blackmailing-student
 duplicate_normalized_at: 2026-04-26
+text_status: source-digest
+storage_mode: source-digest
+content_hash: sha256:c7aaf8ade8afd273385eeec59a3d5bd60cb5c4ef8426a0eecb2c33cd70d51af8
+word_count: 123
+extraction_date: 2026-04-28
 ---
 ## Source Summary
 

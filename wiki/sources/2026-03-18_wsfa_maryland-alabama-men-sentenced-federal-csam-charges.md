@@ -3,7 +3,7 @@ type: source
 title: "Maryland, Alabama men sentenced on federal child sexual abuse material charges"
 source_type: news
 publisher: "WSFA (NBC Montgomery)"
-author: "Staff"
+author: Staff
 publish_date: 2026-03-18
 ingest_date: 2026-04-25
 language: en
@@ -17,6 +17,8 @@ key_findings:
   - "Frames Jacob Parker (Auburn) and Maryland co-conspirator together (combined 64 years)."
 collection_url: https://www.wsfa.com/2026/03/18/maryland-alabama-men-sentenced-federal-csam-charges/
 created: 2026-04-25
+raw_path: raw/news/2026-03-18_wsfa_maryland-alabama-men-sentenced-federal-csam-charges.md
+copyright_policy: summary-only
 ---
 ## Source Summary
 

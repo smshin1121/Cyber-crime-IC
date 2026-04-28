@@ -13,8 +13,6 @@ credibility: confirmed
 sensitivity: public
 pages_updated:
   - silk-road-takedown
-key_findings:
-  - "Secure .gov websites use HTTPS A lock ( Lock Locked padlock ) or https:// means you’ve safely connected to the .gov website. Share sensitive information only on official, secure websites."
 collection_url: https://www.justice.gov/usao-sdny/pr/dark-web-narcotics-trafficker-sentenced-3-years-prison-connection-laundering-more-19
 created: 2026-04-17
 defendant_names:
@@ -22,8 +20,13 @@ defendant_names:
 updated: 2026-04-18
 duplicate_of: "[[2020-02-12_justice-gov_dark-web-narcotics-trafficker-sentenced-to-3-years-in-prison-in-connection-with]]"
 duplicate_reason: same_collection_url
-duplicate_key: "https://www.justice.gov/usao-sdny/pr/dark-web-narcotics-trafficker-sentenced-3-years-prison-connection-laundering-more-19"
+duplicate_key: https://www.justice.gov/usao-sdny/pr/dark-web-narcotics-trafficker-sentenced-3-years-prison-connection-laundering-more-19
 duplicate_normalized_at: 2026-04-26
+text_status: source-digest
+storage_mode: source-digest
+content_hash: sha256:a3b0aca1293d121722d8772e5ef73b17e0619988a8e1a118d866f50fa8a05062
+word_count: 172
+extraction_date: 2026-04-28
 ---
 ## Source Summary
 

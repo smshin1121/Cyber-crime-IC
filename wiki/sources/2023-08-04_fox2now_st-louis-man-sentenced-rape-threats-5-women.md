@@ -3,7 +3,7 @@ type: source
 title: "St. Louis man sentenced for making rape threats to 5 women"
 source_type: news
 publisher: "Fox 2 Now (KTVI)"
-author: "Staff"
+author: Staff
 publish_date: 2023-08-04
 ingest_date: 2026-04-25
 language: en
@@ -18,6 +18,8 @@ key_findings:
   - "St. Louis local TV (Fox 2 Now) confirmation of Merkle sentencing"
 collection_url: https://fox2now.com/news/missouri/st-louis-man-sentenced-for-making-rape-threats-to-5-women/
 created: 2026-04-25
+raw_path: raw/news/2023-08-04_fox2now_st-louis-man-sentenced-rape-threats-5-women.md
+copyright_policy: summary-only
 ---
 ## Source Summary
 

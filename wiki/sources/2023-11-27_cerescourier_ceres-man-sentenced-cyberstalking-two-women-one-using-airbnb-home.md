@@ -3,7 +3,7 @@ type: source
 title: "Ceres man sentenced for cyberstalking two women, one using Airbnb home"
 source_type: news
 publisher: "Ceres Courier"
-author: "Staff"
+author: Staff
 publish_date: 2023-11-27
 ingest_date: 2026-04-25
 language: en
@@ -18,8 +18,10 @@ collection_url: https://www.cerescourier.com/news/local/ceres-man-sentenced-cybe
 created: 2026-04-25
 duplicate_of: "[[2023-11-14_cerescourier_ceres-man-sentenced-cyberstalking-two-women-airbnb]]"
 duplicate_reason: same_collection_url
-duplicate_key: "https://www.cerescourier.com/news/local/ceres-man-sentenced-cyberstalking-two-women-one-using-airbnb-home/"
+duplicate_key: https://www.cerescourier.com/news/local/ceres-man-sentenced-cyberstalking-two-women-one-using-airbnb-home/
 duplicate_normalized_at: 2026-04-26
+raw_path: raw/news/2023-11-27_cerescourier_ceres-man-sentenced-cyberstalking-two-women-one-using-airbnb-home.md
+copyright_policy: summary-only
 ---
 ## Source Summary
 

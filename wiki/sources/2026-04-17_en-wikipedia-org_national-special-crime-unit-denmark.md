@@ -27,7 +27,8 @@ license_basis: wikimedia_terms_cc_by_sa_gfdl
 license_url: https://foundation.wikimedia.org/wiki/Policy:Terms_of_Use
 attribution_required: true
 share_alike_required: true
-attribution_url: https://en.wikipedia.org/wiki/National_Special_Crime_Unit_(Denmark
+attribution_url: "https://en.wikipedia.org/wiki/National_Special_Crime_Unit_(Denmark"
+copyright_policy: summary-only
 ---
 ## Source Summary
 

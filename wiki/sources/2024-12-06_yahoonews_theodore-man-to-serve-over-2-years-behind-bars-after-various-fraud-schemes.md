@@ -3,7 +3,7 @@ type: source
 title: "Theodore man to serve over 2 years behind bars after various fraud schemes: USDOJ"
 source_type: news
 publisher: "Yahoo News"
-author: "Syndicated"
+author: Syndicated
 publish_date: 2024-12-06
 ingest_date: 2026-04-25
 language: en
@@ -17,6 +17,8 @@ key_findings:
   - "National syndicated re-run of the Mobile-area press coverage"
 collection_url: https://www.yahoo.com/news/theodore-man-serve-over-2-035245837.html
 created: 2026-04-25
+raw_path: raw/news/2024-12-06_yahoonews_theodore-man-to-serve-over-2-years-behind-bars-after-various-fraud-schemes.md
+copyright_policy: summary-only
 ---
 ## Source Summary
 

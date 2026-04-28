@@ -13,15 +13,18 @@ credibility: confirmed
 sensitivity: public
 pages_updated:
 
-key_findings:
-  - "Secure .gov websites use HTTPS A lock ( Lock Locked padlock ) or https:// means you’ve safely connected to the .gov website. Share sensitive information only on official, secure websites."
 collection_url: https://www.justice.gov/usao-wdwa/pr/resident-tacoma-hotel-indicted-drug-and-gun-crimes
 created: 2026-04-18
 updated: 2026-04-18
 duplicate_of: "[[2023-08-02_justice-gov_resident-of-tacoma-hotel-indicted-for-drug-and-gun-crimes]]"
 duplicate_reason: same_collection_url
-duplicate_key: "https://www.justice.gov/usao-wdwa/pr/resident-tacoma-hotel-indicted-drug-and-gun-crimes"
+duplicate_key: https://www.justice.gov/usao-wdwa/pr/resident-tacoma-hotel-indicted-drug-and-gun-crimes
 duplicate_normalized_at: 2026-04-26
+text_status: source-digest
+storage_mode: source-digest
+content_hash: sha256:dab321b91ed3249a203a946479ca885321201be8deaa470e035b9ad439b23ad3
+word_count: 122
+extraction_date: 2026-04-28
 ---
 ## Source Summary
 

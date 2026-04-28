@@ -13,14 +13,12 @@ credibility: confirmed
 sensitivity: public
 pages_updated:
   - operation-endgame-phase2
-key_findings:
-  - "Secure .gov websites use HTTPS A lock ( Lock Locked padlock ) or https:// means you’ve safely connected to the .gov website. Share sensitive information only on official, secure websites."
 collection_url: https://www.justice.gov/opa/pr/leader-qakbot-malware-conspiracy-indicted-involvement-global-ransomware-scheme
 created: 2026-04-17
 updated: 2026-04-18
 duplicate_of: "[[2025-05-22-doj-qakbot-gallyamov-indictment]]"
 duplicate_reason: same_collection_url
-duplicate_key: "https://www.justice.gov/opa/pr/leader-qakbot-malware-conspiracy-indicted-involvement-global-ransomware-scheme"
+duplicate_key: https://www.justice.gov/opa/pr/leader-qakbot-malware-conspiracy-indicted-involvement-global-ransomware-scheme
 duplicate_normalized_at: 2026-04-26
 ---
 ## Source Summary

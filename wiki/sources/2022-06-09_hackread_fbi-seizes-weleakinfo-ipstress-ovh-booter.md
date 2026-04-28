@@ -2,7 +2,7 @@
 type: source
 title: "FBI Seizes WeLeakInfo, IPStress and OVH-Booter Cybercrime Portals"
 source_type: news
-publisher: "HackRead"
+publisher: HackRead
 author: "Deeba Ahmed"
 publish_date: 2022-06-09
 ingest_date: 2026-04-25
@@ -17,6 +17,8 @@ key_findings:
   - "Documents Dutch and Belgian police cooperation supporting the FBI/DOJ action."
 collection_url: https://hackread.com/fbi-seizes-weleakinfo-ipstress-ovh-booter-cybercrime-portals/
 created: 2026-04-25
+raw_path: raw/news/2022-06-09_hackread_fbi-seizes-weleakinfo-ipstress-ovh-booter.md
+copyright_policy: summary-only
 ---
 ## Source Summary
 

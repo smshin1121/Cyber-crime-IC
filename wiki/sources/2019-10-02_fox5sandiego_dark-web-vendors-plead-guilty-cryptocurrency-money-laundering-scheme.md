@@ -3,7 +3,7 @@ type: source
 title: "Dark-web vendors plead guilty to cryptocurrency money laundering scheme"
 source_type: news
 publisher: "FOX 5 San Diego"
-author: "Staff"
+author: Staff
 publish_date: 2019-10-02
 ingest_date: 2026-04-25
 language: en
@@ -17,6 +17,8 @@ key_findings:
   - "FOX 5 San Diego TV news coverage"
 collection_url: https://fox5sandiego.com/news/dark-web-vendors-plead-guilty-to-cryptocurrency-money-laundering-scheme/
 created: 2026-04-25
+raw_path: raw/news/2019-10-02_fox5sandiego_dark-web-vendors-plead-guilty-cryptocurrency-money-laundering-scheme.md
+copyright_policy: summary-only
 ---
 ## Source Summary
 

@@ -3,7 +3,7 @@ type: source
 title: "St. Lawrence County man enters guilty plea for child pornography charges"
 source_type: news
 publisher: "Yahoo News"
-author: "Staff"
+author: Staff
 publish_date: 2025-03-25
 ingest_date: 2026-04-25
 language: en
@@ -17,6 +17,8 @@ key_findings:
   - "Yahoo syndication of LaVair guilty plea coverage"
 collection_url: https://www.yahoo.com/news/st-lawrence-county-man-enters-144329667.html
 created: 2026-04-25
+raw_path: raw/news/2025-03-25_yahoo_st-lawrence-county-man-enters-guilty-plea-child-pornography-charges.md
+copyright_policy: summary-only
 ---
 ## Source Summary
 

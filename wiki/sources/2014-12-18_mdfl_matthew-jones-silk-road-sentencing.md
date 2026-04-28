@@ -13,8 +13,6 @@ credibility: confirmed
 sensitivity: public
 pages_updated:
 
-key_findings:
-  - "Secure .gov websites use HTTPS A lock ( Lock Locked padlock ) or https:// means you’ve safely connected to the .gov website. Share sensitive information only on official, secure websites."
 collection_url: https://www.justice.gov/usao-mdfl/pr/texas-business-executive-sentenced-prison-illegally-selling-oxycodone-silk-road
 created: 2026-04-17
 defendant_names:
@@ -23,8 +21,13 @@ defendant_names:
 updated: 2026-04-18
 duplicate_of: "[[2014-12-18_justice-gov_texas-business-executive-sentenced-to-prison-for-illegally-selling-oxycodone-on]]"
 duplicate_reason: same_collection_url
-duplicate_key: "https://www.justice.gov/usao-mdfl/pr/texas-business-executive-sentenced-prison-illegally-selling-oxycodone-silk-road"
+duplicate_key: https://www.justice.gov/usao-mdfl/pr/texas-business-executive-sentenced-prison-illegally-selling-oxycodone-silk-road
 duplicate_normalized_at: 2026-04-26
+text_status: source-digest
+storage_mode: source-digest
+content_hash: sha256:ddb768b0278d88e7c11ea437093a89bef938aacb1f3242a2ede34d3ee1f3ea1f
+word_count: 138
+extraction_date: 2026-04-28
 ---
 ## Source Summary
 

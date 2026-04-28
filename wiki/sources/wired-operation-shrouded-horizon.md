@@ -1,21 +1,21 @@
 ---
 type: source
 title: "Wired: Dozens Nabbed in Takedown of Cybercrime Forum Darkode (Operation Shrouded Horizon)"
-collection_url: "https://www.wired.com/2015/07/dozens-nabbed-takedown-cybercrime-forum-darkode/"
-collection_domain: "wired.com"
-source_type: "news"
-publisher: "Wired"
+collection_url: https://www.wired.com/2015/07/dozens-nabbed-takedown-cybercrime-forum-darkode/
+collection_domain: wired.com
+source_type: news
+publisher: Wired
 author: ""
-publish_date: "2015-07-15"
-ingest_date: "2026-04-08"
-enriched_date: "2026-04-10"
-language: "en"
-reliability: "medium-high"
-credibility: "probably-true"
-sensitivity: "public"
+publish_date: 2015-07-15
+ingest_date: 2026-04-08
+enriched_date: 2026-04-10
+language: en
+reliability: medium-high
+credibility: probably-true
+sensitivity: public
 source_tier: 3
 pages_updated:
-  - "operation-shrouded-horizon"
+  - operation-shrouded-horizon
 key_findings:
   - "Wired reported on 15 July 2015 on **Operation Shrouded Horizon**, an 18-month international FBI-led investigation that culminated in the July 2015 seizure of the Darkode cybercrime forum and the arrest or search of suspects across 20 countries"
   - "Darkode was an invite-only password-protected cybercrime forum with ~250-300 vetted members who traded malware, exploits, stolen data, and criminal services; administrators heavily vetted prospective members to resist LE infiltration"
@@ -27,10 +27,16 @@ created: 2026-04-08
 updated: 2026-04-10
 duplicate_of: "[[2015-07-01_wired-com_dozens-nabbed-takedown-cybercrime-forum-darkode]]"
 duplicate_reason: same_collection_url
-duplicate_key: "https://www.wired.com/2015/07/dozens-nabbed-takedown-cybercrime-forum-darkode/"
+duplicate_key: https://www.wired.com/2015/07/dozens-nabbed-takedown-cybercrime-forum-darkode/
 duplicate_normalized_at: 2026-04-26
+raw_path: raw/news/wired-operation-shrouded-horizon.md
+text_status: summarized
+storage_mode: summary-only
+content_hash: sha256:8dfa9082389af3366ece49667da44f88deab4ed36a198eb641c1d9494a8906ca
+word_count: 394
+extraction_date: 2026-04-27
+copyright_policy: summary-only
 ---
-
 > [!info] URL access
 > WebFetch to Wired was blocked. Key findings below are reconstructed from Wikipedia (Operation Shrouded Horizon), FBI press release, DOJ OPA release, Washington Post, NPR, and other contemporaneous coverage of the 15 July 2015 announcement. All numeric claims (18 months, 20 countries, 70 individuals, 12 indictments) are consistent across these sources.
 

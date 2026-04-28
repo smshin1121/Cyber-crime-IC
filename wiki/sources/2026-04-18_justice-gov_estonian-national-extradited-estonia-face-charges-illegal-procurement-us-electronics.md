@@ -13,8 +13,6 @@ credibility: confirmed
 sensitivity: public
 pages_updated:
 
-key_findings:
-  - "Secure .gov websites use HTTPS A lock ( Lock Locked padlock ) or https:// means you’ve safely connected to the .gov website. Share sensitive information only on official, secure websites."
 collection_url: https://www.justice.gov/usao-ndca/pr/estonian-national-extradited-estonia-face-charges-illegal-procurement-us-electronics
 created: 2026-04-18
 updated: 2026-04-18
@@ -22,8 +20,13 @@ defendant_names:
   - "Of Illegal Procurement Of"
 duplicate_of: "[[2019-03-21_justice-gov_estonian-national-extradited-from-estonia-to-face-charges-of-illegal-procurement]]"
 duplicate_reason: same_collection_url
-duplicate_key: "https://www.justice.gov/usao-ndca/pr/estonian-national-extradited-estonia-face-charges-illegal-procurement-us-electronics"
+duplicate_key: https://www.justice.gov/usao-ndca/pr/estonian-national-extradited-estonia-face-charges-illegal-procurement-us-electronics
 duplicate_normalized_at: 2026-04-26
+text_status: source-digest
+storage_mode: source-digest
+content_hash: sha256:cddcf0b3ba6f8ca5a4378b10ec02d6a2f38c480846f4b2a3bb1499cb28b7852a
+word_count: 110
+extraction_date: 2026-04-28
 ---
 ## Source Summary
 

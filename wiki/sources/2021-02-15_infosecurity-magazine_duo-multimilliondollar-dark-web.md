@@ -3,7 +3,7 @@ type: source
 title: "Duo Charged with Multimillion-Dollar Dark Web Drug Conspiracy"
 source_type: news
 publisher: "Infosecurity Magazine"
-author: "Staff"
+author: Staff
 publish_date: 2021-02-15
 ingest_date: 2026-04-25
 language: en
@@ -20,6 +20,8 @@ key_findings:
   - "Quantifies vendor reputation: 2,000+ five-star reviews, 3,657 sales by November 2019"
 collection_url: https://www.infosecurity-magazine.com/news/duo-multimilliondollar-dark-web/
 created: 2026-04-25
+raw_path: raw/news/2021-02-15_infosecurity-magazine_duo-multimilliondollar-dark-web.md
+copyright_policy: summary-only
 ---
 ## Source Summary
 

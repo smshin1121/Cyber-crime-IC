@@ -2,8 +2,8 @@
 type: source
 title: "PlugwalkJoe Gets 5 Years in Prison for 2020 Twitter Hack"
 source_type: news
-publisher: "SecureWorld"
-author: "Staff"
+publisher: SecureWorld
+author: Staff
 publish_date: 2023-06-23
 ingest_date: 2026-04-25
 language: en
@@ -16,6 +16,8 @@ key_findings:
   - "Industry trade press coverage of O'Connor sentencing"
 collection_url: https://www.secureworld.io/industry-news/plugwalkjoe-prison-twitter-hack
 created: 2026-04-25
+raw_path: raw/news/2023-06-23_secureworld_plugwalkjoe-prison-twitter-hack.md
+copyright_policy: summary-only
 ---
 ## Source Summary
 

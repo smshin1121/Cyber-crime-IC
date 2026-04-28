@@ -13,8 +13,6 @@ credibility: confirmed
 sensitivity: public
 pages_updated:
   - silk-road-takedown
-key_findings:
-  - "Secure .gov websites use HTTPS A lock ( Lock Locked padlock ) or https:// means you’ve safely connected to the .gov website. Share sensitive information only on official, secure websites."
 collection_url: https://www.justice.gov/usao-sdny/pr/irish-man-who-helped-operate-silk-road-website-sentenced-manhattan-federal-court-over
 created: 2026-04-17
 defendant_names:
@@ -22,8 +20,13 @@ defendant_names:
 updated: 2026-04-18
 duplicate_of: "[[2019-07-19_justice-gov_irish-man-who-helped-operate-silk-road-sentenced]]"
 duplicate_reason: same_collection_url
-duplicate_key: "https://www.justice.gov/usao-sdny/pr/irish-man-who-helped-operate-silk-road-website-sentenced-manhattan-federal-court-over"
+duplicate_key: https://www.justice.gov/usao-sdny/pr/irish-man-who-helped-operate-silk-road-website-sentenced-manhattan-federal-court-over
 duplicate_normalized_at: 2026-04-26
+text_status: source-digest
+storage_mode: source-digest
+content_hash: sha256:4e1c536b990745a364705d1e1e3cfa885318e1ecb6a3f924152c4f5ad83a2c32
+word_count: 173
+extraction_date: 2026-04-28
 ---
 ## Source Summary
 

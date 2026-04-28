@@ -3,7 +3,7 @@ type: source
 title: "Silk Road's Ross Ulbricht sentenced to life"
 source_type: news
 publisher: "CNN Money"
-author: "Staff"
+author: Staff
 publish_date: 2015-05-29
 ingest_date: 2026-04-25
 language: en
@@ -16,6 +16,8 @@ key_findings:
   - "CNN Money confirms Ulbricht's life sentence and $183M forfeiture."
 collection_url: https://money.cnn.com/2015/05/29/technology/silk-road-ross-ulbricht-prison-sentence/index.html
 created: 2026-04-25
+raw_path: raw/news/2015-05-29_cnn-money_silk-road-ross-ulbricht-prison-sentence.md
+copyright_policy: summary-only
 ---
 ## Source Summary
 

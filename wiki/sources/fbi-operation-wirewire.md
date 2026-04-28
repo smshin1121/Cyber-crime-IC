@@ -1,21 +1,21 @@
 ---
 type: source
 title: "FBI: International BEC Takedown (Operation Wire Wire)"
-collection_url: "https://www.fbi.gov/news/stories/international-bec-takedown-061118"
-collection_domain: "fbi.gov"
-source_type: "press-release"
-publisher: "FBI"
+collection_url: https://www.fbi.gov/news/stories/international-bec-takedown-061118
+collection_domain: fbi.gov
+source_type: press-release
+publisher: FBI
 author: ""
-publish_date: "2018-06-11"
-ingest_date: "2026-04-08"
-enriched_date: "2026-04-10"
-language: "en"
-reliability: "high"
-credibility: "confirmed"
-sensitivity: "public"
+publish_date: 2018-06-11
+ingest_date: 2026-04-08
+enriched_date: 2026-04-10
+language: en
+reliability: high
+credibility: confirmed
+sensitivity: public
 source_tier: 2
 pages_updated:
-  - "operation-wirewire"
+  - operation-wirewire
 key_findings:
   - "The FBI announced Operation Wire Wire on 11 June 2018 as a coordinated 6-month international enforcement sweep against Business Email Compromise (BEC) schemes, culminating in over 2 weeks of intensified action with 74 arrests worldwide"
   - "Arrest geography: 42 in the United States, 29 in Nigeria, and 3 distributed across Canada, Mauritius, and Poland — making Operation Wire Wire the largest BEC-specific takedown as of 2018"
@@ -27,10 +27,15 @@ created: 2026-04-08
 updated: 2026-04-10
 duplicate_of: "[[2018-06-11_fbi-gov_international-bec-takedown]]"
 duplicate_reason: same_collection_url
-duplicate_key: "https://www.fbi.gov/news/stories/international-bec-takedown-061118"
+duplicate_key: https://www.fbi.gov/news/stories/international-bec-takedown-061118
 duplicate_normalized_at: 2026-04-26
+raw_path: raw/press-releases/fbi-operation-wirewire.md
+text_status: source-digest
+storage_mode: source-digest
+content_hash: sha256:77143fccbbb0ccbea1da88b1c6176f6643a67cf75dac6f95e1bb35a84d6650eb
+word_count: 391
+extraction_date: 2026-04-28
 ---
-
 > [!info] URL access
 > The FBI News URL returned HTTP 403 from WebFetch. Content details have been reconstructed from the parallel FBI field-office press release, DOJ Office of Public Affairs release, and multiple independent outlets that cover the same Operation Wire Wire announcement. All numeric claims are consistent across these sources.
 

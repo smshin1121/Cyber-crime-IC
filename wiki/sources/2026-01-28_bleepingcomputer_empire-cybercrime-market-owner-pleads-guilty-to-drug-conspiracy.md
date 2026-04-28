@@ -2,7 +2,7 @@
 type: source
 title: "Empire cybercrime market owner pleads guilty to drug conspiracy"
 source_type: news
-publisher: "BleepingComputer"
+publisher: BleepingComputer
 author: "Sergiu Gatlan"
 publish_date: 2026-01-28
 ingest_date: 2026-04-25
@@ -17,6 +17,8 @@ key_findings:
   - "$75M in cryptocurrency seized during investigation; 1.68M registered users at peak"
 collection_url: https://www.bleepingcomputer.com/news/security/empire-cybercrime-market-owner-pleads-guilty-to-drug-conspiracy/
 created: 2026-04-25
+raw_path: raw/news/2026-01-28_bleepingcomputer_empire-cybercrime-market-owner-pleads-guilty-to-drug-conspiracy.md
+copyright_policy: summary-only
 ---
 ## Source Summary
 

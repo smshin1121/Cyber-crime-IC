@@ -1,27 +1,27 @@
 ---
 type: source
 title: "Operation Cyber Guardian: Asia 6-Country CSAM Crackdown"
-raw_path: "raw/press-releases/2025-04-07_korea-npa_operation-cyber-guardian-asia-csam.md"
-source_type: "press-release"
+raw_path: raw/press-releases/2025-04-07_korea-npa_operation-cyber-guardian-asia-csam.md
+source_type: press-release
 publisher: "Korea Policy Briefing (korea.kr) / Seoul Shinmun"
 author: "Korean National Police Agency"
-publish_date: "2025-04-07"
-ingest_date: "2026-04-08"
-language: "ko"
-reliability: "high"
-credibility: "probably-true"
-sensitivity: "public"
+publish_date: 2025-04-07
+ingest_date: 2026-04-08
+language: ko
+reliability: high
+credibility: probably-true
+sensitivity: public
 pages_updated:
-  - "operation-cyber-guardian"
-  - "csam-ic"
-  - "south-korea"
+  - operation-cyber-guardian
+  - csam-ic
+  - south-korea
 key_findings:
   - "6 Asian countries/regions coordinated 'Operation Cyber Guardian' targeting CSAM (Feb-Mar 2025)"
   - "544 arrests total; South Korea accounted for 435 (374 by national unit)"
   - "49% of Korean suspects were teenagers; AI deepfake CSAM production prosecuted"
 created: 2026-04-08
+copyright_policy: summary-only
 ---
-
 # Operation Cyber Guardian: Asia 6-Country CSAM Crackdown
 
 ## Source Overview

@@ -2,8 +2,8 @@
 type: source
 title: "Former Agilent Technologies employee pleads guilty to damaging ex-employer's computers"
 source_type: news
-publisher: "DataBreaches.net"
-author: "Staff"
+publisher: DataBreaches.net
+author: Staff
 publish_date: 2016-06-08
 ingest_date: 2026-04-25
 language: en
@@ -16,6 +16,8 @@ key_findings:
   - "Cybersecurity-focused blog coverage; direct fetch blocked but URL/slug confirms case match"
 collection_url: https://databreaches.net/2016/06/08/former-agilent-technologies-employee-pleads-guilty-to-damaging-ex-employers-computers/
 created: 2026-04-25
+raw_path: raw/news/2016-06-08_databreachesnet_former-agilent-technologies-employee-pleads-guilty-to-damaging-ex-employers-computers.md
+copyright_policy: summary-only
 ---
 ## Source Summary
 

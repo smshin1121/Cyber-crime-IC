@@ -13,8 +13,6 @@ credibility: confirmed
 sensitivity: public
 pages_updated:
 
-key_findings:
-  - "Secure .gov websites use HTTPS A lock ( Lock Locked padlock ) or https:// means you’ve safely connected to the .gov website. Share sensitive information only on official, secure websites."
 collection_url: https://www.justice.gov/usao-wdpa/pr/pittsburgh-felon-sentenced-95-years-prison-identity-theft-and-firearms-crimes
 created: 2026-04-18
 updated: 2026-04-18
@@ -22,8 +20,13 @@ defendant_names:
   - "Pittsburgh Felon"
 duplicate_of: "[[2025-01-13_justice-gov_pittsburgh-felon-sentenced-to-9-5-years-in-prison-for-identity-theft-and-firearm]]"
 duplicate_reason: same_collection_url
-duplicate_key: "https://www.justice.gov/usao-wdpa/pr/pittsburgh-felon-sentenced-95-years-prison-identity-theft-and-firearms-crimes"
+duplicate_key: https://www.justice.gov/usao-wdpa/pr/pittsburgh-felon-sentenced-95-years-prison-identity-theft-and-firearms-crimes
 duplicate_normalized_at: 2026-04-26
+text_status: source-digest
+storage_mode: source-digest
+content_hash: sha256:b306976d0224769d9f66cb18cf0251650a396d4dd1441aa03d9cdf7c9141fc03
+word_count: 109
+extraction_date: 2026-04-28
 ---
 ## Source Summary
 

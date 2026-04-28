@@ -3,7 +3,7 @@ type: source
 title: "Southern California men sentenced for role in nationwide darknet fentanyl distribution"
 source_type: news
 publisher: "Legal Newsline"
-author: "Staff"
+author: Staff
 publish_date: 2025-01-13
 ingest_date: 2026-04-25
 language: en
@@ -18,8 +18,10 @@ collection_url: https://legalnewsline.com/stories/667586108-southern-california-
 created: 2026-04-25
 duplicate_of: "[[2024-04-29_legalnewsline_socal-men-sentenced-nationwide-darknet-fentanyl-distribution]]"
 duplicate_reason: same_collection_url
-duplicate_key: "https://legalnewsline.com/stories/667586108-southern-california-men-sentenced-for-role-in-nationwide-darknet-fentanyl-distribution"
+duplicate_key: https://legalnewsline.com/stories/667586108-southern-california-men-sentenced-for-role-in-nationwide-darknet-fentanyl-distribution
 duplicate_normalized_at: 2026-04-26
+raw_path: raw/news/2025-01-13_legalnewsline_southern-california-men-sentenced-nationwide-darknet-fentanyl-distribution.md
+copyright_policy: summary-only
 ---
 ## Source Summary
 

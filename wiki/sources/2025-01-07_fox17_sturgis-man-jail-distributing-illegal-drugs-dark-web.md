@@ -3,7 +3,7 @@ type: source
 title: "Sturgis man to serve jail time for distributing illegal drugs through dark web"
 source_type: news
 publisher: "Fox17 West Michigan"
-author: "Staff"
+author: Staff
 publish_date: 2025-01-07
 ingest_date: 2026-04-25
 language: en
@@ -18,6 +18,8 @@ key_findings:
   - "April 2023 search yielded MDMA, meth, cocaine, LSD, counterfeit Xanax, three firearms"
 collection_url: https://www.fox17online.com/news/local-news/south-mi/st-joseph/sturgis-man-to-serve-jail-time-for-distributing-illegal-drugs-through-dark-web
 created: 2026-04-25
+raw_path: raw/news/2025-01-07_fox17_sturgis-man-jail-distributing-illegal-drugs-dark-web.md
+copyright_policy: summary-only
 ---
 ## Source Summary
 

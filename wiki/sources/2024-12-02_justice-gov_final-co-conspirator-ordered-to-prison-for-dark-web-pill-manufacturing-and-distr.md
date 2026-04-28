@@ -14,7 +14,7 @@ sensitivity: public
 pages_updated:
   - operation-us-v-marco-juarez
 key_findings:
-  - "This domestic-only U.S. follow-on record has been absorbed into the canonical case page [[us-v-marco-juarez]]. No visible cross-border mechanism is documented, so it is not treated as a separate international-cooperation operation."
+  - "This domestic-only U.S. follow-on record has been absorbed into the canonical case page us-v-marco-juarez. No visible cross-border mechanism is documented, so it is not treated as a separate international-cooperation operation."
 collection_url: https://www.justice.gov/usao-sdtx/pr/final-co-conspirator-ordered-prison-dark-web-pill-manufacturing-and-distribution-ring
 created: 2026-04-17
 text_status: parsed

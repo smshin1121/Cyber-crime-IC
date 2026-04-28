@@ -13,8 +13,6 @@ credibility: confirmed
 sensitivity: public
 pages_updated:
 
-key_findings:
-  - "Secure .gov websites use HTTPS A lock ( Lock Locked padlock ) or https:// means you’ve safely connected to the .gov website. Share sensitive information only on official, secure websites."
 collection_url: https://www.justice.gov/usao-sdfl/pr/dark-web-drug-dealer-sentenced-16-years-prison
 created: 2026-04-17
 defendant_names:
@@ -22,8 +20,13 @@ defendant_names:
 updated: 2026-04-18
 duplicate_of: "[[2022-12-01_justice-gov_dark-web-drug-dealer-sentenced-to-16-years-in-prison]]"
 duplicate_reason: same_collection_url
-duplicate_key: "https://www.justice.gov/usao-sdfl/pr/dark-web-drug-dealer-sentenced-16-years-prison"
+duplicate_key: https://www.justice.gov/usao-sdfl/pr/dark-web-drug-dealer-sentenced-16-years-prison
 duplicate_normalized_at: 2026-04-26
+text_status: source-digest
+storage_mode: source-digest
+content_hash: sha256:2fc982ceb8e098f8dd2e26a5bccd2c13ecc5b02fe6b0f710e3821a548d052960
+word_count: 141
+extraction_date: 2026-04-28
 ---
 ## Source Summary
 

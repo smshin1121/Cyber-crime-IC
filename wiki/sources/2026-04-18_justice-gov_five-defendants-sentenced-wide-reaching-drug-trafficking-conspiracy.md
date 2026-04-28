@@ -13,8 +13,6 @@ credibility: confirmed
 sensitivity: public
 pages_updated:
 
-key_findings:
-  - "Secure .gov websites use HTTPS A lock ( Lock Locked padlock ) or https:// means you’ve safely connected to the .gov website. Share sensitive information only on official, secure websites."
 collection_url: https://www.justice.gov/usao-mdpa/pr/five-defendants-sentenced-wide-reaching-drug-trafficking-conspiracy
 created: 2026-04-18
 updated: 2026-04-18
@@ -23,8 +21,13 @@ defendant_names:
   - "Five Defendants"
 duplicate_of: "[[2026-01-08_justice-gov_five-defendants-sentenced-in-wide-reaching-drug-trafficking-conspiracy]]"
 duplicate_reason: same_collection_url
-duplicate_key: "https://www.justice.gov/usao-mdpa/pr/five-defendants-sentenced-wide-reaching-drug-trafficking-conspiracy"
+duplicate_key: https://www.justice.gov/usao-mdpa/pr/five-defendants-sentenced-wide-reaching-drug-trafficking-conspiracy
 duplicate_normalized_at: 2026-04-26
+text_status: source-digest
+storage_mode: source-digest
+content_hash: sha256:e37d50271c8b94834c8fe1de120290566a1be2007ecc80dbe4b9fcedd4eba373
+word_count: 100
+extraction_date: 2026-04-28
 ---
 ## Source Summary
 

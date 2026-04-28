@@ -28,6 +28,7 @@ license_url: https://foundation.wikimedia.org/wiki/Policy:Terms_of_Use
 attribution_required: true
 share_alike_required: true
 attribution_url: https://en.wikipedia.org/wiki/United_Nations_Office_on_Drugs_and_Crime
+copyright_policy: summary-only
 ---
 ## Source Summary
 

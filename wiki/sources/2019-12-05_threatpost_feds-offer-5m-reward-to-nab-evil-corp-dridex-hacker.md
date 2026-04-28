@@ -18,6 +18,7 @@ key_findings:
   - "Zeus malware caused ~$220M attempted theft across 21 victims."
 collection_url: https://threatpost.com/feds-5m-reward-evil-corp-dridex-hacker/150858/
 created: 2026-04-25
+copyright_policy: summary-only
 ---
 ## Source Summary
 

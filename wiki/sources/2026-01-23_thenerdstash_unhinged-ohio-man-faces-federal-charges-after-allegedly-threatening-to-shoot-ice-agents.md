@@ -17,6 +17,8 @@ key_findings:
   - "HSI investigation initiated December 2025"
 collection_url: https://thenerdstash.com/unhinged-ohio-man-faces-federal-charges-after-allegedly-threatening-to-shoot-ice-agents-and-maga-supporters-online-alright-you-got-me/
 created: 2026-04-25
+raw_path: raw/news/2026-01-23_thenerdstash_unhinged-ohio-man-faces-federal-charges-after-allegedly-threatening-to-shoot-ice-agents.md
+copyright_policy: summary-only
 ---
 ## Source Summary
 

@@ -23,8 +23,13 @@ defendant_names:
 updated: 2026-04-18
 duplicate_of: "[[2021-02-25_justice-gov_three-individuals-arrested-for-involvement-in-darknet-narcotics-trafficking-invo]]"
 duplicate_reason: same_collection_url
-duplicate_key: "https://www.justice.gov/usao-dc/pr/three-individuals-arrested-involvement-darknet-narcotics-trafficking-involving-pills"
+duplicate_key: https://www.justice.gov/usao-dc/pr/three-individuals-arrested-involvement-darknet-narcotics-trafficking-involving-pills
 duplicate_normalized_at: 2026-04-26
+text_status: source-digest
+storage_mode: source-digest
+content_hash: sha256:803f9fc01246d8466b76142e99062887ea1f943936cec15c8c97275c4dd55b40
+word_count: 125
+extraction_date: 2026-04-28
 ---
 ## Source Summary
 

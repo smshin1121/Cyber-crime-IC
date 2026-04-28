@@ -3,7 +3,7 @@ type: source
 title: "Dallas-area darknet fentanyl dealer receives 24-year prison sentence"
 source_type: news
 publisher: "WFAA-TV (Dallas ABC)"
-author: "Staff"
+author: Staff
 publish_date: 2024-02-12
 ingest_date: 2026-04-25
 language: en
@@ -17,6 +17,8 @@ key_findings:
   - "Shipments reached customers worldwide; Bitcoin used for payment."
 collection_url: https://www.wfaa.com/article/news/crime/dallas-darknet-fentanyl-dealer-24-year-prison-sentence/287-2c2b14f0-4bea-4f3a-a0df-0767ed559678
 created: 2026-04-25
+raw_path: raw/news/2024-02-12_wfaa_dallas-darknet-fentanyl-dealer-24-year-prison-sentence.md
+copyright_policy: summary-only
 ---
 ## Source Summary
 

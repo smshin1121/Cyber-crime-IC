@@ -14,7 +14,7 @@ sensitivity: public
 pages_updated:
   - operation-former-emergency-physician-pleads-guilty-to-possessing-child-pornography
 key_findings:
-  - "Former emergency physician pleads guilty to possessing child pornography Enforcement Action is a defendant-specific enforcement action page derived from [[former-emergency-physician-pleads-guilty-to-possessing-child-pornography]]. It captures the prosecutorial or seizure stage reflected in the linked case record and preserves the operation-side catalog entry for this follow-on action."
+  - "Former emergency physician pleads guilty to possessing child pornography Enforcement Action is a defendant-specific enforcement action page derived from former-emergency-physician-pleads-guilty-to-possessing-child-pornography. It captures the prosecutorial or seizure stage reflected in the linked case record and preserves the operation-side catalog entry for this follow-on action."
 collection_url: https://www.justice.gov/usao-sdoh/pr/former-emergency-physician-pleads-guilty-possessing-child-pornography
 created: 2026-04-17
 text_status: parsed

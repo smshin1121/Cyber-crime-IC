@@ -12,15 +12,20 @@ reliability: high
 credibility: confirmed
 sensitivity: public
 pages_updated:
-  []
+
 key_findings:
   - "Source referenced by ic-statistics-dashboard."
 collection_url: https://www.interpol.int/News-and-Events/News/2023/USD-300-million-seized-and-3-500-suspects-arrested-in-international-financial-crime-operation
 created: 2026-04-17
 duplicate_of: "[[2023-12-19-interpol-operation-haechi-iv]]"
 duplicate_reason: same_collection_url
-duplicate_key: "https://www.interpol.int/News-and-Events/News/2023/USD-300-million-seized-and-3-500-suspects-arrested-in-international-financial-crime-operation"
+duplicate_key: https://www.interpol.int/News-and-Events/News/2023/USD-300-million-seized-and-3-500-suspects-arrested-in-international-financial-crime-operation
 duplicate_normalized_at: 2026-04-26
+text_status: source-digest
+storage_mode: source-digest
+content_hash: sha256:00ac112dd5d2b205502d7986670e0ff9a1889d069715b5fbfe3a6d39af50e932
+word_count: 101
+extraction_date: 2026-04-28
 ---
 ## Source Summary
 

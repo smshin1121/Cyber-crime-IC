@@ -20,8 +20,13 @@ collection_url: https://www.justice.gov/usao-edtx/pr/russian-national-indicted-e
 created: 2026-04-22
 duplicate_of: "[[2022-03-16_justice-gov_russian-national-indicted-in-east-texas-for-cyber-hacking-enterprise]]"
 duplicate_reason: same_collection_url
-duplicate_key: "https://www.justice.gov/usao-edtx/pr/russian-national-indicted-east-texas-cyber-hacking-enterprise"
+duplicate_key: https://www.justice.gov/usao-edtx/pr/russian-national-indicted-east-texas-cyber-hacking-enterprise
 duplicate_normalized_at: 2026-04-26
+text_status: source-digest
+storage_mode: source-digest
+content_hash: sha256:140a1cc592dfdc4178f616d7fab11808fbb63a7475b50c6dee539d5f73636ffd
+word_count: 217
+extraction_date: 2026-04-28
 ---
 ## Source Summary
 

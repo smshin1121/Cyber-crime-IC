@@ -3,7 +3,7 @@ type: source
 title: "Revere man sentenced in nationwide rideshare and delivery fraud scheme"
 source_type: news
 publisher: "NBC Boston"
-author: "Staff"
+author: Staff
 publish_date: 2023-12-19
 ingest_date: 2026-04-25
 language: en
@@ -18,6 +18,8 @@ key_findings:
   - "Identifies 18 co-defendants and dark-web SSN purchases."
 collection_url: https://www.nbcboston.com/news/local/revere-man-sentenced-in-nationwide-rideshare-and-delivery-fraud-scheme/3223588/
 created: 2026-04-25
+raw_path: raw/news/2023-12-19_nbcboston_revere-man-sentenced-rideshare-delivery-fraud-scheme.md
+copyright_policy: summary-only
 ---
 ## Source Summary
 

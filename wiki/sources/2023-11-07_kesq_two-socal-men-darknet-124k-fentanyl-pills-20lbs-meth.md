@@ -2,8 +2,8 @@
 type: source
 title: "Two SoCal men charged with using darknet to sell 124K fentanyl-laced pills and nearly 20 lbs of meth"
 source_type: news
-publisher: "KESQ"
-author: "Staff"
+publisher: KESQ
+author: Staff
 publish_date: 2023-11-07
 ingest_date: 2026-04-25
 language: en
@@ -18,8 +18,10 @@ collection_url: https://kesq.com/fentanyl-crisis/2023/11/07/two-socal-men-charge
 created: 2026-04-25
 duplicate_of: "[[2023-11-07_kesq_two-socal-men-charged-darknet-124k-fentanyl-laced-pills]]"
 duplicate_reason: same_collection_url
-duplicate_key: "https://kesq.com/fentanyl-crisis/2023/11/07/two-socal-men-charged-with-using-darknet-to-sell-124k-fentanyl-laced-pills-and-nearly-20-lbs-of-meth/"
+duplicate_key: https://kesq.com/fentanyl-crisis/2023/11/07/two-socal-men-charged-with-using-darknet-to-sell-124k-fentanyl-laced-pills-and-nearly-20-lbs-of-meth/
 duplicate_normalized_at: 2026-04-26
+raw_path: raw/news/2023-11-07_kesq_two-socal-men-darknet-124k-fentanyl-pills-20lbs-meth.md
+copyright_policy: summary-only
 ---
 ## Source Summary
 

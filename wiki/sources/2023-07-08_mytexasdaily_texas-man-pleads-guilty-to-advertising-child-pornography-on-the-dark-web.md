@@ -3,7 +3,7 @@ type: source
 title: "Texas man pleads guilty to advertising child pornography on the dark web"
 source_type: news
 publisher: "My Texas Daily"
-author: "Staff"
+author: Staff
 publish_date: 2023-07-08
 ingest_date: 2026-04-25
 language: en
@@ -17,6 +17,8 @@ key_findings:
   - "Confirms Grubert's July 2023 guilty plea in D. Mass."
 collection_url: https://www.mytexasdaily.com/central-texas/texas-man-pleads-guilty-to-advertising-child-pornography-on-the-dark-web/article_3e558d80-2206-11ee-aa0a-bb6e8ea64ce3.html
 created: 2026-04-25
+raw_path: raw/news/2023-07-08_mytexasdaily_texas-man-pleads-guilty-to-advertising-child-pornography-on-the-dark-web.md
+copyright_policy: summary-only
 ---
 ## Source Summary
 

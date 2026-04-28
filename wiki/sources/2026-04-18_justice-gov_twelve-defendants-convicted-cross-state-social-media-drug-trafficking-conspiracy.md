@@ -13,15 +13,18 @@ credibility: confirmed
 sensitivity: public
 pages_updated:
 
-key_findings:
-  - "Secure .gov websites use HTTPS A lock ( Lock Locked padlock ) or https:// means you’ve safely connected to the .gov website. Share sensitive information only on official, secure websites."
 collection_url: https://www.justice.gov/usao-nh/pr/twelve-defendants-convicted-cross-state-social-media-drug-trafficking-conspiracy
 created: 2026-04-18
 updated: 2026-04-18
 duplicate_of: "[[2025-11-13_justice-gov_twelve-defendants-convicted-in-cross-state-social-media-drug-trafficking-conspir]]"
 duplicate_reason: same_collection_url
-duplicate_key: "https://www.justice.gov/usao-nh/pr/twelve-defendants-convicted-cross-state-social-media-drug-trafficking-conspiracy"
+duplicate_key: https://www.justice.gov/usao-nh/pr/twelve-defendants-convicted-cross-state-social-media-drug-trafficking-conspiracy
 duplicate_normalized_at: 2026-04-26
+text_status: source-digest
+storage_mode: source-digest
+content_hash: sha256:32141165b1618ca5d0e07230d274e307b1749dae065f7825195cba92131fa1d1
+word_count: 107
+extraction_date: 2026-04-28
 ---
 ## Source Summary
 

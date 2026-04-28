@@ -3,7 +3,7 @@ type: source
 title: "23-Year-Old Russian Hacker Wanted by FBI for Running Marketplace of Stolen Logins"
 source_type: news
 publisher: "The Hacker News"
-author: "Staff"
+author: Staff
 publish_date: 2022-03-23
 ingest_date: 2026-04-25
 language: en
@@ -17,6 +17,8 @@ key_findings:
   - "Identifies the 'floraby' alias used by Dekhtyarchuk in Russian hacker forums since November 2013."
 collection_url: https://thehackernews.com/2022/03/23-year-old-russian-hacker-wanted-by.html
 created: 2026-04-25
+raw_path: raw/news/2022-03-23_thehackernews_23-year-old-russian-hacker-wanted-by-fbi-for-running-marketplace-of-stolen-logins.md
+copyright_policy: summary-only
 ---
 ## Source Summary
 

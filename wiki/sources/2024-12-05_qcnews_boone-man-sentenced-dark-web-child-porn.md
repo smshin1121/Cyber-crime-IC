@@ -3,7 +3,7 @@ type: source
 title: "Boone man sentenced for using dark web to share child porn: DOJ"
 source_type: news
 publisher: "Queen City News (WJZY Charlotte)"
-author: "Staff"
+author: Staff
 publish_date: 2024-12-05
 ingest_date: 2026-04-25
 language: en
@@ -16,6 +16,8 @@ key_findings:
   - "Charlotte regional TV news coverage of the Kilgore sentencing."
 collection_url: https://www.qcnews.com/news/u-s/north-carolina/watauga-county/boone-man-sentenced-for-using-dark-web-to-share-child-porn-doj/
 created: 2026-04-25
+raw_path: raw/news/2024-12-05_qcnews_boone-man-sentenced-dark-web-child-porn.md
+copyright_policy: summary-only
 ---
 ## Source Summary
 

@@ -16,6 +16,8 @@ key_findings:
   - "Initial charge announcement; arrested August 22, 2023 by FBI Washington Field Office."
 collection_url: https://abovethelaw.com/2023/08/ex-attorney-at-top-10-biglaw-firm-charged-with-insider-trading/
 created: 2026-04-25
+raw_path: raw/news/2023-08-24_abovethelaw_ex-attorney-at-top-10-biglaw-firm-charged-with-insider-trading.md
+copyright_policy: summary-only
 ---
 ## Source Summary
 

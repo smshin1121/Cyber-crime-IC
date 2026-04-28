@@ -4,7 +4,7 @@ title: "International coalition uncovers EUR 3 million online investment fraud"
 collection_url: https://www.eurojust.europa.eu/news/international-coalition-uncovers-eur-3-million-online-investment-fraud
 collection_domain: eurojust.europa.eu
 source_type: press-release
-publisher: "Eurojust"
+publisher: Eurojust
 author: ""
 publish_date: 2025-05-13
 ingest_date: 2026-04-19
@@ -24,8 +24,14 @@ key_findings:
 created: 2026-04-19
 duplicate_of: "[[2025-05-13_eurojust-europa-eu_international-coalition-uncovers-eur-3-million-online-investment-fraud]]"
 duplicate_reason: same_collection_url
-duplicate_key: "https://www.eurojust.europa.eu/news/international-coalition-uncovers-eur-3-million-online-investment-fraud"
+duplicate_key: https://www.eurojust.europa.eu/news/international-coalition-uncovers-eur-3-million-online-investment-fraud
 duplicate_normalized_at: 2026-04-26
+raw_path: raw/press-releases/2025-05-13_eurojust_international-coalition-uncovers-eur-3-million-online-investment-fraud.md
+text_status: source-digest
+storage_mode: source-digest
+content_hash: sha256:9073f8fa4e23d3bf32b44fa5b9945d767bb81e3e66aa2c5bac3525633989330b
+word_count: 183
+extraction_date: 2026-04-28
 ---
 ## Source Summary
 

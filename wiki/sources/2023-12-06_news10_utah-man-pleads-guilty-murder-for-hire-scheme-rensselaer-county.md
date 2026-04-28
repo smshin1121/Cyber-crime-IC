@@ -3,7 +3,7 @@ type: source
 title: "Utah man pleads guilty to murder-for-hire scheme"
 source_type: news
 publisher: "News10 (Albany NY)"
-author: "Staff"
+author: Staff
 publish_date: 2023-12-06
 ingest_date: 2026-04-25
 language: en
@@ -18,6 +18,8 @@ key_findings:
   - "Albany NY local (NDNY-side) coverage with Rensselaer County context"
 collection_url: https://www.news10.com/news/rensselaer-county/utah-man-pleads-guilty-to-murder-for-hire-scheme/
 created: 2026-04-25
+raw_path: raw/news/2023-12-06_news10_utah-man-pleads-guilty-murder-for-hire-scheme-rensselaer-county.md
+copyright_policy: summary-only
 ---
 ## Source Summary
 

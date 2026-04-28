@@ -13,8 +13,6 @@ credibility: confirmed
 sensitivity: public
 pages_updated:
 
-key_findings:
-  - "Secure .gov websites use HTTPS A lock ( Lock Locked padlock ) or https:// means you’ve safely connected to the .gov website. Share sensitive information only on official, secure websites."
 collection_url: https://www.justice.gov/usao-mdfl/pr/delaware-doctor-who-illegally-sold-controlled-substances-silk-road-drug-marketplace
 created: 2026-04-17
 defendant_names:
@@ -23,8 +21,13 @@ defendant_names:
 updated: 2026-04-18
 duplicate_of: "[[2015-04-27_justice-gov_delaware-doctor-who-illegally-sold-controlled-substances-on-the-silk-road-drug-m]]"
 duplicate_reason: same_collection_url
-duplicate_key: "https://www.justice.gov/usao-mdfl/pr/delaware-doctor-who-illegally-sold-controlled-substances-silk-road-drug-marketplace"
+duplicate_key: https://www.justice.gov/usao-mdfl/pr/delaware-doctor-who-illegally-sold-controlled-substances-silk-road-drug-marketplace
 duplicate_normalized_at: 2026-04-26
+text_status: source-digest
+storage_mode: source-digest
+content_hash: sha256:a51823154beeae2c3ab96348b9d5d767853f278eab7a5fa37d162f218a61b8e4
+word_count: 139
+extraction_date: 2026-04-28
 ---
 ## Source Summary
 

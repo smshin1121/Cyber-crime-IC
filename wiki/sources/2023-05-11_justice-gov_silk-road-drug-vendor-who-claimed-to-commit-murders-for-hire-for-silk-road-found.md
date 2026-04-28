@@ -14,7 +14,7 @@ sensitivity: public
 pages_updated:
   - operation-silk-road-drug-vendor-who-claimed-to-commit-murders-for-hire-for-silk-road-founder-ross-ulbricht-charged-with-
 key_findings:
-  - "This domestic-only U.S. follow-on record has been absorbed into the canonical case page [[silk-road-drug-vendor-who-claimed-to-commit-murders-for-hire-for-silk-road-founder-ross-ulbricht-charged-with-]]. No visible cross-border mechanism is documented, so it is not treated as a separate international-cooperation operation."
+  - "This domestic-only U.S. follow-on record has been absorbed into the canonical case page silk-road-drug-vendor-who-claimed-to-commit-murders-for-hire-for-silk-road-founder-ross-ulbricht-charged-with-. No visible cross-border mechanism is documented, so it is not treated as a separate international-cooperation operation."
 collection_url: https://www.justice.gov/usao-sdny/pr/silk-road-drug-vendor-who-claimed-commit-murders-hire-silk-road-founder-ross-ulbricht
 created: 2026-04-17
 text_status: parsed

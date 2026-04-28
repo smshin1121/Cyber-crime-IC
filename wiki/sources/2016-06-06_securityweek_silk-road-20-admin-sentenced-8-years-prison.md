@@ -2,8 +2,8 @@
 type: source
 title: "Silk Road 2.0 Admin Sentenced to 8 Years in Prison"
 source_type: news
-publisher: "SecurityWeek"
-author: "Staff"
+publisher: SecurityWeek
+author: Staff
 publish_date: 2016-06-06
 ingest_date: 2026-04-25
 language: en
@@ -17,6 +17,8 @@ key_findings:
   - "Confirms 27-year-old Bellevue resident, January 2015 arrest"
 collection_url: https://www.securityweek.com/silk-road-20-admin-sentenced-8-years-prison/
 created: 2026-04-25
+raw_path: raw/news/2016-06-06_securityweek_silk-road-20-admin-sentenced-8-years-prison.md
+copyright_policy: summary-only
 ---
 ## Source Summary
 

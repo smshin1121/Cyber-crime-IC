@@ -21,6 +21,13 @@ key_findings:
   - "The official BKA release reported over 150,000 user accounts, over 1,100 seller accounts, and cryptocurrency seizures valued at EUR 94,000."
   - "The release stated that German, U.S. and Lithuanian authorities had been conducting coordinated investigations since October 2022."
 created: 2026-04-18
+raw_path: raw/press-releases/2024-03-21_bka-de_illegaler-darknet-marktplatz-nemesis-market-abgeschaltet.md
+text_status: summarized
+storage_mode: summary-only
+content_hash: sha256:bd964f101125497d5c8b8c3a9a1a6aa760e9f14c1b524bc1f357e9f5a6c59489
+word_count: 230
+extraction_date: 2026-04-27
+copyright_policy: summary-only
 ---
 ## Source Summary
 

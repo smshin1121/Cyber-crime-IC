@@ -1,25 +1,25 @@
 ---
 type: source
 title: "INTERPOL: INTERPOL Coordinates Global Operation to Take Down Simda Botnet"
-collection_url: "https://www.interpol.int/News-and-Events/News/2015/INTERPOL-coordinates-global-operation-to-take-down-Simda-botnet"
-collection_domain: "interpol.int"
-source_type: "press-release"
-publisher: "INTERPOL"
+collection_url: https://www.interpol.int/News-and-Events/News/2015/INTERPOL-coordinates-global-operation-to-take-down-Simda-botnet
+collection_domain: interpol.int
+source_type: press-release
+publisher: INTERPOL
 author: "INTERPOL Press Office"
-publish_date: "2015-04-13"
-ingest_date: "2026-04-08"
-enriched_date: "2026-04-10"
-language: "en"
-reliability: "high"
-credibility: "confirmed"
-sensitivity: "public"
+publish_date: 2015-04-13
+ingest_date: 2026-04-08
+enriched_date: 2026-04-10
+language: en
+reliability: high
+credibility: confirmed
+sensitivity: public
 source_tier: 2
 pages_updated:
-  - "simda-botnet-takedown"
-  - "interpol"
-  - "netherlands"
-  - "united-states"
-  - "russia"
+  - simda-botnet-takedown
+  - interpol
+  - netherlands
+  - united-states
+  - russia
 key_findings:
   - "Simda botnet takedown coordinated on 9 April 2015 by INTERPOL's Global Complex for Innovation (IGCI) in Singapore; public announcement on 13 April 2015"
   - "Simda had infected 770,000+ computers worldwide across 190+ countries; most-affected regions: United States, United Kingdom, Turkey, Canada, and Russia"
@@ -32,10 +32,15 @@ created: 2026-04-08
 updated: 2026-04-10
 duplicate_of: "[[2015-04-09_interpol-int_interpol-coordinates-global-operation-to-take-down-simda-botnet]]"
 duplicate_reason: same_collection_url
-duplicate_key: "https://www.interpol.int/News-and-Events/News/2015/INTERPOL-coordinates-global-operation-to-take-down-Simda-botnet"
+duplicate_key: https://www.interpol.int/News-and-Events/News/2015/INTERPOL-coordinates-global-operation-to-take-down-Simda-botnet
 duplicate_normalized_at: 2026-04-26
+raw_path: raw/press-releases/interpol-911-s5-botnet-dismantling.md
+text_status: source-digest
+storage_mode: source-digest
+content_hash: sha256:cefb9380135f4c74e54ed120ec5e2635118bb823d43811c134652ec80d5075d2
+word_count: 359
+extraction_date: 2026-04-28
 ---
-
 > [!info] Mismatch resolved (2026-04-10)
 > Previously also linked to [[911-s5-botnet-takedown]]. That link removed — this source covers the 2015 Simda botnet takedown only.
 

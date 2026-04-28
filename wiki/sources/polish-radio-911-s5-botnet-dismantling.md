@@ -15,8 +15,6 @@ source_tier: 4
 pages_updated:
   - 911-s5-botnet-takedown
   - operation-stream-kidflix
-key_findings:
-  []
 created: 2026-04-08
 raw_path: raw/news/polish-radio-911-s5-botnet-dismantling.md
 text_status: summarized

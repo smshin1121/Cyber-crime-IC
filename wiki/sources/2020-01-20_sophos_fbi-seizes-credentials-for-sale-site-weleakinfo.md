@@ -17,6 +17,8 @@ key_findings:
   - "Operational detail: seizure executed at 11:30pm UK time on January 15, 2020."
 collection_url: https://news.sophos.com/en-us/2020/01/20/fbi-seizes-credentials-for-sale-site-weleakinfo-com/
 created: 2026-04-25
+raw_path: raw/news/2020-01-20_sophos_fbi-seizes-credentials-for-sale-site-weleakinfo.md
+copyright_policy: summary-only
 ---
 ## Source Summary
 

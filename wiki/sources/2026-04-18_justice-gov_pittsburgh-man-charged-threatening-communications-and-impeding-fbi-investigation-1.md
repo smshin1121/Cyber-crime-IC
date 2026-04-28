@@ -22,8 +22,13 @@ defendant_names:
 updated: 2026-04-18
 duplicate_of: "[[2021-03-17_justice-gov_pittsburgh-man-charged-with-threatening-communications-and-impeding-fbi-investig]]"
 duplicate_reason: same_collection_url
-duplicate_key: "https://www.justice.gov/usao-wdpa/pr/pittsburgh-man-charged-threatening-communications-and-impeding-fbi-investigation-1"
+duplicate_key: https://www.justice.gov/usao-wdpa/pr/pittsburgh-man-charged-threatening-communications-and-impeding-fbi-investigation-1
 duplicate_normalized_at: 2026-04-26
+text_status: source-digest
+storage_mode: source-digest
+content_hash: sha256:d321976dd5c5a41241209f08ce169526b15181554ad6ea5fcb283f1f5fe453a7
+word_count: 124
+extraction_date: 2026-04-28
 ---
 ## Source Summary
 

@@ -14,7 +14,7 @@ sensitivity: public
 pages_updated:
   - operation-kirkwood-resident-pleads-guilty-for-identity-theft
 key_findings:
-  - "This domestic-only U.S. follow-on record has been absorbed into the canonical case page [[kirkwood-resident-pleads-guilty-for-identity-theft]]. No visible cross-border mechanism is documented, so it is not treated as a separate international-cooperation operation."
+  - "This domestic-only U.S. follow-on record has been absorbed into the canonical case page kirkwood-resident-pleads-guilty-for-identity-theft. No visible cross-border mechanism is documented, so it is not treated as a separate international-cooperation operation."
 collection_url: https://www.justice.gov/usao-edmo/pr/kirkwood-resident-pleads-guilty-identity-theft
 created: 2026-04-17
 text_status: parsed

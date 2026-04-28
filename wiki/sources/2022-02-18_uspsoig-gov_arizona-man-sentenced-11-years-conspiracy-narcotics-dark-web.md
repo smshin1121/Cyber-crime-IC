@@ -19,8 +19,14 @@ collection_url: https://www.uspsoig.gov/investigative-work/investigative-news-re
 created: 2026-04-25
 duplicate_of: "[[2022-02-17_uspsoig-gov_arizona-man-sentenced-over-11-years-prison-conspiracy-sell-narcotics-dark-web]]"
 duplicate_reason: same_collection_url
-duplicate_key: "https://www.uspsoig.gov/investigative-work/investigative-news-releases/arizona-man-sentenced-over-11-years-prison"
+duplicate_key: https://www.uspsoig.gov/investigative-work/investigative-news-releases/arizona-man-sentenced-over-11-years-prison
 duplicate_normalized_at: 2026-04-26
+raw_path: raw/press-releases/2022-02-18_uspsoig-gov_arizona-man-sentenced-11-years-conspiracy-narcotics-dark-web.md
+text_status: parsed
+storage_mode: source-digest
+content_hash: sha256:f3ba3b996328fe2e05d9bc75c6349c2804477cd13bd695530f3b8d0a14e4486e
+word_count: 365
+extraction_date: 2026-04-25
 ---
 ## Source Summary
 

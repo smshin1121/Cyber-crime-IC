@@ -13,8 +13,6 @@ credibility: confirmed
 sensitivity: public
 pages_updated:
 
-key_findings:
-  - "Secure .gov websites use HTTPS A lock ( Lock Locked padlock ) or https:// means you’ve safely connected to the .gov website. Share sensitive information only on official, secure websites."
 collection_url: https://www.justice.gov/usao-edpa/pr/north-philadelphia-pill-mill-doctor-sentenced-five-years-prison-illegal-opioid
 created: 2026-04-18
 defendant_names:
@@ -22,8 +20,13 @@ defendant_names:
 updated: 2026-04-18
 duplicate_of: "[[2021-03-02_justice-gov_north-philadelphia-pill-mill-doctor-sentenced-to-five-years-in-prison-for-illega]]"
 duplicate_reason: same_collection_url
-duplicate_key: "https://www.justice.gov/usao-edpa/pr/north-philadelphia-pill-mill-doctor-sentenced-five-years-prison-illegal-opioid"
+duplicate_key: https://www.justice.gov/usao-edpa/pr/north-philadelphia-pill-mill-doctor-sentenced-five-years-prison-illegal-opioid
 duplicate_normalized_at: 2026-04-26
+text_status: source-digest
+storage_mode: source-digest
+content_hash: sha256:cb80cdc23d4307a0ba980ad4f1c21b446a7eb19f1f8b252b561e832b65df6d3b
+word_count: 110
+extraction_date: 2026-04-28
 ---
 ## Source Summary
 

@@ -13,8 +13,6 @@ credibility: confirmed
 sensitivity: public
 pages_updated:
   - trickbot-operations
-key_findings:
-  - "Secure .gov websites use HTTPS A lock ( Lock Locked padlock ) or https:// means you’ve safely connected to the .gov website. Share sensitive information only on official, secure websites."
 collection_url: https://www.justice.gov/archives/opa/pr/multiple-foreign-nationals-charged-connection-trickbot-malware-and-conti-ransomware
 created: 2026-04-17
 defendant_names:
@@ -22,7 +20,7 @@ defendant_names:
 updated: 2026-04-18
 duplicate_of: "[[2023-09-07_justice-gov_united-states-v-galochkin-et-al-trickbot-conti]]"
 duplicate_reason: same_collection_url
-duplicate_key: "https://www.justice.gov/archives/opa/pr/multiple-foreign-nationals-charged-connection-trickbot-malware-and-conti-ransomware"
+duplicate_key: https://www.justice.gov/archives/opa/pr/multiple-foreign-nationals-charged-connection-trickbot-malware-and-conti-ransomware
 duplicate_normalized_at: 2026-04-26
 ---
 ## Source Summary

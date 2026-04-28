@@ -13,8 +13,6 @@ credibility: confirmed
 sensitivity: public
 pages_updated:
 
-key_findings:
-  - "Secure .gov websites use HTTPS A lock ( Lock Locked padlock ) or https:// means you’ve safely connected to the .gov website. Share sensitive information only on official, secure websites."
 collection_url: https://www.justice.gov/usao-edca/pr/los-angeles-county-woman-pleads-guilty-conspiring-distribute-heroin-methamphetamine-and
 created: 2026-04-17
 defendant_names:
@@ -22,8 +20,13 @@ defendant_names:
 updated: 2026-04-18
 duplicate_of: "[[2020-07-15_edca_catherine-stuckey-darknet-plea]]"
 duplicate_reason: same_collection_url
-duplicate_key: "https://www.justice.gov/usao-edca/pr/los-angeles-county-woman-pleads-guilty-conspiring-distribute-heroin-methamphetamine-and"
+duplicate_key: https://www.justice.gov/usao-edca/pr/los-angeles-county-woman-pleads-guilty-conspiring-distribute-heroin-methamphetamine-and
 duplicate_normalized_at: 2026-04-26
+text_status: source-digest
+storage_mode: source-digest
+content_hash: sha256:6b93c8c696d53b199f0dc0f602c3385e5d3dec4a636164711480ed6d64d7825a
+word_count: 148
+extraction_date: 2026-04-28
 ---
 ## Source Summary
 

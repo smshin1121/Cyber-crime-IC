@@ -3,7 +3,7 @@ type: source
 title: "Darknet vendor sentenced for conspiracy to sell counterfeit drugs"
 source_type: news
 publisher: "The Times-Tribune (Corbin, KY)"
-author: "Staff"
+author: Staff
 publish_date: 2025-04-12
 ingest_date: 2026-04-25
 language: en
@@ -16,6 +16,8 @@ key_findings:
   - "Local Kentucky community newspaper coverage of Sabbagh sentencing"
 collection_url: https://www.thetimestribune.com/kentucky/darknet-vendor-sentenced-for-conspiracy-to-sell-counterfeit-drugs/article_c486b4f7-3344-522c-9f14-b2788bb5c243.html
 created: 2026-04-25
+raw_path: raw/news/2025-04-12_thetimestribune_darknet-vendor-sentenced-conspiracy-counterfeit-drugs.md
+copyright_policy: summary-only
 ---
 ## Source Summary
 

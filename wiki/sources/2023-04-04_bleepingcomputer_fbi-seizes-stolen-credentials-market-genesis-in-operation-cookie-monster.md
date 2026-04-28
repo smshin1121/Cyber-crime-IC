@@ -2,7 +2,7 @@
 type: source
 title: "FBI seizes stolen credentials market Genesis in Operation Cookie Monster"
 source_type: news
-publisher: "BleepingComputer"
+publisher: BleepingComputer
 author: "Ionut Ilascu"
 publish_date: 2023-04-04
 ingest_date: 2026-04-25
@@ -18,6 +18,8 @@ key_findings:
   - "Reports 119 user arrests worldwide as part of the international operation"
 collection_url: https://www.bleepingcomputer.com/news/security/fbi-seizes-stolen-credentials-market-genesis-in-operation-cookie-monster/
 created: 2026-04-25
+raw_path: raw/news/2023-04-04_bleepingcomputer_fbi-seizes-stolen-credentials-market-genesis-in-operation-cookie-monster.md
+copyright_policy: summary-only
 ---
 ## Source Summary
 

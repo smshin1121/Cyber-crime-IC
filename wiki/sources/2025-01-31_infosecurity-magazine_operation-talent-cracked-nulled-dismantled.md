@@ -1,7 +1,7 @@
 ---
 type: source
 title: "Operation Talent dismantles Cracked and Nulled"
-raw_path: ""
+raw_path: raw/news/2025-01-31_infosecurity-magazine_operation-talent-cracked-nulled-dismantled.md
 source_type: news
 publisher: "Infosecurity Magazine"
 author: ""
@@ -18,6 +18,12 @@ key_findings:
   - "The article highlighted server seizures, arrests, and the involvement of Germany, the United States, and multiple European partners."
 collection_url: https://www.infosecurity-magazine.com/news/operation-talent-cracked-nulled/
 created: 2026-04-23
+text_status: summarized
+storage_mode: summary-only
+content_hash: sha256:602ab411eba812b51069a8af0e4fc78ab3d6c7caaa1874a3bcdc84c03f124416
+word_count: 136
+extraction_date: 2026-04-27
+copyright_policy: summary-only
 ---
 ## Source Summary
 

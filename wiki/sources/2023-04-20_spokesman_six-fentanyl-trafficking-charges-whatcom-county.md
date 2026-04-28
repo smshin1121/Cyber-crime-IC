@@ -16,6 +16,8 @@ key_findings:
   - "Spokesman-Review (eastern WA major paper) confirmation"
 collection_url: https://www.spokesman.com/stories/2023/apr/20/six-face-fentanyl-trafficking-charges-in-case-focu/
 created: 2026-04-25
+raw_path: raw/news/2023-04-20_spokesman_six-fentanyl-trafficking-charges-whatcom-county.md
+copyright_policy: summary-only
 ---
 ## Source Summary
 

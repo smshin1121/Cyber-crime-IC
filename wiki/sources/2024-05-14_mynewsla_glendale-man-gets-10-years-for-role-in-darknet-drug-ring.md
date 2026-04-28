@@ -2,8 +2,8 @@
 type: source
 title: "Glendale Man Gets 10 Years for Role in Darknet Drug Ring"
 source_type: news
-publisher: "MyNewsLA"
-author: "Staff"
+publisher: MyNewsLA
+author: Staff
 publish_date: 2024-05-14
 ingest_date: 2026-04-25
 language: en
@@ -17,6 +17,8 @@ key_findings:
   - "Bitcoin used to launder darknet drug proceeds"
 collection_url: https://mynewsla.com/life/2024/05/14/glendale-man-gets-10-years-for-role-in-darknet-drug-ring/
 created: 2026-04-25
+raw_path: raw/news/2024-05-14_mynewsla_glendale-man-gets-10-years-for-role-in-darknet-drug-ring.md
+copyright_policy: summary-only
 ---
 ## Source Summary
 

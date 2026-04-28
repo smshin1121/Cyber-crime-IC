@@ -22,8 +22,13 @@ defendant_names:
 updated: 2026-04-18
 duplicate_of: "[[2025-02-10_justice-gov_guilty-plea-in-hacking-of-the-sec-s-x-account-that-caused-bitcoin-value-spike]]"
 duplicate_reason: same_collection_url
-duplicate_key: "https://www.justice.gov/usao-dc/pr/guilty-plea-hacking-secs-x-account-caused-bitcoin-value-spike"
+duplicate_key: https://www.justice.gov/usao-dc/pr/guilty-plea-hacking-secs-x-account-caused-bitcoin-value-spike
 duplicate_normalized_at: 2026-04-26
+text_status: source-digest
+storage_mode: source-digest
+content_hash: sha256:06ddb5a008226b8d761ae2e7ed38cc6b800132db5a5f388b863edb7715d3b4c7
+word_count: 133
+extraction_date: 2026-04-28
 ---
 ## Source Summary
 

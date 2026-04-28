@@ -13,8 +13,6 @@ credibility: confirmed
 sensitivity: public
 pages_updated:
 
-key_findings:
-  - "Secure .gov websites use HTTPS A lock ( Lock Locked padlock ) or https:// means you’ve safely connected to the .gov website. Share sensitive information only on official, secure websites."
 collection_url: https://www.justice.gov/usao-sc/pr/sumter-man-pleads-guilty-destruction-energy-facility-and-possession-child-sexual-abuse
 created: 2026-04-18
 updated: 2026-04-18
@@ -22,8 +20,13 @@ defendant_names:
   - "Sumter Man"
 duplicate_of: "[[2024-12-09_justice-gov_sumter-man-pleads-guilty-to-destruction-of-an-energy-facility-and-possession-of]]"
 duplicate_reason: same_collection_url
-duplicate_key: "https://www.justice.gov/usao-sc/pr/sumter-man-pleads-guilty-destruction-energy-facility-and-possession-child-sexual-abuse"
+duplicate_key: https://www.justice.gov/usao-sc/pr/sumter-man-pleads-guilty-destruction-energy-facility-and-possession-child-sexual-abuse
 duplicate_normalized_at: 2026-04-26
+text_status: source-digest
+storage_mode: source-digest
+content_hash: sha256:38f5d58f27fdefc0568981c0b9832e934bf5b11223f387aa3e00faae6b1e6abe
+word_count: 113
+extraction_date: 2026-04-28
 ---
 ## Source Summary
 

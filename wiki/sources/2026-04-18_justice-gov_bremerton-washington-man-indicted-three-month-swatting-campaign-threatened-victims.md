@@ -24,8 +24,13 @@ defendant_names:
   - "Ashton Connor Garcia"
 duplicate_of: "[[2023-03-30_justice-gov_bremerton-washington-man-indicted-for-three-month-swatting-campaign-that-threate]]"
 duplicate_reason: same_collection_url
-duplicate_key: "https://www.justice.gov/usao-wdwa/pr/bremerton-washington-man-indicted-three-month-swatting-campaign-threatened-victims"
+duplicate_key: https://www.justice.gov/usao-wdwa/pr/bremerton-washington-man-indicted-three-month-swatting-campaign-threatened-victims
 duplicate_normalized_at: 2026-04-26
+text_status: source-digest
+storage_mode: source-digest
+content_hash: sha256:501e4b978f0ef8151ced0773261c54131f68d20ec93d68d5465f3d0fc7acf428
+word_count: 160
+extraction_date: 2026-04-28
 ---
 ## Source Summary
 

@@ -3,7 +3,7 @@ type: source
 title: "Glendale man gets 13 years for darknet drug ring"
 source_type: news
 publisher: "Glendale Star"
-author: "Staff"
+author: Staff
 publish_date: 2022-01-08
 ingest_date: 2026-04-25
 language: en
@@ -16,6 +16,8 @@ key_findings:
   - "Hometown Glendale weekly newspaper coverage."
 collection_url: https://www.glendalestar.com/news/article_5e7c6c8e-7553-11ec-a052-bfc444ca7cf4.html
 created: 2026-04-25
+raw_path: raw/news/2022-01-08_glendalestar_glendale-man-13-years-darknet-drug-ring.md
+copyright_policy: summary-only
 ---
 ## Source Summary
 

@@ -14,7 +14,7 @@ sensitivity: public
 pages_updated:
   - operation-two-sentenced-in-dark-web-identity-theft-and-retail-fraud-conspiracy
 key_findings:
-  - "This domestic-only U.S. follow-on record has been absorbed into the canonical case page [[two-sentenced-in-dark-web-identity-theft-and-retail-fraud-conspiracy]]. No visible cross-border mechanism is documented, so it is not treated as a separate international-cooperation operation."
+  - "This domestic-only U.S. follow-on record has been absorbed into the canonical case page two-sentenced-in-dark-web-identity-theft-and-retail-fraud-conspiracy. No visible cross-border mechanism is documented, so it is not treated as a separate international-cooperation operation."
 collection_url: https://www.justice.gov/usao-ednc/pr/two-sentenced-dark-web-identity-theft-and-retail-fraud-conspiracy
 created: 2026-04-17
 text_status: parsed

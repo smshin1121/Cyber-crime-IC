@@ -13,8 +13,6 @@ credibility: confirmed
 sensitivity: public
 pages_updated:
 
-key_findings:
-  - "Secure .gov websites use HTTPS A lock ( Lock Locked padlock ) or https:// means you’ve safely connected to the .gov website. Share sensitive information only on official, secure websites."
 collection_url: https://www.justice.gov/usao-ndtx/pr/darkweb-drug-trafficker-arrested-operation-disruptor-sentenced-65-years-prison
 created: 2026-04-17
 updated: 2026-04-18
@@ -22,8 +20,13 @@ defendant_names:
   - "Darkweb Drug Trafficker"
 duplicate_of: "[[2021-07-08_justice-gov_darkweb-drug-trafficker-arrested-in-operation-disruptor-sentenced-to-6-5-years-i]]"
 duplicate_reason: same_collection_url
-duplicate_key: "https://www.justice.gov/usao-ndtx/pr/darkweb-drug-trafficker-arrested-operation-disruptor-sentenced-65-years-prison"
+duplicate_key: https://www.justice.gov/usao-ndtx/pr/darkweb-drug-trafficker-arrested-operation-disruptor-sentenced-65-years-prison
 duplicate_normalized_at: 2026-04-26
+text_status: source-digest
+storage_mode: source-digest
+content_hash: sha256:a03455e28db5e7d3d487ee941c0fa0232337a76aa728c8b8f5a2d7fba2b5306a
+word_count: 144
+extraction_date: 2026-04-28
 ---
 ## Source Summary
 

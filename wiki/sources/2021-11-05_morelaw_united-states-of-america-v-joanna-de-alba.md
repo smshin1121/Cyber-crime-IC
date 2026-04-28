@@ -1,10 +1,10 @@
 ---
 type: source
 title: "United States of America v. Joanna De Alba"
-collection_url: https://www.morelaw.com/verdicts/case.asp?d=158038&n=1%3A19-cr-00563-DLI&s=NY
+collection_url: "https://www.morelaw.com/verdicts/case.asp?d=158038&n=1%3A19-cr-00563-DLI&s=NY"
 collection_domain: morelaw.com
 source_type: legal-summary
-publisher: "MoreLaw"
+publisher: MoreLaw
 author: ""
 publish_date: 2021-11-05
 ingest_date: 2026-04-18
@@ -27,6 +27,13 @@ duplicate_of: "[[2021-11-05_morelaw-com_united-states-of-america-v-joanna-de-alb
 duplicate_reason: same_collection_url
 duplicate_key: "https://www.morelaw.com/verdicts/case.asp?d=158038&n=1%3A19-cr-00563-DLI&s=NY"
 duplicate_normalized_at: 2026-04-26
+raw_path: raw/press-releases/2021-11-05_morelaw_united-states-of-america-v-joanna-de-alba.md
+text_status: summarized
+storage_mode: summary-only
+content_hash: sha256:d7be4a8aa333f5a81041ae80ad89a7d8c8e1f3bebebf1abefbd7ca14fb60c710
+word_count: 166
+extraction_date: 2026-04-27
+copyright_policy: summary-only
 ---
 ## Source Summary
 

@@ -17,6 +17,13 @@ key_findings:
   - "Verbowsky bought 630,000 counterfeit Xanax and other pills from dark-web vendors."
 collection_url: https://www.dea.gov/press-releases/2024/04/12/seattle-man-sentenced-for-buying-630000-counterfeit-pills-dark-web
 created: 2026-04-25
+raw_path: raw/press-releases/2024-04-12_dea_seattle-man-sentenced-buying-630000-counterfeit-pills-dark-web.md
+text_status: parsed
+content_hash: sha256:56367f062a4064d492c166222eb17d10313d9a940657ec91772bb6e34bfa4a6e
+word_count: 212
+extraction_date: 2026-04-28
+last_fetcher: curl_cffi
+storage_mode: fulltext
 ---
 ## Source Summary
 

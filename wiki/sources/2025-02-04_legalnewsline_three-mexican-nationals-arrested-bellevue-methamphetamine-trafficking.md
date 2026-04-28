@@ -3,7 +3,7 @@ type: source
 title: "Three Mexican nationals arrested in Bellevue for alleged methamphetamine trafficking"
 source_type: news
 publisher: "Legal Newsline"
-author: "Staff"
+author: Staff
 publish_date: 2025-02-04
 ingest_date: 2026-04-25
 language: en
@@ -17,6 +17,8 @@ key_findings:
   - "Names Eber Omar Barrones-Madrid, Juan Jose Prado-Estrada, and Jose Manuel Ochoa-Sanchez."
 collection_url: https://legalnewsline.com/stories/669475754-three-mexican-nationals-arrested-in-bellevue-for-alleged-methamphetamine-trafficking
 created: 2026-04-25
+raw_path: raw/news/2025-02-04_legalnewsline_three-mexican-nationals-arrested-bellevue-methamphetamine-trafficking.md
+copyright_policy: summary-only
 ---
 ## Source Summary
 

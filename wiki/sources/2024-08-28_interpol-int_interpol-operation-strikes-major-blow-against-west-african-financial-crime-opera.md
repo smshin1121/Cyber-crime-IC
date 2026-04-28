@@ -12,15 +12,20 @@ reliability: high
 credibility: confirmed
 sensitivity: public
 pages_updated:
-  []
+
 key_findings:
-  - "Operation Jackal III was the third iteration of INTERPOL's dedicated campaign against Black Axe and similar West African organized crime syndicates. Conducted from 10 April to 3 July 2024 across **21 countries** on five continents, the operation resulted in approximately **300 arrests** (nearly tripling the 103 arrests in 2023's [[operation-jackal|Operation Jackal]]), identification of **400+ additional suspects**, blocking of **720+ bank accounts**, and seizure of **USD 3 million**."
+  - "Operation Jackal III was the third iteration of INTERPOL's dedicated campaign against Black Axe and similar West African organized crime syndicates. Conducted from 10 April to 3 July 2024 across **21 countries** on five continents, the operation resulted in approximately **300 arrests** (nearly tripling the 103 arrests in 2023's Operation Jackal), identification of **400+ additional suspects**, blocking of **720+ bank accounts**, and seizure of **USD 3 million**."
 collection_url: https://www.interpol.int/en/News-and-Events/News/2024/INTERPOL-operation-strikes-major-blow-against-West-African-financial-crime
 created: 2026-04-17
 duplicate_of: "[[2024-08-28-interpol-operation-jackal-iii]]"
 duplicate_reason: same_collection_url
-duplicate_key: "https://www.interpol.int/en/News-and-Events/News/2024/INTERPOL-operation-strikes-major-blow-against-West-African-financial-crime"
+duplicate_key: https://www.interpol.int/en/News-and-Events/News/2024/INTERPOL-operation-strikes-major-blow-against-West-African-financial-crime
 duplicate_normalized_at: 2026-04-26
+text_status: source-digest
+storage_mode: source-digest
+content_hash: sha256:b8580780bf51781d2f8383708ba80fad966dfa81c64bb591ae688131f31cc883
+word_count: 238
+extraction_date: 2026-04-28
 ---
 ## Source Summary
 

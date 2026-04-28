@@ -16,6 +16,8 @@ key_findings:
   - "National syndication of Tolbert plea coverage"
 collection_url: https://www.yahoo.com/news/tacoma-man-involved-seattle-mass-232635693.html
 created: 2026-04-25
+raw_path: raw/news/2024-09-13_yahoo_tacoma-man-involved-seattle-mass-shooting-pleads-guilty.md
+copyright_policy: summary-only
 ---
 ## Source Summary
 

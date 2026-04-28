@@ -22,8 +22,15 @@ key_findings:
 created: 2026-04-18
 duplicate_of: "[[2021-08-08_gendarmerie-interieur-gouv-fr_comcybergend-la-gendarmerie-monte-en-puissance-face-la-menace-cyber]]"
 duplicate_reason: same_collection_url
-duplicate_key: "https://www.gendarmerie.interieur.gouv.fr/gendinfo/actualites/2021/comcybergend-la-gendarmerie-monte-en-puissance-face-a-la-menace-cyber"
+duplicate_key: https://www.gendarmerie.interieur.gouv.fr/gendinfo/actualites/2021/comcybergend-la-gendarmerie-monte-en-puissance-face-a-la-menace-cyber
 duplicate_normalized_at: 2026-04-26
+raw_path: raw/press-releases/2021-08-08_gendarmerie-interieur-gouv-fr_comcybergend-la-gendarmerie-monte-en-puissance-face-a-la-menace-cyber.md
+text_status: parsed
+storage_mode: fulltext
+content_hash: sha256:fe5f2193bc745decaddaa126349206434d47b81838a063bf91332f4526435561
+word_count: 2231
+extraction_date: 2026-04-28
+last_fetcher: curl_cffi
 ---
 ## Source Summary
 

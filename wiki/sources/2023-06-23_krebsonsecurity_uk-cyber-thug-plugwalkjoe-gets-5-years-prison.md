@@ -2,7 +2,7 @@
 type: source
 title: "U.K. Cyber Thug 'PlugwalkJoe' Gets 5 Years in Prison"
 source_type: news
-publisher: "KrebsOnSecurity"
+publisher: KrebsOnSecurity
 author: "Brian Krebs"
 publish_date: 2023-06-23
 ingest_date: 2026-04-25
@@ -20,8 +20,10 @@ collection_url: https://krebsonsecurity.com/2023/06/u-k-cyber-thug-plugwalkjoe-g
 created: 2026-04-25
 duplicate_of: "[[2023-06-23_krebsonsecurity_uk-cyber-thug-plugwalkjoe-gets-5-years-in-prison]]"
 duplicate_reason: same_collection_url
-duplicate_key: "https://krebsonsecurity.com/2023/06/u-k-cyber-thug-plugwalkjoe-gets-5-years-in-prison/"
+duplicate_key: https://krebsonsecurity.com/2023/06/u-k-cyber-thug-plugwalkjoe-gets-5-years-in-prison/
 duplicate_normalized_at: 2026-04-26
+raw_path: raw/news/2023-06-23_krebsonsecurity_uk-cyber-thug-plugwalkjoe-gets-5-years-prison.md
+copyright_policy: summary-only
 ---
 ## Source Summary
 

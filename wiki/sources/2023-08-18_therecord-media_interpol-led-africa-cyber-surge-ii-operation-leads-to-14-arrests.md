@@ -14,13 +14,14 @@ sensitivity: public
 pages_updated:
   - africa-cyber-surge-ii
 key_findings:
-  - "**Africa Cyber Surge II** was a major [[interpol|INTERPOL]]-[[afripol|AFRIPOL]] operation spanning 25 African countries. INTERPOL reported 14 arrests, the identification of 20,674 suspicious cyber networks, and linked losses exceeding USD 40 million across schemes involving phishing, business email compromise, digital extortion, and online fraud."
+  - "**Africa Cyber Surge II** was a major INTERPOL-AFRIPOL operation spanning 25 African countries. INTERPOL reported 14 arrests, the identification of 20,674 suspicious cyber networks, and linked losses exceeding USD 40 million across schemes involving phishing, business email compromise, digital extortion, and online fraud."
 collection_url: https://therecord.media/africa-cyber-surge-14-arrests-interpol
 created: 2026-04-17
 duplicate_of: "[[2023-08-18_therecord-media_africa-cyber-surge-14-arrests-interpol]]"
 duplicate_reason: same_collection_url
-duplicate_key: "https://therecord.media/africa-cyber-surge-14-arrests-interpol"
+duplicate_key: https://therecord.media/africa-cyber-surge-14-arrests-interpol
 duplicate_normalized_at: 2026-04-26
+copyright_policy: summary-only
 ---
 ## Source Summary
 

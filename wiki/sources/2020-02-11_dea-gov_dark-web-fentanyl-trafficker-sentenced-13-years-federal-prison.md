@@ -3,7 +3,7 @@ type: source
 title: "Dark web fentanyl trafficker sentenced to 13 years in federal prison"
 source_type: press-release
 publisher: "US DEA"
-author: "Staff"
+author: Staff
 publish_date: 2020-02-11
 ingest_date: 2026-04-25
 language: en
@@ -18,6 +18,13 @@ key_findings:
   - "Confirms DEA lead-investigative role with USPS/HSI partners; international money laundering conspiracy charged."
 collection_url: https://www.dea.gov/press-releases/2020/02/11/dark-web-fentanyl-trafficker-sentenced-13-years-federal-prison
 created: 2026-04-25
+raw_path: raw/press-releases/2020-02-11_dea-gov_dark-web-fentanyl-trafficker-sentenced-13-years-federal-prison.md
+text_status: parsed
+content_hash: sha256:4b3a7443994baaf165c20a83051a8598f053ef7fb859979be11614236b728b62
+word_count: 210
+extraction_date: 2026-04-28
+last_fetcher: curl_cffi
+storage_mode: fulltext
 ---
 ## Source Summary
 

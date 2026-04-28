@@ -13,8 +13,6 @@ credibility: confirmed
 sensitivity: public
 pages_updated:
 
-key_findings:
-  - "Secure .gov websites use HTTPS A lock ( Lock Locked padlock ) or https:// means you’ve safely connected to the .gov website. Share sensitive information only on official, secure websites."
 collection_url: https://www.justice.gov/usao-wdwa/pr/bellingham-man-sentenced-12-years-prison-attempted-enticement-minor-and-possession
 created: 2026-04-18
 defendant_names:
@@ -22,8 +20,13 @@ defendant_names:
 updated: 2026-04-18
 duplicate_of: "[[2024-02-23_justice-gov_bellingham-man-sentenced-to-12-years-in-prison-for-attempted-enticement-of-a-min]]"
 duplicate_reason: same_collection_url
-duplicate_key: "https://www.justice.gov/usao-wdwa/pr/bellingham-man-sentenced-12-years-prison-attempted-enticement-minor-and-possession"
+duplicate_key: https://www.justice.gov/usao-wdwa/pr/bellingham-man-sentenced-12-years-prison-attempted-enticement-minor-and-possession
 duplicate_normalized_at: 2026-04-26
+text_status: source-digest
+storage_mode: source-digest
+content_hash: sha256:baa7bcda9eff21a711e9199fec7f88e8ad512a41059e1596abdb292c4a599718
+word_count: 133
+extraction_date: 2026-04-28
 ---
 ## Source Summary
 

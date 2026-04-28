@@ -14,7 +14,7 @@ sensitivity: public
 pages_updated:
   - operation-minnesota-man-pleads-guilty-to-stalking-and-interstate-communications
 key_findings:
-  - "This domestic-only U.S. follow-on record has been absorbed into the canonical case page [[minnesota-man-pleads-guilty-to-stalking-and-interstate-communications]]. No visible cross-border mechanism is documented, so it is not treated as a separate international-cooperation operation."
+  - "This domestic-only U.S. follow-on record has been absorbed into the canonical case page minnesota-man-pleads-guilty-to-stalking-and-interstate-communications. No visible cross-border mechanism is documented, so it is not treated as a separate international-cooperation operation."
 collection_url: https://www.justice.gov/usao-co/pr/minnesota-man-pleads-guilty-stalking-and-interstate-communications
 created: 2026-04-17
 text_status: parsed

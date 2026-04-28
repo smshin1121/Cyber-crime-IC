@@ -13,15 +13,18 @@ credibility: confirmed
 sensitivity: public
 pages_updated:
 
-key_findings:
-  - "Secure .gov websites use HTTPS A lock ( Lock Locked padlock ) or https:// means you’ve safely connected to the .gov website. Share sensitive information only on official, secure websites."
 collection_url: https://www.justice.gov/usao-wdwa/pr/everett-washington-man-convicted-cyberstalking-and-making-interstate-threats
 created: 2026-04-18
 updated: 2026-04-18
 duplicate_of: "[[2023-09-15_justice-gov-wdwa_everett-washington-man-convicted-cyberstalking-and-making-interstate-threats]]"
 duplicate_reason: same_collection_url
-duplicate_key: "https://www.justice.gov/usao-wdwa/pr/everett-washington-man-convicted-cyberstalking-and-making-interstate-threats"
+duplicate_key: https://www.justice.gov/usao-wdwa/pr/everett-washington-man-convicted-cyberstalking-and-making-interstate-threats
 duplicate_normalized_at: 2026-04-26
+text_status: source-digest
+storage_mode: source-digest
+content_hash: sha256:de4bea83245e66c49acc607a18b54a390ee0ee8ce923fa8f530807546aee4e3e
+word_count: 106
+extraction_date: 2026-04-28
 ---
 ## Source Summary
 

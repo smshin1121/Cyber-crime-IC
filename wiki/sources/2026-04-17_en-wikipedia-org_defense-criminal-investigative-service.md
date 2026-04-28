@@ -14,7 +14,7 @@ sensitivity: public
 pages_updated:
 
 key_findings:
-  - "The Defense Criminal Investigative Service (DCIS) is the criminal investigative arm of the [[dod-inspector-general|Department of Defense Office of Inspector General]], established on **20 April 1981**. DCIS is a worldwide civilian federal law enforcement agency that investigates suspected criminal activities involving DoD Components and DoD contractors."
+  - "The Defense Criminal Investigative Service (DCIS) is the criminal investigative arm of the Department of Defense Office of Inspector General, established on **20 April 1981**. DCIS is a worldwide civilian federal law enforcement agency that investigates suspected criminal activities involving DoD Components and DoD contractors."
 collection_url: https://en.wikipedia.org/wiki/Defense_Criminal_Investigative_Service
 created: 2026-04-17
 text_status: parsed
@@ -28,6 +28,7 @@ license_url: https://foundation.wikimedia.org/wiki/Policy:Terms_of_Use
 attribution_required: true
 share_alike_required: true
 attribution_url: https://en.wikipedia.org/wiki/Defense_Criminal_Investigative_Service
+copyright_policy: summary-only
 ---
 ## Source Summary
 

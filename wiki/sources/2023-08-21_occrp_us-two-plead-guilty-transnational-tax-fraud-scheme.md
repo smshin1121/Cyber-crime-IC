@@ -2,8 +2,8 @@
 type: source
 title: "US: Two Plead Guilty to Transnational Tax Fraud Scheme"
 source_type: news
-publisher: "OCCRP"
-author: "Staff"
+publisher: OCCRP
+author: Staff
 publish_date: 2023-08-21
 ingest_date: 2026-04-25
 language: en
@@ -19,8 +19,10 @@ collection_url: https://www.occrp.org/en/news/us-two-plead-guilty-to-transnation
 created: 2026-04-25
 duplicate_of: "[[2023-08-21_occrp_us-two-plead-guilty-to-transnational-tax-fraud-scheme]]"
 duplicate_reason: same_collection_url
-duplicate_key: "https://www.occrp.org/en/news/us-two-plead-guilty-to-transnational-tax-fraud-scheme"
+duplicate_key: https://www.occrp.org/en/news/us-two-plead-guilty-to-transnational-tax-fraud-scheme
 duplicate_normalized_at: 2026-04-26
+raw_path: raw/news/2023-08-21_occrp_us-two-plead-guilty-transnational-tax-fraud-scheme.md
+copyright_policy: summary-only
 ---
 ## Source Summary
 

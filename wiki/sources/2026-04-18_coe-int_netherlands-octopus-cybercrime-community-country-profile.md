@@ -23,8 +23,14 @@ key_findings:
 created: 2026-04-18
 duplicate_of: "[[2026-04-17_coe-int_netherlands-octopus-cybercrime-community-country-profile]]"
 duplicate_reason: same_collection_url
-duplicate_key: "https://www.coe.int/en/web/octopus/-/netherlands"
+duplicate_key: https://www.coe.int/en/web/octopus/-/netherlands
 duplicate_normalized_at: 2026-04-26
+raw_path: raw/government-reports/2026-04-18_coe-int_netherlands-octopus-cybercrime-community-country-profile.md
+text_status: source-digest
+storage_mode: source-digest
+content_hash: sha256:c46a137c004ca9f3b596e6ae0658f7cd0c21d16b4ebbfe3c5f05ebe57c359aab
+word_count: 179
+extraction_date: 2026-04-28
 ---
 ## Source Summary
 

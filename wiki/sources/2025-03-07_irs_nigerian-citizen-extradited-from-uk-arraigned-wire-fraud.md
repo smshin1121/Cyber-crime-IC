@@ -20,8 +20,14 @@ collection_url: https://www.irs.gov/compliance/criminal-investigation/nigerian-c
 created: 2026-04-25
 duplicate_of: "[[2022-02-03_irs-ci_nigerian-citizen-extradited-from-uk-arraigned-wire-fraud-stolen-tax-information]]"
 duplicate_reason: same_collection_url
-duplicate_key: "https://www.irs.gov/compliance/criminal-investigation/nigerian-citizen-extradited-from-the-uk-arraigned-on-indictment-for-wire-fraud-involving-stolen-tax-information"
+duplicate_key: https://www.irs.gov/compliance/criminal-investigation/nigerian-citizen-extradited-from-the-uk-arraigned-on-indictment-for-wire-fraud-involving-stolen-tax-information
 duplicate_normalized_at: 2026-04-26
+raw_path: raw/press-releases/2025-03-07_irs_nigerian-citizen-extradited-from-uk-arraigned-wire-fraud.md
+text_status: source-digest
+storage_mode: source-digest
+content_hash: sha256:047fecf36b98cd4b24ad4ec7c48f9ce93cf1c670bdbdc4ab9aff518b8b5fe1eb
+word_count: 158
+extraction_date: 2026-04-28
 ---
 ## Source Summary
 

@@ -2,7 +2,7 @@
 type: source
 title: "Police shuts down Rydox cybercrime market, arrests 3 admins"
 source_type: news
-publisher: "BleepingComputer"
+publisher: BleepingComputer
 publish_date: 2024-12-12
 ingest_date: 2026-04-25
 language: en

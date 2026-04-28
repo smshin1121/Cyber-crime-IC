@@ -3,7 +3,7 @@ type: source
 title: "Sumter man pleads guilty to damaging energy facility and possessing illegal material"
 source_type: news
 publisher: "Legal Newsline"
-author: "Staff"
+author: Staff
 publish_date: 2024-12-09
 ingest_date: 2026-04-25
 language: en
@@ -18,6 +18,8 @@ key_findings:
   - "Confirms FBI and Sumter County Sheriff's Office investigation"
 collection_url: https://legalnewsline.com/stories/666808613-sumter-man-pleads-guilty-to-damaging-energy-facility-and-possessing-illegal-material
 created: 2026-04-25
+raw_path: raw/news/2024-12-09_legalnewsline_sumter-man-pleads-guilty-damaging-energy-facility-possessing-illegal-material.md
+copyright_policy: summary-only
 ---
 ## Source Summary
 

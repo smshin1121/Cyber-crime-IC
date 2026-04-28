@@ -3,7 +3,7 @@ type: source
 title: "Tacoma man involved in Seattle mass shooting pleads guilty to gun, drug charges"
 source_type: news
 publisher: "Yahoo News (FOX 13 syndication)"
-author: "Staff"
+author: Staff
 publish_date: 2025-03-15
 ingest_date: 2026-04-25
 language: en
@@ -19,8 +19,10 @@ collection_url: https://www.yahoo.com/news/tacoma-man-involved-seattle-mass-2326
 created: 2026-04-25
 duplicate_of: "[[2024-09-13_yahoo_tacoma-man-involved-seattle-mass-shooting-pleads-guilty]]"
 duplicate_reason: same_collection_url
-duplicate_key: "https://www.yahoo.com/news/tacoma-man-involved-seattle-mass-232635693.html"
+duplicate_key: https://www.yahoo.com/news/tacoma-man-involved-seattle-mass-232635693.html
 duplicate_normalized_at: 2026-04-26
+raw_path: raw/news/2025-03-15_yahoo-news_tacoma-man-involved-seattle-mass-shooting-pleads-guilty-gun-drug-charges.md
+copyright_policy: summary-only
 ---
 ## Source Summary
 

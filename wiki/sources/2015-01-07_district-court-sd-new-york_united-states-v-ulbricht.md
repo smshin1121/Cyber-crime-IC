@@ -17,6 +17,11 @@ key_findings:
   - "Materialized from 2015-01-07_district-court-sd-new-york_united-states-v-ulbricht.md"
 collection_url: https://www.courtlistener.com/opinion/7311405/united-states-v-ulbricht/
 created: 2026-04-17
+text_status: source-digest
+storage_mode: source-digest
+content_hash: sha256:dc71f649b862eaaad81f9ccaa3dee0ef50fb7a7e4659becc502c2811a12f006c
+word_count: 114
+extraction_date: 2026-04-28
 ---
 ## Source Summary
 

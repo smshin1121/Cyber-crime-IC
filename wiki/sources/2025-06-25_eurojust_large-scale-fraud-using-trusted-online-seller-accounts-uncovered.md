@@ -4,7 +4,7 @@ title: "Large-scale fraud using trusted online seller accounts uncovered"
 collection_url: https://www.eurojust.europa.eu/news/large-scale-fraud-using-trusted-online-seller-accounts-uncovered
 collection_domain: eurojust.europa.eu
 source_type: press-release
-publisher: "Eurojust"
+publisher: Eurojust
 author: ""
 publish_date: 2025-06-25
 ingest_date: 2026-04-19
@@ -23,8 +23,14 @@ key_findings:
 created: 2026-04-19
 duplicate_of: "[[2025-06-25_eurojust-europa-eu_large-scale-fraud-using-trusted-online-seller-accounts-uncovered]]"
 duplicate_reason: same_collection_url
-duplicate_key: "https://www.eurojust.europa.eu/news/large-scale-fraud-using-trusted-online-seller-accounts-uncovered"
+duplicate_key: https://www.eurojust.europa.eu/news/large-scale-fraud-using-trusted-online-seller-accounts-uncovered
 duplicate_normalized_at: 2026-04-26
+raw_path: raw/press-releases/2025-06-25_eurojust_large-scale-fraud-using-trusted-online-seller-accounts-uncovered.md
+text_status: source-digest
+storage_mode: source-digest
+content_hash: sha256:5c85d47e8dd383250cccc31b1f4c03cf3ce44ebebcadac93d26cfcfc52dcdd0e
+word_count: 165
+extraction_date: 2026-04-28
 ---
 ## Source Summary
 

@@ -1,20 +1,20 @@
 ---
 type: source
 title: "Europol: International operation dismantles criminal group of cyber-fraudsters"
-collection_url: "https://www.europol.europa.eu/media-press/newsroom/news/international-operation-dismantles-criminal-group-of-cyber-fraudsters"
-collection_domain: "europol.europa.eu"
-source_type: "press-release"
-publisher: "Europol"
-publish_date: "2015-06-10"
-ingest_date: "2026-04-08"
-enriched_date: "2026-04-10"
-language: "en"
-reliability: "high"
-credibility: "confirmed"
-sensitivity: "public"
+collection_url: https://www.europol.europa.eu/media-press/newsroom/news/international-operation-dismantles-criminal-group-of-cyber-fraudsters
+collection_domain: europol.europa.eu
+source_type: press-release
+publisher: Europol
+publish_date: 2015-06-10
+ingest_date: 2026-04-08
+enriched_date: 2026-04-10
+language: en
+reliability: high
+credibility: confirmed
+sensitivity: public
 source_tier: 2
 pages_updated:
-  - "cyber-fraud-international-2015"
+  - cyber-fraud-international-2015
 key_findings:
   - "On 9-10 June 2015, a joint Europol/Eurojust-coordinated operation arrested 49 suspected members of an international cyber-fraud criminal group across Italy, Spain, Poland, United Kingdom, Belgium and Georgia, with 58 properties searched"
   - "Criminal method: 'Man-in-the-middle' (MitM) computer intrusions against medium and large European companies, followed by business email compromise (BEC) — intercepting payment requests from corporate email accounts and redirecting customer payments to attacker-controlled accounts before rapid cash-out"
@@ -26,10 +26,15 @@ created: 2026-04-08
 updated: 2026-04-10
 duplicate_of: "[[2015-06-01_europol-europa-eu_international-operation-dismantles-criminal-group-of-cyber-fraudsters]]"
 duplicate_reason: same_collection_url
-duplicate_key: "https://www.europol.europa.eu/media-press/newsroom/news/international-operation-dismantles-criminal-group-of-cyber-fraudsters"
+duplicate_key: https://www.europol.europa.eu/media-press/newsroom/news/international-operation-dismantles-criminal-group-of-cyber-fraudsters
 duplicate_normalized_at: 2026-04-26
+raw_path: raw/press-releases/europol-international-cyber-fraud-dismantling-operation.md
+text_status: source-digest
+storage_mode: source-digest
+content_hash: sha256:a50e6047b8442365b2b3ebbd84f692681bc73bfac4165447e92f0edabed41929
+word_count: 366
+extraction_date: 2026-04-28
 ---
-
 ## Source
 
 - **Publisher**: Europol

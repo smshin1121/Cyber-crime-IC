@@ -13,8 +13,6 @@ credibility: confirmed
 sensitivity: public
 pages_updated:
 
-key_findings:
-  - "Secure .gov websites use HTTPS A lock ( Lock Locked padlock ) or https:// means you’ve safely connected to the .gov website. Share sensitive information only on official, secure websites."
 collection_url: https://www.justice.gov/usao-ut/pr/woman-accused-murder-hire-admits-using-dark-web-carry-out-crime
 created: 2026-04-18
 defendant_names:
@@ -22,8 +20,13 @@ defendant_names:
 updated: 2026-04-18
 duplicate_of: "[[2024-06-02_justice-gov_woman-accused-of-murder-for-hire-admits-to-using-the-dark-web-to-carry-out-the-c]]"
 duplicate_reason: same_collection_url
-duplicate_key: "https://www.justice.gov/usao-ut/pr/woman-accused-murder-hire-admits-using-dark-web-carry-out-crime"
+duplicate_key: https://www.justice.gov/usao-ut/pr/woman-accused-murder-hire-admits-using-dark-web-carry-out-crime
 duplicate_normalized_at: 2026-04-26
+text_status: source-digest
+storage_mode: source-digest
+content_hash: sha256:f5939541478d0e22505028ff4ba303e9233c7c1e0cc6cf6027ae69b38d3cb075
+word_count: 131
+extraction_date: 2026-04-28
 ---
 ## Source Summary
 

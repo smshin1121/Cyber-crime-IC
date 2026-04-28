@@ -23,8 +23,13 @@ defendant_names:
 updated: 2026-04-18
 duplicate_of: "[[2022-02-09_justice-gov_marine-based-at-camp-pendleton-arrested-on-federal-charges-alleging-cyberstalkin]]"
 duplicate_reason: same_collection_url
-duplicate_key: "https://www.justice.gov/usao-cdca/pr/marine-based-camp-pendleton-arrested-federal-charges-alleging-cyberstalking-young-women"
+duplicate_key: https://www.justice.gov/usao-cdca/pr/marine-based-camp-pendleton-arrested-federal-charges-alleging-cyberstalking-young-women
 duplicate_normalized_at: 2026-04-26
+text_status: source-digest
+storage_mode: source-digest
+content_hash: sha256:b81380ec2ca761e84cf660cbe728763da8fa8485a7fd283cd1571c1f5933e8a9
+word_count: 131
+extraction_date: 2026-04-28
 ---
 ## Source Summary
 

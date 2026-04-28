@@ -1,21 +1,21 @@
 ---
 type: source
 title: "PortSwigger (Daily Swig): Safe-Inet VPN for Cybercriminals Taken Down in Law Enforcement Bust"
-collection_url: "https://portswigger.net/daily-swig/safe-inet-vpn-service-for-cybercriminals-taken-down-in-law-enforcement-bust"
-collection_domain: "portswigger.net"
-source_type: "news"
+collection_url: https://portswigger.net/daily-swig/safe-inet-vpn-service-for-cybercriminals-taken-down-in-law-enforcement-bust
+collection_domain: portswigger.net
+source_type: news
 publisher: "PortSwigger (Daily Swig)"
 author: ""
-publish_date: "2020-12-22"
-ingest_date: "2026-04-08"
-enriched_date: "2026-04-10"
-language: "en"
-reliability: "medium-high"
-credibility: "probably-true"
-sensitivity: "public"
+publish_date: 2020-12-22
+ingest_date: 2026-04-08
+enriched_date: 2026-04-10
+language: en
+reliability: medium-high
+credibility: probably-true
+sensitivity: public
 source_tier: 3
 pages_updated:
-  - "operation-nova"
+  - operation-nova
 key_findings:
   - "PortSwigger Daily Swig reported on 22 December 2020 on **Operation Nova**, the coordinated seizure of Safe-Inet — a bulletproof VPN service for cybercriminals — and associated domains insorg.org, inet.com, and safe-inet.net"
   - "The takedown was led by the German Reutlingen Police Headquarters (Polizeipräsidium Reutlingen) and supported by Europol, the FBI, and additional European law enforcement agencies; coordination ran through Europol's EC3"
@@ -27,10 +27,16 @@ created: 2026-04-08
 updated: 2026-04-10
 duplicate_of: "[[2020-12-22_portswigger-net_safe-inet-vpn-service-for-cybercriminals-taken-down-in-law-enforcement-bust]]"
 duplicate_reason: same_collection_url
-duplicate_key: "https://portswigger.net/daily-swig/safe-inet-vpn-service-for-cybercriminals-taken-down-in-law-enforcement-bust"
+duplicate_key: https://portswigger.net/daily-swig/safe-inet-vpn-service-for-cybercriminals-taken-down-in-law-enforcement-bust
 duplicate_normalized_at: 2026-04-26
+raw_path: raw/news/portswigger-operation-nova-safe-inet-vpn-takedown.md
+text_status: summarized
+storage_mode: summary-only
+content_hash: sha256:4f5fa4c788223a3b7178b3fb250d925656ad2063ed3d22af669874492d847392
+word_count: 373
+extraction_date: 2026-04-27
+copyright_policy: summary-only
 ---
-
 > [!info] URL access
 > WebFetch returned only the PortSwigger homepage content rather than the article body, suggesting the article may have been moved, paywalled, or the URL behavior changed. Key findings below are reconstructed from the parallel Hacker News, SiliconANGLE, Cyber Reports, and PrivacySavvy coverage of the same 22 December 2020 Operation Nova announcement; all claims are consistent across these sources.
 

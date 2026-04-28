@@ -22,8 +22,13 @@ defendant_names:
 updated: 2026-04-18
 duplicate_of: "[[2022-08-05_justice-gov_carmichaels-man-sentenced-3-years-cyberstalking]]"
 duplicate_reason: same_collection_url
-duplicate_key: "https://www.justice.gov/usao-wdpa/pr/carmichaels-man-sentenced-3-years-cyberstalking"
+duplicate_key: https://www.justice.gov/usao-wdpa/pr/carmichaels-man-sentenced-3-years-cyberstalking
 duplicate_normalized_at: 2026-04-26
+text_status: source-digest
+storage_mode: source-digest
+content_hash: sha256:a076496a716cd2319e0eb8bd57227e2bff381cc74ab224dc879e83f5807b4a9e
+word_count: 121
+extraction_date: 2026-04-28
 ---
 ## Source Summary
 

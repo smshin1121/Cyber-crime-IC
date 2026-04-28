@@ -14,7 +14,7 @@ sensitivity: public
 pages_updated:
 
 key_findings:
-  - 'The US Department of the Treasury plays a central role in international cybercrime cooperation through two distinct tools: ""'
+  - "The US Department of the Treasury plays a central role in international cybercrime cooperation through two distinct tools: \"\""
 collection_url: https://home.treasury.gov/news/press-releases/jy0916
 created: 2026-04-17
 text_status: parsed

@@ -17,6 +17,11 @@ key_findings:
   - "The **Centre de lutte contre les criminalités numériques (C3N)** is the French Gendarmerie's national judicial cybercrime unit. It sits inside the broader Gendarmerie cyber architecture and operates as one of the main state bodies handling higher-end cyber investigations with national competence."
 collection_url: https://www.gendarmerie.interieur.gouv.fr/gendinfo/actualites/2021/comcybergend-la-gendarmerie-monte-en-puissance-face-a-la-menace-cyber
 created: 2026-04-17
+text_status: source-digest
+storage_mode: source-digest
+content_hash: sha256:ee6aff2ec51aecc5576bbbef85852639b7a982cbe631e80998a421bacbfcae8f
+word_count: 178
+extraction_date: 2026-04-28
 ---
 ## Source Summary
 

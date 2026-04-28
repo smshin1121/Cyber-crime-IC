@@ -11,7 +11,8 @@ language: en
 reliability: high
 credibility: confirmed
 sensitivity: public
-pages_updated: []
+pages_updated:
+
 key_findings:
   - "The captured page included standard DOJ site-security boilerplate about HTTPS and official .gov pages."
 collection_url: https://www.justice.gov/usao-wdpa/pr/moldovan-botnet-operator-indicted-role-conspiracy-unlawfully-access-thousands-infected
@@ -21,8 +22,13 @@ defendant_names:
   - "Indicted for Role in"
 duplicate_of: "[[2024-04-16_justice-gov_moldovan-botnet-operator-indicted-for-role-in-conspiracy-to-unlawfully-access-th]]"
 duplicate_reason: same_collection_url
-duplicate_key: "https://www.justice.gov/usao-wdpa/pr/moldovan-botnet-operator-indicted-role-conspiracy-unlawfully-access-thousands-infected"
+duplicate_key: https://www.justice.gov/usao-wdpa/pr/moldovan-botnet-operator-indicted-role-conspiracy-unlawfully-access-thousands-infected
 duplicate_normalized_at: 2026-04-26
+text_status: source-digest
+storage_mode: source-digest
+content_hash: sha256:4b06485f14b112417c5df3f9fcabeea91e3ff4043145912f3c6780f724a459a2
+word_count: 127
+extraction_date: 2026-04-28
 ---
 ## Source Summary
 

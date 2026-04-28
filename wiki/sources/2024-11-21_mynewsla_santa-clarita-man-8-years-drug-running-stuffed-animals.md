@@ -2,8 +2,8 @@
 type: source
 title: "Santa Clarita Man Sentenced 8 Years for Drug Running Via Stuffed Animals"
 source_type: news
-publisher: "MyNewsLA"
-author: "Staff"
+publisher: MyNewsLA
+author: Staff
 publish_date: 2024-11-21
 ingest_date: 2026-04-25
 language: en
@@ -16,6 +16,8 @@ key_findings:
   - "Methamphetamine, heroin, and cocaine distributed via darknet"
 collection_url: https://mynewsla.com/crime/2024/11/21/santa-clarita-man-sentenced-to-prison-for-role-in-stuffed-animals-drug-ring/
 created: 2026-04-25
+raw_path: raw/news/2024-11-21_mynewsla_santa-clarita-man-8-years-drug-running-stuffed-animals.md
+copyright_policy: summary-only
 ---
 ## Source Summary
 

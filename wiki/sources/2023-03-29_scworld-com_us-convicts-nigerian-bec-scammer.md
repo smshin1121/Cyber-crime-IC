@@ -14,7 +14,7 @@ sensitivity: public
 pages_updated:
   - nigerian-bec-convictions-2023
 key_findings:
-  - "This page records a sentencing-stage cyber-enabled fraud enforcement action involving Nigerian defendants Solomon Ekunke Okpe and Johnson Uke Obogo. DOJ announced on 2023-03-27 that the defendants had been sentenced for schemes that victimized persons in the [[united-states|United States]] through cyber-enabled fraud."
+  - "This page records a sentencing-stage cyber-enabled fraud enforcement action involving Nigerian defendants Solomon Ekunke Okpe and Johnson Uke Obogo. DOJ announced on 2023-03-27 that the defendants had been sentenced for schemes that victimized persons in the United States through cyber-enabled fraud."
 collection_url: https://www.scworld.com/brief/us-convicts-nigerian-bec-scammer
 created: 2026-04-17
 text_status: summarized

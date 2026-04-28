@@ -3,7 +3,7 @@ type: source
 title: "Dark Web Pill Factory Leader From Tuxedo Park Gets Time In Prison"
 source_type: news
 publisher: "Daily Voice"
-author: "Staff"
+author: Staff
 publish_date: 2025-01-22
 ingest_date: 2026-04-25
 language: en
@@ -18,6 +18,8 @@ key_findings:
   - "Notes prior 2019 federal conviction for online pill sales — current offense committed during supervised release."
 collection_url: https://dailyvoice.com/ny/suffern/dark-web-pill-factory-leader-from-tuxedo-park-gets-time-in-prison/
 created: 2026-04-25
+raw_path: raw/news/2025-01-22_dailyvoice_dark-web-pill-factory-leader-tuxedo-park-time-prison.md
+copyright_policy: summary-only
 ---
 ## Source Summary
 

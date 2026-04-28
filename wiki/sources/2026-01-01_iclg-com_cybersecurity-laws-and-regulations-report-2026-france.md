@@ -14,7 +14,7 @@ sensitivity: public
 pages_updated:
 
 key_findings:
-  - "France is a **foundational partner** in European cybercrime cooperation. It was one of the early ratifying parties to the [[budapest-convention|Budapest Convention on Cybercrime]] (ratified 10 January 2006; entry into force 1 May 2006) and operates a mature 24/7 Point of Contact at the **OCLCTIC** since 2000."
+  - "France is a **foundational partner** in European cybercrime cooperation. It was one of the early ratifying parties to the Budapest Convention on Cybercrime (ratified 10 January 2006; entry into force 1 May 2006) and operates a mature 24/7 Point of Contact at the **OCLCTIC** since 2000."
 collection_url: https://iclg.com/practice-areas/cybersecurity-laws-and-regulations/france
 created: 2026-04-17
 text_status: summarized

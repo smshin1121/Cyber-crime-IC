@@ -1,21 +1,21 @@
 ---
 type: source
 title: "Europol: Fraudulent Shopping Sites Tied to Cybercrime Marketplace Taken Offline"
-collection_url: "https://www.europol.europa.eu/media-press/newsroom/news/fraudulent-shopping-sites-tied-to-cybercrime-marketplace-taken-offline"
-collection_domain: "europol.europa.eu"
-source_type: "press-release"
-publisher: "Europol"
+collection_url: https://www.europol.europa.eu/media-press/newsroom/news/fraudulent-shopping-sites-tied-to-cybercrime-marketplace-taken-offline
+collection_domain: europol.europa.eu
+source_type: press-release
+publisher: Europol
 author: ""
-publish_date: "2024-12-05"
-ingest_date: "2026-04-08"
-enriched_date: "2026-04-10"
-language: "en"
-reliability: "high"
-credibility: "confirmed"
-sensitivity: "public"
+publish_date: 2024-12-05
+ingest_date: 2026-04-08
+enriched_date: 2026-04-10
+language: en
+reliability: high
+credibility: confirmed
+sensitivity: public
 source_tier: 2
 pages_updated:
-  - "fake-shopping-sites-takedown-2024"
+  - fake-shopping-sites-takedown-2024
 key_findings:
   - "On 5 December 2024 Europol announced a coordinated takedown of a specialized cybercrime marketplace selling regionally-sorted stolen data with account-balance filtering, plus the phishing-driven fake-shopping-site infrastructure that fed it"
   - "Cooperation involved six EU member states: Austria, Czechia, Finland, Germany, Netherlands, and Poland, coordinated through Europol's European Cybercrime Centre (EC3)"
@@ -27,10 +27,15 @@ created: 2026-04-08
 updated: 2026-04-10
 duplicate_of: "[[2024-12-04_europol-europa-eu_fraudulent-shopping-sites-tied-to-cybercrime-marketplace-taken-offline]]"
 duplicate_reason: same_collection_url
-duplicate_key: "https://www.europol.europa.eu/media-press/newsroom/news/fraudulent-shopping-sites-tied-to-cybercrime-marketplace-taken-offline"
+duplicate_key: https://www.europol.europa.eu/media-press/newsroom/news/fraudulent-shopping-sites-tied-to-cybercrime-marketplace-taken-offline
 duplicate_normalized_at: 2026-04-26
+raw_path: raw/press-releases/europol-fraudulent-shopping-sites-takedown.md
+text_status: source-digest
+storage_mode: source-digest
+content_hash: sha256:d32a2a4c3b9887d2bf6f79ae5af15ab88aaab7af7c2e76b41c9f7d844122d8ab
+word_count: 344
+extraction_date: 2026-04-28
 ---
-
 ## Source
 
 - **Publisher**: Europol (EC3)

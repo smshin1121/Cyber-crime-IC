@@ -17,6 +17,12 @@ key_findings:
   - "U.S. Secret Service Cleveland Field Office credited as investigating agency."
 collection_url: https://www.secretservice.gov/newsroom/releases/2022/08/woodmere-man-sentenced-prison-obtaining-stolen-credit-card-information
 created: 2026-04-25
+raw_path: raw/press-releases/2022-08-25_secretservice_woodmere-man-sentenced-stolen-credit-card-gasoline.md
+text_status: source-digest
+storage_mode: source-digest
+content_hash: sha256:fc78a17c369609a584b22271d7ac1e22fa4843c9bfb7c8d059757ef806718629
+word_count: 127
+extraction_date: 2026-04-28
 ---
 ## Source Summary
 

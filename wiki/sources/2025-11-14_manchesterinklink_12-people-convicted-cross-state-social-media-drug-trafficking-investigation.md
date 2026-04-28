@@ -3,7 +3,7 @@ type: source
 title: "12 people convicted in cross-state social media drug trafficking investigation"
 source_type: news
 publisher: "Manchester Ink Link"
-author: "Staff"
+author: Staff
 publish_date: 2025-11-14
 ingest_date: 2026-04-25
 language: en
@@ -16,6 +16,8 @@ key_findings:
   - "NH local coverage of the convictions"
 collection_url: https://manchester.inklink.news/12-people-convicted-in-cross-state-social-media-drug-trafficking-investigation/
 created: 2026-04-25
+raw_path: raw/news/2025-11-14_manchesterinklink_12-people-convicted-cross-state-social-media-drug-trafficking-investigation.md
+copyright_policy: summary-only
 ---
 ## Source Summary
 

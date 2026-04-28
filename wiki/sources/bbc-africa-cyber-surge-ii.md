@@ -1,21 +1,21 @@
 ---
 type: source
 title: "INTERPOL: Cybercrime — 14 arrests, thousands of illicit cyber networks disrupted in Africa operation"
-collection_url: "https://www.interpol.int/en/News-and-Events/News/2023/Cybercrime-14-arrests-thousands-of-illicit-cyber-networks-disrupted-in-Africa-operation"
-collection_domain: "interpol.int"
-source_type: "press-release"
-publisher: "INTERPOL"
+collection_url: https://www.interpol.int/en/News-and-Events/News/2023/Cybercrime-14-arrests-thousands-of-illicit-cyber-networks-disrupted-in-Africa-operation
+collection_domain: interpol.int
+source_type: press-release
+publisher: INTERPOL
 author: "INTERPOL Press Office"
-publish_date: "2023-08-18"
-ingest_date: "2026-04-08"
-enriched_date: "2026-04-11"
-language: "en"
-reliability: "high"
-credibility: "confirmed"
-sensitivity: "public"
+publish_date: 2023-08-18
+ingest_date: 2026-04-08
+enriched_date: 2026-04-11
+language: en
+reliability: high
+credibility: confirmed
+sensitivity: public
 source_tier: 1
 pages_updated:
-  - "africa-cyber-surge-ii"
+  - africa-cyber-surge-ii
 key_findings:
   - "Africa Cyber Surge II ran April-August 2023 across 25 African countries, coordinated by INTERPOL and Afripol"
   - "14 suspects arrested; 20,674 suspicious cyber networks identified"
@@ -29,10 +29,15 @@ created: 2026-04-08
 updated: 2026-04-11
 duplicate_of: "[[2023-08-18_interpol-int_cybercrime-14-arrests-thousands-of-illicit-cyber-networks-disrupted-in-africa-op]]"
 duplicate_reason: same_collection_url
-duplicate_key: "https://www.interpol.int/en/News-and-Events/News/2023/Cybercrime-14-arrests-thousands-of-illicit-cyber-networks-disrupted-in-Africa-operation"
+duplicate_key: https://www.interpol.int/en/News-and-Events/News/2023/Cybercrime-14-arrests-thousands-of-illicit-cyber-networks-disrupted-in-Africa-operation
 duplicate_normalized_at: 2026-04-26
+raw_path: raw/press-releases/bbc-africa-cyber-surge-ii.md
+text_status: source-digest
+storage_mode: source-digest
+content_hash: sha256:4ba25fa179688b2713b1faec694ec15f0612fb717116f738f7227a95e44e6b8b
+word_count: 301
+extraction_date: 2026-04-28
 ---
-
 > [!info] Source replaced (2026-04-11)
 > Originally filed as a BBC Pidgin article (`bbc.com/pidgin/tori-49629324`), which was a URL mismatch — the BBC URL pointed to an unrelated ~2019 article. Exhaustive search confirmed BBC did not publish a dedicated article on Africa Cyber Surge II. Replaced with the INTERPOL official press release per interview Q0003 decision.
 

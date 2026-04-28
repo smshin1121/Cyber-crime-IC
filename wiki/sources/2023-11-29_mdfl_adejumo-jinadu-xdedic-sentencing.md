@@ -13,8 +13,6 @@ credibility: confirmed
 sensitivity: public
 pages_updated:
   - xdedic-marketplace-takedown
-key_findings:
-  - "Secure .gov websites use HTTPS A lock ( Lock Locked padlock ) or https:// means you’ve safely connected to the .gov website. Share sensitive information only on official, secure websites."
 collection_url: https://www.justice.gov/usao-mdfl/pr/us-based-conspirators-sentenced-prison-international-tax-scheme
 created: 2026-04-17
 defendant_names:
@@ -23,8 +21,13 @@ defendant_names:
 updated: 2026-04-18
 duplicate_of: "[[2023-11-29_justice-gov_u-s-based-conspirators-sentenced-to-prison-for-international-tax-scheme]]"
 duplicate_reason: same_collection_url
-duplicate_key: "https://www.justice.gov/usao-mdfl/pr/us-based-conspirators-sentenced-prison-international-tax-scheme"
+duplicate_key: https://www.justice.gov/usao-mdfl/pr/us-based-conspirators-sentenced-prison-international-tax-scheme
 duplicate_normalized_at: 2026-04-26
+text_status: source-digest
+storage_mode: source-digest
+content_hash: sha256:4c4df339ec25e4f8343b57c239401bd9accca6752e9dc51b06f75f245fa7ddba
+word_count: 223
+extraction_date: 2026-04-28
 ---
 ## Source Summary
 

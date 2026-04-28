@@ -12,11 +12,12 @@ reliability: medium
 credibility: confirmed
 sensitivity: public
 pages_updated:
-  []
+
 key_findings:
   - "The Gambia has limited cybercrime legislation centred on the **Information and Communications Act 2009 (ICA)**, which provides some substantive cybercrime offences but lacks comprehensive procedural powers for electronic evidence and international cooperation."
 collection_url: https://www.moict.gov.gm/
 created: 2026-04-17
+copyright_policy: summary-only
 ---
 ## Source Summary
 

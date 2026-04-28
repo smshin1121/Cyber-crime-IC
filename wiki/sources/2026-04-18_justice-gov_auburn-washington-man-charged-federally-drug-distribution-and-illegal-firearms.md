@@ -13,8 +13,6 @@ credibility: confirmed
 sensitivity: public
 pages_updated:
 
-key_findings:
-  - "Secure .gov websites use HTTPS A lock ( Lock Locked padlock ) or https:// means you’ve safely connected to the .gov website. Share sensitive information only on official, secure websites."
 collection_url: https://www.justice.gov/usao-wdwa/pr/auburn-washington-man-charged-federally-drug-distribution-and-illegal-firearms
 created: 2026-04-18
 defendant_names:
@@ -22,8 +20,13 @@ defendant_names:
 updated: 2026-04-18
 duplicate_of: "[[2024-06-05_justice-gov_auburn-washington-man-charged-federally-for-drug-distribution-and-illegal-firear]]"
 duplicate_reason: same_collection_url
-duplicate_key: "https://www.justice.gov/usao-wdwa/pr/auburn-washington-man-charged-federally-drug-distribution-and-illegal-firearms"
+duplicate_key: https://www.justice.gov/usao-wdwa/pr/auburn-washington-man-charged-federally-drug-distribution-and-illegal-firearms
 duplicate_normalized_at: 2026-04-26
+text_status: source-digest
+storage_mode: source-digest
+content_hash: sha256:5839c241425582c1caf3b4d4e4f10079a59200b6c7a8bf4b478de7b2d75d5e23
+word_count: 117
+extraction_date: 2026-04-28
 ---
 ## Source Summary
 

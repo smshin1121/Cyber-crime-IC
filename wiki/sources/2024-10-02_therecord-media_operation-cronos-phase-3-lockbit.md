@@ -1,7 +1,7 @@
 ---
 type: source
 title: "Operation Cronos phase 3 targets LockBit affiliates"
-raw_path: ""
+raw_path: raw/news/2024-10-02_therecord-media_operation-cronos-phase-3-lockbit.md
 source_type: news
 publisher: "The Record"
 author: ""
@@ -18,6 +18,12 @@ key_findings:
   - "The article framed the action as a continuation of the February 2024 LockBit disruption campaign."
 collection_url: https://therecord.media/operation-cronos-phase-3-lockbit
 created: 2026-04-23
+text_status: summarized
+storage_mode: summary-only
+content_hash: sha256:ed1ceb1250a49538cceac47a2f0b7c430a53fd6e9b2689ca55267dcd30ef085f
+word_count: 139
+extraction_date: 2026-04-27
+copyright_policy: summary-only
 ---
 ## Source Summary
 

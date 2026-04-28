@@ -3,7 +3,7 @@ type: source
 title: "Tennessee woman accused of trying to hire hitman to kill wife of man she met on Match.com"
 source_type: news
 publisher: "CBS News"
-author: "Staff"
+author: Staff
 publish_date: 2023-06-05
 ingest_date: 2026-04-25
 language: en
@@ -18,6 +18,8 @@ key_findings:
   - "Sasser used 'cattree' alias on Online Killers Market with BTC payment"
 collection_url: https://www.cbsnews.com/news/melody-sasser-charged-hiring-hitman-match-com-dating-site/
 created: 2026-04-25
+raw_path: raw/news/2023-06-05_cbsnews_melody-sasser-charged-hiring-hitman-match-com.md
+copyright_policy: summary-only
 ---
 ## Source Summary
 

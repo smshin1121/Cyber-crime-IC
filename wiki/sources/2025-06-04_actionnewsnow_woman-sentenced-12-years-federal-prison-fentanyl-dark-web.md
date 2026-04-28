@@ -3,7 +3,7 @@ type: source
 title: "Woman sentenced to 12 years in federal prison for sale of fentanyl on dark web"
 source_type: news
 publisher: "Action News Now (KHSL/KNVN, Chico CA)"
-author: "Staff"
+author: Staff
 publish_date: 2025-06-04
 ingest_date: 2026-04-25
 language: en
@@ -17,6 +17,8 @@ key_findings:
   - "Independent press coverage matched to USAO district region."
 collection_url: https://www.actionnewsnow.com/news/woman-sentenced-to-12-years-in-federal-prison-for-sale-of-fentanyl-on-dark-web/article_b3ba9d49-e647-4635-9a78-8c39e3a8f27b.html
 created: 2026-04-25
+raw_path: raw/news/2025-06-04_actionnewsnow_woman-sentenced-12-years-federal-prison-fentanyl-dark-web.md
+copyright_policy: summary-only
 ---
 ## Source Summary
 

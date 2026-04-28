@@ -17,6 +17,7 @@ key_findings:
   - "The **Bundeskriminalamt (BKA)** is Germany's federal criminal police, headquartered in Wiesbaden. It serves as **INTERPOL NCB Germany** and as Germany's **central Europol National Unit**, making it the primary coordination point for all international law enforcement cooperation involving Germany."
 collection_url: https://www.bka.de/EN/OurTasks/AreasOfCrime/Cybercrime/cybercrime_node.html
 created: 2026-04-17
+copyright_policy: summary-only
 ---
 ## Source Summary
 

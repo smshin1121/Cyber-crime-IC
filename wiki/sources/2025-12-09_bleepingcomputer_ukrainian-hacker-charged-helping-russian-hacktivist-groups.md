@@ -2,7 +2,7 @@
 type: source
 title: "Ukrainian hacker charged with helping Russian hacktivist groups"
 source_type: news
-publisher: "BleepingComputer"
+publisher: BleepingComputer
 publish_date: 2025-12-09
 ingest_date: 2026-04-25
 language: en

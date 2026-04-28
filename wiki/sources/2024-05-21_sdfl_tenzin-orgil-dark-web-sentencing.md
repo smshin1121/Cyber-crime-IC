@@ -13,15 +13,18 @@ credibility: confirmed
 sensitivity: public
 pages_updated:
 
-key_findings:
-  - "Secure .gov websites use HTTPS A lock ( Lock Locked padlock ) or https:// means you’ve safely connected to the .gov website. Share sensitive information only on official, secure websites."
 collection_url: https://www.justice.gov/usao-sdfl/pr/dark-web-drug-vendor-and-clandestine-lab-manufacturer-sentenced-prison-trafficking
 created: 2026-04-17
 updated: 2026-04-18
 duplicate_of: "[[2024-05-21_justice-gov_dark-web-drug-vendor-and-clandestine-lab-manufacturer-sentenced-to-prison-for-tr]]"
 duplicate_reason: same_collection_url
-duplicate_key: "https://www.justice.gov/usao-sdfl/pr/dark-web-drug-vendor-and-clandestine-lab-manufacturer-sentenced-prison-trafficking"
+duplicate_key: https://www.justice.gov/usao-sdfl/pr/dark-web-drug-vendor-and-clandestine-lab-manufacturer-sentenced-prison-trafficking
 duplicate_normalized_at: 2026-04-26
+text_status: source-digest
+storage_mode: source-digest
+content_hash: sha256:a22f44ed4f0abea0327581466604ea6d3b181f8ba7e9b2c47544bdae5a7fd26b
+word_count: 160
+extraction_date: 2026-04-28
 ---
 ## Source Summary
 

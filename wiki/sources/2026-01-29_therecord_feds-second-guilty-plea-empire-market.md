@@ -17,6 +17,8 @@ key_findings:
   - "Empire Market disappeared in summer 2020 after operators allegedly stole ~$30M in user bitcoin"
 collection_url: https://therecord.media/feds-second-guilty-plea
 created: 2026-04-25
+raw_path: raw/news/2026-01-29_therecord_feds-second-guilty-plea-empire-market.md
+copyright_policy: summary-only
 ---
 ## Source Summary
 

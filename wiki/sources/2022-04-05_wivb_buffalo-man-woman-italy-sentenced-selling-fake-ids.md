@@ -3,7 +3,7 @@ type: source
 title: "Buffalo man, woman from Italy sentenced for selling fake IDs"
 source_type: news
 publisher: "WIVB News 4 Buffalo"
-author: "Staff"
+author: Staff
 publish_date: 2022-04-05
 ingest_date: 2026-04-25
 language: en
@@ -17,6 +17,8 @@ key_findings:
   - "Documents Italy / Buffalo cross-border vendor partnership."
 collection_url: https://www.wivb.com/news/crime/buffalo-man-woman-from-italy-sentenced-for-selling-fake-ids/
 created: 2026-04-25
+raw_path: raw/news/2022-04-05_wivb_buffalo-man-woman-italy-sentenced-selling-fake-ids.md
+copyright_policy: summary-only
 ---
 ## Source Summary
 

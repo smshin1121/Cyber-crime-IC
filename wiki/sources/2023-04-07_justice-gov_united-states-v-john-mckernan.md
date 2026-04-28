@@ -13,8 +13,6 @@ credibility: confirmed
 sensitivity: public
 pages_updated:
 
-key_findings:
-  - "Secure .gov websites use HTTPS A lock ( Lock Locked padlock ) or https:// means you’ve safely connected to the .gov website. Share sensitive information only on official, secure websites."
 collection_url: https://www.justice.gov/usao-edva/pr/darknet-vendor-sentenced-distribution-fentanyl-laced-pills
 created: 2026-04-17
 defendant_names:
@@ -23,8 +21,13 @@ defendant_names:
 updated: 2026-04-18
 duplicate_of: "[[2023-04-07_edva_john-mckernan-darknet-sentencing]]"
 duplicate_reason: same_collection_url
-duplicate_key: "https://www.justice.gov/usao-edva/pr/darknet-vendor-sentenced-distribution-fentanyl-laced-pills"
+duplicate_key: https://www.justice.gov/usao-edva/pr/darknet-vendor-sentenced-distribution-fentanyl-laced-pills
 duplicate_normalized_at: 2026-04-26
+text_status: source-digest
+storage_mode: source-digest
+content_hash: sha256:a7efa4d154e85c6601aa84c073eff50db6d2df7148b3e3421ff4dd07edcb43cc
+word_count: 137
+extraction_date: 2026-04-28
 ---
 ## Source Summary
 

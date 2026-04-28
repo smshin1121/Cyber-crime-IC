@@ -13,8 +13,6 @@ credibility: confirmed
 sensitivity: public
 pages_updated:
 
-key_findings:
-  - "Secure .gov websites use HTTPS A lock ( Lock Locked padlock ) or https:// means you’ve safely connected to the .gov website. Share sensitive information only on official, secure websites."
 collection_url: https://www.justice.gov/usao-edmi/pr/nurse-admits-tampering-vials-fentanyl
 created: 2026-04-18
 defendant_names:
@@ -22,8 +20,13 @@ defendant_names:
 updated: 2026-04-18
 duplicate_of: "[[2025-05-08_justice-gov_nurse-admits-tampering-with-vials-of-fentanyl]]"
 duplicate_reason: same_collection_url
-duplicate_key: "https://www.justice.gov/usao-edmi/pr/nurse-admits-tampering-vials-fentanyl"
+duplicate_key: https://www.justice.gov/usao-edmi/pr/nurse-admits-tampering-vials-fentanyl
 duplicate_normalized_at: 2026-04-26
+text_status: source-digest
+storage_mode: source-digest
+content_hash: sha256:b3ebebced3ade6d2dfa714073157d46f8fd329246ed1eb3d614ec5b2410c7bc1
+word_count: 103
+extraction_date: 2026-04-28
 ---
 ## Source Summary
 

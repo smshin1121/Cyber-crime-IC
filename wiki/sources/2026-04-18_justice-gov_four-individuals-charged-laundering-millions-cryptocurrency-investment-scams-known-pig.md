@@ -23,8 +23,13 @@ defendant_names:
 updated: 2026-04-18
 duplicate_of: "[[2023-12-14_justice-gov_four-individuals-charged-with-laundering-millions-from-cryptocurrency-investment]]"
 duplicate_reason: same_collection_url
-duplicate_key: "https://www.justice.gov/usao-cdca/pr/four-individuals-charged-laundering-millions-cryptocurrency-investment-scams-known-pig"
+duplicate_key: https://www.justice.gov/usao-cdca/pr/four-individuals-charged-laundering-millions-cryptocurrency-investment-scams-known-pig
 duplicate_normalized_at: 2026-04-26
+text_status: source-digest
+storage_mode: source-digest
+content_hash: sha256:37440be568b427b3a9896589db89a2fc22841d88d1b9934aa1dc2fb7012a5a99
+word_count: 131
+extraction_date: 2026-04-28
 ---
 ## Source Summary
 

@@ -1,21 +1,21 @@
 ---
 type: source
 title: "Europol: Coordinated action cuts off access to VPN service used by ransomware groups"
-raw_path: ""
-source_type: "press-release"
-publisher: "Europol"
+raw_path: raw/news/europol-doublevpn-takedown.md
+source_type: press-release
+publisher: Europol
 author: "Europol Press Office"
-publish_date: "2021-06-30"
-ingest_date: "2026-04-11"
-language: "en"
-reliability: "high"
-credibility: "confirmed"
-sensitivity: "public"
+publish_date: 2021-06-30
+ingest_date: 2026-04-11
+language: en
+reliability: high
+credibility: confirmed
+sensitivity: public
 pages_updated:
-  - "doublevpn-takedown"
-  - "europol-ec3"
-  - "eurojust"
-  - "netherlands"
+  - doublevpn-takedown
+  - europol-ec3
+  - eurojust
+  - netherlands
 key_findings:
   - "DoubleVPN web domains and server infrastructure seized across 9 countries on 29 June 2021"
   - "Dutch National Police led the operation under the Dutch National Public Prosecutor's Office; Europol EC3 organized 30+ coordination meetings and 4 workshops"
@@ -26,8 +26,13 @@ key_findings:
   - "Participating agencies: Dutch Police, FBI, US Secret Service, DOJ, RCMP, BKA, NCA, Swedish Police, Italian State Police, Bulgarian GDOC, Cantonal Police Ticino"
   - "Operating under EMPACT framework; Dutch 'hackbevoegdheid' (digital intrusion power) used"
 created: 2026-04-11
+text_status: summarized
+storage_mode: summary-only
+content_hash: sha256:b623bd8f68c65ca68214b8e14486329e247efd3be8c2ba8f02f256248825785e
+word_count: 322
+extraction_date: 2026-04-27
+copyright_policy: summary-only
 ---
-
 ## Source
 
 - **Publisher**: Europol (European Law Enforcement Agency)

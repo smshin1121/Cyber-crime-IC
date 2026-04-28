@@ -1,33 +1,32 @@
 ---
 type: source
 title: "Largest ever operation against botnets hits dropper malware ecosystem - Operation Endgame"
-raw_path: "raw/press-releases/2024-05-30_europol_operation-endgame-botnet-takedown.md"
-source_type: "press-release"
-publisher: "Europol"
+raw_path: raw/press-releases/2024-05-30_europol_operation-endgame-botnet-takedown.md
+source_type: press-release
+publisher: Europol
 author: "Europol Media and Press"
-publish_date: "2024-05-30"
-ingest_date: "2026-04-08"
-language: "en"
-reliability: "high"
-credibility: "confirmed"
-sensitivity: "public"
+publish_date: 2024-05-30
+ingest_date: 2026-04-08
+language: en
+reliability: high
+credibility: confirmed
+sensitivity: public
 pages_updated:
-  - "operation-endgame-phase1"
-  - "europol-ec3"
-  - "ransomware-ic"
-  - "uk-nca"
-  - "fbi-cyber-division"
-  - "eurojust"
+  - operation-endgame-phase1
+  - europol-ec3
+  - ransomware-ic
+  - uk-nca
+  - fbi-cyber-division
+  - eurojust
 key_findings:
   - "Operation Endgame Phase 1 was the largest-ever international action against botnets, conducted 27-29 May 2024"
   - "Targeted dropper malware families: IcedID, SystemBC, Pikabot, Smokeloader, Bumblebee, Trickbot"
   - "4 arrests (1 Armenia, 3 Ukraine), 100+ servers taken down across 10 countries, 2,000+ domains seized"
   - "Key suspect accumulated at least EUR 69 million in cryptocurrency from renting criminal infrastructure"
   - "Malware droppers linked to at least 15 ransomware groups including BlackBasta, REvil, Conti"
-collection_url: "https://www.europol.europa.eu/media-press/newsroom/news/largest-ever-operation-against-botnets-hits-dropper-malware-ecosystem"
+collection_url: https://www.europol.europa.eu/media-press/newsroom/news/largest-ever-operation-against-botnets-hits-dropper-malware-ecosystem
 created: 2026-04-08
 ---
-
 ## Summary
 
 Official Europol press release announcing **Operation Endgame Phase 1**, the largest-ever international operation against botnets. Conducted between 27 and 29 May 2024 and coordinated from [[europol-ec3|Europol]]'s headquarters, the operation targeted dropper malware infrastructure that enabled ransomware deployment.

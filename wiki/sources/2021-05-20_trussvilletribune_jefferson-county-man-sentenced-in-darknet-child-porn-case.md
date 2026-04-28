@@ -3,7 +3,7 @@ type: source
 title: "Jefferson County man sentenced in Darknet child porn case"
 source_type: news
 publisher: "The Trussville Tribune"
-author: "Staff"
+author: Staff
 publish_date: 2021-05-20
 ingest_date: 2026-04-25
 language: en
@@ -17,6 +17,8 @@ key_findings:
   - "Headline framing as 'Darknet child porn case' adds explicit Tor/Darknet attribution"
 collection_url: https://www.trussvilletribune.com/2021/05/20/jefferson-county-man-sentenced-in-darknet-child-porn-case/
 created: 2026-04-25
+raw_path: raw/news/2021-05-20_trussvilletribune_jefferson-county-man-sentenced-in-darknet-child-porn-case.md
+copyright_policy: summary-only
 ---
 ## Source Summary
 

@@ -2,8 +2,8 @@
 type: source
 title: "Ray Hushpuppi: Nigerian Instagram star sentenced to 11 years in prison for money laundering"
 source_type: news
-publisher: "CNN"
-author: "Staff"
+publisher: CNN
+author: Staff
 publish_date: 2022-11-08
 ingest_date: 2026-04-25
 language: en
@@ -16,6 +16,8 @@ key_findings:
   - "11-year federal sentence imposed November 2022"
 collection_url: https://www.cnn.com/2022/11/08/us/instagram-star-ray-hushpuppi-sentenced-cec
 created: 2026-04-25
+raw_path: raw/news/2022-11-08_cnn_ray-hushpuppi-nigerian-instagram-11-years-money-laundering.md
+copyright_policy: summary-only
 ---
 ## Source Summary
 

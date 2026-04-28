@@ -3,7 +3,7 @@ type: source
 title: "FBI busts major refund fraud ring linked to Huntsville"
 source_type: news
 publisher: "RocketCityNow / WZDX (Huntsville)"
-author: "Staff"
+author: Staff
 publish_date: 2025-04-10
 ingest_date: 2026-04-25
 language: en
@@ -18,6 +18,8 @@ key_findings:
   - "Frames the case as an FBI-led investigation in the Huntsville USAO district"
 collection_url: https://www.rocketcitynow.com/article/news/crime/huntsville-federal-grand-jury-charges-kareem-ahmad-conspiracy-refund-fraud-fbi-investigation/525-14717cec-e761-4c5c-ab41-2ccf8cfb0422
 created: 2026-04-25
+raw_path: raw/news/2025-04-10_rocketcitynow_huntsville-federal-grand-jury-charges-kareem-ahmad-conspiracy-refund-fraud.md
+copyright_policy: summary-only
 ---
 ## Source Summary
 

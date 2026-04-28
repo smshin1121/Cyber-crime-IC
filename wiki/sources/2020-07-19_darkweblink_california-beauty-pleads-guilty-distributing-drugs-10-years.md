@@ -3,7 +3,7 @@ type: source
 title: "Darknet — California Beauty Pleads Guilty to Distributing Drugs With Possible 10 Year Sentence"
 source_type: news
 publisher: "Dark Web Link"
-author: "Staff"
+author: Staff
 publish_date: 2020-07-19
 ingest_date: 2026-04-25
 language: en
@@ -17,6 +17,8 @@ key_findings:
   - "Documents multi-marketplace vendor accounts: RaiseAppeals, Diablow, RaisedByDiablow."
 collection_url: https://darkweblink.net/darknet-california-beauty-pleads-guilty-to-distributing-drugs/
 created: 2026-04-25
+raw_path: raw/news/2020-07-19_darkweblink_california-beauty-pleads-guilty-distributing-drugs-10-years.md
+copyright_policy: summary-only
 ---
 ## Source Summary
 

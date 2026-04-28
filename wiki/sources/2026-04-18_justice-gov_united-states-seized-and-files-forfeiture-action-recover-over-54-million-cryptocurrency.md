@@ -13,15 +13,18 @@ credibility: confirmed
 sensitivity: public
 pages_updated:
 
-key_findings:
-  - "Secure .gov websites use HTTPS A lock ( Lock Locked padlock ) or https:// means you’ve safely connected to the .gov website. Share sensitive information only on official, secure websites."
 collection_url: https://www.justice.gov/usao-nj/pr/united-states-seized-and-files-forfeiture-action-recover-over-54-million-cryptocurrency
 created: 2026-04-18
 updated: 2026-04-18
 duplicate_of: "[[2023-11-02_justice-gov_united-states-seized-and-files-forfeiture-action-to-recover-over-54-million-of-c]]"
 duplicate_reason: same_collection_url
-duplicate_key: "https://www.justice.gov/usao-nj/pr/united-states-seized-and-files-forfeiture-action-recover-over-54-million-cryptocurrency"
+duplicate_key: https://www.justice.gov/usao-nj/pr/united-states-seized-and-files-forfeiture-action-recover-over-54-million-cryptocurrency
 duplicate_normalized_at: 2026-04-26
+text_status: source-digest
+storage_mode: source-digest
+content_hash: sha256:0de2e8742d871f23f3ce310636f6b9ed713b48b93d26f291ce025b3ef36d14b1
+word_count: 115
+extraction_date: 2026-04-28
 ---
 ## Source Summary
 

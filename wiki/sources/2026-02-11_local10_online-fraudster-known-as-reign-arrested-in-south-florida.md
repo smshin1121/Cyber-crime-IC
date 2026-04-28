@@ -3,7 +3,7 @@ type: source
 title: "Online fraudster known as 'Reign' arrested in South Florida, feds say"
 source_type: news
 publisher: "Local10 News (WPLG Miami)"
-author: "Staff"
+author: Staff
 publish_date: 2026-02-11
 ingest_date: 2026-04-25
 language: en
@@ -18,6 +18,8 @@ key_findings:
   - "Confirms transnational scope: leader in Egypt, co-conspirator in Canada, victims across U.S. retailers"
 collection_url: https://www.local10.com/news/local/2026/02/11/online-fraudster-known-as-reign-arrested-in-south-florida-feds-say/
 created: 2026-04-25
+raw_path: raw/news/2026-02-11_local10_online-fraudster-known-as-reign-arrested-in-south-florida.md
+copyright_policy: summary-only
 ---
 ## Source Summary
 

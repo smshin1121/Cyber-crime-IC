@@ -2,8 +2,8 @@
 type: source
 title: "University of Pittsburgh Medical Center Hacker Sentenced to Prison"
 source_type: news
-publisher: "SecurityWeek"
-author: "Staff"
+publisher: SecurityWeek
+author: Staff
 publish_date: 2021-10-18
 ingest_date: 2026-04-25
 language: en
@@ -17,6 +17,8 @@ key_findings:
   - "Identifies additional 90,000 stolen PII records sold on dark-web forums"
 collection_url: https://www.securityweek.com/university-pittsburgh-medical-center-hacker-sentenced-prison/
 created: 2026-04-25
+raw_path: raw/news/2021-10-18_securityweek_university-pittsburgh-medical-center-hacker-sentenced-to-prison.md
+copyright_policy: summary-only
 ---
 ## Source Summary
 

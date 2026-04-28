@@ -14,7 +14,7 @@ sensitivity: public
 pages_updated:
   - operation-union-county-man-admits-to-possessing-child-pornography
 key_findings:
-  - "This domestic-only U.S. follow-on record has been absorbed into the canonical case page [[union-county-man-admits-to-possessing-child-pornography]]. No visible cross-border mechanism is documented, so it is not treated as a separate international-cooperation operation."
+  - "This domestic-only U.S. follow-on record has been absorbed into the canonical case page union-county-man-admits-to-possessing-child-pornography. No visible cross-border mechanism is documented, so it is not treated as a separate international-cooperation operation."
 collection_url: https://www.justice.gov/usao-nj/pr/union-county-man-admits-possessing-child-pornography
 created: 2026-04-17
 text_status: parsed

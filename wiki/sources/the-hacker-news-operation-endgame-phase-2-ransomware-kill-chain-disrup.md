@@ -1,24 +1,24 @@
 ---
 type: source
 title: "The Hacker News: US Dismantles DanaBot Malware Network (Operation Endgame Phase 2)"
-collection_url: "https://thehackernews.com/2025/05/us-dismantles-danabot-malware-network.html"
-collection_domain: "thehackernews.com"
-source_type: "news"
+collection_url: https://thehackernews.com/2025/05/us-dismantles-danabot-malware-network.html
+collection_domain: thehackernews.com
+source_type: news
 publisher: "The Hacker News"
 author: "Ravie Lakshmanan"
-publish_date: "2025-05-23"
-ingest_date: "2026-04-08"
-enriched_date: "2026-04-10"
-language: "en"
-reliability: "medium"
-credibility: "possibly-true"
-sensitivity: "public"
+publish_date: 2025-05-23
+ingest_date: 2026-04-08
+enriched_date: 2026-04-10
+language: en
+reliability: medium
+credibility: possibly-true
+sensitivity: public
 source_tier: 3
 pages_updated:
-  - "operation-endgame-phase2"
-  - "us-doj"
-  - "fbi-cyber-division"
-  - "europol-ec3"
+  - operation-endgame-phase2
+  - us-doj
+  - fbi-cyber-division
+  - europol-ec3
 key_findings:
   - "US DOJ unsealed an indictment on 22 May 2025 charging 16 individuals — mostly Russian nationals — for developing and operating the DanaBot malware-as-a-service platform as part of Operation Endgame Phase 2"
   - "DanaBot had infected 300,000+ computers worldwide since 2018, causing an estimated USD 50 million+ in financial damages through credential theft, banking fraud, and ransomware staging"
@@ -30,10 +30,16 @@ created: 2026-04-08
 updated: 2026-04-10
 duplicate_of: "[[2025-05-23_thehackernews-com_u-s-dismantles-danabot-malware-network-charges-16]]"
 duplicate_reason: same_collection_url
-duplicate_key: "https://thehackernews.com/2025/05/us-dismantles-danabot-malware-network.html"
+duplicate_key: https://thehackernews.com/2025/05/us-dismantles-danabot-malware-network.html
 duplicate_normalized_at: 2026-04-26
+raw_path: raw/news/the-hacker-news-operation-endgame-phase-2-ransomware-kill-chain-disrup.md
+text_status: summarized
+storage_mode: summary-only
+content_hash: sha256:f54dd320eb362afd9e37e50026403cc9e1cb1d9971c28d47b580f5d83176521f
+word_count: 383
+extraction_date: 2026-04-27
+copyright_policy: summary-only
 ---
-
 > [!note] Original URL access blocked
 > The Hacker News article returned HTTP 403 on direct fetch. Facts in this summary are reconstructed from the parallel Europol press release, US DOJ indictment (Eastern District of California), and The Hacker News's own indexing/archiving behavior. The URL is canonical and corresponds to Ravie Lakshmanan's standard byline on DanaBot coverage.
 

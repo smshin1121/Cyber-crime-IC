@@ -13,8 +13,6 @@ credibility: confirmed
 sensitivity: public
 pages_updated:
 
-key_findings:
-  - "Secure .gov websites use HTTPS A lock ( Lock Locked padlock ) or https:// means you’ve safely connected to the .gov website. Share sensitive information only on official, secure websites."
 collection_url: https://www.justice.gov/usao-nv/pr/thirty-six-defendants-indicted-alleged-roles-transnational-criminal-organization
 created: 2026-04-17
 defendant_names:
@@ -22,8 +20,13 @@ defendant_names:
 updated: 2026-04-18
 duplicate_of: "[[2018-02-07_justice-gov_thirty-six-defendants-indicted-for-alleged-roles-in-transnational-criminal-organ]]"
 duplicate_reason: same_collection_url
-duplicate_key: "https://www.justice.gov/usao-nv/pr/thirty-six-defendants-indicted-alleged-roles-transnational-criminal-organization"
+duplicate_key: https://www.justice.gov/usao-nv/pr/thirty-six-defendants-indicted-alleged-roles-transnational-criminal-organization
 duplicate_normalized_at: 2026-04-26
+text_status: source-digest
+storage_mode: source-digest
+content_hash: sha256:67fb6d6480bce99ed58e4b9442ff1d6b3933869572504ce21c8fd89b9e77ab06
+word_count: 150
+extraction_date: 2026-04-28
 ---
 ## Source Summary
 

@@ -27,7 +27,8 @@ license_basis: wikimedia_terms_cc_by_sa_gfdl
 license_url: https://foundation.wikimedia.org/wiki/Policy:Terms_of_Use
 attribution_required: true
 share_alike_required: true
-attribution_url: https://pl.wikipedia.org/wiki/Centralne_Biuro_Zwalczania_Cyberprzest%C4%99pczo%C5%9Bci
+attribution_url: "https://pl.wikipedia.org/wiki/Centralne_Biuro_Zwalczania_Cyberprzest%C4%99pczo%C5%9Bci"
+copyright_policy: summary-only
 ---
 ## Source Summary
 

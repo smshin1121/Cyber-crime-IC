@@ -2,7 +2,7 @@
 type: source
 title: "Stake.com Cited as DOJ Seeks $5 Million Bitcoin Seizure in SIM Swap Case"
 source_type: news
-publisher: "Casino.org"
+publisher: Casino.org
 author: Staff
 publish_date: 2025-09-09
 ingest_date: 2026-04-25

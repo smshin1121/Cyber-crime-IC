@@ -13,8 +13,6 @@ credibility: confirmed
 sensitivity: public
 pages_updated:
 
-key_findings:
-  - "Secure .gov websites use HTTPS A lock ( Lock Locked padlock ) or https:// means you’ve safely connected to the .gov website. Share sensitive information only on official, secure websites."
 collection_url: https://www.justice.gov/usao-edmo/pr/seattle-man-sentenced-buying-630000-counterfeit-pills-dark-web
 created: 2026-04-18
 updated: 2026-04-18
@@ -22,8 +20,13 @@ defendant_names:
   - "Seattle Man"
 duplicate_of: "[[2024-04-12_justice-gov_seattle-man-sentenced-for-buying-630-000-counterfeit-pills-on-the-dark-web]]"
 duplicate_reason: same_collection_url
-duplicate_key: "https://www.justice.gov/usao-edmo/pr/seattle-man-sentenced-buying-630000-counterfeit-pills-dark-web"
+duplicate_key: https://www.justice.gov/usao-edmo/pr/seattle-man-sentenced-buying-630000-counterfeit-pills-dark-web
 duplicate_normalized_at: 2026-04-26
+text_status: source-digest
+storage_mode: source-digest
+content_hash: sha256:31d4d87dd9be8c29b404d84ea2f2e5d4fca9111e1eece358451c072ddd84840e
+word_count: 111
+extraction_date: 2026-04-28
 ---
 ## Source Summary
 

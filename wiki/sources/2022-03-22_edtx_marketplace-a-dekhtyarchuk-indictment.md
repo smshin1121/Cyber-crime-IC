@@ -13,14 +13,12 @@ credibility: confirmed
 sensitivity: public
 pages_updated:
   - marketplace-a-dekhtyarchuk-indictment
-key_findings:
-  - "Secure .gov websites use HTTPS A lock ( Lock Locked padlock ) or https:// means you’ve safely connected to the .gov website. Share sensitive information only on official, secure websites."
 collection_url: https://www.justice.gov/usao-edtx/pr/russian-national-indicted-east-texas-cyber-hacking-enterprise
 created: 2026-04-17
 updated: 2026-04-18
 duplicate_of: "[[2022-03-16_justice-gov_russian-national-indicted-in-east-texas-for-cyber-hacking-enterprise]]"
 duplicate_reason: same_collection_url
-duplicate_key: "https://www.justice.gov/usao-edtx/pr/russian-national-indicted-east-texas-cyber-hacking-enterprise"
+duplicate_key: https://www.justice.gov/usao-edtx/pr/russian-national-indicted-east-texas-cyber-hacking-enterprise
 duplicate_normalized_at: 2026-04-26
 ---
 ## Source Summary

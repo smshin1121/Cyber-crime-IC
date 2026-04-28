@@ -23,8 +23,15 @@ created: 2026-04-18
 updated: 2026-04-18
 duplicate_of: "[[2023-12-11_interior-gob-es_la-polic-a-nacional-detiene-al-l-der-del-aparato-financiero-de-uno-de-los-grupos]]"
 duplicate_reason: same_collection_url
-duplicate_key: "https://www.interior.gob.es/opencms/en/detail-pages/article/La-Policia-Nacional-detiene-al-lider-del-aparato-financiero-de-uno-de-los-grupos-hacktivistas-mas-importantes-del-mundo/"
+duplicate_key: https://www.interior.gob.es/opencms/en/detail-pages/article/La-Policia-Nacional-detiene-al-lider-del-aparato-financiero-de-uno-de-los-grupos-hacktivistas-mas-importantes-del-mundo/
 duplicate_normalized_at: 2026-04-26
+raw_path: raw/press-releases/2023-12-11_interior-gob-es_policia-nacional-detiene-lider-kelvin-security.md
+text_status: summarized
+storage_mode: summary-only
+content_hash: sha256:835bcb231377dd38edfa970f097a8a90cf12aaa299639c877fddc745d16d731f
+word_count: 198
+extraction_date: 2026-04-27
+copyright_policy: summary-only
 ---
 ## Source Summary
 

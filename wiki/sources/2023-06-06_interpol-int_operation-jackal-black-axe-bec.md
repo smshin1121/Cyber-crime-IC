@@ -12,15 +12,20 @@ reliability: high
 credibility: confirmed
 sensitivity: public
 pages_updated:
-  []
+
 key_findings:
   - "Source referenced by ic-statistics-dashboard."
 collection_url: https://www.interpol.int/News-and-Events/News/2023/Closing-ranks-on-West-African-organized-crime-more-than-EUR-2-million-seized-in-Operation-Jackal
 created: 2026-04-17
 duplicate_of: "[[2023-06-06-interpol-operation-jackal]]"
 duplicate_reason: same_collection_url
-duplicate_key: "https://www.interpol.int/News-and-Events/News/2023/Closing-ranks-on-West-African-organized-crime-more-than-EUR-2-million-seized-in-Operation-Jackal"
+duplicate_key: https://www.interpol.int/News-and-Events/News/2023/Closing-ranks-on-West-African-organized-crime-more-than-EUR-2-million-seized-in-Operation-Jackal
 duplicate_normalized_at: 2026-04-26
+text_status: source-digest
+storage_mode: source-digest
+content_hash: sha256:fb07a31cf332b84db5b4df0bcd81fdeaf8ca5922c81f19fa376f88b347868ffa
+word_count: 103
+extraction_date: 2026-04-28
 ---
 ## Source Summary
 

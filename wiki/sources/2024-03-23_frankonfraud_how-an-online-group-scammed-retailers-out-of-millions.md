@@ -2,7 +2,7 @@
 type: source
 title: "How Noir's Refunds Scammed Retailers Out Of Millions"
 source_type: news
-publisher: "FrankOnFraud"
+publisher: FrankOnFraud
 author: "Frank McKenna"
 publish_date: 2024-03-23
 ingest_date: 2026-04-25
@@ -19,6 +19,8 @@ key_findings:
   - "Documents malware-development element used to bypass retailer fraud-prevention controls"
 collection_url: https://frankonfraud.com/how-an-online-group-scammed-retailers-out-of-millions/
 created: 2026-04-25
+raw_path: raw/news/2024-03-23_frankonfraud_how-an-online-group-scammed-retailers-out-of-millions.md
+copyright_policy: summary-only
 ---
 ## Source Summary
 

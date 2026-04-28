@@ -3,7 +3,7 @@ type: source
 title: "Two Sentenced In Dark Web Identity Theft And Retail Fraud Conspiracy"
 source_type: news
 publisher: "Johnston County Report"
-author: "Staff"
+author: Staff
 publish_date: 2024-11-22
 ingest_date: 2026-04-25
 language: en
@@ -16,6 +16,8 @@ key_findings:
   - "Johnston County local newspaper coverage of the Robinson/Hilaire sentencing."
 collection_url: https://jocoreport.com/two-sentenced-in-dark-web-identity-theft-and-retail-fraud-conspiracy/
 created: 2026-04-25
+raw_path: raw/news/2024-11-22_jocoreport_two-sentenced-dark-web-identity-theft-retail-fraud.md
+copyright_policy: summary-only
 ---
 ## Source Summary
 

@@ -3,7 +3,7 @@ type: source
 title: "Maryland Man Sentenced For Distributing Heroin On Dark Web"
 source_type: news
 publisher: "CBS News Baltimore"
-author: "Staff"
+author: Staff
 publish_date: 2021-11-10
 ingest_date: 2026-04-25
 language: en
@@ -17,6 +17,8 @@ key_findings:
   - "Nine intercepted heroin packages logged during investigation"
 collection_url: https://www.cbsnews.com/baltimore/news/maryland-man-sentenced-for-distributing-heroin-on-dark-web/
 created: 2026-04-25
+raw_path: raw/news/2021-11-10_cbsnews-baltimore_maryland-man-sentenced-for-distributing-heroin-on-dark-web.md
+copyright_policy: summary-only
 ---
 ## Source Summary
 

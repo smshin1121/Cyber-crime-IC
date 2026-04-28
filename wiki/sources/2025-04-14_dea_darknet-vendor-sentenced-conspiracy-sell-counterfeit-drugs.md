@@ -2,7 +2,7 @@
 type: source
 title: "Darknet Vendor Sentenced for Conspiracy to Sell Counterfeit Drugs"
 source_type: press-release
-publisher: "DEA"
+publisher: DEA
 author: "DEA / DOJ"
 publish_date: 2025-04-14
 ingest_date: 2026-04-25
@@ -19,8 +19,14 @@ collection_url: https://www.dea.gov/press-releases/2025/04/14/darknet-vendor-sen
 created: 2026-04-25
 duplicate_of: "[[2025-04-14_dea-gov_darknet-vendor-sentenced-conspiracy-sell-counterfeit-drugs]]"
 duplicate_reason: same_collection_url
-duplicate_key: "https://www.dea.gov/press-releases/2025/04/14/darknet-vendor-sentenced-for-conspiracy-sell-counterfeit-drugs"
+duplicate_key: https://www.dea.gov/press-releases/2025/04/14/darknet-vendor-sentenced-for-conspiracy-sell-counterfeit-drugs
 duplicate_normalized_at: 2026-04-26
+raw_path: raw/press-releases/2025-04-14_dea_darknet-vendor-sentenced-conspiracy-sell-counterfeit-drugs.md
+text_status: source-digest
+storage_mode: source-digest
+content_hash: sha256:ecc4032f65be5db7b31ca8c3c9d0c5f0a817db94c7853a0a0d5d7a8f8be38998
+word_count: 117
+extraction_date: 2026-04-28
 ---
 ## Source Summary
 

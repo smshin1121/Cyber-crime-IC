@@ -17,6 +17,13 @@ key_findings:
   - "Mexico-Colombia drug supply chain ties"
 collection_url: https://www.dea.gov/press-releases/2025/07/30/defendant-who-trafficked-drugs-while-absconding-federal-drug-trafficking
 created: 2026-04-25
+raw_path: raw/press-releases/2025-07-30_dea_defendant-who-trafficked-drugs-while-absconding-federal-drug-trafficking.md
+text_status: parsed
+content_hash: sha256:93b8ce6c9e00b7ba9cefe8605f471725dc3f1196824bc0e67b3f2e416649057b
+word_count: 216
+extraction_date: 2026-04-28
+last_fetcher: curl_cffi
+storage_mode: fulltext
 ---
 ## Source Summary
 

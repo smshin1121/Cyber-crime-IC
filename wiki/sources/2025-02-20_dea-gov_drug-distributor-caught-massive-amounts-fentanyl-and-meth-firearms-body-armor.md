@@ -2,8 +2,8 @@
 type: source
 title: "Drug Distributor Caught with Massive Amounts of Fentanyl and Meth as well as Firearms, Body Armor, and Silencer Sentenced to 13 Years in Prison"
 source_type: press-release
-publisher: "DEA"
-author: "Staff"
+publisher: DEA
+author: Staff
 publish_date: 2025-02-20
 ingest_date: 2026-04-25
 language: en
@@ -17,6 +17,13 @@ key_findings:
   - "March 2023 coordinated takedown involved 10 SWAT teams and over 350 officers across Washington and Arizona"
 collection_url: https://www.dea.gov/press-releases/2025/02/20/drug-distributor-caught-massive-amounts-fentanyl-and-meth-well-firearms
 created: 2026-04-25
+raw_path: raw/press-releases/2025-02-20_dea-gov_drug-distributor-caught-massive-amounts-fentanyl-and-meth-firearms-body-armor.md
+text_status: parsed
+content_hash: sha256:a2a30b6607911ab363f46b17e88feb5f918f70bef422352e0aef54805fb2e44f
+word_count: 223
+extraction_date: 2026-04-28
+last_fetcher: curl_cffi
+storage_mode: fulltext
 ---
 ## Source Summary
 

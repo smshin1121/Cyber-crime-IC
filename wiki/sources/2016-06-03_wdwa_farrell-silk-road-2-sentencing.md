@@ -13,15 +13,18 @@ credibility: confirmed
 sensitivity: public
 pages_updated:
   - operation-onymous
-key_findings:
-  - "Secure .gov websites use HTTPS A lock ( Lock Locked padlock ) or https:// means you’ve safely connected to the .gov website. Share sensitive information only on official, secure websites."
 collection_url: https://www.justice.gov/usao-wdwa/pr/key-player-silk-road-20-sentenced-eight-years-prison
 created: 2026-04-17
 updated: 2026-04-18
 duplicate_of: "[[2016-06-03_justice-gov_key-player-in-silk-road-2-0-sentenced-to-eight-years-in-prison]]"
 duplicate_reason: same_collection_url
-duplicate_key: "https://www.justice.gov/usao-wdwa/pr/key-player-silk-road-20-sentenced-eight-years-prison"
+duplicate_key: https://www.justice.gov/usao-wdwa/pr/key-player-silk-road-20-sentenced-eight-years-prison
 duplicate_normalized_at: 2026-04-26
+text_status: source-digest
+storage_mode: source-digest
+content_hash: sha256:54da7438f7c884472c3ebff3bbb519f27c3971c0c58e3b2ba0db13f82c5023c1
+word_count: 228
+extraction_date: 2026-04-28
 ---
 ## Source Summary
 

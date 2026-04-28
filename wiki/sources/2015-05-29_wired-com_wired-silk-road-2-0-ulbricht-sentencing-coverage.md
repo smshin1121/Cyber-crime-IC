@@ -14,7 +14,7 @@ sensitivity: public
 pages_updated:
 
 key_findings:
-  - "Ulbricht (Silk Road) Enforcement Action is a defendant-specific enforcement action page derived from [[us-v-ulbricht-silk-road]]. It captures the prosecutorial or seizure stage reflected in the linked case record and preserves the operation-side catalog entry for this follow-on action."
+  - "Ulbricht (Silk Road) Enforcement Action is a defendant-specific enforcement action page derived from us-v-ulbricht-silk-road. It captures the prosecutorial or seizure stage reflected in the linked case record and preserves the operation-side catalog entry for this follow-on action."
 collection_url: https://www.wired.com/2015/05/silk-road-2/
 created: 2026-04-17
 text_status: summarized

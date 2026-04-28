@@ -13,8 +13,6 @@ credibility: confirmed
 sensitivity: public
 pages_updated:
 
-key_findings:
-  - "Secure .gov websites use HTTPS A lock ( Lock Locked padlock ) or https:// means you’ve safely connected to the .gov website. Share sensitive information only on official, secure websites."
 collection_url: https://www.justice.gov/usao-vt/pr/bradley-lefebvre-sentenced-federal-harassment-charge
 created: 2026-04-18
 defendant_names:
@@ -22,8 +20,13 @@ defendant_names:
 updated: 2026-04-18
 duplicate_of: "[[2022-04-08_justice-gov_bradley-lefebvre-sentenced-on-federal-harassment-charge]]"
 duplicate_reason: same_collection_url
-duplicate_key: "https://www.justice.gov/usao-vt/pr/bradley-lefebvre-sentenced-federal-harassment-charge"
+duplicate_key: https://www.justice.gov/usao-vt/pr/bradley-lefebvre-sentenced-federal-harassment-charge
 duplicate_normalized_at: 2026-04-26
+text_status: source-digest
+storage_mode: source-digest
+content_hash: sha256:9941e0928c728aa8a97d16885962c454aa35433526b6fdd5034be6a4dea95a35
+word_count: 102
+extraction_date: 2026-04-28
 ---
 ## Source Summary
 

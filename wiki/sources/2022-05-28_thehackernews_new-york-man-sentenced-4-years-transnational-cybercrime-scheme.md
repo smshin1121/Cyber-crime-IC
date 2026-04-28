@@ -21,7 +21,7 @@ text_status: summarized
 copyright_policy: summary-only
 duplicate_of: "[[2022-05-22_thehackernews_new-york-man-sentenced-4-years-transnational-cybercrime]]"
 duplicate_reason: same_collection_url
-duplicate_key: "https://thehackernews.com/2022/05/new-york-man-sentenced-to-4-years-in.html"
+duplicate_key: https://thehackernews.com/2022/05/new-york-man-sentenced-to-4-years-in.html
 duplicate_normalized_at: 2026-04-26
 ---
 ## Source Summary

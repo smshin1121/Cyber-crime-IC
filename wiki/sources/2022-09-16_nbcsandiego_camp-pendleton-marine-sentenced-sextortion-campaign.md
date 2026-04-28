@@ -3,7 +3,7 @@ type: source
 title: "Camp Pendleton Marine Sentenced for 'Sextortion' Campaign"
 source_type: news
 publisher: "NBC 7 San Diego (KNSD)"
-author: "Staff"
+author: Staff
 publish_date: 2022-09-16
 ingest_date: 2026-04-25
 language: en
@@ -18,8 +18,10 @@ collection_url: https://www.nbcsandiego.com/news/local/camp-pendleton-marine-sen
 created: 2026-04-25
 duplicate_of: "[[2022-02-09_nbcsandiego_camp-pendleton-marine-sentenced-sextortion-campaign]]"
 duplicate_reason: same_collection_url
-duplicate_key: "https://www.nbcsandiego.com/news/local/camp-pendleton-marine-sentenced-for-sextortion-campaign/3048858/"
+duplicate_key: https://www.nbcsandiego.com/news/local/camp-pendleton-marine-sentenced-for-sextortion-campaign/3048858/
 duplicate_normalized_at: 2026-04-26
+raw_path: raw/news/2022-09-16_nbcsandiego_camp-pendleton-marine-sentenced-sextortion-campaign.md
+copyright_policy: summary-only
 ---
 ## Source Summary
 

@@ -23,8 +23,15 @@ created: 2026-04-18
 updated: 2026-04-18
 duplicate_of: "[[2024-06-05_apnews-com_washington-man-sentenced-for-20-swatting-calls-of-false-threats-in-us-canada]]"
 duplicate_reason: same_collection_url
-duplicate_key: "https://apnews.com/article/a8466da4c16c863fc1eb82ed6ad77b55"
+duplicate_key: https://apnews.com/article/a8466da4c16c863fc1eb82ed6ad77b55
 duplicate_normalized_at: 2026-04-26
+raw_path: raw/news/2024-06-05_apnews_washington-man-sentenced-for-20-swatting-calls-of-false-threats-in-us-canada.md
+text_status: summarized
+storage_mode: summary-only
+content_hash: sha256:c107a939fac548bfeb4de7adf82351dddb885daa9070eb1345e6869b51ba6958
+word_count: 152
+extraction_date: 2026-04-27
+copyright_policy: summary-only
 ---
 ## Source Summary
 

@@ -14,13 +14,18 @@ sensitivity: public
 pages_updated:
   - operation-two-sacramento-men-indicted-for-distributing-cocaine-and-marijuana-on-dark-web-marketplaces
 key_findings:
-  - "This domestic-only U.S. follow-on record has been absorbed into the canonical case page [[two-sacramento-men-indicted-for-distributing-cocaine-and-marijuana-on-dark-web-marketplaces]]. No visible cross-border mechanism is documented, so it is not treated as a separate international-cooperation operation."
+  - "This domestic-only U.S. follow-on record has been absorbed into the canonical case page two-sacramento-men-indicted-for-distributing-cocaine-and-marijuana-on-dark-web-marketplaces. No visible cross-border mechanism is documented, so it is not treated as a separate international-cooperation operation."
 collection_url: https://www.justice.gov/usao-edca/pr/two-sacramento-men-indicted-distributing-cocaine-and-marijuana-dark-web-marketplaces
 created: 2026-04-17
 duplicate_of: "[[2018-06-21_justice-gov_two-sacramento-men-indicted-distributing-cocaine-marijuana-dark-web-marketplaces]]"
 duplicate_reason: same_collection_url
-duplicate_key: "https://www.justice.gov/usao-edca/pr/two-sacramento-men-indicted-distributing-cocaine-and-marijuana-dark-web-marketplaces"
+duplicate_key: https://www.justice.gov/usao-edca/pr/two-sacramento-men-indicted-distributing-cocaine-and-marijuana-dark-web-marketplaces
 duplicate_normalized_at: 2026-04-26
+text_status: source-digest
+storage_mode: source-digest
+content_hash: sha256:cdaa1b651caca128a7f648974d25bbeb2462a6dbcffd7a7647365563fe480d86
+word_count: 158
+extraction_date: 2026-04-28
 ---
 ## Source Summary
 

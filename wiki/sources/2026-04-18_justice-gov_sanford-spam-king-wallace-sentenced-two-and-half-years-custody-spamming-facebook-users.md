@@ -13,8 +13,6 @@ credibility: confirmed
 sensitivity: public
 pages_updated:
 
-key_findings:
-  - "Secure .gov websites use HTTPS A lock ( Lock Locked padlock ) or https:// means you’ve safely connected to the .gov website. Share sensitive information only on official, secure websites."
 collection_url: https://www.justice.gov/usao-ndca/pr/sanford-spam-king-wallace-sentenced-two-and-half-years-custody-spamming-facebook-users
 created: 2026-04-18
 defendant_names:
@@ -22,8 +20,13 @@ defendant_names:
 updated: 2026-04-18
 duplicate_of: "[[2016-06-15_justice-gov_sanford-spam-king-wallace-sentenced-to-two-and-a-half-years-in-custody-for-spamm]]"
 duplicate_reason: same_collection_url
-duplicate_key: "https://www.justice.gov/usao-ndca/pr/sanford-spam-king-wallace-sentenced-two-and-half-years-custody-spamming-facebook-users"
+duplicate_key: https://www.justice.gov/usao-ndca/pr/sanford-spam-king-wallace-sentenced-two-and-half-years-custody-spamming-facebook-users
 duplicate_normalized_at: 2026-04-26
+text_status: source-digest
+storage_mode: source-digest
+content_hash: sha256:09fc207e9df25e42eeda9c7a35f9bf4ef0e86c0ce50fbca416080717a846af77
+word_count: 113
+extraction_date: 2026-04-28
 ---
 ## Source Summary
 

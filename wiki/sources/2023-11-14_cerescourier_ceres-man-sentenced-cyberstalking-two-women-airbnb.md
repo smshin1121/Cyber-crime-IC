@@ -3,7 +3,7 @@ type: source
 title: "Ceres man sentenced for cyberstalking two women, one using Airbnb home"
 source_type: news
 publisher: "Ceres Courier"
-author: "Staff"
+author: Staff
 publish_date: 2023-11-14
 ingest_date: 2026-04-25
 language: en
@@ -18,6 +18,8 @@ key_findings:
   - "Provides hometown newspaper detail on the Stanislaus County victim and timeline."
 collection_url: https://www.cerescourier.com/news/local/ceres-man-sentenced-cyberstalking-two-women-one-using-airbnb-home/
 created: 2026-04-25
+raw_path: raw/news/2023-11-14_cerescourier_ceres-man-sentenced-cyberstalking-two-women-airbnb.md
+copyright_policy: summary-only
 ---
 ## Source Summary
 

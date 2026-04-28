@@ -14,7 +14,7 @@ sensitivity: public
 pages_updated:
   - operation-interpol-online-scamming-fraud-three-nigerians-arrested-in-operation-killer-bee
 key_findings:
-  - "This domestic-only U.S. follow-on record has been absorbed into the canonical case page [[interpol-online-scamming-fraud-three-nigerians-arrested-in-operation-killer-bee]]. No visible cross-border mechanism is documented, so it is not treated as a separate international-cooperation operation."
+  - "This domestic-only U.S. follow-on record has been absorbed into the canonical case page interpol-online-scamming-fraud-three-nigerians-arrested-in-operation-killer-bee. No visible cross-border mechanism is documented, so it is not treated as a separate international-cooperation operation."
 collection_url: https://www.interpol.int/News-and-Events/News/2022/Online-scamming-fraud-three-Nigerians-arrested-in-INTERPOL-Operation-Killer-Bee
 created: 2026-04-17
 text_status: parsed

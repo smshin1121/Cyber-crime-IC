@@ -12,11 +12,12 @@ reliability: medium
 credibility: reported
 sensitivity: public
 pages_updated:
-  []
+
 key_findings:
   - "Tom's Hardware independently summarized Sentinel and restated the principal enforcement outcomes and case examples."
 collection_url: https://www.tomshardware.com/tech-industry/cyber-security/interpol-arrests-574-suspects-in-african-cybercrime-crackdown-takes-down-6-000-malicious-links
 created: 2026-04-23
+copyright_policy: summary-only
 ---
 ## Source Summary
 

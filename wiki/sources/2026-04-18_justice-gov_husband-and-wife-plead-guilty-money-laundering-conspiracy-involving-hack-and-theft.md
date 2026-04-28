@@ -24,8 +24,13 @@ defendant_names:
 updated: 2026-04-18
 duplicate_of: "[[2023-08-03_justice-gov_husband-and-wife-plead-guilty-to-money-laundering-conspiracy-involving-the-hack]]"
 duplicate_reason: same_collection_url
-duplicate_key: "https://www.justice.gov/usao-dc/pr/husband-and-wife-plead-guilty-money-laundering-conspiracy-involving-hack-and-theft"
+duplicate_key: https://www.justice.gov/usao-dc/pr/husband-and-wife-plead-guilty-money-laundering-conspiracy-involving-hack-and-theft
 duplicate_normalized_at: 2026-04-26
+text_status: source-digest
+storage_mode: source-digest
+content_hash: sha256:94f6639525577e7b2204ac11704505276c4c02c1e141c22353456338238cfd8b
+word_count: 132
+extraction_date: 2026-04-28
 ---
 ## Source Summary
 

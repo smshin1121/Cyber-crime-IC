@@ -2,7 +2,7 @@
 type: source
 title: "Iranian Man Pleads Guilty to Role in Baltimore Ransomware Attack"
 source_type: news
-publisher: "SecurityWeek"
+publisher: SecurityWeek
 author: "Eduard Kovacs"
 publish_date: 2025-05-27
 ingest_date: 2026-04-25
@@ -17,6 +17,8 @@ key_findings:
   - "Baltimore loss exceeded $19M; case investigated by FBI Charlotte with FBI Baltimore assistance."
 collection_url: https://www.securityweek.com/iranian-man-pleads-guilty-to-role-in-baltimore-ransomware-attack/
 created: 2026-04-25
+raw_path: raw/news/2025-05-27_securityweek_iranian-man-pleads-guilty-baltimore-ransomware-attack.md
+copyright_policy: summary-only
 ---
 ## Source Summary
 

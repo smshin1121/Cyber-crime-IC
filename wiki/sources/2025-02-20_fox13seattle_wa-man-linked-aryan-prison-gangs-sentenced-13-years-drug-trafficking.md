@@ -3,7 +3,7 @@ type: source
 title: "WA man linked to Aryan prison gangs sentenced to 13 years for drug trafficking"
 source_type: news
 publisher: "FOX 13 Seattle"
-author: "Staff"
+author: Staff
 publish_date: 2025-02-20
 ingest_date: 2026-04-25
 language: en
@@ -17,6 +17,8 @@ key_findings:
   - "Notes Ellis had two prior felony drug convictions and was prohibited from possessing firearms"
 collection_url: https://www.fox13seattle.com/news/wa-man-gang-linked-drug-trafficking
 created: 2026-04-25
+raw_path: raw/news/2025-02-20_fox13seattle_wa-man-linked-aryan-prison-gangs-sentenced-13-years-drug-trafficking.md
+copyright_policy: summary-only
 ---
 ## Source Summary
 

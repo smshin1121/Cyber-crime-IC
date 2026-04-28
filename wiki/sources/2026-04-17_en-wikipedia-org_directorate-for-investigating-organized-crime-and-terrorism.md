@@ -28,6 +28,7 @@ license_url: https://foundation.wikimedia.org/wiki/Policy:Terms_of_Use
 attribution_required: true
 share_alike_required: true
 attribution_url: https://en.wikipedia.org/wiki/Directorate_for_Investigating_Organized_Crime_and_Terrorism
+copyright_policy: summary-only
 ---
 ## Source Summary
 

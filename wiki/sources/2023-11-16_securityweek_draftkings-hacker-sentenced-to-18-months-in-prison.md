@@ -2,8 +2,8 @@
 type: source
 title: "DraftKings Hacker Sentenced to 18 Months in Prison"
 source_type: news
-publisher: "SecurityWeek"
-author: "Staff"
+publisher: SecurityWeek
+author: Staff
 publish_date: 2023-11-16
 ingest_date: 2026-04-25
 language: en
@@ -18,6 +18,8 @@ key_findings:
   - "McCormick agreed to assist law enforcement in prosecution of remaining Darkode forum co-defendants"
 collection_url: https://www.securityweek.com/draftkings-hacker-sentenced-to-18-months-in-prison/
 created: 2026-04-25
+raw_path: raw/news/2023-11-16_securityweek_draftkings-hacker-sentenced-to-18-months-in-prison.md
+copyright_policy: summary-only
 ---
 ## Source Summary
 

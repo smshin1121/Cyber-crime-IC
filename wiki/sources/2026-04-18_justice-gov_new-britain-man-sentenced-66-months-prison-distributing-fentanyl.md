@@ -13,15 +13,18 @@ credibility: confirmed
 sensitivity: public
 pages_updated:
 
-key_findings:
-  - "Secure .gov websites use HTTPS A lock ( Lock Locked padlock ) or https:// means you’ve safely connected to the .gov website. Share sensitive information only on official, secure websites."
 collection_url: https://www.justice.gov/usao-ct/pr/new-britain-man-sentenced-66-months-prison-distributing-fentanyl
 created: 2026-04-18
 updated: 2026-04-18
 duplicate_of: "[[2017-08-24_justice-gov_new-britain-man-sentenced-to-66-months-in-prison-for-distributing-fentanyl]]"
 duplicate_reason: same_collection_url
-duplicate_key: "https://www.justice.gov/usao-ct/pr/new-britain-man-sentenced-66-months-prison-distributing-fentanyl"
+duplicate_key: https://www.justice.gov/usao-ct/pr/new-britain-man-sentenced-66-months-prison-distributing-fentanyl
 duplicate_normalized_at: 2026-04-26
+text_status: source-digest
+storage_mode: source-digest
+content_hash: sha256:31506c45c80c792dc1df8c7ccaded7eac4772a9d3d31fa7d9a79555c79c26be5
+word_count: 109
+extraction_date: 2026-04-28
 ---
 ## Source Summary
 

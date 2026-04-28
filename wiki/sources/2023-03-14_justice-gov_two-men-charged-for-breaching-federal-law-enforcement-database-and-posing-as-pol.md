@@ -14,7 +14,7 @@ sensitivity: public
 pages_updated:
   - operation-two-men-charged-for-breaching-federal-law-enforcement-database-and-posing-as-police-officers-to-defraud-social
 key_findings:
-  - "This domestic-only U.S. follow-on record has been absorbed into the canonical case page [[two-men-charged-for-breaching-federal-law-enforcement-database-and-posing-as-police-officers-to-defraud-social]]. No visible cross-border mechanism is documented, so it is not treated as a separate international-cooperation operation."
+  - "This domestic-only U.S. follow-on record has been absorbed into the canonical case page two-men-charged-for-breaching-federal-law-enforcement-database-and-posing-as-police-officers-to-defraud-social. No visible cross-border mechanism is documented, so it is not treated as a separate international-cooperation operation."
 collection_url: https://www.justice.gov/usao-edny/pr/two-men-charged-breaching-federal-law-enforcement-database-and-posing-police-officers
 created: 2026-04-17
 text_status: parsed

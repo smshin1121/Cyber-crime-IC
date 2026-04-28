@@ -1,28 +1,32 @@
 ---
 type: source
 title: "European Judicial Cybercrime Network strengthens resolve to fight digital threats at 19th plenary meeting"
-raw_path: "raw/press-releases/2026-04-14_eurojust_european-judicial-cybercrime-network-strengthens-resolve-to.md"
-source_type: "press-release"
-publisher: "Eurojust"
+raw_path: raw/press-releases/2026-04-14_eurojust_european-judicial-cybercrime-network-strengthens-resolve-to.md
+source_type: press-release
+publisher: Eurojust
 author: "Eurojust Communications"
-publish_date: "2025-12-05"
-ingest_date: "2026-04-14"
-language: "en"
-reliability: "high"
-credibility: "confirmed"
-sensitivity: "public"
+publish_date: 2025-12-05
+ingest_date: 2026-04-14
+language: en
+reliability: high
+credibility: confirmed
+sensitivity: public
 pages_updated:
-  - "european-judicial-cybercrime-network"
-  - "eurojust"
+  - european-judicial-cybercrime-network
+  - eurojust
 key_findings:
   - "European Judicial Cybercrime Network (EJCN) held its 19th plenary meeting on 4-5 December 2025, hosted by Eurojust"
   - "62 experts from 26 countries participated"
   - "Discussion topics included cyberattacks on critical infrastructure, artificial intelligence, and data retention"
   - "Confirms EJCN as a recurring semi-formal liaison/information-sharing platform administered by Eurojust"
-collection_url: "https://www.eurojust.europa.eu/news/european-judicial-cybercrime-network-strengthens-resolve-fight-digital-threats-19th-plenary"
+collection_url: https://www.eurojust.europa.eu/news/european-judicial-cybercrime-network-strengthens-resolve-fight-digital-threats-19th-plenary
 created: 2026-04-14
+text_status: source-digest
+storage_mode: source-digest
+content_hash: sha256:cdad9ac10f4f840eb0817a3fb9bfc78f508d4ba0127ef43c23f8d77af8b65f0f
+word_count: 223
+extraction_date: 2026-04-28
 ---
-
 ## Summary
 
 Official Eurojust press release describing the 19th plenary meeting of the [[european-judicial-cybercrime-network|European Judicial Cybercrime Network (EJCN)]] held on 4-5 December 2025 at Eurojust headquarters in The Hague. **62 experts from 26 countries** convened to discuss critical topics including cyberattacks on critical infrastructure, artificial intelligence, and data retention.

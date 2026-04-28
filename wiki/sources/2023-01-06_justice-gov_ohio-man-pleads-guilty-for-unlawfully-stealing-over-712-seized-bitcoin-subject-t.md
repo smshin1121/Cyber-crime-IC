@@ -14,7 +14,7 @@ sensitivity: public
 pages_updated:
   - operation-ohio-man-pleads-guilty-for-unlawfully-stealing-over-712-seized-bitcoin-subject-to-forfeiture-in-brothers-pendi
 key_findings:
-  - "This domestic-only U.S. follow-on record has been absorbed into the canonical case page [[ohio-man-pleads-guilty-for-unlawfully-stealing-over-712-seized-bitcoin-subject-to-forfeiture-in-brothers-pendi]]. No visible cross-border mechanism is documented, so it is not treated as a separate international-cooperation operation."
+  - "This domestic-only U.S. follow-on record has been absorbed into the canonical case page ohio-man-pleads-guilty-for-unlawfully-stealing-over-712-seized-bitcoin-subject-to-forfeiture-in-brothers-pendi. No visible cross-border mechanism is documented, so it is not treated as a separate international-cooperation operation."
 collection_url: https://www.justice.gov/usao-dc/pr/ohio-man-pleads-guilty-unlawfully-stealing-over-712-seized-bitcoin-subject-forfeiture
 created: 2026-04-17
 text_status: parsed

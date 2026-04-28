@@ -13,8 +13,6 @@ credibility: confirmed
 sensitivity: public
 pages_updated:
 
-key_findings:
-  - "Secure .gov websites use HTTPS A lock ( Lock Locked padlock ) or https:// means you’ve safely connected to the .gov website. Share sensitive information only on official, secure websites."
 collection_url: https://www.justice.gov/usao-edny/pr/founder-and-majority-owner-cryptocurrency-exchange-pleads-guilty-unlicensed-money
 created: 2026-04-18
 updated: 2026-04-18
@@ -22,8 +20,13 @@ defendant_names:
   - "Cryptocurrency Exchange"
 duplicate_of: "[[2023-12-06_justice-gov_founder-and-majority-owner-of-cryptocurrency-exchange-pleads-guilty-to-unlicense]]"
 duplicate_reason: same_collection_url
-duplicate_key: "https://www.justice.gov/usao-edny/pr/founder-and-majority-owner-cryptocurrency-exchange-pleads-guilty-unlicensed-money"
+duplicate_key: https://www.justice.gov/usao-edny/pr/founder-and-majority-owner-cryptocurrency-exchange-pleads-guilty-unlicensed-money
 duplicate_normalized_at: 2026-04-26
+text_status: source-digest
+storage_mode: source-digest
+content_hash: sha256:dadc56c2b12db6d5969579233500b72fbb58e3575a25cdb860b081b1aa1e7819
+word_count: 106
+extraction_date: 2026-04-28
 ---
 ## Source Summary
 

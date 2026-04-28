@@ -22,8 +22,13 @@ defendant_names:
 updated: 2026-04-18
 duplicate_of: "[[2023-12-19_justice-gov_revere-massachusetts-man-sentenced-in-nationwide-rideshare-and-delivery-account]]"
 duplicate_reason: same_collection_url
-duplicate_key: "https://www.justice.gov/usao-ri/pr/revere-massachusetts-man-sentenced-nationwide-rideshare-and-delivery-account-fraud"
+duplicate_key: https://www.justice.gov/usao-ri/pr/revere-massachusetts-man-sentenced-nationwide-rideshare-and-delivery-account-fraud
 duplicate_normalized_at: 2026-04-26
+text_status: source-digest
+storage_mode: source-digest
+content_hash: sha256:c3d7d1b7dd42ceb3087744fc02b509b0ede4125027a376ee33fd5fae9e4bd0aa
+word_count: 135
+extraction_date: 2026-04-28
 ---
 ## Source Summary
 

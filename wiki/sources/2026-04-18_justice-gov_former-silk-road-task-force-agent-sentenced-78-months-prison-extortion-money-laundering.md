@@ -13,8 +13,6 @@ credibility: confirmed
 sensitivity: public
 pages_updated:
 
-key_findings:
-  - "Secure .gov websites use HTTPS A lock ( Lock Locked padlock ) or https:// means you’ve safely connected to the .gov website. Share sensitive information only on official, secure websites."
 collection_url: https://www.justice.gov/usao-ndca/pr/former-silk-road-task-force-agent-sentenced-78-months-prison-extortion-money-laundering
 created: 2026-04-18
 defendant_names:
@@ -22,8 +20,13 @@ defendant_names:
 updated: 2026-04-18
 duplicate_of: "[[2015-10-20_justice-gov_former-silk-road-task-force-agent-sentenced-to-78-months-in-prison-for-extortion]]"
 duplicate_reason: same_collection_url
-duplicate_key: "https://www.justice.gov/usao-ndca/pr/former-silk-road-task-force-agent-sentenced-78-months-prison-extortion-money-laundering"
+duplicate_key: https://www.justice.gov/usao-ndca/pr/former-silk-road-task-force-agent-sentenced-78-months-prison-extortion-money-laundering
 duplicate_normalized_at: 2026-04-26
+text_status: source-digest
+storage_mode: source-digest
+content_hash: sha256:7061633157b21e20c34a4d4bbd3ade6eae1653eb82f709b51fdf62eab87db902
+word_count: 116
+extraction_date: 2026-04-28
 ---
 ## Source Summary
 

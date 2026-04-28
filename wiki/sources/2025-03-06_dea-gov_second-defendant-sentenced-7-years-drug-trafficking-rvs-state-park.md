@@ -2,8 +2,8 @@
 type: source
 title: "Second defendant sentenced to 7 years in prison for drug trafficking from RVs near a state park"
 source_type: press-release
-publisher: "DEA"
-author: "Staff"
+publisher: DEA
+author: Staff
 publish_date: 2025-03-06
 ingest_date: 2026-04-25
 language: en
@@ -19,8 +19,14 @@ collection_url: https://www.dea.gov/press-releases/2025/03/06/second-defendant-s
 created: 2026-04-25
 duplicate_of: "[[2025-03-06_dea-gov_second-defendant-sentenced-7-years-drug-trafficking-rvs-state-park-dea]]"
 duplicate_reason: same_collection_url
-duplicate_key: "https://www.dea.gov/press-releases/2025/03/06/second-defendant-sentenced-7-years-prison-drug-trafficking-rvs-near"
+duplicate_key: https://www.dea.gov/press-releases/2025/03/06/second-defendant-sentenced-7-years-prison-drug-trafficking-rvs-near
 duplicate_normalized_at: 2026-04-26
+raw_path: raw/press-releases/2025-03-06_dea-gov_second-defendant-sentenced-7-years-drug-trafficking-rvs-state-park.md
+text_status: source-digest
+storage_mode: source-digest
+content_hash: sha256:5e85f67d63e4816f50d7b327c737dcd698bb1c55d7136c9439e3e8a7d0a8362f
+word_count: 147
+extraction_date: 2026-04-28
 ---
 ## Source Summary
 

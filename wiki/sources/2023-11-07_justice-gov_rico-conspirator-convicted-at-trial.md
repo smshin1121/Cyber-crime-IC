@@ -14,13 +14,18 @@ sensitivity: public
 pages_updated:
   - operation-rico-conspirator-convicted-at-trial
 key_findings:
-  - "This domestic-only U.S. follow-on record has been absorbed into the canonical case page [[rico-conspirator-convicted-at-trial]]. No visible cross-border mechanism is documented, so it is not treated as a separate international-cooperation operation."
+  - "This domestic-only U.S. follow-on record has been absorbed into the canonical case page rico-conspirator-convicted-at-trial. No visible cross-border mechanism is documented, so it is not treated as a separate international-cooperation operation."
 collection_url: https://www.justice.gov/usao-mdfl/pr/rico-conspirator-convicted-trial
 created: 2026-04-17
 duplicate_of: "[[2023-09-13_justice-gov_rico-conspirator-convicted-trial]]"
 duplicate_reason: same_collection_url
-duplicate_key: "https://www.justice.gov/usao-mdfl/pr/rico-conspirator-convicted-trial"
+duplicate_key: https://www.justice.gov/usao-mdfl/pr/rico-conspirator-convicted-trial
 duplicate_normalized_at: 2026-04-26
+text_status: source-digest
+storage_mode: source-digest
+content_hash: sha256:ee8734f7114e170dd5efe107047d32d3717118142d0e1662f6ece68b621f1f38
+word_count: 150
+extraction_date: 2026-04-28
 ---
 ## Source Summary
 

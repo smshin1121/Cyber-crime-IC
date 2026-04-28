@@ -3,7 +3,7 @@ type: source
 title: "Man pleads guilty to cyberstalking after third arrest involving WNY woman"
 source_type: news
 publisher: "Niagara Gazette"
-author: "Staff"
+author: Staff
 publish_date: 2026-02-28
 ingest_date: 2026-04-25
 language: en
@@ -18,6 +18,8 @@ key_findings:
   - "Frames recidivist pattern: third arrest involving same victim, history since 2002."
 collection_url: https://www.niagara-gazette.com/news/crime/man-pleads-guilty-to-cyberstalking-after-third-arrest-involving-wny-woman/article_0158c161-45a4-446a-91c1-fc6762a1d4b5.html
 created: 2026-04-25
+raw_path: raw/news/2026-02-28_niagara-gazette_man-pleads-guilty-cyberstalking-third-arrest-wny-woman.md
+copyright_policy: summary-only
 ---
 ## Source Summary
 

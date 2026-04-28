@@ -24,8 +24,15 @@ key_findings:
 created: 2026-04-18
 duplicate_of: "[[2023-08-29_om-nl_grootste-wereldwijde-botnet-qakbot-onschadelijk-gemaakt]]"
 duplicate_reason: same_collection_url
-duplicate_key: "https://www.om.nl/actueel/nieuws/2023/08/29/grootste-wereldwijde-botnet-qakbot-onschadelijk-gemaakt"
+duplicate_key: https://www.om.nl/actueel/nieuws/2023/08/29/grootste-wereldwijde-botnet-qakbot-onschadelijk-gemaakt
 duplicate_normalized_at: 2026-04-26
+raw_path: raw/press-releases/2023-08-29_om-nl_qakbot-onschadelijk-gemaakt.md
+text_status: summarized
+storage_mode: summary-only
+content_hash: sha256:7add4aaa13d14d2724b33be75b941a5fb7281b9c6234d1e09462df477dd66e1a
+word_count: 160
+extraction_date: 2026-04-27
+copyright_policy: summary-only
 ---
 ## Source Summary
 

@@ -3,7 +3,7 @@ type: source
 title: "Top fentanyl seller on AlphaBay and Dream Market sentenced to 7 years prison"
 source_type: news
 publisher: "The Next Web"
-author: "Staff"
+author: Staff
 publish_date: 2019-12-17
 ingest_date: 2026-04-25
 language: en
@@ -16,6 +16,8 @@ key_findings:
   - "Trade press coverage focused on darknet/cryptocurrency/AlphaBay/Dream Market angle"
 collection_url: https://thenextweb.com/news/bitcoin-cryptocurrency-fentanyl-alphabay-dream-market-dark-web-prison
 created: 2026-04-25
+raw_path: raw/news/2019-12-17_thenextweb_top-fentanyl-seller-alphabay-dream-market-sentenced-7-years-prison.md
+copyright_policy: summary-only
 ---
 ## Source Summary
 

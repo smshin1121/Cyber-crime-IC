@@ -3,7 +3,7 @@ type: source
 title: "Ransomware hackers charged, infrastructure dismantled in international law enforcement operation"
 raw_path: raw/news/2025-05-23_therecord_hackers-charged-infrastructure-dismantled-operation-endgame.md
 source_type: news
-publisher: The Record (Recorded Future News)
+publisher: "The Record (Recorded Future News)"
 author: ""
 publish_date: 2025-05-23
 ingest_date: 2026-04-25
@@ -19,6 +19,7 @@ key_findings:
   - "Operation included action against Bumblebee, Latrodectus, Qakbot, Hijackloader, TrickBot, WarmCookie loaders."
 collection_url: https://therecord.media/hackers-charged-infrastructure-dismantled-operation-endgame
 created: 2026-04-25
+copyright_policy: summary-only
 ---
 ## Source Summary
 

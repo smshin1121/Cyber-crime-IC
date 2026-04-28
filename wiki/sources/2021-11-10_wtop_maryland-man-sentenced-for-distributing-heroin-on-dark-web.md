@@ -3,7 +3,7 @@ type: source
 title: "Maryland man sentenced for distributing heroin on dark web"
 source_type: news
 publisher: "WTOP News"
-author: "Staff"
+author: Staff
 publish_date: 2021-11-10
 ingest_date: 2026-04-25
 language: en
@@ -17,6 +17,8 @@ key_findings:
   - "Heroin shipped via mail from Capitol Heights, Maryland to nationwide customers"
 collection_url: https://wtop.com/prince-georges-county/2021/11/maryland-man-sentenced-for-distributing-heroin-on-dark-web/
 created: 2026-04-25
+raw_path: raw/news/2021-11-10_wtop_maryland-man-sentenced-for-distributing-heroin-on-dark-web.md
+copyright_policy: summary-only
 ---
 ## Source Summary
 

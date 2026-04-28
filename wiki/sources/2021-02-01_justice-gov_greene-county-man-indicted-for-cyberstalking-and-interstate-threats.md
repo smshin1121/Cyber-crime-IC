@@ -14,7 +14,7 @@ sensitivity: public
 pages_updated:
   - operation-greene-county-man-indicted-cyberstalking-and-interstate-threats
 key_findings:
-  - "This domestic-only U.S. follow-on record has been absorbed into the canonical case page [[greene-county-man-indicted-cyberstalking-and-interstate-threats]]. No visible cross-border mechanism is documented, so it is not treated as a separate international-cooperation operation."
+  - "This domestic-only U.S. follow-on record has been absorbed into the canonical case page greene-county-man-indicted-cyberstalking-and-interstate-threats. No visible cross-border mechanism is documented, so it is not treated as a separate international-cooperation operation."
 collection_url: https://www.justice.gov/usao-wdpa/pr/greene-county-man-indicted-cyberstalking-and-interstate-threats
 created: 2026-04-17
 text_status: parsed

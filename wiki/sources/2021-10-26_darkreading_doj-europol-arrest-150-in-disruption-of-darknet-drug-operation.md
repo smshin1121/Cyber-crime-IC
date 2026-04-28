@@ -3,7 +3,7 @@ type: source
 title: "DoJ & Europol Arrest 150 in Disruption of DarkNet Drug Operation"
 source_type: news
 publisher: "Dark Reading"
-author: "Staff"
+author: Staff
 publish_date: 2021-10-26
 ingest_date: 2026-04-25
 language: en
@@ -17,6 +17,8 @@ key_findings:
   - "Direct fetch blocked (403); content confirmed via WebSearch summary."
 collection_url: https://www.darkreading.com/threat-intelligence/doj-europol-arrest-150-in-disruption-of-darknet-drug-operation
 created: 2026-04-25
+raw_path: raw/news/2021-10-26_darkreading_doj-europol-arrest-150-in-disruption-of-darknet-drug-operation.md
+copyright_policy: summary-only
 ---
 ## Source Summary
 

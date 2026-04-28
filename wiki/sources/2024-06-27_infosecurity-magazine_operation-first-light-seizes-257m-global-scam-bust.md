@@ -22,7 +22,7 @@ text_status: summarized
 copyright_policy: summary-only
 duplicate_of: "[[2024-06-27_infosecurity-magazine_operation-first-light-seizes-257m-in-global-scam-bust]]"
 duplicate_reason: same_collection_url
-duplicate_key: "https://www.infosecurity-magazine.com/news/operation-first-light-seizes/"
+duplicate_key: https://www.infosecurity-magazine.com/news/operation-first-light-seizes/
 duplicate_normalized_at: 2026-04-26
 ---
 ## Source Summary

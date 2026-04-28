@@ -12,11 +12,16 @@ reliability: medium
 credibility: confirmed
 sensitivity: public
 pages_updated:
-  []
+
 key_findings:
-  - "The United Nations Convention against Cybercrime is the **first globally negotiated binding treaty** on cybercrime, adopted by the UN General Assembly on 2024-12-24 after years of negotiation by the Ad Hoc Committee established under UNGA Resolution 74/247 (2019). The Ad Hoc Committee finalized the Convention text on 2024-08-08. The Convention was **opened for signature at a ceremony in Hanoi, Vietnam on 25–26 October 2025**, where 72 states plus the European Union signed. As of April 2026, the signatory count has risen to **74**, and **2 states have ratified** — Qatar (first to ratify, February 2026, with two reservations) and Vietnam. The Convention requires **40 ratifications** to enter into force and will remain open for signature at UN Headquarters in New York until 31 December 2026."
+  - "The United Nations Convention against Cybercrime is the **first globally negotiated binding treaty** on cybercrime, adopted by the UN General Assembly on 2024-12-24 after years of negotiation by the Ad Hoc Committee established under UNGA Resolution 74/247 (2019). The Ad Hoc Committee finalized the Convention text on 2024-08-08. The Convention was **opened for signature at a ceremony in Hanoi, Vietnam on 25–26 October 2025**, where 72 states plus the European Union signed. As of April 2026, the."
 collection_url: https://www.unodc.org/unodc/frontpage/2025/October/seventy-two-nations-sign-first-un-treaty-to-fight-cybercrime--in-milestone-for-digital-cooperation.html
 created: 2026-04-17
+text_status: source-digest
+storage_mode: source-digest
+content_hash: sha256:38357309161fdeaf8282dfa9a7c7ccdcc973ba22905f479d326d3c48e627ddee
+word_count: 292
+extraction_date: 2026-04-28
 ---
 ## Source Summary
 

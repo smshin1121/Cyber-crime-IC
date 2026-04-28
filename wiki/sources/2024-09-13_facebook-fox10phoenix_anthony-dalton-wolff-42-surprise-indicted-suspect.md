@@ -3,7 +3,7 @@ type: source
 title: "Anthony Dalton Wolff (42 of Surprise) — Indicted Suspect (FOX 10 Phoenix Facebook post)"
 source_type: news
 publisher: "FOX 10 Phoenix (Facebook)"
-author: "Staff"
+author: Staff
 publish_date: 2024-09-13
 ingest_date: 2026-04-25
 language: en
@@ -17,6 +17,8 @@ key_findings:
   - "Independent confirmation of broadcast outlet's reporting."
 collection_url: https://m.facebook.com/FOX10Phoenix/photos/the-suspect-identified-as-42-year-old-anthony-dalton-wolff-of-surprise-is-accuse/839048855095909/
 created: 2026-04-25
+raw_path: raw/news/2024-09-13_facebook-fox10phoenix_anthony-dalton-wolff-42-surprise-indicted-suspect.md
+copyright_policy: summary-only
 ---
 ## Source Summary
 

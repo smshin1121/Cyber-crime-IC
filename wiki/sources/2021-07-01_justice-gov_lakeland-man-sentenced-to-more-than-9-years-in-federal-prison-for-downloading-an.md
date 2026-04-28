@@ -14,7 +14,7 @@ sensitivity: public
 pages_updated:
   - operation-lakeland-man-sentenced-to-more-than-9-years-in-federal-prison-for-downloading-and-possessing-child-sex-abuse-v
 key_findings:
-  - "This domestic-only U.S. follow-on record has been absorbed into the canonical case page [[lakeland-man-sentenced-to-more-than-9-years-in-federal-prison-for-downloading-and-possessing-child-sex-abuse-v]]. No visible cross-border mechanism is documented, so it is not treated as a separate international-cooperation operation."
+  - "This domestic-only U.S. follow-on record has been absorbed into the canonical case page lakeland-man-sentenced-to-more-than-9-years-in-federal-prison-for-downloading-and-possessing-child-sex-abuse-v. No visible cross-border mechanism is documented, so it is not treated as a separate international-cooperation operation."
 collection_url: https://www.justice.gov/usao-mdfl/pr/lakeland-man-sentenced-more-9-years-federal-prison-downloading-and-possessing-child-sex
 created: 2026-04-17
 text_status: parsed

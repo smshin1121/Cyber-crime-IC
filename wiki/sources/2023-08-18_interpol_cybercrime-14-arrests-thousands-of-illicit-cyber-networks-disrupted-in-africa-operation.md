@@ -4,7 +4,7 @@ title: "Cybercrime: 14 arrests, thousands of illicit cyber networks disrupted in
 collection_url: https://www.interpol.int/en/News-and-Events/News/2023/Cybercrime-14-arrests-thousands-of-illicit-cyber-networks-disrupted-in-Africa-operation
 collection_domain: interpol.int
 source_type: press-release
-publisher: "INTERPOL"
+publisher: INTERPOL
 author: ""
 publish_date: 2023-08-18
 ingest_date: 2026-04-18
@@ -23,8 +23,14 @@ created: 2026-04-18
 updated: 2026-04-18
 duplicate_of: "[[2023-08-18_interpol-int_cybercrime-14-arrests-thousands-of-illicit-cyber-networks-disrupted-in-africa-op]]"
 duplicate_reason: same_collection_url
-duplicate_key: "https://www.interpol.int/en/News-and-Events/News/2023/Cybercrime-14-arrests-thousands-of-illicit-cyber-networks-disrupted-in-Africa-operation"
+duplicate_key: https://www.interpol.int/en/News-and-Events/News/2023/Cybercrime-14-arrests-thousands-of-illicit-cyber-networks-disrupted-in-Africa-operation
 duplicate_normalized_at: 2026-04-26
+raw_path: raw/press-releases/2023-08-18_interpol_cybercrime-14-arrests-thousands-of-illicit-cyber-networks-disrupted-in-africa-operation.md
+text_status: source-digest
+storage_mode: source-digest
+content_hash: sha256:333d13e8a358be7f5ecb2abb6884159666a96cf36676573194c7f7bba181f71d
+word_count: 163
+extraction_date: 2026-04-28
 ---
 ## Source Summary
 

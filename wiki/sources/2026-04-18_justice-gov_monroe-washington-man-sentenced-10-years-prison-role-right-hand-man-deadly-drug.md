@@ -13,8 +13,6 @@ credibility: confirmed
 sensitivity: public
 pages_updated:
 
-key_findings:
-  - "Secure .gov websites use HTTPS A lock ( Lock Locked padlock ) or https:// means you’ve safely connected to the .gov website. Share sensitive information only on official, secure websites."
 collection_url: https://www.justice.gov/usao-wdwa/pr/monroe-washington-man-sentenced-10-years-prison-role-right-hand-man-deadly-drug
 created: 2026-04-18
 defendant_names:
@@ -22,8 +20,13 @@ defendant_names:
 updated: 2026-04-18
 duplicate_of: "[[2024-10-25_justice-gov_monroe-washington-man-sentenced-to-10-years-in-prison-for-role-as-right-hand-man]]"
 duplicate_reason: same_collection_url
-duplicate_key: "https://www.justice.gov/usao-wdwa/pr/monroe-washington-man-sentenced-10-years-prison-role-right-hand-man-deadly-drug"
+duplicate_key: https://www.justice.gov/usao-wdwa/pr/monroe-washington-man-sentenced-10-years-prison-role-right-hand-man-deadly-drug
 duplicate_normalized_at: 2026-04-26
+text_status: source-digest
+storage_mode: source-digest
+content_hash: sha256:673c2b898c112e88a4b59f733dd9ee46e2aed259d358ba88411986e2397977ca
+word_count: 132
+extraction_date: 2026-04-28
 ---
 ## Source Summary
 

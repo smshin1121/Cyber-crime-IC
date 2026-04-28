@@ -20,7 +20,7 @@ key_findings:
   - "The Hackread article, published 29 November 2020, reports on **Carding Action 2020**, a 3-month Europol-led operation against dark-web card-trading forums — NOT on the Global Airport Action Day despite the wiki's operation link"
   - "Carding Action 2020 was led by Europol, supported by cybersecurity firm Group-IB, with operational participation from law enforcement in Hungary, the United Kingdom, and Italy"
   - "Estimated impact: prevented losses of approximately US$48 million / EUR 40 million; ~90,000 stolen credit-card records assessed during the investigation"
-  - 'Operational focus: "card shops'' (specialized sites selling stolen card data) and dark-web marketplaces — not airport-based operations or travel fraud enforcement'
+  - "Operational focus: \"card shops'' (specialized sites selling stolen card data) and dark-web marketplaces — not airport-based operations or travel fraud enforcement"
   - "Source includes Europol's public statement that the initiative aimed to 'mitigate and prevent losses for financial institutions and cardholders' — a defensive-rather-than-punitive framing"
   - "Private-sector partnership with Group-IB is central to the operation and is a reference case for public-private cybercrime cooperation; Group-IB provided proprietary dark-web monitoring capabilities"
 created: 2026-04-08

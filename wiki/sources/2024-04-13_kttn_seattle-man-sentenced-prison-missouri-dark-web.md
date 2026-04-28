@@ -3,7 +3,7 @@ type: source
 title: "Seattle man sentenced to prison in Missouri for buying 630,000 counterfeit pills on the Dark Web"
 source_type: news
 publisher: "KTTN-FM (North Missouri)"
-author: "Staff"
+author: Staff
 publish_date: 2024-04-13
 ingest_date: 2026-04-25
 language: en
@@ -16,6 +16,8 @@ key_findings:
   - "Local Missouri venue confirmation for the EDMO sentence."
 collection_url: https://www.kttn.com/seattle-man-sentenced-to-prison-in-missouri-for-buying-630000-counterfeit-pills-on-the-dark-web/
 created: 2026-04-25
+raw_path: raw/news/2024-04-13_kttn_seattle-man-sentenced-prison-missouri-dark-web.md
+copyright_policy: summary-only
 ---
 ## Source Summary
 

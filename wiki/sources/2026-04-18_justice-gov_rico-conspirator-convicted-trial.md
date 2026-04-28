@@ -13,8 +13,6 @@ credibility: confirmed
 sensitivity: public
 pages_updated:
 
-key_findings:
-  - "Secure .gov websites use HTTPS A lock ( Lock Locked padlock ) or https:// means you’ve safely connected to the .gov website. Share sensitive information only on official, secure websites."
 collection_url: https://www.justice.gov/usao-mdfl/pr/rico-conspirator-convicted-trial
 created: 2026-04-18
 updated: 2026-04-18
@@ -22,8 +20,13 @@ defendant_names:
   - "At Trial"
 duplicate_of: "[[2023-09-13_justice-gov_rico-conspirator-convicted-trial]]"
 duplicate_reason: same_collection_url
-duplicate_key: "https://www.justice.gov/usao-mdfl/pr/rico-conspirator-convicted-trial"
+duplicate_key: https://www.justice.gov/usao-mdfl/pr/rico-conspirator-convicted-trial
 duplicate_normalized_at: 2026-04-26
+text_status: source-digest
+storage_mode: source-digest
+content_hash: sha256:6a032c8e3c3163f5d263403230ea41333b06deb74383ab594285e3c66327540f
+word_count: 120
+extraction_date: 2026-04-28
 ---
 ## Source Summary
 

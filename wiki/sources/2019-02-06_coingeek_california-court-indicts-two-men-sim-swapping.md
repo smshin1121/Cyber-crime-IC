@@ -2,7 +2,7 @@
 type: source
 title: "California court indicts two men for sim swapping to steal crypto"
 source_type: news
-publisher: "CoinGeek"
+publisher: CoinGeek
 publish_date: 2019-02-06
 ingest_date: 2026-04-25
 language: en

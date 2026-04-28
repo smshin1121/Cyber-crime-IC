@@ -3,7 +3,7 @@ type: source
 title: "Middle Island man pleads guilty to cyberstalking, followed victim to WNY"
 source_type: news
 publisher: "News 4 Buffalo (WIVB)"
-author: "Staff"
+author: Staff
 publish_date: 2026-02-28
 ingest_date: 2026-04-25
 language: en
@@ -18,6 +18,8 @@ key_findings:
   - "Reports California-to-WNY travel and prior 2020 federal threat conviction."
 collection_url: https://www.wivb.com/news/crime/middle-island-man-pleads-guilty-to-cyberstalking-followed-victim-to-wny/
 created: 2026-04-25
+raw_path: raw/news/2026-02-28_wivb_middle-island-man-pleads-guilty-cyberstalking-followed-victim-wny.md
+copyright_policy: summary-only
 ---
 ## Source Summary
 

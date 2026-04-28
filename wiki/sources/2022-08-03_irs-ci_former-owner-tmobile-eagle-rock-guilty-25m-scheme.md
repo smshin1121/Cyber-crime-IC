@@ -3,7 +3,7 @@ type: source
 title: "Former owner of T-Mobile retail store in Eagle Rock found guilty of committing $25 million scheme to illegally unlock cellphones"
 source_type: press-release
 publisher: "IRS Criminal Investigation"
-author: "Staff"
+author: Staff
 publish_date: 2022-08-03
 ingest_date: 2026-04-25
 language: en
@@ -20,8 +20,14 @@ collection_url: https://www.irs.gov/compliance/criminal-investigation/former-own
 created: 2026-04-25
 duplicate_of: "[[2022-08-01_irs-gov_former-owner-t-mobile-retail-store-eagle-rock-25-million-unlock-scheme]]"
 duplicate_reason: same_collection_url
-duplicate_key: "https://www.irs.gov/compliance/criminal-investigation/former-owner-of-t-mobile-retail-store-in-eagle-rock-found-guilty-of-committing-25-million-scheme-to-illegally-unlock-cellphones"
+duplicate_key: https://www.irs.gov/compliance/criminal-investigation/former-owner-of-t-mobile-retail-store-in-eagle-rock-found-guilty-of-committing-25-million-scheme-to-illegally-unlock-cellphones
 duplicate_normalized_at: 2026-04-26
+raw_path: raw/press-releases/2022-08-03_irs-ci_former-owner-tmobile-eagle-rock-guilty-25m-scheme.md
+text_status: source-digest
+storage_mode: source-digest
+content_hash: sha256:96182222eb1935d3c5ce7ba050632c9e3c149d35c3bd189eefedaf6ab1a303c8
+word_count: 153
+extraction_date: 2026-04-28
 ---
 ## Source Summary
 

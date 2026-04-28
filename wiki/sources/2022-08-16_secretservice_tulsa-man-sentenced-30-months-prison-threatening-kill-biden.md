@@ -3,7 +3,7 @@ type: source
 title: "Tulsa Man Sentenced to 30 Months in Prison for Sending Emails Threatening to Kill President Biden"
 source_type: press-release
 publisher: "U.S. Secret Service"
-author: "Staff"
+author: Staff
 publish_date: 2022-08-16
 ingest_date: 2026-04-25
 language: en
@@ -17,6 +17,12 @@ key_findings:
   - "Parallel federal-agency confirmation of Ahrens 30-month sentence"
 collection_url: https://www.secretservice.gov/newsroom/releases/2022/08/tulsa-man-sentenced-30-months-prison-sending-emails-threatening-kill
 created: 2026-04-25
+raw_path: raw/press-releases/2022-08-16_secretservice_tulsa-man-sentenced-30-months-prison-threatening-kill-biden.md
+text_status: source-digest
+storage_mode: source-digest
+content_hash: sha256:e86c3b04bd1adb5e0aaf6f13f56c4a164c82a878f0087d43d6117efef6b090db
+word_count: 119
+extraction_date: 2026-04-28
 ---
 ## Source Summary
 

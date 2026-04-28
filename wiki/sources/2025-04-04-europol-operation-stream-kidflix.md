@@ -1,27 +1,32 @@
 ---
 type: source
 title: "Europol-led Operation Stream Takes Down Kidflix CSAM Platform"
-raw_path: "raw/press-releases/2025-04-04_europol_operation-stream-kidflix-takedown.md"
-source_type: "news"
+raw_path: raw/press-releases/2025-04-04_europol_operation-stream-kidflix-takedown.md
+source_type: news
 publisher: "Security Affairs / TRM Labs"
 author: ""
-publish_date: "2025-04-04"
-ingest_date: "2026-04-08"
-language: "en"
-reliability: "medium"
-credibility: "probably-true"
-sensitivity: "public"
+publish_date: 2025-04-04
+ingest_date: 2026-04-08
+language: en
+reliability: medium
+credibility: probably-true
+sensitivity: public
 pages_updated:
-  - "operation-stream-kidflix"
-  - "csam-ic"
-  - "europol-ec3"
+  - operation-stream-kidflix
+  - csam-ic
+  - europol-ec3
 key_findings:
   - "Operation Stream dismantled Kidflix, one of the largest CSAM platforms (1.8M users, 91K videos)"
   - "35+ countries coordinated under Europol; 79 arrests, 1,393 suspects identified, 39 children protected"
   - "Platform used cryptocurrency payments with DeFi routing"
 created: 2026-04-08
+text_status: summarized
+content_hash: sha256:456c9e68d8e8375a1aa2401c8c16d9cb30b8ddaa4edd46268c2ef956b1f5d426
+word_count: 1070
+stored_word_count: 80
+copyright_policy: summary-only
+extraction_date: 2026-04-25
 ---
-
 # Europol-led Operation Stream Takes Down Kidflix CSAM Platform
 
 ## Source Overview

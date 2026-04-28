@@ -3,7 +3,7 @@ type: source
 title: "FEDS STOP METH DRUG RING ON DARK WEB, SEIZE $5 MILLION IN ASSETS DURING ARREST OF TWO MEN"
 source_type: news
 publisher: "Front Page Detectives"
-author: "Staff"
+author: Staff
 publish_date: 2021-02-23
 ingest_date: 2026-04-25
 language: en
@@ -20,6 +20,8 @@ key_findings:
   - "Confirms multi-state controlled purchases"
 collection_url: https://www.frontpagedetectives.com/p/feds-meth-adderall-dark-web-charge-tennessee
 created: 2026-04-25
+raw_path: raw/news/2021-02-23_frontpagedetectives_feds-meth-adderall-dark-web-charge-tennessee.md
+copyright_policy: summary-only
 ---
 ## Source Summary
 

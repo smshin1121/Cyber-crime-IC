@@ -19,8 +19,14 @@ collection_url: https://www.dea.gov/press-releases/2026/01/27/tacoma-man-who-per
 created: 2026-04-25
 duplicate_of: "[[2026-01-27_dea-gov_tacoma-man-persisted-drug-trafficking-25-pounds-meth-66-months]]"
 duplicate_reason: same_collection_url
-duplicate_key: "https://www.dea.gov/press-releases/2026/01/27/tacoma-man-who-persisted-drug-trafficking-despite-being-stopped-more-25"
+duplicate_key: https://www.dea.gov/press-releases/2026/01/27/tacoma-man-who-persisted-drug-trafficking-despite-being-stopped-more-25
 duplicate_normalized_at: 2026-04-26
+raw_path: raw/press-releases/2026-01-27_dea_tacoma-man-persisted-drug-trafficking-25-pounds-meth-66-months.md
+text_status: source-digest
+storage_mode: source-digest
+content_hash: sha256:2dd34064e8c455a247080f2f2abd47fdfed2904e433aa8b4d5913c701d3e5d2a
+word_count: 158
+extraction_date: 2026-04-28
 ---
 ## Source Summary
 

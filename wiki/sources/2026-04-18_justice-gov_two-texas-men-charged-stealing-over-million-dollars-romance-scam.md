@@ -13,15 +13,18 @@ credibility: confirmed
 sensitivity: public
 pages_updated:
 
-key_findings:
-  - "Secure .gov websites use HTTPS A lock ( Lock Locked padlock ) or https:// means you’ve safely connected to the .gov website. Share sensitive information only on official, secure websites."
 collection_url: https://www.justice.gov/usao-edmo/pr/two-texas-men-charged-stealing-over-million-dollars-romance-scam
 created: 2026-04-18
 updated: 2026-04-18
 duplicate_of: "[[2021-09-08_justice-gov_two-texas-men-charged-in-stealing-over-a-million-dollars-in-a-romance-scam]]"
 duplicate_reason: same_collection_url
-duplicate_key: "https://www.justice.gov/usao-edmo/pr/two-texas-men-charged-stealing-over-million-dollars-romance-scam"
+duplicate_key: https://www.justice.gov/usao-edmo/pr/two-texas-men-charged-stealing-over-million-dollars-romance-scam
 duplicate_normalized_at: 2026-04-26
+text_status: source-digest
+storage_mode: source-digest
+content_hash: sha256:352da1ae31f1d6ed85b87c0f739c9bb3ac3019beeb6755c97e3e5c89b897621e
+word_count: 109
+extraction_date: 2026-04-28
 ---
 ## Source Summary
 

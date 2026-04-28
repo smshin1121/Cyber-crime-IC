@@ -22,8 +22,13 @@ defendant_names:
 updated: 2026-04-18
 duplicate_of: "[[2025-12-08_justice-gov_guilty-plea-and-superseding-indictment-announced-in-social-engineering-scheme-th]]"
 duplicate_reason: same_collection_url
-duplicate_key: "https://www.justice.gov/usao-dc/pr/guilty-plea-and-superseding-indictment-announced-social-engineering-scheme-stole-263"
+duplicate_key: https://www.justice.gov/usao-dc/pr/guilty-plea-and-superseding-indictment-announced-social-engineering-scheme-stole-263
 duplicate_normalized_at: 2026-04-26
+text_status: source-digest
+storage_mode: source-digest
+content_hash: sha256:2b37b2d4e414380d46b7e49f7e30a6906f9e4bd775025589060cb47dcd6d2427
+word_count: 127
+extraction_date: 2026-04-28
 ---
 ## Source Summary
 

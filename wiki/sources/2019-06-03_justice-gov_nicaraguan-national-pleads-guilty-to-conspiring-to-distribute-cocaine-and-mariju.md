@@ -14,7 +14,7 @@ sensitivity: public
 pages_updated:
   - operation-nicaraguan-national-pleads-guilty-to-conspiring-to-distribute-cocaine-and-marijuana-on-the-darknet
 key_findings:
-  - "This domestic-only U.S. follow-on record has been absorbed into the canonical case page [[nicaraguan-national-pleads-guilty-to-conspiring-to-distribute-cocaine-and-marijuana-on-the-darknet]]. No visible cross-border mechanism is documented, so it is not treated as a separate international-cooperation operation."
+  - "This domestic-only U.S. follow-on record has been absorbed into the canonical case page nicaraguan-national-pleads-guilty-to-conspiring-to-distribute-cocaine-and-marijuana-on-the-darknet. No visible cross-border mechanism is documented, so it is not treated as a separate international-cooperation operation."
 collection_url: https://www.justice.gov/usao-edca/pr/nicaraguan-national-pleads-guilty-conspiring-distribute-cocaine-and-marijuana-darknet
 created: 2026-04-17
 text_status: parsed

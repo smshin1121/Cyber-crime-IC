@@ -13,8 +13,6 @@ credibility: confirmed
 sensitivity: public
 pages_updated:
 
-key_findings:
-  - "Secure .gov websites use HTTPS A lock ( Lock Locked padlock ) or https:// means you’ve safely connected to the .gov website. Share sensitive information only on official, secure websites."
 collection_url: https://www.justice.gov/usao-mdfl/pr/ssndob-marketplace-administrator-pleads-guilty-charges-related-his-operation-series
 created: 2026-04-18
 updated: 2026-04-18
@@ -23,8 +21,13 @@ defendant_names:
   - "Marketplace Administrator"
 duplicate_of: "[[2023-07-25_justice-gov_ssndob-marketplace-administrator-pleads-guilty-to-charges-related-to-his-operati]]"
 duplicate_reason: same_collection_url
-duplicate_key: "https://www.justice.gov/usao-mdfl/pr/ssndob-marketplace-administrator-pleads-guilty-charges-related-his-operation-series"
+duplicate_key: https://www.justice.gov/usao-mdfl/pr/ssndob-marketplace-administrator-pleads-guilty-charges-related-his-operation-series
 duplicate_normalized_at: 2026-04-26
+text_status: source-digest
+storage_mode: source-digest
+content_hash: sha256:112b0211ce254c8b3a08878212ce697b3f05c1e7d68c21ddfff83bd98d270aa8
+word_count: 116
+extraction_date: 2026-04-28
 ---
 ## Source Summary
 

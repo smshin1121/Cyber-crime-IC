@@ -13,8 +13,6 @@ credibility: confirmed
 sensitivity: public
 pages_updated:
 
-key_findings:
-  - "Secure .gov websites use HTTPS A lock ( Lock Locked padlock ) or https:// means you’ve safely connected to the .gov website. Share sensitive information only on official, secure websites."
 collection_url: https://www.justice.gov/usao-mdfl/pr/odessa-man-charged-producing-and-distributing-child-sexual-abuse-material
 created: 2026-04-18
 updated: 2026-04-18
@@ -23,8 +21,13 @@ defendant_names:
   - "Oldsmar Man"
 duplicate_of: "[[2023-10-04_justice-gov_oldsmar-man-charged-with-producing-and-distributing-child-sexual-abuse-material]]"
 duplicate_reason: same_collection_url
-duplicate_key: "https://www.justice.gov/usao-mdfl/pr/odessa-man-charged-producing-and-distributing-child-sexual-abuse-material"
+duplicate_key: https://www.justice.gov/usao-mdfl/pr/odessa-man-charged-producing-and-distributing-child-sexual-abuse-material
 duplicate_normalized_at: 2026-04-26
+text_status: source-digest
+storage_mode: source-digest
+content_hash: sha256:1075eb9748afbf5c50ad61d49d3cf0e994815400f20e1b0e2d0356543e5eedc3
+word_count: 107
+extraction_date: 2026-04-28
 ---
 ## Source Summary
 

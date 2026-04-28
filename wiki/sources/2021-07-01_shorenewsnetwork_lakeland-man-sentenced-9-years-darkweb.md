@@ -3,7 +3,7 @@ type: source
 title: "Lakeland Man Sentenced To More Than 9 Years In Federal Prison For Downloading And Possessing Child Sex Abuse Videos From The Darkweb"
 source_type: news
 publisher: "Shore News Network"
-author: "Staff"
+author: Staff
 publish_date: 2021-07-01
 ingest_date: 2026-04-25
 language: en
@@ -20,8 +20,10 @@ collection_url: https://www.shorenewsnetwork.com/2021/07/01/lakeland-man-sentenc
 created: 2026-04-25
 duplicate_of: "[[2021-07-01_shorenewsnetwork_lakeland-man-sentenced-9-years-darkweb-csam]]"
 duplicate_reason: same_collection_url
-duplicate_key: "https://www.shorenewsnetwork.com/2021/07/01/lakeland-man-sentenced-to-more-than-9-years-in-federal-prison-for-downloading-and-possessing-child-sex-abuse-videos-from-the-darkweb/"
+duplicate_key: https://www.shorenewsnetwork.com/2021/07/01/lakeland-man-sentenced-to-more-than-9-years-in-federal-prison-for-downloading-and-possessing-child-sex-abuse-videos-from-the-darkweb/
 duplicate_normalized_at: 2026-04-26
+raw_path: raw/news/2021-07-01_shorenewsnetwork_lakeland-man-sentenced-9-years-darkweb.md
+copyright_policy: summary-only
 ---
 ## Source Summary
 

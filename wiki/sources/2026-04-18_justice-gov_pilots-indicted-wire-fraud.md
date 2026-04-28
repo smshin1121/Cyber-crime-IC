@@ -13,8 +13,6 @@ credibility: confirmed
 sensitivity: public
 pages_updated:
 
-key_findings:
-  - "Secure .gov websites use HTTPS A lock ( Lock Locked padlock ) or https:// means you’ve safely connected to the .gov website. Share sensitive information only on official, secure websites."
 collection_url: https://www.justice.gov/usao-mdfl/pr/pilots-indicted-wire-fraud
 created: 2026-04-18
 updated: 2026-04-18
@@ -22,8 +20,13 @@ defendant_names:
   - "For Wire Fraud"
 duplicate_of: "[[2025-11-14_justice-gov_pilots-indicted-for-wire-fraud]]"
 duplicate_reason: same_collection_url
-duplicate_key: "https://www.justice.gov/usao-mdfl/pr/pilots-indicted-wire-fraud"
+duplicate_key: https://www.justice.gov/usao-mdfl/pr/pilots-indicted-wire-fraud
 duplicate_normalized_at: 2026-04-26
+text_status: source-digest
+storage_mode: source-digest
+content_hash: sha256:91eb8c7b5644a9126e2008ad136ccf306d969d595b3121428313bd6e1458da21
+word_count: 119
+extraction_date: 2026-04-28
 ---
 ## Source Summary
 

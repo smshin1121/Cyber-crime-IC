@@ -13,8 +13,6 @@ credibility: confirmed
 sensitivity: public
 pages_updated:
 
-key_findings:
-  - "Secure .gov websites use HTTPS A lock ( Lock Locked padlock ) or https:// means you’ve safely connected to the .gov website. Share sensitive information only on official, secure websites."
 collection_url: https://www.justice.gov/usao-ndok/pr/tulsa-man-who-fled-smuggling-charge-pleads-guilty
 created: 2026-04-18
 defendant_names:
@@ -22,8 +20,13 @@ defendant_names:
 updated: 2026-04-18
 duplicate_of: "[[2019-08-08_justice-gov_tulsa-man-who-fled-from-smuggling-charge-pleads-guilty]]"
 duplicate_reason: same_collection_url
-duplicate_key: "https://www.justice.gov/usao-ndok/pr/tulsa-man-who-fled-smuggling-charge-pleads-guilty"
+duplicate_key: https://www.justice.gov/usao-ndok/pr/tulsa-man-who-fled-smuggling-charge-pleads-guilty
 duplicate_normalized_at: 2026-04-26
+text_status: source-digest
+storage_mode: source-digest
+content_hash: sha256:90cc982f60c2db7b4aaac9d22b23837f9e71ce8f55ae36fb3d057079648bf9fd
+word_count: 109
+extraction_date: 2026-04-28
 ---
 ## Source Summary
 

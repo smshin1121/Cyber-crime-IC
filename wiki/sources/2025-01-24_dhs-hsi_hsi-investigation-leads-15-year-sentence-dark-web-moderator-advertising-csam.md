@@ -19,6 +19,13 @@ key_findings:
   - "Confirms HSI-Portland (Maine) lead investigative role on a dark-web CSAM moderator case"
 collection_url: https://www.dhs.gov/hsi/news/2025/01/24/hsi-investigation-leads-15-year-sentence-dark-web-moderator-advertising-csam
 created: 2026-04-25
+raw_path: raw/press-releases/2025-01-24_dhs-hsi_hsi-investigation-leads-15-year-sentence-dark-web-moderator-advertising-csam.md
+text_status: parsed
+content_hash: sha256:3ece5f6f38f87ade2edc5c509b9e1fc6f55ea1d2bde26adb09959ec8cce15479
+word_count: 1144
+extraction_date: 2026-04-28
+last_fetcher: curl_cffi
+storage_mode: fulltext
 ---
 ## Source Summary
 

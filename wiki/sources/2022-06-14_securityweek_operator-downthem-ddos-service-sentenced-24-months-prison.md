@@ -2,7 +2,7 @@
 type: source
 title: "Operator of 'DownThem' DDoS Service Sentenced to 24 Months in Prison"
 source_type: news
-publisher: "SecurityWeek"
+publisher: SecurityWeek
 author: "Ionut Arghire"
 publish_date: 2022-06-14
 ingest_date: 2026-04-25
@@ -16,6 +16,8 @@ key_findings:
   - "Confirms 24-month sentence and 2018 takedown context for DownThem and AmpNode."
 collection_url: https://www.securityweek.com/operator-downthem-ddos-service-sentenced-24-months-prison/
 created: 2026-04-25
+raw_path: raw/news/2022-06-14_securityweek_operator-downthem-ddos-service-sentenced-24-months-prison.md
+copyright_policy: summary-only
 ---
 ## Source Summary
 

@@ -14,9 +14,10 @@ sensitivity: public
 pages_updated:
   - belgium-netherlands-phishing-gang
 key_findings:
-  - "Belgian and Dutch authorities, supported by [[eurojust|Eurojust]] and [[europol-ec3|Europol EC3]], disrupted a cross-border phone-phishing and bank-helpdesk fraud group in December 2024. The suspects mainly targeted Belgian victims while operating from Rotterdam and other Dutch locations, and the action combined synchronized arrests, searches, and judicial coordination."
+  - "Belgian and Dutch authorities, supported by Eurojust and Europol EC3, disrupted a cross-border phone-phishing and bank-helpdesk fraud group in December 2024. The suspects mainly targeted Belgian victims while operating from Rotterdam and other Dutch locations, and the action combined synchronized arrests, searches, and judicial coordination."
 collection_url: https://www.securityweek.com/eight-suspected-phishers-arrested-in-belgium-netherlands/
 created: 2026-04-17
+copyright_policy: summary-only
 ---
 ## Source Summary
 

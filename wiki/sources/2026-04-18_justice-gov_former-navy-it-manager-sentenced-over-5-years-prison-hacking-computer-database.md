@@ -13,8 +13,6 @@ credibility: confirmed
 sensitivity: public
 pages_updated:
 
-key_findings:
-  - "Secure .gov websites use HTTPS A lock ( Lock Locked padlock ) or https:// means you’ve safely connected to the .gov website. Share sensitive information only on official, secure websites."
 collection_url: https://www.justice.gov/usao-edca/pr/former-navy-it-manager-sentenced-over-5-years-prison-hacking-computer-database
 created: 2026-04-18
 defendant_names:
@@ -22,8 +20,13 @@ defendant_names:
 updated: 2026-04-18
 duplicate_of: "[[2023-10-16_justice-gov_former-navy-it-manager-sentenced-to-over-5-years-in-prison-for-hacking-a-compute]]"
 duplicate_reason: same_collection_url
-duplicate_key: "https://www.justice.gov/usao-edca/pr/former-navy-it-manager-sentenced-over-5-years-prison-hacking-computer-database"
+duplicate_key: https://www.justice.gov/usao-edca/pr/former-navy-it-manager-sentenced-over-5-years-prison-hacking-computer-database
 duplicate_normalized_at: 2026-04-26
+text_status: source-digest
+storage_mode: source-digest
+content_hash: sha256:6074451174fa6165b56e05ce11779e3eca6d97d5a57430f5da9f09005e0e7df6
+word_count: 145
+extraction_date: 2026-04-28
 ---
 ## Source Summary
 

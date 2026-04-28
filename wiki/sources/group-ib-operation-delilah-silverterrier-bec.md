@@ -1,20 +1,20 @@
 ---
 type: source
 title: "Group-IB: Operation Delilah — Interpol Nabs Suspected Leader of Transnational Phishing Ring"
-collection_url: "https://www.group-ib.com/media-center/press-releases/interpol-gib-delilah/"
-collection_domain: "group-ib.com"
-source_type: "press-release"
-publisher: "Group-IB"
-publish_date: "2022-05-25"
-ingest_date: "2026-04-08"
-enriched_date: "2026-04-10"
-language: "en"
-reliability: "medium-high"
-credibility: "probably-true"
-sensitivity: "public"
+collection_url: https://www.group-ib.com/media-center/press-releases/interpol-gib-delilah/
+collection_domain: group-ib.com
+source_type: press-release
+publisher: Group-IB
+publish_date: 2022-05-25
+ingest_date: 2026-04-08
+enriched_date: 2026-04-10
+language: en
+reliability: medium-high
+credibility: probably-true
+sensitivity: public
 source_tier: 2
 pages_updated:
-  - "operation-delilah"
+  - operation-delilah
 key_findings:
   - "Group-IB announced on or around 2022-05-25 that Operation Delilah — led by Interpol with intelligence support from Group-IB, Palo Alto Networks Unit 42, and Trend Micro — resulted in the arrest of a 37-year-old Nigerian man at Murtala Muhammed International Airport in Lagos in March 2022"
   - "The suspect is alleged to be a senior leader of the SilverTerrier cybercrime syndicate, which has operated BEC and mass-phishing campaigns since at least 2015"
@@ -26,10 +26,16 @@ created: 2026-04-08
 updated: 2026-04-10
 duplicate_of: "[[2022-01-01_group-ib-com_interpol-gib-delilah]]"
 duplicate_reason: same_collection_url
-duplicate_key: "https://www.group-ib.com/media-center/press-releases/interpol-gib-delilah/"
+duplicate_key: https://www.group-ib.com/media-center/press-releases/interpol-gib-delilah/
 duplicate_normalized_at: 2026-04-26
+raw_path: raw/press-releases/group-ib-operation-delilah-silverterrier-bec.md
+text_status: summarized
+storage_mode: summary-only
+content_hash: sha256:3a8347b0d4b72a3c041d22e7b07beafe404e70b8cc926988990d3863f1cb1608
+word_count: 381
+extraction_date: 2026-04-27
+copyright_policy: summary-only
 ---
-
 ## Source
 
 - **Publisher**: Group-IB

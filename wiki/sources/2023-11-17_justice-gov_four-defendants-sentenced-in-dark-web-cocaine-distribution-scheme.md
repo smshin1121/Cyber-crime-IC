@@ -14,13 +14,18 @@ sensitivity: public
 pages_updated:
   - operation-us-v-fatukala-cocaine-dark-web
 key_findings:
-  - "This domestic-only U.S. follow-on record has been absorbed into the canonical case page [[us-v-fatukala-cocaine-dark-web]]. No visible cross-border mechanism is documented, so it is not treated as a separate international-cooperation operation."
+  - "This domestic-only U.S. follow-on record has been absorbed into the canonical case page us-v-fatukala-cocaine-dark-web. No visible cross-border mechanism is documented, so it is not treated as a separate international-cooperation operation."
 collection_url: https://www.justice.gov/usao-edca/pr/four-defendants-sentenced-dark-web-cocaine-distribution-scheme
 created: 2026-04-17
 duplicate_of: "[[2023-11-17_edca_fatukala-yamamoto-mina-hollis-dark-web-sentencing]]"
 duplicate_reason: same_collection_url
-duplicate_key: "https://www.justice.gov/usao-edca/pr/four-defendants-sentenced-dark-web-cocaine-distribution-scheme"
+duplicate_key: https://www.justice.gov/usao-edca/pr/four-defendants-sentenced-dark-web-cocaine-distribution-scheme
 duplicate_normalized_at: 2026-04-26
+text_status: source-digest
+storage_mode: source-digest
+content_hash: sha256:4a7d5027b403519278fa35df4086f2a1bda5de1a6766363c160c5d7d2e596d39
+word_count: 157
+extraction_date: 2026-04-28
 ---
 ## Source Summary
 

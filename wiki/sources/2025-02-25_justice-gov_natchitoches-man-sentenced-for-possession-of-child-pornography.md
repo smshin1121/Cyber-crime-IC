@@ -14,7 +14,7 @@ sensitivity: public
 pages_updated:
   - operation-natchitoches-man-sentenced-for-possession-of-child-pornography
 key_findings:
-  - "This domestic-only U.S. follow-on record has been absorbed into the canonical case page [[natchitoches-man-sentenced-for-possession-of-child-pornography]]. No visible cross-border mechanism is documented, so it is not treated as a separate international-cooperation operation."
+  - "This domestic-only U.S. follow-on record has been absorbed into the canonical case page natchitoches-man-sentenced-for-possession-of-child-pornography. No visible cross-border mechanism is documented, so it is not treated as a separate international-cooperation operation."
 collection_url: https://www.justice.gov/usao-wdla/pr/natchitoches-man-sentenced-possession-child-pornography
 created: 2026-04-17
 text_status: parsed

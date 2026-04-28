@@ -3,7 +3,7 @@ type: source
 title: "Huntsville man nabbed in worldwide child porn takedown pleads guilty"
 source_type: news
 publisher: "WAFF (Huntsville)"
-author: "Staff"
+author: Staff
 publish_date: 2019-11-14
 ingest_date: 2026-04-25
 language: en
@@ -18,6 +18,8 @@ key_findings:
   - "Identifies Welcome To Video operator Jong Woo Son arrested in South Korea, March 2018"
 collection_url: https://www.waff.com/2019/11/14/huntsville-man-nabbed-worldwide-child-porn-takedown-pleads-guilty/
 created: 2026-04-25
+raw_path: raw/news/2019-11-14_waff_huntsville-man-nabbed-worldwide-child-porn-takedown-pleads-guilty.md
+copyright_policy: summary-only
 ---
 ## Source Summary
 

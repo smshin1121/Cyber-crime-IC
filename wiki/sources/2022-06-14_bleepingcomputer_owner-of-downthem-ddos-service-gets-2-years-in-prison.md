@@ -2,7 +2,7 @@
 type: source
 title: "Owner of 'DownThem' DDoS service gets 2 years in prison"
 source_type: news
-publisher: "BleepingComputer"
+publisher: BleepingComputer
 author: "Bill Toulas"
 publish_date: 2022-06-14
 ingest_date: 2026-04-25
@@ -19,8 +19,10 @@ collection_url: https://www.bleepingcomputer.com/news/security/owner-of-downthem
 created: 2026-04-25
 duplicate_of: "[[2022-06-13_bleepingcomputer_owner-downthem-ddos-service-2-years-prison]]"
 duplicate_reason: same_collection_url
-duplicate_key: "https://www.bleepingcomputer.com/news/security/owner-of-downthem-ddos-service-gets-2-years-in-prison/"
+duplicate_key: https://www.bleepingcomputer.com/news/security/owner-of-downthem-ddos-service-gets-2-years-in-prison/
 duplicate_normalized_at: 2026-04-26
+raw_path: raw/news/2022-06-14_bleepingcomputer_owner-of-downthem-ddos-service-gets-2-years-in-prison.md
+copyright_policy: summary-only
 ---
 ## Source Summary
 

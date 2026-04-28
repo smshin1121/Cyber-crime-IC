@@ -2,7 +2,7 @@
 type: source
 title: "Romanian Hacker Pleads Guilty to Selling Access to US State Network"
 source_type: news
-publisher: "SecurityWeek"
+publisher: SecurityWeek
 author: "Ionut Arghire"
 publish_date: 2026-02-20
 ingest_date: 2026-04-25
@@ -17,6 +17,8 @@ key_findings:
   - "Operated as initial access broker 'inthematrix1' targeting Oregon and other U.S. networks."
 collection_url: https://www.securityweek.com/romanian-hacker-pleads-guilty-to-selling-access-to-us-state-network/
 created: 2026-04-25
+raw_path: raw/news/2026-02-20_securityweek_romanian-hacker-pleads-guilty-selling-access-us-state-network.md
+copyright_policy: summary-only
 ---
 ## Source Summary
 

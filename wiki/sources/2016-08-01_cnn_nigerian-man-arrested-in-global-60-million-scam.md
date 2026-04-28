@@ -12,11 +12,12 @@ reliability: medium
 credibility: reported
 sensitivity: public
 pages_updated:
-  []
+
 key_findings:
   - "CNN restated the joint INTERPOL-EFCC arrest and preserved the list of affected victim-country jurisdictions."
 collection_url: https://money.cnn.com/2016/08/01/news/companies/nigeria-scam-arrest/index.html
 created: 2026-04-23
+copyright_policy: summary-only
 ---
 ## Source Summary
 

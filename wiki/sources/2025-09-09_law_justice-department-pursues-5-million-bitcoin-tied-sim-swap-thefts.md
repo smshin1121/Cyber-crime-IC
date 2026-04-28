@@ -2,7 +2,7 @@
 type: source
 title: "Justice Department Pursues $5 Million in Bitcoin Tied to SIM-Swap Thefts"
 source_type: news
-publisher: "Law.com"
+publisher: Law.com
 author: Staff
 publish_date: 2025-09-09
 ingest_date: 2026-04-25

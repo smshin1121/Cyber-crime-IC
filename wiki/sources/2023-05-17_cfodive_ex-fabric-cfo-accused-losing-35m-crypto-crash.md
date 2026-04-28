@@ -16,6 +16,8 @@ key_findings:
   - "CFO industry trade press confirmation"
 collection_url: https://www.cfodive.com/news/ex-fabric-cfo-accused-losing-35m-crypto-crash-stablecoin/650683/
 created: 2026-04-25
+raw_path: raw/news/2023-05-17_cfodive_ex-fabric-cfo-accused-losing-35m-crypto-crash.md
+copyright_policy: summary-only
 ---
 ## Source Summary
 

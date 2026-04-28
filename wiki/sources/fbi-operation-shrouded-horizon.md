@@ -1,20 +1,20 @@
 ---
 type: source
 title: "FBI: Cyber Criminal Forum Taken Down (Operation Shrouded Horizon / Darkode)"
-collection_url: "https://www.fbi.gov/news/stories/cyber-criminal-forum-taken-down"
-collection_domain: "fbi.gov"
-source_type: "press-release"
-publisher: "FBI"
-publish_date: "2015-07-15"
-ingest_date: "2026-04-08"
-enriched_date: "2026-04-10"
-language: "en"
-reliability: "high"
-credibility: "confirmed"
-sensitivity: "public"
+collection_url: https://www.fbi.gov/news/stories/cyber-criminal-forum-taken-down
+collection_domain: fbi.gov
+source_type: press-release
+publisher: FBI
+publish_date: 2015-07-15
+ingest_date: 2026-04-08
+enriched_date: 2026-04-10
+language: en
+reliability: high
+credibility: confirmed
+sensitivity: public
 source_tier: 2
 pages_updated:
-  - "operation-shrouded-horizon"
+  - operation-shrouded-horizon
 key_findings:
   - "On 15 July 2015, the FBI's Pittsburgh Field Office (Western District of Pennsylvania) unsealed indictments and coordinated a global takedown of the Darkode cybercrime forum — codenamed Operation Shrouded Horizon — after an 18-month undercover investigation"
   - "International scope: 20 countries participated in the action day, described by the FBI as 'the largest-ever coordinated law enforcement effort directed at an online cyber criminal forum'. Law enforcement actions resulted in searches, arrests or equipment seizures against ~70 individuals globally"
@@ -26,10 +26,15 @@ created: 2026-04-08
 updated: 2026-04-10
 duplicate_of: "[[2015-07-15_fbi-gov_cyber-criminal-forum-taken-down]]"
 duplicate_reason: same_collection_url
-duplicate_key: "https://www.fbi.gov/news/stories/cyber-criminal-forum-taken-down"
+duplicate_key: https://www.fbi.gov/news/stories/cyber-criminal-forum-taken-down
 duplicate_normalized_at: 2026-04-26
+raw_path: raw/press-releases/fbi-operation-shrouded-horizon.md
+text_status: source-digest
+storage_mode: source-digest
+content_hash: sha256:824002c612d5c01785a9656a23270b71da545c13ee0e0dffa2d72e68666a67fc
+word_count: 388
+extraction_date: 2026-04-28
 ---
-
 > [!note] Original URL fetch blocked
 > The FBI.gov fetch returned HTTP 403 during enrichment. Content reconstructed from the FBI's parallel Pittsburgh Field Office press release, Wikipedia's well-cited "Operation Shrouded Horizon" article, and contemporaneous reporting by Dark Reading, NPR, Insurance Journal, and the Wired coverage stored separately. All reconstructed facts are corroborated by at least two independent sources.
 

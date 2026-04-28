@@ -13,8 +13,6 @@ credibility: confirmed
 sensitivity: public
 pages_updated:
 
-key_findings:
-  - "Secure .gov websites use HTTPS A lock ( Lock Locked padlock ) or https:// means you’ve safely connected to the .gov website. Share sensitive information only on official, secure websites."
 collection_url: https://www.justice.gov/usao-ndca/pr/sonoma-county-resident-sentenced-30-months-prison-passport-fraud-and-identity-theft
 created: 2026-04-18
 defendant_names:
@@ -22,8 +20,13 @@ defendant_names:
 updated: 2026-04-18
 duplicate_of: "[[2018-11-06_justice-gov_sonoma-county-resident-sentenced-to-30-months-in-prison-for-passport-fraud-and-i]]"
 duplicate_reason: same_collection_url
-duplicate_key: "https://www.justice.gov/usao-ndca/pr/sonoma-county-resident-sentenced-30-months-prison-passport-fraud-and-identity-theft"
+duplicate_key: https://www.justice.gov/usao-ndca/pr/sonoma-county-resident-sentenced-30-months-prison-passport-fraud-and-identity-theft
 duplicate_normalized_at: 2026-04-26
+text_status: source-digest
+storage_mode: source-digest
+content_hash: sha256:97ecc41adba21de7b0c32307517cc7299e94f7b6387c10c3261be5e9290641f8
+word_count: 111
+extraction_date: 2026-04-28
 ---
 ## Source Summary
 

@@ -17,6 +17,13 @@ key_findings:
   - "The article corroborated that investigators linked Arizona supply purchases and Seattle-area heroin sales to the same organization."
 collection_url: https://www.spokesman.com/stories/2016/aug/11/authorities-seattle-heroin-traffickers-indicted/
 created: 2026-04-25
+raw_path: raw/news/2016-08-11_spokesman_authorities-seattle-heroin-traffickers-indicted.md
+text_status: summarized
+storage_mode: summary-only
+content_hash: sha256:6c7f7c7320fc5c5501ef4d7965ea4dcc9238ac848e92049b1ecc53e653f5a195
+word_count: 154
+extraction_date: 2026-04-27
+copyright_policy: summary-only
 ---
 ## Source Summary
 

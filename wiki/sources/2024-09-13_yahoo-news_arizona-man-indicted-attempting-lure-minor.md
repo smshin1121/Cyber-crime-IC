@@ -3,7 +3,7 @@ type: source
 title: "Arizona man indicted for attempting to lure a minor who turned out to be an undercover agent: DOJ"
 source_type: news
 publisher: "Yahoo News"
-author: "Staff"
+author: Staff
 publish_date: 2024-09-13
 ingest_date: 2026-04-25
 language: en
@@ -17,6 +17,8 @@ key_findings:
   - "Confirms undercover persona facts."
 collection_url: https://www.yahoo.com/news/arizona-man-indicted-attempting-lure-224358366.html
 created: 2026-04-25
+raw_path: raw/news/2024-09-13_yahoo-news_arizona-man-indicted-attempting-lure-minor.md
+copyright_policy: summary-only
 ---
 ## Source Summary
 

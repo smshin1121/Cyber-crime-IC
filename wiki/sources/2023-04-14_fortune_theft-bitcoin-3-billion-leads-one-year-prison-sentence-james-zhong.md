@@ -13,7 +13,7 @@ sensitivity: public
 pages_updated:
   - operation-us-v-following-seizure-and-forfeiture-and-dark-web-fraud-defendant
 key_findings:
-  - 'Fortune confirms James Zhong''s 1-year-and-1-day sentence and quotes Zhong''s allocution: "I always knew what I did was wrong.'''
+  - "Fortune confirms James Zhong''s 1-year-and-1-day sentence and quotes Zhong''s allocution: \"I always knew what I did was wrong.''"
 collection_url: https://fortune.com/2023/04/14/bitcoin-thief-james-zhong-sentenced-to-prison/
 created: 2026-04-25
 raw_path: raw/news/2023-04-14_fortune_theft-bitcoin-3-billion-leads-one-year-prison-sentence-james-zhong.md

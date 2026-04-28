@@ -3,7 +3,7 @@ type: source
 title: "Florida pair sentenced for conspiracy to sell counterfeit Xanax on dark web"
 source_type: news
 publisher: "The Federal Newswire"
-author: "Staff"
+author: Staff
 publish_date: 2024-11-06
 ingest_date: 2026-04-25
 language: en
@@ -18,6 +18,8 @@ key_findings:
   - "Multi-defendant conspiracy with Basalyga, de Urena, Campbell"
 collection_url: https://thefederalnewswire.com/stories/676496575-florida-pair-sentenced-for-conspiracy-to-sell-counterfeit-xanax-on-dark-web
 created: 2026-04-25
+raw_path: raw/news/2024-11-06_federalnewswire_florida-pair-sentenced-conspiracy-counterfeit-xanax-dark-web.md
+copyright_policy: summary-only
 ---
 ## Source Summary
 

@@ -13,15 +13,18 @@ credibility: confirmed
 sensitivity: public
 pages_updated:
 
-key_findings:
-  - "Secure .gov websites use HTTPS A lock ( Lock Locked padlock ) or https:// means you’ve safely connected to the .gov website. Share sensitive information only on official, secure websites."
 collection_url: https://www.justice.gov/usao-edmo/pr/kirkwood-resident-pleads-guilty-identity-theft
 created: 2026-04-18
 updated: 2026-04-18
 duplicate_of: "[[2021-11-03_justice-gov_kirkwood-resident-pleads-guilty-for-identity-theft]]"
 duplicate_reason: same_collection_url
-duplicate_key: "https://www.justice.gov/usao-edmo/pr/kirkwood-resident-pleads-guilty-identity-theft"
+duplicate_key: https://www.justice.gov/usao-edmo/pr/kirkwood-resident-pleads-guilty-identity-theft
 duplicate_normalized_at: 2026-04-26
+text_status: source-digest
+storage_mode: source-digest
+content_hash: sha256:7200c3a8549e4649ffe64b0463f65f42cb8d8ad8609f95dad39721ffc3f406ec
+word_count: 102
+extraction_date: 2026-04-28
 ---
 ## Source Summary
 

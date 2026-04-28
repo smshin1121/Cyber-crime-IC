@@ -14,7 +14,7 @@ sensitivity: public
 pages_updated:
 
 key_findings:
-  - "In January 2019, the FBI, in cooperation with [[europol-ec3|Europol]] and Belgian and Ukrainian authorities, seized **xDedic**, a major online criminal marketplace that sold access to compromised computer servers worldwide. The marketplace had listed over **85,000 compromised servers** for sale and facilitated an estimated **$68 million** in fraud."
+  - "In January 2019, the FBI, in cooperation with Europol and Belgian and Ukrainian authorities, seized **xDedic**, a major online criminal marketplace that sold access to compromised computer servers worldwide. The marketplace had listed over **85,000 compromised servers** for sale and facilitated an estimated **$68 million** in fraud."
 collection_url: https://thehackernews.com/2019/01/cyber-criminal-marketplace.html
 created: 2026-04-17
 text_status: summarized

@@ -3,7 +3,7 @@ type: source
 title: "'Dark Web' Gun Smuggler From Atlanta Sentenced"
 source_type: news
 publisher: "Patch (Atlanta)"
-author: "Staff"
+author: Staff
 publish_date: 2018-04-18
 ingest_date: 2026-04-25
 language: en
@@ -17,6 +17,8 @@ key_findings:
   - "Confirms four-defendant structure and multinational shipping footprint."
 collection_url: https://patch.com/georgia/atlanta/dark-web-gun-smuggler-atlanta-sentenced
 created: 2026-04-25
+raw_path: raw/news/2018-04-18_patch_dark-web-gun-smuggler-atlanta-sentenced.md
+copyright_policy: summary-only
 ---
 ## Source Summary
 

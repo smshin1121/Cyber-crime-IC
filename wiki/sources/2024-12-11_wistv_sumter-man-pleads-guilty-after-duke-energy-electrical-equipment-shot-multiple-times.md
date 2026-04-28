@@ -2,8 +2,8 @@
 type: source
 title: "Sumter man pleads guilty after Duke Energy electrical equipment shot multiple times"
 source_type: news
-publisher: "WIS-TV"
-author: "Staff"
+publisher: WIS-TV
+author: Staff
 publish_date: 2024-12-11
 ingest_date: 2026-04-25
 language: en
@@ -17,6 +17,8 @@ key_findings:
   - "Columbia SC TV news coverage of the guilty plea"
 collection_url: https://www.wistv.com/2024/12/11/sumter-man-pleads-guilty-after-duke-energy-electrical-equipment-shot-multiple-times/
 created: 2026-04-25
+raw_path: raw/news/2024-12-11_wistv_sumter-man-pleads-guilty-after-duke-energy-electrical-equipment-shot-multiple-times.md
+copyright_policy: summary-only
 ---
 ## Source Summary
 

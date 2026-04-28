@@ -13,8 +13,6 @@ credibility: confirmed
 sensitivity: public
 pages_updated:
 
-key_findings:
-  - "Secure .gov websites use HTTPS A lock ( Lock Locked padlock ) or https:// means you’ve safely connected to the .gov website. Share sensitive information only on official, secure websites."
 collection_url: https://www.justice.gov/usao-edny/pr/queens-woman-charged-using-hitman-hire-website-dark-web-order-murder-her-lovers-wife
 created: 2026-04-18
 updated: 2026-04-18
@@ -23,8 +21,13 @@ defendant_names:
   - "Queens Woman"
 duplicate_of: "[[2024-07-08_justice-gov_queens-woman-charged-with-using-a-hitman-for-hire-website-on-the-dark-web-to-ord]]"
 duplicate_reason: same_collection_url
-duplicate_key: "https://www.justice.gov/usao-edny/pr/queens-woman-charged-using-hitman-hire-website-dark-web-order-murder-her-lovers-wife"
+duplicate_key: https://www.justice.gov/usao-edny/pr/queens-woman-charged-using-hitman-hire-website-dark-web-order-murder-her-lovers-wife
 duplicate_normalized_at: 2026-04-26
+text_status: source-digest
+storage_mode: source-digest
+content_hash: sha256:866599a93a96a9bfa070ec6e10c3735ebcb2cc1ca9fcf3296ae8c873719691ed
+word_count: 128
+extraction_date: 2026-04-28
 ---
 ## Source Summary
 

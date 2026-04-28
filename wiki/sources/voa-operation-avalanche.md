@@ -1,35 +1,41 @@
 ---
 type: source
 title: "VOA: Myanmar Rebel Offensive Helps China's Cybercrime Crackdown"
-collection_url: "https://www.voanews.com/a/myanmar-rebel-offensive-helps-china-s-cybercrime-crackdown/7362836.html"
-collection_domain: "voanews.com"
-source_type: "news"
+collection_url: https://www.voanews.com/a/myanmar-rebel-offensive-helps-china-s-cybercrime-crackdown/7362836.html
+collection_domain: voanews.com
+source_type: news
 publisher: "Voice of America"
-publish_date: "2023-11-20"
-ingest_date: "2026-04-08"
-enriched_date: "2026-04-10"
-language: "en"
-reliability: "medium-high"
-credibility: "probably-true"
-sensitivity: "public"
+publish_date: 2023-11-20
+ingest_date: 2026-04-08
+enriched_date: 2026-04-10
+language: en
+reliability: medium-high
+credibility: probably-true
+sensitivity: public
 source_tier: 3
 pages_updated:
-  - "myanmar-kokang-scam-compound-crackdown"
+  - myanmar-kokang-scam-compound-crackdown
 key_findings:
   - "VOA reported in November 2023 that 'Operation 1027' — a coordinated offensive by Myanmar ethnic rebel groups including the MNDAA — had disrupted Chinese-targeting cyber-scam compounds in the Kokang Self-Administrative Zone along the China-Myanmar border"
   - "The catalyst for Chinese support of 1027 was reportedly a mass killing of Chinese nationals at a scam center in Kokang in October 2023, carried out by local Border Guard Force (BGF) operatives as captives attempted to escape"
   - "As a direct result, thousands of Chinese nationals held captive at scam centers were released and returned to China; Myanmar subsequently handed over ~31,000 telecom scammers to China (per parallel OCCRP reporting)"
   - "The rebel offensive targeted BGF and pro-junta militias that had administered the Kokang SAZ since 2009; this is a highly unusual case where *insurgent military action* became a de-facto cybercrime takedown mechanism"
   - "IC significance: the Myanmar–China case illustrates that cybercrime 'cooperation' can happen outside formal LE channels entirely — via authoritarian security-service coordination with armed non-state actors — challenging standard IC frameworks"
-  - "URL/operation mismatch: this source is filed under [[operation-avalanche]] but reports on the Myanmar/Kokang scam-compound crackdown. A new `myanmar-kokang-scam-compound-crackdown` page should be created"
+  - "URL/operation mismatch: this source is filed under operation-avalanche but reports on the Myanmar/Kokang scam-compound crackdown. A new myanmar-kokang-scam-compound-crackdown page should be created"
 created: 2026-04-08
 updated: 2026-04-10
 duplicate_of: "[[2023-11-20_voanews-com_myanmar-rebel-offensive-helps-china-s-cybercrime-crackdown]]"
 duplicate_reason: same_collection_url
-duplicate_key: "https://www.voanews.com/a/myanmar-rebel-offensive-helps-china-s-cybercrime-crackdown/7362836.html"
+duplicate_key: https://www.voanews.com/a/myanmar-rebel-offensive-helps-china-s-cybercrime-crackdown/7362836.html
 duplicate_normalized_at: 2026-04-26
+raw_path: raw/news/voa-operation-avalanche.md
+text_status: summarized
+storage_mode: summary-only
+content_hash: sha256:131ae0ac046b63b137be7987e0572ea2e181223f5f3998cf2b58ec62589952fc
+word_count: 376
+extraction_date: 2026-04-27
+copyright_policy: summary-only
 ---
-
 ## Source
 
 - **Publisher**: Voice of America (VOA)

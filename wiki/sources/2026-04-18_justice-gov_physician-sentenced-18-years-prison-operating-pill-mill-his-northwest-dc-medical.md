@@ -13,15 +13,18 @@ credibility: confirmed
 sensitivity: public
 pages_updated:
 
-key_findings:
-  - "Secure .gov websites use HTTPS A lock ( Lock Locked padlock ) or https:// means you’ve safely connected to the .gov website. Share sensitive information only on official, secure websites."
 collection_url: https://www.justice.gov/usao-dc/pr/physician-sentenced-18-years-prison-operating-pill-mill-his-northwest-dc-medical
 created: 2026-04-18
 updated: 2026-04-18
 duplicate_of: "[[2025-06-26_justice-gov_physician-sentenced-to-18-years-in-prison-for-operating-a-pill-mill-from-his-nor]]"
 duplicate_reason: same_collection_url
-duplicate_key: "https://www.justice.gov/usao-dc/pr/physician-sentenced-18-years-prison-operating-pill-mill-his-northwest-dc-medical"
+duplicate_key: https://www.justice.gov/usao-dc/pr/physician-sentenced-18-years-prison-operating-pill-mill-his-northwest-dc-medical
 duplicate_normalized_at: 2026-04-26
+text_status: source-digest
+storage_mode: source-digest
+content_hash: sha256:8c0bfd6b3e51e8a9c111854f369880a786b26305a9308cf90d92083cc16c7771
+word_count: 135
+extraction_date: 2026-04-28
 ---
 ## Source Summary
 

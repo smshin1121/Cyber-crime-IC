@@ -3,7 +3,7 @@ type: source
 title: "Patrick Mayberry on April gets 17-year prison sentence"
 source_type: news
 publisher: "Leader Publications"
-author: "Staff"
+author: Staff
 publish_date: 2025-04-04
 ingest_date: 2026-04-25
 language: en
@@ -16,6 +16,8 @@ key_findings:
   - "Local newspaper confirmation of Mayberry's 17-year sentence"
 collection_url: https://www.myleaderpaper.com/news/police_fire/mayberry-gets-17-year-prison-sentence-for-selling-child-porn/article_075aa546-e61b-4390-bb3c-673970f3a060.html
 created: 2026-04-25
+raw_path: raw/news/2025-04-04_myleaderpaper_mayberry-gets-17-year-prison-sentence-for-selling-child-porn.md
+copyright_policy: summary-only
 ---
 ## Source Summary
 

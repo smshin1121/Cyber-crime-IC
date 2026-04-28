@@ -3,7 +3,7 @@ type: source
 title: "Patrick Mayberry faces federal child porn charge"
 source_type: news
 publisher: "Leader Publications"
-author: "Staff"
+author: Staff
 publish_date: 2023-12-15
 ingest_date: 2026-04-25
 language: en
@@ -16,6 +16,8 @@ key_findings:
   - "Local Jefferson County newspaper confirmation of Mayberry charges"
 collection_url: https://www.myleaderpaper.com/patrick-mayberry-faces-federal-child-pornography-charge/article_500acdf0-9912-11ee-bb03-6b30be23aa3a.html
 created: 2026-04-25
+raw_path: raw/news/2023-12-15_myleaderpaper_patrick-mayberry-faces-federal-child-pornography-charge.md
+copyright_policy: summary-only
 ---
 ## Source Summary
 

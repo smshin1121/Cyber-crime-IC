@@ -13,8 +13,6 @@ credibility: confirmed
 sensitivity: public
 pages_updated:
 
-key_findings:
-  - "Secure .gov websites use HTTPS A lock ( Lock Locked padlock ) or https:// means you’ve safely connected to the .gov website. Share sensitive information only on official, secure websites."
 collection_url: https://www.justice.gov/usao-edca/pr/southern-california-woman-pleads-guilty-fentanyl-distribution-and-money-laundering
 created: 2026-04-18
 defendant_names:
@@ -23,8 +21,13 @@ defendant_names:
 updated: 2026-04-18
 duplicate_of: "[[2024-06-18_justice-gov_southern-california-woman-pleads-guilty-to-fentanyl-distribution-and-money-laund]]"
 duplicate_reason: same_collection_url
-duplicate_key: "https://www.justice.gov/usao-edca/pr/southern-california-woman-pleads-guilty-fentanyl-distribution-and-money-laundering"
+duplicate_key: https://www.justice.gov/usao-edca/pr/southern-california-woman-pleads-guilty-fentanyl-distribution-and-money-laundering
 duplicate_normalized_at: 2026-04-26
+text_status: source-digest
+storage_mode: source-digest
+content_hash: sha256:373e549741026d2cbf3406e47a36d930107e39fce60f134069bef52b85802f8c
+word_count: 110
+extraction_date: 2026-04-28
 ---
 ## Source Summary
 

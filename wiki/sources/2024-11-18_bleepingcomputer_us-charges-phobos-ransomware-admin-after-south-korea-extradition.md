@@ -2,7 +2,7 @@
 type: source
 title: "US charges Phobos ransomware admin after South Korea extradition"
 source_type: news
-publisher: "BleepingComputer"
+publisher: BleepingComputer
 author: "Sergiu Gatlan"
 publish_date: 2024-11-18
 ingest_date: 2026-04-25
@@ -17,6 +17,8 @@ key_findings:
   - "13-count indictment for administering Phobos ransomware-as-a-service; victims include 1,000+ organizations and >$16M in extorted payments"
 collection_url: https://www.bleepingcomputer.com/news/security/us-charges-phobos-ransomware-admin-after-south-korea-extradition/
 created: 2026-04-25
+raw_path: raw/news/2024-11-18_bleepingcomputer_us-charges-phobos-ransomware-admin-after-south-korea-extradition.md
+copyright_policy: summary-only
 ---
 ## Source Summary
 

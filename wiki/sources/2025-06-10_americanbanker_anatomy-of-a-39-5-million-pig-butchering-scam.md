@@ -3,7 +3,7 @@ type: source
 title: "Anatomy of a $39.5 million pig butchering scam"
 raw_path: raw/news/2025-06-10_americanbanker_anatomy-of-a-39-5-million-pig-butchering-scam.md
 source_type: news
-publisher: American Banker
+publisher: "American Banker"
 author: ""
 publish_date: 2025-06-10
 ingest_date: 2026-04-25
@@ -19,6 +19,7 @@ key_findings:
   - "Five guilty pleas including Shengsheng He, Joseph Wong, Yicheng Zhang, Jose Somarriba, Jingliang Su."
 collection_url: https://www.americanbanker.com/news/anatomy-of-a-39-5-million-pig-butchering-scam
 created: 2026-04-25
+copyright_policy: summary-only
 ---
 ## Source Summary
 

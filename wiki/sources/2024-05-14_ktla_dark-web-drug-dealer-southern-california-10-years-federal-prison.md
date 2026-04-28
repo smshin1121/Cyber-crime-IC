@@ -2,8 +2,8 @@
 type: source
 title: "Dark-web drug dealer in Southern California gets 10 years in federal prison"
 source_type: news
-publisher: "KTLA"
-author: "Staff"
+publisher: KTLA
+author: Staff
 publish_date: 2024-05-14
 ingest_date: 2026-04-25
 language: en
@@ -17,6 +17,8 @@ key_findings:
   - "Drug operation distributed methamphetamine and MDMA domestically and internationally"
 collection_url: https://ktla.com/news/local-news/dark-web-drug-dealer-in-southern-california-gets-10-years-in-federal-prison/
 created: 2026-04-25
+raw_path: raw/news/2024-05-14_ktla_dark-web-drug-dealer-southern-california-10-years-federal-prison.md
+copyright_policy: summary-only
 ---
 ## Source Summary
 

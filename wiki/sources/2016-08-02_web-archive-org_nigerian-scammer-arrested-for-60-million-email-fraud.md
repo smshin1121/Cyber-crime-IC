@@ -12,11 +12,12 @@ reliability: medium
 credibility: confirmed
 sensitivity: public
 pages_updated:
-  []
+
 key_findings:
   - "In August 2016, a Nigerian national was arrested for an email fraud scheme that caused approximately **$60 million** in losses through Business Email Compromise (BEC) scams. The arrest involved international cooperation, *likely* including INTERPOL coordination with Nigerian law enforcement."
 collection_url: http://web.archive.org/web/20251107193750/https://news.sophos.com/en-us/2016/08/02/nigerian-scammer-arrested-for-60-million-email-fraud/
 created: 2026-04-17
+copyright_policy: summary-only
 ---
 ## Source Summary
 

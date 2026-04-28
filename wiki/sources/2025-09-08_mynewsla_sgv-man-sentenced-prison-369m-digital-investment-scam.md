@@ -2,8 +2,8 @@
 type: source
 title: "Judge Sentences SGV Man for $36.9M Digital Investment Scam"
 source_type: news
-publisher: "MyNewsLA"
-author: "Staff"
+publisher: MyNewsLA
+author: Staff
 publish_date: 2025-09-08
 ingest_date: 2026-04-25
 language: en
@@ -16,6 +16,8 @@ key_findings:
   - "Eight co-conspirators pleaded guilty in connection with the broader Cambodia-based scam network."
 collection_url: https://mynewsla.com/crime/2025/09/08/sgv-man-sentenced-to-prison-for-role-in-36-9m-digital-investment-scam/
 created: 2026-04-25
+raw_path: raw/news/2025-09-08_mynewsla_sgv-man-sentenced-prison-369m-digital-investment-scam.md
+copyright_policy: summary-only
 ---
 ## Source Summary
 

@@ -3,7 +3,7 @@ type: source
 title: "Mississippi man pleads guilty to creating, sharing child explicit images"
 source_type: news
 publisher: "The Beat of the Capital (Mississippi)"
-author: "Staff"
+author: Staff
 publish_date: 2025-04-19
 ingest_date: 2026-04-25
 language: en
@@ -19,8 +19,10 @@ collection_url: https://thebeatofthecapital.com/2025/04/19/mississippi-man-plead
 created: 2026-04-25
 duplicate_of: "[[2025-04-19_thebeatofthecapital_mississippi-man-pleads-guilty-creating-sharing-child-explicit-images]]"
 duplicate_reason: same_collection_url
-duplicate_key: "https://thebeatofthecapital.com/2025/04/19/mississippi-man-pleads-guilty-to-creating-sharing-child-explicit-images/"
+duplicate_key: https://thebeatofthecapital.com/2025/04/19/mississippi-man-pleads-guilty-to-creating-sharing-child-explicit-images/
 duplicate_normalized_at: 2026-04-26
+raw_path: raw/news/2025-04-19_thebeatofthecapital_mississippi-man-pleads-guilty-creating-sharing-explicit-images.md
+copyright_policy: summary-only
 ---
 ## Source Summary
 

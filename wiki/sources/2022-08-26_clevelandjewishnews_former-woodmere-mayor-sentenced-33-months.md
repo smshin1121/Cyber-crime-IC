@@ -17,6 +17,8 @@ key_findings:
   - "Local Cleveland Jewish News coverage of the Smith sentencing."
 collection_url: https://www.clevelandjewishnews.com/news/local_news/former-woodmere-mayor-sentenced-to-33-months-in-prison/article_d73d72e0-27bd-11ed-8a73-573289e5eef4.html
 created: 2026-04-25
+raw_path: raw/news/2022-08-26_clevelandjewishnews_former-woodmere-mayor-sentenced-33-months.md
+copyright_policy: summary-only
 ---
 ## Source Summary
 

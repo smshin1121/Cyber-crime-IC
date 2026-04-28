@@ -1,24 +1,24 @@
 ---
 type: source
 title: "FBI: International Cyber Sweep Nets DDoS Attackers (Operation Tarpit)"
-collection_url: "https://www.fbi.gov/news/stories/international-cyber-sweep-nets-ddos-attackers"
-collection_domain: "fbi.gov"
-source_type: "press-release"
-publisher: "FBI"
+collection_url: https://www.fbi.gov/news/stories/international-cyber-sweep-nets-ddos-attackers
+collection_domain: fbi.gov
+source_type: press-release
+publisher: FBI
 author: "FBI Office of Public Affairs"
-publish_date: "2016-12-12"
-ingest_date: "2026-04-08"
-enriched_date: "2026-04-10"
-language: "en"
-reliability: "high"
-credibility: "confirmed"
-sensitivity: "public"
+publish_date: 2016-12-12
+ingest_date: 2026-04-08
+enriched_date: 2026-04-10
+language: en
+reliability: high
+credibility: confirmed
+sensitivity: public
 source_tier: 2
 pages_updated:
-  - "ddos-for-hire-sweep-2016"
-  - "fbi"
-  - "europol-ec3"
-  - "united-states"
+  - ddos-for-hire-sweep-2016
+  - fbi
+  - europol-ec3
+  - united-states
 key_findings:
   - "Multi-country law enforcement operation codenamed 'Operation Tarpit' conducted 5-9 December 2016, coordinated from The Hague by Europol EC3 with participation from 13 countries"
   - "Operation resulted in 34 arrests and 101 interviews/cautions ('knock-and-talk') of individuals who had purchased DDoS-for-hire (booter/stresser) services to attack websites and servers"
@@ -31,10 +31,15 @@ created: 2026-04-08
 updated: 2026-04-10
 duplicate_of: "[[2016-12-09_fbi-gov_international-cyber-sweep-nets-ddos-attackers]]"
 duplicate_reason: same_collection_url
-duplicate_key: "https://www.fbi.gov/news/stories/international-cyber-sweep-nets-ddos-attackers"
+duplicate_key: https://www.fbi.gov/news/stories/international-cyber-sweep-nets-ddos-attackers
 duplicate_normalized_at: 2026-04-26
+raw_path: raw/press-releases/fbi-international-ddos-for-hire-sweep.md
+text_status: source-digest
+storage_mode: source-digest
+content_hash: sha256:acb60e8e01719659aa4c6c14398a5161c7de02cbb41503f76b328ad55b88edad
+word_count: 366
+extraction_date: 2026-04-28
 ---
-
 > [!note] Original URL access blocked
 > The FBI news story page returned HTTP 403 on direct fetch. Facts in this summary are reconstructed from corroborating reporting by Krebs on Security, CyberScoop, and Europol's own press release covering the same 5-9 December 2016 operation. The FBI page exists and the URL is canonical.
 

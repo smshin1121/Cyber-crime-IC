@@ -1,36 +1,42 @@
 ---
 type: source
 title: "Wired: Silk Road 2.0 / Ulbricht Sentencing Coverage"
-collection_url: "https://www.wired.com/2015/05/silk-road-2/"
-collection_domain: "wired.com"
-source_type: "news"
-publisher: "Wired"
-publish_date: "2015-05-29"
-ingest_date: "2026-04-08"
-enriched_date: "2026-04-10"
-language: "en"
-reliability: "medium-high"
-credibility: "probably-true"
-sensitivity: "public"
+collection_url: https://www.wired.com/2015/05/silk-road-2/
+collection_domain: wired.com
+source_type: news
+publisher: Wired
+publish_date: 2015-05-29
+ingest_date: 2026-04-08
+enriched_date: 2026-04-10
+language: en
+reliability: medium-high
+credibility: probably-true
+sensitivity: public
 source_tier: 3
 pages_updated:
-  - "silk-road-takedown"
-  - "operation-onymous"
+  - silk-road-takedown
+  - operation-onymous
 key_findings:
-  - "URL-TOPIC MISMATCH: The stored Wired URL (wired.com/2015/05/silk-road-2/) is about the Silk Road dark-web marketplace (Ross Ulbricht sentencing era), not Operation Avalanche (November 2016). This source is incorrectly linked to [[operation-avalanche]] and should be reassigned"
+  - "URL-TOPIC MISMATCH: The stored Wired URL (wired.com/2015/05/silk-road-2/) is about the Silk Road dark-web marketplace (Ross Ulbricht sentencing era), not Operation Avalanche (November 2016). This source is incorrectly linked to operation-avalanche and should be reassigned"
   - "Actual URL content: A Wired article from May 2015 covering Silk Road and/or Silk Road 2.0 — most likely published around 29 May 2015 coinciding with Ross Ulbricht's sentencing to two concurrent life sentences + 40 years without parole in the Southern District of New York for creating and operating Silk Road"
   - "Silk Road context: Silk Road was the pioneering dark-web drug marketplace, shut down by the FBI in October 2013 with Ulbricht's arrest. Silk Road 2.0 launched the following month and was shut down in November 2014 via Operation Onymous (FBI, Europol, Eurojust) with the arrest of alleged operator Blake Benthall ('Defcon')"
   - "Note: Operation Onymous (November 2014) is frequently confused with Operation Avalanche (November 2016) — both are Europol-coordinated multi-country takedowns but target completely different criminal ecosystems (dark-web drug markets vs. phishing/malware botnet infrastructure)"
   - "Wired's 2015-05 Silk Road coverage would have focused on Ulbricht's sentencing aftermath, appeals filings, and retrospective analysis — no Operation Avalanche content, which would not exist until November 2016"
-  - "This source record is retained for traceability but should either be reassigned to a new dark-web marketplace operation page ([[silk-road-takedown]] or [[operation-onymous]]) or de-linked entirely"
+  - "This source record is retained for traceability but should either be reassigned to a new dark-web marketplace operation page (silk-road-takedown or operation-onymous) or de-linked entirely"
 created: 2026-04-08
 updated: 2026-04-10
 duplicate_of: "[[2015-05-29_wired-com_wired-silk-road-2-0-ulbricht-sentencing-coverage]]"
 duplicate_reason: same_collection_url
-duplicate_key: "https://www.wired.com/2015/05/silk-road-2/"
+duplicate_key: https://www.wired.com/2015/05/silk-road-2/
 duplicate_normalized_at: 2026-04-26
+raw_path: raw/news/wired-operation-avalanche.md
+text_status: summarized
+storage_mode: summary-only
+content_hash: sha256:1ac624bc9cba186dbdfd6c55ac04eadf74ed579c80054e5b569e9f89b78376a9
+word_count: 431
+extraction_date: 2026-04-27
+copyright_policy: summary-only
 ---
-
 > [!info] Mismatch resolved (2026-04-10)
 > Previously linked to [[operation-avalanche]]. Reassigned to [[silk-road-takedown]] and [[operation-onymous]] — the actual URL covers the Silk Road saga / Ulbricht sentencing (May 2015).
 

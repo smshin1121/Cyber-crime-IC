@@ -22,8 +22,14 @@ key_findings:
 created: 2026-04-18
 duplicate_of: "[[2026-04-17_europol-europa-eu_carbanak-cobalt-infographic]]"
 duplicate_reason: same_collection_url
-duplicate_key: "https://www.europol.europa.eu/cms/sites/default/files/documents/carbanakcobalt.pdf"
+duplicate_key: https://www.europol.europa.eu/cms/sites/default/files/documents/carbanakcobalt.pdf
 duplicate_normalized_at: 2026-04-26
+raw_path: raw/government-reports/2026-04-18_europol-europa-eu_carbanak-cobalt-infographic.md
+text_status: source-digest
+storage_mode: source-digest
+content_hash: sha256:e6972012ee593a877363f73102971493e7cd5fa16744a46d91e9e867e3bd68b4
+word_count: 156
+extraction_date: 2026-04-28
 ---
 ## Source Summary
 

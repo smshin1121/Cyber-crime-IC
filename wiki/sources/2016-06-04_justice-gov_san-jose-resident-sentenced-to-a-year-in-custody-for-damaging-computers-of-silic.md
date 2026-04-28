@@ -14,7 +14,7 @@ sensitivity: public
 pages_updated:
   - operation-san-jose-resident-sentenced-to-a-year-in-custody-for-damaging-computers-of-silicon-valley-company
 key_findings:
-  - "This domestic-only U.S. follow-on record has been absorbed into the canonical case page [[san-jose-resident-sentenced-to-a-year-in-custody-for-damaging-computers-of-silicon-valley-company]]. No visible cross-border mechanism is documented, so it is not treated as a separate international-cooperation operation."
+  - "This domestic-only U.S. follow-on record has been absorbed into the canonical case page san-jose-resident-sentenced-to-a-year-in-custody-for-damaging-computers-of-silicon-valley-company. No visible cross-border mechanism is documented, so it is not treated as a separate international-cooperation operation."
 collection_url: https://www.justice.gov/usao-ndca/pr/san-jose-resident-sentenced-year-custody-damaging-computers-silicon-valley-company
 created: 2026-04-17
 text_status: parsed

@@ -20,9 +20,9 @@ key_findings:
   - "CBS News reported on 2025-02-11 that the US Department of Justice charged two Russian nationals — Roman Berezhnoy, 33, and Egor Nikolaevich Glebov, 39 — for operating the Phobos ransomware-as-a-service"
   - "The article states the Phobos operation generated over USD 16 million in ransom payments and targeted hundreds of US entities including children's hospitals, healthcare providers, and educational institutions"
   - "Charges carry maximum penalties ranging from 5 to 20 years depending on the count; defendants were not in US custody at the time of unsealing"
-  - "This CBS article is about the Phobos/8Base crackdown, *not* the Hive ransomware takedown (which occurred in January 2023). The current wiki filename includes `hive` which is a misclassification — the article supports the [[phobos-8base-crackdown]] page, not [[hive-ransomware-takedown]]"
-  - 'Independent context: "the Phobos/8Base takedown was a multi-national effort involving the FBI, Europol, Japan, Thailand, the UK, and others; 8Base administrators were arrested in Thailand in February 2025 in a parallel action"'
-  - "Use this source as a Tier-3 news confirmation of the Phobos indictment; flag the wiki filename for rename to `cbs-news-phobos-ransomware-charges.md`"
+  - "This CBS article is about the Phobos/8Base crackdown, *not* the Hive ransomware takedown (which occurred in January 2023). The current wiki filename includes hive which is a misclassification — the article supports the phobos-8base-crackdown page, not hive-ransomware-takedown"
+  - "Independent context: \"the Phobos/8Base takedown was a multi-national effort involving the FBI, Europol, Japan, Thailand, the UK, and others; 8Base administrators were arrested in Thailand in February 2025 in a parallel action\""
+  - "Use this source as a Tier-3 news confirmation of the Phobos indictment; flag the wiki filename for rename to cbs-news-phobos-ransomware-charges.md"
 created: 2026-04-08
 updated: 2026-04-18
 defendant_names:

@@ -22,8 +22,13 @@ defendant_names:
 updated: 2026-04-18
 duplicate_of: "[[2023-10-17_justice-gov_district-man-sentenced-to-97-months-in-prison-for-soliciting-and-receiving-child]]"
 duplicate_reason: same_collection_url
-duplicate_key: "https://www.justice.gov/usao-dc/pr/district-man-sentenced-97-months-prison-soliciting-and-receiving-child-pornography"
+duplicate_key: https://www.justice.gov/usao-dc/pr/district-man-sentenced-97-months-prison-soliciting-and-receiving-child-pornography
 duplicate_normalized_at: 2026-04-26
+text_status: source-digest
+storage_mode: source-digest
+content_hash: sha256:65f3c956b42492056e30ecb172f5bf801f82a346b69e532d7031b85a33435f49
+word_count: 142
+extraction_date: 2026-04-28
 ---
 ## Source Summary
 

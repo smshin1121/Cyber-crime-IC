@@ -3,7 +3,7 @@ type: source
 title: "FBI Cracks Down on Alleged Child Predator from Coleman"
 source_type: news
 publisher: "South Plains Live"
-author: "Staff"
+author: Staff
 publish_date: 2024-12-03
 ingest_date: 2026-04-25
 language: en
@@ -17,6 +17,8 @@ key_findings:
   - "Tattoo identification linked dark web video imagery to a Twitter account registered to Driskill."
 collection_url: https://southplainslive.com/news/crime/2024-12-03/fbi-cracks-down-alleged-child-predator-coleman
 created: 2026-04-25
+raw_path: raw/news/2024-12-03_southplainslive_fbi-cracks-down-alleged-child-predator-coleman.md
+copyright_policy: summary-only
 ---
 ## Source Summary
 

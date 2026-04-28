@@ -2,7 +2,7 @@
 type: source
 title: "Downthem DDoS-for-Hire Boss Gets 2 Years in Prison"
 source_type: news
-publisher: "KrebsOnSecurity"
+publisher: KrebsOnSecurity
 author: "Brian Krebs"
 publish_date: 2022-06-13
 ingest_date: 2026-04-25
@@ -19,8 +19,10 @@ collection_url: https://krebsonsecurity.com/2022/06/downthem-ddos-for-hire-boss-
 created: 2026-04-25
 duplicate_of: "[[2022-06-13_krebsonsecurity_downthem-ddos-for-hire-boss-2-years-prison]]"
 duplicate_reason: same_collection_url
-duplicate_key: "https://krebsonsecurity.com/2022/06/downthem-ddos-for-hire-boss-gets-2-years-in-prison/"
+duplicate_key: https://krebsonsecurity.com/2022/06/downthem-ddos-for-hire-boss-gets-2-years-in-prison/
 duplicate_normalized_at: 2026-04-26
+raw_path: raw/news/2022-06-13_krebsonsecurity_downthem-ddos-for-hire-boss-gets-2-years-in-prison.md
+copyright_policy: summary-only
 ---
 ## Source Summary
 

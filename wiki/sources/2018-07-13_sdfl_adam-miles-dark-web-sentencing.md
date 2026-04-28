@@ -13,8 +13,6 @@ credibility: confirmed
 sensitivity: public
 pages_updated:
 
-key_findings:
-  - "Secure .gov websites use HTTPS A lock ( Lock Locked padlock ) or https:// means you’ve safely connected to the .gov website. Share sensitive information only on official, secure websites."
 collection_url: https://www.justice.gov/usao-sdfl/pr/dark-web-vendor-sentenced-108-months-prison-narcotics-trafficking-and-money-laundering
 created: 2026-04-17
 defendant_names:
@@ -22,8 +20,13 @@ defendant_names:
 updated: 2026-04-18
 duplicate_of: "[[2018-07-13_justice-gov_dark-web-vendor-sentenced-to-108-months-in-prison-for-narcotics-trafficking-and]]"
 duplicate_reason: same_collection_url
-duplicate_key: "https://www.justice.gov/usao-sdfl/pr/dark-web-vendor-sentenced-108-months-prison-narcotics-trafficking-and-money-laundering"
+duplicate_key: https://www.justice.gov/usao-sdfl/pr/dark-web-vendor-sentenced-108-months-prison-narcotics-trafficking-and-money-laundering
 duplicate_normalized_at: 2026-04-26
+text_status: source-digest
+storage_mode: source-digest
+content_hash: sha256:9ebafc20f65401e1c5eb56a364b53caad0e138e57704b59820581c2326971abe
+word_count: 148
+extraction_date: 2026-04-28
 ---
 ## Source Summary
 

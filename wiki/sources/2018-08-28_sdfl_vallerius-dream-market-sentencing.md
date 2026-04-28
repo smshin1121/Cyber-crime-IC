@@ -13,8 +13,6 @@ credibility: confirmed
 sensitivity: public
 pages_updated:
 
-key_findings:
-  - "Secure .gov websites use HTTPS A lock ( Lock Locked padlock ) or https:// means you’ve safely connected to the .gov website. Share sensitive information only on official, secure websites."
 collection_url: https://www.justice.gov/usao-sdfl/pr/dark-web-administrator-sentenced-20-years-prison-narcotics-trafficking-and-money
 created: 2026-04-17
 defendant_names:
@@ -22,8 +20,13 @@ defendant_names:
 updated: 2026-04-18
 duplicate_of: "[[2018-08-28_justice-gov_dark-web-administrator-sentenced-to-20-years-in-prison-for-narcotics-trafficking]]"
 duplicate_reason: same_collection_url
-duplicate_key: "https://www.justice.gov/usao-sdfl/pr/dark-web-administrator-sentenced-20-years-prison-narcotics-trafficking-and-money"
+duplicate_key: https://www.justice.gov/usao-sdfl/pr/dark-web-administrator-sentenced-20-years-prison-narcotics-trafficking-and-money
 duplicate_normalized_at: 2026-04-26
+text_status: source-digest
+storage_mode: source-digest
+content_hash: sha256:b0f5b5d7652040dc5424a4b33cdc01ad2689d55d71f7991e70862f323ad09e30
+word_count: 213
+extraction_date: 2026-04-28
 ---
 ## Source Summary
 

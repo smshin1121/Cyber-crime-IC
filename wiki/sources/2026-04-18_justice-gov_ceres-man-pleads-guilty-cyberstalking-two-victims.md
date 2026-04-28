@@ -13,8 +13,6 @@ credibility: confirmed
 sensitivity: public
 pages_updated:
 
-key_findings:
-  - "Secure .gov websites use HTTPS A lock ( Lock Locked padlock ) or https:// means you’ve safely connected to the .gov website. Share sensitive information only on official, secure websites."
 collection_url: https://www.justice.gov/usao-edca/pr/ceres-man-pleads-guilty-cyberstalking-two-victims
 created: 2026-04-18
 defendant_names:
@@ -22,8 +20,13 @@ defendant_names:
 updated: 2026-04-18
 duplicate_of: "[[2023-05-22_justice-gov_ceres-man-pleads-guilty-to-cyberstalking-two-victims]]"
 duplicate_reason: same_collection_url
-duplicate_key: "https://www.justice.gov/usao-edca/pr/ceres-man-pleads-guilty-cyberstalking-two-victims"
+duplicate_key: https://www.justice.gov/usao-edca/pr/ceres-man-pleads-guilty-cyberstalking-two-victims
 duplicate_normalized_at: 2026-04-26
+text_status: source-digest
+storage_mode: source-digest
+content_hash: sha256:af3088884d8c150a77477f2696c80bcdd584b55e5e6ea10bd02900cdeb47d1f2
+word_count: 108
+extraction_date: 2026-04-28
 ---
 ## Source Summary
 

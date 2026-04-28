@@ -2,8 +2,8 @@
 type: source
 title: "Washington man sentenced to prison after pleading guilty to federal cyberstalking charge"
 source_type: news
-publisher: "Observer-Reporter"
-author: "Staff"
+publisher: Observer-Reporter
+author: Staff
 publish_date: 2024-02-05
 ingest_date: 2026-04-25
 language: en
@@ -19,8 +19,10 @@ collection_url: https://www.observer-reporter.com/news/local-news/2024/feb/05/wa
 created: 2026-04-25
 duplicate_of: "[[2024-02-05_observer-reporter_washington-man-sentenced-to-prison-after-pleading-guilty-federal-cyberstalking]]"
 duplicate_reason: same_collection_url
-duplicate_key: "https://www.observer-reporter.com/news/local-news/2024/feb/05/washington-man-sentenced-to-prison-after-pleading-guilty-to-federal-cyberstalking-charge/"
+duplicate_key: https://www.observer-reporter.com/news/local-news/2024/feb/05/washington-man-sentenced-to-prison-after-pleading-guilty-to-federal-cyberstalking-charge/
 duplicate_normalized_at: 2026-04-26
+raw_path: raw/news/2024-02-05_observerreporter_washington-man-sentenced-to-prison-after-pleading-guilty-to-federal-cyberstalking-charge.md
+copyright_policy: summary-only
 ---
 ## Source Summary
 

@@ -2,8 +2,8 @@
 type: source
 title: "Louisville man pleads guilty to possession of child pornography"
 source_type: news
-publisher: "NNY360"
-author: "Staff"
+publisher: NNY360
+author: Staff
 publish_date: 2025-03-25
 ingest_date: 2026-04-25
 language: en
@@ -17,6 +17,8 @@ key_findings:
   - "Local North Country / Watertown NY police blotter coverage"
 collection_url: https://www.nny360.com/news/policeblotters/louisville-man-pleads-guilty-to-possession-of-child-pornography/article_a64f1c71-f1be-5fcf-9d65-b6b2bca1f218.html
 created: 2026-04-25
+raw_path: raw/news/2025-03-25_nny360_louisville-man-pleads-guilty-possession-child-pornography.md
+copyright_policy: summary-only
 ---
 ## Source Summary
 

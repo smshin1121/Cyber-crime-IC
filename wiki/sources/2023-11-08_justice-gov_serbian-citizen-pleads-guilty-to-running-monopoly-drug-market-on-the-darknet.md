@@ -14,7 +14,7 @@ sensitivity: public
 pages_updated:
   - operation-serbian-citizen-pleads-guilty-to-running-monopoly-drug-market-on-the-darknet
 key_findings:
-  - "This domestic-only U.S. follow-on record has been absorbed into the canonical case page [[serbian-citizen-pleads-guilty-to-running-monopoly-drug-market-on-the-darknet]]. No visible cross-border mechanism is documented, so it is not treated as a separate international-cooperation operation."
+  - "This domestic-only U.S. follow-on record has been absorbed into the canonical case page serbian-citizen-pleads-guilty-to-running-monopoly-drug-market-on-the-darknet. No visible cross-border mechanism is documented, so it is not treated as a separate international-cooperation operation."
 collection_url: https://www.justice.gov/usao-dc/pr/serbian-citizen-pleads-guilty-running-monopoly-drug-market-darknet
 created: 2026-04-17
 text_status: parsed

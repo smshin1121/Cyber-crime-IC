@@ -3,7 +3,7 @@ type: source
 title: "Aiken County man sentenced to serve 17 years for child sexual abuse materials case"
 source_type: news
 publisher: "Post and Courier (Aiken Standard)"
-author: "Staff"
+author: Staff
 publish_date: 2025-09-05
 ingest_date: 2026-04-25
 language: en
@@ -17,6 +17,8 @@ key_findings:
   - "Confirms 210 months sentence"
 collection_url: https://www.postandcourier.com/aikenstandard/aikenstandard/news/crime/aiken-feds-child-sexual-abuse-materials/article_04ec7703-d99d-49ad-bd62-d3be8a8cc88c.html
 created: 2026-04-25
+raw_path: raw/news/2025-09-05_postandcourier_aiken-county-man-sentenced-17-years-child-sexual-abuse-materials.md
+copyright_policy: summary-only
 ---
 ## Source Summary
 

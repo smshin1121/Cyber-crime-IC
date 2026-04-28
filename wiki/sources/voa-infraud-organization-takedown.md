@@ -1,21 +1,21 @@
 ---
 type: source
 title: "VOA: Thais Arrest Alleged Russian Cybercrime Market Operator"
-collection_url: "https://www.voanews.com/a/thais-arrest-alleged-russian-cybercrime-market-operator/4246130.html"
-collection_domain: "voanews.com"
-source_type: "news"
+collection_url: https://www.voanews.com/a/thais-arrest-alleged-russian-cybercrime-market-operator/4246130.html
+collection_domain: voanews.com
+source_type: news
 publisher: "Voice of America"
 author: ""
-publish_date: "2018-02-09"
-ingest_date: "2026-04-08"
-enriched_date: "2026-04-10"
-language: "en"
-reliability: "medium"
-credibility: "probably-true"
-sensitivity: "public"
+publish_date: 2018-02-09
+ingest_date: 2026-04-08
+enriched_date: 2026-04-10
+language: en
+reliability: medium
+credibility: probably-true
+sensitivity: public
 source_tier: 4
 pages_updated:
-  - "infraud-organization-takedown"
+  - infraud-organization-takedown
 key_findings:
   - "VOA reported on 9 February 2018 on the arrest of Sergey Medvedev, the alleged co-founder of the Infraud Organization, at his Bangkok apartment on 2 February 2018 at the request of US authorities"
   - "Medvedev (age 31 at time of arrest) was indicted by the US DOJ on 7 February 2018 in the District of Nevada along with 35 co-defendants; the indictment named Ukrainian Svyatoslav Bondarenko as the original founder and Medvedev as the 'owner and administrator' of the forum after Bondarenko went missing in 2015"
@@ -27,10 +27,16 @@ created: 2026-04-08
 updated: 2026-04-10
 duplicate_of: "[[2018-02-07_voanews-com_4246130]]"
 duplicate_reason: same_collection_url
-duplicate_key: "https://www.voanews.com/a/thais-arrest-alleged-russian-cybercrime-market-operator/4246130.html"
+duplicate_key: https://www.voanews.com/a/thais-arrest-alleged-russian-cybercrime-market-operator/4246130.html
 duplicate_normalized_at: 2026-04-26
+raw_path: raw/news/voa-infraud-organization-takedown.md
+text_status: summarized
+storage_mode: summary-only
+content_hash: sha256:724845c24beeba79397388514ca691050d61c5d1d45c5e4e33161738ab53a9f7
+word_count: 408
+extraction_date: 2026-04-27
+copyright_policy: summary-only
 ---
-
 > [!info] URL access
 > WebFetch to VOA returned HTTP 403. Key findings below are reconstructed from corroborating reports by Washington Times, CBS News, CyberScoop, South China Morning Post, Bangkok Post, and Khaosod English — all covering the same 2-9 February 2018 arrest sequence. Claims are mutually consistent and aligned with the DOJ indictment itself.
 

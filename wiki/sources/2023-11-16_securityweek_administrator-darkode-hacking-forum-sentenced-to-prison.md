@@ -2,7 +2,7 @@
 type: source
 title: "Administrator of Darkode Hacking Forum Sentenced to Prison"
 source_type: news
-publisher: "SecurityWeek"
+publisher: SecurityWeek
 author: "Eduard Kovacs"
 publish_date: 2023-11-16
 ingest_date: 2026-04-25
@@ -17,6 +17,8 @@ key_findings:
   - "30,000 stolen credit cards seized at residence."
 collection_url: https://www.securityweek.com/administrator-of-darkode-hacking-forum-sentenced-to-prison/
 created: 2026-04-25
+raw_path: raw/news/2023-11-16_securityweek_administrator-darkode-hacking-forum-sentenced-to-prison.md
+copyright_policy: summary-only
 ---
 ## Source Summary
 

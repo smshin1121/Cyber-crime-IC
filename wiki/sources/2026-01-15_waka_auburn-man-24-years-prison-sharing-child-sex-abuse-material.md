@@ -3,7 +3,7 @@ type: source
 title: "Auburn man to spend more than 24 years in prison for sharing child sex abuse material"
 source_type: news
 publisher: "WAKA 8 (CBS Selma/Montgomery)"
-author: "Staff"
+author: Staff
 publish_date: 2026-01-15
 ingest_date: 2026-04-25
 language: en
@@ -16,6 +16,8 @@ key_findings:
   - "WAKA 8 CBS Montgomery (MDAL home market) confirms Parker's 24-year sentence."
 collection_url: https://www.waka.com/2026/01/15/auburn-man-to-spend-more-than-24-years-in-prison-for-sharing-child-sex-abuse-material/
 created: 2026-04-25
+raw_path: raw/news/2026-01-15_waka_auburn-man-24-years-prison-sharing-child-sex-abuse-material.md
+copyright_policy: summary-only
 ---
 ## Source Summary
 

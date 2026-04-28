@@ -12,15 +12,20 @@ reliability: high
 credibility: confirmed
 sensitivity: public
 pages_updated:
-  []
+
 key_findings:
-  - "The European Judicial Cybercrime Network (EJCN) convened its 19th plenary meeting on 4 and 5 December 2025, as part of its ongoing efforts to strengthen cooperation and coordination in the fight against cybercrime. The meeting, hosted by Eurojust, brought together 62 experts from 26 countries to discuss critical topics, including cyberattacks on critical infrastructure, artificial intelligence, and data retention. *자동 수집됨. 파이프라인(`/ic-pipeline` 또는 `/ic-update`)을 실행하여 분류·평가·통합하세요.*"
+  - "The European Judicial Cybercrime Network (EJCN) convened its 19th plenary meeting on 4 and 5 December 2025, as part of its ongoing efforts to strengthen cooperation and coordination in the fight against cybercrime. The meeting, hosted by Eurojust, brought together 62 experts from 26 countries to discuss critical topics, including cyberattacks on critical infrastructure, artificial intelligence, and data retention. *자동 수집됨. 파이프라인(/ic-pipeline 또는 /ic-update)을 실행하여 분류·평가·통합하세요.*"
 collection_url: https://www.eurojust.europa.eu/news/european-judicial-cybercrime-network-strengthens-resolve-fight-digital-threats-19th-plenary
 created: 2026-04-17
 duplicate_of: "[[2025-12-05-eurojust-ejcn-19th-plenary]]"
 duplicate_reason: same_collection_url
-duplicate_key: "https://www.eurojust.europa.eu/news/european-judicial-cybercrime-network-strengthens-resolve-fight-digital-threats-19th-plenary"
+duplicate_key: https://www.eurojust.europa.eu/news/european-judicial-cybercrime-network-strengthens-resolve-fight-digital-threats-19th-plenary
 duplicate_normalized_at: 2026-04-26
+text_status: source-digest
+storage_mode: source-digest
+content_hash: sha256:dff38552760584002702cd118b4347b35c5b94b39b2f7e2ed28dca949c5b0534
+word_count: 250
+extraction_date: 2026-04-28
 ---
 ## Source Summary
 

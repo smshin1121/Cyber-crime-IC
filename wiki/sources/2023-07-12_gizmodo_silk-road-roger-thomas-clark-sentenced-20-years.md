@@ -2,7 +2,7 @@
 type: source
 title: "Silk Road Founder's Mentor Sentenced to 20 Years"
 source_type: news
-publisher: "Gizmodo"
+publisher: Gizmodo
 publish_date: 2023-07-12
 ingest_date: 2026-04-25
 language: en

@@ -3,7 +3,7 @@ type: source
 title: "Renton man sentenced to 13 years for trafficking buckets of meth and fentanyl"
 source_type: news
 publisher: "KOMO News"
-author: "Staff"
+author: Staff
 publish_date: 2025-02-20
 ingest_date: 2026-04-25
 language: en
@@ -17,6 +17,8 @@ key_findings:
   - "Confirms federal prosecution venue (US District Court in Tacoma) and Aryan prison gang connection"
 collection_url: https://komonews.com/news/local/renton-man-sentenced-to-13-years-for-trafficking-buckets-of-meth-and-fentanyl-drug-crime-cartel-prison-gang-investigation-dea-fbi-washington-seattle-gun-violence
 created: 2026-04-25
+raw_path: raw/news/2025-02-20_komonews_renton-man-sentenced-13-years-trafficking-buckets-meth-fentanyl.md
+copyright_policy: summary-only
 ---
 ## Source Summary
 

@@ -1,20 +1,20 @@
 ---
 type: source
 title: "Europol: Andromeda Botnet Dismantled in International Cyber Operation"
-collection_url: "https://www.europol.europa.eu/media-press/newsroom/news/andromeda-botnet-dismantled-in-international-cyber-operation"
-collection_domain: "europol.europa.eu"
-source_type: "press-release"
-publisher: "Europol"
-publish_date: "2017-12-04"
-ingest_date: "2026-04-08"
-enriched_date: "2026-04-10"
-language: "en"
-reliability: "high"
-credibility: "probably-true"
-sensitivity: "public"
+collection_url: https://www.europol.europa.eu/media-press/newsroom/news/andromeda-botnet-dismantled-in-international-cyber-operation
+collection_domain: europol.europa.eu
+source_type: press-release
+publisher: Europol
+publish_date: 2017-12-04
+ingest_date: 2026-04-08
+enriched_date: 2026-04-10
+language: en
+reliability: high
+credibility: probably-true
+sensitivity: public
 source_tier: 2
 pages_updated:
-  - "andromeda-botnet-takedown"
+  - andromeda-botnet-takedown
 key_findings:
   - "Europol announced on 2017-12-04 the dismantling of the Andromeda (a.k.a. Gamarue) botnet, characterised as one of the longest-running malware families in existence; coordinated law-enforcement action occurred on 2017-11-29"
   - "During a 48-hour sinkhole window, authorities captured ~2 million unique victim IP addresses from 223 countries; in the 6 months preceding the takedown Andromeda was detected or blocked on an average of over 1 million machines per month"
@@ -26,10 +26,15 @@ created: 2026-04-08
 updated: 2026-04-10
 duplicate_of: "[[2017-12-04_europol-europa-eu_andromeda-botnet-dismantled-in-international-cyber-operation]]"
 duplicate_reason: same_collection_url
-duplicate_key: "https://www.europol.europa.eu/media-press/newsroom/news/andromeda-botnet-dismantled-in-international-cyber-operation"
+duplicate_key: https://www.europol.europa.eu/media-press/newsroom/news/andromeda-botnet-dismantled-in-international-cyber-operation
 duplicate_normalized_at: 2026-04-26
+raw_path: raw/press-releases/europol-andromeda-botnet-dismantling.md
+text_status: source-digest
+storage_mode: source-digest
+content_hash: sha256:bd9ac4086158dc6f5419016a5e6459c6ff34c0c4cdb41ea78bc268dff9241a7f
+word_count: 336
+extraction_date: 2026-04-28
 ---
-
 ## Source
 
 - **Publisher**: Europol (European Union Agency for Law Enforcement Cooperation)

@@ -21,6 +21,13 @@ key_findings:
   - "The PDF provides the institutional legal basis and organizational continuity of the Postal Police cyber service."
   - "It is a strong current source for the service's mandate and administrative placement."
 created: 2026-04-18
+raw_path: raw/government-reports/2024-05-11_poliziadistato-it_servizio-polizia-postale-e-per-la-sicurezza-cibernetica-riferimenti-normativi.md
+text_status: summarized
+storage_mode: summary-only
+content_hash: sha256:24b66e54c26f3e28b1dff7f47401b1f9fa973521eb958d79bb06c3aeaab559e5
+word_count: 187
+extraction_date: 2026-04-27
+copyright_policy: summary-only
 ---
 ## Source Summary
 

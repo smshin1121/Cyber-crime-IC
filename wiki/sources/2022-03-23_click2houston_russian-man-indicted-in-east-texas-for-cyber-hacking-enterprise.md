@@ -3,7 +3,7 @@ type: source
 title: "Russian man indicted in East Texas for cyber hacking enterprise"
 source_type: news
 publisher: "Click2Houston (KPRC)"
-author: "Staff"
+author: Staff
 publish_date: 2022-03-23
 ingest_date: 2026-04-25
 language: en
@@ -17,6 +17,8 @@ key_findings:
   - "Confirms wire fraud, access device fraud, and aggravated identity theft charges."
 collection_url: https://www.click2houston.com/news/local/2022/03/23/russian-man-indicted-in-east-texas-for-cyber-hacking-enterprise/
 created: 2026-04-25
+raw_path: raw/news/2022-03-23_click2houston_russian-man-indicted-in-east-texas-for-cyber-hacking-enterprise.md
+copyright_policy: summary-only
 ---
 ## Source Summary
 

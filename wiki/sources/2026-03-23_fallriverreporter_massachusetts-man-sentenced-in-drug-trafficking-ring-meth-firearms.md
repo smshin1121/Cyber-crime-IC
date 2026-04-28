@@ -3,7 +3,7 @@ type: source
 title: "Massachusetts man sentenced in drug trafficking ring after 10 pounds of meth, four firearms seized"
 source_type: news
 publisher: "Fall River Reporter"
-author: "Staff"
+author: Staff
 publish_date: 2026-03-23
 ingest_date: 2026-04-25
 language: en
@@ -16,6 +16,8 @@ key_findings:
   - "Sentencing-stage independent press confirmation."
 collection_url: https://fallriverreporter.com/massachusetts-man-sentenced-in-drug-trafficking-ring-after-10-pounds-of-meth-four-firearms-seized/
 created: 2026-04-25
+raw_path: raw/news/2026-03-23_fallriverreporter_massachusetts-man-sentenced-in-drug-trafficking-ring-meth-firearms.md
+copyright_policy: summary-only
 ---
 ## Source Summary
 

@@ -14,7 +14,7 @@ sensitivity: public
 pages_updated:
   - operation-two-arrested-for-alleged-conspiracy-to-launder-4-5-billion-in-stolen-cryptocurrency
 key_findings:
-  - "This domestic-only U.S. follow-on record has been absorbed into the canonical case page [[two-arrested-for-alleged-conspiracy-to-launder-4-5-billion-in-stolen-cryptocurrency]]. No visible cross-border mechanism is documented, so it is not treated as a separate international-cooperation operation."
+  - "This domestic-only U.S. follow-on record has been absorbed into the canonical case page two-arrested-for-alleged-conspiracy-to-launder-4-5-billion-in-stolen-cryptocurrency. No visible cross-border mechanism is documented, so it is not treated as a separate international-cooperation operation."
 collection_url: https://www.justice.gov/usao-dc/pr/two-arrested-alleged-conspiracy-launder-45-billion-stolen-cryptocurrency
 created: 2026-04-17
 text_status: parsed

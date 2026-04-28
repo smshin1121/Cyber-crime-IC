@@ -2,7 +2,7 @@
 type: source
 title: "Jordanian Admits in US Court to Selling Access to 50 Enterprise Networks"
 source_type: news
-publisher: "SecurityWeek"
+publisher: SecurityWeek
 author: "Ionut Arghire"
 publish_date: 2026-01-19
 ingest_date: 2026-04-25
@@ -18,6 +18,8 @@ key_findings:
   - "Confirms Georgia extradition and undercover law-enforcement cryptocurrency purchase"
 collection_url: https://www.securityweek.com/jordanian-admits-in-us-court-to-selling-access-to-50-enterprise-networks/
 created: 2026-04-25
+raw_path: raw/news/2026-01-19_securityweek_jordanian-admits-us-court-selling-access-50-enterprise-networks.md
+copyright_policy: summary-only
 ---
 ## Source Summary
 

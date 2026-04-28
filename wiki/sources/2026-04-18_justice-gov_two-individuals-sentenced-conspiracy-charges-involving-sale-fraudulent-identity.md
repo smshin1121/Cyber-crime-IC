@@ -22,8 +22,13 @@ defendant_names:
 updated: 2026-04-18
 duplicate_of: "[[2022-04-05_justice-gov_two-individuals-sentenced-conspiracy-charges-fraudulent-identity-documents]]"
 duplicate_reason: same_collection_url
-duplicate_key: "https://www.justice.gov/usao-edca/pr/two-individuals-sentenced-conspiracy-charges-involving-sale-fraudulent-identity"
+duplicate_key: https://www.justice.gov/usao-edca/pr/two-individuals-sentenced-conspiracy-charges-involving-sale-fraudulent-identity
 duplicate_normalized_at: 2026-04-26
+text_status: source-digest
+storage_mode: source-digest
+content_hash: sha256:95987a59e9983c32544ccf1302c8345377cf91a3d226c33b9f6d67b101e988a6
+word_count: 127
+extraction_date: 2026-04-28
 ---
 ## Source Summary
 

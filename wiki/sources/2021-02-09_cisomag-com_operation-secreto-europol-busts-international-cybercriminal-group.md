@@ -17,6 +17,7 @@ key_findings:
   - "This page captures the public enforcement results of **Operation Secreto**, a Europol-coordinated and U.S. Secret Service-supported action against a fraud and money laundering network that targeted U.S.-based banks through shell companies, payment-card abuse, and cross-border laundering channels."
 collection_url: https://cisomag.com/operation-secreto-europol-busts-international-cybercriminal-group/
 created: 2026-04-17
+copyright_policy: summary-only
 ---
 ## Source Summary
 

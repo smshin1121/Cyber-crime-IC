@@ -13,15 +13,18 @@ credibility: confirmed
 sensitivity: public
 pages_updated:
 
-key_findings:
-  - "Secure .gov websites use HTTPS A lock ( Lock Locked padlock ) or https:// means you’ve safely connected to the .gov website. Share sensitive information only on official, secure websites."
 collection_url: https://www.justice.gov/usao-wdwa/pr/three-mexican-nationals-arrested-14-kilograms-crystal-methamphetamine
 created: 2026-04-18
 updated: 2026-04-18
 duplicate_of: "[[2025-02-04_justice-gov_three-mexican-nationals-arrested-with-14-kilograms-of-crystal-methamphetamine]]"
 duplicate_reason: same_collection_url
-duplicate_key: "https://www.justice.gov/usao-wdwa/pr/three-mexican-nationals-arrested-14-kilograms-crystal-methamphetamine"
+duplicate_key: https://www.justice.gov/usao-wdwa/pr/three-mexican-nationals-arrested-14-kilograms-crystal-methamphetamine
 duplicate_normalized_at: 2026-04-26
+text_status: source-digest
+storage_mode: source-digest
+content_hash: sha256:5a64a3867740e57ac559d7fb77698ccfc67da804ea77de50ee423dc71356f3e5
+word_count: 105
+extraction_date: 2026-04-28
 ---
 ## Source Summary
 

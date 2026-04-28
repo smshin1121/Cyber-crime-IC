@@ -1,10 +1,10 @@
 ---
 type: source
 title: "Cybercrime Bundeslagebild 2021 - CyberBunker section"
-collection_url: https://www.bka.de/SharedDocs/Downloads/DE/Publikationen/JahresberichteUndLagebilder/Cybercrime/cybercrimeBundeslagebild2021.pdf?__blob=publicationFile&v=6
+collection_url: "https://www.bka.de/SharedDocs/Downloads/DE/Publikationen/JahresberichteUndLagebilder/Cybercrime/cybercrimeBundeslagebild2021.pdf?__blob=publicationFile&v=6"
 collection_domain: bka.de
 source_type: government-report
-publisher: "Bundeskriminalamt"
+publisher: Bundeskriminalamt
 author: ""
 publish_date: 2021-01-01
 ingest_date: 2026-04-18
@@ -25,6 +25,13 @@ duplicate_of: "[[2021-01-01_bka-de_cybercrime-bundeslagebild-2021-cyberbunker-se
 duplicate_reason: same_collection_url
 duplicate_key: "https://www.bka.de/SharedDocs/Downloads/DE/Publikationen/JahresberichteUndLagebilder/Cybercrime/cybercrimeBundeslagebild2021.pdf?__blob=publicationFile&v=6"
 duplicate_normalized_at: 2026-04-26
+raw_path: raw/government-reports/2021-01-01_bka-de_cybercrime-bundeslagebild-2021-cyberbunker.md
+text_status: summarized
+storage_mode: summary-only
+content_hash: sha256:7acc3a6374b3a7d1c79013400ad922ae7f3795f4d692d37cd2b330cdf3533cfd
+word_count: 190
+extraction_date: 2026-04-27
+copyright_policy: summary-only
 ---
 ## Source Summary
 

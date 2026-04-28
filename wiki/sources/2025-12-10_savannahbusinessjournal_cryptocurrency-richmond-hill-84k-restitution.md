@@ -3,7 +3,7 @@ type: source
 title: "Theft of Cryptocurrency from Richmond Hill resident leads to $84 K restitution"
 source_type: news
 publisher: "Savannah Business Journal"
-author: "Staff"
+author: Staff
 publish_date: 2025-12-10
 ingest_date: 2026-04-25
 language: en
@@ -16,6 +16,8 @@ key_findings:
   - "Savannah business trade press coverage of the SDGA forfeiture."
 collection_url: https://www.savannahbusinessjournal.com/news/banking_finance/dec-10-theft-of-crytocurrency-from-richmond-hill-resident-leads-to-84-k-restitution/article_44d3c743-0722-4ae8-850b-4fbd3fb1257b.html
 created: 2026-04-25
+raw_path: raw/news/2025-12-10_savannahbusinessjournal_cryptocurrency-richmond-hill-84k-restitution.md
+copyright_policy: summary-only
 ---
 ## Source Summary
 

@@ -12,11 +12,16 @@ reliability: medium
 credibility: confirmed
 sensitivity: public
 pages_updated:
-  []
+
 key_findings:
   - "South Africa's national police service; hosts DPCI (Hawks) for serious cybercrime investigations. For detailed facts, see the official source [1]."
 collection_url: https://www.saps.gov.za/
 created: 2026-04-17
+text_status: source-digest
+storage_mode: source-digest
+content_hash: sha256:cda1466d30a072d3c56c411a0e5023d4b1cb9a43e097c7f4d669964bec958e4d
+word_count: 133
+extraction_date: 2026-04-28
 ---
 ## Source Summary
 

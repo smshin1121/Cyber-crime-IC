@@ -19,8 +19,15 @@ collection_url: https://www.fox13seattle.com/news/everett-man-granted-clemency-a
 created: 2026-04-25
 duplicate_of: "[[2025-03-13_fox13seattle_everett-man-granted-clemency-arrested]]"
 duplicate_reason: same_collection_url
-duplicate_key: "https://www.fox13seattle.com/news/everett-man-granted-clemency-arrested"
+duplicate_key: https://www.fox13seattle.com/news/everett-man-granted-clemency-arrested
 duplicate_normalized_at: 2026-04-26
+raw_path: raw/news/2025-03-17_fox13seattle_everett-man-granted-clemency-arrested.md
+text_status: summarized
+storage_mode: summary-only
+content_hash: sha256:713fb0d61c0a06488a63683c60bfaec66378f0a4c6364942465f05460ca84c42
+word_count: 160
+extraction_date: 2026-04-27
+copyright_policy: summary-only
 ---
 ## Source Summary
 

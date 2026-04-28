@@ -13,15 +13,18 @@ credibility: confirmed
 sensitivity: public
 pages_updated:
 
-key_findings:
-  - "Secure .gov websites use HTTPS A lock ( Lock Locked padlock ) or https:// means you’ve safely connected to the .gov website. Share sensitive information only on official, secure websites."
 collection_url: https://www.justice.gov/usao-wdwa/pr/twelve-people-charged-two-indictments-following-investigation-drug-trafficking-ring
 created: 2026-04-18
 updated: 2026-04-18
 duplicate_of: "[[2021-06-30_justice-gov_twelve-people-charged-in-two-indictments-following-investigation-of-drug-traffic]]"
 duplicate_reason: same_collection_url
-duplicate_key: "https://www.justice.gov/usao-wdwa/pr/twelve-people-charged-two-indictments-following-investigation-drug-trafficking-ring"
+duplicate_key: https://www.justice.gov/usao-wdwa/pr/twelve-people-charged-two-indictments-following-investigation-drug-trafficking-ring
 duplicate_normalized_at: 2026-04-26
+text_status: source-digest
+storage_mode: source-digest
+content_hash: sha256:d33b64f91ad40f68e6224df57df62003642afd5d37265fee240a472479412df6
+word_count: 105
+extraction_date: 2026-04-28
 ---
 ## Source Summary
 

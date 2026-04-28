@@ -3,7 +3,7 @@ type: source
 title: "UK sanctions members of Russian cybercrime gang"
 raw_path: raw/government-reports/2023-09-07_gov-uk_uk-sanctions-members-of-russian-cybercrime-gang.md
 source_type: government-report
-publisher: UK Government (gov.uk)
+publisher: "UK Government (gov.uk)"
 author: ""
 publish_date: 2023-09-07
 ingest_date: 2026-04-25
@@ -19,6 +19,12 @@ key_findings:
   - "Group targeted hospitals/critical infrastructure during COVID-19."
 collection_url: https://www.gov.uk/government/news/uk-sanctions-members-of-russian-cybercrime-gang
 created: 2026-04-25
+text_status: parsed
+content_hash: sha256:596ffe9edfa983a8804612ad6ac318cf98e5ccd4963b148d3ff3f088c9c3c536
+word_count: 1765
+extraction_date: 2026-04-28
+last_fetcher: curl_cffi
+storage_mode: fulltext
 ---
 ## Source Summary
 

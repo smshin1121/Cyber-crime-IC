@@ -19,8 +19,12 @@ collection_url: https://www.justice.gov/archives/opa/pr/high-level-member-hackin
 created: 2026-04-17
 duplicate_of: "[[2021-06-24_justice-gov_high-level-member-of-hacking-group-sentenced-prison-fin7]]"
 duplicate_reason: same_collection_url
-duplicate_key: "https://www.justice.gov/archives/opa/pr/high-level-member-hacking-group-sentenced-prison-scheme-compromised-tens-millions-debit-and"
+duplicate_key: https://www.justice.gov/archives/opa/pr/high-level-member-hacking-group-sentenced-prison-scheme-compromised-tens-millions-debit-and
 duplicate_normalized_at: 2026-04-26
+text_status: parsed
+content_hash: sha256:4d8ce56a98004bbbec4cf7450f72401e0c51c833e44a6772b0b751a24c93f118
+word_count: 969
+extraction_date: 2026-04-25
 ---
 ## Source Summary
 

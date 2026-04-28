@@ -13,8 +13,6 @@ credibility: confirmed
 sensitivity: public
 pages_updated:
 
-key_findings:
-  - "Secure .gov websites use HTTPS A lock ( Lock Locked padlock ) or https:// means you’ve safely connected to the .gov website. Share sensitive information only on official, secure websites."
 collection_url: https://www.justice.gov/usao-wdmi/pr/2024_0529_Miller_E_Indictment
 created: 2026-04-18
 updated: 2026-04-18
@@ -23,8 +21,13 @@ defendant_names:
   - "Sturgis Man"
 duplicate_of: "[[2024-05-29_justice-gov_sturgis-man-charged-with-selling-counterfeit-drugs-on-dark-web]]"
 duplicate_reason: same_collection_url
-duplicate_key: "https://www.justice.gov/usao-wdmi/pr/2024_0529_Miller_E_Indictment"
+duplicate_key: https://www.justice.gov/usao-wdmi/pr/2024_0529_Miller_E_Indictment
 duplicate_normalized_at: 2026-04-26
+text_status: source-digest
+storage_mode: source-digest
+content_hash: sha256:61ca09ad518f1148f474381b1db9677f11014d37844b8cb487f21b1714257cd5
+word_count: 107
+extraction_date: 2026-04-28
 ---
 ## Source Summary
 

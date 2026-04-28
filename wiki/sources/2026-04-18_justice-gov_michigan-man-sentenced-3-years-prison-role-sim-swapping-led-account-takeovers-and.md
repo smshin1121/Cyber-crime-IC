@@ -22,8 +22,13 @@ defendant_names:
 updated: 2026-04-18
 duplicate_of: "[[2022-11-08_justice-gov_michigan-man-sentenced-to-3-years-in-prison-for-role-in-sim-swapping-that-led-to]]"
 duplicate_reason: same_collection_url
-duplicate_key: "https://www.justice.gov/usao-cdca/pr/michigan-man-sentenced-3-years-prison-role-sim-swapping-led-account-takeovers-and"
+duplicate_key: https://www.justice.gov/usao-cdca/pr/michigan-man-sentenced-3-years-prison-role-sim-swapping-led-account-takeovers-and
 duplicate_normalized_at: 2026-04-26
+text_status: source-digest
+storage_mode: source-digest
+content_hash: sha256:8291c1ec8040bc159c883d5b4ea8293334f0338aaaf48197015768ba5cd3a93b
+word_count: 140
+extraction_date: 2026-04-28
 ---
 ## Source Summary
 

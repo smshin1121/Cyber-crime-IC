@@ -2,8 +2,8 @@
 type: source
 title: "'Most dangerous' drug dealer tied to 2 Park City teen deaths sent to prison"
 source_type: news
-publisher: "KSL.com"
-author: "Staff"
+publisher: KSL.com
+author: Staff
 publish_date: 2024-04-05
 ingest_date: 2026-04-25
 language: en
@@ -17,6 +17,8 @@ key_findings:
   - "Confirms Netherlands-sourced counterfeit oxycodone and 20-year sentence."
 collection_url: https://www.ksl.com/article/50972545/most-dangerous-drug-dealer-tied-to-2-park-city-teen-deaths-sent-to-prison
 created: 2026-04-25
+raw_path: raw/news/2024-04-05_ksl_most-dangerous-drug-dealer-park-city-teen-deaths-prison.md
+copyright_policy: summary-only
 ---
 ## Source Summary
 

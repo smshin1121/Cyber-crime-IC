@@ -3,7 +3,7 @@ type: source
 title: "Two Tennessee Men Indicted on Drug Distribution Scheme Charges"
 source_type: news
 publisher: "Healthcare Fraud Group LLC"
-author: "Staff"
+author: Staff
 publish_date: 2021-02-12
 ingest_date: 2026-04-25
 language: en
@@ -20,6 +20,8 @@ key_findings:
   - "Confirms over $5 million asset seizure on arrest"
 collection_url: https://healthcarefraudgroup.com/news/two-tennessee-men-indicted-on-drug-distribution-scheme-charges/
 created: 2026-04-25
+raw_path: raw/news/2021-02-12_healthcarefraudgroup_two-tennessee-men-indicted-on-drug-distribution-scheme-charges.md
+copyright_policy: summary-only
 ---
 ## Source Summary
 

@@ -14,7 +14,7 @@ sensitivity: public
 pages_updated:
 
 key_findings:
-  - "**Operation Delilah** was an INTERPOL-coordinated operation that resulted in the arrest of a leader of **SilverTerrier**, a prolific Nigerian Business Email Compromise (BEC) cybercrime group. The arrest was conducted in [[nigeria|Nigeria]] and represented a significant blow to one of the most tracked BEC groups."
+  - "**Operation Delilah** was an INTERPOL-coordinated operation that resulted in the arrest of a leader of **SilverTerrier**, a prolific Nigerian Business Email Compromise (BEC) cybercrime group. The arrest was conducted in Nigeria and represented a significant blow to one of the most tracked BEC groups."
 collection_url: https://cyberscoop.com/silverterrier-interpol-nigeria-bec/
 created: 2026-04-17
 text_status: summarized

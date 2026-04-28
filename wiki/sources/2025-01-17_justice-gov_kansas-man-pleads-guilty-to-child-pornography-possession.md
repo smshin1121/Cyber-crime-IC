@@ -14,7 +14,7 @@ sensitivity: public
 pages_updated:
   - operation-kansas-man-pleads-guilty-to-child-pornography-possession
 key_findings:
-  - "This domestic-only U.S. follow-on record has been absorbed into the canonical case page [[kansas-man-pleads-guilty-to-child-pornography-possession]]. No visible cross-border mechanism is documented, so it is not treated as a separate international-cooperation operation."
+  - "This domestic-only U.S. follow-on record has been absorbed into the canonical case page kansas-man-pleads-guilty-to-child-pornography-possession. No visible cross-border mechanism is documented, so it is not treated as a separate international-cooperation operation."
 collection_url: https://www.justice.gov/usao-ks/pr/kansas-man-pleads-guilty-child-pornography-possession
 created: 2026-04-17
 text_status: parsed

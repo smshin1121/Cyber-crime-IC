@@ -22,8 +22,13 @@ defendant_names:
 updated: 2026-04-18
 duplicate_of: "[[2022-08-01_justice-gov_former-owner-of-t-mobile-retail-store-in-eagle-rock-found-guilty-of-committing-2]]"
 duplicate_reason: same_collection_url
-duplicate_key: "https://www.justice.gov/usao-cdca/pr/former-owner-t-mobile-retail-store-eagle-rock-found-guilty-committing-25-million-scheme"
+duplicate_key: https://www.justice.gov/usao-cdca/pr/former-owner-t-mobile-retail-store-eagle-rock-found-guilty-committing-25-million-scheme
 duplicate_normalized_at: 2026-04-26
+text_status: source-digest
+storage_mode: source-digest
+content_hash: sha256:fb36ba219d2c068285126f6dc822b9ad8632f580f617c1b23926815514ed03c4
+word_count: 133
+extraction_date: 2026-04-28
 ---
 ## Source Summary
 

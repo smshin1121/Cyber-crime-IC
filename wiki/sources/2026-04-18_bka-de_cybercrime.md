@@ -23,8 +23,15 @@ key_findings:
 created: 2026-04-18
 duplicate_of: "[[2026-04-18_bka-de_bka-cybercrime]]"
 duplicate_reason: same_collection_url
-duplicate_key: "https://www.bka.de/EN/OurTasks/AreasOfCrime/Cybercrime/cybercrime_node.html"
+duplicate_key: https://www.bka.de/EN/OurTasks/AreasOfCrime/Cybercrime/cybercrime_node.html
 duplicate_normalized_at: 2026-04-26
+raw_path: raw/government-reports/2026-04-18_bka-de_cybercrime.md
+text_status: summarized
+storage_mode: summary-only
+content_hash: sha256:93ed1259345ceda9035f086ee4964ecab57d169db47f67068a484d81a1402750
+word_count: 195
+extraction_date: 2026-04-27
+copyright_policy: summary-only
 ---
 ## Source Summary
 

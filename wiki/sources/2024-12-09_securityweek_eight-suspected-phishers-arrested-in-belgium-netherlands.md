@@ -4,7 +4,7 @@ title: "Eight Suspected Phishers Arrested in Belgium, Netherlands"
 collection_url: https://www.securityweek.com/eight-suspected-phishers-arrested-in-belgium-netherlands/
 collection_domain: securityweek.com
 source_type: news
-publisher: "SecurityWeek"
+publisher: SecurityWeek
 author: "Ionut Arghire"
 publish_date: 2024-12-09
 ingest_date: 2026-04-18
@@ -22,8 +22,15 @@ created: 2026-04-18
 updated: 2026-04-18
 duplicate_of: "[[2024-12-09_securityweek-com_eight-suspected-phishers-arrested-in-belgium-netherlands]]"
 duplicate_reason: same_collection_url
-duplicate_key: "https://www.securityweek.com/eight-suspected-phishers-arrested-in-belgium-netherlands/"
+duplicate_key: https://www.securityweek.com/eight-suspected-phishers-arrested-in-belgium-netherlands/
 duplicate_normalized_at: 2026-04-26
+raw_path: raw/news/2024-12-09_securityweek_eight-suspected-phishers-arrested-in-belgium-netherlands.md
+text_status: summarized
+storage_mode: summary-only
+content_hash: sha256:b19fd1fa618ed50b62010a77f8c4bda61bd8073f2c5891f99e8620f6b8086c4e
+word_count: 146
+extraction_date: 2026-04-27
+copyright_policy: summary-only
 ---
 ## Source Summary
 

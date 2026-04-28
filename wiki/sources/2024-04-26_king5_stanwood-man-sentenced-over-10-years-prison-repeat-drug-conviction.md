@@ -3,7 +3,7 @@ type: source
 title: "Stanwood man sentenced to over 10 years in prison for repeat drug conviction"
 source_type: news
 publisher: "KING 5 Seattle"
-author: "Staff"
+author: Staff
 publish_date: 2024-04-26
 ingest_date: 2026-04-25
 language: en
@@ -19,8 +19,10 @@ collection_url: https://www.king5.com/article/news/crime/stanwood-man-sentenced-
 created: 2026-04-25
 duplicate_of: "[[2024-04-13_king5_stanwood-man-sentenced-over-10-years-repeat-drug-conviction]]"
 duplicate_reason: same_collection_url
-duplicate_key: "https://www.king5.com/article/news/crime/stanwood-man-sentenced-prison-drug-conviction/281-9431c9d1-bc06-4fde-ab9a-8888b6ae6cad"
+duplicate_key: https://www.king5.com/article/news/crime/stanwood-man-sentenced-prison-drug-conviction/281-9431c9d1-bc06-4fde-ab9a-8888b6ae6cad
 duplicate_normalized_at: 2026-04-26
+raw_path: raw/news/2024-04-26_king5_stanwood-man-sentenced-over-10-years-prison-repeat-drug-conviction.md
+copyright_policy: summary-only
 ---
 ## Source Summary
 

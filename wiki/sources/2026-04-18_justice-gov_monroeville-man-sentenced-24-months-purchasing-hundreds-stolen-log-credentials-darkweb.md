@@ -13,8 +13,6 @@ credibility: confirmed
 sensitivity: public
 pages_updated:
 
-key_findings:
-  - "Secure .gov websites use HTTPS A lock ( Lock Locked padlock ) or https:// means you’ve safely connected to the .gov website. Share sensitive information only on official, secure websites."
 collection_url: https://www.justice.gov/usao-sdal/pr/monroeville-man-sentenced-24-months-purchasing-hundreds-stolen-log-credentials-darkweb
 created: 2026-04-18
 updated: 2026-04-18
@@ -22,8 +20,13 @@ defendant_names:
   - "Monroeville Man"
 duplicate_of: "[[2023-11-07_justice-gov_monroeville-man-sentenced-to-24-months-for-purchasing-hundreds-of-stolen-log-in]]"
 duplicate_reason: same_collection_url
-duplicate_key: "https://www.justice.gov/usao-sdal/pr/monroeville-man-sentenced-24-months-purchasing-hundreds-stolen-log-credentials-darkweb"
+duplicate_key: https://www.justice.gov/usao-sdal/pr/monroeville-man-sentenced-24-months-purchasing-hundreds-stolen-log-credentials-darkweb
 duplicate_normalized_at: 2026-04-26
+text_status: source-digest
+storage_mode: source-digest
+content_hash: sha256:1bdf4c97d4e756f54c9d2b6f9c657f5cb439b824f326537e0b7e319e314f1ae7
+word_count: 129
+extraction_date: 2026-04-28
 ---
 ## Source Summary
 

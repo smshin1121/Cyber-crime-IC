@@ -2,7 +2,7 @@
 type: source
 title: "Interpol Arrests Thousands in Crackdown on International Online Scams"
 source_type: news
-publisher: "Gizmodo"
+publisher: Gizmodo
 author: Staff
 publish_date: 2024-06-20
 ingest_date: 2026-04-25

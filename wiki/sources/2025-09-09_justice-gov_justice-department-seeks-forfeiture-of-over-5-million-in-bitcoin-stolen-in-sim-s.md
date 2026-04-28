@@ -14,7 +14,7 @@ sensitivity: public
 pages_updated:
   - operation-justice-department-seeks-forfeiture-of-over-5-million-in-bitcoin-stolen-in-sim-swapping-scams
 key_findings:
-  - "This domestic-only U.S. follow-on record has been absorbed into the canonical case page [[justice-department-seeks-forfeiture-of-over-5-million-in-bitcoin-stolen-in-sim-swapping-scams]]. No visible cross-border mechanism is documented, so it is not treated as a separate international-cooperation operation."
+  - "This domestic-only U.S. follow-on record has been absorbed into the canonical case page justice-department-seeks-forfeiture-of-over-5-million-in-bitcoin-stolen-in-sim-swapping-scams. No visible cross-border mechanism is documented, so it is not treated as a separate international-cooperation operation."
 collection_url: https://www.justice.gov/usao-dc/pr/justice-department-seeks-forfeiture-over-5-million-bitcoin-stolen-sim-swapping-scams
 created: 2026-04-17
 text_status: parsed

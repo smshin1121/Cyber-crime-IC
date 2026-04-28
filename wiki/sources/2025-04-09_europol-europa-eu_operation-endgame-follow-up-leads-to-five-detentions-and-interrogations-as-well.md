@@ -12,15 +12,20 @@ reliability: high
 credibility: confirmed
 sensitivity: public
 pages_updated:
-  []
+
 key_findings:
-  - "**Operation Endgame** is the **largest-ever international law enforcement operation against botnets and the ransomware-enabling malware ecosystem**. Launched in May 2024 and still ongoing as of 2026, the operation has been conducted in multiple phases coordinated by [[europol-ec3|Europol]] and [[eurojust|Eurojust]], with participation from law enforcement agencies across at least 15 countries."
+  - "**Operation Endgame** is the **largest-ever international law enforcement operation against botnets and the ransomware-enabling malware ecosystem**. Launched in May 2024 and still ongoing as of 2026, the operation has been conducted in multiple phases coordinated by Europol and Eurojust, with participation from law enforcement agencies across at least 15 countries."
 collection_url: https://www.europol.europa.eu/media-press/newsroom/news/operation-endgame-follow-leads-to-five-detentions-and-interrogations-well-server-takedowns
 created: 2026-04-17
 duplicate_of: "[[2025-05-22_europol-europa-eu_operation-endgame-follow-up-leads-to-detentions-and-server-takedowns]]"
 duplicate_reason: same_collection_url
-duplicate_key: "https://www.europol.europa.eu/media-press/newsroom/news/operation-endgame-follow-leads-to-five-detentions-and-interrogations-well-server-takedowns"
+duplicate_key: https://www.europol.europa.eu/media-press/newsroom/news/operation-endgame-follow-leads-to-five-detentions-and-interrogations-well-server-takedowns
 duplicate_normalized_at: 2026-04-26
+text_status: source-digest
+storage_mode: source-digest
+content_hash: sha256:7c537940fa0645875d3c6385f4864b906f7013595f5183f6da694d255e21b7f0
+word_count: 205
+extraction_date: 2026-04-28
 ---
 ## Source Summary
 

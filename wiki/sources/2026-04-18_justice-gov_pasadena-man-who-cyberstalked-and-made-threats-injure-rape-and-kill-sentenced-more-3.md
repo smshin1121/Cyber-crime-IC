@@ -22,8 +22,13 @@ defendant_names:
 updated: 2026-04-18
 duplicate_of: "[[2021-11-15_justice-gov_pasadena-man-who-cyberstalked-and-made-threats-to-injure-rape-and-kill-sentenced]]"
 duplicate_reason: same_collection_url
-duplicate_key: "https://www.justice.gov/usao-cdca/pr/pasadena-man-who-cyberstalked-and-made-threats-injure-rape-and-kill-sentenced-more-3"
+duplicate_key: https://www.justice.gov/usao-cdca/pr/pasadena-man-who-cyberstalked-and-made-threats-injure-rape-and-kill-sentenced-more-3
 duplicate_normalized_at: 2026-04-26
+text_status: source-digest
+storage_mode: source-digest
+content_hash: sha256:f933e35e8949e35a188e4c9675bb9ca9e1b375cd3a2183d6d82dddb73d5b9263
+word_count: 138
+extraction_date: 2026-04-28
 ---
 ## Source Summary
 

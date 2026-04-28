@@ -14,7 +14,7 @@ sensitivity: public
 pages_updated:
   - operation-seven-georgians-indicted-for-operating-online-fentanyl-meth-marketplace
 key_findings:
-  - "This domestic-only U.S. follow-on record has been absorbed into the canonical case page [[seven-georgians-indicted-for-operating-online-fentanyl-meth-marketplace]]. No visible cross-border mechanism is documented, so it is not treated as a separate international-cooperation operation."
+  - "This domestic-only U.S. follow-on record has been absorbed into the canonical case page seven-georgians-indicted-for-operating-online-fentanyl-meth-marketplace. No visible cross-border mechanism is documented, so it is not treated as a separate international-cooperation operation."
 collection_url: https://www.justice.gov/usao-mdga/pr/seven-georgians-indicted-operating-online-fentanyl-meth-marketplace
 created: 2026-04-17
 text_status: parsed

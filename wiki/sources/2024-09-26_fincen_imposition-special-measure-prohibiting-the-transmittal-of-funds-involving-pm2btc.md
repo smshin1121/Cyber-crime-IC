@@ -22,8 +22,14 @@ created: 2026-04-18
 updated: 2026-04-18
 duplicate_of: "[[2024-09-26_fincen-gov_imposition-of-special-measure-prohibiting-the-transmittal-of-funds-involving-pm2]]"
 duplicate_reason: same_collection_url
-duplicate_key: "https://www.fincen.gov/resources/statutes-regulations/federal-register-notices/imposition-special-measure-prohibiting-0"
+duplicate_key: https://www.fincen.gov/resources/statutes-regulations/federal-register-notices/imposition-special-measure-prohibiting-0
 duplicate_normalized_at: 2026-04-26
+raw_path: raw/press-releases/2024-09-26_fincen_imposition-special-measure-prohibiting-the-transmittal-of-funds-involving-pm2btc.md
+text_status: source-digest
+storage_mode: source-digest
+content_hash: sha256:1ac122c402fd0bfb4110884c66b772842dbe1ae5f362e231890debffd8fbfcdb
+word_count: 139
+extraction_date: 2026-04-28
 ---
 ## Source Summary
 

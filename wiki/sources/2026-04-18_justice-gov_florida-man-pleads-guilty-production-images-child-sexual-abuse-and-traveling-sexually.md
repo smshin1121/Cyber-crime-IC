@@ -13,8 +13,6 @@ credibility: confirmed
 sensitivity: public
 pages_updated:
 
-key_findings:
-  - "Secure .gov websites use HTTPS A lock ( Lock Locked padlock ) or https:// means you’ve safely connected to the .gov website. Share sensitive information only on official, secure websites."
 collection_url: https://www.justice.gov/usao-wdwa/pr/florida-man-pleads-guilty-production-images-child-sexual-abuse-and-traveling-sexually
 created: 2026-04-18
 defendant_names:
@@ -22,8 +20,13 @@ defendant_names:
 updated: 2026-04-18
 duplicate_of: "[[2024-01-30_justice-gov_florida-man-pleads-guilty-to-production-of-images-of-child-sexual-abuse-and-trav]]"
 duplicate_reason: same_collection_url
-duplicate_key: "https://www.justice.gov/usao-wdwa/pr/florida-man-pleads-guilty-production-images-child-sexual-abuse-and-traveling-sexually"
+duplicate_key: https://www.justice.gov/usao-wdwa/pr/florida-man-pleads-guilty-production-images-child-sexual-abuse-and-traveling-sexually
 duplicate_normalized_at: 2026-04-26
+text_status: source-digest
+storage_mode: source-digest
+content_hash: sha256:bc026cc7ec9b8baec4b64ea07765dc2949c38496fceadd58e630e4e82b96dcec
+word_count: 116
+extraction_date: 2026-04-28
 ---
 ## Source Summary
 

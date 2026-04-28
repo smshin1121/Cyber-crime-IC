@@ -13,15 +13,18 @@ credibility: confirmed
 sensitivity: public
 pages_updated:
 
-key_findings:
-  - "Secure .gov websites use HTTPS A lock ( Lock Locked padlock ) or https:// means you’ve safely connected to the .gov website. Share sensitive information only on official, secure websites."
 collection_url: https://www.justice.gov/usao-ndil/pr/owners-empire-market-charged-chicago-operating-430-million-dark-web-marketplace
 created: 2026-04-18
 updated: 2026-04-18
 duplicate_of: "[[2024-06-14_justice-gov_owners-of-empire-market-charged-in-chicago-with-operating-430-million-dark-web-m]]"
 duplicate_reason: same_collection_url
-duplicate_key: "https://www.justice.gov/usao-ndil/pr/owners-empire-market-charged-chicago-operating-430-million-dark-web-marketplace"
+duplicate_key: https://www.justice.gov/usao-ndil/pr/owners-empire-market-charged-chicago-operating-430-million-dark-web-marketplace
 duplicate_normalized_at: 2026-04-26
+text_status: source-digest
+storage_mode: source-digest
+content_hash: sha256:a8113ce5786f5da9432a74a3038acbf894c7ef3e8653ece8cc4211e4d190aab9
+word_count: 108
+extraction_date: 2026-04-28
 ---
 ## Source Summary
 

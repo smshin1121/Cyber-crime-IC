@@ -12,15 +12,20 @@ reliability: medium
 credibility: confirmed
 sensitivity: public
 pages_updated:
-  []
+
 key_findings:
-  - "Sweden is a **highly capable Nordic cybercrime cooperation partner**, deeply embedded in EU and Nordic cooperation networks. Its cybercrime law is primarily found in the **Brottsbalken (Penal Code)** rather than in a standalone cybercrime statute. Sweden was one of the **original 30 signatories** of the [[budapest-convention|Budapest Convention]] on 23 November 2001."
+  - "Sweden is a **highly capable Nordic cybercrime cooperation partner**, deeply embedded in EU and Nordic cooperation networks. Its cybercrime law is primarily found in the **Brottsbalken (Penal Code)** rather than in a standalone cybercrime statute. Sweden was one of the **original 30 signatories** of the Budapest Convention on 23 November 2001."
 collection_url: https://www.coe.int/en/web/cybercrime/second-additional-protocol
 created: 2026-04-17
 duplicate_of: "[[2022-05-12_coe-int_second-additional-protocol-cets-no-224]]"
 duplicate_reason: same_collection_url
-duplicate_key: "https://www.coe.int/en/web/cybercrime/second-additional-protocol"
+duplicate_key: https://www.coe.int/en/web/cybercrime/second-additional-protocol
 duplicate_normalized_at: 2026-04-26
+text_status: source-digest
+storage_mode: source-digest
+content_hash: sha256:3d9482d96374bb4c63fd1f2cb9a5516b87596f1db992b7f9b070ad713cc2eab6
+word_count: 199
+extraction_date: 2026-04-28
 ---
 ## Source Summary
 

@@ -17,6 +17,13 @@ key_findings:
   - "Juarez supplied meth for counterfeit Adderall; conspiracy involved pill production, packaging, dark-web sale, and mail distribution."
 collection_url: https://www.ice.gov/news/releases/fourth-co-conspirator-sentenced-role-dark-web-drug-trafficking-scheme-following-hsi
 created: 2026-04-25
+raw_path: raw/press-releases/2024-12-02_ice-hsi_fourth-co-conspirator-sentenced-dark-web-drug-trafficking-houston.md
+text_status: parsed
+content_hash: sha256:6b368e45844415065cffee9bba32027c21ee56a0e8c6b6f4062af93d5d84638c
+word_count: 1028
+extraction_date: 2026-04-28
+last_fetcher: curl_cffi
+storage_mode: fulltext
 ---
 ## Source Summary
 

@@ -3,7 +3,7 @@ type: source
 title: "Two arrested after allegedly using darknet to sell Adderall that was actually methamphetamine"
 source_type: news
 publisher: "Washington Examiner"
-author: "Staff"
+author: Staff
 publish_date: 2021-02-13
 ingest_date: 2026-04-25
 language: en
@@ -20,6 +20,8 @@ key_findings:
   - "Documents DEA undercover purchases as the primary investigative technique"
 collection_url: https://www.washingtonexaminer.com/news/1745290/two-arrested-after-allegedly-using-darknet-to-sell-adderall-that-was-actually-methamphetamine/
 created: 2026-04-25
+raw_path: raw/news/2021-02-13_washingtonexaminer_two-arrested-after-allegedly-using-darknet-to-sell-adderall-that-was-actually-methamphetamine.md
+copyright_policy: summary-only
 ---
 ## Source Summary
 

@@ -3,7 +3,7 @@ type: source
 title: "Monroeville man convicted of stealing log-ins from dark web"
 source_type: news
 publisher: "Fox10 TV (WALA Mobile)"
-author: "Staff"
+author: Staff
 publish_date: 2023-11-08
 ingest_date: 2026-04-25
 language: en
@@ -18,6 +18,8 @@ key_findings:
   - "Local Mobile-area press confirmation of Odom's 24-month sentence"
 collection_url: https://www.fox10tv.com/2023/11/08/monroeville-man-convicted-stealing-log-ins-dark-web/
 created: 2026-04-25
+raw_path: raw/news/2023-11-08_fox10tv_monroeville-man-convicted-stealing-log-ins-dark-web.md
+copyright_policy: summary-only
 ---
 ## Source Summary
 

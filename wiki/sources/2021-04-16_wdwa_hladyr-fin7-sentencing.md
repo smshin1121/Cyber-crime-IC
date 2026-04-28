@@ -14,8 +14,6 @@ sensitivity: public
 pages_updated:
   - fin7-takedown
   - us-v-hladyr-fin7
-key_findings:
-  - "Secure .gov websites use HTTPS A lock ( Lock Locked padlock ) or https:// means you’ve safely connected to the .gov website. Share sensitive information only on official, secure websites."
 collection_url: https://www.justice.gov/usao-wdwa/pr/high-level-organizer-notorious-hacking-group-fin7-sentenced-ten-years-prison-scheme
 created: 2026-04-17
 updated: 2026-04-18
@@ -23,8 +21,13 @@ defendant_names:
   - "Fedir Hladyr"
 duplicate_of: "[[2021-04-16_justice-gov_high-level-organizer-of-notorious-hacking-group-fin7-sentenced-to-ten-years-in-p]]"
 duplicate_reason: same_collection_url
-duplicate_key: "https://www.justice.gov/usao-wdwa/pr/high-level-organizer-notorious-hacking-group-fin7-sentenced-ten-years-prison-scheme"
+duplicate_key: https://www.justice.gov/usao-wdwa/pr/high-level-organizer-notorious-hacking-group-fin7-sentenced-ten-years-prison-scheme
 duplicate_normalized_at: 2026-04-26
+text_status: source-digest
+storage_mode: source-digest
+content_hash: sha256:ecc97d45676ff648a37345af93e94433e553143026a5b67b35e20f2b4f39de20
+word_count: 161
+extraction_date: 2026-04-28
 ---
 ## Source Summary
 

@@ -13,8 +13,6 @@ credibility: confirmed
 sensitivity: public
 pages_updated:
 
-key_findings:
-  - "Secure .gov websites use HTTPS A lock ( Lock Locked padlock ) or https:// means you’ve safely connected to the .gov website. Share sensitive information only on official, secure websites."
 collection_url: https://www.justice.gov/usao-edca/pr/final-calicartel-defendant-pleads-guilty-dark-web-heroin-methamphetamine-and-cocaine
 created: 2026-04-18
 defendant_names:
@@ -22,8 +20,13 @@ defendant_names:
 updated: 2026-04-18
 duplicate_of: "[[2024-05-10_justice-gov_final-calicartel-defendant-pleads-guilty-dark-web-heroin-methamphetamine-cocaine]]"
 duplicate_reason: same_collection_url
-duplicate_key: "https://www.justice.gov/usao-edca/pr/final-calicartel-defendant-pleads-guilty-dark-web-heroin-methamphetamine-and-cocaine"
+duplicate_key: https://www.justice.gov/usao-edca/pr/final-calicartel-defendant-pleads-guilty-dark-web-heroin-methamphetamine-and-cocaine
 duplicate_normalized_at: 2026-04-26
+text_status: source-digest
+storage_mode: source-digest
+content_hash: sha256:85cc9f2916e85664dfcfa3b0d7f5dffc69198fda6f7d272d8de22646ff02adce
+word_count: 114
+extraction_date: 2026-04-28
 ---
 ## Source Summary
 

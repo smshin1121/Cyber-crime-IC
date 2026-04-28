@@ -3,7 +3,7 @@ type: source
 title: "Virginia woman arrested in connection to dark web murder-for-hire plot using bitcoin"
 source_type: news
 publisher: "WSLS 10 (NBC Roanoke)"
-author: "Staff"
+author: Staff
 publish_date: 2021-10-27
 ingest_date: 2026-04-25
 language: en
@@ -17,6 +17,8 @@ key_findings:
   - "Confirms bitcoin payment of approximately $3,200 for the dark-web murder-for-hire order."
 collection_url: https://www.wsls.com/news/virginia/2021/10/27/virginia-woman-arrested-in-connection-to-dark-web-murder-for-hire-plot-using-bitcoin/
 created: 2026-04-25
+raw_path: raw/news/2021-10-27_wsls_virginia-woman-arrested-dark-web-murder-for-hire-bitcoin.md
+copyright_policy: summary-only
 ---
 ## Source Summary
 

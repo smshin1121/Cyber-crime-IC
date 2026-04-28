@@ -4,7 +4,7 @@ title: "Dark Web vendor indicted for selling heroin for bitcoin"
 collection_url: https://decrypt.co/15852/dark-web-vendor-indicted-for-selling-heroin-for-bitcoin
 collection_domain: decrypt.co
 source_type: news
-publisher: "Decrypt"
+publisher: Decrypt
 author: "Robert Stevens"
 publish_date: 2020-01-03
 ingest_date: 2026-04-18
@@ -25,8 +25,15 @@ defendant_names:
   - "Joanna De Alba"
 duplicate_of: "[[2020-01-03_decrypt-co_dark-web-vendor-indicted-for-selling-heroin-for-bitcoin]]"
 duplicate_reason: same_collection_url
-duplicate_key: "https://decrypt.co/15852/dark-web-vendor-indicted-for-selling-heroin-for-bitcoin"
+duplicate_key: https://decrypt.co/15852/dark-web-vendor-indicted-for-selling-heroin-for-bitcoin
 duplicate_normalized_at: 2026-04-26
+raw_path: raw/news/2020-01-03_decrypt_dark-web-vendor-indicted-for-selling-heroin-for-bitcoin.md
+text_status: summarized
+storage_mode: summary-only
+content_hash: sha256:395c3be6964ec0945321d175d74b85405d4f1033ac938feb03de4c5c09721129
+word_count: 143
+extraction_date: 2026-04-27
+copyright_policy: summary-only
 ---
 ## Source Summary
 

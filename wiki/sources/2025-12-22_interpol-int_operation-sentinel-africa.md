@@ -12,15 +12,20 @@ reliability: high
 credibility: confirmed
 sensitivity: public
 pages_updated:
-  []
+
 key_findings:
   - "Source referenced by ic-statistics-dashboard."
 collection_url: https://www.interpol.int/en/News-and-Events/News/2025/574-arrests-and-USD-3-million-recovered-in-coordinated-cybercrime-operation-across-Africa
 created: 2026-04-17
 duplicate_of: "[[2025-12-22-interpol-operation-sentinel-africa]]"
 duplicate_reason: same_collection_url
-duplicate_key: "https://www.interpol.int/en/News-and-Events/News/2025/574-arrests-and-USD-3-million-recovered-in-coordinated-cybercrime-operation-across-Africa"
+duplicate_key: https://www.interpol.int/en/News-and-Events/News/2025/574-arrests-and-USD-3-million-recovered-in-coordinated-cybercrime-operation-across-Africa
 duplicate_normalized_at: 2026-04-26
+text_status: source-digest
+storage_mode: source-digest
+content_hash: sha256:0d24ecb16bef81d72af240dd9dde0e699bae056bd63e707b8846c4c401868c20
+word_count: 102
+extraction_date: 2026-04-28
 ---
 ## Source Summary
 

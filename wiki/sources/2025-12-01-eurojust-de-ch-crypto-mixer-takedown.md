@@ -1,32 +1,36 @@
 ---
 type: source
 title: "Cryptocurrency mixing service used to launder money taken down"
-raw_path: "raw/press-releases/2026-04-14_eurojust_cryptocurrency-mixing-service-used-to-launder-money-taken-do.md"
-source_type: "press-release"
-publisher: "Eurojust"
+raw_path: raw/press-releases/2026-04-14_eurojust_cryptocurrency-mixing-service-used-to-launder-money-taken-do.md
+source_type: press-release
+publisher: Eurojust
 author: "Eurojust Communications"
-publish_date: "2025-12-01"
-ingest_date: "2026-04-14"
-language: "en"
-reliability: "high"
-credibility: "probably-true"
-sensitivity: "public"
+publish_date: 2025-12-01
+ingest_date: 2026-04-14
+language: en
+reliability: high
+credibility: probably-true
+sensitivity: public
 pages_updated:
-  - "de-ch-crypto-mixer-takedown-2025"
-  - "eurojust"
-  - "europol-ec3"
-  - "germany"
-  - "switzerland"
-  - "money-laundering-ic"
+  - de-ch-crypto-mixer-takedown-2025
+  - eurojust
+  - europol-ec3
+  - germany
+  - switzerland
+  - money-laundering-ic
 key_findings:
   - "Germany and Switzerland, with Eurojust and Europol, took down a cryptocurrency mixing service used to launder proceeds from drug trafficking, weapons trafficking, online fraud and other cybercrimes (action published 1 December 2025)"
   - "More than EUR 25 million in cryptocurrency seized during the action week"
   - "Three servers taken down"
   - "Operation not publicly named in the Eurojust release; descriptive slug used in wiki"
-collection_url: "https://www.eurojust.europa.eu/news/cryptocurrency-mixing-service-used-launder-money-taken-down"
+collection_url: https://www.eurojust.europa.eu/news/cryptocurrency-mixing-service-used-launder-money-taken-down
 created: 2026-04-14
+text_status: source-digest
+storage_mode: source-digest
+content_hash: sha256:e842e405784a224ed13d25e429c1ee9360fe29103d9b4cae3c40e6550c6fef3f
+word_count: 254
+extraction_date: 2026-04-28
 ---
-
 ## Summary
 
 Official Eurojust press release announcing the takedown of an unnamed cryptocurrency mixing service used by criminals to launder proceeds from drug trafficking, weapons trafficking, online fraud and other cybercrimes. The action involved authorities from [[germany|Germany]] and [[switzerland|Switzerland]], coordinated by [[eurojust|Eurojust]] and [[europol-ec3|Europol]]. During an action week, more than **EUR 25 million** in cryptocurrency was seized and **three servers** were taken down.

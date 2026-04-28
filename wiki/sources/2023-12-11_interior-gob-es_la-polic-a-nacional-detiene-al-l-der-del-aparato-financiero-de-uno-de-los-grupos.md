@@ -14,7 +14,7 @@ sensitivity: public
 pages_updated:
   - blackcat-lockeroga-kelvin-security-2023
 key_findings:
-  - 'In late November and December 2023, authorities in the United States, Europe, and Spain announced three separate enforcement actions that together marked a concentrated period of cybercrime disruption activity: ""'
+  - "In late November and December 2023, authorities in the United States, Europe, and Spain announced three separate enforcement actions that together marked a concentrated period of cybercrime disruption activity: \"\""
 collection_url: https://www.interior.gob.es/opencms/en/detail-pages/article/La-Policia-Nacional-detiene-al-lider-del-aparato-financiero-de-uno-de-los-grupos-hacktivistas-mas-importantes-del-mundo/
 created: 2026-04-17
 text_status: summarized

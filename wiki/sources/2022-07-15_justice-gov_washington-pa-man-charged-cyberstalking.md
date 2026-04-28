@@ -3,7 +3,7 @@ type: source
 title: "Washington, PA Man Charged with Cyberstalking"
 source_type: press-release
 publisher: "US DOJ USAO-WDPA"
-author: "USAO-WDPA"
+author: USAO-WDPA
 publish_date: 2022-07-15
 ingest_date: 2026-04-25
 language: en
@@ -19,8 +19,14 @@ collection_url: https://www.justice.gov/usao-wdpa/pr/washington-pa-man-charged-c
 created: 2026-04-25
 duplicate_of: "[[2022-07-14_justice-gov_washington-pa-man-charged-with-cyberstalking]]"
 duplicate_reason: same_collection_url
-duplicate_key: "https://www.justice.gov/usao-wdpa/pr/washington-pa-man-charged-cyberstalking"
+duplicate_key: https://www.justice.gov/usao-wdpa/pr/washington-pa-man-charged-cyberstalking
 duplicate_normalized_at: 2026-04-26
+raw_path: raw/press-releases/2022-07-15_justice-gov_washington-pa-man-charged-cyberstalking.md
+text_status: source-digest
+storage_mode: source-digest
+content_hash: sha256:c352193401de1f7c8b002bcbd1c4ecac239916a2aee2e74f98ec4213bbd0ae5d
+word_count: 129
+extraction_date: 2026-04-28
 ---
 ## Source Summary
 

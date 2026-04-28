@@ -19,8 +19,10 @@ collection_url: https://komonews.com/news/local/charge-6-sellers-bribed-amazon-e
 created: 2026-04-25
 duplicate_of: "[[2020-09-18_komonews_charge-6-sellers-bribed-amazon-employees-to-gain-unfair-advantage-worth-100-million]]"
 duplicate_reason: same_collection_url
-duplicate_key: "https://komonews.com/news/local/charge-6-sellers-bribed-amazon-employees-to-gain-unfair-advantage-worth-100-million"
+duplicate_key: https://komonews.com/news/local/charge-6-sellers-bribed-amazon-employees-to-gain-unfair-advantage-worth-100-million
 duplicate_normalized_at: 2026-04-26
+raw_path: raw/news/2023-09-08_komonews_charge-6-sellers-bribed-amazon-employees-100-million.md
+copyright_policy: summary-only
 ---
 ## Source Summary
 

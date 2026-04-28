@@ -14,7 +14,7 @@ sensitivity: public
 pages_updated:
   - operation-former-commander-and-adjutant-of-nonprofit-veterans-organization-indicted-for-wire-fraud-and-tax-fraud
 key_findings:
-  - "Former Commander and Adjutant of Nonprofit Veteran’s Organization Indicted for Wire Fraud and Tax Fraud Enforcement Action is a defendant-specific enforcement action page derived from [[former-commander-and-adjutant-of-nonprofit-veterans-organization-indicted-for-wire-fraud-and-tax-fraud]]. It captures the prosecutorial or seizure stage reflected in the linked case record and preserves the operation-side catalog entry for this follow-on action."
+  - "Former Commander and Adjutant of Nonprofit Veteran’s Organization Indicted for Wire Fraud and Tax Fraud Enforcement Action is a defendant-specific enforcement action page derived from former-commander-and-adjutant-of-nonprofit-veterans-organization-indicted-for-wire-fraud-and-tax-fraud. It captures the prosecutorial or seizure stage reflected in the linked case record and preserves the operation-side catalog entry for this follow-on action."
 collection_url: https://www.justice.gov/usao-id/pr/former-commander-and-adjutant-nonprofit-veterans-organization-indicted-wire-fraud-and
 created: 2026-04-17
 text_status: parsed

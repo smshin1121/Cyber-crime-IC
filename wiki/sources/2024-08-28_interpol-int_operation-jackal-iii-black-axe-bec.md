@@ -12,15 +12,20 @@ reliability: high
 credibility: confirmed
 sensitivity: public
 pages_updated:
-  []
+
 key_findings:
   - "Source referenced by ic-statistics-dashboard."
 collection_url: https://www.interpol.int/en/News-and-Events/News/2024/INTERPOL-operation-strikes-major-blow-against-West-African-financial-crime
 created: 2026-04-17
 duplicate_of: "[[2024-08-28-interpol-operation-jackal-iii]]"
 duplicate_reason: same_collection_url
-duplicate_key: "https://www.interpol.int/en/News-and-Events/News/2024/INTERPOL-operation-strikes-major-blow-against-West-African-financial-crime"
+duplicate_key: https://www.interpol.int/en/News-and-Events/News/2024/INTERPOL-operation-strikes-major-blow-against-West-African-financial-crime
 duplicate_normalized_at: 2026-04-26
+text_status: source-digest
+storage_mode: source-digest
+content_hash: sha256:b06cb7e0174a8cf625454570eabb73bfed217af9c1f451a177ecbb1c7c7b03ff
+word_count: 105
+extraction_date: 2026-04-28
 ---
 ## Source Summary
 

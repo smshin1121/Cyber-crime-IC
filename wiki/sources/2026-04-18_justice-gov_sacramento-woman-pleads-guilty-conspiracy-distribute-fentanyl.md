@@ -13,8 +13,6 @@ credibility: confirmed
 sensitivity: public
 pages_updated:
 
-key_findings:
-  - "Secure .gov websites use HTTPS A lock ( Lock Locked padlock ) or https:// means you’ve safely connected to the .gov website. Share sensitive information only on official, secure websites."
 collection_url: https://www.justice.gov/usao-edca/pr/sacramento-woman-pleads-guilty-conspiracy-distribute-fentanyl
 created: 2026-04-18
 defendant_names:
@@ -23,8 +21,13 @@ defendant_names:
 updated: 2026-04-18
 duplicate_of: "[[2025-06-23_justice-gov_sacramento-woman-pleads-guilty-to-conspiracy-to-distribute-fentanyl]]"
 duplicate_reason: same_collection_url
-duplicate_key: "https://www.justice.gov/usao-edca/pr/sacramento-woman-pleads-guilty-conspiracy-distribute-fentanyl"
+duplicate_key: https://www.justice.gov/usao-edca/pr/sacramento-woman-pleads-guilty-conspiracy-distribute-fentanyl
 duplicate_normalized_at: 2026-04-26
+text_status: source-digest
+storage_mode: source-digest
+content_hash: sha256:0bd9590d490696938c69037435d0fc1c57566cb0e87938d571ac7b7af5eab63f
+word_count: 105
+extraction_date: 2026-04-28
 ---
 ## Source Summary
 

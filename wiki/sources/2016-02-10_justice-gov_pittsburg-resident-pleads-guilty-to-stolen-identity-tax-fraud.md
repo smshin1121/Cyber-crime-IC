@@ -14,7 +14,7 @@ sensitivity: public
 pages_updated:
   - operation-pittsburg-resident-pleads-guilty-to-stolen-identity-tax-fraud
 key_findings:
-  - "This domestic-only U.S. follow-on record has been absorbed into the canonical case page [[pittsburg-resident-pleads-guilty-to-stolen-identity-tax-fraud]]. No visible cross-border mechanism is documented, so it is not treated as a separate international-cooperation operation."
+  - "This domestic-only U.S. follow-on record has been absorbed into the canonical case page pittsburg-resident-pleads-guilty-to-stolen-identity-tax-fraud. No visible cross-border mechanism is documented, so it is not treated as a separate international-cooperation operation."
 collection_url: https://www.justice.gov/usao-ndca/pr/pittsburg-resident-pleads-guilty-stolen-identity-tax-fraud
 created: 2026-04-17
 text_status: parsed

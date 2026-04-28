@@ -19,8 +19,12 @@ collection_url: https://www.politie.nl/nieuws/2025/mei/9/internationale-cybercri
 created: 2026-04-17
 duplicate_of: "[[2025-05-09_politie-nl_anyproxy-amsterdam-fbi]]"
 duplicate_reason: same_collection_url
-duplicate_key: "https://www.politie.nl/nieuws/2025/mei/9/internationale-cybercrime-aangepakt-politie-amsterdam-en-fbi-ontmantelen-proxydienst-anyproxy.html"
+duplicate_key: https://www.politie.nl/nieuws/2025/mei/9/internationale-cybercrime-aangepakt-politie-amsterdam-en-fbi-ontmantelen-proxydienst-anyproxy.html
 duplicate_normalized_at: 2026-04-26
+text_status: parsed
+content_hash: sha256:ca03d06463b26c222e6627a4f06f191e68fc232cb0dfd1190764bcaf44e5dd01
+word_count: 778
+extraction_date: 2026-04-25
 ---
 ## Source Summary
 

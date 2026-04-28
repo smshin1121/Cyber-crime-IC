@@ -19,8 +19,14 @@ collection_url: https://www.justice.gov/opa/pr/man-sentenced-over-24-years-priso
 created: 2026-04-25
 duplicate_of: "[[2025-02-24_justice-gov-opa_man-sentenced-24-years-running-dark-web-child-sexual-abuse-websites]]"
 duplicate_reason: same_collection_url
-duplicate_key: "https://www.justice.gov/opa/pr/man-sentenced-over-24-years-prison-running-multiple-dark-web-child-sexual-abuse-websites"
+duplicate_key: https://www.justice.gov/opa/pr/man-sentenced-over-24-years-prison-running-multiple-dark-web-child-sexual-abuse-websites
 duplicate_normalized_at: 2026-04-26
+raw_path: raw/press-releases/2025-02-27_justice-gov_man-sentenced-over-24-years-prison-multiple-dark-web-child-sexual-abuse-websites.md
+text_status: source-digest
+storage_mode: source-digest
+content_hash: sha256:6e12567b3063ac6aec34c288dd0fda366abd057ebb3fcbdfdd73bbccf4d9c412
+word_count: 162
+extraction_date: 2026-04-28
 ---
 ## Source Summary
 

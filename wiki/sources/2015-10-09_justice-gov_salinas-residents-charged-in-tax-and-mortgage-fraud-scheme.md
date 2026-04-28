@@ -14,7 +14,7 @@ sensitivity: public
 pages_updated:
   - operation-salinas-residents-charged-in-tax-and-mortgage-fraud-scheme
 key_findings:
-  - "This domestic-only U.S. follow-on record has been absorbed into the canonical case page [[salinas-residents-charged-in-tax-and-mortgage-fraud-scheme]]. No visible cross-border mechanism is documented, so it is not treated as a separate international-cooperation operation."
+  - "This domestic-only U.S. follow-on record has been absorbed into the canonical case page salinas-residents-charged-in-tax-and-mortgage-fraud-scheme. No visible cross-border mechanism is documented, so it is not treated as a separate international-cooperation operation."
 collection_url: https://www.justice.gov/usao-ndca/pr/salinas-residents-charged-tax-and-mortgage-fraud-scheme
 created: 2026-04-17
 text_status: parsed

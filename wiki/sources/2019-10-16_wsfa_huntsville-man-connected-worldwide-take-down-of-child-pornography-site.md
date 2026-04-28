@@ -3,7 +3,7 @@ type: source
 title: "Huntsville man connected to worldwide take down of child pornography site"
 source_type: news
 publisher: "WSFA (Montgomery)"
-author: "Staff"
+author: Staff
 publish_date: 2019-10-16
 ingest_date: 2026-04-25
 language: en
@@ -18,6 +18,8 @@ key_findings:
   - "Bitcoin payment mechanism named"
 collection_url: https://www.wsfa.com/2019/10/16/huntsville-man-connected-worldwide-take-down-child-pornography-site/
 created: 2026-04-25
+raw_path: raw/news/2019-10-16_wsfa_huntsville-man-connected-worldwide-take-down-of-child-pornography-site.md
+copyright_policy: summary-only
 ---
 ## Source Summary
 

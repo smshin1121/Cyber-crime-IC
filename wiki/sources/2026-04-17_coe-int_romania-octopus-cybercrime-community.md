@@ -14,7 +14,7 @@ sensitivity: public
 pages_updated:
 
 key_findings:
-  - "Romania is a major European cybercrime cooperation partner. It is a **[[budapest-convention|Budapest Convention]] party** since 2004 (one of the earliest) and hosts the **Council of Europe Cybercrime Programme Office ([[c-proc|C-PROC]])** in Bucharest, which runs global capacity-building programmes."
+  - "Romania is a major European cybercrime cooperation partner. It is a **Budapest Convention party** since 2004 (one of the earliest) and hosts the **Council of Europe Cybercrime Programme Office (C-PROC)** in Bucharest, which runs global capacity-building programmes."
 collection_url: https://www.coe.int/en/web/octopus/country-wiki-ap/-/asset_publisher/hFPA5fbKjyCJ/content/romania
 created: 2026-04-17
 text_status: parsed

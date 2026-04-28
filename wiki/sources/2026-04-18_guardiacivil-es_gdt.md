@@ -23,8 +23,15 @@ key_findings:
 created: 2026-04-18
 duplicate_of: "[[2026-04-17_web-guardiacivil-es_ciberdelincuencia-y-delitos-en-internet-gdt]]"
 duplicate_reason: same_collection_url
-duplicate_key: "https://web.guardiacivil.es/es/institucional/conocenos/especialidades/gdt/"
+duplicate_key: https://web.guardiacivil.es/es/institucional/conocenos/especialidades/gdt/
 duplicate_normalized_at: 2026-04-26
+raw_path: raw/government-reports/2026-04-18_guardiacivil-es_gdt.md
+text_status: summarized
+storage_mode: summary-only
+content_hash: sha256:949f05dc899d5add81e3de767a3040c10f7c02657b3c58df9feb41e80842bf1a
+word_count: 171
+extraction_date: 2026-04-27
+copyright_policy: summary-only
 ---
 ## Source Summary
 

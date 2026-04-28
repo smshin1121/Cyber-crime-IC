@@ -12,15 +12,20 @@ reliability: high
 credibility: confirmed
 sensitivity: public
 pages_updated:
-  []
+
 key_findings:
   - "Operation HAECHI IV was the fourth iteration of the Korea-initiated HAECHI series, running from July to December 2023 across **34 countries**. The operation resulted in approximately **3,500 arrests** and seizure of **USD 300 million** (USD 199M fiat, USD 101M virtual assets). Authorities blocked **82,112 suspicious bank accounts**. HAECHI IV represented a **260% increase** in arrests compared to HAECHI III (2022)."
 collection_url: https://www.interpol.int/News-and-Events/News/2023/USD-300-million-seized-and-3-500-suspects-arrested-in-international-financial-crime-operation
 created: 2026-04-17
 duplicate_of: "[[2023-12-19-interpol-operation-haechi-iv]]"
 duplicate_reason: same_collection_url
-duplicate_key: "https://www.interpol.int/News-and-Events/News/2023/USD-300-million-seized-and-3-500-suspects-arrested-in-international-financial-crime-operation"
+duplicate_key: https://www.interpol.int/News-and-Events/News/2023/USD-300-million-seized-and-3-500-suspects-arrested-in-international-financial-crime-operation
 duplicate_normalized_at: 2026-04-26
+text_status: source-digest
+storage_mode: source-digest
+content_hash: sha256:eefa117c98700296e6801d090ab6e3848535064f1a1ba34f12af597db5cc7c2e
+word_count: 231
+extraction_date: 2026-04-28
 ---
 ## Source Summary
 

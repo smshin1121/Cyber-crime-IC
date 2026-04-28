@@ -17,6 +17,13 @@ key_findings:
   - "Establishes multi-agency posture from indictment through to 2024 sentencing."
 collection_url: https://www.ice.gov/news/releases/darknet-fentanyl-dealer-indicted-dallas-selling-deadly-drug-bitcoin
 created: 2026-04-25
+raw_path: raw/press-releases/2022-10-01_ice-hsi_darknet-fentanyl-dealer-indicted-dallas-bitcoin.md
+text_status: parsed
+content_hash: sha256:12cae26129bb1d98917f88307206c749d0e84238fa64e943e0ffb88e93b5cf0c
+word_count: 1102
+extraction_date: 2026-04-28
+last_fetcher: curl_cffi
+storage_mode: fulltext
 ---
 ## Source Summary
 

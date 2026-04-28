@@ -13,15 +13,18 @@ credibility: confirmed
 sensitivity: public
 pages_updated:
   - xdedic-marketplace-takedown
-key_findings:
-  - "Secure .gov websites use HTTPS A lock ( Lock Locked padlock ) or https:// means you’ve safely connected to the .gov website. Share sensitive information only on official, secure websites."
 collection_url: https://www.justice.gov/usao-mdfl/victim-witness-services/xDedic
 created: 2026-04-17
 updated: 2026-04-18
 duplicate_of: "[[2024-08-07_justice-gov_united-states-v-t-andre-mcneely-et-al]]"
 duplicate_reason: same_collection_url
-duplicate_key: "https://www.justice.gov/usao-mdfl/victim-witness-services/xDedic"
+duplicate_key: https://www.justice.gov/usao-mdfl/victim-witness-services/xDedic
 duplicate_normalized_at: 2026-04-26
+text_status: source-digest
+storage_mode: source-digest
+content_hash: sha256:66273aa195a420ea12066bdd250f3067a7308e11c411b84b9d7307a958111607
+word_count: 209
+extraction_date: 2026-04-28
 ---
 ## Source Summary
 

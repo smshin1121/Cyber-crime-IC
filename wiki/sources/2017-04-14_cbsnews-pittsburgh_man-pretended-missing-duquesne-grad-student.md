@@ -3,7 +3,7 @@ type: source
 title: "Charges: Man Cyberstalked Woman, Pretended To Be Missing Duquesne Grad Student"
 raw_path: raw/news/2017-04-14_cbsnews-pittsburgh_man-pretended-missing-duquesne-grad-student.md
 source_type: news
-publisher: CBS News Pittsburgh (KDKA)
+publisher: "CBS News Pittsburgh (KDKA)"
 author: ""
 publish_date: 2017-04-14
 ingest_date: 2026-04-25
@@ -19,6 +19,7 @@ key_findings:
   - "Federal magistrate appearance scheduled in WDPA."
 collection_url: https://www.cbsnews.com/pittsburgh/news/man-pretended-missing-duquesne-grad-student/
 created: 2026-04-25
+copyright_policy: summary-only
 ---
 ## Source Summary
 

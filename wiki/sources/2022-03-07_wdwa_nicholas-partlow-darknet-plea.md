@@ -13,15 +13,18 @@ credibility: confirmed
 sensitivity: public
 pages_updated:
 
-key_findings:
-  - "Secure .gov websites use HTTPS A lock ( Lock Locked padlock ) or https:// means you’ve safely connected to the .gov website. Share sensitive information only on official, secure websites."
 collection_url: https://www.justice.gov/usao-wdwa/pr/darknet-drug-trafficker-pleads-guilty-conspiracy-and-firearm-charges
 created: 2026-04-17
 updated: 2026-04-18
 duplicate_of: "[[2022-03-07_justice-gov_darknet-drug-trafficker-pleads-guilty-to-conspiracy-and-firearm-charges]]"
 duplicate_reason: same_collection_url
-duplicate_key: "https://www.justice.gov/usao-wdwa/pr/darknet-drug-trafficker-pleads-guilty-conspiracy-and-firearm-charges"
+duplicate_key: https://www.justice.gov/usao-wdwa/pr/darknet-drug-trafficker-pleads-guilty-conspiracy-and-firearm-charges
 duplicate_normalized_at: 2026-04-26
+text_status: source-digest
+storage_mode: source-digest
+content_hash: sha256:00cf5b40257fbd793587a2aa21a57450737444603259122bc163989ff0e741bf
+word_count: 132
+extraction_date: 2026-04-28
 ---
 ## Source Summary
 

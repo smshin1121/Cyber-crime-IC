@@ -1,20 +1,20 @@
 ---
 type: source
 title: "FBI: How Cyber Crime Group FIN7 Attacked and Stole Data from Hundreds of U.S. Companies"
-collection_url: "https://www.fbi.gov/contact-us/field-offices/seattle/news/stories/how-cyber-crime-group-fin7-attacked-and-stole-data-from-hundreds-of-us-companies"
-collection_domain: "fbi.gov"
-source_type: "press-release"
+collection_url: https://www.fbi.gov/contact-us/field-offices/seattle/news/stories/how-cyber-crime-group-fin7-attacked-and-stole-data-from-hundreds-of-us-companies
+collection_domain: fbi.gov
+source_type: press-release
 publisher: "FBI (Seattle Field Office)"
-publish_date: "2018-08-01"
-ingest_date: "2026-04-08"
-enriched_date: "2026-04-10"
-language: "en"
-reliability: "high"
-credibility: "confirmed"
-sensitivity: "public"
+publish_date: 2018-08-01
+ingest_date: 2026-04-08
+enriched_date: 2026-04-10
+language: en
+reliability: high
+credibility: confirmed
+sensitivity: public
 source_tier: 2
 pages_updated:
-  - "fin7-takedown"
+  - fin7-takedown
 key_findings:
   - "FBI Seattle Field Office published the story on or around 2018-08-01 describing the FIN7 takedown in which three Ukrainian nationals — Dmytro Fedorov, Fedir Hladyr, and Andrii Kopakov — were arrested and charged as high-ranking members of the FIN7 cybercrime group"
   - "FIN7 had targeted more than 100 US companies since at least 2015, predominantly in the restaurant, gaming, and hospitality sectors"
@@ -26,10 +26,15 @@ created: 2026-04-08
 updated: 2026-04-10
 duplicate_of: "[[2018-01-01_fbi-gov_how-cyber-crime-group-fin7-attacked-and-stole-data-from-hundreds-of-us-companies]]"
 duplicate_reason: same_collection_url
-duplicate_key: "https://www.fbi.gov/contact-us/field-offices/seattle/news/stories/how-cyber-crime-group-fin7-attacked-and-stole-data-from-hundreds-of-us-companies"
+duplicate_key: https://www.fbi.gov/contact-us/field-offices/seattle/news/stories/how-cyber-crime-group-fin7-attacked-and-stole-data-from-hundreds-of-us-companies
 duplicate_normalized_at: 2026-04-26
+raw_path: raw/press-releases/fbi-fin7-cybercrime-group-takedown.md
+text_status: source-digest
+storage_mode: source-digest
+content_hash: sha256:8d41cb941d49dd47a50bd04aa8ed4b5a6dac51c793fdbcf511235d837ef79578
+word_count: 375
+extraction_date: 2026-04-28
 ---
-
 ## Source
 
 - **Publisher**: FBI (Seattle Field Office)

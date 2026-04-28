@@ -2,8 +2,8 @@
 type: source
 title: "Prior felon admits cyberstalking woman"
 source_type: news
-publisher: "Fingerlakes1.com"
-author: "Staff"
+publisher: Fingerlakes1.com
+author: Staff
 publish_date: 2026-02-28
 ingest_date: 2026-04-25
 language: en
@@ -17,6 +17,8 @@ key_findings:
   - "WNY regional press confirmation of Richter's 2026-02-28 WDNY guilty plea."
 collection_url: https://www.fingerlakes1.com/2026/02/28/prior-felon-admits-cyberstalking-woman/
 created: 2026-04-25
+raw_path: raw/news/2026-02-28_fingerlakes1_prior-felon-admits-cyberstalking-woman.md
+copyright_policy: summary-only
 ---
 ## Source Summary
 

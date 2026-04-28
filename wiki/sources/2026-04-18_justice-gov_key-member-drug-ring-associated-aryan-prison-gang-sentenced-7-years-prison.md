@@ -13,8 +13,6 @@ credibility: confirmed
 sensitivity: public
 pages_updated:
 
-key_findings:
-  - "Secure .gov websites use HTTPS A lock ( Lock Locked padlock ) or https:// means you’ve safely connected to the .gov website. Share sensitive information only on official, secure websites."
 collection_url: https://www.justice.gov/usao-wdwa/pr/key-member-drug-ring-associated-aryan-prison-gang-sentenced-7-years-prison
 created: 2026-04-18
 defendant_names:
@@ -22,8 +20,13 @@ defendant_names:
 updated: 2026-04-18
 duplicate_of: "[[2025-02-07_justice-gov_key-member-of-drug-ring-associated-with-aryan-prison-gang-sentenced-to-7-years-i]]"
 duplicate_reason: same_collection_url
-duplicate_key: "https://www.justice.gov/usao-wdwa/pr/key-member-drug-ring-associated-aryan-prison-gang-sentenced-7-years-prison"
+duplicate_key: https://www.justice.gov/usao-wdwa/pr/key-member-drug-ring-associated-aryan-prison-gang-sentenced-7-years-prison
 duplicate_normalized_at: 2026-04-26
+text_status: source-digest
+storage_mode: source-digest
+content_hash: sha256:196e3e0c220098a968cc6b80f4ae4047aae157e6d73a553c4f77374a9ef1c4dc
+word_count: 125
+extraction_date: 2026-04-28
 ---
 ## Source Summary
 

@@ -14,7 +14,7 @@ sensitivity: public
 pages_updated:
   - operation-man-caught-three-times-with-dealer-quantities-of-fentanyl-indicted-federally
 key_findings:
-  - "This domestic-only U.S. follow-on record has been absorbed into the canonical case page [[man-caught-three-times-with-dealer-quantities-of-fentanyl-indicted-federally]]. No visible cross-border mechanism is documented, so it is not treated as a separate international-cooperation operation."
+  - "This domestic-only U.S. follow-on record has been absorbed into the canonical case page man-caught-three-times-with-dealer-quantities-of-fentanyl-indicted-federally. No visible cross-border mechanism is documented, so it is not treated as a separate international-cooperation operation."
 collection_url: https://www.justice.gov/usao-wdwa/pr/man-caught-three-times-dealer-quantities-fentanyl-indicted-federally
 created: 2026-04-17
 text_status: parsed

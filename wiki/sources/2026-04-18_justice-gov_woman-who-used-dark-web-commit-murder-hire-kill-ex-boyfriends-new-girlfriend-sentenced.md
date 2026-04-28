@@ -13,8 +13,6 @@ credibility: confirmed
 sensitivity: public
 pages_updated:
 
-key_findings:
-  - "Secure .gov websites use HTTPS A lock ( Lock Locked padlock ) or https:// means you’ve safely connected to the .gov website. Share sensitive information only on official, secure websites."
 collection_url: https://www.justice.gov/usao-ut/pr/woman-who-used-dark-web-commit-murder-hire-kill-ex-boyfriends-new-girlfriend-sentenced
 created: 2026-04-18
 defendant_names:
@@ -22,8 +20,13 @@ defendant_names:
 updated: 2026-04-18
 duplicate_of: "[[2024-08-19_justice-gov_woman-who-used-the-dark-web-to-commit-a-murder-for-hire-to-kill-an-ex-boyfriend]]"
 duplicate_reason: same_collection_url
-duplicate_key: "https://www.justice.gov/usao-ut/pr/woman-who-used-dark-web-commit-murder-hire-kill-ex-boyfriends-new-girlfriend-sentenced"
+duplicate_key: https://www.justice.gov/usao-ut/pr/woman-who-used-dark-web-commit-murder-hire-kill-ex-boyfriends-new-girlfriend-sentenced
 duplicate_normalized_at: 2026-04-26
+text_status: source-digest
+storage_mode: source-digest
+content_hash: sha256:64839992b156b1452a08b1c6ba2913ec56d91447aac8c55be10fb11488680e44
+word_count: 129
+extraction_date: 2026-04-28
 ---
 ## Source Summary
 

@@ -17,6 +17,8 @@ key_findings:
   - "Notes arrest of a main subject and seizure of server infrastructure overseas."
 collection_url: https://therecord.media/doj-seizes-three-cybercrime-domains
 created: 2026-04-25
+raw_path: raw/news/2022-05-31_therecord_doj-seizes-three-cybercrime-domains.md
+copyright_policy: summary-only
 ---
 ## Source Summary
 

@@ -3,7 +3,7 @@ type: source
 title: "Indictment: Michigan man living in Minnesota used dark web to buy 2,500 stolen logins"
 source_type: news
 publisher: "Yahoo News (via Star Tribune)"
-author: "Staff"
+author: Staff
 publish_date: 2025-02-20
 ingest_date: 2026-04-25
 language: en
@@ -18,6 +18,8 @@ key_findings:
   - "Establishes Genesis Market connection (FBI Operation Cookie Monster, April 2023) for IC nexus."
 collection_url: https://www.yahoo.com/news/indictment-michigan-man-living-minnesota-224018996.html
 created: 2026-04-25
+raw_path: raw/news/2025-02-20_yahoo_indictment-michigan-man-living-minnesota-2500-stolen-logins.md
+copyright_policy: summary-only
 ---
 ## Source Summary
 

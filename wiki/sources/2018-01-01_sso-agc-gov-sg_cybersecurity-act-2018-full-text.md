@@ -14,7 +14,7 @@ sensitivity: public
 pages_updated:
 
 key_findings:
-  - "The **Cybersecurity Act 2018** is Singapore's principal national cybersecurity law, enacted in February 2018 and coming into force in August 2018. The Act established the role of the **Commissioner of Cybersecurity** (held by the Chief Executive of the [[singapore-csa|Cyber Security Agency of Singapore (CSA)]]) and created the legal framework for designating and regulating **Critical Information Infrastructure (CII)** [1]."
+  - "The **Cybersecurity Act 2018** is Singapore's principal national cybersecurity law, enacted in February 2018 and coming into force in August 2018. The Act established the role of the **Commissioner of Cybersecurity** (held by the Chief Executive of the Cyber Security Agency of Singapore (CSA)) and created the legal framework for designating and regulating **Critical Information Infrastructure (CII)** [1]."
 collection_url: https://sso.agc.gov.sg/Act/CA2018
 created: 2026-04-17
 text_status: parsed

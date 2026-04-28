@@ -14,7 +14,7 @@ sensitivity: public
 pages_updated:
 
 key_findings:
-  - "INTERPOL's ASEAN Cybercrime Operations Desk coordinated two operations -- Goldfish Alpha (targeting cryptojacking malware) and Night Fury (targeting e-commerce malware) -- across Southeast Asian nations during 2019-2020. These operations addressed key cyber threats facing the ASEAN region including botnets, phishing, BEC, banking malware, ransomware, and cryptojacking. Through information sharing and joint operations among ASEAN member states, criminal networks were dismantled and arrests were made."
+  - "INTERPOL's ASEAN Cybercrime Operations Desk coordinated two operations -- Goldfish Alpha (targeting cryptojacking malware) and Night Fury (targeting e-commerce malware) -- across Southeast Asian nations during 2019-2020. These operations addressed key cyber threats facing the ASEAN region including botnets, phishing, BEC, banking malware, ransomware, and cryptojacking. Through information sharing and joint operations among ASEAN member states, criminal networks were dismantled and arrests were."
 collection_url: https://www.interpol.int/News-and-Events/News/2020/INTERPOL-report-highlights-key-cyberthreats-in-Southeast-Asia
 created: 2026-04-17
 text_status: parsed

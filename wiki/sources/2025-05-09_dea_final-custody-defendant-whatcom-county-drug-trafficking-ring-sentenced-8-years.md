@@ -19,8 +19,14 @@ collection_url: https://www.dea.gov/press-releases/2025/05/09/final-custody-defe
 created: 2026-04-25
 duplicate_of: "[[2025-05-09_dea-gov_final-custody-defendant-whatcom-county-drug-trafficking-ring-sentenced-8-years-prison]]"
 duplicate_reason: same_collection_url
-duplicate_key: "https://www.dea.gov/press-releases/2025/05/09/final-custody-defendant-whatcom-county-drug-trafficking-ring-sentenced-8"
+duplicate_key: https://www.dea.gov/press-releases/2025/05/09/final-custody-defendant-whatcom-county-drug-trafficking-ring-sentenced-8
 duplicate_normalized_at: 2026-04-26
+raw_path: raw/press-releases/2025-05-09_dea_final-custody-defendant-whatcom-county-drug-trafficking-ring-sentenced-8-years.md
+text_status: parsed
+storage_mode: source-digest
+content_hash: sha256:6adfe079fb639c15a18e85a8369b916462ef540f9181dbaa4f2c4fb026bf2da6
+word_count: 5502
+extraction_date: 2026-04-25
 ---
 ## Source Summary
 

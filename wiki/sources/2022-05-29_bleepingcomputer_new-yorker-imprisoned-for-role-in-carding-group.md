@@ -2,7 +2,7 @@
 type: source
 title: "New Yorker imprisoned for role in carding group behind $568M damages"
 source_type: news
-publisher: "BleepingComputer"
+publisher: BleepingComputer
 author: "Sergiu Gatlan"
 publish_date: 2022-05-29
 ingest_date: 2026-04-25

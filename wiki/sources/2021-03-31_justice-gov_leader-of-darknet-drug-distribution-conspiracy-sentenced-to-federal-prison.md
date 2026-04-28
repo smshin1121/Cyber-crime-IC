@@ -14,7 +14,7 @@ sensitivity: public
 pages_updated:
   - operation-leader-of-darknet-drug-distribution-conspiracy-sentenced-to-federal-prison
 key_findings:
-  - "This domestic-only U.S. follow-on record has been absorbed into the canonical case page [[leader-of-darknet-drug-distribution-conspiracy-sentenced-to-federal-prison]]. No visible cross-border mechanism is documented, so it is not treated as a separate international-cooperation operation."
+  - "This domestic-only U.S. follow-on record has been absorbed into the canonical case page leader-of-darknet-drug-distribution-conspiracy-sentenced-to-federal-prison. No visible cross-border mechanism is documented, so it is not treated as a separate international-cooperation operation."
 collection_url: https://www.justice.gov/usao-or/pr/leader-darknet-drug-distribution-conspiracy-sentenced-federal-prison
 created: 2026-04-17
 text_status: parsed

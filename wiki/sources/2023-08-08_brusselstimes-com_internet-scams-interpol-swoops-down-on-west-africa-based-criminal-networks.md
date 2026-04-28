@@ -12,11 +12,12 @@ reliability: medium
 credibility: reported
 sensitivity: public
 pages_updated:
-  []
+
 key_findings:
   - "This European news write-up summarizes the overall results of Operation Jackal and highlights Portugal and Ireland as notable sub-theaters."
 collection_url: https://www.brusselstimes.com/news/637054/internet-scams-interpol-swoops-down-on-west-africa-based-criminal-networks/
 created: 2026-04-23
+copyright_policy: summary-only
 ---
 ## Source Summary
 

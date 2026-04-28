@@ -13,8 +13,6 @@ credibility: confirmed
 sensitivity: public
 pages_updated:
 
-key_findings:
-  - "Secure .gov websites use HTTPS A lock ( Lock Locked padlock ) or https:// means you’ve safely connected to the .gov website. Share sensitive information only on official, secure websites."
 collection_url: https://www.justice.gov/usao-edny/pr/two-men-charged-breaching-federal-law-enforcement-database-and-posing-police-officers
 created: 2026-04-18
 updated: 2026-04-18
@@ -22,8 +20,13 @@ defendant_names:
   - "Two Men"
 duplicate_of: "[[2023-03-14_justice-gov_two-men-charged-for-breaching-federal-law-enforcement-database-and-posing-as-pol]]"
 duplicate_reason: same_collection_url
-duplicate_key: "https://www.justice.gov/usao-edny/pr/two-men-charged-breaching-federal-law-enforcement-database-and-posing-police-officers"
+duplicate_key: https://www.justice.gov/usao-edny/pr/two-men-charged-breaching-federal-law-enforcement-database-and-posing-police-officers
 duplicate_normalized_at: 2026-04-26
+text_status: source-digest
+storage_mode: source-digest
+content_hash: sha256:1a1891fb043e9ae53fbfb5df8298a0d3625a89a772b9e5cae383e77eff28221d
+word_count: 115
+extraction_date: 2026-04-28
 ---
 ## Source Summary
 

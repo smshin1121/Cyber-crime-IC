@@ -17,6 +17,11 @@ key_findings:
   - "French, Belgian, Cypriot, German, and Spanish authorities worked with Eurojust to take down a cryptocurrency investment-scam and laundering network that moved approximately **EUR 600 million**."
 collection_url: https://www.eurojust.europa.eu/news/decisive-actions-against-cryptocurrency-scammers-earning-over-eur-600-million
 created: 2026-04-17
+text_status: source-digest
+storage_mode: source-digest
+content_hash: sha256:9d2caf8dcfc695d7f156c99a52f4acbd01b235dee987d1271aafc9a6090212c8
+word_count: 141
+extraction_date: 2026-04-28
 ---
 ## Source Summary
 

@@ -26,8 +26,13 @@ defendant_names:
 updated: 2026-04-18
 duplicate_of: "[[2025-06-23_justice-gov_seven-georgians-indicted-for-operating-online-fentanyl-meth-marketplace]]"
 duplicate_reason: same_collection_url
-duplicate_key: "https://www.justice.gov/usao-mdga/pr/seven-georgians-indicted-operating-online-fentanyl-meth-marketplace"
+duplicate_key: https://www.justice.gov/usao-mdga/pr/seven-georgians-indicted-operating-online-fentanyl-meth-marketplace
 duplicate_normalized_at: 2026-04-26
+text_status: source-digest
+storage_mode: source-digest
+content_hash: sha256:710eef06a481c24b10bb77b50ecd2b945f45c836b36f0463f2012e2841c8cb73
+word_count: 120
+extraction_date: 2026-04-28
 ---
 ## Source Summary
 

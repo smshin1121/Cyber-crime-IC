@@ -13,8 +13,6 @@ credibility: confirmed
 sensitivity: public
 pages_updated:
 
-key_findings:
-  - "Secure .gov websites use HTTPS A lock ( Lock Locked padlock ) or https:// means you’ve safely connected to the .gov website. Share sensitive information only on official, secure websites."
 collection_url: https://www.justice.gov/usao-nm/pr/zuni-man-indicted-federal-charges-triple-homicide
 created: 2026-04-18
 defendant_names:
@@ -22,8 +20,13 @@ defendant_names:
 updated: 2026-04-18
 duplicate_of: "[[2025-11-13_justice-gov_zuni-man-indicted-for-federal-charges-in-triple-homicide]]"
 duplicate_reason: same_collection_url
-duplicate_key: "https://www.justice.gov/usao-nm/pr/zuni-man-indicted-federal-charges-triple-homicide"
+duplicate_key: https://www.justice.gov/usao-nm/pr/zuni-man-indicted-federal-charges-triple-homicide
 duplicate_normalized_at: 2026-04-26
+text_status: source-digest
+storage_mode: source-digest
+content_hash: sha256:a2ca1b89fdf87161960ef1d38824dfb77db3ca1cdc165e50016d64d1923493a3
+word_count: 116
+extraction_date: 2026-04-28
 ---
 ## Source Summary
 

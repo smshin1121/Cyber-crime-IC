@@ -22,8 +22,13 @@ defendant_names:
 updated: 2026-04-18
 duplicate_of: "[[2023-12-18_justice-gov_counterfeit-prescription-drug-distributor-sentenced-to-federal-prison]]"
 duplicate_reason: same_collection_url
-duplicate_key: "https://www.justice.gov/usao-wdtn/pr/counterfeit-prescription-drug-distributor-sentenced-federal-prison"
+duplicate_key: https://www.justice.gov/usao-wdtn/pr/counterfeit-prescription-drug-distributor-sentenced-federal-prison
 duplicate_normalized_at: 2026-04-26
+text_status: source-digest
+storage_mode: source-digest
+content_hash: sha256:1d8545bdb1fb3d03447d47b421b18b6ca9ff086da2a79bca9a1f50dade487831
+word_count: 138
+extraction_date: 2026-04-28
 ---
 ## Source Summary
 

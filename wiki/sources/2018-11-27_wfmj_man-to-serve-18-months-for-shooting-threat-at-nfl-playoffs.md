@@ -3,7 +3,7 @@ type: source
 title: "Man to serve 18 months for shooting threat at NFL playoffs"
 source_type: news
 publisher: "WFMJ (Youngstown-Warren, OH)"
-author: "Staff"
+author: Staff
 publish_date: 2018-11-27
 ingest_date: 2026-04-25
 language: en
@@ -15,8 +15,10 @@ pages_updated:
 key_findings:
   - "Regional TV news sentencing confirmation."
   - "URL existence verified via search engine indexing."
-collection_url: https://www.wfmj.com/story/39552821/man-to-serve-18-months-for-shooting-threat-at-nfl-playoffs?clienttype=mobile
+collection_url: "https://www.wfmj.com/story/39552821/man-to-serve-18-months-for-shooting-threat-at-nfl-playoffs?clienttype=mobile"
 created: 2026-04-25
+raw_path: raw/news/2018-11-27_wfmj_man-to-serve-18-months-for-shooting-threat-at-nfl-playoffs.md
+copyright_policy: summary-only
 ---
 ## Source Summary
 

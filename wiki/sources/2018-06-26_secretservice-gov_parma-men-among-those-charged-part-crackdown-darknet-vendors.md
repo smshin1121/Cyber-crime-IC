@@ -18,6 +18,12 @@ key_findings:
   - "The release described seizures of drugs, firearms, cash, and cryptocurrency and tied the actions to a broader nationwide anti-darknet-vendor crackdown."
 collection_url: https://www.secretservice.gov/newsroom/releases/2018/06/parma-men-among-those-charged-part-crackdown-darknet-vendors
 created: 2026-04-25
+raw_path: raw/press-releases/2018-06-26_secretservice-gov_parma-men-among-those-charged-part-crackdown-darknet-vendors.md
+text_status: source-digest
+storage_mode: source-digest
+content_hash: sha256:e77d72db72670a2799466c7b886a7fcc22cea28d2a2b117870532a671baf3a64
+word_count: 172
+extraction_date: 2026-04-28
 ---
 ## Source Summary
 

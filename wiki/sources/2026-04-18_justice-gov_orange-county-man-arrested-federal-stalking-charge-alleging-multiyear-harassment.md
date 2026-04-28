@@ -22,8 +22,13 @@ defendant_names:
 updated: 2026-04-18
 duplicate_of: "[[2022-05-24_justice-gov_orange-county-man-arrested-on-federal-stalking-charge-alleging-multiyear-harassm]]"
 duplicate_reason: same_collection_url
-duplicate_key: "https://www.justice.gov/usao-cdca/pr/orange-county-man-arrested-federal-stalking-charge-alleging-multiyear-harassment"
+duplicate_key: https://www.justice.gov/usao-cdca/pr/orange-county-man-arrested-federal-stalking-charge-alleging-multiyear-harassment
 duplicate_normalized_at: 2026-04-26
+text_status: source-digest
+storage_mode: source-digest
+content_hash: sha256:489d7726b8cd2e0c7c738b7137403650f17f4a5be4ff1f6c42ed0929cbc53ee1
+word_count: 130
+extraction_date: 2026-04-28
 ---
 ## Source Summary
 

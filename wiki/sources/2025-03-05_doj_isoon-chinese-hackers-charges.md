@@ -13,15 +13,17 @@ credibility: confirmed
 sensitivity: public
 pages_updated:
 
-key_findings:
-  - "Secure .gov websites use HTTPS A lock ( Lock Locked padlock ) or https:// means you’ve safely connected to the .gov website. Share sensitive information only on official, secure websites."
 collection_url: https://www.justice.gov/opa/pr/justice-department-charges-12-chinese-contract-hackers-and-law-enforcement-officers-global
 created: 2026-04-17
 updated: 2026-04-18
 duplicate_of: "[[2025-03-05-doj-isoon-chinese-hackers-charges]]"
 duplicate_reason: same_collection_url
-duplicate_key: "https://www.justice.gov/opa/pr/justice-department-charges-12-chinese-contract-hackers-and-law-enforcement-officers-global"
+duplicate_key: https://www.justice.gov/opa/pr/justice-department-charges-12-chinese-contract-hackers-and-law-enforcement-officers-global
 duplicate_normalized_at: 2026-04-26
+text_status: parsed
+content_hash: sha256:17ac8af9a56c88fdfbe88f4c93cb80c865e7fb8f152c6178ff004b9faad628ff
+word_count: 2516
+extraction_date: 2026-04-25
 ---
 ## Source Summary
 

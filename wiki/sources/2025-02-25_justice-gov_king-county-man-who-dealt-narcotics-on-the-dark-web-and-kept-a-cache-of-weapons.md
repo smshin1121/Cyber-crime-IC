@@ -14,7 +14,7 @@ sensitivity: public
 pages_updated:
   - operation-king-county-man-who-dealt-narcotics-on-the-dark-web-and-kept-a-cache-of-weapons-at-his-rv-sentenced-to-8-years
 key_findings:
-  - "This domestic-only U.S. follow-on record has been absorbed into the canonical case page [[king-county-man-who-dealt-narcotics-on-the-dark-web-and-kept-a-cache-of-weapons-at-his-rv-sentenced-to-8-years]]. No visible cross-border mechanism is documented, so it is not treated as a separate international-cooperation operation."
+  - "This domestic-only U.S. follow-on record has been absorbed into the canonical case page king-county-man-who-dealt-narcotics-on-the-dark-web-and-kept-a-cache-of-weapons-at-his-rv-sentenced-to-8-years. No visible cross-border mechanism is documented, so it is not treated as a separate international-cooperation operation."
 collection_url: https://www.justice.gov/usao-wdwa/pr/king-county-man-who-dealt-narcotics-dark-web-and-kept-cache-weapons-his-rv-sentenced-8
 created: 2026-04-17
 text_status: parsed

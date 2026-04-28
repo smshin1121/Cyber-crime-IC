@@ -1,21 +1,21 @@
 ---
 type: source
 title: "CyberScoop: International sting shuts down 'favorite' VPN of cybercriminals"
-collection_url: "https://cyberscoop.com/safe-inet-takedown-fbi-interpol/"
-collection_domain: "cyberscoop.com"
-source_type: "news"
-publisher: "CyberScoop"
+collection_url: https://cyberscoop.com/safe-inet-takedown-fbi-interpol/
+collection_domain: cyberscoop.com
+source_type: news
+publisher: CyberScoop
 author: "Joe Warminsky"
-publish_date: "2020-12-22"
-ingest_date: "2026-04-08"
-enriched_date: "2026-04-10"
-language: "en"
-reliability: "medium-high"
-credibility: "probably-true"
-sensitivity: "public"
+publish_date: 2020-12-22
+ingest_date: 2026-04-08
+enriched_date: 2026-04-10
+language: en
+reliability: medium-high
+credibility: probably-true
+sensitivity: public
 source_tier: 3
 pages_updated:
-  - "operation-nova"
+  - operation-nova
 key_findings:
   - "On 22 December 2020, German Reutlingen Police Headquarters led a multi-country operation (codenamed Operation Nova) that seized the infrastructure of Safe-Inet, a decade-old bulletproof VPN service marketed in underground forums as a cybercriminal anonymization tool"
   - "Three domains were seized — safe-inet.com, safe-inet.net and insorg.org — corresponding to the service's multiple branded fronts. Servers were seized in multiple jurisdictions, though the exact count was reported as 'infrastructure in five countries'"
@@ -27,10 +27,16 @@ created: 2026-04-08
 updated: 2026-04-10
 duplicate_of: "[[2020-12-22_cyberscoop-com_safe-inet-takedown-fbi-interpol]]"
 duplicate_reason: same_collection_url
-duplicate_key: "https://cyberscoop.com/safe-inet-takedown-fbi-interpol/"
+duplicate_key: https://cyberscoop.com/safe-inet-takedown-fbi-interpol/
 duplicate_normalized_at: 2026-04-26
+raw_path: raw/news/cyberscoop-operation-nova-safe-inet-vpn-takedown.md
+text_status: summarized
+storage_mode: summary-only
+content_hash: sha256:a1e67e90ef5cb0fe05a15a655a3f023d317e75aed205977b145c19b763d5aa34
+word_count: 367
+extraction_date: 2026-04-27
+copyright_policy: summary-only
 ---
-
 ## Source
 
 - **Publisher**: CyberScoop

@@ -13,8 +13,6 @@ credibility: confirmed
 sensitivity: public
 pages_updated:
 
-key_findings:
-  - "Secure .gov websites use HTTPS A lock ( Lock Locked padlock ) or https:// means you’ve safely connected to the .gov website. Share sensitive information only on official, secure websites."
 collection_url: https://www.justice.gov/usao-ct/pr/nigerian-nationals-charged-operating-business-compromise-scheme
 created: 2026-04-17
 defendant_names:
@@ -22,8 +20,13 @@ defendant_names:
 updated: 2026-04-18
 duplicate_of: "[[2016-12-20_dct_odufuye-nwoke-bec-indictment]]"
 duplicate_reason: same_collection_url
-duplicate_key: "https://www.justice.gov/usao-ct/pr/nigerian-nationals-charged-operating-business-compromise-scheme"
+duplicate_key: https://www.justice.gov/usao-ct/pr/nigerian-nationals-charged-operating-business-compromise-scheme
 duplicate_normalized_at: 2026-04-26
+text_status: source-digest
+storage_mode: source-digest
+content_hash: sha256:7f811b170b8faaff28ab400c6e2c49fd530cd804ffb850a1b9f4b4db19e7b64b
+word_count: 137
+extraction_date: 2026-04-28
 ---
 ## Source Summary
 

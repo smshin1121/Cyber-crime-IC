@@ -3,7 +3,7 @@ type: source
 title: "Guilty Pleas Entered in Transnational Tax Fraud Scheme; Third Conspirator Awaits Extradition"
 source_type: news
 publisher: "Shore News Network"
-author: "Staff"
+author: Staff
 publish_date: 2023-08-21
 ingest_date: 2026-04-25
 language: en
@@ -19,8 +19,10 @@ collection_url: https://www.shorenewsnetwork.com/2023/08/21/guilty-pleas-entered
 created: 2026-04-25
 duplicate_of: "[[2023-08-21_shorenewsnetwork_guilty-pleas-transnational-tax-fraud-scheme]]"
 duplicate_reason: same_collection_url
-duplicate_key: "https://www.shorenewsnetwork.com/2023/08/21/guilty-pleas-entered-in-transnational-tax-fraud-scheme-third-conspirator-awaits-extradition/"
+duplicate_key: https://www.shorenewsnetwork.com/2023/08/21/guilty-pleas-entered-in-transnational-tax-fraud-scheme-third-conspirator-awaits-extradition/
 duplicate_normalized_at: 2026-04-26
+raw_path: raw/news/2023-08-21_shorenewsnetwork_guilty-pleas-transnational-tax-fraud-third-conspirator-extradition.md
+copyright_policy: summary-only
 ---
 ## Source Summary
 

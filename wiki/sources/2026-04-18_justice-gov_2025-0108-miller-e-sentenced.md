@@ -13,8 +13,6 @@ credibility: confirmed
 sensitivity: public
 pages_updated:
 
-key_findings:
-  - "Secure .gov websites use HTTPS A lock ( Lock Locked padlock ) or https:// means you’ve safely connected to the .gov website. Share sensitive information only on official, secure websites."
 collection_url: https://www.justice.gov/usao-wdmi/pr/2025_0108_Miller_E_Sentenced
 created: 2026-04-18
 updated: 2026-04-18
@@ -22,8 +20,13 @@ defendant_names:
   - "Sturgis Man"
 duplicate_of: "[[2025-01-08_justice-gov_sturgis-man-sentenced-to-70-months-for-selling-drugs-on-dark-web]]"
 duplicate_reason: same_collection_url
-duplicate_key: "https://www.justice.gov/usao-wdmi/pr/2025_0108_Miller_E_Sentenced"
+duplicate_key: https://www.justice.gov/usao-wdmi/pr/2025_0108_Miller_E_Sentenced
 duplicate_normalized_at: 2026-04-26
+text_status: source-digest
+storage_mode: source-digest
+content_hash: sha256:f9ce24561ecb1fbe1942826b73fcade961e3626f167b77714a87a5ff1b49ce32
+word_count: 109
+extraction_date: 2026-04-28
 ---
 ## Source Summary
 

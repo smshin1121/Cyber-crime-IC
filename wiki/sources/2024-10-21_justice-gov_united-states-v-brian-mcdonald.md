@@ -13,8 +13,6 @@ credibility: confirmed
 sensitivity: public
 pages_updated:
 
-key_findings:
-  - "Secure .gov websites use HTTPS A lock ( Lock Locked padlock ) or https:// means you’ve safely connected to the .gov website. Share sensitive information only on official, secure websites."
 collection_url: https://www.justice.gov/usao-cdca/pr/van-nuys-man-sentenced-more-20-years-prison-trafficking-fentanyl-and-cocaine-darknet
 created: 2026-04-17
 updated: 2026-04-18
@@ -22,8 +20,13 @@ defendant_names:
   - "Van Nuys Man"
 duplicate_of: "[[2024-10-21_cdca_brian-mcdonald-darknet-sentencing]]"
 duplicate_reason: same_collection_url
-duplicate_key: "https://www.justice.gov/usao-cdca/pr/van-nuys-man-sentenced-more-20-years-prison-trafficking-fentanyl-and-cocaine-darknet"
+duplicate_key: https://www.justice.gov/usao-cdca/pr/van-nuys-man-sentenced-more-20-years-prison-trafficking-fentanyl-and-cocaine-darknet
 duplicate_normalized_at: 2026-04-26
+text_status: source-digest
+storage_mode: source-digest
+content_hash: sha256:2b58f157363b2f4ea43574bd566fbfc4cc7da42c739de9b8eaf1602a5767d79b
+word_count: 153
+extraction_date: 2026-04-28
 ---
 ## Source Summary
 

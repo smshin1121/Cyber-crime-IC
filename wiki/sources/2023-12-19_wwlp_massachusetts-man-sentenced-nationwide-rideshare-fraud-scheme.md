@@ -2,8 +2,8 @@
 type: source
 title: "Massachusetts man sentenced for nationwide rideshare fraud scheme"
 source_type: news
-publisher: "WWLP-22News"
-author: "Staff"
+publisher: WWLP-22News
+author: Staff
 publish_date: 2023-12-19
 ingest_date: 2026-04-25
 language: en
@@ -17,6 +17,8 @@ key_findings:
   - "Western Massachusetts NBC affiliate coverage of De Souza Prado's sentencing."
 collection_url: https://www.wwlp.com/news/crime/massachusetts-man-sentenced-for-nationwide-rideshare-fraud-scheme/
 created: 2026-04-25
+raw_path: raw/news/2023-12-19_wwlp_massachusetts-man-sentenced-nationwide-rideshare-fraud-scheme.md
+copyright_policy: summary-only
 ---
 ## Source Summary
 

@@ -13,8 +13,6 @@ credibility: confirmed
 sensitivity: public
 pages_updated:
 
-key_findings:
-  - "Secure .gov websites use HTTPS A lock ( Lock Locked padlock ) or https:// means you’ve safely connected to the .gov website. Share sensitive information only on official, secure websites."
 collection_url: https://www.justice.gov/usao-wdwa/pr/thurston-county-man-caught-twice-drugs-and-firearms-sentenced-7-years-prison
 created: 2026-04-18
 defendant_names:
@@ -22,8 +20,13 @@ defendant_names:
 updated: 2026-04-18
 duplicate_of: "[[2024-11-27_justice-gov_thurston-county-man-caught-twice-with-drugs-and-firearms-sentenced-to-7-years-in]]"
 duplicate_reason: same_collection_url
-duplicate_key: "https://www.justice.gov/usao-wdwa/pr/thurston-county-man-caught-twice-drugs-and-firearms-sentenced-7-years-prison"
+duplicate_key: https://www.justice.gov/usao-wdwa/pr/thurston-county-man-caught-twice-drugs-and-firearms-sentenced-7-years-prison
 duplicate_normalized_at: 2026-04-26
+text_status: source-digest
+storage_mode: source-digest
+content_hash: sha256:9f0dc2fe796a82ff82049847bd327930e66271a89f74165ea49cf5f6c88b5c68
+word_count: 127
+extraction_date: 2026-04-28
 ---
 ## Source Summary
 

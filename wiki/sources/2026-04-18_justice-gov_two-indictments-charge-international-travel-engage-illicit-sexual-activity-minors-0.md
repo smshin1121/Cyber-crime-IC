@@ -13,8 +13,6 @@ credibility: confirmed
 sensitivity: public
 pages_updated:
 
-key_findings:
-  - "Secure .gov websites use HTTPS A lock ( Lock Locked padlock ) or https:// means you’ve safely connected to the .gov website. Share sensitive information only on official, secure websites."
 collection_url: https://www.justice.gov/usao-edca/pr/two-indictments-charge-international-travel-engage-illicit-sexual-activity-minors-0
 created: 2026-04-18
 updated: 2026-04-18
@@ -22,8 +20,13 @@ defendant_names:
   - "International Travel"
 duplicate_of: "[[2023-07-12_justice-gov_danish-national-arrested-fresno-airport-illicit-sexual-activity-minors]]"
 duplicate_reason: same_collection_url
-duplicate_key: "https://www.justice.gov/usao-edca/pr/two-indictments-charge-international-travel-engage-illicit-sexual-activity-minors-0"
+duplicate_key: https://www.justice.gov/usao-edca/pr/two-indictments-charge-international-travel-engage-illicit-sexual-activity-minors-0
 duplicate_normalized_at: 2026-04-26
+text_status: source-digest
+storage_mode: source-digest
+content_hash: sha256:36fa2578e1c1976e7fe772da30bab1eec7a8ee080e8cb31e1057333614bb3322
+word_count: 104
+extraction_date: 2026-04-28
 ---
 ## Source Summary
 

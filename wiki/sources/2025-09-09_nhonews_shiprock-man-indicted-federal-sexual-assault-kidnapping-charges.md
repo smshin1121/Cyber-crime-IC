@@ -3,7 +3,7 @@ type: source
 title: "Shiprock man indicted on federal sexual assault and kidnapping charges"
 source_type: news
 publisher: "Navajo-Hopi Observer"
-author: "Staff"
+author: Staff
 publish_date: 2025-09-09
 ingest_date: 2026-04-25
 language: en
@@ -18,6 +18,8 @@ key_findings:
   - "Direct fetch rate-limited; confirmed via WebSearch + URL slug."
 collection_url: https://www.nhonews.com/news/shiprock-man-indicted-on-federal-sexual-assault-and-kidnapping-charges/article_3406398d-8667-4abf-b75d-4cfe9a6f4ba5.html
 created: 2026-04-25
+raw_path: raw/news/2025-09-09_nhonews_shiprock-man-indicted-federal-sexual-assault-kidnapping-charges.md
+copyright_policy: summary-only
 ---
 ## Source Summary
 

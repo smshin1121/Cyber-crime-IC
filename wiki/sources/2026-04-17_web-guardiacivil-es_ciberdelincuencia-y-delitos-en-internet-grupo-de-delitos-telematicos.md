@@ -19,8 +19,9 @@ collection_url: https://web.guardiacivil.es/es/institucional/conocenos/especiali
 created: 2026-04-17
 duplicate_of: "[[2026-04-17_web-guardiacivil-es_ciberdelincuencia-y-delitos-en-internet-gdt]]"
 duplicate_reason: same_collection_url
-duplicate_key: "https://web.guardiacivil.es/es/institucional/conocenos/especialidades/gdt/"
+duplicate_key: https://web.guardiacivil.es/es/institucional/conocenos/especialidades/gdt/
 duplicate_normalized_at: 2026-04-26
+copyright_policy: summary-only
 ---
 ## Source Summary
 

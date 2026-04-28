@@ -26,17 +26,23 @@ key_findings:
   - "Alleged mastermind of the Carbanak/Cobalt cybercrime group arrested in Alicante, Spain on 26 March 2018 by the Spanish National Police (Policía Nacional) following a multi-year joint investigation"
   - "Group caused cumulative losses of over EUR 1 billion to the financial industry since 2013; Cobalt malware alone enabled thefts of up to EUR 10 million per heist"
   - "Over 100 financial institutions targeted across more than 40 countries — a significant scale for a single cybercriminal enterprise"
-  - 'International cooperation partners: Spanish National Police (lead), Europol EC3 (coordination), US FBI, Romanian authorities, Moldovan authorities, Belarusian authorities, Taiwanese authorities, and private-sector cybersecurity firms'
-  - 'Malware evolution timeline: Anunak (late 2013) ??Carbanak (2014-2016) ??Cobalt Strike-based custom tooling (post-2016) ??illustrating the group''s continuous tool development'
-  - 'Modus operandi: spear-phishing emails with malicious attachments sent to bank employees, followed by lateral movement to internal banking networks and ATM-controlling servers to execute ''jackpotting'' cash withdrawals and SWIFT-style account manipulations'
+  - "International cooperation partners: Spanish National Police (lead), Europol EC3 (coordination), US FBI, Romanian authorities, Moldovan authorities, Belarusian authorities, Taiwanese authorities, and private-sector cybersecurity firms"
+  - "Malware evolution timeline: Anunak (late 2013) ??Carbanak (2014-2016) ??Cobalt Strike-based custom tooling (post-2016) ??illustrating the group''s continuous tool development"
+  - "Modus operandi: spear-phishing emails with malicious attachments sent to bank employees, followed by lateral movement to internal banking networks and ATM-controlling servers to execute ''jackpotting'' cash withdrawals and SWIFT-style account manipulations"
 created: 2026-04-08
 updated: 2026-04-18
 defendant_names:
   - "Billion Cyber Bank Robbery"
 duplicate_of: "[[2018-03-01_europol-europa-eu_mastermind-behind-eur-1-billion-cyber-bank-robbery-arrested-in-spain]]"
 duplicate_reason: same_collection_url
-duplicate_key: "https://www.europol.europa.eu/media-press/newsroom/news/mastermind-behind-eur-1-billion-cyber-bank-robbery-arrested-in-spain"
+duplicate_key: https://www.europol.europa.eu/media-press/newsroom/news/mastermind-behind-eur-1-billion-cyber-bank-robbery-arrested-in-spain
 duplicate_normalized_at: 2026-04-26
+raw_path: raw/press-releases/europol-carbanakcobalt-mastermind-arrest.md
+text_status: source-digest
+storage_mode: source-digest
+content_hash: sha256:de86fb9530e7f16422e1d99b4602f39fa567159daa3d099eb3cef5167f1f146b
+word_count: 347
+extraction_date: 2026-04-28
 ---
 ## Source
 

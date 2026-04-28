@@ -14,7 +14,7 @@ sensitivity: public
 pages_updated:
 
 key_findings:
-  - '# Operation Stream — Kidflix CSAM Platform Takedown An international law enforcement operation named "Operation Stream" dismantled Kidflix, one of the largest known child sexual abuse material (CSAM) streaming platforms on the dark web. The operation was led by the Bavarian State Criminal Police (Bayerisches Landeskriminalamt) and the Bavarian Central Office for the Prosecution of Cybercrime (ZCB), with coordination by Europol across 35 countries. - **Platform: "** Kidflix — CSAM streaming platform operational since 2021"'
+  - "# Operation Stream — Kidflix CSAM Platform Takedown An international law enforcement operation named \"Operation Stream\" dismantled Kidflix, one of the largest known child sexual abuse material (CSAM) streaming platforms on the dark web. The operation was led by the Bavarian State Criminal Police (Bayerisches Landeskriminalamt) and the Bavarian Central Office for the Prosecution of Cybercrime (ZCB), with coordination by Europol across 35 countries. - **Platform: \"** Kidflix — CSAM streaming."
 collection_url: https://securityaffairs.com/176154/cyber-crime/europol-led-op-shuts-down-csam-platform-kidflix.html
 created: 2026-04-17
 text_status: summarized

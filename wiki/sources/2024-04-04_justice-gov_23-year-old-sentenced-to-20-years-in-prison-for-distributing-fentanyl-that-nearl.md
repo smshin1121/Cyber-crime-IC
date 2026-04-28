@@ -14,7 +14,7 @@ sensitivity: public
 pages_updated:
   - operation-us-v-colin-andrew-shapard
 key_findings:
-  - "This domestic-only U.S. follow-on record has been absorbed into the canonical case page [[us-v-colin-andrew-shapard]]. No visible cross-border mechanism is documented, so it is not treated as a separate international-cooperation operation."
+  - "This domestic-only U.S. follow-on record has been absorbed into the canonical case page us-v-colin-andrew-shapard. No visible cross-border mechanism is documented, so it is not treated as a separate international-cooperation operation."
 collection_url: https://www.justice.gov/usao-ut/pr/23-year-old-sentenced-20-years-prison-distributing-fentanyl-nearly-killed-park-city
 created: 2026-04-17
 text_status: parsed

@@ -3,7 +3,7 @@ type: source
 title: "Las Vegas Grand Jury indicts 36 for international cyber crimes"
 source_type: news
 publisher: "South Tahoe Now"
-author: "Staff"
+author: Staff
 publish_date: 2018-02-08
 ingest_date: 2026-04-25
 language: en
@@ -18,6 +18,8 @@ key_findings:
   - "Lists the international country footprint of the 36 named defendants, supporting the transnational-cooperation framing."
 collection_url: https://southtahoenow.com/story/02/18/2018/las-vegas-grand-jury-indicts-36-international-cyber-crimes
 created: 2026-04-25
+raw_path: raw/news/2018-02-08_southtahoenow_las-vegas-grand-jury-indicts-36-international-cyber-crimes.md
+copyright_policy: summary-only
 ---
 ## Source Summary
 

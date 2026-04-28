@@ -2,7 +2,7 @@
 type: source
 title: "Silk Road drug dealer laundered $19M in profits with Bitcoin"
 source_type: news
-publisher: "TheNextWeb"
+publisher: TheNextWeb
 publish_date: 2019-11-08
 ingest_date: 2026-04-25
 language: en

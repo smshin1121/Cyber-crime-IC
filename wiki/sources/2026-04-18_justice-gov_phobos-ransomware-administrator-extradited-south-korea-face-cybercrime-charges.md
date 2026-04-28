@@ -22,8 +22,13 @@ defendant_names:
 updated: 2026-04-18
 duplicate_of: "[[2024-11-18_justice-gov_phobos-ransomware-administrator-extradited-from-south-korea-to-face-cybercrime-c]]"
 duplicate_reason: same_collection_url
-duplicate_key: "https://www.justice.gov/usao-md/pr/phobos-ransomware-administrator-extradited-south-korea-face-cybercrime-charges"
+duplicate_key: https://www.justice.gov/usao-md/pr/phobos-ransomware-administrator-extradited-south-korea-face-cybercrime-charges
 duplicate_normalized_at: 2026-04-26
+text_status: source-digest
+storage_mode: source-digest
+content_hash: sha256:da541847775ff63a4a839ae5839d0591bdbbc640fbbebe81e65590d991fa545f
+word_count: 125
+extraction_date: 2026-04-28
 ---
 ## Source Summary
 

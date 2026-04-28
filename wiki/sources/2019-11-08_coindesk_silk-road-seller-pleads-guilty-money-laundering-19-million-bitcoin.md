@@ -2,7 +2,7 @@
 type: source
 title: "Silk Road Seller Pleads Guilty to Money Laundering $19 Million With Bitcoin"
 source_type: news
-publisher: "Coindesk"
+publisher: Coindesk
 publish_date: 2019-11-08
 ingest_date: 2026-04-25
 language: en

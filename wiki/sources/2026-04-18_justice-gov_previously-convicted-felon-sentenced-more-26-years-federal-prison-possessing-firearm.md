@@ -13,8 +13,6 @@ credibility: confirmed
 sensitivity: public
 pages_updated:
 
-key_findings:
-  - "Secure .gov websites use HTTPS A lock ( Lock Locked padlock ) or https:// means you’ve safely connected to the .gov website. Share sensitive information only on official, secure websites."
 collection_url: https://www.justice.gov/usao-md/pr/previously-convicted-felon-sentenced-more-26-years-federal-prison-possessing-firearm
 created: 2026-04-18
 updated: 2026-04-18
@@ -23,8 +21,13 @@ defendant_names:
   - "Previously Convicted Felon"
 duplicate_of: "[[2025-04-09_justice-gov_previously-convicted-felon-sentenced-to-more-than-26-years-in-federal-prison-for]]"
 duplicate_reason: same_collection_url
-duplicate_key: "https://www.justice.gov/usao-md/pr/previously-convicted-felon-sentenced-more-26-years-federal-prison-possessing-firearm"
+duplicate_key: https://www.justice.gov/usao-md/pr/previously-convicted-felon-sentenced-more-26-years-federal-prison-possessing-firearm
 duplicate_normalized_at: 2026-04-26
+text_status: source-digest
+storage_mode: source-digest
+content_hash: sha256:ae1e6bb35b12b0c112c850a06790e16ada858d465b9c1d73892af37013eda814
+word_count: 133
+extraction_date: 2026-04-28
 ---
 ## Source Summary
 

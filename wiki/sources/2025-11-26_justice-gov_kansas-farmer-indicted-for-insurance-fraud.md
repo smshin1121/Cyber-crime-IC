@@ -14,7 +14,7 @@ sensitivity: public
 pages_updated:
   - operation-kansas-farmer-indicted-for-insurance-fraud
 key_findings:
-  - "This domestic-only U.S. follow-on record has been absorbed into the canonical case page [[kansas-farmer-indicted-for-insurance-fraud]]. No visible cross-border mechanism is documented, so it is not treated as a separate international-cooperation operation."
+  - "This domestic-only U.S. follow-on record has been absorbed into the canonical case page kansas-farmer-indicted-for-insurance-fraud. No visible cross-border mechanism is documented, so it is not treated as a separate international-cooperation operation."
 collection_url: https://www.justice.gov/usao-ks/pr/kansas-farmer-indicted-insurance-fraud
 created: 2026-04-17
 text_status: parsed

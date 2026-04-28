@@ -13,8 +13,6 @@ credibility: confirmed
 sensitivity: public
 pages_updated:
 
-key_findings:
-  - "Secure .gov websites use HTTPS A lock ( Lock Locked padlock ) or https:// means you’ve safely connected to the .gov website. Share sensitive information only on official, secure websites."
 collection_url: https://www.justice.gov/usao-nh/pr/former-childcare-provider-sentenced-15-years-federal-prison-production-child-sexual
 created: 2026-04-18
 defendant_names:
@@ -22,8 +20,13 @@ defendant_names:
 updated: 2026-04-18
 duplicate_of: "[[2026-02-18_justice-gov_former-childcare-provider-sentenced-to-15-years-in-federal-prison-for-the-produc]]"
 duplicate_reason: same_collection_url
-duplicate_key: "https://www.justice.gov/usao-nh/pr/former-childcare-provider-sentenced-15-years-federal-prison-production-child-sexual"
+duplicate_key: https://www.justice.gov/usao-nh/pr/former-childcare-provider-sentenced-15-years-federal-prison-production-child-sexual
 duplicate_normalized_at: 2026-04-26
+text_status: source-digest
+storage_mode: source-digest
+content_hash: sha256:61d9938d60d9d589ca159ad34170327663a42e2a0929ba6f51dccb615bd9a89c
+word_count: 114
+extraction_date: 2026-04-28
 ---
 ## Source Summary
 

@@ -3,7 +3,7 @@ type: source
 title: "Suburban Philly Doctor Pleads Guilty To Running 'Pill Mill'"
 source_type: news
 publisher: "Daily Voice West Chester"
-author: "Staff"
+author: Staff
 publish_date: 2022-02-03
 ingest_date: 2026-04-25
 language: en
@@ -16,6 +16,8 @@ key_findings:
   - "West Chester local press coverage of Zhang's guilty plea."
 collection_url: https://dailyvoice.com/pa/west-chester/news/suburban-philly-doctor-pleads-guilty-to-running-pill-mill/825551/
 created: 2026-04-25
+raw_path: raw/news/2022-02-03_dailyvoice-westchester_suburban-philly-doctor-pleads-guilty-pill-mill.md
+copyright_policy: summary-only
 ---
 ## Source Summary
 

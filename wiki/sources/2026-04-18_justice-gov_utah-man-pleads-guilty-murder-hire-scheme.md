@@ -13,8 +13,6 @@ credibility: confirmed
 sensitivity: public
 pages_updated:
 
-key_findings:
-  - "Secure .gov websites use HTTPS A lock ( Lock Locked padlock ) or https:// means you’ve safely connected to the .gov website. Share sensitive information only on official, secure websites."
 collection_url: https://www.justice.gov/usao-ndny/pr/utah-man-pleads-guilty-murder-hire-scheme
 created: 2026-04-18
 updated: 2026-04-18
@@ -22,8 +20,13 @@ defendant_names:
   - "Utah Man"
 duplicate_of: "[[2023-12-06_justice-gov_utah-man-pleads-guilty-to-murder-for-hire-scheme]]"
 duplicate_reason: same_collection_url
-duplicate_key: "https://www.justice.gov/usao-ndny/pr/utah-man-pleads-guilty-murder-hire-scheme"
+duplicate_key: https://www.justice.gov/usao-ndny/pr/utah-man-pleads-guilty-murder-hire-scheme
 duplicate_normalized_at: 2026-04-26
+text_status: source-digest
+storage_mode: source-digest
+content_hash: sha256:5bf95ab9c324082617e16f1c85a31132c6b42d8eb7a4bb9df794278450288cb7
+word_count: 105
+extraction_date: 2026-04-28
 ---
 ## Source Summary
 

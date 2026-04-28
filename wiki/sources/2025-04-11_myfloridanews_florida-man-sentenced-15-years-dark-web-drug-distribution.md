@@ -2,8 +2,8 @@
 type: source
 title: "Florida man sentenced to over 15 years for drug distribution via dark web"
 source_type: news
-publisher: "MyFloridaNews"
-author: "Staff"
+publisher: MyFloridaNews
+author: Staff
 publish_date: 2025-04-11
 ingest_date: 2026-04-25
 language: en
@@ -17,6 +17,8 @@ key_findings:
   - "Florida statewide press coverage of the sentencing."
 collection_url: https://www.myfloridanews.com/news/centralwest/florida-man-sentenced-to-over-15-years-for-drug-distribution-via-dark-web/article_e517a55e-d290-5f56-abe2-645c0000374b.html
 created: 2026-04-25
+raw_path: raw/news/2025-04-11_myfloridanews_florida-man-sentenced-15-years-dark-web-drug-distribution.md
+copyright_policy: summary-only
 ---
 ## Source Summary
 

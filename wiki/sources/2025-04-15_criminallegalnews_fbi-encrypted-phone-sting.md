@@ -3,7 +3,7 @@ type: source
 title: "The FBI's Encrypted Phone Sting"
 source_type: news
 publisher: "Criminal Legal News"
-author: "Staff"
+author: Staff
 publish_date: 2025-04-15
 ingest_date: 2026-04-25
 language: en
@@ -16,6 +16,8 @@ key_findings:
   - "Retrospective analysis of Operation Trojan Shield prosecutions"
 collection_url: https://www.criminallegalnews.org/news/2025/apr/15/fbis-encrypted-phone-sting/
 created: 2026-04-25
+raw_path: raw/news/2025-04-15_criminallegalnews_fbi-encrypted-phone-sting.md
+copyright_policy: summary-only
 ---
 ## Source Summary
 

@@ -2,7 +2,7 @@
 type: source
 title: "Russian Ransomware Operator Pleads Guilty in US"
 source_type: news
-publisher: "SecurityWeek"
+publisher: SecurityWeek
 author: "Eduard Kovacs"
 publish_date: 2026-03-05
 ingest_date: 2026-04-25
@@ -17,6 +17,8 @@ key_findings:
   - "Related Phobos administrator arrest reported in Poland in February 2026"
 collection_url: https://www.securityweek.com/russian-ransomware-operator-pleads-guilty-in-us/
 created: 2026-04-25
+raw_path: raw/news/2026-03-05_securityweek_russian-ransomware-operator-pleads-guilty-in-us.md
+copyright_policy: summary-only
 ---
 ## Source Summary
 

@@ -14,7 +14,7 @@ sensitivity: public
 pages_updated:
   - operation-socal-man-arrested-on-federal-charges-alleging-he-schemed-to-advertise-and-sell-hive-computer-intrusion-malwar
 key_findings:
-  - "This domestic-only U.S. follow-on record has been absorbed into the canonical case page [[socal-man-arrested-on-federal-charges-alleging-he-schemed-to-advertise-and-sell-hive-computer-intrusion-malwar]]. No visible cross-border mechanism is documented, so it is not treated as a separate international-cooperation operation."
+  - "This domestic-only U.S. follow-on record has been absorbed into the canonical case page socal-man-arrested-on-federal-charges-alleging-he-schemed-to-advertise-and-sell-hive-computer-intrusion-malwar. No visible cross-border mechanism is documented, so it is not treated as a separate international-cooperation operation."
 collection_url: https://www.justice.gov/usao-cdca/pr/socal-man-arrested-federal-charges-alleging-he-schemed-advertise-and-sell-hive
 created: 2026-04-17
 text_status: parsed

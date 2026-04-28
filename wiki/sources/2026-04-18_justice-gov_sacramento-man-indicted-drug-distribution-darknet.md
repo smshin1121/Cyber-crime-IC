@@ -22,8 +22,13 @@ defendant_names:
 updated: 2026-04-18
 duplicate_of: "[[2021-10-26_justice-gov_sacramento-man-indicted-for-drug-distribution-via-the-darknet]]"
 duplicate_reason: same_collection_url
-duplicate_key: "https://www.justice.gov/usao-edca/pr/sacramento-man-indicted-drug-distribution-darknet"
+duplicate_key: https://www.justice.gov/usao-edca/pr/sacramento-man-indicted-drug-distribution-darknet
 duplicate_normalized_at: 2026-04-26
+text_status: source-digest
+storage_mode: source-digest
+content_hash: sha256:69f345479d50ead091c67ad8bb06c083426442b721444d3221a1959aaf9e534c
+word_count: 123
+extraction_date: 2026-04-28
 ---
 ## Source Summary
 

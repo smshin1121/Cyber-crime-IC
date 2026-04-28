@@ -22,8 +22,13 @@ defendant_names:
 updated: 2026-04-18
 duplicate_of: "[[2023-12-18_justice-gov_georgetown-restauranteurs-sentenced-to-prison-for-tax-offenses-and-theft-of-covi]]"
 duplicate_reason: same_collection_url
-duplicate_key: "https://www.justice.gov/usao-dc/pr/georgetown-restauranteurs-sentenced-prison-tax-offenses-and-theft-covid-19-relief-funds"
+duplicate_key: https://www.justice.gov/usao-dc/pr/georgetown-restauranteurs-sentenced-prison-tax-offenses-and-theft-covid-19-relief-funds
 duplicate_normalized_at: 2026-04-26
+text_status: source-digest
+storage_mode: source-digest
+content_hash: sha256:688b570e0638927b5ee035e914523c97a45925af0eaac267e0441a025fe10c12
+word_count: 146
+extraction_date: 2026-04-28
 ---
 ## Source Summary
 

@@ -14,7 +14,7 @@ sensitivity: public
 pages_updated:
   - operation-vancouver-washington-man-sentenced-to-10-years-in-prison-for-drug-trafficking-while-possessing-firearms
 key_findings:
-  - "This domestic-only U.S. follow-on record has been absorbed into the canonical case page [[vancouver-washington-man-sentenced-to-10-years-in-prison-for-drug-trafficking-while-possessing-firearms]]. No visible cross-border mechanism is documented, so it is not treated as a separate international-cooperation operation."
+  - "This domestic-only U.S. follow-on record has been absorbed into the canonical case page vancouver-washington-man-sentenced-to-10-years-in-prison-for-drug-trafficking-while-possessing-firearms. No visible cross-border mechanism is documented, so it is not treated as a separate international-cooperation operation."
 collection_url: https://www.justice.gov/usao-wdwa/pr/vancouver-washington-man-sentenced-10-years-prison-drug-trafficking-while-possessing
 created: 2026-04-17
 text_status: parsed

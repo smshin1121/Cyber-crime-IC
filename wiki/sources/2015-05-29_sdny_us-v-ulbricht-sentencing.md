@@ -13,8 +13,6 @@ credibility: confirmed
 sensitivity: public
 pages_updated:
   - silk-road-takedown
-key_findings:
-  - "Secure .gov websites use HTTPS A lock ( Lock Locked padlock ) or https:// means you’ve safely connected to the .gov website. Share sensitive information only on official, secure websites."
 collection_url: https://www.justice.gov/usao-sdny/pr/ross-ulbricht-aka-dread-pirate-roberts-sentenced-manhattan-federal-court-life-prison
 created: 2026-04-17
 defendant_names:
@@ -22,7 +20,7 @@ defendant_names:
 updated: 2026-04-18
 duplicate_of: "[[2015-05-29_justice-gov_ross-ulbricht-a-k-a-dread-pirate-roberts-sentenced-in-manhattan-federal-court-to]]"
 duplicate_reason: same_collection_url
-duplicate_key: "https://www.justice.gov/usao-sdny/pr/ross-ulbricht-aka-dread-pirate-roberts-sentenced-manhattan-federal-court-life-prison"
+duplicate_key: https://www.justice.gov/usao-sdny/pr/ross-ulbricht-aka-dread-pirate-roberts-sentenced-manhattan-federal-court-life-prison
 duplicate_normalized_at: 2026-04-26
 ---
 ## Source Summary

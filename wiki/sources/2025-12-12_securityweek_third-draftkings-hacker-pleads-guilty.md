@@ -2,8 +2,8 @@
 type: source
 title: "Third DraftKings Hacker Pleads Guilty"
 source_type: news
-publisher: "SecurityWeek"
-author: "Staff"
+publisher: SecurityWeek
+author: Staff
 publish_date: 2025-12-12
 ingest_date: 2026-04-25
 language: en
@@ -18,6 +18,8 @@ key_findings:
   - "Confirms full conspiracy roster: Garrison (sentenced), Stokes (guilty plea April 2024), Austad (guilty plea December 2025)."
 collection_url: https://www.securityweek.com/third-draftkings-hacker-pleads-guilty/
 created: 2026-04-25
+raw_path: raw/news/2025-12-12_securityweek_third-draftkings-hacker-pleads-guilty.md
+copyright_policy: summary-only
 ---
 ## Source Summary
 

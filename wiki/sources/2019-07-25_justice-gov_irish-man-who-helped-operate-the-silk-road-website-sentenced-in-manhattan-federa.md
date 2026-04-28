@@ -14,13 +14,18 @@ sensitivity: public
 pages_updated:
   - operation-irish-man-who-helped-operate-the-silk-road-website-sentenced-in-manhattan-federal-court-to-over-six-years-in-p
 key_findings:
-  - "This domestic-only U.S. follow-on record has been absorbed into the canonical case page [[irish-man-who-helped-operate-the-silk-road-website-sentenced-in-manhattan-federal-court-to-over-six-years-in-p]]. No visible cross-border mechanism is documented, so it is not treated as a separate international-cooperation operation."
+  - "This domestic-only U.S. follow-on record has been absorbed into the canonical case page irish-man-who-helped-operate-the-silk-road-website-sentenced-in-manhattan-federal-court-to-over-six-years-in-p. No visible cross-border mechanism is documented, so it is not treated as a separate international-cooperation operation."
 collection_url: https://www.justice.gov/usao-sdny/pr/irish-man-who-helped-operate-silk-road-website-sentenced-manhattan-federal-court-over
 created: 2026-04-17
 duplicate_of: "[[2019-07-19_justice-gov_irish-man-who-helped-operate-silk-road-sentenced]]"
 duplicate_reason: same_collection_url
-duplicate_key: "https://www.justice.gov/usao-sdny/pr/irish-man-who-helped-operate-silk-road-website-sentenced-manhattan-federal-court-over"
+duplicate_key: https://www.justice.gov/usao-sdny/pr/irish-man-who-helped-operate-silk-road-website-sentenced-manhattan-federal-court-over
 duplicate_normalized_at: 2026-04-26
+text_status: source-digest
+storage_mode: source-digest
+content_hash: sha256:f19f38a1d481a0bd409fb34cd49d964edb6ce5002ee026b4179498a1bb5900e9
+word_count: 169
+extraction_date: 2026-04-28
 ---
 ## Source Summary
 

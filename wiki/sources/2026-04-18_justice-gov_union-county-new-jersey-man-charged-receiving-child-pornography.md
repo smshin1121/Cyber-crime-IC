@@ -13,8 +13,6 @@ credibility: confirmed
 sensitivity: public
 pages_updated:
 
-key_findings:
-  - "Secure .gov websites use HTTPS A lock ( Lock Locked padlock ) or https:// means you’ve safely connected to the .gov website. Share sensitive information only on official, secure websites."
 collection_url: https://www.justice.gov/usao-nj/pr/union-county-new-jersey-man-charged-receiving-child-pornography
 created: 2026-04-18
 defendant_names:
@@ -22,8 +20,13 @@ defendant_names:
 updated: 2026-04-18
 duplicate_of: "[[2019-02-06_justice-gov_union-county-new-jersey-man-charged-with-receiving-child-pornography]]"
 duplicate_reason: same_collection_url
-duplicate_key: "https://www.justice.gov/usao-nj/pr/union-county-new-jersey-man-charged-receiving-child-pornography"
+duplicate_key: https://www.justice.gov/usao-nj/pr/union-county-new-jersey-man-charged-receiving-child-pornography
 duplicate_normalized_at: 2026-04-26
+text_status: source-digest
+storage_mode: source-digest
+content_hash: sha256:ad0f11b59c83ddcbdbab1e5f072ce2d97d354538e3fcaa306a350ba9ef07ab71
+word_count: 105
+extraction_date: 2026-04-28
 ---
 ## Source Summary
 

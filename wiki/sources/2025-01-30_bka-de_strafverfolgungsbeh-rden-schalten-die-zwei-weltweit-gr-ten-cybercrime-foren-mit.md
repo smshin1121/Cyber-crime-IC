@@ -14,9 +14,10 @@ sensitivity: public
 pages_updated:
   - operation-talent
 key_findings:
-  - "**Operation Talent** was a Germany-led, [[europol-ec3|Europol]]-supported international operation targeting the cybercrime forums **Cracked** and **Nulled**. Between 28 and 30 January 2025, authorities from eight countries took coordinated action against the two forums and related criminal services, producing arrests, domain and server seizures, and extensive evidence capture for follow-on international investigations."
+  - "**Operation Talent** was a Germany-led, Europol-supported international operation targeting the cybercrime forums **Cracked** and **Nulled**. Between 28 and 30 January 2025, authorities from eight countries took coordinated action against the two forums and related criminal services, producing arrests, domain and server seizures, and extensive evidence capture for follow-on international investigations."
 collection_url: https://www.bka.de/DE/Presse/Listenseite_Pressemitteilungen/2025/Presse2025/250130_Operation_Talent.html
 created: 2026-04-17
+copyright_policy: summary-only
 ---
 ## Source Summary
 

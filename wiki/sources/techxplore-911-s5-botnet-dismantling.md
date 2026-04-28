@@ -1,21 +1,21 @@
 ---
 type: source
 title: "TechXplore: How a Global Malware Operation Was Taken Down from a Federal Court in Georgia (Lumma Stealer)"
-collection_url: "https://techxplore.com/news/2025-05-global-malware-federal-court-georgia.html"
-collection_domain: "techxplore.com"
-source_type: "news"
+collection_url: https://techxplore.com/news/2025-05-global-malware-federal-court-georgia.html
+collection_domain: techxplore.com
+source_type: news
 publisher: "TechXplore (syndicated from The Conversation)"
 author: "Mirtha Donastorg (edited by Sadie Harley and Andrew Zinin)"
-publish_date: "2025-05-22"
-ingest_date: "2026-04-08"
-enriched_date: "2026-04-10"
-language: "en"
-reliability: "medium"
-credibility: "possibly-true"
-sensitivity: "public"
+publish_date: 2025-05-22
+ingest_date: 2026-04-08
+enriched_date: 2026-04-10
+language: en
+reliability: medium
+credibility: possibly-true
+sensitivity: public
 source_tier: 4
 pages_updated:
-  - "lumma-stealer-takedown"
+  - lumma-stealer-takedown
 key_findings:
   - "Microsoft, US DOJ, Europol, and Japan's Cybercrime Control Center dismantled the Lumma Stealer infostealer malware operation in a coordinated action announced on 22 May 2025 — NOT the 911 S5 botnet"
   - "Lumma Stealer had infected 1.8 million devices globally during 2024; between March and May 2025 alone, 394,000+ Windows computers were compromised"
@@ -25,8 +25,14 @@ key_findings:
   - "Cooperation model: Microsoft civil-litigation lead (novel approach), US DOJ criminal-asset seizure, Europol coordination, Japan Cybercrime Control Center for Asian infrastructure — a hybrid civil+criminal international cooperation template"
 created: 2026-04-08
 updated: 2026-04-10
+raw_path: raw/news/techxplore-911-s5-botnet-dismantling.md
+text_status: summarized
+storage_mode: summary-only
+content_hash: sha256:b03242144763131362a7f6ddb5db85ed82d0dffc010e46b52bdf47c3584beece
+word_count: 364
+extraction_date: 2026-04-27
+copyright_policy: summary-only
 ---
-
 > [!info] Mismatch resolved (2026-04-10)
 > Previously linked to [[911-s5-botnet-takedown]]. Reassigned to [[lumma-stealer-takedown]] — the actual content is about the May 2025 Lumma Stealer takedown.
 

@@ -3,7 +3,7 @@ type: source
 title: "Charlestown man sentenced for fourth child pornography conviction"
 source_type: news
 publisher: "ABC6 Providence"
-author: "Staff"
+author: Staff
 publish_date: 2025-02-14
 ingest_date: 2026-04-25
 language: en
@@ -17,6 +17,8 @@ key_findings:
   - "Identifies dark web download source and three prior convictions."
 collection_url: https://www.abc6.com/charlestown-man-sentenced-for-fourth-child-pornography-conviction/
 created: 2026-04-25
+raw_path: raw/news/2025-02-14_abc6_charlestown-man-sentenced-fourth-child-pornography-conviction.md
+copyright_policy: summary-only
 ---
 ## Source Summary
 

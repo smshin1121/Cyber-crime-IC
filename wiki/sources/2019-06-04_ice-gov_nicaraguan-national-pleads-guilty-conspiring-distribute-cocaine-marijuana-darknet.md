@@ -2,7 +2,7 @@
 type: source
 title: "Nicaraguan national pleads guilty to conspiring to distribute cocaine, marijuana on the darknet"
 source_type: press-release
-publisher: "ICE"
+publisher: ICE
 author: ""
 publish_date: 2019-06-04
 ingest_date: 2026-04-25
@@ -19,8 +19,14 @@ collection_url: https://www.ice.gov/news/releases/nicaraguan-national-pleads-gui
 created: 2026-04-25
 duplicate_of: "[[2019-06-03_ice-gov_nicaraguan-national-pleads-guilty-conspiring-distribute-cocaine-marijuana-darknet]]"
 duplicate_reason: same_collection_url
-duplicate_key: "https://www.ice.gov/news/releases/nicaraguan-national-pleads-guilty-conspiring-distribute-cocaine-marijuana-darknet"
+duplicate_key: https://www.ice.gov/news/releases/nicaraguan-national-pleads-guilty-conspiring-distribute-cocaine-marijuana-darknet
 duplicate_normalized_at: 2026-04-26
+raw_path: raw/press-releases/2019-06-04_ice-gov_nicaraguan-national-pleads-guilty-conspiring-distribute-cocaine-marijuana-darknet.md
+text_status: source-digest
+storage_mode: source-digest
+content_hash: sha256:e122862d7a9a96f0216d0559a1e1ab065679016be8dcc752044a1456d0df4a41
+word_count: 150
+extraction_date: 2026-04-28
 ---
 ## Source Summary
 

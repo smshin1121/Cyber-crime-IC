@@ -3,7 +3,7 @@ type: source
 title: "Russian accused of money laundering and running $4B bitcoin exchange extradited to US"
 source_type: news
 publisher: "CNN Politics"
-author: "Staff"
+author: Staff
 publish_date: 2022-08-04
 ingest_date: 2026-04-25
 language: en
@@ -17,6 +17,8 @@ key_findings:
   - "Direct fetch returned truncated body; headline and date verified via WebFetch metadata"
 collection_url: https://edition.cnn.com/2022/08/04/politics/russian-bitcoin-extradited-us/index.html
 created: 2026-04-25
+raw_path: raw/news/2022-08-04_cnn_russian-accused-money-laundering-running-4b-bitcoin-exchange-extradited-us.md
+copyright_policy: summary-only
 ---
 ## Source Summary
 

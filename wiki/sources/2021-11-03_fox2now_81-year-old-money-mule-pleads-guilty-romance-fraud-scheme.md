@@ -3,7 +3,7 @@ type: source
 title: "81-year-old 'money mule' pleads guilty in romance fraud scheme"
 source_type: news
 publisher: "Fox 2 Now (KTVI)"
-author: "Staff"
+author: Staff
 publish_date: 2021-11-03
 ingest_date: 2026-04-25
 language: en
@@ -16,6 +16,8 @@ key_findings:
   - "Fox 2 Now confirmation of Seim's guilty plea"
 collection_url: https://fox2now.com/news/missouri/81-year-old-money-mule-pleads-guilty-in-romance-fraud-scheme/
 created: 2026-04-25
+raw_path: raw/news/2021-11-03_fox2now_81-year-old-money-mule-pleads-guilty-romance-fraud-scheme.md
+copyright_policy: summary-only
 ---
 ## Source Summary
 

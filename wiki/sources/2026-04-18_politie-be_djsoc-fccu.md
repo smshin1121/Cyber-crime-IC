@@ -23,8 +23,14 @@ key_findings:
 created: 2026-04-18
 duplicate_of: "[[2026-04-17_politie-be_centrale-directie-van-de-bestrijding-van-de-zware-en-georganiseerde-criminalitei]]"
 duplicate_reason: same_collection_url
-duplicate_key: "https://www.politie.be/5998/nl/over-ons/federale-politie/federale-gerechtelijke-politie/centrale-directie-van-de-bestrijding-van"
+duplicate_key: https://www.politie.be/5998/nl/over-ons/federale-politie/federale-gerechtelijke-politie/centrale-directie-van-de-bestrijding-van
 duplicate_normalized_at: 2026-04-26
+raw_path: raw/government-reports/2026-04-18_politie-be_djsoc-fccu.md
+text_status: source-digest
+storage_mode: source-digest
+content_hash: sha256:0d673d6056b243025f5d8ff42513111f66a77733a6be574402908c1fba507a60
+word_count: 177
+extraction_date: 2026-04-28
 ---
 ## Source Summary
 

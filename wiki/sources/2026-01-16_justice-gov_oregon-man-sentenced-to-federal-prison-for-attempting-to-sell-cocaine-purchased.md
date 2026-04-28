@@ -14,7 +14,7 @@ sensitivity: public
 pages_updated:
   - operation-oregon-man-sentenced-to-federal-prison-for-attempting-to-sell-cocaine-purchased-from-the-dark-web
 key_findings:
-  - "This domestic-only U.S. follow-on record has been absorbed into the canonical case page [[oregon-man-sentenced-to-federal-prison-for-attempting-to-sell-cocaine-purchased-from-the-dark-web]]. No visible cross-border mechanism is documented, so it is not treated as a separate international-cooperation operation."
+  - "This domestic-only U.S. follow-on record has been absorbed into the canonical case page oregon-man-sentenced-to-federal-prison-for-attempting-to-sell-cocaine-purchased-from-the-dark-web. No visible cross-border mechanism is documented, so it is not treated as a separate international-cooperation operation."
 collection_url: https://www.justice.gov/usao-or/pr/oregon-man-sentenced-federal-prison-attempting-sell-cocaine-purchased-dark-web
 created: 2026-04-17
 text_status: parsed

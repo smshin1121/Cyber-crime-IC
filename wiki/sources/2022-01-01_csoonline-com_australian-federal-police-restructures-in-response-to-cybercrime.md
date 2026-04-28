@@ -12,11 +12,12 @@ reliability: medium
 credibility: confirmed
 sensitivity: public
 pages_updated:
-  []
+
 key_findings:
-  - "The Australian Federal Police (AFP) is the primary federal law enforcement agency of [[australia|Australia]] and operates the country's lead cybercrime investigation capability. The AFP established a dedicated **Cyber Command** in January 2022, funded with AUD 89.9 million through Australia's Cyber Security Strategy 2020. Cyber Command leads the AFP's response to cybercrime and operates the Joint Policing Cybercrime Coordination Centre (JPC3), a purpose-built facility in Sydney that brings together all Australian state and territory police jurisdictions."
+  - "The Australian Federal Police (AFP) is the primary federal law enforcement agency of Australia and operates the country's lead cybercrime investigation capability. The AFP established a dedicated **Cyber Command** in January 2022, funded with AUD 89.9 million through Australia's Cyber Security Strategy 2020. Cyber Command leads the AFP's response to cybercrime and operates the Joint Policing Cybercrime Coordination Centre (JPC3), a purpose-built facility in Sydney that brings together all."
 collection_url: https://www.csoonline.com/article/574819/australian-federal-police-restructures-in-response-to-cybercrime.html
 created: 2026-04-17
+copyright_policy: summary-only
 ---
 ## Source Summary
 

@@ -2,7 +2,7 @@
 type: source
 title: "US Prison Sentences for Nigerian Cybercriminals Surge in Recent Months"
 source_type: news
-publisher: "SecurityWeek"
+publisher: SecurityWeek
 author: "Eduard Kovacs"
 publish_date: 2024-11-08
 ingest_date: 2026-04-25
@@ -17,6 +17,8 @@ key_findings:
   - "Five-year sentence in September following UK extradition"
 collection_url: https://www.securityweek.com/us-prison-sentences-for-nigerian-cybercriminals-surge-in-recent-months/
 created: 2026-04-25
+raw_path: raw/news/2024-11-08_securityweek_us-prison-sentences-for-nigerian-cybercriminals-surge-in-recent-months.md
+copyright_policy: summary-only
 ---
 ## Source Summary
 

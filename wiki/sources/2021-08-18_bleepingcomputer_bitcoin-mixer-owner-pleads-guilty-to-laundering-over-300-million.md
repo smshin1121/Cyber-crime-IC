@@ -19,6 +19,7 @@ key_findings:
   - "FinCEN $60M civil penalty (Oct 2020); 4,400+ BTC forfeited under plea."
 collection_url: https://www.bleepingcomputer.com/news/security/bitcoin-mixer-owner-pleads-guilty-to-laundering-over-300-million/
 created: 2026-04-25
+copyright_policy: summary-only
 ---
 ## Source Summary
 

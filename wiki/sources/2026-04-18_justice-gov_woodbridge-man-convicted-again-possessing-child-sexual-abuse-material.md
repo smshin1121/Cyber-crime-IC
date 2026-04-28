@@ -22,8 +22,13 @@ defendant_names:
 updated: 2026-04-18
 duplicate_of: "[[2024-07-22_justice-gov_woodbridge-man-convicted-again-for-possessing-child-sexual-abuse-material]]"
 duplicate_reason: same_collection_url
-duplicate_key: "https://www.justice.gov/usao-edva/pr/woodbridge-man-convicted-again-possessing-child-sexual-abuse-material"
+duplicate_key: https://www.justice.gov/usao-edva/pr/woodbridge-man-convicted-again-possessing-child-sexual-abuse-material
 duplicate_normalized_at: 2026-04-26
+text_status: source-digest
+storage_mode: source-digest
+content_hash: sha256:640fc703b8f44db5d78601b1b8b0895041d5c98cbb6d880b3985de1408b73929
+word_count: 126
+extraction_date: 2026-04-28
 ---
 ## Source Summary
 

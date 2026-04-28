@@ -3,7 +3,7 @@ type: source
 title: "Charges Filed Against Vendor Using Silk Road Website To Sell Drugs And Guns"
 raw_path: raw/press-releases/2014-02-20_justice-gov_charges-filed-against-vendor-using-silk-road-website-sell-drugs-and-guns.md
 source_type: press-release
-publisher: US DOJ (USAO District of Maryland)
+publisher: "US DOJ (USAO District of Maryland)"
 author: ""
 publish_date: 2014-02-20
 ingest_date: 2026-04-25
@@ -19,6 +19,12 @@ key_findings:
   - "Investigation lead: HSI Baltimore + ATF."
 collection_url: https://www.justice.gov/usao-md/pr/charges-filed-against-vendor-using-silk-road-website-sell-drugs-and-guns
 created: 2026-04-25
+text_status: parsed
+content_hash: sha256:80e43f07e2f002e4b3bcb55d813676da4512ac72a341ff0b04eff4123ea3764f
+word_count: 1355
+extraction_date: 2026-04-28
+last_fetcher: doj_fetch
+storage_mode: fulltext
 ---
 ## Source Summary
 

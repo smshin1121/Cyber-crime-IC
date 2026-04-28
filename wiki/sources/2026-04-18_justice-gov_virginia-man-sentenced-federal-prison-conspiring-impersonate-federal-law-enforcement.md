@@ -23,8 +23,13 @@ defendant_names:
 updated: 2026-04-18
 duplicate_of: "[[2023-08-09_justice-gov_virginia-man-sentenced-to-federal-prison-for-conspiring-to-impersonate-federal-l]]"
 duplicate_reason: same_collection_url
-duplicate_key: "https://www.justice.gov/usao-dc/pr/virginia-man-sentenced-federal-prison-conspiring-impersonate-federal-law-enforcement"
+duplicate_key: https://www.justice.gov/usao-dc/pr/virginia-man-sentenced-federal-prison-conspiring-impersonate-federal-law-enforcement
 duplicate_normalized_at: 2026-04-26
+text_status: source-digest
+storage_mode: source-digest
+content_hash: sha256:4bc3e4fcfd5ee9095e80e9c10a5744790b90c8fe7cc900acd688beed5b5b4812
+word_count: 128
+extraction_date: 2026-04-28
 ---
 ## Source Summary
 

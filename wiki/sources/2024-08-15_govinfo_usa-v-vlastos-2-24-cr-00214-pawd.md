@@ -16,6 +16,12 @@ key_findings:
   - "Court record confirming case number 2:24-cr-00214 in W.D. Pa."
 collection_url: https://www.govinfo.gov/app/details/USCOURTS-pawd-2_24-cr-00214/USCOURTS-pawd-2_24-cr-00214-0
 created: 2026-04-25
+raw_path: raw/case-documents/2024-08-15_govinfo_usa-v-vlastos-2-24-cr-00214-pawd.md
+text_status: source-digest
+storage_mode: source-digest
+content_hash: sha256:ea63cf7e87cfe4b3f5c507c20b2be0d978046cff8034c133c61fadc37f95a668
+word_count: 109
+extraction_date: 2026-04-28
 ---
 ## Source Summary
 

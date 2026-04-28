@@ -2,7 +2,7 @@
 type: source
 title: "'Dark Web' Drug Trafficker Pleads Guilty to Money Laundering"
 source_type: news
-publisher: "OCCRP"
+publisher: OCCRP
 publish_date: 2019-11-08
 ingest_date: 2026-04-25
 language: en
@@ -21,7 +21,7 @@ text_status: summarized
 copyright_policy: summary-only
 duplicate_of: "[[2020-02-12_occrp_dark-web-drug-trafficker-pleads-guilty-money-laundering]]"
 duplicate_reason: same_collection_url
-duplicate_key: "https://www.occrp.org/en/news/dark-web-drug-trafficker-pleads-guilty-to-money-laundering"
+duplicate_key: https://www.occrp.org/en/news/dark-web-drug-trafficker-pleads-guilty-to-money-laundering
 duplicate_normalized_at: 2026-04-26
 ---
 ## Source Summary

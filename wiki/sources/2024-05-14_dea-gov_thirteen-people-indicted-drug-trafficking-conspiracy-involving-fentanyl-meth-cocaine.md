@@ -2,8 +2,8 @@
 type: source
 title: "Thirteen People Indicted in Drug Trafficking Conspiracy Involving Fentanyl, Meth, and Cocaine"
 source_type: press-release
-publisher: "DEA"
-author: "Staff"
+publisher: DEA
+author: Staff
 publish_date: 2024-05-14
 ingest_date: 2026-04-25
 language: en
@@ -19,8 +19,14 @@ collection_url: https://www.dea.gov/press-releases/2024/05/14/thirteen-people-in
 created: 2026-04-25
 duplicate_of: "[[2024-05-14_dea-gov_thirteen-people-indicted-drug-trafficking-conspiracy-fentanyl-meth-cocaine]]"
 duplicate_reason: same_collection_url
-duplicate_key: "https://www.dea.gov/press-releases/2024/05/14/thirteen-people-indicted-drug-trafficking-conspiracy-involving-fentanyl"
+duplicate_key: https://www.dea.gov/press-releases/2024/05/14/thirteen-people-indicted-drug-trafficking-conspiracy-involving-fentanyl
 duplicate_normalized_at: 2026-04-26
+raw_path: raw/press-releases/2024-05-14_dea-gov_thirteen-people-indicted-drug-trafficking-conspiracy-involving-fentanyl-meth-cocaine.md
+text_status: source-digest
+storage_mode: source-digest
+content_hash: sha256:f5245596ca33d12799a293995e17d0310f20f5d77ba70c90575930608d2f6311
+word_count: 152
+extraction_date: 2026-04-28
 ---
 ## Source Summary
 

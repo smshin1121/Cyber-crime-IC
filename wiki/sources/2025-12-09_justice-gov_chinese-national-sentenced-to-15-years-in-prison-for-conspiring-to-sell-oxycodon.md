@@ -14,7 +14,7 @@ sensitivity: public
 pages_updated:
   - operation-us-v-yang-yong
 key_findings:
-  - "This domestic-only U.S. follow-on record has been absorbed into the canonical case page [[us-v-yang-yong]]. No visible cross-border mechanism is documented, so it is not treated as a separate international-cooperation operation."
+  - "This domestic-only U.S. follow-on record has been absorbed into the canonical case page us-v-yang-yong. No visible cross-border mechanism is documented, so it is not treated as a separate international-cooperation operation."
 collection_url: https://www.justice.gov/usao-edpa/pr/chinese-national-sentenced-15-years-prison-conspiring-sell-oxycodone-darknet
 created: 2026-04-17
 text_status: parsed

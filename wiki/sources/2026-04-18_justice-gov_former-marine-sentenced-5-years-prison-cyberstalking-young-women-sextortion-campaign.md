@@ -22,8 +22,13 @@ defendant_names:
 updated: 2026-04-18
 duplicate_of: "[[2022-09-16_justice-gov_former-marine-sentenced-to-5-years-in-prison-for-cyberstalking-young-women-in-se]]"
 duplicate_reason: same_collection_url
-duplicate_key: "https://www.justice.gov/usao-cdca/pr/former-marine-sentenced-5-years-prison-cyberstalking-young-women-sextortion-campaign"
+duplicate_key: https://www.justice.gov/usao-cdca/pr/former-marine-sentenced-5-years-prison-cyberstalking-young-women-sextortion-campaign
 duplicate_normalized_at: 2026-04-26
+text_status: source-digest
+storage_mode: source-digest
+content_hash: sha256:e04cb58919adf334d5b82aae02f1d6891f2be7461171bab49ee3e299b0259d58
+word_count: 149
+extraction_date: 2026-04-28
 ---
 ## Source Summary
 

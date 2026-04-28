@@ -12,14 +12,14 @@ reliability: high
 credibility: confirmed
 sensitivity: public
 pages_updated:
-  []
+
 key_findings:
   - "# Operation Orion International — South America CSAM Crackdown INTERPOL coordinated \"Operation Orion International,\" a region-wide initiative across 12 South American countries targeting the transnational distribution of child sexual abuse material (CSAM) on instant messaging applications. The operation ran from May to September 2024 and was launched following information from Chile's cybercrime unit and the Buenos Aires prosecutor's office. - **Operation name:** Orion International"
 collection_url: https://www.interpol.int/en/News-and-Events/News/2024/20-rescued-144-arrested-in-major-child-abuse-operation-across-South-America
 created: 2026-04-17
 duplicate_of: "[[2024-10-15_interpol-int_operation-orion-international-144-arrested-in-major-child-abuse-operation-across]]"
 duplicate_reason: same_collection_url
-duplicate_key: "https://www.interpol.int/en/News-and-Events/News/2024/20-rescued-144-arrested-in-major-child-abuse-operation-across-South-America"
+duplicate_key: https://www.interpol.int/en/News-and-Events/News/2024/20-rescued-144-arrested-in-major-child-abuse-operation-across-South-America
 duplicate_normalized_at: 2026-04-26
 ---
 ## Source Summary

@@ -3,7 +3,7 @@ type: source
 title: "North Texas man who used darknet to sell fentanyl convicted on drug, child pornography charges"
 source_type: news
 publisher: "FOX 4 Dallas-Fort Worth"
-author: "Staff"
+author: Staff
 publish_date: 2024-02-12
 ingest_date: 2026-04-25
 language: en
@@ -17,6 +17,8 @@ key_findings:
   - "Customer overdose death cited at trial."
 collection_url: https://www.fox4news.com/news/sean-shaughnessy-darknet
 created: 2026-04-25
+raw_path: raw/news/2024-02-12_fox4news_north-texas-man-darknet-fentanyl-shaughnessy.md
+copyright_policy: summary-only
 ---
 ## Source Summary
 

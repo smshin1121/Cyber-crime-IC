@@ -1,7 +1,7 @@
 ---
 type: source
 title: "La Policía Nacional y el Servicio Secreto de los EEUU desarticulan una organización que habría defraudado más de 12.000.000 de euros"
-collection_url: https://www.policia.es/_es/comunicacion_prensa_detalle.php?ID=8401
+collection_url: "https://www.policia.es/_es/comunicacion_prensa_detalle.php?ID=8401"
 collection_domain: policia.es
 source_type: press-release
 publisher: "Policía Nacional España"
@@ -25,6 +25,13 @@ duplicate_of: "[[2021-02-03_policia-es_la-polic-a-nacional-y-el-servicio-secreto
 duplicate_reason: same_collection_url
 duplicate_key: "https://www.policia.es/_es/comunicacion_prensa_detalle.php?ID=8401"
 duplicate_normalized_at: 2026-04-26
+raw_path: raw/press-releases/2021-02-03_policia-es_la-policia-nacional-y-el-servicio-secreto-de-los-eeuu-desarticulan-una-organizacion.md
+text_status: summarized
+storage_mode: summary-only
+content_hash: sha256:aee7a6d7638450cf167423dbf52be6b0580df009f6f5a4e777c4d5ab91260f33
+word_count: 184
+extraction_date: 2026-04-27
+copyright_policy: summary-only
 ---
 ## Source Summary
 

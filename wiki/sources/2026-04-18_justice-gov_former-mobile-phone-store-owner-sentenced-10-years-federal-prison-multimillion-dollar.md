@@ -23,8 +23,13 @@ defendant_names:
 updated: 2026-04-18
 duplicate_of: "[[2022-12-12_justice-gov_former-mobile-phone-store-owner-sentenced-to-10-years-in-federal-prison-for-mult]]"
 duplicate_reason: same_collection_url
-duplicate_key: "https://www.justice.gov/usao-cdca/pr/former-mobile-phone-store-owner-sentenced-10-years-federal-prison-multimillion-dollar"
+duplicate_key: https://www.justice.gov/usao-cdca/pr/former-mobile-phone-store-owner-sentenced-10-years-federal-prison-multimillion-dollar
 duplicate_normalized_at: 2026-04-26
+text_status: source-digest
+storage_mode: source-digest
+content_hash: sha256:c3bca35f225e192177eecee6ae9f03962569320bac27858f93f20aa4b61f3f5e
+word_count: 152
+extraction_date: 2026-04-28
 ---
 ## Source Summary
 

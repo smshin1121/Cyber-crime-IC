@@ -3,7 +3,7 @@ type: source
 title: "St. Lawrence County man pleads guilty to child pornography charges"
 source_type: news
 publisher: "WWNY-TV (7 News)"
-author: "Staff"
+author: Staff
 publish_date: 2025-03-24
 ingest_date: 2026-04-25
 language: en
@@ -18,6 +18,8 @@ key_findings:
   - "Confirms dark web download element"
 collection_url: https://www.wwnytv.com/2025/03/24/st-lawrence-county-man-pleads-guilty-child-pornography-charges/
 created: 2026-04-25
+raw_path: raw/news/2025-03-24_wwnytv_st-lawrence-county-man-pleads-guilty-child-pornography-charges.md
+copyright_policy: summary-only
 ---
 ## Source Summary
 

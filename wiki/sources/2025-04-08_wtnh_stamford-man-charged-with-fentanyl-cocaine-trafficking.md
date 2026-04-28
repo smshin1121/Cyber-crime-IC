@@ -3,7 +3,7 @@ type: source
 title: "Stamford man charged with fentanyl, cocaine trafficking"
 source_type: news
 publisher: "WTNH News 8 (ABC Connecticut)"
-author: "Staff"
+author: Staff
 publish_date: 2025-04-08
 ingest_date: 2026-04-25
 language: en
@@ -17,6 +17,8 @@ key_findings:
   - "Confirms multi-agency investigation involving DEA, USPIS, and Connecticut State Police."
 collection_url: https://www.wtnh.com/news/connecticut/fairfield/stamford-man-charged-with-fentanyl-cocaine-trafficking/
 created: 2026-04-25
+raw_path: raw/news/2025-04-08_wtnh_stamford-man-charged-with-fentanyl-cocaine-trafficking.md
+copyright_policy: summary-only
 ---
 ## Source Summary
 

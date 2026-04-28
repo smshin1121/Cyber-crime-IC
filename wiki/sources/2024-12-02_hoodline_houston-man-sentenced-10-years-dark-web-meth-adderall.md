@@ -2,8 +2,8 @@
 type: source
 title: "Houston Man Sentenced to 10 Years for Dark Web Drug Ring Peddling Meth as Adderall"
 source_type: news
-publisher: "Hoodline"
-author: "Staff"
+publisher: Hoodline
+author: Staff
 publish_date: 2024-12-02
 ingest_date: 2026-04-25
 language: en
@@ -16,6 +16,8 @@ key_findings:
   - "Hoodline confirms 10-year sentence as the final co-conspirator in the dark-web Adderall ring."
 collection_url: https://hoodline.com/2024/12/houston-man-sentenced-to-10-years-for-dark-web-drug-ring-peddling-meth-as-adderall/
 created: 2026-04-25
+raw_path: raw/news/2024-12-02_hoodline_houston-man-sentenced-10-years-dark-web-meth-adderall.md
+copyright_policy: summary-only
 ---
 ## Source Summary
 

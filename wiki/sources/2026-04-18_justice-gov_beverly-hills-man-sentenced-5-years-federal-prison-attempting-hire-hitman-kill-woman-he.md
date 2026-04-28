@@ -22,8 +22,13 @@ defendant_names:
 updated: 2026-04-18
 duplicate_of: "[[2022-09-12_justice-gov_beverly-hills-man-sentenced-to-5-years-in-federal-prison-for-attempting-to-hire]]"
 duplicate_reason: same_collection_url
-duplicate_key: "https://www.justice.gov/usao-cdca/pr/beverly-hills-man-sentenced-5-years-federal-prison-attempting-hire-hitman-kill-woman-he"
+duplicate_key: https://www.justice.gov/usao-cdca/pr/beverly-hills-man-sentenced-5-years-federal-prison-attempting-hire-hitman-kill-woman-he
 duplicate_normalized_at: 2026-04-26
+text_status: source-digest
+storage_mode: source-digest
+content_hash: sha256:cb84bf6f60cb27415065653558188b673b09f2f14976d0ebbd2a00498278ab48
+word_count: 153
+extraction_date: 2026-04-28
 ---
 ## Source Summary
 

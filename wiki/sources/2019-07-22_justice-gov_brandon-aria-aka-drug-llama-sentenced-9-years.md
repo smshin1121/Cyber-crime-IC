@@ -3,7 +3,7 @@ type: source
 title: "Brandon Aria, A/K/A 'The Drug Llama,' Sentenced to 9 Years For Distributing Fentanyl on The Dark Web"
 source_type: press-release
 publisher: "US DOJ (Southern District of Illinois)"
-author: "Staff"
+author: Staff
 publish_date: 2019-07-22
 ingest_date: 2026-04-25
 language: en
@@ -18,6 +18,13 @@ key_findings:
   - "Confirms DEA + USPIS + HSI multi-agency investigation."
 collection_url: https://www.justice.gov/usao-sdil/pr/brandon-aria-aka-drug-llama-sentenced-9-years-distributing-fentanyl-dark-web
 created: 2026-04-25
+raw_path: raw/press-releases/2019-07-22_justice-gov_brandon-aria-aka-drug-llama-sentenced-9-years.md
+text_status: parsed
+content_hash: sha256:4c6a2aaa1ec74e568c91ed3be48de8abea4a0a69801318c41c7ab8c106e5c93f
+word_count: 1106
+extraction_date: 2026-04-28
+last_fetcher: doj_fetch
+storage_mode: fulltext
 ---
 ## Source Summary
 

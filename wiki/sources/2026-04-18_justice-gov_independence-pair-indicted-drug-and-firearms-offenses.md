@@ -13,8 +13,6 @@ credibility: confirmed
 sensitivity: public
 pages_updated:
 
-key_findings:
-  - "Secure .gov websites use HTTPS A lock ( Lock Locked padlock ) or https:// means you’ve safely connected to the .gov website. Share sensitive information only on official, secure websites."
 collection_url: https://www.justice.gov/usao-wdmo/pr/independence-pair-indicted-drug-and-firearms-offenses
 created: 2026-04-18
 defendant_names:
@@ -23,8 +21,13 @@ defendant_names:
 updated: 2026-04-18
 duplicate_of: "[[2025-09-10_justice-gov_independence-pair-indicted-for-drug-and-firearms-offenses]]"
 duplicate_reason: same_collection_url
-duplicate_key: "https://www.justice.gov/usao-wdmo/pr/independence-pair-indicted-drug-and-firearms-offenses"
+duplicate_key: https://www.justice.gov/usao-wdmo/pr/independence-pair-indicted-drug-and-firearms-offenses
 duplicate_normalized_at: 2026-04-26
+text_status: source-digest
+storage_mode: source-digest
+content_hash: sha256:dccfcde87dde21d57e84cb99e92f3d67f4368ae33b4f68de199729d16e32b7aa
+word_count: 117
+extraction_date: 2026-04-28
 ---
 ## Source Summary
 

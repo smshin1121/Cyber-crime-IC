@@ -3,7 +3,7 @@ type: source
 title: "Distributor of ANOM Encrypted Devices Sentenced to Over 5 Years"
 source_type: news
 publisher: "The Cyber Express"
-author: "Staff"
+author: Staff
 publish_date: 2024-11-15
 ingest_date: 2026-04-25
 language: en
@@ -16,6 +16,8 @@ key_findings:
   - "Cybersecurity trade press perspective on the ANOM distributor sentencing"
 collection_url: https://thecyberexpress.com/anom-encrypted-device-distributor-gets-5-years/
 created: 2026-04-25
+raw_path: raw/news/2024-11-15_thecyberexpress_distributor-anom-encrypted-device-gets-5-years.md
+copyright_policy: summary-only
 ---
 ## Source Summary
 

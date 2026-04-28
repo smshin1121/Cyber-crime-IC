@@ -2,8 +2,8 @@
 type: source
 title: "Three men charged in connection to alleged Ponzi scheme tied to Derby business"
 source_type: news
-publisher: "KAKE"
-author: "Staff"
+publisher: KAKE
+author: Staff
 publish_date: 2025-12-17
 ingest_date: 2026-04-25
 language: en
@@ -18,6 +18,8 @@ key_findings:
   - "Direct fetch rate-limited (HTTP 429); details verified via WebSearch snippet"
 collection_url: https://www.kake.com/home/three-men-charged-in-connection-to-alleged-ponzi-scheme-tied-to-derby-business/article_198cb213-149d-43f4-a36f-97f35e4995dd.html
 created: 2026-04-25
+raw_path: raw/news/2025-12-17_kake_three-men-charged-ponzi-scheme-derby-business.md
+copyright_policy: summary-only
 ---
 ## Source Summary
 

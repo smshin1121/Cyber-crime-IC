@@ -3,7 +3,7 @@ type: source
 title: "DOJ: Boone man sentenced after using the dark web to share 150+ images of child pornography"
 source_type: news
 publisher: "WJHL (Tri-Cities NBC)"
-author: "Staff"
+author: Staff
 publish_date: 2024-12-05
 ingest_date: 2026-04-25
 language: en
@@ -16,6 +16,8 @@ key_findings:
   - "Tri-Cities regional NBC affiliate coverage of the Kilgore sentencing."
 collection_url: https://www.wjhl.com/news/crime/doj-boone-man-sentenced-after-using-the-dark-web-to-share-150-images-of-child-pornography/
 created: 2026-04-25
+raw_path: raw/news/2024-12-05_wjhl_doj-boone-man-sentenced-using-dark-web-150-images.md
+copyright_policy: summary-only
 ---
 ## Source Summary
 

@@ -3,7 +3,7 @@ type: source
 title: "UK citizen extradited to US pleads guilty to 2020 Twitter hack"
 source_type: news
 publisher: "CNN Business"
-author: "Staff"
+author: Staff
 publish_date: 2023-05-10
 ingest_date: 2026-04-25
 language: en
@@ -18,6 +18,8 @@ key_findings:
   - "CNN identifies the defendant as Joseph James O'Connor / PlugwalkJoe, extradited from Spain April 26, 2023, plea entered May 9, 2023."
 collection_url: https://us.cnn.com/2023/05/10/tech/uk-citizen-twitter-hack/
 created: 2026-04-25
+raw_path: raw/news/2023-05-10_cnn_uk-citizen-extradited-us-pleads-guilty-2020-twitter-hack.md
+copyright_policy: summary-only
 ---
 ## Source Summary
 

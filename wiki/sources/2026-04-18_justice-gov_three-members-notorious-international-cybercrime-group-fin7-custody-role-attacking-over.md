@@ -26,8 +26,13 @@ defendant_names:
 updated: 2026-04-18
 duplicate_of: "[[2018-08-01_justice-gov_three-members-of-notorious-international-cybercrime-group-fin7-in-custody-for-ro]]"
 duplicate_reason: same_collection_url
-duplicate_key: "https://www.justice.gov/usao-wdwa/pr/three-members-notorious-international-cybercrime-group-fin7-custody-role-attacking-over"
+duplicate_key: https://www.justice.gov/usao-wdwa/pr/three-members-notorious-international-cybercrime-group-fin7-custody-role-attacking-over
 duplicate_normalized_at: 2026-04-26
+text_status: source-digest
+storage_mode: source-digest
+content_hash: sha256:f8be8bd2798031e268f3eff5cb297dcd8f91773bae7ac0d4a8a937b3dabc612a
+word_count: 213
+extraction_date: 2026-04-28
 ---
 ## Source Summary
 

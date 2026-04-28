@@ -13,15 +13,18 @@ credibility: confirmed
 sensitivity: public
 pages_updated:
 
-key_findings:
-  - "Secure .gov websites use HTTPS A lock ( Lock Locked padlock ) or https:// means you’ve safely connected to the .gov website. Share sensitive information only on official, secure websites."
 collection_url: https://www.justice.gov/usao-dc/pr/two-arrested-alleged-conspiracy-launder-45-billion-stolen-cryptocurrency
 created: 2026-04-18
 updated: 2026-04-18
 duplicate_of: "[[2022-02-08_justice-gov_two-arrested-for-alleged-conspiracy-to-launder-4-5-billion-in-stolen-cryptocurre]]"
 duplicate_reason: same_collection_url
-duplicate_key: "https://www.justice.gov/usao-dc/pr/two-arrested-alleged-conspiracy-launder-45-billion-stolen-cryptocurrency"
+duplicate_key: https://www.justice.gov/usao-dc/pr/two-arrested-alleged-conspiracy-launder-45-billion-stolen-cryptocurrency
 duplicate_normalized_at: 2026-04-26
+text_status: source-digest
+storage_mode: source-digest
+content_hash: sha256:024d17b4a9c3d08f1dd36738bc01c26e32e98ab0f7a3b36b9893d033dea5aac2
+word_count: 108
+extraction_date: 2026-04-28
 ---
 ## Source Summary
 

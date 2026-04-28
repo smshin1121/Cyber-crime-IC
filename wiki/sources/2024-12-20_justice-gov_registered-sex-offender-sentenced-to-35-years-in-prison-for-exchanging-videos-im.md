@@ -14,7 +14,7 @@ sensitivity: public
 pages_updated:
   - operation-registered-sex-offender-sentenced-to-35-years-in-prison-for-exchanging-videos-images-of-child-torture-for-chil
 key_findings:
-  - "This domestic-only U.S. follow-on record has been absorbed into the canonical case page [[registered-sex-offender-sentenced-to-35-years-in-prison-for-exchanging-videos-images-of-child-torture-for-chil]]. No visible cross-border mechanism is documented, so it is not treated as a separate international-cooperation operation."
+  - "This domestic-only U.S. follow-on record has been absorbed into the canonical case page registered-sex-offender-sentenced-to-35-years-in-prison-for-exchanging-videos-images-of-child-torture-for-chil. No visible cross-border mechanism is documented, so it is not treated as a separate international-cooperation operation."
 collection_url: https://www.justice.gov/usao-sdoh/pr/registered-sex-offender-sentenced-35-years-prison-exchanging-videos-images-child
 created: 2026-04-17
 text_status: parsed

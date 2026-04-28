@@ -14,7 +14,7 @@ sensitivity: public
 pages_updated:
 
 key_findings:
-  - "Canada signed the [[budapest-convention|Budapest Convention on Cybercrime]] on 23 November 2001 — the day it was opened for signature — and completed ratification on **8 July 2015** after passing the **Protecting Canadians from Online Crime Act (Bill C-13, 2014)** which introduced the procedural tools required by Budapest Convention Articles 16-21 [1][2]."
+  - "Canada signed the Budapest Convention on Cybercrime on 23 November 2001 — the day it was opened for signature — and completed ratification on **8 July 2015** after passing the **Protecting Canadians from Online Crime Act (Bill C-13, 2014)** which introduced the procedural tools required by Budapest Convention Articles 16-21 [1][2]."
 collection_url: https://www.rcmp-grc.gc.ca/en/nc3
 created: 2026-04-17
 text_status: parsed

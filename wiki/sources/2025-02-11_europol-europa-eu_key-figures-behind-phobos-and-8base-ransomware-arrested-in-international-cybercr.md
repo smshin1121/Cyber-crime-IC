@@ -12,15 +12,20 @@ reliability: high
 credibility: confirmed
 sensitivity: public
 pages_updated:
-  []
+
 key_findings:
-  - "The **Phobos/8Base Ransomware Crackdown** was a coordinated international operation that resulted in the arrest of **4 Russian nationals** who were key figures behind the **8Base** ransomware group, and the takedown of **27 servers** connected to their criminal network. Announced on 11 February 2025, the operation involved 14 countries and 16 agencies, with [[europol-ec3|Europol]] having coordinated the investigation since February 2019."
+  - "The **Phobos/8Base Ransomware Crackdown** was a coordinated international operation that resulted in the arrest of **4 Russian nationals** who were key figures behind the **8Base** ransomware group, and the takedown of **27 servers** connected to their criminal network. Announced on 11 February 2025, the operation involved 14 countries and 16 agencies, with Europol having coordinated the investigation since February 2019."
 collection_url: https://www.europol.europa.eu/media-press/newsroom/news/key-figures-behind-phobos-and-8base-ransomware-arrested-in-international-cybercrime-crackdown
 created: 2026-04-17
 duplicate_of: "[[2025-02-11-europol-phobos-8base-ransomware-arrests]]"
 duplicate_reason: same_collection_url
-duplicate_key: "https://www.europol.europa.eu/media-press/newsroom/news/key-figures-behind-phobos-and-8base-ransomware-arrested-in-international-cybercrime-crackdown"
+duplicate_key: https://www.europol.europa.eu/media-press/newsroom/news/key-figures-behind-phobos-and-8base-ransomware-arrested-in-international-cybercrime-crackdown
 duplicate_normalized_at: 2026-04-26
+text_status: source-digest
+storage_mode: source-digest
+content_hash: sha256:eb6e0874089f466ad998d9c3a89dbaab180adc3c853046c7c28e11802cc122c9
+word_count: 225
+extraction_date: 2026-04-28
 ---
 ## Source Summary
 

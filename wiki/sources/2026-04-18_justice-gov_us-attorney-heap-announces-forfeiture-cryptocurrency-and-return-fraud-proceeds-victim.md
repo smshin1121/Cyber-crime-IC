@@ -13,15 +13,18 @@ credibility: confirmed
 sensitivity: public
 pages_updated:
 
-key_findings:
-  - "Secure .gov websites use HTTPS A lock ( Lock Locked padlock ) or https:// means you’ve safely connected to the .gov website. Share sensitive information only on official, secure websites."
 collection_url: https://www.justice.gov/usao-sdga/pr/us-attorney-heap-announces-forfeiture-cryptocurrency-and-return-fraud-proceeds-victim
 created: 2026-04-18
 updated: 2026-04-18
 duplicate_of: "[[2025-11-24_justice-gov_u-s-attorney-heap-announces-forfeiture-of-cryptocurrency-and-return-of-fraud-pro]]"
 duplicate_reason: same_collection_url
-duplicate_key: "https://www.justice.gov/usao-sdga/pr/us-attorney-heap-announces-forfeiture-cryptocurrency-and-return-fraud-proceeds-victim"
+duplicate_key: https://www.justice.gov/usao-sdga/pr/us-attorney-heap-announces-forfeiture-cryptocurrency-and-return-fraud-proceeds-victim
 duplicate_normalized_at: 2026-04-26
+text_status: source-digest
+storage_mode: source-digest
+content_hash: sha256:72f0f74395034ec56f2dfa9fd299683a2184d34e4f0336050fcf921d620219e8
+word_count: 112
+extraction_date: 2026-04-28
 ---
 ## Source Summary
 

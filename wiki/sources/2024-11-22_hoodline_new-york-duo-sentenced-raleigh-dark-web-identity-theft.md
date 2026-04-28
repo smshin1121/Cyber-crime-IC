@@ -2,8 +2,8 @@
 type: source
 title: "New York Duo Sentenced in Raleigh for Dark Web Identity Theft and Retail Fraud Conspiracy"
 source_type: news
-publisher: "Hoodline"
-author: "Staff"
+publisher: Hoodline
+author: Staff
 publish_date: 2024-11-22
 ingest_date: 2026-04-25
 language: en
@@ -16,6 +16,8 @@ key_findings:
   - "Hoodline aggregator coverage of the Robinson/Hilaire sentencing."
 collection_url: https://hoodline.com/2024/11/new-york-duo-sentenced-in-raleigh-for-dark-web-identity-theft-and-retail-fraud-conspiracy/
 created: 2026-04-25
+raw_path: raw/news/2024-11-22_hoodline_new-york-duo-sentenced-raleigh-dark-web-identity-theft.md
+copyright_policy: summary-only
 ---
 ## Source Summary
 

@@ -3,7 +3,7 @@ type: source
 title: "9 RICO Conspirators In Florida Sentenced For Cybercrimes, Millions In Tax Fraud"
 source_type: news
 publisher: "Tampa Free Press"
-author: "Staff"
+author: Staff
 publish_date: 2023-12-19
 ingest_date: 2026-04-25
 language: en
@@ -17,6 +17,8 @@ key_findings:
   - "Details the dark-web purchase of CPA server credentials feeding the tax fraud scheme."
 collection_url: https://www.tampafp.com/9-rico-conspirators-in-florida-sentenced-for-cybercrimes-millions-in-tax-fraud/
 created: 2026-04-25
+raw_path: raw/news/2023-12-19_tampafreepress_9-rico-conspirators-in-florida-sentenced-for-cybercrimes-millions-in-tax-fraud.md
+copyright_policy: summary-only
 ---
 ## Source Summary
 

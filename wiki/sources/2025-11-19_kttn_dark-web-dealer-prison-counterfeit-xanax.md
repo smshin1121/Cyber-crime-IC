@@ -21,7 +21,7 @@ text_status: summarized
 copyright_policy: summary-only
 duplicate_of: "[[2025-11-19_kttn_dark-web-dealer-gets-prison-for-selling-counterfeit-xanax-pills]]"
 duplicate_reason: same_collection_url
-duplicate_key: "https://www.kttn.com/dark-web-dealer-gets-prison-for-selling-counterfeit-xanax-pills/"
+duplicate_key: https://www.kttn.com/dark-web-dealer-gets-prison-for-selling-counterfeit-xanax-pills/
 duplicate_normalized_at: 2026-04-26
 ---
 ## Source Summary

@@ -17,6 +17,11 @@ key_findings:
   - "Operation Avalanche was a German-origin investigation and multinational takedown that disrupted one of the world's largest malware, phishing and spam infrastructures on 30 November 2016. Europol, Eurojust, INTERPOL, the FBI, BSI and many national partners combined judicial coordination, technical sinkholing, domain blocking and server seizures to break the network."
 collection_url: https://www.eurojust.europa.eu/publication/operation-avalanche-closer-look
 created: 2026-04-17
+text_status: source-digest
+storage_mode: source-digest
+content_hash: sha256:1ea265e03343479644f4b669207d721764580dfb68125d764e84babcd0af0ef1
+word_count: 184
+extraction_date: 2026-04-28
 ---
 ## Source Summary
 

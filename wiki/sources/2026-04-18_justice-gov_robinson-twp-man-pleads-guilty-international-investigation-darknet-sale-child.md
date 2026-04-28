@@ -22,8 +22,13 @@ defendant_names:
 updated: 2026-04-18
 duplicate_of: "[[2020-08-19_justice-gov_robinson-twp-man-pleads-guilty-in-international-investigation-into-darknet-sale]]"
 duplicate_reason: same_collection_url
-duplicate_key: "https://www.justice.gov/usao-wdpa/pr/robinson-twp-man-pleads-guilty-international-investigation-darknet-sale-child"
+duplicate_key: https://www.justice.gov/usao-wdpa/pr/robinson-twp-man-pleads-guilty-international-investigation-darknet-sale-child
 duplicate_normalized_at: 2026-04-26
+text_status: source-digest
+storage_mode: source-digest
+content_hash: sha256:7c9352e93db81f6b29c3a9baa6bedc40d6535a8a7b3989b76f3d6abb3152963f
+word_count: 129
+extraction_date: 2026-04-28
 ---
 ## Source Summary
 

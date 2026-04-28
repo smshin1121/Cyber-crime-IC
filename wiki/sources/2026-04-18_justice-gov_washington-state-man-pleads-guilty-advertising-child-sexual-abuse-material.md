@@ -13,8 +13,6 @@ credibility: confirmed
 sensitivity: public
 pages_updated:
 
-key_findings:
-  - "Secure .gov websites use HTTPS A lock ( Lock Locked padlock ) or https:// means you’ve safely connected to the .gov website. Share sensitive information only on official, secure websites."
 collection_url: https://www.justice.gov/usao-me/pr/washington-state-man-pleads-guilty-advertising-child-sexual-abuse-material
 created: 2026-04-18
 defendant_names:
@@ -22,8 +20,13 @@ defendant_names:
 updated: 2026-04-18
 duplicate_of: "[[2024-08-29_justice-gov_washington-state-man-pleads-guilty-to-advertising-child-sexual-abuse-material]]"
 duplicate_reason: same_collection_url
-duplicate_key: "https://www.justice.gov/usao-me/pr/washington-state-man-pleads-guilty-advertising-child-sexual-abuse-material"
+duplicate_key: https://www.justice.gov/usao-me/pr/washington-state-man-pleads-guilty-advertising-child-sexual-abuse-material
 duplicate_normalized_at: 2026-04-26
+text_status: source-digest
+storage_mode: source-digest
+content_hash: sha256:f45b66852cb3a865aed7c3608c847ddd062f2457d143343211882182957540cc
+word_count: 118
+extraction_date: 2026-04-28
 ---
 ## Source Summary
 

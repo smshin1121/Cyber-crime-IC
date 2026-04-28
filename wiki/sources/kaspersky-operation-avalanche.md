@@ -15,8 +15,6 @@ source_tier: 3
 pages_updated:
   - operation-avalanche
   - operation-synergia-ii
-key_findings:
-  []
 created: 2026-04-08
 raw_path: raw/news/kaspersky-operation-avalanche.md
 text_status: summarized

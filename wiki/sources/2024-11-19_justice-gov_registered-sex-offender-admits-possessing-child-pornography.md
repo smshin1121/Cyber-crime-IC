@@ -14,7 +14,7 @@ sensitivity: public
 pages_updated:
   - operation-registered-sex-offender-admits-possessing-child-pornography-0
 key_findings:
-  - "This domestic-only U.S. follow-on record has been absorbed into the canonical case page [[registered-sex-offender-admits-possessing-child-pornography-0]]. No visible cross-border mechanism is documented, so it is not treated as a separate international-cooperation operation."
+  - "This domestic-only U.S. follow-on record has been absorbed into the canonical case page registered-sex-offender-admits-possessing-child-pornography-0. No visible cross-border mechanism is documented, so it is not treated as a separate international-cooperation operation."
 collection_url: https://www.justice.gov/usao-edmo/pr/registered-sex-offender-admits-possessing-child-pornography-0
 created: 2026-04-17
 text_status: parsed

@@ -13,8 +13,6 @@ credibility: confirmed
 sensitivity: public
 pages_updated:
 
-key_findings:
-  - "Secure .gov websites use HTTPS A lock ( Lock Locked padlock ) or https:// means you’ve safely connected to the .gov website. Share sensitive information only on official, secure websites."
 collection_url: https://www.justice.gov/usao-wdmo/pr/kansas-city-woman-indicted-fraudulent-tax-returns
 created: 2026-04-18
 defendant_names:
@@ -22,8 +20,13 @@ defendant_names:
 updated: 2026-04-18
 duplicate_of: "[[2025-05-22_justice-gov_kansas-city-woman-indicted-for-fraudulent-tax-returns]]"
 duplicate_reason: same_collection_url
-duplicate_key: "https://www.justice.gov/usao-wdmo/pr/kansas-city-woman-indicted-fraudulent-tax-returns"
+duplicate_key: https://www.justice.gov/usao-wdmo/pr/kansas-city-woman-indicted-fraudulent-tax-returns
 duplicate_normalized_at: 2026-04-26
+text_status: source-digest
+storage_mode: source-digest
+content_hash: sha256:e522264bbe6e3c6fd5efa97712de42a4654d3885bd6b195c5796776d46d9841c
+word_count: 117
+extraction_date: 2026-04-28
 ---
 ## Source Summary
 

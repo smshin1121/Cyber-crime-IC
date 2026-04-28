@@ -12,15 +12,16 @@ reliability: medium
 credibility: confirmed
 sensitivity: public
 pages_updated:
-  []
+
 key_findings:
   - "Source referenced by ic-statistics-dashboard."
 collection_url: https://www.aljazeera.com/news/2025/10/20/south-korea-police-seek-warrants-for-repatriated-scam-centre-suspects
 created: 2026-04-17
 duplicate_of: "[[2025-10-18-korea-cambodia-scam-repatriation]]"
 duplicate_reason: same_collection_url
-duplicate_key: "https://www.aljazeera.com/news/2025/10/20/south-korea-police-seek-warrants-for-repatriated-scam-centre-suspects"
+duplicate_key: https://www.aljazeera.com/news/2025/10/20/south-korea-police-seek-warrants-for-repatriated-scam-centre-suspects
 duplicate_normalized_at: 2026-04-26
+copyright_policy: summary-only
 ---
 ## Source Summary
 

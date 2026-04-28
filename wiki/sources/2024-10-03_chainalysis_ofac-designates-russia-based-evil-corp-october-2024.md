@@ -19,6 +19,7 @@ key_findings:
   - "Yakubets's father-in-law Eduard Benderskiy (former FSB) coordinated Evil Corp-Russian intel."
 collection_url: https://www.chainalysis.com/blog/ofac-designates-russia-based-evil-corp-october-2024/
 created: 2026-04-25
+copyright_policy: summary-only
 ---
 ## Source Summary
 

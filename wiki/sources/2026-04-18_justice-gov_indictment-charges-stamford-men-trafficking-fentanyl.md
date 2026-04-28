@@ -13,8 +13,6 @@ credibility: confirmed
 sensitivity: public
 pages_updated:
 
-key_findings:
-  - "Secure .gov websites use HTTPS A lock ( Lock Locked padlock ) or https:// means you’ve safely connected to the .gov website. Share sensitive information only on official, secure websites."
 collection_url: https://www.justice.gov/usao-ct/pr/indictment-charges-stamford-men-trafficking-fentanyl
 created: 2026-04-18
 updated: 2026-04-18
@@ -22,8 +20,13 @@ defendant_names:
   - "Charges Stamford Men"
 duplicate_of: "[[2025-04-08_justice-gov_indictment-charges-stamford-men-with-trafficking-fentanyl]]"
 duplicate_reason: same_collection_url
-duplicate_key: "https://www.justice.gov/usao-ct/pr/indictment-charges-stamford-men-trafficking-fentanyl"
+duplicate_key: https://www.justice.gov/usao-ct/pr/indictment-charges-stamford-men-trafficking-fentanyl
 duplicate_normalized_at: 2026-04-26
+text_status: source-digest
+storage_mode: source-digest
+content_hash: sha256:d18ee6de13915de65a1e903658ce327e23fbf5e66bdbd0734558d82f11faf10a
+word_count: 111
+extraction_date: 2026-04-28
 ---
 ## Source Summary
 

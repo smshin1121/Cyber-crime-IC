@@ -2,8 +2,8 @@
 type: source
 title: "Former Silicon Valley employee pleads guilty to damaging computers"
 source_type: news
-publisher: "KRON4"
-author: "Staff"
+publisher: KRON4
+author: Staff
 publish_date: 2016-06-11
 ingest_date: 2026-04-25
 language: en
@@ -17,6 +17,8 @@ key_findings:
   - "Identifies Felton, CA defendant Kenneth Kezeor age 47, ex-employer Agilent Technologies"
 collection_url: https://www.kron4.com/news/former-silicon-valley-employee-pleads-guilty-to-damaging-computers/
 created: 2026-04-25
+raw_path: raw/news/2016-06-11_kron4_former-silicon-valley-employee-pleads-guilty-damaging-computers.md
+copyright_policy: summary-only
 ---
 ## Source Summary
 

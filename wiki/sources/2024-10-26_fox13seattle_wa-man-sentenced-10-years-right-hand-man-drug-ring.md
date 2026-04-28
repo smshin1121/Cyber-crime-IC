@@ -3,7 +3,7 @@ type: source
 title: "WA man sentenced 10 years for role as 'right-hand man' of drug ring"
 source_type: news
 publisher: "FOX 13 Seattle"
-author: "Staff"
+author: Staff
 publish_date: 2024-10-26
 ingest_date: 2026-04-25
 language: en
@@ -19,8 +19,10 @@ collection_url: https://www.fox13seattle.com/news/wa-drug-ring-right-hand-man-se
 created: 2026-04-25
 duplicate_of: "[[2024-10-25_fox13seattle_wa-drug-ring-right-hand-man-sentenced]]"
 duplicate_reason: same_collection_url
-duplicate_key: "https://www.fox13seattle.com/news/wa-drug-ring-right-hand-man-sentenced"
+duplicate_key: https://www.fox13seattle.com/news/wa-drug-ring-right-hand-man-sentenced
 duplicate_normalized_at: 2026-04-26
+raw_path: raw/news/2024-10-26_fox13seattle_wa-man-sentenced-10-years-right-hand-man-drug-ring.md
+copyright_policy: summary-only
 ---
 ## Source Summary
 

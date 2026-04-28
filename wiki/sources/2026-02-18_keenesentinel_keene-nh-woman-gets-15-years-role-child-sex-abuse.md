@@ -3,7 +3,7 @@ type: source
 title: "Keene woman gets 15 years for role in child sex abuse"
 source_type: news
 publisher: "Keene Sentinel"
-author: "Staff"
+author: Staff
 publish_date: 2026-02-18
 ingest_date: 2026-04-25
 language: en
@@ -17,6 +17,8 @@ key_findings:
   - "Hyperlocal Keene NH newspaper coverage of the sentencing"
 collection_url: https://www.keenesentinel.com/news/local/keene-nh-woman-gets-15-years-for-role-in-child-sex-abuse/article_cd26fd76-4a50-4d31-b5ef-0917e6edfbd7.html
 created: 2026-04-25
+raw_path: raw/news/2026-02-18_keenesentinel_keene-nh-woman-gets-15-years-role-child-sex-abuse.md
+copyright_policy: summary-only
 ---
 ## Source Summary
 

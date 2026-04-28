@@ -13,8 +13,6 @@ credibility: confirmed
 sensitivity: public
 pages_updated:
 
-key_findings:
-  - "Secure .gov websites use HTTPS A lock ( Lock Locked padlock ) or https:// means you’ve safely connected to the .gov website. Share sensitive information only on official, secure websites."
 collection_url: https://www.justice.gov/usao-mdal/pr/georgia-man-sentenced-six-years-federal-prison-possession-child-sexual-abuse-material
 created: 2026-04-18
 updated: 2026-04-18
@@ -22,8 +20,13 @@ defendant_names:
   - "Georgia Man"
 duplicate_of: "[[2026-02-18_justice-gov_georgia-man-sentenced-to-six-years-in-federal-prison-for-possession-of-child-sex]]"
 duplicate_reason: same_collection_url
-duplicate_key: "https://www.justice.gov/usao-mdal/pr/georgia-man-sentenced-six-years-federal-prison-possession-child-sexual-abuse-material"
+duplicate_key: https://www.justice.gov/usao-mdal/pr/georgia-man-sentenced-six-years-federal-prison-possession-child-sexual-abuse-material
 duplicate_normalized_at: 2026-04-26
+text_status: source-digest
+storage_mode: source-digest
+content_hash: sha256:18e09545a3031249d256ea02a72df90882145170ddab2a2adb54f7b2ed7f5700
+word_count: 110
+extraction_date: 2026-04-28
 ---
 ## Source Summary
 

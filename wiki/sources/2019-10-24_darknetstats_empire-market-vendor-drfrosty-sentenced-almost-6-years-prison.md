@@ -2,8 +2,8 @@
 type: source
 title: "Empire Market Vendor 'DrFrosty' Sentenced To Almost 6 Years in Prison"
 source_type: news
-publisher: "DarknetStats"
-author: "Staff"
+publisher: DarknetStats
+author: Staff
 publish_date: 2019-10-24
 ingest_date: 2026-04-25
 language: en
@@ -17,6 +17,8 @@ key_findings:
   - "Direct fetch failed (522); confirmation via WebSearch snippet."
 collection_url: https://www.darknetstats.com/empire-market-vendor-drfrosty-sentenced-to-almost-6-years-in-prison/
 created: 2026-04-25
+raw_path: raw/news/2019-10-24_darknetstats_empire-market-vendor-drfrosty-sentenced-almost-6-years-prison.md
+copyright_policy: summary-only
 ---
 ## Source Summary
 

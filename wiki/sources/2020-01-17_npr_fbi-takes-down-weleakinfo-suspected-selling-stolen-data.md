@@ -2,7 +2,7 @@
 type: source
 title: "FBI Takes Down WeLeakInfo Site, Suspected Of Selling Access To Stolen Data"
 source_type: news
-publisher: "NPR"
+publisher: NPR
 author: "Bill Chappell"
 publish_date: 2020-01-17
 ingest_date: 2026-04-25
@@ -17,6 +17,8 @@ key_findings:
   - "Two 22-year-old suspects arrested the same day as the seizure in Northern Ireland and the Netherlands."
 collection_url: https://www.npr.org/2020/01/17/797282149/fbi-seizes-website-suspected-of-selling-access-to-billions-of-pieces-of-stolen-d
 created: 2026-04-25
+raw_path: raw/news/2020-01-17_npr_fbi-takes-down-weleakinfo-suspected-selling-stolen-data.md
+copyright_policy: summary-only
 ---
 ## Source Summary
 

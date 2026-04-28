@@ -1,20 +1,20 @@
 ---
 type: source
 title: "Europol: French coder who helped extort British company arrested in Thailand"
-collection_url: "https://www.europol.europa.eu/media-press/newsroom/news/french-coder-who-helped-extort-british-company-arrested-in-thailand"
-collection_domain: "europol.europa.eu"
-source_type: "press-release"
-publisher: "Europol"
-publish_date: "2018-06-14"
-ingest_date: "2026-04-08"
-enriched_date: "2026-04-10"
-language: "en"
-reliability: "high"
-credibility: "confirmed"
-sensitivity: "public"
+collection_url: https://www.europol.europa.eu/media-press/newsroom/news/french-coder-who-helped-extort-british-company-arrested-in-thailand
+collection_domain: europol.europa.eu
+source_type: press-release
+publisher: Europol
+publish_date: 2018-06-14
+ingest_date: 2026-04-08
+enriched_date: 2026-04-10
+language: en
+reliability: high
+credibility: confirmed
+sensitivity: public
 source_tier: 2
 pages_updated:
-  - "rex-mundi-takedown"
+  - rex-mundi-takedown
 key_findings:
   - "On 18 May 2018, Royal Thai Police arrested a 25-year-old French national in Thailand on a French international arrest warrant — the eighth and final arrest in a year-long investigation into the Rex Mundi hacking/extortion group, coordinated by Europol's Joint Cybercrime Action Taskforce (J-CAT)"
   - "Rex Mundi's modus operandi: High-volume data breaches of customer databases followed by extortion demands. Ransoms typically demanded in bitcoin and escalating with daily penalties for non-payment"
@@ -26,10 +26,15 @@ created: 2026-04-08
 updated: 2026-04-10
 duplicate_of: "[[2018-05-18_europol-europa-eu_french-coder-who-helped-extort-british-company-arrested-in-thailand]]"
 duplicate_reason: same_collection_url
-duplicate_key: "https://www.europol.europa.eu/media-press/newsroom/news/french-coder-who-helped-extort-british-company-arrested-in-thailand"
+duplicate_key: https://www.europol.europa.eu/media-press/newsroom/news/french-coder-who-helped-extort-british-company-arrested-in-thailand
 duplicate_normalized_at: 2026-04-26
+raw_path: raw/press-releases/europol-rex-mundi-hacking-group-takedown.md
+text_status: source-digest
+storage_mode: source-digest
+content_hash: sha256:27fa243cb01f560b374ee52d01acc62542698610242dd2b935dec9e278cd5710
+word_count: 389
+extraction_date: 2026-04-28
 ---
-
 ## Source
 
 - **Publisher**: Europol

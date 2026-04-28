@@ -13,8 +13,6 @@ credibility: confirmed
 sensitivity: public
 pages_updated:
 
-key_findings:
-  - "Secure .gov websites use HTTPS A lock ( Lock Locked padlock ) or https:// means you’ve safely connected to the .gov website. Share sensitive information only on official, secure websites."
 collection_url: https://www.justice.gov/usao-edva/pr/four-men-sentenced-conspiracy-traffic-counterfeit-adderall-darknet-marketplace-sites
 created: 2026-04-17
 defendant_names:
@@ -23,8 +21,13 @@ defendant_names:
 updated: 2026-04-18
 duplicate_of: "[[2025-06-06_edva_castillo-rosario-vasquez-roman-darknet-sentencing]]"
 duplicate_reason: same_collection_url
-duplicate_key: "https://www.justice.gov/usao-edva/pr/four-men-sentenced-conspiracy-traffic-counterfeit-adderall-darknet-marketplace-sites"
+duplicate_key: https://www.justice.gov/usao-edva/pr/four-men-sentenced-conspiracy-traffic-counterfeit-adderall-darknet-marketplace-sites
 duplicate_normalized_at: 2026-04-26
+text_status: source-digest
+storage_mode: source-digest
+content_hash: sha256:a344fda7e74aac09d617ae7351784cab65d76ca639848dbaef45b2d43e7e2f60
+word_count: 147
+extraction_date: 2026-04-28
 ---
 ## Source Summary
 

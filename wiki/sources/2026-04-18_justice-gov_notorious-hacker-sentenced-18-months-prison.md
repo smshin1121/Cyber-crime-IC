@@ -13,8 +13,6 @@ credibility: confirmed
 sensitivity: public
 pages_updated:
 
-key_findings:
-  - "Secure .gov websites use HTTPS A lock ( Lock Locked padlock ) or https:// means you’ve safely connected to the .gov website. Share sensitive information only on official, secure websites."
 collection_url: https://www.justice.gov/usao-dc/pr/notorious-hacker-sentenced-18-months-prison
 created: 2026-04-18
 updated: 2026-04-18
@@ -22,8 +20,13 @@ defendant_names:
   - "Notorious Hacker"
 duplicate_of: "[[2023-11-15_justice-gov_notorious-hacker-sentenced-to-18-months-in-prison]]"
 duplicate_reason: same_collection_url
-duplicate_key: "https://www.justice.gov/usao-dc/pr/notorious-hacker-sentenced-18-months-prison"
+duplicate_key: https://www.justice.gov/usao-dc/pr/notorious-hacker-sentenced-18-months-prison
 duplicate_normalized_at: 2026-04-26
+text_status: source-digest
+storage_mode: source-digest
+content_hash: sha256:3a1aeba08c6e435bb8691a5a4d2650e78bc15eae66780bd9f0ce1f687551de86
+word_count: 116
+extraction_date: 2026-04-28
 ---
 ## Source Summary
 

@@ -22,8 +22,14 @@ created: 2026-04-18
 updated: 2026-04-18
 duplicate_of: "[[2024-09-26_fincen-gov_treasury-takes-coordinated-actions-against-illicit-russian-virtual-currency]]"
 duplicate_reason: same_collection_url
-duplicate_key: "https://www.fincen.gov/news/news-releases/treasury-takes-coordinated-actions-against-illicit-russian-virtual-currency"
+duplicate_key: https://www.fincen.gov/news/news-releases/treasury-takes-coordinated-actions-against-illicit-russian-virtual-currency
 duplicate_normalized_at: 2026-04-26
+raw_path: raw/press-releases/2024-09-26_fincen_treasury-takes-coordinated-actions-against-illicit-russian-virtual-currency.md
+text_status: source-digest
+storage_mode: source-digest
+content_hash: sha256:be260b00ada880f45f0ea70a88100b2c9584010d5040ec49c8de7845627ec739
+word_count: 155
+extraction_date: 2026-04-28
 ---
 ## Source Summary
 

@@ -12,14 +12,14 @@ reliability: high
 credibility: confirmed
 sensitivity: public
 pages_updated:
-  []
+
 key_findings:
-  - "On 1 October 2024, Europol announced the third phase of **Operation Cronos** targeting the LockBit ransomware group, resulting in 4 new arrests: a suspected LockBit developer (France), 2 individuals supporting affiliate activity (UK), and a bulletproof hosting administrator (Spain). Law enforcement also seized 9 servers in Spain. Australia, the UK, and the US imposed financial sanctions against a prolific LockBit affiliate linked to Evil Corp. The UK sanctioned 15 Russian citizens for Evil Corp involvement, the US sanctioned 6 citizens, and Australia sanctioned 2 citizens. This action builds on the February 2024 initial takedown and involved 12+ countries coordinated by Europol and Eurojust. - **Operation name:** Operation Cronos (Phase 3) - **Date:** 1 October 2024"
+  - "On 1 October 2024, Europol announced the third phase of **Operation Cronos** targeting the LockBit ransomware group, resulting in 4 new arrests: a suspected LockBit developer (France), 2 individuals supporting affiliate activity (UK), and a bulletproof hosting administrator (Spain). Law enforcement also seized 9 servers in Spain. Australia, the UK, and the US imposed financial sanctions against a prolific LockBit affiliate linked to Evil Corp. The UK sanctioned 15 Russian citizens for Evil Corp."
 collection_url: https://www.europol.europa.eu/media-press/newsroom/news/lockbit-power-cut-four-new-arrests-and-financial-sanctions-against-affiliates
 created: 2026-04-17
 duplicate_of: "[[2024-10-01-europol-operation-cronos-lockbit-phase3]]"
 duplicate_reason: same_collection_url
-duplicate_key: "https://www.europol.europa.eu/media-press/newsroom/news/lockbit-power-cut-four-new-arrests-and-financial-sanctions-against-affiliates"
+duplicate_key: https://www.europol.europa.eu/media-press/newsroom/news/lockbit-power-cut-four-new-arrests-and-financial-sanctions-against-affiliates
 duplicate_normalized_at: 2026-04-26
 ---
 ## Source Summary

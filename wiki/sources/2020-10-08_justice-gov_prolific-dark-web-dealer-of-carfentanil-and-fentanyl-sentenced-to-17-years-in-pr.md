@@ -14,7 +14,7 @@ sensitivity: public
 pages_updated:
   - operation-prolific-dark-web-dealer-of-carfentanil-and-fentanyl-sentenced-to-1712-years-in-prison
 key_findings:
-  - "This domestic-only U.S. follow-on record has been absorbed into the canonical case page [[prolific-dark-web-dealer-of-carfentanil-and-fentanyl-sentenced-to-1712-years-in-prison]]. No visible cross-border mechanism is documented, so it is not treated as a separate international-cooperation operation."
+  - "This domestic-only U.S. follow-on record has been absorbed into the canonical case page prolific-dark-web-dealer-of-carfentanil-and-fentanyl-sentenced-to-1712-years-in-prison. No visible cross-border mechanism is documented, so it is not treated as a separate international-cooperation operation."
 collection_url: https://www.justice.gov/usao-sdny/pr/prolific-dark-web-dealer-carfentanil-and-fentanyl-sentenced-17-years-prison
 created: 2026-04-17
 text_status: parsed

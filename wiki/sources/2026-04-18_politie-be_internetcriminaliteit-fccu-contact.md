@@ -1,6 +1,6 @@
 ---
 type: source
-title: "Internetcriminaliteit"
+title: Internetcriminaliteit
 collection_url: https://www.politie.be/5415/vragen/criminaliteit-op-internet/internetcriminaliteit
 collection_domain: politie.be
 source_type: official-guidance
@@ -22,8 +22,14 @@ key_findings:
 created: 2026-04-18
 duplicate_of: "[[2026-04-17_politie-be_internetcriminaliteit]]"
 duplicate_reason: same_collection_url
-duplicate_key: "https://www.politie.be/5415/vragen/criminaliteit-op-internet/internetcriminaliteit"
+duplicate_key: https://www.politie.be/5415/vragen/criminaliteit-op-internet/internetcriminaliteit
 duplicate_normalized_at: 2026-04-26
+raw_path: raw/government-reports/2026-04-18_politie-be_internetcriminaliteit-fccu-contact.md
+text_status: source-digest
+storage_mode: source-digest
+content_hash: sha256:e4c5c079ebac1c6a65f7c0a3c7261985b307269fdfdc8c48c45c467aff519231
+word_count: 168
+extraction_date: 2026-04-28
 ---
 ## Source Summary
 

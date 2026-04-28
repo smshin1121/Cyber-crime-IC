@@ -2,7 +2,7 @@
 type: source
 title: "Former Navy IT Manager Sentenced to Prison for Hacking, Selling PII"
 source_type: news
-publisher: "SecurityWeek"
+publisher: SecurityWeek
 author: "Ionut Arghire"
 publish_date: 2023-10-18
 ingest_date: 2026-04-25
@@ -16,6 +16,8 @@ key_findings:
   - "Cybersecurity trade press confirmation."
 collection_url: https://www.securityweek.com/former-navy-it-manager-sentenced-to-prison-for-hacking-selling-pii/
 created: 2026-04-25
+raw_path: raw/news/2023-10-18_securityweek_former-navy-it-manager-sentenced-prison-hacking-selling-pii.md
+copyright_policy: summary-only
 ---
 ## Source Summary
 

@@ -13,8 +13,6 @@ credibility: confirmed
 sensitivity: public
 pages_updated:
 
-key_findings:
-  - "Secure .gov websites use HTTPS A lock ( Lock Locked padlock ) or https:// means you’ve safely connected to the .gov website. Share sensitive information only on official, secure websites."
 collection_url: https://www.justice.gov/usao-cdca/pr/glendale-man-sentenced-nearly-5-years-federal-prison-role-darknet-network-sold-and
 created: 2026-04-18
 defendant_names:
@@ -22,8 +20,13 @@ defendant_names:
 updated: 2026-04-18
 duplicate_of: "[[2026-02-17_justice-gov_glendale-man-sentenced-to-nearly-5-years-in-federal-prison-for-role-in-darknet-n]]"
 duplicate_reason: same_collection_url
-duplicate_key: "https://www.justice.gov/usao-cdca/pr/glendale-man-sentenced-nearly-5-years-federal-prison-role-darknet-network-sold-and"
+duplicate_key: https://www.justice.gov/usao-cdca/pr/glendale-man-sentenced-nearly-5-years-federal-prison-role-darknet-network-sold-and
 duplicate_normalized_at: 2026-04-26
+text_status: source-digest
+storage_mode: source-digest
+content_hash: sha256:b61a85c00e7c04d51ad2d65a37ff4b72b9b2a672d8e352b4b3584eb478a964ad
+word_count: 134
+extraction_date: 2026-04-28
 ---
 ## Source Summary
 

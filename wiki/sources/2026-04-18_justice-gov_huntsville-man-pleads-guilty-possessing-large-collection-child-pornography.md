@@ -13,8 +13,6 @@ credibility: confirmed
 sensitivity: public
 pages_updated:
 
-key_findings:
-  - "Secure .gov websites use HTTPS A lock ( Lock Locked padlock ) or https:// means you’ve safely connected to the .gov website. Share sensitive information only on official, secure websites."
 collection_url: https://www.justice.gov/usao-ndal/pr/huntsville-man-pleads-guilty-possessing-large-collection-child-pornography
 created: 2026-04-18
 defendant_names:
@@ -22,8 +20,13 @@ defendant_names:
 updated: 2026-04-18
 duplicate_of: "[[2019-11-14_justice-gov_huntsville-man-pleads-guilty-to-possessing-large-collection-of-child-pornography]]"
 duplicate_reason: same_collection_url
-duplicate_key: "https://www.justice.gov/usao-ndal/pr/huntsville-man-pleads-guilty-possessing-large-collection-child-pornography"
+duplicate_key: https://www.justice.gov/usao-ndal/pr/huntsville-man-pleads-guilty-possessing-large-collection-child-pornography
 duplicate_normalized_at: 2026-04-26
+text_status: source-digest
+storage_mode: source-digest
+content_hash: sha256:b5e7b89323190d23c4839c2b2092b8b433147e230844a82ae585a75a1e4172ce
+word_count: 105
+extraction_date: 2026-04-28
 ---
 ## Source Summary
 

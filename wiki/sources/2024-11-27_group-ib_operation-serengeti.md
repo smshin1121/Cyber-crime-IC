@@ -3,7 +3,7 @@ type: source
 title: "Group-IB contributes to INTERPOL and AFRIPOL-led Operation Serengeti"
 raw_path: raw/press-releases/2024-11-27_group-ib_operation-serengeti.md
 source_type: press-release
-publisher: "Group-IB"
+publisher: Group-IB
 author: ""
 publish_date: 2024-11-27
 ingest_date: 2026-04-23
@@ -12,11 +12,12 @@ reliability: medium
 credibility: reported
 sensitivity: public
 pages_updated:
-  []
+
 key_findings:
   - "Group-IB documented the private-sector contribution to Operation Serengeti and repeated the main arrest, victim and infrastructure-disruption figures."
 collection_url: https://www.group-ib.com/media-center/press-releases/operation-serengeti/
 created: 2026-04-23
+copyright_policy: summary-only
 ---
 ## Source Summary
 

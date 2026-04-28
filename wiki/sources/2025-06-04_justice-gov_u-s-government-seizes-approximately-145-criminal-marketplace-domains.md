@@ -14,13 +14,18 @@ sensitivity: public
 pages_updated:
   - operation-in-re-bidencash-marketplace-seizure
 key_findings:
-  - "This domestic-only U.S. follow-on record has been absorbed into the canonical case page [[in-re-bidencash-marketplace-seizure]]. No visible cross-border mechanism is documented, so it is not treated as a separate international-cooperation operation."
+  - "This domestic-only U.S. follow-on record has been absorbed into the canonical case page in-re-bidencash-marketplace-seizure. No visible cross-border mechanism is documented, so it is not treated as a separate international-cooperation operation."
 collection_url: https://www.justice.gov/usao-edva/pr/us-government-seizes-approximately-145-criminal-marketplace-domains
 created: 2026-04-17
 duplicate_of: "[[2025-06-04_edva_bidencash-marketplace-seizure]]"
 duplicate_reason: same_collection_url
-duplicate_key: "https://www.justice.gov/usao-edva/pr/us-government-seizes-approximately-145-criminal-marketplace-domains"
+duplicate_key: https://www.justice.gov/usao-edva/pr/us-government-seizes-approximately-145-criminal-marketplace-domains
 duplicate_normalized_at: 2026-04-26
+text_status: source-digest
+storage_mode: source-digest
+content_hash: sha256:23c12c62fff0bdd0b82017b60abb7afc6a900bed7046cda469a33f73b03796a7
+word_count: 157
+extraction_date: 2026-04-28
 ---
 ## Source Summary
 

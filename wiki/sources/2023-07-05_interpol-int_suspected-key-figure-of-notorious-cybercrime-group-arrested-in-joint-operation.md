@@ -14,7 +14,7 @@ sensitivity: public
 pages_updated:
   - operation-nervone
 key_findings:
-  - "Operation Nervone was an [[interpol|INTERPOL]]-led action against the OPERA1ER group that culminated in the arrest of a key suspect in Côte d’Ivoire. INTERPOL described the operation as a significant blow to a financially motivated cybercrime group that had targeted financial institutions and mobile banking services across multiple regions."
+  - "Operation Nervone was an INTERPOL-led action against the OPERA1ER group that culminated in the arrest of a key suspect in Côte d’Ivoire. INTERPOL described the operation as a significant blow to a financially motivated cybercrime group that had targeted financial institutions and mobile banking services across multiple regions."
 collection_url: https://www.interpol.int/en/News-and-Events/News/2023/Suspected-key-figure-of-notorious-cybercrime-group-arrested-in-joint-operation
 created: 2026-04-17
 text_status: parsed

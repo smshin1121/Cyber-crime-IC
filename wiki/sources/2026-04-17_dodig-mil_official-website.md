@@ -14,7 +14,7 @@ sensitivity: public
 pages_updated:
 
 key_findings:
-  - "Independent oversight of Department of Defense; parent of Defense Criminal Investigative Service ([[us-dcis]]). For detailed facts, see the official source [1]."
+  - "Independent oversight of Department of Defense; parent of Defense Criminal Investigative Service (us-dcis). For detailed facts, see the official source [1]."
 collection_url: https://www.dodig.mil/
 created: 2026-04-17
 text_status: summarized

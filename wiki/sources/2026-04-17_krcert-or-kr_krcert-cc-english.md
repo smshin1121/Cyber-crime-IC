@@ -12,11 +12,16 @@ reliability: medium
 credibility: confirmed
 sensitivity: public
 pages_updated:
-  []
+
 key_findings:
-  - "The Korea Internet & Security Agency (KISA, 한국인터넷진흥원) is the sub-organization of the [[ministry-of-science-and-ict-korea|Ministry of Science and ICT]] (과학기술정보통신부) responsible for internet governance and cybersecurity of the internet in South Korea. KISA was created in **July 2009** by merging three predecessor agencies: the Korea Information Security Agency (KISA, 한국정보보호진흥원), the National Internet Development Agency (NIDA, 한국인터넷진흥원 — same Korean name, different English), and the Korean IT International Cooperation Agency (KIICA)."
+  - "The Korea Internet & Security Agency (KISA, 한국인터넷진흥원) is the sub-organization of the Ministry of Science and ICT (과학기술정보통신부) responsible for internet governance and cybersecurity of the internet in South Korea. KISA was created in **July 2009** by merging three predecessor agencies: the Korea Information Security Agency (KISA, 한국정보보호진흥원), the National Internet Development Agency (NIDA, 한국인터넷진흥원 — same Korean name, different English), and the Korean IT International Cooperation Agency (KIICA)."
 collection_url: https://www.krcert.or.kr/en/main.do
 created: 2026-04-17
+text_status: source-digest
+storage_mode: source-digest
+content_hash: sha256:6b9838311ced63571bb03262811669dcaf493e5b0cd70546f544a736aaf99f1a
+word_count: 231
+extraction_date: 2026-04-28
 ---
 ## Source Summary
 

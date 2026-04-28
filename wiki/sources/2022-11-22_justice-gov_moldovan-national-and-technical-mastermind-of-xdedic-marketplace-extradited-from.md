@@ -14,7 +14,7 @@ sensitivity: public
 pages_updated:
   - operation-moldovan-national-and-technical-mastermind-of-xdedic-marketplace-extradited-from-spain
 key_findings:
-  - "This domestic-only U.S. follow-on record has been absorbed into the canonical case page [[moldovan-national-and-technical-mastermind-of-xdedic-marketplace-extradited-from-spain]]. No visible cross-border mechanism is documented, so it is not treated as a separate international-cooperation operation."
+  - "This domestic-only U.S. follow-on record has been absorbed into the canonical case page moldovan-national-and-technical-mastermind-of-xdedic-marketplace-extradited-from-spain. No visible cross-border mechanism is documented, so it is not treated as a separate international-cooperation operation."
 collection_url: https://www.justice.gov/usao-mdfl/pr/moldovan-national-and-technical-mastermind-xdedic-marketplace-extradited-spain
 created: 2026-04-17
 text_status: parsed

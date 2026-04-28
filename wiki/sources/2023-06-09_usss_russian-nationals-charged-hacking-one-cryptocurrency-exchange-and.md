@@ -16,6 +16,12 @@ key_findings:
   - "Parallel agency PR from US Secret Service confirming Mt. Gox hack indictment"
 collection_url: https://www.secretservice.gov/newsroom/releases/2023/06/russian-nationals-charged-hacking-one-cryptocurrency-exchange-and
 created: 2026-04-25
+raw_path: raw/press-releases/2023-06-09_usss_russian-nationals-charged-hacking-one-cryptocurrency-exchange-and.md
+text_status: source-digest
+storage_mode: source-digest
+content_hash: sha256:cdad8b3425ec0fb433fb974b4d71b92d069b6246dc9c20749f83f32a4522c658
+word_count: 145
+extraction_date: 2026-04-28
 ---
 ## Source Summary
 

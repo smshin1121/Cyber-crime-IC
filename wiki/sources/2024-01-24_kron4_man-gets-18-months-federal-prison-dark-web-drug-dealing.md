@@ -17,6 +17,8 @@ key_findings:
   - "Documents cryptocurrency forfeiture (ETH, BTC, LTC)"
 collection_url: https://www.kron4.com/news/bay-area/man-gets-18-months-in-federal-prison-for-dark-web-drug-dealing/
 created: 2026-04-25
+raw_path: raw/news/2024-01-24_kron4_man-gets-18-months-federal-prison-dark-web-drug-dealing.md
+copyright_policy: summary-only
 ---
 ## Source Summary
 

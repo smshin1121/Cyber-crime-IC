@@ -14,13 +14,18 @@ sensitivity: public
 pages_updated:
   - operation-us-v-hernandez-dark-web
 key_findings:
-  - "This domestic-only U.S. follow-on record has been absorbed into the canonical case page [[us-v-hernandez-dark-web]]. No visible cross-border mechanism is documented, so it is not treated as a separate international-cooperation operation."
+  - "This domestic-only U.S. follow-on record has been absorbed into the canonical case page us-v-hernandez-dark-web. No visible cross-border mechanism is documented, so it is not treated as a separate international-cooperation operation."
 collection_url: https://www.justice.gov/usao-edmi/pr/armed-dark-web-drug-trafficker-sentenced-over-decade-federal-prison
 created: 2026-04-17
 duplicate_of: "[[2024-06-26_edmi_hernandez-dark-web-sentencing]]"
 duplicate_reason: same_collection_url
-duplicate_key: "https://www.justice.gov/usao-edmi/pr/armed-dark-web-drug-trafficker-sentenced-over-decade-federal-prison"
+duplicate_key: https://www.justice.gov/usao-edmi/pr/armed-dark-web-drug-trafficker-sentenced-over-decade-federal-prison
 duplicate_normalized_at: 2026-04-26
+text_status: source-digest
+storage_mode: source-digest
+content_hash: sha256:b64994b4fb6b7baf46290aee68270d0755a585fa28f867280ff665818e76ee0d
+word_count: 161
+extraction_date: 2026-04-28
 ---
 ## Source Summary
 

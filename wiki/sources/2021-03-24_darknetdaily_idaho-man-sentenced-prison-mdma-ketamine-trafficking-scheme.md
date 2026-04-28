@@ -3,7 +3,7 @@ type: source
 title: "Idaho Man Sentenced to Prison for MDMA and Ketamine Trafficking Scheme"
 source_type: news
 publisher: "Darknet Daily"
-author: "Staff"
+author: Staff
 publish_date: 2021-03-24
 ingest_date: 2026-04-25
 language: en
@@ -18,6 +18,8 @@ key_findings:
   - "Specialized darknet trade-press coverage of the Cardwell/Crotteau conspiracy."
 collection_url: https://darknetdaily.com/2021/03/24/idaho-man-sentenced-to-prison-for-mdma-and-ketamine-trafficking-scheme/
 created: 2026-04-25
+raw_path: raw/news/2021-03-24_darknetdaily_idaho-man-sentenced-prison-mdma-ketamine-trafficking-scheme.md
+copyright_policy: summary-only
 ---
 ## Source Summary
 

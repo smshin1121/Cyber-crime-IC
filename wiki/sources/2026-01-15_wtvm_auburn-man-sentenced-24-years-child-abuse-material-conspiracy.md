@@ -3,7 +3,7 @@ type: source
 title: "Auburn man sentenced to 24+ years for child abuse material conspiracy"
 source_type: news
 publisher: "WTVM (ABC Columbus GA)"
-author: "Staff"
+author: Staff
 publish_date: 2026-01-15
 ingest_date: 2026-04-25
 language: en
@@ -17,6 +17,8 @@ key_findings:
   - "Dark-web CSAM moderator role; Operation Grayskull adjacent investigation."
 collection_url: https://www.wtvm.com/2026/01/15/auburn-man-sentenced-24-years-child-abuse-material-conspiracy/
 created: 2026-04-25
+raw_path: raw/news/2026-01-15_wtvm_auburn-man-sentenced-24-years-child-abuse-material-conspiracy.md
+copyright_policy: summary-only
 ---
 ## Source Summary
 

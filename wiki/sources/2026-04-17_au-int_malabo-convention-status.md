@@ -14,7 +14,7 @@ sensitivity: public
 pages_updated:
 
 key_findings:
-  - "Togo is a **non-party** to the [[budapest-convention|Budapest Convention]] but is an early party to the **[[malabo-convention|African Union Malabo Convention]]** on Cyber Security and Personal Data Protection (ratified 18 November 2016). Togo has enacted comprehensive cybersecurity legislation and was announced in 2019 as the host of the **African Union Cybersecurity Centre** in Lomé."
+  - "Togo is a **non-party** to the Budapest Convention but is an early party to the **African Union Malabo Convention** on Cyber Security and Personal Data Protection (ratified 18 November 2016). Togo has enacted comprehensive cybersecurity legislation and was announced in 2019 as the host of the **African Union Cybersecurity Centre** in Lomé."
 collection_url: https://au.int/en/treaties/african-union-convention-cyber-security-and-personal-data-protection
 created: 2026-04-17
 text_status: parsed
@@ -28,8 +28,9 @@ attribution_required: true
 attribution_url: https://au.int/en/treaties/african-union-convention-cyber-security-and-personal-data-protection
 duplicate_of: "[[2014-06-27_au-int_treaty-text-and-status-chart]]"
 duplicate_reason: same_collection_url
-duplicate_key: "https://au.int/en/treaties/african-union-convention-cyber-security-and-personal-data-protection"
+duplicate_key: https://au.int/en/treaties/african-union-convention-cyber-security-and-personal-data-protection
 duplicate_normalized_at: 2026-04-26
+copyright_policy: summary-only
 ---
 ## Source Summary
 

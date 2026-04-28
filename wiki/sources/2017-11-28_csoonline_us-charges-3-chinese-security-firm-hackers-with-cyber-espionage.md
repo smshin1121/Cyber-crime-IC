@@ -3,7 +3,7 @@ type: source
 title: "US charges 3 Chinese security firm hackers with cyber espionage"
 source_type: news
 publisher: "CSO Online"
-author: "Staff"
+author: Staff
 publish_date: 2017-11-28
 ingest_date: 2026-04-25
 language: en
@@ -16,6 +16,8 @@ key_findings:
   - "Frames the indictment within the broader US-China economic-espionage response"
 collection_url: https://www.csoonline.com/article/563715/us-charges-3-chinese-security-firm-hackers-with-corporate-cyber-espionage.html
 created: 2026-04-25
+raw_path: raw/news/2017-11-28_csoonline_us-charges-3-chinese-security-firm-hackers-with-cyber-espionage.md
+copyright_policy: summary-only
 ---
 ## Source Summary
 

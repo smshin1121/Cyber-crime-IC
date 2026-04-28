@@ -21,7 +21,7 @@ key_findings:
   - "Skowron's accomplice Piotr Ptach received a 3-year sentence for recruiting money mules; both were part of a broader Eastern European cybercrime cell that deployed banking trojans to harvest online-banking credentials"
   - "Operational-security failure: Skowron was identified because he used his *home IP address* to access compromised victim bank accounts and transfer funds — a critical OPSEC error that directly enabled attribution"
   - "UK police arrested Skowron in December 2014 based on intelligence from the UK banking industry (private-sector–LE cooperation)"
-  - "The case illustrates the `money-mule prosecution` pathway: rather than the original malware operators (who were *likely* in Eastern Europe and un-extradited), the UK authorities prosecuted the local cash-out layer"
+  - "The case illustrates the money-mule prosecution pathway: rather than the original malware operators (who were *likely* in Eastern Europe and un-extradited), the UK authorities prosecuted the local cash-out layer"
   - "Note: The BBC News URL (uk-43893420) could not be fetched directly (BBC blocks automated access); these findings are reconstructed from corroborating BleepingComputer, The Register, and MetaCompliance reporting that reference the same defendants and facts"
 created: 2026-04-08
 updated: 2026-04-10

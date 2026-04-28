@@ -17,6 +17,8 @@ key_findings:
   - "Mohammad was former bank employee with compliance training, indicating intentional FinCEN evasion."
 collection_url: https://wilsontaxlaw.com/oc-man-sentenced-to-2-years-in-prison-for-laundering-bitcoin/
 created: 2026-04-25
+raw_path: raw/news/2021-06-07_wilsontaxlaw_oc-man-sentenced-2-years-prison-laundering-bitcoin.md
+copyright_policy: summary-only
 ---
 ## Source Summary
 

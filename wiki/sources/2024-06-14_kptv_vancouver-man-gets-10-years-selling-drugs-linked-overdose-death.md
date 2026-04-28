@@ -2,8 +2,8 @@
 type: source
 title: "Vancouver man gets 10 years for selling drugs linked to overdose death"
 source_type: news
-publisher: "KPTV"
-author: "Staff"
+publisher: KPTV
+author: Staff
 publish_date: 2024-06-14
 ingest_date: 2026-04-25
 language: en
@@ -16,6 +16,8 @@ key_findings:
   - "Sentencing day TV news coverage of Cannarozzi 10-year sentence"
 collection_url: https://www.kptv.com/2024/06/14/vancouver-man-gets-10-years-selling-drugs-linked-overdose-death/
 created: 2026-04-25
+raw_path: raw/news/2024-06-14_kptv_vancouver-man-gets-10-years-selling-drugs-linked-overdose-death.md
+copyright_policy: summary-only
 ---
 ## Source Summary
 

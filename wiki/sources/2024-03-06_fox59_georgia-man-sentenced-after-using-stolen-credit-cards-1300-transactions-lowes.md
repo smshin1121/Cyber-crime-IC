@@ -3,7 +3,7 @@ type: source
 title: "Georgia man sentenced after using stolen credit cards for 1,300+ transactions at Lowe's"
 source_type: news
 publisher: "Fox 59 Indianapolis"
-author: "Staff"
+author: Staff
 publish_date: 2024-03-06
 ingest_date: 2026-04-25
 language: en
@@ -17,6 +17,8 @@ key_findings:
   - "Confirms 1,363 transactions, 28 states, $587,626 loss"
 collection_url: https://fox59.com/news/indycrime/georgia-man-sentenced-after-using-stolen-credit-cards-for-1300-transactions-at-lowes/
 created: 2026-04-25
+raw_path: raw/news/2024-03-06_fox59_georgia-man-sentenced-after-using-stolen-credit-cards-1300-transactions-lowes.md
+copyright_policy: summary-only
 ---
 ## Source Summary
 

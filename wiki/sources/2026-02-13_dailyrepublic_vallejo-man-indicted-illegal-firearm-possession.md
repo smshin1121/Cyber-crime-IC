@@ -3,7 +3,7 @@ type: source
 title: "Vallejo man indicted for illegal firearm possession"
 source_type: news
 publisher: "Daily Republic (Fairfield CA)"
-author: "Staff"
+author: Staff
 publish_date: 2026-02-13
 ingest_date: 2026-04-25
 language: en
@@ -17,6 +17,8 @@ key_findings:
   - "Defendant prior conviction (murder at age 16) noted."
 collection_url: https://www.dailyrepublic.com/news/benicia-vallejo/vallejo-man-indicted-for-illegal-firearm-possession/article_def1bfa6-d84d-4cef-8b6c-096a4ceb3350.html
 created: 2026-04-25
+raw_path: raw/news/2026-02-13_dailyrepublic_vallejo-man-indicted-illegal-firearm-possession.md
+copyright_policy: summary-only
 ---
 ## Source Summary
 

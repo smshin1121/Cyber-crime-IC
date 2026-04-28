@@ -14,7 +14,7 @@ sensitivity: public
 pages_updated:
   - operation-shiprock-man-indicted-on-federal-sexual-assault-and-kidnapping-charges
 key_findings:
-  - "This domestic-only U.S. follow-on record has been absorbed into the canonical case page [[shiprock-man-indicted-on-federal-sexual-assault-and-kidnapping-charges]]. No visible cross-border mechanism is documented, so it is not treated as a separate international-cooperation operation."
+  - "This domestic-only U.S. follow-on record has been absorbed into the canonical case page shiprock-man-indicted-on-federal-sexual-assault-and-kidnapping-charges. No visible cross-border mechanism is documented, so it is not treated as a separate international-cooperation operation."
 collection_url: https://www.justice.gov/usao-nm/pr/shiprock-man-indicted-federal-sexual-assault-and-kidnapping-charges
 created: 2026-04-17
 text_status: parsed

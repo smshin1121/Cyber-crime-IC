@@ -14,13 +14,18 @@ sensitivity: public
 pages_updated:
   - operation-us-v-brian-mcdonald-dark-web
 key_findings:
-  - "This domestic-only U.S. follow-on record has been absorbed into the canonical case page [[us-v-brian-mcdonald-dark-web]]. No visible cross-border mechanism is documented, so it is not treated as a separate international-cooperation operation."
+  - "This domestic-only U.S. follow-on record has been absorbed into the canonical case page us-v-brian-mcdonald-dark-web. No visible cross-border mechanism is documented, so it is not treated as a separate international-cooperation operation."
 collection_url: https://www.justice.gov/usao-cdca/pr/van-nuys-man-sentenced-more-20-years-prison-trafficking-fentanyl-and-cocaine-darknet
 created: 2026-04-17
 duplicate_of: "[[2024-10-21_cdca_brian-mcdonald-darknet-sentencing]]"
 duplicate_reason: same_collection_url
-duplicate_key: "https://www.justice.gov/usao-cdca/pr/van-nuys-man-sentenced-more-20-years-prison-trafficking-fentanyl-and-cocaine-darknet"
+duplicate_key: https://www.justice.gov/usao-cdca/pr/van-nuys-man-sentenced-more-20-years-prison-trafficking-fentanyl-and-cocaine-darknet
 duplicate_normalized_at: 2026-04-26
+text_status: source-digest
+storage_mode: source-digest
+content_hash: sha256:773237fb6289b11f4ffd079c94ce8134d417ced185eb8251e3fb51f134f6301a
+word_count: 170
+extraction_date: 2026-04-28
 ---
 ## Source Summary
 

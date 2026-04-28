@@ -14,7 +14,7 @@ sensitivity: public
 pages_updated:
   - operation-us-v-paul-andrew-talley
 key_findings:
-  - "This domestic-only U.S. follow-on record has been absorbed into the canonical case page [[us-v-paul-andrew-talley]]. No visible cross-border mechanism is documented, so it is not treated as a separate international-cooperation operation."
+  - "This domestic-only U.S. follow-on record has been absorbed into the canonical case page us-v-paul-andrew-talley. No visible cross-border mechanism is documented, so it is not treated as a separate international-cooperation operation."
 collection_url: https://www.justice.gov/usao-wdla/pr/coushatta-man-sentenced-10-years-federal-prison-accessing-dark-web-site-intent-view
 created: 2026-04-17
 text_status: parsed

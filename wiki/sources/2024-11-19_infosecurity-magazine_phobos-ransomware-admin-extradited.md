@@ -17,6 +17,8 @@ key_findings:
   - "Decryption key fee flow to Ptitsyn-controlled accounts December 2021 to April 2024"
 collection_url: https://www.infosecurity-magazine.com/news/phobos-ransomware-admin-extradited/
 created: 2026-04-25
+raw_path: raw/news/2024-11-19_infosecurity-magazine_phobos-ransomware-admin-extradited.md
+copyright_policy: summary-only
 ---
 ## Source Summary
 

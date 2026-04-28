@@ -12,15 +12,20 @@ reliability: high
 credibility: confirmed
 sensitivity: public
 pages_updated:
-  []
+
 key_findings:
-  - "Operation Jackal was INTERPOL's first dedicated operation targeting **Black Axe** and similar West African organized crime groups, coordinated from 15 to 29 May 2023 across **21 countries** on five continents. The operation resulted in **103 arrests**, identification of **1,110 suspects**, blocking of **208 bank accounts**, and seizure/freezing of **EUR 2.15 million**. Black Axe is identified as responsible for the majority of the world's cyber-enabled financial fraud, particularly business email compromise (BEC)."
+  - "Operation Jackal was INTERPOL's first dedicated operation targeting **Black Axe** and similar West African organized crime groups, coordinated from 15 to 29 May 2023 across **21 countries** on five continents. The operation resulted in **103 arrests**, identification of **1,110 suspects**, blocking of **208 bank accounts**, and seizure/freezing of **EUR 2.15 million**. Black Axe is identified as responsible for the majority of the world's cyber-enabled financial fraud, particularly business."
 collection_url: https://www.interpol.int/News-and-Events/News/2023/Closing-ranks-on-West-African-organized-crime-more-than-EUR-2-million-seized-in-Operation-Jackal
 created: 2026-04-17
 duplicate_of: "[[2023-06-06-interpol-operation-jackal]]"
 duplicate_reason: same_collection_url
-duplicate_key: "https://www.interpol.int/News-and-Events/News/2023/Closing-ranks-on-West-African-organized-crime-more-than-EUR-2-million-seized-in-Operation-Jackal"
+duplicate_key: https://www.interpol.int/News-and-Events/News/2023/Closing-ranks-on-West-African-organized-crime-more-than-EUR-2-million-seized-in-Operation-Jackal
 duplicate_normalized_at: 2026-04-26
+text_status: source-digest
+storage_mode: source-digest
+content_hash: sha256:1d00f9d7c055229e5b62e70c3e9a92b0b9979b7003800c489748d85fa1500306
+word_count: 251
+extraction_date: 2026-04-28
 ---
 ## Source Summary
 

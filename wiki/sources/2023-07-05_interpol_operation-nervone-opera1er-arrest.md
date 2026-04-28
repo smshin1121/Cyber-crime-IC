@@ -4,7 +4,7 @@ title: "Suspected key figure of notorious cybercrime group arrested in joint ope
 collection_url: https://www.interpol.int/en/News-and-Events/News/2023/Suspected-key-figure-of-notorious-cybercrime-group-arrested-in-joint-operation
 collection_domain: interpol.int
 source_type: press-release
-publisher: "INTERPOL"
+publisher: INTERPOL
 author: ""
 publish_date: 2023-07-05
 ingest_date: 2026-04-18
@@ -23,8 +23,14 @@ created: 2026-04-18
 updated: 2026-04-18
 duplicate_of: "[[2023-07-05_interpol-int_suspected-key-figure-of-notorious-cybercrime-group-arrested-in-joint-operation]]"
 duplicate_reason: same_collection_url
-duplicate_key: "https://www.interpol.int/en/News-and-Events/News/2023/Suspected-key-figure-of-notorious-cybercrime-group-arrested-in-joint-operation"
+duplicate_key: https://www.interpol.int/en/News-and-Events/News/2023/Suspected-key-figure-of-notorious-cybercrime-group-arrested-in-joint-operation
 duplicate_normalized_at: 2026-04-26
+raw_path: raw/press-releases/2023-07-05_interpol_operation-nervone-opera1er-arrest.md
+text_status: source-digest
+storage_mode: source-digest
+content_hash: sha256:fbd9d3da8dc4262085a7f9c46d8e95f94bebb2014a1fc0890a51bba79f9edebc
+word_count: 154
+extraction_date: 2026-04-28
 ---
 ## Source Summary
 

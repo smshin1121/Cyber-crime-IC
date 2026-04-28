@@ -3,7 +3,7 @@ type: source
 title: "Dark Web Steroid Distributor 'JuicePal' Sentenced in San Diego to 8 Years in Prison"
 source_type: news
 publisher: "Times of San Diego"
-author: "Staff"
+author: Staff
 publish_date: 2023-08-21
 ingest_date: 2026-04-25
 language: en
@@ -16,6 +16,8 @@ key_findings:
   - "Confirms 'JuicePal' moniker on the dark web"
 collection_url: https://timesofsandiego.com/crime/2023/08/21/dark-web-steroid-distributor-juicepal-sentenced-in-san-diego-to-8-years-in-prison/
 created: 2026-04-25
+raw_path: raw/news/2023-08-21_timesofsandiego_dark-web-steroid-distributor-juicepal-sentenced-san-diego-8-years.md
+copyright_policy: summary-only
 ---
 ## Source Summary
 

@@ -2,7 +2,7 @@
 type: source
 title: "UK NCA visits WeLeakInfo users to warn of using stolen data"
 source_type: news
-publisher: "BleepingComputer"
+publisher: BleepingComputer
 author: "Sergiu Gatlan"
 publish_date: 2020-12-09
 ingest_date: 2026-04-25
@@ -17,6 +17,8 @@ key_findings:
   - "Follow-on enforcement cycle confirms the durability of US-UK cooperation on the WeLeakInfo case."
 collection_url: https://www.bleepingcomputer.com/news/security/uk-nca-visits-weleakinfo-users-to-warn-of-using-stolen-data/
 created: 2026-04-25
+raw_path: raw/news/2020-12-09_bleepingcomputer_uk-nca-visits-weleakinfo-users-warn-stolen-data.md
+copyright_policy: summary-only
 ---
 ## Source Summary
 

@@ -14,13 +14,18 @@ sensitivity: public
 pages_updated:
   - operation-us-v-madding-dark-web
 key_findings:
-  - "This domestic-only U.S. follow-on record has been absorbed into the canonical case page [[us-v-madding-dark-web]]. No visible cross-border mechanism is documented, so it is not treated as a separate international-cooperation operation."
+  - "This domestic-only U.S. follow-on record has been absorbed into the canonical case page us-v-madding-dark-web. No visible cross-border mechanism is documented, so it is not treated as a separate international-cooperation operation."
 collection_url: https://www.justice.gov/usao-wdwa/pr/dark-web-heroin-dealer-sentenced-5-years-prison
 created: 2026-04-17
 duplicate_of: "[[2018-12-04_justice-gov-wdwa_dark-web-heroin-dealer-sentenced-5-years-prison]]"
 duplicate_reason: same_collection_url
-duplicate_key: "https://www.justice.gov/usao-wdwa/pr/dark-web-heroin-dealer-sentenced-5-years-prison"
+duplicate_key: https://www.justice.gov/usao-wdwa/pr/dark-web-heroin-dealer-sentenced-5-years-prison
 duplicate_normalized_at: 2026-04-26
+text_status: source-digest
+storage_mode: source-digest
+content_hash: sha256:197c2ad406a29eb5a25a38e200b4c57a47fd3574736f640db34fe926e77364e5
+word_count: 158
+extraction_date: 2026-04-28
 ---
 ## Source Summary
 

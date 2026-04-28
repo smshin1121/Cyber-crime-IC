@@ -3,7 +3,7 @@ type: source
 title: "Florida men among hundreds charged in worldwide child porn website takedown"
 source_type: news
 publisher: "WTSP (10 Tampa Bay)"
-author: "Staff"
+author: Staff
 publish_date: 2019-10-16
 ingest_date: 2026-04-25
 language: en
@@ -20,8 +20,10 @@ collection_url: https://www.wtsp.com/article/news/crime/florida-men-among-hundre
 created: 2026-04-25
 duplicate_of: "[[2019-10-16_wtsp_florida-men-among-hundreds-charged-in-worldwide-child-porn-website-takedown]]"
 duplicate_reason: same_collection_url
-duplicate_key: "https://www.wtsp.com/article/news/crime/florida-men-among-hundreds-charged-in-worldwide-child-porn-website-takedown/67-872c3aa7-73c9-4704-8e97-c34c29c506d9"
+duplicate_key: https://www.wtsp.com/article/news/crime/florida-men-among-hundreds-charged-in-worldwide-child-porn-website-takedown/67-872c3aa7-73c9-4704-8e97-c34c29c506d9
 duplicate_normalized_at: 2026-04-26
+raw_path: raw/news/2019-10-16_wtsp_florida-men-among-hundreds-charged-worldwide-child-porn-takedown.md
+copyright_policy: summary-only
 ---
 ## Source Summary
 

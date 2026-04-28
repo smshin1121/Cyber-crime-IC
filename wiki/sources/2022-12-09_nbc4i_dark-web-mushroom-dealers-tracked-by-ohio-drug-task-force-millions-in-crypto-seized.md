@@ -18,6 +18,8 @@ key_findings:
   - "Shipments to U.S. and European customers; ~3,515 kg of mushrooms tied to network"
 collection_url: https://www.nbc4i.com/news/local-news/dark-web-mushroom-dealers-tracked-by-ohio-drug-task-force-millions-in-crypto-seized/
 created: 2026-04-25
+raw_path: raw/news/2022-12-09_nbc4i_dark-web-mushroom-dealers-tracked-by-ohio-drug-task-force-millions-in-crypto-seized.md
+copyright_policy: summary-only
 ---
 ## Source Summary
 

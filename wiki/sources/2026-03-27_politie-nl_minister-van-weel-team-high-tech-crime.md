@@ -4,7 +4,7 @@ title: "Minister Van Weel benadrukt belang werk Team High Tech Crime"
 collection_url: https://www.politie.nl/nieuws/2026/maart/27/11-minister-van-weel-benadrukt-belang-werk-team-high-tech-crime.html
 collection_domain: politie.nl
 source_type: official-article
-publisher: "Politie"
+publisher: Politie
 author: ""
 publish_date: 2026-03-27
 ingest_date: 2026-04-18
@@ -23,8 +23,14 @@ key_findings:
 created: 2026-04-18
 duplicate_of: "[[2026-03-27_politie-nl_minister-van-weel-benadrukt-belang-werk-team-high-tech-crime]]"
 duplicate_reason: same_collection_url
-duplicate_key: "https://www.politie.nl/nieuws/2026/maart/27/11-minister-van-weel-benadrukt-belang-werk-team-high-tech-crime.html"
+duplicate_key: https://www.politie.nl/nieuws/2026/maart/27/11-minister-van-weel-benadrukt-belang-werk-team-high-tech-crime.html
 duplicate_normalized_at: 2026-04-26
+raw_path: raw/press-releases/2026-03-27_politie-nl_minister-van-weel-team-high-tech-crime.md
+text_status: source-digest
+storage_mode: source-digest
+content_hash: sha256:ea47ca369371a2934d96593a3ad32c9b6dad730c427d21f9e0586539e28baee4
+word_count: 181
+extraction_date: 2026-04-28
 ---
 ## Source Summary
 

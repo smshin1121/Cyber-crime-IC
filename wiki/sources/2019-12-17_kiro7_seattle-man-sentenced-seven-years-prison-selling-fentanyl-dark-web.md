@@ -3,7 +3,7 @@ type: source
 title: "Seattle man sentenced to seven years in prison for selling fentanyl on dark web"
 source_type: news
 publisher: "KIRO 7 News Seattle"
-author: "Staff"
+author: Staff
 publish_date: 2019-12-17
 ingest_date: 2026-04-25
 language: en
@@ -16,6 +16,8 @@ key_findings:
   - "KIRO 7 Seattle local coverage of Witters federal sentencing"
 collection_url: https://www.kiro7.com/news/local/seattle-man-sentenced-seven-years-prison-selling-fentanyl-dark-web/52OC4TM44BA2RDLPPCE3BZZER4/
 created: 2026-04-25
+raw_path: raw/news/2019-12-17_kiro7_seattle-man-sentenced-seven-years-prison-selling-fentanyl-dark-web.md
+copyright_policy: summary-only
 ---
 ## Source Summary
 

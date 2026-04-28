@@ -1,9 +1,9 @@
 ---
 type: source
 title: "Eurojust coordinates action to halt cryptocurrency fraud of over 100 million euros across Europe"
-raw_path: ""
+raw_path: raw/press-releases/2025-09-23_eurojust_crypto-fraud-over-100-million-euros-across-europe.md
 source_type: press-release
-publisher: "Eurojust"
+publisher: Eurojust
 author: ""
 publish_date: 2025-09-23
 ingest_date: 2026-04-19
@@ -21,8 +21,13 @@ created: 2026-04-19
 updated: 2026-04-19
 duplicate_of: "[[2025-09-23_eurojust-europa-eu_eurojust-coordinates-action-to-halt-cryptocurrency-fraud-of-over-100-million-eur]]"
 duplicate_reason: same_collection_url
-duplicate_key: "https://www.eurojust.europa.eu/news/eurojust-coordinates-action-halt-cryptocurrency-fraud-over-100-million-euros-across-europe"
+duplicate_key: https://www.eurojust.europa.eu/news/eurojust-coordinates-action-halt-cryptocurrency-fraud-over-100-million-euros-across-europe
 duplicate_normalized_at: 2026-04-26
+text_status: source-digest
+storage_mode: source-digest
+content_hash: sha256:0d8c22cf8132cc90a0579b1546997556d7b591c7c0da41e6f806acda8ef051f7
+word_count: 193
+extraction_date: 2026-04-28
 ---
 ## Source Summary
 

@@ -3,7 +3,7 @@ type: source
 title: "Mississippi man pleads guilty to creating, sharing child explicit images"
 source_type: news
 publisher: "Yahoo News"
-author: "Staff"
+author: Staff
 publish_date: 2025-04-19
 ingest_date: 2026-04-25
 language: en
@@ -17,6 +17,8 @@ key_findings:
   - "Pre-sentencing coverage establishing investigative team: FBI Gulfport, Mississippi AG Cybercrime, Long Beach PD."
 collection_url: https://www.yahoo.com/news/mississippi-man-pleads-guilty-creating-165207068.html
 created: 2026-04-25
+raw_path: raw/news/2025-04-19_yahoo_mississippi-man-pleads-guilty-creating-sharing-child-explicit-images.md
+copyright_policy: summary-only
 ---
 ## Source Summary
 

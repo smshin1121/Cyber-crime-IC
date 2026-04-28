@@ -19,8 +19,10 @@ collection_url: https://www.infosecurity-magazine.com/news/us-imprisons-sadistic
 created: 2026-04-25
 duplicate_of: "[[2021-04-15_infosecmag_us-imprisons-sadistic-sextortionist]]"
 duplicate_reason: same_collection_url
-duplicate_key: "https://www.infosecurity-magazine.com/news/us-imprisons-sadistic/"
+duplicate_key: https://www.infosecurity-magazine.com/news/us-imprisons-sadistic/
 duplicate_normalized_at: 2026-04-26
+raw_path: raw/news/2021-04-15_infosecurity-magazine_us-imprisons-sadistic-sextortionist.md
+copyright_policy: summary-only
 ---
 ## Source Summary
 

@@ -1,20 +1,20 @@
 ---
 type: source
 title: "UK NCA: International operation targets dark web drugs marketplace (Operation Dark HunTOR)"
-collection_url: "https://www.nationalcrimeagency.gov.uk/news/international-operation-targets-dark-web-drugs-marketplace"
-collection_domain: "nationalcrimeagency.gov.uk"
-source_type: "press-release"
+collection_url: https://www.nationalcrimeagency.gov.uk/news/international-operation-targets-dark-web-drugs-marketplace
+collection_domain: nationalcrimeagency.gov.uk
+source_type: press-release
 publisher: "UK National Crime Agency (NCA)"
-publish_date: "2021-10-27"
-ingest_date: "2026-04-08"
-enriched_date: "2026-04-10"
-language: "en"
-reliability: "high"
-credibility: "confirmed"
-sensitivity: "public"
+publish_date: 2021-10-27
+ingest_date: 2026-04-08
+enriched_date: 2026-04-10
+language: en
+reliability: high
+credibility: confirmed
+sensitivity: public
 source_tier: 2
 pages_updated:
-  - "operation-dark-huntor"
+  - operation-dark-huntor
 key_findings:
   - "URL-TOPIC MISMATCH: The stored NCA URL refers to Operation Dark HunTOR (October 2021), NOT the Darkode forum takedown (July 2015). Dark HunTOR targeted an unspecified criminal dark web marketplace (sometimes linked to the DarkMarket takedown follow-on), and is unrelated to Darkode"
   - "Actual operation: Operation Dark HunTOR, announced 27 October 2021, was a coordinated international takedown following German authorities' earlier arrest of a dark web marketplace operator. The investigation exploited infrastructure accessed after the marketplace operator was detained"
@@ -26,10 +26,15 @@ created: 2026-04-08
 updated: 2026-04-10
 duplicate_of: "[[2021-10-27_nationalcrimeagency-gov-uk_international-operation-targets-dark-web-drugs-marketplace]]"
 duplicate_reason: same_collection_url
-duplicate_key: "https://www.nationalcrimeagency.gov.uk/news/international-operation-targets-dark-web-drugs-marketplace"
+duplicate_key: https://www.nationalcrimeagency.gov.uk/news/international-operation-targets-dark-web-drugs-marketplace
 duplicate_normalized_at: 2026-04-26
+raw_path: raw/press-releases/uk-nca-darkode-forum-takedown.md
+text_status: source-digest
+storage_mode: source-digest
+content_hash: sha256:d35991ae4ee7e912b2759940d7ae9b978e744db1d6e370f3f96adf2fa855e744
+word_count: 389
+extraction_date: 2026-04-28
 ---
-
 > [!info] Mismatch resolved (2026-04-10)
 > Previously linked to [[darkode-takedown]]. Reassigned to [[operation-dark-huntor]] — the actual content is Operation Dark HunTOR (2021), not the 2015 Darkode forum takedown.
 

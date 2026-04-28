@@ -14,13 +14,18 @@ sensitivity: public
 pages_updated:
   - operation-us-v-castillo-rosario-vasquez-roman-dark-web
 key_findings:
-  - "This domestic-only U.S. follow-on record has been absorbed into the canonical case page [[us-v-castillo-rosario-vasquez-roman-dark-web]]. No visible cross-border mechanism is documented, so it is not treated as a separate international-cooperation operation."
+  - "This domestic-only U.S. follow-on record has been absorbed into the canonical case page us-v-castillo-rosario-vasquez-roman-dark-web. No visible cross-border mechanism is documented, so it is not treated as a separate international-cooperation operation."
 collection_url: https://www.justice.gov/usao-edva/pr/four-men-sentenced-conspiracy-traffic-counterfeit-adderall-darknet-marketplace-sites
 created: 2026-04-17
 duplicate_of: "[[2025-06-06_edva_castillo-rosario-vasquez-roman-darknet-sentencing]]"
 duplicate_reason: same_collection_url
-duplicate_key: "https://www.justice.gov/usao-edva/pr/four-men-sentenced-conspiracy-traffic-counterfeit-adderall-darknet-marketplace-sites"
+duplicate_key: https://www.justice.gov/usao-edva/pr/four-men-sentenced-conspiracy-traffic-counterfeit-adderall-darknet-marketplace-sites
 duplicate_normalized_at: 2026-04-26
+text_status: source-digest
+storage_mode: source-digest
+content_hash: sha256:d723517723c20370ff67ef0cf6f040cf0f7ef4d7b5e7c7baf95ae356ecd3d9ce
+word_count: 161
+extraction_date: 2026-04-28
 ---
 ## Source Summary
 

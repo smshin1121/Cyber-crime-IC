@@ -3,7 +3,7 @@ type: source
 title: "Chandler tattoo business owner arrested in connection to FBI investigation"
 raw_path: raw/news/2019-03-08_abc15_chandler-tattoo-business-owner-arrested-in-connection-to-fbi-investigation.md
 source_type: news
-publisher: ABC15 (KNXV-Phoenix)
+publisher: "ABC15 (KNXV-Phoenix)"
 author: ""
 publish_date: 2019-03-08
 ingest_date: 2026-04-25
@@ -19,6 +19,7 @@ key_findings:
   - "Heroin shipped concealed in Haribo gummy bear packages; postal tracking led to suspect."
 collection_url: https://www.abc15.com/news/region-southeast-valley/chandler/chandler-tattoo-business-owner-arrested-in-connection-to-fbi-investigation
 created: 2026-04-25
+copyright_policy: summary-only
 ---
 ## Source Summary
 

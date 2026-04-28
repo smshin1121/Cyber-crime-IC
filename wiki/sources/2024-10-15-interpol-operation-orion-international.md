@@ -1,27 +1,27 @@
 ---
 type: source
 title: "Operation Orion International: South America CSAM Crackdown"
-raw_path: "raw/press-releases/2024-10-15_interpol_operation-orion-international-south-america-csam.md"
-source_type: "press-release"
-publisher: "INTERPOL"
-author: "INTERPOL"
-publish_date: "2024-10-15"
-ingest_date: "2026-04-08"
-language: "en"
-reliability: "high"
-credibility: "probably-true"
-sensitivity: "public"
+raw_path: raw/press-releases/2024-10-15_interpol_operation-orion-international-south-america-csam.md
+source_type: press-release
+publisher: INTERPOL
+author: INTERPOL
+publish_date: 2024-10-15
+ingest_date: 2026-04-08
+language: en
+reliability: high
+credibility: probably-true
+sensitivity: public
 pages_updated:
-  - "operation-orion-international"
-  - "csam-ic"
-  - "interpol-igci"
+  - operation-orion-international
+  - csam-ic
+  - interpol-igci
 key_findings:
   - "INTERPOL coordinated 'Operation Orion International' across 12 South American countries (May-Sep 2024)"
   - "144 arrests, 20 children rescued, 7 Red Notice subjects apprehended"
   - "Triggered by intelligence from Chile's cybercrime unit and Buenos Aires prosecutor's office"
 created: 2026-04-08
+copyright_policy: summary-only
 ---
-
 # Operation Orion International: South America CSAM Crackdown
 
 ## Source Overview

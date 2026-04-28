@@ -1,26 +1,26 @@
 ---
 type: source
 title: "Wired: Inside the Takedown of Infraud, the Notorious Cybercrime Forum"
-collection_url: "https://www.wired.com/story/infraud-feds-takedown-cybercrime/"
-collection_domain: "wired.com"
-source_type: "news"
-publisher: "Wired"
+collection_url: https://www.wired.com/story/infraud-feds-takedown-cybercrime/
+collection_domain: wired.com
+source_type: news
+publisher: Wired
 author: "Andy Greenberg"
-publish_date: "2018-02-08"
-ingest_date: "2026-04-08"
-enriched_date: "2026-04-10"
-language: "en"
-reliability: "medium-high"
-credibility: "probably-true"
-sensitivity: "public"
+publish_date: 2018-02-08
+ingest_date: 2026-04-08
+enriched_date: 2026-04-10
+language: en
+reliability: medium-high
+credibility: probably-true
+sensitivity: public
 source_tier: 3
 pages_updated:
-  - "infraud-organization-takedown"
-  - "us-doj"
-  - "fbi-cyber-division"
-  - "united-states"
-  - "thailand"
-  - "serbia"
+  - infraud-organization-takedown
+  - us-doj
+  - fbi-cyber-division
+  - united-states
+  - thailand
+  - serbia
 key_findings:
   - "DOJ unsealed an indictment on 7 February 2018 in the District of Nevada charging 36 defendants tied to the Infraud Organization, a Dark Web carding/identity-theft forum founded in October 2010 by Ukrainian Svyatoslav Bondarenko under the slogan 'In Fraud We Trust'"
   - "13 of the 36 indicted were arrested in coordinated operations across at least 7 countries on 7-8 February 2018, including Thailand (Sergey Medvedev, the alleged co-founder, arrested in Bangkok), Australia, France, Italy, Kosovo, Serbia, the UK and the US"
@@ -32,10 +32,16 @@ created: 2026-04-08
 updated: 2026-04-10
 duplicate_of: "[[2018-02-07_wired-com_infraud-feds-takedown-cybercrime]]"
 duplicate_reason: same_collection_url
-duplicate_key: "https://www.wired.com/story/infraud-feds-takedown-cybercrime/"
+duplicate_key: https://www.wired.com/story/infraud-feds-takedown-cybercrime/
 duplicate_normalized_at: 2026-04-26
+raw_path: raw/news/wired-infraud-organization-takedown.md
+text_status: summarized
+storage_mode: summary-only
+content_hash: sha256:0ba2b069d8374f6731b53cebb3208ce5550d406dbaed2941fa7818c9eeeea1c0
+word_count: 445
+extraction_date: 2026-04-27
+copyright_policy: summary-only
 ---
-
 ## Source
 
 - **Publisher**: Wired

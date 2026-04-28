@@ -2,8 +2,8 @@
 type: source
 title: "Refund fraud schemes promoted on TikTok, Telegram are costing Amazon and Walmart millions"
 source_type: news
-publisher: "CNBC"
-author: "Staff"
+publisher: CNBC
+author: Staff
 publish_date: 2024-03-08
 ingest_date: 2026-04-25
 language: en
@@ -16,6 +16,8 @@ key_findings:
   - "National investigative reporting situating the ARG case in the broader refund-fraud ecosystem"
 collection_url: https://www.cnbc.com/2024/03/refund-fraud-schemes-tiktok-telegram-amazon-walmart-millions.html
 created: 2026-04-25
+raw_path: raw/news/2024-03-08_cnbc_refund-fraud-schemes-promoted-tiktok-telegram-amazon-walmart.md
+copyright_policy: summary-only
 ---
 ## Source Summary
 

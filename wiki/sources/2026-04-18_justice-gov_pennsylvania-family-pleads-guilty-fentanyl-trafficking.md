@@ -22,8 +22,13 @@ defendant_names:
 updated: 2026-04-18
 duplicate_of: "[[2024-03-05_justice-gov_pennsylvania-family-pleads-guilty-to-fentanyl-trafficking]]"
 duplicate_reason: same_collection_url
-duplicate_key: "https://www.justice.gov/usao-edva/pr/pennsylvania-family-pleads-guilty-fentanyl-trafficking"
+duplicate_key: https://www.justice.gov/usao-edva/pr/pennsylvania-family-pleads-guilty-fentanyl-trafficking
 duplicate_normalized_at: 2026-04-26
+text_status: source-digest
+storage_mode: source-digest
+content_hash: sha256:d2f5b26b4a8417a8666cf87684243d175b4f07828dc988b8e230bc7150d60269
+word_count: 119
+extraction_date: 2026-04-28
 ---
 ## Source Summary
 

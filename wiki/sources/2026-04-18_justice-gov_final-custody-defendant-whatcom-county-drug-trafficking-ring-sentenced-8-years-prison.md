@@ -13,8 +13,6 @@ credibility: confirmed
 sensitivity: public
 pages_updated:
 
-key_findings:
-  - "Secure .gov websites use HTTPS A lock ( Lock Locked padlock ) or https:// means you’ve safely connected to the .gov website. Share sensitive information only on official, secure websites."
 collection_url: https://www.justice.gov/usao-wdwa/pr/final-custody-defendant-whatcom-county-drug-trafficking-ring-sentenced-8-years-prison
 created: 2026-04-18
 defendant_names:
@@ -22,8 +20,13 @@ defendant_names:
 updated: 2026-04-18
 duplicate_of: "[[2025-05-09_justice-gov_final-in-custody-defendant-in-whatcom-county-drug-trafficking-ring-sentenced-to]]"
 duplicate_reason: same_collection_url
-duplicate_key: "https://www.justice.gov/usao-wdwa/pr/final-custody-defendant-whatcom-county-drug-trafficking-ring-sentenced-8-years-prison"
+duplicate_key: https://www.justice.gov/usao-wdwa/pr/final-custody-defendant-whatcom-county-drug-trafficking-ring-sentenced-8-years-prison
 duplicate_normalized_at: 2026-04-26
+text_status: source-digest
+storage_mode: source-digest
+content_hash: sha256:4366059e4616823882493685664f100cc1b3726dc9082f6bec4ad2e36f19d372
+word_count: 128
+extraction_date: 2026-04-28
 ---
 ## Source Summary
 

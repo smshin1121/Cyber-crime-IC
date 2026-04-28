@@ -13,8 +13,6 @@ credibility: confirmed
 sensitivity: public
 pages_updated:
 
-key_findings:
-  - "Secure .gov websites use HTTPS A lock ( Lock Locked padlock ) or https:// means you’ve safely connected to the .gov website. Share sensitive information only on official, secure websites."
 collection_url: https://www.justice.gov/usao-ndca/pr/international-hacker-hire-who-conspired-and-aided-russian-fsb-officers-sentenced-five
 created: 2026-04-18
 defendant_names:
@@ -22,8 +20,13 @@ defendant_names:
 updated: 2026-04-18
 duplicate_of: "[[2018-05-30_justice-gov_international-hacker-for-hire-who-conspired-with-and-aided-russian-fsb-officers]]"
 duplicate_reason: same_collection_url
-duplicate_key: "https://www.justice.gov/usao-ndca/pr/international-hacker-hire-who-conspired-and-aided-russian-fsb-officers-sentenced-five"
+duplicate_key: https://www.justice.gov/usao-ndca/pr/international-hacker-hire-who-conspired-and-aided-russian-fsb-officers-sentenced-five
 duplicate_normalized_at: 2026-04-26
+text_status: source-digest
+storage_mode: source-digest
+content_hash: sha256:da033506fa71d18b000a06faae48c0b4360714f4cd7a6f91d3cfe55620649e45
+word_count: 108
+extraction_date: 2026-04-28
 ---
 ## Source Summary
 

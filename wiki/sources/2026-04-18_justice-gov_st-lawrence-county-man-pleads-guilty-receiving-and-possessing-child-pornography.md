@@ -13,8 +13,6 @@ credibility: confirmed
 sensitivity: public
 pages_updated:
 
-key_findings:
-  - "Secure .gov websites use HTTPS A lock ( Lock Locked padlock ) or https:// means you’ve safely connected to the .gov website. Share sensitive information only on official, secure websites."
 collection_url: https://www.justice.gov/usao-ndny/pr/st-lawrence-county-man-pleads-guilty-receiving-and-possessing-child-pornography
 created: 2026-04-18
 updated: 2026-04-18
@@ -22,8 +20,13 @@ defendant_names:
   - "Lawrence County Man"
 duplicate_of: "[[2025-03-25_justice-gov_st-lawrence-county-man-pleads-guilty-to-receiving-and-possessing-child-pornograp]]"
 duplicate_reason: same_collection_url
-duplicate_key: "https://www.justice.gov/usao-ndny/pr/st-lawrence-county-man-pleads-guilty-receiving-and-possessing-child-pornography"
+duplicate_key: https://www.justice.gov/usao-ndny/pr/st-lawrence-county-man-pleads-guilty-receiving-and-possessing-child-pornography
 duplicate_normalized_at: 2026-04-26
+text_status: source-digest
+storage_mode: source-digest
+content_hash: sha256:72f3b14267b91d7d06780c66330110369aa9bd66ebf598a996ff3c1808228e2a
+word_count: 109
+extraction_date: 2026-04-28
 ---
 ## Source Summary
 

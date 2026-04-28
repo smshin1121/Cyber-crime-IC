@@ -2,8 +2,8 @@
 type: source
 title: "Coleman Man Sentenced to 720 Months for Producing Child Sexual Abuse Material"
 source_type: news
-publisher: "Hoodline"
-author: "Staff"
+publisher: Hoodline
+author: Staff
 publish_date: 2025-08-01
 ingest_date: 2026-04-25
 language: en
@@ -17,6 +17,8 @@ key_findings:
   - "Recaps tattoo identification and foreign-partner tip narrative."
 collection_url: https://hoodline.com/2025/08/coleman-man-sentenced-to-720-months-for-producing-child-sexual-abuse-material/
 created: 2026-04-25
+raw_path: raw/news/2025-08-01_hoodline_coleman-man-sentenced-720-months-csam.md
+copyright_policy: summary-only
 ---
 ## Source Summary
 

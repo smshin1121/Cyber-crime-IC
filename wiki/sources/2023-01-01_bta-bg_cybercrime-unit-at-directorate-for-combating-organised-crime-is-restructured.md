@@ -14,7 +14,7 @@ sensitivity: public
 pages_updated:
 
 key_findings:
-  - "The **Cybercrime Directorate** of Bulgaria's **General Directorate Combating Organized Crime (GDBOP / GDCOC — Главна дирекция \"Борба с организираната престъпност\")** is the primary Bulgarian law enforcement unit responsible for investigating high-tech crime. It sits within the Ministry of Interior and hosts Bulgaria's **24/7 National Contact Point for high-tech crimes** under the [[budapest-convention|Budapest Convention]] [1][2]."
+  - "The **Cybercrime Directorate** of Bulgaria's **General Directorate Combating Organized Crime (GDBOP / GDCOC — Главна дирекция \"Борба с организираната престъпност\")** is the primary Bulgarian law enforcement unit responsible for investigating high-tech crime. It sits within the Ministry of Interior and hosts Bulgaria's **24/7 National Contact Point for high-tech crimes** under the Budapest Convention [1][2]."
 collection_url: https://www.bta.bg/en/news/bulgaria/406674-cybercrime-unit-at-directorate-for-combating-organised-crime-is-restructured-hi
 created: 2026-04-17
 text_status: summarized

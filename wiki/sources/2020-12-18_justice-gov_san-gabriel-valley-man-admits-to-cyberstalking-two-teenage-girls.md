@@ -14,7 +14,7 @@ sensitivity: public
 pages_updated:
   - operation-san-gabriel-valley-man-admits-cyberstalking-two-teenage-girls
 key_findings:
-  - "This domestic-only U.S. follow-on record has been absorbed into the canonical case page [[san-gabriel-valley-man-admits-cyberstalking-two-teenage-girls]]. No visible cross-border mechanism is documented, so it is not treated as a separate international-cooperation operation."
+  - "This domestic-only U.S. follow-on record has been absorbed into the canonical case page san-gabriel-valley-man-admits-cyberstalking-two-teenage-girls. No visible cross-border mechanism is documented, so it is not treated as a separate international-cooperation operation."
 collection_url: https://www.justice.gov/usao-cdca/pr/san-gabriel-valley-man-admits-cyberstalking-two-teenage-girls
 created: 2026-04-17
 text_status: parsed

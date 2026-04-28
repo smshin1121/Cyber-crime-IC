@@ -13,7 +13,7 @@ sensitivity: public
 pages_updated:
   - operation-us-v-simon-kaura
 key_findings:
-  - 'Article explicitly mentions: "British national Simon Kaura, faces an extradition request by the United States'''
+  - "Article explicitly mentions: \"British national Simon Kaura, faces an extradition request by the United States''"
   - "Establishes the 2023-era U.S. extradition request preceding the 2024 transfer"
 collection_url: https://www.bankinfosecurity.com/skynet-carder-market-founder-pleads-guilty-a-22090
 created: 2026-04-25

@@ -3,7 +3,7 @@ type: source
 title: "Ukrainian Cyber Criminal Extradited To Tampa, Faces 17-Years In Federal Prison"
 source_type: news
 publisher: "Tampa Free Press"
-author: "Staff"
+author: Staff
 publish_date: 2021-09-08
 ingest_date: 2026-04-25
 language: en
@@ -19,8 +19,10 @@ collection_url: https://www.tampafp.com/ukrainian-cyber-criminal-extradited-to-t
 created: 2026-04-25
 duplicate_of: "[[2021-09-09_tampafreepress_ukrainian-cyber-criminal-extradited-to-tampa-faces-17-years]]"
 duplicate_reason: same_collection_url
-duplicate_key: "https://www.tampafp.com/ukrainian-cyber-criminal-extradited-to-tampa-faces-17-years-in-federal-prison/"
+duplicate_key: https://www.tampafp.com/ukrainian-cyber-criminal-extradited-to-tampa-faces-17-years-in-federal-prison/
 duplicate_normalized_at: 2026-04-26
+raw_path: raw/news/2021-09-08_tampafp_ukrainian-cyber-criminal-extradited-tampa.md
+copyright_policy: summary-only
 ---
 ## Source Summary
 

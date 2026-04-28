@@ -13,8 +13,6 @@ credibility: confirmed
 sensitivity: public
 pages_updated:
 
-key_findings:
-  - "Secure .gov websites use HTTPS A lock ( Lock Locked padlock ) or https:// means you’ve safely connected to the .gov website. Share sensitive information only on official, secure websites."
 collection_url: https://www.justice.gov/usao-dc/pr/darknet-drug-trafficking-couple-las-vegas-sentenced-dc-federal-prison-terms
 created: 2026-04-18
 defendant_names:
@@ -23,8 +21,13 @@ defendant_names:
 updated: 2026-04-18
 duplicate_of: "[[2025-02-13_justice-gov_darknet-drug-trafficking-couple-from-las-vegas-sentenced-in-d-c-to-federal-priso]]"
 duplicate_reason: same_collection_url
-duplicate_key: "https://www.justice.gov/usao-dc/pr/darknet-drug-trafficking-couple-las-vegas-sentenced-dc-federal-prison-terms"
+duplicate_key: https://www.justice.gov/usao-dc/pr/darknet-drug-trafficking-couple-las-vegas-sentenced-dc-federal-prison-terms
 duplicate_normalized_at: 2026-04-26
+text_status: source-digest
+storage_mode: source-digest
+content_hash: sha256:d26d502e15bce1eaacb64aaeff41a94796d6df10e3ee6259672eaf65a8345f5a
+word_count: 132
+extraction_date: 2026-04-28
 ---
 ## Source Summary
 

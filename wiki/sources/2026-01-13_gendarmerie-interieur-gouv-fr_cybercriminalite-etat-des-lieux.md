@@ -21,6 +21,13 @@ key_findings:
   - "The article emphasizes the transnational and borderless character of cybercrime and the resulting difficulty of regulation and prosecution."
   - "The source reinforces the institutional framing of French gendarmerie cyber investigations as internationally connected rather than purely domestic."
 created: 2026-04-18
+raw_path: raw/press-releases/2026-01-13_gendarmerie-interieur-gouv-fr_cybercriminalite-etat-des-lieux.md
+text_status: parsed
+storage_mode: fulltext
+content_hash: sha256:1c8c895e70ab4bcab7de9f5d881f776288ed386a94c216c2c8dc989ed1d6e153
+word_count: 1444
+extraction_date: 2026-04-28
+last_fetcher: curl_cffi
 ---
 ## Source Summary
 

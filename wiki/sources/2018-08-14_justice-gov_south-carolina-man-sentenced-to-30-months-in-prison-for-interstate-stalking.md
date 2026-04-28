@@ -14,7 +14,7 @@ sensitivity: public
 pages_updated:
   - operation-south-carolina-man-sentenced-to-30-months-in-prison-for-interstate-stalking
 key_findings:
-  - "This domestic-only U.S. follow-on record has been absorbed into the canonical case page [[south-carolina-man-sentenced-to-30-months-in-prison-for-interstate-stalking]]. No visible cross-border mechanism is documented, so it is not treated as a separate international-cooperation operation."
+  - "This domestic-only U.S. follow-on record has been absorbed into the canonical case page south-carolina-man-sentenced-to-30-months-in-prison-for-interstate-stalking. No visible cross-border mechanism is documented, so it is not treated as a separate international-cooperation operation."
 collection_url: https://www.justice.gov/usao-wdpa/pr/south-carolina-man-sentenced-30-months-prison-interstate-stalking
 created: 2026-04-17
 text_status: parsed

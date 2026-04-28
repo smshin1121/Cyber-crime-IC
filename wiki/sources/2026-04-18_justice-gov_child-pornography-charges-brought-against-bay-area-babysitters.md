@@ -13,8 +13,6 @@ credibility: confirmed
 sensitivity: public
 pages_updated:
 
-key_findings:
-  - "Secure .gov websites use HTTPS A lock ( Lock Locked padlock ) or https:// means you’ve safely connected to the .gov website. Share sensitive information only on official, secure websites."
 collection_url: https://www.justice.gov/usao-ndca/pr/child-pornography-charges-brought-against-bay-area-babysitters
 created: 2026-04-18
 updated: 2026-04-18
@@ -22,8 +20,13 @@ defendant_names:
   - "Brought Against Bay Area"
 duplicate_of: "[[2017-05-12_justice-gov_child-pornography-charges-brought-against-bay-area-babysitters]]"
 duplicate_reason: same_collection_url
-duplicate_key: "https://www.justice.gov/usao-ndca/pr/child-pornography-charges-brought-against-bay-area-babysitters"
+duplicate_key: https://www.justice.gov/usao-ndca/pr/child-pornography-charges-brought-against-bay-area-babysitters
 duplicate_normalized_at: 2026-04-26
+text_status: source-digest
+storage_mode: source-digest
+content_hash: sha256:cfaa68f34fbe647692597e0fa2e0a60de6be2780a86def62b0252692f803cebd
+word_count: 104
+extraction_date: 2026-04-28
 ---
 ## Source Summary
 

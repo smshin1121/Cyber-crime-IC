@@ -13,8 +13,6 @@ credibility: confirmed
 sensitivity: public
 pages_updated:
 
-key_findings:
-  - "Secure .gov websites use HTTPS A lock ( Lock Locked padlock ) or https:// means you’ve safely connected to the .gov website. Share sensitive information only on official, secure websites."
 collection_url: https://www.justice.gov/usao-wdpa/pr/south-carolina-man-sentenced-30-months-prison-interstate-stalking
 created: 2026-04-18
 updated: 2026-04-18
@@ -22,8 +20,13 @@ defendant_names:
   - "South Carolina Man"
 duplicate_of: "[[2018-08-14_justice-gov_south-carolina-man-sentenced-to-30-months-in-prison-for-interstate-stalking]]"
 duplicate_reason: same_collection_url
-duplicate_key: "https://www.justice.gov/usao-wdpa/pr/south-carolina-man-sentenced-30-months-prison-interstate-stalking"
+duplicate_key: https://www.justice.gov/usao-wdpa/pr/south-carolina-man-sentenced-30-months-prison-interstate-stalking
 duplicate_normalized_at: 2026-04-26
+text_status: source-digest
+storage_mode: source-digest
+content_hash: sha256:bf2b8e0f953241d2c0cde78079d2430abfa442f7c6063cd4bec7b4ca8016b806
+word_count: 105
+extraction_date: 2026-04-28
 ---
 ## Source Summary
 

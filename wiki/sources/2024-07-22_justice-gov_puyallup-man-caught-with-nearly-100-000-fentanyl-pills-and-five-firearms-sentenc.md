@@ -14,7 +14,7 @@ sensitivity: public
 pages_updated:
   - operation-puyallup-man-caught-with-nearly-100-000-fentanyl-pills-and-five-firearms-sentenced-to-six-and-a-half-years-in-
 key_findings:
-  - "This domestic-only U.S. follow-on record has been absorbed into the canonical case page [[puyallup-man-caught-with-nearly-100-000-fentanyl-pills-and-five-firearms-sentenced-to-six-and-a-half-years-in-]]. No visible cross-border mechanism is documented, so it is not treated as a separate international-cooperation operation."
+  - "This domestic-only U.S. follow-on record has been absorbed into the canonical case page puyallup-man-caught-with-nearly-100-000-fentanyl-pills-and-five-firearms-sentenced-to-six-and-a-half-years-in-. No visible cross-border mechanism is documented, so it is not treated as a separate international-cooperation operation."
 collection_url: https://www.justice.gov/usao-wdwa/pr/puyallup-man-caught-nearly-100000-fentanyl-pills-and-five-firearms-sentenced-six-and
 created: 2026-04-17
 text_status: parsed

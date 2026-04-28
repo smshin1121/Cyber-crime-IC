@@ -1,21 +1,21 @@
 ---
 type: source
 title: "The Cyber Express: BidenCash Marketplace Domains Seized in U.S. Crackdown"
-collection_url: "https://thecyberexpress.com/bidencash-marketplace-domains-seized/"
-collection_domain: "thecyberexpress.com"
-source_type: "news"
+collection_url: https://thecyberexpress.com/bidencash-marketplace-domains-seized/
+collection_domain: thecyberexpress.com
+source_type: news
 publisher: "The Cyber Express"
 author: "Ashish Khaitan"
-publish_date: "2025-06-06"
-ingest_date: "2026-04-08"
-enriched_date: "2026-04-10"
-language: "en"
-reliability: "medium"
-credibility: "possibly-true"
-sensitivity: "public"
+publish_date: 2025-06-06
+ingest_date: 2026-04-08
+enriched_date: 2026-04-10
+language: en
+reliability: medium
+credibility: possibly-true
+sensitivity: public
 source_tier: 3
 pages_updated:
-  - "operation-endgame"
+  - operation-endgame
 key_findings:
   - "The Cyber Express article (6 June 2025) reports on the seizure of ~145 domains connected to the **BidenCash** marketplace — NOT the Marketplace A / Dekhtyarchuk indictment referenced in the wiki's operation page link"
   - "BidenCash operated from March 2022 as a criminal marketplace selling stolen credit-card data, CVVs, expiration dates, and PII; it served 117,000+ users and trafficked 15 million+ payment-card records, generating US$17 million+ in revenue over ~2 years"
@@ -25,8 +25,14 @@ key_findings:
   - "The Dekhtyarchuk indictment (Igor Dekhtyarchuk, Marketplace A) is a *separate* cybercrime marketplace case from 2022 (Eastern District of Texas, FBI Cyber Most Wanted) — not BidenCash — so this source is effectively **mis-mapped** to the wrong operation page"
 created: 2026-04-08
 updated: 2026-04-10
+raw_path: raw/news/the-cyber-express-marketplace-a-dekhtyarchuk-indictment.md
+text_status: summarized
+storage_mode: summary-only
+content_hash: sha256:3dd7ff66af3f3ebbe8e876397b8bc73301a7acfb55e810c34924e8f954a003aa
+word_count: 376
+extraction_date: 2026-04-27
+copyright_policy: summary-only
 ---
-
 > [!info] Mismatch resolved (2026-04-10)
 > Previously linked to [[marketplace-a-dekhtyarchuk-indictment]]. Reassigned to [[operation-endgame]] — the article covers the BidenCash marketplace seizure as part of Operation Endgame (June 2025).
 

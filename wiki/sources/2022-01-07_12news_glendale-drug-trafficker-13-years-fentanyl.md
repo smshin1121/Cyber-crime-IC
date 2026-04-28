@@ -3,7 +3,7 @@ type: source
 title: "Glendale drug trafficker gets 13 years for distributing fentanyl"
 source_type: news
 publisher: "12 News (KPNX, Phoenix NBC)"
-author: "Staff"
+author: Staff
 publish_date: 2022-01-07
 ingest_date: 2026-04-25
 language: en
@@ -17,6 +17,8 @@ key_findings:
   - "Confirms USPIS-led investigation and Arkansas overdose linkage."
 collection_url: https://www.12news.com/article/news/crime/glendale-arizona-man-sentenced-to-13-years-for-selling-opioids-on-darknet/75-eef76c4a-3f3f-4e7d-81c8-321c38b0c9e3
 created: 2026-04-25
+raw_path: raw/news/2022-01-07_12news_glendale-drug-trafficker-13-years-fentanyl.md
+copyright_policy: summary-only
 ---
 ## Source Summary
 

@@ -13,8 +13,6 @@ credibility: confirmed
 sensitivity: public
 pages_updated:
 
-key_findings:
-  - "Secure .gov websites use HTTPS A lock ( Lock Locked padlock ) or https:// means you’ve safely connected to the .gov website. Share sensitive information only on official, secure websites."
 collection_url: https://www.justice.gov/usao-sdil/pr/dark-web-fentanyl-trafficker-known-drug-llama-sentenced-13-years-federal-prison
 created: 2026-04-17
 defendant_names:
@@ -22,8 +20,13 @@ defendant_names:
 updated: 2026-04-18
 duplicate_of: "[[2020-02-12_justice-gov_dark-web-fentanyl-trafficker-known-as-the-drug-llama-sentenced-to-13-years-in-fe]]"
 duplicate_reason: same_collection_url
-duplicate_key: "https://www.justice.gov/usao-sdil/pr/dark-web-fentanyl-trafficker-known-drug-llama-sentenced-13-years-federal-prison"
+duplicate_key: https://www.justice.gov/usao-sdil/pr/dark-web-fentanyl-trafficker-known-drug-llama-sentenced-13-years-federal-prison
 duplicate_normalized_at: 2026-04-26
+text_status: source-digest
+storage_mode: source-digest
+content_hash: sha256:59f54eaa971eb5f650470cd21c15697b45370af10719616fa6a69c1f646f9486
+word_count: 164
+extraction_date: 2026-04-28
 ---
 ## Source Summary
 

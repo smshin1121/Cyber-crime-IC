@@ -22,8 +22,15 @@ created: 2026-04-18
 updated: 2026-04-18
 duplicate_of: "[[2018-08-01_cbsnews-com_feds-arrest-3-alleged-fin7-hackers-accused-of-stealing-credit-card-data]]"
 duplicate_reason: same_collection_url
-duplicate_key: "https://www.cbsnews.com/news/fin7-international-cybercriminals-arrested-hacking-malware-phishing-indictments-today-2018-08-01/"
+duplicate_key: https://www.cbsnews.com/news/fin7-international-cybercriminals-arrested-hacking-malware-phishing-indictments-today-2018-08-01/
 duplicate_normalized_at: 2026-04-26
+raw_path: raw/news/cbs-news-fin7-takedown.md
+text_status: summarized
+storage_mode: summary-only
+content_hash: sha256:b4348c2f6bb4b7d9b12daa52d8d5903e0f474d6a6ab111a7444f180bc6ee8897
+word_count: 162
+extraction_date: 2026-04-27
+copyright_policy: summary-only
 ---
 ## Source Summary
 

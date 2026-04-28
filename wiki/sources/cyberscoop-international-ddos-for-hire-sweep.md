@@ -1,21 +1,21 @@
 ---
 type: source
 title: "CyberScoop: DDoS-happy teenagers arrested in international cybercrime bust"
-collection_url: "https://cyberscoop.com/ddos-europol-arrest-december-2016/"
-collection_domain: "cyberscoop.com"
-source_type: "news"
-publisher: "CyberScoop"
+collection_url: https://cyberscoop.com/ddos-europol-arrest-december-2016/
+collection_domain: cyberscoop.com
+source_type: news
+publisher: CyberScoop
 author: "Patrick Howell O'Neill"
-publish_date: "2016-12-12"
-ingest_date: "2026-04-08"
-enriched_date: "2026-04-10"
-language: "en"
-reliability: "medium-high"
-credibility: "probably-true"
-sensitivity: "public"
+publish_date: 2016-12-12
+ingest_date: 2026-04-08
+enriched_date: 2026-04-10
+language: en
+reliability: medium-high
+credibility: probably-true
+sensitivity: public
 source_tier: 3
 pages_updated:
-  - "ddos-for-hire-sweep-2016"
+  - ddos-for-hire-sweep-2016
 key_findings:
   - "Between 5-9 December 2016, FBI, Europol and law enforcement from 12 European nations plus Australia conducted a coordinated sweep targeting paying users of DDoS-for-hire (stresser/booter) services, resulting in 34 arrests and ~101 additional suspects interviewed or cautioned"
   - "CyberScoop reports the majority of arrestees were male teenagers, characterized as 'script kiddies' — a demographic note that directly shaped the parallel awareness/prevention campaign launched alongside the sweep"
@@ -27,10 +27,16 @@ created: 2026-04-08
 updated: 2026-04-10
 duplicate_of: "[[2016-12-09_cyberscoop-com_ddos-europol-arrest-december-2016]]"
 duplicate_reason: same_collection_url
-duplicate_key: "https://cyberscoop.com/ddos-europol-arrest-december-2016/"
+duplicate_key: https://cyberscoop.com/ddos-europol-arrest-december-2016/
 duplicate_normalized_at: 2026-04-26
+raw_path: raw/news/cyberscoop-international-ddos-for-hire-sweep.md
+text_status: summarized
+storage_mode: summary-only
+content_hash: sha256:41eb607abf6c21c1ba20f54d1ce8c5784fa5801413ea2a8ba566a2597c5e51f4
+word_count: 381
+extraction_date: 2026-04-27
+copyright_policy: summary-only
 ---
-
 ## Source
 
 - **Publisher**: CyberScoop

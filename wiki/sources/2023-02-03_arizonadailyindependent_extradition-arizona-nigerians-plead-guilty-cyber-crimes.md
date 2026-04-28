@@ -3,7 +3,7 @@ type: source
 title: "After Extradition To Arizona, Nigerians Plead Guilty To Cyber Crimes"
 source_type: news
 publisher: "Arizona Daily Independent"
-author: "Staff"
+author: Staff
 publish_date: 2023-02-03
 ingest_date: 2026-04-25
 language: en
@@ -18,6 +18,8 @@ key_findings:
   - "Confirms BEC, work-from-home, check-cashing, romance, credit card scam scope."
 collection_url: https://arizonadailyindependent.com/2023/02/03/after-extradition-to-arizona-nigerians-plead-guilty-to-cyber-crimes/
 created: 2026-04-25
+raw_path: raw/news/2023-02-03_arizonadailyindependent_extradition-arizona-nigerians-plead-guilty-cyber-crimes.md
+copyright_policy: summary-only
 ---
 ## Source Summary
 

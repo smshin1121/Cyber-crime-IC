@@ -14,13 +14,18 @@ sensitivity: public
 pages_updated:
   - operation-in-re-heartsender-seizure
 key_findings:
-  - "This domestic-only U.S. follow-on record has been absorbed into the canonical case page [[in-re-heartsender-seizure]]. No visible cross-border mechanism is documented, so it is not treated as a separate international-cooperation operation."
+  - "This domestic-only U.S. follow-on record has been absorbed into the canonical case page in-re-heartsender-seizure. No visible cross-border mechanism is documented, so it is not treated as a separate international-cooperation operation."
 collection_url: https://www.justice.gov/usao-sdtx/pr/international-operation-takes-down-cybercrime-ring-selling-hacking-tools
 created: 2026-04-17
 duplicate_of: "[[2025-01-29_sdtx_heartsender-seizure]]"
 duplicate_reason: same_collection_url
-duplicate_key: "https://www.justice.gov/usao-sdtx/pr/international-operation-takes-down-cybercrime-ring-selling-hacking-tools"
+duplicate_key: https://www.justice.gov/usao-sdtx/pr/international-operation-takes-down-cybercrime-ring-selling-hacking-tools
 duplicate_normalized_at: 2026-04-26
+text_status: source-digest
+storage_mode: source-digest
+content_hash: sha256:85c8b99d58eb95dee8a89386762d5df07b92abe393f4ea2a9d629f8d54a7668d
+word_count: 155
+extraction_date: 2026-04-28
 ---
 ## Source Summary
 

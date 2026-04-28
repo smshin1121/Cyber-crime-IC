@@ -12,11 +12,16 @@ reliability: medium
 credibility: confirmed
 sensitivity: public
 pages_updated:
-  []
+
 key_findings:
   - "Latvia's national Computer Emergency Response Team; hosted by the University of Latvia under MoD mandate. For detailed facts, see the official source [1]."
 collection_url: https://cert.lv/en
 created: 2026-04-17
+text_status: source-digest
+storage_mode: source-digest
+content_hash: sha256:9de039464633faf7ccb8cba01f82ef30134b7b4502cd8ce19d044ce73f40d5b4
+word_count: 135
+extraction_date: 2026-04-28
 ---
 ## Source Summary
 

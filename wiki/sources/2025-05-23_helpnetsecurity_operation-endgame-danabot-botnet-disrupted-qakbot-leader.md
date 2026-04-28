@@ -18,8 +18,10 @@ collection_url: https://www.helpnetsecurity.com/2025/05/23/operation-endgame-dan
 created: 2026-04-25
 duplicate_of: "[[2025-05-23_helpnetsecurity-com_danabot-botnet-disrupted-qakbot-leader-indicted]]"
 duplicate_reason: same_collection_url
-duplicate_key: "https://www.helpnetsecurity.com/2025/05/23/operation-endgame-danabot-botnet-disrupted-qakbot-leader-indicted/"
+duplicate_key: https://www.helpnetsecurity.com/2025/05/23/operation-endgame-danabot-botnet-disrupted-qakbot-leader-indicted/
 duplicate_normalized_at: 2026-04-26
+raw_path: raw/news/2025-05-23_helpnetsecurity_operation-endgame-danabot-botnet-disrupted-qakbot-leader.md
+copyright_policy: summary-only
 ---
 ## Source Summary
 

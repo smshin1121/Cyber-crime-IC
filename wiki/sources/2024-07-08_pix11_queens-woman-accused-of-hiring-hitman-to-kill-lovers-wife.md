@@ -3,7 +3,7 @@ type: source
 title: "Queens woman accused of hiring hitman to kill lover's wife: officials"
 source_type: news
 publisher: "PIX11 News"
-author: "Staff"
+author: Staff
 publish_date: 2024-07-08
 ingest_date: 2026-04-25
 language: en
@@ -16,6 +16,8 @@ key_findings:
   - "Local NYC broadcast confirms Ukraine-based Bitcoin exchange used"
 collection_url: https://pix11.com/news/local-news/queens/queens-woman-accused-of-hiring-hitman-to-kill-lovers-wife-officials/
 created: 2026-04-25
+raw_path: raw/news/2024-07-08_pix11_queens-woman-accused-of-hiring-hitman-to-kill-lovers-wife.md
+copyright_policy: summary-only
 ---
 ## Source Summary
 

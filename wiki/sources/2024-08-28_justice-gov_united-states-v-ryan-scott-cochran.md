@@ -13,8 +13,6 @@ credibility: confirmed
 sensitivity: public
 pages_updated:
 
-key_findings:
-  - "Secure .gov websites use HTTPS A lock ( Lock Locked padlock ) or https:// means you’ve safely connected to the .gov website. Share sensitive information only on official, secure websites."
 collection_url: https://www.justice.gov/usao-edny/pr/dark-web-vendor-pleads-guilty-distributing-fentanyl-through-mail
 created: 2026-04-17
 updated: 2026-04-18
@@ -22,8 +20,13 @@ defendant_names:
   - "Dark Web Vendor"
 duplicate_of: "[[2024-08-28_edny_ryan-scott-cochran-dark-web-plea]]"
 duplicate_reason: same_collection_url
-duplicate_key: "https://www.justice.gov/usao-edny/pr/dark-web-vendor-pleads-guilty-distributing-fentanyl-through-mail"
+duplicate_key: https://www.justice.gov/usao-edny/pr/dark-web-vendor-pleads-guilty-distributing-fentanyl-through-mail
 duplicate_normalized_at: 2026-04-26
+text_status: source-digest
+storage_mode: source-digest
+content_hash: sha256:1dd1fc0925dcda139970e2b5568636b8935b540ef09ac1f15ebe20bd2cf09146
+word_count: 144
+extraction_date: 2026-04-28
 ---
 ## Source Summary
 

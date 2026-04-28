@@ -3,7 +3,7 @@ type: source
 title: "Pernicious Cyberstalker Sentenced to 9 Years in Prison for Unrelenting Harassment of Former Roommate and Others"
 source_type: press-release
 publisher: "United States Secret Service"
-author: "Staff"
+author: Staff
 publish_date: 2024-07-10
 ingest_date: 2026-04-25
 language: en
@@ -19,8 +19,14 @@ collection_url: https://www.secretservice.gov/newsroom/releases/2024/07/pernicio
 created: 2026-04-25
 duplicate_of: "[[2024-07-11_secretservice-gov_pernicious-cyberstalker-sentenced-9-years-unrelenting-harassment-former-roommate]]"
 duplicate_reason: same_collection_url
-duplicate_key: "https://www.secretservice.gov/newsroom/releases/2024/07/pernicious-cyberstalker-sentenced-9-years-prison-unrelenting-harassment"
+duplicate_key: https://www.secretservice.gov/newsroom/releases/2024/07/pernicious-cyberstalker-sentenced-9-years-prison-unrelenting-harassment
 duplicate_normalized_at: 2026-04-26
+raw_path: raw/press-releases/2024-07-10_secretservice_pernicious-cyberstalker-sentenced-9-years-unrelenting-harassment-former-roommate.md
+text_status: source-digest
+storage_mode: source-digest
+content_hash: sha256:c1763c4ef0b437dcfc20075963cbb54598de526de258996f1f867799515f494a
+word_count: 145
+extraction_date: 2026-04-28
 ---
 ## Source Summary
 

@@ -14,7 +14,7 @@ sensitivity: public
 pages_updated:
   - operation-pittsburgh-woman-pleads-guilty-to-credit-card-fraud-and-aggravated-identity-theft-charges-in-car-rental-scam
 key_findings:
-  - "This domestic-only U.S. follow-on record has been absorbed into the canonical case page [[pittsburgh-woman-pleads-guilty-to-credit-card-fraud-and-aggravated-identity-theft-charges-in-car-rental-scam]]. No visible cross-border mechanism is documented, so it is not treated as a separate international-cooperation operation."
+  - "This domestic-only U.S. follow-on record has been absorbed into the canonical case page pittsburgh-woman-pleads-guilty-to-credit-card-fraud-and-aggravated-identity-theft-charges-in-car-rental-scam. No visible cross-border mechanism is documented, so it is not treated as a separate international-cooperation operation."
 collection_url: https://www.justice.gov/usao-wdpa/pr/pittsburgh-woman-pleads-guilty-credit-card-fraud-and-aggravated-identity-theft-charges
 created: 2026-04-17
 text_status: parsed

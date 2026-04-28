@@ -14,7 +14,7 @@ sensitivity: public
 pages_updated:
   - operation-darknet-vendor-arrested-on-distribution-and-money-laundering-charges
 key_findings:
-  - "This domestic-only U.S. follow-on record has been absorbed into the canonical case page [[darknet-vendor-arrested-on-distribution-and-money-laundering-charges]]. No visible cross-border mechanism is documented, so it is not treated as a separate international-cooperation operation."
+  - "This domestic-only U.S. follow-on record has been absorbed into the canonical case page darknet-vendor-arrested-on-distribution-and-money-laundering-charges. No visible cross-border mechanism is documented, so it is not treated as a separate international-cooperation operation."
 collection_url: https://www.justice.gov/usao-edva/pr/darknet-vendor-arrested-distribution-and-money-laundering-charges
 created: 2026-04-17
 text_status: parsed

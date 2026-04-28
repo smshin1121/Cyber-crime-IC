@@ -14,7 +14,7 @@ sensitivity: public
 pages_updated:
   - operation-u-s-attorney-heap-announces-forfeiture-of-cryptocurrency-and-return-of-fraud-proceeds-to-victim
 key_findings:
-  - "This domestic-only U.S. follow-on record has been absorbed into the canonical case page [[u-s-attorney-heap-announces-forfeiture-of-cryptocurrency-and-return-of-fraud-proceeds-to-victim]]. No visible cross-border mechanism is documented, so it is not treated as a separate international-cooperation operation."
+  - "This domestic-only U.S. follow-on record has been absorbed into the canonical case page u-s-attorney-heap-announces-forfeiture-of-cryptocurrency-and-return-of-fraud-proceeds-to-victim. No visible cross-border mechanism is documented, so it is not treated as a separate international-cooperation operation."
 collection_url: https://www.justice.gov/usao-sdga/pr/us-attorney-heap-announces-forfeiture-cryptocurrency-and-return-fraud-proceeds-victim
 created: 2026-04-17
 text_status: parsed

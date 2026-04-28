@@ -20,8 +20,13 @@ collection_url: https://www.justice.gov/usao-mdfl/victim-witness-services/xDedic
 created: 2026-04-22
 duplicate_of: "[[2024-08-07_justice-gov_united-states-v-t-andre-mcneely-et-al]]"
 duplicate_reason: same_collection_url
-duplicate_key: "https://www.justice.gov/usao-mdfl/victim-witness-services/xDedic"
+duplicate_key: https://www.justice.gov/usao-mdfl/victim-witness-services/xDedic
 duplicate_normalized_at: 2026-04-26
+text_status: source-digest
+storage_mode: source-digest
+content_hash: sha256:650e57d178eb80038585ce896b6485bfbff94dd2b2908551d6ca5c4950c794d2
+word_count: 176
+extraction_date: 2026-04-28
 ---
 ## Source Summary
 

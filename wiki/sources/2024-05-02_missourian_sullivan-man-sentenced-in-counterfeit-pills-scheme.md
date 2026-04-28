@@ -2,8 +2,8 @@
 type: source
 title: "Sullivan man sentenced in counterfeit pills scheme"
 source_type: news
-publisher: "Missourian"
-author: "Staff"
+publisher: Missourian
+author: Staff
 publish_date: 2024-05-02
 ingest_date: 2026-04-25
 language: en
@@ -17,6 +17,8 @@ key_findings:
   - "Adams operated from a Sullivan, Missouri lake house"
 collection_url: https://www.missourian.com/local_news/sullivan-man-sentenced-in-counterfeit-pills-scheme/article_5892e060-0984-11ef-be78-8bfe5cc617a9.html
 created: 2026-04-25
+raw_path: raw/news/2024-05-02_missourian_sullivan-man-sentenced-in-counterfeit-pills-scheme.md
+copyright_policy: summary-only
 ---
 ## Source Summary
 

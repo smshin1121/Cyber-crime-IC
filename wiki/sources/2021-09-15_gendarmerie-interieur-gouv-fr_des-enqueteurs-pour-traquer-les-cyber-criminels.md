@@ -22,8 +22,14 @@ key_findings:
 created: 2026-04-18
 duplicate_of: "[[2021-09-15_gendarmerie-interieur-gouv-fr_des-enqu-teurs-pour-traquer-les-cyber-criminels]]"
 duplicate_reason: same_collection_url
-duplicate_key: "https://www.gendarmerie.interieur.gouv.fr/gendinfo/actualites/2021/des-enqueteurs-pour-traquer-les-cyber-criminels"
+duplicate_key: https://www.gendarmerie.interieur.gouv.fr/gendinfo/actualites/2021/des-enqueteurs-pour-traquer-les-cyber-criminels
 duplicate_normalized_at: 2026-04-26
+raw_path: raw/press-releases/2021-09-15_gendarmerie-interieur-gouv-fr_des-enqueteurs-pour-traquer-les-cyber-criminels.md
+text_status: source-digest
+storage_mode: source-digest
+content_hash: sha256:2a4f5e2078c4279083c1be44272ae46b770ba61e498e38e91c265ee1555c2df0
+word_count: 168
+extraction_date: 2026-04-28
 ---
 ## Source Summary
 

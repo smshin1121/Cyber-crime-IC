@@ -22,8 +22,13 @@ defendant_names:
 updated: 2026-04-18
 duplicate_of: "[[2021-03-31_justice-gov_leader-of-darknet-drug-distribution-conspiracy-sentenced-to-federal-prison]]"
 duplicate_reason: same_collection_url
-duplicate_key: "https://www.justice.gov/usao-or/pr/leader-darknet-drug-distribution-conspiracy-sentenced-federal-prison"
+duplicate_key: https://www.justice.gov/usao-or/pr/leader-darknet-drug-distribution-conspiracy-sentenced-federal-prison
 duplicate_normalized_at: 2026-04-26
+text_status: source-digest
+storage_mode: source-digest
+content_hash: sha256:94718215c26cc2a2f8746d02b25dbe07d8ec1efbcbcc16d93ce55e988c721258
+word_count: 122
+extraction_date: 2026-04-28
 ---
 ## Source Summary
 

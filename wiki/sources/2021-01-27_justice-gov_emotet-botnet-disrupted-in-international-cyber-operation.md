@@ -13,15 +13,18 @@ credibility: confirmed
 sensitivity: public
 pages_updated:
 
-key_findings:
-  - "Secure .gov websites use HTTPS A lock ( Lock Locked padlock ) or https:// means you’ve safely connected to the .gov website. Share sensitive information only on official, secure websites."
 collection_url: https://www.justice.gov/archives/opa/pr/emotet-botnet-disrupted-international-cyber-operation
 created: 2026-04-17
 updated: 2026-04-18
 duplicate_of: "[[2021-01-27_mdnc_emotet-disruption-order]]"
 duplicate_reason: same_collection_url
-duplicate_key: "https://www.justice.gov/archives/opa/pr/emotet-botnet-disrupted-international-cyber-operation"
+duplicate_key: https://www.justice.gov/archives/opa/pr/emotet-botnet-disrupted-international-cyber-operation
 duplicate_normalized_at: 2026-04-26
+text_status: source-digest
+storage_mode: source-digest
+content_hash: sha256:f271d6675ad31bb23bd6bee2507dd4a22d058d1ba2e30f8be7b9fb920d93f7ef
+word_count: 147
+extraction_date: 2026-04-28
 ---
 ## Source Summary
 

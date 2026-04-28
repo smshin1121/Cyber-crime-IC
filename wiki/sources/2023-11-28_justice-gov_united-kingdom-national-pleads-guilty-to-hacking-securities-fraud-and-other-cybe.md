@@ -14,7 +14,7 @@ sensitivity: public
 pages_updated:
   - operation-united-kingdom-national-pleads-guilty-to-hacking-securities-fraud-and-other-cybercrimes
 key_findings:
-  - "This domestic-only U.S. follow-on record has been absorbed into the canonical case page [[united-kingdom-national-pleads-guilty-to-hacking-securities-fraud-and-other-cybercrimes]]. No visible cross-border mechanism is documented, so it is not treated as a separate international-cooperation operation."
+  - "This domestic-only U.S. follow-on record has been absorbed into the canonical case page united-kingdom-national-pleads-guilty-to-hacking-securities-fraud-and-other-cybercrimes. No visible cross-border mechanism is documented, so it is not treated as a separate international-cooperation operation."
 collection_url: https://www.justice.gov/usao-edny/pr/united-kingdom-national-pleads-guilty-hacking-securities-fraud-and-other-cybercrimes
 created: 2026-04-17
 text_status: parsed

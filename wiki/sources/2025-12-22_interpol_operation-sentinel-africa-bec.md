@@ -12,14 +12,14 @@ reliability: high
 credibility: confirmed
 sensitivity: public
 pages_updated:
-  []
+
 key_findings:
-  - "INTERPOL coordinated Operation Sentinel from 27 October to 27 November 2025, focusing primarily on business email compromise (BEC), digital extortion, and ransomware across Africa. Law enforcement in 19 countries arrested 574 suspects and recovered approximately USD 3 million. Over 6,000 malicious links were taken down and six distinct ransomware variants were decrypted. The investigated cases were linked to estimated financial losses exceeding USD 21 million. The operation was held under the umbrella of the African Joint Operation against Cybercrime (AFJOC), funded by the UK's Foreign, Commonwealth and Development Office, and through the Global Action on Cybercrime Enhanced (GLACY-e) project, a joint initiative of the European Union and the Council of Europe. - **Operation name:** Operation Sentinel - **Date:** 27 October - 27 November 2025"
+  - "INTERPOL coordinated Operation Sentinel from 27 October to 27 November 2025, focusing primarily on business email compromise (BEC), digital extortion, and ransomware across Africa. Law enforcement in 19 countries arrested 574 suspects and recovered approximately USD 3 million. Over 6,000 malicious links were taken down and six distinct ransomware variants were decrypted. The investigated cases were linked to estimated financial losses exceeding USD 21 million. The operation was held under the."
 collection_url: https://www.interpol.int/en/News-and-Events/News/2025/574-arrests-and-USD-3-million-recovered-in-coordinated-cybercrime-operation-across-Africa
 created: 2026-04-17
 duplicate_of: "[[2025-12-22-interpol-operation-sentinel-africa]]"
 duplicate_reason: same_collection_url
-duplicate_key: "https://www.interpol.int/en/News-and-Events/News/2025/574-arrests-and-USD-3-million-recovered-in-coordinated-cybercrime-operation-across-Africa"
+duplicate_key: https://www.interpol.int/en/News-and-Events/News/2025/574-arrests-and-USD-3-million-recovered-in-coordinated-cybercrime-operation-across-Africa
 duplicate_normalized_at: 2026-04-26
 ---
 ## Source Summary

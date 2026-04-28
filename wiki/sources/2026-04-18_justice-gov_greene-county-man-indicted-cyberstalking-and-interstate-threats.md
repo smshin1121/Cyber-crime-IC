@@ -22,8 +22,13 @@ defendant_names:
 updated: 2026-04-18
 duplicate_of: "[[2021-02-01_justice-gov_greene-county-man-indicted-for-cyberstalking-and-interstate-threats]]"
 duplicate_reason: same_collection_url
-duplicate_key: "https://www.justice.gov/usao-wdpa/pr/greene-county-man-indicted-cyberstalking-and-interstate-threats"
+duplicate_key: https://www.justice.gov/usao-wdpa/pr/greene-county-man-indicted-cyberstalking-and-interstate-threats
 duplicate_normalized_at: 2026-04-26
+text_status: source-digest
+storage_mode: source-digest
+content_hash: sha256:dc47d1f46a9818ebfd4be17e98b0f3c48dbe264b093221609994445aa6a0d9e0
+word_count: 122
+extraction_date: 2026-04-28
 ---
 ## Source Summary
 

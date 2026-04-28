@@ -13,15 +13,18 @@ credibility: confirmed
 sensitivity: public
 pages_updated:
 
-key_findings:
-  - "Secure .gov websites use HTTPS A lock ( Lock Locked padlock ) or https:// means you’ve safely connected to the .gov website. Share sensitive information only on official, secure websites."
 collection_url: https://www.justice.gov/usao-wdpa/pr/officials-announce-international-operation-targeting-transnational-criminal
 created: 2026-04-17
 updated: 2026-04-18
 duplicate_of: "[[2020-09-29_justice-gov_officials-announce-international-operation-targeting-transnational-criminal-orga]]"
 duplicate_reason: same_collection_url
-duplicate_key: "https://www.justice.gov/usao-wdpa/pr/officials-announce-international-operation-targeting-transnational-criminal"
+duplicate_key: https://www.justice.gov/usao-wdpa/pr/officials-announce-international-operation-targeting-transnational-criminal
 duplicate_normalized_at: 2026-04-26
+text_status: source-digest
+storage_mode: source-digest
+content_hash: sha256:ca5f451d5e65058c9446530827046fb0b4d59e54d399352bab1e540ddefe694e
+word_count: 147
+extraction_date: 2026-04-28
 ---
 ## Source Summary
 

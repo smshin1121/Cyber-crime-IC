@@ -1,36 +1,42 @@
 ---
 type: source
 title: "Al Jazeera: Indonesia to Deport 103 Taiwanese Suspected of Cybercrimes in Bali"
-collection_url: "https://www.aljazeera.com/news/2024/6/28/indonesia-says-will-deport-103-taiwanese-suspected-of-cybercrimes-in-bali"
-collection_domain: "aljazeera.com"
-source_type: "news"
+collection_url: https://www.aljazeera.com/news/2024/6/28/indonesia-says-will-deport-103-taiwanese-suspected-of-cybercrimes-in-bali
+collection_domain: aljazeera.com
+source_type: news
 publisher: "Al Jazeera"
 author: "News Agencies (AFP/Reuters wire report)"
-publish_date: "2024-06-28"
-ingest_date: "2026-04-08"
-enriched_date: "2026-04-10"
-language: "en"
-reliability: "medium"
-credibility: "possibly-true"
-sensitivity: "public"
+publish_date: 2024-06-28
+ingest_date: 2026-04-08
+enriched_date: 2026-04-10
+language: en
+reliability: medium
+credibility: possibly-true
+sensitivity: public
 source_tier: 4
 pages_updated:
-  - "bali-villa-cybercrime-raid-2024"
+  - bali-villa-cybercrime-raid-2024
 key_findings:
   - "Indonesian immigration officials raided a villa in Tabanan district, Bali on 26 June 2024, detaining 103 individuals (91 men, 12 women) suspected of cybercrime and visa/residency permit misuse"
   - "Hundreds of mobile phones and electronic devices were seized during the raid; authorities indicated the group was running cybercrime operations from the villa"
   - "Jurisdictional constraint: Indonesian officials stated they could not file criminal charges because the alleged crimes targeted victims *outside* Indonesia's jurisdiction — the suspects would instead face administrative immigration deportation"
   - "Only 14 of the 103 detainees were confirmed as Taiwanese citizens by Taiwan's Ministry of Foreign Affairs; the nationalities of the remaining 89 individuals were not specified"
   - "Indonesian authorities reported working closely with Malaysian agencies on the broader cybercrime network investigation, suggesting Southeast Asian regional cooperation patterns"
-  - "The story illustrates the `territoriality-limited prosecution` challenge in cybercrime IC: where physical perpetrators are caught but substantive-law jurisdiction lies elsewhere"
+  - "The story illustrates the territoriality-limited prosecution challenge in cybercrime IC: where physical perpetrators are caught but substantive-law jurisdiction lies elsewhere"
 created: 2026-04-08
 updated: 2026-04-10
 duplicate_of: "[[2024-06-28_aljazeera-com_indonesia-says-will-deport-103-taiwanese-suspected-of-cybercrimes-in-bali]]"
 duplicate_reason: same_collection_url
-duplicate_key: "https://www.aljazeera.com/news/2024/6/28/indonesia-says-will-deport-103-taiwanese-suspected-of-cybercrimes-in-bali"
+duplicate_key: https://www.aljazeera.com/news/2024/6/28/indonesia-says-will-deport-103-taiwanese-suspected-of-cybercrimes-in-bali
 duplicate_normalized_at: 2026-04-26
+raw_path: raw/news/al-jazeera-fraudulent-shopping-sites-takedown.md
+text_status: summarized
+storage_mode: summary-only
+content_hash: sha256:1c80bb38669b29f645d4992e330aec5599ed8178fae7deb692284f3db61841a2
+word_count: 344
+extraction_date: 2026-04-27
+copyright_policy: summary-only
 ---
-
 > [!info] Mismatch resolved (2026-04-10)
 > Previously linked to [[fake-shopping-sites-takedown-2024]]. Reassigned to [[bali-villa-cybercrime-raid-2024]] — the actual content is about the June 2024 Bali cybercrime raid, not the December 2024 German shopping-sites takedown.
 

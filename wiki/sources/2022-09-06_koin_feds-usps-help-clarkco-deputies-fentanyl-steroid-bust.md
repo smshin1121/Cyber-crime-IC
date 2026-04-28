@@ -2,8 +2,8 @@
 type: source
 title: "Feds, USPS help ClarkCo deputies in fentanyl, steroid bust"
 source_type: news
-publisher: "KOIN"
-author: "Staff"
+publisher: KOIN
+author: Staff
 publish_date: 2022-09-06
 ingest_date: 2026-04-25
 language: en
@@ -16,6 +16,8 @@ key_findings:
   - "Confirms parallel involvement of USPS Postal Inspection Service alongside Clark County Sheriff's Office and federal investigators"
 collection_url: https://www.koin.com/local/clark-county/feds-usps-join-clarkco-in-fentanyl-steroid-bust/
 created: 2026-04-25
+raw_path: raw/news/2022-09-06_koin_feds-usps-help-clarkco-deputies-fentanyl-steroid-bust.md
+copyright_policy: summary-only
 ---
 ## Source Summary
 

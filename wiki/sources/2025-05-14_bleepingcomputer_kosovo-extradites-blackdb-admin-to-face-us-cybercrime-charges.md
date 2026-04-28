@@ -19,6 +19,7 @@ key_findings:
   - "FBI worked with Kosovo Police's Cybercrime Investigation Directorate; max 55 years."
 collection_url: https://www.bleepingcomputer.com/news/security/kosovo-extradites-blackdb-admin-to-face-us-cybercrime-charges/
 created: 2026-04-25
+copyright_policy: summary-only
 ---
 ## Source Summary
 

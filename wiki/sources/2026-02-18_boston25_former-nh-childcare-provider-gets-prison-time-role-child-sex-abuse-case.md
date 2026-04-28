@@ -3,7 +3,7 @@ type: source
 title: "Former NH childcare provider gets prison time for role in child sex abuse case"
 source_type: news
 publisher: "Boston 25 News"
-author: "Staff"
+author: Staff
 publish_date: 2026-02-18
 ingest_date: 2026-04-25
 language: en
@@ -17,6 +17,8 @@ key_findings:
   - "Boston regional FOX affiliate coverage of NH case"
 collection_url: https://www.boston25news.com/news/local/former-nh-childcare-provider-gets-prison-time-role-child-sex-abuse-case/7M5YKBAVAFCC5KOAN5E2UC6ZLQ/
 created: 2026-04-25
+raw_path: raw/news/2026-02-18_boston25_former-nh-childcare-provider-gets-prison-time-role-child-sex-abuse-case.md
+copyright_policy: summary-only
 ---
 ## Source Summary
 

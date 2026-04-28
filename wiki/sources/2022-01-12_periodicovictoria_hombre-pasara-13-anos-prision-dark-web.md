@@ -17,6 +17,8 @@ key_findings:
   - "Mexican regional press coverage of the Barraza Flores 13-year dark web drug sentence."
 collection_url: https://periodicovictoria.mx/mexico-y-el-mundo/hombre-pasara-13-anos-en-prision-por-vender-drogas-en-la-dark-web/
 created: 2026-04-25
+raw_path: raw/news/2022-01-12_periodicovictoria_hombre-pasara-13-anos-prision-dark-web.md
+copyright_policy: summary-only
 ---
 ## Source Summary
 

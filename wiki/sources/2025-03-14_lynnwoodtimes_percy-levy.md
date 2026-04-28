@@ -19,8 +19,15 @@ collection_url: https://lynnwoodtimes.com/2025/03/14/percy-levy/
 created: 2026-04-25
 duplicate_of: "[[2025-03-13_lynnwoodtimes_percy-levy-clemency-arrested-firearms-drugs]]"
 duplicate_reason: same_collection_url
-duplicate_key: "https://lynnwoodtimes.com/2025/03/14/percy-levy/"
+duplicate_key: https://lynnwoodtimes.com/2025/03/14/percy-levy/
 duplicate_normalized_at: 2026-04-26
+raw_path: raw/news/2025-03-14_lynnwoodtimes_percy-levy.md
+text_status: summarized
+storage_mode: summary-only
+content_hash: sha256:134ee8e5f7eb259e45beac25403ad84a365125eccb431a822a6e636e110e34a4
+word_count: 153
+extraction_date: 2026-04-27
+copyright_policy: summary-only
 ---
 ## Source Summary
 

@@ -3,7 +3,7 @@ type: source
 title: "Tulsa man sentenced to prison after admitting to threatening to kill President Biden"
 source_type: news
 publisher: "Tulsa World"
-author: "Staff"
+author: Staff
 publish_date: 2022-08-16
 ingest_date: 2026-04-25
 language: en
@@ -17,6 +17,8 @@ key_findings:
   - "Local Tulsa press confirmation of Ahrens 30-month sentence"
 collection_url: https://tulsaworld.com/news/local/tulsa-man-sentenced-to-prison-after-admitting-to-threatening-to-kill-president-biden/article_fedf1d8a-1ce6-11ed-9bf8-eb07469d43eb.html
 created: 2026-04-25
+raw_path: raw/news/2022-08-16_tulsaworld_tulsa-man-sentenced-prison-admitting-threatening-kill-biden.md
+copyright_policy: summary-only
 ---
 ## Source Summary
 

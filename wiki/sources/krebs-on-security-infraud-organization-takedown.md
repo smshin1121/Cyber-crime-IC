@@ -1,36 +1,42 @@
 ---
 type: source
 title: "Krebs on Security: U.S. Arrests 13, Charges 36 in 'Infraud' Cybercrime Forum Bust"
-collection_url: "https://krebsonsecurity.com/2018/02/u-s-arrests-13-charges-36-in-infraud-cybercrime-forum-bust/"
-collection_domain: "krebsonsecurity.com"
-source_type: "news"
+collection_url: https://krebsonsecurity.com/2018/02/u-s-arrests-13-charges-36-in-infraud-cybercrime-forum-bust/
+collection_domain: krebsonsecurity.com
+source_type: news
 publisher: "Krebs on Security"
 author: "Brian Krebs"
-publish_date: "2018-02-08"
-ingest_date: "2026-04-08"
-enriched_date: "2026-04-10"
-language: "en"
-reliability: "high"
-credibility: "confirmed"
-sensitivity: "public"
+publish_date: 2018-02-08
+ingest_date: 2026-04-08
+enriched_date: 2026-04-10
+language: en
+reliability: high
+credibility: confirmed
+sensitivity: public
 source_tier: 2
 pages_updated:
-  - "infraud-organization-takedown"
+  - infraud-organization-takedown
 key_findings:
   - "Krebs on Security reported on 2018-02-08 that US authorities unsealed an indictment charging 36 defendants and arresting 13 linked to the Infraud Organization ('In Fraud We Trust'), a carding forum operational since October 2010 with nearly 11,000 members at peak"
   - "Estimated total losses to consumers exceeded USD 500 million; Infraud positioned itself as the 'Ministry of Fraudulently Affairs' for Dark Web carding, ATM skimming, and identity-theft services"
   - "Arrests occurred across Australia, France, Italy, Kosovo, Serbia, the United Kingdom, and the United States — a 7-country concurrent action"
   - "Named defendants detailed by Krebs: Svyatoslav Bondarenko (Ukraine, founder, alias Rector/Helkern); Sergey Medvedev (alias Stells, escrow service admin and owner since April 2016); Jose Gamboa (Los Angeles, alias Rafael101, ATM skimmer vendor); Andrey Sergeevich Novak (alias Unicc, stolen card vendor); Sergey Kozerev (St. Petersburg, alias Zo0mer, card vendor)"
   - "Krebs contextualises Infraud within his decade-long tracking of Russian-speaking carding ecosystems — the detailed alias-to-identity mapping in this article is among the most thorough in open-source reporting on the case"
-  - "Source reliability uplift: Krebs on Security's track record on cybercrime attribution (particularly Russian-speaking carding) warrants *high* reliability, above the default `medium` for news"
+  - "Source reliability uplift: Krebs on Security's track record on cybercrime attribution (particularly Russian-speaking carding) warrants *high* reliability, above the default medium for news"
 created: 2026-04-08
 updated: 2026-04-10
 duplicate_of: "[[2018-02-01_krebsonsecurity-com_u-s-arrests-13-charges-36-in-infraud-cybercrime-forum-bust]]"
 duplicate_reason: same_collection_url
-duplicate_key: "https://krebsonsecurity.com/2018/02/u-s-arrests-13-charges-36-in-infraud-cybercrime-forum-bust/"
+duplicate_key: https://krebsonsecurity.com/2018/02/u-s-arrests-13-charges-36-in-infraud-cybercrime-forum-bust/
 duplicate_normalized_at: 2026-04-26
+raw_path: raw/news/krebs-on-security-infraud-organization-takedown.md
+text_status: summarized
+storage_mode: summary-only
+content_hash: sha256:bc05d098f7fff91019747d7a5a618d33d3a66c654e55bb449737e62573376d2d
+word_count: 385
+extraction_date: 2026-04-27
+copyright_policy: summary-only
 ---
-
 ## Source
 
 - **Publisher**: Krebs on Security

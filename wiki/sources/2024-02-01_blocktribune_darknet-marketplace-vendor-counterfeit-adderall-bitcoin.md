@@ -2,8 +2,8 @@
 type: source
 title: "Darknet Marketplace Vendor Admits to Selling Counterfeit Adderall Pills Containing Methamphetamine for Bitcoin"
 source_type: news
-publisher: "BlockTribune"
-author: "Staff"
+publisher: BlockTribune
+author: Staff
 publish_date: 2024-02-01
 ingest_date: 2026-04-25
 language: en
@@ -17,6 +17,8 @@ key_findings:
   - "Crypto trade press confirms Bohemia/Tor2Door market use and bitcoin payments."
 collection_url: https://blocktribune.com/darknet-marketplace-vendor-admits-to-selling-counterfeit-adderall-pills-containing-methamphetamine-for-bitcoin/
 created: 2026-04-25
+raw_path: raw/news/2024-02-01_blocktribune_darknet-marketplace-vendor-counterfeit-adderall-bitcoin.md
+copyright_policy: summary-only
 ---
 ## Source Summary
 

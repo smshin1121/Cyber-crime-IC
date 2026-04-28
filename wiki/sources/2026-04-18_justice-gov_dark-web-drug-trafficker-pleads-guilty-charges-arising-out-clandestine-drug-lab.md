@@ -13,8 +13,6 @@ credibility: confirmed
 sensitivity: public
 pages_updated:
 
-key_findings:
-  - "Secure .gov websites use HTTPS A lock ( Lock Locked padlock ) or https:// means you’ve safely connected to the .gov website. Share sensitive information only on official, secure websites."
 collection_url: https://www.justice.gov/usao-edmi/pr/dark-web-drug-trafficker-pleads-guilty-charges-arising-out-clandestine-drug-lab
 created: 2026-04-18
 updated: 2026-04-18
@@ -22,8 +20,13 @@ defendant_names:
   - "Dark Web Drug Trafficker"
 duplicate_of: "[[2023-07-19_justice-gov_dark-web-drug-trafficker-pleads-guilty-to-charges-arising-out-of-a-clandestine-d]]"
 duplicate_reason: same_collection_url
-duplicate_key: "https://www.justice.gov/usao-edmi/pr/dark-web-drug-trafficker-pleads-guilty-charges-arising-out-clandestine-drug-lab"
+duplicate_key: https://www.justice.gov/usao-edmi/pr/dark-web-drug-trafficker-pleads-guilty-charges-arising-out-clandestine-drug-lab
 duplicate_normalized_at: 2026-04-26
+text_status: source-digest
+storage_mode: source-digest
+content_hash: sha256:f81fef9be0762f4f904a461b3a391616cf399440173c42277a4642c7971d12b3
+word_count: 114
+extraction_date: 2026-04-28
 ---
 ## Source Summary
 

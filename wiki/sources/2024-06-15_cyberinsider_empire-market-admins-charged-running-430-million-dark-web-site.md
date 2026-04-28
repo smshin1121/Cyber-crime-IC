@@ -2,7 +2,7 @@
 type: source
 title: "Empire Market Admins Charged with Running $430 Million Dark Web Site"
 source_type: news
-publisher: "CyberInsider"
+publisher: CyberInsider
 author: Staff
 publish_date: 2024-06-15
 ingest_date: 2026-04-25

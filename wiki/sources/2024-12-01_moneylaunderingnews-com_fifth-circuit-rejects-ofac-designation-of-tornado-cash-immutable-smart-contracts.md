@@ -12,11 +12,12 @@ reliability: medium
 credibility: confirmed
 sensitivity: public
 pages_updated:
-  []
+
 key_findings:
   - "The US Department of the Treasury plays a central role in international cybercrime cooperation through two distinct tools:"
 collection_url: https://www.moneylaunderingnews.com/2024/12/fifth-circuit-rejects-ofac-designation-of-tornado-cash-immutable-smart-contracts/
 created: 2026-04-17
+copyright_policy: summary-only
 ---
 ## Source Summary
 

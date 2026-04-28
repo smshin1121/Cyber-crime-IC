@@ -2,8 +2,8 @@
 type: source
 title: "Washington man facing federal cyberstalking charges"
 source_type: news
-publisher: "Observer-Reporter"
-author: "Staff"
+publisher: Observer-Reporter
+author: Staff
 publish_date: 2022-07-16
 ingest_date: 2026-04-25
 language: en
@@ -19,8 +19,10 @@ collection_url: https://www.observer-reporter.com/news/2022/jul/16/washington-ma
 created: 2026-04-25
 duplicate_of: "[[2022-07-15_observer-reporter_washington-man-facing-federal-cyberstalking-charges]]"
 duplicate_reason: same_collection_url
-duplicate_key: "https://www.observer-reporter.com/news/2022/jul/16/washington-man-facing-federal-cyberstalking-charges/"
+duplicate_key: https://www.observer-reporter.com/news/2022/jul/16/washington-man-facing-federal-cyberstalking-charges/
 duplicate_normalized_at: 2026-04-26
+raw_path: raw/news/2022-07-16_observerreporter_washington-man-facing-federal-cyberstalking-charges.md
+copyright_policy: summary-only
 ---
 ## Source Summary
 

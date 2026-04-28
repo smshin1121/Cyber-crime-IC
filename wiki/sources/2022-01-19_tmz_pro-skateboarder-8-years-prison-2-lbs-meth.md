@@ -2,8 +2,8 @@
 type: source
 title: "Pro Skateboarder Evan Hernandez Sentenced To 8+ Yrs In Prison For Selling 2 Lbs. Meth"
 source_type: news
-publisher: "TMZ"
-author: "Staff"
+publisher: TMZ
+author: Staff
 publish_date: 2022-01-19
 ingest_date: 2026-04-25
 language: en
@@ -17,6 +17,8 @@ key_findings:
   - "TMZ confirms 1.97 pounds methamphetamine sold for $5,000 to undercover agent"
 collection_url: https://www.tmz.com/2022/01/19/pro-skateboarder-evan-hernandez-sentenced-federal-prison-8-years-selling-meth-bitcoin/
 created: 2026-04-25
+raw_path: raw/news/2022-01-19_tmz_pro-skateboarder-8-years-prison-2-lbs-meth.md
+copyright_policy: summary-only
 ---
 ## Source Summary
 

@@ -13,8 +13,6 @@ credibility: confirmed
 sensitivity: public
 pages_updated:
 
-key_findings:
-  - "Secure .gov websites use HTTPS A lock ( Lock Locked padlock ) or https:// means you’ve safely connected to the .gov website. Share sensitive information only on official, secure websites."
 collection_url: https://www.justice.gov/usao-co/pr/leader-darknet-italianmafiabrussels-drug-trafficking-organization-sentenced-11-years
 created: 2026-04-18
 defendant_names:
@@ -22,8 +20,13 @@ defendant_names:
 updated: 2026-04-18
 duplicate_of: "[[2018-10-01_justice-gov_leader-of-darknet-italianmafiabrussels-drug-trafficking-organization-sentenced-t]]"
 duplicate_reason: same_collection_url
-duplicate_key: "https://www.justice.gov/usao-co/pr/leader-darknet-italianmafiabrussels-drug-trafficking-organization-sentenced-11-years"
+duplicate_key: https://www.justice.gov/usao-co/pr/leader-darknet-italianmafiabrussels-drug-trafficking-organization-sentenced-11-years
 duplicate_normalized_at: 2026-04-26
+text_status: source-digest
+storage_mode: source-digest
+content_hash: sha256:abe7791d311f9606923722266e8ab0ac2b0ad28dd8f98fdb4e2af8aff76692ed
+word_count: 100
+extraction_date: 2026-04-28
 ---
 ## Source Summary
 

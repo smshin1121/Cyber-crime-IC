@@ -16,6 +16,13 @@ key_findings:
   - "DEA confirms June 2023 guilty plea to conspiracy, counterfeit-drug-sale, and fictitious-name-mail counts."
 collection_url: https://www.dea.gov/press-releases/2023/06/15/seattle-man-admits-buying-630000-counterfeit-pills-dark-web
 created: 2026-04-25
+raw_path: raw/press-releases/2023-06-15_dea_seattle-man-admits-buying-630000-counterfeit-pills-dark-web.md
+text_status: parsed
+content_hash: sha256:9f1f16d0b0218612b823be5ac9133bcb11fc9f75ad076bf5fe9fd0dcf52f0f7a
+word_count: 211
+extraction_date: 2026-04-28
+last_fetcher: curl_cffi
+storage_mode: fulltext
 ---
 ## Source Summary
 

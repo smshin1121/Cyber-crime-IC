@@ -3,7 +3,7 @@ type: source
 title: "Infamous Twitter Hacker Cops to Cybercrimes, Extradited to US for Trial"
 source_type: news
 publisher: "Dark Reading"
-author: "Staff"
+author: Staff
 publish_date: 2023-05-09
 ingest_date: 2026-04-25
 language: en
@@ -16,6 +16,8 @@ key_findings:
   - "Dark Reading cyber industry coverage of O'Connor's extradition and plea."
 collection_url: https://www.darkreading.com/cyberattacks-data-breaches/twitter-hacker-cops-to-cybercrimes-extradited-to-us-for-trial-
 created: 2026-04-25
+raw_path: raw/news/2023-05-09_darkreading_twitter-hacker-cops-cybercrimes-extradited-us-trial.md
+copyright_policy: summary-only
 ---
 ## Source Summary
 

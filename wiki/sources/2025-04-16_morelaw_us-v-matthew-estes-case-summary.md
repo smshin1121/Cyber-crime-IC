@@ -2,8 +2,8 @@
 type: source
 title: "U.S. v. Matthew Estes - Case Details"
 source_type: case-document
-publisher: "MoreLaw"
-author: "Staff"
+publisher: MoreLaw
+author: Staff
 publish_date: 2025-04-16
 ingest_date: 2026-04-25
 language: en
@@ -16,8 +16,10 @@ pages_updated:
 key_findings:
   - "Charges: 18 U.S.C. § 2251(a), two counts production of child pornography"
   - "Judge Thomas A. Varlan presided"
-collection_url: https://www.morelaw.com/verdicts/case.asp?s=TN&d=192261
+collection_url: "https://www.morelaw.com/verdicts/case.asp?s=TN&d=192261"
 created: 2026-04-25
+raw_path: raw/case-documents/2025-04-16_morelaw_us-v-matthew-estes-case-summary.md
+copyright_policy: summary-only
 ---
 ## Source Summary
 

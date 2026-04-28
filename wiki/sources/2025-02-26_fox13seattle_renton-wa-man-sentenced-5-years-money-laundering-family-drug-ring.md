@@ -3,7 +3,7 @@ type: source
 title: "Renton, WA man sentenced to 5 years for money laundering in family drug ring"
 source_type: news
 publisher: "FOX 13 Seattle"
-author: "Staff"
+author: Staff
 publish_date: 2025-02-26
 ingest_date: 2026-04-25
 language: en
@@ -19,8 +19,16 @@ collection_url: https://www.fox13seattle.com/news/renton-man-sentenced-family-dr
 created: 2026-04-25
 duplicate_of: "[[2025-01-17_fox13seattle_renton-man-sentenced-family-drug-ring]]"
 duplicate_reason: same_collection_url
-duplicate_key: "https://www.fox13seattle.com/news/renton-man-sentenced-family-drug-ring"
+duplicate_key: https://www.fox13seattle.com/news/renton-man-sentenced-family-drug-ring
 duplicate_normalized_at: 2026-04-26
+raw_path: raw/news/2025-02-26_fox13seattle_renton-wa-man-sentenced-5-years-money-laundering-family-drug-ring.md
+text_status: summarized
+storage_mode: summary-only
+content_hash: sha256:bb64f0d93263595db75f4bbb1da8c7645d4904775fc734ebc10d3b1b2a92bb16
+word_count: 1111
+extraction_date: 2026-04-25
+copyright_policy: summary-only
+stored_word_count: 80
 ---
 ## Source Summary
 

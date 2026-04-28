@@ -22,8 +22,13 @@ defendant_names:
 updated: 2026-04-18
 duplicate_of: "[[2022-06-13_justice-gov_illinois-man-sentenced-to-2-years-in-federal-prison-for-operating-subscription-b]]"
 duplicate_reason: same_collection_url
-duplicate_key: "https://www.justice.gov/usao-cdca/pr/illinois-man-sentenced-2-years-federal-prison-operating-subscription-based-computer"
+duplicate_key: https://www.justice.gov/usao-cdca/pr/illinois-man-sentenced-2-years-federal-prison-operating-subscription-based-computer
 duplicate_normalized_at: 2026-04-26
+text_status: source-digest
+storage_mode: source-digest
+content_hash: sha256:dd681f721cfd474c56e35c083383754c8b95bcb49f30c23c3eed318b2df92829
+word_count: 145
+extraction_date: 2026-04-28
 ---
 ## Source Summary
 

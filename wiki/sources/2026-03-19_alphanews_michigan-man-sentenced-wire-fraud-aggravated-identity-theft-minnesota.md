@@ -3,7 +3,7 @@ type: source
 title: "Michigan man sentenced for wire fraud and aggravated identity theft charges in Minnesota"
 source_type: news
 publisher: "Alpha News"
-author: "Staff"
+author: Staff
 publish_date: 2026-03-19
 ingest_date: 2026-04-25
 language: en
@@ -17,6 +17,8 @@ key_findings:
   - "Minnesota local press confirms 60-month federal prison sentence for Shenkosky in March 2026."
 collection_url: https://alphanews.org/michigan-man-sentenced-for-wire-fraud-and-aggravated-identity-theft-charges-in-minnesota/
 created: 2026-04-25
+raw_path: raw/news/2026-03-19_alphanews_michigan-man-sentenced-wire-fraud-aggravated-identity-theft-minnesota.md
+copyright_policy: summary-only
 ---
 ## Source Summary
 

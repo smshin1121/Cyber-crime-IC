@@ -17,6 +17,8 @@ key_findings:
   - "Documents Diplomatic Security Service role in identifying fraud"
 collection_url: https://fox40.com/2018/11/07/fugitive-using-dead-childs-name-caught-in-sonoma-county/
 created: 2026-04-25
+raw_path: raw/news/2018-11-07_fox40_fugitive-using-dead-childs-name-caught-sonoma-county.md
+copyright_policy: summary-only
 ---
 ## Source Summary
 

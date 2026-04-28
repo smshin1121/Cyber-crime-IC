@@ -2,8 +2,8 @@
 type: source
 title: "SSNDOB Marketplace Admin Pleads Guilty to Fraud, Trafficking PII"
 source_type: news
-publisher: "Flashpoint"
-author: "Staff"
+publisher: Flashpoint
+author: Staff
 publish_date: 2023-08-11
 ingest_date: 2026-04-25
 language: en
@@ -19,8 +19,10 @@ collection_url: https://flashpoint.io/blog/us-seizes-ssndob-marketplace-admin-pl
 created: 2026-04-25
 duplicate_of: "[[2023-08-11_flashpoint_ssndob-marketplace-admin-pleads-guilty-fraud-trafficking-pii]]"
 duplicate_reason: same_collection_url
-duplicate_key: "https://flashpoint.io/blog/us-seizes-ssndob-marketplace-admin-pleads-guilty/"
+duplicate_key: https://flashpoint.io/blog/us-seizes-ssndob-marketplace-admin-pleads-guilty/
 duplicate_normalized_at: 2026-04-26
+raw_path: raw/news/2023-08-11_flashpoint_ssndob-marketplace-admin-pleads-guilty-to-fraud-trafficking-pii.md
+copyright_policy: summary-only
 ---
 ## Source Summary
 

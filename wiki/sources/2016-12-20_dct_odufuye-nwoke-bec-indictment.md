@@ -13,8 +13,6 @@ credibility: confirmed
 sensitivity: public
 pages_updated:
   - operation-wirewire
-key_findings:
-  - "Secure .gov websites use HTTPS A lock ( Lock Locked padlock ) or https: // means you’ve safely connected to the .gov website. Share sensitive information only on official, secure websites."
 collection_url: https://www.justice.gov/usao-ct/pr/nigerian-nationals-charged-operating-business-compromise-scheme
 created: 2026-04-17
 defendant_names:

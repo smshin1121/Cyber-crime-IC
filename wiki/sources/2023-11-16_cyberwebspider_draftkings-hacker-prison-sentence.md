@@ -2,8 +2,8 @@
 type: source
 title: "DraftKings Hacker Receives Prison Sentence for Cyber Attack"
 source_type: news
-publisher: "Cyberwebspider"
-author: "Staff"
+publisher: Cyberwebspider
+author: Staff
 publish_date: 2023-11-16
 ingest_date: 2026-04-25
 language: en
@@ -16,6 +16,8 @@ key_findings:
   - "Aggregator confirmation of McCormick sentencing"
 collection_url: https://cyberwebspider.com/security-week-news/draftkings-hacker-prison-sentence/
 created: 2026-04-25
+raw_path: raw/news/2023-11-16_cyberwebspider_draftkings-hacker-prison-sentence.md
+copyright_policy: summary-only
 ---
 ## Source Summary
 

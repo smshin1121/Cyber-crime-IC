@@ -13,14 +13,12 @@ credibility: confirmed
 sensitivity: public
 pages_updated:
   - qqaazz-money-laundering-takedown
-key_findings:
-  - "Secure .gov websites use HTTPS A lock ( Lock Locked padlock ) or https:// means you’ve safely connected to the .gov website. Share sensitive information only on official, secure websites."
 collection_url: https://www.justice.gov/usao-wdpa/pr/officials-announce-international-operation-targeting-transnational-criminal
 created: 2026-04-17
 updated: 2026-04-18
 duplicate_of: "[[2020-09-29_justice-gov_officials-announce-international-operation-targeting-transnational-criminal-orga]]"
 duplicate_reason: same_collection_url
-duplicate_key: "https://www.justice.gov/usao-wdpa/pr/officials-announce-international-operation-targeting-transnational-criminal"
+duplicate_key: https://www.justice.gov/usao-wdpa/pr/officials-announce-international-operation-targeting-transnational-criminal
 duplicate_normalized_at: 2026-04-26
 ---
 ## Source Summary

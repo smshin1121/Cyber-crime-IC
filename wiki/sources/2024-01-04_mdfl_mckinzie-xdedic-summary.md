@@ -13,8 +13,6 @@ credibility: confirmed
 sensitivity: public
 pages_updated:
   - xdedic-marketplace-takedown
-key_findings:
-  - "Secure .gov websites use HTTPS A lock ( Lock Locked padlock ) or https:// means you’ve safely connected to the .gov website. Share sensitive information only on official, secure websites."
 collection_url: https://www.justice.gov/usao-mdfl/pr/19-individuals-worldwide-charged-transnational-cybercrime-investigation-xdedic
 created: 2026-04-17
 defendant_names:
@@ -23,8 +21,13 @@ defendant_names:
 updated: 2026-04-18
 duplicate_of: "[[2024-01-04_justice-gov_19-individuals-worldwide-charged-in-transnational-cybercrime-investigation-of-th]]"
 duplicate_reason: same_collection_url
-duplicate_key: "https://www.justice.gov/usao-mdfl/pr/19-individuals-worldwide-charged-transnational-cybercrime-investigation-xdedic"
+duplicate_key: https://www.justice.gov/usao-mdfl/pr/19-individuals-worldwide-charged-transnational-cybercrime-investigation-xdedic
 duplicate_normalized_at: 2026-04-26
+text_status: source-digest
+storage_mode: source-digest
+content_hash: sha256:e2eeffa83090e035c233610029c48261ce5ac8ceba873d48508362fb3ce3ff20
+word_count: 174
+extraction_date: 2026-04-28
 ---
 ## Source Summary
 

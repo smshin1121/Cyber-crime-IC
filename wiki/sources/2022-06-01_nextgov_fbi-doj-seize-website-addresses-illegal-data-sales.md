@@ -2,7 +2,7 @@
 type: source
 title: "FBI, DOJ Seize Website Addresses, Associated Illegal Data Sales, Hacking Services"
 source_type: news
-publisher: "Nextgov/FCW"
+publisher: Nextgov/FCW
 author: "Alexandra Kelley"
 publish_date: 2022-06-01
 ingest_date: 2026-04-25
@@ -17,6 +17,8 @@ key_findings:
   - "Documents the DDoS-for-hire scope (ipstress.in, ovh-booter.com) bundled in the same operation."
 collection_url: https://www.nextgov.com/cybersecurity/2022/06/fbi-doj-seize-website-addresses-associated-illegal-data-sales-hacking-services/367670/
 created: 2026-04-25
+raw_path: raw/news/2022-06-01_nextgov_fbi-doj-seize-website-addresses-illegal-data-sales.md
+copyright_policy: summary-only
 ---
 ## Source Summary
 

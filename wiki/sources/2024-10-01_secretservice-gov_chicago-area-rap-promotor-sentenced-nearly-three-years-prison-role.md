@@ -16,6 +16,12 @@ key_findings:
   - "USSS confirmed as parallel federal agency in the Sorrells/Strong conspiracy."
 collection_url: https://www.secretservice.gov/newsroom/releases/2024/10/chicago-area-rap-promotor-sentenced-nearly-three-years-prison-role
 created: 2026-04-25
+raw_path: raw/press-releases/2024-10-01_secretservice-gov_chicago-area-rap-promotor-sentenced-nearly-three-years-prison-role.md
+text_status: source-digest
+storage_mode: source-digest
+content_hash: sha256:3feed1adf291cdd19f52d6969ca848174d23e44e0cafaff40eed5250f05c1f77
+word_count: 143
+extraction_date: 2026-04-28
 ---
 ## Source Summary
 

@@ -19,8 +19,14 @@ collection_url: https://www.latimes.com/world-nation/story/2023-03-30/man-charge
 created: 2026-04-17
 duplicate_of: "[[2023-03-30_ap_man-charged-in-20-plus-calls-of-false-threats-in-us-canada]]"
 duplicate_reason: same_collection_url
-duplicate_key: "https://www.latimes.com/world-nation/story/2023-03-30/man-charged-in-20-plus-calls-of-false-threats-in-us-canada"
+duplicate_key: https://www.latimes.com/world-nation/story/2023-03-30/man-charged-in-20-plus-calls-of-false-threats-in-us-canada
 duplicate_normalized_at: 2026-04-26
+text_status: summarized
+content_hash: sha256:f6cbd4d433c87b4b7e4461f1c21b30c9223de541fc5d91b61e7449578fe77b7b
+word_count: 1496
+stored_word_count: 80
+copyright_policy: summary-only
+extraction_date: 2026-04-25
 ---
 ## Source Summary
 

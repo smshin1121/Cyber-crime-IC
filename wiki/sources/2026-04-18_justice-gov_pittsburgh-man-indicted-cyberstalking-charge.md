@@ -22,8 +22,13 @@ defendant_names:
 updated: 2026-04-18
 duplicate_of: "[[2024-01-25_justice-gov_pittsburgh-man-indicted-on-cyberstalking-charge]]"
 duplicate_reason: same_collection_url
-duplicate_key: "https://www.justice.gov/usao-wdpa/pr/pittsburgh-man-indicted-cyberstalking-charge"
+duplicate_key: https://www.justice.gov/usao-wdpa/pr/pittsburgh-man-indicted-cyberstalking-charge
 duplicate_normalized_at: 2026-04-26
+text_status: source-digest
+storage_mode: source-digest
+content_hash: sha256:dd644a9c55d7f3814f8038f1140bf8e3d7704d359909bc082d24486415e178cc
+word_count: 121
+extraction_date: 2026-04-28
 ---
 ## Source Summary
 

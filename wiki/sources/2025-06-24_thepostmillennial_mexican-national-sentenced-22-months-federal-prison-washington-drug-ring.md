@@ -3,7 +3,7 @@ type: source
 title: "Mexican national sentenced to 22 months in federal prison for role in Washington drug ring"
 source_type: news
 publisher: "The Post Millennial"
-author: "Staff"
+author: Staff
 publish_date: 2025-06-24
 ingest_date: 2026-04-25
 language: en
@@ -17,6 +17,8 @@ key_findings:
   - "Confirms the 22-month sentence and likely deportation."
 collection_url: https://thepostmillennial.com/mexican-national-sentenced-to-22-months-in-federal-prison-for-role-in-washington-drug-ring
 created: 2026-04-25
+raw_path: raw/news/2025-06-24_thepostmillennial_mexican-national-sentenced-22-months-federal-prison-washington-drug-ring.md
+copyright_policy: summary-only
 ---
 ## Source Summary
 

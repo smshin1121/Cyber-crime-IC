@@ -2,8 +2,8 @@
 type: source
 title: "Newport News man sentenced for prolific card-swiping operation"
 source_type: news
-publisher: "WAVY-TV"
-author: "Staff"
+publisher: WAVY-TV
+author: Staff
 publish_date: 2024-03-08
 ingest_date: 2026-04-25
 language: en
@@ -19,6 +19,8 @@ key_findings:
   - "Direct WebFetch blocked (HTTP 403); content confirmed via WebSearch result snippets."
 collection_url: https://www.wavy.com/news/crime/newport-news-man-sentenced-for-prolific-card-swiping-operation/
 created: 2026-04-25
+raw_path: raw/news/2024-03-08_wavy_newport-news-man-sentenced-prolific-card-swiping-operation.md
+copyright_policy: summary-only
 ---
 ## Source Summary
 

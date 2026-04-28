@@ -13,8 +13,6 @@ credibility: confirmed
 sensitivity: public
 pages_updated:
 
-key_findings:
-  - "Secure .gov websites use HTTPS A lock ( Lock Locked padlock ) or https:// means you’ve safely connected to the .gov website. Share sensitive information only on official, secure websites."
 collection_url: https://www.justice.gov/usao-ma/pr/brazilian-national-pleads-guilty-role-nationwide-rideshare-and-delivery-account-fraud-0
 created: 2026-04-18
 defendant_names:
@@ -22,8 +20,13 @@ defendant_names:
 updated: 2026-04-18
 duplicate_of: "[[2022-01-20_justice-gov_brazilian-national-pleads-guilty-to-role-in-nationwide-rideshare-and-delivery-ac]]"
 duplicate_reason: same_collection_url
-duplicate_key: "https://www.justice.gov/usao-ma/pr/brazilian-national-pleads-guilty-role-nationwide-rideshare-and-delivery-account-fraud-0"
+duplicate_key: https://www.justice.gov/usao-ma/pr/brazilian-national-pleads-guilty-role-nationwide-rideshare-and-delivery-account-fraud-0
 duplicate_normalized_at: 2026-04-26
+text_status: source-digest
+storage_mode: source-digest
+content_hash: sha256:78e6e767e46ad4024649cc9968988e13259ff5a15c813eaadd88b6cf9fe0bea3
+word_count: 108
+extraction_date: 2026-04-28
 ---
 ## Source Summary
 

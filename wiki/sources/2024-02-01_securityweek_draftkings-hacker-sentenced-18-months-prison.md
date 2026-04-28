@@ -2,8 +2,8 @@
 type: source
 title: "DraftKings Hacker Sentenced to 18 Months in Prison"
 source_type: news
-publisher: "SecurityWeek"
-author: "Staff"
+publisher: SecurityWeek
+author: Staff
 publish_date: 2024-02-01
 ingest_date: 2026-04-25
 language: en
@@ -19,8 +19,10 @@ collection_url: https://www.securityweek.com/draftkings-hacker-sentenced-to-18-m
 created: 2026-04-25
 duplicate_of: "[[2023-11-16_securityweek_draftkings-hacker-sentenced-to-18-months-in-prison]]"
 duplicate_reason: same_collection_url
-duplicate_key: "https://www.securityweek.com/draftkings-hacker-sentenced-to-18-months-in-prison/"
+duplicate_key: https://www.securityweek.com/draftkings-hacker-sentenced-to-18-months-in-prison/
 duplicate_normalized_at: 2026-04-26
+raw_path: raw/news/2024-02-01_securityweek_draftkings-hacker-sentenced-18-months-prison.md
+copyright_policy: summary-only
 ---
 ## Source Summary
 

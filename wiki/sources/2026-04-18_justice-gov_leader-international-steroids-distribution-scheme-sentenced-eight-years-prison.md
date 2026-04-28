@@ -13,8 +13,6 @@ credibility: confirmed
 sensitivity: public
 pages_updated:
 
-key_findings:
-  - "Secure .gov websites use HTTPS A lock ( Lock Locked padlock ) or https:// means you’ve safely connected to the .gov website. Share sensitive information only on official, secure websites."
 collection_url: https://www.justice.gov/usao-sdca/pr/leader-international-steroids-distribution-scheme-sentenced-eight-years-prison
 created: 2026-04-18
 defendant_names:
@@ -22,8 +20,13 @@ defendant_names:
 updated: 2026-04-18
 duplicate_of: "[[2023-08-21_justice-gov_leader-of-international-steroids-distribution-scheme-sentenced-to-eight-years-in]]"
 duplicate_reason: same_collection_url
-duplicate_key: "https://www.justice.gov/usao-sdca/pr/leader-international-steroids-distribution-scheme-sentenced-eight-years-prison"
+duplicate_key: https://www.justice.gov/usao-sdca/pr/leader-international-steroids-distribution-scheme-sentenced-eight-years-prison
 duplicate_normalized_at: 2026-04-26
+text_status: source-digest
+storage_mode: source-digest
+content_hash: sha256:9eb2a82d4f2d83031cab45add8cf9a874dd2cb6010684926465464e77ddbcf9e
+word_count: 123
+extraction_date: 2026-04-28
 ---
 ## Source Summary
 

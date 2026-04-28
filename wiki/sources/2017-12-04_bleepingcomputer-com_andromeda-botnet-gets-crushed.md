@@ -17,6 +17,7 @@ key_findings:
   - "The Andromeda/Gamarue takedown combined Europol and FBI coordination, German and Belarusian enforcement action, and Microsoft-backed sinkhole support to disrupt a long-running malware ecosystem in late 2017."
 collection_url: https://www.bleepingcomputer.com/news/security/andromeda-botnet-gets-crushed-in-eu-us-law-enforcement-operation/
 created: 2026-04-17
+copyright_policy: summary-only
 ---
 ## Source Summary
 

@@ -13,8 +13,6 @@ credibility: confirmed
 sensitivity: public
 pages_updated:
   - operation-onymous
-key_findings:
-  - "Secure .gov websites use HTTPS A lock ( Lock Locked padlock ) or https:// means you’ve safely connected to the .gov website. Share sensitive information only on official, secure websites."
 collection_url: https://www.justice.gov/usao-wdmi/pr/2017_0309_Paiva
 created: 2026-04-17
 defendant_names:
@@ -22,8 +20,13 @@ defendant_names:
 updated: 2026-04-18
 duplicate_of: "[[2017-03-09_justice-gov_norton-shores-dark-web-drug-dealer-sentenced-to-30-months-in-prison]]"
 duplicate_reason: same_collection_url
-duplicate_key: "https://www.justice.gov/usao-wdmi/pr/2017_0309_Paiva"
+duplicate_key: https://www.justice.gov/usao-wdmi/pr/2017_0309_Paiva
 duplicate_normalized_at: 2026-04-26
+text_status: source-digest
+storage_mode: source-digest
+content_hash: sha256:55de84a34150e2cc00f83487200d431cb8b94666cdb0630163f96dec42d4c56e
+word_count: 214
+extraction_date: 2026-04-28
 ---
 ## Source Summary
 

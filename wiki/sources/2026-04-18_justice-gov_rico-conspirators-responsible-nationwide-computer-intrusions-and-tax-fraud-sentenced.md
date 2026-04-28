@@ -13,8 +13,6 @@ credibility: confirmed
 sensitivity: public
 pages_updated:
 
-key_findings:
-  - "Secure .gov websites use HTTPS A lock ( Lock Locked padlock ) or https:// means you’ve safely connected to the .gov website. Share sensitive information only on official, secure websites."
 collection_url: https://www.justice.gov/usao-mdfl/pr/rico-conspirators-responsible-nationwide-computer-intrusions-and-tax-fraud-sentenced
 created: 2026-04-18
 updated: 2026-04-18
@@ -23,8 +21,13 @@ defendant_names:
   - "Intrusions And Tax Fraud"
 duplicate_of: "[[2023-12-19_justice-gov_rico-conspirators-responsible-for-nationwide-computer-intrusions-and-tax-fraud-s]]"
 duplicate_reason: same_collection_url
-duplicate_key: "https://www.justice.gov/usao-mdfl/pr/rico-conspirators-responsible-nationwide-computer-intrusions-and-tax-fraud-sentenced"
+duplicate_key: https://www.justice.gov/usao-mdfl/pr/rico-conspirators-responsible-nationwide-computer-intrusions-and-tax-fraud-sentenced
 duplicate_normalized_at: 2026-04-26
+text_status: source-digest
+storage_mode: source-digest
+content_hash: sha256:ab18d03d409313ec0385baacee2f3061e4186cb4417e817613e72798e66c7fc5
+word_count: 119
+extraction_date: 2026-04-28
 ---
 ## Source Summary
 

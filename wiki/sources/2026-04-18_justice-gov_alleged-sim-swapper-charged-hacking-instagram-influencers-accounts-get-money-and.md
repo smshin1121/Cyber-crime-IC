@@ -22,8 +22,13 @@ defendant_names:
 updated: 2026-04-18
 duplicate_of: "[[2023-02-23_justice-gov_alleged-sim-swapper-charged-with-hacking-into-instagram-influencers-accounts-to]]"
 duplicate_reason: same_collection_url
-duplicate_key: "https://www.justice.gov/usao-cdca/pr/alleged-sim-swapper-charged-hacking-instagram-influencers-accounts-get-money-and"
+duplicate_key: https://www.justice.gov/usao-cdca/pr/alleged-sim-swapper-charged-hacking-instagram-influencers-accounts-get-money-and
 duplicate_normalized_at: 2026-04-26
+text_status: source-digest
+storage_mode: source-digest
+content_hash: sha256:3ea91330c545d60364881935439e2cb609914665d217b3ea187a8e9d68e2da50
+word_count: 132
+extraction_date: 2026-04-28
 ---
 ## Source Summary
 

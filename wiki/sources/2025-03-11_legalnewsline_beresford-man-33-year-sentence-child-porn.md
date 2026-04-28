@@ -3,7 +3,7 @@ type: source
 title: "Beresford man receives over 33-year sentence for child pornography offenses"
 source_type: news
 publisher: "Legal Newsline"
-author: "Staff"
+author: Staff
 publish_date: 2025-03-11
 ingest_date: 2026-04-25
 language: en
@@ -16,6 +16,8 @@ key_findings:
   - "Independent legal-trade press confirmation of the Australia-to-HSI referral and dark-web distribution facts."
 collection_url: https://legalnewsline.com/stories/670456424-beresford-man-receives-over-33-year-sentence-for-child-pornography-offenses
 created: 2026-04-25
+raw_path: raw/news/2025-03-11_legalnewsline_beresford-man-33-year-sentence-child-porn.md
+copyright_policy: summary-only
 ---
 ## Source Summary
 

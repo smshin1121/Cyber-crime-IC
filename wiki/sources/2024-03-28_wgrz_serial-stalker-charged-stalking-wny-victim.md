@@ -3,7 +3,7 @@ type: source
 title: "Serial stalker charged with stalking WNY victim"
 source_type: news
 publisher: "WGRZ (NBC Buffalo)"
-author: "Staff"
+author: Staff
 publish_date: 2024-03-28
 ingest_date: 2026-04-25
 language: en
@@ -18,6 +18,8 @@ key_findings:
   - "Documents California-to-WNY travel and items recovered at arrest."
 collection_url: https://www.wgrz.com/article/news/crime/serial-stalker-charged-with-stalking-wny-victim-again/71-d5cb8fa3-58ef-41ed-95bd-e213a69227b7
 created: 2026-04-25
+raw_path: raw/news/2024-03-28_wgrz_serial-stalker-charged-stalking-wny-victim.md
+copyright_policy: summary-only
 ---
 ## Source Summary
 

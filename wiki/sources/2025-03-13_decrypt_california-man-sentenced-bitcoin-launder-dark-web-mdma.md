@@ -2,8 +2,8 @@
 type: source
 title: "California Man Sentenced for Using Bitcoin To Launder Dark Web MDMA Profits"
 source_type: news
-publisher: "Decrypt"
-author: "Staff"
+publisher: Decrypt
+author: Staff
 publish_date: 2025-03-13
 ingest_date: 2026-04-25
 language: en
@@ -17,6 +17,8 @@ key_findings:
   - "Reaffirms Germany-to-US importation chain and Bitcoin-laundering modus operandi."
 collection_url: https://decrypt.co/309986/california-man-sentenced-for-using-bitcoin-to-launder-dark-web-mdma-profits
 created: 2026-04-25
+raw_path: raw/news/2025-03-13_decrypt_california-man-sentenced-bitcoin-launder-dark-web-mdma.md
+copyright_policy: summary-only
 ---
 ## Source Summary
 

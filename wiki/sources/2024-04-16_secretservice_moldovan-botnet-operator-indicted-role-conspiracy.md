@@ -17,6 +17,12 @@ key_findings:
   - "Direct fetch hit Akamai 403; URL verified via search-index reproduction."
 collection_url: https://www.secretservice.gov/newsroom/releases/2024/04/moldovan-botnet-operator-indicted-role-conspiracy-unlawfully-access
 created: 2026-04-25
+raw_path: raw/press-releases/2024-04-16_secretservice_moldovan-botnet-operator-indicted-role-conspiracy.md
+text_status: source-digest
+storage_mode: source-digest
+content_hash: sha256:87fd8e841ecfe59471827ff58dc70c7c5390bedfb458357e07d9fc35daf765d7
+word_count: 138
+extraction_date: 2026-04-28
 ---
 ## Source Summary
 

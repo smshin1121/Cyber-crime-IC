@@ -2,8 +2,8 @@
 type: source
 title: "Shocking Tragedy: Pierce County Residents Sentenced for Role in Aryan Gang Drug Trafficking Ring"
 source_type: news
-publisher: "thatmomentin"
-author: "Staff"
+publisher: thatmomentin
+author: Staff
 publish_date: 2025-02-01
 ingest_date: 2026-04-25
 language: en
@@ -16,6 +16,8 @@ key_findings:
   - "'1 million+ potentially lethal doses' impact framing"
 collection_url: https://thatmomentin.com/shocking-tragedy-pierce-county-residents-sentenced-for-role-in-aryan-gang-drug-trafficking-ring/
 created: 2026-04-25
+raw_path: raw/news/2025-02-01_thatmomentin_pierce-county-residents-sentenced-role-aryan-gang-drug-trafficking-ring.md
+copyright_policy: summary-only
 ---
 ## Source Summary
 

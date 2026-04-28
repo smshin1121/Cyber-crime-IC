@@ -3,7 +3,7 @@ type: source
 title: "2 Plead Guilty to Dark Web Cryptocurrency Money Laundering Scheme"
 source_type: news
 publisher: "Times of San Diego"
-author: "Staff"
+author: Staff
 publish_date: 2019-09-30
 ingest_date: 2026-04-25
 language: en
@@ -17,6 +17,8 @@ key_findings:
   - "Identifies BayCoins details"
 collection_url: https://timesofsandiego.com/crime/2019/09/30/2-plead-guilty-to-dark-web-cryptocurrency-money-laundering-scheme/
 created: 2026-04-25
+raw_path: raw/news/2019-09-30_timesofsandiego_2-plead-guilty-dark-web-cryptocurrency-money-laundering-scheme.md
+copyright_policy: summary-only
 ---
 ## Source Summary
 

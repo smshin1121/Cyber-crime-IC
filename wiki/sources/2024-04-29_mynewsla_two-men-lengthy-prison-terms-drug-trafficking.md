@@ -2,8 +2,8 @@
 type: source
 title: "Two Men Get Lengthy Prison Terms for Drug Trafficking"
 source_type: news
-publisher: "MyNewsLA"
-author: "Staff"
+publisher: MyNewsLA
+author: Staff
 publish_date: 2024-04-29
 ingest_date: 2026-04-25
 language: en
@@ -18,6 +18,8 @@ key_findings:
   - "Srinivasan sentenced to 19 years 7 months"
 collection_url: https://mynewsla.com/crime/2024/04/29/two-men-get-lengthy-prison-terms-for-drug-trafficking/
 created: 2026-04-25
+raw_path: raw/news/2024-04-29_mynewsla_two-men-lengthy-prison-terms-drug-trafficking.md
+copyright_policy: summary-only
 ---
 ## Source Summary
 

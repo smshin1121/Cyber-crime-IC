@@ -13,15 +13,18 @@ credibility: confirmed
 sensitivity: public
 pages_updated:
 
-key_findings:
-  - "Secure .gov websites use HTTPS A lock ( Lock Locked padlock ) or https:// means you’ve safely connected to the .gov website. Share sensitive information only on official, secure websites."
 collection_url: https://www.justice.gov/usao-wdwa/pr/seattle-man-who-trafficked-drugs-and-fired-gun-international-district-drive-sentenced
 created: 2026-04-18
 updated: 2026-04-18
 duplicate_of: "[[2025-03-10_justice-gov_seattle-man-who-trafficked-drugs-and-fired-gun-in-international-district-drive-b]]"
 duplicate_reason: same_collection_url
-duplicate_key: "https://www.justice.gov/usao-wdwa/pr/seattle-man-who-trafficked-drugs-and-fired-gun-international-district-drive-sentenced"
+duplicate_key: https://www.justice.gov/usao-wdwa/pr/seattle-man-who-trafficked-drugs-and-fired-gun-international-district-drive-sentenced
 duplicate_normalized_at: 2026-04-26
+text_status: source-digest
+storage_mode: source-digest
+content_hash: sha256:fad06f27796e0b9de5a52f65f8c9a150ffe03b34906633fb7dc71879c2b955d1
+word_count: 120
+extraction_date: 2026-04-28
 ---
 ## Source Summary
 

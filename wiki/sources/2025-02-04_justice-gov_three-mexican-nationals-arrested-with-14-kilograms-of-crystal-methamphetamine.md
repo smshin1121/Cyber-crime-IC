@@ -14,7 +14,7 @@ sensitivity: public
 pages_updated:
   - operation-three-mexican-nationals-arrested-with-14-kilograms-of-crystal-methamphetamine
 key_findings:
-  - "This domestic-only U.S. follow-on record has been absorbed into the canonical case page [[three-mexican-nationals-arrested-with-14-kilograms-of-crystal-methamphetamine]]. No visible cross-border mechanism is documented, so it is not treated as a separate international-cooperation operation."
+  - "This domestic-only U.S. follow-on record has been absorbed into the canonical case page three-mexican-nationals-arrested-with-14-kilograms-of-crystal-methamphetamine. No visible cross-border mechanism is documented, so it is not treated as a separate international-cooperation operation."
 collection_url: https://www.justice.gov/usao-wdwa/pr/three-mexican-nationals-arrested-14-kilograms-crystal-methamphetamine
 created: 2026-04-17
 text_status: parsed

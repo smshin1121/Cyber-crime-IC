@@ -20,8 +20,14 @@ collection_url: https://www.dea.gov/press-releases/2025/06/26/lone-american-livi
 created: 2026-04-25
 duplicate_of: "[[2025-06-26_dea-gov_lone-american-tukwila-indicted-international-drug-trafficking-sentenced-five-years]]"
 duplicate_reason: same_collection_url
-duplicate_key: "https://www.dea.gov/press-releases/2025/06/26/lone-american-living-tukwila-indicted-international-drug-trafficking"
+duplicate_key: https://www.dea.gov/press-releases/2025/06/26/lone-american-living-tukwila-indicted-international-drug-trafficking
 duplicate_normalized_at: 2026-04-26
+raw_path: raw/press-releases/2025-06-26_dea_lone-american-living-tukwila-indicted-international-drug-trafficking.md
+text_status: source-digest
+storage_mode: source-digest
+content_hash: sha256:5f74b9578ae3e202d85adc4b77337140f61eab0802acc8b8e947aa54bb431415
+word_count: 154
+extraction_date: 2026-04-28
 ---
 ## Source Summary
 

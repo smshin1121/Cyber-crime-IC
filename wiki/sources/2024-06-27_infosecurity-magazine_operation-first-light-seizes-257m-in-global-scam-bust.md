@@ -3,7 +3,7 @@ type: source
 title: "Operation First Light Seizes $257m in Global Scam Bust"
 raw_path: raw/news/2024-06-27_infosecurity-magazine_operation-first-light-seizes-257m-in-global-scam-bust.md
 source_type: news
-publisher: Infosecurity Magazine
+publisher: "Infosecurity Magazine"
 author: ""
 publish_date: 2024-06-27
 ingest_date: 2026-04-25
@@ -19,6 +19,7 @@ key_findings:
   - "China's Ministry of Public Security funded; concluding meeting Tianjin."
 collection_url: https://www.infosecurity-magazine.com/news/operation-first-light-seizes/
 created: 2026-04-25
+copyright_policy: summary-only
 ---
 ## Source Summary
 

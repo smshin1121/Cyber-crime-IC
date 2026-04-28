@@ -1,9 +1,9 @@
 ---
 type: source
 title: "Eurojust's cross-border investigations in 2025 continued to fight organised crime"
-raw_path: ""
+raw_path: raw/government-reports/2025-12-22_eurojusts-cross-border-investigations-2025_credit-card-fraud-roundup.md
 source_type: report
-publisher: "Eurojust"
+publisher: Eurojust
 author: ""
 publish_date: 2025-12-22
 ingest_date: 2026-04-23
@@ -18,6 +18,11 @@ key_findings:
   - "Eurojust's year-end roundup recapped the EUR 300 million global credit card fraud action."
   - "The recap highlighted the multinational coordination and 18 arrests."
 created: 2026-04-23
+text_status: source-digest
+storage_mode: source-digest
+content_hash: sha256:8d1ca9793aee2a4aea94eca099d22e80c1b3238c41e92042dadcc960ba32dd95
+word_count: 132
+extraction_date: 2026-04-28
 ---
 ## Source Summary
 

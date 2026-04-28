@@ -14,7 +14,7 @@ sensitivity: public
 pages_updated:
   - operation-san-antonio-man-sentenced-for-january-2018-threats-made-against-players-and-fans-at-nfl-playoff-game-at-heinz-
 key_findings:
-  - "This domestic-only U.S. follow-on record has been absorbed into the canonical case page [[san-antonio-man-sentenced-for-january-2018-threats-made-against-players-and-fans-at-nfl-playoff-game-at-heinz-]]. No visible cross-border mechanism is documented, so it is not treated as a separate international-cooperation operation."
+  - "This domestic-only U.S. follow-on record has been absorbed into the canonical case page san-antonio-man-sentenced-for-january-2018-threats-made-against-players-and-fans-at-nfl-playoff-game-at-heinz-. No visible cross-border mechanism is documented, so it is not treated as a separate international-cooperation operation."
 collection_url: https://www.justice.gov/usao-wdpa/pr/san-antonio-man-sentenced-january-2018-threats-made-against-players-and-fans-nfl
 created: 2026-04-17
 text_status: parsed

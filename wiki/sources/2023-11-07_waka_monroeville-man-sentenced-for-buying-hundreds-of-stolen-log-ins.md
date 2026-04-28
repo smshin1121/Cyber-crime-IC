@@ -3,7 +3,7 @@ type: source
 title: "Monroeville man sentenced for buying hundreds of stolen log-ins"
 source_type: news
 publisher: "WAKA 8 (Montgomery, Alabama)"
-author: "Staff"
+author: Staff
 publish_date: 2023-11-07
 ingest_date: 2026-04-25
 language: en
@@ -19,6 +19,8 @@ key_findings:
   - "Confirms link to Operation Cookie Monster international takedown"
 collection_url: https://www.waka.com/2023/11/07/monroeville-man-sentenced-for-buying-hundreds-of-stolen-log-ins/
 created: 2026-04-25
+raw_path: raw/news/2023-11-07_waka_monroeville-man-sentenced-for-buying-hundreds-of-stolen-log-ins.md
+copyright_policy: summary-only
 ---
 ## Source Summary
 

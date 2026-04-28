@@ -14,13 +14,18 @@ sensitivity: public
 pages_updated:
   - operation-nigerian-nationals-charged-with-operating-business-compromise-scheme
 key_findings:
-  - "This domestic-only U.S. follow-on record has been absorbed into the canonical case page [[nigerian-nationals-charged-with-operating-business-compromise-scheme]]. No visible cross-border mechanism is documented, so it is not treated as a separate international-cooperation operation."
+  - "This domestic-only U.S. follow-on record has been absorbed into the canonical case page nigerian-nationals-charged-with-operating-business-compromise-scheme. No visible cross-border mechanism is documented, so it is not treated as a separate international-cooperation operation."
 collection_url: https://www.justice.gov/usao-ct/pr/nigerian-nationals-charged-operating-business-compromise-scheme
 created: 2026-04-17
 duplicate_of: "[[2016-12-20_dct_odufuye-nwoke-bec-indictment]]"
 duplicate_reason: same_collection_url
-duplicate_key: "https://www.justice.gov/usao-ct/pr/nigerian-nationals-charged-operating-business-compromise-scheme"
+duplicate_key: https://www.justice.gov/usao-ct/pr/nigerian-nationals-charged-operating-business-compromise-scheme
 duplicate_normalized_at: 2026-04-26
+text_status: source-digest
+storage_mode: source-digest
+content_hash: sha256:f7f1730564bcee99d072d932ccc02cebb51aa146854c08f93f3f43f9834dc87e
+word_count: 155
+extraction_date: 2026-04-28
 ---
 ## Source Summary
 

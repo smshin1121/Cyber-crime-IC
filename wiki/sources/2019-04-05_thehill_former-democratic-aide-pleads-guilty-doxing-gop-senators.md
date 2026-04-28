@@ -3,7 +3,7 @@ type: source
 title: "Former Democratic aide pleads guilty to doxing GOP senators attending Kavanaugh hearing"
 source_type: news
 publisher: "The Hill"
-author: "Staff"
+author: Staff
 publish_date: 2019-04-05
 ingest_date: 2026-04-25
 language: en
@@ -16,6 +16,8 @@ key_findings:
   - "DC political press confirmation of plea."
 collection_url: https://thehill.com/homenews/senate/437690-former-democratic-aide-pleads-guilty-to-doxing-gop-senators-attending/
 created: 2026-04-25
+raw_path: raw/news/2019-04-05_thehill_former-democratic-aide-pleads-guilty-doxing-gop-senators.md
+copyright_policy: summary-only
 ---
 ## Source Summary
 

@@ -13,15 +13,18 @@ credibility: confirmed
 sensitivity: public
 pages_updated:
 
-key_findings:
-  - "Secure .gov websites use HTTPS A lock ( Lock Locked padlock ) or https:// means you’ve safely connected to the .gov website. Share sensitive information only on official, secure websites."
 collection_url: https://www.justice.gov/usao-sdoh/pr/six-defendants-charged-selling-millions-dollars-worth-psychedelic-mushrooms-online
 created: 2026-04-18
 updated: 2026-04-18
 duplicate_of: "[[2021-05-19_justice-gov_six-defendants-charged-with-selling-millions-of-dollars-worth-of-psychedelic-mus]]"
 duplicate_reason: same_collection_url
-duplicate_key: "https://www.justice.gov/usao-sdoh/pr/six-defendants-charged-selling-millions-dollars-worth-psychedelic-mushrooms-online"
+duplicate_key: https://www.justice.gov/usao-sdoh/pr/six-defendants-charged-selling-millions-dollars-worth-psychedelic-mushrooms-online
 duplicate_normalized_at: 2026-04-26
+text_status: source-digest
+storage_mode: source-digest
+content_hash: sha256:30b3d1eadfec3bfc8cbacf4109ea5b758e00b77fef23ac756d6f1ee8e6b9d0a0
+word_count: 108
+extraction_date: 2026-04-28
 ---
 ## Source Summary
 

@@ -13,8 +13,6 @@ credibility: confirmed
 sensitivity: public
 pages_updated:
 
-key_findings:
-  - "Secure .gov websites use HTTPS A lock ( Lock Locked padlock ) or https:// means you’ve safely connected to the .gov website. Share sensitive information only on official, secure websites."
 collection_url: https://www.justice.gov/usao-edpa/pr/chester-county-doctor-pleads-guilty-operating-pill-mill-out-main-line-pain-clinic
 created: 2026-04-18
 defendant_names:
@@ -22,8 +20,13 @@ defendant_names:
 updated: 2026-04-18
 duplicate_of: "[[2022-02-03_justice-gov_chester-county-doctor-pleads-guilty-to-operating-pill-mill-out-of-main-line-pain]]"
 duplicate_reason: same_collection_url
-duplicate_key: "https://www.justice.gov/usao-edpa/pr/chester-county-doctor-pleads-guilty-operating-pill-mill-out-main-line-pain-clinic"
+duplicate_key: https://www.justice.gov/usao-edpa/pr/chester-county-doctor-pleads-guilty-operating-pill-mill-out-main-line-pain-clinic
 duplicate_normalized_at: 2026-04-26
+text_status: source-digest
+storage_mode: source-digest
+content_hash: sha256:6dcfe7cefd26d9533c6adf066206653f5e85ad3df61b1c8ed2c6eb4de16d3e8a
+word_count: 112
+extraction_date: 2026-04-28
 ---
 ## Source Summary
 

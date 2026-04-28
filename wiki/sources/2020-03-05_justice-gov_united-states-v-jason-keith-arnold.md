@@ -13,8 +13,6 @@ credibility: confirmed
 sensitivity: public
 pages_updated:
 
-key_findings:
-  - "Secure .gov websites use HTTPS A lock ( Lock Locked padlock ) or https:// means you’ve safely connected to the .gov website. Share sensitive information only on official, secure websites."
 collection_url: https://www.justice.gov/usao-edca/pr/tattoo-shop-owner-pleads-guilty-distributing-heroin-and-methamphetamine-darknet
 created: 2026-04-17
 defendant_names:
@@ -23,8 +21,13 @@ defendant_names:
 updated: 2026-04-18
 duplicate_of: "[[2020-03-05_edca_jason-arnold-darknet-plea]]"
 duplicate_reason: same_collection_url
-duplicate_key: "https://www.justice.gov/usao-edca/pr/tattoo-shop-owner-pleads-guilty-distributing-heroin-and-methamphetamine-darknet"
+duplicate_key: https://www.justice.gov/usao-edca/pr/tattoo-shop-owner-pleads-guilty-distributing-heroin-and-methamphetamine-darknet
 duplicate_normalized_at: 2026-04-26
+text_status: source-digest
+storage_mode: source-digest
+content_hash: sha256:d2a026b1f3cdc490496eaeb43e1bc326eaef4b39fb038048b883dd276bef8eee
+word_count: 145
+extraction_date: 2026-04-28
 ---
 ## Source Summary
 

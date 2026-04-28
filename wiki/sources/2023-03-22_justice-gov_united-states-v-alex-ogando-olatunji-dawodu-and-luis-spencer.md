@@ -13,8 +13,6 @@ credibility: confirmed
 sensitivity: public
 pages_updated:
 
-key_findings:
-  - "Secure .gov websites use HTTPS A lock ( Lock Locked padlock ) or https:// means you’ve safely connected to the .gov website. Share sensitive information only on official, secure websites."
 collection_url: https://www.justice.gov/usao-dc/pr/three-individuals-sentenced-darknet-narcotics-trafficking-conspiracy-involving
 created: 2026-04-17
 updated: 2026-04-18
@@ -22,8 +20,13 @@ defendant_names:
   - "Three Individuals"
 duplicate_of: "[[2023-03-22_ddc_ogando-dawodu-spencer-darknet-sentencing]]"
 duplicate_reason: same_collection_url
-duplicate_key: "https://www.justice.gov/usao-dc/pr/three-individuals-sentenced-darknet-narcotics-trafficking-conspiracy-involving"
+duplicate_key: https://www.justice.gov/usao-dc/pr/three-individuals-sentenced-darknet-narcotics-trafficking-conspiracy-involving
 duplicate_normalized_at: 2026-04-26
+text_status: source-digest
+storage_mode: source-digest
+content_hash: sha256:57e420e8a202b415282a3cf4332be499b922ff61f288e4c28efc95ac581c8d3e
+word_count: 147
+extraction_date: 2026-04-28
 ---
 ## Source Summary
 

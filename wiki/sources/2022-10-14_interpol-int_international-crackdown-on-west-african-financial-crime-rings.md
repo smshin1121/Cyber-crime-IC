@@ -14,7 +14,7 @@ sensitivity: public
 pages_updated:
   - black-axe-bec-2021
 key_findings:
-  - 'This page now uses the official [[interpol|INTERPOL]] record for Operation Jackal instead of an unattributed claim about "33 arrests." That older wording was too weakly sourced for a high-integrity wiki. The official source supports a broader but more reliable description: "a multinational action targeting Black Axe and related West African organized crime groups involved in cyber-enabled financial fraud, including [[bec-ic|business email compromise]] and related laundering activity."'
+  - "This page now uses the official INTERPOL record for Operation Jackal instead of an unattributed claim about \"33 arrests.\" That older wording was too weakly sourced for a high-integrity wiki. The official source supports a broader but more reliable description: \"a multinational action targeting Black Axe and related West African organized crime groups involved in cyber-enabled financial fraud, including business email compromise and related laundering activity.\""
 collection_url: https://www.interpol.int/News-and-Events/News/2022/International-crackdown-on-West-African-financial-crime-rings
 created: 2026-04-17
 text_status: parsed

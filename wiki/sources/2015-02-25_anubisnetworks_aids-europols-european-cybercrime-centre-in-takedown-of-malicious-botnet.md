@@ -12,11 +12,12 @@ reliability: medium
 credibility: reported
 sensitivity: public
 pages_updated:
-  []
+
 key_findings:
   - "AnubisNetworks confirmed its participation in the Ramnit takedown and restated the main disruption mechanics and infection scale."
 collection_url: https://www.anubisnetworks.com/news/community/news/anubisnetworks-aids-europols-european-cybercrime-centre-in-takedown-of-malicious-botnet
 created: 2026-04-23
+copyright_policy: summary-only
 ---
 ## Source Summary
 

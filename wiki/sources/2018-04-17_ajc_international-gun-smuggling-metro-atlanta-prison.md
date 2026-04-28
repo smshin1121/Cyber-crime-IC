@@ -3,7 +3,7 @@ type: source
 title: "International gun-smuggling operation puts Metro Atlanta men in prison"
 source_type: news
 publisher: "Atlanta Journal-Constitution"
-author: "Staff"
+author: Staff
 publish_date: 2018-04-17
 ingest_date: 2026-04-25
 language: en
@@ -17,6 +17,8 @@ key_findings:
   - "Documents firearms exports to more than 10 countries via Black Market Reloaded."
 collection_url: https://www.ajc.com/news/local/metro-atlantans-sentenced-for-running-international-online-gun-ring/JLvJonuVDbJLTjxbfKLrXO/
 created: 2026-04-25
+raw_path: raw/news/2018-04-17_ajc_international-gun-smuggling-metro-atlanta-prison.md
+copyright_policy: summary-only
 ---
 ## Source Summary
 

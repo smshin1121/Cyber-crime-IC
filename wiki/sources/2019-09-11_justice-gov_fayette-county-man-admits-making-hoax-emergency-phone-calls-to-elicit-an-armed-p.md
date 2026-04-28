@@ -14,7 +14,7 @@ sensitivity: public
 pages_updated:
   - operation-fayette-county-man-admits-making-hoax-emergency-phone-calls-to-elicit-an-armed-police-response-practice-is-kno
 key_findings:
-  - "This domestic-only U.S. follow-on record has been absorbed into the canonical case page [[fayette-county-man-admits-making-hoax-emergency-phone-calls-to-elicit-an-armed-police-response-practice-is-kno]]. No visible cross-border mechanism is documented, so it is not treated as a separate international-cooperation operation."
+  - "This domestic-only U.S. follow-on record has been absorbed into the canonical case page fayette-county-man-admits-making-hoax-emergency-phone-calls-to-elicit-an-armed-police-response-practice-is-kno. No visible cross-border mechanism is documented, so it is not treated as a separate international-cooperation operation."
 collection_url: https://www.justice.gov/usao-wdpa/pr/fayette-county-man-admits-making-hoax-emergency-phone-calls-elicit-armed-police
 created: 2026-04-17
 text_status: parsed

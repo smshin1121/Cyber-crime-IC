@@ -16,6 +16,8 @@ key_findings:
   - "Diaspora press coverage from defendant's country of origin (Haiti)"
 collection_url: http://haitianbusiness.com/haitian-man-maxito-pean-indicted-in-saratoga-over-233000-via-an-email-scam
 created: 2026-04-25
+raw_path: raw/news/2014-12-05_haitianbusiness_haitian-man-maxito-pean-indicted-saratoga-233000-email-scam.md
+copyright_policy: summary-only
 ---
 ## Source Summary
 

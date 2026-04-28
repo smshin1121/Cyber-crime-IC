@@ -16,6 +16,8 @@ key_findings:
   - "UK-based tech-press independent confirmation"
 collection_url: https://www.itpro.com/security/cyber-crime/356898/ex-cisco-engineer-charged-with-wiping-16000-internal-webex-teams
 created: 2026-04-25
+raw_path: raw/news/2020-08-27_itpro_ex-cisco-engineer-charged-with-wiping-webex-teams-accounts.md
+copyright_policy: summary-only
 ---
 ## Source Summary
 

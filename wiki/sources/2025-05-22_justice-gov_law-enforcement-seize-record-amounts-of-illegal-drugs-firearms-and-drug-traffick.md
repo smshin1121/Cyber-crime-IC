@@ -14,7 +14,7 @@ sensitivity: public
 pages_updated:
   - operation-law-enforcement-seize-record-amounts-of-illegal-drugs-firearms-and-drug-trafficking-proceeds-in-international-
 key_findings:
-  - "This domestic-only U.S. follow-on record has been absorbed into the canonical case page [[law-enforcement-seize-record-amounts-of-illegal-drugs-firearms-and-drug-trafficking-proceeds-in-international-]]. No visible cross-border mechanism is documented, so it is not treated as a separate international-cooperation operation."
+  - "This domestic-only U.S. follow-on record has been absorbed into the canonical case page law-enforcement-seize-record-amounts-of-illegal-drugs-firearms-and-drug-trafficking-proceeds-in-international-. No visible cross-border mechanism is documented, so it is not treated as a separate international-cooperation operation."
 collection_url: https://www.justice.gov/opa/pr/law-enforcement-seize-record-amounts-illegal-drugs-firearms-and-drug-trafficking-proceeds
 created: 2026-04-17
 text_status: parsed

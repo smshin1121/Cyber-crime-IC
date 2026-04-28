@@ -3,7 +3,7 @@ type: source
 title: "Texas man pleads guilty to romance scam that swindled Missouri woman of $1.2M"
 raw_path: raw/news/2022-12-20_foxnews_texas-man-pleads-guilty-romance-scam-swindled-missouri-woman-1-2m.md
 source_type: news
-publisher: Fox News
+publisher: "Fox News"
 author: ""
 publish_date: 2022-12-20
 ingest_date: 2026-04-25
@@ -19,6 +19,7 @@ key_findings:
   - "Co-defendant Olumide Akinrinmade pleaded not guilty; cross-state scheme involving Atlanta arrest."
 collection_url: https://www.foxnews.com/us/texas-man-pleads-guilty-romance-scam-swindled-missouri-woman-1-2m
 created: 2026-04-25
+copyright_policy: summary-only
 ---
 ## Source Summary
 

@@ -1,22 +1,22 @@
 ---
 type: source
 title: "Europol: 20 Arrests in QQAAZZ Multi-Million Money Laundering Case"
-collection_url: "https://www.europol.europa.eu/media-press/newsroom/news/20-arrests-in-qqaazz-multi-million-money-laundering-case"
-collection_domain: "europol.europa.eu"
-source_type: "press-release"
-publisher: "Europol"
+collection_url: https://www.europol.europa.eu/media-press/newsroom/news/20-arrests-in-qqaazz-multi-million-money-laundering-case
+collection_domain: europol.europa.eu
+source_type: press-release
+publisher: Europol
 author: ""
-publish_date: "2020-10-15"
-ingest_date: "2026-04-08"
-enriched_date: "2026-04-10"
-language: "en"
-reliability: "high"
-credibility: "confirmed"
-sensitivity: "public"
+publish_date: 2020-10-15
+ingest_date: 2026-04-08
+enriched_date: 2026-04-10
+language: en
+reliability: high
+credibility: confirmed
+sensitivity: public
 source_tier: 2
 pages_updated:
-  - "2bagoldmule-qqaazz"
-  - "qqaazz-money-laundering-takedown"
+  - 2bagoldmule-qqaazz
+  - qqaazz-money-laundering-takedown
 key_findings:
   - "Europol announced on 15 October 2020 the results of Operation 2BaGoldMule — coordinated arrests of 20 suspected QQAAZZ money-laundering network members across Latvia, Bulgaria, the UK, Spain and Italy, with additional searches in ~40 locations across multiple countries"
   - "QQAAZZ operated since 2016 as a specialized money-laundering-as-a-service offering for cybercrime affiliates including Dridex, Trickbot, and GozNym operators; the network laundered 'tens of millions of euros' according to Europol"
@@ -28,10 +28,15 @@ created: 2026-04-08
 updated: 2026-04-10
 duplicate_of: "[[2020-10-01_europol-europa-eu_20-arrests-in-qqaazz-multi-million-money-laundering-case]]"
 duplicate_reason: same_collection_url
-duplicate_key: "https://www.europol.europa.eu/media-press/newsroom/news/20-arrests-in-qqaazz-multi-million-money-laundering-case"
+duplicate_key: https://www.europol.europa.eu/media-press/newsroom/news/20-arrests-in-qqaazz-multi-million-money-laundering-case
 duplicate_normalized_at: 2026-04-26
+raw_path: raw/press-releases/europol-2bagoldmule-qqaazz-takedown.md
+text_status: source-digest
+storage_mode: source-digest
+content_hash: sha256:7144b6b29313c9f0c9d324f0c5e69dc58c04453f1380f171e5dc4335d6bde421
+word_count: 360
+extraction_date: 2026-04-28
 ---
-
 ## Source
 
 - **Publisher**: Europol (European Cybercrime Centre / EC3)

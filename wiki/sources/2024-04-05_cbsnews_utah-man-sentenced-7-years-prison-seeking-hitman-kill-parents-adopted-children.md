@@ -3,7 +3,7 @@ type: source
 title: "Utah man sentenced to 7 years in prison for seeking hitman to kill parents of children he adopted"
 source_type: news
 publisher: "CBS News"
-author: "Staff"
+author: Staff
 publish_date: 2024-04-05
 ingest_date: 2026-04-25
 language: en
@@ -18,6 +18,8 @@ key_findings:
   - "National network coverage of Pence sentencing"
 collection_url: https://www.cbsnews.com/amp/news/christopher-pence-utah-man-prison-hiring-hitman-kill-parents-adopted-children/
 created: 2026-04-25
+raw_path: raw/news/2024-04-05_cbsnews_utah-man-sentenced-7-years-prison-seeking-hitman-kill-parents-adopted-children.md
+copyright_policy: summary-only
 ---
 ## Source Summary
 

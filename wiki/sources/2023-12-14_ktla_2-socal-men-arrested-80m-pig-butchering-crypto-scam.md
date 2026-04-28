@@ -2,8 +2,8 @@
 type: source
 title: "2 SoCal men arrested in $80M 'pig butchering' cryptocurrency scam"
 source_type: news
-publisher: "KTLA"
-author: "Staff"
+publisher: KTLA
+author: Staff
 publish_date: 2023-12-14
 ingest_date: 2026-04-25
 language: en
@@ -16,6 +16,8 @@ key_findings:
   - "Zhang of Alhambra and Walker of Cypress, CA arrested"
 collection_url: https://ktla.com/news/local-news/2-socal-men-arrested-in-80m-pig-butchering-cryptocurrency-scam/
 created: 2026-04-25
+raw_path: raw/news/2023-12-14_ktla_2-socal-men-arrested-80m-pig-butchering-crypto-scam.md
+copyright_policy: summary-only
 ---
 ## Source Summary
 

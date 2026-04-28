@@ -17,6 +17,8 @@ key_findings:
   - "Phobos affiliate ransom payments routed to Ptitsyn-controlled wallets December 2021 - April 2024"
 collection_url: https://therecord.media/russian-national-in-custody-extradited
 created: 2026-04-25
+raw_path: raw/news/2024-11-18_therecord_russian-national-in-custody-extradited.md
+copyright_policy: summary-only
 ---
 ## Source Summary
 

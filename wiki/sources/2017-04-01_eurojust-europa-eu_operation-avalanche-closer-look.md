@@ -23,8 +23,14 @@ key_findings:
 created: 2026-04-18
 duplicate_of: "[[2017-04-01_eurojust-europa-eu_operation-avalanche-a-closer-look]]"
 duplicate_reason: same_collection_url
-duplicate_key: "https://www.eurojust.europa.eu/publication/operation-avalanche-closer-look"
+duplicate_key: https://www.eurojust.europa.eu/publication/operation-avalanche-closer-look
 duplicate_normalized_at: 2026-04-26
+raw_path: raw/government-reports/2017-04-01_eurojust-europa-eu_operation-avalanche-closer-look.md
+text_status: source-digest
+storage_mode: source-digest
+content_hash: sha256:35fd5a297fe3e623be2b1dd2f9e6748786c76f7e2b5a092473a771aff84850cb
+word_count: 230
+extraction_date: 2026-04-28
 ---
 ## Source Summary
 

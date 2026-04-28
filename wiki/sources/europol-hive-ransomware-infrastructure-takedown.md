@@ -1,26 +1,26 @@
 ---
 type: source
 title: "Europol: Cybercriminals Stung as Hive Infrastructure Shut Down"
-collection_url: "https://www.europol.europa.eu/media-press/newsroom/news/cybercriminals-stung-hive-infrastructure-shut-down"
-collection_domain: "europol.europa.eu"
-source_type: "press-release"
-publisher: "Europol"
+collection_url: https://www.europol.europa.eu/media-press/newsroom/news/cybercriminals-stung-hive-infrastructure-shut-down
+collection_domain: europol.europa.eu
+source_type: press-release
+publisher: Europol
 author: "Europol Press Office"
-publish_date: "2023-01-26"
-ingest_date: "2026-04-08"
-enriched_date: "2026-04-10"
-language: "en"
-reliability: "high"
-credibility: "confirmed"
-sensitivity: "public"
+publish_date: 2023-01-26
+ingest_date: 2026-04-08
+enriched_date: 2026-04-10
+language: en
+reliability: high
+credibility: confirmed
+sensitivity: public
 source_tier: 2
 pages_updated:
-  - "hive-ransomware-takedown"
-  - "europol-ec3"
-  - "fbi"
-  - "german-bka"
-  - "dutch-police"
-  - "us-secret-service"
+  - hive-ransomware-takedown
+  - europol-ec3
+  - fbi
+  - german-bka
+  - dutch-police
+  - us-secret-service
 key_findings:
   - "Hive ransomware infrastructure taken down on 26 January 2023 by a coordinated operation involving 13 countries and Europol, led by the FBI with the US Secret Service, German BKA, and Dutch National Police as principal partners"
   - "Hive had targeted 1,500+ victim companies in 80+ countries since June 2021, extracting approximately EUR 100 million in ransom payments"
@@ -33,10 +33,15 @@ created: 2026-04-08
 updated: 2026-04-10
 duplicate_of: "[[2023-01-26_europol-europa-eu_cybercriminals-stung-as-hive-infrastructure-shut-down]]"
 duplicate_reason: same_collection_url
-duplicate_key: "https://www.europol.europa.eu/media-press/newsroom/news/cybercriminals-stung-hive-infrastructure-shut-down"
+duplicate_key: https://www.europol.europa.eu/media-press/newsroom/news/cybercriminals-stung-hive-infrastructure-shut-down
 duplicate_normalized_at: 2026-04-26
+raw_path: raw/press-releases/europol-hive-ransomware-infrastructure-takedown.md
+text_status: source-digest
+storage_mode: source-digest
+content_hash: sha256:5fd16858282837494b641233afa38f54a841d8eb68e6bf2394cbd1293d4054ee
+word_count: 376
+extraction_date: 2026-04-28
 ---
-
 ## Source
 
 - **Publisher**: Europol

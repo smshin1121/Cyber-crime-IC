@@ -12,11 +12,12 @@ reliability: medium
 credibility: confirmed
 sensitivity: public
 pages_updated:
-  []
+
 key_findings:
-  - "Greece became the **52nd State Party** to the [[budapest-convention|Budapest Convention]] when it deposited its instrument of ratification in 2017, following the enactment of **Law 4411/2016**. This single omnibus law simultaneously ratified the Budapest Convention and its First Additional Protocol, and transposed **EU Directive 2013/40/EU** on attacks against information systems."
+  - "Greece became the **52nd State Party** to the Budapest Convention when it deposited its instrument of ratification in 2017, following the enactment of **Law 4411/2016**. This single omnibus law simultaneously ratified the Budapest Convention and its First Additional Protocol, and transposed **EU Directive 2013/40/EU** on attacks against information systems."
 collection_url: "https://ilo.org/dyn/natlex/natlex4.detail?p_classification=15.05&p_count=2&p_isn=104604&p_lang=en"
 created: 2026-04-17
+copyright_policy: summary-only
 ---
 ## Source Summary
 

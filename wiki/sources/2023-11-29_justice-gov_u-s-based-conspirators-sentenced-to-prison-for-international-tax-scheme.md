@@ -14,7 +14,7 @@ sensitivity: public
 pages_updated:
   - operation-u-s-based-conspirators-sentenced-to-prison-for-international-tax-scheme
 key_findings:
-  - "This domestic-only U.S. follow-on record has been absorbed into the canonical case page [[u-s-based-conspirators-sentenced-to-prison-for-international-tax-scheme]]. No visible cross-border mechanism is documented, so it is not treated as a separate international-cooperation operation."
+  - "This domestic-only U.S. follow-on record has been absorbed into the canonical case page u-s-based-conspirators-sentenced-to-prison-for-international-tax-scheme. No visible cross-border mechanism is documented, so it is not treated as a separate international-cooperation operation."
 collection_url: https://www.justice.gov/usao-mdfl/pr/us-based-conspirators-sentenced-prison-international-tax-scheme
 created: 2026-04-17
 text_status: parsed

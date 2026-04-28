@@ -13,8 +13,6 @@ credibility: confirmed
 sensitivity: public
 pages_updated:
 
-key_findings:
-  - "Secure .gov websites use HTTPS A lock ( Lock Locked padlock ) or https:// means you’ve safely connected to the .gov website. Share sensitive information only on official, secure websites."
 collection_url: https://www.justice.gov/usao-co/pr/creator-software-facilitate-privacy-invasion-and-online-extortion-sentenced-federal
 created: 2026-04-18
 updated: 2026-04-18
@@ -22,8 +20,13 @@ defendant_names:
   - "Online Extortion"
 duplicate_of: "[[2016-11-02_justice-gov_creator-of-software-to-facilitate-privacy-invasion-and-online-extortion-sentence]]"
 duplicate_reason: same_collection_url
-duplicate_key: "https://www.justice.gov/usao-co/pr/creator-software-facilitate-privacy-invasion-and-online-extortion-sentenced-federal"
+duplicate_key: https://www.justice.gov/usao-co/pr/creator-software-facilitate-privacy-invasion-and-online-extortion-sentenced-federal
 duplicate_normalized_at: 2026-04-26
+text_status: source-digest
+storage_mode: source-digest
+content_hash: sha256:6655dc830c87f74eb9f9912f287b585f8d0111a6231a2accc6c11b7841a994e8
+word_count: 112
+extraction_date: 2026-04-28
 ---
 ## Source Summary
 

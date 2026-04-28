@@ -3,7 +3,7 @@ type: source
 title: "Post Falls man indicted after police seize child porn at his home"
 source_type: news
 publisher: "The Spokesman-Review"
-author: "Staff"
+author: Staff
 publish_date: 2025-10-22
 ingest_date: 2026-04-25
 language: en
@@ -18,6 +18,8 @@ key_findings:
   - "Notes 6-year-old child found at residence on search execution"
 collection_url: https://www.spokesman.com/stories/2025/oct/22/post-falls-man-indicted-after-police-seize-child-p/
 created: 2026-04-25
+raw_path: raw/news/2025-10-22_spokesman_post-falls-man-indicted-after-police-seize-child-porn-at-his-home.md
+copyright_policy: summary-only
 ---
 ## Source Summary
 

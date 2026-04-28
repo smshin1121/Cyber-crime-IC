@@ -13,14 +13,12 @@ credibility: confirmed
 sensitivity: public
 pages_updated:
   - operation-trojan-shield
-key_findings:
-  - "Secure .gov websites use HTTPS A lock ( Lock Locked padlock ) or https:// means you’ve safely connected to the .gov website. Share sensitive information only on official, secure websites."
 collection_url: https://www.justice.gov/usao-sdca/pr/fbi-s-encrypted-phone-platform-infiltrated-hundreds-criminal-syndicates-result-massive
 created: 2026-04-17
 updated: 2026-04-18
 duplicate_of: "[[2021-06-08_justice-gov_fbi-s-encrypted-phone-platform-infiltrated-hundreds-of-criminal-syndicates-resul]]"
 duplicate_reason: same_collection_url
-duplicate_key: "https://www.justice.gov/usao-sdca/pr/fbi-s-encrypted-phone-platform-infiltrated-hundreds-criminal-syndicates-result-massive"
+duplicate_key: https://www.justice.gov/usao-sdca/pr/fbi-s-encrypted-phone-platform-infiltrated-hundreds-criminal-syndicates-result-massive
 duplicate_normalized_at: 2026-04-26
 ---
 ## Source Summary

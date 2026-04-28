@@ -1,24 +1,24 @@
 ---
 type: source
 title: "CBS News: U.S., Russia, Cybercrime: Dark Web Market Suspect Sergey Medvedev Arrested in Thailand"
-collection_url: "https://www.cbsnews.com/news/us-russia-cybercrime-dark-web-market-suspect-sergey-medvedev-thailand/"
-collection_domain: "cbsnews.com"
-source_type: "news"
+collection_url: https://www.cbsnews.com/news/us-russia-cybercrime-dark-web-market-suspect-sergey-medvedev-thailand/
+collection_domain: cbsnews.com
+source_type: news
 publisher: "CBS News"
 author: "CBS News / Associated Press"
-publish_date: "2018-02-09"
-ingest_date: "2026-04-08"
-enriched_date: "2026-04-10"
-language: "en"
-reliability: "medium-high"
-credibility: "probably-true"
-sensitivity: "public"
+publish_date: 2018-02-09
+ingest_date: 2026-04-08
+enriched_date: 2026-04-10
+language: en
+reliability: medium-high
+credibility: probably-true
+sensitivity: public
 source_tier: 3
 pages_updated:
-  - "infraud-organization-takedown"
-  - "us-doj"
-  - "thailand"
-  - "united-states"
+  - infraud-organization-takedown
+  - us-doj
+  - thailand
+  - united-states
 key_findings:
   - "DOJ indicted 36 defendants tied to the Infraud Organization carding/identity-theft forum in a case unsealed on 7 February 2018; the forum had operated since 2010 under the slogan 'In Fraud We Trust' and had nearly 11,000 members"
   - "13 arrests were made on a single day across California, New York and Alabama (within the US); additional suspects were arrested in France, United Kingdom, Italy, Australia, Kosovo, and Serbia awaiting extradition"
@@ -30,10 +30,16 @@ created: 2026-04-08
 updated: 2026-04-10
 duplicate_of: "[[2018-02-07_cbsnews-com_us-russia-cybercrime-dark-web-market-suspect-sergey-medvedev-thailand]]"
 duplicate_reason: same_collection_url
-duplicate_key: "https://www.cbsnews.com/news/us-russia-cybercrime-dark-web-market-suspect-sergey-medvedev-thailand/"
+duplicate_key: https://www.cbsnews.com/news/us-russia-cybercrime-dark-web-market-suspect-sergey-medvedev-thailand/
 duplicate_normalized_at: 2026-04-26
+raw_path: raw/news/cbs-news-infraud-organization-takedown.md
+text_status: summarized
+storage_mode: summary-only
+content_hash: sha256:68dddae51c64c8c1385420b091bf1c20ab8dd84ab4a7ba7963c24c3f38a38492
+word_count: 382
+extraction_date: 2026-04-27
+copyright_policy: summary-only
 ---
-
 ## Source
 
 - **Publisher**: CBS News (with Associated Press wire content)

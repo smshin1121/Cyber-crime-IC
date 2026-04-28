@@ -14,7 +14,7 @@ sensitivity: public
 pages_updated:
   - operation-former-childcare-provider-sentenced-to-15-years-in-federal-prison-for-the-production-of-child-sexual-abuse-mat
 key_findings:
-  - "Former Childcare Provider Sentenced to 15 Years in Federal Prison for the Production of Child Sexual Abuse Material Enforcement Action is a defendant-specific enforcement action page derived from [[former-childcare-provider-sentenced-to-15-years-in-federal-prison-for-the-production-of-child-sexual-abuse-mat]]. It captures the prosecutorial or seizure stage reflected in the linked case record and preserves the operation-side catalog entry for this follow-on action."
+  - "Former Childcare Provider Sentenced to 15 Years in Federal Prison for the Production of Child Sexual Abuse Material Enforcement Action is a defendant-specific enforcement action page derived from former-childcare-provider-sentenced-to-15-years-in-federal-prison-for-the-production-of-child-sexual-abuse-mat. It captures the prosecutorial or seizure stage reflected in the linked case record and preserves the operation-side catalog entry for this follow-on action."
 collection_url: https://www.justice.gov/usao-nh/pr/former-childcare-provider-sentenced-15-years-federal-prison-production-child-sexual
 created: 2026-04-17
 text_status: parsed

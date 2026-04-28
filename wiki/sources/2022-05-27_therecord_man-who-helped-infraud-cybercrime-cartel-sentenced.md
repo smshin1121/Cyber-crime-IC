@@ -21,7 +21,7 @@ text_status: summarized
 copyright_policy: summary-only
 duplicate_of: "[[2022-05-22_therecord_man-helped-infraud-cybercrime-cartel-credit-cards-sentenced]]"
 duplicate_reason: same_collection_url
-duplicate_key: "https://therecord.media/man-who-helped-infraud-cybercrime-cartel-steal-millions-of-credit-cards-sentenced"
+duplicate_key: https://therecord.media/man-who-helped-infraud-cybercrime-cartel-steal-millions-of-credit-cards-sentenced
 duplicate_normalized_at: 2026-04-26
 ---
 ## Source Summary

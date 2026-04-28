@@ -19,8 +19,10 @@ collection_url: https://www.foxla.com/news/2-socal-men-charged-with-using-darkne
 created: 2026-04-25
 duplicate_of: "[[2023-11-07_foxla_2-socal-men-charged-darknet-drugs-50-states]]"
 duplicate_reason: same_collection_url
-duplicate_key: "https://www.foxla.com/news/2-socal-men-charged-with-using-darknet-to-sell-drugs-in-all-50-states"
+duplicate_key: https://www.foxla.com/news/2-socal-men-charged-with-using-darknet-to-sell-drugs-in-all-50-states
 duplicate_normalized_at: 2026-04-26
+raw_path: raw/news/2023-11-07_foxla_2-socal-men-charged-darknet-sell-drugs-50-states.md
+copyright_policy: summary-only
 ---
 ## Source Summary
 

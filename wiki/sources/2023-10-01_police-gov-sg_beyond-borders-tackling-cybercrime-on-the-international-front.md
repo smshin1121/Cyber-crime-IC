@@ -14,7 +14,7 @@ sensitivity: public
 pages_updated:
 
 key_findings:
-  - "The Cybercrime Command of the [[singapore-police|Singapore Police Force]] (SPF) was established in **June 2015** within the Criminal Investigation Department (CID) to build up anti-cybercrime capabilities, with a focus on cyber investigation, digital forensics, and cybercrime policy. By the end of 2015, specialist investigators and digital forensic officers were deployed to each of Singapore's six Land Divisions."
+  - "The Cybercrime Command of the Singapore Police Force (SPF) was established in **June 2015** within the Criminal Investigation Department (CID) to build up anti-cybercrime capabilities, with a focus on cyber investigation, digital forensics, and cybercrime policy. By the end of 2015, specialist investigators and digital forensic officers were deployed to each of Singapore's six Land Divisions."
 collection_url: https://www.police.gov.sg/media-hub/police-life/2023/10/beyond-borders-tackling-cybercrime-on-the-international-front
 created: 2026-04-17
 text_status: parsed

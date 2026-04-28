@@ -2,7 +2,7 @@
 type: source
 title: "US Authorities Seize Domains Selling Stolen Data, DDoS Services"
 source_type: news
-publisher: "SecurityWeek"
+publisher: SecurityWeek
 author: "Ionut Arghire"
 publish_date: 2022-05-31
 ingest_date: 2026-04-25
@@ -17,6 +17,8 @@ key_findings:
   - "Notes arrest of main subject and infrastructure seizure executed overseas."
 collection_url: https://www.securityweek.com/us-authorities-seize-domains-selling-stolen-data-ddos-services/
 created: 2026-04-25
+raw_path: raw/news/2022-05-31_securityweek_us-authorities-seize-domains-stolen-data-ddos.md
+copyright_policy: summary-only
 ---
 ## Source Summary
 

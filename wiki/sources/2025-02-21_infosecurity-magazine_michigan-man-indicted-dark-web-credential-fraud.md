@@ -3,7 +3,7 @@ type: source
 title: "Michigan Man Indicted for Dark Web Credential Fraud"
 source_type: news
 publisher: "Infosecurity Magazine"
-author: "Staff"
+author: Staff
 publish_date: 2025-02-21
 ingest_date: 2026-04-25
 language: en
@@ -18,6 +18,8 @@ key_findings:
   - "Genesis Market connection establishes IC nexus: FBI April 2023 Operation Cookie Monster takedown was multinational."
 collection_url: https://www.infosecurity-magazine.com/news/infraud-gang-member-pleads-guilty/
 created: 2026-04-25
+raw_path: raw/news/2025-02-21_infosecurity-magazine_michigan-man-indicted-dark-web-credential-fraud.md
+copyright_policy: summary-only
 ---
 ## Source Summary
 

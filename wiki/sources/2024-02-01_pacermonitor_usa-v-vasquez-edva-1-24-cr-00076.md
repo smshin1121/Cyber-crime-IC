@@ -2,7 +2,7 @@
 type: source
 title: "USA v. Vasquez (1:24-cr-00076), Virginia Eastern District Court"
 source_type: case-document
-publisher: "PacerMonitor"
+publisher: PacerMonitor
 author: "Court docket"
 publish_date: 2024-02-01
 ingest_date: 2026-04-25
@@ -17,6 +17,8 @@ key_findings:
   - "EDVA case 1:24-cr-00076 (USA v. Vasquez) docket-confirmed."
 collection_url: https://www.pacermonitor.com/public/case/53073390/USA_v_Vasquez
 created: 2026-04-25
+raw_path: raw/case-documents/2024-02-01_pacermonitor_usa-v-vasquez-edva-1-24-cr-00076.md
+copyright_policy: summary-only
 ---
 ## Source Summary
 

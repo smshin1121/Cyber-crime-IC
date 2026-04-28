@@ -2,8 +2,8 @@
 type: source
 title: "FBI and AFP Arrest Alleged Developer, Marketer of Firebird/Hive RAT"
 source_type: news
-publisher: "Hackread"
-author: "Waqas"
+publisher: Hackread
+author: Waqas
 publish_date: 2024-04-15
 ingest_date: 2026-04-25
 language: en
@@ -18,8 +18,10 @@ collection_url: https://hackread.com/fbi-afp-arrest-developer-firebird-hive-rat/
 created: 2026-04-25
 duplicate_of: "[[2024-04-12_hackread_fbi-afp-arrest-developer-marketer-firebird-hive-rat]]"
 duplicate_reason: same_collection_url
-duplicate_key: "https://hackread.com/fbi-afp-arrest-developer-firebird-hive-rat/"
+duplicate_key: https://hackread.com/fbi-afp-arrest-developer-firebird-hive-rat/
 duplicate_normalized_at: 2026-04-26
+raw_path: raw/news/2024-04-15_hackread_fbi-afp-arrest-developer-firebird-hive-rat.md
+copyright_policy: summary-only
 ---
 ## Source Summary
 

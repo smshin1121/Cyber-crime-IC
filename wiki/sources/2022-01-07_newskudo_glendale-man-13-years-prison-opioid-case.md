@@ -2,8 +2,8 @@
 type: source
 title: "Glendale man gets 13-year-plus prison sentence in opioid case"
 source_type: news
-publisher: "NewsKudo"
-author: "Staff"
+publisher: NewsKudo
+author: Staff
 publish_date: 2022-01-07
 ingest_date: 2026-04-25
 language: en
@@ -16,6 +16,8 @@ key_findings:
   - "Arizona local news aggregator coverage of the Medina sentencing."
 collection_url: https://www.newskudo.com/arizona/glendale/crime-safety/7005106-glendale-man-gets-13-year-plus-prison-sentence-in-opioid-case
 created: 2026-04-25
+raw_path: raw/news/2022-01-07_newskudo_glendale-man-13-years-prison-opioid-case.md
+copyright_policy: summary-only
 ---
 ## Source Summary
 

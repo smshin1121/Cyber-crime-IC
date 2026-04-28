@@ -22,8 +22,15 @@ key_findings:
 created: 2026-04-18
 duplicate_of: "[[2026-04-18_bka-de_bka-our-tasks]]"
 duplicate_reason: same_collection_url
-duplicate_key: "https://www.bka.de/EN/OurTasks/ourtasks_node.html"
+duplicate_key: https://www.bka.de/EN/OurTasks/ourtasks_node.html
 duplicate_normalized_at: 2026-04-26
+raw_path: raw/government-reports/2026-04-18_bka-de_our-tasks.md
+text_status: summarized
+storage_mode: summary-only
+content_hash: sha256:4f041d1d696ffa20493e2d231f71b9a94b699aa33e7de16114bcd6c750c4d954
+word_count: 165
+extraction_date: 2026-04-27
+copyright_policy: summary-only
 ---
 ## Source Summary
 

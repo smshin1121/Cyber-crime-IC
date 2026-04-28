@@ -13,8 +13,6 @@ credibility: confirmed
 sensitivity: public
 pages_updated:
 
-key_findings:
-  - "Secure .gov websites use HTTPS A lock ( Lock Locked padlock ) or https:// means you’ve safely connected to the .gov website. Share sensitive information only on official, secure websites."
 collection_url: https://www.justice.gov/usao-dc/pr/former-employee-house-member-sentenced-prison-term-charges-cyberstalking-case
 created: 2026-04-18
 updated: 2026-04-18
@@ -22,8 +20,13 @@ defendant_names:
   - "House Member"
 duplicate_of: "[[2018-03-08_justice-gov_former-employee-of-house-member-sentenced-to-prison-term-on-charges-in-cyberstal]]"
 duplicate_reason: same_collection_url
-duplicate_key: "https://www.justice.gov/usao-dc/pr/former-employee-house-member-sentenced-prison-term-charges-cyberstalking-case"
+duplicate_key: https://www.justice.gov/usao-dc/pr/former-employee-house-member-sentenced-prison-term-charges-cyberstalking-case
 duplicate_normalized_at: 2026-04-26
+text_status: source-digest
+storage_mode: source-digest
+content_hash: sha256:1e2a0029f689eb36e730d331d00749371cc4e56fd9311f3ce9b743622e97019a
+word_count: 108
+extraction_date: 2026-04-28
 ---
 ## Source Summary
 

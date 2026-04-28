@@ -14,7 +14,7 @@ sensitivity: public
 pages_updated:
   - operation-seven-charged-after-federal-investigation-disrupts-massive-counterfeit-pill-manufacturing-operation
 key_findings:
-  - "This domestic-only U.S. follow-on record has been absorbed into the canonical case page [[seven-charged-after-federal-investigation-disrupts-massive-counterfeit-pill-manufacturing-operation]]. No visible cross-border mechanism is documented, so it is not treated as a separate international-cooperation operation."
+  - "This domestic-only U.S. follow-on record has been absorbed into the canonical case page seven-charged-after-federal-investigation-disrupts-massive-counterfeit-pill-manufacturing-operation. No visible cross-border mechanism is documented, so it is not treated as a separate international-cooperation operation."
 collection_url: https://www.justice.gov/usao-ct/pr/seven-charged-after-federal-investigation-disrupts-massive-counterfeit-pill
 created: 2026-04-17
 text_status: parsed

@@ -2,8 +2,8 @@
 type: source
 title: "Two Members of Multi-State Drug Trafficking Rings Linked to Aryan Prison Gangs Sentenced to Lengthy Prison Terms"
 source_type: press-release
-publisher: "DEA"
-author: "Staff"
+publisher: DEA
+author: Staff
 publish_date: 2025-01-31
 ingest_date: 2026-04-25
 language: en
@@ -19,8 +19,14 @@ collection_url: https://www.dea.gov/press-releases/2025/01/31/two-members-multi-
 created: 2026-04-25
 duplicate_of: "[[2025-01-31_dea-gov_two-members-multi-state-drug-trafficking-aryan-prison-gangs-sentenced-lengthy-prison-terms]]"
 duplicate_reason: same_collection_url
-duplicate_key: "https://www.dea.gov/press-releases/2025/01/31/two-members-multi-state-drug-trafficking-rings-linked-aryan-prison-gangs"
+duplicate_key: https://www.dea.gov/press-releases/2025/01/31/two-members-multi-state-drug-trafficking-rings-linked-aryan-prison-gangs
 duplicate_normalized_at: 2026-04-26
+raw_path: raw/press-releases/2025-01-31_dea-gov_two-members-multi-state-drug-trafficking-rings-linked-aryan-prison-gangs.md
+text_status: source-digest
+storage_mode: source-digest
+content_hash: sha256:d0b20a7d08f4a31efdc88aa280159d7b64970f63d20961c19190b8a205c4963a
+word_count: 153
+extraction_date: 2026-04-28
 ---
 ## Source Summary
 

@@ -1,28 +1,28 @@
 ---
 type: source
 title: "The Record: Africa Cyber Surge II — 14 Arrests in Interpol-Led Operation"
-collection_url: "https://therecord.media/africa-cyber-surge-14-arrests-interpol"
-collection_domain: "therecord.media"
-source_type: "news"
+collection_url: https://therecord.media/africa-cyber-surge-14-arrests-interpol
+collection_domain: therecord.media
+source_type: news
 publisher: "The Record (by Recorded Future)"
 author: "James Reddick"
-publish_date: "2023-08-18"
-ingest_date: "2026-04-08"
-enriched_date: "2026-04-10"
-language: "en"
-reliability: "medium-high"
-credibility: "probably-true"
-sensitivity: "public"
+publish_date: 2023-08-18
+ingest_date: 2026-04-08
+enriched_date: 2026-04-10
+language: en
+reliability: medium-high
+credibility: probably-true
+sensitivity: public
 source_tier: 3
 pages_updated:
-  - "africa-cyber-surge-ii"
-  - "interpol"
-  - "afripol"
-  - "group-ib"
-  - "cameroon"
-  - "kenya"
-  - "mauritius"
-  - "gambia"
+  - africa-cyber-surge-ii
+  - interpol
+  - afripol
+  - group-ib
+  - cameroon
+  - kenya
+  - mauritius
+  - gambia
 key_findings:
   - "Africa Cyber Surge II (ACSII) ran from April-August 2023 across 25 African countries under joint INTERPOL-AFRIPOL coordination, announced publicly on 18 August 2023"
   - "14 arrests and 20,000+ suspicious cyber networks identified, linked to USD 40 million+ in financial losses"
@@ -30,15 +30,21 @@ key_findings:
   - "Infrastructure disrupted: 3,700 C&C servers, 939 malicious IP addresses, 1,415 phishing links/domains"
   - "Private-sector intelligence partners: Group-IB, Uppsala Security, Trend Micro, Kaspersky, Coinbase — a notably broad PPP consortium including a cryptocurrency exchange"
   - "Built on ACSI (2022) which produced 10 arrests and ~200,000 malicious infrastructure items removed — demonstrating year-over-year capacity building in African cybercrime enforcement"
-  - "Operation framework: INTERPOL African Joint Operation against Cybercrime (AFJOC), the same framework that enabled [[operation-lyrebird]] and [[operation-jackal]]"
+  - "Operation framework: INTERPOL African Joint Operation against Cybercrime (AFJOC), the same framework that enabled operation-lyrebird and operation-jackal"
 created: 2026-04-08
 updated: 2026-04-10
 duplicate_of: "[[2023-08-18_therecord-media_africa-cyber-surge-14-arrests-interpol]]"
 duplicate_reason: same_collection_url
-duplicate_key: "https://therecord.media/africa-cyber-surge-14-arrests-interpol"
+duplicate_key: https://therecord.media/africa-cyber-surge-14-arrests-interpol
 duplicate_normalized_at: 2026-04-26
+raw_path: raw/news/the-record-africa-cyber-surge-ii.md
+text_status: summarized
+storage_mode: summary-only
+content_hash: sha256:4e6ce9f7449c74245e88cadb12bba90ce6e332b35c2a48d6df9db180acd85dff
+word_count: 349
+extraction_date: 2026-04-27
+copyright_policy: summary-only
 ---
-
 ## Source
 
 - **Publisher**: The Record (cybersecurity news publication operated by Recorded Future)

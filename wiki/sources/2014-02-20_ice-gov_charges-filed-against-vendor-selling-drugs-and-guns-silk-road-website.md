@@ -3,7 +3,7 @@ type: source
 title: "Charges filed against vendor for selling drugs and guns on Silk Road website"
 raw_path: raw/press-releases/2014-02-20_ice-gov_charges-filed-against-vendor-selling-drugs-and-guns-silk-road-website.md
 source_type: press-release
-publisher: US ICE (Homeland Security Investigations)
+publisher: "US ICE (Homeland Security Investigations)"
 author: ""
 publish_date: 2014-02-20
 ingest_date: 2026-04-25
@@ -18,6 +18,12 @@ key_findings:
   - "Cross-border angle: Kennedy allegedly mailed 110g DMT to buyer in England (May 2012)."
 collection_url: https://www.ice.gov/news/releases/charges-filed-against-vendor-selling-drugs-and-guns-silk-road-website
 created: 2026-04-25
+text_status: parsed
+content_hash: sha256:1a150bbea206738499ad3a03864fc4ea2f921ba96f5930bb9a4b23da6a0d86cb
+word_count: 1301
+extraction_date: 2026-04-28
+last_fetcher: curl_cffi
+storage_mode: fulltext
 ---
 ## Source Summary
 

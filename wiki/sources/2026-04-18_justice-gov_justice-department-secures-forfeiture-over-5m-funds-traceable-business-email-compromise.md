@@ -13,15 +13,18 @@ credibility: confirmed
 sensitivity: public
 pages_updated:
 
-key_findings:
-  - "Secure .gov websites use HTTPS A lock ( Lock Locked padlock ) or https:// means you’ve safely connected to the .gov website. Share sensitive information only on official, secure websites."
 collection_url: https://www.justice.gov/opa/pr/justice-department-secures-forfeiture-over-5m-funds-traceable-business-email-compromise
 created: 2026-04-18
 updated: 2026-04-18
 duplicate_of: "[[2025-03-26_justice-gov_justice-department-secures-forfeiture-of-over-5m-of-funds-traceable-to-business]]"
 duplicate_reason: same_collection_url
-duplicate_key: "https://www.justice.gov/opa/pr/justice-department-secures-forfeiture-over-5m-funds-traceable-business-email-compromise"
+duplicate_key: https://www.justice.gov/opa/pr/justice-department-secures-forfeiture-over-5m-funds-traceable-business-email-compromise
 duplicate_normalized_at: 2026-04-26
+text_status: source-digest
+storage_mode: source-digest
+content_hash: sha256:ecd0c71218e3aa4461f2887bc8260ccff7d4f211601e348a66d3c390d4ff82d9
+word_count: 116
+extraction_date: 2026-04-28
 ---
 ## Source Summary
 

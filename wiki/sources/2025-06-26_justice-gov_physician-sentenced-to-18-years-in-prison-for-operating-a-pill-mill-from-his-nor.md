@@ -14,7 +14,7 @@ sensitivity: public
 pages_updated:
   - operation-physician-sentenced-to-18-years-in-prison-for-operating-a-pill-mill-from-his-northwest-d-c-medical-practice
 key_findings:
-  - "This domestic-only U.S. follow-on record has been absorbed into the canonical case page [[physician-sentenced-to-18-years-in-prison-for-operating-a-pill-mill-from-his-northwest-d-c-medical-practice]]. No visible cross-border mechanism is documented, so it is not treated as a separate international-cooperation operation."
+  - "This domestic-only U.S. follow-on record has been absorbed into the canonical case page physician-sentenced-to-18-years-in-prison-for-operating-a-pill-mill-from-his-northwest-d-c-medical-practice. No visible cross-border mechanism is documented, so it is not treated as a separate international-cooperation operation."
 collection_url: https://www.justice.gov/usao-dc/pr/physician-sentenced-18-years-prison-operating-pill-mill-his-northwest-dc-medical
 created: 2026-04-17
 text_status: parsed

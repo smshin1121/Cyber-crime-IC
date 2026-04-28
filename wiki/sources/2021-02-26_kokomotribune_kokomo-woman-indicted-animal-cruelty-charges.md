@@ -3,7 +3,7 @@ type: source
 title: "Kokomo woman indicted on animal cruelty charges"
 source_type: news
 publisher: "Kokomo Tribune"
-author: "Staff"
+author: Staff
 publish_date: 2021-02-26
 ingest_date: 2026-04-25
 language: en
@@ -17,6 +17,8 @@ key_findings:
   - "Hyperlocal Kokomo IN newspaper coverage"
 collection_url: https://www.kokomotribune.com/news/police_and_fire/kokomo-woman-indicted-on-animal-cruelty-charges/article_d6588b68-786d-11eb-a052-a364227b9aee.html
 created: 2026-04-25
+raw_path: raw/news/2021-02-26_kokomotribune_kokomo-woman-indicted-animal-cruelty-charges.md
+copyright_policy: summary-only
 ---
 ## Source Summary
 

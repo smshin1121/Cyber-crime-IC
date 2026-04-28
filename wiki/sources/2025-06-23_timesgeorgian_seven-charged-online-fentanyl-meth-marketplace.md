@@ -3,7 +3,7 @@ type: source
 title: "Seven charged with running online fentanyl, meth marketplace"
 source_type: news
 publisher: "Times-Georgian (Carrollton, GA)"
-author: "Staff"
+author: Staff
 publish_date: 2025-06-23
 ingest_date: 2026-04-25
 language: en
@@ -16,6 +16,8 @@ key_findings:
   - "Georgia local newspaper coverage of the WallStreetBets indictment."
 collection_url: https://www.times-georgian.com/news/local/seven-charged-with-running-online-fentanyl-meth-marketplace/article_787a6457-89c7-5efb-bd4b-6ad06c431ca5.html
 created: 2026-04-25
+raw_path: raw/news/2025-06-23_timesgeorgian_seven-charged-online-fentanyl-meth-marketplace.md
+copyright_policy: summary-only
 ---
 ## Source Summary
 

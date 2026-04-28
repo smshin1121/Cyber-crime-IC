@@ -23,8 +23,15 @@ key_findings:
 created: 2026-04-18
 duplicate_of: "[[2026-04-17_bsi-bund-de_avalanche-botnet-infrastructure]]"
 duplicate_reason: same_collection_url
-duplicate_key: "https://www.bsi.bund.de/EN/Themen/Verbraucherinnen-und-Verbraucher/Cyber-Sicherheitslage/Methoden-der-Cyber-Kriminalitaet/Botnetze/Botnetz-Avalanche/botnet-avalanche_node.html"
+duplicate_key: https://www.bsi.bund.de/EN/Themen/Verbraucherinnen-und-Verbraucher/Cyber-Sicherheitslage/Methoden-der-Cyber-Kriminalitaet/Botnetze/Botnetz-Avalanche/botnet-avalanche_node.html
 duplicate_normalized_at: 2026-04-26
+raw_path: raw/government-reports/2026-04-18_bsi-bund-de_avalanche-botnet-infrastructure.md
+text_status: summarized
+storage_mode: summary-only
+content_hash: sha256:af282e544f30e0bd75c3ca51156f3df2c02af66639394b53f4ea41c8c507f08d
+word_count: 252
+extraction_date: 2026-04-27
+copyright_policy: summary-only
 ---
 ## Source Summary
 

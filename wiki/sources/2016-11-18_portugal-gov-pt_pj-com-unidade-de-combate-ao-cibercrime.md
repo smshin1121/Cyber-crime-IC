@@ -14,7 +14,7 @@ sensitivity: public
 pages_updated:
 
 key_findings:
-  - "The **Unidade Nacional de Combate ao Cibercrime e à Criminalidade Tecnológica (UNC3T)** is the specialized cybercrime unit of Portugal's **Polícia Judiciária (PJ)**. It was created by Decree-Law No. 81/2016 (28 November 2016), entering into operation in late 2016, replacing the earlier Unidade Nacional da Investigação da Criminalidade Informática (established August 2015). Its structure is *almost certainly* inspired by Europol's [[europol-ec3|EC3]] model, consolidating cybercrime-related competencies previously dispersed across multiple PJ units."
+  - "The **Unidade Nacional de Combate ao Cibercrime e à Criminalidade Tecnológica (UNC3T)** is the specialized cybercrime unit of Portugal's **Polícia Judiciária (PJ)**. It was created by Decree-Law No. 81/2016 (28 November 2016), entering into operation in late 2016, replacing the earlier Unidade Nacional da Investigação da Criminalidade Informática (established August 2015). Its structure is *almost certainly* inspired by Europol's EC3 model, consolidating cybercrime-related competencies."
 collection_url: "https://www.portugal.gov.pt/pt/gc21/comunicacao/noticia?i=20161118-mj-pj"
 created: 2026-04-17
 text_status: parsed

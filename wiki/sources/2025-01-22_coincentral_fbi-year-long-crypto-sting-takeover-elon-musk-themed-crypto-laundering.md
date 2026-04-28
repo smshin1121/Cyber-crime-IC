@@ -2,8 +2,8 @@
 type: source
 title: "FBI's Year-Long Crypto Sting: Secret Takeover of an Elon Musk-Themed Crypto Laundering Empire"
 source_type: news
-publisher: "CoinCentral"
-author: "Staff"
+publisher: CoinCentral
+author: Staff
 publish_date: 2025-01-22
 ingest_date: 2026-04-25
 language: en
@@ -17,6 +17,8 @@ key_findings:
   - "Visa-trap arrest tradecraft documented"
 collection_url: https://coincentral.com/fbis-year-long-crypto-sting-secret-takeover-of-an-elon-musk-themed-crypto-laundering-empire/
 created: 2026-04-25
+raw_path: raw/news/2025-01-22_coincentral_fbi-year-long-crypto-sting-takeover-elon-musk-themed-crypto-laundering.md
+copyright_policy: summary-only
 ---
 ## Source Summary
 

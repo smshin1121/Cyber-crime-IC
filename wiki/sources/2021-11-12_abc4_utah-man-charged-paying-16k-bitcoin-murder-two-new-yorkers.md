@@ -3,7 +3,7 @@ type: source
 title: "Utah man charged for paying $16K in Bitcoin for murder of two New Yorkers"
 source_type: news
 publisher: "ABC4 Utah"
-author: "Staff"
+author: Staff
 publish_date: 2021-11-12
 ingest_date: 2026-04-25
 language: en
@@ -19,6 +19,8 @@ key_findings:
   - "Confirms $16,000 Bitcoin payment via darknet murder-for-hire site"
 collection_url: https://www.abc4.com/news/local-news/utah-man-charged-for-paying-16k-in-bitcoin-for-murder-of-two-new-yorkers/
 created: 2026-04-25
+raw_path: raw/news/2021-11-12_abc4_utah-man-charged-paying-16k-bitcoin-murder-two-new-yorkers.md
+copyright_policy: summary-only
 ---
 ## Source Summary
 

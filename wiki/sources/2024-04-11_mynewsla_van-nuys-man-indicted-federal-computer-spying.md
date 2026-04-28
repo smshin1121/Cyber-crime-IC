@@ -2,8 +2,8 @@
 type: source
 title: "Van Nuys Man Indicted on Federal Computer Info Spying Charges"
 source_type: news
-publisher: "MyNewsLA"
-author: "Staff"
+publisher: MyNewsLA
+author: Staff
 publish_date: 2024-04-11
 ingest_date: 2026-04-25
 language: en
@@ -16,6 +16,8 @@ key_findings:
   - "Initial not-guilty plea entered in April 2024"
 collection_url: https://mynewsla.com/crime/2024/04/11/van-nuys-man-indicted-on-federal-computer-info-spying-charges/
 created: 2026-04-25
+raw_path: raw/news/2024-04-11_mynewsla_van-nuys-man-indicted-federal-computer-spying.md
+copyright_policy: summary-only
 ---
 ## Source Summary
 

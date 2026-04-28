@@ -2,7 +2,7 @@
 type: source
 title: "Two People Arrested in Australia and US for Development and Sale of Hive RAT"
 source_type: news
-publisher: "SecurityWeek"
+publisher: SecurityWeek
 author: "Ionut Arghire"
 publish_date: 2024-04-15
 ingest_date: 2026-04-25
@@ -16,6 +16,8 @@ key_findings:
   - "Confirms undercover law-enforcement-operative sale led to indictment."
 collection_url: https://www.securityweek.com/two-people-arrested-in-australia-and-us-for-development-and-sale-of-hive-rat/
 created: 2026-04-25
+raw_path: raw/news/2024-04-15_securityweek_two-people-arrested-australia-us-development-sale-hive-rat.md
+copyright_policy: summary-only
 ---
 ## Source Summary
 

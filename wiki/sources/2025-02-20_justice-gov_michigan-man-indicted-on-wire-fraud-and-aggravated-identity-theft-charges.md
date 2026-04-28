@@ -14,7 +14,7 @@ sensitivity: public
 pages_updated:
   - operation-michigan-man-indicted-on-wire-fraud-and-aggravated-identity-theft-charges
 key_findings:
-  - "This domestic-only U.S. follow-on record has been absorbed into the canonical case page [[michigan-man-indicted-on-wire-fraud-and-aggravated-identity-theft-charges]]. No visible cross-border mechanism is documented, so it is not treated as a separate international-cooperation operation."
+  - "This domestic-only U.S. follow-on record has been absorbed into the canonical case page michigan-man-indicted-on-wire-fraud-and-aggravated-identity-theft-charges. No visible cross-border mechanism is documented, so it is not treated as a separate international-cooperation operation."
 collection_url: https://www.justice.gov/usao-mn/pr/michigan-man-indicted-wire-fraud-and-aggravated-identity-theft-charges
 created: 2026-04-17
 text_status: parsed

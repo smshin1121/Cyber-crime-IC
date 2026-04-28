@@ -13,8 +13,6 @@ credibility: confirmed
 sensitivity: public
 pages_updated:
 
-key_findings:
-  - "Secure .gov websites use HTTPS A lock ( Lock Locked padlock ) or https:// means you’ve safely connected to the .gov website. Share sensitive information only on official, secure websites."
 collection_url: https://www.justice.gov/usao-cdca/pr/oc-and-houston-men-sentenced-decades-prison-supplying-fentanyl-and-other-drugs-sold
 created: 2026-04-18
 defendant_names:
@@ -23,8 +21,13 @@ defendant_names:
 updated: 2026-04-18
 duplicate_of: "[[2024-04-29_justice-gov_o-c-and-houston-men-sentenced-to-decades-in-prison-for-supplying-fentanyl-and-ot]]"
 duplicate_reason: same_collection_url
-duplicate_key: "https://www.justice.gov/usao-cdca/pr/oc-and-houston-men-sentenced-decades-prison-supplying-fentanyl-and-other-drugs-sold"
+duplicate_key: https://www.justice.gov/usao-cdca/pr/oc-and-houston-men-sentenced-decades-prison-supplying-fentanyl-and-other-drugs-sold
 duplicate_normalized_at: 2026-04-26
+text_status: source-digest
+storage_mode: source-digest
+content_hash: sha256:bab662850e94f8e54c8e0155fb1332d60df3edb9e2a06f23055df60c112391c6
+word_count: 135
+extraction_date: 2026-04-28
 ---
 ## Source Summary
 

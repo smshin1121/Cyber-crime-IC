@@ -2,7 +2,7 @@
 type: source
 title: "RICO Conspirators Responsible For Nationwide Computer Intrusions And Tax Fraud Sentenced To Federal Prison"
 source_type: news
-publisher: "DataBreaches.net"
+publisher: DataBreaches.net
 author: "Dissent Doe"
 publish_date: 2023-12-21
 ingest_date: 2026-04-25
@@ -17,6 +17,8 @@ key_findings:
   - "Discusses dark-web supply chain for stolen credentials."
 collection_url: https://www.databreaches.net/cybercriminals-responsible-for-computer-intrusions-nationwide-indicted-for-rico-conspiracy-that-netted-millions/
 created: 2026-04-25
+raw_path: raw/news/2023-12-21_databreaches_rico-conspirators-sentenced-computer-intrusions-tax-fraud.md
+copyright_policy: summary-only
 ---
 ## Source Summary
 

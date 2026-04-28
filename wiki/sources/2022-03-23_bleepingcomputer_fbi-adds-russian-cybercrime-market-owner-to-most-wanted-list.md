@@ -2,8 +2,8 @@
 type: source
 title: "FBI adds Russian cybercrime market owner to most wanted list"
 source_type: news
-publisher: "BleepingComputer"
-author: "Staff"
+publisher: BleepingComputer
+author: Staff
 publish_date: 2022-03-23
 ingest_date: 2026-04-25
 language: en
@@ -17,6 +17,8 @@ key_findings:
   - "Reports 13 FBI covert purchases (March-July 2021) yielding 131 stolen accounts as evidence."
 collection_url: https://www.bleepingcomputer.com/news/security/fbi-adds-russian-cybercrime-market-owner-to-most-wanted-list/
 created: 2026-04-25
+raw_path: raw/news/2022-03-23_bleepingcomputer_fbi-adds-russian-cybercrime-market-owner-to-most-wanted-list.md
+copyright_policy: summary-only
 ---
 ## Source Summary
 

@@ -2,8 +2,8 @@
 type: source
 title: "Stanwood man gets federal prison for selling fentanyl on dark web"
 source_type: news
-publisher: "HeraldNet"
-author: "Staff"
+publisher: HeraldNet
+author: Staff
 publish_date: 2024-04-26
 ingest_date: 2026-04-25
 language: en
@@ -19,8 +19,10 @@ collection_url: https://www.heraldnet.com/news/stanwood-man-gets-federal-prison-
 created: 2026-04-25
 duplicate_of: "[[2024-04-15_heraldnet_stanwood-man-federal-prison-selling-fentanyl-dark-web]]"
 duplicate_reason: same_collection_url
-duplicate_key: "https://www.heraldnet.com/news/stanwood-man-gets-federal-prison-for-selling-fentanyl-on-dark-web/"
+duplicate_key: https://www.heraldnet.com/news/stanwood-man-gets-federal-prison-for-selling-fentanyl-on-dark-web/
 duplicate_normalized_at: 2026-04-26
+raw_path: raw/news/2024-04-26_heraldnet_stanwood-man-federal-prison-selling-fentanyl-dark-web.md
+copyright_policy: summary-only
 ---
 ## Source Summary
 

@@ -14,7 +14,7 @@ sensitivity: public
 pages_updated:
   - operation-justice-department-secures-forfeiture-of-over-5m-of-funds-traceable-to-business-email-compromise-scheme-target
 key_findings:
-  - "This domestic-only U.S. follow-on record has been absorbed into the canonical case page [[justice-department-secures-forfeiture-of-over-5m-of-funds-traceable-to-business-email-compromise-scheme-target]]. No visible cross-border mechanism is documented, so it is not treated as a separate international-cooperation operation."
+  - "This domestic-only U.S. follow-on record has been absorbed into the canonical case page justice-department-secures-forfeiture-of-over-5m-of-funds-traceable-to-business-email-compromise-scheme-target. No visible cross-border mechanism is documented, so it is not treated as a separate international-cooperation operation."
 collection_url: https://www.justice.gov/opa/pr/justice-department-secures-forfeiture-over-5m-funds-traceable-business-email-compromise
 created: 2026-04-17
 text_status: parsed

@@ -26,6 +26,7 @@ storage_mode: fulltext
 license_basis: us_federal_work
 attribution_required: true
 attribution_url: https://www.hidta.org/hidta-funded-hi-tech-drug-initiatives-interagency-collaboration-results-in-charges-carrying-mandatory-10-years-to-life-in-federal-prison/
+copyright_policy: summary-only
 ---
 ## Source Summary
 

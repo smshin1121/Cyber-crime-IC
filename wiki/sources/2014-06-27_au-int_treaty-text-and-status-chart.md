@@ -26,6 +26,7 @@ storage_mode: fulltext
 license_basis: treaty_status_public_record
 attribution_required: true
 attribution_url: https://au.int/en/treaties/african-union-convention-cyber-security-and-personal-data-protection
+copyright_policy: summary-only
 ---
 ## Source Summary
 

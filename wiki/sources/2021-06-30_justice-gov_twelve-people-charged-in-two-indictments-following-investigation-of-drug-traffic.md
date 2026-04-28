@@ -14,7 +14,7 @@ sensitivity: public
 pages_updated:
   - operation-twelve-people-charged-in-two-indictments-following-investigation-of-drug-trafficking-ring
 key_findings:
-  - "This domestic-only U.S. follow-on record has been absorbed into the canonical case page [[twelve-people-charged-in-two-indictments-following-investigation-of-drug-trafficking-ring]]. No visible cross-border mechanism is documented, so it is not treated as a separate international-cooperation operation."
+  - "This domestic-only U.S. follow-on record has been absorbed into the canonical case page twelve-people-charged-in-two-indictments-following-investigation-of-drug-trafficking-ring. No visible cross-border mechanism is documented, so it is not treated as a separate international-cooperation operation."
 collection_url: https://www.justice.gov/usao-wdwa/pr/twelve-people-charged-two-indictments-following-investigation-drug-trafficking-ring
 created: 2026-04-17
 text_status: parsed

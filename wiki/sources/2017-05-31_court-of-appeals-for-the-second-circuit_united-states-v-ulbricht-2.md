@@ -19,8 +19,13 @@ collection_url: https://www.courtlistener.com/opinion/4395694/united-states-v-ul
 created: 2026-04-17
 duplicate_of: "[[2017-05-31_courtlistener-com_united-states-v-ulbricht]]"
 duplicate_reason: same_collection_url
-duplicate_key: "https://www.courtlistener.com/opinion/4395694/united-states-v-ulbricht/"
+duplicate_key: https://www.courtlistener.com/opinion/4395694/united-states-v-ulbricht/
 duplicate_normalized_at: 2026-04-26
+text_status: source-digest
+storage_mode: source-digest
+content_hash: sha256:c05934dac879b48e8e7e2374fa653b7891d16c8512b7aed473e23fe48c3c19cc
+word_count: 115
+extraction_date: 2026-04-28
 ---
 ## Source Summary
 

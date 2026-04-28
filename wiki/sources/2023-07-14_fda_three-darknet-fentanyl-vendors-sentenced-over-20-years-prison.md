@@ -20,8 +20,14 @@ collection_url: https://www.fda.gov/inspections-compliance-enforcement-and-crimi
 created: 2026-04-25
 duplicate_of: "[[2023-07-14_fda-gov_three-darknet-fentanyl-vendors-sentenced-over-20-years-prison]]"
 duplicate_reason: same_collection_url
-duplicate_key: "https://www.fda.gov/inspections-compliance-enforcement-and-criminal-investigations/doj-press-releases-involving-fda-oci/three-darknet-fentanyl-vendors-sentenced-over-20-years-prison"
+duplicate_key: https://www.fda.gov/inspections-compliance-enforcement-and-criminal-investigations/doj-press-releases-involving-fda-oci/three-darknet-fentanyl-vendors-sentenced-over-20-years-prison
 duplicate_normalized_at: 2026-04-26
+raw_path: raw/press-releases/2023-07-14_fda_three-darknet-fentanyl-vendors-sentenced-over-20-years-prison.md
+text_status: parsed
+storage_mode: source-digest
+content_hash: sha256:1631992a332fb6ab9401928b6c6d26513d6cf39fd5499359c356b46daff6c815
+word_count: 1752
+extraction_date: 2026-04-25
 ---
 ## Source Summary
 

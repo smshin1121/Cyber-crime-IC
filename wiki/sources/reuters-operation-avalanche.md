@@ -1,35 +1,41 @@
 ---
 type: source
 title: "Reuters: 'Ghost' Cybercrime Platform Dismantled in Global Operation, 51 Arrested"
-collection_url: "https://www.reuters.com/technology/cybersecurity/ghost-cybercrime-platform-dismantled-global-operation-51-arrested-2024-09-18/"
-collection_domain: "reuters.com"
-source_type: "news"
-publisher: "Reuters"
-publish_date: "2024-09-18"
-ingest_date: "2026-04-08"
-enriched_date: "2026-04-10"
-language: "en"
-reliability: "high"
-credibility: "probably-true"
-sensitivity: "public"
+collection_url: https://www.reuters.com/technology/cybersecurity/ghost-cybercrime-platform-dismantled-global-operation-51-arrested-2024-09-18/
+collection_domain: reuters.com
+source_type: news
+publisher: Reuters
+publish_date: 2024-09-18
+ingest_date: 2026-04-08
+enriched_date: 2026-04-10
+language: en
+reliability: high
+credibility: probably-true
+sensitivity: public
 source_tier: 2
 pages_updated:
-  - "operation-kraken-ghost-platform"
+  - operation-kraken-ghost-platform
 key_findings:
   - "Reuters reported on 2024-09-18 that Europol announced the dismantling of the encrypted communications platform 'Ghost', used extensively by organised crime for drug trafficking and money laundering"
   - "51 arrests across multiple countries — 38 in Australia, 11 in Ireland, 1 in Canada, and 1 in Italy (a member of the Sacra Corona Unita mafia clan); more arrests expected"
   - "The coordinated operation prevented 'several threats to life', dismantled a drug lab in Australia, and seized weapons, drugs, and over EUR 1 million (~USD 1.11 million) in cash globally"
   - "Participating agencies spanned Australia, Canada, France, Iceland, Ireland, Italy, the Netherlands, Sweden, and the United States; Europol coordinated"
   - "Ghost was reportedly the successor pattern to previous encrypted-platform takedowns (EncroChat 2020, Sky ECC 2021, ANOM/Trojan Shield 2021) — illustrating the ongoing cat-and-mouse between LE and bespoke criminal-comms providers"
-  - "URL/operation mismatch: this source is filed under [[operation-avalanche]] but is about the 'Ghost' platform takedown — a distinct 2024 operation. The wiki should create an `operation-kraken-ghost-platform` page (Australian AFP used the codename 'Operation Kraken')"
+  - "URL/operation mismatch: this source is filed under operation-avalanche but is about the 'Ghost' platform takedown — a distinct 2024 operation. The wiki should create an operation-kraken-ghost-platform page (Australian AFP used the codename 'Operation Kraken')"
 created: 2026-04-08
 updated: 2026-04-10
 duplicate_of: "[[2024-09-18_reuters-com_ghost-cybercrime-platform-dismantled-in-global-operation-51-arrested]]"
 duplicate_reason: same_collection_url
-duplicate_key: "https://www.reuters.com/technology/cybersecurity/ghost-cybercrime-platform-dismantled-global-operation-51-arrested-2024-09-18/"
+duplicate_key: https://www.reuters.com/technology/cybersecurity/ghost-cybercrime-platform-dismantled-global-operation-51-arrested-2024-09-18/
 duplicate_normalized_at: 2026-04-26
+raw_path: raw/news/reuters-operation-avalanche.md
+text_status: summarized
+storage_mode: summary-only
+content_hash: sha256:af82b72b833d2039e3ae5c6cb37d4aaafcce244bc5a022b70b4f9507160d1deb
+word_count: 348
+extraction_date: 2026-04-27
+copyright_policy: summary-only
 ---
-
 ## Source
 
 - **Publisher**: Reuters

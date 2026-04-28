@@ -3,7 +3,7 @@ type: source
 title: "Bail set at $1 million for man found with up to 5,000 fentanyl pills in Chehalis during JNET bust"
 source_type: news
 publisher: "The Daily Chronicle"
-author: "Staff"
+author: Staff
 publish_date: 2023-09-22
 ingest_date: 2026-04-25
 language: en
@@ -15,8 +15,10 @@ pages_updated:
 key_findings:
   - "Documents the second arrest with 4,700-5,000 fentanyl pills in Chehalis WA"
   - "Confirms multi-agency involvement: JNET, TNT, DEA"
-collection_url: https://www.chronline.com/stories/bail-set-at-1-million-for-man-found-with-up-to-5000-fentanyl-pills-in-chehalis-during-jnet-bust,326017
+collection_url: "https://www.chronline.com/stories/bail-set-at-1-million-for-man-found-with-up-to-5000-fentanyl-pills-in-chehalis-during-jnet-bust,326017"
 created: 2026-04-25
+raw_path: raw/news/2023-09-22_chronline_bail-set-1-million-man-found-5000-fentanyl-pills-chehalis-jnet-bust.md
+copyright_policy: summary-only
 ---
 ## Source Summary
 

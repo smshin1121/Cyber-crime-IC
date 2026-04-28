@@ -13,8 +13,6 @@ credibility: confirmed
 sensitivity: public
 pages_updated:
 
-key_findings:
-  - "Secure .gov websites use HTTPS A lock ( Lock Locked padlock ) or https:// means you’ve safely connected to the .gov website. Share sensitive information only on official, secure websites."
 collection_url: https://www.justice.gov/usao-dc/pr/operator-helix-darknet-cryptocurrency-mixer-sentenced-money-laundering-conspiracy
 created: 2026-04-18
 defendant_names:
@@ -22,8 +20,13 @@ defendant_names:
 updated: 2026-04-18
 duplicate_of: "[[2024-11-15_justice-gov_operator-of-helix-darknet-cryptocurrency-mixer-sentenced-in-money-laundering-con]]"
 duplicate_reason: same_collection_url
-duplicate_key: "https://www.justice.gov/usao-dc/pr/operator-helix-darknet-cryptocurrency-mixer-sentenced-money-laundering-conspiracy"
+duplicate_key: https://www.justice.gov/usao-dc/pr/operator-helix-darknet-cryptocurrency-mixer-sentenced-money-laundering-conspiracy
 duplicate_normalized_at: 2026-04-26
+text_status: source-digest
+storage_mode: source-digest
+content_hash: sha256:811a8e6f0ff7ce77b2683ad2c62d236b618e8ef1479d7a20edb9c85b8db4d1dc
+word_count: 129
+extraction_date: 2026-04-28
 ---
 ## Source Summary
 

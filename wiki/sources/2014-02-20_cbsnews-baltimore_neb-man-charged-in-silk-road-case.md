@@ -3,7 +3,7 @@ type: source
 title: "Neb. Man Charged In Silk Road Case"
 raw_path: raw/news/2014-02-20_cbsnews-baltimore_neb-man-charged-in-silk-road-case.md
 source_type: news
-publisher: CBS News Baltimore
+publisher: "CBS News Baltimore"
 author: ""
 publish_date: 2014-02-20
 ingest_date: 2026-04-25
@@ -19,6 +19,7 @@ key_findings:
   - "Sold counterfeit currency to Maryland buyer via Silk Road."
 collection_url: https://www.cbsnews.com/baltimore/news/neb-man-charged-in-silk-road-case/
 created: 2026-04-25
+copyright_policy: summary-only
 ---
 ## Source Summary
 

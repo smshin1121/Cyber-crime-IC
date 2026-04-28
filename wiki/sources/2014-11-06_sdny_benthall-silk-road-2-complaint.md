@@ -13,8 +13,6 @@ credibility: confirmed
 sensitivity: public
 pages_updated:
   - operation-onymous
-key_findings:
-  - "Secure .gov websites use HTTPS A lock ( Lock Locked padlock ) or https:// means you’ve safely connected to the .gov website. Share sensitive information only on official, secure websites."
 collection_url: https://www.justice.gov/usao-sdny/pr/operator-silk-road-20-website-charged-manhattan-federal-court
 created: 2026-04-17
 defendant_names:
@@ -22,7 +20,7 @@ defendant_names:
 updated: 2026-04-18
 duplicate_of: "[[2014-11-06_justice-gov_operator-of-silk-road-2-0-website-charged-in-manhattan-federal-court]]"
 duplicate_reason: same_collection_url
-duplicate_key: "https://www.justice.gov/usao-sdny/pr/operator-silk-road-20-website-charged-manhattan-federal-court"
+duplicate_key: https://www.justice.gov/usao-sdny/pr/operator-silk-road-20-website-charged-manhattan-federal-court
 duplicate_normalized_at: 2026-04-26
 ---
 ## Source Summary

@@ -3,7 +3,7 @@ type: source
 title: "Ten charged in Oklahoma for involvement in international refund fraud ring"
 source_type: news
 publisher: "Fox23 Tulsa"
-author: "Staff"
+author: Staff
 publish_date: 2023-11-09
 ingest_date: 2026-04-25
 language: en
@@ -17,6 +17,8 @@ key_findings:
   - "Identifies the parent FBI investigation as Operation Chargeback"
 collection_url: https://www.fox23.com/news/ten-charged-in-oklahoma-for-involvement-in-international-refund-fraud-ring/article_b09564fa-8256-11ee-8648-3f0248950334.html
 created: 2026-04-25
+raw_path: raw/news/2023-11-09_fox23_ten-charged-oklahoma-international-refund-fraud-ring.md
+copyright_policy: summary-only
 ---
 ## Source Summary
 

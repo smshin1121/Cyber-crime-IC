@@ -3,7 +3,7 @@ type: source
 title: "US indicts Russian cybercrime Dark Web market 'Infraud Organization' suspect Sergey Medvedev, arrested in Thailand"
 source_type: news
 publisher: "CBS News"
-author: "Staff"
+author: Staff
 publish_date: 2018-02-08
 ingest_date: 2026-04-25
 language: en
@@ -20,8 +20,10 @@ collection_url: https://www.cbsnews.com/news/us-russia-cybercrime-dark-web-marke
 created: 2026-04-25
 duplicate_of: "[[2018-02-07_cbsnews-com_us-russia-cybercrime-dark-web-market-suspect-sergey-medvedev-thailand]]"
 duplicate_reason: same_collection_url
-duplicate_key: "https://www.cbsnews.com/news/us-russia-cybercrime-dark-web-market-suspect-sergey-medvedev-thailand/"
+duplicate_key: https://www.cbsnews.com/news/us-russia-cybercrime-dark-web-market-suspect-sergey-medvedev-thailand/
 duplicate_normalized_at: 2026-04-26
+raw_path: raw/news/2018-02-08_cbsnews_us-russia-cybercrime-dark-web-market-suspect-sergey-medvedev-thailand.md
+copyright_policy: summary-only
 ---
 ## Source Summary
 

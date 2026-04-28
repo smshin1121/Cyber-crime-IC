@@ -2,8 +2,8 @@
 type: source
 title: "Salt Lake woman pleads guilty in murder-for-hire scheme"
 source_type: news
-publisher: "KSL.com"
-author: "Staff"
+publisher: KSL.com
+author: Staff
 publish_date: 2024-05-30
 ingest_date: 2026-04-25
 language: en
@@ -18,6 +18,8 @@ key_findings:
   - "Re-states foreign-government tip-off as the IC origin of the case."
 collection_url: https://www.ksl.com/article/51031724/salt-lake-woman-pleads-guilty-in-murder-for-hire-scheme
 created: 2026-04-25
+raw_path: raw/news/2024-05-30_ksl_salt-lake-woman-pleads-guilty-murder-for-hire.md
+copyright_policy: summary-only
 ---
 ## Source Summary
 

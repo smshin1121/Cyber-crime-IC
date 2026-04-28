@@ -22,8 +22,13 @@ defendant_names:
 updated: 2026-04-18
 duplicate_of: "[[2023-02-24_justice-gov_chatsworth-man-sentenced-to-more-than-7-years-in-prison-for-cyberstalking-campai]]"
 duplicate_reason: same_collection_url
-duplicate_key: "https://www.justice.gov/usao-cdca/pr/chatsworth-man-sentenced-more-7-years-prison-cyberstalking-campaigns-against-victims"
+duplicate_key: https://www.justice.gov/usao-cdca/pr/chatsworth-man-sentenced-more-7-years-prison-cyberstalking-campaigns-against-victims
 duplicate_normalized_at: 2026-04-26
+text_status: source-digest
+storage_mode: source-digest
+content_hash: sha256:d3c2461c9a552421e03ce7bf9d886d3ee0c6a2591ee3515d5be5716a7104c664
+word_count: 151
+extraction_date: 2026-04-28
 ---
 ## Source Summary
 

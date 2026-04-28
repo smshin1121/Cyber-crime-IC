@@ -2,8 +2,8 @@
 type: source
 title: "Romanian hacker pleads guilty to Oregon state computer breach"
 source_type: news
-publisher: "KOIN"
-author: "Staff"
+publisher: KOIN
+author: Staff
 publish_date: 2026-02-20
 ingest_date: 2026-04-25
 language: en
@@ -17,6 +17,8 @@ key_findings:
   - "Local Portland media coverage of the Romania-U.S. extradition prosecution."
 collection_url: https://www.koin.com/news/crime/romanian-hacker-pleads-guilty-to-oregon-state-computer-breach/
 created: 2026-04-25
+raw_path: raw/news/2026-02-20_koin_romanian-hacker-pleads-guilty-oregon-state-computer-breach.md
+copyright_policy: summary-only
 ---
 ## Source Summary
 

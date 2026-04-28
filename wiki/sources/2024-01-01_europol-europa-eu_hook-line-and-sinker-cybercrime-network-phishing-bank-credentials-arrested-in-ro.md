@@ -20,6 +20,11 @@ created: 2026-04-17
 defendant_names:
   - "Network Phishing Bank Credentials"
 updated: 2026-04-18
+text_status: source-digest
+storage_mode: source-digest
+content_hash: sha256:da7c7d6345bdeb5af2964d71d222f9d056075dba63c4933b89cc9da456230810
+word_count: 235
+extraction_date: 2026-04-28
 ---
 ## Source Summary
 

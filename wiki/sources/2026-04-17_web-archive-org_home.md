@@ -12,15 +12,16 @@ reliability: medium
 credibility: confirmed
 sensitivity: public
 pages_updated:
-  []
+
 key_findings:
-  - "The **Cyber Security Agency of Singapore (CSA)** is Singapore's lead national cybersecurity agency. Established on **1 April 2015**, CSA is responsible for protecting Singapore's cyberspace, operating SingCERT, regulating Critical Information Infrastructure (CII) under the [[cybersecurity-act-2018|Cybersecurity Act 2018]], licensing cybersecurity service providers, and coordinating Singapore's response to major cyber incidents."
+  - "The **Cyber Security Agency of Singapore (CSA)** is Singapore's lead national cybersecurity agency. Established on **1 April 2015**, CSA is responsible for protecting Singapore's cyberspace, operating SingCERT, regulating Critical Information Infrastructure (CII) under the Cybersecurity Act 2018, licensing cybersecurity service providers, and coordinating Singapore's response to major cyber incidents."
 collection_url: http://web.archive.org/web/20260325205744/https://www.csa.gov.sg/
 created: 2026-04-17
 duplicate_of: "[[2026-04-17_web-archive-org_cyber-security-agency-of-singapore]]"
 duplicate_reason: same_collection_url
-duplicate_key: "http://web.archive.org/web/20260325205744/https://www.csa.gov.sg/"
+duplicate_key: http://web.archive.org/web/20260325205744/https://www.csa.gov.sg/
 duplicate_normalized_at: 2026-04-26
+copyright_policy: summary-only
 ---
 ## Source Summary
 

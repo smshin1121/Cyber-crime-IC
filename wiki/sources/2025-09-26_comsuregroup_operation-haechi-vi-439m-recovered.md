@@ -12,11 +12,12 @@ reliability: medium
 credibility: reported
 sensitivity: public
 pages_updated:
-  []
+
 key_findings:
   - "Comsure Group independently summarized HAECHI VI and emphasized the upward recovery trend across the HAECHI series."
 collection_url: https://comsuregroup.com/news/operation-haechi-vi-sees-439m-recovered-from-global-financial-crime/
 created: 2026-04-23
+copyright_policy: summary-only
 ---
 ## Source Summary
 

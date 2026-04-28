@@ -20,6 +20,11 @@ created: 2026-04-17
 defendant_names:
   - "Helped Extort British Company"
 updated: 2026-04-18
+text_status: source-digest
+storage_mode: source-digest
+content_hash: sha256:52567371db41dd893983bd1834b75588a4eefe9442151b40b6d953f6d1e34fb9
+word_count: 223
+extraction_date: 2026-04-28
 ---
 ## Source Summary
 

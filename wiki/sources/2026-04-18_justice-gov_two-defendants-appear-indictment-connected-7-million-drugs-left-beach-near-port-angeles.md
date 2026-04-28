@@ -13,8 +13,6 @@ credibility: confirmed
 sensitivity: public
 pages_updated:
 
-key_findings:
-  - "Secure .gov websites use HTTPS A lock ( Lock Locked padlock ) or https:// means you’ve safely connected to the .gov website. Share sensitive information only on official, secure websites."
 collection_url: https://www.justice.gov/usao-wdwa/pr/two-defendants-appear-indictment-connected-7-million-drugs-left-beach-near-port-angeles
 created: 2026-04-18
 defendant_names:
@@ -23,8 +21,13 @@ defendant_names:
 updated: 2026-04-18
 duplicate_of: "[[2022-12-08_justice-gov_two-defendants-appear-on-indictment-connected-to-7-million-in-drugs-left-on-beac]]"
 duplicate_reason: same_collection_url
-duplicate_key: "https://www.justice.gov/usao-wdwa/pr/two-defendants-appear-indictment-connected-7-million-drugs-left-beach-near-port-angeles"
+duplicate_key: https://www.justice.gov/usao-wdwa/pr/two-defendants-appear-indictment-connected-7-million-drugs-left-beach-near-port-angeles
 duplicate_normalized_at: 2026-04-26
+text_status: source-digest
+storage_mode: source-digest
+content_hash: sha256:f9a1896e5a1d7c0757b2b63361f0976902d3cc47d7e9d531d574b26965877a06
+word_count: 116
+extraction_date: 2026-04-28
 ---
 ## Source Summary
 

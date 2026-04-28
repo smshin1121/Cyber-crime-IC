@@ -3,7 +3,7 @@ type: source
 title: "Two Washington residents who worked with Aryan gangs to sell drugs are off to prison"
 source_type: news
 publisher: "The Daily Chronicle"
-author: "Staff"
+author: Staff
 publish_date: 2025-02-04
 ingest_date: 2026-04-25
 language: en
@@ -15,12 +15,14 @@ pages_updated:
 key_findings:
   - "The Daily Chronicle (Lewis County, WA) reported the Aryan-prison-gang sentencings."
   - "Provides additional regional press confirmation of the Thompson and Warren sentences."
-collection_url: https://www.chronline.com/stories/two-washington-residents-who-worked-with-aryan-gangs-to-sell-drugs-are-off-to-prison,374785
+collection_url: "https://www.chronline.com/stories/two-washington-residents-who-worked-with-aryan-gangs-to-sell-drugs-are-off-to-prison,374785"
 created: 2026-04-25
 duplicate_of: "[[2025-01-31_chronline_two-washington-residents-worked-aryan-gangs-sell-drugs-off-prison]]"
 duplicate_reason: same_collection_url
 duplicate_key: "https://www.chronline.com/stories/two-washington-residents-who-worked-with-aryan-gangs-to-sell-drugs-are-off-to-prison,374785"
 duplicate_normalized_at: 2026-04-26
+raw_path: raw/news/2025-02-04_chronline_two-washington-residents-aryan-gangs-sell-drugs-off-prison.md
+copyright_policy: summary-only
 ---
 ## Source Summary
 

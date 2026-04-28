@@ -3,7 +3,7 @@ type: source
 title: "Utah woman sentenced to 78 months in prison after murder-for-hire scheme"
 source_type: news
 publisher: "Gephardt Daily"
-author: "Staff"
+author: Staff
 publish_date: 2024-08-19
 ingest_date: 2026-04-25
 language: en
@@ -18,6 +18,8 @@ key_findings:
   - "A foreign government intercepted Stone's dark-web posting and referred it to HSI - the IC entry point for the case."
 collection_url: https://gephardtdaily.com/local/utah-woman-sentenced-to-78-months-in-prison-after-murder-for-hire-scheme/
 created: 2026-04-25
+raw_path: raw/news/2024-08-19_gephardtdaily_utah-woman-78-months-murder-for-hire.md
+copyright_policy: summary-only
 ---
 ## Source Summary
 

@@ -3,7 +3,7 @@ type: source
 title: "Former SLU teaching assistant admits blackmailing student"
 source_type: news
 publisher: "Fox 2 Now (KTVI)"
-author: "Staff"
+author: Staff
 publish_date: 2022-12-01
 ingest_date: 2026-04-25
 language: en
@@ -17,6 +17,8 @@ key_findings:
   - "Fox 2 Now (KTVI) confirmation of Khalaf plea"
 collection_url: https://fox2now.com/news/missouri/former-slu-teaching-assistant-admits-blackmailing-student/
 created: 2026-04-25
+raw_path: raw/news/2022-12-01_fox2now_former-slu-teaching-assistant-admits-blackmailing-student.md
+copyright_policy: summary-only
 ---
 ## Source Summary
 

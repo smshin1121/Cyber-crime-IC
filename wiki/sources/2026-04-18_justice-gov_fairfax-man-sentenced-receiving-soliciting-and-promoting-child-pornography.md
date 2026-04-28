@@ -22,8 +22,13 @@ defendant_names:
 updated: 2026-04-18
 duplicate_of: "[[2021-08-04_justice-gov_fairfax-man-sentenced-for-receiving-soliciting-and-promoting-child-pornography]]"
 duplicate_reason: same_collection_url
-duplicate_key: "https://www.justice.gov/usao-edva/pr/fairfax-man-sentenced-receiving-soliciting-and-promoting-child-pornography"
+duplicate_key: https://www.justice.gov/usao-edva/pr/fairfax-man-sentenced-receiving-soliciting-and-promoting-child-pornography
 duplicate_normalized_at: 2026-04-26
+text_status: source-digest
+storage_mode: source-digest
+content_hash: sha256:27c75aed98612ab9626a9d3a94c1f42ec5b11817bbf2e7f9f7fd9c319df19513
+word_count: 141
+extraction_date: 2026-04-28
 ---
 ## Source Summary
 

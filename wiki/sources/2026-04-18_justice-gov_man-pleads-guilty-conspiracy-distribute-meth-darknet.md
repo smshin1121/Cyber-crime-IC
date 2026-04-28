@@ -13,8 +13,6 @@ credibility: confirmed
 sensitivity: public
 pages_updated:
 
-key_findings:
-  - "Secure .gov websites use HTTPS A lock ( Lock Locked padlock ) or https:// means you’ve safely connected to the .gov website. Share sensitive information only on official, secure websites."
 collection_url: https://www.justice.gov/usao-edva/pr/man-pleads-guilty-conspiracy-distribute-meth-darknet
 created: 2026-04-18
 defendant_names:
@@ -23,8 +21,13 @@ defendant_names:
 updated: 2026-04-18
 duplicate_of: "[[2020-12-15_justice-gov_man-pleads-guilty-to-conspiracy-to-distribute-meth-on-the-darknet]]"
 duplicate_reason: same_collection_url
-duplicate_key: "https://www.justice.gov/usao-edva/pr/man-pleads-guilty-conspiracy-distribute-meth-darknet"
+duplicate_key: https://www.justice.gov/usao-edva/pr/man-pleads-guilty-conspiracy-distribute-meth-darknet
 duplicate_normalized_at: 2026-04-26
+text_status: source-digest
+storage_mode: source-digest
+content_hash: sha256:64013343984d22282397d3aa4a0f267cfa138d2709db5388ee1e7a591f9c6c32
+word_count: 118
+extraction_date: 2026-04-28
 ---
 ## Source Summary
 

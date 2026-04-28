@@ -12,15 +12,20 @@ reliability: medium
 credibility: confirmed
 sensitivity: public
 pages_updated:
-  []
+
 key_findings:
-  - "Georgia acceded to the **[[budapest-convention|Budapest Convention on Cybercrime]]** in 2012 and has since been an active participant in Council of Europe **Octopus** and GLACY+ capacity-building activities in the Eastern Partnership region."
+  - "Georgia acceded to the **Budapest Convention on Cybercrime** in 2012 and has since been an active participant in Council of Europe **Octopus** and GLACY+ capacity-building activities in the Eastern Partnership region."
 collection_url: https://www.coe.int/en/web/cybercrime/parties-observers
 created: 2026-04-17
 duplicate_of: "[[2025-01-01_coe-int_parties-observers-to-the-budapest-convention]]"
 duplicate_reason: same_collection_url
-duplicate_key: "https://www.coe.int/en/web/cybercrime/parties-observers"
+duplicate_key: https://www.coe.int/en/web/cybercrime/parties-observers
 duplicate_normalized_at: 2026-04-26
+text_status: source-digest
+storage_mode: source-digest
+content_hash: sha256:e93258e0a2bc99d49dd6bc05185c30d714f892217d838c4ef88b542f6c5005d2
+word_count: 160
+extraction_date: 2026-04-28
 ---
 ## Source Summary
 

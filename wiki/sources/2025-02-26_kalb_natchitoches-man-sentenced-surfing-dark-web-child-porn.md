@@ -2,8 +2,8 @@
 type: source
 title: "Natchitoches man sentenced for surfing 'dark web' for child porn"
 source_type: news
-publisher: "KALB"
-author: "Staff"
+publisher: KALB
+author: Staff
 publish_date: 2025-02-26
 ingest_date: 2026-04-25
 language: en
@@ -18,6 +18,8 @@ key_findings:
   - "Forensic review found ~513 images, 6 videos; dark web use admitted"
 collection_url: https://www.kalb.com/2025/02/26/natchitoches-man-sentenced-surfing-dark-web-child-porn/
 created: 2026-04-25
+raw_path: raw/news/2025-02-26_kalb_natchitoches-man-sentenced-surfing-dark-web-child-porn.md
+copyright_policy: summary-only
 ---
 ## Source Summary
 

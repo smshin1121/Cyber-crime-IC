@@ -17,6 +17,13 @@ key_findings:
   - "Documents ATF leadership and the multinational scope of the export ring."
 collection_url: https://www.justice.gov/usao-ndga/pr/gun-traffickers-arrested-allegedly-using-dark-web-export-guns-across-world
 created: 2026-04-25
+raw_path: raw/press-releases/2017-06-02_justice-gov-ndga_gun-traffickers-arrested-dark-net-export-guns-world.md
+text_status: parsed
+content_hash: sha256:55f14b16e3344306ba1bdb98011480cd828ed0027fb962a6a4159224c3fc6e4e
+word_count: 177
+extraction_date: 2026-04-28
+last_fetcher: doj_fetch
+storage_mode: fulltext
 ---
 ## Source Summary
 

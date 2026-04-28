@@ -19,8 +19,16 @@ collection_url: https://www.fox13seattle.com/news/feds-seattle-heroin-trafficker
 created: 2026-04-25
 duplicate_of: "[[2016-08-11_fox13seattle_feds-seattle-heroin-traffickers-indicted-one-arrested-near-tijuana]]"
 duplicate_reason: same_collection_url
-duplicate_key: "https://www.fox13seattle.com/news/feds-seattle-heroin-traffickers-indicted-one-arrested-near-tijuana"
+duplicate_key: https://www.fox13seattle.com/news/feds-seattle-heroin-traffickers-indicted-one-arrested-near-tijuana
 duplicate_normalized_at: 2026-04-26
+raw_path: raw/news/2016-08-11_fox13seattle_seattle-heroin-traffickers-indicted-tijuana-arrest.md
+text_status: summarized
+storage_mode: summary-only
+content_hash: sha256:994ac482b794ecbe4d78d8f51299898760c38ad4d78a92d533e940ed403d4417
+word_count: 701
+extraction_date: 2026-04-25
+copyright_policy: summary-only
+stored_word_count: 80
 ---
 ## Source Summary
 

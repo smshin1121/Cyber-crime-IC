@@ -2,7 +2,7 @@
 type: source
 title: "Pittsburgh Felon Pleads Guilty to False Statement in Attempted Firearm Purchase"
 source_type: news
-publisher: "Hoodline"
+publisher: Hoodline
 publish_date: 2024-11-06
 ingest_date: 2026-04-25
 language: en

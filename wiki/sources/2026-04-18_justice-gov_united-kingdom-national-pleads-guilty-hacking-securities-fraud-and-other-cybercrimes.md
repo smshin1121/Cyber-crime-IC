@@ -13,8 +13,6 @@ credibility: confirmed
 sensitivity: public
 pages_updated:
 
-key_findings:
-  - "Secure .gov websites use HTTPS A lock ( Lock Locked padlock ) or https:// means you’ve safely connected to the .gov website. Share sensitive information only on official, secure websites."
 collection_url: https://www.justice.gov/usao-edny/pr/united-kingdom-national-pleads-guilty-hacking-securities-fraud-and-other-cybercrimes
 created: 2026-04-18
 updated: 2026-04-18
@@ -22,8 +20,13 @@ defendant_names:
   - "United Kingdom National"
 duplicate_of: "[[2023-11-28_justice-gov_united-kingdom-national-pleads-guilty-to-hacking-securities-fraud-and-other-cybe]]"
 duplicate_reason: same_collection_url
-duplicate_key: "https://www.justice.gov/usao-edny/pr/united-kingdom-national-pleads-guilty-hacking-securities-fraud-and-other-cybercrimes"
+duplicate_key: https://www.justice.gov/usao-edny/pr/united-kingdom-national-pleads-guilty-hacking-securities-fraud-and-other-cybercrimes
 duplicate_normalized_at: 2026-04-26
+text_status: source-digest
+storage_mode: source-digest
+content_hash: sha256:aa230e33e1f749045c4852927c0e2848c0784e01c66da6ea2c9c267be410fa48
+word_count: 117
+extraction_date: 2026-04-28
 ---
 ## Source Summary
 

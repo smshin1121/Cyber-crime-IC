@@ -13,8 +13,6 @@ credibility: confirmed
 sensitivity: public
 pages_updated:
 
-key_findings:
-  - "Secure .gov websites use HTTPS A lock ( Lock Locked padlock ) or https:// means you’ve safely connected to the .gov website. Share sensitive information only on official, secure websites."
 collection_url: https://www.justice.gov/usao-ndoh/pr/man-sentenced-stealing-over-712-bitcoin-subject-forfeiture
 created: 2026-04-18
 defendant_names:
@@ -23,8 +21,13 @@ defendant_names:
 updated: 2026-04-18
 duplicate_of: "[[2023-05-05_justice-gov_man-sentenced-for-stealing-over-712-bitcoin-subject-to-forfeiture]]"
 duplicate_reason: same_collection_url
-duplicate_key: "https://www.justice.gov/usao-ndoh/pr/man-sentenced-stealing-over-712-bitcoin-subject-forfeiture"
+duplicate_key: https://www.justice.gov/usao-ndoh/pr/man-sentenced-stealing-over-712-bitcoin-subject-forfeiture
 duplicate_normalized_at: 2026-04-26
+text_status: source-digest
+storage_mode: source-digest
+content_hash: sha256:14c350bdee5b911c73cb443b3df1574286adcb957dc5ea77282c8bd2c7c7e4ad
+word_count: 128
+extraction_date: 2026-04-28
 ---
 ## Source Summary
 

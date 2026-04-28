@@ -3,7 +3,7 @@ type: source
 title: "Boone man sentenced to eight years for dark web child pornography offenses"
 source_type: news
 publisher: "WLOS (Asheville ABC)"
-author: "Staff"
+author: Staff
 publish_date: 2024-12-05
 ingest_date: 2026-04-25
 language: en
@@ -16,6 +16,8 @@ key_findings:
   - "Asheville ABC affiliate coverage of the Kilgore sentencing in W.D.N.C."
 collection_url: https://wlos.com/news/local/boone-man-sentenced-to-eight-years-for-dark-web-child-pornography-offenses
 created: 2026-04-25
+raw_path: raw/news/2024-12-05_wlos_boone-man-eight-years-dark-web-child-pornography.md
+copyright_policy: summary-only
 ---
 ## Source Summary
 

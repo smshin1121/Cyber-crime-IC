@@ -20,6 +20,8 @@ key_findings:
   - "Defendant had attempted to purchase tickets to travel and join ISIS abroad."
 collection_url: https://fallriverreporter.com/massachusetts-man-sentenced-to-prison-after-being-accused-of-supporting-isis/
 created: 2026-04-25
+raw_path: raw/news/2026-01-09_fallriverreporter_massachusetts-man-sentenced-to-prison-after-being-accused-of-supporting-isis.md
+copyright_policy: summary-only
 ---
 ## Source Summary
 

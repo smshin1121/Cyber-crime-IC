@@ -14,7 +14,7 @@ sensitivity: public
 pages_updated:
   - operation-members-of-seattle-drug-trafficking-organization-indicted-for-distribution-of-heroin
 key_findings:
-  - "This domestic-only U.S. follow-on record has been absorbed into the canonical case page [[members-of-seattle-drug-trafficking-organization-indicted-for-distribution-of-heroin]]. No visible cross-border mechanism is documented, so it is not treated as a separate international-cooperation operation."
+  - "This domestic-only U.S. follow-on record has been absorbed into the canonical case page members-of-seattle-drug-trafficking-organization-indicted-for-distribution-of-heroin. No visible cross-border mechanism is documented, so it is not treated as a separate international-cooperation operation."
 collection_url: https://www.justice.gov/usao-wdwa/pr/members-seattle-drug-trafficking-organization-indicted-distribution-heroin
 created: 2026-04-17
 text_status: parsed

@@ -14,7 +14,7 @@ sensitivity: public
 pages_updated:
   - operation-international-hacker-for-hire-who-conspired-with-and-aided-russian-fsb-officers-sentenced-to-five-years-in-pri
 key_findings:
-  - "This domestic-only U.S. follow-on record has been absorbed into the canonical case page [[international-hacker-for-hire-who-conspired-with-and-aided-russian-fsb-officers-sentenced-to-five-years-in-pri]]. No visible cross-border mechanism is documented, so it is not treated as a separate international-cooperation operation."
+  - "This domestic-only U.S. follow-on record has been absorbed into the canonical case page international-hacker-for-hire-who-conspired-with-and-aided-russian-fsb-officers-sentenced-to-five-years-in-pri. No visible cross-border mechanism is documented, so it is not treated as a separate international-cooperation operation."
 collection_url: https://www.justice.gov/usao-ndca/pr/international-hacker-hire-who-conspired-and-aided-russian-fsb-officers-sentenced-five
 created: 2026-04-17
 text_status: parsed

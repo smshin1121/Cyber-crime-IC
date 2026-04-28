@@ -14,7 +14,7 @@ sensitivity: public
 pages_updated:
   - operation-us-v-brewer-dark-web
 key_findings:
-  - "This domestic-only U.S. follow-on record has been absorbed into the canonical case page [[us-v-brewer-dark-web]]. No visible cross-border mechanism is documented, so it is not treated as a separate international-cooperation operation."
+  - "This domestic-only U.S. follow-on record has been absorbed into the canonical case page us-v-brewer-dark-web. No visible cross-border mechanism is documented, so it is not treated as a separate international-cooperation operation."
 collection_url: https://www.justice.gov/usao-ndtx/pr/darkweb-drug-trafficker-arrested-operation-disruptor-sentenced-65-years-prison
 created: 2026-04-17
 text_status: parsed

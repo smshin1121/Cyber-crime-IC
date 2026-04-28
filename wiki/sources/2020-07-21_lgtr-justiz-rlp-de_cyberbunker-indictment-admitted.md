@@ -22,8 +22,15 @@ key_findings:
 created: 2026-04-18
 duplicate_of: "[[2020-07-21_lgtr-justiz-rlp-de_anklage-gegen-acht-angeklagte-im-verfahren-um-den-sogenannten-cyberbunker-in-tra]]"
 duplicate_reason: same_collection_url
-duplicate_key: "https://lgtr.justiz.rlp.de/presse-aktuelles/detail/anklage-gegen-acht-angeklagte-im-verfahren-um-den-sogenannten-cyberbunker-in-traben-trarbach-zugelassen"
+duplicate_key: https://lgtr.justiz.rlp.de/presse-aktuelles/detail/anklage-gegen-acht-angeklagte-im-verfahren-um-den-sogenannten-cyberbunker-in-traben-trarbach-zugelassen
 duplicate_normalized_at: 2026-04-26
+raw_path: raw/case-documents/2020-07-21_lgtr-justiz-rlp-de_cyberbunker-indictment-admitted.md
+text_status: summarized
+storage_mode: summary-only
+content_hash: sha256:ce75fa2739db5891e8758ab34de99be23df0702da2965f832b77fabb84d3bf7c
+word_count: 206
+extraction_date: 2026-04-27
+copyright_policy: summary-only
 ---
 ## Source Summary
 

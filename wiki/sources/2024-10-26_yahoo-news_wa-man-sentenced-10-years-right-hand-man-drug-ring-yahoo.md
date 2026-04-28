@@ -3,7 +3,7 @@ type: source
 title: "WA man sentenced 10 years for role as 'right-hand man' of drug ring"
 source_type: news
 publisher: "Yahoo News (FOX 13 syndication)"
-author: "Staff"
+author: Staff
 publish_date: 2024-10-26
 ingest_date: 2026-04-25
 language: en
@@ -17,6 +17,8 @@ key_findings:
   - "Provides national distribution of the Western Washington case."
 collection_url: https://www.yahoo.com/news/wa-man-sentenced-10-years-002647934.html
 created: 2026-04-25
+raw_path: raw/news/2024-10-26_yahoo-news_wa-man-sentenced-10-years-right-hand-man-drug-ring-yahoo.md
+copyright_policy: summary-only
 ---
 ## Source Summary
 

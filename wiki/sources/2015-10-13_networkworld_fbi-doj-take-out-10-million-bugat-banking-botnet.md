@@ -17,6 +17,8 @@ key_findings:
   - "Ghinkul Cyprus arrest detail confirmed."
 collection_url: https://www.networkworld.com/article/944308/fbi-doj-take-out-10-million-bugat-banking-botnet-zeus.html/amp
 created: 2026-04-25
+raw_path: raw/news/2015-10-13_networkworld_fbi-doj-take-out-10-million-bugat-banking-botnet.md
+copyright_policy: summary-only
 ---
 ## Source Summary
 

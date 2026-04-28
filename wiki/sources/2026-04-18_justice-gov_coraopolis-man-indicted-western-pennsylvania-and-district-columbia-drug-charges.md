@@ -22,8 +22,13 @@ defendant_names:
 updated: 2026-04-18
 duplicate_of: "[[2023-02-28_justice-gov_coraopolis-man-indicted-in-western-pennsylvania-and-in-the-district-of-columbia]]"
 duplicate_reason: same_collection_url
-duplicate_key: "https://www.justice.gov/usao-wdpa/pr/coraopolis-man-indicted-western-pennsylvania-and-district-columbia-drug-charges"
+duplicate_key: https://www.justice.gov/usao-wdpa/pr/coraopolis-man-indicted-western-pennsylvania-and-district-columbia-drug-charges
 duplicate_normalized_at: 2026-04-26
+text_status: source-digest
+storage_mode: source-digest
+content_hash: sha256:b5d857ef0d012ceecea12bb441b7ed9518d5b49fa5756b84f45633626425570f
+word_count: 145
+extraction_date: 2026-04-28
 ---
 ## Source Summary
 

@@ -17,6 +17,11 @@ key_findings:
   - "German, Cypriot, Albanian, British, and Israeli investigators, with support from Eurojust and Europol, dismantled an online investment-fraud group that defrauded victims of over **EUR 3 million**."
 collection_url: https://www.eurojust.europa.eu/news/international-coalition-uncovers-eur-3-million-online-investment-fraud
 created: 2026-04-17
+text_status: source-digest
+storage_mode: source-digest
+content_hash: sha256:5d2df619596a03e9614b2f0238c3a852ca6e340a0919c75131b90c77c6740019
+word_count: 142
+extraction_date: 2026-04-28
 ---
 ## Source Summary
 

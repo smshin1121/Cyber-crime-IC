@@ -4,7 +4,7 @@ title: "Ransomware group dismantled in Ukraine in a major international operatio
 collection_url: https://www.eurojust.europa.eu/news/ransomware-group-dismantled-ukraine-major-operation-supported-eurojust-europol
 collection_domain: eurojust.europa.eu
 source_type: press-release
-publisher: "Eurojust"
+publisher: Eurojust
 author: ""
 publish_date: 2023-11-28
 ingest_date: 2026-04-18
@@ -23,8 +23,14 @@ created: 2026-04-18
 updated: 2026-04-18
 duplicate_of: "[[2023-11-28_eurojust-europa-eu_ransomware-group-dismantled-in-ukraine-in-a-major-international-operation-suppor]]"
 duplicate_reason: same_collection_url
-duplicate_key: "https://www.eurojust.europa.eu/news/ransomware-group-dismantled-ukraine-major-operation-supported-eurojust-europol"
+duplicate_key: https://www.eurojust.europa.eu/news/ransomware-group-dismantled-ukraine-major-operation-supported-eurojust-europol
 duplicate_normalized_at: 2026-04-26
+raw_path: raw/press-releases/2023-11-28_eurojust_ransomware-group-dismantled-ukraine-major-operation-supported-eurojust-europol.md
+text_status: source-digest
+storage_mode: source-digest
+content_hash: sha256:2f4487613de27d6dab2d16700bcccce1cd4e21114327767efca94071acb244dc
+word_count: 192
+extraction_date: 2026-04-28
 ---
 ## Source Summary
 

@@ -18,6 +18,8 @@ key_findings:
   - "Official USAO Maine social-media announcement of the Posey sentencing"
 collection_url: https://x.com/USAO_ME/status/1882143073792360712
 created: 2026-04-25
+raw_path: raw/news/2025-01-21_x-usao-me_dark-web-moderator-michael-posey-sentenced.md
+copyright_policy: summary-only
 ---
 ## Source Summary
 

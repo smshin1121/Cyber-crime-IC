@@ -14,7 +14,7 @@ sensitivity: public
 pages_updated:
   - operation-man-who-served-in-army-under-an-assumed-name-sentenced-to-time-served-and-community-service-for-passport-fraud
 key_findings:
-  - "This domestic-only U.S. follow-on record has been absorbed into the canonical case page [[man-who-served-in-army-under-an-assumed-name-sentenced-to-time-served-and-community-service-for-passport-fraud]]. No visible cross-border mechanism is documented, so it is not treated as a separate international-cooperation operation."
+  - "This domestic-only U.S. follow-on record has been absorbed into the canonical case page man-who-served-in-army-under-an-assumed-name-sentenced-to-time-served-and-community-service-for-passport-fraud. No visible cross-border mechanism is documented, so it is not treated as a separate international-cooperation operation."
 collection_url: https://www.justice.gov/usao-edmo/pr/man-who-served-army-under-assumed-name-sentenced-time-served-and-community-service
 created: 2026-04-17
 text_status: parsed

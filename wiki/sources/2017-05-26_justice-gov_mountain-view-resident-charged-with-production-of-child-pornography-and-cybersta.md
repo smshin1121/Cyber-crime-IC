@@ -14,7 +14,7 @@ sensitivity: public
 pages_updated:
   - operation-mountain-view-resident-charged-with-production-of-child-pornography-and-cyberstalking
 key_findings:
-  - "This domestic-only U.S. follow-on record has been absorbed into the canonical case page [[mountain-view-resident-charged-with-production-of-child-pornography-and-cyberstalking]]. No visible cross-border mechanism is documented, so it is not treated as a separate international-cooperation operation."
+  - "This domestic-only U.S. follow-on record has been absorbed into the canonical case page mountain-view-resident-charged-with-production-of-child-pornography-and-cyberstalking. No visible cross-border mechanism is documented, so it is not treated as a separate international-cooperation operation."
 collection_url: https://www.justice.gov/usao-ndca/pr/mountain-view-resident-charged-production-child-pornography-and-cyberstalking
 created: 2026-04-17
 text_status: parsed

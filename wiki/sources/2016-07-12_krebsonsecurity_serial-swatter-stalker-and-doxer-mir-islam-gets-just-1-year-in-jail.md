@@ -19,8 +19,10 @@ collection_url: https://krebsonsecurity.com/2016/07/serial-swatter-stalker-and-d
 created: 2026-04-25
 duplicate_of: "[[2016-07-11_krebsonsecurity_serial-swatter-stalker-doxer-mir-islam-gets-just-1-year-jail]]"
 duplicate_reason: same_collection_url
-duplicate_key: "https://krebsonsecurity.com/2016/07/serial-swatter-stalker-and-doxer-mir-islam-gets-just-1-year-in-jail/"
+duplicate_key: https://krebsonsecurity.com/2016/07/serial-swatter-stalker-and-doxer-mir-islam-gets-just-1-year-in-jail/
 duplicate_normalized_at: 2026-04-26
+raw_path: raw/news/2016-07-12_krebsonsecurity_serial-swatter-stalker-and-doxer-mir-islam-gets-just-1-year-in-jail.md
+copyright_policy: summary-only
 ---
 ## Source Summary
 

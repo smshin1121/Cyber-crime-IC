@@ -13,8 +13,6 @@ credibility: confirmed
 sensitivity: public
 pages_updated:
 
-key_findings:
-  - "Secure .gov websites use HTTPS A lock ( Lock Locked padlock ) or https:// means you’ve safely connected to the .gov website. Share sensitive information only on official, secure websites."
 collection_url: https://www.justice.gov/usao-sdfl/pr/three-people-sentenced-prison-distributing-methamphetamine-fentanyl-and-nitazenes
 created: 2026-04-18
 updated: 2026-04-18
@@ -22,8 +20,13 @@ defendant_names:
   - "Three People"
 duplicate_of: "[[2025-08-06_justice-gov_three-people-sentenced-to-prison-for-distributing-methamphetamine-fentanyl-and-n]]"
 duplicate_reason: same_collection_url
-duplicate_key: "https://www.justice.gov/usao-sdfl/pr/three-people-sentenced-prison-distributing-methamphetamine-fentanyl-and-nitazenes"
+duplicate_key: https://www.justice.gov/usao-sdfl/pr/three-people-sentenced-prison-distributing-methamphetamine-fentanyl-and-nitazenes
 duplicate_normalized_at: 2026-04-26
+text_status: source-digest
+storage_mode: source-digest
+content_hash: sha256:228571a6718346b002476e26ee7480e2263ccef65dc45fc111e1421ea40f0d2b
+word_count: 113
+extraction_date: 2026-04-28
 ---
 ## Source Summary
 

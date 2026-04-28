@@ -3,7 +3,7 @@ type: source
 title: "'Drug Llama' Melissa Scanlan, convicted in dark web fentanyl trafficking case, wants out of federal pen"
 source_type: news
 publisher: "ABC7 Chicago"
-author: "Staff"
+author: Staff
 publish_date: 2022-12-21
 ingest_date: 2026-04-25
 language: en
@@ -18,6 +18,8 @@ key_findings:
   - "Recaps Brandon Arias 9-year sentence as co-defendant in SDIL Drug Llama prosecution."
 collection_url: https://abc7chicago.com/drug-llama-melissa-scanlan-drugs-fentanyl/12530169/
 created: 2026-04-25
+raw_path: raw/news/2022-12-21_abc7chicago_drug-llama-melissa-scanlan-drugs-fentanyl.md
+copyright_policy: summary-only
 ---
 ## Source Summary
 

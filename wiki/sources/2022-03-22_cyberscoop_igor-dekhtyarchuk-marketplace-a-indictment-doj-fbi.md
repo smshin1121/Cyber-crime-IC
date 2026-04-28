@@ -2,8 +2,8 @@
 type: source
 title: "Russian indicted, added to 'Most Wanted' in cybercrime market case"
 source_type: news
-publisher: "CyberScoop"
-author: "Staff"
+publisher: CyberScoop
+author: Staff
 publish_date: 2022-03-22
 ingest_date: 2026-04-25
 language: en
@@ -17,6 +17,8 @@ key_findings:
   - "Highlights US-Russia non-cooperation as IC challenge: indictment without extradition pathway."
 collection_url: https://cyberscoop.com/igor-dekhtyarchuk-marketplace-a-indictment-doj-fbi/
 created: 2026-04-25
+raw_path: raw/news/2022-03-22_cyberscoop_igor-dekhtyarchuk-marketplace-a-indictment-doj-fbi.md
+copyright_policy: summary-only
 ---
 ## Source Summary
 

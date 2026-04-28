@@ -12,11 +12,12 @@ reliability: medium
 credibility: confirmed
 sensitivity: public
 pages_updated:
-  []
+
 key_findings:
   - "**Operation Lyrebird** was an INTERPOL-coordinated operation that resulted in the arrest of a suspect in **Morocco** linked to **phishing** and **carding** activities. The operation was conducted with intelligence support from cybersecurity firm **Group-IB**. The arrest demonstrated INTERPOL's growing capability to coordinate cybercrime operations in the African region."
 collection_url: https://www.group-ib.com/media-center/press-releases/gib-interpol-lyrebird/
 created: 2026-04-17
+copyright_policy: summary-only
 ---
 ## Source Summary
 

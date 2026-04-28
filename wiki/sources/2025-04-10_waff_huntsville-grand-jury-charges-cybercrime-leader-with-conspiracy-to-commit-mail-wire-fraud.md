@@ -3,7 +3,7 @@ type: source
 title: "Huntsville grand jury charges cybercrime leader with conspiracy to commit mail, wire fraud"
 source_type: news
 publisher: "WAFF (Huntsville)"
-author: "Staff"
+author: Staff
 publish_date: 2025-04-10
 ingest_date: 2026-04-25
 language: en
@@ -18,6 +18,8 @@ key_findings:
   - "Identifies private-sector cooperators (Target, Amazon, Walmart, Dell, Google CyberCrime Investigation Group) supporting the federal investigation"
 collection_url: https://www.waff.com/2025/04/10/huntsville-grand-jury-charges-cybercrime-leader-with-conspiracy-commit-mail-wire-fraud/
 created: 2026-04-25
+raw_path: raw/news/2025-04-10_waff_huntsville-grand-jury-charges-cybercrime-leader-with-conspiracy-to-commit-mail-wire-fraud.md
+copyright_policy: summary-only
 ---
 ## Source Summary
 

@@ -14,7 +14,7 @@ sensitivity: public
 pages_updated:
   - operation-grand-jury-indicts-knoxville-woman-previously-arrested-in-murder-for-hire-plot
 key_findings:
-  - "This domestic-only U.S. follow-on record has been absorbed into the canonical case page [[grand-jury-indicts-knoxville-woman-previously-arrested-in-murder-for-hire-plot]]. No visible cross-border mechanism is documented, so it is not treated as a separate international-cooperation operation."
+  - "This domestic-only U.S. follow-on record has been absorbed into the canonical case page grand-jury-indicts-knoxville-woman-previously-arrested-in-murder-for-hire-plot. No visible cross-border mechanism is documented, so it is not treated as a separate international-cooperation operation."
 collection_url: https://www.justice.gov/usao-edtn/pr/grand-jury-indicts-knoxville-woman-previously-arrested-murder-hire-plot-0
 created: 2026-04-17
 text_status: parsed

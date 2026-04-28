@@ -3,7 +3,7 @@ type: source
 title: "Local victim of cryptocurrency scam gets good news"
 source_type: news
 publisher: "Bryan County News"
-author: "Staff"
+author: Staff
 publish_date: 2025-11-25
 ingest_date: 2026-04-25
 language: en
@@ -16,6 +16,8 @@ key_findings:
   - "Hometown Richmond Hill local newspaper coverage of the SDGA forfeiture and victim restitution."
 collection_url: https://www.bryancountynews.com/news/local-victim-of-cryptocurrency-scam-gets-good-news/
 created: 2026-04-25
+raw_path: raw/news/2025-11-25_bryancountynews_local-victim-cryptocurrency-scam-gets-good-news.md
+copyright_policy: summary-only
 ---
 ## Source Summary
 

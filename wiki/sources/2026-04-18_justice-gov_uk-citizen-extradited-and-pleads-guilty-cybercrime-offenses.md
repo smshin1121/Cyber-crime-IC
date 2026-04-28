@@ -13,15 +13,18 @@ credibility: confirmed
 sensitivity: public
 pages_updated:
 
-key_findings:
-  - "Secure .gov websites use HTTPS A lock ( Lock Locked padlock ) or https:// means you’ve safely connected to the .gov website. Share sensitive information only on official, secure websites."
 collection_url: https://www.justice.gov/usao-sdny/pr/uk-citizen-extradited-and-pleads-guilty-cybercrime-offenses
 created: 2026-04-18
 updated: 2026-04-18
 duplicate_of: "[[2023-05-09_justice-gov_u-k-citizen-extradited-and-pleads-guilty-to-cybercrime-offenses]]"
 duplicate_reason: same_collection_url
-duplicate_key: "https://www.justice.gov/usao-sdny/pr/uk-citizen-extradited-and-pleads-guilty-cybercrime-offenses"
+duplicate_key: https://www.justice.gov/usao-sdny/pr/uk-citizen-extradited-and-pleads-guilty-cybercrime-offenses
 duplicate_normalized_at: 2026-04-26
+text_status: source-digest
+storage_mode: source-digest
+content_hash: sha256:5fa1c429c4713f407ee4d69405ceb44b407ea2115567849f7c94514bb6cd0b28
+word_count: 105
+extraction_date: 2026-04-28
 ---
 ## Source Summary
 

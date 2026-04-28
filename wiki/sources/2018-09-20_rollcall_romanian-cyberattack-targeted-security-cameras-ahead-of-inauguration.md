@@ -3,7 +3,7 @@ type: source
 title: "Romanian Cyberattack Targeted Security Cameras Ahead of Inauguration"
 raw_path: raw/news/2018-09-20_rollcall_romanian-cyberattack-targeted-security-cameras-ahead-of-inauguration.md
 source_type: news
-publisher: Roll Call
+publisher: "Roll Call"
 author: ""
 publish_date: 2018-09-20
 ingest_date: 2026-04-25
@@ -19,6 +19,7 @@ key_findings:
   - "Compromised infrastructure was being used to attempt mass attack on up to 170,000 additional victims."
 collection_url: https://rollcall.com/2018/09/20/romanian-cyberattack-targeted-security-cameras-ahead-of-inauguration/
 created: 2026-04-25
+copyright_policy: summary-only
 ---
 ## Source Summary
 

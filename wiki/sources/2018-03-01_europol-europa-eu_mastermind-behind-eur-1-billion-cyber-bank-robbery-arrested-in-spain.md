@@ -20,6 +20,11 @@ created: 2026-04-17
 defendant_names:
   - "Billion Cyber Bank Robbery"
 updated: 2026-04-18
+text_status: source-digest
+storage_mode: source-digest
+content_hash: sha256:e7c2f87428f22522f12a44d3e772ee7b3c039d09a2c234b91e58faba82b8bc1d
+word_count: 240
+extraction_date: 2026-04-28
 ---
 ## Source Summary
 

@@ -16,6 +16,8 @@ key_findings:
   - "KOIN Portland metro confirmation"
 collection_url: https://www.koin.com/local/clark-county/man-gets-20-year-sentence-for-traveling-cross-country-to-sexually-abuse-vancouver-teen/
 created: 2026-04-25
+raw_path: raw/news/2024-04-15_koin_florida-man-20-year-sentence-cross-country-vancouver.md
+copyright_policy: summary-only
 ---
 ## Source Summary
 

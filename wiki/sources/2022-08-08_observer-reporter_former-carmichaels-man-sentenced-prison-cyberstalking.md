@@ -2,8 +2,8 @@
 type: source
 title: "Former Carmichaels man sentenced to prison for cyberstalking"
 source_type: news
-publisher: "Observer-Reporter"
-author: "Staff"
+publisher: Observer-Reporter
+author: Staff
 publish_date: 2022-08-08
 ingest_date: 2026-04-25
 language: en
@@ -17,6 +17,8 @@ key_findings:
   - "Western PA local newspaper coverage of the cyberstalking case"
 collection_url: https://observer-reporter.com/news/localnews/former-carmichaels-man-sentenced-to-prison-for-cyberstalking/article_60a62504-1747-11ed-8770-c3a1a43b222c.html
 created: 2026-04-25
+raw_path: raw/news/2022-08-08_observer-reporter_former-carmichaels-man-sentenced-prison-cyberstalking.md
+copyright_policy: summary-only
 ---
 ## Source Summary
 

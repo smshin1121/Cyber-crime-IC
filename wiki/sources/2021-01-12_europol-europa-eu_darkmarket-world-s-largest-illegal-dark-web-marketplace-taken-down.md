@@ -12,11 +12,16 @@ reliability: high
 credibility: confirmed
 sensitivity: public
 pages_updated:
-  []
+
 key_findings:
-  - "DarkMarket was, at the time of its shutdown on 11 January 2021, the world's largest illegal darknet marketplace by user count. The takedown was led by the cybercrime unit of the Koblenz Public Prosecutor's Office and [[germany-bka|Germany's Federal Criminal Police Office (BKA)]], with coordination through [[europol-ec3|Europol's European Cybercrime Centre (EC3)]]. The operation resulted in the arrest of a 34-year-old Australian national near the German-Danish border, the seizure of more than 20 servers in [[moldova|Moldova]] and [[ukraine|Ukraine]], and the recovery of intelligence on approximately 500,000 users and 2,400 vendors. The intelligence gathered from DarkMarket's infrastructure directly enabled [[operation-dark-huntor|Operation Dark HunTOR]] nine months later, which produced 150 arrests across nine countries."
+  - "DarkMarket was, at the time of its shutdown on 11 January 2021, the world's largest illegal darknet marketplace by user count. The takedown was led by the cybercrime unit of the Koblenz Public Prosecutor's Office and Germany's Federal Criminal Police Office (BKA), with coordination through Europol's European Cybercrime Centre (EC3). The operation resulted in the arrest of a 34-year-old Australian national near the German-Danish border, the seizure of more than 20 servers in Moldova and Ukraine."
 collection_url: https://www.europol.europa.eu/media-press/newsroom/news/darkmarket-worlds-largest-illegal-dark-web-marketplace-taken-down
 created: 2026-04-17
+text_status: source-digest
+storage_mode: source-digest
+content_hash: sha256:eb03a5498c8e162f286f75a4864b34aa204b42f8e1179cbaef9475f53ef3d4b2
+word_count: 277
+extraction_date: 2026-04-28
 ---
 ## Source Summary
 

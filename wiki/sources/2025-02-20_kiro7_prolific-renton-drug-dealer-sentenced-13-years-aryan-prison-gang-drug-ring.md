@@ -3,7 +3,7 @@ type: source
 title: "Prolific Renton drug dealer sentenced to 13 years for role in Aryan prison gang drug ring"
 source_type: news
 publisher: "KIRO 7 News Seattle"
-author: "Staff"
+author: Staff
 publish_date: 2025-02-20
 ingest_date: 2026-04-25
 language: en
@@ -17,6 +17,8 @@ key_findings:
   - "Confirms federal arrest day involved 10 SWAT teams"
 collection_url: https://www.kiro7.com/news/local/prolific-renton-drug-dealer-sentenced-13-years-role-aryan-prison-gang-drug-ring/JCZGSLUQNBH55LXWA47DJCMVM4/
 created: 2026-04-25
+raw_path: raw/news/2025-02-20_kiro7_prolific-renton-drug-dealer-sentenced-13-years-aryan-prison-gang-drug-ring.md
+copyright_policy: summary-only
 ---
 ## Source Summary
 

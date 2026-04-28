@@ -19,8 +19,13 @@ collection_url: https://www.courtlistener.com/opinion/7311405/united-states-v-ul
 created: 2026-04-17
 duplicate_of: "[[2015-01-07_district-court-sd-new-york_united-states-v-ulbricht]]"
 duplicate_reason: same_collection_url
-duplicate_key: "https://www.courtlistener.com/opinion/7311405/united-states-v-ulbricht/"
+duplicate_key: https://www.courtlistener.com/opinion/7311405/united-states-v-ulbricht/
 duplicate_normalized_at: 2026-04-26
+text_status: source-digest
+storage_mode: source-digest
+content_hash: sha256:cc31633d29fda64a07c4e1321afe2afd46a2e335a3d2d0013b30476a2d638a5d
+word_count: 114
+extraction_date: 2026-04-28
 ---
 ## Source Summary
 

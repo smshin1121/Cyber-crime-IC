@@ -14,7 +14,7 @@ sensitivity: public
 pages_updated:
   - operation-monroe-washington-man-sentenced-to-10-years-in-prison-for-role-as-right-hand-man-in-deadly-drug-distribution-r
 key_findings:
-  - "This domestic-only U.S. follow-on record has been absorbed into the canonical case page [[monroe-washington-man-sentenced-to-10-years-in-prison-for-role-as-right-hand-man-in-deadly-drug-distribution-r]]. No visible cross-border mechanism is documented, so it is not treated as a separate international-cooperation operation."
+  - "This domestic-only U.S. follow-on record has been absorbed into the canonical case page monroe-washington-man-sentenced-to-10-years-in-prison-for-role-as-right-hand-man-in-deadly-drug-distribution-r. No visible cross-border mechanism is documented, so it is not treated as a separate international-cooperation operation."
 collection_url: https://www.justice.gov/usao-wdwa/pr/monroe-washington-man-sentenced-10-years-prison-role-right-hand-man-deadly-drug
 created: 2026-04-17
 text_status: parsed

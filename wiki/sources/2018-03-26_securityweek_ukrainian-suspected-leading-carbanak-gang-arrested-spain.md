@@ -20,6 +20,7 @@ key_findings:
   - "Seized: EUR 500K computers/jewelry, 2 luxury vehicles, 2 houses, ~15K bitcoins."
 collection_url: https://www.securityweek.com/ukrainian-suspected-leading-carbanak-gang-arrested-spain/
 created: 2026-04-25
+copyright_policy: summary-only
 ---
 ## Source Summary
 

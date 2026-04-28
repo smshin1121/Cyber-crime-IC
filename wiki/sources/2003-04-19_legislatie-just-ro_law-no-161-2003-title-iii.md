@@ -12,11 +12,12 @@ reliability: medium
 credibility: confirmed
 sensitivity: public
 pages_updated:
-  []
+
 key_findings:
-  - "Romania is a major European cybercrime cooperation partner. It is a **[[budapest-convention|Budapest Convention]] party** since 2004 (one of the earliest) and hosts the **Council of Europe Cybercrime Programme Office ([[c-proc|C-PROC]])** in Bucharest, which runs global capacity-building programmes."
+  - "Romania is a major European cybercrime cooperation partner. It is a **Budapest Convention party** since 2004 (one of the earliest) and hosts the **Council of Europe Cybercrime Programme Office (C-PROC)** in Bucharest, which runs global capacity-building programmes."
 collection_url: https://legislatie.just.ro/Public/DetaliiDocument/43323
 created: 2026-04-17
+copyright_policy: summary-only
 ---
 ## Source Summary
 

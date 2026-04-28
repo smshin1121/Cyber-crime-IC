@@ -3,7 +3,7 @@ type: source
 title: "Third Person Admits To Role In Email Scheme Targeting CFOs, Controllers"
 source_type: news
 publisher: "Fairfield Daily Voice"
-author: "Staff"
+author: Staff
 publish_date: 2019-05-22
 ingest_date: 2026-04-25
 language: en
@@ -17,6 +17,8 @@ key_findings:
   - "Underscores Connecticut victim ($440K) and the rarity of the Mauritius-to-U.S. extradition."
 collection_url: https://dailyvoice.com/connecticut/fairfield/news/third-person-admits-to-role-in-email-scheme-targeting-cfos-controllers/767750/
 created: 2026-04-25
+raw_path: raw/news/2019-05-22_dailyvoice_third-person-admits-to-role-in-email-scheme-targeting-cfos-controllers.md
+copyright_policy: summary-only
 ---
 ## Source Summary
 

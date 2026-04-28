@@ -3,7 +3,7 @@ type: source
 title: "Utah woman admits to ordering 'hitman for hire' using dark web, Bitcoin"
 source_type: news
 publisher: "ABC4 Utah"
-author: "Staff"
+author: Staff
 publish_date: 2024-05-30
 ingest_date: 2026-04-25
 language: en
@@ -17,6 +17,8 @@ key_findings:
   - "ABC4 confirms plea-stage details and the foreign-government IC entry point."
 collection_url: https://www.abc4.com/news/wasatch-front/woman-bitcoin-hitman/
 created: 2026-04-25
+raw_path: raw/news/2024-05-30_abc4_utah-woman-bitcoin-hitman-dark-web-admits.md
+copyright_policy: summary-only
 ---
 ## Source Summary
 

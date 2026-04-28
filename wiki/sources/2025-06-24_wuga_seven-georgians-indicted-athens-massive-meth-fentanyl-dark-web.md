@@ -3,7 +3,7 @@ type: source
 title: "Seven Georgians indicted in Athens for massive meth/fentanyl operation on the dark web"
 source_type: news
 publisher: "WUGA (Athens NPR)"
-author: "Staff"
+author: Staff
 publish_date: 2025-06-24
 ingest_date: 2026-04-25
 language: en
@@ -16,6 +16,8 @@ key_findings:
   - "Athens NPR affiliate coverage of the WallStreetBets indictment in M.D. Ga."
 collection_url: https://www.wuga.org/local-news/2025-06-24/seven-georgians-indicted-in-athens-for-massive-meth-fentanyl-operation-on-the-dark-web
 created: 2026-04-25
+raw_path: raw/news/2025-06-24_wuga_seven-georgians-indicted-athens-massive-meth-fentanyl-dark-web.md
+copyright_policy: summary-only
 ---
 ## Source Summary
 

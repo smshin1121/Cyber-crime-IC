@@ -13,8 +13,6 @@ credibility: confirmed
 sensitivity: public
 pages_updated:
 
-key_findings:
-  - "Secure .gov websites use HTTPS A lock ( Lock Locked padlock ) or https:// means you’ve safely connected to the .gov website. Share sensitive information only on official, secure websites."
 collection_url: https://www.justice.gov/usao-sdny/pr/senior-adviser-operator-silk-road-online-black-market-sentenced-20-years-prison
 created: 2026-04-17
 defendant_names:
@@ -22,8 +20,13 @@ defendant_names:
 updated: 2026-04-18
 duplicate_of: "[[2023-07-11_justice-gov_senior-adviser-to-the-operator-of-the-silk-road-online-black-market-sentenced-to]]"
 duplicate_reason: same_collection_url
-duplicate_key: "https://www.justice.gov/usao-sdny/pr/senior-adviser-operator-silk-road-online-black-market-sentenced-20-years-prison"
+duplicate_key: https://www.justice.gov/usao-sdny/pr/senior-adviser-operator-silk-road-online-black-market-sentenced-20-years-prison
 duplicate_normalized_at: 2026-04-26
+text_status: source-digest
+storage_mode: source-digest
+content_hash: sha256:85ab4341a7c9fd158507785b1c656d45015a6d1713c7b46e6f9285669b900813
+word_count: 137
+extraction_date: 2026-04-28
 ---
 ## Source Summary
 

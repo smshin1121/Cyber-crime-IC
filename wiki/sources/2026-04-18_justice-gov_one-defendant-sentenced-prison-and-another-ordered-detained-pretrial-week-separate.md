@@ -22,8 +22,13 @@ defendant_names:
 updated: 2026-04-18
 duplicate_of: "[[2024-02-02_justice-gov_one-defendant-sentenced-prison-and-another-ordered-detained-pretrial-week-separate]]"
 duplicate_reason: same_collection_url
-duplicate_key: "https://www.justice.gov/usao-wdpa/pr/one-defendant-sentenced-prison-and-another-ordered-detained-pretrial-week-separate"
+duplicate_key: https://www.justice.gov/usao-wdpa/pr/one-defendant-sentenced-prison-and-another-ordered-detained-pretrial-week-separate
 duplicate_normalized_at: 2026-04-26
+text_status: source-digest
+storage_mode: source-digest
+content_hash: sha256:6deba1e4277f1170e9bec764e64b68d9c2b5a19d8b1e2e9e593de91782229a49
+word_count: 128
+extraction_date: 2026-04-28
 ---
 ## Source Summary
 

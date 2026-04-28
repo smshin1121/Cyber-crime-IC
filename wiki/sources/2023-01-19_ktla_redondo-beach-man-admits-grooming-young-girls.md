@@ -2,8 +2,8 @@
 type: source
 title: "Redondo Beach man admits to grooming young girls, encouraging to harm themselves and kill parents"
 source_type: news
-publisher: "KTLA"
-author: "Staff"
+publisher: KTLA
+author: Staff
 publish_date: 2023-01-19
 ingest_date: 2026-04-25
 language: en
@@ -17,6 +17,8 @@ key_findings:
   - "Encouraged self-harm via online instructions"
 collection_url: https://ktla.com/news/local-news/redondo-beach-man-admits-to-grooming-young-girls-encouraging-to-harm-themselves-and-kill-parents/
 created: 2026-04-25
+raw_path: raw/news/2023-01-19_ktla_redondo-beach-man-admits-grooming-young-girls.md
+copyright_policy: summary-only
 ---
 ## Source Summary
 

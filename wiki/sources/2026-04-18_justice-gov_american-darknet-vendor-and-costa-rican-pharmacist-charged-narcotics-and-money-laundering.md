@@ -23,8 +23,13 @@ defendant_names:
 updated: 2026-04-18
 duplicate_of: "[[2020-08-04_justice-gov_american-darknet-vendor-and-costa-rican-pharmacist-charged-with-narcotics-and-mo]]"
 duplicate_reason: same_collection_url
-duplicate_key: "https://www.justice.gov/usao-dc/pr/american-darknet-vendor-and-costa-rican-pharmacist-charged-narcotics-and-money-laundering"
+duplicate_key: https://www.justice.gov/usao-dc/pr/american-darknet-vendor-and-costa-rican-pharmacist-charged-narcotics-and-money-laundering
 duplicate_normalized_at: 2026-04-26
+text_status: source-digest
+storage_mode: source-digest
+content_hash: sha256:e26e1c4f92c18bea829360208bf457729554a18dc0885ddf840a4c129684aa6f
+word_count: 147
+extraction_date: 2026-04-28
 ---
 ## Source Summary
 

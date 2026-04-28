@@ -2,7 +2,7 @@
 type: source
 title: "Latvian Charged in Trickbot Cybercrime Spree"
 source_type: news
-publisher: "ISSSource"
+publisher: ISSSource
 author: "ISSSource staff"
 publish_date: 2021-06-14
 ingest_date: 2026-04-25
@@ -17,6 +17,8 @@ key_findings:
   - "Confirms maximum penalties: up to 30 years per fraud count + mandatory two-year ID theft enhancements."
 collection_url: https://www.isssource.com/latvian-charged-in-trickbot-cybercrime-spree/
 created: 2026-04-25
+raw_path: raw/news/2021-06-14_isssource_latvian-charged-trickbot-cybercrime-spree.md
+copyright_policy: summary-only
 ---
 ## Source Summary
 

@@ -23,8 +23,13 @@ defendant_names:
 updated: 2026-04-18
 duplicate_of: "[[2022-12-16_justice-gov_federal-grand-jury-indicts-2-on-charges-of-selling-fentanyl-other-narcotics-thro]]"
 duplicate_reason: same_collection_url
-duplicate_key: "https://www.justice.gov/usao-cdca/pr/federal-grand-jury-indicts-2-charges-selling-fentanyl-other-narcotics-through-darknet"
+duplicate_key: https://www.justice.gov/usao-cdca/pr/federal-grand-jury-indicts-2-charges-selling-fentanyl-other-narcotics-through-darknet
 duplicate_normalized_at: 2026-04-26
+text_status: source-digest
+storage_mode: source-digest
+content_hash: sha256:1ae0d1d90ff66c9fa410818c71bba76ef863f7007f2707ae7937f59492d9e499
+word_count: 128
+extraction_date: 2026-04-28
 ---
 ## Source Summary
 

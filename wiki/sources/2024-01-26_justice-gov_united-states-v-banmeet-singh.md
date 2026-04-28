@@ -13,8 +13,6 @@ credibility: confirmed
 sensitivity: public
 pages_updated:
 
-key_findings:
-  - "Secure .gov websites use HTTPS A lock ( Lock Locked padlock ) or https:// means you’ve safely connected to the .gov website. Share sensitive information only on official, secure websites."
 collection_url: https://www.justice.gov/archives/opa/pr/dark-web-vendor-pleads-guilty-distributing-narcotics-and-forfeits-150m
 created: 2026-04-17
 defendant_names:
@@ -22,8 +20,13 @@ defendant_names:
 updated: 2026-04-18
 duplicate_of: "[[2024-01-26_justice-gov_dark-web-vendor-pleads-guilty-to-distributing-narcotics-and-forfeits-150m]]"
 duplicate_reason: same_collection_url
-duplicate_key: "https://www.justice.gov/archives/opa/pr/dark-web-vendor-pleads-guilty-distributing-narcotics-and-forfeits-150m"
+duplicate_key: https://www.justice.gov/archives/opa/pr/dark-web-vendor-pleads-guilty-distributing-narcotics-and-forfeits-150m
 duplicate_normalized_at: 2026-04-26
+text_status: source-digest
+storage_mode: source-digest
+content_hash: sha256:cccd7ec9dd443807523ea4bd56e0440338e1b3e92b3c1129e1f19a0bbf627d49
+word_count: 143
+extraction_date: 2026-04-28
 ---
 ## Source Summary
 

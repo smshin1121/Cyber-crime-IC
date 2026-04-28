@@ -13,8 +13,6 @@ credibility: confirmed
 sensitivity: public
 pages_updated:
 
-key_findings:
-  - "Secure .gov websites use HTTPS A lock ( Lock Locked padlock ) or https:// means you’ve safely connected to the .gov website. Share sensitive information only on official, secure websites."
 collection_url: https://www.justice.gov/usao-edmo/pr/new-york-man-indicted-st-louis-accused-selling-counterfeit-xanax-dark-web
 created: 2026-04-18
 defendant_names:
@@ -22,8 +20,13 @@ defendant_names:
 updated: 2026-04-18
 duplicate_of: "[[2023-04-14_justice-gov_new-york-man-indicted-in-st-louis-accused-of-selling-counterfeit-xanax-on-dark-w]]"
 duplicate_reason: same_collection_url
-duplicate_key: "https://www.justice.gov/usao-edmo/pr/new-york-man-indicted-st-louis-accused-selling-counterfeit-xanax-dark-web"
+duplicate_key: https://www.justice.gov/usao-edmo/pr/new-york-man-indicted-st-louis-accused-selling-counterfeit-xanax-dark-web
 duplicate_normalized_at: 2026-04-26
+text_status: source-digest
+storage_mode: source-digest
+content_hash: sha256:955c06dafe91faffb9ed60b5478afa7f9a0aa0ad035a544866738a6258f7a968
+word_count: 120
+extraction_date: 2026-04-28
 ---
 ## Source Summary
 

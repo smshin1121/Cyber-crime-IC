@@ -13,8 +13,6 @@ credibility: confirmed
 sensitivity: public
 pages_updated:
 
-key_findings:
-  - "Secure .gov websites use HTTPS A lock ( Lock Locked padlock ) or https:// means you’ve safely connected to the .gov website. Share sensitive information only on official, secure websites."
 collection_url: https://www.justice.gov/usao-dc/pr/tennessee-man-pleads-hacking-us-supreme-court-americorps-and-va-health-system
 created: 2026-04-18
 defendant_names:
@@ -22,8 +20,13 @@ defendant_names:
 updated: 2026-04-18
 duplicate_of: "[[2026-01-16_justice-gov_tennessee-man-pleads-in-hacking-u-s-supreme-court-americorps-and-va-health-syste]]"
 duplicate_reason: same_collection_url
-duplicate_key: "https://www.justice.gov/usao-dc/pr/tennessee-man-pleads-hacking-us-supreme-court-americorps-and-va-health-system"
+duplicate_key: https://www.justice.gov/usao-dc/pr/tennessee-man-pleads-hacking-us-supreme-court-americorps-and-va-health-system
 duplicate_normalized_at: 2026-04-26
+text_status: source-digest
+storage_mode: source-digest
+content_hash: sha256:a573ce2f56c408cee7e6cf4df97a9bfe75b845d434169ccc0178610f2da1db25
+word_count: 112
+extraction_date: 2026-04-28
 ---
 ## Source Summary
 

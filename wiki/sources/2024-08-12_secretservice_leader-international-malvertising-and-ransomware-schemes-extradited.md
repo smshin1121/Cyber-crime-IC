@@ -18,6 +18,12 @@ key_findings:
   - "Documents parallel District of New Jersey and Eastern District of Virginia indictments"
 collection_url: https://www.secretservice.gov/newsroom/releases/2024/08/leader-international-malvertising-and-ransomware-schemes-extradited
 created: 2026-04-25
+raw_path: raw/press-releases/2024-08-12_secretservice_leader-international-malvertising-and-ransomware-schemes-extradited.md
+text_status: source-digest
+storage_mode: source-digest
+content_hash: sha256:e1df3d129d507e113d9ff677c3afc236bcdd3dc8d071e21c7384d14ec675ad74
+word_count: 172
+extraction_date: 2026-04-28
 ---
 ## Source Summary
 

@@ -15,13 +15,18 @@ pages_updated:
   - us-v-odufuye-nwoke-bec
   - operation-wirewire
 key_findings:
-  - "United States v. Odufuye and Nwoke is a District of Connecticut BEC case that provides a concrete judicial counterpart to [[operation-wirewire|Operation WireWire]]. The case matters because it moved beyond arrest headlines into extradition, guilty pleas, sentencing, and restitution."
+  - "United States v. Odufuye and Nwoke is a District of Connecticut BEC case that provides a concrete judicial counterpart to Operation WireWire. The case matters because it moved beyond arrest headlines into extradition, guilty pleas, sentencing, and restitution."
 collection_url: https://www.justice.gov/usao-ct/pr/nigerian-nationals-charged-operating-business-compromise-scheme
 created: 2026-04-22
 duplicate_of: "[[2016-12-20_dct_odufuye-nwoke-bec-indictment]]"
 duplicate_reason: same_collection_url
-duplicate_key: "https://www.justice.gov/usao-ct/pr/nigerian-nationals-charged-operating-business-compromise-scheme"
+duplicate_key: https://www.justice.gov/usao-ct/pr/nigerian-nationals-charged-operating-business-compromise-scheme
 duplicate_normalized_at: 2026-04-26
+text_status: source-digest
+storage_mode: source-digest
+content_hash: sha256:5d9b7795103233158640dc90b177eb48a992cffbba6ce4d5c070dcd13a503f4f
+word_count: 170
+extraction_date: 2026-04-28
 ---
 ## Source Summary
 

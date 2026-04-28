@@ -3,7 +3,7 @@ type: source
 title: "Tacoma Man Sentenced to 66 Months After Trafficking 25+ Pounds of Meth and 20,000 Fentanyl Pills"
 source_type: news
 publisher: "DailyFly News"
-author: "Staff"
+author: Staff
 publish_date: 2026-01-28
 ingest_date: 2026-04-25
 language: en
@@ -19,8 +19,10 @@ collection_url: https://www.dailyfly.com/2026/01/28/tacoma-man-sentenced-to-66-m
 created: 2026-04-25
 duplicate_of: "[[2026-01-27_dailyfly_tacoma-man-sentenced-66-months-25-pounds-meth-fentanyl]]"
 duplicate_reason: same_collection_url
-duplicate_key: "https://www.dailyfly.com/2026/01/28/tacoma-man-sentenced-to-66-months-after-trafficking-25-pounds-of-meth-and-20000-fentanyl-pills/"
+duplicate_key: https://www.dailyfly.com/2026/01/28/tacoma-man-sentenced-to-66-months-after-trafficking-25-pounds-of-meth-and-20000-fentanyl-pills/
 duplicate_normalized_at: 2026-04-26
+raw_path: raw/news/2026-01-28_dailyfly_tacoma-man-sentenced-66-months-trafficking-25-pounds-meth-20000-fentanyl-pills.md
+copyright_policy: summary-only
 ---
 ## Source Summary
 

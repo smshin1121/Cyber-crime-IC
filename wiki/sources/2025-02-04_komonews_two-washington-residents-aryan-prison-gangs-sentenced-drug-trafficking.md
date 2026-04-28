@@ -3,7 +3,7 @@ type: source
 title: "Two Washington residents linked to Aryan prison gangs sentenced for drug trafficking"
 source_type: news
 publisher: "KOMO News"
-author: "Staff"
+author: Staff
 publish_date: 2025-02-04
 ingest_date: 2026-04-25
 language: en
@@ -19,8 +19,10 @@ collection_url: https://komonews.com/news/local/two-washingtonians-linked-to-ary
 created: 2026-04-25
 duplicate_of: "[[2025-01-31_komonews_two-washington-residents-linked-aryan-prison-gangs-sentenced-drug-trafficking]]"
 duplicate_reason: same_collection_url
-duplicate_key: "https://komonews.com/news/local/two-washingtonians-linked-to-aryan-prison-gangs-sentenced-for-drug-trafficking-meth-fentanyl-crime-arrest-dea-fbi-investigation"
+duplicate_key: https://komonews.com/news/local/two-washingtonians-linked-to-aryan-prison-gangs-sentenced-for-drug-trafficking-meth-fentanyl-crime-arrest-dea-fbi-investigation
 duplicate_normalized_at: 2026-04-26
+raw_path: raw/news/2025-02-04_komonews_two-washington-residents-aryan-prison-gangs-sentenced-drug-trafficking.md
+copyright_policy: summary-only
 ---
 ## Source Summary
 

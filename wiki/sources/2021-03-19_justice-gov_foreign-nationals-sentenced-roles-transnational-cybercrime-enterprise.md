@@ -3,7 +3,7 @@ type: source
 title: "Foreign Nationals Sentenced for Roles in Transnational Cybercrime Enterprise"
 source_type: press-release
 publisher: "US DOJ Office of Public Affairs"
-author: "Staff"
+author: Staff
 publish_date: 2021-03-19
 ingest_date: 2026-04-25
 language: en
@@ -20,8 +20,15 @@ collection_url: https://www.justice.gov/archives/opa/pr/foreign-nationals-senten
 created: 2026-04-25
 duplicate_of: "[[2026-04-17_justice-gov_foreign-nationals-sentenced-for-roles-in-transnational-cybercrime-enterprise]]"
 duplicate_reason: same_collection_url
-duplicate_key: "https://www.justice.gov/archives/opa/pr/foreign-nationals-sentenced-roles-transnational-cybercrime-enterprise"
+duplicate_key: https://www.justice.gov/archives/opa/pr/foreign-nationals-sentenced-roles-transnational-cybercrime-enterprise
 duplicate_normalized_at: 2026-04-26
+raw_path: raw/press-releases/2021-03-19_justice-gov_foreign-nationals-sentenced-roles-transnational-cybercrime-enterprise.md
+text_status: parsed
+content_hash: sha256:a99d691a0de3f67e130657e653460dc26dac63b6e9c211ca410b7eaac2448f14
+word_count: 956
+extraction_date: 2026-04-28
+last_fetcher: doj_fetch
+storage_mode: fulltext
 ---
 ## Source Summary
 

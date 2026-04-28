@@ -14,7 +14,7 @@ sensitivity: public
 pages_updated:
 
 key_findings:
-  - "Greece became the **52nd State Party** to the [[budapest-convention|Budapest Convention]] when it deposited its instrument of ratification in 2017, following the enactment of **Law 4411/2016**. This single omnibus law simultaneously ratified the Budapest Convention and its First Additional Protocol, and transposed **EU Directive 2013/40/EU** on attacks against information systems."
+  - "Greece became the **52nd State Party** to the Budapest Convention when it deposited its instrument of ratification in 2017, following the enactment of **Law 4411/2016**. This single omnibus law simultaneously ratified the Budapest Convention and its First Additional Protocol, and transposed **EU Directive 2013/40/EU** on attacks against information systems."
 collection_url: https://www.coe.int/en/web/cybercrime/-/ratification-by-greece-to-the-budapest-convention-on-cybercrime-and-its-protocol-on-xenophobia-and-racism
 created: 2026-04-17
 text_status: parsed

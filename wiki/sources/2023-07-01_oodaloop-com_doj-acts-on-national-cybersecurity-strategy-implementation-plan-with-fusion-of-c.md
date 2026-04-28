@@ -14,7 +14,7 @@ sensitivity: public
 pages_updated:
 
 key_findings:
-  - "The **US Department of Justice (DOJ)** is the central legal authority for international cybercrime cooperation involving the United States. Through its **Office of International Affairs (OIA)**, DOJ serves as the **central authority** for all US bilateral Mutual Legal Assistance Treaties (30+ MLATs). Through the **Computer Crime and Intellectual Property Section (CCIPS)** in the Criminal Division, DOJ leads federal cybercrime prosecution and serves as the **Budapest Convention Art. 35 contact point**."
+  - "The **US Department of Justice (DOJ)** is the central legal authority for international cybercrime cooperation involving the United States. Through its **Office of International Affairs (OIA)**, DOJ serves as the **central authority** for all US bilateral Mutual Legal Assistance Treaties (30+ MLATs). Through the **Computer Crime and Intellectual Property Section (CCIPS)** in the Criminal Division, DOJ leads federal cybercrime prosecution and serves as the **Budapest Convention Art. 35 contact."
 collection_url: https://oodaloop.com/analysis/ooda-original/doj-acts-on-national-cybersecurity-strategy-implementation-plan-with-fusion-of-cyber-crypto-crime-units/
 created: 2026-04-17
 text_status: summarized

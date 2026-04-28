@@ -3,7 +3,7 @@ type: source
 title: "Laredo Educator Arrested for Production of Child Pornography"
 source_type: news
 publisher: "Texas Scorecard"
-author: "Staff"
+author: Staff
 publish_date: 2024-12-09
 ingest_date: 2026-04-25
 language: en
@@ -16,6 +16,8 @@ key_findings:
   - "FBI search warrant executed December 1, 2024 at Lechuga's Laredo residence."
 collection_url: https://texasscorecard.com/local/laredo-educator-arrested-for-production-of-child-pornography/
 created: 2026-04-25
+raw_path: raw/news/2024-12-09_texasscorecard_laredo-educator-arrested-csam.md
+copyright_policy: summary-only
 ---
 ## Source Summary
 

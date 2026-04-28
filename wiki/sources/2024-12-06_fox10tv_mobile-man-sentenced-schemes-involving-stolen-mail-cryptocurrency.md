@@ -3,7 +3,7 @@ type: source
 title: "Mobile man sentenced for schemes involving stolen mail, cryptocurrency"
 source_type: news
 publisher: "Fox10 TV (WALA Mobile)"
-author: "Staff"
+author: Staff
 publish_date: 2024-12-06
 ingest_date: 2026-04-25
 language: en
@@ -18,6 +18,8 @@ key_findings:
   - "Documents USPS arrow-key scheme with postal-employee co-conspirator"
 collection_url: https://www.fox10tv.com/2024/12/06/mobile-man-sentenced-schemes-involving-stolen-mail-cryptocurrency/
 created: 2026-04-25
+raw_path: raw/news/2024-12-06_fox10tv_mobile-man-sentenced-schemes-involving-stolen-mail-cryptocurrency.md
+copyright_policy: summary-only
 ---
 ## Source Summary
 

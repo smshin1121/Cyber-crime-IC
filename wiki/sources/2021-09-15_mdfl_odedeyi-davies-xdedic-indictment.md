@@ -13,8 +13,6 @@ credibility: confirmed
 sensitivity: public
 pages_updated:
   - xdedic-marketplace-takedown
-key_findings:
-  - "Secure .gov websites use HTTPS A lock ( Lock Locked padlock ) or https:// means you’ve safely connected to the .gov website. Share sensitive information only on official, secure websites."
 collection_url: https://www.justice.gov/usao-mdfl/pr/four-men-federally-charged-transnational-wire-fraud-and-identity-theft-conspiracy
 created: 2026-04-17
 defendant_names:
@@ -23,8 +21,13 @@ defendant_names:
 updated: 2026-04-18
 duplicate_of: "[[2021-09-15_justice-gov_four-men-federally-charged-in-transnational-wire-fraud-and-identity-theft-conspi]]"
 duplicate_reason: same_collection_url
-duplicate_key: "https://www.justice.gov/usao-mdfl/pr/four-men-federally-charged-transnational-wire-fraud-and-identity-theft-conspiracy"
+duplicate_key: https://www.justice.gov/usao-mdfl/pr/four-men-federally-charged-transnational-wire-fraud-and-identity-theft-conspiracy
 duplicate_normalized_at: 2026-04-26
+text_status: source-digest
+storage_mode: source-digest
+content_hash: sha256:d54af87e8ec8c4fbe0954eb4551f547aa8d2186060533bde7c61ba7c010949ea
+word_count: 221
+extraction_date: 2026-04-28
 ---
 ## Source Summary
 

@@ -23,8 +23,14 @@ created: 2026-04-18
 updated: 2026-04-18
 duplicate_of: "[[2024-09-26_home-treasury-gov_treasury-takes-coordinated-actions-against-illicit-russian-virtual-currency-exch]]"
 duplicate_reason: same_collection_url
-duplicate_key: "https://home.treasury.gov/news/press-releases/jy2616"
+duplicate_key: https://home.treasury.gov/news/press-releases/jy2616
 duplicate_normalized_at: 2026-04-26
+raw_path: raw/press-releases/2024-09-26_treasury_cryptex-pm2btc-coordinated-actions.md
+text_status: source-digest
+storage_mode: source-digest
+content_hash: sha256:3230ae6cd99736a9ba37752050c6c169049d8431c2229f83125dd8dc4f225571
+word_count: 154
+extraction_date: 2026-04-28
 ---
 ## Source Summary
 

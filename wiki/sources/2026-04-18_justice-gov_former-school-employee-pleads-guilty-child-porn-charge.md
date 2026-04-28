@@ -22,8 +22,13 @@ defendant_names:
 updated: 2026-04-18
 duplicate_of: "[[2023-11-03_justice-gov_former-school-employee-pleads-guilty-to-child-porn-charge]]"
 duplicate_reason: same_collection_url
-duplicate_key: "https://www.justice.gov/usao-ks/pr/former-school-employee-pleads-guilty-child-porn-charge"
+duplicate_key: https://www.justice.gov/usao-ks/pr/former-school-employee-pleads-guilty-child-porn-charge
 duplicate_normalized_at: 2026-04-26
+text_status: source-digest
+storage_mode: source-digest
+content_hash: sha256:31cab437e7ed84b634816442c91ca61fdba2e4011cabf5a05a957c6291a818ad
+word_count: 125
+extraction_date: 2026-04-28
 ---
 ## Source Summary
 

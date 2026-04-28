@@ -3,7 +3,7 @@ type: source
 title: "4 charged with drug trafficking on darknet"
 source_type: news
 publisher: "Manteca Bulletin"
-author: "Staff"
+author: Staff
 publish_date: 2020-03-04
 ingest_date: 2026-04-25
 language: en
@@ -17,6 +17,8 @@ key_findings:
   - "Local press matched to USAO district geography."
 collection_url: https://www.mantecabulletin.com/news/state/4-charged-drug-trafficking-darknet/
 created: 2026-04-25
+raw_path: raw/news/2020-03-04_manteca-bulletin_4-charged-drug-trafficking-darknet.md
+copyright_policy: summary-only
 ---
 ## Source Summary
 

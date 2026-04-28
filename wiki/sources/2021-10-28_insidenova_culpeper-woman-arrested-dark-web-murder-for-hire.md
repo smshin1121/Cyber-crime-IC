@@ -3,7 +3,7 @@ type: source
 title: "Culpeper woman arrested in dark web murder-for-hire plot"
 source_type: news
 publisher: "InsideNoVa / Culpeper Times"
-author: "Staff"
+author: Staff
 publish_date: 2021-10-28
 ingest_date: 2026-04-25
 language: en
@@ -17,6 +17,8 @@ key_findings:
   - "Provides hometown context and FBI investigation framing."
 collection_url: https://www.insidenova.com/culpeper/culpeper-woman-arrested-in-dark-web-murder-for-hire-plot/article_37633e00-38d3-11ec-a874-9b4762e3fa44.html
 created: 2026-04-25
+raw_path: raw/news/2021-10-28_insidenova_culpeper-woman-arrested-dark-web-murder-for-hire.md
+copyright_policy: summary-only
 ---
 ## Source Summary
 

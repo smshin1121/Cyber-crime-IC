@@ -18,6 +18,13 @@ key_findings:
   - "Sentencing followed extradition from Switzerland and a 2024 guilty plea in the District of Nebraska."
 collection_url: https://www.theregister.com/2024/07/12/icedid_henchman_gets_nine_years/
 created: 2026-04-25
+raw_path: raw/news/2024-07-11_theregister_icedid-kingpin-gets-nine-years-prison.md
+text_status: summarized
+storage_mode: summary-only
+content_hash: sha256:3b5a314c0fb5f1acde1f38cbd6cdb8ab74d20fe007dab33ecdc888813737982d
+word_count: 142
+extraction_date: 2026-04-27
+copyright_policy: summary-only
 ---
 ## Source Summary
 

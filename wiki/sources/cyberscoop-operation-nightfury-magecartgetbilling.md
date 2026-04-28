@@ -1,24 +1,24 @@
 ---
 type: source
 title: "CyberScoop: Indonesian Police Arrest 3 Men for Alleged Magecart-Style Attacks (Operation NightFury / GetBilling)"
-collection_url: "https://cyberscoop.com/magecart-arrest-indonesia-interpol-getbilling/"
-collection_domain: "cyberscoop.com"
-source_type: "news"
-publisher: "CyberScoop"
+collection_url: https://cyberscoop.com/magecart-arrest-indonesia-interpol-getbilling/
+collection_domain: cyberscoop.com
+source_type: news
+publisher: CyberScoop
 author: "Jeff Stone"
-publish_date: "2020-01-27"
-ingest_date: "2026-04-08"
-enriched_date: "2026-04-10"
-language: "en"
-reliability: "medium-high"
-credibility: "probably-true"
-sensitivity: "public"
+publish_date: 2020-01-27
+ingest_date: 2026-04-08
+enriched_date: 2026-04-10
+language: en
+reliability: medium-high
+credibility: probably-true
+sensitivity: public
 source_tier: 3
 pages_updated:
-  - "operation-nightfury"
-  - "interpol"
-  - "indonesia"
-  - "group-ib"
+  - operation-nightfury
+  - interpol
+  - indonesia
+  - group-ib
 key_findings:
   - "3 Indonesian men arrested on 20 December 2019 in Jakarta and Yogyakarta for Magecart-style web skimming attacks, announced by INTERPOL on 27 January 2020 as 'Operation NightFury'"
   - "Suspects faced up to 10 years in prison under Indonesian law if convicted"
@@ -30,10 +30,16 @@ created: 2026-04-08
 updated: 2026-04-10
 duplicate_of: "[[2020-01-24_cyberscoop-com_magecart-arrest-indonesia-interpol-getbilling]]"
 duplicate_reason: same_collection_url
-duplicate_key: "https://cyberscoop.com/magecart-arrest-indonesia-interpol-getbilling/"
+duplicate_key: https://cyberscoop.com/magecart-arrest-indonesia-interpol-getbilling/
 duplicate_normalized_at: 2026-04-26
+raw_path: raw/news/cyberscoop-operation-nightfury-magecartgetbilling.md
+text_status: summarized
+storage_mode: summary-only
+content_hash: sha256:f0ffba9c13f0ad6486015253c5f862de6c5cc5935bbfa85f6a857b1b649bfa6f
+word_count: 343
+extraction_date: 2026-04-27
+copyright_policy: summary-only
 ---
-
 ## Source
 
 - **Publisher**: CyberScoop

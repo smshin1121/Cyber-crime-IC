@@ -1,32 +1,41 @@
 ---
-type: raw_case_document
 title: "Page not found"
-date: 2025-04-17
-court: "U.S. District Court for the District of Columbia"
-jurisdiction: "United States"
-docket_number: 1:25-cr-00120
-case_name: "United States v. Behrouz Parsarad"
-document_type: "indictment announcement"
-source_url: https://www.justice.gov/opa/pr/administrator-nemesis-market-charged-role-operating-darknet-marketplace
-source_authority: DOJ
-related_entities:
-  - "[[nemesis-market-takedown]]"
-  - "[[us-v-parsarad-nemesis]]"
-created: 2026-04-17
-updated: 2026-04-18
+collection_source: "U.S. Department of Justice"
+collection_url: https://www.justice.gov/opa/pr/administrator-nemesis-market-charged-role-operating-darknet-marketplace
+final_url: https://www.justice.gov/opa/pr/administrator-nemesis-market-charged-role-operating-darknet-marketplace
+collection_domain: justice.gov
+collection_date: 2026-04-28
+publish_date: 2025-04-17
+language: en
+status: materialized
+text_status: source-digest
+storage_mode: source-digest
+source_type: court-document
+source_page: wiki/sources/2025-04-17_opa_parsarad-nemesis-indictment.md
+word_count: 141
+content_hash: sha256:8cd6d9fcce3d08430a7a354636f853cc2e6134844a1006a82e5b5e29bfd5c905
+extraction_date: 2026-04-28
+license_basis: official_public_record
 ---
-## Summary
+## Source Archive Record
 
-DOJ announced on April 17, 2025 that Behrouz Parsarad, alleged administrator of Nemesis Market, was charged in the District of Columbia for operating the darknet marketplace seized in March 2024. The release links the later criminal case to the earlier infrastructure takedown.
+This record preserves the source metadata and source-page digest so the source corpus has a separate addressable record for this reference.
 
-## Key Details
+## Source Digest
 
-- Defendant: Behrouz Parsarad
-- Court: U.S. District Court for the District of Columbia
-- Docket: 1:25-cr-00120
-- Alleged conduct: Operating Nemesis Market and facilitating narcotics and cybercrime-service transactions
-- Relationship to operation: Follows the March 20, 2024 multinational seizure of Nemesis infrastructure
+- Title: Page not found
+- Publisher: U.S. Department of Justice
+- Source type: court-document
+- Publication date: 2025-04-17
+- URL: https://www.justice.gov/opa/pr/administrator-nemesis-market-charged-role-operating-darknet-marketplace
 
-## Relevance
+### Source Page Summary
 
-This announcement supplies the public charging record needed to connect the Nemesis takedown to a specific criminal case.
+DOJ announced on 17 April 2025 that Behrouz Parsarad was charged for founding and operating Nemesis Market. The release ties the later criminal case to the 20 March 2024 multinational infrastructure seizure and explicitly highlights German and Lithuanian assistance. This source was generated from raw/case-documents/2025-04-17_opa_parsarad-nemesis-indictment.md and corrected to reflect the actual DOJ announcement rather than the page chrome that had been ingested previously.
+
+## Extraction Notes
+
+- storage_mode: source-digest
+- source_page: wiki/sources/2025-04-17_opa_parsarad-nemesis-indictment.md
+- generated_at: 2026-04-28T13:54:19+00:00
+- full_text: not fetched in this materialization pass

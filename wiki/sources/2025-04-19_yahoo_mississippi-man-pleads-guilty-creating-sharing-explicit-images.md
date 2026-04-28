@@ -3,7 +3,7 @@ type: source
 title: "Mississippi man pleads guilty to creating, sharing child explicit images"
 source_type: news
 publisher: "Yahoo News (syndication)"
-author: "Staff"
+author: Staff
 publish_date: 2025-04-19
 ingest_date: 2026-04-25
 language: en
@@ -18,8 +18,10 @@ collection_url: https://www.yahoo.com/news/mississippi-man-pleads-guilty-creatin
 created: 2026-04-25
 duplicate_of: "[[2025-04-19_yahoo_mississippi-man-pleads-guilty-creating-sharing-child-explicit-images]]"
 duplicate_reason: same_collection_url
-duplicate_key: "https://www.yahoo.com/news/mississippi-man-pleads-guilty-creating-165207068.html"
+duplicate_key: https://www.yahoo.com/news/mississippi-man-pleads-guilty-creating-165207068.html
 duplicate_normalized_at: 2026-04-26
+raw_path: raw/news/2025-04-19_yahoo_mississippi-man-pleads-guilty-creating-sharing-explicit-images.md
+copyright_policy: summary-only
 ---
 ## Source Summary
 

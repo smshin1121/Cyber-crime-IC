@@ -4,7 +4,7 @@ title: "Eurojust coordinates major operation against EUR 300 million global cred
 collection_url: https://www.eurojust.europa.eu/news/eurojust-coordinates-major-operation-against-eur-300-million-global-credit-card-fraud-18
 collection_domain: eurojust.europa.eu
 source_type: press-release
-publisher: "Eurojust"
+publisher: Eurojust
 author: ""
 publish_date: 2025-11-05
 ingest_date: 2026-04-19
@@ -24,8 +24,14 @@ key_findings:
 created: 2026-04-19
 duplicate_of: "[[2025-11-05_eurojust-europa-eu_eurojust-coordinates-major-operation-against-eur-300-million-global-credit-card]]"
 duplicate_reason: same_collection_url
-duplicate_key: "https://www.eurojust.europa.eu/news/eurojust-coordinates-major-operation-against-eur-300-million-global-credit-card-fraud-18"
+duplicate_key: https://www.eurojust.europa.eu/news/eurojust-coordinates-major-operation-against-eur-300-million-global-credit-card-fraud-18
 duplicate_normalized_at: 2026-04-26
+raw_path: raw/press-releases/2025-11-05_eurojust_eurojust-coordinates-major-operation-against-eur-300-million-global-credit-card-fraud-18.md
+text_status: source-digest
+storage_mode: source-digest
+content_hash: sha256:f6aea10816b8685e857379d38b5cf756d4e37f9b2010958f0e6392cd027782f5
+word_count: 173
+extraction_date: 2026-04-28
 ---
 ## Source Summary
 

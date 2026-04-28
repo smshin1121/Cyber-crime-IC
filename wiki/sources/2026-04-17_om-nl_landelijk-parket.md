@@ -14,7 +14,7 @@ sensitivity: public
 pages_updated:
   - netherlands-om
 key_findings:
-  - "The **Openbaar Ministerie (OM)**, through the **Landelijk Parket**, is the Dutch prosecution-side institution most relevant to international cybercrime cooperation. It anchors the prosecutorial dimension of Dutch cybercrime work, complementing the police-side role of [[netherlands-politie]]."
+  - "The **Openbaar Ministerie (OM)**, through the **Landelijk Parket**, is the Dutch prosecution-side institution most relevant to international cybercrime cooperation. It anchors the prosecutorial dimension of Dutch cybercrime work, complementing the police-side role of netherlands-politie."
 collection_url: https://www.om.nl/organisatie/landelijk-parket
 created: 2026-04-17
 text_status: summarized

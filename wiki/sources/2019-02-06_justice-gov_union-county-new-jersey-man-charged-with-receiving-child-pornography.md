@@ -14,7 +14,7 @@ sensitivity: public
 pages_updated:
   - operation-union-county-new-jersey-man-charged-with-receiving-child-pornography
 key_findings:
-  - "This domestic-only U.S. follow-on record has been absorbed into the canonical case page [[union-county-new-jersey-man-charged-with-receiving-child-pornography]]. No visible cross-border mechanism is documented, so it is not treated as a separate international-cooperation operation."
+  - "This domestic-only U.S. follow-on record has been absorbed into the canonical case page union-county-new-jersey-man-charged-with-receiving-child-pornography. No visible cross-border mechanism is documented, so it is not treated as a separate international-cooperation operation."
 collection_url: https://www.justice.gov/usao-nj/pr/union-county-new-jersey-man-charged-receiving-child-pornography
 created: 2026-04-17
 text_status: parsed

@@ -17,6 +17,8 @@ key_findings:
   - "Provides bot-wall-resilient retrievability of the official press release."
 collection_url: https://www.publicnow.com/view/FECC9EEC5790CAAF29D8C73DBD6EE07F0C457B8D
 created: 2026-04-25
+raw_path: raw/press-releases/2025-04-10_publicnow_dark-web-fentanyl-distributor-sentenced-more-than-15-years.md
+copyright_policy: summary-only
 ---
 ## Source Summary
 

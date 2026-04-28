@@ -3,7 +3,7 @@ type: source
 title: "Bedford woman sentenced in Bitcoin murder-for-hire case"
 source_type: news
 publisher: "FOX 4 Dallas-Fort Worth"
-author: "Staff"
+author: Staff
 publish_date: 2024-05-09
 ingest_date: 2026-04-25
 language: en
@@ -17,6 +17,8 @@ key_findings:
   - "Sentenced to 9 years federal prison plus 2 years supervised probation by Judge Mark Pittman."
 collection_url: https://www.fox4news.com/news/michelle-murphy-bedford-murder-for-hire
 created: 2026-04-25
+raw_path: raw/news/2024-05-09_fox4news_bedford-woman-sentenced-bitcoin-murder-for-hire.md
+copyright_policy: summary-only
 ---
 ## Source Summary
 

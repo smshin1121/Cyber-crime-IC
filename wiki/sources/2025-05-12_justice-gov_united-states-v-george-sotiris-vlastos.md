@@ -13,8 +13,6 @@ credibility: confirmed
 sensitivity: public
 pages_updated:
 
-key_findings:
-  - "Secure .gov websites use HTTPS A lock ( Lock Locked padlock ) or https:// means you’ve safely connected to the .gov website. Share sensitive information only on official, secure websites."
 collection_url: https://www.justice.gov/usao-wdpa/pr/pittsburgh-resident-and-darknet-drug-trafficker-sentenced-nearly-six-years-prison
 created: 2026-04-17
 defendant_names:
@@ -22,8 +20,13 @@ defendant_names:
 updated: 2026-04-18
 duplicate_of: "[[2025-05-12_justice-gov_pittsburgh-resident-and-darknet-drug-trafficker-sentenced-nearly-six-years-prison]]"
 duplicate_reason: same_collection_url
-duplicate_key: "https://www.justice.gov/usao-wdpa/pr/pittsburgh-resident-and-darknet-drug-trafficker-sentenced-nearly-six-years-prison"
+duplicate_key: https://www.justice.gov/usao-wdpa/pr/pittsburgh-resident-and-darknet-drug-trafficker-sentenced-nearly-six-years-prison
 duplicate_normalized_at: 2026-04-26
+text_status: source-digest
+storage_mode: source-digest
+content_hash: sha256:961d91e892cc0a7eb7f11e169a6085743b60c00d76742a7af90ca6d9eb822d49
+word_count: 150
+extraction_date: 2026-04-28
 ---
 ## Source Summary
 

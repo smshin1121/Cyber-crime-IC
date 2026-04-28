@@ -2,7 +2,7 @@
 type: source
 title: "United States v. Ulbricht, No. 15-1815 (2d Cir. 2017) — Justia"
 source_type: case-document
-publisher: "Justia"
+publisher: Justia
 publish_date: 2017-05-31
 ingest_date: 2026-04-25
 language: en

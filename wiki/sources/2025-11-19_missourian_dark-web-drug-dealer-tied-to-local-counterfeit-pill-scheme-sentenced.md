@@ -19,6 +19,7 @@ key_findings:
   - "Pill-press operation produced over 16,000 pills/hour using chemicals imported from China."
 collection_url: https://www.missourian.com/news/dark-web-drug-dealer-tied-to-local-counterfeit-pill-scheme-sentenced/article_faeca1f3-7a3d-4196-8a1a-86aa12ecbb29.html
 created: 2026-04-25
+copyright_policy: summary-only
 ---
 ## Source Summary
 

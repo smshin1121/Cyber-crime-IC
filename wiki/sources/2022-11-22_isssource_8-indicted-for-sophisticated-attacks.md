@@ -2,8 +2,8 @@
 type: source
 title: "8 Indicted for 'Sophisticated' Attacks"
 source_type: news
-publisher: "ISSSource"
-author: "Staff"
+publisher: ISSSource
+author: Staff
 publish_date: 2022-11-22
 ingest_date: 2026-04-25
 language: en
@@ -18,6 +18,8 @@ key_findings:
   - "Focuses on the sophistication of attacks on CPA servers."
 collection_url: https://www.isssource.com/8-indicted-for-sophisticated-attacks/
 created: 2026-04-25
+raw_path: raw/news/2022-11-22_isssource_8-indicted-for-sophisticated-attacks.md
+copyright_policy: summary-only
 ---
 ## Source Summary
 

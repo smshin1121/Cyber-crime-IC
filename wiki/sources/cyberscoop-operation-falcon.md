@@ -1,21 +1,21 @@
 ---
 type: source
 title: "CyberScoop: Accused Email Scammers Busted in Nigeria (Operation Falcon)"
-collection_url: "https://cyberscoop.com/nigeria-email-scam-arrests-bec-group-ib/"
-collection_domain: "cyberscoop.com"
-source_type: "news"
-publisher: "CyberScoop"
+collection_url: https://cyberscoop.com/nigeria-email-scam-arrests-bec-group-ib/
+collection_domain: cyberscoop.com
+source_type: news
+publisher: CyberScoop
 author: "Tim Starks"
-publish_date: "2020-11-25"
-ingest_date: "2026-04-08"
-enriched_date: "2026-04-10"
-language: "en"
-reliability: "medium-high"
-credibility: "probably-true"
-sensitivity: "public"
+publish_date: 2020-11-25
+ingest_date: 2026-04-08
+enriched_date: 2026-04-10
+language: en
+reliability: medium-high
+credibility: probably-true
+sensitivity: public
 source_tier: 3
 pages_updated:
-  - "operation-falcon"
+  - operation-falcon
 key_findings:
   - "CyberScoop reported on 2020-11-25 that Interpol, Group-IB, and the Nigeria Police Force concluded a year-long operation (Operation Falcon) targeting the Nigerian BEC/phishing gang known as TMT"
   - "Three suspects arrested in Lagos, identified only by initials (O.C., I.O., O.I.); Interpol cited their alleged involvement in defrauding approximately 50,000 victims"
@@ -27,10 +27,16 @@ created: 2026-04-08
 updated: 2026-04-10
 duplicate_of: "[[2020-11-01_cyberscoop-com_nigeria-email-scam-arrests-bec-group-ib]]"
 duplicate_reason: same_collection_url
-duplicate_key: "https://cyberscoop.com/nigeria-email-scam-arrests-bec-group-ib/"
+duplicate_key: https://cyberscoop.com/nigeria-email-scam-arrests-bec-group-ib/
 duplicate_normalized_at: 2026-04-26
+raw_path: raw/news/cyberscoop-operation-falcon.md
+text_status: summarized
+storage_mode: summary-only
+content_hash: sha256:d2afb067559532bacc36fa55579e2aa7bde629c97477f5da0ddc30feeab1ec8c
+word_count: 346
+extraction_date: 2026-04-27
+copyright_policy: summary-only
 ---
-
 ## Source
 
 - **Publisher**: CyberScoop

@@ -2,8 +2,8 @@
 type: source
 title: "Salt Lake woman sent to prison in murder-for-hire attempt of her ex's new girlfriend"
 source_type: news
-publisher: "KSL.com"
-author: "Staff"
+publisher: KSL.com
+author: Staff
 publish_date: 2024-08-19
 ingest_date: 2026-04-25
 language: en
@@ -18,6 +18,8 @@ key_findings:
   - "$5,000 Bitcoin offered to a 'hitman for hire' service that prosecutors say was a scam, not a real assassin."
 collection_url: https://www.ksl.com/article/51104175/salt-lake-woman-sent-to-prison-in-murder-for-hire-attempt-of-her-exs-new-girlfriend
 created: 2026-04-25
+raw_path: raw/news/2024-08-19_ksl_salt-lake-woman-prison-murder-for-hire-ex-girlfriend.md
+copyright_policy: summary-only
 ---
 ## Source Summary
 

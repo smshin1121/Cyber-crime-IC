@@ -3,7 +3,7 @@ type: source
 title: "2 SoCal men charged with using darknet to sell drugs in all 50 states"
 source_type: news
 publisher: "FOX 11 Los Angeles"
-author: "Staff"
+author: Staff
 publish_date: 2023-11-07
 ingest_date: 2026-04-25
 language: en
@@ -19,8 +19,10 @@ collection_url: https://www.foxla.com/news/2-socal-men-charged-with-using-darkne
 created: 2026-04-25
 duplicate_of: "[[2023-11-07_foxla_2-socal-men-charged-darknet-drugs-50-states]]"
 duplicate_reason: same_collection_url
-duplicate_key: "https://www.foxla.com/news/2-socal-men-charged-with-using-darknet-to-sell-drugs-in-all-50-states"
+duplicate_key: https://www.foxla.com/news/2-socal-men-charged-with-using-darknet-to-sell-drugs-in-all-50-states
 duplicate_normalized_at: 2026-04-26
+raw_path: raw/news/2023-11-07_foxla_2-socal-men-darknet-sell-drugs-all-50-states.md
+copyright_policy: summary-only
 ---
 ## Source Summary
 

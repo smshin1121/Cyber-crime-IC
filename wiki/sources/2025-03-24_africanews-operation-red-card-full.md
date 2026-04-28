@@ -1,9 +1,9 @@
 ---
 type: source
 title: "Cybercrime crackdown: 306 arrested in Africa-wide operation"
-raw_path: ""
+raw_path: raw/news/2025-03-24_africanews-operation-red-card-full.md
 source_type: news
-publisher: "Africanews"
+publisher: Africanews
 author: ""
 publish_date: 2025-03-24
 ingest_date: 2026-04-23
@@ -18,6 +18,12 @@ key_findings:
   - "The story highlighted case examples from Nigeria, Rwanda, and South Africa."
 collection_url: https://www.africanews.com/2025/03/24/cybercrime-crackdown-306-arrested-in-africa-wide-operation/
 created: 2026-04-23
+text_status: summarized
+storage_mode: summary-only
+content_hash: sha256:56a8f4aabe0ef2e7c4ec8aac115a94e1c3aa96609bc3730a5d972c04e5d3d3a9
+word_count: 137
+extraction_date: 2026-04-27
+copyright_policy: summary-only
 ---
 ## Source Summary
 

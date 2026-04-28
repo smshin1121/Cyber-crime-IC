@@ -18,8 +18,14 @@ collection_url: https://www.dea.gov/press-releases/2025/05/28/drug-trafficker-we
 created: 2026-04-25
 duplicate_of: "[[2025-05-28_dea-gov_drug-trafficker-western-washington-caught-twice-kilos-drugs-firearms-10-years]]"
 duplicate_reason: same_collection_url
-duplicate_key: "https://www.dea.gov/press-releases/2025/05/28/drug-trafficker-western-washington-caught-twice-kilos-drugs-and-firearms"
+duplicate_key: https://www.dea.gov/press-releases/2025/05/28/drug-trafficker-western-washington-caught-twice-kilos-drugs-and-firearms
 duplicate_normalized_at: 2026-04-26
+raw_path: raw/press-releases/2025-05-28_dea_drug-trafficker-western-washington-caught-twice-kilos-firearms.md
+text_status: source-digest
+storage_mode: source-digest
+content_hash: sha256:20729e11c96f89d4363544fa861ad93cf141d1ceadcb0c45cfb67c8e680d8144
+word_count: 137
+extraction_date: 2026-04-28
 ---
 ## Source Summary
 

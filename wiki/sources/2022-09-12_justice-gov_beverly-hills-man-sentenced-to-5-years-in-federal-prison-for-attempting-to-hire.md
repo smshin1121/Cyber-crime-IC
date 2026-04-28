@@ -14,7 +14,7 @@ sensitivity: public
 pages_updated:
   - operation-us-v-scott-quinn-berkett
 key_findings:
-  - "This domestic-only U.S. follow-on record has been absorbed into the canonical case page [[us-v-scott-quinn-berkett]]. No visible cross-border mechanism is documented, so it is not treated as a separate international-cooperation operation."
+  - "This domestic-only U.S. follow-on record has been absorbed into the canonical case page us-v-scott-quinn-berkett. No visible cross-border mechanism is documented, so it is not treated as a separate international-cooperation operation."
 collection_url: https://www.justice.gov/usao-cdca/pr/beverly-hills-man-sentenced-5-years-federal-prison-attempting-hire-hitman-kill-woman-he
 created: 2026-04-17
 text_status: parsed

@@ -3,7 +3,7 @@ type: source
 title: "Over $84,000 returned to Richmond Hill theft victim"
 source_type: news
 publisher: "WTOC 11 (Savannah CBS)"
-author: "Staff"
+author: Staff
 publish_date: 2025-11-24
 ingest_date: 2026-04-25
 language: en
@@ -17,6 +17,8 @@ key_findings:
   - "Savannah CBS affiliate coverage of the SDGA forfeiture announcement."
 collection_url: https://www.wtoc.com/2025/11/24/over-84000-returned-richmond-hill-theft-victim/
 created: 2026-04-25
+raw_path: raw/news/2025-11-24_wtoc_over-84000-returned-richmond-hill-theft-victim.md
+copyright_policy: summary-only
 ---
 ## Source Summary
 

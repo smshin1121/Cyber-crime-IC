@@ -21,8 +21,14 @@ key_findings:
 created: 2026-04-18
 duplicate_of: "[[2018-01-01_fbi-gov_how-cyber-crime-group-fin7-attacked-and-stole-data-from-hundreds-of-us-companies]]"
 duplicate_reason: same_collection_url
-duplicate_key: "https://www.fbi.gov/contact-us/field-offices/seattle/news/stories/how-cyber-crime-group-fin7-attacked-and-stole-data-from-hundreds-of-us-companies"
+duplicate_key: https://www.fbi.gov/contact-us/field-offices/seattle/news/stories/how-cyber-crime-group-fin7-attacked-and-stole-data-from-hundreds-of-us-companies
 duplicate_normalized_at: 2026-04-26
+raw_path: raw/press-releases/2018-08-01_fbi-gov_how-cyber-crime-group-fin7-attacked-and-stole-data-from-hundreds-of-us-companies.md
+text_status: source-digest
+storage_mode: source-digest
+content_hash: sha256:b4f2ca8f73f502fa0a454c1c771f208864cd7c1b64e4ad0de30854b51e925382
+word_count: 202
+extraction_date: 2026-04-28
 ---
 ## Source Summary
 

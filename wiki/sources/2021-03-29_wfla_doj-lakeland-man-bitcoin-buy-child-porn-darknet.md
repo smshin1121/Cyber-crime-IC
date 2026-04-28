@@ -2,8 +2,8 @@
 type: source
 title: "DOJ: Lakeland man used Bitcoin to buy child porn on 'darknet'"
 source_type: news
-publisher: "WFLA"
-author: "Staff"
+publisher: WFLA
+author: Staff
 publish_date: 2021-03-29
 ingest_date: 2026-04-25
 language: en
@@ -18,6 +18,8 @@ key_findings:
   - "Cites Korean National Police 2018 server seizure as origin of the takedown."
 collection_url: https://www.wfla.com/news/polk-county/doj-lakeland-man-used-bitcoin-to-buy-child-porn-on-darknet/
 created: 2026-04-25
+raw_path: raw/news/2021-03-29_wfla_doj-lakeland-man-bitcoin-buy-child-porn-darknet.md
+copyright_policy: summary-only
 ---
 ## Source Summary
 

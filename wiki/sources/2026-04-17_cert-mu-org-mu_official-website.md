@@ -12,11 +12,16 @@ reliability: medium
 credibility: confirmed
 sensitivity: public
 pages_updated:
-  []
+
 key_findings:
   - "National cybersecurity incident response body operated by the National Computer Board of Mauritius. For detailed facts, see the official source [1]."
 collection_url: https://www.cert-mu.org.mu/
 created: 2026-04-17
+text_status: source-digest
+storage_mode: source-digest
+content_hash: sha256:8d76bc3a7523e1481e8894497b8707b69b68d42c279803e1d3a856741d15f918
+word_count: 131
+extraction_date: 2026-04-28
 ---
 ## Source Summary
 
