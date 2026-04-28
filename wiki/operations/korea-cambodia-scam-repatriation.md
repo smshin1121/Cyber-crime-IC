@@ -4,7 +4,7 @@ aliases:
 case_id: CYB-2025-009
 challenges_encountered:
 
-coordinating_body: ""
+coordinating_body: "[[knpa]]"
 created: 2026-04-08
 credibility_index: 2.55
 crime_type: "[[voice-phishing-ic]]"
@@ -18,12 +18,16 @@ legal_basis:
 lessons_learned:
 
 mechanisms_used:
+  - "[[informal-cooperation]]"
 
 missing_fields:
 
 operation_type: arrest-sweep
 outcome: ongoing
 participating_agencies:
+  - "[[knpa-cyber-bureau]]"
+  - "[[knpa]]"
+  - "Cambodian National Police"
 
 participating_countries:
   - "[[south-korea]]"
@@ -34,12 +38,16 @@ related_cases:
 related_operations:
 
 results:
-  arrests: 0
+  arrests: 136
   cryptocurrency_seized: ""
   decryption_keys_recovered: 0
   domains_seized: 0
   indictments: 0
   other:
+    - "107+ Korean nationals repatriated from Cambodia in October 2025 and January 2026 batches"
+    - "48 to 58 arrest warrants sought or issued for the October 2025 Cambodia repatriation batch"
+    - "46 repatriated suspects proceeded to trial in South Korea"
+    - "January 2026 batch linked to KRW 48.6 billion in alleged victim losses"
 
   servers_seized: 0
   victims_notified: 0
@@ -59,13 +67,15 @@ timeframe:
   ongoing: true
   start: 2025-10
 title: "Korea-Cambodia Scam Centre Repatriation"
+title_ko: "한-캄보디아 스캠센터 피의자 송환"
 type: operation
-updated: 2026-04-27
+updated: 2026-04-28
 operation_role: umbrella
 parent_operation: ""
 summary: "In October 2025 and January 2026, South Korea repatriated **107+ nationals** from Cambodia suspected of operating in online scam centres conducting voice phishing, romance scams, and \"pig butchering\" cryptocurrency fraud. An additional **20+ suspects** were repatriated from Laos, Vietnam, Thailand, and the Philippines. The Korean government estimated approximately **1,000 Korean citizens** were working in Cambodian scam centres. The January 2026 batch allegedly scammed fellow Koreans out of **KRW 48.6 billion (USD 33 million)**."
 organizations:
   - "[[knpa-cyber-bureau]]"
+  - "[[knpa]]"
 crime_types:
   - "[[voice-phishing-ic]]"
 ---
@@ -80,7 +90,8 @@ Southeast Asian scam compounds have become a major center for transnational onli
 ## Participating Parties
 
 - **Lead (Korea):** [[knpa-cyber-bureau|Korea National Police Agency (경찰청)]]
-- **Cooperating:** Cambodian authorities
+- **Domestic coordination:** [[knpa|Korea National Police Agency]]
+- **Cooperating:** Cambodian National Police and Cambodian authorities
 - **Additional repatriations from:** Laos, Vietnam, Thailand, Philippines
 - **International context:** Concurrent US/UK sanctions against Prince Group
 
@@ -90,12 +101,15 @@ Southeast Asian scam compounds have become a major center for transnational onli
 2. **October 2025:** 64 Korean nationals repatriated from Cambodia
 3. **October 2025:** [[knpa-cyber-bureau|KNPA]] seeks arrest warrants for 58 of the 64 (1 already arrested, 5 released)
 4. **January 2026:** 73 additional suspects repatriated from Cambodia; 20+ from other Southeast Asian countries
+5. **January 2026:** Yonhap reported 136 scam suspects apprehended by a joint South Korea-Cambodia police team since November 2025
 
 ## Results and Impact
 
+- **136 suspects** reported apprehended by the joint South Korea-Cambodia police team since November 2025
 - **107+ suspects** repatriated from Cambodia across two batches
 - **20+ additional suspects** from Laos, Vietnam, Thailand, Philippines
 - **58 arrest warrants** sought (first batch)
+- **46 suspects** proceeded to trial in South Korea
 - **KRW 48.6 billion (USD 33 million)** in fraud losses identified (January 2026 batch)
 - **~1,000 Korean citizens** estimated in Cambodian scam centres
 

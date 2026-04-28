@@ -6,7 +6,7 @@ challenges_encountered:
 
 coordinating_body: "[[interpol]]"
 created: 2026-04-08
-credibility_index: 2.95
+credibility_index: 3.8
 crime_type: "[[online-fraud-ic]]"
 edges:
 
@@ -18,12 +18,17 @@ legal_basis:
 lessons_learned:
 
 mechanisms_used:
+  - "[[interpol-i-grip]]"
+  - "[[interpol-i24-7]]"
 
 missing_fields:
 
 operation_type: arrest-sweep
 outcome: success
 participating_agencies:
+  - "[[interpol]]"
+  - "[[knpa-cyber-bureau]]"
+  - "INTERPOL National Central Bureaus in participating jurisdictions"
 
 participating_countries:
   - "[[south-korea]]"
@@ -56,6 +61,9 @@ results:
   domains_seized: 0
   indictments: 0
   other:
+    - "USD 27 million in illicit funds intercepted"
+    - "2,350 bank accounts blocked"
+    - "10 new criminal modus operandi identified during the operation"
 
   servers_seized: 0
   victims_notified: 0
@@ -77,12 +85,13 @@ timeframe:
 title: "Operation HAECHI-II"
 title_ko: "Operation HAECHI-II (사이버 금융범죄 국제 단속)"
 type: operation
-updated: 2026-04-27
+updated: 2026-04-28
 operation_role: umbrella
 parent_operation: ""
 summary: "Operation HAECHI-II, led by INTERPOL with participation from 20+ countries and Hong Kong/Macau, was a four-month operation targeting online fraud, illegal online gambling, and money laundering. The operation resulted in over 1,000 arrests and the interception of more than $27 million in illicit funds. Over 2,350 bank accounts linked to criminal proceeds were frozen."
 organizations:
   - "[[interpol]]"
+  - "[[knpa-cyber-bureau]]"
 crime_types:
   - "[[online-fraud-ic]]"
 ---
@@ -94,6 +103,7 @@ Operation HAECHI-II, led by INTERPOL with participation from 20+ countries and H
 
 **Lead Agency:**
 - INTERPOL
+- Korea National Police Agency support for the HAECHI project
 
 **Participating Countries (20+):**
 Angola, Brunei, Cambodia, Colombia, China, India, Indonesia, Ireland, Japan, South Korea, Laos, Malaysia, Maldives, Philippines, Romania, Singapore, Slovenia, Spain, Thailand, Vietnam, Hong Kong (SAR), Macau (SAR)
@@ -104,6 +114,7 @@ Angola, Brunei, Cambodia, Colombia, China, India, Indonesia, Ireland, Japan, Sou
 - **$27 million+** in illicit funds intercepted
 - **2,350 bank accounts** frozen
 - Online romance scams, investment fraud, and illegal online gambling networks disrupted
+- Pilot use of INTERPOL's rapid payment-interception workflow, later formalized in the wiki as [[interpol-i-grip|I-GRIP]]
 
 ## Korean Perspective (한국 관점)
 

@@ -18,14 +18,24 @@ legal_basis:
 lessons_learned:
 
 mechanisms_used:
+  - "[[search-seizure]]"
+  - "[[asset-freezing]]"
+  - "[[public-private-cooperation]]"
 
 missing_fields:
 
 operation_type: takedown
 outcome: success
 participating_agencies:
+  - "[[usdoj]]"
+  - "[[fbi]]"
+  - "[[us-treasury]]"
 
 participating_countries:
+  - "[[united-states]]"
+  - "[[germany]]"
+  - "[[singapore]]"
+  - "[[thailand]]"
 
 period: 3
 related_cases:
@@ -39,6 +49,9 @@ results:
   domains_seized: 0
   indictments: 1
   other:
+    - "19 million+ compromised IP addresses across nearly 200 countries identified"
+    - "911 S5 residential proxy service disrupted"
+    - "OFAC sanctions targeted YunHe Wang, two associates, and three linked entities"
 
   servers_seized: 0
   victims_notified: 0
@@ -61,7 +74,7 @@ timeframe:
 title: "911 S5 Botnet Dismantling"
 title_ko: "911 S5 Botnet Dismantling (공식 작전명 미확인)"
 type: operation
-updated: 2026-04-27
+updated: 2026-04-28
 operation_role: umbrella
 parent_operation: ""
 summary: "The U.S. Department of Justice and FBI, in cooperation with Germany, Singapore, and Thailand, dismantled the 911 S5 botnet -- the world's largest botnet, which had infected over 19 million IP addresses across nearly 200 countries. The administrator, YunHe Wang, was arrested. The botnet had been used to facilitate large-scale fraud, identity theft, child sexual exploitation, bomb threats, and illegal financial transactions."
@@ -74,25 +87,29 @@ crime_types:
 ---
 ## Summary
 
-The U.S. Department of Justice and FBI, in cooperation with Germany, Singapore, and Thailand, dismantled the 911 S5 botnet -- the world's largest botnet, which had infected over 19 million IP addresses across nearly 200 countries. The administrator, YunHe Wang, was arrested. The botnet had been used to facilitate large-scale fraud, identity theft, child sexual exploitation, bomb threats, and illegal financial transactions.
+The 911 S5 action was a U.S.-led disruption of a residential-proxy botnet and fraud-enabling service. The DOJ and FBI record the operation as a coordinated multinational action with Germany, Singapore, and Thailand; the companion IC3 and FBI advisories explain the victim-side infection model, while the Treasury release adds a sanctions and financial-disruption layer.
+
+The target was not a single malware family in isolation. 911 S5 operated as a proxy infrastructure built from compromised residential devices, including infections tied to bundled or pirated VPN applications. That infrastructure let customers route traffic through victims' IP addresses and was used in fraud, identity theft, child exploitation activity, bomb threats, illegal transactions, and access-brokering.
 
 ## Participating Parties
 
-**Lead Agencies:**
-- U.S. Department of Justice
-- FBI
-- U.S. Department of Homeland Security
-- U.S. Department of the Treasury
+| Role | Parties |
+|---|---|
+| Lead criminal authority | [[usdoj|U.S. Department of Justice]] |
+| Investigative and victim-guidance authority | [[fbi|FBI]], including IC3-facing public guidance |
+| Financial disruption | [[us-treasury|U.S. Department of the Treasury / OFAC]] |
+| Named partner jurisdictions | [[germany|Germany]], [[singapore|Singapore]], [[thailand|Thailand]] |
 
-**Participating Countries (4):**
-United States, Germany, Singapore, Thailand
+## Results and Impact
 
-## Results
+- YunHe Wang, described in the DOJ source as the administrator of 911 S5, was arrested.
+- The botnet was assessed in the official source set as affecting more than 19 million IP addresses across nearly 200 countries.
+- IC3 and FBI guidance identified the residential-proxy infection path and gave cleanup guidance for affected users.
+- OFAC sanctions targeted Wang, two associates, and three linked entities, showing that the disruption combined criminal process with financial restrictions.
 
-- **1 arrest** (administrator YunHe Wang)
-- **19 million+ IP addresses** infected worldwide
-- World's largest botnet dismantled
-- Facilitation of large-scale fraud, identity theft, and exploitation disrupted
+## Cooperation Model
+
+The action combines three layers: criminal investigation and arrest coordination by DOJ/FBI, partner-country assistance from Germany, Singapore, and Thailand, and a parallel Treasury/OFAC sanctions action. For dataset use, this page should therefore be read as a botnet-service disruption with both technical-remediation and financial-disruption components.
 
 <!-- SOURCE_ENRICHMENT_START -->
 
@@ -146,11 +163,11 @@ United States, Germany, Singapore, Thailand
 
 ## Canonical Operation Assessment
 
-This page is retained as a canonical operation because it describes a takedown against 911 S5 Botnet, rather than a defendant-specific follow-on action. The record attributes lead responsibility to Usdoj and coordination to Fbi, with participating or affected jurisdictions recorded as no participating-country list.
+This page is retained as a canonical operation because it describes a takedown against 911 S5 Botnet, rather than a defendant-specific follow-on action. The record attributes lead responsibility to Usdoj and coordination to Fbi, with participating or affected jurisdictions recorded as United States, Germany, Singapore, and Thailand.
 
-The cooperation model is visible primarily through the lead/coordinating agencies and country list; detailed legal mechanism fields remain sparse.
+The cooperation model is visible through DOJ/FBI criminal process, named partner jurisdictions, public victim guidance, and the related Treasury/OFAC financial-disruption action.
 
-Operational results captured for the canonical record: 1 arrests; 1 indictments.
+Operational results captured for the canonical record: 1 arrest; 1 indictment; disruption of a residential-proxy botnet affecting 19 million+ IP addresses; OFAC sanctions against the administrator network.
 
 The canonical source set contains 5 reference(s): 2024 05 29 Justice Gov Justice Department Leads Effort To Dismantle 911 S5 Botnet, 2024 05 29 Ic3 Gov Guidance On The 911 S5 Residential Proxy Service, 2024 06 07 Fbi Gov The 911 S5 Cyber Threat, 2024 05 28 Treasury Gov Treasury Sanctions A Cybercrime Network Associated With The 911 S5 Botnet, 2024 05 29 Fbi Gov How To Identify And Remove Vpn Applications That Contain 911 S5 Backdoors.
 The source floor is met for a canonical operation, but source breadth does not by itself prove that every downstream arrest or sentencing is part of this operation; follow-on records should remain linked separately.

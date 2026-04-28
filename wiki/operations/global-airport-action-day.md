@@ -6,7 +6,7 @@ challenges_encountered:
 
 coordinating_body: "[[interpol]]"
 created: 2026-04-08
-credibility_index: 1.85
+credibility_index: 3.6
 crime_type: "[[online-fraud-ic]]"
 edges:
 
@@ -18,12 +18,20 @@ legal_basis:
 lessons_learned:
 
 mechanisms_used:
+  - "[[public-private-cooperation]]"
 
 missing_fields:
 
 operation_type: arrest-sweep
 outcome: success
 participating_agencies:
+  - "[[interpol]]"
+  - "[[europol-ec3]]"
+  - "[[eurojust]]"
+  - "Ameripol"
+  - "Frontex"
+  - "IATA"
+  - "Perseuss"
 
 participating_countries:
   - "[[united-states]]"
@@ -40,14 +48,16 @@ results:
   domains_seized: 0
   indictments: 0
   other:
+    - "193 suspects detained across 189 airports in 43 countries"
+    - "75 airlines and payment-card/private-sector partners supported the action"
+    - "Fraud links identified to illegal immigration, human trafficking, drug trafficking, cybercrime, and terrorism support"
 
   servers_seized: 0
   victims_notified: 0
-source_count: 6
+source_count: 5
 source_tier: 2
 sources:
   - "[[2016-10-20_interpol-int_global-airport-action-day-40-countries-nab-193-suspects-in-cybercrime-sting]]"
-  - "[[hackread-global-airport-action-day]]"
   - "[[2016-10-19_interpol-int_global-airport-action-day-targets-airline-ticket-fraudsters]]"
   - "[[2016-10-19_helpnetsecurity-com_major-international-law-enforcement-operation-targets-airline-ticket-fraud]]"
   - "[[2017-01-01_europol-socta-2017_global-action-against-airline-fraudsters]]"
@@ -62,12 +72,14 @@ timeframe:
 title: "Global Airport Action Day"
 title_ko: "Global Airport Action Day (항공권 사기 국제 공조 단속)"
 type: operation
-updated: 2026-04-27
+updated: 2026-04-28
 operation_role: umbrella
 parent_operation: ""
 summary: "The Global Airport Action Day, conducted from October 10-15, 2016, was an international operation coordinated by INTERPOL, Europol, Ameripol, and Frontex across 189 airports in 43 countries. The operation targeted airline ticket fraud perpetrated using stolen or hacked payment card information, detaining 193 suspects. The investigation revealed connections between airline ticket fraud and broader criminal activities including illegal immigration, human trafficking, drug trafficking, cybercrime, and terrorism support."
 organizations:
   - "[[interpol]]"
+  - "[[europol-ec3]]"
+  - "[[eurojust]]"
 crime_types:
   - "[[online-fraud-ic]]"
   - "[[dark-web-ic]]"
@@ -89,6 +101,7 @@ The Global Airport Action Day, conducted from October 10-15, 2016, was an intern
 - Perseuss
 - Airlines, online travel agencies, payment card issuers
 - Canadian and US law enforcement agencies
+- Prior Hackread linkage was removed because that source covers Carding Action 2020, not Global Airport Action Day.
 
 **Participating Countries:**
 43 countries (specific country names not disclosed, but include major nations in the US, Canada, EU, Latin America, Asia, and Middle East)
@@ -112,7 +125,6 @@ The Global Airport Action Day, conducted from October 10-15, 2016, was an intern
 ## Source Coverage
 
 - INTERPOL, 2016-10-20: Global Airport Action Day: 40 countries nab 193 suspects in cybercrime sting.
-- Hackread, 2020-11-29: Hackread: Authorities Disrupt Dark Web Credit Card Trading Scam (Carding Action 2020).
 - INTERPOL, 2016-10-19: Global Airport Action Day targets airline ticket fraudsters.
 - Help Net Security, 2016-10-19: Major international law enforcement operation targets airline ticket fraud.
 - Europol, 2017-01-01: SOCTA 2017 - Global action against airline fraudsters.
@@ -183,8 +195,7 @@ This keeps the canonical record analytically bounded and reproducible.
 | # | Title | Publisher | Date | URL |
 |---|---|---|---|---|
 | [1] | Global Airport Action Day: 40 countries nab 193 suspects in cybercrime sting | INTERPOL | 2016-10-20 | https://www.interpol.int/en/News-and-Events/News/2016/Global-Airport-Action-Day-targets-airline-ticket-fraudsters |
-| [2] | Hackread: Authorities Disrupt Dark Web Credit Card Trading Scam (Carding Action 2020) | Hackread | 2020-11-29 | https://hackread.com/authorities-disrupt-dark-web-credit-card-trading-scam/ |
-| [3] | Global Airport Action Day targets airline ticket fraudsters | INTERPOL | 2016-10-19 | https://www.interpol.int/News-and-Events/News/2016/Global-Airport-Action-Day-targets-airline-ticket-fraudsters |
-| [4] | Major international law enforcement operation targets airline ticket fraud | Help Net Security | 2016-10-19 | https://www.helpnetsecurity.com/2016/10/19/airline-ticket-fraud/ |
-| [5] | SOCTA 2017 - Global action against airline fraudsters | Europol | 2017-01-01 | https://www.europol.europa.eu/socta/2017/cybercrime.html |
-| [6] | Global action against airline fraudsters: 193 detained | Il Metropolitano | 2016-10-19 | https://www.ilmetropolitano.it/2016/10/19/global-action-against-airline-fraudsters-193-detained/ |
+| [2] | Global Airport Action Day targets airline ticket fraudsters | INTERPOL | 2016-10-19 | https://www.interpol.int/News-and-Events/News/2016/Global-Airport-Action-Day-targets-airline-ticket-fraudsters |
+| [3] | Major international law enforcement operation targets airline ticket fraud | Help Net Security | 2016-10-19 | https://www.helpnetsecurity.com/2016/10/19/airline-ticket-fraud/ |
+| [4] | SOCTA 2017 - Global action against airline fraudsters | Europol | 2017-01-01 | https://www.europol.europa.eu/socta/2017/cybercrime.html |
+| [5] | Global action against airline fraudsters: 193 detained | Il Metropolitano | 2016-10-19 | https://www.ilmetropolitano.it/2016/10/19/global-action-against-airline-fraudsters-193-detained/ |

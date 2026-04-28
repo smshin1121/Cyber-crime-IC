@@ -9,7 +9,7 @@ challenges_encountered:
 
 coordinating_body: "[[interpol]]"
 created: 2026-04-08
-credibility_index: 2.55
+credibility_index: 3.55
 crime_type: "[[online-fraud-ic]]"
 edges:
 
@@ -21,14 +21,20 @@ legal_basis:
 lessons_learned:
 
 mechanisms_used:
+  - "[[public-private-cooperation]]"
+  - "[[capacity-building-ic]]"
 
 missing_fields:
 
 operation_type: arrest-sweep
 outcome: success
 participating_agencies:
+  - "[[interpol]]"
+  - "[[morocco-dgsn]]"
+  - "[[group-ib]]"
 
 participating_countries:
+  - "[[morocco]]"
 
 period: 2
 related_cases:
@@ -42,13 +48,17 @@ results:
   domains_seized: 0
   indictments: 0
   other:
+    - "Moroccan suspect tracked as Dr HeX arrested by Moroccan police"
+    - "Group-IB linked the suspect to attacks on 134 websites over 2009-2018"
+    - "Private-sector attribution pivoted from phishing-kit evidence and OSINT to INTERPOL-coordinated arrest"
 
   servers_seized: 0
   victims_notified: 0
 crime_types:
+  - "[[online-fraud-ic]]"
   - "[[malware-ic]]"
 source_count: 5
-source_tier: 3
+source_tier: 2
 sources:
   - "[[group-ib-operation-lyrebird]]"
   - "[[2021-07-06_interpol-int_suspected-key-actor-arrested-in-morocco-operation-lyrebird]]"
@@ -59,55 +69,56 @@ status: completed
 target_entity: "Moroccan phishing/carding suspect"
 timeframe:
   announced: 2021-07-05
-  end: 2021-07-05
+  end: 2021-05
   ongoing: false
-  start: 2021-07-05
+  start: 2019
 title: "Operation Lyrebird"
 title_ko: "라이어버드 작전"
 type: operation
-updated: 2026-04-27
+updated: 2026-04-28
 ---
-> [!note] This operation is documented from a Tier 3 (cybersecurity media) source. Additional verification from official sources (Tier 1-2) would strengthen data reliability.
-
 ## Summary
 
-**Operation Lyrebird** was an INTERPOL-coordinated operation that resulted in the arrest of a suspect in **Morocco** linked to **phishing** and **carding** activities. The operation was conducted with intelligence support from cybersecurity firm **Group-IB**. The arrest demonstrated INTERPOL's growing capability to coordinate cybercrime operations in the African region.
+**Operation Lyrebird** was an INTERPOL-coordinated public-private action that led to the arrest in [[morocco|Morocco]] of a suspect tracked by Group-IB as **Dr HeX**. The operation targeted phishing, carding, defacement, fraud, and malware-development activity attributed to the suspect over a long period.
+
+The operational value of Lyrebird is the attribution chain. Group-IB reported that its analysts started the investigation in 2019, extracted a phishing kit, pivoted from an email address to public OSINT accounts, and connected the online persona to a Moroccan suspect. INTERPOL then coordinated with Moroccan police, who carried out the arrest in May 2021.
 
 ## Background
 
-Phishing and carding remain among the most common forms of cybercrime, with perpetrators operating from diverse geographic locations. Morocco has been identified as an origin point for some phishing and online fraud schemes targeting French-speaking and global victims. The collaboration between INTERPOL and Group-IB enabled the identification and location of the suspect.
+Group-IB's source digest links Dr HeX to attacks on 134 websites between 2009 and 2018, including French telecommunications companies, major French banks, and multinational corporations. The suspect's French-language capability is cited as relevant to the targeting pattern. The INTERPOL source gives the official law-enforcement confirmation for the Morocco arrest, while the media sources corroborate the Dr HeX attribution and carding/phishing framing.
 
 ## Participating Parties
 
-### Coordinating Body
-- [[interpol|INTERPOL]]
-
-### Participating Countries
-- [[morocco|Morocco]]
-
-### Private Sector Support
-- Group-IB (threat intelligence)
+| Role | Parties |
+|---|---|
+| Coordination | [[interpol|INTERPOL]] |
+| Arrest execution | Moroccan police / [[morocco-dgsn|DGSN]]-linked national policing structure |
+| Private-sector intelligence | [[group-ib|Group-IB]] |
+| Enforcement jurisdiction | [[morocco|Morocco]] |
 
 ## Legal Framework
 
-Specific legal instruments not detailed in available sources.
+The public source set does not publish Moroccan charging papers or a court docket. The documented mechanism is operational coordination: private-sector threat intelligence, INTERPOL coordination, and Moroccan police arrest execution.
 
 ## Operational Timeline
 
 | Date | Event |
 |------|-------|
-| ~2021 | Operation Lyrebird conducted |
-| 2021 | Arrest in Morocco |
+| 2019 | Group-IB investigation into the Dr HeX persona began. |
+| 2021-05 | Moroccan police arrested the suspect. |
+| 2021-07-05 | Group-IB announced Operation Lyrebird. |
+| 2021-07-06 | INTERPOL and independent media coverage confirmed the operation publicly. |
 
 ## Results and Impact
 
-| Metric | Count |
-|--------|-------|
-| Arrests | 1 |
+- 1 Moroccan suspect arrested.
+- The suspect was attributed by Group-IB to phishing, carding, malware development, defacement, and fraud.
+- Group-IB linked the suspect to attacks on 134 websites over 2009-2018.
+- Lyrebird demonstrates an INTERPOL model in which private OSINT/technical attribution becomes a police action in an African jurisdiction.
 
 ## Cooperation Mechanisms Used
 
-INTERPOL coordination with Moroccan law enforcement, supported by Group-IB private sector intelligence.
+Private-sector threat intelligence was converted into an INTERPOL-coordinated police action. In the wiki taxonomy this is best represented as public-private cooperation with an African cyber-capacity-building context, rather than a JIT or MLAT-centered case.
 
 ## Korean Involvement (한국의 참여)
 
@@ -115,10 +126,9 @@ No Korean involvement identified.
 
 ## Contradictions & Open Questions
 
-- What was the full scope of the suspect's criminal activities?
-- How many victims were affected?
-- Was the suspect convicted and sentenced?
-- What specific evidence did Group-IB provide?
+- Moroccan court outcome and sentencing information are not present in the current corpus.
+- The source set supports 134 websites as an attribution count, not a confirmed victim count.
+- DGSN is used as the closest existing Moroccan national-police taxonomy page; the public sources describe "Moroccan police" without naming a specific unit.
 
 ## Follow-Up Actions
 
@@ -155,11 +165,11 @@ No Korean involvement identified.
 
 ## Canonical Operation Assessment
 
-This page is retained as a canonical operation because it describes a arrest-sweep against Moroccan phishing/carding suspect, rather than a defendant-specific follow-on action. The record attributes lead responsibility to Interpol and coordination to Interpol, with participating or affected jurisdictions recorded as no participating-country list.
+This page is retained as a canonical operation because it describes an INTERPOL-coordinated arrest sweep against a Moroccan phishing/carding suspect, rather than a defendant-specific follow-on action. The record attributes lead responsibility and coordination to INTERPOL, with Morocco recorded as the enforcement jurisdiction.
 
-The cooperation model is visible primarily through the lead/coordinating agencies and country list; detailed legal mechanism fields remain sparse.
+The cooperation model is visible through Group-IB attribution, INTERPOL coordination, and Moroccan police arrest execution.
 
-Operational results captured for the canonical record: 1 arrests.
+Operational results captured for the canonical record: 1 arrest; attribution of the Dr HeX persona to phishing, carding, defacement, malware development, and attacks on 134 websites.
 
 The canonical source set contains 5 reference(s): Group Ib Operation Lyrebird, 2021 07 06 Interpol Int Suspected Key Actor Arrested In Morocco Operation Lyrebird, 2021 07 Portswigger Net Operation Lyrebird Cybercops Nab Moroccan Phish And Carding Kingpin, 2021 09 28 Technadu Com Operation Lyrebird Dr Hex Arrest, 2021 07 06 Darkreading Com Operation Lyrebird Morocco Arrest.
 The source floor is met for a canonical operation, but source breadth does not by itself prove that every downstream arrest or sentencing is part of this operation; follow-on records should remain linked separately.

@@ -18,12 +18,19 @@ legal_basis:
 lessons_learned:
 
 mechanisms_used:
+  - "[[public-private-cooperation]]"
+  - "[[electronic-evidence]]"
 
 missing_fields:
 
 operation_type: infrastructure-seizure
 outcome: success
 participating_agencies:
+  - "[[interpol-igci]]"
+  - "[[group-ib]]"
+  - "[[trend-micro]]"
+  - "[[kaspersky-lab]]"
+  - "Team Cymru"
 
 participating_countries:
   - "[[hong-kong]]"
@@ -43,6 +50,11 @@ results:
   domains_seized: 0
   indictments: 0
   other:
+    - "Approximately 30,000 suspicious IP addresses identified"
+    - "22,800 malicious IP addresses taken down, about 76% of those identified"
+    - "43 electronic devices seized"
+    - "65 additional suspects remained under investigation"
+    - "Private-sector intelligence support from Group-IB, Trend Micro, Kaspersky, and Team Cymru"
 
   servers_seized: 59
   victims_notified: 0
@@ -62,13 +74,17 @@ timeframe:
   ongoing: false
   start: 2024-04-01
 title: "Operation Synergia II"
+title_ko: "Operation Synergia II (악성 인프라 국제 단속)"
 type: operation
-updated: 2026-04-27
+updated: 2026-04-28
 operation_role: umbrella
 parent_operation: ""
 summary: "Operation Synergia II was a massive INTERPOL-coordinated operation targeting malicious cyber infrastructure across **95 INTERPOL member countries** from April to August 2024. The operation focused on phishing, ransomware, and information stealer infrastructure. It identified approximately 30,000 suspicious IP addresses, took down 76% of them (~22,800), seized 59 servers and 43 electronic devices, and resulted in 41 arrests with 65 others still under investigation."
 organizations:
   - "[[interpol-igci]]"
+  - "[[group-ib]]"
+  - "[[trend-micro]]"
+  - "[[kaspersky-lab]]"
 crime_types:
   - "[[ransomware-ic]]"
 ---
@@ -88,7 +104,7 @@ Operation Synergia II was the second iteration of INTERPOL's Synergia operation 
 
 - **Lead:** [[interpol-igci|INTERPOL IGCI]]
 - **Participating countries:** 95 INTERPOL member countries
-- **Private sector partners:** Group-IB, Trend Micro, Kaspersky, Team Cymru
+- **Private sector partners:** [[group-ib|Group-IB]], [[trend-micro|Trend Micro]], [[kaspersky-lab|Kaspersky]], Team Cymru
 
 ### Notable Country Actions
 

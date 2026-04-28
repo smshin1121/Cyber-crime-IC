@@ -6,7 +6,7 @@ challenges_encountered:
 
 coordinating_body: "[[europol-ec3]]"
 created: 2026-04-08
-credibility_index: 2.18
+credibility_index: 3.75
 crime_type: "[[cybercrime-forum-ic]]"
 edges:
 
@@ -18,12 +18,19 @@ legal_basis:
 lessons_learned:
 
 mechanisms_used:
+  - "[[public-private-cooperation]]"
+  - "[[search-seizure]]"
+  - "[[domain-seizure]]"
 
 missing_fields:
 
 operation_type: takedown
 outcome: success
 participating_agencies:
+  - "[[fbi-cyber-division]]"
+  - "[[usdoj]]"
+  - "[[europol-ec3]]"
+  - "[[ncfta]]"
 
 participating_countries:
   - "[[united-states]]"
@@ -44,11 +51,14 @@ results:
   domains_seized: 1
   indictments: 12
   other:
+    - "Approximately 70 Darkode members and associates charged, arrested, searched, or otherwise targeted worldwide"
+    - "Darkode forum domain and servers seized"
+    - "Operation Shrouded Horizon was an 18-month FBI-led investigation"
 
   servers_seized: 0
   victims_notified: 0
 source_count: 5
-source_tier: 3
+source_tier: 2
 sources:
   - "[[2015-07-15_wdpa_darkode-indictment]]"
   - "[[2015-07-15_fbi-gov_cyber-criminal-forum-taken-down]]"
@@ -65,19 +75,19 @@ timeframe:
 title: "Darkode Forum Takedown"
 title_ko: "Darkode 포럼 소탕"
 type: operation
-updated: 2026-04-27
+updated: 2026-04-28
 operation_role: umbrella
 parent_operation: ""
 summary: "In July 2015, the FBI, in coordination with Europol and law enforcement from approximately 20 countries, took down **Darkode**, one of the most prolific English-language cybercrime forums. The operation resulted in charges, arrests, or searches of approximately 70 Darkode members worldwide, with 12 individuals indicted in the United States."
 organizations:
   - "[[fbi-cyber-division]]"
+  - "[[usdoj]]"
   - "[[europol-ec3]]"
+  - "[[ncfta]]"
 crime_types:
   - "[[cybercrime-forum-ic]]"
   - "[[malware-ic]]"
 ---
-> [!note] This operation is documented from a Tier 3 (cybersecurity media) source. Additional verification from official sources (Tier 1-2) would strengthen data reliability.
-
 ## Summary
 
 In July 2015, the FBI, in coordination with Europol and law enforcement from approximately 20 countries, took down **Darkode**, one of the most prolific English-language cybercrime forums. The operation resulted in charges, arrests, or searches of approximately 70 Darkode members worldwide, with 12 individuals indicted in the United States.
@@ -99,12 +109,12 @@ Darkode had operated for several years as a premier cybercrime forum, distinguis
 ### Participating Countries (~20)
 United States, United Kingdom, Australia, Brazil, Israel, Nigeria, and approximately 14 additional countries.
 
-> [!warning] Legal status check needed
-> The complete list of all 20 participating countries needs verification from official sources.
+> [!info] Country-list note
+> The public sources identify six countries by name and describe a broader 20-country action. The remaining countries are kept out of structured metadata until sourced individually.
 
 ## Legal Framework
 
-The US indictments were filed in the Western District of Pennsylvania. International legal bases for the cooperation have not been detailed in available Tier 3 sources.
+The U.S. indictments were filed in the Western District of Pennsylvania. International legal bases for the cooperation are not fully detailed in the available public sources.
 
 ## Operational Timeline
 
@@ -126,7 +136,7 @@ The takedown of Darkode was *likely* one of the most significant actions against
 
 ## Cooperation Mechanisms Used
 
-Details of specific cooperation mechanisms are not fully documented in available Tier 3 sources. The scale of the operation (20 countries) suggests extensive use of formal and informal law enforcement cooperation channels.
+The source set documents FBI forum infiltration, DOJ prosecution, domain/server seizure, Europol coordination, and NCFTA support. The full country-by-country legal mechanism is not public, but the scale of the operation indicates a mix of formal and informal law-enforcement cooperation channels.
 
 ## Korean Involvement (한국의 참여)
 

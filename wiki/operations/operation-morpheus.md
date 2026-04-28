@@ -6,7 +6,7 @@ challenges_encountered:
 
 coordinating_body: "[[europol-ec3]]"
 created: 2026-04-08
-credibility_index: 2.55
+credibility_index: 3.75
 crime_type: "[[hacking-ic]]"
 edges:
 
@@ -18,12 +18,23 @@ legal_basis:
 lessons_learned:
 
 mechanisms_used:
+  - "[[public-private-cooperation]]"
+  - "[[electronic-evidence]]"
 
 missing_fields:
 
 operation_type: infrastructure-seizure
 outcome: success
 participating_agencies:
+  - "[[uk-nca]]"
+  - "[[europol-ec3]]"
+  - "[[fbi]]"
+  - "[[australia-afp]]"
+  - "[[canada-rcmp]]"
+  - "[[germany-bka]]"
+  - "[[netherlands-politie]]"
+  - "[[poland-police]]"
+  - "[[shadowserver]]"
 
 participating_countries:
   - "[[united-kingdom]]"
@@ -45,6 +56,10 @@ results:
   domains_seized: 0
   indictments: 0
   other:
+    - "690 malicious Cobalt Strike instances targeted across 129 internet service providers"
+    - "593 unauthorized Cobalt Strike servers removed"
+    - "1.2 million indicators of compromise identified during the operation"
+    - "Private-sector partners included Fortra, BAE Systems, Trellix, Shadowserver, Spamhaus, and abuse.ch"
 
   servers_seized: 593
   victims_notified: 0
@@ -59,27 +74,32 @@ sources:
 status: completed
 target_entity: "Unauthorized Cobalt Strike servers"
 timeframe:
-  announced: 2024-06-28
+  announced: 2024-07-03
   end: 2024-06-28
   ongoing: false
-  start: 2024-06-28
+  start: 2024-06-24
 title: "Operation Morpheus (Cobalt Strike Takedown)"
 title_ko: "모르페우스 작전 (코발트 스트라이크 소탕)"
 type: operation
-updated: 2026-04-27
+updated: 2026-04-28
 operation_role: umbrella
 parent_operation: ""
 summary: "**Operation Morpheus** was an NCA-led, Europol-coordinated international operation targeting unauthorized (pirated/cracked) instances of **Cobalt Strike**, a legitimate penetration testing tool that has been extensively abused by cybercriminals for ransomware attacks, espionage, and other malicious purposes. The operation resulted in the takedown of **593 Cobalt Strike servers** across **27 countries**."
 organizations:
   - "[[uk-nca]]"
   - "[[europol-ec3]]"
+  - "[[fbi]]"
+  - "[[australia-afp]]"
+  - "[[canada-rcmp]]"
+  - "[[germany-bka]]"
+  - "[[netherlands-politie]]"
+  - "[[poland-police]]"
+  - "[[shadowserver]]"
 crime_types:
   - "[[hacking-ic]]"
   - "[[ransomware-ic]]"
   - "[[malware-ic]]"
 ---
-> [!note] This operation is documented from a Tier 3 (cybersecurity media) source. Additional verification from official sources (Tier 1-2) would strengthen data reliability.
-
 ## Summary
 
 **Operation Morpheus** was an NCA-led, Europol-coordinated international operation targeting unauthorized (pirated/cracked) instances of **Cobalt Strike**, a legitimate penetration testing tool that has been extensively abused by cybercriminals for ransomware attacks, espionage, and other malicious purposes. The operation resulted in the takedown of **593 Cobalt Strike servers** across **27 countries**.
@@ -98,6 +118,15 @@ Cobalt Strike is a commercial penetration testing tool developed by HelpSystems 
 ### Coordinating Body
 - [[europol-ec3|Europol EC3]]
 
+### Participating Agencies
+- [[fbi|FBI]]
+- [[australia-afp|Australian Federal Police]]
+- [[canada-rcmp|RCMP]]
+- [[germany-bka|German BKA]]
+- [[netherlands-politie|Dutch Police]]
+- [[poland-police|Polish police]]
+- [[shadowserver|Shadowserver]] and other private-sector infrastructure partners
+
 ### Participating Countries (7 lead + 20 supporting = 27 total)
 Lead participants:
 - [[united-kingdom|United Kingdom]]
@@ -112,28 +141,32 @@ An additional 20 countries were involved through ISP notifications.
 
 ## Legal Framework
 
-Specific legal instruments not detailed in available Tier 3 sources.
+Specific legal instruments are not detailed in the public source set; the operation is best documented as coordinated notification and takedown activity across service providers, supported by law enforcement and private-sector telemetry.
 
 ## Operational Timeline
 
 | Date | Event |
 |------|-------|
 | Pre-2024 | Investigation into criminal Cobalt Strike infrastructure |
-| 2024-06-28 | 593 servers taken down across 27 countries |
+| 2024-06-24 to 2024-06-28 | Action week targeting malicious Cobalt Strike instances |
+| 2024-07-03 | NCA/Europol public announcement; 593 servers removed across 27 countries |
 
 ## Results and Impact
 
 | Metric | Count |
 |--------|-------|
 | Servers taken down | 593 |
+| Malicious instances targeted | 690 |
+| ISPs engaged | 129 |
 | Countries involved | 27 |
 | Lead participating countries | 7 |
+| Indicators of compromise | ~1.2 million |
 
 The takedown of 593 Cobalt Strike servers *likely* disrupted the operations of numerous cybercrime groups, given the tool's widespread use in the criminal ecosystem.
 
 ## Cooperation Mechanisms Used
 
-Not detailed in Tier 3 source. The IP flagging to ISPs suggests a combination of formal legal processes and voluntary cooperation with internet service providers.
+The public sources describe a public-private infrastructure takedown model: malicious instances were identified, shared through law-enforcement and vendor channels, and actioned by hosting providers and ISPs during the action week.
 
 ## Korean Involvement (한국의 참여)
 

@@ -9,7 +9,7 @@ challenges_encountered:
 
 coordinating_body: "[[interpol]]"
 created: 2026-04-08
-credibility_index: 2.25
+credibility_index: 3.75
 crime_type: "[[bec-ic]]"
 edges:
 
@@ -21,14 +21,24 @@ legal_basis:
 lessons_learned:
 
 mechanisms_used:
+  - "[[public-private-cooperation]]"
+  - "[[capacity-building-ic]]"
 
 missing_fields:
 
 operation_type: arrest-sweep
 outcome: success
 participating_agencies:
+  - "[[interpol]]"
+  - "[[nigeria-police-force]]"
+  - "[[group-ib]]"
+  - "[[trend-micro]]"
 
 participating_countries:
+  - "[[nigeria]]"
+  - "[[australia]]"
+  - "[[canada]]"
+  - "[[united-states]]"
 
 period: 2
 related_cases:
@@ -42,13 +52,17 @@ results:
   domains_seized: 0
   indictments: 0
   other:
+    - "37-year-old suspected SilverTerrier leader arrested at Murtala Muhammed International Airport in Lagos"
+    - "Private-sector referral from Group-IB, Palo Alto Networks Unit 42, and Trend Micro enriched by INTERPOL Cyber Fusion Centre"
+    - "Third INTERPOL SilverTerrier-focused action after Falcon I and Falcon II"
 
   servers_seized: 0
   victims_notified: 0
 crime_types:
+  - "[[bec-ic]]"
   - "[[malware-ic]]"
 source_count: 5
-source_tier: 3
+source_tier: 1
 sources:
   - "[[group-ib-operation-delilah-silverterrier-bec]]"
   - "[[cyberscoop-operation-delilah-silverterrier-bec]]"
@@ -58,65 +72,68 @@ sources:
 status: completed
 target_entity: "SilverTerrier BEC group leader"
 timeframe:
-  announced: 2022-01-01
-  end: 2022-12-31
+  announced: 2022-05-25
+  end: 2022-03
   ongoing: false
-  start: 2022-01-01
+  start: 2021-05
 title: "Operation Delilah (SilverTerrier BEC)"
 title_ko: "들릴라 작전 (SilverTerrier BEC)"
 type: operation
-updated: 2026-04-27
+updated: 2026-04-28
 ---
-> [!note] This operation is documented from a Tier 3 (cybersecurity media) source. Additional verification from official sources (Tier 1-2) would strengthen data reliability.
-
 ## Summary
 
-**Operation Delilah** was an INTERPOL-coordinated operation that resulted in the arrest of a leader of **SilverTerrier**, a prolific Nigerian Business Email Compromise (BEC) cybercrime group. The arrest was conducted in [[nigeria|Nigeria]] and represented a significant blow to one of the most tracked BEC groups.
+**Operation Delilah** was an INTERPOL-coordinated public-private operation against the SilverTerrier BEC ecosystem. The official INTERPOL release records that the cybercrime unit of the [[nigeria-police-force|Nigeria Police Force]] arrested a 37-year-old Nigerian suspect in Lagos after a year of international police collaboration.
 
-SilverTerrier is a threat actor tracked by Palo Alto Networks' Unit 42, associated with hundreds of BEC campaigns targeting organizations worldwide.
+The operation began with a private-sector intelligence referral from Group-IB, Palo Alto Networks Unit 42, and Trend Micro. INTERPOL's Cyber Fusion Centre enriched the intelligence, the Africa operations desk coordinated the case with Nigeria, and law-enforcement support was recorded from Australia, Canada, and the United States. That makes Delilah more than a simple one-person arrest: it is a named example of a public-private intelligence chain being converted into a physical arrest.
 
 ## Background
 
-SilverTerrier is a Nigerian cybercrime group known for conducting large-scale BEC attacks. The group has been tracked by cybersecurity researchers since the mid-2010s and is associated with multiple malware families used for credential theft and email compromise. The arrest of the group's leader was *likely* a result of long-term intelligence sharing between INTERPOL and private sector threat intelligence providers.
+SilverTerrier is a Nigerian cybercrime cluster associated with business email compromise, mass phishing, credential theft, and malware-assisted fraud. The source set links Delilah to a wider INTERPOL sequence: Operation Falcon I in 2020, Operation Falcon II in 2021, and Delilah in 2022. Group-IB's source digest states that those three SilverTerrier-focused actions together produced at least 14 suspected-member arrests.
 
 ## Participating Parties
 
-### Coordinating Body
-- [[interpol|INTERPOL]]
-
-### Participating Countries
-- [[nigeria|Nigeria]]
+| Role | Parties |
+|---|---|
+| Coordination | [[interpol|INTERPOL]], including Cyber Fusion Centre and the Africa operations desk |
+| Arrest execution | [[nigeria-police-force|Nigeria Police Force]] cybercrime unit |
+| Private-sector intelligence | [[group-ib|Group-IB]], Palo Alto Networks Unit 42, [[trend-micro|Trend Micro]] |
+| Named supporting jurisdictions | [[australia|Australia]], [[canada|Canada]], [[united-states|United States]] |
+| Arrest location | Murtala Muhammed International Airport, Lagos, [[nigeria|Nigeria]] |
 
 ## Legal Framework
 
-Specific legal instruments not detailed in available sources. INTERPOL's operations in Nigeria for BEC enforcement have typically been conducted under bilateral cooperation arrangements.
+The public releases do not identify the domestic Nigerian charges or court file. What is documented is the operational mechanism: private-sector referral, INTERPOL analytic enrichment, AFJOC/Africa desk coordination, multiple case-coordination meetings, and Nigerian police arrest action.
 
 ## Operational Timeline
 
 | Date | Event |
 |------|-------|
-| ~2022 | SilverTerrier BEC leader arrested in Nigeria |
+| 2021-05 | INTERPOL's AFJOC/Africa desk capacity-building framework was active, and the Delilah referral process began. |
+| 2021-2022 | INTERPOL and partners tracked the suspect's online and offline movements. |
+| 2022-03 | Nigerian police arrested the suspect at Lagos airport. |
+| 2022-05-25 | INTERPOL, Group-IB, CyberScoop, BleepingComputer, and Unit 42 published coordinated public coverage. |
 
 ## Results and Impact
 
-| Metric | Count |
-|--------|-------|
-| Arrests | 1 (group leader) |
+- 1 senior SilverTerrier-linked suspect arrested in Nigeria.
+- The suspect was linked in source coverage to mass phishing and BEC schemes targeting companies and individuals.
+- Vendor reporting connects the suspect to hundreds of domains and dozens of malware command-and-control uses; these are attribution facts, not separate arrest counts.
+- Delilah confirms that INTERPOL treated SilverTerrier as a recurring enforcement target across Falcon I, Falcon II, and Delilah.
 
 ## Cooperation Mechanisms Used
 
-INTERPOL coordination with Nigerian law enforcement (EFCC).
+The strongest documented mechanism is public-private intelligence conversion: vendor telemetry and OSINT were referred to INTERPOL, enriched by INTERPOL analysts, coordinated through the Africa operations desk, and then actioned by Nigerian police. The operation also used case-coordination meetings with named support from Australia, Canada, and the United States.
 
 ## Korean Involvement (한국의 참여)
 
-No Korean involvement identified. SilverTerrier has primarily targeted Western companies, but BEC campaigns increasingly target Asia-Pacific organizations.
+No Korean participation is identified in the current source set.
 
 ## Contradictions & Open Questions
 
-- What was the total financial loss attributed to SilverTerrier?
-- How many countries were victimized by the group?
-- Was the arrested leader convicted?
-- Which private sector companies provided intelligence for the operation?
+- Nigerian charging, conviction, and sentencing records remain unavailable in the local corpus.
+- The public sources identify supporting law-enforcement cooperation from several countries but do not publish a full country-by-country participant list for the four-continent coordination claim.
+- Palo Alto Networks Unit 42 is a source and named contributor, but no separate organization page is currently present in the wiki taxonomy.
 
 ## Follow-Up Actions
 
@@ -162,11 +179,11 @@ No Korean involvement identified. SilverTerrier has primarily targeted Western c
 
 ## Canonical Operation Assessment
 
-This page is retained as a canonical operation because it describes a arrest-sweep against SilverTerrier BEC group leader, rather than a defendant-specific follow-on action. The record attributes lead responsibility to Interpol and coordination to Interpol, with participating or affected jurisdictions recorded as no participating-country list.
+This page is retained as a canonical operation because it describes an INTERPOL-coordinated SilverTerrier BEC enforcement action, rather than a defendant-specific follow-on action. The record attributes lead responsibility and coordination to INTERPOL, with Nigeria as the arrest jurisdiction and Australia, Canada, and the United States recorded as named supporting jurisdictions.
 
-The cooperation model is visible primarily through the lead/coordinating agencies and country list; detailed legal mechanism fields remain sparse.
+The cooperation model is visible through private-sector referral, INTERPOL Cyber Fusion Centre enrichment, AFJOC/Africa desk coordination, and Nigerian police arrest execution.
 
-Operational results captured for the canonical record: 1 arrests.
+Operational results captured for the canonical record: 1 arrest of a senior SilverTerrier-linked suspect; conversion of Group-IB, Unit 42, and Trend Micro intelligence into law-enforcement action.
 
 The canonical source set contains 5 reference(s): Group Ib Operation Delilah Silverterrier Bec, Cyberscoop Operation Delilah Silverterrier Bec, 2022 05 25 Interpol Int Suspected Head Of Cybercrime Gang Arrested In Nigeria, 2022 05 25 Bleepingcomputer Com Interpol Arrests Alleged Leader Of The Silverterrier Bec Gang, 2022 05 25 Unit42 Paloaltonetworks Com Operation Delilah Business Email Compromise Actor.
 The source floor is met for a canonical operation, but source breadth does not by itself prove that every downstream arrest or sentencing is part of this operation; follow-on records should remain linked separately.

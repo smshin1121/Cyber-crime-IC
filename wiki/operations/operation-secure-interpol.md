@@ -6,7 +6,7 @@ challenges_encountered:
 
 coordinating_body: "[[interpol-igci]]"
 created: 2026-04-08
-credibility_index: 1.85
+credibility_index: 3.45
 crime_type: "[[hacking-ic]]"
 edges:
 
@@ -18,12 +18,18 @@ legal_basis:
 lessons_learned:
 
 mechanisms_used:
+  - "[[public-private-cooperation]]"
+  - "[[electronic-evidence]]"
 
 missing_fields:
 
 operation_type: infrastructure-seizure
 outcome: success
 participating_agencies:
+  - "[[interpol-igci]]"
+  - "[[group-ib]]"
+  - "[[kaspersky-lab]]"
+  - "[[trend-micro]]"
 
 participating_countries:
   - "[[india]]"
@@ -44,6 +50,10 @@ results:
   domains_seized: 0
   indictments: 0
   other:
+    - "More than 20,000 malicious IPs and domains disrupted"
+    - "100GB+ of data seized"
+    - "Operation conducted across 26 Asia-Pacific countries"
+    - "Private-sector intelligence support from Group-IB, Kaspersky, and Trend Micro"
 
   servers_seized: 41
   victims_notified: 216000
@@ -63,13 +73,17 @@ timeframe:
   ongoing: false
   start: 2025-01-01
 title: "Operation Secure (INTERPOL Infostealer Crackdown)"
+title_ko: "Operation Secure (인포스틸러 인프라 단속)"
 type: operation
-updated: 2026-04-27
+updated: 2026-04-28
 operation_role: umbrella
 parent_operation: ""
 summary: "Operation Secure was an INTERPOL-led operation conducted from January to April 2025 across 26 Asia-Pacific countries, targeting infostealer malware infrastructure. The operation resulted in 32 arrests, the takedown of over 20,000 malicious IPs and domains, the seizure of 41 servers and 100GB+ of data, and notifications to more than 216,000 victims."
 organizations:
   - "[[interpol-igci]]"
+  - "[[group-ib]]"
+  - "[[kaspersky-lab]]"
+  - "[[trend-micro]]"
 crime_types:
   - "[[hacking-ic]]"
   - "[[ransomware-ic]]"

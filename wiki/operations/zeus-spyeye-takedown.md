@@ -13,22 +13,38 @@ enforcement_type:
   - indictment
 outcome: success
 timeframe:
-  announced: 2015-06-30
-  start: 2015-06-30
-  end: 2015-06-30
+  announced: 2015-06-25
+  start: 2015-06-18
+  end: 2015-06-19
   ongoing: false
 crime_type: "[[banking-trojan-ic]]"
 target_entity: "Zeus/SpyEye banking trojan syndicate"
 lead_agency: "[[europol-ec3]]"
 coordinating_body: "[[europol-ec3]]"
 participating_countries:
+  - "[[austria]]"
+  - "[[belgium]]"
+  - "[[finland]]"
+  - "[[netherlands]]"
+  - "[[norway]]"
+  - "[[united-kingdom]]"
+  - "[[estonia]]"
+  - "[[latvia]]"
+  - "[[germany]]"
+  - "[[moldova]]"
+  - "[[poland]]"
+  - "[[ukraine]]"
+  - "[[united-states]]"
 
 participating_agencies:
   - "[[europol-ec3]]"
+  - "[[eurojust]]"
   - "[[fbi-cyber-division]]"
 legal_basis:
 
 mechanisms_used:
+  - "[[joint-investigation-team]]"
+  - "[[eurojust-coordination-meeting]]"
 
 results:
   arrests: 5
@@ -40,19 +56,21 @@ results:
   victims_notified: 0
   other:
     - "Zeus and SpyEye banking trojan infrastructure disrupted"
+    - "Five suspects arrested in Ukraine"
+    - "Eight house searches conducted across four Ukrainian cities"
+    - "Computer equipment and devices seized for forensic analysis"
+    - "Broader operation linked to 60 arrests, including 34 money-mule arrests"
 edges:
   - source_actor: Europol
     target_actor: FBI
     cooperation_type: joint_investigation
     legal_basis: unknown
     direction: undirected
-credibility_index: 1.88
-source_tier: 3
+credibility_index: 3.85
+source_tier: 2
 missing_fields:
   - legal_basis
-  - mechanisms_used
-  - exact_participating_countries
-  - exact_arrest_count
+  - prosecution_outcomes
 related_cases:
 
 related_operations:
@@ -70,24 +88,23 @@ sources:
   - "[[2015-06-27_thehackernews-com_europol-arrests-gang-behind-zeus-and-spyeye-banking-malware]]"
   - "[[2015-06-29_techmonitor-ai_zeus-spyeye-malware-gang-members-arrested-in-ukraine]]"
 created: 2026-04-08
-updated: 2026-04-27
+updated: 2026-04-28
 operation_role: umbrella
 parent_operation: ""
 summary: "In June 2015, Europol announced the takedown of a cybercrime syndicate responsible for distributing the **Zeus** and **SpyEye** banking trojans. These malware families were among the most prolific financial cybercrime tools of the 2010s, responsible for stealing hundreds of millions of dollars from online banking users worldwide."
 organizations:
   - "[[europol-ec3]]"
+  - "[[eurojust]]"
   - "[[fbi-cyber-division]]"
 crime_types:
   - "[[banking-trojan-ic]]"
   - "[[malware-ic]]"
 ---
-> [!note] This operation is documented from a Tier 3 (cybersecurity media) source. Additional verification from official sources (Tier 1-2) would strengthen data reliability.
-
 ## Summary
 
-In June 2015, Europol announced the takedown of a cybercrime syndicate responsible for distributing the **Zeus** and **SpyEye** banking trojans. These malware families were among the most prolific financial cybercrime tools of the 2010s, responsible for stealing hundreds of millions of dollars from online banking users worldwide.
+In June 2015, Europol and Eurojust announced a Joint Investigation Team action against a cybercrime ring using **Zeus** and **SpyEye** banking trojans. The action days were 18-19 June 2015 in Ukraine, where authorities arrested five suspects, carried out eight house searches across four cities, and seized computer equipment for forensic analysis.
 
-The operation involved international law enforcement cooperation to dismantle the criminal network operating these banking trojans. The Zeus and SpyEye malware families had been used to harvest banking credentials from infected computers on a massive scale.
+The operation targeted a full banking-trojan value chain: malware development, infection, credential theft, fraudulent online-banking transfers, and money-mule cash-out. The official Europol source also links the action to a broader operation that produced 60 arrests, including 34 arrests in a subsidiary money-mule network.
 
 ## Background
 
@@ -95,39 +112,38 @@ Zeus (also known as Zbot) first appeared around 2007 and became one of the most 
 
 ## Participating Parties
 
-### Coordinating Body
-- [[europol-ec3|Europol EC3]]
-
-### Participating Agencies
-- [[europol-ec3|Europol EC3]]
-- [[fbi-cyber-division|FBI Cyber Division]]
-
-> [!warning] Legal status check needed
-> The full list of participating countries and agencies needs verification from official Tier 1-2 sources.
+| Role | Parties |
+|---|---|
+| Coordination | [[europol-ec3|Europol EC3]], [[eurojust|Eurojust]] |
+| JIT members | [[austria|Austria]], [[belgium|Belgium]], [[finland|Finland]], [[netherlands|Netherlands]], [[norway|Norway]], [[united-kingdom|United Kingdom]] |
+| Operational venue | [[ukraine|Ukraine]] |
+| Additional cooperation | [[estonia|Estonia]], [[latvia|Latvia]], [[germany|Germany]], [[moldova|Moldova]], [[poland|Poland]], [[united-states|United States]] |
 
 ## Legal Framework
 
-Specific legal bases for the international cooperation have not been identified from available Tier 3 sources.
+The public record identifies a Joint Investigation Team supported by Europol and Eurojust. The source set does not provide the underlying domestic charging documents or the complete legal-basis paperwork for each jurisdiction.
 
 ## Operational Timeline
 
 | Date | Event |
 |------|-------|
-| 2015-06-30 | Europol announces takedown of Zeus/SpyEye crime syndicate |
+| 2015-06-18 to 2015-06-19 | Coordinated action days in Ukraine; arrests, searches, and forensic seizures. |
+| 2015-06-25 | Europol announced the JIT takedown publicly. |
+| 2015-06-27 to 2015-06-30 | Independent cybersecurity media coverage amplified the Europol announcement. |
 
 ## Results and Impact
 
 | Metric | Detail |
 |--------|--------|
-| Syndicate disrupted | Zeus/SpyEye banking trojan network |
-| International cooperation | Multi-country joint operation |
-
-> [!warning] Legal status check needed
-> Precise arrest counts and seizure details need verification from official sources.
+| Arrests | 5 suspects arrested in Ukraine on the action days |
+| Searches | 8 house searches in 4 Ukrainian cities |
+| Seizures | Computer equipment and devices seized for forensic analysis |
+| Broader enforcement context | 60 total arrests in the broader operation, including 34 money-mule arrests |
+| Estimated damage | At least EUR 2 million for the investigated cluster in the Europol source digest |
 
 ## Cooperation Mechanisms Used
 
-Details of specific cooperation mechanisms are not available from the Tier 3 source.
+The core mechanism was a Joint Investigation Team with Eurojust judicial support. Ukraine was the main operational venue, while the United States and several European countries provided additional cooperation outside the JIT member list.
 
 ## Korean Involvement (한국의 참여)
 
@@ -135,10 +151,9 @@ No Korean involvement identified. Zeus and SpyEye primarily targeted Western ban
 
 ## Contradictions & Open Questions
 
-- What was the exact number of arrests and in which countries?
-- Which specific legal instruments enabled the cross-border cooperation?
-- What was the timeline of the investigation preceding the takedown announcement?
-- How many victims were affected by the Zeus/SpyEye syndicate?
+- The source set confirms the JIT and action-day results, but does not provide complete prosecution outcomes for all arrested suspects.
+- The page overlaps heavily with [[zeus-spyeye-jit-takedown]]. That duplicate-canonical relationship should be reviewed separately before one page is absorbed into the other.
+- Victim counts are not precise in the current corpus; the strongest quantified figure is the Europol damage estimate for the investigated cluster.
 
 ## Follow-Up Actions
 
@@ -176,15 +191,15 @@ No Korean involvement identified. Zeus and SpyEye primarily targeted Western ban
 
 ## Canonical Operation Assessment
 
-This page is retained as a canonical operation because it describes a arrest-sweep against Zeus/SpyEye banking trojan syndicate, rather than a defendant-specific follow-on action. The record attributes lead responsibility to Europol Ec3 and coordination to Europol Ec3, with participating or affected jurisdictions recorded as no participating-country list.
+This page is retained as a canonical operation because it describes a Joint Investigation Team arrest sweep against the Zeus/SpyEye banking-trojan syndicate, rather than a defendant-specific follow-on action. The record attributes coordination to Europol and Eurojust, with JIT members and additional cooperating jurisdictions recorded in the country list.
 
-The cooperation model is documented through named agencies and partners: Europol Ec3 and Fbi Cyber Division; enforcement posture: Arrest and Indictment.
+The cooperation model is documented through named agencies and partners: Europol EC3, Eurojust, FBI Cyber Division, the six JIT member states, Ukraine as operational venue, and additional cooperating European and U.S. authorities; enforcement posture: arrest sweep and forensic seizure.
 
-Operational results captured for the canonical record: 5 arrests; Zeus and SpyEye banking trojan infrastructure disrupted.
+Operational results captured for the canonical record: 5 action-day arrests; 8 searches across 4 Ukrainian cities; computer-equipment seizures; Zeus and SpyEye banking-trojan infrastructure disrupted; broader operation linked to 60 arrests including 34 money-mule arrests.
 
 The canonical source set contains 6 reference(s): Europol Zeusspyeye Joint Investigation Team Takedown, 2015 06 30 News Sophos Com Zeus And Spyeye Crime Syndicate Taken Down By Europol, 2025 06 25 Helpnetsecurity Com The Downfall Of A Major Cybercrime Ring Exploiting Banking Trojans, 2015 06 25 Scworld Com Europol Takes Down High Profile Ukraine Based Cybergang, 2015 06 27 Thehackernews Com Europol Arrests Gang Behind Zeus And Spyeye Banking Malware, 2015 06 29 Techmonitor Ai Zeus Spyeye Malware Gang Members Arrested In Ukraine.
 The source floor is met for a canonical operation, but source breadth does not by itself prove that every downstream arrest or sentencing is part of this operation; follow-on records should remain linked separately.
-Known metadata gaps still carried by this page: Legal Basis, Mechanisms Used, Exact Participating Countries, Exact Arrest Count.
+Known metadata gaps still carried by this page: Legal Basis, Prosecution Outcomes.
 For dataset use, this page should be treated as the operation-level aggregation point: country, agency, mechanism and outcome fields describe the coordinated enforcement action as a whole. Later indictments, pleas, sentencings, extraditions or forfeiture actions should be attached as related case or absorbed follow-on records unless the source explicitly presents them as a new multinational operation.
 When source records contain broader background, repeated wire-service republications, or topic-page material, this assessment gives priority to facts that are directly tied to the named operation, its participating authorities, its target infrastructure or criminal service, and its measurable enforcement outcome. Peripheral source titles are not treated as independent taxonomy or result evidence.
 This keeps the canonical record analytically bounded and reproducible.
