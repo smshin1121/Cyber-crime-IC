@@ -40,7 +40,7 @@ source_count: 1
 sources:
   - "[[2015-12-03_ice-gov_senior-advisor-arrested-in-thailand]]"
 created: 2026-04-18
-updated: 2026-04-26
+updated: 2026-04-28
 summary: "Senior Advisor Arrested in Thailand is documented in the linked source material. The Silk Road takedown was the seizure and shutdown of the pioneering dark web drug marketplace on 2 October 2013, accompanied by the arrest of its creator and operator, Ross William Ulbricht (alias \"Dread Pirate Roberts\" or \"DPR\"), by the FBI in San Francisco. Available source coverage includes US ICE."
 ---
 ## Summary
@@ -86,10 +86,12 @@ Senior Advisor Arrested in Thailand is documented in the linked source material.
 
 ## Raw Source Highlights
 
-- US ICE, 2015-12-03: ET: Results of Nationwide Law Enforcement Effort Press Conference ICE Check-in for Aliens Get information about how to check in with your local ICE Office here .
-- US ICE, 2015-12-03: Immigration and Customs Enforcement Learn More About ICE " class="we-megamenu-nolink" title="Click here to open the Enforcement and Removal Operations menu"> Enforcement and Removal Operations Identify and Arrest Criminal Alien Program Fugitive Operations Law Enforcement Partnerships 287g Program Immigration Fraud Prosecutions Detain.
-- US ICE, 2015-12-03: News about HSI Protecting National Security Preventing Crimes of Exploitation Operation Identify Ensuring Public Safety Upholding the Law in Global Trade Investigating Cybercrime Combating Financial Crime Student and Exchange Visitor Program (SEVP) " class="we-megamenu-nolink" title="Click here to open the Newsroom menu"> Newsroom News.
 - US ICE, 2015-12-03: Roger Thomas Clark, 54, a citizen of Canada, was arrested on charges that he acted as a senior adviser to Ross Ulbricht, aka "Dread Pirate Roberts," aka "DPR," the owner and operator of the Silk Road website, an online illicit black market that operated from January 2011 until Oct.
+- US ICE, 2015-12-03: Kitchen, special agent-in-charge of the Internal Revenue Service's Criminal Investigation (IRS-CI) in New York.
+- US ICE, 2015-12-03: Thanks to the investigative work of our fellow law enforcement agencies and our international partners, Clark is in custody and awaits American justice.
+- US ICE, 2015-12-03: Our HSI special agents continue to work closely with our federal and international law enforcement partners around the world to patrol the darknet and protect public safety.
+- US ICE, 2015-12-03: Clark may have thought residing in Thailand would keep him out of reach of U.S authorities, but our international partnerships have proven him wrong.
+- US ICE, 2015-12-03: We thank our law enforcement partners who have worked with the FBI on this case." "Anonymity is what Roger Thomas Clark believed he attained posing as 'Variety Jones' while allegedly committing crimes; but handcuffed and pending extradition is not anonymity," said Hunt.
 
 <!-- RAW_TEXT_HIGHLIGHTS_END -->
 

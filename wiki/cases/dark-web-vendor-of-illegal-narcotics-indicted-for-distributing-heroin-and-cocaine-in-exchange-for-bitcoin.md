@@ -34,7 +34,7 @@ source_count: 1
 sources:
   - "[[2026-04-18_justice-gov_dark-web-vendor-illegal-narcotics-indicted-distributing-heroin-and-cocaine-exchange]]"
 created: 2026-04-18
-updated: 2026-04-26
+updated: 2026-04-28
 summary: "Dark Web Vendor of Illegal Narcotics Indicted for Distributing Heroin and Cocaine in Exchange for Bitcoin is documented in the linked source material. Available source coverage includes US DOJ USAO."
 ---
 ## Summary
@@ -80,6 +80,8 @@ Dark Web Vendor of Illegal Narcotics Indicted for Distributing Heroin and Cocain
 - US DOJ USAO, 2022-07-13: These first two counts relate to Hernandez’s alleged activities on the dark web starting in January 2013.
 - US DOJ USAO, 2022-07-13: Brubaker, Inspector-in-Charge, New York Division, United States Postal Inspection Service (USPIS), announced the charges.
 - US DOJ USAO, 2022-07-13: Today, the defendants learned the hard way that once their crimes left the dark web and entered the real world, Postal Inspectors and our law enforcement partners were there waiting to take them down.
+- US DOJ USAO, 2022-07-13: All of these sites were large global dark web marketplaces that functioned like conventional e-commerce websites but were geared towards the trafficking of contraband.
+- US DOJ USAO, 2022-07-13: These dark web marketplaces required users to trade in digital currencies, primarily Bitcoin, and the marketplaces did not allow for transactions in official, government-backed fiat currency.
 
 <!-- RAW_TEXT_HIGHLIGHTS_END -->
 

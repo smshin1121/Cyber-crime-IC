@@ -34,7 +34,7 @@ source_count: 1
 sources:
   - "[[2026-04-18_justice-gov_4-arrested-latest-la-county-based-jcode-operation-allegedly-operating-drug]]"
 created: 2026-04-18
-updated: 2026-04-26
+updated: 2026-04-28
 summary: "4 Arrested in Latest L.A. County-Based “JCODE” Operation for Allegedly Operating a Drug Distribution Network on the Darknet is documented in the linked source material. Available source coverage includes US DOJ USAO."
 ---
 ## Summary
@@ -80,6 +80,8 @@ summary: "4 Arrested in Latest L.A. County-Based “JCODE” Operation for Alleg
 - US DOJ USAO, 2025-04-10: The Wednesday arrests are the latest in the Justice Department’s ongoing JCODE efforts (Joint Criminal Opioid Darknet Enforcement) to address the growing number of illicit vendors operating on the darknet providing large quantities of harmful substances to thousands of people across the United States.
 - US DOJ USAO, 2025-04-10: On April 1, a federal grand jury returned a 12-count indictment which outlines 116 overt acts that were done in furtherance of the alleged conspiracy, and which charges the following defendants for their alleged roles in operating the drug distribution network which operated approximately 10 darknet vendors on 17 different markets.
 - US DOJ USAO, 2025-04-10: All four defendants are charged with one count of conspiracy to distribute and possess with intent to distribute cocaine, methamphetamine, ketamine, and MDMA (Ecstasy).
+- US DOJ USAO, 2025-04-10: Avalyan is charged with one count of distribution of cocaine, one count of distribution of MDMA, and one count of distribution of distribution of methamphetamine.
+- US DOJ USAO, 2025-04-10: Gevorgyan is charged with one count of possession with intent to distribute MDMA and one count of possession with intent to distribute ketamine.
 
 <!-- RAW_TEXT_HIGHLIGHTS_END -->
 

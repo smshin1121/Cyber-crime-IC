@@ -39,7 +39,7 @@ source_count: 1
 sources:
   - "[[2026-04-18_justice-gov_former-hedge-fund-manager-convicted-wire-fraud-money-laundering-and-contempt-court]]"
 created: 2026-04-18
-updated: 2026-04-26
+updated: 2026-04-28
 summary: "Former Hedge Fund Manager Convicted Of Wire Fraud, Money Laundering, And Contempt Of Court is documented in the linked source material. Available source coverage includes US DOJ USAO."
 ---
 ## Summary
@@ -81,7 +81,6 @@ Former Hedge Fund Manager Convicted Of Wire Fraud, Money Laundering, And Contemp
 
 ## Raw Source Highlights
 
-- US DOJ USAO, 2015-10-14: Attorney's Office, Northern District of California SAN FRANCISCO – A jury convicted James Murray today of 22 felonies—including wire fraud, money laundering, and aggravated identity theft—and contempt of court, announced Acting U.S.
 - US DOJ USAO, 2015-10-14: After being charged in a criminal complaint with wire fraud in February of 2012, Murray was charged on March 17, 2015, in a fourth superseding indictment with 22 felonies including 16 counts of wire fraud, in violation of 18 U.S.C.
 - US DOJ USAO, 2015-10-14: Attorneys Robin Harris and Lloyd Farnham are prosecuting the case with the assistance of Lillian Arauz-Haase, Maryam Beros and Jessica Meegan.
 

@@ -59,7 +59,7 @@ sources:
   - "[[2015-01-01_europol-europa-eu_iocta-2015-darknets]]"
   - "[[2015-01-01_swansea-ac-uk_gdpo-situation-analysis-operation-onymous]]"
 created: 2026-04-18
-updated: 2026-04-26
+updated: 2026-04-28
 summary: "This slug is a parser-error duplicate of [[us-v-benthall-silk-road-2]]. It has been normalized to Blake Benthall and retained only to preserve existing links."
 ---
 ## Summary
@@ -111,6 +111,31 @@ The page is retained as a compatibility anchor, but its metadata now preserves t
 - Operation Onymous was a joint international law enforcement operation conducted on 5-6 November 2014 by the FBI, Europol, Eurojust, and the U.S. Department of Homeland Security, targeting darknet markets and other hidden services on the Tor network.
 
 <!-- SOURCE_ENRICHMENT_END -->
+
+<!-- RAW_TEXT_HIGHLIGHTS_START -->
+
+## Raw Source Highlights
+
+- FBI, 2014-11-06: Attorney Preet Bharara said: “As alleged, Blake Benthall attempted to resurrect Silk Road, a secret website that law enforcement seized last year, by running Silk Road 2.0, a nearly identical criminal enterprise.
+- FBI, 2014-11-06: The FBI worked with law enforcement partners here and abroad on this case and will continue to investigate and bring to prosecution those who seek to run similar black markets online.
+- FBI, 2014-11-06: HSI will continue to work in partnership with its federal and international law enforcement partners around the world to hold criminals who use anonymous Internet software for illegal activities who seek to hide behind the anonymity of the Internet to carry out illegal activities accountable for their actions.
+- FBI, 2014-11-06: In November 2013, approximately five weeks after the Government shut down Silk Road and arrested Ulbricht, Silk Road 2.0 was launched.
+- FBI, 2014-11-06: By doing so, the HSI-UC was able to interact directly with BENTHALL throughout his operation of the website.
+- FBI, 2014-11-06: * * * BENTHALL, 26, of San Francisco, California, is charged with one count of conspiring to commit narcotics trafficking, which carries a maximum sentence of life in prison and a mandatory minimum sentence of 10 years in prison; one count of conspiring to commit computer hacking, which carries a maximum sentence of five years in.
+- ICE / HSI, 2014-11-06: Immigration and Customs Enforcement’s (ICE) Homeland Security Investigations (HSI) and the FBI arrested the administrator of a black market website designed to buy and sell illegal drugs and other unlawful goods over the Internet.
+- ICE / HSI, 2014-11-06: The arrest is the result of an international investigation by HSI, FBI and the European Police (EUROPOL).
+- ICE / HSI, 2014-11-06: Blake Benthall, 26, aka “Defcon” was arrested Thursday in San Francisco, California in connection with his operation and ownership of the Silk Road 2.0 website, a hidden website designed to enable its users to buy and sell illegal drugs and other unlawful goods and services anonymously and beyond the reach of law enforcement.
+- ICE / HSI, 2014-11-06: “HSI will continue to work in partnership with its federal and international law enforcement partners around the world to hold criminals who use anonymous internet software for illegal activities accountable for their actions.
+- ICE / HSI, 2014-11-06: “The FBI worked with law enforcement partners here and abroad on this case and will continue to investigate and bring to prosecution those who seek to run similar black markets online.” “Today we have demonstrated that, together, we are able to efficiently remove vital criminal infrastructures that are supporting serious organized crime.
+- ICE / HSI, 2014-11-06: “The results of today’s law enforcement action will of course not last forever.
+- Europol, 2015-01-01: IOCTA 2015 --> Open image in new tab Darknet Vendors A small fraction of criminals active in the Darknet manage to operate successful businesses generating significant profits.
+- Europol, 2015-01-01: Over half of EU Member States have investigated drug or payment card related activity on the Darknet and over one third have investigated criminal activity related to intellectual property, weapons or compromised bank accounts.
+- Europol, 2015-01-01: Almost a third of EU law enforcement actively monitors marketplaces, although largely in relation to specific operations rather than general intelligence gathering.
+- Europol, 2015-01-01: In November 2014, 21 countries participated in Operation Onymous which saw the seizure of 619 .onion domains along with bitcoins worth EUR 900 000 and EUR 180 000 in cash, drugs, gold and silver.
+- Europol, 2015-01-01: It is estimated that the seized sites represented approximately 37% of the market share on the Darknet.
+- Europol, 2015-01-01: Whether this paranoia is unwarranted or not, exit scams such as these create an additional dimension of distrust that law enforcement could not hope to achieve and further undermines confidence in these marketplaces.
+
+<!-- RAW_TEXT_HIGHLIGHTS_END -->
 
 ## References
 

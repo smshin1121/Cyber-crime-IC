@@ -45,7 +45,7 @@ sources:
   - "[[2021-10-27_nationalcrimeagency-gov-uk_international-operation-targets-dark-web-drugs-marketplace]]"
   - "[[2021-01-12_europol-europa-eu_darkmarket-world-s-largest-illegal-dark-web-marketplace-taken-down]]"
 created: 2026-04-18
-updated: 2026-04-26
+updated: 2026-04-28
 summary: "This page tracks the multinational arrest wave publicly announced under Operation Dark HunTOR after exploitation of the seized DarkMarket infrastructure. Public sources support the operation-wide arrests and seizures but do not identify a full named defendant list."
 ---
 ## Summary
@@ -96,6 +96,19 @@ The core integrity constraint is granularity. The public sources are strong on c
 - The intelligence gathered from DarkMarket's infrastructure directly enabled Operation Dark HunTOR nine months later, which produced 150 arrests across nine countries.
 
 <!-- SOURCE_ENRICHMENT_END -->
+
+<!-- RAW_TEXT_HIGHLIGHTS_START -->
+
+## Raw Source Highlights
+
+- US DOJ, 2021-10-26: Thanks to unprecedented international law enforcement collaboration — 150 Darknet drug traffickers have been arrested around the world — including 65 here in the United States.
+- US DOJ, 2021-10-26: Led by the Joint Criminal Opioid and Darknet Enforcement team, an international law enforcement partnership — also known as JCODE — Operation Dark HunTor spanned 10 months, three continents, and more than 12 international law enforcement agencies.
+- US DOJ, 2021-10-26: This operation seized nearly $32 million in cash and virtual currencies — the largest JCODE seizure to date.
+- US DOJ, 2021-10-26: Our efforts span back to the January 2021 dismantling of Dark Market — at the time the world’s largest illegal marketplace on the Darknet — thanks to our German law enforcement partners.
+- US DOJ, 2021-10-26: Armed with intelligence from that action, Operation Dark HunTor was launched with one clear goal: to hunt down the vendors, buyers, and suppliers who had been hiding on that site and make sure they did not find a new platform.
+- US DOJ, 2021-10-26: The timing was key: since the onset of the COVID-19 pandemic, more people have turned to the Darknet than ever before to buy drugs.
+
+<!-- RAW_TEXT_HIGHLIGHTS_END -->
 
 ## References
 

@@ -34,7 +34,7 @@ source_count: 1
 sources:
   - "[[2026-04-18_justice-gov_citizen-croatia-and-serbia-charged-running-monopoly-drug-market-darknet]]"
 created: 2026-04-18
-updated: 2026-04-26
+updated: 2026-04-28
 summary: "Citizen of Croatia and Serbia Charged with Running Monopoly Drug Market on the Darknet is documented in the linked source material. Available source coverage includes US DOJ USAO."
 ---
 ## Summary
@@ -78,8 +78,10 @@ Citizen of Croatia and Serbia Charged with Running Monopoly Drug Market on the D
 
 - US DOJ USAO, 2023-06-23: Attorney's Office, District of Columbia Defendant Facilitated $18 Million in Illegal Drug Transactions Using Cryptocurrency WASHINGTON –Milomir Desnica has been extradited from Austria to face charges of running a criminal darknet narcotics marketplace.
 - US DOJ USAO, 2023-06-23: The charges, unsealed on May 25, 2023, were announced today by United States Attorney Matthew M.
-- US DOJ USAO, 2023-06-23: Desnica, 33, of Smederevska Palanka, Serbia, was indicted on July 26, 2022, by a grand jury in the U.S.
 - US DOJ USAO, 2023-06-23: According to the indictment, in late 2019, Desnica launched and operated a darknet marketplace, known as Monopoly Market (“Monopoly”), for the purpose of selling illicit narcotics including opioids, stimulants, psychedelics, and prescription medications, among other drugs.
+- US DOJ USAO, 2023-06-23: In 2021, law enforcement within the United States placed and received numerous orders for narcotics on Monopoly from various vendors.
+- US DOJ USAO, 2023-06-23: In December 2021, in coordination with foreign law enforcement partners in Germany and Finland, the computer server hosting Monopoly was seized and taken offline.
+- US DOJ USAO, 2023-06-23: Through analysis of the seized server, law enforcement identified records of the narcotics sales facilitated by Monopoly, financial records documenting cryptocurrency payments on Monopoly, an online forum associated with Monopoly, communications from the Monopoly operator to vendors, commission payment invoices and more.
 
 <!-- RAW_TEXT_HIGHLIGHTS_END -->
 

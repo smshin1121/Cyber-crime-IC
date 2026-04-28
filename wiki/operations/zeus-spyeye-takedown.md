@@ -84,7 +84,7 @@ sources:
   - "[[europol-zeusspyeye-joint-investigation-team-takedown]]"
 created: 2026-04-08
 updated: 2026-04-28
-operation_role: absorbed
+operation_role: follow-on
 parent_operation: "[[zeus-spyeye-jit-takedown]]"
 summary: "Alias page absorbed into [[zeus-spyeye-jit-takedown]], the canonical Joint Investigation Team record for the June 2015 Zeus/SpyEye banking-trojan action."
 organizations:

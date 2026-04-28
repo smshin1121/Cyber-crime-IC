@@ -56,7 +56,7 @@ sources:
   - "[[2019-10-17_patch_2-florida-men-accused-in-worldwide-kiddie-porn-bust]]"
   - "[[2019-10-16_ice_south-korean-national-and-hundreds-others-charged-worldwide-takedown-largest-darknet]]"
 created: 2026-04-18
-updated: 2026-04-26
+updated: 2026-04-28
 summary: "United States v. Jack R. Dove III is a Middle District of Florida follow-on prosecution from the Welcome To Video international takedown. The sources identify Dove, the 2019 indictment, the March 30, 2021 guilty plea, Bitcoin-based account evidence, South Korea server seizure evidence, and the broader HSI/IRS-CI/UK NCA/Korean National Police investigation path."
 ---
 ## Summary
@@ -114,6 +114,23 @@ The DOJ plea release supplies the core defendant-specific facts. WFLA gives loca
 - Patch local Florida coverage of the international takedown affecting U.S. defendants.
 
 <!-- SOURCE_ENRICHMENT_END -->
+
+<!-- RAW_TEXT_HIGHLIGHTS_START -->
+
+## Raw Source Highlights
+
+- US DOJ USAO, 2021-03-30: According to court documents, Dove used the cryptocurrency bitcoin to pay for a membership to a Darknet marketplace called “Welcome To Video,” which contained the largest collection of child sexual exploitation materials by volume on the Darknet.
+- US DOJ USAO, 2021-03-30: In March 2018, the Korean National Police in South Korea seized the server that was used to operate the “Welcome To Video” website, which contained over 250,000 child sexual exploitation videos.
+- US DOJ USAO, 2021-03-30: On November 30, 2018, federal agents executed a search warrant at Dove’s Lakeland home and seized several electronic devices.
+- US DOJ USAO, 2021-03-30: The international investigation was led by IRS-Criminal Investigation, Homeland Security Investigations, the National Crime Agency of the United Kingdom, and the Korean National Police of the Republic of Korea.
+- U.S. Immigration and Customs Enforcement (ICE) - Homeland Security Investigations, 2019-10-16: Son has also been charged and convicted in South Korea and is currently in custody serving his sentence in South Korea.
+- U.S. Immigration and Customs Enforcement (ICE) - Homeland Security Investigations, 2019-10-16: “Sadly, advances in technology have enabled child predators to hide behind the dark web and cryptocurrency to further their criminal activity.
+- U.S. Immigration and Customs Enforcement (ICE) - Homeland Security Investigations, 2019-10-16: “We will continue to pursue such criminals on and off the darknet in the United States and abroad, to ensure they receive the punishment their terrible crimes deserve.
+- U.S. Immigration and Customs Enforcement (ICE) - Homeland Security Investigations, 2019-10-16: Regardless of the illicit scheme, and whether the proceeds are virtual or tangible, we will continue to work with our federal and international partners to track down these disgusting organizations and bring them to justice.
+- U.S. Immigration and Customs Enforcement (ICE) - Homeland Security Investigations, 2019-10-16: The operation resulted in the seizure of approximately eight terabytes of child sexual exploitation videos, which is one of the largest seizures of its kind.
+- U.S. Immigration and Customs Enforcement (ICE) - Homeland Security Investigations, 2019-10-16: Welcome To Video offered these videos for sale using the cryptocurrency bitcoin.
+
+<!-- RAW_TEXT_HIGHLIGHTS_END -->
 
 ## References
 

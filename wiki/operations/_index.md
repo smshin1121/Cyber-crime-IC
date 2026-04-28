@@ -33,7 +33,7 @@ updated: 2026-04-14
 | [[operation-hyperion]] | CYB-2017-050 | 1 | completed | umbrella | 6 | 1.88 | 3 |
 | [[carbanak-cobalt-takedown]] | CYB-2018-001 | 1 | completed | umbrella | 5 | 3.50 | 2 |
 | [[operation-wirewire]] | CYB-2018-002 | 1 | completed | umbrella | 5 | 2.28 | 2 |
-| [[infraud-organization-takedown]] | CYB-2018-003 | 4 | completed | umbrella | 7 | 4.10 | 1 |
+| [[infraud-organization-takedown]] | CYB-2018-003 | 1 | completed | umbrella | 7 | 4.10 | 1 |
 | [[fin7-takedown]] | CYB-2018-004 | 1 | completed | umbrella | 5 | 2.28 | 2 |
 | [[rex-mundi-takedown]] | CYB-2018-005 | 1 | completed | umbrella | 5 | 2.28 | 2 |
 | [[operation-power-off]] | CYB-2018-006 | 1 | ongoing | umbrella | 7 | 3.80 | 1 |
@@ -131,7 +131,7 @@ These records are retained as traceable prosecution, sentencing, plea, forfeitur
 
 | Operation | Case ID | Period | Status | Role | Sources | CI | Tier |
 |-----------|---------|--------|--------|------|---------|----|------|
-| [[zeus-spyeye-takedown]] | CYB-2015-050 | 1 | absorbed | absorbed | 1 | 3.85 | 2 |
+| [[zeus-spyeye-takedown]] | CYB-2015-050 | 1 | absorbed | follow-on | 1 | 3.85 | 2 |
 | [[banking-trojan-fraud-sentencing-2017]] | CYB-2017-051 | 1 | absorbed | follow-on | 1 | 2.55 | 3 |
 | [[infraud-telusma-sentencing]] | CYB-2022-053 | 3 | absorbed | follow-on | 1 | 4.30 | 1 |
 | [[operation-emotet-disruption-ladybird]] | CYB-FUP-002 | 2 | absorbed | follow-on | 1 | 4.00 | 1 |

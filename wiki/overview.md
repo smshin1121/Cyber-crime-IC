@@ -65,10 +65,10 @@ The **DOJ-led model** leverages US multi-agency coordination (FBI, HSI, USSS, IR
 | Canonical operations documented | 111 | 2014-2026 |
 | Absorbed follow-on records | 974 | Retained for traceability |
 | Total operation records | 1085 | Canonical + absorbed |
-| Period 1 operations | 24 | 2014-2018 |
+| Period 1 operations | 25 | 2014-2018 |
 | Period 2 operations | 24 | 2019-2022 |
 | Period 3 operations | 62 | 2023-2025 |
-| Period 4 operations | 1 | Repository-coded |
+| Period 4 operations | 0 | Repository-coded |
 | Operations without period code | 0 | Metadata cleanup queue |
 | Europol-coordinated | 43 | All periods |
 | INTERPOL-coordinated | 25 | All periods |

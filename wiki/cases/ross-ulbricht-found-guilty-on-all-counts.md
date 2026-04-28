@@ -40,7 +40,7 @@ source_count: 1
 sources:
   - "[[2015-02-04_fbi-gov_ross-ulbricht-found-guilty-on-all-counts]]"
 created: 2026-04-18
-updated: 2026-04-26
+updated: 2026-04-28
 summary: "Ross Ulbricht Found Guilty on All Counts is documented in the linked source material. The Silk Road takedown was the seizure and shutdown of the pioneering dark web drug marketplace on 2 October 2013, accompanied by the arrest of its creator and operator, Ross William Ulbricht (alias \"Dread Pirate Roberts\" or \"DPR\"), by the FBI in San Francisco. Available source coverage includes FBI New York."
 ---
 ## Summary
@@ -91,6 +91,8 @@ Ross Ulbricht Found Guilty on All Counts is documented in the linked source mate
 - FBI New York, 2015-02-04: The supposed anonymity of the dark web is not a protective shield from arrest and prosecution.” According to the Complaint, the Superseding Indictment, and the evidence presented at trial: ULBRICHT created Silk Road in approximately January 2011, and owned and operated the underground website until it was shut down by law enforcement.
 - FBI New York, 2015-02-04: Using the online moniker “Dread Pirate Roberts,” or “DPR,” ULBRICHT controlled and oversaw every aspect of Silk Road, and managed a staff of paid, online administrators and computer programmers who assisted with the day-to-day operation of the site.
 - FBI New York, 2015-02-04: Through his ownership and operation of Silk Road, ULBRICHT reaped commissions worth over $13 million generated from the illicit sales conducted through the site.
+- FBI New York, 2015-02-04: Bharara praised the outstanding investigative work of the Federal Bureau of Investigation and its New York Special Operations and Cyber Division, as well as the outstanding investigative work of the DEA’s New York Organized Crime Drug Enforcement Strike Force, which comprises agents and officers of the DEA, the IRS, the New York City.
+- FBI New York, 2015-02-04: Bharara also thanked the ICE-HSI Chicago-O’Hare office for its assistance and support, as well as the Department of Justice’s Computer Crime and Intellectual Property Section and Office of International Affairs.
 
 <!-- RAW_TEXT_HIGHLIGHTS_END -->
 

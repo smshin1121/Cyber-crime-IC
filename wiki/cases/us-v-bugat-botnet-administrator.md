@@ -38,7 +38,7 @@ source_count: 1
 sources:
   - "[[2015-10-13_justice-gov_bugat-botnet-administrator-arrested-and-malware-disabled]]"
 created: 2026-04-18
-updated: 2026-04-26
+updated: 2026-04-28
 summary: "United States v. Bugat Botnet Administrator is documented in the linked source material. The Dridex/Evil Corp disruption and prosecution was a **multi-year international law enforcement operation** targeting the Dridex banking trojan (also known as Bugat and Cridex) and its operators within the Russia-based cybercriminal organization **Evil Corp**. Available source coverage includes US DOJ."
 ---
 ## Summary
@@ -84,10 +84,12 @@ United States v. Bugat Botnet Administrator is documented in the linked source m
 
 ## Raw Source Highlights
 
-- US DOJ, 2015-10-13: Department of Justice title="About" title="News" title="Guidance & Resources" Justice.gov Office of Public Affairs Bugat Botnet Administrator Arrested and Malware Disabled This is archived content from the U.S.
 - US DOJ, 2015-10-13: Andrey Ghinkul, aka Andrei Ghincul and Smilex, 30, of Moldova, was charged in a nine-count indictment unsealed today in the Western District of Pennsylvania with criminal conspiracy, unauthorized computer access with intent to defraud, damaging a computer, wire fraud and bank fraud.
 - US DOJ, 2015-10-13: “The steps announced today are another example of our global and innovative approach to combatting cybercrime,” said Assistant Attorney General Caldwell.
-- US DOJ, 2015-10-13: With our partners here and overseas, we will shut down these cross-border criminal schemes.” “Through a technical disruption and criminal indictment we have struck a blow to one of the most pernicious malware threats in the world,” said U.S.
+- US DOJ, 2015-10-13: “Cyber criminals often reach across international borders, but this operation demonstrates our determination to shut them down no matter where they are,” said Executive Assistant Director Robert Anderson Jr.
+- US DOJ, 2015-10-13: “The criminal charges announced today would not have been possible without the cooperation of our partners in international law enforcement and private sector.
+- US DOJ, 2015-10-13: We continue to strengthen those relationships and find innovative ways to counter cyber criminals.” According to the indictment, Ghinkul was part of a criminal conspiracy that disseminated Bugat, which is a multifunction malware package that automates the theft of confidential personal and financial information, such as online banking.
+- US DOJ, 2015-10-13: The indictment alleges that Ghinkul and his co-conspirators used the malware to steal banking credentials and then, using the stolen credentials, to initiate fraudulent electronic funds transfers of millions of dollars from the victims’ bank accounts into the accounts of money mules, who further transferred the stolen funds to other.
 
 <!-- RAW_TEXT_HIGHLIGHTS_END -->
 

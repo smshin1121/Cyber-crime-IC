@@ -78,7 +78,7 @@ participating_countries:
   - "[[kosovo]]"
   - "[[serbia]]"
   - "[[thailand]]"
-period: 4
+period: 1
 related_cases:
   - "[[us-v-bondarenko-infraud]]"
   - "[[us-v-telusma-infraud]]"

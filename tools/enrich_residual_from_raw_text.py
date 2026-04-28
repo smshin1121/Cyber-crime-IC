@@ -121,6 +121,26 @@ BOILERPLATE = (
     "updated ",
     "topic ",
     "component ",
+    "attorney programs",
+    "victim witness assistance",
+    "community outreach",
+    "project safe childhood",
+    "project safe neighborhoods",
+    "skip to content",
+    "quick exit",
+    "cymraeg",
+    "show submenu",
+    "we-megamenu",
+    "learn more about ice",
+    "ice check-in",
+    "news about hsi",
+    "enforcement and removal operations",
+    "student and exchange visitor program",
+    "report a crime",
+    "reporting sars",
+    "this is archived content",
+    "i am pleased to be joined",
+    "made the announcement",
     "linked source material",
     "follow-on operation catalog record",
     "operation-side pointer",
@@ -204,6 +224,10 @@ def split_sentences(text: str) -> list[str]:
 def is_substantive(sentence: str) -> bool:
     cleaned = clean_text(sentence, limit=360)
     if len(cleaned) < 75 or len(cleaned) > 360:
+        return False
+    if cleaned.startswith("(") or re.match(r"^(and|or|but|for|to|as well as)\s+", cleaned, re.I):
+        return False
+    if cleaned.endswith(" U.S.") or cleaned.endswith(" by U.S."):
         return False
     low = f" {cleaned.lower()} "
     if any(pattern in low for pattern in BOILERPLATE):

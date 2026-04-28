@@ -37,7 +37,7 @@ source_count: 1
 sources:
   - "[[2026-04-18_justice-gov_founder-and-majority-owner-bitzlato-cryptocurrency-exchange-charged-unlicensed-money]]"
 created: 2026-04-18
-updated: 2026-04-26
+updated: 2026-04-28
 summary: "Founder and Majority Owner of Bitzlato, a Cryptocurrency Exchange, Charged with Unlicensed Money Transmitting is documented in the linked source material. Available source coverage includes US DOJ USAO."
 ---
 ## Summary
@@ -79,9 +79,11 @@ Founder and Majority Owner of Bitzlato, a Cryptocurrency Exchange, Charged with 
 ## Raw Source Highlights
 
 - US DOJ USAO, 2023-01-18: Processed More than $700 Million Dollars’ Worth of Illicit Funds, Including Millions in Ransomware Proceeds Defendant Wrote on Bitzlato’s Internal Chat Room That its Users Were “Known to be Crooks” BROOKLYN, NY – A complaint was unsealed this morning in federal court in Brooklyn charging Anatoly Legkodymov, a Russian national and senior.
-- US DOJ USAO, 2023-01-18: (Bitzlato), a Hong Kong-registered cryptocurrency exchange, with conducting a money transmitting business that transported and transmitted illicit funds and that failed to meet U.S.
-- US DOJ USAO, 2023-01-18: Legkodymov was arrested last night in Miami and is scheduled to be arraigned this afternoon in the U.S.
 - US DOJ USAO, 2023-01-18: Turner, Associate Deputy Director, Federal Bureau of Investigation (FBI); and Michael J.
+- US DOJ USAO, 2023-01-18: Driscoll, Assistant Director-in-Charge, FBI, New York Field Office, announced the arrest and charge.
+- US DOJ USAO, 2023-01-18: “As alleged, Bitzlato sold itself to criminals as a no-questions-asked cryptocurrency exchange, and reaped hundreds of millions of dollars’ worth of deposits as a result.
+- US DOJ USAO, 2023-01-18: The defendant is now paying the price for the malign role that his company played in the cryptocurrency ecosystem.” “Today the Department of Justice dealt a significant blow to the cryptocrime ecosystem,” stated Deputy Attorney General Monaco.
+- US DOJ USAO, 2023-01-18: “Overnight, the Department worked with key partners here and abroad to disrupt Bitzlato, the China-based money laundering engine that fueled a high-tech axis of cryptocrime, and to arrest its founder, Russian national Anatoly Legkodymov.
 
 <!-- RAW_TEXT_HIGHLIGHTS_END -->
 

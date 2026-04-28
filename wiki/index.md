@@ -1,6 +1,6 @@
 # Wiki Index
 
-*Last updated: 2026-04-27 | Total pages: 7427 | Total sources: 4765*
+*Last updated: 2026-04-27 | Total pages: 7436 | Total sources: 4765*
 
 ## Legal Frameworks (22)
 - [[budapest-convention]] — First binding international treaty on cybercrime; 70+ parties; core IC provisions (Art. 29, 31, 32, 35)
@@ -34,8 +34,8 @@
 - [[united-kingdom]] — Common law; Budapest party (2011); NCA (NCCU); led Operation Cronos; Five Eyes; post-Brexit Europol cooperation
 - [[united-states]] — Common law; Budapest party (2006); FBI/DOJ/Secret Service; CLOUD Act; 30+ MLATs; highest IC network centrality
 
-## Operations (112 canonical / 973 absorbed / 1085 records)
-See the operations index (`wiki/operations/_index.md`) for the full list of 112 canonical operations (973 absorbed follow-on records; 1085 total records) (2014-2026).
+## Operations (111 canonical / 974 absorbed / 1085 records)
+See the operations index (`wiki/operations/_index.md`) for the full list of 111 canonical operations (974 absorbed follow-on records; 1085 total records) (2014-2026).
 
 Recent highlights:
 - [[proxy-service-takedown-2026-03]] — Eurojust + Europol (2026); FR/AT/NL/US (+4 unnamed); 102 victim countries
@@ -87,6 +87,6 @@ See the sources index (`wiki/sources/_index.md`) for the full list of 4765 dedic
 
 Distribution: Europol 6, INTERPOL 10, US DOJ 3, Korea NPA 1, News 3. Additional operations sourced from Excel batch import (no dedicated source pages).
 
-## Analysis (30)
+## Analysis (39)
 - [[ic-statistics-dashboard]] — 사이버범죄 국제공조 통계 대시보드: INTERPOL 2014-2024 연도별 현황, 2모드 네트워크 중심성, 작전 집계
 

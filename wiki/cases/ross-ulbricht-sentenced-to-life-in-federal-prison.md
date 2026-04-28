@@ -40,7 +40,7 @@ source_count: 1
 sources:
   - "[[2015-05-29_ice-gov_ross-ulbricht-sentenced-to-life-in-federal-prison]]"
 created: 2026-04-18
-updated: 2026-04-26
+updated: 2026-04-28
 summary: "Ross Ulbricht Sentenced to Life in Federal Prison is documented in the linked source material. The Silk Road takedown was the seizure and shutdown of the pioneering dark web drug marketplace on 2 October 2013, accompanied by the arrest of its creator and operator, Ross William Ulbricht (alias \"Dread Pirate Roberts\" or \"DPR\"), by the FBI in San Francisco. Available source coverage includes US ICE."
 ---
 ## Summary
@@ -86,10 +86,11 @@ Ross Ulbricht Sentenced to Life in Federal Prison is documented in the linked so
 
 ## Raw Source Highlights
 
-- US ICE, 2015-05-29: ET: Results of Nationwide Law Enforcement Effort Press Conference ICE Check-in for Aliens Get information about how to check in with your local ICE Office here .
-- US ICE, 2015-05-29: Immigration and Customs Enforcement Learn More About ICE " class="we-megamenu-nolink" title="Click here to open the Enforcement and Removal Operations menu"> Enforcement and Removal Operations Identify and Arrest Criminal Alien Program Fugitive Operations Law Enforcement Partnerships 287g Program Immigration Fraud Prosecutions Detain.
-- US ICE, 2015-05-29: News about HSI Protecting National Security Preventing Crimes of Exploitation Operation Identify Ensuring Public Safety Upholding the Law in Global Trade Investigating Cybercrime Combating Financial Crime Student and Exchange Visitor Program (SEVP) " class="we-megamenu-nolink" title="Click here to open the Newsroom menu"> Newsroom News.
 - US ICE, 2015-05-29: Additional victims include: Bryan B., a 25-year-old from Boston, Massachusetts and Scott W., a 36-year-old from Australia, who both died as a result of heroin purchased from Silk Road; and Jacob B., a 22-year-old from Australia, who died from health complications that were aggravated by the use of drugs purchased from Silk Road.
+- US ICE, 2015-05-29: Using the online moniker “Dread Pirate Roberts,” or “DPR,” Ulbricht controlled and oversaw every aspect of Silk Road, and managed a staff of paid, online administrators and computer programmers who assisted with the day-to-day operation of the site.
+- US ICE, 2015-05-29: Through his ownership and operation of Silk Road, Ulbricht reaped commissions worth more than $13 million generated from the illicit sales conducted through the site.
+- US ICE, 2015-05-29: Bharara also thanked the HSI Chicago-O’Hare office for its assistance and support, as well as the Department of Justice’s Computer Crime and Intellectual Property Section and Office of International Affairs.
+- US ICE, 2015-05-29: Additionally, Bharara praised the foreign law enforcement partners whose contributions to the success of the investigation and prosecution have been invaluable, namely, the Reykjavik Metropolitan Police of the Republic of Iceland, and the French Republic’s Central Office for the Fight Against Crime Linked to Information Technology and.
 
 <!-- RAW_TEXT_HIGHLIGHTS_END -->
 

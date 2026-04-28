@@ -23,7 +23,7 @@ source_count: 1
 sources:
   - "[[2026-04-18_justice-gov_canadian-hacker-who-conspired-and-aided-russian-fsb-officers-pleads-guilty]]"
 created: 2026-04-18
-updated: 2026-04-26
+updated: 2026-04-28
 summary: "Canadian Hacker Who Conspired With And Aided Russian FSB Officers Pleads Guilty is documented in the linked source material. Available source coverage includes US DOJ USAO."
 ---
 ## Summary
@@ -69,6 +69,8 @@ Canadian Hacker Who Conspired With And Aided Russian FSB Officers Pleads Guilty 
 - US DOJ USAO, 2017-11-28: Baratov, 22, a Canadian national and resident, and three other defendants, including two officers of the Russian Federal Security Service (“FSB”), Russia’s domestic law enforcement and intelligence service, were charged with computer hacking and other criminal offenses in connection with a conspiracy to access Yahoo’s network and the.
 - US DOJ USAO, 2017-11-28: According to his plea agreement, Baratov’s role in the charged conspiracy was to hack webmail accounts of individuals of interest to the FSB and send those accounts’ passwords to Dokuchaev for money.
 - US DOJ USAO, 2017-11-28: “With the assistance of our law enforcement partners in Canada, we were able to track down and apprehend a prolific criminal hacker who had sold his services to Russian government agents.
+- US DOJ USAO, 2017-11-28: “Today’s plea exemplifies the Department’s commitment to pursuing, arresting, and bringing to justice even those hackers who work for a foreign law enforcement or intelligence organization.
+- US DOJ USAO, 2017-11-28: We wish to thank the Canadian authorities for their skillful assistance in the investigation and arrest of Baratov and to acknowledge the contributions of the other nations and law enforcement services that provided invaluable assistance.
 
 <!-- RAW_TEXT_HIGHLIGHTS_END -->
 

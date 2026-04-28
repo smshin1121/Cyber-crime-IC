@@ -35,7 +35,7 @@ source_count: 1
 sources:
   - "[[2026-04-18_justice-gov_2-defendants-charged-us-courts-part-global-crackdown-booter-services-offering]]"
 created: 2026-04-18
-updated: 2026-04-26
+updated: 2026-04-28
 summary: "2 Defendants Charged in U.S. Courts as Part of Global Crackdown on ‘Booter’ Services Offering Distributed Denial-of-Service Attacks is documented in the linked source material. Available source coverage includes US DOJ USAO."
 ---
 ## Summary
@@ -81,6 +81,8 @@ summary: "2 Defendants Charged in U.S. Courts as Part of Global Crackdown on ‘
 - US DOJ USAO, 2024-12-11: Federal law enforcement is now seizing the websites that allowed paying users to launch powerful distributed denial-of-service (DDoS) attacks that flood targeted computers with information and prevent them from being able to access the internet.
 - US DOJ USAO, 2024-12-11: Booter services such as those named in this action allegedly attacked a wide array of victims in the United States and abroad, including educational institutions, government agencies, gaming platforms and millions of people.
 - US DOJ USAO, 2024-12-11: The websites targeted in this operation were used to launch millions of actual or attempted DDoS attacks targeting victims worldwide.
+- US DOJ USAO, 2024-12-11: “Booter services facilitate cyberattacks that harm victims and compromise everyone’s ability to access the internet,” said United States Attorney Martin Estrada for the Central District of California.
+- US DOJ USAO, 2024-12-11: “This week’s sweeping law enforcement activity is a major step in our ongoing efforts to eradicate criminal conduct that threatens the internet’s infrastructure and our ability to function in a digital world.
 
 <!-- RAW_TEXT_HIGHLIGHTS_END -->
 
